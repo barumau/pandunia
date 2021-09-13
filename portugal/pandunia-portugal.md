@@ -368,6 +368,7 @@ fatige - fadiga
 fatura - conta (fatura)  
 fei - voo  
 fei - voar  
+fen - parte  
 fen gata - análise  
 filsofi - filosofia  
 fiorde - fiorde  
@@ -627,6 +628,7 @@ ke sate - quando
 Keme - Antigo Egito  
 kerne - núcleo (cerne)  
 kesha hin - despelado  
+ki - que  
 kiau - ponte  
 kimi - substância  
 kimi logi - química  
@@ -744,6 +746,7 @@ loga - falar
 loga - fala (palavras)  
 loga asal - etimologia  
 loga di - léxico  
+loga fen - sílaba  
 loga jama - vocabulário  
 loga so - palavra (vocábulo)  
 loge - registro  

@@ -200,6 +200,7 @@
 |**fatura**|addition (facture)|fra:facture, spa:factura, por:tur:fatura, rus:фактура (faktura), ara: فَاتُورَة‎ (fātūra)|
 |**faze**|phase|spa:por:ita:may:fase, eng:fra:phase, rus:фаза (faza), pol:faza, fas:(fāz)|
 |**fei**|voler|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
+|**fen**|part|zho:分 (fèn), wuu:分 (fén), yue:分 (fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
 |**filsofi**|philosophie|eng:philosophy, fra:philosophie, spa:por:filosofia, rus:философия (filosofiya), ara: فَلْسَفَة (falsafa), hin:फ़लसफ़ा (falsafā), may:filsafat, swa:falsafa, tur:felsefe|
 |**fiorde**|fiord|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |**fito**|plante (végétal)|eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|
@@ -332,6 +333,7 @@
 |**ke**|que (quoi)|fra:que, spa:qué, por:o que + ben:কে  (ke)|
 |**Keme**|Égypte antique|cop:ⲕⲏⲙⲉ (kēme)|
 |**kerne**|coeur|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
+|**ki**|que|fra:spa:por:que, hin:कि (ki), tur:ki, fas: که‎ (ke), urd: کہ‎ (ke)|
 |**kiau**|pont|zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jjiau3), jpn:橋 (kyō), vie:cầu|
 |**kimi**|substance|eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya|
 |**kinar**|bord|hin:किनारा (kinārā), ben:কিনারা (kinara), tur:kenar, fas: کنار‎ (kenâr)|

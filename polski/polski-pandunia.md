@@ -667,7 +667,7 @@ fonologia - fon logi
 fontanna (studnia, źródło) - fonte  
 forma, kształt, morf - forma  
 formatowanie - kitabu forma  
-formularz (kwestionariusz) - sual dokum  
+formularz (kwestionariusz) - sual dokumen  
 forum - forum  
 fosfor - pospor  
 fotograf - foto grafi ja  
@@ -933,7 +933,7 @@ Izrael - Israel
 iść (przemieścić się) - be kite  
 iść w dół (iść pod spód, iść na dno) - be niche  
 iść wzdłuż (pójść wzdłuż) - be ging  
-iść, maszerować - marche  
+iść, maszerować - fa marche  
 ####J - J  
 ja, mnie - mi  
 jabłko - aple  
@@ -2752,6 +2752,7 @@ suszyć (wysuszyć) - fa gan
 Swalbard - Sualbarde  
 swastyka - huke krus  
 Syberia - Sibiria  
+sylaba (zgłoska) - loga fen  
 syn - man ben  
 sypialnia - sona kamar  
 Syria - Suria  
@@ -3558,6 +3559,7 @@ zły, zrujnowany, zepsuty - harabu
 żal, smutek - duka  
 żart - joke  
 żartowniś, dowcipniś - joke ja  
+że - ki  
 żeglarz (marynarz) - nave ja  
 żeglować (płynąć) - nave gou  
 żegnaj, dobre odejście - salam chuti  

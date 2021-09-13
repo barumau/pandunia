@@ -926,6 +926,7 @@ papoila-dormideira - sona papi
 par - par jan  
 para-lama - fan defa ban  
 parque - parke  
+parte - fen  
 partida - meche  
 parâmetro - param  
 passagem - pas dau  
@@ -1036,6 +1037,7 @@ quarto (dormitório) - sona kamar
 quartzo - kuarze  
 quatro (4) - nelu  
 que (como) - ka  
+que - ki  
 queijo - chize  
 queijo fresco - panir  
 queimar - fa hogo  
@@ -1185,6 +1187,7 @@ sábado - var luka
 São Paulo - Sante Paulo  
 século - sento nen  
 série (sequência) - sili  
+sílaba - loga fen  
 só (solitário) - unike jan di  
 ####T - T  
 tablet - table komputa  

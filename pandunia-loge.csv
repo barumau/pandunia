@@ -1015,6 +1015,7 @@ fa lon||||debate (discuss)||debatir (discutir)||||||||||||||keskustelu (debatti)
 fa long||||lengthen (prolong)||alargar|||||||||||||longigi|pidentää|przedłużyć, przedłużać
 fa maf||||forgive (pardon)|pardonner|perdonar (disculpar)|perdoar (desculpar)|||||||माफ करना||memaafkan|kusamehe|affetmek|pardoni|antaa anteeksi|
 fa mal||||own (possess, have)||poseer (tener, ser dueño de)||||||||||||||omistaa|mieć (posiadać)
+fa marche||||walk (march)||caminar (marchar, andar)|||||||||||||promeni (marŝi)|kävellä|iść, maszerować
 fa marke||||mark (leave a mark)||marcar||||||||||||||merkitä (jättää jälki)|zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad
 fa mas||||increase||||||||||||||||lisätä (enentää)|
 fa mas lika||||reinforce (replenish)|||||||||||||||||wesprzeć (wzmocnić, zasilić)
@@ -1186,7 +1187,7 @@ fem ben||||daughter||hija|||||||||||||filino|tyttölapsi|córka
 fem raja||||queen||reina|||||女王|||||||||kuningatar|królowa
 fem sim||||feminism||feminismo||||||||||||||feminismi|feminizm
 fem sim ja||||feminist||feministe||||||||||||||feministi|feminista (feministka)
-fen|||zho:分 (fèn), wuu:(fén), yue:(fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|part (fraction)||parte (fracción)|||||||||||||parto (frakcio)|osa (pala)|część, ułamek
+fen|||zho:分 (fèn), wuu:分 (fén), yue:分 (fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|part (component, segment, fraction, distinct element of something larger)|part|parte (fracción)|parte|parte||部分|部分|부분|phần|अंश|অংশ |suku (bagian)|sehemu|parça|parto (frakcio)|osa (lohko, pala)|część, ułamek
 fen di||||partial||parcial|||||部分的|||||||||osittainen|
 fen gata||||analysis (dissection)|analyse|análisis (disección)|análise|анализ||分析|分析 (解析)|||विश्लेषण||||analiz|analizo|analyysi|analiza
 fendona||||contribute||contribuir||||||||||||||osallistua (tehdä osansa)|wnieć wkład (przyczynić się)
@@ -1962,6 +1963,7 @@ kesha bande||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hius
 kesha hin||||hairless|glabre|pelado (desvellado)|despelado|безволосый||无毛|無毛|||केशहीन|||||senhara|karvaton|
 kesha sabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
 ketel|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle||hervidor (tetera)||||||||||||||kattila|czajnik
+ki|funsi||fra:spa:por:que, hin:कि (ki), tur:ki, fas: که‎ (ke), urd: کہ‎ (ke)|that (conjunction)|que|que|que|что||||||कि||bahawa||ki|ke|että|że
 kiau|||zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jjiau3), jpn:橋 (kyō), vie:cầu|bridge|pont|puente|ponte|||桥|||||||||ponto|silta|most
 kilo|numbe|1000|eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|thousand (kilo-)||mil (kilo-)|||||千 (１０００)||||||||mil (kilo-)|tuhat (kilo-)|tysiąc (kilo-)
 kilogram|unomete|kg||kilogram (kg)||kilograma||||||||||||||kilogramma|kilogram (kg)
@@ -2263,6 +2265,7 @@ loga||||say (speak, talk)|parler|decir (hablar)|falar|говорить|تَكَ�
 loga|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|speech (talk, words)|parole (mots)|habla (palabras)|fala (palavras)|речь||语言|演説|말|ngôn từ|बात (बोल)|জবান|||söz|parolo|puhe (sanat)|słowo (mowa)
 loga asal||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|etymologia
 loga di||||spoken (lexical)|lexical|léxico|léxico|лексический|||||||||||vorta|sanallinen (puhuttu)|słowny (leksykalny)
+loga fen||||syllable|syllabe|sílaba|sílaba|слог||音节|音節|음절|âm tiết|शब्दांश||suku kata|silabi|hece|silabo|tavu|sylaba (zgłoska)
 loga fili||||logophilia||||||||||||||||logofilia|
 loga fili ja||||logophile (word buff)||||||||||||||||logofiili|logofil (miłośnik słów)
 loga ironi||||verbal irony (sarcasm)|||||||||||||||||sarkazm
@@ -2372,8 +2375,7 @@ mantu|||tur:mantı, rus:манты (manty), kor:만두 (mandu), zho:馒头 (mán
 mar|||ara: مرة (marra), swa:mara, hin:बार (bār), fas:urd: بار‎(bār), deu:Mal|time (instance, occasion)|fois|vez|vez|раз|مرة|次 (度, 遍)|回 (次, 度)|회 (번, 차)|lần|बार (दफ़ा)|||mara|kere (defa)|fojo|kerta (vuoro)|czas; okazja
 marati|nas|||Marathi||maratí||||||||||||||marathi (eräs intialainen kieli)|marathi
 maraton|||eng:marathon, spa:maratón, por:maratona, rus:марафо́н (marafón), tur:maraton, ara:مَارَاثُون‎ (mārāṯūn), hin:मैराथन (mairāthan), ben:ম্যারাথন (mjarathôn), zho:马拉松 (mǎlāsōng), jpn:マラソン (marason)|marathon||maratón|||||||||||||maratono|maratoni|maraton
-marche||||walk (march)||caminar (marchar, andar)|||||||||||||promeni (marŝi)|kävellä|iść, maszerować
-marche|||eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi||marche|marcha|marcha|марш|||||||||machi|marş|promeno (marŝo)|kävely (marssi)|
+marche|||eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi|walk (march)|marche|marcha|marcha|марш|||||||||machi|marş|promeno (marŝo)|kävely (marssi)|
 margai|bio|Leopardus wiedii|eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)|margay|margay (chat-tigre)|gato tigre (maracayá)|gato-maracajá|маргай||長尾虎貓|マーゲイ||||||||||margaj (ocelot nadrzewny)
 margarin|||eng:fra:margarine, spa:por:margarina, rus:маргари́н (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)|margarine||margarina|||||||||||||margarino|margariini|margaryna
 margarita|bio||spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|daisy||margarita|margarida|маргаритка|||||||||||||stokrotka
@@ -3570,7 +3572,7 @@ su|prep.||eng:’s, deu:ned:-s, afr:se + fra:son;sa, spa:su, por:seu|possessive 
 suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
 sual|||ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
 sual di||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
-sual dokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
+sual dokumen||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 sual tema||||issue (affair, concern)||asunto (caso)||||||||||||||asia (juttu)|kwestia, problem
 Sualbarde|desha|||Svalbard||Svalbard||||||||||||||Svalbard|Swalbard
 suan|||zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|sour||agrio (ácido)|||||||||||||acida|hapan (kirpeä)|kwaśny

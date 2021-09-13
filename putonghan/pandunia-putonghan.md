@@ -351,6 +351,7 @@ fate - 事实
 fatura - 帐单  
 fei - 飞  
 fem - 女  
+fen - 部分  
 fen gata - 分析  
 filme - 膜  
 filsofi - 哲学  
@@ -720,6 +721,7 @@ liste - 单子
 litre - 升  
 loga - 说话 (讲)  
 loga - 语言  
+loga fen - 音节  
 loga jama - 词汇  
 loga so - 词  
 loge - 纪录  

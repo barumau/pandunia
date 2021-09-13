@@ -164,6 +164,7 @@
 |**fatige**|fadiga|eng:fra:fatigue, spa:fatiga, por:fadiga, ita:fatica|
 |**fatura**|conta (fatura)|fra:facture, spa:factura, por:tur:fatura, rus:фактура (faktura), ara: فَاتُورَة‎ (fātūra)|
 |**fei**|voar|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
+|**fen**|parte|zho:分 (fèn), wuu:分 (fén), yue:分 (fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
 |**filsofi**|filosofia|eng:philosophy, fra:philosophie, spa:por:filosofia, rus:философия (filosofiya), ara: فَلْسَفَة (falsafa), hin:फ़लसफ़ा (falsafā), may:filsafat, swa:falsafa, tur:felsefe|
 |**fiorde**|fiorde|nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|
 |**fito**|planta (vegetal)|eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|
@@ -290,6 +291,7 @@
 |**ke**|o que|fra:que, spa:qué, por:o que + ben:কে  (ke)|
 |**Keme**|Antigo Egito|cop:ⲕⲏⲙⲉ (kēme)|
 |**kerne**|núcleo (cerne)|eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|
+|**ki**|que|fra:spa:por:que, hin:कि (ki), tur:ki, fas: که‎ (ke), urd: کہ‎ (ke)|
 |**kiau**|ponte|zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jjiau3), jpn:橋 (kyō), vie:cầu|
 |**kimi**|substância|eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya|
 |**kinar**|margem (borda)|hin:किनारा (kinārā), ben:কিনারা (kinara), tur:kenar, fas: کنار‎ (kenâr)|

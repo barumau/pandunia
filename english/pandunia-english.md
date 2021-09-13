@@ -1012,6 +1012,7 @@ fa lon - debate (discuss)
 fa long - lengthen (prolong)  
 fa maf - forgive (pardon)  
 fa mal - own (possess, have)  
+fa marche - walk (march)  
 fa marke - mark (leave a mark)  
 fa mas - increase  
 fa mas lika - reinforce (replenish)  
@@ -1183,7 +1184,7 @@ fem ben - daughter
 fem raja - queen  
 fem sim - feminism  
 fem sim ja - feminist  
-fen - part (fraction)  
+fen - part (component, segment, fraction, distinct element of something larger)  
 fen di - partial  
 fen gata - analysis (dissection)  
 fendona - contribute  
@@ -1958,6 +1959,7 @@ kesha bande - hairband (headband)
 kesha hin - hairless  
 kesha sabun - shampoo  
 ketel - kettle  
+ki - that (conjunction)  
 kiau - bridge  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
@@ -2258,6 +2260,7 @@ loga - say (speak, talk)
 loga - speech (talk, words)  
 loga asal - etymology  
 loga di - spoken (lexical)  
+loga fen - syllable  
 loga fili - logophilia  
 loga fili ja - logophile (word buff)  
 loga ironi - verbal irony (sarcasm)  
@@ -3560,7 +3563,7 @@ su - possessive postposition (’s)
 suahili - Swahili  
 sual - question (query, inquiry)  
 sual di - interrogative  
-sual dokum - form (questionaire)  
+sual dokumen - form (questionaire)  
 sual tema - issue (affair, concern)  
 Sualbarde - Svalbard  
 suan - sour  

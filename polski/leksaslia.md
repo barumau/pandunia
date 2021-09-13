@@ -320,7 +320,7 @@
 |**febre**|gorączka|por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre|
 |**fei**|latać, lecieć|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
 |**fem**|kobieta; kobiecy|fra:femme, por:fêmea, eng:female|
-|**fen**|część, ułamek|zho:分 (fèn), wuu:(fén), yue:(fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
+|**fen**|część, ułamek|zho:分 (fèn), wuu:分 (fén), yue:分 (fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
 |**feru**|żelazo|spa:hierro, por:ferro, fra:fer, may:ferum|
 |**festa**|przyjęcie, święto, festiwal|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival'), may:pesta|
 |**figur**|figura, reprezentacja|eng:fra:figure, spa:por:figura|
@@ -612,6 +612,7 @@
 |**kerubi**|cherubin|heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|
 |**kesha**|włos|jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|
 |**ketel**|czajnik|eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|
+|**ki**|że|fra:spa:por:que, hin:कि (ki), tur:ki, fas: که‎ (ke), urd: کہ‎ (ke)|
 |**kiau**|most|zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jjiau3), jpn:橋 (kyō), vie:cầu|
 |**kilo**|tysiąc (kilo-)|eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|
 |**kinar**|granica, skraj, brzeg, krawędź|hin:किनारा (kinārā), ben:কিনারা (kinara), tur:kenar, fas: کنار‎ (kenâr)|

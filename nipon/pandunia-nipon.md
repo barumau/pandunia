@@ -353,6 +353,7 @@ fei - 飛ぶ
 fei mushu - こうもり (飛鼠)  
 fem - 女  
 fem raja - 女王  
+fen - 部分  
 fen di - 部分的  
 fen gata - 分析 (解析)  
 filme - フィルム (膜)  
@@ -722,6 +723,7 @@ lisan - 舌
 litre - リットル  
 loga - 話す  
 loga - 演説  
+loga fen - 音節  
 loga jama - 語彙  
 loga so - 言葉  
 loge - 記録  
@@ -1140,7 +1142,7 @@ sosi - 社会
 sosi jinse - ジェンダー  
 sosis - ソーセージ  
 sual - 質問 (問題)  
-sual dokum - アンケート (質問用紙)  
+sual dokumen - アンケート (質問用紙)  
 suba - 朝  
 suba yam - 朝食  
 sui - 水  

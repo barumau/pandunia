@@ -330,7 +330,7 @@
 |**febre**|kuume|portugali:febre, espanja:fiebre, deu:Fieber, englanti:fever, ranska:fièvre|
 |**fei**|lentää|yleiskiina:飞 (fēi), kantoninkiina:飛 (fei1), wu-kiina:飛 (fi1), japani:飛 (hi), korea:비 (bi), vietnami:bay|
 |**fem**|naaras|ranska:femme, portugali:fêmea, englanti:female|
-|**fen**|osa (pala)|yleiskiina:分 (fèn), wu-kiina:(fén), kantoninkiina:(fan), vietnami:phần, thai:ปัน (pan), japani:分 (bun), korea:분 (bun)|
+|**fen**|osa (lohko, pala)|yleiskiina:分 (fèn), wu-kiina:分 (fén), kantoninkiina:分 (fan), vietnami:phần, thai:ปัน (pan), japani:分 (bun), korea:분 (bun)|
 |**feru**|rauta|espanja:hierro, portugali:ferro, ranska:fer, malaiji:ferum|
 |**festa**|juhlat|portugali:festa, espanja:fiesta, ranska:fête, deu:Fest, englanti:festival, venäjä:фестиваль (festival'), malaiji:pesta|
 |**figur**|hahmo (figuuri)|englanti:ranska:figure, espanja:portugali:figura|
@@ -620,6 +620,7 @@
 |**kerubi**|kerubi|heb:כְּרוּב‎ (kerúv), englanti:cherub, espanja:querubín, portugali:querubim, ranska:chérubin, venäjä:херувим (heruvim), suahili:kerubi, malaiji:kerub, yleiskiina:基路伯 (jīlùbó)|
 |**kesha**|hius (karva, tukka, hiukset)|japani:毛 (ke), hindi:केश (keś), urdu:(keś), pandzabi:ਕੇਸ਼ (keś), telugu:(kēśamu), kannada:(kēśa)|
 |**ketel**|kattila|englanti:kettle, venäjä:котёл (kot’ol), hindi:केतली (ketlī), bangla:কেতলি (ketli), malaiji:ketel|
+|**ki**|että|ranska:espanja:portugali:que, hindi:कि (ki), turkki:ki, persia: که‎ (ke), urdu: کہ‎ (ke)|
 |**kiau**|silta|yleiskiina:桥 (qiáo), kantoninkiina:橋 (kiu4), wu-kiina:橋 (jjiau3), japani:橋 (kyō), vietnami:cầu|
 |**kilo**|tuhat (kilo-)|englanti:ranska:espanja:portugali:malaiji:turkki:kilo-, venäjä:кило- (kilo-), japani:キロ- (kiro-), korea:킬로- (killo-)|
 |**kimi**|aine (aines, materia)|englanti:chemistry, ranska:chimie, espanja:portugali:química, venäjä:химия (himiya), arabia:(kīmiyāʾ), malaiji:kimia, suahili:kemia, turkki:kimya|

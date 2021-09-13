@@ -253,7 +253,7 @@
 |**febre**|febro|portugala:febre, hispana:fiebre, deu:Fieber, angla:fever, franca:fièvre|
 |**fei**|flugi|mandarena:飞 (fēi), kantona:飛 (fei1), vua:飛 (fi1), japana:飛 (hi), korea:비 (bi), vjetnama:bay|
 |**fem**|ino|franca:femme, portugala:fêmea, angla:female|
-|**fen**|parto (frakcio)|mandarena:分 (fèn), vua:(fén), kantona:(fan), vjetnama:phần, taja:ปัน (pan), japana:分 (bun), korea:분 (bun)|
+|**fen**|parto (frakcio)|mandarena:分 (fèn), vua:分 (fén), kantona:分 (fan), vjetnama:phần, taja:ปัน (pan), japana:分 (bun), korea:분 (bun)|
 |**feru**|fero|hispana:hierro, portugala:ferro, franca:fer, malaja:ferum|
 |**festa**|festo|portugala:festa, hispana:fiesta, franca:fête, deu:Fest, angla:festival, rusa:фестиваль (festival'), malaja:pesta|
 |**figur**|figuro|angla:franca:figure, hispana:portugala:figura|
@@ -468,6 +468,7 @@
 |**keke**|kuko|angla:cake, rusa:кекс (keks), araba:(kaʿka), hindia:केक (kek), japana:ケーキ (kēki), svahila:keki, turka:kek|
 |**kerne**|kerno (koro)|angla:kernel, franca:coeur, portugala:cerne, hindia:केंद्र (kendr)|
 |**kesha**|haro|japana:毛 (ke), hindia:केश (keś), urdua:(keś), panĝaba:ਕੇਸ਼ (keś), teluga:(kēśamu), kanara:(kēśa)|
+|**ki**|ke|franca:hispana:portugala:que, hindia:कि (ki), turka:ki, persa: که‎ (ke), urdua: کہ‎ (ke)|
 |**kiau**|ponto|mandarena:桥 (qiáo), kantona:橋 (kiu4), vua:橋 (jjiau3), japana:橋 (kyō), vjetnama:cầu|
 |**kilo**|mil (kilo-)|angla:franca:hispana:portugala:malaja:turka:kilo-, rusa:кило- (kilo-), japana:キロ- (kiro-), korea:킬로- (killo-)|
 |**kinar**|rando (orlo)|hindia:किनारा (kinārā), bengala:কিনারা (kinara), turka:kenar, persa: کنار‎ (kenâr)|

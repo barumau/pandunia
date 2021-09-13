@@ -373,7 +373,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**febre**|por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre|
 |**fei**|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
 |**fem**|fra:femme, por:fêmea, eng:female|
-|**fen**|zho:分 (fèn), wuu:(fén), yue:(fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
+|**fen**|zho:分 (fèn), wuu:分 (fén), yue:分 (fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
 |**feru**|spa:hierro, por:ferro, fra:fer, may:ferum|
 |**festa**|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival'), may:pesta|
 |**figur**|eng:fra:figure, spa:por:figura|
@@ -677,6 +677,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**kerubi**|heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|
 |**kesha**|jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|
 |**ketel**|eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|
+|**ki**|fra:spa:por:que, hin:कि (ki), tur:ki, fas: که‎ (ke), urd: کہ‎ (ke)|
 |**kiau**|zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jjiau3), jpn:橋 (kyō), vie:cầu|
 |**kilo**|eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|
 |**kimi**|eng:chemistry, fra:chimie, spa:por:química, rus:химия (himiya), ara:(kīmiyāʾ), may:kimia, swa:kemia, tur:kimya|

@@ -923,6 +923,7 @@ fa lon - keskustelu (debatti)
 fa long - pidentää  
 fa maf - antaa anteeksi  
 fa mal - omistaa  
+fa marche - kävellä  
 fa marke - merkitä (jättää jälki)  
 fa mas - lisätä (enentää)  
 fa mata - tappaa  
@@ -1072,7 +1073,7 @@ fem ben - tyttölapsi
 fem raja - kuningatar  
 fem sim - feminismi  
 fem sim ja - feministi  
-fen - osa (pala)  
+fen - osa (lohko, pala)  
 fen di - osittainen  
 fen gata - analyysi  
 fendona - osallistua (tehdä osansa)  
@@ -1755,6 +1756,7 @@ kesha bande - hiuspanta
 kesha hin - karvaton  
 kesha sabun - šampoo  
 ketel - kattila  
+ki - että  
 kiau - silta  
 kilogram - kilogramma  
 kilomitre - kilometri  
@@ -2008,6 +2010,7 @@ loga - sanoa (puhua)
 loga - puhe (sanat)  
 loga asal - etymologia  
 loga di - sanallinen (puhuttu)  
+loga fen - tavu  
 loga fili - logofilia  
 loga fili ja - logofiili  
 loga jama - sanasto  
@@ -2107,7 +2110,6 @@ mantu - täytetty pulla
 mar - kerta (vuoro)  
 marati - marathi (eräs intialainen kieli)  
 maraton - maratoni  
-marche - kävellä  
 marche - kävely (marssi)  
 margarin - margariini  
 marke - merkki (jälki)  
@@ -3122,7 +3124,7 @@ su - -n (oma)
 suahili - suahili  
 sual - kysymys  
 sual di - kysyvä  
-sual dokum - kyselylomake  
+sual dokumen - kyselylomake  
 sual tema - asia (juttu)  
 Sualbarde - Svalbard  
 suan - hapan (kirpeä)  

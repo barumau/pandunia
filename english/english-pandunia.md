@@ -1388,7 +1388,7 @@ forest (woods, jungle) - jangal
 forget - an memo  
 forgive (pardon) - fa maf  
 fork - forke  
-form (questionaire) - sual dokum  
+form (questionaire) - sual dokumen  
 form (shape, morph) - forma  
 formatting - kitabu forma  
 fortress (castle, fort, stronghold) - burge  
@@ -2647,7 +2647,7 @@ parent-in-law - gami chin
 Paris - Paris  
 park (garden) - parke  
 parrot (parakeet) - papagai  
-part (fraction) - fen  
+part (component, segment, fraction, distinct element of something larger) - fen  
 partial - fen di  
 participant - parti ja  
 participate (attend, partake, take part) - fa parti  
@@ -3540,6 +3540,7 @@ sweet orange - sukar oranje
 sweet potato - kamote  
 Switzerland - Suise  
 sword - katana  
+syllable - loga fen  
 symmetry (symmetrical) - sam metre  
 Syria - Suria  
 syrup - shirope  
@@ -3636,6 +3637,7 @@ than (as, compared to, relative to) - ka
 thank - fa shukra  
 thanks (thank you) - shukra  
 thanks to - shukra da  
+that (conjunction) - ki  
 that is (in other words, i.e., alias) - alo nam  
 that over there - go  
 the (that) - la  
@@ -3907,6 +3909,7 @@ wait - deng
 wake (become awake) - be jaga  
 wake (make awake) - jaga  
 Wales (Cambria) - Kamri  
+walk (march) - fa marche  
 walk (march) - marche  
 wall (structure for delimitation) - mur  
 Wallis and Futuna Islands - Valis e Futuna nesia  

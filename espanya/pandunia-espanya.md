@@ -903,6 +903,7 @@ fa lon - debatir (discutir)
 fa long - alargar  
 fa maf - perdonar (disculpar)  
 fa mal - poseer (tener, ser dueño de)  
+fa marche - caminar (marchar, andar)  
 fa marke - marcar  
 fa mata - matar (morir, asesinar)  
 fa meche - competir  
@@ -1764,6 +1765,7 @@ kesha bande - cinta (cinta para el pelo)
 kesha hin - pelado (desvellado)  
 kesha sabun - champú  
 ketel - hervidor (tetera)  
+ki - que  
 kiau - puente  
 kilogram - kilograma  
 kilomitre - kilometre  
@@ -2035,6 +2037,7 @@ loga - decir (hablar)
 loga - habla (palabras)  
 loga asal - etimología  
 loga di - léxico  
+loga fen - sílaba  
 loga jama - vocabulario (léxico)  
 loga liste - disionario (lexicón)  
 loga so - palabra (vocablo)  
@@ -2132,7 +2135,6 @@ mantu - panecillos al vapor (mantou)
 mar - vez  
 marati - maratí  
 maraton - maratón  
-marche - caminar (marchar, andar)  
 marche - marcha  
 margai - gato tigre (maracayá)  
 margarin - margarina  
@@ -3241,7 +3243,7 @@ su - de (posposición de posesión)
 suahili - suajili  
 sual - pregunta  
 sual di - interrogativa  
-sual dokum - formulario  
+sual dokumen - formulario  
 sual tema - asunto (caso)  
 Sualbarde - Svalbard  
 suan - agrio (ácido)  

@@ -527,6 +527,7 @@ fa lenshi - ekzerci
 fa loka - lokigi  
 fa long - longigi  
 fa maf - pardoni  
+fa marche - promeni (marŝi)  
 fa mata - mortigi  
 fa memo - memori  
 fa nia - celi  
@@ -986,6 +987,7 @@ kerne fizika - kernfiziko
 kesha - haro  
 kesha hin - senhara  
 kesha sabun - ŝampuo  
+ki - ke  
 kiau - ponto  
 kilomitre - kilometro  
 kimi logi - ĥemio (kemio)  
@@ -1115,6 +1117,7 @@ loga - paroli
 loga - parolo  
 loga asal - etimologio  
 loga di - vorta  
+loga fen - silabo  
 loga jama - vortaro  
 loga liste - vortaro  
 loga so - vorto  
@@ -1155,7 +1158,6 @@ mang - okupata
 mangan - mangano  
 mar - fojo  
 maraton - maratono  
-marche - promeni (marŝi)  
 marche - promeno (marŝo)  
 margarin - margarino  
 mas - pli  

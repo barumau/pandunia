@@ -1079,6 +1079,7 @@ pardonner - fa maf
 Paris - Paris  
 parler - loga  
 parole (mots) - loga  
+part - fen  
 parti - kite  
 passe (passage) - pas dau  
 passeport - pasporte  
@@ -1223,6 +1224,7 @@ quartz - kuarze
 quatre (4) - nelu  
 que (comme) - ka  
 que (quoi) - ke  
+que - ki  
 querelle (dispute, palabre) - palaba  
 question - sual  
 queue (côté ) - koda  
@@ -1378,6 +1380,7 @@ sujet (thème) - tema
 sunnisme - suna islam din  
 surestimer -   
 svastika (croix gammée) - huke krus  
+syllabe - loga fen  
 symétrie - sam metre  
 séminal - seme di  
 sénateur - supra vakil ja  

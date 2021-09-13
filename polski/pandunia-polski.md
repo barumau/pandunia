@@ -867,6 +867,7 @@ fa loka - umieścić (postawić)
 fa lon - debatować, prowadzić dyskurs  
 fa long - przedłużyć, przedłużać  
 fa mal - mieć (posiadać)  
+fa marche - iść, maszerować  
 fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 fa mas lika - wesprzeć (wzmocnić, zasilić)  
 fa masim - zmaksymalizować  
@@ -1697,6 +1698,7 @@ kesha - włos
 kesha bande - opaska do włosów  
 kesha sabun - szampon  
 ketel - czajnik  
+ki - że  
 kiau - most  
 kilogram - kilogram (kg)  
 kilomitre - kilometr  
@@ -1968,6 +1970,7 @@ loga - mówić, rozmawiać
 loga - słowo (mowa)  
 loga asal - etymologia  
 loga di - słowny (leksykalny)  
+loga fen - sylaba (zgłoska)  
 loga fili ja - logofil (miłośnik słów)  
 loga ironi - sarkazm  
 loga jama - słownictwo  
@@ -2064,7 +2067,6 @@ mantu - bułka gotowana na parze
 mar - czas; okazja  
 marati - marathi  
 maraton - maraton  
-marche - iść, maszerować  
 margai - margaj (ocelot nadrzewny)  
 margarin - margaryna  
 margarita - stokrotka  
@@ -3134,7 +3136,7 @@ su - mieć (partykuła posiadania)
 suahili - suahili  
 sual - pytanie  
 sual di - pytajny, związany z pytaniem  
-sual dokum - formularz (kwestionariusz)  
+sual dokumen - formularz (kwestionariusz)  
 sual tema - kwestia, problem  
 Sualbarde - Swalbard  
 suan - kwaśny  

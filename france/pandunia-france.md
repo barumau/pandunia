@@ -512,6 +512,7 @@ faze - phase
 fei - vol  
 fei - voler  
 fei mushu - chauve-souris  
+fen - part  
 fen gata - analyse  
 filsofi - philosophie  
 fin - finir  
@@ -807,6 +808,7 @@ ke sate - quand
 Keme - Égypte antique  
 kerne - coeur  
 kesha hin - glabre  
+ki - que  
 kiau - pont  
 kimi - substance  
 kimi logi - chimie  
@@ -927,6 +929,7 @@ loga - parler
 loga - parole (mots)  
 loga asal - étymologie  
 loga di - lexical  
+loga fen - syllabe  
 loga jama - vocabulaire (lexique)  
 loga so - mot  
 loga tabi di - loquace  

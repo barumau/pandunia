@@ -409,6 +409,7 @@ faze - фаза
 fei - полёт  
 fei - лететь  
 fei mushu - летучая мышь  
+fen - parte  
 fen gata - анализ  
 filme - плева (фильм)  
 filsofi - философия  
@@ -678,6 +679,7 @@ ke - что
 ke riti - как  
 Keme - Древний Египет  
 kesha hin - безволосый  
+ki - что  
 kimi - вещество  
 kimi logi - химия  
 kimi so - химический элемент  
@@ -796,6 +798,7 @@ loga - говорить
 loga - речь  
 loga asal - этимология  
 loga di - лексический  
+loga fen - слог  
 loga jama - словарь  
 loga so - слово (речь)  
 loge - запись  
@@ -1276,7 +1279,7 @@ sosi - общество (социум)
 sosi jinse - гендер  
 sosis - колбаса (сосиска)  
 sual - вопрос  
-sual dokum - анкета  
+sual dokumen - анкета  
 sui - вода  
 sui gas - пар  
 sui kaboga - тыква горлянка (калабас)  

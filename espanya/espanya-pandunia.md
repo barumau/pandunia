@@ -530,7 +530,7 @@ cambio climático - klima mute
 Camboya - Kambojia  
 camello - gamel  
 Camerún - Kamerun  
-caminar (marchar, andar) - marche  
+caminar (marchar, andar) - fa marche  
 camino (calle) - dau  
 camisa - kamisa  
 camote (batata) - kamote  
@@ -1427,7 +1427,7 @@ fonología - fon logi
 forma (figura, morfo) - forma  
 formar - fa forma  
 formateo - kitabu forma  
-formulario - sual dokum  
+formulario - sual dokumen  
 foro (espacio público) - forum  
 forzar (usar fuerte, imponer, coaccionar) - fa paka  
 fosa - kave  
@@ -2905,6 +2905,7 @@ póquer - poker
 público - demo di  
 qualquier - eni  
 que (como, en comparación con) - ka  
+que - ki  
 quedarse - be reste  
 queja (lamento) - shikaya  
 quemar - fa hogo  
@@ -3309,6 +3310,7 @@ Svalbard - Sualbarde
 sábado - var luka  
 sándwich (sánduche) - sanduiche  
 sí - ye  
+sílaba - loga fen  
 sólido - gati mate  
 ####T - T  
 tabaco - tabaku  

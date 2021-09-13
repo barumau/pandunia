@@ -341,7 +341,7 @@
 |**febre**|fiever|Portuguese:febre, Spanish:fiebre, deu:Fieber, English:fever, French:fièvre|
 |**fei**|fly (go through air)|Mandarin:飞 (fēi), Cantonese:飛 (fei1), Wu-Chinese:飛 (fi1), Japanese:飛 (hi), Korean:비 (bi), Vietnamese:bay|
 |**fem**|female|French:femme, Portuguese:fêmea, English:female|
-|**fen**|part (fraction)|Mandarin:分 (fèn), Wu-Chinese:(fén), Cantonese:(fan), Vietnamese:phần, Thai:ปัน (pan), Japanese:分 (bun), Korean:분 (bun)|
+|**fen**|part (component, segment, fraction, distinct element of something larger)|Mandarin:分 (fèn), Wu-Chinese:分 (fén), Cantonese:分 (fan), Vietnamese:phần, Thai:ปัน (pan), Japanese:分 (bun), Korean:분 (bun)|
 |**feru**|iron|Spanish:hierro, Portuguese:ferro, French:fer, Malay:ferum|
 |**festa**|party (celebration, festival)|Portuguese:festa, Spanish:fiesta, French:fête, deu:Fest, English:festival, Russian:фестиваль (festival'), Malay:pesta|
 |**figur**|figure (representation)|English:French:figure, Spanish:Portuguese:figura|
@@ -645,6 +645,7 @@
 |**kerubi**|cherub|heb:כְּרוּב‎ (kerúv), English:cherub, Spanish:querubín, Portuguese:querubim, French:chérubin, Russian:херувим (heruvim), Swahili:kerubi, Malay:kerub, Mandarin:基路伯 (jīlùbó)|
 |**kesha**|hair|Japanese:毛 (ke), Hindi:केश (keś), Urdu:(keś), Punjabi:ਕੇਸ਼ (keś), Telugu:(kēśamu), Kannada:(kēśa)|
 |**ketel**|kettle|English:kettle, Russian:котёл (kot’ol), Hindi:केतली (ketlī), Bengali:কেতলি (ketli), Malay:ketel|
+|**ki**|that (conjunction)|French:Spanish:Portuguese:que, Hindi:कि (ki), Turkish:ki, Persian: که‎ (ke), Urdu: کہ‎ (ke)|
 |**kiau**|bridge|Mandarin:桥 (qiáo), Cantonese:橋 (kiu4), Wu-Chinese:橋 (jjiau3), Japanese:橋 (kyō), Vietnamese:cầu|
 |**kilo**|thousand (kilo-)|English:French:Spanish:Portuguese:Malay:Turkish:kilo-, Russian:кило- (kilo-), Japanese:キロ- (kiro-), Korean:킬로- (killo-)|
 |**kimi**|substance (physical material from which something is made)|English:chemistry, French:chimie, Spanish:Portuguese:química, Russian:химия (himiya), Arabic:(kīmiyāʾ), Malay:kimia, Swahili:kemia, Turkish:kimya|
@@ -813,6 +814,7 @@
 |**mantu**|steamed bun (mantou, manti)|Turkish:mantı, Russian:манты (manty), Korean:만두 (mandu), Mandarin:馒头 (mántóu), Persian:Urdu:(mantu)|
 |**mar**|time (instance, occasion)|Arabic: مرة (marra), Swahili:mara, Hindi:बार (bār), Persian:Urdu: بار‎(bār), deu:Mal|
 |**maraton**|marathon|English:marathon, Spanish:maratón, Portuguese:maratona, Russian:марафо́н (marafón), Turkish:maraton, Arabic:مَارَاثُون‎ (mārāṯūn), Hindi:मैराथन (mairāthan), Bengali:ম্যারাথন (mjarathôn), Mandarin:马拉松 (mǎlāsōng), Japanese:マラソン (marason)|
+|**marche**|walk (march)|English:march, French:marche, Spanish:Portuguese:marcha, Russian:марш (marš), Hindi:मार्च (mārc), Turkish:marş, Swahili:machi|
 |**margai**|margay|English:margay, Spanish:maracayá, Portuguese:maracajá, Russian:маргай (margay), Arabic:مارج (mārǧ), Japanese:マーゲイ (māgei)|
 |**margarin**|margarine|English:French:margarine, Spanish:Portuguese:margarina, Russian:маргари́н (margarín), Turkish:margarin, Hindi:मार्जरीन (mārjarīn), Malay:marjerin, Mandarin:麦淇淋 (màiqílín), Japanese:マーガリン (māgarin)|
 |**margarita**|daisy|Spanish:Portuguese:margarita, French:marguerite, deu:Margerite, Russian:маргаритка (margaritka)|

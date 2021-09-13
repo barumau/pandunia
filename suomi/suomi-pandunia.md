@@ -412,6 +412,7 @@ etiikka (moraalioppi) - moral logi
 etikka - vin suan  
 Etiopia - Etiopia  
 etninen - zuku di  
+että - ki  
 etuliite (prefiksi) - chen fikse  
 etymologia - loga asal  
 etäisyys (kaukaisuus) - tele  
@@ -1361,7 +1362,7 @@ Kypros - Kipris
 kypsä (aikuinen) - matur  
 kypärä - sar kaske  
 kyrilliset aakkoset - Kiril zi  
-kyselylomake - sual dokum  
+kyselylomake - sual dokumen  
 kysymys - sual  
 kysyvä - sual di  
 kysyä - fa sual  
@@ -1381,7 +1382,7 @@ käsivarsi - hande shaka
 käsky (komento) - amir  
 käskyvalta - amir haki  
 kätevä - jang di  
-kävellä - marche  
+kävellä - fa marche  
 kävely (marssi) - marche  
 käydä (vierailla) - fa keka  
 käynti (vierailu, visiitti) - keka  
@@ -2045,7 +2046,7 @@ Oromia - Oromo Desha
 oromo (etiopialainen kansa) - oromo  
 orpo - yatim  
 orpokoti - yatim dom  
-osa (pala) - fen  
+osa (lohko, pala) - fen  
 osallistua (tehdä osansa) - fendona  
 osallistua - fa parti  
 osallistuja - parti ja  
@@ -2969,6 +2970,7 @@ taulutietokone (tabletti) - table komputa
 tavallinen - ada di  
 tavanomainen (perinteinen) - suna di  
 tavata - miti  
+tavu - loga fen  
 te - tumen  
 tee - chai  
 teehuone (kahvila) - chai kan  

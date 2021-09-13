@@ -300,51 +300,51 @@ and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**a buku, jo a jan fa kitabu, padu.**
+**la buku, jo la jan fa kitabu, pade.**
 – The book, which the person writes, falls.
 
 It is possible to leave also **jo** out.
 This structure is called _reduced relative clause_.
 
-**a buku, a jan fa kitabu, padu.**
+**la buku, la jan fa kitabu, pade.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**a jan, jo fa kitabu a buku, padu.**
+**la jan, jo fa kitabu la buku, pade.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**a kalam, an jo a jan fa kitabu a buku, padu.**
+**la kalam, na jo la jan fa kitabu la buku, pade.**
 – The pen, with _which_ the person writes the book, falls.  
-**a kalam, a jan fa kitabu a buku an, padu.**
+**la kalam, la jan fa kitabu la buku na, pade.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**a jan, mi vide jo fa kitabu a buku, padu.**
+**la jan, mi vide jo fa kitabu la buku, pade.**
 – The person, whom I see write the book, falls.  
-**a jan, mi vide fa kitabu a buku, padu.**
+**la jan, mi vide fa kitabu la buku, pade.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**a jan, mi fa kitabu a buku an jo su kalam, padu.**
+**la jan, mi fa kitabu la buku na jo su kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
 ## Content clauses
 
 A content clause can be placed before or after the clause that talks about it.
-The particle **i** points to the following phrase, and **u** points to the previous one.
+The demonstrative **go** points to the following phrase, and **ni** points to the previous one.
 
-**i si hami, tomate si frute.**
-– This is important: tomatoes are fruit.  
-**pan jan be egal cana, u fate si klar.**
+**go si bari, mi leu no vide yamen.**
+– This is important: I haven't seen them.  
+**pan jan be egal sana, ni fate si klar.**
 – All people are created equal; that fact is clear.
 
 
@@ -354,14 +354,14 @@ The particle **i** points to the following phrase, and **u** points to the previ
 
 1. **e** and (connects two similar words or phrases)
 2. **o** or (connects two alternative words or phrases)
-3. **ama** - but (introduces a word or phrase that contrasts with or
+3. **a** - but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
 **mi suku mau e vaf.**
 – I like cats and dogs.  
 **mi suku mau o vaf.**
 – I like cats or dogs.  
-**mi suku mau ama no vaf.**
+**mi suku mau a no vaf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -405,7 +405,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **mi no vide tu.**
 – I don't see you.  
-**mi vide no tu ama yamen.**
+**mi vide no tu a yamen.**
 – I see, not you, but them.
 
 **mi ching tu safa kamar.**
@@ -504,18 +504,18 @@ They function like adverbs, so typically their place is before the verb.
 
 **mi pas ha mau.**
 – I had cats.  
-**ama mi no zai ha mau.**
+**a mi no zai ha mau.**
 – But I now don't have cats.  
 **bil, mi vil ha mau.**
 – Maybe I will have cats.
 
-It's also possible to say it in a longer way like **an pas zaman** (in the past) etc.
+It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
 
-**mi ha mau an pas zaman.**
+**mi ha mau na pas zaman.**
 – I had cats in the past.  
-**ama mi no ha mau an zai zaman.**
+**a mi no ha mau na zai zaman.**
 – But I don't have cats at present.  
-**bil, mi ha mau an vil zaman.**
+**bil, mi ha mau na vil zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

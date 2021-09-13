@@ -88,7 +88,7 @@ points to things that are far from the speaker.
 – I want this book, not that.
 
 The basic proximal and distal pronouns are used for introducing a new object.
-The topical demonstrative **a**, on the other hand,
+The topical demonstrative **la**, on the other hand,
 does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
@@ -118,8 +118,8 @@ In the above, **ni jumle** (_this sentence_) refers to the sentence being spoken
 **mi ama tu. mi mana ni.**
 – I love you. That is what I mean.
 
-In the above, the pronoun **ni** refers to the content of the next statement
-and **a** refers to the content of the previous statement.
+In the above, the pronoun **go** refers to the content of the next statement
+and **ni** refers to the content of the previous statement.
 
 
 ## Interrogative pronouns
