@@ -873,7 +873,7 @@ mandarine satsuma - venjou oranje
 manichéisme - mani din  
 manioc - manioka  
 mantra - mantra  
-marbre - kalse kristal  
+marbre - kalse bilor  
 marche - marche  
 marché (bazar) - bazar  
 mardi - var du  

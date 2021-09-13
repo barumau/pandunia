@@ -118,6 +118,7 @@
 |**bede**|vuode (sänky, peti)|englanti:bed, japani:ベッド (beddo), deu:Bett, Kongo:mbeto, sna:mubhedha, zulu:umbhede|
 |**bedinjan**|munakoiso|hindi:बैंगन (bEngān), arabia:(bādinjān), portugali:berinjela, ranska:aubergine, espanja:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), turkki:badincan, patlıcan, venäjä:баклажан (baklažan), suahili:mbilingani|
 |**bega**|paeta (karata)|venäjä:убегать (ubegat'), hindi:भागना (bhāgnā)|
+|**behe**|vuohi|englanti:baa, portugali:bé, venäjä:бэ-бэ (be-be), puola:bee|
 |**bele**|lapio|persia: بیل‎ (bil), turkki:bel, hindi:बेलचा (belcā), bangla:বেলচা (bēlacā), suahili:beleshi + ranska:pelle, khmer:ប៉ែល (pael)|
 |**ben**|lapsi (jälkeläinen)|arabia: ابن (ibn, bint), heb:בן (ben), בת (bat)|
 |**benchi**|penkki|englanti:bench, suahili:benchi, hindi:बेंच (bẽc), japani:ベンチ (benchi), korea:벤치 (benchi)|
@@ -126,7 +127,6 @@
 |**beri**|marja|deu:Beere, englanti:berry, malaiji:beri, hindi:बेरी (berī), bangla:বেরি (beri), japani: ベリー (berī)|
 |**beton**|betoni|ranska:béton, portugali:betão, deu:Beton, venäjä:бетон (beton), puola:turkki:beton, persia:بتن‎ (beton)|
 |**betula**|koivu|espanja:abedul, portugali:bétula, arabia: بَتُولَا‎ (batūlā)|
-|**be’e**|vuohi|englanti:baa, portugali:bé, venäjä:бэ-бэ (be-be), puola:bee|
 |**bichi**|piiska (ruoska)|venäjä:бич (bič), puola:bicz, ron:bici, deu:Peitsche|
 |**bil**|voida (osata, pystyä, mahdollinen, ehkä)|turkki:bilmek + ranska:habile, espanja:portugali:hábil, englanti:able;ability|
 |**bilor**|kristalli|arabia: بِلَّوْر‎ (billawr), hindi:बिल्लौर (billaur), malaiji:hablur, turkki:billûr, amhara:በሉር (bälur) + espanja:abalorio|
@@ -207,7 +207,7 @@
 |**chum**|suukko (pusu)|hindi:चूमना (cūmnā), urdu:(cūmnā), malayalam:ചുംബനം (cumbanaṃ), malaiji:cium, japani:チュー (chū), thai:จูบ (cup)|
 |**chun**|kylä|yleiskiina:村 (cūn), kantoninkiina:村 (cyun1), japani:村 (son), korea:촌 (chon), vietnami:thôn|
 |**chupa**|imeä|espanja:portugali:chupar, khmer:ជប់ (cup)|
-|**chuti**|poistuminen|yleiskiina:出 (chū), kantoninkiina:出 (ceot1), wu-kiina:出 (tsheq4), japani:出 (shutsu), korea:출 (chul), vietnami:xuất|
+|**chuti**|poistuminen|yleiskiina:出 (chū), kantoninkiina:出 (ceot1), wu-kiina:出 (tsheq4), hakkakiina:出 (chut), japani:出 (shutsu), korea:출 (chul), vietnami:xuất, hindi:छूटना (chūtnā) + turkki:çıkmak|
 |**chuze**|valita|englanti:choose, + hindi:चुनना (cunnā), + vietnami:chọn|
 |**da**|määritetyn määritteeseen liittävä partikkeli|ranska:de,du, portugali:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|valtameri|yleiskiina:大海 (dàhǎi), japani:大海 (taikai),  korea:대양 (daeyang), vietnami:đại dương, hindi:महासागर (mahāsāgar), bangla:মহাসমুদ্র (môhaśmudr), thai:มหาสมุทร (mahasamut)|
@@ -302,7 +302,6 @@
 |**Eurasia**|Euraasia|englanti:espanja:malaiji:Eurasia, portugali:Eurásia, ranska:Eurasie, venäjä:Евразия (Evraziya), turkki:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), arabia:يُورَاسِيَا‎ (yūrāsiyā), hindi:यूरेशिया (yūreśiyā), bangla:ইউরেশিয়া (iureśiẏa), yleiskiina:歐亞大陸 (Ōuyà dàlù), japani:ユーラシア (yūrashiya)|
 |**eureka**|löytää (keksiä)|kreikka:ευρίσκω (evrísko), englanti:espanja:eureka, portugali:eureca, ranska:eurêka, venäjä:эврика (evrika), turkki:efreka, japani:ユーレカ (yūreka)|
 |**Europe**|Eurooppa|englanti:ranska:Europe, espanja:portugali:deu:puola:Europa, kreikka:Ευρώπη (Evrópi) venäjä:Европа (Evropa), turkki:Avrupa, suahili:Uropa, hindi:यूरोप (yūrop), malaiji:Eropah, yleiskiina:歐洲 (Ōuzhōu), japani:ヨーロッパ (yōroppa)|
-|**fa chutu**|poistua|yleiskiina:出 (chū), hakkakiina:出 (chut), japani:出 (shutsu), korea:출 (chul), hindi:छूटना (chūtnā) + turkki:çıkmak|
 |**fa daka**|peittää|hindi:ढकना (dhaknā), bangla:ঢাকা (ḍhaka), pandzabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, englanti:deck|
 |**fa estude**|opiskella (tutkia)|englanti:study, ranska:étudier, espanja:estudiar, portugali:estudar, venäjä:студент (student), hindi:स्टूडेंट (sṭūḍeṇṭ)|
 |**fa fikse**|kiinnittää|englanti:fix, ranska:fixer, espanja:fijar, portugali:fixar|

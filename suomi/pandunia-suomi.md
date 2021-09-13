@@ -81,10 +81,10 @@ an daka - paljastaa
 an deu sim ja - ateisti (jumalankieltäjä)  
 an din ja - uskonnoton  
 an dosti - vihollinen  
-an eskala - laskeutua  
+an eskale - laskeutua  
 an icha ja - vastahakoinen (haluton)  
-an jami - hajauttaa  
-an jami di - hajanainen  
+an jama - hajauttaa  
+an jama di - hajanainen  
 an karma ja - epäaktiivinen (pois toiminnasta)  
 an kode - purkaa koodi (dekoodata)  
 an limite - äärettömyys (rajattomuus)  
@@ -334,12 +334,12 @@ be tam - ahnehtia
 be ting - pysähtyä  
 be vide - näkyä  
 be yong liga - sulaa yhteen (fuusioitua)  
-be’e - vuohi  
 bebe - vauva  
 bebe bede - pinnasänky  
 bede - vuode (sänky, peti)  
 bedinjan - munakoiso  
 bega - paeta (karata)  
+behe - vuohi  
 Beijing - Peking (Beijing)  
 bel - beli (B)  
 Belarus - Valkovenäjä  
@@ -838,7 +838,7 @@ fa bina - rakentaa
 fa budi - ymmärtää (oivaltaa)  
 fa chape - painaa (leimata)  
 fa chori - varastaa  
-fa chutu - poistua  
+fa chuti - poistua  
 fa daka - peittää  
 fa dalil - todistaa  
 fa dante - purra  
@@ -892,13 +892,14 @@ fa ja - tekijä (toimija)
 fa jama - koota (kerätä)  
 fa javabu - vastata  
 fa jene - synnyttää  
+fa jude - tuomita  
 fa jung - keskittää  
 fa kai - aukaista (avata)  
 fa karga - lastata (ladata)  
 fa karma - panna toimintaan  
 fa kata - kertoa  
 fa kave - kaivaa  
-fa kegu - käydä (vierailla)  
+fa keka - käydä (vierailla)  
 fa kino - liikuttaa (innoittaa)  
 fa kite - viedä  
 fa klar - selkeyttää (selittää)  
@@ -1528,7 +1529,7 @@ islam - alistuminen (antautuminen)
 islam din - islam  
 islam din ja - muslimi (islaminuskoinen)  
 islam din sharia - šaria  
-islamfobia - islamofobia (islamin pelko)  
+islam fobi - islamofobia (islamin pelko)  
 Islande - Islanti  
 Israel - Israel  
 Italia - Italia  
@@ -1597,7 +1598,6 @@ joven fem - tyttö (nuori neito)
 joven jan - nuorukainen  
 joven man - poika (nuori mies)  
 joven ta - nuoruus  
-juda - tuomita  
 judau - judo  
 jude - tuomio  
 jude di - oikeudellinen  
@@ -1646,7 +1646,7 @@ kali guste - kitkerä (karvas)
 kalifornium - kalifornium  
 kalium - kalium  
 kalkul - kalkyyli  
-kalse kristal - marmori  
+kalse bilor - marmori  
 kalse mate - kalkki  
 kalse petra - kalkkikivi  
 kalsite - kalsiitti (kalkkisälpä)  
@@ -1674,7 +1674,7 @@ kandela - kandela
 kandi - makeinen (karkki, namu)  
 kane - tanko (sauva, patukka)  
 kane kasa - häkki  
-kane pan - patonki (ranskanleipä)  
+kane pang - patonki (ranskanleipä)  
 kanga - kampa  
 kangaru - kenguru  
 kanjar - tikari  
@@ -2308,6 +2308,7 @@ muzika ja - muusikko
 Myanma - Myanmar (Burma)  
 ####N - N  
 na - luona (-lla, -ssa)  
+na ekso - ulkona (ulkopuolella)  
 na go - tuolla  
 na in - sisällä (sisäpuolella)  
 na ke - missä?  
@@ -2358,7 +2359,6 @@ nave kape ja - laivakaappari
 nave lefte - paapuuri  
 nave raite - tyyrpuuri  
 nave shefe - kapteeni  
-ne ekso - ulkona (ulkopuolella)  
 Nederlande - Alankomaat (Hollanti)  
 Nederlande Antil - Alankomaiden Antillit  
 nefre - munuainen  
@@ -2384,7 +2384,7 @@ nerve toksi - hermomyrkky
 nesia - saari  
 nesia jama - saaristo  
 nete - verkko  
-netoloke - nettisivu  
+nete loka - nettisivu  
 Nevis - Nevis  
 ni - tämä  
 nia - aie (aikomus, tarkoitus)  
@@ -2873,7 +2873,7 @@ sal biskute - voileipäkeksi
 sal di - suolainen  
 salade - salaatti  
 salam - tervehdys (terve!)  
-salam chutu - hyvää matkaa  
+salam chuti - hyvää matkaa  
 salam di - hyvä (tervehdyksissä)  
 salam dia - päivää!  
 salam lai - tervetuloa!  

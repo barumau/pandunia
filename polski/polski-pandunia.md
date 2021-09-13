@@ -122,7 +122,7 @@ aż do - hata
 ####B - B  
 babcia (babka) - chin ma  
 bagaż - bagaje  
-bagietka - kane pan  
+bagietka - kane pang  
 bagno (moczary) - fan topo  
 bahaista - baha din ja  
 bahaizm - baha din  
@@ -923,7 +923,7 @@ ironia sytuacyjna - she hal ironi
 ironiczny - ironi  
 iryd - iridium  
 Islam - islam din  
-islamofobia - islamfobia  
+islamofobia - islam fobi  
 Islandia - Islande  
 istnieć - zai  
 Italia, Włochy - Italia  
@@ -1188,7 +1188,7 @@ kot - mau
 kotwica - angar  
 kowadło - metal bede  
 kowal - metal jang ja  
-koza - be’e  
+koza - behe  
 koło - chakra  
 koło, okrąg - gola  
 kołyska (kolebka) - lala bede  
@@ -1416,7 +1416,7 @@ marchew - karote
 margaj (ocelot nadrzewny) - margai  
 margaryna - margarin  
 Mariany Północne - Marian nesia  
-marmur - kalse kristal  
+marmur - kalse bilor  
 Maroko - Magribi desha  
 Mars - Marse  
 martwić - be duka  
@@ -1809,7 +1809,7 @@ odpowiedzieć, odpowiadać - fa javabu
 odpowiedź, odzew - javabu  
 odsłonić, odsłaniać - an daka  
 Odwarzny ( - bravo  
-odwiedzić, odwiedzać - fa kegu  
+odwiedzić, odwiedzać - fa keka  
 offline (nie na linii, poza siecią) - no na lin  
 ofiara - kurban  
 oficer policji, policjant - polis ja  
@@ -2452,7 +2452,7 @@ rozkaz, komenda - amir
 rozmiar - dai ta  
 rozmnażać - jene yo zou  
 rozmowny - loga tabi di  
-rozproszyć, rozpraszać - an jami  
+rozproszyć, rozpraszać - an jama  
 rozróżniać (rozróżnić) - fa has  
 rozstrzępiony (podarty) - chira chira di  
 rozszczepienie jądra atomowego - kerne chira  
@@ -2496,7 +2496,7 @@ ryś - linse
 ryś rudy - lal linse  
 ryż - ris  
 rzadki (nieczęsty) - rare  
-rzadki (rozrzedzony, rozproszony) - an jami di  
+rzadki (rozrzedzony, rozproszony) - an jama di  
 rzadko - nadir mar  
 rzadkość - rare ta  
 rzecz - she  
@@ -2824,7 +2824,7 @@ szyć - siu
 São Paulo - Sante Paulo  
 sód - natre  
 sól - sal  
-sądzić (osądzić) - juda  
+sądzić (osądzić) - fa jude  
 sędzia - jude ja  
 słaby - debil  
 słodki - sukar di  
@@ -3172,7 +3172,7 @@ wirusologia - virus logi
 Wisznu - Vishnu  
 witaj, dobre przybycie - salam lai  
 witraż - rang kancha  
-witryna internetowa (portal internetowy) - netoloke  
+witryna internetowa (portal internetowy) - nete loka  
 wiwatować; hura - ura  
 wiza - viza  
 wizyta - keka  
@@ -3244,7 +3244,7 @@ wydra - lotra
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurva  
 wygląd - rupa  
 wyglądać (wydawać się) - be rupa  
-wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać - fa chutu  
+wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać - fa chuti  
 wyjśćie, opuszczenie - chuti  
 wyklarować (rozjaśnić) - fa klar  
 wykopać, kopać, wydobyć, wydobywać, wykopywać - fa kave  
@@ -3406,8 +3406,8 @@ zbroja - defa kaske
 zbudować, budować, konstruować - fa bina  
 zbyt - mas ka basa  
 zbyt mało - min ka basa  
-zbłąkany (dewiacyjny, wykolejony) - rute galti  
-zbłąkać się (wykoleić się) - rute galta  
+zbłąkany (dewiacyjny, wykolejony) - rute galte di  
+zbłąkać się (wykoleić się) - be rute galte  
 zdanie (fraza) - jumla  
 zdeaktywowany (wyłączony, zatrzymany) - an karma ja  
 zdjęcie (fotografia) - foto grafi  
@@ -3416,7 +3416,7 @@ zdrowie - salu ta
 zdrowy - salu  
 zebra - zebra  
 zegar (zegarek) - hor loga gi  
-zejść (schodzić, zstąpić, zstępować) - an eskala  
+zejść (schodzić, zstąpić, zstępować) - an eskale  
 zemleć (mleć, mielić) - fa mol  
 zero, nic, żaden - siro  
 zespół (drużyna, grupa) - banda  
@@ -3560,7 +3560,7 @@ zły, zrujnowany, zepsuty - harabu
 żartowniś, dowcipniś - joke ja  
 żeglarz (marynarz) - nave ja  
 żeglować (płynąć) - nave gou  
-żegnaj, dobre odejście - salam chutu  
+żegnaj, dobre odejście - salam chuti  
 żel, galareta - jele  
 żelazo - feru  
 żeń-szeń - jenshen  

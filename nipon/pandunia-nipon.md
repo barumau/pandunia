@@ -26,9 +26,9 @@ amen shin - 信頼する
 amir lin - コマンド行  
 an air bio di - 嫌気性  
 an din ja - 不信者  
-an eskala - 下る (降りる)  
-an jami - 散らす  
-an jami di - 疎ら  
+an eskale - 下る (降りる)  
+an jama - 散らす  
+an jama di - 疎ら  
 an memo - 忘れる  
 an sona - 不眠症  
 andesite - 安山岩  
@@ -107,6 +107,7 @@ be jaga - 起きる
 be kino - 動く  
 be kite - 行く  
 be pute - 腐敗  
+be rute galte - 逸れる  
 be sabi vol - 訝る (-かしら)  
 be sona - 寝る  
 be tele loka - 瞬間移動  
@@ -562,7 +563,7 @@ kali guste - 苦い
 kali melon - ツルレイシ (ニガウリ)  
 kali oranje - ダイダイ  
 kalmar - イカ  
-kalse kristal - 大理石  
+kalse bilor - 大理石  
 kalse mate - 石灰  
 kama - 色欲  
 kama deu - カーマ  
@@ -1024,7 +1025,6 @@ rubi - ルビー
 ruhu mishe - 惑わす  
 ruhu mishe di - まごまご  
 ruke sake - リュックサック  
-rute galta - 逸れる  
 ####S - S  
 sabe - 知る  
 sabe vol - 興味 (好奇心)  
@@ -1188,6 +1188,7 @@ Tokyo - 東京
 topo grafi - 地勢  
 trati - 合意  
 trator gi - トラクター  
+tre - とても  
 tren - 電車 (列車)  
 tri - 三 (3)  
 tri zong - 三つまた (トライデント)  

@@ -123,6 +123,7 @@
 |**bede**|bed|English:bed, Japanese:ベッド (beddo), deu:Bett, Kongo:mbeto, sna:mubhedha, Zulu:umbhede|
 |**bedinjan**|eggplant (aubergine, brinjal)|Hindi:बैंगन (bEngān), Arabic:(bādinjān), Portuguese:berinjela, French:aubergine, Spanish:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), Turkish:badincan, patlıcan, Russian:баклажан (baklažan), Swahili:mbilingani|
 |**bega**|escape (flee, run away)|Russian:убегать (ubegat'), Hindi:भागना (bhāgnā)|
+|**behe**|goat|English:baa, Portuguese:bé, Russian:бэ-бэ (be-be), Polish:bee|
 |**bele**|shovel (spade, scoop)|Persian: بیل‎ (bil), Turkish:bel, Hindi:बेलचा (belcā), Bengali:বেলচা (bēlacā), Swahili:beleshi + French:pelle, Khmer:ប៉ែល (pael)|
 |**ben**|child (offspring)|Arabic: ابن (ibn, bint), heb:בן (ben), בת (bat)|
 |**benchi**|bench|English:bench, Swahili:benchi, Hindi:बेंच (bẽc), Japanese:ベンチ (benchi), Korean:벤치 (benchi)|
@@ -132,7 +133,6 @@
 |**bete**|beetroot|English:beet, Spanish:betabel, Portuguese:beterraba, French:betterave, deu:Bete, Japanese:ビート (bīto)|
 |**beton**|concrete (material with cement)|French:béton, Portuguese:betão, deu:Beton, Russian:бетон (beton), Polish:Turkish:beton, Persian:بتن‎ (beton)|
 |**betula**|birch tree|Spanish:abedul, Portuguese:bétula, Arabic: بَتُولَا‎ (batūlā)|
-|**be’e**|goat|English:baa, Portuguese:bé, Russian:бэ-бэ (be-be), Polish:bee|
 |**bichi**|whip|Russian:бич (bič), Polish:bicz, ron:bici, deu:Peitsche|
 |**bil**|possible (able, can, maybe)|Turkish:bilmek + French:habile, Spanish:Portuguese:hábil, English:able;ability|
 |**bilor**|crystal|Arabic: بِلَّوْر‎ (billawr), Hindi:बिल्लौर (billaur), Malay:hablur, Turkish:billûr, Amharic:በሉር (bälur) + Spanish:abalorio|
@@ -214,7 +214,7 @@
 |**chum**|kiss|Hindi:चूमना (cūmnā), Urdu:(cūmnā), Malayalam:ചുംബനം (cumbanaṃ), Malay:cium, Japanese:チュー (chū), Thai:จูบ (cup)|
 |**chun**|village|Mandarin:村 (cūn), Cantonese:村 (cyun1), Japanese:村 (son), Korean:촌 (chon), Vietnamese:thôn|
 |**chupa**|suck (absorb)|Spanish:Portuguese:chupar, Khmer:ជប់ (cup)|
-|**chuti**|exit (leaving)|Mandarin:出 (chū), Cantonese:出 (ceot1), Wu-Chinese:出 (tsheq4), Japanese:出 (shutsu), Korean:출 (chul), Vietnamese:xuất|
+|**chuti**|exit (leaving)|Mandarin:出 (chū), Cantonese:出 (ceot1), Wu-Chinese:出 (tsheq4), Hakka-Chinese:出 (chut), Japanese:出 (shutsu), Korean:출 (chul), Vietnamese:xuất, Hindi:छूटना (chūtnā) + Turkish:çıkmak|
 |**chuze**|choose (elect, select, pick)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
 |**da**|of (attributive preposition)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|ocean|Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)|
@@ -312,7 +312,6 @@
 |**eureka**|find (discover)|Greek:ευρίσκω (evrísko), English:Spanish:eureka, Portuguese:eureca, French:eurêka, Russian:эврика (evrika), Turkish:efreka, Japanese:ユーレカ (yūreka)|
 |**Europe**|Europe|English:French:Europe, Spanish:Portuguese:deu:Polish:Europa, Greek:Ευρώπη (Evrópi) Russian:Европа (Evropa), Turkish:Avrupa, Swahili:Uropa, Hindi:यूरोप (yūrop), Malay:Eropah, Mandarin:歐洲 (Ōuzhōu), Japanese:ヨーロッパ (yōroppa)|
 |**fa argu**|argue (assert, prove, clarify)|English:argue, French:arguer, Spanish:argüir, Portuguese:arguir, Russian:аргумент (argument)|
-|**fa chutu**|leave (go out, exit)|Mandarin:出 (chū), Hakka-Chinese:出 (chut), Japanese:出 (shutsu), Korean:출 (chul), Hindi:छूटना (chūtnā) + Turkish:çıkmak|
 |**fa daka**|cover (conceal)|Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck|
 |**fa estude**|study (work in order to practise or demonstrate)|English:study, French:étudier, Spanish:estudiar, Portuguese:estudar, Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)|
 |**fa fikse**|fix (attach)|English:fix, French:fixer, Spanish:fijar, Portuguese:fixar|
@@ -1351,6 +1350,7 @@
 |**transe**|transit (transport, passage)|English:French:Spanish:Portuguese:deu:Malay:trans-, Russian:транс- (trans-)|
 |**trati**|agreement (treaty)|English:treaty, French:traité, Spanish:Portuguese:tratado, Russian:контракт (kontrakt), Turkish:kontrat, Malay:kontrak|
 |**trator gi**|tractor|English:Spanish:tractor, French:tracteur, Portuguese:trator, Russian:трактор (traktor), Arabic: تَرَاكْتُور‎ (tarāktūr), Japanese:トラクター (torakutā), Korean:트랙타 (teuraekta), Hindi:ट्रैक्टर (ṭraikṭar), Bengali:ট্র্যাক্টর (ṭrækṭôr), Malay:traktor, Swahili:trekta, Turkish:traktör|
+|**tre**|very|French:très|
 |**tren**|train|English:French:train, Spanish:Turkish:tren, Hindi:ट्रेन (ṭren), Portuguese:trem|
 |**tri**|three (3)|English:three, French:trois, Spanish:tres, Portuguese:três, Russian:три (tri), Hindi:त्रि-  (tri-), Bengali:ত্রি- (tri-), Malay:tri-|
 |**tribu**|tribe|French:Spanish:tribu, Portuguese:Filipino:tribo, English:tribe|

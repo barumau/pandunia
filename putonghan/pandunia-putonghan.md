@@ -139,10 +139,10 @@ be pute - 腐烂
 be retro - 返回 (回来)  
 be sona - 睡觉 (困觉)  
 be van - 玩耍  
-be’e - 山羊  
 bebe - 宝宝 (娃娃)  
 bebe bede - 娃娃床  
 bede - 床  
+behe - 山羊  
 bele - 铲  
 beri - 浆果 (莓)  
 bete - 甜菜頭  
@@ -563,7 +563,7 @@ kali - 碱性
 kali guste - 苦的  
 kali melon - 苦瓜  
 kalmar - 鱿鱼  
-kalse kristal - 大理石  
+kalse bilor - 大理石  
 kalse mate - 石灰  
 kalse petra - 石灰岩  
 kalsite - 方解石  

@@ -117,6 +117,7 @@
 |**bede**|łóżko|eng:bed, jpn:ベッド (beddo), deu:Bett, kon:mbeto, sna:mubhedha, zul:umbhede|
 |**bedinjan**|bakłażan, oberżyna|hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani|
 |**bega**|uciec, uciekać|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
+|**behe**|koza|eng:baa, por:bé, rus:бэ-бэ (be-be), pol:bee|
 |**bele**|łopata (szpadel)|fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|
 |**ben**|dziecko, potomek|ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|
 |**benchi**|ławka|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
@@ -126,7 +127,6 @@
 |**bete**|burak|eng:beet, spa:betabel, por:beterraba, fra:betterave, deu:Bete, jpn:ビート (bīto)|
 |**beton**|beton|fra:béton, por:betão, deu:Beton, rus:бетон (beton), pol:tur:beton, fas:بتن‎ (beton)|
 |**betula**|brzoza|spa:abedul, por:bétula, ara: بَتُولَا‎ (batūlā)|
-|**be’e**|koza|eng:baa, por:bé, rus:бэ-бэ (be-be), pol:bee|
 |**bil**|móc, umieć, możliwy, prawdopodobnie|tur:bilmek + fra:habile, spa:por:hábil, eng:able;ability|
 |**bilor**|kryształ|ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|
 |**bina**|budynek (struktura)|ara: بِنَاء‎ (bināʾ), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, + jpn:ビル (biru)|
@@ -203,7 +203,7 @@
 |**chum**|całus|hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|
 |**chun**|wieś, wioska|zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|
 |**chupa**|ssać|spa:por:chupar, khm:ជប់ (cup)|
-|**chuti**|wyjśćie, opuszczenie|zho:出 (chū), yue:出 (ceot1), wuu:出 (tsheq4), jpn:出 (shutsu), kor:출 (chul), vie:xuất|
+|**chuti**|wyjśćie, opuszczenie|zho:出 (chū), yue:出 (ceot1), wuu:出 (tsheq4), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), vie:xuất, hin:छूटना (chūtnā) + tur:çıkmak|
 |**chuze**|wybrać, wybierać, selekcjonować|eng:choose, + hin:चुनना (cunnā), + vie:chọn|
 |**da**|z (partykuła posiadania)|fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|ocean|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
@@ -293,7 +293,6 @@
 |**Eurasia**|Eurazja|eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)|
 |**eureka**|znaleźć, znajdywać, odkryć, odkrywać|ell:ευρίσκω (evrísko), eng:spa:eureka, por:eureca, fra:eurêka, rus:эврика (evrika), tur:efreka, jpn:ユーレカ (yūreka)|
 |**Europe**|Europa|eng:fra:Europe, spa:por:deu:pol:Europa, ell:Ευρώπη (Evrópi) rus:Европа (Evropa), tur:Avrupa, swa:Uropa, hin:यूरोप (yūrop), may:Eropah, zho:歐洲 (Ōuzhōu), jpn:ヨーロッパ (yōroppa)|
-|**fa chutu**|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać|zho:出 (chū), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak|
 |**fa daka**|przykryć, przykrywać, ukryć, ukrywać|hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|
 |**fa fikse**|przyczepić, przymocować|eng:fix, fra:fixer, spa:fijar, por:fixar|
 |**fa kave**|wykopać, kopać, wydobyć, wydobywać, wykopywać|spa:por:cavar, eng:excavar, fra:excaver|

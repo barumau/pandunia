@@ -754,7 +754,7 @@ kali - basique
 kali guste - amer  
 kali oranje - orange amère  
 kalmar - calmar (encornet, calamar)  
-kalse kristal - marbre  
+kalse bilor - marbre  
 kalse mate - chaux  
 kalse petra - calcaire  
 kalsite - calcite  

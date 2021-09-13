@@ -90,10 +90,10 @@ an daka - uncover (reveal)
 an deu sim ja - atheist  
 an din ja - unbeliever (infidel)  
 an dosti - enemy (unfriend)  
-an eskala - get off (descend)  
+an eskale - get off (descend)  
 an icha ja - reluctant  
-an jami - disperse (spread out, scatter)  
-an jami di - sparse (scattered)  
+an jama - disperse (spread out, scatter)  
+an jama di - sparse (scattered)  
 an karma ja - off (deactivated, disabled)  
 an kode - decode (decrypt)  
 an limite - infinity  
@@ -363,6 +363,7 @@ be razon - make sense
 be reste - remain (stay)  
 be retro - return (get back)  
 be rupa - seem  
+be rute galte - stray (deviate)  
 be sabi vol - wonder (be interested in, would like to know)  
 be sam - resemble (be like)  
 be shuru - begin (get started)  
@@ -378,12 +379,12 @@ be van - enjoy (play)
 be vide - be seen  
 be yong liga - merge (fuse)  
 be zai - appear  
-be’e - goat  
 bebe - baby (infant)  
 bebe bede - crib  
 bede - bed  
 bedinjan - eggplant (aubergine, brinjal)  
 bega - escape (flee, run away)  
+behe - goat  
 Beijing - Beijing (Peking)  
 bel - bel (unit)  
 Belarus - Belarus  
@@ -920,7 +921,7 @@ fa biznes lon - negotiate (arrange)
 fa budi - realize  
 fa chape - press (imprint)  
 fa chori - steal  
-fa chutu - leave (go out, exit)  
+fa chuti - leave (go out, exit)  
 fa daka - cover (conceal)  
 fa dalil - prove (demonstrate, testify)  
 fa dante - bite  
@@ -977,6 +978,7 @@ fa jama - collect (gather, bring together, assemble, congregate)
 fa javabu - respond (give an answer)  
 fa jene - give birth (beget, generate, breed)  
 fa jin - put forward (advance, progress)  
+fa jude - judge  
 fa jung - center (concentrate)  
 fa kai - open  
 fa kanal - channel (conduct)  
@@ -985,7 +987,7 @@ fa karga - charge (load)
 fa karma - activate (enable, turn on, trigger)  
 fa kata - tell (narrate)  
 fa kave - dig (excavate)  
-fa kegu - visit  
+fa keka - visit  
 fa kino - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
 fa kite - remove (take away)  
 fa klar - clarify (clear up)  
@@ -1692,7 +1694,7 @@ islam - submission (surrender)
 islam din - Islam  
 islam din ja - muslim (moslem)  
 islam din sharia - shari'a  
-islamfobia - islamophobia  
+islam fobi - islamophobia  
 Islande - Iceland  
 Israel - Israel  
 Italia - Italy  
@@ -1770,7 +1772,6 @@ joven jan - youth (young person)
 joven man - boy  
 joven moka - sapling  
 joven ta - youth (young age)  
-juda - judge  
 judau - judo  
 jude - judgment (sentence)  
 jude di - judicial  
@@ -1830,7 +1831,7 @@ Kalisto - Callisto
 kalium - potassium  
 kalkul - calculus (manipulation of symbolic expressions)  
 kalmar - squid (cuttlefish)  
-kalse kristal - marble  
+kalse bilor - marble  
 kalse mate - lime  
 kalse petra - limestone  
 kalsite - calcite  
@@ -1863,7 +1864,7 @@ kandela - candela
 kandi - candy (sweets)  
 kane - bar (pole, rod, shaft, staff, stick)  
 kane kasa - cage  
-kane pan - baguette  
+kane pang - baguette  
 kanga - comb  
 kangaru - kangaroo  
 kanjar - dagger  
@@ -2602,6 +2603,7 @@ muzika ja - musician
 Myanma - Myanmar (Burma)  
 ####N - N  
 na - by (at, in, on)  
+na ekso - outside  
 na go - there  
 na in - inside  
 na ke - where  
@@ -2662,7 +2664,6 @@ nave kape ja - privateer (buccaneer)
 nave lefte - port (left side of a ship)  
 nave raite - starboard (right side of a ship)  
 nave shefe - captain  
-ne ekso - outside  
 Nederlande - Netherlands  
 Nederlande Antil - Netherlands Antilles  
 nefre - kidney  
@@ -2692,7 +2693,7 @@ nesia jama - archipelago (island chain)
 nete - net (web, mesh)  
 nete dona - upload  
 nete gete - download  
-netoloke - website  
+nete loka - website  
 Nevis - Nevis  
 ni - this  
 nia - intention (purpose)  
@@ -3227,8 +3228,7 @@ Rusia - Russia
 rusia basha - Russian language  
 rusia krepe - blini  
 rute - route (path, trail, course, itinerary)  
-rute galta - stray (deviate)  
-rute galti - stray (deviant)  
+rute galte di - stray (deviant)  
 rutenium - ruthenium  
 ruterfordium - rutherfordium  
 rutina - routine (habit)  
@@ -3264,7 +3264,7 @@ sal biskute - cracker (soda cracker)
 sal di - salty (saline)  
 salade - salad  
 salam - greeting (hello)  
-salam chutu - farewell  
+salam chuti - farewell  
 salam di - good (prosperous; used in greetings)  
 salam dia - Good day  
 salam lai - welcome!  
@@ -3754,6 +3754,7 @@ Transe Nistre Desha - Transnistria
 trati - agreement (treaty)  
 trator - drag (haul, tow, trail)  
 trator gi - tractor  
+tre - very  
 tren - train  
 tren dau - rail (railway, railroad)  
 tren kape ja - train hijacker  

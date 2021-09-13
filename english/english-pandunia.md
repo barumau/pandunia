@@ -265,7 +265,7 @@ backward (in reverse) - retro
 bad (ruined, destroyed) - harabu  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dus  
 bag (sack) - sake  
-baguette - kane pan  
+baguette - kane pang  
 bah - bah  
 bah! (yuck!) - fui  
 Baha'ism - baha din  
@@ -1015,7 +1015,7 @@ discussion (debate, discourse) - lun
 disease (illness, sickness) - pati  
 disfigure - fa dus forma  
 dislike (loathe) - an ai  
-disperse (spread out, scatter) - an jami  
+disperse (spread out, scatter) - an jama  
 distance (far away) - tele  
 distance (length) - tele ta  
 distinction (specialty) - has ta  
@@ -1273,7 +1273,7 @@ fan (ventilator) - panka
 fantastic (imaginary) - fantazi  
 fantasy (imagination) - fantazi  
 far - tele di  
-farewell - salam chutu  
+farewell - salam chuti  
 farmer - nong ja  
 fart (flatulate) - fa pede  
 fart (flatulence) - pede  
@@ -1480,7 +1480,7 @@ germanium - germanium
 Germany - Doiche  
 gesture - jeste  
 get (receive, obtain, take) - daku  
-get off (descend) - an eskala  
+get off (descend) - an eskale  
 get tired (become weary) - be fatige  
 getter (receiver, recipient) - daku ja  
 Ghana - Gana  
@@ -1512,7 +1512,7 @@ go against - kontra
 go fishing - saide yo peshe  
 go under - be niche  
 goal (destination) - gol  
-goat - be’e  
+goat - behe  
 god (deity) - deu  
 god of love (Eros, Kamadeva) - kama deu  
 gold - auro  
@@ -1828,7 +1828,7 @@ iron - feru
 ironic - ironi  
 irony - ironi  
 Islam - islam din  
-islamophobia - islamfobia  
+islamophobia - islam fobi  
 island - nesia  
 Isle of Man - Manin nes  
 Israel - Israel  
@@ -1866,7 +1866,7 @@ joule (J) - jul
 journalist - gazeta ja  
 Judaism - yehudi din  
 judge (referee) - jude ja  
-judge - juda  
+judge - fa jude  
 judgment (sentence) - jude  
 judicial - jude di  
 judo - judau  
@@ -1975,7 +1975,7 @@ leak - lou
 learn (study) - fa shula  
 leash (rein) - lida lin  
 least (minimally) - minim  
-leave (go out, exit) - fa chutu  
+leave (go out, exit) - fa chuti  
 leave behind (abandon, let go) - lashe  
 Lebanon - Libanen  
 leek - porei  
@@ -2150,7 +2150,7 @@ many (much, more than one) - poli
 map (chart, geographic map) - topo metre grafi  
 Marathi - marati  
 marathon - maraton  
-marble - kalse kristal  
+marble - kalse bilor  
 March - mes tri  
 margarine - margarin  
 margay - margai  
@@ -2580,7 +2580,7 @@ outcast (pariah) - paraya
 outcome (victory or defeat) - sheng bai  
 outer (external) - ekso di  
 outside (exterior) - ekso  
-outside - ne ekso  
+outside - na ekso  
 outsider - ekso jan  
 outward (external) - do ekso  
 oven (furnace) - tanur  
@@ -3400,7 +3400,7 @@ space (cosmos, universe) - kosmo
 spaceship - kosmo nave  
 spade - bagi bele  
 Spain - Espanya  
-sparse (scattered) - an jami di  
+sparse (scattered) - an jama di  
 speak (talk, language, communication) - basha  
 spear thistle - pero kardon  
 spearmint - zong minte  
@@ -3474,8 +3474,8 @@ storm (tempest, typhoon, hurricane, cyclone) - tafun
 straight - orto  
 straighten - fa orto  
 strange (unknown) - an sabi di  
-stray (deviant) - rute galti  
-stray (deviate) - rute galta  
+stray (deviant) - rute galte di  
+stray (deviate) - be rute galte  
 strengthen (reinforce) - fa lika  
 stretch (extend) - long tire  
 strike (punch) - darba  
@@ -3868,6 +3868,7 @@ verify (authenticate) - fa ver
 vermouth - vermute  
 version (variation, edition) - version  
 vertical - gau tal  
+very - tre  
 vice (deputy, alternative, substitute, replacement) - vise  
 vice-president - vise prezidente  
 viceroy - vise raja  
@@ -3888,7 +3889,7 @@ virtuous - bon moral di
 virus - virus  
 visa - viza  
 Vishnu - Vishnu  
-visit - fa kegu  
+visit - fa keka  
 visitation (visit) - keka  
 visitor (guest) - keka ja  
 visual field (field of vision) - vide medan  
@@ -3941,7 +3942,7 @@ weapon (arms) - arme
 wear (dress, put on) - fuku  
 weather - sama hal  
 weave (knit) - fa tela  
-website - netoloke  
+website - nete loka  
 Wednesday - var tri  
 week - var var  
 weft - vei lin  

@@ -51,7 +51,7 @@ an ai - malami
 an deu sim ja - ateisto  
 an din ja - malkredulo  
 an dosti - malamiko  
-an jami - disigi  
+an jama - disigi  
 an memo - forgesi  
 an pase - malpaco  
 an sabi di - fremda (nekonata)  
@@ -193,11 +193,11 @@ be sona - dormi
 be suka - ŝati  
 be supra - superiri  
 be ting - halti  
-be’e - kapro  
 bebe - bebo  
 bede - lito  
 bedinjan - melongeno  
 bega - fuĝi  
+behe - kapro  
 Belarus - Belorusio  
 bele - fosilo (ŝovelilo)  
 Belgi - Belgio  
@@ -484,7 +484,7 @@ fa bina - konstrui
 fa budi - kompreni  
 fa chape - presi  
 fa chori - ŝteli  
-fa chutu - eliri  
+fa chuti - eliri  
 fa daka - kovri  
 fa dante - mordi  
 fa dika - celi  
@@ -517,7 +517,7 @@ fa kai - malfermi
 fa karga - ŝarĝi  
 fa kata - rakonti  
 fa kave - fosi  
-fa kegu - vizito  
+fa keka - vizito  
 fa kino - movi  
 fa klar - klarigi  
 fa klon - kloni  
@@ -924,7 +924,7 @@ kali - alkaleca
 kali guste - amara  
 kalifornium - kaliforniumo  
 kalium - kalio  
-kalse kristal - marmoro  
+kalse bilor - marmoro  
 kalse mate - kalko  
 kalse petra - kalkoŝtono  
 kalsite - kalcito  
@@ -1266,6 +1266,7 @@ muzika ja - muzikisto
 Myanma - Birmo  
 ####N - N  
 na - ĉe (en, sur)  
+na ekso - ekster  
 na go - tie  
 na ke - kie  
 na medi - inter  
@@ -1298,7 +1299,6 @@ nave - boato (ŝipo)
 nave gou - boatumi  
 nave lefte - babordo  
 nave raite - tribordo  
-ne ekso - ekster  
 nefre - reno  
 nelu - kvar (4)  
 nen - jaro  
@@ -1548,7 +1548,7 @@ saide ja - ĉasisto
 sal - salo  
 sal di - sala  
 salam - saluto  
-salam chutu - bonan vojaĝon  
+salam chuti - bonan vojaĝon  
 salam di - bona (en salutoj)  
 salam dia - Bonan tagon  
 salam lai - bonvenon!  

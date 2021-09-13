@@ -79,10 +79,10 @@ an daka - odsłonić, odsłaniać
 an deu sim ja - ateista  
 an din ja - niewierny  
 an dosti - wróg (nieprzyjaciel)  
-an eskala - zejść (schodzić, zstąpić, zstępować)  
+an eskale - zejść (schodzić, zstąpić, zstępować)  
 an icha ja - niechętny  
-an jami - rozproszyć, rozpraszać  
-an jami di - rzadki (rozrzedzony, rozproszony)  
+an jama - rozproszyć, rozpraszać  
+an jama di - rzadki (rozrzedzony, rozproszony)  
 an karma ja - zdeaktywowany (wyłączony, zatrzymany)  
 an limite - nieskończoność  
 an memo - zapominać (zapomnieć)  
@@ -320,6 +320,7 @@ be razon - mieć sens
 be reste - zostać, zostawać  
 be retro - wrócić, wracać, wycofać się, wycofywać się  
 be rupa - wyglądać (wydawać się)  
+be rute galte - zbłąkać się (wykoleić się)  
 be sam - być podobnym, być jak  
 be shuru - zaczyna (zacząć, rozpoczynać, rozpocząć)  
 be sona - spać  
@@ -333,12 +334,12 @@ be van - cieszyć się (zażywać, bawić się)
 be vide - być widzianym  
 be yong liga - łączyć (złączyć)  
 be zai - pojawić się  
-be’e - koza  
 bebe - niemowlę  
 bebe bede - kojec  
 bede - łóżko  
 bedinjan - bakłażan, oberżyna  
 bega - uciec, uciekać  
+behe - koza  
 Beijing - Pekin  
 bel - bel  
 Belarus - Białoruś  
@@ -795,7 +796,7 @@ fa biznes lon - negocjować
 fa budi - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 fa chape - naciskać, zostawiać ślad  
 fa chori - ukraść, kraść  
-fa chutu - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
+fa chuti - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 fa daka - przykryć, przykrywać, ukryć, ukrywać  
 fa dalil - dowieść, dowodzić; zeznać, zeznawać  
 fa dika - celować  
@@ -836,6 +837,7 @@ fa hogo - spalić, palić
 fa jama - kolekcjonować, zebrać, zbierać  
 fa javabu - odpowiedzieć, odpowiadać  
 fa jene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
+fa jude - sądzić (osądzić)  
 fa jung - centrować, skupić, skupiać  
 fa kai - otworzyć, otwierać  
 fa kanal - kierować (doprowadzać, prowadzić, służyć jako kanał)  
@@ -843,7 +845,7 @@ fa kancha dake - szklić (glazurować)
 fa karma - aktywować (włączyć, uruchomić)  
 fa kata - opowiedzieć, opowiadać  
 fa kave - wykopać, kopać, wydobyć, wydobywać, wykopywać  
-fa kegu - odwiedzić, odwiedzać  
+fa keka - odwiedzić, odwiedzać  
 fa kino - ruszać, przenościć, zmieniać miejsce, inspirować  
 fa klar - wyklarować (rozjaśnić)  
 fa klas - klasyfikować, kategoryzować  
@@ -1460,7 +1462,7 @@ islam - poddanie się, uległość, pokora, posłuszeństwo
 islam din - Islam  
 islam din ja - muzułman, muzułmanin  
 islam din sharia - szariat  
-islamfobia - islamofobia  
+islam fobi - islamofobia  
 Islande - Islandia  
 Israel - Izrael  
 Italia - Italia, Włochy  
@@ -1528,7 +1530,6 @@ joven jan - młodzież, młoda osoba
 joven man - chłopak  
 joven moka - młode drzewo  
 joven ta - młodość  
-juda - sądzić (osądzić)  
 judau - judo  
 jude - wyrok  
 jude ja - sędzia  
@@ -1582,7 +1583,7 @@ kalifornium - kaliforn
 kalium - potas  
 kalkul - rachunek (formalny system obliczeń)  
 kalmar - kałamarnica (mątwa)  
-kalse kristal - marmur  
+kalse bilor - marmur  
 kalse mate - wapno  
 kalse petra - wapień  
 kalsite - kalcyt  
@@ -1610,7 +1611,7 @@ kandela - kandela
 kandi - cukierek, słodycze  
 kane - pręt, kij  
 kane kasa - klatka  
-kane pan - bagietka  
+kane pang - bagietka  
 kanga - grzebień  
 kangaru - kangur  
 kanjar - sztylet (puginał)  
@@ -2362,7 +2363,7 @@ nesia jama - archipelag
 nete - sieć  
 nete dona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 nete gete - ściągać (ściągnąć, pobrać, pobierać)  
-netoloke - witryna internetowa (portal internetowy)  
+nete loka - witryna internetowa (portal internetowy)  
 Nevis - Nevis  
 ni - ten  
 niche - spód  
@@ -2831,8 +2832,7 @@ Rusia - Rosja
 rusia basha - rosyjski  
 rusia krepe - rosyjski naleśnik (blin)  
 rute - ścieżka (droga, szlak, kurs)  
-rute galta - zbłąkać się (wykoleić się)  
-rute galti - zbłąkany (dewiacyjny, wykolejony)  
+rute galte di - zbłąkany (dewiacyjny, wykolejony)  
 rutenium - rut  
 ruterfordium - rutherford  
 rutina - rutyna, nawyk, zwyczaj  
@@ -2866,7 +2866,7 @@ sal - sól
 sal di - słony  
 salade - sałatka  
 salam - pozdrowienie  
-salam chutu - żegnaj, dobre odejście  
+salam chuti - żegnaj, dobre odejście  
 salam di - dobry ...  
 salam dia - dzień dobry  
 salam lai - witaj, dobre przybycie  

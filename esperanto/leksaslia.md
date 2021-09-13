@@ -97,6 +97,7 @@
 |**bede**|lito|angla:bed, japana:ベッド (beddo), deu:Bett, konga:mbeto, sna:mubhedha, zulua:umbhede|
 |**bedinjan**|melongeno|hindia:बैंगन (bEngān), araba:(bādinjān), portugala:berinjela, franca:aubergine, hispana:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), turka:badincan, patlıcan, rusa:баклажан (baklažan), svahila:mbilingani|
 |**bega**|fuĝi|rusa:убегать (ubegat'), hindia:भागना (bhāgnā)|
+|**behe**|kapro|angla:baa, portugala:bé, rusa:бэ-бэ (be-be), polona:bee|
 |**bele**|fosilo (ŝovelilo)|persa: بیل‎ (bil), turka:bel, hindia:बेलचा (belcā), bengala:বেলচা (bēlacā), svahila:beleshi + franca:pelle, kmera:ប៉ែល (pael)|
 |**ben**|ido (infano)|araba: ابن (ibn, bint), heb:בן (ben), בת (bat)|
 |**benchi**|benko|angla:bench, svahila:benchi, hindia:बेंच (bẽc), japana:ベンチ (benchi), korea:벤치 (benchi)|
@@ -104,7 +105,6 @@
 |**bere**|bereto|franca:béret, turka:bere, angla:beret, japana:ベレー帽 (berē bō), mandarena:贝雷帽 (zh) (bèiléimào), rusa:берет (beret)|
 |**beton**|betono|franca:béton, portugala:betão, deu:Beton, rusa:бетон (beton), polona:turka:beton, persa:بتن‎ (beton)|
 |**betula**|betulo|hispana:abedul, portugala:bétula, araba: بَتُولَا‎ (batūlā)|
-|**be’e**|kapro|angla:baa, portugala:bé, rusa:бэ-бэ (be-be), polona:bee|
 |**bichi**|vipo|rusa:бич (bič), polona:bicz, ron:bici, deu:Peitsche|
 |**bil**|ebla (povi)|turka:bilmek + franca:habile, hispana:portugala:hábil, angla:able;ability|
 |**bindu**|punkto|hindia:बिंदु (bindu), bengala:বিন্দু (bindu), taja:พินทุ (pintu), angla:bindi (holy dot), rusa:бинди (bindi)|
@@ -164,7 +164,7 @@
 |**chum**|kiso|hindia:चूमना (cūmnā), urdua:(cūmnā), malajala:ചുംബനം (cumbanaṃ), malaja:cium, japana:チュー (chū), taja:จูบ (cup)|
 |**chun**|vilaĝo|mandarena:村 (cūn), kantona:村 (cyun1), japana:村 (son), korea:촌 (chon), vjetnama:thôn|
 |**chupa**|suĉi|hispana:portugala:chupar, kmera:ជប់ (cup)|
-|**chuti**|eliro|mandarena:出 (chū), kantona:出 (ceot1), vua:出 (tsheq4), japana:出 (shutsu), korea:출 (chul), vjetnama:xuất|
+|**chuti**|eliro|mandarena:出 (chū), kantona:出 (ceot1), vua:出 (tsheq4), hakaa:出 (chut), japana:出 (shutsu), korea:출 (chul), vjetnama:xuất, hindia:छूटना (chūtnā) + turka:çıkmak|
 |**chuze**|elekti|angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn|
 |**da**|de (partiklo de posedo)|franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|oceano|mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)|
@@ -235,7 +235,6 @@
 |**Eurasia**|Eŭrazio|angla:hispana:malaja:Eurasia, portugala:Eurásia, franca:Eurasie, rusa:Евразия (Evraziya), turka:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), araba:يُورَاسِيَا‎ (yūrāsiyā), hindia:यूरेशिया (yūreśiyā), bengala:ইউরেশিয়া (iureśiẏa), mandarena:歐亞大陸 (Ōuyà dàlù), japana:ユーラシア (yūrashiya)|
 |**eureka**|trovi|greka:ευρίσκω (evrísko), angla:hispana:eureka, portugala:eureca, franca:eurêka, rusa:эврика (evrika), turka:efreka, japana:ユーレカ (yūreka)|
 |**Europe**|Eŭropo|angla:franca:Europe, hispana:portugala:deu:polona:Europa, greka:Ευρώπη (Evrópi) rusa:Европа (Evropa), turka:Avrupa, svahila:Uropa, hindia:यूरोप (yūrop), malaja:Eropah, mandarena:歐洲 (Ōuzhōu), japana:ヨーロッパ (yōroppa)|
-|**fa chutu**|eliri|mandarena:出 (chū), hakaa:出 (chut), japana:出 (shutsu), korea:출 (chul), hindia:छूटना (chūtnā) + turka:çıkmak|
 |**fa daka**|kovri|hindia:ढकना (dhaknā), bengala:ঢাকা (ḍhaka), panĝaba:ਢੱਕਣਾ (ḍhakṇā), deu:decken, angla:deck|
 |**fa fikse**|fiksi|angla:fix, franca:fixer, hispana:fijar, portugala:fixar|
 |**fa kave**|fosi|hispana:portugala:cavar, angla:excavar, franca:excaver|

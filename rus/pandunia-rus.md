@@ -148,6 +148,7 @@ be mal - принадлежать
 be migra - переезжать  
 be pute - гнить (портиться)  
 be retro - возвращаться  
+be rute galte - отходить (скитаться)  
 be sabi vol - задуматься (думать, гадать)  
 be sona - спать  
 be tele loka - телепортировать  
@@ -629,7 +630,7 @@ kali guste - горький
 kali melon - горький огурец (китайская горькая тыква)  
 kali oranje - померанец  
 kalmar - кальмар  
-kalse kristal - мрамор  
+kalse bilor - мрамор  
 kalse mate - известь  
 kalse petra - известняк  
 kalsite - кальцит  
@@ -1139,7 +1140,6 @@ ruhu - душа (дух)
 ruhu mishe - озадачить  
 ruhu mishe di - растерянный (озадаченный)  
 ruke sake - рюкзак  
-rute galta - отходить (скитаться)  
 ####S - S  
 sabe - знать  
 sabe vol - интерес (любопытство)  
@@ -1344,6 +1344,7 @@ topo metre grafi - карта (план)
 trati - договор  
 trator - волочить  
 trator gi - трактор  
+tre - очень  
 tri - три (3)  
 tri zong - трезубец  
 truke - обман  

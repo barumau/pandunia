@@ -56,7 +56,7 @@ adelante - do jin
 además - e mas  
 adhesivo - glu grafi  
 adicional (extra) - mas di  
-adiós - salam chutu  
+adiós - salam chuti  
 adjetivo - sifa loga  
 adoquín - gola sheku  
 adoración (veneración, culto) - puja  
@@ -198,7 +198,7 @@ análisis (disección) - fen gata
 análisis de datos - data fen gata  
 anón (ates, saramuyo) - ata  
 aparecer - be zai  
-apartarse (desviarse) - rute galta  
+apartarse (desviarse) - be rute galte  
 apellido - famili name  
 aplicación - aplika  
 aprender (estudiar) - fa shula  
@@ -325,7 +325,7 @@ babor - nave lefte
 bacalao - bakalau  
 bacalao común - atlanti bakalau  
 backgammon - nardi  
-baguette - kane pan  
+baguette - kane pang  
 bah - bah  
 Bahamas - Bahama  
 bahaísmo (fe bahá'i) - baha din  
@@ -482,7 +482,7 @@ cabello - sar kesha
 cabeza - sar  
 cable - eletro lin  
 Cabo Verde - Kabu Verde  
-cabra - be’e  
+cabra - behe  
 caca - kaka  
 cacao - kakau  
 cacto - katus  
@@ -1075,7 +1075,7 @@ disentir (no estar de acuerdo) - alo rai
 disfrutar (jugar) - be van  
 disionario (lexicón) - loga liste  
 disparar - pau  
-dispersar (esparcir, desmontar) - an jami  
+dispersar (esparcir, desmontar) - an jama  
 disposición (naturaleza, carácter, -ivo, -idad) - tabi  
 dispositivo pirotécnico - hogo tehni  
 disprosio - disprosium  
@@ -1254,7 +1254,7 @@ escaparse (evitar, huir) - bega
 escapatoria - chuti  
 escarcha - hima rose  
 escasez - shau ta  
-escaso (disperso, ralo) - an jami di  
+escaso (disperso, ralo) - an jama di  
 escenario (podio, estrado, tarima) - tai  
 Escocia - Eskote  
 escribir - kitabu  
@@ -1831,7 +1831,7 @@ Isla de San Vicente - Sante Vinsente
 Isla Norfolk - Norfolke nes  
 Isla Santa Elena - Sante Helena  
 islamismo (islam) - islam din  
-islamofobia - islamfobia  
+islamofobia - islam fobi  
 Islandia - Islande  
 islas Aland - Olande nesia  
 islas Caimán - Kaiman nesia  
@@ -1892,7 +1892,7 @@ Jupiter - Jupiter
 justicia - adil ta  
 justo - adil  
 juventud - joven ta  
-juzgar - juda  
+juzgar - fa jude  
 ####K - K  
 karaoke - karaoke  
 karate - karate  
@@ -2132,7 +2132,7 @@ margarita común (pascueta) - english margarita
 marina (armada) - hai gun  
 marioneta (títere) - pupe  
 mariposa (palomilla) - pelpel  
-marmól - kalse kristal  
+marmól - kalse bilor  
 Marruecos - Magribi desha  
 marrón - kafe rang  
 Marte - Marse  
@@ -2326,6 +2326,7 @@ musgo - mos
 musgoso - mos di  
 musulmán - islam din ja  
 mutuo (recíproco) - se kon su  
+muy - tre  
 Myanmar (Birmania) - Myanma  
 máquina (dispositivo, aparato) - gi  
 máquina de escribir - kitabu gi  
@@ -3112,7 +3113,7 @@ salchicha - sosis
 salida - chuti mun  
 salino - sal di  
 salir (egresar) - be ekso  
-salir (irse) - fa chutu  
+salir (irse) - fa chuti  
 salmodiar - mantra  
 salmón (trucha) - salmon  
 salmón chum (keta) - baku salmon  
@@ -3229,7 +3230,7 @@ sismología - sismologi
 sistema - sistem  
 sistema solar - sol sistem  
 sistémico - sistem di  
-sitio web - netoloke  
+sitio web - nete loka  
 situación - she hal  
 sobre - na supra  
 sobrepasar - be supra  
@@ -3621,7 +3622,7 @@ virtuoso (moral) - bon moral di
 virus - virus  
 visado - viza  
 Vishnú - Vishnu  
-visitar - fa kegu  
+visitar - fa keka  
 visitar - keka  
 vista (visión) - vide she  
 viudo - vidou  

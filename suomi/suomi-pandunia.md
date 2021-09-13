@@ -505,8 +505,8 @@ haista - aroma
 haistaa - aroma  
 Haiti - Haiti  
 hajalla - perisha di  
-hajanainen - an jami di  
-hajauttaa - an jami  
+hajanainen - an jama di  
+hajauttaa - an jama  
 hajottaa (särkeä, repiä, sirpaloida) - fa parche  
 haju - aroma  
 hakaristi (svastika) - huke krus  
@@ -686,7 +686,7 @@ hyväksyä - bon rai
 hyväksyä - fa oke  
 hyvännäköinen (kaunis, komea) - bon vide di  
 Hyvää iltaa - salam sham  
-hyvää matkaa - salam chutu  
+hyvää matkaa - salam chuti  
 hyvää ruokahalua! - salam yam  
 hyytelö - jele  
 hyödyllinen - faida di  
@@ -773,7 +773,7 @@ Irlanti - Aire
 irvistys - grimas  
 isku (šokki) - shoke  
 islam - islam din  
-islamofobia (islamin pelko) - islamfobia  
+islamofobia (islamin pelko) - islam fobi  
 Islanti - Islande  
 iso (suuri) - dai  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britan  
@@ -1383,7 +1383,7 @@ käskyvalta - amir haki
 kätevä - jang di  
 kävellä - marche  
 kävely (marssi) - marche  
-käydä (vierailla) - fa kegu  
+käydä (vierailla) - fa keka  
 käynti (vierailu, visiitti) - keka  
 käyttäjä - use ja  
 käyttäytyä - manera  
@@ -1435,7 +1435,7 @@ lasagne - lazanya
 lasi - kancha  
 laskea (tehdä laskutoimitus) - fa hisabu  
 laskea tasoa - dus darja  
-laskeutua - an eskala  
+laskeutua - an eskale  
 lasku (faktuura) - fatura  
 lasku (laskelma) - hisabu  
 laskuoppi (aritmetiikka) - hisabu shuta  
@@ -1681,7 +1681,7 @@ maratoni - maraton
 margariini - margarin  
 marja - beri  
 markkinaliberalismi - bazar huru sim  
-marmori - kalse kristal  
+marmori - kalse bilor  
 Marokko - Magribi desha  
 marraskuu - mes des un  
 Mars - Marse  
@@ -1909,7 +1909,7 @@ neptunium - neputunium
 Neptunus - Neputun  
 neste - dara mate  
 nestemäinen - dara mate di  
-nettisivu - netoloke  
+nettisivu - nete loka  
 neuvo - sela loga  
 neuvoa - fa sela  
 neuvontantaja (mentori) - mentor  
@@ -2161,7 +2161,7 @@ pata - pote
 patja - matras  
 patogeeni - pati jene she  
 patologia (tautioppi) - pati logi  
-patonki (ranskanleipä) - kane pan  
+patonki (ranskanleipä) - kane pang  
 pehmeä - komal  
 peikko - gui  
 peili - mira plate  
@@ -2280,7 +2280,7 @@ poistaa (paitsi, poislukien) - fa ekso
 poistaa toiminnasta - fa an karma  
 poistaa virheitä (debugata) - fa an galta  
 poistua (mennä ulos) - be ekso  
-poistua - fa chutu  
+poistua - fa chuti  
 poistuminen - chuti  
 pokeri - poker  
 poliiisi (poliisimies) - polis ja  
@@ -3111,7 +3111,7 @@ tuoli - kursi
 tuolla - na go  
 tuomari - jude ja  
 tuomio - jude  
-tuomita - juda  
+tuomita - fa jude  
 tuore (raikas) - taza  
 tuotanto - sana  
 tuottava (tuottelias) - sana ja di  
@@ -3187,7 +3187,7 @@ ulko- (ulkoinen) - ekso di
 ulkoinen - do ekso  
 ulkomaa - ekso desha  
 ulkomaalainen - ekso desha di  
-ulkona (ulkopuolella) - ne ekso  
+ulkona (ulkopuolella) - na ekso  
 ulkopuoli - ekso  
 ulkopuolinen - ekso jan  
 ulkosyntyinen - ekso jene di  
@@ -3425,7 +3425,7 @@ voltti (V) - volte
 voodoo - vodun  
 vuode (sänky, peti) - bede  
 vuodenaika - mosim  
-vuohi - be’e  
+vuohi - behe  
 vuokra - kira  
 vuokrata - kira dona  
 vuokrata - kira kape  

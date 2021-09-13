@@ -84,8 +84,8 @@ an air bio di - anaeróbico
 an daka - destapar  
 an deu sim ja - ateo  
 an din ja - infiel (descreído)  
-an jami - dispersar (esparcir, desmontar)  
-an jami di - escaso (disperso, ralo)  
+an jama - dispersar (esparcir, desmontar)  
+an jama di - escaso (disperso, ralo)  
 an memo - olvidar  
 an mesi - Anticristo  
 an nam - antónimo  
@@ -329,6 +329,7 @@ be razon - tener sentido
 be reste - quedarse  
 be retro - volver  
 be rupa - parecer  
+be rute galte - apartarse (desviarse)  
 be sabi vol - preguntarse  
 be sam - parecerse a  
 be shuru - comenzar (iniciarse, empezar)  
@@ -342,11 +343,11 @@ be van - disfrutar (jugar)
 be vide - ser visto  
 be yong liga - fusionar (fundir)  
 be zai - aparecer  
-be’e - cabra  
 bebe - bebé  
 bede - cama (lecho)  
 bedinjan - berenjena  
 bega - escaparse (evitar, huir)  
+behe - cabra  
 Beijing - Pekín  
 bel - belio  
 Belarus - Belarús  
@@ -821,7 +822,7 @@ fa biznes lon - negociar
 fa budi - darse cuenta (notar)  
 fa chape - imprimir  
 fa chori - robar (hurtar)  
-fa chutu - salir (irse)  
+fa chuti - salir (irse)  
 fa daka - cubrir (tapar)  
 fa dalil - probar (demonstrar, comprobar)  
 fa dante - morder  
@@ -872,13 +873,14 @@ fa in klus - incluir
 fa jama - recoger (juntar, reunir, acumular, recolectar, montar)  
 fa javabu - responder (contestar)  
 fa jene - dar a luz (enngendrar, parir, procrear)  
+fa jude - juzgar  
 fa jung - centrar (concentrar)  
 fa kai - abrir  
 fa kancha dake - vidriar (glasear)  
 fa karga - cargar  
 fa kata - relatar (narrar)  
 fa kave - cavar (excavar)  
-fa kegu - visitar  
+fa keka - visitar  
 fa kino - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
 fa kite - quitar (remover)  
 fa klar - aclarar (clarificar)  
@@ -1524,7 +1526,7 @@ islam - sumisión (rendición)
 islam din - islamismo (islam)  
 islam din ja - musulmán  
 islam din sharia - sharía  
-islamfobia - islamofobia  
+islam fobi - islamofobia  
 Islande - Islandia  
 Israel - Israel  
 Italia - Italia  
@@ -1594,7 +1596,6 @@ joven jan - joven
 joven man - niño  
 joven moka - pimpollo  
 joven ta - juventud  
-juda - juzgar  
 judau - yudo  
 jude - fallo (juicio, criterio)  
 jude ja - juez (árbitro, réferi)  
@@ -1650,7 +1651,7 @@ kalifornium - californio
 kalium - potasio  
 kalkul - cálculo  
 kalmar - calamar  
-kalse kristal - marmól  
+kalse bilor - marmól  
 kalse mate - cal  
 kalse petra - caliza  
 kalsite - calcita  
@@ -1676,7 +1677,7 @@ kandela - candela (unidad de intensidad luminosa)
 kandi - caramelo  
 kane - barra (vara, palo)  
 kane kasa - jaula (caja)  
-kane pan - baguette  
+kane pang - baguette  
 kanga - peine  
 kangaru - canguro  
 kanjar - puñal (daga)  
@@ -2439,7 +2440,7 @@ nesia jama - archipiélago
 nete - red  
 nete dona - cargar (subir)  
 nete gete - descargar  
-netoloke - sitio web  
+nete loka - sitio web  
 Nevis - Nieves  
 ni - este  
 nia - intención (intento)  
@@ -2934,7 +2935,6 @@ rupa - aspecto
 Rusia - Rusia  
 rusia basha - idioma ruso  
 rute - ruta  
-rute galta - apartarse (desviarse)  
 rutenium - rutenio  
 ruterfordium - rutherfordio  
 rutina - rutina (hábito)  
@@ -2967,7 +2967,7 @@ sal - sal
 sal di - salino  
 salade - ensalada  
 salam - saludo  
-salam chutu - adiós  
+salam chuti - adiós  
 salam di - buen (hola)  
 salam dia - buenas tardes  
 salam lai - bienvenido  
@@ -3424,6 +3424,7 @@ Transe Nistre Desha - Transnistria (Cisdniéster)
 trati - contrato (tratado)  
 trator - arrastrar  
 trator gi - tractor  
+tre - muy  
 tren - tren  
 tren dau - vía férrea  
 tri - tres (3)  

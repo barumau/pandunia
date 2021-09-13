@@ -576,7 +576,7 @@ kali - base (álcali)
 kali - alcalino  
 kali guste - amargo  
 kalmar - lula (calamar)  
-kalse kristal - mármore  
+kalse bilor - mármore  
 kalse mate - cal  
 kalse petra - calcário  
 kalsite - calcita  

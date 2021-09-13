@@ -822,7 +822,7 @@ mundo - dunia
 mundo das fadas (paraíso) - pari desha  
 muro (muralha) - mur  
 máquina de escrever - kitabu gi  
-mármore - kalse kristal  
+mármore - kalse bilor  
 máscara - maska  
 máximo - masim  
 mãe - ma  
