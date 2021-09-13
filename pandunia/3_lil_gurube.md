@@ -1,109 +1,109 @@
-# tin lil gurube
+# tri lili goro
 
-<small>"Three Little Pigs" sa pandunia bax. kitabu **thethedorn**.</small>
+<small>"Three Little Pigs" na Pandunia basha. be kitabu **thethedorn**.</small>
 
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 
-cheno, lawi mame gurube tena tin lili gurube.
-a le no tena basi yam pa dona pa lole.
-sa den da lole baso lawi, le misa lole pa dunia pa lole sercha zi gol sa jive.
+na tele pas, mama goro ten tri lili goro.
+ama ya no ten basa yam do dona do yamen.
+un den na yamen si basa lau, ya mise yamen do dunia do yamen soka semen su gol na jiu.
 
-gurube nombre un no suku werke multo.
-le pano no wana werka e le bina zi dome ca suhi gras.
-gurube nombre dul werka lilo max,
-a le plus lilo no suku werke,
-e le bina zi dome sa xake.
-badu ye, lole canta e dansa e fanu sa mey den.
+un me goro no suka gung.
+ya pul no vol gung e bina se su dom ze gan chau.
+du me goro ye lili mas di gung,
+ama ya zoku lili no suka gung,
+e ya bina se du dom ze moka kane.
+na pos da go, yamen chante e danse e van na pan un dia.
 
-gurube nombre tin tezo werka sa pan den,
-e le bina zi dome sa petre.
-le forti dome.
-le tena tanure e dumanotube.
-le rupa ko le abla jiva sa forte da maxim forti hawe.
+tri me goro teza gung na pan dia,
+e ya bina se su dom ze petra.
+ya si lika dom.
+ya ten tanur e duman tubo.
+ya rupa si ya bil lika lipa na la masim lika hava.
 
-sa badoden, wolfe gowa sa karibi daw, da tin gurube doma.
-le vida suhi grase du dome,
-e le nosonota gurube sa junge da dome.
-le fikra gurube si bon niame,
-e li boke kaixu cana suy.
+na pos den, volfe move na karibu dau, na jo la tri goro ye dom.
+ya vide gan chau di dom,
+e ya aroma la goro na in da dom.
+ya fikir la goro si bon yam,
+e ya su boke ye kai sana yo sui.
 
 <p style="font-size:6em;text-align:center;">🐺</p>
 
-wolfe darba mun, e loga:
-"lil gurube! lil gurube! pliza kaya mun! pliza kaya mun!"
-a lil gurube vida wolfe du day hande sa cabokonge.
-le jawaba: "no! no! no!"
-bado, wolfe xowa zi dante e loga:
-"me hawa e me hawa e me parca ti dome!"
+la volfe fa darba la mun, e loga:
+"lili goro! lili goro! ching kai la mun! ching kai la mun!"
+ama la lili goro ye vide la volfe su dai hande na la chabi kong.
+ya javabu: "no! no! no!"
+pos, la volfe fa shou se su dante e loga:
+"mi hava e mi hava e mi parcha tu su dom!"
 
-le hawa e le hawa e le parca dome!
-wolfe kaya boke maxim ko le abla,
-a gurube nombre un gowa tele,
-pa dome da lil gurube nombre dul.
+ya hava e ya hava e ya parcha la dom!
+la volfe fa kai se su boke do masim jo ya bil,
+ama un me goro be kite,
+do dom da du me lili goro.
 
-wolfe kontinu sa lil daw.
-le pasa dome nombre dul, da fatu sa xake.
-le vida dome.
-le noso nota gurube sa inde.
-li boke kaixu cana suy,
-sabu le fikra lole si bon niame.
+la volfe zoku na lili dau.
+ya pas du me dom, jo sana ha moka kane.
+ya vide la dom.
+ya aroma la goro na in.
+ya su boke ye kai sana yo sui,
+ze saba da ya fikir yamen si bon yam.
 
-le darba mun, e loga:
-"lil gurube! lil gurube! pliza kaya mun! pliza kaya mun!"
-a lil gurube vida wolfe du goni ore sa cabokonge.
-lole jawaba: "no! no! no!"
-wolfe xowa zi dante e loga:
-"me hawa e me hawa e me parca ti dome!"
+ya fa darba la mun, e loga:
+"lili goro! lili goro! ching kai la mun! ching kai la mun!"
+ama la lili goro vide la volfe su gona ore na la chabi kong.
+yamen javabu: "no! no! no!"
+la volfe shou se su dante e loga:
+"mi hava e mi hava e mi parcha tu su dom!"
 
 <p style="font-size:6em;text-align:center;">🌬️</p>
 
-le hawa e le hawa e le parca dome!
-wolfe testa kapa dul gurube sa sami zamane,
-a le wana max ko baso, e le kapa nol gurube!
-li day boke kayulu sa nole minus aire.
-dul lil gurube gowa tele maximo rapido ko loli pede abla porta lole.
+ya hava e ya hava e ya parcha la dom!
+volfe teste kape la du goro na sam zaman,
+ama ya vol mas ka basa, e ya kape siro goro!
+ya su dai boke be klus do siro she ama air.
+la du lili goro be kite, masim rapide ka yamen su fute bil kino yamen.
 
-wolfe testa kapa lole sa lil daw.
-le karibo kapa lole,
-a lole laya pa petri dome e kelelo kayula mun sa zi pice
-e sa ante da wolfe abla kapa lole.
+la volfe teste kape yamen na lili dau.
+ya karibu kape yamen,
+ama yamen lai do petra dom e kelele kai la mun
+e na chen da la volfe ye bil kape yamen.
 
-tin lil gurube fobu.
-lole jana wolfe wana niama lole.
-we si multo multo fobi.
-wolfe no lewo niama sa pan den,
-e le niamowane kaixu esa no tolerabli.
-sa yi ban le abla noso nota pan tin gurube sa dome.
-le jana tin lil gurube si bon niame.
+la tri lili goro ye fobi.
+yamen sabe la volfe ye vol yam yamen.
+yamen si multi multi fobi.
+la volfe no leu yam na pan den,
+e ya su yam vol be kai no toler bil.
+ya zai bil aroma la pan tri goro na dom.
+ya sabe la tri lili goro si bon yam she.
 
-wolfe darba mun, e loga:
-"lil gurube! lil gurube! pliza kaya mun! pliza kaya mun!"
-a lil gurube vida wolfe du lil limonorangi kane sa cabokonge.
-lole loga: "no! no! no!"
-wolfe xowa zi dante e loga:
-"me hawa e me hawa e me parca toti dome!"
+la volfe fa darba la mun, e loga:
+"lili goro! lili goro! ching kai la mun! ching kai la mun!"
+ama lili goro vide la volfe su lili huang oko na chabi kong.
+yamen loga: "no! no! no!"
+la volfe shou se su dante e loga:
+"mi hava e mi hava e mi parcha tumen su dom!"
 
-le hawa e le hawa.
-le hawa e le hawa.
-e le hawa, e le hawa, e le hawa,
-a le no abla parca wi dome.
-sa fine, le multo fatigo hawa.
-suno le no abla hawa max.
-le tingu pa xuxu,
-e le lilo fikra.
+ya hava e ya hava.
+ya hava e ya hava.
+e ya hava, e ya hava, e ya hava,
+ama ya no bil parcha go dom.
+na fin, ya multi fatige di hava.
+sun ya no bil mas hava.
+ya ting do shush,
+e ya lili fikir.
 
-ye si max ko baso.
-wolfe marca sa sirke sa furia.
-le loga le laya transa dumanotube e le niama lil gurube sa xamoniame.
-a sa dure du le gowa pa cate yu dome,
-lil gurube fata multo garmi pire e loka dayi suyoketele pa pire.
-bado, sa sami zamane da wolfe gowa pa tale da tanure,
-lil gurube kaya ketele...
-a! wolfe gowa inde da multo garmi suy!
+ni si mas ka basa.
+la volfe marcha na gola na furi.
+ya plan ya lai do transe da la duman tubo e ya yam lili goro do sham yam.
+ama na dura da ya eskale do chati da la dom,
+la lili goro ye sana un multi garma di hogo e loka un dai sui ketel na hogo.
+na pos, na sam zaman da la volfe lai do tal da tanur,
+la lili goro fa kai la ketel...
+la! volfe be padu do in da multi garma di sui!
 
 <p style="font-size:6em;text-align:center;">🔥</p>
 
-lil gurube loka dake pa ketele.
-wolfe bulu sa ketele!
-e tin lil gurube niama le sa xamoniame.
+la lili goro fa loka un daka na la ketel.
+la volfe be boli na ketel!
+e la tri lili goro ye yam ya do sham yam.
 
