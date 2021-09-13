@@ -7,18 +7,18 @@ site_dir: ../../html/pandunia
 theme: readthedocs
 nav:
     - ABC: abc.md
-    - sage:
-        - 'lili urse du tungi dante': urse_dante.md
-        - 'tin buze e guye': 3_buze_e_guye.md
-        - 'tin lili gurube': 3_lil_gurube.md
-    - kitabe:
-        - 'insan du putongi hake': putong_hake.md
-        - 'dini kitabe': dini_kitabe.md
-    - logoliste:
-        - 'logia': logia.html
-        - 'desha nam': desha_nam.md
-        - 'logaslia': leksaslia.md
-        - 'loga di numbe': loga_di_numbe.md
+    - kata:
+        - 'la lili urse su pasi dante': urse_dante.md
+        - 'tri behe e un gui': 3_buze_e_guye.md
+        - 'tri lili goro': 3_lil_gurube.md
+    - kitabu:
+        - 'insan su putong haki': putong_hake.md
+        - 'din kitabu': dini_kitabe.md
+    - 'loga liste':
+        - 'loga buku': logia.html
+        - 'desha name': desha_nam.md
+        - 'loga asal': leksaslia.md
+        - 'loga su nomer': loga_di_numbe.md
     - filme: filme.md
     - linke: linke.md
 
