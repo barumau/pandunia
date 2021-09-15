@@ -445,7 +445,7 @@ to eat or drink
 **no yam.**
 = No.  
 <big>👩‍🍳</big>
-**danke. mi dona un chai e un kafe e un supe an pos da des minute.**
+**danke. mi dona un chai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 

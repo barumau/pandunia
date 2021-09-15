@@ -486,7 +486,8 @@ Brazil|desha|BR||Brazil||Brasil|||||||||||||Brazilo|Brasilia|Brazyla
 briko|pal||ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|apricot (plum, peach)|abricot (prune)|albaricoque (ciruela)|damasco (abricó, ameixa)|абрикос (слива)||杏子 (李子)|アンズ (梅, モモ, プラム)|자두|mận|ख़ूबानी (आलूचा)|খুবানি||aprikoti|kayısı (zerdali, erik)|abrikoto (pruno)|aprikoosi (luumu)|morela (śliwka)
 Britan|desha|GB||United Kingdom||Reino Unido||||||||||||||Iso-Britannia (Yhdistyneet Kuningaskunnat)|Zjednoczone Królestwo
 brom|mate|Br||bromine||bromo|||||||||||||bromo|bromi|brom
-brosh|||eng:brush, fra:brosse, ben:ব্রাশ (braś), hin:ब्रश (braś), urd:(braś), hau:swa:burashi, jpn:ブラシ (burashi), kor:브러시 (beureosi), fas:(boros), may:berus|brush||cepillo (brocha)|||||||||||||broso|harja|szczotka
+brosha|||eng:brush, fra:brosse, spa:por:brocha, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, fas:(boros), may:berus, ara: فُرْشَاة‎ (furšāh), tur:fırça|brush|brosse|cepillo (brocha)|brocha (pincel)|щётка|فُرْشَاة‎|笔||||ब्रश|ব্রাশ||burashi|fırça|broso|harja|szczotka
+brosha kalam||||inkbrush (calligraphy brush)||||||毛笔|筆 (毛筆)|||||||||mustesivellin|
 Brunei|desha|BN||Brunei Darussalam||Brunei||||||||||||||Brunei|Brunei Darussalam
 brus||||sibling (brother or sister)||hermano o hermana|||||||||||||frato aŭ fratino|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
 brusben||||nephew or niece||||||||||||||||sisaruksen lapsi|
@@ -539,8 +540,6 @@ chapati|||hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapati, rus
 chape|||hin:छाप (chāp), ben:ছাপ (chap), may:cap, eng:chop|print (stamp)||grabado (sello, estampando)||||||||छाप|ছাপ||||presaĵo|painos (leima)|odcisk, ślad; stempel, pieczęć
 charme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 chati|||hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)|roof|toit|techo (tejado)|telhado|крыша (кров)|سَطْح‎|屋顶 (房顶)|屋根|지붕|mái|छत (छदि)|ছাদ|atap|paa|çatı|tekto|katto (katos)|dach
-chau|bio||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass||césped (hierba)|||||草||||||||herbo|ruoho|trawa
-chau topo||||grassland (prairie)||pradera (pastizal)|||||草地|||||||||ruohotasanko|łąka
 cheke|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|check (to examine)||revisar (chequear)|||||||||||||kontroli|tarkistaa (tsekata)|sprawdzić, sprawdzać, skontrolować
 chen||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
 chen|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before, in the past)|avant|más temprano (antes, haber, en el pasado)||раньше||以前|以前 (前に)|전에|||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|wcześniej (uprzednio, poprzednio, przedtem)
@@ -633,7 +632,7 @@ Danske||||Danish|danois|danés|danês|датский|دَنْمَارْكِيّ�
 Danske desha|desha|DK||Denmark||Dinamarca|||||||Đan Mạch||||||Danio|Tanska|Dania
 dante|||spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā̃t), ben:দাঁত (dãtô), pan:ਦੰਦ (dand), may:danta|tooth||diente|||||||||||||dento|hammas|ząb
 dante baluta|bio|Quercus dentata||daimyo oak||roble daimyo||дуб зубчатый||槲树|カシワ||||||||||dąb zębaty
-dante brosh||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
+dante brosha||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
 dante dava ja||||dentist||dentista (odontólogo)|||||||||||||dentisto|hammaslääkäri|dentysta
 dante hin||||toothless|édenté|desdentado|desdentado|беззубый||||||दंतहीन (बेदाँत)|||||sendenta|hampaaton|bezzębny
 dara|||hin:धारा (dhārā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), hin:दर्या (daryā), ben:দরিয়া (dôriẏa), tur:derya|flow (current, stream)||||||||||धारा||||||virta (virtaus)|
@@ -1243,6 +1242,7 @@ fon zi||||letter (character, written symbol)||letra (carácter)|||||||||||herufi
 fong|bio||zho:蜂 (fēng), yue:蜂 (fung1), wuu:蜂 (fon1), kor:봉 (bong), vie:ong, tha:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)|bee or wasp|abeille ou guêpe|abeja o avispa|abelha ou vespa|||蜂|蜂||||||||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
 fong nide||||bee nest (beehive, wasp's nest)|ruche (nid d'abeille)|avispero (colmena)|||||蜂の巣||||||||||ul (gniazdo pszczół lub os)
 fonte|||por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|fountain (spring, well)||fuente (manantial)||||||||||||||lähde (kaivo)|fontanna (studnia, źródło)
+fonte kalam||||fountain pen|stylo-plume|estilógrafo|caneta de tinta permanente|авторучка||钢笔||||||||||mustekynä|
 fora|||fra:forer, por:furar, eng:perforate, spa:perforar|drill (bore, perforate)|forer (percer)|taladrar (perforar)|furar (perfurar)|сверлить (бурить)||钻孔|||||||||taladri|porata|wiercić, borować
 forke|||eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|fork||tenedor|||||||||||||forko|haarukka|widelec
 forma|||eng:form, spa:por:forma, fra:forme, deu:Form, rus:форма (forma)|form (shape, morph)||forma (figura, morfo)|||||||||||||formo|muoto (morfi)|forma, kształt, morf
@@ -1326,15 +1326,17 @@ gami jan||||spouse (husband or wife)|époux|esposo o esposa|esposo ou esposa||||
 gami ma||||mother-in-law|belle-mère|suegra|sogra||||||||||||bopatrino|anoppi|
 gami pa||||father-in-law|beau-père|suegro|sogro||||||||||||bopatro|appi|
 gan|||zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon)|dry||seco (árido)|||||||||||||seka|kuiva|suchy
-gan chau||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
+gan gazo||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
 gan mosim|mosim|||dry season||||||||||||musim kemarau|||||
 gan putau|||kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|raisin||pasa (uva pasa)|||||||||||||sekvinbero|rusina|rodzynka
 gan tela||||towel|serviette|toalla|toalha|||||||तौलिया|||||viŝilo|pyyheliina|ręcznik
 Gana|desha|GH||Ghana||Ghana||||||||||||||Ghana|Ghana
+gana|||heb: קָנֶה‎ (qané), ara: قَنَاة‎ (qanāh) + eng:cane, fra:canne, spa:caña, por:cana + zho:秆 (gǎn), yue:稈 (gon2) + (sugarcane) hin:गन्ना (gannā), pnb:ਗੰਨਾ (gannā)|reed (cane)|canne|caña|cana|||秆||||||||||ruoko|
+gana kalam||||reed pen|calame|cálamo|cálamo|||蘆葦筆||||||kalam||kamış kalem|kalamo|ruokokynä|
 Ganda|desha|UG||Uganda||Uganda||||||||||||||Uganda|Uganda
 Ganga||||Ganges||Ganges|||||||||||||Gangoj|Ganges|Ganges
 Ganimede|planete 5 lun 3|||Ganymede||||||||||||||||Ganymedes|
-ganja|||hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|cannabis (marijuana, ganja, pot, weed)||cannabis (hachís, marihuana)|||||||||||||kanabo|kannabis (marihuana, hamppu)|konopie
+ganja|||hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gāñjā), ben:গাঁজা (gañja), tel:గంజాయి (gañjāyi), tam:கஞ்சா (kañcā), khm:កញ្ឆា (kɑñchaa), tha:กัญชา (gan-chaa), vie:cần sa, eng:por:may:ganja, jpn:ガンジャ (gānjya)|cannabis (marijuana, ganja, pot, weed)||cannabis (hachís, marihuana)|||||||cần sa||||||kanabo|kannabis (marihuana, hamppu)|konopie
 ganse|||spa:por:ganso, hin:हंस (hans), ben:হাঁস (hãs), may:angsa eng:goose, rus:гусь (gus’), pol:gęś + yue:雁 (ngaan6), jpn:雁 (gan), tha:ห่าน (han)|goose|oie|ganso (oca)|ganso|гусь||雁 (鹅)|雁 (鵝鳥)|기러기|ngỗng|हंस|হাঁস|angsa|bata bukini|kaz|ansero|hanhi|gęś
 ganum|bio|Triticum|fas:گندم‎(gandom), may:gandum, urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano|wheat|blé|trigo|trigo|пшеница|قمح‎|麦|小麦|밀|lúa mì|गेहूँ|গম|gandum|ngano|buğday|tritiko|vehnä|pszenica
 ganya|||fra:gagner, por:ganhar, spa:ganar, eng:gain|earn (gain)||ganar (cobrar)|||||||||||||akiri (gajni)|hankkia (ansaita)|zyskać, zyskiwać, zarobić, zarabiać
@@ -1346,8 +1348,8 @@ garma masala||||garam masala||garam masala||||||||||||||garam masala|garam masal
 garma mosim|mosim|||summer|été|verano|verão|лето||夏季|夏|||ग्रीष्म ऋतु||musim panas|kaskazi|yaz|somero|kesä (suvi)|lato
 garma mosim medi den||||Midsummer Day||Midsommar||||||||||||||juhannus (keskikesä, mittumaari)|przesilenie letnie (dzień srodka lata)
 garma zona||||tropics|tropique|trópico|trópicos|тропик||热带|熱帯|||||||||tropiikki|tropiki
-garma zona chau topo||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
 garma zona di||||tropical||||||||||||||||trooppinen|tropikalny
+garma zona gazo topo||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
 gas|||deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz), swa:gesi|gas|gaz|gas|gás|газ||||||गैस||gas|gesi|gaz|gaso|kaasu|gaz
 gas di||||gaseous||gaseoso||||||||||||||kaasumainen|gazowy
 gata|||eng:cut, ara:(qaṭa’a), hin:काटना (kāṭnā), ben:কাটা (kata), swa:kata, vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)|cut||cortar||||切|||cắt|काटना|কাটা||kata||tranĉi|katkaista (leikata)|ciąć
@@ -1367,6 +1369,9 @@ gaze|||deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauze|gauz
 gazel|bio||ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|gazelle|gazelle|gacela||газель|||ガゼル||||||||gazelo|gaselli|gazela
 gazeta|||eng:fra:gazette, rus:газета (gazeta), swa:gazeri, tur:gazete|magazine (journal, gazette)||revista (periódico, gaceta)||газета|||||||||gazeti|gazete|gazeto (revuo)|lehti (sanomalehti)|magazyn, dziennik, gazeta
 gazeta ja||||journalist||periodista||||||||||||||toimittaja (journalisti, lehtimies)|dziennikarz
+gazo|bio||fra:gazon, rus:газон (gazon) +  hin:घास (ghās), ben:ঘাস (ghaś) + eng:grass|grass|herbe (gazon)|hierba|grama (relva)|трава|||草||||||||herbo|ruoho|trawa
+gazo medan||||lawn|pelouse (gazon)|césped (pasto)|gramado|газон||草地|芝生|||||||çimenlik||nurmikko (ruohikko)|
+gazo topo||||grassland (prairie)||pradera (pastizal)|||||草地|||||||||ruohotasanko|łąka
 gei|||eng:fra:spa:gay, por:guei|gay (homosexual)||gay (homosexual)|||||||||||||samseksema|homo (homoseksuaali)|gejowski (homoseksualny)
 gem|||eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|game||juego|||||||||||||ludo|peli|gra
 gem ja||||player (gamer)||jugador||игрок (геймер)|||||||||||ludanto|pelaaja|gracz
@@ -1492,8 +1497,8 @@ hai|||zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:h
 hai alga|bio|||seaweed (macroalgae)|algues|macroalga|macroalga|морские водоросли||海藻|海藻|||||rumpai laut|||||wodorosty
 hai amir ja||||admiral|amiral|almirante|almirante|адмирал|أَمِيرُ البَحْر‎|海军上将|提督 (海軍大将) |제독|đô đốc|ऐडमिरल||laksamana||oramiral|admiralo (ŝiparestro)|amiraali|admirał
 hai blu||||aqua (teal)|||||||水色||||||||||morskoniebieski
-hai chau|bio|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa mor
 hai di||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
+hai gazo|bio|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari||||trawa mor
 hai gun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai hiyar|bio|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
 hai hua|bio|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran|||||ukwiał
@@ -1624,7 +1629,7 @@ huang|rang||zho:黄 (huáng), yue:黃 (wong4), wuu:黃 (huaan1)|yellow||amarillo
 hui|||zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|ash (ashes)||ceniza||||||||||||||tuhka|popiół
 hui darte||||podzol|podzol|podsol|espodossolo|подзол||灰化土|ポドゾル|||||||||podsoli|gleba bielicoziemna
 hui rang|rang|||grey (gray, ashy)||gris||||||||||||||harmaa|szary
-huke|||eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|hook|crochet|gancho (anzuelo, alcayata)|gancho|крюк (гак)||钩|掛 (針, 鉤)|갈고리|móc|अंकुश (आंकड़ा)|অঙ্কুশ (হুক)|hak (gancu)||kanca|hoko|koukku (haka)|hak
+huke|||eng:hook, deu:Haken, rus:гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|hook|crochet|gancho (anzuelo, alcayata)|gancho|крюк (гак)||钩|掛 (針, 鉤)|갈고리|móc|अंकुश (आंकड़ा)|অঙ্কুশ (হুক)|hak (gancu)||kanca|hoko|koukku (haka)|hak
 huke krus||||swastika (hooked cross)|svastika (croix gammée)|esvástica (cruz gamada)|suástica (cruz gamada)|свастика||卍 (卐)|卍 (卐)|만자문|chữ Vạn|स्वस्तिक|স্বস্তিক|||gamalı haç|svastiko|hakaristi (svastika)|swastyka
 huli|bio|Vulpes vulpes|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|fox|renard|zorro|raposa|лиса|ثَعْلَب|狐狸|狐|여우|cáo|लोमड़ी|শিয়াল|rubah|thalabu|tilki|vulpo|kettu|lis
 humus|bio||ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)|chickpea||garbanzo||||||||||||||kikherne|ciecierzyca
@@ -1638,8 +1643,8 @@ huru ta||||freedom (liberty)||libertad||||自由|||||||||libereco|vapaus|wolnoś
 hushi|||fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy|nice (pleasant, comfortable, cushy)||cómodo (lujoso)||||||||ख़ुश|খুশি|||hoş|agrabla|mukava (kiva, miellyttävä)|miły, przyjemny, uroczy
 I||||I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I
 ibri||||Hebrew||hebreo|||||||||||||Hebrea|heprea|hebrajski
-icha||||will (want)||querer (disponer)||||||||||||||tahtoa|chcieć (pragnąć)
-icha|||vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|will (volition, desire)||voluntad|||||||||||||volo|tahto|wola, chęć
+ichi||||will (want)||querer (disponer)||||||||||||||tahtoa|chcieć (pragnąć)
+ichi|||vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|will (volition, desire)||voluntad|||||||||||||volo|tahto|wola, chęć
 idea|||fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định|idea (concept, notion)||idea (noción, concepto)|||||||||||||ideo|käsite (idea)|idea, pomysł
 idea di||||conceptual||conceptual||||||||||||||käsitteellinen|pojęciowy
 idea zi||||ideogram||ideograma||||||||||||||ideogrammi|ideogram
@@ -1821,7 +1826,7 @@ kaka|||spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka),
 kakau|bio||por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, rus:какао (kakao), jpn:カカオ (kakao), zho:可可 (kěkě), vie:cacao, swa:kakao|cocoa||cacao|||||||||||kakao||kakao|kaakao|kakao
 kala|rang||hin:काला (kālā), ben:কালো (kalo), pnb:ਕਾਲਾ (kālā) + tur:kara + tam:கருப்பு (karuppu)|black|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny
 Kalal|desha|GL||Greenland||Groenlandia||||||||||||||Grönlanti|Grenlandia
-kalam|||ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|pen (writing tool)|plume|bolígrafo|lápis|ручка||笔|ペン|||क़लम|কলম |pen (pena, kalam)|kalamu|kalem|plumo|kynä|pióro, długopis
+kalam|||ara:fas:urd: قلم‎ (qalam), hin:क़लम (qalam), ben:কলম (kôlôm), may:kalam, fra:calame, spa:por:cálamo, yor:swa:kalamu, hau:alƙalami, tur:kalem|pen (writing tool)|plume|bolígrafo|lápis|ручка||笔|ペン|||क़लम|কলম |pen (pena, kalam)|kalamu|kalem|plumo|kynä|pióro, długopis
 kalam sui||||ink|encre|tinta|tinta|чернила||墨水|インク (墨)|||मसी||dakwat (tinta)|wino|mürekkep|inko|muste|tusz
 kalenda|||eng:calendar, fra:calendrier, spa:por:calendario, rus:календарь (kalendar’), deu:may:kalender, jpn:カレンダー (karendā), kor:카렌더 (karendeo), hin:कैलेण्डर (kaileṇḍar), swa:kalenda|calendar|calendrier|calendario|calendário|календарь|تقويم|日历|暦 (カレンダー)|달력 (카렌더)|lịch|कालदर्शक (कैलेण्डर)|পঞ্জিকা|kalender|kalenda|takvim|kalendaro|kalenteri|kalendarz
 kali|||ara: قلي (qily), swa:-kali + eng:alkali, fra:alcali, spa:por:álcali, jpn:アルカリ (arukari), kor:알칼리 (alkalli), may:alkali|base (alkali)|base (alcali)|base (álcali)|base (álcali)|щёлочь|قلي|碱性|塩基|염기|bazơ|||alkali||baz||emäs|
@@ -1859,13 +1864,14 @@ Kamri|desha|||Wales (Cambria)||Gales||||||||||||||Wales|Walia
 kamri||||Welsh||galés||||||||||||||walesilainen|walijski
 kan|||fas:خانه‎ (xâne), rus:-хана (-hana), hin:ख़ाना (xānā), ben:খানা (khana), tur:hane + zho:馆 (guǎn), kor:관 (gwan), jpn:館 (-kan), vie:quán|shop (building, house, place)||||||店 (馆)|店 (館)|관|quán|ख़ाना|খানা|||hane|farejo|paja (tekimö)|
 Kanada|desha|CA||Canada||Canadá||||||||||||||Kanada|Kanada
-kanal|||eng:spa:por:fra:canal, rus:канал (kanal), ben:খাল (khal), may:kanal|channel||canal (cauce, acequia)|||||||||||||kanalo|kanava (kanaali)|kanał
+kanal|||eng:spa:por:fra:canal, rus:канал (kanal), ben:খাল (khal), may:kanal|ditch (canal, channel, dyke, trench)|fossé (canal, tranchée)|canal (cauce, acequia, foso, zanja)|canal (fosso, trincheira)|канава (канал)|خَنْدَق‎|水沟|側溝|||खाई (नाली)|খাল|||hendek|fluejo (kanalo)|oja (kanava, kanaali)|kanał
 kanal ja||||conduit (channel)|||||||||||||||||przewód (kanał)
 kancha|||hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:kaca, tel:గాజు (gāju)|glass|verre|vidrio (cristal)|vidro|стекло|زُجَاج|玻璃|ガラス|유리|thuỷ tinh|काँच (शीशा)|কাঁচ|kaca (gelas)|glasi|cam|vitro|lasi|szkło
 kancha daka||||glazing (enamel)||vidriado (esmalte)||глазурь||釉|釉薬||||||||||glazura (emalia)
 kandela|unomete|cd||candela||candela (unidad de intensidad luminosa)||||||||||||||kandela|kandela
 kandi|||eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyanḍi), jpn:キャンデー (kyandē), tgl:kendi|candy (sweets)|bonbon|caramelo|bombom (doce)|конфета||糖果|キャンデー|사탕|kẹo|कैंडी|ক্যান্ডি|gula-gula||tatlı (bonbon)|bombono|makeinen (karkki, namu)|cukierek, słodycze
-kane|||eng:cane, fra:canne, zho:杆 (gǎn),|bar (pole, rod, shaft, staff, stick)|bâton (canne, tige)|barra (vara, palo)|vara (bastão)|штанга|||||||||||stango|tanko (sauva, patukka)|pręt, kij
+huke lin kane||||fishing rod (fishing pole)|canne à pêche|caña de pesca|vara de pescar|удочка||钓鱼竿|釣り竿|낚싯대|cần câu|||pancing||olta|fiŝvergo|onkivapa|
+kane|||eng:cane, fra:canne + zho:杆 (gǎn), yue:杆 (gon1), vie:cần, tha:คัน (khan)|bar (pole, rod, shaft, staff, stick)|bâton (canne, tige)|barra (vara, palo)|vara (bastão)|штанга|||||||||||stango|tanko (sauva, patukka)|pręt, kij
 kane kasa||||cage|cage|jaula (caja)|gaiola (jaula)|клетка|قَفَص|笼|檻 (篭, ケージ)|우리|lồng|क़फ़स (पिंजड़ा)|খাঁচা|sangkar|tundu|kafes|kaĝo|häkki|klatka
 kane pang||||baguette||baguette||||||||||||||patonki (ranskanleipä)|bagietka
 kanga|||hin:कंघी (kaṅghī), urd:(kaṅghī), ben:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā) + eng:fra:may:kanga|comb||peine||||||||||||||kampa|grzebień
@@ -1894,6 +1900,7 @@ karavi|bio|Carum carvi|ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, p
 karbau|bio|Bubalus bubalis|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|water buffalo||búbalo (arni)||||||||||||||vesipuhveli|bawół domowy
 karbon|mate|C||carbon (coal)||carbón|||||||||||||karbono|hiili|węgiel
 karbon duokside||||carbon dioxide|dioxyde de carbone|dióxido de carbono|dióxido de carbono|двуокись углерода||二氧化碳||||प्रांगार द्विजारेय|||||karbona dioksido|hiilidioksidi|dwutlenek węgla
+karbon kalam||||pencil|crayon|lápiz|lápis|карандаш||铅笔|鉛筆|연필|bút chì|अंकनी (पेंसिल)|অঙ্কনী (পেনসিল)|pensil|penseli|kurşun kalem|krajono|lyijykynä|
 karbon sui||||carbohydrate (saccharide)||carbohidrato||углевод|||炭水化物||||||||||
 karchof|bio|Cynara cardunculus var. scolymus|ara:خرشوف (kharshuf), amh:ከርቹፍ (kärčuf), spa:alcachofa, por:alcachofra, pol:karczoch|globe artichoke|artichaut|alcachofera|alcachofra|артишок посевной||菜蓟|アーティチョーク||||||||||karczoch zwyczajny
 kardon|bio||spa:por:cardo, fra:chardon, eng:cardoon, jpn:カルドン (karudon)|thistle|chardon|cardo|cardo|расторопша||蓟|アザミ||||||||||oset
@@ -1958,6 +1965,7 @@ kerne unta||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja jąd
 kerubi|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
 kesha|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
 kesha bande||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
+kesha brosha||||hairbrush|brosse à cheveux|cepillo de pelo|escova de cabelo|щётка для воло́с||发刷|||||||||saç fırçası|hiusharja|
 kesha hin||||hairless|glabre|pelado (desvellado)|despelado|безволосый||无毛|無毛|||केशहीन|||||senhara|karvaton|
 kesha sabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
 ketel|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle||hervidor (tetera)||||||||||||||kattila|czajnik
@@ -2943,12 +2951,14 @@ pende|||eng:pendant, por:fra:pender|hang (dangle)||colgar||||||||||||||roikuttaa
 pende kardon|bio|Carduus nutans||musk thistle|chardon penché|||чертополох поникший||垂花飞廉|||||||||||oset zwisły
 penis|||eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)|penis (phallus)||pene|||||||||||||peniso|siitin (penis)|penis
 pente|||eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)|paint|peinture|pintura|pintura|картина||油漆 (颜料)|絵の具 (ペンキ)|||पेंट (रंग)|||||pentri|maalata|namalować, malować
+pente brosha||||paintbrush|pinceau|pincel|pincel|кисть|فُرْشَاة‎ الطِلَاء‎|画笔|絵筆|화필|||||||peniko|pensseli (sivellin)|
 pente ja||||painter||pintor||художник|||画家 (絵かき)|||||||||maalari|malarz
 pente tela||||canvas|canevas (toile)|tela|tela|полотно||画布|||||||||kanvaso|taulukangas|
 pera|bio||eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea + kor:배 (bae)|pear|poire|pera|pera|груша|كُمَّثْرَى‎|梨|梨|배 (서양배)|lê|नाशपाती|নাশপাতি|pir|pea|armut|piro|päärynä|gruszka
-perisha|||eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan)|perish (ruin, waste away)|périr|perecer|perecer|||||||||||||hävittää (hajottaa)|
-perisha di||||perished (ruined, desolate, wretched, miserable)||||||||||परेशान||||perişan||hajalla|
+perishe|||eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan)|perish (ruin, waste away)|périr|perecer|perecer|||||||||||||hävittää (hajottaa)|
+perishe di||||perished (ruined, desolate, wretched, miserable)||||||||||परेशान||||perişan||hajalla|
 pero|||hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|feather||pluma||перо||||||पर्दा|||||plumo|sulka|pióro
+pero kalam||||quill|plume|pluma|pena|перо||鹅毛笔|羽根ペン||||||||anserplumo|sulkakynä|
 pero kardon|bio|Cirsium vulgare||spear thistle|cirse commun|cardo burral|cardo-roxo|бодяк обыкновенный||翼蓟|アメリカオニアザミ||||||||||ostrożeń lancetowaty
 Peru|desha|PE||Peru||Perú||||||||||||||Peru|Peru
 pesa|||hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|money|argent|dinero (plata)|dinheiro|деньги|فُلُوس‎|钱|金|돈 (금전)|tiền|पैसा|অর্থ (টাকা)|uang (wang)|pes:a|para|mono|raha|pieniądze
@@ -3054,7 +3064,7 @@ Portoriko|desha|PR||Puerto Rico|Porto Rico|Puerto Rico|Porto Rico|Пуэрто-�
 portoriko jan||||Puerto Rican|Portoricain|puertorriqueño|porto-riquenho|пуэрториканец||||||||||||puertoricolainen|
 Portugal|desha|PT||Portugal||Portugal||||||||||||||Portugali|Portugalia
 portugal basha|basha|||Portuguese language||idioma portugués||||||||||||||portugali|
-pos|||eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-)|consequence (back, follow-up)||consecuencia (siguiente)|||||後 (後ろ)||||||||sekvo|seuraus|konsekwencja, skutek
+pos|||eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-) + fas: پس (pas)|consequence (back, follow-up)||consecuencia (siguiente)|||||後 (後ろ)||||||||sekvo|seuraus|konsekwencja, skutek
 pos||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
 pos||||later (after, will, in the future)|ensuite (après, plus tard, ir a, en el futuro)|más tarde||после|||||||||||estonte|myöhemmin (tuleva)|później (w przyszłości)
 pos den||||tomorrow|demain|mañana|||||明日||||||||morgaŭ|huominen|jutro
@@ -3605,8 +3615,8 @@ suje|||hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugest�
 suka|||hin:सुख (sukha), tha:สุข (suk), nan:舒合 (su-kah), may:suka, jpn:好く (suku)|pleased (delighted, happy)|heureux|feliz|feliz|счастливый (радостный)||高兴|幸せな|행복하다|mừng|सुखी (ख़ुश)|খুশি|senang||mutlu|feliĉa|tyytyväinen (iloinen)|wesoły, ucieszony
 sukar|||eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)|sugar|sucre|azúcar|açúcar|сахар|سُكَّر|糖|砂糖|설탕|đường|शक्कर|চিনি (শর্করা)|gula (sakar)|sukari|şeker|sukero|sokeri|cukier
 sukar bete|bio|Beta vulgaris subsp. vulgaris, Altissima||sugar beet|betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла|||テンサイ (サトウダイコン)||||||||||burak cukrowy
-sukar chau|bio|||sugarcane|Canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||甘蔗|サトウキビ|||गन्ना||tebu|muwa||||trzcina cukrowa
 sukar di||||sugary (sweet)||azucarado||||||||||||||sokerinen (makea)|słodki
+sukar gana|bio|||sugarcane|canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||甘蔗|サトウキビ|||गन्ना||tebu|muwa|||sokeriruoko|trzcina cukrowa
 sukar oranje|bio|Citrus × sinensis||sweet orange|orange douce|||апельсин|||オレンジ (アマダイダイ)||||||||||pomarańcza słodka (pomarańcza chińska)
 sulfur|mate|S||sulfur (brimstone)||azufre|||||||||||||sulfuro|rikki|siarka
 sultan||||power (authority, rule)||poder (autoridad, competencia)|||||||||||||||siła, autorytet, władza
@@ -3967,7 +3977,7 @@ yam|||khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gna
 yam fito||||vegetable|légume|verdura (legumbre)|verdura (hortaliça, legume)|овощ||蔬菜||||सब्ज़ी|সবজি|||sebze|legomo|kasvis|warzywo
 yam kamar||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
 yam she||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
-yam sukar chau|bio|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
+yam sukar gana|bio|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
 yam yau||||hunger|faim|hambre|fome|голод|جوع‎|饥饿|飢え|굶주림|đói|भूख|ক্ষুধা|lapar|njaa|açlık|malsato|nälkä|głód
 yamen|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
 yamen su||||their|leur|||их||他们的||||उनका|||||ilia|heidän|
