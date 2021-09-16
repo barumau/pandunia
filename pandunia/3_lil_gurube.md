@@ -13,7 +13,7 @@ un me goro no suka gung.
 ya pul no vol gung e bina se su dom ze gan chau.
 du me goro ye lili mas di suka gung,
 e ya bina se su dom ze moka kane.
-pos go, yamen chante e danse e van na pan un dia.
+pos la, yamen chante e danse e van na pan un dia.
 
 tri me goro ye teza gung na pan dia,
 e ya bina se su dom ze petra.
@@ -71,7 +71,7 @@ e na chen da la volfe ye bil kape yamen.
 la tri lili goro ye fobi.
 yamen sabe la volfe ye vol yam yamen.
 yamen si poli poli fobi.
-la volfe no leu yam na pan den,
+la volfe no le yam na pan den,
 e ya su yam vol be kai no toler bil.
 ya zai bil aroma la pan tri goro na dom.
 ya sabe la tri lili goro si bon yam she.
@@ -92,7 +92,7 @@ sun ya no bil mas hava.
 ya ting do shush,
 e ya lili fikir.
 
-ni si mas ka basa.
+la si mas ka basa.
 la volfe marcha na gola na furi.
 ya plan ya lai pas la duman tubo e ya yam lili goro do sham yam.
 a na dura da ya eskale do dom su chati,
