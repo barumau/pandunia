@@ -8,7 +8,7 @@ saba – go si krizi, raste la dosti guanshe na medi ba nasi.
 saba – pan nasi da Un Ta Nasi, na yamen su baze dokumen, re amen yamen su shin da baze insan haki, da onor e valu da insan jan, e da par haki da man e fem, e plan sim yo sosi jin e mas bon jiu darja na mas dai huru ta.
 saba – membre desha le vode gol, ha mede da Un Ta Nasi, la mote da putong onor e sekur ta da insan haki e baze huru ta.
 saba – un putong aha da ni haki e huru ta ten la masim ham ta ga ni vode bil si ver.
-asar – PUTONG JAMA DA UN TA NASI ye komun ni PUTONG LOGA DA INSAN HAKI ka un putong norma da jin ta do pan demo e pan nasi, do icha da pan un jan e pan un fen da sosi, dura da hema ni loga na pan sata, vil gung ha shula do sim la onor da ni haki e huru ta e, na nasi di e nasi medi di jin sim di karma, fa sekur yamen su putong e funsi di note e sekur ta, na medi da nasi jan da membre desha e medi da jan da desha jo nicha yamen su krati.
+asar – PUTONG JAMA DA UN TA NASI ye komun ni PUTONG LOGA DA INSAN HAKI ka un putong norma da jin ta do pan demo e pan nasi, do ichi da pan un jan e pan un fen da sosi, dura da hema ni loga na pan sata, vil gung ha shula do sim la onor da ni haki e huru ta e, na nasi di e nasi medi di jin sim di karma, fa sekur yamen su putong e funsi di note e sekur ta, na medi da nasi jan da membre desha e medi da jan da desha jo nicha yamen su krati.
 
 ## babu 1
 pan insan be jene ha huru ta e par ta na onor e haki. yamen ten yo razon e budi. yamen deve be trati se kon ha ruhu da brus ta.
@@ -35,7 +35,7 @@ pan insan si par na kanun e ten la haki da par sekur da kanun ha hin da eni has 
 pan insan ten la haki da un funsi di sahi ze desha di jude ja, da ten sultane, ca acione da kontra bazi haki da wadu bazokanune o ali kanune pa le.
 
 ## babu 9
-no halal eni insan be an razon di kape o prizon o desha ekso.
+no halal eni insan be an razon di kape o jela o desha ekso.
 
 ## babu 10
 pan insan ten, na pul par ta, la haki da un adal e komun di audi ze auto nomi e an parti di jude ja do jude da ya su haki o deve o krime.
@@ -66,7 +66,7 @@ no halal eni insan be an razon di karma ha ya su tana o famili o dom o posta, o 
 
 ## babu 17
 1. pan insan ten la haki da mal, ha un di se o ha alo jan.
-2. no halal kape la mal da eni insan na ya su icha o kanun.
+2. no halal kape la mal da eni insan na ya su ichi o kanun.
 
 ## babu 18
 pan jan ten la haki da fikir e moral e din; ni haki fa in klus la huru ta da mute da din o shin e la huru ta da shou da din o shin, ha un di se o ha alo insan, ha giau o suna o puja.
@@ -81,7 +81,7 @@ pan insan ten la haki da huru ta da rai e rai loga; ni haki fa in klus la huru t
 ## babu 21
 1. pan insan ten la haki da parti na politi da ya su desha, na disha riti o na transe un chuze vakil ja.
 2. pan insan ten la haki da par uze bil ta da komun serve na ya su desha.
-3. la icha da la jama da insan deve si baze da la sultan da politi; ni icha deve be shou na zaman di e ver di vote chuze ha putong e par e siri vote o na par riti da huru chuze.
+3. la ichi da la jama da insan deve si baze da la sultan da politi; ni ichi deve be shou na zaman di e ver di vote chuze ha putong e par e siri vote o na par riti da huru chuze.
 
 ## babu 22
 pan insan, ka membre da sosi, ten la haki da sosi sekur ta e ten, na asar da nasi di gung e nasi medi di jama gung e ha sam rai la ratibu e faida she da pan un desha, ba mal nomi di e sosi e kultur di haki jo be yau do ya su onor e huru darja mute da ya su jan sifa.

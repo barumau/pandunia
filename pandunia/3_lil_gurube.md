@@ -10,7 +10,7 @@ un den na yamen si basa lau, ya mise yamen do dunia,
 do yamen soka semen su gol na jiu.
 
 un me goro no suka gung.
-ya pul no vol gung e bina se su dom ze gan chau.
+ya pul no vol gung e bina se su dom ze gan gazo.
 du me goro ye lili mas di suka gung,
 e ya bina se su dom ze moka kane.
 pos la, yamen chante e danse e van na pan un dia.
@@ -22,7 +22,7 @@ jo ten tanur e duman tubo.
 ya rupa ka ya bil lika di lipa na la masim lika hava.
 
 na pos den, volfe move na karibu dau, na jo la tri goro ye dom.
-ya vide gan chau di dom,
+ya vide gan gazo di dom,
 e ya aroma la goro na in da dom.
 ya fikir la goro si bon yam,
 e ya su boke ye kai sana yo sui.

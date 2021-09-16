@@ -9,7 +9,7 @@ na un den, la gui ye audi un lili soni ze supra da kiau.
 «ke jan ye marche na mi su kiau?» la gui ye krita.
 «oh! un di zai mi, lili behe» un lili behe ye loga.
 ya dai shush di loga, e fa zoku:
-«mi marche do chau topo na jo mi vil yam do mi si gola».
+«mi marche do gazo topo na jo mi vil yam do mi si gola».
 
 «zai mi kape tu!» loga la gui.
 
@@ -19,7 +19,7 @@ ya dai shush di loga, e fa zoku:
 
 na pos da lili zaman, un soni be audi ze supra da kiau.
 «ke jan marcha na mi su kiau?», la gui ye krita.
-«oh! si mi, medi behe. mi move do chau topo na jo mi vil yam do mi si gola», la medi behe ye loga.
+«oh! si mi, medi behe. mi move do gazo topo na jo mi vil yam do mi si gola», la medi behe ye loga.
 ya no shush di loga.
 
 «zai mi kape tu!» la gui ye loga.
@@ -41,8 +41,8 @@ na pos da lili zaman, bari kelele be audi ze supra da kiau.
 mi ten du dai jeng sheku, ha jo mi vil parcha tu su oste.»
 
 e pos la, la dai behe ye harabu gui su oko, e parcha la gui su oste, e lanse la gui do rivo.
-pos la, ya marcha do chau topo.
-na chau topo, pan behe yam do se si gola.
+pos la, ya marcha do gazo topo.
+na gazo topo, pan behe yam do se si gola.
 yamen sun no ten la energi do fuka do dom.
 e ga yamen zoku no kite, yamen zoku si gola.
 

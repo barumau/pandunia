@@ -11,7 +11,7 @@ ma urso ye loga "salam" e ya do ekso.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
 
-lili urso si un jan. ya fikir:
+lili urso si un zai. ya fikir:
 "mi zai bil fa eni she jo mi vol!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_03.png)
@@ -101,7 +101,7 @@ la dante lai do ekso!
 
 la dava ja ye loga do lili urso:
 "la dus dante zai na ekso.
-ching memo uze un dante brosh na pan un suba e na pan un sham!"
+ching memo uze un dante brosha na pan un suba e na pan un sham!"
 lili urso ye vode memo.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_19.png)
@@ -110,7 +110,7 @@ lili urso loga: "shukra, dava ja e vaf e mau e ekore!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_20.png)
 
-lili urso ye washi ya su dante ha un dante brosh na pan un suba e sham.
+lili urso ye washi ya su dante ha un dante brosha na pan un suba e sham.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_21.png)
 
