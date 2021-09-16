@@ -1,133 +1,119 @@
-# lili urse du pashi dante
+# lili urso du pashi dante
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_01.png)
 
-un suba ma baru ye yau go la bazar.
-ta loga pa sho baru:
-"no yam di kandi o keke na dure de mi na bazar."
-sho baru ye loga:
-"ye, ye, mama! mi sabi ta. mi un dai baru. ching go la wai"
-ma baru ye loga "salam" e ta go la wai.
-
-un sube urse mame volu gowa pa bazar.
-le loga pa lili urse:
-"no yama kande o keke sa dur da me sa bazar."
-lili urse loga:
-"si, si, mame! me sava le. me day urse. pliza gowa waye!"
-urse mame loga "salam" e le gowa waye.
-
-Eräänä aamuna karhuäiti halusi lähteä torille.
-Hän sanoi pikku-karhulle:
-"Älä syö karkkia tai keksejä kun minä olen torilla."
-Pikku-karhu sanoi:
-"Joo, joo, äiti! Minä tiedän sen. Olen is karhu. Mene jo!"
-Karhuäiti sanoi "heippa" ja lähti ulos.
+un suba, ma urso ye yau do la bazar.
+ya loga pa lili urso:
+"no yam yo kandi o keke na dura da mi na bazar."
+lili urso ye loga:
+"ye, ye, mama! mi sabe ya. mi un dai urso. ching do ekso!"
+ma urso ye loga "salam" e ya do ekso.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
 
-lili urse sa mono. le fikra:
-"zayo me abla kara eni shey da me volu!"
+lili urso si un jan. ya fikir:
+"mi zai bil fa eni she jo mi vol!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_03.png)
 
-lili urse gowa pa washkamar.
-le fikra "me no volu washa dante zayo."
-lili urse si mali.
+lili urso ye move do washi kamar.
+ya fikir "mi no vol washi mi su dante, zai."
+lili urso si dus.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_04.png)
 
-lili urse joga lili gar sa mey kamar.
-le vida keke sanduke sa meze.
-le fikra "me volu yama keke!"
-a le mema: "a! mame harama me yama keke."
-lili urse no yama keke.
+lili urso ye trator un lili gar na pan un kamar.
+ya vide la keke sanduku na meza.
+ya fikir "mi vol yam ba keke!"
+a ya memo: "a! mama haram mi yam ba keke."
+lili urso no yam ba keke.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_05.png)
 
-lili urse vida kande botel sa almar.
-le fikra "me volu yama kande!"
-a le mema: "a! mame harama me yama kande."
-lili urse no yama kande.
+lili urso ye vide la kandi botel na almari.
+ya fikir "mi vol yam ba kandi!"
+a ya memo: "a! mama haram mi yam ba kandi."
+lili urso no yam ba kande.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_06.png)
 
-lili urse vida melvaze sa ali almare.
-le fikra:
-"mame loga nol shey tema mel. me abla yama mel!"
-lili urse sidu sa kurse e le yama lilo mel.
-mel gustu bon!
+lili urso vide la medu pote na alo almari.
+ya fikir:
+"mama loga siro she tema da medu. mi bil yam medu!"
+lili urso ye side na kursi e ya yam lili medu.
+medu ye bon guste!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_07.png)
 
-lili urse yama pan mel.
+lili urso ye yam pan medu.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_08.png)
 
-bado, lili urse senta no sava du sente sa boke.
-li dante pashi!
+pos, lili urso ye sense un sense jo no sabe na boke.
+ya su dante pasi!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_09.png)
 
-le kapa telfon.
-le loga: "salam! eska te si dantomediker? pliza layu pa me! me tena pashi dante!"
+ya kape la tele fon gi.
+ya loga: "salam! sual tu si dante dava ja? ching lai do mi! mi ten un pasi dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_10.png)
 
-mediker layu pa ursofamil du dom.
-le loga: "eska te nidu helpe?"
-lili urse loga: "si! me tena pashi dante!"
+la dava ja ye lai do urso famili su dom.
+ya loga: "sual tu yau mede?"
+lili urso loga: "si! mi ten pasi dante!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_11.png)
 
-mediker pliza lili urse sidu sa kurse e kaya boke.
-"aha! un dante polo mali! me musu kapa le pa waye."
+la dava ja ye ching la lili urso ye side na kursi e kai se su boke.
+"aha! un dante si poli dus! mi deve kape ya do ekse"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_12.png)
 
-mediker jusha medike pa dantomanse sa karibe da mali dante.
-lili urse no senta pash cha zayo.
+la dava ja ye jusha yo dava she do dante nama na karibu da dus dante.
+lili urso no sente la pasi ze zai.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_13.png)
 
-mediker tira dante sa pinser.
-a dante no layu!
+la dava ja ye tire la dante ha pinse gi.
+a la dante no lai!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_14.png)
 
-waf layu helpa mediker.
-mediker e waf tira dante, a dante no layu!
+vaf ye lai mede la dava ja.
+la dava ja e vaf ye tire la dante, a la dante no lai!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_15.png)
 
-maw layu helpa mediker e waf.
-mediker e waf e maw tira dante, a dante no layu!
+mau ye lai mede la dava ja e vaf.
+la dava ja e vaf e mau ye tire la dante, a la dante no lai!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_16.png)
 
-ekore layu helpa mediker e waf e maw.
-mediker e waf e maw e ekore tira dante...
+ekore ye lai mede la dava ja e vaf e mau.
+la dava ja e vaf e mau e ekore ye tire la dante...
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_17.png)
 
-dante layu pa waye!
+la dante lai do ekso!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_18.png)
 
-mediker loga pa lili urse:
-"mali dante sa waye zayo.
-pliza mema uza dantobrosh sa mey sube e sa mey sham!"
-lili urse voda mema.
+la dava ja ye loga do lili urso:
+"la dus dante zai na ekso.
+ching memo uze un dante brosh na pan un suba e na pan un sham!"
+lili urso ye vode memo.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_19.png)
 
-lili urse loga: "danke, mediker e waf e maw e ekore!"
+lili urso loga: "shukra, dava ja e vaf e mau e ekore!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_20.png)
 
-lili urse washa dante sa dantobrosh mey sube e mey sham.
+lili urso ye washi ya su dante ha un dante brosh na pan un suba e sham.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_21.png)
 
-urse mame nota lili urse kura zi dante may bono.
-mame loga: "te si bon lili urse!"
+ma urso ye note la lili urso fa mas bon di hafiza se su dante.
+mama loga: "tu si bon lili urso!"
 
