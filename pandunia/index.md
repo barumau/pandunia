@@ -9,8 +9,8 @@ Pandunia su loga ye lai ze pan fen da dunia:
 Afrika, Amerika, Asia, Europe
 – ze la dunia basha ye yau vakil da mimen su pan dunia!
 
-tu sabi Pandunia, he?
-tu bil shula Pandunia ha use la [lili shula](mini_darse.html).
+tu sabe Pandunia, he?
+tu bil shula Pandunia ha uze la [lili shula](mini_darse.html).
 
 
 * [zi sili](abc.md)
