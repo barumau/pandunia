@@ -41,6 +41,7 @@ agression (attaque) - agresi
 agricole - nong di  
 agrobiologie - nong bio logi  
 agronomie - nong nomi  
+aide (secours) - mede  
 ail - lasun  
 air - air  
 aire (superficie) - area  
@@ -264,6 +265,8 @@ bravo! - bravo
 brigand (bandit) - luta ja  
 brique - dobe  
 brochette - shish  
+brosse - brosha  
+brosse à cheveux - kesha brosha  
 brun (marron) - kafe rang  
 brûler - fa hogo  
 buisson - tal moku  
@@ -285,6 +288,7 @@ café - kafe
 café - kafe kan  
 cage - kane kasa  
 caillou - lili sheku  
+calame - gana kalam  
 calcaire - kalse petra  
 calcite - kalsite  
 calculer - fa hisabu  
@@ -297,7 +301,9 @@ Camomille Romaine - roma kamil
 Camomille sauvage - kamil  
 canapé (sofa) - sofa  
 canevas (toile) - pente tela  
-Canne à sucre - sukar chau  
+canne - gana  
+canne à pêche - huke lin kane  
+canne à sucre - sukar gana  
 canon - dai pau  
 canoë - kano  
 Cantalupo in Sabina - Kantalupo va Sabina  
@@ -441,6 +447,7 @@ couvrir - fa daka
 crabe - krabe  
 craindre (avoir peur) - be fobi  
 cravache - uma bichi  
+crayon - karbon kalam  
 creuser - fa kave  
 crevette - krevete  
 cristal - bilor  
@@ -607,7 +614,7 @@ finir - fin
 fiord - fiorde  
 fleur - hua  
 flèche - fleche  
-foin - gan chau  
+foin - gan gazo  
 fois - mar  
 fondu - yong safa  
 football - fute bol  
@@ -619,6 +626,7 @@ fort - burge
 forêt (jungle) - jangal  
 forêt de kelp - alga jangal  
 fosse - kave  
+fossé (canal, tranchée) - kanal  
 fouet - bichi  
 fougères - parne  
 fourmi - murche  
@@ -691,6 +699,7 @@ haut - gau
 hautes technologies - gau tehni  
 Haïti - Haiti  
 hein? - he  
+herbe (gazon) - gazo  
 Hesse - Hese  
 heure - hor  
 heureux - suka  
@@ -792,7 +801,7 @@ laine - meme kesha
 laisser - lashe  
 lait - milke  
 lait de soja - soi milke  
-laitue - letis  
+laitue - letus  
 lama (enseignant religieux du bouddhisme tibétain) - lama  
 lama - liama  
 lampe - lampa  
@@ -1043,7 +1052,7 @@ otite - ore flame
 ou - o  
 ouah - va  
 oublier - an memo  
-oubliette (cul de basse-fosse) - geo niche prizon  
+oubliette (cul de basse-fosse) - geo niche jela  
 oui - ye  
 ours - urso  
 oxyde - okside  
@@ -1097,6 +1106,7 @@ pays des fées (paradis) - pari desha
 peindre - fa pente  
 peinture - pente  
 pelle - bele  
+pelouse (gazon) - gazo medan  
 perdant - shiti bai ja  
 perder - shiti  
 pere (papa) - pa  
@@ -1120,6 +1130,7 @@ pierre tombale - gabur sheku
 pieu (poteau) - zong  
 pile (batterie) - bateri  
 piment - chili  
+pinceau - pente brosha  
 pioche - pin chope  
 piquant - pin sense di  
 piquenique - ekso yam  
@@ -1141,6 +1152,7 @@ plaque tectonique - geo kaske plate
 plein - pul  
 pluie - shava  
 plume - kalam  
+plume - pero kalam  
 plurilingue (multilingue) - poli basha di  
 plus - mas  
 pluvieux -   
@@ -1148,6 +1160,7 @@ pneumonie - pulmon flame
 pocion - dava sui  
 podzol - hui darte  
 poids (lourdeur, gravité) - veze  
+poire - pera  
 poireau - porei  
 pois carré - lung dou  
 poisson - peshe  
@@ -1165,7 +1178,7 @@ porte-bloc (planchette à pince) - pinse ban
 porter (s’habiller) - fuku  
 Porto Rico - Portoriko  
 Portoricain - portoriko jan  
-posidonie (herbiers marins) - hai chau  
+posidonie (herbiers marins) - hai gazo  
 possédant (propriétaire) - mal ja  
 posture (position) - asan  
 postérieur - pos di  
@@ -1186,6 +1199,7 @@ pression - presa
 pression atmosphérique - air presa  
 pressoir - presa gi  
 preuve - dalil  
+prison (geôle) - jela kan  
 problème - problem  
 problématique - problem di  
 procédé (rite) - riti  
@@ -1214,7 +1228,7 @@ pâquerette - english margarita
 pâte (pulpe, foufou) - fufu  
 pâte - pasta  
 pâte à modeler - plasti paste  
-périr - perisha  
+périr - perishe  
 péter - fa pede  
 pétrole (essence) - petra nefte  
 pêcheur - peshe saide ja  
@@ -1315,7 +1329,7 @@ saumon du Pacifique (saumon kéta, saumon chien) - baku salmon
 saumon rose - roza salmon  
 saumon sockeye - lal salmon  
 sauvage - eko jene di  
-savane - garma zona chau topo  
+savane - garma zona gazo topo  
 savoir (connaître) - sabe  
 Scandinavie - Eskandinavia  
 schtroumpf - blu elfe  
@@ -1370,6 +1384,7 @@ souris - mushu
 sous-estimer - fa min rai  
 sport - esporte  
 squelette - oste jama  
+stylo-plume - fonte kalam  
 substance - kimi  
 sucre - sukar  
 sueur - sueda  

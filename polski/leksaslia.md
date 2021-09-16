@@ -150,10 +150,9 @@
 |**bori di**|znudzony|eng:bored, spa:aburrido, hin:(bhorī)|
 |**Bote**|Tybet|tib:བོད (bod, phø)|
 |**botel**|butelka|eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|
-|**brauza program**|poszukiwacz (badacz, eksplorator)|eng:browser, deu:Browsre, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)|
 |**bravo**|Odwarzny (|eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|
 |**briko**|morela (śliwka)|ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|
-|**brosh**|szczotka|eng:brush, fra:brosse, ben:ব্রাশ (braś), hin:ब्रश (braś), urd:(braś), hau:swa:burashi, jpn:ブラシ (burashi), kor:브러시 (beureosi), fas:(boros), may:berus|
+|**brosha**|szczotka|eng:brush, fra:brosse, spa:por:brocha, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, fas:(boros), may:berus, ara: فُرْشَاة‎ (furšāh), tur:fırça|
 |**bu!**|bu!|eng:boo, fra:bouh, por:spa:bu, rus:бу (bu), kor:부 (bu)|
 |**budi**|uświadomienie, świadomość; oświecenie, bodhi|san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), tha:โพธิ (potí)|
 |**bufete**|bufet (szwedzki stół)|fra:buffet, eng:buffet, spa:bufé, por:bufete, deu:Büfett, rus:буфет (bufet), zho:部飛 (bùfēi), jpn:ビュッフェ (byuffe), kor:뷔페 (bwipe), may:bufet, swa:bufee|
@@ -180,7 +179,6 @@
 |**chape**|odcisk, ślad; stempel, pieczęć|hin:छाप (chāp), ben:ছাপ (chap), may:cap, eng:chop|
 |**charme**|czar (urok, wdzięk)|fra:por:charme, eng:charm, rus:шарм (šarm)|
 |**chati**|dach|hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)|
-|**chau**|trawa|zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|
 |**cheke**|sprawdzić, sprawdzać, skontrolować|eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|
 |**chen**|wcześniej (uprzednio, poprzednio, przedtem)|zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|
 |**cheng**|warstwa (poziom, piętro, kondygnacja)|zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|
@@ -390,6 +388,7 @@
 |**gaze**|gaza|deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauze|
 |**gazel**|gazela|ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|
 |**gazeta**|magazyn, dziennik, gazeta|eng:fra:gazette, rus:газета (gazeta), swa:gazeri, tur:gazete|
+|**gazo**|trawa|fra:gazon, rus:газон (gazon) +  hin:घास (ghās), ben:ঘাস (ghaś) + eng:grass|
 |**gei**|gejowski (homoseksualny)|eng:fra:spa:gay, por:guei|
 |**gem**|gra|eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|
 |**gencha**|sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać|zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|
@@ -463,7 +462,6 @@
 |**hava**|wiatr|hin:हवा (havā), ben:হাওয়া (haowa) + ara: هَوَاء‎ (hawāʾ), tur:hava, may:hawa, swa:hewa|
 |**he**|hę?, co?, pardon?|eng:huh, fra:hein, por:hã, vie:hả, deu:hä|
 |**helis**|helisa|ell: ἕλιξ (helix), eng:helix, fra:por:spa:hélice, pol:helisa, ara:(ḥalazūn), tur:helezon|
-|**helpe**|pomoc, wsparcie|eng:help, deu:Hilfe|
 |**hema**|namiot|ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|
 |**hem…**|hmm…|eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|
 |**hen**|nienawidzić|zho:恨 (hèn), yue:恨 (han6), wuu:恨 (hhen3), vie:hận, jpn:嫌 (ken), kor:혐 (hyeom) + fra:haine|
@@ -486,12 +484,12 @@
 |**hua**|kwiat|zho:花 (huā), vie:hoa, kor:화 (-hwa-), swa:ua|
 |**huang**|żółty|zho:黄 (huáng), yue:黃 (wong4), wuu:黃 (huaan1)|
 |**hui**|popiół|zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|
-|**huke**|hak|eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|
+|**huke**|hak|eng:hook, deu:Haken, rus:гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|
 |**huli**|lis|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|
 |**humus**|ciecierzyca|ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)|
 |**huru**|wolny, niepodległy, niezależny|ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro|
 |**hushi**|miły, przyjemny, uroczy|fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy|
-|**icha**|wola, chęć|vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|
+|**ichi**|wola, chęć|vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|
 |**idea**|idea, pomysł|fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định|
 |**idiote**|idiota|eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)|
 |**ifrite**|ifrit|ara:عِفْرِيت‎ (ʿifrīt), eng:spa:por:fra:tur:may:ifrit, deu:Ifrit, rus:ифрит (ifrit), jpn:イフリート (ifuriito)|
@@ -521,6 +519,7 @@
 |**jebra**|algebra|ara:fas:(jabr), tur:cebir, urd:(aljabrā), eng:algebra, fra:algèbre, swa:aljebra|
 |**jeka daku**|pożyczać (pożyczyć)|zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|
 |**jeka**|pożyczyć|zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check|
+|**jela**|więzienie, kara więzienia, kara pozbawienia wolności|eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula|
 |**jele**|żel, galareta|eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|
 |**jelosi**|zazdrosny|eng:jealous, spa:celoso, fra:jaloux|
 |**jen**|medytować; dumać, rozmyślać, zastanawiać się|hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|
@@ -553,7 +552,7 @@
 |**kaka**|ekskrement, gówno|spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|
 |**kakau**|kakao|por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, rus:какао (kakao), jpn:カカオ (kakao), zho:可可 (kěkě), vie:cacao, swa:kakao|
 |**kala**|czarny|hin:काला (kālā), ben:কালো (kalo), pnb:ਕਾਲਾ (kālā) + tur:kara + tam:கருப்பு (karuppu)|
-|**kalam**|pióro, długopis|ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|
+|**kalam**|pióro, długopis|ara:fas:urd: قلم‎ (qalam), hin:क़लम (qalam), ben:কলম (kôlôm), may:kalam, fra:calame, spa:por:cálamo, yor:swa:kalamu, hau:alƙalami, tur:kalem|
 |**kalenda**|kalendarz|eng:calendar, fra:calendrier, spa:por:calendario, rus:календарь (kalendar’), deu:may:kalender, jpn:カレンダー (karendā), kor:카렌더 (karendeo), hin:कैलेण्डर (kaileṇḍar), swa:kalenda|
 |**kalkul**|rachunek (formalny system obliczeń)|fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|
 |**kalmar**|kałamarnica (mątwa)|ell:καλαμάρι (kalamári), spa:por:calamar, fra:calmar, ita:eng:calamari, rus:кальмар (kal’mar), tur:kalamar, ara:كلاماري‎ (klamāri)|
@@ -566,7 +565,7 @@
 |**kanal**|kanał|eng:spa:por:fra:canal, rus:канал (kanal), ben:খাল (khal), may:kanal|
 |**kancha**|szkło|hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:kaca, tel:గాజు (gāju)|
 |**kandi**|cukierek, słodycze|eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyanḍi), jpn:キャンデー (kyandē), tgl:kendi|
-|**kane**|pręt, kij|eng:cane, fra:canne, zho:杆 (gǎn),|
+|**kane**|pręt, kij|eng:cane, fra:canne + zho:杆 (gǎn), yue:杆 (gon1), vie:cần, tha:คัน (khan)|
 |**kanga**|grzebień|hin:कंघी (kaṅghī), urd:(kaṅghī), ben:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā) + eng:fra:may:kanga|
 |**kangaru**|kangur|eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)|
 |**kanjar**|sztylet (puginał)|fas:(xanjar), tur:haner, rus:кинжал (kinžal)|
@@ -709,8 +708,7 @@
 |**lense**|soczewka|eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)|
 |**lenshi**|ćwiczenie|zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|
 |**lente**|powolny (wolny, letargiczny)|fra:lent, spa:por:lento|
-|**letis**|sałata|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
-|**lezi**|gruszka|zho:梨子 (lízi), yue:梨 (lei42), vie:lê,|
+|**letus**|sałata|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
 |**liama**|lama|eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|
 |**libele**|ważka|spa:por:libélula, fra:libellule, deu:Libelle|
 |**lichi**|liczi|zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|
@@ -795,6 +793,7 @@
 |**meche**|mecz, rywalizacja|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |**medal**|medalion, medal|eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|
 |**medan**|skwer, plac|ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|
+|**mede**|pomoc, wsparcie|fra:m’aidez, eng:mayday, rus:мэдэ (mede), jpn:メーデー (mēdē), kor:메이데이 (meidei) + ara:fas:urd: مَدَد‎ (madad), hin:मदद (madad), ben:মদদ (môdôd)|
 |**medi**|średni|spa:medio, eng:medium, hin:माद्धयम (mādhyam)|
 |**medu**|miód|rus:мёд (myod), hin:मधु (madhu), ben:মধু (môdhu), may:madu + por:mel, fra:spa:miel + yue:蜜 (mat6)|
 |**mega**|milion|eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)|
@@ -972,6 +971,7 @@
 |**pende**|powiesić, wieszać|eng:pendant, por:fra:pender|
 |**penis**|penis|eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)|
 |**pente**|namalować, malować|eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)|
+|**pera**|gruszka|eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea + kor:배 (bae)|
 |**pero**|pióro|hin:पर (par), fas:urd:(par), kur:perr, rus:перо (pero)|
 |**pesa**|pieniądze|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|
 |**peshe**|ryba|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
@@ -1010,12 +1010,11 @@
 |**porei**|por|spa:puerro, por:porro, fra:poireau, deu:Porree, fin:purjo, rus:порей (porey), may:perai|
 |**porno**|porno, film erotyczny|eng:porn, spa:tur:may:porno, por:pornô, deu:Pornografie, rus:порно (porno), jpn:ポルノ (poruno)|
 |**porte**|port|eng:port, fra:porte, spa:por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)|
-|**pos**|konsekwencja, skutek|eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-)|
+|**pos**|konsekwencja, skutek|eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-) + fas: پس (pas)|
 |**posta**|poczta|eng:post, por:postagem, fra:poste, rus:почта (pochta), tur:posta, ara:بوسطة‎ (busṭa), swa:posta, may:pos, fas:پست‎ (post)|
 |**poze**|poza, pozycja|eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ|
 |**prati**|praktyka, aktualność|eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|
 |**prezidente**|prezydent|eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden|
-|**prizon**|więzienie, kara więzienia, kara pozbawienia wolności|eng:fra:prison, spa:prisión, por:prisão|
 |**problem**|problem|eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|
 |**profesor**|profesor|eng:por:professor, spa:profesor, rus:профессор (professor), tur:profesör, swa:profesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)|
 |**program**|program|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|

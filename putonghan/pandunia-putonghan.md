@@ -176,6 +176,8 @@ bon vide di - 好看
 botel - 瓶  
 Brahma - 梵天  
 briko - 杏子 (李子)  
+brosha - 笔  
+brosha kalam - 毛笔  
 bubu - 魔鬼  
 bucha ja - 屠夫  
 bucha kan - 屠宰场  
@@ -312,7 +314,6 @@ fa dosil - 驯养
 fa dus forma - 变丑  
 fa fen gata - 分析  
 fa fobi - 吓唬  
-fa helpe - 帮助  
 fa hisabu - 计算  
 fa hogo - 燃烧  
 fa in klus - 包括  
@@ -322,6 +323,7 @@ fa kite - 除去
 fa lai - 带来  
 fa linke - 连接  
 fa loka - 放置  
+fa mede - 帮助  
 fa memo - 记得 (回忆)  
 fa migra - 搬家  
 fa najis - 污染  
@@ -364,6 +366,7 @@ fito yam sim ja - 素食主义者
 flame - 炎症  
 fleche - 箭  
 fong - 蜂  
+fonte kalam - 钢笔  
 fora - 钻孔  
 foto - 光  
 foto frike - 擦亮  
@@ -390,17 +393,20 @@ gabur sheku - 墓石 (墓碑)
 galaksi - 恆星系  
 Galia - 高卢  
 galte - 错误  
-gan chau - 干草  
+gan gazo - 干草  
+gana - 秆  
+gana kalam - 蘆葦筆  
 ganse - 雁 (鹅)  
 ganum - 麦  
 garma mosim - 夏季  
 garma zona - 热带  
-garma zona chau topo - 稀树草原  
+garma zona gazo topo - 稀树草原  
 gata - 切  
 gata glu ban - 剪贴板  
 gati - 硬  
 gati mate - 固体  
 gau tehni - 高科技 (高技术)  
+gazo medan - 草地  
 gencha - 检查  
 geo forme - 地势  
 geo grafi - 地理  
@@ -450,12 +456,11 @@ haha - 笑
 hai - 海  
 hai alga - 海藻  
 hai amir ja - 海军上将  
-hai chau - 海草  
+hai gazo - 海草  
 hai gun - 海军  
 hai hiyar - 海參  
 hai hua - 海葵  
 hai jele - 海蜇  
-hai kinar - 岸  
 hai kinar - 海岸  
 hai porte - 海港  
 haki - 权利  
@@ -502,6 +507,7 @@ hua pote - 花盆
 hui darte - 灰化土  
 huke - 钩  
 huke krus - 卍 (卐)  
+huke lin kane - 钓鱼竿  
 huli - 狐狸  
 huru - 自由的  
 huru ta - 自由  
@@ -528,6 +534,7 @@ javabu - 回答
 jeka - 借  
 jeka daku - 借入  
 jeka dona - 借出  
+jela kan - 监狱 (监牢)  
 jen buda din - 禅宗  
 jene basha - 母语  
 jene di - 生的  
@@ -575,6 +582,7 @@ kamil - 母菊
 kamisa - 衬衫  
 kamisa shaka - 袖子  
 kan - 店 (馆)  
+kanal - 水沟  
 kancha - 玻璃  
 kancha daka - 釉  
 kandi - 糖果  
@@ -587,6 +595,7 @@ kanyon - 峡谷 (深谷)
 kape truke - 陷阱  
 karate - 空手道  
 karbon duokside - 二氧化碳  
+karbon kalam - 铅笔  
 karchof - 菜蓟  
 kardon - 蓟  
 kardon karchof - 刺苞菜蓟  
@@ -609,6 +618,7 @@ kechi - 客气
 keka ja - 客人  
 Keme - 古埃及  
 kerne - 核心  
+kesha brosha - 发刷  
 kesha hin - 无毛  
 kiau - 桥  
 kimi - 物质  
@@ -695,9 +705,8 @@ leng - 冷たい (寒い)
 leng mosim - 冬天  
 lense - 透镜  
 lente - 慢  
-letis - 莴苣  
+letus - 莴苣  
 leu - 了  
-lezi - 梨  
 liama - 大羊駝  
 libele - 蜻蜓  
 lida ja - 领导  
@@ -781,6 +790,7 @@ maze - 袜子
 meche - 比赛  
 medan - 广场  
 medan papi - 虞美人 (雛罌粟)  
+mede - 帮  
 medi - 中型  
 medi dia - 正午  
 medi noche - 半夜 (午夜)  
@@ -942,7 +952,10 @@ pelmen - 饺子
 pelpel - 蝴蝶  
 pende kardon - 垂花飞廉  
 pente - 油漆 (颜料)  
+pente brosha - 画笔  
 pente tela - 画布  
+pera - 梨  
+pero kalam - 鹅毛笔  
 pero kardon - 翼蓟  
 pesa - 钱  
 pesa diske - 硬币  
@@ -1147,7 +1160,7 @@ sui yau - 口渴
 Suise - 瑞士  
 suka - 高兴  
 sukar - 糖  
-sukar chau - 甘蔗  
+sukar gana - 甘蔗  
 sundar - 漂亮 (美)  
 sundar daka - 装饰  
 sundar shuta - 艺术 (美术)  

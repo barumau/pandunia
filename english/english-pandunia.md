@@ -484,7 +484,7 @@ brown algae - kafe alga
 brown trout - kafe salmon  
 browser - brauza gi  
 Brunei Darussalam - Brunei  
-brush - brosh  
+brush - brosha  
 bubble - lili bol  
 bucket - baldi  
 Budapest - Budapeshte  
@@ -625,7 +625,6 @@ champion - champion
 change (alter, convert) - mute  
 change (make different) - fa alo  
 channel (conduct) - fa kanal  
-channel - kanal  
 chant - mantra  
 chaos (disorder, turmoil) - haos  
 chapter (section) - babu  
@@ -721,7 +720,6 @@ clothed (dressed) - fuku di
 clothing (clothes) - fuku  
 cloud - megi  
 club - klube  
-coast (beach) - hai kinar  
 coat - kote  
 cobalt - kobalte  
 cobblestone - gola sheku  
@@ -1020,6 +1018,7 @@ distance (far away) - tele
 distance (length) - tele ta  
 distinction (specialty) - has ta  
 distinguish - fa has  
+ditch (canal, channel, dyke, trench) - kanal  
 divide (to partition) - fa fen  
 divine (godly) - deu di  
 Djibouti - Jibuti  
@@ -1082,11 +1081,11 @@ dubnium - dubnium
 duck - bata  
 dump (junk yard) - laji bagi  
 dumpling (ravioli, pelmeni) - pelmen  
-dungeon (underground prison) - geo niche prizon  
+dungeon (underground prison) - geo niche jela  
 dungeon crawl - donjon ventur  
 durable (endurable, sustainable) - dura bil  
 duration (time interval) - dura  
-duruka - yam sukar chau  
+duruka - yam sukar gana  
 dust (powder) - fun  
 dye - rang mate  
 dynamite - dinamite  
@@ -1146,7 +1145,7 @@ emperor - imperi ja
 empire - imperi desha  
 empty (void) - hali  
 emulate (simulate, mimic, model) - fa sam sifa  
-Enceladus - Encheladus  
+Enceladus - Enceladus  
 encode (encrypt) - kode  
 end (ending) - fin  
 end - be fin  
@@ -1239,7 +1238,7 @@ expensive (costly) - koste di
 explode (blow up) - be bum  
 explode - be bum  
 explore (browse) - brauza  
-explorer - brauza program  
+explorer - logi safar ja  
 explosion (blast, eruption) - bum  
 export - ekso mise  
 expose (reveal) - ekso poze  
@@ -1311,8 +1310,8 @@ ferment (leaven) - be bio mute
 fermented - bio mute di  
 fermium - fermium  
 fern - parne  
-fertilize - frute sana  
-fertilizer - frute sana ja  
+fertilize - fa darte bon  
+fertilizer - darte bon ja  
 fibre - lin so  
 field (square, plaza, maidan) - medan  
 fiery - hogo di  
@@ -1342,6 +1341,7 @@ fish - peshe
 fish tank - peshe tanke  
 fisher - peshe saide ja  
 fishhook - peshe huke  
+fishing rod (fishing pole) - huke lin kane  
 fit (adapt, adjust, make suitable) - fa hapu  
 fit (suit, be suitable) - be hapu  
 five (5) - lima  
@@ -1397,6 +1397,7 @@ forward - do jin
 found - fa baze  
 founder - baze ja  
 fountain (spring, well) - fonte  
+fountain pen - fonte kalam  
 four (4) - nelu  
 fox - huli  
 frame - frem  
@@ -1543,8 +1544,8 @@ granite - granite
 grape - putau  
 grapefruit - putau oranje  
 graphic (pictorial) - grafi di  
-grass - chau  
-grassland (prairie) - chau topo  
+grass - gazo  
+grassland (prairie) - gazo topo  
 grave (tomb, bury) - gabur  
 gravel - grave  
 graveyard (cemetery, burial ground) - gabur bagi  
@@ -1596,6 +1597,7 @@ hafnium - hafnium
 hair - kesha  
 hair of the head - sar kesha  
 hairband (headband) - kesha bande  
+hairbrush - kesha brosha  
 hairless - kesha hin  
 Haiti - Haiti  
 halo (aureola) - foto gola  
@@ -1616,11 +1618,11 @@ harness - harnes
 hashish - hashish  
 hassium - hasium  
 hat (cap) - tupi  
-hate (despise) - hena  
+hate (despise) - hen  
 hatred (hate, resentment, odium) - hen  
 Hawaii - Havai  
 Hawaiian archipelago - Havai nesia  
-hay - gan chau  
+hay - gan gazo  
 hazard (chance) - zar  
 he or she or it - ya  
 head - sar  
@@ -1641,9 +1643,9 @@ helium - helium
 hell - naraka  
 hello (hi) - halo  
 helmet - sar kaske  
-help (aid, assistance) - helpe  
-help (assist) - fa helpe  
-helper (supporter, proponent, backer) - helpeja  
+help (aid, assistance) - mede  
+help (assist) - fa mede  
+helper (supporter, proponent, backer) - mede ja  
 Helsinki - Helsinki  
 here - na ni  
 heritage (legacy, bequest) - varis  
@@ -1765,7 +1767,7 @@ implode (collapse) - be in bum
 implosion - in bum  
 import - in mise  
 important - ham di  
-imprison (jail) - fa prizon  
+imprison (jail) - fa jela  
 include (enclose, hold in) - fa in klus  
 including - in klus  
 inclusive - in klus di  
@@ -1788,6 +1790,7 @@ initial (first) - shuru di
 inject - jusha  
 injection - jusha  
 ink - kalam sui  
+inkbrush (calligraphy brush) - brosha kalam  
 innate (endogenous, indigenous, inborn) - in jene di  
 inner (internal) - in di  
 insect - dudu  
@@ -1825,7 +1828,7 @@ Iraq - Iraki
 Ireland - Aire  
 iridium - iridium  
 iron - feru  
-ironic - ironi  
+ironic - ironi di  
 irony - ironi  
 Islam - islam din  
 islamophobia - islam fobi  
@@ -1838,7 +1841,7 @@ Italy - Italia
 jackal - shakal  
 jacket - jake  
 jade - gioka  
-jailer (imprisoner) - prizon ja  
+jailer (imprisoner) - jela ja  
 Jainism - jain din  
 Jakarta - Jakarta  
 Jamaica - Jamaika  
@@ -1963,6 +1966,7 @@ lauan tree (meranti, balau) - meranti
 laugh - haha  
 lava - yong petra  
 law - kanun  
+lawn - gazo medan  
 lawrencium - laurencium  
 lay (lay down) - kush  
 layer (level, storey, floor, stratum) - cheng  
@@ -1995,7 +1999,7 @@ less - min
 lesson (teaching) - shula she  
 let's - haide  
 letter (character, written symbol) - fon zi  
-lettuce - letis  
+lettuce - letus  
 level - par fase  
 level down - tal darja  
 level up (graduate) - be gau darja  
@@ -2081,7 +2085,7 @@ low (short) - tal di
 lower (inferior) - niche di  
 lower (put down) - fa tal  
 loyal (faithful, trustworthy) - amen bil  
-loyalty (faithfulness) - amen bilta  
+loyalty (faithfulness) - amen bil ta  
 luggage (baggage) - bagaje  
 lull - lala  
 lullaby - lala chante  
@@ -2605,6 +2609,7 @@ pain (suffering) - pasi
 painful - pasi di  
 paint (cover in paint) - fa pente  
 paint - pente  
+paintbrush - pente brosha  
 painter - pente ja  
 Pakistan - Pakistan  
 palace (mansion) - dai dom  
@@ -2676,13 +2681,14 @@ pay - fa pei
 payment - pei  
 peace - pase  
 peanut (groundnut) - geo dou  
-pear - lezi  
+pear - pera  
 pearl - lulu  
 peat - turfa  
 pebble (gravel) - lili sheku  
 pedal - pedal  
 peer - par jan  
 pen (writing tool) - kalam  
+pencil - karbon kalam  
 penguin - pinguin  
 peninsula - yaki nes  
 penis (phallus) - penis  
@@ -2698,8 +2704,8 @@ perfect (optimize, refine, polish) - fa pul bon
 perfect - pul bon  
 period (era, epoch, term) - dura zaman  
 peripheral - kinar di  
-perish (ruin, waste away) - perisha  
-perished (ruined, desolate, wretched, miserable) - perisha di  
+perish (ruin, waste away) - perishe  
+perished (ruined, desolate, wretched, miserable) - perishe di  
 permissible (allowed, halal) - halal  
 Persian (Farsi) - farsi  
 person (individual, -ist, -er) - jan  
@@ -2731,6 +2737,7 @@ physics - fizika
 piano - piano  
 pickaxe - pin chope  
 pickle (preserve in vinegar or brine) - fa achar  
+pickle - achar  
 pickled - achar di  
 picnic - ekso yam  
 picture book - grafi buku  
@@ -2882,9 +2889,9 @@ priest (cleric) - din guru
 primary school (elementary school, gradeschool) - baze shula kan  
 prime minister - shefe minister  
 print (stamp) - chape  
-prison (imprisonment) - prizon  
-prison - prizon kan  
-prisoner - prizon jan  
+prison (imprisonment) - jela  
+prison (jail) - jela kan  
+prisoner - jela jan  
 pristine (virginal) - virje di  
 privateer (buccaneer) - nave kape ja  
 problem (issue) - problem  
@@ -2942,6 +2949,7 @@ quarter (neighbourhood, district, locality, section of town) - mahala
 quartz - kuarze  
 queen - fem raja  
 question (query, inquiry) - sual  
+quill - pero kalam  
 quotation mark - sita marke  
 quote (cite) - sita  
 Quran (Koran) - kuran  
@@ -2994,6 +3002,8 @@ rebellion - rebel
 receipt (acknowledgement) - reside  
 recycle - re sikle  
 red - lal  
+reed (cane) - gana  
+reed pen - gana kalam  
 reflect - mira  
 refuse (deny, decline) - nega  
 regime - politi mode  
@@ -3026,7 +3036,7 @@ representative (proxy, agent) - vakil ja
 republic - komun krati  
 Republic of North Macedonia - Norde Makedonia  
 request (petition) - ching  
-resemble (be like) - be sam  
+resemble (be like) - be sam rupa  
 reservation (booking, withholding) - rezerve  
 reserve (book) - fa rezerve  
 resin - rezin  
@@ -3170,7 +3180,7 @@ sauce - sos
 Saudi Arabia - Saudi Arabia  
 sauna - sauna  
 sausage - sosis  
-savannah - garma zona chau topo  
+savannah - garma zona gazo topo  
 save (deposit, bank) - banka  
 savory (umami) - umami  
 saw - sera  
@@ -3204,7 +3214,7 @@ sea anemone - hai hua
 sea cucumber - hai hiyar  
 sea force (navy) - hai gun  
 seaborgium - siborgium  
-seagrass - hai chau  
+seagrass - hai gazo  
 search (seek, look for) - soka  
 season - mosim  
 seat (saddle) - side loka  
@@ -3279,7 +3289,7 @@ shogunate - gun raja desha
 shoot (fire) - pau  
 shop (building, house, place) - kan  
 shopping - shopi  
-shore - hai kinar  
+shore (coast, beach) - hai kinar  
 short (brief) - korte  
 short story - korte kata  
 shorten - korte fa  
@@ -3503,7 +3513,7 @@ suffix - pos fikse
 sugar - sukar  
 sugar beet - sukar bete  
 sugar-apple (sweetsop) - ata  
-sugarcane - sukar chau  
+sugarcane - sukar gana  
 sugary (sweet) - sukar di  
 suggest (propose) - fa suje  
 suggestion (proposal) - suje  
@@ -3713,7 +3723,7 @@ too little - min ka basa
 too much - mas ka basa  
 tool - tul  
 tooth - dante  
-tooth brush - dante brosh  
+tooth brush - dante brosha  
 toothless - dante hin  
 top (peak, pinnacle, summit, apex, vertex) - shan pike  
 top (spinning top) - rota van gi  
@@ -3982,8 +3992,8 @@ wiki - viki
 wiki article - viki makala  
 wild (savage) - eko jene di  
 wild (savage) - vilde  
-will (volition, desire) - icha  
-will (want) - icha  
+will (volition, desire) - ichi  
+will (want) - ichi  
 wind - hava  
 window - janela  
 window frame - janela frem  

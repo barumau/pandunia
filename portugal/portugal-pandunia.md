@@ -31,13 +31,14 @@ agronomia - nong nomi
 agrícola - nong di  
 ai! - ayo  
 ainda - zoku  
+ajuda (socorro, auxílio) - mede  
 alaranjado - oranje rang  
 alcachofra - karchof  
 alcachofra-girassol (tupinambo) - masa mula sol hua  
 alcalino - kali  
 alcaravia (cariz) - karavi  
 aldeia (vila) - chun  
-alface - letis  
+alface - letus  
 alfinete - pin  
 alga - alga  
 algodão - goton  
@@ -174,6 +175,7 @@ branco - baku
 bravo (valente, corajoso) - bravo  
 bravo! - bravo  
 braço - hande shaka  
+brocha (pincel) - brosha  
 bu! - bu!  
 Buda - Buda  
 budismo zen - jen buda din  
@@ -205,7 +207,10 @@ camarão - krevete
 camisa - kamisa  
 camomila-romana - roma kamil  
 camomila-vulgar - kamil  
-cana-de-açúcar - sukar chau  
+cana - gana  
+cana-de-açúcar - sukar gana  
+canal (fosso, trincheira) - kanal  
+caneta de tinta permanente - fonte kalam  
 canguru - kangaru  
 canhão (ravina, barranco) - kanyon  
 canhǎo - dai pau  
@@ -346,6 +351,7 @@ cubo - kube
 cultivar - nong  
 cume (pico, topo) - shan pike  
 curva - kurva  
+cálamo - gana kalam  
 cápsico - chili  
 cão (cachorro) - vaf  
 cérebro - nau  
@@ -439,10 +445,11 @@ enxada - chopu
 equilíbrio - par veze ta  
 erro (falta) - galte  
 errôneo - galte di  
-erva marinha - hai chau  
+erva marinha - hai gazo  
 escama - shalke  
 escavar - fa ekso kave  
 escola (colégio) - shula kan  
+escova de cabelo - kesha brosha  
 escovinha (centáurea) - blu sentaure  
 escrevere - kitabu  
 escudo - defa ban  
@@ -512,7 +519,7 @@ fazer - fa
 fechadura - sor  
 feio - dus vide  
 feliz - suka  
-feno - gan chau  
+feno - gan gazo  
 fermentar - be bio mute  
 fibra - lin so  
 filho ou filha - ben  
@@ -568,6 +575,8 @@ girassol - sol hua
 golfinho (delfim) - dolfin  
 gorila - gorila  
 governo - politi  
+grama (relva) - gazo  
+gramado - gazo medan  
 granito - granite  
 graças a - shukra da  
 grupo - grupe  
@@ -714,6 +723,7 @@ luz do dia - dia foto
 lábio - labi  
 lápide - gabur sheku  
 lápis - kalam  
+lápis - karbon kalam  
 lápis-lazúli - lazur petra  
 lâmpada (luminária) - lampa  
 léxico - loga di  
@@ -951,15 +961,17 @@ peidar - fa pede
 peido - pede  
 peixe - peshe  
 pele - pil  
+pena - pero kalam  
 penso (band-aid) - glu bande  
 pepino - hiyar  
 pepino-africano (kiwano) - korne melon  
 pepino-do-mar (holotúrias) - hai hiyar  
 pequeno - lili  
+pera - pera  
 perdedor - shiti bai ja  
 perder - shiti  
 perdoar (desculpar) - fa maf  
-perecer - perisha  
+perecer - perishe  
 perguntar - fa sual  
 perigo - hatar  
 perplexo (confuso) - ruhu mishe di  
@@ -971,6 +983,7 @@ petróleo - petra nefte
 picareta - pin chope  
 pilha (bateria) - bateri  
 pimenta - pipre  
+pincel - pente brosha  
 pinheiro - song  
 pintura - pente  
 piquenique - ekso yam  
@@ -1275,6 +1288,7 @@ valorar - fa valu
 vampiro - vampir  
 vapor - sui gas  
 vara (bastão) - kane  
+vara de pescar - huke lin kane  
 vaso de flores - hua pote  
 vazar - lou  
 vazio - hali  

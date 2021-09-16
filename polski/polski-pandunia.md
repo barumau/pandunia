@@ -267,7 +267,7 @@ być mistrzem (być ekspertem) - fa mestre
 być o; dyskutować o - tema  
 być obok - na late  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
-być podobnym, być jak - be sam  
+być podobnym, być jak - be sam rupa  
 być przeciw - kontra  
 być umiejscowionym (być ulokowanym, stać) - be loka  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym - be name  
@@ -310,7 +310,7 @@ chaber - sentaure
 chaber wełnisty - sol sentaure  
 Champagne - shampan  
 chaos, nieporządek; wrzawa, zgiełk - haos  
-chcieć (pragnąć) - icha  
+chcieć (pragnąć) - ichi  
 chcieć, pragnąć - vol  
 chciwy (żądny) - tam  
 chemia - kimi logi  
@@ -373,7 +373,7 @@ cudzysłów - sita marke
 cukier - sukar  
 cukierek, słodycze - kandi  
 cukinia - lili kaboga  
-cukrowiec jadalny - yam sukar chau  
+cukrowiec jadalny - yam sukar gana  
 cwał (galop) - galope  
 cyfrowy - komputa di  
 cynk - estan  
@@ -763,7 +763,7 @@ grudzień - mes tisa
 grunt (ziemia, próchnica) - darte  
 grupa - grupe  
 grupa etniczna - zuku  
-gruszka - lezi  
+gruszka - pera  
 Gruzja (Republika Gruzji) - Kartvel  
 grymas - grimas  
 grzebień - kanga  
@@ -920,7 +920,7 @@ Irlandia Północna - Norde Aire
 ironia - ironi  
 ironia dramatyczna - drama ironi  
 ironia sytuacyjna - she hal ironi  
-ironiczny - ironi  
+ironiczny - ironi di  
 iryd - iridium  
 Islam - islam din  
 islamofobia - islam fobi  
@@ -1339,13 +1339,13 @@ litewski - lietuva basha
 litr - litre  
 Litwa - Lietuva  
 liwermor - livermorium  
-loch - geo niche prizon  
+loch - geo niche jela  
 lodowy - ais di  
 lody - ais krem  
 logiczny - logika di  
 logika, dedukcja - logika  
 logofil (miłośnik słów) - loga fili ja  
-lojalność (wierność) - amen bilta  
+lojalność (wierność) - amen bil ta  
 lojalny (wierny) - amen bil  
 Londyn - London  
 lorens - laurencium  
@@ -1656,9 +1656,9 @@ nauka, badanie, studiowanie - logi
 Nauru - Nauru  
 nautilus - nautile  
 nawet - hata  
-nawozić (nawieźć) - frute sana  
+nawozić (nawieźć) - fa darte bon  
 nawyk (przyzwyczajenie) - ada  
-nawóz - frute sana ja  
+nawóz - darte bon ja  
 nazista - nasi sosi sim ja  
 nazizm - nasi sosi sim  
 nazwa użytkownika - use ja name  
@@ -2110,10 +2110,10 @@ pomarańcza słodka (pomarańcza chińska) - sukar oranje
 pomarańczowy - oranje rang  
 pomidor - tomate  
 pomnik (memoriał) - memo bina  
-pomoc, wsparcie - helpe  
+pomoc, wsparcie - mede  
 pomodlić się, modlić się - dua  
 pompować - pompe  
-pomóc, pomagać, asystować - fa helpe  
+pomóc, pomagać, asystować - fa mede  
 poniedziałek - var un  
 ponieważ, bo - ze saba da  
 poniższy - niche di  
@@ -2152,7 +2152,7 @@ postawa ciała; asana - asan
 postawiony (stojący) - lipa di  
 postawić (stawiać) - fa libu  
 posuwać się do przodu (dokonywać postępu, wejść) - be jin  
-poszukiwacz (badacz, eksplorator) - brauza program  
+poszukiwacz (badacz, eksplorator) - logi safar ja  
 poszukiwacz przygód (awanturnik) - ventur ja  
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
 posłaniec (wysłannik) - anjil ja  
@@ -2311,7 +2311,7 @@ przymus - deve ta
 przyprawa - masala  
 przyrostek (sufiks) - pos fikse  
 przyrostek dla miejsca - ya  
-przyrostek dla wsperającego ideę - helpeja  
+przyrostek dla wsperającego ideę - mede ja  
 przyrostek dla wykonawcy - ja  
 przyrostek dla wykonawcy - karma ja  
 przystojny, atrakcyjny, ładny - bon vide di  
@@ -2559,8 +2559,8 @@ satanista - shatan din ja
 satanizm - shatan din  
 Saturn - Saturne  
 sauna - sauna  
-sawanna - garma zona chau topo  
-sałata - letis  
+sawanna - garma zona gazo topo  
+sałata - letus  
 sałatka - salade  
 schody (drabina) - eskale  
 seaborg - siborgium  
@@ -2585,7 +2585,7 @@ Seszele - Seshel nesia
 sezam - sesam  
 sfermentowany - bio mute di  
 shintoizm, sintoizm - shindau din  
-siano - gan chau  
+siano - gan gazo  
 siarka - sulfur  
 siedem (7) - cheti  
 siedzenie (siodło) - side loka  
@@ -2720,7 +2720,7 @@ storczyk (orchidea) - orkide
 stowarzyszać się (zrzeszać się) - liga  
 strach, fobia - fobi  
 stracić (utracić, tracić, zgubuć, gubić) - shiti  
-strażnik więzienny - prizon ja  
+strażnik więzienny - jela ja  
 strażnik, ochroniarz - garde ja  
 strona (bok) - late  
 strona - varka late  
@@ -2776,8 +2776,8 @@ szariat - islam din sharia
 szary - hui rang  
 szaszłyk - shish nama  
 szczepionka - vasin  
-szczoteczka do zębów - dante brosh  
-szczotka - brosh  
+szczoteczka do zębów - dante brosha  
+szczotka - brosha  
 szczyt (wierzchołek) - shan pike  
 szef, kierownik - shefe  
 szeleścić - shasha  
@@ -2940,8 +2940,8 @@ torba, wór, worek, torba, sakwa - sake
 tost - roste pang  
 towarzysz (partner, kumpel) - late jan  
 traktor (ciągnik) - trator gi  
-trawa - chau  
-trawa mor - hai chau  
+trawa - gazo  
+trawa mor - hai gazo  
 treść (zawartość) - in she  
 tropikalny - garma zona di  
 tropiki - garma zona  
@@ -2952,7 +2952,7 @@ trwać, zająć czas; przez - be dura
 trwały (wytrzymały, podtrzymywalny) - dura bil  
 tryb nocny - noche mode  
 Trynidad i Tobago - Trinidade e Tobago  
-trzcina cukrowa - sukar chau  
+trzcina cukrowa - sukar gana  
 trzeć (pocierać, obetrzeć, pucować) - frike  
 trzy (3) - tri  
 trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi) - sismo  
@@ -3056,7 +3056,7 @@ usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać si
 usłyszeć, słyszeć; słuchać - audi  
 uwaga, obserwacja - note she  
 uważać (sądzić) - fa rai  
-uwięzić, więzić, pozbawić wolności - fa prizon  
+uwięzić, więzić, pozbawić wolności - fa jela  
 uwolnić, uwalniać - huru di  
 Uzbekistan - Uzbeki  
 uznać (przynać, przyjąć do wiadomości) - fa reside  
@@ -3179,8 +3179,8 @@ wiza - viza
 wizyta - keka  
 wizytant (gość) - keka ja  
 większość - mas di fen  
-więzienie, kara więzienia, kara pozbawienia wolności - prizon  
-więzienie, zakład karny - prizon kan  
+więzienie, kara więzienia, kara pozbawienia wolności - jela  
+więzienie, zakład karny - jela kan  
 wiśnia (czereśnia) - cheri  
 wkrótce - sun  
 wnieć wkład (przyczynić się) - fendona  
@@ -3193,7 +3193,7 @@ wodorosty - hai alga
 wodór - hidro  
 wojownik, bojownik - jeng ja  
 wola (chęć, pragnienie) - vol she  
-wola, chęć - icha  
+wola, chęć - ichi  
 wolfram - volfram  
 wolność, niepodległość, niezależność - huru ta  
 wolny, niepodległy, niezależny - huru  
@@ -3232,7 +3232,6 @@ wtorek - var du
 wulkan - hogo shan  
 wy, was - tumen  
 wybrać, wybierać, selekcjonować - chuze  
-wybrzeże (plaża) - hai kinar  
 wybrzeże - hai kinar  
 Wybrzeże Kości Słowniowej - Kote Da Ivar  
 wybuch (eksplozja) - bum  
@@ -3518,7 +3517,7 @@ zły, zrujnowany, zepsuty - harabu
 łóżko - bede  
 łączyć (złączyć) - be yong liga  
 łączyć, wiązać, złączyć - fa linke  
-łąka - chau topo  
+łąka - gazo topo  
 Śiwa - Shiva  
 Święta Helena - Sante Helena  
 ścieżka (droga, szlak, kurs) - rute  

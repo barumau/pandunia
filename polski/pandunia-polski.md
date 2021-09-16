@@ -62,7 +62,7 @@ ama - miłość (afekt)
 ama di - kochany (drogi)  
 Amara - Amhara, amharski  
 amen bil - lojalny (wierny)  
-amen bilta - lojalność (wierność)  
+amen bil ta - lojalność (wierność)  
 amen shin - ufać (wierzyć, liczyć, polegać)  
 Amerika - Ameryka (kontynent)  
 Amerika di - amerykański  
@@ -321,7 +321,7 @@ be reste - zostać, zostawać
 be retro - wrócić, wracać, wycofać się, wycofywać się  
 be rupa - wyglądać (wydawać się)  
 be rute galte - zbłąkać się (wykoleić się)  
-be sam - być podobnym, być jak  
+be sam rupa - być podobnym, być jak  
 be shuru - zaczyna (zacząć, rozpoczynać, rozpocząć)  
 be sona - spać  
 be suka - lubić, cieszyć się  
@@ -416,7 +416,6 @@ Bosna e Hercegovina - Bośnia i Harcegowina
 Bote - Tybet  
 botel - butelka  
 brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
-brauza program - poszukiwacz (badacz, eksplorator)  
 bravo - Odwarzny (  
 bravo - brawo (gratulacje)  
 Brazavil Kongo - Republika Konga  
@@ -424,7 +423,7 @@ Brazil - Brazyla
 briko - morela (śliwka)  
 Britan - Zjednoczone Królestwo  
 brom - brom  
-brosh - szczotka  
+brosha - szczotka  
 Brunei - Brunei Darussalam  
 brus - rodzeństwo, brat lub siostra  
 bu! - bu!  
@@ -471,8 +470,6 @@ chapati - płaski chleb, ćapati
 chape - odcisk, ślad; stempel, pieczęć  
 charme - czar (urok, wdzięk)  
 chati - dach  
-chau - trawa  
-chau topo - łąka  
 cheke - sprawdzić, sprawdzać, skontrolować  
 chen - poprzedni  
 chen - wcześniej (uprzednio, poprzednio, przedtem)  
@@ -557,7 +554,7 @@ Danske - duński
 Danske desha - Dania  
 dante - ząb  
 dante baluta - dąb zębaty  
-dante brosh - szczoteczka do zębów  
+dante brosha - szczoteczka do zębów  
 dante dava ja - dentysta  
 dante hin - bezzębny  
 dara mate - ciecz (płyn)  
@@ -570,6 +567,7 @@ darja medan - gradient (gradacja, stopniowanie)
 darja mute - rozwój  
 darmesitadium - darmsztadt  
 darte - grunt (ziemia, próchnica)  
+darte bon ja - nawóz  
 darte di - ziemny (glebowy, gruntowy)  
 darvin sim - darwinizm  
 darvin sim ja - darwinista  
@@ -799,6 +797,7 @@ fa chori - ukraść, kraść
 fa chuti - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 fa daka - przykryć, przykrywać, ukryć, ukrywać  
 fa dalil - dowieść, dowodzić; zeznać, zeznawać  
+fa darte bon - nawozić (nawieźć)  
 fa dika - celować  
 fa dom - dać mieszkanie (zakwaterować)  
 fa dosil - oswoić (oswajać, tresować, trenować)  
@@ -831,11 +830,11 @@ fa guste - smakować, próbować smaku
 fa halal - pozwolić, pozwalać, zezwolić, zezwalać  
 fa haram - zabronić (wzbronić, zakazać)  
 fa has - rozróżniać (rozróżnić)  
-fa helpe - pomóc, pomagać, asystować  
 fa hisabu - kalkulować  
 fa hogo - spalić, palić  
 fa jama - kolekcjonować, zebrać, zbierać  
 fa javabu - odpowiedzieć, odpowiadać  
+fa jela - uwięzić, więzić, pozbawić wolności  
 fa jene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
 fa jude - sądzić (osądzić)  
 fa jung - centrować, skupić, skupiać  
@@ -873,6 +872,7 @@ fa mas lika - wesprzeć (wzmocnić, zasilić)
 fa masim - zmaksymalizować  
 fa mata - zabić, zabijać  
 fa meche - konkurować, rywalizować; odbyć mecz, odbywać mecz  
+fa mede - pomóc, pomagać, asystować  
 fa memo - pamiętać  
 fa mestre - być mistrzem (być ekspertem)  
 fa migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
@@ -911,7 +911,6 @@ fa politi - rządzić
 fa pos - podążać  
 fa posta - nadać, wysłać pocztą  
 fa poze - pozować, ustawiać się  
-fa prizon - uwięzić, więzić, pozbawić wolności  
 fa pul - wypełnić, wypełniać  
 fa pul bon - doskonalić (optymalizować, ulepszać)  
 fa rai - uważać (sądzić)  
@@ -1092,8 +1091,6 @@ francium - frans
 frem - rama  
 frike - trzeć (pocierać, obetrzeć, pucować)  
 frute - owoc  
-frute sana - nawozić (nawieźć)  
-frute sana ja - nawóz  
 fui - fu, fuj  
 fuka - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuku - ubranie, ubiór, strój  
@@ -1137,7 +1134,7 @@ gami - małżeństwo, związek małżeński
 gami di - ożeniony, zamężny, w związku małżeńskim  
 gami jan - małżonek (małżonka)  
 gan - suchy  
-gan chau - siano  
+gan gazo - siano  
 gan putau - rodzynka  
 gan tela - ręcznik  
 Gana - Ghana  
@@ -1155,8 +1152,8 @@ garma masala - garam masala
 garma mosim - lato  
 garma mosim medi den - przesilenie letnie (dzień srodka lata)  
 garma zona - tropiki  
-garma zona chau topo - sawanna  
 garma zona di - tropikalny  
+garma zona gazo topo - sawanna  
 gas - gaz  
 gas di - gazowy  
 gata - ciąć  
@@ -1172,6 +1169,8 @@ gaze - gaza
 gazel - gazela  
 gazeta - magazyn, dziennik, gazeta  
 gazeta ja - dziennikarz  
+gazo - trawa  
+gazo topo - łąka  
 gei - gejowski (homoseksualny)  
 gem - gra  
 gem ja - gracz  
@@ -1185,7 +1184,7 @@ geo kaske plate - płyta tektoniczna
 geo logi - geologia  
 Geo Medi Hai - Morze Śródziemne  
 geo niche di - podziemny  
-geo niche prizon - loch  
+geo niche jela - loch  
 geo par lin - równik  
 Geo Par Lin Ginia - Gwinea Równikowa  
 geo sismo - trzęsienie Ziemi  
@@ -1284,14 +1283,13 @@ hai - może
 hai alga - wodorosty  
 hai amir ja - admirał  
 hai blu - morskoniebieski  
-hai chau - trawa mor  
 hai di - morski  
+hai gazo - trawa mor  
 hai gun - marynarka (flota)  
 hai hiyar - strzykwa  
 hai hua - ukwiał  
 hai jele - meduza  
 hai kinar - wybrzeże  
-hai kinar - wybrzeże (plaża)  
 hai porte - port morski (przystań)  
 haide - niech my, hajda  
 Haiti - Haiti  
@@ -1342,8 +1340,6 @@ Helen - gracki, helleński; Grek
 helis - helisa  
 helis fei gi - helikopter  
 helium - hel  
-helpe - pomoc, wsparcie  
-helpeja - przyrostek dla wsperającego ideę  
 hem - dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę  
 hem… - hmm…  
 hema - namiot  
@@ -1412,8 +1408,8 @@ huru ta - wolność, niepodległość, niezależność
 hushi - miły, przyjemny, uroczy  
 ####I - I  
 ibri - hebrajski  
-icha - chcieć (pragnąć)  
-icha - wola, chęć  
+ichi - chcieć (pragnąć)  
+ichi - wola, chęć  
 idea - idea, pomysł  
 idea di - pojęciowy  
 idea zi - ideogram  
@@ -1457,8 +1453,8 @@ ion radi di - radioaktywny
 Iraki - Irak  
 Iran - Iran  
 iridium - iryd  
-ironi - ironiczny  
 ironi - ironia  
+ironi di - ironiczny  
 islam - poddanie się, uległość, pokora, posłuszeństwo  
 islam din - Islam  
 islam din ja - muzułman, muzułmanin  
@@ -1495,6 +1491,9 @@ jeka - pożyczyć
 jeka daku - pożyczać (pożyczyć)  
 jeka dona - pożyczać komuś (pożyczyć komuś)  
 jeka loga - zapożyczenie (wyraz obcy)  
+jela - więzienie, kara więzienia, kara pozbawienia wolności  
+jela ja - strażnik więzienny  
+jela kan - więzienie, zakład karny  
 jele - żel, galareta  
 jelosi - zazdrosny  
 jen - medytować; dumać, rozmyślać, zastanawiać się  
@@ -1913,8 +1912,7 @@ leng mosim di - zimowy
 lense - soczewka  
 lenshi - ćwiczenie  
 lente - powolny (wolny, letargiczny)  
-letis - sałata  
-lezi - gruszka  
+letus - sałata  
 liama - lama  
 Libanen - Liban  
 libele - ważka  
@@ -1980,6 +1978,7 @@ loga tabi di - rozmowny
 loge - rejestr  
 loge buku - dziennik pokładowy (notatnik)  
 logi - nauka, badanie, studiowanie  
+logi safar ja - poszukiwacz (badacz, eksplorator)  
 logika - logika, dedukcja  
 logika di - logiczny  
 loka - miejsce, lokacja  
@@ -2114,6 +2113,8 @@ medan - skwer, plac
 medan di - otwarty (przestrzenny)  
 medan fobi - agorafobia  
 medan papi - mak polny  
+mede - pomoc, wsparcie  
+mede ja - przyrostek dla wsperającego ideę  
 medi - środek  
 medi - średni  
 medi dia - południe  
@@ -2578,6 +2579,7 @@ pende kardon - oset zwisły
 penis - penis  
 pente - namalować, malować  
 pente ja - malarz  
+pera - gruszka  
 pero - pióro  
 pero kardon - ostrożeń lancetowaty  
 Peru - Peru  
@@ -2686,9 +2688,6 @@ praseodimium - prazeodym
 prati - praktyka, aktualność  
 prati di - practyczny, pragmatyczny  
 prezidente - prezydent  
-prizon - więzienie, kara więzienia, kara pozbawienia wolności  
-prizon ja - strażnik więzienny  
-prizon kan - więzienie, zakład karny  
 problem - problem  
 problem di - problematyczny  
 profesor - profesor  
@@ -3168,8 +3167,8 @@ suje - sugestia, propozycja
 suka - wesoły, ucieszony  
 sukar - cukier  
 sukar bete - burak cukrowy  
-sukar chau - trzcina cukrowa  
 sukar di - słodki  
+sukar gana - trzcina cukrowa  
 sukar oranje - pomarańcza słodka (pomarańcza chińska)  
 sulfur - siarka  
 sultan - siła, autorytet, władza  
@@ -3479,7 +3478,7 @@ yam - skonsumować, konsumować, zjeść, jeść, wypić, pić)
 yam fito - warzywo  
 yam kamar - jadalnia  
 yam she - jedzenie, posiłek  
-yam sukar chau - cukrowiec jadalny  
+yam sukar gana - cukrowiec jadalny  
 yam yau - głód  
 yamen - oni  
 yang - rodzaj, typ, styl  

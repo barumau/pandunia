@@ -171,6 +171,7 @@ botel - garrafa (botelha)
 bravo - bravo (valente, corajoso)  
 bravo - bravo!  
 briko - damasco (abricó, ameixa)  
+brosha - brocha (pincel)  
 bu! - bu!  
 bubu - bicho-papão  
 bucha - abater  
@@ -379,6 +380,7 @@ flame - inflamaçao
 fleche - flecha (seta)  
 fobi ja - assustador  
 fong - abelha ou vespa  
+fonte kalam - caneta de tinta permanente  
 fora - furar (perfurar)  
 foto - luz  
 foto grafi - foto (fotografia)  
@@ -411,8 +413,10 @@ gami ben - enteado
 gami jan - esposo ou esposa  
 gami ma - sogra  
 gami pa - sogro  
-gan chau - feno  
+gan gazo - feno  
 gan tela - toalha  
+gana - cana  
+gana kalam - cálamo  
 ganse - ganso  
 ganum - trigo  
 garma mosim - verão  
@@ -420,6 +424,8 @@ garma zona - trópicos
 gas - gás  
 gata glu ban - área de transferência  
 gati - duro  
+gazo - grama (relva)  
+gazo medan - gramado  
 Geo - Terra  
 geo forme - terreno  
 geo grafi - geografia  
@@ -460,8 +466,8 @@ haha - rir
 hai - mar  
 hai alga - macroalga  
 hai amir ja - almirante  
-hai chau - erva marinha  
 hai di - marítimo  
+hai gazo - erva marinha  
 hai gun - marinha  
 hai hiyar - pepino-do-mar (holotúrias)  
 hai jele - medusa  
@@ -509,6 +515,7 @@ hua pote - vaso de flores
 hui darte - espodossolo  
 huke - gancho  
 huke krus - suástica (cruz gamada)  
+huke lin kane - vara de pescar  
 huli - raposa  
 huru - livre (forro)  
 ####I - I  
@@ -589,6 +596,7 @@ kamisa - camisa
 kamisa shaka - manga  
 kampe bagi - área de acampamento  
 kampe bede - cama portátil  
+kanal - canal (fosso, trincheira)  
 kancha - vidro  
 kandi - bombom (doce)  
 kane - vara (bastão)  
@@ -603,6 +611,7 @@ kape truke - armadilha
 karate - caratê  
 karavi - alcaravia (cariz)  
 karbon duokside - dióxido de carbono  
+karbon kalam - lápis  
 karchof - alcachofra  
 kardon - cardo  
 karga - carga (peso)  
@@ -627,6 +636,7 @@ ke riti - como
 ke sate - quando  
 Keme - Antigo Egito  
 kerne - núcleo (cerne)  
+kesha brosha - escova de cabelo  
 kesha hin - despelado  
 ki - que  
 kiau - ponte  
@@ -718,7 +728,7 @@ leng mosim - inverno
 leng mosim di - invernal (hibernal)  
 lense - lente  
 lente - lento  
-letis - alface  
+letus - alface  
 liama - lhama  
 libele - libélula  
 lida ja - líder (chefe)  
@@ -812,6 +822,7 @@ maze - meia
 meche - partida  
 medan - praça  
 medan papi - papoila  
+mede - ajuda (socorro, auxílio)  
 medi - meio (metade)  
 medi - moyen  
 medi dia - meio-dia  
@@ -979,8 +990,11 @@ pei gung - profissão
 pei gung jiu - carreira  
 pelpel - borboleta  
 pente - pintura  
+pente brosha - pincel  
 pente tela - tela  
-perisha - perecer  
+pera - pera  
+perishe - perecer  
+pero kalam - pena  
 pero kardon - cardo-roxo  
 pesa - dinheiro  
 pesa diske - moeda  
@@ -1201,7 +1215,7 @@ sui yau - sede
 Suise - Suíça  
 suka - feliz  
 sukar - açúcar  
-sukar chau - cana-de-açúcar  
+sukar gana - cana-de-açúcar  
 suna islam din - sunismo  
 sundar - belo (lindo)  
 sundar ta - beleza  

@@ -119,6 +119,7 @@
 |**botel**|bouteille|eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|
 |**bravo**|brave|eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|
 |**briko**|abricot (prune)|ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|
+|**brosha**|brosse|eng:brush, fra:brosse, spa:por:brocha, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, fas:(boros), may:berus, ara: فُرْشَاة‎ (furšāh), tur:fırça|
 |**bu!**|bouh!|eng:boo, fra:bouh, por:spa:bu, rus:бу (bu), kor:부 (bu)|
 |**bucha ja**|boucher|eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ)|
 |**bucha kan**|abattoir|fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)|
@@ -221,11 +222,13 @@
 |**galope**|galop|eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)|
 |**galte**|faute (erreur)|ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),|
 |**gami**|mariage|eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (-gamiya)|
+|**gana**|canne|heb: קָנֶה‎ (qané), ara: قَنَاة‎ (qanāh) + eng:cane, fra:canne, spa:caña, por:cana + zho:秆 (gǎn), yue:稈 (gon2) + (sugarcane) hin:गन्ना (gannā), pnb:ਗੰਨਾ (gannā)|
 |**ganse**|oie|spa:por:ganso, hin:हंस (hans), ben:হাঁস (hãs), may:angsa eng:goose, rus:гусь (gus’), pol:gęś + yue:雁 (ngaan6), jpn:雁 (gan), tha:ห่าน (han)|
 |**ganum**|blé|fas:گندم‎(gandom), may:gandum, urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano|
 |**gas**|gaz|deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz), swa:gesi|
 |**gati**|dur|tel:గట్టి (gaṭṭi), tur:katı, hin:कड़ा (kaṛā), jpn:硬い (katai)|
 |**gazel**|gazelle|ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|
+|**gazo**|herbe (gazon)|fra:gazon, rus:газон (gazon) +  hin:घास (ghās), ben:ঘাস (ghaś) + eng:grass|
 |**gida**|guider|eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu), swa:gaidi + ara:قَادَ‎ (qāda)|
 |**gioka**|jade|zho:玉 (yù), yue:玉 (yuk6), nan:玉 (gio̍k), jpn:玉 (gyoku), vie:ngọc (玉), may:giok|
 |**gitar**|guitare|eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|
@@ -269,7 +272,7 @@
 |**hor**|heure|fra:heure, eng:hour, spa:por:hora|
 |**hotel**|hôtel|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |**hua**|fleur|zho:花 (huā), vie:hoa, kor:화 (-hwa-), swa:ua|
-|**huke**|crochet|eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|
+|**huke**|crochet|eng:hook, deu:Haken, rus:гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|
 |**huli**|renard|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|
 |**huru**|libre|ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro|
 |**insan**|être humain|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|
@@ -301,7 +304,7 @@
 |**kafe**|café|deu:Kaffee, fra:spa:por:café, rus:кофе, zho: 咖啡 (kāfēi), yue:咖啡 (gaa3 fe1), eng:coffee, hin:काफ़ी (kāfī), ben:কফি (kôphi), tur:kahve, tgl:kape, tha:กาแฟ (kafæ)|
 |**kaguji**|papier|zho:榖纸 (gǔzhǐ), yue:榖紙 (guk1zi2), jpn:榖紙 (kokushi), + fas:(kâğaz), hin:काग़ज़ (kāġaz), ben:কাগজ (kagôj), tur:kâğıt, ara:(kāḡid), kan:ಕಾಗದ (kāgada), tel:కాగితము (kāgitamu), tam:காகிதம் (kākitam), wol:keyit, uig:(qeghez)|
 |**kala**|noir|hin:काला (kālā), ben:কালো (kalo), pnb:ਕਾਲਾ (kālā) + tur:kara + tam:கருப்பு (karuppu)|
-|**kalam**|plume|ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo|
+|**kalam**|plume|ara:fas:urd: قلم‎ (qalam), hin:क़लम (qalam), ben:কলম (kôlôm), may:kalam, fra:calame, spa:por:cálamo, yor:swa:kalamu, hau:alƙalami, tur:kalem|
 |**kalenda**|calendrier|eng:calendar, fra:calendrier, spa:por:calendario, rus:календарь (kalendar’), deu:may:kalender, jpn:カレンダー (karendā), kor:카렌더 (karendeo), hin:कैलेण्डर (kaileṇḍar), swa:kalenda|
 |**kali**|base (alcali)|ara: قلي (qily), swa:-kali + eng:alkali, fra:alcali, spa:por:álcali, jpn:アルカリ (arukari), kor:알칼리 (alkalli), may:alkali|
 |**kalmar**|calmar (encornet, calamar)|ell:καλαμάρι (kalamári), spa:por:calamar, fra:calmar, ita:eng:calamari, rus:кальмар (kal’mar), tur:kalamar, ara:كلاماري‎ (klamāri)|
@@ -309,9 +312,10 @@
 |**kamar**|pièce (chambre)|may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)|
 |**kamil**|Camomille sauvage|deu:Kamille, eng:camomile, por:camomila, fra:camomille, jpn:カモミール (kamomīru), may:kamomil|
 |**kamisa**|chemise|spa:por:camisa, ara:(qamīṣ), hin:क़मीज़ (kāmīz), may:kemeja + swa:kamisi|
+|**kanal**|fossé (canal, tranchée)|eng:spa:por:fra:canal, rus:канал (kanal), ben:খাল (khal), may:kanal|
 |**kancha**|verre|hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kāc), may:kaca, tel:గాజు (gāju)|
 |**kandi**|bonbon|eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyanḍi), jpn:キャンデー (kyandē), tgl:kendi|
-|**kane**|bâton (canne, tige)|eng:cane, fra:canne, zho:杆 (gǎn),|
+|**kane**|bâton (canne, tige)|eng:cane, fra:canne + zho:杆 (gǎn), yue:杆 (gon1), vie:cần, tha:คัน (khan)|
 |**kangaru**|kangourou|eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)|
 |**kankuate**|kumquat|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|
 |**kano**|canoë|eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|
@@ -385,7 +389,7 @@
 |**lazur petra**|lapis-lazuli|fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|
 |**lense**|lentille|eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)|
 |**lente**|lent|fra:lent, spa:por:lento|
-|**letis**|laitue|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
+|**letus**|laitue|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
 |**liama**|lama|eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|
 |**libele**|libellule|spa:por:libélula, fra:libellule, deu:Libelle|
 |**lida ja**|dirigeant (leader)|eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)|
@@ -432,6 +436,7 @@
 |**mau**|chat|zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|
 |**meche**|match|eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç|
 |**medan**|place|ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|
+|**mede**|aide (secours)|fra:m’aidez, eng:mayday, rus:мэдэ (mede), jpn:メーデー (mēdē), kor:메이데이 (meidei) + ara:fas:urd: مَدَد‎ (madad), hin:मदद (madad), ben:মদদ (môdôd)|
 |**medi**|medio|spa:medio, eng:medium, hin:माद्धयम (mādhyam)|
 |**medu**|miel|rus:мёд (myod), hin:मधु (madhu), ben:মধু (môdhu), may:madu + por:mel, fra:spa:miel + yue:蜜 (mat6)|
 |**megi**|nuage|hin:मेघ (megh), ben:মেঘ (megh), tam:மேகம் (mēgam), tel:మేఘము (mēghamu), may:mega, tha:เมฆ (mek) + ara: غَيْمَة‎ (ḡayma) + vie:mây|
@@ -528,7 +533,8 @@
 |**pede**|pet (vesse)|ben:পাদ (pad), hin:पाद (pād), spa:pedo, por:peido, fra:pet, rus:пердение (perdeniye)|
 |**pelpel**|papillon|por:borboleta, fra:papillon, ita:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), swa:kipepeo, yor:labalábá, tgl:paruparo|
 |**pente**|peinture|eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)|
-|**perisha**|périr|eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan)|
+|**pera**|poire|eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea + kor:배 (bae)|
+|**perishe**|périr|eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan)|
 |**pesa**|argent|hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|
 |**peshe**|poisson|spa:pez, por:peixe, ita:pesce + eng:fish, deu:Fisch|
 |**petra**|roche (pierre)|hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre|
