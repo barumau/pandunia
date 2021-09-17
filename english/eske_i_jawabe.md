@@ -1,5 +1,4 @@
-Frequently Asked Questions
-==========================
+# Frequently Asked Questions
 
 ## General
 
@@ -169,30 +168,6 @@ your heart desires.
 
 
 ## Letters and sounds
-
-#### Why is the letter X pronounced like SH?
- 
-Pandunia follows the phonetic principle. One letter represents
-exactly one sound, and one sound is written with exactly one letter.
-
-Traditionally there isn't any dedicated letter for /ʃ/ in the Latin
-alphabet. This sound is frequently written by the letter combination
-SH in English. Other languages use different letters and letter
-combinations such as CH in French, SCH in German, SJ in Swedish, SZ
-in Polish, Š in Czech and Ş in Turkish.
-
-However, there is a handful of languages that use the letter X for
-/ʃ/. Basque and Maltese do it without exception. Portuguese and
-Catalan are less consistent, but X stands for /ʃ/ frequently.
-Pandunia word **xampu'** is written almost exactly the same as in Portuguese.
-It means _shampoo_.
-
-In the Chinese romanization systen, Pīnyīn, the letter X stands for
-/ɕ/ which is close to /ʃ/. Pandunia has many words with X from
-Chinese, for example **xim, xin** and **xuxe**.
-
-![](http://www.pandunia.info/grafe/X.png "C = ʃ")
-
 
 #### Why is the letter C pronounced like TS in cats?
 
