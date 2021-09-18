@@ -256,6 +256,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**chopu**|zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|
 |**chori**|hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|
 |**Chosen**|kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|
+|**chuli**|zho:处理 (chǔlǐ), yue:處理 (cyu2lei5), jpn:処理 (shori), kor:처리 (cheori), vie:xử lí|
 |**chum**|hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|
 |**chun**|zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|
 |**chupu**|spa:por:chupar, khm:ជប់ (cup)|
@@ -827,13 +828,13 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**laurence yum**|eng:lawrencium, fra:lawrencium, spa:laurencio, por:lawrêncio, rus:лоуренсий, zho:铹 (láo), jpn:ローレンシウム, kor:로렌슘, vie:lorenxi, lawrenci, hin:लॉरेंशियम, ben:লরেনসিয়াম, may:lawrensium, swa:lawirensi|
 |**lazanya**|fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|
 |**lazur petra**|fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|
+|**le**|zho:了 (le, liǎo), wuu:了 (le’), yue:了 (liu), tha:แล้ว (lɛːw)|
 |**lefte**|eng:left, rus:левый (levyy)|
 |**leng**|zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)|
 |**lense**|eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)|
 |**lenshi**|zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|
 |**lente**|fra:lent, spa:por:lento|
 |**letus**|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
-|**le**|zho:了 (le, liǎo), wuu:了 (le’), yue:了 (liu), tha:แล้ว (lɛːw)|
 |**liama**|eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|
 |**libele**|spa:por:libélula, fra:libellule, deu:Libelle|
 |**lichi**|zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi|
@@ -1191,7 +1192,6 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**program**|eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|
 |**projete**|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |**promete yum**|eng:promethium, fra:prométhium, spa:prometio, por:promécio, rus:прометий, zho:钷 (pǒ), jpn:プロメチウム, kor:프로메튬, vie:prometi, hin:प्रोमेथियम, ben:প্রমিথিয়াম, may:prometium, swa:promethi|
-|**proses**|eng:process, spa:proceso, por:processo, rus:процесс (process), fas:پروسه‎ (prose), may:proses, jpn:プロセス (purosesu), kor:프로세스 (peuroseseu)|
 |**protacini yum**|eng:protactinium, fra:protactinium, spa:proactinio, por:protacnídio, rus:протактиний, zho:镤 (pú), jpn:プロトアクチニウム, kor:프로트악티늄, vie:protactini, hin:प्रोटैक्टीनियम, ben:প্রোটেক্টিনিয়াম, may:protaktinium, swa:protaktini|
 |**puding**|eng:pudding, spa:pudín, rus:пудинг (puding), tur:may:puding, swa:pudini, ara:بودنغ (budingh), zho:布丁 (bùdīng), jpn:プディング (pudingu)|
 |**puja**|hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|

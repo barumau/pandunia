@@ -906,6 +906,7 @@ Indyjski - barti
 indyk - dinde  
 infekcja (zakażenie) - pati mise  
 informacja - kon sabe  
+informatyka - data chuli logi  
 inny - alo  
 innymi słowy - alo nam  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - teza  
@@ -2223,7 +2224,7 @@ prezydent - prezidente
 problem - problem  
 problem, kłopot, zakłócenie - turbe  
 problematyczny - problem di  
-proces, procedura - proses  
+proces, procedura - chuli  
 proch strzelniczy - barude  
 produkcja - sana  
 produktywny (żyzny) - sana ja di  
@@ -2941,6 +2942,7 @@ torba, wór, worek, torba, sakwa - sake
 tost - roste pang  
 towarzysz (partner, kumpel) - late jan  
 traktor (ciągnik) - trator gi  
+traktować - fa chuli  
 trawa - gazo  
 trawa mor - hai gazo  
 treść (zawartość) - in she  

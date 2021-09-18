@@ -514,6 +514,7 @@ chori - kradzież
 chori ja - złodziej  
 Chosen - Korea  
 chosen di - koreański  
+chuli - proces, procedura  
 chum - całus  
 chun - wieś, wioska  
 chupu - ssać  
@@ -572,6 +573,7 @@ darvin sim - darwinizm
 darvin sim ja - darwinista  
 data - dane  
 data banka - baza danych (bank danych)  
+data chuli logi - informatyka  
 data table - tablioca, macierz  
 dau - droga, szosa, ulica  
 dau din - taoizm  
@@ -794,6 +796,7 @@ fa biznes lon - negocjować
 fa budi - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
 fa chape - naciskać, zostawiać ślad  
 fa chori - ukraść, kraść  
+fa chuli - traktować  
 fa chuti - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
 fa daka - przykryć, przykrywać, ukryć, ukrywać  
 fa dalil - dowieść, dowodzić; zeznać, zeznawać  
@@ -2694,7 +2697,6 @@ program - program
 program ja - programista, koder  
 projete - projekt, planowane przedsięwzięcie  
 promete yum - promet  
-proses - proces, procedura  
 protacini yum - protaktyn  
 puding - puding  
 puja - cześć, szacunek  
@@ -3364,10 +3366,10 @@ Urdun - Jordan
 urso - niedźwiedź  
 Uruguay - Urugwaj  
 Urushalem - Jerozolima  
+Uzbeki - Uzbekistan  
 uze - użyć, używać, zatrudnić, stosować  
 uze ja - użytkownik  
 uze ja name - nazwa użytkownika  
-Uzbeki - Uzbekistan  
 ####V - V  
 va - wow!, łoł!, jej!  
 vaf - pies  

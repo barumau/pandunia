@@ -1784,6 +1784,7 @@ infierno - naraka
 inflamación - flame  
 información - kon sabe  
 informe (reporte, noticia) - reporte  
+informática (computación) - data chuli logi  
 infortunio (mala suerte) - dus zar  
 ingeniero - enjener  
 Inglaterra - English  
@@ -2849,7 +2850,9 @@ problema (disturio) - turbe
 problema - problem  
 problemático - problem di  
 procedimiento (rito) - riti  
-proceso (procedimiento) - proses  
+procesamiento de datos - data chuli  
+procesamiento de imágenes - grafi chuli  
+proceso (procedimiento) - chuli  
 producción - sana  
 producir (hacer, preparar) - fa sana  
 profecía - nabi  
@@ -3479,6 +3482,7 @@ transcurrir - si dura
 transitar (atravesar) - fa transe  
 Transnistria (Cisdniéster) - Transe Nistre Desha  
 trasero (nalgas) - pigu  
+tratar (lidiar, procesar) - fa chuli  
 tratar de - tema  
 tren - tren  
 tres (3) - tri  

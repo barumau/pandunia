@@ -338,6 +338,7 @@ chize - fromage
 choklate - chocolat  
 choklate kane - tablette de chocolat  
 chopu - houe  
+chuli - traitement (processe)  
 chun - village  
 chuze she - option  
 ####D - D  
@@ -357,6 +358,8 @@ darja mute - développement
 darmestadi yum - darmstadtium  
 data - données  
 data banka - base de données  
+data chuli - traitement de données  
+data chuli logi - informatique  
 dau ban - panneau de signalisation  
 dava she - médicament (remède)  
 dava she kan - pharmacie  
@@ -456,6 +459,7 @@ fa an galta - déboguer (débugger)
 fa argu - arguer  
 fa asar - effectuer  
 fa bina - construire  
+fa chuli - traiter  
 fa daka - couvrir  
 fa dante - mordre  
 fa dika - viser  
@@ -632,6 +636,7 @@ gol - but (destination)
 gola sheku - pavé  
 gorila - gorille  
 goton - coton  
+grafi chuli - traitement d'images  
 grafi kata - bande dessinée  
 granite - granit  
 grave - gravire  
@@ -868,6 +873,7 @@ Kinshasa - Kinshasa
 kirate - carat  
 kisma - destin  
 kitabu - écrire  
+kitabu chuli - traitement de texte  
 kitabu gi - machine à écrire  
 kitabu kan - bibliothèque  
 kitabu shuta - littérature  

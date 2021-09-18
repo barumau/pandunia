@@ -127,6 +127,7 @@
 |**choi**|verdura|zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|
 |**choklate**|chocolate|spa:por:eng:chocolate, fra:chocolat, rus:шоколад (šokolad), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), may:cokelat, swa:chokoleti, tur:çikolata|
 |**chopu**|enxada|zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|
+|**chuli**|processo|zho:处理 (chǔlǐ), yue:處理 (cyu2lei5), jpn:処理 (shori), kor:처리 (cheori), vie:xử lí|
 |**chun**|aldeia (vila)|zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|
 |**dai hai**|oceano|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
 |**daku**|ter (achar, receber)|zho:得 (dé), yue:得 (dak1), wuu:得 (teq4), jpn:得 (toku), kor:득 (deuk), kor:được|

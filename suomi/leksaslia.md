@@ -224,6 +224,7 @@
 |**chopu**|kuokka|yleiskiina:锄 (chú), kantoninkiina:鋤 (co4), thai:จอบ (chop), turkki:çapa|
 |**chori**|varkaus|hindi:marathi:चोरी (corī), urdu:(corī), thai:โจร (chon), malaiji:curi, bangla:চুরি (curi)|
 |**Chosen**|Korea|korea:조선 (Joseon), japani:朝鮮 (chōsen), yleiskiina:朝鲜 (zh) (Cháoxiǎn)|
+|**chuli**|käsittely (prosessi)|yleiskiina:处理 (chǔlǐ), kantoninkiina:處理 (cyu2lei5), japani:処理 (shori), korea:처리 (cheori), vietnami:xử lí|
 |**chum**|suukko (pusu)|hindi:चूमना (cūmnā), urdu:(cūmnā), malayalam:ചുംബനം (cumbanaṃ), malaiji:cium, japani:チュー (chū), thai:จูบ (cup)|
 |**chun**|kylä|yleiskiina:村 (cūn), kantoninkiina:村 (cyun1), japani:村 (son), korea:촌 (chon), vietnami:thôn|
 |**chupu**|imeä|espanja:portugali:chupar, khmer:ជប់ (cup)|
@@ -1109,7 +1110,6 @@
 |**program**|ohjelma|englanti:malaiji:turkki:program, ranska:programme, portugali:espanja:programa, venäjä:программа (programma), japani:プログラム (puroguramu), korea:프로그램 (peurogeuraem), hindi:प्रोग्राम (progrām), suahili:programu|
 |**projete**|hanke (projekti)|ranska:projet, portugali:projeto, englanti:project, espanja:proyecto, venäjä:проект (proyekt), hindi:प्रोजैक्ट (projaikṭ), bangla:প্রজেক্ট (prôjekṭ), japani:プロジェクト (purojekuto), korea:프로젝트 (peurojekteu), turkki:proje|
 |**promete yum**|prometium|englanti:promethium, ranska:prométhium, espanja:prometio, portugali:promécio, venäjä:прометий, yleiskiina:钷 (pǒ), japani:プロメチウム, korea:프로메튬, vietnami:prometi, hindi:प्रोमेथियम, bangla:প্রমিথিয়াম, malaiji:prometium, suahili:promethi|
-|**proses**|prosessi (proseduuri)|englanti:process, espanja:proceso, portugali:processo, venäjä:процесс (process), persia:پروسه‎ (prose), malaiji:proses, japani:プロセス (purosesu), korea:프로세스 (peuroseseu)|
 |**protacini yum**|protaktinium|englanti:protactinium, ranska:protactinium, espanja:proactinio, portugali:protacnídio, venäjä:протактиний, yleiskiina:镤 (pú), japani:プロトアクチニウム, korea:프로트악티늄, vietnami:protactini, hindi:प्रोटैक्टीनियम, bangla:প্রোটেক্টিনিয়াম, malaiji:protaktinium, suahili:protaktini|
 |**puding**|vanukas|englanti:pudding, espanja:pudín, venäjä:пудинг (puding), turkki:malaiji:puding, suahili:pudini, arabia:بودنغ (budingh), yleiskiina:布丁 (bùdīng), japani:プディング (pudingu)|
 |**puja**|palvonta|hindi:पूजा (pūjā), urdu:(pūjā), thai:บูชา (bucha), malaiji:puja|

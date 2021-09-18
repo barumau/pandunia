@@ -253,6 +253,7 @@ chize - сыр
 choi - зелень  
 choklate - шоколад  
 chopu - мотыга  
+chuli - процесс  
 chun - деревня (село)  
 ####D - D  
 dai dom - дворец (особняк)  
@@ -275,6 +276,8 @@ darja mute - развитие
 darmestadi yum - дармштадтий  
 data - данные  
 data banka - база данных  
+data chuli - обработка данных  
+data chuli logi - информатика  
 dau ban - табличка с названием улицы  
 dava - лечить  
 dava ja - врач (медик, лекарь, доктор)  
@@ -372,6 +375,7 @@ fa - делать
 fa alo - изменять  
 fa argu - аргументи́ровать  
 fa bina - строить  
+fa chuli - обрабо́тать (обращаться)  
 fa dante - откусить  
 fa dika - целиться  
 fa dosil - укрощать (приручить)  
@@ -518,6 +522,7 @@ gol - цель
 gola sheku - булыжник  
 gorila - горилла  
 goton - хлопок  
+grafi chuli - обработка изображений  
 grafi kata - комикс  
 granite - гранит  
 grave - гравий  

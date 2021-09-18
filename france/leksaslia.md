@@ -160,6 +160,7 @@
 |**chize**|fromage|eng: cheese, zho: 起司 (qǐsī), swa: chizi, jpn:チーズ (chīzu), kor:치즈 (chijeu)|
 |**choklate**|chocolat|spa:por:eng:chocolate, fra:chocolat, rus:шоколад (šokolad), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), may:cokelat, swa:chokoleti, tur:çikolata|
 |**chopu**|houe|zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|
+|**chuli**|traitement (processe)|zho:处理 (chǔlǐ), yue:處理 (cyu2lei5), jpn:処理 (shori), kor:처리 (cheori), vie:xử lí|
 |**chun**|village|zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|
 |**dai hai**|océan|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
 |**dalil**|preuve|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|

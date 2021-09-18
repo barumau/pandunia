@@ -782,6 +782,7 @@ complete (make done) - pul fina
 compost - bio sana she  
 compute (to process data) - fa komputa  
 computer - komputa  
+computer science - data chuli logi  
 concentrate - fa fokus  
 conceptual - idea di  
 concert - konserte  
@@ -931,6 +932,7 @@ Darwinism - darvin sim
 Darwinist - darvin sim ja  
 data (numeric information) - data  
 data analysis - data fen gata  
+data processing - data chuli  
 data table (matrix) - data table  
 database (databank) - data banka  
 date - nen mes den  
@@ -1608,6 +1610,7 @@ hammer - hamar
 hammock - hamake  
 Han Chinese - Han  
 hand - hande  
+handle (manage, treat, process) - fa chuli  
 hang (dangle) - pende  
 harbor (seaport) - hai porte  
 hard (tough) - gati  
@@ -1758,6 +1761,7 @@ ifrit - ifrite
 ill (sick) - pati di  
 illusion (hallucination) - false vide  
 illustrator (graphic artist) - grafi ja  
+image processing - grafi chuli  
 image projector - grafi lanse gi  
 imagine (fantasize) - fa fantazi  
 imitator (mime) - mima ja  
@@ -2899,7 +2903,7 @@ pristine (virginal) - virje di
 privateer (buccaneer) - nave kape ja  
 problem (issue) - problem  
 problematic - problem di  
-process (procedure) - proses  
+process (handling, treatment, procedure) - chuli  
 produce (create, make) - fa sana  
 production - sana  
 productive (fertile) - sana ja di  
@@ -3942,6 +3946,7 @@ Washington D####C - Vashington DC
 water - sui  
 water buffalo - karbau  
 water lily (nenuphar) - nenufar  
+water treatment - sui chuli  
 watercolor - sui rang  
 watermelon - arbuza  
 watermint - sui minta  
@@ -4023,6 +4028,7 @@ wood (timber) - moka mate
 wood board (plank) - moka ban  
 wool (fleece) - meme kesha  
 word (lexeme) - loga so  
+word processing - kitabu chuli  
 work (labour, job) - gung  
 work - gung  
 worker - gung ja  

@@ -1406,6 +1406,7 @@ kuutio (kuusitahokas) - luka fase
 kuutio - kube  
 kuvaileva (määrittelevä) - sifa di  
 kuvakirja - grafi buku  
+kuvankäsittely - grafi chuli  
 kuvanveisto - eskulte shuta  
 kuvanveistäjä - eskulte ja  
 kuvaruutu - ekran  
@@ -1441,8 +1442,10 @@ kärry (vaunu, auto, jne) - kar
 käsi - hande  
 käsi- - hande di  
 käsite (idea) - idea  
+käsitellä (kohdella, pidellä, prosessoida) - fa chuli  
 käsitellä dataa - fa komputa  
 käsitteellinen - idea di  
+käsittely (prosessi) - chuli  
 käsivarsi - hande shaka  
 käsky (komento) - amir  
 käskyvalta - amir haki  
@@ -2464,7 +2467,6 @@ projektori (videotykki, piirtoheitin) - grafi lanse gi
 Prometheus - Promete  
 prometium - promete yum  
 pronomini - vise loga  
-prosessi (proseduuri) - proses  
 protaktinium - protacini yum  
 psykologia - ruhu logi  
 pudonnut (tippunut) - pade di  
@@ -3173,6 +3175,7 @@ teknokratia - tehni krati
 teko (toiminta, akti) - karma  
 teko - fate  
 tekstin muotoilu - kitabu forma  
+tekstinkäsittely - kitabu chuli  
 teleportata - be tele loka  
 televisio - tele vide gi  
 telluuri - telu yum  
@@ -3209,6 +3212,8 @@ tiede (tutkimus, opiskella) - logi
 tiedottaa (informoida) - fa kon sabe  
 tieto (tietämys) - sabe she  
 tieto - kon sabe  
+tietojenkäsittely - data chuli  
+tietojenkäsittelytiede - data chuli logi  
 tietokanta - data banka  
 tietokone - komputa  
 tietoteoria (epistemologia) - sabe logi  
@@ -3527,6 +3532,7 @@ Vatikaanivaltio - Vatikan
 vaurio (vahinko, haveri) - avar  
 vaurioitunut - avar di  
 vauva - bebe  
+vedenkäsittely - sui chuli  
 vegaani - pul fito yam sim ja  
 vehnä - ganum  
 veistos (patsas) - eskulte  

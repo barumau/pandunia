@@ -232,6 +232,7 @@ choklate - 巧克力
 choklate kane - 巧克力棒  
 chongching - 重庆  
 chopu - 锄头  
+chuli - 处理  
 chun - 村  
 chuze she - 选择 (买卖权)  
 ####D - D  
@@ -250,6 +251,8 @@ dara tubo - 漏斗
 darja mute - 发展 (开发)  
 data - 数据  
 data banka - 数据库  
+data chuli - 数据处理  
+data chuli logi - 计算机科学  
 data table - 表格  
 dava she - 药物  
 dava she kan - 药店  
@@ -328,6 +331,7 @@ europa yum - 铕
 fa - 作  
 fa alo - 改變  
 fa bina - 建设  
+fa chuli - 处理  
 fa dante - 咬  
 fa dika - 瞄准  
 fa dosil - 驯养  
@@ -457,6 +461,7 @@ gol - 目的
 gola sheku - 鹅卵石  
 gorila - 大猩猩  
 goton - 棉  
+grafi chuli - 影像处理  
 grafi kata - 漫画  
 granite - 花岗石  
 grave - 砾石  
@@ -669,6 +674,7 @@ kinar - 边
 kinar baryer - 篱笆  
 kisma - 命運  
 kitabu - 写  
+kitabu chuli - 文字处理 (字处理)  
 kitabu gi - 打字机  
 kitabu kan - 图书馆  
 kitabu shuta - 文学  
@@ -746,13 +752,13 @@ lau - 老 (老年, 年歲大)
 laurence yum - 铹  
 lazanya - 千层面  
 lazur petra - 青金岩  
+le - 了  
 lefte - 左  
 leng - 冷たい (寒い)  
 leng mosim - 冬天  
 lense - 透镜  
 lente - 慢  
 letus - 莴苣  
-le - 了  
 liama - 大羊駝  
 libele - 蜻蜓  
 lida ja - 领导  
@@ -1234,6 +1240,7 @@ sosi jinse - 社會性別
 sosis - 香肠  
 sual - 问题  
 sui - 水  
+sui chuli - 水处理  
 sui gas - 蒸汽  
 sui kaboga - 葫芦  
 sui minta - 水薄荷  

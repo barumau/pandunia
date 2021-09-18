@@ -586,6 +586,7 @@ chori - theft
 chori ja - thief  
 Chosen - Korea  
 chosen di - Korean  
+chuli - process (handling, treatment, procedure)  
 chum - kiss  
 chun - village  
 chupu - suck (absorb)  
@@ -648,6 +649,8 @@ darvin sim - Darwinism
 darvin sim ja - Darwinist  
 data - data (numeric information)  
 data banka - database (databank)  
+data chuli - data processing  
+data chuli logi - computer science  
 data fen gata - data analysis  
 data table - data table (matrix)  
 dau - way (road)  
@@ -921,6 +924,7 @@ fa biznes lon - negotiate (arrange)
 fa budi - realize  
 fa chape - press (imprint)  
 fa chori - steal  
+fa chuli - handle (manage, treat, process)  
 fa chuti - leave (go out, exit)  
 fa daka - cover (conceal)  
 fa dalil - prove (demonstrate, testify)  
@@ -1432,6 +1436,7 @@ goton - cotton
 grafi - drawing (graph, image)  
 grafi - draw  
 grafi buku - picture book  
+grafi chuli - image processing  
 grafi di - graphic (pictorial)  
 grafi ja - illustrator (graphic artist)  
 grafi kata - comic (cartoon)  
@@ -2000,6 +2005,7 @@ Kiribati - Kiribati
 Kiril zi - Cyrillic alphabet  
 kisma - destiny (fate, lot, kismet)  
 kitabu - write (text)  
+kitabu chuli - word processing  
 kitabu forma - formatting  
 kitabu gi - typewriter  
 kitabu kan - library  
@@ -2197,6 +2203,7 @@ laurence yum - lawrencium
 lazanya - lasagna  
 lazur - azure  
 lazur petra - lapis lazuli  
+le - attain (accomplish, indicates the current position)  
 lefte - left  
 lefte di - left hand  
 lefte sim ja - leftist (left-winger)  
@@ -2207,7 +2214,6 @@ lense - lens
 lenshi - exercise  
 lente - slow (lethargic)  
 letus - lettuce  
-le - attain (accomplish, indicates the current position)  
 liama - llama  
 Libanen - Lebanon  
 libele - dragonfly  
@@ -3093,7 +3099,6 @@ program ja - programmer (coder)
 projete - project (endeavour)  
 Promete - Prometheus  
 promete yum - promethium  
-proses - process (procedure)  
 protacini yum - protactinium  
 puding - pudding  
 puja - worship (reveration)  
@@ -3598,6 +3603,7 @@ Sude Sudan - South Sudan
 sueda - sweat (perspiration)  
 sueda di - sweaty  
 sui - water  
+sui chuli - water treatment  
 sui di - watery  
 sui gas - steam (vapor)  
 sui kaboga - calabash  
@@ -3843,11 +3849,11 @@ Urdun - Jordan
 urso - bear  
 Uruguay - Uruguay  
 Urushalem - Jerusalem  
+Uzbeki - Uzbekistan  
 uze - use (employ, apply)  
 uze bil di - usable (available)  
 uze ja - user  
 uze ja name - username  
-Uzbeki - Uzbekistan  
 ####V - V  
 va - wow! (gee!)  
 vaf - dog  

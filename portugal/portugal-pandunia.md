@@ -683,6 +683,7 @@ infectar (contagiar) - fa pati mise
 infecção (contágio) - pati mise  
 infiel - an din ja  
 inflamaçao - flame  
+informática (ciência da computação) - data chuli logi  
 inimigo - dus jan  
 inquisitivo - sabe vol ja  
 inseto - dudu  
@@ -1105,6 +1106,9 @@ preto - kala
 primo - chin brus ben  
 problema - problem  
 procedimento (rito) - riti  
+processamento de dados - data chuli  
+processamento de imagem - grafi chuli  
+processo - chuli  
 professor (docente) - shula guru  
 profissão - pei gung  
 profundo - fase tele  
@@ -1353,6 +1357,7 @@ trabalho - gung
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - shanti di  
 transcorrer - si dura  
+tratar (lidar, procesar) - fa chuli  
 trator - trator gi  
 trazer - fa lai  
 trigo - ganum  

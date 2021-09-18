@@ -581,6 +581,7 @@ chori - varkaus
 chori ja - varas  
 Chosen - Korea  
 chosen di - korealainen  
+chuli - käsittely (prosessi)  
 chum - suukko (pusu)  
 chun - kylä  
 chupu - imeä  
@@ -643,6 +644,8 @@ darvin sim - darwinismi
 darvin sim ja - darwinisti  
 data - data (numeerinen tieto)  
 data banka - tietokanta  
+data chuli - tietojenkäsittely  
+data chuli logi - tietojenkäsittelytiede  
 data fen gata - data-analyysi  
 data table - taulukko  
 dau - tie  
@@ -910,6 +913,7 @@ fa biznes lon - neuvotella
 fa budi - ymmärtää (oivaltaa)  
 fa chape - painaa (leimata)  
 fa chori - varastaa  
+fa chuli - käsitellä (kohdella, pidellä, prosessoida)  
 fa chuti - poistua  
 fa daka - peittää  
 fa dalil - todistaa  
@@ -1418,6 +1422,7 @@ goton - puuvilla
 grafi - piirros (graafi)  
 grafi - piirtää  
 grafi buku - kuvakirja  
+grafi chuli - kuvankäsittely  
 grafi di - graafinen  
 grafi ja - graafikko  
 grafi kata - sarjakuva  
@@ -1941,6 +1946,7 @@ Kiribati - Kiribati
 Kiril zi - kyrilliset aakkoset  
 kisma - kohtalo (määrä)  
 kitabu - kirjoitus (teksti)  
+kitabu chuli - tekstinkäsittely  
 kitabu forma - tekstin muotoilu  
 kitabu gi - kirjoituskone  
 kitabu kan - kirjasto  
@@ -2103,6 +2109,7 @@ lau di - laoslainen
 laurence yum - lawrencium  
 lazanya - lasagne  
 lazur petra - lapislatsuli  
+le - saavuttaa (saavutettua tilaa ilmaiseva apuverbi)  
 lefte - vasen  
 lefte sim ja - vasemmistolainen  
 leng - kylmä  
@@ -2112,7 +2119,6 @@ lense - linssi
 lenshi - harjoitus  
 lente - hidas  
 letus - lehtisalaatti  
-le - saavuttaa (saavutettua tilaa ilmaiseva apuverbi)  
 Libanen - Libanon  
 libele - sudenkorento  
 Liberia - Liberia  
@@ -2880,7 +2886,6 @@ program ja - ohjelmoija
 projete - hanke (projekti)  
 Promete - Prometheus  
 promete yum - prometium  
-proses - prosessi (proseduuri)  
 protacini yum - protaktinium  
 puding - vanukas  
 puja - palvonta  
@@ -3309,6 +3314,7 @@ Sude Sudan - Etelä-Sudan
 sueda - hiki  
 sueda di - hikinen  
 sui - vesi  
+sui chuli - vedenkäsittely  
 sui di - vetinen  
 sui gas - höyry (vesihöyry)  
 sui rang - vesiväri (akvarelliväri)  
@@ -3534,11 +3540,11 @@ Urdun - Jordania
 urso - karhu  
 Uruguay - Uruguai  
 Urushalem - Jerusalem  
+Uzbeki - Uzbekistan  
 uze - käyttää  
 uze bil di - käytettävissä oleva  
 uze ja - käyttäjä  
 uze ja name - käyttäjänimi  
-Uzbeki - Uzbekistan  
 ####V - V  
 va - oho (vau)  
 vaf - koira  

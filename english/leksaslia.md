@@ -225,6 +225,7 @@
 |**chopu**|hoe|Mandarin:锄 (chú), Cantonese:鋤 (co4), Thai:จอบ (chop), Turkish:çapa|
 |**chori**|theft|Hindi:Marathi:चोरी (corī), Urdu:(corī), Thai:โจร (chon), Malay:curi, Bengali:চুরি (curi)|
 |**Chosen**|Korea|Korean:조선 (Joseon), Japanese:朝鮮 (chōsen), Mandarin:朝鲜 (zh) (Cháoxiǎn)|
+|**chuli**|process (handling, treatment, procedure)|Mandarin:处理 (chǔlǐ), Cantonese:處理 (cyu2lei5), Japanese:処理 (shori), Korean:처리 (cheori), Vietnamese:xử lí|
 |**chum**|kiss|Hindi:चूमना (cūmnā), Urdu:(cūmnā), Malayalam:ചുംബനം (cumbanaṃ), Malay:cium, Japanese:チュー (chū), Thai:จูบ (cup)|
 |**chun**|village|Mandarin:村 (cūn), Cantonese:村 (cyun1), Japanese:村 (son), Korean:촌 (chon), Vietnamese:thôn|
 |**chupu**|suck (absorb)|Spanish:Portuguese:chupar, Khmer:ជប់ (cup)|
@@ -1160,7 +1161,6 @@
 |**program**|program (set of structured activities)|English:Malay:Turkish:program, French:programme, Portuguese:Spanish:programa, Russian:программа (programma), Japanese:プログラム (puroguramu), Korean:프로그램 (peurogeuraem), Hindi:प्रोग्राम (progrām), Swahili:programu|
 |**projete**|project (endeavour)|French:projet, Portuguese:projeto, English:project, Spanish:proyecto, Russian:проект (proyekt), Hindi:प्रोजैक्ट (projaikṭ), Bengali:প্রজেক্ট (prôjekṭ), Japanese:プロジェクト (purojekuto), Korean:프로젝트 (peurojekteu), Turkish:proje|
 |**promete yum**|promethium|English:promethium, French:prométhium, Spanish:prometio, Portuguese:promécio, Russian:прометий, Mandarin:钷 (pǒ), Japanese:プロメチウム, Korean:프로메튬, Vietnamese:prometi, Hindi:प्रोमेथियम, Bengali:প্রমিথিয়াম, Malay:prometium, Swahili:promethi|
-|**proses**|process (procedure)|English:process, Spanish:proceso, Portuguese:processo, Russian:процесс (process), Persian:پروسه‎ (prose), Malay:proses, Japanese:プロセス (purosesu), Korean:프로세스 (peuroseseu)|
 |**protacini yum**|protactinium|English:protactinium, French:protactinium, Spanish:proactinio, Portuguese:protacnídio, Russian:протактиний, Mandarin:镤 (pú), Japanese:プロトアクチニウム, Korean:프로트악티늄, Vietnamese:protactini, Hindi:प्रोटैक्टीनियम, Bengali:প্রোটেক্টিনিয়াম, Malay:protaktinium, Swahili:protaktini|
 |**puding**|pudding|English:pudding, Spanish:pudín, Russian:пудинг (puding), Turkish:Malay:puding, Swahili:pudini, Arabic:بودنغ (budingh), Mandarin:布丁 (bùdīng), Japanese:プディング (pudingu)|
 |**puja**|worship (reveration)|Hindi:पूजा (pūjā), Urdu:(pūjā), Thai:บูชา (bucha), Malay:puja|

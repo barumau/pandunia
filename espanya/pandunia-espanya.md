@@ -526,6 +526,7 @@ chori - robo (hurto)
 chori ja - ladrón  
 Chosen - Corea  
 chosen di - coreano  
+chuli - proceso (procedimiento)  
 chum - beso  
 chun - aldea  
 chupu - chupar (succionar)  
@@ -578,6 +579,8 @@ darvin sim - darwinismo
 darvin sim ja - darwinista  
 data - datos  
 data banka - banco de datos (base de datos)  
+data chuli - procesamiento de datos  
+data chuli logi - informática (computación)  
 data fen gata - análisis de datos  
 data table - tabla  
 dau - camino (calle)  
@@ -819,6 +822,7 @@ fa biznes lon - negociar
 fa budi - darse cuenta (notar)  
 fa chape - imprimir  
 fa chori - robar (hurtar)  
+fa chuli - tratar (lidiar, procesar)  
 fa chuti - salir (irse)  
 fa daka - cubrir (tapar)  
 fa dalil - probar (demonstrar, comprobar)  
@@ -1280,6 +1284,7 @@ goton - algodón
 grafi - imagen (gráfico, dibujo)  
 grafi - dibujar (trazar)  
 grafi buku - libro de cuentos ilustrado  
+grafi chuli - procesamiento de imágenes  
 grafi di - gráfico (pictórico, ilustrado)  
 grafi ja - ilustrador  
 grafi kata - historieta (caricaturas)  
@@ -2806,7 +2811,6 @@ program ja - programador
 projete - proyecto  
 Promete - Prometeo  
 promete yum - prometio  
-proses - proceso (procedimiento)  
 protacini yum - proactinio  
 puding - pudín  
 puja - adoración (veneración, culto)  
@@ -3503,11 +3507,11 @@ urdu - urdu
 Urdun - Jordania  
 urso - oso  
 Uruguay - Uruguay  
+Uzbeki - Uzbekistán  
 uze - usar (aplicar)  
 uze bil di - utilizable (disponible)  
 uze ja - usuario  
 uze ja name - nombre de usuario  
-Uzbeki - Uzbekistán  
 ####V - V  
 va - guau (vaya)  
 vaf - perro  

@@ -785,6 +785,7 @@ infecter - fa pati mise
 infection (contagion) - pati mise  
 infidèle (incroyant) - an din ja  
 inflammation - flame  
+informatique - data chuli logi  
 innomé - name hin  
 insecte - dudu  
 insomnie - an sona  
@@ -1554,6 +1555,11 @@ toxine - bio toksi
 trace - marke  
 tracteur - trator gi  
 traduction - tarjum she  
+traitement (processe) - chuli  
+traitement d'images - grafi chuli  
+traitement de données - data chuli  
+traitement de texte - kitabu chuli  
+traiter - fa chuli  
 travail - gung  
 travailler - gung  
 travailleur (ouvrier) - gung ja  

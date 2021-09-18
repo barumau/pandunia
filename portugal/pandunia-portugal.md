@@ -229,6 +229,7 @@ choi - verdura
 choklate - chocolate  
 choklate kane - barra de chocolate  
 chopu - enxada  
+chuli - processo  
 chun - aldeia (vila)  
 chuze she - opção  
 ####D - D  
@@ -248,6 +249,8 @@ darja mute - desenvolvimento
 darmestadi yum - darmstádio  
 data - dados  
 data banka - banco de dados  
+data chuli - processamento de dados  
+data chuli logi - informática (ciência da computação)  
 dava she - remédio (medicamento)  
 dava she kan - farmácia (drogaria)  
 dava she logi - farmacologia  
@@ -332,6 +335,7 @@ fa alo - alterar
 fa argu - arguir  
 fa asar - efetuar  
 fa bina - construir  
+fa chuli - tratar (lidar, procesar)  
 fa dante - morder  
 fa dika - mirar (apontar)  
 fa dus forma - desfigurar  
@@ -477,6 +481,7 @@ go - esse (aquele)
 gol - meta (gol)  
 gorila - gorila  
 goton - algodão  
+grafi chuli - processamento de imagem  
 grafi kata - quadrinhos (banda desenhada)  
 granite - granito  
 grave - cascalho  

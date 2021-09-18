@@ -345,6 +345,7 @@ darba - bati
 darja mute - disvolvi  
 data - datumo  
 data banka - datumbanko  
+data chuli logi - komputoscienco  
 data table - tabelo  
 dau - vojo  
 dava - sanigi (kuraci)  

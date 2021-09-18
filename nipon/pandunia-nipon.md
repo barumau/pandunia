@@ -207,6 +207,7 @@ choi - 菜
 choklate - チョコレート  
 choklate kane - チョコバー  
 chopu - クワ  
+chuli - 処理 (プロセス)  
 chun - 村  
 chuze she - オプション (選択)  
 ####D - D  
@@ -226,6 +227,8 @@ dara tubo - 漏斗
 darja mute - 発展 (開発)  
 darmestadi yum - ダームスタチウム  
 darte - 土  
+data chuli - データ処理  
+data chuli logi - 計算機科学  
 data fen gata - データ解析  
 data table - 表  
 dau - 道  
@@ -319,6 +322,7 @@ fa an galta - デバッグする
 fa auto - カスタマイズする  
 fa bina - 建てる  
 fa biznes lon - 話し合う (話を付ける)  
+fa chuli - 処理する  
 fa dante - 咬む  
 fa dika - 狙う  
 fa dosil - 馴らす  
@@ -459,6 +463,7 @@ go - その
 gol - 目的 (行き先, ゴール)  
 gola sheku - 丸石 (玉石, 栗石)  
 gorila - ゴリラ  
+grafi chuli - 画像処理  
 grafi kata - 漫画  
 granite - 花崗岩  
 grave - 砂利  
