@@ -2,6 +2,7 @@
 ####A - A  
 abies - モミ  
 achar - 漬物  
+acini yum - アクチニウム  
 ada - 習慣 (風俗)  
 Afgan - アフガニスタン  
 air - 空気  
@@ -17,12 +18,14 @@ alga fungu - 地衣類 (苔癬)
 alga jangal - 藻場  
 alo - 他の  
 alo fen di - 個別的  
+alumin - アルミニウム  
 ama - 愛  
 ama di - 愛しい  
 ama ja - 恋人 (恋人)  
 amen - 正直  
 amen bil - 忠実  
 amen shin - 信頼する  
+amerika yum - アメリシウム  
 amir lin - コマンド行  
 an air bio di - 嫌気性  
 an din ja - 不信者  
@@ -42,15 +45,18 @@ arane nete - クモの巣
 area - 辺  
 arena petra - 砂岩  
 argente - 銀  
+argon - アルゴン  
 arka - 弓 (弓なり)  
 arka ja - 弓兵  
 aroma - 嗅ぐ  
 aroma - 香り (匂い, 臭い)  
 aroma - 香る (匂う, 臭う)  
 aroma melon - マクワウリ  
+arsen yum - ヒ素  
 asal - 起源  
 asar - 効果  
 asha hin - 絶望した  
+astatin - アスタチン  
 astro - 天体   
 astro nomi - 天文学  
 astro nomi ja - 天文学者  
@@ -58,7 +64,7 @@ Athina - アテネ
 atlanti bakalau - タイセイヨウダラ  
 atlanti salmon - タイセイヨウサケ  
 auro - 金  
-Austronesia - オーストロネシア  
+Austronesi - オーストロネシア  
 auto - 自己  
 auto krati - 君主制  
 auto loga - 独白 (独話)  
@@ -83,6 +89,7 @@ bambu - 竹
 bamia - オクラ  
 ban - 板  
 ban gem - ボードゲーム  
+bari yum - バリウム  
 basa - 十分  
 basha - 言語  
 basha jinse - 文法的性 (名詞クラス)  
@@ -120,6 +127,8 @@ bede - 寝床 (ベッド)
 bele - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
 beri - 漿果 (ベリー )  
+beril yum - ベリリウム  
+berkli yum - バークリウム  
 bete - テーブルビート  
 betula - 樺  
 bichi - 鞭  
@@ -137,6 +146,7 @@ bio sistem - 生物群系
 bio toksi - 毒素  
 bir - ビール  
 biskute - ビスケット (クッキー)  
+bismute - ビスマス  
 biznes - 業務 (営業, ビジネス)  
 blu - 青い  
 blu elfe - スマーフ (シュトロンフ)  
@@ -148,11 +158,14 @@ bokse ja - ボクサー (拳闘家)
 bol - 玉 (球)  
 bon - 良い  
 bon guste di - 美味しい  
+bor yum - ボーリウム  
+boron - ホウ素  
 botel - 瓶  
 Brahma - ブラフマー (梵天)  
 brauza - 探る, 探検する  
 brauza gi - ブラウザ  
 briko - アンズ (梅, モモ, プラム)  
+brom - 臭素  
 brosha kalam - 筆 (毛筆)  
 bu! - ばあ  
 bucha ja - 肉屋  
@@ -164,6 +177,8 @@ bum - 爆発
 burge - 要塞  
 buta - ブーツ  
 ####C - C  
+ceres yum - セリウム  
+cesi yum - セシウム  
 chabi - 鍵  
 chai - 茶  
 chai chamacha - ティースプーン  
@@ -192,6 +207,7 @@ choi - 菜
 choklate - チョコレート  
 choklate kane - チョコバー  
 chopu - クワ  
+chuli - 処理 (プロセス)  
 chun - 村  
 chuze she - オプション (選択)  
 ####D - D  
@@ -209,7 +225,10 @@ Danske - デンマークの
 dante baluta - カシワ  
 dara tubo - 漏斗  
 darja mute - 発展 (開発)  
+darmestadi yum - ダームスタチウム  
 darte - 土  
+data chuli - データ処理  
+data chuli logi - 計算機科学  
 data fen gata - データ解析  
 data table - 表  
 dau - 道  
@@ -239,6 +258,7 @@ dinde - 七面鳥
 dino saur - 恐竜  
 diorite - 閃緑岩  
 diske - ディスク (円盤)  
+disprosi yum - ジスプロシウム  
 do misal - 例えば  
 dobe - レンガ (磚)  
 dokumen - 書類 (文書, ドキュメント)  
@@ -256,6 +276,7 @@ dosti - 友達 (友人)
 dosti di - 優しい (好ましい, 親切)  
 du - 二 (2)  
 dua - 祈祷  
+dubna yum - ドブニウム  
 dudu - 昆虫  
 duku - 読む  
 dunia - 世界  
@@ -269,6 +290,7 @@ dus sin di - 不吉 (縁起の悪い)
 dus vide - 見苦しい  
 dush - シャワー  
 ####E - E  
+einstein yum - アインスタイニウム  
 eko jene di - 野生  
 ekore - 栗鼠  
 ekso - 外  
@@ -281,13 +303,17 @@ eletro radi - 雷 (稲妻)
 elfe - 妖精 (エルフ)  
 emosi zi - 絵文字  
 english margarita - ヒナギク  
+erbi yum - エルビウム  
 eskale - 上る (乗る, よじ登る)  
 eskale tana - 蔓草  
+eskandi yum - スカンジウム  
 esponje - スポンジ (海綿)  
-estan - 珍  
-estibium - アンチモン  
+estan - スズ  
+estibi yum - アンチモン  
+estronti yum - ストロンチウム  
 eu loga - 賛辞  
-europe baluta - ヨーロッパナラ  
+europa baluta - ヨーロッパナラ  
+europa yum - ユウロピウム  
 ####F - F  
 fa - する  
 fa achar - 酢漬けある  
@@ -296,6 +322,7 @@ fa an galta - デバッグする
 fa auto - カスタマイズする  
 fa bina - 建てる  
 fa biznes lon - 話し合う (話を付ける)  
+fa chuli - 処理する  
 fa dante - 咬む  
 fa dika - 狙う  
 fa dosil - 馴らす  
@@ -354,12 +381,16 @@ fem raja - 女王
 fen - 部分  
 fen di - 部分的  
 fen gata - 分析 (解析)  
+fermi yum - フェルミウム  
+fero - 鉄  
 filme - フィルム (膜)  
 filsofi - 哲学  
 fiorde - フィヨルド  
 fito - 植物  
 fito yam sim ja - 菜食主義者 (ベジタリアン)  
 fleche - 矢 (矢印)  
+flerof yum - フレロビウム  
+flur - フッ素  
 fong - 蜂  
 fong nide - 蜂の巣  
 foto - 光  
@@ -367,6 +398,7 @@ foto frike - 光沢
 foto grafi - 写真  
 foto minar - 狼煙 (ビーコン)  
 foto so - 光子  
+france yum - フランシウム  
 frem - 額  
 frike - 擦る (擦り傷する)  
 frute - 果実 (フルーツ)  
@@ -384,7 +416,9 @@ ga - もし
 gabur - 墓 (埋葬, 葬る)  
 gabur bagi - 墓 (墓地)  
 gabur sheku - 墓石 (墓碑)  
+gadolin yum - ガドリニウム  
 galaksi - 銀河  
+gali yum - ガリウム  
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
 gami ben - 連れ子  
@@ -411,6 +445,7 @@ geo logi - 地質学
 geo metre - 幾何学  
 geo niche di - 地中  
 geo niche jela - 地下牢 (ダンジョン)  
+german yum - ゲルマニウム  
 gi - 装置 (機, 器)  
 giau - 教える (教義, -教)  
 giau ja - 教員  
@@ -428,6 +463,7 @@ go - その
 gol - 目的 (行き先, ゴール)  
 gola sheku - 丸石 (玉石, 栗石)  
 gorila - ゴリラ  
+grafi chuli - 画像処理  
 grafi kata - 漫画  
 granite - 花崗岩  
 grave - 砂利  
@@ -447,6 +483,7 @@ guta - 膝
 guta kaske oste - 膝蓋骨  
 ####H - H  
 Habasha - アビシニア  
+hafen yum - ハフニウム  
 haha - 笑う  
 hai - 海  
 hai alga - 海藻  
@@ -472,10 +509,15 @@ haram liste - ブラックリスト
 Hartum - ハルツーム  
 hatar - 危険  
 hava - 風  
+heli yum - ヘリウム  
 helis fei gi - ヘリコプター  
 hem - 考える  
 hero - 英雄 (勇者, ヒーロー)  
 Hese - ヘッセン  
+hese yum - ハッシウム  
+hidrargente - 水銀  
+hidro - 水素  
+hindi yum - インジウム  
 hindu raja - ラージャー  
 Hindu riu - インダス川  
 hisabu loge - 口座  
@@ -487,6 +529,7 @@ hogo shan - 火山
 hogo sheku - 火打ち石 (フリント)  
 hogo tehni - 花火  
 hoki - ホッケー  
+holme yum - ホルミウム  
 hor - 時 (１時間)  
 hor loga gi - 時計  
 hotel - ホテル (旅館)  
@@ -509,6 +552,8 @@ in verse jan - 内向的な人
 insan - 人間  
 insan haki - 人権  
 insan sim - ヒューマニズム (人文主義)  
+iode - ヨウ素  
+iris yum - イリジウム  
 ironi - 反語 (皮肉)  
 ironi di - 反語的  
 islam din - イスラム教  
@@ -546,9 +591,10 @@ Jupiter - 木星
 jus - ジュース  
 juste pau ja - 狙撃兵  
 ####K - K  
-ka - 家  
 ka - より (に比べ)  
+ka - 家  
 kaboga - カボチャ  
+kadim yum - カドミウム  
 kafe - コーヒー  
 kafe alga - 褐藻  
 kafe kan - カフェ (コーヒー店)  
@@ -565,9 +611,12 @@ kali - 塩基
 kali guste - 苦い  
 kali melon - ツルレイシ (ニガウリ)  
 kali oranje - ダイダイ  
+kali yum - カリウム  
+kaliforni yum - カリホルニウム  
 kalmar - イカ  
-kalse bilor - 大理石  
-kalse mate - 石灰  
+kalsi bilor - 大理石  
+kalsi mate - 石灰  
+kalsi yum - カルシウム  
 kama - 色欲  
 kama deu - カーマ  
 kamar - 部屋  
@@ -590,6 +639,7 @@ kape truke - 罠
 kar - 車  
 karate - 空手  
 karate ka - 空手家  
+karbon - 炭素  
 karbon kalam - 鉛筆  
 karbon sui - 炭水化物  
 karchof - アーティチョーク  
@@ -636,6 +686,8 @@ klas - 部門 (級)
 klien - 顧客 (依頼人, クライアント)  
 klima mute - 気候変動  
 klin - 斜め (傾向)  
+klor - 塩素  
+kobalte - コバルト  
 koda - 尾 (尾翼)  
 komputa di - デジタル  
 kon - 一緒に  
@@ -645,6 +697,7 @@ kon gung - 共同して働
 kon pasi - 同情  
 kon sela ja - 顧問  
 konserte - コンサート (音楽会)  
+koperni yum - コペルニシウム  
 kopi - コピー  
 koral - サンゴ  
 kore - 走る (疾走する)  
@@ -656,8 +709,10 @@ krake - 隙間 (ひび)
 krem - クリーム  
 krepe - パンケーキ  
 krevete - 海老  
+kriton - クリプトン  
 krokodil - ワニ  
 krokroke - 蛙  
+krom yum - クロム  
 krote - 田鼠  
 kruasan - クロワッサン  
 krus arka - クロスボウ (石弓)  
@@ -670,7 +725,9 @@ kudi - 肘
 kuke kamar - 台所  
 kul - カッコいい  
 kupa - コップ  
+kupre - 銅  
 kurban - 犠牲  
+kuri yum - キュリウム  
 kush - 横たえる  
 kush - 寝転ぶ  
 ####L - L  
@@ -680,7 +737,6 @@ lai - 来る
 laji - ゴミ (廃棄物)  
 laji bagi - ゴミ捨て場  
 laji tong - ごみ箱  
-lal - 赤い  
 lal linse - ボブキャット  
 lal oranje - ポンカン (マンダリン)  
 lal salmon - ベニザケ  
@@ -692,12 +748,13 @@ lana - 呪い (たたり)
 lanse grafi - 投影  
 lanse grafi - 映す (投影する)  
 lanse she - 飛翔体 (矢玉)  
-lantanium - ランタン  
+lantan yum - ランタン  
 lashe - 残す  
 lasun - 大蒜  
 late - 側 (脇)  
 Latvia - ラトビア  
 lau - 年配  
+laurence yum - ローレンシウム  
 lazanya - ラザニア  
 lazur petra - ラピスラズリ (瑠璃)  
 lefte - 左  
@@ -724,7 +781,9 @@ lipa ban - 棚
 lipa baze - 台  
 lipa side - しゃがむ (蹲る)  
 lisan - 舌  
+lito yum - リチウム  
 litre - リットル  
+livermor yum - リバモリウム  
 loga - 話す  
 loga - 演説  
 loga fen - 音節  
@@ -742,16 +801,17 @@ long pipre - 畢撥
 long tire - 伸びる (張る)  
 lotra - 獺  
 lou - 漏る  
-luka - 緑 (緑色)  
 luka - 六 (6)  
+luka - 緑 (緑色)  
 luka melon - ハネデューメロン  
 luna keke - 月餅  
 lung - 竜  
 lung dou - 四角豆  
+lutesi yum - ルテニウム  
 ####M - M  
 ma - お母さん (母, ママ)  
 maf - ごめんなさい  
-magesium - マグネシウム  
+magen yum - マグネシウム  
 magi ja - 魔法使い  
 magi liki - 魔力  
 Magribi desha - モロッコ  
@@ -762,6 +822,7 @@ mal nomi - 経済学
 man - 男  
 man raja - 王様  
 mang - 忙しい  
+mangan - マンガン  
 manioka - キャッサバ  
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
@@ -782,6 +843,7 @@ matur fem - 女の人
 matur man - 男の人  
 mau - 猫  
 maze - 靴下 (ソックス)  
+me - 第  
 meche - 試合 (競技)  
 medan - 広場  
 medan papi - ヒナゲシ  
@@ -794,9 +856,11 @@ medu fong nide - 蜂の巣 (ハニカム)
 medu fong sanduku - 養蜂箱  
 mega - １００万 (メガ)  
 megi - 雲  
+meitner yum - マイトネリウム  
 melon - マスクメロン  
 memo - 記憶  
 memo bina - 追悼塔 (碑)  
+mendelevi yum - メンデレビウム  
 mes - 月間  
 mes bati - ８月  
 mes cheti - ７月  
@@ -841,9 +905,11 @@ mole - モル
 molekul - 分子  
 moli - 茉莉  
 moli hua chai - 茉莉花茶  
+moliden yum - モリブデン  
 mos - 苔  
 mos di - 苔状  
 mosim - 季節  
+moskva yum - モスコビウム  
 moto - モーター (エンジン, 機関)  
 moto sikle - オートバイ (モーターサイクル)  
 mula - 根  
@@ -868,6 +934,7 @@ name - 名前
 name hin - 名無し (無名の)  
 name kitabu - 署名する (サイン)  
 nasi medi - 国際的  
+natri - ナトリウム  
 nau - 脳  
 nautile - オウムガイ  
 nave - 舟 (ボート)  
@@ -877,18 +944,26 @@ nefte guku - シマカンギク (アブラギク)
 nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
+neodim yum - ネオジム  
+neon - ネオン  
+neputun yum - ネプツニウム  
 nerve toksi - 神経毒  
 nete - 網  
 ni - この  
 nia - 意図  
 niche - 下  
 nide - 巣  
+nikel - ニッケル  
 nilon - ナイロン  
+niobi yum - ニオブ  
 Nipon - 日本  
 nipon di - 日本の (日本語, 日本人)  
+nipon yum - ニホニウム  
 nish - 壁龕  
+nitre - 窒素  
 no - いいえ  
 no yau di - 不要  
+nobel yum - ノーベリウム  
 noche - 夜  
 Noe di nave - ノアの箱舟  
 nong chun - 農村  
@@ -902,21 +977,25 @@ nove ka - 初心者
 nove loga - 新語 (新造語)  
 nove yang di - 近代的  
 ####O - O  
+oganeson - オガネソン  
 ohtopus - タコ  
 oke - 大丈夫 (ＯＫ)  
 oko - 目  
 oko sui gas - 催涙ガス  
+oksi - 酸素  
 onda - 波  
 oranje rang - オレンジ色の  
 orkide - ラン  
 orto - まっすぐな  
 oselote - オセロット  
 osidian - 黒曜石  
+osmi yum - オスミウム  
 oste jama - 骨格  
 oste shalke - ぜんご  
 ####P - P  
 pa - お父さん (父, パパ)  
 pade mun - 落とし戸  
+paladi yum - パラジウム  
 pan - 全ての  
 pan demo pati - パンデミック  
 pan mima - パントマイム   
@@ -972,22 +1051,30 @@ pisea - トウヒ
 plate di - 平ら  
 plate geo kaske logi - プレートテクトニクス (プレート理論)  
 plate topo - 草原  
+platin - 白金  
+plumbe - 鉛  
+pluton yum - プルトニウム  
 poli - たくさん  
-Polinesia - ポリネシア  
+Polinesi - ポリネシア  
 politi - 政府  
 politi lon - 政道  
 politi mode - 政体  
+polska yum - ポロニウム  
 ponte pin - 羅針盤  
 porei - リーキ  
 pos - 後 (後ろ)  
 pos den - 明日  
+pospor - リン  
 pote ja - 陶工  
 pote shuta - 陶芸  
+prazedim yum - プラセオジム  
 presa - 圧力  
 presa gi - 圧搾機  
 problem - 問題  
 program - 次第 (計画, プログラム)  
 projete - プロジェクト  
+promete yum - プロメチウム  
+protacini yum - プロトアクチニウム  
 puja kan - 神殿  
 pul fito yam sim - ヴィーガニズム  
 pul fito yam sim ja - 絶対菜食主義者 (ヴィーガン)  
@@ -1000,6 +1087,8 @@ putau bagi - 葡萄園
 putau oranje - グレープフルーツ  
 Putong Han - 普通話 (北京語)  
 ####R - R  
+radi yum - ラジウム  
+radon - ラドン  
 rai - 意見 (見解)  
 raite - 右  
 raja - 国王  
@@ -1014,6 +1103,9 @@ ratibu di - 整然
 re - 繰り返し  
 re sikle - 再生する (リサイクルする)  
 re zoku - 再開する  
+Ren - ライン川  
+ren yum - レニウム  
+rentegen yum - レントゲニウム  
 retro gula - 戻す (吐く)  
 retro gula sense - 吐き気 (嘔気)  
 ring - 輪  
@@ -1032,10 +1124,15 @@ rota lefte - 左回り (反時計回り)
 rota van gi - 独楽  
 roza - バラ  
 roza salmon - カラフトマス  
+roza yum - ロジウム  
+rubi - 赤い  
 rubi - ルビー  
+rubi yum - ルビジウム  
 ruhu mishe - 惑わす  
 ruhu mishe di - まごまご  
 ruke sake - リュックサック  
+rus yum - ルテニウム  
+ruterfor yum - ラザホージウム  
 ####S - S  
 sabe - 知る  
 sabe vol - 興味 (好奇心)  
@@ -1059,6 +1156,7 @@ sama - 空
 sama blu - 空色  
 sama hal - 天気  
 sama kinar - 地平線 (水平線, 天際)  
+samari yum - サマリウム  
 sanduiche - サンドイッチ  
 sange - 血  
 sante kanon - 聖書  
@@ -1071,6 +1169,7 @@ saur - 蜥蜴
 sekse logi - 性科学  
 sekur kopi - バックアップ (控え)  
 sekur nomer - 暗証番号  
+selen yum - セレン  
 selge - フダンソウ (スイスチャード)  
 seme dane - 種  
 sene - 年齢  
@@ -1119,7 +1218,7 @@ shuru - 開始
 shush - しーっ  
 shuta - 術  
 sian - シアン  
-siborgium - シーボーギウム  
+siborge yum - シーボーギウム  
 side - 座る  
 side loka - 座席 (鞍)  
 sifa loga - 形容詞  
@@ -1127,6 +1226,7 @@ sigar - タバコ
 sikle ja - チャリダー  
 sili - 系列  
 sili tika - 連結  
+silis - ヶィ素  
 silko - 絹  
 sim - 主义  
 sing - 星  
@@ -1139,7 +1239,7 @@ sofita - 知恵
 soi - 大豆  
 soi milke - 豆乳  
 soi sos - 醤油  
-soka - 探す (捜索する)  
+soki - 探す (捜索する)  
 sol - 太陽 (日)  
 sol hua - ヒマワリ  
 sona kamar - 寝室  
@@ -1164,6 +1264,7 @@ sukar - 砂糖
 sukar bete - テンサイ (サトウダイコン)  
 sukar gana - サトウキビ  
 sukar oranje - オレンジ (アマダイダイ)  
+sulfu - 硫黄  
 sundar - 美しい  
 sundar daka - 装飾  
 sundar shuta - 芸術 (美術)  
@@ -1173,30 +1274,39 @@ supa chamacha - さじ (テーブルスプーン)
 supra - 上  
 supra vakil ja - 上院議員  
 ####T - T  
+ta - さ (み, 性)  
 tabi - 性質 (性)  
 table komputa - タブレットコンピュータ  
 tail - タイル (瓦)  
-tal moku - 灌木 (藪)  
+tal moka - 灌木 (藪)  
 tal tela - 絨毯 (カーペット)  
+tali yum - タリウム  
 tana - 茎 (胴)  
+tantal yum - タンタル  
 tasa - 皿  
 tehni - 技術  
+tehni yum - テクネチウム  
 tela - 布  
 tela gi - 織機  
 tele fon gi - 電話  
 teleskope - 望遠鏡 (テレスコープ)  
+telu yum - テルル  
 tema name - 題名 (書名, タイトル)  
 ten bil - とっつきやすい (アクセス可能)  
 ten fasil ta - アクセシビリティ  
+tenesi yum - テネシン  
+terbi yum - テルビウム  
 tercha - 斜め  
 tipe - 種類  
 tire dara - 離岸流  
 tire kane - レバー (てこ)  
 tire yo pil - はがす (剥ぐ)  
 tisa - 九 (9)  
+titan yum - チタン  
 toksi - 毒  
 Tokyo - 東京  
 topo grafi - 地勢  
+tor yum - トリウム  
 trati - 合意  
 trator gi - トラクター  
 tre - とても  
@@ -1206,17 +1316,19 @@ tri zong - 三つまた (トライデント)
 truke - 悪戯 (詐欺)  
 tu - あなた  
 tu su - あなたの  
+tule yum - ツリウム  
 tumen - あなたたち  
 tuta - 桑  
 tuzi - うさぎ  
 ####U - U  
 umami - 旨味  
 un - 一 (1)  
-unike - だけ (唯一の)  
-unike jan di - 一人の (寂しい, ポツリ)  
+un di - だけ (唯一の)  
+un zai di - 一人の (寂しい, ポツリ)  
 unta - 団結 (統一)  
 unta liga - 連合 (接合)  
-use bil di - 使用可能  
+uran yum - ウラン  
+uze bil di - 使用可能  
 ####V - V  
 va - わあ  
 vaf - 犬 (狗)  
@@ -1229,6 +1341,7 @@ vampir ohtopus - コウモリダコ
 van - 楽しみ (娯楽)  
 van di - 楽しい  
 van gi - おもちゃ  
+vanadi yum - バナジウム  
 var cheti - 日曜日  
 var du - 火曜日  
 var lima - 金曜日  
@@ -1260,6 +1373,7 @@ vise pa - 継父
 Vishnu - ヴィシュヌ  
 vode - 約束  
 vol - 欲しい  
+volfram - タングステン  
 vulva - 陰門  
 vutu - 物 (品)  
 ####X - X  
@@ -1282,6 +1396,8 @@ yogo - 軛
 yogur - ヨーグルト  
 yong - 溶ける  
 yong petra - 溶岩  
+yuter yum - イットリウム  
+yuterbi yum - イッテルビウム  
 ####Z - Z  
 zai - ある (いる)  
 zai den - 今日  
@@ -1294,6 +1410,8 @@ ze - -から
 zeyil - 疣  
 zeze - ハエ目 (双翅目)  
 zi - 字  
+zinke - 亜鉛  
+zirkon yum - ジルコニウム  
 zoku - まだ  
 zoku di - アナログ  
 zong - 杭  
