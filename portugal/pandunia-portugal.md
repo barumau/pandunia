@@ -112,6 +112,7 @@ bara mur - barreira
 barde - barba  
 bari fon - acento  
 bari yum - bário  
+baru - urso  
 basa - bastante (suficiente)  
 basen - bacia  
 basha - língua (idioma)  
@@ -341,8 +342,9 @@ fa dika - mirar (apontar)
 fa dus forma - desfigurar  
 fa ekso kave - escavar  
 fa ekso klus - excluir  
-fa ekso trator - extrair  
+fa ekso trata - extrair  
 fa estude - estudar (examinar)  
+fa fatu - punir (castigar)  
 fa fobi - assustar  
 fa forma - modelar  
 fa fuku - vestir  
@@ -393,6 +395,8 @@ fase tele - profundo
 fasil - fácil  
 fate - fato (facto)  
 fatige - fadiga  
+fatu - punição (castigo)  
+fatu di - penal  
 fatura - conta (fatura)  
 fei - voo  
 fei - voar  
@@ -443,6 +447,7 @@ Galia - Gália
 galope - galope  
 galte - erro (falta)  
 galte di - errôneo  
+gamba - camarão (gamba)  
 gami ben - enteado  
 gami jan - esposo ou esposa  
 gami ma - sogra  
@@ -733,10 +738,9 @@ kosmo nave ja - cosmonauta
 krake - rachadura  
 krem - crème  
 krepe - crepe (panqueca)  
-krevete - camarão  
 kriton - krípton  
 krokodil - crocodiliano  
-krokroke - rã  
+krokro - rã  
 krom yum - crómo  
 krote - toupeira  
 kruasan - croassã  
@@ -1357,9 +1361,10 @@ tomate - tomate
 topo grafi - topografia  
 topo metre grafi - carta geográfica  
 tor yum - tório  
+tortuga - tartaruga  
+trata - arrastar  
+trata gi - trator  
 trati - acordo (tratado, contrato)  
-trator - arrastar  
-trator gi - trator  
 tri - três (3)  
 truke - truque (fraude)  
 tu - tu  
@@ -1379,7 +1384,6 @@ unta liga - união
 ura - urra  
 Uran - Urano  
 uran yum - urânio  
-urso - urso  
 ####V - V  
 va - uau  
 vaf - cão (cachorro)  

@@ -242,7 +242,7 @@ arnés (arreos, jaeces) - harnes
 arquero - arka ja  
 arquitecto - bina plan ja  
 arquitectura - bina plan  
-arrastrar - trator  
+arrastrar - trata  
 arreglo - shuli  
 arriesgado - risko di  
 arroba (@) - adres zi  
@@ -525,7 +525,7 @@ californio - kaliforni yum
 caliza - kalsi petra  
 calvo - sar kesha hin  
 cama (lecho) - bede  
-camarón - krevete  
+camarón (gamba) - gamba  
 cambiar (demudar) - fa alo  
 cambiar - mute  
 cambio climático - klima mute  
@@ -600,6 +600,8 @@ casar - fa gami
 casco (yelmo) - sar kaske  
 casta - jene klas  
 castaña - kastana  
+castigar - fa fatu  
+castigo - fatu  
 castillo (fortaleza) - burge  
 castor - kastor  
 Cataluña - Katalunia  
@@ -1365,8 +1367,8 @@ exportar - ekso mise
 exposición (espectáculo) - shou  
 expulsar (exceptuar, excepto) - fa ekso  
 exterior - ekso di  
-extractor - ekso trator gi  
-extraer - fa ekso trator  
+extractor - ekso trata gi  
+extraer - fa ekso trata  
 extranjero - ekso desha di  
 exógeno - ekso jene di  
 exónimo - ekso name  
@@ -2532,7 +2534,7 @@ ortogonal - orto gona di
 oscuro - oskur  
 Osetia del Sur - Sude Iria (Alonia)  
 osmio - osmi yum  
-oso - urso  
+oso - baru  
 otitis - ore flame  
 otomana - osman  
 otoño - pade mosim  
@@ -2665,6 +2667,7 @@ pelo - kesha
 película (film, membrana) - filme  
 película (filme) - kino grafi  
 pena (tristeza) - duka  
+penal (penetenciario) - fatu di  
 pene - penis  
 pensar - fikir  
 pentaedro - lima fase  
@@ -2960,7 +2963,7 @@ rajá - hindu raja
 rama - shaka  
 Ramadán - ramazan  
 rampa (cuesta) - rampe  
-rana - krokroke  
+rana - krokro  
 rapidez (velocidad) - rapide ta  
 raramente - nadir mar  
 raro (extraño) - bizar  
@@ -3468,7 +3471,7 @@ toxina - bio toksi
 trabajador (obrero) - gung ja  
 trabajar - gung  
 trabajo - gung  
-tractor - trator gi  
+tractor - trata gi  
 tradicción (interpretación) - tarjum she  
 traditional (convencional) - suna di  
 traducir (interpretar) - tarjum  
@@ -3482,7 +3485,7 @@ transcurrir - si dura
 transitar (atravesar) - fa transe  
 Transnistria (Cisdniéster) - Transe Nistre Desha  
 trasero (nalgas) - pigu  
-tratar (lidiar, procesar) - fa chuli  
+tratar (llevar, manejar, lidiar, procesar) - fa chuli  
 tratar de - tema  
 tren - tren  
 tres (3) - tri  

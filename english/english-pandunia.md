@@ -326,7 +326,7 @@ be located (lie, be situated) - be loka
 be seen - be vide  
 beacon (lighthouse) - foto minar  
 bean or pea (legume) - dou  
-bear - urso  
+bear - baru  
 beard - barde  
 beautiful (handsome, good-looking) - bon vide di  
 beautiful (handsome, pretty) - sundar  
@@ -1057,7 +1057,7 @@ doubt (disbelief) - dute
 doubtful (suspicious, disbelieving) - dute ja  
 downgrade - dus darja  
 download - nete gete  
-drag (haul, tow, trail) - trator  
+drag (haul, tow, trail) - trata  
 dragon - lung  
 dragonfly - libele  
 drama - drama  
@@ -1248,8 +1248,8 @@ export - ekso mise
 expose (reveal) - ekso poze  
 extend (stretch out) - fa ekso tense  
 extent - ekso tense  
-extract (draw out) - fa ekso trator  
-extractor - ekso trator gi  
+extract (draw out) - fa ekso trata  
+extractor - ekso trata gi  
 extroverted (outgoing) - ekso verse di  
 eye (look, watch, observe, spectate) - fa oko  
 eye - oko  
@@ -1423,7 +1423,7 @@ friend - dosti
 friendless - dosti hin  
 friendly (kind, nice, gentle) - dosti di  
 friendship - dosti ta  
-frog - krokroke  
+frog - krokro  
 from (since, because) - ze  
 frost - hima rose  
 fruit - frute  
@@ -1610,7 +1610,6 @@ hammer - hamar
 hammock - hamake  
 Han Chinese - Han  
 hand - hande  
-handle (manage, treat, process) - fa chuli  
 hang (dangle) - pende  
 harbor (seaport) - hai porte  
 hard (tough) - gati  
@@ -2695,6 +2694,7 @@ pebble (gravel) - lili sheku
 pedal - pedal  
 peer - par jan  
 pen (writing tool) - kalam  
+penal (penetenciary) - fatu di  
 pencil - karbon kalam  
 penguin - pinguin  
 peninsula - yaki nesi  
@@ -2942,6 +2942,8 @@ pufferfish - balon peshe
 pull (draw, drag) - tire  
 pulp (pap, mash, mush) - fufu  
 pump - pompe  
+punish (penalize) - fa fatu  
+punishment (penalty) - fatu  
 Punjabi - panjabi  
 purple (violet) - violeta blu  
 push - pusha  
@@ -3307,7 +3309,7 @@ shoulder - kanta
 shovel (spade, scoop) - bele  
 show (display, exhibition) - shou  
 shower - dush  
-shrimp (prawn) - krevete  
+shrimp (prawn) - gamba  
 Siberia - Sibiria  
 sibling (brother or sister) - brus  
 side (flank) - late  
@@ -3752,7 +3754,7 @@ toxic (poisonous, venomous) - toksi di
 toxicology - toksi logi  
 toxin - bio toksi  
 toy (plaything) - van gi  
-tractor - trator gi  
+tractor - trata gi  
 trade (commerce, buying and selling) - vende shope  
 trader (merchant) - vende shope ja  
 trading card - jama karde  
@@ -3770,6 +3772,7 @@ travel - fa safar
 traveler - safar ja  
 traverse (horizontal) - vei di  
 treasure (valuables) - bau  
+treat (handle, manage, process) - fa chuli  
 tree - moka  
 triangle - tri gona  
 tribe - tribu  

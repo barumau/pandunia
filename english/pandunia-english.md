@@ -279,6 +279,7 @@ barka - congratulations! (blessing, benediction)
 Barti - India  
 barti - Indian  
 Barti Hai - Indian Ocean  
+baru - bear  
 barude - gunpowder  
 basa - enough (sufficient)  
 basen - pool (basin, bowl)  
@@ -833,7 +834,7 @@ ekso name - exonym
 ekso planete - exoplanet  
 ekso poze - expose (reveal)  
 ekso tense - extent  
-ekso trator gi - extractor  
+ekso trata gi - extractor  
 ekso verse di - extroverted (outgoing)  
 ekso vide di - evident (apparent, obvious)  
 ekso yam - picnic  
@@ -924,7 +925,7 @@ fa biznes lon - negotiate (arrange)
 fa budi - realize  
 fa chape - press (imprint)  
 fa chori - steal  
-fa chuli - handle (manage, treat, process)  
+fa chuli - treat (handle, manage, process)  
 fa chuti - leave (go out, exit)  
 fa daka - cover (conceal)  
 fa dalil - prove (demonstrate, testify)  
@@ -942,12 +943,13 @@ fa ekso - oust (expel, exclude, except, save)
 fa ekso kave - excavate (dig out)  
 fa ekso klus - exclude (keep out)  
 fa ekso tense - extend (stretch out)  
-fa ekso trator - extract (draw out)  
+fa ekso trata - extract (draw out)  
 fa english kitabu - anglicize  
 fa eskulte - sculpt (carve)  
 fa estude - study (work in order to practise or demonstrate)  
 fa eu loga - praise (eulogize)  
 fa fantazi - imagine (fantasize)  
+fa fatu - punish (penalize)  
 fa fen - divide (to partition)  
 fa fen do du - halve (divide by two)  
 fa fen gata - analyse (dissect, parse)  
@@ -1175,6 +1177,8 @@ fasin ta - fascination
 fate - deed (fact)  
 fati - supply (dispense, issue, put out)  
 fatige - fatigue (weariness)  
+fatu - punishment (penalty)  
+fatu di - penal (penetenciary)  
 fatura - bill (check, invoice)  
 favor - favor (goodwill)  
 faze - stage (phase)  
@@ -1317,6 +1321,7 @@ galope - canter and gallop
 galte - mistake (error, fault, blunder, bug)  
 galte budi - misunderstand  
 galte di - wrong (incorrect, erroneous, faulty)  
+gamba - shrimp (prawn)  
 Gambia - Gambia  
 gamel - camel  
 gami - marriage (matrimony)  
@@ -2109,7 +2114,6 @@ krem - cream
 krem di - creamy (cream colored)  
 krepe - pancake  
 krepe kan - pancake house (crêperie)  
-krevete - shrimp (prawn)  
 krim - crime  
 krim di - criminal  
 krita - cry (shout)  
@@ -2117,7 +2121,7 @@ kriton - krypton
 krizi - crisis  
 krizi - critical (pertaining to crisis)  
 krokodil - crocodillian  
-krokroke - frog  
+krokro - frog  
 krom yum - chromium  
 krote - mole (burrowing animal)  
 kruasan - croissant  
@@ -3775,9 +3779,9 @@ tortuga - turtle (tortoise)
 transe - transit (transport, passage)  
 transe gon di - diagonal  
 Transe Nistre Desha - Transnistria  
+trata - drag (haul, tow, trail)  
+trata gi - tractor  
 trati - agreement (treaty)  
-trator - drag (haul, tow, trail)  
-trator gi - tractor  
 tre - very  
 tren - train  
 tren dau - rail (railway, railroad)  
@@ -3846,7 +3850,6 @@ Uran - Uranus
 uran yum - uranium  
 urdu - Urdu  
 Urdun - Jordan  
-urso - bear  
 Uruguay - Uruguay  
 Urushalem - Jerusalem  
 Uzbeki - Uzbekistan  

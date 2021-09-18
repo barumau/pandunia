@@ -90,6 +90,7 @@ bamia - オクラ
 ban - 板  
 ban gem - ボードゲーム  
 bari yum - バリウム  
+baru - 熊  
 basa - 十分  
 basha - 言語  
 basha jinse - 文法的性 (名詞クラス)  
@@ -322,12 +323,13 @@ fa an galta - デバッグする
 fa auto - カスタマイズする  
 fa bina - 建てる  
 fa biznes lon - 話し合う (話を付ける)  
-fa chuli - 処理する  
+fa chuli - 扱う (処理する)  
 fa dante - 咬む  
 fa dika - 狙う  
 fa dosil - 馴らす  
 fa dus forma - 醜くする  
 fa ekso - 追出 (退ける, 除いて)  
+fa fatu - 罰する  
 fa fen gata - 見つめ直す  
 fa glu - 張る (付く)  
 fa hapu - 適応する  
@@ -373,6 +375,7 @@ fase tele ta - 浅い
 fasil - 易しい  
 fate - 事実  
 fatige - 疲労  
+fatu - 処罰  
 fatura - 料金  
 fei - 飛ぶ  
 fei mushu - こうもり (飛鼠)  
@@ -421,6 +424,7 @@ galaksi - 銀河
 gali yum - ガリウム  
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
+gamba - 海老  
 gami ben - 連れ子  
 gan gazo - 干し草  
 ganse - 雁 (鵝鳥)  
@@ -708,10 +712,9 @@ kosmo nave - 宇宙船
 krake - 隙間 (ひび)  
 krem - クリーム  
 krepe - パンケーキ  
-krevete - 海老  
 kriton - クリプトン  
 krokodil - ワニ  
-krokroke - 蛙  
+krokro - 蛙  
 krom yum - クロム  
 krote - 田鼠  
 kruasan - クロワッサン  
@@ -1307,8 +1310,8 @@ toksi - 毒
 Tokyo - 東京  
 topo grafi - 地勢  
 tor yum - トリウム  
+trata gi - トラクター  
 trati - 合意  
-trator gi - トラクター  
 tre - とても  
 tren - 電車 (列車)  
 tri - 三 (3)  

@@ -1206,7 +1206,7 @@ krem - krem
 kremowy - krem di  
 kret - krote  
 krew - sange  
-krewetka - krevete  
+krewetka - gamba  
 krokodyl - krokodil  
 krokodyl - long krokodil  
 kropka (znak interpunkcyjny) - punte  
@@ -1694,7 +1694,7 @@ niebo - sama
 niech my, hajda - haide  
 niechętny - an icha ja  
 niedziela - var cheti  
-niedźwiedź - urso  
+niedźwiedź - baru  
 Niemcy - Doiche  
 niemiecki - doiche di  
 niemowlę - bebe  
@@ -2941,7 +2941,7 @@ tor - tor yum
 torba, wór, worek, torba, sakwa - sake  
 tost - roste pang  
 towarzysz (partner, kumpel) - late jan  
-traktor (ciągnik) - trator gi  
+traktor (ciągnik) - trata gi  
 traktować - fa chuli  
 trawa - gazo  
 trawa mor - hai gazo  
@@ -3555,7 +3555,7 @@ zły, zrujnowany, zepsuty - harabu
 źle zrozumieć - galte budi  
 źródło, początek, pochodzenie - asal  
 źródłowy, początkowy, oryginalny - asal di  
-żaba - krokroke  
+żaba - krokro  
 żad - gioka  
 żal, smutek - duka  
 żart - joke  

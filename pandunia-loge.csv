@@ -281,6 +281,7 @@ barka||||congratulations! (blessing, benediction)|Félicitations !|¡Felicitacio
 Barti|desha|IN||India|Inde|India|||||||||||||Baratio|Intia|Indie
 barti|||hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|Indian|indien|indio (hindú)|||||||||||||Barata|intialainen|Indyjski
 Barti Hai||||Indian Ocean|océan Indien|océano Índico||||||||||||||Intian valtameri|Ocean Indyjski
+baru|bio|Ursidae|eng:bear, deu:Bär + hin:भालू (bhālū) ben:ভালুক (bhaluk) + may:beruang|bear|ours|oso|urso|медведь|دُبَّة‎|熊|熊|곰|gấu|भालू|ভালুক|beruang|dubu|ayı|urso|karhu|niedźwiedź
 barude|||ara:fas:urd:(bārūd), hin:बारूद (bārūd), swa:baruti, tur:barut|gunpowder|poudre à canon|pólvora|||||||||||baruti|barut|pulvo|ruuti|proch strzelniczy
 basa|||fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|enough (sufficient)|assez|bastante|bastante (suficiente)|достаточно (довольно)||够|十分|||काफ़ी (बस)||cukup|basi||sufiĉa|tarpeeksi (riittävästi)|wystarczający
 basen|||eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|pool (basin, bowl)|bassin|piscina (alberca, lavadero)|bacia|бассейн|||||||||||baseno|allas|basen
@@ -588,7 +589,6 @@ chori|||hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:cu
 chori ja||||thief||ladrón|||||||||||||ŝtelisto|varas|złodziej
 Chosen|desha||kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)|Korea||Corea||||||||||||||Korea|Korea
 chosen di||||Korean||coreano||||||||||||||korealainen|koreański
-fa chuli||||treat (handle, manage)|traitre (s’occupre de)|tratar (llevar, manejar)|tratar (lidar com)|обращаться (обрабатываться, разбираться)||对待 (处理)|扱う|||पेश आना (संभालना)||perlakukanlah|kumudu||||
 chuli|||zho:处理 (chǔlǐ), yue:處理 (cyu2lei5), jpn:処理 (shori), kor:처리 (cheori), vie:xử lí|process (handling, treatment, procedure)|traitement (processe)|proceso (procedimiento)|processo|процесс||处理|処理 (プロセス)|처리 (프로세스)||प्रबन्ध||proses||||käsittely (prosessi)|proces, procedura
 chum|||hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|kiss||beso|||||||||||||kiso|suukko (pusu)|całus
 chun|||zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|village|village|aldea|aldeia (vila)|деревня (село)|قَرْيَة‎|村|村|마을 (촌락)|làng (thôn)|गांव (देहात)|গ্রাম|desa|kijiji|köy|vilaĝo|kylä|wieś, wioska
@@ -836,7 +836,7 @@ ekso name||||exonym||exónimo||||||||||||||eksonyymi|egzonim
 ekso planete||||exoplanet|exoplanète|exoplaneta (planeta extrasolar)|exoplaneta (planeta extrassolar)|экзопланета (внесолнечная планета)||系外行星|系外惑星|외계 행성|ngoại hành tinh|||||güneş dışı gezegen|ekzoplanedo|eksoplaneetta|egzoplaneta
 ekso poze||||expose (reveal)|exposer|exponer (revelar)|expor (revelar)|||||||||||||ottaa esiin (paljastaa)|
 ekso tense||||extent|||||||||||||||||
-ekso trator gi||||extractor||extractor||||||||||||||ulosvetäjä|
+ekso trata gi||||extractor||extractor||||||||||||||ulosvetäjä|
 ekso verse di||||extroverted (outgoing)||||экстраверт||外向的|外向的な|||||||||ulospäinsuuntautunut (ekstrovertti)|
 ekso vide di||||evident (apparent, obvious)|évident|evidente|evidente|очевидный||||||||||bariz|evidenta|ilmeinen (silminnähtävä)|
 ekso yam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
@@ -927,7 +927,7 @@ fa biznes lon||||negotiate (arrange)||negociar|||||話し合う (話を付ける
 fa budi||||realize||darse cuenta (notar)|||||||||||||kompreni|ymmärtää (oivaltaa)|uświadomić sobie, zdać sobie sprawę, pojąć, pojmować
 fa chape||||press (imprint)||imprimir|||||||||||||presi|painaa (leimata)|naciskać, zostawiać ślad
 fa chori||||steal||robar (hurtar)|||||||||||||ŝteli|varastaa|ukraść, kraść
-fa chuli||||handle (manage, treat, process)|traiter|tratar (lidiar, procesar)|tratar (lidar, procesar)|обрабо́тать (обращаться)||处理|処理する||xử lí|प्रबन्ध करना|||kumudu|||käsitellä (kohdella, pidellä, prosessoida)|traktować
+fa chuli||||treat (handle, manage, process)|traiter|tratar (llevar, manejar, lidiar, procesar)|tratar (lidar, procesar)|обращаться (обработать, обрабатываться, разбираться)||处理 (对待)|扱う (処理する)||xử lí|प्रबन्ध करना (पेश आना, संभालना)||perlakukanlah|kumudu|||käsitellä (kohdella, pidellä, prosessoida)|traktować
 fa chuti||||leave (go out, exit)||salir (irse)|||||||||||||eliri|poistua|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać
 fa daka|||hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|cover (conceal)|couvrir|cubrir (tapar)||||||||ढकना|ঢাকা||||kovri|peittää|przykryć, przykrywać, ukryć, ukrywać
 fa dalil||||prove (demonstrate, testify)||probar (demonstrar, comprobar)||||||||||||||todistaa|dowieść, dowodzić; zeznać, zeznawać
@@ -945,7 +945,7 @@ fa ekso||||oust (expel, exclude, except, save)||expulsar (exceptuar, excepto)||�
 fa ekso kave||||excavate (dig out)|excaver|excavar|escavar|||||||||||||kaivaa esiin|
 fa ekso klus||||exclude (keep out)|exclure|excluir|excluir|исключить|||||||||||ekskludi|sulkea pois|
 fa ekso tense||||extend (stretch out)||||||||||||||||venyttää (pingottaa)|
-fa ekso trator||||extract (draw out)|extraire|extraer|extrair|извлекать||||||||||||vetää ulos|
+fa ekso trata||||extract (draw out)|extraire|extraer|extrair|извлекать||||||||||||vetää ulos|
 fa english kitabu||||anglicize||anglicanizar||||||||||||||englannistaa|anglizować (zanglizować)
 fa eskulte||||sculpt (carve)||esculpir|||||||||||||skulti|veistää kuvaa|rzeźbić
 fa estude|||eng:study, fra:étudier, spa:estudiar, por:estudar, rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|study (work in order to practise or demonstrate)|étudier|estudiar (examinar)|estudar (examinar)|изучать||||||||||||opiskella (tutkia)|
@@ -1323,6 +1323,7 @@ galope|||eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)|canter an
 galte|||ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),|mistake (error, fault, blunder, bug)|faute (erreur)|error|erro (falta)|||错误|間違い (誤り, バグ)|||ग़लती (भूल)||||yanlışlık (galat, erör)|eraro (miso)|virhe (erhe)|błąd (pomyłka)
 galte budi||||misunderstand||malinterpretar||||||||ग़लत समझना||||||ymmärtää väärin|źle zrozumieć
 galte di||||wrong (incorrect, erroneous, faulty)|erroné|erróneo|errôneo|||||||ग़लत||||yanlış|erara|väärä (virheellinen)|błędny (niepoprawny)
+gamba|||spa:por:gamba, ara: جَمْبَرِي‎ (jambarī) + swa:kamba|shrimp (prawn)|crevette|camarón (gamba)|camarão (gamba)|креветка|جَمْبَرِي‎|虾|海老||||||kamba|||katkarapu|krewetka
 Gambia|desha|GM||Gambia||Gambia||||||||||||||Gambia|Gambia
 gamel|bio||ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia|camel||camello|||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
 gami|||eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (-gamiya)|marriage (matrimony)|mariage|casamiento|||||||||||||geedzeco|avioliitto|małżeństwo, związek małżeński
@@ -2117,7 +2118,6 @@ krem|||fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|c
 krem di|rang|||creamy (cream colored)||cremoso||||||||||||||kermankeltainen|kremowy
 krepe|yam||fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|pancake|crêpe|panqueque (crepa)|crepe (panqueca)|блин||薄烤饼|パンケーキ|팬케이크||||||krep|krepo (patkuko)|lätty (räiskäle, pannukakku)|naleśnik
 krepe kan||||pancake house (crêperie)|crêperie||||||||||||||krepejo|kreppikoju|naleśnikarnia
-krevete|||eng:fra:crevette, ita:gamberetto, rus:креветка (krevetka)|shrimp (prawn)|crevette|camarón|camarão|креветка||虾 (xiā)|海老||||||||||krewetka
 krim|||eng:fra:por:crime, spa:crimen, tgl:krimen|crime||crimen (delito)|||||||||||||krimo|rikos|przestępstwo
 krim di||||criminal||criminal|||||||||||||krima|rikos- (rikollinen)|kryminalny, przestępczy
 krita|||eng:cry, spa:por:gritar, fra:crier, rus:крича́ть (kričátʹ)|cry (shout)||gritar||||||||||||||huutaa|krzyknąć, krzyczeć
@@ -2125,7 +2125,7 @@ kriton|yum 036|Kr|eng:krypton, fra:krypton, spa:criptón (kriptón), por:krípto
 krizi|||eng:crisis, fra:por:crise, deu:Krise, rus:кризис (krizis), spa:crisis|crisis||crisis|||||||||||||krizo|kriisi (käännekohta)|kryzys
 krizi||||critical (pertaining to crisis)||crítico (fundamental)||||||||||||||kriittinen (kriisi-)|kryzysowy
 krokodil|bio|Crocodilia|ell:κροκόδειλος, eng:crocodilian, fra:crocodilien, spa:crocodilio, por:crocodiliano, rus:крокодил (krokodil), jpn:クロコダイル, kor:크로커다일 (keulokeodail)|crocodillian|crocodilien|crocodilio|crocodiliano|крокодил||鳄|ワニ||||||||||krokodyl
-krokroke|bio||eng:croak, deu:gribbit, spa:croac croac, fin:kurr kurr, jpn:ケロケロ (kero kero), tur:vrak vrak, may:krok krok, tgl:kokak kokak|frog|grenouille|rana|rã|лягушка||蛙|蛙||||||||||żaba
+krokro|bio||eng:croak, fra:croa croa, spa:por:croac croac, jpn:ケロケロ (kero kero), may:krok krok|frog|grenouille|rana|rã|лягушка||蛙|蛙||||||||||żaba
 krom yum|yum 024|Cr|eng:chromium, fra:chrome, spa:cromo, por:crómo, rus:хром, jpn:クロム, kor:크로뮴, vie:crom, hin:क्रोमियम, ben:ক্রোমিয়াম, may:krom, swa:kromi|chromium|chrome|cromo|crómo|хром|كروم|铬|クロム|크로뮴|crom|क्रोमियम|ক্রোমিয়াম|krom|kromi|krom|kromo|kromi|chrom
 krote|bio|Talpinae|rus:крот (krot), pol:kret|mole (burrowing animal)|taupe|topo|toupeira|крот||鼹鼠|田鼠|||छछूंदर||tikus mondok|fuko|छछूंदर||kontiainen (maamyyrä)|kret
 kruasan|yam||fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|croissant|croissant|cruasán|croassã|круассан||牛角包|クロワッサン|크루아상|bánh sừng bò|क्रोइसैन||||kruvasan|korna bulko|voisarvi (kroissantti)|croissant
@@ -3783,13 +3783,13 @@ topo grafi||||topography|topographie|topografía|topografia|топография
 topo metre grafi||||map (chart, geographic map)|carte (plan)|mapa|carta geográfica|карта (план)||地图||||||||harita||kartta|
 tor yum|yum 090|Th|eng:thorium, fra:thorium, spa:torio, por:tório, rus:торий, zho:钍 (tǔ), jpn:トリウム, kor:토륨, vie:thori, hin:थोरियम, ben:থোরিয়াম, may:torium, swa:thori|thorium|thorium|torio|tório|торий|ثوريوم|钍|トリウム|토륨|thori|थोरियम|থোরিয়াম|torium|thori|toryum|torio|torium|tor
 torso|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
-tortuga|bio|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw
+tortuga|bio|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)|tortue|tortuga|tartaruga|||||||||||||kilpikonna|żółw
 transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (transport, passage)||tránsito (transporte)||||||||||||||läpikulku (kuljetus)|przejazd, przewóz, tranzyt, transport
 transe gon di||||diagonal||diagonal||||||||||||||lävistävä (diagonaalinen)|przekątny
 Transe Nistre Desha|desha|||Transnistria||Transnistria (Cisdniéster)||||||||||||||Transdnistria|Naddniestrze
+trata||||drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
+trata gi|||eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|tractor|tracteur|tractor|trator|трактор|تَرَاكْتُور‎|拖拉机 (铁牛)|トラクター|트랙타|máy kéo|ट्रैक्टर|ট্র্যাক্টর|traktor|trekta|traktör|traktoro|traktori|traktor (ciągnik)
 trati|||eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|agreement (treaty)|contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор||合同 (合约)|合意|||||kontrak||sözleşme (kontrat)||sopimus|porozumienie
-trator||||drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
-trator gi|||eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|tractor|tracteur|tractor|trator|трактор|تَرَاكْتُور‎|拖拉机 (铁牛)|トラクター|트랙타|máy kéo|ट्रैक्टर|ট্র্যাক্টর|traktor|trekta|traktör|traktoro|traktori|traktor (ciągnik)
 tre|||fra:très|very||muy||очень|||とても|||||||||hyvin (sangen)|
 tren|||eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|train||tren|||||電車 (列車)||||||||trajno (vagonaro)|juna|pociąg
 tren dau||||rail (railway, railroad)||vía férrea|||||||||||||fervojo|junarata (rautatie)|kolej
@@ -3858,7 +3858,6 @@ Uran|planete 7|||Uranus|Uranus|Urano|Urano|Уран|أورانوس|||||||||Uran�
 uran yum|yum 092|U|eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani|uranium|uranium|uranio|urânio|уран|يورانيوم|铀|ウラン|우라늄|urani (uran)|युरेनियम|ইউরেনিয়াম|uranium|urani|uranyum|uranio|uraani|uran
 urdu|nas|||Urdu||urdu||||||||||||||urdu|urdu
 Urdun|desha|JO||Jordan||Jordania||||||||||||||Jordania|Jordan
-urso|bio|Ursidae|fra:ours, por:urso, spa:oso, fas:(xers)|bear|ours|oso|urso||||||||||||urso|karhu|niedźwiedź
 Uruguay|desha|UY||Uruguay||Uruguay||||||||||||||Uruguai|Urugwaj
 Urushalem|xefsite|||Jerusalem|||||القُدس‎|||||||||||Jerusalem|Jerozolima
 Uzbeki|desha|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekistan
@@ -4095,6 +4094,7 @@ zuku di||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민�
 zuku medi di||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumarde|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
+|||||||||||||||||||||
 ||||overestimate|surestimer|sobrestimar|superestimar (sobrestimar)|переоценить||||||||||||yliarvioida|
 ||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
 ||||valid (workable)||||||||||||||||toimiva|poprawny (wykonalny)

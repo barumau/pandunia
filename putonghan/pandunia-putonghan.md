@@ -118,6 +118,7 @@ banya - 游泳
 banya kamar - 浴室  
 bari fon - 重音符号  
 bari yum - 钡  
+baru - 熊  
 basa - 够  
 basha - 语言  
 basha jinse - 文法的性  
@@ -331,7 +332,7 @@ europa yum - 铕
 fa - 作  
 fa alo - 改變  
 fa bina - 建设  
-fa chuli - 处理  
+fa chuli - 处理 (对待)  
 fa dante - 咬  
 fa dika - 瞄准  
 fa dosil - 驯养  
@@ -374,6 +375,7 @@ fan topo - 沼泽
 fase - 面  
 fase tele - 深  
 fate - 事实  
+fatu - 惩罚  
 fatura - 帐单  
 fei - 飞  
 fem - 女  
@@ -423,6 +425,7 @@ galaksi - 恆星系
 gali yum - 镓  
 Galia - 高卢  
 galte - 错误  
+gamba - 虾  
 gan gazo - 干草  
 gana - 秆  
 gana kalam - 蘆葦筆  
@@ -707,10 +710,9 @@ kosmo nave - 太空船
 kosmo nave ja - 太空人  
 krake - 裂缝 (缝隙)  
 krepe - 薄烤饼  
-krevete - 虾 (xiā)  
 kriton - 氪  
 krokodil - 鳄  
-krokroke - 蛙  
+krokro - 蛙  
 krom yum - 铬  
 krote - 鼹鼠  
 kruasan - 牛角包  
@@ -1303,9 +1305,9 @@ tomate - 西红柿
 topo grafi - 地形  
 topo metre grafi - 地图  
 tor yum - 钍  
+trata - 拖  
+trata gi - 拖拉机 (铁牛)  
 trati - 合同 (合约)  
-trator - 拖  
-trator gi - 拖拉机 (铁牛)  
 tri - 三 (3)  
 tri zong - 三叉戟  
 truke - 伎俩  

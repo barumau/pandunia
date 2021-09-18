@@ -274,6 +274,7 @@ barka - onneksi olkoon!
 Barti - Intia  
 barti - intialainen  
 Barti Hai - Intian valtameri  
+baru - karhu  
 barude - ruuti  
 basa - tarpeeksi (riittävästi)  
 basen - allas  
@@ -823,7 +824,7 @@ ekso mise - viedä pois (viedä maasta)
 ekso name - eksonyymi  
 ekso planete - eksoplaneetta  
 ekso poze - ottaa esiin (paljastaa)  
-ekso trator gi - ulosvetäjä  
+ekso trata gi - ulosvetäjä  
 ekso verse di - ulospäinsuuntautunut (ekstrovertti)  
 ekso vide di - ilmeinen (silminnähtävä)  
 ekso yam - eväsretki (piknik)  
@@ -931,7 +932,7 @@ fa ekso - poistaa (paitsi, poislukien)
 fa ekso kave - kaivaa esiin  
 fa ekso klus - sulkea pois  
 fa ekso tense - venyttää (pingottaa)  
-fa ekso trator - vetää ulos  
+fa ekso trata - vetää ulos  
 fa english kitabu - englannistaa  
 fa eskulte - veistää kuvaa  
 fa estude - opiskella (tutkia)  
@@ -1305,6 +1306,7 @@ galope - laukka
 galte - virhe (erhe)  
 galte budi - ymmärtää väärin  
 galte di - väärä (virheellinen)  
+gamba - katkarapu  
 Gambia - Gambia  
 gamel - kameli  
 gami - avioliitto  
@@ -3466,9 +3468,9 @@ tortuga - kilpikonna
 transe - läpikulku (kuljetus)  
 transe gon di - lävistävä (diagonaalinen)  
 Transe Nistre Desha - Transdnistria  
+trata - vetää (kiskoa, raahata)  
+trata gi - traktori  
 trati - sopimus  
-trator - vetää (kiskoa, raahata)  
-trator gi - traktori  
 tre - hyvin (sangen)  
 tren - juna  
 tren dau - junarata (rautatie)  
@@ -3537,7 +3539,6 @@ Uran - Uranus
 uran yum - uraani  
 urdu - urdu  
 Urdun - Jordania  
-urso - karhu  
 Uruguay - Uruguai  
 Urushalem - Jerusalem  
 Uzbeki - Uzbekistan  

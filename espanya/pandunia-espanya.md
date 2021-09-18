@@ -255,6 +255,7 @@ barka - ¡Felicitaciones!
 Barti - India  
 barti - indio (hindú)  
 Barti Hai - océano Índico  
+baru - oso  
 barude - pólvora  
 basa - bastante  
 basen - piscina (alberca, lavadero)  
@@ -742,7 +743,7 @@ ekso mise - exportar
 ekso name - exónimo  
 ekso planete - exoplaneta (planeta extrasolar)  
 ekso poze - exponer (revelar)  
-ekso trator gi - extractor  
+ekso trata gi - extractor  
 ekso vide di - evidente  
 ekso yam - jira (pícnic)  
 Ekuador - Ecuador  
@@ -822,7 +823,7 @@ fa biznes lon - negociar
 fa budi - darse cuenta (notar)  
 fa chape - imprimir  
 fa chori - robar (hurtar)  
-fa chuli - tratar (lidiar, procesar)  
+fa chuli - tratar (llevar, manejar, lidiar, procesar)  
 fa chuti - salir (irse)  
 fa daka - cubrir (tapar)  
 fa dalil - probar (demonstrar, comprobar)  
@@ -838,11 +839,12 @@ fa dus name - insultar (ofender)
 fa ekso - expulsar (exceptuar, excepto)  
 fa ekso kave - excavar  
 fa ekso klus - excluir  
-fa ekso trator - extraer  
+fa ekso trata - extraer  
 fa english kitabu - anglicanizar  
 fa eskulte - esculpir  
 fa estude - estudiar (examinar)  
 fa fantazi - imaginar (fantasear)  
+fa fatu - castigar  
 fa fen - dividir (repartir)  
 fa fen do du - reducir a la mitad (dividir en dos)  
 fa fen gata - analizar (disecar)  
@@ -1044,6 +1046,8 @@ fasin ta - fascinación
 fate - hecho  
 fati - suministrar (dar, proveer, emitir)  
 fatige - fatiga  
+fatu - castigo  
+fatu di - penal (penetenciario)  
 fatura - cuenta (factura)  
 faze - etapa (fase)  
 febre - fiebrie (calentura)  
@@ -1175,6 +1179,7 @@ galope - galope
 galte - error  
 galte budi - malinterpretar  
 galte di - erróneo  
+gamba - camarón (gamba)  
 Gambia - Gambia  
 gamel - camello  
 gami - casamiento  
@@ -1892,7 +1897,6 @@ krati - dominio (reinado)
 krem - crema  
 krem di - cremoso  
 krepe - panqueque (crepa)  
-krevete - camarón  
 krim - crimen (delito)  
 krim di - criminal  
 krita - gritar  
@@ -1900,7 +1904,7 @@ kriton - criptón (kriptón)
 krizi - crisis  
 krizi - crítico (fundamental)  
 krokodil - crocodilio  
-krokroke - rana  
+krokro - rana  
 krom yum - cromo  
 krote - topo  
 kruasan - cruasán  
@@ -3440,9 +3444,9 @@ tortuga - tortuga
 transe - tránsito (transporte)  
 transe gon di - diagonal  
 Transe Nistre Desha - Transnistria (Cisdniéster)  
+trata - arrastrar  
+trata gi - tractor  
 trati - contrato (tratado)  
-trator - arrastrar  
-trator gi - tractor  
 tre - muy  
 tren - tren  
 tren dau - vía férrea  
@@ -3505,7 +3509,6 @@ Uran - Urano
 uran yum - uranio  
 urdu - urdu  
 Urdun - Jordania  
-urso - oso  
 Uruguay - Uruguay  
 Uzbeki - Uzbekistán  
 uze - usar (aplicar)  

@@ -464,7 +464,7 @@ craindre (avoir peur) - be fobi
 cravache - uma bichi  
 crayon - karbon kalam  
 creuser - fa kave  
-crevette - krevete  
+crevette - gamba  
 cristal - bilor  
 crochet - huke  
 crocodile - long krokodil  
@@ -604,7 +604,7 @@ exoplanète - ekso planete
 exploser (détoner) - be bum  
 explosion - bum  
 exposer - ekso poze  
-extraire - fa ekso trator  
+extraire - fa ekso trata  
 extérieur - ekso  
 exécrer - an ai  
 ####F - F  
@@ -702,7 +702,7 @@ grand-mère - chin ma
 grand-père - chin pa  
 granit - granite  
 gravire - grave  
-grenouille - krokroke  
+grenouille - krokro  
 grimace - grimas  
 groupe - grupe  
 grâce à - shukra da  
@@ -1117,7 +1117,7 @@ ouah - va
 oublier - an memo  
 oubliette (cul de basse-fosse) - geo niche jela  
 oui - ye  
-ours - urso  
+ours - baru  
 oxyde - okside  
 oxygène - oksi  
 où - na ke  
@@ -1299,11 +1299,14 @@ prêter (empruntre) - jeka
 prêter - jeka dona  
 psychologie - ruhu logi  
 psyché - ruhu  
+punicion - fatu  
+punir - fa fatu  
 pyramide - piram  
 pâquerette - english margarita  
 pâte (pulpe, foufou) - fufu  
 pâte - pasta  
 pâte à modeler - plasti paste  
+pénal - fatu di  
 périr - perishe  
 péter - fa pede  
 pétrole (essence) - petra nefte  
@@ -1546,6 +1549,7 @@ tomate - tomate
 tombe (enterrer) - gabur  
 topinambour - masa mula sol hua  
 topographie - topo grafi  
+tortue - tortuga  
 toucher - tochu  
 toupie - rota van gi  
 touriste - safar kegu ja  
@@ -1553,7 +1557,7 @@ Tournesol - sol hua
 toxicologie - toksi logi  
 toxine - bio toksi  
 trace - marke  
-tracteur - trator gi  
+tracteur - trata gi  
 traduction - tarjum she  
 traitement (processe) - chuli  
 traitement d'images - grafi chuli  
@@ -1563,7 +1567,7 @@ traiter - fa chuli
 travail - gung  
 travailler - gung  
 travailleur (ouvrier) - gung ja  
-traîner - trator  
+traîner - trata  
 tremper (faire mariner) - pul shipi  
 tribord - nave raite  
 trois (3) - tri  

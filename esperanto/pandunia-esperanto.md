@@ -150,6 +150,7 @@ bari yum - bario
 barka - gratuli  
 Barti - Baratio  
 barti - Barata  
+baru - urso  
 barude - pulvo  
 basa - sufiĉa  
 basen - baseno  
@@ -1778,8 +1779,8 @@ ton - tono
 topo - regiono  
 tor yum - torio  
 torso - torso  
-trator - treni  
-trator gi - traktoro  
+trata - treni  
+trata gi - traktoro  
 tren - trajno (vagonaro)  
 tren dau - fervojo  
 tri - tri (3)  
@@ -1812,7 +1813,6 @@ un oko di lense - monoklo
 un she sim - monismo  
 unta liga - uniono  
 uran yum - uranio  
-urso - urso  
 uze - uzi  
 ####V - V  
 va - ŭaŭ!  

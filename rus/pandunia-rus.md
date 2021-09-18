@@ -127,6 +127,7 @@ bara mur - барьер
 barde - борода  
 bari fon - ударение  
 bari yum - барий  
+baru - медведь  
 basa - достаточно (довольно)  
 basen - бассейн  
 basha - язык  
@@ -375,7 +376,7 @@ fa - делать
 fa alo - изменять  
 fa argu - аргументи́ровать  
 fa bina - строить  
-fa chuli - обрабо́тать (обращаться)  
+fa chuli - обращаться (обработать, обрабатываться, разбираться)  
 fa dante - откусить  
 fa dika - целиться  
 fa dosil - укрощать (приручить)  
@@ -383,8 +384,9 @@ fa dosil jene - одомашнивать
 fa dus forma - уродовать  
 fa ekso - выгнать (исключить, кроме)  
 fa ekso klus - исключить  
-fa ekso trator - извлекать  
+fa ekso trata - извлекать  
 fa estude - изучать  
+fa fatu - наказать  
 fa fen gata - анализировать  
 fa fobi - страшить  
 fa forma - формировать  
@@ -433,6 +435,7 @@ fase tele - глубокий
 fase tele ta - мелкий  
 fasil - лёгкий (простой)  
 fatige - усталость  
+fatu - наказание  
 fatura - счёт (фактура)  
 faze - фаза  
 fei - полёт  
@@ -485,6 +488,7 @@ galaksi - галактика
 gali yum - галлий  
 Galia - Галлия  
 galope - кентер и галоп  
+gamba - креветка  
 gan gazo - сено  
 ganse - гусь  
 ganum - пшеница  
@@ -789,10 +793,9 @@ krabe - краб
 krake - щель (трещина)  
 kran - кран  
 krepe - блин  
-krevete - креветка  
 kriton - криптон  
 krokodil - крокодил  
-krokroke - лягушка  
+krokro - лягушка  
 krom yum - хром  
 krote - крот  
 kruasan - круассан  
@@ -1466,9 +1469,9 @@ tomate - помидор (томат)
 topo grafi - топография  
 topo metre grafi - карта (план)  
 tor yum - торий  
+trata - волочить  
+trata gi - трактор  
 trati - договор  
-trator - волочить  
-trator gi - трактор  
 tre - очень  
 tri - три (3)  
 tri zong - трезубец  

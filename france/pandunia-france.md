@@ -217,6 +217,7 @@ barka - Félicitations !
 Barti - Inde  
 barti - indien  
 Barti Hai - océan Indien  
+baru - ours  
 barude - poudre à canon  
 basa - assez  
 basen - bassin  
@@ -469,8 +470,9 @@ fa dura - passer
 fa dus forma - défigurer  
 fa ekso kave - excaver  
 fa ekso klus - exclure  
-fa ekso trator - extraire  
+fa ekso trata - extraire  
 fa estude - étudier  
+fa fatu - punir  
 fa fen gata - analyser  
 fa fobi - effrayer  
 fa forma - former  
@@ -527,6 +529,8 @@ fase tele - profond
 fasil - facile  
 fate - fait  
 fatige - fatigue  
+fatu - punicion  
+fatu di - pénal  
 fatura - addition (facture)  
 faze - phase  
 fei - vol  
@@ -587,6 +591,7 @@ Galia - Gaule
 galope - galop  
 galte - faute (erreur)  
 galte di - erroné  
+gamba - crevette  
 gami - mariage  
 gami jan - époux  
 gami ma - belle-mère  
@@ -911,10 +916,9 @@ krake - fente (fissure, fêlure)
 krem - crème  
 krepe - crêpe  
 krepe kan - crêperie  
-krevete - crevette  
 kriton - krypton  
 krokodil - crocodilien  
-krokroke - grenouille  
+krokro - grenouille  
 krom yum - chrome  
 krote - taupe  
 kruasan - croissant  
@@ -1598,9 +1602,10 @@ tomate - tomate
 topo grafi - topographie  
 topo metre grafi - carte (plan)  
 tor yum - thorium  
+tortuga - tortue  
+trata - traîner  
+trata gi - tracteur  
 trati - contract (traité)  
-trator - traîner  
-trator gi - tracteur  
 tri - trois (3)  
 truke - ruse  
 tu - tu  
@@ -1621,7 +1626,6 @@ unta liga - union
 ura - hourra  
 Uran - Uranus  
 uran yum - uranium  
-urso - ours  
 ####V - V  
 va - ouah  
 vaf - chien  

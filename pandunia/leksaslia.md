@@ -140,6 +140,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**bari yum**|eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari|
 |**barka**|hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|
 |**barti**|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
+|**baru**|eng:bear, deu:Bär + hin:भालू (bhālū) ben:ভালুক (bhaluk) + may:beruang|
 |**barude**|ara:fas:urd:(bārūd), hin:बारूद (bārūd), swa:baruti, tur:barut|
 |**basa**|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |**basen**|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
@@ -390,6 +391,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**fate**|fra:fait, por:fato, eng:fact, deu:Fakt, rus:факт (fakt), fas:(fâkt)|
 |**fati**|zho:发 (fā), yue:發 (faat3), wuu:發 (faq4), jpn:発 (hatsu), vie:phát|
 |**fatige**|eng:fra:fatigue, spa:fatiga, por:fadiga, ita:fatica|
+|**fatu**|zho:罚 (fá), yue:罰 (fat6), wuu:罰 (vaq5), jpn:罰 (batsu), kor:벌 (beol), vie:phạt|
 |**fatura**|fra:facture, spa:factura, por:tur:fatura, rus:фактура (faktura), ara: فَاتُورَة‎ (fātūra)|
 |**favor**|eng:spa:por:favor, fra:faveur + rus:фаворитизм (favoritizm)|
 |**faze**|spa:por:ita:may:fase, eng:fra:phase, rus:фаза (faza), pol:faza, fas:(fāz)|
@@ -455,6 +457,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**gali yum**|eng:gallium, fra:gallium, spa:galio, por:gálio, rus:галлий, zho:镓 (jiā), jpn:ガリウム, kor:갈륨, vie:gali, hin:गैलियम, ben:গ্যালিয়াম, may:galium, swa:gali|
 |**galope**|eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)|
 |**galte**|ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),|
+|**gamba**|spa:por:gamba, ara: جَمْبَرِي‎ (jambarī) + swa:kamba|
 |**gamel**|ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia|
 |**gami**|eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (-gamiya)|
 |**gan**|zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon)|
@@ -780,13 +783,12 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**krati**|eng:-cracy, fra:-cratie, spa:por:-cracia, rus:-кратия (kratiya), ara:(-qratiya), may:swa:-krasi|
 |**krem**|fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)|
 |**krepe**|fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|
-|**krevete**|eng:fra:crevette, ita:gamberetto, rus:креветка (krevetka)|
 |**krim**|eng:fra:por:crime, spa:crimen, tgl:krimen|
 |**krita**|eng:cry, spa:por:gritar, fra:crier, rus:крича́ть (kričátʹ)|
 |**kriton**|eng:krypton, fra:krypton, spa:criptón (kriptón), por:krípton, rus:криптон, zho:氪 (kè), jpn:クリプトン, kor:크립톤, vie:kripton, hin:क्रिप्टन, ben:ক্রিপ্টন, may:kripton, swa:kriptoni|
 |**krizi**|eng:crisis, fra:por:crise, deu:Krise, rus:кризис (krizis), spa:crisis|
 |**krokodil**|ell:κροκόδειλος, eng:crocodilian, fra:crocodilien, spa:crocodilio, por:crocodiliano, rus:крокодил (krokodil), jpn:クロコダイル, kor:크로커다일 (keulokeodail)|
-|**krokroke**|eng:croak, deu:gribbit, spa:croac croac, fin:kurr kurr, jpn:ケロケロ (kero kero), tur:vrak vrak, may:krok krok, tgl:kokak kokak|
+|**krokro**|eng:croak, fra:croa croa, spa:por:croac croac, jpn:ケロケロ (kero kero), may:krok krok|
 |**krom yum**|eng:chromium, fra:chrome, spa:cromo, por:crómo, rus:хром, jpn:クロム, kor:크로뮴, vie:crom, hin:क्रोमियम, ben:ক্রোমিয়াম, may:krom, swa:kromi|
 |**krote**|rus:крот (krot), pol:kret|
 |**kruasan**|fra:eng:croissant, por:croassã, spa:cruasán, rus:круассан, jpn:クロワッサン (kurowassan), kor:크루아상 (keruasang), hin:क्रोइसैन (kroisain)|
@@ -1488,8 +1490,8 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**torso**|fra:torse, rus:торс (tors), deu:eng:spa:may:torso|
 |**tortuga**|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|
 |**transe**|eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|
+|**trata gi**|eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|
 |**trati**|eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|
-|**trator gi**|eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|
 |**tre**|fra:très|
 |**tren**|eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|
 |**tri**|eng:three, fra:trois, spa:tres, por:três, rus:три (tri), hin:त्रि-  (tri-), ben:ত্রি- (tri-), may:tri-|
@@ -1516,7 +1518,6 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**un**|fra:un, spa:uno, por:um,una, eng:one|
 |**ura**|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**uran yum**|eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani|
-|**urso**|fra:ours, por:urso, spa:oso, fas:(xers)|
 |**uze**|eng:use, fra:user, spa:por:usar, pol:używać|
 |**va**|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
 |**vaf**|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|

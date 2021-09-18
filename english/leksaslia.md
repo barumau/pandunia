@@ -109,6 +109,7 @@
 |**bari**|heavy (requiring much effort, hard, difficult, serious, important, etc.)|Hindi:भारी (bhārī), Bengali:ভারী (bharī), Malay:berat, Telugu:బరువు (baruvu), Persian: بار‎ (bâr), Greek: βαρύς (barýs) + Korean:바리 (bari)|
 |**barka**|congratulate (bless)|Hausa:barka, Malay:berkah, Turkish:tebrik, Persian:(tabrik), Arabic:Urdu:(mubārak), Swahili:baraka, Yoruba:alubarika|
 |**barti**|Indian|Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)|
+|**baru**|bear|English:bear, deu:Bär + Hindi:भालू (bhālū) Bengali:ভালুক (bhaluk) + Malay:beruang|
 |**barude**|gunpowder|Arabic:Persian:Urdu:(bārūd), Hindi:बारूद (bārūd), Swahili:baruti, Turkish:barut|
 |**basa**|enough (sufficient)|Persian:Urdu:س (bas), Arabic:(bass), Hindi:(bas), Swahili:basi, Spanish:Portuguese:Italian:basta|
 |**basen**|pool (basin, bowl)|English:basin, French:bassin, Russian:бассейн (basseyn), Portuguese:bacia|
@@ -359,6 +360,7 @@
 |**fate**|deed (fact)|French:fait, Portuguese:fato, English:fact, deu:Fakt, Russian:факт (fakt), Persian:(fâkt)|
 |**fati**|supply (dispense, issue, put out)|Mandarin:发 (fā), Cantonese:發 (faat3), Wu-Chinese:發 (faq4), Japanese:発 (hatsu), Vietnamese:phát|
 |**fatige**|fatigue (weariness)|English:French:fatigue, Spanish:fatiga, Portuguese:fadiga, Italian:fatica|
+|**fatu**|punishment (penalty)|Mandarin:罚 (fá), Cantonese:罰 (fat6), Wu-Chinese:罰 (vaq5), Japanese:罰 (batsu), Korean:벌 (beol), Vietnamese:phạt|
 |**fatura**|bill (check, invoice)|French:facture, Spanish:factura, Portuguese:Turkish:fatura, Russian:фактура (faktura), Arabic: فَاتُورَة‎ (fātūra)|
 |**favor**|favor (goodwill)|English:Spanish:Portuguese:favor, French:faveur + Russian:фаворитизм (favoritizm)|
 |**faze**|stage (phase)|Spanish:Portuguese:Italian:Malay:fase, English:French:phase, Russian:фаза (faza), Polish:faza, Persian:(fāz)|
@@ -424,6 +426,7 @@
 |**gali yum**|gallium|English:gallium, French:gallium, Spanish:galio, Portuguese:gálio, Russian:галлий, Mandarin:镓 (jiā), Japanese:ガリウム, Korean:갈륨, Vietnamese:gali, Hindi:गैलियम, Bengali:গ্যালিয়াম, Malay:galium, Swahili:gali|
 |**galope**|canter and gallop|English:gallop, French:galop, Spanish:Portuguese:galope, Russian:галоп (galop)|
 |**galte**|mistake (error, fault, blunder, bug)|Arabic:(ğalṭa), Hindi:ग़लती (ġaltī), Swahili:ghalati, Turkish:galat, Persian:(ğalat),|
+|**gamba**|shrimp (prawn)|Spanish:Portuguese:gamba, Arabic: جَمْبَرِي‎ (jambarī) + Swahili:kamba|
 |**gamel**|camel|Arabic:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) English:camel, Spanish:camello, Portuguese:camelo, Swahili:ngamia|
 |**gami**|marriage (matrimony)|English:-gamy, French:-gamie, Spanish:Portuguese:-gamia, Russian:-гамия (-gamiya)|
 |**gan putau**|raisin|Korean:건포도 (geonpodo), Mandarin:葡萄干 (pútáogān)|
@@ -749,13 +752,12 @@
 |**krati**|rule (reign, government, -ocracy, -archy)|English:-cracy, French:-cratie, Spanish:Portuguese:-cracia, Russian:-кратия (kratiya), Arabic:(-qratiya), Malay:Swahili:-krasi|
 |**krem**|cream|French:crème, Portuguese:creme, Spanish:crema, English:cream, Japanese:クリーム (kurīmu)|
 |**krepe**|pancake|French:English:crêpe, Portuguese:crepe, Spanish:crepa, Turkish:krep, Italian:crespella|
-|**krevete**|shrimp (prawn)|English:French:crevette, Italian:gamberetto, Russian:креветка (krevetka)|
 |**krim**|crime|English:French:Portuguese:crime, Spanish:crimen, Filipino:krimen|
 |**krita**|cry (shout)|English:cry, Spanish:Portuguese:gritar, French:crier, Russian:крича́ть (kričátʹ)|
 |**kriton**|krypton|English:krypton, French:krypton, Spanish:criptón (kriptón), Portuguese:krípton, Russian:криптон, Mandarin:氪 (kè), Japanese:クリプトン, Korean:크립톤, Vietnamese:kripton, Hindi:क्रिप्टन, Bengali:ক্রিপ্টন, Malay:kripton, Swahili:kriptoni|
 |**krizi**|crisis|English:crisis, French:Portuguese:crise, deu:Krise, Russian:кризис (krizis), Spanish:crisis|
 |**krokodil**|crocodillian|Greek:κροκόδειλος, English:crocodilian, French:crocodilien, Spanish:crocodilio, Portuguese:crocodiliano, Russian:крокодил (krokodil), Japanese:クロコダイル, Korean:크로커다일 (keulokeodail)|
-|**krokroke**|frog|English:croak, deu:gribbit, Spanish:croac croac, fin:kurr kurr, Japanese:ケロケロ (kero kero), Turkish:vrak vrak, Malay:krok krok, Filipino:kokak kokak|
+|**krokro**|frog|English:croak, French:croa croa, Spanish:Portuguese:croac croac, Japanese:ケロケロ (kero kero), Malay:krok krok|
 |**krom yum**|chromium|English:chromium, French:chrome, Spanish:cromo, Portuguese:crómo, Russian:хром, Japanese:クロム, Korean:크로뮴, Vietnamese:crom, Hindi:क्रोमियम, Bengali:ক্রোমিয়াম, Malay:krom, Swahili:kromi|
 |**krote**|mole (burrowing animal)|Russian:крот (krot), Polish:kret|
 |**kruasan**|croissant|French:English:croissant, Portuguese:croassã, Spanish:cruasán, Russian:круассан, Japanese:クロワッサン (kurowassan), Korean:크루아상 (keruasang), Hindi:क्रोइसैन (kroisain)|
@@ -1456,8 +1458,8 @@
 |**torso**|trunk (torso)|French:torse, Russian:торс (tors), deu:English:Spanish:Malay:torso|
 |**tortuga**|turtle (tortoise)|English:tortoise, Spanish:tortuga, Portuguese:tartaruga, French:tortue|
 |**transe**|transit (transport, passage)|English:French:Spanish:Portuguese:deu:Malay:trans-, Russian:транс- (trans-)|
+|**trata gi**|tractor|English:Spanish:tractor, French:tracteur, Portuguese:trator, Russian:трактор (traktor), Arabic: تَرَاكْتُور‎ (tarāktūr), Japanese:トラクター (torakutā), Korean:트랙타 (teuraekta), Hindi:ट्रैक्टर (ṭraikṭar), Bengali:ট্র্যাক্টর (ṭrækṭôr), Malay:traktor, Swahili:trekta, Turkish:traktör|
 |**trati**|agreement (treaty)|English:treaty, French:traité, Spanish:Portuguese:tratado, Russian:контракт (kontrakt), Turkish:kontrat, Malay:kontrak|
-|**trator gi**|tractor|English:Spanish:tractor, French:tracteur, Portuguese:trator, Russian:трактор (traktor), Arabic: تَرَاكْتُور‎ (tarāktūr), Japanese:トラクター (torakutā), Korean:트랙타 (teuraekta), Hindi:ट्रैक्टर (ṭraikṭar), Bengali:ট্র্যাক্টর (ṭrækṭôr), Malay:traktor, Swahili:trekta, Turkish:traktör|
 |**tre**|very|French:très|
 |**tren**|train|English:French:train, Spanish:Turkish:tren, Hindi:ट्रेन (ṭren), Portuguese:trem|
 |**tri**|three (3)|English:three, French:trois, Spanish:tres, Portuguese:três, Russian:три (tri), Hindi:त्रि-  (tri-), Bengali:ত্রি- (tri-), Malay:tri-|
@@ -1484,7 +1486,6 @@
 |**un**|one (1)|French:un, Spanish:uno, Portuguese:um,una, English:one|
 |**ura**|cheer (hurrah, hooray)|Russian:ура (ura), Italian:urrà, deu:Spanish:hurra, French:hourra, English:hurrah, Malay:hore, Persian:(hurâ)|
 |**uran yum**|uranium|English:uranium, French:uranium, Spanish:uranio, Portuguese:urânio, Russian:уран, Japanese:ウラン, Korean:우라늄, Vietnamese:urani (uran), Hindi:युरेनियम, Bengali:ইউরেনিয়াম, Malay:uranium, Swahili:urani|
-|**urso**|bear|French:ours, Portuguese:urso, Spanish:oso, Persian:(xers)|
 |**uze**|use (employ, apply)|English:use, French:user, Spanish:Portuguese:usar, Polish:używać|
 |**va**|wow! (gee!)|English:wow, French:ouah, Mandarin:哇 (wā), Japanese:わあ (wā), Korean:와 (wa), Hindi:वाह (vāh), Malay:wah|
 |**vaf**|dog|English:woof, French:ouaf, Russian:гав (gav), Turkish:hav, Mandarin:汪 (wāng), Japanese:ワン (wan)|

@@ -92,7 +92,7 @@ armadura - defa kaske
 armário - almari  
 arquiteto - bina plan ja  
 arquitetura - bina plan  
-arrastar - trator  
+arrastar - trata  
 arroz - ris  
 arsénic - arsen yum  
 arte - shuta  
@@ -217,7 +217,7 @@ calvo - sar kesha hin
 calças - pante  
 cama (leito) - bede  
 cama portátil - kampe bede  
-camarão - krevete  
+camarão (gamba) - gamba  
 camisa - kamisa  
 camomila-romana - roma kamil  
 camomila-vulgar - kamil  
@@ -530,7 +530,7 @@ explodir - be bum
 explosão - bum  
 expor (revelar) - ekso poze  
 exterior - ekso  
-extrair - fa ekso trator  
+extrair - fa ekso trata  
 exército - gun  
 exógeno - ekso jene di  
 ####F - F  
@@ -1038,6 +1038,7 @@ peido - pede
 peixe - peshe  
 pele - pil  
 pena - pero kalam  
+penal - fatu di  
 penso (band-aid) - glu bande  
 pepino - hiyar  
 pepino-africano (kiwano) - korne melon  
@@ -1122,6 +1123,8 @@ Prometeu - Promete
 promécio - promete yum  
 protacnídio - protacini yum  
 prova - dalil  
+punir (castigar) - fa fatu  
+punição (castigo) - fatu  
 purpúreo (roxo) - violeta blu  
 purê de maçã - aple sos  
 pá - bele  
@@ -1214,7 +1217,7 @@ ruténio - rus yum
 rádio - radi yum  
 rádon - radon  
 rápido - rapide  
-rã - krokroke  
+rã - krokro  
 rénio - ren yum  
 ródio - roza yum  
 rótula (patela) - guta kaske oste  
@@ -1306,6 +1309,7 @@ sódio - natri
 tablet - table komputa  
 tangerina (mandarim) - lal oranje  
 tapioca - manioka fufu  
+tartaruga - tortuga  
 taxímetro - taksi metre gi  
 tear - tela gi  
 tecnécio - tehni yum  
@@ -1358,7 +1362,7 @@ trajar (vestir-se) - fuku
 tranquilo (calmo) - shanti di  
 transcorrer - si dura  
 tratar (lidar, procesar) - fa chuli  
-trator - trator gi  
+trator - trata gi  
 trazer - fa lai  
 trigo - ganum  
 truque (fraude) - truke  
@@ -1388,7 +1392,7 @@ universal - un verse di
 união - unta liga  
 Urano - Uran  
 urra - ura  
-urso - urso  
+urso - baru  
 urânio - uran yum  
 usar - aplika  
 ####V - V  

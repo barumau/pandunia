@@ -1040,7 +1040,7 @@ karaoke - karaoke
 karate - karate  
 karateka (karaten harrastaja) - karate ka  
 karavaani (saattue) - karvan  
-karhu - urso  
+karhu - baru  
 Karibia - Karibe  
 karjanhoito - zou agro shuta  
 Karnataka (Intian osavaltio) - Karnada  
@@ -1064,6 +1064,7 @@ kasvot (naama) - muka
 kasvu - raste  
 Katalonia - Katalunia  
 katkaista (leikata) - gata  
+katkarapu - gamba  
 katselulaite (skooppi) - oskope  
 katsoja (tarkkailija) - vide ja  
 kattava - in klus di  
@@ -3270,7 +3271,7 @@ torvi (torvisoitin) - laba
 tosi (aito) - ver  
 toukka - larva  
 toukokuu - mes lima  
-traktori - trator gi  
+traktori - trata gi  
 Transdnistria - Transe Nistre Desha  
 trendi - fashon  
 Trinidad ja Tobago - Trinidade e Tobago  
@@ -3399,7 +3400,7 @@ uloskäynti - chuti mun
 ulospäinsuuntautunut (ekstrovertti) - ekso verse di  
 ulostaa (kakata) - kaka  
 uloste (kakka) - kaka  
-ulosvetäjä - ekso trator gi  
+ulosvetäjä - ekso trata gi  
 ulottuvilla - ten bil  
 ulvoa - ulul  
 ulvonta - ulul  
@@ -3569,8 +3570,8 @@ vetolaatikko - tire sanduku
 vetovoima (šarmi) - charme  
 vety - hidro  
 vetää (kiskoa) - tire  
-vetää (kiskoa, raahata) - trator  
-vetää ulos - fa ekso trator  
+vetää (kiskoa, raahata) - trata  
+vetää ulos - fa ekso trata  
 viedä - fa kite  
 viedä pois (viedä maasta) - ekso mise  
 vielä (yhä, jatkua) - zoku  

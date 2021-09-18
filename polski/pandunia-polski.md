@@ -248,6 +248,7 @@ barka - gratulacje!
 Barti - Indie  
 barti - Indyjski  
 Barti Hai - Ocean Indyjski  
+baru - niedźwiedź  
 barude - proch strzelniczy  
 basa - wystarczający  
 basen - basen  
@@ -1131,6 +1132,7 @@ galope - cwał (galop)
 galte - błąd (pomyłka)  
 galte budi - źle zrozumieć  
 galte di - błędny (niepoprawny)  
+gamba - krewetka  
 Gambia - Gambia  
 gamel - wielbłąd, wielbłądzica  
 gami - małżeństwo, związek małżeński  
@@ -1817,7 +1819,6 @@ krem - krem
 krem di - kremowy  
 krepe - naleśnik  
 krepe kan - naleśnikarnia  
-krevete - krewetka  
 krim - przestępstwo  
 krim di - kryminalny, przestępczy  
 krita - krzyknąć, krzyczeć  
@@ -1825,7 +1826,7 @@ kriton - krypton
 krizi - kryzys  
 krizi - kryzysowy  
 krokodil - krokodyl  
-krokroke - żaba  
+krokro - żaba  
 krom yum - chrom  
 krote - kret  
 kruasan - croissant  
@@ -3305,8 +3306,8 @@ tortuga - żółw
 transe - przejazd, przewóz, tranzyt, transport  
 transe gon di - przekątny  
 Transe Nistre Desha - Naddniestrze  
+trata gi - traktor (ciągnik)  
 trati - porozumienie  
-trator gi - traktor (ciągnik)  
 tren - pociąg  
 tren dau - kolej  
 tren kape ja - porywacz pociągu  
@@ -3363,7 +3364,6 @@ Uran - Uran
 uran yum - uran  
 urdu - urdu  
 Urdun - Jordan  
-urso - niedźwiedź  
 Uruguay - Urugwaj  
 Urushalem - Jerozolima  
 Uzbeki - Uzbekistan  
