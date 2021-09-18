@@ -6,7 +6,7 @@ abies - abeto
 achar di - encurtido  
 achar hiyar - pepinillo  
 achi - estornudar (achís)  
-acinium - actinio  
+acini yum - actinio  
 ada - costumbre (hábito)  
 ada di - ordinario (habitual)  
 adil - justo  
@@ -20,7 +20,6 @@ agresi - ataque
 agresi ja - agresor  
 agresi tabi - agresivo  
 aha - entender (comprender)  
-ainstainium - einsteinium  
 air - aire  
 air bio di - aeróbico  
 air gun - fuerza aérea  
@@ -63,7 +62,7 @@ alumin okside - alúmina
 ama - amor  
 ama di - querido  
 ama ja - amante (enamorado)  
-ama jen - amado (cariño)  
+ama jan - amado (cariño)  
 Amara - amhara  
 amen - honesto (seguramente, amén)  
 amen bil - leal (fiel)  
@@ -72,7 +71,7 @@ amen shin - confiar (contar con)
 Amerika - América  
 Amerika di - americano  
 Amerika Samoa - Samoa Americana  
-amerikium - americio  
+amerika yum - americio  
 amir - orden (mando, comando)  
 amir desha - emirato  
 amir ja - emir  
@@ -143,7 +142,7 @@ aroma - oler (olfatear)
 aroma - olor (aroma)  
 aroma - oler (apestar)  
 aroma melon - melón coreano  
-arsene - arsénico  
+arsen yum - arsénico  
 arte ja - artista  
 Artika - Ártico  
 Artika Hai - océano Ártico  
@@ -163,7 +162,7 @@ Asia - Asia
 askete - asceta  
 asma - asma  
 aspirin - aspirina  
-astate - ástato  
+astatin - ástato  
 astro - cuerpo celeste  
 astro nave - astronave (nave estelar)  
 astro nave ja - astronauta  
@@ -178,7 +177,7 @@ atom - átomo
 audi - oír (escuchar)  
 auro - oro  
 Australia - Australia  
-Austronesia - Austronesia  
+Austronesi - Austronesia  
 auto - mismo (yo)  
 auto di - personal (privado, a medida)  
 auto krati - autocratia (monarquía)  
@@ -250,11 +249,11 @@ Barbuda - Barbuda
 barde - barba  
 bari fon - acento  
 bari metal - metal pesado  
-barium - bario  
+bari yum - bario  
 barka - felicitar  
 barka - ¡Felicitaciones!  
-barti - indio (hindú)  
 Barti - India  
+barti - indio (hindú)  
 Barti Hai - océano Índico  
 barude - pólvora  
 basa - bastante  
@@ -360,8 +359,8 @@ Benin - Benín
 benzin - gasolina (bencina)  
 bere - boina  
 beri - baya  
-berilium - berilio  
-berkelium - berkelio  
+beril yum - berilio  
+berkli yum - berkelio  
 Bermuda - Bermuda  
 bete - remolacha  
 beton - concreto (hormigón)  
@@ -418,9 +417,9 @@ bon sifa ta - calidad (excelencia, mérito, virtud, ventaja)
 bon sin di - auspicioso (propicio)  
 bon vide di - guapo (bien parecido)  
 bon zar - buena suerte  
+bor yum - bohrio  
 bori - aburrimiento  
 bori di - aburrido  
-borium - bohrio  
 boron - boro  
 Bosna e Hercegovina - Bosnia y Herzegovina  
 Bote - Tíbet  
@@ -464,8 +463,8 @@ buyu - baobab
 ####C - C  
 celsius darje - grado Celsius  
 Ceres - Ceres (planeta enano)  
-cerium - cerio  
-cesium - cesio  
+ceres yum - cerio  
+cesi yum - cesio  
 chabi - llave  
 Chade - Chad  
 chai - té  
@@ -529,7 +528,7 @@ Chosen - Corea
 chosen di - coreano  
 chum - beso  
 chun - aldea  
-chupa - chupar (succionar)  
+chupu - chupar (succionar)  
 chuti - escapatoria  
 chuti mun - salida  
 chuze - elegir (escoger, seleccionar)  
@@ -572,7 +571,7 @@ dara tubo - embudo
 darba - golpear (pegar)  
 darja - paso (grado, nivel, rango, calidad, categoría)  
 darja mute - desarrollo  
-darmesitadium - darmstatio  
+darmestadi yum - darmstatio  
 darte - tierra (barro)  
 darte di - sucio  
 darvin sim - darwinismo  
@@ -642,7 +641,7 @@ diorite - diorita
 disha - dirección  
 disha di - directamente  
 diske - disco  
-disprosium - disprosio  
+disprosi yum - disprosio  
 Divehi - Maldivas  
 do - a (hacia)  
 do jin - adelante  
@@ -693,7 +692,7 @@ du sekse di - bisexual
 du she sim - dualismo  
 dua - rezar (orar)  
 dua - rezo (oración)  
-dubnium - dubnio  
+dubna yum - dubnio  
 dudu - insecto  
 duka - pena (tristeza)  
 duka di - triste  
@@ -723,6 +722,7 @@ dute - duda
 e - y  
 e mas - además  
 eglisa - iglesia  
+einstein yum - einsteinium  
 eko - medioambiente (naturaleza)  
 eko di - ambiental (ecológico, natural)  
 eko jene di - salvaje  
@@ -763,15 +763,15 @@ english margarita - margarita común (pascueta)
 eni - qualquier  
 enjener - ingeniero  
 enzim - enzima  
-erbium - erbio  
+erbi yum - erbio  
 Eris - Eris (planeta enano)  
 Eritra - Eritrea  
 esai - ensayo (redacción)  
 eskale - escalar  
 eskale - escalera  
 eskale tana - enredadera  
+eskandi yum - escandio  
 Eskandinavia - Escandinavia  
-eskandium - escandio  
 Eskote - Escocia  
 eskulte - escultura (estatua)  
 eskulte ja - escultor  
@@ -786,8 +786,8 @@ estan - estaño
 estasi - estación  
 estasi di - estático (estacionario)  
 Esti - Estonia  
-estibium - antimonio  
-estrontium - strontium  
+estibi yum - antimonio  
+estronti yum - strontium  
 estude ja - estudiante  
 estude kan - estudio  
 Etiopia - Etiopía  
@@ -797,11 +797,11 @@ eu loga - elogio
 Eurasia - Eurasia  
 eureka - econtrar (hallar)  
 euro - euro  
-Europe - Europa  
-europe baluta - roble común  
-europe di - europeo  
-Europe Unta - Unión Europea  
-europium - europio  
+Europa - Europa  
+europa baluta - roble común  
+europa di - europeo  
+Europa Unta - Unión Europea  
+europa yum - europio  
 ####F - F  
 fa - hacer  
 fa achar - encurtir  
@@ -1056,8 +1056,8 @@ fen - parte (fracción)
 fen di - parcial  
 fen gata - análisis (disección)  
 fendona - contribuir  
-fermium - fermio  
-feru - hierro  
+fermi yum - fermio  
+fero - hierro  
 festa - celebración (fiesta)  
 festa den - día festivo (feriado)  
 figur - representación (figura)  
@@ -1089,7 +1089,7 @@ fizika ja - físico (científico)
 fizika shuta - física  
 flame - inflamación  
 fleche - flecha  
-flerovium - flerovio  
+flerof yum - flerovio  
 flur - flúor  
 fobi - miedo (-fobia)  
 fobi ja - asustador  
@@ -1125,9 +1125,9 @@ foto radi - rayo luminoso
 foto so - fotón  
 France - Francia  
 France Guyana - Guyana Francesa  
-France krepe - crepa (crep, tortilla de trigo)  
-France Polinesia - Polinesia Francesa  
-francium - francio  
+france krepe - crepa (crep, tortilla de trigo)  
+France Polinesi - Polinesia Francesa  
+france yum - francio  
 frem - marco  
 frike - raspar (arañar)  
 frute - fruta  
@@ -1161,12 +1161,12 @@ Gabon - Gabón
 gabur - tumba (sepultura, enterrar)  
 gabur bagi - cementerio  
 gabur sheku - lápida  
-gadolinium - gadolinio  
+gadolin yum - gadolinio  
 gaja - elefante  
 galaksi - galaxia  
 galeri - galería  
+gali yum - galio  
 Galia - Galia  
-galium - galio  
 galope - galope  
 galte - error  
 galte budi - malinterpretar  
@@ -1242,8 +1242,8 @@ geo politi - geopolítica
 geo sismo - terremoto  
 geo termo - geotérmico  
 geo tika - terreno (solar)  
+german yum - germanio  
 Germania - Germania  
-germanium - germanio  
 Gernezi - Guernesey  
 gi - máquina (dispositivo, aparato)  
 giau - enseñar (instruir, doctrina)  
@@ -1288,7 +1288,7 @@ gram - gramo (g)
 granite - granito  
 grave - grava  
 Grenada - Granada  
-Grenadin nesia - Granadinas  
+Grenadin nesi - Granadinas  
 grimas - mueca  
 grom - truenos (estruendo)  
 grom tafun - tormenta  
@@ -1330,9 +1330,9 @@ habar - noticias
 habar gazeta - periódico (diario)  
 habasha - abisinio  
 Habasha - Abisinia  
+hafen yum - hafnio  
 hafiza - conservar (preservar, mantener)  
 hafiza ja - guarda (preservador, conservador)  
-hafnium - hafnio  
 haha - reír  
 hai - mar  
 hai alga - macroalga  
@@ -1381,7 +1381,6 @@ Hartum - Jartum
 has - especial (diferenciado, distinto)  
 has ta - especialización (distinción)  
 hashish - hachís  
-hasium - hasio  
 hata - hasta  
 hata - hasta (también)  
 hatar - peligro  
@@ -1389,15 +1388,15 @@ hatar di - peligroso
 hava - soplar (echar)  
 hava - viento  
 Havai - Hawái  
-Havai nesia - archipiélago de Hawái  
+Havai nesi - archipiélago de Hawái  
 Hayaki - Armenia  
 he - cómo? (eh?)  
 Helen - Grecia  
 Helen - griego (helénico)  
+heli yum - helio  
 helis - espiral (hélice)  
 helis babul - acacia de copa plana  
 helis fei gi - helicóptero  
-helium - helio  
 hem - considerar (reflexionar, pensar en)  
 hem… - hm…  
 hema - carpa (toldo)  
@@ -1407,6 +1406,7 @@ hero - héroe
 hero di - valiente (heroico)  
 herze - hercio (Hz)  
 Hese - Hesse (Hessia)  
+hese yum - hasio  
 hibride - híbrido (mestizo)  
 hidrargente - mercurio  
 hidro - hidrógeno  
@@ -1415,6 +1415,7 @@ hima - nieve
 hima rose - escarcha  
 Himalaya - Himalaya  
 hin - faltar (sin)  
+hindi yum - indium  
 Hindu - hindú  
 Hindu desh - Indostán  
 Hindu din - hinduismo  
@@ -1439,7 +1440,7 @@ hogo sheku - pedernal (sílex)
 hogo tehni - dispositivo pirotécnico  
 hoki - hockey  
 holera - cólera  
-holmium - holmio  
+holme yum - holmio  
 holo - entero (todo)  
 holo grafi - holograma  
 holo ta - totalidad (integridad)  
@@ -1503,8 +1504,7 @@ in mise - importar
 in name - endónimo  
 in she - contenido  
 in verse jan - introvertido  
-indium - indium  
-Indonesia - Indonesia  
+Indonesi - Indonesia  
 insan - ser humano  
 insan di - humano  
 insan haki - derechos humanos  
@@ -1521,7 +1521,7 @@ ion radi - radiación ionizante
 ion radi di - radiactivo  
 Iraki - Iraq  
 Iran - Irán  
-iridium - iridio  
+iris yum - iridio  
 ironi - ironía  
 ironi di - irónico  
 islam - sumisión (rendición)  
@@ -1627,7 +1627,7 @@ kababu - asar
 kabin - cabaña  
 kaboga - calabaza  
 Kabu Verde - Cabo Verde  
-kadmium - cadmio  
+kadim yum - cadmio  
 kafe - café  
 kafe alga - algas pardas  
 kafe kan - café (cafetería)  
@@ -1639,7 +1639,7 @@ kafir - pagano (infiel)
 kaguji - papel  
 kaguji limon - limero  
 kai - abierto  
-Kaiman nesia - islas Caimán  
+Kaiman nesi - islas Caimán  
 kaka - defecar  
 kaka - caca  
 kakau - cacao  
@@ -1653,15 +1653,15 @@ kali - alcalino
 kali guste - amargo  
 kali melon - melón amargo  
 kali oranje - naranjo amargo  
-kalifornium - californio  
-kalium - potasio  
+kali yum - potasio  
+kaliforni yum - californio  
 kalkul - cálculo  
 kalmar - calamar  
-kalse bilor - marmól  
-kalse mate - cal  
-kalse petra - caliza  
+kalsi bilor - marmól  
+kalsi mate - cal  
+kalsi petra - caliza  
+kalsi yum - calcio  
 kalsite - calcita  
-kalsium - calcio  
 kama - lujuria (deseo)  
 kamar - habitación (cuarto, sala, pieza)  
 kamar tal - piso (suelo)  
@@ -1822,7 +1822,7 @@ kode - codificar (cifrar)
 kode - código (cifra)  
 koka - coca  
 koko - pollo  
-Kokos nesia - Islas Cocos (Islas Keeling)  
+Kokos nesi - Islas Cocos (Islas Keeling)  
 kola - cola (refresco de cola)  
 Kolombia - Colombia  
 koloni - colonia  
@@ -1832,7 +1832,7 @@ koloni sim ja - colonialista
 kolum - columna  
 koma - coma  
 komal - blando (mullido)  
-Komoro nesia - Comoros  
+Komoro nesi - Comoros  
 kompani - compañía (empresa, corporación)  
 komputa - computadora (ordenador)  
 komputa di - dígital  
@@ -1856,7 +1856,7 @@ kong fuzi sim - confucianismo
 Konkani - konkani  
 konserte - concierto  
 kontra - estar en contra  
-kopernikium - copérnico  
+koperni yum - copérnico  
 kopi - copia (réplica)  
 kopi haki - derechos de autor (copyright)  
 koral - coral  
@@ -1896,7 +1896,7 @@ krizi - crisis
 krizi - crítico (fundamental)  
 krokodil - crocodilio  
 krokroke - rana  
-kromium - cromo  
+krom yum - cromo  
 krote - topo  
 kruasan - cruasán  
 krus - cruz  
@@ -1915,7 +1915,7 @@ kudi - codo
 kuke - cocinar (preparar)  
 kuke ja - cocinero  
 kuke kamar - cocina  
-Kuke nesia - Islas Cook  
+Kuke nesi - Islas Cook  
 kul - genial  
 kulombe - culombio  
 kultur - cultura  
@@ -1925,7 +1925,7 @@ kupon - cupón (vale)
 kupre - cobre  
 kuran - Corán  
 kurban - sacrificio  
-kurium - curio  
+kuri yum - curio  
 kursi - silla  
 kurva - curva  
 kurva di - curvo  
@@ -1943,7 +1943,6 @@ laji - basura (desechos)
 laji bagi - basural  
 laji tong - basurero  
 laka - laca  
-lal - rojo  
 lal linse - lince rojo (gato montés)  
 lal oranje - mandarina (tangerina)  
 lal salmon - salmón rojo  
@@ -1958,7 +1957,7 @@ lanse - tirar (lanzar, echar, arrojar, aventar)
 lanse grafi - proyección  
 lanse grafi - proyectar  
 lanse she - proyectil (misil)  
-lantanium - lantano  
+lantan yum - lantano  
 larva - larva  
 lashe - dejar  
 lashe she - vestigio (sobrante, residuo)  
@@ -1973,7 +1972,7 @@ Lau - Laos
 lau - viejo (anciano)  
 lau di - laosiano  
 lau jan - viejo (anciano)  
-laurencium - laurencio  
+laurence yum - laurencio  
 lazanya - lasaña  
 lazur - azur (blao)  
 lazur petra - lapislázuli  
@@ -2035,9 +2034,9 @@ lipa side - agacharse
 lis - suave (liso)  
 lisan - lengua  
 liste - lista  
-litium - litio  
+lito yum - litio  
 litre - litro  
-livermorium - livermorio  
+livermor yum - livermorio  
 loba - rábano  
 loga - decir (hablar)  
 loga - habla (palabras)  
@@ -2066,8 +2065,8 @@ lote - lote (grupo)
 lotra - nutria  
 lou - chorrear  
 lou sang - sangrar  
-luka - verde  
 luka - seis (6)  
+luka - verde  
 luka fase - hexaedro (cubo)  
 luka gona - hexágono  
 luka melon - melón verde  
@@ -2083,14 +2082,14 @@ luta - saquear (desvalijar, robar)
 luta ja - ladrón  
 Luter din - luteranismo  
 Luter din ja - luterano  
-lutetium - lutecio  
+lutesi yum - lutecio  
 ####M - M  
 ma - madre (mamá)  
 ma di - maternal  
 Madagasi - Madagascar  
 madagasi di - malgache  
 maf - perdón  
-magesium - magnesio  
+magen yum - magnesio  
 magi - magia  
 magi di - magical  
 magi ja - mago  
@@ -2098,7 +2097,6 @@ Magribi desha - Marruecos
 Magyar - Hungría  
 mahala - barrio (cuartel)  
 mais - maíz  
-maitnerium - meitnerio  
 majang - mahjong  
 majenta - magenta (fucsia)  
 makala - artículo (texto)  
@@ -2116,7 +2114,7 @@ malayali - malayali (malabar, malayalam)
 malayu - malayo  
 Mali - Mali  
 Malta - Malta  
-Malvinas nesia - Islas Malvinas  
+Malvinas nesi - Islas Malvinas  
 mamal - mamífero  
 man - masculino (macho)  
 man ben - hijo  
@@ -2132,7 +2130,7 @@ mango - mango
 mangus - mangostán (jobo de la India)  
 Mani - profeta Mani  
 mani din - maniqueísmo  
-Manin nes - Isla de Man  
+Manin nesi - Isla de Man  
 manioka - yuca (mandioca)  
 manioka fufu - tapioca  
 mantol - capa (manto)  
@@ -2146,10 +2144,10 @@ marche - marcha
 margai - gato tigre (maracayá)  
 margarin - margarina  
 margarita - margarita  
-Marian nesia - Islas Marianas  
+Marian nesi - Islas Marianas  
 marke - marca (huella, mancha)  
 Marse - Marte  
-Marshal nesia - Islas Marshall  
+Marshal nesi - Islas Marshall  
 mas - más  
 mas di - adicional (extra)  
 mas di fen - mayoría  
@@ -2187,6 +2185,7 @@ mau - gato
 maya - maya  
 Mayote - Mayotte (Mahoré)  
 maze - calcetín  
+me - -ésimo  
 meche - partido  
 medal - medallón  
 medan - plaza  
@@ -2209,6 +2208,7 @@ mega vate - megavatio
 megi - nube  
 Mehiko - México  
 Mehiko siti - Ciudad de México  
+meitner yum - meitnerio  
 melodi - melodioso  
 melodi - melodía  
 melon - melón  
@@ -2217,6 +2217,7 @@ meme - oveja
 memo - memoria  
 memo bina - monumento  
 memo note - memorándum (nota)  
+mendelevi yum - mendelevio  
 meninge - meninge  
 meninge flame - meningitis  
 mentor - consejero (asesor)  
@@ -2259,7 +2260,7 @@ migra - migración
 mikro - micro-  
 mikro bio - microbio  
 mikro bio logi - microbiología  
-Mikronesia - Micronesia  
+Mikronesi - Micronesia  
 mikroskope - microscopio  
 mili - mili-  
 mili gram - miligrama  
@@ -2316,7 +2317,7 @@ Moldova - Moldova
 mole - mol  
 molekul - molécula  
 moli - jazmín  
-moliden - molibdeno  
+moliden yum - molibdeno  
 moluske - molusco  
 Monako - Mónaco  
 Mongol - Mongolia  
@@ -2330,7 +2331,7 @@ mos - musgo
 mos di - musgoso  
 mosim - estación (temporada)  
 moskite - mosquito  
-moskovium - moscovio  
+moskva yum - moscovio  
 moto - motor  
 moto gar - automóvil (coche)  
 moto sikle - motocicleta  
@@ -2410,8 +2411,8 @@ nasi sim ja - nacionalista
 nasi sosi sim - nazismo  
 nasi sosi sim - socialismo nacional  
 nasi sosi sim ja - Nazi  
-natre - sodio  
 natre bilor - natrón  
+natri - sodio  
 nau - cerebro  
 nau di - cerebral  
 nau hin - descerebrado  
@@ -2437,17 +2438,17 @@ nen - año
 nen festa - aniversario  
 nen mes den - fecha  
 nenufar - nenúfar (lirio de agua)  
-neodimium - neodimio  
+neodim yum - neodimio  
 neon - neón  
 Nepal - Nepal  
 Neputun - Neptuno  
-neputunium - neptunio  
+neputun yum - neptunio  
 nerve - nervio  
 nerve di - neural  
 nerve pati - neuropatía  
 nerve selu - neurona  
-nesia - isla  
-nesia jama - archipiélago  
+nesi - isla  
+nesi jama - archipiélago  
 nete - red  
 nete dona - cargar (subir)  
 nete gete - descargar  
@@ -2458,14 +2459,14 @@ nia - intención (intento)
 niche - parte inferior  
 niche di - inferior  
 nide - nido (avispero, hormiguero, ratonera)  
-nihonium - nihonio  
 Nijer - Níger  
 Nikaragua - Nicaragua  
 nikel - níquel  
 nilon - nailon (nilón)  
-niobium - niobio  
+niobi yum - niobio  
 Nipon - Japón  
 nipon di - japonés  
+nipon yum - nihonio  
 nish - hornacina  
 Nistre - Dniéster  
 nitre - nitrógeno  
@@ -2473,7 +2474,7 @@ Niue - Niue
 niuton - newton (N)  
 no - no  
 no yau di - innecesario  
-nobelium - nobelio  
+nobel yum - nobelio  
 nobi - no binario (género)  
 noche - noche  
 noche mode - modo nocturno  
@@ -2496,7 +2497,7 @@ Norde Chosen - Corea del Norte
 norde di - norteño  
 Norde Kipris - Chipre del Norte  
 Norde Makedonia - Macedonia del Norte  
-Norfolke nes - Isla Norfolk  
+Norfolke nesi - Isla Norfolk  
 Norge - Noruega  
 norge basha - idioma noruego  
 norma - norma  
@@ -2541,7 +2542,7 @@ oko sui - lágrima
 oko sui gas - gas lacrimógeno  
 oksi - oxígeno  
 okside - óxide  
-Olande nesia - islas Aland  
+Olande nesi - islas Aland  
 Oman - Omán  
 onda - onda  
 Onduras - Honduras  
@@ -2563,7 +2564,7 @@ osidian - obsidiana
 oskur - oscuro  
 osman - otomana  
 Osman Imperi Desha - Imperio otomano  
-osmium - osmio  
+osmi yum - osmio  
 osmos - ósmosis  
 oste - hueso  
 oste jama - esqueleto (armazón)  
@@ -2579,7 +2580,7 @@ pai - pastel (pay)
 pake - paquete  
 Pakistan - Pakistán  
 paksi - pájaro (ave)  
-paladium - paladio  
+paladi yum - paladio  
 Palau - Palaos  
 palme - palmera  
 pan - todo  
@@ -2714,7 +2715,7 @@ pirate sim ja - partidario de infracción de copyright
 pisea - pícea  
 pish - pis (meados)  
 pistol - pistola  
-Pitkerne nesia - Islas Pitcairn  
+Pitkerne nesi - Islas Pitcairn  
 piza - pizza  
 piza kan - pizzería  
 plan - plan  
@@ -2736,7 +2737,7 @@ Platon sim ja - platonista
 plazma - plasma (gas ionizado)  
 plumbe - plomo  
 Pluton - Plutón  
-plutonium - plutonio  
+pluton yum - plutonio  
 poker - póquer  
 polau - pilaf (pulaw)  
 poli - poli-  
@@ -2751,7 +2752,7 @@ poli mana di - ambiguo
 poli mar ta - frecuencia  
 poli nasi di - multinacional  
 poli ta - cantidad  
-Polinesia - Polinesia  
+Polinesi - Polinesia  
 polis - policía  
 polis ja - policía  
 politi - gobierno  
@@ -2760,9 +2761,9 @@ politi ja - político (administrador)
 politi logi - ciencia política  
 politi lon - política  
 politi mode - régimen  
-polonium - polonio  
 Polska - Polonia  
 polska basha - idioma polaco  
+polska yum - polonio  
 pompe - bombear  
 ponte - apuntar (indicar)  
 ponte fleche - indicador (cursor)  
@@ -2791,9 +2792,9 @@ pote chamacha - cucharón (cazo)
 pote ja - alfarero  
 pote shuta - alfarería  
 poze - pose (postura)  
-praseodimium - praseodimio  
 prati - práctica  
 prati di - práctico  
+prazedim yum - praseodimio  
 presa - presión  
 presa gi - prensa  
 prezidente - presidente  
@@ -2803,9 +2804,10 @@ profesor - profesor
 program - programa  
 program ja - programador  
 projete - proyecto  
-prometium - prometio  
+Promete - Prometeo  
+promete yum - prometio  
 proses - proceso (procedimiento)  
-protacinium - proactinio  
+protacini yum - proactinio  
 puding - pudín  
 puja - adoración (veneración, culto)  
 puja kan - templo  
@@ -2838,8 +2840,8 @@ radi - radiación
 radi geter - receptor de radio  
 radi metre gi - radiómetro  
 radi miser - radiotransmisor  
+radi yum - radio  
 radio - radio  
-radium - radio  
 radon - radón  
 rai - opinión (juicio, consideración)  
 raite - lado derecho  
@@ -2874,8 +2876,9 @@ re sikle - reciclar
 re zoku - continuar (reanudar)  
 rebel - rebelión (sublevación)  
 redi - listo (preparado)  
-rengenium - roentgenio  
-renium - renio  
+Ren - Rin  
+ren yum - renio  
+rentegen yum - roentgenio  
 reporte - informe (reporte, noticia)  
 reseta - instrucciones (receta)  
 reside - reconocimiento (recibo)  
@@ -2901,7 +2904,6 @@ ritim - ritmo
 rivo - rio  
 rivo kinar - ribera  
 robote - robot (bot)  
-rodium - rodio  
 roke kursi - mecedora  
 roke muzika - rock  
 rokete - cohete (misil)  
@@ -2930,9 +2932,11 @@ rota van gi - trompo
 roza - rosa  
 roza rang - rosa  
 roza salmon - salmón rosado  
+roza yum - rodio  
 Ruanda - Ruanda  
+rubi - rojo  
 rubi - rubí  
-rubidium - rubidio  
+rubi yum - rubidio  
 ruhu - psique  
 ruhu di - mental (psíquico)  
 ruhu logi - psicología  
@@ -2942,11 +2946,11 @@ ruke - espalda (lomo)
 ruke sake - mochila  
 Rundi - Burundi  
 rupa - aspecto  
+rus yum - rutenio  
 Rusia - Rusia  
 rusia basha - idioma ruso  
 rute - ruta  
-rutenium - rutenio  
-ruterfordium - rutherfordio  
+ruterfor yum - rutherfordio  
 rutina - rutina (hábito)  
 ####S - S  
 saba - razón (causa)  
@@ -3006,7 +3010,7 @@ sama blu - celeste (azul celeste)
 sama di - celeste (celestial)  
 sama hal - clima (tiempo)  
 sama kinar - horizonte  
-samarium - samario  
+samari yum - samario  
 Samoa - Samoa  
 sana - producción  
 sana basha - idioma artificial (lengua construida, conlang)  
@@ -3059,7 +3063,7 @@ sekur kopi - copia de seguridad
 sekur nomer - número de identificación personal  
 sela - deber (se recomienda)  
 sela loga - consejo  
-selenium - selenio  
+selen yum - selenio  
 selge - acelga  
 selu - célula  
 selu logi - citología  
@@ -3084,7 +3088,7 @@ serva - servir
 serve - servicio  
 serve ja - criado (sirviente)  
 sesam - ajonjolí (sésamo)  
-Seshel nesia - Seychelles  
+Seshel nesi - Seychelles  
 shaka - rama  
 shakal - chacal  
 shal - bufanda (chal)  
@@ -3168,7 +3172,7 @@ si ja - ser
 si membre - pertenecer (ser miembro de)  
 sian - cian  
 Sibiria - Siberia  
-siborgium - seaborgio  
+siborge yum - seaborgio  
 side - sentarse  
 side loka - silla (montura)  
 sifa - cualidad (atributo, descripción)  
@@ -3183,7 +3187,7 @@ sili - serie
 sili nete - cota de malla  
 sili sili - cadena  
 sili tika - eslabón  
-silikium - silicio  
+silis - silicio  
 silko - seda  
 sim - ideología (doctrina, -ismo)  
 simple - simple  
@@ -3221,14 +3225,14 @@ sofita - sabiduría
 soi - soja  
 soi milke - leche de soja  
 soi sos - salsa de soja  
-soka - buscar  
+soki - buscar  
 sol - sol  
 sol chati - parasol  
 sol estasi - solsticio  
 sol hua - girasol  
 sol sentaure - abrepuño  
 sol sistem - sistema solar  
-Solomon nesia - Islas Salomón  
+Solomon nesi - Islas Salomón  
 Somal - Somalia  
 Somal Desha - Solamilandia  
 sona - sueño  
@@ -3266,7 +3270,7 @@ Sude Amerika - Sudamérica
 Sude Chosen - Corea del Sur  
 sude di - sureño  
 Sude Iria (Alonia) - Osetia del Sur  
-Sude Jorjia e Sudi Sandviche nesia - Georgias del Sur y Sándwich del Sur  
+Sude Jorjia e Sudi Sandviche nesi - Georgias del Sur y Sándwich del Sur  
 Sude Sudan - Sudán del Sur  
 sueda - sudor  
 sueda di - sudoroso (sudado)  
@@ -3285,7 +3289,7 @@ sukar - azúcar
 sukar bete - remolacha azucarera  
 sukar di - azucarado  
 sukar gana - caña de azúcar  
-sulfur - azufre  
+sulfu - azufre  
 sultan - poder (autoridad, competencia)  
 sultan desha - sultanato  
 sultan ja - gobernante (soberano)  
@@ -3315,8 +3319,9 @@ sushi - sushi
 sutur - costura (sutura)  
 Sven - Suecia  
 ####T - T  
+ta - -idad  
 tabaku - tabaco  
-tabi - disposición (naturaleza, carácter, -ivo, -idad)  
+tabi - disposición (naturaleza, carácter, -ivo)  
 table - tabla (lámina, plancha)  
 table komputa - tablet  
 table yo data - tabular  
@@ -3333,16 +3338,16 @@ taksi - tasa (precio, cuota, tarifa)
 taksi kar - taxi (cab)  
 tal - fondo  
 tal di - bajo  
-tal moku - arbusto (mata)  
+tal moka - arbusto (mata)  
 tal tela - alfombra (tapete)  
-talium - talio  
+tali yum - talio  
 tam - codicioso (avaro)  
 tamar - dátil  
 Tamil - tamil  
 tana - tallo  
 tanah - Tanaj (Biblia hebrea)  
 tanke - tanque (cisterna)  
-tantalum - tántalo  
+tantal yum - tántalo  
 tanur - horno  
 Tanzania - Tanzania  
 tapa - tapón (tapa)  
@@ -3355,10 +3360,10 @@ tatike - táctica (estrategia)
 tatu - tatuaje  
 tava - sartén  
 taza - fresco  
-tehnetium - tecnetio  
 tehni - técnica  
 tehni krati - tecnocracia  
 tehni logi - tecnología  
+tehni yum - tecnetio  
 tela - tela (paño, tejido)  
 tela gi - telar  
 tele - lo lejos  
@@ -3368,8 +3373,8 @@ tele fon shuta - telefonía
 tele ta - distancia  
 tele vide gi - televisión  
 teleskope - telescopio  
+telu yum - telurio  
 Telugu - télugu  
-telurium - telurio  
 tema - tema  
 tema - tratar de  
 tema name - título  
@@ -3377,14 +3382,14 @@ ten - tener (mantener, detener)
 ten bil - accesible  
 ten fasil ta - fácil acceso (accesibilidad)  
 Tenesi - Tennessee  
-tenesium - teneso  
+tenesi yum - teneso  
 tenis - tennis  
 tense - tenso  
 tenta - tentar (seducir)  
 teori - teoría  
 tepe - cinta adhesiva  
 tera - tera-  
-terbium - terbio  
+terbi yum - terbio  
 tercha - oblicuo (torcido)  
 termo - temperatura  
 termo metre gi - termómetro  
@@ -3409,7 +3414,7 @@ tire sanduku - cajón (gaveta)
 tire yo milke - ordeñar  
 tire yo pil - quitar (pelar)  
 tisa - nueve (9)  
-titanium - titanio  
+titan yum - titanio  
 titi - seno (teta)  
 tochu - tocar (rozar)  
 tochu sense - palpar (tocar)  
@@ -3425,7 +3430,7 @@ Tonga - Tonga
 topo - región (zona)  
 topo grafi - topografía  
 topo metre grafi - mapa  
-torium - torio  
+tor yum - torio  
 torso - torso  
 tortuga - tortuga  
 transe - tránsito (transporte)  
@@ -3449,7 +3454,7 @@ tualete - inodoro (wáter, retrete)
 tubo - tubo  
 tuh - escupir (bufar)  
 tul - herramienta  
-tulium - tulio  
+tule yum - tulio  
 tulpan - tulipán  
 tumen - ustedes  
 tumen su - vuestro  
@@ -3477,6 +3482,7 @@ uma bichi - fusta
 umami - sabroso (umami)  
 un - uno (1)  
 un deu sim - monoteismo  
+un di - único (únicamente, solo)  
 un mana di - inequívoco  
 un mar - una vez  
 un me - primero (numbre uno)  
@@ -3484,8 +3490,7 @@ un oko di lense - monóculo
 un rang di - monocromático  
 un she sim - monismo  
 un verse di - universal  
-unike - único (únicamente, solo)  
-unike jan di - solo (aislado, solitary, soltero)  
+un zai di - solo (aislado, solitary, soltero)  
 unta - unidad (unión)  
 Unta Arabi Amir Desha (UAA) - Emiratos Árabes Unidos  
 Unta Desh Da Amerika (UDA) - Estados Unidos de América  
@@ -3493,15 +3498,15 @@ unta di - unido
 unta liga - unión  
 ura - hurra  
 Uran - Urano  
-uranium - uranio  
+uran yum - uranio  
 urdu - urdu  
 Urdun - Jordania  
 urso - oso  
 Uruguay - Uruguay  
-use - usar (aplicar)  
-use bil di - utilizable (disponible)  
-use ja - usuario  
-use ja name - nombre de usuario  
+uze - usar (aplicar)  
+uze bil di - utilizable (disponible)  
+uze ja - usuario  
+uze ja name - nombre de usuario  
 Uzbeki - Uzbekistán  
 ####V - V  
 va - guau (vaya)  
@@ -3511,14 +3516,14 @@ vagina flame - vaginitis
 vakil - representar  
 vali - valle  
 vali susan - convalaria (lirio de los valles)  
-Valis e Futuna nesia - Wallis y Futuna  
+Valis e Futuna nesi - Wallis y Futuna  
 valu - valor  
 vampir - vampiro  
 vampir ohtopus - calamar vampiro  
 van - diversión  
 van di - divertido  
 van gi - jugete  
-vanadium - vanadio  
+vanadi yum - vanadio  
 vanila - vainilla  
 Vanuatu - Vanuatu  
 var - día de semana  
@@ -3582,7 +3587,7 @@ violeta - violeta
 violeta blu - morado (púrpura)  
 virje - virgen  
 virje di - virginal  
-Virjin nesia - Islas Vírgenes  
+Virjin nesi - Islas Vírgenes  
 virus - virus  
 virus logi - virología  
 vise - vice- (alternativa, sustituto)  
@@ -3613,7 +3618,7 @@ ya - sufijo para regiónes y sustantivos abstractos
 Yahve - Yahvé (Jehová)  
 yake - yac  
 yaki - aproximadamente  
-yaki nes - península  
+yaki nesi - península  
 yam - comer (bebir)  
 yam fito - verdura (legumbre)  
 yam kamar - comedor  
@@ -3650,8 +3655,8 @@ yong petra - lava
 yumor - humor (gracia)  
 yumor di - humorístico (gracioso, cómico)  
 yumor ja - humorista  
-yuterbium - iterbio  
-yutrium - itrio  
+yuter yum - itrio  
+yuterbi yum - iterbio  
 ####Z - Z  
 zai - existir (actualmente)  
 zai den - hoy  
@@ -3688,7 +3693,7 @@ zinke - cinc
 zipa - cremallera  
 zira - comino  
 zirkon - circón  
-zirkonium - circonio  
+zirkon yum - circonio  
 zizi - chisporrotear  
 zoku - todavía (aún)  
 zoku di - continuo (analógico)  

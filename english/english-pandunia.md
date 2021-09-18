@@ -1,4 +1,6 @@
 # english-pandunia
+-ness, (-ity) - ta  
+-th (ordinal suffix) - me  
 @ symbol - adres zi  
 ####A - A  
 a couple of - du o tri  
@@ -22,7 +24,7 @@ acid - suan mate
 acknowledge - fa reside  
 acorn - baluta frute  
 act (play a role) - fa rol  
-actinium - acinium  
+actinium - acini yum  
 action (act, deed) - karma  
 activate (enable, turn on, trigger) - fa karma  
 active (on, enabled) - karma ja  
@@ -73,7 +75,7 @@ air - air
 airforce - air gun  
 airplane - fei gi  
 airport (aeroport) - air porte  
-Aland Islands - Olande nesia  
+Aland Islands - Olande nesi  
 Alaska - Alaska  
 Albania - Chipe  
 alcohol - alkol  
@@ -87,7 +89,7 @@ alligator - korte krokodil
 allophone - alo fon  
 allow (permit) - fa halal  
 almond - badam  
-alone (lonely, isolated, solitary, single) - unike jan di  
+alone (lonely, isolated, solitary, single) - un zai di  
 alphabet - zi sili  
 already (completed action) - fin  
 also (too) - e mas  
@@ -104,7 +106,7 @@ America (continent) - Amerika
 American (US) - UDA di  
 American - Amerika di  
 American Samoa - Amerika Samoa  
-americium - amerikium  
+americium - amerika yum  
 Amerindian (Native American) - asal Amerka jan  
 Amhara (an Ethiopian ethnic group and language) - Amara  
 among (amid, between) - na medi  
@@ -143,7 +145,7 @@ antenna (aerial) - antena
 antichrist - an mesi  
 Antigua - Antigua  
 Antigua and Barbuda - Antigua e Barbuda  
-antimony - estibium  
+antimony - estibi yum  
 antonym - an nam  
 anus - anus  
 anvil - metal bede  
@@ -165,7 +167,7 @@ arachnophobia - arane fobi
 arboretum - moka jong parke  
 archer - arka ja  
 archery - arka shuta  
-archipelago (island chain) - nesia jama  
+archipelago (island chain) - nesi jama  
 architect - bina plan ja  
 architecture - bina plan  
 Arctic - Artika  
@@ -189,7 +191,7 @@ armor (shielding) - defa kaske
 army - gun  
 aromantic - an romanse  
 arrow (bolt) - fleche  
-arsenic - arsene  
+arsenic - arsen yum  
 artichoke thistle (cardoon) - kardon karchof  
 article (writing) - makala  
 artificial - sana di  
@@ -212,7 +214,7 @@ associate - liga
 assume (presuppose) - chen ga  
 Assur - Ashur  
 Assyria - Ashur desha  
-astatine - astate  
+astatine - astatin  
 asthma - asma  
 astrobiology - kosmo bio logi  
 astronaut - astro nave ja  
@@ -229,7 +231,7 @@ atom - atom
 attachment (affix) - fikse  
 attack (assault) - fa agresi  
 attack (assault, aggression, hostility) - agresi  
-attain (accomplish, indicates the current position) - leu  
+attain (accomplish, indicates the current position) - le  
 attraction (fascination, -philia) - fili  
 attribute (charasteristic, quality, feature, description, property) - sifa  
 attributive postposition - di  
@@ -238,7 +240,7 @@ auspicious (promising) - bon sin di
 Australia - Australia  
 Australian Aboriginal - asal Australia jan  
 Austria - Ostria  
-Austronesia - Austronesia  
+Austronesia - Austronesi  
 authority (power to give orders) - amir haki  
 autocracy (monarchy) - auto krati  
 autonomous - auto nomi di  
@@ -296,7 +298,7 @@ Barbados - Barbados
 barbarian - barbar  
 barbecue (grill) - kababu  
 Barbuda - Barbuda  
-barium - barium  
+barium - bari yum  
 barley - jau  
 barometer - air presa metre gi  
 barrel (can, cask) - tong  
@@ -367,12 +369,12 @@ beneficial (good) - eu
 Bengali language (Bangla) - bangla basha  
 Benin - Benin  
 beret - bere  
-berkelium - berkelium  
+berkelium - berkli yum  
 Berlin - Berlin  
 Bermuda - Bermuda  
 berry - beri  
 berth (couchette) - kush loke  
-beryllium - berilium  
+beryllium - beril yum  
 Bhutan - Lung Desha  
 Bible - Biblia  
 Biblical - Biblia di  
@@ -405,7 +407,7 @@ blacklist - haram liste
 blacksmith (iron forger) - metal jang ja  
 blast furnace - gau tanur  
 bleed - lou sang  
-blini - rusia krepe  
+blini - rus krepe  
 blog (web log) - bloge  
 blood - sange  
 bloodless - sange hin  
@@ -421,7 +423,7 @@ bodily (corporal) - badan di
 body - badan  
 bodybuilding - muskul bina  
 bogeyman - bubu  
-bohrium - borium  
+bohrium - bor yum  
 boil (be boiled) - be boli  
 boil (cook) - boli  
 bok choy - baku choi  
@@ -506,7 +508,7 @@ burn (cause to burn) - fa hogo
 burst (pop) - parche kai  
 Burundi - Rundi  
 bus - bus  
-bush (shrub) - tal moku  
+bush (shrub) - tal moka  
 business (commercial activity) - biznes  
 businessperson (businessman) - biznes ja  
 bust (bosom) - buste  
@@ -525,19 +527,19 @@ cabin (booth) - kabin
 cable (wire, line) - eletro lin  
 Cabo Verde (Cape Verde) - Kabu Verde  
 cactus - katus  
-cadmium - kadmium  
-caesium - cesium  
+cadmium - kadim yum  
+caesium - cesi yum  
 cafe (coffee shop) - kafe kan  
 cage - kane kasa  
 cake (cookie) - keke  
 calabash - sui kaboga  
 calcite - kalsite  
-calcium (Ca) - kalsium  
+calcium (Ca) - kalsi yum  
 calculate - fa hisabu  
 calculation - hisabu  
 calculus (manipulation of symbolic expressions) - kalkul  
 calendar - kalenda  
-californium - kalifornium  
+californium - kaliforni yum  
 caliph - halifa  
 caliphate - halifa desha  
 call (name) - fa name  
@@ -597,7 +599,7 @@ cauldron - dai pote
 cause (be the cause for) - fa saba  
 cause and effect - karma e asar  
 cave - gua  
-Cayman Islands - Kaiman nesia  
+Cayman Islands - Kaiman nesi  
 ceiling - kamar gau  
 celebrate (party) - fa festa  
 celestial (heavenly) - sama di  
@@ -614,7 +616,7 @@ century - sento nen
 ceramic - serami  
 cerebral - nau di  
 Ceres (dwarf planet) - Ceres  
-cerium - cerium  
+cerium - ceres yum  
 Chad - Chade  
 chain - sili sili  
 chain mail - sili nete  
@@ -674,7 +676,7 @@ Christ (messiah) - mesi
 Christian - mesi din ja  
 Christianity - mesi din  
 Christmas - mesi jene  
-chromium - kromium  
+chromium - krom yum  
 chronic (lasting) - dura di  
 chum salmon - baku salmon  
 church - eglisa  
@@ -728,7 +730,7 @@ Coca-Cola - Koka Kola
 cocktail - mishe alkol  
 cocoa - kakau  
 coconut tree - yezi  
-Cocos (Keeling) Islands - Kokos nesia  
+Cocos (Keeling) Islands - Kokos nesi  
 cod - bakalau  
 code (cipher) - kode  
 coerce (use force, compel) - fa paka  
@@ -766,7 +768,7 @@ common language - kon basha
 communicate (inform about) - fa kon sabe  
 communism - kon sana sim  
 communist - kon sana sim ja  
-Comoros - Komoro nesia  
+Comoros - Komoro nesi  
 companion (partner, sidekick) - late jan  
 company (corporation) - kompani  
 compass (magnetized needle) - ponte pin  
@@ -813,9 +815,9 @@ contribute - fendona
 conventional (customary, traditional) - suna di  
 cook (chef) - kuke ja  
 cook (prepare food) - kuke  
-Cook Islands - Kuke nesia  
+Cook Islands - Kuke nesi  
 cool - kul  
-copernicium - kopernikium  
+copernicium - koperni yum  
 copper - kupre  
 copy (duplicate, replica) - kopi  
 copy (replicate) - fa kopi  
@@ -862,7 +864,7 @@ crafty (dexterous) - jang di
 crash (shut down, terminate) - be harabu  
 cream - krem  
 creamy (cream colored) - krem di  
-crepe - France krepe  
+crepe - france krepe  
 crib - bebe bede  
 crime - krim  
 criminal - krim di  
@@ -892,7 +894,7 @@ cultivate (farm) - nong
 culture - kultur  
 cumin (jeera) - zira  
 cupboard (closet, cabinet, wardrobe) - almari  
-curium - kurium  
+curium - kuri yum  
 current (contemporary, present-day) - zai zaman di  
 curse (damn!) - lana  
 curtain - parde  
@@ -923,8 +925,8 @@ danger (peril) - hatar
 dangerous (perilous) - hatar di  
 Danish - Danske  
 dark (dim) - oskur  
-darling (honey) - ama jen  
-darmstadtium - darmesitadium  
+darling (honey) - ama jan  
+darmstadtium - darmestadi yum  
 Darwinism - darvin sim  
 Darwinist - darvin sim ja  
 data (numeric information) - data  
@@ -1077,7 +1079,7 @@ dry out - fa gan
 dry season - gan mosim  
 dualism - du she sim  
 dubious (suspicious, unbelievable) - dute bil  
-dubnium - dubnium  
+dubnium - dubna yum  
 duck - bata  
 dump (junk yard) - laji bagi  
 dumpling (ravioli, pelmeni) - pelmen  
@@ -1090,7 +1092,7 @@ dust (powder) - fun
 dye - rang mate  
 dynamite - dinamite  
 dysfunction (malfunction) - dus funsi  
-dysprosium - disprosium  
+dysprosium - disprosi yum  
 dystheism (maltheism) - dus deu sim  
 dystopia - dus topo  
 ####E - E  
@@ -1121,7 +1123,7 @@ eggplant (aubergine, brinjal) - bedinjan
 Egypt - Misri  
 Egyptian - misri di  
 eight (8) - bati  
-einsteinium - ainstainium  
+einsteinium - einstein yum  
 El Salvador - Salvador  
 elapse (pass by, go by) - si dura  
 elastic - elasti  
@@ -1159,7 +1161,7 @@ engineer - enjener
 England - English  
 English - english di  
 English daisy - english margarita  
-English oak - europe baluta  
+English oak - europa baluta  
 enjoy (play) - be van  
 enough (sufficient) - basa  
 enter (get in) - be in  
@@ -1174,7 +1176,7 @@ equalize (balance, even out) - fa par
 equator - geo par lin  
 Equatorial Guinea - Geo Par Lin Ginia  
 equilibrium (balance) - par veze ta  
-erbium - erbium  
+erbium - erbi yum  
 erect (standing) - lipa di  
 erect - fa libu  
 Eris (dwarf planet) - Eris  
@@ -1193,11 +1195,11 @@ etymology - loga asal
 eugenics - eu jene sim  
 Eurasia - Eurasia  
 euro (€) - euro  
-Europa - Europa  
-Europe - Europe  
-European - europe di  
-European Union (EU) - Europe Unta  
-europium - europium  
+Europa - Europa luna  
+Europe - Europa  
+European - europa di  
+European Union (EU) - Europa Unta  
+europium - europa yum  
 eutheism - eu deu sim  
 evaluate (review, criticise) - fa piping  
 evaluation (criticism) - piping  
@@ -1262,7 +1264,7 @@ faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirde
 fairy (faery) - pari  
 fairy tale - pari kata  
 fairyland (paradise) - pari desha  
-Falkland Islands (Malvinas) - Malvinas nesia  
+Falkland Islands (Malvinas) - Malvinas nesi  
 fall - pade  
 fallen - pade di  
 false (fake) - false  
@@ -1308,7 +1310,7 @@ fence - kinar baryer
 fender - fan defa ban  
 ferment (leaven) - be bio mute  
 fermented - bio mute di  
-fermium - fermium  
+fermium - fermi yum  
 fern - parne  
 fertilize - fa darte bon  
 fertilizer - darte bon ja  
@@ -1351,7 +1353,7 @@ flag (banner) - bandera
 flat (planar) - plate di  
 flat-earther - plate geo sim ja  
 flatbread (chapati, roti) - chapati  
-flerovium - flerovium  
+flerovium - flerof yum  
 fletcher - fleche ja  
 flight - fei  
 flint - hogo sheku  
@@ -1403,7 +1405,7 @@ fox - huli
 frame - frem  
 France - France  
 franchise (right to vote) - vote haki  
-francium - francium  
+francium - france yum  
 Francophone (French speaking) - france fon di  
 Francophonie - France fon dunia  
 free (liberate) - huru di  
@@ -1411,7 +1413,7 @@ free (unchained) - huru
 freedom (liberty) - huru ta  
 freeze (get frozen) - be ais  
 French Guiana - France Guyana  
-French Polynesia - France Polinesia  
+French Polynesia - France Polinesi  
 frequency - poli mar ta  
 fresh - taza  
 Friday - var lima  
@@ -1435,11 +1437,11 @@ fusion (amalgamation) - yong liga
 future time - pos zaman  
 ####G - G  
 Gabon - Gabon  
-gadolinium - gadolinium  
+gadolinium - gadolin yum  
 gains and losses (pros and cons) - daku shitu  
 galaxy - galaksi  
 gallery (exhibition hall) - galeri  
-gallium - galium  
+gallium - gali yum  
 gallop - nelu di galope  
 Gambia - Gambia  
 game - gem  
@@ -1477,7 +1479,7 @@ geothermal - geo termo
 German - doiche di  
 German camomile - kamil  
 Germania - Germania  
-germanium - germanium  
+germanium - german yum  
 Germany - Doiche  
 gesture - jeste  
 get (receive, obtain, take) - daku  
@@ -1593,7 +1595,7 @@ guru (teacher, sage) - guru
 Guyana - Guyana  
 ####H - H  
 habit (custom) - ada  
-hafnium - hafnium  
+hafnium - hafen yum  
 hair - kesha  
 hair of the head - sar kesha  
 hairband (headband) - kesha bande  
@@ -1616,12 +1618,12 @@ harmonious - harmoni
 harmony - harmoni  
 harness - harnes  
 hashish - hashish  
-hassium - hasium  
+hassium - hese yum  
 hat (cap) - tupi  
 hate (despise) - hen  
 hatred (hate, resentment, odium) - hen  
 Hawaii - Havai  
-Hawaiian archipelago - Havai nesia  
+Hawaiian archipelago - Havai nesi  
 hay - gan gazo  
 hazard (chance) - zar  
 he or she or it - ya  
@@ -1639,7 +1641,7 @@ heavy metal - bari metal
 Hebrew - ibri  
 height (altitude) - gau ta  
 helicopter - helis fei gi  
-helium - helium  
+helium - heli yum  
 hell - naraka  
 hello (hi) - halo  
 helmet - sar kaske  
@@ -1682,7 +1684,7 @@ hold (grasp, detain) - ten
 hold together - kon ten  
 hole - kong  
 holiday - festa den  
-holmium - holmium  
+holmium - holme yum  
 hologram - holo grafi  
 holy (sacred) - sante  
 Holy See (Vatican City State) - Vatikan  
@@ -1777,8 +1779,8 @@ India - Barti
 Indian - barti  
 Indian chrysanthemum - nefte guku  
 Indian Ocean - Barti Hai  
-indium - indium  
-Indonesia - Indonesia  
+indium - hindi yum  
+Indonesia - Indonesi  
 Indus river - Hindu riu  
 infect - fa pati mise  
 infection (infestation, contagion) - pati mise  
@@ -1826,14 +1828,14 @@ ion - ion
 Iran - Iran  
 Iraq - Iraki  
 Ireland - Aire  
-iridium - iridium  
-iron - feru  
+iridium - iris yum  
+iron - fero  
 ironic - ironi di  
 irony - ironi  
 Islam - islam din  
 islamophobia - islam fobi  
-island - nesia  
-Isle of Man - Manin nes  
+island - nesi  
+Isle of Man - Manin nesi  
 Israel - Israel  
 issue (affair, concern) - sual tema  
 Italy - Italia  
@@ -1948,7 +1950,7 @@ lake - lage
 lama - lama  
 lamp - lampa  
 lantern - hogo sanduku  
-lanthanum - lantanium  
+lanthanum - lantan yum  
 Lao (Laotian) - lau di  
 Laos - Lau  
 lapis lazuli - lazur petra  
@@ -1967,7 +1969,7 @@ laugh - haha
 lava - yong petra  
 law - kanun  
 lawn - gazo medan  
-lawrencium - laurencium  
+lawrencium - laurence yum  
 lay (lay down) - kush  
 layer (level, storey, floor, stratum) - cheng  
 lead (direct) - lida  
@@ -2028,9 +2030,9 @@ lilac - lila
 lilac color - lila rang  
 lily - susan  
 lily of the valley - vali susan  
-lime - kalse mate  
+lime - kalsi mate  
 lime green - limon luka di  
-limestone - kalse petra  
+limestone - kalsi petra  
 limit (boundary) - limite  
 line (thread, string) - lin  
 line break (newline) - lin parche  
@@ -2042,7 +2044,7 @@ liquid - dara mate
 list (listing, catalogue) - liste  
 listen - fa ore  
 literature - kitabu shuta  
-lithium - litium  
+lithium - lito yum  
 Lithuania - Lietuva  
 Lithuanian - lietuva basha  
 litre (liter) - litre  
@@ -2050,7 +2052,7 @@ little (few, not many) - shau
 little (small; a little, somewhat) - lili  
 live (be alive, living) - jiu  
 live in (reside in, inhabit) - be dom  
-livermorium - livermorium  
+livermorium - livermor yum  
 lizard - saur  
 llama - liama  
 loanword - jeka loga  
@@ -2092,7 +2094,7 @@ lullaby - lala chante
 lunch - dia yam  
 lung - pulmon  
 lust (desire, libido, sexual passion) - kama  
-lutetium - lutetium  
+lutetium - lutesi yum  
 Lutheran - Luter din ja  
 Lutheranism - Luter din  
 Luxembourg - Luksemburge  
@@ -2112,7 +2114,7 @@ magical - magi di
 magical power - magi liki  
 magician (sorcerer, mage, wizard) - magi ja  
 magma - pasta petra  
-magnesium - magesium  
+magnesium - magen yum  
 magnet - manete  
 magnetic - manete di  
 magus (Zoroastrian priest) - zardush magi ja  
@@ -2154,7 +2156,7 @@ many (much, more than one) - poli
 map (chart, geographic map) - topo metre grafi  
 Marathi - marati  
 marathon - maraton  
-marble - kalse bilor  
+marble - kalsi bilor  
 March - mes tri  
 margarine - margarin  
 margay - margai  
@@ -2168,7 +2170,7 @@ married - gami di
 marry - fa gami  
 Mars - Marse  
 marsh (bog, swamp, morass) - fan topo  
-Marshall Islands - Marshal nesia  
+Marshall Islands - Marshal nesi  
 martial art - jeng shuta  
 marvel (wonder) - ajibu  
 mask (camouflage) - maska  
@@ -2217,13 +2219,14 @@ medium (media) - medi she
 meet - miti  
 meeting (gathering) - miti  
 megawat (MW) - mega vate  
-meitnerium - maitnerium  
+meitnerium - meitner yum  
 melodious (melodic) - melodi  
 melody - melodi  
 melt - yong  
 member (component) - membre  
 memorandum (memo) - memo note  
 memory (recollection) - memo  
+mendelevium - mendelevi yum  
 meningitis - meninge flame  
 meninx (meninges) - meninge  
 mental (psychic) - ruhu di  
@@ -2240,7 +2243,7 @@ meter (measuring device) - metre gi
 Mexico - Mehiko  
 Mexico City - Mehiko siti  
 microbiology - mikro bio logi  
-Micronesia - Mikronesia  
+Micronesia - Mikronesi  
 microorganism (microbe) - mikro bio  
 microscope - mikroskope  
 middle (center) - jung  
@@ -2295,7 +2298,7 @@ mole (burrowing animal) - krote
 mole (unit) - mole  
 molecule - molekul  
 mollusk - moluske  
-molybdenum - moliden  
+molybdenum - moliden yum  
 moment (instant) - sata  
 momentary - sata di  
 Monaco - Monako  
@@ -2322,7 +2325,7 @@ more - mas
 morning (dawn) - suba  
 Morocco - Magribi desha  
 morpheme - forma so  
-moscovium - moskovium  
+moscovium - moskva yum  
 Moscow - Moskva  
 mosquito - moskite  
 moss - mos  
@@ -2391,7 +2394,7 @@ nationalism - nasi sim
 nationalist - nasi sim ja  
 native language (mother tongue) - jene basha  
 natron - natre bilor  
-nature (disposition, essence, character, -ive, -ness, -ity) - tabi  
+nature (disposition, essence, character, -ive) - tabi  
 Nauru - Nauru  
 nausea (motion sickness) - retro gula sense  
 nautilus - nautile  
@@ -2404,7 +2407,7 @@ need (lack, require) - yau
 need (shortage, lack, requirement) - yauta  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
 negotiate (arrange) - fa biznes lon  
-neodymium - neodimium  
+neodymium - neodim yum  
 neologism - nove loga  
 neon - neon  
 neophyte plant - nove fito  
@@ -2412,7 +2415,7 @@ Nepal - Nepal
 nephew or niece - brusben  
 nephritis - nefre flame  
 Neptune - Neputun  
-neptunium - neputunium  
+neptunium - neputun yum  
 nerve - nerve  
 nest (hive, den) - nide  
 net (web, mesh) - nete  
@@ -2444,20 +2447,20 @@ Nigeria - Naijiria
 night - noche  
 night mode - noche mode  
 nightingale - bulbul  
-nihonium - nihonium  
+nihonium - nipon yum  
 nine (9) - tisa  
-niobium - niobium  
+niobium - niobi yum  
 nitrogen - nitre  
 Niue - Niue  
 Noah - Noe  
 Noah’s arc - Noe di nave  
-nobelium - nobelium  
+nobelium - nobel yum  
 nobody (no-one) - siro jan  
 noise - kelele  
 none - siro she  
 noodle - mien  
 noon (midday) - medi dia  
-Norfolk Island - Norfolke nes  
+Norfolk Island - Norfolke nesi  
 norm (standard) - norma  
 normal - norma  
 north - norde  
@@ -2466,7 +2469,7 @@ North Korea (Democratic People’s Republic of Korea) - Norde Chosen
 Northen Cyprus - Norde Kipris  
 northern - norde di  
 Northern Ireland - Norde Aire  
-Northern Mariana Islands - Marian nesia  
+Northern Mariana Islands - Marian nesi  
 Norway - Norge  
 Norwegian language - norge basha  
 nose - nos  
@@ -2539,7 +2542,7 @@ one (1) - un
 one (you, they, impersonal pronoun) - men  
 onion - piaze  
 online - na lin  
-only (single, sole, lone, just) - unike  
+only (single, sole, lone, just) - un di  
 open (not closed) - kai  
 open (wide, spacious) - medan di  
 open - fa kai  
@@ -2569,7 +2572,7 @@ Oromo (an Ethiopian ethnic group) - oromo
 orphan - yatim  
 orphanage - yatim dom  
 orthogonal (perpendicular) - orto gona di  
-osmium - osmium  
+osmium - osmi yum  
 osmosis - osmos  
 other - alo  
 otherwise (else) - alo  
@@ -2615,7 +2618,7 @@ Pakistan - Pakistan
 palace (mansion) - dai dom  
 Palau - Palau  
 Palestinian Territory - Filistin  
-palladium - paladium  
+palladium - paladi yum  
 palm tree - palme  
 pan-African - pan afrika di  
 pan-American - pan amerika di  
@@ -2690,7 +2693,7 @@ peer - par jan
 pen (writing tool) - kalam  
 pencil - karbon kalam  
 penguin - pinguin  
-peninsula - yaki nes  
+peninsula - yaki nesi  
 penis (phallus) - penis  
 pentagon - lima gona  
 pentahedron (prism) - lima fase  
@@ -2765,7 +2768,7 @@ piss (urine) - pish
 pistol - pistol  
 piston - pusha gi  
 pit (excavation, cavity) - kave  
-Pitcairn Islands - Pitkerne nesia  
+Pitcairn Islands - Pitkerne nesi  
 pizza - piza  
 pizzeria - piza kan  
 place (location) - loka  
@@ -2799,7 +2802,7 @@ pleased (delighted, happy) - suka
 pliers (pincers) - pinse gi  
 plug (stop with a plug) - fa tapa  
 Pluto (dwarf planet) - Pluton  
-plutonium - plutonium  
+plutonium - pluton yum  
 pneumonia - pulmon flame  
 pocket - jebe  
 podzol - hui darte  
@@ -2823,11 +2826,11 @@ political - politi di
 politician (administrator, statesman) - politi ja  
 politicology - politi logi  
 politics (political discourse) - politi lon  
-polonium - polonium  
+polonium - polska yum  
 poly- (multi-) - poli  
 polygon - poli gona  
 polyhedron - poli fase  
-Polynesia - Polinesia  
+Polynesia - Polinesi  
 polytheism - poli deu sim  
 ponder (think, contemplate, consider, regard) - hem  
 pool (basin, bowl) - basen  
@@ -2853,7 +2856,7 @@ postal stamp - posta chape
 postmark (postage stamp) - posta marke  
 posture (asana) - asan  
 pot (vase, bin, jar) - pote  
-potassium - kalium  
+potassium - kali yum  
 potato - patate  
 potion - dava sui  
 potter - pote ja  
@@ -2866,7 +2869,7 @@ practice (to exercise) - fa lenshi
 praise (commend, exalt) - halela  
 praise (eulogize) - fa eu loga  
 praise (eulogy) - eu loga  
-praseodymium - praseodimium  
+praseodymium - prazedim yum  
 pray (beg, entreat, implore) - dua  
 prayer - dua  
 precious - bau di  
@@ -2910,7 +2913,8 @@ project (cast) - lanse grafi
 project (endeavour) - projete  
 projectile (missile) - lanse she  
 projection (image) - lanse grafi  
-promethium - prometium  
+Prometheus - Promete  
+promethium - promete yum  
 promise (pledge) - fa vode  
 promise (vow, oath) - vode  
 pronoun - vise loga  
@@ -2921,7 +2925,7 @@ property (belongings, possessions) - mal
 prophecy - nabi  
 prophet - nabi ja  
 prophet Mani - Mani  
-protactinium - protacinium  
+protactinium - protacini yum  
 protect (secure, save) - fa sekur  
 prove (demonstrate, testify) - fa dalil  
 proximity - karibu ta  
@@ -2968,7 +2972,7 @@ radioactivity (ionizing radiation) - ion radi
 radiometer - radi metre gi  
 radiotransmitter - radi miser  
 radish - loba  
-radium - radium  
+radium - radi yum  
 radon - radon  
 rail (railway, railroad) - tren dau  
 rain (pour down) -   
@@ -3001,7 +3005,7 @@ reason (rational thinking) - razon
 rebellion - rebel  
 receipt (acknowledgement) - reside  
 recycle - re sikle  
-red - lal  
+red - rubi  
 reed (cane) - gana  
 reed pen - gana kalam  
 reflect - mira  
@@ -3054,9 +3058,10 @@ return (way back) - retro dau
 return ticket - retro tikete  
 reverse (negative, un-) - an  
 Rhea - Rea  
-rhenium - renium  
+rhenium - ren yum  
+Rhine - Ren  
 rhinoceros - kornonos  
-rhodium - rodium  
+rhodium - roza yum  
 rhyme (verse) - rim  
 rhythm (beat) - ritim  
 rib cage - sina kasa  
@@ -3092,7 +3097,7 @@ rock music - roke muzika
 rocket - rokete  
 rocket launcher - rokete lanse gi  
 rocking chair - roke kursi  
-roentgenium - rengenium  
+roentgenium - rentegen yum  
 role - rol  
 roll (scroll, coil) - rolo  
 roll (wrap in) - fa rolo  
@@ -3118,7 +3123,7 @@ routine (habit) - rutina
 royal - raja di  
 rub (scrape, scrub) - frike  
 rubber - gomu  
-rubidium - rubidium  
+rubidium - rubi yum  
 ruby - rubi  
 rude (offensive) - insulte di  
 ruin (destroy, devastate, demolish) - harabu  
@@ -3133,8 +3138,8 @@ rural village - nong chun
 Russia - Rusia  
 Russian language - rusia basha  
 rustle - shasha  
-ruthenium - rutenium  
-rutherfordium - ruterfordium  
+ruthenium - rus yum  
+rutherfordium - ruterfor yum  
 Rwanda - Ruanda  
 Réunion - Reunion  
 ####S - S  
@@ -3161,7 +3166,7 @@ salad - salade
 salmon (trout) - salmon  
 salt - sal  
 salty (saline) - sal di  
-samarium - samarium  
+samarium - samari yum  
 same (equal, alike, match) - sam  
 Samoa - Samoa  
 San Marino - Sante Marino  
@@ -3189,7 +3194,7 @@ scaffolding (gangplank) - fute ban
 scale (flake) - shalke  
 scales (weighing device) - veze metre gi  
 Scandinavia - Eskandinavia  
-scandium - eskandium  
+scandium - eskandi yum  
 scarcity - shau ta  
 scare (frighten) - fa fobi  
 scarf (shawl) - shal  
@@ -3213,9 +3218,9 @@ sea - hai
 sea anemone - hai hua  
 sea cucumber - hai hiyar  
 sea force (navy) - hai gun  
-seaborgium - siborgium  
+seaborgium - siborge yum  
 seagrass - hai gazo  
-search (seek, look for) - soka  
+search (seek, look for) - soki  
 season - mosim  
 seat (saddle) - side loka  
 seaweed (macroalgae) - hai alga  
@@ -3230,7 +3235,7 @@ seed (semen) - seme
 seem - be rupa  
 seismology - sismologi  
 seldom (rarely) - nadir mar  
-selenium - selenium  
+selenium - selen yum  
 self (identity) - auto  
 self (reflexive pronoun) - se  
 self-moving (automotive, automobile) - auto move  
@@ -3258,7 +3263,7 @@ sex (sexual relation) - sekse
 sexology - sekse logi  
 sexual (pertaining to gender) - jinse di  
 sexy (sexually arousing) - sekse di  
-Seychelles - Seshel nesia  
+Seychelles - Seshel nesi  
 shadow - saya  
 shake (jolt, earthquake) - sismo  
 shallow - fase karibu  
@@ -3310,7 +3315,7 @@ Sikh - siki din ja
 Sikhism - siki din  
 silence (make silent) - fa shush  
 silent - shush di  
-silicon - silikium  
+silicon - silis  
 silk - silko  
 silver - argente  
 similar (analogous) - sam sifa di  
@@ -3370,7 +3375,7 @@ socialize (interact) - fa sosi
 society (association) - sosi  
 sock (stocking) - maze  
 sockeye salmon - lal salmon  
-sodium - natre  
+sodium - natri  
 sofa (couch) - sofa  
 soft - komal  
 soil (dirt) - darte  
@@ -3378,7 +3383,7 @@ soily (dirty) - darte di
 solar system - sol sistem  
 soldier - gun jan  
 solid - gati mate  
-Solomon Islands - Solomon nesia  
+Solomon Islands - Solomon nesi  
 solstice - sol estasi  
 Somalia - Somal  
 Somaliland - Somal Desha  
@@ -3397,7 +3402,7 @@ sour - suan
 south - sude  
 South Africa - Sude Afrika  
 South America - Sude Amerika  
-South Georgia and the South Sandwich Islands - Sude Jorjia e Sudi Sandviche nesia  
+South Georgia and the South Sandwich Islands - Sude Jorjia e Sudi Sandviche nesi  
 South Korea (Republic of Korea) - Sude Chosen  
 South Ossetia (Alania) - Sude Iria (Alonia)  
 South Sudan - Sude Sudan  
@@ -3491,7 +3496,7 @@ stretch (extend) - long tire
 strike (punch) - darba  
 strip (peel) - tire yo pil  
 strong - lika di  
-strontium - estrontium  
+strontium - estronti yum  
 struggle (strife) - jihade  
 student (pupil, learner) - shula ja  
 student - estude ja  
@@ -3506,7 +3511,7 @@ submit (present) - gung mise
 substance (physical material from which something is made) - kimi  
 substitute (replace) - fa vise  
 subway (metro) - tunel tren  
-suck (absorb) - chupa  
+suck (absorb) - chupu  
 Sudan - Sudan  
 suffer (get hurt) - be pasi  
 suffix - pos fikse  
@@ -3518,7 +3523,7 @@ sugary (sweet) - sukar di
 suggest (propose) - fa suje  
 suggestion (proposal) - suje  
 suitable (appropriate, apt, fit) - hapu  
-sulfur (brimstone) - sulfur  
+sulfur (brimstone) - sulfu  
 sultanate - sultan desha  
 sum (total) - sum  
 sum up (add together) - fa sum  
@@ -3576,7 +3581,7 @@ tame (train) - fa dosil
 Tamil - Tamil  
 Tanakh (Jewish Bible) - tanah  
 tank (reservoir) - tanke  
-tantalum - tantalum  
+tantalum - tantal yum  
 Tanzania - Tanzania  
 Taoism (Daoism) - dau din  
 Taoist - dau din ja  
@@ -3604,7 +3609,7 @@ tear drop - oko sui
 tear gas - oko sui gas  
 tear up (tatter, shred) - chira chira  
 teaspoon - chai chamacha  
-technetium - tehnetium  
+technetium - tehni yum  
 technique (technology) - tehni  
 technocracy - tehni krati  
 technology (study of techniques) - tehni logi  
@@ -3617,7 +3622,7 @@ teleport - be tele loka
 telescope - teleskope  
 television - tele vide gi  
 tell (narrate) - fa kata  
-tellurium - telurium  
+tellurium - telu yum  
 Telugu - Telugu  
 temperature - termo  
 temple (place of worship) - puja kan  
@@ -3625,13 +3630,13 @@ tempt (entice) - tenta
 ten (deca-, 10) - des  
 ten thousand - des kilo  
 Tennessee - Tenesi  
-tennessine - tenesium  
+tennessine - tenesi yum  
 tennis - tenis  
 tension - tense ta  
 tent - hema  
 tentacle (feeler) - sense shaka  
 tera- - tera  
-terbium - terbium  
+terbium - terbi yum  
 terracotta - baka fan  
 terrain - geo forme  
 terror - teror  
@@ -3642,7 +3647,7 @@ test (try, attempt) - teste
 Tethys - Tetis  
 Thai language - Tai basha  
 Thailand - Tai Desha  
-thallium - talium  
+thallium - tali yum  
 than (as, compared to, relative to) - ka  
 thank - fa shukra  
 thanks (thank you) - shukra  
@@ -3651,7 +3656,7 @@ that (conjunction) - ki
 that is (in other words, i.e., alias) - alo nam  
 that over there - go  
 the (that) - la  
-the Grenadines - Grenadin nesia  
+the Grenadines - Grenadin nesi  
 theft - chori  
 their - yamen su  
 theism - deu din  
@@ -3671,14 +3676,15 @@ think (ponder, reflect) - fikir
 thirst - sui yau  
 this - ni  
 thistle - kardon  
-thorium - torium  
+thorium - tor yum  
 thorn tree (acacia, wattle) - babul  
 thought (idea) - fikir  
 thousand (kilo-) - kilo  
 three (3) - tri  
 throw (launch) - lanse  
 throw up (vomit, regurgitate) - retro gula  
-thulium - tulium  
+Thule - Tule  
+thulium - tule yum  
 thunder (roaring) - grom  
 thunderstorm - grom tafun  
 Thursday - var nelu  
@@ -3700,7 +3706,7 @@ tin - estan
 tiny (microscopic, micro-) - mikro  
 Titan - Titan  
 Titania - Titania  
-titanium - titanium  
+titanium - titan yum  
 title (headline) - tema name  
 to (toward, till, until, for) - do  
 to be centered (amid, in the middle) - jung  
@@ -3836,17 +3842,17 @@ until (til, up to) - hata
 upgrade (level up) - bon darja  
 upload - nete dona  
 upper - supra di  
-uranium - uranium  
+uranium - uran yum  
 Uranus - Uran  
 urban - nagar di  
 Urdu - urdu  
 Uruguay - Uruguay  
-usable (available) - use bil di  
-use (employ, apply) - use  
+usable (available) - uze bil di  
+use (employ, apply) - uze  
 use (utility, benefit, gain, advantage) - faida  
 useful (beneficial, advantageous) - faida di  
-user - use ja  
-username - use ja name  
+user - uze ja  
+username - uze ja name  
 utopia - eu topo  
 Uzbekistan - Uzbeki  
 ####V - V  
@@ -3861,7 +3867,7 @@ value (worth) - valu
 valve (tap, faucet) - kran  
 vampire - vampir  
 vampire squid - vampir ohtopus  
-vanadium - vanadium  
+vanadium - vanadi yum  
 vanilla - vanila  
 Vanuatu - Vanuatu  
 various (diverse, miscellaneous) - vari  
@@ -3894,7 +3900,7 @@ vinegar - vin suan
 vineyard - putau bagi  
 vinyl - vinil  
 virgin - virje  
-Virgin Islands, U####S - Virjin nesia  
+Virgin Islands, U####S - Virjin nesi  
 virology - virus logi  
 virtue (morals) - bon moral  
 virtuous - bon moral di  
@@ -3922,7 +3928,7 @@ Wales (Cambria) - Kamri
 walk (march) - fa marche  
 walk (march) - marche  
 wall (structure for delimitation) - mur  
-Wallis and Futuna Islands - Valis e Futuna nesia  
+Wallis and Futuna Islands - Valis e Futuna nesi  
 wallpaper - mur kaguji  
 want (desire, wish) - vol  
 want (desire, wish) - vol she  
@@ -4057,8 +4063,8 @@ your - tu su
 your - tumen su  
 youth (young age) - joven ta  
 youth (young person) - joven jan  
-ytterbium - yuterbium  
-yttrium - yutrium  
+ytterbium - yuterbi yum  
+yttrium - yuter yum  
 ####Z - Z  
 Zambia - Zambia  
 zebra - zebra  
@@ -4071,7 +4077,7 @@ Zimbabwe - Zimbabue
 zinc - zinke  
 zipper (zip) - zipa  
 zircon - zirkon  
-zirconium - zirkonium  
+zirconium - zirkon yum  
 zombie - zombi  
 zoo (zoological garden) - zou bagi  
 zoogeography - zou geo grafi  

@@ -4,7 +4,7 @@
 |-------|--------|
 | english | 13% |
 | france | 10% |
-| espanya | 11% |
+| espanya | 10% |
 | portugal | 10% |
 | rus | 9% |
 | hindi | 9% |
@@ -13,6 +13,6 @@
 | nipon | 6% |
 | chosen | 4% |
 | viet | 3% |
-| malayu | 5% |
+| malayu | 6% |
 | arabi | 5% |
-| suahili | 4% |
+| suahili | 5% |

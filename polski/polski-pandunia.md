@@ -18,7 +18,7 @@ akacja arabska - arabi babul
 akcent, nacisk - bari fon  
 akt, scena - rol ja  
 aktualizować (zaktualizować, ulepszać, ulepszyć) - bon darja  
-aktyn - acinium  
+aktyn - acini yum  
 aktywny (włączony, uruchomiony) - karma ja  
 aktywować (włączyć, uruchomić) - fa karma  
 akwarela (farba wodna) - sui rang  
@@ -38,7 +38,7 @@ alofon - alo fon
 ambasada - dai anjil kan  
 ambasador - dai anjil ja  
 amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki) - UDA di  
-ameryk - amerikium  
+ameryk - amerika yum  
 Ameryka (kontynent) - Amerika  
 Ameryka Południowa - Sude Amerika  
 Ameryka Północna - Norde Amerika  
@@ -69,13 +69,13 @@ Antigua i Barbuda - Antigua e Barbuda
 antonim - an nam  
 antychryst - an mesi  
 Antyle Holenderskie - Nederlande Antil  
-antymon - estibium  
+antymon - estibi yum  
 Arabia Saudyjska - Saudi Arabia  
 arabski - arabi  
 arachnofobia - arane fobi  
 arboretum - moka jong parke  
 arbuz - arbuza  
-archipelag - nesia jama  
+archipelag - nesi jama  
 architekt - bina plan ja  
 architektura - bina plan  
 Argentyna - Argentina  
@@ -87,7 +87,7 @@ Arktyka - Artika
 Armenia - Hayaki  
 armia - gun  
 aromantyczny - an romanse  
-arsen - arsene  
+arsen - arsen yum  
 artykuł wiki - viki makala  
 artykuł, tekst - makala  
 artysta - arte ja  
@@ -96,7 +96,7 @@ arytmetyka - hisabu shuta
 asceta - askete  
 aseksualny - an sekse di  
 aspiryna - aspirin  
-astat - astate  
+astat - astatin  
 astma - asma  
 astronauta - astro nave ja  
 astronom - astro nomi ja  
@@ -141,7 +141,7 @@ bank - banka kan
 bankier - banka shefe  
 baobab - buyu  
 bar - bar  
-bar - barium  
+bar - bari yum  
 bar, knajpa - bir kan  
 Barbados - Barbados  
 barbarzyńca - barbar  
@@ -171,9 +171,9 @@ Benin - Benin
 beninkaza szorstka (beninkaza woskodajna, woszcza szorstka) - mum melon  
 benzyna - benzin  
 beret - bere  
-berkel - berkelium  
+berkel - berkli yum  
 Bermudy - Bermuda  
-beryl - berilium  
+beryl - beril yum  
 beton - beton  
 bez - hin  
 bezgłowy - sar hin  
@@ -214,7 +214,7 @@ bogactwo (fortuna, majątek) - riche ta
 bogaty - riche  
 bohater, heros - hero  
 bohaterski, heroiczny, odważny, brawurowy - hero di  
-bohr - borium  
+bohr - bor yum  
 bojkot - boikote  
 boks - bokse  
 bolesny - pasi di  
@@ -302,10 +302,10 @@ centralny (środkowy) - jung di
 centrować, skupić, skupiać - fa jung  
 centy-, procent, na sto, setna część - senti  
 centymetr - sentimitre  
-cer - cerium  
+cer - ceres yum  
 ceramika - serami  
 Ceres (planeta karłowata) - Ceres  
-cez - cesium  
+cez - cesi yum  
 chaber - sentaure  
 chaber wełnisty - sol sentaure  
 Champagne - shampan  
@@ -328,7 +328,7 @@ choroba - pati
 Chorwacja - Horvati  
 chory - pati di  
 chować (kryć) - fa sir  
-chrom - kromium  
+chrom - krom yum  
 chroniczny - dura di  
 chronić (ratować) - fa sekur  
 chronić, strzec,  osłaniać, bronić - garde  
@@ -380,7 +380,7 @@ cynk - estan
 cynk - zinke  
 Cypr - Kipris  
 Cypr Północny - Norde Kipris  
-cyrkon - zirkonium  
+cyrkon - zirkon yum  
 cyrylica - Kiril zi  
 cytologia - selu logi  
 cytować - sita  
@@ -402,7 +402,7 @@ czekać - deng
 czekolada - choklate  
 czempion - champion  
 czerwiec - mes tri  
-czerwony - lal  
+czerwony - rubi  
 cześć, szacunek - puja  
 czosnek olbrzymi - dai lasun  
 cztery (4) - nelu  
@@ -430,7 +430,7 @@ damarzyk (meranti) - meranti
 dane - data  
 Dania - Danske desha  
 danie - tasa  
-darmsztadt - darmesitadium  
+darmsztadt - darmestadi yum  
 darwinista - darvin sim ja  
 darwinizm - darvin sim  
 data - nen mes den  
@@ -509,7 +509,7 @@ drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - chira
 drzwi wyjściowe - chuti mun  
 drzwi, brama, portal - mun  
 dualizm - du she sim  
-dubn - dubnium  
+dubn - dubna yum  
 duch, fantom - fantom  
 dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę - hem  
 dusza, duch, umysł - ruhu  
@@ -527,7 +527,7 @@ dysk - diske
 dyskretny (kwantowy) - alo fen di  
 dyskusja, debata, dyskurs - lun  
 dyskutoać, twierdzić - fa tese  
-dysproz - disprosium  
+dysproz - disprosi yum  
 dystans - tele  
 dystans - tele ta  
 dywan - tal tela  
@@ -564,7 +564,7 @@ dzwonić (dźwięczeć, szczękać) - dang
 dół, jama, wydobycie, wykop, wykopalisko - kave  
 dół, spód - tal  
 dąb - baluta  
-dąb szypułkowy - europe baluta  
+dąb szypułkowy - europa baluta  
 dąb zębaty - dante baluta  
 długi - long  
 długość - long ta  
@@ -583,7 +583,7 @@ egipski - misri di
 Egipt - Misri  
 egzonim - ekso name  
 egzoplaneta - ekso planete  
-einstein - ainstainium  
+einstein - einstein yum  
 ekologia (nauka o środowisku) - eko logi  
 ekonomia - mal nomi  
 ekran - ekran  
@@ -608,7 +608,7 @@ energia - energi
 energia nuklearna - kerne energi  
 enzym - enzim  
 epistemologia - sabe logi  
-erb - erbium  
+erb - erbi yum  
 Eris (planeta karłowata) - Eris  
 Erytrea - Eritra  
 esej - esai  
@@ -621,15 +621,15 @@ etyka - moral logi
 etymologia - loga asal  
 Eurazja - Eurasia  
 euro (€) - euro  
-europ - europium  
-Europa - Europe  
-europejski - europe di  
+europ - europa yum  
+Europa - Europa  
+europejski - europa di  
 ewangelia - eu anjil  
 ####F - F  
 fabryka, manufaktura - gung kan  
 fajka - pipe  
 fala - onda  
-Falklandy, Malwiny - Malvinas nesia  
+Falklandy, Malwiny - Malvinas nesi  
 fantastyczny, fantazyjny - fantazi  
 fantazja (wyobrażenie, wyobraźnia) - fantazi  
 fascynacja - fasin ta  
@@ -639,7 +639,7 @@ faszyzm - fasha sim
 fałszywy, nieprawdziwy - false  
 feminista (feministka) - fem sim ja  
 feminizm - fem sim  
-ferm - fermium  
+ferm - fermi yum  
 fermentować - be bio mute  
 Fidżi - Fiji  
 figura, reprezentacja - figur  
@@ -659,7 +659,7 @@ fizyka - fizika
 fizyka - fizika ja  
 fizyka nuklearna - kerne fizika  
 flaga, sztandar - bandera  
-flerow - flerovium  
+flerow - flerof yum  
 fluor - flur  
 folder (teczka) - dokumen sanduku  
 fonem - fon so  
@@ -674,8 +674,8 @@ fotograf - foto grafi ja
 fotografia - foto grafi shuta  
 foton - foto so  
 Francja - France  
-francuski naleśnik (crêpe) - France krepe  
-frans - francium  
+francuski naleśnik (crêpe) - france krepe  
+frans - france yum  
 fu, fuj - fui  
 funkcja, stanowisko - funsi  
 funkcjonariusz, urzędnik - ofis ja  
@@ -684,8 +684,8 @@ fuzja (amalgamowanie, łączenie) - yong liga
 fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerne unta  
 ####G - G  
 Gabon - Gabon  
-gadolin - gadolinium  
-gal - galium  
+gadolin - gadolin yum  
+gal - gali yum  
 galaktyka - galaksi  
 galeria, sala wystawowa - galeri  
 Galia - Galia  
@@ -707,7 +707,7 @@ genderqueer, niebinarny - nobi
 genealogia - jene logi  
 genotyp - jene tipe  
 geologia - geo logi  
-german - germanium  
+german - german yum  
 gest - jeste  
 Ghana - Gana  
 ghul - gul  
@@ -753,7 +753,7 @@ grać, odgrywać rolę - fa rol
 Grecja - Helen  
 grejpfrut - putau oranje  
 Grenada - Grenada  
-Grenadyny - Grenadin nesia  
+Grenadyny - Grenadin nesi  
 Grenlandia - Kalal  
 grillować - kababu  
 grom, huk - grom  
@@ -805,7 +805,7 @@ głęboki - fase tele
 głębokość - fase tele ta  
 ####H - H  
 haczyk - peshe huke  
-hafn - hafnium  
+hafn - hafen yum  
 Haiti - Haiti  
 hak - huke  
 halo, cześć - halo  
@@ -815,16 +815,16 @@ handel - vende shope
 handlarz (kupiec) - vende shope ja  
 harmonia - harmoni  
 harmoniczny - harmoni  
-has - hasium  
+has - hese yum  
 haszysz - hashish  
 hasło - sekur kode  
-Hawaje (archipelag hawajski) - Havai nesia  
+Hawaje (archipelag hawajski) - Havai nesi  
 Hawaje - Havai  
 hałas - esporte ja  
 hebel, strug - rande  
 heblować - randa  
 hebrajski - ibri  
-hel - helium  
+hel - heli yum  
 helikopter - helis fei gi  
 helisa - helis  
 herbaciarnia - chai kan  
@@ -851,7 +851,7 @@ hojny (szczodry) - karim di
 hokej - hoki  
 hokej na lodzie - ais hoki  
 Holandia (Królestwo Niderlandów) - Nederlande  
-holm - holmium  
+holm - holme yum  
 hologram - holo grafi  
 homonim - sam name  
 homoromantyczny - sam romanse di  
@@ -898,10 +898,10 @@ Imperium Rzymskie - Roma Imperia
 implodować - be in bum  
 implozja - in bum  
 importować (zaimportować) - in mise  
-ind - indium  
+ind - hindi yum  
 indiański - asal Amerka jan  
 Indie - Barti  
-Indonezja - Indonesia  
+Indonezja - Indonesi  
 Indyjski - barti  
 indyk - dinde  
 infekcja (zakażenie) - pati mise  
@@ -921,14 +921,14 @@ ironia - ironi
 ironia dramatyczna - drama ironi  
 ironia sytuacyjna - she hal ironi  
 ironiczny - ironi di  
-iryd - iridium  
+iryd - iris yum  
 Islam - islam din  
 islamofobia - islam fobi  
 Islandia - Islande  
 istnieć - zai  
 Italia, Włochy - Italia  
-iterb - yuterbium  
-itr - yutrium  
+iterb - yuterbi yum  
+itr - yuter yum  
 Izrael - Israel  
 iść (przemieścić się) - be kite  
 iść w dół (iść pod spód, iść na dno) - be niche  
@@ -1004,15 +1004,15 @@ kabaczek (dynia, tykwa) - kaboga
 kabel (linia) - eletro lin  
 kabina, budka - kabin  
 kaczka - bata  
-kadm - kadmium  
-Kajmany - Kaiman nesia  
+kadm - kadim yum  
+Kajmany - Kaiman nesi  
 kakao - kakau  
 kaktus - katus  
 kalcyt - kalsite  
 kalendarz - kalenda  
 kalif - halifa  
 kalifat - halifa desha  
-kaliforn - kalifornium  
+kaliforn - kaliforni yum  
 kalkulować - fa hisabu  
 Kambodża - Kambojia  
 kamera, aparat fotograficzny - foto grafi gi  
@@ -1084,7 +1084,7 @@ Kirgistan - Kirgize
 Kiribati - Kiribati  
 kisić (marynować) - fa achar  
 kiszony (marynowany) - achar di  
-kiur - kurium  
+kiur - kuri yum  
 klapa - pade mun  
 klasa, kategoria - klas  
 klasyczny - chen yang di  
@@ -1136,7 +1136,7 @@ kolumna, filar - kolum
 komar, moskit - moskite  
 komik - yumor ja  
 komiks; kreskówka - grafi kata  
-Komory - Komoro nesia  
+Komory - Komoro nesi  
 kompas (namagnesowana igła) - ponte pin  
 kompatybilny (pasujący) - kon funsi bil  
 kompost - bio sana she  
@@ -1158,7 +1158,7 @@ konwalia majowa - vali susan
 konwencjonalny, zwyczajowy, tradycyjny - suna di  
 kopalnia - kuang shan  
 kopać (wydobywać) - kape yo kuang  
-kopernik - kopernikium  
+kopernik - koperni yum  
 kopia, replika - kopi  
 kopiować, replikować - fa kopi  
 kopuła - kupa chati  
@@ -1219,8 +1219,8 @@ kryształ - bilor
 krytyk - piping ja  
 kryzys - krizi  
 kryzysowy - krizi  
-krzak (krzew) - tal moku  
-krzem - silikium  
+krzak (krzew) - tal moka  
+krzem - silis  
 krzemień - hogo sheku  
 krzyknąć, krzyczeć - krita  
 krzywdzący (szkodliwy) - avar ja  
@@ -1279,7 +1279,7 @@ lalka, kukiełka, pacynka, marionetka - pupe
 lama - lama  
 lama - liama  
 lampa - lampa  
-lantan - lantanium  
+lantan - lantan yum  
 Laos - Lau  
 laotański - lau di  
 lapis lazuli - lazur petra  
@@ -1333,12 +1333,12 @@ lista słów - loga liste
 lista, spis, wykaz - liste  
 listopad - mes bati  
 listownicowiec - varka alga  
-lit - litium  
+lit - lito yum  
 litera, znak - fon zi  
 litewski - lietuva basha  
 litr - litre  
 Litwa - Lietuva  
-liwermor - livermorium  
+liwermor - livermor yum  
 loch - geo niche jela  
 lodowy - ais di  
 lody - ais krem  
@@ -1348,7 +1348,7 @@ logofil (miłośnik słów) - loga fili ja
 lojalność (wierność) - amen bil ta  
 lojalny (wierny) - amen bil  
 Londyn - London  
-lorens - laurencium  
+lorens - laurence yum  
 losowy - zar di  
 lot - fei  
 lotnisko (port lotniczy) - air porte  
@@ -1364,7 +1364,7 @@ lulać - lala
 lustro - mira plate  
 luteranizm - Luter din  
 luterański - Luter din ja  
-lutet - lutetium  
+lutet - lutesi yum  
 luty - mes des  
 luźna rozmowa, gadanina - blabla  
 lód - ais  
@@ -1381,7 +1381,7 @@ magik, czarownik - magi ja
 magma - pasta petra  
 magnes - manete  
 magnetyczny - manete di  
-magnez - magesium  
+magnez - magen yum  
 maj - mes du  
 Majotta - Mayote  
 mak lekarski - sona papi  
@@ -1415,8 +1415,8 @@ maraton - maraton
 marchew - karote  
 margaj (ocelot nadrzewny) - margai  
 margaryna - margarin  
-Mariany Północne - Marian nesia  
-marmur - kalse bilor  
+Mariany Północne - Marian nesi  
+marmur - kalsi bilor  
 Maroko - Magribi desha  
 Mars - Marse  
 martwić - be duka  
@@ -1456,7 +1456,7 @@ meduza - hai jele
 medycyna - dava logi  
 medytować; dumać, rozmyślać, zastanawiać się - jen  
 megawat - mega vate  
-meitner - maitnerium  
+meitner - meitner yum  
 Mekka - Makah  
 Meksyk - Mehiko  
 Meksyk - Mehiko siti  
@@ -1489,7 +1489,7 @@ migdał - badam
 migracja - migra  
 mikro- - mikro  
 mikrobiologia - mikro bio logi  
-Mikronezja - Mikronesia  
+Mikronezja - Mikronesi  
 mikroorganizm  (mikrob) - mikro bio  
 mikroskop - mikroskope  
 mikser, blender, robot kuchenny - mishe gi  
@@ -1544,7 +1544,7 @@ modlitwa - dua
 mokry (wilgotny) - shipi  
 mol - mole  
 molekuła (cząsteczka) - molekul  
-molibden - moliden  
+molibden - moliden yum  
 moment - sata  
 Monako - Monako  
 monarchia - auto krati  
@@ -1562,7 +1562,7 @@ morski - hai di
 morskoniebieski - hai blu  
 morwa - tuta  
 Morze Śródziemne - Geo Medi Hai  
-moskovium - moskovium  
+moskovium - moskva yum  
 Moskwa - Moskva  
 most - kiau  
 motocykl (motor) - moto sikle  
@@ -1661,18 +1661,18 @@ nawyk (przyzwyczajenie) - ada
 nawóz - darte bon ja  
 nazista - nasi sosi sim ja  
 nazizm - nasi sosi sim  
-nazwa użytkownika - use ja name  
+nazwa użytkownika - uze ja name  
 nazwać, nazywać, wezwać, wzywać - fa name  
 nazwisko, imię rodziny - famili name  
 naładować, załadować, obładować, ładować -   
 negatywny (przeciwny, nie) - an  
 negocjować - fa biznes lon  
-neodym - neodimium  
+neodym - neodim yum  
 neologizm - nove loga  
 neon - neon  
 Nepal - Nepal  
 Neptun - Neputun  
-neptun - neputunium  
+neptun - neputun yum  
 nerka (łosoś czerwony) - lal salmon  
 nerka - nefre  
 nerw - nerve  
@@ -1711,21 +1711,21 @@ niezgoda - alo rai
 nigdy - siro sata  
 Niger - Nijer  
 Nigeria - Naijiria  
-nihonium - nihonium  
+nihonium - nipon yum  
 Nikaragua - Nikaragua  
 nikiel - nikel  
 niknąć (blaknąć, gasnąć, słabnąć) - be mirde  
 nikt, żadna osoba - siro jan  
 nikły - mirde  
-niob - niobium  
+niob - niobi yum  
 niski - tal di  
 nisza, alkowa - nish  
 Niue - Niue  
 niuton (N) - niuton  
-nobel - nobelium  
+nobel - nobel yum  
 noc - noche  
 noga - fute shaka  
-Norfolk - Norfolke nes  
+Norfolk - Norfolke nesi  
 norma, standard - norma  
 normalny, standardowy - norma  
 Norwegia - Norge  
@@ -1858,7 +1858,7 @@ oset zwisły - pende kardon
 Osetia Południowa - Sude Iria (Alonia)  
 osiem (8) - bati  
 osioł - iha  
-osm - osmium  
+osm - osmi yum  
 osmoza - osmos  
 osoba - jan  
 osoba biznesu, biznesman - biznes ja  
@@ -1905,7 +1905,7 @@ Pakistan - Pakistan
 pakt (kontrakt, ugoda, umowa, konwencja) - kon trati  
 Palau - Palau  
 palec - angul  
-pallad - paladium  
+pallad - paladi yum  
 palma, drzewo palmowe - palme  
 pamiętać - fa memo  
 pamięć - memo  
@@ -2014,7 +2014,7 @@ pirotechnika - hogo tehni
 pismo, tekst - kitabu  
 pistolet - pistol  
 pistolet, strzelba, ręczna broń palna - pau gi  
-Pitcairn - Pitkerne nesia  
+Pitcairn - Pitkerne nesi  
 piwo - bir  
 piwonia - mudan  
 pizza - piza  
@@ -2048,7 +2048,7 @@ plazma (zjonizowany gaz) - plazma
 plecak - ruke sake  
 plemię - tribu  
 Pluton (planeta karłowata) - Pluton  
-pluton - plutonium  
+pluton - pluton yum  
 pluć - tuh  
 pnącz - eskale tana  
 pochochodnia (latarka) - foto kane  
@@ -2094,13 +2094,13 @@ pole, powierzchnia - area
 polerować (szlifować) - foto frike  
 policja - polis  
 policzyć, liczyć, przetwarzać dane - fa komputa  
-Polinezja Francuska - France Polinesia  
+Polinezja Francuska - France Polinesi  
 politeizm - poli deu sim  
 politologia - politi logi  
 polityczny - politi di  
 polityk - politi ja  
 polityka - politi lon  
-polon - polonium  
+polon - polska yum  
 polowanie (łowienie) - saide  
 polować (łowić) - saide  
 Polska - Polska  
@@ -2157,7 +2157,7 @@ poszukiwacz przygód (awanturnik) - ventur ja
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
 posłaniec (wysłannik) - anjil ja  
 pot - sueda  
-potas - kalium  
+potas - kali yum  
 potrzeba - yauta  
 potrzebny - yau di  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - fa sam rai  
@@ -2215,7 +2215,7 @@ prawo - kanun
 prawo wyborcze - vote haki  
 prawo, przywilej - haki  
 prawy (prawostronny, z prawej strony) - raite di  
-prazeodym - praseodimium  
+prazeodym - prazedim yum  
 prać, umyć, myć - vashi  
 preferować (woleć) - mas fili  
 premier - shefe minister  
@@ -2233,7 +2233,7 @@ program - program
 programista, koder - program ja  
 projekt, planowane przedsięwzięcie - projete  
 projektor (rzutnik) - grafi lanse gi  
-promet - prometium  
+promet - promete yum  
 promieniowanie - radi  
 promieniować - radi  
 promień - radi  
@@ -2245,7 +2245,7 @@ prosić - ching
 prostopadły - orto gona di  
 prosty - orto  
 prosty, nieskomplikowany - simple  
-protaktyn - protacinium  
+protaktyn - protacini yum  
 prowadzić (wskazać drogę) - gida  
 prowadzić pojazd - fa shofer  
 prowadzić, dowodzić, kierować - lida  
@@ -2347,7 +2347,7 @@ półka (regał na książki) - lipa ban
 północ - medi noche  
 północ - norde  
 północny - norde di  
-półwysep - yaki nes  
+półwysep - yaki nesi  
 później (w przyszłości) - pos  
 pękać (rozrywać się) - parche kai  
 pęknięcie - krake  
@@ -2374,7 +2374,7 @@ rabuś (grabieżca) - luta ja
 rachunek (faktura) - fatura  
 rachunek (formalny system obliczeń) - kalkul  
 racjonalny, rozsądny - razon di  
-rad - radium  
+rad - radi yum  
 rada, porada - sela loga  
 radio - radi geter  
 radio - radio  
@@ -2404,7 +2404,8 @@ rekin - sharke
 religia, wyznanie - din  
 religijny - din di  
 relikwia - chen zaman she  
-ren - renium  
+Ren - Ren  
+ren - ren yum  
 reprezentant (przedstawiciel) - vakil ja  
 reprezentować - vakil  
 republika - komun krati  
@@ -2423,7 +2424,7 @@ robak - verme
 robot - robote  
 rock - roke muzika  
 rocznica - nen festa  
-rod - rodium  
+rod - roza yum  
 rodak, ziomek, krajan - sam desha jan  
 rodzaj gramatyczny - basha jinse  
 rodzaj, typ, styl - yang  
@@ -2431,7 +2432,7 @@ rodzeństwo, brat lub siostra - brus
 rodzic (matka lub ojciec) - chin  
 rodzina - famili  
 rodzynka - gan putau  
-roentgen - rengenium  
+roentgen - rentegen yum  
 rok - nen  
 rola - rol  
 rolnik, farmer - nong ja  
@@ -2440,7 +2441,7 @@ ropa naftowa - petra nefte
 rosa - rose  
 Rosja - Rusia  
 rosyjski - rusia basha  
-rosyjski naleśnik (blin) - rusia krepe  
+rosyjski naleśnik (blin) - rus krepe  
 rotor, wirnik - rota she  
 rower - sikle  
 rower z pedałami - pedal sikle  
@@ -2463,7 +2464,7 @@ rozłożyć się (rozkładać się, gnić, psuć się) - be pute
 roślina, sadzonka - fito  
 rożen (szpikulec) - shish  
 rtęć - hidrargente  
-rubid - rubidium  
+rubid - rubi yum  
 rubin - rubi  
 ruch - kino  
 ruch - move  
@@ -2477,8 +2478,8 @@ Rumunia - Romania
 ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się) - fa migra  
 ruszać, przenościć, zmieniać miejsce, inspirować - fa kino  
 rusztowanie (trap) - fute ban  
-rut - rutenium  
-rutherford - ruterfordium  
+rut - rus yum  
+rutherford - ruterfor yum  
 rutyna, nawyk, zwyczaj - rutina  
 Rwanda - Ruanda  
 rwać (drzeć) - chira  
@@ -2543,10 +2544,10 @@ Saint Kitts i Nevis - Sante Kitse e Nevis
 Saint Lucia - Sante Lusia  
 Saint Vincent - Sante Vinsente  
 Saint Vincent and Grenadines - Sante Vinsente e Grenadine  
-Saint Vincent i Grenadyny - Valis e Futuna nesia  
+Saint Vincent i Grenadyny - Valis e Futuna nesi  
 Salwador - Salvador  
 sam, siebie - se  
-samar - samarium  
+samar - samari yum  
 Samoa - Samoa  
 samobieżny - auto move  
 samochód (automobil) - moto gar  
@@ -2563,7 +2564,7 @@ sawanna - garma zona gazo topo
 sałata - letus  
 sałatka - salade  
 schody (drabina) - eskale  
-seaborg - siborgium  
+seaborg - siborge yum  
 sejsmologia - sismologi  
 sekret - sir  
 sekretariat - sekretar ofis  
@@ -2572,7 +2573,7 @@ seks, stosunek płciowy - sekse
 seksowny, ponętny - sekse di  
 seksuologia - sekse logi  
 sekunda - sekunde  
-selen - selenium  
+selen - selen yum  
 sen - sona  
 senator - supra vakil ja  
 Senegal - Senegal  
@@ -2581,12 +2582,12 @@ ser - chize
 Serbia - Serbia  
 serce - shim  
 seria, szereg - sili  
-Seszele - Seshel nesia  
+Seszele - Seshel nesi  
 sezam - sesam  
 sfermentowany - bio mute di  
 shintoizm, sintoizm - shindau din  
 siano - gan gazo  
-siarka - sulfur  
+siarka - sulfu  
 siedem (7) - cheti  
 siedzenie (siodło) - side loka  
 siedzieć - fa side  
@@ -2607,7 +2608,7 @@ się (nawzajem, wzajemnie) - se kon
 siła - lika  
 siła, autorytet, władza - sultan  
 siły powietrzne - air gun  
-skand - eskandium  
+skand - eskandi yum  
 Skandynawia - Eskandinavia  
 skarb; skrabiec - bau  
 skarpeta, skarpetka, pończocha - maze  
@@ -2691,7 +2692,7 @@ srebro - argente
 Sri Lanka - Lanka  
 srom - vulva  
 ssak - mamal  
-ssać - chupa  
+ssać - chupu  
 stacja - estasi  
 stadion, arena - estadi  
 stan - hal  
@@ -2724,7 +2725,7 @@ strażnik więzienny - jela ja
 strażnik, ochroniarz - garde ja  
 strona (bok) - late  
 strona - varka late  
-stront - estrontium  
+stront - estronti yum  
 strzała (bełt) - fleche  
 strzelać (strzelić) - pau  
 strzykwa - hai hiyar  
@@ -2812,7 +2813,7 @@ sztuka - sundar shuta
 sztuka walki - jeng shuta  
 sztylet (puginał) - kanjar  
 szuflada - tire sanduku  
-szukać - soka  
+szukać - soki  
 Szwajcaria - Suise  
 Szwecja - Sven  
 szyb górniczy - kuang tunel  
@@ -2823,7 +2824,7 @@ szynszyla - chinchila
 szyszka - kone  
 szyć - siu  
 São Paulo - Sante Paulo  
-sód - natre  
+sód - natri  
 sól - sal  
 sądzić (osądzić) - fa jude  
 sędzia - jude ja  
@@ -2861,14 +2862,14 @@ tak - ye
 taki sam - sam  
 taksometr - taksi metre gi  
 taktyka, strategia - tatike  
-tal - talium  
+tal - tali yum  
 talerz - plate tasa  
 taleta, W####C - tualete  
 tamilski - Tamil  
 tamten - go  
 Tanach, Biblia hebrajska - tanah  
 taniec - danse  
-tantal - tantalum  
+tantal - tantal yum  
 Tanzania - Tanzania  
 taoista - dau din ja  
 taoizm - dau din  
@@ -2879,7 +2880,7 @@ taxi, taksówka - taksi kar
 taśma - tepe  
 taśma; bandaż - bande  
 tchórz, fretka - furete  
-technet - tehnetium  
+technet - tehni yum  
 technika, technologia - tehni  
 technokracja - tehni krati  
 technologia, nauka o technikach - tehni logi  
@@ -2890,13 +2891,13 @@ telefon - tele fon gi
 teleportować się - be tele loka  
 teleskop - teleskope  
 telewizja - tele vide gi  
-tellur - telurium  
+tellur - telu yum  
 telugu - Telugu  
 temat, motyw - tema  
 temperatura - termo  
 ten - ni  
 tendencja (być skłonnym) - klin  
-tenesyn, tennessine - tenesium  
+tenesyn, tennessine - tenesi yum  
 tenis - tenis  
 teokracja - deu krati  
 teologia - deu logi  
@@ -2906,7 +2907,7 @@ tera- - tera
 terakota - baka fan  
 teraźniejszość, współczesność (teraz) - zai zaman  
 teraźniejszość, współczesność - zaita  
-terb - terbium  
+terb - terbi yum  
 teren - geo forme  
 termometr - termo metre gi  
 terror - teror  
@@ -2935,7 +2936,7 @@ Tonga - Tonga
 topinambur - masa mula sol hua  
 topić (upłynnić, upłynniać) - yong safa  
 topnieć (upłynniać się) - yong  
-tor - torium  
+tor - tor yum  
 torba, wór, worek, torba, sakwa - sake  
 tost - roste pang  
 towarzysz (partner, kumpel) - late jan  
@@ -2962,7 +2963,7 @@ trójząb - tri zong
 trąba powietrzna (cyklon, tornado, tajfun) - rota tafun  
 tu (tutaj, tam) - na go  
 tuba, rura - tubo  
-tul - tulium  
+tul - tule yum  
 tulipan - tulpan  
 tundra - tundra  
 tunel - tunel  
@@ -2989,13 +2990,13 @@ Tybet - Bote
 tydzień - var var  
 tygrys - bagre  
 tykwa pospolita (kabalasz) - sui kaboga  
-tylko (jedyny, wyłączny) - unike  
+tylko (jedyny, wyłączny) - un di  
 tylko (precyzyjny, dokładny) - juste  
 typ (rodzaj, gatunek) - tipe  
 tyran - zalim raja  
 tyrania - zalimta  
 tysiąc (kilo-) - kilo  
-tytan - titanium  
+tytan - titan yum  
 tytoń - tabaku  
 tytuł (nagłówek) - tema name  
 tęcza - rang arka  
@@ -3033,14 +3034,14 @@ umieścić (postawić) - fa loka
 umrzeć, umierać - be mata  
 umysłowy (psychiczny) - ruhu di  
 unia - unta liga  
-Unia Europejska (EU) - Europe Unta  
+Unia Europejska (EU) - Europa Unta  
 uniwersytet - dai shula kan  
 upadły - pade di  
 uprawić, uprawiać - nong  
 uprzejmy - kechi  
 upuścić, upuszczać - fa pade  
 Uran - Uran  
-uran - uranium  
+uran - uran yum  
 urdu - urdu  
 uroczy, słodki - kavai  
 urodziny - jene den  
@@ -3064,11 +3065,10 @@ ułożyć w trabelę - table yo data
 uświadomienie, świadomość; oświecenie, bodhi - budi  
 uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - fa budi  
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faida di  
-użytkownik - use ja  
-użyć, używać, zatrudnić, stosować - use  
+użytkownik - uze ja  
+użyć, używać, zatrudnić, stosować - uze  
 ####V - V  
 Vanuatu - Vanuatu  
-viski - viski  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
 waga (ciężkość) - veze  
@@ -3079,11 +3079,11 @@ walijski - kamri
 walka, wojna - jeng  
 wampir - vampir  
 wampirzyca piekielna (wampirnica) - vampir ohtopus  
-wanad - vanadium  
+wanad - vanadi yum  
 wanilia - vanila  
-wapień - kalse petra  
-wapno - kalse mate  
-wapń - kalsium  
+wapień - kalsi petra  
+wapno - kalsi mate  
+wapń - kalsi yum  
 warcaby - dama gem  
 warga - labi  
 warstwa (poziom, piętro, kondygnacja) - cheng  
@@ -3264,15 +3264,15 @@ wyrzutek - paraya
 wyrzutnia rakietowa - rokete lanse gi  
 wysoki - gau  
 wysokość - gau ta  
-wyspa - nesia  
-Wyspa Man - Manin nes  
-Wyspy Alandzkie - Olande nesia  
-Wyspy Cooka - Kuke nesia  
-Wyspy Dziewicze US####A - Virjin nesia  
-Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia e Sudi Sandviche nesia  
-Wyspy Kokosowe - Kokos nesia  
-Wyspy Marshalla - Marshal nesia  
-Wyspy Salomona - Solomon nesia  
+wyspa - nesi  
+Wyspa Man - Manin nesi  
+Wyspy Alandzkie - Olande nesi  
+Wyspy Cooka - Kuke nesi  
+Wyspy Dziewicze US####A - Virjin nesi  
+Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia e Sudi Sandviche nesi  
+Wyspy Kokosowe - Kokos nesi  
+Wyspy Marshalla - Marshal nesi  
+Wyspy Salomona - Solomon nesi  
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde  
 Wyspy Świętego Tomasza i Książęca - Sante Tome e Prinsipe  
 wystarczający - basa  
@@ -3563,7 +3563,7 @@ zły, zrujnowany, zepsuty - harabu
 żeglować (płynąć) - nave gou  
 żegnaj, dobre odejście - salam chuti  
 żel, galareta - jele  
-żelazo - feru  
+żelazo - fero  
 żeń-szeń - jenshen  
 żołnierz - gun jan  
 żołądź - baluta frute  
