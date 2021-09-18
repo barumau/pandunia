@@ -33,7 +33,7 @@ ama - любовь
 ama ja - любовник  
 amen - честный (правдивый)  
 amen bil - верный  
-amen bilta - верность  
+amen bil ta - верность  
 amen shin - доверять (понадеяться)  
 amir lin - командная строка  
 an din ja - неверующий  
@@ -190,9 +190,9 @@ botel - бутылка
 Brahma - Брахма  
 brauza - исследовать  
 brauza gi - браузер  
-brauza program - исследователь  
 bravo - браво  
 briko - абрикос (слива)  
+brosha - щётка  
 bu! - бу  
 bubu - бука  
 bucha ja - мясник  
@@ -420,6 +420,7 @@ fito logi - ботаника
 fito yam sim ja - вегетарианец  
 flame - воспаление  
 fleche - стрела (стрелка)  
+fonte kalam - авторучка  
 fora - сверлить (бурить)  
 foto - свет  
 foto frike - полировать  
@@ -448,7 +449,7 @@ gabur sheku - надгробие
 galaksi - галактика  
 Galia - Галлия  
 galope - кентер и галоп  
-gan chau - сено  
+gan gazo - сено  
 ganse - гусь  
 ganum - пшеница  
 garma mosim - лето  
@@ -459,11 +460,13 @@ gati - твёрдый
 gau tehni - высокие технологии  
 gazel - газель  
 gazeta - газета  
+gazo - трава  
+gazo medan - газон  
 gem ja - игрок (геймер)  
 Geo - Земля  
 geo grafi - география  
 geo metre - геометрия  
-geo niche prizon - ублиет (подземная тюрьма)  
+geo niche jela - ублиет (подземная тюрьма)  
 geo politi - геополитика  
 geo termo - геотерма́льный  
 giau - учить (преподавать)  
@@ -510,8 +513,8 @@ haha - смеяться
 hai - море  
 hai alga - морские водоросли  
 hai amir ja - адмирал  
-hai chau - морские травы  
 hai di - морской  
+hai gazo - морские травы  
 hai gun - военно-морской флот  
 hai hiyar - голотурия (морские огурц)  
 hai hua - морские анемоны  
@@ -559,6 +562,7 @@ hua pote - цвето́чный горшок
 hui darte - подзол  
 huke - крюк (гак)  
 huke krus - свастика  
+huke lin kane - удочка  
 huli - лиса  
 huru - свободный (вольный)  
 ####I - I  
@@ -641,6 +645,7 @@ kamil - ромашка аптечная
 kamisa - рубашка  
 kampe bagi - полевой стан  
 kampe bede - раскладушка  
+kanal - канава (канал)  
 kancha - стекло  
 kancha daka - глазурь  
 kandi - конфета  
@@ -657,6 +662,7 @@ kape truke - ловушка
 karate - каратэ  
 karate ka - каратист (каратэка)  
 karbon duokside - двуокись углерода  
+karbon kalam - карандаш  
 karbon sui - углевод  
 karchof - артишок посевной  
 kardon - расторопша  
@@ -678,6 +684,7 @@ kave - яма
 ke - что  
 ke riti - как  
 Keme - Древний Египет  
+kesha brosha - щётка для воло́с  
 kesha hin - безволосый  
 ki - что  
 kimi - вещество  
@@ -772,7 +779,7 @@ lefte - левый
 leng mosim - зима  
 leng mosim di - зимний  
 lense - линза  
-letis - салат-латук  
+letus - салат-латук  
 liama - лама  
 libele - стрекоза  
 lida ja - руководитель (лидер)  
@@ -803,6 +810,7 @@ loga jama - словарь
 loga so - слово (речь)  
 loge - запись  
 loge buku - судовой журнал  
+logi safar ja - исследователь  
 loka - место  
 long dura - долго  
 long dura di - долгий (длительный)  
@@ -864,6 +872,7 @@ me poze - ранг
 meche - матч  
 medan - площадь (сквер, майдан)  
 medan papi - мак самосейка  
+mede - помощь  
 medi - средний  
 medi dia - полдень  
 medi gi - средство  
@@ -1044,9 +1053,12 @@ pei gung jiu - карьера
 pelpel - бабочка (мотылёк)  
 pende kardon - чертополох поникший  
 pente - картина  
+pente brosha - кисть  
 pente ja - художник  
 pente tela - полотно  
+pera - груша  
 pero - перо  
+pero kalam - перо  
 pero kardon - бодяк обыкновенный  
 pesa - деньги  
 pesa diske - монета  
@@ -1289,7 +1301,7 @@ Suise - Швейцария
 suka - счастливый (радостный)  
 sukar - сахар  
 sukar bete - сахарная свёкла  
-sukar chau - сахарный тростник  
+sukar gana - сахарный тростник  
 sukar oranje - апельсин  
 suna islam din - сунниты  
 sundar - красивый  

@@ -67,7 +67,7 @@ ama jen - amado (cariño)
 Amara - amhara  
 amen - honesto (seguramente, amén)  
 amen bil - leal (fiel)  
-amen bilta - lealtad (fidelidad)  
+amen bil ta - lealtad (fidelidad)  
 amen shin - confiar (contar con)  
 Amerika - América  
 Amerika di - americano  
@@ -331,7 +331,7 @@ be retro - volver
 be rupa - parecer  
 be rute galte - apartarse (desviarse)  
 be sabi vol - preguntarse  
-be sam - parecerse a  
+be sam rupa - parecerse a  
 be shuru - comenzar (iniciarse, empezar)  
 be sona - dormir  
 be suka - gustarse (disfrutar)  
@@ -427,7 +427,6 @@ Bote - Tíbet
 botel - botella  
 brauza - explorar  
 brauza gi - navegador  
-brauza program - explorador  
 bravo - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - República del Congo  
@@ -435,7 +434,7 @@ Brazil - Brasil
 briko - albaricoque (ciruela)  
 Britan - Reino Unido  
 brom - bromo  
-brosh - cepillo (brocha)  
+brosha - cepillo (brocha)  
 Brunei - Brunei  
 brus - hermano o hermana  
 bu! - bu!  
@@ -486,8 +485,6 @@ chapati - chapati (pan sin levadura)
 chape - grabado (sello, estampando)  
 charme - encanto  
 chati - techo (tejado)  
-chau - césped (hierba)  
-chau topo - pradera (pastizal)  
 cheke - revisar (chequear)  
 chen - previo (anterior)  
 chen - más temprano (antes, haber, en el pasado)  
@@ -566,7 +563,7 @@ Danske - danés
 Danske desha - Dinamarca  
 dante - diente  
 dante baluta - roble daimyo  
-dante brosh - cepillo de dientes  
+dante brosha - cepillo de dientes  
 dante dava ja - dentista (odontólogo)  
 dante hin - desdentado  
 dara mate - líquido  
@@ -866,12 +863,12 @@ fa guste - notar el sabor
 fa halal - permitir (dejar)  
 fa haram - prohibir  
 fa has - diferenciar (distinguir)  
-fa helpe - ayudar (asistar)  
 fa hisabu - calcular  
 fa hogo - quemar  
 fa in klus - incluir  
 fa jama - recoger (juntar, reunir, acumular, recolectar, montar)  
 fa javabu - responder (contestar)  
+fa jela - encarcelar (aprisionar)  
 fa jene - dar a luz (enngendrar, parir, procrear)  
 fa jude - juzgar  
 fa jung - centrar (concentrar)  
@@ -907,6 +904,7 @@ fa marche - caminar (marchar, andar)
 fa marke - marcar  
 fa mata - matar (morir, asesinar)  
 fa meche - competir  
+fa mede - ayudar (asistar)  
 fa memo - acordarse  
 fa mestre - dominar  
 fa migra - migrar (emigrar, tralsadar)  
@@ -948,7 +946,6 @@ fa pos - seguir
 fa posta - eviar por correo  
 fa poze - hacer posar (plantar)  
 fa presa - prensar (oprimir)  
-fa prizon - encarcelar (aprisionar)  
 fa pul - llenar  
 fa pul bon - perfeccionar  
 fa rai - opinar  
@@ -1106,6 +1103,7 @@ fon zi - letra (carácter)
 fong - abeja o avispa  
 fong nide - avispero (colmena)  
 fonte - fuente (manantial)  
+fonte kalam - estilógrafo  
 fora - taladrar (perforar)  
 forke - tenedor  
 forma - forma (figura, morfo)  
@@ -1182,10 +1180,12 @@ gami jan - esposo o esposa
 gami ma - suegra  
 gami pa - suegro  
 gan - seco (árido)  
-gan chau - heno  
+gan gazo - heno  
 gan putau - pasa (uva pasa)  
 gan tela - toalla  
 Gana - Ghana  
+gana - caña  
+gana kalam - cálamo  
 Ganda - Uganda  
 Ganga - Ganges  
 ganja - cannabis (hachís, marihuana)  
@@ -1200,7 +1200,7 @@ garma masala - garam masala
 garma mosim - verano  
 garma mosim medi den - Midsommar  
 garma zona - trópico  
-garma zona chau topo - sabana  
+garma zona gazo topo - sabana  
 gas - gas  
 gas di - gaseoso  
 gata - cortar  
@@ -1217,6 +1217,9 @@ gaze - gasa
 gazel - gacela  
 gazeta - revista (periódico, gaceta)  
 gazeta ja - periodista  
+gazo - hierba  
+gazo medan - césped (pasto)  
+gazo topo - pradera (pastizal)  
 gei - gay (homosexual)  
 gem - juego  
 gem ja - jugador  
@@ -1232,7 +1235,7 @@ geo logi - geología
 Geo Medi Hai - Mediterráneo  
 geo metre - geometría  
 geo niche di - subterráneo  
-geo niche prizon - mazmorra  
+geo niche jela - mazmorra  
 geo par lin - ecuador  
 Geo Par Lin Ginia - Guinea Ecuatorial  
 geo politi - geopolítica  
@@ -1339,8 +1342,7 @@ hai gun - marina (armada)
 hai hiyar - holoturia (pepino de mar)  
 hai hua - actinia (anémonas de mar)  
 hai jele - medusa  
-hai kinar - orilla  
-hai kinar - costa  
+hai kinar - costa (orilla)  
 hai porte - puerto marítimo  
 haide - vamos a  
 Haiti - Haití  
@@ -1396,13 +1398,11 @@ helis - espiral (hélice)
 helis babul - acacia de copa plana  
 helis fei gi - helicóptero  
 helium - helio  
-helpe - ayuda (asistencia)  
-helpeja - proponente (defensor)  
 hem - considerar (reflexionar, pensar en)  
 hem… - hm…  
 hema - carpa (toldo)  
 hen - odio  
-hena - odiar  
+hen - odiar  
 hero - héroe  
 hero di - valiente (heroico)  
 herze - hercio (Hz)  
@@ -1460,6 +1460,7 @@ hui darte - podsol
 hui rang - gris  
 huke - gancho (anzuelo, alcayata)  
 huke krus - esvástica (cruz gamada)  
+huke lin kane - caña de pesca  
 huli - zorro  
 humus - garbanzo  
 humus sos - humus  
@@ -1472,8 +1473,8 @@ huru ta - libertad
 hushi - cómodo (lujoso)  
 ####I - I  
 ibri - hebreo  
-icha - querer (disponer)  
-icha - voluntad  
+ichi - querer (disponer)  
+ichi - voluntad  
 idea - idea (noción, concepto)  
 idea di - conceptual  
 idea zi - ideograma  
@@ -1521,8 +1522,8 @@ ion radi di - radiactivo
 Iraki - Iraq  
 Iran - Irán  
 iridium - iridio  
-ironi - irónico  
 ironi - ironía  
+ironi di - irónico  
 islam - sumisión (rendición)  
 islam din - islamismo (islam)  
 islam din ja - musulmán  
@@ -1557,6 +1558,10 @@ jeka - prestar (pedir prestado)
 jeka daku - pedir prestado  
 jeka dona - prestar  
 jeka loga - préstamo lingüístico  
+jela - prisión  
+jela ja - carcelero  
+jela jan - prisionero  
+jela kan - cárcel  
 jele - gel (jalea, gelatina)  
 jelosi - celoso (envidioso)  
 jen - meditar (reflexionar)  
@@ -1671,7 +1676,7 @@ kampe ja - campista
 Kamri - Gales  
 kamri - galés  
 Kanada - Canadá  
-kanal - canal (cauce, acequia)  
+kanal - canal (cauce, acequia, foso, zanja)  
 kancha - vidrio (cristal)  
 kancha daka - vidriado (esmalte)  
 kandela - candela (unidad de intensidad luminosa)  
@@ -1701,6 +1706,7 @@ karavi - carvis (alcaravea)
 karbau - búbalo (arni)  
 karbon - carbón  
 karbon duokside - dióxido de carbono  
+karbon kalam - lápiz  
 karbon sui - carbohidrato  
 karchof - alcachofera  
 kardon - cardo  
@@ -1762,6 +1768,7 @@ kerne unta - fusión nuclear
 kerubi - querubín  
 kesha - pelo  
 kesha bande - cinta (cinta para el pelo)  
+kesha brosha - cepillo de pelo  
 kesha hin - pelado (desvellado)  
 kesha sabun - champú  
 ketel - hervidor (tetera)  
@@ -1979,8 +1986,7 @@ leng mosim di - invernal
 lense - lente  
 lenshi - ensayo (ejercitio)  
 lente - lento (despacio)  
-letis - lechuga  
-lezi - pera  
+letus - lechuga  
 liama - llama  
 Libanen - Líbano  
 libele - libélula  
@@ -2045,6 +2051,7 @@ loga tabi di - hablador (locuaz)
 loge - registro (archivo, anotación)  
 loge buku - libro de registro  
 logi - ciencia (estudiar, investigar, -ología)  
+logi safar ja - explorador  
 logika - lógica  
 logika di - logical  
 loka - lugar  
@@ -2186,6 +2193,8 @@ medan - plaza
 medan di - abierto (extenso)  
 medan fobi - agorafobia  
 medan papi - amapola silvestre  
+mede - ayuda (socorro, auxilio, asistencia)  
+mede ja - proponente (defensor)  
 medi - medio  
 medi - medio (mediano)  
 medi dia - mediodía  
@@ -2660,10 +2669,13 @@ pelpel - mariposa (palomilla)
 pende - colgar  
 penis - pene  
 pente - pintura  
+pente brosha - pincel  
 pente ja - pintor  
 pente tela - tela  
-perisha - perecer  
+pera - pera  
+perishe - perecer  
 pero - pluma  
+pero kalam - pluma  
 pero kardon - cardo burral  
 Peru - Perú  
 pesa - dinero (plata)  
@@ -2785,10 +2797,6 @@ prati di - práctico
 presa - presión  
 presa gi - prensa  
 prezidente - presidente  
-prizon - prisión  
-prizon ja - carcelero  
-prizon jan - prisionero  
-prizon kan - cárcel  
 problem - problema  
 problem di - problemático  
 profesor - profesor  
@@ -3275,8 +3283,8 @@ suje - surgéncia (propuesta)
 suka - feliz  
 sukar - azúcar  
 sukar bete - remolacha azucarera  
-sukar chau - caña de azúcar  
 sukar di - azucarado  
+sukar gana - caña de azúcar  
 sulfur - azufre  
 sultan - poder (autoridad, competencia)  
 sultan desha - sultanato  

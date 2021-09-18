@@ -3,6 +3,7 @@
 a - but (rather)  
 a min da - except (minus)  
 abies - fir tree  
+achar - pickle  
 achar di - pickled  
 achar hiyar - gherkin (pickle)  
 achi - sneeze (achoo)  
@@ -69,7 +70,7 @@ ama jen - darling (honey)
 Amara - Amhara (an Ethiopian ethnic group and language)  
 amen - honest (trustworthy, true; surely, verily, amen)  
 amen bil - loyal (faithful, trustworthy)  
-amen bilta - loyalty (faithfulness)  
+amen bil ta - loyalty (faithfulness)  
 amen shin - trust (have faith, rely)  
 amen shin di - trusted  
 Amerika - America (continent)  
@@ -365,7 +366,7 @@ be retro - return (get back)
 be rupa - seem  
 be rute galte - stray (deviate)  
 be sabi vol - wonder (be interested in, would like to know)  
-be sam - resemble (be like)  
+be sam rupa - resemble (be like)  
 be shuru - begin (get started)  
 be sona - sleep  
 be suka - like (enjoy, be fond of)  
@@ -474,7 +475,6 @@ botel - bottle
 Brahma - Brahma  
 brauza - explore (browse)  
 brauza gi - browser  
-brauza program - explorer  
 bravo - brave (gallant, valiant)  
 bravo - bravo!  
 Brazavil - Brazzaville  
@@ -483,7 +483,8 @@ Brazil - Brazil
 briko - apricot (plum, peach)  
 Britan - United Kingdom  
 brom - bromine  
-brosh - brush  
+brosha - brush  
+brosha kalam - inkbrush (calligraphy brush)  
 Brunei - Brunei Darussalam  
 brus - sibling (brother or sister)  
 brusben - nephew or niece  
@@ -536,8 +537,6 @@ chapati - flatbread (chapati, roti)
 chape - print (stamp)  
 charme - charm (attraction)  
 chati - roof  
-chau - grass  
-chau topo - grassland (prairie)  
 cheke - check (to examine)  
 chen - previous (fore)  
 chen - earlier (before, in the past)  
@@ -630,7 +629,7 @@ Danske - Danish
 Danske desha - Denmark  
 dante - tooth  
 dante baluta - daimyo oak  
-dante brosh - tooth brush  
+dante brosha - tooth brush  
 dante dava ja - dentist  
 dante hin - toothless  
 dara - flow (current, stream)  
@@ -644,6 +643,7 @@ darja medan - gradient (gradation, incline)
 darja mute - development  
 darmesitadium - darmstadtium  
 darte - soil (dirt)  
+darte bon ja - fertilizer  
 darte di - soily (dirty)  
 darvin sim - Darwinism  
 darvin sim ja - Darwinist  
@@ -847,7 +847,7 @@ emosi - emotion (feeling)
 emosi di - emotional (emotive)  
 emosi hal - mood (emotional state)  
 emosi zi - emoji (smiley, emoticon)  
-Encheladus - Enceladus  
+Enceladus - Enceladus  
 energi - energy  
 English - England  
 english di - English  
@@ -925,6 +925,7 @@ fa chuti - leave (go out, exit)
 fa daka - cover (conceal)  
 fa dalil - prove (demonstrate, testify)  
 fa dante - bite  
+fa darte bon - fertilize  
 fa dika - aim (point)  
 fa dom - accommodate  
 fa dosil - tame (train)  
@@ -968,7 +969,6 @@ fa halal - allow (permit)
 fa hapu - fit (adapt, adjust, make suitable)  
 fa haram - forbid (ban, disallow)  
 fa has - distinguish  
-fa helpe - help (assist)  
 fa hisabu - calculate  
 fa hogo - burn (cause to burn)  
 fa in - enter (insert, put in)  
@@ -976,6 +976,7 @@ fa in klus - include (enclose, hold in)
 fa ja - doer (agent)  
 fa jama - collect (gather, bring together, assemble, congregate)  
 fa javabu - respond (give an answer)  
+fa jela - imprison (jail)  
 fa jene - give birth (beget, generate, breed)  
 fa jin - put forward (advance, progress)  
 fa jude - judge  
@@ -1019,6 +1020,7 @@ fa mas lika - reinforce (replenish)
 fa masim - maximize  
 fa mata - kill  
 fa meche - compete (have a match)  
+fa mede - help (assist)  
 fa memo - remember (recall)  
 fa mestre - master (be an expert at sth)  
 fa migra - move (migrate, relocate)  
@@ -1067,7 +1069,6 @@ fa pos - follow (come after)
 fa posta - mail (send by mail)  
 fa poze - pose (set, plant)  
 fa presa - press (squeeze)  
-fa prizon - imprison (jail)  
 fa pul - fill  
 fa pul bon - perfect (optimize, refine, polish)  
 fa rai - deem (opine, think that)  
@@ -1240,6 +1241,7 @@ fon zi - letter (character, written symbol)
 fong - bee or wasp  
 fong nide - bee nest (beehive, wasp's nest)  
 fonte - fountain (spring, well)  
+fonte kalam - fountain pen  
 fora - drill (bore, perforate)  
 forke - fork  
 forma - form (shape, morph)  
@@ -1271,8 +1273,6 @@ frem - frame
 frike - rub (scrape, scrub)  
 frute - fruit  
 frute bagi - orchard  
-frute sana - fertilize  
-frute sana ja - fertilizer  
 fufu - pulp (pap, mash, mush)  
 fui - bah! (yuck!)  
 fuka - return (restore, recover, resume)  
@@ -1323,11 +1323,13 @@ gami jan - spouse (husband or wife)
 gami ma - mother-in-law  
 gami pa - father-in-law  
 gan - dry  
-gan chau - hay  
+gan gazo - hay  
 gan mosim - dry season  
 gan putau - raisin  
 gan tela - towel  
 Gana - Ghana  
+gana - reed (cane)  
+gana kalam - reed pen  
 Ganda - Uganda  
 Ganga - Ganges  
 Ganimede - Ganymede  
@@ -1343,8 +1345,8 @@ garma masala - garam masala
 garma mosim - summer  
 garma mosim medi den - Midsummer Day  
 garma zona - tropics  
-garma zona chau topo - savannah  
 garma zona di - tropical  
+garma zona gazo topo - savannah  
 gas - gas  
 gas di - gaseous  
 gata - cut  
@@ -1364,6 +1366,9 @@ gaze - gauze
 gazel - gazelle  
 gazeta - magazine (journal, gazette)  
 gazeta ja - journalist  
+gazo - grass  
+gazo medan - lawn  
+gazo topo - grassland (prairie)  
 gei - gay (homosexual)  
 gem - game  
 gem ja - player (gamer)  
@@ -1381,7 +1386,7 @@ geo logi - geology
 Geo Medi Hai - Mediterranean  
 geo metre - geometry  
 geo niche di - underground (subterrainean)  
-geo niche prizon - dungeon (underground prison)  
+geo niche jela - dungeon (underground prison)  
 geo par lin - equator  
 Geo Par Lin Ginia - Equatorial Guinea  
 geo politi - geopolitics  
@@ -1488,14 +1493,13 @@ hai - sea
 hai alga - seaweed (macroalgae)  
 hai amir ja - admiral  
 hai blu - aqua (teal)  
-hai chau - seagrass  
 hai di - maritime  
+hai gazo - seagrass  
 hai gun - sea force (navy)  
 hai hiyar - sea cucumber  
 hai hua - sea anemone  
 hai jele - jellyfish (seajelly)  
-hai kinar - shore  
-hai kinar - coast (beach)  
+hai kinar - shore (coast, beach)  
 hai porte - harbor (seaport)  
 haide - let's  
 Haiti - Haiti  
@@ -1552,14 +1556,12 @@ helis - spiral (helix, corkscrew, twist)
 helis babul - umbrella thorn acacia tree  
 helis fei gi - helicopter  
 helium - helium  
-helpe - help (aid, assistance)  
-helpeja - helper (supporter, proponent, backer)  
 Helsinki - Helsinki  
 hem - ponder (think, contemplate, consider, regard)  
 hem… - hmm…  
 hema - tent  
 hen - hatred (hate, resentment, odium)  
-hena - hate (despise)  
+hen - hate (despise)  
 hero - hero  
 hero di - heroic  
 hero kata - saga (heroic tale)  
@@ -1624,6 +1626,7 @@ hui darte - podzol
 hui rang - grey (gray, ashy)  
 huke - hook  
 huke krus - swastika (hooked cross)  
+huke lin kane - fishing rod (fishing pole)  
 huli - fox  
 humus - chickpea  
 humus sos - hummus  
@@ -1636,8 +1639,8 @@ huru ta - freedom (liberty)
 hushi - nice (pleasant, comfortable, cushy)  
 ####I - I  
 ibri - Hebrew  
-icha - will (want)  
-icha - will (volition, desire)  
+ichi - will (want)  
+ichi - will (volition, desire)  
 idea - idea (concept, notion)  
 idea di - conceptual  
 idea zi - ideogram  
@@ -1689,8 +1692,8 @@ ion radi di - radioactive
 Iraki - Iraq  
 Iran - Iran  
 iridium - iridium  
-ironi - ironic  
 ironi - irony  
+ironi di - ironic  
 islam - submission (surrender)  
 islam din - Islam  
 islam din ja - muslim (moslem)  
@@ -1729,6 +1732,10 @@ jeka - borrow (lend)
 jeka daku - borrow  
 jeka dona - lend  
 jeka loga - loanword  
+jela - prison (imprisonment)  
+jela ja - jailer (imprisoner)  
+jela jan - prisoner  
+jela kan - prison (jail)  
 jele - gel (jelly)  
 jelosi - jealous  
 jen - meditate (contemplate, ponder, cogitate)  
@@ -1857,7 +1864,7 @@ Kamri - Wales (Cambria)
 kamri - Welsh  
 kan - shop (building, house, place)  
 Kanada - Canada  
-kanal - channel  
+kanal - ditch (canal, channel, dyke, trench)  
 kanal ja - conduit (channel)  
 kancha - glass  
 kancha daka - glazing (enamel)  
@@ -1892,6 +1899,7 @@ karavi - caraway
 karbau - water buffalo  
 karbon - carbon (coal)  
 karbon duokside - carbon dioxide  
+karbon kalam - pencil  
 karbon sui - carbohydrate (saccharide)  
 karchof - globe artichoke  
 kardon - thistle  
@@ -1956,6 +1964,7 @@ kerne unta - nuclear fusion
 kerubi - cherub  
 kesha - hair  
 kesha bande - hairband (headband)  
+kesha brosha - hairbrush  
 kesha hin - hairless  
 kesha sabun - shampoo  
 ketel - kettle  
@@ -2198,9 +2207,8 @@ leng mosim di - wintry
 lense - lens  
 lenshi - exercise  
 lente - slow (lethargic)  
-letis - lettuce  
+letus - lettuce  
 leu - attain (accomplish, indicates the current position)  
-lezi - pear  
 liama - llama  
 Libanen - Lebanon  
 libele - dragonfly  
@@ -2271,6 +2279,7 @@ loga tabi di - talkative
 loge - register (record, log)  
 loge buku - logbook  
 logi - study (research, science, -ology)  
+logi safar ja - explorer  
 logika - logic (deduction)  
 logika di - logical  
 loka - place (location)  
@@ -2423,6 +2432,8 @@ medan - field (square, plaza, maidan)
 medan di - open (wide, spacious)  
 medan fobi - agoraphobia  
 medan papi - corn poppy  
+mede - help (aid, assistance)  
+mede ja - helper (supporter, proponent, backer)  
 medi - middle (the part in between)  
 medi - medium (intermediate, mean)  
 medi dia - noon (midday)  
@@ -2937,11 +2948,14 @@ pende - hang (dangle)
 pende kardon - musk thistle  
 penis - penis (phallus)  
 pente - paint  
+pente brosha - paintbrush  
 pente ja - painter  
 pente tela - canvas  
-perisha - perish (ruin, waste away)  
-perisha di - perished (ruined, desolate, wretched, miserable)  
+pera - pear  
+perishe - perish (ruin, waste away)  
+perishe di - perished (ruined, desolate, wretched, miserable)  
 pero - feather  
+pero kalam - quill  
 pero kardon - spear thistle  
 Peru - Peru  
 pesa - money  
@@ -3070,10 +3084,6 @@ prati di - practical (pragmatic)
 presa - pressure  
 presa gi - press device  
 prezidente - president  
-prizon - prison (imprisonment)  
-prizon ja - jailer (imprisoner)  
-prizon jan - prisoner  
-prizon kan - prison  
 problem - problem (issue)  
 problem di - problematic  
 profesor - professor  
@@ -3596,8 +3606,8 @@ suje - suggestion (proposal)
 suka - pleased (delighted, happy)  
 sukar - sugar  
 sukar bete - sugar beet  
-sukar chau - sugarcane  
 sukar di - sugary (sweet)  
+sukar gana - sugarcane  
 sukar oranje - sweet orange  
 sulfur - sulfur (brimstone)  
 sultan - power (authority, rule)  
@@ -3958,7 +3968,7 @@ yam - consume (eat or drink)
 yam fito - vegetable  
 yam kamar - dining room  
 yam she - food (meal)  
-yam sukar chau - duruka  
+yam sukar gana - duruka  
 yam yau - hunger  
 yamen - they  
 yamen su - their  

@@ -289,6 +289,7 @@ botel - bouteille
 bravo - brave  
 bravo - bravo!  
 briko - abricot (prune)  
+brosha - brosse  
 bu! - bouh!  
 bubu - croque-mitaine  
 bucha - abattre  
@@ -526,6 +527,7 @@ fleche - flèche
 fobi ja - effrayant  
 fong - abeille ou guêpe  
 fong nide - ruche (nid d'abeille)  
+fonte kalam - stylo-plume  
 fora - forer (percer)  
 foto - lumière  
 foto frike - poli  
@@ -562,19 +564,23 @@ gami - mariage
 gami jan - époux  
 gami ma - belle-mère  
 gami pa - beau-père  
-gan chau - foin  
+gan gazo - foin  
 gan tela - serviette  
+gana - canne  
+gana kalam - calame  
 ganse - oie  
 ganum - blé  
 garma mosim - été  
 garma zona - tropique  
-garma zona chau topo - savane  
+garma zona gazo topo - savane  
 gas - gaz  
 gata glu ban - presse-papier  
 gati - dur  
 gau - haut  
 gau tehni - hautes technologies  
 gazel - gazelle  
+gazo - herbe (gazon)  
+gazo medan - pelouse (gazon)  
 Geo - Terre  
 geo elfe - gnome  
 geo forme - terrain  
@@ -582,7 +588,7 @@ geo grafi - geographie
 geo kaske plate - plaque tectonique  
 geo logi - géologie  
 geo metre - géométrie  
-geo niche prizon - oubliette (cul de basse-fosse)  
+geo niche jela - oubliette (cul de basse-fosse)  
 geo politi - géopolitique  
 geo termo - géothermique  
 Germania - Germanie  
@@ -626,7 +632,7 @@ haha - rire
 hai - mer  
 hai alga - algues  
 hai amir ja - amiral  
-hai chau - posidonie (herbiers marins)  
+hai gazo - posidonie (herbiers marins)  
 hai gun - force navale (marine)  
 hai hiyar - concombre de mer  
 hai jele - méduse  
@@ -677,6 +683,7 @@ hua pote - pot de fleur
 hui darte - podzol  
 huke - crochet  
 huke krus - svastika (croix gammée)  
+huke lin kane - canne à pêche  
 huli - renard  
 huru - libre  
 ####I - I  
@@ -710,6 +717,7 @@ Jayer - Algérie
 jeka - prêter (empruntre)  
 jeka daku - empruntre  
 jeka dona - prêter  
+jela kan - prison (geôle)  
 jen buda din - zen  
 jene basha - langue maternelle  
 jene logi - généalogie  
@@ -767,6 +775,7 @@ kamisa - chemise
 kamisa shaka - manche  
 kampe bagi - terrain de camping  
 kampe bede - lit de camp  
+kanal - fossé (canal, tranchée)  
 kancha - verre  
 kandi - bonbon  
 kane - bâton (canne, tige)  
@@ -781,6 +790,7 @@ kape truke - piège
 karate - karaté  
 karate ka - karatéka  
 karbon duokside - dioxyde de carbone  
+karbon kalam - crayon  
 karchof - artichaut  
 kardon - chardon  
 kardon karchof - cardon  
@@ -807,6 +817,7 @@ ke riti - comment
 ke sate - quand  
 Keme - Égypte antique  
 kerne - coeur  
+kesha brosha - brosse à cheveux  
 kesha hin - glabre  
 ki - que  
 kiau - pont  
@@ -901,7 +912,7 @@ leng mosim - hiver
 leng mosim di - hivernal (hibernal)  
 lense - lentille  
 lente - lent  
-letis - laitue  
+letus - laitue  
 liama - lama  
 libele - libellule  
 lida ja - dirigeant (leader)  
@@ -998,6 +1009,7 @@ me poze - rang
 meche - match  
 medan - place  
 medan papi - coquelicot  
+mede - aide (secours)  
 medi - medio  
 medi dia - midi  
 medi noche - minuit  
@@ -1183,8 +1195,11 @@ pei gung jiu - carrière
 pelpel - papillon  
 pende kardon - chardon penché  
 pente - peinture  
+pente brosha - pinceau  
 pente tela - canevas (toile)  
-perisha - périr  
+pera - poire  
+perishe - périr  
+pero kalam - plume  
 pero kardon - cirse commun  
 pesa - argent  
 pesa diske - monnaie (pièce)  
@@ -1429,7 +1444,7 @@ Suise - Suisse
 suka - heureux  
 sukar - sucre  
 sukar bete - betterave à sucre (betterave sucrière)  
-sukar chau - Canne à sucre  
+sukar gana - canne à sucre  
 sukar oranje - orange douce  
 suna islam din - sunnisme  
 sundar - beau  

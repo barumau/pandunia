@@ -257,7 +257,7 @@ bravo - brave!
 Brazil - Brazilo  
 briko - abrikoto (pruno)  
 brom - bromo  
-brosh - broso  
+brosha - broso  
 brus - frato aŭ fratino  
 bucha - buĉi  
 bucha ja - buĉisto  
@@ -293,7 +293,6 @@ chante - kanto
 chante grupe - ĥoro  
 chape - presaĵo  
 chati - tekto  
-chau - herbo  
 cheke - kontroli  
 chen - antaŭe (pasinte)  
 chen den - hieraū  
@@ -340,7 +339,7 @@ danse - danco
 Danske - dana  
 Danske desha - Danio  
 dante - dento  
-dante brosh - dentbroso  
+dante brosha - dentbroso  
 dante dava ja - dentisto  
 dante hin - sendenta  
 darba - bati  
@@ -360,7 +359,7 @@ demo krati - demokratio
 demo krati di - demokratia  
 demon - demono  
 den - tago (periodo de 24 horoj)  
-den loge - päiväkirja  
+den loge - taglibro  
 deng - atendi  
 des - dek (10)  
 des kilo - dek miloj  
@@ -375,7 +374,6 @@ deu krati - teokratio
 deu logi - teologio  
 deve - devi  
 deve ta - devo  
-di - -a (adjektiva partiklo)  
 dia - tago  
 dia foto - taglumo  
 dia yam - tagmanĝo  
@@ -512,6 +510,7 @@ fa hisabu - kalkuli
 fa ja - aganto  
 fa jama - kolekti (kunigi)  
 fa javabu - respondi  
+fa jela - malliberigi  
 fa jene - naskigi  
 fa kai - malfermi  
 fa karga - ŝarĝi  
@@ -538,7 +537,6 @@ fa pin - piki
 fa pish - pisi (urini)  
 fa pos - sekvi  
 fa presa - premi  
-fa prizon - malliberigi  
 fa pul - plenigi  
 fa rai - opinii  
 fa re - ripeti (refari)  
@@ -672,6 +670,7 @@ gami pa - bopatro
 gan - seka  
 gan putau - sekvinbero  
 gan tela - viŝilo  
+gana kalam - kalamo  
 Ganga - Gangoj  
 ganja - kanabo  
 ganse - ansero  
@@ -690,6 +689,7 @@ gau - alta
 gaze - gazo  
 gazel - gazelo  
 gazeta - gazeto (revuo)  
+gazo - herbo  
 gei - samseksema  
 gem - ludo  
 gem ja - ludanto  
@@ -786,7 +786,6 @@ Helen - Grekio
 Helen - greka  
 helis fei gi - helikoptero  
 helium - helio  
-helpe - helpo  
 hem - pripensi (rigardi ia)  
 hem… - hm…  
 hema - tendo  
@@ -829,6 +828,7 @@ hua pote - florpoto
 huang - flava  
 huke - hoko  
 huke krus - svastiko  
+huke lin kane - fiŝvergo  
 huli - vulpo  
 huru - libera  
 huru di - liberigi  
@@ -836,7 +836,7 @@ huru ta - libereco
 hushi - agrabla  
 ####I - I  
 ibri - Hebrea  
-icha - volo  
+ichi - volo  
 idea - ideo  
 iha - azeno  
 in - eno  
@@ -876,6 +876,7 @@ jara - kruĉo
 jau - hordeo  
 javabu - respondo  
 jebe - poŝo  
+jela kan - malliberejo  
 jele - ĝelo  
 jene - nasko  
 jene basha - hejmlingvo  
@@ -936,7 +937,7 @@ Kambojia - Kamboĝo
 kamisa - ĉemizo  
 kamote - batato  
 kan - farejo  
-kanal - kanalo  
+kanal - fluejo (kanalo)  
 kancha - vitro  
 kandi - bombono  
 kane - stango  
@@ -952,6 +953,7 @@ karate - karateo
 karavi - karvio  
 karbon - karbono  
 karbon duokside - karbona dioksido  
+karbon kalam - krajono  
 Karibe - Karibio  
 karibu - proksima  
 karma - ago  
@@ -985,6 +987,7 @@ kerne arme - kernarmilo
 kerne energi - kernenergio  
 kerne fizika - kernfiziko  
 kesha - haro  
+kesha brosha - saç fırçası  
 kesha hin - senhara  
 kesha sabun - ŝampuo  
 ki - ke  
@@ -1091,8 +1094,7 @@ leng mosim - vintro
 leng mosim di - vintra  
 lenshi - ekzerco  
 lente - malrapida  
-letis - laktuko  
-lezi - piro  
+letus - laktuko  
 libele - libelo  
 liga - aligi  
 liga di sanduku - Kesto de Interligo  
@@ -1180,6 +1182,7 @@ matur man - viro
 mau - kato  
 maya - majao  
 maze - ŝtrumpo  
+mede - helpo  
 medi - mezo  
 medi dia - tagmezo  
 medi gi - rimedo  
@@ -1420,8 +1423,11 @@ pei gung - metiero
 pelpel - papilio  
 penis - peniso  
 pente - pentri  
+pente brosha - peniko  
 pente tela - kanvaso  
+pera - piro  
 pero - plumo  
+pero kalam - anserplumo  
 pesa - mono  
 pesa diske - monero  
 peshe - fiŝo  
@@ -1467,7 +1473,6 @@ posta marke - poŝtmarko
 presa - premo  
 presa gi - premilo  
 prezidente - prezidento  
-prizon kan - malliberejo  
 problem - problemo  
 profesor - profesoro  
 program - programo  

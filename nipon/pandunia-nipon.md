@@ -152,8 +152,8 @@ botel - 瓶
 Brahma - ブラフマー (梵天)  
 brauza - 探る, 探検する  
 brauza gi - ブラウザ  
-brauza program - 探検家  
 briko - アンズ (梅, モモ, プラム)  
+brosha kalam - 筆 (毛筆)  
 bu! - ばあ  
 bucha ja - 肉屋  
 bucha kan - 屠畜場  
@@ -174,8 +174,6 @@ chakra - 車輪
 chamacha - スプーン  
 chante grupe - 合唱団  
 chati - 屋根  
-chau - 草  
-chau topo - 草地  
 chen - 以前 (前に)  
 chen den - 昨日  
 chen vide - 待ち受ける (見込む)  
@@ -306,7 +304,6 @@ fa ekso - 追出 (退ける, 除いて)
 fa fen gata - 見つめ直す  
 fa glu - 張る (付く)  
 fa hapu - 適応する  
-fa helpe - 手伝う (助ける)  
 fa hisabu - 計算する  
 fa hogo - 燃やす  
 fa jene - 生む  
@@ -315,6 +312,7 @@ fa kino - 動かす
 fa kong - 染みる (貫通する)  
 fa lai - 持って来る  
 fa linke - 繋ぐ  
+fa mede - 手伝う (助ける)  
 fa memo - 思い出す  
 fa najis - 汚す  
 fa nomer - 数える  
@@ -390,13 +388,13 @@ galaksi - 銀河
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
 gami ben - 連れ子  
-gan chau - 干し草  
+gan gazo - 干し草  
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
 garma - 暖かい (熱い)  
 garma mosim - 夏  
 garma zona - 熱帯  
-garma zona chau topo - サバンナ  
+garma zona gazo topo - サバンナ  
 gata glu ban - クリップボード  
 gati - 硬い  
 gati mate - 固体  
@@ -404,12 +402,15 @@ gau - 高い
 gau tal move - 浮き沈みする  
 gau tehni - ハイテク  
 gazel - ガゼル  
+gazo - 草  
+gazo medan - 芝生  
+gazo topo - 草地  
 geo - 地  
 geo forme - 地形  
 geo logi - 地質学  
 geo metre - 幾何学  
 geo niche di - 地中  
-geo niche prizon - 地下牢 (ダンジョン)  
+geo niche jela - 地下牢 (ダンジョン)  
 gi - 装置 (機, 器)  
 giau - 教える (教義, -教)  
 giau ja - 教員  
@@ -451,12 +452,11 @@ hai - 海
 hai alga - 海藻  
 hai amir ja - 提督 (海軍大将)   
 hai blu - 水色  
-hai chau - 海草  
+hai gazo - 海草  
 hai gun - 海軍  
 hai hiyar - 海鼠  
 hai hua - イソギンチャク  
 hai jele - 海月  
-hai kinar - 岸  
 hai kinar - 海岸  
 hai porte - 海港  
 haki - 権利  
@@ -496,6 +496,7 @@ hua pote - 植木鉢
 hui darte - ポドゾル  
 huke - 掛 (針, 鉤)  
 huke krus - 卍 (卐)  
+huke lin kane - 釣り竿  
 huli - 狐  
 huru - 自由  
 ####I - I  
@@ -508,8 +509,8 @@ in verse jan - 内向的な人
 insan - 人間  
 insan haki - 人権  
 insan sim - ヒューマニズム (人文主義)  
-ironi - 反語的  
 ironi - 反語 (皮肉)  
+ironi di - 反語的  
 islam din - イスラム教  
 ####J - J  
 jamul - フトモモ  
@@ -521,6 +522,7 @@ javabu - 答え (回答)
 jeka - 借用  
 jeka daku - 借りる  
 jeka dona - 貸す  
+jela kan - 監獄  
 jen buda din - 禅宗  
 jene di - 生 (未熟)  
 jene logi - 系譜学  
@@ -574,6 +576,7 @@ kamisa - シャツ
 kamisa shaka - 袖  
 kampe bede - 折り畳み式ベッド  
 kan - 店 (館)  
+kanal - 側溝  
 kancha - ガラス  
 kancha daka - 釉薬  
 kandi - キャンデー  
@@ -587,6 +590,7 @@ kape truke - 罠
 kar - 車  
 karate - 空手  
 karate ka - 空手家  
+karbon kalam - 鉛筆  
 karbon sui - 炭水化物  
 karchof - アーティチョーク  
 kardon - アザミ  
@@ -699,7 +703,7 @@ lazur petra - ラピスラズリ (瑠璃)
 lefte - 左  
 lense - レンズ  
 lente - 遅い (ゆっくり)  
-letis - レタス  
+letus - レタス  
 liama - ラマ  
 libele - 蜻蛉  
 lida lin - リード (手綱)  
@@ -729,6 +733,7 @@ loga so - 言葉
 loge - 記録  
 loge buku - 日誌  
 logi - 研究 (科学, 学)  
+logi safar ja - 探検家  
 loka - 場所  
 long - 長い  
 long kata - 小説  
@@ -780,6 +785,7 @@ maze - 靴下 (ソックス)
 meche - 試合 (競技)  
 medan - 広場  
 medan papi - ヒナゲシ  
+mede - 助け  
 medi dia - 正午  
 medi noche - 真夜中  
 medu - 蜂蜜  
@@ -945,7 +951,10 @@ pei gung ja - プロフェッショナル
 pei gung jiu - キャリア  
 pelpel - チョウ  
 pente - 絵の具 (ペンキ)  
+pente brosha - 絵筆  
 pente ja - 画家 (絵かき)  
+pera - 梨  
+pero kalam - 羽根ペン  
 pero kardon - アメリカオニアザミ  
 pesa - 金  
 peshe - 魚  
@@ -1153,7 +1162,7 @@ Suise - スイス
 suka - 幸せな  
 sukar - 砂糖  
 sukar bete - テンサイ (サトウダイコン)  
-sukar chau - サトウキビ  
+sukar gana - サトウキビ  
 sukar oranje - オレンジ (アマダイダイ)  
 sundar - 美しい  
 sundar daka - 装飾  

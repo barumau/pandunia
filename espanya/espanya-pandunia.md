@@ -308,8 +308,8 @@ avispero (colmena) - fong nide
 axproximarse - be karibu  
 ay! - ayo  
 ayer - chen den  
-ayuda (asistencia) - helpe  
-ayudar (asistar) - fa helpe  
+ayuda (socorro, auxilio, asistencia) - mede  
+ayudar (asistar) - fa mede  
 azada - chopu  
 azafrán - safran  
 azar (aleatorio) - zar di  
@@ -541,7 +541,7 @@ campista - kampe ja
 campo - nong topo  
 campo de visión - vide medan  
 Canadá - Kanada  
-canal (cauce, acequia) - kanal  
+canal (cauce, acequia, foso, zanja) - kanal  
 cancelar - fa siro  
 canción - chante  
 canción de cuna (nana) - lala chante  
@@ -567,7 +567,7 @@ cararés - karnada basha
 caravana - karvan  
 carbohidrato - karbon sui  
 carbón - karbon  
-carcelero - prizon ja  
+carcelero - jela ja  
 cardo - kardon  
 cardo borriquero - pin kardon  
 cardo burral - pero kardon  
@@ -607,7 +607,9 @@ causar - fa saba
 cavar (excavar) - fa kave  
 cazador - saide ja  
 cazar (pescar) - saide  
-caña de azúcar - sukar chau  
+caña - gana  
+caña de azúcar - sukar gana  
+caña de pesca - huke lin kane  
 cañonear - dai pau ja  
 cañón (barranco, quebrada) - kanyon  
 cañón - dai pau  
@@ -633,8 +635,9 @@ centro - jung
 centuria (siglo) - sento nen  
 centímetro - sentimitre  
 cepillar con garlopa - randa  
-cepillo (brocha) - brosh  
-cepillo de dientes - dante brosh  
+cepillo (brocha) - brosha  
+cepillo de dientes - dante brosha  
+cepillo de pelo - kesha brosha  
 cera (lacre) - mum  
 cerca (casi, aproximadamente) - karibu  
 cerdo (puerco) - goro  
@@ -856,7 +859,7 @@ cosa - she
 coser - siu  
 cosmonauta - kosmo nave ja  
 cosmos - kosmo  
-costa - hai kinar  
+costa (orilla) - hai kinar  
 Costa de Marfil - Kote Da Ivar  
 Costa Rica - Kosta Rika  
 costar - koste  
@@ -940,12 +943,13 @@ curvo - kurva di
 cuál cosa - ke she  
 cuándo - ke sate  
 cuántos - ke multi di  
+cálamo - gana kalam  
 cálculo - kalkul  
 cámara - foto grafi gi  
-cárcel - prizon kan  
+cárcel - jela kan  
 Cáucaso - Kaukasia  
 célula - selu  
-césped (hierba) - chau  
+césped (pasto) - gazo medan  
 círculo - gola  
 cítrico - limon oranje  
 cóctel - mishe alkol  
@@ -1196,7 +1200,7 @@ en el sentido contrario al las agujas del reloj - rota lefte
 en el sentido del las agujas del reloj - rota raite  
 en línea - na lin  
 encanto - charme  
-encarcelar (aprisionar) - fa prizon  
+encarcelar (aprisionar) - fa jela  
 encontrar - miti  
 encontrarse (estar, situarse) - be loka  
 encurtido - achar di  
@@ -1310,6 +1314,7 @@ estar de pie - lipa
 estar en contra - kontra  
 estaño - estan  
 este - ni  
+estilógrafo - fonte kalam  
 estimar (apriximarse a) - fa yagu  
 estirar (extender) - long tire  
 Estonia - Esti  
@@ -1348,7 +1353,7 @@ excluir - fa ekso klus
 exclusivo - ekso klus di  
 existir (actualmente) - zai  
 exoplaneta (planeta extrasolar) - ekso planete  
-explorador - brauza program  
+explorador - logi safar ja  
 explorar - brauza  
 explosionar - be bum  
 explosión (estallado) - bum  
@@ -1633,7 +1638,7 @@ helado - ais krem
 helecho - parne  
 helicóptero - helis fei gi  
 helio - helium  
-heno - gan chau  
+heno - gan gazo  
 hercio (Hz) - herze  
 hermano o hermana - brus  
 hermoso (bello, lindo) - sundar  
@@ -1649,6 +1654,7 @@ hexaedro (cubo) - luka fase
 hexágono - luka gona  
 hidrógeno - hidro  
 hielo - ais  
+hierba - gazo  
 hierbabuena - zong minte  
 hierro - feru  
 higiene - salu safa ta  
@@ -1824,7 +1830,7 @@ Irlanda - Aire
 Irlanda del Norte - Norde Aire  
 ironía - ironi  
 Irán - Iran  
-irónico - ironi  
+irónico - ironi di  
 isla - nesia  
 Isla de Man - Manin nes  
 Isla de San Vicente - Sante Vinsente  
@@ -1940,12 +1946,12 @@ lava - yong petra
 lavadora - fuku vashi gi  
 lavar - vashi  
 leal (fiel) - amen bil  
-lealtad (fidelidad) - amen bilta  
+lealtad (fidelidad) - amen bil ta  
 lección - shula she  
 leche - milke  
 leche de soja - soi milke  
 lecho de roca - baze petra  
-lechuga - letis  
+lechuga - letus  
 leer - duku  
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele di  
@@ -2049,6 +2055,7 @@ luz (iluminación) - foto
 lágrima - oko sui  
 lámpara - lampa  
 lápida - gabur sheku  
+lápiz - karbon kalam  
 látigo (fusta) - bichi  
 léxico - loga di  
 Líbano - Libanen  
@@ -2158,7 +2165,7 @@ maya - maya
 mayo - mes lima  
 mayoría - mas di fen  
 Mayotte (Mahoré) - Mayote  
-mazmorra - geo niche prizon  
+mazmorra - geo niche jela  
 maíz - mais  
 mañana (antes mediodía) - suba dia  
 mañana - pos den  
@@ -2475,7 +2482,7 @@ océano Atlántico - Atlanti Hai
 océano Pacífico - Pase Hai  
 océano Ártico - Artika Hai  
 océano Índico - Barti Hai  
-odiar - hena  
+odiar - hen  
 odio - hen  
 oeste - veste  
 oficial - ofis di  
@@ -2511,7 +2518,6 @@ orgasmo - orgazme
 oriental - dong di  
 origen - asal  
 original - asal di  
-orilla - hai kinar  
 oriya - Odisa  
 ornitorrinco - bata krote  
 oro - auro  
@@ -2590,7 +2596,7 @@ parasol - shava chati
 parasol - sol chati  
 parcial - fen di  
 parecer - be rupa  
-parecerse a - be sam  
+parecerse a - be sam rupa  
 parente (madre o padre) - chin  
 paria - paraya  
 parque - parke  
@@ -2665,14 +2671,14 @@ pepinillo - achar hiyar
 pepino - hiyar  
 pepita - seme dane  
 pequeño - lili  
-pera - lezi  
+pera - pera  
 perdedor - shiti bai ja  
 perder (fallar) - fa shibai  
 perder - shiti  
 perdonar (disculpar) - fa maf  
 perdurable (longevo, prolongado) - long dura di  
 perdón - maf  
-perecer - perisha  
+perecer - perishe  
 perfeccionar - fa pul bon  
 perfecto - pul bon  
 perforar (agujerar) - fa kong  
@@ -2714,6 +2720,7 @@ pilaf (pulaw) - polau
 piloto - pilote  
 pimienta - pipre  
 pimpollo - joven moka  
+pincel - pente brosha  
 pingüino - pinguin  
 pino - song  
 pintar - fa pente  
@@ -2754,6 +2761,7 @@ platónico - Platon sim di
 plaza - medan  
 plomo - plumbe  
 pluma - pero  
+pluma - pero kalam  
 plutonio - plutonium  
 Plutón - Pluton  
 plástico - plasti  
@@ -2800,7 +2808,7 @@ posterior - pos di
 postura (posición) - asan  
 potasio - kalium  
 practicar (ensayar, ejercitar) - fa lenshi  
-pradera (pastizal) - chau topo  
+pradera (pastizal) - gazo topo  
 praseodimio - praseodimium  
 preceder (anteceder) - be chen  
 precio (coste) - koste  
@@ -2830,8 +2838,8 @@ primer ministro - shefe minister
 primero (numbre uno) - un me  
 primo - chin brus ben  
 principal - shefe di  
-prisionero - prizon jan  
-prisión - prizon  
+prisionero - jela jan  
+prisión - jela  
 proactinio - protacinium  
 probar (demonstrar, comprobar) - fa dalil  
 problema (disturio) - turbe  
@@ -2859,7 +2867,7 @@ pronombre - vise loga
 pronto - sun  
 pronunciar (articular) - fa fon  
 propiedad - mal  
-proponente (defensor) - helpeja  
+proponente (defensor) - mede ja  
 proteger (asegurar, guardar) - fa sekur  
 proximidad - karibu ta  
 proyección - lanse grafi  
@@ -2911,7 +2919,7 @@ queja (lamento) - shikaya
 quemar - fa hogo  
 quemarse - be hogo  
 querer (desear) - vol  
-querer (disponer) - icha  
+querer (disponer) - ichi  
 querido - ama di  
 querubín - kerubi  
 queso - chize  
@@ -3095,7 +3103,7 @@ réservation - rezerve
 rígido (sólido) - gati mate di  
 rótula - guta kaske oste  
 ####S - S  
-sabana - garma zona chau topo  
+sabana - garma zona gazo topo  
 sabbat - sabate  
 saber (conocer) - sabe  
 sabiduría (conocimiento) - sabe she  
@@ -3636,7 +3644,7 @@ vocal - jung fon
 volar - fei  
 volcán - hogo shan  
 voltio (V) - volte  
-voluntad - icha  
+voluntad - ichi  
 volver - be retro  
 votar - fa vote  
 voto - vote  

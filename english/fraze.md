@@ -76,35 +76,35 @@ is a popular greeting that is used by both religious and non-religious people in
 Indonesian: selamat.</small>
 
 
-### danke <small>thanks</small>
+### shukra <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**danke!**
+**shukra!**
 Thanks!
 
-**multo danke!**
+**poli shukra!**
 Thanks a lot!
 
-**ye, danke.**
+**ye, shukra.**
 Yes, thank you.
 
-**no, danke.**
+**no, shukra.**
 No, thank you.
 
-**danke tu.**
+**shukra tu.**
 Thank you.
 
-**mi danke tu.**
+**mi shukra tu.**
 I thank you.
 
-**mi danke tu helpe mi.**
+**mi shukra tu mede mi.**
 I thank you for helping me.
 
-**danke tu helpe mi.**
+**shukra tu mede mi.**
 Thanks for helping me.
 
-**no yau danke.**
+**no yau shukra.**
 You're welcome. (Literally: _No need to thank._)
 
 
@@ -204,13 +204,13 @@ I greet him/her.
 **sual tu si Tomas?**
 Are you Thomas?
 
-**sual tu si mediker?**
+**sual tu si dava ja?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu mediker.**
+**mi sual tu dava ja.**
 (I ask, you doctor?) by dropping out the first word.
 
 **sual tu bon?**
@@ -237,10 +237,10 @@ Are you Thomas.
 **ye, mi si Tomas.**
 Yes, I am Thomas.
 
-**sual ya si mediker?**
+**sual ya si dava ja?**
 Is he/she a doctor?
 
-**ye, ya si mediker.**
+**ye, ya si dava ja.**
 Yes, he is a doctor.
 
 
@@ -249,7 +249,7 @@ Yes, he is a doctor.
 **mi no si Sara.**
 I'm not Sarah.
 
-**mi no si mediker.**
+**mi no si dava ja.**
 I'm not a doctor.
 
 **sual tu bon?**
@@ -447,18 +447,18 @@ Do you know each other?
 We know each other for a long time.
 
 
-### helpe <small>help</small>
+### mede <small>help</small>
 
-**mi yau helpe.**
+**mi yau mede.**
 I need help.
 
-**sual tu bil helpe mi?**
+**sual tu bil mede mi?**
 Can you help me?
 
-**sual mi bil helpe tu?**
+**sual mi bil mede tu?**
 Can I help you?
 
-**mi vol helpe tu.**
+**mi vol mede tu.**
 I want to help you.
 
 
@@ -525,7 +525,7 @@ I ask you to drink tea.
 **mi ching tu lai dom.**
 I ask you to come home.
 
-**mi ching tu helpe mi.**
+**mi ching tu mede mi.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
@@ -539,7 +539,7 @@ Please, have some coffee!
 **ching lai dom.**
 Please, come home!
 
-**ching helpe mi.**
+**ching mede mi.**
 Please, help me.
 
 
@@ -557,7 +557,7 @@ Let's go home.
 
 ### yau <small>need</small>
 
-**mi yau helpe.**
+**mi yau mede.**
 I need help.
 
 **mi yau yam.**
@@ -777,7 +777,7 @@ Do you travel by train?
 **mimen safar ze London do Paris.**
 We travel from London to Paris.
 
-**safar multo long.**
+**safar tre long.**
 The voyage is very long.
 
 
@@ -986,7 +986,7 @@ This is the best (of all).
 How much does it cost?  
 **nol.**
 Nothing.  
-**ya kosta lil / multo.**
+**ya kosta lil / poli.**
 It is cheap / expensive.  
 
 **men cing mimen lai.**
