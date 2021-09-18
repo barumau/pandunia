@@ -11,7 +11,7 @@ saba – un putong aha da ni haki e huru ta ten la masim ham ta ga ni vode bil s
 asar – PUTONG JAMA DA UN TA NASI ye komun ni PUTONG LOGA DA INSAN HAKI ka un putong norma da jin ta do pan demo e pan nasi, do ichi da pan un jan e pan un fen da sosi, dura da hema ni loga na pan sata, vil gung ha shula do sim la onor da ni haki e huru ta e, na nasi di e nasi medi di jin sim di karma, fa sekur yamen su putong e funsi di note e sekur ta, na medi da nasi jan da membre desha e medi da jan da desha jo nicha yamen su krati.
 
 ## babu 1
-pan insan be jene ha huru ta e par ta na onor e haki. yamen ten yo razon e budi. yamen deve be trati se kon ha ruhu da brus ta.
+pan insan be jene ha huru ta e par ta na onor e haki. yamen ten yo razon e budi. yamen deve be chuli se kon ha ruhu da brus ta.
 
 ## babu 2
 pan insan ten la haki da pan haki e huru ta na in da ni loga, ha hin da eni has ta da yang, do misal: rasa, rang da pil, jinse, basha, din, politi o alo rai, nasi o sosi asal, mal, jene, o alo hal. plus, deve no fa has na baze da politi di, sultan di, o medi nasi di hal da desha o area jo ten pan un insan, ga o no ga ya si auto nomi, ekso nomi, o eni alo yang da krati.
@@ -42,7 +42,7 @@ pan insan ten, na pul par ta, la haki da un adal e komun di audi ze auto nomi e 
 
 ## babu 11
 1. pan insan, jo be jude, ten la haki da be fikir ka an dosha hata ya be dalil ka dosha ha sam rai da la kanun ha komun jude na jo ya ten pan garanti do ya su defa
-2. no halal eni insan be jude ka dosha da eni krim ze saba da un karma o karma hin jo no si krim na dura ya karma ya na nasi di o nasi medi di kanun. e no halal dona un mas dus pene ka la pene jo si aplika bil na kanun na dura ya karma ya.
+2. no halal eni insan be jude ka dosha da eni krim ze saba da un karma o karma hin jo no si krim na dura ya karma ya na nasi di o nasi medi di kanun. e no halal dona un mas dus fatu ka la fatu jo si aplika bil na kanun na dura ya karma ya.
 
 ## babu 12
 no halal eni insan be an razon di karma ha ya su tana o famili o dom o posta, o be agres na ya su onor. pan insan ten la haki da defa do kontra la yang da karma e agres.
