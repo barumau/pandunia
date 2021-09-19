@@ -101,8 +101,8 @@ baku salmon - salmão-cão (salmão-keta)
 baluta - carvalho  
 bambu - bambu  
 bamia - quiabo  
-ban - painel  
-ban gem - jogo de tabuleiro  
+bano - painel  
+bano gem - jogo de tabuleiro  
 banana - banana  
 banda - bando  
 banka kan - banco  
@@ -256,7 +256,7 @@ dava she - remédio (medicamento)
 dava she kan - farmácia (drogaria)  
 dava she logi - farmacologia  
 debil - fraco (débil)  
-defa ban - escudo  
+defa bano - escudo  
 defa kaske - armadura  
 den - dia (24 horas)  
 den loge - diário  
@@ -283,6 +283,8 @@ dobe - tijolo
 dokumen - documento  
 dokumen filme - documentário  
 dolfin - golfinho (delfim)  
+dom - lar (casa)  
+dom desha - pátria  
 dom di - doméstico  
 dona tabi - generoso (dadivoso, mão-aberta)  
 dong - este (leste)  
@@ -388,7 +390,7 @@ fa turbe - molestar (perturber)
 fa valu - valorar  
 fa vote - votar  
 fan - lama (lodo)  
-fan defa ban - para-lama  
+fan defa bano - para-lama  
 fan topo - pântano  
 fase - face (faceta)  
 fase tele - profundo  
@@ -461,7 +463,7 @@ ganum - trigo
 garma mosim - verão  
 garma zona - trópicos  
 gas - gás  
-gata glu ban - área de transferência  
+gata glu bano - área de transferência  
 gati - duro  
 gazo - grama (relva)  
 gazo medan - gramado  
@@ -472,7 +474,7 @@ geo metre - geometria
 geo politi - geopolítica  
 german yum - germânio  
 Germania - Germânia  
-giau - ensinar (lecionar)  
+gio - ensinar (lecionar)  
 gida - guiar  
 gida ja - guia  
 gioka - jade  
@@ -809,7 +811,7 @@ lin - linha (fio)
 lin so - fibra  
 linke - conexão (vínculo, laço)  
 linse - lince  
-lipa ban - prateleira (estante)  
+lipa bano - prateleira (estante)  
 lipa side - agacharse  
 lisan - língua  
 liste - lista  
@@ -929,7 +931,7 @@ miti - encontrar
 mitre - metro  
 mode - modo (maneira, jeito)  
 moka - árvore  
-moka ban - tábua (prancha)  
+moka bano - tábua (prancha)  
 moka tana - tora  
 mol kan - moenda (moinho)  
 mol sheku - mó  
@@ -1092,7 +1094,7 @@ pil - pele
 pin - alfinete  
 pin chope - picareta  
 pin kardon - acanto-bastardo  
-pinse ban - prancheta  
+pinse bano - prancheta  
 pipre - pimenta  
 pipre minta - hortelã-pimenta  
 piram - pirâmida  

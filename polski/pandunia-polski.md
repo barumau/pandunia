@@ -218,8 +218,8 @@ balon peshe - ryba rozdymkowata
 baluta - dąb  
 baluta frute - żołądź  
 bambu - bambus  
-ban - tablica (deska)  
-ban gem - gra planszowa  
+bano - tablica (deska)  
+bano gem - gra planszowa  
 banana - banan  
 banda - zespół (drużyna, grupa)  
 bande - związać, wiązać; zapiąć, zapinać  
@@ -444,7 +444,7 @@ bus - autobus, autokar
 buste - biust  
 buta - but  
 buton - klawisz, przycisk, przełącznik, guzik  
-buton ban - klawiatura  
+buton bano - klawiatura  
 buyu - baobab  
 ####C - C  
 celsius darje - stopień Celsjusza  
@@ -586,7 +586,7 @@ dava sui - eliksir (magiczny napój)
 debil - słaby  
 defa - obrona  
 defa - obronić (chronić)  
-defa ban - tarcza  
+defa bano - tarcza  
 defa ja - obrońca  
 defa kaske - zbroja  
 demo - lud, społeczeństwo  
@@ -986,7 +986,7 @@ false vide - iluzja (halucynacja)
 famili - rodzina  
 famili name - nazwisko, imię rodziny  
 fan - błoto  
-fan defa ban - błotnik  
+fan defa bano - błotnik  
 fan di - błotnisty  
 fan topo - bagno (moczary)  
 fantazi - fantazja (wyobrażenie, wyobraźnia)  
@@ -1113,7 +1113,7 @@ futa - tłuszcz
 futa di - tłusty  
 futau - siekera, topór  
 fute - stopa  
-fute ban - rusztowanie (trap)  
+fute bano - rusztowanie (trap)  
 fute bol - piłka nożna  
 fute shaka - noga  
 ####G - G  
@@ -1956,7 +1956,7 @@ lin so - włókno
 linke - połączenie, złącze, styk  
 linse - ryś  
 lipa - stać  
-lipa ban - półka (regał na książki)  
+lipa bano - półka (regał na książki)  
 lipa baze - stojak (wieszak)  
 lipa di - postawiony (stojący)  
 lipa side - kucać (kucnąć)  
@@ -2226,7 +2226,7 @@ mode - sposób (metoda, tryb)
 mode loge - przysłówek  
 model - model, wzór, wzorzec, projekt  
 moka - drzewo  
-moka ban - deska  
+moka bano - deska  
 moka jang ja - stolarz  
 moka jong parke - arboretum  
 moka mate - drewno  
@@ -2619,7 +2619,7 @@ pirate ja - pirat
 pirate parti - Partia Piratów  
 pirate sim ja - pirat (osoba naruszająca prawa własności intelektualnej)  
 pisea - świerk  
-pish - siki  
+pisha - siki  
 pistol - pistolet  
 Pitkerne nesi - Pitcairn  
 piza - pizza  
@@ -2711,7 +2711,7 @@ pul shipi - namoczyć (marynować)
 pulmon - płuco  
 puma - puma (kuguar)  
 punte - kropka (znak interpunkcyjny)  
-punte ban - tablica wyników  
+punte bano - tablica wyników  
 punte nomer - wynik (punktacja)  
 pupe - lalka, kukiełka, pacynka, marionetka  
 pusha - pchnąć, pchać  

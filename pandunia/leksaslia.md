@@ -125,7 +125,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**baluta**|ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलूत (balūta), spa:bellota|
 |**bambu**|eng:bamboo, fra:bambou, spa:por:bambu, rus:бамбук (bambuk), may:bambu|
 |**bamia**|ara: بَامْيَة‎ (bāmya), swa:bamia, amh:ባሚያ (bamiya), tur:bamya, fas: بامیه‎ (bâmiye), rus:бамия (bamiya)|
-|**ban**|zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|
+|**bano**|zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|
 |**banana**|wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|
 |**banda**|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
 |**bande**|ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)|
@@ -309,6 +309,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**dokumen**|eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|
 |**dolfin**|ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
+|**dom**|zho:家 (jiā), yue:家 (gaa1), jpn:家 (ka), kor:가 (ga), vie:gia|
 |**domino gem**|eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|
 |**dona**|fra:donner, eng:donate, spa:por:donar|
 |**dong**|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|
@@ -438,7 +439,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**fui**|spa:puaj, pol:fuj, rus:фи (fi)|
 |**fuka**|zho:复 (fù), yue:(fuk), vie:phục|
 |**fuku**|zho:服 (fú), yue:服 (fuk6), jpn:服 (fuku), kor:의복 (uibok), vie:y phục|
-|**fun**|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
+|**fun**|zho:粉 (fěn), yue:粉 (fan2), jpn:粉 (fun/pun), kor:분 (bun), vie:phấn, hak:粉 (fun), tha:ฝุ่น (fùn)|
 |**fun chupa gi**|zho:吸尘器 (xīchénqì), deu:Staubsauger|
 |**fungu**|eng:fungus, fra:fongus, por:fungo, spa:hongo + zho:菇 (gū), yue:菇 (gu1)|
 |**funsi**|eng:function, spa:por:funcionar, fra:fonctionner, rus:функциони́ровать (funkcionirovat’), may:berfungsi|
@@ -661,7 +662,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**kalam**|ara:fas:urd: قلم‎ (qalam), hin:क़लम (qalam), ben:কলম (kôlôm), may:kalam, fra:calame, spa:por:cálamo, yor:swa:kalamu, hau:alƙalami, tur:kalem|
 |**kalenda**|eng:calendar, fra:calendrier, spa:por:calendario, rus:календарь (kalendar’), deu:may:kalender, jpn:カレンダー (karendā), kor:카렌더 (karendeo), hin:कैलेण्डर (kaileṇḍar), swa:kalenda|
 |**kali**|ara: قلي (qily), swa:-kali + eng:alkali, fra:alcali, spa:por:álcali, jpn:アルカリ (arukari), kor:알칼리 (alkalli), may:alkali|
-|**kali yum**|eng:potassium, fra:potassium, spa:potasio, por:potássio, rus:калий, jpn:カリウム, vie:kali, hin:पोटैशियम, ben:পটাসিয়াম, may:kalium, swa:kali|
+|**kali yum**|rus:калий, jpn:カリウム, vie:kali, may:kalium, swa:kali|
 |**kaliforni yum**|eng:californium, fra:californium, spa:californio, por:califórnio, rus:калифорний, zho:锎 (kāi), jpn:カリホルニウム, kor:칼리포르늄, vie:califoni, hin:कैलीफोर्नियम, ben:ক্যালিফোর্নিয়াম, may:kalifornium, swa:kalifoni|
 |**kalkul**|fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|
 |**kalmar**|ell:καλαμάρι (kalamári), spa:por:calamar, fra:calmar, ita:eng:calamari, rus:кальмар (kal’mar), tur:kalamar, ara:كلاماري‎ (klamāri)|
@@ -1158,7 +1159,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**pirate**|eng:piracy, spa:piratería, por:pirataria, fra:piraterie, deu:Piraterie, rus:пиратство (piratstvo), jpn:パイレーシ|
 |**pirate ja**|eng:fra:pirate, spa:por:pirata, deu:Pirat, rus:пират (pirat)|
 |**pisea**|spa:por:pícea, fra:Épicéa|
-|**pish**|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|
+|**pisha**|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|
 |**pistol**|eng:pistol, spa:por:pistola, fra:pistolet, rus:пистолет (pitolet), hin:पिस्तौल (pistaul), ben:পিস্তল (piśtôl)|
 |**piza**|ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|
 |**plan**|eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|

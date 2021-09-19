@@ -113,8 +113,8 @@ balon peshe - иглобрюховые
 baluta - дуб  
 bambu - бамбук  
 bamia - окра (бамия)  
-ban - доска (панель)  
-ban gem - настольная игра  
+bano - доска (панель)  
+bano gem - настольная игра  
 banana - банан  
 banda - банда  
 bandera - флаг  
@@ -279,14 +279,14 @@ data - данные
 data banka - база данных  
 data chuli - обработка данных  
 data chuli logi - информатика  
-dau ban - табличка с названием улицы  
+dau bano - табличка с названием улицы  
 dava - лечить  
 dava ja - врач (медик, лекарь, доктор)  
 dava she - лекарство  
 dava she kan - аптека  
 dava she logi - фармакология  
 dava sui - зелье  
-defa ban - щит  
+defa bano - щит  
 defa kaske - доспехи  
 den - день (сутки)  
 den loge - дневник  
@@ -312,6 +312,8 @@ dobe - кирпич
 dokumen - документ  
 dokumen filme - документальный фильм  
 dolfin - дельфин  
+dom - дом  
+dom desha - родина (отечество)  
 dom di - домашний  
 dom zeze - муха  
 Dominika Komunkrati - Доминиканская Республика  
@@ -495,7 +497,7 @@ ganum - пшеница
 garma mosim - лето  
 garma zona - тропик  
 gas - газ  
-gata glu ban - буфер обмена  
+gata glu bano - буфер обмена  
 gati - твёрдый  
 gau tehni - высокие технологии  
 gazel - газель  
@@ -510,7 +512,7 @@ geo niche jela - ублиет (подземная тюрьма)
 geo politi - геополитика  
 geo termo - геотерма́льный  
 german yum - германий  
-giau - учить (преподавать)  
+gio - учить (преподавать)  
 gida buku - путеводитель  
 gida ja - гид  
 ging - параллельный  
@@ -858,7 +860,7 @@ lin - линия (нитка)
 lin so - волокно  
 linke - связь (ссылка)  
 linse - рысь  
-lipa ban - полка  
+lipa bano - полка  
 lipa side - сесть на корточки  
 lisan - язык  
 liste - список  
@@ -978,7 +980,7 @@ mishe alkol - коктейль
 Misri - Египет  
 mitre - метр  
 moka - дерево  
-moka ban - доска (планка)  
+moka bano - доска (планка)  
 moka tana - бревно  
 mol kan - мельница  
 mol sheku - жёрнов  
@@ -1155,7 +1157,7 @@ pin - булавка (игла, шип)
 pin chope - киркомотыга  
 pin kardon - татарник колючий  
 pin sense di - пикантный  
-pinse ban - планшет  
+pinse bano - планшет  
 pipre - перец  
 pipre minta - мята перечная  
 piram - пирамида  

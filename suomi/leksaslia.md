@@ -93,12 +93,12 @@
 |**baluta**|tammi|arabia:بلوط (ballūṭ), persia:بلوط (balut), hindi:बलूत (balūta), espanja:bellota|
 |**bambu**|bambu|englanti:bamboo, ranska:bambou, espanja:portugali:bambu, venäjä:бамбук (bambuk), malaiji:bambu|
 |**bamia**|okra|arabia: بَامْيَة‎ (bāmya), suahili:bamia, amhara:ባሚያ (bamiya), turkki:bamya, persia: بامیه‎ (bâmiye), venäjä:бамия (bamiya)|
-|**ban**|lauta (paneeli)|yleiskiina:板 (bǎn), kantoninkiina:板 (baan2), japani:板 (ban), korea:판자 (panja), vietnami:bảng, thai:บาน (baan) + malaiji:papan + suahili:bao + englanti:espanja:panel, ranska:panneau, venäjä:панель, turkki:pano|
 |**banana**|banaani|wolof:banaana, venäjä:банан (banan), puola:banan, ranska:deu:banane, portugali:espanja:englanti:banana, japani:バナナ (banana), korea:바나나 (banana)|
 |**banda**|ryhmä (työryhmä, yhtye, bändi)|yleiskiina:班 (bān), vietnami:ban, korea:반 (ban), + englanti:deu:band, ranska:bande, venäjä:банда (banda), espanja:portugali:filippiini:puola:banda, japani:バンド (bando)|
 |**bande**|nauha (side)|italia:benda, suahili:bendeji, espanja:venda, ranska:bande, englanti:band, deu:Binde, venäjä:бинт (bint) hindi:बाँधना (bāndhnā)|
 |**bandera**|lippu|englanti:banner, ranska:bannière, espanja:bandera, portugali:bandeira, malaiji:bendera, filippiini:bandila, suahili:bendera|
 |**banka kan**|pankki|englanti:deu:puola:malaiji:bank, turkki:banka, venäjä:банк (bank), ranska:banque, espanja:portugali:banco, persia:(bânk), hindi:बैंक (baiṅk), urdu:(baiṅk), telugu:బ్యాంకు (byāṅku), tamili:(vaṅki)|
+|**bano**|lauta (paneeli)|yleiskiina:板 (bǎn), kantoninkiina:板 (baan2), japani:板 (ban), korea:판자 (panja), vietnami:bảng, thai:บาน (baan) + malaiji:papan + suahili:bao + englanti:espanja:panel, ranska:panneau, venäjä:панель, turkki:pano|
 |**banya**|kylpy|espanja:bañera, portugali:banheira, kreikka:μπάνιο (bánio), venäjä:ванна (vanna), arabia:بانيو‎ (banyu)|
 |**bar**|baari (kapakka)|englanti:ranska:espanja:portugali:malaiji:turkki:bar, venäjä:бар (bar), yleiskiina:酒吧 (jiǔbā), japani:バー (bā), hindi:बार (bār), bangla:বার (bar)|
 |**bara mur**|este|englanti:bar, espanja:portugali:barrar ranska:barrière, venäjä:барьер (baryer) + hindi:बाड़ (bāṛ), bangla:বেড়া (beṛa)|
@@ -277,6 +277,7 @@
 |**dokumen**|asiakirja (dokumentti, tiedosto)|englanti:ranska:document, espanja:portugali:documento, venäjä:документ (dokument), japani:ドキュメント (dokyumento), malaiji:dokumen, turkki:doküman|
 |**dolfin**|delfiini|kreikka:δελφίνια (delphínia), englanti:dolphin, espanja:delfín, portugali:delfim, venäjä:дельфин (del’fin), arabia:دلفين (dulfin), japani:ドルフィン (dorufin), bangla:ডলফিন (ḍalaphina), hindi:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|asunto (koti)|venäjä:дом (dom), puola:dom, latina:domus, + englanti:domestic, ranska:domestique, espanja:portugali:doméstico|
+|**dom**|koti|yleiskiina:家 (jiā), kantoninkiina:家 (gaa1), japani:家 (ka), korea:가 (ga), vietnami:gia|
 |**domino gem**|dominopeli|englanti:dominoes, espanja:portugali:dominó, ranska:dominos, venäjä:домино (domino), yleiskiina:多米诺 (duōmǐnuò), japani:ドミノ牌 (dominohai)|
 |**dona**|antaa|ranska:donner, englanti:donate, espanja:portugali:donar|
 |**dong**|itä|yleiskiina:东 (dōng), kantoninkiina:東 (dōng), vietnami:đông, korea:동 (dong), turkki:doğu|
@@ -406,7 +407,7 @@
 |**fuka**|palauttaa|yleiskiina:复 (fù), kantoninkiina:(fuk), vietnami:phục|
 |**fuku**|vaate (puku)|yleiskiina:服 (fú), kantoninkiina:服 (fuk6), japani:服 (fuku), korea:의복 (uibok), vietnami:y phục|
 |**fun chupa gi**|pölynimuri|yleiskiina:吸尘器 (xīchénqì), deu:Staubsauger|
-|**fun**|pöly (tomu)|yleiskiina:粉 (fěn), hakkakiina:粉 (fun), thai:ฝุ่น (fùn)|
+|**fun**|pöly (tomu)|yleiskiina:粉 (fěn), kantoninkiina:粉 (fan2), japani:粉 (fun/pun), korea:분 (bun), vietnami:phấn, hakkakiina:粉 (fun), thai:ฝุ่น (fùn)|
 |**fungu**|sieni|englanti:fungus, ranska:fongus, portugali:fungo, espanja:hongo + yleiskiina:菇 (gū), kantoninkiina:菇 (gu1)|
 |**funsi**|toiminta (funktio)|englanti:function, espanja:portugali:funcionar, ranska:fonctionner, venäjä:функциони́ровать (funkcionirovat’), malaiji:berfungsi|
 |**furete**|kärppä (fretti)|ranska:furet, englanti:ferret, portugali:furrão, italia:furetto, espanja:hurón, japani:(feretto), suahili:fereti|
@@ -621,7 +622,7 @@
 |**kala**|musta|hindi:काला (kālā), bangla:কালো (kalo), pandzabi:ਕਾਲਾ (kālā) + turkki:kara + tamili:கருப்பு (karuppu)|
 |**kalam**|kynä|arabia:persia:urdu: قلم‎ (qalam), hindi:क़लम (qalam), bangla:কলম (kôlôm), malaiji:kalam, ranska:calame, espanja:portugali:cálamo, yoruba:suahili:kalamu, hausa:alƙalami, turkki:kalem|
 |**kalenda**|kalenteri|englanti:calendar, ranska:calendrier, espanja:portugali:calendario, venäjä:календарь (kalendar’), deu:malaiji:kalender, japani:カレンダー (karendā), korea:카렌더 (karendeo), hindi:कैलेण्डर (kaileṇḍar), suahili:kalenda|
-|**kali yum**|kalium|englanti:potassium, ranska:potassium, espanja:potasio, portugali:potássio, venäjä:калий, japani:カリウム, vietnami:kali, hindi:पोटैशियम, bangla:পটাসিয়াম, malaiji:kalium, suahili:kali|
+|**kali yum**|kalium|venäjä:калий, japani:カリウム, vietnami:kali, malaiji:kalium, suahili:kali|
 |**kali**|emäs|arabia: قلي (qily), suahili:-kali + englanti:alkali, ranska:alcali, espanja:portugali:álcali, japani:アルカリ (arukari), korea:알칼리 (alkalli), malaiji:alkali|
 |**kaliforni yum**|kalifornium|englanti:californium, ranska:californium, espanja:californio, portugali:califórnio, venäjä:калифорний, yleiskiina:锎 (kāi), japani:カリホルニウム, korea:칼리포르늄, vietnami:califoni, hindi:कैलीफोर्नियम, bangla:ক্যালিফোর্নিয়াম, malaiji:kalifornium, suahili:kalifoni|
 |**kalkul**|kalkyyli|ranska:calcul, espanja:cálculo, englanti:calculus, hindi:कलन (kalan)|
@@ -1079,7 +1080,7 @@
 |**piram**|pyramidi|englanti:pyramid, ranska:pyramide, espanja:portugali:pirámide, venäjä:пирамида (piramida), hindi:पिरमिड (pirmiḍ),अहराम (ahrām), bangla:পিরামিড (piramiḍ), malaiji:piramida, japani:ピラミッド (piramiddo), korea:피라미드 (piramideu) + arabia:(haram), suahili:haram|
 |**pirate ja**|merirosvo (piraatti)|englanti:ranska:pirate, espanja:portugali:pirata, deu:Pirat, venäjä:пират (pirat)|
 |**pirate**|merirosvous|englanti:piracy, espanja:piratería, portugali:pirataria, ranska:piraterie, deu:Piraterie, venäjä:пиратство (piratstvo), japani:パイレーシ|
-|**pish**|virtsa (pissa, kusi)|englanti:piss, ranska:pisse, italia:piscia, hindi:पेशाब (pešāb), malaiji:pipis|
+|**pisha**|virtsa (pissa, kusi)|englanti:piss, ranska:pisse, italia:piscia, hindi:पेशाब (pešāb), malaiji:pipis|
 |**pistol**|pistooli|englanti:pistol, espanja:portugali:pistola, ranska:pistolet, venäjä:пистолет (pitolet), hindi:पिस्तौल (pistaul), bangla:পিস্তল (piśtôl)|
 |**piza**|pitsa (pizza)|italia:englanti:ranska:pizza, yleiskiina:比萨 (bǐsà), venäjä:пицца (pitsa), japani:ピザ (piza), korea:피자 (pija)|
 |**plan**|suunnitelma|englanti:espanja:ranska:plan, portugali:plano, venäjä:план (plan), persia:پلان‎ (plân), hindi:प्लैन (plain), japani:プラン (puran)|

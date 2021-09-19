@@ -88,12 +88,12 @@
 |**balon**|balon|fra:ballon, tur:may:pol:balon, eng:balloon, tgl:balun, hau:balân|
 |**baluta**|dąb|ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलूत (balūta), spa:bellota|
 |**bambu**|bambus|eng:bamboo, fra:bambou, spa:por:bambu, rus:бамбук (bambuk), may:bambu|
-|**ban**|tablica (deska)|zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|
 |**banana**|banan|wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|
 |**banda**|zespół (drużyna, grupa)|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
 |**bande**|taśma; bandaż|ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)|
 |**bandera**|flaga, sztandar|eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|
 |**banka kan**|bank|eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|
+|**bano**|tablica (deska)|zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|
 |**banya**|kąpiel|spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|
 |**bar**|bar|eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|
 |**bara mur**|bariera|eng:bar, spa:por:barrar fra:barrière, rus:барьер (baryer) + hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|
@@ -384,7 +384,7 @@
 |**fuka**|wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać|zho:复 (fù), yue:(fuk), vie:phục|
 |**fuku**|ubranie, ubiór, strój|zho:服 (fú), yue:服 (fuk6), jpn:服 (fuku), kor:의복 (uibok), vie:y phục|
 |**fun chupa gi**|odkurzacz|zho:吸尘器 (xīchénqì), deu:Staubsauger|
-|**fun**|pył|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
+|**fun**|pył|zho:粉 (fěn), yue:粉 (fan2), jpn:粉 (fun/pun), kor:분 (bun), vie:phấn, hak:粉 (fun), tha:ฝุ่น (fùn)|
 |**fungu**|grzyb|eng:fungus, fra:fongus, por:fungo, spa:hongo + zho:菇 (gū), yue:菇 (gu1)|
 |**funsi**|funkcja, stanowisko|eng:function, spa:por:funcionar, fra:fonctionner, rus:функциони́ровать (funkcionirovat’), may:berfungsi|
 |**furete**|tchórz, fretka|fra:furet, eng:ferret, por:furrão, ita:furetto, spa:hurón, jpn:(feretto), swa:fereti|
@@ -598,7 +598,7 @@
 |**kala**|czarny|hin:काला (kālā), ben:কালো (kalo), pnb:ਕਾਲਾ (kālā) + tur:kara + tam:கருப்பு (karuppu)|
 |**kalam**|pióro, długopis|ara:fas:urd: قلم‎ (qalam), hin:क़लम (qalam), ben:কলম (kôlôm), may:kalam, fra:calame, spa:por:cálamo, yor:swa:kalamu, hau:alƙalami, tur:kalem|
 |**kalenda**|kalendarz|eng:calendar, fra:calendrier, spa:por:calendario, rus:календарь (kalendar’), deu:may:kalender, jpn:カレンダー (karendā), kor:카렌더 (karendeo), hin:कैलेण्डर (kaileṇḍar), swa:kalenda|
-|**kali yum**|potas|eng:potassium, fra:potassium, spa:potasio, por:potássio, rus:калий, jpn:カリウム, vie:kali, hin:पोटैशियम, ben:পটাসিয়াম, may:kalium, swa:kali|
+|**kali yum**|potas|rus:калий, jpn:カリウム, vie:kali, may:kalium, swa:kali|
 |**kaliforni yum**|kaliforn|eng:californium, fra:californium, spa:californio, por:califórnio, rus:калифорний, zho:锎 (kāi), jpn:カリホルニウム, kor:칼리포르늄, vie:califoni, hin:कैलीफोर्नियम, ben:ক্যালিফোর্নিয়াম, may:kalifornium, swa:kalifoni|
 |**kalkul**|rachunek (formalny system obliczeń)|fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)|
 |**kalmar**|kałamarnica (mątwa)|ell:καλαμάρι (kalamári), spa:por:calamar, fra:calmar, ita:eng:calamari, rus:кальмар (kal’mar), tur:kalamar, ara:كلاماري‎ (klamāri)|
@@ -1068,7 +1068,7 @@
 |**pirate ja**|pirat|eng:fra:pirate, spa:por:pirata, deu:Pirat, rus:пират (pirat)|
 |**pirate**|piractwo|eng:piracy, spa:piratería, por:pirataria, fra:piraterie, deu:Piraterie, rus:пиратство (piratstvo), jpn:パイレーシ|
 |**pisea**|świerk|spa:por:pícea, fra:Épicéa|
-|**pish**|siki|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|
+|**pisha**|siki|eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis|
 |**pistol**|pistolet|eng:pistol, spa:por:pistola, fra:pistolet, rus:пистолет (pitolet), hin:पिस्तौल (pistaul), ben:পিস্তল (piśtôl)|
 |**piza**|pizza|ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)|
 |**plan**|plan|eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|

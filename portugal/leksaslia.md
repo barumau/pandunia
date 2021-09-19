@@ -55,10 +55,10 @@
 |**baluta**|carvalho|ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलूत (balūta), spa:bellota|
 |**bambu**|bambu|eng:bamboo, fra:bambou, spa:por:bambu, rus:бамбук (bambuk), may:bambu|
 |**bamia**|quiabo|ara: بَامْيَة‎ (bāmya), swa:bamia, amh:ባሚያ (bamiya), tur:bamya, fas: بامیه‎ (bâmiye), rus:бамия (bamiya)|
-|**ban**|painel|zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|
 |**banana**|banana|wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|
 |**banda**|bando|zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|
 |**banka kan**|banco|eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|
+|**bano**|painel|zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|
 |**bara mur**|barreira|eng:bar, spa:por:barrar fra:barrière, rus:барьер (baryer) + hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|
 |**barde**|barba|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
 |**bari yum**|bário|eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari|
@@ -154,6 +154,7 @@
 |**dobe**|tijolo|ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe|
 |**dokumen**|documento|eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|
 |**dolfin**|golfinho (delfim)|ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|
+|**dom**|lar (casa)|zho:家 (jiā), yue:家 (gaa1), jpn:家 (ka), kor:가 (ga), vie:gia|
 |**dong**|este (leste)|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|
 |**dosti**|amigo|hin:दोस्त (dost), ben:দোস্ত (dośt), zho:朵斯提 (duǒsītí), fas: دوست (dost), tur:dost|
 |**du**|dois (2)|fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul)|
@@ -310,7 +311,7 @@
 |**kala**|preto|hin:काला (kālā), ben:কালো (kalo), pnb:ਕਾਲਾ (kālā) + tur:kara + tam:கருப்பு (karuppu)|
 |**kalam**|lápis|ara:fas:urd: قلم‎ (qalam), hin:क़लम (qalam), ben:কলম (kôlôm), may:kalam, fra:calame, spa:por:cálamo, yor:swa:kalamu, hau:alƙalami, tur:kalem|
 |**kalenda**|calendário|eng:calendar, fra:calendrier, spa:por:calendario, rus:календарь (kalendar’), deu:may:kalender, jpn:カレンダー (karendā), kor:카렌더 (karendeo), hin:कैलेण्डर (kaileṇḍar), swa:kalenda|
-|**kali yum**|potássio|eng:potassium, fra:potassium, spa:potasio, por:potássio, rus:калий, jpn:カリウム, vie:kali, hin:पोटैशियम, ben:পটাসিয়াম, may:kalium, swa:kali|
+|**kali yum**|potássio|rus:калий, jpn:カリウム, vie:kali, may:kalium, swa:kali|
 |**kali**|base (álcali)|ara: قلي (qily), swa:-kali + eng:alkali, fra:alcali, spa:por:álcali, jpn:アルカリ (arukari), kor:알칼리 (alkalli), may:alkali|
 |**kaliforni yum**|califórnio|eng:californium, fra:californium, spa:californio, por:califórnio, rus:калифорний, zho:锎 (kāi), jpn:カリホルニウム, kor:칼리포르늄, vie:califoni, hin:कैलीफोर्नियम, ben:ক্যালিফোর্নিয়াম, may:kalifornium, swa:kalifoni|
 |**kalmar**|lula (calamar)|ell:καλαμάρι (kalamári), spa:por:calamar, fra:calmar, ita:eng:calamari, rus:кальмар (kal’mar), tur:kalamar, ara:كلاماري‎ (klamāri)|

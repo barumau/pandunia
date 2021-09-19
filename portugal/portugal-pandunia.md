@@ -465,7 +465,7 @@ encarar (afrontar; vérsus) - verse
 encontrar - miti  
 endereço - adres  
 enganar - fa truke  
-ensinar (lecionar) - giau  
+ensinar (lecionar) - gio  
 ensino primário - baze shula kan  
 ensino secundário - jung shula kan  
 ensopar (encharcar, marinar) - pul shipi  
@@ -483,7 +483,7 @@ escola (colégio) - shula kan
 escova de cabelo - kesha brosha  
 escovinha (centáurea) - blu sentaure  
 escrevere - kitabu  
-escudo - defa ban  
+escudo - defa bano  
 escudo - oste shalke  
 escultor - eskulte ja  
 escândio - eskandi yum  
@@ -713,7 +713,7 @@ Javé (Jeová) - Yahve
 jengibre - zinji  
 Jesus Cristo - Yesu mesi  
 joelho - guta  
-jogo de tabuleiro - ban gem  
+jogo de tabuleiro - bano gem  
 joule (J) - jul  
 jovem - joven  
 jugo - yogo  
@@ -735,6 +735,7 @@ lama (lodo) - fan
 lama - lama  
 lantâno - lantan yum  
 lançador de foguetes - rokete lanse gi  
+lar (casa) - dom  
 laranja - oranje  
 lasanha - lazanya  
 lateral - late di  
@@ -996,7 +997,7 @@ pacto - kon trati
 padeiro - baka ja  
 padrasto - vise pa  
 pai - pa  
-painel - ban  
+painel - bano  
 palavra (vocábulo) - loga so  
 palavra-passe (senha) - pas loga  
 palácio (mansão, palacete) - dai dom  
@@ -1010,7 +1011,7 @@ papel de parede - mur kaguji
 papoila - medan papi  
 papoila-dormideira - sona papi  
 par - par jan  
-para-lama - fan defa ban  
+para-lama - fan defa bano  
 parque - parke  
 parte - fen  
 partida - meche  
@@ -1093,10 +1094,10 @@ posterior - pos di
 potássio - kali yum  
 poucos - shau  
 poucos - shau ta  
-prancheta - pinse ban  
+prancheta - pinse bano  
 praseodímio - prazedim yum  
 prata - argente  
-prateleira (estante) - lipa ban  
+prateleira (estante) - lipa bano  
 praça - medan  
 precioso - bau di  
 preferir - mas fili  
@@ -1129,6 +1130,7 @@ purpúreo (roxo) - violeta blu
 purê de maçã - aple sos  
 pá - bele  
 página - varka late  
+pátria - dom desha  
 pântano - fan topo  
 pão - pang  
 pícea (espruce) - pisea  
@@ -1375,7 +1377,7 @@ tubarão - sharke
 tubérculo - masa mula  
 tungsténio - volfram  
 turbante - pagri  
-tábua (prancha) - moka ban  
+tábua (prancha) - moka bano  
 tálio - tali yum  
 tântalo - tantal yum  
 técnica - tehni  
@@ -1468,7 +1470,7 @@ zumbi - zombi
 água - sui  
 álcool - alkol  
 área de acampamento - kampe bagi  
-área de transferência - gata glu ban  
+área de transferência - gata glu bano  
 árvore - moka  
 áspero - karse  
 âncora - angar  

@@ -248,8 +248,8 @@ baluta - oak tree
 baluta frute - acorn  
 bambu - bamboo  
 bamia - okra (okro)  
-ban - board (pane, panel)  
-ban gem - board game  
+bano - board (pane, panel)  
+bano gem - board game  
 banana - banana  
 banda - band (squad, group)  
 bande - tie (fasten, bind)  
@@ -511,7 +511,7 @@ bus - bus
 buste - bust (bosom)  
 buta - boot  
 buton - key (push-button, switch)  
-buton ban - keyboard  
+buton bano - keyboard  
 buyu - baobab  
 ####C - C  
 celsius darje - degree Celsius  
@@ -655,7 +655,7 @@ data chuli logi - computer science
 data fen gata - data analysis  
 data table - data table (matrix)  
 dau - way (road)  
-dau ban - road sign  
+dau bano - road sign  
 dau din - Taoism (Daoism)  
 dau din ja - Taoist  
 dava - heal (cure, treat, remedy)  
@@ -668,7 +668,7 @@ dava sui - potion
 debil - weak  
 defa - defense (defence)  
 defa - defend  
-defa ban - shield  
+defa bano - shield  
 defa ja - defender  
 defa kaske - armor (shielding)  
 Deimos - Deimos  
@@ -737,7 +737,9 @@ dokumen filme - documentary film
 dokumen sanduku - folder (directory)  
 dolar - dollar  
 dolfin - dolphin  
-dom - home (residence)  
+dom - residence  
+dom - home (house, residence)  
+dom desha - homeland  
 dom di - domestic (tame)  
 dom zeze - housefly  
 Dominika - Dominica  
@@ -1155,7 +1157,7 @@ false vide - illusion (hallucination)
 famili - family  
 famili name - surname (family name)  
 fan - mud (mire)  
-fan defa ban - fender  
+fan defa bano - fender  
 fan di - muddy  
 fan topo - marsh (bog, swamp, morass)  
 fantazi - fantasy (imagination)  
@@ -1301,7 +1303,7 @@ futa - fat (grease)
 futa di - fatty (greasy)  
 futau - axe (hatchet)  
 fute - foot  
-fute ban - scaffolding (gangplank)  
+fute bano - scaffolding (gangplank)  
 fute bol - football (soccer)  
 fute marke - footprint  
 fute shaka - leg  
@@ -1359,7 +1361,7 @@ garma zona gazo topo - savannah
 gas - gas  
 gas di - gaseous  
 gata - cut  
-gata glu ban - clipboard (paste buffer)  
+gata glu bano - clipboard (paste buffer)  
 gati - hard (tough)  
 gati mate - solid  
 gati mate di - rigid (solid)  
@@ -1406,8 +1408,8 @@ german yum - germanium
 Germania - Germania  
 Gernezi - Guernsey  
 gi - machine (device, aparatus)  
-giau - teach (educate, instruct, doctrine)  
-giau ja - teacher (instructor)  
+gio - teach (educate, instruct, doctrine)  
+gio ja - teacher (instructor)  
 gida - guide (lead, show the way)  
 gida buku - guide book  
 gida ja - guide  
@@ -2262,7 +2264,7 @@ lin so - fibre
 linke - joint (link)  
 linse - lynx  
 lipa - stand  
-lipa ban - shelf (bookshelf)  
+lipa bano - shelf (bookshelf)  
 lipa baze - stand (rack)  
 lipa di - erect (standing)  
 lipa side - crouch (squat)  
@@ -2562,7 +2564,7 @@ mode - way (manner, mode)
 mode loge - adverb  
 model - model (design)  
 moka - tree  
-moka ban - wood board (plank)  
+moka bano - wood board (plank)  
 moka jang ja - carpenter  
 moka jong parke - arboretum  
 moka mate - wood (timber)  
@@ -2994,7 +2996,7 @@ pin kardon - cotton thistle
 pin sense di - piquant  
 pinguin - penguin  
 pinse - pinch  
-pinse ban - clipboard (physical board)  
+pinse bano - clipboard (physical board)  
 pinse gi - pliers (pincers)  
 pipe - pipe  
 piping - evaluation (criticism)  
@@ -3007,7 +3009,7 @@ pirate ja - pirate (sea robber)
 pirate parti - Pirate Party  
 pirate sim ja - pirate (one who disobeys intellectual property laws)  
 pisea - spruce tree  
-pish - piss (urine)  
+pisha - piss (urine)  
 pistol - pistol  
 Pitkerne nesi - Pitcairn Islands  
 piza - pizza  
@@ -3119,7 +3121,7 @@ pulmon - lung
 pulmon flame - pneumonia  
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
-punte ban - scoreboard  
+punte bano - scoreboard  
 punte nomer - score (grade)  
 pupe - doll (puppet)  
 pusha - push  

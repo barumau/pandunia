@@ -107,8 +107,8 @@ baku salmon - 大麻哈鱼 (狗鮭)
 baluta - 橡树  
 bambu - 竹子  
 bamia - 秋葵  
-ban - 板子  
-ban gem - 版图游戏  
+bano - 板子  
+bano gem - 版图游戏  
 banana - 香蕉  
 banda - 班  (一帮)  
 bandera - 旗  
@@ -260,7 +260,7 @@ dava she kan - 药店
 dava she logi - 药理学  
 dava sui - 药水  
 debil - 虚弱 (易坏)  
-defa ban - 盾牌  
+defa bano - 盾牌  
 defa kaske - 盔甲  
 den - 日 (天)  
 den loge - 日记  
@@ -288,6 +288,8 @@ dokumen - 文件
 dokumen filme - 纪录片  
 dolfin - 海豚  
 dom - 房子  
+dom - 家  
+dom desha - 祖国  
 dong - 东  
 dosil - 驯服的  
 dosti - 朋友 (友人)  
@@ -370,7 +372,7 @@ fa truke - 耍花招
 fa vode - 许诺  
 faida - 效用 (好处)  
 fan - 坭  
-fan defa ban - 挡泥板  
+fan defa bano - 挡泥板  
 fan topo - 沼泽  
 fase - 面  
 fase tele - 深  
@@ -435,7 +437,7 @@ garma mosim - 夏季
 garma zona - 热带  
 garma zona gazo topo - 稀树草原  
 gata - 切  
-gata glu ban - 剪贴板  
+gata glu bano - 剪贴板  
 gati - 硬  
 gati mate - 固体  
 gau tehni - 高科技 (高技术)  
@@ -447,7 +449,7 @@ geo metre - 几何学
 geo politi - 地缘政治  
 geo termo - 地热的  
 german yum - 锗  
-giau - 教学  
+gio - 教学  
 gida - 导游  
 gida buku - 指南  
 gida ja - 导游  
@@ -776,7 +778,7 @@ lin - 线
 lin so - 纤维  
 linke - 联系  
 linse - 猞猁 (山貓)  
-lipa ban - 架子 (搁板)  
+lipa bano - 架子 (搁板)  
 lipa baze - 架子  
 lipa side - 蹲  
 lisan - 舌头  
@@ -883,7 +885,7 @@ miti - 聚会
 miti - 会议  
 mitre - 米 (公尺)  
 moka - 树木  
-moka ban - 木板  
+moka bano - 木板  
 moka jang ja - 木匠  
 moka mate - 木材  
 moka tana - 原木  

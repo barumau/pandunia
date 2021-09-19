@@ -415,8 +415,8 @@ bloodless - sange hin
 blow - hava  
 blue - blu  
 bluet - serami sing  
-board (pane, panel) - ban  
-board game - ban gem  
+board (pane, panel) - bano  
+board game - bano gem  
 boat (ship) - nave  
 bob up and down - gau tal move  
 bobcat - lal linse  
@@ -708,8 +708,8 @@ climate - klima
 climate change - klima mute  
 climatology - klima logi  
 climb (get on) - eskale  
-clipboard (paste buffer) - gata glu ban  
-clipboard (physical board) - pinse ban  
+clipboard (paste buffer) - gata glu bano  
+clipboard (physical board) - pinse bano  
 clock (watch) - hor loga gi  
 clocktower - hor loga minar  
 clockwise - rota raite  
@@ -1310,7 +1310,7 @@ female - fem
 feminism - fem sim  
 feminist - fem sim ja  
 fence - kinar baryer  
-fender - fan defa ban  
+fender - fan defa bano  
 ferment (leaven) - be bio mute  
 fermented - bio mute di  
 fermium - fermi yum  
@@ -1692,7 +1692,8 @@ hologram - holo grafi
 holy (sacred) - sante  
 Holy See (Vatican City State) - Vatikan  
 holy writ (sacred writings) - sante kanon  
-home (residence) - dom  
+home (house, residence) - dom  
+homeland - dom desha  
 homonym - sam name  
 homoromantic - sam romanse di  
 homosexual - sam sekse di  
@@ -1908,7 +1909,7 @@ kettle - ketel
 key (push-button, switch) - buton  
 key - chabi  
 key lime - kaguji limon  
-keyboard - buton ban  
+keyboard - buton bano  
 Khartoum - Hartum  
 kidney - nefre  
 kill - fa mata  
@@ -2769,7 +2770,7 @@ pirate (one who disobeys intellectual property laws) - pirate sim ja
 pirate (sea robber) - pirate ja  
 Pirate Party - pirate parti  
 piss (urinate) - fa pish  
-piss (urine) - pish  
+piss (urine) - pisha  
 pistol - pistol  
 piston - pusha gi  
 pit (excavation, cavity) - kave  
@@ -3050,6 +3051,7 @@ request (petition) - ching
 resemble (be like) - be sam rupa  
 reservation (booking, withholding) - rezerve  
 reserve (book) - fa rezerve  
+residence - dom  
 resin - rezin  
 resource (utility, asset) - faida  
 respect (honor, esteem) - onor  
@@ -3093,7 +3095,7 @@ risky - risko di
 ritual (ceremony, religious custom) - puja riti  
 river (stream) - rivo  
 river bank - rivo kinar  
-road sign - dau ban  
+road sign - dau bano  
 roast - roste  
 rob (loot, plunder, pillage, ransack) - luta  
 robber (plunderer) - luta ja  
@@ -3197,7 +3199,7 @@ save (deposit, bank) - banka
 savory (umami) - umami  
 saw - sera  
 say (speak, talk) - loga  
-scaffolding (gangplank) - fute ban  
+scaffolding (gangplank) - fute bano  
 scale (flake) - shalke  
 scales (weighing device) - veze metre gi  
 Scandinavia - Eskandinavia  
@@ -3212,7 +3214,7 @@ schoolteacher - shula guru
 scissors (shears) - makas  
 scope (viewer) - oskope  
 score (grade) - punte nomer  
-scoreboard - punte ban  
+scoreboard - punte bano  
 Scotland - Eskote  
 screen - ekran  
 screw - vita  
@@ -3286,10 +3288,10 @@ shashlik - shish nama
 shatter (break into pieces) - fa parche  
 shea (vitellaria) - karite  
 sheep - meme  
-shelf (bookshelf) - lipa ban  
+shelf (bookshelf) - lipa bano  
 shell (crust, carapace) - kaske  
 Shia Islam (Shi’ism) - shia islam din  
-shield - defa ban  
+shield - defa bano  
 Shintoism - shindau din  
 shirt - kamisa  
 shish kebab - shish kababu  
@@ -3606,8 +3608,8 @@ taximeter - taksi metre gi
 tea - chai  
 tea cup - chai kupa  
 tea house - chai kan  
-teach (educate, instruct, doctrine) - giau  
-teacher (instructor) - giau ja  
+teach (educate, instruct, doctrine) - gio  
+teacher (instructor) - gio ja  
 team - tim  
 teapot - chai pote  
 tear (rip, edge) - chira  
@@ -4029,7 +4031,7 @@ woman (adult female) - matur fem
 wonder (be amazed) - be ajibu  
 wonder (be interested in, would like to know) - be sabi vol  
 wood (timber) - moka mate  
-wood board (plank) - moka ban  
+wood board (plank) - moka bano  
 wool (fleece) - meme kesha  
 word (lexeme) - loga so  
 word processing - kitabu chuli  

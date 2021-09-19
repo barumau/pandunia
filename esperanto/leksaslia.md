@@ -72,11 +72,11 @@
 |**balon**|balono|franca:ballon, turka:malaja:polona:balon, angla:balloon, filipina:balun, haŭsa:balân|
 |**baluta**|kverko|araba:بلوط (ballūṭ), persa:بلوط (balut), hindia:बलूत (balūta), hispana:bellota|
 |**bambu**|bambuo|angla:bamboo, franca:bambou, hispana:portugala:bambu, rusa:бамбук (bambuk), malaja:bambu|
-|**ban**|tabulo|mandarena:板 (bǎn), kantona:板 (baan2), japana:板 (ban), korea:판자 (panja), vjetnama:bảng, taja:บาน (baan) + malaja:papan + svahila:bao + angla:hispana:panel, franca:panneau, rusa:панель, turka:pano|
 |**banana**|banano|volofa:banaana, rusa:банан (banan), polona:banan, franca:deu:banane, portugala:hispana:angla:banana, japana:バナナ (banana), korea:바나나 (banana)|
 |**bande**|bandaĝo (vindo)|itala:benda, svahila:bendeji, hispana:venda, franca:bande, angla:band, deu:Binde, rusa:бинт (bint) hindia:बाँधना (bāndhnā)|
 |**bandera**|flago|angla:banner, franca:bannière, hispana:bandera, portugala:bandeira, malaja:bendera, filipina:bandila, svahila:bendera|
 |**banka kan**|banko|angla:deu:polona:malaja:bank, turka:banka, rusa:банк (bank), franca:banque, hispana:portugala:banco, persa:(bânk), hindia:बैंक (baiṅk), urdua:(baiṅk), teluga:బ్యాంకు (byāṅku), tamila:(vaṅki)|
+|**bano**|tabulo|mandarena:板 (bǎn), kantona:板 (baan2), japana:板 (ban), korea:판자 (panja), vjetnama:bảng, taja:บาน (baan) + malaja:papan + svahila:bao + angla:hispana:panel, franca:panneau, rusa:панель, turka:pano|
 |**banya**|bano|hispana:bañera, portugala:banheira, greka:μπάνιο (bánio), rusa:ванна (vanna), araba:بانيو‎ (banyu)|
 |**bara mur**|barilo|angla:bar, hispana:portugala:barrar franca:barrière, rusa:барьер (baryer) + hindia:बाड़ (bāṛ), bengala:বেড়া (beṛa)|
 |**barbar**|barbaro|deu:turka:barbar, franca:barbare, persa:(barbar), hispana:barbaro, angla:barbarian, rusa:варвар (varvar)|
@@ -212,6 +212,7 @@
 |**dokumen**|dokumento|angla:franca:document, hispana:portugala:documento, rusa:документ (dokument), japana:ドキュメント (dokyumento), malaja:dokumen, turka:doküman|
 |**dolfin**|delfeno|greka:δελφίνια (delphínia), angla:dolphin, hispana:delfín, portugala:delfim, rusa:дельфин (del’fin), araba:دلفين (dulfin), japana:ドルフィン (dorufin), bengala:ডলফিন (ḍalaphina), hindia:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|hejmo (loĝejo)|rusa:дом (dom), polona:dom, latina:domus, + angla:domestic, franca:domestique, hispana:portugala:doméstico|
+|**dom**|hejmo|mandarena:家 (jiā), kantona:家 (gaa1), japana:家 (ka), korea:가 (ga), vjetnama:gia|
 |**dona**|doni|franca:donner, angla:donate, hispana:portugala:donar|
 |**dong**|oriento|mandarena:东 (dōng), kantona:東 (dōng), vjetnama:đông, korea:동 (dong), turka:doğu|
 |**dosha**|kulpo|malaja:dosa, hindia:दोष (doś), taja:โทษ (toot(sa))|
@@ -304,7 +305,7 @@
 |**frute**|frukto|angla:franca:fruit, hispana:portugala:fruta, rusa:фрукт (frukt), japana:フルーツ (furūtsu)|
 |**fui**|bah!|hispana:puaj, polona:fuj, rusa:фи (fi)|
 |**fuku**|vesto|mandarena:服 (fú), kantona:服 (fuk6), japana:服 (fuku), korea:의복 (uibok), vjetnama:y phục|
-|**fun**|polvo|mandarena:粉 (fěn), hakaa:粉 (fun), taja:ฝุ่น (fùn)|
+|**fun**|polvo|mandarena:粉 (fěn), kantona:粉 (fan2), japana:粉 (fun/pun), korea:분 (bun), vjetnama:phấn, hakaa:粉 (fun), taja:ฝุ่น (fùn)|
 |**fungu**|fungo|angla:fungus, franca:fongus, portugala:fungo, hispana:hongo + mandarena:菇 (gū), kantona:菇 (gu1)|
 |**funsi**|funkcii|angla:function, hispana:portugala:funcionar, franca:fonctionner, rusa:функциони́ровать (funkcionirovat’), malaja:berfungsi|
 |**furete**|furo|franca:furet, angla:ferret, portugala:furrão, itala:furetto, hispana:hurón, japana:(feretto), svahila:fereti|
@@ -468,7 +469,7 @@
 |**kala**|nigra|hindia:काला (kālā), bengala:কালো (kalo), panĝaba:ਕਾਲਾ (kālā) + turka:kara + tamila:கருப்பு (karuppu)|
 |**kalam**|plumo|araba:persa:urdua: قلم‎ (qalam), hindia:क़लम (qalam), bengala:কলম (kôlôm), malaja:kalam, franca:calame, hispana:portugala:cálamo, joruba:svahila:kalamu, haŭsa:alƙalami, turka:kalem|
 |**kalenda**|kalendaro|angla:calendar, franca:calendrier, hispana:portugala:calendario, rusa:календарь (kalendar’), deu:malaja:kalender, japana:カレンダー (karendā), korea:카렌더 (karendeo), hindia:कैलेण्डर (kaileṇḍar), svahila:kalenda|
-|**kali yum**|kalio|angla:potassium, franca:potassium, hispana:potasio, portugala:potássio, rusa:калий, japana:カリウム, vjetnama:kali, hindia:पोटैशियम, bengala:পটাসিয়াম, malaja:kalium, svahila:kali|
+|**kali yum**|kalio|rusa:калий, japana:カリウム, vjetnama:kali, malaja:kalium, svahila:kali|
 |**kaliforni yum**|kaliforniumo|angla:californium, franca:californium, hispana:californio, portugala:califórnio, rusa:калифорний, mandarena:锎 (kāi), japana:カリホルニウム, korea:칼리포르늄, vjetnama:califoni, hindia:कैलीफोर्नियम, bengala:ক্যালিফোর্নিয়াম, malaja:kalifornium, svahila:kalifoni|
 |**kalsi yum**|kalcio|angla:calcium (Ca), franca:calcium, hispana:calcio, portugala:cálcio, rusa:кальций, mandarena:钙 (gài), japana:カルシウム, korea:칼슘, vjetnama:canxi, hindia:कैल्शियम, bengala:ক্যালসিয়াম, malaja:kalsium, svahila:kalisi|
 |**kamar**|ĉambro|malaja:kamar, portugala:câmara, hindia:कमरा, (kamrā), deu:Kammer, rusa:камера (kamera)|
@@ -773,7 +774,7 @@
 |**pinse gi**|pinĉilo|angla:pincers, franca:pinces, turka:pense, japana:ペンチ (penchi)|
 |**pipre**|pipro|angla:pepper, deu:Pfeffer, itala:pepe, bengala:পিপুল (pipul), mandarena:荜拔 (bìbá), teluga:పిప్పలి (pippali), persa:(pelpel), svahila:pilipili|
 |**piram**|piramido|angla:pyramid, franca:pyramide, hispana:portugala:pirámide, rusa:пирамида (piramida), hindia:पिरमिड (pirmiḍ),अहराम (ahrām), bengala:পিরামিড (piramiḍ), malaja:piramida, japana:ピラミッド (piramiddo), korea:피라미드 (piramideu) + araba:(haram), svahila:haram|
-|**pish**|piso (urino)|angla:piss, franca:pisse, itala:piscia, hindia:पेशाब (pešāb), malaja:pipis|
+|**pisha**|piso (urino)|angla:piss, franca:pisse, itala:piscia, hindia:पेशाब (pešāb), malaja:pipis|
 |**piza**|pico|itala:angla:franca:pizza, mandarena:比萨 (bǐsà), rusa:пицца (pitsa), japana:ピザ (piza), korea:피자 (pija)|
 |**platin**|plateno|angla:platinum, franca:platine, hispana:platino, portugala:platina, rusa:платина, mandarena:铂 (bó), vjetnama:platin, hindia:प्लाटिनम, bengala:প্লাটিনাম, malaja:platina, svahila:platini|
 |**plumbe**|plumbo|franca:plomb, hispana:plomo, portugala:chumbo, svahila:plumbi|

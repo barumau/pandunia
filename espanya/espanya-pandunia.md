@@ -170,7 +170,7 @@ anaranjado - oranje rang
 ancho - kuan  
 anchura - kuan ta  
 ancla - angar  
-andamiaje - fute ban  
+andamiaje - fute bano  
 Andes - Andes  
 andesita - andesite  
 Andorra - Andora  
@@ -1098,7 +1098,7 @@ dióxido de carbono - karbon duokside
 Dniéster - Nistre  
 doblar (multiplicar por dos) - fa multi do du  
 doble sentido - du mana di  
-docente (enseñante, profesor, maestro) - giau ja  
+docente (enseñante, profesor, maestro) - gio ja  
 doctor (médico) - dava ja  
 doctor - dotor  
 doctorado - dotor ta  
@@ -1224,7 +1224,7 @@ enredadera - eskale tana
 ensalada - salade  
 ensayo (ejercitio) - lenshi  
 ensayo (redacción) - esai  
-enseñar (instruir, doctrina) - giau  
+enseñar (instruir, doctrina) - gio  
 entender (comprender) - aha  
 entero (todo) - holo  
 entrada - jin mun  
@@ -1268,7 +1268,7 @@ Escocia - Eskote
 escribir - kitabu  
 escritorio (mesa de trabajo) - gung meza  
 escuchar (oír) - fa ore  
-escudo - defa ban  
+escudo - defa bano  
 escuela (colegio, institución) - shula kan  
 escuela primaria - baze shula kan  
 escuela secundaria - jung shula kan  
@@ -1312,7 +1312,7 @@ estadio (arena) - estadi
 estado (condición) - hal  
 Estados Unidos de América - Unta Desh Da Amerika (UDA)  
 estadounidense - UDA di  
-estante (repisa) - lipa ban  
+estante (repisa) - lipa bano  
 estar al lado de - na late  
 estar de pie - lipa  
 estar en contra - kontra  
@@ -1590,7 +1590,7 @@ Guadalupe - Guadelupe
 Guam - Guam  
 guapo (bien parecido) - bon vide di  
 guarda (preservador, conservador) - hafiza ja  
-guarda-barros (aleta) - fan defa ban  
+guarda-barros (aleta) - fan defa bano  
 Guatemala - Guatemala  
 guau (vaya) - va  
 Guernesey - Gernezi  
@@ -1678,6 +1678,7 @@ historieta (caricaturas) - grafi kata
 hm… - hem…  
 hockey - hoki  
 hockey sobre hielo - ais hoki  
+hogar - dom  
 hoja - varka  
 holmio - holme yum  
 holograma - holo grafi  
@@ -1888,7 +1889,7 @@ judaísmo - yehudi din
 judío - yehudi  
 juego - gem  
 juego de mazmorras - donjon ventur  
-juego de mesa - ban gem  
+juego de mesa - bano gem  
 jueves - var nelu  
 juez (árbitro, réferi) - jude ja  
 jugador - gem ja  
@@ -2133,7 +2134,7 @@ maravilla - ajibu
 maravilloso (asombroso) - ajibu di  
 maravilloso (magnífico) - super  
 marca (huella, mancha) - marke  
-marcador - punte ban  
+marcador - punte bano  
 marcar - fa marke  
 marcha - marche  
 marco - frem  
@@ -2635,6 +2636,7 @@ pastel de luna - luna keke
 paternal - pa di  
 pato - bata  
 patología - pati logi  
+patria - dom desha  
 patrimonio (herencia, legado) - varis  
 patógeno - pati jene she  
 pausa - pauza  
@@ -2737,7 +2739,7 @@ piperita - pipre minta
 pirata - pirate ja  
 piratería - pirate  
 pirámide - piram  
-pis (meados) - pish  
+pis (meados) - pisha  
 pisada (huella) - fute marke  
 piscina (alberca, lavadero) - basen  
 piso (suelo) - kamar tal  
@@ -2805,7 +2807,7 @@ porcelana - chini
 porno - porno  
 pornografía - porno grafi  
 porque - ze saba da  
-portapapeles - gata glu ban  
+portapapeles - gata glu bano  
 porto - porte  
 Portugal - Portugal  
 pose (postura) - poze  
@@ -3217,7 +3219,7 @@ sexología - sekse logi
 sexy (sexual) - sekse di  
 Seychelles - Seshel nesi  
 señal (letrero, indicio) - sin  
-señal de tránsito - dau ban  
+señal de tránsito - dau bano  
 sharía - islam din sharia  
 Shiva - Shiva  
 shogunato - gun raja desha  
@@ -3335,9 +3337,9 @@ sólido - gati mate
 tabaco - tabaku  
 tabla (lámina, plancha) - table  
 tabla - data table  
-tabla con pinza (carpeta con sujetapapeles) - pinse ban  
+tabla con pinza (carpeta con sujetapapeles) - pinse bano  
 tablet - table komputa  
-tablón - moka ban  
+tablón - moka bano  
 tabular - table yo data  
 taiga - taiga  
 Tailandia - Tai Desha  
@@ -3368,7 +3370,7 @@ taza de café - kafe kupa
 taza de té - chai kupa  
 techo (tejado) - chati  
 tecla (botón) - buton  
-teclado - buton ban  
+teclado - buton bano  
 tecnetio - tehni yum  
 tecnocracia - tehni krati  
 tecnología - tehni logi  

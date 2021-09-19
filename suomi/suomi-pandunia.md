@@ -858,7 +858,7 @@ jalka (alaraaja) - fute shaka
 jalka (jalkaterä) - fute  
 jalkapallo - fute bol  
 jalokivi - bau sheku  
-jalusta (teline) - fute ban  
+jalusta (teline) - fute bano  
 Jamaika - Jamaika  
 jambolaani - jamul  
 jano - sui yau  
@@ -1316,7 +1316,9 @@ koskea (koskettaa) - tochu
 kosminen - kosmo di  
 Kosovo - Kosovo  
 kosteuttaa - fa shipi  
+koti - dom  
 koti- - dom di  
+kotimaa - dom desha  
 koukku (haka) - huke  
 koulu (opisto) - shula kan  
 koulutus - shula  
@@ -1527,9 +1529,9 @@ lauantai - var luka
 laukka - galope  
 laulaa - chante  
 laulu - chante  
-lauta (paneeli) - ban  
+lauta (paneeli) - bano  
 lautanen - plate tasa  
-lautapeli - ban gem  
+lautapeli - bano gem  
 lava - tai  
 lawrencium - laurence yum  
 lehmän liha - mumu nama  
@@ -1537,7 +1539,7 @@ lehti (arkki, levy) - varka
 lehti (sanomalehti) - gazeta  
 lehtisalaatti - letus  
 leijona - singa  
-leikepöytä - gata glu ban  
+leikepöytä - gata glu bano  
 leikkikalu (lelu) - van gi  
 leikkiä (pitää hauskaa) - be van  
 leipoa - baka  
@@ -1579,7 +1581,7 @@ liikaa - mas ka basa
 liike - kino  
 liike - move  
 liikemies - biznes ja  
-liikennemerkki - dau ban  
+liikennemerkki - dau bano  
 liiketoiminta (bisnes) - biznes  
 liikkua - be kino  
 liikkua ylös ja alas - gau tal move  
@@ -1618,7 +1620,7 @@ logofilia - loga fili
 lohkare (järkäle) - dai sheku  
 loimi - ging lin  
 lokakuu - mes des  
-lokasuoja - fan defa ban  
+lokasuoja - fan defa bano  
 lokikirja - loge buku  
 looginen - logika di  
 lopettaa - fin  
@@ -2099,7 +2101,7 @@ näkyä - be vide
 näkökenttä - vide medan  
 näkökulma - vide punte  
 nälkä - yam yau  
-näppäimistö - buton ban  
+näppäimistö - buton bano  
 näytellä - fa rol  
 näyttelijä - rol ja  
 näyttää jltkn - be rupa  
@@ -2157,8 +2159,8 @@ onneksi olkoon! - barka
 onnitella (siunata) - barka  
 opas (tiennäyttäjä) - gida ja  
 opastaa (ohjata) - gida  
-opettaa - giau  
-opettaja - giau ja  
+opettaa - gio  
+opettaja - gio ja  
 opettaja - shula guru  
 opiskelija - estude ja  
 opiskella (tutkia) - fa estude  
@@ -2975,7 +2977,7 @@ summa - sum
 sunnalaisuus - suna islam din  
 suo (räme) - fan topo  
 suodattaa - filtre  
-suojakilpi - defa ban  
+suojakilpi - defa bano  
 suojakypärä - defa kaske  
 suojella (suojata, turvata) - fa sekur  
 suola - sal  
@@ -3626,7 +3628,7 @@ virologia - virus logi
 virrata - be dara  
 virta (virtaus) - dara  
 virtahepo - gubu  
-virtsa (pissa, kusi) - pish  
+virtsa (pissa, kusi) - pisha  
 virtsata (kusta) - fa pish  
 virus - virus  
 viski - viski  

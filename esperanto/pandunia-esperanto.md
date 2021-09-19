@@ -128,8 +128,8 @@ baldi - sitelo
 balon - balono  
 baluta - kverko  
 bambu - bambuo  
-ban - tabulo  
-ban gem - tabulludo  
+bano - tabulo  
+bano gem - tabulludo  
 banana - banano  
 bande - ligi  
 bande - bandaĝo (vindo)  
@@ -274,7 +274,7 @@ bulbul - najtingalo
 bum - eksplodo  
 bus - buso  
 buton - klavo (butono)  
-buton ban - klavaro  
+buton bano - klavaro  
 buyu - baobabo  
 ####C - C  
 Ceres - Cereso  
@@ -396,6 +396,8 @@ dokumen filme - dokumentfilmo
 dolar - dolaro  
 dolfin - delfeno  
 dom - hejmo (loĝejo)  
+dom - hejmo  
+dom desha - patrio  
 dom di - hejma  
 dom zeze - muŝo  
 dona - doni  
@@ -700,7 +702,7 @@ geo metre - geometrio
 geo sismo - tertremo  
 german yum - germaniumo  
 gi - maŝino  
-giau - instrui (lernigi)  
+gio - instrui (lernigi)  
 gida - gvidi  
 gioka - jado  
 gitar - gitaro  
@@ -1446,7 +1448,7 @@ pinguin - pingveno
 pinse gi - pinĉilo  
 pipre - pipro  
 piram - piramido  
-pish - piso (urino)  
+pisha - piso (urino)  
 piza - pico  
 piza kan - picejo  
 platin - plateno  

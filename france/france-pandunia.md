@@ -252,7 +252,7 @@ boron - boron
 botanique - fito logi  
 botte - buta  
 boucher - bucha ja  
-bouclire - defa ban  
+bouclire - defa bano  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - fan  
 bouh! - bu!  
@@ -577,7 +577,7 @@ encre - kalam sui
 enfant - bacha  
 ennemi - dus jan  
 enregistrement - loge  
-enseigner - giau  
+enseigner - gio  
 ensommeillé (somnolent) - sona tabi  
 ensuite (après, plus tard, ir a, en el futuro) - pos  
 entonnoir - dara tubo  
@@ -658,6 +658,7 @@ fossé (canal, tranchée) - kanal
 fouet - bichi  
 fougères - parne  
 fourmi - murche  
+foyer (domicile) - dom  
 fragment - parche  
 frais - taza  
 francium - france yum  
@@ -675,7 +676,7 @@ gadolinium - gadolin yum
 galaxie - galaksi  
 gallium - gali yum  
 galop - galope  
-garde-boue (aile) - fan defa ban  
+garde-boue (aile) - fan defa bano  
 Gaule - Galia  
 gaz - gas  
 gaz lacrymogène - oko sui gas  
@@ -808,7 +809,7 @@ jasmin - moli
 jaïnisme - jain din  
 je (me) - mi  
 jeu de dames - dama gem  
-jeu de société - ban gem  
+jeu de société - bano gem  
 jeudi - var nelu  
 jeune (juvénile) - joven  
 joug - yogo  
@@ -1135,7 +1136,7 @@ panda - panda
 pandémie - pan demo pati  
 paneuropéen - pan europa di  
 panier (panier de basketball) - baske  
-panneau de signalisation - dau ban  
+panneau de signalisation - dau bano  
 pansement (sparadrap) - glu bande  
 pantalon - pante  
 pantomime - pan mima  
@@ -1163,6 +1164,7 @@ pastèque - arbuza
 paternel - pa di  
 pathologie - pati logi  
 patient - pati jan  
+patrie - dom desha  
 pause - pauza  
 pavot d'Orient - gui papi  
 pavot somnifère - sona papi  
@@ -1211,7 +1213,7 @@ plaine - plate topo
 plainte (lamentation) - shikaya  
 plaire - fa suka  
 plan - plan  
-planche - moka ban  
+planche - moka bano  
 plante (végétal) - fito  
 planter - fa poze  
 plaque tectonique - geo kaske plate  
@@ -1245,7 +1247,7 @@ pomme - aple
 pont - kiau  
 porcelaine - chini  
 porte - porte  
-porte-bloc (planchette à pince) - pinse ban  
+porte-bloc (planchette à pince) - pinse bano  
 porter (s’habiller) - fuku  
 Porto Rico - Portoriko  
 Portoricain - portoriko jan  
@@ -1266,7 +1268,7 @@ pourrir (se décomposer) - be pute
 pousse - joven moka  
 pouvoir (possible, capacité, peut-être) - bil  
 praséodyme - prazedim yum  
-presse-papier - gata glu ban  
+presse-papier - gata glu bano  
 presser - fa presa  
 pression - presa  
 pression atmosphérique - air presa  
@@ -1500,7 +1502,7 @@ sûr - sekur
 s’accroupir - lipa side  
 ####T - T  
 table - meza  
-tableau (panneau) - ban  
+tableau (panneau) - bano  
 tablette de chocolat - choklate kane  
 tantale - tantal yum  
 tapioca - manioka fufu  
@@ -1718,7 +1720,7 @@ zéro - siro
 épée - katana  
 équilibre - par veze ta  
 équipe - tim  
-étagère - lipa ban  
+étagère - lipa bano  
 étain - estan  
 état - hal  
 éternuer (atchoum) - achi  

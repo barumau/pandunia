@@ -243,8 +243,8 @@ baluta - tammi
 baluta frute - tammenterho  
 bambu - bambu  
 bamia - okra  
-ban - lauta (paneeli)  
-ban gem - lautapeli  
+bano - lauta (paneeli)  
+bano gem - lautapeli  
 banana - banaani  
 banda - ryhmä (työryhmä, yhtye, bändi)  
 bande - sitoa  
@@ -506,7 +506,7 @@ bus - linja-auto (bussi)
 buste - povi  
 buta - saapas (buutsi)  
 buton - nappi (näppäin, kytkin, nappula)  
-buton ban - näppäimistö  
+buton bano - näppäimistö  
 buyu - apinanleipäpuu (baobab)  
 ####C - C  
 celsius darje - celsiusaste  
@@ -650,7 +650,7 @@ data chuli logi - tietojenkäsittelytiede
 data fen gata - data-analyysi  
 data table - taulukko  
 dau - tie  
-dau ban - liikennemerkki  
+dau bano - liikennemerkki  
 dau din - taolaisuus  
 dau din ja - taolainen  
 dava - hoitaa (lääkitä)  
@@ -663,7 +663,7 @@ dava sui - lääkejuoma
 debil - heikko  
 defa - puolustus  
 defa - puolustaa  
-defa ban - suojakilpi  
+defa bano - suojakilpi  
 defa ja - puolustaja  
 defa kaske - suojakypärä  
 Deimos - Deimos  
@@ -732,6 +732,8 @@ dokumen sanduku - kansio (hakemisto)
 dolar - dollari  
 dolfin - delfiini  
 dom - asunto (koti)  
+dom - koti  
+dom desha - kotimaa  
 dom di - koti-  
 dom zeze - kärpänen  
 Dominika - Dominika  
@@ -1142,7 +1144,7 @@ false vide - harhanäky (näköharha)
 famili - perhe  
 famili name - sukunimi  
 fan - muta (kura, lieju)  
-fan defa ban - lokasuoja  
+fan defa bano - lokasuoja  
 fan di - kurainen (mutainen)  
 fan topo - suo (räme)  
 fantazi - mielikuvitus (fantasia)  
@@ -1286,7 +1288,7 @@ futa - rasva (öljy)
 futa di - rasvainen  
 futau - kirves  
 fute - jalka (jalkaterä)  
-fute ban - jalusta (teline)  
+fute bano - jalusta (teline)  
 fute bol - jalkapallo  
 fute marke - jalanjälki  
 fute shaka - jalka (alaraaja)  
@@ -1344,7 +1346,7 @@ garma zona gazo topo - savanni
 gas - kaasu  
 gas di - kaasumainen  
 gata - katkaista (leikata)  
-gata glu ban - leikepöytä  
+gata glu bano - leikepöytä  
 gati - kova  
 gati mate - kiinteä aine  
 gati mate di - kiinteä  
@@ -1389,8 +1391,8 @@ german yum - germanium
 Germania - Germania  
 Gernezi - Guernsey  
 gi - kone  
-giau - opettaa  
-giau ja - opettaja  
+gio - opettaa  
+gio ja - opettaja  
 gida - opastaa (ohjata)  
 gida buku - matkaopas (opaskirja)  
 gida ja - opas (tiennäyttäjä)  
@@ -2803,7 +2805,7 @@ pirate - merirosvous
 pirate ja - merirosvo (piraatti)  
 pirate parti - piraattipuolue  
 pirate sim ja - piraatti (joka ei kunnioita tekijänoikeuksia)  
-pish - virtsa (pissa, kusi)  
+pisha - virtsa (pissa, kusi)  
 pistol - pistooli  
 Pitkerne nesi - Pitcairn  
 piza - pitsa (pizza)  

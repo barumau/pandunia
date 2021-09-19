@@ -191,8 +191,8 @@ baluta - chêne
 baluta frute - gland  
 bambu - bambou  
 bamia - gombo  
-ban - tableau (panneau)  
-ban gem - jeu de société  
+bano - tableau (panneau)  
+bano gem - jeu de société  
 banana - banane  
 banda - bande  
 bandera - drapeau  
@@ -361,13 +361,13 @@ data - données
 data banka - base de données  
 data chuli - traitement de données  
 data chuli logi - informatique  
-dau ban - panneau de signalisation  
+dau bano - panneau de signalisation  
 dava she - médicament (remède)  
 dava she kan - pharmacie  
 dava she logi - pharmacologie  
 dava sui - pocion  
 debil - faible  
-defa ban - bouclire  
+defa bano - bouclire  
 defa kaske - armure  
 den loge - journal  
 deu - dieu  
@@ -395,6 +395,8 @@ dokumen - document (dossier)
 dokumen filme - documentaire  
 dolfin - dauphin  
 dom - maison  
+dom - foyer (domicile)  
+dom desha - patrie  
 dom di - domestique  
 dom zeze - mouche  
 dona tabi - généreux  
@@ -522,7 +524,7 @@ fa valu - évaluer
 fa verse - verser  
 fa vode - promettre  
 fan - boue (fange, bourbe, gadoue)  
-fan defa ban - garde-boue (aile)  
+fan defa bano - garde-boue (aile)  
 fan topo - marécage (marais)  
 fase - face (facette)  
 fase tele - profond  
@@ -606,7 +608,7 @@ garma mosim - été
 garma zona - tropique  
 garma zona gazo topo - savane  
 gas - gaz  
-gata glu ban - presse-papier  
+gata glu bano - presse-papier  
 gati - dur  
 gau - haut  
 gau tehni - hautes technologies  
@@ -625,7 +627,7 @@ geo politi - géopolitique
 geo termo - géothermique  
 german yum - germanium  
 Germania - Germanie  
-giau - enseigner  
+gio - enseigner  
 gida - guider  
 gida buku - guide touristique  
 gida ja - guide  
@@ -987,7 +989,7 @@ lin - ligne (fil)
 lin so - fibre  
 linke - lien  
 linse - lynx  
-lipa ban - étagère  
+lipa bano - étagère  
 lipa side - s’accroupir  
 lisan - langue  
 liste - liste  
@@ -1111,7 +1113,7 @@ Misri - Égypte
 mitre - mètre  
 mode - mode (façon, manière)  
 moka - arbre  
-moka ban - planche  
+moka bano - planche  
 moka jong parke - arboretum, pépinière  
 moka tana - bûche  
 mol kan - moulin  
@@ -1292,7 +1294,7 @@ pin - épingle
 pin chope - pioche  
 pin kardon - chardon aux ânes  
 pin sense di - piquant  
-pinse ban - porte-bloc (planchette à pince)  
+pinse bano - porte-bloc (planchette à pince)  
 pipre - poivre  
 pipre minta - menthe poivrée  
 piram - pyramide  

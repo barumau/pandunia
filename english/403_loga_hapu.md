@@ -21,7 +21,9 @@ and the _hard c_ is written with a **k**.
 | ph       | f        | philosophy > **filsofi** |
 | qu       | k        | mosquito > **moskite** |
 | x        | ks       | galaxy > **galaksi** |
+| -tion    | si       | nation > **nasi**, function > **funsi** |
 |          |          | |
+
 
 ## Sinitic words
 
@@ -29,9 +31,49 @@ Sinitic words are borrowed from East Asian languages, that include
 different varieties of Chinese (Mandarin, Cantonese, Wu, etc.),
 Japanese, Korean, Vietnamese
 and sometimes also Malay, Filipino and Thai.
-Standard Mandarin is the most widely spoken and the most learned language in this group of languages.
+The common ancestor of Sinitic words in these languages is Middle Chinese,
+which was spoken in ancient China.
+
+Middle Chinese had three nasal finals, -n, -m and -ng,
+and three stop finals, -p, -t and -k.
+All of them are preserved by Cantonese, Vietnamese and Korean.
+Mandarin has lost all final stops and it has merged -m to -n.
+Japanese has kept only one final nasal
+and a helping vowel is added after the final stops.
+
+Middle Chinese was a tonal language
+like the modern varieties of Chinese and Vietnamese.
+The tone of a syllable is very important because it can differentiate one word from others.
+For example, the syllable _ma_ means 'mother' in the first tone and 'horse' in the third tone in Mandarin.
+Mandarin has four tones, which are numbered from 1 to 4.
+The tone is often marked with a number after the syllable.
+Pandunia is not a tonal language.
+Therefore the Chinese tones are transformed into Pandunia in a changed form.
 
 Every Sinitic word is borrowed to Pandunia in a form that is a compromise between the aforementioned languages.
+The recipe for building a Sinitic word for Pandunia is the following:
+
+1. Select the common initial consonant from Mandarin, Cantonese and Korean.
+   Typically at least 2/3 of them agree.
+   Japanese and Vietnamese have frequently changed it.
+2. Select the medial vowel(s) from Mandarin, Cantonese and Japanese.
+3. Select the final nasal or stop consonant from Cantonese, Japanese, Korean and/or Vietnamese.
+   Typically at least 3/4 of them agree.
+4. Transform the Mandarin tone into a final vowel.
+    - Tone 1 → vowel **i**
+    - Tone 2 → vowel **u**
+    - Tone 3 → vowel **o**
+    - Tone 4 → vowel **a**
+
+Some examples of this word building process are shown in the table below.
+
+| Mandarin | Cantonese | Japanese | Korean    | Vietnamese | Pandunia  |
+|----------|-----------|----------|-----------|------------|-----------|
+| 发 fa1  | 發 faat3 | 発 hatsu | 발 bal  | phát  | **fati**  |
+| 罚 fa2  | 罰 fat6  | 罰 batsu | 벌 beol | phạt  | **fatu**  |
+| 板 ban3 | 板 baan2 | 板 ban   | 판 pan  | bản   | **bano**  |
+| 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **shuta** |
+
 
 ### Mapping finals from Mandarin to Pandunia
 
@@ -63,36 +105,4 @@ Every Sinitic word is borrowed to Pandunia in a form that is a compromise betwee
 | iang     | iang     | |
 | uang     | uang     | |
 |          |          | |
-
-#### Checked syllables
-
-A "checked syllable" is a syllable type in Middle Chinese that had a specific tone and ended in one of the three stop consonants: -p, -t or -k.
-The final stops have been preserved in Cantonese, Vietnamese, Japanese and Korean
-but Mandarin has lost them.
-Pandunia borrows Sinitic words with the final stops.
-
-#### Tone transformation
-
-Chinese is a tonal language.
-Mandarin has four tones, which are numbered from 1 to 4.
-The tone is marked with a number after the syllable.
-Pandunia is not a tonal language.
-Therefore the Chinese tones are transformed into Pandunia in a changed form.
-
-The rules are applied only to syllables that end in
-a nasal consonant (both in Mandarin and in Cantonese)
-or a stop consonant (only in Cantonese).
-The tone transformation rules are as follows:
-
-1. Mandarin tone 1 > Add **i** after the final stop consonant
-1. Mandarin tone 2 > Add **u** after the final nasal or stop consonant
-1. Mandarin tone 3 > Add **o** after the final nasal or stop consonant
-1. Mandarin tone 4 > Add **a** after the final nasal or stop consonant
-
-| Mandarin | Cantonese | Pandunia  |
-|----------|-----------|-----------|
-| 发 fa1   | 發 faat3  | **fati**  |
-| 罚 fa2   | 罰 fat6   | **fatu**  |
-| 板 ban3  | 板 baan2  | **bano**  |
-| 术 shu4  | 術 seot6  | **shuta** |
 

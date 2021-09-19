@@ -226,7 +226,7 @@ baluta - roble
 baluta frute - bellota  
 bambu - bambú  
 bamia - ocra  
-ban gem - juego de mesa  
+bano gem - juego de mesa  
 banana - plátano (banana)  
 banda - banda  
 bande - atar (amarrar)  
@@ -459,7 +459,7 @@ bus - bus (autobús)
 buste - pecho (busto)  
 buta - bota  
 buton - tecla (botón)  
-buton ban - teclado  
+buton bano - teclado  
 buyu - baobab  
 ####C - C  
 celsius darje - grado Celsius  
@@ -585,7 +585,7 @@ data chuli logi - informática (computación)
 data fen gata - análisis de datos  
 data table - tabla  
 dau - camino (calle)  
-dau ban - señal de tránsito  
+dau bano - señal de tránsito  
 dau din - taoísmo  
 dau din ja - taoísta  
 dava - curar (sanar)  
@@ -598,7 +598,7 @@ dava sui - poción
 debil - débil  
 defa - defensa  
 defa - defender  
-defa ban - escudo  
+defa bano - escudo  
 defa ja - defensor  
 defa kaske - armadura  
 demo - pueblo (población)  
@@ -660,6 +660,8 @@ dokumen sanduku - carpeta
 dolar - dolar  
 dolfin - delfín  
 dom - casa (hogar, residencia)  
+dom - hogar  
+dom desha - patria  
 dom di - doméstico (domesticado)  
 dom zeze - mosco  
 Dominika - Dominica  
@@ -1025,7 +1027,7 @@ false vide - ilusión
 famili - familia  
 famili name - apellido  
 fan - lodo (barro, fango)  
-fan defa ban - guarda-barros (aleta)  
+fan defa bano - guarda-barros (aleta)  
 fan di - embarrado (enlodado)  
 fan topo - ciénaga (pantano)  
 fantazi - imaginación (fantasía)  
@@ -1160,7 +1162,7 @@ futa - grasa
 futa di - graso (adiposo)  
 futau - hacha  
 fute - pie (pata)  
-fute ban - andamiaje  
+fute bano - andamiaje  
 fute bol - fútbol  
 fute marke - pisada (huella)  
 ####G - G  
@@ -1213,7 +1215,7 @@ garma zona gazo topo - sabana
 gas - gas  
 gas di - gaseoso  
 gata - cortar  
-gata glu ban - portapapeles  
+gata glu bano - portapapeles  
 gati - duro  
 gati mate - sólido  
 gati mate di - rígido (sólido)  
@@ -1255,8 +1257,8 @@ german yum - germanio
 Germania - Germania  
 Gernezi - Guernesey  
 gi - máquina (dispositivo, aparato)  
-giau - enseñar (instruir, doctrina)  
-giau ja - docente (enseñante, profesor, maestro)  
+gio - enseñar (instruir, doctrina)  
+gio ja - docente (enseñante, profesor, maestro)  
 gida - guiar  
 gida buku - guía de viaje  
 gida ja - guía  
@@ -2036,7 +2038,7 @@ lin so - hebra (fibra)
 linke - juntura (conexión, enlace)  
 linse - lince  
 lipa - estar de pie  
-lipa ban - estante (repisa)  
+lipa bano - estante (repisa)  
 lipa baze - soporte (perchero, atril)  
 lipa di - erguido  
 lipa side - agacharse  
@@ -2314,7 +2316,7 @@ mode - modo (manera, forma)
 mode loge - adverbo  
 model - modelar  
 moka - árbol  
-moka ban - tablón  
+moka bano - tablón  
 moka jang ja - carpintero  
 moka jong parke - arboreto  
 moka mate - madera  
@@ -2709,7 +2711,7 @@ pilote - piloto
 pin - alfiler (espina, aguja)  
 pin kardon - cardo borriquero  
 pinguin - pingüino  
-pinse ban - tabla con pinza (carpeta con sujetapapeles)  
+pinse bano - tabla con pinza (carpeta con sujetapapeles)  
 pinse gi - alicate  
 pipe - tubo (caño)  
 piping - evaluación (crítica)  
@@ -2722,7 +2724,7 @@ pirate ja - pirata
 pirate parti - Partido Pirata  
 pirate sim ja - partidario de infracción de copyright  
 pisea - pícea  
-pish - pis (meados)  
+pisha - pis (meados)  
 pistol - pistola  
 Pitkerne nesi - Islas Pitcairn  
 piza - pizza  
@@ -2831,7 +2833,7 @@ pulmon - pulmón
 pulmon flame - pulmonía (neumonía)  
 puma - puma  
 punte - punto  
-punte ban - marcador  
+punte bano - marcador  
 punte nomer - puntuación (resultado)  
 pupe - marioneta (títere)  
 pusha - empujar (presionar)  

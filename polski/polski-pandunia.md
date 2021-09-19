@@ -278,7 +278,7 @@ bóg, bóstwo - deu
 bąk, bączek - rota van gi  
 bęben - guma  
 bławatek - blu sentaure  
-błotnik - fan defa ban  
+błotnik - fan defa bano  
 błotnisty - fan di  
 błoto - fan  
 błąd (pomyłka) - galte  
@@ -454,7 +454,7 @@ Demokratyczna Republika Konga - Kinshasa Kongo
 demokratyczny - demo krati di  
 demon - demon  
 dentysta - dante dava ja  
-deska - moka ban  
+deska - moka bano  
 deszcz - shava  
 deszczowy -   
 detal, szczegół - detal  
@@ -736,7 +736,7 @@ gorączka - febre
 gotować, szykować jedzenie - kuke  
 gotowy - redi  
 gra - gem  
-gra planszowa - ban gem  
+gra planszowa - bano gem  
 gracki, helleński; Grek - Helen  
 gracz - gem ja  
 gradient (gradacja, stopniowanie) - darja medan  
@@ -1092,7 +1092,7 @@ klasyczny - chen yang di
 klasyfikować, kategoryzować - fa klas  
 klatka - kane kasa  
 klatka piersiowa - sina kasa  
-klawiatura - buton ban  
+klawiatura - buton bano  
 klawisz, przycisk, przełącznik, guzik - buton  
 klej - glu  
 klejnot - bau sheku  
@@ -2344,7 +2344,7 @@ pyszny - bon guste di
 pytajny, związany z pytaniem - sual di  
 pytanie - sual  
 pył - fun  
-półka (regał na książki) - lipa ban  
+półka (regał na książki) - lipa bano  
 północ - medi noche  
 północ - norde  
 północny - norde di  
@@ -2478,7 +2478,7 @@ rumianek pospolity - kamil
 Rumunia - Romania  
 ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się) - fa migra  
 ruszać, przenościć, zmieniać miejsce, inspirować - fa kino  
-rusztowanie (trap) - fute ban  
+rusztowanie (trap) - fute bano  
 rut - rus yum  
 rutherford - ruterfor yum  
 rutyna, nawyk, zwyczaj - rutina  
@@ -2601,7 +2601,7 @@ sieć - nete
 sikać, szczać, oddawać mocz - fa pish  
 sikh - siki din ja  
 sikhizm - siki din  
-siki - pish  
+siki - pisha  
 silnik - moto  
 silny - lika di  
 Singapur - Singapur  
@@ -2850,8 +2850,8 @@ słup (pal, kołek) - zong
 służba - serve  
 służyć - serva  
 ####T - T  
-tablica (deska) - ban  
-tablica wyników - punte ban  
+tablica (deska) - bano  
+tablica wyników - punte bano  
 tablioca, macierz - data table  
 Tadżykistan - Tajiki  
 tajga - taiga  
@@ -2875,7 +2875,7 @@ Tanzania - Tanzania
 taoista - dau din ja  
 taoizm - dau din  
 tapeta - mur kaguji  
-tarcza - defa ban  
+tarcza - defa bano  
 tatuaż - tatu  
 taxi, taksówka - taksi kar  
 taśma - tepe  

@@ -94,12 +94,12 @@
 |**baluta**|oak tree|Arabic:بلوط (ballūṭ), Persian:بلوط (balut), Hindi:बलूत (balūta), Spanish:bellota|
 |**bambu**|bamboo|English:bamboo, French:bambou, Spanish:Portuguese:bambu, Russian:бамбук (bambuk), Malay:bambu|
 |**bamia**|okra (okro)|Arabic: بَامْيَة‎ (bāmya), Swahili:bamia, Amharic:ባሚያ (bamiya), Turkish:bamya, Persian: بامیه‎ (bâmiye), Russian:бамия (bamiya)|
-|**ban**|board (pane, panel)|Mandarin:板 (bǎn), Cantonese:板 (baan2), Japanese:板 (ban), Korean:판자 (panja), Vietnamese:bảng, Thai:บาน (baan) + Malay:papan + Swahili:bao + English:Spanish:panel, French:panneau, Russian:панель, Turkish:pano|
 |**banana**|banana|Wolof:banaana, Russian:банан (banan), Polish:banan, French:deu:banane, Portuguese:Spanish:English:banana, Japanese:バナナ (banana), Korean:바나나 (banana)|
 |**banda**|band (squad, group)|Mandarin:班 (bān), Vietnamese:ban, Korean:반 (ban), + English:deu:band, French:bande, Russian:банда (banda), Spanish:Portuguese:Filipino:Polish:banda, Japanese:バンド (bando)|
 |**bande**|band (tape, bandage)|Italian:benda, Swahili:bendeji, Spanish:venda, French:bande, English:band, deu:Binde, Russian:бинт (bint) Hindi:बाँधना (bāndhnā)|
 |**bandera**|flag (banner)|English:banner, French:bannière, Spanish:bandera, Portuguese:bandeira, Malay:bendera, Filipino:bandila, Swahili:bendera|
 |**banka kan**|bank (depository, cache)|English:deu:Polish:Malay:bank, Turkish:banka, Russian:банк (bank), French:banque, Spanish:Portuguese:banco, Persian:(bânk), Hindi:बैंक (baiṅk), Urdu:(baiṅk), Telugu:బ్యాంకు (byāṅku), Tamil:(vaṅki)|
+|**bano**|board (pane, panel)|Mandarin:板 (bǎn), Cantonese:板 (baan2), Japanese:板 (ban), Korean:판자 (panja), Vietnamese:bảng, Thai:บาน (baan) + Malay:papan + Swahili:bao + English:Spanish:panel, French:panneau, Russian:панель, Turkish:pano|
 |**banya**|bath|Spanish:bañera, Portuguese:banheira, Greek:μπάνιο (bánio), Russian:ванна (vanna), Arabic:بانيو‎ (banyu)|
 |**bar**|bar|English:French:Spanish:Portuguese:Malay:Turkish:bar, Russian:бар (bar), Mandarin:酒吧 (jiǔbā), Japanese:バー (bā), Hindi:बार (bār), Bengali:বার (bar)|
 |**bara mur**|barrier (fence)|English:bar, Spanish:Portuguese:barrar French:barrière, Russian:барьер (baryer) + Hindi:बाड़ (bāṛ), Bengali:বেড়া (beṛa)|
@@ -277,7 +277,8 @@
 |**dobe**|brick|Arabic:طوبةطوبة (ṭūba), Amharic:ጡብ (ṭub), deu:English:French:Spanish:Portuguese:adobe|
 |**dokumen**|document (record, file)|English:French:document, Spanish:Portuguese:documento, Russian:документ (dokument), Japanese:ドキュメント (dokyumento), Malay:dokumen, Turkish:doküman|
 |**dolfin**|dolphin|Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)|
-|**dom**|home (residence)|Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico|
+|**dom**|home (house, residence)|Mandarin:家 (jiā), Cantonese:家 (gaa1), Japanese:家 (ka), Korean:가 (ga), Vietnamese:gia|
+|**dom**|residence|Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico|
 |**domino gem**|dominoes|English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)|
 |**dona**|give|French:donner, English:donate, Spanish:Portuguese:donar|
 |**dong**|east (orient)|Mandarin:东 (dōng), Cantonese:東 (dōng), Vietnamese:đông, Korean:동 (dong), Turkish:doğu|
@@ -408,7 +409,7 @@
 |**fuka**|return (restore, recover, resume)|Mandarin:复 (fù), Cantonese:(fuk), Vietnamese:phục|
 |**fuku**|clothing (clothes)|Mandarin:服 (fú), Cantonese:服 (fuk6), Japanese:服 (fuku), Korean:의복 (uibok), Vietnamese:y phục|
 |**fun chupa gi**|vacuum cleaner|Mandarin:吸尘器 (xīchénqì), deu:Staubsauger|
-|**fun**|dust (powder)|Mandarin:粉 (fěn), Hakka-Chinese:粉 (fun), Thai:ฝุ่น (fùn)|
+|**fun**|dust (powder)|Mandarin:粉 (fěn), Cantonese:粉 (fan2), Japanese:粉 (fun/pun), Korean:분 (bun), Vietnamese:phấn, Hakka-Chinese:粉 (fun), Thai:ฝุ่น (fùn)|
 |**fungu**|fungus (mushroom)|English:fungus, French:fongus, Portuguese:fungo, Spanish:hongo + Mandarin:菇 (gū), Cantonese:菇 (gu1)|
 |**funsi**|function (work)|English:function, Spanish:Portuguese:funcionar, French:fonctionner, Russian:функциони́ровать (funkcionirovat’), Malay:berfungsi|
 |**furete**|polecat (ferret)|French:furet, English:ferret, Portuguese:furrão, Italian:furetto, Spanish:hurón, Japanese:(feretto), Swahili:fereti|
@@ -629,7 +630,7 @@
 |**kala**|black|Hindi:काला (kālā), Bengali:কালো (kalo), Punjabi:ਕਾਲਾ (kālā) + Turkish:kara + Tamil:கருப்பு (karuppu)|
 |**kalam**|pen (writing tool)|Arabic:Persian:Urdu: قلم‎ (qalam), Hindi:क़लम (qalam), Bengali:কলম (kôlôm), Malay:kalam, French:calame, Spanish:Portuguese:cálamo, Yoruba:Swahili:kalamu, Hausa:alƙalami, Turkish:kalem|
 |**kalenda**|calendar|English:calendar, French:calendrier, Spanish:Portuguese:calendario, Russian:календарь (kalendar’), deu:Malay:kalender, Japanese:カレンダー (karendā), Korean:카렌더 (karendeo), Hindi:कैलेण्डर (kaileṇḍar), Swahili:kalenda|
-|**kali yum**|potassium|English:potassium, French:potassium, Spanish:potasio, Portuguese:potássio, Russian:калий, Japanese:カリウム, Vietnamese:kali, Hindi:पोटैशियम, Bengali:পটাসিয়াম, Malay:kalium, Swahili:kali|
+|**kali yum**|potassium|Russian:калий, Japanese:カリウム, Vietnamese:kali, Malay:kalium, Swahili:kali|
 |**kali**|base (alkali)|Arabic: قلي (qily), Swahili:-kali + English:alkali, French:alcali, Spanish:Portuguese:álcali, Japanese:アルカリ (arukari), Korean:알칼리 (alkalli), Malay:alkali|
 |**kaliforni yum**|californium|English:californium, French:californium, Spanish:californio, Portuguese:califórnio, Russian:калифорний, Mandarin:锎 (kāi), Japanese:カリホルニウム, Korean:칼리포르늄, Vietnamese:califoni, Hindi:कैलीफोर्नियम, Bengali:ক্যালিফোর্নিয়াম, Malay:kalifornium, Swahili:kalifoni|
 |**kalkul**|calculus (manipulation of symbolic expressions)|French:calcul, Spanish:cálculo, English:calculus, Hindi:कलन (kalan)|
@@ -1127,7 +1128,7 @@
 |**pirate ja**|pirate (sea robber)|English:French:pirate, Spanish:Portuguese:pirata, deu:Pirat, Russian:пират (pirat)|
 |**pirate**|piracy|English:piracy, Spanish:piratería, Portuguese:pirataria, French:piraterie, deu:Piraterie, Russian:пиратство (piratstvo), Japanese:パイレーシ|
 |**pisea**|spruce tree|Spanish:Portuguese:pícea, French:Épicéa|
-|**pish**|piss (urine)|English:piss, French:pisse, Italian:piscia, Hindi:पेशाब (pešāb), Malay:pipis|
+|**pisha**|piss (urine)|English:piss, French:pisse, Italian:piscia, Hindi:पेशाब (pešāb), Malay:pipis|
 |**pistol**|pistol|English:pistol, Spanish:Portuguese:pistola, French:pistolet, Russian:пистолет (pitolet), Hindi:पिस्तौल (pistaul), Bengali:পিস্তল (piśtôl)|
 |**piza**|pizza|Italian:English:French:pizza, Mandarin:比萨 (bǐsà), Russian:пицца (pitsa), Japanese:ピザ (piza), Korean:피자 (pija)|
 |**plan**|plan|English:Spanish:French:plan, Portuguese:plano, Russian:план (plan), Persian:پلان‎ (plân), Hindi:प्लैन (plain), Japanese:プラン (puran)|

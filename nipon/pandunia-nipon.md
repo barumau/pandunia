@@ -87,8 +87,8 @@ baluta - ナラ
 baluta frute - ドングリ  
 bambu - 竹  
 bamia - オクラ  
-ban - 板  
-ban gem - ボードゲーム  
+bano - 板  
+bano gem - ボードゲーム  
 bari yum - バリウム  
 baru - 熊  
 basa - 十分  
@@ -237,7 +237,7 @@ dava ja - 医者
 dava she - 薬 (医薬品)  
 dava sui - ポーション (水薬)  
 debil - 弱い (脆弱)  
-defa ban - 盾  
+defa bano - 盾  
 defa kaske - 鎧  
 demon - 悪魔  
 den - 日  
@@ -266,6 +266,8 @@ dokumen - 書類 (文書, ドキュメント)
 dokumen filme - ドキュメンタリー  
 dolfin - イルカ (ドルフィン)  
 dom - 家  
+dom - 家  
+dom desha - 祖国  
 Dominika Komunkrati - ドミニカ共和国  
 dona - あげる (くれる)  
 dong - 東  
@@ -367,7 +369,7 @@ fa ver - ただす
 faida - 使用 (為, 利)  
 false vide - 幻覚  
 fan - 泥  
-fan defa ban - フェンダー  
+fan defa bano - フェンダー  
 fan topo - 沼地  
 fase - 面  
 fase tele - 深い  
@@ -411,7 +413,7 @@ fuku - 着る
 fuku vashi gi - 洗濯機  
 fungu frute - 茸  
 fungu nete - 菌糸体  
-fute ban - 足場  
+fute bano - 足場  
 fute bol - フットボール  
 fute marke - 足跡  
 ####G - G  
@@ -433,7 +435,7 @@ garma - 暖かい (熱い)
 garma mosim - 夏  
 garma zona - 熱帯  
 garma zona gazo topo - サバンナ  
-gata glu ban - クリップボード  
+gata glu bano - クリップボード  
 gati - 硬い  
 gati mate - 固体  
 gau - 高い  
@@ -451,8 +453,8 @@ geo niche di - 地中
 geo niche jela - 地下牢 (ダンジョン)  
 german yum - ゲルマニウム  
 gi - 装置 (機, 器)  
-giau - 教える (教義, -教)  
-giau ja - 教員  
+gio - 教える (教義, -教)  
+gio ja - 教員  
 gida buku - ガイドブック  
 gida ja - 案内人 (ガイド)  
 ging - 並行  
@@ -780,7 +782,7 @@ lin so - 繊維
 linke - 繋がり (リンク)  
 linse - 大山猫  
 lipa - 立つ  
-lipa ban - 棚  
+lipa bano - 棚  
 lipa baze - 台  
 lipa side - しゃがむ (蹲る)  
 lisan - 舌  
@@ -1047,7 +1049,7 @@ piaze - 玉葱
 pike - 先  
 pin - 針 (刺, ピン)  
 pin kardon - ゴロツキアザミ  
-pinse ban - 用箋挟  
+pinse bano - 用箋挟  
 pipre minta - ペパーミント  
 piram - ピラミッド (金字塔)  
 pisea - トウヒ  
@@ -1084,7 +1086,7 @@ pul fito yam sim ja - 絶対菜食主義者 (ヴィーガン)
 pul shipi - 漬ける (締める)  
 pulmon flame - 肺炎  
 puma - ピューマ (クーガー)  
-punte ban - スコアボード  
+punte bano - スコアボード  
 punte nomer - 得点 (点数)  
 putau bagi - 葡萄園  
 putau oranje - グレープフルーツ  
