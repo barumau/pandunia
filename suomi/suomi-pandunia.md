@@ -3284,6 +3284,7 @@ tuhka - hui
 tuikkia - fa sing foto  
 tulehdus - flame  
 tulenpalvonta - hogo puja  
+tulevaa aikaa merkitsevä apuverbi - sha  
 tulevaisuus - pos zaman  
 tuli - hogo  
 tulinen - hogo di  

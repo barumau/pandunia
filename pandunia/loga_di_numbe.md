@@ -2,8 +2,8 @@
 
 | basha | numbe | fen |
 |-------|-------|-----|
-| pan | 1588 | 100% |
-| english | 1069 | 67% |
+| pan | 1589 | 100% |
+| english | 1070 | 67% |
 | espanya | 957 | 60% |
 | portugal | 910 | 57% |
 | france | 906 | 57% |
@@ -15,5 +15,5 @@
 | putonghan | 411 | 26% |
 | chosen | 409 | 26% |
 | bangla | 377 | 24% |
-| arabi | 346 | 22% |
-| viet | 263 | 17% |
+| arabi | 347 | 22% |
+| viet | 264 | 17% |

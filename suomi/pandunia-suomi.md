@@ -3143,6 +3143,7 @@ serve - palvelu (palvelus)
 serve ja - palvelija (tarjoilija)  
 sesam - seesami  
 Seshel nesi - Seychellit  
+sha - tulevaa aikaa merkitsevä apuverbi  
 shaka - oksa (haara)  
 shakal - šakaali  
 shal - huivi (šaali)  

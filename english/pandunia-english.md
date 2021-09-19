@@ -3073,7 +3073,7 @@ Portugal - Portugal
 portugal basha - Portuguese language  
 pos - consequence (back, follow-up)  
 pos - next (following, back)  
-pos - later (after, will, in the future)  
+pos - later (after)  
 pos den - tomorrow  
 pos di - back (posterior)  
 pos fikse - suffix  
@@ -3407,6 +3407,7 @@ serve - service
 serve ja - servant  
 sesam - sesame  
 Seshel nesi - Seychelles  
+sha - auxiliary verb that marks future tense (will, shall)  
 shaka - branch (bough)  
 shakal - jackal  
 shal - scarf (shawl)  

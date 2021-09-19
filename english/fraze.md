@@ -869,33 +869,33 @@ He or she was the chief.
 He or she was at home.
 
 
-### leu <small>already, completed</small>
+### le <small>already, completed</small>
 
-**mi leu salam tu su doste.**  
+**mi le salam tu su doste.**  
 I have greeted your friend.
 
-**man leu vide un filme.**  
+**man le vide un filme.**  
 The man has watched a film.
 
-**ya leu si shefe.**  
+**ya le si shefe.**  
 He or she has been the chief.
 
-**ya leu na la dom.**  
+**ya le na la dom.**  
 He or she has been at home.
 
 
-### vil <small>in the future</small>
+### sha <small>in the future</small>
 
-**mi vil salam tu su doste.**  
+**mi sha salam tu su doste.**  
 I will greet your friend.
 
-**man vil vide la filme.**  
+**man sha vide la filme.**  
 The man will watch the film.
 
-**ya vil si shefe.**  
+**ya sha si shefe.**  
 He or she will be the chief.
 
-**ya vil na dom.**  
+**ya sha na dom.**  
 He or she will be at home.
 
 

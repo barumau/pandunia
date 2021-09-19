@@ -250,7 +250,7 @@ baluta|bio|Quercus|ara:بلوط (ballūṭ), fas:بلوط (balut), hin:बलू
 baluta frute||||acorn|gland|bellota|||||ドングリ|||||||||tammenterho|żołądź
 bambu|bio|Bambusoideae|eng:bamboo, fra:bambou, spa:por:bambu, rus:бамбук (bambuk), may:bambu|bamboo|bambou|bambú|bambu|бамбук|خَيْزَرَان|竹子|竹|대나무|tre|बांस|বাঁশ|buluh (bambu)|mwanzi||bambuo|bambu|bambus
 bamia|bio|Abelmoschus esculentus (Hibiscus esculentus)|ara: بَامْيَة‎ (bāmya), swa:bamia, amh:ባሚያ (bamiya), tur:bamya, fas: بامیه‎ (bâmiye), rus:бамия (bamiya)|okra (okro)|gombo|ocra|quiabo|окра (бамия)|بَامْيَة‎|秋葵|オクラ|오크라||भिंडी|ঢেঁড়স|bendi|bamia (binda, benda)|bamya||okra|
-ban|||zho:板 (bǎn)yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|board (pane, panel)|tableau (panneau)||painel|доска (панель)||板子|板|판자||तख़्ता|তক্তা|papan|bao|tahta (pano)|tabulo|lauta (paneeli)|tablica (deska)
+ban|||zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|board (pane, panel)|tableau (panneau)||painel|доска (панель)||板子|板|판자||तख़्ता|তক্তা|papan|bao|tahta (pano)|tabulo|lauta (paneeli)|tablica (deska)
 ban gem||||board game|jeu de société|juego de mesa|jogo de tabuleiro|настольная игра||版图游戏|ボードゲーム|보드 게임|||||||tabulludo|lautapeli|gra planszowa
 banana|bio||wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane, por:spa:eng:banana, jpn:バナナ (banana), kor:바나나 (banana)|banana|banane|plátano (banana)|banana|банан||香蕉||||केला||pisang||muz|banano|banaani|banan
 banda|||zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|band (squad, group)|bande|banda|bando|банда||班  (一帮)||||जमात||||çete||ryhmä (työryhmä, yhtye, bändi)|zespół (drużyna, grupa)
@@ -3080,7 +3080,7 @@ Portugal|desha|PT||Portugal||Portugal||||||||||||||Portugali|Portugalia
 portugal basha|basha|||Portuguese language||idioma portugués||||||||||||||portugali|
 pos|||eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-) + fas: پس (pas)|consequence (back, follow-up)||consecuencia (siguiente)|||||後 (後ろ)||||||||sekvo|seuraus|konsekwencja, skutek
 pos||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
-pos||||later (after, will, in the future)|ensuite (après, plus tard, ir a, en el futuro)|más tarde||после|||||||||||estonte|myöhemmin (tuleva)|później (w przyszłości)
+pos||||later (after)|ensuite (après, plus tard, ir a, en el futuro)|más tarde||после|||||||||||estonte|myöhemmin (tuleva)|później (w przyszłości)
 pos den||||tomorrow|demain|mañana|||||明日||||||||morgaŭ|huominen|jutro
 pos di||||back (posterior)|postérieur|posterior|posterior|||||||||||||myöhempi (takainen)|
 pos fikse||||suffix|suffixe|sufijo||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
@@ -3415,6 +3415,7 @@ serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hi
 serve ja||||servant||criado (sirviente)||||||||||||||palvelija (tarjoilija)|sługa
 sesam|bio|Sesamum indicum|eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam|sesame||ajonjolí (sésamo)||сезам|||||||||simsim|susam||seesami|sezam
 Seshel nesi|desha|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
+sha|||eng:shall + ara:(sa-) + vie:sẽ + sve:ska|auxiliary verb that marks future tense (will, shall)|||||||||||||||–os|tulevaa aikaa merkitsevä apuverbi|
 shaka|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 shakal|bio||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
 shal|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)||bufanda (chal)|||||||||||||koltuko|huivi (šaali)|szal, szalik
@@ -4094,7 +4095,6 @@ zuku di||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민�
 zuku medi di||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumarde|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
-|||||||||||||||||||||
 ||||overestimate|surestimer|sobrestimar|superestimar (sobrestimar)|переоценить||||||||||||yliarvioida|
 ||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
 ||||valid (workable)||||||||||||||||toimiva|poprawny (wykonalny)

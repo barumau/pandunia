@@ -342,7 +342,7 @@ Also _resumptive relative pronoun_ can be used if needed.
 A content clause can be placed before or after the clause that talks about it.
 The demonstrative **go** points to the following phrase, and **ni** points to the previous one.
 
-**go si bari, mi leu no vide yamen.**
+**go si bari, mi le no vide yamen.**
 – This is important: I haven't seen them.  
 **pan jan be egal sana, ni fate si klar.**
 – All people are created equal; that fact is clear.
@@ -499,14 +499,14 @@ The same particle is used with with personal pronouns too.
 ### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **pas** (past), **zai** (present) and **vil** (future, upcoming).
+The general time words are **pas** (past), **zai** (present) and **sha** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
 **mi pas ha mau.**
 – I had cats.  
 **a mi no zai ha mau.**
 – But I now don't have cats.  
-**bil, mi vil ha mau.**
+**bil, mi sha ha mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
@@ -515,7 +515,7 @@ It's also possible to say it in a longer way like **na pas zaman** (in the past)
 – I had cats in the past.  
 **a mi no ha mau na zai zaman.**
 – But I don't have cats at present.  
-**bil, mi ha mau na vil zaman.**
+**bil, mi ha mau na sha zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

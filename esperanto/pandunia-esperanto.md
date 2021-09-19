@@ -1611,6 +1611,7 @@ sento nen - jarcento (centjaro)
 sento nen di - centjara  
 Serbia - Serbio  
 serpe - serpento  
+sha - –os  
 shaka - branĉo  
 shal - koltuko  
 sham - vespero  

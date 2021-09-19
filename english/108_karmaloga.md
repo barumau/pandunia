@@ -57,7 +57,7 @@ The relationship of an action, event or state to time is indicated with auxiliar
 ('begin', 'start')
 indicates beginning of an action or transition to a new situation.
 
-**mi kai fuku a kote.**
+**mi kai fuku la kote.**
 – I start wearing the coat. = I put the coat on.  
 **kaguje ye kai hoge.**
 – Paper starts to burn.  
@@ -79,7 +79,7 @@ indicates that an action is done completely.
 
 **tu fin yam un piza.**
 – You ate a pizza completely.  
-**mi fin vide a filme.**
+**mi fin vide la filme.**
 – I completed watching the film. / I watched the film completely.
 
 **zai**
@@ -93,32 +93,32 @@ indicates that a situation is ongoing.
 ('keep on', 'continue', 'proceed')
 indicates that a situation is continuing or in progress.
 
-**mi dur yam a pizza.**
+**mi dur yam la pizza.**
 – I keep on eating the pizza.
 
 **ada**
 ('have a habit', 'be used to')
 indicates that an action is done regularly.
 
-**mi ada gul a bir.**
+**mi ada gul yo bir.**
 – I have a habit of drinking beer.
 
-**leu**
+**le**
 ('attain', 'accomplish')
 indicates that a situation has been reached and it is the current position.
 It brings attention to the consequences of a past action to the current situation.
 
-**ya _leu_ si guru.**
+**ya _le_ si guru.**
 – He or she is a teacher now.  
-**mi _leu_ no gul a alkohol.**
+**mi _le_ no gul yo alkohol.**
 – I don't drink alcohol anymore.  
-**mi no _leu_ gul a alkohol.**
+**mi no _le_ gul yo alkohol.**
 – I haven't drank alcohol.  
-**mi _leu_ don a buke do yamen.**
+**mi _le_ don la buke do yamen.**
 – I have given the book to them. (They still have it and I don't.)  
-**yamen no _leu_ don ya re do mi.**
+**yamen no _le_ don ya re do mi.**
 – They haven't given it back to me.  
-**mi leu do citi.**
+**mi le do siti.**
 – I have come to the city.
 
 **pas**
@@ -126,10 +126,19 @@ It brings attention to the consequences of a past action to the current situatio
 indicates that a situation is over
 and it is relevant only as an experience.
 
-**mi pas don a buke do yamen.**
+**mi pas don la buke do yamen.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
-**mi pas visite a France.**
+**mi pas visite la France.**
 – I have visited France.  
-**mi pas ada gul a bir.**
+**mi pas ada gul yo bir.**
 – I used to drink beer. / I had a habit of drinking beer.
+
+**sha**
+('will, shall')
+indicates that the event will take place later or in the future.
+
+**ya _sha_ si guru.**
+– He or she shall be a teacher.  
+**mi no _sha_ gul un bir.**
+– I will not drink a beer.
 

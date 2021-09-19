@@ -246,6 +246,7 @@ autocracy (monarchy) - auto krati
 autonomous - auto nomi di  
 autonomy - auto nomi  
 autumn (fall) - pade mosim  
+auxiliary verb that marks future tense (will, shall) - sha  
 avocado - avakate  
 awake - jaga  
 aware (enlightened) - budi di  
@@ -1961,7 +1962,7 @@ larva (maggot, caterpillar) - larva
 lasagna - lazanya  
 last (final) - fin me  
 last (take time; during) - be dura  
-later (after, will, in the future) - pos  
+later (after) - pos  
 lateral (horizontal) - late di  
 Latin alphabet - Latin zi  
 latitude - vei darje  

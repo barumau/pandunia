@@ -52,9 +52,9 @@ They are described in more detail later in this document.
    The verb does not change in person, number and tense.
    Auxiliary verbs indicate time.
     - **zai** indicates an ongoing event.
-    - **leu** indicates a completed event whose results have an effect on the present situation.
+    - **le** indicates a completed event whose results have an effect on the present situation.
     - **pas** indicates a completed event that has no connection to the present situation.
-    - **vil** indicates a future event.
+    - **sha** indicates a future event.
 9. **Word order:**
     - The word order is subject–verb–object.
       The same order is used in declarations and questions.

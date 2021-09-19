@@ -90,12 +90,12 @@ Tense, aspect and mood are indicated with helping verbs.
 **me pas ama tu.**
 – I loved you.
 (**pas** indicates the past time)  
-**mi leu ama tu.**
+**mi le ama tu.**
 – I have loved you.
-(**leu** indicates completed action i.e. the perfective aspect)  
-**mi vil ama tu.**
+(**le** indicates completed action i.e. the perfective aspect)  
+**mi sha ama tu.**
 – I will love you.
-(**vil** indicates future time)
+(**sha** indicates future time)
 
 Passive voice is formed with the help of the helping verb **be**.
 
