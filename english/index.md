@@ -48,6 +48,7 @@ Version 2.0 includes simpler grammar, more international word forms, and many ne
 ## Articles
 
 - [Pandunia - a new world language](dunia_baxe.md)
+- [Adapting international words to Pandunia](403_loga_hapu.md)
 - [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
 - [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
 
