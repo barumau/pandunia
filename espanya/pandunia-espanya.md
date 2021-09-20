@@ -226,7 +226,6 @@ baluta - roble
 baluta frute - bellota  
 bambu - bambú  
 bamia - ocra  
-bano gem - juego de mesa  
 banana - plátano (banana)  
 banda - banda  
 bande - atar (amarrar)  
@@ -237,6 +236,7 @@ Bangla desha - Bangladés
 banka - ahorrar (reservar, depositar)  
 banka kan - banco  
 banka shefe - banquero  
+bano gem - juego de mesa  
 banya - bañera  
 banya - bañarse  
 banya kamar - baño  
@@ -1257,8 +1257,6 @@ german yum - germanio
 Germania - Germania  
 Gernezi - Guernesey  
 gi - máquina (dispositivo, aparato)  
-gio - enseñar (instruir, doctrina)  
-gio ja - docente (enseñante, profesor, maestro)  
 gida - guiar  
 gida buku - guía de viaje  
 gida ja - guía  
@@ -1266,6 +1264,8 @@ giga - giga-
 ging - paralelo  
 ging darja - longitud  
 ging gola - meridiano (línea de longitud)  
+gio - enseñar (instruir, doctrina)  
+gio ja - docente (enseñante, profesor, maestro)  
 gioka - jade  
 giota - gota  
 gitar - guitarra  

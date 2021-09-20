@@ -191,8 +191,6 @@ baluta - chêne
 baluta frute - gland  
 bambu - bambou  
 bamia - gombo  
-bano - tableau (panneau)  
-bano gem - jeu de société  
 banana - banane  
 banda - bande  
 bandera - drapeau  
@@ -200,6 +198,8 @@ bangla basha - bengali
 Bangla desha - Bangladesh  
 banka kan - banque  
 banka shefe - banquier  
+bano - tableau (panneau)  
+bano gem - jeu de société  
 banya - bain  
 banya - se baigner  
 banya kamar - salle de bains  
@@ -627,10 +627,10 @@ geo politi - géopolitique
 geo termo - géothermique  
 german yum - germanium  
 Germania - Germanie  
-gio - enseigner  
 gida - guider  
 gida buku - guide touristique  
 gida ja - guide  
+gio - enseigner  
 gioka - jade  
 gitar - guitare  
 glis - glisser  

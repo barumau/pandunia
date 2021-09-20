@@ -113,12 +113,12 @@ balon peshe - иглобрюховые
 baluta - дуб  
 bambu - бамбук  
 bamia - окра (бамия)  
-bano - доска (панель)  
-bano gem - настольная игра  
 banana - банан  
 banda - банда  
 bandera - флаг  
 banka kan - банк  
+bano - доска (панель)  
+bano gem - настольная игра  
 banya - купание  
 banya - купаться  
 banya kamar - ванная  
@@ -512,10 +512,10 @@ geo niche jela - ублиет (подземная тюрьма)
 geo politi - геополитика  
 geo termo - геотерма́льный  
 german yum - германий  
-gio - учить (преподавать)  
 gida buku - путеводитель  
 gida ja - гид  
 ging - параллельный  
+gio - учить (преподавать)  
 gioka - нефрит (жад)  
 gitar - гитара  
 glis - задвигаться (скользи́ть)  

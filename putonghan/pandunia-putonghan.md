@@ -107,12 +107,12 @@ baku salmon - 大麻哈鱼 (狗鮭)
 baluta - 橡树  
 bambu - 竹子  
 bamia - 秋葵  
-bano - 板子  
-bano gem - 版图游戏  
 banana - 香蕉  
 banda - 班  (一帮)  
 bandera - 旗  
 banka kan - 银行  
+bano - 板子  
+bano gem - 版图游戏  
 banya - 洗澡  
 banya - 游泳  
 banya kamar - 浴室  
@@ -449,11 +449,11 @@ geo metre - 几何学
 geo politi - 地缘政治  
 geo termo - 地热的  
 german yum - 锗  
-gio - 教学  
 gida - 导游  
 gida buku - 指南  
 gida ja - 导游  
 ging lin - 經紗  
+gio - 教学  
 gioka - 玉  
 gitar - 吉他  
 glis - 滑下  

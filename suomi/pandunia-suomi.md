@@ -243,8 +243,6 @@ baluta - tammi
 baluta frute - tammenterho  
 bambu - bambu  
 bamia - okra  
-bano - lauta (paneeli)  
-bano gem - lautapeli  
 banana - banaani  
 banda - ryhmä (työryhmä, yhtye, bändi)  
 bande - sitoa  
@@ -255,6 +253,8 @@ Bangla desha - Bangladesh
 banka - tallettaa (tallentaa)  
 banka kan - pankki  
 banka shefe - pankkiiri  
+bano - lauta (paneeli)  
+bano gem - lautapeli  
 banya - kylpy  
 banya - kylpeä  
 banya kamar - kylpyhuone  
@@ -1391,8 +1391,6 @@ german yum - germanium
 Germania - Germania  
 Gernezi - Guernsey  
 gi - kone  
-gio - opettaa  
-gio ja - opettaja  
 gida - opastaa (ohjata)  
 gida buku - matkaopas (opaskirja)  
 gida ja - opas (tiennäyttäjä)  
@@ -1400,6 +1398,8 @@ ging - pitkittäinen
 ging darja - pituusaste  
 ging gola - pituuspiiri  
 ging lin - loimi  
+gio - opettaa  
+gio ja - opettaja  
 gioka - jade  
 giota - pisara (tippa)  
 gitar - kitara  

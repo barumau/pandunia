@@ -453,12 +453,12 @@ geo niche di - 地中
 geo niche jela - 地下牢 (ダンジョン)  
 german yum - ゲルマニウム  
 gi - 装置 (機, 器)  
-gio - 教える (教義, -教)  
-gio ja - 教員  
 gida buku - ガイドブック  
 gida ja - 案内人 (ガイド)  
 ging - 並行  
 ging lin - 縦糸  
+gio - 教える (教義, -教)  
+gio ja - 教員  
 gitar - ギター  
 glis - 滑る  
 glu bande - 絆創膏  

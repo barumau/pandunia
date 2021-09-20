@@ -128,8 +128,6 @@ baldi - sitelo
 balon - balono  
 baluta - kverko  
 bambu - bambuo  
-bano - tabulo  
-bano gem - tabulludo  
 banana - banano  
 bande - ligi  
 bande - bandaĝo (vindo)  
@@ -137,6 +135,8 @@ bandera - flago
 Bangla desha - Bangladeŝo  
 banka kan - banko  
 banka shefe - bankisto  
+bano - tabulo  
+bano gem - tabulludo  
 banya - bano  
 banya - bana  
 banya kamar - banĉambro  
@@ -702,8 +702,8 @@ geo metre - geometrio
 geo sismo - tertremo  
 german yum - germaniumo  
 gi - maŝino  
-gio - instrui (lernigi)  
 gida - gvidi  
+gio - instrui (lernigi)  
 gioka - jado  
 gitar - gitaro  
 glu - gluo  

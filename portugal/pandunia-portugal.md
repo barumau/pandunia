@@ -101,12 +101,12 @@ baku salmon - salmão-cão (salmão-keta)
 baluta - carvalho  
 bambu - bambu  
 bamia - quiabo  
-bano - painel  
-bano gem - jogo de tabuleiro  
 banana - banana  
 banda - bando  
 banka kan - banco  
 banka shefe - banqueiro  
+bano - painel  
+bano gem - jogo de tabuleiro  
 bara - barrar  
 bara mur - barreira  
 barde - barba  
@@ -474,9 +474,9 @@ geo metre - geometria
 geo politi - geopolítica  
 german yum - germânio  
 Germania - Germânia  
-gio - ensinar (lecionar)  
 gida - guiar  
 gida ja - guia  
+gio - ensinar (lecionar)  
 gioka - jade  
 gitar - guitarra  
 glis - deslizar  

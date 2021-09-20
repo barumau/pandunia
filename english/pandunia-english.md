@@ -248,8 +248,6 @@ baluta - oak tree
 baluta frute - acorn  
 bambu - bamboo  
 bamia - okra (okro)  
-bano - board (pane, panel)  
-bano gem - board game  
 banana - banana  
 banda - band (squad, group)  
 bande - tie (fasten, bind)  
@@ -260,6 +258,8 @@ Bangla desha - Bangladesh
 banka - save (deposit, bank)  
 banka kan - bank (depository, cache)  
 banka shefe - banker  
+bano - board (pane, panel)  
+bano gem - board game  
 banya - bath  
 banya - bathe  
 banya kamar - bathroom  
@@ -1408,8 +1408,6 @@ german yum - germanium
 Germania - Germania  
 Gernezi - Guernsey  
 gi - machine (device, aparatus)  
-gio - teach (educate, instruct, doctrine)  
-gio ja - teacher (instructor)  
 gida - guide (lead, show the way)  
 gida buku - guide book  
 gida ja - guide  
@@ -1417,6 +1415,8 @@ ging - longitudinal (parallel, vertical)
 ging darja - longitude  
 ging gola - meridian (line of longitude)  
 ging lin - warp  
+gio - teach (educate, instruct, doctrine)  
+gio ja - teacher (instructor)  
 gioka - jade  
 giota - drop (droplet)  
 gitar - guitar  

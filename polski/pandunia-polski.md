@@ -218,8 +218,6 @@ balon peshe - ryba rozdymkowata
 baluta - dąb  
 baluta frute - żołądź  
 bambu - bambus  
-bano - tablica (deska)  
-bano gem - gra planszowa  
 banana - banan  
 banda - zespół (drużyna, grupa)  
 bande - związać, wiązać; zapiąć, zapinać  
@@ -230,6 +228,8 @@ Bangla desha - Bangladesz
 banka - oszczędzać (deponować)  
 banka kan - bank  
 banka shefe - bankier  
+bano - tablica (deska)  
+bano gem - gra planszowa  
 banya - kąpiel  
 banya - kąpać się  
 banya kamar - łazienka  
