@@ -2,19 +2,19 @@
 
 ## predobabe
 saba – huru ta, adil ta, e pase ta na dunia su baze si note la in ten di onor e la par e an alo bil di haki da pan un membre da insan famili.
-saba – insan haki su nega e hen fa asar ba barbar karma jo fa furi la insan jong su moral sense, e putong demo su masim gau gol si kai da un dunia na jo insan ye ten la huru ta da loga e din huru e si sekur ze fobi e yau.
+saba – insan haki su nega e hen fa asar ba barbar karma jo fa furi la insan jong su moral sense, e putong demo su masim gau gol si kai da un dunia na jo insan ya ten la huru ta da loga e din huru e si sekur ze fobi e yau.
 saba – go si krizi, ga un insan no vil be paka do, ka fin me plan, rebel kontra yo zalim ta e haki presa, pan insan haki be sekur la kanun.
 saba – go si krizi, raste la dosti guanshe na medi ba nasi.
-saba – pan nasi da Un Ta Nasi, na yamen su baze dokumen, re amen yamen su shin da baze insan haki, da onor e valu da insan jan, e da par haki da man e fem, e plan sim yo sosi jin e mas bon jiu darja na mas dai huru ta.
+saba – pan nasi da Un Ta Nasi, na yemon su baze dokumen, re amen yemon su shin da baze insan haki, da onor e valu da insan jan, e da par haki da man e fem, e plan sim yo sosi jin e mas bon jiu darja na mas dai huru ta.
 saba – membre desha le vode gol, ha mede da Un Ta Nasi, la mote da putong onor e sekur ta da insan haki e baze huru ta.
 saba – un putong aha da ni haki e huru ta ten la masim ham ta ga ni vode bil si ver.
-asar – PUTONG JAMA DA UN TA NASI ye komun ni PUTONG LOGA DA INSAN HAKI ka un putong norma da jin ta do pan demo e pan nasi, do ichi da pan un jan e pan un fen da sosi, dura da hema ni loga na pan sata, vil gung ha shula do sim la onor da ni haki e huru ta e, na nasi di e nasi medi di jin sim di karma, fa sekur yamen su putong e funsi di note e sekur ta, na medi da nasi jan da membre desha e medi da jan da desha jo nicha yamen su krati.
+asar – PUTONG JAMA DA UN TA NASI ya komun ni PUTONG LOGA DA INSAN HAKI ka un putong norma da jin ta do pan demo e pan nasi, do ichi da pan un jan e pan un fen da sosi, dura da hema ni loga na pan sata, vil gung ha shula do sim la onor da ni haki e huru ta e, na nasi di e nasi medi di jin sim di karma, fa sekur yemon su putong e funsi di note e sekur ta, na medi da nasi jan da membre desha e medi da jan da desha jo nicha yemon su krati.
 
 ## babu 1
-pan insan be jene ha huru ta e par ta na onor e haki. yamen ten yo razon e budi. yamen deve be chuli se kon ha ruhu da brus ta.
+pan insan be jene ha huru ta e par ta na onor e haki. yemon ten yo razon e budi. yemon deve be chuli se kon ha ruhu da brus ta.
 
 ## babu 2
-pan insan ten la haki da pan haki e huru ta na in da ni loga, ha hin da eni has ta da yang, do misal: rasa, rang da pil, jinse, basha, din, politi o alo rai, nasi o sosi asal, mal, jene, o alo hal. plus, deve no fa has na baze da politi di, sultan di, o medi nasi di hal da desha o area jo ten pan un insan, ga o no ga ya si auto nomi, ekso nomi, o eni alo yang da krati.
+pan insan ten la haki da pan haki e huru ta na in da ni loga, ha hin da eni has ta da yang, do misal: rasa, rang da pil, jinse, basha, din, politi o alo rai, nasi o sosi asal, mal, jene, o alo hal. plus, deve no fa has na baze da politi di, sultan di, o medi nasi di hal da desha o area jo ten pan un insan, ga o no ga ye si auto nomi, ekso nomi, o eni alo yang da krati.
 
 ## babu 3
 pan insan ten la haki da jiu, huru ta, e sekur ta da jan.
@@ -38,18 +38,18 @@ pan insan ten la haki da un funsi di sahi ze desha di jude ja, da ten sultane, c
 no halal eni insan be an razon di kape o jela o desha ekso.
 
 ## babu 10
-pan insan ten, na pul par ta, la haki da un adal e komun di audi ze auto nomi e an parti di jude ja do jude da ya su haki o deve o krime.
+pan insan ten, na pul par ta, la haki da un adal e komun di audi ze auto nomi e an parti di jude ja do jude da ye su haki o deve o krime.
 
 ## babu 11
-1. pan insan, jo be jude, ten la haki da be fikir ka an dosha hata ya be dalil ka dosha ha sam rai da la kanun ha komun jude na jo ya ten pan garanti do ya su defa
-2. no halal eni insan be jude ka dosha da eni krim ze saba da un karma o karma hin jo no si krim na dura ya karma ya na nasi di o nasi medi di kanun. e no halal dona un mas dus fatu ka la fatu jo si aplika bil na kanun na dura ya karma ya.
+1. pan insan, jo be jude, ten la haki da be fikir ka an dosha hata ye be dalil ka dosha ha sam rai da la kanun ha komun jude na jo ye ten pan garanti do ye su defa
+2. no halal eni insan be jude ka dosha da eni krim ze saba da un karma o karma hin jo no si krim na dura ye karma ye na nasi di o nasi medi di kanun. e no halal dona un mas dus fatu ka la fatu jo si aplika bil na kanun na dura ye karma ye.
 
 ## babu 12
-no halal eni insan be an razon di karma ha ya su tana o famili o dom o posta, o be agres na ya su onor. pan insan ten la haki da defa do kontra la yang da karma e agres.
+no halal eni insan be an razon di karma ha ye su tana o famili o dom o posta, o be agres na ye su onor. pan insan ten la haki da defa do kontra la yang da karma e agres.
 
 ## babu 13
 1. pan insan ten la haki da huru migra e dom na in da la kinar da eni desha.
-2. pan insan ten la haki da shutu ze eni desha, na in klus se su desha, e da fuka do ya su desha.
+2. pan insan ten la haki da shutu ze eni desha, na in klus se su desha, e da fuka do ye su desha.
 
 ## babu 14
 1. pan insan ten la haki da ching e uze da bega ta do kontra yo agres na alo desha.
@@ -60,13 +60,13 @@ no halal eni insan be an razon di karma ha ya su tana o famili o dom o posta, o 
 2. no halal fa an zai la nasi jan ta da eni insan o fa nega la haki da mute da nasi jan ta.
 
 ## babu 16
-1. matur insan ten la haki da gami o kai da famili ha hin da limite da rasa o nasi jan ta o din. yamen ten yo par haki na gami e dura la gamia e na fine da gami.
+1. matur insan ten la haki da gami o kai da famili ha hin da limite da rasa o nasi jan ta o din. yemon ten yo par haki na gami e dura la gamia e na fine da gami.
 2. gami un di si halal ha huru e pul di sam rai ta da la gami jan.
 3. famili si tabi e baze di so da sosi e ten la haki da sekur ta da desha e sosi.
 
 ## babu 17
 1. pan insan ten la haki da mal, ha un di se o ha alo jan.
-2. no halal kape la mal da eni insan na ya su ichi o kanun.
+2. no halal kape la mal da eni insan na ye su ichi o kanun.
 
 ## babu 18
 pan jan ten la haki da fikir e moral e din; ni haki fa in klus la huru ta da mute da din o shin e la huru ta da shou da din o shin, ha un di se o ha alo insan, ha giau o suna o puja.
@@ -79,41 +79,41 @@ pan insan ten la haki da huru ta da rai e rai loga; ni haki fa in klus la huru t
 2. no halal paka eni insan do liga.
 
 ## babu 21
-1. pan insan ten la haki da parti na politi da ya su desha, na disha riti o na transe un chuze vakil ja.
-2. pan insan ten la haki da par uze bil ta da komun serve na ya su desha.
+1. pan insan ten la haki da parti na politi da ye su desha, na disha riti o na transe un chuze vakil ja.
+2. pan insan ten la haki da par uze bil ta da komun serve na ye su desha.
 3. la ichi da la jama da insan deve si baze da la sultan da politi; ni ichi deve be shou na zaman di e ver di vote chuze ha putong e par e siri vote o na par riti da huru chuze.
 
 ## babu 22
-pan insan, ka membre da sosi, ten la haki da sosi sekur ta e ten, na asar da nasi di gung e nasi medi di jama gung e ha sam rai la ratibu e faida she da pan un desha, ba mal nomi di e sosi e kultur di haki jo be yau do ya su onor e huru darja mute da ya su jan sifa.
+pan insan, ka membre da sosi, ten la haki da sosi sekur ta e ten, na asar da nasi di gung e nasi medi di jama gung e ha sam rai la ratibu e faida she da pan un desha, ba mal nomi di e sosi e kultur di haki jo be yau do ye su onor e huru darja mute da ye su jan sifa.
 
 ## babu 23
 1. pan insan ten la haki da gung, da huru chuze da gung, da adal e favor bil di gung hal, e da sekur ta do kontra yo gung hin.
 2. pan insan, ha hin da has ta, ten la haki da par pei ze par gung.
-3. pan insan jo gung, ten la haki da adal e favor bil pei jo garanti un par zai ta ka onor da insan, do ya e ya su famili, e jo be pul ha alo riti da sosi sekur ta.
-4. pan insan ten la haki da sana e liga da ba gung liga do sekur da ya su ham she.
+3. pan insan jo gung, ten la haki da adal e favor bil pei jo garanti un par zai ta ka onor da insan, do ye e ye su famili, e jo be pul ha alo riti da sosi sekur ta.
+4. pan insan ten la haki da sana e liga da ba gung liga do sekur da ye su ham she.
 
 ## babu 24
 pan insan ten la haki da shush e shanti di zaman; ni fa in klus yo razon di limite da gung hor e zaman di pei di festa den.
 
 ## babu 25
-1. pan insan ten la haki da jiu norme jo garanti la salu e suka da ya e ya su famili; ni fa in klus yo yam e fuku e dom e dava e yau soci serve, e la haki da sosi sekur ta na kas da an gung ta o pati o an bil ja ta o vidou ta o lau sene o eni alo hin da jiu faida jo ya no bil sultan.
+1. pan insan ten la haki da jiu norme jo garanti la salu e suka da ye e ye su famili; ni fa in klus yo yam e fuku e dom e dava e yau soci serve, e la haki da sosi sekur ta na kas da an gung ta o pati o an bil ja ta o vidou ta o lau sene o eni alo hin da jiu faida jo ye no bil sultan.
 2. chin ta e ben ta ten la haki da has mede. pan ben, na o na hin da gami, deve daku la sam sosi sekur ta.
 
 ## babu 26
 1. pan insan ten la haki da shula. shula deve hin eni koste, na minim na la baze faze. baze shula deve si deve. tehni e gung di shula deve si putong di uze bil e dai shula deve si par di uze bil do pan insan, na baze da bil ta.
-2. shula deve fa fokus na la pul darja mute da insan jan sifa e na fa lika la onor da insan haki e baze huru. ya deve sim la aha e tolera e dosti ta da pan nasi e rasa e din grupe, e deve mede la karma da la Un Ta Nasi do hafiza da pase.
+2. shula deve fa fokus na la pul darja mute da insan jan sifa e na fa lika la onor da insan haki e baze huru. ye deve sim la aha e tolera e dosti ta da pan nasi e rasa e din grupe, e deve mede la karma da la Un Ta Nasi do hafiza da pase.
 3. pan ching ten la chen haki da chuze da la yang da shula jo be dona do se su ben.
 
 ## babu 27
-1. pan insan ten la haki da huru parti na kultur jiu da sosi e da uze da sundar shuta e da komun da logi jin e ya su faida.
+1. pan insan ten la haki da huru parti na kultur jiu da sosi e da uze da sundar shuta e da komun da logi jin e ye su faida.
 2. pan insan ten la haki da sekur da la moral di e prati di faida jo be asar ze eni logi o kitabu o sundar sana jo se le sana.
 
 ## babu 28
 pan insan ten la haki da sosi e nasi medi di ratibu na jo la haki e huruta da ni dokumen bil be pul di ver.
 
 ## babu 29
-1. pan insan ten ba deve do sosi na jo ya su jan sifa bil be huru e pul di darja mute.
-2. na aplika da ya su haki e huru ta, no halal eni insan be limite eni kanun limite jo no sekur la haki di note e onor do la haki e huru ta da alo o fa ver la moral e komun ratibu e putong bon sifa na demo krati di sosi.
+1. pan insan ten ba deve do sosi na jo ye su jan sifa bil be huru e pul di darja mute.
+2. na aplika da ye su haki e huru ta, no halal eni insan be limite eni kanun limite jo no sekur la haki di note e onor do la haki e huru ta da alo o fa ver la moral e komun ratibu e putong bon sifa na demo krati di sosi.
 3. no halal, na eni kas, aplika ni haki e huru ta kontra la dike e sim baze da la Un Ta Nasi.
 
 ## babu 30

@@ -332,6 +332,7 @@ be gas - gasify (vaporize)
 be gau - rise (go up)  
 be gau darja - level up (graduate)  
 be ging - align (go along)  
+be halte - stop (halt)  
 be hapu - fit (suit, be suitable)  
 be harabu - crash (shut down, terminate)  
 be hogo - burn (be burned)  
@@ -374,7 +375,6 @@ be supra - surpass (go over)
 be tam - covet  
 be tele loka - teleport  
 be teza - intensify  
-be halte - stop (halt)  
 be turbe - be bothered by (bother to, take the trouble to)  
 be vanu - enjoy (play)  
 be vide - be seen  
@@ -508,6 +508,7 @@ bum - explosion (blast, eruption)
 burge - fortress (castle, fort, stronghold)  
 Burkina Faso - Burkina Faso  
 bus - bus  
+bus halte - bus stop  
 buste - bust (bosom)  
 buta - boot  
 buton - key (push-button, switch)  
@@ -974,8 +975,10 @@ fa gem - play a game
 fa glu - stick (adhere, paste, glue)  
 fa gol - achieve (accomplish, arrive, reach)  
 fa gola - surround (encircle)  
+fa gong - work  
 fa guste - taste (sense flavor)  
 fa halal - allow (permit)  
+fa halte - stop (halt)  
 fa hapu - fit (adapt, adjust, make suitable)  
 fa haram - forbid (ban, disallow)  
 fa has - distinguish  
@@ -990,8 +993,8 @@ fa javabu - respond (give an answer)
 fa jela - imprison (jail)  
 fa jene - give birth (beget, generate, breed)  
 fa jin - put forward (advance, progress)  
-fa jude - judge  
 fa jong - center (concentrate)  
+fa jude - judge  
 fa kai - open  
 fa kanal - channel (conduct)  
 fa kancha dake - glaze (vitrify)  
@@ -1105,7 +1108,6 @@ fa sela - advise (recommend)
 fa sense - sense (perceive, detect)  
 fa sharti - stipulate  
 fa shibai - lose (fail, miss, be defeated)  
-fa sina - believe  
 fa shipi - wet (dampen, moisten)  
 fa shite - defecate (shit)  
 fa shofer - drive (steer)  
@@ -1117,6 +1119,7 @@ fa shush - silence (make silent)
 fa side - sit (put down)  
 fa sifa - qualify (describe)  
 fa sim - advocate (promote, support)  
+fa sina - believe  
 fa sing foto - twinkle (sparkle)  
 fa sir - hide (conceal)  
 fa siro - cancel (nullify)  
@@ -1137,7 +1140,6 @@ fa tense - tighten
 fa tercha - tilt (skew)  
 fa tese - argue (claim)  
 fa teste - try (attempt)  
-fa halte - stop (halt)  
 fa transe - transit (pass through or across)  
 fa trati - agree (make an agreement)  
 fa truke - trick (cheat, deceive)  
@@ -1418,6 +1420,7 @@ ging - longitudinal (parallel, vertical)
 ging darja - longitude  
 ging gola - meridian (line of longitude)  
 ging lin - warp  
+gingam - kumquat  
 gio - teach (educate, instruct, doctrine)  
 gio ja - teacher (instructor)  
 gioka - jade  
@@ -1439,6 +1442,12 @@ golem - golem
 gomu - rubber  
 gona - corner (angle)  
 gona metre gi - goniometer  
+gong - work (labour, job)  
+gong ja - worker  
+gong kan - workshop (factory)  
+gong meza - desk  
+gong mise - submit (present)  
+gong shula ja - apprentice  
 gorila - gorilla  
 goro - pig  
 goro nama - pork  
@@ -1481,13 +1490,6 @@ gun - army
 gun jan - soldier  
 gun raja - generalissimo (shogun)  
 gun raja desha - shogunate  
-gong - work (labour, job)  
-fa gong - work  
-gong ja - worker  
-gong kan - workshop (factory)  
-gong meza - desk  
-gong mise - submit (present)  
-gong shula ja - apprentice  
 guru - guru (teacher, sage)  
 guste - taste (flavor)  
 guste ka - taste like  
@@ -1529,6 +1531,7 @@ hali zi - space (character)
 halifa - caliph  
 halifa desha - caliphate  
 halo - hello (hi)  
+halte - stop (halt)  
 ham - matter (be important)  
 ham di - important  
 hamake - hammock  
@@ -1887,11 +1890,11 @@ kandela - candela
 kandi - candy (sweets)  
 kane - bar (pole, rod, shaft, staff, stick)  
 kane kasa - cage  
+kane minte - spearmint  
 kane pang - baguette  
 kanga - comb  
 kangaru - kangaroo  
 kanjar - dagger  
-gingam - kumquat  
 kano - canoe  
 kanon - classic (canon)  
 kanon di - classic (authoritative, definitive)  
@@ -2377,9 +2380,9 @@ manera - behavior (manners)
 manera - behave (act)  
 manete - magnet  
 manete di - magnetic  
-mangu - busy (occupied)  
 mangan - manganese  
 mango - mango  
+mangu - busy (occupied)  
 mangus - mangosteen  
 Mani - prophet Mani  
 mani din - Manichaeism  
@@ -2475,7 +2478,7 @@ memo - memory (recollection)
 memo bina - monument (memorial)  
 memo note - memorandum (memo)  
 memo tehni - mnemotechny  
-mon - one (you, they, impersonal pronoun)  
+men - noodle  
 mendelevi yum - mendelevium  
 meninge - meninx (meninges)  
 meninge flame - meningitis  
@@ -2515,7 +2518,6 @@ meza tela - tablecloth
 meza topo - plateau (tableland)  
 mi - I (me)  
 mi su - my  
-men - noodle  
 migra - migration (moving)  
 mikro bio - microorganism (microbe)  
 mikro bio logi - microbiology  
@@ -2570,6 +2572,7 @@ moka - tree
 moka bano - wood board (plank)  
 moka jang ja - carpenter  
 moka jong parke - arboretum  
+moka kane - stake (stick, peg, skewer)  
 moka mate - wood (timber)  
 moka tana - log (trunk)  
 mol ja - miller  
@@ -2582,6 +2585,7 @@ moli - jasmine
 moli hua chai - jasmine tea  
 moliden yum - molybdenum  
 moluske - mollusk  
+mon - one (you, they, impersonal pronoun)  
 Monako - Monaco  
 Mongol - Mongolia  
 mongol di - Mongolian  
@@ -3461,8 +3465,6 @@ shia islam din - Shia Islam (Shi’ism)
 shifu - master (sensei, sifu)  
 shikaya - complain (lament)  
 shike - elegant (chic)  
-sim - heart  
-sina - belief (faith, creed)  
 shindau din - Shintoism  
 shipi - wet (damp, moist)  
 shir - poem  
@@ -3522,10 +3524,12 @@ sili sili - chain
 sili tika - link  
 silis - silicon  
 silko - silk  
+sim - heart  
 sim - advocacy (promotion, -ism)  
 sim ja - advocate (promoter, supporter, adherent)  
 simple - simple (not complicated)  
 sin - sign (signal)  
+sina - belief (faith, creed)  
 sina - chest (breast)  
 sina kasa - rib cage  
 sina plate - breastplate  
@@ -3751,7 +3755,6 @@ tika - piece (nugget, tikka)
 tikete - ticket  
 tim - team  
 Timor - Timor  
-halte - stop (halt)  
 tipe - type (kind, genre)  
 tire - pull (draw, drag)  
 tire dara - rip current  
@@ -3876,11 +3879,11 @@ Valis e Futuna nesi - Wallis and Futuna Islands
 valu - value (worth)  
 vampir - vampire  
 vampir ohtopus - vampire squid  
+vanadi yum - vanadium  
+vanila - vanilla  
 vanu - fun (amusement)  
 vanu di - funny (amusing)  
 vanu gi - toy (plaything)  
-vanadi yum - vanadium  
-vanila - vanilla  
 Vanuatu - Vanuatu  
 var - day of the week  
 var cheti - Sunday  
@@ -3978,8 +3981,8 @@ vutu - object (item, thing)
 ####X - X  
 xenon - xenon  
 ####Y - Y  
-ya - he or she or it  
 ya - area of thinking or being  
+ya - yes  
 ya su - his or her  
 Yahve - Yahweh (Jehovah)  
 yake - yak  
@@ -4000,16 +4003,16 @@ yatim - orphan
 yatim dom - orphanage  
 yau - need (lack, require)  
 yau di - necessary (needed)  
-yauta - need (shortage, lack, requirement)  
-ye - yes  
+yau ta - need (shortage, lack, requirement)  
+ye - he or she or it  
 yehudi - Jewish  
 yehudi din - Judaism  
 yei - yay! (yeah!)  
 yeka - exchange (replace, trade, swap)  
 yeka kanon - I Ching (the Book of Changes)  
 Yemen - Yemen  
-Yesu - Jesus  
-Yesu mesi - Jesus Christ  
+Yesa - Jesus  
+Yesa Mesi - Jesus Christ  
 yezi - coconut tree  
 yo - some (one)  
 yo jan - someone (somebody)  
@@ -4075,8 +4078,6 @@ zoku - continue (go on, keep on, carry on, proceed, still, yet)
 zoku di - continuous (analog)  
 zombi - zombie  
 zona - belt (zone)  
-moka kane - stake (stick, peg, skewer)  
-kane minte - spearmint  
 zou - animal  
 zou agro shuta - animal husbandry  
 zou bagi - zoo (zoological garden)  
@@ -4100,4 +4101,3 @@ zumarde - emerald
  - rainy  
  - rain (pour down)  
  - adversary (antagonist, opponent)  
-bus halte - bus stop  

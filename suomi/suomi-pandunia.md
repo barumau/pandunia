@@ -744,7 +744,7 @@ häkki - kane kasa
 hämmästys (ihmetys) - ajibu  
 hämähäkinverkko - arane nete  
 hämähäkki - arane  
-hän (se) - ya  
+hän (se) - ye  
 hänen (sen) - ya su  
 häntä - koda  
 häpeä - sharma  
@@ -875,8 +875,8 @@ jatkuva (analoginen) - zoku di
 jauhaa - fa mol  
 jazz (jatsi) - jaze  
 jee! (hurraa!) - yei  
-Jeesus - Yesu  
-Jeesus Kristus - Yesu mesi  
+Jeesus - Yesa  
+Jeesus Kristus - Yesa Mesi  
 jekuttaa (petkuttaa) - fa truke  
 Jemen - Yemen  
 Jersey - Jerze  
@@ -1421,7 +1421,7 @@ kuvitella - fa fantazi
 Kuwait - Kuvaitia  
 kvadriljoona (jotta-) - yota  
 kykenevä (voiva) - bil ja  
-kyllä - ye  
+kyllä - ya  
 kylmä - leng  
 kylpeä - banya  
 kylpy - banya  
@@ -3134,7 +3134,7 @@ tarpeellinen - yau di
 tarpeeton - no yau di  
 tarra - glu grafi  
 tartuttaa tauti - fa pati mise  
-tarve (puute) - yauta  
+tarve (puute) - yau ta  
 tarvita - yau  
 tasainen (tasavertainen) - par  
 tasapaino - par veze ta  

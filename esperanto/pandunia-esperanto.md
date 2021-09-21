@@ -179,6 +179,7 @@ be dura - daŭri (dum)
 be emosi - emocii  
 be fin - finiĝi  
 be fobi - timi  
+be halte - halti  
 be hapu - taŭgi  
 be jene - naski  
 be kai - malfermiĝi  
@@ -192,7 +193,6 @@ be shuru - komenciĝi
 be sona - dormi  
 be suka - ŝati  
 be supra - superiri  
-be halte - halti  
 bebe - bebo  
 bede - lito  
 bedinjan - melongeno  
@@ -273,6 +273,7 @@ buku - libro
 bulbul - najtingalo  
 bum - eksplodo  
 bus - buso  
+bus halte - bushaltejo  
 buton - klavo (butono)  
 buton bano - klavaro  
 buyu - baobabo  
@@ -509,6 +510,7 @@ fa gami - edzigi
 fa gem - ludi  
 fa gola - ĉirkaŭi  
 fa guste - gustumi  
+fa halte - haltigi  
 fa hapu - taŭgigi  
 fa hisabu - kalkuli  
 fa ja - aganto  
@@ -551,7 +553,6 @@ fa sahi - pravigi
 fa salam - saluti  
 fa sam rai - samopinii (interkonsenti)  
 fa sana - produkti (fabriki)  
-fa sina - kreda  
 fa shofer - konduki  
 fa shopi - aĉeti  
 fa shukra - danki  
@@ -559,9 +560,9 @@ fa shula - lerni (studi)
 fa shuru - komenci  
 fa shush - silentigi  
 fa side - sidi  
+fa sina - kreda  
 fa sual - demandi  
 fa tele fon - telefoni  
-fa halte - haltigi  
 fa vanu - amuzi  
 fa vode - promesi  
 faida - utileco  
@@ -713,6 +714,9 @@ go - tio
 gol - golo  
 gomu - kaŭĉuko  
 gona - angulo  
+gong - laboro  
+gong ja - laboristo  
+gong kan - fabriko (laborejo)  
 goro - porko  
 goro nama - porkaĵo  
 goton - kotono  
@@ -734,9 +738,6 @@ guma - tamburo
 gun - armeo  
 gun jan - soldato  
 gun raja - ĉefgeneralo  
-gong - laboro  
-gong ja - laboristo  
-gong kan - fabriko (laborejo)  
 guru - guruo (instruisto)  
 guste - gusto  
 guste ka - gusti kiel  
@@ -761,6 +762,7 @@ hal - stato
 hali - malplena  
 halifa - kalifo  
 halo - saluton!  
+halte - halto  
 ham - gravi  
 ham di - grava  
 hamake - hamako  
@@ -1159,8 +1161,8 @@ man - viro
 man raja - reĝo  
 mana - signifo  
 manera - maniero (konduto)  
-mangu - okupata  
 mangan - mangano  
+mangu - okupata  
 mar - fojo  
 maraton - maratono  
 marche - promeno (marŝo)  
@@ -1200,7 +1202,7 @@ melodi - melodio
 membre - membro  
 meme - ŝafo  
 memo - memoro  
-mon - oni  
+men - nudelo  
 meranti - ŝoreo  
 Merkur - Merkuro  
 mes - monato  
@@ -1213,7 +1215,6 @@ meza - tablo
 meza tela - tablotuko  
 mi - mi  
 mi su - mia  
-men - nudelo  
 migra - migrado  
 mikro - mikro-  
 mikro bio - mikrobo  
@@ -1242,11 +1243,13 @@ misri di - egipta
 mitre - metro  
 moka - arbo  
 moka jong parke - arboĝardeno  
+moka kane - paliso  
 moka mate - ligno  
 moli - jasmeno  
 moli hua chai - jasmenteo  
 moliden yum - molibdeno  
 moluske - molusko  
+mon - oni  
 Mongol - Mongolio  
 mongol di - mongola  
 monoster - monstro  
@@ -1639,8 +1642,6 @@ sheku - ŝtono
 shenga - venko  
 shia islam din - ŝijaismo  
 shikaya - plendo  
-sim - koro  
-sina - kredo  
 shir - poemo  
 shirope - siropo  
 shish nama - ŝaŝliko  
@@ -1671,8 +1672,10 @@ sili - serio
 sili sili - ĉeno  
 sili tika - ĉenero  
 silis - silicio  
+sim - koro  
 sim - ismo  
 simple - simpla  
+sina - kredo  
 sina - brusto  
 sina kasa - torako  
 sing - stelo  
@@ -1770,7 +1773,6 @@ teror - teroro
 teror sim - terorismo  
 teror sim ja - teroristo  
 teste - testo  
-halte - halto  
 tire - tiri  
 tire yo milke - melki  
 titan yum - titanio  
@@ -1868,8 +1870,8 @@ vulva - vulvo
 ####X - X  
 xenon - ksenono  
 ####Y - Y  
-ya - li aŭ ŝi aŭ ĝi  
 ya - ejo (ujo, io)  
+ya - jes  
 ya su - lia aŭ ŝia aŭ ĝia  
 Yahve - Javeo (Jehovo)  
 yam - manĝi (trinki)  
@@ -1880,12 +1882,12 @@ yamon - ili
 yamon su - ilia  
 yang - speco (tipo, stilo)  
 yau - bezoni  
-yauta - bezono  
-ye - jes  
+yau ta - bezono  
+ye - li aŭ ŝi aŭ ĝi  
 yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 Yemen - Jemeno  
-Yesu - Jesuo  
-Yesu mesi - Jesuo Kristo  
+Yesa - Jesuo  
+Yesa Mesi - Jesuo Kristo  
 yezi - kokoso  
 yo - iu  
 yo jan - iu persono  
@@ -1926,7 +1928,6 @@ zira - kumino
 zirkon yum - zirkonio  
 zoku - ankoraŭ  
 zona - zono  
-moka kane - paliso  
 zou - besto  
 zou bagi - zoo (bestoĝardeno)  
 zou kata - bestofabelo  
@@ -1938,4 +1939,3 @@ zuku medi di - interetna
 Zulu - zuluo  
 zumarde - smeraldo  
  - pluva  
-bus halte - bushaltejo  

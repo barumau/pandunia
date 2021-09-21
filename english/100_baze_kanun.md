@@ -18,13 +18,13 @@ They are described in more detail later in this document.
 4. **Pronouns:**
     - The personal pronouns are:
      **mi** _I_, **tu** _you_ (sg.), **ya** _he or she_,
-     **mimen** _we_, **tumen** _you_ (pl.), **yamen** _they_.
+     **mimon** _we_, **tumon** _you_ (pl.), **yemon** _they_.
     - The possessive pronouns are:
-      **mi su** _my_, **tu su** _your_, **ya su** _his or her_,
-      **mimen su** _our_, **tumen su** _your_, **yamen su** _their_.
+      **mi su** _my_, **tu su** _your_, **ye su** _his or her_,
+      **mimon su** _our_, **tumon su** _your_, **yemon su** _their_.
      - The interrogative pronouns are: **ke** _what_ or _who_, **ke su** _whose_.
      - The impersonal pronoun is
-       **men**
+       **mon**
        (_one_, _you_, _they_)
 5. **Nouns:**
    Nouns have only one form, always the same.

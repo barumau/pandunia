@@ -296,6 +296,7 @@ be fen - pęknąć (rozpaść się)
 be gas - zamieniać się w gaz (parować)  
 be gau - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
 be ging - iść wzdłuż (pójść wzdłuż)  
+be halte - zatrzymać się  
 be hogo - spłonąć, płonąć  
 be in bum - implodować  
 be islam - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
@@ -328,7 +329,6 @@ be suka - lubić, cieszyć się
 be supra - przekroczyć, przekraczać, przejść nad, iść nad  
 be tele loka - teleportować się  
 be teza - wzmacniać się (wzmagać, pogłębiać się)  
-be halte - zatrzymać się  
 be turbe - przejmować się (zawracać sobie głowę)  
 be vanu - cieszyć się (zażywać, bawić się)  
 be vide - być widzianym  
@@ -441,6 +441,7 @@ bum - wybuch (eksplozja)
 burge - zamek, forteca, twierdza  
 Burkina Faso - Burkina Faso  
 bus - autobus, autokar  
+bus halte - przystanek autobusowy  
 buste - biust  
 buta - but  
 buton - klawisz, przycisk, przełącznik, guzik  
@@ -830,8 +831,10 @@ fa gau - podnosić (podnieść)
 fa gem - grać w grę  
 fa glu - lepić (kleić)  
 fa gola - otoczyć, otaczać  
+fa gong - pracować  
 fa guste - smakować, próbować smaku  
 fa halal - pozwolić, pozwalać, zezwolić, zezwalać  
+fa halte - zatrzymać  
 fa haram - zabronić (wzbronić, zakazać)  
 fa has - rozróżniać (rozróżnić)  
 fa hisabu - kalkulować  
@@ -840,8 +843,8 @@ fa jama - kolekcjonować, zebrać, zbierać
 fa javabu - odpowiedzieć, odpowiadać  
 fa jela - uwięzić, więzić, pozbawić wolności  
 fa jene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
-fa jude - sądzić (osądzić)  
 fa jong - centrować, skupić, skupiać  
+fa jude - sądzić (osądzić)  
 fa kai - otworzyć, otwierać  
 fa kanal - kierować (doprowadzać, prowadzić, służyć jako kanał)  
 fa kancha dake - szklić (glazurować)  
@@ -938,7 +941,6 @@ fa sekur - chronić (ratować)
 fa sense - czuć (poczuć, postrzegać, wykrywać)  
 fa sharti - wymagać, przewidywać  
 fa shibai - przegrać, przegrywać  
-fa sina - wierzyć  
 fa shipi - moczyć (zmoczyć)  
 fa shite - srać (robić gówno)  
 fa shofer - prowadzić pojazd  
@@ -949,6 +951,7 @@ fa shuru - zacząć, zaczynać
 fa shush - uciszyć (uciszać)  
 fa side - siedzieć  
 fa sifa - opisać (zakwalifikować)  
+fa sina - wierzyć  
 fa sing foto - mruganie (błysk)  
 fa sir - chować (kryć)  
 fa soni - brzmieć, wydać dźwięk, wydawać dźwięk  
@@ -966,7 +969,6 @@ fa tela - tkać (pleść)
 fa tercha - przechylać (przechylić, wychylać, wychylić)  
 fa tese - dyskutoać, twierdzić  
 fa teste - spróbować, próbować  
-fa halte - zatrzymać  
 fa transe - przejść, przechodzić, przejechać, przejeżdżać  
 fa trati - zgodzić się (umówić się)  
 fa truke - oszukać (oszukiwać  
@@ -1204,6 +1206,7 @@ giga - bilion, giga-
 ging - równoległy (podłużny)  
 ging darja - długość geograficzna  
 ging gola - długość geograficzna  
+gingam - kumkwat  
 gioka - żad  
 giota - kropla  
 gitar - gitara  
@@ -1221,6 +1224,12 @@ golem - golem
 gomu - guma  
 gona - kąt  
 gona metre gi - goniometr (kątomierz)  
+gong - praca, zjęcie, zadanie  
+gong ja - pracownik  
+gong kan - fabryka, manufaktura  
+gong meza - biurko  
+gong mise - przedstawić (przedłożyć, przedstawić, złożyć, składać)  
+gong shula ja - praktykant  
 gorila - goryl  
 goro - świnia  
 goro nama - wieprzowina  
@@ -1261,13 +1270,6 @@ gun - armia
 gun jan - żołnierz  
 gun raja - szogun  
 gun raja desha - szogunat  
-gong - praca, zjęcie, zadanie  
-fa gong - pracować  
-gong ja - pracownik  
-gong kan - fabryka, manufaktura  
-gong meza - biurko  
-gong mise - przedstawić (przedłożyć, przedstawić, złożyć, składać)  
-gong shula ja - praktykant  
 guru - guru, mistrz  
 guste - smak  
 guste ka - smakować jak  
@@ -1308,6 +1310,7 @@ hali zi - spacja
 halifa - kalif  
 halifa desha - kalifat  
 halo - halo, cześć  
+halte - stop; przerwa, zatrzymanie  
 ham - znaczyć (liczyć się, być ważnym)  
 ham di - ważny  
 hamake - hamak  
@@ -1616,11 +1619,11 @@ kandela - kandela
 kandi - cukierek, słodycze  
 kane - pręt, kij  
 kane kasa - klatka  
+kane minte - mięta zielona (mięta kłosowa)  
 kane pang - bagietka  
 kanga - grzebień  
 kangaru - kangur  
 kanjar - sztylet (puginał)  
-gingam - kumkwat  
 kano - kanoe  
 kanta - bark (ramię)  
 kantalupo melon - kantalupa  
@@ -2056,9 +2059,9 @@ manera - zachowanie (maniery, kultura)
 manera - zachowywać się (działać)  
 manete - magnes  
 manete di - magnetyczny  
-mangu - zajęty  
 mangan - mangan  
 mango - mango  
+mangu - zajęty  
 mangus - mangostan  
 Mani - prorok Mani  
 mani din - manicheizm  
@@ -2144,6 +2147,7 @@ meme kesha - wełna (runo owcze)
 memo - pamięć  
 memo bina - pomnik (memoriał)  
 memo note - notatka, memo  
+men - makaron  
 meninge - opona mózgowa  
 meninge flame - zapalenie opon mózgowych  
 mentor - doradca (mentor)  
@@ -2180,7 +2184,6 @@ meza tela - obrus
 meza topo - płaskowyż (plateau)  
 mi - ja, mnie  
 mi su - mój  
-men - makaron  
 migra - migracja  
 mikro - mikro-  
 mikro bio - mikroorganizm  (mikrob)  
@@ -2230,6 +2233,7 @@ moka - drzewo
 moka bano - deska  
 moka jang ja - stolarz  
 moka jong parke - arboretum  
+moka kane - słup (pal, kołek)  
 moka mate - drewno  
 moka tana - pień  
 mol ja - młynarz  
@@ -3021,8 +3025,6 @@ shenga - zwycięstwo, wygrana
 shia islam din - szyism  
 shifu - mistrz (sensei)  
 shike - elegancki, szykowny  
-sim - serce  
-sina - wiara, wierzenie, kredo  
 shindau din - shintoizm, sintoizm  
 shipi - mokry (wilgotny)  
 shir - poemat  
@@ -3075,8 +3077,10 @@ sili nete - kolczuga
 sili sili - łańcuch  
 silis - krzem  
 silko - jedwab  
+sim - serce  
 simple - prosty, nieskomplikowany  
 sin - znak, sygnał  
+sina - wiara, wierzenie, kredo  
 sina - pierś  
 sina kasa - klatka piersiowa  
 sina plate - napierśnik  
@@ -3279,7 +3283,6 @@ tika - tikka
 tikete - bilet  
 tim - drużyna  
 Timor - Timor  
-halte - stop; przerwa, zatrzymanie  
 tipe - typ (rodzaj, gatunek)  
 tire - ciągnąć  
 tire dara - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
@@ -3384,10 +3387,10 @@ Valis e Futuna nesi - Saint Vincent i Grenadyny
 valu - wartość  
 vampir - wampir  
 vampir ohtopus - wampirzyca piekielna (wampirnica)  
-vanu - zabawa, rozrywka  
-vanu di - zabawny  
 vanadi yum - wanad  
 vanila - wanilia  
+vanu - zabawa, rozrywka  
+vanu di - zabawny  
 Vanuatu - Vanuatu  
 var cheti - niedziela  
 var du - wtorek  
@@ -3472,8 +3475,8 @@ vutu - przedmiot (obiekt)
 ####X - X  
 xenon - ksenon  
 ####Y - Y  
-ya - on, ona, ono  
 ya - przyrostek dla miejsca  
+ya - tak  
 yake - jak (zwierzę)  
 yaki - około; przybliżony  
 yaki nesi - półwysep  
@@ -3489,14 +3492,14 @@ yasen - jesion
 yatim - sierota  
 yatim dom - sierociniec, dom dziecka  
 yau di - potrzebny  
-yauta - potrzeba  
-ye - tak  
+yau ta - potrzeba  
+ye - on, ona, ono  
 yehudi - żydowski  
 yehudi din - judaizm  
 yei - jej  
 Yemen - Jemen  
-Yesu - Jezus  
-Yesu mesi - Jezus Chrystus  
+Yesa - Jezus  
+Yesa Mesi - Jezus Chrystus  
 yezi - kokos  
 yo - jakiś  
 yo jan - ktoś  
@@ -3556,8 +3559,6 @@ zoku - wciąż, nadal; kontynuować, wznawiać, ponawiać
 zoku di - ciągły (analogowy)  
 zombi - zombie, zombi  
 zona - pas, strefa  
-moka kane - słup (pal, kołek)  
-kane minte - mięta zielona (mięta kłosowa)  
 zou - animal  
 zou agro shuta - hodowla zwierząt  
 zou bagi - zoo (ogród zoologiczny)  
@@ -3577,4 +3578,3 @@ zumarde - szmaragd
  - deszczowy  
  - padać (lać)  
  - przeciwnik (antagonista)  
-bus halte - przystanek autobusowy  

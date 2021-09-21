@@ -1879,8 +1879,8 @@ jazmín - moli
 jazz - jaze  
 jefe - shefe  
 Jersey - Jerze  
-Jesucristo - Yesu mesi  
-Jesús - Yesu  
+Jesucristo - Yesa Mesi  
+Jesús - Yesa  
 jira (pícnic) - ekso yam  
 jirafa - jirafa  
 joder (coger, copular) - choda  
@@ -2387,7 +2387,7 @@ Nazi - nasi sosi sim ja
 nazismo - nasi sosi sim  
 Naúru - Nauru  
 necesario - yau di  
-necesidad - yauta  
+necesidad - yau ta  
 necesitar - yau  
 necrofilia - mata badan fili  
 nefritis - nefre flame  
@@ -3334,7 +3334,7 @@ susurrar (curjir) - shasha
 Svalbard - Sualbarde  
 sábado - var luka  
 sándwich (sánduche) - sanduiche  
-sí - ye  
+sí - ya  
 sílaba - loga fen  
 sólido - gati mate  
 ####T - T  
@@ -3725,7 +3725,7 @@ zulú - Zulu
 áspero (basto) - karse  
 ástato - astatin  
 átomo - atom  
-él o ella - ya  
+él o ella - ye  
 éste - dong  
 ética (filosofía moral) - moral logi  
 étnico - zuku di  

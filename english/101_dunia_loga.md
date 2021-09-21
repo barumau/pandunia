@@ -352,7 +352,7 @@ The word **jan** is combined from several unrelated sources.
     - Urdu کمرا  /kəmra:/ (room)
     - Malay "kamar" (room)
 
-#### kata (to cut)
+#### gata (to cut)
 
 - the West
     - English "cut" /kʌt/

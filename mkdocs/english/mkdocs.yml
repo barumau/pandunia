@@ -8,15 +8,15 @@ theme: readthedocs
 nav:
     - Home: 'index.md'
     - 'Info':
-        - 'Introduction': dunia_baxe.md
-        - 'Principles': filsof.md
+        - 'Introduction': 001_dunia_basha.md
+        - 'Principles': 002_filsofi.md
     - 'Grammar and Rules':
         - 'The basic rules': 100_baze_kanun.md
         - 'World words': 101_dunia_loga.md
         - 'Spelling and pronunciation': 102_ABC.md
-        - 'Word classes': 103_logotipe.md
-        - 'Pronouns': 104_viceloga.md
-        - 'Nouns': 105_namloga.md
+        - 'Word classes': 103_logatipe.md
+        - 'Pronouns': 104_viseloga.md
+        - 'Nouns': 105_nameloga.md
         - 'Numerals': 106_nomer.md
         - 'Modifiers': 107_modeloga.md
         - 'Verbs': 108_karmaloga.md

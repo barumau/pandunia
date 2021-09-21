@@ -715,7 +715,7 @@ jarra (jarro) - jara
 jasmim - moli  
 Javé (Jeová) - Yahve  
 jengibre - zinji  
-Jesus Cristo - Yesu mesi  
+Jesus Cristo - Yesa Mesi  
 joelho - guta  
 jogo de tabuleiro - bano gem  
 joule (J) - jul  
@@ -916,7 +916,7 @@ nadar (flutuar) - be boi
 nautiloide - nautile  
 nave espacial - kosmo nave  
 nação - nasi  
-necessidade - yauta  
+necessidade - yau ta  
 necessário - yau di  
 necrofilia - mata badan fili  
 neodímio - neodim yum  
@@ -1281,7 +1281,7 @@ sexo - jinse
 sexologia - sekse logi  
 sexta-feira - var lima  
 silício - silis  
-sim - ye  
+sim - ya  
 simetria - sam metre  
 simulação - sam sifa she  
 sino (campainha) - dang gi  

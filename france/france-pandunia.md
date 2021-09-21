@@ -226,7 +226,7 @@ bengali - bangla basha
 berceau - lala bede  
 berceause - lala chante  
 berkélium - berkli yum  
-besoin - yauta  
+besoin - yau ta  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukar bete  
 bibliothèque - kitabu kan  
@@ -829,8 +829,8 @@ jusque (jusqu’à) - hata
 juste - adil  
 justice - adil ta  
 justo (exact, précis) - juste  
-Jésus - Yesu  
-Jésus-Christ - Yesu mesi  
+Jésus - Yesa  
+Jésus-Christ - Yesa Mesi  
 ####K - K  
 kangourou - kangaru  
 karaté - karate  
@@ -1123,7 +1123,7 @@ ou - o
 ouah - va  
 oublier - an memo  
 oubliette (cul de basse-fosse) - geo niche jela  
-oui - ye  
+oui - ya  
 ours - baru  
 oxyde - okside  
 oxygène - oksi  

@@ -1630,7 +1630,7 @@ Hawaii - Havai
 Hawaiian archipelago - Havai nesi  
 hay - gan gazo  
 hazard (chance) - zar  
-he or she or it - ya  
+he or she or it - ye  
 head - sar  
 headless - sar hin  
 headmaster (principal) - shula shefe  
@@ -1867,8 +1867,8 @@ jellyfish (seajelly) - hai jele
 Jersey - Jerze  
 Jerusalem - Urushalem  
 Jerusalem artichoke (sunroot) - masa mula sol hua  
-Jesus - Yesu  
-Jesus Christ - Yesu mesi  
+Jesus - Yesa  
+Jesus Christ - Yesa Mesi  
 Jewish - yehudi  
 joint (link) - linke  
 joke - joke  
@@ -2412,7 +2412,7 @@ near (close, almost) - karibu
 necessary (needed) - yau di  
 necrophilia - mata badan fili  
 need (lack, require) - yau  
-need (shortage, lack, requirement) - yauta  
+need (shortage, lack, requirement) - yau ta  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
 negotiate (arrange) - fa biznes lon  
 neodymium - neodim yum  
@@ -4064,7 +4064,7 @@ yeast - hamir
 yellow - huang  
 yellow starthistle - sol sentaure  
 Yemen - Yemen  
-yes - ye  
+yes - ya  
 yesterday - chen den  
 yoga - yoga  
 yogi - yoga ja  

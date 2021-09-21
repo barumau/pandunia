@@ -12,7 +12,7 @@
 |**Afrika**|Afrikka|arabia:(ʾafrīqiyā), wolof:Afrig, fulani:Afirik, amhara:(ʾäfriḳa), hausa:Afirka, yoruba:Afirika, oromo:Afrikaa, suahili:Afrika, englanti:espanja:portugali:Africa, ranska:Afrique, venäjä:Африка (Afrika), hindi:अफ़्रीका (afrīkā), bangla:আফ্রিকা (aphrika), japani:アフリカ (Afurika), korea:프리카 (Apeurika)|
 |**agile**|ketterä|englanti:ranska:agile, espanja:portugali:ágil, deu:agil|
 |**agresi**|hyökkäys (päällekarkaus, aggressio)|englanti:deu:ranska:agression, puola:agresja, venäjä:агрессия (agressiya), espanja:agresión, portugali:agressão, malaiji:agresif|
-|**aha**|oivaltaa (tajuta)|venäjä:ага (aha), korea: 아하 (aha), englanti: uh-huh, puola:aha|
+|**aha**|oivaltaa (tajuta)|venäjä:ага (aha), korea: 아하 (aha), englanti: uh-huh, puola:aha + arabia: آه (ʾāh)|
 |**air**|ilma|englanti:ranska:espanja:air, portugali:ar, venäjä:аэро- (aero-)|
 |**ais krem**|jäätelö|englanti:ice cream, japani:アイスクリーム (aisukurīmu), korea:아이스크림 (aiseukeurim), hindi:आइसक्रीम (āisakrīm), bangla:আইসক্রীম (aisôkrīm), malaiji:es krim, suahili:aiskrimu|
 |**ais**|jää|englanti:ice, deu:Eis, malaiji:és|
@@ -935,7 +935,7 @@
 |**multi**|moni (usea)|portugali:muito, englanti:ranska:espanja:multi-, venäjä:мульти- (mulʹti-)|
 |**mum**|vaha|turkki:mum, persia:(mum), hindi:मोम (mom), bangla:মোম (mom)|
 |**mumu**|nauta (lehmä)|(onom,) englanti:moo, deu:muh, venäjä:му (mu), thai:มอ (mo), hindi:(mū), japani:モーモー (mō mō), yleiskiina:哞 (mōu), turkki:mö|
-|**mun**|ovi (portti, veräjä)|yleiskiina:门 (mén), kantoninkiina:門 (mun4), japani:門 (mon), korea:문 (mun)|
+|**mun**|ovi (portti, veräjä)|yleiskiina:门 (mén), kantoninkiina:門 (mun4), japani:門 (mon), korea:문 (mun), vietnami:môn|
 |**mungus**|mangusti|telugu:ముంగిస (muṅgisa), marathi:मुंगूस (muṅgūs), englanti:mongoose, espanja:mangosta, portugali:mangusto, ranska:mangouste, venäjä:мангу́ст (mangúst), japani:マングース (mangūsu)|
 |**mur**|seinä (muuri)|ranska:mur, espanja:portugali:muro + deu:Mauer, puola:mur|
 |**murche**|muurahainen|persia:مورچه (murče), venäjä:мурашка (murashka), kreikka:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
@@ -1473,7 +1473,7 @@
 |**vutu**|esine (tavara)|yleiskiina:物 (wù), wu-kiina:物 (veq5), japani:物 (butsu), vietnami:vật + hindi:marathi:वस्तु (vastu), bangla:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), thai:วัสดุ (wạttu)|
 |**xenon**|ksenon|englanti:xenon, ranska:xénon, espanja:xenón, portugali:xénon, venäjä:ксенон, yleiskiina:氙 (xiān), japani:キセノン, korea:크세논, vietnami:xenon, hindi:ज़ेनान, bangla:জেনন, malaiji:xenon, suahili:zenoni, arabia: إكسينون|
 |**ya**|ajattelun, olemisen tai ihmisten ala tai alue|espanja:portugali:englanti:-ia, venäjä:-ия (-iya), arabia: ية (-iya), japani:屋 (-ya)|
-|**ya**|hän (se)|malaiji:ia + hindi:यह (yah) + suahili:yeye, zulu:yena, lingala:ye, ktu:ya, igbo:ya + venäjä:е- (ye-) + yleiskiina:伊 (yī), vietnami:y|
+|**ya**|kyllä|malaiji:ya, deu:ja, englanti:yeah, korea:예 (ye) + yleiskiina:呀/啊 (ya/a)|
 |**yake**|jakki|englanti:deu:ranska:espanja:turkki:yak, portugali:iaque, hindi:याक (yāk)|
 |**yaki**|noin (arviolta, suunnilleen)|korea:약 (yak), japani:約 (yaku), kantoninkiina:約 (yœk), turkki:yaklaşık, yleiskiina:约 (yuē)|
 |**yam**|nauttia (syödä, juoda)|khmer:ញ៉ាំ (nyam), fulani:nyami, + espanja:ñam, venäjä:ням (nyam), italia:gnam, englanti:yum, korea:냠냠 (nyamnyam), unkari:nyam|
@@ -1481,7 +1481,7 @@
 |**yasen**|saarni|venäjä:ясень (yasen’), puola:jesion|
 |**yatim**|orpo|arabia:persia:(yatim), turkki:yetim, suahili:yatima, hindi:यतीम (yatīm)|
 |**yau**|tarvita|yleiskiina:要 (yāo), kantoninkiina:要 (jiu1), wu-kiina:要 (yo1), japani:要 (yō), vietnami:yêu|
-|**ye**|kyllä|englanti:yeah, korea:예 (ye), malaiji:ya|
+|**ye**|hän (se)|hindi:यह (yeh) + suahili:yeye, zulu:yena, lingala:ye + venäjä:е- (ye-) + malaiji:ia + yleiskiina:伊 (yī), vietnami:y|
 |**yei**|jee! (hurraa!)|englanti:yay, puola:jej, japani:イエイ (iei)|
 |**yeka**|vaihtaa (tehdä vaihtokauppa)|yleiskiina:易 (yì), kantoninkiina:易 (yik6), japani:易 (eki), korea:역 (yeok), vietnami:dịch|
 |**yezi**|kookos|yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)|

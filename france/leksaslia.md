@@ -11,7 +11,7 @@
 |**Afrika**|Afrique|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|
 |**agile**|agile|eng:fra:agile, spa:por:ágil, deu:agil|
 |**agresi**|agression (attaque)|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
-|**aha**|comprendre (réaliser)|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
+|**aha**|comprendre (réaliser)|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha + ara: آه (ʾāh)|
 |**air**|air|eng:fra:spa:air, por:ar, rus:аэро- (aero-)|
 |**ais krem**|crème glacée|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|
 |**ais**|glace|eng:ice, deu:Eis, may:és|
@@ -839,8 +839,8 @@
 |**vulva**|vulve|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
 |**vutu**|objet (article)|zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|
 |**xenon**|xénon|eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون|
+|**ya**|oui|may:ya, deu:ja, eng:yeah, kor:예 (ye) + zho:呀/啊 (ya/a)|
 |**yasen**|frêne|rus:ясень (yasen’), pol:jesion|
-|**ye**|oui|eng:yeah, kor:예 (ye), may:ya|
 |**yogo**|joug|eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách|
 |**yogur**|yaourt (yogourt)|eng:may:yogurt, fra:yogourt, spa:yogur, por:iogurte, rus:йогурт (yogurt), zho:优格 (yōugé), jpn:ヨーグルト (yōguruto), kor:요구르트 (yogureuteu), tur:yoğurt |
 |**yong**|melt|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|

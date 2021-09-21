@@ -6,7 +6,7 @@ A noun is a word that names a thing.
 Like all words in Pandunia, nouns don't ever change their form.
 So the same form is used in singular and plural, in definite and indefinite, etc.
 
-**seke**
+**sheku**
 – a stone, stones, the stone or the stones  
 **meza**
 – a table, tables, the table or the tables  
@@ -56,7 +56,7 @@ Simply insert a numeral in front of the unchanged noun.
 
 An easy way to say that there are many is to repeat the noun two times.
 
-**seke seke**
+**sheku sheku**
 – stones and stones, a variety of stones  
 **buke buke**
 – books and books, a variety of books
@@ -93,10 +93,10 @@ Two or more nouns can be put together to make a compound word.
 The last word is the most meaningful word in the compound,
 and the words that come before it only modify the meaning.
 
-**sol fote**
+**sol foto**
 – sun light  
-**lun fote**
+**luna foto**
 – moon light  
-**lun seke**
+**luna sheku**
 – moon stone
 
