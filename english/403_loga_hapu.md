@@ -77,23 +77,27 @@ Some examples of this word building process are shown in the table below.
 
 ### Mapping syllables from Mandarin to Pandunia
 
-What follows is a table of all existing syllables in Mandarin and their transformation to Pandunia.
+What follows are tables that include transformation of all existing Mandarin syllables into Pandunia's phonology and spelling.
 The header row and column include all Mandarin initials and finals, respectively, in Hanyu Pinyin.
 The data cells include the Mandarin syllables transformed into Pandunia spelling.
+
+The tables can be used when an adaptation of a Mandarin word is needed in Pandunia
+or when a Mandarin word is added to the pool of all Sinitic cognates.
+The final word in Pandunia can be affected by other languages and the tone-to-vowel transformation rules.
 
 #### Vowels and diphthongs
 
 |     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| a   | a   | ba  | pa  | ma  | fa  | da  | ta  | na  | la  | ga  | ka  | ha  | zha | cha | sha |     | za  | ca  | sa  |
+| a   | a   | ba  | pa  | ma  | fa  | da  | ta  | na  | la  | ga  | ka  | ha  | ja  | cha | sha |     | za  | ca  | sa  |
 | o   | o   | bo  | po  | mo  | fo  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | uo  | vo  |     |     |     |     | do  | to  | no  | lo  | go  | ko  | ho  | jo  | cho | sho | ro  | zo  | co  | so  |
-| ou  | ou  |     | pou | mou | fou | dou | tou | nou | lou | gou | kou | hou |zhou |chou |shou | rou | zou | cou | sou |
+| ou  | ou  |     | pou | mou | fou | dou | tou | nou | lou | gou | kou | hou | jou |chou |shou | rou | zou | cou | sou |
 | u   | vu  | bu  | pu  | mu  | fu  | du  | tu  | nu  | lu  | gu  | ku  | hu  | ju  | chu | shu | ru  | zu  | cu  | su  |
 | e   | e   |     |     | me  |     | de  | te  | ne  | le  | ge  | ke  | he  | je  | che | she | re  | ze  | ce  | se  |
-| ai  | ai  | bai | pai | mai |     | dai | tai | nai | lai | gai | kai | hai | zhai| chai| shai|     | zai | cai | sai |
-| ei  | ei  | bei | pei | mei | fei | dei | tei | nei | lei | gei | kei | hei | zhei|     | shei|     | zei |     |     |
-| i   |     |     |     |     |     |     |     |     |     |     |     |     | zhi | chi | shi | ri  | zi  | ci  | si  |
+| ai  | ai  | bai | pai | mai |     | dai | tai | nai | lai | gai | kai | hai | jai | chai| shai|     | zai | cai | sai |
+| ei  | ei  | bei | pei | mei | fei | dei | tei | nei | lei | gei | kei | hei | jei |     | shei|     | zei |     |     |
+| i   |     |     |     |     |     |     |     |     |     |     |     |     | ji  | chi | shi | ri  | zi  | ci  | si  |
 | i   | i   | bi  | pi  | mi  |     | di  | ti  | ni  | li  |     |     |     | ji  | qi  | shi |     |     |     |     |
 | ie  | ye  | bie | pie | mie |     | die | tie | nie | lie |     |     |     | jie | chie| shie|     |     |     |     |
 | ia  | ya  |     |     |     |     | dia |     |     | lia |     |     |     | jia | chia| shia|     |     |     |     |
@@ -103,7 +107,7 @@ The data cells include the Mandarin syllables transformed into Pandunia spelling
 | üe  | yue |     |     |     |     |     |     | nüe | lüe |     |     |     | jue | que | xue |     |     |     |     |
 | ao  | au  | bau | pau | mau |     | dau | tau | nau | lau | gau | kau | hau | jau | chau| shau| rau | zau | cau | sau |
 | ua  | va  |     |     |     |     |     |     |     |     | gua | kua | hua | jua | chua| shua| rua |     |     |     |
-| uai | vai |     |     |     |     |     |     |     |     |guai |kuai |huai |zhuai|chuai|shuai|     |     |     |     |
+| uai | vai |     |     |     |     |     |     |     |     |guai |kuai |huai | juai|chuai|shuai|     |     |     |     |
 | ui  | vei |     |     |     |     | dui | tui |     |     | gui | kui | hui | jui |chui |shui | rui | zui | cui | sui |
 | er  | er  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
@@ -111,25 +115,44 @@ The data cells include the Mandarin syllables transformed into Pandunia spelling
 
 |     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| an  | an  | ban | pan | man | fan | dan | tan | nan | lan | gan | kan | han |zhan |chan |shan | ran | zan | can | san |
-| en  | en  | bon | pon | mon | fen | don |     | non |     | gen | ken | hen | jon |chon |shon | ren | zen | cen |sen  |
+| an  | an  | ban | pan | man | fan | dan | tan | nan | lan | gan | kan | han | jan |chan |shan | ran | zan | can | san |
+| en  | en  | bon¹| pon¹| mon¹| fon²| don |     | non |     | gon³| kon³| hon³| jon |chon |shon | ren | zen | cen | sen |
 | ian | yen | ben | pen | men |     | den | ten | nen | len |     |     |     | jen |chen |shen |     |     |     |     |
 | in  | yin | bin | pin | min |     |     |     | nin | lin |     |     |     | jin |chin |shin |     |     |     |     |
-| un  | vun |     |     |     |     | dun | tun | nun | lun | gun | kun | hun |zhun |chun |shun | run | zun | cun | sun |
-| ün  | yun |     |     |     |     |     |     |     |     |     |     |     | jun | qun | xun |     |     |     |     |
-| uan | van |     |     |     |     |duan |tuan |nuan |luan |guan |kuan |huan |zhuan|chuan|shuan|ruan |zuan |cuan |suan |
+| un  | vun |     |     |     |     | dun | tun | nun | lun | gun | kun | hun | jun |chun |shun | run | zun | cun | sun |
+| ün  | yun |     |     |     |     |     |     |     |     |     |     |     | jun |chun |shun |     |     |     |     |
+| uan | van |     |     |     |     |duan |tuan |nuan |luan |guan |kuan |huan |juan |chuan|shuan|ruan |zuan |cuan |suan |
 | üan | ven |     |     |     |     |     |     |     |     |     |     |     |juen |chuen|shuen|     |     |     |     |
+
+Additional specifications for initials that have incomplete set of finals (i.e. empty space in the table):
+
+|        | (1)    | (2)  | (3)    |
+|--------|--------|------|--------|
+| Tone 1 | bon, … | fon  | gon, … |
+| Tone 2 | bun, … | fun  |        |
+| Tone 3 |        | fun  |        |
+| Tone 4 |        | fen  | gen, … |
+
 
 #### Finals with -ng
 
 |     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| ang | ang |bang |pang |mang |fang |dang |tang |nang |lang |gang |kang |hang |zhang|chang|shang|rang |zang |cang |sang |
-| eng | eng |beng |peng |meng |feng |deng |teng |neng |leng |geng |keng |heng |zheng|cheng|sheng|reng |zeng |ceng |seng |
+| ang | ang |bang |pang |mang |fang |dang |tang |nang |lang |gang |kang |hang |jang |chang|shang|rang |zang |cang |sang |
+| eng | eng |beng¹|peng¹|meng¹|feng¹|deng |teng |neng |leng |geng |keng |heng |jeng |cheng|sheng|reng |zeng |ceng |seng |
 | ing | ing |bing |ping |ming |     |ding |ting |ning |ling |     |     |     |jing |ching|shing|     |     |     |     |
-| ong |     |     |     |     |     |dong |tong |nong |long |gong |kong |hong |jong |chong|     |rong |zong |cong |song |
-|iong |yong |     |     |     |     |     |     |     |     |     |     |     |jung |chung|shung|     |     |     |     |
+| ong |     |     |     |     |     |dong²|tong²|nong²|long²|gong²|kong²|hong²|jung |chung|     |rong²|zong²|cong²|song²|
+|iong |yong |     |     |     |     |     |     |     |     |     |     |     |jong |chong|shong|     |     |     |     |
 |ueng |veng |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-|uang |vang |     |     |     |     |     |     |     |     |guang|kuang|huang|zhuang|chuang|shuang|  |     |     |     |
+|uang |vang |     |     |     |     |     |     |     |     |guang|kuang|huang|juang|chuang|shuang|   |     |     |     |
 |iang |yang |     |     |     |     |     |     |niang|liang|     |     |     |jiang|chiang|shiang|   |     |     |     |
+
+Additional specifications:
+
+|        | (1)     | (2)     |
+|--------|---------|---------|
+| Tone 1 | bong, … | dong, … |
+| Tone 2 | bung, … | dung, … |
+| Tone 3 |         |         |
+| Tone 4 | beng, … |         |
 

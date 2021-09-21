@@ -376,9 +376,9 @@ be supra|||eng:super, spa:por:sobre, ita:sopra|surpass (go over)||sobrepasar||||
 be tam||||covet||||||||||||||||ahnehtia|
 be tele loka||||teleport||teletransportarse||телепортировать|||瞬間移動|||||||||teleportata|teleportować się
 be teza||||intensify||||||||||||||||kiihdyttää (voimistuttaa)|wzmacniać się (wzmagać, pogłębiać się)
-be ting||||stop (halt)||pararse (detenerse)|||||止まる||||||||halti|pysähtyä|zatrzymać się
+be halte||||stop (halt)||pararse (detenerse)|||||止まる||||||||halti|pysähtyä|zatrzymać się
 be turbe||||be bothered by (bother to, take the trouble to)||molestar en||утруждай|||悩む (わざわざする)|||||||||vaivautua|przejmować się (zawracać sobie głowę)
-be van||||enjoy (play)||disfrutar (jugar)||||玩耍|遊ぶ|||||||||leikkiä (pitää hauskaa)|cieszyć się (zażywać, bawić się)
+be vanu||||enjoy (play)||disfrutar (jugar)||||玩耍|遊ぶ|||||||||leikkiä (pitää hauskaa)|cieszyć się (zażywać, bawić się)
 be vide||||be seen||ser visto||||||||||||||näkyä|być widzianym
 be yong liga||||merge (fuse)||fusionar (fundir)||||||||||||||sulaa yhteen (fuusioitua)|łączyć (złączyć)
 be zai||||appear||aparecer||||||||||||||ilmestyä|pojawić się
@@ -981,7 +981,7 @@ fa halal||||allow (permit)||permitir (dejar)||||||||||||||sallia (antaa lupa)|po
 fa hapu||||fit (adapt, adjust, make suitable)|adapter (ajuster)||||||適応する||||||||taŭgigi|sovittaa (mukauttaa)|
 fa haram||||forbid (ban, disallow)||prohibir||||||||||||||kieltää|zabronić (wzbronić, zakazać)
 fa has||||distinguish||diferenciar (distinguir)||||||||||||||erottaa (nähdä ero)|rozróżniać (rozróżnić)
-fa hena||||hate (detest)||odiar||||||||||||||vihata (inhota)|
+fa hen||||hate (detest)||odiar||||||||||||||vihata (inhota)|
 fa hisabu||||calculate|calculer|calcular|calcular|вычислять|حَسَبَ|计算|計算する|계산하다|||||||kalkuli|laskea (tehdä laskutoimitus)|kalkulować
 fa hogo||||burn (cause to burn)|brûler|quemar|queimar|жечь (палить)|أَحْرَقَ|燃烧|燃やす|태우다||जलाना|||kuchoma|yakmak||polttaa|spalić, palić
 fa in||||enter (insert, put in)||||||||||||||||panna sisään|
@@ -993,7 +993,7 @@ fa jela||||imprison (jail)||encarcelar (aprisionar)|||||||||||||malliberigi|vang
 fa jene||||give birth (beget, generate, breed)|donner naissance (procréer, engendrer, accoucher)|dar a luz (enngendrar, parir, procrear)||родить|||生む||||||||naskigi|synnyttää|urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić
 fa jin||||put forward (advance, progress)||||||||||||||||edistää|
 fa jude||||judge||juzgar||||||||||||||tuomita|sądzić (osądzić)
-fa jung||||center (concentrate)||centrar (concentrar)||||||||||||||keskittää|centrować, skupić, skupiać
+fa jong||||center (concentrate)||centrar (concentrar)||||||||||||||keskittää|centrować, skupić, skupiać
 fa kai||||open||abrir|||||||||||||malfermi|aukaista (avata)|otworzyć, otwierać
 fa kanal||||channel (conduct)||||||||||||||||kanavoida|kierować (doprowadzać, prowadzić, służyć jako kanał)
 fa kancha dake||||glaze (vitrify)||vidriar (glasear)||глазуровать||||||||||||lasittaa|szklić (glazurować)
@@ -1107,7 +1107,7 @@ fa sela||||advise (recommend)|conseiller|aconsejar|aconselhar|советоват
 fa sense||||sense (perceive, detect)||sentir (detectar)||||||||||||||aistia|czuć (poczuć, postrzegać, wykrywać)
 fa sharti||||stipulate||espicificar (estipular)||||||||||||||vaatia (edellyttää)|wymagać, przewidywać
 fa shibai||||lose (fail, miss, be defeated)||perder (fallar)||проиграть (провалиться)||输|負ける|||असफल होना||gagal (kalah dalam)|kushindwa (kufeli)|başarısız olmak||hävitä (kärsiä tappio)|przegrać, przegrywać
-fa shin||||believe||creer|||||||||||||kreda|uskoa (luottaa)|wierzyć
+fa sina||||believe||creer|||||||||||||kreda|uskoa (luottaa)|wierzyć
 fa shipi||||wet (dampen, moisten)|mouiller|mojar|molhar|||弄湿|濡らす|||||||||kosteuttaa|moczyć (zmoczyć)
 fa shite||||defecate (shit)||cagar||||||||||||||paskantaa (ulostaa)|srać (robić gówno)
 fa shofer||||drive (steer)||conducir|conduzir|||开车|||||||||konduki|ajaa (kuskata)|prowadzić pojazd
@@ -1139,14 +1139,14 @@ fa tense||||tighten||||||||||||||||kirentää (kiristää)|
 fa tercha||||tilt (skew)||inclinar||||||||||||||panna vinoon|przechylać (przechylić, wychylać, wychylić)
 fa tese||||argue (claim)||argumentar (alegar)||||||||||||||väittää|dyskutoać, twierdzić
 fa teste||||try (attempt)||intentar (probar)|tentar (provar)|||||||कोशिश करना|চেষ্টা করা|||||yrittää (kokeilla)|spróbować, próbować
-fa ting||||stop (halt)||parar (detener)|||||||||||||haltigi|pysäyttää|zatrzymać
+fa halte||||stop (halt)||parar (detener)|||||||||||||haltigi|pysäyttää|zatrzymać
 fa transe||||transit (pass through or across)||transitar (atravesar)||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 fa trati||||agree (make an agreement)||||||||||||||||sopia (tehdä sopimus)|zgodzić się (umówić się)
 fa truke||||trick (cheat, deceive)|escroquer|engañar|enganar|обмануть||耍花招|騙す|||||||||jekuttaa (petkuttaa)|oszukać (oszukiwać
 fa turbe|||eng:disturb, fra:perturber, spa:por:perturbar|bother (annoy, disturb, irritate)|gêner (déranger, perturber)|molestar (perturber)|molestar (perturber)|утруждать||||||||||||häiritä (vaivata)|przeszkodzić, przeszkadzać, robić kłopot
 fa un she||||unite (merge, integrate)||unir||||||||||||||yhdistää|jednoczyć
 fa valu||||value (evaluate)|évaluer|valorar|valorar|оценивать||||||||||||arvottaa|
-fa van||||amuse (entertain)||divertir (entretener)|||||||||||||amuzi|viihdyttää (huvittaa)|bawić, zabawiać
+fa vanu||||amuse (entertain)||divertir (entretener)|||||||||||||amuzi|viihdyttää (huvittaa)|bawić, zabawiać
 fa ver||||verify (authenticate)||autenticar|||||ただす|||||||||todentaa|
 fa verse||||turn around (flip)|verser|versar||||||||||||||kääntää jtkn päin|
 fa vise||||substitute (replace)||sustituir (reemplezar)||||||||||||||korvata|zastąpić (podstawić, zamienić)
@@ -1484,13 +1484,13 @@ gun|||zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|a
 gun jan||||soldier|soldat|soldado|soldado|солдат||军人|軍人|군인|quân nhân|सैनिक||||asker|soldato|sotilas|żołnierz
 gun raja||||generalissimo (shogun)|généralissime|generalísimo (sogún)|generalíssimo|генералиссимус||大元帅|総統 (将軍 )||||||||ĉefgeneralo|sotaherra (generalissimo)|szogun
 gun raja desha||||shogunate||shogunato||||||||||||||sotaherran maa|szogunat
-gung|||zho:工 (gōng), yue:工 (gung1), kor:공 (gong), vie:công|work (labour, job)|travail|trabajo|trabalho|работа|عَمَل|工作|労働|일||काम|কাজ|kerja (karya)|kazi|iş|laboro|työ|praca, zjęcie, zadanie
-gung||||work|travailler|trabajar|trabalhar|работать|عَمِلَ|工作|働く|일하다|làm việc|काम करना|কাম কৰা|bekerja|kufanya kazi|işlemek (çalışmak)||työskennellä|pracować
-gung ja||||worker|travailleur (ouvrier)|trabajador (obrero)|trabalhador|работник|عَامِل|工人 (工作者)|労働者|노동자|công nhân|मज़दूर (कर्मी)|কর্মী|pekerja||işçi|laboristo|työntekijä (työläinen)|pracownik
-gung kan|||eng:workshop, fas:کارخانه‎ (kârxâne), hin:कारख़ाना (kārxānā), ben:কারখানা (karôkhana) + zho:工厂 (gōngchǎng), jpn:工場 (kōjō), kor:공장 (gongjang)|workshop (factory)||fábrica||завод (фабрика)||工厂|工場 (製造所)|공장||कारख़ाना|কারখানা||||fabriko (laborejo)|tehdas (paja)|fabryka, manufaktura
-gung meza||||desk||escritorio (mesa de trabajo)||||||||||||||työpöytä (kirjoituspöytä)|biurko
-gung mise||||submit (present)|soumettre|entregar (enviar)||||提交|提出||||||||||przedstawić (przedłożyć, przedstawić, złożyć, składać)
-gung shula ja||||apprentice||||||||||||||||kisälli|praktykant
+gong|||zho:工 (gōng), yue:工 (gung1), jpn:工 (kō), kor:공 (gong), vie:công|work (labour, job)|travail|trabajo|trabalho|работа|عَمَل|工作|労働|일||काम|কাজ|kerja (karya)|kazi|iş|laboro|työ|praca, zjęcie, zadanie
+fa gong||||work|travailler|trabajar|trabalhar|работать|عَمِلَ|工作|働く|일하다|làm việc|काम करना|কাম কৰা|bekerja|kufanya kazi|işlemek (çalışmak)||työskennellä|pracować
+gong ja||||worker|travailleur (ouvrier)|trabajador (obrero)|trabalhador|работник|عَامِل|工人 (工作者)|労働者|노동자|công nhân|मज़दूर (कर्मी)|কর্মী|pekerja||işçi|laboristo|työntekijä (työläinen)|pracownik
+gong kan|||eng:workshop, fas:کارخانه‎ (kârxâne), hin:कारख़ाना (kārxānā), ben:কারখানা (karôkhana) + zho:工厂 (gōngchǎng), jpn:工場 (kōjō), kor:공장 (gongjang)|workshop (factory)||fábrica||завод (фабрика)||工厂|工場 (製造所)|공장||कारख़ाना|কারখানা||||fabriko (laborejo)|tehdas (paja)|fabryka, manufaktura
+gong meza||||desk||escritorio (mesa de trabajo)||||||||||||||työpöytä (kirjoituspöytä)|biurko
+gong mise||||submit (present)|soumettre|entregar (enviar)||||提交|提出||||||||||przedstawić (przedłożyć, przedstawić, złożyć, składać)
+gong shula ja||||apprentice||||||||||||||||kisälli|praktykant
 guru|||hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|guru (teacher, sage)||maestro (gurú, sabio, profesor)|||||尊師 (グル, 先生)||||||||guruo (instruisto)|guru (opettaja)|guru, mistrz
 guste|||spa:gusto, por:gosto, fra:goût|taste (flavor)||gusto (sabor)|||||||||||||gusto|maku|smak
 guste ka||||taste like||tener gusto a|||||||||||||gusti kiel|maistua|smakować jak
@@ -1577,7 +1577,7 @@ Helsinki|xefsite|FI||Helsinki||||||||||||||||Helsinki|
 hem||||ponder (think, contemplate, consider, regard)|considérer|considerar (reflexionar, pensar en)|considerar|думать||深思 (考虑)|考える|||विचार करना||menung (mengirakan)|||pripensi (rigardi ia)|miettiä (pohtia, pitää jonakin)|dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę
 hem…|||eng:hmm, rus:хм (hm), эм (em), kor:음 (eum)|hmm…|hum…|hm…|hmm…|хм…|||||hmm… (hừmm…)||||||hm…|hmm…|hmm…
 hema|||ara:(xayma), hau:laima, hin:ख़ैमा (xEmā), swa:hema, may:kemah, may:khemah, mng:майхан (mayhan)|tent|tente|carpa (toldo)||палатка (шатёр)||帐篷|||||||||tendo|teltta|namiot
-hena|||zho:恨 (hèn), yue:恨 (han6), wuu:恨 (hhen3), vie:hận, kor:한  (han) + jpn:嫌 (ken) + fra:haine|hatred (hate, resentment, odium)|haine|odio|||||||||||||malamo|viha (inho)|nienawidzić
+hen|||zho:恨 (hèn), yue:恨 (han6), wuu:恨 (hhen3), vie:hận, kor:한  (han) + jpn:嫌 (ken) + fra:haine|hatred (hate, resentment, odium)|haine|odio|||||||||||||malamo|viha (inho)|nienawidzić
 hero|||eng:hero, fra:héros, spa:héroe, por:héroi, rus:герой (geroy), hin:हीरो (hīro), jpn:ヒーロー (hīrō), kor:히로 (hiro)|hero|héros|héroe|héroi|герой||英雄 (勇士)|英雄 (勇者, ヒーロー)|영웅 (히로)|anh hùng|नायक (वीर, हीरो)|বীর|wira (pahlawan)|shujaa|kahraman|heroo|sankari (urho)|bohater, heros
 hero di||||heroic||valiente (heroico)|||||||||||||heroa|urhea (sankarillinen)|bohaterski, heroiczny, odważny, brawurowy
 hero kata||||saga (heroic tale)||||||||||||||||sankaritaru (legenda)|
@@ -1804,13 +1804,13 @@ jude di||||judicial||||||||||||||||oikeudellinen|
 jude ja|||eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|judge (referee)|juje|juez (árbitro, réferi)|juiz|судья|||||||||||juĝisto|tuomari|sędzia
 jul|unomete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
 jumla|||ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|sentence (phrase)||oración||фраза||句子|||||||||||zdanie (fraza)
-jung|||zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-)|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
+jung|||zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
 jung||||to be centered (amid, in the middle)||centrarse (en el centro de)||||||||||||||keskittyä (olla keskellä)|być wycentrowanym, być w środku
 Jung Afrika Komun krati|desha|CF||Central African Republic||República Centroafricana||||||||||||||Keski-Afrikan Tasavalta|Republika Środkowoafrykańska
 jung di||||central (middle)||central|||||||||||||||centralny (środkowy)
 jung fon||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali|samogłoska
 jung shula kan||||secondary school|école secondaire|escuela secundaria|ensino secundário|средняя школа||中学|||trường trung học|||sekolah menengah|||gimnazio|yläaste ja lukio|
-Junguo|desha|CN||China|Chine|China|China|Китай|اَلصِّين‎|中国|中国|중국|Trung Quốc|चीन|চীন|Cina (Tiongkok)|Uchina|Çin|Ĉinio|Kiina|Chiny
+Jungoku|desha|CN||China|Chine|China|China|Китай|اَلصِّين‎|中国|中国|중국|Trung Quốc|चीन|চীন|Cina (Tiongkok)|Uchina|Çin|Ĉinio|Kiina|Chiny
 jupe|||fra:jupe, ara:(jūb), rus:юбка (yubka)|skirt||falda|||||||||||||jupo|hame|spódnica
 Jupiter|planete 5|||Jupiter|Jupiter|Jupiter|Júpiter|Юпитер|المشتري|木星|木星|||||||Jüpiter||Jupiter|Jowisz
 jus|||eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|juice|jus|jugo (zumo)|suco (sumo)|сок|عَصِير‎|汁|ジュース|즙 (스)|dịch|रस|রস|jus|jusi|šire|suko|mehu|sok
@@ -1888,13 +1888,13 @@ kancha|||hin:काँच (kānc), ben:কাঁচ (kãcô), mar:काच (kā
 kancha daka||||glazing (enamel)||vidriado (esmalte)||глазурь||釉|釉薬||||||||||glazura (emalia)
 kandela|unomete|cd||candela||candela (unidad de intensidad luminosa)||||||||||||||kandela|kandela
 kandi|||eng:candy, hin:कैंडी (kaiṇḍī), ben:ক্যান্ডি (kyanḍi), jpn:キャンデー (kyandē), tgl:kendi|candy (sweets)|bonbon|caramelo|bombom (doce)|конфета||糖果|キャンデー|사탕|kẹo|कैंडी|ক্যান্ডি|gula-gula||tatlı (bonbon)|bombono|makeinen (karkki, namu)|cukierek, słodycze
-kane|||eng:cane, fra:canne + zho:杆 (gǎn), yue:杆 (gon1), vie:cần, tha:คัน (khan)|bar (pole, rod, shaft, staff, stick)|bâton (canne, tige)|barra (vara, palo)|vara (bastão)|штанга|||||||||||stango|tanko (sauva, patukka)|pręt, kij
+kane|||eng:cane, fra:canne + zho:杆 (gǎn), yue:杆 (gon1), vie:cần, tha:คัน (khan)|bar (pole, rod, shaft, staff, stick)|bâton (canne, tige)|barra (vara, palo)|vara (bastão)|кол (штанга)|||||||||||stango|tanko (pinna, sauva, patukka)|pręt, kij
 kane kasa||||cage|cage|jaula (caja)|gaiola (jaula)|клетка|قَفَص|笼|檻 (篭, ケージ)|우리|lồng|क़फ़स (पिंजड़ा)|খাঁচা|sangkar|tundu|kafes|kaĝo|häkki|klatka
 kane pang||||baguette||baguette||||||||||||||patonki (ranskanleipä)|bagietka
 kanga|||hin:कंघी (kaṅghī), urd:(kaṅghī), ben:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā) + eng:fra:may:kanga|comb||peine||||||||||||||kampa|grzebień
 kangaru|bio||eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)|kangaroo|kangourou|canguro|canguru|кенгуру||袋鼠|カンガルー|캥거루|canguru (chuột túi)|कंगारू|ক্যাংগারু|kanggaru|kangaruu|kanguru|kangaro|kenguru|kangur
 kanjar|||fas:(xanjar), tur:haner, rus:кинжал (kinžal)|dagger||puñal (daga)||кинжал|||||||||||ponardo|tikari|sztylet (puginał)
-kankuate|bio|Citrus japonica|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|kumquat|kumquat|kumquat (quinoto)|quincã (cunquate)|кумкват (кинкан)||金柑|キンカン (キンキツ)|||||kumkuat||kumkat||kumkvatti|kumkwat
+gingam|bio|Citrus japonica|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|kumquat|kumquat|kumquat (quinoto)|quincã (cunquate)|кумкват (кинкан)||金柑|キンカン (キンキツ)|||||kumkuat||kumkat||kumkvatti|kumkwat
 kano|||eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|canoe|canoë|canoa|canoa|каноэ|||カヌー|카누||||||kano|kanuo (kanoto)|kanootti|kanoe
 kanon|||eng:fra:spa:canon, por:canone|classic (canon)|classique (canon)|||||经典|||kinh|||||||klassikko|
 kanon di||||classic (authoritative, definitive)|||||||||kinh điển|||||||klassinen (kanooninen)|
@@ -2056,7 +2056,7 @@ koloni|||eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), t
 koloni ja||||colonist||colono||||||||||||||kolonialisti|kolonizator
 koloni sim||||colonialism||colonialismo||||||||||||||kolonialismi|kolonializm
 koloni sim ja||||colonialist||colonialista||||||||||||||kolonialisti|kolonialista
-kolum|||eng:column, spa:columna, por:coluna, fra:colonne, rus:колонна (kolonna), pol:kolumna|column (pillar, pole, post)||columna|||||||||||||kolono|pylväs (pilari)|kolumna, filar
+kolum|||eng:column, fra:colonne, spa:columna, por:coluna, rus:колонна (kolonna), pol:kolumna|pillar (column, pole, post)|pilier (colonne, poteau)|poste (columna)|poste (coluna)|||柱子 |||||||||kolono|pylväs (pilari, tolppa)|kolumna, filar
 koma|||eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|comma||coma||||||||||||||pilkku|przecinek
 komal|||hin:कोमल (komal), tel:కోమలము (kōmalamu), khm:កោមល (kaomɑl)|soft||blando (mullido)|||||||||||||mola|pehmeä|miękki
 Komoro nesi|desha|KM||Comoros||Comoros||||||||||||||Komorit|Komory
@@ -2070,7 +2070,7 @@ kon basha||||common language|||||||||||||||komuna lingvo|yhteiskieli|wspólny j�
 kon bon||||match (fit, suit, go well together)||emparejar (quedar)|combinar com|соответствовать (сочетаться)||相配|合わせる (適する)||||||||kongrui|sopia|pasować
 kon forma||||conform (fit, mold)||amoldarse||применяться (согласоваться)|||即する||||||||||
 kon funsi bil||||compatible (supported)||compatible|||||||||||||||kompatybilny (pasujący)
-kon gung||||collaborate (work together)|collaborer|colaborar|colaborar|сотрудничать (кооперировать)||合作|共同して働|공동으로 일하다||||kerjasama|||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
+kon gong||||collaborate (work together)|collaborer|colaborar|colaborar|сотрудничать (кооперировать)||合作|共同して働|공동으로 일하다||||kerjasama|||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
 kon pasi||||compassion||compasión||жалость (сердобольность)|||同情||||||||||
 kon sabe||||information (communicable knowledge)||información|||||||||||||informacio|tieto|informacja
 kon sana sim||||communism||comunismo|||||||||||||komunismo|kommunismi|komunizm
@@ -2381,7 +2381,7 @@ manera|||fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (m
 manera||||behave (act)||comportarse (portarse)||||||||||||||käyttäytyä|zachowywać się (działać)
 manete|||eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara:مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|magnet||imán|||||||||||sumaku|||magneetti|magnes
 manete di||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
-mang|||zho:忙 (máng), yue:忙 (mong4), wuu:忙 (maan), kor:망 (mang)|busy (occupied)|occupé|ocupado (atareado)|ocupado (atarefado)|занятый||忙|忙しい|||व्यस्त||ramai (sibuk)|kushugulika|işlek|okupata|kiireinen|zajęty
+mangu|||zho:忙 (máng), yue:忙 (mong4), wuu:忙 (maan), kor:망 (mang)|busy (occupied)|occupé|ocupado (atareado)|ocupado (atarefado)|занятый||忙|忙しい|||व्यस्त||ramai (sibuk)|kushugulika|işlek|okupata|kiireinen|zajęty
 mangan|yum 025|Mn|eng:manganese, fra:manganèse, spa:manganeso, por:manganésio, rus:марганец, zho:锰 (měng), jpn:マンガン, kor:망가니즈, vie:mangan, hin:मैंगनीज, ben:ম্যাঙ্গানিজ, may:manggan, swa:manganisi, ara: منجنيز|manganese|manganèse|manganeso|manganésio|марганец|منجنيز|锰|マンガン|망간|mangan|मैंगनीज|ম্যাঙ্গানিজ|manggan|manganisi|mangan|mangano|mangaani|mangan
 mango|bio||mal:മാങ്ങ (māṅṅa), eng:spa:tur:mango, por:manga, rus:манго (mango), may:mangga, jpn:マンゴー (mangō), kor:망고 (manggo)|mango||mango||||||||||||||mango|mango
 mangus|bio|Garcinia mangostana||mangosteen||mangostán (jobo de la India)||||||||||||||mangostani|mangostan
@@ -2480,7 +2480,7 @@ memo|||eng:memory, fra:mémoire, spa:memoria, por:memória|memory (recollection)
 memo bina||||monument (memorial)||monumento|||||追悼塔 (碑)||||||||||pomnik (memoriał)
 memo note||||memorandum (memo)||memorándum (nota)||меморандум||||||||||||muistio (muistiinmerkintä)|notatka, memo
 memo tehni||||mnemotechny||||||||||||||||muistitekniikka|
-men|||zho:们 (men), yue:們 (mun4) + deu:man + eng:one|one (you, they, impersonal pronoun)|on||||||||||||||oni||
+mon|||zho:们 (men), yue:們 (mun4) + deu:man + eng:one|one (you, they, impersonal pronoun)|on||||||||||||||oni||
 mendelevi yum|yum 101|Md|eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم|mendelevium|mendélévium|mendelevio|mendelévio|менделевий|مندلفيوم|钔|メンデレビウム|멘델레븀|menđelevi|मेण्डेलीवियम|মেন্ডেলিভিয়াম|mendelevium|mendelevi|mendelevyum||mendelevium|
 meninge|||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)|méninge|meninge|meninge|||脑脊膜||||||||||aivokalvo|opona mózgowa
 meninge flame||||meningitis||meningitis||||||||||||||aivokalvontulehdus|zapalenie opon mózgowych
@@ -2520,7 +2520,7 @@ meza tela||||tablecloth|nappe|mantel|toalha de mesa|скатерть|غِطَا�
 meza topo||||plateau (tableland)||meseta|||||台地 (高地)||||||||||płaskowyż (plateau)
 mi|pron.||eng:fra:spa:por:me,hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 mi su||||my||mi|||||私の||||||||mia|minun|mój
-mien|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|noodle||fideo (tallarín)|||||ヌードル||||||||nudelo|nuudeli|makaron
+men|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|noodle||fideo (tallarín)|||||ヌードル||||||||nudelo|nuudeli|makaron
 migra|||fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|migration (moving)|migration|migración|migração|миграция|||||||||||migrado|muutto (migraatio)|migracja
 mikro|numbe||eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイクロ- (maikuro-), may:tur:mikr-|tiny (microscopic, micro-)||micro-|||||||||||||mikro-|pikkuruinen (mikroskooppinen, mikro-)|mikro-
 mikro bio||||microorganism (microbe)|microbe|microbio|micróbio|микроб|مِيكْرُوب‎|微生物 |微生物|미생물|vi sinh vật|सूक्ष्मजीव||mikroba||mikrop|mikrobo|mikrobi|mikroorganizm  (mikrob)
@@ -2535,8 +2535,8 @@ milke kardon|bio|Silybum marianum||milk thistle|chardon Marie|cardo mariano|card
 mima|||eng:fra:mime, por:mímico, rus:мим (mim)|mimic (imitate)|imiter|imitar|imitar (mimetizar)|имитировать||模拟  (模仿)||||||||taklit etmek||matkia (imitoida)|
 mima ja||||imitator (mime)|imitateur (mime)|imitador|mímico|мим (имитатор)|||模倣者|모방자||||||||matkija (imitaattori)|
 Mimas|planete 6 lun 1|||Mimas|||||||||||||||||
-mimen|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
-mimen su||||our|notre|nuestro|nosso|наш||我们的||||हमारा|আমাদের|||bizim|nia|meidän|
+mimon|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
+mimon su||||our|notre|nuestro|nosso|наш||我们的||||हमारा|আমাদের|||bizim|nia|meidän|
 min|||spa:por:menos, fra:moins, rus:ме́нее (méneje), eng:min-|less||menos|||||||||||||malpli|vähemmän|mniej
 min di fen|||spa:minoría, por:minoria, fra:minorité, eng:minority|minority||minoría||||||||||||||vähemmistö|mniejszość
 min ka basa||||too little||demasiado poco|||||||||||||maltro|liian vähän|zbyt mało
@@ -2621,7 +2621,7 @@ mum melon|bio|Benincasa hispida||winter melon (wax gourd, ash gourd)||calabaza c
 Mumbai|site|||Mumbai (Bombay)|||||||||||||||||Bombaj (Mumbaj)
 mumu|bio||(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|cow||vaca (toro)|||||||||||||bovo|nauta (lehmä)|krowa
 mumu nama||||beef||carne de vaca|||||||||||||bovaĵo|lehmän liha|wołowina
-mun|||kor:문 (mun), yue:門 (mun), jpn:門 (mon), zho:门 (mén)|door (gate, portal)||puerta|||||門||||||||pordo|ovi (portti, veräjä)|drzwi, brama, portal
+mun|||zho:门 (mén), yue:門 (mun4), jpn:門 (mon), kor:문 (mun)|door (gate, portal)||puerta|||||門||||||||pordo|ovi (portti, veräjä)|drzwi, brama, portal
 mungus|||tel:ముంగిస (muṅgisa), mar:मुंगूस (muṅgūs), eng:mongoose, spa:mangosta, por:mangusto, fra:mangouste, rus:мангу́ст (mangúst), jpn:マングース (mangūsu)|mongoose||mangosta||||||||||||||mangusti|mangusta
 mur|||fra:mur, spa:por:muro + deu:Mauer, pol:mur|wall (structure for delimitation)|mur|muro (muralha)|muro (muralha)|стена (вал)|جِدَار‎|墙壁|壁||tường|दीवार|দেওয়াল|dinding|kuta|duvar|vando|seinä (muuri)|mur, ściana
 mur kaguji||||wallpaper|papier peint|papel tapiz|papel de parede|обои||壁纸 (墙纸)|壁紙|벽지||दीवारी-कागज||||duvar kâğıdı|tapeto|tapetti|tapeta
@@ -2960,10 +2960,10 @@ pedal|||deu:eng:spa:por:tur:pedal, fra:pédale, rus:педаль (pedal'), pol:p
 pedal sikle||||bicycle (pedal bike)||bicicleta||||||||||||||polkupyörä|rower z pedałami
 pede|||ben:পাদ (pad), hin:पाद (pād), spa:pedo, por:peido, fra:pet, rus:пердение (perdeniye)|fart (flatulence)|pet (vesse)|pedo|peido|пердение||屁|屁|방귀|đánh rắm|पाद||kentut|shuzi|osuruk|furzo|pieru|pierdnięcie
 pei|||eng:pay, fra:paye, + zho:费 (fèi)|payment||pago||||||||||||||maksu|zapłata, opłata
-pei gung||||profession (job, occupation, trade, vocation)|profession (métier)|profesión (ocupación)|profissão|профессия|مِهْنَة‎|职业|職業|직업|nghề nghiệp|पेशा|পেশা|profesi||meslek|metiero|ammatti|profesja, zajęcie, zawód
-pei gung di||||professional (occupational, career)||profesional (de carrera)||профессиона́льный|||プロフェッショナル|||||ahli||profesyonel|||
-pei gung ja||||professional (pro)||||профессионал (профи)|||プロフェッショナル|||||||||ammattilainen|
-pei gung jiu||||career (professional life)|carrière|carrera|carreira|карьера|‎||キャリア|||||karier|shughuli|kariyer|||
+pei gong||||profession (job, occupation, trade, vocation)|profession (métier)|profesión (ocupación)|profissão|профессия|مِهْنَة‎|职业|職業|직업|nghề nghiệp|पेशा|পেশা|profesi||meslek|metiero|ammatti|profesja, zajęcie, zawód
+pei gong di||||professional (occupational, career)||profesional (de carrera)||профессиона́льный|||プロフェッショナル|||||ahli||profesyonel|||
+pei gong ja||||professional (pro)||||профессионал (профи)|||プロフェッショナル|||||||||ammattilainen|
+pei gong jiu||||career (professional life)|carrière|carrera|carreira|карьера|‎||キャリア|||||karier|shughuli|kariyer|||
 pelmen|||rus:пельмень (pel'men'), pol:pielmeni, eng:pelmeni|dumpling (ravioli, pelmeni)||empanada (pelmeni)||||饺子||||||||||myky (pelmeni, ravioli)|kluska, knedel, pieróg; ravioli, pelmeni
 pelpel|bio|Lepidoptera|por:borboleta, fra:papillon, ita:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), swa:kipepeo, yor:labalábá, tgl:paruparo|butterfly (moth)|papillon|mariposa (palomilla)|borboleta|бабочка (мотылёк)|فراشة|蝴蝶|チョウ|||तितली (शलभ, पतंगा)||kupu-kupu|kipepeo|kelebek|papilio|perhonen|motyl
 pende|||eng:pendant, por:fra:pender|hang (dangle)||colgar||||||||||||||roikuttaa|powiesić, wieszać
@@ -3461,16 +3461,16 @@ shefe di||||main (principal)||principal||||||||||||||pää-|główny
 shefe minister||||prime minister||primer ministro|||||||||||||ĉefministro|pääministeri (suurvisiiri)|premier
 sheku|||zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)|stone (piece of rock)|pierre|piedra|pedra|камень (камешек)||石 (岩)|||||||||ŝtono|kivi (hippu)|kamień (kawał skały)
 sheku jang ja||||mason (stonemason, stonecutter)||albañil (mampostero, cantero)|||||石匠||||||||||kamieniarz
-sheng|||zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|victory (win, triumph)||victoria|||||||||||||venko|voitto|zwycięstwo, wygrana
-sheng bai||||outcome (victory or defeat)||||||勝敗|勝敗||||||||||
+shenga|||zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|victory (win, triumph)||victoria|||||||||||||venko|voitto|zwycięstwo, wygrana
+shenga bai||||outcome (victory or defeat)||||||勝敗|勝敗||||||||||
 shi|||zho:氏 (shì), yue:氏 (si6), jpn:氏 (-shi), kor:씨 (ssi) + may:si + hin:श्री (śrī), ben:শ্রী  (śri)|Mx. (Mr. or Ms.)|||||||さん (氏)|||श्री|শ্রী|||||herra tai rouva|
 shia|||ara: شِيعَة (šīʿa), heb: סִיעָה (si'á) + zho:系 (xì)|faction (clique)|faction (clique)|facción|facção|фракция (клика)|شيعة|派系||||||||||porukka (kuppikunta, lohko, siipi)|
 shia islam din||||Shia Islam (Shi’ism)|chiisme|chiismo (chía)|xiismo|шиизм|الشِّيعَة‎|什叶派|シーア派|||शिया|||||ŝijaismo|šiialaisuus|szyism
 shifu|||eng:fra:sifu, zho:师傅 (shīfu), yue:師傅 (si1 fu6)|master (sensei, sifu)||maestro (profesor)||||师傅|先生||||||||||mistrz (sensei)
 shikaya|||ara: شِكَايَة‎ (šikāya), hin:शिकायत (śikāyat), fas: شکایت‎ (šekâyat), tur:şikayet + fra:chicaya|complain (lament)|plainte (lamentation)|queja (lamento)|queixa (lamento, reclamação)|жалоба|شِكَايَة‎|怨言|不平 (不満)|불평 (불만)|phàn nàn|शिकायत|অভিযোগ||lalamia|şikayet|plendo|valitus (reklamaatio)|
 shike|||eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|elegant (chic)||elegante (chic)||||||||||||||elegantti|elegancki, szykowny
-shim|||kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim|heart||corazón||||心|心||||||||koro|sydän|serce
-shin|||zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|belief (faith, creed)||creencia (fe)|||||||||||||kredo|usko (luottamus)|wiara, wierzenie, kredo
+sim|||zho:心 (xīn), yue:心 (sam1), hak:心 (sîm),  jpn:心 (shin), kor: 심 (shim), vie:tim|heart||corazón||||心|心||||||||koro|sydän|serce
+sina|||zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|belief (faith, creed)||creencia (fe)|||||||||||||kredo|usko (luottamus)|wiara, wierzenie, kredo
 shindau din|||jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)|Shintoism||sintoísmo||||||||||||||sintolaisuus|shintoizm, sintoizm
 shipi|||zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)|wet (damp, moist)|mouillé|mojado|molhado|||湿|湿っぽい|||गीला (नम)||||||märkä (kostea)|mokry (wilgotny)
 shir|||heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|poem||poema||||诗|詩|시|||||shairi|şiir|poemo|runo|poemat
@@ -3759,7 +3759,7 @@ tika|||fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)|p
 tikete|||eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|ticket|billet|boleto|bilhete|билет||票||||टिकट||tiket||bilet||lippu (piletti)|bilet
 tim|||eng:team, deu:Team, swa:timu, hin:टीम (ṭīm), jpn:チーム (chīmu), kor:팀 (tim)|team|équipe|equipo||команда||队||||||||||joukkue (tiimi)|drużyna
 Timor|desha|||Timor||Timor||||||||||||||Timor|Timor
-ting|||zho:停 (tíng), yue:停 (ting4), wuu:停 (din2), vie:đình|stop||parada (alto)|||||||||||||halto|pysähdys|stop; przerwa, zatrzymanie
+halte|||deu:eng:halt, fra:halte, spa:por:alto, may:halte|stop (halt)|halte|parada (alto)||||||||||halte|||halto|pysähdys|stop; przerwa, zatrzymanie
 tipe|||eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|type (kind, genre)||tipo (género)|||||種類|||||||||tyyppi (laji, genre)|typ (rodzaj, gatunek)
 tire|||spa:por:tirar, fra:tirer, eng:tear, tur:tire, may:tarik|pull (draw, drag)||tirar|||||||||||||tiri|vetää (kiskoa)|ciągnąć
 tire dara||||rip current||corriente de resaca||отбойное течение|||離岸流||||||||||prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)
@@ -3816,8 +3816,8 @@ tul|||eng: tool, kor: 툴 (tul), jpn: ツール (tsūru), Zulu: ithuluzi|tool||h
 Tule||||Thule|Thulé|||Туле|||||||||||Tuleo|Thule|
 tule yum|yum 069|Tm|eng:thulium, fra:thulium, spa:tulio, por:túlio, rus:тулий, zho:铥 (diū), jpn:ツリウム, kor:툴륨, vie:tuli, hin:थुलियम, ben:থুলিয়াম, may:tulium, swa:thuri, ara: ثليوم|thulium|thulium|tulio|túlio|тулий|ثليوم|铥|ツリウム|툴륨|tuli|थुलियम|থুলিয়াম|tulium|thuri|tulyum|tulio|tulium|tul
 tulpan|bio|Tulipa|eng:tulip, spa:tulipá, por:túlipa, nld:tulp, rus:тюльпан (t’ul’pan), ara:توليب (tūlīb), hin:ट्यूलिप (ṭyūlip), may:tulip, jpn:チューリップ (chūrippu)|tulip||tulipán||||||||||||||tulppaani|tulipan
-tumen|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
-tumen su||||your|votre|vuestro|vosso|ваш||你们的|||||||||via|teidän|
+tumon|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
+tumon su||||your|votre|vuestro|vosso|ваш||你们的|||||||||via|teidän|
 tundra|||eng:spa:por:tur:tundra, rus:тундра (tundra), ara:تندرا‎ (tundrā), hin:टुंड्रा (ṭuṇḍrā), jpn:ツンドラ (tsundora)|tundra||tundra|||||||||||||tundro|tundra|tundra
 tundra shan||||fell||||фьельды||||||||||||tunturi|
 tunel|||eng:fra:tunnel, spa:por:túnel, rus:тоннель (tonnel’), tur:tünel, jpn:トンネル (tonneru), 터널 (teoneol)|tunnel||túnel|||||||||||||tunelo|tunneli|tunel
@@ -3884,9 +3884,9 @@ Valis e Futuna nesi|desha|WF||Wallis and Futuna Islands||Wallis y Futuna||||||||
 valu|||eng:value, spa:por:valor, fra:valeur|value (worth)|valeur|valor|valor (valia)|ценность|قِيمَة‎|价值|価値|가치|giá trị|मूल्य (क़ीमत)|মূল্য|nilai|thamani|değer (kıymet)|valoro|arvo|wartość
 vampir|||deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|vampire|vampire|vampiro|vampiro|вампир (упырь)||吸血鬼|吸血鬼|흡혈귀|ma cà rồng|पिशाच||||||vampyyri|wampir
 vampir ohtopus|bio|Vampyroteuthis infernalis||vampire squid|vampire des abysses|calamar vampiro||адский вампир|||コウモリダコ|||||||||vampyyritursas|wampirzyca piekielna (wampirnica)
-van|||zho:玩 (wán), yue:玩 (waan4), cjy:玩 (van1), kor:완 (wan)|fun (amusement)||diversión||||娱乐|楽しみ (娯楽)||||||||amuzo|huvi (hauskuus)|zabawa, rozrywka
-van di||||funny (amusing)||divertido|||||楽しい||||||||amuza|hauska (huvittava)|zabawny
-van gi||||toy (plaything)||jugete||игрушка|||おもちゃ|||||||||leikkikalu (lelu)|
+vanu|||zho:玩 (wán), yue:玩 (waan4), cjy:玩 (van1), kor:완 (wan)|fun (amusement)||diversión||||娱乐|楽しみ (娯楽)||||||||amuzo|huvi (hauskuus)|zabawa, rozrywka
+vanu di||||funny (amusing)||divertido|||||楽しい||||||||amuza|hauska (huvittava)|zabawny
+vanu gi||||toy (plaything)||jugete||игрушка|||おもちゃ|||||||||leikkikalu (lelu)|
 vanadi yum|yum 023|V|eng:vanadium, fra:vanadium, spa:vanadio, por:vanádio, rus:ванадий, zho:钒 (fán), jpn:バナジウム, kor:바나듐, vie:vanađi, hin:वनेडियम, ben:ভ্যানাডিয়াম, may:vanadium, swa:vanadi, ara: فناديوم|vanadium|vanadium|vanadio|vanádio|ванадий|فناديوم|钒|バナジウム|바나듐|vanađi|वनेडियम|ভ্যানাডিয়াম|vanadium|vanadi|vanadyum||vanadiini|wanad
 vanila|||eng:vanilla, spa:vainilla, por:baunilha, fra:vanille, rus:ваниль (vanil’)|vanilla||vainilla||||||||||||||vanilja|wanilia
 Vanuatu|desha|VU||Vanuatu||Vanuatu||||||||||||||Vanuatu|Vanuatu
@@ -3999,8 +3999,8 @@ yam kamar||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
 yam she||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
 yam sukar gana|bio|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
 yam yau||||hunger|faim|hambre|fome|голод|جوع‎|饥饿|飢え|굶주림|đói|भूख|ক্ষুধা|lapar|njaa|açlık|malsato|nälkä|głód
-yamen|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
-yamen su||||their|leur|||их||他们的||||उनका|||||ilia|heidän|
+yamon|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
+yamon su||||their|leur|||их||他们的||||उनका|||||ilia|heidän|
 yang|||zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|kind (style, sort, type)||variedad (tipo, estilo)|||||タイプ||||||||speco (tipo, stilo)|laji (tyyppi, tyyli)|rodzaj, typ, styl
 Yapetus|planete 6 lun 8|||Iapetus||||||||||||||||Japetus|
 yasen|bio|Fraxinus|rus:ясень (yasen’), pol:jesion|ash tree|frêne|fresno|freixo|ясень||白蜡树|秦皮|||||||dişbudak||saarni|jesion
@@ -4083,8 +4083,8 @@ zoku|||wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế t�
 zoku di||||continuous (analog)|continu (analogique)|continuo (analógico)|analógico|||指针式的|アナログ|||||||||jatkuva (analoginen)|ciągły (analogowy)
 zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
 zona|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
-zong|||zho:樁 (zhuāng), yue:樁 (zong1), nan:樁 (zuang1), jpn:樁 (shō), vie:thưởng|post (stake, peg, skewer)|pieu (poteau)|poste (estaca, palo)|poste (estaca)|кол||桩|杭|||||||||tanko (pinna, tolppa, paalu)|słup (pal, kołek)
-zong minte|bio|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
+moka kane||||stake (stick, peg, skewer)|pieu|estaca|estaca|палка|||杭|||छड़ी (लाठी)|||||paliso|keppi (puukeppi)|słup (pal, kołek)
+kane minte|bio|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
 zou|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
 zou agro shuta||||animal husbandry|élevage||||||畜産|||||||||karjanhoito|hodowla zwierząt
 zou bagi||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园|動物園|동물원|thảo cầm viên|चिड़ियाघर|চিড়িয়াখানা|kebun binatang|bustani ya wanyama|hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)
@@ -4108,3 +4108,4 @@ zumarde|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (em
 ||||rainy|pluvieux|lluvioso (pluvioso)|chuvoso (pluvioso)|дождливый||多雨||||बरसाती||||yağmurlu|pluva|sateinen|deszczowy
 ||||rain (pour down)||llover||дожди́ть|||雨が降る|||||||||sataa|padać (lać)
 ||||adversary (antagonist, opponent)|adversaire (antagoniste, ennemi)|adversario (oponente)|adversário|противник||敌手|敵 (相手)||||প্রতিপক্ষ|||rakip||vastustaja (vihollinen)|przeciwnik (antagonista)
+bus halte||||bus stop|arrêt de bus|parada de autobús|parada de ônibus|автобусная остановка||汽车站|バス停|정류장|trạm xe buýt|||halte bis (perhentian bas)|||bushaltejo|bussipysäkki (linja-autopysäkki)|przystanek autobusowy
