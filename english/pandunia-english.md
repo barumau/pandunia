@@ -374,9 +374,9 @@ be supra - surpass (go over)
 be tam - covet  
 be tele loka - teleport  
 be teza - intensify  
-be ting - stop (halt)  
+be halte - stop (halt)  
 be turbe - be bothered by (bother to, take the trouble to)  
-be van - enjoy (play)  
+be vanu - enjoy (play)  
 be vide - be seen  
 be yong liga - merge (fuse)  
 be zai - appear  
@@ -621,6 +621,7 @@ daku ja - getter (receiver, recipient)
 daku shitu - gains and losses (pros and cons)  
 dalil - proof (evidence, proof, demonstration, testimony)  
 dama gem - checkers (draughts)  
+dan - rank (grade, dan)  
 dane - particle (grain, bullet)  
 dane sekur - bulletproof  
 dang - ring (toll, clang)  
@@ -672,6 +673,8 @@ defa bano - shield
 defa ja - defender  
 defa kaske - armor (shielding)  
 Deimos - Deimos  
+dele - wait (delay)  
+dele do - wait for  
 demo - people (population)  
 demo di - public  
 demo grafi - demography  
@@ -682,7 +685,6 @@ demo multi ta - population
 demon - demon  
 den - day (24 hours)  
 den loge - diary (daily log)  
-deng - wait  
 des - ten (deca-, 10)  
 des kilo - ten thousand  
 desen - drawing (design)  
@@ -977,6 +979,7 @@ fa halal - allow (permit)
 fa hapu - fit (adapt, adjust, make suitable)  
 fa haram - forbid (ban, disallow)  
 fa has - distinguish  
+fa hen - hate (detest)  
 fa hisabu - calculate  
 fa hogo - burn (cause to burn)  
 fa in - enter (insert, put in)  
@@ -988,7 +991,7 @@ fa jela - imprison (jail)
 fa jene - give birth (beget, generate, breed)  
 fa jin - put forward (advance, progress)  
 fa jude - judge  
-fa jung - center (concentrate)  
+fa jong - center (concentrate)  
 fa kai - open  
 fa kanal - channel (conduct)  
 fa kancha dake - glaze (vitrify)  
@@ -1102,7 +1105,7 @@ fa sela - advise (recommend)
 fa sense - sense (perceive, detect)  
 fa sharti - stipulate  
 fa shibai - lose (fail, miss, be defeated)  
-fa shin - believe  
+fa sina - believe  
 fa shipi - wet (dampen, moisten)  
 fa shite - defecate (shit)  
 fa shofer - drive (steer)  
@@ -1134,14 +1137,14 @@ fa tense - tighten
 fa tercha - tilt (skew)  
 fa tese - argue (claim)  
 fa teste - try (attempt)  
-fa ting - stop (halt)  
+fa halte - stop (halt)  
 fa transe - transit (pass through or across)  
 fa trati - agree (make an agreement)  
 fa truke - trick (cheat, deceive)  
 fa turbe - bother (annoy, disturb, irritate)  
 fa un she - unite (merge, integrate)  
 fa valu - value (evaluate)  
-fa van - amuse (entertain)  
+fa vanu - amuse (entertain)  
 fa ver - verify (authenticate)  
 fa verse - turn around (flip)  
 fa vise - substitute (replace)  
@@ -1478,13 +1481,13 @@ gun - army
 gun jan - soldier  
 gun raja - generalissimo (shogun)  
 gun raja desha - shogunate  
-gung - work (labour, job)  
-gung - work  
-gung ja - worker  
-gung kan - workshop (factory)  
-gung meza - desk  
-gung mise - submit (present)  
-gung shula ja - apprentice  
+gong - work (labour, job)  
+fa gong - work  
+gong ja - worker  
+gong kan - workshop (factory)  
+gong meza - desk  
+gong mise - submit (present)  
+gong shula ja - apprentice  
 guru - guru (teacher, sage)  
 guste - taste (flavor)  
 guste ka - taste like  
@@ -1572,7 +1575,6 @@ hem - ponder (think, contemplate, consider, regard)
 hem… - hmm…  
 hema - tent  
 hen - hatred (hate, resentment, odium)  
-hen - hate (despise)  
 hero - hero  
 hero di - heroic  
 hero kata - saga (heroic tale)  
@@ -1588,6 +1590,7 @@ hima rose - frost
 Himalaya - Himalayas  
 hin - lack (miss, be without)  
 hin di - lacking (-less)  
+hina - henna (alcanna)  
 hindi yum - indium  
 Hindu - Hindu  
 Hindu basha - Hindi (Hindustani)  
@@ -1804,7 +1807,7 @@ Jung Afrika Komun krati - Central African Republic
 jung di - central (middle)  
 jung fon - vowel  
 jung shula kan - secondary school  
-Junguo - China  
+Jungoku - China  
 jupe - skirt  
 Jupiter - Jupiter  
 jus - juice  
@@ -1888,7 +1891,7 @@ kane pang - baguette
 kanga - comb  
 kangaru - kangaroo  
 kanjar - dagger  
-kankuate - kumquat  
+gingam - kumquat  
 kano - canoe  
 kanon - classic (canon)  
 kanon di - classic (authoritative, definitive)  
@@ -1917,6 +1920,7 @@ karchof - globe artichoke
 kardon - thistle  
 kardon karchof - artichoke thistle (cardoon)  
 karga - charge (burden, load, weight)  
+kari - curry  
 Karibe - Caribbean  
 karibu - near (close, almost)  
 karibu ta - proximity  
@@ -2048,7 +2052,7 @@ koloni - colony (settlement)
 koloni ja - colonist  
 koloni sim - colonialism  
 koloni sim ja - colonialist  
-kolum - column (pillar, pole, post)  
+kolum - pillar (column, pole, post)  
 koma - comma  
 komal - soft  
 Komoro nesi - Comoros  
@@ -2062,7 +2066,7 @@ kon basha - common language
 kon bon - match (fit, suit, go well together)  
 kon forma - conform (fit, mold)  
 kon funsi bil - compatible (supported)  
-kon gung - collaborate (work together)  
+kon gong - collaborate (work together)  
 kon pasi - compassion  
 kon sabe - information (communicable knowledge)  
 kon sana sim - communism  
@@ -2373,7 +2377,7 @@ manera - behavior (manners)
 manera - behave (act)  
 manete - magnet  
 manete di - magnetic  
-mang - busy (occupied)  
+mangu - busy (occupied)  
 mangan - manganese  
 mango - mango  
 mangus - mangosteen  
@@ -2436,7 +2440,6 @@ maya - Maya
 Mayote - Mayotte  
 maze - sock (stocking)  
 me - -th (ordinal suffix)  
-me poze - rank (position in an ordered list)  
 meche - match (contest)  
 medal - medallion (medal)  
 medan - field (square, plaza, maidan)  
@@ -2472,7 +2475,7 @@ memo - memory (recollection)
 memo bina - monument (memorial)  
 memo note - memorandum (memo)  
 memo tehni - mnemotechny  
-men - one (you, they, impersonal pronoun)  
+mon - one (you, they, impersonal pronoun)  
 mendelevi yum - mendelevium  
 meninge - meninx (meninges)  
 meninge flame - meningitis  
@@ -2512,7 +2515,7 @@ meza tela - tablecloth
 meza topo - plateau (tableland)  
 mi - I (me)  
 mi su - my  
-mien - noodle  
+men - noodle  
 migra - migration (moving)  
 mikro bio - microorganism (microbe)  
 mikro bio logi - microbiology  
@@ -2526,8 +2529,8 @@ milke kardon - milk thistle
 mima - mimic (imitate)  
 mima ja - imitator (mime)  
 Mimas - Mimas  
-mimen - we  
-mimen su - our  
+mimon - we  
+mimon su - our  
 min - less  
 min di fen - minority  
 min ka basa - too little  
@@ -2951,10 +2954,10 @@ pedal - pedal
 pedal sikle - bicycle (pedal bike)  
 pede - fart (flatulence)  
 pei - payment  
-pei gung - profession (job, occupation, trade, vocation)  
-pei gung di - professional (occupational, career)  
-pei gung ja - professional (pro)  
-pei gung jiu - career (professional life)  
+pei gong - profession (job, occupation, trade, vocation)  
+pei gong di - professional (occupational, career)  
+pei gong ja - professional (pro)  
+pei gong jiu - career (professional life)  
 pelmen - dumpling (ravioli, pelmeni)  
 pelpel - butterfly (moth)  
 pende - hang (dangle)  
@@ -3209,6 +3212,10 @@ ritim - rhythm (beat)
 rivo - river (stream)  
 rivo kinar - river bank  
 robote - robot (bot)  
+rode - rose  
+rode rang - pink (rosy)  
+rode salmon - pink salmon  
+rode yum - rhodium  
 roke - rock (sway, tilt)  
 roke kursi - rocking chair  
 roke muzika - rock music  
@@ -3235,10 +3242,6 @@ rota raite - clockwise
 rota she - rotor (rotator)  
 rota tafun - cyclone (hurrican, tornado, typhoon)  
 rota van gi - top (spinning top)  
-roza - rose  
-roza rang - pink (rosy)  
-roza salmon - pink salmon  
-roza yum - rhodium  
 Ruanda - Rwanda  
 rubi - red  
 rubi - ruby  
@@ -3324,7 +3327,7 @@ sama hal - weather
 sama kinar - horizon  
 samari yum - samarium  
 Samoa - Samoa  
-sana - production  
+sana - manufacturing (production, industry)  
 sana basha - artificial language (conlang)  
 sana di - artificial  
 sana ja - maker (manufacturer)  
@@ -3450,16 +3453,16 @@ shefe di - main (principal)
 shefe minister - prime minister  
 sheku - stone (piece of rock)  
 sheku jang ja - mason (stonemason, stonecutter)  
-sheng - victory (win, triumph)  
-sheng bai - outcome (victory or defeat)  
+shenga - victory (win, triumph)  
+shenga bai - outcome (victory or defeat)  
 shi - Mx. (Mr. or Ms.)  
 shia - faction (clique)  
 shia islam din - Shia Islam (Shi’ism)  
 shifu - master (sensei, sifu)  
 shikaya - complain (lament)  
 shike - elegant (chic)  
-shim - heart  
-shin - belief (faith, creed)  
+sim - heart  
+sina - belief (faith, creed)  
 shindau din - Shintoism  
 shipi - wet (damp, moist)  
 shir - poem  
@@ -3748,7 +3751,7 @@ tika - piece (nugget, tikka)
 tikete - ticket  
 tim - team  
 Timor - Timor  
-ting - stop  
+halte - stop (halt)  
 tipe - type (kind, genre)  
 tire - pull (draw, drag)  
 tire dara - rip current  
@@ -3805,8 +3808,8 @@ tul - tool
 Tule - Thule  
 tule yum - thulium  
 tulpan - tulip  
-tumen - you all  
-tumen su - your  
+tumon - you all  
+tumon su - your  
 tundra - tundra  
 tundra shan - fell  
 tunel - tunnel  
@@ -3873,9 +3876,9 @@ Valis e Futuna nesi - Wallis and Futuna Islands
 valu - value (worth)  
 vampir - vampire  
 vampir ohtopus - vampire squid  
-van - fun (amusement)  
-van di - funny (amusing)  
-van gi - toy (plaything)  
+vanu - fun (amusement)  
+vanu di - funny (amusing)  
+vanu gi - toy (plaything)  
 vanadi yum - vanadium  
 vanila - vanilla  
 Vanuatu - Vanuatu  
@@ -3988,8 +3991,8 @@ yam kamar - dining room
 yam she - food (meal)  
 yam sukar gana - duruka  
 yam yau - hunger  
-yamen - they  
-yamen su - their  
+yamon - they  
+yamon su - their  
 yang - kind (style, sort, type)  
 Yapetus - Iapetus  
 yasen - ash tree  
@@ -4072,8 +4075,8 @@ zoku - continue (go on, keep on, carry on, proceed, still, yet)
 zoku di - continuous (analog)  
 zombi - zombie  
 zona - belt (zone)  
-zong - post (stake, peg, skewer)  
-zong minte - spearmint  
+moka kane - stake (stick, peg, skewer)  
+kane minte - spearmint  
 zou - animal  
 zou agro shuta - animal husbandry  
 zou bagi - zoo (zoological garden)  
@@ -4097,3 +4100,4 @@ zumarde - emerald
  - rainy  
  - rain (pour down)  
  - adversary (antagonist, opponent)  
+bus halte - bus stop  

@@ -100,8 +100,8 @@ Amerikka - Amerika
 amerikkalainen - Amerika di  
 amhara (etiopialainen kansa ja kieli) - Amara  
 amiraali - hai amir ja  
-ammatti - pei gung  
-ammattilainen - pei gung ja  
+ammatti - pei gong  
+ammattilainen - pei gong ja  
 ampeeri - amper  
 ampulli - ampul  
 anaalinen - anus di  
@@ -275,6 +275,7 @@ budjetti - bujete
 Bulgaria - Bolgaria  
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
+bussipysäkki (linja-autopysäkki) - bus halte  
 ####C - C  
 Cabo Verde - Kabu Verde  
 Cayman-saaret - Kaiman nesi  
@@ -291,6 +292,7 @@ Cookin saaret - Kuke nesi
 copernicium - koperni yum  
 Costa Rica - Kosta Rika  
 curium - kuri yum  
+curry (karri) - kari  
 ####D - D  
 darmstadtium - darmestadi yum  
 darwinismi - darvin sim  
@@ -577,17 +579,17 @@ harvoin - nadir mar
 hasis - hashish  
 hassium - hese yum  
 haureus (uskottomuus) - zina  
-hauska (huvittava) - van di  
+hauska (huvittava) - vanu di  
 hauta - gabur  
 hautakivi - gabur sheku  
 hautausmaa - gabur bagi  
 Havaiji - Havai  
 Havaijin saaret - Havai nesi  
-he - yamen  
+he - yamon  
 hedelmä - frute  
 hedelmätarha - frute bagi  
 hei (haloo) - halo  
-heidän - yamen su  
+heidän - yamon su  
 heijastaa (peilata) - mira  
 heijastaa kuvia (projisoida) - lanse grafi  
 heikko - debil  
@@ -610,6 +612,7 @@ henkilö - jan
 henkilö jota asia määrittelee - ka  
 henkilökohtainen (privaatti) - auto di  
 henkinen (psyykkinen) - ruhu di  
+hennapensas - hina  
 heprea - ibri  
 herkullinen (nami) - bon guste di  
 hermo - nerve  
@@ -698,7 +701,7 @@ huuli - labi
 huume - droge  
 huumori - yumor  
 huutaa - krita  
-huvi (hauskuus) - van  
+huvi (hauskuus) - vanu  
 hygieeninen - salu safa di  
 hygienia (puhtaus) - salu safa ta  
 hyi! (pyh!) - fui  
@@ -1121,6 +1124,7 @@ Kenia - Kenya
 kenkä - sapatu  
 kenttä (aukio) - medan  
 kenttävuode - kampe bede  
+keppi (puukeppi) - moka kane  
 keramiikka - pote shuta  
 kerho (klubi) - klube  
 kerma - krem  
@@ -1139,7 +1143,7 @@ keskipäivä (puolipäivä) - medi dia
 keskittyminen (keskittymä) - fokus  
 keskittyä (olla keskellä) - jung  
 keskittää - fa fokus  
-keskittää - fa jung  
+keskittää - fa jong  
 keskiverto (keski-) - medi  
 keskiviikko - var tri  
 keskiyö (puoliyö) - medi noche  
@@ -1183,7 +1187,7 @@ kiihdyttää (voimistuttaa) - be teza
 kiihkeä (väkevä, voimakas, vahva, kova) - teza  
 kiillottaa - foto frike  
 kiiltävä (valoa heijastava) - foto mira di  
-Kiina - Junguo  
+Kiina - Jungoku  
 kiinalainen tai japanilainen kirjoitusmerkki - Han zi  
 kiinnittää - fa fikse  
 kiinnitys - fikse  
@@ -1193,7 +1197,7 @@ kiinnostus (mielenkiinto) - sabe vol
 kiinteä - gati mate di  
 kiinteä aine - gati mate  
 kiirehtiä - ajila  
-kiireinen - mang  
+kiireinen - mangu  
 kiitos - shukra  
 kiittää - fa shukra  
 kiivetä - eskale  
@@ -1228,7 +1232,7 @@ kirkko - eglisa
 kirsikka - cheri  
 kirves - futau  
 kissa - mau  
-kisälli - gung shula ja  
+kisälli - gong shula ja  
 kitara - gitar  
 kitkerä (karvas) - kali guste  
 kivennäinen (mineraali) - kuang  
@@ -1361,7 +1365,7 @@ kulua (vieriä) - si dura
 kuluttaa (viettää aikaa) - fa dura  
 kumi - gomu  
 kumina - karavi  
-kumkvatti - kankuate  
+kumkvatti - gingam  
 kummitus (aave) - fantom  
 Kungfutse - Kong Fuzi  
 Kungfutselaisuus - kong fuzi sim  
@@ -1540,8 +1544,8 @@ lehti (sanomalehti) - gazeta
 lehtisalaatti - letus  
 leijona - singa  
 leikepöytä - gata glu bano  
-leikkikalu (lelu) - van gi  
-leikkiä (pitää hauskaa) - be van  
+leikkikalu (lelu) - vanu gi  
+leikkiä (pitää hauskaa) - be vanu  
 leipoa - baka  
 leipomo - baka kan  
 leipuri - baka ja  
@@ -1808,7 +1812,7 @@ Mauritius - Moris
 mauste - masala  
 maya (mayaintiaani) - maya  
 Mayotte - Mayote  
-me - mimen  
+me - mimon  
 media - medi she  
 meduusa - hai jele  
 megawatti (MW) - mega vate  
@@ -1817,7 +1821,7 @@ mehiläinen tai ampiainen - fong
 mehiläispesä - fong nide  
 mehiläispesä - medu fong nide  
 mehu - jus  
-meidän - mimen su  
+meidän - mimon su  
 meitnerium - meitner yum  
 mekko (tunika) - tunika  
 Meksiko - Mehiko  
@@ -2091,7 +2095,7 @@ nuorukainen - joven jan
 nuoruus - joven ta  
 nurmikko (ruohikko) - gazo medan  
 nussia (panna) - choda  
-nuudeli - mien  
+nuudeli - men  
 nykyinen (tämänhetkinen) - zai zaman di  
 nyrkkeilijä - bokse ja  
 nyrkkeily - bokse  
@@ -2107,7 +2111,7 @@ näyttelijä - rol ja
 näyttää jltkn - be rupa  
 näytös (esitys, show) - shou  
 ####O - O  
-odottaa - deng  
+odottaa - dele do  
 oganesson - oganeson  
 ohitettu (mennyt) - pas  
 ohjaaja (pilotti, luotsi) - pilote  
@@ -2520,15 +2524,15 @@ puuvilla - goton
 pyhä - sante  
 pyhä kirja (pyhät kirjoitukset) - sante kanon  
 pylly (takapuoli, pakarat) - pigu  
-pylväs (pilari) - kolum  
+pylväs (pilari, tolppa) - kolum  
 pyramidi - piram  
 pyrotekniikka - hogo tehni  
 pyssy - pau gi  
 pysty (seisova) - lipa di  
 pystysuuntainen - gau tal  
-pysähdys - ting  
-pysähtyä - be ting  
-pysäyttää - fa ting  
+pysähdys - halte  
+pysähtyä - be halte  
+pysäyttää - fa halte  
 pyyheliina - gan tela  
 pyynti (metsästys, kalastus) - saide  
 pyyntö - ching  
@@ -2650,7 +2654,7 @@ ristikko - krus lin
 rituaali (seremonia, riitti) - puja riti  
 rivinvaihto - lin parche  
 robotti - robote  
-rodium - roza yum  
+rodium - rode yum  
 roentgenium - rentegen yum  
 rohkea (urhea, uljas) - bravo  
 roikuttaa - pende  
@@ -2693,7 +2697,7 @@ rutenium - rus yum
 rutherfordium - ruterfor yum  
 ruukku (kannu, maljakko, karahvi) - jara  
 ruumiillinen - badan di  
-ruusu - roza  
+ruusu - rode  
 ruuti - barude  
 ruuvi - vita  
 ryhmä (työryhmä, yhtye, bändi) - banda  
@@ -2848,7 +2852,7 @@ siirappi - shirope
 siirtää taakse - pos poza  
 siitin (penis) - penis  
 siivooja - safa ja  
-sija (paikka järjestyksessä) - me poze  
+sija (taso, ranking, dan) - dan  
 sijaita - be loka  
 sika (possu) - goro  
 sikhi - siki din ja  
@@ -3015,7 +3019,7 @@ Svalbard - Sualbarde
 Sveitsi - Suise  
 Swazimaa - Suati  
 syaani - sian  
-sydän - shim  
+sydän - sim  
 syksy (syys) - pade mosim  
 sylkeä - tuh  
 symmetria - sam metre  
@@ -3103,8 +3107,7 @@ tammikuu - mes un
 tammipeli - dama gem  
 tanakh - tanah  
 tankki (säiliö) - tanke  
-tanko (pinna, tolppa, paalu) - zong  
-tanko (sauva, patukka) - kane  
+tanko (pinna, sauva, patukka) - kane  
 Tansania - Tanzania  
 Tanska - Danske desha  
 tanskalainen - Danske  
@@ -3149,21 +3152,21 @@ tavallinen - ada di
 tavanomainen (perinteinen) - suna di  
 tavata - miti  
 tavu - loga fen  
-te - tumen  
+te - tumon  
 tee - chai  
 teehuone (kahvila) - chai kan  
 teekuppi - chai kupa  
 teelusikka (pikku lusikka) - chai chamacha  
 teepannu - chai pote  
-tehdas (paja) - gung kan  
+tehdas (paja) - gong kan  
 tehdä (toimia) - fa  
 tehdä (valmistaa) - fa sana  
 tehdä loppuun (saada valmiiksi) - pul fina  
 tehdä täydelliseksi - fa pul bon  
 tehdä valmiiksi - fa redi  
-tehdä yhteistyötä - kon gung  
+tehdä yhteistyötä - kon gong  
 tehkäämme - haide  
-teidän - tumen su  
+teidän - tumon su  
 teippi (nauha) - tepe  
 teismi (jumalusko) - deu din  
 teisti - deu din ja  
@@ -3318,7 +3321,6 @@ tuomari - jude ja
 tuomio - jude  
 tuomita - fa jude  
 tuore (raikas) - taza  
-tuotanto - sana  
 tuottava (tuottelias) - sana ja di  
 tupakka - tabaku  
 tuplata (kertoa kahdella) - fa multi do du  
@@ -3362,12 +3364,12 @@ tyyny - kushen
 tyyppi (laji, genre) - tipe  
 tyyrpuuri - nave raite  
 tyytyväinen (iloinen) - suka  
-työ - gung  
+työ - gong  
 työkalu - tul  
-työntekijä (työläinen) - gung ja  
+työntekijä (työläinen) - gong ja  
 työntää (puskea) - pusha  
-työpöytä (kirjoituspöytä) - gung meza  
-työskennellä - gung  
+työpöytä (kirjoituspöytä) - gong meza  
+työskennellä - fa gong  
 tähti - sing  
 tähtialus - astro nave  
 tähtitiede (astronomia) - astro nomi  
@@ -3427,8 +3429,8 @@ urheilu - esporte
 uros (mies) - man  
 Uruguai - Uruguay  
 usein - na poli mar  
-usko (luottamus) - shin  
-uskoa (luottaa) - fa shin  
+usko (luottamus) - sina  
+uskoa (luottaa) - fa sina  
 uskonnollinen - din di  
 uskonnoton - an din ja  
 uskonto - din  
@@ -3448,7 +3450,7 @@ Uzbekistan - Uzbeki
 ####V - V  
 vaaka (puntari) - veze metre gi  
 vaakatasossa - vei  
-vaaleanpunainen - roza rang  
+vaaleanpunainen - rode rang  
 vaara - hatar  
 vaarallinen - hatar di  
 vaate (puku) - fuku  
@@ -3480,6 +3482,7 @@ valkoinen (valkea) - baku
 valkosipuli - lasun  
 Valkovenäjä - Belarus  
 valmis - redi  
+valmistus (tuotanto) - sana  
 valo - foto  
 valoisa - foto di  
 valokuitu (valokaapeli) - foto lin  
@@ -3585,15 +3588,15 @@ viesti - anjil
 viestintuoja (airut) - anjil ja  
 Vietnam - Viete  
 vietnamilainen - viete basha  
+viha (inho) - hen  
 viha (suuttumus, raivo) - furi ta  
-viha - hen  
 vihainen (suuttunut) - furi  
 vihannes - choi  
-vihata - hen  
+vihata (inhota) - fa hen  
 vihollinen - an dosti  
 vihollinen - dus jan  
 vihreä - luka  
-viihdyttää (huvittaa) - fa van  
+viihdyttää (huvittaa) - fa vanu  
 viikko - var var  
 viikonpäivä - var  
 viimeinen - fin me  
@@ -3607,6 +3610,7 @@ viisi (5) - lima
 viisikulmio - lima gona  
 viisitahokas (prisma) - lima fase  
 viisumi - viza  
+viive (odotus) - dele  
 vika (synti) - dosha  
 viljellä - nong  
 viljely - nong shuta  
@@ -3647,7 +3651,7 @@ voimistaa - fa mas lika
 voipuu - karite  
 voisarvi (kroissantti) - kruasan  
 voitot ja tappiot - daku shitu  
-voitto - sheng  
+voitto - shenga  
 vokaali - jung fon  
 volframi - volfram  
 voltti (V) - volte  

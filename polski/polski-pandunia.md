@@ -155,7 +155,7 @@ basen - basen
 bateria - bateri  
 baton czekoladowy - choklate kane  
 bawełna - goton  
-bawić, zabawiać - fa van  
+bawić, zabawiać - fa vanu  
 bawół domowy - karbau  
 baza danych (bank danych) - data banka  
 bazowy, podstawowy - baze di  
@@ -199,7 +199,7 @@ biom - bio sistem
 biromantyczny - du romanse di  
 biseksualny - du sekse di  
 biszkopt, ciastko - biskute  
-biurko - gung meza  
+biurko - gong meza  
 biuro (pokój) - ofis kan  
 biuro, urząd - ofis  
 biust - buste  
@@ -299,7 +299,7 @@ celownik optyczny (siatka lunety) - krus lin
 cement - semente  
 cenny - bau di  
 centralny (środkowy) - jung di  
-centrować, skupić, skupiać - fa jung  
+centrować, skupić, skupiać - fa jong  
 centy-, procent, na sto, setna część - senti  
 centymetr - sentimitre  
 cer - ceres yum  
@@ -317,7 +317,7 @@ chemia - kimi logi
 chemiczny - kimi di  
 cherubin - kerubi  
 Chile - Chile  
-Chiny - Junguo  
+Chiny - Jungoku  
 chleb - pang  
 chlor - klor  
 chmura - megi  
@@ -352,7 +352,7 @@ ciemny, słabo oświetlony - oskur
 ciepły - garma  
 cierpienie, ból - pasi  
 cierpieć - be pasi  
-cieszyć się (zażywać, bawić się) - be van  
+cieszyć się (zażywać, bawić się) - be vanu  
 cieszyć, podobać się - fa suka  
 cień - saya  
 ciągnąć - tire  
@@ -374,6 +374,7 @@ cukier - sukar
 cukierek, słodycze - kandi  
 cukinia - lili kaboga  
 cukrowiec jadalny - yam sukar gana  
+curry - kari  
 cwał (galop) - galope  
 cyfrowy - komputa di  
 cynk - estan  
@@ -398,7 +399,7 @@ czas - zaman
 czas; okazja - mar  
 czasownik - karma loga  
 czaszka - sar oste  
-czekać - deng  
+czekać - dele do  
 czekolada - choklate  
 czempion - champion  
 czerwiec - mes tri  
@@ -626,7 +627,7 @@ Europa - Europa
 europejski - europa di  
 ewangelia - eu anjil  
 ####F - F  
-fabryka, manufaktura - gung kan  
+fabryka, manufaktura - gong kan  
 fajka - pipe  
 fala - onda  
 Falklandy, Malwiny - Malvinas nesi  
@@ -726,7 +727,7 @@ gniew, furia - furi ta
 godzina - hor  
 golem - golem  
 goniometr (kątomierz) - gona metre gi  
-gorbusza - roza salmon  
+gorbusza - rode salmon  
 goryl - gorila  
 goryl wschodni - dong gorila  
 goryl zachodni - veste gorila  
@@ -1253,7 +1254,7 @@ kult ognia - hogo puja
 kultura - kultur  
 kulturystyka - muskul bina  
 kumin, kmin - zira  
-kumkwat - kankuate  
+kumkwat - gingam  
 kupić - fa shopi  
 kupon - kupon  
 kura, kogut, kurczak - koko  
@@ -1388,7 +1389,7 @@ Majotta - Mayote
 mak lekarski - sona papi  
 mak polny - medan papi  
 mak wschodni - gui papi  
-makaron - mien  
+makaron - men  
 Makau - Makau  
 maksimum - masim  
 maksymalny - masim di  
@@ -1524,7 +1525,7 @@ mięso - nama
 mięta - minta  
 mięta pieprzowa - pipre minta  
 mięta wodna - sui minta  
-mięta zielona (mięta kłosowa) - zong minte  
+mięta zielona (mięta kłosowa) - kane minte  
 miłośnik (fan, -fil) - fili ja  
 miłość (afekt) - ama  
 miłość romantyczna - romanse  
@@ -1586,7 +1587,7 @@ muzułman, muzułmanin - islam din ja
 muzyk - muzika ja  
 muzyka - muzika  
 muł - iha uma  
-my - mimen  
+my - mimon  
 mydło - sabun  
 mylić (gmatwać, zmieszać, konsternować) - ruhu mishe  
 mysz - mushu  
@@ -1834,7 +1835,7 @@ oliwka - zaitun
 Oman - Oman  
 omszały (mszysty) - mos di  
 on, ona, ono - ya  
-oni - yamen  
+oni - yamon  
 online (na linii, w sieci) - na lin  
 opaska do włosów - kesha bande  
 opcja (wybór) - chuze she  
@@ -2199,13 +2200,13 @@ pożyczać (pożyczyć) - jeka daku
 pożyczać komuś (pożyczyć komuś) - jeka dona  
 pożyczyć - jeka  
 pożądanie, żadza - kama  
-praca, zjęcie, zadanie - gung  
-pracować - gung  
-pracownik - gung ja  
+praca, zjęcie, zadanie - gong  
+pracować - fa gong  
+pracownik - gong ja  
 practyczny, pragmatyczny - prati di  
 pragnienie - sui yau  
 praktyka, aktualność - prati  
-praktykant - gung shula ja  
+praktykant - gong shula ja  
 pralka - fuku vashi gi  
 prawa autorskie - kopi haki  
 prawa człowieka - insan haki  
@@ -2228,7 +2229,7 @@ proces, procedura - chuli
 proch strzelniczy - barude  
 produkcja - sana  
 produktywny (żyzny) - sana ja di  
-profesja, zajęcie, zawód - pei gung  
+profesja, zajęcie, zawód - pei gong  
 profesor - profesor  
 program - program  
 programista, koder - program ja  
@@ -2262,7 +2263,7 @@ przeciwnik (antagonista) -
 przedmiot (obiekt) - vutu  
 przedpołudnie - suba dia  
 przedrostek (prefiks) - chen fikse  
-przedstawić (przedłożyć, przedstawić, złożyć, składać) - gung mise  
+przedstawić (przedłożyć, przedstawić, złożyć, składać) - gong mise  
 przedłużyć, przedłużać - fa long  
 przegrany, pokonany - shiti bai ja  
 przegrać, przegrywać - fa shibai  
@@ -2315,6 +2316,7 @@ przyrostek dla miejsca - ya
 przyrostek dla wsperającego ideę - mede ja  
 przyrostek dla wykonawcy - ja  
 przyrostek dla wykonawcy - karma ja  
+przystanek autobusowy - bus halte  
 przystojny, atrakcyjny, ładny - bon vide di  
 przyszłość - pos zaman  
 przysłówek - mode loge  
@@ -2425,7 +2427,7 @@ robak - verme
 robot - robote  
 rock - roke muzika  
 rocznica - nen festa  
-rod - roza yum  
+rod - rode yum  
 rodak, ziomek, krajan - sam desha jan  
 rodzaj gramatyczny - basha jinse  
 rodzaj, typ, styl - yang  
@@ -2527,12 +2529,12 @@ równoległy (podłużny) - ging
 równowaga - par veze ta  
 równy - par  
 równy - par jan  
-róża - roza  
+róża - rode  
 różnica (specjalność) - has ta  
 różnica - alo sifa  
 różny (inny) - alo sifa di  
 różny (różnorodny) - vari  
-różowy, różany - roza rang  
+różowy, różany - rode rang  
 ręcznik - gan tela  
 ręczny - hande di  
 ręka, dłoń - hande  
@@ -2581,7 +2583,7 @@ Senegal - Senegal
 sensor (detektor, czujka) - sense gi  
 ser - chize  
 Serbia - Serbia  
-serce - shim  
+serce - sim  
 seria, szereg - sili  
 Seszele - Seshel nesi  
 sezam - sesam  
@@ -2712,7 +2714,7 @@ stojak (wieszak) - lipa baze
 stokrotka - margarita  
 stokrotka pospolita - english margarita  
 stolarz - moka jang ja  
-stop; przerwa, zatrzymanie - ting  
+stop; przerwa, zatrzymanie - halte  
 stopa - fute  
 stoper (sekundomierz) - dura metre gi  
 stopień Celsjusza - celsius darje  
@@ -2846,7 +2848,7 @@ słoń - gaja
 słońce - sol  
 słuchać - fa ore  
 sługa - serve ja  
-słup (pal, kołek) - zong  
+słup (pal, kołek) - moka kane  
 służba - serve  
 służyć - serva  
 ####T - T  
@@ -3124,7 +3126,7 @@ wiadomość, zawiadomienie, powiadomienie - note anjil
 wiadomy, znany -   
 wiadro - baldi  
 wiadukt, przejście powyżej - supra  
-wiara, wierzenie, kredo - shin  
+wiara, wierzenie, kredo - sina  
 wiatr - hava  
 wiatrak (wentylator) - panka  
 wice- (alternatywa, substytut, zastępstwo) - vise  
@@ -3152,7 +3154,7 @@ wieloznaczny - poli mana di
 wielościan - poli fase  
 wieprzowina - goro nama  
 wiercić, borować - fora  
-wierzyć - fa shin  
+wierzyć - fa sina  
 wierzący (osoba religijna) - din ja  
 Wietnam - Viete  
 wietnamski - viete basha  
@@ -3224,7 +3226,7 @@ wspólny (wzajemny) - kon su
 wspólny - komun  
 wspólny język - kon basha  
 współczucie - sam emos  
-współpracować (kolaborować) - kon gung  
+współpracować (kolaborować) - kon gong  
 wstecz - retro  
 wstrzyknąć, wstrzykiwać - jusha  
 wstyd (hańba, kompromitacja) - sharma  
@@ -3232,7 +3234,7 @@ wszyscy, wszystkie, wszystko; każdy - pan
 wszystko - pan she  
 wtorek - var du  
 wulkan - hogo shan  
-wy, was - tumen  
+wy, was - tumon  
 wybrać, wybierać, selekcjonować - chuze  
 wybrzeże - hai kinar  
 Wybrzeże Kości Słowniowej - Kote Da Ivar  
@@ -3316,8 +3318,8 @@ z (partykuła posiadania) - da
 ####Z - Z  
 z boku (na bok) - late  
 zaakceptować, akceptować, powiedzieć okej, mówić okej - fa oke  
-zabawa, rozrywka - van  
-zabawny - van di  
+zabawa, rozrywka - vanu  
+zabawny - vanu di  
 zabić, zabijać - fa mata  
 zabroniony (wzbroniony, nielegalny, haram, tabu) - haram  
 zabronić (wzbronić, zakazać) - fa haram  
@@ -3338,7 +3340,7 @@ zagraniczny - ekso desha di
 zagrożenie, niebezpieczeństwo - hatar  
 zaimek - vise loga  
 zainteresowanie, zaciekawienie; interesujący - sabe vol  
-zajęty - mang  
+zajęty - mangu  
 zaklecie - magi asar  
 zakrzywiony - kurva di  
 zakupy (sprawunki, shopping) - shopi  
@@ -3389,8 +3391,8 @@ zasób - faida
 zasłona, kurtyna - parde  
 zatkać, ztykać - fa tapa  
 zatoka - baya  
-zatrzymać - fa ting  
-zatrzymać się - be ting  
+zatrzymać - fa halte  
+zatrzymać się - be halte  
 zawias, oś - sharnir  
 zawierać - in ha  
 zawijać (zawinąć) - lifafa  
@@ -3473,7 +3475,7 @@ zwinny, sprawny - agile
 związać, wiązać; zapiąć, zapinać - bande  
 związek, powiązanie, połączenie - guanshe  
 zwiększyć o jeden - mas darja  
-zwycięstwo, wygrana - sheng  
+zwycięstwo, wygrana - shenga  
 zwyczajny (rutynowy, normalny) - ada di  
 zwykły, zwyczajny, prosty - sada  
 zwłoki (trup) - mata badan  

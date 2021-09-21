@@ -75,6 +75,7 @@ américain - Amerika di
 américium - amerika yum  
 amérindien (indien) - asal Amerka jan  
 Amérique - Amerika  
+an (année) - nen  
 anal - anus di  
 analyse - fen gata  
 analyser - fa fen gata  
@@ -130,6 +131,7 @@ armure - defa kaske
 armée - gun  
 armée de l'ai - air gun  
 arobase (@) - adres zi  
+arrêt de bus - bus halte  
 arsenic - arsen yum  
 art - shuta  
 artichaut - karchof  
@@ -328,7 +330,7 @@ carbone - karbon
 cardon - kardon karchof  
 carotte - karote  
 carreau (tuile) - tail  
-carrière - pei gung jiu  
+carrière - pei gong jiu  
 carte (graphique) - metre grafi  
 carte (plan) - topo metre grafi  
 carte - karte  
@@ -376,7 +378,7 @@ cheveux - sar kesha
 chien - vaf  
 chiisme - shia islam din  
 chimie - kimi logi  
-Chine - Junguo  
+Chine - Jungoku  
 chlore - klor  
 chocolat - choklate  
 chose - she  
@@ -404,7 +406,7 @@ client - klien
 cloche - dang gi  
 cobalt - kobalte  
 coeur - kerne  
-collaborer - kon gung  
+collaborer - kon gong  
 coller - fa glu  
 colorant - rang mate  
 combava - karse limon  
@@ -485,6 +487,7 @@ cuivre - kupre
 cultiver - nong  
 culturisme (musculation) - muskul bina  
 curium - kuri yum  
+curry - kari  
 cycliste - sikle ja  
 cytologie - selu logi  
 célérité - sir ta  
@@ -553,6 +556,7 @@ décharge - laji bagi
 déchirer - chira  
 déchirer - chira  
 défigurer - fa dus forma  
+délai (retard) - dele  
 désaccord (différend) - alo rai  
 désespéré - asha hin  
 dévanagari - deu nagar zi  
@@ -728,12 +732,14 @@ gêner (déranger, perturber) - fa turbe
 habiller (vêtir) - fa fuku  
 hafnium - hafen yum  
 haine - hen  
+halte - halte  
 hameçon - peshe huke  
 hassium - hese yum  
 haut - gau  
 hautes technologies - gau tehni  
 Haïti - Haiti  
 hein? - he  
+henné - hina  
 herbe (gazon) - gazo  
 Hesse - Hese  
 heure - hor  
@@ -834,7 +840,7 @@ kimono - kimono
 Kinshasa - Kinshasa  
 kiwi - kivi  
 krypton - kriton  
-kumquat - kankuate  
+kumquat - gingam  
 Kâmasûtra - kama kanon  
 ####L - L  
 l'un l'autre - se kon  
@@ -863,7 +869,7 @@ le (la) - la
 lent - lente  
 lentille - lense  
 Lettonie - Latvia  
-leur - yamen su  
+leur - yamon su  
 lexical - loga di  
 leçon - shula she  
 libellule - libele  
@@ -958,7 +964,7 @@ mendélévium - mendelevi yum
 menthe - minta  
 Menthe aquatique - sui minta  
 menthe poivrée - pipre minta  
-menthe verte - zong minte  
+menthe verte - kane minte  
 mer - hai  
 merci - shukra  
 mercredi - var tri  
@@ -1051,8 +1057,8 @@ non-binaire - nobi
 nord - norde  
 nostalgie - nostalgia  
 note - note she  
-notre - mimen su  
-nous - mimen  
+notre - mimon su  
+nous - mimon  
 nouveau - nove  
 nouveau-né - nove jene di  
 nouveauté - nove ta  
@@ -1073,7 +1079,7 @@ objectif (cible) - dike
 objet (article) - vutu  
 oblique (de travers) - tercha  
 obsidienne - osidian  
-occupé - mang  
+occupé - mangu  
 ocelot - oselote  
 oculaire - oko di  
 océan - dai hai  
@@ -1088,7 +1094,7 @@ oie - ganse
 oignon - piaze  
 oiseau - paksi  
 ombrelle (parasol) - sol chati  
-on - men  
+on - mon  
 oncille - bagre oselote  
 onde - onda  
 option - chuze she  
@@ -1195,8 +1201,9 @@ photon - foto so
 pierre - sheku  
 pierre précieuse (joyau) - bau sheku  
 pierre tombale - gabur sheku  
-pieu (poteau) - zong  
+pieu - moka kane  
 pile (batterie) - bateri  
+pilier (colonne, poteau) - kolum  
 piment - chili  
 pinceau - pente brosha  
 pioche - pin chope  
@@ -1279,7 +1286,7 @@ problème - problem
 problématique - problem di  
 procédé (rite) - riti  
 professeur (enseignant) - shula guru  
-profession (métier) - pei gung  
+profession (métier) - pei gong  
 profond - fase tele  
 programme - program  
 projectile - lanse she  
@@ -1330,7 +1337,7 @@ racine - mula
 radio - radio  
 radium - radi yum  
 radon - radon  
-rang - me poze  
+rang - dan  
 rare - nadir  
 rare - rare  
 rarement - nadir mar  
@@ -1350,7 +1357,7 @@ requin - sharke
 reste - reste  
 retourner (revenir) - be retro  
 Rhin - Ren  
-rhodium - roza yum  
+rhodium - rode yum  
 rhythme - ritim  
 rhénium - ren yum  
 riche - riche  
@@ -1368,7 +1375,7 @@ roentgenium - rentegen yum
 roi - man raja  
 roman - long kata  
 Rome - Roma  
-rose - roza  
+rose - rode  
 rossignol - bulbul  
 rosée - rose  
 rotule - guta kaske oste  
@@ -1417,7 +1424,7 @@ sauce de soja - soi sos
 saucisse - sosis  
 saumon altentique - atlanti salmon  
 saumon du Pacifique (saumon kéta, saumon chien) - baku salmon  
-saumon rose - roza salmon  
+saumon rose - rode salmon  
 saumon sockeye - lal salmon  
 sauvage - eko jene di  
 savane - garma zona gazo topo  
@@ -1473,7 +1480,7 @@ sommeil - sona
 son (sa) - se su  
 son - soni  
 soufre - sulfu  
-soumettre - gung mise  
+soumettre - gong mise  
 soumission - islam  
 soupe - supa  
 souris - mushu  
@@ -1566,9 +1573,9 @@ traitement d'images - grafi chuli
 traitement de données - data chuli  
 traitement de texte - kitabu chuli  
 traiter - fa chuli  
-travail - gung  
-travailler - gung  
-travailleur (ouvrier) - gung ja  
+travail - gong  
+travailler - fa gong  
+travailleur (ouvrier) - gong ja  
 traîner - trata  
 tremper (faire mariner) - pul shipi  
 tribord - nave raite  
@@ -1649,7 +1656,7 @@ voire (même) - hata
 vol - fei  
 volcan - hogo shan  
 voler - fei  
-votre - tumen su  
+votre - tumon su  
 vouloir - vol  
 voyelle - jung fon  
 voûte - arka chati  

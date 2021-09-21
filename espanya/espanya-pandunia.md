@@ -122,6 +122,7 @@ algo - yo she
 algodón - goton  
 algún - yo  
 algún día (algún vez) - yo sate  
+alheña (henna) - hina  
 alicate - pinse gi  
 alinear - be ging  
 allí (allá) - na go  
@@ -588,7 +589,7 @@ carnicero - bucha ja
 carpa (toldo) - hema  
 carpeta - dokumen sanduku  
 carpintero - moka jang ja  
-carrera - pei gung jiu  
+carrera - pei gong jiu  
 carta (mapa, tabla, gráfico) - metre grafi  
 cartografía - metre grafi shuta  
 carvis (alcaravea) - karavi  
@@ -633,7 +634,7 @@ centellear (titilar) - fa sing foto
 centenario - sento nen di  
 centi- (por ciento) - senti  
 central - jung di  
-centrar (concentrar) - fa jung  
+centrar (concentrar) - fa jong  
 centrarse (en el centro de) - jung  
 centro - jung  
 centuria (siglo) - sento nen  
@@ -670,7 +671,7 @@ chiismo (chía) - shia islam din
 Chile - Chile  
 chile - chili  
 chimpancé - chimpanzi  
-China - Junguo  
+China - Jungoku  
 chinchilla - chinchila  
 chinelo (pantufa) - babuche  
 chino mandarín - Putong Han  
@@ -739,7 +740,7 @@ cohete (misil) - rokete
 col china - baku choi  
 cola (rabo, coda) - koda  
 cola (refresco de cola) - kola  
-colaborar - kon gung  
+colaborar - kon gong  
 colarse - sir move  
 colchón - matras  
 colección (grupo, conjunto, montón) - jama  
@@ -754,7 +755,6 @@ colonialista - koloni sim ja
 colonizar - fa koloni  
 colono - koloni ja  
 color (colorido) - rang  
-columna - kolum  
 coma - koma  
 combava (lima kafir) - karse limon  
 comedor - yam kamar  
@@ -838,7 +838,7 @@ copiar - fa kopi
 copérnico - koperni yum  
 coral - koral  
 corazón (núcleo) - kerne  
-corazón - shim  
+corazón - sim  
 Corea - Chosen  
 Corea del Norte - Norde Chosen  
 Corea del Sur - Sude Chosen  
@@ -874,8 +874,8 @@ cota de malla - sili nete
 crecemiento - raste  
 crecer (aumentar) - be dai  
 crecer - be raste  
-creencia (fe) - shin  
-creer - fa shin  
+creencia (fe) - sina  
+creer - fa sina  
 crema - krem  
 cremallera - zipa  
 cremoso - krem di  
@@ -942,6 +942,7 @@ cupón (vale) - kupon
 curar (sanar) - dava  
 curio - kuri yum  
 curita (apósito) - glu bande  
+curri - kari  
 curva - kurva  
 curvo - kurva di  
 cuál cosa - ke she  
@@ -1013,6 +1014,7 @@ democracia - demo krati
 democrático - demo krati di  
 demografía - demo grafi  
 demonio - demon  
+demora (retraso) - dele  
 demócrata - demo krati ja  
 dentista (odontólogo) - dante dava ja  
 dentro - na in  
@@ -1080,7 +1082,7 @@ disco - diske
 discreto - alo fen di  
 discusión (debate, discurso) - lun  
 disentir (no estar de acuerdo) - alo rai  
-disfrutar (jugar) - be van  
+disfrutar (jugar) - be vanu  
 disionario (lexicón) - loga liste  
 disparar - pau  
 dispersar (esparcir, desmontar) - an jama  
@@ -1089,9 +1091,9 @@ dispositivo pirotécnico - hogo tehni
 disprosio - disprosi yum  
 distancia - tele ta  
 distintos (diversos) - vari  
-diversión - van  
-divertido - van di  
-divertir (entretener) - fa van  
+diversión - vanu  
+divertido - vanu di  
+divertir (entretener) - fa vanu  
 dividir (repartir) - fa fen  
 divino - deu di  
 dióxido de carbono - karbon duokside  
@@ -1175,7 +1177,7 @@ elegir (escoger, seleccionar) - chuze
 elemento (unidad fundamental) - so  
 elemento químico - kimi so  
 elfo - elfe  
-ellos o ellas - yamen  
+ellos o ellas - yamon  
 elogiar (alabar, exaltar) - halela  
 elogio - eu loga  
 elástico (flexible) - elasti  
@@ -1230,7 +1232,7 @@ entero (todo) - holo
 entrada - jin mun  
 entrar - be in  
 entre - na medi  
-entregar (enviar) - gung mise  
+entregar (enviar) - gong mise  
 entristecer (poner triste) - fa duka  
 enviar (transmitar) - mise  
 envoltura - lifafa  
@@ -1266,7 +1268,7 @@ escaso (disperso, ralo) - an jama di
 escenario (podio, estrado, tarima) - tai  
 Escocia - Eskote  
 escribir - kitabu  
-escritorio (mesa de trabajo) - gung meza  
+escritorio (mesa de trabajo) - gong meza  
 escuchar (oír) - fa ore  
 escudo - defa bano  
 escuela (colegio, institución) - shula kan  
@@ -1296,7 +1298,7 @@ espectador - vide ja
 espejo (retrovisor) - mira plate  
 Esperanto - esperanto  
 esperar (desear) - asha  
-esperar - deng  
+esperar - dele do  
 espicificar (estipular) - fa sharti  
 espiral (hélice) - helis  
 esponja - esponje  
@@ -1305,6 +1307,7 @@ espárrago - lusun
 espíritu (genio) - jini  
 esqueleto (armazón) - oste jama  
 esquina (rincón, ángulo) - gona  
+estaca - moka kane  
 estacionamiento (aparcamiento) - kar parke  
 estación (temporada) - mosim  
 estación - estasi  
@@ -1405,7 +1408,7 @@ feministe - fem sim ja
 feo - dus vide  
 fermentar - be bio mute  
 fermio - fermi yum  
-fideo (tallarín) - mien  
+fideo (tallarín) - men  
 fiebrie (calentura) - febre  
 fijar (pegar, asegurar) - fa fikse  
 Fiji - Fiji  
@@ -1471,7 +1474,7 @@ fusión - yong liga
 fusión nuclear - kerne unta  
 fusta - uma bichi  
 futuro - pos zaman  
-fábrica - gung kan  
+fábrica - gong kan  
 fábula - zou kata  
 fácil - fasil  
 fácil acceso (accesibilidad) - ten fasil ta  
@@ -1659,7 +1662,7 @@ hexágono - luka gona
 hidrógeno - hidro  
 hielo - ais  
 hierba - gazo  
-hierbabuena - zong minte  
+hierbabuena - kane minte  
 hierro - fero  
 higiene - salu safa ta  
 hija - fem ben  
@@ -1894,7 +1897,7 @@ jueves - var nelu
 juez (árbitro, réferi) - jude ja  
 jugador - gem ja  
 jugar un juego - fa gem  
-jugete - van gi  
+jugete - vanu gi  
 jugo (zumo) - jus  
 julio - mes cheti  
 junio - mes luka  
@@ -1921,7 +1924,7 @@ Kiribati - Kiribati
 kiwi fruta - kivi  
 konkani - Konkani  
 Kosovo - Kosovo  
-kumquat (quinoto) - kankuate  
+kumquat (quinoto) - gingam  
 Kuwait - Kuvaitia  
 kétchup - kechape  
 ####L - L  
@@ -2433,7 +2436,7 @@ norte - norde
 Norteamérica - Norde Amerika  
 norteño - norde di  
 Noruega - Norge  
-nosotros - mimen  
+nosotros - mimon  
 nostalgia - nostalgia  
 nostálgico - nostalgia di  
 nota - note she  
@@ -2449,7 +2452,7 @@ nube - megi
 nudismo - nude sim  
 nudista - nude sim ja  
 nudo - node  
-nuestro - mimen su  
+nuestro - mimon su  
 Nueva Caledonia - Nove Kaledonia  
 nueva línea - lin parche  
 Nueva Zelanda - Nove Zelande  
@@ -2482,14 +2485,14 @@ ocra - bamia
 octubre - mes des  
 ocular - oko di  
 ocultar (esconder) - fa sir  
-ocupado (atareado) - mang  
+ocupado (atareado) - mangu  
 océano - dai hai  
 océano Antártico - Antartika Hai  
 océano Atlántico - Atlanti Hai  
 océano Pacífico - Pase Hai  
 océano Ártico - Artika Hai  
 océano Índico - Barti Hai  
-odiar - hen  
+odiar - fa hen  
 odio - hen  
 oeste - veste  
 oficial - ofis di  
@@ -2591,14 +2594,15 @@ papel - rol
 papel tapiz - mur kaguji  
 Papúa Nueva Guinea - Papua Nove Ginia  
 paquete - pake  
-parada (alto) - ting  
+parada (alto) - halte  
+parada de autobús - bus halte  
 Paraguay - Paraguai  
 paralelo (línea de latitud) - vei gola  
 paralelo - ging  
-parar (detener) - fa ting  
+parar (detener) - fa halte  
 parar - fa pauza  
 pararse (detenerse) - be estasi  
-pararse (detenerse) - be ting  
+pararse (detenerse) - be halte  
 parasol - shava chati  
 parasol - sol chati  
 parcial - fen di  
@@ -2812,7 +2816,7 @@ porto - porte
 Portugal - Portugal  
 pose (postura) - poze  
 poseer (tener, ser dueño de) - fa mal  
-poste (estaca, palo) - zong  
+poste (columna) - kolum  
 posterior - pos di  
 postura (posición) - asan  
 potasio - kali yum  
@@ -2861,8 +2865,8 @@ proceso (procedimiento) - chuli
 producción - sana  
 producir (hacer, preparar) - fa sana  
 profecía - nabi  
-profesional (de carrera) - pei gung di  
-profesión (ocupación) - pei gung  
+profesional (de carrera) - pei gong di  
+profesión (ocupación) - pei gong  
 profesor - profesor  
 profeta - nabi ja  
 profeta Mani - Mani  
@@ -3081,7 +3085,7 @@ rock - roke muzika
 rocío - rose  
 rodear (cirundar) - fa gola  
 rodilla - guta  
-rodio - roza yum  
+rodio - rode yum  
 roentgenio - rentegen yum  
 rojo - rubi  
 rollo - rolo  
@@ -3092,8 +3096,8 @@ romper (hacer pedazos) - fa parche
 romántico - romanse di  
 ron - rom  
 ropa (vestimenta) - fuku  
-rosa - roza  
-rosa - roza rang  
+rosa - rode  
+rosa - rode rang  
 roto - parche di  
 rotor - rota she  
 Ruanda - Ruanda  
@@ -3141,7 +3145,7 @@ salmón (trucha) - salmon
 salmón chum (keta) - baku salmon  
 salmón del Atlántico - atlanti salmon  
 salmón rojo - lal salmon  
-salmón rosado - roza salmon  
+salmón rosado - rode salmon  
 salsa - sos  
 salsa de soja - soi sos  
 saltar (brincar) - jampe  
@@ -3470,9 +3474,9 @@ tos - koso
 totalidad (integridad) - holo ta  
 toxicología - toksi logi  
 toxina - bio toksi  
-trabajador (obrero) - gung ja  
-trabajar - gung  
-trabajo - gung  
+trabajador (obrero) - gong ja  
+trabajar - fa gong  
+trabajo - gong  
 tractor - trata gi  
 tradicción (interpretación) - tarjum she  
 traditional (convencional) - suna di  
@@ -3554,7 +3558,7 @@ urdu - urdu
 Uruguay - Uruguay  
 usar (aplicar) - uze  
 uso (utilidad, beneficio) - faida  
-ustedes - tumen  
+ustedes - tumon  
 usuario - uze ja  
 utilizable (disponible) - uze bil di  
 uva - putau  
@@ -3618,7 +3622,7 @@ viaje - safar
 viajero - safar ja  
 vice- (alternativa, sustituto) - vise  
 vicepresidente - vise prezidente  
-victoria - sheng  
+victoria - shenga  
 vida (orgánico) - bio  
 vida - jiu  
 vidriado (esmalte) - kancha daka  
@@ -3665,7 +3669,7 @@ voto - vote
 vudú - vodun  
 vuelo - fei  
 vuelta - retro dau  
-vuestro - tumen su  
+vuestro - tumon su  
 vulva - vulva  
 válvula (llave, canilla) - kran  
 vía férrea - tren dau  

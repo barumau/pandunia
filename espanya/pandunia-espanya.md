@@ -337,9 +337,9 @@ be sona - dormir
 be suka - gustarse (disfrutar)  
 be supra - sobrepasar  
 be tele loka - teletransportarse  
-be ting - pararse (detenerse)  
+be halte - pararse (detenerse)  
 be turbe - molestar en  
-be van - disfrutar (jugar)  
+be vanu - disfrutar (jugar)  
 be vide - ser visto  
 be yong liga - fusionar (fundir)  
 be zai - aparecer  
@@ -601,6 +601,8 @@ defa - defender
 defa bano - escudo  
 defa ja - defensor  
 defa kaske - armadura  
+dele - demora (retraso)  
+dele do - esperar  
 demo - pueblo (población)  
 demo di - público  
 demo grafi - demografía  
@@ -610,7 +612,6 @@ demo krati ja - demócrata
 demon - demonio  
 den - día (24 horas)  
 den loge - diario  
-deng - esperar  
 des - diez (deca-, 10)  
 desen - dibujo (diseño)  
 desha - país (nación, estado, terra)  
@@ -871,6 +872,7 @@ fa guste - notar el sabor
 fa halal - permitir (dejar)  
 fa haram - prohibir  
 fa has - diferenciar (distinguir)  
+fa hen - odiar  
 fa hisabu - calcular  
 fa hogo - quemar  
 fa in klus - incluir  
@@ -879,7 +881,7 @@ fa javabu - responder (contestar)
 fa jela - encarcelar (aprisionar)  
 fa jene - dar a luz (enngendrar, parir, procrear)  
 fa jude - juzgar  
-fa jung - centrar (concentrar)  
+fa jong - centrar (concentrar)  
 fa kai - abrir  
 fa kancha dake - vidriar (glasear)  
 fa karga - cargar  
@@ -979,7 +981,7 @@ fa sela - aconsejar
 fa sense - sentir (detectar)  
 fa sharti - espicificar (estipular)  
 fa shibai - perder (fallar)  
-fa shin - creer  
+fa sina - creer  
 fa shipi - mojar  
 fa shite - cagar  
 fa shofer - conducir  
@@ -1007,13 +1009,13 @@ fa tele fon - telefonear
 fa tercha - inclinar  
 fa tese - argumentar (alegar)  
 fa teste - intentar (probar)  
-fa ting - parar (detener)  
+fa halte - parar (detener)  
 fa transe - transitar (atravesar)  
 fa truke - engañar  
 fa turbe - molestar (perturber)  
 fa un she - unir  
 fa valu - valorar  
-fa van - divertir (entretener)  
+fa vanu - divertir (entretener)  
 fa ver - autenticar  
 fa verse - versar  
 fa vise - sustituir (reemplezar)  
@@ -1324,12 +1326,12 @@ gun - ejército
 gun jan - soldado  
 gun raja - generalísimo (sogún)  
 gun raja desha - shogunato  
-gung - trabajo  
-gung - trabajar  
-gung ja - trabajador (obrero)  
-gung kan - fábrica  
-gung meza - escritorio (mesa de trabajo)  
-gung mise - entregar (enviar)  
+gong - trabajo  
+fa gong - trabajar  
+gong ja - trabajador (obrero)  
+gong kan - fábrica  
+gong meza - escritorio (mesa de trabajo)  
+gong mise - entregar (enviar)  
 guru - maestro (gurú, sabio, profesor)  
 guste - gusto (sabor)  
 guste ka - tener gusto a  
@@ -1413,7 +1415,6 @@ hem - considerar (reflexionar, pensar en)
 hem… - hm…  
 hema - carpa (toldo)  
 hen - odio  
-hen - odiar  
 hero - héroe  
 hero di - valiente (heroico)  
 herze - hercio (Hz)  
@@ -1427,6 +1428,7 @@ hima - nieve
 hima rose - escarcha  
 Himalaya - Himalaya  
 hin - faltar (sin)  
+hina - alheña (henna)  
 hindi yum - indium  
 Hindu - hindú  
 Hindu desh - Indostán  
@@ -1625,7 +1627,7 @@ Jung Afrika Komun krati - República Centroafricana
 jung di - central  
 jung fon - vocal  
 jung shula kan - escuela secundaria  
-Junguo - China  
+Jungoku - China  
 jupe - falda  
 Jupiter - Jupiter  
 jus - jugo (zumo)  
@@ -1699,7 +1701,7 @@ kane pang - baguette
 kanga - peine  
 kangaru - canguro  
 kanjar - puñal (daga)  
-kankuate - kumquat (quinoto)  
+gingam - kumquat (quinoto)  
 kano - canoa  
 kanta - hombro  
 kantalupo melon - melón cantalupo  
@@ -1723,6 +1725,7 @@ karbon sui - carbohidrato
 karchof - alcachofera  
 kardon - cardo  
 karga - carga (pesa)  
+kari - curri  
 Karibe - Caribe  
 karibu - cerca (casi, aproximadamente)  
 karibu ta - proximidad  
@@ -1841,7 +1844,7 @@ koloni - colonia
 koloni ja - colono  
 koloni sim - colonialismo  
 koloni sim ja - colonialista  
-kolum - columna  
+kolum - poste (columna)  
 koma - coma  
 komal - blando (mullido)  
 Komoro nesi - Comoros  
@@ -1853,7 +1856,7 @@ kon - juntos
 kon bon - emparejar (quedar)  
 kon forma - amoldarse  
 kon funsi bil - compatible  
-kon gung - colaborar  
+kon gong - colaborar  
 kon pasi - compasión  
 kon sabe - información  
 kon sana sim - comunismo  
@@ -2135,7 +2138,7 @@ manera - comportamiento (conducta)
 manera - comportarse (portarse)  
 manete - imán  
 manete di - magnético  
-mang - ocupado (atareado)  
+mangu - ocupado (atareado)  
 mangan - manganeso  
 mango - mango  
 mangus - mangostán (jobo de la India)  
@@ -2266,7 +2269,7 @@ meza tela - mantel
 meza topo - meseta  
 mi - yo  
 mi su - mi  
-mien - fideo (tallarín)  
+men - fideo (tallarín)  
 migra - migración  
 mikro - micro-  
 mikro bio - microbio  
@@ -2280,8 +2283,8 @@ milke - leche
 milke kardon - cardo mariano  
 mima - imitar  
 mima ja - imitador  
-mimen - nosotros  
-mimen su - nuestro  
+mimon - nosotros  
+mimon su - nuestro  
 min - menos  
 min di fen - minoría  
 min ka basa - demasiado poco  
@@ -2673,9 +2676,9 @@ pedal - pedal
 pedal sikle - bicicleta  
 pede - pedo  
 pei - pago  
-pei gung - profesión (ocupación)  
-pei gung di - profesional (de carrera)  
-pei gung jiu - carrera  
+pei gong - profesión (ocupación)  
+pei gong di - profesional (de carrera)  
+pei gong jiu - carrera  
 pelmen - empanada (pelmeni)  
 pelpel - mariposa (palomilla)  
 pende - colgar  
@@ -2914,6 +2917,10 @@ ritim - ritmo
 rivo - rio  
 rivo kinar - ribera  
 robote - robot (bot)  
+rode - rosa  
+rode rang - rosa  
+rode salmon - salmón rosado  
+rode yum - rodio  
 roke kursi - mecedora  
 roke muzika - rock  
 rokete - cohete (misil)  
@@ -2939,10 +2946,6 @@ rota raite - en el sentido del las agujas del reloj
 rota she - rotor  
 rota tafun - huracán (tifón)  
 rota van gi - trompo  
-roza - rosa  
-roza rang - rosa  
-roza salmon - salmón rosado  
-roza yum - rodio  
 Ruanda - Ruanda  
 rubi - rojo  
 rubi - rubí  
@@ -3136,14 +3139,14 @@ shefe di - principal
 shefe minister - primer ministro  
 sheku - piedra  
 sheku jang ja - albañil (mampostero, cantero)  
-sheng - victoria  
+shenga - victoria  
 shia - facción  
 shia islam din - chiismo (chía)  
 shifu - maestro (profesor)  
 shikaya - queja (lamento)  
 shike - elegante (chic)  
-shim - corazón  
-shin - creencia (fe)  
+sim - corazón  
+sina - creencia (fe)  
 shindau din - sintoísmo  
 shipi - mojado  
 shir - poema  
@@ -3415,7 +3418,7 @@ tika - pedazo
 tikete - boleto  
 tim - equipo  
 Timor - Timor  
-ting - parada (alto)  
+halte - parada (alto)  
 tipe - tipo (género)  
 tire - tirar  
 tire dara - corriente de resaca  
@@ -3466,8 +3469,8 @@ tuh - escupir (bufar)
 tul - herramienta  
 tule yum - tulio  
 tulpan - tulipán  
-tumen - ustedes  
-tumen su - vuestro  
+tumon - ustedes  
+tumon su - vuestro  
 tundra - tundra  
 tunel - túnel  
 tunel tren - metro  
@@ -3529,9 +3532,9 @@ Valis e Futuna nesi - Wallis y Futuna
 valu - valor  
 vampir - vampiro  
 vampir ohtopus - calamar vampiro  
-van - diversión  
-van di - divertido  
-van gi - jugete  
+vanu - diversión  
+vanu di - divertido  
+vanu gi - jugete  
 vanadi yum - vanadio  
 vanila - vainilla  
 Vanuatu - Vanuatu  
@@ -3633,7 +3636,7 @@ yam fito - verdura (legumbre)
 yam kamar - comedor  
 yam she - comida  
 yam yau - hambre  
-yamen - ellos o ellas  
+yamon - ellos o ellas  
 yang - variedad (tipo, estilo)  
 yasen - fresno  
 yatim - huérfano  
@@ -3708,8 +3711,8 @@ zoku - todavía (aún)
 zoku di - continuo (analógico)  
 zombi - zombi  
 zona - cinturón (zona)  
-zong - poste (estaca, palo)  
-zong minte - hierbabuena  
+moka kane - estaca  
+kane minte - hierbabuena  
 zou - animal (bestia)  
 zou bagi - zoo  
 zou kata - fábula  
@@ -3728,3 +3731,4 @@ zumarde - esmeralda
  - lluvioso (pluvioso)  
  - llover  
  - adversario (oponente)  
+bus halte - parada de autobús  

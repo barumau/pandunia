@@ -247,7 +247,7 @@ carne - nama
 carrapato (ácaros) - akare  
 carregar -   
 carregar - fa karga  
-carreira - pei gung jiu  
+carreira - pei gong jiu  
 carta - karte  
 carta - metre grafi  
 carta geográfica - topo metre grafi  
@@ -286,7 +286,7 @@ cheirar - aroma
 cheiro - aroma  
 chibata - uma bichi  
 chicote - bichi  
-China - Junguo  
+China - Jungoku  
 chocolate - choklate  
 chumbo - plumbe  
 chuva - shava  
@@ -306,7 +306,7 @@ cobre - kupre
 coelho (lebre) - tuzi  
 cogumelo - fungu frute  
 coisa - she  
-colaborar - kon gung  
+colaborar - kon gong  
 colar (aderir) - fa glu  
 colher - chamacha  
 colher de chá - chai chamacha  
@@ -371,6 +371,7 @@ crónico - dura di
 cubo - kube  
 cultivar - nong  
 cume (pico, topo) - shan pike  
+curry - kari  
 curva - kurva  
 cádmio - kadim yum  
 cálamo - gana kalam  
@@ -397,6 +398,7 @@ de - ze
 dedo - angul  
 deitar - kush  
 deixar - lashe  
+demora (atraso, espera) - dele  
 dente-de-leão (taráxaco) - makan hua  
 derretre - yong  
 descanso (repouso) - shanti  
@@ -503,6 +505,7 @@ esqueleto - oste jama
 esquerdo - lefte  
 esquilo - ekore  
 esse (aquele) - go  
+estaca - moka kane  
 estado - hal  
 estanho - estan  
 estar deitado (jazer) - kush  
@@ -636,6 +639,7 @@ gênero gramatical - basha jinse
 ####H - H  
 habilidade (capacidade) - bil ta  
 haste (talo, caule) - tana  
+hena - hina  
 Hesse (Héssia) - Hese  
 hidrogéno - hidro  
 higiene - salu safa ta  
@@ -648,7 +652,7 @@ hora - hor
 hortelã - minta  
 hortelã-da-água - sui minta  
 hortelã-pimenta - pipre minta  
-hortelã-verde - zong minte  
+hortelã-verde - kane minte  
 hotel - hotel  
 humanismo - insan sim  
 humano - insan di  
@@ -932,7 +936,7 @@ nobélio - nobel yum
 noite - noche  
 noitinha - sham  
 norte - norde  
-nosso - mimen su  
+nosso - mimon su  
 nostalgia (saudade) - nostalgia  
 nota - note she  
 novato (neófito) - nove ka  
@@ -947,7 +951,7 @@ não - no
 não-binário - nobi  
 néon - neon  
 níquel - nikel  
-nós - mimen  
+nós - mimon  
 núcleo (cerne) - kerne  
 número - nomer  
 o (a) - la  
@@ -960,7 +964,7 @@ obsidiana - osidian
 oceano - dai hai  
 ocular - oko di  
 ocultar (esconder) - fa sir  
-ocupado (atarefado) - mang  
+ocupado (atarefado) - mangu  
 oganesson - oganeson  
 oito (8) - bati  
 oleiro - pote ja  
@@ -1012,6 +1016,7 @@ papoila - medan papi
 papoila-dormideira - sona papi  
 par - par jan  
 para-lama - fan defa bano  
+parada de ônibus - bus halte  
 parque - parke  
 parte - fen  
 partida - meche  
@@ -1089,7 +1094,7 @@ porto marítimo - hai porte
 Porto Rico - Portoriko  
 porto-riquenho - portoriko jan  
 possível - bil  
-poste (estaca) - zong  
+poste (coluna) - kolum  
 posterior - pos di  
 potássio - kali yum  
 poucos - shau  
@@ -1112,7 +1117,7 @@ processamento de dados - data chuli
 processamento de imagem - grafi chuli  
 processo - chuli  
 professor (docente) - shula guru  
-profissão - pei gung  
+profissão - pei gong  
 profundo - fase tele  
 programa - program  
 projeto - projete  
@@ -1156,7 +1161,7 @@ questão (pergunta) - sual
 quiabo - bamia  
 quilate - kirate  
 quimono - kimono  
-quincã (cunquate) - kankuate  
+quincã (cunquate) - gingam  
 quinta-feira - var nelu  
 quivi - kivi  
 química - kimi logi  
@@ -1209,7 +1214,7 @@ roda - chakra
 roentgênio - rentegen yum  
 Roma - Roma  
 romance - long kata  
-rosa - roza  
+rosa - rode  
 roupa (vestidura) - fuku  
 rouxinol - bulbul  
 rubi - rubi  
@@ -1221,7 +1226,7 @@ rádon - radon
 rápido - rapide  
 rã - krokro  
 rénio - ren yum  
-ródio - roza yum  
+ródio - rode yum  
 rótula (patela) - guta kaske oste  
 ####S - S  
 sabedoria (sagacidade, sapiência) - sofita  
@@ -1236,7 +1241,7 @@ sal - sal
 sala (câmara) - kamar  
 salino - sal di  
 salmão-cão (salmão-keta) - baku salmon  
-salmão-rosa - roza salmon  
+salmão-rosa - rode salmon  
 salmão-vermelho - lal salmon  
 salsicha - sosis  
 samambaia - parne  
@@ -1357,9 +1362,9 @@ torta - pai
 toupeira - krote  
 toxicologia - toksi logi  
 toxina - bio toksi  
-trabalhador - gung ja  
-trabalhar - gung  
-trabalho - gung  
+trabalhador - gong ja  
+trabalhar - fa gong  
+trabalho - gong  
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - shanti di  
 transcorrer - si dura  
@@ -1443,7 +1448,7 @@ vogal - jung fon
 voltar (regressar) - be retro  
 vontade - vol she  
 voo - fei  
-vosso - tumen su  
+vosso - tumon su  
 votar - fa vote  
 voto - vote  
 vulcão - hogo shan  

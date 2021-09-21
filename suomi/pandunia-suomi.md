@@ -369,9 +369,9 @@ be supra - ylittää
 be tam - ahnehtia  
 be tele loka - teleportata  
 be teza - kiihdyttää (voimistuttaa)  
-be ting - pysähtyä  
+be halte - pysähtyä  
 be turbe - vaivautua  
-be van - leikkiä (pitää hauskaa)  
+be vanu - leikkiä (pitää hauskaa)  
 be vide - näkyä  
 be yong liga - sulaa yhteen (fuusioitua)  
 be zai - ilmestyä  
@@ -616,6 +616,7 @@ daku ja - saaja (vastaanottaja)
 daku shitu - voitot ja tappiot  
 dalil - todiste (todistus, osoitus, demonstraatio)  
 dama gem - tammipeli  
+dan - sija (taso, ranking, dan)  
 dane - jyvä (luoti)  
 dane sekur - luodinkestävä  
 dang - kilistää (soittaa kelloa)  
@@ -667,6 +668,8 @@ defa bano - suojakilpi
 defa ja - puolustaja  
 defa kaske - suojakypärä  
 Deimos - Deimos  
+dele - viive (odotus)  
+dele do - odottaa  
 demo - väestö (kansa)  
 demo grafi - väestötiede (demografia)  
 demo krati - demokratia  
@@ -676,7 +679,6 @@ demo multi ta - väenpaljous
 demon - demoni (piru)  
 den - päivä (vuorokausi)  
 den loge - päiväkirja  
-deng - odottaa  
 des - kymmenen (10)  
 des kilo - sata tuhatta  
 desen - piirustus  
@@ -965,6 +967,7 @@ fa halal - sallia (antaa lupa)
 fa hapu - sovittaa (mukauttaa)  
 fa haram - kieltää  
 fa has - erottaa (nähdä ero)  
+fa hen - vihata (inhota)  
 fa hisabu - laskea (tehdä laskutoimitus)  
 fa hogo - polttaa  
 fa in - panna sisään  
@@ -976,7 +979,7 @@ fa jela - vangita
 fa jene - synnyttää  
 fa jin - edistää  
 fa jude - tuomita  
-fa jung - keskittää  
+fa jong - keskittää  
 fa kai - aukaista (avata)  
 fa kanal - kanavoida  
 fa kancha dake - lasittaa  
@@ -1090,7 +1093,7 @@ fa sela - neuvoa
 fa sense - aistia  
 fa sharti - vaatia (edellyttää)  
 fa shibai - hävitä (kärsiä tappio)  
-fa shin - uskoa (luottaa)  
+fa sina - uskoa (luottaa)  
 fa shipi - kosteuttaa  
 fa shite - paskantaa (ulostaa)  
 fa shofer - ajaa (kuskata)  
@@ -1122,14 +1125,14 @@ fa tense - kirentää (kiristää)
 fa tercha - panna vinoon  
 fa tese - väittää  
 fa teste - yrittää (kokeilla)  
-fa ting - pysäyttää  
+fa halte - pysäyttää  
 fa transe - kulkea poikki, läpi tai yli  
 fa trati - sopia (tehdä sopimus)  
 fa truke - jekuttaa (petkuttaa)  
 fa turbe - häiritä (vaivata)  
 fa un she - yhdistää  
 fa valu - arvottaa  
-fa van - viihdyttää (huvittaa)  
+fa vanu - viihdyttää (huvittaa)  
 fa ver - todentaa  
 fa verse - kääntää jtkn päin  
 fa vise - korvata  
@@ -1460,12 +1463,12 @@ gun - armeija (sotajoukko)
 gun jan - sotilas  
 gun raja - sotaherra (generalissimo)  
 gun raja desha - sotaherran maa  
-gung - työ  
-gung - työskennellä  
-gung ja - työntekijä (työläinen)  
-gung kan - tehdas (paja)  
-gung meza - työpöytä (kirjoituspöytä)  
-gung shula ja - kisälli  
+gong - työ  
+fa gong - työskennellä  
+gong ja - työntekijä (työläinen)  
+gong kan - tehdas (paja)  
+gong meza - työpöytä (kirjoituspöytä)  
+gong shula ja - kisälli  
 guru - guru (opettaja)  
 guste - maku  
 guste ka - maistua  
@@ -1550,8 +1553,7 @@ Helsinki - Helsinki
 hem - miettiä (pohtia, pitää jonakin)  
 hem… - hmm…  
 hema - teltta  
-hen - viha  
-hen - vihata  
+hen - viha (inho)  
 hero - sankari (urho)  
 hero di - urhea (sankarillinen)  
 hero kata - sankaritaru (legenda)  
@@ -1567,6 +1569,7 @@ hima rose - kuura
 Himalaya - Himalaja  
 hin - puuttua (ilman, vailla)  
 hin di - ilman oleva (-ton)  
+hina - hennapensas  
 hindi yum - indium  
 Hindu - hindu  
 Hindu basha - hindin kieli  
@@ -1771,7 +1774,7 @@ jung - keskittyä (olla keskellä)
 Jung Afrika Komun krati - Keski-Afrikan Tasavalta  
 jung fon - vokaali  
 jung shula kan - yläaste ja lukio  
-Junguo - Kiina  
+Jungoku - Kiina  
 jupe - hame  
 Jupiter - Jupiter  
 jus - mehu  
@@ -1835,13 +1838,13 @@ kanal - oja (kanava, kanaali)
 kancha - lasi  
 kandela - kandela  
 kandi - makeinen (karkki, namu)  
-kane - tanko (sauva, patukka)  
+kane - tanko (pinna, sauva, patukka)  
 kane kasa - häkki  
 kane pang - patonki (ranskanleipä)  
 kanga - kampa  
 kangaru - kenguru  
 kanjar - tikari  
-kankuate - kumkvatti  
+gingam - kumkvatti  
 kano - kanootti  
 kanon - klassikko  
 kanon di - klassinen (kanooninen)  
@@ -1860,6 +1863,7 @@ karbon - hiili
 karbon duokside - hiilidioksidi  
 karbon kalam - lyijykynä  
 karga - kuorma (lasti, taakka)  
+kari - curry (karri)  
 Karibe - Karibia  
 karibu - läheinen (melkein)  
 karim - anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)  
@@ -1982,7 +1986,7 @@ koloni - kolonia (siirtomaa)
 koloni ja - kolonialisti  
 koloni sim - kolonialismi  
 koloni sim ja - kolonialisti  
-kolum - pylväs (pilari)  
+kolum - pylväs (pilari, tolppa)  
 koma - pilkku  
 komal - pehmeä  
 Komoro nesi - Komorit  
@@ -1993,7 +1997,7 @@ komun krati - tasavalta
 kon - yhdessä  
 kon basha - yhteiskieli  
 kon bon - sopia  
-kon gung - tehdä yhteistyötä  
+kon gong - tehdä yhteistyötä  
 kon sabe - tieto  
 kon sana sim - kommunismi  
 kon sana sim ja - kommunisti  
@@ -2258,7 +2262,7 @@ manera - käytös (käyttäytyminen, tapa, tavat)
 manera - käyttäytyä  
 manete - magneetti  
 manete di - magneettinen  
-mang - kiireinen  
+mangu - kiireinen  
 mangan - mangaani  
 mango - mango  
 mangus - mangostani  
@@ -2312,7 +2316,6 @@ mau - kissa
 maya - maya (mayaintiaani)  
 Mayote - Mayotte  
 maze - sukka  
-me poze - sija (paikka järjestyksessä)  
 meche - ottelu (matsi)  
 medal - mitali  
 medan - kenttä (aukio)  
@@ -2374,7 +2377,7 @@ meza - pöytä
 meza tela - pöytäliina  
 mi - minä  
 mi su - minun  
-mien - nuudeli  
+men - nuudeli  
 migra - muutto (migraatio)  
 mikro bio - mikrobi  
 mikro bio logi - mikrobiologia  
@@ -2386,8 +2389,8 @@ mili metre - millimetri
 milke - maito  
 mima - matkia (imitoida)  
 mima ja - matkija (imitaattori)  
-mimen - me  
-mimen su - meidän  
+mimon - me  
+mimon su - meidän  
 min - vähemmän  
 min di fen - vähemmistö  
 min ka basa - liian vähän  
@@ -2757,8 +2760,8 @@ pedal - poljin (pedaali)
 pedal sikle - polkupyörä  
 pede - pieru  
 pei - maksu  
-pei gung - ammatti  
-pei gung ja - ammattilainen  
+pei gong - ammatti  
+pei gong ja - ammattilainen  
 pelmen - myky (pelmeni, ravioli)  
 pelpel - perhonen  
 pende - roikuttaa  
@@ -2973,6 +2976,9 @@ riti - tapa (keino, menetelmä, menettely, metodi)
 ritim - rytmi  
 rivo - joki (virta)  
 robote - robotti  
+rode - ruusu  
+rode rang - vaaleanpunainen  
+rode yum - rodium  
 roke - keinuttaa (keikuttaa)  
 roke kursi - keinutuoli (kiikkutuoli)  
 roke muzika - rokki (rock)  
@@ -2997,9 +3003,6 @@ rota lefte - vastapäivään
 rota she - roottori (propelli)  
 rota tafun - pyörremyrsky (hurrikaani, taifuuni, tornado)  
 rota van gi - hyrrä  
-roza - ruusu  
-roza rang - vaaleanpunainen  
-roza yum - rodium  
 Ruanda - Ruanda  
 rubi - punainen  
 rubi - rubiini  
@@ -3074,7 +3077,7 @@ sama - taivas
 sama hal - sää  
 samari yum - samarium  
 Samoa - Samoa  
-sana - tuotanto  
+sana - valmistus (tuotanto)  
 sana basha - keinotekoinen kieli (tekokieli, keinokieli)  
 sana ja - tekijä (valmistaja)  
 sana ja di - tuottava (tuottelias)  
@@ -3179,14 +3182,14 @@ shefe - päällikkö (pomo)
 shefe di - pää-  
 shefe minister - pääministeri (suurvisiiri)  
 sheku - kivi (hippu)  
-sheng - voitto  
+shenga - voitto  
 shi - herra tai rouva  
 shia - porukka (kuppikunta, lohko, siipi)  
 shia islam din - šiialaisuus  
 shikaya - valitus (reklamaatio)  
 shike - elegantti  
-shim - sydän  
-shin - usko (luottamus)  
+sim - sydän  
+sina - usko (luottamus)  
 shindau din - sintolaisuus  
 shipi - märkä (kostea)  
 shir - runo  
@@ -3438,7 +3441,7 @@ tika - pala
 tikete - lippu (piletti)  
 tim - joukkue (tiimi)  
 Timor - Timor  
-ting - pysähdys  
+halte - pysähdys  
 tipe - tyyppi (laji, genre)  
 tire - vetää (kiskoa)  
 tire kane - vipu  
@@ -3494,8 +3497,8 @@ tul - työkalu
 Tule - Thule  
 tule yum - tulium  
 tulpan - tulppaani  
-tumen - te  
-tumen su - teidän  
+tumon - te  
+tumon su - teidän  
 tundra - tundra  
 tundra shan - tunturi  
 tunel - tunneli  
@@ -3562,9 +3565,9 @@ Valis e Futuna nesi - Wallis ja Futuna
 valu - arvo  
 vampir - vampyyri  
 vampir ohtopus - vampyyritursas  
-van - huvi (hauskuus)  
-van di - hauska (huvittava)  
-van gi - leikkikalu (lelu)  
+vanu - huvi (hauskuus)  
+vanu di - hauska (huvittava)  
+vanu gi - leikkikalu (lelu)  
 vanadi yum - vanadiini  
 vanila - vanilja  
 Vanuatu - Vanuatu  
@@ -3674,8 +3677,8 @@ yam fito - kasvis
 yam kamar - ruokasali  
 yam she - ruoka  
 yam yau - nälkä  
-yamen - he  
-yamen su - heidän  
+yamon - he  
+yamon su - heidän  
 yang - laji (tyyppi, tyyli)  
 Yapetus - Japetus  
 yasen - saarni  
@@ -3755,7 +3758,7 @@ zoku - vielä (yhä, jatkua)
 zoku di - jatkuva (analoginen)  
 zombi - zombi  
 zona - vyö  
-zong - tanko (pinna, tolppa, paalu)  
+moka kane - keppi (puukeppi)  
 zou - eläin  
 zou agro shuta - karjanhoito  
 zou bagi - eläintarha  
@@ -3778,3 +3781,4 @@ zumarde - smaragdi
  - sateinen  
  - sataa  
  - vastustaja (vihollinen)  
+bus halte - bussipysäkki (linja-autopysäkki)  
