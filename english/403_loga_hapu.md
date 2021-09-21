@@ -75,34 +75,61 @@ Some examples of this word building process are shown in the table below.
 | 术 shu4 | 術 seot6 | 術 jutsu | 술 sul  | thuật | **shuta** |
 
 
-### Mapping finals from Mandarin to Pandunia
+### Mapping syllables from Mandarin to Pandunia
 
-#### Diphthongs
+What follows is a table of all existing syllables in Mandarin and their transformation to Pandunia.
+The header row and column include all Mandarin initials and finals, respectively, in Hanyu Pinyin.
+The data cells include the Mandarin syllables transformed into Pandunia spelling.
 
-| Mandarin | Pandunia | Notes and examples |
-|----------|----------|--------------------|
-| ia       | ia       | |
-| ie       | ie       | |
-| iao      | io       | |
-| iu       | iu       | |
+#### Vowels and diphthongs
 
-#### Nasal finals
+|     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| a   | a   | ba  | pa  | ma  | fa  | da  | ta  | na  | la  | ga  | ka  | ha  | zha | cha | sha |     | za  | ca  | sa  |
+| o   | o   | bo  | po  | mo  | fo  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| uo  | vo  |     |     |     |     | do  | to  | no  | lo  | go  | ko  | ho  | jo  | cho | sho | ro  | zo  | co  | so  |
+| ou  | ou  |     | pou | mou | fou | dou | tou | nou | lou | gou | kou | hou |zhou |chou |shou | rou | zou | cou | sou |
+| u   | vu  | bu  | pu  | mu  | fu  | du  | tu  | nu  | lu  | gu  | ku  | hu  | ju  | chu | shu | ru  | zu  | cu  | su  |
+| e   | e   |     |     | me  |     | de  | te  | ne  | le  | ge  | ke  | he  | je  | che | she | re  | ze  | ce  | se  |
+| ai  | ai  | bai | pai | mai |     | dai | tai | nai | lai | gai | kai | hai | zhai| chai| shai|     | zai | cai | sai |
+| ei  | ei  | bei | pei | mei | fei | dei | tei | nei | lei | gei | kei | hei | zhei|     | shei|     | zei |     |     |
+| i   |     |     |     |     |     |     |     |     |     |     |     |     | zhi | chi | shi | ri  | zi  | ci  | si  |
+| i   | i   | bi  | pi  | mi  |     | di  | ti  | ni  | li  |     |     |     | ji  | qi  | shi |     |     |     |     |
+| ie  | ye  | bie | pie | mie |     | die | tie | nie | lie |     |     |     | jie | chie| shie|     |     |     |     |
+| ia  | ya  |     |     |     |     | dia |     |     | lia |     |     |     | jia | chia| shia|     |     |     |     |
+| iao | yo  | bio | pio | mio |     | dio | tio | nio | lio |     |     |     | jio | chio| shio|     |     |     |     |
+| iu  | you |     |     | miu |     | diu |     | niu | liu |     |     |     | jiu | chiu| shiu|     |     |     |     |
+| ü   | yu  |     |     |     |     |     |     | nü  | lü  |     |     |     | ju  | qu  | xu  |     |     |     |     |
+| üe  | yue |     |     |     |     |     |     | nüe | lüe |     |     |     | jue | que | xue |     |     |     |     |
+| ao  | au  | bau | pau | mau |     | dau | tau | nau | lau | gau | kau | hau | jau | chau| shau| rau | zau | cau | sau |
+| ua  | va  |     |     |     |     |     |     |     |     | gua | kua | hua | jua | chua| shua| rua |     |     |     |
+| uai | vai |     |     |     |     |     |     |     |     |guai |kuai |huai |zhuai|chuai|shuai|     |     |     |     |
+| ui  | vei |     |     |     |     | dui | tui |     |     | gui | kui | hui | jui |chui |shui | rui | zui | cui | sui |
+| er  | er  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
-| Mandarin | Pandunia | Notes and examples |
-|----------|----------|--------------------|
-| an       | an / am  | Mandarin 贪 tān / Cantonese 貪 taam1 > **tam** |
-| en       | on / em  | 门 mén > **mon** |
-| in       | in / im  | Mandarin 心 xīn / Cantonese 心 sam1 > **shim** |
-| ian      | en / em  | 年 nián > **nen** |
-| un       | un       | |
-| ün       | un       | Mandarin 军 jün1 / Cantonese 軍 gwan1 > **gun** |
-| uan      | uan      | |
-| ang      | ang      | |
-| eng      | eng      | 冷 lěng > **leng** |
-| ing      | ing      | 明 míng > **ming** |
-| ong      | ung      | 中 zhōng > **jung** |
-| iong     | ong      | jiong > **jong** |
-| iang     | iang     | |
-| uang     | uang     | |
-|          |          | |
+### Finals with -n
+
+|     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| an  | an  | ban | pan | man | fan | dan | tan | nan | lan | gan | kan | han |zhan |chan |shan | ran | zan | can | san |
+| en  | en  | bon | pon | mon | fen | don |     | non |     | gen | ken | hen | jon |chon |shon | ren | zen | cen |sen  |
+| ian | yen | ben | pen | men |     | den | ten | nen | len |     |     |     | jen |chen |shen |     |     |     |     |
+| in  | yin | bin | pin | min |     |     |     | nin | lin |     |     |     | jin |chin |shin |     |     |     |     |
+| un  | vun |     |     |     |     | dun | tun | nun | lun | gun | kun | hun |zhun |chun |shun | run | zun | cun | sun |
+| ün  | yun |     |     |     |     |     |     |     |     |     |     |     | jun | qun | xun |     |     |     |     |
+| uan | van |     |     |     |     |duan |tuan |nuan |luan |guan |kuan |huan |zhuan|chuan|shuan|ruan |zuan |cuan |suan |
+| üan | ven |     |     |     |     |     |     |     |     |     |     |     |juen |chuen|shuen|     |     |     |     |
+
+#### Finals with -ng
+
+|     | -   |  b  |  p  |  m  |  f  |  d  |  t  |  n  |  l  |  g  |  k  |  h  |j/zh |q/ch |x/sh |  r  |  z  |  c  |  s  |
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ang | ang |bang |pang |mang |fang |dang |tang |nang |lang |gang |kang |hang |zhang|chang|shang|rang |zang |cang |sang |
+| eng | eng |beng |peng |meng |feng |deng |teng |neng |leng |geng |keng |heng |zheng|cheng|sheng|reng |zeng |ceng |seng |
+| ing | ing |bing |ping |ming |     |ding |ting |ning |ling |     |     |     |jing |ching|shing|     |     |     |     |
+| ong |     |     |     |     |     |dong |tong |nong |long |gong |kong |hong |jong |chong|     |rong |zong |cong |song |
+|iong |yong |     |     |     |     |     |     |     |     |     |     |     |jung |chung|shung|     |     |     |     |
+|ueng |veng |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+|uang |vang |     |     |     |     |     |     |     |     |guang|kuang|huang|zhuang|chuang|shuang|  |     |     |     |
+|iang |yang |     |     |     |     |     |     |niang|liang|     |     |     |jiang|chiang|shiang|   |     |     |     |
 
