@@ -114,7 +114,7 @@ amount (quantity) - poli ta
 ampere (amp) - amper  
 amplify (scale) - dai darja  
 ampoule (vial) - ampul  
-amuse (entertain) - fa van  
+amuse (entertain) - fa vanu  
 anaerobic - an air bio di  
 anaglyphic (stereoscopic) - du grafi di  
 anal - anus di  
@@ -156,7 +156,7 @@ apple - aple
 applesauce - aple sos  
 application - aplika  
 apply (put to use for a purpose) - aplika  
-apprentice - gung shula ja  
+apprentice - gong shula ja  
 approach (get near) - be karibu  
 approve - bon rai  
 apricot (plum, peach) - briko  
@@ -356,8 +356,8 @@ being (entity) - si ja
 bel (unit) - bel  
 Belarus - Belarus  
 Belgium - Belgi  
-belief (faith, creed) - shin  
-believe - fa shin  
+belief (faith, creed) - sina  
+believe - fa sina  
 believer (religious person) - din ja  
 Belize - Belize  
 bell - dang gi  
@@ -509,11 +509,12 @@ burn (cause to burn) - fa hogo
 burst (pop) - parche kai  
 Burundi - Rundi  
 bus - bus  
+bus stop - bus halte  
 bush (shrub) - tal moka  
 business (commercial activity) - biznes  
 businessperson (businessman) - biznes ja  
 bust (bosom) - buste  
-busy (occupied) - mang  
+busy (occupied) - mangu  
 but (rather) - a  
 butcher - bucha  
 butcher - bucha ja  
@@ -581,7 +582,7 @@ carbohydrate (saccharide) - karbon sui
 carbon (coal) - karbon  
 carbon dioxide - karbon duokside  
 card - karte  
-career (professional life) - pei gung jiu  
+career (professional life) - pei gong jiu  
 Caribbean - Karibe  
 carpenter - moka jang ja  
 carpet (rug) - tal tela  
@@ -608,7 +609,7 @@ celestial body - astro
 cell (biology) - selu  
 cement - semente  
 centenary - sento nen di  
-center (concentrate) - fa jung  
+center (concentrate) - fa jong  
 centi- (per cent) - senti  
 centimeter (cm) - sentimitre  
 central (middle) - jung di  
@@ -662,7 +663,7 @@ child (minor) - bacha
 child (offspring) - ben  
 Chile - Chile  
 chimpanzee - chimpanzi  
-China - Junguo  
+China - Jungoku  
 chinchilla - chinchila  
 Chinese or Japanese character (hanzi, kanji) - Han zi  
 chlorine - klor  
@@ -743,7 +744,7 @@ coin - pesa diske
 cola - kola  
 cold (illness) - zukam  
 cold - leng  
-collaborate (work together) - kon gung  
+collaborate (work together) - kon gong  
 collapse - parche tal  
 collect (gather, bring together, assemble, congregate) - fa jama  
 collect fees or taxes - kape yo taksi  
@@ -756,7 +757,6 @@ colonist - koloni ja
 colonize - fa koloni  
 colony (settlement) - koloni  
 color (colored) - rang  
-column (pillar, pole, post) - kolum  
 comb - kanga  
 come (arrive) - lai  
 comic (cartoon) - grafi kata  
@@ -898,6 +898,7 @@ cumin (jeera) - zira
 cupboard (closet, cabinet, wardrobe) - almari  
 curium - kuri yum  
 current (contemporary, present-day) - zai zaman di  
+curry - kari  
 curse (damn!) - lana  
 curtain - parde  
 curve (bend) - kurva  
@@ -981,7 +982,7 @@ dentist - dante dava ja
 depth - fase tele ta  
 descriptive - sifa di  
 desert - arena topo  
-desk - gung meza  
+desk - gong meza  
 despise (scorn) - fa paraya  
 destine (set) - chuze yo gol  
 destiny (fate, lot, kismet) - kisma  
@@ -1165,7 +1166,7 @@ England - English
 English - english di  
 English daisy - english margarita  
 English oak - europa baluta  
-enjoy (play) - be van  
+enjoy (play) - be vanu  
 enough (sufficient) - basa  
 enter (get in) - be in  
 enter (insert, put in) - fa in  
@@ -1431,11 +1432,11 @@ fruit - frute
 frying pan - tava  
 fuck (copulate) - choda  
 full (complete, saturated) - pul  
-fun (amusement) - van  
+fun (amusement) - vanu  
 function (work) - funsi  
 fungus (mushroom) - fungu  
 funnel - dara tubo  
-funny (amusing) - van di  
+funny (amusing) - vanu di  
 fusion (amalgamation) - yong liga  
 future time - pos zaman  
 ####G - G  
@@ -1623,7 +1624,7 @@ harness - harnes
 hashish - hashish  
 hassium - hese yum  
 hat (cap) - tupi  
-hate (despise) - hen  
+hate (detest) - fa hen  
 hatred (hate, resentment, odium) - hen  
 Hawaii - Havai  
 Hawaiian archipelago - Havai nesi  
@@ -1637,7 +1638,7 @@ heal (cure, treat, remedy) - dava
 health - salu ta  
 healthy - salu  
 hear (listen) - audi  
-heart - shim  
+heart - sim  
 heavy (requiring much effort, hard, difficult, serious, important, etc.) - bari  
 heavy - veze di  
 heavy metal - bari metal  
@@ -1652,6 +1653,7 @@ help (aid, assistance) - mede
 help (assist) - fa mede  
 helper (supporter, proponent, backer) - mede ja  
 Helsinki - Helsinki  
+henna (alcanna) - hina  
 here - na ni  
 heritage (legacy, bequest) - varis  
 hero - hero  
@@ -1942,7 +1944,7 @@ Korean - chosen di
 Korean melon - aroma melon  
 Kosovo - Kosovo  
 krypton - kriton  
-kumquat - kankuate  
+kumquat - gingam  
 Kuwait - Kuvaitia  
 Kyrgyzstan - Kirgize  
 ####L - L  
@@ -2156,6 +2158,7 @@ Manichaeism - mani din
 mankind (humanity) - insan jong  
 mantra - mantra  
 manual - hande di  
+manufacturing (production, industry) - sana  
 many (much) - multi  
 many (much, more than one) - poli  
 map (chart, geographic map) - topo metre grafi  
@@ -2463,7 +2466,7 @@ nobelium - nobel yum
 nobody (no-one) - siro jan  
 noise - kelele  
 none - siro she  
-noodle - mien  
+noodle - men  
 noon (midday) - medi dia  
 Norfolk Island - Norfolke nesi  
 norm (standard) - norma  
@@ -2544,7 +2547,7 @@ on behalf of - na vakil da
 once (one time) - un mar  
 oncilla - bagre oselote  
 one (1) - un  
-one (you, they, impersonal pronoun) - men  
+one (you, they, impersonal pronoun) - mon  
 onion - piaze  
 online - na lin  
 only (single, sole, lone, just) - un di  
@@ -2586,10 +2589,10 @@ otter - lotra
 Ottoman - osman  
 Ottoman Empire - Osman Imperi Desha  
 ouch (expressing pain, distress, shock and fear) - ayo  
-our - mimen su  
+our - mimon su  
 oust (expel, exclude, except, save) - fa ekso  
 outcast (pariah) - paraya  
-outcome (victory or defeat) - sheng bai  
+outcome (victory or defeat) - shenga bai  
 outer (external) - ekso di  
 outside (exterior) - ekso  
 outside - na ekso  
@@ -2757,12 +2760,13 @@ piece (nugget, tikka) - tika
 pierce (perforate, bore) - fa kong  
 pig - goro  
 pilaf (pulao) - polau  
+pillar (column, pole, post) - kolum  
 pilot - pilote  
 pinch - pinse  
 pine tree - song  
 pineapple - nanas  
-pink (rosy) - roza rang  
-pink salmon - roza salmon  
+pink (rosy) - rode rang  
+pink salmon - rode salmon  
 pipe - pipe  
 piquant - pin sense di  
 piracy - pirate  
@@ -2856,7 +2860,6 @@ pose (position) - poze
 pose (set, plant) - fa poze  
 possessive postposition (’s) - su  
 possible (able, can, maybe) - bil  
-post (stake, peg, skewer) - zong  
 post office - posta kan  
 postal stamp - posta chape  
 postmark (postage stamp) - posta marke  
@@ -2907,11 +2910,10 @@ problem (issue) - problem
 problematic - problem di  
 process (handling, treatment, procedure) - chuli  
 produce (create, make) - fa sana  
-production - sana  
 productive (fertile) - sana ja di  
-profession (job, occupation, trade, vocation) - pei gung  
-professional (occupational, career) - pei gung di  
-professional (pro) - pei gung ja  
+profession (job, occupation, trade, vocation) - pei gong  
+professional (occupational, career) - pei gong di  
+professional (pro) - pei gong ja  
 professor - profesor  
 program (set of structured activities) - program  
 programmer (coder) - program ja  
@@ -2996,7 +2998,7 @@ rajah - hindu raja
 Ramadan - ramazan  
 ramp (incline, slope) - rampe  
 random - zar di  
-rank (position in an ordered list) - me poze  
+rank (grade, dan) - dan  
 rare (scarce, uncommon) - nadir  
 rare (uncommon, sparse) - rare  
 rarity - rare ta  
@@ -3070,7 +3072,7 @@ Rhea - Rea
 rhenium - ren yum  
 Rhine - Ren  
 rhinoceros - kornonos  
-rhodium - roza yum  
+rhodium - rode yum  
 rhyme (verse) - rim  
 rhythm (beat) - ritim  
 rib cage - sina kasa  
@@ -3120,7 +3122,7 @@ Rome - Roma
 roof - chati  
 room (chamber) - kamar  
 root - mula  
-rose - roza  
+rose - rode  
 rotate (make spin) - rota  
 rotate (spin, turn on an axis) - rota  
 rotor (rotator) - rota she  
@@ -3427,7 +3429,7 @@ Spain - Espanya
 sparse (scattered) - an jama di  
 speak (talk, language, communication) - basha  
 spear thistle - pero kardon  
-spearmint - zong minte  
+spearmint - kane minte  
 special (distinct) - has  
 species - jong  
 spectator (sightseer, observer) - vide ja  
@@ -3462,6 +3464,7 @@ stage (platform, pedestal, podium) - tai
 stain (spot) - najis bindu  
 stained glass - rang kancha  
 stairs (ladder) - eskale  
+stake (stick, peg, skewer) - moka kane  
 stand (rack) - lipa baze  
 stand - lipa  
 stand still - be estasi  
@@ -3489,9 +3492,9 @@ sticker - glu grafi
 sticky (ahesive) - glu di  
 stipulate - fa sharti  
 stone (piece of rock) - sheku  
-stop (halt) - be ting  
-stop (halt) - fa ting  
-stop - ting  
+stop (halt) - be halte  
+stop (halt) - fa halte  
+stop (halt) - halte  
 stopper (cap, peg, tap) - tapa  
 stopwatch - dura metre gi  
 storm (tempest, typhoon, hurricane, cyclone) - tafun  
@@ -3516,7 +3519,7 @@ study (work made in order to practise or demonstrate) - estude
 stupid (idiotic) - idiote di  
 subceed (be less than) - be min  
 submission (surrender) - islam  
-submit (present) - gung mise  
+submit (present) - gong mise  
 substance (physical material from which something is made) - kimi  
 substitute (replace) - fa vise  
 subway (metro) - tunel tren  
@@ -3667,7 +3670,7 @@ that over there - go
 the (that) - la  
 the Grenadines - Grenadin nesi  
 theft - chori  
-their - yamen su  
+their - yamon su  
 theism - deu din  
 theist - deu din ja  
 theocracy - deu krati  
@@ -3676,7 +3679,7 @@ theory - teori
 theosophy - deu sofi  
 there - na go  
 thermometer - termo metre gi  
-they - yamen  
+they - yamon  
 thick - gros  
 thickness - grosta  
 thief - chori ja  
@@ -3756,7 +3759,7 @@ town - nagar
 toxic (poisonous, venomous) - toksi di  
 toxicology - toksi logi  
 toxin - bio toksi  
-toy (plaything) - van gi  
+toy (plaything) - vanu gi  
 tractor - trata gi  
 trade (commerce, buying and selling) - vende shope  
 trader (merchant) - vende shope ja  
@@ -3900,7 +3903,7 @@ very - tre
 vice (deputy, alternative, substitute, replacement) - vise  
 vice-president - vise prezidente  
 viceroy - vise raja  
-victory (win, triumph) - sheng  
+victory (win, triumph) - shenga  
 Viet Nam - Viete  
 Vietnamese language (Viet) - viete basha  
 view (vision) - vide she  
@@ -3931,7 +3934,8 @@ vote (ballot) - vote
 vote (cast a vote) - fa vote  
 vowel - jung fon  
 vulva - vulva  
-wait - deng  
+wait (delay) - dele  
+wait for - dele do  
 wake (become awake) - be jaga  
 wake (make awake) - jaga  
 Wales (Cambria) - Kamri  
@@ -3965,7 +3969,7 @@ wax seal - mum chape
 way (manner, means, method, mode, procedure, rite) - riti  
 way (manner, mode) - mode  
 way (road) - dau  
-we - mimen  
+we - mimon  
 weak - debil  
 wealth (fortune) - riche ta  
 weapon (arms) - arme  
@@ -4035,10 +4039,10 @@ wood board (plank) - moka bano
 wool (fleece) - meme kesha  
 word (lexeme) - loga so  
 word processing - kitabu chuli  
-work (labour, job) - gung  
-work - gung  
-worker - gung ja  
-workshop (factory) - gung kan  
+work (labour, job) - gong  
+work - fa gong  
+worker - gong ja  
+workshop (factory) - gong kan  
 world - dunia  
 world language - dunia basha  
 worm - verme  
@@ -4069,10 +4073,10 @@ yoke - yogo
 Yoruba (language and people) - Yoruba  
 yotta- - yota  
 you (singular) - tu  
-you all - tumen  
+you all - tumon  
 young (juvenile) - joven  
 your - tu su  
-your - tumen su  
+your - tumon su  
 youth (young age) - joven ta  
 youth (young person) - joven jan  
 ytterbium - yuterbi yum  

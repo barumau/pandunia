@@ -266,6 +266,7 @@ dai sheku - валун
 daku - получить  
 dalil - доказательство  
 dama gem - шашки  
+dan - ранг  
 dang - звенеть  
 dang gi - звонок  
 danse - танец  
@@ -543,10 +544,10 @@ gulu - глотать
 gun - армия  
 gun jan - солдат  
 gun raja - генералиссимус  
-gung - работа  
-gung - работать  
-gung ja - работник  
-gung kan - завод (фабрика)  
+gong - работа  
+fa gong - работать  
+gong ja - работник  
+gong kan - завод (фабрика)  
 guta - колено  
 guta kaske oste - надколенник  
 ####H - H  
@@ -590,6 +591,7 @@ hidrargente - ртуть
 hidro - водород  
 hijabu - вуаль  
 hin - без  
+hina - хна  
 hindi yum - индий  
 Hindu desh - Индостан  
 hindu raja - раджа  
@@ -661,7 +663,7 @@ jumla - фраза
 jung - центр  
 jung fon - гласный  
 jung shula kan - средняя школа  
-Junguo - Китай  
+Jungoku - Китай  
 Jupiter - Юпитер  
 jus - сок  
 juste - точный  
@@ -705,11 +707,11 @@ kanal - канава (канал)
 kancha - стекло  
 kancha daka - глазурь  
 kandi - конфета  
-kane - штанга  
+kane - кол (штанга)  
 kane kasa - клетка  
 kangaru - кенгуру  
 kanjar - кинжал  
-kankuate - кумкват (кинкан)  
+gingam - кумкват (кинкан)  
 kano - каноэ  
 kantalupo melon - канталупа  
 Kantalupo va Sabina - Канталупо-ин-Сабина  
@@ -725,6 +727,7 @@ karchof - артишок посевной
 kardon - расторопша  
 kardon karchof - артишок испанский (кардон)  
 karga - бремя (товар, груз, ноша)  
+kari - карри  
 karma - действие (акт, акция)  
 karma ja - активный (деятельный)  
 karma ja - деятель  
@@ -771,7 +774,7 @@ komputa - компьютер
 komputa di - цифровой  
 kon bon - соответствовать (сочетаться)  
 kon forma - применяться (согласоваться)  
-kon gung - сотрудничать (кооперировать)  
+kon gong - сотрудничать (кооперировать)  
 kon pasi - жалость (сердобольность)  
 kon sela ja - консультант (советник)  
 kon trati - контракт  
@@ -906,7 +909,7 @@ makan hua - одуванчик
 mal nomi - экономика  
 man raja - король  
 manera - поведение (манера)  
-mang - занятый  
+mangu - занятый  
 mangan - марганец  
 mani din - манихейство  
 manioka - маниока  
@@ -936,7 +939,6 @@ mate lun - материализм
 matur - взрослый  
 mau - кошка  
 maze - носок  
-me poze - ранг  
 meche - матч  
 medan - площадь (сквер, майдан)  
 medan papi - мак самосейка  
@@ -971,8 +973,8 @@ milke - молоко
 milke kardon - расторопша пятнистая  
 mima - имитировать  
 mima ja - мим (имитатор)  
-mimen - мы  
-mimen su - наш  
+mimon - мы  
+mimon su - наш  
 minta - мята  
 mirde - слабый  
 mishe - мешать  
@@ -1130,10 +1132,10 @@ pau - стрелять
 pau gi - пистолет  
 pauza - пауза  
 pede - пердение  
-pei gung - профессия  
-pei gung di - профессиона́льный  
-pei gung ja - профессионал (профи)  
-pei gung jiu - карьера  
+pei gong - профессия  
+pei gong di - профессиона́льный  
+pei gong ja - профессионал (профи)  
+pei gong jiu - карьера  
 pelpel - бабочка (мотылёк)  
 pende kardon - чертополох поникший  
 pente - картина  
@@ -1235,6 +1237,9 @@ riti - способ (метод)
 ritim - ритм (такт)  
 rivo - река  
 robote - робот  
+rode - роза  
+rode salmon - горбуша  
+rode yum - родий  
 roke - качать  
 roke kursi - кресло-качалка  
 roke muzika - рок  
@@ -1246,9 +1251,6 @@ romanse di - романтический
 rose - роса  
 rota lefte - против часовой стрелки  
 rota van gi - волчок  
-roza - роза  
-roza salmon - горбуша  
-roza yum - родий  
 rubi - красный  
 rubi - рубин  
 rubi yum - рубидий  
@@ -1481,7 +1483,7 @@ truke - обман
 tu - ты  
 Tule - Туле  
 tule yum - тулий  
-tumen su - ваш  
+tumon su - ваш  
 tundra shan - фьельды  
 tuta - шелковица (тута)  
 tuzi - кролик (заяц)  
@@ -1506,7 +1508,7 @@ vali susan - ландыш
 valu - ценность  
 vampir - вампир (упырь)  
 vampir ohtopus - адский вампир  
-van gi - игрушка  
+vanu gi - игрушка  
 vanadi yum - ванадий  
 var cheti - воскресенье  
 var du - вторник  
@@ -1555,7 +1557,7 @@ xenon - ксенон
 Yahve - Яхве (Иегова)  
 yam fito - овощ  
 yam yau - голод  
-yamen su - их  
+yamon su - их  
 yasen - ясень  
 yatim dom - детский дом  
 yau di - нужный  
@@ -1593,8 +1595,8 @@ zirkon - циркон
 zirkon yum - цирконий  
 zoku - ещё  
 zona - пояс (зона)  
-zong - кол  
-zong minte - мята колоси́стая  
+moka kane - палка  
+kane minte - мята колоси́стая  
 zou - животное  
 zou bagi - зоопарк  
 zou kata - басня  
@@ -1610,3 +1612,4 @@ zumarde - изумруд
  - дождливый  
  - дожди́ть  
  - противник  
+bus halte - автобусная остановка  

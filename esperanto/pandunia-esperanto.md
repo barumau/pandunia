@@ -192,7 +192,7 @@ be shuru - komenciĝi
 be sona - dormi  
 be suka - ŝati  
 be supra - superiri  
-be ting - halti  
+be halte - halti  
 bebe - bebo  
 bede - lito  
 bedinjan - melongeno  
@@ -354,6 +354,7 @@ dava ja - kuracisto
 defa - defendo  
 defa - defendi  
 defa ja - defendanto (defendisto)  
+dele do - atendi  
 demo - popolo  
 demo grafi - demografio  
 demo krati - demokratio  
@@ -361,7 +362,6 @@ demo krati di - demokratia
 demon - demono  
 den - tago (periodo de 24 horoj)  
 den loge - taglibro  
-deng - atendi  
 des - dek (10)  
 des kilo - dek miloj  
 desen - desegno  
@@ -551,7 +551,7 @@ fa sahi - pravigi
 fa salam - saluti  
 fa sam rai - samopinii (interkonsenti)  
 fa sana - produkti (fabriki)  
-fa shin - kreda  
+fa sina - kreda  
 fa shofer - konduki  
 fa shopi - aĉeti  
 fa shukra - danki  
@@ -561,8 +561,8 @@ fa shush - silentigi
 fa side - sidi  
 fa sual - demandi  
 fa tele fon - telefoni  
-fa ting - haltigi  
-fa van - amuzi  
+fa halte - haltigi  
+fa vanu - amuzi  
 fa vode - promesi  
 faida - utileco  
 faida di - utila  
@@ -734,9 +734,9 @@ guma - tamburo
 gun - armeo  
 gun jan - soldato  
 gun raja - ĉefgeneralo  
-gung - laboro  
-gung ja - laboristo  
-gung kan - fabriko (laborejo)  
+gong - laboro  
+gong ja - laboristo  
+gong kan - fabriko (laborejo)  
 guru - guruo (instruisto)  
 guste - gusto  
 guste ka - gusti kiel  
@@ -906,7 +906,7 @@ jul - ĵulo (J)
 jung - centro  
 jung fon - vokalo  
 jung shula kan - gimnazio  
-Junguo - Ĉinio  
+Jungoku - Ĉinio  
 jupe - jupo  
 jus - suko  
 juste - ĝuste (precize, ekzakte)  
@@ -958,6 +958,7 @@ karavi - karvio
 karbon - karbono  
 karbon duokside - karbona dioksido  
 karbon kalam - krajono  
+kari - kareo  
 Karibe - Karibio  
 karibu - proksima  
 karma - ago  
@@ -1028,7 +1029,7 @@ komun krati - republiko
 kon - kune  
 kon basha - komuna lingvo  
 kon bon - kongrui  
-kon gung - kunlabori  
+kon gong - kunlabori  
 kon sabe - informacio  
 kon sana sim - komunismo  
 kon sana sim ja - komunisto  
@@ -1158,7 +1159,7 @@ man - viro
 man raja - reĝo  
 mana - signifo  
 manera - maniero (konduto)  
-mang - okupata  
+mangu - okupata  
 mangan - mangano  
 mar - fojo  
 maraton - maratono  
@@ -1199,7 +1200,7 @@ melodi - melodio
 membre - membro  
 meme - ŝafo  
 memo - memoro  
-men - oni  
+mon - oni  
 meranti - ŝoreo  
 Merkur - Merkuro  
 mes - monato  
@@ -1212,7 +1213,7 @@ meza - tablo
 meza tela - tablotuko  
 mi - mi  
 mi su - mia  
-mien - nudelo  
+men - nudelo  
 migra - migrado  
 mikro - mikro-  
 mikro bio - mikrobo  
@@ -1221,8 +1222,8 @@ mikroskope - mikroskopo
 mili - mili-  
 mili metre - milimetro  
 milke - lakto  
-mimen - ni  
-mimen su - nia  
+mimon - ni  
+mimon su - nia  
 min - malpli  
 min ka basa - maltro  
 minare - turo  
@@ -1422,7 +1423,7 @@ pati mise - infekto
 pau gi - fusilo  
 pedal - pedalo  
 pede - furzo  
-pei gung - metiero  
+pei gong - metiero  
 pelpel - papilio  
 penis - peniso  
 pente - pentri  
@@ -1522,13 +1523,13 @@ riti - metodo
 ritim - ritmo  
 rivo - rivero  
 robote - roboto  
+rode - rozo  
+rode yum - rodio  
 rol ja - aktoro (aktorino)  
 Roma - Romo  
 rose - roso  
 rota lefte - maldekstrume  
 rota tafun - uragano (tajfuno)  
-roza - rozo  
-roza yum - rodio  
 rubi - ruĝa  
 rubi - rubeno  
 rubi yum - rubidio  
@@ -1635,11 +1636,11 @@ she hal - situacio (aferstato)
 shefe - estro (ĉefulo)  
 shefe minister - ĉefministro  
 sheku - ŝtono  
-sheng - venko  
+shenga - venko  
 shia islam din - ŝijaismo  
 shikaya - plendo  
-shim - koro  
-shin - kredo  
+sim - koro  
+sina - kredo  
 shir - poemo  
 shirope - siropo  
 shish nama - ŝaŝliko  
@@ -1769,7 +1770,7 @@ teror - teroro
 teror sim - terorismo  
 teror sim ja - teroristo  
 teste - testo  
-ting - halto  
+halte - halto  
 tire - tiri  
 tire yo milke - melki  
 titan yum - titanio  
@@ -1795,8 +1796,8 @@ tuh - sputi
 tul - ilo  
 Tule - Tuleo  
 tule yum - tulio  
-tumen - vi ĉiu  
-tumen su - via  
+tumon - vi ĉiu  
+tumon su - via  
 tundra - tundro  
 tunel - tunelo  
 tunel tren - metroo  
@@ -1824,8 +1825,8 @@ vagina - vagino
 vagina flame - vaginito  
 vali - valo  
 valu - valoro  
-van - amuzo  
-van di - amuza  
+vanu - amuzo  
+vanu di - amuza  
 var - semajntago  
 var cheti - dimanĉosunnuntai  
 var du - mardo  
@@ -1875,8 +1876,8 @@ yam - manĝi (trinki)
 yam fito - legomo  
 yam kamar - manĝoĉambro  
 yam yau - malsato  
-yamen - ili  
-yamen su - ilia  
+yamon - ili  
+yamon su - ilia  
 yang - speco (tipo, stilo)  
 yau - bezoni  
 yauta - bezono  
@@ -1925,6 +1926,7 @@ zira - kumino
 zirkon yum - zirkonio  
 zoku - ankoraŭ  
 zona - zono  
+moka kane - paliso  
 zou - besto  
 zou bagi - zoo (bestoĝardeno)  
 zou kata - bestofabelo  
@@ -1936,3 +1938,4 @@ zuku medi di - interetna
 Zulu - zuluo  
 zumarde - smeraldo  
  - pluva  
+bus halte - bushaltejo  

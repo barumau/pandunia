@@ -328,9 +328,9 @@ be suka - lubić, cieszyć się
 be supra - przekroczyć, przekraczać, przejść nad, iść nad  
 be tele loka - teleportować się  
 be teza - wzmacniać się (wzmagać, pogłębiać się)  
-be ting - zatrzymać się  
+be halte - zatrzymać się  
 be turbe - przejmować się (zawracać sobie głowę)  
-be van - cieszyć się (zażywać, bawić się)  
+be vanu - cieszyć się (zażywać, bawić się)  
 be vide - być widzianym  
 be yong liga - łączyć (złączyć)  
 be zai - pojawić się  
@@ -589,6 +589,7 @@ defa - obronić (chronić)
 defa bano - tarcza  
 defa ja - obrońca  
 defa kaske - zbroja  
+dele do - czekać  
 demo - lud, społeczeństwo  
 demo di - publiczny  
 demo grafi - demografia  
@@ -597,7 +598,6 @@ demo krati di - demokratyczny
 demo krati ja - demokrata  
 demo multi ta - populacja  
 demon - demon  
-deng - czekać  
 des - dziesięć (10)  
 des kilo - dziesięć tysięcy  
 desen - rysunek, obraz  
@@ -841,7 +841,7 @@ fa javabu - odpowiedzieć, odpowiadać
 fa jela - uwięzić, więzić, pozbawić wolności  
 fa jene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
 fa jude - sądzić (osądzić)  
-fa jung - centrować, skupić, skupiać  
+fa jong - centrować, skupić, skupiać  
 fa kai - otworzyć, otwierać  
 fa kanal - kierować (doprowadzać, prowadzić, służyć jako kanał)  
 fa kancha dake - szklić (glazurować)  
@@ -938,7 +938,7 @@ fa sekur - chronić (ratować)
 fa sense - czuć (poczuć, postrzegać, wykrywać)  
 fa sharti - wymagać, przewidywać  
 fa shibai - przegrać, przegrywać  
-fa shin - wierzyć  
+fa sina - wierzyć  
 fa shipi - moczyć (zmoczyć)  
 fa shite - srać (robić gówno)  
 fa shofer - prowadzić pojazd  
@@ -966,13 +966,13 @@ fa tela - tkać (pleść)
 fa tercha - przechylać (przechylić, wychylać, wychylić)  
 fa tese - dyskutoać, twierdzić  
 fa teste - spróbować, próbować  
-fa ting - zatrzymać  
+fa halte - zatrzymać  
 fa transe - przejść, przechodzić, przejechać, przejeżdżać  
 fa trati - zgodzić się (umówić się)  
 fa truke - oszukać (oszukiwać  
 fa turbe - przeszkodzić, przeszkadzać, robić kłopot  
 fa un she - jednoczyć  
-fa van - bawić, zabawiać  
+fa vanu - bawić, zabawiać  
 fa vise - zastąpić (podstawić, zamienić)  
 fa vode - obiecać, angażować się  
 fa vote - głosować (złożyć głos)  
@@ -1261,13 +1261,13 @@ gun - armia
 gun jan - żołnierz  
 gun raja - szogun  
 gun raja desha - szogunat  
-gung - praca, zjęcie, zadanie  
-gung - pracować  
-gung ja - pracownik  
-gung kan - fabryka, manufaktura  
-gung meza - biurko  
-gung mise - przedstawić (przedłożyć, przedstawić, złożyć, składać)  
-gung shula ja - praktykant  
+gong - praca, zjęcie, zadanie  
+fa gong - pracować  
+gong ja - pracownik  
+gong kan - fabryka, manufaktura  
+gong meza - biurko  
+gong mise - przedstawić (przedłożyć, przedstawić, złożyć, składać)  
+gong shula ja - praktykant  
 guru - guru, mistrz  
 guste - smak  
 guste ka - smakować jak  
@@ -1545,7 +1545,7 @@ jung - być wycentrowanym, być w środku
 Jung Afrika Komun krati - Republika Środkowoafrykańska  
 jung di - centralny (środkowy)  
 jung fon - samogłoska  
-Junguo - Chiny  
+Jungoku - Chiny  
 jupe - spódnica  
 Jupiter - Jowisz  
 jus - sok  
@@ -1620,7 +1620,7 @@ kane pang - bagietka
 kanga - grzebień  
 kangaru - kangur  
 kanjar - sztylet (puginał)  
-kankuate - kumkwat  
+gingam - kumkwat  
 kano - kanoe  
 kanta - bark (ramię)  
 kantalupo melon - kantalupa  
@@ -1644,6 +1644,7 @@ karchof - karczoch zwyczajny
 kardon - oset  
 kardon karchof - karczoch hiszpański  
 karga - ciężar (brzemię)  
+kari - curry  
 Karibe - Karaiby  
 karibu - bliski (niemal, prawie)  
 karibu ta - bliskość  
@@ -1773,7 +1774,7 @@ kon - razem (wspólnie)
 kon basha - wspólny język  
 kon bon - pasować  
 kon funsi bil - kompatybilny (pasujący)  
-kon gung - współpracować (kolaborować)  
+kon gong - współpracować (kolaborować)  
 kon sabe - informacja  
 kon sana sim - komunizm  
 kon sana sim ja - komunista  
@@ -2055,7 +2056,7 @@ manera - zachowanie (maniery, kultura)
 manera - zachowywać się (działać)  
 manete - magnes  
 manete di - magnetyczny  
-mang - zajęty  
+mangu - zajęty  
 mangan - mangan  
 mango - mango  
 mangus - mangostan  
@@ -2179,7 +2180,7 @@ meza tela - obrus
 meza topo - płaskowyż (plateau)  
 mi - ja, mnie  
 mi su - mój  
-mien - makaron  
+men - makaron  
 migra - migracja  
 mikro - mikro-  
 mikro bio - mikroorganizm  (mikrob)  
@@ -2191,7 +2192,7 @@ mili gram - miligram
 mili metre - milimetr  
 milke - mleko  
 milke kardon - ostropest plamisty  
-mimen - my  
+mimon - my  
 min - mniej  
 min di fen - mniejszość  
 min ka basa - zbyt mało  
@@ -2574,7 +2575,7 @@ pedal - pedał
 pedal sikle - rower z pedałami  
 pede - pierdnięcie  
 pei - zapłata, opłata  
-pei gung - profesja, zajęcie, zawód  
+pei gong - profesja, zajęcie, zawód  
 pelmen - kluska, knedel, pieróg; ravioli, pelmeni  
 pelpel - motyl  
 pende - powiesić, wieszać  
@@ -2792,6 +2793,10 @@ riti - metoda, sposób
 ritim - rytm, bit  
 rivo - rzeka  
 robote - robot  
+rode - róża  
+rode rang - różowy, różany  
+rode salmon - gorbusza  
+rode yum - rod  
 roke muzika - rock  
 rokete - rakieta  
 rokete lanse gi - wyrzutnia rakietowa  
@@ -2816,10 +2821,6 @@ rota raite - według ruchu wskazówek zegara
 rota she - rotor, wirnik  
 rota tafun - trąba powietrzna (cyklon, tornado, tajfun)  
 rota van gi - bąk, bączek  
-roza - róża  
-roza rang - różowy, różany  
-roza salmon - gorbusza  
-roza yum - rod  
 Ruanda - Rwanda  
 rubi - czerwony  
 rubi - rubin  
@@ -3016,12 +3017,12 @@ shefe di - główny
 shefe minister - premier  
 sheku - kamień (kawał skały)  
 sheku jang ja - kamieniarz  
-sheng - zwycięstwo, wygrana  
+shenga - zwycięstwo, wygrana  
 shia islam din - szyism  
 shifu - mistrz (sensei)  
 shike - elegancki, szykowny  
-shim - serce  
-shin - wiara, wierzenie, kredo  
+sim - serce  
+sina - wiara, wierzenie, kredo  
 shindau din - shintoizm, sintoizm  
 shipi - mokry (wilgotny)  
 shir - poemat  
@@ -3278,7 +3279,7 @@ tika - tikka
 tikete - bilet  
 tim - drużyna  
 Timor - Timor  
-ting - stop; przerwa, zatrzymanie  
+halte - stop; przerwa, zatrzymanie  
 tipe - typ (rodzaj, gatunek)  
 tire - ciągnąć  
 tire dara - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
@@ -3325,7 +3326,7 @@ tuh - pluć
 tul - narzędzie  
 tule yum - tul  
 tulpan - tulipan  
-tumen - wy, was  
+tumon - wy, was  
 tundra - tundra  
 tunel - tunel  
 tunel tren - metro  
@@ -3383,8 +3384,8 @@ Valis e Futuna nesi - Saint Vincent i Grenadyny
 valu - wartość  
 vampir - wampir  
 vampir ohtopus - wampirzyca piekielna (wampirnica)  
-van - zabawa, rozrywka  
-van di - zabawny  
+vanu - zabawa, rozrywka  
+vanu di - zabawny  
 vanadi yum - wanad  
 vanila - wanilia  
 Vanuatu - Vanuatu  
@@ -3482,7 +3483,7 @@ yam kamar - jadalnia
 yam she - jedzenie, posiłek  
 yam sukar gana - cukrowiec jadalny  
 yam yau - głód  
-yamen - oni  
+yamon - oni  
 yang - rodzaj, typ, styl  
 yasen - jesion  
 yatim - sierota  
@@ -3555,8 +3556,8 @@ zoku - wciąż, nadal; kontynuować, wznawiać, ponawiać
 zoku di - ciągły (analogowy)  
 zombi - zombie, zombi  
 zona - pas, strefa  
-zong - słup (pal, kołek)  
-zong minte - mięta zielona (mięta kłosowa)  
+moka kane - słup (pal, kołek)  
+kane minte - mięta zielona (mięta kłosowa)  
 zou - animal  
 zou agro shuta - hodowla zwierząt  
 zou bagi - zoo (ogród zoologiczny)  
@@ -3576,3 +3577,4 @@ zumarde - szmaragd
  - deszczowy  
  - padać (lać)  
  - przeciwnik (antagonista)  
+bus halte - przystanek autobusowy  

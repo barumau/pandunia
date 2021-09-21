@@ -119,9 +119,9 @@ be rute galte - 逸れる
 be sabi vol - 訝る (-かしら)  
 be sona - 寝る  
 be tele loka - 瞬間移動  
-be ting - 止まる  
+be halte - 止まる  
 be turbe - 悩む (わざわざする)  
-be van - 遊ぶ  
+be vanu - 遊ぶ  
 bebe - 赤ちゃん  
 bebe bede - ベビーベッド  
 bede - 寝床 (ベッド)  
@@ -221,6 +221,7 @@ dai sheku - 大石
 daku - 受ける (もらう)  
 daku shitu - 得失  
 dama gem - チェッカー (西洋碁)  
+dan - 段 (等)  
 dang gi - 鐘 (鈴)  
 Danske - デンマークの  
 dante baluta - カシワ  
@@ -239,6 +240,7 @@ dava sui - ポーション (水薬)
 debil - 弱い (脆弱)  
 defa bano - 盾  
 defa kaske - 鎧  
+dele - 遅れ (遅延)  
 demon - 悪魔  
 den - 日  
 den loge - 日記  
@@ -479,11 +481,11 @@ gui papi - オニゲシ
 guku hua - キク  
 gun jan - 軍人  
 gun raja - 総統 (将軍 )  
-gung - 労働  
-gung - 働く  
-gung ja - 労働者  
-gung kan - 工場 (製造所)  
-gung mise - 提出  
+gong - 労働  
+fa gong - 働く  
+gong ja - 労働者  
+gong kan - 工場 (製造所)  
+gong mise - 提出  
 guru - 尊師 (グル, 先生)  
 guta - 膝  
 guta kaske oste - 膝蓋骨  
@@ -592,7 +594,7 @@ joven man - 男の子
 joven moka - 若木  
 jul - ジュール (J)  
 jung - 中心  
-Junguo - 中国  
+Jungoku - 中国  
 Jupiter - 木星  
 jus - ジュース  
 juste pau ja - 狙撃兵  
@@ -637,7 +639,7 @@ kancha daka - 釉薬
 kandi - キャンデー  
 kane kasa - 檻 (篭, ケージ)  
 kangaru - カンガルー  
-kankuate - キンカン (キンキツ)  
+gingam - キンカン (キンキツ)  
 kano - カヌー  
 kantalupo melon - カンタロープ  
 kanyon - 峡谷  
@@ -651,6 +653,7 @@ karbon sui - 炭水化物
 karchof - アーティチョーク  
 kardon - アザミ  
 kardon karchof - カルドン  
+kari - カレー  
 karma - 行為  
 karma ja - 活動的  
 karma loga - 動詞  
@@ -699,7 +702,7 @@ komputa di - デジタル
 kon - 一緒に  
 kon bon - 合わせる (適する)  
 kon forma - 即する  
-kon gung - 共同して働  
+kon gong - 共同して働  
 kon pasi - 同情  
 kon sela ja - 顧問  
 konserte - コンサート (音楽会)  
@@ -826,7 +829,7 @@ makan hua - タンポポ
 mal nomi - 経済学  
 man - 男  
 man raja - 王様  
-mang - 忙しい  
+mangu - 忙しい  
 mangan - マンガン  
 manioka - キャッサバ  
 mantol - マント (ケープ)  
@@ -889,14 +892,14 @@ meza tela - テーブル掛け
 meza topo - 台地 (高地)  
 mi - 私  
 mi su - 私の  
-mien - ヌードル  
+men - ヌードル  
 mikro bio - 微生物  
 mikro bio logi - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
 milke kardon - マリアアザミ  
 mima ja - 模倣者  
-mimen - 私たち  
+mimon - 私たち  
 minta - ハッカ  
 mirde - 微か  
 mishe alkol - カクテル (混合酒)  
@@ -1029,10 +1032,10 @@ pati mise - 伝染
 pau - 撃つ  
 pau gi - 銃  
 pede - 屁  
-pei gung - 職業  
-pei gung di - プロフェッショナル  
-pei gung ja - プロフェッショナル  
-pei gung jiu - キャリア  
+pei gong - 職業  
+pei gong di - プロフェッショナル  
+pei gong ja - プロフェッショナル  
+pei gong jiu - キャリア  
 pelpel - チョウ  
 pente - 絵の具 (ペンキ)  
 pente brosha - 絵筆  
@@ -1118,6 +1121,9 @@ ringar - リング
 ris - 米 (ご飯)  
 ritim - リズム  
 rivo - 川  
+rode - バラ  
+rode salmon - カラフトマス  
+rode yum - ロジウム  
 roke kursi - 揺り椅子  
 roke muzika - ロック  
 rokete lanse gi - ロケット発射器  
@@ -1127,9 +1133,6 @@ romanse - ロマンス
 romanse di - ロマンチック  
 rota lefte - 左回り (反時計回り)  
 rota van gi - 独楽  
-roza - バラ  
-roza salmon - カラフトマス  
-roza yum - ロジウム  
 rubi - 赤い  
 rubi - ルビー  
 rubi yum - ルビジウム  
@@ -1198,12 +1201,12 @@ shava mosim - 雨季
 she - 事 (物)  
 she hal - 事態  
 sheku jang ja - 石匠  
-sheng bai - 勝敗  
+shenga bai - 勝敗  
 shi - さん (氏)  
 shia islam din - シーア派  
 shifu - 先生  
 shikaya - 不平 (不満)  
-shim - 心  
+sim - 心  
 shipi - 湿っぽい  
 shir - 詩  
 shite - 糞 (屎)  
@@ -1322,7 +1325,7 @@ truke - 悪戯 (詐欺)
 tu - あなた  
 tu su - あなたの  
 tule yum - ツリウム  
-tumen - あなたたち  
+tumon - あなたたち  
 tuta - 桑  
 tuzi - うさぎ  
 ####U - U  
@@ -1343,9 +1346,9 @@ vali susan - キミカゲソウ (スズラン)
 valu - 価値  
 vampir - 吸血鬼  
 vampir ohtopus - コウモリダコ  
-van - 楽しみ (娯楽)  
-van di - 楽しい  
-van gi - おもちゃ  
+vanu - 楽しみ (娯楽)  
+vanu di - 楽しい  
+vanu gi - おもちゃ  
 vanadi yum - バナジウム  
 var cheti - 日曜日  
 var du - 火曜日  
@@ -1419,8 +1422,8 @@ zinke - 亜鉛
 zirkon yum - ジルコニウム  
 zoku - まだ  
 zoku di - アナログ  
-zong - 杭  
-zong minte - スペアミント  
+moka kane - 杭  
+kane minte - スペアミント  
 zou - 動物  
 zou agro shuta - 畜産  
 zou bagi - 動物園  
@@ -1431,3 +1434,4 @@ zuku di - 民族の
  - 雪が降る  
  - 雨が降る  
  - 敵 (相手)  
+bus halte - バス停  

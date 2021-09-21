@@ -258,6 +258,7 @@ dava she logi - farmacologia
 debil - fraco (débil)  
 defa bano - escudo  
 defa kaske - armadura  
+dele - demora (atraso, espera)  
 den - dia (24 horas)  
 den loge - diário  
 des - dez  
@@ -498,9 +499,9 @@ gubu - hipopótamo
 gun - exército  
 gun jan - soldado  
 gun raja - generalíssimo  
-gung - trabalho  
-gung - trabalhar  
-gung ja - trabalhador  
+gong - trabalho  
+fa gong - trabalhar  
+gong ja - trabalhador  
 guta - joelho  
 guta kaske oste - rótula (patela)  
 ####H - H  
@@ -544,6 +545,7 @@ hidro - hidrogéno
 hijabu - véu  
 hima - neve  
 hin - sem  
+hina - hena  
 hindi yum - índio  
 hindu raja - rajá  
 Hindu riu - Indo  
@@ -614,7 +616,7 @@ jul - joule (J)
 jung - centro  
 jung fon - vogal  
 jung shula kan - ensino secundário  
-Junguo - China  
+Jungoku - China  
 Jupiter - Júpiter  
 jus - suco (sumo)  
 juste - exato (preciso)  
@@ -658,7 +660,7 @@ kandi - bombom (doce)
 kane - vara (bastão)  
 kane kasa - gaiola (jaula)  
 kangaru - canguru  
-kankuate - quincã (cunquate)  
+gingam - quincã (cunquate)  
 kano - canoa  
 kantalupo melon - meloa (cantalupo)  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -672,6 +674,7 @@ karbon kalam - lápis
 karchof - alcachofra  
 kardon - cardo  
 karga - carga (peso)  
+kari - curry  
 Karibe - Caribe  
 karim - generosidade  
 karma - ato (ação)  
@@ -716,10 +719,11 @@ klima mute - mudança climática
 klin - tendência  
 klor - cloro  
 kobalte - cobalto  
+kolum - poste (coluna)  
 komputa - computador  
 komputa di - digital  
 kon bon - combinar com  
-kon gung - colaborar  
+kon gong - colaborar  
 kon sela ja - consultor  
 kon trati - pacto  
 konserte - concerto  
@@ -857,7 +861,7 @@ makan hua - dente-de-leão (taráxaco)
 mal nomi - economia  
 man raja - rei  
 manera - comportamento (conduta)  
-mang - ocupado (atarefado)  
+mangu - ocupado (atarefado)  
 mangan - manganésio  
 mani din - maniqueísmo  
 manioka - mandioca (aipim)  
@@ -922,8 +926,8 @@ milke - leite
 milke kardon - cardo-mariano  
 mima - imitar (mimetizar)  
 mima ja - mímico  
-mimen - nós  
-mimen su - nosso  
+mimon - nós  
+mimon su - nosso  
 minta - hortelã  
 mirde - fraco  
 Misri - Egipto (Egito)  
@@ -1071,8 +1075,8 @@ pati mise - infecção (contágio)
 pau gi - arma de fogo  
 pauza - pausa  
 pede - peido  
-pei gung - profissão  
-pei gung jiu - carreira  
+pei gong - profissão  
+pei gong jiu - carreira  
 pelpel - borboleta  
 pente - pintura  
 pente brosha - pincel  
@@ -1171,14 +1175,14 @@ riti - procedimento (rito)
 ritim - ritmo  
 rivo - rio  
 robote - robô  
+rode - rosa  
+rode salmon - salmão-rosa  
+rode yum - ródio  
 roke kursi - cadeira de balanço  
 roke muzika - rock  
 rokete lanse gi - lançador de foguetes  
 Roma - Roma  
 roma kamil - camomila-romana  
-roza - rosa  
-roza salmon - salmão-rosa  
-roza yum - ródio  
 rubi - vermelho  
 rubi - rubi  
 rubi yum - rubídio  
@@ -1371,7 +1375,7 @@ tri - três (3)
 truke - truque (fraude)  
 tu - tu  
 tule yum - túlio  
-tumen su - vosso  
+tumon su - vosso  
 tuta - amoreira  
 tuzi - coelho (lebre)  
 ####U - U  
@@ -1466,8 +1470,8 @@ zoku - ainda
 zoku di - analógico  
 zombi - zumbi  
 zona - zona  
-zong - poste (estaca)  
-zong minte - hortelã-verde  
+moka kane - estaca  
+kane minte - hortelã-verde  
 zou - animal (besta, bicho)  
 zou bagi - zoológico  
 zou kata - fábula  
@@ -1480,3 +1484,4 @@ zumarde - esmeralda
  - carregar  
  - chuvoso (pluvioso)  
  - adversário  
+bus halte - parada de ônibus  

@@ -350,6 +350,7 @@ dai pote - chaudron
 dai sheku - rocher  
 dalil - preuve  
 dama gem - jeu de dames  
+dan - rang  
 dang gi - cloche  
 danse - dance  
 Danske - danois  
@@ -369,6 +370,7 @@ dava sui - pocion
 debil - faible  
 defa bano - bouclire  
 defa kaske - armure  
+dele - délai (retard)  
 den loge - journal  
 deu - dieu  
 deu kata - mythe  
@@ -655,10 +657,10 @@ gul - goule
 gun - armée  
 gun jan - soldat  
 gun raja - généralissime  
-gung - travail  
-gung - travailler  
-gung ja - travailleur (ouvrier)  
-gung mise - soumettre  
+gong - travail  
+fa gong - travailler  
+gong ja - travailleur (ouvrier)  
+gong mise - soumettre  
 guta - genou  
 guta kaske oste - rotule  
 ####H - H  
@@ -705,6 +707,7 @@ hidrargente - mercure
 hidro - hydrogène  
 hijabu - voile  
 hima - neige  
+hina - henné  
 hindi yum - indium  
 Hindu desh - Hindustan  
 Hindu riu - Indus  
@@ -784,7 +787,7 @@ jul - joule (J)
 jung - centre  
 jung fon - voyelle  
 jung shula kan - école secondaire  
-Junguo - Chine  
+Jungoku - Chine  
 Jupiter - Jupiter  
 jus - jus  
 juste - justo (exact, précis)  
@@ -830,7 +833,7 @@ kandi - bonbon
 kane - bâton (canne, tige)  
 kane kasa - cage  
 kangaru - kangourou  
-kankuate - kumquat  
+gingam - kumquat  
 kano - canoë  
 kanon - classique (canon)  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -845,6 +848,7 @@ karchof - artichaut
 kardon - chardon  
 kardon karchof - cardon  
 karga - charge (fardeau, poids)  
+kari - curry  
 Karibe - Caraïbes  
 karim - générosité (charité)  
 karim di - généreux  
@@ -893,9 +897,10 @@ klin - tendance
 klor - chlore  
 kobalte - cobalt  
 koda - queue (côté )  
+kolum - pilier (colonne, poteau)  
 komputa - ordinateur  
 komputa di - numérique  
-kon gung - collaborer  
+kon gong - collaborer  
 kon sela ja - consultant (conseiller)  
 kon trati - convention (alliance, pacte)  
 konserte - concert  
@@ -1038,7 +1043,7 @@ mal ja - possédant (propriétaire)
 mal nomi - économie  
 man raja - roi  
 manera - comportement (manière)  
-mang - occupé  
+mangu - occupé  
 mangan - manganèse  
 mani din - manichéisme  
 manioka - manioc  
@@ -1067,7 +1072,6 @@ mate - matière
 mate lun - matérialisme  
 matur - adulte  
 mau - chat  
-me poze - rang  
 meche - match  
 medan - place  
 medan papi - coquelicot  
@@ -1081,7 +1085,7 @@ megi - nuage
 meitner yum - meitnérium  
 meme kesha - laine  
 memo - mémoire  
-men - on  
+mon - on  
 mendelevi yum - mendélévium  
 meninge - méninge  
 Merkur - Mercure  
@@ -1105,8 +1109,8 @@ milke - lait
 milke kardon - chardon Marie  
 mima - imiter  
 mima ja - imitateur (mime)  
-mimen - nous  
-mimen su - notre  
+mimon - nous  
+mimon su - notre  
 minta - menthe  
 mirde - faible  
 Misri - Égypte  
@@ -1160,6 +1164,7 @@ nave raite - tribord
 nefre - rein  
 nefte - huile (pétrole)  
 nelu - quatre (4)  
+nen - an (année)  
 neodim yum - néodyme  
 neon - néon  
 Neputun - Neptune  
@@ -1270,8 +1275,8 @@ pati mise - infection (contagion)
 pau gi - pistolet  
 pauza - pause  
 pede - pet (vesse)  
-pei gung - profession (métier)  
-pei gung jiu - carrière  
+pei gong - profession (métier)  
+pei gong jiu - carrière  
 pelpel - papillon  
 pende kardon - chardon penché  
 pente - peinture  
@@ -1385,6 +1390,9 @@ ritim - rhythme
 rivo - rivière (fleuve)  
 rivo kinar - rive  
 robote - robot  
+rode - rose  
+rode salmon - saumon rose  
+rode yum - rhodium  
 roke - secouer  
 roke kursi - chaise à bascule (berçante)  
 roke muzika - rock  
@@ -1395,9 +1403,6 @@ rose - rosée
 roste - rôtir  
 rota lefte - dans le sens antihoraire  
 rota van gi - toupie  
-roza - rose  
-roza salmon - saumon rose  
-roza yum - rhodium  
 rubi - rouge  
 rubi - rubis  
 rubi yum - rubidium  
@@ -1593,6 +1598,7 @@ tese - argument
 teste - épreuve (test)  
 tikete - billet  
 tim - équipe  
+halte - halte  
 tire yo milke - tirer  
 tire yo pil - écorce  
 tisa - neuf (9)  
@@ -1613,7 +1619,7 @@ truke - ruse
 tu - tu  
 Tule - Thulé  
 tule yum - thulium  
-tumen su - votre  
+tumon su - votre  
 Tunis - Tunisie  
 tuta - mûrier  
 tuzi - lapin (lièvre)  
@@ -1688,7 +1694,7 @@ xenon - xénon
 Yahve - Yahweh (Jéhovah)  
 yam fito - légume  
 yam yau - faim  
-yamen su - leur  
+yamon su - leur  
 yasen - frêne  
 yatim dom - orphelinat  
 yau di - nécessaire  
@@ -1724,8 +1730,8 @@ zoku - continuer (poursuivre, encore)
 zoku di - continu (analogique)  
 zombi - zombi  
 zona - zone  
-zong - pieu (poteau)  
-zong minte - menthe verte  
+moka kane - pieu  
+kane minte - menthe verte  
 zou - animal (bête)  
 zou agro shuta - élevage  
 zou bagi - zoo  
@@ -1739,3 +1745,4 @@ zumarde - émeraude
  - surestimer  
  - pluvieux  
  - adversaire (antagoniste, ennemi)  
+bus halte - arrêt de bus  

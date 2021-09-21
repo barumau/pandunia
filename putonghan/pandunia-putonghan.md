@@ -146,7 +146,7 @@ be mal - 属于
 be pute - 腐烂  
 be retro - 返回 (回来)  
 be sona - 睡觉 (困觉)  
-be van - 玩耍  
+be vanu - 玩耍  
 bebe - 宝宝 (娃娃)  
 bebe bede - 娃娃床  
 bede - 床  
@@ -245,6 +245,7 @@ dai sheku - 磐石
 daku - 获得  
 daku shitu - 得失  
 dama gem - 跳棋  
+dan - 等 (段)  
 dang gi - 钟 (摇铃)  
 Danske - 丹麦的  
 dante baluta - 槲树  
@@ -262,6 +263,7 @@ dava sui - 药水
 debil - 虚弱 (易坏)  
 defa bano - 盾牌  
 defa kaske - 盔甲  
+dele - 迟延  
 den - 日 (天)  
 den loge - 日记  
 des - 十  
@@ -478,11 +480,11 @@ guku hua - 菊花
 gun - 军队  
 gun jan - 军人  
 gun raja - 大元帅  
-gung - 工作  
-gung - 工作  
-gung ja - 工人 (工作者)  
-gung kan - 工厂  
-gung mise - 提交  
+gong - 工作  
+fa gong - 工作  
+gong ja - 工人 (工作者)  
+gong kan - 工厂  
+gong mise - 提交  
 guta - 膝  
 guta kaske oste - 膝盖骨  
 ####H - H  
@@ -594,7 +596,7 @@ jul - 焦耳 (J)
 jumla - 句子  
 jung - 中心  
 jung shula kan - 中学  
-Junguo - 中国  
+Jungoku - 中国  
 Jupiter - 木星  
 jus - 汁  
 ####K - K  
@@ -637,7 +639,7 @@ kancha daka - 釉
 kandi - 糖果  
 kane kasa - 笼  
 kangaru - 袋鼠  
-kankuate - 金柑  
+gingam - 金柑  
 kanon - 经典  
 kantalupo melon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
@@ -650,6 +652,7 @@ karchof - 菜蓟
 kardon - 蓟  
 kardon karchof - 刺苞菜蓟  
 karga - 擔子  
+kari - 咖喱  
 karma - 作为 (行为)  
 karma ja - 活性  
 karma loga - 动词  
@@ -690,11 +693,12 @@ klin - 趋势
 klor - 氯  
 kobalte - 钴  
 koda - 尾巴 (尾部)  
+kolum - 柱子   
 komputa - 计算机  
 komputa di - 数字的  
 kon - 共同 (一起)  
 kon bon - 相配  
-kon gung - 合作  
+kon gong - 合作  
 kon sela ja - 顾问  
 kon trati - 公約  
 konserte - 音乐会  
@@ -823,7 +827,7 @@ mal nomi - 经济学
 man raja - 王  
 mana - 意义  
 manera - 方式  
-mang - 忙  
+mangu - 忙  
 mangan - 锰  
 mani din - 摩尼教  
 manioka - 木薯   
@@ -876,8 +880,8 @@ mikro bio logi - 微生物学
 mikroskope - 显微镜  
 milke kardon - 水飞蓟  
 mima - 模拟  (模仿)  
-mimen - 我们  
-mimen su - 我们的  
+mimon - 我们  
+mimon su - 我们的  
 minta - 薄荷  
 mirde - 微弱的  
 Misri - 埃及  
@@ -933,6 +937,7 @@ nefre - 肾脏
 nefte - 油  
 nefte guku - 野菊花  
 nelu - 四 (4)  
+nen - 年  
 nen mes den - 年月日  
 neodim yum - 钕  
 neon - 氖  
@@ -1019,7 +1024,7 @@ pati logi - 病理学
 pati mise - 传染  
 pau gi - 手枪  
 pede - 屁  
-pei gung - 职业  
+pei gong - 职业  
 pelmen - 饺子  
 pelpel - 蝴蝶  
 pende kardon - 垂花飞廉  
@@ -1104,6 +1109,9 @@ ris vin - 黄酒 (米酒)
 riti - 方法  
 ritim - 节奏  
 rivo - 河 (江)  
+rode - 玫瑰  
+rode salmon - 粉紅鮭  
+rode yum - 铑  
 roke kursi - 摇椅  
 roke muzika - 摇滚乐  
 rokete lanse gi - 火箭筒  
@@ -1112,9 +1120,6 @@ roma kamil - 果香菊
 rota lefte - 反时针方向的  
 rota tafun - 飓风 (台风)  
 rota van gi - 陀螺  
-roza - 玫瑰  
-roza salmon - 粉紅鮭  
-roza yum - 铑  
 rubi - 红  
 rubi - 红宝石  
 rubi yum - 铷  
@@ -1185,12 +1190,12 @@ shava mosim - 雨季
 she - 事物 (东西)  
 she hal - 事态  
 sheku - 石 (岩)  
-sheng bai - 勝敗  
+shenga bai - 勝敗  
 shia - 派系  
 shia islam din - 什叶派  
 shifu - 师傅  
 shikaya - 怨言  
-shim - 心  
+sim - 心  
 shipi - 湿  
 shir - 诗  
 shish - 扦子  
@@ -1315,8 +1320,8 @@ tri zong - 三叉戟
 truke - 伎俩  
 tu - 你  
 tule yum - 铥  
-tumen - 你们  
-tumen su - 你们的  
+tumon - 你们  
+tumon su - 你们的  
 tuta - 桑树  
 tuzi - 兔子  
 ####U - U  
@@ -1338,7 +1343,7 @@ vali - 山谷
 vali susan - 鈴蘭  
 valu - 价值  
 vampir - 吸血鬼  
-van - 娱乐  
+vanu - 娱乐  
 vanadi yum - 钒  
 var cheti - 星期日 (禮拜日)  
 var du - 星期二 (禮拜二)  
@@ -1380,8 +1385,8 @@ ya su - 他的
 Yahve - 耶和华 (雅威)  
 yam fito - 蔬菜  
 yam yau - 饥饿  
-yamen - 他们  
-yamen su - 他们的  
+yamon - 他们  
+yamon su - 他们的  
 yasen - 白蜡树  
 yatim dom - 孤儿院  
 yau di - 必要的  
@@ -1413,8 +1418,7 @@ zira - 孜然
 zirkon yum - 锆  
 zoku - 还 (依然)  
 zoku di - 指针式的  
-zong - 桩  
-zong minte - 留兰香  
+kane minte - 留兰香  
 zou - 动物  
 zou bagi - 动物园  
 zou logi - 动物学  
@@ -1422,3 +1426,4 @@ zuku - 民族
 zumarde - 绿宝石 (祖母绿)  
  - 多雨  
  - 敌手  
+bus halte - 汽车站  
