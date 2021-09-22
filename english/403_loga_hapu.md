@@ -98,13 +98,13 @@ The final word in Pandunia can be affected by other languages and the tone-to-vo
 | ai  | ai  | bai | pai | mai |     | dai | tai | nai | lai | gai | kai | hai | jai | chai| shai|     | zai | cai | sai |
 | ei  | ei  | bei | pei | mei | fei | dei | tei | nei | lei | gei | kei | hei | jei |     | shei|     | zei |     |     |
 | i   |     |     |     |     |     |     |     |     |     |     |     |     | ji  | chi | shi | ri  | zi  | ci  | si  |
-| i   | i   | bi  | pi  | mi  |     | di  | ti  | ni  | li  |     |     |     | ji  | qi  | shi |     |     |     |     |
-| ie  | ye  | bie | pie | mie |     | die | tie | nie | lie |     |     |     | jie | chie| shie|     |     |     |     |
-| ia  | ya  |     |     |     |     | dia |     |     | lia |     |     |     | jia | chia| shia|     |     |     |     |
-| iao | yo  | bio | pio | mio |     | dio | tio | nio | lio |     |     |     | jio | chio| shio|     |     |     |     |
-| iu  | you |     |     | miu |     | diu |     | niu | liu |     |     |     | jiu | chiu| shiu|     |     |     |     |
-| ü   | yu  |     |     |     |     |     |     | nü  | lü  |     |     |     | ju  | qu  | xu  |     |     |     |     |
-| üe  | yue |     |     |     |     |     |     | nüe | lüe |     |     |     | jue | que | xue |     |     |     |     |
+| i   | i   | bi  | pi  | mi  |     | di  | ti  | ni  | li  |     |     |   |gi/ji|ki/chi|hi/shi|     |     |     |     |
+| ie  | ye  | bie | pie | mie |     | die | tie | nie | lie |     |     | |gie/jie|kie/chie|hie/shie| |     |     |     |
+| ia  | ya  |     |     |     |     | dia |     |     | lia |     |     | |gia/jia|kia/chia|hia/shia| |     |     |     |
+| iao | yo  | bio | pio | mio |     | dio | tio | nio | lio |     |     | |gio/jio|kio/chio|hio/shio| |     |     |     |
+| iu  | you |     |     | miu |     | diu |     | niu | liu |     |     | |giu/jiu|kiu/chiu|hiu/shiu| |     |     |     |
+| ü   | yu  |     |     |     |     |     |     | nu  | lu  |     |     |   |gu/ju|ku/chu|hu/shu|     |     |     |     |
+| üe  | yue |     |     |     |     |     |     | nüe | lüe |     |     | |gue/jue|kue/chue|hue/shue| |     |     |     |
 | ao  | au  | bau | pau | mau |     | dau | tau | nau | lau | gau | kau | hau | jau | chau| shau| rau | zau | cau | sau |
 | ua  | va  |     |     |     |     |     |     |     |     | gua | kua | hua | jua | chua| shua| rua |     |     |     |
 | uai | vai |     |     |     |     |     |     |     |     |guai |kuai |huai | juai|chuai|shuai|     |     |     |     |
