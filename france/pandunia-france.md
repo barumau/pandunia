@@ -1496,8 +1496,9 @@ shiti bai - échec
 shiti bai ja - perdant  
 Shiva - Shiva  
 shopi - shopping  
-shukra - merci  
-shukra da - grâce à  
+shukur - merci  
+shukur ta - gratitude  
+shukur ze - grâce à  
 shula - éducation  
 shula guru - professeur (enseignant)  
 shula ja - étudiant  

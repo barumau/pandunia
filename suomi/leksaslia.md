@@ -1265,7 +1265,7 @@
 |**shoke**|isku (šokki)|englanti:nld:shock, ranska:choc, espanja:portugali:choque, turkki:şok, malaiji:syok + yleiskiina:冲击 (chōngjī), kantoninkiina:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), japani:衝撃 (shōgeki)|
 |**shopi**|ostokset|englanti:ranska:espanja:shopping, japani:ショッピング (shoppingu), korea:쇼핑 (syoping), thai:ชอปปิ้ง (chop-bing), venäjä:шоппинг (šopping), yleiskiina:血拼 (xuèpīn)|
 |**shou**|näytös (esitys, show)|englanti:deu:ranska:espanja:portugali:show, venäjä:шоу (šou), turkki:şov, suahili:shoo, thai:โชว์ (choo), korea:쇼 (syo), japani:ショー (shō), yleiskiina:秀 (xiù)|
-|**shukra**|kiitos|arabia: شُكْرًا‎ (šukran), hindi:शुक्रिया (śukriyā);शुक्र (śukr), bangla:শুকরিয়া (śukriẏa);শোকর (śokôr), suahili:shukrani;-shukuru, turkki:şükür|
+|**shukur**|kiitos|arabia: شُكْر‎ m (šukr), hindi:शुक्र (śukr), bangla:শোকর (śokôr), suahili:-shukuru, turkki:şükür|
 |**shula kan**|koulu (opisto)|yleiskiina:学 (xué) + deu:Schule, suahili:shule + englanti:school, ranska:école, espanja:escuela, portugali:escola, venäjä:школа (škola), hindi:स्कूल (skūl), bangla:স্কুল (śkul), malaiji:sekolah|
 |**shuli**|korjaus|yleiskiina:修理 (xiūlǐ), japani:修理 (shuri), korea:수리 (suri)|
 |**shuru**|alku|arabia: شُرُوع‎ (šurūʿ), persia: شروع (šoru') , hindi:शुरू (śurū), bangla:শুরু (śuru) + yleiskiina:始 (shǐ), japani:始 (kaishi), korea:시 (shi)|

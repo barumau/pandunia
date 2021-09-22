@@ -623,7 +623,8 @@ governo - politi
 grama (relva) - gazo  
 gramado - gazo medan  
 granito - granite  
-graças a - shukra da  
+gratidão - shukur ta  
+graças a - shukur ze  
 grupo - grupe  
 grávida (prenhe) - hamil  
 guarda-chuva - shava chati  
@@ -959,7 +960,7 @@ o (a) - la
 o que - ke  
 objetivo - dike  
 oblíquo (torto) - tercha  
-obrigado - shukra  
+obrigado - shukur  
 obsidiana - osidian  
 oceano - dai hai  
 ocular - oko di  

@@ -557,8 +557,8 @@ dziura - kong
 dziw (cudo) - ajibu  
 dziwny (nieznany) - an sabi di  
 dziwny - bizar  
-dzięki, dzięki ci - shukra  
-dziękować - fa shukra  
+dzięki, dzięki ci - shukur  
+dziękować - fa shukur  
 dziś, dzisiaj - zai den  
 dzwon (dzwonek) - dang gi  
 dzwonić (dźwięczeć, szczękać) - dang  
@@ -3104,6 +3104,7 @@ wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku
 wcześniej (uprzednio, poprzednio, przedtem) - chen  
 wczoraj - chen den  
 wdowa - vidou  
+wdzięczność - shukur ta  
 według ruchu wskazówek zegara - rota raite  
 weganin (weganka) - pul fito yam sim ja  
 wegetarianin - fito yam sim ja  

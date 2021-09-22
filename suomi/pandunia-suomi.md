@@ -1100,7 +1100,7 @@ fa shipi - kosteuttaa
 fa shite - paskantaa (ulostaa)  
 fa shofer - ajaa (kuskata)  
 fa shopi - ostaa  
-fa shukra - kiittää  
+fa shukur - kiittää  
 fa shula - oppia (opiskella)  
 fa shuru - aloittaa  
 fa shush - hiljentää  
@@ -3208,8 +3208,9 @@ shoke - isku (šokki)
 shopi - ostokset  
 shopi ja - ostaja  
 shou - näytös (esitys, show)  
-shukra - kiitos  
-shukra da - ansiosta  
+shukur - kiitos  
+shukur ta - kiitollisuus  
+shukur ze - ansiosta  
 shula - koulutus  
 shula guru - opettaja  
 shula ja - oppilas  

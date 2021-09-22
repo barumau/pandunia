@@ -1275,8 +1275,9 @@ shiti bai ja - perdedor
 Shiva - Xiva  
 shofer ja - condutor (chofer, motorista)  
 shopi - compras  
-shukra - obrigado  
-shukra da - graças a  
+shukur - obrigado  
+shukur ta - gratidão  
+shukur ze - graças a  
 shula - educação  
 shula guru - professor (docente)  
 shula kan - escola (colégio)  

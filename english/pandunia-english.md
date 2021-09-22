@@ -1112,7 +1112,7 @@ fa shipi - wet (dampen, moisten)
 fa shite - defecate (shit)  
 fa shofer - drive (steer)  
 fa shopi - buy (purchase)  
-fa shukra - thank  
+fa shukur - thank  
 fa shula - learn (study)  
 fa shuru - begin (start, commence, initiate)  
 fa shush - silence (make silent)  
@@ -3483,8 +3483,9 @@ shoke - shock (collision)
 shopi - shopping  
 shopi ja - buyer  
 shou - show (display, exhibition)  
-shukra - thanks (thank you)  
-shukra da - thanks to  
+shukur - thanks (thank you)  
+shukur ta - gratitude  
+shukur ze - thanks to  
 shula - education (schooling)  
 shula guru - schoolteacher  
 shula ja - student (pupil, learner)  

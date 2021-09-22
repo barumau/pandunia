@@ -76,7 +76,7 @@ afrontar - verse
 agacharse - lipa side  
 agorafobia - medan fobi  
 agosto - mes bati  
-agradecer - fa shukra  
+agradecer - fa shukur  
 agresivo - agresi tabi  
 agresor - agresi ja  
 agrio (ácido) - suan  
@@ -1564,8 +1564,8 @@ gorila occidental - veste gorila
 gorila oriental - dong gorila  
 gota - giota  
 grabado (sello, estampando) - chape  
-gracias - shukra  
-gracias a (merced a) - shukra da  
+gracias - shukur  
+gracias a (merced a) - shukur ze  
 grado Celsius - celsius darje  
 gramatical - basha kanun di  
 gramo (g) - gram  
@@ -1577,6 +1577,7 @@ granito - granite
 granjero (agricultor) - nong ja  
 grasa - futa  
 graso (adiposo) - futa di  
+gratitud - shukur ta  
 grava - grave  
 gravar (cobrar tasas) - kape yo taksi  
 Grecia - Helen  

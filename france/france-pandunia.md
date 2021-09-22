@@ -706,11 +706,12 @@ gouvernement - politi
 grand-mère - chin ma  
 grand-père - chin pa  
 granit - granite  
+gratitude - shukur ta  
 gravire - grave  
 grenouille - krokro  
 grimace - grimas  
 groupe - grupe  
-grâce à - shukra da  
+grâce à - shukur ze  
 grès - arena petra  
 guide - gida ja  
 guide touristique - gida buku  
@@ -966,7 +967,7 @@ Menthe aquatique - sui minta
 menthe poivrée - pipre minta  
 menthe verte - kane minte  
 mer - hai  
-merci - shukra  
+merci - shukur  
 mercredi - var tri  
 mercure - hidrargente  
 Mercure - Merkur  

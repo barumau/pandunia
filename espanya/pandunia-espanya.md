@@ -988,7 +988,7 @@ fa shipi - mojar
 fa shite - cagar  
 fa shofer - conducir  
 fa shopi - comprar  
-fa shukra - agradecer  
+fa shukur - agradecer  
 fa shula - aprender (estudiar)  
 fa shuru - comenzar (iniciar, empezar)  
 fa side - sentar  
@@ -3165,8 +3165,9 @@ shoke - choque (sacudida)
 shopi - compras (shopping)  
 shopi ja - comprador  
 shou - exposición (espectáculo)  
-shukra - gracias  
-shukra da - gracias a (merced a)  
+shukur - gracias  
+shukur ta - gratitud  
+shukur ze - gracias a (merced a)  
 shula - educación  
 shula guru - maestro (profesor, docente)  
 shula ja - estudiante  

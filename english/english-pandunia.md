@@ -1552,6 +1552,7 @@ grapefruit - putau oranje
 graphic (pictorial) - grafi di  
 grass - gazo  
 grassland (prairie) - gazo topo  
+gratitude - shukur ta  
 grave (tomb, bury) - gabur  
 gravel - grave  
 graveyard (cemetery, burial ground) - gabur bagi  
@@ -3661,9 +3662,9 @@ Thai language - Tai basha
 Thailand - Tai Desha  
 thallium - tali yum  
 than (as, compared to, relative to) - ka  
-thank - fa shukra  
-thanks (thank you) - shukra  
-thanks to - shukra da  
+thank - fa shukur  
+thanks (thank you) - shukur  
+thanks to - shukur ze  
 that (conjunction) - ki  
 that is (in other words, i.e., alias) - alo nam  
 that over there - go  

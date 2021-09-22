@@ -119,7 +119,7 @@ animoida - anime
 ankkuri - angar  
 annos - doze  
 anoppi - gami ma  
-ansiosta - shukra da  
+ansiosta - shukur ze  
 antaa - dona  
 antaa anteeksi - fa maf  
 Antarktis - Antartika  
@@ -1198,8 +1198,9 @@ kiinteä - gati mate di
 kiinteä aine - gati mate  
 kiirehtiä - ajila  
 kiireinen - mangu  
-kiitos - shukra  
-kiittää - fa shukra  
+kiitollisuus - shukur ta  
+kiitos - shukur  
+kiittää - fa shukur  
 kiivetä - eskale  
 kiivi - kivi  
 kikherne - humus  

@@ -76,35 +76,35 @@ is a popular greeting that is used by both religious and non-religious people in
 Indonesian: selamat.</small>
 
 
-### shukra <small>thanks</small>
+### shukur <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**shukra!**
+**shukur!**
 Thanks!
 
-**poli shukra!**
+**poli shukur!**
 Thanks a lot!
 
-**ya, shukra.**
+**ya, shukur.**
 Yes, thank you.
 
-**no, shukra.**
+**no, shukur.**
 No, thank you.
 
-**shukra tu.**
+**shukur tu.**
 Thank you.
 
-**mi shukra tu.**
+**mi shukur tu.**
 I thank you.
 
-**mi shukra tu mede mi.**
+**mi shukur tu mede mi.**
 I thank you for helping me.
 
-**shukra tu mede mi.**
+**shukur tu mede mi.**
 Thanks for helping me.
 
-**no yau shukra.**
+**no yau shukur.**
 You're welcome. (Literally: _No need to thank._)
 
 

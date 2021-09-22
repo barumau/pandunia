@@ -1207,7 +1207,8 @@ shiti bai - 失败
 Shiva - 湿婆  
 shofer ja - 司机  
 shopi - 购物 (血拼)  
-shukra - 谢谢  
+shukur - 谢谢  
+shukur ta - 谢意  
 shula - 教育  
 shula guru - 教师 (老师)  
 shula ja - 学生  

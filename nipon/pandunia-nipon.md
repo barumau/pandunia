@@ -1215,7 +1215,7 @@ shite - 糞 (屎)
 shiti - 失う (無くす, 落とす)  
 shiti bai - 失敗  
 Shiva - シヴァ  
-shukra - ありがとう (どうも)  
+shukur - ありがとう (どうも)  
 shula - 教育  
 shula guru - 先生 (教師)  
 shula ja - 学生  

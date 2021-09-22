@@ -256,13 +256,13 @@ chief, boss
 **halo! ching side.**
 = Hello! Please sit!  
 <big>🧒</big>
-**danke.**
+**shukur.**
 = Thank you.  
 <big>🧓</big>
 **ching yam kafe o chai.**
 = Please have some coffee or tea.  
 <big>🧒</big>
-**mi vol chai. danke.**
+**mi vol chai. shukur.**
 = I will have some tea, thank you.  
 ...  
 <big>🧓</big>
@@ -378,7 +378,7 @@ tea
 to ask; please  
 **dona**
 to give  
-**danke**
+**shukur**
 thanks  
 **e**
 and  
@@ -445,7 +445,7 @@ to eat or drink
 **no yam.**
 = No.  
 <big>👩‍🍳</big>
-**danke. mi dona un chai e un kafe e un supe pos des minute.**
+**shukur. mi dona un chai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 

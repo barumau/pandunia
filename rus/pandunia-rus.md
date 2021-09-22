@@ -1351,7 +1351,8 @@ shiti - потерять (утратить)
 Shiva - Шива  
 shofer ja - шофёр  
 shopi - покупка (шоппинг)  
-shukra - спасибо  
+shukur - спасибо  
+shukur ta - благодарность  
 shula - образование  
 shula guru - учитель  
 shula kan - школа   

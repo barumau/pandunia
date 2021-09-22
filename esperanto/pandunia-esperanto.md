@@ -555,7 +555,7 @@ fa sam rai - samopinii (interkonsenti)
 fa sana - produkti (fabriki)  
 fa shofer - konduki  
 fa shopi - aĉeti  
-fa shukra - danki  
+fa shukur - danki  
 fa shula - lerni (studi)  
 fa shuru - komenci  
 fa shush - silentigi  
@@ -1651,8 +1651,9 @@ Shiva - Ŝivo
 shofer ja - ŝoforo (kondukisto)  
 shopi ja - aĉetanto (aĉetisto)  
 shou - montri (ekspozicii)  
-shukra - danko  
-shukra da - dank’al  
+shukur - danko  
+shukur ta - dankemo  
+shukur ze - dank’al  
 shula guru - instruisto  
 shula ja - studento (lernanto)  
 shula kan - lernejo  

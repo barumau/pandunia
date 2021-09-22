@@ -945,7 +945,7 @@ fa shipi - moczyć (zmoczyć)
 fa shite - srać (robić gówno)  
 fa shofer - prowadzić pojazd  
 fa shopi - kupić  
-fa shukra - dziękować  
+fa shukur - dziękować  
 fa shula - nauczyć się, uczyć się, studiować  
 fa shuru - zacząć, zaczynać  
 fa shush - uciszyć (uciszać)  
@@ -3043,7 +3043,8 @@ shoke - szokwstrząs; kolizja
 shopi - zakupy (sprawunki, shopping)  
 shopi ja - nabywca (kupiec)  
 shou - pokaz, ekspozycja, wystawa  
-shukra - dzięki, dzięki ci  
+shukur - dzięki, dzięki ci  
+shukur ta - wdzięczność  
 shula guru - nauczyciel  
 shula ja - uczeń, student  
 shula kan - szkoła (instytucja)  
