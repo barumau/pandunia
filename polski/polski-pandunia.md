@@ -556,7 +556,7 @@ dziobak - bata krote
 dziura - kong  
 dziw (cudo) - ajibu  
 dziwny (nieznany) - an sabi di  
-dziwny - bizar  
+dziwny - guai  
 dzięki, dzięki ci - shukur  
 dziękować - fa shukur  
 dziś, dzisiaj - zai den  
@@ -836,8 +836,8 @@ heteroseksualny - alo sekse di
 hełm - sar kaske  
 higiena - salu safa ta  
 Himalaje - Himalaya  
-hinduistyczny - Hindu  
-hinduizm - Hindu din  
+hinduistyczny - Hindi din ja  
+hinduizm - Hindi din  
 hipopotam - gubu  
 historia, badanie historii - histori logi  
 historia; annały, roczniki - histori  
@@ -1047,7 +1047,7 @@ karczoch hiszpański - kardon karchof
 karczoch zwyczajny - karchof  
 Karnataka - Karnada  
 karta - karte  
-kartka (dokument) - varka  
+kartka (dokument) - yepa  
 kartografia - metre grafi shuta  
 kasjer - pesa kasa ja  
 kasta - jene klas  
@@ -1281,7 +1281,7 @@ lalka, kukiełka, pacynka, marionetka - pupe
 lama - lama  
 lama - liama  
 lampa - lampa  
-lantan - lantan yum  
+lantan - lantan  
 Laos - Lau  
 laotański - lau di  
 lapis lazuli - lazur petra  
@@ -1327,14 +1327,14 @@ liliowy - lila rang
 lima (limonka) - kaguji limon  
 limfa - limfa  
 limit, granica - limite  
-limonkowy (limonkowo zielony) - limon luka di  
+limonkowy (limonkowo zielony) - limon verde di  
 linia (nić, lina, pas, pręga, smuga, dratwa) - lin  
 lipiec - mes nelu  
 lis - huli  
 lista słów - loga liste  
 lista, spis, wykaz - liste  
 listopad - mes bati  
-listownicowiec - varka alga  
+listownicowiec - yepa alga  
 lit - lito yum  
 litera, znak - fon zi  
 litewski - lietuva basha  
@@ -1465,7 +1465,7 @@ Meksyk - Mehiko siti
 melodia - melodi  
 melodyczny - melodi  
 melon koreański - aroma melon  
-melon miodowy - luka melon  
+melon miodowy - verde melon  
 Merkury - Merkur  
 mesjański - mesi di  
 metal - metal  
@@ -1546,7 +1546,7 @@ modlitwa - dua
 mokry (wilgotny) - shipi  
 mol - mole  
 molekuła (cząsteczka) - molekul  
-molibden - moliden yum  
+molibden - moliden  
 moment - sata  
 Monako - Monako  
 monarchia - auto krati  
@@ -1566,7 +1566,7 @@ morwa - tuta
 Morze Śródziemne - Geo Medi Hai  
 moskovium - moskva yum  
 Moskwa - Moskva  
-most - kiau  
+most - kio  
 motocykl (motor) - moto sikle  
 motyka - chopu  
 motyl - pelpel  
@@ -2163,7 +2163,7 @@ potas - kali yum
 potrzeba - yau ta  
 potrzebny - yau di  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - fa sam rai  
-potwór, monstrum - monoster  
+potwór, monstrum - mostre  
 powiadomić, powiadamiać - fa note  
 powierzchnia - fase  
 powierzchnia, region, teren - area  
@@ -2194,7 +2194,7 @@ południk - vei darje
 południk - vei gola  
 Południowa Afryka - Sude Afrika  
 południowy - sude di  
-połączenie, złącze, styk - linke  
+połączenie (złącze, styk, związek, powiązanie) - linke  
 pośladki, pupa, tyłek, zadek - pigu  
 pożyczać (pożyczyć) - jeka daku  
 pożyczać komuś (pożyczyć komuś) - jeka dona  
@@ -2468,7 +2468,7 @@ roślina, sadzonka - fito
 rożen (szpikulec) - shish  
 rtęć - hidrargente  
 rubid - rubi yum  
-rubin - rubi  
+rubin - rubi bau sheku  
 ruch - kino  
 ruch - move  
 ruchowy, kinetyczny - kino di  
@@ -2676,8 +2676,7 @@ spotkać - miti
 spowodować, powodować - fa saba  
 społeczeństwo, system społeczny - sosi  
 społeczny - sosi di  
-sprawdzić, sprawdzać, skontrolować - cheke  
-sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - gencha  
+sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - cheke  
 sprawiedliwość - adil ta  
 sprawiedliwy - adil  
 sprawić ból, sprawiać ból - fa pasi  
@@ -2727,7 +2726,7 @@ stracić (utracić, tracić, zgubuć, gubić) - shiti
 strażnik więzienny - jela ja  
 strażnik, ochroniarz - garde ja  
 strona (bok) - late  
-strona - varka late  
+strona - yepa late  
 stront - estronti yum  
 strzała (bełt) - fleche  
 strzelać (strzelić) - pau  
@@ -3431,7 +3430,7 @@ zgodzić się (umówić się) - fa trati
 ziarno (nasienie) - seme  
 ziarno, nasienie - seme dane  
 zielenina - choi  
-zielony - luka  
+zielony - verde  
 ziemia, grunt, gleba - geo  
 ziemniak - patate  
 ziemny (glebowy, gruntowy) - darte di  
@@ -3474,7 +3473,6 @@ zulu - Zulu
 zupa - supa  
 zwinny, sprawny - agile  
 związać, wiązać; zapiąć, zapinać - bande  
-związek, powiązanie, połączenie - guanshe  
 zwiększyć o jeden - mas darja  
 zwycięstwo, wygrana - shenga  
 zwyczajny (rutynowy, normalny) - ada di  

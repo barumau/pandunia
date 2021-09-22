@@ -122,7 +122,6 @@
 |**bir**|biero|angla:beer, turka:bira, franca:bière, araba: بيرة (bīra), malaja:bir, hindia:बियर (biyar), svahila:bia, mandarena:啤(酒) pí(jiǔ), japana:ビール (bīru)|
 |**biskute**|biskvito (kuketo)|angla:franca:biscuit, portugala:biscoito, rusa:бисквит (biskvit), turka:bisküvi, svahila:biskuti, araba: بسكويت‎ (baskawīt), hindia:बिस्कुट (biskuṭ), bengala:বিস্কুট (biśkuṭ), malaja:biskut, japana:ビスケット (bisuketto), korea:비스켓 (biseuket)|
 |**bismute**|bismuto|angla:bismuth, franca:bismuth, hispana:bismuto, portugala:bismuto, rusa:висмут, mandarena:铋 (bì), japana:ビスマス, korea:비스무트, vjetnama:bitmut, bismut, hindia:बिस्मथ, bengala:বিসমাথ, malaja:bismut, svahila:bismuthi, araba: بزموث|
-|**bizar**|stranga|angla:franca:bizarre, portugala:bizarro, deu:bizarr|
 |**biznes**|negoco|angla:business, rusa:бизнес (biznes), malaja:bisnes, japana:ビジネス (bijinesu)|
 |**blabla**|babili|franca:blablater, angla:babble, hispana:blablablá|
 |**blu**|blua|angla:blue, franca:bleu, svahila:buluu + malaja:biru + korea:푸르다 (pureuda)|
@@ -361,7 +360,7 @@
 |**grom**|tondro|rusa:гром (grom), polona:grom, svahila:ngurumo|
 |**grupe**|grupo|deu:Gruppe, franca:groupe, angla:group, hispana:portugala:grupo, rusa:группа (gruppa), korea:그룹 (geurup), japana:グループ (gurūpu), turka:grup, hindia:ग्रूप (grūp)|
 |**gua**|kaverno|bengala:গুহা (guha), taja:คูหา (gūhā), teluga:గుహ (guha), hindia:गुफ़ा (gufā), malaja:gua|
-|**guanshe**|rilato|mandarena:关系 (guānxi), vjetnama:quan hệ, korea:관계 (gwangye), japana:関係 (kankei)|
+|**guai**|stranga|mandarena:怪 (guài), kantona:怪 (gwaai3), japana:怪 (kai), korea:괴 (goe), vjetnama:quái|
 |**gubu**|hipopotamo|fula:ngabu konga:ngubu, sot:tsw:kubu, zulua:rwa:imvubu, amharaba:ጉማሬ (gumare)|
 |**gui**|ogro (trolo)|mandarena:鬼 (guǐ), vjetnama:quỷ, + taja:กุ๊ย (gui)|
 |**gulu**|gluti|bengala:গেলা (gela), portugala:engolir, rusa:глотать (glotat'), taja:กลืน (glʉʉn), hispana:deglutir, franca:déglutir|
@@ -509,9 +508,9 @@
 |**kerne**|kerno (koro)|angla:kernel, franca:coeur, portugala:cerne, hindia:केंद्र (kendr)|
 |**kesha**|haro|japana:毛 (ke), hindia:केश (keś), urdua:(keś), panĝaba:ਕੇਸ਼ (keś), teluga:(kēśamu), kanara:(kēśa)|
 |**ki**|ke|franca:hispana:portugala:que, hindia:कि (ki), turka:ki, persa: که‎ (ke), urdua: کہ‎ (ke)|
-|**kiau**|ponto|mandarena:桥 (qiáo), kantona:橋 (kiu4), vua:橋 (jjiau3), japana:橋 (kyō), vjetnama:cầu|
 |**kilo**|mil (kilo-)|angla:franca:hispana:portugala:malaja:turka:kilo-, rusa:кило- (kilo-), japana:キロ- (kiro-), korea:킬로- (killo-)|
 |**kinar**|rando (orlo)|hindia:किनारा (kinārā), bengala:কিনারা (kinara), turka:kenar, persa: کنار‎ (kenâr)|
+|**kio**|ponto|mandarena:桥 (qiáo), kantona:橋 (kiu4), vua:橋 (jío), japana:橋 (kyō), korea:교 (...gyo), vjetnama:cầu|
 |**kisma**|sorto (destino)|araba: قِسْمَة‎ (qisma), hindia:क़िस्मत (qismat), bengala:কিসমত (kiśmôt), angla:kismet, rusa:кисмет (kismet), turka:kısmet|
 |**kitabu**|skribo|araba:urdua:(kitāb), persa:(ketâb), turka:kitap, malaja:kitab, svahila:kitabu, hindia:किताब (kitāb)|
 |**kivi**|kivo|angla:franca:hispana:malaja:svahila:kiwi, portugala:quivi, japana:キーウィ (kīwi), korea:키위 (kiwi), hindia:कीवी (kīvī), turka:kivi|
@@ -582,6 +581,7 @@
 |**lima**|kvin (5)|malaja:filipina:lima|
 |**limon**|citrono|persa:(limun), angla:lemon, turka:limon, rusa:лимон (limon), hispana:limón, portugala:limão, hindia:नींबू (nīmbū), urdua:(nībū), mandarena:柠檬 (níngméng), japana:檸檬 (remon), korea:레몬 (remon), svahila:ndimu,limau, bengala:লেবু (lebu)|
 |**lin**|lineo (ŝnuro)|angla:line, franca:ligne, hispana:línea, portugala:linha, rusa:линия (liniya), polona:linia|
+|**linke**|rilato|angla:link, franca:lien, deu:Link, persa:لینک • (link), japana:リンク (rinku) + mandarena:連結 (liánjié), kantona:連結 (lin4 git3), hakaa:連結 (lièn-kiet), vjetnama:liên kết|
 |**linse**|linko|angla:franca:lynx, hispana:portugala:lince, hindia:लिंक्स (links)|
 |**lis**|glata|franca:lisse, hispana:portugala:liso, persa:(liz), malaja:licin|
 |**lisan**|lango|araba: لِسَان‎ (lisān), hindia:लिसान (lisān), svahila:lisani, malaja:turka:lisan, amhara:ልሳን (ləsan)|
@@ -596,7 +596,6 @@
 |**loka**|loko|angla:location, hispana:lugar, franca:localisation, + deu:turka:lokal, polona:lokalny|
 |**long**|longa|angla:franca:long, deu:lang, portugala:longo|
 |**lou**|liki|mandarena:漏 (lòu), kantona:漏 (lau6), japana:漏 (rō), 루 (ru)|
-|**luka**|verda|mandarena:绿 (lǜ), kantona:綠 (luk6), vjetnama:lục, korea:록/녹 (rok/nok), japana: 緑色 (ryokushoku)|
 |**lulu**|perlo|amharaba:ሉል (lul), ara:(luʾluʾa), svahila:lulu, oroma:lu'ulu'a, haŭsa:lu'ulu'u, fula:luuluuri, persa:(lo'lo')|
 |**luna**|luno|franca:lune, hispana:luna, angla:lunar, rusa:луна (luná)|
 |**luta**|rabi|hindia:लूटना (lūṭnā), urdua:(lūṭnā), bengala:লুটা (luṭā), panĝaba:ਲੁੱਟ (luṭ), angla:loot, + mandarena:掠夺 (lüèduó), kantona:掠 (loek6)|
@@ -660,12 +659,12 @@
 |**mitre**|metro|angla:turka:metre, deu:malaja:meter, franca:mètre, hispana:portugala:metro, rusa:метр (metr), araba: متر‎ (mitr), mandarena:米 (mǐ), japana:メートル (mētoru), korea:미터 (miteo), vjetnama:mét, hindia:मीटर (mīṭar), bengala:মিটার (miṭar), svahila:mita|
 |**moka**|arbo|mandarena:木 (mù), kantona:木 (muk6), japana:木 (moku), korea:목 (mok), vjetnama:mộc, oroma:muka|
 |**moli**|jasmeno|kanara:ಮಲ್ಲಿಗೆ  (mallige), tamila:(mallikai), teluga:మల్లె  (malle), malaja:melati, taja:มะลิ (má-lí), korea:말리 (malli), tha:มะลิ (mali), mandarena:茉莉 (mòlì), kantona:茉莉 (mut6lei5)|
-|**moliden yum**|molibdeno|angla:molybdenum, franca:molybdène, hispana:molibdeno, portugala:molibdénio, rusa:молибден, mandarena:钼 (mù), japana:モリブデン, korea:몰리브덴, vjetnama:molypđen, hindia:मोलिब्डेनम, bengala:মলিবডেনাম, malaja:molibden, svahila:molibdeni, araba: مولبيدنيوم|
+|**moliden**|molibdeno|angla:molybdenum, franca:molybdène, hispana:molibdeno, portugala:molibdénio, rusa:молибден, mandarena:钼 (mù), japana:モリブデン, korea:몰리브덴, vjetnama:molypđen, hindia:मोलिब्डेनम, bengala:মলিবডেনাম, malaja:molibden, svahila:molibdeni, araba: مولبيدنيوم|
 |**moluske**|molusko|angla:mollusk, deu:Molluske, franca:mollusque, rusa:моллюск (mollyusk), hispana:portugala:molusco, malaja:moluska, hindia:urdua:(molask)|
 |**mon**|oni|mandarena:们 (men), kantona:們 (mun4) + deu:man + angla:one|
-|**monoster**|monstro|angla:monster, hispana:portugala:monstro, franca:monstre, rusa:монстр (monstr), japana:モンスター (monsutā)|
 |**mosim**|sezono|araba: موسم (mawsim), hindia:मौसम (mausam), malaja:musim, turka:mevsim, svahila:msimu + angla:monsoon, franca:mousson, portugala:monção, rusa:муссон (musson)|
 |**moskva yum**|moskovio|angla:franca:moscovium, hispana:moscovio, portugala:moscovio, rusa:московий, japana:モスコビウム, korea:우눈펜튬, vjetnama:moscovi, malaja:moskovium, svahila:moscovi|
+|**mostre**|monstro|itala:mostro, angla:monster, hispana:portugala:monstro, franca:monstre, rusa:монстр (monstr), japana:モンスター (monsutā), korea:몬스터 (monseuteo)|
 |**moto**|motoro|angla:hispana:portugala:turka:malaja:motor, fra;moteur, rusa:мотор (motor), araba:(mutūr), mandarena:摩托 (mótuō), japana:モーター (mōtā), korea:모터 (moteo), vjetnama:mô-tơ, hindia:मोटर (moṭar), bengala:মোটর (moṭôr), svahila:mota|
 |**muka**|vizaĝo|bengala:মুখ (mukh), hindia:मुख (mukh), tamila:முகம் (mukam), teluga:(mukhamu), malaja:muka, filipina:mukha|
 |**mula**|radiko|hindia:marataja:मूल (mūl), bengala:মূল (mūl), teluga:మూలము (mūlamu), malaja:filipina:mula, kmera:មូល (mul), birma:မူလ (mula), tha:มูล (mun)|
@@ -822,9 +821,8 @@
 |**rode yum**|rodio|angla:rhodium, franca:rhodium, hispana:rodio, portugala:ródio, rusa:родий, japana:ロジウム, korea:로듐, vjetnama:rođi, hindia:रोडियम, bengala:রোডিয়াম, malaja:rodium, svahila:rodi, araba: روديوم|
 |**rode**|rozo|greka:ῥόδον (rhódon), franca:angla:rose, hispana:portugala:rosa, rusa:роза (roza), malaja:ros, filipina:rosas + araba: وَرْد‎ (ward), svahila:waridi|
 |**rose**|roso|franca:rosée, hispana:rocío, rusa:роса (rosa)|
+|**rubi bau sheku**|rubeno|angla:ruby, portugala:rubi, hispana:rubí, franca:rubis, deu:Rubin, rusa:рубин (rubin), japana:ルビー (rubī)|
 |**rubi yum**|rubidio|angla:rubidium, franca:rubidium, hispana:rubidio, portugala:rubídio, rusa:рубидий, mandarena:铷 (rú), japana:ルビジウム, korea:루비듐, vjetnama:rubiđi, hindia:रुबिडियम, bengala:রুবিডিয়াম, malaja:rubidium, svahila:rubidi, araba: روبيديوم|
-|**rubi**|rubeno|angla:ruby, portugala:rubi, hispana:rubí, franca:rubis, deu:Rubin, rusa:рубин (rubin), japana:ルビー (rubī)|
-|**rubi**|ruĝa|hindia:लाल (lāl), bengala:লাল (lal), turka:al|
 |**ruhu logi**|psikologio|turka:ruh bilimi, hindia:मनोविज्ञान (manovigyān), bengala:মনোবিজ্ঞান (mônobiggan), malaja:ilmu jiwa, araba:(ʿilm an-nafs), deu:Seelenkunde, angla:psychology, hispana:psicológia|
 |**ruhu**|animo (psiko)|araba:(rūħ), malaja:ruh, turka:ruh, hindia:रूह (rūh), svahila:roho, haŭsa:ruhu, som:ruux, + rusa:дух (duh)|
 |**ruke**|dorso|deu:Rücken|
@@ -997,6 +995,7 @@
 |**ventur**|aventuro|deu:Abenteuer, hispana:aventura, franca:aventure, rusa:авантюра (avantyura), turka:avantür, angla:adventure|
 |**ver**|vera|angla:very, itala:vero, rusa:верный (verniy), hispana:verdadero, portugala:verdadeiro, deu:wahr, franca:vrai|
 |**veranda**|verando (balkono)|hindia:बरामदा (barāmd), portugala:varanda, malaja:beranda, angla:veranda, rusa:веранда (veranda), japana:ベランダ (beranda), korea:베란다 (beranda), svahila:varanda|
+|**verde**|verda|hispana:portugala:verde, franca:angla:vert|
 |**version**|versio (toisinto)|angla:franca:version, portugala:versão, rusa:версия (versiya), malaja:versi|
 |**veze**|pezo|araba: وَزْن‎ (wazn), hindia:वज़न (vazan), bengala:ওজন (ojôn), kanara:ವಜ್ಜೆ (vajje), svahila:uzani + rusa:вес (ves) + franca:peser, hispana:portugala:peso|
 |**vide**|vidi (rigardi)|rusa:видеть (videt’), itala:vedere, hispana:portugala:ver, polona:widzieć, angla:vide|
@@ -1014,6 +1013,7 @@
 |**yang**|speco (tipo, stilo)|mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)|
 |**yau**|bezoni|mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu|
 |**ye**|li aŭ ŝi aŭ ĝi|hindia:यह (yeh) + svahila:yeye, zulua:yena, lingala:ye + rusa:е- (ye-) + malaja:ia + mandarena:伊 (yī), vjetnama:y|
+|**yepa**|folio|mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)|
 |**yezi**|kokoso|mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)|
 |**yo**|iu|mandarena:有 (yǒu), kantona:有 (jau5)|
 |**yoga**|jogo|hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)|

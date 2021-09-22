@@ -801,6 +801,7 @@ conducir - fa shofer
 conductor (chofer) - shofer ja  
 conectar (empalmar, enlazar, vincular) - fa linke  
 conejo (liebre) - tuzi  
+conexión (relación, asociación, juntura, enlace) - linke  
 confiar (contar con) - amen shin  
 confucianismo - kong fuzi sim  
 confucio - Kong Fuzi  
@@ -1351,7 +1352,6 @@ evangelio - eu anjil
 eviar por correo - fa posta  
 evidente - ekso vide di  
 exacto (preciso) - juste  
-examinar (inspeccionar) - gencha  
 exangüe - sange hin  
 excavar - fa ekso kave  
 excelente - bon sifa di  
@@ -1671,8 +1671,8 @@ hijastro o  hijastra - gami ben
 hijo - man ben  
 hijo o hija - ben  
 Himalaya - Himalaya  
-hinduismo - Hindu din  
-hindú - Hindu  
+hinduismo - Hindi din  
+hindú - Hindi din ja  
 hipopótamo - gubu  
 historia (cuento, relato, leyenda) - kata  
 historia (estudio de sucesos del pasado) - histori logi  
@@ -1683,7 +1683,7 @@ hm… - hem…
 hockey - hoki  
 hockey sobre hielo - ais hoki  
 hogar - dom  
-hoja - varka  
+hoja - yepa  
 holmio - holme yum  
 holograma - holo grafi  
 holoturia (pepino de mar) - hai hiyar  
@@ -1778,9 +1778,9 @@ India - Barti
 indicador (cursor) - ponte fleche  
 indio (hindú) - barti  
 indium - hindi yum  
-Indo - Hindu riu  
+Indo - Hindi rivo  
 Indonesia - Indonesi  
-Indostán - Hindu desh  
+Indostán - Hindi desha  
 indígena (indio) - asal Amerka jan  
 inequívoco - un mana di  
 infección (contagio) - pati mise  
@@ -1903,7 +1903,6 @@ jugo (zumo) - jus
 julio - mes cheti  
 junio - mes luka  
 juntos - kon  
-juntura (conexión, enlace) - linke  
 Jupiter - Jupiter  
 justicia - adil ta  
 justo - adil  
@@ -1915,7 +1914,7 @@ karate - karate
 karité - karite  
 Karnataka - Karnada  
 Kazajistán (Kazakistan) - Kazake  
-kelp - varka alga  
+kelp - yepa alga  
 kelvin - kelvin  
 Kenia - Kenya  
 kilograma - kilogram  
@@ -1940,7 +1939,7 @@ ladrón - luta ja
 lagarto - saur  
 lago - lage  
 lama - lama  
-lantano - lantan yum  
+lantano - lantan  
 lanzamisiles - rokete lanse gi  
 Laos - Lau  
 laosiano - lau di  
@@ -2206,10 +2205,10 @@ melón - melon
 melón amargo - kali melon  
 melón cantalupo - kantalupo melon  
 melón coreano - aroma melon  
-melón verde - luka melon  
+melón verde - verde melon  
 memoria - memo  
 memorándum (nota) - memo note  
-mendelevio - mendelevi yum  
+mendelevio - mendelef yum  
 meninge - meninge  
 meningitis - meninge flame  
 menor (leve) - minor  
@@ -2284,7 +2283,7 @@ Moldova - Moldova
 moler (pulverizar) - fa mol  
 molestar (perturber) - fa turbe  
 molestar en - be turbe  
-molibdeno - moliden yum  
+molibdeno - moliden  
 molinero - mol ja  
 molino - mol kan  
 molusco - moluske  
@@ -2298,7 +2297,7 @@ Mongolia - Mongol
 monismo - un she sim  
 monocromático - un rang di  
 monoteismo - un deu sim  
-monstro - monoster  
+monstro - mostre  
 montaña (colina) - shan  
 Montenegro - Chernagora  
 monumento - memo bina  
@@ -2904,7 +2903,7 @@ pudrirse (cariarse, descomponerse) - be pute
 pudín - puding  
 pueblo (población) - demo  
 pueblo - nagar  
-puente - kiau  
+puente - kio  
 puerro (cebolla larga) - porei  
 puerta - mun  
 puerto marítimo - hai porte  
@@ -2920,7 +2919,7 @@ punto (lunar) - bindu
 punto - punte  
 puntuación (resultado) - punte nomer  
 puñal (daga) - kanjar  
-página - varka late  
+página - yepa late  
 página wiki - viki makala  
 pájaro (ave) - paksi  
 pánico - panike  
@@ -2966,14 +2965,14 @@ radiotransmisor - radi miser
 radiómetro - radi metre gi  
 radón - radon  
 raja (grieta) - krake  
-rajá - hindu raja  
+rajá - hindi raja  
 rama - shaka  
 Ramadán - ramazan  
 rampa (cuesta) - rampe  
 rana - krokro  
 rapidez (velocidad) - rapide ta  
 raramente - nadir mar  
-raro (extraño) - bizar  
+raro (extraño) - guai  
 raro - nadir  
 raro - rare  
 rasgar (romper) - chira  
@@ -3013,7 +3012,6 @@ reinar (gobernar) - fa sultan
 reinar (reinar como emperador) - imperi  
 reino - raja desha  
 Reino Unido - Britan  
-relación (asociación, conexión) - guanshe  
 relatar (narrar) - fa kata  
 religioso - din di  
 religión - din  
@@ -3056,7 +3054,7 @@ retículo - krus lin
 reunión (junta, mitin) - miti  
 Reunión - Reunion  
 reventar - parche kai  
-revisar (chequear) - cheke  
+revisar (chequear, examinar, inspeccionar) - cheke  
 revista (periódico, gaceta) - gazeta  
 rey - man raja  
 rey o reina - raja  
@@ -3103,7 +3101,7 @@ roto - parche di
 rotor - rota she  
 Ruanda - Ruanda  
 rubidio - rubi yum  
-rubí - rubi  
+rubí - rubi bau sheku  
 rueda (volante) - chakra  
 ruido - kelele  
 ruiseñor - bulbul  
@@ -3603,8 +3601,8 @@ ver (mirar) - vide
 verano - garma mosim  
 verbo - karma loga  
 verdadero - ver  
-verde - luka  
-verde limón - limon luka di  
+verde - verde  
+verde limón - limon verde di  
 verdura (legumbre) - yam fito  
 verduras - choi  
 vergüenza (pena) - sharma  

@@ -239,6 +239,7 @@ biologie - bio logi
 biome - bio sistem  
 biscuit - biskute  
 bismuth - bismute  
+bizarre - guai  
 bière - bir  
 blanc - baku  
 blettes (bettes) - selge  
@@ -634,6 +635,7 @@ fermenter - be bio mute
 fermium - fermi yum  
 feu - hogo  
 feu d’artifice - hogo tehni  
+feuille - yepa  
 fiable (de confiance, fidèle, sûr, crédible) - amen shin di  
 fibre - lin so  
 fil de fer - metal lin  
@@ -746,7 +748,7 @@ Hesse - Hese
 heure - hor  
 heureux - suka  
 hier - chen den  
-Hindustan - Hindu desh  
+Hindustan - Hindi desha  
 hippopotame  - gubu  
 hiver - leng mosim  
 hivernal (hibernal) - leng mosim di  
@@ -788,7 +790,7 @@ inclusif - in klus di
 Inde - Barti  
 indien - barti  
 indium - hindi yum  
-Indus - Hindu riu  
+Indus - Hindi rivo  
 infecter - fa pati mise  
 infection (contagion) - pati mise  
 infidèle (incroyant) - an din ja  
@@ -859,7 +861,7 @@ Lance-roquettes - rokete lanse gi
 langue - basha  
 langue - lisan  
 langue maternelle - jene basha  
-lanthane - lantan yum  
+lanthane - lantan  
 lapin (lièvre) - tuzi  
 lapis-lazuli - lazur petra  
 lasagne - lazanya  
@@ -961,7 +963,7 @@ maître - mestre
 medio - medi  
 meitnérium - meitner yum  
 melt - yong  
-mendélévium - mendelevi yum  
+mendélévium - mendelef yum  
 menthe - minta  
 Menthe aquatique - sui minta  
 menthe poivrée - pipre minta  
@@ -990,12 +992,13 @@ mode (façon, manière) - mode
 modeler - fa plasti  
 mois - mes  
 mole (unité) - mole  
-molybdène - moliden yum  
+molybdène - moliden  
 momentané - sata di  
 monde - dunia  
 monnaie (pièce) - pesa diske  
 monocle - un oko di lense  
 monologue - auto loga  
+monstre - mostre  
 mordre - fa dante  
 morue (cabillaud) - bakalau  
 morue de l'Atlantique - atlanti bakalau  
@@ -1132,7 +1135,7 @@ où - na ke
 ####P - P  
 pacifisme - pase sim  
 pacifiste - pase sim ja  
-page - varka late  
+page - yepa late  
 pain - pang  
 pair (pareil, egal) - par  
 paix - pase  
@@ -1252,7 +1255,7 @@ polonium - polska yum
 Polynesie - Polinesi  
 Polynésie française - France Polinesi  
 pomme - aple  
-pont - kiau  
+pont - kio  
 porcelaine - chini  
 porte - porte  
 porte-bloc (planchette à pince) - pinse bano  
@@ -1384,7 +1387,7 @@ roue - chakra
 rouge - rubi  
 ruban (bande) - tepe  
 rubidium - rubi yum  
-rubis - rubi  
+rubis - rubi bau sheku  
 ruche (nid d'abeille) - fong nide  
 ruse - truke  
 rutherfordium - ruterfor yum  
@@ -1614,7 +1617,7 @@ vampire - vampir
 vampire des abysses - vampir ohtopus  
 vanadium - vanadi yum  
 vapeur d’eau - sui gas  
-varech - varka alga  
+varech - yepa alga  
 vendre - vende  
 vendredi - var lima  
 Venezuela - Venezuela  
@@ -1628,7 +1631,7 @@ verre coloré - rang kancha
 verrue - zeyil  
 verse (face á) - verse  
 verser - fa verse  
-vert - luka  
+vert - verde  
 veuve - vidou  
 viande - nama  
 vice-roi - vise raja  

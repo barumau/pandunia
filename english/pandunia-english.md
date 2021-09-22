@@ -431,7 +431,6 @@ bir kan - bar (pub, beer house)
 Bisau Ginia - Guinea-Bissau  
 biskute - biscuit (cookie)  
 bismute - bismuth  
-bizar - odd (strange, weird)  
 biznes - business (commercial activity)  
 biznes ja - businessperson (businessman)  
 blabla - chat (babble)  
@@ -538,7 +537,7 @@ chapati - flatbread (chapati, roti)
 chape - print (stamp)  
 charme - charm (attraction)  
 chati - roof  
-cheke - check (to examine)  
+cheke - examine (inspect, check)  
 chen - previous (fore)  
 chen - earlier (before, in the past)  
 chen den - yesterday  
@@ -1388,7 +1387,6 @@ gazo topo - grassland (prairie)
 gei - gay (homosexual)  
 gem - game  
 gem ja - player (gamer)  
-gencha - examine (inspect, check)  
 Geo - Earth (Terra)  
 geo - earth (ground)  
 geo dou - peanut (groundnut)  
@@ -1474,9 +1472,9 @@ grosta - thickness
 grupe - group  
 gua - cave  
 Guadelupe - Guadeloupe  
+guai - odd (strange, weird, peculiar, bizarre)  
 Guam - Guam  
 Guangjou - Guangzhou (Canton)  
-guanshe - relationship (association, connection)  
 Guatemala - Guatemala  
 gubu - hippopotamus  
 gui - ogre (troll, goblin)  
@@ -1594,13 +1592,13 @@ Himalaya - Himalayas
 hin - lack (miss, be without)  
 hin di - lacking (-less)  
 hina - henna (alcanna)  
+Hindi basha - Hindi (Hindustani)  
+Hindi desha - Hindustan  
+Hindi din - Hinduism  
+Hindi din ja - Hindu  
+hindi raja - rajah  
+Hindi rivo - Indus river  
 hindi yum - indium  
-Hindu - Hindu  
-Hindu basha - Hindi (Hindustani)  
-Hindu desh - Hindustan  
-Hindu din - Hinduism  
-hindu raja - rajah  
-Hindu riu - Indus river  
 Hiperion - Hyperion  
 hisabu - calculation  
 hisabu loge - account  
@@ -1988,7 +1986,7 @@ kesha hin - hairless
 kesha sabun - shampoo  
 ketel - kettle  
 ki - that (conjunction)  
-kiau - bridge  
+kio - bridge  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
 kimi - substance (physical material from which something is made)  
@@ -2197,7 +2195,7 @@ lanse - throw (launch)
 lanse grafi - projection (image)  
 lanse grafi - project (cast)  
 lanse she - projectile (missile)  
-lantan yum - lanthanum  
+lantan - lanthanum  
 larva - larva (maggot, caterpillar)  
 lashe - leave behind (abandon, let go)  
 lashe she - leftover (residue, vestige)  
@@ -2263,12 +2261,12 @@ limfa - lymph
 limite - limit (boundary)  
 limite di - finite (limited)  
 limon - lemon  
-limon luka di - lime green  
 limon oranje - citrus fruit  
+limon verde di - lime green  
 lin - line (thread, string)  
 lin parche - line break (newline)  
 lin so - fibre  
-linke - joint (link)  
+linke - connection, (association, joint, link, relationship)  
 linse - lynx  
 lipa - stand  
 lipa bano - shelf (bookshelf)  
@@ -2316,10 +2314,8 @@ lotra - otter
 lou - leak  
 lou sang - bleed  
 luka - six (6)  
-luka - green  
 luka fase - hexahedron (cube)  
 luka gona - hexagon  
-luka melon - honeydew (green melon)  
 Luksemburge - Luxembourg  
 lulu - pearl  
 lun - discussion (debate, discourse)  
@@ -2479,7 +2475,7 @@ memo bina - monument (memorial)
 memo note - memorandum (memo)  
 memo tehni - mnemotechny  
 men - noodle  
-mendelevi yum - mendelevium  
+mendelef yum - mendelevium  
 meninge - meninx (meninges)  
 meninge flame - meningitis  
 mentor - advisor (counselor, mentor)  
@@ -2583,13 +2579,12 @@ mole - mole (unit)
 molekul - molecule  
 moli - jasmine  
 moli hua chai - jasmine tea  
-moliden yum - molybdenum  
+moliden - molybdenum  
 moluske - mollusk  
 mon - one (you, they, impersonal pronoun)  
 Monako - Monaco  
 Mongol - Mongolia  
 mongol di - Mongolian  
-monoster - monster  
 moral - morality (ethics)  
 moral di - moral  
 moral logi - ethics  
@@ -2600,6 +2595,7 @@ mosim - season
 moskite - mosquito  
 Moskva - Moscow  
 moskva yum - moscovium  
+mostre - monster  
 moto - engine (motor)  
 moto gar - motorcar (automobile)  
 moto sikle - motorcycle  
@@ -3248,7 +3244,7 @@ rota tafun - cyclone (hurrican, tornado, typhoon)
 rota van gi - top (spinning top)  
 Ruanda - Rwanda  
 rubi - red  
-rubi - ruby  
+rubi bau sheku - ruby  
 rubi yum - rubidium  
 ruhu - soul (mind, psyche)  
 ruhu di - mental (psychic)  
@@ -3897,9 +3893,6 @@ var un - Monday
 var var - week  
 vari - various (diverse, miscellaneous)  
 varis - heritage (legacy, bequest)  
-varka - leaf (sheet)  
-varka alga - kelp  
-varka late - page (side of a leaf of a book)  
 vase - oasis  
 vashi - wash  
 vashi urso - raccoon  
@@ -3923,6 +3916,8 @@ ventur ja - adventurer
 Venus - Venus  
 ver - true (real, genuine, indeed, very)  
 veranda - veranda (balcony, terrace, porch)  
+verde - green  
+verde melon - honeydew (green melon)  
 verme - worm  
 vermute - vermouth  
 verse - face (versus)  
@@ -4012,6 +4007,9 @@ yei - yay! (yeah!)
 yeka - exchange (replace, trade, swap)  
 yeka kanon - I Ching (the Book of Changes)  
 Yemen - Yemen  
+yepa - leaf (sheet)  
+yepa alga - kelp  
+yepa late - page (side of a leaf of a book)  
 Yesa - Jesus  
 Yesa Mesi - Jesus Christ  
 yezi - coconut tree  

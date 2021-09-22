@@ -387,7 +387,6 @@ bir kan - bar (pub)
 Bisau Ginia - Guinea-Bisáu  
 biskute - galleta  
 bismute - bismuto  
-bizar - raro (extraño)  
 biznes - negocios (comercio)  
 biznes ja - empresario  
 blabla - charlar (parlotear, chatear)  
@@ -486,7 +485,7 @@ chapati - chapati (pan sin levadura)
 chape - grabado (sello, estampando)  
 charme - encanto  
 chati - techo (tejado)  
-cheke - revisar (chequear)  
+cheke - revisar (chequear, examinar, inspeccionar)  
 chen - previo (anterior)  
 chen - más temprano (antes, haber, en el pasado)  
 chen den - ayer  
@@ -1238,7 +1237,6 @@ gazo topo - pradera (pastizal)
 gei - gay (homosexual)  
 gem - juego  
 gem ja - jugador  
-gencha - examinar (inspeccionar)  
 Geo - Tierra  
 geo - tierra  
 geo dou - maní  
@@ -1320,8 +1318,8 @@ grosta - grosor
 grupe - grupo  
 gua - cueva (caverna)  
 Guadelupe - Guadalupe  
+guai - raro (extraño)  
 Guam - Guam  
-guanshe - relación (asociación, conexión)  
 Guatemala - Guatemala  
 gubu - hipopótamo  
 gui - ogro (gnomo, trol, duende, trasgo)  
@@ -1432,12 +1430,12 @@ hima rose - escarcha
 Himalaya - Himalaya  
 hin - faltar (sin)  
 hina - alheña (henna)  
+Hindi desha - Indostán  
+Hindi din - hinduismo  
+Hindi din ja - hindú  
+hindi raja - rajá  
+Hindi rivo - Indo  
 hindi yum - indium  
-Hindu - hindú  
-Hindu desh - Indostán  
-Hindu din - hinduismo  
-hindu raja - rajá  
-Hindu riu - Indo  
 hisabu loge - cuenta  
 hisabu logi - matemática  
 hisabu logi ja - matemático  
@@ -1791,7 +1789,7 @@ kesha hin - pelado (desvellado)
 kesha sabun - champú  
 ketel - hervidor (tetera)  
 ki - que  
-kiau - puente  
+kio - puente  
 kilogram - kilograma  
 kilomitre - kilometre  
 kimi - sustancia  
@@ -1974,7 +1972,7 @@ lanse - tirar (lanzar, echar, arrojar, aventar)
 lanse grafi - proyección  
 lanse grafi - proyectar  
 lanse she - proyectil (misil)  
-lantan yum - lantano  
+lantan - lantano  
 larva - larva  
 lashe - dejar  
 lashe she - vestigio (sobrante, residuo)  
@@ -2036,12 +2034,12 @@ lima gona - pentágono
 limfa - linfa  
 limite - límite (frontera, linde)  
 limon - limón  
-limon luka di - verde limón  
 limon oranje - cítrico  
+limon verde di - verde limón  
 lin - linea (hilo, cordel, raya)  
 lin parche - nueva línea  
 lin so - hebra (fibra)  
-linke - juntura (conexión, enlace)  
+linke - conexión (relación, asociación, juntura, enlace)  
 linse - lince  
 lipa - estar de pie  
 lipa bano - estante (repisa)  
@@ -2083,10 +2081,8 @@ lotra - nutria
 lou - chorrear  
 lou sang - sangrar  
 luka - seis (6)  
-luka - verde  
 luka fase - hexaedro (cubo)  
 luka gona - hexágono  
-luka melon - melón verde  
 Luksemburge - Luxemburgo  
 lulu - perla  
 lun - discusión (debate, discurso)  
@@ -2235,7 +2231,7 @@ memo - memoria
 memo bina - monumento  
 memo note - memorándum (nota)  
 men - fideo (tallarín)  
-mendelevi yum - mendelevio  
+mendelef yum - mendelevio  
 meninge - meninge  
 meninge flame - meningitis  
 mentor - consejero (asesor)  
@@ -2335,12 +2331,11 @@ Moldova - Moldova
 mole - mol  
 molekul - molécula  
 moli - jazmín  
-moliden yum - molibdeno  
+moliden - molibdeno  
 moluske - molusco  
 Monako - Mónaco  
 Mongol - Mongolia  
 mongol di - mongol  
-monoster - monstro  
 moral - moralidad (ética)  
 moral di - moral (ético)  
 moral logi - ética (filosofía moral)  
@@ -2350,6 +2345,7 @@ mos di - musgoso
 mosim - estación (temporada)  
 moskite - mosquito  
 moskva yum - moscovio  
+mostre - monstro  
 moto - motor  
 moto gar - automóvil (coche)  
 moto sikle - motocicleta  
@@ -2952,7 +2948,7 @@ rota tafun - huracán (tifón)
 rota van gi - trompo  
 Ruanda - Ruanda  
 rubi - rojo  
-rubi - rubí  
+rubi bau sheku - rubí  
 rubi yum - rubidio  
 ruhu - psique  
 ruhu di - mental (psíquico)  
@@ -3553,9 +3549,6 @@ var un - lunes
 var var - semana  
 vari - distintos (diversos)  
 varis - patrimonio (herencia, legado)  
-varka - hoja  
-varka alga - kelp  
-varka late - página  
 vase - oasis  
 vashi - lavar  
 vashi urso - mapache  
@@ -3573,6 +3566,8 @@ ventur ja - aventurero
 Venus - Venus  
 ver - verdadero  
 veranda - balcón (terraza, veranda)  
+verde - verde  
+verde melon - melón verde  
 verme - verme  
 vermute - vermú  
 verse - afrontar  
@@ -3653,6 +3648,9 @@ yehudi - judío
 yehudi din - judaísmo  
 yei - yupi  
 Yemen - Yemen  
+yepa - hoja  
+yepa alga - kelp  
+yepa late - página  
 Yesa - Jesús  
 Yesa Mesi - Jesucristo  
 yezi - coco  

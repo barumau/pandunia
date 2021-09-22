@@ -657,6 +657,7 @@ granite - granit
 grave - gravire  
 grimas - grimace  
 grupe - groupe  
+guai - bizarre  
 gubu - hippopotame   
 gui papi - pavot d'Orient  
 gul - goule  
@@ -711,9 +712,9 @@ hidro - hydrogène
 hijabu - voile  
 hima - neige  
 hina - henné  
+Hindi desha - Hindustan  
+Hindi rivo - Indus  
 hindi yum - indium  
-Hindu desh - Hindustan  
-Hindu riu - Indus  
 hisabu loge - compte  
 hisabu logi - mathématiques  
 hiyar - concombre  
@@ -877,7 +878,7 @@ kerne - coeur
 kesha brosha - brosse à cheveux  
 kesha hin - glabre  
 ki - que  
-kiau - pont  
+kio - pont  
 kimi - substance  
 kimi logi - chimie  
 kimi so - élément chimique  
@@ -963,7 +964,7 @@ lana - malédiccion
 lanse grafi - projection  
 lanse grafi - projeter (donner)  
 lanse she - projectile  
-lantan yum - lanthane  
+lantan - lanthane  
 lashe - laisser  
 lasun - ail  
 late - côté  
@@ -1025,7 +1026,6 @@ long pipre - poivre long
 long tire - tender  
 lotra - loutre  
 luka - six (6)  
-luka - vert  
 luna - lune  
 luna keke - gâteau de lune  
 lung dou - pois carré  
@@ -1088,7 +1088,7 @@ megi - nuage
 meitner yum - meitnérium  
 meme kesha - laine  
 memo - mémoire  
-mendelevi yum - mendélévium  
+mendelef yum - mendélévium  
 meninge - méninge  
 Merkur - Mercure  
 mes - mois  
@@ -1127,12 +1127,13 @@ mol kan - moulin
 mol sheku - meule  
 mole - mole (unité)  
 moli - jasmin  
-moliden yum - molybdène  
+moliden - molybdène  
 mon - on  
 mos - mousse  
 mos di - moussu  
 mosim - saison  
 moskva yum - moscovium  
+mostre - monstre  
 moto - moteur  
 muka - visage  
 mula - racine  
@@ -1408,7 +1409,7 @@ roste - rôtir
 rota lefte - dans le sens antihoraire  
 rota van gi - toupie  
 rubi - rouge  
-rubi - rubis  
+rubi bau sheku - rubis  
 rubi yum - rubidium  
 ruhu - psyché  
 ruhu logi - psychologie  
@@ -1657,8 +1658,6 @@ var tri - mercredi
 var un - lundi  
 var var - semaine  
 vari - divers (plusieurs)  
-varka alga - varech  
-varka late - page  
 vase - oasis  
 vashi urso - raton laveur  
 vei lin - fil de trame  
@@ -1671,6 +1670,7 @@ ventur ja - aventurier
 Venus - Vénus  
 ver - vrai  
 veranda - balcon  
+verde - vert  
 verme - ver  
 vermute - vermouth  
 verse - verse (face á)  
@@ -1705,6 +1705,9 @@ yatim dom - orphelinat
 yau di - nécessaire  
 yau ta - besoin  
 yeka kanon - Yi King  
+yepa - feuille  
+yepa alga - varech  
+yepa late - page  
 Yesa - Jésus  
 Yesa Mesi - Jésus-Christ  
 yogo - joug  

@@ -476,7 +476,7 @@ breastplate - sina plate
 breath - nafas  
 breed - jene yo zou  
 brick - dobe  
-bridge - kiau  
+bridge - kio  
 bright (brilliant, clear) - ming  
 brighten - fa ming  
 bring - fa lai  
@@ -644,7 +644,6 @@ chat (babble) - blabla
 chat room - blabla kan  
 chauffeur (driver) - shofer ja  
 chaussure - sapatu  
-check (to examine) - cheke  
 checkers (draughts) - dama gem  
 cheer (hurrah, hooray) - ura  
 cheese - chize  
@@ -802,6 +801,7 @@ Congo Kinshasa - Kinshasa Kongo
 congratulate (bless) - barka  
 congratulations! (blessing, benediction) - barka  
 connect (join, link) - fa linke  
+connection, (association, joint, link, relationship) - linke  
 consequence (back, follow-up) - pos  
 consitution - baze kanun  
 consonant - kinar fon  
@@ -1218,7 +1218,7 @@ everybody (everyone) - pan jan
 everything - pan she  
 evident (apparent, obvious) - ekso vide di  
 exa- - eksa  
-examine (inspect, check) - gencha  
+examine (inspect, check) - cheke  
 example (instance of) - misal  
 excavate (dig out) - fa ekso kave  
 exceed (be greater than) - be mas  
@@ -1559,7 +1559,7 @@ graveyard (cemetery, burial ground) - gabur bagi
 Greece - Helen  
 greedy - tam  
 Greek (Hellenic) - Helen  
-green - luka  
+green - verde  
 Greenland - Kalal  
 greens - choi  
 greet - fa salam  
@@ -1669,10 +1669,10 @@ hide (conceal) - fa sir
 high (tall) - gau  
 high technology (hi-tech) - gau tehni  
 Himalayas - Himalaya  
-Hindi (Hindustani) - Hindu basha  
-Hindu - Hindu  
-Hinduism - Hindu din  
-Hindustan - Hindu desh  
+Hindi (Hindustani) - Hindi basha  
+Hindu - Hindi din ja  
+Hinduism - Hindi din  
+Hindustan - Hindi desha  
 hinge (pivot) - sharnir  
 hippopotamus - gubu  
 his or her - ya su  
@@ -1704,7 +1704,7 @@ Honduras - Onduras
 honest (trustworthy, true; surely, verily, amen) - amen  
 honey - medu  
 honeybee - medu fong  
-honeydew (green melon) - luka melon  
+honeydew (green melon) - verde melon  
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onor di  
 hook - huke  
@@ -1789,7 +1789,7 @@ Indian chrysanthemum - nefte guku
 Indian Ocean - Barti Hai  
 indium - hindi yum  
 Indonesia - Indonesi  
-Indus river - Hindu riu  
+Indus river - Hindi rivo  
 infect - fa pati mise  
 infection (infestation, contagion) - pati mise  
 infidel (pagan, heathen, unbeliever) - kafir  
@@ -1871,7 +1871,6 @@ Jerusalem artichoke (sunroot) - masa mula sol hua
 Jesus - Yesa  
 Jesus Christ - Yesa Mesi  
 Jewish - yehudi  
-joint (link) - linke  
 joke - joke  
 joker - joke ja  
 Jordan - Urdun  
@@ -1903,7 +1902,7 @@ Karnataka - Karnada
 Kazakhstan - Kazake  
 keep (preserve, conserve, retain, spare) - hafiza  
 keeper (preserver) - hafiza ja  
-kelp - varka alga  
+kelp - yepa alga  
 kelp forest - alga jangal  
 kelvin - kelvin  
 Kenya - Kenya  
@@ -1958,7 +1957,7 @@ lake - lage
 lama - lama  
 lamp - lampa  
 lantern - hogo sanduku  
-lanthanum - lantan yum  
+lanthanum - lantan  
 Lao (Laotian) - lau di  
 Laos - Lau  
 lapis lazuli - lazur petra  
@@ -1983,7 +1982,7 @@ layer (level, storey, floor, stratum) - cheng
 lead (direct) - lida  
 lead - plumbe  
 leader (director) - lida ja  
-leaf (sheet) - varka  
+leaf (sheet) - yepa  
 league (alliance) - liga  
 leak - lou  
 learn (study) - fa shula  
@@ -2039,7 +2038,7 @@ lilac color - lila rang
 lily - susan  
 lily of the valley - vali susan  
 lime - kalsi mate  
-lime green - limon luka di  
+lime green - limon verde di  
 limestone - kalsi petra  
 limit (boundary) - limite  
 line (thread, string) - lin  
@@ -2235,7 +2234,7 @@ melt - yong
 member (component) - membre  
 memorandum (memo) - memo note  
 memory (recollection) - memo  
-mendelevium - mendelevi yum  
+mendelevium - mendelef yum  
 meningitis - meninge flame  
 meninx (meninges) - meninge  
 mental (psychic) - ruhu di  
@@ -2307,7 +2306,7 @@ mole (burrowing animal) - krote
 mole (unit) - mole  
 molecule - molekul  
 mollusk - moluske  
-molybdenum - moliden yum  
+molybdenum - moliden  
 moment (instant) - sata  
 momentary - sata di  
 Monaco - Monako  
@@ -2321,7 +2320,7 @@ monochrome - un rang di
 monocle - un oko di lense  
 monolog - auto loga  
 monotheism - un deu sim  
-monster - monoster  
+monster - mostre  
 Montenegro - Chernagora  
 month - mes  
 monument (memorial) - memo bina  
@@ -2521,7 +2520,7 @@ ocelot - oselote
 October - mes des  
 octopus - ohtopus  
 ocular - oko di  
-odd (strange, weird) - bizar  
+odd (strange, weird, peculiar, bizarre) - guai  
 Odia (Oriya) - Odisa  
 of (attributive preposition) - da  
 of course! (obviously) - klar!  
@@ -2616,7 +2615,7 @@ pacifist - pase sim ja
 pack (package) - pake  
 pack - fa pake  
 pact (contract, covenant, alliance) - kon trati  
-page (side of a leaf of a book) - varka late  
+page (side of a leaf of a book) - yepa late  
 pain (suffering) - pasi  
 painful - pasi di  
 paint (cover in paint) - fa pente  
@@ -2995,7 +2994,7 @@ rainy -
 rainy season (monsoon) - shava mosim  
 raise (lift) - fa gau  
 raisin - gan putau  
-rajah - hindu raja  
+rajah - hindi raja  
 Ramadan - ramazan  
 ramp (incline, slope) - rampe  
 random - zar di  
@@ -3027,7 +3026,6 @@ register (record, log) - loge
 reign (rule as an emperor) - imperi  
 reinforce (replenish) - fa mas lika  
 reinforcements - mas gun  
-relationship (association, connection) - guanshe  
 relic - chen zaman she  
 religion (worship) - din  
 religious - din di  
@@ -3136,7 +3134,7 @@ royal - raja di
 rub (scrape, scrub) - frike  
 rubber - gomu  
 rubidium - rubi yum  
-ruby - rubi  
+ruby - rubi bau sheku  
 rude (offensive) - insulte di  
 ruin (destroy, devastate, demolish) - harabu  
 rule (be in charge) - fa sultan  

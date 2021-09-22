@@ -215,6 +215,7 @@ chakra - 轮子
 chamacha - 匙子  
 chante grupe - 合唱团  
 chati - 屋顶 (房顶)  
+cheke - 检查  
 chen - 以前  
 chen den - 昨日  
 chen zaman di - 古老 (以前)  
@@ -446,7 +447,6 @@ gati - 硬
 gati mate - 固体  
 gau tehni - 高科技 (高技术)  
 gazo medan - 草地  
-gencha - 检查  
 geo forme - 地势  
 geo grafi - 地理  
 geo metre - 几何学  
@@ -480,6 +480,7 @@ grafi kata - 漫画
 granite - 花岗石  
 grave - 砾石  
 grimas - 鬼脸  
+guai - 奇怪  
 Guangjou - 广州  
 gubu - 河马  
 gui papi - 鬼罂粟 (東方罌粟)  
@@ -531,10 +532,10 @@ Hese - 黑森
 hidrargente - 汞  
 hidro - 氢  
 hijabu - 面纱  
+Hindi desha - 印度斯坦  
+hindi raja - 拉贾  
+Hindi rivo - 印度河  
 hindi yum - 铟  
-Hindu desh - 印度斯坦  
-hindu raja - 拉贾  
-Hindu riu - 印度河  
 hisabu loge - 账户  
 hisabu logi - 数学  
 hiyar - 黄瓜  
@@ -675,7 +676,7 @@ Keme - 古埃及
 kerne - 核心  
 kesha brosha - 发刷  
 kesha hin - 无毛  
-kiau - 桥  
+kio - 桥  
 kimi - 物质  
 kimi logi - 化学  
 kimi so - 元素  
@@ -753,7 +754,7 @@ lana - 诅咒
 lanse grafi - 投影  
 lanse grafi - 投射  
 lanse she - 投掷物  
-lantan yum - 镧  
+lantan - 镧  
 lashe - 落 (留下)  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
@@ -782,7 +783,7 @@ limon - 柠檬
 limon oranje - 柑橘  
 lin - 线  
 lin so - 纤维  
-linke - 联系  
+linke - 联系 (关系)  
 linse - 猞猁 (山貓)  
 lipa bano - 架子 (搁板)  
 lipa baze - 架子  
@@ -807,7 +808,6 @@ long tire - 拉
 lotra - 獭  
 lou - 漏  
 luka - 六 (6)  
-luka - 绿色  
 lun - 论  
 luna keke - 月饼  
 lung - 龙  
@@ -866,7 +866,7 @@ mega - 百万 (兆)
 megi - 云  
 melon - 厚皮甜瓜 (蜜瓜)  
 memo - 记忆 (记性)  
-mendelevi yum - 钔  
+mendelef yum - 钔  
 meninge - 脑脊膜  
 meranti - 娑羅屬  
 metal bede - 铁砧  
@@ -901,9 +901,10 @@ mole - 摩尔 (单位)
 molekul - 分子  
 moli - 茉莉  
 moli hua chai - 茉莉花茶  
-moliden yum - 钼  
+moliden - 钼  
 mos - 苔藓  
 mosim - 季  
+mostre - 妖怪 (怪物)  
 moto - 马达 (发动机)  
 mula - 根  
 mum chape - 封印  
@@ -1123,7 +1124,7 @@ rota lefte - 反时针方向的
 rota tafun - 飓风 (台风)  
 rota van gi - 陀螺  
 rubi - 红  
-rubi - 红宝石  
+rubi bau sheku - 红宝石  
 rubi yum - 铷  
 ruhu mishe di - 困惑 (混乱)  
 rus yum - 钌  
@@ -1367,6 +1368,7 @@ venjou oranje - 温州蜜柑
 ventur - 冒险  
 ventur ja - 冒险者  
 veranda - 阳台  
+verde - 绿色  
 veze di - 重型的  
 vide - 看  
 vidou - 寡妇  
@@ -1395,6 +1397,7 @@ yatim dom - 孤儿院
 yau di - 必要的  
 ye - 他，她，它  
 yeka kanon - 易经 (周易)  
+yepa - 叶  
 Yesa - 耶稣  
 Yesa Mesi - 耶稣基督  
 yoga - 瑜伽功  

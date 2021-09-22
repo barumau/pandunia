@@ -426,7 +426,6 @@ bir kan - baari (kapakka)
 Bisau Ginia - Guinea-Bissau  
 biskute - keksi (pikkuleipä)  
 bismute - vismutti  
-bizar - outo (kummallinen)  
 biznes - liiketoiminta (bisnes)  
 biznes ja - liikemies  
 blabla - jutella (höpistä)  
@@ -533,7 +532,7 @@ chapati - chapati
 chape - painos (leima)  
 charme - vetovoima (šarmi)  
 chati - katto (katos)  
-cheke - tarkistaa (tsekata)  
+cheke - tarkistaa (tsekata, tutkia)  
 chen - edellinen  
 chen - ennen (aikaisemmin, aiemmin)  
 chen den - eilen  
@@ -1373,7 +1372,6 @@ gazo topo - ruohotasanko
 gei - homo (homoseksuaali)  
 gem - peli  
 gem ja - pelaaja  
-gencha - tutkia (tarkastaa)  
 Geo - Maa (Tellus)  
 geo - maa (maaperä)  
 geo dou - maapähkinä  
@@ -1456,9 +1454,9 @@ grosta - paksuus
 grupe - ryhmä  
 gua - luola  
 Guadelupe - Guadeloupe  
+guai - outo (kummallinen)  
 Guam - Guam  
 Guangjou - Guangzhou (Kanton)  
-guanshe - suhde (yhteys)  
 Guatemala - Guatemala  
 gubu - virtahepo  
 gui - peikko  
@@ -1573,13 +1571,13 @@ Himalaya - Himalaja
 hin - puuttua (ilman, vailla)  
 hin di - ilman oleva (-ton)  
 hina - hennapensas  
+Hindi basha - hindin kieli  
+Hindi desha - Hindustan  
+Hindi din - hindulaisuus (hinduismi)  
+Hindi din ja - hindu  
+hindi raja - radža  
+Hindi rivo - Indusjoki  
 hindi yum - indium  
-Hindu - hindu  
-Hindu basha - hindin kieli  
-Hindu desh - Hindustan  
-Hindu din - hindulaisuus (hinduismi)  
-hindu raja - radža  
-Hindu riu - Indusjoki  
 Hiperion - Hyperion  
 hisabu - lasku (laskelma)  
 hisabu loge - tili  
@@ -1927,7 +1925,7 @@ kesha hin - karvaton
 kesha sabun - šampoo  
 ketel - kattila  
 ki - että  
-kiau - silta  
+kio - silta  
 kilogram - kilogramma  
 kilomitre - kilometri  
 kimi - aine (aines, materia)  
@@ -2105,7 +2103,7 @@ Lanka - Sri Lanka
 lanse - heittää (paiskata)  
 lanse grafi - projektio (diakuva)  
 lanse grafi - heijastaa kuvia (projisoida)  
-lantan yum - lantaani  
+lantan - lantaani  
 larva - toukka  
 lashe - jättää (hylätä)  
 lashe she - jäte (hylkytavara)  
@@ -2164,7 +2162,7 @@ limon - sitruuna
 lin - linja (viiva, lanka, liina, naru, köysi)  
 lin parche - rivinvaihto  
 lin so - säie (kuitu)  
-linke - yhdistys (sidos)  
+linke - yhteys (suhde, side)  
 linse - ilves  
 lipa - seistä (seisoa)  
 lipa di - pysty (seisova)  
@@ -2204,7 +2202,6 @@ lote - erä (satsi)
 lou - vuotaa  
 lou sang - vuotaa verta  
 luka - kuusi (6)  
-luka - vihreä  
 luka fase - kuutio (kuusitahokas)  
 luka gona - kuusikulmio  
 Luksemburge - Luxemburg  
@@ -2346,7 +2343,7 @@ memo - muisti
 memo note - muistio (muistiinmerkintä)  
 memo tehni - muistitekniikka  
 men - nuudeli  
-mendelevi yum - mendelevium  
+mendelef yum - mendelevium  
 meninge - aivokalvo  
 meninge flame - aivokalvontulehdus  
 mentor - neuvontantaja (mentori)  
@@ -2434,12 +2431,11 @@ mol sheku - myllynkivi
 Moldova - Moldova  
 moli - jasmiini  
 moli hua chai - jasmiinitee  
-moliden yum - molybdeeni  
+moliden - molybdeeni  
 moluske - nilviäinen  
 Monako - Monaco  
 Mongol - Mongolia  
 mongol di - mongoli  
-monoster - hirviö  
 moral - moraali  
 moral di - moraalinen  
 moral logi - etiikka (moraalioppi)  
@@ -2449,6 +2445,7 @@ mosim - vuodenaika
 moskite - hyttynen (sääski)  
 Moskva - Moskova  
 moskva yum - moscovium  
+mostre - hirviö  
 moto - moottori  
 moto gar - auto (automobiili)  
 moto sikle - moottoripyörä  
@@ -3008,7 +3005,7 @@ rota tafun - pyörremyrsky (hurrikaani, taifuuni, tornado)
 rota van gi - hyrrä  
 Ruanda - Ruanda  
 rubi - punainen  
-rubi - rubiini  
+rubi bau sheku - rubiini  
 rubi yum - rubidium  
 ruhu - henki (sielu, mieli, psyyke)  
 ruhu di - henkinen (psyykkinen)  
@@ -3585,8 +3582,6 @@ var un - maanantai
 var var - viikko  
 vari - monenlainen  
 varis - perintö  
-varka - lehti (arkki, levy)  
-varka late - sivu (kirjassa)  
 vase - keidas  
 vashi - pestä  
 vashi urso - pesukarhu  
@@ -3610,6 +3605,7 @@ ventur ja - seikkailija
 Venus - Venus  
 ver - tosi (aito)  
 veranda - kuisti (terassi, veranta, parveke)  
+verde - vihreä  
 verme - mato  
 vermute - vermutti  
 verse - kohti (päin)  
@@ -3697,6 +3693,8 @@ yei - jee! (hurraa!)
 yeka - vaihtaa (tehdä vaihtokauppa)  
 yeka kanon - Muutosten kirja (I Ching)  
 Yemen - Jemen  
+yepa - lehti (arkki, levy)  
+yepa late - sivu (kirjassa)  
 Yesa - Jeesus  
 Yesa Mesi - Jeesus Kristus  
 yezi - kookos  

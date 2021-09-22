@@ -482,6 +482,7 @@ grafi chuli - 画像処理
 grafi kata - 漫画  
 granite - 花崗岩  
 grave - 砂利  
+guai - 変  
 gubu - 河馬  
 gui - 鬼  
 gui papi - オニゲシ  
@@ -527,9 +528,9 @@ Hese - ヘッセン
 hese yum - ハッシウム  
 hidrargente - 水銀  
 hidro - 水素  
+hindi raja - ラージャー  
+Hindi rivo - インダス川  
 hindi yum - インジウム  
-hindu raja - ラージャー  
-Hindu riu - インダス川  
 hisabu loge - 口座  
 hisabu logi - 数学  
 hiyar - キュウリ  
@@ -678,6 +679,7 @@ Keme - 古代エジプト
 kerne - 核  
 kesha - 毛  
 kesha hin - 無毛  
+kio - 橋 (橋梁)  
 kilo - 千 (１０００)  
 kimi - 物質  
 kimi logi - 化学  
@@ -758,7 +760,7 @@ lana - 呪い (たたり)
 lanse grafi - 投影  
 lanse grafi - 映す (投影する)  
 lanse she - 飛翔体 (矢玉)  
-lantan yum - ランタン  
+lantan - ランタン  
 lashe - 残す  
 lasun - 大蒜  
 late - 側 (脇)  
@@ -812,8 +814,6 @@ long tire - 伸びる (張る)
 lotra - 獺  
 lou - 漏る  
 luka - 六 (6)  
-luka - 緑 (緑色)  
-luka melon - ハネデューメロン  
 luna keke - 月餅  
 lung - 竜  
 lung dou - 四角豆  
@@ -871,7 +871,7 @@ melon - マスクメロン
 memo - 記憶  
 memo bina - 追悼塔 (碑)  
 men - ヌードル  
-mendelevi yum - メンデレビウム  
+mendelef yum - メンデレビウム  
 mes - 月間  
 mes bati - ８月  
 mes cheti - ７月  
@@ -916,11 +916,12 @@ mole - モル
 molekul - 分子  
 moli - 茉莉  
 moli hua chai - 茉莉花茶  
-moliden yum - モリブデン  
+moliden - モリブデン  
 mos - 苔  
 mos di - 苔状  
 mosim - 季節  
 moskva yum - モスコビウム  
+mostre - 怪物  (モンスター)  
 moto - モーター (エンジン, 機関)  
 moto sikle - オートバイ (モーターサイクル)  
 mula - 根  
@@ -1137,7 +1138,7 @@ romanse di - ロマンチック
 rota lefte - 左回り (反時計回り)  
 rota van gi - 独楽  
 rubi - 赤い  
-rubi - ルビー  
+rubi bau sheku - ルビー  
 rubi yum - ルビジウム  
 ruhu mishe - 惑わす  
 ruhu mishe di - まごまご  
@@ -1361,8 +1362,6 @@ var nelu - 木曜日
 var tri - 水曜日  
 var un - 月曜日  
 vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
-varka alga - コンブ  
-varka late - ページ (面)  
 vase - オアシス  
 vashi urso - 狸 (ラクーン, 洗い熊)  
 vei darje - 緯度  
@@ -1371,6 +1370,8 @@ vende - 売る
 vende shope - 交易 (売買)  
 venjou oranje - ウンシュウミカン  
 veranda - ベランダ (バルコニー, 縁側)  
+verde - 緑 (緑色)  
+verde melon - ハネデューメロン  
 veste gorila - ニシゴリラ  
 vide ja - 見物人  
 vide punte - 遠近法 (見通し, 観点)  
@@ -1401,6 +1402,9 @@ yau - 要る
 yau di - 必要  
 yau ta - 必要  
 yeka kanon - 易経  
+yepa - 葉  
+yepa alga - コンブ  
+yepa late - ページ (面)  
 Yesa Mesi - イエス・キリスト  
 yo - 何分の  
 yogo - 軛  

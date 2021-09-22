@@ -168,6 +168,7 @@ biología - bio logi
 bioma - bio sistem  
 biscoito - biskute  
 bismuto - bismute  
+bizarro - guai  
 bola - bol  
 bolo lunar - luna keke  
 bom - bon  
@@ -571,6 +572,7 @@ floresta de algas - alga jangal
 flúor - flur  
 fogo - hogo  
 fogos de artifício - hogo tehni  
+folha - yepa  
 fome - yam yau  
 forte - burge  
 força - lika  
@@ -682,7 +684,7 @@ impressão digital - angul marke
 incluindo - in klus  
 incluir - fa in klus  
 inclusivo - in klus di  
-Indo - Hindu riu  
+Indo - Hindi rivo  
 indígena (índio) - asal Amerka jan  
 infectar (contagiar) - fa pati mise  
 infecção (contágio) - pati mise  
@@ -728,7 +730,7 @@ justo - adil
 Júpiter - Jupiter  
 ####K - K  
 Kama Sutra - kama kanon  
-kelp - varka alga  
+kelp - yepa alga  
 krípton - kriton  
 ####L - L  
 lado - late  
@@ -738,7 +740,7 @@ lagarto - saur
 lago - lage  
 lama (lodo) - fan  
 lama - lama  
-lantâno - lantan yum  
+lantâno - lantan  
 lançador de foguetes - rokete lanse gi  
 lar (casa) - dom  
 laranja - oranje  
@@ -851,7 +853,7 @@ meloa (cantalupo) - kantalupo melon
 melão - melon  
 melão coreano - aroma melon  
 memória - memo  
-mendelévio - mendelevi yum  
+mendelévio - mendelef yum  
 meninge - meninge  
 menosprezar (subestimar) - fa min rai  
 mensagem - anjil  
@@ -883,9 +885,10 @@ molestar (perturber) - fa turbe
 molhado - shipi  
 molhar - fa shipi  
 molho de soja - soi sos  
-molibdénio - moliden yum  
+molibdénio - moliden  
 momento (instante) - sata  
 momentâneo - sata di  
+monstro - mostre  
 monção - shava mosim  
 monóculo - un oko di lense  
 monólogo - auto loga  
@@ -1086,7 +1089,7 @@ polónio - polska yum
 pomar - frute bagi  
 ponta (pico, bico) - pike  
 ponta do dedo - angul pike  
-ponte - kiau  
+ponte - kio  
 por exemplo - do misal  
 por muito tempo - long dura  
 porcelana - chini  
@@ -1135,7 +1138,7 @@ punição (castigo) - fatu
 purpúreo (roxo) - violeta blu  
 purê de maçã - aple sos  
 pá - bele  
-página - varka late  
+página - yepa late  
 pátria - dom desha  
 pântano - fan topo  
 pão - pang  
@@ -1169,7 +1172,7 @@ química - kimi logi
 ####R - R  
 rachadura - krake  
 radio - radio  
-rajá - hindu raja  
+rajá - hindi raja  
 raposa - huli  
 raramente - nadir mar  
 raro - nadir  
@@ -1218,7 +1221,7 @@ romance - long kata
 rosa - rode  
 roupa (vestidura) - fuku  
 rouxinol - bulbul  
-rubi - rubi  
+rubi - rubi bau sheku  
 rubídio - rubi yum  
 rutherfórdio - ruterfor yum  
 ruténio - rus yum  
@@ -1424,7 +1427,7 @@ vender - vende
 ver - vide  
 verbo - karma loga  
 verdadeiro - ver  
-verde - luka  
+verde - verde  
 verdura (hortaliça, legume) - yam fito  
 verdura - choi  
 verme - verme  

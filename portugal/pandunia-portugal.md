@@ -500,6 +500,7 @@ granite - granito
 grave - cascalho  
 grimas - careta (esgar)  
 grupe - grupo  
+guai - bizarro  
 gubu - hipopótamo  
 gun - exército  
 gun jan - soldado  
@@ -548,9 +549,9 @@ hijabu - véu
 hima - neve  
 hin - sem  
 hina - hena  
+hindi raja - rajá  
+Hindi rivo - Indo  
 hindi yum - índio  
-hindu raja - rajá  
-Hindu riu - Indo  
 hisabu loge - conta  
 hisabu logi - matemática  
 hiyar - pepino  
@@ -701,7 +702,7 @@ kerne - núcleo (cerne)
 kesha brosha - escova de cabelo  
 kesha hin - despelado  
 ki - que  
-kiau - ponte  
+kio - ponte  
 kimi - substância  
 kimi logi - química  
 kimi so - elemento químico  
@@ -782,7 +783,7 @@ lampa - lâmpada (luminária)
 lana - maldição  
 lanse grafi - projeção  
 lanse she - projétil  
-lantan yum - lantâno  
+lantan - lantâno  
 lashe - deixar  
 lasun - alho  
 late - lado  
@@ -844,7 +845,6 @@ long tire - estirar
 lotra - lontra  
 lou - vazar  
 luka - seis (6)  
-luka - verde  
 luna - lua  
 luna keke - bolo lunar  
 luta ja - ladrão  
@@ -907,7 +907,7 @@ megi - nuvem
 meitner yum - meitnério  
 melon - melão  
 memo - memória  
-mendelevi yum - mendelévio  
+mendelef yum - mendelévio  
 meninge - meninge  
 meranti - meranti  
 Merkur - Mercúrio  
@@ -944,9 +944,10 @@ mol kan - moenda (moinho)
 mol sheku - mó  
 mole - mol  
 moli - jasmim  
-moliden yum - molibdénio  
+moliden - molibdénio  
 mosim - estação (sazão)  
 moskva yum - moscovio  
+mostre - monstro  
 moto - motor  
 mula - raíz  
 mur - muro (muralha)  
@@ -1187,7 +1188,7 @@ rokete lanse gi - lançador de foguetes
 Roma - Roma  
 roma kamil - camomila-romana  
 rubi - vermelho  
-rubi - rubi  
+rubi bau sheku - rubi  
 rubi yum - rubídio  
 ruhu mishe di - perplexo (confuso)  
 rus yum - ruténio  
@@ -1412,8 +1413,6 @@ var nelu - quinta-feira
 var tri - quarta-feira  
 var un - segunda-feira  
 vari - vários  
-varka alga - kelp  
-varka late - página  
 vase - oásis  
 vashi urso - guaxinim (rato-lavadeiro)  
 vende - vender  
@@ -1422,6 +1421,7 @@ ventur ja - aventureiro
 Venus - Vénus  
 ver - verdadeiro  
 veranda - sacada (varanda)  
+verde - verde  
 verme - verme  
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  
@@ -1452,6 +1452,9 @@ yasen - freixo
 yatim dom - orfanato  
 yau di - necessário  
 yau ta - necessidade  
+yepa - folha  
+yepa alga - kelp  
+yepa late - página  
 Yesa Mesi - Jesus Cristo  
 yogo - jugo  
 yogur - iogurte  

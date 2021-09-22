@@ -226,7 +226,6 @@ bir - biero
 bir kan - drinkejo  
 biskute - biskvito (kuketo)  
 bismute - bismuto  
-bizar - stranga  
 biznes - negoco  
 biznes ja - komercisto  
 blabla - babili  
@@ -729,7 +728,7 @@ grimas - grimaco
 grom - tondro  
 grupe - grupo  
 gua - kaverno  
-guanshe - rilato  
+guai - stranga  
 Guatemala - Gvatemalo  
 gubu - hipopotamo  
 gui - ogro (trolo)  
@@ -805,10 +804,10 @@ hima rose - frosto
 Himalaya - Himalajo  
 hin - sen (manki)  
 hin di - ne havanta (sen~a)  
+Hindi din - hinduismo  
+Hindi din ja - hinduo  
+Hindi rivo - Induso  
 hindi yum - indio  
-Hindu - hinduo  
-Hindu din - hinduismo  
-Hindu riu - Induso  
 hisabu - kalkulo  
 hisabu loge - konto  
 hisabu logi - matematiko  
@@ -998,7 +997,7 @@ kesha brosha - saç fırçası
 kesha hin - senhara  
 kesha sabun - ŝampuo  
 ki - ke  
-kiau - ponto  
+kio - ponto  
 kilomitre - kilometro  
 kimi logi - ĥemio (kemio)  
 kimi so - kemia elemento  
@@ -1114,6 +1113,7 @@ lima - kvin (5)
 limon - citrono  
 lin - lineo (ŝnuro)  
 lin so - fibro  
+linke - rilato  
 linse - linko  
 lis - glata  
 lisan - lango  
@@ -1140,7 +1140,6 @@ long - longa
 long kata - romano  
 lou - liki  
 lou sang - sangi  
-luka - verda  
 lulu - perlo  
 luna - luno  
 luta - rabi  
@@ -1247,14 +1246,14 @@ moka kane - paliso
 moka mate - ligno  
 moli - jasmeno  
 moli hua chai - jasmenteo  
-moliden yum - molibdeno  
+moliden - molibdeno  
 moluske - molusko  
 mon - oni  
 Mongol - Mongolio  
 mongol di - mongola  
-monoster - monstro  
 mosim - sezono  
 moskva yum - moskovio  
+mostre - monstro  
 moto - motoro  
 move - movo  
 muka - vizaĝo  
@@ -1534,7 +1533,7 @@ rose - roso
 rota lefte - maldekstrume  
 rota tafun - uragano (tajfuno)  
 rubi - ruĝa  
-rubi - rubeno  
+rubi bau sheku - rubeno  
 rubi yum - rubidio  
 ruhu - animo (psiko)  
 ruhu logi - psikologio  
@@ -1839,7 +1838,6 @@ var nelu - ĵaŭdo
 var tri - merredo  
 var un - luno  
 var var - semajno  
-varka late - paĝo  
 vase - oazo  
 vashi - lavi  
 vate - vato  
@@ -1847,6 +1845,7 @@ ventur - aventuro
 ventur ja - aventuristo  
 ver - vera  
 veranda - verando (balkono)  
+verde - verda  
 vermute - vermuto  
 version - versio (toisinto)  
 veze - pezo  
@@ -1887,6 +1886,8 @@ yau ta - bezono
 ye - li aŭ ŝi aŭ ĝi  
 yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 Yemen - Jemeno  
+yepa - folio  
+yepa late - paĝo  
 Yesa - Jesuo  
 Yesa Mesi - Jesuo Kristo  
 yezi - kokoso  

@@ -646,12 +646,12 @@ hiljainen - shush di
 hiljentää - fa shush  
 Himalaja - Himalaya  
 himo (seksuaalinen halu) - kama  
-hindin kieli - Hindu basha  
-hindu - Hindu  
-hindulaisuus (hinduismi) - Hindu din  
-Hindustan - Hindu desh  
+hindin kieli - Hindi basha  
+hindu - Hindi din ja  
+hindulaisuus (hinduismi) - Hindi din  
+Hindustan - Hindi desha  
 hinta (maksu) - koste  
-hirviö - monoster  
+hirviö - mostre  
 historia (aikakirjat) - histori  
 historia (oppiaine) - histori logi  
 historioitsija - histori ja  
@@ -795,7 +795,7 @@ imperialismi - imperi sim
 imperialisti - imperi sim ja  
 indium - hindi yum  
 Indonesia - Indonesi  
-Indusjoki - Hindu riu  
+Indusjoki - Hindi rivo  
 infektio (tartunta) - pati mise  
 inhimillinen - insan di  
 inhota - an ai  
@@ -1505,7 +1505,7 @@ lammas - meme
 lamppu - lampa  
 lannoite - darte bon ja  
 lannoittaa - fa darte bon  
-lantaani - lantan yum  
+lantaani - lantan  
 Laos - Lau  
 laoslainen - lau di  
 lapio - bele  
@@ -1540,7 +1540,7 @@ lautapeli - bano gem
 lava - tai  
 lawrencium - laurence yum  
 lehmän liha - mumu nama  
-lehti (arkki, levy) - varka  
+lehti (arkki, levy) - yepa  
 lehti (sanomalehti) - gazeta  
 lehtisalaatti - letus  
 leijona - singa  
@@ -1828,7 +1828,7 @@ mekko (tunika) - tunika
 Meksiko - Mehiko  
 melodia (sävelmä) - melodi  
 melodinen (sointuisa) - melodi  
-mendelevium - mendelevi yum  
+mendelevium - mendelef yum  
 menneisyys - chen zaman  
 mennyt (poissa) - kite  
 mennä - be kite  
@@ -1895,7 +1895,7 @@ miten? - ke riti
 mitta (koko, määrä) - metre  
 Moldova - Moldova  
 molemminpuolinen (keskinäinen) - se kon su  
-molybdeeni - moliden yum  
+molybdeeni - moliden  
 Monaco - Monako  
 monarkki (kuningas, kuningatar) - raja  
 monenlainen - vari  
@@ -2204,7 +2204,7 @@ otella - fa meche
 ottaa esiin (paljastaa) - ekso poze  
 ottaa kiinni (napata, kaapata) - kape  
 ottelu (matsi) - meche  
-outo (kummallinen) - bizar  
+outo (kummallinen) - guai  
 ovi (portti, veräjä) - mun  
 ####P - P  
 paahtaa (paistaa) - roste  
@@ -2583,7 +2583,7 @@ radiolähetin - radi miser
 radiovastaanotin - radi geter  
 radium - radi yum  
 radon - radon  
-radža - hindu raja  
+radža - hindi raja  
 raha - pesa  
 rahka - panir  
 raippa - uma bichi  
@@ -2674,7 +2674,7 @@ rotu - rasa
 rotujen välinen - rasa medi  
 Ruanda - Ruanda  
 rubidium - rubi yum  
-rubiini - rubi  
+rubiini - rubi bau sheku  
 ruiskaunokki - blu sentaure  
 ruiske (injektio) - jusha  
 ruiskuttaa - jusha  
@@ -2866,7 +2866,7 @@ silmä - oko
 silmä- - oko di  
 silmäillä (katsoa, tarkkailla) - fa oko  
 silmäripsi - oko kesha  
-silta - kiau  
+silta - kio  
 simpanssi - chimpanzi  
 sinetti - mum chape  
 Singapore - Singapur  
@@ -2896,7 +2896,7 @@ sitoa - bande
 sitruuna - limon  
 sivilisaatio - sivil ta  
 sivistynyt - sivil  
-sivu (kirjassa) - varka late  
+sivu (kirjassa) - yepa late  
 sivu (kylki, puoli) - late  
 sivu- - late di  
 Skandinavia - Eskandinavia  
@@ -2960,7 +2960,6 @@ suahili - suahili
 substantiivi (nimisana) - name loga  
 Sudan - Sudan  
 sudenkorento - libele  
-suhde (yhteys) - guanshe  
 suihku - dush  
 sukka - maze  
 suklaa - choklate  
@@ -3129,7 +3128,7 @@ tappaa - fa mata
 tappaja - mata ja  
 tarha (piha) - bagi  
 tarha (puisto) - parke  
-tarkistaa (tsekata) - cheke  
+tarkistaa (tsekata, tutkia) - cheke  
 tarpeeksi (riittävästi) - basa  
 tarpeellinen - yau di  
 tarpeeton - no yau di  
@@ -3336,7 +3335,6 @@ turmella ulkomuoto - fa dus forma
 turska - bakalau  
 turvallinen (varma) - sekur  
 turve - turfa  
-tutkia (tarkastaa) - gencha  
 tutkielma - estude  
 tutkimusmatkailija - logi safar ja  
 tuudittaa - lala  
@@ -3596,7 +3594,7 @@ vihannes - choi
 vihata (inhota) - fa hen  
 vihollinen - an dosti  
 vihollinen - dus jan  
-vihreä - luka  
+vihreä - verde  
 viihdyttää (huvittaa) - fa vanu  
 viikko - var var  
 viikonpäivä - var  
@@ -3718,7 +3716,6 @@ ydinfysiikka - kerne fizika
 yhdeksän - tisa  
 yhdessä - kon  
 Yhdistyneet Arabiemiirikunnat - Unta Arabi Amir Desha (UAA)  
-yhdistys (sidos) - linke  
 yhdistää - fa linke  
 yhdistää - fa un she  
 Yhdysvallat (ns. Amerikka) - Unta Desh Da Amerika (UDA)  
@@ -3730,6 +3727,7 @@ yhteiskunnallinen (sosiaalinen) - sosi di
 yhteisymmärrys - sam rai  
 yhteisö (kokoontuminen, kollektiivi) - jama  
 yhtenäinen - unta di  
+yhteys (suhde, side) - linke  
 ykseys - unta  
 yksi (1) - un  
 yksimerkityksinen - un mana di  

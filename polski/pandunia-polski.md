@@ -378,7 +378,6 @@ bir kan - bar, knajpa
 Bisau Ginia - Guinea Bissau  
 biskute - biszkopt, ciastko  
 bismute - bizmut  
-bizar - dziwny  
 biznes - biznes, interes (aktywność komercyjna)  
 biznes ja - osoba biznesu, biznesman  
 blabla - luźna rozmowa, gadanina  
@@ -471,7 +470,7 @@ chapati - płaski chleb, ćapati
 chape - odcisk, ślad; stempel, pieczęć  
 charme - czar (urok, wdzięk)  
 chati - dach  
-cheke - sprawdzić, sprawdzać, skontrolować  
+cheke - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
 chen - poprzedni  
 chen - wcześniej (uprzednio, poprzednio, przedtem)  
 chen den - wczoraj  
@@ -1181,7 +1180,6 @@ gazo topo - łąka
 gei - gejowski (homoseksualny)  
 gem - gra  
 gem ja - gracz  
-gencha - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
 geo - ziemia, grunt, gleba  
 geo dou - orzech ziemny  
 geo forme - teren  
@@ -1255,9 +1253,9 @@ grosta - grubość
 grupe - grupa  
 gua - jaskinia  
 Guadelupe - Gwadelupa  
+guai - dziwny  
 Guam - Guam  
 Guangjou - Kanton  
-guanshe - związek, powiązanie, połączenie  
 Guatemala - Gwatemala  
 gubu - hipopotam  
 gui - ogr (trol, goblin)  
@@ -1363,9 +1361,9 @@ hima - śnieg
 hima rose - szron  
 Himalaya - Himalaje  
 hin - bez  
+Hindi din - hinduizm  
+Hindi din ja - hinduistyczny  
 hindi yum - ind  
-Hindu - hinduistyczny  
-Hindu din - hinduizm  
 hisabu loge - konto  
 hisabu logi - matematyka  
 hisabu logi ja - matematyk  
@@ -1707,7 +1705,7 @@ kesha bande - opaska do włosów
 kesha sabun - szampon  
 ketel - czajnik  
 ki - że  
-kiau - most  
+kio - most  
 kilogram - kilogram (kg)  
 kilomitre - kilometr  
 kimi di - chemiczny  
@@ -1892,7 +1890,7 @@ lanse - rzucić, rzucać, miotać, cisnąć, ciskać
 lanse grafi - rzut (projekcja)  
 lanse grafi - wyświetlać  
 lanse she - pocisk  
-lantan yum - lantan  
+lantan - lantan  
 larva - larwa, czerw, gąsienica  
 lashe - pozostawiać (pozostawić)  
 lashe she - pozostałość (szczątek)  
@@ -1953,11 +1951,11 @@ limfa - limfa
 limite - limit, granica  
 limite di - skończony (ograniczony)  
 limon - cytryna  
-limon luka di - limonkowy (limonkowo zielony)  
+limon verde di - limonkowy (limonkowo zielony)  
 lin - linia (nić, lina, pas, pręga, smuga, dratwa)  
 lin parche - złamanie lini  
 lin so - włókno  
-linke - połączenie, złącze, styk  
+linke - połączenie (złącze, styk, związek, powiązanie)  
 linse - ryś  
 lipa - stać  
 lipa bano - półka (regał na książki)  
@@ -2001,10 +1999,8 @@ lotra - wydra
 lou - przeciekać, ciec  
 lou sang - krwawić  
 luka - sześć (6)  
-luka - zielony  
 luka fase - sześcian (kostka)  
 luka gona - sześciokąt (sześciobok)  
-luka melon - melon miodowy  
 Luksemburge - Luksemburg  
 lulu - perła  
 lun - dyskusja, debata, dyskurs  
@@ -2243,12 +2239,11 @@ Moldova - Mołdawia
 mole - mol  
 molekul - molekuła (cząsteczka)  
 moli - jaśmin  
-moliden yum - molibden  
+moliden - molibden  
 moluske - mięczak (morski bezkręgowiec)  
 Monako - Monako  
 Mongol - Mongolia  
 mongol di - Mongolski  
-monoster - potwór, monstrum  
 moral - moralność, etyka  
 moral di - moralny  
 moral logi - etyka  
@@ -2259,6 +2254,7 @@ mosim - pora roku
 moskite - komar, moskit  
 Moskva - Moskwa  
 moskva yum - moskovium  
+mostre - potwór, monstrum  
 moto - silnik  
 moto gar - samochód (automobil)  
 moto sikle - motocykl (motor)  
@@ -2827,7 +2823,7 @@ rota tafun - trąba powietrzna (cyklon, tornado, tajfun)
 rota van gi - bąk, bączek  
 Ruanda - Rwanda  
 rubi - czerwony  
-rubi - rubin  
+rubi bau sheku - rubin  
 rubi yum - rubid  
 ruhu - dusza, duch, umysł  
 ruhu di - umysłowy (psychiczny)  
@@ -3403,9 +3399,6 @@ var un - poniedziałek
 var var - tydzień  
 vari - różny (różnorodny)  
 varis - spadek, dziedzictwo, spuścizna, zapis  
-varka - kartka (dokument)  
-varka alga - listownicowiec  
-varka late - strona  
 vase - oaza  
 vashi - prać, umyć, myć  
 vashi urso - szop pracz  
@@ -3426,6 +3419,8 @@ ventur ja - poszukiwacz przygód (awanturnik)
 Venus - Wenus  
 ver - prawdziwy (rzeczywisty, szczery)  
 veranda - weranda, balkon, taras, ganek  
+verde - zielony  
+verde melon - melon miodowy  
 verme - robak  
 vermute - wermut  
 version - wersja (wariacja, edycja, wydanie)  
@@ -3499,6 +3494,9 @@ yehudi - żydowski
 yehudi din - judaizm  
 yei - jej  
 Yemen - Jemen  
+yepa - kartka (dokument)  
+yepa alga - listownicowiec  
+yepa late - strona  
 Yesa - Jezus  
 Yesa Mesi - Jezus Chrystus  
 yezi - kokos  
