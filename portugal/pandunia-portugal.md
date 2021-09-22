@@ -196,6 +196,7 @@ buku - livro
 bulbul - rouxinol  
 bum - explosão  
 burge - forte  
+bus halte - parada de ônibus  
 buta - bota  
 buton - botão  
 ####C - C  
@@ -352,6 +353,7 @@ fa fobi - assustar
 fa forma - modelar  
 fa fuku - vestir  
 fa glu - colar (aderir)  
+fa gong - trabalhar  
 fa hisabu - calcular  
 fa hogo - queimar  
 fa in klus - incluir  
@@ -477,6 +479,7 @@ german yum - germânio
 Germania - Germânia  
 gida - guiar  
 gida ja - guia  
+gingam - quincã (cunquate)  
 gio - ensinar (lecionar)  
 gioka - jade  
 gitar - guitarra  
@@ -487,6 +490,8 @@ glu fan - argila
 glu grafi - adesivo  
 go - esse (aquele)  
 gol - meta (gol)  
+gong - trabalho  
+gong ja - trabalhador  
 gorila - gorila  
 goton - algodão  
 grafi chuli - processamento de imagem  
@@ -499,9 +504,6 @@ gubu - hipopótamo
 gun - exército  
 gun jan - soldado  
 gun raja - generalíssimo  
-gong - trabalho  
-fa gong - trabalhar  
-gong ja - trabalhador  
 guta - joelho  
 guta kaske oste - rótula (patela)  
 ####H - H  
@@ -659,8 +661,8 @@ kancha - vidro
 kandi - bombom (doce)  
 kane - vara (bastão)  
 kane kasa - gaiola (jaula)  
+kane minte - hortelã-verde  
 kangaru - canguru  
-gingam - quincã (cunquate)  
 kano - canoa  
 kantalupo melon - meloa (cantalupo)  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -861,8 +863,8 @@ makan hua - dente-de-leão (taráxaco)
 mal nomi - economia  
 man raja - rei  
 manera - comportamento (conduta)  
-mangu - ocupado (atarefado)  
 mangan - manganésio  
+mangu - ocupado (atarefado)  
 mani din - maniqueísmo  
 manioka - mandioca (aipim)  
 manioka fufu - tapioca  
@@ -936,6 +938,7 @@ mitre - metro
 mode - modo (maneira, jeito)  
 moka - árvore  
 moka bano - tábua (prancha)  
+moka kane - estaca  
 moka tana - tora  
 mol kan - moenda (moinho)  
 mol sheku - mó  
@@ -1272,8 +1275,9 @@ shiti bai ja - perdedor
 Shiva - Xiva  
 shofer ja - condutor (chofer, motorista)  
 shopi - compras  
-shukra - obrigado  
-shukra da - graças a  
+shukur - obrigado  
+shukur ta - gratidão  
+shukur ze - graças a  
 shula - educação  
 shula guru - professor (docente)  
 shula kan - escola (colégio)  
@@ -1440,15 +1444,15 @@ vutu - item
 ####X - X  
 xenon - xénon  
 ####Y - Y  
+ya - sim  
 Yahve - Javé (Jeová)  
 yam fito - verdura (hortaliça, legume)  
 yam yau - fome  
 yasen - freixo  
 yatim dom - orfanato  
 yau di - necessário  
-yauta - necessidade  
-ye - sim  
-Yesu mesi - Jesus Cristo  
+yau ta - necessidade  
+Yesa Mesi - Jesus Cristo  
 yogo - jugo  
 yogur - iogurte  
 yong - derretre  
@@ -1470,8 +1474,6 @@ zoku - ainda
 zoku di - analógico  
 zombi - zumbi  
 zona - zona  
-moka kane - estaca  
-kane minte - hortelã-verde  
 zou - animal (besta, bicho)  
 zou bagi - zoológico  
 zou kata - fábula  
@@ -1484,4 +1486,3 @@ zumarde - esmeralda
  - carregar  
  - chuvoso (pluvioso)  
  - adversário  
-bus halte - parada de ônibus  

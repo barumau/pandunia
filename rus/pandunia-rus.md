@@ -218,6 +218,7 @@ buku - книга
 bulbul - соловей  
 bum - взрыв  
 burge - крепость (форт)  
+bus halte - автобусная остановка  
 buta - ботинок  
 buton - пуговица  
 ####C - C  
@@ -395,6 +396,7 @@ fa fobi - страшить
 fa forma - формировать  
 fa fuku - одевать  
 fa glu - клеиться  
+fa gong - работать  
 fa hisabu - вычислять  
 fa hogo - жечь (палить)  
 fa in klus - включить  
@@ -516,6 +518,7 @@ german yum - германий
 gida buku - путеводитель  
 gida ja - гид  
 ging - параллельный  
+gingam - кумкват (кинкан)  
 gio - учить (преподавать)  
 gioka - нефрит (жад)  
 gitar - гитара  
@@ -527,6 +530,9 @@ glu grafi - наклейка
 go - тот  
 gol - цель  
 gola sheku - булыжник  
+gong - работа  
+gong ja - работник  
+gong kan - завод (фабрика)  
 gorila - горилла  
 goton - хлопок  
 grafi chuli - обработка изображений  
@@ -544,10 +550,6 @@ gulu - глотать
 gun - армия  
 gun jan - солдат  
 gun raja - генералиссимус  
-gong - работа  
-fa gong - работать  
-gong ja - работник  
-gong kan - завод (фабрика)  
 guta - колено  
 guta kaske oste - надколенник  
 ####H - H  
@@ -709,9 +711,9 @@ kancha daka - глазурь
 kandi - конфета  
 kane - кол (штанга)  
 kane kasa - клетка  
+kane minte - мята колоси́стая  
 kangaru - кенгуру  
 kanjar - кинжал  
-gingam - кумкват (кинкан)  
 kano - каноэ  
 kantalupo melon - канталупа  
 Kantalupo va Sabina - Канталупо-ин-Сабина  
@@ -909,8 +911,8 @@ makan hua - одуванчик
 mal nomi - экономика  
 man raja - король  
 manera - поведение (манера)  
-mangu - занятый  
 mangan - марганец  
+mangu - занятый  
 mani din - манихейство  
 manioka - маниока  
 manioka fufu - тапиока  
@@ -983,6 +985,7 @@ Misri - Египет
 mitre - метр  
 moka - дерево  
 moka bano - доска (планка)  
+moka kane - палка  
 moka tana - бревно  
 mol kan - мельница  
 mol sheku - жёрнов  
@@ -1348,7 +1351,8 @@ shiti - потерять (утратить)
 Shiva - Шива  
 shofer ja - шофёр  
 shopi - покупка (шоппинг)  
-shukra - спасибо  
+shukur - спасибо  
+shukur ta - благодарность  
 shula - образование  
 shula guru - учитель  
 shula kan - школа   
@@ -1508,8 +1512,8 @@ vali susan - ландыш
 valu - ценность  
 vampir - вампир (упырь)  
 vampir ohtopus - адский вампир  
-vanu gi - игрушка  
 vanadi yum - ванадий  
+vanu gi - игрушка  
 var cheti - воскресенье  
 var du - вторник  
 var lima - пятница  
@@ -1554,6 +1558,7 @@ vutu - статья (предмет)
 ####X - X  
 xenon - ксенон  
 ####Y - Y  
+ya - да  
 Yahve - Яхве (Иегова)  
 yam fito - овощ  
 yam yau - голод  
@@ -1561,12 +1566,11 @@ yamon su - их
 yasen - ясень  
 yatim dom - детский дом  
 yau di - нужный  
-yauta - нужда  
-ye - да  
+yau ta - нужда  
 yeka kanon - Книга Перемен  
 Yemen - Йемен  
-Yesu - Иисус  
-Yesu mesi - Иисус Христос  
+Yesa - Иисус  
+Yesa Mesi - Иисус Христос  
 yoga - йога  
 yogo - ярмо (иго)  
 yogur - йогурт  
@@ -1595,8 +1599,6 @@ zirkon - циркон
 zirkon yum - цирконий  
 zoku - ещё  
 zona - пояс (зона)  
-moka kane - палка  
-kane minte - мята колоси́стая  
 zou - животное  
 zou bagi - зоопарк  
 zou kata - басня  
@@ -1612,4 +1614,3 @@ zumarde - изумруд
  - дождливый  
  - дожди́ть  
  - противник  
-bus halte - автобусная остановка  

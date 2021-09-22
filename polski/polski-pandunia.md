@@ -557,8 +557,8 @@ dziura - kong
 dziw (cudo) - ajibu  
 dziwny (nieznany) - an sabi di  
 dziwny - bizar  
-dzięki, dzięki ci - shukra  
-dziękować - fa shukra  
+dzięki, dzięki ci - shukur  
+dziękować - fa shukur  
 dziś, dzisiaj - zai den  
 dzwon (dzwonek) - dang gi  
 dzwonić (dźwięczeć, szczękać) - dang  
@@ -977,8 +977,8 @@ Jersey - Jerze
 jesień - pade mosim  
 jesion - yasen  
 jezioro - lage  
-Jezus - Yesu  
-Jezus Chrystus - Yesu mesi  
+Jezus - Yesa  
+Jezus Chrystus - Yesa Mesi  
 jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - ga  
 jod; jodyna - iode  
 jodła - abies  
@@ -1834,7 +1834,7 @@ olej - nefte
 oliwka - zaitun  
 Oman - Oman  
 omszały (mszysty) - mos di  
-on, ona, ono - ya  
+on, ona, ono - ye  
 oni - yamon  
 online (na linii, w sieci) - na lin  
 opaska do włosów - kesha bande  
@@ -2160,7 +2160,7 @@ poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza
 posłaniec (wysłannik) - anjil ja  
 pot - sueda  
 potas - kali yum  
-potrzeba - yauta  
+potrzeba - yau ta  
 potrzebny - yau di  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - fa sam rai  
 potwór, monstrum - monoster  
@@ -2861,7 +2861,7 @@ Tajlandia - Tai Desha
 Tajpej - Taibei  
 tajski - Tai basha  
 Tajwan, Republika Chińska - Taivan  
-tak - ye  
+tak - ya  
 taki sam - sam  
 taksometr - taksi metre gi  
 taktyka, strategia - tatike  
@@ -3104,6 +3104,7 @@ wciąż, nadal; kontynuować, wznawiać, ponawiać - zoku
 wcześniej (uprzednio, poprzednio, przedtem) - chen  
 wczoraj - chen den  
 wdowa - vidou  
+wdzięczność - shukur ta  
 według ruchu wskazówek zegara - rota raite  
 weganin (weganka) - pul fito yam sim ja  
 wegetarianin - fito yam sim ja  

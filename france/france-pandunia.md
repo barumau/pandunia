@@ -226,7 +226,7 @@ bengali - bangla basha
 berceau - lala bede  
 berceause - lala chante  
 berkélium - berkli yum  
-besoin - yauta  
+besoin - yau ta  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukar bete  
 bibliothèque - kitabu kan  
@@ -706,11 +706,12 @@ gouvernement - politi
 grand-mère - chin ma  
 grand-père - chin pa  
 granit - granite  
+gratitude - shukur ta  
 gravire - grave  
 grenouille - krokro  
 grimace - grimas  
 groupe - grupe  
-grâce à - shukra da  
+grâce à - shukur ze  
 grès - arena petra  
 guide - gida ja  
 guide touristique - gida buku  
@@ -829,8 +830,8 @@ jusque (jusqu’à) - hata
 juste - adil  
 justice - adil ta  
 justo (exact, précis) - juste  
-Jésus - Yesu  
-Jésus-Christ - Yesu mesi  
+Jésus - Yesa  
+Jésus-Christ - Yesa Mesi  
 ####K - K  
 kangourou - kangaru  
 karaté - karate  
@@ -966,7 +967,7 @@ Menthe aquatique - sui minta
 menthe poivrée - pipre minta  
 menthe verte - kane minte  
 mer - hai  
-merci - shukra  
+merci - shukur  
 mercredi - var tri  
 mercure - hidrargente  
 Mercure - Merkur  
@@ -1123,7 +1124,7 @@ ou - o
 ouah - va  
 oublier - an memo  
 oubliette (cul de basse-fosse) - geo niche jela  
-oui - ye  
+oui - ya  
 ours - baru  
 oxyde - okside  
 oxygène - oksi  

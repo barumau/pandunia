@@ -200,6 +200,7 @@ buku - 书
 bulbul - 夜莺  
 bum - 爆炸  
 burge - 要塞  
+bus halte - 汽车站  
 buton - 扣子  
 ####C - C  
 ceres yum - 铈  
@@ -343,6 +344,7 @@ fa dosil - 驯养
 fa dus forma - 变丑  
 fa fen gata - 分析  
 fa fobi - 吓唬  
+fa gong - 工作  
 fa hisabu - 计算  
 fa hogo - 燃烧  
 fa in klus - 包括  
@@ -455,6 +457,7 @@ gida - 导游
 gida buku - 指南  
 gida ja - 导游  
 ging lin - 經紗  
+gingam - 金柑  
 gio - 教学  
 gioka - 玉  
 gitar - 吉他  
@@ -466,6 +469,10 @@ glu grafi - 贴纸
 go - 那  
 gol - 目的  
 gola sheku - 鹅卵石  
+gong - 工作  
+gong ja - 工人 (工作者)  
+gong kan - 工厂  
+gong mise - 提交  
 gorila - 大猩猩  
 goton - 棉  
 grafi chuli - 影像处理  
@@ -480,11 +487,6 @@ guku hua - 菊花
 gun - 军队  
 gun jan - 军人  
 gun raja - 大元帅  
-gong - 工作  
-fa gong - 工作  
-gong ja - 工人 (工作者)  
-gong kan - 工厂  
-gong mise - 提交  
 guta - 膝  
 guta kaske oste - 膝盖骨  
 ####H - H  
@@ -638,8 +640,8 @@ kancha - 玻璃
 kancha daka - 釉  
 kandi - 糖果  
 kane kasa - 笼  
+kane minte - 留兰香  
 kangaru - 袋鼠  
-gingam - 金柑  
 kanon - 经典  
 kantalupo melon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
@@ -827,8 +829,8 @@ mal nomi - 经济学
 man raja - 王  
 mana - 意义  
 manera - 方式  
-mangu - 忙  
 mangan - 锰  
+mangu - 忙  
 mani din - 摩尼教  
 manioka - 木薯   
 mantol - 斗篷  
@@ -1195,7 +1197,6 @@ shia - 派系
 shia islam din - 什叶派  
 shifu - 师傅  
 shikaya - 怨言  
-sim - 心  
 shipi - 湿  
 shir - 诗  
 shish - 扦子  
@@ -1206,7 +1207,8 @@ shiti bai - 失败
 Shiva - 湿婆  
 shofer ja - 司机  
 shopi - 购物 (血拼)  
-shukra - 谢谢  
+shukur - 谢谢  
+shukur ta - 谢意  
 shula - 教育  
 shula guru - 教师 (老师)  
 shula ja - 学生  
@@ -1228,6 +1230,7 @@ sili - 系列
 sili tika - 连结  
 silis - 硅  
 silko - 丝绸  
+sim - 心  
 sing - 星  
 sir plan - 阴谋 (密谋)  
 siro - 零 (〇)  
@@ -1343,8 +1346,8 @@ vali - 山谷
 vali susan - 鈴蘭  
 valu - 价值  
 vampir - 吸血鬼  
-vanu - 娱乐  
 vanadi yum - 钒  
+vanu - 娱乐  
 var cheti - 星期日 (禮拜日)  
 var du - 星期二 (禮拜二)  
 var lima - 星期五 (禮拜五)  
@@ -1380,7 +1383,7 @@ vutu - 物体 (物品)
 ####X - X  
 xenon - 氙  
 ####Y - Y  
-ya - 他，她，它  
+ya - 对 (是)  
 ya su - 他的  
 Yahve - 耶和华 (雅威)  
 yam fito - 蔬菜  
@@ -1390,10 +1393,10 @@ yamon su - 他们的
 yasen - 白蜡树  
 yatim dom - 孤儿院  
 yau di - 必要的  
-ye - 对 (是)  
+ye - 他，她，它  
 yeka kanon - 易经 (周易)  
-Yesu - 耶稣  
-Yesu mesi - 耶稣基督  
+Yesa - 耶稣  
+Yesa Mesi - 耶稣基督  
 yoga - 瑜伽功  
 yogo - 轭  
 yogur - 酸奶 (优格)  
@@ -1418,7 +1421,6 @@ zira - 孜然
 zirkon yum - 锆  
 zoku - 还 (依然)  
 zoku di - 指针式的  
-kane minte - 留兰香  
 zou - 动物  
 zou bagi - 动物园  
 zou logi - 动物学  
@@ -1426,4 +1428,3 @@ zuku - 民族
 zumarde - 绿宝石 (祖母绿)  
  - 多雨  
  - 敌手  
-bus halte - 汽车站  

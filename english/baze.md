@@ -9,7 +9,6 @@ This document is a simple guide to the main features of Pandunia.
 |----------|-----|
 | **a**  | a |
 | **b**  | b |
-| **c**  | ts (s) |
 | **ch** | tʃ |
 | **d**  | d |
 | **e**  | e |
@@ -71,9 +70,9 @@ Number, definiteness and gender are indicated by additional words.
 
 | Person | Singular                         | Plural                  |
 |--------|----------------------------------|-------------------------|
-| First  | **mi** (_I, me_)                 | **mimen** (_we, us_)      |
-| Second | **tu** (_you_)                   | **tumen** (_you_)         |
-| Third  | **ya** (_he or she, him or her_) | **yamen** (_they, them_)  |
+| First  | **mi** (_I, me_)                 | **mimon** (_we, us_)      |
+| Second | **tu** (_you_)                   | **tumon** (_you_)         |
+| Third  | **ye** (_he or she, him or her_) | **yemon** (_they, them_)  |
 
 ### Verbs
 
@@ -134,13 +133,13 @@ Adverbs are usually before the word that they modify.
 
 The word **no** denies the word that follows it.
 
-**no mi a ya vol kapa ya.**
+**no mi a ye vol kapa ye.**
 – Not me but he/she wants to take it.  
-**mi no vol kapa ya.**
+**mi no vol kapa ye.**
 – I don't want to take it.  
-**mi vol no kapa ya.**
+**mi vol no kapa ye.**
 – I want _not_ to take it.  
-**mi vol kapa no ya a va.**
+**mi vol kapa no ye a va.**
 – I want to take not this but that.
 
 
@@ -152,7 +151,7 @@ The normal word order is used in questions.
 
 **tu ama ke?**
 – Who do you love?  
-**ke man ye ama tu?**
+**ke man ya ama tu?**
 – Which man loves you?  
 **tu ama mi ke muche?**
 – How much do you love me?

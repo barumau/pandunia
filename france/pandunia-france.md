@@ -306,6 +306,7 @@ buku - livre
 bulbul - rossignol  
 bum - explosion  
 burge - fort  
+bus halte - arrêt de bus  
 buta - botte  
 buton - bouton  
 ####C - C  
@@ -482,6 +483,7 @@ fa fobi - effrayer
 fa forma - former  
 fa fuku - habiller (vêtir)  
 fa glu - coller  
+fa gong - travailler  
 fa hapu - adapter (ajuster)  
 fa hisabu - calculer  
 fa hogo - brûler  
@@ -632,6 +634,7 @@ Germania - Germanie
 gida - guider  
 gida buku - guide touristique  
 gida ja - guide  
+gingam - kumquat  
 gio - enseigner  
 gioka - jade  
 gitar - guitare  
@@ -643,6 +646,9 @@ glu grafi - autocollant
 go - ce...lá  
 gol - but (destination)  
 gola sheku - pavé  
+gong - travail  
+gong ja - travailleur (ouvrier)  
+gong mise - soumettre  
 gorila - gorille  
 goton - coton  
 grafi chuli - traitement d'images  
@@ -657,10 +663,6 @@ gul - goule
 gun - armée  
 gun jan - soldat  
 gun raja - généralissime  
-gong - travail  
-fa gong - travailler  
-gong ja - travailleur (ouvrier)  
-gong mise - soumettre  
 guta - genou  
 guta kaske oste - rotule  
 ####H - H  
@@ -683,6 +685,7 @@ hali - vide
 hali zi - espace  
 halifa - calife  
 halo - allô  
+halte - halte  
 ham di - important  
 hande - main  
 hande shaka - bras  
@@ -832,8 +835,8 @@ kancha - verre
 kandi - bonbon  
 kane - bâton (canne, tige)  
 kane kasa - cage  
+kane minte - menthe verte  
 kangaru - kangourou  
-gingam - kumquat  
 kano - canoë  
 kanon - classique (canon)  
 Kantalupo va Sabina - Cantalupo in Sabina  
@@ -1043,8 +1046,8 @@ mal ja - possédant (propriétaire)
 mal nomi - économie  
 man raja - roi  
 manera - comportement (manière)  
-mangu - occupé  
 mangan - manganèse  
+mangu - occupé  
 mani din - manichéisme  
 manioka - manioc  
 manioka fufu - tapioca  
@@ -1085,7 +1088,6 @@ megi - nuage
 meitner yum - meitnérium  
 meme kesha - laine  
 memo - mémoire  
-mon - on  
 mendelevi yum - mendélévium  
 meninge - méninge  
 Merkur - Mercure  
@@ -1119,12 +1121,14 @@ mode - mode (façon, manière)
 moka - arbre  
 moka bano - planche  
 moka jong parke - arboretum, pépinière  
+moka kane - pieu  
 moka tana - bûche  
 mol kan - moulin  
 mol sheku - meule  
 mole - mole (unité)  
 moli - jasmin  
 moliden yum - molybdène  
+mon - on  
 mos - mousse  
 mos di - moussu  
 mosim - saison  
@@ -1492,8 +1496,9 @@ shiti bai - échec
 shiti bai ja - perdant  
 Shiva - Shiva  
 shopi - shopping  
-shukra - merci  
-shukra da - grâce à  
+shukur - merci  
+shukur ta - gratitude  
+shukur ze - grâce à  
 shula - éducation  
 shula guru - professeur (enseignant)  
 shula ja - étudiant  
@@ -1598,7 +1603,6 @@ tese - argument
 teste - épreuve (test)  
 tikete - billet  
 tim - équipe  
-halte - halte  
 tire yo milke - tirer  
 tire yo pil - écorce  
 tisa - neuf (9)  
@@ -1691,6 +1695,7 @@ vutu - objet (article)
 ####X - X  
 xenon - xénon  
 ####Y - Y  
+ya - oui  
 Yahve - Yahweh (Jéhovah)  
 yam fito - légume  
 yam yau - faim  
@@ -1698,11 +1703,10 @@ yamon su - leur
 yasen - frêne  
 yatim dom - orphelinat  
 yau di - nécessaire  
-yauta - besoin  
-ye - oui  
+yau ta - besoin  
 yeka kanon - Yi King  
-Yesu - Jésus  
-Yesu mesi - Jésus-Christ  
+Yesa - Jésus  
+Yesa Mesi - Jésus-Christ  
 yogo - joug  
 yogur - yaourt (yogourt)  
 yong - melt  
@@ -1730,8 +1734,6 @@ zoku - continuer (poursuivre, encore)
 zoku di - continu (analogique)  
 zombi - zombi  
 zona - zone  
-moka kane - pieu  
-kane minte - menthe verte  
 zou - animal (bête)  
 zou agro shuta - élevage  
 zou bagi - zoo  
@@ -1745,4 +1747,3 @@ zumarde - émeraude
  - surestimer  
  - pluvieux  
  - adversaire (antagoniste, ennemi)  
-bus halte - arrêt de bus  
