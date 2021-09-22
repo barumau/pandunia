@@ -163,7 +163,7 @@ Indicates possibility. It is often used with the agent suffix **ja**.
 Creates aggregate nouns.
 It denotes a group or set of elements.
 
-**nesia jama** archipelago  
+**nesi jama** archipelago  
 **loga jama** vocabulary  
 
 
@@ -175,17 +175,18 @@ A field of expertise, or a set of techniques for using or making something.
 **sapatu shuta** shoemaking  
 
 
-#### jui
+#### sim
 
-Denotes an ideology or a way of thinking or living. It is often used with the agent suffix **ja**.
+Denotes an ideology or a way of thinking or living (an _ism_).
+It is often used with the agent suffix **ja**.
 
 This suffix that denotes a person who tends to behave or think in a
 certain way or to follow a certain ideology or religion.
 
 **deu** god  
-**deu jui** theism (system of belief in a god or gods)
-**deu jui ja** theist (one who believes in existence of a god or gods)  
-**deu jui di** theistic  
+**deu sim** theism (system of belief in a god or gods)
+**deu sim ja** theist (one who believes in existence of a god or gods)  
+**deu sim di** theistic  
 
 
 #### she

@@ -9,7 +9,8 @@ muta_GitHub_dokumensanduke() {
 }
 
 bina_netoloke() {
-    echo bina netoloke do le $1 basha
+    echo
+    echo bina netoloke do la $1 basha
     bina_MkDocs $1
     muta_GitHub_dokumensanduke $1
 }

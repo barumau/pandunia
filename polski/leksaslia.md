@@ -12,7 +12,7 @@
 |**Afrika**|Afryka|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|
 |**agile**|zwinny, sprawny|eng:fra:agile, spa:por:ágil, deu:agil|
 |**agresi**|atak (agresja, napaść)|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
-|**aha**|rozumieć, pojmować|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
+|**aha**|rozumieć, pojmować|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha + ara: آه (ʾāh)|
 |**air**|powietrze|eng:fra:spa:air, por:ar, rus:аэро- (aero-)|
 |**ais krem**|lody|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|
 |**ais**|lód|eng:ice, deu:Eis, may:és|
@@ -920,7 +920,7 @@
 |**multi**|wiele|por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)|
 |**mum**|wosk|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
 |**mumu**|krowa|(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|
-|**mun**|drzwi, brama, portal|zho:门 (mén), yue:門 (mun4), jpn:門 (mon), kor:문 (mun)|
+|**mun**|drzwi, brama, portal|zho:门 (mén), yue:門 (mun4), jpn:門 (mon), kor:문 (mun), vie:môn|
 |**mungus**|mangusta|tel:ముంగిస (muṅgisa), mar:मुंगूस (muṅgūs), eng:mongoose, spa:mangosta, por:mangusto, fra:mangouste, rus:мангу́ст (mangúst), jpn:マングース (mangūsu)|
 |**mur**|mur, ściana|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
 |**murche**|mrówka|fas:مورچه (murče), rus:мурашка (murashka), ell:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
@@ -1259,7 +1259,7 @@
 |**shoke**|szokwstrząs; kolizja|eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|
 |**shopi**|zakupy (sprawunki, shopping)|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
 |**shou**|pokaz, ekspozycja, wystawa|eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|
-|**shukra**|dzięki, dzięki ci|ara: شُكْرًا‎ (šukran), hin:शुक्रिया (śukriyā);शुक्र (śukr), ben:শুকরিয়া (śukriẏa);শোকর (śokôr), swa:shukrani;-shukuru, tur:şükür|
+|**shukur**|dzięki, dzięki ci|ara: شُكْر‎ m (šukr), hin:शुक्र (śukr), ben:শোকর (śokôr), swa:-shukuru, tur:şükür|
 |**shula kan**|szkoła (instytucja)|zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), hin:स्कूल (skūl), ben:স্কুল (śkul), may:sekolah|
 |**shuli**|naprawa|zho:修理 (xiūlǐ), jpn:修理 (shuri), kor:수리 (suri)|
 |**shuru**|początek|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
@@ -1458,15 +1458,15 @@
 |**vulva**|srom|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
 |**vutu**|przedmiot (obiekt)|zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|
 |**xenon**|ksenon|eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون|
-|**ya**|on, ona, ono|may:ia + hin:यह (yah) + swa:yeye, zul:yena, lin:ye, ktu:ya, ibo:ya + rus:е- (ye-) + zho:伊 (yī), vie:y|
 |**ya**|przyrostek dla miejsca|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|
+|**ya**|tak|may:ya, deu:ja, eng:yeah, kor:예 (ye) + zho:呀/啊 (ya/a)|
 |**yake**|jak (zwierzę)|eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|
 |**yaki**|około; przybliżony|kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |**yam**|skonsumować, konsumować, zjeść, jeść, wypić, pić)|khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|
 |**yang**|rodzaj, typ, styl|zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|
 |**yasen**|jesion|rus:ясень (yasen’), pol:jesion|
 |**yatim**|sierota|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
-|**ye**|tak|eng:yeah, kor:예 (ye), may:ya|
+|**ye**|on, ona, ono|hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y|
 |**yei**|jej|eng:yay, pol:jej, jpn:イエイ (iei)|
 |**yezi**|kokos|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
 |**yo**|jakiś|zho:有 (yǒu), yue:有 (jau5)|

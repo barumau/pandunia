@@ -11,9 +11,9 @@
 | hindi | 685 | 43% |
 | nipon | 610 | 38% |
 | malayu | 555 | 35% |
-| arabi | 447 | 28% |
+| arabi | 448 | 28% |
 | suahili | 429 | 27% |
 | chosen | 413 | 26% |
-| putonghan | 411 | 26% |
+| putonghan | 412 | 26% |
 | bangla | 377 | 24% |
-| viet | 268 | 17% |
+| viet | 269 | 17% |

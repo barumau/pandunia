@@ -327,6 +327,7 @@ be gas - kaasuuntua
 be gau - nousta  
 be gau darja - nousta ylemmälle tasolle  
 be ging - olla linjassa  
+be halte - pysähtyä  
 be hapu - sopia (passata)  
 be harabu - pilaantua (raunioitua)  
 be hogo - palaa  
@@ -369,7 +370,6 @@ be supra - ylittää
 be tam - ahnehtia  
 be tele loka - teleportata  
 be teza - kiihdyttää (voimistuttaa)  
-be halte - pysähtyä  
 be turbe - vaivautua  
 be vanu - leikkiä (pitää hauskaa)  
 be vide - näkyä  
@@ -503,6 +503,7 @@ bum - räjähdys (pamaus)
 burge - linna (linnake, linnoitus)  
 Burkina Faso - Burkina Faso  
 bus - linja-auto (bussi)  
+bus halte - bussipysäkki (linja-autopysäkki)  
 buste - povi  
 buta - saapas (buutsi)  
 buton - nappi (näppäin, kytkin, nappula)  
@@ -962,8 +963,10 @@ fa gem - pelata
 fa glu - liimata  
 fa gol - saavuttaa  
 fa gola - ympäröidä (piirittää)  
+fa gong - työskennellä  
 fa guste - maistaa  
 fa halal - sallia (antaa lupa)  
+fa halte - pysäyttää  
 fa hapu - sovittaa (mukauttaa)  
 fa haram - kieltää  
 fa has - erottaa (nähdä ero)  
@@ -978,8 +981,8 @@ fa javabu - vastata
 fa jela - vangita  
 fa jene - synnyttää  
 fa jin - edistää  
-fa jude - tuomita  
 fa jong - keskittää  
+fa jude - tuomita  
 fa kai - aukaista (avata)  
 fa kanal - kanavoida  
 fa kancha dake - lasittaa  
@@ -1093,18 +1096,18 @@ fa sela - neuvoa
 fa sense - aistia  
 fa sharti - vaatia (edellyttää)  
 fa shibai - hävitä (kärsiä tappio)  
-fa sina - uskoa (luottaa)  
 fa shipi - kosteuttaa  
 fa shite - paskantaa (ulostaa)  
 fa shofer - ajaa (kuskata)  
 fa shopi - ostaa  
-fa shukra - kiittää  
+fa shukur - kiittää  
 fa shula - oppia (opiskella)  
 fa shuru - aloittaa  
 fa shush - hiljentää  
 fa side - istua  
 fa sifa - määritellä (luonnehtia)  
 fa sim - kannattaa (tukea, edistää)  
+fa sina - uskoa (luottaa)  
 fa sing foto - tuikkia  
 fa sir - piilottaa (kätkeä)  
 fa siro - nollata  
@@ -1125,7 +1128,6 @@ fa tense - kirentää (kiristää)
 fa tercha - panna vinoon  
 fa tese - väittää  
 fa teste - yrittää (kokeilla)  
-fa halte - pysäyttää  
 fa transe - kulkea poikki, läpi tai yli  
 fa trati - sopia (tehdä sopimus)  
 fa truke - jekuttaa (petkuttaa)  
@@ -1401,6 +1403,7 @@ ging - pitkittäinen
 ging darja - pituusaste  
 ging gola - pituuspiiri  
 ging lin - loimi  
+gingam - kumkvatti  
 gio - opettaa  
 gio ja - opettaja  
 gioka - jade  
@@ -1422,6 +1425,11 @@ golem - golem
 gomu - kumi  
 gona - kulma (nurkka)  
 gona metre gi - kulmamitta (goniometri)  
+gong - työ  
+gong ja - työntekijä (työläinen)  
+gong kan - tehdas (paja)  
+gong meza - työpöytä (kirjoituspöytä)  
+gong shula ja - kisälli  
 gorila - gorilla  
 goro - sika (possu)  
 goro nama - sianliha  
@@ -1463,12 +1471,6 @@ gun - armeija (sotajoukko)
 gun jan - sotilas  
 gun raja - sotaherra (generalissimo)  
 gun raja desha - sotaherran maa  
-gong - työ  
-fa gong - työskennellä  
-gong ja - työntekijä (työläinen)  
-gong kan - tehdas (paja)  
-gong meza - työpöytä (kirjoituspöytä)  
-gong shula ja - kisälli  
 guru - guru (opettaja)  
 guste - maku  
 guste ka - maistua  
@@ -1509,6 +1511,7 @@ hali zi - väli (tyhjä merkki)
 halifa - kalifi  
 halifa desha - kalifaatti  
 halo - hei (haloo)  
+halte - pysähdys  
 ham - olla väliä (olla tärkeä)  
 ham di - tärkeä  
 hamake - riippumatto  
@@ -1844,7 +1847,6 @@ kane pang - patonki (ranskanleipä)
 kanga - kampa  
 kangaru - kenguru  
 kanjar - tikari  
-gingam - kumkvatti  
 kano - kanootti  
 kanon - klassikko  
 kanon di - klassinen (kanooninen)  
@@ -2262,9 +2264,9 @@ manera - käytös (käyttäytyminen, tapa, tavat)
 manera - käyttäytyä  
 manete - magneetti  
 manete di - magneettinen  
-mangu - kiireinen  
 mangan - mangaani  
 mango - mango  
+mangu - kiireinen  
 mangus - mangostani  
 Mani - profeetta Mani  
 mani din - manikealaisuus  
@@ -2343,6 +2345,7 @@ meme - lammas
 memo - muisti  
 memo note - muistio (muistiinmerkintä)  
 memo tehni - muistitekniikka  
+men - nuudeli  
 mendelevi yum - mendelevium  
 meninge - aivokalvo  
 meninge flame - aivokalvontulehdus  
@@ -2377,7 +2380,6 @@ meza - pöytä
 meza tela - pöytäliina  
 mi - minä  
 mi su - minun  
-men - nuudeli  
 migra - muutto (migraatio)  
 mikro bio - mikrobi  
 mikro bio logi - mikrobiologia  
@@ -2424,6 +2426,7 @@ model - malli
 moka - puu  
 moka jang ja - puuseppä  
 moka jong parke - arboretum (puulajipuisto)  
+moka kane - keppi (puukeppi)  
 moka mate - puuaines  
 mol ja - mylläri  
 mol kan - mylly  
@@ -3188,8 +3191,6 @@ shia - porukka (kuppikunta, lohko, siipi)
 shia islam din - šiialaisuus  
 shikaya - valitus (reklamaatio)  
 shike - elegantti  
-sim - sydän  
-sina - usko (luottamus)  
 shindau din - sintolaisuus  
 shipi - märkä (kostea)  
 shir - runo  
@@ -3207,8 +3208,9 @@ shoke - isku (šokki)
 shopi - ostokset  
 shopi ja - ostaja  
 shou - näytös (esitys, show)  
-shukra - kiitos  
-shukra da - ansiosta  
+shukur - kiitos  
+shukur ta - kiitollisuus  
+shukur ze - ansiosta  
 shula - koulutus  
 shula guru - opettaja  
 shula ja - oppilas  
@@ -3244,10 +3246,12 @@ sili sili - ketju
 sili tika - ketjun lenkki  
 silis - pii  
 silko - silkki  
+sim - sydän  
 sim - aate (aatteen kannatus, ismi)  
 sim ja - kannattaja (tukija, -isti)  
 simple - yksinkertainen (mutkaton)  
 sin - merkki (signaali)  
+sina - usko (luottamus)  
 sina - rinta  
 sina kasa - rintakehä  
 sing - tähti  
@@ -3441,7 +3445,6 @@ tika - pala
 tikete - lippu (piletti)  
 tim - joukkue (tiimi)  
 Timor - Timor  
-halte - pysähdys  
 tipe - tyyppi (laji, genre)  
 tire - vetää (kiskoa)  
 tire kane - vipu  
@@ -3565,11 +3568,11 @@ Valis e Futuna nesi - Wallis ja Futuna
 valu - arvo  
 vampir - vampyyri  
 vampir ohtopus - vampyyritursas  
+vanadi yum - vanadiini  
+vanila - vanilja  
 vanu - huvi (hauskuus)  
 vanu di - hauska (huvittava)  
 vanu gi - leikkikalu (lelu)  
-vanadi yum - vanadiini  
-vanila - vanilja  
 Vanuatu - Vanuatu  
 var - viikonpäivä  
 var cheti - niedziela  
@@ -3665,8 +3668,8 @@ vutu - esine (tavara)
 ####X - X  
 xenon - ksenon  
 ####Y - Y  
-ya - hän (se)  
 ya - ajattelun, olemisen tai ihmisten ala tai alue  
+ya - kyllä  
 ya su - hänen (sen)  
 Yahve - Jahve (Jehova)  
 yake - jakki  
@@ -3686,16 +3689,16 @@ yatim - orpo
 yatim dom - orpokoti  
 yau - tarvita  
 yau di - tarpeellinen  
-yauta - tarve (puute)  
-ye - kyllä  
+yau ta - tarve (puute)  
+ye - hän (se)  
 yehudi - juutalainen  
 yehudi din - juutalaisuus  
 yei - jee! (hurraa!)  
 yeka - vaihtaa (tehdä vaihtokauppa)  
 yeka kanon - Muutosten kirja (I Ching)  
 Yemen - Jemen  
-Yesu - Jeesus  
-Yesu mesi - Jeesus Kristus  
+Yesa - Jeesus  
+Yesa Mesi - Jeesus Kristus  
 yezi - kookos  
 yo - jokin (joku)  
 yo jan - joku  
@@ -3758,7 +3761,6 @@ zoku - vielä (yhä, jatkua)
 zoku di - jatkuva (analoginen)  
 zombi - zombi  
 zona - vyö  
-moka kane - keppi (puukeppi)  
 zou - eläin  
 zou agro shuta - karjanhoito  
 zou bagi - eläintarha  
@@ -3781,4 +3783,3 @@ zumarde - smaragdi
  - sateinen  
  - sataa  
  - vastustaja (vihollinen)  
-bus halte - bussipysäkki (linja-autopysäkki)  

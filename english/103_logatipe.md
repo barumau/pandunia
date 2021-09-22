@@ -57,8 +57,8 @@ depending on its position in the sentence.
 
 **mi _ama_ tu.**
 – I _love_ you. (verb)  
-**tu gam mi su _ama_.**
+**tu emosi mi su _ama_.**
 – You feel my _love_. (noun)  
-**mi kitaba un _ama_ letra.**
+**mi kitabu un _ama_ anjil.**
 – I write a _love_ letter. (adjective)
 

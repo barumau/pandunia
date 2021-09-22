@@ -11,7 +11,7 @@
 |**Afrika**|Afriko|araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika, angla:hispana:portugala:Africa, franca:Afrique, rusa:Африка (Afrika), hindia:अफ़्रीका (afrīkā), bengala:আফ্রিকা (aphrika), japana:アフリカ (Afurika), korea:프리카 (Apeurika)|
 |**agile**|lerta|angla:franca:agile, hispana:portugala:ágil, deu:agil|
 |**agresi**|atako (agreso)|angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif|
-|**aha**|kompreni|rusa:ага (aha), korea: 아하 (aha), angla: uh-huh, polona:aha|
+|**aha**|kompreni|rusa:ага (aha), korea: 아하 (aha), angla: uh-huh, polona:aha + araba: آه (ʾāh)|
 |**air**|aero|angla:franca:hispana:air, portugala:ar, rusa:аэро- (aero-)|
 |**ais krem**|glaciaĵo|angla:ice cream, japana:アイスクリーム (aisukurīmu), korea:아이스크림 (aiseukeurim), hindia:आइसक्रीम (āisakrīm), bengala:আইসক্রীম (aisôkrīm), malaja:es krim, svahila:aiskrimu|
 |**ais**|glacio|angla:ice, deu:Eis, malaja:és|
@@ -670,7 +670,7 @@
 |**muka**|vizaĝo|bengala:মুখ (mukh), hindia:मुख (mukh), tamila:முகம் (mukam), teluga:(mukhamu), malaja:muka, filipina:mukha|
 |**mula**|radiko|hindia:marataja:मूल (mūl), bengala:মূল (mūl), teluga:మూలము (mūlamu), malaja:filipina:mula, kmera:មូល (mul), birma:မူလ (mula), tha:มูล (mun)|
 |**mumu**|bovo|(onom,) angla:moo, deu:muh, rusa:му (mu), taja:มอ (mo), hindia:(mū), japana:モーモー (mō mō), mandarena:哞 (mōu), turka:mö|
-|**mun**|pordo|mandarena:门 (mén), kantona:門 (mun4), japana:門 (mon), korea:문 (mun)|
+|**mun**|pordo|mandarena:门 (mén), kantona:門 (mun4), japana:門 (mon), korea:문 (mun), vjetnama:môn|
 |**mur**|vando|franca:mur, hispana:portugala:muro + deu:Mauer, polona:mur|
 |**murche**|formiko|persa:مورچه (murče), rusa:мурашка (murashka), greka:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
 |**mushu**|muso aŭ rato|rusa:мышь (myś), polona:mysz, persa: موش‎ (muš) + mandarena:鼠 (shǔ)|
@@ -886,7 +886,7 @@
 |**shiti bai**|malsukceso|mandarena:失败 (shībài), japana:失敗 (shippai), korea:실패 (šilpæ), vjetnama:thất bại|
 |**shofer ja**|ŝoforo (kondukisto)|franca:angla:deu:chauffeur, hispana:portugala:chofer, rusa:шофёр (šofjor), polona:szofer, taja: โชเฟอร์ (chofoe), turka:şoför, persa:(šofer)|
 |**shou**|montri (ekspozicii)|angla:deu:franca:hispana:portugala:show, rusa:шоу (šou), turka:şov, svahila:shoo, taja:โชว์ (choo), korea:쇼 (syo), japana:ショー (shō), mandarena:秀 (xiù)|
-|**shukra**|danko|araba: شُكْرًا‎ (šukran), hindia:शुक्रिया (śukriyā);शुक्र (śukr), bengala:শুকরিয়া (śukriẏa);শোকর (śokôr), svahila:shukrani;-shukuru, turka:şükür|
+|**shukur**|danko|araba: شُكْر‎ m (šukr), hindia:शुक्र (śukr), bengala:শোকর (śokôr), svahila:-shukuru, turka:şükür|
 |**shula kan**|lernejo|mandarena:学 (xué) + deu:Schule, svahila:shule + angla:school, franca:école, hispana:escuela, portugala:escola, rusa:школа (škola), hindia:स्कूल (skūl), bengala:স্কুল (śkul), malaja:sekolah|
 |**shuli**|riparo|mandarena:修理 (xiūlǐ), japana:修理 (shuri), korea:수리 (suri)|
 |**shuru**|komenco|araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)|
@@ -1009,11 +1009,11 @@
 |**vulva**|vulvo|franca:vulve, angla:portugala:hispana:turka:vulva, rusa:вульва (vul’va)|
 |**xenon**|ksenono|angla:xenon, franca:xénon, hispana:xenón, portugala:xénon, rusa:ксенон, mandarena:氙 (xiān), japana:キセノン, korea:크세논, vjetnama:xenon, hindia:ज़ेनान, bengala:জেনন, malaja:xenon, svahila:zenoni, araba: إكسينون|
 |**ya**|ejo (ujo, io)|hispana:portugala:angla:-ia, rusa:-ия (-iya), araba: ية (-iya), japana:屋 (-ya)|
-|**ya**|li aŭ ŝi aŭ ĝi|malaja:ia + hindia:यह (yah) + svahila:yeye, zulua:yena, lingala:ye, ktu:ya, igba:ya + rusa:е- (ye-) + mandarena:伊 (yī), vjetnama:y|
+|**ya**|jes|malaja:ya, deu:ja, angla:yeah, korea:예 (ye) + mandarena:呀/啊 (ya/a)|
 |**yam**|manĝi (trinki)|kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam|
 |**yang**|speco (tipo, stilo)|mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)|
 |**yau**|bezoni|mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu|
-|**ye**|jes|angla:yeah, korea:예 (ye), malaja:ya|
+|**ye**|li aŭ ŝi aŭ ĝi|hindia:यह (yeh) + svahila:yeye, zulua:yena, lingala:ye + rusa:е- (ye-) + malaja:ia + mandarena:伊 (yī), vjetnama:y|
 |**yezi**|kokoso|mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)|
 |**yo**|iu|mandarena:有 (yǒu), kantona:有 (jau5)|
 |**yoga**|jogo|hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)|

@@ -12,7 +12,7 @@
 |**Afrika**|Africa|Arabic:(ʾafrīqiyā), Wolof:Afrig, Fulani:Afirik, Amharic:(ʾäfriḳa), Hausa:Afirka, Yoruba:Afirika, Oromo:Afrikaa, Swahili:Afrika, English:Spanish:Portuguese:Africa, French:Afrique, Russian:Африка (Afrika), Hindi:अफ़्रीका (afrīkā), Bengali:আফ্রিকা (aphrika), Japanese:アフリカ (Afurika), Korean:프리카 (Apeurika)|
 |**agile**|agile|English:French:agile, Spanish:Portuguese:ágil, deu:agil|
 |**agresi**|attack (assault, aggression, hostility)|English:deu:French:agression, Polish:agresja, Russian:агрессия (agressiya), Spanish:agresión, Portuguese:agressão, Malay:agresif|
-|**aha**|understand (realize)|Russian:ага (aha), Korean: 아하 (aha), English: uh-huh, Polish:aha|
+|**aha**|understand (realize)|Russian:ага (aha), Korean: 아하 (aha), English: uh-huh, Polish:aha + Arabic: آه (ʾāh)|
 |**air**|air|English:French:Spanish:air, Portuguese:ar, Russian:аэро- (aero-)|
 |**ais krem**|ice cream|English:ice cream, Japanese:アイスクリーム (aisukurīmu), Korean:아이스크림 (aiseukeurim), Hindi:आइसक्रीम (āisakrīm), Bengali:আইসক্রীম (aisôkrīm), Malay:es krim, Swahili:aiskrimu|
 |**ais**|ice|English:ice, deu:Eis, Malay:és|
@@ -972,7 +972,7 @@
 |**multi**|many (much)|Portuguese:muito, English:French:Spanish:multi-, Russian:мульти- (mulʹti-)|
 |**mum**|wax|Turkish:mum, Persian:(mum), Hindi:मोम (mom), Bengali:মোম (mom)|
 |**mumu**|cow|(onom,) English:moo, deu:muh, Russian:му (mu), Thai:มอ (mo), Hindi:(mū), Japanese:モーモー (mō mō), Mandarin:哞 (mōu), Turkish:mö|
-|**mun**|door (gate, portal)|Mandarin:门 (mén), Cantonese:門 (mun4), Japanese:門 (mon), Korean:문 (mun)|
+|**mun**|door (gate, portal)|Mandarin:门 (mén), Cantonese:門 (mun4), Japanese:門 (mon), Korean:문 (mun), Vietnamese:môn|
 |**mungus**|mongoose|Telugu:ముంగిస (muṅgisa), Marathi:मुंगूस (muṅgūs), English:mongoose, Spanish:mangosta, Portuguese:mangusto, French:mangouste, Russian:мангу́ст (mangúst), Japanese:マングース (mangūsu)|
 |**mur**|wall (structure for delimitation)|French:mur, Spanish:Portuguese:muro + deu:Mauer, Polish:mur|
 |**murche**|ant|Persian:مورچه (murče), Russian:мурашка (murashka), Greek:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
@@ -1328,7 +1328,7 @@
 |**shoke**|shock (collision)|English:nld:shock, French:choc, Spanish:Portuguese:choque, Turkish:şok, Malay:syok + Mandarin:冲击 (chōngjī), Cantonese:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), Japanese:衝撃 (shōgeki)|
 |**shopi**|shopping|English:French:Spanish:shopping, Japanese:ショッピング (shoppingu), Korean:쇼핑 (syoping), Thai:ชอปปิ้ง (chop-bing), Russian:шоппинг (šopping), Mandarin:血拼 (xuèpīn)|
 |**shou**|show (display, exhibition)|English:deu:French:Spanish:Portuguese:show, Russian:шоу (šou), Turkish:şov, Swahili:shoo, Thai:โชว์ (choo), Korean:쇼 (syo), Japanese:ショー (shō), Mandarin:秀 (xiù)|
-|**shukra**|thanks (thank you)|Arabic: شُكْرًا‎ (šukran), Hindi:शुक्रिया (śukriyā);शुक्र (śukr), Bengali:শুকরিয়া (śukriẏa);শোকর (śokôr), Swahili:shukrani;-shukuru, Turkish:şükür|
+|**shukur**|thanks (thank you)|Arabic: شُكْر‎ m (šukr), Hindi:शुक्र (śukr), Bengali:শোকর (śokôr), Swahili:-shukuru, Turkish:şükür|
 |**shula kan**|school (institution)|Mandarin:学 (xué) + deu:Schule, Swahili:shule + English:school, French:école, Spanish:escuela, Portuguese:escola, Russian:школа (škola), Hindi:स्कूल (skūl), Bengali:স্কুল (śkul), Malay:sekolah|
 |**shuli**|repair (fix)|Mandarin:修理 (xiūlǐ), Japanese:修理 (shuri), Korean:수리 (suri)|
 |**shuru**|beginning (start, commencement, onset)|Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)|
@@ -1546,7 +1546,7 @@
 |**vutu**|object (item, thing)|Mandarin:物 (wù), Wu-Chinese:物 (veq5), Japanese:物 (butsu), Vietnamese:vật + Hindi:Marathi:वस्तु (vastu), Bengali:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), Thai:วัสดุ (wạttu)|
 |**xenon**|xenon|English:xenon, French:xénon, Spanish:xenón, Portuguese:xénon, Russian:ксенон, Mandarin:氙 (xiān), Japanese:キセノン, Korean:크세논, Vietnamese:xenon, Hindi:ज़ेनान, Bengali:জেনন, Malay:xenon, Swahili:zenoni, Arabic: إكسينون|
 |**ya**|area of thinking or being|Spanish:Portuguese:English:-ia, Russian:-ия (-iya), Arabic: ية (-iya), Japanese:屋 (-ya)|
-|**ya**|he or she or it|Malay:ia + Hindi:यह (yah) + Swahili:yeye, Zulu:yena, Lingala:ye, ktu:ya, Igbo:ya + Russian:е- (ye-) + Mandarin:伊 (yī), Vietnamese:y|
+|**ya**|yes|Malay:ya, deu:ja, English:yeah, Korean:예 (ye) + Mandarin:呀/啊 (ya/a)|
 |**yake**|yak|English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)|
 |**yaki**|about (approximately, nearly, almost)|Korean:약 (yak), Japanese:約 (yaku), Cantonese:約 (yœk), Turkish:yaklaşık, Mandarin:约 (yuē)|
 |**yam**|consume (eat or drink)|Khmer:ញ៉ាំ (nyam), Fulani:nyami, + Spanish:ñam, Russian:ням (nyam), Italian:gnam, English:yum, Korean:냠냠 (nyamnyam), Hungarian:nyam|
@@ -1554,7 +1554,7 @@
 |**yasen**|ash tree|Russian:ясень (yasen’), Polish:jesion|
 |**yatim**|orphan|Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)|
 |**yau**|need (lack, require)|Mandarin:要 (yāo), Cantonese:要 (jiu1), Wu-Chinese:要 (yo1), Japanese:要 (yō), Vietnamese:yêu|
-|**ye**|yes|English:yeah, Korean:예 (ye), Malay:ya|
+|**ye**|he or she or it|Hindi:यह (yeh) + Swahili:yeye, Zulu:yena, Lingala:ye + Russian:е- (ye-) + Malay:ia + Mandarin:伊 (yī), Vietnamese:y|
 |**yei**|yay! (yeah!)|English:yay, Polish:jej, Japanese:イエイ (iei)|
 |**yeka**|exchange (replace, trade, swap)|Mandarin:易 (yì), Cantonese:易 (yik6), Japanese:易 (eki), Korean:역 (yeok), Vietnamese:dịch|
 |**yezi**|coconut tree|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|

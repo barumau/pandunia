@@ -11,7 +11,7 @@
 |**Afrika**|África|ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|
 |**agile**|ágil|eng:fra:agile, spa:por:ágil, deu:agil|
 |**agresi**|ataque|eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|
-|**aha**|entender (comprender)|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha|
+|**aha**|entender (comprender)|rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha + ara: آه (ʾāh)|
 |**air**|aire|eng:fra:spa:air, por:ar, rus:аэро- (aero-)|
 |**ais krem**|helado|eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu|
 |**ais**|hielo|eng:ice, deu:Eis, may:és|
@@ -940,7 +940,7 @@
 |**multi**|muchos|por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)|
 |**mum**|cera (lacre)|tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|
 |**mumu**|vaca (toro)|(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö|
-|**mun**|puerta|zho:门 (mén), yue:門 (mun4), jpn:門 (mon), kor:문 (mun)|
+|**mun**|puerta|zho:门 (mén), yue:門 (mun4), jpn:門 (mon), kor:문 (mun), vie:môn|
 |**mungus**|mangosta|tel:ముంగిస (muṅgisa), mar:मुंगूस (muṅgūs), eng:mongoose, spa:mangosta, por:mangusto, fra:mangouste, rus:мангу́ст (mangúst), jpn:マングース (mangūsu)|
 |**mur**|muro (muralha)|fra:mur, spa:por:muro + deu:Mauer, pol:mur|
 |**murche**|hormigo|fas:مورچه (murče), rus:мурашка (murashka), ell:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
@@ -1285,7 +1285,7 @@
 |**shoke**|choque (sacudida)|eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|
 |**shopi**|compras (shopping)|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
 |**shou**|exposición (espectáculo)|eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|
-|**shukra**|gracias|ara: شُكْرًا‎ (šukran), hin:शुक्रिया (śukriyā);शुक्र (śukr), ben:শুকরিয়া (śukriẏa);শোকর (śokôr), swa:shukrani;-shukuru, tur:şükür|
+|**shukur**|gracias|ara: شُكْر‎ m (šukr), hin:शुक्र (śukr), ben:শোকর (śokôr), swa:-shukuru, tur:şükür|
 |**shula kan**|escuela (colegio, institución)|zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), hin:स्कूल (skūl), ben:স্কুল (śkul), may:sekolah|
 |**shuli**|arreglo|zho:修理 (xiūlǐ), jpn:修理 (shuri), kor:수리 (suri)|
 |**shuru**|comienzo (inicio, principio)|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
@@ -1498,7 +1498,7 @@
 |**vutu**|objeto (artículo)|zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|
 |**xenon**|xenón|eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون|
 |**ya**|sufijo para regiónes y sustantivos abstractos|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|
-|**ya**|él o ella|may:ia + hin:यह (yah) + swa:yeye, zul:yena, lin:ye, ktu:ya, ibo:ya + rus:е- (ye-) + zho:伊 (yī), vie:y|
+|**ya**|sí|may:ya, deu:ja, eng:yeah, kor:예 (ye) + zho:呀/啊 (ya/a)|
 |**yake**|yac|eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|
 |**yaki**|aproximadamente|kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|
 |**yam**|comer (bebir)|khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|
@@ -1506,7 +1506,7 @@
 |**yasen**|fresno|rus:ясень (yasen’), pol:jesion|
 |**yatim**|huérfano|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
 |**yau**|necesitar|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
-|**ye**|sí|eng:yeah, kor:예 (ye), may:ya|
+|**ye**|él o ella|hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y|
 |**yei**|yupi|eng:yay, pol:jej, jpn:イエイ (iei)|
 |**yezi**|coco|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
 |**yo**|algún|zho:有 (yǒu), yue:有 (jau5)|

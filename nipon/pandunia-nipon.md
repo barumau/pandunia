@@ -110,6 +110,7 @@ be bum - 爆発する
 be dom - 住む (居住する)  
 be fatige - 疲れる (疲労する)  
 be fobi - 恐れる  
+be halte - 止まる  
 be hogo - 燃える  
 be jaga - 起きる  
 be kino - 動く  
@@ -119,7 +120,6 @@ be rute galte - 逸れる
 be sabi vol - 訝る (-かしら)  
 be sona - 寝る  
 be tele loka - 瞬間移動  
-be halte - 止まる  
 be turbe - 悩む (わざわざする)  
 be vanu - 遊ぶ  
 bebe - 赤ちゃん  
@@ -176,6 +176,7 @@ bufete - ビュッフェ (バイキング)
 buku - 本 (書物)  
 bum - 爆発  
 burge - 要塞  
+bus halte - バス停  
 buta - ブーツ  
 ####C - C  
 ceres yum - セリウム  
@@ -336,6 +337,7 @@ fa ekso - 追出 (退ける, 除いて)
 fa fatu - 罰する  
 fa fen gata - 見つめ直す  
 fa glu - 張る (付く)  
+fa gong - 働く  
 fa hapu - 適応する  
 fa hisabu - 計算する  
 fa hogo - 燃やす  
@@ -459,6 +461,7 @@ gida buku - ガイドブック
 gida ja - 案内人 (ガイド)  
 ging - 並行  
 ging lin - 縦糸  
+gingam - キンカン (キンキツ)  
 gio - 教える (教義, -教)  
 gio ja - 教員  
 gitar - ギター  
@@ -470,6 +473,10 @@ glu grafi - ステッカー
 go - その  
 gol - 目的 (行き先, ゴール)  
 gola sheku - 丸石 (玉石, 栗石)  
+gong - 労働  
+gong ja - 労働者  
+gong kan - 工場 (製造所)  
+gong mise - 提出  
 gorila - ゴリラ  
 grafi chuli - 画像処理  
 grafi kata - 漫画  
@@ -481,11 +488,6 @@ gui papi - オニゲシ
 guku hua - キク  
 gun jan - 軍人  
 gun raja - 総統 (将軍 )  
-gong - 労働  
-fa gong - 働く  
-gong ja - 労働者  
-gong kan - 工場 (製造所)  
-gong mise - 提出  
 guru - 尊師 (グル, 先生)  
 guta - 膝  
 guta kaske oste - 膝蓋骨  
@@ -638,8 +640,8 @@ kancha - ガラス
 kancha daka - 釉薬  
 kandi - キャンデー  
 kane kasa - 檻 (篭, ケージ)  
+kane minte - スペアミント  
 kangaru - カンガルー  
-gingam - キンカン (キンキツ)  
 kano - カヌー  
 kantalupo melon - カンタロープ  
 kanyon - 峡谷  
@@ -829,8 +831,8 @@ makan hua - タンポポ
 mal nomi - 経済学  
 man - 男  
 man raja - 王様  
-mangu - 忙しい  
 mangan - マンガン  
+mangu - 忙しい  
 manioka - キャッサバ  
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
@@ -868,6 +870,7 @@ meitner yum - マイトネリウム
 melon - マスクメロン  
 memo - 記憶  
 memo bina - 追悼塔 (碑)  
+men - ヌードル  
 mendelevi yum - メンデレビウム  
 mes - 月間  
 mes bati - ８月  
@@ -892,7 +895,6 @@ meza tela - テーブル掛け
 meza topo - 台地 (高地)  
 mi - 私  
 mi su - 私の  
-men - ヌードル  
 mikro bio - 微生物  
 mikro bio logi - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
@@ -908,6 +910,7 @@ miti - 会う
 miti - 会合 (会議, ミーティング)  
 mitre - メートル  
 moka - 木  
+moka kane - 杭  
 moka tana - 丸木  
 mole - モル  
 molekul - 分子  
@@ -1206,14 +1209,13 @@ shi - さん (氏)
 shia islam din - シーア派  
 shifu - 先生  
 shikaya - 不平 (不満)  
-sim - 心  
 shipi - 湿っぽい  
 shir - 詩  
 shite - 糞 (屎)  
 shiti - 失う (無くす, 落とす)  
 shiti bai - 失敗  
 Shiva - シヴァ  
-shukra - ありがとう (どうも)  
+shukur - ありがとう (どうも)  
 shula - 教育  
 shula guru - 先生 (教師)  
 shula ja - 学生  
@@ -1236,6 +1238,7 @@ sili - 系列
 sili tika - 連結  
 silis - ヶィ素  
 silko - 絹  
+sim - 心  
 sim - 主义  
 sing - 星  
 sir plan - 陰謀  
@@ -1346,10 +1349,10 @@ vali susan - キミカゲソウ (スズラン)
 valu - 価値  
 vampir - 吸血鬼  
 vampir ohtopus - コウモリダコ  
+vanadi yum - バナジウム  
 vanu - 楽しみ (娯楽)  
 vanu di - 楽しい  
 vanu gi - おもちゃ  
-vanadi yum - バナジウム  
 var cheti - 日曜日  
 var du - 火曜日  
 var lima - 金曜日  
@@ -1387,6 +1390,7 @@ vutu - 物 (品)
 ####X - X  
 xenon - キセノン  
 ####Y - Y  
+ya - はい  
 Yahve - ヤハウェ (エホバ)  
 yam - 食べる  
 yam she - 食べ物 (食事)  
@@ -1395,10 +1399,9 @@ yang - タイプ
 yasen - 秦皮  
 yau - 要る  
 yau di - 必要  
-yauta - 必要  
-ye - はい  
+yau ta - 必要  
 yeka kanon - 易経  
-Yesu mesi - イエス・キリスト  
+Yesa Mesi - イエス・キリスト  
 yo - 何分の  
 yogo - 軛  
 yogur - ヨーグルト  
@@ -1422,8 +1425,6 @@ zinke - 亜鉛
 zirkon yum - ジルコニウム  
 zoku - まだ  
 zoku di - アナログ  
-moka kane - 杭  
-kane minte - スペアミント  
 zou - 動物  
 zou agro shuta - 畜産  
 zou bagi - 動物園  
@@ -1434,4 +1435,3 @@ zuku di - 民族の
  - 雪が降る  
  - 雨が降る  
  - 敵 (相手)  
-bus halte - バス停  

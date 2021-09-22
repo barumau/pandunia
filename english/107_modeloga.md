@@ -12,7 +12,7 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **ya si un _sundar_ kitabu.**
+A. **go si un _sundar_ kitabu.**
 – That is a beautiful writing.  
 B. **tu _sundar_ di kitabu.**
 – You write _beautifully_.
@@ -46,7 +46,7 @@ is placed immediately before the verb.
 
 **tu _rapide_ loga.**
 – You talk _fast_.  
-**yamen _bon_ kitabu.**
+**yemon _bon_ kitabu.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -56,7 +56,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _sundar di_ kitabu.**
 – You write _beautifully_.  
-**yamen _kuai di_ marche.**
+**yemon _kuai di_ marche.**
 – They walk _fast_.
 
 

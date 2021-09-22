@@ -6,11 +6,11 @@ Pronouns can substitute nouns and noun phrases.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| **mi**      | **mimon**    |
 | I, me       | we           |
-| **tu**      | **tumen**    |
+| **tu**      | **tumon**    |
 | you         | you all      |
-| **ya**      | **yamen**    |
+| **ye**      | **yemon**    |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
@@ -19,11 +19,11 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **mimen su** |
+| **mi su**   | **mimon su** |
 | my          | our          |
-| **tu su**   | **tumen su** |
+| **tu su**   | **tumon su** |
 | your        | your         |
-| **ya su**   | **yamen su** |
+| **ye su**   | **yemon su** |
 | his or her  | their        |
 
 
@@ -39,9 +39,9 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 
 **mi vide se**
 – I see myself.  
-**ya vide se**
+**ye vide se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mimen vide se.**
+**mimon vide se.**
 – We see ourselves.
 
 The expression **se kon** is used as the reciprocal pronoun.
@@ -51,7 +51,7 @@ The expression **se kon** is used as the reciprocal pronoun.
 
 **mi si tu vide se kon.**
 – Me and you see each other.  
-**mimen vide se kon.**
+**mimon vide se kon.**
 – We see each other.
 
 
@@ -93,10 +93,10 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ni she si mau. ya vol yam go mushu.**
+**ni she si mau. ye vol yam go mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ten un mau e un vaf. la vaf si dai. ya yam poli yam.**
+**mi ten un mau e un vaf. la vaf si dai. ye yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 

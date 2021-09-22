@@ -19,9 +19,9 @@ In the simplest sentences, the subject is a pronoun and the predicate is an adje
 
 **mi bon.**
 – I am good.  
-**ya nove.**
+**ye nove.**
 – It is new.  
-**ya Sara.**
+**ye Sara.**
 – She is Sara.
 
 When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
@@ -41,9 +41,9 @@ Then the verb **si** is not needed.
 |------------------|--------------------|
 | **mi bon.**      | **mi no bon.**     |
 | I am good.       | I am not good.     |
-| **ya nove.**     | **ya no nove.**    |
+| **ye nove.**     | **ye no nove.**    |
 | It is new.       | It is not new.     |
-| **ya Sara.**     | **ya no Sara.**    |
+| **ye Sara.**     | **ye no Sara.**    |
 | She is Sarah.    | She is not Sarah.  |
 | **Sara si bon.** | **Sara no bon.**   |
 | Sarah is good.   | Sarah is not good. |
@@ -51,7 +51,7 @@ Then the verb **si** is not needed.
 
 Also two personal pronouns can be combined with **si** and **no**.
 
-**mi si ya.**
+**mi si ye.**
 – I am he/she.  
 **mi no tu.**
 – I'm not you.
@@ -78,14 +78,14 @@ These come after the predicate.
 – I walk.  
 **tu yam yo apel.**
 – You eat some apples.  
-**mimen dona ya yo pesa.**
+**mimon dona ye yo pesa.**
 – We give her some money.
 
 Sometimes, the subjet of one sentence can become the object of another.
 
-**a fuku ye gan.**
+**la fuku ya gan.**
 – The clothes dry.  
-**a sol ye gan a fuku.**
+**la sol ya gan la fuku.**
 – The sun dries the clothes.
 
 To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
@@ -200,14 +200,14 @@ The easiest way to form a yes-no question in Pandunia is to simply attach the pa
 It is also possible to use
 **no**
 ('no', 'not') or
-**ye**
+**ya**
 ('yes') instead of
 **he**
 to suggest the expected answer.
 
 **tu yam un piza, no?**
 – You eat a pizza, don't you?  
-**tu yam un piza, ye?**
+**tu yam un piza, ya?**
 – You eat a pizza, right?
 
 The third way to ask a yes-no question is to contradict the verb
@@ -226,27 +226,27 @@ Finally, you can emphasize the question by using **sual**.
 – Do you eat a pizza?
 
 Yes-no questions are answered with
-**ye**
+**ya**
 ('yes') and
 **no**
 ('no').
 
 **tu vide mi, he?**
 – Do you see me?  
-**ye. (mi ye vide tu.)**
+**ya. (mi ya vide tu.)**
 – Yes. (I _do_ see you.)  
 **no. (mi no vide tu.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ye**
+**ya**
 and
 **no**
 apply to the verb, not the whole question.
 
 **tu no vide mi, he?**
 – Don't you see me?  
-**ye. (mi vide tu.)**
+**ya. (mi vide tu.)**
 – Yes. (I see you.)  
 **no. (mi no vide tu.)**
 – No. (I don't see you.)
@@ -282,9 +282,9 @@ However, unlike in English, the word order may also be left alone.
 – What are you eating?  
 **tu zai yam ke she?**
 – You are eating what?  
-**ya lai pa ke sata?**
+**ye lai pa ke sata?**
 – When does he arrive?  
-**tumen kegu pa ke jan su dom?**
+**tumon kegu pa ke jan su dom?**
 – Whose house did you all visit?
 
 
@@ -342,7 +342,7 @@ Also _resumptive relative pronoun_ can be used if needed.
 A content clause can be placed before or after the clause that talks about it.
 The demonstrative **go** points to the following phrase, and **ni** points to the previous one.
 
-**go si bari, mi le no vide yamen.**
+**go si bari, mi le no vide yemon.**
 – This is important: I haven't seen them.  
 **pan jan be egal sana, ni fate si klar.**
 – All people are created equal; that fact is clear.
@@ -376,25 +376,25 @@ Expressions are affirmative by default.
 
 **mi si shefe.**
 – I am the boss.  
-**ya si nove meza.**
+**ye si nove meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
-**ye**
+**ya**
 (_indeed_).
 
-**mi ye si shefe.**
+**mi ya si shefe.**
 – I indeed am the boss.  
-**ya ye si nove meza.**
+**ye ya si nove meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**ya no si shefe.**
+**ye no si shefe.**
 – He is not the boss.  
-**ya no si nove meza.**
+**ye no si nove meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -405,7 +405,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **mi no vide tu.**
 – I don't see you.  
-**mi vide no tu a yamen.**
+**mi vide no tu a yemon.**
 – I see, not you, but them.
 
 **mi ching tu safa kamar.**
@@ -486,13 +486,13 @@ The same particle is used with with personal pronouns too.
 – my house  
 **tu su dom**
 – your house  
-**ya su dom**
+**ye su dom**
 – his or her house  
-**mimen su dom**
+**mimon su dom**
 – our house  
-**tumen su dom**
+**tumon su dom**
 – your house  
-**yamen su dom**
+**yemon su dom**
 – their house
 
 

@@ -304,6 +304,7 @@ be fobi - temer
 be gas - gasificarse  
 be gau - subir (alzar)  
 be ging - alinear  
+be halte - pararse (detenerse)  
 be harabu - bloquearse (colgarse, fallar)  
 be hogo - quemarse  
 be in - entrar  
@@ -337,7 +338,6 @@ be sona - dormir
 be suka - gustarse (disfrutar)  
 be supra - sobrepasar  
 be tele loka - teletransportarse  
-be halte - pararse (detenerse)  
 be turbe - molestar en  
 be vanu - disfrutar (jugar)  
 be vide - ser visto  
@@ -456,6 +456,7 @@ bum - explosión (estallado)
 burge - castillo (fortaleza)  
 Burkina Faso - Burkina Faso  
 bus - bus (autobús)  
+bus halte - parada de autobús  
 buste - pecho (busto)  
 buta - bota  
 buton - tecla (botón)  
@@ -868,8 +869,10 @@ fa gem - jugar un juego
 fa glu - pegar  
 fa gol - lograr (llegar)  
 fa gola - rodear (cirundar)  
+fa gong - trabajar  
 fa guste - notar el sabor  
 fa halal - permitir (dejar)  
+fa halte - parar (detener)  
 fa haram - prohibir  
 fa has - diferenciar (distinguir)  
 fa hen - odiar  
@@ -880,8 +883,8 @@ fa jama - recoger (juntar, reunir, acumular, recolectar, montar)
 fa javabu - responder (contestar)  
 fa jela - encarcelar (aprisionar)  
 fa jene - dar a luz (enngendrar, parir, procrear)  
-fa jude - juzgar  
 fa jong - centrar (concentrar)  
+fa jude - juzgar  
 fa kai - abrir  
 fa kancha dake - vidriar (glasear)  
 fa karga - cargar  
@@ -981,16 +984,16 @@ fa sela - aconsejar
 fa sense - sentir (detectar)  
 fa sharti - espicificar (estipular)  
 fa shibai - perder (fallar)  
-fa sina - creer  
 fa shipi - mojar  
 fa shite - cagar  
 fa shofer - conducir  
 fa shopi - comprar  
-fa shukra - agradecer  
+fa shukur - agradecer  
 fa shula - aprender (estudiar)  
 fa shuru - comenzar (iniciar, empezar)  
 fa side - sentar  
 fa sifa - definir  
+fa sina - creer  
 fa sing foto - centellear (titilar)  
 fa sir - ocultar (esconder)  
 fa siro - cancelar  
@@ -1009,7 +1012,6 @@ fa tele fon - telefonear
 fa tercha - inclinar  
 fa tese - argumentar (alegar)  
 fa teste - intentar (probar)  
-fa halte - parar (detener)  
 fa transe - transitar (atravesar)  
 fa truke - engañar  
 fa turbe - molestar (perturber)  
@@ -1266,6 +1268,7 @@ giga - giga-
 ging - paralelo  
 ging darja - longitud  
 ging gola - meridiano (línea de longitud)  
+gingam - kumquat (quinoto)  
 gio - enseñar (instruir, doctrina)  
 gio ja - docente (enseñante, profesor, maestro)  
 gioka - jade  
@@ -1286,6 +1289,11 @@ gola sheku - adoquín
 gomu - goma (caucho, hule)  
 gona - esquina (rincón, ángulo)  
 gona metre gi - goniómetro (medidor de ángulos)  
+gong - trabajo  
+gong ja - trabajador (obrero)  
+gong kan - fábrica  
+gong meza - escritorio (mesa de trabajo)  
+gong mise - entregar (enviar)  
 gorila - gorila  
 goro - cerdo (puerco)  
 goro nama - carne de cerdo  
@@ -1326,12 +1334,6 @@ gun - ejército
 gun jan - soldado  
 gun raja - generalísimo (sogún)  
 gun raja desha - shogunato  
-gong - trabajo  
-fa gong - trabajar  
-gong ja - trabajador (obrero)  
-gong kan - fábrica  
-gong meza - escritorio (mesa de trabajo)  
-gong mise - entregar (enviar)  
 guru - maestro (gurú, sabio, profesor)  
 guste - gusto (sabor)  
 guste ka - tener gusto a  
@@ -1371,6 +1373,7 @@ hali zi - espacio (texto)
 halifa - califa  
 halifa desha - califato  
 halo - aló  
+halte - parada (alto)  
 ham - importar  
 ham di - importante  
 hamake - hamaca  
@@ -1697,11 +1700,11 @@ kandela - candela (unidad de intensidad luminosa)
 kandi - caramelo  
 kane - barra (vara, palo)  
 kane kasa - jaula (caja)  
+kane minte - hierbabuena  
 kane pang - baguette  
 kanga - peine  
 kangaru - canguro  
 kanjar - puñal (daga)  
-gingam - kumquat (quinoto)  
 kano - canoa  
 kanta - hombro  
 kantalupo melon - melón cantalupo  
@@ -2138,9 +2141,9 @@ manera - comportamiento (conducta)
 manera - comportarse (portarse)  
 manete - imán  
 manete di - magnético  
-mangu - ocupado (atareado)  
 mangan - manganeso  
 mango - mango  
+mangu - ocupado (atareado)  
 mangus - mangostán (jobo de la India)  
 Mani - profeta Mani  
 mani din - maniqueísmo  
@@ -2231,6 +2234,7 @@ meme - oveja
 memo - memoria  
 memo bina - monumento  
 memo note - memorándum (nota)  
+men - fideo (tallarín)  
 mendelevi yum - mendelevio  
 meninge - meninge  
 meninge flame - meningitis  
@@ -2269,7 +2273,6 @@ meza tela - mantel
 meza topo - meseta  
 mi - yo  
 mi su - mi  
-men - fideo (tallarín)  
 migra - migración  
 mikro - micro-  
 mikro bio - microbio  
@@ -2322,6 +2325,7 @@ moka - árbol
 moka bano - tablón  
 moka jang ja - carpintero  
 moka jong parke - arboreto  
+moka kane - estaca  
 moka mate - madera  
 moka tana - leño (tronca)  
 mol ja - molinero  
@@ -3145,8 +3149,6 @@ shia islam din - chiismo (chía)
 shifu - maestro (profesor)  
 shikaya - queja (lamento)  
 shike - elegante (chic)  
-sim - corazón  
-sina - creencia (fe)  
 shindau din - sintoísmo  
 shipi - mojado  
 shir - poema  
@@ -3163,8 +3165,9 @@ shoke - choque (sacudida)
 shopi - compras (shopping)  
 shopi ja - comprador  
 shou - exposición (espectáculo)  
-shukra - gracias  
-shukra da - gracias a (merced a)  
+shukur - gracias  
+shukur ta - gratitud  
+shukur ze - gracias a (merced a)  
 shula - educación  
 shula guru - maestro (profesor, docente)  
 shula ja - estudiante  
@@ -3202,9 +3205,11 @@ sili sili - cadena
 sili tika - eslabón  
 silis - silicio  
 silko - seda  
+sim - corazón  
 sim - ideología (doctrina, -ismo)  
 simple - simple  
 sin - señal (letrero, indicio)  
+sina - creencia (fe)  
 sina - pecho (seno, tórax)  
 sina kasa - caja torácica  
 sina plate - peto  
@@ -3418,7 +3423,6 @@ tika - pedazo
 tikete - boleto  
 tim - equipo  
 Timor - Timor  
-halte - parada (alto)  
 tipe - tipo (género)  
 tire - tirar  
 tire dara - corriente de resaca  
@@ -3532,11 +3536,11 @@ Valis e Futuna nesi - Wallis y Futuna
 valu - valor  
 vampir - vampiro  
 vampir ohtopus - calamar vampiro  
+vanadi yum - vanadio  
+vanila - vainilla  
 vanu - diversión  
 vanu di - divertido  
 vanu gi - jugete  
-vanadi yum - vanadio  
-vanila - vainilla  
 Vanuatu - Vanuatu  
 var - día de semana  
 var cheti - domingo  
@@ -3625,8 +3629,8 @@ vutu - objeto (artículo)
 ####X - X  
 xenon - xenón  
 ####Y - Y  
-ya - él o ella  
 ya - sufijo para regiónes y sustantivos abstractos  
+ya - sí  
 Yahve - Yahvé (Jehová)  
 yake - yac  
 yaki - aproximadamente  
@@ -3643,14 +3647,14 @@ yatim - huérfano
 yatim dom - orfanato  
 yau - necesitar  
 yau di - necesario  
-yauta - necesidad  
-ye - sí  
+yau ta - necesidad  
+ye - él o ella  
 yehudi - judío  
 yehudi din - judaísmo  
 yei - yupi  
 Yemen - Yemen  
-Yesu - Jesús  
-Yesu mesi - Jesucristo  
+Yesa - Jesús  
+Yesa Mesi - Jesucristo  
 yezi - coco  
 yo - algún  
 yo jan - algién  
@@ -3711,8 +3715,6 @@ zoku - todavía (aún)
 zoku di - continuo (analógico)  
 zombi - zombi  
 zona - cinturón (zona)  
-moka kane - estaca  
-kane minte - hierbabuena  
 zou - animal (bestia)  
 zou bagi - zoo  
 zou kata - fábula  
@@ -3731,4 +3733,3 @@ zumarde - esmeralda
  - lluvioso (pluvioso)  
  - llover  
  - adversario (oponente)  
-bus halte - parada de autobús  
