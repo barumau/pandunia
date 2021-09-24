@@ -34,7 +34,7 @@ acento - bari fon
 aceptar - fa oke  
 aciano (azulejo) - blu sentaure  
 aclarar (clarificar) - fa klar  
-aconsejar - fa sela  
+aconsejar - fa sel  
 acontecimiento (caso, suceso, evento) - kas  
 acordar - fa sam rai  
 acordarse - fa memo  
@@ -202,7 +202,7 @@ análisis de datos - data fen gata
 anón (ates, saramuyo) - ata  
 aparecer - be zai  
 apartarse (desviarse) - be rute galte  
-apellido - famili name  
+apellido - famili nam  
 aplicación - aplika  
 aprender (estudiar) - fa shula  
 apropriado (apto, oportuno) - hapu  
@@ -466,6 +466,7 @@ bufón - bufon
 Bulgaria - Bolgaria  
 burbuja (pompa) - lili bol  
 Burkina Faso - Burkina Faso  
+burocracia - buro krati  
 burro (asno) - iha  
 Burundi - Rundi  
 bus (autobús) - bus  
@@ -501,7 +502,7 @@ cagar - fa shite
 caimán (aligátor, yacaré) - korte krokodil  
 caja (baúl, cofre, estuche) - sanduku  
 caja (caja registradora) - pesa kasa  
-caja torácica - sina kasa  
+caja torácica - sine kasa  
 cajero - pesa kasa ja  
 cajón (gaveta) - tire sanduku  
 cal - kalsi mate  
@@ -548,6 +549,7 @@ canal (cauce, acequia, foso, zanja) - kanal
 cancelar - fa siro  
 canción - chante  
 canción de cuna (nana) - lala chante  
+candado - pende sor  
 candela (unidad de intensidad luminosa) - kandela  
 canguro - kangaru  
 cannabis (hachís, marihuana) - ganja  
@@ -579,7 +581,7 @@ carga (pesa) - karga
 cargar (subir) - nete dona  
 cargar -   
 cargar - fa karga  
-cargo - ofis poze  
+cargo - guan  
 Caribe - Karibe  
 carne - nama  
 carne de cerdo - goro nama  
@@ -653,6 +655,7 @@ cereza - cheri
 cerio - ceres yum  
 cero (ninguno) - siro  
 cerradura (candado) - sor  
+cerrojo (pestillo) - kane sor  
 cerveza (birra) - bir  
 cerámica - serami  
 cesio - cesi yum  
@@ -813,13 +816,13 @@ conocido -
 consecuencia (siguiente) - pos  
 conseguir (obtener, recibir) - daku  
 consejero (asesor) - mentor  
-consejo - sela loga  
+consejo - sel  
 conservar (preservar, mantener) - hafiza  
 considerar (reflexionar, pensar en) - hem  
 consonante - kinar fon  
 constitución - baze kanun  
 construir (edificar) - fa bina  
-consultor - kon sela ja  
+consultor - kon sel ja  
 contaminación (corrupción, porquería, suciedad) - najis  
 contar - fa nomer  
 contenedor - in gi  
@@ -839,7 +842,7 @@ copiar - fa kopi
 copérnico - koperni yum  
 coral - koral  
 corazón (núcleo) - kerne  
-corazón - sim  
+corazón - shim  
 Corea - Chosen  
 Corea del Norte - Norde Chosen  
 Corea del Sur - Sude Chosen  
@@ -987,8 +990,8 @@ de (posposición de posesión) - su
 de lado - late  
 debajo - na niche  
 debatir (discutir) - fa lon  
-deber (necesitar) - deve  
-deber (se recomienda) - sela  
+deber (necesitar) - mus  
+deber (se recomienda) - be sel  
 deci- - desi  
 decibelio - desi bel  
 deciembre - mes des du  
@@ -1213,7 +1216,7 @@ encontrarse (estar, situarse) - be loka
 encurtido - achar di  
 encurtir - fa achar  
 enderezar (poner recto) - fa orto  
-endónimo - in name  
+endónimo - in nam  
 enemigo - dus jan  
 energía - energi  
 energía nuclear - kerne energi  
@@ -1350,31 +1353,31 @@ europio - europa yum
 evaluación (crítica) - piping  
 evangelio - eu anjil  
 eviar por correo - fa posta  
-evidente - ekso vide di  
+evidente - vai vide di  
 exacto (preciso) - juste  
 exangüe - sange hin  
-excavar - fa ekso kave  
+excavar - fa vai kave  
 excelente - bon sifa di  
 excepto (menos) - a min da  
-excluir - fa ekso klus  
-exclusivo - ekso klus di  
+excluir - fa vai klus  
+exclusivo - vai klus di  
 existir (actualmente) - zai  
-exoplaneta (planeta extrasolar) - ekso planete  
+exoplaneta (planeta extrasolar) - vai planete  
 explorador - logi safar ja  
 explorar - brauza  
 explosionar - be bum  
 explosión (estallado) - bum  
 explotar (estallar) - be bum  
-exponer (revelar) - ekso poze  
-exportar - ekso mise  
+exponer (revelar) - vai poze  
+exportar - vai mise  
 exposición (espectáculo) - shou  
-expulsar (exceptuar, excepto) - fa ekso  
-exterior - ekso di  
-extractor - ekso trata gi  
-extraer - fa ekso trata  
-extranjero - ekso desha di  
-exógeno - ekso jene di  
-exónimo - ekso name  
+expulsar (exceptuar, excepto) - fa vai  
+exterior - vai di  
+extractor - vai trata gi  
+extraer - fa vai trata  
+extranjero - vai desha di  
+exógeno - vai jene di  
+exónimo - vai nam  
 ####F - F  
 facción - shia  
 facilidad - fasil ta  
@@ -1422,7 +1425,7 @@ final (último) - fin me
 Finlandia - Suomi  
 fino (delgado, delicado) - fine  
 fiordo - fiorde  
-firmar - name kitabu  
+firmar - nam kitabu  
 fisicoculturismo (culturismo, musculación) - muskul bina  
 fisión nuclear - kerne chira  
 flecha - fleche  
@@ -1461,12 +1464,12 @@ fruta - frute
 frío - leng  
 fuego - hogo  
 fuente (manantial) - fonte  
-fuera (exterior) - ekso  
+fuera (exterior) - vai  
 fuerte - lika di  
 fuerza - lika  
 fuerza aérea - air gun  
 funcionar - funsi  
-funcionario - ofis ja  
+funcionario - guan ja  
 fundador - baze ja  
 fundar (basar) - fa baze  
 fusionar (fundir) - be yong liga  
@@ -1605,6 +1608,7 @@ Guinea-Bisáu - Bisau Ginia
 guitarra - gitar  
 gujaratí - gujarati  
 gul - gul  
+gusano de seda - silke larva  
 gustar (complacer) - fa suka  
 gustarse (disfrutar) - be suka  
 gustarse (querer) - fa fili  
@@ -1691,7 +1695,7 @@ hombre (señor) - matur man
 hombro - kanta  
 homorromántico - sam romanse di  
 homosexual - sam sekse di  
-homónimo - sam name  
+homónimo - sam nam  
 Honduras - Onduras  
 honesto (seguramente, amén) - amen  
 Hong Kong - Hong Gong  
@@ -1800,15 +1804,15 @@ inmigrante - in migra ja
 inmigrar - in migra  
 innato (endógeno) - in jene di  
 innecesario - no yau di  
-innominado - name hin  
+innominado - nam hin  
 inodoro (wáter, retrete) - tualete  
 inquisitivo (curioso) - sabe vol ja  
 insecto - dudu  
 insomnio - an sona  
 instrucciones (receta) - reseta  
 instrumento de arco - tichin  
-insultar (ofender) - fa dus name  
-insulto (ofensa) - dus name  
+insultar (ofender) - fa dus nam  
+insulto (ofensa) - dus nam  
 insulto (ofensa, afrenta) - insulte  
 intención (intento) - nia  
 intenso (brusco, ácido, fuerte, afilado, rápido) - teza  
@@ -1832,7 +1836,7 @@ invitar - ching lai
 inyección - jusha  
 inyectar - jusha  
 ion - ion  
-ir - be kite  
+ir - ja  
 ira (furia) - furi ta  
 Iraq - Iraki  
 iridio - iris yum  
@@ -1882,7 +1886,7 @@ jefe - shefe
 Jersey - Jerze  
 Jesucristo - Yesa Mesi  
 Jesús - Yesa  
-jira (pícnic) - ekso yam  
+jira (pícnic) - vai yam  
 jirafa - jirafa  
 joder (coger, copular) - choda  
 Jordania - Urdun  
@@ -1964,6 +1968,7 @@ lechuga - letus
 leer - duku  
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele di  
+lejos (fuera) - for  
 lejos - do long  
 lengua (idioma, hablar, comunicación) - basha  
 lengua - lisan  
@@ -2026,8 +2031,8 @@ Lituania - Lietuva
 lituano - lietuva basha  
 livermorio - livermor yum  
 llama - liama  
-llamar (poner) - fa name  
-llamarse - be name  
+llamar (poner) - fa nam  
+llamarse - be nam  
 llanura - plate topo  
 llave - chabi  
 llenar - fa pul  
@@ -2258,7 +2263,6 @@ mina - kuang shan
 mineral (mena) - kuang  
 minero - kuang ja  
 minimalismo - minim sim  
-ministerio (departamento) - ofis  
 ministerio - ministre ofis  
 ministro - ministre ja  
 minoría - min di fen  
@@ -2428,8 +2432,8 @@ nobelio - nobel yum
 nobiembre - mes des un  
 noche (tarde) - sham  
 noche - noche  
-nombre - name  
-nombre de usuario - uze ja name  
+nombre - nam  
+nombre de usuario - uze ja nam  
 norma - norma  
 norma - norma  
 norte - norde  
@@ -2475,7 +2479,7 @@ oasis - vase
 objetivo - dike  
 objeto (artículo) - vutu  
 oblicuo (torcido) - tercha  
-obligación (compulsión) - deve ta  
+obligación (compulsión) - mus ta  
 obsidiana - osidian  
 occidental - veste di  
 Oceanía - Oceania  
@@ -2495,8 +2499,9 @@ océano Índico - Barti Hai
 odiar - fa hen  
 odio - hen  
 oeste - veste  
-oficial - ofis di  
-oficina - ofis kan  
+oficial - guan di  
+oficina - buro  
+oficina - buro kan  
 oficina de correos - posta kan  
 oganesón - oganeson  
 ogro (gnomo, trol, duende, trasgo) - gui  
@@ -2647,11 +2652,11 @@ pausa - pauza
 pavo (guajalote) - dinde  
 paz - pase  
 país (nación, estado, terra) - desha  
-país extranjero - ekso desha  
+país extranjero - vai desha  
 Países Bajos - Nederlande  
 pecado - dus karma  
 pecho (busto) - buste  
-pecho (seno, tórax) - sina  
+pecho (seno, tórax) - sine  
 pedal - pedal  
 pedazo - tika  
 pedernal (sílex) - hogo sheku  
@@ -2716,7 +2721,7 @@ pescar - kape yo peshe
 pescar - saide yo peshe  
 peso (gravedad) - veze  
 pestaña - oko kesha  
-peto - sina plate  
+peto - sine plate  
 petróleo - petra nefte  
 pez (pescado) - peshe  
 pez globo - balon peshe  
@@ -2945,7 +2950,7 @@ quimono - kimono
 quiosco (kiosco) - kioske  
 quitar (eliminar, borrar) - fa an zai  
 quitar (pelar) - tire yo pil  
-quitar (remover) - fa kite  
+quitar (remover) - fa for  
 quién - ke jan  
 qué - ke  
 qué tipo de - ke yang  
@@ -3137,7 +3142,7 @@ sala de chat (tertuliadero) - blabla kan
 salchicha - sosis  
 salida - chuti mun  
 salino - sal di  
-salir (egresar) - be ekso  
+salir (egresar) - be vai  
 salir (irse) - fa chuti  
 salmodiar - mantra  
 salmón (trucha) - salmon  
@@ -3180,12 +3185,12 @@ se - se
 seaborgio - siborge yum  
 secar - fa gan  
 seco (árido) - gan  
-secretario - sekretar ja  
-secretaría - sekretar ofis  
+secretario - buro ja  
+secretaría - buro ja grupe  
 secreto - sir  
 secta (culto) - din shia  
 sed - sui yau  
-seda - silko  
+seda - silke  
 seguir - fa pos  
 segundo - sekunde  
 seguro - sekur  
@@ -3327,7 +3332,7 @@ Surinam - Surinam
 sushi - sushi  
 sustancia (materia) - mate  
 sustancia - kimi  
-sustantivo - name loga  
+sustantivo - nam loga  
 sustituir (reemplezar) - fa vise  
 susurrar (curjir) - shasha  
 Svalbard - Sualbarde  
@@ -3530,7 +3535,7 @@ té - chai
 técnica - tehni  
 télugu - Telugu  
 Tíbet - Bote  
-título - tema name  
+título - tema nam  
 tóxico - toksi di  
 tú (usted) - tu  
 túnel - tunel  

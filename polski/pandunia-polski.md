@@ -304,7 +304,6 @@ be jene - urodzić się, rodzić się
 be jin - posuwać się do przodu (dokonywać postępu, wejść)  
 be kai - otworzyć się, otwierać się  
 be karibu - zbliżać się (zbliżyć się)  
-be kite - iść (przemieścić się)  
 be krus - przejść w poprzek  
 be lashe - pozostawać w tyle (zwlekać)  
 be loka - być umiejscowionym (być ulokowanym, stać)  
@@ -312,7 +311,7 @@ be mal - należeć
 be mata - umrzeć, umierać  
 be migra - przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)  
 be mirde - niknąć (blaknąć, gasnąć, słabnąć)  
-be name - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
+be nam - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 be niche - iść w dół (iść pod spód, iść na dno)  
 be pasi - cierpieć  
 be pute - rozłożyć się (rozkładać się, gnić, psuć się)  
@@ -323,6 +322,7 @@ be retro - wrócić, wracać, wycofać się, wycofywać się
 be rupa - wyglądać (wydawać się)  
 be rute galte - zbłąkać się (wykoleić się)  
 be sam rupa - być podobnym, być jak  
+be sel - powinien  
 be shuru - zaczyna (zacząć, rozpoczynać, rozpocząć)  
 be sona - spać  
 be suka - lubić, cieszyć się  
@@ -439,6 +439,10 @@ bulbul - słowik
 bum - wybuch (eksplozja)  
 burge - zamek, forteca, twierdza  
 Burkina Faso - Burkina Faso  
+buro - biuro, urząd  
+buro ja - sekretarz  
+buro ja grupe - sekretariat  
+buro kan - biuro (pokój)  
 bus - autobus, autokar  
 bus halte - przystanek autobusowy  
 buste - biust  
@@ -615,8 +619,6 @@ deu krati - teokracja
 deu logi - teologia  
 deu nagar zi - dewanagari  
 deu sofi - teozofia  
-deve - musieć  
-deve ta - przymus  
 dia - dzień  
 dia yam - obiad, lunch  
 dike - cel  
@@ -698,7 +700,7 @@ dura zaman - czas (epoka, era)
 dus darja - dezaktualizować (pogorszyć)  
 dus funsi - awaria (wadliwe działanie)  
 dus hal - trudność (trud)  
-dus name - obraza (obelga)  
+dus nam - obraza (obelga)  
 dus sin di - złowieszczy  
 dus vide - brzydki  
 dus zar - zły los  
@@ -716,14 +718,6 @@ eko jene di - dziki
 eko logi - ekologia (nauka o środowisku)  
 ekore - wiewiórka  
 ekran - ekran  
-ekso - zęwnętrzny  
-ekso desha - zagranica  
-ekso desha di - zagraniczny  
-ekso di - zewnętrzny  
-ekso mise - eksportować (wyeksportować)  
-ekso name - egzonim  
-ekso planete - egzoplaneta  
-ekso yam - piknik  
 Ekuador - Ekwador  
 elasti - elastyczny  
 eletro - elektryczność  
@@ -808,8 +802,7 @@ fa dosil - oswoić (oswajać, tresować, trenować)
 fa dosil jene - udomowić (kultywować)  
 fa duka - zasmucić (zasmucać)  
 fa dura - minąć, mijać (czas)  
-fa dus name - obrazić  
-fa ekso - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
+fa dus nam - obrazić  
 fa english kitabu - anglizować (zanglizować)  
 fa eskulte - rzeźbić  
 fa fantazi - wyobrazić, wyobrażać, fantazjować  
@@ -889,7 +882,7 @@ fa model - modelować (projektować, zaprojektować)
 fa mol - zemleć (mleć, mielić)  
 fa multi do du - podwajać (podwoić, pomnożyć przez dwa)  
 fa muzika - grać muzykę  
-fa name - nazwać, nazywać, wezwać, wzywać  
+fa nam - nazwać, nazywać, wezwać, wzywać  
 fa node - zawiązywać (zawiązać węzeł)  
 fa nomer - liczyć  
 fa nomi - zarządzać (organizować, kierować)  
@@ -973,6 +966,7 @@ fa trati - zgodzić się (umówić się)
 fa truke - oszukać (oszukiwać  
 fa turbe - przeszkodzić, przeszkadzać, robić kłopot  
 fa un she - jednoczyć  
+fa vai - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
 fa vanu - bawić, zabawiać  
 fa vise - zastąpić (podstawić, zamienić)  
 fa vode - obiecać, angażować się  
@@ -985,7 +979,7 @@ faida she - materiał (składnik, zasób)
 false - fałszywy, nieprawdziwy  
 false vide - iluzja (halucynacja)  
 famili - rodzina  
-famili name - nazwisko, imię rodziny  
+famili nam - nazwisko, imię rodziny  
 fan - błoto  
 fan defa bano - błotnik  
 fan di - błotnisty  
@@ -1255,6 +1249,9 @@ gua - jaskinia
 Guadelupe - Gwadelupa  
 guai - dziwny  
 Guam - Guam  
+guan - urząd, pozycja, stanowisko, funkcja  
+guan di - oficjalny  
+guan ja - funkcjonariusz, urzędnik  
 Guangjou - Kanton  
 Guatemala - Gwatemala  
 gubu - hipopotam  
@@ -1438,7 +1435,7 @@ in ha - zawierać
 in jene di - wewnętrzny  
 in liste - spis treści (tabela zawartości)  
 in mise - importować (zaimportować)  
-in name - endonim  
+in nam - endonim  
 in pushe - ścisnąć (sciskać, wycisnąć)  
 in she - treść (zawartość)  
 Indonesi - Indonezja  
@@ -1470,6 +1467,7 @@ Islande - Islandia
 Israel - Izrael  
 Italia - Italia, Włochy  
 ####J - J  
+ja - iść  
 ja - przyrostek dla wykonawcy  
 jaga - obudzić, budzić  
 jaga - przebudzony, przytomny  
@@ -1705,7 +1703,6 @@ kesha bande - opaska do włosów
 kesha sabun - szampon  
 ketel - czajnik  
 ki - że  
-kio - most  
 kilogram - kilogram (kg)  
 kilomitre - kilometr  
 kimi di - chemiczny  
@@ -1721,6 +1718,7 @@ kino grafi - kino
 kino grafi arte - kinematografia  
 kino grafi di - kinowy  
 Kinshasa Kongo - Demokratyczna Republika Konga  
+kio - most  
 kioske - kiosk  
 Kipris - Cypr  
 kira - wynająć, wynajmować, zatrudnić, zatrudniać  
@@ -2280,6 +2278,8 @@ mur - mur, ściana
 mur kaguji - tapeta  
 murche - mrówka  
 Muritania - Mauretania  
+mus - musieć  
+mus ta - przymus  
 mushu - mysz  
 muskete - muszkiet  
 muskete ja - muszkieter  
@@ -2310,11 +2310,11 @@ nagar - miasto
 nagar di - miejski  
 nahun - paznokieć  
 Naijiria - Nigeria  
+nam - imię, nazwa  
+nam hin - bezimienny  
+nam kitabu - podpis (autograf)  
+nam loga - rzeczownik  
 nama - mięso  
-name - imię, nazwa  
-name hin - bezimienny  
-name kitabu - podpis (autograf)  
-name loga - rzeczownik  
 Namibia - Namibia  
 nanas - ananans  
 nano - nano-  
@@ -2440,11 +2440,6 @@ nude sim ja - nudysta
 o - lub, albo  
 Oceania - Oceania  
 Odisa - orija  
-ofis - biuro, urząd  
-ofis di - oficjalny  
-ofis ja - funkcjonariusz, urzędnik  
-ofis kan - biuro (pokój)  
-ofis poze - urząd, pozycja, stanowisko, funkcja  
 oganeson - oganesson  
 ohtopus - ośmiornica  
 oke - okej, spoko, akceptowalny  
@@ -2580,6 +2575,7 @@ pelmen - kluska, knedel, pieróg; ravioli, pelmeni
 pelpel - motyl  
 pende - powiesić, wieszać  
 pende kardon - oset zwisły  
+pende sor - kłódka  
 penis - penis  
 pente - namalować, malować  
 pente ja - malarz  
@@ -2889,7 +2885,7 @@ Salvador - Salwador
 sam - taki sam  
 sam desha jan - rodak, ziomek, krajan  
 sam emos - współczucie  
-sam name - homonim  
+sam nam - homonim  
 sam rai - porozumienie  
 sam romanse di - homoromantyczny  
 sam sekse di - homoseksualny  
@@ -2940,8 +2936,6 @@ saya - cień
 se - sam, siebie  
 se kon - się (nawzajem, wzajemnie)  
 se kon su - wzajemny  
-sekretar ja - sekretarz  
-sekretar ofis - sekretariat  
 sekse - seks, stosunek płciowy  
 sekse di - seksowny, ponętny  
 sekse logi - seksuologia  
@@ -2949,8 +2943,7 @@ sekunde - sekunda
 sekur - bezpieczny  
 sekur kode - hasło  
 sekur nomer - osobisty numer identyfikacyjny (pin)  
-sela - powinien  
-sela loga - rada, porada  
+sel - rada, porada  
 selen yum - selen  
 selge - boćwina (botwina)  
 selu - komórka (biologia)  
@@ -3021,6 +3014,7 @@ shenga - zwycięstwo, wygrana
 shia islam din - szyism  
 shifu - mistrz (sensei)  
 shike - elegancki, szykowny  
+shim - serce  
 shindau din - shintoizm, sintoizm  
 shipi - mokry (wilgotny)  
 shir - poemat  
@@ -3073,14 +3067,13 @@ sili - seria, szereg
 sili nete - kolczuga  
 sili sili - łańcuch  
 silis - krzem  
-silko - jedwab  
-sim - serce  
+silke - jedwab  
 simple - prosty, nieskomplikowany  
 sin - znak, sygnał  
 sina - wiara, wierzenie, kredo  
-sina - pierś  
-sina kasa - klatka piersiowa  
-sina plate - napierśnik  
+sine - pierś  
+sine kasa - klatka piersiowa  
+sine plate - napierśnik  
 sing - gwiazda  
 singa - lew  
 Singapur - Singapur  
@@ -3257,7 +3250,7 @@ telu yum - tellur
 Telugu - telugu  
 tema - temat, motyw  
 tema - być o; dyskutować o  
-tema name - tytuł (nagłówek)  
+tema nam - tytuł (nagłówek)  
 tenesi yum - tenesyn, tennessine  
 tenis - tenis  
 tenta - kusić, nakłonić, nakłaniać  
@@ -3370,12 +3363,20 @@ Urushalem - Jerozolima
 Uzbeki - Uzbekistan  
 uze - użyć, używać, zatrudnić, stosować  
 uze ja - użytkownik  
-uze ja name - nazwa użytkownika  
+uze ja nam - nazwa użytkownika  
 ####V - V  
 va - wow!, łoł!, jej!  
 vaf - pies  
 vagina - wagina  
 vagina flame - zapalenie pochwy  
+vai - zęwnętrzny  
+vai desha - zagranica  
+vai desha di - zagraniczny  
+vai di - zewnętrzny  
+vai mise - eksportować (wyeksportować)  
+vai nam - egzonim  
+vai planete - egzoplaneta  
+vai yam - piknik  
 vakil - reprezentować  
 vakil ja - reprezentant (przedstawiciel)  
 vali - dolina  

@@ -114,7 +114,6 @@ be halte - 止まる
 be hogo - 燃える  
 be jaga - 起きる  
 be kino - 動く  
-be kite - 行く  
 be pute - 腐敗  
 be rute galte - 逸れる  
 be sabi vol - 訝る (-かしら)  
@@ -176,6 +175,8 @@ bufete - ビュッフェ (バイキング)
 buku - 本 (書物)  
 bum - 爆発  
 burge - 要塞  
+buro ja - 秘書  
+buro krati - 官僚制  
 bus halte - バス停  
 buta - ブーツ  
 ####C - C  
@@ -299,10 +300,6 @@ dush - シャワー
 einstein yum - アインスタイニウム  
 eko jene di - 野生  
 ekore - 栗鼠  
-ekso - 外  
-ekso jan - 部外者 (アウトサイダー)  
-ekso planete - 系外惑星  
-ekso verse di - 外向的な  
 eletro - 電気  
 eletro lin - 電線  
 eletro radi - 雷 (稲妻)  
@@ -333,7 +330,6 @@ fa dante - 咬む
 fa dika - 狙う  
 fa dosil - 馴らす  
 fa dus forma - 醜くする  
-fa ekso - 追出 (退ける, 除いて)  
 fa fatu - 罰する  
 fa fen gata - 見つめ直す  
 fa glu - 張る (付く)  
@@ -369,6 +365,7 @@ fa sual - 聞く
 fa sundar daka - 飾る  
 fa tele fon - 電話する  
 fa truke - 騙す  
+fa vai - 追出 (退ける, 除いて)  
 fa ver - ただす  
 faida - 使用 (為, 利)  
 false vide - 幻覚  
@@ -569,6 +566,7 @@ ironi - 反語 (皮肉)
 ironi di - 反語的  
 islam din - イスラム教  
 ####J - J  
+ja - 行く  
 jamul - フトモモ  
 jan - 人 (者, 員, 徒)  
 janela - 窓  
@@ -642,6 +640,7 @@ kancha daka - 釉薬
 kandi - キャンデー  
 kane kasa - 檻 (篭, ケージ)  
 kane minte - スペアミント  
+kane sor - 掛け金  
 kangaru - カンガルー  
 kano - カヌー  
 kantalupo melon - カンタロープ  
@@ -679,7 +678,6 @@ Keme - 古代エジプト
 kerne - 核  
 kesha - 毛  
 kesha hin - 無毛  
-kio - 橋 (橋梁)  
 kilo - 千 (１０００)  
 kimi - 物質  
 kimi logi - 化学  
@@ -688,6 +686,7 @@ kimono - 着物
 kinar - 際 (端)  
 kinar baryer - 柵 (垣)  
 kino grafi - 映画  
+kio - 橋 (橋梁)  
 kira - 賃貸  
 kisma - 運命 (宿命)  
 kitabu forma - 書式付け  
@@ -708,7 +707,7 @@ kon bon - 合わせる (適する)
 kon forma - 即する  
 kon gong - 共同して働  
 kon pasi - 同情  
-kon sela ja - 顧問  
+kon sel ja - 顧問  
 konserte - コンサート (音楽会)  
 koperni yum - コペルニシウム  
 kopi - コピー  
@@ -941,10 +940,10 @@ na poli mar - よく (屡々)
 najis - 汚れ (汚染)  
 najis bindu - 染み (汚点)  
 najis di - 汚い  
+nam - 名前  
+nam hin - 名無し (無名の)  
+nam kitabu - 署名する (サイン)  
 nama - 肉  
-name - 名前  
-name hin - 名無し (無名の)  
-name kitabu - 署名する (サイン)  
 nasi medi - 国際的  
 natri - ナトリウム  
 nau - 脳  
@@ -1041,6 +1040,7 @@ pei gong di - プロフェッショナル
 pei gong ja - プロフェッショナル  
 pei gong jiu - キャリア  
 pelpel - チョウ  
+pende sor - 南京錠  
 pente - 絵の具 (ペンキ)  
 pente brosha - 絵筆  
 pente ja - 画家 (絵かき)  
@@ -1210,6 +1210,7 @@ shi - さん (氏)
 shia islam din - シーア派  
 shifu - 先生  
 shikaya - 不平 (不満)  
+shim - 心  
 shipi - 湿っぽい  
 shir - 詩  
 shite - 糞 (屎)  
@@ -1238,8 +1239,8 @@ sikle ja - チャリダー
 sili - 系列  
 sili tika - 連結  
 silis - ヶィ素  
-silko - 絹  
-sim - 心  
+silke - 絹  
+silke larva - 蚕 (家蚕)  
 sim - 主义  
 sing - 星  
 sir plan - 陰謀  
@@ -1303,7 +1304,7 @@ tela gi - 織機
 tele fon gi - 電話  
 teleskope - 望遠鏡 (テレスコープ)  
 telu yum - テルル  
-tema name - 題名 (書名, タイトル)  
+tema nam - 題名 (書名, タイトル)  
 ten bil - とっつきやすい (アクセス可能)  
 ten fasil ta - アクセシビリティ  
 tenesi yum - テネシン  
@@ -1345,6 +1346,10 @@ uze bil di - 使用可能
 va - わあ  
 vaf - 犬 (狗)  
 vagina - 膣 (ワギナ)  
+vai - 外  
+vai jan - 部外者 (アウトサイダー)  
+vai planete - 系外惑星  
+vai verse di - 外向的な  
 vali - 谷  
 vali susan - キミカゲソウ (スズラン)  
 valu - 価値  

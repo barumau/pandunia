@@ -141,7 +141,6 @@ be fobi - 害怕
 be hogo - 烧  
 be jaga - 睡醒  
 be kino - 动  
-be kite - 去  
 be mal - 属于  
 be pute - 腐烂  
 be retro - 返回 (回来)  
@@ -200,6 +199,8 @@ buku - 书
 bulbul - 夜莺  
 bum - 爆炸  
 burge - 要塞  
+buro ja - 秘书  
+buro krati - 官僚制  
 bus halte - 汽车站  
 buton - 扣子  
 ####C - C  
@@ -314,11 +315,6 @@ dush - 淋浴
 e - 和  
 einstein yum - 锿  
 ekore - 松鼠  
-ekso - 外  
-ekso jan - 外人 (局外人)  
-ekso planete - 系外行星  
-ekso verse di - 外向的  
-ekso yam - 野餐  
 eletro lin - 电缆 (电线)  
 eletro radi - 闪电  
 elfe - 精灵  
@@ -345,13 +341,13 @@ fa dosil - 驯养
 fa dus forma - 变丑  
 fa fen gata - 分析  
 fa fobi - 吓唬  
+fa for - 除去  
 fa gong - 工作  
 fa hisabu - 计算  
 fa hogo - 燃烧  
 fa in klus - 包括  
 fa kave - 挖  
 fa kino - 动  
-fa kite - 除去  
 fa lai - 带来  
 fa linke - 连接  
 fa loka - 放置  
@@ -515,6 +511,7 @@ halo - 哈啰 (哈喽)
 ham di - 重要  
 hamil - 怀孕  
 Han - 汉族  
+han guan ja - 官  
 hande - 手  
 hande shaka - 胳膊  
 hapu - 合适  
@@ -572,6 +569,7 @@ iode - 碘
 iris yum - 铱  
 islam din - 回教 (伊斯蘭教)  
 ####J - J  
+ja - 去  
 jamul - 閻浮樹  
 jan - 人  
 janela - 窗戶  
@@ -642,6 +640,7 @@ kancha daka - 釉
 kandi - 糖果  
 kane kasa - 笼  
 kane minte - 留兰香  
+kane sor - 门闩  
 kangaru - 袋鼠  
 kanon - 经典  
 kantalupo melon - 鈔皮瓜  
@@ -676,13 +675,13 @@ Keme - 古埃及
 kerne - 核心  
 kesha brosha - 发刷  
 kesha hin - 无毛  
-kio - 桥  
 kimi - 物质  
 kimi logi - 化学  
 kimi so - 元素  
 kimono - 和服  
 kinar - 边  
 kinar baryer - 篱笆  
+kio - 桥  
 kisma - 命運  
 kitabu - 写  
 kitabu chuli - 文字处理 (字处理)  
@@ -702,7 +701,7 @@ komputa di - 数字的
 kon - 共同 (一起)  
 kon bon - 相配  
 kon gong - 合作  
-kon sela ja - 顾问  
+kon sel ja - 顾问  
 kon trati - 公約  
 konserte - 音乐会  
 kopi - 摹本 (拷貝)  
@@ -912,6 +911,7 @@ mum melon - 冬瓜 (白瓜)
 mur - 墙壁  
 mur kaguji - 壁纸 (墙纸)  
 murche - 蚂蚁  
+mus - 应该 (必须)  
 mushu - 鼠  
 muskul bina - 健美运动  
 musli - 木斯里 (瑞士麦片)  
@@ -924,10 +924,10 @@ na ni - 这里 (这儿)
 na poli mar - 经常  
 nadir mar - 很少  
 najis - 污染物  
+nam - 名  
+nam hin - 无名  
+nam kitabu - 签署  
 nama - 肉  
-name - 名  
-name hin - 无名  
-name kitabu - 签署  
 nasi medi - 国际  
 natri - 钠  
 nau - 脑  
@@ -1031,6 +1031,7 @@ pei gong - 职业
 pelmen - 饺子  
 pelpel - 蝴蝶  
 pende kardon - 垂花飞廉  
+pende sor - 挂锁  
 pente - 油漆 (颜料)  
 pente brosha - 画笔  
 pente tela - 画布  
@@ -1198,6 +1199,7 @@ shia - 派系
 shia islam din - 什叶派  
 shifu - 师傅  
 shikaya - 怨言  
+shim - 心  
 shipi - 湿  
 shir - 诗  
 shish - 扦子  
@@ -1230,8 +1232,8 @@ sikle ja - 骑自行车的人
 sili - 系列  
 sili tika - 连结  
 silis - 硅  
-silko - 丝绸  
-sim - 心  
+silke - 丝绸  
+silke larva - 家蚕 (蚕宝宝)  
 sing - 星  
 sir plan - 阴谋 (密谋)  
 siro - 零 (〇)  
@@ -1296,7 +1298,7 @@ tele vide gi - 电视机
 teleskope - 望远镜  
 telu yum - 碲  
 tema - 主题目  
-tema name - 标题  
+tema nam - 标题  
 ten fasil ta - 無障礙環境  
 terbi yum - 铽  
 tercha - 斜的  
@@ -1343,6 +1345,11 @@ uran yum - 铀
 va - 哇  
 vaf - 狗  
 vagina - 阴道  
+vai - 外  
+vai jan - 外人 (局外人)  
+vai planete - 系外行星  
+vai verse di - 外向的  
+vai yam - 野餐  
 vali - 山谷  
 vali susan - 鈴蘭  
 valu - 价值  

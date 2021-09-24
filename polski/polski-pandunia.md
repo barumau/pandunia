@@ -177,7 +177,7 @@ beryl - beril yum
 beton - beton  
 bez - hin  
 bezgłowy - sar hin  
-bezimienny - name hin  
+bezimienny - nam hin  
 bezmózgi - nau hin  
 beznadziejny - asha hin  
 bezpieczny - sekur  
@@ -200,8 +200,8 @@ biromantyczny - du romanse di
 biseksualny - du sekse di  
 biszkopt, ciastko - biskute  
 biurko - gong meza  
-biuro (pokój) - ofis kan  
-biuro, urząd - ofis  
+biuro (pokój) - buro kan  
+biuro, urząd - buro  
 biust - buste  
 bizmut - bismute  
 biznes, interes (aktywność komercyjna) - biznes  
@@ -270,7 +270,7 @@ być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be
 być podobnym, być jak - be sam rupa  
 być przeciw - kontra  
 być umiejscowionym (być ulokowanym, stać) - be loka  
-być wezwanym, być wzywanym, być nazwanym, być nazywanym - be name  
+być wezwanym, być wzywanym, być nazwanym, być nazywanym - be nam  
 być widzianym - be vide  
 być wycentrowanym, być w środku - jung  
 bóbr - kastor  
@@ -582,15 +582,15 @@ echo - mira sonde
 efekt halo - foto gola  
 egipski - misri di  
 Egipt - Misri  
-egzonim - ekso name  
-egzoplaneta - ekso planete  
+egzonim - vai nam  
+egzoplaneta - vai planete  
 einstein - einstein yum  
 ekologia (nauka o środowisku) - eko logi  
 ekonomia - mal nomi  
 ekran - ekran  
 ekskrement, gówno - kaka  
 eksplodować (wybuchnąć, wybuchać) - be bum  
-eksportować (wyeksportować) - ekso mise  
+eksportować (wyeksportować) - vai mise  
 Ekwador - Ekuador  
 elastyczny - elasti  
 elegancki, szykowny - shike  
@@ -604,7 +604,7 @@ emocja, uczucie - emosi
 emocjonalny (uczuciowy) - emosi di  
 emoji (emotkon) - emosi zi  
 emulować (symulować, naśladować, modelować) - fa sam sifa  
-endonim - in name  
+endonim - in nam  
 energia - energi  
 energia nuklearna - kerne energi  
 enzym - enzim  
@@ -679,7 +679,7 @@ francuski naleśnik (crêpe) - france krepe
 frans - france yum  
 fu, fuj - fui  
 funkcja, stanowisko - funsi  
-funkcjonariusz, urzędnik - ofis ja  
+funkcjonariusz, urzędnik - guan ja  
 funt (£) - paunde  
 fuzja (amalgamowanie, łączenie) - yong liga  
 fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerne unta  
@@ -854,7 +854,7 @@ hokej na lodzie - ais hoki
 Holandia (Królestwo Niderlandów) - Nederlande  
 holm - holme yum  
 hologram - holo grafi  
-homonim - sam name  
+homonim - sam nam  
 homoromantyczny - sam romanse di  
 homoseksualny - sam sekse di  
 Honduras - Onduras  
@@ -889,7 +889,7 @@ iluzja (halucynacja) - false vide
 imbir - zinji  
 imbryk (czajnik) - chai pote  
 imbryk do kawy - kafe pote  
-imię, nazwa - name  
+imię, nazwa - nam  
 imperator - imperi ja  
 imperialista - imperi sim ja  
 imperializm - imperi sim  
@@ -932,7 +932,7 @@ Italia, Włochy - Italia
 iterb - yuterbi yum  
 itr - yuter yum  
 Izrael - Israel  
-iść (przemieścić się) - be kite  
+iść - ja  
 iść w dół (iść pod spód, iść na dno) - be niche  
 iść wzdłuż (pójść wzdłuż) - be ging  
 iść, maszerować - fa marche  
@@ -968,7 +968,7 @@ jednoczyć - fa un she
 jednokolorowy (monochromatyczny) - un rang di  
 jednostka miary - metre unta  
 jednoznaczny - un mana di  
-jedwab - silko  
+jedwab - silke  
 jedzenie, posiłek - yam she  
 jej - yei  
 Jemen - Yemen  
@@ -1092,7 +1092,7 @@ klasa, kategoria - klas
 klasyczny - chen yang di  
 klasyfikować, kategoryzować - fa klas  
 klatka - kane kasa  
-klatka piersiowa - sina kasa  
+klatka piersiowa - sine kasa  
 klawiatura - buton bano  
 klawisz, przycisk, przełącznik, guzik - buton  
 klej - glu  
@@ -1275,6 +1275,7 @@ kąpiel - banya
 kąt - gona  
 kąt prosty - orto gona  
 kłuć (żądlić) - fa pin  
+kłódka - pende sor  
 ####L - L  
 lakier - laka  
 lalka, kukiełka, pacynka, marionetka - pupe  
@@ -1578,7 +1579,7 @@ mrówka - murche
 mucha - dom zeze  
 mumia - mum jan  
 mur, ściana - mur  
-musieć - deve  
+musieć - mus  
 muskuł, mięsień - muskul  
 musli - musli  
 muszkiet - muskete  
@@ -1637,7 +1638,7 @@ namiot - hema
 namoczyć (marynować) - pul shipi  
 nano- - nano  
 nanometr - nano mitre  
-napierśnik - sina plate  
+napierśnik - sine plate  
 naprawa - shuli  
 naprawiacz - shulija  
 naprawić, naprawiać - shuli  
@@ -1663,9 +1664,9 @@ nawyk (przyzwyczajenie) - ada
 nawóz - darte bon ja  
 nazista - nasi sosi sim ja  
 nazizm - nasi sosi sim  
-nazwa użytkownika - uze ja name  
-nazwać, nazywać, wezwać, wzywać - fa name  
-nazwisko, imię rodziny - famili name  
+nazwa użytkownika - uze ja nam  
+nazwać, nazywać, wezwać, wzywać - fa nam  
+nazwisko, imię rodziny - famili nam  
 naładować, załadować, obładować, ładować -   
 negatywny (przeciwny, nie) - an  
 negocjować - fa biznes lon  
@@ -1766,9 +1767,9 @@ obiecujący (dobrze wróżący) - bon sin di
 obniżać (obniżyć) - fa tal  
 obozowicz - kampe  
 obrabować, splądrować - luta  
-obraza (obelga) - dus name  
+obraza (obelga) - dus nam  
 obraza, obelga - insulte  
-obrazić - fa dus name  
+obrazić - fa dus nam  
 obrazowy, graficzny; opisowy - grafi di  
 obrać (obierać) - tire yo pil  
 obraźliwy, niemiły, obelżywy - insulte di  
@@ -1815,7 +1816,7 @@ odwiedzić, odwiedzać - fa keka
 offline (nie na linii, poza siecią) - no na lin  
 ofiara - kurban  
 oficer policji, policjant - polis ja  
-oficjalny - ofis di  
+oficjalny - guan di  
 oganesson - oganeson  
 ogień - hogo  
 ognisty - hogo di  
@@ -1996,12 +1997,12 @@ pierdzieć - fa pede
 pierwiastek (jednostki podstawowej) - so  
 pierwszy, numer jeden - un me  
 pierwszy, początkowy - shuru di  
-pierś - sina  
+pierś - sine  
 pierścień - ring  
 pierścień, pierścionek; obrączka - angul ring  
 pies - vaf  
 pień - moka tana  
-piknik - ekso yam  
+piknik - vai yam  
 pilaw - polau  
 pilot - pilote  
 pingwin - pinguin  
@@ -2067,7 +2068,7 @@ poddanie się, uległość, pokora, posłuszeństwo - islam
 poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym - be islam  
 podnosić (podnieść) - fa gau  
 podobny (analogiczny) - sam sifa di  
-podpis (autograf) - name kitabu  
+podpis (autograf) - nam kitabu  
 podróż - safar  
 podróżnik - safar ja  
 podróżować - fa safar  
@@ -2169,7 +2170,7 @@ powierzchnia - fase
 powierzchnia, region, teren - area  
 powiesić, wieszać - pende  
 powietrze - air  
-powinien - sela  
+powinien - be sel  
 powolny (wolny, letargiczny) - lente  
 powrót - retro dau  
 powszechny, uniwersalny - putong  
@@ -2309,7 +2310,7 @@ przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - lai
 przykryć, przykrywać, ukryć, ukrywać - fa daka  
 przykład - misal  
 przymiotnik - sifa loga  
-przymus - deve ta  
+przymus - mus ta  
 przyprawa - masala  
 przyrostek (sufiks) - pos fikse  
 przyrostek dla miejsca - ya  
@@ -2378,7 +2379,7 @@ rachunek (faktura) - fatura
 rachunek (formalny system obliczeń) - kalkul  
 racjonalny, rozsądny - razon di  
 rad - radi yum  
-rada, porada - sela loga  
+rada, porada - sel  
 radio - radi geter  
 radio - radio  
 radioaktywność - ion radi  
@@ -2504,7 +2505,7 @@ rzadki (rozrzedzony, rozproszony) - an jama di
 rzadko - nadir mar  
 rzadkość - rare ta  
 rzecz - she  
-rzeczownik - name loga  
+rzeczownik - nam loga  
 rzeka - rivo  
 rzemieślnik - jang ja  
 rzepka - guta kaske oste  
@@ -2570,8 +2571,8 @@ schody (drabina) - eskale
 seaborg - siborge yum  
 sejsmologia - sismologi  
 sekret - sir  
-sekretariat - sekretar ofis  
-sekretarz - sekretar ja  
+sekretariat - buro ja grupe  
+sekretarz - buro ja  
 seks, stosunek płciowy - sekse  
 seksowny, ponętny - sekse di  
 seksuologia - sekse logi  
@@ -2583,7 +2584,7 @@ Senegal - Senegal
 sensor (detektor, czujka) - sense gi  
 ser - chize  
 Serbia - Serbia  
-serce - sim  
+serce - shim  
 seria, szereg - sili  
 Seszele - Seshel nesi  
 sezam - sesam  
@@ -3001,7 +3002,7 @@ tyrania - zalimta
 tysiąc (kilo-) - kilo  
 tytan - titan yum  
 tytoń - tabaku  
-tytuł (nagłówek) - tema name  
+tytuł (nagłówek) - tema nam  
 tęcza - rang arka  
 tłok - pusha gi  
 tłumacz - tarjum ja  
@@ -3052,7 +3053,7 @@ urodzić się, rodzić się - be jene
 urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić - fa jene  
 urosnąć, rosnąć, wzrosnąć, wzrastać - be dai  
 Urugwaj - Uruguay  
-urząd, pozycja, stanowisko, funkcja - ofis poze  
+urząd, pozycja, stanowisko, funkcja - guan  
 usiąść - side  
 uskok - geo kaske krake  
 usta - boke  
@@ -3263,7 +3264,7 @@ wynik (punktacja) - punte nomer
 wyobrazić, wyobrażać, fantazjować - fa fantazi  
 wypełnić, wypełniać - fa pul  
 wyrok - jude  
-wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - fa ekso  
+wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - fa vai  
 wyrzutek - paraya  
 wyrzutnia rakietowa - rokete lanse gi  
 wysoki - gau  
@@ -3335,8 +3336,8 @@ zachwyt (zdumienie) - ajibu
 zachód - veste  
 zaczyna (zacząć, rozpoczynać, rozpocząć) - be shuru  
 zacząć, zaczynać - fa shuru  
-zagranica - ekso desha  
-zagraniczny - ekso desha di  
+zagranica - vai desha  
+zagraniczny - vai desha di  
 zagrożenie, niebezpieczeństwo - hatar  
 zaimek - vise loga  
 zainteresowanie, zaciekawienie; interesujący - sabe vol  
@@ -3424,7 +3425,7 @@ zejść (schodzić, zstąpić, zstępować) - an eskale
 zemleć (mleć, mielić) - fa mol  
 zero, nic, żaden - siro  
 zespół (drużyna, grupa) - banda  
-zewnętrzny - ekso di  
+zewnętrzny - vai di  
 zgniły - pute  
 zgodzić się (umówić się) - fa trati  
 ziarno (nasienie) - seme  
@@ -3481,7 +3482,7 @@ zwłoki (trup) - mata badan
 zygzag - zigzage  
 zyskać, zyskiwać, zarobić, zarabiać - ganya  
 ząb - dante  
-zęwnętrzny - ekso  
+zęwnętrzny - vai  
 złamanie lini - lin parche  
 złapać, łapać, schwytać, chwytać - kape  
 złocień indyjski - nefte guku  

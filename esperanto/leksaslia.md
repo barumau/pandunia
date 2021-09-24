@@ -97,7 +97,6 @@
 |**bazar**|merkato (bazaro)|persa:urdua: بازار (bāzār), hindia:बाज़ार (bāzār), franca:hispana:portugala:bazar, angla:bazaar, rusa:базар (bazar), malaja: pasar, kmera:ផ្សារ (psar)|
 |**baze**|bazo|angla:franca:portugala:hispana:base, deu:Basis, rusa:база (baza)|
 |**be boli**|boli|angla:boil, franca:bouillir, itala:bollire, zulua:-bila, sot:-bela, hindia:उबालना (ubālnā)|
-|**be kite**|iri|franca:quitter, turka:gitmek, hispana:quitar|
 |**be raste**|kreski|franca:croîter, rusa:выраста́ть (vyrastat’), bel:расці́ (rascí), persa:رستن‎ (rostan)|
 |**be supra**|superiri|angla:super, hispana:portugala:sobre, itala:sopra|
 |**bebe**|bebo|franca:bébé, portugala:bebê, hispana:bebé, turka:bebek, angla:baby, kantona:BB (bibi)|
@@ -198,7 +197,6 @@
 |**desha**|lando|hindia:देश (deś), bengala:দেশ (deś), teluga:(dēśamu)|
 |**detal**|detalo|angla:detail, hispana:detalle, portugala:detalhe, franca:détail, deu:Detail, rusa:дета́ль (detal’)|
 |**deu**|dio|portugala:deus, malaja:dewa, hindia:देवता (devtā), kanara:(dēva) + angla:theo-, franca:théo-, hispana:teo-, rusa:тео- (teo-)|
-|**deve**|devi|franca:devoir, hispana:deber, portugala:dever|
 |**dia**|tago|hispana:día, portugala:dia + angla:day + hindia:दिन (din), bengala:দিন (din)|
 |**dike**|celo|mandarena:的 (dí), kantona:的 (dik1), japana:的 (teki), vjetnama:đích + bengala:দিকে (dike) + angla:indicate, franca:indiquer, hispana:portugala:indicar|
 |**din**|religio|araba:(dīn), bengala:দীন (din), persa:(din), turka:malaja:din, svahila:dini, haŭsa:addini, hindia:दीन (dīn)|
@@ -237,7 +235,6 @@
 |**ekore**|sciuro|franca:écureuil, joruba:ọkẹrẹ, sve:ekorre, haŭsa:kurege|
 |**ekran**|ekrano|franca:écran, portugala:ecrã, rusa:экран (ekran), polona:turka:ekran, kat:ეკრანი (eḳrani)|
 |**eksa**|triljoona (eksa-)|angla:franca:hispana:portugala:exa, rusa:экза- (ekza-), malaja:eska-, mandarena:艾可萨- (àikěsà-), japana:エクサ (ekusa), korea:엑사- (eksa-)|
-|**ekso**|ekstero|angla:franca:hispana:portugala:exo-, rusa:экзо- (ekzo-), malaja:eks-|
 |**eletro**|elektro|portugala:eletricidade, itala:elettricità, angla:electricity, rusa:электричество (električestvo), franca:électricité, hispana:electricidad, turka:elektrik|
 |**emosi**|emocio|angla:emotion, franca:émotion, hispana:emoción, portugala:emoção, rusa:эмоция (emociya), malaja:emosi, filipina:emosyon|
 |**energi**|energio|angla:energy, hispana:energía, portugala:energia, franca:énergie, rusa:энергия (energiya), turka:enerji, persa:انرژی‎ (enerži), japana:エネルギー (enerugī)|
@@ -432,6 +429,7 @@
 |**iode**|jodo|angla:iodine, franca:iode, hispana:yodo (iodo), portugala:iodo, rusa:йод, japana:ヨウ素, korea:요오드, vjetnama:iot, hindia:आयोडिन, bengala:আয়োডিন, malaja:yodium, svahila:iodini, araba: يود|
 |**ion**|iono|angla:franca:hispana:ion, rusa:ион (ion), turka:iyon|
 |**iris yum**|iridio|angla:iridium, franca:iridium, hispana:iridio, portugala:irídio, rusa:иридий, japana:イリジウム, korea:이리듐, vjetnama:iriđi, hindia:इरिडियम, bengala:ইরিডিয়াম, malaja:iridium, svahila:iridi, araba: إريديوم|
+|**ja**|iri|hindia:जाना (jānā), bengala:যাওয়া (jaoya) + araba:جَاءَ‎ (jāʾa)|
 |**ja**|isto (anto)|mandarena:者 (zhě);家 (jiă), korea:자 (ja), vjetnama:gia|
 |**jaga**|uyanık|hindia:जागना (jāgnā), bengala:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), marataja:जागणे (j̈āgṇe), guĝarata:જાગવું (jāgvũ), malaja:jaga|
 |**jain din**|Ĝajnismo|hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)|
@@ -672,6 +670,7 @@
 |**mun**|pordo|mandarena:门 (mén), kantona:門 (mun4), japana:門 (mon), korea:문 (mun), vjetnama:môn|
 |**mur**|vando|franca:mur, hispana:portugala:muro + deu:Mauer, polona:mur|
 |**murche**|formiko|persa:مورچه (murče), rusa:мурашка (murashka), greka:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)|
+|**mus**|devi|angla:must, deu:müssen, ukr:мусити (musiti), polona:musieć, cze:musit|
 |**mushu**|muso aŭ rato|rusa:мышь (myś), polona:mysz, persa: موش‎ (muš) + mandarena:鼠 (shǔ)|
 |**muskete**|muskedo|angla:musket, hispana:portugala:mosquete, franca:mousquet, rusa:мушке́т (muškét), japana:マスケット (masuketto)|
 |**muskul**|muskolo|angla:franca:muscle, hispana:portugala:músculo, deu:Muskel, rusa:му́скул (múskul), svahila:msuli|
@@ -682,9 +681,9 @@
 |**nadir**|malofta|araba: نَادِر‎ (nādir), hindia:नादिर (nādir), svahila:nadra, turka:nadir, persa: نادر (nâder)|
 |**nafas**|spiro|araba:persa:(nafas), malaja:napas, turka:nefes, haŭsa:numfashi|
 |**nagar**|urbo|hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), kanara:ನಗರ (nagara), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon)|
+|**nam loga**|substantivo|mandarena:名词 (míngcí), kantona:名詞 (ming4 ci4), japana:名詞 (meishi), korea:명사 (myeongsa), hindia:नाम (nām), franca:nom, hispana:nombre, portugala:nome, rusa:имя (imya), araba:(ism), per:(esm), svahila:nomino|
+|**nam**|nomo|deu:angla:name, franca:nom, hindia:नाम (nām), bengala:নাম (nam), malaja:nama, taja:นาม (naam) + japana:名前 (namae)|
 |**nama**|viando|svahila:nyama, haŭsa:nama, rwa:xho:zulua:inyama, sot:nama|
-|**name loga**|substantivo|mandarena:名词 (míngcí), kantona:名詞 (ming4 ci4), japana:名詞 (meishi), korea:명사 (myeongsa), hindia:नाम (nām), franca:nom, hispana:nombre, portugala:nome, rusa:имя (imya), araba:(ism), per:(esm), svahila:nomino|
-|**name**|nomo|deu:angla:name, franca:nom, hindia:नाम (nām), malaja:nama, japana:名前 (namae), persa:panĝaba:urdua:(nām), taja:นาม (naam)|
 |**nanas**|ananaso|malaja:nanas, svahila:nanasi, hindia:अनन्नास (anānnas), rusa:ананас (ananas)|
 |**natri**|natrio|angla:sodium, franca:sodium, hispana:sodio, portugala:sódio, rusa:натрий, mandarena:钠 (nà), japana:ナトリウム, korea:나트륨, vjetnama:natri, hindia:सोडियम, bengala:সোডিয়াম, malaja:natrium, svahila:natiri|
 |**nau**|cerbo|mandarena:脑 (nǎo), kantona:腦 (nou5), japana:脳  (nō), korea:뇌 (noe), vjetnama:não|
@@ -878,6 +877,7 @@
 |**sheku**|ŝtono|mandarena: 石 (shí), kantona:石 (sek3), japana:石 (seki), korea:석 (seok)|
 |**shenga**|venko|mandarena:胜 (shèng), kantona:勝 (sing3), vua:勝 (sen2), japana:勝 (shō), korea:승 (seung), vjetnama:thắng|
 |**shikaya**|plendo|araba: شِكَايَة‎ (šikāya), hindia:शिकायत (śikāyat), persa: شکایت‎ (šekâyat), turka:şikayet + franca:chicaya|
+|**shim**|koro|mandarena:心 (xīn), kantona:心 (sam1), hakaa:心 (sîm),  japana:心 (shin), korea: 심 (shim), vjetnama:tim|
 |**shir**|poemo|heb:שיר (šir), araba:(šiʿr), turka:şiir, persa:(še'r), svahila:shairi, mandarena:诗 (shī), kantona:詩 (si1), japana:詩 (shi), korea:시 (shi)|
 |**shirope**|siropo|araba:(šarāb), portugala:xarope, angla:syrup, turka:şurup, japana:シロップ (shiroppu), svahila:shira|
 |**shite**|merdo|angla:shit, mandarena:屎 (shǐ), kantona:屎 (si2)|
@@ -893,11 +893,11 @@
 |**sigar**|cigaredo|angla:franca:cigarette, hispana:cigarillo, portugala:cigarro, rusa:сигарета (sigarteta), araba:(sījāra), mandarena:雪茄 (xǔejiā), vua:雪茄 (xi'gá), hindia:सिगरेट (sigreṭ), bengala:সিগারেট (śigareṭ), svahila:turka:sigara, amhara:ሲጃራ (siǧara)|
 |**sili**|serio|hindia:सिलसिला (silsilā), araba:(silsila), turka:silsile, svahila:silisili + mandarena:系列 (xìliè) + angla:series, franca:série, hispana:serie, rusa:серия (seriya), tur:seri|
 |**silis**|silicio|angla:silicon, franca:silicium, hispana:silicio, portugala:silício, rusa:кремний, vjetnama:silic, hindia:सिलिकॉन, bengala:সিলিকন, malaja:silikon, svahila:silikoni, araba: سيلكون|
+|**silke**|silko|mandarena:丝 (sī), kantona:絲 (si1), vua:絲 (sr1), korea:사 (sa) + angla:silk, hispana:portugala:sérico, rusa:шёлк (sholk)|
 |**sim**|ismo|taja:เสริม (soem) + angla:-ism, franca:-isme, hispana:portugala:-ismo, rusa:-изм (-izm), malaja:-isme|
-|**sim**|koro|mandarena:心 (xīn), kantona:心 (sam1), hakaa:心 (sîm),  japana:心 (shin), korea: 심 (shim), vjetnama:tim|
 |**simple**|simpla|angla:hispana:franca:simple, portugala:simples, deu:simpel|
-|**sina**|brusto|persa:(sine), turka:sine, hindia:सीना (sīnā), bengala:সিনা (sinā), hispana:seno, franca:sein, latina:sinus|
 |**sina**|kredo|mandarena:信 (xìn), kantona:信 (seon3), japana:信 (shin), vjetnama:tin|
+|**sine**|brusto|persa:(sine), turka:sine, hindia:सीना (sīnā), bengala:সিনা (sinā), hispana:seno, franca:sein, latina:sinus|
 |**sing**|stelo|mandarena:星 (xīng), vua:星 (xing), kantona:星 (sing1), japana:星 (sei), korea:성 (seong)|
 |**singa**|leono|malaja:singa, hindia:सिंघ (singh), bengala:সিংহ (singh), tamila:சிங்கம் (sinkam), taja:สิง (sing), mandarena:狮 (shī), japana:獅子 (shishi), + svahila:simba|
 |**siro**|nul|araba: صِفْر‎ (ṣifr), svahila:sifuri, hindia:सिफ़र (sifar), malaja:sifar, angla:portugala:zero, franca:zéro, hispana:cero, rusa:зеро (zero), japana:ゼロ (zero), korea:제로 (jero), vjetnama:zêrô|
@@ -912,6 +912,7 @@
 |**sona**|dormo|franca:sommeil, portugala:sono, rusa:сон (son), hindia:सोना (sonā), bengala:শোয়া (śoya) + araba: سِنَة (sina)|
 |**song**|pino|mandarena:松 (sōng), vua:(son), taja:สน (sǒn), korea:솔 (sol), vjetnama:thông, + rusa:сосна (sosna)|
 |**soni**|sono|angla:sonic, franca:son, hispana:son,sonido, portugala:som, itala:suono, + korea:소리 (sori) + mandarena:声 (shēng), vua:声 (sən)|
+|**sor**|fermilo (seruro)|mandarena:锁 (suǒ), kantona:鎖 (so2), vua:鎖 (su2), japana:錠 (jō), korea:쇄 (soe), vjetnama:toả, kmera:សោ (sao) + hispana:cierre, franca:serrure, hungara:zár|
 |**sos**|saŭco|angla:franca:sauce, rusa:соус (sous), hindia:सॉस (sos), deu:Soße, vjetnama:xốt, japana:ソース (sōsu), taja:ซอส (soot), korea:소스 (soseu), malaja:saus|
 |**sosi**|socio|rusa:социум (socium), angla:society, hispana:sociedad|
 |**sosis**|kolbaso|franca:saucisse, turka:malaja:sosis, persa:(sosis), rusa:сосиска  (sosiska), japana:ソーセージ (sosēji), hindia:सॉसेज (sosej), bengala:সসেজ (sôsej), angla:sausage|
@@ -986,6 +987,7 @@
 |**va**|ŭaŭ!|angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah|
 |**vaf**|hundo|angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)|
 |**vagina**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
+|**vai**|ekstero|mandarena:外 (wài), kantona:外 (ngoi6), japana:外 (gai), korea:외 (oe), vjetnama:ngoại;ngoài|
 |**vali**|valo|angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi|
 |**valu**|valoro|angla:value, hispana:portugala:valor, franca:valeur|
 |**vanu**|amuzo|mandarena:玩 (wán), kantona:玩 (waan4), cjy:玩 (van1), korea:완 (wan)|

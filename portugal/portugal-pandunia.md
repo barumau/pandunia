@@ -10,7 +10,7 @@ abóbora (jerimun) - kaboga
 acanto-bastardo - pin kardon  
 acento - bari fon  
 acesso - jin lai  
-aconselhar - fa sela  
+aconselhar - fa sel  
 acordado - jaga  
 acordo (tratado, contrato) - trati  
 acordo - sam rai  
@@ -99,7 +99,7 @@ arte - shuta
 artista - arte ja  
 asma - asma  
 aspirina - aspirin  
-assinar - name kitabu  
+assinar - nam kitabu  
 assustador - fobi ja  
 assustar - fa fobi  
 astato - astatin  
@@ -160,6 +160,7 @@ berqueélio - berkli yum
 berço - lala bede  
 berílio - beril yum  
 biblioteca - kitabu kan  
+bicho-da-seda (sirgo) - silke larva  
 bicho-papão - bubu  
 bigorna - metal bede  
 bilhete - tikete  
@@ -193,6 +194,7 @@ Buda - Buda
 budismo zen - jen buda din  
 bule - chai pote  
 buraco - kave  
+burocracia - buro krati  
 buscar (procurar) - soki  
 bário - bari yum  
 bétula - betula  
@@ -202,6 +204,7 @@ búzio - kauri
 cabelo - sar kesha  
 cabeça - sar  
 cacto - katus  
+cadeado - pende sor  
 cadeira de balanço - roke kursi  
 cadáver - mata badan  
 cafeteira - kafe pote  
@@ -330,10 +333,10 @@ condutor (chofer, motorista) - shofer ja
 conduzir - fa shofer  
 conexão (vínculo, laço) - linke  
 confiar (contar com) - amen shin  
-conselho - sela loga  
+conselho - sel  
 considerar - hem  
 construir - fa bina  
-consultor - kon sela ja  
+consultor - kon sel ja  
 conta (fatura) - fatura  
 conta - hisabu loge  
 conto - korte kata  
@@ -413,7 +416,7 @@ despertar - be jaga
 destino - kisma  
 deus - deu  
 devanágari - deu nagar zi  
-dever - deve  
+dever - mus  
 dez - des  
 dia (24 horas) - den  
 dia - dia  
@@ -481,11 +484,12 @@ erro (falta) - galte
 errôneo - galte di  
 erva marinha - hai gazo  
 escama - shalke  
-escavar - fa ekso kave  
+escavar - fa vai kave  
 escola (colégio) - shula kan  
 escova de cabelo - kesha brosha  
 escovinha (centáurea) - blu sentaure  
 escrevere - kitabu  
+escritório (birô) - buro  
 escudo - defa bano  
 escudo - oste shalke  
 escultor - eskulte ja  
@@ -525,18 +529,18 @@ etnia - zuku
 eu (me) - mi  
 európio - europa yum  
 evangelho - eu anjil  
-evidente - ekso vide di  
+evidente - vai vide di  
 exato (preciso) - juste  
-excluir - fa ekso klus  
-exclusivo - ekso klus di  
-exoplaneta (planeta extrassolar) - ekso planete  
+excluir - fa vai klus  
+exclusivo - vai klus di  
+exoplaneta (planeta extrassolar) - vai planete  
 explodir - be bum  
 explosão - bum  
-expor (revelar) - ekso poze  
-exterior - ekso  
-extrair - fa ekso trata  
+expor (revelar) - vai poze  
+exterior - vai  
+extrair - fa vai trata  
 exército - gun  
-exógeno - ekso jene di  
+exógeno - vai jene di  
 ####F - F  
 face (faceta) - fase  
 facção - shia  
@@ -701,7 +705,7 @@ invernal (hibernal) - leng mosim di
 inverno - leng mosim  
 iodo - iode  
 iogurte - yogur  
-ir - be kite  
+ir - ja  
 ironia - ironi  
 irídio - iris yum  
 islã - islam din  
@@ -812,6 +816,7 @@ maldição - lana
 malfeitoria (pecado) - dus karma  
 mamão (papaia) - papaya  
 mancha (marca) - marke  
+mandarim - han guan ja  
 mandioca (aipim) - manioka  
 manga - kamisa shaka  
 manganésio - mangan  
@@ -1073,7 +1078,7 @@ pimenta - pipre
 pincel - pente brosha  
 pinheiro - song  
 pintura - pente  
-piquenique - ekso yam  
+piquenique - vai yam  
 pirataria - pirate  
 pirâmida - piram  
 plano - plan  
@@ -1192,7 +1197,7 @@ rei - man raja
 relier (connecter) - fa linke  
 religião - din  
 relógio - hor loga gi  
-remover - fa kite  
+remover - fa for  
 remédio (medicamento) - dava she  
 Reno - Ren  
 reparador - shulija  
@@ -1240,7 +1245,7 @@ saco - sake
 sacrifício - kurban  
 sagrada escritura - sante kanon  
 sagu - sagu  
-sair - be ekso  
+sair - be vai  
 sal - sal  
 sala (câmara) - kamar  
 salino - sal di  
@@ -1261,7 +1266,7 @@ saúde - salu ta
 se - ga  
 se - se  
 seabórgio - siborge yum  
-seda - silko  
+seda - silke  
 sede - sui yau  
 segunda-feira - var un  
 seguro - sekur  
@@ -1271,7 +1276,7 @@ seita - din shia
 selva (floresta, jângal) - jangal  
 selénio - selen yum  
 sem - hin  
-sem nome - name hin  
+sem nome - nam hin  
 semente - seme  
 seminal - seme di  
 senador - supra vakil ja  
@@ -1370,6 +1375,7 @@ trabalhador - gong ja
 trabalhar - fa gong  
 trabalho - gong  
 trajar (vestir-se) - fuku  
+tranca - kane sor  
 tranquilo (calmo) - shanti di  
 transcorrer - si dura  
 tratar (lidar, procesar) - fa chuli  
@@ -1391,7 +1397,7 @@ tálio - tali yum
 tântalo - tantal yum  
 técnica - tehni  
 térbio - terbi yum  
-título - tema name  
+título - tema nam  
 tório - tor yum  
 túlio - tule yum  
 ####U - U  

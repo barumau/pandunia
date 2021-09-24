@@ -52,7 +52,7 @@ algue - alga
 algues - hai alga  
 algues brunes - kafe alga  
 Algérie - Jayer  
-aller (quitter) - be kite  
+aller - ja  
 Aller-retour - retro tikete  
 alligator - korte krokodil  
 allophone - alo fon  
@@ -279,6 +279,8 @@ brosse à cheveux - kesha brosha
 brun (marron) - kafe rang  
 brûler - fa hogo  
 buisson - tal moka  
+bureau (office) - buro  
+bureaucratie - buro krati  
 but (destination) - gol  
 bâtiment - bina  
 bâton (canne, tige) - kane  
@@ -292,6 +294,7 @@ cacher - fa sir
 cachet de la poste - posta marke  
 cactus - katus  
 cadavre (corps) - mata badan  
+cadenas - pende sor  
 cadmium - kadim yum  
 cadre - frem  
 cafetière - kafe pote  
@@ -424,11 +427,11 @@ concert - konserte
 concombre - hiyar  
 concombre confit (cornichon) - achar hiyar  
 concombre de mer - hai hiyar  
-conseil - sela loga  
-conseiller - fa sela  
+conseil - sel  
+conseiller - fa sel  
 considérer - hem  
 construire - fa bina  
-consultant (conseiller) - kon sela ja  
+consultant (conseiller) - kon sel ja  
 conte de fées - pari kata  
 conteneur - in gi  
 continu (analogique) - zoku di  
@@ -511,7 +514,7 @@ demander (poser un question; est-ce que) - fa sual
 dessous - niche  
 destin - kisma  
 deux (2) - du  
-devoir - deve  
+devoir - mus  
 diamant - almas  
 dieu - deu  
 différence - alo sifa  
@@ -602,15 +605,15 @@ ethnique - zuku di
 Europe - Europa  
 europium - europa yum  
 européen - europa di  
-excaver - fa ekso kave  
-exclure - fa ekso klus  
-exclusif - ekso klus di  
-exoplanète - ekso planete  
+excaver - fa vai kave  
+exclure - fa vai klus  
+exclusif - vai klus di  
+exoplanète - vai planete  
 exploser (détoner) - be bum  
 explosion - bum  
-exposer - ekso poze  
-extraire - fa ekso trata  
-extérieur - ekso  
+exposer - vai poze  
+extraire - fa vai trata  
+extérieur - vai  
 exécrer - an ai  
 ####F - F  
 fable - zou kata  
@@ -796,7 +799,7 @@ infection (contagion) - pati mise
 infidèle (incroyant) - an din ja  
 inflammation - flame  
 informatique - data chuli logi  
-innomé - name hin  
+innomé - nam hin  
 insecte - dudu  
 insomnie - an sona  
 intention - nia  
@@ -899,10 +902,12 @@ livermorium - livermor yum
 livre - buku  
 livre de bord - loge buku  
 local - loka di  
+loin (hors, parti) - for  
 loin - do long  
 long - long  
 longtemps - long dura  
 loquace - loga tabi di  
+loquet - kane sor  
 louche (cuillère à pot) - pote chamacha  
 loup - volfe  
 lourd - veze di  
@@ -934,6 +939,7 @@ mais - a
 maison - dom  
 malédiccion - lana  
 manche - kamisa shaka  
+mandarin - han guan ja  
 mandarine - lal oranje  
 mandarine satsuma - venjou oranje  
 manganèse - mangan  
@@ -1054,6 +1060,7 @@ niveau - par fase
 nobélium - nobel yum  
 noir - kala  
 noit - noche  
+nom - nam  
 nombre (numéro) - nomer  
 nombre pair - par nomer  
 non (ne...pas) - no  
@@ -1165,7 +1172,6 @@ Paris - Paris
 parler - loga  
 parole (mots) - loga  
 part - fen  
-parti - kite  
 passe (passage) - pas dau  
 passeport - pasporte  
 passer - fa dura  
@@ -1212,7 +1218,7 @@ piment - chili
 pinceau - pente brosha  
 pioche - pin chope  
 piquant - pin sense di  
-piquenique - ekso yam  
+piquenique - vai yam  
 piraterie - pirate  
 pistolet - pau gi  
 pizza - piza  
@@ -1465,7 +1471,7 @@ sexologie - sekse logi
 Shiva - Shiva  
 shopping - shopi  
 si - ga  
-signer - name kitabu  
+signer - nam kitabu  
 silex - hogo sheku  
 silicium - silis  
 simulation - sam sifa she  
@@ -1474,7 +1480,7 @@ six (6) - luka
 siècle (centennie) - sento nen  
 société - sosi  
 sodium - natri  
-soie - silko  
+soie - silke  
 soif - sui yau  
 soir (soirée) - sham  
 soja - soi  
@@ -1555,7 +1561,7 @@ tire à l'arc - arka shuta
 tirer - tire yo milke  
 tissu - tela  
 titane - titan yum  
-titre - tema name  
+titre - tema nam  
 toile d'araignée (arantèle) - arane nete  
 toit - chati  
 tomate - tomate  
@@ -1623,6 +1629,7 @@ vendredi - var lima
 Venezuela - Venezuela  
 venir - lai  
 ver - verme  
+ver à soie - silke larva  
 verbe - karma loga  
 verger - frute bagi  
 vermouth - vermute  
@@ -1747,7 +1754,7 @@ zéro - siro
 évaluer - fa valu  
 évangile - eu anjil  
 éveillé - jaga  
-évident - ekso vide di  
+évident - vai vide di  
 être - si  
 être couché - kush  
 être humain - insan  

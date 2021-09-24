@@ -133,18 +133,17 @@ be bio mute - fermentar
 be boi - nadar (flutuar)  
 be bum - explodir  
 be dura - durar  
-be ekso - sair  
 be fobi - temer  
 be hogo - queimarse  
 be in - entrar  
 be in bum - implodir  
 be jaga - despertar  
 be kino - Mover-se  
-be kite - ir  
 be migra - mudar-se  
 be pute - apodrecer-se  
 be retro - voltar (regressar)  
 be sona - dormir  
+be vai - sair  
 bebe - bebê  
 bede - cama (leito)  
 bedinjan - beringela  
@@ -196,6 +195,8 @@ buku - livro
 bulbul - rouxinol  
 bum - explosão  
 burge - forte  
+buro - escritório (birô)  
+buro krati - burocracia  
 bus halte - parada de ônibus  
 buta - bota  
 buton - botão  
@@ -267,7 +268,6 @@ deu - deus
 deu kata - mito  
 deu nagar zi - devanágari  
 deu sofi - teosofia  
-deve - dever  
 dia - dia  
 dia foto - luz do dia  
 dike - objetivo  
@@ -308,13 +308,6 @@ dush - ducha
 e - e  
 einstein yum - einstânio  
 ekore - esquilo  
-ekso - exterior  
-ekso jene di - exógeno  
-ekso klus di - exclusivo  
-ekso planete - exoplaneta (planeta extrassolar)  
-ekso poze - expor (revelar)  
-ekso vide di - evidente  
-ekso yam - piquenique  
 eletro - eletricidade  
 elfe - elfo  
 emosi - emoçao  
@@ -344,12 +337,10 @@ fa chuli - tratar (lidar, procesar)
 fa dante - morder  
 fa dika - mirar (apontar)  
 fa dus forma - desfigurar  
-fa ekso kave - escavar  
-fa ekso klus - excluir  
-fa ekso trata - extrair  
 fa estude - estudar (examinar)  
 fa fatu - punir (castigar)  
 fa fobi - assustar  
+fa for - remover  
 fa forma - modelar  
 fa fuku - vestir  
 fa glu - colar (aderir)  
@@ -360,7 +351,6 @@ fa in klus - incluir
 fa karga - carregar  
 fa kave - cavar (escavar)  
 fa kino - mover  
-fa kite - remover  
 fa lai - trazer  
 fa linke - relier (connecter)  
 fa loka - colocar (pôr)  
@@ -378,7 +368,7 @@ fa presa - prensar (pressionar, premir)
 fa pul bon - aperfeiçoar  
 fa re - repetir  
 fa retro - retornar  
-fa sela - aconselhar  
+fa sel - aconselhar  
 fa shipi - molhar  
 fa shofer - conduzir  
 fa shopi - comprar  
@@ -390,6 +380,9 @@ fa tele fon - telefonar
 fa teste - tentar (provar)  
 fa truke - enganar  
 fa turbe - molestar (perturber)  
+fa vai kave - escavar  
+fa vai klus - excluir  
+fa vai trata - extrair  
 fa valu - valorar  
 fa vote - votar  
 fan - lama (lodo)  
@@ -529,6 +522,7 @@ halifa - califa
 halo - alô  
 ham di - importante  
 hamil - grávida (prenhe)  
+han guan ja - mandarim  
 hande - mão  
 hande shaka - braço  
 hapu - apropriado (apto)  
@@ -589,6 +583,7 @@ iris yum - irídio
 ironi - ironia  
 islam din - islã  
 ####J - J  
+ja - ir  
 jaga - acordado  
 jama karde - cromo  
 jamul - jambolão (jambo)  
@@ -663,6 +658,7 @@ kandi - bombom (doce)
 kane - vara (bastão)  
 kane kasa - gaiola (jaula)  
 kane minte - hortelã-verde  
+kane sor - tranca  
 kangaru - canguru  
 kano - canoa  
 kantalupo melon - meloa (cantalupo)  
@@ -702,13 +698,13 @@ kerne - núcleo (cerne)
 kesha brosha - escova de cabelo  
 kesha hin - despelado  
 ki - que  
-kio - ponte  
 kimi - substância  
 kimi logi - química  
 kimi so - elemento químico  
 kimono - quimono  
 kinar - margem (borda)  
 kinar baryer - cerca  
+kio - ponte  
 kirate - quilate  
 kisma - destino  
 kitabu - escrevere  
@@ -727,7 +723,7 @@ komputa - computador
 komputa di - digital  
 kon bon - combinar com  
 kon gong - colaborar  
-kon sela ja - consultor  
+kon sel ja - consultor  
 kon trati - pacto  
 konserte - concerto  
 koperni yum - copernício  
@@ -952,6 +948,7 @@ moto - motor
 mula - raíz  
 mur - muro (muralha)  
 mur kaguji - papel de parede  
+mus - dever  
 mushu - rato  
 muskul bina - fisiculturismo  
 musli - muesli  
@@ -965,9 +962,9 @@ na ni - aqui
 nadir - raro  
 nadir mar - raramente  
 najis - poluição  
+nam hin - sem nome  
+nam kitabu - assinar  
 nama - carne  
-name hin - sem nome  
-name kitabu - assinar  
 nardi - gamão  
 nasi - nação  
 nasi medi - internacional  
@@ -1082,6 +1079,7 @@ pede - peido
 pei gong - profissão  
 pei gong jiu - carreira  
 pelpel - borboleta  
+pende sor - cadeado  
 pente - pintura  
 pente brosha - pincel  
 pente tela - tela  
@@ -1231,7 +1229,7 @@ se - se
 se kon - um ao outro  
 sekse logi - sexologia  
 sekur - seguro  
-sela loga - conselho  
+sel - conselho  
 selen yum - selénio  
 selu logi - citologia  
 seme - semente  
@@ -1298,7 +1296,8 @@ sikle ja - ciclista
 sili - série (sequência)  
 sili tika - elo  
 silis - silício  
-silko - seda  
+silke - seda  
+silke larva - bicho-da-seda (sirgo)  
 sing - estrela  
 sir plan - complô (conspiração)  
 siro - zero  
@@ -1356,7 +1355,7 @@ tela gi - tear
 tele fon shuta - telefonia  
 teleskope - telescópio  
 telu yum - telúrio  
-tema name - título  
+tema nam - título  
 ten - ter  
 tenesi yum - tennessine  
 tense - tenso  
@@ -1400,6 +1399,13 @@ va - uau
 vaf - cão (cachorro)  
 vagina - vagina  
 vagina flame - vaginite  
+vai - exterior  
+vai jene di - exógeno  
+vai klus di - exclusivo  
+vai planete - exoplaneta (planeta extrassolar)  
+vai poze - expor (revelar)  
+vai vide di - evidente  
+vai yam - piquenique  
 vali - vale (uadi)  
 vali susan - lírio-do-vale  
 valu - valor (valia)  

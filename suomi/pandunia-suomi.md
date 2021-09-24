@@ -316,7 +316,6 @@ be dara - virrata
 be dom - asua  
 be duka - surra (murehtia)  
 be dura - kestää (viedä aikaa)  
-be ekso - poistua (mennä ulos)  
 be emosi - tuntea (kokea tunteita)  
 be estasi - seisoa (seisahtaa)  
 be fatige - väsyä  
@@ -340,7 +339,6 @@ be jin - edetä (edistyä)
 be kai - aueta (avautua)  
 be karibu - lähestyä  
 be kino - liikkua  
-be kite - mennä  
 be krus - mennä yli tai poikki  
 be lashe - päästä  
 be loka - sijaita  
@@ -350,7 +348,7 @@ be mata - kuolla
 be migra - muuttaa (siirtyä)  
 be min - alittaa (olla vähemmän kuin)  
 be mirde - vaimentua  
-be name - olla nimeltään  
+be nam - olla nimeltään  
 be niche - alittaa  
 be par - olla yhtä kuin  
 be pasi - sattua (käydä kipeää)  
@@ -363,6 +361,7 @@ be rupa - näyttää jltkn
 be rute galte - harhautua  
 be sabi vol - kiinnostua  
 be sam rupa - muistuttaa (vaikuttaa samalta)  
+be sel - pitäisi  
 be shuru - alkaa  
 be sona - nukkua  
 be suka - pitää (tykätä, olla tyytyväinen jstkn)  
@@ -371,6 +370,7 @@ be tam - ahnehtia
 be tele loka - teleportata  
 be teza - kiihdyttää (voimistuttaa)  
 be turbe - vaivautua  
+be vai - poistua (mennä ulos)  
 be vanu - leikkiä (pitää hauskaa)  
 be vide - näkyä  
 be yong liga - sulaa yhteen (fuusioitua)  
@@ -501,6 +501,10 @@ bulbul - satakieli
 bum - räjähdys (pamaus)  
 burge - linna (linnake, linnoitus)  
 Burkina Faso - Burkina Faso  
+buro - toimisto (konttori, byroo)  
+buro ja - sihteeri  
+buro ja grupe - sihteeristö  
+buro krati - byrokratia  
 bus - linja-auto (bussi)  
 bus halte - bussipysäkki (linja-autopysäkki)  
 buste - povi  
@@ -696,8 +700,6 @@ deu krati - teokratia
 deu logi - teologia  
 deu nagar zi - devanagari  
 deu sofi - teosofia  
-deve - täytyä (olla pakko)  
-deve ta - pakko  
 di - -a (adjektiva partiklo)  
 dia - päivä (päiväsaika)  
 dia foto - päivänvalo  
@@ -720,11 +722,11 @@ diske - kiekko (levy)
 disprosi yum - dysprosium  
 Divehi - Malediivit  
 do - luokse (tykö, kohti, asti)  
-do ekso - ulkoinen  
 do in - sisäänpäin  
 do jin - eteen päin  
 do long - pitkästi (kauas)  
 do misal - esimerkiksi  
+do vai - ulkoinen  
 dobe - tiili  
 Doiche - Saksa  
 doiche di - saksalainen  
@@ -796,7 +798,7 @@ dus funsi - toimintahäiriö
 dus hal - vaikeus (hankaluus)  
 dus jan - vihollinen  
 dus karma - synti (paha teko)  
-dus name - loukkaus (herja)  
+dus nam - loukkaus (herja)  
 dus rai - paheksua  
 dus sin di - pahaenteinen  
 dus topo - dystopia  
@@ -817,21 +819,6 @@ eko logi - ekologia (ympäristötiede)
 ekore - orava  
 ekran - kuvaruutu  
 eksa - eksa-  
-ekso - ulkopuoli  
-ekso desha - ulkomaa  
-ekso desha di - ulkomaalainen  
-ekso di - ulko- (ulkoinen)  
-ekso jan - ulkopuolinen  
-ekso jene di - ulkosyntyinen  
-ekso klus di - poissulkeva (eksklusiivinen)  
-ekso mise - viedä pois (viedä maasta)  
-ekso name - eksonyymi  
-ekso planete - eksoplaneetta  
-ekso poze - ottaa esiin (paljastaa)  
-ekso trata gi - ulosvetäjä  
-ekso verse di - ulospäinsuuntautunut (ekstrovertti)  
-ekso vide di - ilmeinen (silminnähtävä)  
-ekso yam - eväsretki (piknik)  
 Ekuador - Ecuador  
 elasti - joustava (elastinen)  
 eletro - sähkö  
@@ -931,12 +918,7 @@ fa dosil jene - kesyttää
 fa duka - surettaa  
 fa dura - kuluttaa (viettää aikaa)  
 fa dus forma - turmella ulkomuoto  
-fa dus name - solvata (loukata)  
-fa ekso - poistaa (paitsi, poislukien)  
-fa ekso kave - kaivaa esiin  
-fa ekso klus - sulkea pois  
-fa ekso tense - venyttää (pingottaa)  
-fa ekso trata - vetää ulos  
+fa dus nam - solvata (loukata)  
 fa english kitabu - englannistaa  
 fa eskulte - veistää kuvaa  
 fa estude - opiskella (tutkia)  
@@ -951,6 +933,7 @@ fa fili - tykätä (pitää)
 fa fobi - pelottaa  
 fa fokus - keskittää  
 fa fon - ääntää (lausua)  
+fa for - poistaa (viedä)  
 fa forma - muotoilla (muovata)  
 fa fuku - pukea (vaatettaa)  
 fa galte - erehtyä (tehdä virhe)  
@@ -991,7 +974,6 @@ fa kata - kertoa
 fa kave - kaivaa  
 fa keka - käydä (vierailla)  
 fa kino - liikuttaa (innoittaa)  
-fa kite - viedä  
 fa klar - selkeyttää (selittää)  
 fa klas - luokitella (kategorisoida)  
 fa klon - kloonata (monistaa)  
@@ -1035,7 +1017,7 @@ fa mol - jauhaa
 fa multi do du - tuplata (kertoa kahdella)  
 fa muzika - soittaa (musisoida)  
 fa najis - tahrata (korruptoida)  
-fa name - nimittää (kutsua)  
+fa nam - nimittää (kutsua)  
 fa nia - aikoa (meinata)  
 fa node - solmia (tehdä solmu)  
 fa nomer - laskea (pitää lukua, numeroida)  
@@ -1091,7 +1073,7 @@ fa sam rai - olla samaa mieltä
 fa sam sifa - matkia (jäljitellä)  
 fa sana - tehdä (valmistaa)  
 fa sekur - suojella (suojata, turvata)  
-fa sela - neuvoa  
+fa sel - neuvoa  
 fa sense - aistia  
 fa sharti - vaatia (edellyttää)  
 fa shibai - hävitä (kärsiä tappio)  
@@ -1132,6 +1114,11 @@ fa trati - sopia (tehdä sopimus)
 fa truke - jekuttaa (petkuttaa)  
 fa turbe - häiritä (vaivata)  
 fa un she - yhdistää  
+fa vai - poistaa (paitsi, poislukien)  
+fa vai kave - kaivaa esiin  
+fa vai klus - sulkea pois  
+fa vai tense - venyttää (pingottaa)  
+fa vai trata - vetää ulos  
 fa valu - arvottaa  
 fa vanu - viihdyttää (huvittaa)  
 fa ver - todentaa  
@@ -1146,7 +1133,7 @@ faida di - hyödyllinen
 faida she - hyötyaines  
 false vide - harhanäky (näköharha)  
 famili - perhe  
-famili name - sukunimi  
+famili nam - sukunimi  
 fan - muta (kura, lieju)  
 fan defa bano - lokasuoja  
 fan di - kurainen (mutainen)  
@@ -1241,6 +1228,7 @@ fong - mehiläinen tai ampiainen
 fong nide - mehiläispesä  
 fonte - lähde (kaivo)  
 fonte kalam - mustekynä  
+for - pois (poissa)  
 fora - porata  
 forke - haarukka  
 forma - muoto (morfi)  
@@ -1456,6 +1444,9 @@ gua - luola
 Guadelupe - Guadeloupe  
 guai - outo (kummallinen)  
 Guam - Guam  
+guan - virka (virka-asema)  
+guan di - virallinen  
+guan ja - virkailija (virkamies)  
 Guangjou - Guangzhou (Kanton)  
 Guatemala - Guatemala  
 gubu - virtahepo  
@@ -1517,6 +1508,7 @@ hamar - vasara
 hamil - raskaana (odottava)  
 hamir - hiiva  
 Han - han-kiinalainen  
+han guan ja - mandariini (kiinalainen virkailija)  
 Han zi - kiinalainen tai japanilainen kirjoitusmerkki  
 hande - käsi  
 hande di - käsi-  
@@ -1662,7 +1654,7 @@ in liste - sisällysluettelo
 in migra - muuttaa maahan  
 in migra ja - maahanmuuttaja  
 in mise - tuoda sisään  
-in name - endonyymi (omakielinen nimi)  
+in nam - endonyymi (omakielinen nimi)  
 in pushe - pusertaa  
 in she - sisältö  
 in verse jan - sisäänpäinsuuntautunut (introvertti)  
@@ -1697,6 +1689,7 @@ Islande - Islanti
 Israel - Israel  
 Italia - Italia  
 ####J - J  
+ja - mennä  
 ja - tekijä (aikaansaaja)  
 jaga - herättää  
 jaga - olla hereillä  
@@ -1842,6 +1835,7 @@ kandi - makeinen (karkki, namu)
 kane - tanko (pinna, sauva, patukka)  
 kane kasa - häkki  
 kane pang - patonki (ranskanleipä)  
+kane sor - salpa (säppi)  
 kanga - kampa  
 kangaru - kenguru  
 kanjar - tikari  
@@ -1925,7 +1919,6 @@ kesha hin - karvaton
 kesha sabun - šampoo  
 ketel - kattila  
 ki - että  
-kio - silta  
 kilogram - kilogramma  
 kilomitre - kilometri  
 kimi - aine (aines, materia)  
@@ -1943,6 +1936,7 @@ kino grafi di - elokuvallinen
 kino grafi kan - elokuvateatteri  
 Kinshasa - Kinshasa  
 Kinshasa Kongo - Kinshasan Kongo  
+kio - silta  
 kioske - kioski  
 Kipris - Kypros  
 kira - vuokra  
@@ -1959,7 +1953,6 @@ kitabu forma - tekstin muotoilu
 kitabu gi - kirjoituskone  
 kitabu kan - kirjasto  
 kitabu shuta - kirjallisuus  
-kite - mennyt (poissa)  
 kivi - kiivi  
 klar - selvä (selkeä)  
 klar! - tietysti (selvästi)  
@@ -2001,8 +1994,8 @@ kon gong - tehdä yhteistyötä
 kon sabe - tieto  
 kon sana sim - kommunismi  
 kon sana sim ja - kommunisti  
-kon sela - konsultoida (antaa neuvoja)  
-kon sela ja - konsultti  
+kon sel - konsultoida (antaa neuvoja)  
+kon sel ja - konsultti  
 kon su - yhteinen  
 kon ten - pitää yhdessä  
 kon trati - liittosopimus  
@@ -2468,6 +2461,8 @@ mur - seinä (muuri)
 mur kaguji - tapetti  
 murche - muurahainen  
 Muritania - Mauritania  
+mus - täytyä (olla pakko)  
+mus ta - pakko  
 mushu - hiiri tai rotta  
 muskete - musketti  
 muskete ja - musketööri  
@@ -2480,7 +2475,6 @@ muzika ja - muusikko
 Myanma - Myanmar (Burma)  
 ####N - N  
 na - luona (-lla, -ssa)  
-na ekso - ulkona (ulkopuolella)  
 na go - tuolla  
 na in - sisällä (sisäpuolella)  
 na ke - missä?  
@@ -2491,6 +2485,7 @@ na nove - äsken (vasta, juuri)
 na poli mar - usein  
 na re - taas (uudestaan)  
 na supra - yllä (pääll)  
+na vai - ulkona (ulkopuolella)  
 na vakil da - puolesta  
 nabi - profetia  
 nabi ja - profeetta  
@@ -2500,10 +2495,10 @@ nafas - hengitys (henkäys)
 nagar - kaupunki  
 nahun - kynsi  
 Naijiria - Nigeria  
+nam - nimi  
+nam hin - nimetön  
+nam loga - substantiivi (nimisana)  
 nama - liha  
-name - nimi  
-name hin - nimetön  
-name loga - substantiivi (nimisana)  
 Namibia - Namibia  
 nanas - ananas  
 nano - nano-  
@@ -2629,10 +2624,6 @@ nude sim ja - nudisti
 o - tai (vai)  
 Oceania - Oseania  
 Odisa - orija (eräs intialainen kieli)  
-ofis - virasto (toimisto, konttori)  
-ofis di - virallinen  
-ofis ja - virkailija (virkamies)  
-ofis poze - virka (virka-asema)  
 oganeson - oganesson  
 ohtopus - mustekala  
 oke - kelpo (okei)  
@@ -2765,6 +2756,7 @@ pei gong ja - ammattilainen
 pelmen - myky (pelmeni, ravioli)  
 pelpel - perhonen  
 pende - roikuttaa  
+pende sor - riippulukko (munalukko)  
 penis - siitin (penis)  
 pente - maalata  
 pente brosha - pensseli (sivellin)  
@@ -3069,7 +3061,7 @@ sam - sama (yhtäläinen)
 sam desha jan - samanmaalainen (maanmies)  
 sam emos - myötätunto (sympatia)  
 sam metre - symmetria  
-sam name - homonyymi  
+sam nam - homonyymi  
 sam rai - yhteisymmärrys  
 sam sekse di - homoseksuaali  
 sam sifa di - samanlainen  
@@ -3115,15 +3107,12 @@ se kon - toisiaan (keskenään)
 se kon - toisiaan (toinen toistaan)  
 se kon su - molemminpuolinen (keskinäinen)  
 se su - oma (-nsa)  
-sekretar ja - sihteeri  
-sekretar ofis - sihteeristö  
 sekse - seksi (sukupuolisuhde)  
 sekse di - seksikäs  
 sekse logi - seksologia  
 sekunde - sekunti  
 sekur - turvallinen (varma)  
-sela - pitäisi  
-sela loga - neuvo  
+sel - neuvo  
 selen yum - seleeni  
 selu - solu  
 selu logi - soluoppi (sytologia)  
@@ -3188,6 +3177,7 @@ shia - porukka (kuppikunta, lohko, siipi)
 shia islam din - šiialaisuus  
 shikaya - valitus (reklamaatio)  
 shike - elegantti  
+shim - sydän  
 shindau din - sintolaisuus  
 shipi - märkä (kostea)  
 shir - runo  
@@ -3242,15 +3232,15 @@ sili nete - silmukkapanssari (rengashaarniska)
 sili sili - ketju  
 sili tika - ketjun lenkki  
 silis - pii  
-silko - silkki  
-sim - sydän  
+silke - silkki  
+silke larva - silkkiäistoukka  
 sim - aate (aatteen kannatus, ismi)  
 sim ja - kannattaja (tukija, -isti)  
 simple - yksinkertainen (mutkaton)  
 sin - merkki (signaali)  
 sina - usko (luottamus)  
-sina - rinta  
-sina kasa - rintakehä  
+sine - rinta  
+sine kasa - rintakehä  
 sing - tähti  
 singa - leijona  
 Singapur - Singapore  
@@ -3292,6 +3282,7 @@ sona papi - unikko (unikukka)
 sona tabi - unelias  
 song - mänty  
 soni - ääni  
+sor - lukko  
 sos - kastike (soosi)  
 sosi - seura  
 sosi di - yhteiskunnallinen (sosiaalinen)  
@@ -3551,12 +3542,27 @@ Uzbeki - Uzbekistan
 uze - käyttää  
 uze bil di - käytettävissä oleva  
 uze ja - käyttäjä  
-uze ja name - käyttäjänimi  
+uze ja nam - käyttäjänimi  
 ####V - V  
 va - oho (vau)  
 vaf - koira  
 vagina - emätin (vagina)  
 vagina flame - emätintulehdus  
+vai - ulkopuoli  
+vai desha - ulkomaa  
+vai desha di - ulkomaalainen  
+vai di - ulko- (ulkoinen)  
+vai jan - ulkopuolinen  
+vai jene di - ulkosyntyinen  
+vai klus di - poissulkeva (eksklusiivinen)  
+vai mise - viedä pois (viedä maasta)  
+vai nam - eksonyymi  
+vai planete - eksoplaneetta  
+vai poze - ottaa esiin (paljastaa)  
+vai trata gi - ulosvetäjä  
+vai verse di - ulospäinsuuntautunut (ekstrovertti)  
+vai vide di - ilmeinen (silminnähtävä)  
+vai yam - eväsretki (piknik)  
 vakil - edustaa  
 vakil ja - edustaja (agentti)  
 vali - laakso  

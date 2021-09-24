@@ -110,28 +110,28 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**mi vol tu yam di coi.**
+**mi vol tu yam yo fito.**
 – I want you to eat vegetables.
 
 In the example above, **mi vol** has **tu** as its object.
-At the same time, **tu** functions as the subject of the following predicate, **yam di coi**.
+At the same time, **tu** functions as the subject of the following predicate, **yam di fito**.
 So **tu** is the _pivot_ of the entire sentence.
 
 The second verb in a pivot structure is the main verb.
 The first verb is a modal verb,
 which indicates a modality such as desire, permission or obligation.
 
-**mi vol tu yam ba coi.**
+**mi vol tu yam ba fito.**
 – I want you to eat vegetables. (desire)  
-**mi sela tu yam ba coi.**
+**mi sel tu yam ba fito.**
 – I advise you to eat vegetables. (advice)  
-**mi las tu yam ba coi.**
+**mi las tu yam ba fito.**
 – I allow you to eat vegetables. (permission)  
-**mi bil tu yam ba coi.**
+**mi bil tu yam ba fito.**
 – I enable you to eat vegetables. (ability)  
-**mi deve tu yam ba coi.**
+**mi mus tu yam ba fito.**
 – I compel you to eat vegetables. (obligation)  
-**mi rai tu yam ba coi.**
+**mi rai tu yam ba fito.**
 – I think you eat vegetables. (opinion)
 
 
@@ -140,26 +140,26 @@ which indicates a modality such as desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **mi gou a dom.**
+1. **mi ja do dom.**
    – I go home.  
-2. **mi bil gou a dom.**
+2. **mi bil ja do dom.**
    – I can go home.  
-3. **mi vol bil gou a dom.**
+3. **mi vol bil ja do dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**tu vol yam di vege.**
+**tu vol yam yo fito.**
 – You want to eat vegetables. (desire)  
-**tu sela yam di vege.**
+**tu sel yam yo fito.**
 – You had better eat vegetables. (advice)  
-**tu las yam di vege.**
+**tu las yam yo fito.**
 – You may eat vegetables. (permission)  
-**tu bil yam di vege.**
+**tu bil yam yo fito.**
 – You can eat vegetables. (ability)  
-**tu rai yam di vege.**
+**tu rai yam yo fito.**
 – You must eat vegetables. (obligation)
 
 ## Pronoun dropping

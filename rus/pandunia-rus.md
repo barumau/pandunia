@@ -152,7 +152,6 @@ be fobi - бояться (страшиться)
 be in bum - взрываться вовнутрь  
 be jaga - проснуться  
 be kino - двигаться  
-be kite - идти  
 be mal - принадлежать  
 be migra - переезжать  
 be pute - гнить (портиться)  
@@ -218,6 +217,8 @@ buku - книга
 bulbul - соловей  
 bum - взрыв  
 burge - крепость (форт)  
+buro - контора (бюро, офис)  
+buro krati - бюрократия  
 bus halte - автобусная остановка  
 buta - ботинок  
 buton - пуговица  
@@ -344,14 +345,6 @@ dush - душ
 einstein yum - эйнштейний  
 eko jene di - дикий  
 ekore - белка  
-ekso - вне  
-ekso jan - посторонний (аутсайдер)  
-ekso jene di - экзогенный  
-ekso klus di - исключительный (эксклюзивный)  
-ekso planete - экзопланета (внесолнечная планета)  
-ekso verse di - экстраверт  
-ekso vide di - очевидный  
-ekso yam - пикник  
 eletro lin - провод (кабель)  
 eletro radi - молния  
 elfe - эльф  
@@ -386,9 +379,6 @@ fa dika - целиться
 fa dosil - укрощать (приручить)  
 fa dosil jene - одомашнивать  
 fa dus forma - уродовать  
-fa ekso - выгнать (исключить, кроме)  
-fa ekso klus - исключить  
-fa ekso trata - извлекать  
 fa estude - изучать  
 fa fatu - наказать  
 fa fen gata - анализировать  
@@ -419,7 +409,7 @@ fa plasti - лепить
 fa presa - нажимать  
 fa pul - заполнять  
 fa re - повторять  
-fa sela - советовать  
+fa sel - советовать  
 fa shibai - проиграть (провалиться)  
 fa shopi - покупать (купить)  
 fa shula - учиться  
@@ -431,6 +421,9 @@ fa sundar daka - украсить
 fa tele fon - звонить  
 fa truke - обмануть  
 fa turbe - утруждать  
+fa vai - выгнать (исключить, кроме)  
+fa vai klus - исключить  
+fa vai trata - извлекать  
 fa valu - оценивать  
 faida - применение (утилитарность)  
 fan - болото  
@@ -462,6 +455,7 @@ fleche - стрела (стрелка)
 flerof yum - флеровий  
 flur - фтор  
 fonte kalam - авторучка  
+for - прочь (вон)  
 fora - сверлить (бурить)  
 foto - свет  
 foto frike - полировать  
@@ -574,6 +568,7 @@ halo - алло
 ham di - важный (значимый)  
 hamil - беременный  
 Han - хань  
+han guan ja - мандарин  
 hande - рука  
 hande shaka - рукав  
 hapu - подходящий (годный)  
@@ -637,6 +632,7 @@ iris yum - иридий
 ironi - ирония  
 islam din - ислам (мусульманство)  
 ####J - J  
+ja - идти  
 jamul - джамболан  
 janela - окно  
 jangal - лес (джунгли)  
@@ -713,6 +709,7 @@ kandi - конфета
 kane - кол (штанга)  
 kane kasa - клетка  
 kane minte - мята колоси́стая  
+kane sor - щеколда  
 kangaru - кенгуру  
 kanjar - кинжал  
 kano - каноэ  
@@ -779,7 +776,7 @@ kon bon - соответствовать (сочетаться)
 kon forma - применяться (согласоваться)  
 kon gong - сотрудничать (кооперировать)  
 kon pasi - жалость (сердобольность)  
-kon sela ja - консультант (советник)  
+kon sel ja - консультант (советник)  
 kon trati - контракт  
 konserte - концерт  
 koperni yum - коперниций  
@@ -1005,6 +1002,7 @@ mum melon - восковая тыква (зимняя дыня)
 mur - стена (вал)  
 mur kaguji - обои  
 murche - муравей  
+mus - должен  
 mushu - мышь  
 muskul bina - культуризм  
 musli - мюсли  
@@ -1018,9 +1016,10 @@ na poli mar - часто
 nadir - редкий  
 nadir mar - редко  
 najis - грязь (скверна)  
+nam - имя  
+nam hin - безымянный  
+nam kitabu - подписать  
 nama - мясо  
-name hin - безымянный  
-name kitabu - подписать  
 nanas - ананас  
 nardi - нарды (триктрак)   
 nasi - нация  
@@ -1142,6 +1141,7 @@ pei gong ja - профессионал (профи)
 pei gong jiu - карьера  
 pelpel - бабочка (мотылёк)  
 pende kardon - чертополох поникший  
+pende sor - висячий замок  
 pente - картина  
 pente brosha - кисть  
 pente ja - художник  
@@ -1303,7 +1303,7 @@ saur - ящерица
 se - себя (-ся)  
 se kon - друг друга  
 sekse logi - сексология  
-sela loga - совет  
+sel - совет  
 selen yum - селен  
 selge - мангольд  
 selu logi - цитология  
@@ -1376,9 +1376,10 @@ sili - серия
 sili nete - кольчуга  
 sili tika - звено  
 silis - кремний  
-silko - шёлк  
+silke - шёлк  
+silke larva - шелкопряд  
 sim - идеология  
-sina plate - нагрудник  
+sine plate - нагрудник  
 sing - звезда  
 sir plan - заговор (сговор)  
 siro - нуль (зеро)  
@@ -1453,7 +1454,7 @@ tele vide gi - телевизор
 teleskope - телескоп  
 telu yum - теллур  
 tema - тема  
-tema name - название (пьесы, заголовок)  
+tema nam - название (пьесы, заголовок)  
 ten bil - доступный  
 ten fasil ta - доступность  
 tenesi yum - теннессин  
@@ -1509,6 +1510,14 @@ va - вау!
 vaf - собака  
 vagina - влагалище (вагина)  
 vagina flame - вагинит  
+vai - вне  
+vai jan - посторонний (аутсайдер)  
+vai jene di - экзогенный  
+vai klus di - исключительный (эксклюзивный)  
+vai planete - экзопланета (внесолнечная планета)  
+vai verse di - экстраверт  
+vai vide di - очевидный  
+vai yam - пикник  
 vali susan - ландыш  
 valu - ценность  
 vampir - вампир (упырь)  

@@ -276,6 +276,7 @@ Bulgaria - Bolgaria
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
 bussipysäkki (linja-autopysäkki) - bus halte  
+byrokratia - buro krati  
 ####C - C  
 Cabo Verde - Kabu Verde  
 Cayman-saaret - Kaiman nesi  
@@ -348,8 +349,8 @@ eilen - chen den
 einsteinium - einstein yum  
 ekologia (ympäristötiede) - eko logi  
 eksa- - eksa  
-eksonyymi - ekso name  
-eksoplaneetta - ekso planete  
+eksonyymi - vai nam  
+eksoplaneetta - vai planete  
 El Salvador - Salvador  
 ele - jeste  
 elegantti - shike  
@@ -380,7 +381,7 @@ emäs - kali
 emätin (vagina) - vagina  
 emätintulehdus - vagina flame  
 Enceladus - Enceladus  
-endonyymi (omakielinen nimi) - in name  
+endonyymi (omakielinen nimi) - in nam  
 enemmistö - mas di fen  
 enemmän (myös, lisäksi, plus) - mas  
 energia - energi  
@@ -451,7 +452,7 @@ Europa-kuu - Europa luna
 europium - europa yum  
 euteismi (usko jumalan hyvyyteen) - eu deu sim  
 evankeliumi(hyvä sana) - eu anjil  
-eväsretki (piknik) - ekso yam  
+eväsretki (piknik) - vai yam  
 ####F - F  
 Falklandin saaret - Malvinas nesi  
 fani (-fiili) - fili ja  
@@ -667,7 +668,7 @@ holmium - holme yum
 hologrammi - holo grafi  
 holvikatto - arka chati  
 homo (homoseksuaali) - gei  
-homonyymi - sam name  
+homonyymi - sam nam  
 homoseksuaali - sam sekse di  
 Honduras - Onduras  
 Hong Kong - Hong Gong  
@@ -783,7 +784,7 @@ ilmasto - klima
 ilmastonmuutos - klima mute  
 ilmastotiede (klimatologia) - klima logi  
 ilmavoimat - air gun  
-ilmeinen (silminnähtävä) - ekso vide di  
+ilmeinen (silminnähtävä) - vai vide di  
 ilmestyä - be zai  
 ilmiasu (ulkonäkö) - rupa  
 ilostuttaa (tyydyttää) - fa suka  
@@ -983,7 +984,7 @@ kaikki - pan
 kaiku - mira sonde  
 kaipuu (ikävä, nostalgia) - nostalgia  
 kaivaa - fa kave  
-kaivaa esiin - fa ekso kave  
+kaivaa esiin - fa vai kave  
 kakku (keksi) - keke  
 kaksi (2) - du  
 kaksikielinen - du basha di  
@@ -1277,8 +1278,8 @@ kone - gi
 konkani (eräs intialainen kieli) - Konkani  
 konsertti - konserte  
 konsonantti - kinar fon  
-konsultoida (antaa neuvoja) - kon sela  
-konsultti - kon sela ja  
+konsultoida (antaa neuvoja) - kon sel  
+konsultti - kon sel ja  
 kontaktikieli (pidgin) - pijin  
 kontiainen (maamyyrä) - krote  
 kontti - in gi  
@@ -1465,7 +1466,7 @@ käydä järkeen - be razon
 käynti (vierailu, visiitti) - keka  
 käytettävissä oleva - uze bil di  
 käyttäjä - uze ja  
-käyttäjänimi - uze ja name  
+käyttäjänimi - uze ja nam  
 käyttäytyä - manera  
 käyttää - uze  
 käytännöllinen (pragmaattinen) - prati di  
@@ -1633,7 +1634,7 @@ loppu - fin
 loppua - be fin  
 loppuliite (jälkiliite) - pos fikse  
 loppunut - fin di  
-loukkaus (herja) - dus name  
+loukkaus (herja) - dus nam  
 loukkaus (törkeys) - insulte  
 lounas - dia yam  
 luhistua (sortua sisään) - be in bum  
@@ -1642,6 +1643,7 @@ luiska (ramppi) - rampe
 lukea - duku  
 lukita - fa sor  
 lukitsematon - an sora di  
+lukko - sor  
 luku (kirjan osa) - babu  
 lukumäärä (luku, numero) - nomer  
 lumi - hima  
@@ -1771,6 +1773,7 @@ malli - model
 mallintaa - fa model  
 Malta - Malta  
 manata esiin - zai fa  
+mandariini (kiinalainen virkailija) - han guan ja  
 mandariini - lal oranje  
 mangaani - mangan  
 mango - mango  
@@ -1830,8 +1833,7 @@ melodia (sävelmä) - melodi
 melodinen (sointuisa) - melodi  
 mendelevium - mendelef yum  
 menneisyys - chen zaman  
-mennyt (poissa) - kite  
-mennä - be kite  
+mennä - ja  
 mennä ohi tai läpi - pas  
 mennä sisään - be in  
 mennä vasten - kontra  
@@ -2034,8 +2036,8 @@ Neptunus - Neputun
 neste - dara mate  
 nestemäinen - dara mate di  
 nettisivu - nete loka  
-neuvo - sela loga  
-neuvoa - fa sela  
+neuvo - sel  
+neuvoa - fa sel  
 neuvontantaja (mentori) - mentor  
 neuvotella - fa biznes lon  
 Nevis - Nevis  
@@ -2049,9 +2051,9 @@ nihonium - nipon yum
 Nikaragua - Nikaragua  
 nikkeli - nikel  
 nilviäinen - moluske  
-nimetön - name hin  
-nimi - name  
-nimittää (kutsua) - fa name  
+nimetön - nam hin  
+nimi - nam  
+nimittää (kutsua) - fa nam  
 niobium - niobi yum  
 nipistää - pinse  
 nisä (tissi) - titi  
@@ -2142,7 +2144,7 @@ olla eri mieltä - alo rai
 olla hereillä - jaga  
 olla jtkn mieltä (pitää jnkn) - fa rai  
 olla linjassa - be ging  
-olla nimeltään - be name  
+olla nimeltään - be nam  
 olla olemassa - zai  
 olla samaa mieltä - fa sam rai  
 olla väliä (olla tärkeä) - ham  
@@ -2201,7 +2203,7 @@ ostaa - fa shopi
 ostaja - shopi ja  
 ostokset - shopi  
 otella - fa meche  
-ottaa esiin (paljastaa) - ekso poze  
+ottaa esiin (paljastaa) - vai poze  
 ottaa kiinni (napata, kaapata) - kape  
 ottelu (matsi) - meche  
 outo (kummallinen) - guai  
@@ -2229,7 +2231,7 @@ pakana - kafir
 pakata - fa pake  
 Pakistan - Pakistan  
 pakkaus (paketti) - pake  
-pakko - deve ta  
+pakko - mus ta  
 pakko - paka  
 pakottaa - fa paka  
 paksu - gros  
@@ -2396,7 +2398,7 @@ pitseria - piza kan
 pituus - long ta  
 pituusaste - ging darja  
 pituuspiiri - ging gola  
-pitäisi - sela  
+pitäisi - be sel  
 pitää (pitää kiinni, pitää hallussa) - ten  
 pitää (tykätä, olla tyytyväinen jstkn) - be suka  
 pitää yhdessä - kon ten  
@@ -2421,12 +2423,14 @@ pohtia (meditoida) - jen
 poika (nuori mies) - joven man  
 poika - man ben  
 poikittainen (vaaka) - vei di  
-poissulkeva (eksklusiivinen) - ekso klus di  
+pois (poissa) - for  
+poissulkeva (eksklusiivinen) - vai klus di  
 poistaa (hävittää) - fa an zai  
-poistaa (paitsi, poislukien) - fa ekso  
+poistaa (paitsi, poislukien) - fa vai  
+poistaa (viedä) - fa for  
 poistaa toiminnasta - fa an karma  
 poistaa virheitä (debugata) - fa an galta  
-poistua (mennä ulos) - be ekso  
+poistua (mennä ulos) - be vai  
 poistua - fa chuti  
 poistuminen - chuti  
 pokeri - poker  
@@ -2634,6 +2638,7 @@ retkeilijä - kampe ja
 reuna (raja, ääri) - kinar  
 reuna- - kinar di  
 Reunion - Reunion  
+riippulukko (munalukko) - pende sor  
 riippumatto - hamake  
 riisi - ris  
 riisikakku - ris biskute  
@@ -2644,8 +2649,8 @@ rikki (palasina) - parche di
 rikki - sulfu  
 rikos - krim  
 rikos- (rikollinen) - krim di  
-rinta - sina  
-rintakehä - sina kasa  
+rinta - sine  
+rintakehä - sine kasa  
 riski - risko  
 riskialtis - risko di  
 risteytys (hybridi) - hibride  
@@ -2741,6 +2746,7 @@ sallia (antaa lupa) - fa halal
 sallia - tolera  
 sallittu (hyväksytty) - halal  
 Salomon-saaret - Solomon nesi  
+salpa (säppi) - kane sor  
 sama (yhtäläinen) - sam  
 samanlainen - sam sifa di  
 samanmaalainen (maanmies) - sam desha jan  
@@ -2845,8 +2851,8 @@ sienieläin - esponje
 sienirihmasto - fungu nete  
 Sierra Leone - Salon  
 sihistä - zizi  
-sihteeri - sekretar ja  
-sihteeristö - sekretar ofis  
+sihteeri - buro ja  
+sihteeristö - buro ja grupe  
 siipi - ving  
 siipipapu - lung dou  
 siirappi - shirope  
@@ -2860,7 +2866,8 @@ sikhi - siki din ja
 sikhiläisyys - siki din  
 siksakki - zigzage  
 sileä - lis  
-silkki - silko  
+silkki - silke  
+silkkiäistoukka - silke larva  
 silmukkapanssari (rengashaarniska) - sili nete  
 silmä - oko  
 silmä- - oko di  
@@ -2924,7 +2931,7 @@ solmia (tehdä solmu) - fa node
 solmu - node  
 solu - selu  
 soluoppi (sytologia) - selu logi  
-solvata (loukata) - fa dus name  
+solvata (loukata) - fa dus nam  
 Somalia - Somal  
 Somalimaa - Somal Desha  
 sopia (passata) - be hapu  
@@ -2957,14 +2964,14 @@ stereofoninen - du soni di
 stereoskooppinen - du grafi di  
 strontium - estronti yum  
 suahili - suahili  
-substantiivi (nimisana) - name loga  
+substantiivi (nimisana) - nam loga  
 Sudan - Sudan  
 sudenkorento - libele  
 suihku - dush  
 sukka - maze  
 suklaa - choklate  
 suklaapatukka - choklate kane  
-sukunimi - famili name  
+sukunimi - famili nam  
 sukupuoli - jinse  
 sukupuolinen - jinse di  
 sukupuolitutkimus - jinse logi  
@@ -2976,7 +2983,7 @@ sulka - pero
 sulkakynä - pero kalam  
 sulkea (panna kiinni) - fa klus  
 sulkea - klus  
-sulkea pois - fa ekso klus  
+sulkea pois - fa vai klus  
 summa - sum  
 sunnalaisuus - suna islam din  
 suo (räme) - fan topo  
@@ -3019,7 +3026,7 @@ Svalbard - Sualbarde
 Sveitsi - Suise  
 Swazimaa - Suati  
 syaani - sian  
-sydän - sim  
+sydän - shim  
 syksy (syys) - pade mosim  
 sylkeä - tuh  
 symmetria - sam metre  
@@ -3252,6 +3259,7 @@ tohveli - babuche
 toimelias (aktiivinen) - karma ja  
 toiminta (funktio) - funsi  
 toimintahäiriö - dus funsi  
+toimisto (konttori, byroo) - buro  
 toimittaja (journalisti, lehtimies) - gazeta ja  
 toimiva -   
 toisiaan (keskenään) - se kon  
@@ -3382,7 +3390,7 @@ täydellinen (täysin hyvä) - pul bon
 täysi - pul  
 täytetty pulla - mantu  
 täyttää - fa pul  
-täytyä (olla pakko) - deve  
+täytyä (olla pakko) - mus  
 täällä - na ni  
 törkeä - insulte di  
 Tšad - Chade  
@@ -3392,19 +3400,19 @@ Uganda - Ganda
 uhri (uhraus) - kurban  
 ukkosmyrsky - grom tafun  
 Ukraina - Ukraina  
-ulko- (ulkoinen) - ekso di  
-ulkoinen - do ekso  
-ulkomaa - ekso desha  
-ulkomaalainen - ekso desha di  
-ulkona (ulkopuolella) - na ekso  
-ulkopuoli - ekso  
-ulkopuolinen - ekso jan  
-ulkosyntyinen - ekso jene di  
+ulko- (ulkoinen) - vai di  
+ulkoinen - do vai  
+ulkomaa - vai desha  
+ulkomaalainen - vai desha di  
+ulkona (ulkopuolella) - na vai  
+ulkopuoli - vai  
+ulkopuolinen - vai jan  
+ulkosyntyinen - vai jene di  
 uloskäynti - chuti mun  
-ulospäinsuuntautunut (ekstrovertti) - ekso verse di  
+ulospäinsuuntautunut (ekstrovertti) - vai verse di  
 ulostaa (kakata) - kaka  
 uloste (kakka) - kaka  
-ulosvetäjä - ekso trata gi  
+ulosvetäjä - vai trata gi  
 ulottuvilla - ten bil  
 ulvoa - ulul  
 ulvonta - ulul  
@@ -3550,7 +3558,7 @@ veneilijä - nave ja
 veneillä - nave gou  
 Venezuela - Venezuela  
 Venus - Venus  
-venyttää (pingottaa) - fa ekso tense  
+venyttää (pingottaa) - fa vai tense  
 Venäjä - Rusia  
 venäläinen - rusia basha  
 verbi (teonsana) - karma loga  
@@ -3576,9 +3584,8 @@ vetovoima (šarmi) - charme
 vety - hidro  
 vetää (kiskoa) - tire  
 vetää (kiskoa, raahata) - trata  
-vetää ulos - fa ekso trata  
-viedä - fa kite  
-viedä pois (viedä maasta) - ekso mise  
+vetää ulos - fa vai trata  
+viedä pois (viedä maasta) - vai mise  
 vielä (yhä, jatkua) - zoku  
 vieraanvarainen (antelias, hyväntahtoinen) - karim di  
 vierailija (vieras) - keka ja  
@@ -3621,11 +3628,10 @@ vinyyli - vinil
 violetti (liila) - lila rang  
 violetti - violeta blu  
 vipu - tire kane  
-virallinen - ofis di  
-virasto (toimisto, konttori) - ofis  
+virallinen - guan di  
 virhe (erhe) - galte  
-virka (virka-asema) - ofis poze  
-virkailija (virkamies) - ofis ja  
+virka (virka-asema) - guan  
+virkailija (virkamies) - guan ja  
 Viro (Eesti) - Esti  
 virologia - virus logi  
 virrata - be dara  

@@ -6,8 +6,8 @@ un suba, ma baru ya yau do la bazar.
 ye loga pa lili baru:
 "no yam yo kandi o keke na dura da mi na bazar."
 lili baru ya loga:
-"ya, ya, mama! mi sabe ye. mi un dai baru. ching do ekso!"
-ma baru ya loga "salam" e ye do ekso.
+"ya, ya, mama! mi sabe ye. mi un dai baru. ching do vai!"
+ma baru ya loga "salam" e ye do vai.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
 
@@ -66,7 +66,7 @@ lili baru loga: "si! mi ten pasi dante!"
 ![](http://www.pandunia.info/grafe/urse_dante/urse_11.png)
 
 la dava ja ya ching la lili baru ya side na kursi e kai se su boke.
-"aha! un dante si poli dus! mi deve kape ye do ekse"
+"aha! un dante si poli dus! mi mus kape ye do ekse"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_12.png)
 
@@ -95,12 +95,12 @@ la dava ja e vaf e mau e ekore ya tire la dante...
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_17.png)
 
-la dante lai do ekso!
+la dante lai do vai!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_18.png)
 
 la dava ja ya loga do lili baru:
-"la dus dante zai na ekso.
+"la dus dante zai na vai.
 ching memo uze un dante brosha na pan un suba e na pan un sham!"
 lili baru ya vode memo.
 

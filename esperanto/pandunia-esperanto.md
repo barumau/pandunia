@@ -184,11 +184,11 @@ be hapu - taŭgi
 be jene - naski  
 be kai - malfermiĝi  
 be kino - moviĝi  
-be kite - iri  
 be mal - aparteni  
 be mata - morti  
 be raste - kreski  
 be retro - reiri  
+be sel - devus  
 be shuru - komenciĝi  
 be sona - dormi  
 be suka - ŝati  
@@ -373,8 +373,6 @@ deu di - dia
 deu kata - mito  
 deu krati - teokratio  
 deu logi - teologio  
-deve - devi  
-deve ta - devo  
 dia - tago  
 dia foto - taglumo  
 dia yam - tagmanĝo  
@@ -440,11 +438,6 @@ einstein yum - ejnŝtejnio
 eko - naturo  
 ekore - sciuro  
 ekran - ekrano  
-ekso - ekstero  
-ekso desha - fremda lando  
-ekso di - ekstera  
-ekso planete - ekzoplanedo  
-ekso vide di - evidenta  
 Ekuador - Ekvadoro  
 eletro - elektro  
 eletro di - elektra  
@@ -493,8 +486,6 @@ fa dika - celi
 fa dom - loĝigi  
 fa duka - malĝojigi  
 fa dura - daŭrigi  
-fa ekso - krom (escepti)  
-fa ekso klus - ekskludi  
 fa eskulte - skulti  
 fa fantazi - fantaci  
 fa fen - dividi  
@@ -503,6 +494,7 @@ fa festa - festi
 fa fikse - fiksi  
 fa fobi - timigi  
 fa fokus - koncentri  
+fa for - forigi  
 fa forma - formigi  
 fa fuku - vestigi  
 fa gami - edzigi  
@@ -562,12 +554,14 @@ fa side - sidi
 fa sina - kreda  
 fa sual - demandi  
 fa tele fon - telefoni  
+fa vai - krom (escepti)  
+fa vai klus - ekskludi  
 fa vanu - amuzi  
 fa vode - promesi  
 faida - utileco  
 faida di - utila  
 famili - familio  
-famili name - familinomo  
+famili nam - familinomo  
 fan - koto  
 fan di - kota  
 fan topo - marĉo  
@@ -769,6 +763,7 @@ hamar - martelo
 hamil - graveda  
 hamir - feĉo  
 Han - hana  
+han guan ja - mandareno  
 hande - mano  
 hande di - mana  
 haos - kaoso (malordo)  
@@ -865,6 +860,7 @@ Islande - Islando
 Israel - Israelo  
 Italia - Italio  
 ####J - J  
+ja - iri  
 ja - isto (anto)  
 jaga - uyanık  
 jain din - Ĝajnismo  
@@ -947,6 +943,7 @@ kancha - vitro
 kandi - bombono  
 kane - stango  
 kane kasa - kaĝo  
+kane sor - riglilo  
 kangaru - kangaro  
 kanjar - ponardo  
 kano - kanuo (kanoto)  
@@ -997,12 +994,12 @@ kesha brosha - saç fırçası
 kesha hin - senhara  
 kesha sabun - ŝampuo  
 ki - ke  
-kio - ponto  
 kilomitre - kilometro  
 kimi logi - ĥemio (kemio)  
 kimi so - kemia elemento  
 kimono - kimono  
 kinar - rando (orlo)  
+kio - ponto  
 kisma - sorto (destino)  
 kitabu - skribo  
 kitabu gi - tajpilo  
@@ -1266,6 +1263,8 @@ mun - pordo
 mur - vando  
 mur kaguji - tapeto  
 murche - formiko  
+mus - devi  
+mus ta - devo  
 mushu - muso aŭ rato  
 muskete - muskedo  
 muskul - muskolo  
@@ -1277,7 +1276,6 @@ muzika ja - muzikisto
 Myanma - Birmo  
 ####N - N  
 na - ĉe (en, sur)  
-na ekso - ekster  
 na go - tie  
 na ke - kie  
 na medi - inter  
@@ -1286,6 +1284,7 @@ na nove - ĵus
 na poli mar - ofte  
 na re - denove (ripete)  
 na supra - super  
+na vai - ekster  
 na vakil da - anstataŭ  
 nabi - profetaĵo  
 nadir - malofta  
@@ -1294,10 +1293,10 @@ nafas - spiro
 nagar - urbo  
 nagar di - urba  
 Naijiria - Niĝerio  
+nam - nomo  
+nam hin - sennoma  
+nam loga - substantivo  
 nama - viando  
-name - nomo  
-name hin - sennoma  
-name loga - substantivo  
 Namibia - Namibio  
 nanas - ananaso  
 nasi medi - internacia  
@@ -1602,7 +1601,6 @@ se kon - unu la alian (reciproke)
 se kon - unu la alian  
 se kon su - reciproka  
 sekse - sekso  
-sela - devus  
 selen yum - seleno  
 selu - ĉelo  
 selu logi - citologio  
@@ -1641,6 +1639,7 @@ sheku - ŝtono
 shenga - venko  
 shia islam din - ŝijaismo  
 shikaya - plendo  
+shim - koro  
 shir - poemo  
 shirope - siropo  
 shish nama - ŝaŝliko  
@@ -1672,12 +1671,13 @@ sili - serio
 sili sili - ĉeno  
 sili tika - ĉenero  
 silis - silicio  
-sim - koro  
+silke - silko  
+silke larva - silkraŭpo  
 sim - ismo  
 simple - simpla  
 sina - kredo  
-sina - brusto  
-sina kasa - torako  
+sine - brusto  
+sine kasa - torako  
 sing - stelo  
 singa - leono  
 Singapur - Singapuro  
@@ -1701,6 +1701,7 @@ sona kamar - dormoĉambro
 sona tabi - dormema  
 song - pino  
 soni - sono  
+sor - fermilo (seruro)  
 sos - saŭco  
 sosi - socio  
 sosis - kolbaso  
@@ -1825,6 +1826,11 @@ va - ŭaŭ!
 vaf - hundo  
 vagina - vagino  
 vagina flame - vaginito  
+vai - ekstero  
+vai desha - fremda lando  
+vai di - ekstera  
+vai planete - ekzoplanedo  
+vai vide di - evidenta  
 vali - valo  
 valu - valoro  
 vanu - amuzo  

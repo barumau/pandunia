@@ -44,8 +44,8 @@ adventure (venture) - ventur
 adventurer - ventur ja  
 adverb - mode loge  
 adversary (antagonist, opponent) -   
-advice (counsel) - sela loga  
-advise (recommend) - fa sela  
+advice (counsel) - sel  
+advise (recommend) - fa sel  
 advisor (counselor, mentor) - mentor  
 advocacy (promotion, -ism) - sim  
 advocate (promote, support) - fa sim  
@@ -322,7 +322,7 @@ be about (discuss as a subject) - tema
 be beside (accompany) - na late  
 be born - be jene  
 be bothered by (bother to, take the trouble to) - be turbe  
-be called (be named) - be name  
+be called (be named) - be nam  
 be located (lie, be situated) - be loka  
 be seen - be vide  
 beacon (lighthouse) - foto minar  
@@ -472,7 +472,7 @@ Brazzaville - Brazavil
 bread - pang  
 breakfast - suba yam  
 breast (boob, tit) - titi  
-breastplate - sina plate  
+breastplate - sine plate  
 breath - nafas  
 breed - jene yo zou  
 brick - dobe  
@@ -503,6 +503,7 @@ Bulgaria - Bolgaria
 bulletproof - dane sekur  
 bunk bed - cheng bede  
 burden (load, encumber) -   
+bureaucracy - buro krati  
 Burkina Faso - Burkina Faso  
 burn (be burned) - be hogo  
 burn (cause to burn) - fa hogo  
@@ -544,7 +545,7 @@ calendar - kalenda
 californium - kaliforni yum  
 caliph - halifa  
 caliphate - halifa desha  
-call (name) - fa name  
+call (name) - fa nam  
 call on the phone - fa tele fon  
 Callisto - Kalisto  
 calm (peaceful, quiet) - shanti di  
@@ -653,7 +654,7 @@ chemistry - kimi logi
 cherry - cheri  
 cherub - kerubi  
 chess - shatrang  
-chest (breast) - sina  
+chest (breast) - sine  
 chestnut - kastana  
 chicken - koko  
 chickpea - humus  
@@ -845,7 +846,7 @@ cotton thistle - pin kardon
 cougar (puma, mountain lion) - puma  
 cough - koso  
 coulomb (unit) - kulombe  
-counselor (consultant) - kon sela ja  
+counselor (consultant) - kon sel ja  
 count (enumerate) - fa nomer  
 counterclockwise (anticlockwise) - rota lefte  
 country (land, state) - desha  
@@ -1156,7 +1157,7 @@ encode (encrypt) - kode
 end (ending) - fin  
 end - be fin  
 ended (finished) - fin di  
-endonym - in name  
+endonym - in nam  
 enemy (foe, villain) - dus jan  
 enemy (unfriend) - an dosti  
 energy - energi  
@@ -1216,28 +1217,28 @@ every (all) - pan
 every (each) - pan un  
 everybody (everyone) - pan jan  
 everything - pan she  
-evident (apparent, obvious) - ekso vide di  
+evident (apparent, obvious) - vai vide di  
 exa- - eksa  
 examine (inspect, check) - cheke  
 example (instance of) - misal  
-excavate (dig out) - fa ekso kave  
+excavate (dig out) - fa vai kave  
 exceed (be greater than) - be mas  
 excellence (quality, virtue) - bon sifa ta  
 excellent - bon sifa di  
 except (minus) - a min da  
 exchange (replace, trade, swap) - yeka  
 exchange (swap, replace, trade) - badal  
-exclude (keep out) - fa ekso klus  
-exclusive - ekso klus di  
+exclude (keep out) - fa vai klus  
+exclusive - vai klus di  
 excrement (shit) - kaka  
 exercise - lenshi  
 exist (presently, currently) - zai  
-exit (get out) - be ekso  
+exit (get out) - be vai  
 exit (leaving) - chuti  
 exit door - chuti mun  
-exogenous - ekso jene di  
-exonym - ekso name  
-exoplanet - ekso planete  
+exogenous - vai jene di  
+exonym - vai nam  
+exoplanet - vai planete  
 expect (anticipate, predict, forsee) - chen vide  
 expected - chen vide di  
 expensive (costly) - koste di  
@@ -1246,13 +1247,13 @@ explode - be bum
 explore (browse) - brauza  
 explorer - logi safar ja  
 explosion (blast, eruption) - bum  
-export - ekso mise  
-expose (reveal) - ekso poze  
-extend (stretch out) - fa ekso tense  
-extent - ekso tense  
-extract (draw out) - fa ekso trata  
-extractor - ekso trata gi  
-extroverted (outgoing) - ekso verse di  
+export - vai mise  
+expose (reveal) - vai poze  
+extend (stretch out) - fa vai tense  
+extent - vai tense  
+extract (draw out) - fa vai trata  
+extractor - vai trata gi  
+extroverted (outgoing) - vai verse di  
 eye (look, watch, observe, spectate) - fa oko  
 eye - oko  
 eyelash - oko kesha  
@@ -1387,8 +1388,8 @@ for example - do misal
 forbid (ban, disallow) - fa haram  
 forbidden (illicit, haram, taboo) - haram  
 force (strength, power) - lika  
-foreign - ekso desha di  
-foreign country - ekso desha  
+foreign - vai desha di  
+foreign country - vai desha  
 forenoon - suba dia  
 forest (woods, jungle) - jangal  
 forget - an memo  
@@ -1503,7 +1504,7 @@ giraffe - jirafa
 girl - joven fem  
 give - dona  
 give birth (beget, generate, breed) - fa jene  
-give consultation - kon sela  
+give consultation - kon sel  
 glass - kancha  
 glaze (vitrify) - fa kancha dake  
 glazing (enamel) - kancha daka  
@@ -1514,7 +1515,7 @@ glossy - foto mira di
 glue (adhesive) - glu  
 gluten - gluten  
 gnome - geo elfe  
-go (move away) - be kite  
+go (move through space) - ja  
 go against - kontra  
 go fishing - saide yo peshe  
 go under - be niche  
@@ -1524,7 +1525,6 @@ god (deity) - deu
 god of love (Eros, Kamadeva) - kama deu  
 gold - auro  
 golem - golem  
-gone (away) - kite  
 goniometer - gona metre gi  
 good (prosperous; used in greetings) - salam di  
 good - bon  
@@ -1639,7 +1639,7 @@ heal (cure, treat, remedy) - dava
 health - salu ta  
 healthy - salu  
 hear (listen) - audi  
-heart - sim  
+heart - shim  
 heavy (requiring much effort, hard, difficult, serious, important, etc.) - bari  
 heavy - veze di  
 heavy metal - bari metal  
@@ -1697,7 +1697,7 @@ Holy See (Vatican City State) - Vatikan
 holy writ (sacred writings) - sante kanon  
 home (house, residence) - dom  
 homeland - dom desha  
-homonym - sam name  
+homonym - sam nam  
 homoromantic - sam romanse di  
 homosexual - sam sekse di  
 Honduras - Onduras  
@@ -1810,8 +1810,8 @@ insomnia - an sona
 instructions (recipe) - reseta  
 instrument (means) - medi gi  
 insult (offence) - insulte  
-insult (offend, call names) - fa dus name  
-insult (offense) - dus name  
+insult (offend, call names) - fa dus nam  
+insult (offense) - dus nam  
 intend (plan) - fa plan  
 intensify - be teza  
 intensive (depending on context: brisk, sharp, acrid, strong, fast, quick) - teza  
@@ -1965,6 +1965,7 @@ larva (maggot, caterpillar) - larva
 lasagna - lazanya  
 last (final) - fin me  
 last (take time; during) - be dura  
+latch - kane sor  
 later (after) - pos  
 lateral (horizontal) - late di  
 Latin alphabet - Latin zi  
@@ -2149,6 +2150,7 @@ mammal - mamal
 man (adult male) - matur man  
 manage (organize) - fa nomi  
 management (arrangement, -nomy) - nomi  
+mandarin - han guan ja  
 Mandarin Chinese (Putonghua) - Putong Han  
 mandarin orange (tangerine) - lal oranje  
 manganese - mangan  
@@ -2377,7 +2379,7 @@ musket - muskete
 musketeer - muskete ja  
 muskmelon - melon  
 muslim (moslem) - islam din ja  
-must - deve  
+must (have to, should) - mus  
 mutual (each other’s) - se kon su  
 Mx. (Mr. or Ms.) - shi  
 my - mi su  
@@ -2389,8 +2391,8 @@ Nahuatl (Nahua) - nava
 nail (fingernail) - nahun  
 nail (spike) - ding  
 naked (bare, nude) - nude  
-name - name  
-nameless (unnamed, anonymous) - name hin  
+name - nam  
+nameless (unnamed, anonymous) - nam hin  
 Namibia - Namibia  
 nano- - nano  
 nanometer - nano mitre  
@@ -2490,7 +2492,7 @@ notebook - note buku
 nothing - siro she  
 notice (notification) - note anjil  
 notify - fa note  
-noun - name loga  
+noun - nam loga  
 novel - long kata  
 novelty (new product) - nove  
 November - mes des un  
@@ -2511,7 +2513,7 @@ oasis - vase
 oat - ave  
 Oberon - Oberon  
 object (item, thing) - vutu  
-obligation (compulsion) - deve ta  
+obligation (compulsion) - mus ta  
 oblique (askew, tilted) - tercha  
 obsidian - osidian  
 ocean - dai hai  
@@ -2524,12 +2526,13 @@ odd (strange, weird, peculiar, bizarre) - guai
 Odia (Oriya) - Odisa  
 of (attributive preposition) - da  
 of course! (obviously) - klar!  
+off (away, gone, far-off) - for  
 off (deactivated, disabled) - an karma ja  
-office (bureau) - ofis  
-office (position) - ofis poze  
-office (room) - ofis kan  
-officer - ofis ja  
-official - ofis di  
+office (bureau) - buro  
+office (position) - guan  
+office (room) - buro kan  
+officer (bureaucrat, public servant) - guan ja  
+official (pertaining to public trust) - guan di  
 offline - no na lin  
 often (frequently) - na poli mar  
 oganesson - oganeson  
@@ -2590,14 +2593,14 @@ Ottoman - osman
 Ottoman Empire - Osman Imperi Desha  
 ouch (expressing pain, distress, shock and fear) - ayo  
 our - mimon su  
-oust (expel, exclude, except, save) - fa ekso  
+oust (expel, exclude, except, save) - fa vai  
 outcast (pariah) - paraya  
 outcome (victory or defeat) - shenga bai  
-outer (external) - ekso di  
-outside (exterior) - ekso  
-outside - na ekso  
-outsider - ekso jan  
-outward (external) - do ekso  
+outer (external) - vai di  
+outside (exterior) - vai  
+outside - na vai  
+outsider - vai jan  
+outward (external) - do vai  
 oven (furnace) - tanur  
 overestimate -   
 overpass - supra  
@@ -2615,6 +2618,7 @@ pacifist - pase sim ja
 pack (package) - pake  
 pack - fa pake  
 pact (contract, covenant, alliance) - kon trati  
+padlock - pende sor  
 page (side of a leaf of a book) - yepa late  
 pain (suffering) - pasi  
 painful - pasi di  
@@ -2751,7 +2755,7 @@ pickaxe - pin chope
 pickle (preserve in vinegar or brine) - fa achar  
 pickle - achar  
 pickled - achar di  
-picnic - ekso yam  
+picnic - vai yam  
 picture book - grafi buku  
 pidgin (contact language) - pijin  
 pie (pastry) - pai  
@@ -3033,7 +3037,7 @@ reluctant - an icha ja
 remain (stay) - be reste  
 remember (recall) - fa memo  
 remove (delete, dispose, erase) - fa an zai  
-remove (take away) - fa kite  
+remove (take away) - fa for  
 renew (make new, renovate) - fa nove  
 rent (charter, lease) - kira kape  
 rent out (let, lease) - kira dona  
@@ -3074,7 +3078,7 @@ rhinoceros - kornonos
 rhodium - rode yum  
 rhyme (verse) - rim  
 rhythm (beat) - ritim  
-rib cage - sina kasa  
+rib cage - sine kasa  
 rice - ris  
 rice cake (puffed rice cake) - ris biskute  
 rice wine - ris vin  
@@ -3237,8 +3241,8 @@ seaweed (macroalgae) - hai alga
 second(s) - sekunde  
 secondary school - jung shula kan  
 secret (hidden) - sir  
-secretariat - sekretar ofis  
-secretary - sekretar ja  
+secretariat - buro ja grupe  
+secretary (clerk) - buro ja  
 sect (cult) - din shia  
 seed (fertilized grain) - seme dane  
 seed (semen) - seme  
@@ -3308,7 +3312,7 @@ shore (coast, beach) - hai kinar
 short (brief) - korte  
 short story - korte kata  
 shorten - korte fa  
-should (ought) - sela  
+should (ought) - be sel  
 shoulder - kanta  
 shovel (spade, scoop) - bele  
 show (display, exhibition) - shou  
@@ -3319,14 +3323,15 @@ sibling (brother or sister) - brus
 side (flank) - late  
 sideways (laterally) - late  
 Sierra Leone - Salon  
-sign (autograph) - name kitabu  
+sign (autograph) - nam kitabu  
 sign (signal) - sin  
 Sikh - siki din ja  
 Sikhism - siki din  
 silence (make silent) - fa shush  
 silent - shush di  
 silicon - silis  
-silk - silko  
+silk - silke  
+silkworm - silke larva  
 silver - argente  
 similar (analogous) - sam sifa di  
 simple (not complicated) - simple  
@@ -3548,7 +3553,7 @@ superb (wonderful, super) - super
 supply (dispense, issue, put out) - fati  
 surface (face) - fase  
 Suriname - Surinam  
-surname (family name) - famili name  
+surname (family name) - famili nam  
 surpass (go over) - be supra  
 surprise - supriza  
 surrender (submit, yield) - be islam  
@@ -3718,7 +3723,7 @@ tiny (microscopic, micro-) - mikro
 Titan - Titan  
 Titania - Titania  
 titanium - titan yum  
-title (headline) - tema name  
+title (headline) - tema nam  
 to (toward, till, until, for) - do  
 to be centered (amid, in the middle) - jung  
 toast (toasted bread) - roste pang  
@@ -3864,7 +3869,7 @@ use (employ, apply) - uze
 use (utility, benefit, gain, advantage) - faida  
 useful (beneficial, advantageous) - faida di  
 user - uze ja  
-username - uze ja name  
+username - uze ja nam  
 utopia - eu topo  
 Uzbekistan - Uzbeki  
 ####V - V  

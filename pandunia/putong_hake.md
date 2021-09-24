@@ -11,16 +11,16 @@ saba – un putong aha da ni haki e huru ta ten la masim ham ta ga ni vode bil s
 asar – PUTONG JAMA DA UN TA NASI ya komun ni PUTONG LOGA DA INSAN HAKI ka un putong norma da jin ta do pan demo e pan nasi, do ichi da pan un jan e pan un fen da sosi, dura da hema ni loga na pan sata, vil gung ha shula do sim la onor da ni haki e huru ta e, na nasi di e nasi medi di jin sim di karma, fa sekur yemon su putong e funsi di note e sekur ta, na medi da nasi jan da membre desha e medi da jan da desha jo nicha yemon su krati.
 
 ## babu 1
-pan insan be jene ha huru ta e par ta na onor e haki. yemon ten yo razon e budi. yemon deve be chuli se kon ha ruhu da brus ta.
+pan insan be jene ha huru ta e par ta na onor e haki. yemon ten yo razon e budi. yemon mus be chuli se kon ha ruhu da brus ta.
 
 ## babu 2
-pan insan ten la haki da pan haki e huru ta na in da ni loga, ha hin da eni has ta da yang, do misal: rasa, rang da pil, jinse, basha, din, politi o alo rai, nasi o sosi asal, mal, jene, o alo hal. plus, deve no fa has na baze da politi di, sultan di, o medi nasi di hal da desha o area jo ten pan un insan, ga o no ga ye si auto nomi, ekso nomi, o eni alo yang da krati.
+pan insan ten la haki da pan haki e huru ta na in da ni loga, ha hin da eni has ta da yang, do misal: rasa, rang da pil, jinse, basha, din, politi o alo rai, nasi o sosi asal, mal, jene, o alo hal. plus, mus no fa has na baze da politi di, sultan di, o medi nasi di hal da desha o area jo ten pan un insan, ga o no ga ye si auto nomi, vai nomi, o eni alo yang da krati.
 
 ## babu 3
 pan insan ten la haki da jiu, huru ta, e sekur ta da jan.
 
 ## babu 4
-no halal eni insan be paka do serve ta. paka serve ta e vende xopi da paka serve ja deve be haram na pan forma.
+no halal eni insan be paka do serve ta. paka serve ta e vende xopi da paka serve ja mus be haram na pan forma.
 
 ## babu 5
 no halal eni insan be zalim di pasi o be dona yo zalim di, an insan di, o an yau di insulti pune.
@@ -35,10 +35,10 @@ pan insan si par na kanun e ten la haki da par sekur da kanun ha hin da eni has 
 pan insan ten la haki da un funsi di sahi ze desha di jude ja, da ten sultane, ca acione da kontra bazi haki da wadu bazokanune o ali kanune pa le.
 
 ## babu 9
-no halal eni insan be an razon di kape o jela o desha ekso.
+no halal eni insan be an razon di kape o jela o desha vai.
 
 ## babu 10
-pan insan ten, na pul par ta, la haki da un adal e komun di audi ze auto nomi e an parti di jude ja do jude da ye su haki o deve o krime.
+pan insan ten, na pul par ta, la haki da un adal e komun di audi ze auto nomi e an parti di jude ja do jude da ye su haki o mus o krime.
 
 ## babu 11
 1. pan insan, jo be jude, ten la haki da be fikir ka an dosha hata ye be dalil ka dosha ha sam rai da la kanun ha komun jude na jo ye ten pan garanti do ye su defa
@@ -81,7 +81,7 @@ pan insan ten la haki da huru ta da rai e rai loga; ni haki fa in klus la huru t
 ## babu 21
 1. pan insan ten la haki da parti na politi da ye su desha, na disha riti o na transe un chuze vakil ja.
 2. pan insan ten la haki da par uze bil ta da komun serve na ye su desha.
-3. la ichi da la jama da insan deve si baze da la sultan da politi; ni ichi deve be shou na zaman di e ver di vote chuze ha putong e par e siri vote o na par riti da huru chuze.
+3. la ichi da la jama da insan mus si baze da la sultan da politi; ni ichi mus be shou na zaman di e ver di vote chuze ha putong e par e siri vote o na par riti da huru chuze.
 
 ## babu 22
 pan insan, ka membre da sosi, ten la haki da sosi sekur ta e ten, na asar da nasi di gung e nasi medi di jama gung e ha sam rai la ratibu e faida she da pan un desha, ba mal nomi di e sosi e kultur di haki jo be yau do ye su onor e huru darja mute da ye su jan sifa.
@@ -97,11 +97,11 @@ pan insan ten la haki da shush e shanti di zaman; ni fa in klus yo razon di limi
 
 ## babu 25
 1. pan insan ten la haki da jiu norme jo garanti la salu e suka da ye e ye su famili; ni fa in klus yo yam e fuku e dom e dava e yau soci serve, e la haki da sosi sekur ta na kas da an gung ta o pati o an bil ja ta o vidou ta o lau sene o eni alo hin da jiu faida jo ye no bil sultan.
-2. chin ta e ben ta ten la haki da has mede. pan ben, na o na hin da gami, deve daku la sam sosi sekur ta.
+2. chin ta e ben ta ten la haki da has mede. pan ben, na o na hin da gami, mus daku la sam sosi sekur ta.
 
 ## babu 26
-1. pan insan ten la haki da shula. shula deve hin eni koste, na minim na la baze faze. baze shula deve si deve. tehni e gung di shula deve si putong di uze bil e dai shula deve si par di uze bil do pan insan, na baze da bil ta.
-2. shula deve fa fokus na la pul darja mute da insan jan sifa e na fa lika la onor da insan haki e baze huru. ye deve sim la aha e tolera e dosti ta da pan nasi e rasa e din grupe, e deve mede la karma da la Un Ta Nasi do hafiza da pase.
+1. pan insan ten la haki da shula. shula mus hin eni koste, na minim na la baze faze. baze shula mus si mus. tehni e gung di shula mus si putong di uze bil e dai shula mus si par di uze bil do pan insan, na baze da bil ta.
+2. shula mus fa fokus na la pul darja mute da insan jan sifa e na fa lika la onor da insan haki e baze huru. ye mus sim la aha e tolera e dosti ta da pan nasi e rasa e din grupe, e mus mede la karma da la Un Ta Nasi do hafiza da pase.
 3. pan ching ten la chen haki da chuze da la yang da shula jo be dona do se su ben.
 
 ## babu 27
@@ -112,7 +112,7 @@ pan insan ten la haki da shush e shanti di zaman; ni fa in klus yo razon di limi
 pan insan ten la haki da sosi e nasi medi di ratibu na jo la haki e huruta da ni dokumen bil be pul di ver.
 
 ## babu 29
-1. pan insan ten ba deve do sosi na jo ye su jan sifa bil be huru e pul di darja mute.
+1. pan insan ten ba mus do sosi na jo ye su jan sifa bil be huru e pul di darja mute.
 2. na aplika da ye su haki e huru ta, no halal eni insan be limite eni kanun limite jo no sekur la haki di note e onor do la haki e huru ta da alo o fa ver la moral e komun ratibu e putong bon sifa na demo krati di sosi.
 3. no halal, na eni kas, aplika ni haki e huru ta kontra la dike e sim baze da la Un Ta Nasi.
 

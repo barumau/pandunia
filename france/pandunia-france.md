@@ -245,7 +245,6 @@ be hapu - convenir (être approprié)
 be in - entrer  
 be in bum - imploser  
 be kino - se mouvoir  
-be kite - aller (quitter)  
 be mal - appartenir à  
 be migra - s'installer (déménager)  
 be pute - pourrir (se décomposer)  
@@ -306,6 +305,8 @@ buku - livre
 bulbul - rossignol  
 bum - explosion  
 burge - fort  
+buro - bureau (office)  
+buro krati - bureaucratie  
 bus halte - arrêt de bus  
 buta - botte  
 buton - bouton  
@@ -377,7 +378,6 @@ deu - dieu
 deu kata - mythe  
 deu nagar zi - dévanagari  
 deu sofi - théosophie  
-deve - devoir  
 dia - jour  
 dia foto - lumière du jour  
 dike - objectif (cible)  
@@ -425,12 +425,6 @@ e - et
 einstein yum - einsteinium  
 eko jene di - sauvage  
 ekore - écureuil  
-ekso - extérieur  
-ekso klus di - exclusif  
-ekso planete - exoplanète  
-ekso poze - exposer  
-ekso vide di - évident  
-ekso yam - piquenique  
 eletro - électricité  
 elfe - elfe  
 emosi - émotion  
@@ -473,9 +467,6 @@ fa dosil - apprivoiser (dresser, dompter, discipliner)
 fa dosil jene - domestiquer (apprivoiser)  
 fa dura - passer  
 fa dus forma - défigurer  
-fa ekso kave - excaver  
-fa ekso klus - exclure  
-fa ekso trata - extraire  
 fa estude - étudier  
 fa fatu - punir  
 fa fen gata - analyser  
@@ -512,7 +503,7 @@ fa pul - remplir
 fa pul bon - perfectionner (parfaire)  
 fa re - répéter  
 fa retro - remettre  
-fa sela - conseiller  
+fa sel - conseiller  
 fa shipi - mouiller  
 fa shopi - acheter  
 fa shula - apprendre (étudier)  
@@ -524,6 +515,9 @@ fa tal - baisser
 fa tele fon - téléphoner  
 fa truke - escroquer  
 fa turbe - gêner (déranger, perturber)  
+fa vai kave - excaver  
+fa vai klus - exclure  
+fa vai trata - extraire  
 fa valu - évaluer  
 fa verse - verser  
 fa vode - promettre  
@@ -561,6 +555,7 @@ fobi ja - effrayant
 fong - abeille ou guêpe  
 fong nide - ruche (nid d'abeille)  
 fonte kalam - stylo-plume  
+for - loin (hors, parti)  
 fora - forer (percer)  
 foto - lumière  
 foto frike - poli  
@@ -688,6 +683,7 @@ halifa - calife
 halo - allô  
 halte - halte  
 ham di - important  
+han guan ja - mandarin  
 hande - main  
 hande shaka - bras  
 hapu - approprié (adapté, convenable, opportun)  
@@ -755,6 +751,7 @@ ironi - ironie
 islam - soumission  
 islam din - Islam  
 ####J - J  
+ja - aller  
 jaga - éveillé  
 jain din - jaïnisme  
 jama karde - carte à collectionner  
@@ -837,6 +834,7 @@ kandi - bonbon
 kane - bâton (canne, tige)  
 kane kasa - cage  
 kane minte - menthe verte  
+kane sor - loquet  
 kangaru - kangourou  
 kano - canoë  
 kanon - classique (canon)  
@@ -878,13 +876,13 @@ kerne - coeur
 kesha brosha - brosse à cheveux  
 kesha hin - glabre  
 ki - que  
-kio - pont  
 kimi - substance  
 kimi logi - chimie  
 kimi so - élément chimique  
 kimono - kimono  
 kinar - bord  
 Kinshasa - Kinshasa  
+kio - pont  
 kirate - carat  
 kisma - destin  
 kitabu - écrire  
@@ -892,7 +890,6 @@ kitabu chuli - traitement de texte
 kitabu gi - machine à écrire  
 kitabu kan - bibliothèque  
 kitabu shuta - littérature  
-kite - parti  
 kivi - kiwi  
 klar - clair  
 klien - client  
@@ -905,7 +902,7 @@ kolum - pilier (colonne, poteau)
 komputa - ordinateur  
 komputa di - numérique  
 kon gong - collaborer  
-kon sela ja - consultant (conseiller)  
+kon sel ja - consultant (conseiller)  
 kon trati - convention (alliance, pacte)  
 konserte - concert  
 koperni yum - copernicium  
@@ -1140,6 +1137,7 @@ mula - racine
 mur - mur  
 mur kaguji - papier peint  
 murche - fourmi  
+mus - devoir  
 mushu - souris  
 muskul bina - culturisme (musculation)  
 musli - musli  
@@ -1153,9 +1151,10 @@ na ni - ici
 nadir - rare  
 nadir mar - rarement  
 najis - pollution  
+nam - nom  
+nam hin - innomé  
+nam kitabu - signer  
 nama - viande  
-name hin - innomé  
-name kitabu - signer  
 nardi - backgammon  
 nasi - nation  
 nasi medi - international  
@@ -1284,6 +1283,7 @@ pei gong - profession (métier)
 pei gong jiu - carrière  
 pelpel - papillon  
 pende kardon - chardon penché  
+pende sor - cadenas  
 pente - peinture  
 pente brosha - pinceau  
 pente tela - canevas (toile)  
@@ -1452,7 +1452,7 @@ se kon - l'un l'autre
 se su - son (sa)  
 sekse logi - sexologie  
 sekur - sûr  
-sela loga - conseil  
+sel - conseil  
 selen yum - sélénium  
 selge - blettes (bettes)  
 selu logi - cytologie  
@@ -1522,7 +1522,8 @@ sikle ja - cycliste
 sili - série  
 sili tika - maillon (chaînon)  
 silis - silicium  
-silko - soie  
+silke - soie  
+silke larva - ver à soie  
 sing - étoile  
 sir plan - complot (conspiration)  
 sir ta - célérité  
@@ -1591,7 +1592,7 @@ tele vide gi - téléviseur
 teleskope - télescope (lunette)  
 telu yum - tellure  
 tema - sujet (thème)  
-tema name - titre  
+tema nam - titre  
 ten - tenir  
 ten bil - accessible (atteignable, à portée)  
 tenesi yum - tennessine  
@@ -1644,6 +1645,12 @@ va - ouah
 vaf - chien  
 vagina - vagine  
 vagina flame - vaginite  
+vai - extérieur  
+vai klus di - exclusif  
+vai planete - exoplanète  
+vai poze - exposer  
+vai vide di - évident  
+vai yam - piquenique  
 vali - vallée (oued)  
 valu - valeur  
 vampir - vampire  

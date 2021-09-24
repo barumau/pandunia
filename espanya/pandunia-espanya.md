@@ -295,7 +295,6 @@ be dara - fluir
 be dom - vivir (residir)  
 be duka - llorar  
 be dura - durar (durante, llevar tiempo)  
-be ekso - salir (egresar)  
 be emosi - sentir  
 be estasi - pararse (detenerse)  
 be fatige - cansarse (fatigar)  
@@ -316,13 +315,12 @@ be jin - avanzar (entrar, adelantar, progresar)
 be kai - abirse  
 be karibu - axproximarse  
 be kino - moverse  
-be kite - ir  
 be krus - cruzar  
 be loka - encontrarse (estar, situarse)  
 be mal - ser de  
 be mata - morirse  
 be migra - migrarse (mudarse, trasladarse)  
-be name - llamarse  
+be nam - llamarse  
 be pasi - sufrir  
 be pute - pudrirse (cariarse, descomponerse)  
 be raste - crecer  
@@ -333,12 +331,14 @@ be rupa - parecer
 be rute galte - apartarse (desviarse)  
 be sabi vol - preguntarse  
 be sam rupa - parecerse a  
+be sel - deber (se recomienda)  
 be shuru - comenzar (iniciarse, empezar)  
 be sona - dormir  
 be suka - gustarse (disfrutar)  
 be supra - sobrepasar  
 be tele loka - teletransportarse  
 be turbe - molestar en  
+be vai - salir (egresar)  
 be vanu - disfrutar (jugar)  
 be vide - ser visto  
 be yong liga - fusionar (fundir)  
@@ -454,6 +454,11 @@ bulbul - ruiseñor
 bum - explosión (estallado)  
 burge - castillo (fortaleza)  
 Burkina Faso - Burkina Faso  
+buro - oficina  
+buro ja - secretario  
+buro ja grupe - secretaría  
+buro kan - oficina  
+buro krati - burocracia  
 bus - bus (autobús)  
 bus halte - parada de autobús  
 buste - pecho (busto)  
@@ -628,8 +633,6 @@ deu krati - teocracia
 deu logi - teología  
 deu nagar zi - devanágari  
 deu sofi - teosofía  
-deve - deber (necesitar)  
-deve ta - obligación (compulsión)  
 dia - día  
 dia yam - almuerzo  
 dike - objetivo  
@@ -719,7 +722,7 @@ dus funsi - falla (mal funcionamiento)
 dus hal - dificultad (apuro, privación)  
 dus jan - enemigo  
 dus karma - pecado  
-dus name - insulto (ofensa)  
+dus nam - insulto (ofensa)  
 dus sin di - ominoso (amenazador)  
 dus vide - feo  
 dus zar - infortunio (mala suerte)  
@@ -736,19 +739,6 @@ eko jene di - salvaje
 eko logi - ecología  
 ekore - ardilla  
 ekran - pantalla  
-ekso - fuera (exterior)  
-ekso desha - país extranjero  
-ekso desha di - extranjero  
-ekso di - exterior  
-ekso jene di - exógeno  
-ekso klus di - exclusivo  
-ekso mise - exportar  
-ekso name - exónimo  
-ekso planete - exoplaneta (planeta extrasolar)  
-ekso poze - exponer (revelar)  
-ekso trata gi - extractor  
-ekso vide di - evidente  
-ekso yam - jira (pícnic)  
 Ekuador - Ecuador  
 elasti - elástico (flexible)  
 eletro - electricidad  
@@ -838,11 +828,7 @@ fa dosil jene - domesticar (cultivate)
 fa duka - entristecer (poner triste)  
 fa dura - pasar (transcurrir)  
 fa dus forma - desfigurar  
-fa dus name - insultar (ofender)  
-fa ekso - expulsar (exceptuar, excepto)  
-fa ekso kave - excavar  
-fa ekso klus - excluir  
-fa ekso trata - extraer  
+fa dus nam - insultar (ofender)  
 fa english kitabu - anglicanizar  
 fa eskulte - esculpir  
 fa estude - estudiar (examinar)  
@@ -857,6 +843,7 @@ fa fili - gustarse (querer)
 fa fobi - asustar (atemorizar)  
 fa fokus - concentración  
 fa fon - pronunciar (articular)  
+fa for - quitar (remover)  
 fa forma - formar  
 fa fuku - vestir  
 fa galte - errar (cometer un error)  
@@ -891,7 +878,6 @@ fa kata - relatar (narrar)
 fa kave - cavar (excavar)  
 fa keka - visitar  
 fa kino - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)  
-fa kite - quitar (remover)  
 fa klar - aclarar (clarificar)  
 fa klas - clasificar  
 fa klon - clon  
@@ -927,7 +913,7 @@ fa mol - moler (pulverizar)
 fa multi do du - doblar (multiplicar por dos)  
 fa muzika - tocar música  
 fa najis - corromper (contaminar)  
-fa name - llamar (poner)  
+fa nam - llamar (poner)  
 fa node - hacer un nudo  
 fa nomer - contar  
 fa nomi - organizar (gestionar)  
@@ -979,7 +965,7 @@ fa sam rai - acordar
 fa sam sifa - simular  
 fa sana - producir (hacer, preparar)  
 fa sekur - proteger (asegurar, guardar)  
-fa sela - aconsejar  
+fa sel - aconsejar  
 fa sense - sentir (detectar)  
 fa sharti - espicificar (estipular)  
 fa shibai - perder (fallar)  
@@ -1015,6 +1001,10 @@ fa transe - transitar (atravesar)
 fa truke - engañar  
 fa turbe - molestar (perturber)  
 fa un she - unir  
+fa vai - expulsar (exceptuar, excepto)  
+fa vai kave - excavar  
+fa vai klus - excluir  
+fa vai trata - extraer  
 fa valu - valorar  
 fa vanu - divertir (entretener)  
 fa ver - autenticar  
@@ -1028,7 +1018,7 @@ faida di - útil (beneficioso)
 false - falso  
 false vide - ilusión  
 famili - familia  
-famili name - apellido  
+famili nam - apellido  
 fan - lodo (barro, fango)  
 fan defa bano - guarda-barros (aleta)  
 fan di - embarrado (enlodado)  
@@ -1117,6 +1107,7 @@ fong - abeja o avispa
 fong nide - avispero (colmena)  
 fonte - fuente (manantial)  
 fonte kalam - estilógrafo  
+for - lejos (fuera)  
 fora - taladrar (perforar)  
 forke - tenedor  
 forma - forma (figura, morfo)  
@@ -1320,6 +1311,9 @@ gua - cueva (caverna)
 Guadelupe - Guadalupe  
 guai - raro (extraño)  
 Guam - Guam  
+guan - cargo  
+guan di - oficial  
+guan ja - funcionario  
 Guatemala - Guatemala  
 gubu - hipopótamo  
 gui - ogro (gnomo, trol, duende, trasgo)  
@@ -1516,7 +1510,7 @@ in liste - índice de contenidos
 in migra - inmigrar  
 in migra ja - inmigrante  
 in mise - importar  
-in name - endónimo  
+in nam - endónimo  
 in she - contenido  
 in verse jan - introvertido  
 Indonesi - Indonesia  
@@ -1548,6 +1542,7 @@ Islande - Islandia
 Israel - Israel  
 Italia - Italia  
 ####J - J  
+ja - ir  
 ja - hacedor (perpetrador)  
 jaga - despertar  
 jaga - despierto  
@@ -1700,6 +1695,7 @@ kane - barra (vara, palo)
 kane kasa - jaula (caja)  
 kane minte - hierbabuena  
 kane pang - baguette  
+kane sor - cerrojo (pestillo)  
 kanga - peine  
 kangaru - canguro  
 kanjar - puñal (daga)  
@@ -1789,7 +1785,6 @@ kesha hin - pelado (desvellado)
 kesha sabun - champú  
 ketel - hervidor (tetera)  
 ki - que  
-kio - puente  
 kilogram - kilograma  
 kilomitre - kilometre  
 kimi - sustancia  
@@ -1805,6 +1800,7 @@ kino - movimiento
 kino di - cinético  
 kino grafi - película (filme)  
 Kinshasa Kongo - República Democrática del Congo  
+kio - puente  
 kioske - quiosco (kiosco)  
 Kipris - Chipre  
 kira - alquiler (arriendo)  
@@ -1862,7 +1858,7 @@ kon pasi - compasión
 kon sabe - información  
 kon sana sim - comunismo  
 kon sana sim ja - comunista  
-kon sela ja - consultor  
+kon sel ja - consultor  
 kon trati - convenion (pacto)  
 Konakri Ginia - Guinea  
 kone - cono  
@@ -2369,6 +2365,8 @@ mur - muro (muralha)
 mur kaguji - papel tapiz  
 murche - hormigo  
 Muritania - mauritania  
+mus - deber (necesitar)  
+mus ta - obligación (compulsión)  
 mushu - ratón  
 muskete - mosquete  
 muskete ja - mosquetero  
@@ -2405,11 +2403,11 @@ Naijiria - Nigeria
 najis - contaminación (corrupción, porquería, suciedad)  
 najis bindu - mancha  
 najis di - sucio (corrompido)  
+nam - nombre  
+nam hin - innominado  
+nam kitabu - firmar  
+nam loga - sustantivo  
 nama - carne  
-name - nombre  
-name hin - innominado  
-name kitabu - firmar  
-name loga - sustantivo  
 Namibia - Namibia  
 nanas - piña  
 nano - nano-  
@@ -2541,11 +2539,6 @@ nude sim ja - nudista
 o - o  
 Oceania - Oceanía  
 Odisa - oriya  
-ofis - ministerio (departamento)  
-ofis di - oficial  
-ofis ja - funcionario  
-ofis kan - oficina  
-ofis poze - cargo  
 oganeson - oganesón  
 ohtopus - pulpo  
 oke - bien (aceptable)  
@@ -2682,6 +2675,7 @@ pei gong jiu - carrera
 pelmen - empanada (pelmeni)  
 pelpel - mariposa (palomilla)  
 pende - colgar  
+pende sor - candado  
 penis - pene  
 pente - pintura  
 pente brosha - pincel  
@@ -3012,7 +3006,7 @@ sam - equal (similar)
 sam desha jan - compatriota  
 sam emos - compasión  
 sam metre - simetría (simétrico)  
-sam name - homónimo  
+sam nam - homónimo  
 sam rai - acuerdo  
 sam romanse di - homorromántico  
 sam sekse di - homosexual  
@@ -3064,8 +3058,6 @@ se kon - el uno al otro (se)
 se kon - el uno al otro (mutuamente)  
 se kon su - mutuo (recíproco)  
 se su - su (suyo)  
-sekretar ja - secretario  
-sekretar ofis - secretaría  
 sekse - sexo  
 sekse di - sexy (sexual)  
 sekse logi - sexología  
@@ -3074,8 +3066,7 @@ sekur - seguro
 sekur kode - contraseña  
 sekur kopi - copia de seguridad  
 sekur nomer - número de identificación personal  
-sela - deber (se recomienda)  
-sela loga - consejo  
+sel - consejo  
 selen yum - selenio  
 selge - acelga  
 selu - célula  
@@ -3145,6 +3136,7 @@ shia islam din - chiismo (chía)
 shifu - maestro (profesor)  
 shikaya - queja (lamento)  
 shike - elegante (chic)  
+shim - corazón  
 shindau din - sintoísmo  
 shipi - mojado  
 shir - poema  
@@ -3200,15 +3192,15 @@ sili nete - cota de malla
 sili sili - cadena  
 sili tika - eslabón  
 silis - silicio  
-silko - seda  
-sim - corazón  
+silke - seda  
+silke larva - gusano de seda  
 sim - ideología (doctrina, -ismo)  
 simple - simple  
 sin - señal (letrero, indicio)  
 sina - creencia (fe)  
-sina - pecho (seno, tórax)  
-sina kasa - caja torácica  
-sina plate - peto  
+sine - pecho (seno, tórax)  
+sine kasa - caja torácica  
+sine plate - peto  
 sing - estrella  
 singa - león  
 Singapur - Singapur  
@@ -3391,7 +3383,7 @@ telu yum - telurio
 Telugu - télugu  
 tema - tema  
 tema - tratar de  
-tema name - título  
+tema nam - título  
 ten - tener (mantener, detener)  
 ten bil - accesible  
 ten fasil ta - fácil acceso (accesibilidad)  
@@ -3519,12 +3511,25 @@ Uzbeki - Uzbekistán
 uze - usar (aplicar)  
 uze bil di - utilizable (disponible)  
 uze ja - usuario  
-uze ja name - nombre de usuario  
+uze ja nam - nombre de usuario  
 ####V - V  
 va - guau (vaya)  
 vaf - perro  
 vagina - vagina  
 vagina flame - vaginitis  
+vai - fuera (exterior)  
+vai desha - país extranjero  
+vai desha di - extranjero  
+vai di - exterior  
+vai jene di - exógeno  
+vai klus di - exclusivo  
+vai mise - exportar  
+vai nam - exónimo  
+vai planete - exoplaneta (planeta extrasolar)  
+vai poze - exponer (revelar)  
+vai trata gi - extractor  
+vai vide di - evidente  
+vai yam - jira (pícnic)  
 vakil - representar  
 vali - valle  
 vali susan - convalaria (lirio de los valles)  

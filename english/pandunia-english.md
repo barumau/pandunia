@@ -321,7 +321,6 @@ be dara - flow
 be dom - live in (reside in, inhabit)  
 be duka - grieve  
 be dura - last (take time; during)  
-be ekso - exit (get out)  
 be emosi - feel  
 be estasi - stand still  
 be fatige - get tired (become weary)  
@@ -345,7 +344,6 @@ be jin - advance (progress, go forward, enter)
 be kai - become open  
 be karibu - approach (get near)  
 be kino - move oneself  
-be kite - go (move away)  
 be krus - cross (go across)  
 be lashe - stay behind (linger)  
 be loka - be located (lie, be situated)  
@@ -355,7 +353,7 @@ be mata - die
 be migra - move (migrate, relocate oneself)  
 be min - subceed (be less than)  
 be mirde - fade  
-be name - be called (be named)  
+be nam - be called (be named)  
 be niche - go under  
 be par - equal  
 be pasi - suffer (get hurt)  
@@ -368,6 +366,7 @@ be rupa - seem
 be rute galte - stray (deviate)  
 be sabi vol - wonder (be interested in, would like to know)  
 be sam rupa - resemble (be like)  
+be sel - should (ought)  
 be shuru - begin (get started)  
 be sona - sleep  
 be suka - like (enjoy, be fond of)  
@@ -376,6 +375,7 @@ be tam - covet
 be tele loka - teleport  
 be teza - intensify  
 be turbe - be bothered by (bother to, take the trouble to)  
+be vai - exit (get out)  
 be vanu - enjoy (play)  
 be vide - be seen  
 be yong liga - merge (fuse)  
@@ -506,6 +506,11 @@ bulbul - nightingale
 bum - explosion (blast, eruption)  
 burge - fortress (castle, fort, stronghold)  
 Burkina Faso - Burkina Faso  
+buro - office (bureau)  
+buro ja - secretary (clerk)  
+buro ja grupe - secretariat  
+buro kan - office (room)  
+buro krati - bureaucracy  
 bus - bus  
 bus halte - bus stop  
 buste - bust (bosom)  
@@ -702,8 +707,6 @@ deu krati - theocracy
 deu logi - theology  
 deu nagar zi - Devanagari alphabet  
 deu sofi - theosophy  
-deve - must  
-deve ta - obligation (compulsion)  
 di - attributive postposition  
 dia - day (daytime)  
 dia foto - daylight  
@@ -726,11 +729,11 @@ diske - disc (disk)
 disprosi yum - dysprosium  
 Divehi - Maldives  
 do - to (toward, till, until, for)  
-do ekso - outward (external)  
 do in - inward (internal)  
 do jin - forward  
 do long - long (over a gread distance)  
 do misal - for example  
+do vai - outward (external)  
 dobe - brick  
 Doiche - Germany  
 doiche di - German  
@@ -804,7 +807,7 @@ dus funsi - dysfunction (malfunction)
 dus hal - hardship (difficulty, challenge)  
 dus jan - enemy (foe, villain)  
 dus karma - misdeed (sin, vice)  
-dus name - insult (offense)  
+dus nam - insult (offense)  
 dus rai - disapprove (frown upon)  
 dus sin di - ominous (foreboding)  
 dus topo - dystopia  
@@ -826,22 +829,6 @@ eko logi - ecology (study of environment)
 ekore - squirrel  
 ekran - screen  
 eksa - exa-  
-ekso - outside (exterior)  
-ekso desha - foreign country  
-ekso desha di - foreign  
-ekso di - outer (external)  
-ekso jan - outsider  
-ekso jene di - exogenous  
-ekso klus di - exclusive  
-ekso mise - export  
-ekso name - exonym  
-ekso planete - exoplanet  
-ekso poze - expose (reveal)  
-ekso tense - extent  
-ekso trata gi - extractor  
-ekso verse di - extroverted (outgoing)  
-ekso vide di - evident (apparent, obvious)  
-ekso yam - picnic  
 Ekuador - Ecuador  
 elasti - elastic  
 eletro - electricity  
@@ -942,12 +929,7 @@ fa dosil jene - domesticate (cultivate)
 fa duka - sadden (make sad)  
 fa dura - pass (spend time, put time into)  
 fa dus forma - disfigure  
-fa dus name - insult (offend, call names)  
-fa ekso - oust (expel, exclude, except, save)  
-fa ekso kave - excavate (dig out)  
-fa ekso klus - exclude (keep out)  
-fa ekso tense - extend (stretch out)  
-fa ekso trata - extract (draw out)  
+fa dus nam - insult (offend, call names)  
 fa english kitabu - anglicize  
 fa eskulte - sculpt (carve)  
 fa estude - study (work in order to practise or demonstrate)  
@@ -963,6 +945,7 @@ fa fili - like
 fa fobi - scare (frighten)  
 fa fokus - concentrate  
 fa fon - pronounce (articulate)  
+fa for - remove (take away)  
 fa forma - shape (sculpt)  
 fa fuku - dress (clothe sb.)  
 fa galte - make a mistake  
@@ -1003,7 +986,6 @@ fa kata - tell (narrate)
 fa kave - dig (excavate)  
 fa keka - visit  
 fa kino - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
-fa kite - remove (take away)  
 fa klar - clarify (clear up)  
 fa klas - classify (categorize)  
 fa klon - clone (replicate)  
@@ -1047,7 +1029,7 @@ fa mol - grind (grind in mill)
 fa multi do du - double (multiply by two)  
 fa muzika - play music  
 fa najis - corrupt (pollute, soil, defile, stain, taint)  
-fa name - call (name)  
+fa nam - call (name)  
 fa nia - mean (intend)  
 fa node - tie a knot  
 fa nomer - count (enumerate)  
@@ -1103,7 +1085,7 @@ fa sam rai - agree (concur)
 fa sam sifa - emulate (simulate, mimic, model)  
 fa sana - produce (create, make)  
 fa sekur - protect (secure, save)  
-fa sela - advise (recommend)  
+fa sel - advise (recommend)  
 fa sense - sense (perceive, detect)  
 fa sharti - stipulate  
 fa shibai - lose (fail, miss, be defeated)  
@@ -1144,6 +1126,11 @@ fa trati - agree (make an agreement)
 fa truke - trick (cheat, deceive)  
 fa turbe - bother (annoy, disturb, irritate)  
 fa un she - unite (merge, integrate)  
+fa vai - oust (expel, exclude, except, save)  
+fa vai kave - excavate (dig out)  
+fa vai klus - exclude (keep out)  
+fa vai tense - extend (stretch out)  
+fa vai trata - extract (draw out)  
 fa valu - value (evaluate)  
 fa vanu - amuse (entertain)  
 fa ver - verify (authenticate)  
@@ -1159,7 +1146,7 @@ faida she - material (ingredient, resource)
 false - false (fake)  
 false vide - illusion (hallucination)  
 famili - family  
-famili name - surname (family name)  
+famili nam - surname (family name)  
 fan - mud (mire)  
 fan defa bano - fender  
 fan di - muddy  
@@ -1256,6 +1243,7 @@ fong - bee or wasp
 fong nide - bee nest (beehive, wasp's nest)  
 fonte - fountain (spring, well)  
 fonte kalam - fountain pen  
+for - off (away, gone, far-off)  
 fora - drill (bore, perforate)  
 forke - fork  
 forma - form (shape, morph)  
@@ -1474,6 +1462,9 @@ gua - cave
 Guadelupe - Guadeloupe  
 guai - odd (strange, weird, peculiar, bizarre)  
 Guam - Guam  
+guan - office (position)  
+guan di - official (pertaining to public trust)  
+guan ja - officer (bureaucrat, public servant)  
 Guangjou - Guangzhou (Canton)  
 Guatemala - Guatemala  
 gubu - hippopotamus  
@@ -1537,6 +1528,7 @@ hamar - hammer
 hamil - pregnant  
 hamir - yeast  
 Han - Han Chinese  
+han guan ja - mandarin  
 Han zi - Chinese or Japanese character (hanzi, kanji)  
 hande - hand  
 hande di - manual  
@@ -1684,7 +1676,7 @@ in liste - table of contents (inventory)
 in migra - immigrate (move in)  
 in migra ja - immigrant  
 in mise - import  
-in name - endonym  
+in nam - endonym  
 in pushe - squeeze (squish)  
 in she - content  
 in verse jan - introvert  
@@ -1719,6 +1711,7 @@ Islande - Iceland
 Israel - Israel  
 Italia - Italy  
 ####J - J  
+ja - go (move through space)  
 ja - doer (agent, actor)  
 jaga - wake (make awake)  
 jaga - awake  
@@ -1890,6 +1883,7 @@ kane - bar (pole, rod, shaft, staff, stick)
 kane kasa - cage  
 kane minte - spearmint  
 kane pang - baguette  
+kane sor - latch  
 kanga - comb  
 kangaru - kangaroo  
 kanjar - dagger  
@@ -1986,7 +1980,6 @@ kesha hin - hairless
 kesha sabun - shampoo  
 ketel - kettle  
 ki - that (conjunction)  
-kio - bridge  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
 kimi - substance (physical material from which something is made)  
@@ -2006,6 +1999,7 @@ kino grafi di - cinematic
 kino grafi kan - movie theatre  
 Kinshasa - Kinshasa  
 Kinshasa Kongo - Congo Kinshasa  
+kio - bridge  
 kioske - kiosk  
 Kipris - Cyprus  
 kira - carat  
@@ -2023,7 +2017,6 @@ kitabu gi - typewriter
 kitabu kan - library  
 kitabu minister - librarian  
 kitabu shuta - literature  
-kite - gone (away)  
 kivi - kiwi fruit  
 klar - clear (obvious)  
 klar! - of course! (obviously)  
@@ -2072,8 +2065,8 @@ kon pasi - compassion
 kon sabe - information (communicable knowledge)  
 kon sana sim - communism  
 kon sana sim ja - communist  
-kon sela - give consultation  
-kon sela ja - counselor (consultant)  
+kon sel - give consultation  
+kon sel ja - counselor (consultant)  
 kon su - common (mutual)  
 kon ten - hold together  
 kon trati - pact (contract, covenant, alliance)  
@@ -2621,6 +2614,8 @@ mur - wall (structure for delimitation)
 mur kaguji - wallpaper  
 murche - ant  
 Muritania - Mauritania  
+mus - must (have to, should)  
+mus ta - obligation (compulsion)  
 mushu - mouse or rat  
 muskete - musket  
 muskete ja - musketeer  
@@ -2633,7 +2628,6 @@ muzika ja - musician
 Myanma - Myanmar (Burma)  
 ####N - N  
 na - by (at, in, on)  
-na ekso - outside  
 na go - there  
 na in - inside  
 na ke - where  
@@ -2646,6 +2640,7 @@ na nove - just (recently)
 na poli mar - often (frequently)  
 na re - again (repeatedly)  
 na supra - above (over)  
+na vai - outside  
 na vakil da - on behalf of  
 nabi - prophecy  
 nabi ja - prophet  
@@ -2659,11 +2654,11 @@ Naijiria - Nigeria
 najis - corruption (filth, pollution, contamination, najis)  
 najis bindu - stain (spot)  
 najis di - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
+nam - name  
+nam hin - nameless (unnamed, anonymous)  
+nam kitabu - sign (autograph)  
+nam loga - noun  
 nama - meat (flesh)  
-name - name  
-name hin - nameless (unnamed, anonymous)  
-name kitabu - sign (autograph)  
-name loga - noun  
 Namibia - Namibia  
 nanas - pineapple  
 nano - nano-  
@@ -2805,11 +2800,6 @@ o - or
 Oberon - Oberon  
 Oceania - Oceania  
 Odisa - Odia (Oriya)  
-ofis - office (bureau)  
-ofis di - official  
-ofis ja - officer  
-ofis kan - office (room)  
-ofis poze - office (position)  
 oganeson - oganesson  
 ohtopus - octopus  
 oke - okay (acceptable)  
@@ -2962,6 +2952,7 @@ pelmen - dumpling (ravioli, pelmeni)
 pelpel - butterfly (moth)  
 pende - hang (dangle)  
 pende kardon - musk thistle  
+pende sor - padlock  
 penis - penis (phallus)  
 pente - paint  
 pente brosha - paintbrush  
@@ -3314,7 +3305,7 @@ sam - same (equal, alike, match)
 sam desha jan - compatriot  
 sam emos - compassion (sympathy)  
 sam metre - symmetry (symmetrical)  
-sam name - homonym  
+sam nam - homonym  
 sam rai - agreement (consent)  
 sam romanse di - homoromantic  
 sam sekse di - homosexual  
@@ -3371,8 +3362,6 @@ se kon - each other (one another, mutually)
 se kon - each other (one another)  
 se kon su - mutual (each other’s)  
 se su - own  
-sekretar ja - secretary  
-sekretar ofis - secretariat  
 sekse - sex (sexual relation)  
 sekse di - sexy (sexually arousing)  
 sekse logi - sexology  
@@ -3381,8 +3370,7 @@ sekur - safe (secure, protected)
 sekur kode - password (security code)  
 sekur kopi - backup  
 sekur nomer - personal identification number (PIN)  
-sela - should (ought)  
-sela loga - advice (counsel)  
+sel - advice (counsel)  
 selen yum - selenium  
 selge - chard  
 selu - cell (biology)  
@@ -3461,6 +3449,7 @@ shia islam din - Shia Islam (Shi’ism)
 shifu - master (sensei, sifu)  
 shikaya - complain (lament)  
 shike - elegant (chic)  
+shim - heart  
 shindau din - Shintoism  
 shipi - wet (damp, moist)  
 shir - poem  
@@ -3520,16 +3509,16 @@ sili nete - chain mail
 sili sili - chain  
 sili tika - link  
 silis - silicon  
-silko - silk  
-sim - heart  
+silke - silk  
+silke larva - silkworm  
 sim - advocacy (promotion, -ism)  
 sim ja - advocate (promoter, supporter, adherent)  
 simple - simple (not complicated)  
 sin - sign (signal)  
 sina - belief (faith, creed)  
-sina - chest (breast)  
-sina kasa - rib cage  
-sina plate - breastplate  
+sine - chest (breast)  
+sine kasa - rib cage  
+sine plate - breastplate  
 sing - star  
 singa - lion  
 Singapur - Singapore  
@@ -3722,7 +3711,7 @@ telu yum - tellurium
 Telugu - Telugu  
 tema - topic (subject, theme)  
 tema - be about (discuss as a subject)  
-tema name - title (headline)  
+tema nam - title (headline)  
 ten - hold (grasp, detain)  
 ten bil - accessible (within reach)  
 ten fasil ta - accessibility (ease of access)  
@@ -3862,12 +3851,28 @@ Uzbeki - Uzbekistan
 uze - use (employ, apply)  
 uze bil di - usable (available)  
 uze ja - user  
-uze ja name - username  
+uze ja nam - username  
 ####V - V  
 va - wow! (gee!)  
 vaf - dog  
 vagina - vagina  
 vagina flame - vaginitis  
+vai - outside (exterior)  
+vai desha - foreign country  
+vai desha di - foreign  
+vai di - outer (external)  
+vai jan - outsider  
+vai jene di - exogenous  
+vai klus di - exclusive  
+vai mise - export  
+vai nam - exonym  
+vai planete - exoplanet  
+vai poze - expose (reveal)  
+vai tense - extent  
+vai trata gi - extractor  
+vai verse di - extroverted (outgoing)  
+vai vide di - evident (apparent, obvious)  
+vai yam - picnic  
 vakil - represent  
 vakil ja - representative (proxy, agent)  
 vali - valley  
