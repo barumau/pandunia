@@ -129,9 +129,9 @@ Additional specifications for initials that have incomplete set of finals (i.e. 
 |        | (1)    | (2)  | (3)    |
 |--------|--------|------|--------|
 | Tone 1 | bon, … | fon  | gon, … |
-| Tone 2 | bun, … | fun  |        |
-| Tone 3 |        | fun  |        |
-| Tone 4 |        | fen  | gen, … |
+| Tone 2 | bun, … |      | gon, … |
+| Tone 3 | bun, … | fun  | gon, … |
+| Tone 4 | bon, … | fen  | gen, … |
 
 
 #### Finals with -ng
@@ -153,6 +153,6 @@ Additional specifications:
 |--------|---------|---------|
 | Tone 1 | bong, … | dong, … |
 | Tone 2 | bung, … | dung, … |
-| Tone 3 |         |         |
-| Tone 4 | beng, … |         |
+| Tone 3 | bung, … | dung, … |
+| Tone 4 | beng, … | dong, … |
 
