@@ -1465,7 +1465,7 @@ gua|||ben:গুহা (guha), tha:คูหา (gūhā), tel:గుహ (guha),
 Guadelupe|desha|GP||Guadeloupe||Guadalupe||||||||||||||Guadeloupe|Gwadelupa
 guai|||zho:怪 (guài), yue:怪 (gwaai3), jpn:怪 (kai), kor:괴 (goe), vie:quái|odd (strange, weird, peculiar, bizarre)|bizarre|raro (extraño)|bizarro|странный|عَجِيب‎|奇怪|変||quái||अजीब||||stranga|outo (kummallinen)|dziwny
 Guam|desha|GU||Guam||Guam||||||||||||||Guam|Guam
-guan|||zho:官 (guăn), yue:官 (gun1), jpn:官 (kan), kor:관 (gwan), vie:quan|office (position)||cargo||||||||||||||virka (virka-asema)|urząd, pozycja, stanowisko, funkcja
+guan|||zho:官 (guān), yue:官 (gun1), jpn:官 (kan), kor:관 (gwan), vie:quan|office (position)||cargo||||||||||||||virka (virka-asema)|urząd, pozycja, stanowisko, funkcja
 guan di||||official (pertaining to public trust)||oficial||||||||||||||virallinen|oficjalny
 guan ja||||officer (bureaucrat, public servant)||funcionario||||||||||||||virkailija (virkamies)|funkcjonariusz, urzędnik
 Guangjou|site||CN|Guangzhou (Canton)||||||广州||||||||||Guangzhou (Kanton)|Kanton
@@ -2310,9 +2310,9 @@ lote|||por:spa:lote, eng:fra:lot|batch (lot)||lote (grupo)||||||||||||||erä (sa
 lotra|bio|Lutrinae|eng:otter + fra:loutre, spa:tgl:lutrino, por:lontra + rus:выдра (vydra)|otter|loutre|nutria|lontra|выдра||獭|獺||||||||||wydra
 lou|||zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)|leak||chorrear|vazar|протекать (просочиться)||漏|漏る||||||||liki|vuotaa|przeciekać, ciec
 lou sang||||bleed||sangrar|||||||||||||sangi|vuotaa verta|krwawić
-liuka|nomer|6|zho:六 (liù), yue:六 (luk6), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:lục|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
-liuka fase||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
-liuka gona||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
+luka|nomer|6|zho:六 (liù), yue:六 (luk6), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:lục|six (6)|six (6)|seis (6)|seis (6)|шесть (6)||六 (6)|六 (6)|||||||||kuusi (6)|sześć (6)
+luka fase||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahokas)|sześcian (kostka)
+luka gona||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
 Luksemburge|desha|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg
 lulu|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła
 lona|||zho:论 (lùn), yue:論 (leo6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||discusión (debate, discurso)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
@@ -2487,7 +2487,7 @@ mes des du|mes|||December||deciembre|||||１２月|||||||||joulukuu|kwiecień
 mes des un|mes|||November||nobiembre|||||１１月|||||||||marraskuu|marzec
 mes du|mes|||February||febrero|||||２月|||||||||helmikuu|maj
 mes lima|mes|||May||mayo|||||５月|||||||||toukokuu|sierpień
-mes liuka|mes|||June||junio|||||６月|||||||||kesäkuu|wrzesień
+mes luka|mes|||June||junio|||||６月|||||||||kesäkuu|wrzesień
 mes nelu|mes|||April||abril|||||４月|||||||||huhtikuu|lipiec
 mes tisa|mes|||September||septiembre|||||９月|||||||||syyskuu|grudzień
 mes tri|mes|||March||marzo|||||３月|||||||||maaliskuu|czerwiec
@@ -3899,7 +3899,7 @@ var|||hin:वार (vār), ben:বার (bar) + por:feira|day of the week||dí
 var cheti||||Sunday|dimanche|domingo|domingo|воскресенье|يوم الأحد|星期日 (禮拜日)|日曜日|일요일|chủ nhật|रविवार|রবিবার|minggu|jumapili|pazar|dimanĉosunnuntai|niedziela|niedziela
 var du||||Tuesday|mardi|martes|terça-feira|вторник|يوم الثلاثاء|星期二 (禮拜二)|火曜日|화요일|thứ ba|मंगलवार|মঙ্গলবার|selasa|jumanne|salı|mardo|tiistai|wtorek
 var lima||||Friday|vendredi|viernes|sexta-feira|пятница|يوم الجمعة|星期五 (禮拜五)|金曜日|금요일|thứ sáu|शुक्रवार|সুক্রবার|jumat|ijumaa|cuma|vendredo|perjantai|piątek
-var liuka||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
+var luka||||Saturday|samedi|sábado|sábado|суббота|يَوم السبت|星期六 (礼拜六)|土曜日|토요일|thứ bảy|शनिवार|শনিবার|sabtu|jumamosi|cumartesi|sabato|lauantai|sobota
 var nelu||||Thursday|jeudi|jueves|quinta-feira|четверг|يوم الخميس|星期四 (禮拜四)|木曜日|목요일|thứ năm|गुरुवार|বৃহস্পতিবার|kamis|alhamisi|perşembe|ĵaŭdo|torstai|czwartek
 var tri||||Wednesday|mercredi|miércoles|quarta-feira|среда|يوم الأربعاء|星期三 (禮拜三)|水曜日|수요일|thứ tư|बुधवार|বুধবার|rabu|jumatano|çarşamba|merredo|keskiviikko|środa
 var un||||Monday|lundi|lunes|segunda-feira|понедельник|يوم الإثنين|星期一 (禮拜一)|月曜日|월요일|thứ hai|सोमवार|সোমবার|senin|jumatatu|pazartesi|luno|maanantai|poniedziałek
