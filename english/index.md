@@ -30,10 +30,10 @@ Version 2.0 includes simpler grammar, more international word forms, and many ne
 ## How to learn it?
 
 - [The basics](baze.md) in one short page
-- [Lessons with Dialogs](darse.md)
+- [Lessons with Dialogs](201_shula.md)
 - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
-- [Phrasebook](fraze.md)
+- [Phrasebook](200_baze_jumla.md)
 - [Grammar of Pandunia](pan.pdf) in PDF format
 
 - [Searchable dictionary](tiddly.html)

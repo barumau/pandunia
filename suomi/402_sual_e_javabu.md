@@ -179,9 +179,9 @@ aikamuodot, yksikkö ja monikko ilmaistaan irrallisilla sanoilla.
 Verrataan samaa tarkoittavaa lausetta esperantossa ja panduniassa. Sanojen
 osat on erotettu toisistaan pystyviivalla.
 
-    Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n.
-    Pandunia:  me wan|a   vid|a  t|i     dul   sundar|i   kan|e       zay|o.
-               Minä haluan nähdä sinun   kaksi kaunista  silmää.
+    Esperanto: Mi   vol|as vid|i via|j|n du    bel|a|j|n okul|o|j|n nun.
+    Pandunia:  mi   vol    vide  tu su   du    sundar    oko        na zai.
+               Minä haluan nähdä sinun   kaksi kaunista  silmää     nyt.
 
 #### Eikö sanan "salam" pitäisi tarkoittaa rauhaa?
 
@@ -196,6 +196,6 @@ Näin ollen sanan **salam** merkitys on laajempi kuin vain rauha ja
 tervehdyksenä se tarkoittaa muutakin kuin tulemista rauhan aikein. **Salam**
 tarkoittaa hyvinvointia yleensä ja sitä käytetään toivottamaan toisille hyvää
 kaikissa tilanteissa kuten tavatessa, onnitellessa ja toivottaessa hyvää
-matkaa. Esimerkkejä löydät [tulkkisanakirjan](fraze.md) ensimmäisestä luvusta!
+matkaa. Esimerkkejä löydät [tulkkisanakirjan](200_baze_jumla.md) ensimmäisestä luvusta!
 
 

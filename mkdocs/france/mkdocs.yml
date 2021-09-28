@@ -10,28 +10,28 @@ plugins:
 nav:
     - Accueil: 'index.md'
     - 'Info':
-        - 'Présentation': dunia_baxe.md
-        - 'Principes de fonctionnement': filsofe.md
-        - 'Questions et réponses': eske_i_jawabe.md
-        - 'Traduire ce site': tarja_netoloke.md
+        - 'Présentation': 001_dunia_basha.md
+        - 'Principes de fonctionnement': 002_filsofi.md
     - 'Grammaire':
         - 100_baze_kanun.md
         - 101_dunia_loga.md
         - 102_ABC.md
-        - 104_viceloga.md
+        - 104_viseloga.md
         - 105_namloga.md
         - 106_nomer.md
         - 107_modeloga.md
-        - 108_ateloga.md
-        - 109_jumla.md
-        - 110_logabina.md
+        - 108_karmaloga.md
+        - 109_jumla_bina.md
+        - 110_loga_bina.md
     - 'Leçons':
-        - 'Phrases courantes': fraze.md
-        - 'Leçons': darse.md
+        - 'Phrases courantes': 200_baze_jumla.md
+        - 'Leçons': 201_shula.md
     - 'Vocabulaire':
         - 'Pandunia → français': pandunia-france.md
         - 'Français → pandunia': france-pandunia.md
         - 'Etymologie': leksaslia.md
         - 'Recherche': tiddly.html
-    - 'Grammaire': kanun.md
+    - 'Appendix':
+        - 'Questions et réponses': 402_sual_e_javabu.md
+        - 'Traduire ce site': tarja_netoloke.md
 

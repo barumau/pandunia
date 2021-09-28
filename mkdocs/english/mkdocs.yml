@@ -16,22 +16,23 @@ nav:
         - 'Spelling and pronunciation': 102_ABC.md
         - 'Word classes': 103_logatipe.md
         - 'Pronouns': 104_viseloga.md
-        - 'Nouns': 105_nameloga.md
+        - 'Nouns': 105_namloga.md
         - 'Numerals': 106_nomer.md
         - 'Modifiers': 107_modeloga.md
         - 'Verbs': 108_karmaloga.md
-        - 'Sentences': 109_jumla.md
-        - 'Word building': 110_logabina.md
+        - 'Sentences': 109_jumla_bina.md
+        - 'Word building': 110_loga_bina.md
     - 'Lessons':
-        - 'Basic Phrases': fraze.md
-        - 'Course': darse.md
+        - 'Basic Phrases': 200_baze_jumla.md
+        - 'Course': 201_shula.md
     - 'Words':
         - 'Pandunia-English': pandunia-english.md
         - 'English-Pandunia': english-pandunia.md
         - 'Origins of words': leksaslia.md
         - 'Search': tiddly.html
     - 'Appendix':
-        - History: 401_historia.md
-        - 'Questions & Answers': eske_i_jawabe.md
+        - History: 401_histori.md
+        - 'Questions & Answers': 402_sual_e_javabu.md
+        - 'Adapting foreign words' : 403_loga_hapu.md
         - 'Translate this site': tarja_netoloke.md
 

@@ -33,7 +33,7 @@ Versio 2.0 sisältää kieliopin parannuksia, loogisemmat rakennesanat sekä uus
 Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole pakko päntätä päähän.
 
 - [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_darse.html) - Kokeile oppia panduniaa pelkkien kuvien avulla!
-- [Tulkkisanakirja](fraze.md) - Käytännöllisiä lauseita panduniaksi ja suomeksi
+- [Tulkkisanakirja](200_baze_jumla.md) - Käytännöllisiä lauseita panduniaksi ja suomeksi
 - Sanastoja
     - [Pandunia-suomi](pandunia-suomi.md)
     - [Suomi-pandunia](suomi-pandunia.md)

@@ -11,23 +11,23 @@ plugins:
 nav:
     - Kotisivu: 'index.md'
     - 'Tietoa':
-        - 'Maailman yhteyskieli': dunia_baxe.md
-        - 'Kysymyksiä & vastauksia': eske_i_jawabe.md
+        - 'Maailman yhteyskieli': 001_dunia_basha.md
     - 'Pandunian perusteet ja rakenne':
         - 'Perussäännöt': 100_baze_kanun.md
         - 'Yleismaailmallinen sanasto': 101_dunia_loga.md
         - 'Ääntäminen': 102_ABC.md
-        - 'Pronominit': 104_viceloga.md
+        - 'Pronominit': 104_viseloga.md
         - 'Substantiivit': 105_namloga.md
         - 'Numeraalit': 106_nomer.md
         - 'Määritteet': 107_modeloga.md
-        - 'Verbit': 108_ateloga.md
-        - 'Lauserakenteet': 109_jumle.md
+        - 'Verbit': 108_karmaloga.md
+        - 'Lauserakenteet': 109_jumla_bina.md
     - 'Oppitunteja':
-        - 'Lauseita': fraze.md
-        - 'Kurssi': darse.md
+        - 'Lauseita': 200_baze_jumla.md
+        - 'Kurssi': 201_shula.md
     - 'Sanasto':
         - 'Pandunia-suomi': pandunia-suomi.md
         - 'Suomi-pandunia': suomi-pandunia.md
         - 'Alkuperäsanasto': leksaslia.md
+    - 'UKK': 402_sual_e_javabu.md
 

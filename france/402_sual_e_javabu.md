@@ -110,7 +110,7 @@ Le Pandunia est une langue analytique avec un peu d'agglutination. Il utilise de
 Pour voir la différence, comparons une même phrase en espéranto (langue agglutinante) et en Pandunia.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  me wan|a   vid|a  t|i       dul sundar|i   kan|e       zay|o.
+    Pandunia:  mi vol     vide   tu su     du  sundar     oko         na zai.
     Français:  Je veux    voir   tes       deux beaux     yeux        maintenant.
 
 #### Pourquoi la lettre X se prononce SH ?
@@ -135,7 +135,7 @@ Puisqu'il est tout à fait possible de représenter le C dur par la lettre K et 
 
 Dans de nombreuses langues, les expressions de salutation ont un rapport avec la paix, la santé ou le bien-être. Les origines du mot **salam** en Pandunia remonte à la racine trilitérale sémitique SLM qui couvre une variété de significations incluant la sécurité, la sécurité, la paix et la santé. De même, le mot anglais _salutation_ (et _salut_ en français) remonte au latin "salus", qui signifie sûreté, sécurité, santé et bien-être.
 
-Ainsi, la signification du mot **salam** est plus grande que celle de la paix ; cela signifie le bien-être en général. Vous pouvez donc l'utiliser pour souhaiter du bien dans toutes sortes de situations, pas seulement quand vous rencontrez quelqu'un. Vous trouverez de nombreux exemples dans la leçon sur les [phrases courantes](fraze.md). 
+Ainsi, la signification du mot **salam** est plus grande que celle de la paix ; cela signifie le bien-être en général. Vous pouvez donc l'utiliser pour souhaiter du bien dans toutes sortes de situations, pas seulement quand vous rencontrez quelqu'un. Vous trouverez de nombreux exemples dans la leçon sur les [phrases courantes](200_baze_jumla.md). 
 
 #### Pourquoi le Pandunia n'emprunte des mots qu'aux langues les plus répandues ?
 

@@ -1,5 +1,4 @@
-﻿Pandunia - une langue simple pour le monde
-=====================================
+# ﻿Pandunia - une langue simple pour le monde
 
 ![](http://www.pandunia.info/bandir/bandir.png "Le drapeau du pandunia")
 
@@ -16,24 +15,14 @@ Quelques traits remarquables du pandunia :
 ## Ressources pour apprendre
 
 - [L'essentiel](baze.md) en une seule page
-- [Leçon en dialogues](darse.md)
+- [Leçon en dialogues](201_shula.md)
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
 - [Petits cours en images](http://www.pandunia.info/pandunia/mini_darse.html)
-- [Recueil d’expressions](fraze.md)
+- [Recueil d’expressions](200_baze_jumla.md)
 - Dictionnaire [français → pandunia](france-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-france.md)
 - Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
 - Dictionnaire [dynamique](http://www.pandunia.info/fransi/tiddly.html)
-
-
-## Articles
-
-- [Le pandunia, une nouvelle langue de communication mondiale](dunia_baxe.md)
-
-
-## Présentation au format PDF (en anglais)
-
-- [Présentation générale](http://pandunia.info/engli/Pandunia-presentation.pdf)
 
 ## Rejoignez-nous
 
@@ -56,6 +45,5 @@ De nombreuses personnes sont déjà intéressées par le pandunia et certaines l
  
 Vous pouvez contacter Risto Kupsala, un des créateurs du pandunia, en envoyant un courriel à [risto@pandunia.info](mailto:risto@pandunia.info) et également dans les forums mentionnés précédemment.
 
-Page mise à jour le 26 mars 2020
-
+Page mise à jour le 28 septembre 2021
 
