@@ -23,7 +23,7 @@
 **mi si Sara. ye si ke?**
 = I am Sara. Who is that?  
 <big>🧑🏾</big>
-**ye si mi su doste.**
+**ye si mi su dosti.**
 = That is my friend.  
 <big>👩🏻</big>
 **ye su nam si ke?**
@@ -36,9 +36,10 @@
 
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
-tells something about the topic. For instance in **ye si mi su doste**
+tells something about the topic. For instance in
+**ye si mi su dosti**
 the topic is the pronoun **ye** (he, she, it), which is followed by
-the comment **si mi su doste** (is my friend).
+the comment **si mi su dosti** (is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
@@ -101,7 +102,7 @@ to be
 no; not  
 **bon**
 good  
-**doste**
+**dosti**
 friend  
 **nam**
 name  
@@ -152,7 +153,7 @@ Today it is a common greeting in hundreds of languages in Africa, Asia and Europ
 Pandunia is a constructed world language
 that borrows international words from all parts of the world.
 
-The verb form of **salam** is **salam**, which means "to greet".
+The word **salam** is also a verb, which means "to greet".
 
 **mi salam tu.**
 = I greet you.  
@@ -272,7 +273,7 @@ chief, boss
 **mi salam ye. salam reste!**
 = I will. Bye!  
 <big>🧓</big>
-**salam gou!**
+**salam ga!**
 = Bye!
 
 
@@ -334,13 +335,13 @@ has a useful pattern that can be used for making polite requests.
 
 **ching side.**
 = Please be seated.  
-**ching dona kafe.**
+**ching don yo kafe.**
 = Please give me some coffee.  
-**ching dona chai.**
+**ching don yo chai.**
 = Please give me some tea.  
-**ching yam chai.**
+**ching yam yo chai.**
 = Please have some tea.  
-**ching safa kamar.**
+**ching safa la kamar.**
 = Please clean the room.
 
 Commands are introduced with
@@ -348,14 +349,14 @@ Commands are introduced with
 ('to command'). They employ the same pivot structure as requests with
 **ching**.
 
-**amir dona a chai.**
+**amir don yo chai.**
 = Give (me) some tea!  
-**amir safi a kamar.**
+**amir safa la kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safi ye!**
+**safa ye!**
 = Clean it!
 
 
@@ -376,7 +377,7 @@ Try translating these sentences from English to Pandunia.
 tea  
 **ching**
 to ask; please  
-**dona**
+**don**
 to give  
 **shukur**
 thanks  
@@ -390,7 +391,7 @@ room
 to order, to command  
 **o**
 or  
-**safi**
+**safa**
 to clean  
 **side**
 to sit  
@@ -401,7 +402,7 @@ to eat or drink
 ### Answers to the Exercises
 
 1. ye yam chai.
-2. shefe ching ye side.
+2. la shefe ching ye side.
 3. ching yam kafe o chai.
 4. mama ching mi safa kamar.
 5. shefe side e yam kafe.
@@ -585,23 +586,23 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi ching tu safa kamar.**
+**mi ching tu safa la kamar.**
 = I ask you to clean the room.  
-**mi no ching tu safa kamar.**
+**mi no ching tu safa la kamar.**
 = I do NOT ask you to clean the room.  
-**mi ching tu no safa kamar.**
+**mi ching tu no safa la kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**ye no tena mau.**
+**ye no ten mau.**
 = She doesn't have a cat.  
-**ye tena no mau, ama vaf.**
+**ye ten no mau, ama vaf.**
 = She has no cats but dogs.  
-**no ye, ama mi tena mau.**
+**no ye, a mi ten mau.**
 = Not she but I have cats.  
-**mi tena no un, ama du mau.**
+**mi ten no un, a du mau.**
 = I have not one but two cats.
 
 
@@ -620,32 +621,32 @@ is more than one correct answer.
 
 ### Word List
 
-**kupe**
-cup, glass, mug.
-**kali**
-empty.
-**tena**
-to have.
+**kupa**
+cup, glass, mug  
+**hali**
+empty  
+**ten**
+to have  
 **mau**
 cat.
 **vaf**
-dog.
+dog  
 **du**
-two.
-**nol**
-zero.
+two  
+**siro**
+zero  
 **a**
-but.
+but
 
 
 ### Answers to the Exercises
 
 1. ye no safa kamar.
-2. un kupe no kali.
+2. un kupa no hali.
 3. du vaf no yam supe.
-4. ye no tena vaf e mau. / ye tena no vaf e no mau.
+4. ye no ten vaf e mau. / ye ten no vaf e no mau.
 5. shefe yam chai a no kafe.
-6. mama tena no vaf a du mau.
+6. mama ten no vaf a du mau.
 
 
 --------------------------------------------------------------------------------
@@ -659,32 +660,32 @@ manner or thing if needed.
 
 **ye si ke?**
 = What is that? / Who is (s)he?  
-**ki jen lai?**
+**ke jen lai?**
 = Who is coming? (**jen** = person)  
-**ki zaman tu yam?**
+**tu yam na ke zaman?**
 = When do you eat? (**zaman** = time)  
-**ki yang dance?**
+**danse na ke yang?**
 = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**ke saba**.
+**ke sababu**.
 
-**ke saba tu suka mau?**
+**ke sababu tu suka mau?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered
 by adding **sabu** before the cause or reason. **sabu** is actually a
 passive verb meaning _to be caused by_.
 
-**ke saba tu suka mau?**
+**ke sababu tu suka mau?**
 = Why do you like cats?  
-**sabu yemon kavai.**
+**ze sababu yemon si kavai.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau sabu yemon kavai**
+**mi suka mau ze sababu yemon si kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -699,7 +700,7 @@ something, even when not answering to a question.
 
 ### Word List
 
-**dance**
+**danse**
 to dance  
 **lai**
 to come  
@@ -716,12 +717,12 @@ period of time
 ### Answers to the Exercises
 
 
-1. ki jen suka supe?
+1. ke jen suka supe?
 2. papa suka.
-3. ki zaman ye lai?
-4. a pos da desi minute.
-5. ke saba ye no yam?
-6. sabu ye no suka kafe o supe.
+3. ke zaman ye lai?
+4. pos des minute.
+5. ke sababu ye no yam?
+6. ze sababu ye no suka kafe o supe.
 
 
 --------------------------------------------------------------------------------
@@ -738,23 +739,19 @@ such as "to hit", which is the same in all tenses.
 = I hit it.
 
 In Pandunia all verbs are like that! For example,
-**mi yam pan**
+**mi yam pang**
 can mean both "I eat bread" and "I ate bread",
 but usually only one or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-**mi yam pan an i suba yam.**
+**mi yam pang na ni suba yam.**
 = I ate bread for this breakfast.
 
 There are also specific time words.
 
-**gang**
-= just, recently  
 **zai**
 = currently, at the moment  
-**sun**
-= soon  
-**vil**
+**sha**
 = later, in the future
 
 They can be used for modifying nouns.
@@ -763,7 +760,7 @@ They can be used for modifying nouns.
 = Sarah is my former boss.  
 **Yusef si mi su zai shefe.**
 = Yusef is my current boss.  
-**Maria si mi su vil shefe.**
+**Maria si mi su sha shefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -773,16 +770,16 @@ Simply put the word before the verb.
 = I hit it (in the past).  
 **mi zai darba ye.**
 = I am hitting it (currently).  
-**mi vil darba ye.**
+**mi sha darba ye.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
 
-**mi darba ye an pas.**
+**mi darba ye na pas.**
 = I hit it in the past.  
-**mi darba ye an zai.**
+**mi darba ye na zai.**
 = I hit it at present.  
-**mi darba ye an vil.**
+**mi darba ye na sha.**
 = I hit it in the future.
 
 
@@ -792,19 +789,19 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi pas tena un mau.**
+**mi pas ten un mau.**
 = I had a cat in the past.  
 **ye si bon mau.**
 = It was a good cat.  
-**mi tena un vaf an zai.**
+**mi ten un vaf na zai.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-**mi jen an nen 2003.**
+**mi be jene na nen 2003.**
 = I was born in 2003.  
-**ye safi a kamar an pos den.**
+**ye safa la kamar na pos den.**
 = He will clean the room tomorrow.
 
 
@@ -825,21 +822,21 @@ Try translating these sentences from English to Pandunia.
 past, former  
 **zai**
 present, current  
-**vil**
+**sha**
 future  
 **darba**
 to hit, to beat  
-**pan**
+**pang**
 bread  
 **suba yam**
 morning meal, breakfast
 
 ### Answers to the Exercises
 
-1. mi su shefe festa an vile.
-2. mi tena du vaf an pase.
-3. tu yam supe an zai.
-4. ye safa kamar an chen den.
-5. mau yam kafe an pos den.
-6. tu su mama festa an chen noche.
+1. mi su shefe festa na sha.
+2. mi ten du vaf na pas.
+3. tu yam supe na zai.
+4. ye safa kamar na chen den.
+5. mau yam kafe na pos den.
+6. tu su mama festa na chen noche.
 

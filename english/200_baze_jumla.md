@@ -346,13 +346,13 @@ What is that?
 **go si oranje.**
 That is an orange.
 
-**ni si lal aple.**
+**ni si rubi aple.**
 This is a red apple.
 
-**ni aple si lal.**
+**ni aple si rubi.**
 This apple is red.
 
-**ni si lal.**
+**ni si rubi.**
 This is red.
 
 **yemon na ke?**
@@ -386,10 +386,10 @@ So **mi su** means "my", **tu su** means "your" and so on.
 **ye si ke?**
 Who's he/she?
 
-**ye si mi su doste.**
+**ye si mi su dosti.**
 He/she is my friend.
 
-**mi si Sara su doste.**
+**mi si Sara su dosti.**
 I am Sarah's friend.
 
 <small>Etymology. **su**
@@ -415,20 +415,20 @@ Her name is Sarah.
 Name, English: name.</small>
 
 
-### tena <small>have</small>
+### ten <small>have</small>
 
-**mi tena un bon dom.**
+**mi ten un bon dom.**
 I have a good house.
 
-**ye no tena pesa.**
+**ye no ten pesa.**
 He/she doesn't have money.
 
-**mi vol tena un nove telefon.**
+**mi vol ten un nove telefon.**
 I want to have a new phone.
 
-**sual tu tena ben?**
+**sual tu ten yo ben?**
 Do you have children?  
-**mi tena du ben.**
+**mi ten du ben.**
 I have two children.
 
 
@@ -449,7 +449,7 @@ We know each other for a long time.
 
 ### mede <small>help</small>
 
-**mi yau mede.**
+**mi yau yo mede.**
 I need help.
 
 **sual tu bil mede mi?**
@@ -488,7 +488,7 @@ Tip: Meaning of **yam** covers both eating and drinking. It can feel odd at
 first but soon you will see that it is quite handy! Usually the object of the
 verb tells is it about eating, drinking or both.
 
-**mi yam kafe si pang.**
+**mi yam kafe e pang.**
 I'm having coffee and bread.
 
 
@@ -513,7 +513,7 @@ No, I don't want tea. I want coffee.
 
 **tu vol ke aple?**
 Which apple do you want?  
-**ni lal.**
+**ni rubi.**
 This red one.
 
 
@@ -557,7 +557,7 @@ Let's go home.
 
 ### yau <small>need</small>
 
-**mi yau mede.**
+**mi yau yo mede.**
 I need help.
 
 **mi yau yam.**
@@ -604,13 +604,13 @@ I don't understand at all.
 
 ### bil <small>can</small>
 
-**mi bil shofe gar.**
+**mi bil shofe un kar.**
 I can drive a car.
 
-**ye no bil shofe gar.**
+**ye no bil shofe un kar.**
 He/she doesn't know how to drive a car.
 
-**sual tu bil reibona ye?**
+**sual tu bil shuli ye?**
 Do you know how to fix it?
 
 **sual tu bil pandunia?**
@@ -619,13 +619,13 @@ Can you speak Pandunia?
 **mi bil pandunia.**
 I can speak Pandunia.
 
-**mi bil lilo pandunia.**
+**mi bil lili da pandunia.**
 I can speak a little Pandunia.
 
 **mi no bil english.**
 I can't speak English.
 
-**maf. mi no bil tu su bax.**
+**maf. mi no bil tu su basha.**
 Sorry, I can't speak your language.
 
 
@@ -640,7 +640,7 @@ I talk to you.
 **mimon loga do se kon.**
 We talk to each other.
 
-**men loga "cat" na ke yang na pandunia?**
+**mon loga "cat" na ke yang na pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" si ke na pandunia?**
@@ -658,13 +658,13 @@ Listen to me!
 **mi no bil audi tu.**
 I can't hear you.
 
-**ching loga forto.**
+**ching loga mas lika.**
 Please speak louder.
 
-**mi audi musike.**
+**mi audi muzika.**
 I listen to music.
 
-**tu audi ke yang di musike?**
+**tu audi ke yang di muzika?**
 What kind of music do you listen to?
 
 
@@ -685,10 +685,10 @@ I saw him/her yesterday.
 
 ### mana <small>to mean</small>
 
-**ni loga mana ke?**
+**ni loga ya mana ke?**
 What does this word mean?
 
-**"mau" mana ke?**
+**"mau" ya mana ke?**
 What does "mau" mean?
 
 **ye mana un yang da zou.**
@@ -783,10 +783,10 @@ The voyage is very long.
 
 ### na <small>in, on, at</small>
 
-**hotel na ke?**
+**la hotel na ke?**
 Where is the hotel?
 
-**hotel na go dau.**
+**la hotel na go dau.**
 The hotel is on that road.
 
 **tu na ke?**
@@ -803,37 +803,34 @@ He/she sits in the room.
 
 Tip! You can use **na** as a preposition or alone as the verb.
 
-**mi kara na...**
+**mi gong na...**
 I work at ...
 
 
 ### dom <small>to live, reside</small>
 
-**tu doma ke?**
+**tu dom na ke?**
 Where do you live?
 
-**mi dom Singapur.**
+**mi dom na Singapur.**
 I live in Singapore.
 
-**sual tu dom ni hotel?**
+**sual tu dom na ni hotel?**
 Do you live in this hotel?
 
-Tip: It is also okay to say **tu dom na ke?** instead of **tu dom ke**.
-However **dom** already covers the meaning of being at somewhere, so **na** is not necessary.
 
+### dele <small>to wait</small>
 
-### deng <small>to wait</small>
-
-**ching deng!**
+**ching dele!**
 Please wait!
 
-**deng mi!**
+**dele do mi!**
 Wait for me!
 
-**yemon deng mimon.**
+**yemon dele do mimon.**
 They wait for us.
 
-**mi deng tu na hotel.**
+**mi dele do tu na hotel.**
 I wait for you in the hotel.
 
 
@@ -844,7 +841,7 @@ I wait for you in the hotel.
 **mi zai salam tu su doste.**  
 I am greeting your friend.
 
-**man ya zai vide un filme.**  
+**la man ya zai vide un filme.**  
 The man is watching a film.
 
 **ye zai si shefe.**  
@@ -859,7 +856,7 @@ He or she is currently at home.
 **mi pas salam tu su doste.**  
 I greeted your friend.
 
-**man ya pas vide un filme fem.**  
+**la man ya pas vide un filme fem.**  
 The man watched a film.
 
 **ye pas si shefe.**  
@@ -874,7 +871,7 @@ He or she was at home.
 **mi le salam tu su doste.**  
 I have greeted your friend.
 
-**man le vide un filme.**  
+**la man le vide un filme.**  
 The man has watched a film.
 
 **ye le si shefe.**  
@@ -889,7 +886,7 @@ He or she has been at home.
 **mi sha salam tu su doste.**  
 I will greet your friend.
 
-**man sha vide la filme.**  
+**la man sha vide la filme.**  
 The man will watch the film.
 
 **ye sha si shefe.**  
@@ -921,7 +918,7 @@ I give a book to them.
 He/she doesn't want to give it to me.
 
 
-### kapa <small>take, get</small>
+### kapae <small>take, get</small>
 
 **mi kapa un kafe.**
 I will take a coffee.
@@ -936,18 +933,18 @@ You already got money from me before.
 I will take a beer.
 
 
-### kire <small>rent, lease, hire</small>
+### kira <small>rent, lease, hire</small>
 
-**kire si 500 dolar na mes.**  
+**kira si 500 dolar na mes.**  
 The rent is 500 dollars in a month.
 
-**ye no bil pei la kire.**  
+**ye no bil pei la kira.**  
 He/she can't pay the rent.
 
-**mi vol kapa un gar na kire.**  
+**mi vol kapa un gar na kira.**  
 I want to take a car for rent.
 
-**mi vol kira kapa un gare.**
+**mi vol kira kapa un kar.**
 I want to rent a car.
 
 **ye kira don la kamar do safarer.**

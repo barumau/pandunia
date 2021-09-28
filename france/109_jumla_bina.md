@@ -1,135 +1,119 @@
 # Phrases
 
-### 7.1. Constatations
+## Constatations
 
 Les constatations sont la forme la plus simple de phrases.
 Elles peuvent ne se construire que d'un mot, ce qui attire l'attention de l'auditeur.
 
-**maw!** 
+**mau!**
 – Un chat !  
-**barxa!** 
+**shava!**
 – (Il) pleut !
 
 
-### 7.2. Phrases actives
+## Phrases actives
 
-#### 7.2.1. Quand le sujet est un nom ou un pronom
+### Quand le sujet est un nom ou un pronom
 
 Une phrase est normalement composée d'un sujet et d'un prédicat.
 Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédicat est un adjectif ou un nom.
 
-**me bon.** 
+**mi bon.**
 – Je vais bien. (= Je suis bon.)  
-**le novi.** 
+**ye nove.**
 – C'est nouveau.  
-**le sarah.** 
+**ye Sara.**
 – C'est Sarah.  
-**sarah bon.** 
+**Sara si bon.**
 – Sarah va bien.  
-**petre day.** 
+**seku si dai.**
 – La pierre est grosse.  
-**meze novi.** 
+**meza si nove.**
 – La table est neuve.  
 
 The word **no** is added to form the negative.
 
-**me no bon.** 
+**mi no bon.** 
 – Je ne vais pas bien. (= Je ne suis pas bon.)  
-**le no novi.** 
+**ye no nove.** 
 – Ce n'est pas nouveau.  
-**le no sarah.** 
+**ye no Sara.** 
 – Ce n'est pas Sarah.
 
 Il est possible d'ajouter le mot **si** (oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
-**sarah si bon.** 
+**Sara si bon.** 
 – Sarah va bien.  
-**petre si day.** 
+**la seku si dai.** 
 – La pierre est grosse.  
-**meze si novi.** 
+**la meza si nove.** 
 – La table est neuve.  
-**meze no law.** 
+**la meza no lau.** 
 – La table n'est pas vieille.
 
 De plus, deux pronoms personnels peuvent être combinés avec **si** et **no**.
 
-**me si le.** 
+**mi si ye.** 
 – Moi, c'est lui / elle.  
-**me no te.** 
+**mi no tu.** 
 – Je ne suis pas toi.
 
-#### 7.2.2. Quand le sujet est un adjectif
+### Quand le sujet est un adjectif
 
 La même règle s'applique aussi pour deux adjectifs.
 
-**jowan si sundari.** 
+**jovan si sundar.** 
 – (Être) jeune, c'est beau.  
-**novi no purani.** 
+**nove no lau.** 
 – Neuf, ce n'est pas vieux.  
 
-#### 7.2.3. Quand le sujet est un verbe
+### Quand le sujet est un verbe
 
-Un verbe ne peut pas être sujet en tant que tel.
-Donc le verbe vient en premier, et on utilise **ye** pour introduire un commentaire sur le verbe.
-
-**canta, ye bon.** 
+**chanta si bon.**
 – Chanter, c'est bon.
 
-#### 7.2.4. Être
 
-Le pandunia n'a pas de verbe tel que "être" en français.
-
-
-### 7.3. Phrases active
+## Phrases active
 
 Une phrase active est une phrase dans laquelle le sujet fait une action marquée par le verbe envers l'objet.
 L'attention se focalise sur le sujet en tant qu'élément actif.
 L'ordre des mots correct est sujet – verbe – objet (SVO).
 
-En pandunia, les verbes actifs sont faciles à identifier parce qu'ils se terminent tous en **-a**.
-
 Les phrases suivantes utilisent l'ordre des mots de type SVO.
 
-**me niama aple.** 
+**mi yam yo aple.** 
 – Je mange des pommes.  
-**me vida te.** 
+**mi vide tu.** 
 – Je te vois.
 
 
-### 7.4. Phrases passives
+## Phrases passives
 
 Dans une phrase passive, l'attention se focalise sur le sujet qui reçoit ou subit l'action de manière passive.
 Donc l'objet de l'action est le sujet de la phrase.
 Souvent, le complément d'agent n'est pas mentionné du tout.
 
-En pandunia, la voix passive est marquée par la terminaison en **-u** du verbe. L'ordre des mots est sujet - verbe - (objet en option) ou, plus précisément verbe - (agent en option).
+En pandunia, la voix passive est marquée par le verbe auxiliaire **be**.
 
-**te vidu.** 
+**tu be vide.**
 – Tu es vu.e.  
-**musike audu.** 
+**muzika be audi.**
 – De la musique est entendue.  
-**pang beku.** 
+**pang be baka.**
 – Du pain est cuit.  
-**kupe kaputu.** 
+**kupa be parche.**
 – La tasse se brise. (La tasse est brisée.)
 
-L'agent peut être introduit après le verbe à l'aide de la particule **da**, ou bien sans.
+L'agent peut être introduit après le verbe à l'aide de la particule **da**.
 
-**te vidu me.** 
-– Tu es vu.e par moi.
-**te vidu da me.** 
+**tu be vide da me.**
 – Tu es vu.e par moi.
 
-Il arrive parfois qu'un verbe passif soit traduit par un verbe actif en français. C'est parfois le cas de **suku**, qui signifie _être plu par_
 
-**me suku musike.** 
-– je suis ravi.e par la musique. / J'aime la musique.
+## Structure pivot
 
-
-### 7.6. Structure pivot
-
-#### 7.6.1. Structure pivot de base (SVOVO)
+### Structure pivot de base (SVOVO)
 
 Dans une _structure pivot_, l'ordre des mots est :
 sujet – verbe 1 – objet 1 – verbe 2 – objet 2.
@@ -137,159 +121,136 @@ sujet – verbe 1 – objet 1 – verbe 2 – objet 2.
 L'objet 1 possède un double rôle.
 Il est à la fois l'objet du verbe 1 et du sujet du verbe 2.
 
-**me wana te niama sabze.** 
+**mi vol tu yam yo fito.**
 – Je veux tu manges légumes. (Je veux que tu manges des légumes.)
 
-Dans l'exemple ci-dessus, **me wana** a pour objet **te**.
-En même temps, **te** fonctionne comme le sujet du prédicat suivant : **niama sabze**.
-Donc **te** est le _pivot_ de la phrase entière.
+Dans l'exemple ci-dessus, **mi vol** a pour objet **tu**.
+En même temps, **tu** fonctionne comme le sujet du prédicat suivant : **yam yo fito**.
+Donc **tu** est le _pivot_ de la phrase entière.
 
 
-### 7.7. Suite de verbes
+## Suite de verbes
 
 Il peut y avoir deux ou trois verbes dans une suite, voire davantage, et ils portent tous sur le même sujet.
 
-1. **me gowa dome.**
+1. **mi ga do dom.**
    – Je vais à la maison.  
-2. **me abla gowa dome.**
+2. **mi bil ga do dom.**
    – Je peux aller à la maison.  
-3. **me wana abla gowa dome.**
+3. **mi vol bil ga do dom.**
    – Je veux pouvoir aller à la maison.
 
-### 7.8. Omission des pronoms
+## Omission des pronoms
 
 Dans certains types de structures, les pronoms sont omis pour des raisons de brièveté.
 C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
-#### 7.8.1. Structure pivot brève (VOVO)
+### Structure pivot brève (VOVO)
 
-**me eska te baxa pandunia.** 
+**mi sual tu basha pandunia.**
 – Je demande (si) tu parles pandunia.  
-**eska te baxa pandunia?** 
+**sual tu basha pandunia?**
 – Est-ce que tu parles pandunia ?
 
-#### 7.8.2. Short pivot structure (VVO)
+###. Short pivot structure (VVO)
 
-**me pliza te laya dome.** 
+**mi ching tu lai do dom.** 
 – Je te prie de venir à la maison.  
-**pliza laya dome!** 
+**ching lai do dom!** 
 – S'il te plait viens à la maison !
 (Mot à mot : _Demande viens maison !_)
 
-----------------
+--------------------------------------------------------------------------------
 
-## 8. Conjonctions
+## Conjonctions
 
-### 8.1. Conjonctions de base
+### Conjonctions de base
 
-1. **e** et (connecte deux mots ou phrases semblables)
-2. **o** ou (connecte deux mots ou phrases alternatifs)
-3. **a** mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
+1. **e**
+   et (connecte deux mots ou phrases semblables)
+2. **o**
+   ou (connecte deux mots ou phrases alternatifs)
+3. **a**
+   mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
 
-**me suku maw e waf.** 
+**mi suka mau e vaf.**
 – J'aime les chats et les chiens.  
-**me suku maw o waf.** 
+**mi suka mau o vaf.**
 – J'aime les chats ou les chiens.  
-**me suku maw a no waf.** 
+**mi suka mau a no vaf.**
 – J'aime les chats mais pas les chiens.
 
------------------
+--------------------------------------------------------------------------------
 
 
-## 9. Particules
+## Particules
 
-### 9.1. Affirmation et négation
+### Affirmation et négation
 
-### 9.1.1. Particule affirmative
+#### Particule affirmative
 
-La particule **si** est affirmative et la particule **no** est négative.
-**si** affirme l'existence de quelque chose, tandis que **no** la nie.
-En d'autres termes, **si** signifie **être** ou **il y a** et **no** signifie "ne pas être" ou "il n'y a pas".
+La particule **ya** est affirmative et la particule **no** est négative.
+**ya** affirme l'existence de quelque chose, tandis que **no** la nie.
 
-Une expression est affirmative par défaut, donc le mot **si** n'est pas toujours nécessaire.
-Cependant elle est particulièrement utile pour exprimer l'état.
+Une expression est affirmative par défaut, donc le mot **ya** n'est pas toujours nécessaire.
 
-**me si ren.** 
+
+**mi si jen.** 
 – Je suis une personne.  
-**le si novi meze.** 
+**ye ya si nove meza.**
 – C'est une nouvelle table.
 
-### 9.1.2. Particule négative
+#### Particule négative
 
 La négation de phrases telles que ci-dessus s'exprime simplement par **no**.
 
-**me no ren.** 
+**mi no si jen.** 
 – Je ne suis pas une personne.  
-**le no novi meze.** 
+**ye no si nove meza.**
 – Ce n'est pas une nouvelle table.
 
 Le mot **no** sert à marquer la négation de n'importe quel élément dans la phrase.
 Il affecte toujours le mot qui le suit.
 Le sens de la phrase change donc selon l'emplacement du **no**.
 
-**me vida te.** 
+**mi vide tu.**
 – Je te vois.  
-**me no vida te.** 
+**mi no vide tu.**
 – Je ne te vois pas.  
-**me vida no te a lole.** 
+**mi vide no tu a yemon.**
 – Ce n'est pas toi que je vois, mais eux.
 
-**me pliza te safa kamar.**
+**mi ching tu safa la kamar.**
 – Je te demande de nettoyer la chambre.  
-**me no pliza te safa kamar.**
+**mi no ching tu safa la kamar.**
 – Je NE demande PAS à toi de nettoyer la chambre.  
-**me pliza te no safa kamar.**
+**mi ching tu no safa la kamar.**
 – Je te demande de NE PAS nettoyer la chambre.
 
 Les particules **si** et **no** sont également utilisées pour répondre aux questions.
 
-**eska te vida me?** 
+**sual tu vide mi?** 
 – Est-ce que tu me voies ?  
-**si. (me si vida te.)** 
+**ya. (mi ya vide tu.)** 
 – Oui. (Je te vois bien.)  
-**no. (me no vida te.)** 
+**no. (mi no vide tu.)** 
 – Non. (Je ne te vois pas.)
 
-On répond aux phrases interro-négatives de façon à ce que **si** et **no** s'appliquent au verbe, et non pas à la question entière.
+On répond aux phrases interro-négatives de façon à ce que **ya** et **no** s'appliquent au verbe, et non pas à la question entière.
 
-**eska te no vida me?** 
+**sual tu no vide mi?** 
 – Ne me vois-tu pas ?  
-**si. (me si vida te.)** 
+**ya. (mi ya vide tu.)** 
 – Si. (Je te vois bien.)  
-**no. (me no vida te.)** 
+**no. (mi no vide tu.)** 
 – Non. (Je ne te vois pas.)
 
 
-### 9.2. Particules modificatrices
+### Particules modificatrices
 
-Les particules **du** et **da** servent à relier un nom, un adjectif ou une proposition subordonnée à un autre nom pour le modifier.
-**du** relie le mot ou la proposition qui modifie au nom principal.
+Les particules **di** et **da** servent à relier un nom, un adjectif ou une proposition subordonnée à un autre nom pour le modifier.
+**di** relie le mot ou la proposition qui modifie au nom principal.
 **da** fonctionne de manière inverse, il connecte le nom principal au mot modificateur ou à la subordonnée.
-
-### 9.2.1. Possession
-
-La particule modificatrice peut être utilisée avec n'importe quel nom ou pronom.
-
-En ce qui concerne la possession, la particule **du** fonctionne comme l'apostophe-s ('s) de l'anglais ou le (-s) de l'allemand.
-Elle indique que le mot qui la précède est en possession du mot qui la suit.
-
-**maria du mame** 
-– La mère de Maria (Maria's mother)
-**maria du mame du dome** 
-– La maison de la mère de Maria (Maria's mother's house)
-
-La particule **da** fonctionne comme "de" en français.
-Elle indique que le mot qui la suit est en possession du mot qui la précède.
-
-**mame da maria** – la mère de Maria  
-**dome da mame da maria** – la maison de la mère de Maria
-
-Il est également possible d'utiliser **da** et **du** avec des pronoms personnels. On peut donc dire par exemple :
-
-**dome da me** (_la maison à moi_)
-mais il est préférable d'utiliser des adjectifs possessifs et de dire simplement
-**mi dome** (_ma maison_).
-
 
 ### 9.2.2. Modification par des groupes nominal
 
@@ -298,89 +259,52 @@ Cela permet de préciser le nom, et la particule choisie montre clairement à qu
 
 Les particules modificatrices permettent ainsi de créer des groupes nominaux compléments complexes de deux mots ou davantage.
 
-**rozi rang du labe** 
+**roze rang di labi**
 – des lèvres de couleur rose 
-**samani rang du kan** 
+**sama rang di oko**
 – des yeux de la couleur du ciel
 
 Ou dans l'ordre inverse :
 
-**labe da rozi rang** 
+**labi da roze rang**
 – des lèvres de couleur rose  
-**kan da samani rang** 
+**oko da sama rang**
 – des yeux de la couleur du ciel
 
 Ces particules permettent également de créer des mots-mesures.
  
-**un sake du patate** 
+**un sake di patate**
 – un sac de pommes de terre
-**dul sake du patate** 
+**du sake di patate**
 – deux sacs de pommes de terre
-**max sake du patate** 
+**mas sake di patate**
 – plus / davantage de sacs de pommes de terre
 
 Remarque : **du** and **da** connectent des propositions.
 Donc un groupe de mots peut prendre un sens tout à fait différent avec ou sans **du**.
 
-**max sundari fule** 
+**mas sundar hua**
 – des fleurs plus belles  
-**max du sundari fule** 
+**mas da sundar hua**
 – davantage de belles fleurs (de belles fleurs en plus grande quantité)
 
-#### 9.2.3. Modification par des propositions subordonnées (groupes verbaux)
 
-On peut transformer des verbes et des groupes verbaux en plaçant **da** ou **du** juste à côté du verbe.
-Dans les subordonnées modificatrices, l'agent et l'objet se placent aux mêmes endroits que dans les phrases déclaratives.
+#### Possession
 
-Une phrase déclarative :  
-**maw vidu me.** 
-– Un chat est vu par moi.
+La particule possessif
+**su**
+fonctionne comme l'apostophe-s ('s) de l'anglais ou le (-s) de l'allemand.
+Elle indique que le mot qui la précède est en possession du mot qui la suit.
 
-La subordonnée modificatrice correspondante :  
-**maw da vidu me** 
-– le chat qui _est vu par moi_
+**Maria su mama**
+– La mère de Maria (Maria's mother)
+**Maria su mama su dom**
+– La maison de la mère de Maria (Maria's mother's house)
 
-Remarque : bien que **da** semble avoir ici un rôle semblable aux pronoms relatifs _qui_ et _que_ du français,
-ce n'est rien d'autre qu'une particule qui relie un modificateur (dans l'exemple ci-dessus : un groupe verbal) au mot modifié.
-
-On peut utiliser l'ordre inverse des mots avec **du** et la terminaison **-a** du verbe.
-
-Une phrase déclarative :  
-**me vida maw.** 
-– Je vois un chat.
-
-La subordonnée modificatrice correspondante :  
-**me vida du maw** 
-– le chat _que je vois_
-
-Faites très attention aux voyelles finales ! Elles sont cruciales pour comprendre le sens des phrases.
-
-**maw da vidu man** 
-– le chat qui est vu par l'homme  
-**maw da vida man** 
-– le chat qui voit l'homme  
-**maw vida du man** 
-– l'homme que _le chat voit_  
-**maw vidu du man** 
-– l'homme par qui _le chat est vu_
-
-Remarque : en pandunia, on peut utiliser beaucoup d'ordres de mots différents.
-C'est pourquoi certaines traductions semblent maladroites en français, bien que les phrases originales en pandunia soient parfaitement naturelles.
-
-
-#### 9.2.4. Modifications par des groupes de mots en adposition
-
-Le nom modifié peut également faire partie d'une adposition.
-
-**me safara pa du site si teli.** – Je voyage vers une ville qui est éloignée. (= Ma ville de destination est éloignée.)
-
-Quand on place le nom modifié au début, il nous faut faire appel à des postpositions rarement utilisées par ailleurs.
-**nu**, **cu**, **su**, and **pu**.
-
-**site da pu me safara si teli.** 
-– La ville vers laquelle je voyage est éloignée.  / Ma ville de destination est éloignée.
-**yi kalam da su me zay kitaba si novi.** 
-– Ce crayon, avec lequel je suis en train d'écrire, est neuf.
+**mi su dom**
+– ma maison  
+**tu su dom**
+– ta maison
 
 
 ### 9.3. Particules modales
@@ -393,42 +317,42 @@ En pandunia, une particule modale modifie le mot qui la suit, ou bien toute la p
 
 La particule **plus** _(aussi, également)_ en est un bon exemple car elle fonctionne plutôt comme en français.
 
-**le niama bir plus.** 
+**ye yam bir plus.**
 – Elle boit de la bière, _en plus_.  
-**le niama plus bir.** 
+**ye yam plus bir.**
 – Elle boit _de la bière aussi_.  
-**le plus niama bir.** 
+**ye plus yam bir.**
 – Elle _boit aussi_ de la bière.  
-**plus le niama bir.** 
+**plus ye yam bir.**
 – _Elle aussi_ boit de la bière.
 
 Les particules modales peuvent modifier toutes sortes de mots, y compris des pronoms et des numéraux, ce que les adjectifs ne peuvent pas modifier.
 
 
-### 9.4. Particules de temps et d'aspect
+### Particules de temps et d'aspect
 
 En pandunia, on peut exprimer le temps grammatical à l'aide de particules et expressions temporelles, si besoin.
-Les particules de temps générales sont **pas** (passé), **zay** (présent) et **wil** (future, avenir).
+Les particules de temps générales sont **pas** (passé), **zai** (présent) et **sha** (future, avenir).
 Elles fonctionnent comme des adjectifs et des verbs, donc elles se placent généralement avant le verbe.
 
-**me pas tena maw.** 
+**mi pas ha mau.**
 – J'avais des chats.  
-**a me no zay tena maw.** 
+**a mi no zai ha mau.**
 – Mais maintenant je n'ai plus de chats.  
-**ablo me wil tena maw.** 
+**bil, mi sha ha mau.**
 – Peut-être que j'aurai des chats.
 
 On peut aussi utiliser une expression temporelle telle que **sa pase** (dans le passé), etc.
 
-**me tena maw sa pase.** 
+**mi ha mau na pas zaman.**
 – J'avais des chats dans le passé.  
-**a me no tena maw sa zaye.** 
+**a mi no ha mau na zai zaman.**
 – Mais je n'ai plus de chats à présent.  
-**ablo me tena maw sa wile.** 
+**bil, mi ha mau na sha zaman.**
 – Peut-être aurai-je des chats à l'avenir.
 
 Remarque : les verbes ne sont pas conjugués.
-Donc le verbe **tena** n'a pas été modifié, sa forme est restée la même à tous les temps dans les exemples ci-dessus.
+Donc le verbe **ha** n'a pas été modifié, sa forme est restée la même à tous les temps dans les exemples ci-dessus.
 
 Naturellement les indications temporelles ne servent que quand elles sont nécessaires.
 En principe il suffit de ne mentionner le temps qu'une seule fois au début du texte et non pas à chaque phrase, si le temps ne change pas.

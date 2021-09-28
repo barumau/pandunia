@@ -2,46 +2,46 @@
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 
-**novi gare** 
-– voiture(s) neuve(s)
-**rapidi gare** 
+**un _nove_ kar**
+– une voiture nouvelle  
+**un _rapide_ kar**
 – voiture(s) rapide(s)
-**day meze** 
+**ba _dai_ meza**
 – grande(s) table(s)  
-**gawi meze** 
+**ba _gau_ meza**
 – table(s) haute(s) 
-**bon kurse** 
+**un bon jen**
 – bonne(s) chaise(s)
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**lil novi gare** 
+**un lili nove kar**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**gare novi.** 
+**la kar si nove.** 
 – La voiture est neuve.  
-**bagre rapidi.** 
+**la bagre si rapide.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**novi gare rapidi.** 
+**la nove kar si rapide.** 
 – La voiture neuve est rapide.
 
 # Adverbes
 
-##. Modification du verbe
+## Modification du verbe
 
 En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verbe ou à la fin de la phrase.
 
-**me _bono_ sona.** 
+**mi bon di sona.** 
 – Je _bien_ dors.  
-**me sona _bono_.** 
+**mi sona bon.** 
 – Je dors _bien_.  
-**te baxa pandunia _bono_.** 
+**tu basha pandunia bon.** 
 – Tu parles pandunia _bien_.
 
 
@@ -50,16 +50,16 @@ En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verb
 Un modificateur peut également modifier un autre modificateur.
 Ainsi, **day** (grand) et **lil** (petit) peuvent être utilisés comme des adverbes d'intensification.
 
-**day ren** 
+**un dai jen** 
 – un grand individu  
-**lil ren** 
+**un lili jen** 
 – un petit individu  
-**sundari ren** 
+**un sundar jen** 
 – un bel individu
 
-**dayo sundari ren** 
+**un dai di sundar jen** 
 – un très bel individu  
-**lilo sundari ren** 
+**un lili di sundar jen** 
 – un assez bel individu
 
 
@@ -67,16 +67,21 @@ Ainsi, **day** (grand) et **lil** (petit) peuvent être utilisés comme des adve
 
 Les modificateurs peuvent être comparés.
 
-- **max** (plus) marque le comparatif de supériorité
-- **maxim** (le plus) marque le superlatif de supériorité
-- **min** (moins) marque le comparatif d'infériorité
-- **minim** (le moins) marque le superlatif d'infériorité
-- **samo** (aussi, autant) marque le comparatif d'égalité
+- **mas**
+  (plus) marque le comparatif de supériorité
+- **masim**
+  (le plus) marque le superlatif de supériorité
+- **min**
+  (moins) marque le comparatif d'infériorité
+- **minim**
+  (le moins) marque le superlatif d'infériorité
+- **par**
+  (aussi, autant) marque le comparatif d'égalité
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
-**me si max bon ko te.**
+**mi si mas bon ka tu.**
 = Je suis meilleur que toi.  
-**te loga samo bono ko me.**
+**tu loga par bon ka mi.**
 = Tu parles aussi bien que moi.
 

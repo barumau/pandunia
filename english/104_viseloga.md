@@ -139,6 +139,8 @@ and it means the same as English _which_.
 – Who? (Which person?)  
 **ke zaman?**
 – When? (What time?)  
+**ke yang?** 
+– How? (What way?)
 
 Also adjectives are questioned with **ke**.
 

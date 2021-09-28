@@ -161,7 +161,7 @@ Aucune de ces deux caractéristiques n'est nécessaire dans une langue mondiale.
 
 Le Pandunia a par conséquent déterminé une règle simple :
 l'accent tonique se place toujours sur la syllabe qui précède la dernière consonne.
-Ex : **me wána lóga bón dúnia báxe.**
+Ex : **mi vól lóga la bón dúnia básha.**
 Le Pandunia n'a pas d'accent lexical de hauteur.
 
 
@@ -255,17 +255,7 @@ Il y a trois principaux types de langues :
 2. Celles où le mot principal vient en dernier : SOV, NumN, AdjN, RelN and postpositions.
 3. Les autres qui sont un mélange de ces deux modèles ou qui ont une organisation des mots libre.
 
-Le troisième type est de loin le plus intéressant pour une langue mondiale qui doit accueillir des personnes ayant des habitudes linguistiques différentes.
-
-L'organisation des mots en Pandunia est libre. Ceci est possible grâce aux terminaisons -a et -u qui inverse le sens des mots par le biais d'un verbe. En Pandunia, les verbes peuvent aussi fonctionner comme adpositions (appelés _coverbes_).
-
-**me ama te.** (SVO)  
-**me te amu.** (SOV)  
-Je t'aime.
-
-**me jampa supra gaw meze.** (Je saute, passe par-dessus la table haute.)  
-**me jampa gaw meze supru.** (Je saute, la haute table est enjambée.)  
-Je saute par-dessus la table haute.
+Un type mixte est de loin le plus intéressant pour une langue mondiale qui doit accueillir des personnes ayant des habitudes linguistiques différentes.
 
 
 
@@ -302,10 +292,10 @@ Le Pandunia emprunte des racines de mots occidentaux afin de proposer un vocabul
 
 | Racine Pandunia | Anglais     | Portugais | Espagnol | Français | Allemand | Russe    |
 | --------------- | ----------- | --------- | -------- | -------- | -------- | -------- |
-| **kort**        | short       | curto     | corto    | court    | kurz     | korotkiy |
-| **now**         | new         | novo      | nuevo    | nouveau, neuf  | neu      | novıy    |
-| **marc**        | march       | marcha    | marcha   | marche   | Marsch   | marš     |
-| **post**        | post (mail) | (postal)  | posta    | poste    | Post     | počta    |
+| **korte*        | short       | curto     | corto    | court    | kurz     | korotkiy |
+| **nove**        | new         | novo      | nuevo    | nouveau, neuf  | neu      | novıy    |
+| **marche**      | march       | marcha    | marcha   | marche   | Marsch   | marš     |
+| **poste**       | post (mail) | (postal)  | posta    | poste    | Post     | počta    |
 
 A l'instar des langues citées ci-dessus, le Pandunia utilise également des suffixes afin de créer des adjectifs, des noms et des verbes. Voici quelques exemples : korti (court), korte (nabot, nain), korta (raccourcir), novi (nouveau), nove (des nouvelles [informations]), nova (renouveler, rénover).
 
@@ -321,13 +311,12 @@ Le Pandunia quant à lui conserve la consonne – p, t ou k, –, finale et lui 
 
 | 字   | Racine Pandunia | Cantonais | Mandarin | Japonais | Coréen | Vietnamien |
 | ---- | --------------- | --------- | -------- | -------- | ------ | ---------- |
-| 水   | **suy**         | sui       | shuǐ     | sui      | su     | thuỷ       |
-| 中   | **jung**        | zung      | zhōng    | chū      | jung   | trung      |
-| 心   | **xim**         | sam       | xīn      | shin     | sim    | tâm        |
-| 門   | **mun**         | mun       | mén      | mon      | mun    | (môn)      |
-| 問   | **wen**         | man       | wèn      | mon      | mun    | vấn        |
-| 讀   | **dug**         | duk       | dú       | doku     | dog    | đọc        |
-| 出   | **cut**         | cœt       | chū      | shutsu   | chul   | xuất       |
+| 水   | **sui**         | sui       | shuǐ     | sui      | su     | thuỷ       |
+| 中   | **jong**        | zung      | zhōng    | chū      | jung   | trung      |
+| 心   | **shim**        | sam       | xīn      | shin     | sim    | tâm        |
+| 門   | **mon**         | mun       | mén      | mon      | mun    | (môn)      |
+| 讀   | **duku**        | duk       | dú       | doku     | dog    | đọc        |
+| 出   | **chuti**       | cœt       | chū      | shutsu   | chul   | xuất       |
 | 索   | **sog**         | sok       | suǒ      | saku     | sæg    |            |
 | 惡   | **ag**          | ok        | è        | aku      | ag     | ác         |
 
@@ -341,28 +330,28 @@ Dans cette section, nous allons comparer les structures de phrases du Pandunia a
 L'ordre normal des mots est sujet-verbe-objet - tout comme en anglais ou en chinois.
 
     Anglais :   I love you, and you love me.
-    Pandunia :  me ama te, te ama me.
+    Pandunia :  mi ama tu, tu ama mi.
     Chinois :   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
     Français :  Je t'aime, et tu m'aimes.
 
-Le verbe **beyu** est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)
+Le verbe **be** est utilisé lorsque l'objet d'une action vient en premier dans la phrase. (C'est ce qu'on appelle la phrase passive.)
 
     Anglais :   The apples were eaten.
-    Pandunia :  aple beyu niama.
+    Pandunia :  aple be yam.
     Chinois :   Píngguǒ bèi chī le. (苹果被吃了。)
     Français :  Les pommes ont été mangées.
 
 **Beyu** est un mot emprunté au chinois standard, mais il est également proche de certaines utilisations de l'anglais "to be".
 
     Anglais :   It can not be eaten.
-    Pandunia :  le no abla beyu niama.
+    Pandunia :  ye no bil be yam.
     Chinois :   Tā bù néng bèi chī. (它不能被吃。)
     Français :	Ça ne peut pas être mangé.
 
 Comme le chinois, le Pandunia ne marque pas les verbes avec un mot comme "to" (français : "à").
 
     Anglais :   I invite him to drink coffee.
-    Pandunia:   me pliza le niama kafe.
+    Pandunia:   mi ching ye yam kafe.
     Chinois :   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
     Français :  Je l'invite à boire du café.
     
@@ -371,13 +360,13 @@ En pandunia et en chinois, les noms peuvent être singuliers ou pluriels selon l
 Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et les verbes ne sont pas conjugés. Un seul mot, **si**, est utilisé au lieu de _am, is, are, was, were..._ (_suis, es, est, sommes, êtes, sont, étais, était, étions, étiez…_).
 
     Anglais :   It is an apple.
-    Pandunia :  le si aple.
+    Pandunia :  ye si aple.
     Chinois :   Tā shì píngguǒ. (他是苹果。)
     Français :  C'est une pomme.
     
     
     Anglais :   They are apples.
-    Pandunia :  lole si aple.
+    Pandunia :  yemon si aple.
     Chinois :   Tāmen shì píngguǒ. (他们是苹果。)
     Français :  Ce sont des pommes.
     
@@ -387,4 +376,4 @@ Il n'y a pas de terminaison au pluriel comme -s en anglais ou en français et le
 ![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag")
 
 
-Mis à jour le 27 mars 2020.
+Mis à jour le 28 septembre 2021.

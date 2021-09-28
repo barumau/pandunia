@@ -5,13 +5,13 @@
 Un substantif ou nom est un mot qui sert à nommer une chose.
 Comme tous les mots en pandunia, les noms sont invariables : ils ne sont pas affectés par le nombre et le genre. Donc la même forme sert pour le singulier et le pluriel, le masculin ou le féminin, le caractère défini ou indéfini, etc.
 
-**petre** 
+**seku**
 – une pierre, des pierres, la pierre ou les pierres  
-**meze** 
+**meza**
 – une table, des tables, la table or les tables  
-**kurse** 
+**kursi**
 – une chaise, des chaises, la chaise or les chaises  
-**suy** 
+**sui**
 – de l'eau
 
 On connaît souvent le nombre et le caractère défini car ils ont été spécifiés auparavant dans la discussion ou parce qu'ils font partie d'un savoir universel.
@@ -23,15 +23,15 @@ Ainsi, normalement le mot **sol** fait référence au _soleil_ et **lun** fait r
 Les substantifs ne sont pas affectés par le nombre, c'est-à-dire que les noms conservent la même forme au singulier et au pluriel.
 Le nombre peut être mentionné avec des numéraux au besoin.
 
-**kurse** 
+**kursi**
 – une chaise, des chaises  
-**un kurse** 
+**un kursi**
 – une chaise
-**dul kurse** 
+**du kursi**
 – deux chaises  
-**tin kurse** 
+**tri kursi**
 – trois chaises  
-**pol kurse** 
+**ba kursi**
 – beaucoup de chaises; des chaises
 
 

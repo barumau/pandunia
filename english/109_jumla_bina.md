@@ -29,7 +29,7 @@ When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
 
 **Sara si bon.**
 – Sara is good.  
-**petre si dai.**
+**seku si dai.**
 – Stones are big.  
 **meza si nove.**
 – The table is new.
@@ -63,9 +63,9 @@ The same rule applies also for two adjectives, or a verb and an adjective.
 
 **jovan si sundar.**
 – Young is beautiful.  
-**nove no puran.**
+**nove no lau.**
 – New is not old.  
-**chante si bon.**
+**chanta si bon.**
 – Singing is good.
 
 
@@ -347,21 +347,25 @@ The demonstrative **go** points to the following phrase, and **ni** points to th
 **pan jen be egal sana, ni fate si klar.**
 – All people are created equal; that fact is clear.
 
+--------------------------------------------------------------------------------
 
 ## Combining phrases with conjunctions
 
 ### Basic conjunctions
 
-1. **e** and (connects two similar words or phrases)
-2. **o** or (connects two alternative words or phrases)
-3. **a** - but (introduces a word or phrase that contrasts with or
+1. **e**
+   and (connects two similar words or phrases)
+2. **o**
+   or (connects two alternative words or phrases)
+3. **a**
+   but (introduces a word or phrase that contrasts with or
    contradicts the preceding word or phrase)
 
-**mi suku mau e vaf.**
+**mi suka mau e vaf.**
 – I like cats and dogs.  
-**mi suku mau o vaf.**
+**mi suka mau o vaf.**
 – I like cats or dogs.  
-**mi suku mau a no vaf.**
+**mi suka mau a no vaf.**
 – I like cats but not dogs.
 
 --------------------------------------------------------------------------------
@@ -408,11 +412,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vide no tu a yemon.**
 – I see, not you, but them.
 
-**mi ching tu safa kamar.**
+**mi ching tu safa la kamar.**
 – I ask you to clean the room.  
-**mi no ching tu safa kamar.**
+**mi no ching tu safa la kamar.**
 – I do NOT ask you to clean the room.  
-**mi ching tu no safa kamar.**
+**mi ching tu no safa la kamar.**
 – I ask you NOT to clean the room.
 
 
@@ -429,14 +433,14 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**roza rang di labi**
+**roze rang di labi**
 – rose-colored lips  
 **sama rang di oko**
 – sky-colored eyes
 
 Or in the opposite order:
 
-**labi da roza rang**
+**labi da roze rang**
 – lips of the rose-color  
 **oko da sama rang**
 – eyes of the sky-color
@@ -445,7 +449,7 @@ The particles help in creating measure words too.
  
 **un sake di patate**
 – one sack of potatoes  
-**dul sake di patate**
+**du sake di patate**
 – two sacks of potatoes  
 **mas sake di patate**
 – more sacks of potatoes
@@ -463,9 +467,9 @@ So a modifier phrase with and without **da** can mean a different thing.
 Verbs are turned into modifiers by placing **da** or **di** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**shutu da grafi pente**
+**suta da grafi pente**
 – the art of picture-painting (the art of painting pictures)  
-**alo di helpe di suka**
+**alo su mede su suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession

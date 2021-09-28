@@ -110,7 +110,7 @@ Adjectives are before the noun that they modify.
 
 **un nove idea**
 – new idea  
-**le bon buke**
+**la bon buke**
 – the good book(s)
 
 Adjectives are compared with
@@ -123,9 +123,9 @@ The point of comparison is introduced with **ka**.
 
 Adverbs are usually before the word that they modify.
 
-**mi muche ama tu.**
+**mi poli ama tu.**
 – I much love you.  
-**mi ama tu, muche.**
+**mi ama tu, poli.**
 – I love you much.
 
 
@@ -153,6 +153,6 @@ The normal word order is used in questions.
 – Who do you love?  
 **ke man ya ama tu?**
 – Which man loves you?  
-**tu ama mi ke muche?**
+**tu ama mi ke poli?**
 – How much do you love me?
 

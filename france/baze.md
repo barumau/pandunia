@@ -9,7 +9,6 @@ Cette page se veut être un guide de base décrivant les traits principaux du Pa
 |----------|-----|
 | **a**  | a |
 | **b**  | b |
-| **c**  | ts (s) |
 | **ch** | tʃ |
 | **d**  | d |
 | **e**  | e |
@@ -38,13 +37,13 @@ Les voyelles **a, e, i, o, u** sont prononcées comme dans "bas pré si pot cou"
 
 Toutes les autres consonnes se prononcent comme en français à l'exception de :
 
-- **c** qui se prononce  TCH comme dans _match_
-- **x** qui se prononce CH comme dans _machine_
+- **ch** qui se prononce  TCH comme dans _match_
+- **sh** qui se prononce CH comme dans _machine_
 - **g** qui a toujours un son dur, comme dans _garçon_
 - **h** qui se prononce toujours, comme en anglais ou en allemand
 - **j** qui se prononce DJ, ou DG comme dans _badge_
 - **s** qui a toujours un son sourd, comme dans _saucisse_ (jamais Z)
-- **w** qui se prononce OU comme dans _oui_
+- **v** qui se prononce OU comme dans _oui_
 - **y** qui se prononce ILL comme dans _paille_ ou _abeille_
 
 
@@ -67,20 +66,20 @@ Le nombre, le genre ou le caractère défini sont marqués par des mots complém
 – un chat, une chatte, le chat, la chatte, les chats, les chattes, des chats, des chattes  
 **un mau**
 – un chat, une chatte  
-**multi mau**
+**poli mau**
 – beaucoup de chats, beaucoup de chattes  
-**yi mau**
+**ni mau**
 – ce chat-ci, cette chatte-ci, ces chats-ci, ces chattes-ci
-**wi mau**
+**go mau**
 – ce chat-là, cette chatte-là, ces chats-ci, ces chattes-là
 
 ### Pronoms personnels
 
 | Personne | Singulier                         | Pluriel                  |
 |--------|----------------------------------|-------------------------|
-| Première personne | **mi** (_je, me, moi_) | **mimen** (_nous_) |
-| Deuxième personne | **tu** (_tu, te, toi ; vous [politesse]_) | **tumen** (_vous_) |
-| Troisième personne | **ya** (_il ou elle, le, lui_) | **yamen** (_ils ou elles, les, leur_) |
+| Première personne | **mi** (_je, me, moi_) | **mimon** (_nous_) |
+| Deuxième personne | **tu** (_tu, te, toi ; vous [politesse]_) | **tumon** (_vous_) |
+| Troisième personne | **ye** (_il ou elle, le, lui_) | **yemon** (_ils ou elles, les, leur_) |
 
 ### Verbes
 
@@ -98,12 +97,12 @@ Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxili
 **me pas ama tu.**
 – Je t'ai aimé. / Je t'aimais.
 (**pas** marque le passé révolu.)  
-**mi leu ama tu.**
+**mi le ama tu.**
 – Je l'ai (déjà) fait.
-(**leu** par son sens "déjà", marque l'aspect parfait)  
-**mi vil ama tu.**
+(**le** par son sens "déjà", marque l'aspect parfait)  
+**mi sha ama tu.**
 – Je t'aimerai.
-(**vil** marque le futur)
+(**sha** marque le futur)
 
 L'ordre des mots est inversé dans les phrases au passif.
 Les verbes au passif prennent la particule **be**.
@@ -120,7 +119,7 @@ Les adjectifs se placent généralement devant le nom qu'ils modifient.
 
 **un nove idea**
 – une nouvelle idée  
-**le bon buke**
+**la bon buke**
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots
@@ -128,15 +127,14 @@ On compare les adjectifs grâce aux mots
 **min** (_moins_), **minim** (_le moins_) and **sam** (_aussi, tout autant_).
 Le point de comparison est introduit par **ko** (_que_).
 
-**i idea si max nove ka u idea.**
+**ni idea si mas nove ka go idea.**
 – Cette idée-ci est plus novatrice que cette idée-là.
 
-Les adverbes se terminent en **-o**.
-Ils se placent généralement avant le nom qu'ils modifient, mais pas toujours.
+Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
-**mi muche ama tu.**
+**mi poli ama tu.**
 – Je beaucoup t'aime .  
-**mi ama tu, muche.**
+**mi ama tu, poli.**
 – Je t'aime beaucoup.
 
 
@@ -144,13 +142,13 @@ Ils se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
 Le mot **no** met le mot qui suit à la forme négative.
 
-**no mi a ya vol kapa ya.**
+**no mi a ye vol kapa ye.**
 – Pas moi mais lui [qui] veut le prendre.
-**mi no vol kapa ya.**
+**mi no vol kapa ye.**
 – Je ne veux pas le prendre.  
-**mi vol no kapa ya.**
+**mi vol no kapa ye.**
 – Je veux _ne pas le prendre_.  
-**mi vol kapa no ya a va.**
+**mi vol kapa no ye a va.**
 – Je veux prendre _pas_ ceci_ mais cela.
 
 
@@ -163,10 +161,10 @@ C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 
 **tu ama ke?**
 – Tu aimes qui ?  
-**ke man ye ai tu?**
+**ke man ya ama tu?**
 – Quel homme aimes-tu ?  
-**tu ama mi ke muche?**
+**tu ama mi ke poli?**
 – Tu m'aimes combien ?
 
 ---
-Mis à jour le 3 août 2021.
+Mis à jour le 28 septempre 2021.
