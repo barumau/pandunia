@@ -15,7 +15,8 @@ Pronouns can substitute nouns and noun phrases.
 
 All pronouns can be used for all genders.
 
-The possessive pronouns consists of the personal pronoun and the possessive particle **su**.
+The possessive pronouns consists of the personal pronoun and the possessive particle
+**su**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
@@ -49,7 +50,7 @@ The expression **se kon** is used as the reciprocal pronoun.
 **se kon**
 – each other, one another
 
-**mi si tu vide se kon.**
+**mi e tu vide se kon.**
 – Me and you see each other.  
 **mimon vide se kon.**
 – We see each other.
@@ -84,7 +85,7 @@ points to things that are far from the speaker.
 – This (thing) is good.  
 **go she si dus.**
 – That (thing) is bad.  
-**mi vol ni buke, no go.**
+**mi vol ni buku, no go.**
 – I want this book, not that.
 
 The basic proximal and distal pronouns are used for introducing a new object.
@@ -130,7 +131,7 @@ It does the job of English words _who_ and _what_.
 **ke?**
 – Who or what?  
 
-The adjectival interrogative pronoun is **ke**
+The adjectival interrogative pronoun is also **ke**
 and it means the same as English _which_.
 
 **ke she?**

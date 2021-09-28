@@ -110,15 +110,15 @@ Adjectives are before the noun that they modify.
 
 **un nove idea**
 – new idea  
-**la bon buke**
+**la bon buku**
 – the good book(s)
 
 Adjectives are compared with
-**max** (_more, -er_), **maxim** (_most, -est_),
+**mas** (_more, -er_), **masim** (_most, -est_),
 **min** (_less_), **minim** (_least_) and **sam** (_equally, as_).
 The point of comparison is introduced with **ka**.
 
-**mi su granpa e max lau ka tu su pa.**
+**mi su chin pa si mas lau ka tu su pa.**
 – My grandpa is older than your father.
 
 Adverbs are usually before the word that they modify.

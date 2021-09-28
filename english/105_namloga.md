@@ -16,7 +16,7 @@ So the same form is used in singular and plural, in definite and indefinite, etc
 – water
 
 Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
-For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and moon.
+For example, normally the word **sol** refers to _the sun_ and **luna** refers to _the moon_, our only sun and moon.
 
 
 ### Indicating number
@@ -58,7 +58,7 @@ An easy way to say that there are many is to repeat the noun two times.
 
 **seku seku**
 – stones and stones, a variety of stones  
-**buke buke**
+**buku buku**
 – books and books, a variety of books
 
 

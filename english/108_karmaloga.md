@@ -114,7 +114,7 @@ It brings attention to the consequences of a past action to the current situatio
 – I don't drink alcohol anymore.  
 **mi no _le_ gul yo alkohol.**
 – I haven't drank alcohol.  
-**mi _le_ don la buke do yemon.**
+**mi _le_ don la buku do yemon.**
 – I have given the book to them. (They still have it and I don't.)  
 **yemon no _le_ don ye re do mi.**
 – They haven't given it back to me.  
@@ -126,7 +126,7 @@ It brings attention to the consequences of a past action to the current situatio
 indicates that a situation is over
 and it is relevant only as an experience.
 
-**mi pas don la buke do yemon.**
+**mi pas don la buku do yemon.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas visite la France.**
 – I have visited France.  

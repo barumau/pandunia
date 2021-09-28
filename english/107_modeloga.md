@@ -68,7 +68,7 @@ is used also when a modifier modifies another one.
 
 **un _surpris di_ bon buku**
 – a _surprisingly_ good book  
-**ba _forte di_ ai ja jen**
+**ba _lika di_ ama ja jen**
 – _strongly_ loving people
 
 
