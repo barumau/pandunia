@@ -663,7 +663,7 @@ gun raja - généralissime
 guta - genou  
 guta kaske oste - rotule  
 ####H - H  
-ha - avec (avoir)  
+ha - avoir  
 Habasha - Abyssinie  
 hafen yum - hafnium  
 haha - rire  
@@ -736,7 +736,7 @@ huru - libre
 ####I - I  
 iha uma - mule  
 in bum - implosion  
-in gi - conteneur  
+in ten gi - conteneur  
 in klus - y compris  
 in klus di - inclusif  
 in migra - immigrer  
@@ -756,7 +756,6 @@ jaga - éveillé
 jain din - jaïnisme  
 jama karde - carte à collectionner  
 jamul - prune de Java  
-jan - personne  
 janela - fenêtre  
 jangal - forêt (jungle)  
 jara - jarre (carafe, cruche)  
@@ -767,6 +766,7 @@ jeka - prêter (empruntre)
 jeka deku - empruntre  
 jeka dona - prêter  
 jela kan - prison (geôle)  
+jen - personne  
 jen buda din - zen  
 jene basha - langue maternelle  
 jene logi - généalogie  
@@ -779,14 +779,14 @@ jini - esprit (génie)
 jinse - sexe  
 jinse logi - études de genre  
 jirafa - giraffe  
-jiu - vie  
-jiu - vivant  
+jiva - vie  
+jiva - vivant  
 jong - centre  
 jong fon - voyelle  
 jong shula kan - école secondaire  
 Jongoku - Chine  
-joven - jeune (juvénile)  
-joven moka - pousse  
+jovan - jeune (juvénile)  
+jovan moka - pousse  
 jude ja - juje  
 jul - joule (J)  
 Jupiter - Jupiter  
@@ -1280,7 +1280,7 @@ pau gi - pistolet
 pauza - pause  
 pede - pet (vesse)  
 pei gong - profession (métier)  
-pei gong jiu - carrière  
+pei gong jiva - carrière  
 pelpel - papillon  
 pende kardon - chardon penché  
 pende sor - cadenas  
@@ -1641,10 +1641,11 @@ ura - hourra
 Uran - Uranus  
 uran yum - uranium  
 ####V - V  
-va - ouah  
+va - avec  
 vaf - chien  
 vagina - vagine  
 vagina flame - vaginite  
+vah - ouah  
 vai - extérieur  
 vai klus di - exclusif  
 vai planete - exoplanète  

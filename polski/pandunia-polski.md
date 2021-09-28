@@ -175,7 +175,6 @@ audi - usłyszeć, słyszeć; słuchać
 auro - złoto  
 Australia - Australia  
 auto - jaźń (tożsamość)  
-auto di - osobisty, intymny, prywatny  
 auto krati - monarchia  
 auto loga - monolog  
 auto move - samobieżny  
@@ -1432,7 +1431,7 @@ imperi sim ja - imperialista
 in - wnętrze (środek)  
 in bum - implozja  
 in di - wewnętrzny  
-in ha - zawierać  
+in ten - zawierać  
 in jene di - wewnętrzny  
 in liste - spis treści (tabela zawartości)  
 in mise - importować (zaimportować)  
@@ -1479,7 +1478,6 @@ jama di - zbiorowy, zbiorczy
 Jamaika - Jamajka  
 jampe - skoczyć, skakać  
 jamul - czapetka kuminowa  
-jan - osoba  
 janela - okno  
 jang - walka, wojna  
 jang di - militarny, wojskowy, wojenny  
@@ -1502,7 +1500,9 @@ jela ja - strażnik więzienny
 jela kan - więzienie, zakład karny  
 jele - żel, galareta  
 jelosi - zazdrosny  
+jen - osoba  
 jen - medytować; dumać, rozmyślać, zastanawiać się  
+jen di - osobisty, intymny, prywatny  
 jene - narodziny  
 jene basha - język ojczysty (język rodzimy)  
 jene den - urodziny  
@@ -1523,8 +1523,8 @@ jin mun - wejście
 jinse - płeć  
 jinse di - płciowy  
 jirafa - żyrafa  
-jiu - życie  
-jiu - żyć (żywy, żyjący)  
+jiva - życie  
+jiva - żyć (żywy, żyjący)  
 joke - żart  
 joke ja - żartowniś, dowcipniś  
 jong - środkowy, centralny  
@@ -1533,12 +1533,12 @@ Jong Afrika Komun krati - Republika Środkowoafrykańska
 jong di - centralny (środkowy)  
 jong fon - samogłoska  
 Jongoku - Chiny  
-joven - młody  
-joven fem - dziewczyna  
-joven jan - młodzież, młoda osoba  
-joven man - chłopak  
-joven moka - młode drzewo  
-joven ta - młodość  
+jovan - młody  
+jovan fem - dziewczyna  
+jovan jan - młodzież, młoda osoba  
+jovan man - chłopak  
+jovan moka - młode drzewo  
+jovan ta - młodość  
 judau - judo  
 jude - wyrok  
 jude ja - sędzia  
@@ -3365,10 +3365,10 @@ uze - użyć, używać, zatrudnić, stosować
 uze ja - użytkownik  
 uze ja nam - nazwa użytkownika  
 ####V - V  
-va - wow!, łoł!, jej!  
 vaf - pies  
 vagina - wagina  
 vagina flame - zapalenie pochwy  
+vah - wow!, łoł!, jej!  
 vai - zęwnętrzny  
 vai desha - zagranica  
 vai desha di - zagraniczny  

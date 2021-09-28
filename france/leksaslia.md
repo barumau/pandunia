@@ -287,6 +287,7 @@
 |**gul**|goule|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
 |**gun**|armée|zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|
 |**guta**|genou|swa:goti, hin:घुटना (ghuṭnā), guj:ઘૂંટણ (ghū̃ṭaṇ), pnb:ਗੋਡਾ (goḍā), mar:गुडघा (guḍghā)|
+|**ha**|avoir|eng:have, fra:avoir, spa:hay|
 |**hafen yum**|hafnium|eng:hafnium, fra:hafnium, spa:hafnio, por:háfnio, rus:гафний, zho:铪 (hā), jpn:ハフニウム, kor:하프늄, vie:hafini, hin:हाफ्नियम, ben:হাফনিয়াম, may:hafnium, swa:hafni, ara: هفنيوم|
 |**haha**|rire|eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (hāhā), jpn:わはは (wa-ha-ha), ara:(hahah)|
 |**hai**|mer|zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|
@@ -333,7 +334,6 @@
 |**jaga**|éveillé|hin:जागना (jāgnā), ben:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), mar:जागणे (j̈āgṇe), guj:જાગવું (jāgvũ), may:jaga|
 |**jain din**|jaïnisme|hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|
 |**jamul**|prune de Java|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|
-|**jan**|personne|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
 |**janela**|fenêtre|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**jangal**|forêt (jungle)|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
 |**jara**|jarre (carafe, cruche)|ara: جَرَة‎ (jara), eng:jar, fra:jarre, spa:por:jarra|
@@ -341,13 +341,14 @@
 |**javabu**|réponse|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|
 |**jeka deku**|empruntre|zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|
 |**jeka**|prêter (empruntre)|zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check|
+|**jen**|personne|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|
 |**jihade**|lutte|ara: جهاد (jihād), tur:cihat, swa:jihadi + eng:fra:por:may:jihad, spa:yihad, rus:джихад (džihad), jpn:ジハード (jihādo), kor:지하드 (jihadeu), hin:जिहाद (jihād)|
 |**jini**|esprit (génie)|hin:जान (jān), ben:জান (jan), tur:can + ara: جِنّ (jinn), swa:jini, rus:джинн (džinn) + eng:genie, fra:génie, spa:genio, por:gênio|
 |**jinse**|sexe|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)|
 |**jirafa**|giraffe|ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
-|**jiu**|vie|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
+|**jiva**|vie|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
 |**jong**|centre|zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|
-|**joven**|jeune (juvénile)|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
+|**jovan**|jeune (juvénile)|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
 |**jude ja**|juje|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|
 |**jus**|jus|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |**juste**|justo (exact, précis)|eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|
@@ -813,9 +814,10 @@
 |**un**|un (1)|fra:un, spa:uno, por:um,una, eng:one|
 |**ura**|hourra|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**uran yum**|uranium|eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم|
-|**va**|ouah|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
+|**va**|avec|ara: و‎ (wa), hin:व (va), fas:urd: و‎ (va), tur:ve + yue:和 (wo4), vie:và|
 |**vaf**|chien|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagina**|vagine|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
+|**vah**|ouah|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
 |**vai**|extérieur|zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), kor:외 (oe), vie:ngoại;ngoài|
 |**vali**|vallée (oued)|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|
 |**valu**|valeur|eng:value, spa:por:valor, fra:valeur|

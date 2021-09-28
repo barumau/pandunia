@@ -739,7 +739,7 @@ guta - genuo
 guta kaske oste - patelo  
 Guyana - Gujano  
 ####H - H  
-ha - havi (teni)  
+ha - havi  
 habar - novaĵoj  
 habar gazeta - gazeto  
 hafen yum - hafnio  
@@ -868,7 +868,6 @@ jake - jako
 jama di - kolekta  
 Jamaika - Jamajko  
 jampe - salti  
-jan - persono  
 janela - fenestro  
 janela frem - fenestrokadro  
 jang - milito (batalo)  
@@ -880,6 +879,7 @@ javabu - respondo
 jebe - poŝo  
 jela kan - malliberejo  
 jele - ĝelo  
+jen - persono  
 jene - nasko  
 jene basha - hejmlingvo  
 jene den - naskiĝtago  
@@ -889,17 +889,17 @@ jiang ja - metiisto
 jinse - sekso  
 jinse di - seksa  
 jirafa - ĝirafo  
-jiu - vivo  
-jiu - viva  
+jiva - vivo  
+jiva - viva  
 jong - centro  
 jong fon - vokalo  
 jong shula kan - gimnazio  
 Jongoku - Ĉinio  
-joven - juna  
-joven fem - knabino  
-joven jan - junulo  
-joven man - knabo  
-joven ta - juneco  
+jovan - juna  
+jovan fem - knabino  
+jovan jan - junulo  
+jovan man - knabo  
+jovan ta - juneco  
 judau - ĵudo  
 jude - juĝo  
 jude ja - juĝisto  
@@ -1822,10 +1822,11 @@ unta liga - uniono
 uran yum - uranio  
 uze - uzi  
 ####V - V  
-va - ŭaŭ!  
+va - kun  
 vaf - hundo  
 vagina - vagino  
 vagina flame - vaginito  
+vah - ŭaŭ!  
 vai - ekstero  
 vai desha - fremda lando  
 vai di - ekstera  

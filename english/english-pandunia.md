@@ -459,7 +459,7 @@ box (container) - kasa
 boxer - bokse ja  
 boxer shorts (boxers) - bokse pante  
 boxing - bokse  
-boy - joven man  
+boy - jovan man  
 boycott - boikote  
 Brahma - Brahma  
 brain - nau  
@@ -583,7 +583,7 @@ carbohydrate (saccharide) - karbon sui
 carbon (coal) - karbon  
 carbon dioxide - karbon duokside  
 card - karte  
-career (professional life) - pei gong jiu  
+career (professional life) - pei gong jiva  
 Caribbean - Karibe  
 carpenter - moka jiang ja  
 carpet (rug) - tal tela  
@@ -808,8 +808,8 @@ consitution - baze kanun
 consonant - kinar fon  
 conspiracy (plot) - sir plan  
 consume (eat or drink) - yam  
-contain (include) - in ha  
-container - in gi  
+contain (include) - in ten  
+container - in ten gi  
 content - in she  
 continue (go on, keep on, carry on, proceed, still, yet) - zoku  
 continue (resume) - re zoku  
@@ -1501,7 +1501,7 @@ gift - dona she
 ginger - zinji  
 ginseng - jenshen  
 giraffe - jirafa  
-girl - joven fem  
+girl - jovan fem  
 give - dona  
 give birth (beget, generate, breed) - fa jene  
 give consultation - kon sel  
@@ -1627,6 +1627,7 @@ hassium - hese yum
 hat (cap) - tupi  
 hate (detest) - fa hen  
 hatred (hate, resentment, odium) - hen  
+have (there be) - ha  
 Hawaii - Havai  
 Hawaiian archipelago - Havai nesi  
 hay - gan gazo  
@@ -2024,7 +2025,7 @@ Libya - Libia
 lichen - alga fungu  
 lie (lie down) - kush  
 Liechtenstein - Lihtenstain  
-life (existence) - jiu  
+life (existence) - jiva  
 life (organic) - bio  
 light (bright) - foto di  
 light (illumination) - foto  
@@ -2058,7 +2059,7 @@ Lithuanian - lietuva basha
 litre (liter) - litre  
 little (few, not many) - shau  
 little (small; a little, somewhat) - lili  
-live (be alive, living) - jiu  
+live (be alive, living) - jiva  
 live in (reside in, inhabit) - be dom  
 livermorium - livermor yum  
 lizard - saur  
@@ -2604,7 +2605,7 @@ outward (external) - do vai
 oven (furnace) - tanur  
 overestimate -   
 overpass - supra  
-own (possess, have) - fa mal  
+own (possess) - fa mal  
 own - se su  
 owner (proprietor) - mal ja  
 oxeye daisy - baku margarite  
@@ -2724,9 +2725,9 @@ perish (ruin, waste away) - perishe
 perished (ruined, desolate, wretched, miserable) - perishe di  
 permissible (allowed, halal) - halal  
 Persian (Farsi) - farsi  
-person (individual, -ist, -er) - jan  
+person (individual, -ist, -er) - jen  
 person engaged in a profession or practice (-ic, -er) - ka  
-personal (intimate, private, custom) - auto di  
+personal (intimate, private, custom) - jen di  
 personal identification number (PIN) - sekur nomer  
 personalize (customize) - fa auto  
 perspective (point of view) - vide punte  
@@ -3189,7 +3190,7 @@ sandstone - arena petra
 sandwich - sanduiche  
 Sao Paulo - Sante Paulo  
 Sao Tome and Principe - Sante Tome e Prinsipe  
-sapling - joven moka  
+sapling - jovan moka  
 Satanism (devil worship) - shatan din  
 Satanist - shatan din ja  
 satsuma mandarin - venjou oranje  
@@ -4032,7 +4033,7 @@ wintry - leng mosim di
 wire - metal lin  
 wisdom - sofita  
 wise - sofi  
-with (there be; have) - ha  
+with (there be; have) - va  
 wolf - volfe  
 Wolof (language and people) - Volof  
 woman (adult female) - matur fem  
@@ -4051,7 +4052,7 @@ world - dunia
 world language - dunia basha  
 worm - verme  
 worship (reveration) - puja  
-wow! (gee!) - va  
+wow! (gee!) - vah  
 wrap - lifafa  
 wrapping (envelope, covering) - lifafa  
 write (text) - kitabu  
@@ -4078,11 +4079,11 @@ Yoruba (language and people) - Yoruba
 yotta- - yota  
 you (singular) - tu  
 you all - tumon  
-young (juvenile) - joven  
+young (juvenile) - jovan  
 your - tu su  
 your - tumon su  
-youth (young age) - joven ta  
-youth (young person) - joven jan  
+youth (young age) - jovan ta  
+youth (young person) - jovan jan  
 ytterbium - yuterbi yum  
 yttrium - yuter yum  
 ####Z - Z  

@@ -288,7 +288,6 @@
 |**ironi**|ironia|eng:irony, spa:ironía, por:ironia, fra:ironie, rus:иро́ния (ironija), jpn:アイロニー (aironī)|
 |**jaga**|acordado|hin:जागना (jāgnā), ben:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), mar:जागणे (j̈āgṇe), guj:જાગવું (jāgvũ), may:jaga|
 |**jamul**|jambolão (jambo)|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|
-|**jan**|pessoa|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
 |**janela**|janela|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**jangal**|selva (floresta, jângal)|eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|
 |**jara**|jarra (jarro)|ara: جَرَة‎ (jara), eng:jar, fra:jarre, spa:por:jarra|
@@ -296,13 +295,14 @@
 |**javabu**|resposta|ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|
 |**jeka deku**|pedir emprestado|zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check|
 |**jeka**|emprestar (pedir emprestado)|zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check|
+|**jen**|pessoa|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|
 |**jihade**|luta|ara: جهاد (jihād), tur:cihat, swa:jihadi + eng:fra:por:may:jihad, spa:yihad, rus:джихад (džihad), jpn:ジハード (jihādo), kor:지하드 (jihadeu), hin:जिहाद (jihād)|
 |**jini**|espírito (gênio)|hin:जान (jān), ben:জান (jan), tur:can + ara: جِنّ (jinn), swa:jini, rus:джинн (džinn) + eng:genie, fra:génie, spa:genio, por:gênio|
 |**jinse**|sexo|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)|
 |**jirafa**|girafa|ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
-|**jiu**|vida|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
+|**jiva**|vida|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
 |**jong**|centro|zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|
-|**joven**|jovem|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
+|**jovan**|jovem|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
 |**jude ja**|juiz|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|
 |**jus**|suco (sumo)|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |**juste**|exato (preciso)|eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|
@@ -736,9 +736,9 @@
 |**un**|um (1)|fra:un, spa:uno, por:um,una, eng:one|
 |**ura**|urra|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**uran yum**|urânio|eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم|
-|**va**|uau|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
 |**vaf**|cão (cachorro)|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagina**|vagina|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
+|**vah**|uau|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
 |**vai**|exterior|zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), kor:외 (oe), vie:ngoại;ngoài|
 |**vali**|vale (uadi)|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|
 |**valu**|valor (valia)|eng:value, spa:por:valor, fra:valeur|

@@ -168,12 +168,13 @@ automne - pade mosim
 autre - alo  
 autrement - alo  
 avant - chen  
-avec (avoir) - ha  
+avec - va  
 aventure - ventur  
 aventurier - ventur ja  
 avis (opinion) - rai  
 avocat - avakate  
 avoine - ave  
+avoir - ha  
 axe - akse  
 Azerbaijan - Azerbaijan  
 azote - nitre  
@@ -334,7 +335,7 @@ carbone - karbon
 cardon - kardon karchof  
 carotte - karote  
 carreau (tuile) - tail  
-carrière - pei gong jiu  
+carrière - pei gong jiva  
 carte (graphique) - metre grafi  
 carte (plan) - topo metre grafi  
 carte - karte  
@@ -433,7 +434,7 @@ considérer - hem
 construire - fa bina  
 consultant (conseiller) - kon sel ja  
 conte de fées - pari kata  
-conteneur - in gi  
+conteneur - in ten gi  
 continu (analogique) - zoku di  
 continuer (poursuivre, encore) - zoku  
 contract (traité) - trati  
@@ -823,7 +824,7 @@ je (me) - mi
 jeu de dames - dama gem  
 jeu de société - bano gem  
 jeudi - var nelu  
-jeune (juvénile) - joven  
+jeune (juvénile) - jovan  
 joug - yogo  
 joule (J) - jul  
 jour - dia  
@@ -1131,7 +1132,7 @@ orthogonal - orto gona di
 osmium - osmi yum  
 otite - ore flame  
 ou - o  
-ouah - va  
+ouah - vah  
 oublier - an memo  
 oubliette (cul de basse-fosse) - geo niche jela  
 oui - ya  
@@ -1196,7 +1197,7 @@ pere (papa) - pa
 perfectionner (parfaire) - fa pul bon  
 perplexe (désorienté) - ruhu mishe di  
 perroquet - papagai  
-personne - jan  
+personne - jen  
 pet (vesse) - pede  
 petit - lili  
 peu - shau  
@@ -1282,7 +1283,7 @@ poudre à canon - barude
 Poulpe (pieuvre) - ohtopus  
 pourri - pute  
 pourrir (se décomposer) - be pute  
-pousse - joven moka  
+pousse - jovan moka  
 pouvoir (possible, capacité, peut-être) - bil  
 praséodyme - prazedim yum  
 presse-papier - gata glu bano  
@@ -1643,7 +1644,7 @@ veuve - vidou
 viande - nama  
 vice-roi - vise raja  
 vide - hali  
-vie - jiu  
+vie - jiva  
 vierge - virje  
 vieux (ancien) - chen zaman di  
 vieux (âgé, ancien) - lau  
@@ -1658,7 +1659,7 @@ visage - muka
 viser - fa dika  
 Vishnou - Vishnu  
 vite (rapide) - rapide  
-vivant - jiu  
+vivant - jiva  
 vivre (habiter) - be dom  
 vocabulaire (lexique) - loga jama  
 voile - hijabu  

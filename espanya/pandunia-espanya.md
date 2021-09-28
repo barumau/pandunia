@@ -179,7 +179,6 @@ auro - oro
 Australia - Australia  
 Austronesi - Austronesia  
 auto - mismo (yo)  
-auto di - personal (privado, a medida)  
 auto krati - autocratia (monarquía)  
 auto loga - monólogo  
 auto move - automotor (automotriz)  
@@ -1334,7 +1333,7 @@ guta - rodilla
 guta kaske oste - rótula  
 Guyana - Guyana  
 ####H - H  
-ha - con (tener)  
+ha - tener  
 habar - noticias  
 habar gazeta - periódico (diario)  
 habasha - abisinio  
@@ -1502,8 +1501,8 @@ imperi sim ja - imperialista
 in - interior  
 in bum - implosión  
 in di - interior (interno)  
-in gi - contenedor  
-in ha - contener  
+in ten - contener  
+in ten gi - contenedor  
 in jene di - innato (endógeno)  
 in klus - incluido  
 in klus di - inclusivo  
@@ -1553,7 +1552,6 @@ jama di - colectivo
 jama karde - cromo  
 Jamaika - Jamaica  
 jampe - saltar (brincar)  
-jan - persona (ista, -ador)  
 janela - ventana  
 jang - pelea (guerra, batalla)  
 jang di - macrial (militar)  
@@ -1577,8 +1575,10 @@ jela jan - prisionero
 jela kan - cárcel  
 jele - gel (jalea, gelatina)  
 jelosi - celoso (envidioso)  
+jen - persona (ista, -ador)  
 jen - meditar (reflexionar)  
 jen buda din - budismo zen  
+jen di - personal (privado, a medida)  
 jene - nacimiento (origen)  
 jene basha - lengua materna  
 jene den - cumpleaños  
@@ -1601,8 +1601,8 @@ jin mun - entrada
 jini - espíritu (genio)  
 jinse - sexo (género)  
 jirafa - jirafa  
-jiu - vida  
-jiu - vivo (lleno de vida)  
+jiva - vida  
+jiva - vivo (lleno de vida)  
 joke - broma (chiste)  
 joke ja - bromista (chistoso)  
 jong - centro  
@@ -1612,12 +1612,12 @@ jong di - central
 jong fon - vocal  
 jong shula kan - escuela secundaria  
 Jongoku - China  
-joven - joven  
-joven fem - niña  
-joven jan - joven  
-joven man - niño  
-joven moka - pimpollo  
-joven ta - juventud  
+jovan - joven  
+jovan fem - niña  
+jovan jan - joven  
+jovan man - niño  
+jovan moka - pimpollo  
+jovan ta - juventud  
 judau - yudo  
 jude - fallo (juicio, criterio)  
 jude ja - juez (árbitro, réferi)  
@@ -2671,7 +2671,7 @@ pede - pedo
 pei - pago  
 pei gong - profesión (ocupación)  
 pei gong di - profesional (de carrera)  
-pei gong jiu - carrera  
+pei gong jiva - carrera  
 pelmen - empanada (pelmeni)  
 pelpel - mariposa (palomilla)  
 pende - colgar  
@@ -3513,10 +3513,11 @@ uze bil di - utilizable (disponible)
 uze ja - usuario  
 uze ja nam - nombre de usuario  
 ####V - V  
-va - guau (vaya)  
+va - con  
 vaf - perro  
 vagina - vagina  
 vagina flame - vaginitis  
+vah - guau (vaya)  
 vai - fuera (exterior)  
 vai desha - país extranjero  
 vai desha di - extranjero  

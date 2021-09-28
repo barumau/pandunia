@@ -198,7 +198,6 @@ auro - gold
 Australia - Australia  
 Austronesi - Austronesia  
 auto - self (identity)  
-auto di - personal (intimate, private, custom)  
 auto krati - autocracy (monarchy)  
 auto loga - monolog  
 auto move - self-moving (automotive, automobile)  
@@ -1007,7 +1006,7 @@ fa loka - put (place, set)
 fa lona - debate (discuss)  
 fa long - lengthen (prolong)  
 fa maf - forgive (pardon)  
-fa mal - own (possess, have)  
+fa mal - own (possess)  
 fa marche - walk (march)  
 fa marke - mark (leave a mark)  
 fa mas - increase  
@@ -1487,7 +1486,7 @@ guta - knee
 guta kaske oste - kneecap  
 Guyana - Guyana  
 ####H - H  
-ha - with (there be; have)  
+ha - have (there be)  
 habar - news  
 habar gazeta - newspaper (gazette)  
 habasha - Abyssinian  
@@ -1668,8 +1667,8 @@ imperi sim ja - imperialist
 in - inside (interior)  
 in bum - implosion  
 in di - inner (internal)  
-in gi - container  
-in ha - contain (include)  
+in ten - contain (include)  
+in ten gi - container  
 in jene di - innate (endogenous, indigenous, inborn)  
 in klus - including  
 in klus di - inclusive  
@@ -1724,7 +1723,6 @@ jama karde - trading card
 Jamaika - Jamaica  
 jampe - jump  
 jamul - jamul (jambul, rose apple)  
-jan - person (individual, -ist, -er)  
 janela - window  
 janela frem - window frame  
 jang - fight (war, battle, combat)  
@@ -1749,8 +1747,10 @@ jela jan - prisoner
 jela kan - prison (jail)  
 jele - gel (jelly)  
 jelosi - jealous  
+jen - person (individual, -ist, -er)  
 jen - meditate (contemplate, ponder, cogitate)  
 jen buda din - Zen Buddhism  
+jen di - personal (intimate, private, custom)  
 jene - birth  
 jene basha - native language (mother tongue)  
 jene den - birthday  
@@ -1777,8 +1777,8 @@ jinse - gender (sex)
 jinse di - sexual (pertaining to gender)  
 jinse logi - gender studies  
 jirafa - giraffe  
-jiu - life (existence)  
-jiu - live (be alive, living)  
+jiva - life (existence)  
+jiva - live (be alive, living)  
 jo - which (who, that)  
 joke - joke  
 joke ja - joker  
@@ -1789,12 +1789,12 @@ jong di - central (middle)
 jong fon - vowel  
 jong shula kan - secondary school  
 Jongoku - China  
-joven - young (juvenile)  
-joven fem - girl  
-joven jan - youth (young person)  
-joven man - boy  
-joven moka - sapling  
-joven ta - youth (young age)  
+jovan - young (juvenile)  
+jovan fem - girl  
+jovan jan - youth (young person)  
+jovan man - boy  
+jovan moka - sapling  
+jovan ta - youth (young age)  
 judau - judo  
 jude - judgment (sentence)  
 jude di - judicial  
@@ -2947,7 +2947,7 @@ pei - payment
 pei gong - profession (job, occupation, trade, vocation)  
 pei gong di - professional (occupational, career)  
 pei gong ja - professional (pro)  
-pei gong jiu - career (professional life)  
+pei gong jiva - career (professional life)  
 pelmen - dumpling (ravioli, pelmeni)  
 pelpel - butterfly (moth)  
 pende - hang (dangle)  
@@ -3853,10 +3853,11 @@ uze bil di - usable (available)
 uze ja - user  
 uze ja nam - username  
 ####V - V  
-va - wow! (gee!)  
+va - with (there be; have)  
 vaf - dog  
 vagina - vagina  
 vagina flame - vaginitis  
+vah - wow! (gee!)  
 vai - outside (exterior)  
 vai desha - foreign country  
 vai desha di - foreign  

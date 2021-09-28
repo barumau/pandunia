@@ -494,6 +494,7 @@
 |**guru**|guru (teacher, sage)|Hindi:गुरु (guru), Bengali:গুরু (guru), Gujarati:ગુરુ (guru), Punjabi:ਗੁਰੂ (gurū), Filipino:guro, Thai:ครู (gruu), Malay:English:Portuguese:guru, Spanish:gurú, Russian:гуру (guru), French:gourou, Korean:구루 (guru), Japanese:グル (guru)|
 |**guste**|taste (flavor)|Spanish:gusto, Portuguese:gosto, French:goût|
 |**guta**|knee|Swahili:goti, Hindi:घुटना (ghuṭnā), Gujarati:ઘૂંટણ (ghū̃ṭaṇ), Punjabi:ਗੋਡਾ (goḍā), Marathi:गुडघा (guḍghā)|
+|**ha**|have (there be)|English:have, French:avoir, Spanish:hay|
 |**habar**|news|Arabic:(xabar), Turkish:haber, Malay:kabar, Swahili:habari, Hindi:ख़बर (xabar), Bengali:খবর (khôbôr), Yoruba:làbarè|
 |**hafen yum**|hafnium|English:hafnium, French:hafnium, Spanish:hafnio, Portuguese:háfnio, Russian:гафний, Mandarin:铪 (hā), Japanese:ハフニウム, Korean:하프늄, Vietnamese:hafini, Hindi:हाफ्नियम, Bengali:হাফনিয়াম, Malay:hafnium, Swahili:hafni, Arabic: هفنيوم|
 |**hafiza**|keep (preserve, conserve, retain, spare)|Arabic:(ḥafiẓa), Persian:Urdu:(hāfiz), Turkish:muhafaza, Hindi:हाफ़िज़ (hāfīz), Swahili:hifadhi|
@@ -582,7 +583,6 @@
 |**jama**|collection (congregation, assembly)|Arabic: جَمَعَ‎ (jamaʿa), Swahili:jamii, Turkish:camia, Persian: جمع (jam’), Hausa:jam'iyya + Hindi:जमात (jamāt)|
 |**jampe**|jump|English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jamul**|jamul (jambul, rose apple)|Hindi:जामुन (jāmun), English:jambul, Portuguese:jambolão, Arabic:جَمُّون (jammūn), Swahili:zambarau|
-|**jan**|person (individual, -ist, -er)|Mandarin:人 (rén), wuu人 (zén), Japanese:人 (jin) + Hindi:जन (jan), Bengali:-জন (-jôn), Malay:-jana, Thai:ชน (chon), Khmer:ជន (jon) + French:gens, Portuguese:gente|
 |**janela**|window|Portuguese:janela, Bengali:জানালা (janala), Malay:jendela + Tamil:சன்னல் (sannal), nya:zenera, Kongo:nêla|
 |**jang suta**|martial art|Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art|
 |**jang**|fight (war, battle, combat)|Mandarin:爭 (zhēng), Cantonese:爭 (zang1), Vietnamese:tranh, Korean:전쟁 (jeonjaeng) + Persian:Urdu:(jang), Hindi:जंग (jang), Turkish:ceng|
@@ -598,6 +598,7 @@
 |**jele**|gel (jelly)|English:gel, French:gelée, Russian:желе (žele), Turkish:jel, Hindi:जेल (jel), Korean:젤 (jel), Mandarin:啫哩 (zhělī)|
 |**jelosi**|jealous|English:jealous, Spanish:celoso, French:jaloux|
 |**jen**|meditate (contemplate, ponder, cogitate)|Hindi:ध्यान (dhyān), Bengali:ধ্যান (dhyān), Japanese:禅 (zen), English:French:Portuguese:zen, Russian:дзэн (dzen), Mandarin:禅 (chán), Korean:선 (seon), Vietnamese:thiền, Burmese:ဈာန် (jhan)|
+|**jen**|person (individual, -ist, -er)|Mandarin:人 (rén), wuu人 (zén), Japanese:人 (jin) + French:gens, Spanish:Portuguese:gente + Hindi:जन (jan), Bengali:-জন (-jôn), Malay:-jana, Thai:ชน (chon), Khmer:ជន (jon)|
 |**jene**|birth|Hindi:जन्म (janma), Malayalam:ജനനം (jananaṃ), Greek: γέννα (génna), English:genesis, French:genèse|
 |**jenshen**|ginseng|Mandarin:人蔘 (rénshēn), Min-Chinese:人蔘 (jîn-sam), English:Spanish:Portuguese:Turkish:Malay:ginseng, Russian:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), Japanese:人参 (ninjin)|
 |**jeste**|gesture|English:gesture, Spanish:Portuguese:gesto, French:geste, Russian:жест (zhest), Turkish:jest, Persian:ژست‎ (žest)|
@@ -606,10 +607,10 @@
 |**jini**|spirit (soul, vitality, life force)|Hindi:जान (jān), Bengali:জান (jan), Turkish:can + Arabic: جِنّ (jinn), Swahili:jini, Russian:джинн (džinn) + English:genie, French:génie, Spanish:genio, Portuguese:gênio|
 |**jinse**|gender (sex)|Arabic:Urdu:(jins), Persian:(jens), Swahili:jinsi, Turkish:cins, English:gender, Portuguese:gênero, Japanese:ジェンダー (jendā)|
 |**jirafa**|giraffe|Arabic:(zarāfa), English:French:giraffe, Portuguese:girafa, Spanish:jirafa, Russian:жираф (žiraf),Malay:jerapah, Turkish:zürafa, Korean:지라프 (jirapeu), Hindi: जिराफ़ (jirāf), Bengali:জরৈফ (jôrôph)|
-|**jiu**|life (existence)|Hindi:Marathi:जीव (jīv), Bengali:জীউ (jiu), Telugu:జీవము (jīvamu), Malay:jiwa, Thai:ชีวิต  (chiwit), Burmese:ဇီဝ (jiwa), Khmer:ជីវិត (jĭvit), Russian:живой (živoy), Polish:żywy|
+|**jiva**|life (existence)|Hindi:Marathi:जीव (jīv), Bengali:জীউ (jiu), Telugu:జీవము (jīvamu), Malay:jiwa, Thai:ชีวิต  (chiwit), Burmese:ဇီဝ (jiwa), Khmer:ជីវិត (jĭvit), Russian:живой (živoy), Polish:żywy|
 |**joke**|joke|English:French:joke, Persian:جوک‎ (jok), Japanese:ジョーク (jōku) + Mandarin:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**jong**|middle (center)|Mandarin:中 (zhōng), Cantonese:中 (zung1), Korean:중 (jung), Japanese:中 (chuu-), Vietnamese:trung|
-|**joven**|young (juvenile)|Hindi:जवान (javān), Persian:Urdu:(javān), Telugu:యువ (yuva), Portuguese:jovem, Spanish:joven, Italian:giovane, English:juvenile, French:juvénile|
+|**jovan**|young (juvenile)|Hindi:जवान (javān), Persian:Urdu:(javān), Telugu:యువ (yuva), Portuguese:jovem, Spanish:joven, Italian:giovane, English:juvenile, French:juvénile|
 |**jude ja**|judge (referee)|English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji + Russian:судья (sud'ya)|
 |**jumla**|sentence (phrase)|Arabic:(jumla), Turkish:cümle, Hindi:जुमला (jumlā), Mandarin:句 (jù)|
 |**jung**|species|Mandarin:種 (zhǒng), Cantonese:種 (zung2), Wu-Chinese:種 (tson2), Japanese:種 (shu), Korean:종 (jong), Vietnamese:chủng|
@@ -1488,9 +1489,10 @@
 |**ura**|cheer (hurrah, hooray)|Russian:ура (ura), Italian:urrà, deu:Spanish:hurra, French:hourra, English:hurrah, Malay:hore, Persian:(hurâ)|
 |**uran yum**|uranium|English:uranium, French:uranium, Spanish:uranio, Portuguese:urânio, Russian:уран, Japanese:ウラン, Korean:우라늄, Vietnamese:urani (uran), Hindi:युरेनियम, Bengali:ইউরেনিয়াম, Malay:uranium, Swahili:urani, Arabic: يورانيوم|
 |**uze**|use (employ, apply)|English:use, French:user, Spanish:Portuguese:usar, Polish:używać|
-|**va**|wow! (gee!)|English:wow, French:ouah, Mandarin:哇 (wā), Japanese:わあ (wā), Korean:와 (wa), Hindi:वाह (vāh), Malay:wah|
+|**va**|with (there be; have)|Arabic: و‎ (wa), Hindi:व (va), Persian:Urdu: و‎ (va), Turkish:ve + Cantonese:和 (wo4), Vietnamese:và|
 |**vaf**|dog|English:woof, French:ouaf, Russian:гав (gav), Turkish:hav, Mandarin:汪 (wāng), Japanese:ワン (wan)|
 |**vagina**|vagina|English:French:vagina, Portuguese:Spanish:vagina, Russian:вагина (vagina), Japanese:ワギナ (wagina), Korean:바기나 (bagina), Turkish:vajina, Malay:vagina|
+|**vah**|wow! (gee!)|English:wow, French:ouah, Mandarin:哇 (wā), Japanese:わあ (wā), Korean:와 (wa), Hindi:वाह (vāh), Malay:wah|
 |**vai**|outside (exterior)|Mandarin:外 (wài), Cantonese:外 (ngoi6), Japanese:外 (gai), Korean:외 (oe), Vietnamese:ngoại;ngoài|
 |**vakil**|represent|Arabic:وكيل‎ (wakīl), Swahili:wakili, Persian:وکیل‎ (vakil), Hindi:वकील (vakīl), Bengali:উকিল (ukil), Turkish:vekil|
 |**vali**|valley|English:valley, French:vallée, Spanish:valle, Portuguese:vale, Arabic: وَادٍ‎ (wādin), Hindi:वादी (vādī), Malay:wadi, Turkish:vadi|

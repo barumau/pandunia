@@ -477,6 +477,7 @@
 |**guru**|maestro (gurú, sabio, profesor)|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
 |**guste**|gusto (sabor)|spa:gusto, por:gosto, fra:goût|
 |**guta**|rodilla|swa:goti, hin:घुटना (ghuṭnā), guj:ઘૂંટણ (ghū̃ṭaṇ), pnb:ਗੋਡਾ (goḍā), mar:गुडघा (guḍghā)|
+|**ha**|tener|eng:have, fra:avoir, spa:hay|
 |**habar**|noticias|ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar), ben:খবর (khôbôr), yor:làbarè|
 |**hafen yum**|hafnio|eng:hafnium, fra:hafnium, spa:hafnio, por:háfnio, rus:гафний, zho:铪 (hā), jpn:ハフニウム, kor:하프늄, vie:hafini, hin:हाफ्नियम, ben:হাফনিয়াম, may:hafnium, swa:hafni, ara: هفنيوم|
 |**hafiza**|conservar (preservar, mantener)|ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza, hin:हाफ़िज़ (hāfīz), swa:hifadhi|
@@ -562,7 +563,6 @@
 |**jake**|chaqueta|eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|
 |**jama**|colección (grupo, conjunto, montón)|ara: جَمَعَ‎ (jamaʿa), swa:jamii, tur:camia, fas: جمع (jam’), hau:jam'iyya + hin:जमात (jamāt)|
 |**jampe**|saltar (brincar)|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|**jan**|persona (ista, -ador)|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
 |**janela**|ventana|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**jang suta**|arte marcial|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |**jang**|pelea (guerra, batalla)|zho:爭 (zhēng), yue:爭 (zang1), vie:tranh, kor:전쟁 (jeonjaeng) + fas:urd:(jang), hin:जंग (jang), tur:ceng|
@@ -578,6 +578,7 @@
 |**jele**|gel (jalea, gelatina)|eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|
 |**jelosi**|celoso (envidioso)|eng:jealous, spa:celoso, fra:jaloux|
 |**jen**|meditar (reflexionar)|hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|
+|**jen**|persona (ista, -ador)|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|
 |**jene**|nacimiento (origen)|hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|
 |**jenshen**|ginseng|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
 |**jeste**|gesto|eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|
@@ -586,10 +587,10 @@
 |**jini**|espíritu (genio)|hin:जान (jān), ben:জান (jan), tur:can + ara: جِنّ (jinn), swa:jini, rus:джинн (džinn) + eng:genie, fra:génie, spa:genio, por:gênio|
 |**jinse**|sexo (género)|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)|
 |**jirafa**|jirafa|ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
-|**jiu**|vida|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
+|**jiva**|vida|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
 |**joke**|broma (chiste)|eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**jong**|centro|zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|
-|**joven**|joven|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
+|**jovan**|joven|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
 |**jude ja**|juez (árbitro, réferi)|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|
 |**jumla**|oración|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
 |**jung**|especie|zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|
@@ -1443,9 +1444,10 @@
 |**ura**|hurra|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**uran yum**|uranio|eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم|
 |**uze**|usar (aplicar)|eng:use, fra:user, spa:por:usar, pol:używać|
-|**va**|guau (vaya)|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
+|**va**|con|ara: و‎ (wa), hin:व (va), fas:urd: و‎ (va), tur:ve + yue:和 (wo4), vie:và|
 |**vaf**|perro|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagina**|vagina|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
+|**vah**|guau (vaya)|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
 |**vai**|fuera (exterior)|zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), kor:외 (oe), vie:ngoại;ngoài|
 |**vakil**|representar|ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil), tur:vekil|
 |**vali**|valle|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|

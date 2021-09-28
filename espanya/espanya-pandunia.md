@@ -591,7 +591,7 @@ carnicero - bucha ja
 carpa (toldo) - hema  
 carpeta - dokumen sanduku  
 carpintero - moka jiang ja  
-carrera - pei gong jiu  
+carrera - pei gong jiva  
 carta (mapa, tabla, gráfico) - metre grafi  
 cartografía - metre grafi suta  
 carvis (alcaravea) - karavi  
@@ -792,7 +792,7 @@ comunicar (informar) - fa kon sabe
 comunismo - kon sana sim  
 comunista - kon sana sim ja  
 comunitario - komun  
-con (tener) - ha  
+con - va  
 concentración - fa fokus  
 concentrar (enfocarse) - fokus  
 conceptual - idea di  
@@ -825,8 +825,8 @@ construir (edificar) - fa bina
 consultor - kon sel ja  
 contaminación (corrupción, porquería, suciedad) - najis  
 contar - fa nomer  
-contenedor - in gi  
-contener - in ha  
+contenedor - in ten gi  
+contener - in ten  
 contenido - in she  
 continuar (reanudar) - re zoku  
 continuo (analógico) - zoku di  
@@ -1599,7 +1599,7 @@ guapo (bien parecido) - bon vide di
 guarda (preservador, conservador) - hafiza ja  
 guarda-barros (aleta) - fan defa bano  
 Guatemala - Guatemala  
-guau (vaya) - va  
+guau (vaya) - vah  
 Guernesey - Gernezi  
 guiar - gida  
 Guinea - Konakri Ginia  
@@ -1891,8 +1891,8 @@ jirafa - jirafa
 joder (coger, copular) - choda  
 Jordania - Urdun  
 joule (J) - jul  
-joven - joven  
-joven - joven jan  
+joven - jovan  
+joven - jovan jan  
 judaísmo - yehudi din  
 judío - yehudi  
 juego - gem  
@@ -1910,7 +1910,7 @@ juntos - kon
 Jupiter - Jupiter  
 justicia - adil ta  
 justo - adil  
-juventud - joven ta  
+juventud - jovan ta  
 juzgar - fa jude  
 ####K - K  
 karaoke - karaoke  
@@ -2423,8 +2423,8 @@ niobio - niobi yum
 nitrógeno - nitre  
 Niue - Niue  
 nivel - par fase  
-niña - joven fem  
-niño - joven man  
+niña - jovan fem  
+niño - jovan man  
 niño o niña - bacha  
 no - no  
 no binario (género) - nobi  
@@ -2708,8 +2708,8 @@ permitido (admisible) - halal
 permitir (dejar) - fa halal  
 pero (sino) - a  
 perro - vaf  
-persona (ista, -ador) - jan  
-personal (privado, a medida) - auto di  
+persona (ista, -ador) - jen  
+personal (privado, a medida) - jen di  
 personalizar - fa auto  
 perspectiva (punto de vista) - vide punte  
 pertenecer (ser miembro de) - si membre  
@@ -2737,7 +2737,7 @@ pila (batería) - bateri
 pilaf (pulaw) - polau  
 piloto - pilote  
 pimienta - pipre  
-pimpollo - joven moka  
+pimpollo - jovan moka  
 pincel - pente brosha  
 pingüino - pinguin  
 pino - songi  
@@ -3401,6 +3401,7 @@ temperatura - termo
 templo - puja kan  
 tenedor - forke  
 tener (mantener, detener) - ten  
+tener - ha  
 tener gusto a - guste ka  
 tener sentido - be razon  
 teneso - tenesi yum  
@@ -3628,7 +3629,7 @@ vice- (alternativa, sustituto) - vise
 vicepresidente - vise prezidente  
 victoria - seng  
 vida (orgánico) - bio  
-vida - jiu  
+vida - jiva  
 vidriado (esmalte) - kancha daka  
 vidriar (glasear) - fa kancha dake  
 vidrio (cristal) - kancha  
@@ -3659,7 +3660,7 @@ visitar - keka
 vista (visión) - vide she  
 viudo - vidou  
 vivir (residir) - be dom  
-vivo (lleno de vida) - jiu  
+vivo (lleno de vida) - jiva  
 viñedo - putau bagi  
 vocabulario (léxico) - loga jama  
 vocal - jong fon  

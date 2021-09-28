@@ -284,7 +284,7 @@ However, unlike in English, the word order may also be left alone.
 – You are eating what?  
 **ye lai pa ke sata?**
 – When does he arrive?  
-**tumon kegu pa ke jan su dom?**
+**tumon kegu pa ke jen su dom?**
 – Whose house did you all visit?
 
 
@@ -300,40 +300,40 @@ and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**la buku, jo la jan fa kitabu, pade.**
+**la buku, jo la jen fa kitabu, pade.**
 – The book, which the person writes, falls.
 
 It is possible to leave also **jo** out.
 This structure is called _reduced relative clause_.
 
-**la buku, la jan fa kitabu, pade.**
+**la buku, la jen fa kitabu, pade.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**la jan, jo fa kitabu la buku, pade.**
+**la jen, jo fa kitabu la buku, pade.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**la kalam, na jo la jan fa kitabu la buku, pade.**
+**la kalam, na jo la jen fa kitabu la buku, pade.**
 – The pen, with _which_ the person writes the book, falls.  
-**la kalam, la jan fa kitabu la buku na, pade.**
+**la kalam, la jen fa kitabu la buku na, pade.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jan, mi vide jo fa kitabu la buku, pade.**
+**la jen, mi vide jo fa kitabu la buku, pade.**
 – The person, whom I see write the book, falls.  
-**la jan, mi vide fa kitabu la buku, pade.**
+**la jen, mi vide fa kitabu la buku, pade.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**la jan, mi fa kitabu la buku na jo su kalam, padu.**
+**la jen, mi fa kitabu la buku na jo su kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
@@ -344,7 +344,7 @@ The demonstrative **go** points to the following phrase, and **ni** points to th
 
 **go si bari, mi le no vide yemon.**
 – This is important: I haven't seen them.  
-**pan jan be egal sana, ni fate si klar.**
+**pan jen be egal sana, ni fate si klar.**
 – All people are created equal; that fact is clear.
 
 

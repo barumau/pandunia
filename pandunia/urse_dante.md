@@ -75,7 +75,7 @@ lili baru no sente la pasi ze zai.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_13.png)
 
-la dava ja ya tire la dante ha pinse gi.
+la dava ja ya tire la dante va pinse gi.
 a la dante no lai!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_14.png)
@@ -110,7 +110,7 @@ lili baru loga: "shukra, dava ja e vaf e mau e ekore!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_20.png)
 
-lili baru ya vashi ye su dante ha un dante brosha na pan un suba e sham.
+lili baru ya vashi ye su dante va un dante brosha na pan un suba e sham.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_21.png)
 

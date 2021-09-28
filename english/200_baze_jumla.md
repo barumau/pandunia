@@ -437,7 +437,7 @@ I have two children.
 **mi sabe ye.**
 I know him/her/it.
 
-**sual tu sabe vo jan?**
+**sual tu sabe go jen?**
 Do you know that person?
 
 **sual tumon sabe se kon?**
@@ -744,7 +744,7 @@ I'm going home.
 **mi mus ga ke?**
 Where should I go?
 
-**mi mus ga do ke jan?**
+**mi mus ga do ke jen?**
 To whom should I go?
 
 **haida ga!**

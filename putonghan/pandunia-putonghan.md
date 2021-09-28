@@ -571,7 +571,6 @@ iris yum - 铱
 islam din - 回教 (伊斯蘭教)  
 ####J - J  
 jamul - 閻浮樹  
-jan - 人  
 janela - 窗戶  
 janela frem - 窗框  
 jang - 戰爭 (斗争, 战斗)  
@@ -583,6 +582,7 @@ jeka - 借
 jeka deku - 借入  
 jeka dona - 借出  
 jela kan - 监狱 (监牢)  
+jen - 人  
 jen buda din - 禅宗  
 jene basha - 母语  
 jene di - 生的  
@@ -593,7 +593,7 @@ jiang ja - 工匠 (匠人)
 jinse - 性别  
 jinse logi - 性别研究  
 jirafa - 长颈鹿  
-jiu - 生命  
+jiva - 生命  
 jong - 中心  
 jong shula kan - 中学  
 Jongoku - 中国  
@@ -1343,9 +1343,10 @@ unta liga - 合并
 ura - 好哇  
 uran yum - 铀  
 ####V - V  
-va - 哇  
+va - 和  
 vaf - 狗  
 vagina - 阴道  
+vah - 哇  
 vai - 外  
 vai jan - 外人 (局外人)  
 vai planete - 系外行星  

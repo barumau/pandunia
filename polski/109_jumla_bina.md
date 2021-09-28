@@ -205,7 +205,7 @@ Partykuła **si** potwierdza, a **no** przeczy. Inaczej, **si** oznacza "być", 
 
 Wyrażenia są domyślnie twierdzące, więc słowo **si** nie jest zawsze potrzebne. Jakkolwiek, jest szczególnie poręczne w wyrażaniu stanu.
 
-**mi si jan.**
+**mi si jen.**
 – Ja jestem osobą.  
 **ye si nove meza.**
 – To jest nowy stół.
@@ -214,7 +214,7 @@ Wyrażenia są domyślnie twierdzące, więc słowo **si** nie jest zawsze potrz
 
 Takie zdania mogą być prosto zaprzeczane przez **no**.
 
-**mi no jan.**
+**mi no jen.**
 – Ja nie jestem osobą.  
 **ye no nove meza.**
 – To nie jest nowy stół.
@@ -463,11 +463,11 @@ Każde zdanie może zostać narysowane jako drzewo, gdzie centralne słowa są w
 
 Przymiotniki i liczebniki wskazują na ich główne słowo, rzeczownik:
 
-    mi vide tin jovan jan.
+    mi vide tin jovan jen.
 
        vide
       ┌─┴──┐
-     mi   jan
+     mi   jen 
            |
          jovan
            |

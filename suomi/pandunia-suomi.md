@@ -194,7 +194,6 @@ auro - kulta
 Australia - Australia  
 Austronesi - Austronesia  
 auto - itseys  
-auto di - henkilökohtainen (privaatti)  
 auto krati - yksinvaltius (autokratia, monarkia)  
 auto loga - yksinpuhelu (monologi)  
 auto move - itseliikkuva  
@@ -1468,7 +1467,7 @@ guta - polvi
 guta kaske oste - polvilumpio  
 Guyana - Guyana  
 ####H - H  
-ha - kanssa (kera, -lla)  
+ha - olla (omistaa)  
 habar - uutinen  
 habar gazeta - sanomalehti  
 habasha - abyssinialainen  
@@ -1646,8 +1645,8 @@ imperi sim ja - imperialisti
 in - sisus (sisäpuoli)  
 in bum - luhistuminen  
 in di - sisä- (sisäinen)  
-in gi - kontti  
-in ha - sisältää  
+in ten - sisältää  
+in ten gi - kontti  
 in jene di - sisäsyntyinen  
 in klus - mukaan lukien  
 in klus di - kattava  
@@ -1702,7 +1701,6 @@ jama karde - keräilykortti
 Jamaika - Jamaika  
 jampe - hypätä (hyppiä)  
 jamul - jambolaani  
-jan - henkilö  
 janela - ikkuna  
 janela frem - ikkunankehys (ikkunanpuite)  
 jang - taistelu (sota)  
@@ -1722,8 +1720,10 @@ jela ja - vanginvartija
 jela kan - vankila  
 jele - hyytelö  
 jelosi - kade (kateellinen)  
+jen - henkilö  
 jen - pohtia (meditoida)  
 jen buda din - zenbuddhalaisuus  
+jen di - henkilökohtainen (privaatti)  
 jene - synty (syntymä)  
 jene basha - äidinkieli  
 jene den - syntymäpäivä  
@@ -1747,8 +1747,8 @@ jinse - sukupuoli
 jinse di - sukupuolinen  
 jinse logi - sukupuolitutkimus  
 jirafa - kirahvi  
-jiu - elämä (olemassaolo)  
-jiu - elävä (elää)  
+jiva - elämä (olemassaolo)  
+jiva - elävä (elää)  
 jo - joka (mikä)  
 joke - vitsi  
 joke ja - vitsiniekka  
@@ -1758,11 +1758,11 @@ Jong Afrika Komun krati - Keski-Afrikan Tasavalta
 jong fon - vokaali  
 jong shula kan - yläaste ja lukio  
 Jongoku - Kiina  
-joven - nuori  
-joven fem - tyttö (nuori neito)  
-joven jan - nuorukainen  
-joven man - poika (nuori mies)  
-joven ta - nuoruus  
+jovan - nuori  
+jovan fem - tyttö (nuori neito)  
+jovan jan - nuorukainen  
+jovan man - poika (nuori mies)  
+jovan ta - nuoruus  
 judau - judo  
 jude - tuomio  
 jude di - oikeudellinen  
@@ -3544,10 +3544,11 @@ uze bil di - käytettävissä oleva
 uze ja - käyttäjä  
 uze ja nam - käyttäjänimi  
 ####V - V  
-va - oho (vau)  
+va - kanssa (kera, -lla)  
 vaf - koira  
 vagina - emätin (vagina)  
 vagina flame - emätintulehdus  
+vah - oho (vau)  
 vai - ulkopuoli  
 vai desha - ulkomaa  
 vai desha di - ulkomaalainen  

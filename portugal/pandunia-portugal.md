@@ -570,7 +570,7 @@ huli - raposa
 huru - livre (forro)  
 ####I - I  
 in bum - imploção  
-in gi - contêiner  
+in ten gi - contêiner  
 in klus - incluindo  
 in klus di - inclusivo  
 in migra - imigrar  
@@ -587,7 +587,6 @@ islam din - islã
 jaga - acordado  
 jama karde - cromo  
 jamul - jambolão (jambo)  
-jan - pessoa  
 janela - janela  
 jangal - selva (floresta, jângal)  
 jara - jarra (jarro)  
@@ -596,6 +595,7 @@ javabu - resposta
 jeka - emprestar (pedir emprestado)  
 jeka deku - pedir emprestado  
 jeka dona - emprestar  
+jen - pessoa  
 jen buda din - budismo zen  
 jene basha - língua materna  
 jene logi - genealogia  
@@ -606,13 +606,13 @@ jin lai - acesso
 jini - espírito (gênio)  
 jinse - sexo  
 jirafa - girafa  
-jiu - vida  
-jiu - vivo  
+jiva - vida  
+jiva - vivo  
 jong - centro  
 jong fon - vogal  
 jong shula kan - ensino secundário  
 Jongoku - China  
-joven - jovem  
+jovan - jovem  
 jude ja - juiz  
 jul - joule (J)  
 Jupiter - Júpiter  
@@ -1077,7 +1077,7 @@ pau gi - arma de fogo
 pauza - pausa  
 pede - peido  
 pei gong - profissão  
-pei gong jiu - carreira  
+pei gong jiva - carreira  
 pelpel - borboleta  
 pende sor - cadeado  
 pente - pintura  
@@ -1395,10 +1395,10 @@ ura - urra
 Uran - Urano  
 uran yum - urânio  
 ####V - V  
-va - uau  
 vaf - cão (cachorro)  
 vagina - vagina  
 vagina flame - vaginite  
+vah - uau  
 vai - exterior  
 vai jene di - exógeno  
 vai klus di - exclusivo  

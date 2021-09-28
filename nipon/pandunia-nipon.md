@@ -554,7 +554,7 @@ huru - 自由
 ####I - I  
 iha uma - 騾馬  
 in - 内  
-in gi - コンテナ  
+in ten gi - コンテナ  
 in migra - 移住する (移民する)  
 in migra ja - 移民 (移住者)  
 in verse jan - 内向的な人  
@@ -568,7 +568,6 @@ ironi di - 反語的
 islam din - イスラム教  
 ####J - J  
 jamul - フトモモ  
-jan - 人 (者, 員, 徒)  
 janela - 窓  
 jang - 戦闘 (格闘)  
 jangal - 森 (森林, ジャングル)  
@@ -578,6 +577,7 @@ jeka - 借用
 jeka deku - 借りる  
 jeka dona - 貸す  
 jela kan - 監獄  
+jen - 人 (者, 員, 徒)  
 jen buda din - 禅宗  
 jene di - 生 (未熟)  
 jene logi - 系譜学  
@@ -588,13 +588,13 @@ jin lai - アクセス
 jinse - 性別 (ジェンダー)  
 jinse logi - ジェンダー研究  
 jirafa - 麒麟  
-jiu - 命 (生命)  
+jiva - 命 (生命)  
 jong - 中心  
 Jongoku - 中国  
-joven fem - 女の子  
-joven jan - 青少年  
-joven man - 男の子  
-joven moka - 若木  
+jovan fem - 女の子  
+jovan jan - 青少年  
+jovan man - 男の子  
+jovan moka - 若木  
 jul - ジュール (J)  
 Jupiter - 木星  
 jus - ジュース  
@@ -1038,7 +1038,7 @@ pede - 屁
 pei gong - 職業  
 pei gong di - プロフェッショナル  
 pei gong ja - プロフェッショナル  
-pei gong jiu - キャリア  
+pei gong jiva - キャリア  
 pelpel - チョウ  
 pende sor - 南京錠  
 pente - 絵の具 (ペンキ)  
@@ -1343,9 +1343,9 @@ unta liga - 連合 (接合)
 uran yum - ウラン  
 uze bil di - 使用可能  
 ####V - V  
-va - わあ  
 vaf - 犬 (狗)  
 vagina - 膣 (ワギナ)  
+vah - わあ  
 vai - 外  
 vai jan - 部外者 (アウトサイダー)  
 vai planete - 系外惑星  

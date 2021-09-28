@@ -549,7 +549,7 @@ gun raja - генералиссимус
 guta - колено  
 guta kaske oste - надколенник  
 ####H - H  
-ha - с (иметь)  
+ha - иметь  
 habar - новости  
 Habasha - Абиссиния  
 hafen yum - гафний  
@@ -620,7 +620,7 @@ huru - свободный (вольный)
 ####I - I  
 iha uma - мул  
 in bum - имплозия  
-in gi - контейнер  
+in ten gi - контейнер  
 in migra - иммигрировать  
 in migra ja - иммигрант  
 in verse jan - интроверт  
@@ -652,14 +652,14 @@ jin lai - доступ
 jinse - пол  
 jinse logi - гендерные исследования  
 jirafa - жираф  
-jiu - жизнь  
-jiu - живой  
+jiva - жизнь  
+jiva - живой  
 jong - центр  
 jong fon - гласный  
 jong shula kan - средняя школа  
 Jongoku - Китай  
-joven - юный  
-joven moka - саженец  
+jovan - юный  
+jovan moka - саженец  
 jude ja - судья  
 jul - джоуль (J)  
 jumla - фраза  
@@ -1138,7 +1138,7 @@ pede - пердение
 pei gong - профессия  
 pei gong di - профессиона́льный  
 pei gong ja - профессионал (профи)  
-pei gong jiu - карьера  
+pei gong jiva - карьера  
 pelpel - бабочка (мотылёк)  
 pende kardon - чертополох поникший  
 pende sor - висячий замок  
@@ -1506,10 +1506,11 @@ ura - ура
 Uran - Уран  
 uran yum - уран  
 ####V - V  
-va - вау!  
+va - с  
 vaf - собака  
 vagina - влагалище (вагина)  
 vagina flame - вагинит  
+vah - вау!  
 vai - вне  
 vai jan - посторонний (аутсайдер)  
 vai jene di - экзогенный  

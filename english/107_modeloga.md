@@ -30,7 +30,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 – _big_ tables  
 **ba _gau_ meza**
 – high tables  
-**un bon jan**
+**un bon jen**
 – a good person
 
 Two or more modifiers can modify the same noun.
@@ -68,7 +68,7 @@ is used also when a modifier modifies another one.
 
 **un _surpris di_ bon buku**
 – a _surprisingly_ good book  
-**ba _forte di_ ai ja jan**
+**ba _forte di_ ai ja jen**
 – _strongly_ loving people
 
 

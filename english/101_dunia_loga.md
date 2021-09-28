@@ -323,9 +323,9 @@ The original Arabic word means all kinds of writing.
 
 ### Examples of scattered words
 
-#### jan (person, people)
+#### jen (person, people)
 
-The word **jan** is combined from several unrelated sources.
+The word **jen** is combined from several unrelated sources.
 
 - East Asia
     - Mandarin 人 /ʐən/ (person)

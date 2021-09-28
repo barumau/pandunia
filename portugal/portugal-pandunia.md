@@ -251,7 +251,7 @@ carne - nama
 carrapato (ácaros) - akare  
 carregar -   
 carregar - fa karga  
-carreira - pei gong jiu  
+carreira - pei gong jiva  
 carta - karte  
 carta - metre grafi  
 carta geográfica - topo metre grafi  
@@ -341,7 +341,7 @@ conta (fatura) - fatura
 conta - hisabu loge  
 conto - korte kata  
 conto de fadas - pari kata  
-contêiner - in gi  
+contêiner - in ten gi  
 copernício - koperni yum  
 copo (taça) - kupa  
 cor - rang  
@@ -726,7 +726,7 @@ Jesus Cristo - Yesa Mesi
 joelho - guta  
 jogo de tabuleiro - bano gem  
 joule (J) - jul  
-jovem - joven  
+jovem - jovan  
 jugo - yogo  
 juiz - jude ja  
 justiça - adil ta  
@@ -1070,7 +1070,7 @@ perplexo (confuso) - ruhu mishe di
 peru - dinde  
 pesado - veze di  
 pescador - peshe saide ja  
-pessoa - jan  
+pessoa - jen  
 petróleo - petra nefte  
 picareta - pin chope  
 pilha (bateria) - bateri  
@@ -1401,7 +1401,7 @@ título - tema nam
 tório - tor yum  
 túlio - tule yum  
 ####U - U  
-uau - va  
+uau - vah  
 um (1) - un  
 um ao outro - se kon  
 uma vez - un mar  
@@ -1444,12 +1444,12 @@ verão - garma mosim
 vestir - fa fuku  
 vez - mar  
 vice-rei - vise raja  
-vida - jiu  
+vida - jiva  
 vidro - kancha  
 vinhedo - putau bagi  
 vir - lai  
 virgem - virje  
-vivo - jiu  
+vivo - jiva  
 Vixnu - Vishnu  
 viúvo - vidou  
 voar - fei  

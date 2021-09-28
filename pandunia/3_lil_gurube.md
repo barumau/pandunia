@@ -42,7 +42,7 @@ a un me goro ya ga,
 do dom da du me lili goro.
 
 la volfe zoku na lili dau.
-ye pas du me dom, jo be sana ha moka kane.
+ye pas du me dom, jo be sana va moka kane.
 ye vide la dom.
 ye aroma la goro na in.
 ye su boke ya kai sana yo sui,

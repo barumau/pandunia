@@ -338,7 +338,7 @@ chrześcijaństwo - mesi din
 chwalić (wychwalać) - halela  
 chwilowy - sata di  
 chór - chanta grupe  
-chłopak - joven man  
+chłopak - jovan man  
 ciasto, ciastko - keke  
 ciało - badan  
 ciało stałe - gati mate  
@@ -545,7 +545,7 @@ dziennik pokładowy (notatnik) - loge buku
 dziennikarz - gazeta ja  
 dziesięć (10) - des  
 dziesięć tysięcy - des kilo  
-dziewczyna - joven fem  
+dziewczyna - jovan fem  
 dziewięć (9) - tisa  
 dzień - dia  
 dzień dobry - salam dia  
@@ -1604,10 +1604,10 @@ mądry - sofi
 męczyć się (nużyć się) - be fatige  
 męski - man  
 mężczyzna, dorosły samiec - matur man  
-młode drzewo - joven moka  
-młodość - joven ta  
-młody - joven  
-młodzież, młoda osoba - joven jan  
+młode drzewo - jovan moka  
+młodość - jovan ta  
+młody - jovan  
+młodzież, młoda osoba - jovan jan  
 młot, młotek - hamar  
 młynarz - mol ja  
 ####N - N  
@@ -1863,12 +1863,12 @@ osiem (8) - bati
 osioł - iha  
 osm - osmi yum  
 osmoza - osmos  
-osoba - jan  
+osoba - jen  
 osoba biznesu, biznesman - biznes ja  
 osoba dorosła - matur  
 osoba mówiąca w Panduni - pandunia ja  
 osobisty numer identyfikacyjny (pin) - sekur nomer  
-osobisty, intymny, prywatny - auto di  
+osobisty, intymny, prywatny - jen di  
 ostatni, końcowy - fin me  
 ostropest plamisty - milke kardon  
 ostrożeń lancetowaty - pero kardon  
@@ -3206,7 +3206,7 @@ wolof - Volof
 wolt (V) - volte  
 wosk - mum  
 wosko lądowe (armia) - geo gun  
-wow!, łoł!, jej! - va  
+wow!, łoł!, jej! - vah  
 wołowina - mumu nama  
 wprost (bezpośrednio) - disha di  
 wprostowywać (wyprostować) - fa orto  
@@ -3395,7 +3395,7 @@ zatoka - baya
 zatrzymać - fa halte  
 zatrzymać się - be halte  
 zawias, oś - sharnir  
-zawierać - in ha  
+zawierać - in ten  
 zawijać (zawinąć) - lifafa  
 zawiązywać (zawiązać węzeł) - fa node  
 zawsze - pan sata  
@@ -3572,11 +3572,11 @@ zły, zrujnowany, zepsuty - harabu
 żołnierz - gun jan  
 żołądź - baluta frute  
 żwir - grave  
-życie - jiu  
+życie - jiva  
 życie organiczne - bio she  
 żydowski - yehudi  
 żyrafa - jirafa  
 żywica - rezin  
-żyć (żywy, żyjący) - jiu  
+żyć (żywy, żyjący) - jiva  
 żółty - huang  
 żółw - tortuga  

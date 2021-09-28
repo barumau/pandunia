@@ -371,8 +371,8 @@ eläinsatu - zou kata
 eläintarha - zou bagi  
 eläintiede (zoologia) - zou logi  
 eläintieteellinen - zou logi di  
-elämä (olemassaolo) - jiu  
-elävä (elää) - jiu  
+elämä (olemassaolo) - jiva  
+elävä (elää) - jiva  
 elävä (orgaaninen) - bio  
 emiiri - amir ja  
 emiirikunta - amir desha  
@@ -609,9 +609,9 @@ helvetti - naraka
 hengitys (henkäys) - nafas  
 henki (sielu) - jini  
 henki (sielu, mieli, psyyke) - ruhu  
-henkilö - jan  
+henkilö - jen  
 henkilö jota asia määrittelee - ka  
-henkilökohtainen (privaatti) - auto di  
+henkilökohtainen (privaatti) - jen di  
 henkinen (psyykkinen) - ruhu di  
 hennapensas - hina  
 heprea - ibri  
@@ -1036,7 +1036,7 @@ kansallisuusaate (nationalismi) - nasi sim
 kansanryhmien välinen - zuku medi di  
 kansanryhmä (etninen ryhmä) - zuku  
 kansio (hakemisto) - dokumen sanduku  
-kanssa (kera, -lla) - ha  
+kanssa (kera, -lla) - va  
 kapina - rebel  
 kapteeni - nave shefe  
 karaatti - kirate  
@@ -1282,7 +1282,7 @@ konsultoida (antaa neuvoja) - kon sel
 konsultti - kon sel ja  
 kontaktikieli (pidgin) - pijin  
 kontiainen (maamyyrä) - krote  
-kontti - in gi  
+kontti - in ten gi  
 koodata - kode  
 koodi - kode  
 kooka - koka  
@@ -2093,9 +2093,9 @@ nukkua - be sona
 nukkuminen (uni) - sona  
 nuolentekijä - fleche ja  
 nuoli - fleche  
-nuori - joven  
-nuorukainen - joven jan  
-nuoruus - joven ta  
+nuori - jovan  
+nuorukainen - jovan jan  
+nuoruus - jovan ta  
 nurmikko (ruohikko) - gazo medan  
 nussia (panna) - choda  
 nuudeli - mena  
@@ -2120,7 +2120,7 @@ ohitettu (mennyt) - pas
 ohjaaja (pilotti, luotsi) - pilote  
 ohjelma - program  
 ohjelmoija - program ja  
-oho (vau) - va  
+oho (vau) - vah  
 ohra - jau  
 oi! (ai, oijoi) - ayo  
 oikea (paikkansapitävä) - sahi  
@@ -2139,6 +2139,7 @@ oksidi - okside
 olento (olio) - si ja  
 oliivi - zaitun  
 olkapää (hartia) - kanta  
+olla (omistaa) - ha  
 olla - si  
 olla eri mieltä - alo rai  
 olla hereillä - jaga  
@@ -2420,7 +2421,7 @@ Pohjois-Irlanti - Norde Aire
 Pohjois-Korea - Norde Chosen  
 Pohjois-Kypros - Norde Kipris  
 pohtia (meditoida) - jen  
-poika (nuori mies) - joven man  
+poika (nuori mies) - jovan man  
 poika - man ben  
 poikittainen (vaaka) - vei di  
 pois (poissa) - for  
@@ -2893,7 +2894,7 @@ sisä- (sisäinen) - in di
 sisällysluettelo - in liste  
 sisällyttää (sulkea sisäänsä) - fa in klus  
 sisällä (sisäpuolella) - na in  
-sisältää - in ha  
+sisältää - in ten  
 sisältö - in she  
 sisäsyntyinen - in jene di  
 sisäänkäynti - jin mun  
@@ -3364,7 +3365,7 @@ typerys (idiootti) - idiote
 typpi - nitre  
 tyranni - zalim raja  
 tyrannia - zalimta  
-tyttö (nuori neito) - joven fem  
+tyttö (nuori neito) - jovan fem  
 tyttölapsi - fem ben  
 Tyyni valtameri - Pase Hai  
 tyyny - kushen  

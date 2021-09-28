@@ -525,6 +525,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**guru**|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
 |**guste**|spa:gusto, por:gosto, fra:goût|
 |**guta**|swa:goti, hin:घुटना (ghuṭnā), guj:ઘૂંટણ (ghū̃ṭaṇ), pnb:ਗੋਡਾ (goḍā), mar:गुडघा (guḍghā)|
+|**ha**|eng:have, fra:avoir, spa:hay|
 |**habar**|ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar), ben:খবর (khôbôr), yor:làbarè|
 |**hafen yum**|eng:hafnium, fra:hafnium, spa:hafnio, por:háfnio, rus:гафний, zho:铪 (hā), jpn:ハフニウム, kor:하프늄, vie:hafini, hin:हाफ्नियम, ben:হাফনিয়াম, may:hafnium, swa:hafni, ara: هفنيوم|
 |**hafiza**|ara:(ḥafiẓa), fas:urd:(hāfiz), tur:muhafaza, hin:हाफ़िज़ (hāfīz), swa:hifadhi|
@@ -613,7 +614,6 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**jama**|ara: جَمَعَ‎ (jamaʿa), swa:jamii, tur:camia, fas: جمع (jam’), hau:jam'iyya + hin:जमात (jamāt)|
 |**jampe**|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jamul**|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|
-|**jan**|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
 |**janela**|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**jang**|zho:爭 (zhēng), yue:爭 (zang1), vie:tranh, kor:전쟁 (jeonjaeng) + fas:urd:(jang), hin:जंग (jang), tur:ceng|
 |**jang suta**|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
@@ -628,6 +628,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**jela**|eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula|
 |**jele**|eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|
 |**jelosi**|eng:jealous, spa:celoso, fra:jaloux|
+|**jen**|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|
 |**jen**|hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|
 |**jene**|hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|
 |**jenshen**|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
@@ -637,10 +638,10 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**jini**|hin:जान (jān), ben:জান (jan), tur:can + ara: جِنّ (jinn), swa:jini, rus:джинн (džinn) + eng:genie, fra:génie, spa:genio, por:gênio|
 |**jinse**|ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)|
 |**jirafa**|ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
-|**jiu**|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
+|**jiva**|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
 |**joke**|eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**jong**|zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|
-|**joven**|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
+|**jovan**|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
 |**jude ja**|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|
 |**jumla**|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
 |**jung**|zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|
@@ -1520,9 +1521,10 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**ura**|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**uran yum**|eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم|
 |**uze**|eng:use, fra:user, spa:por:usar, pol:używać|
-|**va**|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
+|**va**|ara: و‎ (wa), hin:व (va), fas:urd: و‎ (va), tur:ve + yue:和 (wo4), vie:và|
 |**vaf**|eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|
 |**vagina**|eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|
+|**vah**|eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|
 |**vai**|zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), kor:외 (oe), vie:ngoại;ngoài|
 |**vakil**|ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil), tur:vekil|
 |**vali**|eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|

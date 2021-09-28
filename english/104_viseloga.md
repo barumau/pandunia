@@ -135,7 +135,7 @@ and it means the same as English _which_.
 
 **ke she?**
 – What? (Which thing?)  
-**ke jan?**
+**ke jen?**
 – Who? (Which person?)  
 **ke zaman?**
 – When? (What time?)  

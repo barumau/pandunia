@@ -367,6 +367,7 @@
 |**guru**|guruo (instruisto)|hindia:गुरु (guru), bengala:গুরু (guru), guĝarata:ગુરુ (guru), panĝaba:ਗੁਰੂ (gurū), filipina:guro, taja:ครู (gruu), malaja:angla:portugala:guru, hispana:gurú, rusa:гуру (guru), franca:gourou, korea:구루 (guru), japana:グル (guru)|
 |**guste**|gusto|hispana:gusto, portugala:gosto, franca:goût|
 |**guta**|genuo|svahila:goti, hindia:घुटना (ghuṭnā), guĝarata:ઘૂંટણ (ghū̃ṭaṇ), panĝaba:ਗੋਡਾ (goḍā), marataja:गुडघा (guḍghā)|
+|**ha**|havi|angla:have, franca:avoir, hispana:hay|
 |**habar**|novaĵoj|araba:(xabar), turka:haber, malaja:kabar, svahila:habari, hindia:ख़बर (xabar), bengala:খবর (khôbôr), joruba:làbarè|
 |**hafen yum**|hafnio|angla:hafnium, franca:hafnium, hispana:hafnio, portugala:háfnio, rusa:гафний, mandarena:铪 (hā), japana:ハフニウム, korea:하프늄, vjetnama:hafini, hindia:हाफ्नियम, bengala:হাফনিয়াম, malaja:hafnium, svahila:hafni, araba: هفنيوم|
 |**haha**|ridi|angla:franca:portugala:turka:haha, hispana:jaja, rusa:ха-ха (ha-ha), mandarena:哈哈 (hāhā), japana:わはは (wa-ha-ha), araba:(hahah)|
@@ -435,7 +436,6 @@
 |**jain din**|Ĝajnismo|hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)|
 |**jake**|jako|angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta|
 |**jampe**|salti|angla:jump, japana:ジャンプ (janpu), korea:점프 (jŏmp), bengala:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
-|**jan**|persono|mandarena:人 (rén), wuu人 (zén), japana:人 (jin) + hindia:जन (jan), bengala:-জন (-jôn), malaja:-jana, taja:ชน (chon), kmera:ជន (jon) + franca:gens, portugala:gente|
 |**janela**|fenestro|portugala:janela, bengala:জানালা (janala), malaja:jendela + tamila:சன்னல் (sannal), nya:zenera, konga:nêla|
 |**jang**|milito (batalo)|mandarena:爭 (zhēng), kantona:爭 (zang1), vjetnama:tranh, korea:전쟁 (jeonjaeng) + persa:urdua:(jang), hindia:जंग (jang), turka:ceng|
 |**jangal**|arbaro|angla:franca:jungle, hispana:jungla, portugala:jângal, rusa:джунгли (džungli), hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), malaja:jenggela, japana:ジャングル (janguru), korea:정글 (jeonggeul), turka:cengel|
@@ -444,13 +444,14 @@
 |**javabu**|respondo|araba: جَوَاب‎ (jawāb), hindia:जवाब (javāb), malaja:jawab, svahila:jibu,jawabu, turka:cevap|
 |**jebe**|poŝo|hindia:जेब (jeb), panĝaba:ਜੇਬ (jeb), urdua:(jeb), teluga:(jēbu), araba:(jayb), turka:cep, volofa:jiba|
 |**jele**|ĝelo|angla:gel, franca:gelée, rusa:желе (žele), turka:jel, hindia:जेल (jel), korea:젤 (jel), mandarena:啫哩 (zhělī)|
+|**jen**|persono|mandarena:人 (rén), wuu人 (zén), japana:人 (jin) + franca:gens, hispana:portugala:gente + hindia:जन (jan), bengala:-জন (-jôn), malaja:-jana, taja:ชน (chon), kmera:ជន (jon)|
 |**jene**|nasko|hindia:जन्म (janma), malajala:ജനനം (jananaṃ), greka: γέννα (génna), angla:genesis, franca:genèse|
 |**jiang ja**|metiisto|mandarena:匠 (jiàng), kantona:匠 (zoeng6), taja:ช่าง (jang), kmera:ជាង (ciəng)|
 |**jinse**|sekso|araba:urdua:(jins), persa:(jens), svahila:jinsi, turka:cins, angla:gender, portugala:gênero, japana:ジェンダー (jendā)|
 |**jirafa**|ĝirafo|araba:(zarāfa), angla:franca:giraffe, portugala:girafa, hispana:jirafa, rusa:жираф (žiraf),malaja:jerapah, turka:zürafa, korea:지라프 (jirapeu), hindia: जिराफ़ (jirāf), bengala:জরৈফ (jôrôph)|
-|**jiu**|vivo|hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy|
+|**jiva**|vivo|hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy|
 |**jong**|centro|mandarena:中 (zhōng), kantona:中 (zung1), korea:중 (jung), japana:中 (chuu-), vjetnama:trung|
-|**joven**|juna|hindia:जवान (javān), persa:urdua:(javān), teluga:యువ (yuva), portugala:jovem, hispana:joven, itala:giovane, angla:juvenile, franca:juvénile|
+|**jovan**|juna|hindia:जवान (javān), persa:urdua:(javān), teluga:యువ (yuva), portugala:jovem, hispana:joven, itala:giovane, angla:juvenile, franca:juvénile|
 |**jude ja**|juĝisto|angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji + rusa:судья (sud'ya)|
 |**jupe**|jupo|franca:jupe, araba:(jūb), rusa:юбка (yubka)|
 |**jus**|suko|angla:juice, svahila:jusi, tamila:ஜூஸ் (jūs), japana:ジュース (jūsu), korea:주스 (juseu)|
@@ -984,9 +985,10 @@
 |**un**|unu (1)|franca:un, hispana:uno, portugala:um,una, angla:one|
 |**uran yum**|uranio|angla:uranium, franca:uranium, hispana:uranio, portugala:urânio, rusa:уран, japana:ウラン, korea:우라늄, vjetnama:urani (uran), hindia:युरेनियम, bengala:ইউরেনিয়াম, malaja:uranium, svahila:urani, araba: يورانيوم|
 |**uze**|uzi|angla:use, franca:user, hispana:portugala:usar, polona:używać|
-|**va**|ŭaŭ!|angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah|
+|**va**|kun|araba: و‎ (wa), hindia:व (va), persa:urdua: و‎ (va), turka:ve + kantona:和 (wo4), vjetnama:và|
 |**vaf**|hundo|angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)|
 |**vagina**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
+|**vah**|ŭaŭ!|angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah|
 |**vai**|ekstero|mandarena:外 (wài), kantona:外 (ngoi6), japana:外 (gai), korea:외 (oe), vjetnama:ngoại;ngoài|
 |**vali**|valo|angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi|
 |**valu**|valoro|angla:value, hispana:portugala:valor, franca:valeur|

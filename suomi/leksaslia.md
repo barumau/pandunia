@@ -491,6 +491,7 @@
 |**guru**|guru (opettaja)|hindi:गुरु (guru), bangla:গুরু (guru), gujarati:ગુરુ (guru), pandzabi:ਗੁਰੂ (gurū), filippiini:guro, thai:ครู (gruu), malaiji:englanti:portugali:guru, espanja:gurú, venäjä:гуру (guru), ranska:gourou, korea:구루 (guru), japani:グル (guru)|
 |**guste**|maku|espanja:gusto, portugali:gosto, ranska:goût|
 |**guta**|polvi|suahili:goti, hindi:घुटना (ghuṭnā), gujarati:ઘૂંટણ (ghū̃ṭaṇ), pandzabi:ਗੋਡਾ (goḍā), marathi:गुडघा (guḍghā)|
+|**ha**|olla (omistaa)|englanti:have, ranska:avoir, espanja:hay|
 |**habar**|uutinen|arabia:(xabar), turkki:haber, malaiji:kabar, suahili:habari, hindi:ख़बर (xabar), bangla:খবর (khôbôr), yoruba:làbarè|
 |**hafen yum**|hafnium|englanti:hafnium, ranska:hafnium, espanja:hafnio, portugali:háfnio, venäjä:гафний, yleiskiina:铪 (hā), japani:ハフニウム, korea:하프늄, vietnami:hafini, hindi:हाफ्नियम, bangla:হাফনিয়াম, malaiji:hafnium, suahili:hafni, arabia: هفنيوم|
 |**hafiza**|säilyttää (varjella, säästää)|arabia:(ḥafiẓa), persia:urdu:(hāfiz), turkki:muhafaza, hindi:हाफ़िज़ (hāfīz), suahili:hifadhi|
@@ -578,7 +579,6 @@
 |**jama**|yhteisö (kokoontuminen, kollektiivi)|arabia: جَمَعَ‎ (jamaʿa), suahili:jamii, turkki:camia, persia: جمع (jam’), hausa:jam'iyya + hindi:जमात (jamāt)|
 |**jampe**|hypätä (hyppiä)|englanti:jump, japani:ジャンプ (janpu), korea:점프 (jŏmp), bangla:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jamul**|jambolaani|hindi:जामुन (jāmun), englanti:jambul, portugali:jambolão, arabia:جَمُّون (jammūn), suahili:zambarau|
-|**jan**|henkilö|yleiskiina:人 (rén), wuu人 (zén), japani:人 (jin) + hindi:जन (jan), bangla:-জন (-jôn), malaiji:-jana, thai:ชน (chon), khmer:ជន (jon) + ranska:gens, portugali:gente|
 |**janela**|ikkuna|portugali:janela, bangla:জানালা (janala), malaiji:jendela + tamili:சன்னல் (sannal), nya:zenera, Kongo:nêla|
 |**jang suta**|kamppailulaji|yleiskiina:武术 (wǔshù), japani:武術 (bujutsu), vietnami:võ thuật, korea:무술 (musul), englanti:martial art|
 |**jang**|taistelu (sota)|yleiskiina:爭 (zhēng), kantoninkiina:爭 (zang1), vietnami:tranh, korea:전쟁 (jeonjaeng) + persia:urdu:(jang), hindi:जंग (jang), turkki:ceng|
@@ -591,6 +591,7 @@
 |**jela**|vankeus|englanti:jail, ranska:geôle, hindi:जेल (jel), bangla:জেল (jēl), telugu:జైలు (jailu), urdu: جیل‎ (jēl), suahili:jela + espanja:portugali:jaula|
 |**jele**|hyytelö|englanti:gel, ranska:gelée, venäjä:желе (žele), turkki:jel, hindi:जेल (jel), korea:젤 (jel), yleiskiina:啫哩 (zhělī)|
 |**jelosi**|kade (kateellinen)|englanti:jealous, espanja:celoso, ranska:jaloux|
+|**jen**|henkilö|yleiskiina:人 (rén), wuu人 (zén), japani:人 (jin) + ranska:gens, espanja:portugali:gente + hindi:जन (jan), bangla:-জন (-jôn), malaiji:-jana, thai:ชน (chon), khmer:ជន (jon)|
 |**jen**|pohtia (meditoida)|hindi:ध्यान (dhyān), bangla:ধ্যান (dhyān), japani:禅 (zen), englanti:ranska:portugali:zen, venäjä:дзэн (dzen), yleiskiina:禅 (chán), korea:선 (seon), vietnami:thiền, burma:ဈာန် (jhan)|
 |**jene**|synty (syntymä)|hindi:जन्म (janma), malayalam:ജനനം (jananaṃ), kreikka: γέννα (génna), englanti:genesis, ranska:genèse|
 |**jenshen**|ginseng|yleiskiina:人蔘 (rénshēn), min-kiina:人蔘 (jîn-sam), englanti:espanja:portugali:turkki:malaiji:ginseng, venäjä:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), japani:人参 (ninjin)|
@@ -600,10 +601,10 @@
 |**jini**|henki (sielu)|hindi:जान (jān), bangla:জান (jan), turkki:can + arabia: جِنّ (jinn), suahili:jini, venäjä:джинн (džinn) + englanti:genie, ranska:génie, espanja:genio, portugali:gênio|
 |**jinse**|sukupuoli|arabia:urdu:(jins), persia:(jens), suahili:jinsi, turkki:cins, englanti:gender, portugali:gênero, japani:ジェンダー (jendā)|
 |**jirafa**|kirahvi|arabia:(zarāfa), englanti:ranska:giraffe, portugali:girafa, espanja:jirafa, venäjä:жираф (žiraf),malaiji:jerapah, turkki:zürafa, korea:지라프 (jirapeu), hindi: जिराफ़ (jirāf), bangla:জরৈফ (jôrôph)|
-|**jiu**|elämä (olemassaolo)|hindi:marathi:जीव (jīv), bangla:জীউ (jiu), telugu:జీవము (jīvamu), malaiji:jiwa, thai:ชีวิต  (chiwit), burma:ဇီဝ (jiwa), khmer:ជីវិត (jĭvit), venäjä:живой (živoy), puola:żywy|
+|**jiva**|elämä (olemassaolo)|hindi:marathi:जीव (jīv), bangla:জীউ (jiu), telugu:జీవము (jīvamu), malaiji:jiwa, thai:ชีวิต  (chiwit), burma:ဇီဝ (jiwa), khmer:ជីវិត (jĭvit), venäjä:живой (živoy), puola:żywy|
 |**joke**|vitsi|englanti:ranska:joke, persia:جوک‎ (jok), japani:ジョーク (jōku) + yleiskiina:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**jong**|keskus (keskikohta)|yleiskiina:中 (zhōng), kantoninkiina:中 (zung1), korea:중 (jung), japani:中 (chuu-), vietnami:trung|
-|**joven**|nuori|hindi:जवान (javān), persia:urdu:(javān), telugu:యువ (yuva), portugali:jovem, espanja:joven, italia:giovane, englanti:juvenile, ranska:juvénile|
+|**jovan**|nuori|hindi:जवान (javān), persia:urdu:(javān), telugu:యువ (yuva), portugali:jovem, espanja:joven, italia:giovane, englanti:juvenile, ranska:juvénile|
 |**jude ja**|tuomari|englanti:judge, ranska:juge, espanja:juez, portugali:juiz, hindi:जज (jaj), bangla:জজ (jôj), suahili:jaji + venäjä:судья (sud'ya)|
 |**jung**|laji|yleiskiina:種 (zhǒng), kantoninkiina:種 (zung2), wu-kiina:種 (tson2), japani:種 (shu), korea:종 (jong), vietnami:chủng|
 |**jupe**|hame|ranska:jupe, arabia:(jūb), venäjä:юбка (yubka)|
@@ -1416,9 +1417,10 @@
 |**ura**|hurraa (hurrata)|venäjä:ура (ura), italia:urrà, deu:espanja:hurra, ranska:hourra, englanti:hurrah, malaiji:hore, persia:(hurâ)|
 |**uran yum**|uraani|englanti:uranium, ranska:uranium, espanja:uranio, portugali:urânio, venäjä:уран, japani:ウラン, korea:우라늄, vietnami:urani (uran), hindi:युरेनियम, bangla:ইউরেনিয়াম, malaiji:uranium, suahili:urani, arabia: يورانيوم|
 |**uze**|käyttää|englanti:use, ranska:user, espanja:portugali:usar, puola:używać|
-|**va**|oho (vau)|englanti:wow, ranska:ouah, yleiskiina:哇 (wā), japani:わあ (wā), korea:와 (wa), hindi:वाह (vāh), malaiji:wah|
+|**va**|kanssa (kera, -lla)|arabia: و‎ (wa), hindi:व (va), persia:urdu: و‎ (va), turkki:ve + kantoninkiina:和 (wo4), vietnami:và|
 |**vaf**|koira|englanti:woof, ranska:ouaf, venäjä:гав (gav), turkki:hav, yleiskiina:汪 (wāng), japani:ワン (wan)|
 |**vagina**|emätin (vagina)|englanti:ranska:vagina, portugali:espanja:vagina, venäjä:вагина (vagina), japani:ワギナ (wagina), korea:바기나 (bagina), turkki:vajina, malaiji:vagina|
+|**vah**|oho (vau)|englanti:wow, ranska:ouah, yleiskiina:哇 (wā), japani:わあ (wā), korea:와 (wa), hindi:वाह (vāh), malaiji:wah|
 |**vai**|ulkopuoli|yleiskiina:外 (wài), kantoninkiina:外 (ngoi6), japani:外 (gai), korea:외 (oe), vietnami:ngoại;ngoài|
 |**vakil**|edustaa|arabia:وكيل‎ (wakīl), suahili:wakili, persia:وکیل‎ (vakil), hindi:वकील (vakīl), bangla:উকিল (ukil), turkki:vekil|
 |**vali**|laakso|englanti:valley, ranska:vallée, espanja:valle, portugali:vale, arabia: وَادٍ‎ (wādin), hindi:वादी (vādī), malaiji:wadi, turkki:vadi|

@@ -200,7 +200,6 @@ auro|yum 079|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), ma
 Australia|desha|AU||Australia|Australie|Australia|||||||||||||Aŭstralio|Australia|Australia
 Austronesi||||Austronesia|Austronésie|Austronesia|Austronésia|Австронезия||南岛|オーストロネシア|오스트로네시아|||||||Aŭstronezio|Austronesia|
 auto|||ell:αὐτός (aftós), eng:fra:spa:por:auto-, rus:авто- (avto-)|self (identity)||mismo (yo)|||||自己|||||||||itseys|jaźń (tożsamość)
-auto di||||personal (intimate, private, custom)||personal (privado, a medida)||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
 auto krati||||autocracy (monarchy)||autocratia (monarquía)|||||君主制|||||||||yksinvaltius (autokratia, monarkia)|monarchia
 auto loga||||monolog|monologue|monólogo|monólogo|монолог||独白|独白 (独話)|||||||monolog||yksinpuhelu (monologi)|monolog
 auto move||||self-moving (automotive, automobile)||automotor (automotriz)|||||||||||||memmova|itseliikkuva|samobieżny
@@ -1009,7 +1008,7 @@ fa loka||||put (place, set)|mettre (placer)|colocar (poner, ubicar)|colocar (pô
 fa lona||||debate (discuss)||debatir (discutir)||||||||||||||keskustelu (debatti)|debatować, prowadzić dyskurs
 fa long||||lengthen (prolong)||alargar|||||||||||||longigi|pidentää|przedłużyć, przedłużać
 fa maf||||forgive (pardon)|pardonner|perdonar (disculpar)|perdoar (desculpar)|||||||माफ करना||memaafkan|kusamehe|affetmek|pardoni|antaa anteeksi|
-fa mal||||own (possess, have)||poseer (tener, ser dueño de)||||||||||||||omistaa|mieć (posiadać)
+fa mal||||own (possess)||poseer (tener, ser dueño de)||||||||||||||omistaa|mieć (posiadać)
 fa marche||||walk (march)||caminar (marchar, andar)|||||||||||||promeni (marŝi)|kävellä|iść, maszerować
 fa marke||||mark (leave a mark)||marcar||||||||||||||merkitä (jättää jälki)|zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad
 fa mas||||increase||||||||||||||||lisätä (enentää)|
@@ -1490,7 +1489,7 @@ guta|||swa:goti, hin:घुटना (ghuṭnā), guj:ઘૂંટણ (ghū̃ṭ
 guta kaske oste||||kneecap|rotule|rótula|rótula (patela)|надколенник||膝盖骨|膝蓋骨|슬개골 (무릎뼈)||||tempurung lutut||diz kapağı|patelo|polvilumpio|rzepka
 Guyana|desha|GY||Guyana||Guyana|||||||||||||Gujano|Guyana|Gujana
 H||||H|H|H|H|H|H|H|H|H|H|H|H|H|H|H|H|H|H
-ha|prep.|||with (there be; have)|avec (avoir)|con (tener)||с (иметь)||有|||||||||havi (teni)|kanssa (kera, -lla)|mieć (trzymać)
+ha|||eng:have, fra:avoir, spa:hay|have (there be)|avoir|tener||иметь||有|||||||||havi|olla (omistaa)|mieć (trzymać)
 habar|||ara:(xabar), tur:haber, may:kabar, swa:habari, hin:ख़बर (xabar), ben:খবর (khôbôr), yor:làbarè|news||noticias||новости||消息||||ख़बर||kabar|habari|haber|novaĵoj|uutinen|wiadomość, nius
 habar gazeta||||newspaper (gazette)||periódico (diario)|||||||||||||gazeto|sanomalehti|gazeta
 habasha||||Abyssinian||abisinio||||||||||||||abyssinialainen|abisyński
@@ -1671,8 +1670,8 @@ imperi sim ja||||imperialist||imperialista||||||||||||||imperialisti|imperialist
 in|||eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|inside (interior)||interior|||||内||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
 in bum||||implosion|implosion|implosión|imploção|имплозия||内爆||||||||||luhistuminen|implozja
 in di||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
-in gi||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
-in ha||||contain (include)||contener||||||||||||||sisältää|zawierać
+in ten||||contain (include)||contener||||||||||||||sisältää|zawierać
+in ten gi||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
 in jene di||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
 in klus||||including|y compris|incluido|incluindo|||||||||||||mukaan lukien|
 in klus di||||inclusive|inclusif|inclusivo|inclusivo|||||||||||||kattava|
@@ -1727,7 +1726,6 @@ jama karde||||trading card|carte à collectionner|cromo|cromo|||||||||||||keräi
 Jamaika|desha|JM||Jamaica||Jamaica|||||||||||||Jamajko|Jamaika|Jamajka
 jampe|||eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|jump||saltar (brincar)|||||||||||||salti|hypätä (hyppiä)|skoczyć, skakać
 jamul|bio|Syzygium|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|jamul (jambul, rose apple)|prune de Java||jambolão (jambo)|джамболан||閻浮樹|フトモモ|||जामुन|||zambarau|||jambolaani|czapetka kuminowa
-jan|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|person (individual, -ist, -er)|personne|persona (ista, -ador)|pessoa|||人|人 (者, 員, 徒)||||||||persono|henkilö|osoba
 janela|||por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|window|fenêtre|ventana|janela|окно|شباك‎|窗戶|窓|창|cửa sổ|खिड़की|জানালা|jendela|dirisha|pencere|fenestro|ikkuna|okno
 janela frem||||window frame||||||窗框|||||||||fenestrokadro|ikkunankehys (ikkunanpuite)|
 jang|||zho:爭 (zhēng), yue:爭 (zang1), vie:tranh, kor:전쟁 (jeonjaeng) + fas:urd:(jang), hin:जंग (jang), tur:ceng|fight (war, battle, combat)||pelea (guerra, batalla)||||戰爭 (斗争, 战斗)|戦闘 (格闘)|||||||savaş (ceng)|milito (batalo)|taistelu (sota)|walka, wojna
@@ -1752,8 +1750,10 @@ jela jan||||prisoner||prisionero|||||||||||||||
 jela kan||||prison (jail)|prison (geôle)|cárcel||||监狱 (监牢)|監獄|감옥|nhà tù|कारागार (बन्दीघर, जेल, क़ैदख़ाना)||penjara|jela (gereza)|hapishane|malliberejo|vankila|więzienie, zakład karny
 jele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)||gel (jalea, gelatina)|||||||||||||ĝelo|hyytelö|żel, galareta
 jelosi|||eng:jealous, spa:celoso, fra:jaloux|jealous||celoso (envidioso)||||||||||||||kade (kateellinen)|zazdrosny
+jen|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|person (individual, -ist, -er)|personne|persona (ista, -ador)|pessoa|||人|人 (者, 員, 徒)||||||||persono|henkilö|osoba
 jen|||hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|meditate (contemplate, ponder, cogitate)||meditar (reflexionar)||||||||||||||pohtia (meditoida)|medytować; dumać, rozmyślać, zastanawiać się
 jen buda din||||Zen Buddhism|zen|budismo zen|budismo zen|дзен-буддизм||禅宗|禅宗|선종||||||||zenbuddhalaisuus|
+jen di||||personal (intimate, private, custom)||personal (privado, a medida)||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
 jene|||hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|birth||nacimiento (origen)|||||||||||||nasko|synty (syntymä)|narodziny
 jene basha||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
 jene den||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
@@ -1780,8 +1780,8 @@ jinse|||ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero
 jinse di||||sexual (pertaining to gender)|||||||||||||||seksa|sukupuolinen|płciowy
 jinse logi||||gender studies|études de genre|||гендерные исследования||性别研究|ジェンダー研究|||||||cinsellik bilimi||sukupuolitutkimus|
 jirafa|bio||ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|giraffe|giraffe|jirafa|girafa|жираф|زَرَافَة|长颈鹿|麒麟|지라프 (기린)|hươu cao cổ|जिराफ़|জরৈফ|jerapah|twiga|zürafa|ĝirafo|kirahvi|żyrafa
-jiu|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|life (existence)|vie|vida|vida|жизнь|حَيَاة|生命|命 (生命)|||ज़िंदगी (जीवन, हयात)||hidup (hayat)|uhai||vivo|elämä (olemassaolo)|życie
-jiu||||live (be alive, living)|vivant|vivo (lleno de vida)|vivo|живой||||||जीवित|জীবন্ত||||viva|elävä (elää)|żyć (żywy, żyjący)
+jiva|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|life (existence)|vie|vida|vida|жизнь|حَيَاة|生命|命 (生命)|||ज़िंदगी (जीवन, हयात)||hidup (hayat)|uhai||vivo|elämä (olemassaolo)|życie
+jiva||||live (be alive, living)|vivant|vivo (lleno de vida)|vivo|живой||||||जीवित|জীবন্ত||||viva|elävä (elää)|żyć (żywy, żyjący)
 jo||||which (who, that)||||||||||||||||joka (mikä)|
 joke|||eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|joke||broma (chiste)||||||||||||||vitsi|żart
 joke ja||||joker||bromista (chistoso)||||||||||||||vitsiniekka|żartowniś, dowcipniś
@@ -1792,12 +1792,12 @@ jong di||||central (middle)||central|||||||||||||||centralny (środkowy)
 jong fon||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali|samogłoska
 jong shula kan||||secondary school|école secondaire|escuela secundaria|ensino secundário|средняя школа||中学|||trường trung học|||sekolah menengah|||gimnazio|yläaste ja lukio|
 Jongoku|desha|CN||China|Chine|China|China|Китай|اَلصِّين‎|中国|中国|중국|Trung Quốc|चीन|চীন|Cina (Tiongkok)|Uchina|Çin|Ĉinio|Kiina|Chiny
-joven|||hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|young (juvenile)|jeune (juvénile)|joven|jovem|юный||||젊다||जवान|||||juna|nuori|młody
-joven fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
-joven jan||||youth (young person)||joven|||||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
-joven man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
-joven moka||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
-joven ta||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
+jovan|||hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|young (juvenile)|jeune (juvénile)|joven|jovem|юный||||젊다||जवान|||||juna|nuori|młody
+jovan fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
+jovan jan||||youth (young person)||joven|||||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
+jovan man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
+jovan moka||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
+jovan ta||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
 judau||||judo||yudo|||||||||||||ĵudo|judo|judo
 jude||||judgment (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
 jude di||||judicial||||||||||||||||oikeudellinen|
@@ -2953,7 +2953,7 @@ pei|||eng:pay, fra:paye, + zho:费 (fèi)|payment||pago||||||||||||||maksu|zapł
 pei gong||||profession (job, occupation, trade, vocation)|profession (métier)|profesión (ocupación)|profissão|профессия|مِهْنَة‎|职业|職業|직업|nghề nghiệp|पेशा|পেশা|profesi||meslek|metiero|ammatti|profesja, zajęcie, zawód
 pei gong di||||professional (occupational, career)||profesional (de carrera)||профессиона́льный|||プロフェッショナル|||||ahli||profesyonel|||
 pei gong ja||||professional (pro)||||профессионал (профи)|||プロフェッショナル|||||||||ammattilainen|
-pei gong jiu||||career (professional life)|carrière|carrera|carreira|карьера|‎||キャリア|||||karier|shughuli|kariyer|||
+pei gong jiva||||career (professional life)|carrière|carrera|carreira|карьера|‎||キャリア|||||karier|shughuli|kariyer|||
 pelmen|||rus:пельмень (pel'men'), pol:pielmeni, eng:pelmeni|dumpling (ravioli, pelmeni)||empanada (pelmeni)||||饺子||||||||||myky (pelmeni, ravioli)|kluska, knedel, pieróg; ravioli, pelmeni
 pelpel|bio|Lepidoptera|por:borboleta, fra:papillon, ita:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), swa:kipepeo, yor:labalábá, tgl:paruparo|butterfly (moth)|papillon|mariposa (palomilla)|borboleta|бабочка (мотылёк)|فراشة|蝴蝶|チョウ|||तितली (शलभ, पतंगा)||kupu-kupu|kipepeo|kelebek|papilio|perhonen|motyl
 pende|||eng:pendant, por:fra:pender|hang (dangle)||colgar||||||||||||||roikuttaa|powiesić, wieszać
@@ -3861,10 +3861,11 @@ uze bil di||||usable (available)||utilizable (disponible)|||||使用可能||||||
 uze ja||||user||usuario||||||||||||||käyttäjä|użytkownik
 uze ja nam||||username||nombre de usuario||||||||||||||käyttäjänimi|nazwa użytkownika
 V||||V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V
-va|||eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|wow! (gee!)|ouah|guau (vaya)|uau|вау!||哇|わあ|와||वाह||wah|||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
+va|prep.||ara: و‎ (wa), hin:व (va), fas:urd: و‎ (va), tur:ve + yue:和 (wo4), vie:và|with (there be; have)|avec|con||с||和|||||||||kun|kanssa (kera, -lla)|
 vaf|bio||eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog|chien|perro|cão (cachorro)|собака|كَلْب‎|狗|犬 (狗)|개|chó|कुत्ता|কুকুর|anjing (asu)|mbwa|köpek|hundo|koira|pies
 vagina|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
 vagina flame||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy
+vah|||eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|wow! (gee!)|ouah|guau (vaya)|uau|вау!||哇|わあ|와||वाह||wah|||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
 vai|||zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), kor:외 (oe), vie:ngoại;ngoài|outside (exterior)|extérieur|fuera (exterior)|exterior|вне||外|外|||बाहरी||luar (pinggir, tepi)|nje|dış|ekstero|ulkopuoli|zęwnętrzny
 vai desha||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
 vai desha di||||foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
