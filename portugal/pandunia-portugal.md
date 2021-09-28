@@ -570,11 +570,11 @@ huli - raposa
 huru - livre (forro)  
 ####I - I  
 in bum - imploção  
-in ten gi - contêiner  
 in klus - incluindo  
 in klus di - inclusivo  
 in migra - imigrar  
 in migra ja - imigrante  
+in ten gi - contêiner  
 insan - ser humano  
 insan di - humano  
 insan haki - direitos humanos  
@@ -587,6 +587,7 @@ islam din - islã
 jaga - acordado  
 jama karde - cromo  
 jamul - jambolão (jambo)  
+jan buda din - budismo zen  
 janela - janela  
 jangal - selva (floresta, jângal)  
 jara - jarra (jarro)  
@@ -596,7 +597,6 @@ jeka - emprestar (pedir emprestado)
 jeka deku - pedir emprestado  
 jeka dona - emprestar  
 jen - pessoa  
-jen buda din - budismo zen  
 jene basha - língua materna  
 jene logi - genealogia  
 jene loka - terra natal  
@@ -1016,9 +1016,6 @@ nove ta - novidade
 o - ou  
 oganeson - oganesson  
 ohtopus - polvo  
-oko - olho  
-oko di - ocular  
-oko sui gas - gás lacrimogéneo  
 oksi - oxigénio  
 okside - óxide  
 onda - onda  
@@ -1387,8 +1384,8 @@ uma bichi - chibata
 un - um (1)  
 un di - único (só)  
 un mar - uma vez  
-un oko di lense - monóculo  
 un verse di - universal  
+un yen di lense - monóculo  
 un zai di - só (solitário)  
 unta liga - união  
 ura - urra  
@@ -1458,6 +1455,9 @@ yasen - freixo
 yatim dom - orfanato  
 yau di - necessário  
 yau ta - necessidade  
+yen - olho  
+yen di - ocular  
+yen sui gas - gás lacrimogéneo  
 yepa - folha  
 yepa alga - kelp  
 yepa late - página  

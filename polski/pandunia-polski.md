@@ -94,6 +94,7 @@ an sekse di - aseksualny
 an sora - otworzyć (otwierać, odkluczyć, odkluczać)  
 an sora di - zamknięty na klucz (zakluczony)  
 an tapa - odetkać, odtykać  
+an yau di - niepotrzebny  
 anda - jajko (jajo)  
 Andes - Andy  
 andesite - andezyt  
@@ -888,7 +889,6 @@ fa nomi - zarządzać (organizować, kierować)
 fa note - powiadomić, powiadamiać  
 fa nove - odnowić, odnawiać, uczynić nowym  
 fa oke - zaakceptować, akceptować, powiedzieć okej, mówić okej  
-fa oko - patrzeć (oglądać)  
 fa ore - słuchać  
 fa orto - wprostowywać (wyprostować)  
 fa pade - upuścić, upuszczać  
@@ -971,6 +971,7 @@ fa vise - zastąpić (podstawić, zamienić)
 fa vode - obiecać, angażować się  
 fa vote - głosować (złożyć głos)  
 fa yagu - oszacować, szacować, przybliżyć, przybliżać  
+fa yen - patrzeć (oglądać)  
 faida - zasób  
 faida - zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
 faida di - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
@@ -1431,13 +1432,13 @@ imperi sim ja - imperialista
 in - wnętrze (środek)  
 in bum - implozja  
 in di - wewnętrzny  
-in ten - zawierać  
 in jene di - wewnętrzny  
 in liste - spis treści (tabela zawartości)  
 in mise - importować (zaimportować)  
 in nam - endonim  
 in pushe - ścisnąć (sciskać, wycisnąć)  
 in she - treść (zawartość)  
+in ten - zawierać  
 Indonesi - Indonezja  
 insan - człowiek, istota ludzka  
 insan di - ludzki  
@@ -1478,6 +1479,7 @@ jama di - zbiorowy, zbiorczy
 Jamaika - Jamajka  
 jampe - skoczyć, skakać  
 jamul - czapetka kuminowa  
+jan - medytować; dumać, rozmyślać, zastanawiać się  
 janela - okno  
 jang - walka, wojna  
 jang di - militarny, wojskowy, wojenny  
@@ -1501,7 +1503,6 @@ jela kan - więzienie, zakład karny
 jele - żel, galareta  
 jelosi - zazdrosny  
 jen - osoba  
-jen - medytować; dumać, rozmyślać, zastanawiać się  
 jen di - osobisty, intymny, prywatny  
 jene - narodziny  
 jene basha - język ojczysty (język rodzimy)  
@@ -2390,7 +2391,6 @@ Niue - Niue
 niuton - niuton (N)  
 no - nie  
 no na lin - offline (nie na linii, poza siecią)  
-no yau di - niepotrzebny  
 nobel yum - nobel  
 nobi - genderqueer, niebinarny  
 noche - noc  
@@ -2443,10 +2443,6 @@ Odisa - orija
 oganeson - oganesson  
 ohtopus - ośmiornica  
 oke - okej, spoko, akceptowalny  
-oko - oko  
-oko kesha - rzęsa  
-oko sui - łza  
-oko sui gas - gaz łzawiący  
 oksi - tlen  
 okside - tlenek  
 Olande nesi - Wyspy Alandzkie  
@@ -3495,6 +3491,10 @@ yehudi - żydowski
 yehudi din - judaizm  
 yei - jej  
 Yemen - Jemen  
+yen - oko  
+yen kesha - rzęsa  
+yen sui - łza  
+yen sui gas - gaz łzawiący  
 yepa - kartka (dokument)  
 yepa alga - listownicowiec  
 yepa late - strona  

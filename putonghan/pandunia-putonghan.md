@@ -571,6 +571,7 @@ iris yum - 铱
 islam din - 回教 (伊斯蘭教)  
 ####J - J  
 jamul - 閻浮樹  
+jan buda din - 禅宗  
 janela - 窗戶  
 janela frem - 窗框  
 jang - 戰爭 (斗争, 战斗)  
@@ -583,7 +584,6 @@ jeka deku - 借入
 jeka dona - 借出  
 jela kan - 监狱 (监牢)  
 jen - 人  
-jen buda din - 禅宗  
 jene basha - 母语  
 jene di - 生的  
 jene logi - 系谱学  
@@ -975,8 +975,6 @@ nove loga - 新词
 ####O - O  
 o - 或  
 ohtopus - 章鱼  
-oko - 眼睛  
-oko sui gas - 催泪瓦斯  
 oksi - 氧  
 okside - 氧化物  
 onda - 波浪  
@@ -1406,6 +1404,8 @@ yatim dom - 孤儿院
 yau di - 必要的  
 ye - 他，她，它  
 yeka kanon - 易经 (周易)  
+yen - 眼睛  
+yen sui gas - 催泪瓦斯  
 yepa - 叶  
 Yesa - 耶稣  
 Yesa Mesi - 耶稣基督  

@@ -108,6 +108,7 @@ an sona - unettomuus
 an sora - avata lukko  
 an sora di - lukitsematon  
 an tapa - korkata  
+an yau di - tarpeeton  
 anda - muna  
 Andes - Andit  
 andesite - andesiitti  
@@ -1024,7 +1025,6 @@ fa nomi - järjestellä (hallinnoida, organisoida, manageroida)
 fa note - huomauttaa  
 fa nove - uudistaa  
 fa oke - hyväksyä  
-fa oko - silmäillä (katsoa, tarkkailla)  
 fa onor - kunnioittaa  
 fa ore - kuunnella  
 fa orto - suoristaa (ojentaa)  
@@ -1126,6 +1126,7 @@ fa vise - korvata
 fa vode - luvata (vannoa)  
 fa vote - äänestää  
 fa yagu - arvioida  
+fa yen - silmäillä (katsoa, tarkkailla)  
 faida - hyöty (etu)  
 faida - hyödyllisyys  
 faida di - hyödyllinen  
@@ -1645,8 +1646,6 @@ imperi sim ja - imperialisti
 in - sisus (sisäpuoli)  
 in bum - luhistuminen  
 in di - sisä- (sisäinen)  
-in ten - sisältää  
-in ten gi - kontti  
 in jene di - sisäsyntyinen  
 in klus - mukaan lukien  
 in klus di - kattava  
@@ -1657,6 +1656,8 @@ in mise - tuoda sisään
 in nam - endonyymi (omakielinen nimi)  
 in pushe - pusertaa  
 in she - sisältö  
+in ten - sisältää  
+in ten gi - kontti  
 in verse jan - sisäänpäinsuuntautunut (introvertti)  
 in vide - introspektio  
 Indonesi - Indonesia  
@@ -1701,6 +1702,8 @@ jama karde - keräilykortti
 Jamaika - Jamaika  
 jampe - hypätä (hyppiä)  
 jamul - jambolaani  
+jan - pohtia (meditoida)  
+jan buda din - zenbuddhalaisuus  
 janela - ikkuna  
 janela frem - ikkunankehys (ikkunanpuite)  
 jang - taistelu (sota)  
@@ -1721,8 +1724,6 @@ jela kan - vankila
 jele - hyytelö  
 jelosi - kade (kateellinen)  
 jen - henkilö  
-jen - pohtia (meditoida)  
-jen buda din - zenbuddhalaisuus  
 jen di - henkilökohtainen (privaatti)  
 jene - synty (syntymä)  
 jene basha - äidinkieli  
@@ -2570,7 +2571,6 @@ nitre - typpi
 Niue - Niue  
 niuton - newton (N)  
 no - ei  
-no yau di - tarpeeton  
 nobel yum - nobelium  
 nobi - muunsukupuolinen  
 noche - yö  
@@ -2628,10 +2628,6 @@ oganeson - oganesson
 ohtopus - mustekala  
 oke - kelpo (okei)  
 oke loga - hyväksyntä  
-oko - silmä  
-oko di - silmä-  
-oko kesha - silmäripsi  
-oko sui - kyynel  
 oksi - happi  
 okside - oksidi  
 Olande nesi - Ahvenanmaa (Oolanti)  
@@ -3521,10 +3517,10 @@ un di - vain (ainoa, ainut)
 un mana di - yksimerkityksinen  
 un mar - kerran  
 un me - ensimmäinen (numero yksi)  
-un oko di lense - monokkeli  
 un rang di - yksivärinen  
 un she sim - monismi  
 un verse di - universaali  
+un yen di lense - monokkeli  
 un zai di - yksinäinen  
 unta - ykseys  
 Unta Arabi Amir Desha (UAA) - Yhdistyneet Arabiemiirikunnat  
@@ -3700,6 +3696,10 @@ yei - jee! (hurraa!)
 yeka - vaihtaa (tehdä vaihtokauppa)  
 yeka kanon - Muutosten kirja (I Ching)  
 Yemen - Jemen  
+yen - silmä  
+yen di - silmä-  
+yen kesha - silmäripsi  
+yen sui - kyynel  
 yepa - lehti (arkki, levy)  
 yepa late - sivu (kirjassa)  
 Yesa - Jeesus  

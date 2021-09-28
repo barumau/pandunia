@@ -3,7 +3,7 @@
 <small>tarjum da _Erjo_</small>
 
 na tele pas, un gui be dom na nicha da un kiau, jo transe un rivo.
-la gui ya ten un dus rupa. ye ten oko jo dai ka tasa, e nos jo long ka bele.
+la gui ya ten un dus rupa. ye ten yen jo dai ka tasa, e nos jo long ka bele.
 
 na un den, la gui ya audi un lili soni ze supra da kiau.
 «ke jen ya marche na mi su kiau?» la gui ya krita.
@@ -37,10 +37,10 @@ na pos da lili zaman, bari kelele be audi ze supra da kiau.
 
 «zai mi kape tu!» la gui ya loga.
 
-«ya, ching lai! mi ten du korne, va jo mi sha harabu tu su oko.
+«ya, ching lai! mi ten du korne, va jo mi sha harabu tu su yen.
 mi ten du dai jeng seku, va jo mi sha parcha tu su oste.»
 
-e pos la, la dai behe ya harabu gui su oko, e parcha la gui su oste, e lanse la gui do rivo.
+e pos la, la dai behe ya harabu gui su yen, e parcha la gui su oste, e lanse la gui do rivo.
 pos la, ye marcha do gazo topo.
 na gazo topo, pan behe yam do se si gola.
 yemon sun no ten la energi do fuka do dom.

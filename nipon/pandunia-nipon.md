@@ -34,6 +34,7 @@ an jama - 散らす
 an jama di - 疎ら  
 an memo - 忘れる  
 an sona - 不眠症  
+an yau di - 不要  
 andesite - 安山岩  
 angul - 指  
 angul marke - 指紋  
@@ -554,9 +555,9 @@ huru - 自由
 ####I - I  
 iha uma - 騾馬  
 in - 内  
-in ten gi - コンテナ  
 in migra - 移住する (移民する)  
 in migra ja - 移民 (移住者)  
+in ten gi - コンテナ  
 in verse jan - 内向的な人  
 insan - 人間  
 insan haki - 人権  
@@ -568,6 +569,7 @@ ironi di - 反語的
 islam din - イスラム教  
 ####J - J  
 jamul - フトモモ  
+jan buda din - 禅宗  
 janela - 窓  
 jang - 戦闘 (格闘)  
 jangal - 森 (森林, ジャングル)  
@@ -578,7 +580,6 @@ jeka deku - 借りる
 jeka dona - 貸す  
 jela kan - 監獄  
 jen - 人 (者, 員, 徒)  
-jen buda din - 禅宗  
 jene di - 生 (未熟)  
 jene logi - 系譜学  
 jene loka - 出生地  
@@ -973,7 +974,6 @@ nipon yum - ニホニウム
 nish - 壁龕  
 nitre - 窒素  
 no - いいえ  
-no yau di - 不要  
 nobel yum - ノーベリウム  
 noche - 夜  
 Noe di nave - ノアの箱舟  
@@ -991,8 +991,6 @@ nove yang di - 近代的
 oganeson - オガネソン  
 ohtopus - タコ  
 oke - 大丈夫 (ＯＫ)  
-oko - 目  
-oko sui gas - 催涙ガス  
 oksi - 酸素  
 onda - 波  
 oranje rang - オレンジ色の  
@@ -1407,6 +1405,8 @@ yau - 要る
 yau di - 必要  
 yau ta - 必要  
 yeka kanon - 易経  
+yen - 目  
+yen sui gas - 催涙ガス  
 yepa - 葉  
 yepa alga - コンブ  
 yepa late - ページ (面)  

@@ -1441,7 +1441,7 @@ kyselylomake - sual dokumen
 kysymys - sual  
 kysyvä - sual di  
 kysyä - fa sual  
-kyynel - oko sui  
+kyynel - yen sui  
 kyynärpää - kudi  
 kyynäränmitta - kudi metre  
 kärki (pää) - pike  
@@ -1912,7 +1912,7 @@ monikulmio (polygoni) - poli gona
 monimerkityksinen - poli mana di  
 monismi - un she sim  
 monitahokas - poli fase  
-monokkeli - un oko di lense  
+monokkeli - un yen di lense  
 monoteismi (yksijumalisuus) - un deu sim  
 montako? (paljonko?) - ke multi di  
 Montenegro - Chernagora  
@@ -2420,7 +2420,7 @@ Pohjois-Amerikka - Norde Amerika
 Pohjois-Irlanti - Norde Aire  
 Pohjois-Korea - Norde Chosen  
 Pohjois-Kypros - Norde Kipris  
-pohtia (meditoida) - jen  
+pohtia (meditoida) - jan  
 poika (nuori mies) - jovan man  
 poika - man ben  
 poikittainen (vaaka) - vei di  
@@ -2870,10 +2870,10 @@ sileä - lis
 silkki - silke  
 silkkiäistoukka - silke larva  
 silmukkapanssari (rengashaarniska) - sili nete  
-silmä - oko  
-silmä- - oko di  
-silmäillä (katsoa, tarkkailla) - fa oko  
-silmäripsi - oko kesha  
+silmä - yen  
+silmä- - yen di  
+silmäillä (katsoa, tarkkailla) - fa yen  
+silmäripsi - yen kesha  
 silta - kio  
 simpanssi - chimpanzi  
 sinetti - mum chape  
@@ -3139,7 +3139,7 @@ tarha (puisto) - parke
 tarkistaa (tsekata, tutkia) - cheke  
 tarpeeksi (riittävästi) - basa  
 tarpeellinen - yau di  
-tarpeeton - no yau di  
+tarpeeton - an yau di  
 tarra - glu grafi  
 tartuttaa tauti - fa pati mise  
 tarve (puute) - yau ta  
@@ -3779,7 +3779,7 @@ Zarathustra - Zardush
 zarathustralainen - zardush din ja  
 zarathustralainen pappi - zardush magi ja  
 zarathustralaisuus - zardush din  
-zenbuddhalaisuus - jen buda din  
+zenbuddhalaisuus - jan buda din  
 zikkurat - zikura  
 Zimbabwe - Zimbabue  
 zirkoni - zirkon  

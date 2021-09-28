@@ -696,7 +696,7 @@ garam masala - garma masala
 gardzić (pogardzać) - fa paraya  
 gatunek - jung  
 gaz - gas  
-gaz łzawiący - oko sui gas  
+gaz łzawiący - yen sui gas  
 gaza - gaze  
 gazela - gazel  
 gazeta - habar gazeta  
@@ -1457,7 +1457,7 @@ media - medi she
 media społecznościowe - sosi medi gi  
 meduza - hai jele  
 medycyna - dava logi  
-medytować; dumać, rozmyślać, zastanawiać się - jen  
+medytować; dumać, rozmyślać, zastanawiać się - jan  
 megawat - mega vate  
 meitner - meitner yum  
 Mekka - Makah  
@@ -1703,7 +1703,7 @@ niemowlę - bebe
 nienawidzić - hen  
 niepewny (podejrzliwy, niedowierzący) - dute ja  
 niepokój - an pase  
-niepotrzebny - no yau di  
+niepotrzebny - an yau di  
 nieskończoność - an limite  
 niespodziewany - an chen vide di  
 nietoperz - fei mushu  
@@ -1828,7 +1828,7 @@ ogórek melon - melon
 ojciec - pa  
 okej, spoko, akceptowalny - oke  
 okno - janela  
-oko - oko  
+oko - yen  
 około; przybliżony - yaki  
 okrągły - gola di  
 olej - nefte  
@@ -1957,7 +1957,7 @@ paszport - pasporte
 patelnia - tava  
 patogen - pati jene she  
 patologia - pati logi  
-patrzeć (oglądać) - fa oko  
+patrzeć (oglądać) - fa yen  
 patrzeć, widzieć - vide  
 pauza (przerwa) - pauza  
 paznokieć - nahun  
@@ -2521,7 +2521,7 @@ rząd - politi
 rządzić - fa politi  
 rządzić, władać - fa sultan  
 rządzić, władać - krati  
-rzęsa - oko kesha  
+rzęsa - yen kesha  
 róg - korne  
 róg - laba  
 równik - geo par lin  
@@ -3516,7 +3516,7 @@ zły, zrujnowany, zepsuty - harabu
 łyżeczka - chai chamacha  
 łyżka - chamacha  
 łyżka stołowa - supa chamacha  
-łza - oko sui  
+łza - yen sui  
 łódź, statek - nave  
 łóżko - bede  
 łączyć (złączyć) - be yung liga  

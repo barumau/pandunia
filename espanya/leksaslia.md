@@ -563,6 +563,7 @@
 |**jake**|chaqueta|eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|
 |**jama**|colección (grupo, conjunto, montón)|ara: جَمَعَ‎ (jamaʿa), swa:jamii, tur:camia, fas: جمع (jam’), hau:jam'iyya + hin:जमात (jamāt)|
 |**jampe**|saltar (brincar)|eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
+|**jan**|meditar (reflexionar)|hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|
 |**janela**|ventana|por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|
 |**jang suta**|arte marcial|zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|
 |**jang**|pelea (guerra, batalla)|zho:爭 (zhēng), yue:爭 (zang1), vie:tranh, kor:전쟁 (jeonjaeng) + fas:urd:(jang), hin:जंग (jang), tur:ceng|
@@ -577,7 +578,6 @@
 |**jela**|prisión|eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula|
 |**jele**|gel (jalea, gelatina)|eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|
 |**jelosi**|celoso (envidioso)|eng:jealous, spa:celoso, fra:jaloux|
-|**jen**|meditar (reflexionar)|hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|
 |**jen**|persona (ista, -ador)|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|
 |**jene**|nacimiento (origen)|hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|
 |**jenshen**|ginseng|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
@@ -1009,8 +1009,6 @@
 |**oganeson**|oganesón|eng:fra:por:may:oganesson, spa:oganesón, rus:оганесон, jpn:オガネソン, kor:우누녹튬|
 |**ohtopus**|pulpo|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|
 |**oke**|bien (aceptable)|eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|
-|**oko sui**|lágrima|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
-|**oko**|ojo|spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|
 |**oksi**|oxígeno|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|
 |**onda**|onda|spa:por:ita:onda, fra:onde, may:ombak|
 |**onor**|respeto (honor)|eng:pol:spa:honor, fra:honneur, por:honra, tur:onur|
@@ -1507,6 +1505,8 @@
 |**yau**|necesitar|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
 |**ye**|él o ella|hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y|
 |**yei**|yupi|eng:yay, pol:jej, jpn:イエイ (iei)|
+|**yen sui**|lágrima|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
+|**yen**|ojo|zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain + fra:yeux|
 |**yepa**|hoja|zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)|
 |**yezi**|coco|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
 |**yo**|algún|zho:有 (yǒu), yue:有 (jau5)|

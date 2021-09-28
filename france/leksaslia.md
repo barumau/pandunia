@@ -585,7 +585,6 @@
 |**o**|ou|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
 |**oganeson**|oganesson|eng:fra:por:may:oganesson, spa:oganesón, rus:оганесон, jpn:オガネソン, kor:우누녹튬|
 |**ohtopus**|Poulpe (pieuvre)|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|
-|**oko**|œil|spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|
 |**oksi**|oxygène|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|
 |**onda**|onde|spa:por:ita:onda, fra:onde, may:ombak|
 |**onor**|honneur|eng:pol:spa:honor, fra:honneur, por:honra, tur:onur|
@@ -847,6 +846,7 @@
 |**xenon**|xénon|eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون|
 |**ya**|oui|may:ya, deu:ja, eng:yeah, kor:예 (ye) + zho:呀/啊 (ya/a)|
 |**yasen**|frêne|rus:ясень (yasen’), pol:jesion|
+|**yen**|œil|zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain + fra:yeux|
 |**yepa**|feuille|zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)|
 |**yogo**|joug|eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách|
 |**yogur**|yaourt (yogourt)|eng:may:yogurt, fra:yogourt, spa:yogur, por:iogurte, rus:йогурт (yogurt), zho:优格 (yōugé), jpn:ヨーグルト (yōguruto), kor:요구르트 (yogureuteu), tur:yoğurt |

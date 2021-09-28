@@ -110,6 +110,7 @@ an sona||||insomnia|insomnie|insomnio|insônia|бессонница (инсом�
 an sora||||unlock||||||||||||||||avata lukko|otworzyć (otwierać, odkluczyć, odkluczać)
 an sora di||||unlocked||||||||||||||||lukitsematon|zamknięty na klucz (zakluczony)
 an tapa||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać, odtykać
+an yau di||||unnecessary (extraneous, unneeded)|inutile|innecesario|||||不要|||||||||tarpeeton|niepotrzebny
 anda|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|egg|oeuf|huevo|||||||||||||ovo|muna|jajko (jajo)
 Andes||||Andes|Andes|Andes|||||||||||||Andoj|Andit|Andy
 andesite|||spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|andesite|andésite|andesita|andesito|андезит||安山岩|安山岩|||||||||andesiitti|andezyt
@@ -1038,7 +1039,6 @@ fa nomi||||manage (organize)|organiser|organizar (gestionar)|organizar|орга�
 fa note||||notify||avisar (notificar)||||||||||||||huomauttaa|powiadomić, powiadamiać
 fa nove||||renew (make new, renovate)||renovar||||||||||||||uudistaa|odnowić, odnawiać, uczynić nowym
 fa oke||||accept (say okay)||aceptar||||||||||||||hyväksyä|zaakceptować, akceptować, powiedzieć okej, mówić okej
-fa oko||||eye (look, watch, observe, spectate)|||||||||||||||okulumi|silmäillä (katsoa, tarkkailla)|patrzeć (oglądać)
 fa onor||||respect (honor, think highly of)|honorer|honrar|honrar|чтить||||||||menghormati|kusharifu|||kunnioittaa|
 fa ore||||listen||escuchar (oír)||||||||||||||kuunnella|słuchać
 fa orto||||straighten||enderezar (poner recto)||||||||||||||suoristaa (ojentaa)|wprostowywać (wyprostować)
@@ -1140,6 +1140,7 @@ fa vise||||substitute (replace)||sustituir (reemplezar)||||||||||||||korvata|zas
 fa vode||||promise (pledge)|promettre|prometer (comprometerse)||||许诺|||||||||promesi|luvata (vannoa)|obiecać, angażować się
 fa vote||||vote (cast a vote)||votar|votar|||||||||||||äänestää|głosować (złożyć głos)
 fa yagu||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
+fa yen||||eye (look, watch, observe, spectate)|||||||||||||||okulumi|silmäillä (katsoa, tarkkailla)|patrzeć (oglądać)
 faida||||resource (utility, asset)||||||||||||||||hyöty (etu)|zasób
 faida|||ara:(fāʾida), tur:fayda, swa:faida, hin:फ़ायदा (fāyadā), may:faedah|use (utility, benefit, gain, advantage)||uso (utilidad, beneficio)||применение (утилитарность)||效用 (好处)|使用 (為, 利)|||फ़ायदा||kegunaan (faedah)|faida|avantaj (fayda, yarar)|utileco|hyödyllisyys|zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)
 faida di||||useful (beneficial, advantageous)||útil (beneficioso)|||||||||||||utila|hyödyllinen|użyteczny, pomocny, przydatny, pożyteczny, korzystny
@@ -1670,8 +1671,6 @@ imperi sim ja||||imperialist||imperialista||||||||||||||imperialisti|imperialist
 in|||eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|inside (interior)||interior|||||内||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
 in bum||||implosion|implosion|implosión|imploção|имплозия||内爆||||||||||luhistuminen|implozja
 in di||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
-in ten||||contain (include)||contener||||||||||||||sisältää|zawierać
-in ten gi||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
 in jene di||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
 in klus||||including|y compris|incluido|incluindo|||||||||||||mukaan lukien|
 in klus di||||inclusive|inclusif|inclusivo|inclusivo|||||||||||||kattava|
@@ -1682,6 +1681,8 @@ in mise||||import||importar||||||||||||||tuoda sisään|importować (zaimportowa
 in nam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
 in pushe||||squeeze (squish)||||||||||||||||pusertaa|ścisnąć (sciskać, wycisnąć)
 in she||||content||contenido||||||||||||||sisältö|treść (zawartość)
+in ten||||contain (include)||contener||||||||||||||sisältää|zawierać
+in ten gi||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
 in verse jan||||introvert|introverti|introvertido||интроверт||内向的|内向的な人|||||||||sisäänpäinsuuntautunut (introvertti)|
 in vide||||introspection||||||||||||||||introspektio|
 Indonesi|desha|ID||Indonesia||Indonesia|||||||||||||Indonezio|Indonesia|Indonezja
@@ -1726,6 +1727,8 @@ jama karde||||trading card|carte à collectionner|cromo|cromo|||||||||||||keräi
 Jamaika|desha|JM||Jamaica||Jamaica|||||||||||||Jamajko|Jamaika|Jamajka
 jampe|||eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|jump||saltar (brincar)|||||||||||||salti|hypätä (hyppiä)|skoczyć, skakać
 jamul|bio|Syzygium|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|jamul (jambul, rose apple)|prune de Java||jambolão (jambo)|джамболан||閻浮樹|フトモモ|||जामुन|||zambarau|||jambolaani|czapetka kuminowa
+jan|||hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|meditate (contemplate, ponder, cogitate)||meditar (reflexionar)||||||||||||||pohtia (meditoida)|medytować; dumać, rozmyślać, zastanawiać się
+jan buda din||||Zen Buddhism|zen|budismo zen|budismo zen|дзен-буддизм||禅宗|禅宗|선종||||||||zenbuddhalaisuus|
 janela|||por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|window|fenêtre|ventana|janela|окно|شباك‎|窗戶|窓|창|cửa sổ|खिड़की|জানালা|jendela|dirisha|pencere|fenestro|ikkuna|okno
 janela frem||||window frame||||||窗框|||||||||fenestrokadro|ikkunankehys (ikkunanpuite)|
 jang|||zho:爭 (zhēng), yue:爭 (zang1), vie:tranh, kor:전쟁 (jeonjaeng) + fas:urd:(jang), hin:जंग (jang), tur:ceng|fight (war, battle, combat)||pelea (guerra, batalla)||||戰爭 (斗争, 战斗)|戦闘 (格闘)|||||||savaş (ceng)|milito (batalo)|taistelu (sota)|walka, wojna
@@ -1751,8 +1754,6 @@ jela kan||||prison (jail)|prison (geôle)|cárcel||||监狱 (监牢)|監獄|감�
 jele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)||gel (jalea, gelatina)|||||||||||||ĝelo|hyytelö|żel, galareta
 jelosi|||eng:jealous, spa:celoso, fra:jaloux|jealous||celoso (envidioso)||||||||||||||kade (kateellinen)|zazdrosny
 jen|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|person (individual, -ist, -er)|personne|persona (ista, -ador)|pessoa|||人|人 (者, 員, 徒)||||||||persono|henkilö|osoba
-jen|||hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)|meditate (contemplate, ponder, cogitate)||meditar (reflexionar)||||||||||||||pohtia (meditoida)|medytować; dumać, rozmyślać, zastanawiać się
-jen buda din||||Zen Buddhism|zen|budismo zen|budismo zen|дзен-буддизм||禅宗|禅宗|선종||||||||zenbuddhalaisuus|
 jen di||||personal (intimate, private, custom)||personal (privado, a medida)||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
 jene|||hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|birth||nacimiento (origen)|||||||||||||nasko|synty (syntymä)|narodziny
 jene basha||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
@@ -2746,7 +2747,6 @@ Niue|desha|NU||Niue||Niue||||||||||||||Niue|Niue
 niuton|unomete|N||newton (N)||newton (N)|||||||||||||newtono (N)|newton (N)|niuton (N)
 no|||eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|not (no)|non (ne...pas)|no|não|нет (не)||不|いいえ|||नहीं|না|tidak|||ne|ei|nie
 no na lin||||offline||||||离线|||||||||||offline (nie na linii, poza siecią)
-no yau di||||unnecessary (extraneous, unneeded)|inutile|innecesario|||||不要|||||||||tarpeeton|niepotrzebny
 nobel yum|yum 102|No|eng:nobelium, fra:nobélium, spa:nobelio, por:nobélio, rus:нобелий, zho:锘 (nuò), jpn:ノーベリウム, kor:노벨륨, vie:nobeli, hin:नोबेलियम, ben:নোবেলিয়াম, may:nobelium, swa:nobeli, ara: نوبليوم|nobelium|nobélium|nobelio|nobélio|нобелий|نوبليوم|锘|ノーベリウム|노벨륨|nobeli|नोबेलियम|নোবেলিয়াম|nobelium|nobeli|nobelyum|nobelio|nobelium|nobel
 nobi||||genderqueer (non-binary)|non-binaire|no binario (género)|não-binário||||||||||||neduuma|muunsukupuolinen|genderqueer, niebinarny
 noche|||spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|night|noit|noche|noite|ночь||夜|夜|||रात||malam||gece|nokto|yö|noc
@@ -2810,11 +2810,6 @@ oganeson|yum 118|Og|eng:fra:por:may:oganesson, spa:oganesón, rus:оганесо
 ohtopus|bio|Octopodiformes|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|octopus|Poulpe (pieuvre)|pulpo|polvo|спрут (осьминог)|أخطبوط|章鱼|タコ|낙지 (문어)|bạch tuộc|||gurita|pweza|ahtapot||mustekala|ośmiornica
 oke|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptable)||bien (aceptable)|||||大丈夫 (ＯＫ)||||||||akceptebla (okej)|kelpo (okei)|okej, spoko, akceptowalny
 oke loga||||okay (acceptance)||||||||||||||||hyväksyntä|
-oko|bode||spa:ojo, rus:око (oko), ben:অক্ষি (ôkkhi) + eng:por:ocular, fra:oculaire|eye|œil|ojo|olho|глаз (око)|عَيْن|眼睛|目|눈|mắt|आँख (नैन, नेत्र)|চোখ (অক্ষি)|mata|jicho|göz|okulo|silmä|oko
-oko di||||ocular|oculaire|ocular|ocular|глазной|عَيْنِيّ||||||||||okula|silmä-|
-oko kesha||||eyelash||pestaña||||||||||||||silmäripsi|rzęsa
-oko sui|||tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|tear drop||lágrima||||||||||||||kyynel|łza
-oko sui gas||||tear gas|gaz lacrymogène|gas lacrimógeno|gás lacrimogéneo|слезоточи́вый газ||催泪瓦斯|催涙ガス||hơi cay||||||||gaz łzawiący
 oksi|yum 008|O|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|oxygen|oxygène|oxígeno|oxigénio|кислород|أكسجين|氧|酸素|산소|oxy, oxi|ऑक्सीजन|অক্সিজেন|oksigen|oksijeni|oksijen|oksigeno|happi|tlen
 okside||||oxide|oxyde|óxide|óxide|окись (оксид)||氧化物|||||||||oksido|oksidi|tlenek
 Olande nesi|desha|AX||Aland Islands||islas Aland||||||||||||||Ahvenanmaa (Oolanti)|Wyspy Alandzkie
@@ -3838,10 +3833,10 @@ un di||||only (single, sole, lone, just)|seul (unique)|único (únicamente, solo
 un mana di||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
 un mar||||once (one time)|une fois|una vez|uma vez|один раз||一次 (一遍)||一度 (一回, 一遍)|한번|एक बार|||||unufoje|kerran|raz (jeden raz)
 un me||||first (number one)||primero (numbre uno)||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
-un oko di lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un rang di||||monochrome||monocromático||||||||||||||yksivärinen|jednokolorowy (monochromatyczny)
 un she sim||||monism||monismo|||||||||||||monismo|monismi|monizm
 un verse di||||universal|universel|universal|universal|||||||||||||universaali|
+un yen di lense||||monocle|monocle|monóculo|monóculo|монокль|||||||||||monoklo|monokkeli|
 un zai di||||alone (lonely, isolated, solitary, single)||solo (aislado, solitary, soltero)|só (solitário)|одинокий (единичный)||独自的 (孤单)|一人の (寂しい, ポツリ)|||एकाकी||seorangan (sendiri)||||yksinäinen|
 unta||||unity||unidad (unión)||единица||团结 (统一)|団結 (統一)|||||kesatuan|umoja|birlik (ünite)||ykseys|
 Unta Arabi Amir Desha (UAA)|desha|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
@@ -4021,6 +4016,11 @@ yei|||eng:yay, pol:jej, jpn:イエイ (iei)|yay! (yeah!)||yupi||||||||||||||jee!
 yeka|||zho:易 (yì), yue:易 (yik6), jpn:易 (eki), kor:역 (yeok), vie:dịch|exchange (replace, trade, swap)||||||||||||||||vaihtaa (tehdä vaihtokauppa)|
 yeka kanon||||I Ching (the Book of Changes)|Yi King|||Книга Перемен||易经 (周易)|易経|역경|Kinh Dịch||||||Libro de ŝanĝiĝoj (I Ĉing)|Muutosten kirja (I Ching)|
 Yemen||||Yemen||Yemen||Йемен|||||||||||Jemeno|Jemen|Jemen
+yen|bode||zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain + fra:yeux|eye|œil|ojo|olho|глаз (око)|عَيْن|眼睛|目|눈|mắt|आँख (नैन, नेत्र)|চোখ (অক্ষি)|mata|jicho|göz|okulo|silmä|oko
+yen di||||ocular|oculaire|ocular|ocular|глазной|عَيْنِيّ||||||||||okula|silmä-|
+yen kesha||||eyelash||pestaña||||||||||||||silmäripsi|rzęsa
+yen sui|||tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|tear drop||lágrima||||||||||||||kyynel|łza
+yen sui gas||||tear gas|gaz lacrymogène|gas lacrimógeno|gás lacrimogéneo|слезоточи́вый газ||催泪瓦斯|催涙ガス||hơi cay||||||||gaz łzawiący
 yepa|||zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)|leaf (sheet)|feuille|hoja|folha|лист||叶|葉|잎|lá|पत्ता|পাতা|daun|jani|yaprak|folio|lehti (arkki, levy)|kartka (dokument)
 yepa alga||||kelp|varech|kelp|kelp||||コンブ|||||kelp|||||listownicowiec
 yepa late||||page (side of a leaf of a book)|page|página|página||||ページ (面)||||||||paĝo|sivu (kirjassa)|strona

@@ -620,9 +620,9 @@ huru - свободный (вольный)
 ####I - I  
 iha uma - мул  
 in bum - имплозия  
-in ten gi - контейнер  
 in migra - иммигрировать  
 in migra ja - иммигрант  
+in ten gi - контейнер  
 in verse jan - интроверт  
 insan - человек  
 insan di - человечный  
@@ -634,12 +634,12 @@ ironi - ирония
 islam din - ислам (мусульманство)  
 ####J - J  
 jamul - джамболан  
+jan buda din - дзен-буддизм  
 janela - окно  
 jangal - лес (джунгли)  
 jara - кувшин (графин)  
 jau - ячмень  
 javabu - ответ  
-jen buda din - дзен-буддизм  
 jene basha - родной язык  
 jene di - сырой  
 jene grupe - поколение  
@@ -1075,9 +1075,6 @@ nu - ну
 o - или  
 oganeson - оганесон  
 ohtopus - спрут (осьминог)  
-oko - глаз (око)  
-oko di - глазной  
-oko sui gas - слезоточи́вый газ  
 oksi - кислород  
 okside - окись (оксид)  
 onor - честь  
@@ -1498,7 +1495,7 @@ uma bichi - хлыст
 un - один (1)  
 un di - только (единственно, единственный, уникальный)  
 un mar - один раз  
-un oko di lense - монокль  
+un yen di lense - монокль  
 un zai di - одинокий (единичный)  
 unta - единица  
 unta liga - союз  
@@ -1581,6 +1578,9 @@ yau di - нужный
 yau ta - нужда  
 yeka kanon - Книга Перемен  
 Yemen - Йемен  
+yen - глаз (око)  
+yen di - глазной  
+yen sui gas - слезоточи́вый газ  
 yepa - лист  
 Yesa - Иисус  
 Yesa Mesi - Иисус Христос  

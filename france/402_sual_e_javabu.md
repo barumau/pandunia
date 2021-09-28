@@ -110,26 +110,8 @@ Le Pandunia est une langue analytique avec un peu d'agglutination. Il utilise de
 Pour voir la différence, comparons une même phrase en espéranto (langue agglutinante) et en Pandunia.
 
     Esperanto: Mi vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
-    Pandunia:  mi vol     vide   tu su     du  sundar     oko         na zai.
+    Pandunia:  mi vol     vide   tu su     du  sundar     yen         na zai.
     Français:  Je veux    voir   tes       deux beaux     yeux        maintenant.
-
-#### Pourquoi la lettre X se prononce SH ?
-
-Le Pandunia suit le principe phonétique une lettre, un son ; un son, une lettre.
-
-Il n'y a pas de lettre dédiée pour /ʃ/ dans l'alphabet latin. Ce son est reproduit en combinant deux lettres ou plus comme CH en français, SH en anglais, SCH en allemand, SJ en suédois, SZ en polonais, Š en tchèque et Ş en turc.
-
-Cependant, une poignée de langues utilisent la lettre X pour reproduire le son /ʃ/. Le basque et le maltais le font sans exception. Le portugais et le catalan sont moins cohérents, mais la lettre X représente cependant assez fréquement le /ʃ/ . Le mot Pandunia **xampu** s'écrit exactement de la même façon qu'en portugais ; il signifie shampooing.
-
-Dans le système de romanisation chinois - le Pīnyīn -, la lettre X est représenté par le symbole /ɕ/ qui est proche de /ʃ/. Le Pandunia utilise beaucoup de mot avec le son X (ch) chinois, par exemple  **xia, xim, xin** et **xuxi**.
-
-
-#### Pourquoi la lettre C se prononce TCH ?
-
-En fait, il existe plusieurs langues où C se prononce TCH. Certaines d'entre elles sont indonésiennes, Hausa, Oromo et Rwandais. En italien, lorsque le C est suivi de E ou I, on le prononce /tʃ/ (tch) comme dans _cello_ et _cappuccino_.
-
-D'autre part, la lettre C peut avoir plusieurs sonorité en français comme en anglais. 
-Puisqu'il est tout à fait possible de représenter le C dur par la lettre K et le C mou par un S, on peut donc utiliser la lettre C pour prononcer le son TCH.
 
 #### "Salam" ne devrait-il pas signifier "paix" ?
 

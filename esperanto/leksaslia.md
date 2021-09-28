@@ -717,7 +717,6 @@
 |**o**|aŭ|angla:or, hispana:filipina:o, franca:portugala:ou, mandarena:或 (huò), araba:(ʾaw)|
 |**oganeson**|oganesono|angla:franca:portugala:malaja:oganesson, hispana:oganesón, rusa:оганесон, japana:オガネソン, korea:우누녹튬|
 |**oke**|akceptebla (okej)|angla:okay, hispana:turka:malaja:okey, portugala:OK, rusa:окей (okej), araba:أُوكِي‎‎‎ (ʾokey), hindia:ओके (oke), mandarena:OK (ōukèi), japana:オーケー (ōkē)|
-|**oko**|okulo|hispana:ojo, rusa:око (oko), bengala:অক্ষি (ôkkhi) + angla:portugala:ocular, franca:oculaire|
 |**oksi**|oksigeno|angla:oxygen, franca:oxygène, hispana:oxígeno, portugala:oxigénio, rusa:кислород, vjetnama:oxy, oxi, hindia:ऑक्सीजन, bengala:অক্সিজেন, malaja:oksigen, svahila:oksijeni, araba: أكسجين|
 |**onda**|ondo|hispana:portugala:itala:onda, franca:onde, malaja:ombak|
 |**onor**|honoro (respekto)|angla:polona:hispana:honor, franca:honneur, portugala:honra, turka:onur|
@@ -1017,6 +1016,7 @@
 |**yang**|speco (tipo, stilo)|mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)|
 |**yau**|bezoni|mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu|
 |**ye**|li aŭ ŝi aŭ ĝi|hindia:यह (yeh) + svahila:yeye, zulua:yena, lingala:ye + rusa:е- (ye-) + malaja:ia + mandarena:伊 (yī), vjetnama:y|
+|**yen**|okulo|mandarena:眼 (yǎn) + araba: عَيْن‎ (ʿayn), egipta araba: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaja:ain + franca:yeux|
 |**yepa**|folio|mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)|
 |**yezi**|kokoso|mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)|
 |**yo**|iu|mandarena:有 (yǒu), kantona:有 (jau5)|

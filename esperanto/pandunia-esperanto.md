@@ -527,7 +527,6 @@ fa marche - promeni (marŝi)
 fa mata - mortigi  
 fa memo - memori  
 fa nia - celi  
-fa oko - okulumi  
 fa parti - partopreni  
 fa pente - pentri  
 fa pin - piki  
@@ -558,6 +557,7 @@ fa vai - krom (escepti)
 fa vai klus - ekskludi  
 fa vanu - amuzi  
 fa vode - promesi  
+fa yen - okulumi  
 faida - utileco  
 faida di - utila  
 famili - familio  
@@ -1363,8 +1363,6 @@ o - aŭ
 Oceania - Oceanio  
 oganeson - oganesono  
 oke - akceptebla (okej)  
-oko - okulo  
-oko di - okula  
 oksi - oksigeno  
 okside - oksido  
 onda - ondo  
@@ -1816,8 +1814,8 @@ uma bichi - vipeto
 un - unu (1)  
 un di - sola (nur)  
 un mar - unufoje  
-un oko di lense - monoklo  
 un she sim - monismo  
+un yen di lense - monoklo  
 unta liga - uniono  
 uran yum - uranio  
 uze - uzi  
@@ -1893,6 +1891,8 @@ yau ta - bezono
 ye - li aŭ ŝi aŭ ĝi  
 yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 Yemen - Jemeno  
+yen - okulo  
+yen di - okula  
 yepa - folio  
 yepa late - paĝo  
 Yesa - Jesuo  

@@ -108,6 +108,7 @@ an sona - insomnia
 an sora - unlock  
 an sora di - unlocked  
 an tapa - unplug (uncork)  
+an yau di - unnecessary (extraneous, unneeded)  
 anda - egg  
 Andes - Andes  
 andesite - andesite  
@@ -1036,7 +1037,6 @@ fa nomi - manage (organize)
 fa note - notify  
 fa nove - renew (make new, renovate)  
 fa oke - accept (say okay)  
-fa oko - eye (look, watch, observe, spectate)  
 fa onor - respect (honor, think highly of)  
 fa ore - listen  
 fa orto - straighten  
@@ -1138,6 +1138,7 @@ fa vise - substitute (replace)
 fa vode - promise (pledge)  
 fa vote - vote (cast a vote)  
 fa yagu - estimate (approximate)  
+fa yen - eye (look, watch, observe, spectate)  
 faida - resource (utility, asset)  
 faida - use (utility, benefit, gain, advantage)  
 faida di - useful (beneficial, advantageous)  
@@ -1667,8 +1668,6 @@ imperi sim ja - imperialist
 in - inside (interior)  
 in bum - implosion  
 in di - inner (internal)  
-in ten - contain (include)  
-in ten gi - container  
 in jene di - innate (endogenous, indigenous, inborn)  
 in klus - including  
 in klus di - inclusive  
@@ -1679,6 +1678,8 @@ in mise - import
 in nam - endonym  
 in pushe - squeeze (squish)  
 in she - content  
+in ten - contain (include)  
+in ten gi - container  
 in verse jan - introvert  
 in vide - introspection  
 Indonesi - Indonesia  
@@ -1723,6 +1724,8 @@ jama karde - trading card
 Jamaika - Jamaica  
 jampe - jump  
 jamul - jamul (jambul, rose apple)  
+jan - meditate (contemplate, ponder, cogitate)  
+jan buda din - Zen Buddhism  
 janela - window  
 janela frem - window frame  
 jang - fight (war, battle, combat)  
@@ -1748,8 +1751,6 @@ jela kan - prison (jail)
 jele - gel (jelly)  
 jelosi - jealous  
 jen - person (individual, -ist, -er)  
-jen - meditate (contemplate, ponder, cogitate)  
-jen buda din - Zen Buddhism  
 jen di - personal (intimate, private, custom)  
 jene - birth  
 jene basha - native language (mother tongue)  
@@ -2740,7 +2741,6 @@ Niue - Niue
 niuton - newton (N)  
 no - not (no)  
 no na lin - offline  
-no yau di - unnecessary (extraneous, unneeded)  
 nobel yum - nobelium  
 nobi - genderqueer (non-binary)  
 noche - night  
@@ -2804,11 +2804,6 @@ oganeson - oganesson
 ohtopus - octopus  
 oke - okay (acceptable)  
 oke loga - okay (acceptance)  
-oko - eye  
-oko di - ocular  
-oko kesha - eyelash  
-oko sui - tear drop  
-oko sui gas - tear gas  
 oksi - oxygen  
 okside - oxide  
 Olande nesi - Aland Islands  
@@ -3830,10 +3825,10 @@ un di - only (single, sole, lone, just)
 un mana di - unambiguous  
 un mar - once (one time)  
 un me - first (number one)  
-un oko di lense - monocle  
 un rang di - monochrome  
 un she sim - monism  
 un verse di - universal  
+un yen di lense - monocle  
 un zai di - alone (lonely, isolated, solitary, single)  
 unta - unity  
 Unta Arabi Amir Desha (UAA) - United Arab Emirates  
@@ -4013,6 +4008,11 @@ yei - yay! (yeah!)
 yeka - exchange (replace, trade, swap)  
 yeka kanon - I Ching (the Book of Changes)  
 Yemen - Yemen  
+yen - eye  
+yen di - ocular  
+yen kesha - eyelash  
+yen sui - tear drop  
+yen sui gas - tear gas  
 yepa - leaf (sheet)  
 yepa alga - kelp  
 yepa late - page (side of a leaf of a book)  

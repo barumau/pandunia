@@ -261,14 +261,14 @@ Les particules modificatrices permettent ainsi de créer des groupes nominaux co
 
 **roze rang di labi**
 – des lèvres de couleur rose 
-**sama rang di oko**
+**sama rang di yen**
 – des yeux de la couleur du ciel
 
 Ou dans l'ordre inverse :
 
 **labi da roze rang**
 – des lèvres de couleur rose  
-**oko da sama rang**
+**yen da sama rang**
 – des yeux de la couleur du ciel
 
 Ces particules permettent également de créer des mots-mesures.

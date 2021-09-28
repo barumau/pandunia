@@ -689,7 +689,7 @@ galop - galope
 garde-boue (aile) - fan defa bano  
 Gaule - Galia  
 gaz - gas  
-gaz lacrymogène - oko sui gas  
+gaz lacrymogène - yen sui gas  
 gazelle - gazel  
 geler (glacer) - be ais  
 genou - guta  
@@ -807,7 +807,7 @@ intention - nia
 international - nasi medi  
 interracial - rasa medi  
 introverti - in verse jan  
-inutile - no yau di  
+inutile - an yau di  
 inverse (négatif, in-) - an  
 iode - iode  
 iridium - iris yum  
@@ -1003,7 +1003,7 @@ molybdène - moliden
 momentané - sata di  
 monde - dunia  
 monnaie (pièce) - pesa diske  
-monocle - un oko di lense  
+monocle - un yen di lense  
 monologue - auto loga  
 monstre - mostre  
 mordre - fa dante  
@@ -1093,7 +1093,7 @@ oblique (de travers) - tercha
 obsidienne - osidian  
 occupé - mang  
 ocelot - oselote  
-oculaire - oko di  
+oculaire - yen di  
 océan - dai hai  
 Océan Antarctique - Antartika Hai  
 océan Arctique - Artika Hai  
@@ -1689,7 +1689,7 @@ Yi King - yeka kanon
 ytterbium - yuterbi yum  
 yttrium - yuter yum  
 ####Z - Z  
-zen - jen buda din  
+zen - jan buda din  
 zinc - zinke  
 zirconium - zirkon yum  
 zombi - zombi  
@@ -1759,4 +1759,4 @@ zéro - siro
 être - si  
 être couché - kush  
 être humain - insan  
-œil - oko  
+œil - yen  

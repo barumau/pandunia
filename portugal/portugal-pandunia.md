@@ -191,7 +191,7 @@ brocha (pincel) - brosha
 bromo - brom  
 bu! - bu!  
 Buda - Buda  
-budismo zen - jen buda din  
+budismo zen - jan buda din  
 bule - chai pote  
 buraco - kave  
 burocracia - buro krati  
@@ -641,7 +641,7 @@ guitarra - gitar
 Gália - Galia  
 gálio - gali yum  
 gás - gas  
-gás lacrimogéneo - oko sui gas  
+gás lacrimogéneo - yen sui gas  
 gênero gramatical - basha jinse  
 ####H - H  
 habilidade (capacidade) - bil ta  
@@ -895,7 +895,7 @@ momento (instante) - sata
 momentâneo - sata di  
 monstro - mostre  
 monção - shava mosim  
-monóculo - un oko di lense  
+monóculo - un yen di lense  
 monólogo - auto loga  
 morder - fa dante  
 moscovio - moskva yum  
@@ -971,13 +971,13 @@ oblíquo (torto) - tercha
 obrigado - shukur  
 obsidiana - osidian  
 oceano - dai hai  
-ocular - oko di  
+ocular - yen di  
 ocultar (esconder) - fa sir  
 ocupado (atarefado) - mang  
 oganesson - oganeson  
 oito (8) - bati  
 oleiro - pote ja  
-olho - oko  
+olho - yen  
 onda - onda  
 onde - na ke  
 online - na lin  

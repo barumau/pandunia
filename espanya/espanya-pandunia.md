@@ -451,7 +451,7 @@ brújula - ponte pin
 bu! - bu!  
 Buda - Buda  
 budismo - Buda din  
-budismo zen - jen buda din  
+budismo zen - jan buda din  
 budista - Buda din ja  
 buen (hola) - salam di  
 buen provecho - salam yam  
@@ -1510,7 +1510,7 @@ garbanzo - humus
 garlopa - rande  
 garrapata (ácaro) - akare  
 gas - gas  
-gas lacrimógeno - oko sui gas  
+gas lacrimógeno - yen sui gas  
 gasa - gaze  
 gaseoso - gas di  
 gasificar - fa gas  
@@ -1803,7 +1803,7 @@ inglés - english di
 inmigrante - in migra ja  
 inmigrar - in migra  
 innato (endógeno) - in jene di  
-innecesario - no yau di  
+innecesario - an yau di  
 innominado - nam hin  
 inodoro (wáter, retrete) - tualete  
 inquisitivo (curioso) - sabe vol ja  
@@ -2066,7 +2066,7 @@ luteranismo - Luter din
 luterano - Luter din ja  
 Luxemburgo - Luksemburge  
 luz (iluminación) - foto  
-lágrima - oko sui  
+lágrima - yen sui  
 lámpara - lampa  
 lápida - gabur seku  
 lápiz - karbon kalam  
@@ -2198,7 +2198,7 @@ medio - medi she
 medioambiente (naturaleza) - eko  
 mediodía - medi dia  
 medir (medida) - metre  
-meditar (reflexionar) - jen  
+meditar (reflexionar) - jan  
 Mediterráneo - Geo Medi Hai  
 medusa - hai jele  
 megavatio - mega vate  
@@ -2305,7 +2305,7 @@ monstro - mostre
 montaña (colina) - san  
 Montenegro - Chernagora  
 monumento - memo bina  
-monóculo - un oko di lense  
+monóculo - un yen di lense  
 monólogo - auto loga  
 morado (púrpura) - violeta blu  
 moral (moro) - tuta  
@@ -2487,7 +2487,7 @@ ocelote - oselote
 ocho (8) - bati  
 ocra - bamia  
 octubre - mes des  
-ocular - oko di  
+ocular - yen di  
 ocultar (esconder) - fa sir  
 ocupado (atareado) - mang  
 océano - dai hai  
@@ -2505,7 +2505,7 @@ oficina - buro kan
 oficina de correos - posta kan  
 oganesón - oganeson  
 ogro (gnomo, trol, duende, trasgo) - gui  
-ojo - oko  
+ojo - yen  
 oler (apestar) - aroma  
 oler (olfatear) - aroma  
 olor (aroma) - aroma  
@@ -2720,7 +2720,7 @@ pescador - peshe saide ja
 pescar - kape yo peshe  
 pescar - saide yo peshe  
 peso (gravedad) - veze  
-pestaña - oko kesha  
+pestaña - yen kesha  
 peto - sine plate  
 petróleo - petra nefte  
 pez (pescado) - peshe  

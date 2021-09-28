@@ -79,6 +79,7 @@ an memo - oublier
 an nam - antonyme  
 an sekse di - asexué  
 an sona - insomnie  
+an yau di - inutile  
 anda - oeuf  
 Andes - Andes  
 andesite - andésite  
@@ -736,11 +737,11 @@ huru - libre
 ####I - I  
 iha uma - mule  
 in bum - implosion  
-in ten gi - conteneur  
 in klus - y compris  
 in klus di - inclusif  
 in migra - immigrer  
 in migra ja - immigrant  
+in ten gi - conteneur  
 in verse jan - introverti  
 insan - être humain  
 insan di - humain  
@@ -756,6 +757,7 @@ jaga - éveillé
 jain din - jaïnisme  
 jama karde - carte à collectionner  
 jamul - prune de Java  
+jan buda din - zen  
 janela - fenêtre  
 jangal - forêt (jungle)  
 jara - jarre (carafe, cruche)  
@@ -767,7 +769,6 @@ jeka deku - empruntre
 jeka dona - prêter  
 jela kan - prison (geôle)  
 jen - personne  
-jen buda din - zen  
 jene basha - langue maternelle  
 jene logi - généalogie  
 jene loka - lieu de naissance  
@@ -1188,7 +1189,6 @@ nipon yum - nihonium
 nish - niche  
 nitre - azote  
 no - non (ne...pas)  
-no yau di - inutile  
 nobel yum - nobélium  
 nobi - non-binaire  
 noche - noit  
@@ -1211,9 +1211,6 @@ nove ta - nouveauté
 o - ou  
 oganeson - oganesson  
 ohtopus - Poulpe (pieuvre)  
-oko - œil  
-oko di - oculaire  
-oko sui gas - gaz lacrymogène  
 oksi - oxygène  
 okside - oxyde  
 onda - onde  
@@ -1634,8 +1631,8 @@ uma bichi - cravache
 un - un (1)  
 un di - seul (unique)  
 un mar - une fois  
-un oko di lense - monocle  
 un verse di - universel  
+un yen di lense - monocle  
 unta liga - union  
 ura - hourra  
 Uran - Uranus  
@@ -1713,6 +1710,9 @@ yatim dom - orphelinat
 yau di - nécessaire  
 yau ta - besoin  
 yeka kanon - Yi King  
+yen - œil  
+yen di - oculaire  
+yen sui gas - gaz lacrymogène  
 yepa - feuille  
 yepa alga - varech  
 yepa late - page  

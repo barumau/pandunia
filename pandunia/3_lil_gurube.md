@@ -78,7 +78,7 @@ ye sabe la tri lili goro si bon yam she.
 
 la volfe fa darba la mun, e loga:
 "lili goro! lili goro! ching kai la mun! ching kai la mun!"
-a lili goro vide la volfe su lili huang oko na chabi kong.
+a lili goro vide la volfe su lili huang yen na chabi kong.
 yemon loga: "no! no! no!"
 la volfe shou se su dante e loga:
 "mi hava e mi hava e mi parcha tumon su dom!"

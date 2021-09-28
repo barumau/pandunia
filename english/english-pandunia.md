@@ -1254,9 +1254,9 @@ extent - vai tense
 extract (draw out) - fa vai trata  
 extractor - vai trata gi  
 extroverted (outgoing) - vai verse di  
-eye (look, watch, observe, spectate) - fa oko  
-eye - oko  
-eyelash - oko kesha  
+eye (look, watch, observe, spectate) - fa yen  
+eye - yen  
+eyelash - yen kesha  
 ####F - F  
 fable - zou kata  
 face (versus) - verse  
@@ -2223,7 +2223,7 @@ Mecca - Makah
 medallion (medal) - medal  
 medicine (drug, medication) - dava she  
 medicine (field of study) - dava logi  
-meditate (contemplate, ponder, cogitate) - jen  
+meditate (contemplate, ponder, cogitate) - jan  
 Mediterranean - Geo Medi Hai  
 medium (intermediate, mean) - medi  
 medium (media) - medi she  
@@ -2320,7 +2320,7 @@ Mongolian - mongol di
 mongoose - mungus  
 monism - un she sim  
 monochrome - un rang di  
-monocle - un oko di lense  
+monocle - un yen di lense  
 monolog - auto loga  
 monotheism - un deu sim  
 monster - mostre  
@@ -2522,7 +2522,7 @@ Oceania - Oceania
 ocelot - oselote  
 October - mes des  
 octopus - ohtopus  
-ocular - oko di  
+ocular - yen di  
 odd (strange, weird, peculiar, bizarre) - guai  
 Odia (Oriya) - Odisa  
 of (attributive preposition) - da  
@@ -3622,8 +3622,8 @@ team - tim
 teapot - chai pote  
 tear (rip, edge) - chira  
 tear (rip, split) - chira  
-tear drop - oko sui  
-tear gas - oko sui gas  
+tear drop - yen sui  
+tear gas - yen sui gas  
 tear up (tatter, shred) - chira chira  
 teaspoon - chai chamacha  
 technetium - tehni yum  
@@ -3853,7 +3853,7 @@ universal - un verse di
 university - dai shula kan  
 unlock - an sora  
 unlocked - an sora di  
-unnecessary (extraneous, unneeded) - no yau di  
+unnecessary (extraneous, unneeded) - an yau di  
 unplug (uncork) - an tapa  
 unrest - an pase  
 until (til, up to) - hata  
@@ -4089,7 +4089,7 @@ yttrium - yuter yum
 ####Z - Z  
 Zambia - Zambia  
 zebra - zebra  
-Zen Buddhism - jen buda din  
+Zen Buddhism - jan buda din  
 zero (none) - siro  
 zetta- - zeta  
 ziggurat - zikura  

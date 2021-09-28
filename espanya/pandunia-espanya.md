@@ -92,6 +92,7 @@ an romanse - arromántico
 an sekse di - asexual  
 an sona - insomnio  
 an tapa - desatascar  
+an yau di - innecesario  
 anda - huevo  
 Andes - Andes  
 andesite - andesita  
@@ -1501,8 +1502,6 @@ imperi sim ja - imperialista
 in - interior  
 in bum - implosión  
 in di - interior (interno)  
-in ten - contener  
-in ten gi - contenedor  
 in jene di - innato (endógeno)  
 in klus - incluido  
 in klus di - inclusivo  
@@ -1512,6 +1511,8 @@ in migra ja - inmigrante
 in mise - importar  
 in nam - endónimo  
 in she - contenido  
+in ten - contener  
+in ten gi - contenedor  
 in verse jan - introvertido  
 Indonesi - Indonesia  
 insan - ser humano  
@@ -1552,6 +1553,8 @@ jama di - colectivo
 jama karde - cromo  
 Jamaika - Jamaica  
 jampe - saltar (brincar)  
+jan - meditar (reflexionar)  
+jan buda din - budismo zen  
 janela - ventana  
 jang - pelea (guerra, batalla)  
 jang di - macrial (militar)  
@@ -1576,8 +1579,6 @@ jela kan - cárcel
 jele - gel (jalea, gelatina)  
 jelosi - celoso (envidioso)  
 jen - persona (ista, -ador)  
-jen - meditar (reflexionar)  
-jen buda din - budismo zen  
 jen di - personal (privado, a medida)  
 jene - nacimiento (origen)  
 jene basha - lengua materna  
@@ -2485,7 +2486,6 @@ nitre - nitrógeno
 Niue - Niue  
 niuton - newton (N)  
 no - no  
-no yau di - innecesario  
 nobel yum - nobelio  
 nobi - no binario (género)  
 noche - noche  
@@ -2542,11 +2542,6 @@ Odisa - oriya
 oganeson - oganesón  
 ohtopus - pulpo  
 oke - bien (aceptable)  
-oko - ojo  
-oko di - ocular  
-oko kesha - pestaña  
-oko sui - lágrima  
-oko sui gas - gas lacrimógeno  
 oksi - oxígeno  
 okside - óxide  
 Olande nesi - islas Aland  
@@ -3491,10 +3486,10 @@ un di - único (únicamente, solo)
 un mana di - inequívoco  
 un mar - una vez  
 un me - primero (numbre uno)  
-un oko di lense - monóculo  
 un rang di - monocromático  
 un she sim - monismo  
 un verse di - universal  
+un yen di lense - monóculo  
 un zai di - solo (aislado, solitary, soltero)  
 unta - unidad (unión)  
 Unta Arabi Amir Desha (UAA) - Emiratos Árabes Unidos  
@@ -3654,6 +3649,11 @@ yehudi - judío
 yehudi din - judaísmo  
 yei - yupi  
 Yemen - Yemen  
+yen - ojo  
+yen di - ocular  
+yen kesha - pestaña  
+yen sui - lágrima  
+yen sui gas - gas lacrimógeno  
 yepa - hoja  
 yepa alga - kelp  
 yepa late - página  

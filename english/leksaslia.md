@@ -583,6 +583,7 @@
 |**jama**|collection (congregation, assembly)|Arabic: جَمَعَ‎ (jamaʿa), Swahili:jamii, Turkish:camia, Persian: جمع (jam’), Hausa:jam'iyya + Hindi:जमात (jamāt)|
 |**jampe**|jump|English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jamul**|jamul (jambul, rose apple)|Hindi:जामुन (jāmun), English:jambul, Portuguese:jambolão, Arabic:جَمُّون (jammūn), Swahili:zambarau|
+|**jan**|meditate (contemplate, ponder, cogitate)|Hindi:ध्यान (dhyān), Bengali:ধ্যান (dhyān), Japanese:禅 (zen), English:French:Portuguese:zen, Russian:дзэн (dzen), Mandarin:禅 (chán), Korean:선 (seon), Vietnamese:thiền, Burmese:ဈာန် (jhan)|
 |**janela**|window|Portuguese:janela, Bengali:জানালা (janala), Malay:jendela + Tamil:சன்னல் (sannal), nya:zenera, Kongo:nêla|
 |**jang suta**|martial art|Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art|
 |**jang**|fight (war, battle, combat)|Mandarin:爭 (zhēng), Cantonese:爭 (zang1), Vietnamese:tranh, Korean:전쟁 (jeonjaeng) + Persian:Urdu:(jang), Hindi:जंग (jang), Turkish:ceng|
@@ -597,7 +598,6 @@
 |**jela**|prison (imprisonment)|English:jail, French:geôle, Hindi:जेल (jel), Bengali:জেল (jēl), Telugu:జైలు (jailu), Urdu: جیل‎ (jēl), Swahili:jela + Spanish:Portuguese:jaula|
 |**jele**|gel (jelly)|English:gel, French:gelée, Russian:желе (žele), Turkish:jel, Hindi:जेल (jel), Korean:젤 (jel), Mandarin:啫哩 (zhělī)|
 |**jelosi**|jealous|English:jealous, Spanish:celoso, French:jaloux|
-|**jen**|meditate (contemplate, ponder, cogitate)|Hindi:ध्यान (dhyān), Bengali:ধ্যান (dhyān), Japanese:禅 (zen), English:French:Portuguese:zen, Russian:дзэн (dzen), Mandarin:禅 (chán), Korean:선 (seon), Vietnamese:thiền, Burmese:ဈာန် (jhan)|
 |**jen**|person (individual, -ist, -er)|Mandarin:人 (rén), wuu人 (zén), Japanese:人 (jin) + French:gens, Spanish:Portuguese:gente + Hindi:जन (jan), Bengali:-জন (-jôn), Malay:-jana, Thai:ชน (chon), Khmer:ជន (jon)|
 |**jene**|birth|Hindi:जन्म (janma), Malayalam:ജനനം (jananaṃ), Greek: γέννα (génna), English:genesis, French:genèse|
 |**jenshen**|ginseng|Mandarin:人蔘 (rénshēn), Min-Chinese:人蔘 (jîn-sam), English:Spanish:Portuguese:Turkish:Malay:ginseng, Russian:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), Japanese:人参 (ninjin)|
@@ -1043,8 +1043,6 @@
 |**oganeson**|oganesson|English:French:Portuguese:Malay:oganesson, Spanish:oganesón, Russian:оганесон, Japanese:オガネソン, Korean:우누녹튬|
 |**ohtopus**|octopus|English:octopus, deu:Oktopus, Turkish:ahtapot, Arabic:أخطبوط (ʾuḵṭubūṭ), Persian:اختاپوس‎ (oxtâpus), Hindi:ऑक्टोपस (okṭopasa), Bengali:অক্টোপাস (ôkṭopaś)|
 |**oke**|okay (acceptable)|English:okay, Spanish:Turkish:Malay:okey, Portuguese:OK, Russian:окей (okej), Arabic:أُوكِي‎‎‎ (ʾokey), Hindi:ओके (oke), Mandarin:OK (ōukèi), Japanese:オーケー (ōkē)|
-|**oko sui**|tear drop|Tamil:கண்ணீர் (kaṇṇīr), Malayalam:കണ്ണുനീർ (kaṇṇunīr), Telugu:(kannīru), Korean:눈물 (nunmul), Vietnamese:nước mắt, Malay:air mata, Thai:น้ำตา|
-|**oko**|eye|Spanish:ojo, Russian:око (oko), Bengali:অক্ষি (ôkkhi) + English:Portuguese:ocular, French:oculaire|
 |**oksi**|oxygen|English:oxygen, French:oxygène, Spanish:oxígeno, Portuguese:oxigénio, Russian:кислород, Vietnamese:oxy, oxi, Hindi:ऑक्सीजन, Bengali:অক্সিজেন, Malay:oksigen, Swahili:oksijeni, Arabic: أكسجين|
 |**onda**|wave|Spanish:Portuguese:Italian:onda, French:onde, Malay:ombak|
 |**onor**|respect (honor, esteem)|English:Polish:Spanish:honor, French:honneur, Portuguese:honra, Turkish:onur|
@@ -1556,6 +1554,8 @@
 |**ye**|he or she or it|Hindi:यह (yeh) + Swahili:yeye, Zulu:yena, Lingala:ye + Russian:е- (ye-) + Malay:ia + Mandarin:伊 (yī), Vietnamese:y|
 |**yei**|yay! (yeah!)|English:yay, Polish:jej, Japanese:イエイ (iei)|
 |**yeka**|exchange (replace, trade, swap)|Mandarin:易 (yì), Cantonese:易 (yik6), Japanese:易 (eki), Korean:역 (yeok), Vietnamese:dịch|
+|**yen sui**|tear drop|Tamil:கண்ணீர் (kaṇṇīr), Malayalam:കണ്ണുനീർ (kaṇṇunīr), Telugu:(kannīru), Korean:눈물 (nunmul), Vietnamese:nước mắt, Malay:air mata, Thai:น้ำตา|
+|**yen**|eye|Mandarin:眼 (yǎn) + Arabic: عَيْن‎ (ʿayn), Egyptian-Arabic: عين‎ (ʕēn), Amharic:ዐይን (ʿäyn), Malay:ain + French:yeux|
 |**yepa**|leaf (sheet)|Mandarin:叶 (yè), Cantonese:葉 (jip6), Korean:잎 (ip);엽 (yeop), Vietnamese:diệp, Japanese:葉 (yō)|
 |**yezi**|coconut tree|Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)|
 |**yo**|some (one)|Mandarin:有 (yǒu), Cantonese:有 (jau5)|

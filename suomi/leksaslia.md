@@ -579,6 +579,7 @@
 |**jama**|yhteisö (kokoontuminen, kollektiivi)|arabia: جَمَعَ‎ (jamaʿa), suahili:jamii, turkki:camia, persia: جمع (jam’), hausa:jam'iyya + hindi:जमात (jamāt)|
 |**jampe**|hypätä (hyppiä)|englanti:jump, japani:ジャンプ (janpu), korea:점프 (jŏmp), bangla:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|
 |**jamul**|jambolaani|hindi:जामुन (jāmun), englanti:jambul, portugali:jambolão, arabia:جَمُّون (jammūn), suahili:zambarau|
+|**jan**|pohtia (meditoida)|hindi:ध्यान (dhyān), bangla:ধ্যান (dhyān), japani:禅 (zen), englanti:ranska:portugali:zen, venäjä:дзэн (dzen), yleiskiina:禅 (chán), korea:선 (seon), vietnami:thiền, burma:ဈာန် (jhan)|
 |**janela**|ikkuna|portugali:janela, bangla:জানালা (janala), malaiji:jendela + tamili:சன்னல் (sannal), nya:zenera, Kongo:nêla|
 |**jang suta**|kamppailulaji|yleiskiina:武术 (wǔshù), japani:武術 (bujutsu), vietnami:võ thuật, korea:무술 (musul), englanti:martial art|
 |**jang**|taistelu (sota)|yleiskiina:爭 (zhēng), kantoninkiina:爭 (zang1), vietnami:tranh, korea:전쟁 (jeonjaeng) + persia:urdu:(jang), hindi:जंग (jang), turkki:ceng|
@@ -592,7 +593,6 @@
 |**jele**|hyytelö|englanti:gel, ranska:gelée, venäjä:желе (žele), turkki:jel, hindi:जेल (jel), korea:젤 (jel), yleiskiina:啫哩 (zhělī)|
 |**jelosi**|kade (kateellinen)|englanti:jealous, espanja:celoso, ranska:jaloux|
 |**jen**|henkilö|yleiskiina:人 (rén), wuu人 (zén), japani:人 (jin) + ranska:gens, espanja:portugali:gente + hindi:जन (jan), bangla:-জন (-jôn), malaiji:-jana, thai:ชน (chon), khmer:ជន (jon)|
-|**jen**|pohtia (meditoida)|hindi:ध्यान (dhyān), bangla:ধ্যান (dhyān), japani:禅 (zen), englanti:ranska:portugali:zen, venäjä:дзэн (dzen), yleiskiina:禅 (chán), korea:선 (seon), vietnami:thiền, burma:ဈာန် (jhan)|
 |**jene**|synty (syntymä)|hindi:जन्म (janma), malayalam:ജനനം (jananaṃ), kreikka: γέννα (génna), englanti:genesis, ranska:genèse|
 |**jenshen**|ginseng|yleiskiina:人蔘 (rénshēn), min-kiina:人蔘 (jîn-sam), englanti:espanja:portugali:turkki:malaiji:ginseng, venäjä:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), japani:人参 (ninjin)|
 |**jeste**|ele|englanti:gesture, espanja:portugali:gesto, ranska:geste, venäjä:жест (zhest), turkki:jest, persia:ژست‎ (žest)|
@@ -1001,8 +1001,6 @@
 |**oganeson**|oganesson|englanti:ranska:portugali:malaiji:oganesson, espanja:oganesón, venäjä:оганесон, japani:オガネソン, korea:우누녹튬|
 |**ohtopus**|mustekala|englanti:octopus, deu:Oktopus, turkki:ahtapot, arabia:أخطبوط (ʾuḵṭubūṭ), persia:اختاپوس‎ (oxtâpus), hindi:ऑक्टोपस (okṭopasa), bangla:অক্টোপাস (ôkṭopaś)|
 |**oke**|kelpo (okei)|englanti:okay, espanja:turkki:malaiji:okey, portugali:OK, venäjä:окей (okej), arabia:أُوكِي‎‎‎ (ʾokey), hindi:ओके (oke), yleiskiina:OK (ōukèi), japani:オーケー (ōkē)|
-|**oko sui**|kyynel|tamili:கண்ணீர் (kaṇṇīr), malayalam:കണ്ണുനീർ (kaṇṇunīr), telugu:(kannīru), korea:눈물 (nunmul), vietnami:nước mắt, malaiji:air mata, thai:น้ำตา|
-|**oko**|silmä|espanja:ojo, venäjä:око (oko), bangla:অক্ষি (ôkkhi) + englanti:portugali:ocular, ranska:oculaire|
 |**oksi**|happi|englanti:oxygen, ranska:oxygène, espanja:oxígeno, portugali:oxigénio, venäjä:кислород, vietnami:oxy, oxi, hindi:ऑक्सीजन, bangla:অক্সিজেন, malaiji:oksigen, suahili:oksijeni, arabia: أكسجين|
 |**onda**|aalto (laine)|espanja:portugali:italia:onda, ranska:onde, malaiji:ombak|
 |**onor**|kunnioitus (arvostus)|englanti:puola:espanja:honor, ranska:honneur, portugali:honra, turkki:onur|
@@ -1484,6 +1482,8 @@
 |**ye**|hän (se)|hindi:यह (yeh) + suahili:yeye, zulu:yena, lingala:ye + venäjä:е- (ye-) + malaiji:ia + yleiskiina:伊 (yī), vietnami:y|
 |**yei**|jee! (hurraa!)|englanti:yay, puola:jej, japani:イエイ (iei)|
 |**yeka**|vaihtaa (tehdä vaihtokauppa)|yleiskiina:易 (yì), kantoninkiina:易 (yik6), japani:易 (eki), korea:역 (yeok), vietnami:dịch|
+|**yen sui**|kyynel|tamili:கண்ணீர் (kaṇṇīr), malayalam:കണ്ണുനീർ (kaṇṇunīr), telugu:(kannīru), korea:눈물 (nunmul), vietnami:nước mắt, malaiji:air mata, thai:น้ำตา|
+|**yen**|silmä|yleiskiina:眼 (yǎn) + arabia: عَيْن‎ (ʿayn), egyptinarabia: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaiji:ain + ranska:yeux|
 |**yepa**|lehti (arkki, levy)|yleiskiina:叶 (yè), kantoninkiina:葉 (jip6), korea:잎 (ip);엽 (yeop), vietnami:diệp, japani:葉 (yō)|
 |**yezi**|kookos|yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)|
 |**yo**|jokin (joku)|yleiskiina:有 (yǒu), kantoninkiina:有 (jau5)|
