@@ -38,7 +38,7 @@ pos, la volfe fa shou se su dante e loga:
 
 ye hava e ye hava e ye parcha la dom!
 la volfe fa kai se su boke do masim jo ye bil,
-a un me goro be kite,
+a un me goro ya ga,
 do dom da du me lili goro.
 
 la volfe zoku na lili dau.
@@ -61,7 +61,7 @@ ye hava e ye hava e ye parcha la dom!
 volfe teste kape la du goro na sam zaman,
 a ye vol mas ka basa, e ye kape siro goro!
 ye su dai boke be klus do siro she da air.
-la du lili goro be kite, masim rapide ka yemon su fute bil kino yemon.
+la du lili goro ya ga, masim rapide ka yemon su fute bil kino yemon.
 
 la volfe teste kape yemon na lili dau.
 ye karibu kape yemon,

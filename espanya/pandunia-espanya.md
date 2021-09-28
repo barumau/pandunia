@@ -136,7 +136,7 @@ argu - argumento
 arka - arco  
 arka chati - bóveda  
 arka ja - arquero  
-arka shuta - tiro con arco  
+arka suta - tiro con arco  
 arme - arma  
 aroma - oler (olfatear)  
 aroma - olor (aroma)  
@@ -272,7 +272,7 @@ bateri - pila (batería)
 bati - ocho (8)  
 bau - tesoro  
 bau di - precioso  
-bau sheku - piedra preciosa (joya, gema)  
+bau seku - piedra preciosa (joya, gema)  
 baya - bahía  
 bazar - mercado (bazar)  
 baze - base  
@@ -341,7 +341,7 @@ be turbe - molestar en
 be vai - salir (egresar)  
 be vanu - disfrutar (jugar)  
 be vide - ser visto  
-be yong liga - fusionar (fundir)  
+be yung liga - fusionar (fundir)  
 be zai - aparecer  
 bebe - bebé  
 bede - cama (lecho)  
@@ -483,9 +483,9 @@ chaku - cuchillo
 chamacha - cuchara  
 champion - campeón  
 chanse - oportunidad (chance)  
-chante - cantar  
-chante - canción  
-chante grupe - coro  
+chanta - cantar  
+chanta - canción  
+chanta grupe - coro  
 chapati - chapati (pan sin levadura)  
 chape - grabado (sello, estampando)  
 charme - encanto  
@@ -495,7 +495,7 @@ chen - previo (anterior)
 chen - más temprano (antes, haber, en el pasado)  
 chen den - ayer  
 chen fikse - prefijo  
-chen ga - presuponer  
+chen gar - presuponer  
 chen vide - prever (esperar, pensar)  
 chen yang di - clásico  
 chen zaman - pasado  
@@ -553,16 +553,14 @@ dai hai - océano
 dai pau - cañón  
 dai pau ja - cañonear  
 dai pote - caldero  
-dai sheku - peñasco (pedrusco)  
+dai seku - peñasco (pedrusco)  
 dai shula kan - universidad  
 dai ta - tamaño  
 daka - tapa (funda, cubierta)  
-daku - conseguir (obtener, recibir)  
-daku ja - engendrador  
 dalil - prueba  
 dama gem - damas  
-dane - partícula (grano, bala)  
-dane sekur - antibalas  
+dana - partícula (grano, bala)  
+dana sekur - antibalas  
 dang gi - campana (cencerro)  
 danse - baile (danza)  
 Danske - danés  
@@ -606,6 +604,8 @@ defa - defender
 defa bano - escudo  
 defa ja - defensor  
 defa kaske - armadura  
+deku - conseguir (obtener, recibir)  
+deku ja - engendrador  
 dele - demora (retraso)  
 dele do - esperar  
 demo - pueblo (población)  
@@ -643,7 +643,7 @@ din ja - creyente
 din shia - secta (culto)  
 dinamite - dinamita  
 dinde - pavo (guajalote)  
-ding - clavo (pincho, punta)  
+dingi - clavo (pincho, punta)  
 dino saur - dinosaurio  
 diorite - diorita  
 disha - dirección  
@@ -772,7 +772,7 @@ Eskandinavia - Escandinavia
 Eskote - Escocia  
 eskulte - escultura (estatua)  
 eskulte ja - escultor  
-eskulte shuta - escultura (arte de escultura)  
+eskulte suta - escultura (arte de escultura)  
 Espanya - España  
 esperanto - Esperanto  
 esponje - esponja  
@@ -812,7 +812,7 @@ fa auto - personalizar
 fa avar - dañar  
 fa baze - fundar (basar)  
 fa bina - construir (edificar)  
-fa biznes lon - negociar  
+fa biznes lona - negociar  
 fa budi - darse cuenta (notar)  
 fa chape - imprimir  
 fa chori - robar (hurtar)  
@@ -885,16 +885,16 @@ fa koloni - colonizar
 fa komputa - calcular (computar)  
 fa komun - compartir (tener en común)  
 fa kon sabe - comunicar (informar)  
-fa kong - perforar (agujerar)  
 fa kopi - copiar  
 fa krus fikse - crucificar  
+fa kung - perforar (agujerar)  
 fa lai - traer  
 fa Latin kitabu - romanizar  
 fa lenshi - practicar (ensayar, ejercitar)  
 fa libu - erigir (montar, armar)  
 fa linke - conectar (empalmar, enlazar, vincular)  
 fa loka - colocar (poner, ubicar)  
-fa lon - debatir (discutir)  
+fa lona - debatir (discutir)  
 fa long - alargar  
 fa maf - perdonar (disculpar)  
 fa mal - poseer (tener, ser dueño de)  
@@ -1057,8 +1057,8 @@ fem sim - feminismo
 fem sim ja - feministe  
 fen - parte (fracción)  
 fen di - parcial  
+fen dona - contribuir  
 fen gata - análisis (disección)  
-fendona - contribuir  
 fermi yum - fermio  
 fero - hierro  
 festa - celebración (fiesta)  
@@ -1089,7 +1089,7 @@ fito logi - botánica
 fito yam sim ja - vegetariano  
 fizika - física  
 fizika ja - físico (científico)  
-fizika shuta - física  
+fizika suta - física  
 flame - inflamación  
 fleche - flecha  
 flerof yum - flerovio  
@@ -1120,7 +1120,7 @@ foto gola - halo (aureola)
 foto grafi - foto (fotografía)  
 foto grafi gi - cámara  
 foto grafi ja - fotógrafo  
-foto grafi shuta - fotografía  
+foto grafi suta - fotografía  
 foto kane - antorcha  
 foto mata di - mate (opaco)  
 foto minar - faro (baliza, almenara)  
@@ -1160,11 +1160,11 @@ fute bano - andamiaje
 fute bol - fútbol  
 fute marke - pisada (huella)  
 ####G - G  
-ga - si (suponer)  
+ga - ir  
 Gabon - Gabón  
 gabur - tumba (sepultura, enterrar)  
 gabur bagi - cementerio  
-gabur sheku - lápida  
+gabur seku - lápida  
 gadolin yum - gadolinio  
 gaja - elefante  
 galaksi - galaxia  
@@ -1197,6 +1197,7 @@ ganja - cannabis (hachís, marihuana)
 ganse - ganso (oca)  
 ganum - trigo  
 ganya - ganar (cobrar)  
+gar - si (suponer)  
 garanti - garantía  
 garde - vigilar (guardar)  
 garde ja - vigilante (guardia)  
@@ -1260,9 +1261,9 @@ ging gola - meridiano (línea de longitud)
 gingam - kumquat (quinoto)  
 gio - enseñar (instruir, doctrina)  
 gio ja - docente (enseñante, profesor, maestro)  
-gioka - jade  
 giota - gota  
 gitar - guitarra  
+giuka - jade  
 glis - deslizar  
 glu - pegamento (pega, goma)  
 glu bande - curita (apósito)  
@@ -1274,7 +1275,7 @@ go - ese (aquel)
 gol - meta (gol, destinación)  
 gola - círculo  
 gola di - redondo (circular)  
-gola sheku - adoquín  
+gola seku - adoquín  
 gomu - goma (caucho, hule)  
 gona - esquina (rincón, ángulo)  
 gona metre gi - goniómetro (medidor de ángulos)  
@@ -1433,7 +1434,7 @@ hindi yum - indium
 hisabu loge - cuenta  
 hisabu logi - matemática  
 hisabu logi ja - matemático  
-hisabu shuta - aritmética (cálculos)  
+hisabu suta - aritmética (cálculos)  
 histori - historia (pasado)  
 histori ja - historiador  
 histori logi - historia (estudio de sucesos del pasado)  
@@ -1442,10 +1443,10 @@ hobi - pasatiempo (hobby, afición)
 hobi ja - amateur (aficionado)  
 hogo - fuego  
 hogo di - ardiente (encendido)  
+hogo san - volcán  
+hogo san kancha - vidrio volcánico  
 hogo sanduku - farol (linterna)  
-hogo shan - volcán  
-hogo shan kancha - vidrio volcánico  
-hogo sheku - pedernal (sílex)  
+hogo seku - pedernal (sílex)  
 hogo tehni - dispositivo pirotécnico  
 hoki - hockey  
 holera - cólera  
@@ -1542,7 +1543,6 @@ Islande - Islandia
 Israel - Israel  
 Italia - Italia  
 ####J - J  
-ja - ir  
 ja - hacedor (perpetrador)  
 jaga - despertar  
 jaga - despierto  
@@ -1555,7 +1555,10 @@ Jamaika - Jamaica
 jampe - saltar (brincar)  
 jan - persona (ista, -ador)  
 janela - ventana  
-jang ja - artesano  
+jang - pelea (guerra, batalla)  
+jang di - macrial (militar)  
+jang ja - luchador (guerrero)  
+jang suta - arte marcial  
 jangal - bosque (jungla, selva)  
 jara - jarra  
 jau - cebada  
@@ -1565,7 +1568,7 @@ jaze - jazz
 jebe - bolsillo  
 jebra - álgebra  
 jeka - prestar (pedir prestado)  
-jeka daku - pedir prestado  
+jeka deku - pedir prestado  
 jeka dona - prestar  
 jeka loga - préstamo lingüístico  
 jela - prisión  
@@ -1586,13 +1589,10 @@ jene logi - genealogía
 jene loka - lugar de nacimiento  
 jene tipe - genotipo  
 jene yo zou - criar  
-jeng - pelea (guerra, batalla)  
-jeng di - macrial (militar)  
-jeng ja - luchador (guerrero)  
-jeng shuta - arte marcial  
 jenshen - ginseng  
 Jerze - Jersey  
 jeste - gesto  
+jiang ja - artesano  
 Jibraltar - Gibraltar  
 Jibuti - Yibuti  
 jihade - lucha  
@@ -1605,7 +1605,13 @@ jiu - vida
 jiu - vivo (lleno de vida)  
 joke - broma (chiste)  
 joke ja - bromista (chistoso)  
-jong - especie  
+jong - centro  
+jong - centrarse (en el centro de)  
+Jong Afrika Komun krati - República Centroafricana  
+jong di - central  
+jong fon - vocal  
+jong shula kan - escuela secundaria  
+Jongoku - China  
 joven - joven  
 joven fem - niña  
 joven jan - joven  
@@ -1617,13 +1623,7 @@ jude - fallo (juicio, criterio)
 jude ja - juez (árbitro, réferi)  
 jul - joule (J)  
 jumla - oración  
-jung - centro  
-jung - centrarse (en el centro de)  
-Jung Afrika Komun krati - República Centroafricana  
-jung di - central  
-jung fon - vocal  
-jung shula kan - escuela secundaria  
-Jungoku - China  
+jung - especie  
 jupe - falda  
 Jupiter - Jupiter  
 jus - jugo (zumo)  
@@ -1816,7 +1816,7 @@ kitabu forma - formateo
 kitabu gi - máquina de escribir  
 kitabu kan - biblioteca  
 kitabu minister - bibliotecario  
-kitabu shuta - literatura  
+kitabu suta - literatura  
 kivi - kiwi fruta  
 klar - claro  
 klas - clase (categoría)  
@@ -1862,9 +1862,6 @@ kon sel ja - consultor
 kon trati - convenion (pacto)  
 Konakri Ginia - Guinea  
 kone - cono  
-kong - agujero (hueco)  
-Kong Fuzi - confucio  
-kong fuzi sim - confucianismo  
 Konkani - konkani  
 konserte - concierto  
 kontra - estar en contra  
@@ -1915,10 +1912,10 @@ krus arka - ballesta
 krus lin - retículo  
 kuan - ancho  
 kuan ta - anchura  
-kuang - mineral (mena)  
-kuang ja - minero  
-kuang shan - mina  
-kuang sui - agua mineral  
+kuanga - mineral (mena)  
+kuanga ja - minero  
+kuanga san - mina  
+kuanga sui - agua mineral  
 kuarze - cuarzo  
 Kuba - Cuba  
 kube - cubo  
@@ -1930,6 +1927,9 @@ Kuke nesi - Islas Cook
 kul - genial  
 kulombe - culombio  
 kultur - cultura  
+kung - agujero (hueco)  
+Kung Fuzi - confucio  
+kung fuzi sim - confucianismo  
 kupa - vaso (taza, copa)  
 kupa chati - cúpula  
 kupon - cupón (vale)  
@@ -1958,7 +1958,7 @@ lal linse - lince rojo (gato montés)
 lal oranje - mandarina (tangerina)  
 lal salmon - salmón rojo  
 lala bede - cuna  
-lala chante - canción de cuna (nana)  
+lala chanta - canción de cuna (nana)  
 lama - lama  
 lampa - lámpara  
 lana - maldición  
@@ -2066,6 +2066,7 @@ logika - lógica
 logika di - logical  
 loka - lugar  
 loka di - local  
+lona - discusión (debate, discurso)  
 long - largo  
 long dura di - perdurable (longevo, prolongado)  
 long kata - novela (romance)  
@@ -2081,7 +2082,6 @@ luka fase - hexaedro (cubo)
 luka gona - hexágono  
 Luksemburge - Luxemburgo  
 lulu - perla  
-lun - discusión (debate, discurso)  
 luna - luna  
 luna keke - pastel de luna  
 lung - dragón  
@@ -2133,9 +2133,9 @@ manera - comportamiento (conducta)
 manera - comportarse (portarse)  
 manete - imán  
 manete di - magnético  
+mang - ocupado (atareado)  
 mangan - manganeso  
 mango - mango  
-mangu - ocupado (atareado)  
 mangus - mangostán (jobo de la India)  
 Mani - profeta Mani  
 mani din - maniqueísmo  
@@ -2184,7 +2184,7 @@ mata di - muerto
 mata ja - asesino  
 mate - sustancia (materia)  
 mate di - material  
-mate lun - materialismo  
+mate lona - materialismo  
 matras - colchón  
 matur - adulto  
 matur - maduro (adulto, curado)  
@@ -2226,7 +2226,7 @@ meme - oveja
 memo - memoria  
 memo bina - monumento  
 memo note - memorándum (nota)  
-men - fideo (tallarín)  
+mena - fideo (tallarín)  
 mendelef yum - mendelevio  
 meninge - meninge  
 meninge flame - meningitis  
@@ -2253,12 +2253,12 @@ mesi jene - Navidad
 mestre - maestro (experto)  
 metal - metal  
 metal bede - yunque  
-metal jang ja - herrero  
+metal jiang ja - herrero  
 metal lin - alambre (hilo)  
 metre - medir (medida)  
 metre gi - medidor  
 metre grafi - carta (mapa, tabla, gráfico)  
-metre grafi shuta - cartografía  
+metre grafi suta - cartografía  
 metre unta - unidad (medida)  
 meza - mesa  
 meza tela - mantel  
@@ -2315,14 +2315,14 @@ mode loge - adverbo
 model - modelar  
 moka - árbol  
 moka bano - tablón  
-moka jang ja - carpintero  
+moka jiang ja - carpintero  
 moka jong parke - arboreto  
 moka kane - estaca  
 moka mate - madera  
 moka tana - leño (tronca)  
 mol ja - molinero  
 mol kan - molino  
-mol sheku - muela  
+mol seku - muela  
 Moldova - Moldova  
 mole - mol  
 molekul - molécula  
@@ -2432,8 +2432,8 @@ Nauru - Naúru
 nautile - nautilo  
 nava - náhuatl (nahua)  
 nave - barco (bote)  
-nave gou - navegar (ir en bote)  
-nave ja - velero  
+nave ga - navegar (ir en bote)  
+nave ga ja - velero  
 nave kape ja - corsario  
 nave lefte - babor  
 nave raite - estribor  
@@ -2767,7 +2767,7 @@ politi - gobierno
 politi di - político  
 politi ja - político (administrador)  
 politi logi - ciencia política  
-politi lon - política  
+politi lona - política  
 politi mode - régimen  
 Polska - Polonia  
 polska basha - idioma polaco  
@@ -2798,7 +2798,7 @@ posta kan - oficina de correos
 posta marke - matasellos  
 pote chamacha - cucharón (cazo)  
 pote ja - alfarero  
-pote shuta - alfarería  
+pote suta - alfarería  
 poze - pose (postura)  
 prati - práctica  
 prati di - práctico  
@@ -2939,10 +2939,10 @@ rota lefte - en el sentido contrario al las agujas del reloj
 rota raite - en el sentido del las agujas del reloj  
 rota she - rotor  
 rota tafun - huracán (tifón)  
-rota van gi - trompo  
+rota vanu gi - trompo  
 Ruanda - Ruanda  
 rubi - rojo  
-rubi bau sheku - rubí  
+rubi bau seku - rubí  
 rubi yum - rubidio  
 ruhu - psique  
 ruhu di - mental (psíquico)  
@@ -3019,6 +3019,8 @@ sama hal - clima (tiempo)
 sama kinar - horizonte  
 samari yum - samario  
 Samoa - Samoa  
+san - montaña (colina)  
+san pike - cima (pico, cumbre, vértice)  
 sana - producción  
 sana basha - idioma artificial (lengua construida, conlang)  
 sana di - artificial (sintético)  
@@ -3061,6 +3063,8 @@ se su - su (suyo)
 sekse - sexo  
 sekse di - sexy (sexual)  
 sekse logi - sexología  
+seku - piedra  
+seku jiang ja - albañil (mampostero, cantero)  
 sekunde - segundo  
 sekur - seguro  
 sekur kode - contraseña  
@@ -3072,11 +3076,12 @@ selge - acelga
 selu - célula  
 selu logi - citología  
 seme - semilla  
-seme dane - pepita  
+seme dana - pepita  
 seme di - seminal  
 semente - cemento  
 sene - edad  
 Senegal - Senegal  
+seng - victoria  
 sense - sentido  
 sense shaka - tentáculo  
 senti - centi- (por ciento)  
@@ -3103,8 +3108,6 @@ sham yam - cena
 shaman - chamán (brujo, hechicero)  
 shampan - Champaña  
 shampan vin - champaña  
-shan - montaña (colina)  
-shan pike - cima (pico, cumbre, vértice)  
 shanti - descanso (alivio)  
 shanti di - tranquilo (calmado)  
 sharke - tiburón  
@@ -3128,9 +3131,6 @@ she hal - situación
 shefe - jefe  
 shefe di - principal  
 shefe minister - primer ministro  
-sheku - piedra  
-sheku jang ja - albañil (mampostero, cantero)  
-shenga - victoria  
 shia - facción  
 shia islam din - chiismo (chía)  
 shifu - maestro (profesor)  
@@ -3169,7 +3169,6 @@ shuru - comienzo (inicio, principio)
 shuru di - primer (inicial, inaugural)  
 shush - chito (chist)  
 shush di - silencioso  
-shuta - dotes (arte, habilidad)  
 si - ser (estar)  
 si dura - transcurrir  
 si ja - ser  
@@ -3245,7 +3244,7 @@ sona - sueño
 sona kamar - dormitorio  
 sona papi - adormidera (amapola real)  
 sona tabi - soñoliento (somnífero)  
-song - pino  
+songi - pino  
 soni - sonido (audio)  
 sor - cerradura (candado)  
 sos - salsa  
@@ -3306,7 +3305,7 @@ suna di - traditional (convencional)
 suna islam din - sunismo  
 sundar - hermoso (bello, lindo)  
 sundar daka - decoración (adorno)  
-sundar shuta - bellas artes  
+sundar suta - bellas artes  
 sundar ta - belleza (hermosura)  
 Suomi - Finlandia  
 suomi basha - idioma finés  
@@ -3322,6 +3321,7 @@ Surinam - Surinam
 surinam basha - sranan tongo  
 susan - lirio  
 sushi - sushi  
+suta - dotes (arte, habilidad)  
 sutur - costura (sutura)  
 Sven - Suecia  
 ####T - T  
@@ -3347,8 +3347,8 @@ tal di - bajo
 tal moka - arbusto (mata)  
 tal tela - alfombra (tapete)  
 tali yum - talio  
-tam - codicioso (avaro)  
 tamar - dátil  
+tami - codicioso (avaro)  
 Tamil - tamil  
 tana - tallo  
 tanah - Tanaj (Biblia hebrea)  
@@ -3375,7 +3375,7 @@ tela gi - telar
 tele - lo lejos  
 tele di - lejano (lejos)  
 tele fon gi - telefono  
-tele fon shuta - telefonía  
+tele fon suta - telefonía  
 tele ta - distancia  
 tele vide gi - televisión  
 teleskope - telescopio  
@@ -3449,7 +3449,7 @@ tren - tren
 tren dau - vía férrea  
 tri - tres (3)  
 tri gona - triángulo  
-tri zong - tridente  
+tri pike - tridente  
 tribu - tribu  
 Trinidade e Tobago - Trinidad y Tobago  
 truke - truco  
@@ -3668,12 +3668,12 @@ yoga ja - yogui
 yogo - yugo  
 yogur - yogur  
 Yohan festa - día de San Juan  
-yong - derretirse  
-yong liga - fusión  
-yong petra - lava  
 yumor - humor (gracia)  
 yumor di - humorístico (gracioso, cómico)  
 yumor ja - humorista  
+yung - derretirse  
+yung liga - fusión  
+yung petra - lava  
 yuter yum - itrio  
 yuterbi yum - iterbio  
 ####Z - Z  

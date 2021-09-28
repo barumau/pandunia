@@ -38,11 +38,11 @@ na pos da lili zaman, bari kelele be audi ze supra da kiau.
 «zai mi kape tu!» la gui ya loga.
 
 «ya, ching lai! mi ten du korne, ha jo mi sha harabu tu su oko.
-mi ten du dai jeng sheku, ha jo mi sha parcha tu su oste.»
+mi ten du dai jeng seku, ha jo mi sha parcha tu su oste.»
 
 e pos la, la dai behe ya harabu gui su oko, e parcha la gui su oste, e lanse la gui do rivo.
 pos la, ye marcha do gazo topo.
 na gazo topo, pan behe yam do se si gola.
 yemon sun no ten la energi do fuka do dom.
-e ga yemon zoku no kite, yemon zoku si gola.
+e gar yemon zoku no ga, yemon zoku si gola.
 

@@ -60,7 +60,7 @@ adhesivo - glu grafi
 adicional (extra) - mas di  
 adiós - salam chuti  
 adjetivo - sifa loga  
-adoquín - gola sheku  
+adoquín - gola seku  
 adoración (veneración, culto) - puja  
 adormidera (amapola real) - sona papi  
 adulterio - zina  
@@ -84,9 +84,9 @@ agrobiología - nong bio logi
 agronomía - nong nomi  
 agrícola - nong di  
 agua - sui  
-agua mineral - kuang sui  
+agua mineral - kuanga sui  
 aguacate - avakate  
-agujero (hueco) - kong  
+agujero (hueco) - kung  
 ahora mismo (justo) - na nove  
 ahorrar (reservar, depositar) - banka  
 aire - air  
@@ -100,7 +100,7 @@ alargar - fa long
 Alaska - Alaska  
 Albania - Chipe  
 albaricoque (ciruela) - briko  
-albañil (mampostero, cantero) - sheku jang ja  
+albañil (mampostero, cantero) - seku jiang ja  
 alcachofera - karchof  
 alcalino - kali  
 alcohol - alkol  
@@ -112,7 +112,7 @@ alfabeto - zi sili
 alfabeto cirílico - Kiril zi  
 alfabeto latino - Latin zi  
 alfarero - pote ja  
-alfarería - pote shuta  
+alfarería - pote suta  
 alfiler (espina, aguja) - pin  
 alfombra (tapete) - tal tela  
 alga - alga  
@@ -189,7 +189,7 @@ ano - anus
 antartida - Antartika  
 antena - antena  
 anterior (remoto) - pas  
-antibalas - dane sekur  
+antibalas - dana sekur  
 Anticristo - an mesi  
 Antigua - Antigua  
 Antigua y Barbuda - Antigua e Barbuda  
@@ -231,7 +231,7 @@ argumentar (alegar) - fa tese
 argumento - argu  
 argón - argon  
 argüir - fa argu  
-aritmética (cálculos) - hisabu shuta  
+aritmética (cálculos) - hisabu suta  
 arma - arme  
 arma nuclear - kerne arme  
 armadura - defa kaske  
@@ -252,8 +252,8 @@ arroz - ris
 arruinado (devastado, asolado) - harabu  
 arruinar (destruir, devastar, asolar) - harabu  
 arsénico - arsen yum  
-arte marcial - jeng shuta  
-artesano - jang ja  
+arte marcial - jang suta  
+artesano - jiang ja  
 artificial (sintético) - sana di  
 artista - arte ja  
 Artsaj - Arcah  
@@ -385,7 +385,7 @@ bebé - bebe
 Belarús - Belarus  
 Belice - Belize  
 belio - bel  
-bellas artes - sundar shuta  
+bellas artes - sundar suta  
 belleza (hermosura) - sundar ta  
 bellota - baluta frute  
 beneficioso (bueno) - eu  
@@ -547,8 +547,8 @@ campo de visión - vide medan
 Canadá - Kanada  
 canal (cauce, acequia, foso, zanja) - kanal  
 cancelar - fa siro  
-canción - chante  
-canción de cuna (nana) - lala chante  
+canción - chanta  
+canción de cuna (nana) - lala chanta  
 candado - pende sor  
 candela (unidad de intensidad luminosa) - kandela  
 canguro - kangaru  
@@ -556,7 +556,7 @@ cannabis (hachís, marihuana) - ganja
 canoa - kano  
 cansarse (fatigar) - be fatige  
 Cantalupo in Sabina - Kantalupo va Sabina  
-cantar - chante  
+cantar - chanta  
 cantidad - poli ta  
 caos (desorden) - haos  
 capa (manto) - mantol  
@@ -590,10 +590,10 @@ carnear (matar) - bucha
 carnicero - bucha ja  
 carpa (toldo) - hema  
 carpeta - dokumen sanduku  
-carpintero - moka jang ja  
+carpintero - moka jiang ja  
 carrera - pei gong jiu  
 carta (mapa, tabla, gráfico) - metre grafi  
-cartografía - metre grafi shuta  
+cartografía - metre grafi suta  
 carvis (alcaravea) - karavi  
 carácter - zi  
 casa (hogar, residencia) - dom  
@@ -635,10 +635,10 @@ ceniza - hui
 centellear (titilar) - fa sing foto  
 centenario - sento nen di  
 centi- (por ciento) - senti  
-central - jung di  
+central - jong di  
 centrar (concentrar) - fa jong  
-centrarse (en el centro de) - jung  
-centro - jung  
+centrarse (en el centro de) - jong  
+centro - jong  
 centuria (siglo) - sento nen  
 centímetro - sentimitre  
 cepillar con garlopa - randa  
@@ -674,7 +674,7 @@ chiismo (chía) - shia islam din
 Chile - Chile  
 chile - chili  
 chimpancé - chimpanzi  
-China - Jungoku  
+China - Jongoku  
 chinchilla - chinchila  
 chinelo (pantufa) - babuche  
 chino mandarín - Putong Han  
@@ -694,7 +694,7 @@ cien (100) - sento
 ciencia (estudiar, investigar, -ología) - logi  
 ciencia política - politi logi  
 cigarro (cigarillo) - sigar  
-cima (pico, cumbre, vértice) - shan pike  
+cima (pico, cumbre, vértice) - san pike  
 cinc - zinke  
 cinco (5) - lima  
 cinta (cinta para el pelo) - kesha bande  
@@ -716,7 +716,7 @@ claro - klar
 clarín (corneta) - laba  
 clase (categoría) - klas  
 clasificar - fa klas  
-clavo (pincho, punta) - ding  
+clavo (pincho, punta) - dingi  
 cliente - klien  
 clima (tiempo) - sama hal  
 clima - klima  
@@ -736,7 +736,7 @@ cocinero - kuke ja
 coco - bubu  
 coco - yezi  
 cocodrilo - long krokodil  
-codicioso (avaro) - tam  
+codicioso (avaro) - tami  
 codificar (cifrar) - kode  
 codo - kudi  
 cohete (misil) - rokete  
@@ -806,15 +806,15 @@ conectar (empalmar, enlazar, vincular) - fa linke
 conejo (liebre) - tuzi  
 conexión (relación, asociación, juntura, enlace) - linke  
 confiar (contar con) - amen shin  
-confucianismo - kong fuzi sim  
-confucio - Kong Fuzi  
+confucianismo - kung fuzi sim  
+confucio - Kung Fuzi  
 confundido - ruhu mishe di  
 confundir (desconcertar, perplejo) - ruhu mishe  
 congelarse (helarse) - be ais  
 cono - kone  
 conocido -   
 consecuencia (siguiente) - pos  
-conseguir (obtener, recibir) - daku  
+conseguir (obtener, recibir) - deku  
 consejero (asesor) - mentor  
 consejo - sel  
 conservar (preservar, mantener) - hafiza  
@@ -833,7 +833,7 @@ continuo (analógico) - zoku di
 contraseña - pas loga  
 contraseña - sekur kode  
 contrato (tratado) - trati  
-contribuir - fendona  
+contribuir - fen dona  
 convalaria (lirio de los valles) - vali susan  
 convenion (pacto) - kon trati  
 copia (réplica) - kopi  
@@ -847,7 +847,7 @@ Corea - Chosen
 Corea del Norte - Norde Chosen  
 Corea del Sur - Sude Chosen  
 coreano - chosen di  
-coro - chante grupe  
+coro - chanta grupe  
 corona - korona  
 corporal (corpóreo) - badan di  
 correa (rein) - lida lin  
@@ -989,7 +989,7 @@ de (posposición de posesión) - da
 de (posposición de posesión) - su  
 de lado - late  
 debajo - na niche  
-debatir (discutir) - fa lon  
+debatir (discutir) - fa lona  
 deber (necesitar) - mus  
 deber (se recomienda) - be sel  
 deci- - desi  
@@ -1030,7 +1030,7 @@ derecho - haki
 derecho - raite di  
 derechos de autor (copyright) - kopi haki  
 derechos humanos - insan haki  
-derretirse - yong  
+derretirse - yung  
 derrota - bai  
 desacuerdo - alo rai  
 desarrollo - darja mute  
@@ -1084,7 +1084,7 @@ dirigente (líder) - lida ja
 dirigir (mandar, conducir, capitanear) - lida  
 disco - diske  
 discreto - alo fen di  
-discusión (debate, discurso) - lun  
+discusión (debate, discurso) - lona  
 disentir (no estar de acuerdo) - alo rai  
 disfrutar (jugar) - be vanu  
 disionario (lexicón) - loga liste  
@@ -1127,7 +1127,7 @@ dormir - be sona
 dormitorio - sona kamar  
 dos (2) - du  
 dos veces - du mar  
-dotes (arte, habilidad) - shuta  
+dotes (arte, habilidad) - suta  
 dragón - lung  
 drama - drama  
 droga (narcótico) - droge  
@@ -1224,7 +1224,7 @@ enero - mes un
 enfermedad - pati  
 enfermo - pati di  
 engañar - fa truke  
-engendrador - daku ja  
+engendrador - deku ja  
 enojado (furioso) - furi  
 enredadera - eskale tana  
 ensalada - salade  
@@ -1277,10 +1277,10 @@ escuchar (oír) - fa ore
 escudo - defa bano  
 escuela (colegio, institución) - shula kan  
 escuela primaria - baze shula kan  
-escuela secundaria - jung shula kan  
+escuela secundaria - jong shula kan  
 esculpir - fa eskulte  
 escultor - eskulte ja  
-escultura (arte de escultura) - eskulte shuta  
+escultura (arte de escultura) - eskulte suta  
 escultura (estatua) - eskulte  
 escupir (bufar) - tuh  
 ese (aquel) - go  
@@ -1297,7 +1297,7 @@ España - Espanya
 especia - masala  
 especial (diferenciado, distinto) - has  
 especialización (distinción) - has ta  
-especie - jong  
+especie - jung  
 espectador - vide ja  
 espejo (retrovisor) - mira plate  
 Esperanto - esperanto  
@@ -1411,7 +1411,7 @@ feministe - fem sim ja
 feo - dus vide  
 fermentar - be bio mute  
 fermio - fermi yum  
-fideo (tallarín) - men  
+fideo (tallarín) - mena  
 fiebrie (calentura) - febre  
 fijar (pegar, asegurar) - fa fikse  
 Fiji - Fiji  
@@ -1447,7 +1447,7 @@ foro (espacio público) - forum
 forzar (usar fuerte, imponer, coaccionar) - fa paka  
 fosa - kave  
 foto (fotografía) - foto grafi  
-fotografía - foto grafi shuta  
+fotografía - foto grafi suta  
 fotógrafo - foto grafi ja  
 fotón - foto so  
 fracaso - shiti bai  
@@ -1472,8 +1472,8 @@ funcionar - funsi
 funcionario - guan ja  
 fundador - baze ja  
 fundar (basar) - fa baze  
-fusionar (fundir) - be yong liga  
-fusión - yong liga  
+fusionar (fundir) - be yung liga  
+fusión - yung liga  
 fusión nuclear - kerne unta  
 fusta - uma bichi  
 futuro - pos zaman  
@@ -1482,7 +1482,7 @@ fábula - zou kata
 fácil - fasil  
 fácil acceso (accesibilidad) - ten fasil ta  
 física - fizika  
-física - fizika shuta  
+física - fizika suta  
 física nuclear - kerne fizika  
 físico (científico) - fizika ja  
 fósforo - pospor  
@@ -1655,7 +1655,7 @@ hercio (Hz) - herze
 hermano o hermana - brus  
 hermoso (bello, lindo) - sundar  
 herramienta - tul  
-herrero - metal jang ja  
+herrero - metal jiang ja  
 hervidor (tetera) - ketel  
 hervir (cocer) - boli  
 hervirse (ser cocida) - be boli  
@@ -1836,7 +1836,7 @@ invitar - ching lai
 inyección - jusha  
 inyectar - jusha  
 ion - ion  
-ir - ja  
+ir - ga  
 ira (furia) - furi ta  
 Iraq - Iraki  
 iridio - iris yum  
@@ -1871,7 +1871,7 @@ izquerdista - lefte sim ja
 izquierdo - lefte di  
 ####J - J  
 jabón - sabun  
-jade - gioka  
+jade - giuka  
 jainismo - jain din  
 Jamaica - Jamaika  
 japonés - nipon di  
@@ -1955,7 +1955,7 @@ lasaña - lazanya
 lateral (horizontal) - late di  
 latitud - vei darje  
 laurencio - laurence yum  
-lava - yong petra  
+lava - yung petra  
 lavadora - fuku vashi gi  
 lavar - vashi  
 leal (fiel) - amen bil  
@@ -2024,7 +2024,7 @@ lista blanca - halal liste
 lista negra - haram liste  
 listo (preparado) - redi  
 litera - cheng bede  
-literatura - kitabu shuta  
+literatura - kitabu suta  
 litio - lito yum  
 litro - litre  
 Lituania - Lietuva  
@@ -2055,7 +2055,7 @@ longitud - ging darja
 loro (papagayo) - papagai  
 lote (grupo) - lote  
 lucha - jihade  
-luchador (guerrero) - jeng ja  
+luchador (guerrero) - jang ja  
 lugar - loka  
 lugar de nacimiento - jene loka  
 lujuria (deseo) - kama  
@@ -2068,7 +2068,7 @@ Luxemburgo - Luksemburge
 luz (iluminación) - foto  
 lágrima - oko sui  
 lámpara - lampa  
-lápida - gabur sheku  
+lápida - gabur seku  
 lápiz - karbon kalam  
 látigo (fusta) - bichi  
 léxico - loga di  
@@ -2081,7 +2081,7 @@ lógica - logika
 Macao - Makau  
 Macedonia del Norte - Norde Makedonia  
 maceta (plantera) - hua pote  
-macrial (militar) - jeng di  
+macrial (militar) - jang di  
 macroalga - hai alga  
 Madagascar - Madagasi  
 madera - moka mate  
@@ -2171,7 +2171,7 @@ mate (opaco) - foto mata di
 matemática - hisabu logi  
 matemático - hisabu logi ja  
 material - mate di  
-materialismo - mate lun  
+materialismo - mate lona  
 maternal - ma di  
 Mauricio - Moris  
 mauritania - Muritania  
@@ -2259,9 +2259,9 @@ mili- - mili
 miligrama - mili gram  
 milimetre - mili metre  
 millón (mega-) - mega  
-mina - kuang shan  
-mineral (mena) - kuang  
-minero - kuang ja  
+mina - kuanga san  
+mineral (mena) - kuanga  
+minero - kuanga ja  
 minimalismo - minim sim  
 ministerio - ministre ofis  
 ministro - ministre ja  
@@ -2302,7 +2302,7 @@ monismo - un she sim
 monocromático - un rang di  
 monoteismo - un deu sim  
 monstro - mostre  
-montaña (colina) - shan  
+montaña (colina) - san  
 Montenegro - Chernagora  
 monumento - memo bina  
 monóculo - un oko di lense  
@@ -2329,7 +2329,7 @@ mucho (muchos) - poli
 muchos - multi  
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - fa kino  
 mueca - grimas  
-muela - mol sheku  
+muela - mol seku  
 muerte (fallecimiento) - mata  
 muerto - mata di  
 muesli - musli  
@@ -2385,7 +2385,7 @@ natrón - natre bilor
 nautilo - nautile  
 nave espacial - kosmo nave  
 navegador - brauza gi  
-navegar (ir en bote) - nave gou  
+navegar (ir en bote) - nave ga  
 Navidad - mesi jene  
 Nazi - nasi sosi sim ja  
 nazismo - nasi sosi sim  
@@ -2395,7 +2395,7 @@ necesidad - yau ta
 necesitar - yau  
 necrofilia - mata badan fili  
 nefritis - nefre flame  
-negociar - fa biznes lon  
+negociar - fa biznes lona  
 negocios (comercio) - biznes  
 negro - kala  
 nenúfar (lirio de agua) - nenufar  
@@ -2489,7 +2489,7 @@ ocra - bamia
 octubre - mes des  
 ocular - oko di  
 ocultar (esconder) - fa sir  
-ocupado (atareado) - mangu  
+ocupado (atareado) - mang  
 océano - dai hai  
 océano Antártico - Antartika Hai  
 océano Atlántico - Atlanti Hai  
@@ -2625,7 +2625,7 @@ partido (grupo) - parti
 partido - meche  
 Partido Pirata - pirate parti  
 partir (dividirse) - be fen  
-partícula (grano, bala) - dane  
+partícula (grano, bala) - dana  
 parámetro - param  
 pasa (uva pasa) - gan putau  
 pasado - chen zaman  
@@ -2659,9 +2659,9 @@ pecho (busto) - buste
 pecho (seno, tórax) - sine  
 pedal - pedal  
 pedazo - tika  
-pedernal (sílex) - hogo sheku  
+pedernal (sílex) - hogo seku  
 pedir (invitar; por favor) - ching  
-pedir prestado - jeka daku  
+pedir prestado - jeka deku  
 pedo - pede  
 peer - fa pede  
 pegajoso (adhesivo) - glu di  
@@ -2671,7 +2671,7 @@ pegar - fa pei
 peine - kanga  
 Pekín - Beijing  
 pelado (desvellado) - kesha hin  
-pelea (guerra, batalla) - jeng  
+pelea (guerra, batalla) - jang  
 peligro - hatar  
 peligroso - hatar di  
 pelo - kesha  
@@ -2687,7 +2687,7 @@ península - yaki nesi
 peonía - mudan  
 pepinillo - achar hiyar  
 pepino - hiyar  
-pepita - seme dane  
+pepita - seme dana  
 pequeño - lili  
 pera - pera  
 perdedor - shiti bai ja  
@@ -2699,7 +2699,7 @@ perdón - maf
 perecer - perishe  
 perfeccionar - fa pul bon  
 perfecto - pul bon  
-perforar (agujerar) - fa kong  
+perforar (agujerar) - fa kung  
 periférico - kinar di  
 periodista - gazeta ja  
 periódico (diario) - habar gazeta  
@@ -2725,13 +2725,13 @@ peto - sine plate
 petróleo - petra nefte  
 pez (pescado) - peshe  
 pez globo - balon peshe  
-peñasco (pedrusco) - dai sheku  
+peñasco (pedrusco) - dai seku  
 piano - piano  
 pico (punta) - pike  
 pidgin - pijin  
 pie (pata) - fute  
-piedra - sheku  
-piedra preciosa (joya, gema) - bau sheku  
+piedra - seku  
+piedra preciosa (joya, gema) - bau seku  
 piel - pil  
 pila (batería) - bateri  
 pilaf (pulaw) - polau  
@@ -2740,7 +2740,7 @@ pimienta - pipre
 pimpollo - joven moka  
 pincel - pente brosha  
 pingüino - pinguin  
-pino - song  
+pino - songi  
 pintar - fa pente  
 pintor - pente ja  
 pintura - pente  
@@ -2807,7 +2807,7 @@ polpa - fufu
 polvo - fun  
 polvo de cara - muka fun  
 polígono - poli gona  
-política - politi lon  
+política - politi lona  
 político (administrador) - politi ja  
 político - politi di  
 pomelo (toronja) - putau oranje  
@@ -2846,7 +2846,7 @@ presión - presa
 presión atmosférica - air presa  
 prestar (pedir prestado) - jeka  
 prestar - jeka dona  
-presuponer - chen ga  
+presuponer - chen gar  
 presupuesto - bujete  
 prever (esperar, pensar) - chen vide  
 previo (anterior) - chen  
@@ -3039,7 +3039,7 @@ representación (figura) - figur
 representar - vakil  
 Republica Dominicana - Dominika Komunkrati  
 repuesta (contestación) - javabu  
-República Centroafricana - Jung Afrika Komun krati  
+República Centroafricana - Jong Afrika Komun krati  
 República Checa - Cheska  
 República del Congo - Brazavil Kongo  
 República Democrática del Congo - Kinshasa Kongo  
@@ -3106,7 +3106,7 @@ roto - parche di
 rotor - rota she  
 Ruanda - Ruanda  
 rubidio - rubi yum  
-rubí - rubi bau sheku  
+rubí - rubi bau seku  
 rueda (volante) - chakra  
 ruido - kelele  
 ruiseñor - bulbul  
@@ -3231,7 +3231,7 @@ señal de tránsito - dau bano
 sharía - islam din sharia  
 Shiva - Shiva  
 shogunato - gun raja desha  
-si (suponer) - ga  
+si (suponer) - gar  
 Siberia - Sibiria  
 siempre - pan sata  
 sierra - sera  
@@ -3390,7 +3390,7 @@ telar - tela gi
 telaraña - arane nete  
 telefonear - fa tele fon  
 telefono - tele fon gi  
-telefonía - tele fon shuta  
+telefonía - tele fon suta  
 telescopio - teleskope  
 teletransportarse - be tele loka  
 televisión - tele vide gi  
@@ -3449,7 +3449,7 @@ tira (faja, vendaje, cinta) - fasha
 tirano (déspota) - zalim raja  
 tirar (lanzar, echar, arrojar, aventar) - lanse  
 tirar - tire  
-tiro con arco - arka shuta  
+tiro con arco - arka suta  
 titanio - titan yum  
 toalla - gan tela  
 tocar (rozar) - tochu  
@@ -3500,12 +3500,12 @@ tratar de - tema
 tren - tren  
 tres (3) - tri  
 tribu - tribu  
-tridente - tri zong  
+tridente - tri pike  
 trigo - ganum  
 Trinidad y Tobago - Trinidade e Tobago  
 triste - duka di  
 triángulo - tri gona  
-trompo - rota van gi  
+trompo - rota vanu gi  
 trucha arcoíris - rang arka salmon  
 trucha marrón - kafe salmon  
 truco - truke  
@@ -3592,7 +3592,7 @@ veganismo - pul fito yam sim
 vegano - pul fito yam sim ja  
 vegetariano - fito yam sim ja  
 vela (candela, cirio) - mum foto  
-velero - nave ja  
+velero - nave ga ja  
 velo - hijabu  
 velocímetro - rapide metre gi  
 vender - vende  
@@ -3626,13 +3626,13 @@ viaje - safar
 viajero - safar ja  
 vice- (alternativa, sustituto) - vise  
 vicepresidente - vise prezidente  
-victoria - shenga  
+victoria - seng  
 vida (orgánico) - bio  
 vida - jiu  
 vidriado (esmalte) - kancha daka  
 vidriar (glasear) - fa kancha dake  
 vidrio (cristal) - kancha  
-vidrio volcánico - hogo shan kancha  
+vidrio volcánico - hogo san kancha  
 viejo (anciano) - lau  
 viejo (anciano) - lau jan  
 viejo (antiguo) - chen zaman di  
@@ -3662,9 +3662,9 @@ vivir (residir) - be dom
 vivo (lleno de vida) - jiu  
 viñedo - putau bagi  
 vocabulario (léxico) - loga jama  
-vocal - jung fon  
+vocal - jong fon  
 volar - fei  
-volcán - hogo shan  
+volcán - hogo san  
 voltio (V) - volte  
 voluntad - ichi  
 volver - be retro  

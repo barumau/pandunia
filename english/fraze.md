@@ -55,7 +55,7 @@ Bon appetit!
 **salam lai!**
 Welcome!
 
-**salam gou!**
+**salam ga!**
 Goodbye!
 
 **salam safar!**
@@ -548,10 +548,10 @@ Please, help me.
 **haida yam!**
 Let's eat!
 
-**haida gou yam!**
+**haida ga yam!**
 Let's go eat!
 
-**haida gou dom.**
+**haida ga dom.**
 Let's go home.
 
 
@@ -733,24 +733,24 @@ Swahili, Hausa, Yoruba, Amharic
 
 ## Part 4. Going around
 
-### gou <small>to go</small>
+### ga <small>to go</small>
 
-**tu gou ke?**
+**tu ga ke?**
 Where are you going?
 
-**mi gou la dom.**
+**mi ga la dom.**
 I'm going home.
 
-**mi mus gou ke?**
+**mi mus ga ke?**
 Where should I go?
 
-**mi mus gou do ke jan?**
+**mi mus ga do ke jan?**
 To whom should I go?
 
-**haida gou!**
+**haida ga!**
 Let's go!
 
-**haida gou na fute**
+**haida ga na fute**
 Let's go by foot!
 
 

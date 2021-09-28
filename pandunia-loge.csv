@@ -549,7 +549,7 @@ chen||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
 chen|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before, in the past)|avant|más temprano (antes, haber, en el pasado)||раньше||以前|以前 (前に)|전에|||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|wcześniej (uprzednio, poprzednio, przedtem)
 chen den||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
 chen fikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
-chen ga||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
+chen gar||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
 chen vide||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
 chen vide di||||expected||||||||||||||||ennustettu|spodziewany (przewidziany)
 chen yang di||||classic (classical)||clásico|||||古典的|||||||||klassinen|klasyczny
@@ -623,9 +623,6 @@ dai shula kan||||university||universidad||||||||||||||yliopisto|uniwersytet
 dai siti||||big city|||||||||||||||urbego|suurkaupunki|
 dai ta||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
 daka||||cover (lid, cap, deck)||tapa (funda, cubierta)||||||||ढक्कन|||||kovrilo|peite (kansi)|pokrycie; pokrywa, wieko, dekiel; pokład
-deku|||zho:得 (dé), yue:得 (dak1), wuu:得 (teq4), jpn:得 (toku), kor:득 (deuk), kor:được|get (receive, obtain, take)||conseguir (obtener, recibir)|ter (achar, receber)|получить||获得|受ける (もらう)|||पाना|||kupata (kuget)|elde etmek|akiri (ricevi, preni)|hankkia (saada)|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
-deku ja||||getter (receiver, recipient)||engendrador||||||||||||||saaja (vastaanottaja)|odbiorca
-deku shitu||||gains and losses (pros and cons)||||||得失|得失|||||||||voitot ja tappiot|
 dalil|||ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|proof (evidence, proof, demonstration, testimony)|preuve|prueba|prova|доказательство||||||||||||todiste (todistus, osoitus, demonstraatio)|dowód; zeznanie
 dama gem|||fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel|checkers (draughts)|jeu de dames|damas|damas|шашки|ضَامَة‎|跳棋|チェッカー (西洋碁)|체커|cờ đam|चेकर्स (ड्राफ़्टस)|চেকারস|dam|drafti|dama|damludo|tammipeli|warcaby
 dan||| jpn:段 (dan), eng:fra:may:dan + zho:等 (děng),  yue:等 (dang2), kor:등 (dang), vie:đẳng|rank (grade, dan)|rang|||ранг||等 (段)|段 (等)||đẳng|||||||sija (taso, ranking, dan)|
@@ -680,6 +677,9 @@ defa bano||||shield|bouclire|escudo|escudo|щит||盾牌|盾|||||||||suojakilpi
 defa ja||||defender||defensor|||||||||||||defendanto (defendisto)|puolustaja|obrońca
 defa kaske||||armor (shielding)|armure|armadura|armadura|доспехи||盔甲|鎧|||||||||suojakypärä|zbroja
 Deimos|planete 4 lun 2|||Deimos||||||||||||||||Deimos|
+deku|||zho:得 (dé), yue:得 (dak1), wuu:得 (teq4), jpn:得 (toku), kor:득 (deuk), kor:được|get (receive, obtain, take)||conseguir (obtener, recibir)|ter (achar, receber)|получить||获得|受ける (もらう)|||पाना|||kupata (kuget)|elde etmek|akiri (ricevi, preni)|hankkia (saada)|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
+deku ja||||getter (receiver, recipient)||engendrador||||||||||||||saaja (vastaanottaja)|odbiorca
+deku shitu||||gains and losses (pros and cons)||||||得失|得失|||||||||voitot ja tappiot|
 dele|||eng:delay, fra:délai + hin:देरी (derī), urd: دیر‎ (der)|wait (delay)|délai (retard)|demora (retraso)|demora (atraso, espera)|||迟延|遅れ (遅延)|지연||||||||viive (odotus)|
 dele do||||wait for||esperar|||||||||||||atendi|odottaa|czekać
 demo|||eng:spa:demo-, fra:démo-, rus:демо- (demo-)|people (population)||pueblo (población)|||||||||||||popolo|väestö (kansa)|lud, społeczeństwo
@@ -996,9 +996,9 @@ fa koloni||||colonize||colonizar||||||||||||||kolonisoida|kolonizować
 fa komputa||||compute (to process data)||calcular (computar)||||||||||||||käsitellä dataa|policzyć, liczyć, przetwarzać dane
 fa komun||||share||compartir (tener en común)||||||||||||||jakaa yhteiseksi|dzielić (współdzielić)
 fa kon sabe||||communicate (inform about)||comunicar (informar)||||||||||||||tiedottaa (informoida)|poinformować, informować, zakomunikować, komunikować
-fa kung||||pierce (perforate, bore)||perforar (agujerar)||пробиться|||染みる (貫通する)|||||||||rei’ittää|przebić (perforować, dziurawić)
 fa kopi||||copy (replicate)||copiar|||||||||||||kopii|kopioida (jäljentää)|kopiować, replikować
 fa krus fikse||||crucify||crucificar||||||||||||||ristiinnaulita|ukrzyżować
+fa kung||||pierce (perforate, bore)||perforar (agujerar)||пробиться|||染みる (貫通する)|||||||||rei’ittää|przebić (perforować, dziurawić)
 fa lai||||bring|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
 fa Latin kitabu||||romanize||romanizar||||||||||||||latinoida|zromanizować
 fa lenshi||||practice (to exercise)||practicar (ensayar, ejercitar)|||||||||||||ekzerci|harjoitella (treenata)|ćwiczyć
@@ -1190,8 +1190,8 @@ fem sim||||feminism||feminismo||||||||||||||feminismi|feminizm
 fem sim ja||||feminist||feministe||||||||||||||feministi|feminista (feministka)
 fen|||zho:分 (fèn), wuu:分 (fén), yue:分 (fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|part (component, segment, fraction, distinct element of something larger)|part|parte (fracción)|parte|parte||部分|部分|부분|phần|अंश|অংশ |suku (bagian)|sehemu|parça|parto (frakcio)|osa (lohko, pala)|część, ułamek
 fen di||||partial||parcial|||||部分的|||||||||osittainen|
-fen gata||||analysis (dissection)|analyse|análisis (disección)|análise|анализ||分析|分析 (解析)|||विश्लेषण||||analiz|analizo|analyysi|analiza
 fen dona||||contribute||contribuir||||||||||||||osallistua (tehdä osansa)|wnieć wkład (przyczynić się)
+fen gata||||analysis (dissection)|analyse|análisis (disección)|análise|анализ||分析|分析 (解析)|||विश्लेषण||||analiz|analizo|analyysi|analiza
 fermi yum|yum 100|Fm|eng:fermium, fra:fermium, spa:fermio, por:férmio, rus:фермий, zho:镄 (fèi), jpn:フェルミウム, kor:페르뮴, vie:fecmi, hin:फर्मियम, ben:ফার্মিয়াম, may:fermium, swa:fermi, ara: فرميوم|fermium|fermium|fermio|férmio|фермий|فرميوم|镄|フェルミウム|페르뮴|fecmi|फर्मियम|ফার্মিয়াম|fermium|fermi|fermiyum|fermio|fermium|ferm
 fero|yum 026|Fe|spa:hierro, por:ferro, fra:fer, may:ferum, swa:feri|iron|fer|hierro|ferro|железо|حديد|铁|鉄|철|sắt|लोहा|আয়রন|besi (ferum)|chuma (feri)|demir|fero|rauta|żelazo
 festa|||por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival'), may:pesta|party (celebration, festival)||celebración (fiesta)||||||||||pesta|||festo|juhlat|przyjęcie, święto, festiwal
@@ -1302,7 +1302,7 @@ fute bol|||eng:fra:football, spa:fútbol, por:futebol, deu:Fußball, hin:फ़�
 fute marke||||footprint|empreinte de pied|pisada (huella)|pegada|след ноги||脚印|足跡|발자국||||||ayak izi||jalanjälki|
 fute shaka|bode|||leg||||||||||||||||jalka (alaraaja)|noga
 G||||G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G|G
-ga|||yue:假 (gaa1), wuu:假 (ga) + hin:अगर (agar), fas:urd:اگر‎‎ (agar), tur:eğer|if (suppose, assume)|si|si (suponer)|se|если|إن|如果 (要是)|もし|||अगर (यदि)||jika (kalau)|ikiwa (kama)||se|jos (olettaa)|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa
+ga|||eng:go + hin:जाना (jānā), ben:যাওয়া (jaoya) + kor:가다 (gada)|go (move through space)|aller|ir|ir|идти||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść
 Gabon|desha|GA||Gabon||Gabón||||||||||||||Gabon|Gabon
 gabur|||ara:(qabr), hin:क़ब्र (qabra), ben:কবর (kôbôr), may:kubur, swa:kaburi, tur:kabir + deu:Grab, pol:grób, rus:гроб (grob)|grave (tomb, bury)|tombe (enterrer)|tumba (sepultura, enterrar)|sepultura (túmulo, enterrar)|могила (гроб, хоронить)||坟墓 (埋葬)|墓 (埋葬, 葬る)|무덤|mộ (phần mộ)|क़ब्र|কবর|kubur|kaburi|mezar (kabir)|tombo (enterigi)|hauta|grób (mogiła, grobowiec, zakopać, pochować)
 gabur bagi||||graveyard (cemetery, burial ground)|cimetière|cementerio|cemitério|кладбище|مقبرة‎|公墓 (墓地)|墓 (墓地)|묘지|nghĩa trang|क़ब्रिस्तान|কারবালা|pekuburan|makaburi|mezarlık (kabristan, mezaristan)|tombejo|hautausmaa|cmentarz
@@ -1342,6 +1342,7 @@ ganja|||hin:गांजा (gāñjā), urd:(gānjā), pnb:ਗਾਂਜਾ (gā
 ganse|||spa:por:ganso, hin:हंस (hans), ben:হাঁস (hãs), may:angsa eng:goose, rus:гусь (gus’), pol:gęś + yue:雁 (ngaan6), jpn:雁 (gan), tha:ห่าน (han)|goose|oie|ganso (oca)|ganso|гусь||雁 (鹅)|雁 (鵝鳥)|기러기|ngỗng|हंस|হাঁস|angsa|bata bukini|kaz|ansero|hanhi|gęś
 ganum|bio|Triticum|fas:گندم‎(gandom), may:gandum, urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano|wheat|blé|trigo|trigo|пшеница|قمح‎|麦|小麦|밀|lúa mì|गेहूँ|গম|gandum|ngano|buğday|tritiko|vehnä|pszenica
 ganya|||fra:gagner, por:ganhar, spa:ganar, eng:gain|earn (gain)||ganar (cobrar)|||||||||||||akiri (gajni)|hankkia (ansaita)|zyskać, zyskiwać, zarobić, zarabiać
+gar|||yue:假 (gaa1), wuu:假 (ga) + hin:अगर (agar), fas:urd:اگر‎‎ (agar), tur:eğer|if (suppose, assume)|si|si (suponer)|se|если|إن|如果 (要是)|もし|||अगर (यदि)||jika (kalau)|ikiwa (kama)||se|jos (olettaa)|jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa
 garanti|||eng:guarantee, spa:garantía, por:garantia, fra:garantie, deu:Garantie, rus:гарантия (garantiya), tur:garanti|guarantee (warranty)||garantía|||||||||||||garantio|takuu|gwarancja
 garde||||guard (watch)||vigilar (guardar)|||||||||||||gardi|vartioida (vahtia)|chronić, strzec,  osłaniać, bronić
 garde ja|||eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)|guardian (watchman)||vigilante (guardia)|||||||||||||gardisto|vartija (vahti)|strażnik, ochroniarz
@@ -1412,9 +1413,9 @@ ging lin||||warp||||||經紗|縦糸|||||||||loimi|
 gingam|bio|Citrus japonica|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|kumquat|kumquat|kumquat (quinoto)|quincã (cunquate)|кумкват (кинкан)||金柑|キンカン (キンキツ)|||||kumkuat||kumkat||kumkvatti|kumkwat
 gio||||teach (educate, instruct, doctrine)|enseigner|enseñar (instruir, doctrina)|ensinar (lecionar)|учить (преподавать)|دَرَّسَ|教学|教える (教義, -教)|||सिखाना (पढ़ाना)|শেখান|mengajar|kufundisha|öğretmek (ders vermek)|instrui (lernigi)|opettaa|
 gio ja||||teacher (instructor)||docente (enseñante, profesor, maestro)|||||教員|||||||||opettaja|
-giuka|||zho:玉 (yù), yue:玉 (yuk6), nan:玉 (gio̍k), jpn:玉 (gyoku), vie:ngọc (玉), may:giok|jade|jade|jade|jade|нефрит (жад)||玉||||||giok||yeşim|jado|jade|żad
 giota|||tha:หยด (yòt), vie:giọt, + eng:iota, rus:йота (yota) + spa:por:gota|drop (droplet)||gota||||||||||||||pisara (tippa)|kropla
 gitar|||eng:guitar, fra:guitare, spa:por:guitarra, rus:гитара (gitara), ara:(qīṯāra), hin:गिटार (giṭār), ben:গিটার (giṭar), zho:吉他 (jítā), jpn:ギター (gitā), kor:기타 (gita), swa:gitaa|guitar|guitare|guitarra|guitarra|гитара||吉他|ギター|기타|ghi-ta|गिटार|গিটার|gitar|gitaa|gitar|gitaro|kitara|gitara
+giuka|||zho:玉 (yù), yue:玉 (yuk6), nan:玉 (gio̍k), jpn:玉 (gyoku), vie:ngọc (玉), may:giok|jade|jade|jade|jade|нефрит (жад)||玉||||||giok||yeşim|jado|jade|żad
 glis|||fra:glisser, ita:glissare + eng:glacier,glissando, spa:por:glaciar,glisando, rus:глиссандо (glissando), ara:غليساندو (ghlysandw), jpn:グリッサンド (gurissando) + may:gelangsar|slide (slip, glide, skate)|glisser|deslizar|deslizar|задвигаться (скользи́ть)||滑下|滑る|||||||||liukua (luistaa)|ślizgać się (poślizgnąć się, jeździć na łyżwach)
 glu|||eng:glue, swa:gluu, may:glu + fra:glutineux|glue (adhesive)||pegamento (pega, goma)|||||||||||||gluo|liima|klej
 glu bande||||adhesive bandage (band-aid, sticking plaster)|pansement (sparadrap)|curita (apósito)|penso (band-aid)|пластырь||创可贴 (邦迪)|絆創膏|반창고||||||||laastari|
@@ -1610,9 +1611,9 @@ hobi ja||||hobbyist (amateur)|amateur|amateur (aficionado)|amador|любител
 hogo|||spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|fire (burning)|feu|fuego|fogo|огонь|نَار|火|火|불|lửa|आग (अग्नि)|আগুন (অগ্নি)|api|moto|ateş|fajro|tuli|ogień
 hogo di||||fiery||ardiente (encendido)|||||||||||||fajra|tulinen|ognisty
 hogo puja||||pyrolatry||||||||||||||||tulenpalvonta|kult ognia
-hogo sanduku||||lantern||farol (linterna)|||||||||||||lanterno|lyhty|latarnia
 hogo san||||volcano|volcan|volcán|vulcão|вулкан||火山|火山|||||||||tulivuori|wulkan
 hogo san kancha||||volcanic glass||vidrio volcánico||||||||||||||vulkaaninen lasi|szkło wulkaniczne
+hogo sanduku||||lantern||farol (linterna)|||||||||||||lanterno|lyhty|latarnia
 hogo seku||||flint|silex|pedernal (sílex)|pederneira|кремень||燧石|火打ち石 (フリント)|||चक़मक़||||||piikivi|krzemień
 hogo tehni||||fireworks (pyrotechnics)|feu d’artifice|dispositivo pirotécnico|fogos de artifício|фейерверк||烟火|花火|||||||||pyrotekniikka|pirotechnika
 hoki|||eng:fra:spa:hockey, por:hóquei, rus:хоккей (hokkey),  jpn:ホッケー (hokkē), hin:हाकी (hākī), ben:হকি (hôki), ara:(hūkī), swa:hoki|hockey|hockey|hockey|hóquei|хоккей||曲棍球|ホッケー|khúc côn cầu||हाकी|হকি|hoki||hokey|hokeo|hockey (jääkiekko)|hokej
@@ -1714,7 +1715,6 @@ Islande|desha|IS||Iceland||Islandia|||||||||||||Islando|Islanti|Islandia
 Israel|desha|IL||Israel||Israel|||||||||||||Israelo|Israel|Izrael
 Italia|desha|IT||Italy||Italia|||||||||||||Italio|Italia|Italia, Włochy
 J||||J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J
-ja|||hin:जाना (jānā), ben:যাওয়া (jaoya) + ara:جَاءَ‎ (jāʾa)|go (move through space)|aller|ir|ir|идти||去|行く|가다|đi|जाना|যাওয়া|pergi|kuenda|gitmek|iri|mennä|iść
 ja|||zho:者 (zhě);家 (jiă), kor:자 (ja), vie:gia|doer (agent, actor)||hacedor (perpetrador)|||||||||||||isto (anto)|tekijä (aikaansaaja)|przyrostek dla wykonawcy
 jaga||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 jaga|||hin:जागना (jāgnā), ben:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), mar:जागणे (j̈āgṇe), guj:જાગવું (jāgvũ), may:jaga|awake|éveillé|despierto|acordado||||||||||jaga||uyanık|olla hereillä|przebudzony, przytomny
@@ -1730,8 +1730,10 @@ jamul|bio|Syzygium|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:
 jan|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|person (individual, -ist, -er)|personne|persona (ista, -ador)|pessoa|||人|人 (者, 員, 徒)||||||||persono|henkilö|osoba
 janela|||por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|window|fenêtre|ventana|janela|окно|شباك‎|窗戶|窓|창|cửa sổ|खिड़की|জানালা|jendela|dirisha|pencere|fenestro|ikkuna|okno
 janela frem||||window frame||||||窗框|||||||||fenestrokadro|ikkunankehys (ikkunanpuite)|
-jiang di||||crafty (dexterous)||||||||||||||||kätevä|umiejętny (sprawny, zręczny)
-jiang ja|||zho:匠 (jiàng), yue:匠 (zoeng6), tha:ช่าง (jang), khm:ជាង (ciəng)|artisan (craftsman)||artesano||||工匠 (匠人)|||||||||metiisto|artesaani (käsityöläinen)|rzemieślnik
+jang|||zho:爭 (zhēng), yue:爭 (zang1), vie:tranh, kor:전쟁 (jeonjaeng) + fas:urd:(jang), hin:जंग (jang), tur:ceng|fight (war, battle, combat)||pelea (guerra, batalla)||||戰爭 (斗争, 战斗)|戦闘 (格闘)|||||||savaş (ceng)|milito (batalo)|taistelu (sota)|walka, wojna
+jang di||||military (martial, warlike)||macrial (militar)|||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
+jang ja||||warrior (fighter)||luchador (guerrero)||||||||||||||soturi (taistelija)|wojownik, bojownik
+jang suta|||zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|martial art||arte marcial||||||||||||||kamppailulaji|sztuka walki
 jangal|||eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|forest (woods, jungle)|forêt (jungle)|bosque (jungla, selva)|selva (floresta, jângal)|лес (джунгли)||森林|森 (森林, ジャングル)|숲 (삼림 , 정글)|rừng|जंगल (वन)|বন (জঙ্গল)|hutan (jenggela)|msitu|orman (cengel)|arbaro|metsä (viidakko)|las, dżungla, zagajnik
 jara|||ara: جَرَة‎ (jara), eng:jar, fra:jarre, spa:por:jarra|jar (jug, pitcher, carafe, amphora, vase)|jarre (carafe, cruche)|jarra|jarra (jarro)|кувшин (графин)|جَرَّة‎ (زِير‎)|罐 (瓶)|||lọ (bình)||||||kruĉo|ruukku (kannu, maljakko, karahvi)|dzban, dzbanek; słój, słoik; wazon
 jau|bio|Hordeum vulgare|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|barley|orge|cebada|cevada|ячмень||大麦|大麦|보리|lúa mạch|जौ|যব|barli|shayiri|arpa|hordeo|ohra|jęczmień
@@ -1762,13 +1764,11 @@ jene logi||||genealogy (study of descent)|généalogie|genealogía|genealogia|г
 jene loka||||birthplace|lieu de naissance|lugar de nacimiento|terra natal|место рождения||出生地|出生地|출생지|nơi sinh (sinh quán)|जन्मस्थान||||doğum yeri|naskiĝejo|syntymäpaikka|
 jene tipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
 jene yo zou||||breed|élever|criar||выращивать|||湧かす||||||||||rozmnażać
-jeng|||zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|fight (war, battle, combat)||pelea (guerra, batalla)|||||戦闘 (格闘)||||||||milito (batalo)|taistelu (sota)|walka, wojna
-jeng di||||military (martial, warlike)||macrial (militar)|||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
-jeng ja||||warrior (fighter)||luchador (guerrero)||||||||||||||soturi (taistelija)|wojownik, bojownik
-jeng suta|||zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art|martial art||arte marcial||||||||||||||kamppailulaji|sztuka walki
 jenshen|bine|Panax|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|ginseng||ginseng||||||||||||||ginseng|żeń-szeń
 Jerze|desha|JE||Jersey||Jersey||||||||||||||Jersey|Jersey
 jeste|||eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|gesture||gesto||||||||||||||ele|gest
+jiang di||||crafty (dexterous)||||||||||||||||kätevä|umiejętny (sprawny, zręczny)
+jiang ja|||zho:匠 (jiàng), yue:匠 (zoeng6), tha:ช่าง (jang), khm:ជាង (ciəng)|artisan (craftsman)||artesano||||工匠 (匠人)|||||||||metiisto|artesaani (käsityöläinen)|rzemieślnik
 Jibraltar|desha|GI||Gibraltar||Gibraltar||||||||||||||Gibraltar|Gibraltar
 Jibuti|desha|DJ||Djibouti||Yibuti||||||||||||||Djiboutia|Dżibuti
 jihade|||ara: جهاد (jihād), tur:cihat, swa:jihadi + eng:fra:por:may:jihad, spa:yihad, rus:джихад (džihad), jpn:ジハード (jihādo), kor:지하드 (jihadeu), hin:जिहाद (jihād)|struggle (strife)|lutte|lucha|luta|борьба (бой)||||||||||mücadele (cihat)||kamppailu (taistelu)|
@@ -1785,7 +1785,13 @@ jiu||||live (be alive, living)|vivant|vivo (lleno de vida)|vivo|живой||||||
 jo||||which (who, that)||||||||||||||||joka (mikä)|
 joke|||eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|joke||broma (chiste)||||||||||||||vitsi|żart
 joke ja||||joker||bromista (chistoso)||||||||||||||vitsiniekka|żartowniś, dowcipniś
-jung|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species||especie||||||||||||||laji|gatunek
+jong|||zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
+jong||||to be centered (amid, in the middle)||centrarse (en el centro de)||||||||||||||keskittyä (olla keskellä)|być wycentrowanym, być w środku
+Jong Afrika Komun krati|desha|CF||Central African Republic||República Centroafricana||||||||||||||Keski-Afrikan Tasavalta|Republika Środkowoafrykańska
+jong di||||central (middle)||central|||||||||||||||centralny (środkowy)
+jong fon||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali|samogłoska
+jong shula kan||||secondary school|école secondaire|escuela secundaria|ensino secundário|средняя школа||中学|||trường trung học|||sekolah menengah|||gimnazio|yläaste ja lukio|
+Jongoku|desha|CN||China|Chine|China|China|Китай|اَلصِّين‎|中国|中国|중국|Trung Quốc|चीन|চীন|Cina (Tiongkok)|Uchina|Çin|Ĉinio|Kiina|Chiny
 joven|||hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|young (juvenile)|jeune (juvénile)|joven|jovem|юный||||젊다||जवान|||||juna|nuori|młody
 joven fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
 joven jan||||youth (young person)||joven|||||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
@@ -1798,13 +1804,7 @@ jude di||||judicial||||||||||||||||oikeudellinen|
 jude ja|||eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|judge (referee)|juje|juez (árbitro, réferi)|juiz|судья|||||||||||juĝisto|tuomari|sędzia
 jul|unomete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
 jumla|||ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|sentence (phrase)||oración||фраза||句子|||||||||||zdanie (fraza)
-jong|||zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
-jong||||to be centered (amid, in the middle)||centrarse (en el centro de)||||||||||||||keskittyä (olla keskellä)|być wycentrowanym, być w środku
-Jong Afrika Komun krati|desha|CF||Central African Republic||República Centroafricana||||||||||||||Keski-Afrikan Tasavalta|Republika Środkowoafrykańska
-jong di||||central (middle)||central|||||||||||||||centralny (środkowy)
-jong fon||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali|samogłoska
-jong shula kan||||secondary school|école secondaire|escuela secundaria|ensino secundário|средняя школа||中学|||trường trung học|||sekolah menengah|||gimnazio|yläaste ja lukio|
-Jongoku|desha|CN||China|Chine|China|China|Китай|اَلصِّين‎|中国|中国|중국|Trung Quốc|चीन|চীন|Cina (Tiongkok)|Uchina|Çin|Ĉinio|Kiina|Chiny
+jung|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species||especie||||||||||||||laji|gatunek
 jupe|||fra:jupe, ara:(jūb), rus:юбка (yubka)|skirt||falda|||||||||||||jupo|hame|spódnica
 Jupiter|planete 5|||Jupiter|Jupiter|Jupiter|Júpiter|Юпитер|المشتري|木星|木星|||||||Jüpiter||Jupiter|Jowisz
 jus|||eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|juice|jus|jugo (zumo)|suco (sumo)|сок|عَصِير‎|汁|ジュース|즙 (스)|dịch|रस|রস|jus|jusi|šire|suko|mehu|sok
@@ -2076,9 +2076,6 @@ kon ten||||hold together||||||||||||||||pitää yhdessä|
 kon trati||||pact (contract, covenant, alliance)|convention (alliance, pacte)|convenion (pacto)|pacto|контракт||公約||||||||||liittosopimus|pakt (kontrakt, ugoda, umowa, konwencja)
 Konakri Ginia|desha|GN||Guinea||Guinea||||||||||||||Guinea|Gwinea
 kone|||eng:por:cone, spa:cono, fra:conique, rus:ко́нус (kónus), tur:koni, may:kon|cone||cono||||||||||||||kartio (keila)|szyszka
-kung|||zho:孔 (kǒng), yue:孔 (hung2), wuu:孔 (khon2), jpn:孔 (kō), kor:공 (gong), vie:hỏng|hole||agujero (hueco)||||||||||||||reikä|dziura
-Kung Fuzi|||zho:孔夫子 (Kǒng Fūzǐ)|Confucious||confucio|||||||||||||Konfuceo|Kungfutse|Konfucjusz
-kung fuzi sim||||Confucianism||confucianismo||||||||||||||Kungfutselaisuus|konfucjanizm
 Konkani|nas|||Konkani||konkani||||||||||||||konkani (eräs intialainen kieli)|konkani
 konserte|||eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)|concert|concert|concierto|concerto|концерт||音乐会|コンサート (音楽会)|콘서트 (음악회)||कॉन्सर्ट|সঙ্গীতানুষ্ঠান|konser||konser|koncerto|konsertti|koncert
 kontra|coverb|||go against||estar en contra|||||||||||||kontraŭi|mennä vasten|być przeciw
@@ -2151,6 +2148,9 @@ Kuke nesi|desha|CK||Cook Islands||Islas Cook||||||||||||||Cookin saaret|Wyspy Co
 kul|||eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)|cool||genial|||||カッコいい||||||||bonega (mojosa)|upea (hieno)|świetny
 kulombe|unomete|C||coulomb (unit)||culombio||||||||||||||kulombi (mittayksikkö C)|kulomb
 kultur|||eng:fra:culture, spa:por:cultura, rus:культу́ра (kulʹtúra), tur:kültür, jpn:カルチャー (karuchā)|culture||cultura|||||||||||||kulturo|kulttuuri|kultura
+kung|||zho:孔 (kǒng), yue:孔 (hung2), wuu:孔 (khon2), jpn:孔 (kō), kor:공 (gong), vie:hỏng|hole||agujero (hueco)||||||||||||||reikä|dziura
+Kung Fuzi|||zho:孔夫子 (Kǒng Fūzǐ)|Confucious||confucio|||||||||||||Konfuceo|Kungfutse|Konfucjusz
+kung fuzi sim||||Confucianism||confucianismo||||||||||||||Kungfutselaisuus|konfucjanizm
 kupa|||eng:cup, fra:coupe, spa:copa, por:copo, ara: كُوب‎ (kūb), tur:kupa, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop) + fas:(koppe), ara:قبة (qubba), may:kubah, rus:купол (kupol), deu:Kuppel|drinking vessel (cup, glass, mug, goblet, chalice)|coupe (tasse, verre)|vaso (taza, copa)|copo (taça)|чаша (чашка, стакан)|كُوب‎|杯子|コップ|컵|ly (chén)|प्याला|পেয়ালা|cangkir (cawan, gelas)|kikombe (glas)|kase (fincan, bardak, kupa)|taso|malja (kuppi, muki, lasi)|kubek
 kupa chati||||dome||cúpula||||||||||||||kupoli (holvikatto)|kopuła
 kupon|||eng:fra:coupon, spa:cupón, por:cupom, rus:купо́н (kupón), may:kupon, jpn:クーポン (kūpon), kor:쿠폰 (kupon), swa:kuponi|coupon||cupón (vale)|||||||||||kuponi|||kuponki|kupon
@@ -2297,6 +2297,7 @@ logika|||eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luó
 logika di||||logical||logical|||||||||||||logika|looginen|logiczny
 loka|||eng:location, spa:lugar, fra:localisation, + deu:tur:lokal, pol:lokalny|place (location)|lieu|lugar|lugar (local)|место|مَكَان|地方|場所|장소||जगह (मकान)|জায়গা|tempat|pahali||loko|paikka (sija, sijainti)|miejsce, lokacja
 loka di||||local|local|local|local||||||||||||loka|paikallinen|miejscowy, lokalny
+lona|||zho:论 (lùn), yue:論 (leo6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||discusión (debate, discurso)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
 London||||London|||||||||||||||||Londyn
 long|||eng:fra:long, deu:lang, por:longo|long (lengthy)|long|largo|longo|||长|長い|길다|dài|लम्बा|দীর্ঘ (লম্বা)|panjang||uzun|longa|pitkä|długi
 long dura||||for a long time|longtemps||por muito tempo|долго||久||||||||||kauan (pitkän aikaa)|
@@ -2315,7 +2316,6 @@ luka fase||||hexahedron (cube)||hexaedro (cubo)||||||||||||||kuutio (kuusitahoka
 luka gona||||hexagon||hexágono||||||||||||||kuusikulmio|sześciokąt (sześciobok)
 Luksemburge|desha|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg
 lulu|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła
-lona|||zho:论 (lùn), yue:論 (leo6), kor:론 (ron), jpn:論 (ron), vie:luận|discussion (debate, discourse)||discusión (debate, discurso)||||论||||||||||väittely (debatti)|dyskusja, debata, dyskurs
 luna|planete 3 lun 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|lune|luna|lua|луна|||||||||||luno|kuu|księżyc
 luna keke||||mooncake|gâteau de lune|pastel de luna|bolo lunar|лунный пирог|كَعْكَة اَلْقَمَر‎|月饼|月餅|월병||||kue bulan||ay keki||kuukakku|
 lung|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)|dragon||dragón||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|smok
@@ -2373,9 +2373,9 @@ manera|||fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (m
 manera||||behave (act)||comportarse (portarse)||||||||||||||käyttäytyä|zachowywać się (działać)
 manete|||eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara:مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|magnet||imán|||||||||||sumaku|||magneetti|magnes
 manete di||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
+mang|||zho:忙 (máng), yue:忙 (mong4), wuu:忙 (maan), kor:망 (mang)|busy (occupied)|occupé|ocupado (atareado)|ocupado (atarefado)|занятый||忙|忙しい|||व्यस्त||ramai (sibuk)|kushugulika|işlek|okupata|kiireinen|zajęty
 mangan|yum 025|Mn|eng:manganese, fra:manganèse, spa:manganeso, por:manganésio, rus:марганец, zho:锰 (měng), jpn:マンガン, kor:망가니즈, vie:mangan, hin:मैंगनीज, ben:ম্যাঙ্গানিজ, may:manggan, swa:manganisi, ara: منجنيز|manganese|manganèse|manganeso|manganésio|марганец|منجنيز|锰|マンガン|망간|mangan|मैंगनीज|ম্যাঙ্গানিজ|manggan|manganisi|mangan|mangano|mangaani|mangan
 mango|bio||mal:മാങ്ങ (māṅṅa), eng:spa:tur:mango, por:manga, rus:манго (mango), may:mangga, jpn:マンゴー (mangō), kor:망고 (manggo)|mango||mango||||||||||||||mango|mango
-mang|||zho:忙 (máng), yue:忙 (mong4), wuu:忙 (maan), kor:망 (mang)|busy (occupied)|occupé|ocupado (atareado)|ocupado (atarefado)|занятый||忙|忙しい|||व्यस्त||ramai (sibuk)|kushugulika|işlek|okupata|kiireinen|zajęty
 mangus|bio|Garcinia mangostana||mangosteen||mangostán (jobo de la India)||||||||||||||mangostani|mangostan
 Mani||||prophet Mani||profeta Mani||||||||||||||profeetta Mani|prorok Mani
 mani din||||Manichaeism|manichéisme|maniqueísmo|maniqueísmo|манихейство||摩尼教||||||||||manikealaisuus|manicheizm
@@ -2689,8 +2689,8 @@ Nauru|desha|NR||Nauru||Naúru||||||||||||||Nauru|Nauru
 nautile|bio||eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|nautilus|nautile|nautilo|nautiloide|наутилид||鹦鹉螺|オウムガイ|||नौटिलस|||||||nautilus
 nava||||Nahuatl (Nahua)||náhuatl (nahua)|||||||||||||naūatla|nahuatli|nahuatl
 nave|||fra:navire, spa:nave, por:navio, fas: ناو‎ (nâv), hin:नाव (nāv)|boat (ship)|bateau|barco (bote)|barco (navio)|лодка (бот)|مركب|船 (艇)|舟 (ボート)|||पोत (नाव)||kapal (perahu)|mashua (chombo)||boato (ŝipo)|vene (laiva)|łódź, statek
-nave gou||||sail||navegar (ir en bote)|||||||||||||boatumi|veneillä|żeglować (płynąć)
-nave ja||||sailer||velero||||||||||||||veneilijä|żeglarz (marynarz)
+nave ga||||sail||navegar (ir en bote)|||||||||||||boatumi|veneillä|żeglować (płynąć)
+nave ga ja||||sailer||velero||||||||||||||veneilijä|żeglarz (marynarz)
 nave kape ja||||privateer (buccaneer)||corsario||||||||||||||laivakaappari|kaper (korsarz)
 nave lefte||||port (left side of a ship)|babord|babor|bombordo|левый борт||左舷|||||||||babordo|paapuuri|bakburta (lewa burta)
 nave raite||||starboard (right side of a ship)|tribord|estribor||правый борт||右舷|||||||||tribordo|tyyrpuuri|sterburta (prawa burta)
@@ -3325,6 +3325,8 @@ sama hal||||weather||clima (tiempo)||погода||天气|天気|날씨|thời t
 sama kinar||||horizon||horizonte||горизонт||地平线|地平線 (水平線, 天際)||||||||||horyzont
 samari yum|yum 062|Sm|eng:samarium, fra:samarium, spa:samario, por:samário, rus:самарий, zho:钐 (shān), jpn:サマリウム, kor:사마륨, vie:samari, hin:सैमरियम, ben:সামারিয়াম, may:samarium, swa:samari, ara: ساماريوم|samarium|samarium|samario|samário|самарий|ساماريوم|钐|サマリウム|사마륨|samari|सैमरियम|সামারিয়াম|samarium|samari|samaryum|samario|samarium|samar
 Samoa|desha|WS||Samoa||Samoa||||||||||||||Samoa|Samoa
+san|||zho:山 (shān), yue:山 (saan1), jpn:山 (san), kor:산 (san), vie:sơn|mountain (hill)||montaña (colina)|||||||||||||monto|vuori (mäki)|góra, wzgórze
+san pike||||top (peak, pinnacle, summit, apex, vertex)|cime (pic, sommet)|cima (pico, cumbre, vértice)|cume (pico, topo)|вершина|||頂点||||||||pinto|huippu|szczyt (wierzchołek)
 sana|||ara:(ṣanaʿa), swa:sanaa, tur:sanat + jpn:產 (san), kor:산 (san), vie:sản, zho:產 (chǎn), yue:產 (caan2)|manufacturing (production, industry)||producción||||||||||||||valmistus (tuotanto)|produkcja
 sana basha||||artificial language (conlang)||idioma artificial (lengua construida, conlang)|||||||||||||artefarita lingvo|keinotekoinen kieli (tekokieli, keinokieli)|język sztuczny
 sana di||||artificial||artificial (sintético)||||||||||||||keinotekoinen (teko-, keino-)|sztuczny
@@ -3372,6 +3374,8 @@ se su||||own|son (sa)|su (suyo)||||||||||||||oma (-nsa)|
 sekse|||eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|sex (sexual relation)||sexo|||||||||||||sekso|seksi (sukupuolisuhde)|seks, stosunek płciowy
 sekse di||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny, ponętny
 sekse logi||||sexology|sexologie|sexología|sexologia|сексология|طِبّ جِنْسِيّ‎|性学|性科学||tình dục học||যৌনবিদ্যা|||seksoloji||seksologia|seksuologia
+seku|||zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)|stone (piece of rock)|pierre|piedra|pedra|камень (камешек)||石 (岩)|||||||||ŝtono|kivi (hippu)|kamień (kawał skały)
+seku jiang ja||||mason (stonemason, stonecutter)||albañil (mampostero, cantero)|||||石匠||||||||||kamieniarz
 sekunde|||eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)|second(s)||segundo||||||||||||||sekunti|sekunda
 sekur|||eng:secure, deu:sicher, spa:por:seguro|safe (secure, protected)|sûr|seguro|seguro|||||||||||||turvallinen (varma)|bezpieczny
 sekur kode||||password (security code)||contraseña|||||||||||||||hasło
@@ -3389,6 +3393,8 @@ semente|||eng:cement, may:semen, spa:cemento, swa:sementi, tur:çimento, vie:xi 
 sene|||ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)|age|âge|edad|idade|возраст|عُمْر|年岁|年齢|연세||आयु (उमर)||umur|umri||aĝo|ikä|wiek
 sene di||||aged|||idoso (sene)|||||||||||||iäkäs|
 Senegal|desha|SN||Senegal||Senegal||||||||||||||Senegal|Senegal
+seng|||zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|victory (win, triumph)||victoria|||||||||||||venko|voitto|zwycięstwo, wygrana
+seng bai||||outcome (victory or defeat)||||||勝敗|勝敗||||||||||
 sense|||eng:sense, spa:por:sentido, fra:sens|sense (method of perception)|sens|sentido|sentido|чувство|حاسة‎|感觉|感覚|감각|||||||sentumo|aisti|zmysł
 sense gi||||sensor (detector)||||||||||||||||sensori (aistin)|sensor (detektor, czujka)
 sense shaka||||tentacle (feeler)|tentacule|tentáculo|tentáculo|щупальце||觸手|触手||||||||||macka (czułek)
@@ -3419,8 +3425,6 @@ sham yam||||dinner||cena|||||夕食||||||||vespermanĝo|illallinen|kolacja
 shaman|||eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)|shaman||chamán (brujo, hechicero)||шаман|||シャーマン|||||dukun (pawang, shaman)|||ŝamano|šamaani|szaman
 shampan|regia|||Champagne|Champagne|Champaña|Champagne|Шампань|||香槟|シャンパーニュ|||||||||Champagne
 shampan vin|alkohol|||champagne|champagne|champaña|champanhe|шампанское||||||||||||ĉampano|samppanja
-san|||zho:山 (shān), yue:山 (saan1), jpn:山 (san), kor:산 (san), vie:sơn|mountain (hill)||montaña (colina)|||||||||||||monto|vuori (mäki)|góra, wzgórze
-san pike||||top (peak, pinnacle, summit, apex, vertex)|cime (pic, sommet)|cima (pico, cumbre, vértice)|cume (pico, topo)|вершина|||頂点||||||||pinto|huippu|szczyt (wierzchołek)
 shanghai|site|||Shanghai||||||上海|||||||||||Szanghaj
 shanti|||hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)|rest (relief, repose)|repos|descanso (alivio)|descanso (repouso)|отдых||||||||||||lepo|zostawić (zostawiać)
 shanti di||||calm (peaceful, quiet)|calme (tranquille)|tranquilo (calmado)|tranquilo (calmo)|спокойный||||||शांत|||||trankvila (serena)|rauhallinen (levollinen, tyyni)|spokojny
@@ -3447,10 +3451,6 @@ she hal ironi||||situational irony|||||||||||||||||ironia sytuacyjna
 shefe|||fra:chef, por:chefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|chief (boss)|chef|jefe|chefe|шеф|||||||||||estro (ĉefulo)|päällikkö (pomo)|szef, kierownik
 shefe di||||main (principal)||principal||||||||||||||pää-|główny
 shefe minister||||prime minister||primer ministro|||||||||||||ĉefministro|pääministeri (suurvisiiri)|premier
-seku|||zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)|stone (piece of rock)|pierre|piedra|pedra|камень (камешек)||石 (岩)|||||||||ŝtono|kivi (hippu)|kamień (kawał skały)
-seku jiang ja||||mason (stonemason, stonecutter)||albañil (mampostero, cantero)|||||石匠||||||||||kamieniarz
-seng|||zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|victory (win, triumph)||victoria|||||||||||||venko|voitto|zwycięstwo, wygrana
-seng bai||||outcome (victory or defeat)||||||勝敗|勝敗||||||||||
 shi|||zho:氏 (shì), yue:氏 (si6), jpn:氏 (-shi), kor:씨 (ssi) + may:si + hin:श्री (śrī), ben:শ্রী  (śri)|Mx. (Mr. or Ms.)|||||||さん (氏)|||श्री|শ্রী|||||herra tai rouva|
 shia|||ara: شِيعَة (šīʿa), heb: סִיעָה (si'á) + zho:系 (xì)|faction (clique)|faction (clique)|facción|facção|фракция (клика)|شيعة|派系||||||||||porukka (kuppikunta, lohko, siipi)|
 shia islam din||||Shia Islam (Shi’ism)|chiisme|chiismo (chía)|xiismo|шиизм|الشِّيعَة‎|什叶派|シーア派|||शिया|||||ŝijaismo|šiialaisuus|szyism
@@ -3493,8 +3493,6 @@ shuru|||ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुर�
 shuru di||||initial (first)||primer (inicial, inaugural)||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
 shush|||eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|hush (shh)||chito (chist)||||噓|しーっ|쉿|suỵt|||||||hiljaa (hys, shhh)|ćsi
 shush di||||silent||silencioso||тихий|||||||||||silenta|hiljainen|cichy
-suta|||zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|skill (art, craft)|art|dotes (arte, habilidad)|arte|искусство||技术|術|||||||||taito|umiejętność (kompetencja)
-suta tabi||||skillful (crafty)|||||||||||||||||
 si|||zho:是 (shì), yue:是 (si4) + spa:por:ser|be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
 si dura||||elapse (pass by, go by)|se passer|transcurrir|transcorrer|||||||||||||kulua (vieriä)|
 si ja||||being (entity)||ser||||||||||||||olento (olio)|
@@ -3654,6 +3652,8 @@ Surinam|desha|SR||Suriname||Surinam||||||||||||||Surinam|Surinam
 surinam basha|basha|||Sranan Tongo||sranan tongo||||||||||||||sranan tongo|język surinamski
 susan|bio|Lilium candidum|fas:sousan, ara:(sawsan), heb:(šōšān), + eng:Susan, por:spa:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)|lily|lys|lirio|lírio|лилия||百合花||||कुमुदिनी||lili||zambak||lilja|lilia
 sushi|||jpn:寿司 (sushi), eng:spa:sushi, rus:су́ши (sushi), tur:suşi|sushi||sushi|||||||||||||suŝio|sushi|sushi
+suta|||zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|skill (art, craft)|art|dotes (arte, habilidad)|arte|искусство||技术|術|||||||||taito|umiejętność (kompetencja)
+suta tabi||||skillful (crafty)|||||||||||||||||
 sutur|||fra:eng:suture, por:spa:sutura|suture (seam)||costura (sutura)||||||||||||||sauma (ommel)|szew
 Sven|desha|SE||Sweden||Suecia||||||||||||||Ruotsi|Szwecja
 T||||T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T
@@ -3681,8 +3681,8 @@ tal di|||fas:ته (tah), hin:तह (tah) + zho:低 (dī), yue:低 (dai1), wuu:�
 tal moka||||bush (shrub)|buisson|arbusto (mata)|arbusto (mata)|куст||灌木|灌木 (藪)|||झाड़ी||alas gandar|||||krzak (krzew)
 tal tela||||carpet (rug)||alfombra (tapete)||ковёр|||絨毯 (カーペット)||||||||||dywan
 tali yum|yum 081|Tl|eng:thallium, fra:thallium, spa:talio, por:tálio, rus:таллий, zho:铊 (tā), jpn:タリウム, kor:탈륨, vie:tali, hin:थैलियम, ben:থ্যালিয়াম, may:tallium, swa:tali, ara: ثاليوم|thallium|thallium|talio|tálio|таллий|ثاليوم|铊|タリウム|탈륨|tali|थैलियम|থ্যালিয়াম|tallium|tali|talyum|talio|tallium|tal
-tami|||ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), yue:貪 (taam1), kor:탐욕 (tamyok), vie:tham|greedy||codicioso (avaro)||||贪婪的|||||||||avida|ahne|chciwy (żądny)
 tamar|bio||por:tamara, ara:(tamar)|date fruit||dátil|||||||||||mtende|||taateli|daktyl
+tami|||ara: طَمَّاع‎ (ṭammāʿ), zho:贪 (tān), yue:貪 (taam1), kor:탐욕 (tamyok), vie:tham|greedy||codicioso (avaro)||||贪婪的|||||||||avida|ahne|chciwy (żądny)
 Tamil|nas|||Tamil||tamil||||||||||||||tamil (eräs intialainen kieli)|tamilski
 tana|||fas: تنه‎ (tane), hin:तना (tanā), tam:தண்டு (taṇṭu), vie:thân, tha:ต้น (ton), may:tangkai|stem (torso, trunk, stalk)|tige|tallo|haste (talo, caule)|стебель||茎 (梗)|茎 (胴)|||तना (डाली)||tangkai|shina||||łodyga (tors, pień, trzon)
 tanah||||Tanakh (Jewish Bible)||Tanaj (Biblia hebrea)||||||||||||||tanakh|Tanach, Biblia hebrajska
@@ -4035,15 +4035,15 @@ yoga ja||||yogi||yogui||||||||||||||joogi|jogin (joginka)
 yogo|||eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách|yoke|joug|yugo|jugo|ярмо (иго)||轭|軛||ách|जुआ|জোয়াল|||boyunduruk|jugo|ies|jarzmo
 yogur|||eng:may:yogurt, fra:yogourt, spa:yogur, por:iogurte, rus:йогурт (yogurt), zho:优格 (yōugé), jpn:ヨーグルト (yōguruto), kor:요구르트 (yogureuteu), tur:yoğurt |yogurt|yaourt (yogourt)|yogur|iogurte|йогурт|لَبَن|酸奶 (优格)|ヨーグルト|요구르트|sữa chua|दही|দই|yogurt|maziwa ya mgando|yoğurt|jogurto|jogurtti|jogurt
 Yohan festa||||Saint John's Day||día de San Juan||Иванов день||||||||||||juhannus (kristillinen juhla)|dzień świętego Jana
-yung|||zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|melt|melt|derretirse|derretre|||融化|溶ける|||||||||sulaa|topnieć (upłynniać się)
-yung liga||||fusion (amalgamation)||fusión||||||||||||||fuusio (yhteensulautuminen)|fuzja (amalgamowanie, łączenie)
-yung petra||||lava|lave|lava||||熔岩|溶岩|||||||||laava|lawa
-yung safa||||smelt|fondu|||||熔炼|||||||||||topić (upłynnić, upłynniać)
 Yoruba|nas|||Yoruba (language and people)|||||||||||||kiyoruba|||joruban kansa ja kieli|Joruba
 yota|nomer||eng:fra:spa:por:yotta, may:yota-, zho:尧它- (yáotā-), jpn:ヨタ- (yota-), kor:요타- (yota-)|yotta-||||||||||||||||kvadriljoona (jotta-)|
 yumor|||rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|humor||humor (gracia)||юмор|||||||||||humuro|huumori|humor
 yumor di||||humorous (comical, funny)||humorístico (gracioso, cómico)|||||||||||||humura|koominen (hauska)|humorystyczny, śmieszny, zabawny, komiczny
 yumor ja||||humorist||humorista|||||||||||||humuristo|humoristi|komik
+yung|||zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|melt|melt|derretirse|derretre|||融化|溶ける|||||||||sulaa|topnieć (upłynniać się)
+yung liga||||fusion (amalgamation)||fusión||||||||||||||fuusio (yhteensulautuminen)|fuzja (amalgamowanie, łączenie)
+yung petra||||lava|lave|lava||||熔岩|溶岩|||||||||laava|lawa
+yung safa||||smelt|fondu|||||熔炼|||||||||||topić (upłynnić, upłynniać)
 yuter yum|yum 039|Y|eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم|yttrium|yttrium|itrio|itrio|иттрий|يتريوم|钇|イットリウム|이트륨|ytri|इत्रियम|ইটরিয়াম|itrium|yitri|i̇triyum|itrio|yttrium|itr
 yuterbi yum|yum 070|Yb|eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم|ytterbium|ytterbium|iterbio|itérbio|иттербий|يتربيوم|镱|イッテルビウム|이테르븀|ytecbi|यिट्टरबियम|ইটারবিয়াম|iterbium|yitebi|i̇tterbiyum|iterbio|ytterbium|iterb
 Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z

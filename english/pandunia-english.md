@@ -155,7 +155,7 @@ Ariel - Ariel
 arka - bow (arch, arc)  
 arka chati - vault (arched ceiling or roof)  
 arka ja - archer  
-arka shuta - archery  
+arka suta - archery  
 arme - weapon (arms)  
 aroma - smell (sniff)  
 aroma - scent (odor, fragrance, aroma)  
@@ -296,7 +296,7 @@ bateri - battery
 bati - eight (8)  
 bau - treasure (valuables)  
 bau di - precious  
-bau sheku - gem (gemstone, jewel)  
+bau seku - gem (gemstone, jewel)  
 baya - bay (gulf)  
 bazar - market (bazaar)  
 bazar huru sim - market liberalism  
@@ -378,7 +378,7 @@ be turbe - be bothered by (bother to, take the trouble to)
 be vai - exit (get out)  
 be vanu - enjoy (play)  
 be vide - be seen  
-be yong liga - merge (fuse)  
+be yung liga - merge (fuse)  
 be zai - appear  
 bebe - baby (infant)  
 bebe bede - crib  
@@ -535,9 +535,9 @@ chaku - knife
 chamacha - spoon  
 champion - champion  
 chanse - opportunity (chance)  
-chante - sing  
-chante - song  
-chante grupe - choir (chorus)  
+chanta - sing  
+chanta - song  
+chanta grupe - choir (chorus)  
 chapati - flatbread (chapati, roti)  
 chape - print (stamp)  
 charme - charm (attraction)  
@@ -547,7 +547,7 @@ chen - previous (fore)
 chen - earlier (before, in the past)  
 chen den - yesterday  
 chen fikse - prefix  
-chen ga - assume (presuppose)  
+chen gar - assume (presuppose)  
 chen vide - expect (anticipate, predict, forsee)  
 chen vide di - expected  
 chen yang di - classic (classical)  
@@ -616,19 +616,16 @@ dai lasun - giant onion
 dai pau - gun (cannon)  
 dai pau ja - cannoneer  
 dai pote - cauldron  
-dai sheku - boulder  
+dai seku - boulder  
 dai shula kan - university  
 dai siti - big city  
 dai ta - size  
 daka - cover (lid, cap, deck)  
-daku - get (receive, obtain, take)  
-daku ja - getter (receiver, recipient)  
-daku shitu - gains and losses (pros and cons)  
 dalil - proof (evidence, proof, demonstration, testimony)  
 dama gem - checkers (draughts)  
 dan - rank (grade, dan)  
-dane - particle (grain, bullet)  
-dane sekur - bulletproof  
+dana - particle (grain, bullet)  
+dana sekur - bulletproof  
 dang - ring (toll, clang)  
 dang gi - bell  
 danse - dance  
@@ -678,6 +675,9 @@ defa bano - shield
 defa ja - defender  
 defa kaske - armor (shielding)  
 Deimos - Deimos  
+deku - get (receive, obtain, take)  
+deku ja - getter (receiver, recipient)  
+deku shitu - gains and losses (pros and cons)  
 dele - wait (delay)  
 dele do - wait for  
 demo - people (population)  
@@ -719,7 +719,7 @@ din ja - believer (religious person)
 din shia - sect (cult)  
 dinamite - dynamite  
 dinde - turkey  
-ding - nail (spike)  
+dingi - nail (spike)  
 dino saur - dinosaur  
 Dione - Dione  
 diorite - diorite  
@@ -864,7 +864,7 @@ Eskandinavia - Scandinavia
 Eskote - Scotland  
 eskulte - sculpture (statue)  
 eskulte ja - sculptor  
-eskulte shuta - sculpture (art of sculpting)  
+eskulte suta - sculpture (art of sculpting)  
 Espanya - Spain  
 espanya fon di - hispanophone (Spanish speaking)  
 esperanto - Esperanto  
@@ -912,7 +912,7 @@ fa auto - personalize (customize)
 fa avar - harm (damage)  
 fa baze - found  
 fa bina - build (construct)  
-fa biznes lon - negotiate (arrange)  
+fa biznes lona - negotiate (arrange)  
 fa budi - realize  
 fa chape - press (imprint)  
 fa chori - steal  
@@ -994,9 +994,9 @@ fa koloni - colonize
 fa komputa - compute (to process data)  
 fa komun - share  
 fa kon sabe - communicate (inform about)  
-fa kong - pierce (perforate, bore)  
 fa kopi - copy (replicate)  
 fa krus fikse - crucify  
+fa kung - pierce (perforate, bore)  
 fa lai - bring  
 fa Latin kitabu - romanize  
 fa lenshi - practice (to exercise)  
@@ -1004,7 +1004,7 @@ fa libu - erect
 fa lika - strengthen (reinforce)  
 fa linke - connect (join, link)  
 fa loka - put (place, set)  
-fa lon - debate (discuss)  
+fa lona - debate (discuss)  
 fa long - lengthen (prolong)  
 fa maf - forgive (pardon)  
 fa mal - own (possess, have)  
@@ -1188,8 +1188,8 @@ fem sim - feminism
 fem sim ja - feminist  
 fen - part (component, segment, fraction, distinct element of something larger)  
 fen di - partial  
+fen dona - contribute  
 fen gata - analysis (dissection)  
-fendona - contribute  
 fermi yum - fermium  
 fero - iron  
 festa - party (celebration, festival)  
@@ -1221,7 +1221,7 @@ fito logi - botany (phytology)
 fito yam sim ja - vegetarian  
 fizika - physics  
 fizika ja - physicist  
-fizika shuta - physics (science)  
+fizika suta - physics (science)  
 flame - inflammation (-itis)  
 fleche - arrow (bolt)  
 fleche ja - fletcher  
@@ -1256,7 +1256,7 @@ foto gola - halo (aureola)
 foto grafi - photograph  
 foto grafi gi - camera  
 foto grafi ja - photographer  
-foto grafi shuta - photography  
+foto grafi suta - photography  
 foto kane - torch  
 foto lin - optical fibre (optical cable)  
 foto mata di - matte (opaque)  
@@ -1300,11 +1300,11 @@ fute bol - football (soccer)
 fute marke - footprint  
 fute shaka - leg  
 ####G - G  
-ga - if (suppose, assume)  
+ga - go (move through space)  
 Gabon - Gabon  
 gabur - grave (tomb, bury)  
 gabur bagi - graveyard (cemetery, burial ground)  
-gabur sheku - tombstone (gravestone)  
+gabur seku - tombstone (gravestone)  
 gadolin yum - gadolinium  
 gaja - elephant  
 galaksi - galaxy  
@@ -1340,6 +1340,7 @@ ganja - cannabis (marijuana, ganja, pot, weed)
 ganse - goose  
 ganum - wheat  
 ganya - earn (gain)  
+gar - if (suppose, assume)  
 garanti - guarantee (warranty)  
 garde - guard (watch)  
 garde ja - guardian (watchman)  
@@ -1409,9 +1410,9 @@ ging lin - warp
 gingam - kumquat  
 gio - teach (educate, instruct, doctrine)  
 gio ja - teacher (instructor)  
-gioka - jade  
 giota - drop (droplet)  
 gitar - guitar  
+giuka - jade  
 glis - slide (slip, glide, skate)  
 glu - glue (adhesive)  
 glu bande - adhesive bandage (band-aid, sticking plaster)  
@@ -1423,7 +1424,7 @@ go - that over there
 gol - goal (destination)  
 gola - circle (sphere, round object)  
 gola di - round (circular)  
-gola sheku - cobblestone  
+gola seku - cobblestone  
 golem - golem  
 gomu - rubber  
 gona - corner (angle)  
@@ -1596,7 +1597,7 @@ hisabu - calculation
 hisabu loge - account  
 hisabu logi - mathematics (math)  
 hisabu logi ja - mathematician  
-hisabu shuta - arithmetics  
+hisabu suta - arithmetics  
 histori - history (annals)  
 histori ja - historian  
 histori logi - history (study of history)  
@@ -1607,10 +1608,10 @@ hobi ja - hobbyist (amateur)
 hogo - fire (burning)  
 hogo di - fiery  
 hogo puja - pyrolatry  
+hogo san - volcano  
+hogo san kancha - volcanic glass  
 hogo sanduku - lantern  
-hogo shan - volcano  
-hogo shan kancha - volcanic glass  
-hogo sheku - flint  
+hogo seku - flint  
 hogo tehni - fireworks (pyrotechnics)  
 hoki - hockey  
 holera - cholera  
@@ -1711,7 +1712,6 @@ Islande - Iceland
 Israel - Israel  
 Italia - Italy  
 ####J - J  
-ja - go (move through space)  
 ja - doer (agent, actor)  
 jaga - wake (make awake)  
 jaga - awake  
@@ -1727,8 +1727,10 @@ jamul - jamul (jambul, rose apple)
 jan - person (individual, -ist, -er)  
 janela - window  
 janela frem - window frame  
-jang di - crafty (dexterous)  
-jang ja - artisan (craftsman)  
+jang - fight (war, battle, combat)  
+jang di - military (martial, warlike)  
+jang ja - warrior (fighter)  
+jang suta - martial art  
 jangal - forest (woods, jungle)  
 jara - jar (jug, pitcher, carafe, amphora, vase)  
 jau - barley  
@@ -1738,7 +1740,7 @@ jaze - jazz
 jebe - pocket  
 jebra - algebra  
 jeka - borrow (lend)  
-jeka daku - borrow  
+jeka deku - borrow  
 jeka dona - lend  
 jeka loga - loanword  
 jela - prison (imprisonment)  
@@ -1759,13 +1761,11 @@ jene logi - genealogy (study of descent)
 jene loka - birthplace  
 jene tipe - genotype  
 jene yo zou - breed  
-jeng - fight (war, battle, combat)  
-jeng di - military (martial, warlike)  
-jeng ja - warrior (fighter)  
-jeng shuta - martial art  
 jenshen - ginseng  
 Jerze - Jersey  
 jeste - gesture  
+jiang di - crafty (dexterous)  
+jiang ja - artisan (craftsman)  
 Jibraltar - Gibraltar  
 Jibuti - Djibouti  
 jihade - struggle (strife)  
@@ -1782,7 +1782,13 @@ jiu - live (be alive, living)
 jo - which (who, that)  
 joke - joke  
 joke ja - joker  
-jong - species  
+jong - middle (center)  
+jong - to be centered (amid, in the middle)  
+Jong Afrika Komun krati - Central African Republic  
+jong di - central (middle)  
+jong fon - vowel  
+jong shula kan - secondary school  
+Jongoku - China  
 joven - young (juvenile)  
 joven fem - girl  
 joven jan - youth (young person)  
@@ -1795,13 +1801,7 @@ jude di - judicial
 jude ja - judge (referee)  
 jul - joule (J)  
 jumla - sentence (phrase)  
-jung - middle (center)  
-jung - to be centered (amid, in the middle)  
-Jung Afrika Komun krati - Central African Republic  
-jung di - central (middle)  
-jung fon - vowel  
-jung shula kan - secondary school  
-Jungoku - China  
+jung - species  
 jupe - skirt  
 Jupiter - Jupiter  
 jus - juice  
@@ -1897,7 +1897,7 @@ kanun - law
 kanyon - canyon (ravine, gorge, gully)  
 kape - catch (capture, seize, snatch, intercept)  
 kape truke - trap (snare)  
-kape yo kuang - mine (extract minerals)  
+kape yo kuanga - mine (extract minerals)  
 kape yo peshe - catch fish  
 kape yo taksi - collect fees or taxes  
 kar - car (cart, carriage, wagon, automobile)  
@@ -2016,7 +2016,7 @@ kitabu forma - formatting
 kitabu gi - typewriter  
 kitabu kan - library  
 kitabu minister - librarian  
-kitabu shuta - literature  
+kitabu suta - literature  
 kivi - kiwi fruit  
 klar - clear (obvious)  
 klar! - of course! (obviously)  
@@ -2072,9 +2072,6 @@ kon ten - hold together
 kon trati - pact (contract, covenant, alliance)  
 Konakri Ginia - Guinea  
 kone - cone  
-kong - hole  
-Kong Fuzi - Confucious  
-kong fuzi sim - Confucianism  
 Konkani - Konkani  
 konserte - concert  
 kontra - go against  
@@ -2130,11 +2127,11 @@ krus arka - crossbow (ballista)
 krus lin - crosshair (reticle)  
 kuan - wide (broad)  
 kuan ta - width (breadth)  
-kuang - mineral (ore)  
-kuang ja - miner  
-kuang shan - mine  
-kuang sui - mineral water  
-kuang tunel - mineshaft  
+kuanga - mineral (ore)  
+kuanga ja - miner  
+kuanga san - mine  
+kuanga sui - mineral water  
+kuanga tunel - mineshaft  
 kuarze - quartz  
 Kuba - Cuba  
 kube - cube  
@@ -2147,6 +2144,9 @@ Kuke nesi - Cook Islands
 kul - cool  
 kulombe - coulomb (unit)  
 kultur - culture  
+kung - hole  
+Kung Fuzi - Confucious  
+kung fuzi sim - Confucianism  
 kupa - drinking vessel (cup, glass, mug, goblet, chalice)  
 kupa chati - dome  
 kupon - coupon  
@@ -2178,7 +2178,7 @@ lal oranje - mandarin orange (tangerine)
 lal salmon - sockeye salmon  
 lala - lull  
 lala bede - cradle  
-lala chante - lullaby  
+lala chanta - lullaby  
 lama - lama  
 lampa - lamp  
 lana - curse (damn!)  
@@ -2244,7 +2244,7 @@ lila rang - lilac color
 lili - little (small; a little, somewhat)  
 lili bol - bubble  
 lili kaboga - zucchini  
-lili sheku - pebble (gravel)  
+lili seku - pebble (gravel)  
 lili siti - small town  
 lili yam - snack  
 lima - five (5)  
@@ -2293,6 +2293,7 @@ logika - logic (deduction)
 logika di - logical  
 loka - place (location)  
 loka di - local  
+lona - discussion (debate, discourse)  
 London - London  
 long - long (lengthy)  
 long dura - for a long time  
@@ -2311,7 +2312,6 @@ luka fase - hexahedron (cube)
 luka gona - hexagon  
 Luksemburge - Luxembourg  
 lulu - pearl  
-lun - discussion (debate, discourse)  
 luna - moon  
 luna keke - mooncake  
 lung - dragon  
@@ -2369,9 +2369,9 @@ manera - behavior (manners)
 manera - behave (act)  
 manete - magnet  
 manete di - magnetic  
+mang - busy (occupied)  
 mangan - manganese  
 mango - mango  
-mangu - busy (occupied)  
 mangus - mangosteen  
 Mani - prophet Mani  
 mani din - Manichaeism  
@@ -2421,7 +2421,7 @@ mata di - dead (deceased)
 mata ja - killer  
 mate - matter (substance)  
 mate di - material  
-mate lun - materialism  
+mate lona - materialism  
 matras - mattress  
 matur - adult  
 matur - mature (ripe, adult)  
@@ -2467,7 +2467,7 @@ memo - memory (recollection)
 memo bina - monument (memorial)  
 memo note - memorandum (memo)  
 memo tehni - mnemotechny  
-men - noodle  
+mena - noodle  
 mendelef yum - mendelevium  
 meninge - meninx (meninges)  
 meninge flame - meningitis  
@@ -2495,12 +2495,12 @@ mesi jene - Christmas
 mestre - master (expert)  
 metal - metal  
 metal bede - anvil  
-metal jang ja - blacksmith (iron forger)  
+metal jiang ja - blacksmith (iron forger)  
 metal lin - wire  
 metre - measure (measurement)  
 metre gi - meter (measuring device)  
 metre grafi - chart (map, graph, blueprint)  
-metre grafi shuta - cartography  
+metre grafi suta - cartography  
 metre unta - unit (measurement)  
 meza - table  
 meza tela - tablecloth  
@@ -2559,14 +2559,14 @@ mode loge - adverb
 model - model (design)  
 moka - tree  
 moka bano - wood board (plank)  
-moka jang ja - carpenter  
+moka jiang ja - carpenter  
 moka jong parke - arboretum  
 moka kane - stake (stick, peg, skewer)  
 moka mate - wood (timber)  
 moka tana - log (trunk)  
 mol ja - miller  
 mol kan - mill  
-mol sheku - grindstone (millstone)  
+mol seku - grindstone (millstone)  
 Moldova - Moldova  
 mole - mole (unit)  
 molekul - molecule  
@@ -2683,8 +2683,8 @@ Nauru - Nauru
 nautile - nautilus  
 nava - Nahuatl (Nahua)  
 nave - boat (ship)  
-nave gou - sail  
-nave ja - sailer  
+nave ga - sail  
+nave ga ja - sailer  
 nave kape ja - privateer (buccaneer)  
 nave lefte - port (left side of a ship)  
 nave raite - starboard (right side of a ship)  
@@ -2756,7 +2756,7 @@ nong chun - rural village
 nong di - agricultural  
 nong ja - farmer  
 nong nomi - agronomy  
-nong shuta - agriculture  
+nong suta - agriculture  
 nong topo - countryside  
 nong topo di - rural (rustic)  
 norde - north  
@@ -3050,7 +3050,7 @@ politi - government (administration, polity, politics)
 politi di - political  
 politi ja - politician (administrator, statesman)  
 politi logi - politicology  
-politi lon - politics (political discourse)  
+politi lona - politics (political discourse)  
 politi mode - regime  
 Polska - Poland  
 polska basha - Polish language  
@@ -3083,7 +3083,7 @@ posta marke - postmark (postage stamp)
 pote - pot (vase, bin, jar)  
 pote chamacha - ladle (dipper, scoop)  
 pote ja - potter  
-pote shuta - pottery  
+pote suta - pottery  
 poze - pose (position)  
 prati - practice (actuality)  
 prati di - practical (pragmatic)  
@@ -3232,10 +3232,10 @@ rota lefte - counterclockwise (anticlockwise)
 rota raite - clockwise  
 rota she - rotor (rotator)  
 rota tafun - cyclone (hurrican, tornado, typhoon)  
-rota van gi - top (spinning top)  
+rota vanu gi - top (spinning top)  
 Ruanda - Rwanda  
 rubi - red  
-rubi bau sheku - ruby  
+rubi bau seku - ruby  
 rubi yum - rubidium  
 ruhu - soul (mind, psyche)  
 ruhu di - mental (psychic)  
@@ -3273,7 +3273,7 @@ safar kegu - tourism
 safar kegu ja - tourist  
 safran - saffron  
 sagu - sago palm  
-sagu fen - sago  
+sagu fun - sago  
 Sahara Desha - Sahrawi Arab Democratic Republic  
 sahi - right (correct, accurate)  
 saide - hunt (fish)  
@@ -3318,6 +3318,8 @@ sama hal - weather
 sama kinar - horizon  
 samari yum - samarium  
 Samoa - Samoa  
+san - mountain (hill)  
+san pike - top (peak, pinnacle, summit, apex, vertex)  
 sana - manufacturing (production, industry)  
 sana basha - artificial language (conlang)  
 sana di - artificial  
@@ -3365,6 +3367,8 @@ se su - own
 sekse - sex (sexual relation)  
 sekse di - sexy (sexually arousing)  
 sekse logi - sexology  
+seku - stone (piece of rock)  
+seku jiang ja - mason (stonemason, stonecutter)  
 sekunde - second(s)  
 sekur - safe (secure, protected)  
 sekur kode - password (security code)  
@@ -3376,12 +3380,14 @@ selge - chard
 selu - cell (biology)  
 selu logi - cytology  
 seme - seed (semen)  
-seme dane - seed (fertilized grain)  
+seme dana - seed (fertilized grain)  
 seme di - seminal  
 semente - cement  
 sene - age  
 sene di - aged  
 Senegal - Senegal  
+seng - victory (win, triumph)  
+seng bai - outcome (victory or defeat)  
 sense - sense (method of perception)  
 sense gi - sensor (detector)  
 sense shaka - tentacle (feeler)  
@@ -3411,8 +3417,6 @@ sham yam - dinner
 shaman - shaman  
 shampan - Champagne  
 shampan vin - champagne  
-shan - mountain (hill)  
-shan pike - top (peak, pinnacle, summit, apex, vertex)  
 shanghai - Shanghai  
 shanti - rest (relief, repose)  
 shanti di - calm (peaceful, quiet)  
@@ -3439,10 +3443,6 @@ she hal ironi - situational irony
 shefe - chief (boss)  
 shefe di - main (principal)  
 shefe minister - prime minister  
-sheku - stone (piece of rock)  
-sheku jang ja - mason (stonemason, stonecutter)  
-shenga - victory (win, triumph)  
-shenga bai - outcome (victory or defeat)  
 shi - Mx. (Mr. or Ms.)  
 shia - faction (clique)  
 shia islam din - Shia Islam (Shi’ism)  
@@ -3485,8 +3485,6 @@ shuru - beginning (start, commencement, onset)
 shuru di - initial (first)  
 shush - hush (shh)  
 shush di - silent  
-shuta - skill (art, craft)  
-shuta tabi - skillful (crafty)  
 si - be  
 si dura - elapse (pass by, go by)  
 si ja - being (entity)  
@@ -3565,7 +3563,7 @@ sona - sleep
 sona kamar - bedroom  
 sona papi - opium poppy  
 sona tabi - drowsy  
-song - pine tree  
+songi - pine tree  
 soni - sound (audio)  
 sor - lock (fastener)  
 sor di - locked (secure)  
@@ -3630,7 +3628,7 @@ suna di - conventional (customary, traditional)
 suna islam din - Sunni Islam (Sunnism)  
 sundar - beautiful (handsome, pretty)  
 sundar daka - decoration (ornament)  
-sundar shuta - fine arts  
+sundar suta - fine arts  
 sundar ta - beauty  
 Suomi - Finland  
 suomi basha - Finnish language  
@@ -3646,6 +3644,8 @@ Surinam - Suriname
 surinam basha - Sranan Tongo  
 susan - lily  
 sushi - sushi  
+suta - skill (art, craft)  
+suta tabi - skillful (crafty)  
 sutur - suture (seam)  
 Sven - Sweden  
 ####T - T  
@@ -3673,8 +3673,8 @@ tal di - low (short)
 tal moka - bush (shrub)  
 tal tela - carpet (rug)  
 tali yum - thallium  
-tam - greedy  
 tamar - date fruit  
+tami - greedy  
 Tamil - Tamil  
 tana - stem (torso, trunk, stalk)  
 tanah - Tanakh (Jewish Bible)  
@@ -3703,7 +3703,7 @@ tele di - far
 tele fon gi - telephone  
 tele fon lin - telephone line  
 tele fon nomer - telephone number  
-tele fon shuta - telephony (telephone communication)  
+tele fon suta - telephony (telephone communication)  
 tele ta - distance (length)  
 tele vide gi - television  
 teleskope - telescope  
@@ -3783,7 +3783,7 @@ tren dau - rail (railway, railroad)
 tren kape ja - train hijacker  
 tri - three (3)  
 tri gona - triangle  
-tri zong - trident  
+tri pike - trident  
 tribu - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
 Triton - Triton  
@@ -3800,7 +3800,7 @@ tulpan - tulip
 tumon - you all  
 tumon su - your  
 tundra - tundra  
-tundra shan - fell  
+tundra san - fell  
 tunel - tunnel  
 tunel tren - subway (metro)  
 tunika - tunic (gown)  
@@ -4027,15 +4027,15 @@ yoga ja - yogi
 yogo - yoke  
 yogur - yogurt  
 Yohan festa - Saint John's Day  
-yong - melt  
-yong liga - fusion (amalgamation)  
-yong petra - lava  
-yong safa - smelt  
 Yoruba - Yoruba (language and people)  
 yota - yotta-  
 yumor - humor  
 yumor di - humorous (comical, funny)  
 yumor ja - humorist  
+yung - melt  
+yung liga - fusion (amalgamation)  
+yung petra - lava  
+yung safa - smelt  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  
 ####Z - Z  
@@ -4083,7 +4083,7 @@ zoku di - continuous (analog)
 zombi - zombie  
 zona - belt (zone)  
 zou - animal  
-zou agro shuta - animal husbandry  
+zou agro suta - animal husbandry  
 zou bagi - zoo (zoological garden)  
 zou fili - zoophily  
 zou geo grafi - zoogeography  

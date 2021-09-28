@@ -6,7 +6,7 @@ A noun is a word that names a thing.
 Like all words in Pandunia, nouns don't ever change their form.
 So the same form is used in singular and plural, in definite and indefinite, etc.
 
-**sheku**
+**seku**
 – a stone, stones, the stone or the stones  
 **meza**
 – a table, tables, the table or the tables  
@@ -56,7 +56,7 @@ Simply insert a numeral in front of the unchanged noun.
 
 An easy way to say that there are many is to repeat the noun two times.
 
-**sheku sheku**
+**seku seku**
 – stones and stones, a variety of stones  
 **buke buke**
 – books and books, a variety of books
@@ -97,6 +97,6 @@ and the words that come before it only modify the meaning.
 – sun light  
 **luna foto**
 – moon light  
-**luna sheku**
+**luna seku**
 – moon stone
 

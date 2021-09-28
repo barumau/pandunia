@@ -137,7 +137,7 @@ bateri - батарея
 bati - восемь (8)  
 bau - сокровище (казна)  
 bau di - драгоценный  
-bau sheku - драгоценный камень  
+bau seku - драгоценный камень  
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
@@ -234,7 +234,7 @@ chai pote - чайник
 chakra - колесо  
 chamacha - ложка  
 chanse - возможность (шанс)  
-chante grupe - хор  
+chanta grupe - хор  
 charme - шарм  
 chati - крыша (кров)  
 chen - раньше  
@@ -264,8 +264,7 @@ dai hai - океан
 dai lasun - лук исполинский  
 dai pau - пушка  
 dai pote - котёл  
-dai sheku - валун  
-daku - получить  
+dai seku - валун  
 dalil - доказательство  
 dama gem - шашки  
 dan - ранг  
@@ -291,6 +290,7 @@ dava she logi - фармакология
 dava sui - зелье  
 defa bano - щит  
 defa kaske - доспехи  
+deku - получить  
 den - день (сутки)  
 den loge - дневник  
 deu - бог  
@@ -395,7 +395,7 @@ fa kancha dake - глазуровать
 fa karga - обременять  
 fa kave - копать  
 fa kino - двигать  
-fa kong - пробиться  
+fa kung - пробиться  
 fa lai - приносить  
 fa linke - соединить (подключить)  
 fa loka - ставить  
@@ -459,7 +459,7 @@ for - прочь (вон)
 fora - сверлить (бурить)  
 foto - свет  
 foto frike - полировать  
-foto grafi shuta - фотография  
+foto grafi suta - фотография  
 foto mata di - матовый  
 foto minar - маяк  
 foto mira di - глянцевый  
@@ -478,10 +478,10 @@ fungu frute - гриб
 fute bol - футбол  
 fute marke - след ноги  
 ####G - G  
-ga - если  
+ga - идти  
 gabur - могила (гроб, хоронить)  
 gabur bagi - кладбище  
-gabur sheku - надгробие  
+gabur seku - надгробие  
 gadolin yum - гадолиний  
 galaksi - галактика  
 gali yum - галлий  
@@ -491,6 +491,7 @@ gamba - креветка
 gan gazo - сено  
 ganse - гусь  
 ganum - пшеница  
+gar - если  
 garma mosim - лето  
 garma zona - тропик  
 gas - газ  
@@ -514,8 +515,8 @@ gida ja - гид
 ging - параллельный  
 gingam - кумкват (кинкан)  
 gio - учить (преподавать)  
-gioka - нефрит (жад)  
 gitar - гитара  
+giuka - нефрит (жад)  
 glis - задвигаться (скользи́ть)  
 glu bande - пластырь  
 glu di - клейкий (липкий)  
@@ -523,7 +524,7 @@ glu fan - глина
 glu grafi - наклейка  
 go - тот  
 gol - цель  
-gola sheku - булыжник  
+gola seku - булыжник  
 gong - работа  
 gong ja - работник  
 gong kan - завод (фабрика)  
@@ -599,8 +600,8 @@ hisabu logi - математика
 hiyar - огурец  
 hobi ja - любитель  
 hogo - огонь  
-hogo shan - вулкан  
-hogo sheku - кремень  
+hogo san - вулкан  
+hogo seku - кремень  
 hogo tehni - фейерверк  
 hoki - хоккей  
 holme yum - гольмий  
@@ -632,7 +633,6 @@ iris yum - иридий
 ironi - ирония  
 islam din - ислам (мусульманство)  
 ####J - J  
-ja - идти  
 jamul - джамболан  
 janela - окно  
 jangal - лес (джунгли)  
@@ -654,15 +654,15 @@ jinse logi - гендерные исследования
 jirafa - жираф  
 jiu - жизнь  
 jiu - живой  
+jong - центр  
+jong fon - гласный  
+jong shula kan - средняя школа  
+Jongoku - Китай  
 joven - юный  
 joven moka - саженец  
 jude ja - судья  
 jul - джоуль (J)  
 jumla - фраза  
-jung - центр  
-jung fon - гласный  
-jung shula kan - средняя школа  
-Jungoku - Китай  
 Jupiter - Юпитер  
 jus - сок  
 juste - точный  
@@ -761,7 +761,7 @@ kitabu - письмо
 kitabu gi - пишущая машинка  
 kitabu kan - библиотека  
 kitabu minister - библиотекарь  
-kitabu shuta - литература (словесность)  
+kitabu suta - литература (словесность)  
 kivi - киви  
 klien - клиент (покупатель, зака́зчик)  
 klima - климат  
@@ -806,7 +806,7 @@ krote - крот
 kruasan - круассан  
 krus - крест  
 krus arka - самострел  
-kuang shan - мина  
+kuanga san - мина  
 kuarze - кварц  
 kube - куб  
 kudi - локоть  
@@ -827,7 +827,7 @@ lal linse - рыжая рысь
 lal oranje - мандарин  
 lal salmon - нерка (красница)  
 lala bede - колыбель (люлька)  
-lala chante - колыбельная песня  
+lala chanta - колыбельная песня  
 lama - лама (религиозный учитель в тибетском буддизме)  
 lampa - лампа  
 lana - проклятие  
@@ -855,7 +855,7 @@ liga di sanduku - ковчег завета
 lika - сила  
 lili - маленький (малый)  
 lili kaboga - цукини  
-lili sheku - галька  
+lili seku - галька  
 lima - пять (5)  
 limon - лимон  
 limon oranje - цитрус  
@@ -908,8 +908,8 @@ makan hua - одуванчик
 mal nomi - экономика  
 man raja - король  
 manera - поведение (манера)  
+mang - занятый  
 mangan - марганец  
-mangu - занятый  
 mani din - манихейство  
 manioka - маниока  
 manioka fufu - тапиока  
@@ -934,7 +934,7 @@ masta - мачта
 mata badan - труп (мёртвое тело)  
 mata badan fili - некрофилия  
 mate - материя  
-mate lun - материализм  
+mate lona - материализм  
 matur - взрослый  
 mau - кошка  
 maze - носок  
@@ -960,7 +960,7 @@ mes - месяц
 mestre - мастер  
 metal bede - наковальня  
 metre grafi - карта (график, схема)  
-metre grafi shuta - картография  
+metre grafi suta - картография  
 meza - стол  
 meza tela - скатерть  
 mi - я  
@@ -985,7 +985,7 @@ moka bano - доска (планка)
 moka kane - палка  
 moka tana - бревно  
 mol kan - мельница  
-mol sheku - жёрнов  
+mol seku - жёрнов  
 moli - жасмин  
 moliden - молибден  
 moluske - моллюск  
@@ -1191,7 +1191,7 @@ pospor - фосфор
 posta marke - почтовый штемпель  
 pote chamacha - половник (черпак, ковш)  
 pote ja - гончар  
-pote shuta - гончарное дело  
+pote suta - гончарное дело  
 prazedim yum - празеодим  
 presa - давление (нажим)  
 presa gi - пресс  
@@ -1254,9 +1254,9 @@ romanse - роман
 romanse di - романтический  
 rose - роса  
 rota lefte - против часовой стрелки  
-rota van gi - волчок  
+rota vanu gi - волчок  
 rubi - красный  
-rubi bau sheku - рубин  
+rubi bau seku - рубин  
 rubi yum - рубидий  
 ruhu - душа (дух)  
 ruhu mishe - озадачить  
@@ -1286,6 +1286,7 @@ sama blu - голубой
 sama hal - погода  
 sama kinar - горизонт  
 samari yum - самарий  
+san pike - вершина  
 sanduiche - сандвич  
 sanduku - сундук  
 sange - кровь  
@@ -1303,6 +1304,7 @@ saur - ящерица
 se - себя (-ся)  
 se kon - друг друга  
 sekse logi - сексология  
+seku - камень (камешек)  
 sel - совет  
 selen yum - селен  
 selge - мангольд  
@@ -1325,7 +1327,6 @@ sham - вечер
 shaman - шаман  
 shampan - Шампань  
 shampan vin - шампанское  
-shan pike - вершина  
 shanti - отдых  
 shanti di - спокойный  
 sharke - акула  
@@ -1341,7 +1342,6 @@ shava mosim - муссон
 she - вещь  
 she hal - положение (ситуация)  
 shefe - шеф  
-sheku - камень (камешек)  
 shia - фракция (клика)  
 shia islam din - шиизм  
 shikaya - жалоба  
@@ -1364,7 +1364,6 @@ shuli - чинить (ремонтировать)
 shulija - ремонтник  
 shuru - начало  
 shush di - тихий  
-shuta - искусство  
 si - быть  
 sian - циан  
 siborge yum - сиборгий  
@@ -1397,7 +1396,7 @@ sol hua - подсолнечный
 sona kamar - спальня  
 sona papi - мак снотворный  
 sona tabi - сонный  
-song - сосна  
+songi - сосна  
 sor - замок  
 sor di - запереть  
 sos - соус  
@@ -1426,6 +1425,7 @@ supa - суп
 supa chamacha - суповая ложка  
 supra vakil ja - сенатор  
 susan - лилия  
+suta - искусство  
 ####T - T  
 tabi - природа (естество, характер)  
 table - плита  
@@ -1449,7 +1449,7 @@ tela - ткань
 tela gi - ткацкий станок  
 tele fon gi - телефон  
 tele fon lin - телефонная линия  
-tele fon shuta - телефония  
+tele fon suta - телефония  
 tele vide gi - телевизор  
 teleskope - телескоп  
 telu yum - теллур  
@@ -1484,13 +1484,13 @@ trata gi - трактор
 trati - договор  
 tre - очень  
 tri - три (3)  
-tri zong - трезубец  
+tri pike - трезубец  
 truke - обман  
 tu - ты  
 Tule - Туле  
 tule yum - тулий  
 tumon su - ваш  
-tundra shan - фьельды  
+tundra san - фьельды  
 tuta - шелковица (тута)  
 tuzi - кролик (заяц)  
 ####U - U  

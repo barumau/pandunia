@@ -98,7 +98,7 @@ basha logi - 言語学
 bata - 鴨  
 bateri - バッテリー  
 bati - 八 (8)  
-bau sheku - 宝石  
+bau seku - 宝石  
 bazar - 市場 (マーケット, バザー)  
 baze bol - 野球  
 baze petra - 基盤岩  
@@ -190,7 +190,7 @@ chai kupa - 茶碗
 chai pote - 急須  
 chakra - 車輪  
 chamacha - スプーン  
-chante grupe - 合唱団  
+chanta grupe - 合唱団  
 chati - 屋根  
 chen - 以前 (前に)  
 chen den - 昨日  
@@ -219,9 +219,7 @@ dai dom - 宮殿 (邸宅)
 dai hai - 大洋 (大海)  
 dai pau - 大砲  
 dai pote - 大釜 (大鍋)  
-dai sheku - 大石  
-daku - 受ける (もらう)  
-daku shitu - 得失  
+dai seku - 大石  
 dama gem - チェッカー (西洋碁)  
 dan - 段 (等)  
 dang gi - 鐘 (鈴)  
@@ -242,6 +240,8 @@ dava sui - ポーション (水薬)
 debil - 弱い (脆弱)  
 defa bano - 盾  
 defa kaske - 鎧  
+deku - 受ける (もらう)  
+deku shitu - 得失  
 dele - 遅れ (遅延)  
 demon - 悪魔  
 den - 日  
@@ -324,7 +324,7 @@ fa alo - 変える
 fa an galta - デバッグする  
 fa auto - カスタマイズする  
 fa bina - 建てる  
-fa biznes lon - 話し合う (話を付ける)  
+fa biznes lona - 話し合う (話を付ける)  
 fa chuli - 扱う (処理する)  
 fa dante - 咬む  
 fa dika - 狙う  
@@ -340,7 +340,7 @@ fa hogo - 燃やす
 fa jene - 生む  
 fa kave - 掘る  
 fa kino - 動かす  
-fa kong - 染みる (貫通する)  
+fa kung - 染みる (貫通する)  
 fa lai - 持って来る  
 fa linke - 繋ぐ  
 fa mede - 手伝う (助ける)  
@@ -418,10 +418,10 @@ fute bano - 足場
 fute bol - フットボール  
 fute marke - 足跡  
 ####G - G  
-ga - もし  
+ga - 行く  
 gabur - 墓 (埋葬, 葬る)  
 gabur bagi - 墓 (墓地)  
-gabur sheku - 墓石 (墓碑)  
+gabur seku - 墓石 (墓碑)  
 gadolin yum - ガドリニウム  
 galaksi - 銀河  
 gali yum - ガリウム  
@@ -432,6 +432,7 @@ gami ben - 連れ子
 gan gazo - 干し草  
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
+gar - もし  
 garma - 暖かい (熱い)  
 garma mosim - 夏  
 garma zona - 熱帯  
@@ -469,7 +470,7 @@ glu fan - 粘土
 glu grafi - ステッカー  
 go - その  
 gol - 目的 (行き先, ゴール)  
-gola sheku - 丸石 (玉石, 栗石)  
+gola seku - 丸石 (玉石, 栗石)  
 gong - 労働  
 gong ja - 労働者  
 gong kan - 工場 (製造所)  
@@ -533,8 +534,8 @@ hisabu logi - 数学
 hiyar - キュウリ  
 hobi ja - アマチュア  
 hogo - 火  
-hogo shan - 火山  
-hogo sheku - 火打ち石 (フリント)  
+hogo san - 火山  
+hogo seku - 火打ち石 (フリント)  
 hogo tehni - 花火  
 hoki - ホッケー  
 holme yum - ホルミウム  
@@ -566,15 +567,15 @@ ironi - 反語 (皮肉)
 ironi di - 反語的  
 islam din - イスラム教  
 ####J - J  
-ja - 行く  
 jamul - フトモモ  
 jan - 人 (者, 員, 徒)  
 janela - 窓  
+jang - 戦闘 (格闘)  
 jangal - 森 (森林, ジャングル)  
 jau - 大麦  
 javabu - 答え (回答)  
 jeka - 借用  
-jeka daku - 借りる  
+jeka deku - 借りる  
 jeka dona - 貸す  
 jela kan - 監獄  
 jen buda din - 禅宗  
@@ -583,19 +584,18 @@ jene logi - 系譜学
 jene loka - 出生地  
 jene tipe - 遺伝子型  
 jene yo zou - 湧かす  
-jeng - 戦闘 (格闘)  
 jin lai - アクセス  
 jinse - 性別 (ジェンダー)  
 jinse logi - ジェンダー研究  
 jirafa - 麒麟  
 jiu - 命 (生命)  
+jong - 中心  
+Jongoku - 中国  
 joven fem - 女の子  
 joven jan - 青少年  
 joven man - 男の子  
 joven moka - 若木  
 jul - ジュール (J)  
-jung - 中心  
-Jungoku - 中国  
 Jupiter - 木星  
 jus - ジュース  
 juste pau ja - 狙撃兵  
@@ -692,7 +692,7 @@ kisma - 運命 (宿命)
 kitabu forma - 書式付け  
 kitabu kan - 図書館  
 kitabu minister - 図書係  
-kitabu shuta - 文献 (文学, 文芸)  
+kitabu suta - 文献 (文学, 文芸)  
 kivi - キーウィフルーツ  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
@@ -728,8 +728,8 @@ krote - 田鼠
 kruasan - クロワッサン  
 krus arka - クロスボウ (石弓)  
 krus lin - 十字線  
-kuang ja - 坑夫  
-kuang shan - 鉱山  
+kuanga ja - 坑夫  
+kuanga san - 鉱山  
 kuarze - 石英  
 kube - 立方体  
 kudi - 肘  
@@ -752,7 +752,7 @@ lal linse - ボブキャット
 lal oranje - ポンカン (マンダリン)  
 lal salmon - ベニザケ  
 lala bede - 揺り籠  
-lala chante - 子守歌 (ララバイ)  
+lala chanta - 子守歌 (ララバイ)  
 lama - ラマ (チベット仏教の上師)  
 lampa - ランプ  
 lana - 呪い (たたり)  
@@ -779,7 +779,7 @@ liga di sanduku - 契約の箱
 lika - 力  
 lili - 小さい  
 lili kaboga - ズッキーニ  
-lili sheku - 小石  
+lili seku - 小石  
 lima - 五 (5)  
 limon - レモン  
 limon oranje - 柑橘  
@@ -830,8 +830,8 @@ makan hua - タンポポ
 mal nomi - 経済学  
 man - 男  
 man raja - 王様  
+mang - 忙しい  
 mangan - マンガン  
-mangu - 忙しい  
 manioka - キャッサバ  
 mantol - マント (ケープ)  
 mar - 回 (次, 度)  
@@ -846,7 +846,7 @@ maska - 仮面 (マスク)
 mata badan - 死体  
 mata badan fili - 屍姦 (死体性愛)  
 mate - 物質  
-mate lun - 唯物論 (唯物主義)  
+mate lona - 唯物論 (唯物主義)  
 matur - 大人  
 matur fem - 女の人  
 matur man - 男の人  
@@ -869,7 +869,7 @@ meitner yum - マイトネリウム
 melon - マスクメロン  
 memo - 記憶  
 memo bina - 追悼塔 (碑)  
-men - ヌードル  
+mena - ヌードル  
 mendelef yum - メンデレビウム  
 mes - 月間  
 mes bati - ８月  
@@ -1069,7 +1069,7 @@ pluton yum - プルトニウム
 poli - たくさん  
 Polinesi - ポリネシア  
 politi - 政府  
-politi lon - 政道  
+politi lona - 政道  
 politi mode - 政体  
 polska yum - ポロニウム  
 ponte pin - 羅針盤  
@@ -1078,7 +1078,7 @@ pos - 後 (後ろ)
 pos den - 明日  
 pospor - リン  
 pote ja - 陶工  
-pote shuta - 陶芸  
+pote suta - 陶芸  
 prazedim yum - プラセオジム  
 presa - 圧力  
 presa gi - 圧搾機  
@@ -1136,9 +1136,9 @@ roma kamil - ローマンカモミール
 romanse - ロマンス  
 romanse di - ロマンチック  
 rota lefte - 左回り (反時計回り)  
-rota van gi - 独楽  
+rota vanu gi - 独楽  
 rubi - 赤い  
-rubi bau sheku - ルビー  
+rubi bau seku - ルビー  
 rubi yum - ルビジウム  
 ruhu mishe - 惑わす  
 ruhu mishe di - まごまご  
@@ -1151,7 +1151,7 @@ sabe vol - 興味 (好奇心)
 sabe vol di - 面白い  
 sabe vol ja - 知りたがる  
 sagu - サゴ  
-sagu fen - サゴ澱粉  
+sagu fun - サゴ澱粉  
 sahi - 正しい  
 saide - 狩る  
 saide - 狩り (狩猟)  
@@ -1169,6 +1169,7 @@ sama blu - 空色
 sama hal - 天気  
 sama kinar - 地平線 (水平線, 天際)  
 samari yum - サマリウム  
+san pike - 頂点  
 sanduiche - サンドイッチ  
 sange - 血  
 sante kanon - 聖書  
@@ -1179,12 +1180,14 @@ sata - 瞬間
 Saturne - 土星  
 saur - 蜥蜴  
 sekse logi - 性科学  
+seku jiang ja - 石匠  
 sekur kopi - バックアップ (控え)  
 sekur nomer - 暗証番号  
 selen yum - セレン  
 selge - フダンソウ (スイスチャード)  
-seme dane - 種  
+seme dana - 種  
 sene - 年齢  
+seng bai - 勝敗  
 sense - 感覚  
 sense shaka - 触手  
 sento - 百 (１００)  
@@ -1196,7 +1199,6 @@ sham - 夕べ
 sham yam - 夕食  
 shaman - シャーマン  
 shampan - 香槟  
-shan pike - 頂点  
 sharke - サメ  
 shatan ja - 悪魔  
 shau - 少ない  
@@ -1204,8 +1206,6 @@ shava - 雨
 shava mosim - 雨季  
 she - 事 (物)  
 she hal - 事態  
-sheku jang ja - 石匠  
-shenga bai - 勝敗  
 shi - さん (氏)  
 shia islam din - シーア派  
 shifu - 先生  
@@ -1228,7 +1228,6 @@ shuli - 修理する
 shulija - 修理工  
 shuru - 開始  
 shush - しーっ  
-shuta - 術  
 sian - シアン  
 siborge yum - シーボーギウム  
 side - 座る  
@@ -1257,7 +1256,7 @@ sol - 太陽 (日)
 sol hua - ヒマワリ  
 sona kamar - 寝室  
 sona papi - ケシ  
-song - マツ  
+songi - マツ  
 sor - 錠  
 sos - ソース  
 sosi - 社会  
@@ -1280,12 +1279,13 @@ sukar oranje - オレンジ (アマダイダイ)
 sulfu - 硫黄  
 sundar - 美しい  
 sundar daka - 装飾  
-sundar shuta - 芸術 (美術)  
+sundar suta - 芸術 (美術)  
 sundar ta - 美しさ  
 supa - スープ (汁)  
 supa chamacha - さじ (テーブルスプーン)  
 supra - 上  
 supra vakil ja - 上院議員  
+suta - 術  
 ####T - T  
 ta - さ (み, 性)  
 tabi - 性質 (性)  
@@ -1325,7 +1325,7 @@ trati - 合意
 tre - とても  
 tren - 電車 (列車)  
 tri - 三 (3)  
-tri zong - 三つまた (トライデント)  
+tri pike - 三つまた (トライデント)  
 truke - 悪戯 (詐欺)  
 tu - あなた  
 tu su - あなたの  
@@ -1414,8 +1414,8 @@ Yesa Mesi - イエス・キリスト
 yo - 何分の  
 yogo - 軛  
 yogur - ヨーグルト  
-yong - 溶ける  
-yong petra - 溶岩  
+yung - 溶ける  
+yung petra - 溶岩  
 yuter yum - イットリウム  
 yuterbi yum - イッテルビウム  
 ####Z - Z  
@@ -1435,7 +1435,7 @@ zirkon yum - ジルコニウム
 zoku - まだ  
 zoku di - アナログ  
 zou - 動物  
-zou agro shuta - 畜産  
+zou agro suta - 畜産  
 zou bagi - 動物園  
 zou logi - 動物学  
 zou logi di - 動物学の  

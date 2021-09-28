@@ -121,7 +121,7 @@ argu - argument
 arka - arc  
 arka chati - voûte  
 arka ja - archer  
-arka shuta - tire à l'arc  
+arka suta - tire à l'arc  
 arme - arme  
 aroma - sentir qqch  
 aroma - odeur  
@@ -228,7 +228,7 @@ baske bol - basketball
 bateri - pile (batterie)  
 bati - huit (8)  
 bau di - précieux  
-bau sheku - pierre précieuse (joyau)  
+bau seku - pierre précieuse (joyau)  
 baya - baie (golf)  
 bazar - marché (bazar)  
 baze - base  
@@ -321,7 +321,7 @@ chai pote - théière
 chakra - roue  
 chamacha - cuiller  
 chanse - chance  
-chante grupe - chœur  
+chanta grupe - chœur  
 charme - charme  
 chati - toit  
 chen - avant  
@@ -349,7 +349,7 @@ dai dom - palais (château, manoir)
 dai hai - océan  
 dai pau - canon  
 dai pote - chaudron  
-dai sheku - rocher  
+dai seku - rocher  
 dalil - preuve  
 dama gem - jeu de dames  
 dan - rang  
@@ -560,7 +560,7 @@ fora - forer (percer)
 foto - lumière  
 foto frike - poli  
 foto grafi - photographie  
-foto grafi shuta - photographie  
+foto grafi suta - photographie  
 foto mata di - mat (opaque)  
 foto minar - fanal (balise)  
 foto mira di - luisant (brillant)  
@@ -581,10 +581,10 @@ fungu nete - mycélium
 fute bol - football  
 fute marke - empreinte de pied  
 ####G - G  
-ga - si  
+ga - aller  
 gabur - tombe (enterrer)  
 gabur bagi - cimetière  
-gabur sheku - pierre tombale  
+gabur seku - pierre tombale  
 gadolin yum - gadolinium  
 galaksi - galaxie  
 gali yum - gallium  
@@ -603,6 +603,7 @@ gana - canne
 gana kalam - calame  
 ganse - oie  
 ganum - blé  
+gar - si  
 garma mosim - été  
 garma zona - tropique  
 garma zona gazo topo - savane  
@@ -631,8 +632,8 @@ gida buku - guide touristique
 gida ja - guide  
 gingam - kumquat  
 gio - enseigner  
-gioka - jade  
 gitar - guitare  
+giuka - jade  
 glis - glisser  
 glu bande - pansement (sparadrap)  
 glu di - adhésif (collant)  
@@ -640,7 +641,7 @@ glu fan - argile
 glu grafi - autocollant  
 go - ce...lá  
 gol - but (destination)  
-gola sheku - pavé  
+gola seku - pavé  
 gong - travail  
 gong ja - travailleur (ouvrier)  
 gong mise - soumettre  
@@ -716,8 +717,8 @@ hisabu logi - mathématiques
 hiyar - concombre  
 hobi ja - amateur  
 hogo - feu  
-hogo shan - volcan  
-hogo sheku - silex  
+hogo san - volcan  
+hogo seku - silex  
 hogo tehni - feu d’artifice  
 hoki - hockey  
 holme yum - holmium  
@@ -751,7 +752,6 @@ ironi - ironie
 islam - soumission  
 islam din - Islam  
 ####J - J  
-ja - aller  
 jaga - éveillé  
 jain din - jaïnisme  
 jama karde - carte à collectionner  
@@ -764,7 +764,7 @@ jau - orge
 javabu - réponse  
 Jayer - Algérie  
 jeka - prêter (empruntre)  
-jeka daku - empruntre  
+jeka deku - empruntre  
 jeka dona - prêter  
 jela kan - prison (geôle)  
 jen buda din - zen  
@@ -781,14 +781,14 @@ jinse logi - études de genre
 jirafa - giraffe  
 jiu - vie  
 jiu - vivant  
+jong - centre  
+jong fon - voyelle  
+jong shula kan - école secondaire  
+Jongoku - Chine  
 joven - jeune (juvénile)  
 joven moka - pousse  
 jude ja - juje  
 jul - joule (J)  
-jung - centre  
-jung fon - voyelle  
-jung shula kan - école secondaire  
-Jungoku - Chine  
 Jupiter - Jupiter  
 jus - jus  
 juste - justo (exact, précis)  
@@ -889,7 +889,7 @@ kitabu - écrire
 kitabu chuli - traitement de texte  
 kitabu gi - machine à écrire  
 kitabu kan - bibliothèque  
-kitabu shuta - littérature  
+kitabu suta - littérature  
 kivi - kiwi  
 klar - clair  
 klien - client  
@@ -931,7 +931,7 @@ krom yum - chrome
 krote - taupe  
 kruasan - croissant  
 krus - croix  
-kuang shan - mine  
+kuanga san - mine  
 kuarze - quartz  
 kube - cube  
 kudi - coude  
@@ -954,7 +954,7 @@ laji tong - poubelle
 lal oranje - mandarine  
 lal salmon - saumon sockeye  
 lala bede - berceau  
-lala chante - berceause  
+lala chanta - berceause  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
 lampa - lampe  
 lana - malédiccion  
@@ -988,7 +988,7 @@ lika - force
 lila - lilas  
 lili - petit  
 lili kaboga - courgette  
-lili sheku - caillou  
+lili seku - caillou  
 lima - cinq (5)  
 limon - citron  
 lin - ligne (fil)  
@@ -1043,8 +1043,8 @@ mal ja - possédant (propriétaire)
 mal nomi - économie  
 man raja - roi  
 manera - comportement (manière)  
+mang - occupé  
 mangan - manganèse  
-mangu - occupé  
 mani din - manichéisme  
 manioka - manioc  
 manioka fufu - tapioca  
@@ -1069,7 +1069,7 @@ masta - mât
 mata badan - cadavre (corps)  
 mata badan fili - nécrophilie  
 mate - matière  
-mate lun - matérialisme  
+mate lona - matérialisme  
 matur - adulte  
 mau - chat  
 meche - match  
@@ -1095,7 +1095,7 @@ mestre - maître
 metal bede - enclume  
 metal lin - fil de fer  
 metre grafi - carte (graphique)  
-metre grafi shuta - cartographie  
+metre grafi suta - cartographie  
 meza - table  
 meza tela - nappe  
 mi - je (me)  
@@ -1121,7 +1121,7 @@ moka jong parke - arboretum, pépinière
 moka kane - pieu  
 moka tana - bûche  
 mol kan - moulin  
-mol sheku - meule  
+mol seku - meule  
 mole - mole (unité)  
 moli - jasmin  
 moliden - molybdène  
@@ -1337,7 +1337,7 @@ posta marke - cachet de la poste
 pote - pot (vase)  
 pote chamacha - louche (cuillère à pot)  
 pote ja - potier  
-pote shuta - poterie  
+pote suta - poterie  
 prazedim yum - praséodyme  
 presa - pression  
 presa gi - pressoir  
@@ -1407,9 +1407,9 @@ roma kamil - Camomille Romaine
 rose - rosée  
 roste - rôtir  
 rota lefte - dans le sens antihoraire  
-rota van gi - toupie  
+rota vanu gi - toupie  
 rubi - rouge  
-rubi bau sheku - rubis  
+rubi bau seku - rubis  
 rubi yum - rubidium  
 ruhu - psyché  
 ruhu logi - psychologie  
@@ -1437,6 +1437,7 @@ sam rai - accord
 sam sifa she - simulation  
 sama - ciel  
 samari yum - samarium  
+san pike - cime (pic, sommet)  
 sanduiche - sandwich  
 sange - sang  
 sante kanon - saintes écritures   
@@ -1451,6 +1452,7 @@ se - se
 se kon - l'un l'autre  
 se su - son (sa)  
 sekse logi - sexologie  
+seku - pierre  
 sekur - sûr  
 sel - conseil  
 selen yum - sélénium  
@@ -1470,7 +1472,6 @@ shalke - échelle
 sham - soir (soirée)  
 shampan - Champagne  
 shampan vin - champagne  
-shan pike - cime (pic, sommet)  
 shanti - repos  
 shanti di - calme (tranquille)  
 sharke - requin  
@@ -1484,7 +1485,6 @@ shava mosim - mousson
 she - chose  
 she hal - situation (état de choses)  
 shefe - chef  
-sheku - pierre  
 shia - faction (clique)  
 shia islam din - chiisme  
 shikaya - plainte (lamentation)  
@@ -1511,7 +1511,6 @@ shuli - réparation
 shuli - réparer  
 shulija - réparateur  
 shuru - début (commencement)  
-shuta - art  
 si - être  
 si dura - se passer  
 siborge yum - seaborgium  
@@ -1568,6 +1567,7 @@ sundar ta - beauté
 supa - soupe  
 supra vakil ja - sénateur  
 susan - lys  
+suta - art  
 ####T - T  
 table komputa - ordinateur tablette  
 tai - estrade  
@@ -1719,9 +1719,9 @@ Yesa - Jésus
 Yesa Mesi - Jésus-Christ  
 yogo - joug  
 yogur - yaourt (yogourt)  
-yong - melt  
-yong petra - lave  
-yong safa - fondu  
+yung - melt  
+yung petra - lave  
+yung safa - fondu  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  
 ####Z - Z  
@@ -1745,7 +1745,7 @@ zoku di - continu (analogique)
 zombi - zombi  
 zona - zone  
 zou - animal (bête)  
-zou agro shuta - élevage  
+zou agro suta - élevage  
 zou bagi - zoo  
 zou kata - fable  
 zou logi - zoologie  

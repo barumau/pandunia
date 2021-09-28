@@ -95,7 +95,7 @@ arquitetura - bina plan
 arrastar - trata  
 arroz - ris  
 arsénic - arsen yum  
-arte - shuta  
+arte - suta  
 artista - arte ja  
 asma - asma  
 aspirina - aspirin  
@@ -234,7 +234,7 @@ canhão (ravina, barranco) - kanyon
 canhǎo - dai pau  
 canoa - kano  
 Cantalupo in Sabina - Kantalupo va Sabina  
-canção de ninar - lala chante  
+canção de ninar - lala chanta  
 capa - mantol  
 capa de chuva - shava kote  
 caractere - zi  
@@ -255,7 +255,7 @@ carreira - pei gong jiu
 carta - karte  
 carta - metre grafi  
 carta geográfica - topo metre grafi  
-cartografia - metre grafi shuta  
+cartografia - metre grafi suta  
 Cartum - Hartum  
 carvalho - baluta  
 carvalho-roble - europa baluta  
@@ -268,14 +268,14 @@ cebola - piaze
 cem (100) - sento  
 cemitério - gabur bagi  
 cenoura - karote  
-centro - jung  
+centro - jong  
 centáurea - sentaure  
 centénario - sento nen di  
 cerca - kinar baryer  
 cerebral - nau di  
 cereja - cheri  
 cerveja - bir  
-cerâmica - pote shuta  
+cerâmica - pote suta  
 cerâmico - serami  
 cevada - jau  
 Champagne - shampan  
@@ -290,7 +290,7 @@ cheirar - aroma
 cheiro - aroma  
 chibata - uma bichi  
 chicote - bichi  
-China - Jungoku  
+China - Jongoku  
 chocolate - choklate  
 chumbo - plumbe  
 chuva - shava  
@@ -347,7 +347,7 @@ copo (taça) - kupa
 cor - rang  
 coral - koral  
 corno - korne  
-coro - chante grupe  
+coro - chanta grupe  
 corpo - badan  
 corredor - korer  
 corrente (atual) - zai zaman di  
@@ -374,7 +374,7 @@ crómo - krom yum
 crónico - dura di  
 cubo - kube  
 cultivar - nong  
-cume (pico, topo) - shan pike  
+cume (pico, topo) - san pike  
 curry - kari  
 curva - kurva  
 cádmio - kadim yum  
@@ -404,7 +404,7 @@ deitar - kush
 deixar - lashe  
 demora (atraso, espera) - dele  
 dente-de-leão (taráxaco) - makan hua  
-derretre - yong  
+derretre - yung  
 descanso (repouso) - shanti  
 desdentado - dante hin  
 desenvolvimento - darja mute  
@@ -473,7 +473,7 @@ endereço - adres
 enganar - fa truke  
 ensinar (lecionar) - gio  
 ensino primário - baze shula kan  
-ensino secundário - jung shula kan  
+ensino secundário - jong shula kan  
 ensopar (encharcar, marinar) - pul shipi  
 enteado - gami ben  
 entrar - be in  
@@ -582,7 +582,7 @@ forte - burge
 força - lika  
 força aérea - air gun  
 foto (fotografia) - foto grafi  
-fotografia - foto grafi shuta  
+fotografia - foto grafi suta  
 fraco (débil) - debil  
 fraco - mirde  
 fragmento - parche  
@@ -705,7 +705,7 @@ invernal (hibernal) - leng mosim di
 inverno - leng mosim  
 iodo - iode  
 iogurte - yogur  
-ir - ja  
+ir - ga  
 ironia - ironi  
 irídio - iris yum  
 islã - islam din  
@@ -713,7 +713,7 @@ item - vutu
 itrio - yuter yum  
 itérbio - yuterbi yum  
 ####J - J  
-jade - gioka  
+jade - giuka  
 jaguatirica (ocelote) - oselote  
 jambolão (jambo) - jamul  
 janela - janela  
@@ -768,7 +768,7 @@ limão - limon
 lince - linse  
 linha (fio) - lin  
 lista - liste  
-literatura - kitabu shuta  
+literatura - kitabu suta  
 litro - litre  
 livermório - livermor yum  
 livre (forro) - huru  
@@ -791,7 +791,7 @@ luxúria - kama
 luz - foto  
 luz do dia - dia foto  
 lábio - labi  
-lápide - gabur sheku  
+lápide - gabur seku  
 lápis - kalam  
 lápis - karbon kalam  
 lápis-lazúli - lazur petra  
@@ -841,7 +841,7 @@ matadouro - bucha kan
 matar - fa mata  
 mate (opaco) - foto mata di  
 matemática - hisabu logi  
-materialismo - mate lun  
+materialismo - mate lona  
 maternal - ma di  
 matéria - mate  
 maçã - aple  
@@ -875,7 +875,7 @@ microbiologia - mikro bio logi
 microscópio - mikroskope  
 micróbio - mikro bio  
 migração - migra  
-mina - kuang shan  
+mina - kuanga san  
 mirar (apontar) - fa dika  
 mito - deu kata  
 modelar - fa forma  
@@ -918,7 +918,7 @@ mãe - ma
 mão - hande  
 mês - mes  
 mímico - mima ja  
-mó - mol sheku  
+mó - mol seku  
 música - muzika  
 ####N - N  
 nadar (flutuar) - be boi  
@@ -973,7 +973,7 @@ obsidiana - osidian
 oceano - dai hai  
 ocular - oko di  
 ocultar (esconder) - fa sir  
-ocupado (atarefado) - mangu  
+ocupado (atarefado) - mang  
 oganesson - oganeson  
 oito (8) - bati  
 oleiro - pote ja  
@@ -1040,12 +1040,12 @@ patologia - pati logi
 patógeno - pati jene she  
 pausa - pauza  
 paz - pase  
-pederneira - hogo sheku  
-pedir emprestado - jeka daku  
-pedra - sheku  
-pedra preciosa (gema) - bau sheku  
-pedregulho - dai sheku  
-pedrinha - lili sheku  
+pederneira - hogo seku  
+pedir emprestado - jeka deku  
+pedra - seku  
+pedra preciosa (gema) - bau seku  
+pedregulho - dai seku  
+pedrinha - lili seku  
 pegada - fute marke  
 pegajoso (adesivo) - glu di  
 peidar - fa pede  
@@ -1076,7 +1076,7 @@ picareta - pin chope
 pilha (bateria) - bateri  
 pimenta - pipre  
 pincel - pente brosha  
-pinheiro - song  
+pinheiro - songi  
 pintura - pente  
 piquenique - vai yam  
 pirataria - pirate  
@@ -1226,7 +1226,7 @@ romance - long kata
 rosa - rode  
 roupa (vestidura) - fuku  
 rouxinol - bulbul  
-rubi - rubi bau sheku  
+rubi - rubi bau seku  
 rubídio - rubi yum  
 rutherfórdio - ruterfor yum  
 ruténio - rus yum  
@@ -1263,7 +1263,7 @@ Saturno - Saturne
 saudação - salam  
 saudável (saudio) - salu  
 saúde - salu ta  
-se - ga  
+se - gar  
 se - se  
 seabórgio - siborge yum  
 seda - silke  
@@ -1333,7 +1333,7 @@ tectónica de placas - plate geo kaske logi
 teia de aranha - arane nete  
 tela - pente tela  
 telefonar - fa tele fon  
-telefonia - tele fon shuta  
+telefonia - tele fon suta  
 telescópio - teleskope  
 telhado - chati  
 telúrio - telu yum  
@@ -1347,7 +1347,7 @@ tenso - tense
 tentar (provar) - fa teste  
 tentáculo - sense shaka  
 teosofia - deu sofi  
-ter (achar, receber) - daku  
+ter (achar, receber) - deku  
 ter - ten  
 terminar (acabar, concluir) - pul fina  
 Terra - Geo  
@@ -1454,14 +1454,14 @@ Vixnu - Vishnu
 viúvo - vidou  
 voar - fei  
 vocabulário - loga jama  
-vogal - jung fon  
+vogal - jong fon  
 voltar (regressar) - be retro  
 vontade - vol she  
 voo - fei  
 vosso - tumon su  
 votar - fa vote  
 voto - vote  
-vulcão - hogo shan  
+vulcão - hogo san  
 vulva - vulva  
 vários - vari  
 Vénus - Venus  

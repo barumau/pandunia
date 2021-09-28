@@ -128,7 +128,7 @@ bata - 鸭
 bateri - 电池  
 bati - 八 (8)  
 bau di - 宝贵  
-bau sheku - 宝石  
+bau seku - 宝石  
 bazar - 市场  
 baze - 底部  
 baze bol - 棒球  
@@ -214,7 +214,7 @@ chai kupa - 茶碗
 chai pote - 茶壶  
 chakra - 轮子  
 chamacha - 匙子  
-chante grupe - 合唱团  
+chanta grupe - 合唱团  
 chati - 屋顶 (房顶)  
 cheke - 检查  
 chen - 以前  
@@ -244,9 +244,7 @@ dai dom - 殿 (宫殿, 宅第)
 dai hai - 大洋 (大海)  
 dai pau - 大炮  
 dai pote - 炼药锅  
-dai sheku - 磐石  
-daku - 获得  
-daku shitu - 得失  
+dai seku - 磐石  
 dama gem - 跳棋  
 dan - 等 (段)  
 dang gi - 钟 (摇铃)  
@@ -266,6 +264,8 @@ dava sui - 药水
 debil - 虚弱 (易坏)  
 defa bano - 盾牌  
 defa kaske - 盔甲  
+deku - 获得  
+deku shitu - 得失  
 dele - 迟延  
 den - 日 (天)  
 den loge - 日记  
@@ -281,7 +281,7 @@ din ja - 信徒
 din shia - 教派  
 dinamite - 甘油炸药  
 dinde - 火鸡  
-ding - 钉子  
+dingi - 钉子  
 dino saur - 恐龙  
 diorite - 闪长岩  
 diske - 圆盘  
@@ -419,10 +419,10 @@ fuku vashi gi - 洗衣机
 fungu frute - 蘑菇  
 fute marke - 脚印  
 ####G - G  
-ga - 如果 (要是)  
+ga - 去  
 gabur - 坟墓 (埋葬)  
 gabur bagi - 公墓 (墓地)  
-gabur sheku - 墓石 (墓碑)  
+gabur seku - 墓石 (墓碑)  
 gadolin yum - 钆  
 galaksi - 恆星系  
 gali yum - 镓  
@@ -434,6 +434,7 @@ gana - 秆
 gana kalam - 蘆葦筆  
 ganse - 雁 (鹅)  
 ganum - 麦  
+gar - 如果 (要是)  
 garma mosim - 夏季  
 garma zona - 热带  
 garma zona gazo topo - 稀树草原  
@@ -455,8 +456,8 @@ gida ja - 导游
 ging lin - 經紗  
 gingam - 金柑  
 gio - 教学  
-gioka - 玉  
 gitar - 吉他  
+giuka - 玉  
 glis - 滑下  
 glu bande - 创可贴 (邦迪)  
 glu di - 黏的  
@@ -464,7 +465,7 @@ glu fan - 黏土
 glu grafi - 贴纸  
 go - 那  
 gol - 目的  
-gola sheku - 鹅卵石  
+gola seku - 鹅卵石  
 gong - 工作  
 gong ja - 工人 (工作者)  
 gong kan - 工厂  
@@ -538,8 +539,8 @@ hisabu logi - 数学
 hiyar - 黄瓜  
 hobi ja - 爱好者  
 hogo - 火  
-hogo shan - 火山  
-hogo sheku - 燧石  
+hogo san - 火山  
+hogo seku - 燧石  
 hogo tehni - 烟火  
 hoki - 曲棍球  
 holme yum - 钬  
@@ -569,18 +570,17 @@ iode - 碘
 iris yum - 铱  
 islam din - 回教 (伊斯蘭教)  
 ####J - J  
-ja - 去  
 jamul - 閻浮樹  
 jan - 人  
 janela - 窗戶  
 janela frem - 窗框  
-jang ja - 工匠 (匠人)  
+jang - 戰爭 (斗争, 战斗)  
 jangal - 森林  
 jara - 罐 (瓶)  
 jau - 大麦  
 javabu - 回答  
 jeka - 借  
-jeka daku - 借入  
+jeka deku - 借入  
 jeka dona - 借出  
 jela kan - 监狱 (监牢)  
 jen buda din - 禅宗  
@@ -589,15 +589,16 @@ jene di - 生的
 jene logi - 系谱学  
 jene loka - 出生地  
 jene tipe - 基因型  
+jiang ja - 工匠 (匠人)  
 jinse - 性别  
 jinse logi - 性别研究  
 jirafa - 长颈鹿  
 jiu - 生命  
+jong - 中心  
+jong shula kan - 中学  
+Jongoku - 中国  
 jul - 焦耳 (J)  
 jumla - 句子  
-jung - 中心  
-jung shula kan - 中学  
-Jungoku - 中国  
 Jupiter - 木星  
 jus - 汁  
 ####K - K  
@@ -687,7 +688,7 @@ kitabu - 写
 kitabu chuli - 文字处理 (字处理)  
 kitabu gi - 打字机  
 kitabu kan - 图书馆  
-kitabu shuta - 文学  
+kitabu suta - 文学  
 kivi - 奇异果  
 klien - 顾客  
 klima mute - 气候变化  
@@ -726,7 +727,7 @@ krote - 鼹鼠
 kruasan - 牛角包  
 krus arka - 弩 (十字弓)  
 krus lin - 十字线  
-kuang shan - 矿场  
+kuanga san - 矿场  
 kuarze - 石英  
 kube - 立方体  
 kudi - 肘  
@@ -746,7 +747,7 @@ lal linse - 短尾貓
 lal oranje - 柑橘 (红橘)  
 lal salmon - 紅鮭  
 lala bede - 摇篮  
-lala chante - 摇篮曲  
+lala chanta - 摇篮曲  
 lama - 喇嘛  
 lampa - 灯  
 lana - 诅咒  
@@ -776,7 +777,7 @@ liga di sanduku - 约柜
 lika - 力  
 lili - 小  
 lili kaboga - 西葫芦  
-lili sheku - 砾石  
+lili seku - 砾石  
 lima - 五 (5)  
 limon - 柠檬  
 limon oranje - 柑橘  
@@ -799,6 +800,7 @@ loga so - 词
 loge - 纪录  
 loge buku - 航海日志  
 loka - 地方  
+lona - 论  
 long - 长  
 long dura - 久  
 long kata - 小说  
@@ -807,7 +809,6 @@ long tire - 拉
 lotra - 獭  
 lou - 漏  
 luka - 六 (6)  
-lun - 论  
 luna keke - 月饼  
 lung - 龙  
 lung dou - 四棱豆  
@@ -828,8 +829,8 @@ mal nomi - 经济学
 man raja - 王  
 mana - 意义  
 manera - 方式  
+mang - 忙  
 mangan - 锰  
-mangu - 忙  
 mani din - 摩尼教  
 manioka - 木薯   
 mantol - 斗篷  
@@ -845,7 +846,7 @@ masta - 桅
 mata badan - 尸体  
 mata badan fili - 恋尸癖  
 mate - 物质  
-mate lun - 唯物论 (唯物主义)  
+mate lona - 唯物论 (唯物主义)  
 matur - 成年人  
 matur fem - 女人  
 matur man - 男人  
@@ -869,10 +870,10 @@ mendelef yum - 钔
 meninge - 脑脊膜  
 meranti - 娑羅屬  
 metal bede - 铁砧  
-metal jang ja - 铁匠  
+metal jiang ja - 铁匠  
 metal lin - 线 (铁丝)  
 metre grafi - 図表  
-metre grafi shuta - 地图学  
+metre grafi suta - 地图学  
 meza - 桌子  
 meza tela - 桌布  
 mi - 我  
@@ -891,11 +892,11 @@ miti - 会议
 mitre - 米 (公尺)  
 moka - 树木  
 moka bano - 木板  
-moka jang ja - 木匠  
+moka jiang ja - 木匠  
 moka mate - 木材  
 moka tana - 原木  
 mol kan - 磨坊  
-mol sheku - 磨石  
+mol seku - 磨石  
 mole - 摩尔 (单位)  
 molekul - 分子  
 moli - 茉莉  
@@ -1061,7 +1062,7 @@ plumbe - 铅
 pluton yum - 钚  
 Polinesi - 波利尼西亚  
 politi - 政府  
-politi lon - 政治  
+politi lona - 政治  
 politi mode - 政体  
 polska yum - 钋  
 ponte pin - 指南针  
@@ -1070,7 +1071,7 @@ porte - 港
 pospor - 磷  
 pote chamacha - 勺 (舀)  
 pote ja - 陶瓷工  
-pote shuta - 陶器制造  
+pote suta - 陶器制造  
 prazedim yum - 镨  
 presa - 压力  
 problem - 问题 (难题)  
@@ -1123,9 +1124,9 @@ Roma - 罗马
 roma kamil - 果香菊  
 rota lefte - 反时针方向的  
 rota tafun - 飓风 (台风)  
-rota van gi - 陀螺  
+rota vanu gi - 陀螺  
 rubi - 红  
-rubi bau sheku - 红宝石  
+rubi bau seku - 红宝石  
 rubi yum - 铷  
 ruhu mishe di - 困惑 (混乱)  
 rus yum - 钌  
@@ -1169,12 +1170,14 @@ saur - 蜥蜴
 se di - 自私  
 se kon - 彼此  
 sekse logi - 性学  
+seku - 石 (岩)  
 selen yum - 硒  
 selu logi - 细胞学  
 seme - 种  
-seme dane - 种子  
+seme dana - 种子  
 seme di - 种子的  
 sene - 年岁  
+seng bai - 勝敗  
 sense - 感觉  
 sense shaka - 觸手  
 sento - 百  
@@ -1193,8 +1196,6 @@ shava kote - 雨衣
 shava mosim - 雨季  
 she - 事物 (东西)  
 she hal - 事态  
-sheku - 石 (岩)  
-shenga bai - 勝敗  
 shia - 派系  
 shia islam din - 什叶派  
 shifu - 师傅  
@@ -1223,7 +1224,6 @@ shuli - 修理
 shulija - 修理工人  
 shuru - 开始  
 shush - 噓  
-shuta - 技术  
 si - 对  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
@@ -1248,7 +1248,7 @@ sol hua - 向日葵
 sol sistem - 太阳系  
 sona kamar - 卧室 (寝室)  
 sona papi - 鴉片罌粟  
-song - 松  
+songi - 松  
 sor - 锁  
 sosi - 社会  
 sosi jinse - 社會性別  
@@ -1267,13 +1267,14 @@ sukar gana - 甘蔗
 sulfu - 硫  
 sundar - 漂亮 (美)  
 sundar daka - 装饰  
-sundar shuta - 艺术 (美术)  
+sundar suta - 艺术 (美术)  
 sundar ta - 美丽  
 supa - 汤  
 supa chamacha - 汤匙  
 supra vakil ja - 参议员  
 supriza - 惊奇  
 susan - 百合花  
+suta - 技术  
 ####T - T  
 tabi - 特性 (生性)  
 table komputa - 平板电脑  
@@ -1281,7 +1282,7 @@ tail - 砖 (瓦)
 taksi metre gi - 计程器  
 tal moka - 灌木  
 tali yum - 铊  
-tam - 贪婪的  
+tami - 贪婪的  
 tana - 茎 (梗)  
 tantal yum - 钽  
 tarjum she - 翻译  
@@ -1322,7 +1323,7 @@ trata - 拖
 trata gi - 拖拉机 (铁牛)  
 trati - 合同 (合约)  
 tri - 三 (3)  
-tri zong - 三叉戟  
+tri pike - 三叉戟  
 truke - 伎俩  
 tu - 你  
 tule yum - 铥  
@@ -1410,9 +1411,9 @@ Yesa Mesi - 耶稣基督
 yoga - 瑜伽功  
 yogo - 轭  
 yogur - 酸奶 (优格)  
-yong - 融化  
-yong petra - 熔岩  
-yong safa - 熔炼  
+yung - 融化  
+yung petra - 熔岩  
+yung safa - 熔炼  
 yuter yum - 钇  
 yuterbi yum - 镱  
 ####Z - Z  

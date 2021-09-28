@@ -167,12 +167,12 @@ It denotes a group or set of elements.
 **loga jama** vocabulary  
 
 
-#### shuta
+#### suta
 
 A field of expertise, or a set of techniques for using or making something.
 
-**enjener shuta** engineering  
-**sapatu shuta** shoemaking  
+**enjener suta** engineering  
+**sapatu suta** shoemaking  
 
 
 #### sim

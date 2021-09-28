@@ -52,7 +52,7 @@ algue - alga
 algues - hai alga  
 algues brunes - kafe alga  
 Algérie - Jayer  
-aller - ja  
+aller - ga  
 Aller-retour - retro tikete  
 alligator - korte krokodil  
 allophone - alo fon  
@@ -133,7 +133,7 @@ armée de l'ai - air gun
 arobase (@) - adres zi  
 arrêt de bus - bus halte  
 arsenic - arsen yum  
-art - shuta  
+art - suta  
 artichaut - karchof  
 artiste - arte ja  
 Artsakh - Arcah  
@@ -224,7 +224,7 @@ beauté - sundar ta
 belle-mère - gami ma  
 bengali - bangla basha  
 berceau - lala bede  
-berceause - lala chante  
+berceause - lala chanta  
 berkélium - berkli yum  
 besoin - yau ta  
 betterave - bete  
@@ -301,7 +301,7 @@ cafetière - kafe pote
 café - kafe  
 café - kafe kan  
 cage - kane kasa  
-caillou - lili sheku  
+caillou - lili seku  
 calame - gana kalam  
 calcaire - kalsi petra  
 calcite - kalsite  
@@ -339,7 +339,7 @@ carte (graphique) - metre grafi
 carte (plan) - topo metre grafi  
 carte - karte  
 carte à collectionner - jama karde  
-cartographie - metre grafi shuta  
+cartographie - metre grafi suta  
 cauri - kauri  
 ce...ci - ni  
 ce...lá - go  
@@ -348,7 +348,7 @@ Centaurée - sentaure
 Centaurée bleuet - blu sentaure  
 Centaurée du solstice - sol sentaure  
 centenaire - sento nen di  
-centre - jung  
+centre - jong  
 cerise - cheri  
 cerveau (cervelle) - nau  
 chachlik - shish nama  
@@ -382,7 +382,7 @@ cheveux - sar kesha
 chien - vaf  
 chiisme - shia islam din  
 chimie - kimi logi  
-Chine - Jungoku  
+Chine - Jongoku  
 chlore - klor  
 chocolat - choklate  
 chose - she  
@@ -394,10 +394,10 @@ chu - pade di
 chéri - ama jan  
 chêne - baluta  
 chêne pédonculé - europa baluta  
-chœur - chante grupe  
+chœur - chanta grupe  
 ciel - sama  
 cigarette - sigar  
-cime (pic, sommet) - shan pike  
+cime (pic, sommet) - san pike  
 cimetière - gabur bagi  
 cinq (5) - lima  
 cirse commun - pero kardon  
@@ -576,7 +576,7 @@ einsteinium - einstein yum
 elfe - elfe  
 empreinte de pied - fute marke  
 empreinte digitale - angul marke  
-empruntre - jeka daku  
+empruntre - jeka deku  
 en arrière - retro  
 en avant - do jin  
 en ligne - na lin  
@@ -653,7 +653,7 @@ flèche - fleche
 flérovium - flerof yum  
 foin - gan gazo  
 fois - mar  
-fondu - yong safa  
+fondu - yung safa  
 football - fute bol  
 force - lika  
 force navale (marine) - hai gun  
@@ -814,7 +814,7 @@ Irland - Aire
 ironie - ironi  
 Islam - islam din  
 ####J - J  
-jade - gioka  
+jade - giuka  
 Japon - Nipon  
 jarre (carafe, cruche) - jara  
 jasmin - moli  
@@ -869,7 +869,7 @@ lapin (lièvre) - tuzi
 lapis-lazuli - lazur petra  
 lasagne - lazanya  
 latéral - late di  
-lave - yong petra  
+lave - yung petra  
 lawrencium - laurence yum  
 le (la) - la  
 lent - lente  
@@ -897,7 +897,7 @@ lit de camp - kampe bede
 lithium - lito yum  
 litre - litre  
 lits superposés - cheng bede  
-littérature - kitabu shuta  
+littérature - kitabu suta  
 livermorium - livermor yum  
 livre - buku  
 livre de bord - loge buku  
@@ -963,12 +963,12 @@ match - meche
 maternel - ma di  
 mathématiques - hisabu logi  
 matière - mate  
-matérialisme - mate lun  
+matérialisme - mate lona  
 maximum - masim  
 maître - mestre  
 medio - medi  
 meitnérium - meitner yum  
-melt - yong  
+melt - yung  
 mendélévium - mendelef yum  
 menthe - minta  
 Menthe aquatique - sui minta  
@@ -984,7 +984,7 @@ merveille - ajibu
 message - anjil  
 messager - anjil ja  
 mettre (placer) - fa loka  
-meule - mol sheku  
+meule - mol seku  
 microbe - mikro bio  
 microbiologie - mikro bio logi  
 Micronésie - Mikronesi  
@@ -992,7 +992,7 @@ microscope - mikroskope
 midi - medi dia  
 miel - medu  
 migration - migra  
-mine - kuang shan  
+mine - kuanga san  
 minuit - medi noche  
 mode (façon, manière) - mode  
 modeler - fa plasti  
@@ -1090,7 +1090,7 @@ objectif (cible) - dike
 objet (article) - vutu  
 oblique (de travers) - tercha  
 obsidienne - osidian  
-occupé - mangu  
+occupé - mang  
 ocelot - oselote  
 oculaire - oko di  
 océan - dai hai  
@@ -1184,7 +1184,7 @@ patrie - dom desha
 pause - pauza  
 pavot d'Orient - gui papi  
 pavot somnifère - sona papi  
-pavé - gola sheku  
+pavé - gola seku  
 pays des fées (paradis) - pari desha  
 peindre - fa pente  
 peinture - pente  
@@ -1206,11 +1206,11 @@ phase - faze
 philosophie - filsofi  
 phosphore - pospor  
 photographie - foto grafi  
-photographie - foto grafi shuta  
+photographie - foto grafi suta  
 photon - foto so  
-pierre - sheku  
-pierre précieuse (joyau) - bau sheku  
-pierre tombale - gabur sheku  
+pierre - seku  
+pierre précieuse (joyau) - bau seku  
+pierre tombale - gabur seku  
 pieu - moka kane  
 pile (batterie) - bateri  
 pilier (colonne, poteau) - kolum  
@@ -1275,7 +1275,7 @@ postérieur - pos di
 pot (vase) - pote  
 pot de fleur - hua pote  
 potassium - kali yum  
-poterie - pote shuta  
+poterie - pote suta  
 potier - pote ja  
 poubelle - laji tong  
 poudre à canon - barude  
@@ -1379,7 +1379,7 @@ rivière (fleuve) - rivo
 riz - ris  
 robot - robote  
 roche (pierre) - petra  
-rocher - dai sheku  
+rocher - dai seku  
 rock - roke muzika  
 roentgenium - rentegen yum  
 roi - man raja  
@@ -1393,7 +1393,7 @@ roue - chakra
 rouge - rubi  
 ruban (bande) - tepe  
 rubidium - rubi yum  
-rubis - rubi bau sheku  
+rubis - rubi bau seku  
 ruche (nid d'abeille) - fong nide  
 ruse - truke  
 rutherfordium - ruterfor yum  
@@ -1470,9 +1470,9 @@ sexe - jinse
 sexologie - sekse logi  
 Shiva - Shiva  
 shopping - shopi  
-si - ga  
+si - gar  
 signer - nam kitabu  
-silex - hogo sheku  
+silex - hogo seku  
 silicium - silis  
 simulation - sam sifa she  
 situation (état de choses) - she hal  
@@ -1557,7 +1557,7 @@ théière - chai pote
 théosophie - deu sofi  
 tige - tana  
 tigre - bagre  
-tire à l'arc - arka shuta  
+tire à l'arc - arka suta  
 tirer - tire yo milke  
 tissu - tela  
 titane - titan yum  
@@ -1570,7 +1570,7 @@ topinambour - masa mula sol hua
 topographie - topo grafi  
 tortue - tortuga  
 toucher - tochu  
-toupie - rota van gi  
+toupie - rota vanu gi  
 touriste - safar kegu ja  
 Tournesol - sol hua  
 toxicologie - toksi logi  
@@ -1665,11 +1665,11 @@ voile - hijabu
 voir - vide  
 voire (même) - hata  
 vol - fei  
-volcan - hogo shan  
+volcan - hogo san  
 voler - fei  
 votre - tumon su  
 vouloir - vol  
-voyelle - jung fon  
+voyelle - jong fon  
 voûte - arka chati  
 vrai - ver  
 vulve - vulva  
@@ -1711,7 +1711,7 @@ zéro - siro
 échelle - shalke  
 école (collège) - shula kan  
 école primaire - baze shula kan  
-école secondaire - jung shula kan  
+école secondaire - jong shula kan  
 économie - mal nomi  
 écorce - tire yo pil  
 écrire - kitabu  
@@ -1720,7 +1720,7 @@ zéro - siro
 éducation - shula  
 égal (même) - sam  
 électricité - eletro  
-élevage - zou agro shuta  
+élevage - zou agro suta  
 élever - jene yo zou  
 éloge - eu loga  
 élément (unité fondamentale) - so  

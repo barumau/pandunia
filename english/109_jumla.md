@@ -140,11 +140,11 @@ which indicates a modality such as desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **mi ja do dom.**
+1. **mi ga do dom.**
    – I go home.  
-2. **mi bil ja do dom.**
+2. **mi bil ga do dom.**
    – I can go home.  
-3. **mi vol bil ja do dom.**
+3. **mi vol bil ga do dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 

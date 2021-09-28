@@ -163,7 +163,7 @@ bata - anaso
 bateri - baterio (pilo)  
 bati - ok (8)  
 bau - trezoro  
-bau sheku - juvelo  
+bau seku - juvelo  
 bazar - merkato (bazaro)  
 baze - bazo  
 baze bol - basbalo  
@@ -288,9 +288,9 @@ chaku - tranĉilo
 chamacha - kulero  
 champion - ĉampiono  
 chanse - ŝanco  
-chante - kanti  
-chante - kanto  
-chante grupe - ĥoro  
+chanta - kanti  
+chanta - kanto  
+chanta grupe - ĥoro  
 chape - presaĵo  
 chati - tekto  
 cheke - kontroli  
@@ -330,10 +330,9 @@ dai dom - palaco
 dai hai - oceano  
 dai pau - kanono  
 dai pau ja - kanonisto  
-dai sheku - ŝtonego  
+dai seku - ŝtonego  
 dai siti - urbego  
 daka - kovrilo  
-daku - akiri (ricevi, preni)  
 dama gem - damludo  
 danse - danco  
 Danske - dana  
@@ -354,6 +353,7 @@ dava ja - kuracisto
 defa - defendo  
 defa - defendi  
 defa ja - defendanto (defendisto)  
+deku - akiri (ricevi, preni)  
 dele do - atendi  
 demo - popolo  
 demo grafi - demografio  
@@ -383,7 +383,7 @@ din guru - pastro
 din ja - kredulo  
 din shia - sekto  
 dinde - meleagro  
-ding - najlo  
+dingi - najlo  
 dino saur - dinosaŭro  
 diske - disko  
 disprosi yum - disprozio  
@@ -607,7 +607,7 @@ fito - planto
 fito logi - plantscienco (botaniko)  
 fizika - fiziko  
 fizika ja - fizikisto  
-fizika shuta - fiziko  
+fizika suta - fiziko  
 flur - fluoro  
 fobi - timo (fobio)  
 fobi ja - timiga  
@@ -626,7 +626,7 @@ foto gola - halo
 foto grafi - foto  
 foto grafi gi - fotilo  
 foto grafi ja - fotisto  
-foto grafi shuta - fotografio  
+foto grafi suta - fotografio  
 foto kane - torĉo  
 foto so - fotono  
 France - Francio  
@@ -649,10 +649,10 @@ futa di - grasa
 fute - piedo  
 fute bol - piedpilko  
 ####G - G  
-ga - se  
+ga - iri  
 gabur - tombo (enterigi)  
 gabur bagi - tombejo  
-gabur sheku - tomboŝtono  
+gabur seku - tomboŝtono  
 gadolin yum - gadolinio  
 gaja - elefanto  
 galaksi - galaksio  
@@ -674,6 +674,7 @@ ganja - kanabo
 ganse - ansero  
 ganum - tritiko  
 ganya - akiri (gajni)  
+gar - se  
 garanti - garantio  
 garde - gardi  
 garde ja - gardisto  
@@ -698,8 +699,8 @@ german yum - germaniumo
 gi - maŝino  
 gida - gvidi  
 gio - instrui (lernigi)  
-gioka - jado  
 gitar - gitaro  
+giuka - jado  
 glu - gluo  
 glu grafi - glumarko  
 gluten - gluteno  
@@ -860,7 +861,6 @@ Islande - Islando
 Israel - Israelo  
 Italia - Italio  
 ####J - J  
-ja - iri  
 ja - isto (anto)  
 jaga - uyanık  
 jain din - Ĝajnismo  
@@ -871,7 +871,8 @@ jampe - salti
 jan - persono  
 janela - fenestro  
 janela frem - fenestrokadro  
-jang ja - metiisto  
+jang - milito (batalo)  
+jang di - milita  
 jangal - arbaro  
 jara - kruĉo  
 jau - hordeo  
@@ -884,13 +885,16 @@ jene basha - hejmlingvo
 jene den - naskiĝtago  
 jene logi - genealogio  
 jene loka - naskiĝejo  
-jeng - milito (batalo)  
-jeng di - milita  
+jiang ja - metiisto  
 jinse - sekso  
 jinse di - seksa  
 jirafa - ĝirafo  
 jiu - vivo  
 jiu - viva  
+jong - centro  
+jong fon - vokalo  
+jong shula kan - gimnazio  
+Jongoku - Ĉinio  
 joven - juna  
 joven fem - knabino  
 joven jan - junulo  
@@ -900,10 +904,6 @@ judau - ĵudo
 jude - juĝo  
 jude ja - juĝisto  
 jul - ĵulo (J)  
-jung - centro  
-jung fon - vokalo  
-jung shula kan - gimnazio  
-Jungoku - Ĉinio  
 jupe - jupo  
 jus - suko  
 juste - ĝuste (precize, ekzakte)  
@@ -1004,7 +1004,7 @@ kisma - sorto (destino)
 kitabu - skribo  
 kitabu gi - tajpilo  
 kitabu kan - librejo  
-kitabu shuta - literaturo  
+kitabu suta - literaturo  
 kivi - kivo  
 klar - klara  
 klar! - kompreneble  
@@ -1032,7 +1032,6 @@ kon sabe - informacio
 kon sana sim - komunismo  
 kon sana sim ja - komunisto  
 kon su - kuna  
-Kong Fuzi - Konfuceo  
 konserte - koncerto  
 kontra - kontraŭi  
 koperni yum - kopernicio  
@@ -1066,6 +1065,7 @@ kube - kubo
 kudi - kubuto  
 kul - bonega (mojosa)  
 kultur - kulturo  
+Kung Fuzi - Konfuceo  
 kupa - taso  
 kupre - kupro  
 kurban - ofero  
@@ -1083,7 +1083,7 @@ laji tong - rubujo
 lal oranje - mandarino  
 lala - luli  
 lala bede - lulilo  
-lala chante - lulkanto  
+lala chanta - lulkanto  
 lampa - lampo  
 lanse - ĵeti (lanĉi)  
 lasun - ajlo  
@@ -1104,7 +1104,7 @@ lika - forto
 lika di - forta  
 lili - malgranda  
 lili bol - bobelo  
-lili sheku - ŝtoneto  
+lili seku - ŝtoneto  
 lili siti - urbeto  
 lima - kvin (5)  
 limon - citrono  
@@ -1157,8 +1157,8 @@ man - viro
 man raja - reĝo  
 mana - signifo  
 manera - maniero (konduto)  
+mang - okupata  
 mangan - mangano  
-mangu - okupata  
 mar - fojo  
 maraton - maratono  
 marche - promeno (marŝo)  
@@ -1198,7 +1198,7 @@ melodi - melodio
 membre - membro  
 meme - ŝafo  
 memo - memoro  
-men - nudelo  
+mena - nudelo  
 meranti - ŝoreo  
 Merkur - Merkuro  
 mes - monato  
@@ -1306,7 +1306,7 @@ nau di - cerba
 nau hin - sencerba  
 nava - naūatla  
 nave - boato (ŝipo)  
-nave gou - boatumi  
+nave ga - boatumi  
 nave lefte - babordo  
 nave raite - tribordo  
 nefre - reno  
@@ -1343,7 +1343,7 @@ Noe di nave - Arkeo de Noa
 nomer - nombro  
 nong di - agrikultura  
 nong nomi - agronomio  
-nong shuta - agrikulturo  
+nong suta - agrikulturo  
 norde - nordo  
 Norge - Norvegio  
 norge basha - norvega  
@@ -1462,7 +1462,7 @@ poli basha di - multlingva
 poli gona - poligono  
 politi di - politika  
 politi ja - politikisto  
-politi lon - politiko  
+politi lona - politiko  
 polska yum - polonio  
 ponte - montri  
 porte - haveno  
@@ -1532,7 +1532,7 @@ rose - roso
 rota lefte - maldekstrume  
 rota tafun - uragano (tajfuno)  
 rubi - ruĝa  
-rubi bau sheku - rubeno  
+rubi bau seku - rubeno  
 rubi yum - rubidio  
 ruhu - animo (psiko)  
 ruhu logi - psikologio  
@@ -1579,6 +1579,8 @@ sam sekse di - samseksema
 sama - ĉielo  
 sama hal - vetero  
 samari yum - samario  
+san - monto  
+san pike - pinto  
 sana basha - artefarita lingvo  
 sana ja - fabrikisto  
 sanduku - skatolo (kesto)  
@@ -1601,12 +1603,14 @@ se kon - unu la alian (reciproke)
 se kon - unu la alian  
 se kon su - reciproka  
 sekse - sekso  
+seku - ŝtono  
 selen yum - seleno  
 selu - ĉelo  
 selu logi - citologio  
 seme - semo  
 seme di - sema  
 sene - aĝo  
+seng - venko  
 sense - sentumo  
 senti - centono  
 sento - cent  
@@ -1621,8 +1625,6 @@ sham - vespero
 sham dia - posttagmeze  
 sham yam - vespermanĝo  
 shaman - ŝamano  
-shan - monto  
-shan pike - pinto  
 shanti di - trankvila (serena)  
 sharma - honto  
 sharnir - ĉarniro (pivoto)  
@@ -1635,8 +1637,6 @@ shava chati - obrelo
 she hal - situacio (aferstato)  
 shefe - estro (ĉefulo)  
 shefe minister - ĉefministro  
-sheku - ŝtono  
-shenga - venko  
 shia islam din - ŝijaismo  
 shikaya - plendo  
 shim - koro  
@@ -1699,7 +1699,7 @@ sol sistem - sunsistemo
 sona - dormo  
 sona kamar - dormoĉambro  
 sona tabi - dormema  
-song - pino  
+songi - pino  
 soni - sono  
 sor - fermilo (seruro)  
 sos - saŭco  
@@ -1725,7 +1725,7 @@ sulfu - sulfuro
 sum - sumo  
 suna islam din - sunaismo  
 sundar - bela  
-sundar shuta - arto  
+sundar suta - arto  
 sundar ta - beleco  
 Suomi - Finnlando  
 suomi basha - lingvo  
@@ -1742,7 +1742,7 @@ Tai basha - tajlanda
 Tai Desha - Tajlando  
 taiga - tajgo  
 tali yum - talio  
-tam - avida  
+tami - avida  
 tantal yum - tantalo  
 tanur - forno  
 Tanzania - Tanzanio  
