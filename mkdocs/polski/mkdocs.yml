@@ -4,16 +4,23 @@ repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../polski
 site_dir: ../../html/polski
 theme:
-  name: cerulean
+  name: readthedocs
   language: pl
 nav:
     - Główna: 'index.md'
     - 'Info':
         - 'Wprowadzenie': 001_dunia_basha.md
-        - 'Założenia': filsofe.md
-    - 'Gramatyka': 100_baze_kanun.md
-    - 'Nauka':
+        - 'Założenia': 002_filsofi.md
+    - 'Gramatyka':
+        - 100_baze_kanun.md
         - 'Dźwięki i litery': 102_ABC.md
+        - 104_viseloga.md
+        - 105_namloga.md
+        - 106_nomer.md
+        - 107_modeloga.md
+        - 109_jumla_bina.md
+        - 110_loga_bina.md
+    - 'Nauka':
         - 'Rozmówki': 200_baze_jumla.md
         - 'Kurs': 201_shula.md
     - 'Słownik':
