@@ -1,48 +1,68 @@
 # Zaimki
 
-### 5.1. Zaimki osobowe
+## Zaimki osobowe
 
 Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
-**me** - ja, mnie
-**te** - ty, ciebie
-**le** - on, ona, ono
-**mome** - my
-**tote** - wy
-**lole** - oni, one
+**mi**
+– ja, mnie  
+**tu**
+– ty, ciebie  
+**ye**
+– on, ona, ono  
+**mimon**
+– my  
+**tumon**
+– wy  
+**yemon**
+– oni, one
 
-**se** - się, siebie
+**se**
+– się, siebie
 
-**me wida se** - Widzę się.
-**le wida se** - Widzi się.
-**mome wida se.** - Widzimy się.
+**mi vide se**
+– Widzę się.  
+**ya vide se**
+– Widzi się.  
+**mimon vide se.**
+– Widzimy się.
 
 
 ### 5.2. Zaimki wskazujące
 
 Zaimki wskazujące to:
 
-**ce** - ten
-**le** - tamten
+**ni**
+– ten  
+**go**
+– tamten
 
-> **me wana ce.** - Chcę ten.
+**ni mau**
+– Ten kot  
+**go mau.**
+– Tamten kot
 
-Kończą się na **-i**, gdy działają jak przymiotniki, tj., kiedy są przed rzeczownikiem.
+**mi vol ni.**
+– Chcę ten.  
+**mi vol ni mau.**
+– Chcę tego kota.
 
-> **ci maw** - Ten kot
-> **li maw.** - Tamten kot
 
-
-### 5.3. Zaimki pytające
+## Zaimki pytające
 
 **ke** jest zaimkiem pytającym ogólnego zastosowania. Załatwia robotę polskich _kto_ i _co_.
 
-> **ke?** - Kto lub co?
+**ke?**
+– Kto lub co?
 
-Przymiotnikowy zaimek pytający to **ki** i znaczy tyle, co polskie _jaki_.
+Przymiotnikowy zaimek pytający to **ke** i znaczy tyle, co polskie _jaki_.
 
-> **ki xey?** - Co? (Jaka rzecz?)
-> **ki ren?** - Kto? (Jaka osoba?)
-> **ki zaman?** - Kiedy? (Jaki czas?)
-> **ki yang?** - Jak? (Jaki sposób?)
+**ke she?**
+– Co? (Jaka rzecz?)  
+**ke jan?**
+– Kto? (Jaka osoba?)  
+**ke zaman?**
+– Kiedy? (Jaki czas?)  
+**ke yang?**
+– Jak? (Jaki sposób?)
 

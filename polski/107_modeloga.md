@@ -2,71 +2,82 @@
 
 Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyrażonej innym słowem, np. dobry, duży, źle, szybko.
 
-### 3.1. Opisywanie rzeczownika
+## Opisywanie rzeczownika
 
 Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
-> **day petre** - duży kamień
-> **day meze** - duży stół
-> **gaw meze** - wysoki stół
-> **bon kurse** - dobre krzesło
+**dai seku**
+– duży kamień  
+**dai meza**
+– duży stół  
+**gau meza**
+– wysoki stół  
+**bon kursi**
+– dobre krzesło
 
 Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
 
-> **petre day.** - Kamień jest duży.
-> **meze gaw.** - Stół jest wysoki.
+**seku dai.**
+– Kamień jest duży.  
+**meza gau.**
+– Stół jest wysoki.
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
 
-> **day meze gaw.** - Duży stół jest wysoki.
+**dai meza si gau.**
+– Duży stół jest wysoki.
 
 
-### 3.2 Opisywanie czasownika
+## Opisywanie czasownika
 
 Przysłówek to słowo, które opisuje czasownik lub inną modyfikator.
 
 W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem lub na końcu zdania.
 
-> **me _bon_ sona.** - Ja _dobrze_ śpię.
-> **me sona _bon_.** - Śpię _dobrze_.
-> **te baxa pandunia _bon_.** - Mówisz w Panduni _dobrze_.
+**mi _bon_ sona.**
+– Ja _dobrze_ śpię.  
+**mi sona _bon_.**
+– Śpię _dobrze_.  
+**tu basha pandunia _bon_.**
+– Mówisz w Panduni _dobrze_.
 
 
-### 3.4 Opisywanie innego modyfikatora
+## Opisywanie innego modyfikatora
 
-Modyfikator może opisywać też inny modyfikator. Na przykład **day** (duży) i **lil** (mały) mogą być używane jako przysłówki intensyfikujące.
+Modyfikator może opisywać też inny modyfikator. Na przykład **dai** (duży) i **lil** (mały) mogą być używane jako przysłówki intensyfikujące.
 
-> **day ren** - duża osoba
-> **lil ren** - mała osoba
-> **sundar ren** - ładna osoba
+**dai jan**
+– duża osoba  
+**lil jan**
+– mała osoba  
+**sundar jan**
+– ładna osoba
 
-> **day sundar ren** - bardzo ładna osoba
-> **lil sundar ren** - trochę ładna osoba
+**dai sundar jan**
+– bardzo ładna osoba  
+**lil sundar jan**
+– trochę ładna osoba
 
-Modyfikatory mogą być oddzielane **i** (i).
+Modyfikatory mogą być oddzielane **e** (i).
 
-> **lil i sundar ren** - mała i ładna osoba
+**lil e sundar jan**
+– mała i ładna osoba
 
 
-### 3.5. Porównanie
+## Porównanie
 
 Modyfikatory mogą być porównane.
 
-- **max** (bardziej) oznacza porównanie niższości
-- **maxim** (najbardziej) oznacza stopień najwyższy
+- **mas** (bardziej) oznacza porównanie niższości
+- **masim** (najbardziej) oznacza stopień najwyższy
 - **min** (mniej) oznacz porónanie niższości
 - **minim** (najmniej) oznacza stopień najniższy
-- **sam** (jak) oznacza porównanie równości
+- **par** (jak) oznacza porównanie równości
 
-Partykuła **ko** łączy przysłówki porównania z obiektem porównania.
+Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-> **me si max bon ko te.** - Jestem lepszy od ciebie.
-> **te loga sam bon ko me.** - Mówisz tak dobrze, jak ja.
-
-
-#### 3.6. Końcówki modyfikatorów
-
-Przymiotniki domyślnie kończą się na **-i**. Końcówka jest używana zawsze w słowach pochodzących od rdzenie działania lub rdzeni rzeczy. Np. **logi** _mówiony_, **suki** _miły_, **kitabi** _pisemny_.
-
-Zakończenie nie jest stosowane przy rdzeniach-opisach, kończących się pojedynczą spółgłoską, łatwą w wymowie. Np. **bon** _dobry_, **sundar** _ładny_.
+**mi si mas bon ka teu**
+– Jestem lepszy od ciebie.  
+**tu loga par bon ka mi.**
+– Mówisz tak dobrze, jak ja.
 
