@@ -9,16 +9,16 @@ theme:
 nav:
     - Główna: 'index.md'
     - 'Info':
-        - 'Wprowadzenie': dunia_baxe.md
+        - 'Wprowadzenie': 001_dunia_basha.md
         - 'Założenia': filsofe.md
+    - 'Gramatyka': 100_baze_kanun.md
     - 'Nauka':
-        - 'Dźwięki i litery': abc.md
-        - 'Rozmówki': fraze.md
-        - 'Kurs': darse.md
+        - 'Dźwięki i litery': 102_ABC.md
+        - 'Rozmówki': 200_baze_jumla.md
+        - 'Kurs': 201_shula.md
     - 'Słownik':
         - 'Pandunia-polski': pandunia-polski.md
         - 'Polski-pandunia': polski-pandunia.md
         - 'Etymologia': leksaslia.md
         - 'Wyszukaj': tiddly.html
-    - 'Gramatyka': kanun.md
 

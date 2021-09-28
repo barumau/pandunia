@@ -19,10 +19,10 @@ Niektóre zauważalne cechy Panduni:
 ## Materiały do nauki
 
 - [Mini lekcje z obrazkami](http://www.pandunia.info/pandunia/mini_darse.html)
-- [Pisownia](abc.md)
-- [Rozmówki](fraze.md)
-- [Lekcje z Dialogami](darse.md)
-- [Gramatyka](kanun.md)
+- [Pisownia](102_ABC.md)
+- [Rozmówki](200_baze_jumla.md)
+- [Lekcje z Dialogami](201_shula.md)
+- [Gramatyka](100_baze_kanun.md)
 
 - [Słownik z możliwością wyszukiwania](tiddly.html)
 - słownik [polski-Pandunia](polski-pandunia.md)
@@ -31,7 +31,7 @@ Niektóre zauważalne cechy Panduni:
 
 ## Artykuły
 
-- [Pandunia - nowy międzynarodowy język](dunia_baxe.md)
+- [Pandunia - nowy międzynarodowy język](001_dunia_basha.md)
 - [Prezentacja w formacie PDF (ang.)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
 - [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
 - [Dlaczego lubię Pandunię (ang.)](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinie uczących się
@@ -48,6 +48,6 @@ Wielu ludzi już jest zainteresowanych Pandunią i mówi w niej. Znajdziesz fora
 - Kanał QQ: 717549404
 - Możesz również obserwować Pandunię na [Twitterze](https://twitter.com/pandunia_). Nieś wieści!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")
 
 Możesz skontaktować się z twórcą Panduni, Risto Kupsala, pocztą elektroniczną [risto@pandunia.info](mailto:risto@pandunia.info) oraz na wyżej wymienionych forach.

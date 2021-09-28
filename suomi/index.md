@@ -60,6 +60,6 @@ Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@p
 
 ## Kirjoituksia
 
-- [Maailman yhteyskieli](dunia_baxe.md)
+- [Maailman yhteyskieli](001_dunia_basha.md)
 - [Panduniasta muissa julkaisuissa](makal_tema_pandunia.md)
 
