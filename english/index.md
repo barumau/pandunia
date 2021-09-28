@@ -19,13 +19,10 @@ like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
 Learning Pandunia is equally easy for everybody.
 Its words have been borrowed from many languages on all continents and all cultures of the world.
 
+The second version of Pandunia was finalized in September 2021.
+It includes simpler grammar, more international word forms, and many new words.
+
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
-
-## Coming soon...
-
-New and improved version of Pandunia will be finalized in September 2021.
-Version 2.0 includes simpler grammar, more international word forms, and many new words.
-
 
 ## How to learn it?
 

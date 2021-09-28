@@ -126,8 +126,10 @@ In a major change in 2020, the alphabet of Pandunia is changed from an eccentric
 to something that conforms more to the international standards.
 [*](https://github.com/barumau/pandunia/commit/9337bbbdb54e72f019d1738159e38427f15c1a34)
 
-In 2021 the grammar of Pandunia is changed back to analytic and the grammatical vowel-endings are dropped.
-
+In 2021, the grammar of Pandunia is changed back to analytic and the grammatical vowel-endings are dropped.
+The dictionary is updated accordingly.
+More systematic rules are established for adapting words from the source languages to Pandunia.
+Pandunia version 2.0 is published in September 28, 2021.
 
 #### Miscellaneous
 

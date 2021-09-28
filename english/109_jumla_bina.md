@@ -433,16 +433,16 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**roze rang di labi**
+**rode rang di labi**
 – rose-colored lips  
-**sama rang di oko**
+**sama rang di yen**
 – sky-colored eyes
 
 Or in the opposite order:
 
-**labi da roze rang**
+**labi da rode rang**
 – lips of the rose-color  
-**oko da sama rang**
+**yen da sama rang**
 – eyes of the sky-color
 
 The particles help in creating measure words too.
