@@ -6,45 +6,44 @@ _Substantivo_ estas vorto kiu prezentas aferon.
 Substantivoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio.
 Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
-**petre**
+**seku**
 – ŝtono, ŝtonoj, la ŝtono, la stonoj  
-**meze**
+**meza**
 – tablo, tabloj, la tablo, la tabloj  
-**kurse**
+**kursi**
 – seĝo, seĝoj  
-**suy**
+**sui**
 – akvo  
 
 Plejofte la nombro kaj la difineco estas evidenta, se ĝi estas jam priklarigita antaŭe en la teksto aŭ pro ĝenerala kono.
-Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **lun** temas pri _la luno_; nia nura suno kaj luno.
+Ekzemple, normale la vorto **sol** temas pri _la suno_ kaj **luna** temas pri _la luno_; nia nura suno kaj luno.
 
-<!--
-Kunmetante du aŭ pli ya vortoj, oni kreas novan vorton.
+Kunmetante du aŭ pli da vortoj, oni kreas novan vorton.
 La lasta vorto en tia kunmetita ĉeno estas la kerna vorto.
 La aliaj vortoj, kiuj antaŭas la kernan vorton, nur modifas ĝian sencon.
 
-**sol guang**
+**sol foto**
 – suna lumo  
-**lun guang**
+**luna foto**
 – lun lumo  
-**lun petre**
+**luna seku**
 – luna ŝtono  
--->
+
 
 ## Nombro
 
 Substantivoj havas la saman formon en la singularo kaj la plularalo.
 Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 
-**kurse**
+**kursi**
 – seĝo aŭ seĝoj  
-**un kurse**
+**un kursi**
 – unu seĝo  
-**dul kurse**
+**du kursi**
 – du seĝoj  
-**tin kurse**
+**tri kursi**
 – tri seĝoj  
-**pol kurse**
+**ba kursi**
 – multe da seĝoj; seĝoj
 
 

@@ -2,56 +2,71 @@
 
 ## Personaj pronomoj
 
-Pronomoj povas aperi anstataŭ Esencovortoj aŭ ĉenoj ya Esencovortoj.
+Pronomoj povas aperi anstataŭ substantivoj.
 
-**me**
-– mi  
-**te**
-– vi _(ununombre)_  
-**le**
-– li, ŝi, ri, ĝi  
-**mome**
-– ni  
-**tote**
-– vi _(multnombre)  
-**lole**
-– ili
+| Ununombra   | Multenombra  |
+|:------------|:-------------|
+| **mi**      | **mimon**    |
+| mi          | ni           |
+| **tu**      | **tumon**    |
+| vi, ci      | vi           |
+| **ye**      | **yemon**    |
+| li, ŝi, ĝi  | ili          |
+All pronouns can be used for all genders.
 
+La posedaj pronomoj estas formata per aldo de partiklo
+**su**.
+
+| Ununombra   | Multenombra  |
+|:------------|:-------------|
+| **mi su**   | **mimon su** |
+| mia         | nia          |
+| **tu su**   | **tumon su** |
+| via, cia    | via          |
+| **ye su**   | **yemon su** |
+|lia, ŝia, ĝia| ilia         |
 ## Refleksiva pronomo
 
-**ze**
+**se**
 – si (mem)
 
-Rimarko: La refleksiva pronomo **ze** povas uziĝi por ĉiuj personoj.
+Rimarko: La refleksiva pronomo **se** povas uziĝi por ĉiuj personoj.
 Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_, _ni(n) mem_ kaj _si(n)_.
 
-**me vida ze**
+**mi vide se**
 – Mi vidas min.  
-**le vida ze**
+**ye vide se**
 – Ŝi vidas sin.  
+**mimon vide se.**
+– Ni vidas nin.
 
+Oni uzas **se kon** por esprimi reciprokecon.
+
+**se kon**
+– unu la alia
+
+**mi e tu vide se kon.**
+– Mi kaj vi vidas unu la alian.  
+**mimon vide se kon.**
+– Ni vidas unu la alian.
 
 ## Montrovortoj
 
 La montrovorto estas:
 
-**ce**
-– tio
+**ni**
+– ĉi tiu  
+**go**
+– tiu  
+**la**
+– la
 
-**me wana ce.**
-– Mi volas tion.  
-**le wana ce sa me.**
-– Ĝi volas tion ĉe mi.  
-
-
-Montrovortoj povas roli kiel modifovortoj.
-
-**ci petre.**
-– Tiu ŝtono.  
-**ce si petre.**
-– Tio estas ŝtono.  
-**ci petre bari.**
-– Tiu ŝtono pezas.  
+**ni she si bon.**
+– ĉi tiu (aĵo) estas bone.  
+**go she si dus.**
+– Tiu (aĵo) estas malbone.  
+**mi vol ni buku, no go.**
+– mi volas ĉi tiun libron, ne tiun.
 
 
 ## Demandovortoj
@@ -61,23 +76,29 @@ Montrovortoj povas roli kiel modifovortoj.
 
 **ke?**
 – Kiu?/Kio?  
-**ki xey?**
+**ke she?**
 – Kio? (Kiu afero?)  
-**ki ren?**
+**ke jen?**
 – Kiu? (Kiu persono?)  
-**ki sate?**
+**ke zaman?**
 – Kiam? (Kiu tempo?)  
-**ki yang?**
+**ke yang?** 
 – Kiel? (Kiu maniero?)  
-**ki sabe?**
+**ke sabu?**
 – Kial? (Kiu kaŭzo?)
 
-Ankaŭ adjektivoj estas demandataj per **ki**.
+Ankaŭ adjektivoj estas demandataj per **ke**.
 
-**ki day?**
+**ke nove?**
+– Kiom nova?  
+**ke koste?**
+– Kiom multekosta?  
+**ke poli?**
+– Kiom multe?  
+**ke dai?**
 – Kiom granda?  
-**ki lil?**
+**ke lili?**
 – Kiom eta?  
-**ki day du maw te tena?**
+**tu tena ke dai di mau?**
 – Kiom granda kato vi havas?
 
