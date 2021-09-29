@@ -17,7 +17,7 @@ They are described in more detail later in this document.
    If the word has three or more syllables, the second syllable is accented.
 4. **Pronouns:**
     - The personal pronouns are:
-     **mi** _I_, **tu** _you_ (sg.), **ya** _he or she_,
+     **mi** _I_, **tu** _you_ (sg.), **ye** _he or she_,
      **mimon** _we_, **tumon** _you_ (pl.), **yemon** _they_.
     - The possessive pronouns are:
       **mi su** _my_, **tu su** _your_, **ye su** _his or her_,
@@ -39,7 +39,7 @@ They are described in more detail later in this document.
        - Tens: 20 **du des**, 30 **tri des**, 40 **chatre des**, etc.
        - Hundreds: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
        - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
-       - The cardinal numbers use the suffix **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
+       - The ordinal numbers use the suffix **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
 7. **Modifiers:**
    The adjective and the adverb have the same form.
    The adjective modifier is before the noun that it modifies,
@@ -66,11 +66,11 @@ They are described in more detail later in this document.
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi ching tu loga a pandunia.**
+        - **mi ching tu loga la pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ ching _tu_ loga a pandunia.**
-          → **ching loga a pandunia.**
+        - **_mi_ ching _tu_ loga la pandunia.**
+          → **ching loga la pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
    In Pandunia, words change only when their actual meaning changes.

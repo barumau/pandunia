@@ -121,6 +121,10 @@ You are Sarah.
 **aple si frute.**
 The apple is a fruit.
 
+<small>Etimology. **si** is from
+Mandarin: 是 "shì",
+Shanghainese: 是 "sí".</small>
+
 
 ### mi <small>I, me</small>
 
@@ -196,7 +200,7 @@ of gender) as well as for things.
 **mi salam ye.**
 I greet him/her.
 
-<small>Etymology. **ye** is from Malay: ia, Hindi यह (yah).</small>
+<small>Etymology. **ye** is from Swahili: yeye, Hindi यह (yeh).</small>
 
 
 ### sual <small>to ask a question</small>
@@ -380,8 +384,13 @@ Whose is this?
 **ye si mi su.**
 It's mine.
 
-Note: Possessive particle **su** is put between the owner and the owned thing.
-So **mi su** means "my", **tu su** means "your" and so on.
+Note: Possessive particle
+**su**
+is put between the owner and the owned thing. So
+**mi su**
+means "my",
+**tu su**
+means "your" and so on.
 
 **ye si ke?**
 Who's he/she?
@@ -410,9 +419,14 @@ What is his/her name?
 **ye su nam si Sara.**
 Her name is Sarah.
 
-<small>Etymology. **nam** is from Hindi: नाम  "nām", Farsi: نام‏‎
-"nām", Thai: นาม "naam", Indonesian: nama, Japanese: 名前 "namae", German:
-Name, English: name.</small>
+<small>Etymology. **nam** is from
+Hindi: नाम  "nām",
+Farsi: نام‏‎ "nām",
+Thai: นาม "naam",
+Malay: nama,
+Japanese: 名前 "namae",
+German: Name,
+English: name.</small>
 
 
 ### ten <small>have</small>
@@ -476,7 +490,9 @@ He/she eats an apple.
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
-Therefore a word like **aple** can refer to one or more apples.
+Therefore a word like
+**aple**
+can refer to one or more apples.
 
 **sual tu yam kafe?**
 Do you drink coffee?
@@ -698,12 +714,12 @@ It means a kind of animal.
 I don't understand what it means.
 
 
-### kitaba <small>write</small>
+### kitabu <small>write</small>
 
-**ching kitaba tu su adres.**
+**ching kitabu tu su adres.**
 Please, write your address.
 
-**ching kitaba ye na ni.**
+**ching kitabu ye na ni.**
 Please, write it here!
 
 
@@ -838,7 +854,7 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai salam tu su doste.**  
+**mi zai salam tu su dosti.**  
 I am greeting your friend.
 
 **la man ya zai vide un filme.**  
@@ -853,7 +869,7 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**mi pas salam tu su doste.**  
+**mi pas salam tu su dosti.**  
 I greeted your friend.
 
 **la man ya pas vide un filme fem.**  
@@ -868,7 +884,7 @@ He or she was at home.
 
 ### le <small>already, completed</small>
 
-**mi le salam tu su doste.**  
+**mi le salam tu su dosti.**  
 I have greeted your friend.
 
 **la man le vide un filme.**  
@@ -883,7 +899,7 @@ He or she has been at home.
 
 ### sha <small>in the future</small>
 
-**mi sha salam tu su doste.**  
+**mi sha salam tu su dosti.**  
 I will greet your friend.
 
 **la man sha vide la filme.**  

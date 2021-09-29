@@ -123,7 +123,7 @@ animal
 
 1. tu si ke?
 2. mi si tomas.
-3. tu su doste si ke?
+3. tu su dosti si ke?
 4. ye si Sara.
 5. tu su nam si ke?
 6. mi su nam si ........... 

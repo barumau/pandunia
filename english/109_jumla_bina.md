@@ -92,11 +92,11 @@ To clarify the order or to add other objects, the auxiliary verbs **fa** and **b
 **fa** indicates that the subject is the agent or doer of the action,
 and **be** indicates that the subject is the patient, or receiver.
 
-**mi fa salam mi su doste.**
+**mi fa salam mi su dosti.**
 – I greet my friend.  
-**mi be salam mi su doste.**
+**mi be salam mi su dosti.**
 – I am greeted by my friend.  
-**pa fa mi salam mi su doste.**
+**pa fa mi salam mi su dosti.**
 – Father makes me greet my friend.
 
 

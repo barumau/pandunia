@@ -141,7 +141,9 @@ and it means the same as English _which_.
 **ke zaman?**
 – When? (What time?)  
 **ke yang?** 
-– How? (What way?)
+– How? (What way?)  
+**ke sabu?**
+– Why? (What reason?)
 
 Also adjectives are questioned with **ke**.
 

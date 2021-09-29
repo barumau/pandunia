@@ -56,7 +56,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _sundar di_ kitabu.**
 – You write _beautifully_.  
-**yemon _kuai di_ marche.**
+**yemon _rapide di_ marche.**
 – They walk _fast_.
 
 

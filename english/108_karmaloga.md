@@ -11,17 +11,17 @@ For example, the verb
 **si**
 ('to be') has the same form for all persons.
 
-**_mi_ si doste.**
+**_mi_ si dosti.**
 – I am a friend.  
-**_tu_ si doste.**
+**_tu_ si dosti.**
 – You are a friend.  
-**_ya_ si doste.**
+**_ya_ si dosti.**
 – He or she is a friend.  
-**_mimon_ si doste.**
+**_mimon_ si dosti.**
 – We are friends.  
-**_tumon_ si doste.**
+**_tumon_ si dosti.**
 – You are friends.  
-**_yemon_ si doste.**
+**_yemon_ si dosti.**
 – They are friends.
 
 Also a noun can serve as subject.
