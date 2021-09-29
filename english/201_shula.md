@@ -65,6 +65,8 @@ and a word that describes you.
 = I'm a man.  
 **mi si fem.**
 = I'm a woman.  
+**mi si nobi.**
+= I'm non-binary.
 
 
 ### Exercises

@@ -396,10 +396,10 @@ and people say _yum_ when they eat and _atchoo_ when they sneeze
 everywhere in the world.
 The words are not always exactly the same in every language but they are close enough.
 
-This is why Pandunia has for example these basic global words:
+This is why Pandunia has for example these basic global words:  
 **mau**
 – cat  
-**be'e**
+**behe**
 – goat  
 **meme**
 – sheep  
@@ -472,7 +472,7 @@ a normal PoS suffix.
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
 | 心 | **shim**      | sam        | xīn        | shin       | shim       | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
-| 讀 | **dug**       | duk        | dú         | doku       | dog        | đọc        |
+| 讀 | **duku**      | duk        | dú         | doku       | dog        | đọc        |
 | 出 | **chute**     | cœt        | chū        | shutsu     | chul       | xuất       |
 
 Applying the suffixes of Pandunia to Sinitic roots may seem unusual
@@ -490,7 +490,7 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  mi ai tu, tu ai mi.
+    Pandunia:  mi ama tu, tu ama mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb **be** is used when the object of the action comes first in the sentence.
