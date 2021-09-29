@@ -86,7 +86,7 @@ Tense, aspect and mood are indicated with helping verbs.
 **mi zai ama tu.**
 – I am loving you.
 (**zai** indicates ongoing time i.e. progressive aspect)  
-**me pas ama tu.**
+**mi pas ama tu.**
 – I loved you.
 (**pas** indicates the past time)  
 **mi le ama tu.**
