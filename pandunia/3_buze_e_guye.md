@@ -2,11 +2,11 @@
 
 <small>tarjum da _Erjo_</small>
 
-na tele pas, un gui be dom na nicha da un kiau, jo transe un rivo.
+na tele pas, un gui be dom na nicha da un kio, jo transe un rivo.
 la gui ya ten un dus rupa. ye ten yen jo dai ka tasa, e nos jo long ka bele.
 
-na un den, la gui ya audi un lili soni ze supra da kiau.
-«ke jen ya marche na mi su kiau?» la gui ya krita.
+na un den, la gui ya audi un lili soni ze supra da kio.
+«ke jen ya marche na mi su kio?» la gui ya krita.
 «oh! un di zai mi, lili behe» un lili behe ya loga.
 ye dai shush di loga, e fa zoku:
 «mi marche do gazo topo na jo mi sha yam do mi si gola».
@@ -17,8 +17,8 @@ ye dai shush di loga, e fa zoku:
 «no kape mi, ze sabu da mi si lili lili. un di lili deng, e medi behe sha marche. ye si mas dai».
 «oke», la gui ya loga.
 
-na pos da lili zaman, un soni be audi ze supra da kiau.
-«ke jen marcha na mi su kiau?», la gui ya krita.
+na pos da lili zaman, un soni be audi ze supra da kio.
+«ke jen marcha na mi su kio?», la gui ya krita.
 «oh! si mi, medi behe. mi move do gazo topo na jo mi sha yam do mi si gola», la medi behe ya loga.
 ye no shush di loga.
 
@@ -31,8 +31,8 @@ ye no shush di loga.
 ![](http://www.pandunia.info/grafe/behe_e_gui.png "behe e gui")  
 <small>Image designed by [Ajipebriana, brgfx, upklyak / Freepik](https://www.freepik.com)</small>
 
-na pos da lili zaman, bari kelele be audi ze supra da kiau.
-«ke jen marche na mi su kiau?», la gui ya krita.
+na pos da lili zaman, bari kelele be audi ze supra da kio.
+«ke jen marche na mi su kio?», la gui ya krita.
 «mi, dai behe», la dai behe ya loga va dai soni.
 
 «zai mi kape tu!» la gui ya loga.
