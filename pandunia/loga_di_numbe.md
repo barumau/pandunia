@@ -1,4 +1,4 @@
-#numbe da pandunia loga ze ali basha
+# nomer da pandunia loga ze alo basha
 
 | basha | numbe | fen |
 |-------|-------|-----|

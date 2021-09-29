@@ -5,17 +5,17 @@
 halo dunia!
 
 Pandunia si nove dunia basha!
-Pandunia su loga ye lai ze pan fen da dunia:
+Pandunia su loga ya lai ze pan fen da dunia:
 Afrika, Amerika, Asia, Europe
-– ze la dunia basha ye yau vakil da mimen su pan dunia!
+– ze la dunia basha ya yau vakil da mimon su pan dunia!
 
 tu sabe Pandunia, he?
-tu bil shula Pandunia ha uze la [lili shula](mini_darse.html).
+tu bil shula Pandunia va uze la [lili shula](mini_darse.html).
 
 
 * [zi sili](abc.md)
 * kitabu
-    * [lili urso su pashi dante](urse_dante.md)
+    * [lili baru su pashi dante](urse_dante.md)
     * [tri lili goro](3_lil_gurube.md)
     * [tri behe e un gui](3_buze_e_guye.md)
     * [insan di putong haki](putong_hake.md)
