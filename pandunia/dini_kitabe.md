@@ -9,10 +9,9 @@ karma tu su icha
 na geo e na sama.
 ching dona mimon su pan den su pang do mimon.
 ching maf mimon su dosha,
-pardona momi dox,  
 ka mimon maf yemon jo maf mimon.  
 ching no lida mimon do tenta  
-a gardae mimon kontra dus.  
+a garde mimon kontra dus.  
 tu ten raja desha, forte ta, e onor na pan zaman.  
 amen.
 
