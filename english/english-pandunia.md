@@ -107,7 +107,7 @@ American (US) - UDA di
 American - Amerika di  
 American Samoa - Amerika Samoa  
 americium - amerika yum  
-Amerindian (Native American) - asal Amerka jan  
+Amerindian (Native American) - asal Amerka jen  
 Amhara (an Ethiopian ethnic group and language) - Amara  
 among (amid, between) - na medi  
 amount (quantity) - poli ta  
@@ -238,7 +238,7 @@ attributive postposition - di
 August - mes bati  
 auspicious (promising) - bon sin di  
 Australia - Australia  
-Australian Aboriginal - asal Australia jan  
+Australian Aboriginal - asal Australia jen  
 Austria - Ostria  
 Austronesia - Austronesi  
 authority (power to give orders) - amir haki  
@@ -333,7 +333,7 @@ beautiful (handsome, good-looking) - bon vide di
 beautiful (handsome, pretty) - sundar  
 beauty - sundar ta  
 beaver - kastor  
-because - ze saba da  
+because - ze sabu da  
 become open - be kai  
 bed - bede  
 bedouin (nomadic) - badavi  
@@ -599,7 +599,7 @@ catch (capture, seize, snatch, intercept) - kape
 catch fish - kape yo peshe  
 Caucasia - Kaukasia  
 cauldron - dai pote  
-cause (be the cause for) - fa saba  
+cause (be the cause for) - fa sabu  
 cause and effect - karma e asar  
 cave - gua  
 Cayman Islands - Kaiman nesi  
@@ -686,7 +686,7 @@ cigarette (cigar) - sigar
 cinematic - kino grafi di  
 cinematography - kino grafi arte  
 circle (sphere, round object) - gola  
-citizen - desha jan  
+citizen - desha jen  
 citrus fruit - limon oranje  
 city (town) - siti  
 civilization - sivil ta  
@@ -770,13 +770,13 @@ communicate (inform about) - fa kon sabe
 communism - kon sana sim  
 communist - kon sana sim ja  
 Comoros - Komoro nesi  
-companion (partner, sidekick) - late jan  
+companion (partner, sidekick) - late jen  
 company (corporation) - kompani  
 compass (magnetized needle) - ponte pin  
 compassion (sympathy) - sam emos  
 compassion - kon pasi  
 compatible (supported) - kon funsi bil  
-compatriot - sam desha jan  
+compatriot - sam desha jen  
 compete (have a match) - fa meche  
 complain (lament) - shikaya  
 complete (make done) - pul fina  
@@ -929,7 +929,7 @@ danger (peril) - hatar
 dangerous (perilous) - hatar di  
 Danish - Danske  
 dark (dim) - oskur  
-darling (honey) - ama jan  
+darling (honey) - ama jen  
 darmstadtium - darmestadi yum  
 Darwinism - darvin sim  
 Darwinist - darvin sim ja  
@@ -1133,7 +1133,7 @@ El Salvador - Salvador
 elapse (pass by, go by) - si dura  
 elastic - elasti  
 elbow - kudi  
-elder - lau jan  
+elder - lau jen  
 electric - eletro di  
 electricity - eletro  
 electron - eletron  
@@ -1158,7 +1158,7 @@ end (ending) - fin
 end - be fin  
 ended (finished) - fin di  
 endonym - in nam  
-enemy (foe, villain) - dus jan  
+enemy (foe, villain) - dus jen  
 enemy (unfriend) - an dosti  
 energy - energi  
 engine (motor) - moto  
@@ -1215,7 +1215,7 @@ evening - sham
 event (case, instance) - kas  
 every (all) - pan  
 every (each) - pan un  
-everybody (everyone) - pan jan  
+everybody (everyone) - pan jen  
 everything - pan she  
 evident (apparent, obvious) - vai vide di  
 exa- - eksa  
@@ -1828,7 +1828,7 @@ interpreter (translator) - tarjum ja
 interracial - rasa medi  
 interrogative - sual di  
 introspection - in vide  
-introvert - in verse jan  
+introvert - in verse jen  
 invite - ching lai  
 inward (internal) - do in  
 Io - Io  
@@ -2370,7 +2370,7 @@ multiculturalism - poli kultur sim
 multilingual - poli basha di  
 multinational - poli nasi di  
 Mumbai (Bombay) - Mumbai  
-mummy - mum jan  
+mummy - mum jen  
 muscle - muskul  
 mushroom (sporocarp) - fungu frute  
 music - muzika  
@@ -2466,7 +2466,7 @@ Niue - Niue
 Noah - Noe  
 Noah’s arc - Noe di nave  
 nobelium - nobel yum  
-nobody (no-one) - siro jan  
+nobody (no-one) - siro jen  
 noise - kelele  
 none - siro she  
 noodle - mena  
@@ -2600,7 +2600,7 @@ outcome (victory or defeat) - seng bai
 outer (external) - vai di  
 outside (exterior) - vai  
 outside - na vai  
-outsider - vai jan  
+outsider - vai jen  
 outward (external) - do vai  
 oven (furnace) - tanur  
 overestimate -   
@@ -2690,7 +2690,7 @@ paternal grandfather - pa su pa
 paternal grandmother - pa su ma  
 pathogen - pati jene she  
 pathology - pati logi  
-patient (subject of medical treatment) - pati jan  
+patient (subject of medical treatment) - pati jen  
 pause (break, interruption) - pauza  
 pause (interrupt) - fa pauza  
 pay - fa pei  
@@ -2702,7 +2702,7 @@ pearl - lulu
 peat - turfa  
 pebble (gravel) - lili seku  
 pedal - pedal  
-peer - par jan  
+peer - par jen  
 pen (writing tool) - kalam  
 penal (penetenciary) - fatu di  
 pencil - karbon kalam  
@@ -2712,7 +2712,7 @@ penis (phallus) - penis
 pentagon - lima gona  
 pentahedron (prism) - lima fase  
 peony - mudan  
-people (folk) - nasi jan  
+people (folk) - nasi jen  
 people (population) - demo  
 pepper (capsicum) - chili  
 pepper (peppercorn) - pipre  
@@ -2908,7 +2908,7 @@ prime minister - shefe minister
 print (stamp) - chape  
 prison (imprisonment) - jela  
 prison (jail) - jela kan  
-prisoner - jela jan  
+prisoner - jela jen  
 pristine (virginal) - virje di  
 privateer (buccaneer) - nave kape ja  
 problem (issue) - problem  
@@ -2945,7 +2945,7 @@ proximity - karibu ta
 psychology - ruhu logi  
 public - demo di  
 pudding - puding  
-Puerto Rican - portoriko jan  
+Puerto Rican - portoriko jen  
 Puerto Rico - Portoriko  
 pufferfish - balon peshe  
 pull (draw, drag) - tire  
@@ -3015,7 +3015,7 @@ read - duku
 ready (prepared) - redi  
 realization (awareness, enlightenment, bodhi) - budi  
 realize - fa budi  
-reason (cause) - saba  
+reason (cause) - sabu  
 reason (rational thinking) - razon  
 rebellion - rebel  
 receipt (acknowledgement) - reside  
@@ -3134,7 +3134,7 @@ rotten - pute
 rough (coarse) - karse  
 round (circular) - gola di  
 route (path, trail, course, itinerary) - rute  
-routine (habit) - rutina  
+routine (habit) - rutin  
 royal - raja di  
 rub (scrape, scrub) - frike  
 rubber - gomu  
@@ -3397,14 +3397,14 @@ soft - komal
 soil (dirt) - darte  
 soily (dirty) - darte di  
 solar system - sol sistem  
-soldier - gun jan  
+soldier - gun jen  
 solid - gati mate  
 Solomon Islands - Solomon nesi  
 solstice - sol estasi  
 Somalia - Somal  
 Somaliland - Somal Desha  
 some (one) - yo  
-someone (somebody) - yo jan  
+someone (somebody) - yo jen  
 something - yo she  
 sometime - yo sate  
 son - man ben  
@@ -3453,7 +3453,7 @@ spoken (lexical) - loga di
 sponge - esponje  
 spoon - chamacha  
 sport (athletics) - esporte  
-spouse (husband or wife) - gami jan  
+spouse (husband or wife) - gami jen  
 spring (springtime) - hua mosim  
 spruce tree - pisea  
 square (tetragon) - nelu gona  
@@ -4008,7 +4008,7 @@ whip - bichi
 whisky (whiskey) - viski  
 white - baku  
 whitelist - halal liste  
-who? - ke jan  
+who? - ke jen  
 whole (entire) - holo  
 wholeness (integrity) - holo ta  
 wide (broad) - kuan  
@@ -4083,7 +4083,7 @@ young (juvenile) - jovan
 your - tu su  
 your - tumon su  
 youth (young age) - jovan ta  
-youth (young person) - jovan jan  
+youth (young person) - jovan jen  
 ytterbium - yuterbi yum  
 yttrium - yuter yum  
 ####Z - Z  

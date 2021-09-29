@@ -827,9 +827,9 @@
 |**ruke**|dorso|deu:Rücken|
 |**rupa**|aspekto|hindia:रूप (rūp), malaja: rupa, taja: รูป (rūp), kmera:រូប (rūp)|
 |**ruterfor yum**|ruterfordio|angla:rutherfordium, franca:rutherfordium, hispana:rutherfordio, portugala:rutherfórdio, rusa:резерфордий, ²курчатовий, mandarena: (lú), japana:ラザホージウム, korea:러더포듐, vjetnama:rutherfordi, hindia:रुथरफोर्डियम, bengala:রাদারফোর্ডিয়াম, malaja:rutherfordium, svahila:rutherfordi, araba: رذرفورديوم|
-|**rutina**|rutino (kutimo)|angla:franca:routine, hispana:rutina, portugala:rotina, deu:Routine, persa:روتین‎ (rutin), rusa:рутина (rutina)|
-|**saba**|kialo|heb:(sibá), haŭsa:sabo;sababi, konga:sambu, araba:urdua:(sabab), turka:sebep, malaja:sebab, svahila:sababu|
+|**rutin**|rutino (kutimo)|angla:franca:routine, hispana:rutina, portugala:rotina, deu:Routine, persa:روتین‎ (rutin), rusa:рутина (rutina)|
 |**sabe**|scii (koni)|hispana:portugala:saber, franca:savoir, angla:savvy, pcm:sabi|
+|**sabu**|kialo|heb:(sibá), haŭsa:sabo;sababi, konga:sambu, araba:urdua:(sabab), turka:sebep, malaja:sebab, svahila:sababu|
 |**sabun**|sapo|araba:(ṣābūn), turka:sabun, svahila:sabuni, hindia:साबुन (sābun), portugala:sabão, hispana:jabón, franca:savon|
 |**safa**|pura|araba:صفا (ṣafā), turka:saf, svahila:safi, malaja:safa, hindia:साफ़ (sāf), urdua:(sāf), bengala:চাফা (sapha)|
 |**safar**|vojaĝo|araba:(safar), hindia:सफ़र (safar), turka:sefer, svahila:safari, angla:franca:hispana:portugala:deu:malaja:safari|

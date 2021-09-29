@@ -410,7 +410,7 @@ Oto kilka czasowników, których można użyć jak przyimków:
 – otaczać; wokół, dookoła  
 **supra**
 – przekraczać; nad, ponad  
-**sababu**
+**sabu**
 – być spowodowanym przez; przez, ponieważ, bo
 
 #### 10.1.4. Czasowniki bez przyimów
@@ -487,9 +487,9 @@ Hierarchia części mowy w Panduni od bardziej do mniej centralnych jest, jak na
 Następujący przykłas pokazuje, jak zasięg działa na finalną pozycję słów w hierarchii drzewa. Na przykład, chociaż **i** jest ogólnie wyżej niż **sabu**, tutaj jego zasięg obejmuje tylko **yusef** i **Sara**. **sabu** jest na szczycie, bo łączy dwa zdania podrzędne.
 
 
-    yusef i Sara vol shula pandunia, sababu ye si bon dunia basha.
+    yusef i Sara vol shula pandunia, sabu ye si bon dunia basha.
 
-                        sababu
+                        sabu
                ┌──────────┴──────────┐
               vol                   si
           ┌────┴──────┐           ┌──┴──┐

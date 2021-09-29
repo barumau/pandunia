@@ -4,7 +4,7 @@ Abchazja - Apsni
 Abchazja - Arcah  
 Abisynia - Habasha  
 abisyński - habasha  
-aborygeński - asal Australia jan  
+aborygeński - asal Australia jen  
 admirał - hai amir ja  
 adres - adres  
 Afganistan - Afgan  
@@ -366,7 +366,7 @@ cmentarz - gabur bagi
 cnota (moralność) - bon moral  
 cnotliwy (prawy) - bon moral di  
 co? - ke  
-co? - ke jan  
+co? - ke jen  
 coś - yo she  
 croissant - kruasan  
 cudzysłów - sita marke  
@@ -900,7 +900,7 @@ implodować - be in bum
 implozja - in bum  
 importować (zaimportować) - in mise  
 ind - hindi yum  
-indiański - asal Amerka jan  
+indiański - asal Amerka jen  
 Indie - Barti  
 Indonezja - Indonesi  
 Indyjski - barti  
@@ -1061,7 +1061,7 @@ kawa - kafe
 kawiarnia - kafe kan  
 Kazachstan - Kazake  
 kałamarnica (mątwa) - kalmar  
-każdy człowiek, wszyscy - pan jan  
+każdy człowiek, wszyscy - pan jen  
 każdy, wszyscy - pan un  
 kebab - kababu nama  
 keczup - kechape  
@@ -1240,7 +1240,7 @@ książka - buku
 książka z obrazkami - grafi buku  
 księżyc - luna  
 kszesło, fotel - kursi  
-ktoś - yo jan  
+ktoś - yo jen  
 Kuba - Kuba  
 kubek - kupa  
 kubek do herbaty - chai kupa  
@@ -1359,7 +1359,7 @@ lub, albo - o
 lubić - fa fili  
 lubić, cieszyć się - be suka  
 lud, społeczeństwo - demo  
-ludzie (lud, ludność) - nasi jan  
+ludzie (lud, ludność) - nasi jen  
 ludzki - insan di  
 ludzkość, rodzaj ludzki - insan jong  
 Luksemburg - Luksemburge  
@@ -1449,7 +1449,7 @@ Maya - maya
 małpa (znak na - adres zi  
 mały; mało, trochę, nieco - lili  
 małżeństwo, związek małżeński - gami  
-małżonek (małżonka) - gami jan  
+małżonek (małżonka) - gami jen  
 mech - mos  
 mecz, rywalizacja - meche  
 medalion, medal - medal  
@@ -1577,7 +1577,7 @@ może - hai
 mruganie (błysk) - fa sing foto  
 mrówka - murche  
 mucha - dom zeze  
-mumia - mum jan  
+mumia - mum jen  
 mur, ściana - mur  
 musieć - mus  
 muskuł, mięsień - muskul  
@@ -1607,7 +1607,7 @@ mężczyzna, dorosły samiec - matur man
 młode drzewo - jovan moka  
 młodość - jovan ta  
 młody - jovan  
-młodzież, młoda osoba - jovan jan  
+młodzież, młoda osoba - jovan jen  
 młot, młotek - hamar  
 młynarz - mol ja  
 ####N - N  
@@ -1718,7 +1718,7 @@ nihonium - nipon yum
 Nikaragua - Nikaragua  
 nikiel - nikel  
 niknąć (blaknąć, gasnąć, słabnąć) - be mirde  
-nikt, żadna osoba - siro jan  
+nikt, żadna osoba - siro jen  
 nikły - mirde  
 niob - niobi yum  
 niski - tal di  
@@ -1784,7 +1784,7 @@ obserwator (widz) - vide ja
 obsydian - osidian  
 obudzić, budzić - jaga  
 obyczaj, zwyczaj, tradycja, praktyka, konwencja - suna  
-obywatel - desha jan  
+obywatel - desha jen  
 obóz - kampe ja  
 ocean - dai hai  
 Ocean Antarktyczny (Ocean Południowy) - Antartika Hai  
@@ -1897,7 +1897,7 @@ ożeniony, zamężny, w związku małżeńskim - gami di
 ożenić się, poślubić, wyjść za mąż - fa gami  
 ####P - P  
 pachnieć - aroma  
-pacjent - pati jan  
+pacjent - pati jen  
 pacyfista - pase sim ja  
 pacyfizm - pase sim  
 paczka, paka - pake  
@@ -2118,7 +2118,7 @@ pomodlić się, modlić się - dua
 pompować - pompe  
 pomóc, pomagać, asystować - fa mede  
 poniedziałek - var un  
-ponieważ, bo - ze saba da  
+ponieważ, bo - ze sabu da  
 poniższy - niche di  
 popełnić błąd - fa galte  
 popiół - hui  
@@ -2176,7 +2176,7 @@ powrót - retro dau
 powszechny, uniwersalny - putong  
 powtarzanie, powtórka - re  
 powtórzyć, powtarzać - fa re  
-powód, przyczyna - saba  
+powód, przyczyna - sabu  
 poza, pozycja - poze  
 pozdrowienie - salam  
 pozdrowić, pozdrawiać - fa salam  
@@ -2429,7 +2429,7 @@ robot - robote
 rock - roke muzika  
 rocznica - nen festa  
 rod - rode yum  
-rodak, ziomek, krajan - sam desha jan  
+rodak, ziomek, krajan - sam desha jen  
 rodzaj gramatyczny - basha jinse  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - brus  
@@ -2484,7 +2484,7 @@ ruszać, przenościć, zmieniać miejsce, inspirować - fa kino
 rusztowanie (trap) - fute bano  
 rut - rus yum  
 rutherford - ruterfor yum  
-rutyna, nawyk, zwyczaj - rutina  
+rutyna, nawyk, zwyczaj - rutin  
 Rwanda - Ruanda  
 rwać (drzeć) - chira  
 ryba - peshe  
@@ -2529,7 +2529,7 @@ równina (plaskowyż, plateau) - plate topo
 równoległy (podłużny) - ging  
 równowaga - par veze ta  
 równy - par  
-równy - par jan  
+równy - par jen  
 róża - rode  
 różnica (specjalność) - has ta  
 różnica - alo sifa  
@@ -2674,7 +2674,7 @@ sport, lekkoatletyka - esporte
 sposób (metoda, tryb) - mode  
 spotkanie, zebranie - miti  
 spotkać - miti  
-spowodować, powodować - fa saba  
+spowodować, powodować - fa sabu  
 społeczeństwo, system społeczny - sosi  
 społeczny - sosi di  
 sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać - cheke  
@@ -2704,7 +2704,7 @@ Stany Zjednoczone Ameryki - Unta Desh Da Amerika (UDA)
 Starożytny Egipt (Kemet) - Keme  
 stary (sędziwy, wiekowy) - lau  
 stary, starożytny - chen zaman di  
-starzec - lau jan  
+starzec - lau jen  
 statyczny, stacjonarny, nieruchomy - estasi di  
 stać - lipa  
 stały (sztywny) - gati mate di  
@@ -2942,7 +2942,7 @@ topnieć (upłynniać się) - yung
 tor - tor yum  
 torba, wór, worek, torba, sakwa - sake  
 tost - roste pang  
-towarzysz (partner, kumpel) - late jan  
+towarzysz (partner, kumpel) - late jen  
 traktor (ciągnik) - trata gi  
 traktować - fa chuli  
 trawa - gazo  
@@ -3569,7 +3569,7 @@ zły, zrujnowany, zepsuty - harabu
 żel, galareta - jele  
 żelazo - fero  
 żeń-szeń - jenshen  
-żołnierz - gun jan  
+żołnierz - gun jen  
 żołądź - baluta frute  
 żwir - grave  
 życie - jiva  

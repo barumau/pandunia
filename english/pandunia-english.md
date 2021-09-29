@@ -65,7 +65,7 @@ alumin okside - alumina (aluminum oxide)
 ama - love (liking, affection)  
 ama di - dear (beloved)  
 ama ja - lover  
-ama jan - darling (honey)  
+ama jen - darling (honey)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
 amen - honest (trustworthy, true; surely, verily, amen)  
 amen bil - loyal (faithful, trustworthy)  
@@ -168,8 +168,8 @@ Artika - Arctic
 Artika Hai - Arctic Ocean  
 Aruba - Aruba  
 asal - origin (source)  
-asal Amerka jan - Amerindian (Native American)  
-asal Australia jan - Australian Aboriginal  
+asal Amerka jen - Amerindian (Native American)  
+asal Australia jen - Australian Aboriginal  
 asal di - original (authentic)  
 asan - posture (asana)  
 asar - effect (impact, impression, result, outcome)  
@@ -694,7 +694,7 @@ des - ten (deca-, 10)
 des kilo - ten thousand  
 desen - drawing (design)  
 desha - country (land, state)  
-desha jan - citizen  
+desha jen - citizen  
 desi - deci-  
 desi bel - decibel  
 detal - detail  
@@ -805,7 +805,7 @@ dus deu sim - dystheism (maltheism)
 dus forma di - malformed (deformed, disfigured)  
 dus funsi - dysfunction (malfunction)  
 dus hal - hardship (difficulty, challenge)  
-dus jan - enemy (foe, villain)  
+dus jen - enemy (foe, villain)  
 dus karma - misdeed (sin, vice)  
 dus nam - insult (offense)  
 dus rai - disapprove (frown upon)  
@@ -1075,7 +1075,7 @@ fa retro - return (put back)
 fa rezerve - reserve (book)  
 fa rol - act (play a role)  
 fa rolo - roll (wrap in)  
-fa saba - cause (be the cause for)  
+fa sabu - cause (be the cause for)  
 fa safa - clean (purify)  
 fa safar - travel  
 fa sahi - correct (make right)  
@@ -1322,7 +1322,7 @@ gami - marriage (matrimony)
 gami ben - step-child  
 gami chin - parent-in-law  
 gami di - married  
-gami jan - spouse (husband or wife)  
+gami jen - spouse (husband or wife)  
 gami ma - mother-in-law  
 gami pa - father-in-law  
 gan - dry  
@@ -1477,7 +1477,7 @@ gul - ghoul
 gulu - swallow  
 guma - drum  
 gun - army  
-gun jan - soldier  
+gun jen - soldier  
 gun raja - generalissimo (shogun)  
 gun raja desha - shogunate  
 guru - guru (teacher, sage)  
@@ -1680,7 +1680,7 @@ in pushe - squeeze (squish)
 in she - content  
 in ten - contain (include)  
 in ten gi - container  
-in verse jan - introvert  
+in verse jen - introvert  
 in vide - introspection  
 Indonesi - Indonesia  
 insan - human being  
@@ -1746,7 +1746,7 @@ jeka dona - lend
 jeka loga - loanword  
 jela - prison (imprisonment)  
 jela ja - jailer (imprisoner)  
-jela jan - prisoner  
+jela jen - prisoner  
 jela kan - prison (jail)  
 jele - gel (jelly)  
 jelosi - jealous  
@@ -1792,7 +1792,7 @@ jong shula kan - secondary school
 Jongoku - China  
 jovan - young (juvenile)  
 jovan fem - girl  
-jovan jan - youth (young person)  
+jovan jen - youth (young person)  
 jovan man - boy  
 jovan moka - sapling  
 jovan ta - youth (young age)  
@@ -1952,7 +1952,7 @@ kavai - cute (sweet)
 kave - pit (excavation, cavity)  
 Kazake - Kazakhstan  
 ke - what?  
-ke jan - who?  
+ke jen - who?  
 ke multi di - how many?  
 ke riti - how?  
 ke sate - when?  
@@ -2197,13 +2197,13 @@ lasun - garlic
 late - side (flank)  
 late - sideways (laterally)  
 late di - lateral (horizontal)  
-late jan - companion (partner, sidekick)  
+late jen - companion (partner, sidekick)  
 Latin zi - Latin alphabet  
 Latvia - Latvia  
 Lau - Laos  
 lau - old (aged, elderly)  
 lau di - Lao (Laotian)  
-lau jan - elder  
+lau jen - elder  
 laurence yum - lawrencium  
 lazanya - lasagna  
 lazur - azure  
@@ -2604,7 +2604,7 @@ multi ta - number (abundance)
 mum - wax  
 mum chape - wax seal  
 mum foto - candle  
-mum jan - mummy  
+mum jen - mummy  
 mum melon - winter melon (wax gourd, ash gourd)  
 Mumbai - Mumbai (Bombay)  
 mumu - cow  
@@ -2668,7 +2668,7 @@ naraka - hell
 nardi - backgammon  
 nasi - nation  
 nasi di - national  
-nasi jan - people (folk)  
+nasi jen - people (folk)  
 nasi medi - international  
 nasi sim - nationalism  
 nasi sim ja - nationalist  
@@ -2865,7 +2865,7 @@ pan deu - pantheon
 pan deu sim - pantheism  
 pan dunia di - global (concerning the whole world)  
 pan europa di - pan-European  
-pan jan - everybody (everyone)  
+pan jen - everybody (everyone)  
 pan mima - pantomime  
 pan romanse di - panromantic  
 pan sata - always  
@@ -2888,7 +2888,7 @@ papir - document (paper)
 Papua Nove Ginia - Papua New Guinea  
 par - even (level, peer, equal)  
 par fase - level  
-par jan - peer  
+par jen - peer  
 par nomer - even number  
 par veze ta - equilibrium (balance)  
 Paraguai - Paraguay  
@@ -2927,7 +2927,7 @@ pastabi - passive (inactive)
 patate - potato  
 pati - disease (illness, sickness)  
 pati di - ill (sick)  
-pati jan - patient (subject of medical treatment)  
+pati jen - patient (subject of medical treatment)  
 pati jene she - pathogen  
 pati logi - pathology  
 pati mise - infection (infestation, contagion)  
@@ -3059,7 +3059,7 @@ porno - porn
 porno grafi - pornography  
 porte - port (station)  
 Portoriko - Puerto Rico  
-portoriko jan - Puerto Rican  
+portoriko jen - Puerto Rican  
 Portugal - Portugal  
 portugal basha - Portuguese language  
 pos - consequence (back, follow-up)  
@@ -3248,9 +3248,8 @@ rusia basha - Russian language
 rute - route (path, trail, course, itinerary)  
 rute galte di - stray (deviant)  
 ruterfor yum - rutherfordium  
-rutina - routine (habit)  
+rutin - routine (habit)  
 ####S - S  
-saba - reason (cause)  
 sabate - Sabbath  
 sabe - know (be aware of)  
 sabe logi - epistemology  
@@ -3258,6 +3257,7 @@ sabe she - knowledge
 sabe vol - interest (curiosity)  
 sabe vol di - interesting (curious)  
 sabe vol ja - interested (curious)  
+sabu - reason (cause)  
 sabun - soap  
 sada - plain (ordinary, unadorned, simple, mere)  
 safa - clean (pure)  
@@ -3297,7 +3297,7 @@ salu safa ta - hygiene (cleanliness)
 salu ta - health  
 Salvador - El Salvador  
 sam - same (equal, alike, match)  
-sam desha jan - compatriot  
+sam desha jen - compatriot  
 sam emos - compassion (sympathy)  
 sam metre - symmetry (symmetrical)  
 sam nam - homonym  
@@ -3520,7 +3520,7 @@ sir move - sneak
 sir plan - conspiracy (plot)  
 sir ta - stealth (secrecy)  
 siro - zero (none)  
-siro jan - nobody (no-one)  
+siro jen - nobody (no-one)  
 siro sata - never  
 siro she - none  
 siro she - nothing  
@@ -3857,7 +3857,7 @@ vai - outside (exterior)
 vai desha - foreign country  
 vai desha di - foreign  
 vai di - outer (external)  
-vai jan - outsider  
+vai jen - outsider  
 vai jene di - exogenous  
 vai klus di - exclusive  
 vai mise - export  
@@ -4020,7 +4020,7 @@ Yesa - Jesus
 Yesa Mesi - Jesus Christ  
 yezi - coconut tree  
 yo - some (one)  
-yo jan - someone (somebody)  
+yo jen - someone (somebody)  
 yo sate - sometime  
 yo she - something  
 yoga - yoga  
@@ -4061,7 +4061,7 @@ zardush din - Zoroastrianism
 zardush din ja - Zoroastrian  
 zardush magi ja - magus (Zoroastrian priest)  
 ze - from (since, because)  
-ze saba da - because  
+ze sabu da - because  
 zebra - zebra  
 zeta - zetta-  
 zeyil - wart  

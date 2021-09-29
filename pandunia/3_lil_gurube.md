@@ -46,7 +46,7 @@ ye pas du me dom, jo be sana va moka kane.
 ye vide la dom.
 ye aroma la goro na in.
 ye su boke ya kai sana yo sui,
-ze saba da ye fikir yemon si bon yam.
+ze sabu da ye fikir yemon si bon yam.
 
 ye darba la mun, e loga:
 "lili goro! lili goro! ching kai la mun! ching kai la mun!"

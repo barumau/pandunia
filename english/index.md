@@ -19,7 +19,7 @@ like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
 Learning Pandunia is equally easy for everybody.
 Its words have been borrowed from many languages on all continents and all cultures of the world.
 
-The second version of Pandunia was finalized in September 2021.
+The second version of Pandunia was published in September 2021.
 It includes simpler grammar, more international word forms, and many new words.
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
@@ -31,7 +31,7 @@ It includes simpler grammar, more international word forms, and many new words.
 - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Phrasebook](200_baze_jumla.md)
-- [Grammar of Pandunia](pan.pdf) in PDF format
+- [Complete grammar of Pandunia](pan.pdf) in PDF format
 
 - [Searchable dictionary](tiddly.html)
 - [Origins of words](leksaslia.md)

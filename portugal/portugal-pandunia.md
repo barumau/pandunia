@@ -503,7 +503,7 @@ espirrar - achi
 espodossolo - hui darte  
 esponja - esponje  
 esporte - esporte  
-esposo ou esposa - gami jan  
+esposo ou esposa - gami jen  
 espírito (gênio) - jini  
 esquecer - an memo  
 esqueleto - oste jama  
@@ -689,13 +689,13 @@ incluindo - in klus
 incluir - fa in klus  
 inclusivo - in klus di  
 Indo - Hindi rivo  
-indígena (índio) - asal Amerka jan  
+indígena (índio) - asal Amerka jen  
 infectar (contagiar) - fa pati mise  
 infecção (contágio) - pati mise  
 infiel - an din ja  
 inflamaçao - flame  
 informática (ciência da computação) - data chuli logi  
-inimigo - dus jan  
+inimigo - dus jen  
 inquisitivo - sabe vol ja  
 inseto - dudu  
 insônia - an sona  
@@ -1002,7 +1002,7 @@ outro - alo
 oxigénio - oksi  
 oásis - vase  
 ####P - P  
-paciente - pati jan  
+paciente - pati jen  
 pacifismo - pase sim  
 pacifista - pase sim ja  
 pacote - pake  
@@ -1023,7 +1023,7 @@ papel - kaguji
 papel de parede - mur kaguji  
 papoila - medan papi  
 papoila-dormideira - sona papi  
-par - par jan  
+par - par jen  
 para-lama - fan defa bano  
 parada de ônibus - bus halte  
 parque - parke  
@@ -1101,7 +1101,7 @@ porcelana - chini
 porto - porte  
 porto marítimo - hai porte  
 Porto Rico - Portoriko  
-porto-riquenho - portoriko jan  
+porto-riquenho - portoriko jen  
 possível - bil  
 poste (coluna) - kolum  
 posterior - pos di  
@@ -1162,10 +1162,10 @@ queijo fresco - panir
 queimar - fa hogo  
 queimarse - be hogo  
 queixa (lamento, reclamação) - shikaya  
-quem - ke jan  
+quem - ke jen  
 querer (desejar) - vol  
 querido (caro) - ama di  
-querido - ama jan  
+querido - ama jen  
 questão (pergunta) - sual  
 quiabo - bamia  
 quilate - kirate  
@@ -1300,7 +1300,7 @@ sogra - gami ma
 sogro - gami pa  
 soja - soi  
 sol - sol  
-soldado - gun jan  
+soldado - gun jen  
 som - soni  
 sombrinha - sol chati  
 sono - sona  

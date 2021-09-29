@@ -149,8 +149,8 @@ Artika - Arktyka
 Artika Hai - Ocean Arktyczny  
 Aruba - Aruba  
 asal - źródło, początek, pochodzenie  
-asal Amerka jan - indiański  
-asal Australia jan - aborygeński  
+asal Amerka jen - indiański  
+asal Australia jen - aborygeński  
 asal di - źródłowy, początkowy, oryginalny  
 asan - postawa ciała; asana  
 asar - rezult, wynik  
@@ -606,7 +606,7 @@ des - dziesięć (10)
 des kilo - dziesięć tysięcy  
 desen - rysunek, obraz  
 desha - kraj, ziemia  
-desha jan - obywatel  
+desha jen - obywatel  
 desi - decy-, dziesiąta część  
 desi bel - decybel  
 detal - detal, szczegół  
@@ -920,7 +920,7 @@ fa reside - uznać (przynać, przyjąć do wiadomości)
 fa rezerve - rezerwować (zarezerwować)  
 fa rol - grać, odgrywać rolę  
 fa rolo - toczyć, turlać  
-fa saba - spowodować, powodować  
+fa sabu - spowodować, powodować  
 fa safa - wyczyścić, czyścić  
 fa safar - podróżować  
 fa sahi - poprawić, poprawiać, prostować, korygować  
@@ -1132,7 +1132,7 @@ Gambia - Gambia
 gamel - wielbłąd, wielbłądzica  
 gami - małżeństwo, związek małżeński  
 gami di - ożeniony, zamężny, w związku małżeńskim  
-gami jan - małżonek (małżonka)  
+gami jen - małżonek (małżonka)  
 gan - suchy  
 gan gazo - siano  
 gan putau - rodzynka  
@@ -1263,7 +1263,7 @@ gul - ghul
 gulu - połknąć (połykać)  
 guma - bęben  
 gun - armia  
-gun jan - żołnierz  
+gun jen - żołnierz  
 gun raja - szogun  
 gun raja desha - szogunat  
 guru - guru, mistrz  
@@ -1536,7 +1536,7 @@ jong fon - samogłoska
 Jongoku - Chiny  
 jovan - młody  
 jovan fem - dziewczyna  
-jovan jan - młodzież, młoda osoba  
+jovan jen - młodzież, młoda osoba  
 jovan man - chłopak  
 jovan moka - młode drzewo  
 jovan ta - młodość  
@@ -1677,7 +1677,7 @@ kavai - uroczy, słodki
 kave - dół, jama, wydobycie, wykop, wykopalisko  
 Kazake - Kazachstan  
 ke - co?  
-ke jan - co?  
+ke jen - co?  
 ke multi di - ile?  
 ke riti - kiedy?  
 ke sate - zapytać, pytać  
@@ -1897,13 +1897,13 @@ lasun - larwa, czerw, gąsienica
 late - strona (bok)  
 late - z boku (na bok)  
 late di - poziomy (horyzontalny, boczny)  
-late jan - towarzysz (partner, kumpel)  
+late jen - towarzysz (partner, kumpel)  
 Latin zi - alfabet łaciński, łacinka, alfabet rzymski  
 Latvia - Łotwa  
 Lau - Laos  
 lau - stary (sędziwy, wiekowy)  
 lau di - laotański  
-lau jan - starzec  
+lau jen - starzec  
 laurence yum - lorens  
 lazanya - lazania  
 lazur petra - lapis lazuli  
@@ -2268,7 +2268,7 @@ multi ta - liczność (mnóstwo)
 mum - wosk  
 mum chape - pieczęć woskowa  
 mum foto - świeca  
-mum jan - mumia  
+mum jen - mumia  
 mum melon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 Mumbai - Bombaj (Mumbaj)  
 mumu - krowa  
@@ -2323,7 +2323,7 @@ nano mitre - nanometr
 naraka - piekło  
 nasi - naród, narodowość  
 nasi di - narodowy (ludowy)  
-nasi jan - ludzie (lud, ludność)  
+nasi jen - ludzie (lud, ludność)  
 nasi medi - międzynarodowy  
 nasi sim - nacjonalizm  
 nasi sim ja - nacjonalista  
@@ -2498,7 +2498,7 @@ pan deu - panteon
 pan deu sim - panteizm  
 pan dunia di - globalny (światowy)  
 pan europa di - paneuropejski  
-pan jan - każdy człowiek, wszyscy  
+pan jen - każdy człowiek, wszyscy  
 pan romanse di - panromantyczny  
 pan sata - zawsze  
 pan sekse di - panseksualny  
@@ -2519,7 +2519,7 @@ papaya - papaja
 papir - dokument  
 Papua Nove Ginia - Papua Nowa Gwinea  
 par - równy  
-par jan - równy  
+par jen - równy  
 par veze ta - równowaga  
 Paraguai - Paragwaj  
 param - parametr (argument, wartość wejściowa)  
@@ -2554,7 +2554,7 @@ pastabi - pasywny (nieaktywny)
 patate - ziemniak  
 pati - choroba  
 pati di - chory  
-pati jan - pacjent  
+pati jen - pacjent  
 pati jene she - patogen  
 pati logi - patologia  
 pati mise - infekcja (zakażenie)  
@@ -2833,9 +2833,8 @@ rusia basha - rosyjski
 rute - ścieżka (droga, szlak, kurs)  
 rute galte di - zbłąkany (dewiacyjny, wykolejony)  
 ruterfor yum - rutherford  
-rutina - rutyna, nawyk, zwyczaj  
+rutin - rutyna, nawyk, zwyczaj  
 ####S - S  
-saba - powód, przyczyna  
 sabate - szabat, szabas  
 sabe - wiedzieć  
 sabe logi - epistemologia  
@@ -2843,6 +2842,7 @@ sabe she - wiedza
 sabe vol - zainteresowanie, zaciekawienie; interesujący  
 sabe vol di - interesujący  
 sabe vol ja - ciekawy  
+sabu - powód, przyczyna  
 sabun - mydło  
 sada - zwykły, zwyczajny, prosty  
 safa - czysty  
@@ -2879,7 +2879,7 @@ salu safa ta - higiena
 salu ta - zdrowie  
 Salvador - Salwador  
 sam - taki sam  
-sam desha jan - rodak, ziomek, krajan  
+sam desha jen - rodak, ziomek, krajan  
 sam emos - współczucie  
 sam nam - homonim  
 sam rai - porozumienie  
@@ -3077,7 +3077,7 @@ sir move - skradać się
 sir plan - spisek (konspiracja)  
 sir ta - skradanie się  
 siro - zero, nic, żaden  
-siro jan - nikt, żadna osoba  
+siro jen - nikt, żadna osoba  
 siro sata - nigdy  
 siro she - nic, żadna rzecz  
 sismo - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
@@ -3502,7 +3502,7 @@ Yesa - Jezus
 Yesa Mesi - Jezus Chrystus  
 yezi - kokos  
 yo - jakiś  
-yo jan - ktoś  
+yo jen - ktoś  
 yo sate - sometime  
 yo she - coś  
 yoga - joga  
@@ -3541,7 +3541,7 @@ Zardush - Zaratusztra
 zardush din - zaratusztrianizm  
 zardush din ja - zaratrustianin  
 ze - z (od)  
-ze saba da - ponieważ, bo  
+ze sabu da - ponieważ, bo  
 zebra - zebra  
 zeyil - brodawka  
 zi sili - alfabet, abecadło  

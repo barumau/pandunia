@@ -73,7 +73,7 @@ aroma - пахнуть
 arsen yum - мышьяк  
 arte ja - художник (артист)  
 asal - начало (причина)  
-asal Amerka jan - инде́йский  
+asal Amerka jen - инде́йский  
 asan - поза  
 asar - эффект  
 asha - надеяться (чаять)  
@@ -337,7 +337,7 @@ dura bil - долговечный
 dura di - хронический  
 dura metre gi - секундомер  
 dura zaman - период (эпоха)  
-dus jan - враг (противник)  
+dus jen - враг (противник)  
 dus sin di - зловещий  
 dus vide - безобразный (некрасивый)  
 dush - душ  
@@ -544,7 +544,7 @@ guku hua - хризантема садовая
 gul - гуль (вурдалак)  
 gulu - глотать  
 gun - армия  
-gun jan - солдат  
+gun jen - солдат  
 gun raja - генералиссимус  
 guta - колено  
 guta kaske oste - надколенник  
@@ -623,7 +623,7 @@ in bum - имплозия
 in migra - иммигрировать  
 in migra ja - иммигрант  
 in ten gi - контейнер  
-in verse jan - интроверт  
+in verse jen - интроверт  
 insan - человек  
 insan di - человечный  
 insan haki - права человека  
@@ -1109,7 +1109,7 @@ papagai - попугай
 papaya - папайя  
 par - равный  
 par fase - уровень  
-par jan - ровня  
+par jen - ровня  
 par nomer - чётное число  
 par veze ta - равновесие (баланс)  
 param - параметр (аргумент)  
@@ -1124,7 +1124,7 @@ pase sim - пацифизм
 pasi - боль  
 pasi di - болезненный  
 pasporte - паспорт  
-pati jan - пациент (больной)  
+pati jen - пациент (больной)  
 pati jene she - патоген  
 pati logi - патология  
 pati mise - инфекция (заразная болезнь)  
@@ -1182,7 +1182,7 @@ ponte pin - компас
 porei - лук-порей  
 porte - порт  
 Portoriko - Пуэрто-Рико  
-portoriko jan - пуэрториканец  
+portoriko jen - пуэрториканец  
 pos - после  
 pospor - фосфор  
 posta marke - почтовый штемпель  
@@ -1509,7 +1509,7 @@ vagina - влагалище (вагина)
 vagina flame - вагинит  
 vah - вау!  
 vai - вне  
-vai jan - посторонний (аутсайдер)  
+vai jen - посторонний (аутсайдер)  
 vai jene di - экзогенный  
 vai klus di - исключительный (эксклюзивный)  
 vai planete - экзопланета (внесолнечная планета)  

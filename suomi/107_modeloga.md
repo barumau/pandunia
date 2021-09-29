@@ -6,28 +6,28 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**novi gare**
+**un _nove_ kar**
 – uusi auto  
-**rapidi gare**
+**un _rapide_ kar**
 – nopea auto  
-**day meze**
+**ba _dai_ meza**
 = iso pöytä  
-**gaw meze**
+**ba _gau_ meza**
 = korkea pöytä  
-**bon kurse**
+**un bon jen**
 = hyvä tuoli
 
 Adjektiivi voi olla myös substantiivin jälkeen.
 Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**gare novi.**
+**kar (si) nove.**
 – Auto on uusi.  
-**bagre rapidi.**
+**bagre (si) rapide.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla asiansanan kummallakin puolella.
 
-**novi gare rapidi.**
+**nove kar (si) rapide.**
 = Uusi auto on nopea.
 
 ## Verbin määrite
@@ -46,41 +46,40 @@ Tavan adverbit ovat verbin vieressä tai lauseen lopussa.
 
 ## Määritteen määrite
 
-Määrite voi määritellä myös toista määritettä. Esimerkiksi **day** (suuri) ja **lil** (pieni) voivat toimia adverbeina.
 
-**day ren**
-= iso henkilö  
-**lil ren**
-= pieni henkilö  
-**sundari ren**
-= kaunis henkilö
+Partikkelia
+**di**
+käytetään myös kun määrite määrittää toista määritettä.
 
-**dayo sundari ren**
-= suuresti (eli hyvin) kaunis henkilö  
-**lilo sundari ren**
-= pienesti (eli vähän) kaunis henkilö
+**un _surpris di_ bon buku**
+– _yllätävän_ hyvä kirja  
+**ba _lika di_ ama ja jen**
+– _voimakkaasti_ rakastavat ihmiset
 
-Kun halutaan käyttää kahta määritettä erikseen,
-niiden väliin ei tarvitse panna sanaa **e** (ja).
 
-**lili sundari ren**
-= pieni, kaunis henkilö
 
 
 ## Vertailu
 
 Sekä adjektiiveja että adverbeja voi verrata.
 
-- **max** : enemmän, -mpi
-- **maxim** : eniten
-- **min** : vähemmän
-- **minim** : vähiten
-- **samo** : yhtä
+- **mas**
+  enemmän, -mpi
+- **masim**
+  eniten
+- **min**
+  vähemmän
+- **minim**
+  vähiten
+- **par**
+   yhtä
 
-Pikkusana **ko** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
+Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**me si max bon ko te.**
-= Minä olen parempi kuin sinä.  
-**te loga samo bono ko me.**
+**aple si mas bon ka oranje.**
+= Omenat ovat parempia kuin appelsiinit.  
+**oranje si min bon ka aple.**
+= Appelsiinit ovat vähemmän hyviä kuin omenat.  
+**tu loga par bon ka mi.**
 = Sinä puhut yhtä hyvin kuin minä.
 

@@ -270,7 +270,7 @@ dele - 迟延
 den - 日 (天)  
 den loge - 日记  
 des - 十  
-desha jan - 公民  
+desha jen - 公民  
 deu - 神  
 deu kata - 神话  
 deu nagar zi - 天城文  
@@ -307,7 +307,7 @@ dura - 时间
 dura bil - 耐用的  
 dura metre gi - 秒表  
 dus - 难  
-dus jan - 敌人  
+dus jen - 敌人  
 dus sin di - 不祥的  
 dus vide - 难看  
 dush - 淋浴  
@@ -483,7 +483,7 @@ gubu - 河马
 gui papi - 鬼罂粟 (東方罌粟)  
 guku hua - 菊花  
 gun - 军队  
-gun jan - 军人  
+gun jen - 军人  
 gun raja - 大元帅  
 guta - 膝  
 guta kaske oste - 膝盖骨  
@@ -562,7 +562,7 @@ iha uma - 骡
 in bum - 内爆  
 in migra - 移民 (移居)  
 in migra ja - 移民者  
-in verse jan - 内向的  
+in verse jen - 内向的  
 insan - 人类  
 insan haki - 人权  
 insan sim - 人文主义  
@@ -1003,7 +1003,7 @@ pante - 裤子
 papagai - 鹉鹦  
 papaya - 木瓜  
 par fase - 水平  
-par jan - 同辈  
+par jen - 同辈  
 par nomer - 偶数  
 par veze ta - 平衡  
 param - 参数  
@@ -1020,7 +1020,7 @@ pase sim ja - 和平主义者
 pasi - 疼痛  
 pasporte - 护照  
 pasta petra - 岩漿  
-pati jan - 患者 (病患)  
+pati jen - 患者 (病患)  
 pati jene she - 病原体  
 pati logi - 病理学  
 pati mise - 传染  
@@ -1346,7 +1346,7 @@ vaf - 狗
 vagina - 阴道  
 vah - 哇  
 vai - 外  
-vai jan - 外人 (局外人)  
+vai jen - 外人 (局外人)  
 vai planete - 系外行星  
 vai verse di - 外向的  
 vai yam - 野餐  

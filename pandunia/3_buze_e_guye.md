@@ -14,7 +14,7 @@ ye dai shush di loga, e fa zoku:
 «zai mi kape tu!» loga la gui.
 
 «no, no!», la lili buze ya loga.
-«no kape mi, ze saba mi si lili lili. un di lili deng, e medi behe sha marche. ye si mas dai».
+«no kape mi, ze sabu da mi si lili lili. un di lili deng, e medi behe sha marche. ye si mas dai».
 «oke», la gui ya loga.
 
 na pos da lili zaman, un soni be audi ze supra da kiau.

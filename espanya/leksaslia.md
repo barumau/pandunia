@@ -1194,9 +1194,9 @@
 |**rupa**|aspecto|hin:रूप (rūp), may: rupa, tha: รูป (rūp), khm:រូប (rūp)|
 |**rute**|ruta|eng:fra:route, spa:ruta, por:rota, deu:Route, jpn:ルート (rūto), rus:маршрут (maršrut)|
 |**ruterfor yum**|rutherfordio|eng:rutherfordium, fra:rutherfordium, spa:rutherfordio, por:rutherfórdio, rus:резерфордий, ²курчатовий, zho: (lú), jpn:ラザホージウム, kor:러더포듐, vie:rutherfordi, hin:रुथरफोर्डियम, ben:রাদারফোর্ডিয়াম, may:rutherfordium, swa:rutherfordi, ara: رذرفورديوم|
-|**rutina**|rutina (hábito)|eng:fra:routine, spa:rutina, por:rotina, deu:Routine, fas:روتین‎ (rutin), rus:рутина (rutina)|
-|**saba**|razón (causa)|heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|
+|**rutin**|rutina (hábito)|eng:fra:routine, spa:rutina, por:rotina, deu:Routine, fas:روتین‎ (rutin), rus:рутина (rutina)|
 |**sabe**|saber (conocer)|spa:por:saber, fra:savoir, eng:savvy, pcm:sabi|
+|**sabu**|razón (causa)|heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|
 |**sabun**|jabón|ara:(ṣābūn), tur:sabun, swa:sabuni, hin:साबुन (sābun), por:sabão, spa:jabón, fra:savon|
 |**sada**|sencillo (liso)|tur:sade, fas:(sāde), hin:सादा (sādā)|
 |**safa**|limpio|ara:صفا (ṣafā), tur:saf, swa:safi, may:safa, hin:साफ़ (sāf), urd:(sāf), ben:চাফা (sapha)|

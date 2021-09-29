@@ -14,7 +14,7 @@ Abisinia - Habasha
 abisinio - habasha  
 abjazia - Apsni  
 abono orgánico (compost) - bio sana she  
-aborigen - asal Australia jan  
+aborigen - asal Australia jen  
 abrepuño - sol sentaure  
 abrigo (chaqueta) - kote  
 abril - mes nelu  
@@ -117,7 +117,7 @@ alfiler (espina, aguja) - pin
 alfombra (tapete) - tal tela  
 alga - alga  
 algas pardas - kafe alga  
-algién - yo jan  
+algién - yo jen  
 algo - yo she  
 algodón - goton  
 algún - yo  
@@ -144,7 +144,7 @@ aluminio - alumin
 aló - halo  
 alófono - alo fon  
 alúmina - alumin okside  
-amado (cariño) - ama jan  
+amado (cariño) - ama jen  
 amante (enamorado) - ama ja  
 amapola silvestre - medan papi  
 amar románticamente - romanse  
@@ -610,7 +610,7 @@ castor - kastor
 Cataluña - Katalunia  
 Catar (Qatar) - Katar  
 cauri - kauri  
-causar - fa saba  
+causar - fa sabu  
 cavar (excavar) - fa kave  
 cazador - saide ja  
 cazar (pescar) - saide  
@@ -707,7 +707,7 @@ citar - sita
 citología - selu logi  
 ciudad - siti  
 Ciudad de México - Mehiko siti  
-ciudadano - desha jan  
+ciudadano - desha jen  
 civilización - sivil ta  
 civilizado - sivil  
 ciénaga (pantano) - fan topo  
@@ -774,8 +774,8 @@ compartir (tener en común) - fa komun
 compasión - kon pasi  
 compasión - sam emos  
 compatible - kon funsi bil  
-compatriota - sam desha jan  
-compañero (compinche) - late jan  
+compatriota - sam desha jen  
+compañero (compinche) - late jen  
 compañía (empresa, corporación) - kompani  
 competir - fa meche  
 completar (terminar) - pul fina  
@@ -1217,7 +1217,7 @@ encurtido - achar di
 encurtir - fa achar  
 enderezar (poner recto) - fa orto  
 endónimo - in nam  
-enemigo - dus jan  
+enemigo - dus jen  
 energía - energi  
 energía nuclear - kerne energi  
 enero - mes un  
@@ -1245,7 +1245,7 @@ enzima - enzim
 epistemología - sabe logi  
 equal (similar) - sam  
 equilibrado (par) - par  
-equilibrado (par) - par jan  
+equilibrado (par) - par jen  
 equilibrio - par veze ta  
 equipaje - bagaje  
 equipo - tim  
@@ -1306,7 +1306,7 @@ esperar - dele do
 espicificar (estipular) - fa sharti  
 espiral (hélice) - helis  
 esponja - esponje  
-esposo o esposa - gami jan  
+esposo o esposa - gami jen  
 espárrago - lusun  
 espíritu (genio) - jini  
 esqueleto (armazón) - oste jama  
@@ -1532,7 +1532,7 @@ generoso (dadivoso, caritativo) - karim di
 gengibre - zinji  
 genial - kul  
 genotipo - jene tipe  
-gente - nasi jan  
+gente - nasi jen  
 geografía - geo grafi  
 geología - geo logi  
 geometría - geo metre  
@@ -1785,7 +1785,7 @@ indium - hindi yum
 Indo - Hindi rivo  
 Indonesia - Indonesi  
 Indostán - Hindi desha  
-indígena (indio) - asal Amerka jan  
+indígena (indio) - asal Amerka jen  
 inequívoco - un mana di  
 infección (contagio) - pati mise  
 infectar (contagiar) - fa pati mise  
@@ -1828,7 +1828,7 @@ interracial - rasa medi
 interrogativa - sual di  
 interés - sabe vol  
 interétnica - zuku medi di  
-introvertido - in verse jan  
+introvertido - in verse jen  
 invernal - leng mosim di  
 invierno - leng mosim  
 invitado (visita) - keka ja  
@@ -1892,7 +1892,7 @@ joder (coger, copular) - choda
 Jordania - Urdun  
 joule (J) - jul  
 joven - jovan  
-joven - jovan jan  
+joven - jovan jen  
 judaísmo - yehudi din  
 judío - yehudi  
 juego - gem  
@@ -2294,7 +2294,7 @@ molusco - moluske
 molécula - molekul  
 momento - sata  
 momentáneo - sata di  
-momia - mum jan  
+momia - mum jen  
 moneda - pesa diske  
 mongol - mongol di  
 Mongolia - Mongol  
@@ -2418,7 +2418,7 @@ nieve - hima
 Nieves - Nevis  
 Nigeria - Naijiria  
 nihonio - nipon yum  
-ningunos - siro jan  
+ningunos - siro jen  
 niobio - niobi yum  
 nitrógeno - nitre  
 Niue - Niue  
@@ -2553,7 +2553,7 @@ oveja - meme
 oxígeno - oksi  
 oír (escuchar) - audi  
 ####P - P  
-paciente - pati jan  
+paciente - pati jen  
 pacifismo - pase sim  
 pacifista - pase sim ja  
 padrastro - vise pa  
@@ -2815,7 +2815,7 @@ por ejemplo - do misal
 porcelana - chini  
 porno - porno  
 pornografía - porno grafi  
-porque - ze saba da  
+porque - ze sabu da  
 portapapeles - gata glu bano  
 porto - porte  
 Portugal - Portugal  
@@ -2856,7 +2856,7 @@ primer ministro - shefe minister
 primero (numbre uno) - un me  
 primo - chin brus ben  
 principal - shefe di  
-prisionero - jela jan  
+prisionero - jela jen  
 prisión - jela  
 proactinio - protacini yum  
 probar (demonstrar, comprobar) - fa dalil  
@@ -2913,7 +2913,7 @@ puerro (cebolla larga) - porei
 puerta - mun  
 puerto marítimo - hai porte  
 Puerto Rico - Portoriko  
-puertorriqueño - portoriko jan  
+puertorriqueño - portoriko jen  
 pulir (lustrar) - foto frike  
 pulmonía (neumonía) - pulmon flame  
 pulmón - pulmon  
@@ -2951,7 +2951,7 @@ quiosco (kiosco) - kioske
 quitar (eliminar, borrar) - fa an zai  
 quitar (pelar) - tire yo pil  
 quitar (remover) - fa for  
-quién - ke jan  
+quién - ke jen  
 qué - ke  
 qué tipo de - ke yang  
 química - kimi logi  
@@ -2988,7 +2988,7 @@ rayo - radi
 rayo luminoso - foto radi  
 raza - rasa  
 razonable - razon di  
-razón (causa) - saba  
+razón (causa) - sabu  
 razón - razon  
 raíz - mula  
 real (de realtad) - raja di  
@@ -3116,7 +3116,7 @@ Rusia - Rusia
 ruta - rute  
 rutenio - rus yum  
 rutherfordio - ruterfor yum  
-rutina (hábito) - rutina  
+rutina (hábito) - rutin  
 rábano - loba  
 rápido - rapide  
 régimen - politi mode  
@@ -3275,7 +3275,7 @@ sofá - sofa
 soja - soi  
 sol - sol  
 Solamilandia - Somal Desha  
-soldado - gun jan  
+soldado - gun jen  
 solo (aislado, solitary, soltero) - un zai di  
 solsticio - sol estasi  
 Somalia - Somal  
@@ -3456,7 +3456,7 @@ toalla - gan tela
 tocar (rozar) - tochu  
 tocar música - fa muzika  
 todas las cosas - pan she  
-todas las personas - pan jan  
+todas las personas - pan jen  
 todavía (aún) - zoku  
 todo - pan  
 Togo - Togo  
@@ -3635,7 +3635,7 @@ vidriar (glasear) - fa kancha dake
 vidrio (cristal) - kancha  
 vidrio volcánico - hogo san kancha  
 viejo (anciano) - lau  
-viejo (anciano) - lau jan  
+viejo (anciano) - lau jen  
 viejo (antiguo) - chen zaman di  
 viento - hava  
 viernes - var lima  

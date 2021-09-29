@@ -673,25 +673,25 @@ si nécessaire.
 = Comment danser ? (**yang** = manière, style)
 
 En Pandunia, les questions commençant par _pourquoi_ sont posées à l'aide de
-**ke sababu**.
+**ke sabu**.
 
-**ke sababu tu suka mau?**
+**ke sabu tu suka mau?**
 = Pourquoi aimes-tu les chats ?
 
 On répond aux questions sur les causes ou les raisons de quelque
-chose en ajoutant **sabu** avant la cause ou la raison. **saba** est
+chose en ajoutant **sabu** avant la cause ou la raison. **sabu** est
 en fait un verbe actif qui signifie _causer_, et **sabu** est un
 verbe passif qui signifie _être causé par_.
 
-**ke sababu tu suka mau?**
+**ke sabu tu suka mau?**
 = Pourquoi aimes-tu les chats ?  
-**ze sababu yemon si kavai.**
+**ze sabu yemon si kavai.**
 = Parce qu'ils sont mignons.
 
 Bien entendu, vous pouvez également utiliser **sabu** pour exprimer la cause
 ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 
-**mi suka mau ze sababu yemon si kavai**
+**mi suka mau ze sabu yemon si kavai**
 = J'aime les chats parce qu'ils sont mignons.
 
 ### Exercices
@@ -727,8 +727,8 @@ temps, periode
 2. papa suka.
 3. ke zaman ye lai?
 4. pos des minute.
-5. ke sababu ye no yam?
-6. ze sababu ye no suka kafe o supe.
+5. ke sabu ye no yam?
+6. ze sabu ye no suka kafe o supe.
 
 --------------------------------------------------------------------------------
 

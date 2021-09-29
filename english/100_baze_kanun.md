@@ -59,10 +59,10 @@ They are described in more detail later in this document.
     - The word order is subject–verb–object.
       The same order is used in declarations and questions.
     - A passive sentence is created with the help of the passive auxiliary verb **be**.
-      A similar effect can be also reached with the impersonal pronoun **men**.
+      A similar effect can be also reached with the impersonal pronoun **mon**.
         - **pandunia be loga.**
           – Pandunia is spoken.
-        - **men loga a pandunia.**
+        - **mon loga la pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.

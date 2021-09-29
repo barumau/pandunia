@@ -61,7 +61,7 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 = kolme tähteä  
 **shau sing**
 = vähän tähtiä  
-**ba sing**
+**poli sing**
 = paljon tähtiä
 
 
@@ -111,12 +111,12 @@ Ne laitetaan substantiivin edelle kuten muutkin adjektiivit.
 ### Järjestysluku substantiivin jälkeen
 
 Toinen järjestyslukujen muodostustapa on laittaa lukusana substantiivin perään.
-**fen un.**
-= Ensimmäinen osa.
-**fen du.**
-= Toinen osa.
-**fen tri.**
-= Kolmas osa.
+**fen un**
+– Ensimmäinen osa.
+**fen du**
+– Toinen osa.
+**fen tri**
+– Kolmas osa.
 
 
 ## Murtoluvut

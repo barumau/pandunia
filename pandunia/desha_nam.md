@@ -1,38 +1,37 @@
-# desha nam di liste
+# desha nam liste
 
 ye si liste da desha nam ze pandunia do english.
-pandunia ye kapa desha nam ze [desha jan di se di basha](http://www.omniglot.com/countries/).
+pandunia ya kapa desha nam ze [desha jen su se di basha](http://www.omniglot.com/countries/).
 
-![](http://www.pandunia.info/grafe/duni_karte.png "desha li dunia karta")
+![](http://www.pandunia.info/grafe/duni_karte.png "desha di dunia karta")
 [🔍](http://www.pandunia.info/grafe/duni_karte.jpg)
 
 |kode| pandunia | english    |
 |----|----------|------------|
 | AF | Afgan | Afghanistan |
 | IE | Aire | Ireland |
-| HT | Aiti | Haiti |
-|  | Alaska | Alaska |
+|    | Alaska | Alaska |
 | AS | Amerika Samoa | American Samoa |
 | AD | Andora | Andorra |
 | AO | Angola | Angola |
-| AQ | Antartike | Antarctica |
-|  | Antigua | Antigua |
+| AQ | Antartika | Antarctica |
+|    | Antigua | Antigua |
 | AG | Antigua e Barbuda | Antigua and Barbuda |
-|  | Apsni | Abkhazia |
-|  | Archah | Artsakh |
+|    | Apsni | Abkhazia |
+|    | Arcah | Artsakh |
 | AR | Argentina | Argentina |
-|  | Artike | Arctic |
+|    | Artika | Arctic |
 | AW | Aruba | Aruba |
 | AU | Australia | Australia |
 | AZ | Azerbaijan | Azerbaijan |
 | BS | Bahama | Bahamas |
 | BH | Bahrain | Bahrain |
-| BD | Bangladesha | Bangladesh |
+| BD | Bangla desha | Bangladesh |
 | BB | Barbados | Barbados |
-|  | Barbuda | Barbuda |
-| IN | Bartia | India |
+|    | Barbuda | Barbuda |
+| IN | Barti | India |
 | BY | Belarus | Belarus |
-| BE | Belgia | Belgium |
+| BE | Belgi | Belgium |
 | BZ | Belize | Belize |
 | BJ | Benin | Benin |
 | BM | Bermuda | Bermuda |
@@ -40,30 +39,29 @@ pandunia ye kapa desha nam ze [desha jan di se di basha](http://www.omniglot.com
 | BG | Bolgaria | Bulgaria |
 | BO | Bolivia | Bolivia |
 | BA | Bosna e Hercegovina | Bosnia and Herzegovina |
-|  | Botia | Tibet |
+|    | Bote | Tibet |
 | CG | Brazavil Kongo | Congo (Brazzaville) |
 | BR | Brazil | Brazil |
-| GB | Britania | United Kingdom |
+| GB | Britan | United Kingdom |
 | BN | Brunei | Brunei Darussalam |
 | BF | Burkina Faso | Burkina Faso |
-| BT | Butan | Bhutan |
 | TD | Chade | Chad |
 | ME | Chernagora | Montenegro |
 | CZ | Cheska | Czech Republic |
 | CL | Chile | Chile |
 | AL | Chipe | Albania |
-|  | Chosen | Korea |
+|    | Chosen | Korea |
 | BW | Cuana | Botswana |
-| DK | Dan | Denmark |
-| MV | Divehia | Maldives |
+| DK | Danske desha | Denmark |
+| MV | Divehi | Maldives |
 | DE | Doiche | Germany |
 | DM | Dominika | Dominica |
 | DO | Dominika Komunkrati | Dominican Republic |
 | TL | Dong Timor | East Timor (Timor-Leste) |
 | EC | Ekuador | Ecuador |
-|  | English | England |
+|    | English | England |
 | ER | Eritra | Eritrea |
-|  | Eskote | Scotland |
+|    | Eskote | Scotland |
 | ES | Espanya | Spain |
 | EE | Esti | Estonia |
 | ET | Etiopia | Ethiopia |
@@ -72,24 +70,25 @@ pandunia ye kapa desha nam ze [desha jan di se di basha](http://www.omniglot.com
 | PS | Filistin | Palestinian Territory |
 | FR | France | France |
 | GF | France Guyana | French Guiana |
-| PF | France Polinesia | French Polynesia |
+| PF | France Polinesi | French Polynesia |
 | GA | Gabon | Gabon |
 | GM | Gambia | Gambia |
 | GH | Gana | Ghana |
 | UG | Ganda | Uganda |
+| GQ | Geo Par Lin Ginia | Equatorial Guinea |
 | GG | Gernezi | Guernsey |
-| GQ | Geyoparlini Ginia | Equatorial Guinea |
 | GD | Grenada | Grenada |
 | GP | Guadelupe | Guadeloupe |
 | GU | Guam | Guam |
 | GT | Guatemala | Guatemala |
 | GY | Guyana | Guyana |
-|  | Havai | Hawaii |
+| HT | Haiti | Haiti |
+|    | Havai | Hawaii |
 | AM | Hayaki | Armenia |
 | GR | Helen | Greece |
 | HK | Hong Gong | Hong Kong, SAR China |
 | HR | Horvati | Croatia |
-| ID | Indonesia | Indonesia |
+| ID | Indonesi | Indonesia |
 | IQ | Iraki | Iraq |
 | IR | Iran | Iran |
 | IS | Islande | Iceland |
@@ -100,32 +99,33 @@ pandunia ye kapa desha nam ze [desha jan di se di basha](http://www.omniglot.com
 | JE | Jerze | Jersey |
 | GI | Jibraltar | Gibraltar |
 | DJ | Jibuti | Djibouti |
-| CF | Jungafrika | Central African Republic |
-| CN | Junguo | China |
+| CF | Jong Afrika Komun krati | Central African Republic |
+| CN | Jongoku | China |
 | CV | Kabu Verde | Cabo Verde (Cape Verde) |
-| KY | Kaiman nesia | Cayman Islands |
+| KY | Kaiman nesi | Cayman Islands |
 | GL | Kalal | Greenland |
 | KH | Kambojia | Cambodia |
 | CM | Kamerun | Cameroon |
-|  | Kamri | Wales (Cambria) |
+|    | Kamri | Wales (Cambria) |
 | CA | Kanada | Canada |
 | GE | Kartvel | Georgia (Republic of Georgia) |
 | QA | Katar | Qatar |
-| KZ | Kazakia | Kazakhstan |
-| KE | Kenia | Kenya |
+| KZ | Kazake | Kazakhstan |
+|    | Keme | Ancient Egypt (Kemet) |
+| KE | Kenya | Kenya |
 | CD | Kinshasa Kongo | Congo Kinshasa |
 | CY | Kipris | Cyprus |
-| KG | Kirgizia | Kyrgyzstan |
+| KG | Kirgize | Kyrgyzstan |
 | KI | Kiribati | Kiribati |
-| CC | Kokos nesia | Cocos (Keeling) Islands |
+| CC | Kokos nesi | Cocos (Keeling) Islands |
 | CO | Kolombia | Colombia |
-| KM | Komoro nesia | Comoros |
+| KM | Komoro nesi | Comoros |
 | GN | Konakri Ginia | Guinea |
 | KV | Kosovo | Kosovo |
 | CR | Kosta Rika | Costa Rica |
 | CI | Kote Da Ivar | Côte d’Ivoire (Ivory Coast) |
 | CU | Kuba | Cuba |
-| CK | Kuke nesia | Cook Islands |
+| CK | Kuke nesi | Cook Islands |
 | KW | Kuvaitia | Kuwait |
 | LK | Lanka | Sri Lanka (Ceylon) |
 | LV | Latvia | Latvia |
@@ -136,25 +136,26 @@ pandunia ye kapa desha nam ze [desha jan di se di basha](http://www.omniglot.com
 | LT | Lietuva | Lithuania |
 | LI | Lihtenstain | Liechtenstein |
 | LU | Luksemburge | Luxembourg |
-| MA | Magribia | Morocco |
-| HU | Magyaria | Hungary |
+| BT | Lung Desha | Bhutan |
+| MG | Madagasi | Madagascar |
+| MA | Magribi desha | Morocco |
+| HU | Magyar | Hungary |
 | MO | Makau | Macao |
-| MG | Malagasia | Madagascar |
 | MY | Malaisia | Malaysia |
 | MW | Malavi | Malawi |
 | ML | Mali | Mali |
 | MT | Malta | Malta |
-| FK | Malvinas nesia | Falkland Islands (Malvinas) |
-| IM | Manin nes | Isle of Man |
-| MP | Marian nesia | Northern Mariana Islands |
-| MH | Marshal nesia | Marshall Islands |
+| FK | Malvinas nesi | Falkland Islands (Malvinas) |
+| IM | Manin nesi | Isle of Man |
+| MP | Marian nesi | Northern Mariana Islands |
+| MH | Marshal nesi | Marshall Islands |
 | YT | Mayote | Mayotte |
 | MX | Mehiko | Mexico |
-| FM | Mikronesia | Micronesia |
-| EG | Misria | Egypt |
+| FM | Mikronesi | Micronesia |
+| EG | Misri | Egypt |
 | MD | Moldova | Moldova |
 | MC | Monako | Monaco |
-| MN | Mongolia | Mongolia |
+| MN | Mongol | Mongolia |
 | MU | Moris | Mauritius |
 | MZ | Mozambike | Mozambique |
 | MR | Muritania | Mauritania |
@@ -162,102 +163,102 @@ pandunia ye kapa desha nam ze [desha jan di se di basha](http://www.omniglot.com
 | NG | Naijiria | Nigeria |
 | NA | Namibia | Namibia |
 | NR | Nauru | Nauru |
-| AN | Nederlandi Antil | Netherlands Antilles |
-| NL | Nederlandia | Netherlands |
+| NL | Nederlande | Netherlands |
+| AN | Nederlande Antil | Netherlands Antilles |
 | NP | Nepal | Nepal |
-| NC | Nevi Kaledonia | New Caledonia |
-| NZ | Nevi Zelandia | New Zealand |
-|  | Nevis | Nevis |
+|    | Nevis | Nevis |
 | NE | Nijer | Niger |
 | NI | Nikaragua | Nicaragua |
 | JP | Nipon | Japan |
-|  | Nistria | Transnistria |
 | NU | Niue | Niue |
-|  | Nordi Aire | Northern Ireland |
-| KP | Nordi chosen | North Korea (Democratic People’s Republic of Korea) |
-|  | Nordi Kipris | Northen Cyprus |
-| MK | Nordi Makedonia | Republic of North Macedonia |
-| NF | Norfolke nes | Norfolk Island |
+|    | Norde Aire | Northern Ireland |
+| KP | Norde Chosen | North Korea (Democratic People’s Republic of Korea) |
+|    | Norde Kipris | Northen Cyprus |
+| MK | Norde Makedonia | Republic of North Macedonia |
+| NF | Norfolke nesi | Norfolk Island |
 | NO | Norge | Norway |
-| AX | Olande nesia | Aland Islands |
+| NC | Nove Kaledonia | New Caledonia |
+| NZ | Nove Zelande | New Zealand |
+| AX | Olande nesi | Aland Islands |
 | OM | Oman | Oman |
 | HN | Onduras | Honduras |
-|  | Oromia | Oromia |
+|    | Oromo Desha | Oromia |
 | AT | Ostria | Austria |
-|  | Pakistan | Pakistan |
+|    | Pakistan | Pakistan |
 | PW | Palau | Palau |
 | PA | Panama | Panama |
 | PG | Papua Nove Ginia | Papua New Guinea |
 | PY | Paraguai | Paraguay |
 | PE | Peru | Peru |
-| PN | Pitkerne nesia | Pitcairn Islands |
-| PL | Polske | Poland |
-| PR | Portorikia | Puerto Rico |
+| PN | Pitkerne nesi | Pitcairn Islands |
+| PL | Polska | Poland |
+| PR | Portoriko | Puerto Rico |
 | PT | Portugal | Portugal |
 | RE | Reunion | Réunion |
 | RO | Romania | Romania |
 | RW | Ruanda | Rwanda |
 | BI | Rundi | Burundi |
 | RU | Rusia | Russia |
-|  | Sahara Desha | Sahrawi Arab Democratic Republic |
+|    | Sahara Desha | Sahrawi Arab Democratic Republic |
 | SL | Salon | Sierra Leone |
 | SV | Salvador | El Salvador |
 | WS | Samoa | Samoa |
-| SH | Santi Helena | Saint Helena |
-|  | Santi Kitse | Saint Kitts |
-| KN | Santi Kitse e Nevis | Saint Kitts and Nevis |
-| LC | Santi Lusia | Saint Lucia |
-| SM | Santi Marino | San Marino |
-| ST | Santi Tome e Prinsipe | Sao Tome and Principe |
-| VC | Santi Vinsente e Grenadine | Saint Vincent and Grenadines |
+| SH | Sante Helena | Saint Helena |
+|    | Sante Kitse | Saint Kitts |
+| KN | Sante Kitse e Nevis | Saint Kitts and Nevis |
+| LC | Sante Lusia | Saint Lucia |
+| SM | Sante Marino | San Marino |
+| ST | Sante Tome e Prinsipe | Sao Tome and Principe |
+| VC | Sante Vinsente e Grenadine | Saint Vincent and Grenadines |
 | SA | Saudi Arabia | Saudi Arabia |
 | SN | Senegal | Senegal |
 | RS | Serbia | Serbia |
-| SC | Seshel nesia | Seychelles |
+| SC | Seshel nesi | Seychelles |
 | SG | Singapur | Singapore |
 | SK | Slovakia | Slovakia |
 | SI | Slovenia | Slovenia |
-| SB | Solomon nesia | Solomon Islands |
+| SB | Solomon nesi | Solomon Islands |
 | SO | Somal | Somalia |
-|  | Somal Desha | Somaliland |
+|    | Somal Desha | Somaliland |
 | LS | Soto | Lesotho |
-|  | Sualbarde | Svalbard |
+|    | Sualbarde | Svalbard |
 | SZ | Suati | Eswatini (Swaziland) |
-| ZA | Sudafrike | South Africa |
 | SD | Sudan | Sudan |
-| KR | Sudi chosen | South Korea (Republic of Korea) |
-|  | Sudi Iria (Alonia) | South Ossetia (Alania) |
-| GS | Sudi Jorjia e Sudi Sanduiche nesia | South Georgia and the South Sandwich Islands |
-| SS | Sudi Sudan | South Sudan |
-| SE | Suenia | Sweden |
-| CH | Suice | Switzerland |
+| ZA | Sude Afrika | South Africa |
+| KR | Sude Chosen | South Korea (Republic of Korea) |
+|    | Sude Iria (Alonia) | South Ossetia (Alania) |
+| GS | Sude Jorjia e Sudi Sandviche nesi | South Georgia and the South Sandwich Islands |
+| SS | Sude Sudan | South Sudan |
+| CH | Suise | Switzerland |
 | FI | Suomi | Finland |
 | SY | Suria | Syria |
 | SR | Surinam | Suriname |
+| SE | Sven | Sweden |
 | TH | Tai Desha | Thailand |
 | TW | Taivan | Taiwan (Republic of China) |
 | TJ | Tajiki | Tajikistan |
 | TZ | Tanzania | Tanzania |
-|  | Timor | Timor |
+|    | Timor | Timor |
 | TG | Togo | Togo |
 | TO | Tonga | Tonga |
+|    | Transe Nistre Desha | Transnistria |
 | TT | Trinidade e Tobago | Trinidad and Tobago |
 | TN | Tunis | Tunisia |
 | TR | Turki | Turkey |
-| TM | Turkomenia | Turkmenistan |
+| TM | Turkomen | Turkmenistan |
 | TV | Tuvalu | Tuvalu |
 | UA | Ukraina | Ukraine |
-| AE | Uniti Arabi Amiria (UAA) | United Arab Emirates |
-| US | Uniti Desha Da Amerika (UDA) | United States of America (USA) |
+| AE | Unta Arabi Amir Desha (UAA) | United Arab Emirates |
+| US | Unta Desh Da Amerika (UDA) | United States of America (USA) |
 | JO | Urdun | Jordan |
-| UY | Uruguai | Uruguay |
-| UZ | Uzbekia | Uzbekistan |
-| WF | Valis e Futuna nesia | Wallis and Futuna Islands |
+| UY | Uruguay | Uruguay |
+| UZ | Uzbeki | Uzbekistan |
+| WF | Valis e Futuna nesi | Wallis and Futuna Islands |
 | VU | Vanuatu | Vanuatu |
 | VA | Vatikan | Holy See (Vatican City State) |
 | VE | Venezuela | Venezuela |
-| VN | Vietia | Viet Nam |
-| VI | Virjin nesia | Virgin Islands, US |
+| VN | Viete | Viet Nam |
+| VI | Virjin nesi | Virgin Islands, US |
 | ZM | Zambia | Zambia |
-| ZW | Zimbabve | Zimbabwe |
-| 
+| ZW | Zimbabue | Zimbabwe |
+

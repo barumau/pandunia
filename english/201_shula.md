@@ -668,24 +668,24 @@ manner or thing if needed.
 = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**ke sababu**.
+**ke sabu**.
 
-**ke sababu tu suka mau?**
+**ke sabu tu suka mau?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered
 by adding **sabu** before the cause or reason. **sabu** is actually a
 passive verb meaning _to be caused by_.
 
-**ke sababu tu suka mau?**
+**ke sabu tu suka mau?**
 = Why do you like cats?  
-**ze sababu yemon si kavai.**
+**ze sabu yemon si kavai.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau ze sababu yemon si kavai**
+**mi suka mau ze sabu yemon si kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -721,8 +721,8 @@ period of time
 2. papa suka.
 3. ke zaman ye lai?
 4. pos des minute.
-5. ke sababu ye no yam?
-6. ze sababu ye no suka kafe o supe.
+5. ke sabu ye no yam?
+6. ze sabu ye no suka kafe o supe.
 
 
 --------------------------------------------------------------------------------

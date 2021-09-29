@@ -5,7 +5,7 @@ abattoir - bucha kan
 abattre - bucha  
 abeille ou guêpe - fong  
 Abkhazie - Apsni  
-aborigènes australiens - asal Australia jan  
+aborigènes australiens - asal Australia jen  
 abricot (prune) - briko  
 Abyssinie - Habasha  
 acacia faux-gommier - helis babul  
@@ -73,7 +73,7 @@ ampoule (fiole) - ampul
 ampère - amper  
 américain - Amerika di  
 américium - amerika yum  
-amérindien (indien) - asal Amerka jan  
+amérindien (indien) - asal Amerka jen  
 Amérique - Amerika  
 an (année) - nen  
 anal - anus di  
@@ -392,7 +392,7 @@ chrome - krom yum
 chronique - dura di  
 chronomètre - dura metre gi  
 chu - pade di  
-chéri - ama jan  
+chéri - ama jen  
 chêne - baluta  
 chêne pédonculé - europa baluta  
 chœur - chanta grupe  
@@ -584,7 +584,7 @@ en ligne - na lin
 enclume - metal bede  
 encre - kalam sui  
 enfant - bacha  
-ennemi - dus jan  
+ennemi - dus jen  
 enregistrement - loge  
 enseigner - gio  
 ensommeillé (somnolent) - sona tabi  
@@ -806,7 +806,7 @@ insomnie - an sona
 intention - nia  
 international - nasi medi  
 interracial - rasa medi  
-introverti - in verse jan  
+introverti - in verse jen  
 inutile - an yau di  
 inverse (négatif, in-) - an  
 iode - iode  
@@ -1180,7 +1180,7 @@ passer - pas
 pastèque - arbuza  
 paternel - pa di  
 pathologie - pati logi  
-patient - pati jan  
+patient - pati jen  
 patrie - dom desha  
 pause - pauza  
 pavot d'Orient - gui papi  
@@ -1268,7 +1268,7 @@ porte - porte
 porte-bloc (planchette à pince) - pinse bano  
 porter (s’habiller) - fuku  
 Porto Rico - Portoriko  
-Portoricain - portoriko jan  
+Portoricain - portoriko jen  
 posidonie (herbiers marins) - hai gazo  
 possédant (propriétaire) - mal ja  
 posture (position) - asan  
@@ -1341,7 +1341,7 @@ que - ki
 querelle (dispute, palabre) - palaba  
 question - sual  
 queue (côté ) - koda  
-qui - ke jan  
+qui - ke jen  
 ####R - R  
 race - rasa  
 racine - mula  
@@ -1485,7 +1485,7 @@ soie - silke
 soif - sui yau  
 soir (soirée) - sham  
 soja - soi  
-soldat - gun jan  
+soldat - gun jen  
 soleil - sol  
 sommeil - sona  
 son (sa) - se su  
@@ -1734,7 +1734,7 @@ zéro - siro
 épices - masala  
 épingle - pin  
 éponge - esponje  
-époux - gami jan  
+époux - gami jen  
 épreuve (test) - teste  
 épée - katana  
 équilibre - par veze ta  

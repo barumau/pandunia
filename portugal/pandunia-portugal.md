@@ -32,7 +32,7 @@ alumin - alumínio
 ama - amor  
 ama di - querido (caro)  
 ama ja - amante  
-ama jan - querido  
+ama jen - querido  
 amen - honesto (sincero)  
 amen shin - confiar (contar com)  
 amerika yum - amerício  
@@ -65,7 +65,7 @@ aroma melon - melão coreano
 arsen yum - arsénic  
 arte ja - artista  
 asal - origem  
-asal Amerka jan - indígena (índio)  
+asal Amerka jen - indígena (índio)  
 asal di - original  
 asar - efeito  
 asha hin - desesperado  
@@ -300,7 +300,7 @@ dunia - mundo
 dura - duração  
 dura di - crónico  
 dura metre gi - cronómetro  
-dus jan - inimigo  
+dus jen - inimigo  
 dus karma - malfeitoria (pecado)  
 dus vide - feio  
 dush - ducha  
@@ -447,7 +447,7 @@ galte - erro (falta)
 galte di - errôneo  
 gamba - camarão (gamba)  
 gami ben - enteado  
-gami jan - esposo ou esposa  
+gami jen - esposo ou esposa  
 gami ma - sogra  
 gami pa - sogro  
 gan gazo - feno  
@@ -497,7 +497,7 @@ grupe - grupo
 guai - bizarro  
 gubu - hipopótamo  
 gun - exército  
-gun jan - soldado  
+gun jen - soldado  
 gun raja - generalíssimo  
 guta - joelho  
 guta kaske oste - rótula (patela)  
@@ -690,7 +690,7 @@ katus - cacto
 kauri - búzio  
 kave - buraco  
 ke - o que  
-ke jan - quem  
+ke jen - quem  
 ke riti - como  
 ke sate - quando  
 Keme - Antigo Egito  
@@ -1050,7 +1050,7 @@ pante - calças
 papaya - mamão (papaia)  
 par - igual (par)  
 par fase - nivel  
-par jan - par  
+par jen - par  
 par veze ta - equilíbrio  
 param - parâmetro  
 parche - fragmento  
@@ -1066,7 +1066,7 @@ pase sim - pacifismo
 pase sim ja - pacifista  
 pasporte - passaporte  
 pasta - pasta  
-pati jan - paciente  
+pati jen - paciente  
 pati jene she - patógeno  
 pati logi - patologia  
 pati mise - infecção (contágio)  
@@ -1120,7 +1120,7 @@ polska yum - polónio
 porei - alho-porro  
 porte - porto  
 Portoriko - Porto Rico  
-portoriko jan - porto-riquenho  
+portoriko jen - porto-riquenho  
 pos di - posterior  
 pospor - fósforo  
 posta marke - carimbo  

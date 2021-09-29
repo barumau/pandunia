@@ -39,7 +39,7 @@ alumin - aluminio
 ama - amo  
 ama di - kara  
 ama ja - amanto  
-ama jan - karulo  
+ama jen - karulo  
 Amerika - Ameriko  
 Amerika di - amerika  
 amerika yum - americio  
@@ -83,7 +83,7 @@ arme - armilo
 arsen yum - arseno  
 arte ja - artisto  
 asal - origino  
-asal Australia jan - aborigeno  
+asal Australia jen - aborigeno  
 asal di - origina  
 asan - posteno  
 asha - esperi  
@@ -426,7 +426,7 @@ dunia - mondo
 dunia basha - mondlingvo  
 dunia di - tera  
 dura - daŭro  
-dus jan - malamiko  
+dus jen - malamiko  
 dus vide - malbonaspekta  
 dush - duŝo  
 dute - dubo  
@@ -730,7 +730,7 @@ gui - ogro (trolo)
 gulu - gluti  
 guma - tamburo  
 gun - armeo  
-gun jan - soldato  
+gun jen - soldato  
 gun raja - ĉefgeneralo  
 guru - guruo (instruisto)  
 guste - gusto  
@@ -897,7 +897,7 @@ jong shula kan - gimnazio
 Jongoku - Ĉinio  
 jovan - juna  
 jovan fem - knabino  
-jovan jan - junulo  
+jovan jen - junulo  
 jovan man - knabo  
 jovan ta - juneco  
 judau - ĵudo  
@@ -974,7 +974,7 @@ katus - kaktuso
 kavai - ĉarma  
 kave - foso  
 ke - kio?  
-ke jan - kiu?  
+ke jen - kiu?  
 ke multi di - kiom?  
 ke riti - kiel?  
 ke sate - kiam?  
@@ -1256,7 +1256,7 @@ move - movo
 muka - vizaĝo  
 mula - radiko  
 mum foto - kandelo  
-mum jan - mumio  
+mum jen - mumio  
 mumu - bovo  
 mumu nama - bovaĵo  
 mun - pordo  
@@ -1416,7 +1416,7 @@ pase sim ja - pacifisto
 pasporte - pasporto  
 patate - terpomo  
 pati di - malsana  
-pati jan - paciento  
+pati jen - paciento  
 pati logi - patologio  
 pati mise - infekto  
 pau gi - fusilo  
@@ -1539,14 +1539,14 @@ rupa - aspekto
 rus krepe - rusa krepo  
 rus yum - rutenio  
 ruterfor yum - ruterfordio  
-rutina - rutino (kutimo)  
+rutin - rutino (kutimo)  
 ####S - S  
-saba - kialo  
 sabe - scii (koni)  
 sabe logi - sciteorio (epistemologio)  
 sabe she - scio  
 sabe vol di - interesa  
 sabe vol ja - scivolema  
+sabu - kialo  
 sabun - sapo  
 safa - pura  
 safa ja - purigisto  
@@ -1569,7 +1569,7 @@ salam suba - Bonan matenon!
 salam yam - bonan apetiton!  
 salu - sana  
 sam - sama  
-sam desha jan - samlandano  
+sam desha jen - samlandano  
 sam emos - kompato  
 sam metre - simetrio  
 sam rai - interkonsento  
@@ -1899,7 +1899,7 @@ Yesa - Jesuo
 Yesa Mesi - Jesuo Kristo  
 yezi - kokoso  
 yo - iu  
-yo jan - iu persono  
+yo jen - iu persono  
 yo sate - iam  
 yo she - io  
 yoga - jogo  
@@ -1926,7 +1926,7 @@ Zardush - Zoroastro
 zardush din - zoroastrismo  
 zardush din ja - zoroastristo  
 ze - de (el, pro)  
-ze saba da - ĉar  
+ze sabu da - ĉar  
 zebra - zebro  
 zeyil - veruko  
 zi sili - alfabeto  

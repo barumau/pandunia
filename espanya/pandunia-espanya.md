@@ -62,7 +62,7 @@ alumin okside - alúmina
 ama - amor  
 ama di - querido  
 ama ja - amante (enamorado)  
-ama jan - amado (cariño)  
+ama jen - amado (cariño)  
 Amara - amhara  
 amen - honesto (seguramente, amén)  
 amen bil - leal (fiel)  
@@ -149,8 +149,8 @@ Artika - Ártico
 Artika Hai - océano Ártico  
 Aruba - Aruba  
 asal - origen  
-asal Amerka jan - indígena (indio)  
-asal Australia jan - aborigen  
+asal Amerka jen - indígena (indio)  
+asal Australia jen - aborigen  
 asal di - original  
 asan - postura (posición)  
 asar - resulta (efecto)  
@@ -620,7 +620,7 @@ den loge - diario
 des - diez (deca-, 10)  
 desen - dibujo (diseño)  
 desha - país (nación, estado, terra)  
-desha jan - ciudadano  
+desha jen - ciudadano  
 desi - deci-  
 desi bel - decibelio  
 detal - detalle  
@@ -720,7 +720,7 @@ dus - malo (difícil, duro)
 dus darja - degradar  
 dus funsi - falla (mal funcionamiento)  
 dus hal - dificultad (apuro, privación)  
-dus jan - enemigo  
+dus jen - enemigo  
 dus karma - pecado  
 dus nam - insulto (ofensa)  
 dus sin di - ominoso (amenazador)  
@@ -956,7 +956,7 @@ fa retro - retornar
 fa rezerve - reservar  
 fa rol - actuar (hacer un papel)  
 fa rolo - liar (enrollar)  
-fa saba - causar  
+fa sabu - causar  
 fa safa - limpiar  
 fa safar - viajar  
 fa sahi - corregir  
@@ -1181,7 +1181,7 @@ gamel - camello
 gami - casamiento  
 gami ben - hijastro o  hijastra  
 gami di - casado  
-gami jan - esposo o esposa  
+gami jen - esposo o esposa  
 gami ma - suegra  
 gami pa - suegro  
 gan - seco (árido)  
@@ -1324,7 +1324,7 @@ gul - gul
 gulu - tragar  
 guma - tambor  
 gun - ejército  
-gun jan - soldado  
+gun jen - soldado  
 gun raja - generalísimo (sogún)  
 gun raja desha - shogunato  
 guru - maestro (gurú, sabio, profesor)  
@@ -1513,7 +1513,7 @@ in nam - endónimo
 in she - contenido  
 in ten - contener  
 in ten gi - contenedor  
-in verse jan - introvertido  
+in verse jen - introvertido  
 Indonesi - Indonesia  
 insan - ser humano  
 insan di - humano  
@@ -1574,7 +1574,7 @@ jeka dona - prestar
 jeka loga - préstamo lingüístico  
 jela - prisión  
 jela ja - carcelero  
-jela jan - prisionero  
+jela jen - prisionero  
 jela kan - cárcel  
 jele - gel (jalea, gelatina)  
 jelosi - celoso (envidioso)  
@@ -1615,7 +1615,7 @@ jong shula kan - escuela secundaria
 Jongoku - China  
 jovan - joven  
 jovan fem - niña  
-jovan jan - joven  
+jovan jen - joven  
 jovan man - niño  
 jovan moka - pimpollo  
 jovan ta - juventud  
@@ -1757,7 +1757,7 @@ kavai - lindo (precioso)
 kave - fosa  
 Kazake - Kazajistán (Kazakistan)  
 ke - qué  
-ke jan - quién  
+ke jen - quién  
 ke multi di - cuántos  
 ke riti - cómo  
 ke sate - cuándo  
@@ -1977,13 +1977,13 @@ lasun - ajo
 late - lado (flanco)  
 late - de lado  
 late di - lateral (horizontal)  
-late jan - compañero (compinche)  
+late jen - compañero (compinche)  
 Latin zi - alfabeto latino  
 Latvia - Letonia  
 Lau - Laos  
 lau - viejo (anciano)  
 lau di - laosiano  
-lau jan - viejo (anciano)  
+lau jen - viejo (anciano)  
 laurence yum - laurencio  
 lazanya - lasaña  
 lazur - azur (blao)  
@@ -2356,7 +2356,7 @@ multi - muchos
 multi ta - número (muchedumbre)  
 mum - cera (lacre)  
 mum foto - vela (candela, cirio)  
-mum jan - momia  
+mum jen - momia  
 mum melon - calabaza china (calabaza de la cera)  
 mumu - vaca (toro)  
 mumu nama - carne de vaca  
@@ -2417,7 +2417,7 @@ naraka - infierno
 nardi - backgammon  
 nasi - nación  
 nasi di - nacional  
-nasi jan - gente  
+nasi jen - gente  
 nasi medi - internacional  
 nasi sim - nacionalismo  
 nasi sim ja - nacionalista  
@@ -2596,7 +2596,7 @@ pan deu - panteón
 pan deu sim - panteísmo  
 pan dunia di - global (de todo el mundo)  
 pan europa di - paneuropeo  
-pan jan - todas las personas  
+pan jen - todas las personas  
 pan romanse di - panrromántico  
 pan sata - siempre  
 pan sekse di - pansexual  
@@ -2618,7 +2618,7 @@ papir - artículo (documento)
 Papua Nove Ginia - Papúa Nueva Guinea  
 par - equilibrado (par)  
 par fase - nivel  
-par jan - equilibrado (par)  
+par jen - equilibrado (par)  
 par nomer - número par  
 par veze ta - equilibrio  
 Paraguai - Paraguay  
@@ -2652,7 +2652,7 @@ pasta petra - magma
 patate - papa  
 pati - enfermedad  
 pati di - enfermo  
-pati jan - paciente  
+pati jen - paciente  
 pati jene she - patógeno  
 pati logi - patología  
 pati mise - infección (contagio)  
@@ -2776,7 +2776,7 @@ porno - porno
 porno grafi - pornografía  
 porte - porto  
 Portoriko - Puerto Rico  
-portoriko jan - puertorriqueño  
+portoriko jen - puertorriqueño  
 Portugal - Portugal  
 portugal basha - idioma portugués  
 pos - consecuencia (siguiente)  
@@ -2953,9 +2953,8 @@ Rusia - Rusia
 rusia basha - idioma ruso  
 rute - ruta  
 ruterfor yum - rutherfordio  
-rutina - rutina (hábito)  
+rutin - rutina (hábito)  
 ####S - S  
-saba - razón (causa)  
 sabate - sabbat  
 sabe - saber (conocer)  
 sabe logi - epistemología  
@@ -2963,6 +2962,7 @@ sabe she - sabiduría (conocimiento)
 sabe vol - interés  
 sabe vol di - interesante (curioso)  
 sabe vol ja - inquisitivo (curioso)  
+sabu - razón (causa)  
 sabun - jabón  
 sada - sencillo (liso)  
 safa - limpio  
@@ -2998,7 +2998,7 @@ salu safa ta - higiene
 salu ta - salud  
 Salvador - El Salvador  
 sam - equal (similar)  
-sam desha jan - compatriota  
+sam desha jen - compatriota  
 sam emos - compasión  
 sam metre - simetría (simétrico)  
 sam nam - homónimo  
@@ -3203,7 +3203,7 @@ sir move - colarse
 sir plan - complot (conspiración)  
 sir ta - sigilo  
 siro - cero (ninguno)  
-siro jan - ningunos  
+siro jen - ningunos  
 siro sata - nunca  
 siro she - nada  
 sismologi - sismología  
@@ -3661,7 +3661,7 @@ Yesa - Jesús
 Yesa Mesi - Jesucristo  
 yezi - coco  
 yo - algún  
-yo jan - algién  
+yo jen - algién  
 yo sate - algún día (algún vez)  
 yo she - algo  
 yoga - yoga  
@@ -3699,7 +3699,7 @@ zardush din - zoroastrismo
 zardush din ja - zoroastriano  
 zardush magi ja - mago  
 ze - de (desde)  
-ze saba da - porque  
+ze sabu da - porque  
 zebra - cebra  
 zeyil - verruga  
 zi - carácter  

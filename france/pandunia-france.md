@@ -57,7 +57,7 @@ alumin okside - alumine (oxyde d'aluminium)
 ama - amour (affection)  
 ama di - cher  
 ama ja - amoureux  
-ama jan - chéri  
+ama jen - chéri  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
 amen - honnête (sûr, crédible, sûrement)  
 amen shin - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
@@ -133,8 +133,8 @@ Artika - arctique
 Artika Hai - océan Arctique  
 Aruba - Aruba  
 asal - origine  
-asal Amerka jan - amérindien (indien)  
-asal Australia jan - aborigènes australiens  
+asal Amerka jen - amérindien (indien)  
+asal Australia jen - aborigènes australiens  
 asal di - originel  
 asan - posture (position)  
 asar - effet  
@@ -417,7 +417,7 @@ dunia - monde
 dura - durée  
 dura di - chronique  
 dura metre gi - chronomètre  
-dus jan - ennemi  
+dus jen - ennemi  
 dus karma - méfait (péché)  
 dus vide - laid (vilain)  
 dush - douche  
@@ -595,7 +595,7 @@ galte - faute (erreur)
 galte di - erroné  
 gamba - crevette  
 gami - mariage  
-gami jan - époux  
+gami jen - époux  
 gami ma - belle-mère  
 gami pa - beau-père  
 gan gazo - foin  
@@ -659,7 +659,7 @@ gubu - hippopotame
 gui papi - pavot d'Orient  
 gul - goule  
 gun - armée  
-gun jan - soldat  
+gun jen - soldat  
 gun raja - généralissime  
 guta - genou  
 guta kaske oste - rotule  
@@ -742,7 +742,7 @@ in klus di - inclusif
 in migra - immigrer  
 in migra ja - immigrant  
 in ten gi - conteneur  
-in verse jan - introverti  
+in verse jen - introverti  
 insan - être humain  
 insan di - humain  
 insan haki - droits de l'homme  
@@ -869,7 +869,7 @@ katus - cactus
 kauri - cauri  
 kave - fosse  
 ke - que (quoi)  
-ke jan - qui  
+ke jen - qui  
 ke riti - comment  
 ke sate - quand  
 Keme - Égypte antique  
@@ -1269,7 +1269,7 @@ pase sim ja - pacifiste
 pasporte - passeport  
 pasta - pâte  
 pasta petra - magma  
-pati jan - patient  
+pati jen - patient  
 pati jene she - agent pathogène  
 pati logi - pathologie  
 pati mise - infection (contagion)  
@@ -1324,7 +1324,7 @@ polska yum - polonium
 porei - poireau  
 porte - porte  
 Portoriko - Porto Rico  
-portoriko jan - Portoricain  
+portoriko jen - Portoricain  
 pos - ensuite (après, plus tard, ir a, en el futuro)  
 pos den - demain  
 pos di - postérieur  

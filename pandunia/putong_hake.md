@@ -1,13 +1,13 @@
 # insan du putong haki
 
 ## predobabe
-saba – huru ta, adil ta, e pase ta na dunia su baze si note la in ten di onor e la par e an alo bil di haki da pan un membre da insan famili.
-saba – insan haki su nega e hen fa asar ba barbar karma jo fa furi la insan jong su moral sense, e putong demo su masim gau gol si kai da un dunia na jo insan ya ten la huru ta da loga e din huru e si sekur ze fobi e yau.
-saba – go si krizi, gar un insan no vil be paka do, ka fin me plan, rebel kontra yo zalim ta e haki presa, pan insan haki be sekur la kanun.
-saba – go si krizi, raste la dosti guanshe na medi ba nasi.
-saba – pan nasi da Un Ta Nasi, na yemon su baze dokumen, re amen yemon su shin da baze insan haki, da onor e valu da insan jen, e da par haki da man e fem, e plan sim yo sosi jin e mas bon jiva darja na mas dai huru ta.
-saba – membre desha le vode gol, va mede da Un Ta Nasi, la mote da putong onor e sekur ta da insan haki e baze huru ta.
-saba – un putong aha da ni haki e huru ta ten la masim ham ta gar ni vode bil si ver.
+sabu – huru ta, adil ta, e pase ta na dunia su baze si note la in ten di onor e la par e an alo bil di haki da pan un membre da insan famili.
+sabu – insan haki su nega e hen fa asar ba barbar karma jo fa furi la insan jong su moral sense, e putong demo su masim gau gol si kai da un dunia na jo insan ya ten la huru ta da loga e din huru e si sekur ze fobi e yau.
+sabu – go si krizi, gar un insan no vil be paka do, ka fin me plan, rebel kontra yo zalim ta e haki presa, pan insan haki be sekur la kanun.
+sabu – go si krizi, raste la dosti guanshe na medi ba nasi.
+sabu – pan nasi da Un Ta Nasi, na yemon su baze dokumen, re amen yemon su shin da baze insan haki, da onor e valu da insan jen, e da par haki da man e fem, e plan sim yo sosi jin e mas bon jiva darja na mas dai huru ta.
+sabu – membre desha le vode gol, va mede da Un Ta Nasi, la mote da putong onor e sekur ta da insan haki e baze huru ta.
+sabu – un putong aha da ni haki e huru ta ten la masim ham ta gar ni vode bil si ver.
 asar – PUTONG JAMA DA UN TA NASI ya komun ni PUTONG LOGA DA INSAN HAKI ka un putong norma da jin ta do pan demo e pan nasi, do ichi da pan un jen e pan un fen da sosi, dura da hema ni loga na pan sata, vil gung va shula do sim la onor da ni haki e huru ta e, na nasi di e nasi medi di jin sim di karma, fa sekur yemon su putong e funsi di note e sekur ta, na medi da nasi jen da membre desha e medi da jen da desha jo nicha yemon su krati.
 
 ## babu 1
@@ -42,7 +42,7 @@ pan insan ten, na pul par ta, la haki da un adal e komun di audi ze auto nomi e 
 
 ## babu 11
 1. pan insan, jo be jude, ten la haki da be fikir ka an dosha hata ye be dalil ka dosha va sam rai da la kanun va komun jude na jo ye ten pan garanti do ye su defa
-2. no halal eni insan be jude ka dosha da eni krim ze saba da un karma o karma hin jo no si krim na dura ye karma ye na nasi di o nasi medi di kanun. e no halal dona un mas dus fatu ka la fatu jo si aplika bil na kanun na dura ye karma ye.
+2. no halal eni insan be jude ka dosha da eni krim ze sabu da un karma o karma hin jo no si krim na dura ye karma ye na nasi di o nasi medi di kanun. e no halal dona un mas dus fatu ka la fatu jo si aplika bil na kanun na dura ye karma ye.
 
 ## babu 12
 no halal eni insan be an razon di karma va ye su tana o famili o dom o posta, o be agres na ye su onor. pan insan ten la haki da defa do kontra la yang da karma e agres.

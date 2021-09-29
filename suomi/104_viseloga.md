@@ -3,26 +3,27 @@
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi**      | **mimen**    |
+| **mi**      | **mimon**    |
 | minä        | me           |
-| **tu**      | **tumen**    |
+| **tu**      | **tumon**    |
 | sinä        | te           |
-| **ya**      | **yamen**    |
+| **ye**      | **yemon**    |
 | hän         | he           |
-Persoonapronominien omistusmuodot muodostetaan partikkelilla  **di**.
+Persoonapronominien omistusmuodot muodostetaan partikkelilla
+**su**.
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi di**   | **mimen di** |
+| **mi su**   | **mimon su** |
 | minun       | meidän       |
-| **tu di**   | **tumen di** |
+| **tu su**   | **tumon su** |
 | sinun       | teidän       |
-| **ya di**   | **yamen di** |
+| **ye su**   | **yemon su** |
 | hänen       | heidän       |
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
 
-**un jovan man a dom. _le_ duge un buke.**
+**un jovan man na dom. _ye_ duku un buke.**
 – _Yksi nuori mies on kotona. Hän lukee kirjaa._
 
 ## Refleksiivipronomini
@@ -34,24 +35,24 @@ Refleksiivipronominia **ze** käytetään sellaisenaan kaikissa persoonissa.
 
 **mi vide se**
 – Minä näen itseni.
-**ya vide se**
+**ye vide se**
 – Hän näkee itsensä.
-**mimen vide se.**
+**mimon vide se.**
 – Me näemme itsemme.
 
-Sen omistusmuoto on **se di**.
+Sen omistusmuoto on **se su**.
 
-**ya vide se di muka a mira.**
+**ye vide se su muka na mira.**
 = Hän näkee kasvonsa peilissä.
 
-Sana **semen** viittaa tekijöihin toisiinsa.
+Sana **se kon** viittaa tekijöihin toisiinsa.
 
-**semen**
+**se kon**
 – toisiaan
 
-**mi e tu vide semen.**
+**mi e tu vide se kon.**
 – Sinä ja minä näemme toisemme.  
-**mimen vide semen.**
+**mimon vide se kon.**
 – Me näemme toisemme.
 
 
@@ -59,22 +60,32 @@ Sana **semen** viittaa tekijöihin toisiinsa.
 
 Osoittava pronomini on:
 
-**ya**
+**ni**
 – tämä, nämä  
-**vo**
-– tuo, nuo
+**go**
+– tuo, nuo  
+**la**
+– se, ne (jotain jonka puhuja olettaa kuulijan tietävän)
 
-**mi vol ye.**
-– Minä haluan tämän.  
-**ya vol vo.**
-– Hän haluaa tuon.
+Panduniassa **ni**, **go** ja **la** ovat aina vain määreitä,
+joten ne tarvitsevat peräänsä substantiivin.
+Kun niitä käytetään pronominin tapaan, yleiskäyttöinen substantiivi kuten
+**she**
+('asia') käy niiden täydennykseksi.
 
-I-päätteistä muotoa käytetään substantiivin edellä eli kun osoittava pronomini on adjektiivin kaltainen.
+Pronomini
+**ni**
+osoittaa puhujan lähellä oleviin asioihin,
+ja pronomini
+**go**
+osoittaa puhujasta kaukana oleviin asioihin.
 
-**yi maw**
-– tämä kissa  
-**wi maw**
-– tuo kissa
+**ni she si bon.**
+– Tämä (asia) on hyvä.  
+**go she si dus.**
+– Tuo (asia) on huono.  
+**mi vol ni buke, no go.**
+– Minä haluan tämän kirjan, en tuota.
 
 
 ## Kysymyspronominit
@@ -84,13 +95,30 @@ I-päätteistä muotoa käytetään substantiivin edellä eli kun osoittava pron
 **ke?**
 = Mikä?
 
-Adjektiivimuotoa **ki** käytetään kysymään _mikä_ tai _kumpi_.
-**ki xey?**
+Se toimii myös määritteenä merkityksessä 'mikä' tai 'kumpi'.
+**ke she?**
 = Mikä esine?
-**ki ren?**
+**ke jen?**
 = Kuka? (Mikä henkilö?)  
-**ki zaman?**
+**ke zaman?**
 = Milloin? (Mikä hetki?)
-**ki yang?**
+**ke yang?** 
 = Miten? (Mikä tapa?)
+
+Myös adjektiivit voi saattaa kyseenalaisiksi sanalla **ke**.
+
+**ke nove?**
+– Kuinka uusi?  
+**ke koste?**
+– Minkä hintainen? Kuinka kallis?  
+**ke poli?**
+– Kuinka monta?  
+**ke dai?**
+– Kuinka iso?  
+**ke lili?**
+– Kuinka pieni?
+
+**tu tena ke dai di mau?**
+– Kuinka iso kissa sinulla on?
+
 

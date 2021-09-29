@@ -15,7 +15,7 @@ aate (aatteen kannatus, ismi) - sim
 aatteen kannattaja - mede ja  
 aavikko (hiekkaerämaa) - arena topo  
 Abhaasia - Apsni  
-aboriginaali (Australian alkuperäisasukas) - asal Australia jan  
+aboriginaali (Australian alkuperäisasukas) - asal Australia jen  
 abyssinia - Habasha  
 abyssinialainen - habasha  
 adjektiivi (laatusana) - sifa loga  
@@ -32,7 +32,7 @@ Ahvenanmaa (Oolanti) - Olande nesi
 aie (aikomus, tarkoitus) - nia  
 aihe (teema) - tema  
 aiheesta (-sta) - tema  
-aiheuttaa (olla syynä) - fa saba  
+aiheuttaa (olla syynä) - fa sabu  
 aika (kesto, kestoaika) - dura  
 aika - zaman  
 aikakausi - dura zaman  
@@ -342,7 +342,7 @@ ehdottaa - fa suje
 ehdotus - suje  
 ei - no  
 ei koskaan (ei kertaakaan) - siro sata  
-ei kukaan - siro jan  
+ei kukaan - siro jen  
 ei mitään - siro she  
 ei mitään - siro she  
 eilen - chen den  
@@ -804,7 +804,7 @@ inkivääri - zinji
 insinööri - enjener  
 internet - internete  
 Intia - Barti  
-intiaani (Amerikan alkuperäisasukas) - asal Amerka jan  
+intiaani (Amerikan alkuperäisasukas) - asal Amerka jen  
 intialainen - barti  
 Intian valtameri - Barti Hai  
 introspektio - in vide  
@@ -890,11 +890,11 @@ johtaja (pomo) - lida ja
 joka (jokainen) - pan un  
 joka (mikä) - jo  
 jokainen asia - pan she  
-jokainen ihminen - pan jan  
+jokainen ihminen - pan jen  
 joki (virta) - rivo  
 jokin (joku) - yo  
 jokin - yo she  
-joku - yo jan  
+joku - yo jen  
 jooga - yoga  
 joogi - yoga ja  
 jopa - hata  
@@ -1026,10 +1026,10 @@ kannada (eräs intialainen kieli) - karnada basha
 kannattaa (tukea, edistää) - fa sim  
 kannattaja (tukija, -isti) - sim ja  
 kanootti - kano  
-kansa - nasi jan  
+kansa - nasi jen  
 kansainvälinen - nasi medi  
 kansakunta - nasi  
-kansalainen (valtion asukas) - desha jan  
+kansalainen (valtion asukas) - desha jen  
 kansallinen - nasi di  
 kansallissosialismi - nasi sosi sim  
 kansallisuusaate (nationalismi) - nasi sim  
@@ -1317,7 +1317,7 @@ koruton (tavanomainen, pelkkä, vain) - sada
 korva - ore  
 korvata - fa vise  
 korvatulehdus - ore flame  
-koska (johdosta, takia) - ze saba da  
+koska (johdosta, takia) - ze sabu da  
 koskea (koskettaa) - tochu  
 kosminen - kosmo di  
 Kosovo - Kosovo  
@@ -1352,7 +1352,7 @@ kuitti (kuittaus) - reside
 kuiva - gan  
 kuivakausi - gan mosim  
 kuivata (kuivattaa) - fa gan  
-kuka? - ke jan  
+kuka? - ke jen  
 kukka - hua  
 kukkamaljakko - hua jara  
 kukkaruukku - hua pote  
@@ -1360,7 +1360,7 @@ kulkea poikki, läpi tai yli - fa transe
 kulma (nurkka) - gona  
 kulmamitta (goniometri) - gona metre gi  
 kulombi (mittayksikkö C) - kulombe  
-kulta (rakas) - ama jan  
+kulta (rakas) - ama jen  
 kulta - auro  
 kulttuuri - kultur  
 kulua (vieriä) - si dura  
@@ -1961,7 +1961,7 @@ mutkikas - kurva di
 mutta - a  
 muu (toinen) - alo  
 muuli - iha uma  
-muumio - mum jan  
+muumio - mum jen  
 muunsukupuolinen - nobi  
 muurahainen - murche  
 muusikko - muzika ja  
@@ -2094,7 +2094,7 @@ nukkuminen (uni) - sona
 nuolentekijä - fleche ja  
 nuoli - fleche  
 nuori - jovan  
-nuorukainen - jovan jan  
+nuorukainen - jovan jen  
 nuoruus - jovan ta  
 nurmikko (ruohikko) - gazo medan  
 nussia (panna) - choda  
@@ -2467,7 +2467,7 @@ postileima - posta chape
 postileima - posta marke  
 postitoimisto - posta kan  
 postittaa - fa posta  
-potilas - pati jan  
+potilas - pati jen  
 povi - buste  
 praseodyymi - prazedim yum  
 presidentti - prezidente  
@@ -2486,7 +2486,7 @@ pudonnut (tippunut) - pade di
 pudota (tipahtaa) - pade  
 pudottaa - fa pade  
 Puerto Rico - Portoriko  
-puertoricolainen - portoriko jan  
+puertoricolainen - portoriko jen  
 puhdas (siivo, siisti) - safa  
 puhdistaa (siivota) - fa safa  
 puhe (sanat) - loga  
@@ -2506,7 +2506,7 @@ punta - paunde
 puola - Polska  
 puolalainen - polska basha  
 puolesta - na vakil da  
-puoliso (aviomies tai -vaimo) - gami jan  
+puoliso (aviomies tai -vaimo) - gami jen  
 puolittaa (jakaa kahdella) - fa fen do du  
 puolivanhempi - chin gam  
 puolustaa - defa  
@@ -2750,7 +2750,7 @@ Salomon-saaret - Solomon nesi
 salpa (säppi) - kane sor  
 sama (yhtäläinen) - sam  
 samanlainen - sam sifa di  
-samanmaalainen (maanmies) - sam desha jan  
+samanmaalainen (maanmies) - sam desha jen  
 samarium - samari yum  
 Sambia - Zambia  
 sammal - mos  
@@ -2899,7 +2899,7 @@ sisältö - in she
 sisäsyntyinen - in jene di  
 sisäänkäynti - jin mun  
 sisäänpäin - do in  
-sisäänpäinsuuntautunut (introvertti) - in verse jan  
+sisäänpäinsuuntautunut (introvertti) - in verse jen  
 sitoa - bande  
 sitruuna - limon  
 sivilisaatio - sivil ta  
@@ -2953,7 +2953,7 @@ sosialisti - sosi sim ja
 sotaherra (generalissimo) - gun raja  
 sotaherran maa - gun raja desha  
 sotilaallinen - jang di  
-sotilas - gun jan  
+sotilas - gun jen  
 soturi (taistelija) - jang ja  
 sovellus - aplika  
 soveltaa - aplika  
@@ -3040,7 +3040,7 @@ syntyä - be jene
 syreeni - lila  
 syvyys - fase tele ta  
 syvä - fase tele  
-syy - saba  
+syy - sabu  
 syy ja seuraus - karma e asar  
 syyllinen - dosha di  
 syylä - zeyil  
@@ -3125,7 +3125,7 @@ taolainen - dau din ja
 taolaisuus - dau din  
 tapa (keino, menetelmä, menettely, metodi) - riti  
 tapa (perinne) - suna  
-tapa (rutiini) - rutina  
+tapa (rutiini) - rutin  
 tapa - ada  
 tapa - mode  
 tapaaminen (kokous) - miti  
@@ -3407,7 +3407,7 @@ ulkomaa - vai desha
 ulkomaalainen - vai desha di  
 ulkona (ulkopuolella) - na vai  
 ulkopuoli - vai  
-ulkopuolinen - vai jan  
+ulkopuolinen - vai jen  
 ulkosyntyinen - vai jene di  
 uloskäynti - chuti mun  
 ulospäinsuuntautunut (ekstrovertti) - vai verse di  
@@ -3570,7 +3570,7 @@ veri - sange
 verkko - nete  
 vermutti - vermute  
 versio - version  
-vertainen - par jan  
+vertainen - par jen  
 vesi - sui  
 vesimeloni - arbuza  
 vesinokkaeläin - bata krote  
@@ -3601,7 +3601,7 @@ vihainen (suuttunut) - furi
 vihannes - choi  
 vihata (inhota) - fa hen  
 vihollinen - an dosti  
-vihollinen - dus jan  
+vihollinen - dus jen  
 vihreä - verde  
 viihdyttää (huvittaa) - fa vanu  
 viikko - var var  

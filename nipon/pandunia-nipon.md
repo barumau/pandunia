@@ -249,7 +249,7 @@ den - 日
 den loge - 日記  
 des - 十 (１０)  
 des kilo - 万  
-desha jan - 市民  
+desha jen - 市民  
 deu - 神  
 deu kata - 神話  
 deu nagar zi - デーヴァナーガリー  
@@ -292,7 +292,7 @@ dura bil - 持続的
 dura metre gi - ストップウオッチ  
 dura zaman - 時代 (年代)  
 dus - 難しい  
-dus jan - 敵  
+dus jen - 敵  
 dus karma - 悪事  
 dus sin di - 不吉 (縁起の悪い)  
 dus vide - 見苦しい  
@@ -486,7 +486,7 @@ gubu - 河馬
 gui - 鬼  
 gui papi - オニゲシ  
 guku hua - キク  
-gun jan - 軍人  
+gun jen - 軍人  
 gun raja - 総統 (将軍 )  
 guru - 尊師 (グル, 先生)  
 guta - 膝  
@@ -558,7 +558,7 @@ in - 内
 in migra - 移住する (移民する)  
 in migra ja - 移民 (移住者)  
 in ten gi - コンテナ  
-in verse jan - 内向的な人  
+in verse jen - 内向的な人  
 insan - 人間  
 insan haki - 人権  
 insan sim - ヒューマニズム (人文主義)  
@@ -593,7 +593,7 @@ jiva - 命 (生命)
 jong - 中心  
 Jongoku - 中国  
 jovan fem - 女の子  
-jovan jan - 青少年  
+jovan jen - 青少年  
 jovan man - 男の子  
 jovan moka - 若木  
 jul - ジュール (J)  
@@ -669,7 +669,7 @@ katana - 刀 (剣)
 katus - サボテン  
 kauri - 宝貝  
 ke - 何  
-ke jan - 誰  
+ke jen - 誰  
 ke riti - どのように  
 ke sate - 何時  
 ke she - 何事  
@@ -1014,7 +1014,7 @@ pang - パン
 panir - クワルク  
 pante - ズボン  
 papaya - パパイヤ  
-par jan - 同輩  
+par jen - 同輩  
 par nomer - 偶数  
 par veze ta - 均衡 (平衡)  
 param - 引数 (パラメーター)  
@@ -1028,7 +1028,7 @@ pasi - 痛み
 pasi di - 痛い  
 pasporte - パスポート  
 pasta petra - マグマ (岩漿)  
-pati jan - 患者  
+pati jen - 患者  
 pati mise - 伝染  
 pau - 撃つ  
 pau gi - 銃  
@@ -1345,7 +1345,7 @@ vaf - 犬 (狗)
 vagina - 膣 (ワギナ)  
 vah - わあ  
 vai - 外  
-vai jan - 部外者 (アウトサイダー)  
+vai jen - 部外者 (アウトサイダー)  
 vai planete - 系外惑星  
 vai verse di - 外向的な  
 vali - 谷  

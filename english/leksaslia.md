@@ -1234,9 +1234,9 @@
 |**rupa**|appearance (looks)|Hindi:रूप (rūp), Malay: rupa, Thai: รูป (rūp), Khmer:រូប (rūp)|
 |**rute**|route (path, trail, course, itinerary)|English:French:route, Spanish:ruta, Portuguese:rota, deu:Route, Japanese:ルート (rūto), Russian:маршрут (maršrut)|
 |**ruterfor yum**|rutherfordium|English:rutherfordium, French:rutherfordium, Spanish:rutherfordio, Portuguese:rutherfórdio, Russian:резерфордий, ²курчатовий, Mandarin: (lú), Japanese:ラザホージウム, Korean:러더포듐, Vietnamese:rutherfordi, Hindi:रुथरफोर्डियम, Bengali:রাদারফোর্ডিয়াম, Malay:rutherfordium, Swahili:rutherfordi, Arabic: رذرفورديوم|
-|**rutina**|routine (habit)|English:French:routine, Spanish:rutina, Portuguese:rotina, deu:Routine, Persian:روتین‎ (rutin), Russian:рутина (rutina)|
-|**saba**|reason (cause)|heb:(sibá), Hausa:sabo;sababi, Kongo:sambu, Arabic:Urdu:(sabab), Turkish:sebep, Malay:sebab, Swahili:sababu|
+|**rutin**|routine (habit)|English:French:routine, Spanish:rutina, Portuguese:rotina, deu:Routine, Persian:روتین‎ (rutin), Russian:рутина (rutina)|
 |**sabe**|know (be aware of)|Spanish:Portuguese:saber, French:savoir, English:savvy, pcm:sabi|
+|**sabu**|reason (cause)|heb:(sibá), Hausa:sabo;sababi, Kongo:sambu, Arabic:Urdu:(sabab), Turkish:sebep, Malay:sebab, Swahili:sababu|
 |**sabun**|soap|Arabic:(ṣābūn), Turkish:sabun, Swahili:sabuni, Hindi:साबुन (sābun), Portuguese:sabão, Spanish:jabón, French:savon|
 |**sada**|plain (ordinary, unadorned, simple, mere)|Turkish:sade, Persian:(sāde), Hindi:सादा (sādā)|
 |**safa**|clean (pure)|Arabic:صفا (ṣafā), Turkish:saf, Swahili:safi, Malay:safa, Hindi:साफ़ (sāf), Urdu:(sāf), Bengali:চাফা (sapha)|

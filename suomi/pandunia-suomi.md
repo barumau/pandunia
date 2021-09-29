@@ -65,7 +65,7 @@ alumin okside - alumiinioksidi
 ama - rakkaus (tykkääminen)  
 ama di - rakas (armas)  
 ama ja - rakastaja  
-ama jan - kulta (rakas)  
+ama jen - kulta (rakas)  
 Amara - amhara (etiopialainen kansa ja kieli)  
 amen - rehellinen (totisesti, uskottavasti, aamen)  
 amen bil - luotettava  
@@ -166,8 +166,8 @@ Artika - Arktis
 Artika Hai - Jäämeri  
 Aruba - Aruba  
 asal - alkuperä  
-asal Amerka jan - intiaani (Amerikan alkuperäisasukas)  
-asal Australia jan - aboriginaali (Australian alkuperäisasukas)  
+asal Amerka jen - intiaani (Amerikan alkuperäisasukas)  
+asal Australia jen - aboriginaali (Australian alkuperäisasukas)  
 asal di - alkuperäinen  
 asan - asento  
 asar - vaikutus (tulos)  
@@ -687,7 +687,7 @@ des - kymmenen (10)
 des kilo - sata tuhatta  
 desen - piirustus  
 desha - maa (valtio)  
-desha jan - kansalainen (valtion asukas)  
+desha jen - kansalainen (valtion asukas)  
 desi - desi  
 desi bel - desibeli  
 detal - yksityiskohta (detalji)  
@@ -796,7 +796,7 @@ dus deu sim - dysteismi (usko jumalan pahuuteen)
 dus forma di - epämuodostunut  
 dus funsi - toimintahäiriö  
 dus hal - vaikeus (hankaluus)  
-dus jan - vihollinen  
+dus jen - vihollinen  
 dus karma - synti (paha teko)  
 dus nam - loukkaus (herja)  
 dus rai - paheksua  
@@ -1063,7 +1063,7 @@ fa retro - palauttaa
 fa rezerve - varata (tehdä varaus)  
 fa rol - näytellä  
 fa rolo - kääriä  
-fa saba - aiheuttaa (olla syynä)  
+fa sabu - aiheuttaa (olla syynä)  
 fa safa - puhdistaa (siivota)  
 fa safar - matkustaa  
 fa sahi - korjata (tehdä oikeaksi)  
@@ -1307,7 +1307,7 @@ gami - avioliitto
 gami ben - lapsipuoli  
 gami chin - appivanhempi  
 gami di - naimisissa  
-gami jan - puoliso (aviomies tai -vaimo)  
+gami jen - puoliso (aviomies tai -vaimo)  
 gami ma - anoppi  
 gami pa - appi  
 gan - kuiva  
@@ -1458,7 +1458,7 @@ gul - ghouli
 gulu - niellä  
 guma - rumpu  
 gun - armeija (sotajoukko)  
-gun jan - sotilas  
+gun jen - sotilas  
 gun raja - sotaherra (generalissimo)  
 gun raja desha - sotaherran maa  
 guru - guru (opettaja)  
@@ -1658,7 +1658,7 @@ in pushe - pusertaa
 in she - sisältö  
 in ten - sisältää  
 in ten gi - kontti  
-in verse jan - sisäänpäinsuuntautunut (introvertti)  
+in verse jen - sisäänpäinsuuntautunut (introvertti)  
 in vide - introspektio  
 Indonesi - Indonesia  
 insan - ihminen  
@@ -1761,7 +1761,7 @@ jong shula kan - yläaste ja lukio
 Jongoku - Kiina  
 jovan - nuori  
 jovan fem - tyttö (nuori neito)  
-jovan jan - nuorukainen  
+jovan jen - nuorukainen  
 jovan man - poika (nuori mies)  
 jovan ta - nuoruus  
 judau - judo  
@@ -1891,7 +1891,7 @@ kavai - söpö (suloinen)
 kave - kuoppa (kolo)  
 Kazake - Kazakstan  
 ke - mikä? (mitä?)  
-ke jan - kuka?  
+ke jen - kuka?  
 ke multi di - montako? (paljonko?)  
 ke riti - miten?  
 ke sate - milloin? (koska?)  
@@ -2453,7 +2453,7 @@ multi - moni (usea)
 mum - vaha  
 mum chape - sinetti  
 mum foto - kynttilä  
-mum jan - muumio  
+mum jen - muumio  
 mumu - nauta (lehmä)  
 mumu nama - lehmän liha  
 mun - ovi (portti, veräjä)  
@@ -2508,7 +2508,7 @@ naraka - helvetti
 nardi - backgammon  
 nasi - kansakunta  
 nasi di - kansallinen  
-nasi jan - kansa  
+nasi jen - kansa  
 nasi medi - kansainvälinen  
 nasi sim - kansallisuusaate (nationalismi)  
 nasi sim ja - nationalisti  
@@ -2683,7 +2683,7 @@ pan deu - pantheon
 pan deu sim - monijumalisuus (panteismi)  
 pan dunia di - maailmanlaajuinen (globaali)  
 pan europa di - paneurooppalainen  
-pan jan - jokainen ihminen  
+pan jen - jokainen ihminen  
 pan mima - pantomiimi  
 pan sata - aina  
 pan she - jokainen asia  
@@ -2703,7 +2703,7 @@ papaya - papaija
 Papua Nove Ginia - Papua Uusi-Guinea  
 par - tasainen (tasavertainen)  
 par fase - taso  
-par jan - vertainen  
+par jen - vertainen  
 par nomer - parillinen luku  
 par veze ta - tasapaino  
 Paraguai - Paraguai  
@@ -2736,7 +2736,7 @@ pasta - tahna (tahdas)
 patate - peruna (potaatti)  
 pati - sairaus (tauti)  
 pati di - sairas  
-pati jan - potilas  
+pati jen - potilas  
 pati jene she - patogeeni  
 pati logi - patologia (tautioppi)  
 pati mise - infektio (tartunta)  
@@ -2846,7 +2846,7 @@ porno - porno
 porno grafi - pornografia  
 porte - asema (satama, lentokenttä)  
 Portoriko - Puerto Rico  
-portoriko jan - puertoricolainen  
+portoriko jen - puertoricolainen  
 Portugal - Portugali  
 portugal basha - portugali  
 pos - seuraus  
@@ -3008,9 +3008,8 @@ Rusia - Venäjä
 rusia basha - venäläinen  
 rute - polku (reitti, kurssi)  
 ruterfor yum - rutherfordium  
-rutina - tapa (rutiini)  
+rutin - tapa (rutiini)  
 ####S - S  
-saba - syy  
 sabate - sapatti  
 sabe - tietää (tuntea)  
 sabe logi - tietoteoria (epistemologia)  
@@ -3018,6 +3017,7 @@ sabe she - tieto (tietämys)
 sabe vol - kiinnostus (mielenkiinto)  
 sabe vol di - kiinnostava  
 sabe vol ja - utelias (tiedonhaluinen)  
+sabu - syy  
 sabun - saippua  
 sada - koruton (tavanomainen, pelkkä, vain)  
 safa - puhdas (siivo, siisti)  
@@ -3054,7 +3054,7 @@ salu safa ta - hygienia (puhtaus)
 salu ta - terveys  
 Salvador - El Salvador  
 sam - sama (yhtäläinen)  
-sam desha jan - samanmaalainen (maanmies)  
+sam desha jen - samanmaalainen (maanmies)  
 sam emos - myötätunto (sympatia)  
 sam metre - symmetria  
 sam nam - homonyymi  
@@ -3242,7 +3242,7 @@ Singapur - Singapore
 sir - salainen  
 sir plan - juoni (salaliitto)  
 siro - nolla (ei yhtään)  
-siro jan - ei kukaan  
+siro jen - ei kukaan  
 siro sata - ei koskaan (ei kertaakaan)  
 siro she - ei mitään  
 siro she - ei mitään  
@@ -3549,7 +3549,7 @@ vai - ulkopuoli
 vai desha - ulkomaa  
 vai desha di - ulkomaalainen  
 vai di - ulko- (ulkoinen)  
-vai jan - ulkopuolinen  
+vai jen - ulkopuolinen  
 vai jene di - ulkosyntyinen  
 vai klus di - poissulkeva (eksklusiivinen)  
 vai mise - viedä pois (viedä maasta)  
@@ -3706,7 +3706,7 @@ Yesa - Jeesus
 Yesa Mesi - Jeesus Kristus  
 yezi - kookos  
 yo - jokin (joku)  
-yo jan - joku  
+yo jen - joku  
 yo sate - joskus  
 yo she - jokin  
 yoga - jooga  
@@ -3745,7 +3745,7 @@ zardush din - zarathustralaisuus
 zardush din ja - zarathustralainen  
 zardush magi ja - zarathustralainen pappi  
 ze - luota (lähtien, -sta, -lta)  
-ze saba da - koska (johdosta, takia)  
+ze sabu da - koska (johdosta, takia)  
 zebra - seepra  
 zeyil - syylä  
 zeze - kaksisiipinen  

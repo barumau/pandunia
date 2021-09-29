@@ -1178,9 +1178,9 @@
 |**rupa**|ilmiasu (ulkonäkö)|hindi:रूप (rūp), malaiji: rupa, thai: รูป (rūp), khmer:រូប (rūp)|
 |**rute**|polku (reitti, kurssi)|englanti:ranska:route, espanja:ruta, portugali:rota, deu:Route, japani:ルート (rūto), venäjä:маршрут (maršrut)|
 |**ruterfor yum**|rutherfordium|englanti:rutherfordium, ranska:rutherfordium, espanja:rutherfordio, portugali:rutherfórdio, venäjä:резерфордий, ²курчатовий, yleiskiina: (lú), japani:ラザホージウム, korea:러더포듐, vietnami:rutherfordi, hindi:रुथरफोर्डियम, bangla:রাদারফোর্ডিয়াম, malaiji:rutherfordium, suahili:rutherfordi, arabia: رذرفورديوم|
-|**rutina**|tapa (rutiini)|englanti:ranska:routine, espanja:rutina, portugali:rotina, deu:Routine, persia:روتین‎ (rutin), venäjä:рутина (rutina)|
-|**saba**|syy|heb:(sibá), hausa:sabo;sababi, Kongo:sambu, arabia:urdu:(sabab), turkki:sebep, malaiji:sebab, suahili:sababu|
+|**rutin**|tapa (rutiini)|englanti:ranska:routine, espanja:rutina, portugali:rotina, deu:Routine, persia:روتین‎ (rutin), venäjä:рутина (rutina)|
 |**sabe**|tietää (tuntea)|espanja:portugali:saber, ranska:savoir, englanti:savvy, pcm:sabi|
+|**sabu**|syy|heb:(sibá), hausa:sabo;sababi, Kongo:sambu, arabia:urdu:(sabab), turkki:sebep, malaiji:sebab, suahili:sababu|
 |**sabun**|saippua|arabia:(ṣābūn), turkki:sabun, suahili:sabuni, hindi:साबुन (sābun), portugali:sabão, espanja:jabón, ranska:savon|
 |**sada**|koruton (tavanomainen, pelkkä, vain)|turkki:sade, persia:(sāde), hindi:सादा (sādā)|
 |**safa**|puhdas (siivo, siisti)|arabia:صفا (ṣafā), turkki:saf, suahili:safi, malaiji:safa, hindi:साफ़ (sāf), urdu:(sāf), bangla:চাফা (sapha)|
