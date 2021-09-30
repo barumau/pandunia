@@ -54,7 +54,7 @@ which are introduced next.
 The relationship of an action, event or state to time is indicated with auxiliary verbs.
 
 **shuru**
-('begin', 'start')
+('begin, start')
 indicates beginning of an action or transition to a new situation.
 
 **mi shuru fuku la kote.**
@@ -64,27 +64,29 @@ indicates beginning of an action or transition to a new situation.
 **tu shuru yam.**
 – You start to eat.
 
-**halte**
-('cease', 'quit', 'stop')
+**fin**
+('end, cease, quit, stop')
 conveys the idea of "to stop doing something".
 
-**yemon halte haha.**
+**yemon fin haha.**
 – They stopped laughing.  
-**kaguji ya halte hogo.**
-– Paper ceased to burn.
+**kaguji ya fin hoge.**
+– Paper ceased to burn.  
+**tu fin yam.**
+– You stop eating.
 
-**fin**
-('finish', 'complete')
+**pul**
+('fulfill', 'complete')
 indicates that an action is done completely.
 
-**tu fin yam un piza.**
+**tu pul yam un piza.**
 – You ate a pizza completely.  
-**mi fin vide la filme.**
+**mi pul vide la filme.**
 – I completed watching the film. / I watched the film completely.
 
 **zai**
 '(be present')
-indicates that a situation is ongoing.
+indicates that a situation is ongoing at present.
 
 **mi zai yam un piza.**
 – I am eating a pizza.
@@ -93,7 +95,7 @@ indicates that a situation is ongoing.
 ('keep on', 'continue', 'proceed')
 indicates that a situation is continuing or in progress.
 
-**mi dur yam la pizza.**
+**mi dur yam la piza.**
 – I keep on eating the pizza.
 
 **ada**
@@ -104,34 +106,36 @@ indicates that an action is done regularly.
 – I have a habit of drinking beer.
 
 **le**
-('attain', 'accomplish')
-indicates that a situation has been reached and it is the current position.
-It brings attention to the consequences of a past action to the current situation.
+('attain, accomplish, reach')
+indiciates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
+You can think of it somewhat like the past perfect in English (_I have done_, _I have eaten_). 
 
 **ye _le_ si guru.**
-– He or she is a teacher now.  
-**mi _le_ no gul yo alkohol.**
-– I don't drink alcohol anymore.  
+– He or she has been a teacher (and still is).  
 **mi no _le_ gul yo alkohol.**
 – I haven't drank alcohol.  
+**mi _le_ no gul yo alkohol.**
+– I have reached not drinking alcohol.  
 **mi _le_ dona la buku do yemon.**
 – I have given the book to them. (They still have it and I don't.)  
 **yemon no _le_ dona ye re do mi.**
 – They haven't given it back to me.  
-**mi _le_ do siti.**
+**mi _le_ lai do siti.**
 – I have come to the city.
 
 **pas**
-('pass', 'go past', 'go through')
-indicates that a situation is over
-and it is relevant only as an experience.
+('pass, go past, go through')
+indicates that an action is finished and is no longer relevant to the current situation.
+You can think of it somewhat like the past simple in English (I finished, I ate).
 
 **mi pas dona la buku do yemon.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas keka la France.**
 – I have visited France.  
 **mi pas ada gul yo bir.**
-– I used to drink beer. / I had a habit of drinking beer.
+– I used to drink beer. / I had a habit of drinking beer.  
+**mi pas lai do siti.**
+– I came to the city.
 
 **sha**
 ('will, shall')
