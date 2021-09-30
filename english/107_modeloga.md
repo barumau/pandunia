@@ -78,13 +78,13 @@ Degree words tell us about the intensity of something.
 
 **tre**
 – very  
-**basa**
+**bas**
 – quite, sufficiently, enough  
 **mas**
 – more  
 **min**
 – less
-**mas ka basa**
+**mas ka bas**
 – too  
 
 Degree words are placed before the word that they modify.
@@ -93,9 +93,9 @@ Degree words are placed before the word that they modify.
 – a big man  
 **un tre dai man**
 – a very big man  
-**un basa dai man**
+**un bas dai man**
 – a big enough man / a sufficiently big man
-**un mas dai man ka basa**
+**un mas dai man ka bas**
 – a too big man  
 
 A degree word together with a modifier forms a _compound adverb_

@@ -89,18 +89,18 @@ indicates that a situation is ongoing.
 **mi zai yam un piza.**
 – I am eating a pizza.
 
-**dura**
+**dur**
 ('keep on', 'continue', 'proceed')
 indicates that a situation is continuing or in progress.
 
-**mi dura yam la pizza.**
+**mi dur yam la pizza.**
 – I keep on eating the pizza.
 
 **ada**
 ('have a habit', 'be used to')
 indicates that an action is done regularly.
 
-**mi ada gulu yo bir.**
+**mi ada gul yo bir.**
 – I have a habit of drinking beer.
 
 **le**
@@ -110,9 +110,9 @@ It brings attention to the consequences of a past action to the current situatio
 
 **ye _le_ si guru.**
 – He or she is a teacher now.  
-**mi _le_ no gulu yo alkohol.**
+**mi _le_ no gul yo alkohol.**
 – I don't drink alcohol anymore.  
-**mi no _le_ gulu yo alkohol.**
+**mi no _le_ gul yo alkohol.**
 – I haven't drank alcohol.  
 **mi _le_ dona la buku do yemon.**
 – I have given the book to them. (They still have it and I don't.)  
@@ -130,7 +130,7 @@ and it is relevant only as an experience.
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas keka la France.**
 – I have visited France.  
-**mi pas ada gulu yo bir.**
+**mi pas ada gul yo bir.**
 – I used to drink beer. / I had a habit of drinking beer.
 
 **sha**
@@ -139,6 +139,6 @@ indicates that the event will take place later or in the future.
 
 **ye _sha_ si guru.**
 – He or she shall be a teacher.  
-**mi no _sha_ gulu un bir.**
+**mi no _sha_ gul un bir.**
 – I will not drink a beer.
 
