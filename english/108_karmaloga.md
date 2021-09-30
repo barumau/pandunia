@@ -124,9 +124,9 @@ You can think of it somewhat like the past perfect in English (_I have done_, _I
 – I have come to the city.
 
 **pas**
-('pass', 'go past', 'go through')
-indicates that a situation is over
-and it is relevant only as an experience.
+('pass, go past, go through')
+indicates that an action is finished and is no longer relevant to the current situation.
+You can think of it somewhat like the past simple in English (I finished, I ate).
 
 **mi pas don la buku do yemon.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
