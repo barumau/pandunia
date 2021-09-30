@@ -1,6 +1,6 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "#asar da mul basha da pandunia" > pandunia/asar_da_mulbax.md
+   echo "# asar da mula basha da pandunia" > pandunia/asar_da_mulbax.md
    echo "" >> pandunia/asar_da_mulbax.md
    echo "| basha | asar |" >> pandunia/asar_da_mulbax.md
    echo "|-------|--------|" >> pandunia/asar_da_mulbax.md

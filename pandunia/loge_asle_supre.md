@@ -30,5 +30,5 @@ pandunia di loga ya lai ze poli basha da dunia.
     - (tur) turki
     - (fas) farsi
 
-| pandunia | loga di asli |
+| pandunia | loga su asal |
 |----------|--------------|

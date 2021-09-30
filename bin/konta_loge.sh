@@ -1,8 +1,8 @@
 #!/bin/bash
 kitaba_pike() {
-   echo "#numbe da pandunia loga ze ali basha" > pandunia/loga_di_numbe.md
+   echo "# nomer da pandunia loga ze alo basha" > pandunia/loga_di_numbe.md
    echo "" >> pandunia/loga_di_numbe.md
-   echo "| basha | numbe | fen |" >> pandunia/loga_di_numbe.md
+   echo "| basha | nomer | fen |" >> pandunia/loga_di_numbe.md
    echo "|-------|-------|-----|" >> pandunia/loga_di_numbe.md
    cat temp/stats.txt >> pandunia/loga_di_numbe.md
 }
