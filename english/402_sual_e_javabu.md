@@ -207,21 +207,21 @@ used in other languages in the table below.
 - Letters that correspond usually to different sounds in Pandunia
   and in the compared language are listed under DIFFERENT.
 
-| ALPHABET         | SIMILAR                                                 | MISSING |DIFFERENT    |
-|:-----------------|---------------------------------------------------------|---------|-------------|
-| Pandunia         | a b c ch d e f g h i j k l m n o p r s sh t u v   x y z |         |             |
-| Indian Romaniz.  | a b   ch d e f g h i j k l m n o p r s sh t u v     y z | x       |             |
-| Malay/Indonesian | a b      d e f g h i j k l m n o p r s    t u   w   y z | v x     |             |
-| Hausa            | a b      d e f g h i j k l m n o p r s    t u   w   y z | v x     |             |
-| Chinese Pinyin   | a b c ch d   f g h i j k l m n o p r s sh t u   w   y   | v       | e x z       |
-| Swahili          | a b   ch d e f g h i j k l m n o p r s sh t u v w   y z | c x     |             |
-| Japanese Romaji  | a b   ch d e   g h i j k l m n o p   s sh t u   w   y z | v c x   | f r         |
-| Portuguese       | a b c    d e f g   i   k l m n o p r s    t u v   x   z | y       | h j         |
-| English          |   b c ch d   f g h i j k l m n o p r s sh t   v w x y z |         | a e u x     |
-| French           | a b c    d e f g   i   k l m n o p   s    t u v w x y z |         | h j r x     |
-| Spanish          | a b c    d e f g   i   k l m n o p r s    t u v   x y   |         | h j x z     |
-| German           | a b c    d e f g h i   k l m n o p r s    t u v   x     |         | j x y z     |
-| Vietnamese       | a b   ch   e   g h i   k l m n o p r      t u v     y   | f j z   | c d s x     |
+| ALPHABET         | SIMILAR                                           | MISSING |DIFFERENT    |
+|:-----------------|---------------------------------------------------|---------|-------------|
+| Pandunia         | a b ch d e f g h i j k l m n o p r s sh t u v y z |         |             |
+| Indian Romaniz.  | a b ch d e f g h i j k l m n o p r s sh t u v y z |         |             |
+| Malay/Indonesian | a b    d e f g h i j k l m n o p r s    t u   y z | v       |             |
+| Hausa            | a b    d e f g h i j k l m n o p r s    t u   y z | v       |             |
+| Chinese Pinyin   | a b ch d   f g h i j k l m n o p r s sh t u   y   | v       | e z         |
+| Swahili          | a b ch d e f g h i j k l m n o p r s sh t u v y z |         |             |
+| Japanese Romaji  | a b ch d e   g h i j k l m n o p   s sh t u   y z | v       | f r         |
+| Portuguese       | a b    d e f g   i   k l m n o p r s    t u v   z | y       | h j         |
+| English          |   b ch d   f g h i j k l m n o p r s sh t   v y z |         | a e u       |
+| French           | a b    d e f g   i   k l m n o p   s    t u v y z |         | h j r       |
+| Spanish          | a b    d e f g   i   k l m n o p r s    t u v y   |         | h j z       |
+| German           | a b    d e f g h i   k l m n o p r s    t u v     |         | j y z       |
+| Vietnamese       | a b ch   e   g h i   k l m n o p r      t u v y   | f j z   | d s         |
 
 
 ## Grammar
@@ -268,7 +268,7 @@ In Pandunia, only (4) is used,
 which means that words don't ever change
 but they can be only combined to create longer words.
 For example,
-**noveta** ('newness') can be created from **nove** ('new').
+**nove ta** ('newness') can be created from **nove** ('new').
 
 
 ## Vocabulary

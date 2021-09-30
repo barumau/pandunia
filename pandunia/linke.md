@@ -2,7 +2,7 @@
 
 ## na pandunia
  
-[mas ka basa](https://maxkabas.wordpress.com/) - bloge
+[mas ka bas](https://maxkabas.wordpress.com/) - bloge
 
 ## na esperante
 

@@ -125,7 +125,7 @@ which indicates a modality such as desire, permission or obligation.
 – I want you to eat vegetables. (desire)  
 **mi sel tu yam ba fito.**
 – I advise you to eat vegetables. (advice)  
-**mi las tu yam ba fito.**
+**mi halal tu yam ba fito.**
 – I allow you to eat vegetables. (permission)  
 **mi bil tu yam ba fito.**
 – I enable you to eat vegetables. (ability)  
@@ -155,11 +155,11 @@ The verbs before it are modal verbs.
 – You want to eat vegetables. (desire)  
 **tu sel yam yo fito.**
 – You had better eat vegetables. (advice)  
-**tu las yam yo fito.**
+**tu halal yam yo fito.**
 – You may eat vegetables. (permission)  
 **tu bil yam yo fito.**
 – You can eat vegetables. (ability)  
-**tu rai yam yo fito.**
+**tu mus yam yo fito.**
 – You must eat vegetables. (obligation)
 
 ## Pronoun dropping

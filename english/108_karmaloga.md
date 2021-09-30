@@ -53,15 +53,15 @@ which are introduced next.
 
 The relationship of an action, event or state to time is indicated with auxiliary verbs.
 
-**kai**
+**shuru**
 ('begin, start')
 indicates beginning of an action or transition to a new situation.
 
-**mi kai fuku la kote.**
+**mi shuru fuku la kote.**
 – I start wearing the coat. = I put the coat on.  
-**kaguji ya kai hoge.**
+**kaguji ya shuru hogo.**
 – Paper starts to burn.  
-**tu kai yam.**
+**tu shuru yam.**
 – You start to eat.
 
 **fin**
@@ -130,7 +130,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 
 **mi pas don la buku do yemon.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
-**mi pas visite la France.**
+**mi pas keka la France.**
 – I have visited France.  
 **mi pas ada gul yo bir.**
 – I used to drink beer. / I had a habit of drinking beer.  

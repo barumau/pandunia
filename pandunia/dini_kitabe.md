@@ -7,7 +7,7 @@ santa tu su nam,
 lai tu su raja desha,
 karma tu su icha  
 na geo e na sama.
-ching dona mimon su pan den su pang do mimon.
+ching don mimon su pan den su pang do mimon.
 ching maf mimon su dosha,
 ka mimon maf yemon jo maf mimon.  
 ching no lida mimon do tenta  
