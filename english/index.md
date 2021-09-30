@@ -39,7 +39,6 @@ It includes simpler grammar, more international word forms, and many new words.
 
 ## Texts
 
-- [The rich man and the poor man](rici_man_i_miskin_man.md)
 - [Fandom Wiki in Pandunia](https://pandunia.fandom.com/)
 
 ## Articles
