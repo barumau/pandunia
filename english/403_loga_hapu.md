@@ -12,8 +12,7 @@ and the _hard c_ is written with a **k**.
 |----------|----------|--------------------|
 | c (hard) | k        | café > **kafe**, copy > **kopi**, cup > **kupa** |
 | c (soft) | s        | city > **siti** |
-| g (hard) | g        | gazelle > **gazel** |
-| g (soft) | j        | giraffe > **jirafa** |
+| g        | g        | logic > **logika** |
 | s        | s / z    | **s**ol > **sol**, ma**ss**age > **masaje**, ro**s**e > **roza** |
 | ch (Greek)| h       | chaos > **haos**, cholera > **holera** |
 | ch (French) | sh    | chic > **shike** |
@@ -22,7 +21,6 @@ and the _hard c_ is written with a **k**.
 | qu       | k        | mosquito > **moskite** |
 | x        | ks       | galaxy > **galaksi** |
 | -tion    | si       | nation > **nasi**, function > **funsi** |
-|          |          | |
 
 
 ## Sinitic words

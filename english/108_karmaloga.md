@@ -53,15 +53,15 @@ which are introduced next.
 
 The relationship of an action, event or state to time is indicated with auxiliary verbs.
 
-**kai**
+**shuru**
 ('begin', 'start')
 indicates beginning of an action or transition to a new situation.
 
-**mi kai fuku la kote.**
+**mi shuru fuku la kote.**
 – I start wearing the coat. = I put the coat on.  
-**kaguje ya kai hoge.**
+**kaguji ya shuru hogo.**
 – Paper starts to burn.  
-**tu kai yam.**
+**tu shuru yam.**
 – You start to eat.
 
 **halte**
@@ -70,7 +70,7 @@ conveys the idea of "to stop doing something".
 
 **yemon halte haha.**
 – They stopped laughing.  
-**kaguji ya halte hoge.**
+**kaguji ya halte hogo.**
 – Paper ceased to burn.
 
 **fin**
@@ -89,18 +89,18 @@ indicates that a situation is ongoing.
 **mi zai yam un piza.**
 – I am eating a pizza.
 
-**dur**
+**dura**
 ('keep on', 'continue', 'proceed')
 indicates that a situation is continuing or in progress.
 
-**mi dur yam la pizza.**
+**mi dura yam la pizza.**
 – I keep on eating the pizza.
 
 **ada**
 ('have a habit', 'be used to')
 indicates that an action is done regularly.
 
-**mi ada gul yo bir.**
+**mi ada gulu yo bir.**
 – I have a habit of drinking beer.
 
 **le**
@@ -110,15 +110,15 @@ It brings attention to the consequences of a past action to the current situatio
 
 **ye _le_ si guru.**
 – He or she is a teacher now.  
-**mi _le_ no gul yo alkohol.**
+**mi _le_ no gulu yo alkohol.**
 – I don't drink alcohol anymore.  
-**mi no _le_ gul yo alkohol.**
+**mi no _le_ gulu yo alkohol.**
 – I haven't drank alcohol.  
-**mi _le_ don la buku do yemon.**
+**mi _le_ dona la buku do yemon.**
 – I have given the book to them. (They still have it and I don't.)  
-**yemon no _le_ don ye re do mi.**
+**yemon no _le_ dona ye re do mi.**
 – They haven't given it back to me.  
-**mi le do siti.**
+**mi _le_ do siti.**
 – I have come to the city.
 
 **pas**
@@ -126,11 +126,11 @@ It brings attention to the consequences of a past action to the current situatio
 indicates that a situation is over
 and it is relevant only as an experience.
 
-**mi pas don la buku do yemon.**
+**mi pas dona la buku do yemon.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
-**mi pas visite la France.**
+**mi pas keka la France.**
 – I have visited France.  
-**mi pas ada gul yo bir.**
+**mi pas ada gulu yo bir.**
 – I used to drink beer. / I had a habit of drinking beer.
 
 **sha**
@@ -139,6 +139,6 @@ indicates that the event will take place later or in the future.
 
 **ye _sha_ si guru.**
 – He or she shall be a teacher.  
-**mi no _sha_ gul un bir.**
+**mi no _sha_ gulu un bir.**
 – I will not drink a beer.
 
