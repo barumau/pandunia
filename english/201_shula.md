@@ -819,7 +819,7 @@ Try translating these sentences from English to Pandunia.
 2. I used to have two dogs.	
 3. You are eating soup right now.
 4. She cleaned the room the day before.
-5. The cat will drink coffee tomorrow.
+5. The cat will drink milk tomorrow.
 6. Your mother partied last night.
 
 ### Word List
@@ -835,7 +835,9 @@ to hit, to beat
 **pang**
 bread  
 **suba yam**
-morning meal, breakfast
+morning meal, breakfast  
+**milke**
+milk
 
 ### Answers to the Exercises
 
@@ -843,6 +845,6 @@ morning meal, breakfast
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
 4. ye safa kamar na chen den.
-5. mau yam kafe na pos den.
+5. mau yam milke na pos den.
 6. tu su mama festa na chen noche.
 
