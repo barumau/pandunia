@@ -600,7 +600,7 @@ and even numeral.
 
 **ye no ten mau.**
 = She doesn't have a cat.  
-**ye ten no mau, ama vaf.**
+**ye ten no mau, a vaf.**
 = She has no cats but dogs.  
 **no ye, a mi ten mau.**
 = Not she but I have cats.  
