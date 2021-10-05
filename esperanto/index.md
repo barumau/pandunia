@@ -3,7 +3,7 @@
 Saluton, mondo!
 Bonvenon al lerni pri pandunio, la egale monda helpolingvo!
 
-![](http://www.pandunia.info/grafe/halou_dunia.png "halou dunia!")  
+![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Bildo de [Freepik](http://www.freepik.com)</small>
 
 ## Kio estas pandunio?
