@@ -1,4 +1,28 @@
-# pandunia-english
+# Pandunia–English word list
+
+This word list consists of words in Pandunia and their translations to English.
+The list is arranged in the alphabetical order by Pandunia base words.
+
+Each dictionary entry consists of a word or compound word in Pandunia and its translation to English.
+There is only one translation
+when the meaning of the word and the meaning of its English translation are almost or completely the same.
+
+> aple - apple  
+> arane - spider
+
+When the Pandunia word can be translated in more than one way,
+the most common translation is first
+and it is followed by more specific translations inside parenthesis.
+
+> chira - tear (rip, split)
+
+If there is more than one meaning,
+they are separated by the semicolon.
+
+> ching - ask (request, beg, plead; please)
+
+---
+
 ####A - A  
 a - but (rather)  
 a min da - except (minus)  
@@ -281,7 +305,7 @@ barti - Indian
 Barti Hai - Indian Ocean  
 baru - bear  
 barude - gunpowder  
-basa - enough (sufficient)  
+bas - enough (sufficient)  
 basen - pool (basin, bowl)  
 basha - speak (talk, language, communication)  
 basha jinse - grammatical gender  
@@ -320,7 +344,7 @@ be dai - grow (get bigger)
 be dara - flow  
 be dom - live in (reside in, inhabit)  
 be duka - grieve  
-be dura - last (take time; during)  
+be dur - last (take time; during)  
 be emosi - feel  
 be estasi - stand still  
 be fatige - get tired (become weary)  
@@ -750,9 +774,9 @@ dom zeze - housefly
 Dominika - Dominica  
 Dominika Komunkrati - Dominican Republic  
 domino gem - dominoes  
-dona - give  
-dona she - gift  
-dona tabi - generous (open-handed)  
+don - give  
+don she - gift  
+don tabi - generous (open-handed)  
 dong - east (orient)  
 dong di - eastern  
 dong gorila - eastern gorilla  
@@ -794,11 +818,11 @@ duman - smoke
 dunia - world  
 dunia basha - world language  
 dunia di - global  
-dura - duration (time interval)  
-dura bil - durable (endurable, sustainable)  
-dura di - chronic (lasting)  
-dura metre gi - stopwatch  
-dura zaman - period (era, epoch, term)  
+dur - duration (time interval)  
+dur bil - durable (endurable, sustainable)  
+dur di - chronic (lasting)  
+dur metre gi - stopwatch  
+dur zaman - period (era, epoch, term)  
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dus darja - downgrade  
 dus deu sim - dystheism (maltheism)  
@@ -927,7 +951,7 @@ fa dom - accommodate
 fa dosil - tame (train)  
 fa dosil jene - domesticate (cultivate)  
 fa duka - sadden (make sad)  
-fa dura - pass (spend time, put time into)  
+fa dur - pass (spend time, put time into)  
 fa dus forma - disfigure  
 fa dus nam - insult (offend, call names)  
 fa english kitabu - anglicize  
@@ -1188,7 +1212,7 @@ fem sim - feminism
 fem sim ja - feminist  
 fen - part (component, segment, fraction, distinct element of something larger)  
 fen di - partial  
-fen dona - contribute  
+fen don - contribute  
 fen gata - analysis (dissection)  
 fermi yum - fermium  
 fero - iron  
@@ -1473,8 +1497,8 @@ gui - ogre (troll, goblin)
 gui papi - oriental poppy  
 gujarati - Gujarati  
 guku hua - florist's chrysanthemum  
-gul - ghoul  
-gulu - swallow  
+gule - ghoul  
+gul - swallow  
 guma - drum  
 gun - army  
 gun jen - soldier  
@@ -1742,7 +1766,7 @@ jebe - pocket
 jebra - algebra  
 jeka - borrow (lend)  
 jeka deku - borrow  
-jeka dona - lend  
+jeka don - lend  
 jeka loga - loanword  
 jela - prison (imprisonment)  
 jela ja - jailer (imprisoner)  
@@ -2004,7 +2028,7 @@ kio - bridge
 kioske - kiosk  
 Kipris - Cyprus  
 kira - carat  
-kira dona - rent out (let, lease)  
+kira don - rent out (let, lease)  
 kira kape - rent (charter, lease)  
 kirate - carat  
 Kirgize - Kyrgyzstan  
@@ -2297,8 +2321,8 @@ loka di - local
 lona - discussion (debate, discourse)  
 London - London  
 long - long (lengthy)  
-long dura - for a long time  
-long dura di - long (long-lasting, prolonged)  
+long dur - for a long time  
+long dur di - long (long-lasting, prolonged)  
 long kata - novel  
 long krokodil - crocodile  
 long pipre - long pepper (pipli)  
@@ -2402,7 +2426,7 @@ mas fili - prefer (favor)
 mas fili di - favorite (preferred)  
 mas fili sim - favoritism  
 mas gun - reinforcements  
-mas ka basa - too much  
+mas ka bas - too much  
 masa - mass (quantity of matter)  
 masa mula - tuber (bulb)  
 masa mula sol hua - Jerusalem artichoke (sunroot)  
@@ -2525,7 +2549,7 @@ mimon - we
 mimon su - our  
 min - less  
 min di fen - minority  
-min ka basa - too little  
+min ka bas - too little  
 min poli - less (fewer)  
 minare - tower  
 ming - bright (brilliant, clear)  
@@ -2717,7 +2741,7 @@ nerve toksi - neurotoxin
 nesi - island  
 nesi jama - archipelago (island chain)  
 nete - net (web, mesh)  
-nete dona - upload  
+nete don - upload  
 nete gete - download  
 nete loka - website  
 Nevis - Nevis  
@@ -3346,8 +3370,8 @@ sar kesha hin - bald-headed
 sar oste - skull  
 sata - moment (instant)  
 sata di - momentary  
-sata dona - dedicate (devote)  
-sata dona ta - dedication (devotion)  
+sata don - dedicate (devote)  
+sata don ta - dedication (devotion)  
 Saturne - Saturn  
 Saudi Arabia - Saudi Arabia  
 sauna - sauna  
@@ -3481,7 +3505,7 @@ shuru di - initial (first)
 shush - hush (shh)  
 shush di - silent  
 si - be  
-si dura - elapse (pass by, go by)  
+si dur - elapse (pass by, go by)  
 si ja - being (entity)  
 si membre - belong (be a member)  
 sian - cyan  

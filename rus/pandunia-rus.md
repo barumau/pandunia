@@ -1,3 +1,4 @@
+# pandunia-rus
 ####A - A  
 a - а (но)  
 abies - пихта  
@@ -128,7 +129,7 @@ barde - борода
 bari fon - ударение  
 bari yum - барий  
 baru - медведь  
-basa - достаточно (довольно)  
+bas - достаточно (довольно)  
 basen - бассейн  
 basha - язык  
 basha jinse - род в грамматике  
@@ -146,7 +147,7 @@ be bio mute - заквасить
 be boi - плавать  
 be bum - взрываться  
 be bum - взрываться  
-be dura - длиться  
+be dur - длиться  
 be fatige - устать  
 be fobi - бояться (страшиться)  
 be in bum - взрываться вовнутрь  
@@ -320,7 +321,7 @@ dom desha - родина (отечество)
 dom di - домашний  
 dom zeze - муха  
 Dominika Komunkrati - Доминиканская Республика  
-dona tabi - щедрый  
+don tabi - щедрый  
 dong - восток (ост)  
 dong gorila - восточная горилла  
 dosil - кроткий  
@@ -333,10 +334,10 @@ dubna yum - дубний, ²нильсборий
 dudu - насекомое  
 duku - читать  
 dunia - мир (свет)  
-dura bil - долговечный  
-dura di - хронический  
-dura metre gi - секундомер  
-dura zaman - период (эпоха)  
+dur bil - долговечный  
+dur di - хронический  
+dur metre gi - секундомер  
+dur zaman - период (эпоха)  
 dus jen - враг (противник)  
 dus sin di - зловещий  
 dus vide - безобразный (некрасивый)  
@@ -541,8 +542,8 @@ guai - странный
 gubu - гиппопотам  
 gui papi - мак восточный  
 guku hua - хризантема садовая  
-gul - гуль (вурдалак)  
-gulu - глотать  
+gule - гуль (вурдалак)  
+gul - глотать  
 gun - армия  
 gun jen - солдат  
 gun raja - генералиссимус  
@@ -881,8 +882,8 @@ loge - запись
 loge buku - судовой журнал  
 logi safar ja - исследователь  
 loka - место  
-long dura - долго  
-long dura di - долгий (длительный)  
+long dur - долго  
+long dur di - долгий (длительный)  
 long kata - роман  
 long pipre - перец длинный  
 long tire - вытянуть  

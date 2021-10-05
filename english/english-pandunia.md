@@ -1,4 +1,4 @@
-# english-pandunia
+# english–pandunia
 -ness, (-ity) - ta  
 -th (ordinal suffix) - me  
 @ symbol - adres zi  
@@ -679,7 +679,7 @@ Christian - mesi din ja
 Christianity - mesi din  
 Christmas - mesi jene  
 chromium - krom yum  
-chronic (lasting) - dura di  
+chronic (lasting) - dur di  
 chum salmon - baku salmon  
 church - eglisa  
 cigarette (cigar) - sigar  
@@ -814,7 +814,7 @@ content - in she
 continue (go on, keep on, carry on, proceed, still, yet) - zoku  
 continue (resume) - re zoku  
 continuous (analog) - zoku di  
-contribute - fen dona  
+contribute - fen don  
 conventional (customary, traditional) - suna di  
 cook (chef) - kuke ja  
 cook (prepare food) - kuke  
@@ -960,8 +960,8 @@ decorate (embellish) - fa sundar daka
 decoration (ornament) - sundar daka  
 decrease (lessen) - fa min  
 decrement - fa min darja  
-dedicate (devote) - sata dona  
-dedication (devotion) - sata dona ta  
+dedicate (devote) - sata don  
+dedication (devotion) - sata don ta  
 deed (fact) - fate  
 deem (opine, think that) - fa rai  
 deep - fase tele  
@@ -1090,8 +1090,8 @@ dump (junk yard) - laji bagi
 dumpling (ravioli, pelmeni) - pelmen  
 dungeon (underground prison) - geo niche jela  
 dungeon crawl - donjon ventur  
-durable (endurable, sustainable) - dura bil  
-duration (time interval) - dura  
+durable (endurable, sustainable) - dur bil  
+duration (time interval) - dur  
 duruka - yam sukar gana  
 dust (powder) - fun  
 dye - rang mate  
@@ -1130,7 +1130,7 @@ Egyptian - misri di
 eight (8) - bati  
 einsteinium - einstein yum  
 El Salvador - Salvador  
-elapse (pass by, go by) - si dura  
+elapse (pass by, go by) - si dur  
 elastic - elasti  
 elbow - kudi  
 elder - lau jen  
@@ -1168,7 +1168,7 @@ English - english di
 English daisy - english margarita  
 English oak - europa baluta  
 enjoy (play) - be vanu  
-enough (sufficient) - basa  
+enough (sufficient) - bas  
 enter (get in) - be in  
 enter (insert, put in) - fa in  
 entrance - jin mun  
@@ -1383,7 +1383,7 @@ fool (buffoon) - bufon
 foot - fute  
 football (soccer) - fute bol  
 footprint - fute marke  
-for a long time - long dura  
+for a long time - long dur  
 for example - do misal  
 forbid (ban, disallow) - fa haram  
 forbidden (illicit, haram, taboo) - haram  
@@ -1473,7 +1473,7 @@ genderqueer (non-binary) - nobi
 genealogy (study of descent) - jene logi  
 generalissimo (shogun) - gun raja  
 generation (cohort) - jene grupe  
-generous (open-handed) - dona tabi  
+generous (open-handed) - don tabi  
 genotype - jene tipe  
 geography - geo grafi  
 geology - geo logi  
@@ -1494,15 +1494,15 @@ getter (receiver, recipient) - deku ja
 Ghana - Gana  
 gherkin (pickle) - achar hiyar  
 ghost (phantom) - fantom  
-ghoul - gul  
+ghoul - gule  
 giant onion - dai lasun  
 Gibraltar - Jibraltar  
-gift - dona she  
+gift - don she  
 ginger - zinji  
 ginseng - jenshen  
 giraffe - jirafa  
 girl - jovan fem  
-give - dona  
+give - don  
 give birth (beget, generate, breed) - fa jene  
 give consultation - kon sel  
 glass - kancha  
@@ -1965,7 +1965,7 @@ lapis lazuli - lazur petra
 larva (maggot, caterpillar) - larva  
 lasagna - lazanya  
 last (final) - fin me  
-last (take time; during) - be dura  
+last (take time; during) - be dur  
 latch - kane sor  
 later (after) - pos  
 lateral (horizontal) - late di  
@@ -2000,7 +2000,7 @@ leftist (left-winger) - lefte sim ja
 leftover (residue, vestige) - lashe she  
 leg - fute shaka  
 lemon - limon  
-lend - jeka dona  
+lend - jeka don  
 length - long ta  
 lengthen (prolong) - fa long  
 lens - lense  
@@ -2077,7 +2077,7 @@ logophile (word buff) - loga fili ja
 logophilia - loga fili  
 London - London  
 long (lengthy) - long  
-long (long-lasting, prolonged) - long dura di  
+long (long-lasting, prolonged) - long dur di  
 long (over a gread distance) - do long  
 long pepper (pipli) - long pipre  
 longitude - ging darja  
@@ -2678,7 +2678,7 @@ party (group) - parti
 pascal (Pa) - paskal  
 pass (go across or through) - pas  
 pass (passage) - pas dau  
-pass (spend time, put time into) - fa dura  
+pass (spend time, put time into) - fa dur  
 passive (inactive) - pastabi  
 passport - pasporte  
 password (security code) - sekur kode  
@@ -2719,7 +2719,7 @@ pepper (peppercorn) - pipre
 peppermint - pipre minta  
 perfect (optimize, refine, polish) - fa pul bon  
 perfect - pul bon  
-period (era, epoch, term) - dura zaman  
+period (era, epoch, term) - dur zaman  
 peripheral - kinar di  
 perish (ruin, waste away) - perishe  
 perished (ruined, desolate, wretched, miserable) - perishe di  
@@ -3041,7 +3041,7 @@ remove (delete, dispose, erase) - fa an zai
 remove (take away) - fa for  
 renew (make new, renovate) - fa nove  
 rent (charter, lease) - kira kape  
-rent out (let, lease) - kira dona  
+rent out (let, lease) - kira don  
 repair (fix) - shuli  
 repair (fix, mend) - shuli  
 repairer - shulija  
@@ -3501,7 +3501,7 @@ stop (halt) - be halte
 stop (halt) - fa halte  
 stop (halt) - halte  
 stopper (cap, peg, tap) - tapa  
-stopwatch - dura metre gi  
+stopwatch - dur metre gi  
 storm (tempest, typhoon, hurricane, cyclone) - tafun  
 straight - orto  
 straighten - fa orto  
@@ -3563,7 +3563,7 @@ sushi - sushi
 suture (seam) - sutur  
 Svalbard - Sualbarde  
 Swahili - suahili  
-swallow - gulu  
+swallow - gul  
 swastika (hooked cross) - huke krus  
 sweat (perspiration) - sueda  
 sweaty - sueda di  
@@ -3742,8 +3742,8 @@ tone (note, pitch, shade) - ton
 Tonga - Tonga  
 tongue - lisan  
 tonne (metric ton) - mega gram  
-too little - min ka basa  
-too much - mas ka basa  
+too little - min ka bas  
+too much - mas ka bas  
 tool - tul  
 tooth - dante  
 tooth brush - dante brosha  
@@ -3858,7 +3858,7 @@ unplug (uncork) - an tapa
 unrest - an pase  
 until (til, up to) - hata  
 upgrade (level up) - bon darja  
-upload - nete dona  
+upload - nete don  
 upper - supra di  
 uranium - uran yum  
 Uranus - Uran  

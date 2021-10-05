@@ -220,7 +220,7 @@ barti - indien
 Barti Hai - océan Indien  
 baru - ours  
 barude - poudre à canon  
-basa - assez  
+bas - assez  
 basen - bassin  
 basha - langue  
 basha jinse - genre grammatical  
@@ -240,7 +240,7 @@ be bio mute - fermenter
 be boi - nagar (flotter)  
 be bum - exploser (détoner)  
 be dom - vivre (habiter)  
-be dura - durer  
+be dur - durer  
 be fobi - craindre (avoir peur)  
 be hapu - convenir (être approprié)  
 be in - entrer  
@@ -403,7 +403,7 @@ dom - foyer (domicile)
 dom desha - patrie  
 dom di - domestique  
 dom zeze - mouche  
-dona tabi - généreux  
+don tabi - généreux  
 dong - east (orient)  
 dosil - docile (insipide)  
 dosil jene di - domestiqué (apprivoisé)  
@@ -414,9 +414,9 @@ dubna yum - dubnium
 dudu - insecte  
 duku - lire  
 dunia - monde  
-dura - durée  
-dura di - chronique  
-dura metre gi - chronomètre  
+dur - durée  
+dur di - chronique  
+dur metre gi - chronomètre  
 dus jen - ennemi  
 dus karma - méfait (péché)  
 dus vide - laid (vilain)  
@@ -466,7 +466,7 @@ fa dante - mordre
 fa dika - viser  
 fa dosil - apprivoiser (dresser, dompter, discipliner)  
 fa dosil jene - domestiquer (apprivoiser)  
-fa dura - passer  
+fa dur - passer  
 fa dus forma - défigurer  
 fa estude - étudier  
 fa fatu - punir  
@@ -657,7 +657,7 @@ grupe - groupe
 guai - bizarre  
 gubu - hippopotame   
 gui papi - pavot d'Orient  
-gul - goule  
+gule - goule  
 gun - armée  
 gun jen - soldat  
 gun raja - généralissime  
@@ -766,7 +766,7 @@ javabu - réponse
 Jayer - Algérie  
 jeka - prêter (empruntre)  
 jeka deku - empruntre  
-jeka dona - prêter  
+jeka don - prêter  
 jela kan - prison (geôle)  
 jen - personne  
 jene basha - langue maternelle  
@@ -1016,8 +1016,8 @@ loge buku - livre de bord
 loka - lieu  
 loka di - local  
 long - long  
-long dura - longtemps  
-long dura di - prolongé  
+long dur - longtemps  
+long dur di - prolongé  
 long kata - roman  
 long krokodil - crocodile  
 long pipre - poivre long  
@@ -1509,7 +1509,7 @@ shuli - réparer
 shulija - réparateur  
 shuru - début (commencement)  
 si - être  
-si dura - se passer  
+si dur - se passer  
 siborge yum - seaborgium  
 sifa loga - adjectif  
 sigar - cigarette  

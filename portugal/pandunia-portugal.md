@@ -113,7 +113,7 @@ barde - barba
 bari fon - acento  
 bari yum - bário  
 baru - urso  
-basa - bastante (suficiente)  
+bas - bastante (suficiente)  
 basen - bacia  
 basha - língua (idioma)  
 basha jinse - gênero gramatical  
@@ -132,7 +132,7 @@ be ais - gelar
 be bio mute - fermentar  
 be boi - nadar (flutuar)  
 be bum - explodir  
-be dura - durar  
+be dur - durar  
 be fobi - temer  
 be hogo - queimarse  
 be in - entrar  
@@ -288,7 +288,7 @@ dolfin - golfinho (delfim)
 dom - lar (casa)  
 dom desha - pátria  
 dom di - doméstico  
-dona tabi - generoso (dadivoso, mão-aberta)  
+don tabi - generoso (dadivoso, mão-aberta)  
 dong - este (leste)  
 dosti - amigo  
 du - dois (2)  
@@ -297,9 +297,9 @@ dubna yum - dúbnio
 dudu - inseto  
 duku - ler  
 dunia - mundo  
-dura - duração  
-dura di - crónico  
-dura metre gi - cronómetro  
+dur - duração  
+dur di - crónico  
+dur metre gi - cronómetro  
 dus jen - inimigo  
 dus karma - malfeitoria (pecado)  
 dus vide - feio  
@@ -595,7 +595,7 @@ jau - cevada
 javabu - resposta  
 jeka - emprestar (pedir emprestado)  
 jeka deku - pedir emprestado  
-jeka dona - emprestar  
+jeka don - emprestar  
 jen - pessoa  
 jene basha - língua materna  
 jene logi - genealogia  
@@ -833,8 +833,8 @@ loge buku - diário de bordo
 loka - lugar (local)  
 loka di - local  
 long - longo  
-long dura - por muito tempo  
-long dura di - prolongado  
+long dur - por muito tempo  
+long dur di - prolongado  
 long kata - romance  
 long krokodil - crocodilo  
 long tire - estirar  
@@ -1284,7 +1284,7 @@ shuli - reparar
 shulija - reparador  
 shuru - começo (início, princípio)  
 si - ser (estar)  
-si dura - transcorrer  
+si dur - transcorrer  
 siborge yum - seabórgio  
 sifa loga - adjetivo  
 sigar - cigarro  

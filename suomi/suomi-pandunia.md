@@ -1,4 +1,4 @@
-# suomi-pandunia
+# suomi–pandunia
 -a (adjektiva partiklo) - di  
 -n (oma) - su  
 ####A - A  
@@ -33,9 +33,9 @@ aie (aikomus, tarkoitus) - nia
 aihe (teema) - tema  
 aiheesta (-sta) - tema  
 aiheuttaa (olla syynä) - fa sabu  
-aika (kesto, kestoaika) - dura  
+aika (kesto, kestoaika) - dur  
 aika - zaman  
-aikakausi - dura zaman  
+aikakausi - dur zaman  
 aikoa (meinata) - fa nia  
 aikuinen - matur  
 aina - pan sata  
@@ -120,12 +120,12 @@ ankkuri - angar
 annos - doze  
 anoppi - gami ma  
 ansiosta - shukur ze  
-antaa - dona  
+antaa - don  
 antaa anteeksi - fa maf  
 Antarktis - Antartika  
 anteeksi - maf  
 anteliaisuus (vieraanvaraisuus, hyväntekeväisyys) - karim  
-antelias (avokätinen) - dona tabi  
+antelias (avokätinen) - don tabi  
 antenni - antena  
 Antigua - Antigua  
 Antigua ja Barbuda - Antigua e Barbuda  
@@ -500,7 +500,7 @@ geoterminen (maalämpö-) - geo termo
 Germania - Germania  
 germanium - german yum  
 Ghana - Gana  
-ghouli - gul  
+ghouli - gule  
 Gibraltar - Jibraltar  
 ginseng - jenshen  
 gluteeni - gluten  
@@ -1074,7 +1074,7 @@ katsoja (tarkkailija) - vide ja
 kattava - in klus di  
 kattila - ketel  
 katto (katos) - chati  
-kauan (pitkän aikaa) - long dura  
+kauan (pitkän aikaa) - long dur  
 kauha - pote chamacha  
 kauhu (terrori) - teror  
 kaukainen - tele di  
@@ -1151,9 +1151,9 @@ keskiyö (puoliyö) - medi noche
 keskus (keskikohta) - jong  
 keskustelu (debatti) - fa lona  
 keskusteluhuone - blabla kan  
-kestävä (krooninen) - dura di  
-kestävä (luja) - dura bil  
-kestää (viedä aikaa) - be dura  
+kestävä (krooninen) - dur di  
+kestävä (luja) - dur bil  
+kestää (viedä aikaa) - be dur  
 kesy - dosil  
 kesytetty - dosil jene di  
 kesyttää - fa dosil  
@@ -1363,8 +1363,8 @@ kulombi (mittayksikkö C) - kulombe
 kulta (rakas) - ama jen  
 kulta - auro  
 kulttuuri - kultur  
-kulua (vieriä) - si dura  
-kuluttaa (viettää aikaa) - fa dura  
+kulua (vieriä) - si dur  
+kuluttaa (viettää aikaa) - fa dur  
 kumi - gomu  
 kumina - karavi  
 kumkvatti - gingam  
@@ -1491,7 +1491,7 @@ laatu (laadukkuus, erinomaisuus, hyvyys) - bon sifa ta
 laatu (ominaisuus, ominaispiirre, määrite) - sifa  
 laava - yung petra  
 Lagos - Lagos  
-lahja - dona she  
+lahja - don she  
 lahko (kultti) - din shia  
 lahti - baya  
 lainata (siteerata) - sita  
@@ -1582,8 +1582,8 @@ liettualainen - lietuva basha
 liha - nama  
 lihas - muskul  
 lihavoitu kirjain - gros zi  
-liian vähän - min ka basa  
-liikaa - mas ka basa  
+liian vähän - min ka bas  
+liikaa - mas ka bas  
 liike - kino  
 liike - move  
 liikemies - biznes ja  
@@ -2043,7 +2043,7 @@ neuvotella - fa biznes lona
 Nevis - Nevis  
 newton (N) - niuton  
 niedziela - var cheti  
-niellä - gulu  
+niellä - gul  
 niemi - yaki nesi  
 Niger - Nijer  
 Nigeria - Naijiria  
@@ -2186,7 +2186,7 @@ orpo - yatim
 orpokoti - yatim dom  
 orvokki - violeta  
 osa (lohko, pala) - fen  
-osallistua (tehdä osansa) - fen dona  
+osallistua (tehdä osansa) - fen don  
 osallistua - fa parti  
 osallistuja - parti ja  
 osapuoli (puolue) - parti  
@@ -2390,7 +2390,7 @@ pistää (piikittää) - fa pin
 Pitcairn - Pitkerne nesi  
 pitkittäinen - ging  
 pitkä - long  
-pitkäaikainen (pitkäkestoinen) - long dura di  
+pitkäaikainen (pitkäkestoinen) - long dur di  
 pitkäpippuri - long pipre  
 pitkästi (kauas) - do long  
 pitkästynyt - bori di  
@@ -2818,7 +2818,7 @@ seksi (sukupuolisuhde) - sekse
 seksikäs - sekse di  
 seksologia - sekse logi  
 sekunti - sekunde  
-sekuntikello - dura metre gi  
+sekuntikello - dur metre gi  
 selain - brauza gi  
 selata - brauza  
 seleeni - selen yum  
@@ -3137,7 +3137,7 @@ tappaja - mata ja
 tarha (piha) - bagi  
 tarha (puisto) - parke  
 tarkistaa (tsekata, tutkia) - cheke  
-tarpeeksi (riittävästi) - basa  
+tarpeeksi (riittävästi) - bas  
 tarpeellinen - yau di  
 tarpeeton - an yau di  
 tarra - glu grafi  
@@ -3667,7 +3667,7 @@ vuode (sänky, peti) - bede
 vuodenaika - mosim  
 vuohi - behe  
 vuokra - kira  
-vuokrata - kira dona  
+vuokrata - kira don  
 vuokrata - kira kape  
 vuono - fiorde  
 vuori (mäki) - san  

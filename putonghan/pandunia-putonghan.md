@@ -119,7 +119,7 @@ banya kamar - 浴室
 bari fon - 重音符号  
 bari yum - 钡  
 baru - 熊  
-basa - 够  
+bas - 够  
 basha - 语言  
 basha jinse - 文法的性  
 basha logi - 语言学  
@@ -303,9 +303,9 @@ dua - 祈祷
 dudu - 昆虫  
 duku - 读 (看)  
 dunia - 世界  
-dura - 时间  
-dura bil - 耐用的  
-dura metre gi - 秒表  
+dur - 时间  
+dur bil - 耐用的  
+dur metre gi - 秒表  
 dus - 难  
 dus jen - 敌人  
 dus sin di - 不祥的  
@@ -581,7 +581,7 @@ jau - 大麦
 javabu - 回答  
 jeka - 借  
 jeka deku - 借入  
-jeka dona - 借出  
+jeka don - 借出  
 jela kan - 监狱 (监牢)  
 jen - 人  
 jene basha - 母语  
@@ -802,7 +802,7 @@ loge buku - 航海日志
 loka - 地方  
 lona - 论  
 long - 长  
-long dura - 久  
+long dur - 久  
 long kata - 小说  
 long pipre - 荜拔  
 long tire - 拉  

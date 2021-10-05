@@ -8,7 +8,7 @@ theme: readthedocs
 nav:
     - ABC: abc.md
     - kata:
-        - 'la lili urse su pasi dante': urse_dante.md
+        - 'la lili baru su pasi dante': urse_dante.md
         - 'tri behe e un gui': 3_buze_e_guye.md
         - 'tri lili goro': 3_lil_gurube.md
     - kitabu:
