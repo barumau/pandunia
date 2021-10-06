@@ -13,6 +13,8 @@
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
 
 
+本文档不是泛世界语最终版本的最新版本。 有关最准确的信息，请参阅英文版本。
+
 给我们发电子邮件: risto@pandunia.info
 
 
