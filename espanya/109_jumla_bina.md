@@ -343,11 +343,11 @@ En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 ## Cláusulas de contento
 
 Una cláusula de contento puede ponerse antes o despues de la cláusula que habla sobre ella.
-El demostrativo **go** indica la frase siguiente, y **ni** indica la previa.
+El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 
 **go si bari, mi le no vide yemon.**
 – Este es importante: no he vida los.  
-**pan jen be egal sana, ni fate si klar.**
+**pan jen be egal sana, la fate si klar.**
 – Todas las personas se crean igual; este facto es claro.
 
 --------------------------------------------------------------------------------

@@ -27,7 +27,7 @@ Ella tiene gramático más sencillo, formas de palabras más internacional, y mu
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
-## ¿Cómo lo aprende?
+## ¿Cómo aprenderlo?
 
 - [Los básicos](baze.md) en una página corta
 - [Lecciones con diálogos](201_shula.md)

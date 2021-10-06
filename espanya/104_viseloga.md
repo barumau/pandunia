@@ -13,9 +13,9 @@ Pronombres pueden mantenerse en pie para sustantivos y frases nominales.
 | **ye**      | **yemon**    |
 | él, ella    | ellos, ellas |
 
-All pronouns can be used for all genders.
+Todos los pronombres pueden usarse para todos los géneros.
 
-The possessive pronouns consists of the personal pronoun and the possessive particle
+Los pronombres posesivos consisten en el pronombre personal y la partícula posesiva
 **su**.
 
 | Singular    | Plural       |
@@ -114,7 +114,7 @@ Arriba, **ni jumle** (_esta oración_) refiere a la oración que se está hablan
 – Te amo. Esa es la que significo.
 
 Arriba, **go she** refiere al contento de la oración siguiente,
-y **ni she** refiere al contento de la oración previa.
+y **la she** refiere al contento de la oración previa.
 
 
 ## Pronombres interogativos
