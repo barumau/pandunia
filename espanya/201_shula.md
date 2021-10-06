@@ -6,46 +6,48 @@ Presentación
 
 ### Diálogo
 
-![](http://www.pandunia.info/grafe/halou.png "halou!")
+![](http://www.pandunia.info/grafe/halo.png "halo!")
 
-<big>��</big>>
-**halou!**
+<big>��</big»
+**halo!**
 = ¡Hola!  
 <big>��</big>
 **salam!**
 = ¡Buenos!  
 <big>��</big>
-**te sa ke?**
+**tu si ke?**
 = ¿Quién es usted?  
 <big>🧔</big>
-**me sa Yusef. te sa ke?**
+**mi si Yusef. tu si ke?**
 = Yo soy Yusef. ¿Quién es usted?  
 <big>👩</big>
-**me sa Sara. le sa ke?**
+**mi si Sara. ye si ke?**
 Yo soy Sara. ¿Quién es?  
 <big>🧔</big>
-**le sa mi doste.**
+**ye si mi dosti.**
 = Es una amiga mia.  
 <big>👩</big>
-**li nam sa ke?**
+**ye su nam si ke?**
 = ¿Cómo se llama?  
 <big>🧔</big>
-**li nam sa Maria.**
+**ye su nam si Maria.**
 = Su nombre es Maria.
 
 ### Gramatica
 
-Frases de Pandunia normalmente sigue la estructura tema-comentario. El tema indica quién o qué se está hablando. El comentario dice algo sobre el tema. Por ejemplo, en **le si mi doste** el tema es el pronombre **le** (él, ella, ello), que es seguido por el comentario **si mi doste** (es amigo mío).
+Frases de Pandunia normalmente sigue la estructura tema-comentario. El tema indica quién o qué se está hablando. El comentario dice algo sobre el tema. Por ejemplo, en **ye si mi su dosti** el tema es el pronombre **ye** (él, ella, ello), que es seguido por el comentario **si mi su dosti** (es amigo mío).
 
 
-Del mismo modo puede describirse diciendo **me sa** seguida por una palabra que lo describa.
+Del mismo modo puede describirse diciendo **mi si** seguida por una palabra que lo describa.
 
-**me sa boni.**
+**mi si bon.**
 - Yo soy bueno.  
-**me sa man.**
+**mi si man.**
 - Soy un hombre.  
-**me sa fem.**
+**mi si fem.**
 - Soy una mujer.  
+**mi si nobi.**
+- No soy binario.
 
 
 ### Ejercicios
@@ -62,26 +64,27 @@ Intenta traducir estas frases de Español a Pandunia.
 
 ### Vocabulario
 
-**me**
-yo  
 **mi**
+yo  
+**mi su**
 mi  
-**te**
+**tu**
 tú, usted
-**ti**
+**tu su**
 tu  
-**le**
+**ye**
 él, ella, ello  
-**li**
+**ye su**
 su  
 **ke**
 quién? qué?  
-**sa**
+**si**
 ser  
-**no** no  
-**boni**
+**no**
+no  
+**bon**
 bueno  
-**doste**
+**dosti**
 amigo, amiga  
 **nam**
 nombre  
@@ -89,19 +92,21 @@ nombre
 mujer  
 **man**
 hombre  
+**nobi**
+no binario  
 **mau**
 gato  
-**hevan**
+**zou**
 animal
 
 ### Respuestas
 
-1. te sa ke?
-2. me sa tomas.
-3. ti doste sa ke?
-4. le sa Sara.
-5. ti nam sa ke?
-6. mi nam sa ........... 
+1. tu si ke?
+2. mi si tomas.
+3. tu su dosti si ke?
+4. ye si Sara.
+5. tu su nam si ke?
+6. mi su nam si ........... 
 
 
 ---------------------------------------------------------------------
@@ -120,42 +125,42 @@ Esta es la manera como se saludan las personas en Pandunia. Dicen **salam**. Es 
 La palabra **salam** significa saludo. (El origen de esta palabra es del árabe “salām”. Pandunia es una lengua planificada multicultural. Por eso en Pandunia es común encontrar que una sola palabra tenga origenes de diferentes idiomas.) 
 
 
-**me salama te.**
+**mi salam tu.**
 = Yo te saludo.  
-**te salama me.**
+**tu salam mi.**
 = Tú me saludas. Usted me saluda.
 
-**me salama te** es una oración activa. En las oraciones activas el
+**mi salam tu** es una oración activa. En las oraciones activas el
 sujeto realiza la acción del verbo y el objeto o complemento es el
-que la recibe. En este caso **me** es el sujeto, **salama** es el
-verbo (la acción), y **te** es el objeto. Su orden es importante.
+que la recibe. En este caso **mi** es el sujeto, **salam** es el
+verbo (la acción), y **tu** es el objeto. Su orden es importante.
 
 > Sujeto + Verbo + Objeto
 
-En Pandunia los pronombres personales son: **me** = yo, **te** = tú,
-usted, y **le** = él, ella, ello. Nota: los pronombres se mantienen
+En Pandunia los pronombres personales son: **mi** = yo, **tu** = tú,
+usted, y **ye** = él, ella, ello. Nota: los pronombres se mantienen
 igual a los dos ejemplos de las oraciones anteriores. Las palabras en
 Pandunia nunca cambian. Siempre se mantienen igual sin importar su
 posición o función en la oración.
 
 En Pandunia las oraciones pueden ser abreviadas dejando por fuera los pronombres que son evidentes en el contexto.
 
-**me salama te!**
+**me salam te!**
 = ¡Yo te saludo!  
-**salama te!**
+**salam te!**
 = ¡Saludos para usted! (Es obvio que el hablante es quien saluda.)  
-**salama!**
+**salam!**
 = ¡Saludos! (Es obvio que el oyente es saludado.)
 
-La forma de **salama tu** es útil para decir el nombre de la persona, parentesco o profesión.
+La forma de **salam tu** es útil para decir el nombre de la persona, parentesco o profesión.
 
-**halou, karolina!**
+**halo, karolina!**
 = ¡Hola, Carolina!  
-**salam, mame!**
+**salam, mama!**
 = ¡Hola, mamá!  
-**halou, pape!**
+**halo, papa!**
 = ¡Hola, papá!  
-**salam, xef!**
+**salam, shefe!**
 = ¡Hola, jefe!  
 
 
@@ -163,7 +168,7 @@ La forma de **salama tu** es útil para decir el nombre de la persona, parentesc
 
 Intenta traducir estas frases de Español a Pandunia.
 
-1. Tú la/lo saludas.
+1. Tú la saludas.
 2. Mamá saluda a papá.
 3. ¡Hola, mamá!
 4. ¡Adiós! 
@@ -171,23 +176,23 @@ Intenta traducir estas frases de Español a Pandunia.
 
 ### Vocabulario
 
-**salam, halou**
+**salam, halo**
 saludo; hola, adiós  
-**salama**
+**salam**
 saludar  
-**mame**
+**mama**
 mamá, madre, ma  
-**pape**
+**papa**
 padre, papá, pa  
-**xef*
+**shefe**
 jefe, patrón  
 
 
 ### Respuestas
 
-1. te salama le.
-2. mame salama pape.
-3. salam mame!
+1. tu salam ye.
+2. mama salam papa.
+3. salam mama!
 4. salam!
 
 
@@ -200,47 +205,47 @@ Pidiendo
 ### Diálogo
 
 <big>🧒</big>
-**halou!**
+**halo!**
 = ¡Hola!  
 <big>🧓</big>
-**halou! pliza sida.**
+**halo! ching side.**
 = ¡ Hola!¡ Por favor sientese!  
 <big>🧒</big>
-**danke.**
+**shukur.**
 = ¡Gracias!  
 <big>🧓</big>
-**pliza yama kafe o cai.**
+**ching yam yo kafe o chai.**
 = Por favor beba algo de café o té.  
 <big>🧒</big>
-**me vola cai. danke.**
+**mi vol chai. shukur.**
 = Quiero té, gracias.  
 ...  
 <big>🧓</big>
-**pliza salama ti mam!**
+**ching salam tu su mama!**
 = Por favor llevale saludos a tu madre.  
 <big>🧒</big>
-**me salama le. salam reste!**
+**mi salam ye. salam reste!**
 = Yo la saludo. ¡Adiós!  
 <big>🧓</big>
-**salam cute!**
+**salam ga!**
 = ¡Chao!
 
 
 ### Gramatica
 
- En Pandunia los pronombres personales son: **me** = yo, **te** = tú,
- usted, y **le** = él, ella, ello. Pandunia es una lengua de género
- neutral. No distingue sexos en los pronombres de las terceras personas
- o en otros pronombres. Todos los pronombres personales son usados en
- la siguiente oración.
+En Pandunia los pronombres personales son: **mi** = yo, **tu** = tú,
+usted, y **ye** = él, ella, ello. Pandunia es una lengua de género
+neutral. No distingue sexos en los pronombres de las terceras personas
+o en otros pronombres. Todos los pronombres personales son usados en
+la siguiente oración.
 
-**me pliza te salama le.**
+**mi ching tu salam ye.**
 = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
-Esta oración es una _oración eje_. El primer verbo, **pliza** = pedir,
-se dirije a **te** como su objeto. Al mismo tiempo **te** sirve
-también como el sujeto del segundo verbo, **salama** = saludar, del
-cual su objeto es **le**. Así **tu** tiene un doble papel: (1) objeto
+Esta oración es una _oración eje_. El primer verbo, **ching** = pedir,
+se dirije a **tu** como su objeto. Al mismo tiempo **tu** sirve
+también como el sujeto del segundo verbo, **salam** = saludar, del
+cual su objeto es **ye**. Así **tu** tiene un doble papel: (1) objeto
 del primer verbo y (2) sujeto del segundo verbo. Por lo tanto, es el
 eje entre los dos verbos.
 
@@ -254,12 +259,12 @@ seguridad que los oyentes saben de lo que él o ella está hablando.
 Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se
 pueden hacer frases más cortas. 
 
-**me pliza te salama le.**
+**mi ching tu salam ye.**
 = Yo te pido digas hola a él.
-**pliza salama le.**
+**ching salam ye.**
 = Por favor dile hola.
 
-¿Vea cómo la traducción de **pliza** ha cambiado entre las dos frases?
+¿Vea cómo la traducción de **ching** ha cambiado entre las dos frases?
 El significado de la palabra, el concepto, no ha cambiado, pero sí su
 uso. En español se refleja este cambio mediante el uso de diferentes
 palabras, 'pedir' y 'por favor'. Pandunia puede hacer frente a los
@@ -268,25 +273,25 @@ principio en Pandunia que siempre hay exactamente una palabra para un
 concepto. Diferentes palabras no se crean sólo por el papel gramatical
 de algunos cambios de concepto.
 
-La frase **pliza salama ye** tiene un patrón útil que puede ser
+La frase **ching salam ye** tiene un patrón útil que puede ser
 utilizado para hacer peticiones corteses.
 
-**pliza sida.**
+**ching side.**
 = Por favor sientese.  
-**pliza dona kafe.**
+**ching don yo kafe.**
 = Por favor me da un poco de café.  
-**pliza dona cai.**
+**ching don yo chai.**
 = Por favor me da un poco de té.  
-**pliza yama cai.**
+**ching yam yo chai.**
 = Por favor beba algo de té.  
-**pliza safa kamar.**
+**ching safa la kamar.**
 = Por favor limpie la habitación.  
 
-Las ordenes son introducidas con **amira** = ordenar. Se utiliza la misma estructura eje como para pedir con **pliza**.
+Las ordenes son introducidas con **amir** = ordenar. Se utiliza la misma estructura eje como para pedir con **ching**.
 
-**amira dona cai.**
+**amir don yo chai.**
 = ¡Deme un poco de té!  
-**amira safa kamar.**
+**amir safa la kamar.**
 = ¡Limpie la habitación!
 
 
@@ -303,13 +308,15 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**cai**
+**amir**
+ordenar  
+**chai**
 té  
-**pliza**
+**ching**
 pedir, solicitar; por favor  
-**dona**
+**don**
 dar  
-**danke**
+**shukur**
 gracias  
 **e**
 y  
@@ -317,25 +324,27 @@ y
 café  
 **kamar**
 habitación  
-**amira**
-ordonar  
+**la**
+el/la  
 **o**
 o  
 **safa**
 limpiar  
-**sida**
+**side**
 estar sentado  
-**yama**
-beber, comer
+**yam**
+beber, comer  
+**yo**
+algo
 
 
 ### Respuestas
 
-1. le yama cai.
-2. xef pliza le sida.
-3. pliza yama kafe o cai.
-4. mam pliza me safa kamar.
-5. xef sida e yama kafe.
+1. ye yam yo chai.
+2. la shefe ching ye side.
+3. ching yam yo kafe o chai.
+4. mama ching mi safa la kamar.
+5. la shefe side e yam yo kafe.
 
 
 ---------------------------------------------------------------------
@@ -348,89 +357,89 @@ Preguntas de Sí o No
 ### Diálogo
 
 <big>👩‍🍳</big>
-**salam! eska te yama kafe o cai?**
-= ¡Hola! ¿ Qué desean tomar café o té?  
+**salam! sual tu yam yo kafe o chai?**
+= ¡Hola! ¿Qué desean tomar café o té?  
 <big>🧔</big>
-**cai.**
+**chai.**
 = Té.  
 <big>👩‍🍳</big>
-**e te?**
-= ¿ y Usted? 
+**e tu?**
+= ¿Y usted? 
 <big>🧓</big>
-**me no baxa pandunia...**
+**mi no basha pandunia...**
 = Yo no hablo Pandunia...  
 <big>👩‍🍳</big>
-**maf! eska le yama cai?**
+**maf! sual ye yam chai?**
 = ¡Perdón! ¿Él toma té?  
 <big>🧔</big>
-**no. le no yama cai. le yama kafe.**
+**no. ye no yam chai. ye yam kafe.**
 = No. Él no bebe té. Él desea tomar café.  
 <big>👩‍🍳</big>
-**eska te yama supe?**
+**sual tumon yam yo supe?**
 = ¿Quieren tomar sopa?  
 <big>🧔</big>
-**ye.**
+**ya.**
 = Sí.  
 <big>👩‍🍳</big>
-**eska le yama supe?**
+**sual ye yam yo supe?**
 = ¿Él quiere tomar sopa?  
 <big>🧔</big>
-**no yama.**
+**no yam.**
 = No.  
 <big>👩‍🍳</big>
-**danke. me dona un cai e un kafe e un supe va bade da desi minute.**
+**shukur! mi don un chai e un kafe e un supe pos des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
 ### Preguntando
 
-Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **pliza**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **wena** = preguntar.
+Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **ching**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **sual** = preguntar.
 
-**me eska te yama cai.**
+**mi sual tu yam yo chai.**
 = Yo preguntarte, tomas té.  
-**eska te yama cai?**
+**sual tu yam yo chai?**
 = ¿Bebes tú té?  
-**eska yama cai?**
+**sual yam yo chai?**
 = ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-**eska le yama cai?**
+**sual ye yam yo chai?**
 = ¿Bebe él/ella té?  
-**eska te yama supe?**
+**sual tu yam yo supe?**
 = ¿Come usted sopa?  
-**eska Kamilo baxa pandunia?**
+**sual Kamilo basha pandunia?**
 = ¿Habla Camilo Pandunia?
 
 
 ### Respondiendo
 
-Las preguntas de sí o no se responden con **si** = sí, y **no** = no.
+Las preguntas de sí o no se responden con **ya** = sí, y **no** = no.
 
-– **eska te yama supe?**
+– **sual tu yam yo supe?**
 = ¿Comes tú sopa?  
-– **ye.**
+– **ya.**
 = Sí.  
-– **eska le yama supe?**
+– **sual ye yam supe?**
 = ¿Come ella sopa?  
 – **no.**
 
 También se puede dar una respuesta mas larga.
 
-– **eska te yama kafe?**
+– **sual tu yam yo kafe?**
 = ¿Bebes tú café?  
-– **ye. me yama kafe.**
+– **ya. mi yam yo kafe.**
 = Sí, yo bebo café.  
-– **eska le yama kafe?**
+– **sual ye yam yo kafe?**
 = ¿Bebe él café?  
-– **no. le no yama kafe.**
+– **no. ye no yam yo kafe.**
 = No, él no bebe café.  
 
 Se puede también responder sí, repitiendo el verbo de la pregunta.
 
-– **eska te yama sui?**
+– **sual te yam yo sui?**
 = ¿Bebe usted agua?  
-– **yama.**
+– **yam.**
 = (Sí, yo) bebo.
 
 
@@ -449,38 +458,38 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**bade**
-despues  
-**pardon**
+**basha**
+hablar una língua  
+**des**
+diez  
+**maf**
 perdón  
 **minute**
 minuto  
 **no**
 no  
-**baxa**
-hablar una língua  
+**pos**
+despues  
+**sual**
+preguntar  
 **sui**
 agua  
 **supe**
  sopa  
 **un**
 un (1)  
-**desi**
-diez  
-**eska**
-preguntar  
-**ye**
+**ya**
 sí
 
 
 ### Respuestas
 
-1. eska te baxa pandunia?
-2. ye. me baxa pandunia.
-3. eska mam yama kafe?
-4. no. le no yama kafe.
-5. eska le yama supe?
-6. (le) no yama.
+1. sual tu basha pandunia?
+2. ya. mi basha pandunia.
+3. sual mama yam kafe?
+4. no. ye no yam kafe.
+5. sual ye yam supe?
+6. (ye) no yam.
 
 
 ---------------------------------------------------------------------
@@ -489,37 +498,37 @@ sí
 Negación
 --------
 
-En la lección anterios apredimos a responder con **si** y **no**.
+En la lección anterios apredimos a responder con **ya** y **no**.
 La palabra **no** es usada para negar algo. Si se pone **no** antes
 del verbo convertimos una oración afirmativa en negativa. 
 
-**me salama te.**
-= Yo saludarte.  
-**me no salama te.**
-= Yo no saludar a usted. (No te salude.)
+**mi salam tu.**
+= Yo to saludo.  
+**mi no salam tu.**
+= Yo no saludo a usted. (No te saludo.)
 
- Conceptualmente negación significa a ausencia de la palabra negada.
- En la frase **me no salama te** la palabra **no** niega la existencia
- de **salama** (saludar). En Pandunia la palabra negativa ne se aplica
- a la palabra que la sigue. si que diferentes alcances de negación
- pueden resultar en función de la ubicación de la palabra negativa.
+Conceptualmente negación significa a ausencia de la palabra negada.
+En la frase **mi no salam tu** la palabra **no** niega la existencia
+de **salam** (saludar). En Pandunia la palabra negativa ne se aplica
+a la palabra que la sigue. si que diferentes alcances de negación
+pueden resultar en función de la ubicación de la palabra negativa.
 
-**me pliza te safa kamar.**
+**mi ching tu safa la kamar.**
 = Yo te pedi limpiar la habitación.  
-**me no pliza te safa kamar.**
+**mi no ching tu safa la kamar.**
 = Yo no te pedi limpiar la habitación.  
-**me pliza te no safa kamar.**
+**mi ching tu no safa la kamar.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
 
-**le no tena mau.**
+**ye no ten mau.**
 = Ella no tiene gato.  
-**le tena no mau, a vaf.**
+**ye ten no mau, a vaf.**
 = Ella no tiene gatos sino perros.  
-**no le, a me tena mau.**
+**no ye, a mi ten mau.**
 = Ella no, pero yo tengo gato.  
-**me tena no un, a duli mau.**
+**mi ten no un, a du mau.**
 = Yo no tengo un gato sino dos gatos.  
 
 
@@ -537,60 +546,79 @@ Intenta traducir las oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**kupe**
-copa, vaso, taza.
-**kali**
-vacio.
-**tena**
-tener, poseer.
+**a**
+pero, sino.  
+**du**
+dos.  
+**hali**
+vacio.  
+**kupa**
+copa, vaso, taza.  
 **mau**
-gato.
+gato.  
+**ten**
+tener, poseer.  
 **vaf**
 perro.
-**duli**
-dos.
-**noli**
-cero.
-**a**
-pero, sino.
 
 
 ### Respuestas
 
-1. le no safa kamar.
-2. un kupe no kali.
-3. duli vaf no yama supe.
-4. le no tena vaf e mau. / le tena no vaf e no mau.
-5. xef yama cai a no kafe.
-6. mam tena no vaf a duli mau.
+1. ye no safa kamar.
+2. un kupa no hali.
+3. du vaf no yam supe.
+4. ye no ten vaf o mau.
+5. shefe yam chai a no kafe.
+6. mama tena no vaf a du mau.
 
 
 ---------------------------------------------------------------------
 
 ## Pasado, presente y futuro
 
-Las palabras para pasado, el presente y el futuro son **pas**, **zay** y **wil**.
-Pueden ser usadas para modificar sustantivos.
+Pandunia no tiene conjugaciones de verbos. Todos los verbos tienen solo
+una forma para todos los tiempos. Por ejemplo, **mi yam pang** puede
+significar «comí pan», «como pan», o «comeré pan», pero por lo
+general solo un significado tiene sentido en el contexto de la
+discusión. Por ejemplo, si habla de la desayuno de la temprana
+previa, la oración dice del tiempo pasado.
 
-**sarah sa mi pasi xef.**
+**mi yam pang na ni suba yam.**
+= Comí pan para este desayuno.
+
+En adición, hay palabras del tiempo espicificas.
+
+**pas**
+= más temprano, en el pasado  
+**zai**
+= actualmente, en este momento  
+**sha**
+= más tarde, en el futuro
+
+**sarah si mi su pas shefe.**
 = Sara es mi ex-jefa.  
-**yusef sa mi zayi xef.**
+**yusef si mi su zay shefe.**
 = Yusef es mi actual jefe.  
-**maria sa mi futuri xef.**
+**maria si mi su sha shefe.**
 Maria es mi futura jefa.
 
 Las mismas palabras son usadas cuando se habla sobre acciones y
-eventos en el tiempo.
-Cuando se desea expresar algo que sucedió en el pasado, se pone
-**na pase** (en el pasado) en la oración. Si se habla sobre el
-presente, se adiciona **na zaye** (en el momento, ahora). Y cuando se
-habla del futuro, se añade **na wile** (en el futuro).
+eventos en el tiempo. Simplemente pone la palabra antes del verbo.
 
-**le sa mi xef va pas.**
+**ye pas si mi su shefe.**
+= Ella fue mi jefa.  
+**ye zai si mi su shefe.**
+= Ella es mi jefa.  
+**ye sha si mi su shefe.**
+= Ella será mi jefa.
+
+También puede usar frases prepocicionales con **na**.
+
+**ye si mi su shefe na pas.**
 = Ella fue mi jefa en el pasado.  
-**le sa mi xef va zai.**
-= Ella es mi jefa actualmente.  
-**le sa mi xef va futur.**
+**ye si mi su shefe na zai.**
+= Ella es mi jefa en este momento.  
+**ye si mi su shefe na sha.**
 = Ella será mi jefa en el futuro.
 
 Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
@@ -602,22 +630,21 @@ Sería algo tedioso. Es suficiente con poner una vez la expresión de
 tiempo. No es necesaria hasta que llega a ser útil hacer hincapié en
 que todavía se está hablando en el mismo tiempo.
 
-
-**me paso tena un mau.**
+**mi pas ten un mau.**
 = Yo tuve un gato en el pasado.  
-**le sa boni mau.**
+**ye si bon mau.**
 = Ella fue una buena gata.  
-**me tena un vaf zayo.**
+**mi ten un vaf na zai.**
 = Yo tengo un perro en el momento.
 
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
 de tiempo no son necesarias.
 
-**me yama cai va cenden.**
+**mi yam yo chai na chen den.**
 = Yo tomé té ayer.  
-**le safa kamar va badoden.**
-= Él limpiará la habitación mañana.  
-**mome festa va nen 2000 du censuar.**
+**ye jene na mes 9.**
+= Él nació en septiembre.  
+**mimon festa na nen 2000 su chen sham.**
 = Nosotros celebraremos la víspera del año 2000.
 
 ### Ejercicios
@@ -633,113 +660,37 @@ Intenta traducir de Español a Pandunia.
 
 ### Vocabulario
 
-**pasi**
-pasado, antiguo, ex  
-**pas**
-el pasado  
-**zayi**
-actual, presente  
-**zai**
-el presente  
-**futuri**
-futuro  
-**futur**
-el futuro  
-**va**
-estar ubicado en (tiempo o espacio); en  
-**badi**
-siguiente  
 **den**
 día  
-**badoden**
-al día siguiente, mañana  
-**ceni**
+**pos den**
+el día siguiente, mañana
+**chen**
 anterior, previo  
-**cenden**
+**chen den**
 el día anterior, ayer  
-**suar**
+**sham**
 noche  
-**censuar**
+**chen sham**
 la noche anterior, víspera  
 **festa**
-celebrar
+celebrar  
+**na**
+estar ubicado en (tiempo o espacio); en  
+**pas**
+pasado, antiguo  
+**sha**
+futuro  
+**zai**
+actual, presente
 
 ### Respuestas
 
-1. mi xef festa va futur.
-2. me tena duli vaf va pas.
-3. te yama supe zayo.
-4. le safa kamar va cenden.
-5. mau yama kafe va badoden.
-6. ti mame festa va censuar.
-
-
----------------------------------------------------------------------
-
-## Palabras conectoras «du» y «da»
-
-**ya** es una palabra especial en la gramática de Pandunia. Es una
-palabra que ayuda a organizar expresiones. **yu** conecta la palabra
-modificadora a la palabra modificada.
-
-**me du gar**
-= mi carro  
-**un vaf du dom**
-= Una casa de perro
-
-La palabra conectora en sí no significa nada, por lo que no se
-específica la relación entre la modificadora y la modificada. La
-relación se puede especificar mediante la adición de una palabra con
-mayor sentido.
-
-**me tena du gar**
-= mi carro (el carro que yo tengo)  
-**mi yang du gar**
-= automóvil de mi tipo  
-**me gida du gar**
-= el carro que yo manejo
-
-La otra palabra conectora, **da** funciona de la misma manera que
-**du** pero el modificador y el modificado están en orden opuesto.
-
-**gar da me tena**
-= el carro mío (el carro que yo tengo)  
-**gar da mi yang**
-= el carro de mi tipo  
-**gar da me xofa**
-= el carro que yo manejo
-
-Las palabras conectoras son útiles para dividir frases complejas en
-otras más pequeñas y más manejables.
-
-**me va telo da te.**
-= Yo estoy lejos de ti.  
-**mi va te du telo.**
-= Yo estoy a tu distancia.  
-
-Las palabras conectoras también ayudan a enlazar dos frases entre
-ellas.
-
-**mame yama keke va bade da le fata le.**
-= Mamá come una galleta después de hacerla.  
-**te fikra ke va tem da keke du guste?**
-= ¿Qué tu piensas del sabor de estas galletas?
-
-Las palabras conectoras, en Español también las usamos pero las
-conocemos como adverbios, preposiciones y conjuciones.
-
-### Vocabulario
-
-**yang**
-= tipo, clase.
-**xofa**
-= guiar, conducir.
-**fikra**
-= pensar.
-**tem**
-= tema.
-**guste**
-= sabor.
+1. mi su shefe festa na sha.
+2. bi ten du vaf na pas.
+3. tu yam supe zai.
+4. ye safa la kamar na chen den.
+5. mau yam yo kafe na pos den.
+6. tu su mama festa na chen sham.
 
 
 ---------------------------------------------------------------------
@@ -754,20 +705,20 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Pandunia es una lengua que la serialización verbal
 sea común.
 
-**me vola vida te.**
+**mi vol vide te.**
 = Quiero verte. (palabras por palabras: Yo querer ver usted)  
-**me foka vida te.**
+**mi fokus vide te.**
 = Te miro. (palabras por palabra: Yo concentrar ver ti)  
 
 Pueden haber mas de dos verbos en serie.
 
-**me xula pandunia.**
+**mi shula pandunia.**
 = Yo aprendo pandunia.  
-**me xura xula pandunia.**
+**mi shuru shula pandunia.**
 = Yo empiezo a aprender pandunia.  
-**me vola xura xula pandunia.**
+**mi vol shuru shula pandunia.**
 = Yo quiero empezar a aprender Pandunia.  
-**me vola xura xula loga pandunia.**
+**mi vol shuru shula loga pandunia.**
 = Yo quiero empezar a aprender a hablar Pandunia.
 
 
@@ -780,20 +731,22 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**foka**
+**do**
+= a
+**fokus**
 = enfocar, concentrarse.
 **loga**
 = hablar, charlar
-**xura**
+**shuru**
 = empezar, comenzar.
-**vida**
+**vide**
 = ver, mirar.
-**vola**
+**vol**
 = querer, necesitar.
 
 ### Respuestas
 
-1. me vola dona kafe pa xef.
-2. eska te vola yama sui?
-3. le no vola safa si kamar.
+1. mi vol don yo kafe do la shefe.
+2. sual te vol yam sui?
+3. ye no vol safa ye su kamar.
 
