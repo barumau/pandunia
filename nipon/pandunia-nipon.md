@@ -92,7 +92,7 @@ bano - 板
 bano gem - ボードゲーム  
 bari yum - バリウム  
 baru - 熊  
-basa - 十分  
+bas - 十分  
 basha - 言語  
 basha jinse - 文法的性 (名詞クラス)  
 basha logi - 言語学  
@@ -274,7 +274,7 @@ dom - 家
 dom - 家  
 dom desha - 祖国  
 Dominika Komunkrati - ドミニカ共和国  
-dona - あげる (くれる)  
+don - あげる (くれる)  
 dong - 東  
 dong gorila - ヒガシゴリラ  
 donjon ventur - ダンジョンアドベンチャー  
@@ -288,9 +288,9 @@ dubna yum - ドブニウム
 dudu - 昆虫  
 duku - 読む  
 dunia - 世界  
-dura bil - 持続的  
-dura metre gi - ストップウオッチ  
-dura zaman - 時代 (年代)  
+dur bil - 持続的  
+dur metre gi - ストップウオッチ  
+dur zaman - 時代 (年代)  
 dus - 難しい  
 dus jen - 敵  
 dus karma - 悪事  
@@ -577,7 +577,7 @@ jau - 大麦
 javabu - 答え (回答)  
 jeka - 借用  
 jeka deku - 借りる  
-jeka dona - 貸す  
+jeka don - 貸す  
 jela kan - 監獄  
 jen - 人 (者, 員, 徒)  
 jene di - 生 (未熟)  

@@ -42,29 +42,28 @@ English version is the original version of the site. Translate to your language 
 
 When you begin translating for a new language, start from these files.
 
-* index.md
-    * This page should include a short introduction to Pandunia.
-    * Include here links only to pages that are existing and/or ready.
-    * If the site is incomplete, ask the reader to go to a more complete language version (like English)
-* navigation.md
-    * This is the top menu of the site
-    * Include here links only to pages that are existing and/or ready.
-* abc.md
-    * This page explains how to pronounce Pandunia
-* fraze.md
-    * This page introduces basic words, sentences and grammatical structures
-* kanun.md
-    * This is the grammar page
-    * Translate at least the chapter called _Basic Rules_
+- index.md
+    - This page should include a short introduction to Pandunia.
+    - Include here links only to pages that are existing and/or ready.
+    - If the site is incomplete, ask the reader to go to a more complete language version (like English)
+- mkdocs/english/mkdocs.yml
+    - This is the side menu of the website
+    - Include here links only to pages that are existing and/or ready.
+- 100_baze_kanun.md
+    - This page includes the ten basic rules of Pandunia in a concise list
+- 102_ABC.md
+    - This page explains how to write and speak Pandunia
+- 200_baze_jumla.md
+    - This page introduces basic words, sentences and grammatical structures
 
 ### Translating entire documents
 
 1. Copy the source file to the folder of the new language
-    * Keep the original name! Names are in Pandunia so that contents of different language versions can be compared more easily.
+    - Please don't change the file names! Names are in Pandunia so that contents of different language versions can be compared more easily.
 2. Translate text
 3. If translation is incomplete in the end
-    * Delete untranslated text
-    * or hide it between < ! - - and - - > (without spaces) so that it won't be visible in the web site
+    - Delete untranslated text
+    - or hide it between < ! - - and - - > (without spaces) so that it won't be visible in the web site
 
 ### Updating translations
 

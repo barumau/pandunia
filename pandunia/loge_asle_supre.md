@@ -1,6 +1,6 @@
-# pandunia di loga di asli
+# pandunia di loga su asal
   
-pandunia di loga ye lai ze poli basha da dunia.
+pandunia di loga ya lai ze poli basha da dunia.
   
 - afrika basha
     - (ara) arabi 
@@ -30,5 +30,5 @@ pandunia di loga ye lai ze poli basha da dunia.
     - (tur) turki
     - (fas) farsi
 
-| pandunia | loga di asli |
+| pandunia | loga su asal |
 |----------|--------------|

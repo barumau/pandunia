@@ -63,7 +63,7 @@
 |**barde**|barba|fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|
 |**bari yum**|bário|eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari, ara: باريوم|
 |**baru**|urso|eng:bear, deu:Bär + hin:भालू (bhālū) ben:ভালুক (bhaluk) + may:beruang|
-|**basa**|bastante (suficiente)|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
+|**bas**|bastante (suficiente)|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |**basen**|bacia|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |**basha**|língua (idioma)|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |**bata**|pato|ara: بَطَّة‎ (baṭṭa), hin:बत्तख (battakh), tel:బాతు (bātu), swa:bata + spa:por:pato + tha:เป็ด  (pèt)|
@@ -162,7 +162,7 @@
 |**dudu**|inseto|swa:mdudu, ara: دُود (dūd)|
 |**duku**|ler|zho:读 (dú), yue:讀 (duk6), jpn:讀 (doku-), kor:독 (dok), vie:đọc|
 |**dunia**|mundo|ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|
-|**dura**|duração|eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|
+|**dur**|duração|eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|
 |**dush**|ducha|fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|
 |**e**|e|fra:et, por:e, spa:y;e, zho:和 (hé)|
 |**einstein yum**|einstânio|eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم|

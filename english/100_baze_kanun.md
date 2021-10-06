@@ -33,10 +33,10 @@ They are described in more detail later in this document.
    Their role is indicated by word order or by a preposition.
 6. **Numerals:**
    The cardinal numbers are:
-       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **chatre**, 5 **penta**, 6 **luku**,
-         7 **sete**, 8 **bato**, 9 **tisa**, 10 **des**.
+       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
+         7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.
        - Greater than ten: 11 **des un**, 12 **des du**, 13 **des tri**, etc.
-       - Tens: 20 **du des**, 30 **tri des**, 40 **chatre des**, etc.
+       - Tens: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
        - Hundreds: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
        - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
        - The ordinal numbers use the suffix **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
@@ -77,10 +77,10 @@ They are described in more detail later in this document.
    Words don't ever change only to serve in a different grammatical role.
    Compound words are made by combining the elements that form them.
    The main word stands at the end.
-    - **poste**
+    - **posta**
       ("mail") +
       **kasa**
       ("box") =
-      **poste kasa**
+      **posta kasa**
       ("mailbox")
 

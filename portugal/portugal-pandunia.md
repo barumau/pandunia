@@ -1,4 +1,4 @@
-# portugal-pandunia
+# portugal–pandunia
 ####A - A  
 abater - bucha  
 abelha ou vespa - fong  
@@ -148,7 +148,7 @@ base (álcali) - kali
 base - baze  
 basebol (beisebol) - baze bol  
 basketball - baske bol  
-bastante (suficiente) - basa  
+bastante (suficiente) - bas  
 baía - baya  
 bebê - bebe  
 beleza - sundar ta  
@@ -367,11 +367,11 @@ croassã - kruasan
 crocodiliano - krokodil  
 crocodilo - long krokodil  
 cromo - jama karde  
-cronómetro - dura metre gi  
+cronómetro - dur metre gi  
 cruz - krus  
 crème - krem  
 crómo - krom yum  
-crónico - dura di  
+crónico - dur di  
 cubo - kube  
 cultivar - nong  
 cume (pico, topo) - san pike  
@@ -443,8 +443,8 @@ domingo - var cheti
 doméstico - dom di  
 dormir - be sona  
 ducha - dush  
-durar - be dura  
-duração - dura  
+durar - be dur  
+duração - dur  
 duro - gati  
 dúbnio - dubna yum  
 ####E - E  
@@ -466,7 +466,7 @@ embalar - lifafa
 emoticon (emoji) - emosi zi  
 emoçao - emosi  
 emprestar (pedir emprestado) - jeka  
-emprestar - jeka dona  
+emprestar - jeka don  
 encarar (afrontar; vérsus) - verse  
 encontrar - miti  
 endereço - adres  
@@ -614,7 +614,7 @@ gelar - be ais
 genealogia - jene logi  
 generalíssimo - gun raja  
 generosidade - karim  
-generoso (dadivoso, mão-aberta) - dona tabi  
+generoso (dadivoso, mão-aberta) - don tabi  
 genótipo - jene tipe  
 geografia - geo grafi  
 geometria - geo metre  
@@ -1096,7 +1096,7 @@ ponta (pico, bico) - pike
 ponta do dedo - angul pike  
 ponte - kio  
 por exemplo - do misal  
-por muito tempo - long dura  
+por muito tempo - long dur  
 porcelana - chini  
 porto - porte  
 porto marítimo - hai porte  
@@ -1132,7 +1132,7 @@ programa - program
 projeto - projete  
 projeção - lanse grafi  
 projétil - lanse she  
-prolongado - long dura di  
+prolongado - long dur di  
 promessa (voto) - vode  
 Prometeu - Promete  
 promécio - promete yum  
@@ -1377,7 +1377,7 @@ trabalho - gong
 trajar (vestir-se) - fuku  
 tranca - kane sor  
 tranquilo (calmo) - shanti di  
-transcorrer - si dura  
+transcorrer - si dur  
 tratar (lidar, procesar) - fa chuli  
 trator - trata gi  
 trazer - fa lai  

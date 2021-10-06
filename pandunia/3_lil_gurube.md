@@ -5,8 +5,8 @@
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 
 na tele pas, mama goro ten tri lili goro.
-a ye no ten basa yam do dona do yemon.
-un den na yemon si basa lau, ye mise yemon do dunia,
+a ye no ten bas yam do don do yemon.
+un den na yemon si bas lau, ye mise yemon do dunia,
 do yemon soka semen su gol na jiu.
 
 un me goro no suka gung.
@@ -59,7 +59,7 @@ la volfe shou se su dante e loga:
 
 ye hava e ye hava e ye parcha la dom!
 volfe teste kape la du goro na sam zaman,
-a ye vol mas ka basa, e ye kape siro goro!
+a ye vol mas ka bas, e ye kape siro goro!
 ye su dai boke be klus do siro she da air.
 la du lili goro ya ga, masim rapide ka yemon su fute bil kino yemon.
 
@@ -92,10 +92,10 @@ sun ye no bil mas hava.
 ye ting do shush,
 e ye lili fikir.
 
-la si mas ka basa.
+la si mas ka bas.
 la volfe marcha na gola na furi.
 ye plan ye lai pas la duman tubo e ye yam lili goro do sham yam.
-a na dura da ye eskale do dom su chati,
+a na dur da ye eskale do dom su chati,
 la lili goro ya sana un poli garma di hogo e loka un dai sui ketel na hogo.
 na pos, na sam zaman da la volfe lai do tal da tanur,
 la lili goro fa kai la ketel...

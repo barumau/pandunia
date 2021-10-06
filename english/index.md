@@ -3,7 +3,7 @@
 Hello, world!
 Welcome to learn about Pandunia, the evenly global helping language!
 
-![](http://www.pandunia.info/grafe/halou_dunia.png "halou dunia!")  
+![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Pandunia?
@@ -39,7 +39,6 @@ It includes simpler grammar, more international word forms, and many new words.
 
 ## Texts
 
-- [The rich man and the poor man](rici_man_i_miskin_man.md)
 - [Fandom Wiki in Pandunia](https://pandunia.fandom.com/)
 
 ## Articles

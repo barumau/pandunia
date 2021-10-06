@@ -3,7 +3,7 @@
 Tervehdys, maailma!
 Tervetuloa saamaan tietoa panduniasta, tasapuolisesti koko maailman apukielestä!
 
-![](http://www.pandunia.info/grafe/halou_dunia.png "halou dunia!")  
+![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Kuvan lähde [Freepik](http://www.freepik.com)</small>
 
 ## Mikä on pandunia?

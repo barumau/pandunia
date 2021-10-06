@@ -104,7 +104,7 @@
 |**barti**|indio (hindú)|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
 |**baru**|oso|eng:bear, deu:Bär + hin:भालू (bhālū) ben:ভালুক (bhaluk) + may:beruang|
 |**barude**|pólvora|ara:fas:urd:(bārūd), hin:बारूद (bārūd), swa:baruti, tur:barut|
-|**basa**|bastante|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
+|**bas**|bastante|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |**basen**|piscina (alberca, lavadero)|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |**basha**|lengua (idioma, hablar, comunicación)|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |**baske**|cesta (canasta, barquilla, aro)|eng:basket, may:bakul, jpn:バスケット (basuketto)|
@@ -266,7 +266,7 @@
 |**dom**|casa (hogar, residencia)|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |**dom**|hogar|zho:家 (jiā), yue:家 (gaa1), jpn:家 (ka), kor:가 (ga), vie:gia|
 |**domino gem**|dominó|eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|
-|**dona**|dar|fra:donner, eng:donate, spa:por:donar|
+|**don**|dar|fra:donner, eng:donate, spa:por:donar|
 |**dong**|éste|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|
 |**donjon ventur**|juego de mazmorras|eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|
 |**dosha**|culpa (defecto, crimen)|may:dosa, hin:दोष (doś), tha:โทษ (toot(sa))|
@@ -285,7 +285,7 @@
 |**duku**|leer|zho:读 (dú), yue:讀 (duk6), jpn:讀 (doku-), kor:독 (dok), vie:đọc|
 |**duman**|humo|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
 |**dunia**|mundo|ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|
-|**dura**|duración|eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|
+|**dur**|duración|eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|
 |**dus**|malo (difícil, duro)|eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|
 |**dush**|ducha|fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|
 |**dute**|duda|fra:doute, eng:doubt, spa:tgl:duda|
@@ -470,8 +470,8 @@
 |**gubu**|hipopótamo|ful:ngabu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)|
 |**gui**|ogro (gnomo, trol, duende, trasgo)|zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|
 |**guku hua**|crisantemo|zho:菊 (jú), yue:菊 (guk1), jpn:キク (kiku), kor:국화 (gukhwa), vie:cúc đại đóa, tha:เก๊กฮวย (gék-huai), may:kekwa, ara:قحوان (quḥwān)|
-|**gul**|gul|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
-|**gulu**|tragar|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
+|**gul**|tragar|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
+|**gule**|gul|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
 |**guma**|tambor|swa:ngoma + zho:鼓 (gǔ)|
 |**gun**|ejército|zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|
 |**guru**|maestro (gurú, sabio, profesor)|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|

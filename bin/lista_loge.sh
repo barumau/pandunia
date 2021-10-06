@@ -1,28 +1,38 @@
 fata_liste_pandunia_X() {
-    #pandunia unodo
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$1	 \" - \" \$$1 \"  \"}" > $2/pandunia-$2.md
+    logaliste="$2/pandunia-$2.md"
+    #pandunia un me
+    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$1	 \" - \" \$$1 \"  \"}" > $logaliste
     #mata un me lin
-    sed -i '1d' $2/pandunia-$2.md
-    # alfobeta
-    sed -i 's/[A-Z] - .*$/####&/' $2/pandunia-$2.md
-    #Add header
-    sed -i "1s/^/# pandunia-$2\n/" $2/pandunia-$2.md
+    sed -i '1d' $logaliste
+    # ABC nam
+    sed -i 's/[A-Z] - .*$/####&/' $logaliste
     #Delete empty translations
-    sed -i '/-...$/d' $2/pandunia-$2.md
+    sed -i '/-...$/d' $logaliste
+    #kitabu la nam e la chen kitabu
+    headername="$2/pandunia-$2.chenkitabu.md"
+    if test -f "$headername"; then
+       echo "$headername exists"
+       cat $headername $logaliste > temp/temp.txt
+       mv temp/temp.txt $logaliste
+    else
+       echo "$headername doesn't exist. Writing default heading."
+       sed -i "1s/^/# pandunia-$2\n/" $logaliste
+    fi
 }
 
 fata_liste_X_pandunia() {
     #ali bax unodo
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$1 \"  \"}" > $2/$2-pandunia.md
+    logaliste="$2/$2-pandunia.md"
+    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$1 \"  \"}" > $logaliste
     #mata un me lin
-    sed -i '1d' $2/$2-pandunia.md
+    sed -i '1d' $logaliste
     # alfobeta
     cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
-    cat temp/temp.txt | sed 's/[A-Z] - .*$/####&/' > $2/$2-pandunia.md
+    cat temp/temp.txt | sed 's/[A-Z] - .*$/####&/' > $logaliste
     #Add header
-    sed -i "1s/^/# $2-pandunia\n/" $2/$2-pandunia.md
+    sed -i "1s/^/# $2–pandunia\n/" $logaliste
     #Delete empty translations
-    sed -i '/^.-/d' $2/$2-pandunia.md
+    sed -i '/^.-/d' $logaliste
 }
 
 fata_leksasli_liste() {

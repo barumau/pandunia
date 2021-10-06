@@ -111,7 +111,7 @@
 |**barti**|Indian|Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)|
 |**baru**|bear|English:bear, deu:Bär + Hindi:भालू (bhālū) Bengali:ভালুক (bhaluk) + Malay:beruang|
 |**barude**|gunpowder|Arabic:Persian:Urdu:(bārūd), Hindi:बारूद (bārūd), Swahili:baruti, Turkish:barut|
-|**basa**|enough (sufficient)|Persian:Urdu:س (bas), Arabic:(bass), Hindi:(bas), Swahili:basi, Spanish:Portuguese:Italian:basta|
+|**bas**|enough (sufficient)|Persian:Urdu:س (bas), Arabic:(bass), Hindi:(bas), Swahili:basi, Spanish:Portuguese:Italian:basta|
 |**basen**|pool (basin, bowl)|English:basin, French:bassin, Russian:бассейн (basseyn), Portuguese:bacia|
 |**basha**|speak (talk, language, communication)|Hindi:भाषा (bhāṣā), Urdu:(bhāṣā), Bengali:ভাষা (bhaṣa), Punjabi:ਭਾਸ਼ਾ (bhāshā), Telugu:భాష (bhāṣa), Tamil:பாசை (pāsai), Thai:ภาษา (phasa), Malay:bahasa, jav:basa|
 |**baske**|basket (basketball hoop)|English:basket, Malay:bakul, Japanese:バスケット (basuketto)|
@@ -279,7 +279,7 @@
 |**dom**|home (house, residence)|Mandarin:家 (jiā), Cantonese:家 (gaa1), Japanese:家 (ka), Korean:가 (ga), Vietnamese:gia|
 |**dom**|residence|Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico|
 |**domino gem**|dominoes|English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)|
-|**dona**|give|French:donner, English:donate, Spanish:Portuguese:donar|
+|**don**|give|French:donner, English:donate, Spanish:Portuguese:donar|
 |**dong**|east (orient)|Mandarin:东 (dōng), Cantonese:東 (dōng), Vietnamese:đông, Korean:동 (dong), Turkish:doğu|
 |**donjon ventur**|dungeon crawl|English:dungeon, French:donjon, Japanese:ダンジョン (danjon)|
 |**dosha**|fault (sin, blame, defect, guilt)|Malay:dosa, Hindi:दोष (doś), Thai:โทษ (toot(sa))|
@@ -298,7 +298,7 @@
 |**duku**|read|Mandarin:读 (dú), Cantonese:讀 (duk6), Japanese:讀 (doku-), Korean:독 (dok), Vietnamese:đọc|
 |**duman**|smoke|Hindi:धूआँ (dhuã), Turkish:duman, Russian:дым (dym), Kannada:(dhūma), Bengali:ধোঁয়া (dhõẇa)|
 |**dunia**|world|Arabic: دُنْيَا‎ (dunyā), Hindi:दुनिया (duniyā), Malay:Swahili:dunia, Persian: دنیا (donya), Urdu: دنیا (duniyā), Hausa:duniya|
-|**dura**|duration (time interval)|English:duration, French:durée, Spanish:Portuguese:durar + Bengali:ধরে (dhôre), Hindi:दौरान (daurān)|
+|**dur**|duration (time interval)|English:duration, French:durée, Spanish:Portuguese:durar + Bengali:ধরে (dhôre), Hindi:दौरान (daurān)|
 |**dus**|bad (unfavorable, negative, evil, wicked, troublesome, difficult)|English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-|
 |**dush**|shower|French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş|
 |**dute**|doubt (disbelief)|French:doute, English:doubt, Spanish:Filipino:duda|
@@ -487,8 +487,8 @@
 |**gubu**|hippopotamus|Fulani:ngabu Kongo:ngubu, sot:tsw:kubu, Zulu:rwa:imvubu, Amharic:ጉማሬ (gumare)|
 |**gui**|ogre (troll, goblin)|Mandarin:鬼 (guǐ), Vietnamese:quỷ, + Thai:กุ๊ย (gui)|
 |**guku hua**|florist's chrysanthemum|Mandarin:菊 (jú), Cantonese:菊 (guk1), Japanese:キク (kiku), Korean:국화 (gukhwa), Vietnamese:cúc đại đóa, Thai:เก๊กฮวย (gék-huai), Malay:kekwa, Arabic:قحوان (quḥwān)|
-|**gul**|ghoul|Arabic:الغول (ghūl), Persian:غول‎ (ğul), English:Portuguese:ghoul, Spanish:gul, Russian:гуль (gul′), Turkish:kulbastı, Malay:ghul, Japanese:グール (gūru)|
-|**gulu**|swallow|Bengali:গেলা (gela), Portuguese:engolir, Russian:глотать (glotat'), Thai:กลืน (glʉʉn), Spanish:deglutir, French:déglutir|
+|**gul**|swallow|Bengali:গেলা (gela), Portuguese:engolir, Russian:глотать (glotat'), Thai:กลืน (glʉʉn), Spanish:deglutir, French:déglutir|
+|**gule**|ghoul|Arabic:الغول (ghūl), Persian:غول‎ (ğul), English:Portuguese:ghoul, Spanish:gul, Russian:гуль (gul′), Turkish:kulbastı, Malay:ghul, Japanese:グール (gūru)|
 |**guma**|drum|Swahili:ngoma + Mandarin:鼓 (gǔ)|
 |**gun**|army|Mandarin:军 (jūn), Cantonese:軍 (gwan1), Japanese:軍 (gun), Korean:군 (gun), Vietnamese:quân|
 |**guru**|guru (teacher, sage)|Hindi:गुरु (guru), Bengali:গুরু (guru), Gujarati:ગુરુ (guru), Punjabi:ਗੁਰੂ (gurū), Filipino:guro, Thai:ครู (gruu), Malay:English:Portuguese:guru, Spanish:gurú, Russian:гуру (guru), French:gourou, Korean:구루 (guru), Japanese:グル (guru)|

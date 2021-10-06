@@ -1,4 +1,4 @@
-# espanya-pandunia
+# espanya–pandunia
 -idad - ta  
 -ésimo - me  
 a (hacia) - do  
@@ -131,7 +131,7 @@ almirante - hai amir ja
 almohada - kushen  
 almuerzo - dia yam  
 alojar (hospedar) - fa dom  
-alquilar (arrendar, dar en arriendo) - kira dona  
+alquilar (arrendar, dar en arriendo) - kira don  
 alquilar (arrendar, tomar en arriendo) - kira kape  
 alquiler (arriendo) - kira  
 altar - puja meza  
@@ -372,7 +372,7 @@ baréin - Bahrain
 barómetro - air presa metre gi  
 base (álcali) - kali  
 base - baze  
-bastante - basa  
+bastante - bas  
 basura (desechos) - laji  
 basural - laji bagi  
 basurero - laji tong  
@@ -578,7 +578,7 @@ cardo borriquero - pin kardon
 cardo burral - pero kardon  
 cardo mariano - milke kardon  
 carga (pesa) - karga  
-cargar (subir) - nete dona  
+cargar (subir) - nete don  
 cargar -   
 cargar - fa karga  
 cargo - guan  
@@ -833,7 +833,7 @@ continuo (analógico) - zoku di
 contraseña - pas loga  
 contraseña - sekur kode  
 contrato (tratado) - trati  
-contribuir - fen dona  
+contribuir - fen don  
 convalaria (lirio de los valles) - vali susan  
 convenion (pacto) - kon trati  
 copia (réplica) - kopi  
@@ -901,7 +901,7 @@ Croacia - Horvati
 crocodilio - krokodil  
 cromo - jama karde  
 cromo - krom yum  
-cronómetro - dura metre gi  
+cronómetro - dur metre gi  
 cruasán - kruasan  
 crucificar - fa krus fikse  
 crudo - jene di  
@@ -911,7 +911,7 @@ cruzar - be krus
 cráneo (calavera) - sar oste  
 crítico (fundamental) - krizi  
 crítico - piping ja  
-crónico - dura di  
+crónico - dur di  
 cuaderno (libreta) - note buku  
 cuadro - nelu gona  
 cualidad (atributo, descripción) - sifa  
@@ -973,7 +973,7 @@ cúpula - kupa chati
 dado - zar kube  
 damas - dama gem  
 danés - Danske  
-dar - dona  
+dar - don  
 dar a luz (enngendrar, parir, procrear) - fa jene  
 darmstatio - darmestadi yum  
 darse cuenta (notar) - fa budi  
@@ -998,7 +998,7 @@ deciembre - mes des du
 decir (hablar) - loga  
 decoración (adorno) - sundar daka  
 decorar (adornar) - fa sundar daka  
-dedicar - sata dona  
+dedicar - sata don  
 dedo - angul  
 defecar - kaka  
 defender - defa  
@@ -1010,8 +1010,8 @@ dejar - lashe
 dejar caer - fa pade  
 delfín - dolfin  
 delicioso - bon guste di  
-demasiado - mas ka basa  
-demasiado poco - min ka basa  
+demasiado - mas ka bas  
+demasiado poco - min ka bas  
 demencia (locura) - foli ta  
 demente (loco, insensato) - foli  
 democracia - demo krati  
@@ -1136,9 +1136,9 @@ dubnio - dubna yum
 ducha - dush  
 duda - dute  
 dueño - mal ja  
-durable - dura bil  
-duración - dura  
-durar (durante, llevar tiempo) - be dura  
+durable - dur bil  
+duración - dur  
+durar (durante, llevar tiempo) - be dur  
 duro - gati  
 dátil - tamar  
 débil - debil  
@@ -1249,7 +1249,7 @@ equilibrado (par) - par jen
 equilibrio - par veze ta  
 equipaje - bagaje  
 equipo - tim  
-era (periodo, época) - dura zaman  
+era (periodo, época) - dur zaman  
 erbio - erbi yum  
 erguido - lipa di  
 erigir (montar, armar) - fa libu  
@@ -1527,7 +1527,7 @@ general (common) - putong
 generalísimo (sogún) - gun raja  
 generar (añadir, realizar) - zai fa  
 generosidad (caridad) - karim  
-generoso (dadivoso) - dona tabi  
+generoso (dadivoso) - don tabi  
 generoso (dadivoso, caritativo) - karim di  
 gengibre - zinji  
 genial - kul  
@@ -1607,7 +1607,7 @@ Guinea Ecuatorial - Geo Par Lin Ginia
 Guinea-Bisáu - Bisau Ginia  
 guitarra - gitar  
 gujaratí - gujarati  
-gul - gul  
+gul - gule  
 gusano de seda - silke larva  
 gustar (complacer) - fa suka  
 gustarse (disfrutar) - be suka  
@@ -2630,7 +2630,7 @@ parámetro - param
 pasa (uva pasa) - gan putau  
 pasado - chen zaman  
 pasaporte - pasporte  
-pasar (transcurrir) - fa dura  
+pasar (transcurrir) - fa dur  
 pasar - pas  
 pasatiempo (hobby, afición) - hobi  
 pascal (Pa) - paskal  
@@ -2694,7 +2694,7 @@ perdedor - shiti bai ja
 perder (fallar) - fa shibai  
 perder - shiti  
 perdonar (disculpar) - fa maf  
-perdurable (longevo, prolongado) - long dura di  
+perdurable (longevo, prolongado) - long dur di  
 perdón - maf  
 perecer - perishe  
 perfeccionar - fa pul bon  
@@ -2845,7 +2845,7 @@ presidente - prezidente
 presión - presa  
 presión atmosférica - air presa  
 prestar (pedir prestado) - jeka  
-prestar - jeka dona  
+prestar - jeka don  
 presuponer - chen gar  
 presupuesto - bujete  
 prever (esperar, pensar) - chen vide  
@@ -3007,7 +3007,7 @@ redondo (circular) - gola di
 reducir a la mitad (dividir en dos) - fa fen do du  
 reflejar - mira  
 refuerzos - mas gun  
-regalo (obsequio) - dona she  
+regalo (obsequio) - don she  
 registro (archivo, anotación) - loge  
 región (zona) - topo  
 regla (ley) - kanun  
@@ -3488,11 +3488,11 @@ traditional (convencional) - suna di
 traducir (interpretar) - tarjum  
 traductor - tarjum ja  
 traer - fa lai  
-tragar - gulu  
+tragar - gul  
 trampa - kape truke  
 trampilla - pade mun  
 tranquilo (calmado) - shanti di  
-transcurrir - si dura  
+transcurrir - si dur  
 transitar (atravesar) - fa transe  
 Transnistria (Cisdniéster) - Transe Nistre Desha  
 trasero (nalgas) - pigu  

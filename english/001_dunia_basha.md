@@ -441,10 +441,6 @@ form that sounds familiar to speakers of as many languages as possible.
 | **marche**    | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
-The suffixes of Pandunia are applied on the roots. Here are some
-resulting Pandunia words: korti (short), korte (shorty), korta 
-(shorten), nevi (new), neve (news), neva (renovate).
-
 
 ### Sinitic words
 

@@ -7,28 +7,28 @@
 ![](http://www.pandunia.info/grafe/halo.png "halo!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
-<big>👩🏻</big>
+<big>☺</big>
 **halo!**
 = Hello!  
-<big>🧑🏾</big>
+<big>☻</big>
 **salam!**
 = Hello!  
-<big>👩🏻</big>
+<big>☺</big>
 **tu si ke?**
 = Who are you?  
-<big>🧑🏾</big>
+<big>☻</big>
 **mi si Yusef. tu si ke?**
 = I am Yusef. Who are you?  
-<big>👩🏻</big>
+<big>☺</big>
 **mi si Sara. ye si ke?**
 = I am Sara. Who is that?  
-<big>🧑🏾</big>
+<big>☻</big>
 **ye si mi su dosti.**
 = That is my friend.  
-<big>👩🏻</big>
+<big>☺</big>
 **ye su nam si ke?**
 = What's her name?  
-<big>🧑🏾</big>
+<big>☻</big>
 **ye su nam si Maria.**
 = Her name is Maria.
 
@@ -38,8 +38,9 @@ Pandunia's sentences normally follow the topic-comment structure.
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
 **ye si mi su dosti**
-the topic is the pronoun **ye** (he, she, it), which is followed by
-the comment **si mi su dosti** (is my friend).
+the topic is the pronoun **ye** (he, she, it), which is followed by the comment
+**si mi su dosti**
+(is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons. And to say the opposite, 
@@ -108,8 +109,6 @@ good
 friend  
 **nam**
 name  
-**namu**
-be called  
 **fem**
 woman  
 **man**
@@ -192,9 +191,10 @@ that are obvious in the present situation.
 **salam!**
 = Greeting! (It is obvious that the listeners are greeted.)  
 
-Another Pandunia word for greeting is **halo**. It is also a very
-international greeting. You can choose freely, which word to use when
-you greet people.
+Another Pandunia word for greeting is
+**halo**.
+It is also a very international greeting.
+You can choose freely, which word to use when you greet people.
 
 **halo!**
 = Hello!
@@ -252,29 +252,29 @@ chief, boss
 
 ### Dialog
 
-<big>🧒</big>
+<big>☻</big>
 **halo!**
 = Hello!  
-<big>🧓</big>
+<big>☺</big>
 **halo! ching side.**
 = Hello! Please sit!  
-<big>🧒</big>
+<big>☻</big>
 **shukur.**
 = Thank you.  
-<big>🧓</big>
+<big>☺</big>
 **ching yam kafe o chai.**
 = Please have some coffee or tea.  
-<big>🧒</big>
+<big>☻</big>
 **mi vol chai. shukur.**
 = I will have some tea, thank you.  
 ...  
-<big>🧓</big>
+<big>☺</big>
 **ching salam tu su mama!**
 = Please tell greetings to your mother.  
-<big>🧒</big>
+<big>☻</big>
 **mi salam ye. salam reste!**
 = I will. Bye!  
-<big>🧓</big>
+<big>☺</big>
 **salam ga!**
 = Bye!
 
@@ -417,37 +417,37 @@ to eat or drink
 
 ### Dialog
 
-<big>👩‍🍳</big>
+<big>☺</big>
 **salam! sual tu yam kafe o chai?**
 = Hello! Would you like to have coffee or tea?  
-<big>🧔</big>
+<big>☻</big>
 **chai.**
 = Tea.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **e tu?**
 = And you?  
-<big>🧓</big>
+<big>☹</big>
 **mi no basha pandunia...**
 = I don't speak Pandunia...  
-<big>👩‍🍳</big>
+<big>☺</big>
 **maf! sual ye yam chai?**
 = Pardon! Will he have tea?  
-<big>🧔</big>
+<big>☻</big>
 **no. ye no yam chai. ye yam kafe.**
 = No, he won't. He would like to have coffee.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **sual tu yam supe?**
 = Would you like to have soup?  
-<big>🧔</big>
+<big>☻</big>
 **ya.**
 = Yes.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **sual ye yam supe?**
 = Would he like to have soup?  
-<big>🧔</big>
+<big>☻</big>
 **no yam.**
 = No.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **shukur. mi dona un chai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
@@ -600,7 +600,7 @@ and even numeral.
 
 **ye no ten mau.**
 = She doesn't have a cat.  
-**ye ten no mau, ama vaf.**
+**ye ten no mau, a vaf.**
 = She has no cats but dogs.  
 **no ye, a mi ten mau.**
 = Not she but I have cats.  
@@ -662,11 +662,15 @@ manner or thing if needed.
 
 **ye si ke?**
 = What is that? / Who is (s)he?  
+**ye si ke jen?**
+= Who is he/she?  
+**ye si ke she?**
+= What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  
 **tu yam na ke zaman?**
 = When do you eat? (**zaman** = time)  
-**danse na ke yang?**
+**mon danse na ke yang?**
 = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
@@ -815,7 +819,7 @@ Try translating these sentences from English to Pandunia.
 2. I used to have two dogs.	
 3. You are eating soup right now.
 4. She cleaned the room the day before.
-5. The cat will drink coffee tomorrow.
+5. The cat will drink milk tomorrow.
 6. Your mother partied last night.
 
 ### Word List
@@ -831,7 +835,9 @@ to hit, to beat
 **pang**
 bread  
 **suba yam**
-morning meal, breakfast
+morning meal, breakfast  
+**milke**
+milk
 
 ### Answers to the Exercises
 
@@ -839,6 +845,6 @@ morning meal, breakfast
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
 4. ye safa kamar na chen den.
-5. mau yam kafe na pos den.
+5. mau yam milke na pos den.
 6. tu su mama festa na chen noche.
 

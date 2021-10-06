@@ -110,7 +110,7 @@
 |**barti**|intialainen|hindi:भारतीय (bhārtīy), urdu:(bhārtīy), marathi:(bhārtīya), telugu:(bhāratīya)|
 |**baru**|karhu|englanti:bear, deu:Bär + hindi:भालू (bhālū) bangla:ভালুক (bhaluk) + malaiji:beruang|
 |**barude**|ruuti|arabia:persia:urdu:(bārūd), hindi:बारूद (bārūd), suahili:baruti, turkki:barut|
-|**basa**|tarpeeksi (riittävästi)|persia:urdu:س (bas), arabia:(bass), hindi:(bas), suahili:basi, espanja:portugali:italia:basta|
+|**bas**|tarpeeksi (riittävästi)|persia:urdu:س (bas), arabia:(bass), hindi:(bas), suahili:basi, espanja:portugali:italia:basta|
 |**basen**|allas|englanti:basin, ranska:bassin, venäjä:бассейн (basseyn), portugali:bacia|
 |**basha**|puhua (kieli, kommunikaatio)|hindi:भाषा (bhāṣā), urdu:(bhāṣā), bangla:ভাষা (bhaṣa), pandzabi:ਭਾਸ਼ਾ (bhāshā), telugu:భాష (bhāṣa), tamili:பாசை (pāsai), thai:ภาษา (phasa), malaiji:bahasa, jav:basa|
 |**baske**|kori|englanti:basket, malaiji:bakul, japani:バスケット (basuketto)|
@@ -278,7 +278,7 @@
 |**dom**|asunto (koti)|venäjä:дом (dom), puola:dom, latina:domus, + englanti:domestic, ranska:domestique, espanja:portugali:doméstico|
 |**dom**|koti|yleiskiina:家 (jiā), kantoninkiina:家 (gaa1), japani:家 (ka), korea:가 (ga), vietnami:gia|
 |**domino gem**|dominopeli|englanti:dominoes, espanja:portugali:dominó, ranska:dominos, venäjä:домино (domino), yleiskiina:多米诺 (duōmǐnuò), japani:ドミノ牌 (dominohai)|
-|**dona**|antaa|ranska:donner, englanti:donate, espanja:portugali:donar|
+|**don**|antaa|ranska:donner, englanti:donate, espanja:portugali:donar|
 |**dong**|itä|yleiskiina:东 (dōng), kantoninkiina:東 (dōng), vietnami:đông, korea:동 (dong), turkki:doğu|
 |**donjon ventur**|luolaseikkailu|englanti:dungeon, ranska:donjon, japani:ダンジョン (danjon)|
 |**dosha**|vika (synti)|malaiji:dosa, hindi:दोष (doś), thai:โทษ (toot(sa))|
@@ -297,7 +297,7 @@
 |**duku**|lukea|yleiskiina:读 (dú), kantoninkiina:讀 (duk6), japani:讀 (doku-), korea:독 (dok), vietnami:đọc|
 |**duman**|savu|hindi:धूआँ (dhuã), turkki:duman, venäjä:дым (dym), kannada:(dhūma), bangla:ধোঁয়া (dhõẇa)|
 |**dunia**|maailma|arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), malaiji:suahili:dunia, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya|
-|**dura**|aika (kesto, kestoaika)|englanti:duration, ranska:durée, espanja:portugali:durar + bangla:ধরে (dhôre), hindi:दौरान (daurān)|
+|**dur**|aika (kesto, kestoaika)|englanti:duration, ranska:durée, espanja:portugali:durar + bangla:ধরে (dhôre), hindi:दौरान (daurān)|
 |**dus**|paha (epäsuotuisa, epämiellyttävä, vastustava)|englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-|
 |**dush**|suihku|ranska:douche, espanja:portugali:ducha, deu:Dusche, venäjä:душ (duš), arabia: دوش (dūš), malaiji:dus, turkki:duş|
 |**dute**|epäilys|ranska:doute, englanti:doubt, espanja:filippiini:duda|
@@ -484,8 +484,8 @@
 |**Guangjou**|Guangzhou (Kanton)|CN|
 |**gubu**|virtahepo|fulani:ngabu Kongo:ngubu, sot:tsw:kubu, zulu:rwa:imvubu, amharabia:ጉማሬ (gumare)|
 |**gui**|peikko|yleiskiina:鬼 (guǐ), vietnami:quỷ, + thai:กุ๊ย (gui)|
-|**gul**|ghouli|arabia:الغول (ghūl), persia:غول‎ (ğul), englanti:portugali:ghoul, espanja:gul, venäjä:гуль (gul′), turkki:kulbastı, malaiji:ghul, japani:グール (gūru)|
-|**gulu**|niellä|bangla:গেলা (gela), portugali:engolir, venäjä:глотать (glotat'), thai:กลืน (glʉʉn), espanja:deglutir, ranska:déglutir|
+|**gul**|niellä|bangla:গেলা (gela), portugali:engolir, venäjä:глотать (glotat'), thai:กลืน (glʉʉn), espanja:deglutir, ranska:déglutir|
+|**gule**|ghouli|arabia:الغول (ghūl), persia:غول‎ (ğul), englanti:portugali:ghoul, espanja:gul, venäjä:гуль (gul′), turkki:kulbastı, malaiji:ghul, japani:グール (gūru)|
 |**guma**|rumpu|suahili:ngoma + yleiskiina:鼓 (gǔ)|
 |**gun**|armeija (sotajoukko)|yleiskiina:军 (jūn), kantoninkiina:軍 (gwan1), japani:軍 (gun), korea:군 (gun), vietnami:quân|
 |**guru**|guru (opettaja)|hindi:गुरु (guru), bangla:গুরু (guru), gujarati:ગુરુ (guru), pandzabi:ਗੁਰੂ (gurū), filippiini:guro, thai:ครู (gruu), malaiji:englanti:portugali:guru, espanja:gurú, venäjä:гуру (guru), ranska:gourou, korea:구루 (guru), japani:グル (guru)|

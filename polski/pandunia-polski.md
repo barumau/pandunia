@@ -250,7 +250,7 @@ barti - Indyjski
 Barti Hai - Ocean Indyjski  
 baru - niedźwiedź  
 barude - proch strzelniczy  
-basa - wystarczający  
+bas - wystarczający  
 basen - basen  
 basha - język; komunikacja; mówić  
 basha jinse - rodzaj gramatyczny  
@@ -288,7 +288,7 @@ be dai - urosnąć, rosnąć, wzrosnąć, wzrastać
 be dara - latać (fruwać)  
 be dom - mieszkać  
 be duka - martwić  
-be dura - trwać, zająć czas; przez  
+be dur - trwać, zająć czas; przez  
 be emosi - czuć, odczuć, odczuwać  
 be estasi - nie ruszać się  
 be fatige - męczyć się (nużyć się)  
@@ -652,8 +652,8 @@ dom zeze - mucha
 Dominika - Dominika (Wspólnota Dominiki)  
 Dominika Komunkrati - Republika Dominikańska (Dominikana)  
 domino gem - domino  
-dona - dać, dawać  
-dona she - podarunek, dar, prezent  
+don - dać, dawać  
+don she - podarunek, dar, prezent  
 dong - wschód  
 dong di - wschodni  
 dong gorila - goryl wschodni  
@@ -692,11 +692,11 @@ duman - dym
 dunia - świat  
 dunia basha - język świata, język ogólnoświatowy  
 dunia di - globalny  
-dura - trwanie  
-dura bil - trwały (wytrzymały, podtrzymywalny)  
-dura di - chroniczny  
-dura metre gi - stoper (sekundomierz)  
-dura zaman - czas (epoka, era)  
+dur - trwanie  
+dur bil - trwały (wytrzymały, podtrzymywalny)  
+dur di - chroniczny  
+dur metre gi - stoper (sekundomierz)  
+dur zaman - czas (epoka, era)  
 dus darja - dezaktualizować (pogorszyć)  
 dus funsi - awaria (wadliwe działanie)  
 dus hal - trudność (trud)  
@@ -801,7 +801,7 @@ fa dom - dać mieszkanie (zakwaterować)
 fa dosil - oswoić (oswajać, tresować, trenować)  
 fa dosil jene - udomowić (kultywować)  
 fa duka - zasmucić (zasmucać)  
-fa dura - minąć, mijać (czas)  
+fa dur - minąć, mijać (czas)  
 fa dus nam - obrazić  
 fa english kitabu - anglizować (zanglizować)  
 fa eskulte - rzeźbić  
@@ -1016,7 +1016,7 @@ fem raja - królowa
 fem sim - feminizm  
 fem sim ja - feminista (feministka)  
 fen - część, ułamek  
-fen dona - wnieć wkład (przyczynić się)  
+fen don - wnieć wkład (przyczynić się)  
 fen gata - analiza  
 fermi yum - ferm  
 fero - żelazo  
@@ -1259,8 +1259,8 @@ gubu - hipopotam
 gui - ogr (trol, goblin)  
 gui papi - mak wschodni  
 gujarati - Gudżarat  
-gul - ghul  
-gulu - połknąć (połykać)  
+gule - ghul  
+gul - połknąć (połykać)  
 guma - bęben  
 gun - armia  
 gun jen - żołnierz  
@@ -1495,7 +1495,7 @@ jebe - kieszeń
 jebra - algebra  
 jeka - pożyczyć  
 jeka deku - pożyczać (pożyczyć)  
-jeka dona - pożyczać komuś (pożyczyć komuś)  
+jeka don - pożyczać komuś (pożyczyć komuś)  
 jeka loga - zapożyczenie (wyraz obcy)  
 jela - więzienie, kara więzienia, kara pozbawienia wolności  
 jela ja - strażnik więzienny  
@@ -1723,7 +1723,7 @@ kio - most
 kioske - kiosk  
 Kipris - Cypr  
 kira - wynająć, wynajmować, zatrudnić, zatrudniać  
-kira dona - wynająć, oddać w najem  
+kira don - wynająć, oddać w najem  
 kira kape - wynająć, oddać w najem  
 kirate - karat  
 Kirgize - Kirgistan  
@@ -2081,7 +2081,7 @@ mas di fen - większość
 mas fili - preferować (woleć)  
 mas fili di - ulubiony  
 mas gun - wsparcie (wzmocnienie, zasilenie)  
-mas ka basa - zbyt  
+mas ka bas - zbyt  
 masa - masa  
 masa mula - bulwa  
 masa mula sol hua - topinambur  
@@ -2193,7 +2193,7 @@ milke kardon - ostropest plamisty
 mimon - my  
 min - mniej  
 min di fen - mniejszość  
-min ka basa - zbyt mało  
+min ka bas - zbyt mało  
 minare - wieża  
 ming - jasny, czysty  
 minim - najmniej, minimalnie  
@@ -2369,7 +2369,7 @@ nerve selu - neuron
 nesi - wyspa  
 nesi jama - archipelag  
 nete - sieć  
-nete dona - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
+nete don - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 nete gete - ściągać (ściągnąć, pobrać, pobierać)  
 nete loka - witryna internetowa (portal internetowy)  
 Nevis - Nevis  
@@ -2924,8 +2924,8 @@ sar kesha - włosy
 sar oste - czaszka  
 sata - moment  
 sata di - chwilowy  
-sata dona - dedykować (poświęcać, poświęcić)  
-sata dona ta - dedykacja (poświęcenie)  
+sata don - dedykować (poświęcać, poświęcić)  
+sata don ta - dedykacja (poświęcenie)  
 Saturne - Saturn  
 Saudi Arabia - Arabia Saudyjska  
 sauna - sauna  

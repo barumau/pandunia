@@ -1,4 +1,4 @@
-#asar da mul basha da pandunia
+# asar da mula basha da pandunia
 
 | basha | asar |
 |-------|--------|

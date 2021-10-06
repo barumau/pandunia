@@ -1,6 +1,6 @@
-# pandunia di loga di asli
+# pandunia di loga su asal
   
-pandunia di loga ye lai ze poli basha da dunia.
+pandunia di loga ya lai ze poli basha da dunia.
   
 - afrika basha
     - (ara) arabi 
@@ -30,7 +30,7 @@ pandunia di loga ye lai ze poli basha da dunia.
     - (tur) turki
     - (fas) farsi
 
-| pandunia | loga di asli |
+| pandunia | loga su asal |
 |----------|--------------|
 |**a**|rus:а (a)|
 |**abies**|spa:por:abeto|
@@ -142,7 +142,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**barti**|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
 |**baru**|eng:bear, deu:Bär + hin:भालू (bhālū) ben:ভালুক (bhaluk) + may:beruang|
 |**barude**|ara:fas:urd:(bārūd), hin:बारूद (bārūd), swa:baruti, tur:barut|
-|**basa**|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
+|**bas**|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |**basen**|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |**basha**|hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|
 |**baske**|eng:basket, may:bakul, jpn:バスケット (basuketto)|
@@ -310,7 +310,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**dom**|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
 |**dom**|zho:家 (jiā), yue:家 (gaa1), jpn:家 (ka), kor:가 (ga), vie:gia|
 |**domino gem**|eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|
-|**dona**|fra:donner, eng:donate, spa:por:donar|
+|**don**|fra:donner, eng:donate, spa:por:donar|
 |**dong**|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|
 |**donjon ventur**|eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|
 |**dosha**|may:dosa, hin:दोष (doś), tha:โทษ (toot(sa))|
@@ -329,7 +329,7 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**duku**|zho:读 (dú), yue:讀 (duk6), jpn:讀 (doku-), kor:독 (dok), vie:đọc|
 |**duman**|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
 |**dunia**|ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|
-|**dura**|eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|
+|**dur**|eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|
 |**dus**|eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|
 |**dush**|fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|
 |**dute**|fra:doute, eng:doubt, spa:tgl:duda|
@@ -518,8 +518,8 @@ pandunia di loga ye lai ze poli basha da dunia.
 |**gubu**|ful:ngabu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)|
 |**gui**|zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|
 |**guku hua**|zho:菊 (jú), yue:菊 (guk1), jpn:キク (kiku), kor:국화 (gukhwa), vie:cúc đại đóa, tha:เก๊กฮวย (gék-huai), may:kekwa, ara:قحوان (quḥwān)|
-|**gul**|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
-|**gulu**|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
+|**gule**|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
+|**gul**|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
 |**guma**|swa:ngoma + zho:鼓 (gǔ)|
 |**gun**|zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|
 |**guru**|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|

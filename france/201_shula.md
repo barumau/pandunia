@@ -602,7 +602,7 @@ Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et 
 
 **ye no ten mau.**
 = Elle n'a pas de chat.  
-**ye ten no mau, ama vaf.**
+**ye ten no mau, a vaf.**
 = Elle n'a pas de chats, mais des chiens.  
 **no ye, a mi ten mau.**
 = Pas elle, mais j'ai des chats.  

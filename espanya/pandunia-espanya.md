@@ -257,7 +257,7 @@ barti - indio (hindú)
 Barti Hai - océano Índico  
 baru - oso  
 barude - pólvora  
-basa - bastante  
+bas - bastante  
 basen - piscina (alberca, lavadero)  
 basha - lengua (idioma, hablar, comunicación)  
 basha jinse - género gramatical  
@@ -294,7 +294,7 @@ be dai - crecer (aumentar)
 be dara - fluir  
 be dom - vivir (residir)  
 be duka - llorar  
-be dura - durar (durante, llevar tiempo)  
+be dur - durar (durante, llevar tiempo)  
 be emosi - sentir  
 be estasi - pararse (detenerse)  
 be fatige - cansarse (fatigar)  
@@ -671,9 +671,9 @@ dom zeze - mosco
 Dominika - Dominica  
 Dominika Komunkrati - Republica Dominicana  
 domino gem - dominó  
-dona - dar  
-dona she - regalo (obsequio)  
-dona tabi - generoso (dadivoso)  
+don - dar  
+don she - regalo (obsequio)  
+don tabi - generoso (dadivoso)  
 dong - éste  
 dong di - oriental  
 dong gorila - gorila oriental  
@@ -711,11 +711,11 @@ duman - humo
 dunia - mundo  
 dunia basha - lengua mundial  
 dunia di - global (mundial)  
-dura - duración  
-dura bil - durable  
-dura di - crónico  
-dura metre gi - cronómetro  
-dura zaman - era (periodo, época)  
+dur - duración  
+dur bil - durable  
+dur di - crónico  
+dur metre gi - cronómetro  
+dur zaman - era (periodo, época)  
 dus - malo (difícil, duro)  
 dus darja - degradar  
 dus funsi - falla (mal funcionamiento)  
@@ -826,7 +826,7 @@ fa dom - alojar (hospedar)
 fa dosil - domar (amansar)  
 fa dosil jene - domesticar (cultivate)  
 fa duka - entristecer (poner triste)  
-fa dura - pasar (transcurrir)  
+fa dur - pasar (transcurrir)  
 fa dus forma - desfigurar  
 fa dus nam - insultar (ofender)  
 fa english kitabu - anglicanizar  
@@ -1057,7 +1057,7 @@ fem sim - feminismo
 fem sim ja - feministe  
 fen - parte (fracción)  
 fen di - parcial  
-fen dona - contribuir  
+fen don - contribuir  
 fen gata - análisis (disección)  
 fermi yum - fermio  
 fero - hierro  
@@ -1320,8 +1320,8 @@ gubu - hipopótamo
 gui - ogro (gnomo, trol, duende, trasgo)  
 gujarati - gujaratí  
 guku hua - crisantemo  
-gul - gul  
-gulu - tragar  
+gule - gul  
+gul - tragar  
 guma - tambor  
 gun - ejército  
 gun jen - soldado  
@@ -1570,7 +1570,7 @@ jebe - bolsillo
 jebra - álgebra  
 jeka - prestar (pedir prestado)  
 jeka deku - pedir prestado  
-jeka dona - prestar  
+jeka don - prestar  
 jeka loga - préstamo lingüístico  
 jela - prisión  
 jela ja - carcelero  
@@ -1805,7 +1805,7 @@ kio - puente
 kioske - quiosco (kiosco)  
 Kipris - Chipre  
 kira - alquiler (arriendo)  
-kira dona - alquilar (arrendar, dar en arriendo)  
+kira don - alquilar (arrendar, dar en arriendo)  
 kira kape - alquilar (arrendar, tomar en arriendo)  
 kirate - quilate  
 Kirgize - Kirguizistán  
@@ -2069,7 +2069,7 @@ loka - lugar
 loka di - local  
 lona - discusión (debate, discurso)  
 long - largo  
-long dura di - perdurable (longevo, prolongado)  
+long dur di - perdurable (longevo, prolongado)  
 long kata - novela (romance)  
 long krokodil - cocodrilo  
 long ta - largo (longitud)  
@@ -2165,7 +2165,7 @@ mas fili - preferir (favorecer)
 mas fili di - favorito (preferido)  
 mas fili sim - favoritismo  
 mas gun - refuerzos  
-mas ka basa - demasiado  
+mas ka bas - demasiado  
 masa - masa (trozo, pedazo)  
 masa mula - tubérculo  
 masa mula sol hua - tupinambo (pataca, alcachofa de Jerusalén)  
@@ -2283,7 +2283,7 @@ mimon - nosotros
 mimon su - nuestro  
 min - menos  
 min di fen - minoría  
-min ka basa - demasiado poco  
+min ka bas - demasiado poco  
 minare - torre  
 ming - brillante (luminoso)  
 minim - lo menos  
@@ -2463,7 +2463,7 @@ nerve selu - neurona
 nesi - isla  
 nesi jama - archipiélago  
 nete - red  
-nete dona - cargar (subir)  
+nete don - cargar (subir)  
 nete gete - descargar  
 nete loka - sitio web  
 Nevis - Nieves  
@@ -3044,7 +3044,7 @@ sar kesha hin - calvo
 sar oste - cráneo (calavera)  
 sata - momento  
 sata di - momentáneo  
-sata dona - dedicar  
+sata don - dedicar  
 Saturne - Saturno  
 Saudi Arabia - Arabia Saudita  
 sauna - sauna  
@@ -3165,7 +3165,7 @@ shuru di - primer (inicial, inaugural)
 shush - chito (chist)  
 shush di - silencioso  
 si - ser (estar)  
-si dura - transcurrir  
+si dur - transcurrir  
 si ja - ser  
 si membre - pertenecer (ser miembro de)  
 sian - cian  

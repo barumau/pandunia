@@ -1,4 +1,4 @@
-# polski-pandunia
+# polski–pandunia
 ####A - A  
 Abchazja - Apsni  
 Abchazja - Arcah  
@@ -329,7 +329,7 @@ Chorwacja - Horvati
 chory - pati di  
 chować (kryć) - fa sir  
 chrom - krom yum  
-chroniczny - dura di  
+chroniczny - dur di  
 chronić (ratować) - fa sekur  
 chronić, strzec,  osłaniać, bronić - garde  
 Chrystus, mesjasz - mesi  
@@ -394,7 +394,7 @@ czapetka kuminowa - jamul
 czar (urok, wdzięk) - charme  
 Czarnogóra - Chernagora  
 czarny - kala  
-czas (epoka, era) - dura zaman  
+czas (epoka, era) - dur zaman  
 czas - zaman  
 czas; okazja - mar  
 czasownik - karma loga  
@@ -436,13 +436,13 @@ darwinista - darvin sim ja
 darwinizm - darvin sim  
 data - nen mes den  
 dać mieszkanie (zakwaterować) - fa dom  
-dać, dawać - dona  
+dać, dawać - don  
 deaktywować (wyłączyć, zatrzymać) - fa an karma  
 debatować, prowadzić dyskurs - fa lona  
 decy-, dziesiąta część - desi  
 decybel - desi bel  
-dedykacja (poświęcenie) - sata dona ta  
-dedykować (poświęcać, poświęcić) - sata dona  
+dedykacja (poświęcenie) - sata don ta  
+dedykować (poświęcać, poświęcić) - sata don  
 defekować, srać - kaka  
 dekoracja (ornament) - sundar daka  
 dekorować - fa sundar daka  
@@ -711,7 +711,7 @@ geologia - geo logi
 german - german yum  
 gest - jeste  
 Ghana - Gana  
-ghul - gul  
+ghul - gule  
 Gibraltar - Jibraltar  
 gitara - gitar  
 glazura (emalia) - kancha daka  
@@ -1508,7 +1508,7 @@ minimalizm - minim sim
 minister - ministre ja  
 ministry - ministre ofis  
 minuta - minute  
-minąć, mijać (czas) - fa dura  
+minąć, mijać (czas) - fa dur  
 minąć, mijać, przeminąć, przemijać - pas  
 misja - mise she  
 mistrz (ekspert) - mestre  
@@ -2062,7 +2062,7 @@ poczta elektroniczna - eletro posta (e-posta)
 poczta, budynek poczty - posta kan  
 początek - shuru  
 pod (poniżej) - na niche  
-podarunek, dar, prezent - dona she  
+podarunek, dar, prezent - don she  
 podatek, opłata - taksi  
 poddanie się, uległość, pokora, posłuszeństwo - islam  
 poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym - be islam  
@@ -2187,7 +2187,7 @@ pozostałość (szczątek) - lashe she
 pozostałość, reszta - reste  
 pozować, ustawiać się - fa poze  
 pozwolić, pozwalać, zezwolić, zezwalać - fa halal  
-połknąć (połykać) - gulu  
+połknąć (połykać) - gul  
 położyć - kush  
 południe - medi dia  
 południe - sude  
@@ -2198,7 +2198,7 @@ południowy - sude di
 połączenie (złącze, styk, związek, powiązanie) - linke  
 pośladki, pupa, tyłek, zadek - pigu  
 pożyczać (pożyczyć) - jeka deku  
-pożyczać komuś (pożyczyć komuś) - jeka dona  
+pożyczać komuś (pożyczyć komuś) - jeka don  
 pożyczyć - jeka  
 pożądanie, żadza - kama  
 praca, zjęcie, zadanie - gong  
@@ -2716,7 +2716,7 @@ stokrotka pospolita - english margarita
 stolarz - moka jiang ja  
 stop; przerwa, zatrzymanie - halte  
 stopa - fute  
-stoper (sekundomierz) - dura metre gi  
+stoper (sekundomierz) - dur metre gi  
 stopień Celsjusza - celsius darje  
 stopień, poziom, ranga, klasa - darja  
 stopniowy - darja di  
@@ -2952,9 +2952,9 @@ tropikalny - garma zona di
 tropiki - garma zona  
 trucizna (toksyna) - toksi  
 trudność (trud) - dus hal  
-trwanie - dura  
-trwać, zająć czas; przez - be dura  
-trwały (wytrzymały, podtrzymywalny) - dura bil  
+trwanie - dur  
+trwać, zająć czas; przez - be dur  
+trwały (wytrzymały, podtrzymywalny) - dur bil  
 tryb nocny - noche mode  
 Trynidad i Tobago - Trinidade e Tobago  
 trzcina cukrowa - sukar gana  
@@ -3188,7 +3188,7 @@ więzienie, kara więzienia, kara pozbawienia wolności - jela
 więzienie, zakład karny - jela kan  
 wiśnia (czereśnia) - cheri  
 wkrótce - sun  
-wnieć wkład (przyczynić się) - fen dona  
+wnieć wkład (przyczynić się) - fen don  
 wnętrze (środek) - in  
 woda - sui  
 woda mineralna - kuanga sui  
@@ -3257,7 +3257,7 @@ wymagać, przewidywać - fa sharti
 wymawiać (wymówić) - fa fon  
 wymieniać, wymienić, zamieniać, zamienić - badal  
 wymiotować (zwrócić) - retro gula  
-wynająć, oddać w najem - kira dona  
+wynająć, oddać w najem - kira don  
 wynająć, oddać w najem - kira kape  
 wynająć, wynajmować, zatrudnić, zatrudniać - kira  
 wynik (punktacja) - punte nomer  
@@ -3280,8 +3280,8 @@ Wyspy Marshalla - Marshal nesi
 Wyspy Salomona - Solomon nesi  
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde  
 Wyspy Świętego Tomasza i Książęca - Sante Tome e Prinsipe  
-wystarczający - basa  
-wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete dona  
+wystarczający - bas  
+wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete don  
 wysłać (wyemitować) - mise  
 wytwórca łuków i strzał - fleche ja  
 wyć - ulul  
@@ -3409,8 +3409,8 @@ zbiorowy, zbiorczy - jama di
 zbliżać się (zbliżyć się) - be karibu  
 zbroja - defa kaske  
 zbudować, budować, konstruować - fa bina  
-zbyt - mas ka basa  
-zbyt mało - min ka basa  
+zbyt - mas ka bas  
+zbyt mało - min ka bas  
 zbłąkany (dewiacyjny, wykolejony) - rute galte di  
 zbłąkać się (wykoleić się) - be rute galte  
 zdanie (fraza) - jumla  

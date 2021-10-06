@@ -27,10 +27,10 @@
    nek virgenraj, nek ingenraj, nek ununombraj, nek multnombraj.
 6. **Nombrovortoj:**
    La kardinalaj nombroj estas:
-       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **chatre**, 5 **penta**, 6 **luku**,
-         7 **sete**, 8 **bato**, 9 **tisa**, 10 **des**.
+       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
+         7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.
        - Pli ol dek: 11 **des un**, 12 **des du**, 13 **des tri**, ktp.
-       - Dekoj: 20 **du des**, 30 **tri des**, 40 **chatre des**, ktp.
+       - Dekoj: 20 **du des**, 30 **tri des**, 40 **nelu des**, ktp.
        - Centoj: 100 **un sento**, 200 **du sento**, 300 **tri sento**, ktp.
        - Miloj: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**,ktp.
        - La ordaj nombroj havas sufikson **me**: **un me** (la unua), **du me** (la dua), **tri me** (la tria), ktp.
@@ -68,10 +68,10 @@
 10. **Vortfarado:**
    Oni povas krei novajn vortojn kunmetante aliajn vortojn.
    La ĉefa vorto ĉiam staras je la fino.
-    - **poste**
+    - **posta**
       ("poŝto") +
       **kasa**
       ("kesto") =
-      **poste kasa**
+      **posta kasa**
       ("leterkesto")
 

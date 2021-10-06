@@ -1,6 +1,6 @@
-#numbe da pandunia loga ze ali basha
+# nomer da pandunia loga ze alo basha
 
-| basha | numbe | fen |
+| basha | nomer | fen |
 |-------|-------|-----|
 | pan | 1592 | 100% |
 | english | 1075 | 68% |

@@ -1,4 +1,4 @@
-# france-pandunia
+# france–pandunia
 a (dans, en, chez) - na  
 ####A - A  
 abattoir - bucha kan  
@@ -144,7 +144,7 @@ asexué - an sekse di
 asiatique - asia  
 Asie - Asia  
 aspirine - aspirin  
-assez - basa  
+assez - bas  
 Assur - Ashur  
 Assyrie - Ashur desha  
 astate - astatin  
@@ -389,8 +389,8 @@ chocolat - choklate
 chose - she  
 Christ (messie) - mesi  
 chrome - krom yum  
-chronique - dura di  
-chronomètre - dura metre gi  
+chronique - dur di  
+chronomètre - dur metre gi  
 chu - pade di  
 chéri - ama jen  
 chêne - baluta  
@@ -549,8 +549,8 @@ droit - haki
 droits de l'homme - insan haki  
 dubnium - dubna yum  
 dur - gati  
-durer - be dura  
-durée - dura  
+durer - be dur  
+durée - dur  
 dynamite - dinamite  
 dysprosium - disprosi yum  
 dé - zar kube  
@@ -707,7 +707,7 @@ glisser - glis
 gnome - geo elfe  
 gombo - bamia  
 gorille - gorila  
-goule - gul  
+goule - gule  
 gouvernement - politi  
 grand-mère - chin ma  
 grand-père - chin pa  
@@ -727,7 +727,7 @@ gâteau de lune - luna keke
 génotype - jene tipe  
 généalogie - jene logi  
 généralissime - gun raja  
-généreux - dona tabi  
+généreux - don tabi  
 généreux - karim di  
 générosité (charité) - karim  
 géologie - geo logi  
@@ -906,7 +906,7 @@ local - loka di
 loin (hors, parti) - for  
 loin - do long  
 long - long  
-longtemps - long dura  
+longtemps - long dur  
 loquace - loga tabi di  
 loquet - kane sor  
 louche (cuillère à pot) - pote chamacha  
@@ -1175,7 +1175,7 @@ parole (mots) - loga
 part - fen  
 passe (passage) - pas dau  
 passeport - pasporte  
-passer - fa dura  
+passer - fa dur  
 passer - pas  
 pastèque - arbuza  
 paternel - pa di  
@@ -1304,7 +1304,7 @@ projectile - lanse she
 projection - lanse grafi  
 projet - projete  
 projeter (donner) - lanse grafi  
-prolongé - long dura di  
+prolongé - long dur di  
 promettre - fa vode  
 prométhium - promete yum  
 Prométhée - Promete  
@@ -1316,7 +1316,7 @@ précieux - bau di
 préférer - mas fili  
 présent - zai di  
 prêter (empruntre) - jeka  
-prêter - jeka dona  
+prêter - jeka don  
 psychologie - ruhu logi  
 psyché - ruhu  
 punicion - fatu  
@@ -1449,7 +1449,7 @@ scutelle - oste shalke
 se - se  
 se baigner - banya  
 se mouvoir - be kino  
-se passer - si dura  
+se passer - si dur  
 se plaire - be suka  
 se rappeler (se remémorer) - fa memo  
 seaborgium - siborge yum  

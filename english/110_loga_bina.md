@@ -193,6 +193,6 @@ certain way or to follow a certain ideology or religion.
 
 Indicates a thing that exhibits an attribute or suffers an action.
 
-**save** to know  
-**save she** known thing (knowledge)  
+**sabe** to know  
+**sabe she** known thing (knowledge)  
 

@@ -1,4 +1,28 @@
-# pandunia-suomi
+# Pandunia–suomi-sanasto
+
+Tämä sanasto sisältää panduniain sanoja ja niiden käännöksiä suomen kielelle.
+Sanasto on järjestetty aakkosjärjestykseen panduniain sanojen mukaan.
+
+Jokainen hakusana koostuu panduniain sanasta tai yhdyssanasta ja sen suomennoksesta.
+Yhtä suomennosta käytetään silloin,
+kun sanojen merkitykset ovat lähellä toisiaan tai täsmälleen samoja kummassakin kielessä.
+
+> aple - omena  
+> arane - hämähäkki
+
+Kun hakusanalle on useampia käännöksiä,
+yleisin käännös on ensimmäisenä
+ja sen perässä on sulkeiden sisällä pääkäännöksen merkitystä laajentavia tai tarkentavia käännöksiä.
+
+> chira - repiä (raastaa)
+
+Jos hakusanalla on useampia merkityksiä,
+niiden käännökset erotetaan puolipisteellä.
+
+> ching - pyytää (anoa; ole hyvä)
+
+---
+
 ####A - A  
 a - mutta  
 a min da - paitsi (miinus)  
@@ -276,7 +300,7 @@ barti - intialainen
 Barti Hai - Intian valtameri  
 baru - karhu  
 barude - ruuti  
-basa - tarpeeksi (riittävästi)  
+bas - tarpeeksi (riittävästi)  
 basen - allas  
 basha - puhua (kieli, kommunikaatio)  
 basha jinse - kieliopillinen suku  
@@ -315,7 +339,7 @@ be dai - kasvaa (suurentua)
 be dara - virrata  
 be dom - asua  
 be duka - surra (murehtia)  
-be dura - kestää (viedä aikaa)  
+be dur - kestää (viedä aikaa)  
 be emosi - tuntea (kokea tunteita)  
 be estasi - seisoa (seisahtaa)  
 be fatige - väsyä  
@@ -743,9 +767,9 @@ dom zeze - kärpänen
 Dominika - Dominika  
 Dominika Komunkrati - Dominikaaninen Tasavalta  
 domino gem - dominopeli  
-dona - antaa  
-dona she - lahja  
-dona tabi - antelias (avokätinen)  
+don - antaa  
+don she - lahja  
+don tabi - antelias (avokätinen)  
 dong - itä  
 dong di - itäinen  
 dong gorila - idängorilla  
@@ -785,11 +809,11 @@ duman - savu
 dunia - maailma  
 dunia basha - maailmankieli  
 dunia di - maailman-  
-dura - aika (kesto, kestoaika)  
-dura bil - kestävä (luja)  
-dura di - kestävä (krooninen)  
-dura metre gi - sekuntikello  
-dura zaman - aikakausi  
+dur - aika (kesto, kestoaika)  
+dur bil - kestävä (luja)  
+dur di - kestävä (krooninen)  
+dur metre gi - sekuntikello  
+dur zaman - aikakausi  
 dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dus darja - laskea tasoa  
 dus deu sim - dysteismi (usko jumalan pahuuteen)  
@@ -916,7 +940,7 @@ fa dom - asuttaa
 fa dosil - kesyttää  
 fa dosil jene - kesyttää  
 fa duka - surettaa  
-fa dura - kuluttaa (viettää aikaa)  
+fa dur - kuluttaa (viettää aikaa)  
 fa dus forma - turmella ulkomuoto  
 fa dus nam - solvata (loukata)  
 fa english kitabu - englannistaa  
@@ -1173,7 +1197,7 @@ fem sim - feminismi
 fem sim ja - feministi  
 fen - osa (lohko, pala)  
 fen di - osittainen  
-fen dona - osallistua (tehdä osansa)  
+fen don - osallistua (tehdä osansa)  
 fen gata - analyysi  
 fermi yum - fermium  
 fero - rauta  
@@ -1454,8 +1478,8 @@ gubu - virtahepo
 gui - peikko  
 gui papi - idänunikko  
 gujarati - gujarati (eräs intialainen kieli)  
-gul - ghouli  
-gulu - niellä  
+gule - ghouli  
+gul - niellä  
 guma - rumpu  
 gun - armeija (sotajoukko)  
 gun jen - sotilas  
@@ -1941,7 +1965,7 @@ kio - silta
 kioske - kioski  
 Kipris - Kypros  
 kira - vuokra  
-kira dona - vuokrata  
+kira don - vuokrata  
 kira kape - vuokrata  
 kirate - karaatti  
 Kirgize - Kirgistan (Kirgisia)  
@@ -2188,8 +2212,8 @@ loka - paikka (sija, sijainti)
 loka di - paikallinen  
 lona - väittely (debatti)  
 long - pitkä  
-long dura - kauan (pitkän aikaa)  
-long dura di - pitkäaikainen (pitkäkestoinen)  
+long dur - kauan (pitkän aikaa)  
+long dur di - pitkäaikainen (pitkäkestoinen)  
 long kata - romaani  
 long pipre - pitkäpippuri  
 long ta - pituus  
@@ -2281,7 +2305,7 @@ mas di fen - enemmistö
 mas fili - suosia (pitää parempana)  
 mas fili di - suosikki (suosittu)  
 mas fili sim - suosinta (favoritismi)  
-mas ka basa - liikaa  
+mas ka bas - liikaa  
 masa - massa  
 masaje - vaivata (hieroa)  
 masaje - hieronta  
@@ -2386,7 +2410,7 @@ mimon - me
 mimon su - meidän  
 min - vähemmän  
 min di fen - vähemmistö  
-min ka basa - liian vähän  
+min ka bas - liian vähän  
 minare - torni  
 ming - kirkas (selkeä)  
 minim - vähiten  
@@ -3208,7 +3232,7 @@ shuru - alku
 shush - hiljaa (hys, shhh)  
 shush di - hiljainen  
 si - olla  
-si dura - kulua (vieriä)  
+si dur - kulua (vieriä)  
 si ja - olento (olio)  
 si membre - kuulua (olla jäsenenä)  
 sian - syaani  

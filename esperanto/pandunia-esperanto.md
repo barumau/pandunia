@@ -152,7 +152,7 @@ Barti - Baratio
 barti - Barata  
 baru - urso  
 barude - pulvo  
-basa - sufiĉa  
+bas - sufiĉa  
 basen - baseno  
 basha - lingvo (paroli, komuniki)  
 basha kanun - gramatiko  
@@ -175,7 +175,7 @@ be bum - eksplodi
 be chen - antaŭiri  
 be dom - loĝi  
 be duka - lamenti  
-be dura - daŭri (dum)  
+be dur - daŭri (dum)  
 be emosi - emocii  
 be fin - finiĝi  
 be fobi - timi  
@@ -398,9 +398,9 @@ dom - hejmo
 dom desha - patrio  
 dom di - hejma  
 dom zeze - muŝo  
-dona - doni  
-dona she - donaco  
-dona tabi - malavara  
+don - doni  
+don she - donaco  
+don tabi - malavara  
 dong - oriento  
 dosha - kulpo  
 dosha di - kulpa  
@@ -425,7 +425,7 @@ duman - fumo
 dunia - mondo  
 dunia basha - mondlingvo  
 dunia di - tera  
-dura - daŭro  
+dur - daŭro  
 dus jen - malamiko  
 dus vide - malbonaspekta  
 dush - duŝo  
@@ -485,7 +485,7 @@ fa dante - mordi
 fa dika - celi  
 fa dom - loĝigi  
 fa duka - malĝojigi  
-fa dura - daŭrigi  
+fa dur - daŭrigi  
 fa eskulte - skulti  
 fa fantazi - fantaci  
 fa fen - dividi  
@@ -727,7 +727,7 @@ guai - stranga
 Guatemala - Gvatemalo  
 gubu - hipopotamo  
 gui - ogro (trolo)  
-gulu - gluti  
+gul - gluti  
 guma - tamburo  
 gun - armeo  
 gun jen - soldato  
@@ -1165,7 +1165,7 @@ marche - promeno (marŝo)
 margarin - margarino  
 mas - pli  
 mas fili - preferi (pliŝati)  
-mas ka basa - tro  
+mas ka bas - tro  
 masa - maso  
 masala - spico  
 masim - plej  
@@ -1222,7 +1222,7 @@ milke - lakto
 mimon - ni  
 mimon su - nia  
 min - malpli  
-min ka basa - maltro  
+min ka bas - maltro  
 minare - turo  
 minim - malplej  
 ministre ja - ministro  
