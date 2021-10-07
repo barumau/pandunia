@@ -34,7 +34,7 @@ Ella tiene gramático más sencillo, formas de palabras más internacional, y mu
 - [Lecciones pequeñas con gráficos](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Guía de conversación](200_baze_jumla.md)
 - [Gramático de Pandunia](pan.pdf) como PDF
-- [Dicionario que puede buscarse](tiddly.html)
+- [Dicionario que puede buscarse](http://www.pandunia.info/pandunia/logia.html)
 - [Orígenes de las palabras](leksaslia.md)
 
 

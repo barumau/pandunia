@@ -43,8 +43,8 @@ the topic is the pronoun **ye** (he, she, it), which is followed by the comment
 (is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
-The same word is used for all persons. And to say the opposite, 
-simply replace it with **no** (which is the word for _no_).
+The same word is used for all persons.
+And to say the opposite, simply put **no** before it.
 
 **ye si Sara.**
 = She is Sarah.  
