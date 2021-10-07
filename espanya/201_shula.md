@@ -8,28 +8,28 @@ Presentación
 
 ![](http://www.pandunia.info/grafe/halo.png "halo!")
 
-<big>��</big»
+<big>☺</big>
 **halo!**
 = ¡Hola!  
-<big>��</big>
+<big>☻</big>
 **salam!**
 = ¡Buenos!  
-<big>��</big>
+<big>☺</big>
 **tu si ke?**
 = ¿Quién es usted?  
-<big>🧔</big>
+<big>☻</big>>
 **mi si Yusef. tu si ke?**
 = Yo soy Yusef. ¿Quién es usted?  
-<big>👩</big>
+<big>☺</big>>
 **mi si Sara. ye si ke?**
 Yo soy Sara. ¿Quién es?  
-<big>🧔</big>
+<big>☻</big>>
 **ye si mi dosti.**
 = Es una amiga mia.  
-<big>👩</big>
+<big>☺</big>>
 **ye su nam si ke?**
 = ¿Cómo se llama?  
-<big>🧔</big>
+<big>☻</big>>
 **ye su nam si Maria.**
 = Su nombre es Maria.
 
@@ -204,29 +204,29 @@ Pidiendo
 
 ### Diálogo
 
-<big>🧒</big>
+<big>☻</big>>
 **halo!**
 = ¡Hola!  
-<big>🧓</big>
+<big>☺</big>>
 **halo! ching side.**
 = ¡ Hola!¡ Por favor sientese!  
-<big>🧒</big>
+<big>☻</big>>
 **shukur.**
 = ¡Gracias!  
-<big>🧓</big>
+<big>☺</big>>
 **ching yam yo kafe o chai.**
 = Por favor beba algo de café o té.  
-<big>🧒</big>
+<big>☻</big>>
 **mi vol chai. shukur.**
 = Quiero té, gracias.  
 ...  
-<big>🧓</big>
+<big>☺</big>>
 **ching salam tu su mama!**
 = Por favor llevale saludos a tu madre.  
-<big>🧒</big>
+<big>☻</big>>
 **mi salam ye. salam reste!**
 = Yo la saludo. ¡Adiós!  
-<big>🧓</big>
+<big>☺</big>>
 **salam ga!**
 = ¡Chao!
 
@@ -356,37 +356,37 @@ Preguntas de Sí o No
 
 ### Diálogo
 
-<big>👩‍🍳</big>
+<big>☺</big>
 **salam! sual tu yam yo kafe o chai?**
 = ¡Hola! ¿Qué desean tomar café o té?  
-<big>🧔</big>
+<big>☻</big>
 **chai.**
 = Té.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **e tu?**
 = ¿Y usted? 
-<big>🧓</big>
+<big>☹</big>
 **mi no basha pandunia...**
 = Yo no hablo Pandunia...  
-<big>👩‍🍳</big>
+<big>☺</big>
 **maf! sual ye yam chai?**
 = ¡Perdón! ¿Él toma té?  
-<big>🧔</big>
+<big>☻</big>
 **no. ye no yam chai. ye yam kafe.**
 = No. Él no bebe té. Él desea tomar café.  
-<big>👩‍🍳</big>
-**sual tumon yam yo supe?**
+<big>☺</big>
+**sual tu yam yo supe?**
 = ¿Quieren tomar sopa?  
-<big>🧔</big>
+<big>☻</big>
 **ya.**
 = Sí.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **sual ye yam yo supe?**
 = ¿Él quiere tomar sopa?  
-<big>🧔</big>
+<big>☻</big>
 **no yam.**
 = No.  
-<big>👩‍🍳</big>
+<big>☺</big>
 **shukur! mi don un chai e un kafe e un supe pos des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
@@ -705,9 +705,9 @@ sucesivas efectuadas por el mismo agente. El orden de la frase es:
 Recordemos que Pandunia es una lengua que la serialización verbal
 sea común.
 
-**mi vol vide te.**
+**mi vol vide tu.**
 = Quiero verte. (palabras por palabras: Yo querer ver usted)  
-**mi fokus vide te.**
+**mi fokus vide tu.**
 = Te miro. (palabras por palabra: Yo concentrar ver ti)  
 
 Pueden haber mas de dos verbos en serie.

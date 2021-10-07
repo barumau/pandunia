@@ -7,11 +7,20 @@ theme: readthedocs
 nav:
     - Inicio: 'index.md'
     - 'Info':
-        - 'Principios': filsofe.md
+        - 002_filsofi.md
+    - 'Gramatica':
+        - 102_ABC.md
+        - 103_logatipe.md
+        - 104_viseloga.md
+        - 105_namloga.md
+        - 106_nomer.md
+        - 107_modeloga.md
+        - 108_karmaloga.md
+        - 109_jumla_bina.md
+        - 110_loga_bina.md
     - 'Lecciones':
-        - 'Ortografía': 102_ABC.md
-        - 'Frases básicas': fraze.md
-        - 'Curso': darse.md
+        - 'Frases básicas': 200_baze_jumla.md
+        - 'Curso': 201_shula.md
     - 'Diccionarios':
         - 'Pandunia-Español': pandunia-espanya.md
         - 'Español-Pandunia': espanya-pandunia.md
