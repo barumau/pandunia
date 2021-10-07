@@ -1,7 +1,10 @@
-Pandunia - una lengua mundial sencilla
-======================================
+# halo, dunia!
 
-![](http://www.pandunia.info/bandir/bandir.png "Bandera de Pandunia")
+¡Hola, mundo!
+¡Bienvenido a Pandunia, el idioma auxiliar equitativamente mundial! 
+
+![](http://www.pandunia.info/grafe/halou_dunia.png "halo dunia!")  
+<small>Imagen por [Freepik](http://www.freepik.com)</small>
 
 ## ¿Qué es Pandunia?
 
@@ -19,14 +22,34 @@ Algunas características notables de Pandunia:
 - Es verdaderamente internacional. Su vocabulario está compuesto por palabras
   tomadas de muchos idiomas de todo el mundo, incluyendo los 10 más hablados.
 
+La versión final de Pandunia fue finalizada en septiembre 2021.
+Ella tiene gramático más sencillo, formas de palabras más internacional, y muchas palabras nueves.
+
+![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+
+## ¿Cómo aprenderlo?
+
+- [Los básicos](baze.md) en una página corta
+- [Lecciones con diálogos](201_shula.md)
+- [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
+- [Lecciones pequeñas con gráficos](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Guía de conversación](200_baze_jumla.md)
+- [Gramático de Pandunia](pan.pdf) como PDF
+- [Dicionario que puede buscarse](tiddly.html)
+- [Orígenes de las palabras](leksaslia.md)
+
+
+## Textos
+
+- [El rico y el pobre](rici_man_i_miskin_man.md)
+- [Wiki de Fandom en Pandunia](https://pandunia.fandom.com/)
+
 ## Artículos
 
 - [Presentación (PDF en inglés)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
-- [Pandunia, un idioma de contacto
-  global (PDF en inglés)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
+- [Pandunia, un idioma de contacto global (PDF en inglés)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
   un artículo aparecido en *Interlinguistica Tartuensis 10* (en inglés)
-- [¿Por qué me gusta pandunia (PDF en inglés)?
-  ](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opiniones de
+- [¿Por qué me gusta pandunia (PDF en inglés)?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opiniones de
   estudiantes
 
 ## Aprende con otros
@@ -44,7 +67,8 @@ Puedes encontrarlos en varios lugares de internet:
 - Canal QQ: 717549404
 - Sigue a pandunia en [Twitter](https://twitter.com/pandunia_).
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")  
+<small>Imagen por [Freepik](http://www.freepik.com)</small>
 
 Puedes contactar por correo con el creador de Pandunia, Risto Kupsala, en el
 correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los
