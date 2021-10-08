@@ -1,7 +1,7 @@
 # halo, dunia!
 
 ¡Hola, mundo!
-¡Bienvenido a Pandunia, el idioma auxiliar equitativamente mundial! 
+¡Les damos la bienvenida a Pandunia, el idioma auxiliar equitativo a nivel global! 
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
@@ -22,8 +22,8 @@ Algunas características notables de Pandunia:
 - Es verdaderamente internacional. Su vocabulario está compuesto por palabras
   tomadas de muchos idiomas de todo el mundo, incluyendo los 10 más hablados.
 
-La versión final de Pandunia fue finalizada en septiembre 2021.
-Ella tiene gramático más sencillo, formas de palabras más internacional, y muchas palabras nueves.
+Versión final de Pandunia fue inaugurada en septiembre 2021.
+Tiene una gramática más sencilla, formas de palabras más internacionales, y muchas palabras nuevas.
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
@@ -31,7 +31,7 @@ Ella tiene gramático más sencillo, formas de palabras más internacional, y mu
 
 - [Lecciones con diálogos](201_shula.md)
 - [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
-- [Lecciones pequeñas con gráficos](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Guía de conversación](200_baze_jumla.md)
 - [Gramático de Pandunia](pan.pdf) como PDF
 - [Dicionario que puede buscarse](http://www.pandunia.info/pandunia/logia.html)
@@ -45,15 +45,14 @@ Ella tiene gramático más sencillo, formas de palabras más internacional, y mu
 ## Artículos
 
 - [Presentación (PDF en inglés)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
-- [Pandunia, un idioma de contacto global (PDF en inglés)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
+- [Pandunia, un idioma para el contacto global (PDF en inglés)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
   un artículo aparecido en *Interlinguistica Tartuensis 10* (en inglés)
-- [¿Por qué me gusta pandunia (PDF en inglés)?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opiniones de
-  estudiantes
+- [¿Por qué me gusta pandunia (PDF en inglés)?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinión de estudiantes
 
 ## Aprende con otros
 
-Ya hay personas que están interesadas en pandunia y lo están practicando.
-Puedes encontrarlos en varios lugares de internet: 
+Ya hay personas interesadas en pandunia y lo están practicando.
+Puedes encontrarles en varios lugares de internet: 
 
 - Debates en [Reddit](https://www.reddit.com/r/pandunia/)
 - [Grupo de Facebook](http://www.facebook.com/groups/pandunia)
@@ -68,6 +67,6 @@ Puedes encontrarlos en varios lugares de internet:
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
-Puedes contactar por correo con el creador de Pandunia, Risto Kupsala, en el
+Puedes contactar mail al creador de Pandunia, Risto Kupsala, en al
 correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los
 lugares anteriormente citados.

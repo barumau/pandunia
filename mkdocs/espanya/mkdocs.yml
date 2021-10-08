@@ -1,9 +1,12 @@
 site_name: Pandunia
 site_url: http://www.pandunia.info/espanya
 repo_url: https://github.com/barumau/pandunia/
+site_author: Risto Kupsala
 docs_dir: ../../espanya
 site_dir: ../../html/espanya
-theme: readthedocs
+theme:
+    name: readthedocs
+    language: es
 nav:
     - Inicio: 'index.md'
     - 'Info':
@@ -24,5 +27,4 @@ nav:
     - 'Diccionarios':
         - 'Pandunia-Español': pandunia-espanya.md
         - 'Español-Pandunia': espanya-pandunia.md
-        - 'Diccionario etimologico': leksaslia.md
-
+        - 'Diccionario etimológico': leksaslia.md

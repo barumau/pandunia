@@ -1,6 +1,6 @@
 # Derivación de palabras
 
-¡Palabras nuevas pueden libremente construirse en Pandunia!
+¡Se pueden construir libremente palabras nuevas en Pandunia!
 Pandunia tiene un sistema productivo de derivación de palabras.
 
 ## Cómo combinar palabras
