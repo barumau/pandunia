@@ -169,16 +169,16 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**mi amir tu kai a mun.**
+**mi amir tu kai la mun.**
 – I command you to open the door.  
-**amir tu kai a mun.**
+**amir tu kai la mun.**
 – Open the door!
 
 ### Short pivot structure (VVO)
 
-**mi ching tu lai a dom.**
+**mi ching tu lai do dom.**
 – I ask you to come home.  
-**ching lai a dom!**
+**ching lai do dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 

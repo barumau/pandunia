@@ -68,7 +68,7 @@ Ellas se describien en más detalle más tarde en este sitio.
       funcciona como el subjeto del verbo siguiente.
         - **mi ching tu loga la pandunia.**
           – Yo te pido a tú hablar Pandunia.
-    - Pronombres se peden omitir cuando son obvios y superfluos.
+    - Pronombres se pueden omitir cuando son obvios y superfluos.
         - **_mi_ ching _tu_ loga a pandunia.**
           → **ching loga a pandunia.**
           – Por favor habla Pandunia.
