@@ -1,19 +1,32 @@
 site_name: Pandunia
 site_url: http://www.pandunia.info/espanya
 repo_url: https://github.com/barumau/pandunia/
+site_author: Risto Kupsala
 docs_dir: ../../espanya
 site_dir: ../../html/espanya
-theme: readthedocs
+theme:
+    name: readthedocs
+    language: es
 nav:
     - Inicio: 'index.md'
     - 'Info':
-        - 'Principios': filsofe.md
+        - 'Introducción': 001_dunia_basha.md
+        - 'Principios': 002_filsofi.md
+    - 'Gramática y reglas':
+        - 'Las reglas básicas': 100_baze_kanun.md
+        - 'Ortografía y pronunciación': 102_ABC.md
+        - 'Clasificación de palabras': 103_logatipe.md
+        - 'Pronombres': 104_viseloga.md
+        - 'Sustantivos': 105_namloga.md
+        - 'Números': 106_nomer.md
+        - 'Modificadores': 107_modeloga.md
+        - 'Verbos': 108_karmaloga.md
+        - 'Oraciónes': 109_jumla_bina.md
+        - 'Derivación de palabras': 110_loga_bina.md
     - 'Lecciones':
-        - 'Ortografía': 102_ABC.md
-        - 'Frases básicas': fraze.md
-        - 'Curso': darse.md
+        - 'Frases básicas': 200_baze_jumla.md
+        - 'Curso': 201_shula.md
     - 'Diccionarios':
         - 'Pandunia-Español': pandunia-espanya.md
         - 'Español-Pandunia': espanya-pandunia.md
-        - 'Diccionario etimologico': leksaslia.md
-
+        - 'Diccionario etimológico': leksaslia.md
