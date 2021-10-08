@@ -10,6 +10,7 @@ A pandunia é uma língua artificial multicultural.
 - A pandunia soa bonito.
 - A pandunia é realmente internacional! Suas palavras são emprestadas de várias línguas em todo o mundo, incluindo inglês, chinês, espanhol, hindi-urdu, árabe, russo, bengali, português, malaio-indonésio, japonês, francês, alemão e suahili.
 
+Nota: Esta documentação não está atualizada com a versão final do Pandunia. Consulte as versões em inglês ou espanhol para obter as informações mais precisas.
 
 ## Junte-se a nós!
 

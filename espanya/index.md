@@ -3,7 +3,7 @@
 ¡Hola, mundo!
 ¡Les damos la bienvenida a Pandunia, el idioma auxiliar equitativo a nivel global! 
 
-![](http://www.pandunia.info/grafe/halou_dunia.png "halo dunia!")  
+![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
 ## ¿Qué es Pandunia?
@@ -29,19 +29,17 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 
 ## ¿Cómo aprenderlo?
 
-- [Los básicos](baze.md) en una página corta
 - [Lecciones con diálogos](201_shula.md)
 - [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
 - [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Guía de conversación](200_baze_jumla.md)
 - [Gramático de Pandunia](pan.pdf) como PDF
-- [Dicionario que puede buscarse](tiddly.html)
+- [Dicionario que puede buscarse](http://www.pandunia.info/pandunia/logia.html)
 - [Orígenes de las palabras](leksaslia.md)
 
 
 ## Textos
 
-- [El rico y el pobre](rici_man_i_miskin_man.md)
 - [Wiki de Fandom en Pandunia](https://pandunia.fandom.com/)
 
 ## Artículos

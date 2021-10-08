@@ -43,8 +43,8 @@ the topic is the pronoun **ye** (he, she, it), which is followed by the comment
 (is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
-The same word is used for all persons. And to say the opposite, 
-simply replace it with **no** (which is the word for _no_).
+The same word is used for all persons.
+And to say the opposite, simply put **no** before it.
 
 **ye si Sara.**
 = She is Sarah.  
@@ -262,7 +262,7 @@ chief, boss
 **shukur.**
 = Thank you.  
 <big>☺</big>
-**ching yam kafe o chai.**
+**ching yam yo kafe o chai.**
 = Please have some coffee or tea.  
 <big>☻</big>
 **mi vol chai. shukur.**
@@ -375,6 +375,8 @@ Try translating these sentences from English to Pandunia.
 
 ### Word List
 
+**amir**
+to order, to command  
 **chai**
 tea  
 **ching**
@@ -389,8 +391,6 @@ and
 coffee  
 **kamar**
 room  
-**amir**
-to order, to command  
 **o**
 or  
 **safa**
@@ -436,13 +436,13 @@ to eat or drink
 **no. ye no yam chai. ye yam kafe.**
 = No, he won't. He would like to have coffee.  
 <big>☺</big>
-**sual tu yam supe?**
+**sual tu yam yo supe?**
 = Would you like to have soup?  
 <big>☻</big>
 **ya.**
 = Yes.  
 <big>☺</big>
-**sual ye yam supe?**
+**sual ye yam yo supe?**
 = Would he like to have soup?  
 <big>☻</big>
 **no yam.**

@@ -63,7 +63,7 @@ Number, definiteness and gender are indicated by additional words.
 – three cats  
 **ba mau**
 – many cats  
-**le mau**
+**la mau**
 – the cat(s)
 
 ### Personal pronouns
