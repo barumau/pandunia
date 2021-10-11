@@ -12,17 +12,17 @@ Por ejemplo, el verbo
 (»ser>>) tiene la misma forma para todas las personas.
 
 **_mi_ si dosti.**
-– Yo soy amigo.  
+– Yo soy una amiga.  
 **_tu_ si dosti.**
-– Tú eres amigo.  
+– Tú eres un amigo.  
 **_ye_ si dosti.**
-– Él es amigo.  
+– Éla es amiga de alguien.  
 **_mimon_ si dosti.**
-– Nosotros somos amigos.  
+– Nosotros somos unos amigos de alguien.  
 **_tumon_ si dosti.**
-– Ustedes son amigos.  
+– Ustedes son unas amigas de alguien.  
 **_yemon_ si dosti.**
-– Ellos son amigos.
+– Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
@@ -40,9 +40,9 @@ Un de los indicadores más adecuado es
 que añade ningún contento a la oración
 pero ayuda clarificar su estructura.
 
-**peshe si mau yam.**
+**karote si uma yam.**
 – Pez es comida para gatos.  
-**mau _ye_ yam la peshe.**
+**uma _ya_ yam la karote.**
 – El gato come el pez.
 
 Otros indicadores adecuado son verbos auxiliares de tiempo y modo,

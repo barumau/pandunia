@@ -76,8 +76,8 @@ Estes siguen el predicado.
 
 **mi marche.**
 – Yo camino.  
-**tu yam yo apel.**
-– Tú comes algas manzanas.  
+**tu yam yo aple.**
+– Tú comes manzana.  
 **mimon dona ye yo pesa.**
 – Nosotros le damos algo dinero.
 
@@ -93,11 +93,11 @@ Para clarificar el orden o para añadir otros objetos, los verbos auxiliares **f
 y **be** indica que el sujeto es el paciente o recibirador.
 
 **mi fa salam mi su dosti.**
-– Yo saludo mi amiga.  
+– Yo saludo a mi amiga.  
 **mi be salam mi su dosti.**
 – Yo soy saludada por mi amiga.  
 **pa fa mi salam mi su dosti.**
-– Papá me hace saludar mi amiga.
+– Mi papá me hace saludar a mi amiga.
 
 
 ## Estructura de eje
@@ -346,9 +346,9 @@ Una cláusula de contento puede ponerse antes o despues de la cláusula que habl
 El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 
 **go si bari, mi le no vide yemon.**
-– Este es importante: no he vida los.  
+– Lo siguiente es importante: resulta que no los veo.  
 **pan jen be egal sana, la fate si klar.**
-– Todas las personas se crean igual; este facto es claro.
+– Todas las personas son iguales; este hecho es claro.
 
 --------------------------------------------------------------------------------
 
