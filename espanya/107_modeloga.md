@@ -13,9 +13,9 @@ modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
 A. **go si un _rapide_ kar.**
-– Eso es un carro rápido.  
+– Eso es un carro _rápido_.  
 B. **tu _rapide_ di loga.**
-– Usted habla rápido.
+– Usted habla _rápido_.
 
 
 ### Modificar sustantivos
@@ -66,9 +66,9 @@ entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
 **tu _sundar di_ kitabu.**
-– Tú escribes hermoso.  
+– Tú escribes _hermoso_.  
 **yemon _rapide di_ marche.**
-– Ellos caminan rápido.
+– Ellos caminan _rápido_.
 
 
 ### Modificar otros modificadores

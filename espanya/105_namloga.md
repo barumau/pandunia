@@ -15,7 +15,7 @@ Entonces la misma forma se usa en singular y plural, en definido e indefinido, e
 **sui**
 – agua
 
-Número y definitud frecuentamente se saben porque se mencionaron previamente en la conversación, o porque son conocimiento general.
+El número y la definitud frecuentamente se conocen porque se mencionaron previamente en la conversación, o porque son de conocimiento general.
 Por ejemplo, normalmente la palabra **sol** refiere a _el sol_ y **luna** refiere a _la luna_, nuestro único sol y luna.
 
 
@@ -43,9 +43,9 @@ Simplemente inserta un número delante del sustantivo igual.
 Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 
 **seku seku**
-– piedras y piedras, una variedad de piedras
+– piedras y piedras, una gran variedad de piedras
 **buku buku**
-– libros y libros, una variedad de libros
+– libros y libros, una gran variedad de libros
 
 
 ### Nombres propios
@@ -57,7 +57,9 @@ Nombres de personas pueden etiquetarse con la título de respeto universal
 Usarlo mostra respeto y cortesía.
 
 Puede usarse en situaciones formales e informales, y para todos los grupos social, de edad, o de género.
-Las traduciones más cercas en español son _señor_, _señora_, y _señorita_.
+Puede sustituir diversas expresiones que acompañan el nombre en español, como
+_Don_, _Doña_, _Señor_, _Señora_, _Señorita_, _Estimado_, _Estimada_,
+y también las terminaciones _-illo_, _-illa_, _-ito_, e _-ita_.
 
 Hay costumbres diferentes sobre títulos honoríficos en culturas diferentes.
 En algas culturas, no es cortés usar el nombre de alguien sin título de respeto.
