@@ -7,22 +7,22 @@
 ### 対話
 
 <big>👩</big>
-**te si ke?**
+**tu si ke?**
 = あなたは誰ですか?  
 <big>🧔</big>
-**me si yusef. te si ke?**
+**mi si Yusef. tu si ke?**
 = 私はユセフです。あなたは(誰ですか)?  
 <big>👩</big>
-**me si maria. le si ke?**
+**mi si Maria. ye si ke?**
 = 私はマリアです。あの人は(誰ですか)?  
 <big>🧔</big>
-**le si mi doste.**
+**ye si mi dosti.**
 = あの人は私の友人です。  
 <big>👩</big>
-**li nam si ke?**
+**ye su nam si ke?**
 = 彼女の名前は?  
 <big>🧔</big>
-**li nam si sarah.**
+**ye su nam si Sara.**
 = 彼女の名前はサラです。
 
 ### 文法
@@ -30,32 +30,34 @@
 通常パンドゥニアの文章は話題となる説明の構造に従います。
 話題は誰が何について話しているのかを示します。
 説明は話題について何かを伝えます。
-たとえば **le si mi doste** の場合、話題は代名詞 **le** (彼、彼女、それ、その人) で、
-その後に **si mi doste** (私の友人です) というコメントが続きます。
+たとえば **ye si mi su dosti** の場合、話題は代名詞 **ye** (彼、彼女、それ、その人) で、
+その後に **si mi su dosti** (私の友人です) というコメントが続きます。
 
 パンドゥニアでは **si** という単語は英語の _to be_ のように機能します(訳注:明示的に存在を証明する必要がない限り **si** は必要ありません)。
 すべての人に同じ言葉が使われています。
 反対のことを言いたいときは **no** (これは _no_ を表す言葉です) に置き換えてください。
 
-le **si** sarah.
+ye **si** Sara.
 = 私はサラ**です**。  
-le **no** sarah.
+ye **no** Sara.
 = 私はサラ**ではありません**。
 
-maw **si** hewan.
+mau **si** zou.
 = 猫は動物**です**。  
-dom **no** hewan.
+dom **no** zou.
 = 家は動物**ではありません**。  
 
-同じように **me** と自分を表す言葉を言うことで
+同じように **mi** と自分を表す言葉を言うことで
 自分を表現することができます。
 
-**me** bon.
+**mi** bon.
 = **私は**元気です。  
-**me** man.
+**mi** man.
 = **私は**男です。  
-**me** fem.
+**mi** fem.
 = **私は**女です。  
+**mi** nobi.
+= **私は**ノンバイナリーです。
 
 
 ### 練習
@@ -73,22 +75,22 @@ dom **no** hewan.
 
 ### 単語リスト
 
-**me** 私、 **mi** 私の  
-**te** あなた、 **ti** あなたの  
-**le** 彼、彼女、それ、その人、 **li** 彼の、彼女の、その、その人の  
+**mi** 私、 **mi su** 私の  
+**tu** あなた、 **tu su** あなたの  
+**ye** 彼、彼女、それ、その人、 **ye su** 彼の、彼女の、その、その人の  
 **ke** 誰、何  
-**si** はい、 **no** いいえ、否定  
-**bon** 良い、 **doste** 友人、 **nam** 名前  
-**fem** 女、 **man** 男  
-**maw** 猫、 **hewan** 動物
+**si** 指定、 **no** いいえ、否定  
+**bon** 良い、 **dosti** 友人、 **nam** 名前  
+**fem** 女、 **man** 男、 **nobi** ノンバイナリー  
+**mau** 猫、 **zou** 動物
 
-### Answers to the Exercises
+### 練習の答え
 
-1. te si ke?
-2. me si ken.
-3. ti doste si ke?
-4. le si kanae.
-5. ti nam si ke?
+1. tu si ke?
+2. mi si Ken.
+3. tu su dosti si ke?
+4. ye si Kanae.
+5. tu su nam si ke?
 6. mi nam si ____________
 
 
@@ -111,52 +113,50 @@ dom **no** hewan.
 特にアフリカやアジアでは一般的なあいさつとなっています(訳注:多分アジアは東南アジア限定だと思う)。
 パンドゥニアは世界のあらゆる地域から言葉を借用して構築された人工言語(国際補助語)です。
 
-**salam** の動詞形は **salama** で「あいさつする」という意味です。
+**salam** は動詞形として「あいさつする」という意味です。
 
-**me salama te.**
+**mi salam tu.**
 = 私はあなたにあいさつします。  
-**te salama me.**
+**tu salam mi.**
 = あなたは私にあいさつします。
 
 これらは能動文で、主語が目的語に
-作用します。 **me salama te** では、
-最初の単語 **me** が
-**主語**、 **salama** が
-**動詞**、 **te** が**目的語**です。
+作用します。 **mi salam tu** では、
+最初の単語 **mi** が
+**主語**、 **salam** が
+**動詞**、 **tu** が**目的語**です。
 
 > 語順はS(主語)+V(動詞)+O(目的語)
 
-パンドゥニアの代表的な人称代名詞は **me** = 私、 **te** = あなた、 **le** = 彼/彼女/それ/その人、です。
+パンドゥニアの代表的な人称代名詞は **mi** = 私、 **tu** = あなた、 **ye** = 彼/彼女/それ/その人、です。
 上記のあいさつの例文では全て同じ単語であったことに注目してください。
-パンドゥニアでは人称代名詞は文のどの位置にあっても同じままです(訳注:所有格(私の～ **mi**)では変化します)。
+パンドゥニアでは人称代名詞は文のどの位置にあっても同じままです。
 誰が発言したか明らかな場合、人称代名詞を省略することができます。
 
-**me salama te!**
+**mi salam tu!**
 = 私はあなたにあいさつします。  
-**salama te!**
+**salam tu!**
 = あなた、こんにちは: あいさつをしているのは相手です。  
-**salama!**
-= こんにちは(とあいさつする): 相手があいさつしています。 (訳注:適切な訳が思いつかない)  
 **salam!**
-= こんにちは
+= こんにちは(とあいさつする): 相手があいさつしています。 (訳注:適切な訳が思いつかない)
 
-**salam te** は名前、親族用語、
+**salam tu** は名前、親族用語、
 職業などを使って人を呼ぶときに便利です。
 
 **salam ken!**
 = やあ、ケン。  
-**salam mame!**
+**salam mama!**
 = こんにちは、お母さん。  
-**salam pape!**
+**salam papa!**
 = こんにちは、お父さん。  
-**salam darsogure!**
-= こんにちは、先生。
+**salam shefe!**
+= こんにちは、組長。
 
-パンドゥニアにはもう一つ **halow** というあいさつがあります。
+パンドゥニアにはもう一つ **halo** というあいさつがあります。
 これは非常に国際的なあいさつです。
 あいさつするときにどちらを使うかは完全に自由です。
 
-**halow!**
+**halo!**
 = ハロー(こんにちは)
 
 
@@ -172,18 +172,17 @@ dom **no** hewan.
 
 ### 単語リスト
 
-**salam, halow** こんにちは、やあ  
-**salama** あいさつする  
-**mame** 母、お母さん、ママ  
-**pape** 父、お父さん、パパ  
-**darsogure** 教師、先生
+**salam, halo** こんにちは、やあ、あいさつする  
+**mama** 母、お母さん、ママ  
+**papa** 父、お父さん、パパ  
+**shefe** 上司、組長
 
 
 ### 練習の答え
 
-1. te salama le.
-2. mame salama pape.
-3. salam mame!
+1. tu salam ye.
+2. mama salam papa.
+3. salam mama!
 4. salam!
 
 
@@ -198,25 +197,25 @@ dom **no** hewan.
 **salam!**
 = こんにちは。  
 <big>🧓</big>
-**salam! pliza sida.**
+**salam! ching side.**
 = こんにちは、おかけになってください。  
 <big>🧒</big>
-**danke.**
+**shukur.**
 = ありがとうございます。  
 <big>🧓</big>
-**pliza niama kafe o cay.**
-= コーヒーとお茶、どちらになさいますか。 (訳注: **cay** はお茶全般を指します。紅茶も緑茶も烏龍茶もマテ茶も全部 **cay** です。特定の1つを指すにはコーヒー共々修飾語で補う必要がありますが、このページでは扱いません)  
-☻: **me niama cay. danke.**
+**ching yam yo kafe o chai.**
+= コーヒーとお茶、どちらになさいますか。  
+☻: **mi yam yo chai. shukur.**
 = お茶をください(ありがとう)。  
 ...  
 <big>🧓</big>
-**pliza salama ti mame!**
+**ching salam tu su mama!**
 = お母様によろしく言っておいてください。  
 <big>🧒</big>
-**me salama le. salam reste!**
+**mi salam ye. salam sona!**
 = (かしこまりました、)伝えておきます。では。  
 <big>🧓</big>
-**salam cute!**
+**salam ga!**
 = さようなら。
 
 
@@ -228,15 +227,15 @@ dom **no** hewan.
 全ての人称代名詞が
 使われています。
 
-**me pliza te salama le.**
+**mi ching tu salam ye.**
 = **私**は**あなたに**、**彼/彼女/それ/その人**へあいさつをお願いします。
 
 この文は**依存文**です
 (直訳すると「依存構造」ですが、物々しいので平易な表現に改めています)。
-最初の動詞 **pliza** は **te** を目的語とします。
-同時に **te** は2つ目の動詞 **salama** の主語でもあり、その目的語は **le** です。
-つまり **te** には「第1動詞の目的語」と「第2動詞の主語」という2つの役目があります。
-したがって **te** は2つの動詞間の「依存」あるいは「連結」する存在となります。
+最初の動詞 **ching** は **tu** を目的語とします。
+同時に **tu** は2つ目の動詞 **salam** の主語でもあり、その目的語は **ye** です。
+つまり **tu** には「第1動詞の目的語」と「第2動詞の主語」という2つの役目があります。
+したがって **tu** は2つの動詞間の「依存」あるいは「連結」する存在となります。
 
 > 依存文: S(主語1) + V1(動詞1) + O1&S2(目的語1&主語2) + V2(動詞2) + O2(目的語2)
 
@@ -247,9 +246,9 @@ dom **no** hewan.
 安心して考えることができます。
 このようにして文を短くすることができます。
 
-**me pliza te salama le.**
+**mi ching tu salam ye.**
 = 私はあなたに、彼/彼女/それ/その人へあいさつをお願いします。  
-**pliza salama le.**
+**ching salam ye.**
 = 彼/彼女/その人へあいさつをお願いします。
 
 <!--
@@ -260,32 +259,32 @@ dom **no** hewan.
 かえって混乱を招いてしまいます。
 -->
 
-**pliza salama le** は
+**ching salam ye** は
 丁寧なお願いをするときに役立つフレーズです。
 <!-- 【重要】日本語では同じ丁寧な外国語の文でも話し相手によって翻訳が変わります(丁寧語、謙譲語、他)。ここでは一般的な丁寧語で表現しています。 -->
-**pliza sida.**
+**ching side.**
 = 座ってください。  
-**pliza dona kafe.**
+**ching don yo kafe.**
 = コーヒーをください。  
-**pliza dona cay.**
+**ching don yo chai.**
 = お茶をください。  
-**pliza niama cay.**
+**ching yam yo chai.**
 = お茶をどうぞ。  
-**pliza safa kamare.**
+**ching safa la kamar.**
 = 部屋の掃除をお願いします。
 
-命令は **komanda**(命令する) で表します。
-以下の命令文は **plisa** と同じ依存文を採用しています。
+命令は **amir**(命令する) で表します。
+以下の命令文は **ching** と同じ依存文を採用しています。
 
-**komanda dona cay.**
+**amir don yo chai.**
 = お茶をくれ。  
-**komanda safa kamare.**
+**amir safa la kamar.**
 = 部屋を掃除して。
 
 実際には直接的な命令も
 動詞1つと命令する声だけで行うことができます。
 
-**safa le!**
+**safa ye!**
 = 掃除しろ!
 
 
@@ -302,27 +301,29 @@ dom **no** hewan.
 
 ### 単語リスト
 
-**cay** お茶 (訳注:前述通り、厳密にはお茶全般を指します)  
-**pliza** お願いする、頼む  
-**dona** 与える、渡す  
-**danke** ありがとう  
+**amir** 命令する、注文する  
+**chai** お茶  
+**ching** お願いする、頼む  
+**don** 与える、渡す  
+**shukur** ありがとう  
 **e** と(_and_)  
 **kafe** コーヒー  
-**kamare** 部屋  
-**komanda** 命令する、注文する  
+**kamar** 部屋  
+**la** 前述、あの  
 **o** または(_or_)  
 **safa** 掃除する、きれいにする  
-**sida** 座る  
-**niama** 食べる、飲む (訳注:飲食行為全般を指します。飴を「舐める」、ガムを「噛む」なども含みます)
+**side** 座る  
+**yam** 食べる、飲む  
+**yo** 何分、或る
 
 
 ### 練習の答え
 
-1. le niama cay.
-2. darsogur pliza le sida.
-3. pliza niama kafe o cay.
-4. mame pliza me safa kamar.
-5. darsogur sida e niama kafe.
+1. ye yam chai.
+2. shefe ching ye side.
+3. ching yam yo kafe o chai.
+4. mama ching mi safa la kamar.
+5. shefe side e yam yo kafe.
 
 
 --------------------------------------------------------------------------------
@@ -331,43 +332,43 @@ dom **no** hewan.
 「はい」「いいえ」の質問
 -------------------
 
-### 対話 (訳注:日本向けに大幅な意訳と補完を行っているので注意)
+### 対話
 <!-- これも状況が全く判らないため翻訳が難しい。日本の喫茶店での店員と客2人を想定。一部翻訳が本来の意味とかけ離れているのは日本の文化による補正によるもの。この手の会話は文化的にニュートラルにできない -->
-☻: **salam! eska te niama kafe o cay?**
-= いらっしゃいませ! コーヒーと紅茶どちらになさいますか? <!-- 日本の「おもてなし文化」特有の問題だが、英語での「いらっしゃいませ」は "Welcome. Thank you for coming!" がきちんとした接客。 "Hello" や "Hi" ではカジュアル過ぎて不適切 -->  
-☺: **cay.**
+☻: **salam! sual tu yam yo kafe o chai?**
+= いらっしゃいませ! コーヒーと紅茶どちらになさいますか?  
+☺: **chai.**
 = お茶を。  
-☻: **e te?**
+☻: **e tu?**
 = あなたは?  
-○: **me no baxa pandunia...** 
-= 私はパンドゥニアを話せません… (訳注:「話してるじゃん」とツッコミを入れてはいけない)  
-☻: **pardon! eska le niama cay?**
+○: **mi no basha pandunia...** 
+= 私はパンドゥニアを話せません…  
+☻: **maf! sual ye yam yo chai?**
 = すみません。彼もお茶でよろしいでしょうか? <!-- 原文では「も」(英語なら too)とは言っていないが、会話の流れから日本語ではそうするのが普通 -->  
-☺: **no. le no niama cay. le niama kafe.**
-= いえ、彼は(お茶を飲みません。彼は)コーヒーです。  
-☻: **eska te niama supe?**
+☺: **no. ye no yam chai. ye yam yo kafe.**
+= いいえ、彼はお茶を飲みません。彼はコーヒーです。  
+☻: **sual tu yam yo supe?**
 = スープはいかがでしょう?  
-☺: **si, niama.**
-= お願いします(=はい、私は飲みます)  
-☻: **eska le niama supe?**
+☺: **ya, yam.**
+= お願いします(=はい、飲みます)  
+☻: **sual ye yam yo supe?**
 = 彼もスープを飲みますか? <!-- これも原文では「も」と言っていないが補完した。日本語ではスープは飲むものです。タバコも高齢者は飲むと言います(混乱を招くので現在は使われていません) -->  
-☺: **no niama.**
-= いいえ(=彼は飲みません)  
-☻: **danke. me dona un cay e un kafe e un supe sa bade da des minute.**
+☺: **no yam.**
+= いいえ(=飲みません)  
+☻: **shukur. mi don un chai e un kafe e un supe na pos des minute.**
 = かしこまりました。復唱します。コーヒー1、お茶1、スープ1。10分後にお持ちします。
 
 
 ### 質問する
 
 「はい」「いいえ」で答えられる質問は、
-前回のレッスンで学んだ **pliza** と同じ**依存文**(S1+V1+O1&S2+V2+O2)になっています。
-質問文は **eska**(尋ねる、質問する) を使います。この文は基本的に主語1を省略できます。
+前回のレッスンで学んだ **ching** と同じ**依存文**(S1+V1+O1&S2+V2+O2)になっています。
+質問文は **sual**(尋ねる、質問する) を使います。この文は基本的に主語1を省略できます。
 
-**me eska te niama cay.**
+**mi sual tu yam yo chai.**
 = 私はあなたに「お茶を飲みますか」と尋ねます。  
-**eska te niama cay?**
+**sual tu yam yo chai?**
 = (あなたは)お茶を飲みますか?  
-**eska niama cay?**
+**sual yam yo chai?**
 = お茶を飲みますか?
 
 通常、質問は相手や話しかけられた人に関するものですが、
@@ -375,52 +376,52 @@ dom **no** hewan.
 そのため基本的に2つ目の主語(S2)が必要になります。
 誰(何)が話題なのかはっきりしている場合のみ省略することができます。
 
-**eska le niama cay?**
+**sual ye yam yo chai?**
 = 彼/彼女/その人はお茶を飲みますか?  
-**eska te niama supe?**
+**sual tu yam yo supe?**
 = (あなたは)スープを飲みますか?  
-**eska mome niama suy?**
+**sual mimon yam yo sui?**
 = (私達は)水を飲みますか?
 
 もちろん普通名詞や固有名詞も使えます。
 
-**eska dorsogur niama kafe?**
+**sual shefe yam yo kafe?**
 = 先生はコーヒーを飲みますか?  
-**eska pape safa kamare?**
+**sual papa safa la kamar?**
 = 父は部屋を掃除しますか??  
-**eska niki baxa pandunia?**
-= ニキ(あるいはニッキー。人の名前)はパンドゥニアを話せますか?
+**sual Niki basha pandunia?**
+= ニキはパンドゥニアを話せますか?
 
 
 ### 回答する
 
-「はい」「いいえ」の質問には **si**(はい)、 **no**(いいえ) で答えることができます。
+「はい」「いいえ」の質問には **ya**(はい)、 **no**(いいえ) で答えることができます。
 
-– **eska te niama supe?**
+– **sual tu yam yo supe?**
 = (あなたは)スープを飲みますか?  
-– **si.**
+– **ya.**
 = はい。  
-– **eska le niama supe?**
-= 彼はスープを飲みますか?  
+– **sual ye yam yo chai?**
+= 彼はスープをお茶みますか?  
 – **no.**
 = いいえ。
 
 より完全な回答も可能です。否定文の質問文に対する回答は[文法](kanun.md)のページを参照してください。
 
-– **eska te niama kafe?**
-= (あなたは)コーヒーを飲みますか?  
-– **si. me niama kafe.**
-= はい。私はコーヒーを飲みます。  
-– **eska le niama kafe?**
+– **sual tu yam yo sui?**
+= (あなたは)水を飲みますか?  
+– **ya. mi yam yo sui.**
+= はい。私は水を飲みます。  
+– **sual ye yam yo kafe?**
 = 彼はコーヒーを飲みますか。  
-– **no. le no niama kafe.**
+– **no. ye no yam yo kafe.**
 = いいえ。彼はコーヒーを飲みません。
 
 質問文の要となる動詞を返すことで「はい」を表現することもできます。
 
-– **eska te niama suy?**
-= (あなたは)コーヒーを飲みますか?  
-– **niama.**
+– **sual tu yam yo sui?**
+= (あなたは)水を飲みますか?  
+– **yam.**
 = (はい、私は)飲みます。
 
 
@@ -438,27 +439,28 @@ dom **no** hewan.
 
 ### 単語リスト
 
-**bade** その結果、前に、続報  
-**pardon** すみません、ごめんなさい  
-**minute** 【時間】分  
-**no** いいえ、否定  
-**baxa** 言語を話す  
-**suy** 水 (訳注:温度は問わない。必要なら修飾語で補う必要があるが、このページでは扱わない)
-**supe** スープ  
-**un** 【数】1  
+**basha** 話す  
 **des** 【数】10  
-**eska** 尋ねる、質問する  
-**si** はい
+**maf** すみません、ごめんなさい  
+**minute** 【時間】分  
+**na** ～【前置詞】に  
+**no** いいえ、否定  
+**pos** 後  
+**sui** 水、湯  
+**supe** スープ  
+**sual** 尋ねる、質問する  
+**un** 【数】1  
+**ya** はい
 
 
 ### 練習の答え
 
-1. eska te baxa pandunia?
-2. si. me baxa pandunia.
-3. eska mame niama kafe?
-4. no. me no niama kafe.
-5. eska le niama supe?
-6. (le) no niama.
+1. sual tu basha pandunia?
+2. si. mi basha pandunia.
+3. sual mama yam kafe?
+4. no. mi no yam kafe.
+5. sual ye yam supe?
+6. (ye) no yam.
 
 
 --------------------------------------------------------------------------------
@@ -466,40 +468,40 @@ dom **no** hewan.
 no と言う
 ---------
 
-前回のレッスンでは質問に **si** と **no** で答えることを学びました。
+前回のレッスンでは質問に **ya** と **no** で答えることを学びました。
 何かを否定するときには **no** を使います。
 動詞の前に **no** を置くと、肯定文が否定文に変わります。
 
-me salama te.
+mi salam tu.
 = 私はあなたにあいさつします。  
-me **no** salama te.
+mi **no** salam tu.
 = 私はあなたにあいさつ<u>しません</u>。
 
 否定とは、否定された対象が欠けているか、存在しないことを表します。
-**me no salama te** では **no** は
+**mi no salam tu** では **no** は
 あいさつの存在を否定します。
 
 パンドゥニアの否定はそれに続く単語に影響を与えます。
 否定の範囲は
 **no** の位置によって変わります
 
-me pliza te safa kamare.
+mi ching tu safa la kamar.
 = 私はあなたに部屋の掃除を頼みます。  
-me **no** pliza te safa kamare.
+mi **no** ching tu safa la kamar.
 = 私はあなたに部屋の掃除を頼み<u>ません</u>。  
-me pliza te **no** safa kamare.
+mi ching tu **no** safa la kamar.
 = 私はあなたに部屋の掃除を<u>しないこと</u>を頼みます。
 
 否定される側の単語の品詞には動詞、代名詞、名詞、形容詞、さらには数字など、
 あらゆる種類があります。
 
-**le no tena maw.**
-= 彼/彼女/その人は猫を飼っていない。 (訳注: tena maw=猫を所有する=猫を飼う)  
-**le tena no maw, a waf.**
+**ye no ten mau.**
+= 彼/彼女/その人は猫を飼っていない。 (訳注: ten mau=猫を所有する=猫を飼う)  
+**ye ten no mau, a vaf.**
 = 彼/彼女/その人は猫を飼っていないが、犬を飼っている。  
-**no le, a me tena maw.**
+**no ye, a mi ten mau.**
 = 彼/彼女/その人ではない、しかし私は猫を飼っている。 (訳注:意味不明。多分 _I, not he, have the cat._ 「彼ではなく私が猫を飼っている」だと思う)  
-**me tena no un, a dul maw.**
+**mi ten no un, a du mau.**
 = 私は猫を1匹ではなく2匹飼っています/私は猫を1匹どころか2匹も飼っています。 (訳注:どちらの意味にも取れる)
 
 
@@ -518,24 +520,24 @@ me pliza te **no** safa kamare.
 
 ### 単語リスト
 
-**kupe** コップ、グラス、マグカップ  
+**kupa** コップ、グラス、マグカップ  
 **hali** 空の  
-**tena** 持っている、所持している、所有している  
-**maw** 猫
-**waf** 犬
-**dul** 【数】2
-**nol** ゼロの、【数】0  
+**ten** 持っている、所持している、所有している  
+**mau** 猫  
+**vaf** 犬  
+**du** 【数】2
+**siro** ゼロの、【数】0  
 **a** だが、しかし
 
 
 ### 練習の答え
 
-1. le no safa kamar.
-2. un kupe no hali.
-3. dul waf no niama supe.
-4. le no tena waf e maw. / le tena no waf e no maw.
-5. darsogur niama cay a no kafe.
-6. mame tena no waf a dul maw.
+1. ye no safa la kamar.
+2. un kupa no hali.
+3. du vaf no yam yo supe.
+4. ye no ten vaf e mau. / ye ten no vaf e no mau.
+5. shefe yam yo chai a no kafe.
+6. mama ten no vaf a du mau.
 
 
 --------------------------------------------------------------------------------
@@ -543,40 +545,39 @@ me pliza te **no** safa kamare.
 ## 5W1Hの質問
 
 通常5W1H(いつ、どこで、だれが、なにを、なぜ、どのように)の質問には
-質問代名詞 **ki** を使います。
+質問代名詞 **ke** を使います。
 必要に応じて人、時間、方法、物などの単語を追加することで
 質問をより具体的にすることができます。
 
-le si **ke**?
+ye si **ke**?
 = それは**何**ですか? または 彼/彼女/その人は**誰**ですか?  
-**ki ren** laya?
-= どの人が来ますか?(=**誰**が来ますか?) (**ren** 人)  
-**ki zaman** te niama?
-= (あなたは)**いつ**食べますか? (**zaman** 時間)  
-**ki manire** dansa?
-= **どのように**踊りますか? (**manire** 振舞い、態度、マナー)  
-**ki loke** te sona?
+**ke jen** ya lai?
+= どの人が来ますか?(=**誰**が来ますか?) (**jen** 人)  
+**na ke sata** tu yam?
+= (あなたは)**いつ**食べますか? (**sata** 時間)  
+**na ke manera** danse?
+= **どのように**踊りますか? (**manera** 振舞い、態度、マナー)  
+**na ke loka** tu sona?
 = (あなたは)**何処で**寝ますか? (**sona** 寝る、眠る)
 
 「なぜ～ですか」の
-質問には **ke saba** を使います。 (訳注: **saba** ～の原因となる、～をもたらす)
+質問には **ke sabu** を使います。 (**sabu** 原因、もたらす)
 
-**ke saba** te suku maw?
+**ke sabu** tu suka yo mau?
 = **何故**あなたは猫が好きなのですか?
 
 何かの原因や理由を尋ねる質問には、
-原因や理由の前に **sabu** を付けて答えます。 **sabu** は実際には受動詞で、
-「～によって引き起こされる」という意味です。
+原因や理由の前に **sabu** を付けて答えます。
 
-**ke saba** te suku maw?
+**ke sabu** tu suka yo mau?
 = **何故**あなたは猫が好きなのですか?  
-**sabu** lole kaway.
+**sabu** yemon kavai.
 = **何故なら**(それらが)可愛いからです。
 
 もちろん **sabu** は
 単に理由や原因を表現するときにも使えます。
 
-me suku maw **sabu** lole kaway
+mi suka yo mau **sabu** yemon kavai
 = 私は(それらが)可愛いから猫が好きです。
 
 ### 練習
@@ -591,23 +592,21 @@ me suku maw **sabu** lole kaway
 
 ### 単語リスト
 
-**dansa** 踊る  
-**laya** 行く、来る  
-**ren** 人  
-**suku** 好き(_like_)  
-**manire** 振舞い、態度、マナー  
-**bade** その後  
-**minute** 【時間】分
+**danse** 踊る  
+**lai** 来る  
+**jen** 人  
+**suka** うれしい、好く  
+**manera** 振舞い、態度、マナー  
 
 
 ### 練習の答え
 
-1. ki ren suku supe?
-2. pape suku.
-3. ki zaman le laya?
-4. sa bade da des minute. (訳注: **sa** は前置詞「～に」で、まだ学習していない)
-5. ke saba le no niama?
-6. sabu le no suku kafe o supe.
+1. ke jen suka supe?
+2. papa suka.
+3. na ke sata ye lai?
+4. na pos des minute.
+5. na ke sabu ye no yam?
+6. sabu ye no suka kafe o supe.
 
 
 --------------------------------------------------------------------------------
@@ -619,95 +618,91 @@ me suku maw **sabu** lole kaway
 パンドゥニアの動詞には活用がありません。どの時制でも単語は同じです。
 時制を表すには時制を表す形容詞(時制詞)を動詞や名詞の前に置きます。
 <!-- この辺りに古い仕様の残骸が残っていたため全て削除しました -->
-**pase**
+**pas**
 = 過去  
-**zaye**
-= 現在(進行)  
-**wile**
+**zai**
+= 現在  
+**sha**
 = 未来
 
-sarah si mi **pasi** doste.
+Sara si mi **pas** dosti.
 =  サラは私の友人**でした**。  
-yusef si mi **zayi** doste.
+Yusef si mi **zai** dosti.
 =  ユセフは私の**現在の**友人です。  
-maria si mi **wili** doste.
+Maria si mi **sha** dosti.
 = マリアは私の友人**になるでしょう**。  
 
 時間内の行動や出来事を語るときにも時制詞を使います。
 動詞の前に単語を置くだけです。
 
-me **paso** darba le.
+mi **pas** darba ye.
 = 私はそれを叩き**ました**。 (過去)  
-me **zayo** darba le.
+mi **zai** darba ye.
 = 私はそれを叩い**ています**。 (現在進行)  
-me **wilo** darba le.
+mi **sha** darba ye.
 = 私はそれを叩く**でしょう**。 (未来)
 
-時制詞を文末に置くこともできます。この場合、時制詞は副詞として文全体を修飾します。
+**na pas**(過去に) などの長いフレーズを使うことも可能です。
 
-me darba le **paso**.
-= 私は**前に**それを叩き<u>ました</u>。  
-me darba le **zayo**.
-= 私は**今**それを叩い<u>ています</u>。  
-me darba le **wilo**.
-= 私は**いずれ**それを叩く<u>でしょう</u>。
-
-**sa pase**(過去に) などの長いフレーズを使うことも可能です。 (訳注: **sa** \[前置詞\] ～に)
-
-me darba le **sa pase**.
-= 私は**以前**それを叩き<u>ました</u>。  
-me darba le **sa zaye**.
-= 私は**現在**それを叩い<u>ています</u>。  
-me darba le **sa wile**.
-= 私は**将来**それを叩く<u>でしょう</u>。
+mi darba ye **na pas**.
+= 私は**過去に**それを叩き<u>ました</u>。  
+mi darba ye **na zai**.
+= 私は**現在に**それを叩い<u>ています</u>。  
+mi darba ye **na sha**.
+= 私は**将来に**それを叩く<u>でしょう</u>。
 
 
 時制表現は通常一度言えばすむはずです。時制が変わるか、時制を強調する必要がある場合を除いてそれで問題ありません。
 
-me **paso** tena un maw.
+mi **pas** ten un mau.
 = 私は**かつて**(1匹の)猫を飼って<u>いました</u>。  
-le bon maw.
+ye bon mau.
 = その猫は良い猫でした。 (過去の猫のことを語っているので過去形)  
-me tena un waf **zayo**.
+mi ten un vaf **na zai**.
 = **今は**(私は1匹の)犬を飼って<u>います</u>。 (話が現在のことに変わっている)
 <!--
 時制表現は、それとわかればどの単語でも構いません。
 時制表現が1つでも存在するなら、それ以外の時制表現はいりません。
 但し混乱を招くことが予想される場合は時制形容詞を使った方が良いでしょう。
 
-me jenu **sa nen 2003**.
+mi jene **na nen 2003**.
 = 私は**2003年に**生<u>まれた</u>。 (訳注:西暦が過去のため過去を語っていると解釈。もし西暦が未来なら未来のことを語っていると解釈する。**但しタイムトラベル物の物語の場合は時制を明示しないと混乱するので(狙って混乱させない限りは)必ず時制形容詞で明示する**) (訳注: **nen** 【暦】年)  
-le safa kamar sa **badi den**.
+ye safa la kamar **na pos den**.
 = 彼/彼女/その人は**明日**部屋を掃除する<u>でしょう</u>。 (訳注:明日のことを言っているので未来を語っていると解釈)
 -->
 
 ### 練習
 
-辞書を引きつつ、日本語からパンドゥニアに翻訳してみてください。 (訳注:くどいですが「～に」は前置詞 **sa** を目的語の前に置きます)
+辞書を引きつつ、日本語からパンドゥニアに翻訳してみてください。
 
-1. 先生が将来私を祝福してくれる
+1. 私の先生が将来祝福してくれる
 2. 私は以前2匹の犬を飼っていました。
 3. あなたは今スープを飲んでいます。
 4. 彼/彼女/その人は昨日部屋の掃除をしました。
-5. その猫は明日コーヒーを飲むでしょう。 (訳注:猫にカフェインを摂取させてはいけません。下手をすると**死にます**)
+5. その猫は明日ミルクを飲むでしょう。
 6. あなたの母は昨夜パーティを開きました。
 
 ### 単語リスト
 
-**paso** 過去、前  
-**zayo** 現在、今  
-**wilo** 未来  
-**darba** 打つ、叩きのめす  
-**pang** パン  
-**suboniame** 朝食
+**pas** 過去、前  
+**zai** 現在、今  
+**sha** 未来  
+**chen** 前、昨  
+**darba** 打つ、叩きのめす
+**den** 【時間】日
+**festa** 祝う  
+**milke** ミルク
+**noche** 夜<!--  
+**nen** 年  
+**jene** 生まれる-->  
 
 ### 練習の答え
 
-1. mi darsogure festa sa wile.
-2. me tena dul waf sa pase.
-3. te niama supe zay.
-4. le safa kamare sa predi den.
-5. maw niama kafe sa badi den.
-6. ti mame festa sa predi noce.
+1. mi su shefe festa na sha.
+2. mi ten du vaf na pas.
+3. tu zai yam supe.
+4. ye safa la kamar na chen den.
+5. mau yam milke na pos den.
+6. tu su mama festa na chen noche.
 
 

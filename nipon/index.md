@@ -16,24 +16,20 @@
 パンドゥニアの学習は誰にとっても簡単です。
 その言葉は世界のすべての大陸とすべての文化の多くの言語から借用されています。
 
-このドキュメントは、パンドゥニアの最終バージョンでは最新ではありません。 最も正確な情報には、英語版を参照してください。
-
 
 ## 学習資料
 
 - [基本](baze.md) 初心者向けに短くまとめられています。
-- [対話形式のレッスン](darse.md)
+- [対話形式のレッスン](201_shula.md)
 - [単語帳形式の学習とクイズ](https://lingopolo.org/pandunia/) Lingopolo を利用しています。
 - [絵を用いたミニレッスン](http://www.pandunia.info/pandunia/mini_darse.html)
-- [フレーズ集](fraze.md)
-- [つづり](abc.md) と [文法](kanun.md)
+- [フレーズ集](200_baze_jumla.md)
+- [つづり](102_ABC.md) と [文法](100_baze_kanun.md)
 
-<!-- - [検索可能な辞書](tiddly.html) -->
+- [検索可能な辞書](tiddly.html)
 <!-- - [日本語→パンドゥニア](nipon-pandunia.md) 辞書 -->
 - [パンドゥニア→日本語](pandunia-nipon.md) 辞書
 <!-- - [単語の語源一覧](leksaslia.md) ([ISO 639-2コード一覧](https://ja.wikipedia.org/wiki/ISO_639-2コード一覧)) -->
-
-<!-- - [あなたの名前をパンドゥニアで](ren_da_nam.md) This list is not at all suitable for Japanese. It is necessary to make a list exclusively for Japanese. -->
 
 
 ## 他の参加方法

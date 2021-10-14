@@ -37,7 +37,7 @@
 
 #### マスコットがカモノハシなのは何故ですか?
 
-カモノハシ(パンドゥニアでは **batokrote**)はオーストラリア東部に棲息する珍しい動物で、
+カモノハシ(パンドゥニアでは **bata krote**)はオーストラリア東部に棲息する珍しい動物で、
 卵から子供が生まれ、アヒルの口とビーバーの尾を持ち、カワウソの足を持つ、ほ乳類です。
 カモノハシがパンドゥニアにふさわしいマスコットなのはそれが理由です。
 またこの単語は珍しい組み合わせであり、
@@ -171,40 +171,6 @@ Risto Kupsala が中心となって制作しています。
 
 ## 文字と発音
 
-#### 何故 X は「シ(SH)」のように発音するのですか?
- 
-パンドゥニアは音韻の原理に従っています。
-1つの文字は正確に1つの発音を表し、1つの発音は正確に1つの文字で書き表します。
-
-伝統的にラテン語のアルファベットには /ʃ/ の専用の文字はありません。
-この音は英語で SH という文字の組み合わせで頻繁に書かれています。
-他の言語ではフランス語の CH、ドイツ語の SCH、
-スウェーデン語の SJ、ポーランド語の SZ、チェコ語の Š、
-トルコ語の Ş など、さまざまな文字と文字の組み合わせを使います。
-
-ただし、 /ʃ/ に X を使う言語はいくつかあります。
-バスク語とマルタ語は例外なく使います。
-ポルトガル語とカタロニア語はあまり一貫性がありませんが、 X は頻繁に /ʃ/ を表します。 
-<!-- Pandunia word **xampu'** is written almost exactly the same as in Portuguese.
-It means _shampoo_. -->
-
-中国語のローマ字化システム Pīnyīn では X は /ɕ/ を表し、 /ʃ/ に近いものです。
-パンドゥニアには中国語の X を含む
-多くの単語があります。 <!-- for example **xim, xin** and **xuxe**. -->
-
-
-#### 何故 C は「チ(CH)」のように発音するのですか?
-
-実際 C が英語 CH のように発音される言語はいくつかあります。
-インドネシア語、ハウサ語、オロモ語、ルワンダ語です。
-イタリア語では C の後に E または I が続く場合 /tʃ/ と発音されます。
-この発音はイタリア語の _cello_ や _cappuccino_ などの
-借用語にも見られます。
-
-一方英語では C に専用の発音はありません。
-「硬い C」は K で、「柔らかい C」は S で発音できるため、
-CH から H を削るのは理にかなっています。 <!-- 抽象的過ぎて意味不明。説明に具体性を。 -->
-
 #### アルファベットは珍しいですか?
 
 珍しいですが、それほど奇妙でもありません。
@@ -229,21 +195,21 @@ CH から H を削るのは理にかなっています。 <!-- 抽象的過ぎ�
 - 異なる発音を持つ文字は
   『異なる』に挙げられています。
 
-| 言語                | 似ている                                          | ない    | 異なる      |
-|:--------------------|---------------------------------------------------|---------|-------------|
-| パンドゥニア        | a b c d e f g h i j k l m n o p r s t u v w x y z |         |             |
-| マレー/インドネシア | a b c d e f g h i j k l m n o p r s t u   w   y z | x       |             |
-| インド Romaniz      | a b c d e f g h i j k l m n o p r s t u v     y z | w x     |             |
-| ハウサ              | a b c d e f g h i j k l m n o p r s t u   w   y z | v x     |             |
-| 中国 Pinyin         | a b c d   f g h i j k l m n o p r s t u   w x y   | v       | e z         |
-| スワヒリ            | a b   d e f g h i j k l m n o p r s t u v w   y z | c x     |             |
-| 日本 ローマ字       | a b   d e   g h i j k l m n o p   s t u   w   y z | v c x   | f r         |
-| ポルトガル          | a b   d e f g   i   k l m n o p r s t u v   x   z | w y     | c h j       |
-| 英語                |   b   d   f g h i j k l m n o p r s t   v w   y z |         | a c e u x   |
-| フランス            | a b   d e f g   i   k l m n o p   s t u v w   y z |         | c h j r x   |
-| スペイン            | a b   d e f g   i   k l m n o p r s t u v     y   | w       | c h j x z   |
-| ドイツ              | a b   d e f g h i   k l m n o p r s t u v         |         | c j w x y z |
-| ベトナム            | a b     e   g h i   k l m n o p r   t u v     y   | f j w z | c d s x     |
+| 言語          | 似ている                                            | ない      | 異なる     |
+|:--------------|---------------------------------------------------|----------|-----------|
+| パンドゥニア      | a b ch d e f g h i j k l m n o p r s sh t u v y z |          |           |
+| インド ローマ字    | a b ch d e f g h i j k l m n o p r s    t u v y z | sh      |           |
+| マレー/インドネシア | a b    d e f g h i j k l m n o p r s    t u   y z | ch sh v  |           |
+| ハウサ          | a b    d e f g h i j k l m n o p r s sh t u   y z | ch v     |           |
+| 中国 ピン音     | a b ch d   f g h i j k l m n o p r s sh t u   y   | v        | e z       |
+| スワヒリ         | a b ch d e f g h i j k l m n o p r s sh t u v y z |          |           |
+| 日本 ローマ字    | a b ch d e f g h i j k   m n o p r s sh t u   y z | l v      |           |
+| ポルトガル       | a b    d e f g   i   k l m n o p r s    t u v   z | sh y     | ch h j    |
+| 英語           |   b ch d   f g h   j k l m n o p r s sh t   v y z |          | a e i u   |
+| フランス         | a b    d e f g   i   k l m n o p   s    t u v y z | sh       | ch h j r  |
+| スペイン         | a b ch d e f g   i   k l m n o p r s    t u v     | sh       | h j y z |
+| ドイツ           | a b    d e f g h i   k l m n o p r s    t u v     | sh       | ch j y z  |
+| ベトナム         | a b      e   g h i   k l m n o p r      t u v     | f j sh z | ch d s y  |
 
 
 ## 文法
@@ -259,8 +225,7 @@ CH から H を削るのは理にかなっています。 <!-- 抽象的過ぎ�
 ピジンやクレオールの特徴をまとめたものです。
 
 1. 複雑な文法の解消
-   - 定冠詞と不定冠詞はありません。
-   - 主語と述語を結ぶ補助的な品詞(英語のbe動詞)は省略されます。
+   - 主語と述語を結ぶ補助的な品詞は省略されます。
    - 時制、相、修飾、否定は動詞の一部ではありません。
    - 受動構造は使いません。
 2. 形態学的複雑さの解消
@@ -275,7 +240,7 @@ CH から H を削るのは理にかなっています。 <!-- 抽象的過ぎ�
    - 難しい発音を避けています。
    - ほぼ簡単な音節構造を使います。
    - 短い単語を好みます。
-   - 抑揚を単語を識別するために使いません。 (訳注:日本語の「箸」と「橋」、「以下」と「烏賊」のような使い分けをしない)
+   - 抑揚を単語を識別するために使いません。
 
 #### どのように語形が変化しますか?
 
@@ -286,11 +251,7 @@ CH から H を削るのは理にかなっています。 <!-- 抽象的過ぎ�
 3. 接辞の変更: electric ⇒ electron
 4. 接辞の追加: man ⇒ manhood
 
-パンドゥニアは 3. と 4. のみを使います。
-語尾を変えることが
-できます。
-例えば log**e**(演説) は log**a**(話す) に変更できます。<!-- 語尾を追加することもできます。 -->
-marcul**a**(走る) から malcul**er**(ランナー) に変更できます。
+パンドゥニアは 4. のみを使います。
 
 #### 単語の形が変わるのは何故ですか?
 
@@ -335,9 +296,9 @@ marcul**a**(走る) から malcul**er**(ランナー) に変更できます。
 比較してみましょう。
 単語の構成要素は斜線で区切られています。
 
-    エスペラント Mi vol/as  vid/i  vi/a/j/n  du  bel/a/j/n  okul/o/j/n  nun.
-    パンドゥニア me wan/a   vid/a  t/i       dul sundar/i   kan/e       zay/o.
-    英語         I  want to see    your      two beautiful  eyes        now.
+    エスペラント  Mi  vol|as  vid|i  vi|a|j|n  du  bel|a|j|n  okul|o|j|n  nun.
+    パンドゥニア  mi  vol     vide   tu su     du  sundar     yen         na zai.
+    日本語        今  私|は  あなた|の  美し|い  目|を  二|つ  見|た|いです。
 
 ## 語彙
 
@@ -377,12 +338,7 @@ marcul**a**(走る) から malcul**er**(ランナー) に変更できます。
 
 #### 何故単語の語尾が他の言語と異なることがあるですか?
 
-単語は語幹と1つ以上の接尾辞で構成されています。
-接尾辞は語尾に付く単語の一部で、
-語尾の母音(品詞語尾)には文法的な意味があります。
-これが他の言語と異なることがある最も重要な理由です。
-
-2つ目の理由として、パンドゥニアが多くの言語から単語を借りているため、
+1つ目の理由として、パンドゥニアが多くの言語から単語を借りているため、
 異なる言語間で語尾の母音が一致しないことが挙げられます。
 たとえば **supe**(スープ) はスペイン語では _sopa_ と ‐a で終わり、
 日本語ではスープ(_sūpu_)と ‐u で終わり、
@@ -391,8 +347,8 @@ marcul**a**(走る) から malcul**er**(ランナー) に変更できます。
 つまり同じ単語ではなく似た単語の集まりであり、
 パンドゥニアの **supe** はこれらの集まりに完全に適合します。
 
-3つ目の理由は、既に多くの言語で語尾が変化していることです。
-たとえば **novi**(新しい) はポルトガル語の _novo_ から借りています。
+2つ目の理由は、既に多くの言語で語尾が変化していることです。
+たとえば **nove**(新しい) はポルトガル語の _novo_ から借りています。
 ポルトガル語ではこの単語に _nov/o, nov/a, nov/os, nov/as, nov/idade, re/nov/ar_ など
 多くの活用がありますが、語幹の _nov‐_ は変わりません。
 この単語の語幹を採用してパンドゥニアの品詞語尾を割り当てることは理にかなっています。
@@ -412,30 +368,3 @@ marcul**a**(走る) から malcul**er**(ランナー) に変更できます。
 誰かに会った時だけではなく、
 あらゆる状況で幸福を願う一般的な表現として使うことができます。
 たくさんの例文があるので[フレーズ集](fraze.md)の最初のレッスンを参照してください。
-
-#### 何故 to be のような動詞がないのですか?
-
-To Be は英語の多目的動詞です。
-それは多くの無関係な意味を持っています。
-
-1. to be the same as, ex. _I am a man._
-2. to have a quality, ex. _I am young._
-3. to exist, ex. _I am._
-4. to occupy a place, ex. _I am at home._
-5. to have an age, ex. _I am 20._
-6. to undergo, ex. _I am loved._
-7. to do at present, ex. _I am watching you._
-
-パンドゥニアには同じ表現をするための異なる方法があります。
-媒介するための動詞が不要なものもありますし、
-_to be_ よりもパンドゥニアの動詞のほうがより正確なこともあります。
-
-1. **me jowani.** = I am young.
-2. **me man.** = I am a man.
-3. **me zayu.** = I exist.
-4. **me sa dom.** = I am at home.  
-   **me loku dom.** = I occupy home.
-5. **me umuru 20 nen.** = I am 20 years.
-6. **me amu.** = I am loved.
-7. **me zay kana te.** = I am watching you.
-
