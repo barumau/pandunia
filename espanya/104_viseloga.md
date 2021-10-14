@@ -21,11 +21,11 @@ Los pronombres posesivos consisten en el pronombre personal y la partícula pose
 | Singular    | Plural       |
 |:------------|:-------------|
 | **mi su**   | **mimon su** |
-| mi          | nuestro      |
+| mio         | nuestro      |
 | **tu su**   | **tumon su** |
-| tu          | su           |
+| tuyo        | de ustedes   |
 | **ye su**   | **yemon su** |
-| su          | su           |
+| suyo        | de ellos     |
 
 
 ## Pronombre reflexivo
@@ -33,11 +33,11 @@ Los pronombres posesivos consisten en el pronombre personal y la partícula pose
 El pronombre reflexivo se usa cuando el objeto de una oración es la misma como el sujeto.
 
 **se**
-– se  
+– su mismo  
 **mi vide se.**
-– Se veo.  
+– Me miro.  
 **mimon vide se.**
-– Nos vemos.
+– Nos miramos.
 
 La expresión **se kon** se usa cuando dos o más personas performan la acción el uno al otro.
 
@@ -45,9 +45,9 @@ La expresión **se kon** se usa cuando dos o más personas performan la acción 
 – el uno al otro
 
 **mi e tu vide se kon.**
-– Yo y tú vemos el uno al otros.  
+– Yo y tú miramos el uno al otros.  
 **mimon vide se kon.**
-– Se vemos.
+– Nos miramos.
 
 
 ## Pronombres demostrativos
@@ -92,7 +92,7 @@ o es conocido por el oyente o es de interés actual en el discurso.
 – Ese es gato.  Quiere comer ese ratón.
 
 **mi ten un mau e un vaf. la vaf si dai. ye yam poli yam.**
-– Tengo un gato y un perro. El perro es gran. Come mucha comida.
+– Tengo un gato y un perro. El perro es grande. Come mucha comida.
 
 
 ### Uso abstracto
@@ -109,7 +109,7 @@ y **go** refiere a cosas que se dirán en el futuro.
 Arriba, **ni jumle** (_esta oración_) refiere a la oración que se está hablando.
 
 **mi mana go she: mi ama tu.**
-– Significo esta: te amo. (Significo que te amo.)  
+– Significo esto: te amo. (Significo que te amo.)  
 **mi ama tu. mi mana la she.**
 – Te amo. Esa es la que significo.
 
@@ -154,6 +154,6 @@ Antes de un adjetivo, **ke** también significa «cuán».
 – ¿Cuán muchos? (¿Cuántos?)  
 
 **tu tena ke dai di mau?**
-– ¿Cuán gran gato tienes?
+– ¿Cuán grande gato es tu gato?
 
 

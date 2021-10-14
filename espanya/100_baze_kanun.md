@@ -39,13 +39,13 @@ Ellas se describien en más detalle más tarde en este sitio.
        - Dieces: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
        - Cientos: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
        - Miles: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
-       - Los números ordinales usan el sufijo **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
+       - Los números ordinales usan el sufijo **me**: **un me** (primer), **du me** (segundo), **tri me** (tercer), etc.
 7. **Modificadores:**
    Los adjetivos y adverbos tienen la misma forma.
    El adjetivo está antes del sustantivo que modifica,
    y el adverbo está antes del verbo que modifica.
     - **un rapide loga**
-      – Un habla rápido.
+      – Un habla rápida.
     - **tu rapide loga.**
       – Tú hablas rápido.
 8. **Verbos:**

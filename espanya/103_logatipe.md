@@ -1,7 +1,7 @@
 # Clasificación de las palabras
 
 El gramático de Pandunia es sencillo y corto en comparación con la mayoría de los idiomas.
-El principio principal e que palabras nunca se cambian para razones gramáticas.
+El principio fundamental es que las palabras nunca se cambian por razones gramáticas.
 Por lo tanto, la palabra misma puede usarse como un sustantivo, verbo, o adjetivo
 sin ningún cambio en la forma de la palabra.
 Esta es un de las razones por las que Pandunia es más fácil y sencillo de usar que otros idiomas.
@@ -22,11 +22,11 @@ Palabras de estructura son las palabras que conectan palabras de contento en fra
 Ellas tienen poco significado en el mundo afuera del idioma.
 
 Palabras de contento expresan la mayoría de la información y significado.
-No puede decir nunca sin ellas,
-pero ellas no tiene sentido sin palabras de estructura,
+No se podría hablar sin ellas,
+pero ellas no tienen sentido sin palabras de estructura,
 que son necesarias para gramático.
 Necesita palabras de estructura para organizarlas en oraciónes más o menos complejos.
-Palabras de contento son ladrillos de información, y palabras de estructura son el mortero que los mantienen unidos.
+Palabras de contento son ladrillos de información, y palabras de estructura son el pegamento que los mantienen unidos.
 
 En Pandunia, es muy fácil identificar palabras de estructura, porque siempre consisten de solo una sílaba.
 Palabras de contento, por otro lado, tipicalmente son más largas.
@@ -58,7 +58,7 @@ dependiendo de su posición en la oración.
 **mi _vide_ tu.**
 – Te _veo_. (verbo)  
 **tu ten bon vide.**
-– Tienes buen _visión_. (sustantivo)  
+– Tienes buena _visión_. (sustantivo)  
 **mi estude la _vide_ suta.**
 – Estudio las artes _visuales_. (adjectivo)
 

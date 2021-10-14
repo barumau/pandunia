@@ -13,9 +13,9 @@ modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
 A. **go si un _rapide_ kar.**
-– Eso es un carro rápido.  
+– Eso es un carro _rápido_.  
 B. **tu _rapide_ di loga.**
-– Tú rápidamente hablas.
+– Usted habla _rápido_.
 
 
 ### Modificar sustantivos
@@ -56,9 +56,9 @@ Dos o más modificadores pueden modifican el mismo sustantivo.
 En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
 **tu _rapide_ loga.**
-– Tú _rápidamente_ hablas.  
+– Usted hablas _rápido_.  
 **yemon _bon_ kitabu.**
-– Ellas bien escriben.
+– Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
 **di**
@@ -66,9 +66,9 @@ entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
 **tu _sundar di_ kitabu.**
-– Tú hermosamente escribes.  
+– Tú escribes _hermoso_.  
 **yemon _rapide di_ marche.**
-– Ellos rápidamente caminan.
+– Ellos caminan _rápido_.
 
 
 ### Modificar otros modificadores
@@ -101,13 +101,13 @@ Palabras de grado nos dicen sobre la intensidad de algo.
 Palabras de grado preceden la palabra que modifican.
 
 **un dai man**
-– un gran hombre  
+– un hombre grande  
 **un tre dai man**
-– un muy gran hombre  
+– un hombre muy grande  
 **un mas dai man**
-– un más gran hombre  
+– un hombre más grande  
 **un mas dai man ka bas**
-– un demasiado gran hombre
+– un hombre demasiado grande
 
 Una palabra de grado junta con un modificador crea un _adverbo compuesto_
 que puede modificar un verbo o una oración.
@@ -116,9 +116,9 @@ El adverbo compuesto se pone inmediatamente antes del verbo que modifica.
 **tre poli**
 – muchísimo
 **mi _tre poli_ vol loga.**
-– Muchísimo quiero hablar.  
+– Tengo muchas ganas de hablar.  
 **mi vol _tre poli_ loga.**
-– Quero hablar muchísimo.
+– Quiero hablar muchísimo.
 
 En adición es posible poner el adverbo compuesto en el fin de la oración,
 y entonces modifica la oración en conjunto.
@@ -137,22 +137,22 @@ Adjetivos pueden compararse con los adverbos de comparación.
 - **mas**
   (_más_) indica superioridad sobre otra cosa
 - **masim**
-  (_el más_) indica superioridad sobre un grupo entero
+  (_mayor_) indica superioridad sobre un grupo entero
 - **min**
   (_menos_) indica inferioridad a otra cosa
 - **minim**
-  (_el menos_) indica inferioridad a un grupo entero
+  (_menor_) indica inferioridad a un grupo entero
 - **par**
-  (_tan_ o _equivamente_) indica igualdad
+  (_igual_, _tan_ o _equivamente_) indica igualdad
 
 La partícula
-**ka**
+**ka** (_que_)
 relaciona los adverbos de comparación al objeto de comparación.
 
 **aple si mas bon ka oranje.**
-= Manzanas son más bueno como naranjas.  
+= Las manzanas son mejores (más buenas) que las naranjas.  
 **oranje si min bon ka aple.**
-= Naranjas son menos bueno como manzanas.  
+= Las naranjas son peores (menos buenas) que las manzanas.  
 **tu loga par bon ka mi.**
 = Hablas tan bien como yo.
 
