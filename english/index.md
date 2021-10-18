@@ -29,7 +29,7 @@ It includes simpler grammar, more international word forms, and many new words.
 - [The basics](baze.md) in one short page
 - [Lessons with Dialogs](201_shula.md)
 - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
-- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_shula.html)
 - [Phrasebook](200_baze_jumla.md)
 - [Complete grammar of Pandunia](pan.pdf) in PDF format
 
@@ -53,20 +53,22 @@ It includes simpler grammar, more international word forms, and many new words.
 Many people are already interested about Pandunia and they are speaking it.
 You can find Pandunia forums in several places:
 
-- Links and discussion in [Reddit](https://www.reddit.com/r/pandunia/)
-- [Friends of Pandunia](http://www.facebook.com/groups/pandunia) in Facebook
-- Channels in Telegram instant messenger:
-    * [multilingual](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-    * [in Esperanto](https://pandunia.telegramo.org/)
-    * [in Pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- Find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
-- [channels in Discord](https://discord.gg/FWavWeG)
-- QQ channel: 717549404
-- You can follow Pandunia also on [Twitter](https://twitter.com/pandunia_).
-  Spread the word!
-- You can help to [translate this site](tarja_netoloke.md)
+| Platform | Channel | Purpose |
+|----------|---------|---------|
+| Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | News and discussion |
+| Twitter  | [pandunia_](https://twitter.com/pandunia_) | News |
+| Facebook | [Pandunia group](http://www.facebook.com/groups/pandunia) | Discussion |
+| Discord  | [pandunia-multilingual](https://discord.gg/FWavWeG) | Discussion. It's linked to the Telegram channel below. |
+| Telegram | [multilingual channel](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) | Discussion. It's linked to the Discord channel above. |
+| Telegram | [mimon basha pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Practicing. Only Pandunia is spoken here! |
+| Telegram | [pandunia esperanto grupe](https://pandunia.telegramo.org/) | Discussion in Esperanto |
+| QQ       | 717549404 | Discussion in Chinese and other languages |
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")  
+You can find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
+
+Please help to [translate this site](tarja_netoloke.md) into new languages!
+
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
