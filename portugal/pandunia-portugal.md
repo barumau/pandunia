@@ -1281,7 +1281,7 @@ shula she - lição
 shula shefe - diretor  
 shuli - reparo  
 shuli - reparar  
-shulija - reparador  
+shuli ja - reparador  
 shuru - começo (início, princípio)  
 si - ser (estar)  
 si dur - transcorrer  
@@ -1300,7 +1300,7 @@ siro - zero
 siti - cidade  
 Slave - eslavo  
 so - elemento  
-sofita - sabedoria (sagacidade, sapiência)  
+sofi ta - sabedoria (sagacidade, sapiência)  
 soi - soja  
 soi milke - leite de soja  
 soi sos - molho de soja  
@@ -1387,7 +1387,7 @@ un mar - uma vez
 un verse di - universal  
 un yen di lense - monóculo  
 un zai di - só (solitário)  
-unta liga - união  
+un ta liga - união  
 ura - urra  
 Uran - Urano  
 uran yum - urânio  

@@ -78,7 +78,7 @@ amir ja - emir
 amir lin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
-an ai - detestar  
+an ama - detestar  
 an air bio di - anaeróbico  
 an daka - destapar  
 an deu sim ja - ateo  
@@ -968,7 +968,7 @@ fa sekur - proteger (asegurar, guardar)
 fa sel - aconsejar  
 fa sense - sentir (detectar)  
 fa sharti - espicificar (estipular)  
-fa shibai - perder (fallar)  
+fa shiti bai - perder (fallar)  
 fa shipi - mojar  
 fa shite - cagar  
 fa shofer - conducir  
@@ -1306,7 +1306,7 @@ grom - truenos (estruendo)
 grom tafun - tormenta  
 gros - grueso  
 gros zi - letra negrita  
-grosta - grosor  
+gros ta - grosor  
 grupe - grupo  
 gua - cueva (caverna)  
 Guadelupe - Guadalupe  
@@ -3159,7 +3159,7 @@ shula she - lección
 shula shefe - director de colegio  
 shuli - arreglo  
 shuli - reparar (arreglar)  
-shulija - reparador  
+shuli ja - reparador  
 shuru - comienzo (inicio, principio)  
 shuru di - primer (inicial, inaugural)  
 shush - chito (chist)  
@@ -3206,7 +3206,7 @@ siro - cero (ninguno)
 siro jen - ningunos  
 siro sata - nunca  
 siro she - nada  
-sismologi - sismología  
+sismo logi - sismología  
 sistem - sistema  
 sistem di - sistémico  
 sita - citar  
@@ -3221,7 +3221,7 @@ Slovenia - Eslovenia
 so - elemento (unidad fundamental)  
 sofa - sofá  
 sofi - sabio  
-sofita - sabiduría  
+sofi ta - sabiduría  
 soi - soja  
 soi milke - leche de soja  
 soi sos - salsa de soja  
@@ -3491,11 +3491,11 @@ un she sim - monismo
 un verse di - universal  
 un yen di lense - monóculo  
 un zai di - solo (aislado, solitary, soltero)  
-unta - unidad (unión)  
-Unta Arabi Amir Desha (UAA) - Emiratos Árabes Unidos  
-Unta Desh Da Amerika (UDA) - Estados Unidos de América  
-unta di - unido  
-unta liga - unión  
+un ta - unidad (unión)  
+Un Ta Arabi Amir Desha (UAA) - Emiratos Árabes Unidos  
+Un Ta Desh Da Amerika (UDA) - Estados Unidos de América  
+un ta di - unido  
+un ta liga - unión  
 ura - hurra  
 Uran - Urano  
 uran yum - uranio  
@@ -3684,11 +3684,11 @@ zai di - actual (presente)
 zai fa - generar (añadir, realizar)  
 zai zaman - presente (actualidad)  
 zai zaman di - actual  
-zaita - presencia (existencia)  
+zai ta - presencia (existencia)  
 zaitun - aceituna  
 zalim - mezquino (antipático, cruel)  
 zalim raja - tirano (déspota)  
-zalimta - crueldad (tiranía)  
+zalim ta - crueldad (tiranía)  
 zaman - tiempo  
 Zambia - Zambia  
 zar - riesgo (posibilidad)  

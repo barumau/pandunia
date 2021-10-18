@@ -18,7 +18,7 @@ Niektóre zauważalne cechy Panduni:
 
 ## Materiały do nauki
 
-- [Mini lekcje z obrazkami](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Mini lekcje z obrazkami](http://www.pandunia.info/pandunia/mini_shula.html)
 - [Pisownia](102_ABC.md)
 - [Rozmówki](200_baze_jumla.md)
 - [Lekcje z Dialogami](201_shula.md)

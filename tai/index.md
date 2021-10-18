@@ -18,7 +18,7 @@
 
 ## มาเรียนกัน
 
-- [บทเรียนผ่านทางรูปภาพ](http://www.pandunia.info/pandunia/mini_darse.html)
+- [บทเรียนผ่านทางรูปภาพ](http://www.pandunia.info/pandunia/mini_shula.html)
 - [การออกเสียง](abc.md)
 - [รวบประโยค](fraze.md)
 - [ไวยากรณ์](kanun.md)

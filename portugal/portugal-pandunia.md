@@ -1200,7 +1200,7 @@ relógio - hor loga gi
 remover - fa for  
 remédio (medicamento) - dava she  
 Reno - Ren  
-reparador - shulija  
+reparador - shuli ja  
 reparar - shuli  
 reparo - shuli  
 repetir - fa re  
@@ -1238,7 +1238,7 @@ rénio - ren yum
 ródio - rode yum  
 rótula (patela) - guta kaske oste  
 ####S - S  
-sabedoria (sagacidade, sapiência) - sofita  
+sabedoria (sagacidade, sapiência) - sofi ta  
 saber (conhecer) - sabe  
 sacada (varanda) - veranda  
 saco - sake  
@@ -1406,7 +1406,7 @@ um (1) - un
 um ao outro - se kon  
 uma vez - un mar  
 universal - un verse di  
-união - unta liga  
+união - un ta liga  
 Urano - Uran  
 urra - ura  
 urso - baru  

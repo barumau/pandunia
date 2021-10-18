@@ -812,7 +812,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**kuri yum**|eng:curium, fra:curium, spa:curio, por:cúrio, rus:кюрий, jpn:キュリウム, kor:퀴륨, vie:curi, hin:क्यूरियम, ben:কুরিয়াম, may:kurium, swa:kuri, ara: كوريوم|
 |**kursi**|ara:(kursiy), hin:कुरसी (kursī), urd:(kursī), pnb:ਕੁਰਸੀ (kursī), tel:(kurcī), may:som:kursi, fas:(korsi)|
 |**kurva**|eng:curve, fra:courbe, spa:por:curva, swa:kuruba + rus:кривая (krivaya)|
-|**kush loke**|fra:eng:couchette, ita:cuccetta, pol:kuszetka|
+|**kush loka**|fra:eng:couchette, ita:cuccetta, pol:kuszetka|
 |**la**|fra:la, spa:la, ara: الـ‎ (al-)|
 |**laba**|zho:喇叭 (lǎbā), yue:喇叭 (laa3baa1), jpn:喇叭 (rappa)|
 |**labi**|spa:labio, por:lábio, fas:urd:(lab), hin:लब (lab), tgl:labi|
@@ -1388,7 +1388,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**sivil**|eng:civil, por:civil, hin:सिविल (sivil), may:sipil|
 |**so**|zho:素 (sù), yue:素 (sou3), wuu:素 (su2), jpn:素 (so), kor:소 (so), vie:tố|
 |**sofa**|eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), hin:सोफ़ा (sofā)|
-|**sofita**|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
+|**sofi ta**|ell:σοφία (sofía) + eng:philosophy, fra:philosophie, spa:filosofia, rus:философия (filosofiya), may:filsafat, ara:(falsafa), swa:falsafa, tur:felsefe, hin:फ़लसफ़ा (falasfā)|
 |**soi**|eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)|
 |**soki**|zho:搜 (sōu), yue:搜 (sau1), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen + rus:искать (iskat’)|
 |**sol**|spa:por:sol, fra:soleil, + hin:सौर (sOr), tel:(saur)|

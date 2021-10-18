@@ -451,7 +451,7 @@ cosmique - kosmo di
 cosmonaute - kosmo nave ja  
 cosmos - kosmo  
 coton - goton  
-couch (couchette) - kush loke  
+couch (couchette) - kush loka  
 coucher - kush  
 coude - kudi  
 coudée - kudi metre  
@@ -615,7 +615,7 @@ explosion - bum
 exposer - vai poze  
 extraire - fa vai trata  
 extérieur - vai  
-exécrer - an ai  
+exécrer - an ama  
 ####F - F  
 fable - zou kata  
 face (facette) - fase  
@@ -841,7 +841,7 @@ Jésus-Christ - Yesa Mesi
 ####K - K  
 kangourou - kangaru  
 karaté - karate  
-karatéka - karate ka  
+karatéka - karate ja  
 Khartoum - Hartum  
 kimono - kimono  
 Kinshasa - Kinshasa  
@@ -1399,7 +1399,7 @@ ruche (nid d'abeille) - fong nide
 ruse - truke  
 rutherfordium - ruterfor yum  
 ruthénium - rus yum  
-réparateur - shulija  
+réparateur - shuli ja  
 réparation - shuli  
 réparer - shuli  
 réponse - javabu  
@@ -1413,7 +1413,7 @@ s'opposer à - shatan
 sable - arena  
 sac - sake  
 sacrifice - kurban  
-sagesse - sofita  
+sagesse - sofi ta  
 sagoutier - sagu  
 sain - salu  
 saintes écritures  - sante kanon  
@@ -1609,7 +1609,7 @@ tête - sar
 ####U - U  
 un (1) - un  
 une fois - un mar  
-union - unta liga  
+union - un ta liga  
 universel - un verse di  
 uranium - uran yum  
 Uranus - Uran  

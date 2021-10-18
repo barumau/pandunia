@@ -374,7 +374,7 @@ berkelium - berkli yum
 Berlin - Berlin  
 Bermuda - Bermuda  
 berry - beri  
-berth (couchette) - kush loke  
+berth (couchette) - kush loka  
 beryllium - beril yum  
 Bhutan - Lung Desha  
 Bible - Biblia  
@@ -885,7 +885,7 @@ crosshair (reticle) - krus lin
 crouch (squat) - lipa side  
 crown - korona  
 crucify - fa krus fikse  
-cruelty (tyranny, despotism) - zalimta  
+cruelty (tyranny, despotism) - zalim ta  
 cry (boo-hoo, alas, woe) - uhu  
 cry (shout) - krita  
 crystal - bilor  
@@ -1019,7 +1019,7 @@ discrete (distinct, separate, quantized) - alo fen di
 discussion (debate, discourse) - lona  
 disease (illness, sickness) - pati  
 disfigure - fa dus forma  
-dislike (loathe) - an ai  
+dislike (loathe) - an ama  
 disperse (spread out, scatter) - an jama  
 distance (far away) - tele  
 distance (length) - tele ta  
@@ -1443,7 +1443,7 @@ future time - pos zaman
 ####G - G  
 Gabon - Gabon  
 gadolinium - gadolin yum  
-gains and losses (pros and cons) - deku shitu  
+gains and losses (pros and cons) - deku shiti  
 galaxy - galaksi  
 gallery (exhibition hall) - galeri  
 gallium - gali yum  
@@ -1898,7 +1898,7 @@ kangaroo - kangaru
 Kannada - karnada basha  
 karaoke - karaoke  
 karate - karate  
-karateka (practitioner of karate) - karate ka  
+karateka (practitioner of karate) - karate ja  
 Karnataka - Karnada  
 Kazakhstan - Kazake  
 keep (preserve, conserve, retain, spare) - hafiza  
@@ -2085,7 +2085,7 @@ longitudinal (parallel, vertical) - ging
 look (see) - vide  
 loom - tela gi  
 lose (be defeated) - bai  
-lose (fail, miss, be defeated) - fa shibai  
+lose (fail, miss, be defeated) - fa shiti bai  
 lose (misplace, miss, shed) - shiti  
 loser - shiti bai ja  
 lot (plot of land) - geo tika  
@@ -2892,7 +2892,7 @@ prefer (favor) - mas fili
 prefix - chen fikse  
 pregnant - hamil  
 prepare (make ready) - fa redi  
-presence (existence) - zaita  
+presence (existence) - zai ta  
 present (existing) - zai di  
 present time (now) - zai zaman  
 president - prezidente  
@@ -3044,7 +3044,7 @@ rent (charter, lease) - kira kape
 rent out (let, lease) - kira don  
 repair (fix) - shuli  
 repair (fix, mend) - shuli  
-repairer - shulija  
+repairer - shuli ja  
 repeat (iterate) - fa re  
 repetition - re  
 report (recount, relate) - fa reporte  
@@ -3248,7 +3248,7 @@ sect (cult) - din shia
 seed (fertilized grain) - seme dana  
 seed (semen) - seme  
 seem - be rupa  
-seismology - sismologi  
+seismology - sismo logi  
 seldom (rarely) - nadir mar  
 selenium - selen yum  
 self (identity) - auto  
@@ -3505,7 +3505,7 @@ stopwatch - dur metre gi
 storm (tempest, typhoon, hurricane, cyclone) - tafun  
 straight - orto  
 straighten - fa orto  
-strange (unknown) - an sabi di  
+strange (unknown) - an sabe di  
 stray (deviant) - rute galte di  
 stray (deviate) - be rute galte  
 strengthen (reinforce) - fa lika  
@@ -3642,7 +3642,7 @@ tell (narrate) - fa kata
 tellurium - telu yum  
 Telugu - Telugu  
 temperature - termo  
-temple (place of worship) - puja kan  
+temple (shrine, place of worship) - puja kan  
 tempt (entice) - tenta  
 ten (deca-, 10) - des  
 ten thousand - des kilo  
@@ -3686,7 +3686,7 @@ there - na go
 thermometer - termo metre gi  
 they - yamon  
 thick - gros  
-thickness - grosta  
+thickness - gros ta  
 thief - chori ja  
 thing - she  
 think (ponder, reflect) - fikir  
@@ -3841,14 +3841,14 @@ underground (subterrainean) - geo niche di
 underside (underneath) - niche  
 understand (realize) - aha  
 unexpected - an chen vide di  
-union - unta liga  
+union - un ta liga  
 unit (measurement) - metre unta  
 unite (merge, integrate) - fa un she  
-united - unta di  
-United Arab Emirates - Unta Arabi Amir Desha (UAA)  
+united - un ta di  
+United Arab Emirates - Un Ta Arabi Amir Desha (UAA)  
 United Kingdom - Britan  
-United States of America (USA) - Unta Desh Da Amerika (UDA)  
-unity - unta  
+United States of America (USA) - Un Ta Desh Da Amerika (UDA)  
+unity - un ta  
 universal - un verse di  
 university - dai shula kan  
 unlock - an sora  
@@ -4031,7 +4031,7 @@ winter - leng mosim
 winter melon (wax gourd, ash gourd) - mum melon  
 wintry - leng mosim di  
 wire - metal lin  
-wisdom - sofita  
+wisdom - sofi ta  
 wise - sofi  
 with (there be; have) - va  
 wolf - volfe  

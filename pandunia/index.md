@@ -10,7 +10,7 @@ Afrika, Amerika, Asia, Europe
 – ze la dunia basha ya yau vakil da mimon su pan dunia!
 
 tu sabe Pandunia, he?
-tu bil shula Pandunia va uze la [lili shula](mini_darse.html).
+tu bil shula Pandunia va uze la [lili shula](mini_shula.html).
 
 
 * [zi sili](abc.md)

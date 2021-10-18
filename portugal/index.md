@@ -14,7 +14,7 @@ Nota: Esta documentação não está atualizada com a versão final do Pandunia.
 
 ## Junte-se a nós!
 
-- [Pequenas aulas com imagens](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Pequenas aulas com imagens](http://www.pandunia.info/pandunia/mini_shula.html)
 - [Grupo Facebook da pandunia](http://www.facebook.com/groups/pandunia)
 - [Sala de conversa em Telegram](https://telegram.me/joinchat/Dhfgywdb7jonCD7DHCxuJw)
 

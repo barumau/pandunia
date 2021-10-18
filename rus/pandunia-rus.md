@@ -411,7 +411,7 @@ fa presa - нажимать
 fa pul - заполнять  
 fa re - повторять  
 fa sel - советовать  
-fa shibai - проиграть (провалиться)  
+fa shiti bai - проиграть (провалиться)  
 fa shopi - покупать (купить)  
 fa shula - учиться  
 fa side - сидеть  
@@ -719,7 +719,7 @@ Kantalupo va Sabina - Канталупо-ин-Сабина
 kanyon - овраг (ущелье, каньон)  
 kape truke - ловушка  
 karate - каратэ  
-karate ka - каратист (каратэка)  
+karate ja - каратист (каратэка)  
 karbon - углерод  
 karbon duokside - двуокись углерода  
 karbon kalam - карандаш  
@@ -1359,7 +1359,7 @@ shula she - урок (учение)
 shula shefe - директор (ректор)  
 shuli - починка (ремонт)  
 shuli - чинить (ремонтировать)  
-shulija - ремонтник  
+shuli ja - ремонтник  
 shuru - начало  
 shush di - тихий  
 si - быть  
@@ -1383,7 +1383,7 @@ siro - нуль (зеро)
 Slave - славянский  
 so - элемент  
 sofa - софа (диван, канапе)  
-sofita - мудрость  
+sofi ta - мудрость  
 soi - соя  
 soi milke - соевое молоко  
 soi sos - соевый соус  
@@ -1498,8 +1498,8 @@ un di - только (единственно, единственный, уник
 un mar - один раз  
 un yen di lense - монокль  
 un zai di - одинокий (единичный)  
-unta - единица  
-unta liga - союз  
+un ta - единица  
+un ta liga - союз  
 ura - ура  
 Uran - Уран  
 uran yum - уран  

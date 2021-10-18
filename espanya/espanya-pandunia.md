@@ -905,7 +905,7 @@ cronómetro - dur metre gi
 cruasán - kruasan  
 crucificar - fa krus fikse  
 crudo - jene di  
-crueldad (tiranía) - zalimta  
+crueldad (tiranía) - zalim ta  
 cruz - krus  
 cruzar - be krus  
 cráneo (calavera) - sar oste  
@@ -1055,7 +1055,7 @@ destapar - an daka
 destinar - chuze yo gol  
 destino - kisma  
 detalle - detal  
-detestar - an ai  
+detestar - an ama  
 devanágari - deu nagar zi  
 devolver (vomitar) - retro gula  
 diagonal - transe gon di  
@@ -1195,7 +1195,7 @@ embarrado (enlodado) - fan di
 embudo - dara tubo  
 emir - amir ja  
 emirato - amir desha  
-Emiratos Árabes Unidos - Unta Arabi Amir Desha (UAA)  
+Emiratos Árabes Unidos - Un Ta Arabi Amir Desha (UAA)  
 emisión - mise she  
 emoticón (emoyi) - emosi zi  
 emotivo - emosi di  
@@ -1317,7 +1317,7 @@ estación (temporada) - mosim
 estación - estasi  
 estadio (arena) - estadi  
 estado (condición) - hal  
-Estados Unidos de América - Unta Desh Da Amerika (UDA)  
+Estados Unidos de América - Un Ta Desh Da Amerika (UDA)  
 estadounidense - UDA di  
 estante (repisa) - lipa bano  
 estar al lado de - na late  
@@ -1589,7 +1589,7 @@ gris - hui rang
 gritar - krita  
 Groenlandia - Kalal  
 grosero (maleducado) - insulte di  
-grosor - grosta  
+grosor - gros ta  
 grueso - gros  
 grupo - grupe  
 gráfico (pictórico, ilustrado) - grafi di  
@@ -2691,7 +2691,7 @@ pepita - seme dana
 pequeño - lili  
 pera - pera  
 perdedor - shiti bai ja  
-perder (fallar) - fa shibai  
+perder (fallar) - fa shiti bai  
 perder - shiti  
 perdonar (disculpar) - fa maf  
 perdurable (longevo, prolongado) - long dur di  
@@ -2839,7 +2839,7 @@ preguntarse - be sabi vol
 prensa - presa gi  
 prensar (oprimir) - fa presa  
 preparar (hacer listo) - fa redi  
-presencia (existencia) - zaita  
+presencia (existencia) - zai ta  
 presente (actualidad) - zai zaman  
 presidente - prezidente  
 presión - presa  
@@ -3030,7 +3030,7 @@ remolacha - bete
 remolacha azucarera - sukar bete  
 renio - ren yum  
 renovar - fa nove  
-reparador - shulija  
+reparador - shuli ja  
 reparar (arreglar) - shuli  
 repetición - re  
 repetir - fa re  
@@ -3128,7 +3128,7 @@ sabana - garma zona gazo topo
 sabbat - sabate  
 saber (conocer) - sabe  
 sabiduría (conocimiento) - sabe she  
-sabiduría - sofita  
+sabiduría - sofi ta  
 sabio - sofi  
 sabroso (umami) - umami  
 sacerdote (clérigo, eclesiástico) - din guru  
@@ -3256,7 +3256,7 @@ Singapur - Singapur
 sino - alo  
 sintoísmo - shindau din  
 Siria - Suria  
-sismología - sismologi  
+sismología - sismo logi  
 sistema - sistem  
 sistema solar - sol sistem  
 sistémico - sistem di  
@@ -3547,12 +3547,12 @@ Ucrania - Ukraina
 Uganda - Ganda  
 una vez - un mar  
 unidad (medida) - metre unta  
-unidad (unión) - unta  
-unido - unta di  
+unidad (unión) - un ta  
+unido - un ta di  
 unir - fa un she  
 universal - un verse di  
 universidad - dai shula kan  
-unión - unta liga  
+unión - un ta liga  
 Unión Europea - Europa Unta  
 uno (1) - un  
 unshu mikan - venjou oranje  

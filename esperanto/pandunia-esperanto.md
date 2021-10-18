@@ -46,14 +46,14 @@ amerika yum - americio
 amir - ordono  
 amper - ampero  
 an - mala  
-an ai - malami  
+an ama - malami  
 an deu sim ja - ateisto  
 an din ja - malkredulo  
 an dosti - malamiko  
 an jama - disigi  
 an memo - forgesi  
 an pase - malpaco  
-an sabi di - fremda (nekonata)  
+an sabe di - fremda (nekonata)  
 an sona - sendormeco  
 anda - ovo  
 Andes - Andoj  
@@ -1657,7 +1657,7 @@ shula she - leciono
 shula shefe - lernejestro  
 shuli - riparo  
 shuli - ripari  
-shulija - riparisto  
+shuli ja - riparisto  
 shuru - komenco  
 shush di - silenta  
 si - esti  
@@ -1680,14 +1680,14 @@ sing - stelo
 singa - leono  
 Singapur - Singapuro  
 siro - nul  
-sismologi - sismologio  
+sismo logi - sismologio  
 sistem - sistemo  
 sita - citi  
 siti - urbo  
 so - elemento (ero)  
 sofa - sofo  
 sofi - saĝa  
-sofita - saĝeco  
+sofi ta - saĝeco  
 soi - sojo  
 soi milke - sojlakto  
 soi sos - sojsaŭco  
@@ -1816,7 +1816,7 @@ un di - sola (nur)
 un mar - unufoje  
 un she sim - monismo  
 un yen di lense - monoklo  
-unta liga - uniono  
+un ta liga - uniono  
 uran yum - uranio  
 uze - uzi  
 ####V - V  
@@ -1915,7 +1915,7 @@ zai den - hodiaŭ
 zai di - ĉeestanta (ekzistanta)  
 zai zaman - nuno  
 zai zaman di - nuna  
-zaita - ĉeestanteco (ekzisto)  
+zai ta - ĉeestanteco (ekzisto)  
 zaitun - olivo  
 zaman - tempo  
 Zambia - Zambio  

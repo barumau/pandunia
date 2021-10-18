@@ -265,7 +265,7 @@ debil - 虚弱 (易坏)
 defa bano - 盾牌  
 defa kaske - 盔甲  
 deku - 获得  
-deku shitu - 得失  
+deku shiti - 得失  
 dele - 迟延  
 den - 日 (天)  
 den loge - 日记  
@@ -359,7 +359,7 @@ fa nomi - 组织
 fa pede - 放屁  
 fa ratibu - 整理  
 fa re - 重复  
-fa shibai - 输  
+fa shiti bai - 输  
 fa shipi - 弄湿  
 fa shofer - 开车  
 fa shopi - 买  
@@ -1219,7 +1219,7 @@ shula she - 课
 shula shefe - 校长  
 shuli - 修理  
 shuli - 修理  
-shulija - 修理工人  
+shuli ja - 修理工人  
 shuru - 开始  
 shush - 噓  
 si - 对  
@@ -1236,7 +1236,7 @@ sing - 星
 sir plan - 阴谋 (密谋)  
 siro - 零 (〇)  
 sofa - 沙发  
-sofita - 智慧  
+sofi ta - 智慧  
 soi - 大豆 (黄豆)  
 soi milke - 豆浆  
 soi sos - 酱油  
@@ -1336,8 +1336,8 @@ un - 一 (1)
 un di - 只有 (惟独, 唯一, 独)  
 un mar - 一次 (一遍)  
 un zai di - 独自的 (孤单)  
-unta - 团结 (统一)  
-unta liga - 合并  
+un ta - 团结 (统一)  
+un ta liga - 合并  
 ura - 好哇  
 uran yum - 铀  
 ####V - V  

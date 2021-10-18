@@ -107,7 +107,7 @@ amir ja - emiiri
 amir lin - komentorivi  
 amper - ampeeri  
 ampul - ampulli  
-an ai - inhota  
+an ama - inhota  
 an air bio di - anaerobinen  
 an chen vide di - ennennäkemätön  
 an daka - paljastaa  
@@ -126,7 +126,7 @@ an mesi - antikristus
 an nam - vastakohta (antonyymi)  
 an pase - levottomuus (konflikti)  
 an romanse - aromanttinen  
-an sabi di - vieras (tuntematon)  
+an sabe di - vieras (tuntematon)  
 an sekse di - aseksuaali  
 an sona - unettomuus  
 an sora - avata lukko  
@@ -695,7 +695,7 @@ defa kaske - suojakypärä
 Deimos - Deimos  
 deku - hankkia (saada)  
 deku ja - saaja (vastaanottaja)  
-deku shitu - voitot ja tappiot  
+deku shiti - voitot ja tappiot  
 dele - viive (odotus)  
 dele do - odottaa  
 demo - väestö (kansa)  
@@ -1099,7 +1099,7 @@ fa sekur - suojella (suojata, turvata)
 fa sel - neuvoa  
 fa sense - aistia  
 fa sharti - vaatia (edellyttää)  
-fa shibai - hävitä (kärsiä tappio)  
+fa shiti bai - hävitä (kärsiä tappio)  
 fa shipi - kosteuttaa  
 fa shite - paskantaa (ulostaa)  
 fa shofer - ajaa (kuskata)  
@@ -1463,7 +1463,7 @@ grom - jyrinä (ukkonen)
 grom tafun - ukkosmyrsky  
 gros - paksu  
 gros zi - lihavoitu kirjain  
-grosta - paksuus  
+gros ta - paksuus  
 grupe - ryhmä  
 gua - luola  
 Guadelupe - Guadeloupe  
@@ -1875,7 +1875,7 @@ kar - kärry (vaunu, auto, jne)
 kar parke - parkkipaikka  
 karaoke - karaoke  
 karate - karate  
-karate ka - karateka (karaten harrastaja)  
+karate ja - karateka (karaten harrastaja)  
 karavi - kumina  
 karbau - vesipuhveli  
 karbon - hiili  
@@ -3227,7 +3227,7 @@ shula she - oppi (opetus)
 shula shefe - rehtori  
 shuli - korjaus  
 shuli - korjata  
-shulija - korjaaja  
+shuli ja - korjaaja  
 shuru - alku  
 shush - hiljaa (hys, shhh)  
 shush di - hiljainen  
@@ -3270,7 +3270,7 @@ siro jen - ei kukaan
 siro sata - ei koskaan (ei kertaakaan)  
 siro she - ei mitään  
 siro she - ei mitään  
-sismologi - seismologia  
+sismo logi - seismologia  
 sistem - järjestelmä (systeemi)  
 sita - lainata (siteerata)  
 sita marke - lainausmerkki  
@@ -3284,7 +3284,7 @@ Slovenia - Slovenia
 so - elementti (yksinkertaisin yksikkö)  
 sofa - sohva  
 sofi - viisas  
-sofita - viisaus  
+sofi ta - viisaus  
 soi - soija  
 soi milke - soijamaito  
 soi sos - soijakastike  
@@ -3546,11 +3546,11 @@ un she sim - monismi
 un verse di - universaali  
 un yen di lense - monokkeli  
 un zai di - yksinäinen  
-unta - ykseys  
-Unta Arabi Amir Desha (UAA) - Yhdistyneet Arabiemiirikunnat  
-Unta Desh Da Amerika (UDA) - Yhdysvallat (ns. Amerikka)  
-unta di - yhtenäinen  
-unta liga - liitto (unioni)  
+un ta - ykseys  
+Un Ta Arabi Amir Desha (UAA) - Yhdistyneet Arabiemiirikunnat  
+Un Ta Desh Da Amerika (UDA) - Yhdysvallat (ns. Amerikka)  
+un ta di - yhtenäinen  
+un ta liga - liitto (unioni)  
 ura - hurraa (hurrata)  
 Uran - Uranus  
 uran yum - uraani  
@@ -3754,11 +3754,11 @@ zai di - läsnä oleva
 zai fa - manata esiin  
 zai zaman - tämä hetki (nyt)  
 zai zaman di - nykyinen (tämänhetkinen)  
-zaita - läsnäolo  
+zai ta - läsnäolo  
 zaitun - oliivi  
 zalim - ilkeä (julma)  
 zalim raja - tyranni  
-zalimta - tyrannia  
+zalim ta - tyrannia  
 zaman - aika  
 Zambia - Sambia  
 zar - sattuma (onni)  

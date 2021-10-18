@@ -89,7 +89,7 @@ an mesi - antychryst
 an nam - antonim  
 an pase - niepokój  
 an romanse - aromantyczny  
-an sabi di - dziwny (nieznany)  
+an sabe di - dziwny (nieznany)  
 an sekse di - aseksualny  
 an sora - otworzyć (otwierać, odkluczyć, odkluczać)  
 an sora di - zamknięty na klucz (zakluczony)  
@@ -931,7 +931,7 @@ fa sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
 fa sekur - chronić (ratować)  
 fa sense - czuć (poczuć, postrzegać, wykrywać)  
 fa sharti - wymagać, przewidywać  
-fa shibai - przegrać, przegrywać  
+fa shiti bai - przegrać, przegrywać  
 fa shipi - moczyć (zmoczyć)  
 fa shite - srać (robić gówno)  
 fa shofer - prowadzić pojazd  
@@ -1244,7 +1244,7 @@ grom - grom, huk
 grom tafun - burza z piorunami  
 gros - gruby  
 gros zi - pogrubiona litera  
-grosta - grubość  
+gros ta - grubość  
 grupe - grupa  
 gua - jaskinia  
 Guadelupe - Gwadelupa  
@@ -1864,7 +1864,7 @@ kurva - wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać
 kurva di - zakrzywiony  
 kush - położyć  
 kush - leżeć  
-kush loke - kuszetka (koja)  
+kush loka - kuszetka (koja)  
 kushen - poduszka  
 Kuvaitia - Kuwejt  
 ####L - L  
@@ -3038,7 +3038,7 @@ shula she - lekcja
 shula shefe - dyrektor szkoły  
 shuli - naprawa  
 shuli - naprawić, naprawiać  
-shulija - naprawiacz  
+shuli ja - naprawiacz  
 shuru - początek  
 shuru di - pierwszy, początkowy  
 shush - ćsi  
@@ -3081,7 +3081,7 @@ siro jen - nikt, żadna osoba
 siro sata - nigdy  
 siro she - nic, żadna rzecz  
 sismo - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
-sismologi - sejsmologia  
+sismo logi - sejsmologia  
 sistem - system  
 sistem di - systemowy  
 sita - cytować  
@@ -3096,7 +3096,7 @@ Slovenia - Słowenia
 so - pierwiastek (jednostki podstawowej)  
 sofa - sofa (kanapa)  
 sofi - mądry  
-sofita - mądrość  
+sofi ta - mądrość  
 soi milke - mleko sojowe  
 soi sos - sos sojowy  
 soki - szukać  
@@ -3345,10 +3345,10 @@ un mar - raz (jeden raz)
 un me - pierwszy, numer jeden  
 un rang di - jednokolorowy (monochromatyczny)  
 un she sim - monizm  
-Unta Arabi Amir Desha (UAA) - Zjednoczone Emiraty Arabskie  
-Unta Desh Da Amerika (UDA) - Stany Zjednoczone Ameryki  
-unta di - zjednoczony  
-unta liga - unia  
+Un Ta Arabi Amir Desha (UAA) - Zjednoczone Emiraty Arabskie  
+Un Ta Desh Da Amerika (UDA) - Stany Zjednoczone Ameryki  
+un ta di - zjednoczony  
+un ta liga - unia  
 ura - wiwatować; hura  
 Uran - Uran  
 uran yum - uran  
@@ -3527,11 +3527,11 @@ zai di - obecny, teraźniejszy, aktualny, bieżący, współczesny
 zai fa - wzywać (wezwać, dodawać, dodać)  
 zai zaman - teraźniejszość, współczesność (teraz)  
 zai zaman di - bieżący (aktualny, obecny)  
-zaita - teraźniejszość, współczesność  
+zai ta - teraźniejszość, współczesność  
 zaitun - oliwka  
 zalim - złośliwy, okrutny  
 zalim raja - tyran  
-zalimta - tyrania  
+zalim ta - tyrania  
 zaman - czas  
 Zambia - Zambia  
 zar - niebezpieczeństwo, ryzyko, szansa  

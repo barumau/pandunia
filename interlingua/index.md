@@ -19,7 +19,7 @@ Nota: Pandunia es un lingua construite que on ancora construe. Il es possible qu
 
 ## Materiales pro aprender Pandunia
 
-- [Mini-lectiones con picturas](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Mini-lectiones con picturas](http://www.pandunia.info/pandunia/mini_shula.html)
 
 ## Communitate
 

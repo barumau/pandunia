@@ -134,7 +134,7 @@ bete - テーブルビート
 betula - 樺  
 bichi - 鞭  
 bil - できる (ありうる)  
-bil ja - 有能  
+bil ja - 有能 (上手)  
 bilor - 結晶  
 bina - 建物 (建築物)  
 bina plan - 建築学  
@@ -157,7 +157,7 @@ boi - フロート (ブイ)
 bokse - ボクシング (拳闘)  
 bokse ja - ボクサー (拳闘家)  
 bol - 玉 (球)  
-bon - 良い  
+bon - 良い (元気, 上手)  
 bon guste di - 美味しい  
 bor yum - ボーリウム  
 boron - ホウ素  
@@ -242,7 +242,7 @@ debil - 弱い (脆弱)
 defa bano - 盾  
 defa kaske - 鎧  
 deku - 受ける (もらう)  
-deku shitu - 得失  
+deku shiti - 得失  
 dele - 遅れ (遅延)  
 demon - 悪魔  
 den - 日  
@@ -355,7 +355,7 @@ fa poze - 植える
 fa ratibu - 揃える  
 fa re - 繰り返す  
 fa sam sifa - シミュレートする  
-fa shibai - 負ける  
+fa shiti bai - 負ける  
 fa shipi - 濡らす  
 fa shopi - 買う  
 fa shula - 学ぶ  
@@ -649,7 +649,7 @@ kanyon - 峡谷
 kape truke - 罠  
 kar - 車  
 karate - 空手  
-karate ka - 空手家  
+karate ja - 空手家  
 karbon - 炭素  
 karbon kalam - 鉛筆  
 karbon sui - 炭水化物  
@@ -1085,7 +1085,7 @@ program - 次第 (計画, プログラム)
 projete - プロジェクト  
 promete yum - プロメチウム  
 protacini yum - プロトアクチニウム  
-puja kan - 神殿  
+puja kan - 神殿 (宮, 寺, 神社)  
 pul fito yam sim - ヴィーガニズム  
 pul fito yam sim ja - 絶対菜食主義者 (ヴィーガン)  
 pul shipi - 漬ける (締める)  
@@ -1178,6 +1178,7 @@ sata - 瞬間
 Saturne - 土星  
 saur - 蜥蜴  
 sekse logi - 性科学  
+seku - 石 (岩)  
 seku jiang ja - 石匠  
 sekur kopi - バックアップ (控え)  
 sekur nomer - 暗証番号  
@@ -1223,7 +1224,7 @@ shula kan - 学校
 shula shefe - 校長  
 shuli - 修理  
 shuli - 修理する  
-shulija - 修理工  
+shuli ja - 修理工  
 shuru - 開始  
 shush - しーっ  
 sian - シアン  
@@ -1245,7 +1246,7 @@ sir ta - 忍び
 siro - 零 (０)  
 so - 元素 (-素)  
 sofa - ソファー  
-sofita - 知恵  
+sofi ta - 知恵  
 soi - 大豆  
 soi milke - 豆乳  
 soi sos - 醤油  
@@ -1303,6 +1304,7 @@ tele fon gi - 電話
 teleskope - 望遠鏡 (テレスコープ)  
 telu yum - テルル  
 tema nam - 題名 (書名, タイトル)  
+ten - 持つ (有する, 飼う, ある, いる)  
 ten bil - とっつきやすい (アクセス可能)  
 ten fasil ta - アクセシビリティ  
 tenesi yum - テネシン  
@@ -1336,8 +1338,8 @@ umami - 旨味
 un - 一 (1)  
 un di - だけ (唯一の)  
 un zai di - 一人の (寂しい, ポツリ)  
-unta - 団結 (統一)  
-unta liga - 連合 (接合)  
+un ta - 団結 (統一)  
+un ta liga - 連合 (接合)  
 uran yum - ウラン  
 uze bil di - 使用可能  
 ####V - V  

@@ -753,7 +753,7 @@ häpy (ulkosynnyttimet) - vulva
 hätä (paniikki) - panike  
 hävittää (hajottaa) - perishe  
 hävitä (kärsiä tappio) - bai  
-hävitä (kärsiä tappio) - fa shibai  
+hävitä (kärsiä tappio) - fa shiti bai  
 häviäjä - shiti bai ja  
 hölmö (narri) - bufon  
 höylä - rande  
@@ -799,7 +799,7 @@ Indonesia - Indonesi
 Indusjoki - Hindi rivo  
 infektio (tartunta) - pati mise  
 inhimillinen - insan di  
-inhota - an ai  
+inhota - an ama  
 inkivääri - zinji  
 insinööri - enjener  
 internet - internete  
@@ -1042,7 +1042,7 @@ kapteeni - nave shefe
 karaatti - kirate  
 karaoke - karaoke  
 karate - karate  
-karateka (karaten harrastaja) - karate ka  
+karateka (karaten harrastaja) - karate ja  
 karavaani (saattue) - karvan  
 karhu - baru  
 Karibia - Karibe  
@@ -1300,7 +1300,7 @@ korealainen - chosen di
 kori - baske  
 koripallo - baske bol  
 koristella - fa sundar daka  
-korjaaja - shulija  
+korjaaja - shuli ja  
 korjata (tehdä oikeaksi) - fa sahi  
 korjata - shuli  
 korjaus - shuli  
@@ -1596,7 +1596,7 @@ liima - glu
 liimata - fa glu  
 liitonarkki - liga di sanduku  
 liitto (liittouma, liiga) - liga  
-liitto (unioni) - unta liga  
+liitto (unioni) - un ta liga  
 liittosopimus - kon trati  
 liittää - liga  
 likainen (mutainen) - darte di  
@@ -1696,7 +1696,7 @@ läntinen - veste di
 läpikulku (kuljetus) - transe  
 läpikäydä (passiivin muodostava verbi) - be  
 läsnä oleva - zai di  
-läsnäolo - zaita  
+läsnäolo - zai ta  
 lätty (räiskäle, pannukakku) - krepe  
 lävistävä (diagonaalinen) - transe gon di  
 lääke - dava she  
@@ -2236,7 +2236,7 @@ pakko - mus ta
 pakko - paka  
 pakottaa - fa paka  
 paksu - gros  
-paksuus - grosta  
+paksuus - gros ta  
 pala - tika  
 palaa - be hogo  
 palanen (murunen, riekale, sirpale) - parche  
@@ -2807,7 +2807,7 @@ seesami - sesam
 seikkailija - ventur ja  
 seikkailu - ventur  
 seinä (muuri) - mur  
-seismologia - sismologi  
+seismologia - sismo logi  
 seisoa (seisahtaa) - be estasi  
 seisova (staattinen) - estasi di  
 seistä (seisoa) - lipa  
@@ -3364,7 +3364,7 @@ tynnyri (tölkki) - tong
 typerys (idiootti) - idiote  
 typpi - nitre  
 tyranni - zalim raja  
-tyrannia - zalimta  
+tyrannia - zalim ta  
 tyttö (nuori neito) - jovan fem  
 tyttölapsi - fem ben  
 Tyyni valtameri - Pase Hai  
@@ -3590,7 +3590,7 @@ viedä pois (viedä maasta) - vai mise
 vielä (yhä, jatkua) - zoku  
 vieraanvarainen (antelias, hyväntahtoinen) - karim di  
 vierailija (vieras) - keka ja  
-vieras (tuntematon) - an sabi di  
+vieras (tuntematon) - an sabe di  
 viesti - anjil  
 viestintuoja (airut) - anjil ja  
 Vietnam - Viete  
@@ -3612,7 +3612,7 @@ viinipanimo - vin kan
 viinirypäle - putau  
 viinitarha - putau bagi  
 viisas - sofi  
-viisaus - sofita  
+viisaus - sofi ta  
 viisi (5) - lima  
 viisikulmio - lima gona  
 viisitahokas (prisma) - lima fase  
@@ -3656,7 +3656,7 @@ voimakas (vahva) - lika di
 voimistaa - fa mas lika  
 voipuu - karite  
 voisarvi (kroissantti) - kruasan  
-voitot ja tappiot - deku shitu  
+voitot ja tappiot - deku shiti  
 voitto - seng  
 vokaali - jong fon  
 volframi - volfram  
@@ -3722,10 +3722,10 @@ ydinfuusio - kerne unta
 ydinfysiikka - kerne fizika  
 yhdeksän - tisa  
 yhdessä - kon  
-Yhdistyneet Arabiemiirikunnat - Unta Arabi Amir Desha (UAA)  
+Yhdistyneet Arabiemiirikunnat - Un Ta Arabi Amir Desha (UAA)  
 yhdistää - fa linke  
 yhdistää - fa un she  
-Yhdysvallat (ns. Amerikka) - Unta Desh Da Amerika (UDA)  
+Yhdysvallat (ns. Amerikka) - Un Ta Desh Da Amerika (UDA)  
 yhdysvaltalainen (ns. Amerikkalainen) - UDA di  
 yhteinen - komun  
 yhteinen - kon su  
@@ -3733,9 +3733,9 @@ yhteiskieli - kon basha
 yhteiskunnallinen (sosiaalinen) - sosi di  
 yhteisymmärrys - sam rai  
 yhteisö (kokoontuminen, kollektiivi) - jama  
-yhtenäinen - unta di  
+yhtenäinen - un ta di  
 yhteys (suhde, side) - linke  
-ykseys - unta  
+ykseys - un ta  
 yksi (1) - un  
 yksimerkityksinen - un mana di  
 yksinkertainen (mutkaton) - simple  

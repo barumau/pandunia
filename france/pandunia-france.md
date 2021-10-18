@@ -71,7 +71,7 @@ amir ja - émir
 amir lin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
-an ai - exécrer  
+an ama - exécrer  
 an air bio di - anaérobique  
 an deu sim ja - athée  
 an din ja - infidèle (incroyant)  
@@ -843,7 +843,7 @@ Kantalupo va Sabina - Cantalupo in Sabina
 kanyon - canyon (ravin)  
 kape truke - piège  
 karate - karaté  
-karate ka - karatéka  
+karate ja - karatéka  
 karbon - carbone  
 karbon duokside - dioxyde de carbone  
 karbon kalam - crayon  
@@ -944,7 +944,7 @@ kuri yum - curium
 kurva - courbe  
 kush - coucher  
 kush - être couché  
-kush loke - couch (couchette)  
+kush loka - couch (couchette)  
 ####L - L  
 la - le (la)  
 lage - lac  
@@ -1506,7 +1506,7 @@ shula she - leçon
 shula shefe - directeur (principal)  
 shuli - réparation  
 shuli - réparer  
-shulija - réparateur  
+shuli ja - réparateur  
 shuru - début (commencement)  
 si - être  
 si dur - se passer  
@@ -1527,7 +1527,7 @@ siro - zéro
 siti - ville  
 so - élément (unité fondamentale)  
 sofa - canapé (sofa)  
-sofita - sagesse  
+sofi ta - sagesse  
 soi - soja  
 soi milke - lait de soja  
 soi sos - sauce de soja  
@@ -1633,7 +1633,7 @@ un di - seul (unique)
 un mar - une fois  
 un verse di - universel  
 un yen di lense - monocle  
-unta liga - union  
+un ta liga - union  
 ura - hourra  
 Uran - Uranus  
 uran yum - uranium  

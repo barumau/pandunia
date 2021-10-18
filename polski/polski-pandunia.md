@@ -555,7 +555,7 @@ dziki - vilde
 dziobak - bata krote  
 dziura - kung  
 dziw (cudo) - ajibu  
-dziwny (nieznany) - an sabi di  
+dziwny (nieznany) - an sabe di  
 dziwny - guai  
 dzięki, dzięki ci - shukur  
 dziękować - fa shukur  
@@ -758,7 +758,7 @@ Grenadyny - Grenadin nesi
 Grenlandia - Kalal  
 grillować - kababu  
 grom, huk - grom  
-grubość - grosta  
+grubość - gros ta  
 gruby - gros  
 grudzień - mes tisa  
 grunt (ziemia, próchnica) - darte  
@@ -1261,7 +1261,7 @@ kura, kogut, kurczak - koko
 kurtka - jake  
 kusić, nakłonić, nakłaniać - tenta  
 kusza (balista) - krus arka  
-kuszetka (koja) - kush loke  
+kuszetka (koja) - kush loka  
 Kuwejt - Kuvaitia  
 kuzyn - chin brus ben  
 kwadrat (czworokąt, czworobok, tetragon) - nelu gona  
@@ -1599,7 +1599,7 @@ mój - mi su
 mówić, rozmawiać - loga  
 mózg - nau  
 mózgowy - nau di  
-mądrość - sofita  
+mądrość - sofi ta  
 mądry - sofi  
 męczyć się (nużyć się) - be fatige  
 męski - man  
@@ -1640,7 +1640,7 @@ nano- - nano
 nanometr - nano mitre  
 napierśnik - sine plate  
 naprawa - shuli  
-naprawiacz - shulija  
+naprawiacz - shuli ja  
 naprawić, naprawiać - shuli  
 naprzód - do jin  
 narkotyk - droge  
@@ -2267,7 +2267,7 @@ przedrostek (prefiks) - chen fikse
 przedstawić (przedłożyć, przedstawić, złożyć, składać) - gong mise  
 przedłużyć, przedłużać - fa long  
 przegrany, pokonany - shiti bai ja  
-przegrać, przegrywać - fa shibai  
+przegrać, przegrywać - fa shiti bai  
 przejazd, przewóz, tranzyt, transport - transe  
 przejmować się (zawracać sobie głowę) - be turbe  
 przejść w poprzek - be krus  
@@ -2569,7 +2569,7 @@ sałata - letus
 sałatka - salade  
 schody (drabina) - eskale  
 seaborg - siborge yum  
-sejsmologia - sismologi  
+sejsmologia - sismo logi  
 sekret - sir  
 sekretariat - buro ja grupe  
 sekretarz - buro ja  
@@ -2700,7 +2700,7 @@ stacja - estasi
 stadion, arena - estadi  
 stan - hal  
 Stan Nowy Jork - Nove Yorke siti  
-Stany Zjednoczone Ameryki - Unta Desh Da Amerika (UDA)  
+Stany Zjednoczone Ameryki - Un Ta Desh Da Amerika (UDA)  
 Starożytny Egipt (Kemet) - Keme  
 stary (sędziwy, wiekowy) - lau  
 stary, starożytny - chen zaman di  
@@ -2909,7 +2909,7 @@ teozofia - deu sofi
 tera- - tera  
 terakota - baka fan  
 teraźniejszość, współczesność (teraz) - zai zaman  
-teraźniejszość, współczesność - zaita  
+teraźniejszość, współczesność - zai ta  
 terb - terbi yum  
 teren - geo forme  
 termometr - termo metre gi  
@@ -2998,7 +2998,7 @@ tylko (jedyny, wyłączny) - un di
 tylko (precyzyjny, dokładny) - juste  
 typ (rodzaj, gatunek) - tipe  
 tyran - zalim raja  
-tyrania - zalimta  
+tyrania - zalim ta  
 tysiąc (kilo-) - kilo  
 tytan - titan yum  
 tytoń - tabaku  
@@ -3037,7 +3037,7 @@ umiejętny (sprawny, zręczny) - jiang di
 umieścić (postawić) - fa loka  
 umrzeć, umierać - be mata  
 umysłowy (psychiczny) - ruhu di  
-unia - unta liga  
+unia - un ta liga  
 Unia Europejska (EU) - Europa Unta  
 uniwersytet - dai shula kan  
 upadły - pade di  
@@ -3440,9 +3440,9 @@ zima - leng mosim
 Zimbabwe - Zimbabue  
 zimny, chłodny - leng  
 zimowy - leng mosim di  
-Zjednoczone Emiraty Arabskie - Unta Arabi Amir Desha (UAA)  
+Zjednoczone Emiraty Arabskie - Un Ta Arabi Amir Desha (UAA)  
 Zjednoczone Królestwo - Britan  
-zjednoczony - unta di  
+zjednoczony - un ta di  
 zmaksymalizować - fa masim  
 zmiana klimatu - klima mute  
 zmienić (zmieniać) - fa alo  

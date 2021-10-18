@@ -31,7 +31,7 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 
 - [Lecciones con diálogos](201_shula.md)
 - [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
-- [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_shula.html)
 - [Guía de conversación](200_baze_jumla.md)
 - [Gramático de Pandunia](pan.pdf) como PDF
 - [Dicionario que puede buscarse](http://www.pandunia.info/pandunia/logia.html)

@@ -45,5 +45,5 @@ menciitaj ret-lokoj.
 
 ## Lerniloj 
 
-- [Lecionetoj kun bildoj](http://www.pandunia.info/pandunia/mini_darse.html)
+- [Lecionetoj kun bildoj](http://www.pandunia.info/pandunia/mini_shula.html)
 

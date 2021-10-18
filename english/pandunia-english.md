@@ -107,7 +107,7 @@ amir ja - emir
 amir lin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
-an ai - dislike (loathe)  
+an ama - dislike (loathe)  
 an air bio di - anaerobic  
 an chen vide di - unexpected  
 an daka - uncover (reveal)  
@@ -126,7 +126,7 @@ an mesi - antichrist
 an nam - antonym  
 an pase - unrest  
 an romanse - aromantic  
-an sabi di - strange (unknown)  
+an sabe di - strange (unknown)  
 an sekse di - asexual  
 an sona - insomnia  
 an sora - unlock  
@@ -701,7 +701,7 @@ defa kaske - armor (shielding)
 Deimos - Deimos  
 deku - get (receive, obtain, take)  
 deku ja - getter (receiver, recipient)  
-deku shitu - gains and losses (pros and cons)  
+deku shiti - gains and losses (pros and cons)  
 dele - wait (delay)  
 dele do - wait for  
 demo - people (population)  
@@ -1111,7 +1111,7 @@ fa sekur - protect (secure, save)
 fa sel - advise (recommend)  
 fa sense - sense (perceive, detect)  
 fa sharti - stipulate  
-fa shibai - lose (fail, miss, be defeated)  
+fa shiti bai - lose (fail, miss, be defeated)  
 fa shipi - wet (dampen, moisten)  
 fa shite - defecate (shit)  
 fa shofer - drive (steer)  
@@ -1481,7 +1481,7 @@ grom - thunder (roaring)
 grom tafun - thunderstorm  
 gros - thick  
 gros zi - bold letter  
-grosta - thickness  
+gros ta - thickness  
 grupe - group  
 gua - cave  
 Guadelupe - Guadeloupe  
@@ -1929,7 +1929,7 @@ kar - car (cart, carriage, wagon, automobile)
 kar parke - car park (parking lot)  
 karaoke - karaoke  
 karate - karate  
-karate ka - karateka (practitioner of karate)  
+karate ja - karateka (practitioner of karate)  
 karavi - caraway  
 karbau - water buffalo  
 karbon - carbon (coal)  
@@ -2184,7 +2184,7 @@ kurva - curve (bend)
 kurva di - curvy (curved)  
 kush - lay (lay down)  
 kush - lie (lie down)  
-kush loke - berth (couchette)  
+kush loka - berth (couchette)  
 kushen - cushion (pillow)  
 Kuvaitia - Kuwait  
 ####L - L  
@@ -3121,7 +3121,7 @@ promete yum - promethium
 protacini yum - protactinium  
 puding - pudding  
 puja - worship (reveration)  
-puja kan - temple (place of worship)  
+puja kan - temple (shrine, place of worship)  
 puja meza - altar  
 puja riti - ritual (ceremony, religious custom)  
 pul - full (complete, saturated)  
@@ -3499,7 +3499,7 @@ shula she - lesson (teaching)
 shula shefe - headmaster (principal)  
 shuli - repair (fix)  
 shuli - repair (fix, mend)  
-shulija - repairer  
+shuli ja - repairer  
 shuru - beginning (start, commencement, onset)  
 shuru di - initial (first)  
 shush - hush (shh)  
@@ -3549,7 +3549,7 @@ siro sata - never
 siro she - none  
 siro she - nothing  
 sismo - shake (jolt, earthquake)  
-sismologi - seismology  
+sismo logi - seismology  
 sistem - system  
 sistem di - systemic  
 sita - quote (cite)  
@@ -3564,7 +3564,7 @@ Slovenia - Slovenia
 so - element (factor, the simplest unit)  
 sofa - sofa (couch)  
 sofi - wise  
-sofita - wisdom  
+sofi ta - wisdom  
 soi - soy bean  
 soi milke - soy milk  
 soi sos - soy sauce  
@@ -3854,11 +3854,11 @@ un she sim - monism
 un verse di - universal  
 un yen di lense - monocle  
 un zai di - alone (lonely, isolated, solitary, single)  
-unta - unity  
-Unta Arabi Amir Desha (UAA) - United Arab Emirates  
-Unta Desh Da Amerika (UDA) - United States of America (USA)  
-unta di - united  
-unta liga - union  
+un ta - unity  
+Un Ta Arabi Amir Desha (UAA) - United Arab Emirates  
+Un Ta Desh Da Amerika (UDA) - United States of America (USA)  
+un ta di - united  
+un ta liga - union  
 ura - cheer (hurrah, hooray)  
 Uran - Uranus  
 uran yum - uranium  
@@ -4070,11 +4070,11 @@ zai di - present (existing)
 zai fa - summon (add, spawn, actualize)  
 zai zaman - present time (now)  
 zai zaman di - current (contemporary, present-day)  
-zaita - presence (existence)  
+zai ta - presence (existence)  
 zaitun - olive  
 zalim - mean (cruel)  
 zalim raja - tyrant (despot)  
-zalimta - cruelty (tyranny, despotism)  
+zalim ta - cruelty (tyranny, despotism)  
 zaman - time  
 Zambia - Zambia  
 zar - hazard (chance)  
