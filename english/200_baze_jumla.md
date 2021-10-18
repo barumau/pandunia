@@ -61,7 +61,7 @@ Goodbye!
 **salam safar!**
 Have a safe journey!
 
-**salam son!**
+**salam sona!**
 Sleep well!
 
 As you can see from the range of expressions,
@@ -278,7 +278,7 @@ is from Spanish: no, English no, French: non.</small>
 
 ### Plural pronouns
 
-Plural pronouns are created like this:
+Plural pronouns are created like this:  
 **mi**
 (I) →
 **mimon**
@@ -620,10 +620,10 @@ I don't understand at all.
 
 ### bil <small>can</small>
 
-**mi bil shofe un kar.**
+**mi bil shofer un kar.**
 I can drive a car.
 
-**ye no bil shofe un kar.**
+**ye no bil shofer un kar.**
 He/she doesn't know how to drive a car.
 
 **sual tu bil shuli ye?**
@@ -686,7 +686,7 @@ What kind of music do you listen to?
 
 ### vide <small>to see</small>
 
-**suku vide tu.**
+**suka vide tu.**
 Pleased to see you!
 
 **vide tu re!**
@@ -734,13 +734,13 @@ We speak Pandunia.
 **sual tu bil basha english?**
 Can you speak English?
 
-**france, espan, portugal, rus**
+**france, espanya, portugal, rus**
 French, Spanish, Portuguese, Russian
 
 **putong han, nipon, indonesia**
 Chinese, Japanese, Indonesian
 
-**arabi, turke, farsi, urdu, hindi**
+**arabi, turki, farsi, urdu, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
 **suahili, hausa, yoruba, amari**
@@ -934,18 +934,18 @@ I give a book to them.
 He/she doesn't want to give it to me.
 
 
-### kapae <small>take, get</small>
+### kape <small>take, get</small>
 
-**mi kapa un kafe.**
+**mi kape un kafe.**
 I will take a coffee.
 
-**ching kapa un kafe do mi.**
+**ching kape un kafe do mi.**
 Please take one coffee for me.
 
-**tu pas kapa pesa ze mi.**
+**tu pas kape pesa ze mi.**
 You already got money from me before.
 
-**mi kapa un bir.**
+**mi kape un bir.**
 I will take a beer.
 
 
@@ -957,10 +957,10 @@ The rent is 500 dollars in a month.
 **ye no bil pei la kira.**  
 He/she can't pay the rent.
 
-**mi vol kapa un gar na kira.**  
+**mi vol kape un gar na kira.**  
 I want to take a car for rent.
 
-**mi vol kira kapa un kar.**
+**mi vol kira kape un kar.**
 I want to rent a car.
 
 **ye kira don la kamar do safarer.**

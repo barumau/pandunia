@@ -86,7 +86,7 @@ indicates that an action is done completely.
 
 **zai**
 '(be present')
-indicates that a situation is ongoing at present.
+indicates that a situation is happening at present.
 
 **mi zai yam un piza.**
 – I am eating a pizza.

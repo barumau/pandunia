@@ -102,18 +102,18 @@ A degree word together with a modifier forms a _compound adverb_
 that can modify a verb or a sentence.
 The compound adverb is placed immediately before the verb that it modifies.
 
-**tre muche**
+**tre poli**
 – very much  
-**mi _tre muche_ vol loga.**
+**mi _tre poli_ vol loga.**
 – I want very much to speak.  
-**mi vol _tre muche_ loga.**
+**mi vol _tre poli_ loga.**
 – I want to speak very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi vol loga _tre muche_.**
+**mi vol loga _tre poli_.**
 – I want to speak very much.  
 **sual tu sona _bas bon_?**
 – Did you sleep well enough?

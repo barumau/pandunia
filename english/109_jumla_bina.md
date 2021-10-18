@@ -110,11 +110,11 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**mi vol tu yam yo fito.**
+**mi vol tu yam ba fito.**
 – I want you to eat vegetables.
 
 In the example above, **mi vol** has **tu** as its object.
-At the same time, **tu** functions as the subject of the following predicate, **yam di fito**.
+At the same time, **tu** functions as the subject of the following predicate, **yam ba fito**.
 So **tu** is the _pivot_ of the entire sentence.
 
 The second verb in a pivot structure is the main verb.
@@ -256,7 +256,9 @@ apply to the verb, not the whole question.
 
 Questions that offer alternatives end with the particle
 **he**
-that indicates that an answer is expected.
+or start with the word
+**sual**
+to indicate that an answer is expected.
 The question is answered by repeating the chosen alternative.
 
 **tu yam un o du banana.**
@@ -282,9 +284,9 @@ However, unlike in English, the word order may also be left alone.
 – What are you eating?  
 **tu zai yam ke she?**
 – You are eating what?  
-**ye lai pa ke sata?**
+**ye lai na ke sata?**
 – When does he arrive?  
-**tumon kegu pa ke jen su dom?**
+**tumon keka na ke jen su dom?**
 – Whose house did you all visit?
 
 
@@ -459,7 +461,7 @@ So a modifier phrase with and without **da** can mean a different thing.
 
 **mas sundar hua**
 – more beautiful flowers  
-**mas da sundar hua**
+**mas di sundar hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases

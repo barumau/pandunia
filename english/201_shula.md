@@ -383,22 +383,26 @@ tea
 to ask; please  
 **don**
 to give  
-**shukur**
-thanks  
 **e**
 and  
 **kafe**
 coffee  
 **kamar**
 room  
+**la**
+the  
 **o**
 or  
 **safa**
 to clean  
+**shukur**
+thanks  
 **side**
 to sit  
 **yam**
 to eat or drink  
+**yo**
+some, a(n)
 
 
 ### Answers to the Exercises
@@ -710,6 +714,8 @@ something, even when not answering to a question.
 to dance  
 **lai**
 to come  
+**na**
+at, in, on  
 **jen**
 person  
 **suka**
@@ -830,6 +836,12 @@ past, former
 present, current  
 **sha**
 future  
+**chen**
+before  
+**den**
+day  
+**noche**
+night  
 **darba**
 to hit, to beat  
 **pang**

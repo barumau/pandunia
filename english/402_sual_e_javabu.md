@@ -207,21 +207,21 @@ used in other languages in the table below.
 - Letters that correspond usually to different sounds in Pandunia
   and in the compared language are listed under DIFFERENT.
 
-| ALPHABET         | SIMILAR                                           | MISSING |DIFFERENT    |
+| ALPHABET         | SIMILAR                                           | MISSING | DIFFERENT   |
 |:-----------------|---------------------------------------------------|---------|-------------|
 | Pandunia         | a b ch d e f g h i j k l m n o p r s sh t u v y z |         |             |
-| Indian Romaniz.  | a b ch d e f g h i j k l m n o p r s sh t u v y z |         |             |
-| Malay/Indonesian | a b    d e f g h i j k l m n o p r s    t u   y z | v       |             |
-| Hausa            | a b    d e f g h i j k l m n o p r s    t u   y z | v       |             |
+| Indian Romaniz.  | a b ch d e f g h i j k l m n o p r s    t u v y z | sh      |             |
+| Malay/Indonesian | a b    d e f g h i j k l m n o p r s    t u   y z | ch sh v |             |
+| Hausa            | a b    d e f g h i j k l m n o p r s sh t u   y z | ch v    |             |
 | Chinese Pinyin   | a b ch d   f g h i j k l m n o p r s sh t u   y   | v       | e z         |
 | Swahili          | a b ch d e f g h i j k l m n o p r s sh t u v y z |         |             |
-| Japanese Romaji  | a b ch d e   g h i j k l m n o p   s sh t u   y z | v       | f r         |
-| Portuguese       | a b    d e f g   i   k l m n o p r s    t u v   z | y       | h j         |
+| Japanese Romaji  | a b ch d e f g h i j k   m n o p r s sh t u   y z | l v     |             |
+| Portuguese       | a b    d e f g   i   k l m n o p r s    t u v   z | sh y    | ch h j      |
 | English          |   b ch d   f g h i j k l m n o p r s sh t   v y z |         | a e u       |
-| French           | a b    d e f g   i   k l m n o p   s    t u v y z |         | h j r       |
-| Spanish          | a b    d e f g   i   k l m n o p r s    t u v y   |         | h j z       |
-| German           | a b    d e f g h i   k l m n o p r s    t u v     |         | j y z       |
-| Vietnamese       | a b ch   e   g h i   k l m n o p r      t u v y   | f j z   | d s         |
+| French           | a b    d e f g   i   k l m n o p   s    t u v y z | sh      | ch h j r    |
+| Spanish          | a b ch d e f g   i   k l m n o p r s    t u v     | sh      | h j y z     |
+| German           | a b    d e f g h i   k l m n o p r s    t u v     | sh      | ch j y z    |
+| Vietnamese       | a b ch   e   g h i   k l m n o p r      t u v     | f j sh z | d s y      |
 
 
 ## Grammar

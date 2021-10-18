@@ -31,17 +31,17 @@ and the words that come before it only modify its meaning.
 
 ### Common affixes
 
-#### an-
+#### an
 
 Creates verbs that reverse the meaning of the base verb.
 
 **node**
 (to tie) →
-**annode**
-(to untie)    
+**an node**
+(to untie)  
 **tapa**
 (to plug, to close with a plug) →
-**antapa**
+**an tapa**
 (to unplug, to open the plug).
 
 

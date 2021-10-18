@@ -116,11 +116,11 @@ In the above, **ni jumle** (_this sentence_) refers to the sentence being spoken
 
 **mi mana go: mi ama tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mi ama tu. mi mana ni.**
+**mi ama tu. mi mana la.**
 – I love you. That is what I mean.
 
 In the above, the pronoun **go** refers to the content of the next statement
-and **ni** refers to the content of the previous statement.
+and **la** refers to the content of the previous statement.
 
 
 ## Interrogative pronouns
@@ -159,6 +159,6 @@ Also adjectives are questioned with **ke**.
 – How small?
 
 **tu tena ke dai di mau?**
-– How big cat do you have?
+– How big a cat do you have?
 
 
