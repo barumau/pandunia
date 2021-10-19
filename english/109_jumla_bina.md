@@ -113,9 +113,18 @@ It is at the same time the object for the verb 1 and the subject for the verb 2.
 **mi vol tu yam ba fito.**
 – I want you to eat vegetables.
 
-In the example above, **mi vol** has **tu** as its object.
-At the same time, **tu** functions as the subject of the following predicate, **yam ba fito**.
-So **tu** is the _pivot_ of the entire sentence.
+In the example above,
+**mi vol**
+has
+**tu**
+as its object.
+At the same time,
+**tu**
+functions as the subject of the following predicate,
+**yam ba fito**.
+So
+**tu**
+is the _pivot_ of the entire sentence.
 
 The second verb in a pivot structure is the main verb.
 The first verb is a modal verb,
@@ -362,7 +371,7 @@ The demonstrative **go** points to the following phrase, and **ni** points to th
 **a**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)  
 **ki**
-– that (introduces a clause which is the subject or object of a verb, is reported speech, or which is a complement to a previous statement)  
+– that (introduces a clause which is the subject or object of a verb or is reported speech)  
 **do ki**
 – so that, in order that, with the result that  
 **ze ki**
@@ -392,7 +401,7 @@ Expressions are affirmative by default.
 
 Affirmation can be emphasized with the adverb
 **ya**
-(_indeed_).
+('yes indeed').
 
 **mi ya si shefe.**
 – I indeed am the boss.  
@@ -435,7 +444,7 @@ Particles **di** and **da** are used to link a noun, an adjective or a verb phra
 
 #### Modification with noun phrases
 
-Another way to use these particles is to connect an adjective or other words with a noun.
+One way to use these particles is to connect an adjective or other words with a noun.
 It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.

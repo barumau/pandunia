@@ -30,11 +30,11 @@
        - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
          7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.
        - Kymmentä suuremmat: 11 **des un**, 12 **des du**, 13 **des tri**, jne.
-       - Kymmenet: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
-       - Sadat: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
-       - Tuhannet: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
+       - Kymmenet: 20 **du des**, 30 **tri des**, 40 **nelu des**, jne.
+       - Sadat: 100 **un sento**, 200 **du sento**, 300 **tri sento**, jne.
+       - Tuhannet: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, jne.
        - Järjestysnumerot muodostetaan sanan **me** avulla:
-         **un me** (ensimmäinen), **du me** (toinen), **tri me** (kolma), jne.
+         **un me** (ensimmäinen), **du me** (toinen), **tri me** (kolmas), jne.
 7. **Adjektiivit ja adverbit:**
    Adjektiivit ja adverbit ovat muodoltaan samanlaisia.
    Yhdessä niitä kutsutaan määritteiksi.

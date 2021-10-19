@@ -42,8 +42,8 @@ but helps to clarify its structure.
 
 **peshe si mau yam.**
 – Fish is catfood.  
-**mau _ye_ yam a peshe.**
-– The cat eats fish.
+**mau _ya_ yam yo peshe.**
+– The cat eats some fish.
 
 Other suitable markers include auxiliaries of time and mood,
 which are introduced next.
@@ -84,6 +84,15 @@ indicates that an action is done completely.
 **mi pul vide la filme.**
 – I completed watching the film. / I watched the film completely.
 
+**fen**
+('partially')
+indicates that the action is only partially done.
+
+**tu fen yam un piza.**
+– You ate some of the pizza.  
+**mi fen vide la filme.**
+– I watched some of the movie.
+
 **zai**
 '(be present')
 indicates that a situation is happening at present.
@@ -117,7 +126,7 @@ You can think of it somewhat like the past perfect in English (_I have done_, _I
 **mi _le_ no gul yo alkohol.**
 – I have reached not drinking alcohol.  
 **mi _le_ don la buku do yemon.**
-– I have given the book to them. (They still have it and I don't.)  
+– I have given the book to them. (So I don't have it.)  
 **yemon no _le_ don ye re do mi.**
 – They haven't given it back to me.  
 **mi _le_ lai do siti.**

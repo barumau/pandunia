@@ -84,7 +84,7 @@ osoittaa puhujasta kaukana oleviin asioihin.
 – Tämä (asia) on hyvä.  
 **go she si dus.**
 – Tuo (asia) on huono.  
-**mi vol ni buke, no go.**
+**mi vol ni buku, no go.**
 – Minä haluan tämän kirjan, en tuota.
 
 
@@ -118,7 +118,7 @@ Myös adjektiivit voi saattaa kyseenalaisiksi sanalla **ke**.
 **ke lili?**
 – Kuinka pieni?
 
-**tu tena ke dai di mau?**
+**tu ten ke dai di mau?**
 – Kuinka iso kissa sinulla on?
 
 

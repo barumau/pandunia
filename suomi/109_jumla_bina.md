@@ -1,228 +1,111 @@
-# Pandunian kielioppia
+# Lausetyyppejä
 
-## 1. Yleiskatsaus
+## Huomiota ilmaiseva lause
 
-### 1.1. Johdanto
+Yksinkertaisin lausetyyppi on huomiolause.
+Se voi koostua vain yhdestä sanasta, johon puhuja haluaa kuulijan kiinnittävän huomiota.
 
-Tämä kielioppi käsittelee pandunian sanaluokkia ja sanajärjestystä. 
-Se on tarkoitettu oppimisen tueksi,
-mutta parhaiten kielen oppii opettelemalla fraaseja ja keskusteluja.
-
-Opittava on kieli on sitä vaikeampi
-mitä enemmän siinä on sellaisia piirteitä, jotka ovat kielen oppijalle vieraita.
-Oppijalle vaikeuksia aiheuttavat mm.
-epäsäännöllinen kirjoitus, taivutussijat, aikamuodot, toonit, substantiivin ja adjektiivin yhteistaivutus,
-kunnioitusmuodot, vokaaliharmonia ja kieliopillinen suku.
-
-Pandunian oppiminen ei ole vaikeaa.
-Siinä ei ole ainoatakaan edellä luetelluista hankaluuksista,
-vaan sen sijaan sen kielioppi on helppo ja säännöllinen, sen sanasto on suhteellisen yksinkertainen, ja sitä kirjoitetaan äänteenmukaisesti.
-
-### 1.2. Sanaluokat
-
-Sanaluokka on joukko sanoja, joilla on samanlaiset (taivutus)muodot ja joita käytetään lauseissa samalla tavalla.
-Panduniassa sanat koostuvat vartalosta ja loppuvokaalista, joka osoittaa sanan sanaluokan.
-Esimerkiksi suurin osa sanoista, joiden loppuna on **-a**, ovat verbejä.
-
-Sanaluokkien yliluokkia ovat sisältösanat ja funktiosanat.
-Sisältösanojen tehtävä on viitata kielen ulkopuolisiin asioihin, joista puhuttaviin.
-Niillä sanotaan suurin osa tiedosta.
-Funktiosanoilla on kielessä lähinnä kieliopillinen tai keskustelun kulkuun liittyvä tehtävä.
-Ne ylläpitävät lauseiden rakennetta,
-mutta ne eivät useinkaan tarkoita mitään.
-Esimerkiksi sana "että" on funktiosana.
-
-Panduniassa sisältösanoihin kuuluvat substantiivit, verbit ja määritteet;
-ja funktiosanoihin kuuluvat pronominit, tarkenteet, konjunktiot ja suhdesanat.
-
-Loppuvokaalit osoittavat sisältösanojen luokat seuraavasti:
-
-- **-e** tarkoittaa substantiivia
-- **-i** tarkoittaa adjektiivia
-- **-o** tarkoittaa adverbia
-- **-a** tarkoittaa aktiivista verbiä
-- **-u** tarkoittaa passiivista verbiä
-
-(Selitämme myöhemmin, mitä myötäpäiväinen ja vastapäiväinen tarkoittavat tässä yhteydessä.)
-
-Esimerkiksi, sanavartalosta **log-** saadaan substantiivi **loge** (_puhe_), adjektiivi **logi** (_puhuttu_ tai _suullinen_),
-myötäpäiväinen verbi **(le) loga** (_(se) puhuu_), ja vastapäiväinen verbi **(le) logu** (_sitä puhutaan_).
-
-Samoja loppuvokaaleita käytetään myös funktiosanoissa,
-ja ne osoittavat seuraavia sanaluokkia:
-
-- **-e** tarkoittaa pronominia
-- **-i** tarkoittaa tarkennetta
-- **-o** tarkoittaa adverbia
-- **-a** tarkoittaa prepositiota
-- **-u** tarkoittaa postpositiota
-
-Esimerkiksi sanavartalosta **m-** johdetaan pronomini **me** (_minä_) ja tarkenne **mi** (_minun_).
-
-Perusluvuilla ei ole loppuvokaalia.
-<!--
-Järjestyslukujen lopussa on **-ordi**.
-Esim. **un** (_yksi_), **unordi** (_ensimmäinen_);
-**dul** (_kaksi_), **dulordi** (_toinen_).
--->
-
-Erisnimet ovat riippumattomia pandunian loppuvokaalikäytännöstä
-ja ne voivat päättyä mihin tahansa kirjaimeen.
-Esimerkiksi nimi _Mari_ voi olla **mari** myös panduniaksi,
-ja se toimii substantiivina toisin kuin loppuvokaalista voisi päätellä.
-Luonnollisesti tämä saattaa aiheuttaa sekaannuksia.
-Sen vuoksi on suositeltavaa että nimet mukautetaan pandunian rakenteen mukaisiksi
-tai niiden kanssa käytetään kunnioittavaa loppuliitettä **san**, esim. **mari-san**.
-## 7. Lausetyyppejä
-
-### 7.1. Huomiota ilmaiseva lause
-
-Yksinkertaisin lausetyyppi on huomiolause. Se voi koostua vain yhdestä sanasta, johon kuulijan huomio on tarkoitus siirtää.
-
-**maw!**
+**mau!**
 = Kissa!  
-**barxa!**
+**shava!**
 = Sataa!  
 
 
-### 7.2. Olotilaa ilmaiseva lause
+## Olotilaa ilmaiseva lause
 
-#### 7.2.1. Pronomini subjektina
+### Pronomini subjektina
 
-Lauseissa on _subjekti ja predikaatti_. Kaikista yksinkertaisimmissa lauseissa subjekti on asiansana tai pronomini ja predikaatti on adjektiivi.
+Lauseissa on _subjekti ja predikaatti_.
+Kaikista yksinkertaisimmissa lauseissa subjekti on substantiivi tai pronomini ja predikaatti on adjektiivi.
 
-**me bon.**
+**mi bon.**
 = Minä olen hyvä.  
-**le novi.**
+**ye nove.**
 = Se on uusi.  
-**le sarah.**
+**ye Sara.**
 = Hän on Sara.
+
+Substantiivin ollessa subjektina, verbi **si** ('olla') tulee välttämättömäksi.
+
+
+**Sara si bon.**
+– Sara on hyvä  
+**seku si dai.**
+– Kivet ovat isoja.  
+**meza si nove.**
+– Pöytä on uusi.
 
 Kieltolauseessa käytetään sanaa **no**.
 
-**me no bon.**
-= Minä en ole hyvä.  
-**le no novi.**
-= Se ei ole uusi.  
-**le no sarah.**
-= Hän ei ole Sara.
+| Myöntölause      | Kieltolause        |
+|------------------|--------------------|
+| **mi bon.**      | **mi no bon.**     |
+| Minä olen hyvä.  | Minä en ole hyvä.  |
+| **ye nove.**     | **ye no nove.**    |
+| Se on uusi.      | Se ei ole uusi.    |
+| **ye Sara.**     | **ye no Sara.**    |
+| Hän on Sara.     | Hän ei ole Sara.   |
+| **Sara si bon.** | **Sara no bon.**   |
+| Sara on hyvä.    | Sara ei ole hyvä.  |
 
 Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
 Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
-**me si le.**
+**mi si ye.**
 = Minä olen se.  
-**me no te.**
+**mi no tu.**
 = Minä en ole sinä.
 
-#### 7.2.2. Substantiivi subjektina
 
-Samoin kuin edellä.
-
-**sarah (si) bon.**
-= Sara on hyvä.  
-**petre (si) day.**
-= Kivi on suuri.  
-**meze si novi.**
-= Pöytä on uusi.  
-**meze no law.**
-= Pöytä ei ole vanha.
-
-
-#### 7.2.3. Adjektiivi subjektina
+### Adjektiivi subjektina
 
 Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeena myöntölauseessa. Kieltolauseessa käytetään sanaa **no** kuten edelläkin.
 
-**jowan si sundar.**
+**jovan si sundar.**
 = Nuori on kaunista.  
-**novi no law.**
+**nove no lau.**
 = Uusi ei ole vanha.  
-
-#### 7.2.4. Olla-verbi
-
-Panduniassa ei käytetän suomen kielen kaltaista olla-verbiä.
+**chanta si bon.**
+– Laulaminen on hyvä.
 
 
 
-### 7.3. Aktiivilauseet
 
-Aktiivilauseissa predikaatin pääsana on verbi eli teonsana. Panduniassa verbit on helppo tunnistaa, koska useimpien pääte **-a** tai **-u**.
+### Aktiivilauseet
 
-A-päätteistä verbiä käyttävän aktiivilauseen sanajärjestys on subjekti–verbi–objekti (SVO).
+Aktiivilauseissa predikaatin pääsana on verbi eli teonsana.
+A predicate can also be a verb. In this case, there may be objects as well as the subject.
+These come after the predicate.
 
-**me niama aple.**
-= Minä syön omenoita.  
-**me auda musike.**
-= Minä kuuntelen musiikkia.  
-**me vida te.**
-= Minä näen sinut.
+**mi marche.**
+– I walk.  
+**tu yam yo apel.**
+– You eat some apples.  
+**mimon dona ye yo pesa.**
+– We give her some money.
 
-U-pääteistä verbiä käytettäessä sanajärjestys on subjekti–objekti–verbi (SOV). Se sopii parhaiten käytettäväksi vain lyhyissä lauseissa.
+Sometimes, the subjet of one sentence can become the object of another.
 
-**me aple nyamu.**
-= Minä omenoita syön.
+**la fuku ya gan.**
+– The clothes dry.  
+**la sol ya gan la fuku.**
+– The sun dries the clothes.
 
-SOV ja SVO ovat maailman kielten yleisimmät sanajärjestykset. SOV-järjestystä käytetään mm. hindissä, urdussa, tamilissa, turkissa, japanissa ja koreassa. SVO on yleisin mm. englannissa, espanjassa, yleiskiinassa, indonesiassa ja modernissa arabian kielessä.
+To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
+**fa** indicates that the subject is the agent or doer of the action,
+and **be** indicates that the subject is the patient, or receiver.
 
-
-### 7.4. Passiivilauseet
-
-#### 7.4.1. OV-sanajärjestys
-
-Passiivilauseessa tilanne nähdään teon kohteen tai kokijan kannalta. Lauseessa on siis vain objekti ja verbi. Normaalisti passiivissa käytetään sanajärjestystä objekti–verbi (VO), jolloin verbin pääte on **-u**.
-
-**te vidu.**
-= Sinut nähdään.  
-**musike audu.**
-= Musiikkia kuullaan.  
-**pang beku.**
-= Leipää leivotaan.
-
-Passiivilauseessa teon kohde on tekijää tärkeämpi, joten se on ensimmäisenä. Kohde on passiivinen toimija, joka käy läpi predikaatin ilmaiseman teon.
-
-Tekijä voidaan mainita verbin jälkeen preposition **ya** kanssa tai ilman.
-
-**te vidu me.**
-= Sinut näen minä.  
-**te vidu du me.**
-= Sinut nähdään minun toimesta.
+**mi fa salam mi su dosti.**
+– I greet my friend.  
+**mi be salam mi su dosti.**
+– I am greeted by my friend.  
+**pa fa mi salam mi su dosti.**
+– Father makes me greet my friend.
 
 
-#### 7.4.2. OV-sanajärjestys
+### Saranarakenne
 
-Kun käytetään sanajärjestä verbi–objekti (VO), huomion kohteena on teko.
-
-**vida te.**
-= Nähdään sinut.  
-**auda musike.**
-= Kuunnellaan musiikkia.  
-**beka pang.**
-= Leivotaan leipää.
-
-
-### 7.5. Kaikki sanajärjestykset
-
-Mahdollisia sanajärjestyksiä on kaikkiaan kuusi. Panduniassa ne ovat mahdollisia kahden verbipäätteen ansiosta, joilla lauseenosien eli subjektin ja objektin paikka valitaan.
-
-Eri sanajärjestysten avulla voidaan keskittää huomio eri lauseenosiin: subjektiin, objektiin tai verbiin. Tärkeimpänä pidetty sana on lauseessa ensimmäisenä.
-
-    1. Kun verbin päätteenä on -a
-        - objekti–subjekti–verbi (OSV) : musike me auda.           : Musiikkia minä kuuntelen.
-        - subjekti–verbi–objekti (SVO) :        me auda musike.    : Minä kuuntelen musiikkia.
-        - verbi–objekti–subjekti (VOS) :           auda musike me. : Kuuntelen musiikkia minä.
-    2. Kun verbin päätteenä on -u
-        - subjekti-objekti-verbi (SOV) : me musike audu.           : Minä musiikkia kuuntelen.
-        - objekti-verbi-subjekti (OVS) :    musike audu me.        : Musiikkia kuuntelen minä.
-        - verbi-subjekti-objekti (VSO) :           audu me musike. : Kuuntelen minä musiikkia.
-
-Verbistä kauimmaisena oleva lauseenosa voidaan jättää pois. Esimerkiksi **musike me auda** (OSV) voidaan karsia muotoon **me auda** (SV). Samaten **me musike audu** (SOV) voidaan karsia muotoon **musike audu** (OV).
-
-Pandunian tavallisimmat sanajärjestykset ovat SVO, SOV ja OSV. Muita sanajärjestyksiä esiintyy lähinnä runoudessa ja muussa kirjallisuudessa.
-
-
-### 7.6. Saranarakenne
-
-#### 7.6.1. Kokonainen saranarakenne (SVOVO)
+### Kokonainen saranarakenne (SVOVO)
 
 Saranarakenne on pandunian keskeisimpiä lauserakenteita. Lisäksi se toimii perustana muille rakenteille.
 
@@ -233,63 +116,176 @@ subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
 
 Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
 
-**me wana te niama sabze.**
+**mi vol tu yam ba fito.**
 = Minä haluan sinun syövän vihanneksia.
 
-Edellisessä esimerkissä, lausekkeen **me wol** objektina on **te**. Samaan aikaan **te** toimii subjektina lausekkeelle **niama sabze**. Näin ollen **te** on lauseen _sarana_.
+Edellisessä esimerkissä, lausekkeen
+**mi vol**
+objektina on
+**tu**.
+Samaan aikaan
+**tu**
+toimii subjektina lausekkeelle
+**yam ba fito**.
+Näin ollen
+**tu**
+on lauseessa _saranana_.
 
 
-### 7.7. Verbiketju
+## Verbiketju
  
 Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja jälkimmäinen verbi on edellisen verbin kohteena.
  
-1. **me gowa dome.**
-= Minä menen kotiin.
-2. **me abla gowa dome.**
-= Minä voin mennä kotiin.
-3. **me wana abla gowa dome.**
-= Me haluan voida mennä kotiin.
- 
-Samannäköinen rakenne syntyy myös, kun yhdistetään passiivinen verbilauseke ja aktiivinen verbilauseke.
- 
-**me bixu gowa dome.**
-= Minun on pakko mennä kotiin.  
-**me xudu gowa dome.**
-= Minun pitäisi mennä kotiin.  
+1. **mi ga do dom.**
+   – Minä menen kotiin.
+2. **mi bil ga do dom.**
+   – Minä voin mennä kotiin.
+3. **mi vol bil ga do dom.**
+   – Minä haluan voida mennä kotiin.
+
+Ketjun viimeinen verbi on pääverbi,
+ja sitä ennen olevan verbit ovat tavan apuverbejä.
+
+**tu vol yam yo fito.**
+– Sinä haluat syödä kasviksia. (halu)  
+**tu sel yam yo fito.**
+– Sinun kannattaisi syödä kasviksia. (neuvo)  
+**tu halal yam yo fito.**
+– Sinä saat syödä kasviksia. (lupa)  
+**tu bil yam yo fito.**
+– Sinä voit syödä kasviksia. (mahdollisuus)  
+**tu mus yam yo fito.**
+– Sinun täytyy syödä kasviksia. (pakko)
 
 
-### 7.8. Pronominin poisjättö
+## Pronominin poisjättö
 
-Pronominit voidaan jättää pois silloin kun ne ovat muuten tunnettuja tai arvattavissa. Tämä koskee erityisesti käskyjä ja pyyntöjä. Tällä tavalla lauseet voivat olla lyhyempiä.
+Pronominit voidaan jättää pois silloin kun ne ovat muuten tunnettuja tai arvattavissa.
+Tämä koskee erityisesti käskyjä ja pyyntöjä.
+Tällä tavalla lauseista voi tulla lyhyempiä.
 
-#### 7.8.1. Lyhyt saranarakenne (VOVO)
+### Lyhyt saranarakenne (VOVO)
 
-**me eska te baxa pandunia.**
-= Minä kysyn, sinä puhutko panduniaa.  
-**eska te baxa pandunia?**
-= Puhutko sinä panduniaa?
+**mi amir tu kai la mun.**
+– Minä käsken sinua avaamaan oven.  
+**amir tu kai la mun.**
+– (Käsken) avaa ovi!
 
-Tällainen "karsittu" saranarakenne on panduniassa yleinen tapa muodostaa lauseita, joissa puhuja kertoo, miten hän suhtautuu sanomaansa asiaan.
- 
-**me xina le gowa dome.**
-= Minä luulen, että hän menee kotiin.   
-**xina le gowa dome.**
-= Kai hän menee kotiin.  
-**me xaka le gowa dome.**
-= Minä epäilen, että hän menee kotiin.  
-**xaka le gowa dome.**
-= Tokko hän menee kotiin.
+### Short pivot structure (VVO)
 
-#### 7.8.2. Lyhyt saranarakenne (VVO)
+**mi ching tu lai do dom.**
+– Minä pyydän sinua tulemaan kotiin.  
+**ching lai do dom!**
+– (Pyydän) tule kotiin!
 
-Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pronomini, joka selvästi viittaa kuulijaan.
 
-**me pliza te laya dome.**
-= Minä pyydän sinua tulemaan kotiin.  
-**pliza laya dome!**
-= Pyydän, tule kotiin!
 
- 
+## Kysymyslauseet
+
+### Kyllä–vai–ei-lauseet
+
+_Yes-no_ questions are questions that expect 'yes' or 'no' as answer.
+The easiest way to form a yes-no question in Pandunia is to simply attach the particle
+**he**
+('eh', 'huh') to the end of a statement.
+
+**tu yam un piza.**
+– You eat a pizza. (statement)  
+**tu yam un piza, he?**
+– Do you eat a pizza? (question)
+
+It is also possible to use
+**no**
+('no', 'not') or
+**ya**
+('yes') instead of
+**he**
+to suggest the expected answer.
+
+**tu yam un piza, no?**
+– You eat a pizza, don't you?  
+**tu yam un piza, ya?**
+– You eat a pizza, right?
+
+The third way to ask a yes-no question is to contradict the verb
+with the _A-not-A_ structure.
+
+**tu yam no yam un piza?**
+– Do you or don't you eat a pizza?  
+**tu bil no bil yam un piza?**
+– Can you or can't you eat a pizza?
+
+Finally, you can emphasize the question by using **sual**.
+
+**mi sual, tu yam un piza?**
+– I ask do you eat a pizza?  
+**sual tu yam un piza?**
+– Do you eat a pizza?
+
+Yes-no questions are answered with
+**ya**
+('yes') and
+**no**
+('no').
+
+**tu vide mi, he?**
+– Do you see me?  
+**ya. (mi ya vide tu.)**
+– Yes. (I _do_ see you.)  
+**no. (mi no vide tu.)**
+– No. (I don't see you.)
+
+Negative questions are answered so that
+**ya**
+and
+**no**
+apply to the verb, not the whole question.
+
+**tu no vide mi, he?**
+– Don't you see me?  
+**ya. (mi vide tu.)**
+– Yes. (I see you.)  
+**no. (mi no vide tu.)**
+– No. (I don't see you.)
+
+
+### Alternative questions
+
+Questions that offer alternatives end with the particle
+**he**
+or start with the word
+**sual**
+to indicate that an answer is expected.
+The question is answered by repeating the chosen alternative.
+
+**tu yam un o du banana.**
+– You eat one or two bananas. (statement)  
+**tu yam un o du banana, he?**
+– Do you eat one or two bananas? (question)  
+**un.**
+– One.
+
+
+## Open questions
+
+Open questions, or _wh-_ questions, ask for more information.
+In Pandunia they use the word **ke**.
+
+**piza si ke?**
+– What is pizza?
+
+The question word may be moved to the front of the sentence for emphasis.
+However, unlike in English, the word order may also be left alone.
+
+**ke she tu zai yam?**
+– What are you eating?  
+**tu zai yam ke she?**
+– You are eating what?  
+**ye lai na ke sata?**
+– When does he arrive?  
+**tumon keka na ke jen su dom?**
+– Whose house did you all visit?
+
 
 --------------------------------------------------------------------------------
 
@@ -297,69 +293,93 @@ Toisessa saranarakenteen muunnelmassa jätetään pois myös saranana toimiva pr
 
 ### 8.1. Peruskonjunktiot
 
-1. **e** ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)
-2. **o** tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)
-3. **a** mutta (esittelee sanan tai lausekkeen, joka on edellä sanotun vastainen)
+**e**
+– ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)
+**o**
+– tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)
+**a**
+– mutta (esittelee sanan tai lausekkeen, joka on edellä sanotun vastainen)
+**ki**
+– että (esittelee lausekkeen joka on verbin subjektina tai objektina tai on lainattua puhetta)  
+**do ki**
+– jotta, sitä varten että  
+**ze ki**
+– koska, sen vuoksi että
 
-**me suku maw e waf.**
+**mi suka mau e vaf.**
 = Minä pidän kissoista ja koirista.  
-**me suku maw o waf.**
+**mi suka mau o vaf.**
 = Minä pidän kissoista tai koirista.  
-**me suku maw a no waf.**
+**mi suka mau a no vaf.**
 = Minä pidän kissoista mutta en koirista.
 
 --------------------------------------------------------------------------------
 
-## 9. Partikkelit
+## Partikkelit
 
 
-### 9.1. Myöntäminen ja kieltäminen
+### Myöntäminen ja kieltäminen
 
-### 9.1.1. Myöntäminen
+#### Myöntäminen
 
-Partikkeli **si** on myöntävä ja no** on kieltävä. **si** myöntää jonkin asian olemassaolon, kun taas **no** kieltää sen. Tästä seuraa, että **si** tarkoitta olemista ja **no** tarkoittaa olemisen puutetta.
+Lauseet ovat lähtökohtaisesti myöntäviä.
 
-Lauseet ovat lähtökohtaisesti myöntäviä, joten sanaa **si** ei yleensä tarvita. Kuitenkin se on hyödyllinen tilaa ilmaisevissa lauseissa, joissa se erottaa subjektin predikaatista.
+**mi si shefe.**
+= Minä olen pomo.  
+**ye si nove meza.**
+= Se on uusi pöytä.
 
-**me si ren.**
-= Minä olen henkilö.  
-**le si novi meze.**
-= Tämä on uusi pöytä.
+Myöntämistä voi painottaa sanalla
+**ya**
+('kyllä').
 
-### 9.1.2. Kieltäminen
+**mi ya si shefe.**
+– Minä kyllä olen pomo.  
+**ye ya si nove meza.**
+– Se kyllä on uusi pöytä.
+#### Kieltäminen
 
 Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
-**me no ren.**
-= Minä en ole henkilö.  
-**le no novi meze.**
+**ye no si shefe.**
+= Minä en ole pomo.  
+**ye no si nove meza.**
 = Tämä ei ole uusi pöytä.
 
-Sanaa **no** käytetään myös toisten sanojen kieltämiseen. Se vaikuttaa vain seuraavaan sanaan.
+Sanaa **no** käytetään myös toisten sanojen kieltämiseen.
+Se vaikuttaa aina vain seuraavaan sanaan.
 
-**me vida te.**
+**mi vide tu.**
 = Minä näen sinut.  
-**me no vida te.**
+**mi no vide tu.**
 = Minä en näe sinua.  
-**me vida no te a lole.**
+**mi vide no tu a yemon.**
 = Minä näen, en sinua, vaan heidät.
 
-Partikkelit **si** ja **no** vastaavat myös kysymyksiin.
+**mi ching tu safa la kamar.**
+– Minä pyydän sinua siivoamaan huoneen.  
+**mi no ching tu safa la kamar.**
+– Minä en pyydä sinua siivoamaan huonetta.  
+**mi ching tu no safa la kamar.**
+– Minä pyydän sinua olemaan siivoamatta huonetta.
 
-**eska te vida me?**
+
+Partikkelit **ya** ja **no** vastaavat myös kysymyksiin.
+
+**sual tu vide mi?**
 = Näetkö sinä minut?  
-**si. (me si vida te.)**
+**ya. (mi ya vide tu.)**
 = Kyllä. (Minä näen sinut.)  
-**no. (me no vida te.)**
+**no. (mi no vide tu.)**
 = En. (Minä en näe sinua.)
 
-Kieltomuotoisiin kysymyksiin vastattaessa **si** ja **no** koskevat verbiä eivätkö koko kysymyslausetta.
+Kieltomuotoisiin kysymyksiin vastattaessa **ya** ja **no** tarkoittavat verbiä eivätkä koko kysymyslausetta.
 
-**eska te no vida me?**
+**sual tu no vide mi?**
 = Etkö sinä näe minua  
-**si. (me si vida te.)**
+**si. (mi si vide tu.)**
 = Kyllä. (Minä kyllä näen sinut.)  
-**no. (me no vida te.)**
+**no. (mi no vide tu.)**
 = Ei. (Minä en näe sinua.)
 
 
@@ -370,84 +390,59 @@ Kieltomuotoisiin kysymyksiin vastattaessa **si** ja **no** koskevat verbiä eiv�
 
 
 
-### 9.2. Määrepartikkelit
+### Määrepartikkelit
 
-Panduniassa on kaksi määrepartikkelia, **yu** ja **ya**. Ne eroavat toisistaan vain sanajärjestyksen osalta. Merkitykseltään ne ovat samoja.
+Panduniassa on kaksi määrepartikkelia, **di** ja **da**.
+Ne eroavat toisistaan vain sanajärjestyksen osalta.
+Merkitykseltään ne ovat samoja.
 
-Määrepartikkeleilla ilmaistaan mm. omistusta. Sanaa **yu** käytetään siten, että ensin on määrite, keskimmäisenä **yu** ja viimeisenä pääsana. Sanaa **ya** käytetään päinvastaisessa järjestyksessä: ensin on pääsana, keskimmäisenä **ya** ja viimeisenä määrite. Määrepartikkeli muuttaa minkä tahansa sanan tai lausekkeen määreeksi. Siten myös asiansanoista ja teonsanoista voi tehdä määreitä.
+#### Substantiivilausekke määritteenä
 
-#### 9.2.1. Omistus
-
-Määrepartikkeleita käytetään omistuksen ilmaisemisessa.
-
-**yu** vastaa suomen genetiivimuotoa.
-
-**maria da mame**
-= Marian äiti  
-**me da dome**
-= minun talo  
-**me da pape da dome**
-= minun isän talo
-
-**ya** on sama mutta käänteisessä sanajärjestyksessä.
-
-**mame du maria**
-= äiti Marian  
-**dome du me**
-= talo minun  
-**dome du pape du me**
-= talo isän minun
-
-
-#### 9.2.2. Adjektiivimääreet
-
-Määrepartikkeleilla muodostetaan myös adjektiivimääreitä, jotka kuvailevat pääsanaansa. Partikkeli näyttää, kummassa päässä pääsana sijaitsee.
-
-Normaalisti adjektiivi on substantiivia ennen, mutta se voi olla substantiivin jälkeen partikkelin **ya** avulla.
-
-**novi dome**
-= uusi talo  
-**dome du novi**
-= talo uusi
 
 Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartikkeleita.
 
-**roze rang da labe**
-= ruusun väriset huulet  
-**saman rang da yen**
-= taivaan väriset silmät
+**rode rang di labi**
+– ruusun väriset huulet  
+**sama rang di yen**
+– taivaan väriset silmät
 
 Tai käänteisessä järjestyksessä:
 
-**labe du roze rang**
-= huulet ruusun väriset  
-**yen du saman rang**
-= silmät taivaan siniset
-
-#### 9.2.3. Määrelause
-
-Määrepartikkelien avulla kokonaisista lauseista voi tehdä määreitä.
-
-Siinä tapauksessa **ya** vastaa suomen relatiivipronominia _joka_.
-
-**le si man _ya me vida_.**
-= Hän on mies, _jonka minä näin_.
-
-Käänteisen järjestys muistuttaa suomen kielessä yleistä rakennetta.
-
-**le si _me vida yu_ man.**
-= Hän on minun näkemä mies.
-
-Jos määrelauseessa on kohde mutta ei tekijää, päälauseen asiansana toimii määrelauseen tekijänä.
-
-**me vida man _ya niama aple_.**
-= Minä näen miehen, _joka syö omenoita_.  
-**me vida _aple nyamu yu_ man.**
-= Minä näen _omenia syövän_ miehen.
+**labi da rode rang**
+– huulet ruusun väriset  
+**yen da sama rang**
+– silmät taivaan siniset
 
 
 
-### 9.3. Tavan partikkelit
+#### Omistus
+
+Omistusta ilmaistaan omistusparikkelilla
+**su**,
+joka vastaa suomen genetiivisijaa.
+
+**Maria su mama**
+– Marian äiti  
+**Maria su mama su dom**
+– Marian äidin talo
+
+Samaa partikkelia käytetään myös pronominien kanssa.
+
+**mi su dom**
+– minun taloni  
+**tu su dom**
+– sinun talosi  
+**ye su dom**
+– hänen talonsa  
+**mimon su dom**
+– meidän talomme  
+**tumon su dom**
+– teidän talonne  
+**yemon su dom**
+– heidän talonsa
+
+
+### Tavan partikkelit
 
 Tavan partikkeleilla puhuja voi ilmaista, miten hän suhtautuu sanomaansa asiaan. Monissa kielissä on jonkinlaisia tavan partikkeleita. Suomen kielessä sellaisia ovat sanat _vain, kai_ ja _toki_.
 
@@ -455,13 +450,13 @@ Panduniassa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lausee
 
 Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 
-**le niama bir plus.**
+**ye yam bir plus.**
 = Hän juo olutta, myös.  
-**le niama plus bir.**
+**ye yam plus bir.**
 = Hän juo _myös olutta_.  
-**le plus niama bir.**
+**ye plus yam bir.**
 = Hän _myös juo_ olutta.  
-**plus le niama bir.**
+**plus ye yam bir.**
 = _Myös hän_ juo olutta.
 
 Partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät voi määrittää esimerkiksi lukusanoja.

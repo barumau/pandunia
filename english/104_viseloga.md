@@ -158,7 +158,7 @@ Also adjectives are questioned with **ke**.
 **ke lili?**
 – How small?
 
-**tu tena ke dai di mau?**
+**tu ten ke dai di mau?**
 – How big a cat do you have?
 
 
