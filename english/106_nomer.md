@@ -232,3 +232,18 @@ but this time the word
 12. **mes des du**
   – December
 
+#### Telling time
+
+Time can be told with the word
+**hor**
+('hour').
+The 24 hour clock is the standard.
+
+**hor des du**
+– twelve o'clock  
+**hor des du e tri des**
+– twelve thirty, half past twelve  
+**hor du des**
+– eight PM
+**hor du des e des lima**
+– quarter past eight PM

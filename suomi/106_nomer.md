@@ -228,3 +228,18 @@ mutta tällä kertaa käytetään apuna sanaa
 12. **mes des du**
   – joulukuu
 
+#### Kellonajat
+
+Kellonaika ilmaistaan sanalla
+**hor**
+('tunti').
+Panduniassa normina on 24-tuntinen kellonaika.
+
+**hor des du**
+– kello kaksitoista  
+**hor des du e tri des**
+– 12.30 eli puoli yksi
+**hor du des**
+– kello 20 eli kello kahdeksan illalla
+**hor du des e des lima**
+– 20.15 eli vartin yli kahdeksan illalla
