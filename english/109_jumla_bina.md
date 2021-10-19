@@ -355,13 +355,18 @@ The demonstrative **go** points to the following phrase, and **ni** points to th
 
 ### Basic conjunctions
 
-1. **e**
-   and (connects two similar words or phrases)
-2. **o**
-   or (connects two alternative words or phrases)
-3. **a**
-   but (introduces a word or phrase that contrasts with or
-   contradicts the preceding word or phrase)
+**e**
+– and (connects two similar words or phrases)  
+**o**
+– or (connects two alternative words or phrases)  
+**a**
+– but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)  
+**ki**
+– that (introduces a clause which is the subject or object of a verb, is reported speech, or which is a complement to a previous statement)  
+**do ki**
+– so that, in order that, with the result that  
+**ze ki**
+– because, for the reason that
 
 **mi suka mau e vaf.**
 – I like cats and dogs.  
