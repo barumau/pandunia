@@ -204,6 +204,8 @@ Pidiendo
 
 ### Diálogo
 
+![](http://www.pandunia.info/grafe/laupapa.png "chin pa e bacha")
+
 <big>☻</big>>
 **halo!**
 = ¡Hola!  
@@ -355,6 +357,8 @@ Preguntas de Sí o No
 --------------------
 
 ### Diálogo
+
+![](http://www.pandunia.info/grafe/kafekan.png "na kafe kan")  
 
 <big>☺</big>
 **salam! sual tu yam yo kafe o chai?**

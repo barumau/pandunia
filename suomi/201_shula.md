@@ -5,7 +5,7 @@
 ### Keskustelu
 
 ![](http://www.pandunia.info/grafe/halo.png "halo!")  
-<small>Image designed by [Freepik](http://www.freepik.com)</small>
+<small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 <big>☺</big>
 **halo!**
@@ -236,9 +236,12 @@ pomo, päällikkö
 
 ### Keskustelu
 
+![](http://www.pandunia.info/grafe/laupapa.png "chin pa e bacha")  
+<small>Kuva: [macrovector](https://www.freepik.com/macrovector)</small>
+
 <big>☻</big>
-**halo!**
-= Hei!  
+**halo, chin pa!**
+= Hei, isoisä!  
 <big>☺</big>
 **halo! ching side.**
 = Hei! Istu, ole hyvä!  
@@ -246,15 +249,18 @@ pomo, päällikkö
 **shukur.**
 = Kiitos.  
 <big>☺</big>
-**ching yam kafe o chai.**
+**ching yam yo kafe o chai.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
-**mi vol chai. shukur.**
-= Minä juon teetä. Kiitos.  
+**a mi yam un di chai! shukur.**
+= Mutta minähän juon vain teetä! Kiitos.  
 ...  
+<big>☻</big>
+**chin pa, mi mus ga na zai.**
+= Isoisä, Minun täytyy lähteä nyt.  
 <big>☺</big>
 **ching salam tu su mama!**
-= Kerropa terveisiä äidillesi!  
+= Kerro terveisiä äidillesi!  
 <big>☻</big>
 **mi salam ye. salam reste!**
 = Min kerron. Hei hei!  
@@ -395,6 +401,9 @@ syödä tai juoda
 ## "Kyllä vai ei" -kysymykset
 
 ### Keskustelu
+
+![](http://www.pandunia.info/grafe/kafekan.png "na kafe kan")  
+<small>Kuva: [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
 **salam! sual tu yam kafe o chai?**

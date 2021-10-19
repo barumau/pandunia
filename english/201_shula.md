@@ -252,9 +252,12 @@ chief, boss
 
 ### Dialog
 
+![](http://www.pandunia.info/grafe/laupapa.png "chin pa e bacha")  
+<small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
+
 <big>☻</big>
-**halo!**
-= Hello!  
+**halo, chin pa!**
+= Hello, grandfather!  
 <big>☺</big>
 **halo! ching side.**
 = Hello! Please sit!  
@@ -265,12 +268,15 @@ chief, boss
 **ching yam yo kafe o chai.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**mi vol chai. shukur.**
-= I will have some tea, thank you.  
+**a mi yam un di chai! shukur.**
+= But I drink only tea! Thank you.  
 ...  
+<big>☻</big>
+**chin pa, mi mus ga na zai.**
+= Grandfather, I have to go now.  
 <big>☺</big>
-**ching salam tu su mama!**
-= Please tell greetings to your mother.  
+**bon. ching salam tu su mama!**
+= OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi salam ye. salam reste!**
 = I will. Bye!  
@@ -379,18 +385,24 @@ Try translating these sentences from English to Pandunia.
 to order, to command  
 **chai**
 tea  
+**chin pa**
+grandfather  
 **ching**
 to ask; please  
 **don**
 to give  
 **e**
 and  
+**ga**
+to go  
 **kafe**
 coffee  
 **kamar**
 room  
 **la**
 the  
+**mus**
+must, have to  
 **o**
 or  
 **safa**
@@ -399,6 +411,8 @@ to clean
 thanks  
 **side**
 to sit  
+**un di**
+only  
 **yam**
 to eat or drink  
 **yo**
@@ -420,6 +434,9 @@ some, a(n)
 ## Yes or no questions
 
 ### Dialog
+
+![](http://www.pandunia.info/grafe/kafekan.png "na kafe kan")  
+<small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
 **salam! sual tu yam kafe o chai?**
