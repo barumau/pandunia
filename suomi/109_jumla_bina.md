@@ -302,11 +302,11 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 ## Konjunktiot
 
 **e**
-– ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)
+– ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)  
 **o**
-– tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)
+– tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)  
 **a**
-– mutta (esittelee sanan tai lausekkeen, joka on edellä sanotun vastainen)
+– mutta (esittelee sanan tai lausekkeen, joka on edellä sanotun vastainen)  
 **ki**
 – että (esittelee lausekkeen joka on verbin subjektina tai objektina tai on lainattua puhetta)  
 **do ki**
