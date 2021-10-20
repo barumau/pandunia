@@ -1403,7 +1403,7 @@ túlio - tule yum
 ####U - U  
 uau - vah  
 um (1) - un  
-um ao outro - se kon  
+um ao outro - semon  
 uma vez - un mar  
 universal - un verse di  
 união - un ta liga  

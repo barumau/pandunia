@@ -1597,9 +1597,6 @@ sauna - saŭno
 saur - lacerto  
 saya - ombro  
 se - si  
-se kon - unu la alian (reciproke)  
-se kon - unu la alian  
-se kon su - reciproka  
 sekse - sekso  
 seku - ŝtono  
 selen yum - seleno  
@@ -1607,6 +1604,8 @@ selu - ĉelo
 selu logi - citologio  
 seme - semo  
 seme di - sema  
+semon - unu la alian  
+semon su - reciproka  
 sene - aĝo  
 seng - venko  
 sense - sentumo  
@@ -1815,8 +1814,8 @@ un - unu (1)
 un di - sola (nur)  
 un mar - unufoje  
 un she sim - monismo  
-un yen di lense - monoklo  
 un ta liga - uniono  
+un yen di lense - monoklo  
 uran yum - uranio  
 uze - uzi  
 ####V - V  
@@ -1913,9 +1912,9 @@ yuterbi yum - iterbio
 ####Z - Z  
 zai den - hodiaŭ  
 zai di - ĉeestanta (ekzistanta)  
+zai ta - ĉeestanteco (ekzisto)  
 zai zaman - nuno  
 zai zaman di - nuna  
-zai ta - ĉeestanteco (ekzisto)  
 zaitun - olivo  
 zaman - tempo  
 Zambia - Zambio  

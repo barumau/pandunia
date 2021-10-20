@@ -851,7 +851,6 @@
 |**sauna**|saŭno|fin:deu:angla:franca:portugala:hispana:malaja:turka:sauna, rusa:сауна (sauna), mandarena:桑拿 (sāngná), japana:サウナ (sauna), korea:사우나 (sauna), hindia:सॉना (sonā), persa:urdua:(sonā), taja:ซาวน่า (saona)|
 |**saur**|lacerto|greka:σαύρα (saura), angla:-saur, franca:-saure, hispana:-saurio, portugala:-sauro, rusa:-завр (-zavr), hindia:bengala: malaja:-saur(us) + hin:सरट (saraṭ)|
 |**saya**|ombro|persa:(sāye), urdua:(sāyā), hindia:साया (sāyā), छाया (chāyā), bengala:ছায়া (chaya), taja:ฉายา (chāyā)|
-|**se kon**|unu la alian (reciproke)|angla:one another, itala:l’una, l’altra, franca: l'un l'autre, hispana:el uno al otro, portugala:um ao outro, turka:birbirine, mandarena:彼此 (bǐcǐ)|
 |**sekse**|sekso|angla:sex, franca:sexe, hispana:portugala:sexo, rusa:секс (seks), turka:seks, hindia:सेक्स (seks), japana:セックス (sekkusu), korea:섹스 (sekseu)|
 |**seku**|ŝtono|mandarena: 石 (shí), kantona:石 (sek3), japana:石 (seki), korea:석 (seok)|
 |**selen yum**|seleno|angla:selenium, franca:sélénium, hispana:selenio, portugala:selénio, rusa:селен, mandarena:硒 (xī), japana:セレン, korea:셀렌, vjetnama:selen, hindia:सेलेनियम, bengala:সেলেনিয়াম, malaja:selenium, svahila:seleni, araba: سيلينيوم|

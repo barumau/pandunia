@@ -542,8 +542,8 @@ guai - странный
 gubu - гиппопотам  
 gui papi - мак восточный  
 guku hua - хризантема садовая  
-gule - гуль (вурдалак)  
 gul - глотать  
+gule - гуль (вурдалак)  
 gun - армия  
 gun jen - солдат  
 gun raja - генералиссимус  
@@ -1300,7 +1300,6 @@ sata di - моментальный (минутный)
 Saturne - Сатурн  
 saur - ящерица  
 se - себя (-ся)  
-se kon - друг друга  
 sekse logi - сексология  
 seku - камень (камешек)  
 sel - совет  
@@ -1310,6 +1309,7 @@ selu logi - цитология
 seme - семя  
 seme di - семенной  
 semente - цемент  
+semon - друг друга  
 sene - возраст  
 sense - чувство  
 sense shaka - щупальце  
@@ -1496,10 +1496,10 @@ uma bichi - хлыст
 un - один (1)  
 un di - только (единственно, единственный, уникальный)  
 un mar - один раз  
-un yen di lense - монокль  
-un zai di - одинокий (единичный)  
 un ta - единица  
 un ta liga - союз  
+un yen di lense - монокль  
+un zai di - одинокий (единичный)  
 ura - ура  
 Uran - Уран  
 uran yum - уран  

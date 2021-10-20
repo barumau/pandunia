@@ -518,8 +518,8 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**gubu**|ful:ngabu kon:ngubu, sot:tsw:kubu, zul:rwa:imvubu, amh:ጉማሬ (gumare)|
 |**gui**|zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|
 |**guku hua**|zho:菊 (jú), yue:菊 (guk1), jpn:キク (kiku), kor:국화 (gukhwa), vie:cúc đại đóa, tha:เก๊กฮวย (gék-huai), may:kekwa, ara:قحوان (quḥwān)|
-|**gule**|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
 |**gul**|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
+|**gule**|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
 |**guma**|swa:ngoma + zho:鼓 (gǔ)|
 |**gun**|zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|
 |**guru**|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
@@ -1297,7 +1297,6 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**sauna**|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
 |**saur**|ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)|
 |**saya**|fas:(sāye), urd:(sāyā), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
-|**se kon**|eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|
 |**sekse**|eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|
 |**seku**|zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)|
 |**sekunde**|eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)|

@@ -1224,7 +1224,6 @@ sata di - momentâneo
 Saturne - Saturno  
 saur - lagarto  
 se - se  
-se kon - um ao outro  
 sekse logi - sexologia  
 seku - pedra  
 sekur - seguro  
@@ -1233,6 +1232,7 @@ selen yum - selénio
 selu logi - citologia  
 seme - semente  
 seme di - seminal  
+semon - um ao outro  
 sene - idade  
 sene di - idoso (sene)  
 sense - sentido  
@@ -1384,10 +1384,10 @@ uma bichi - chibata
 un - um (1)  
 un di - único (só)  
 un mar - uma vez  
+un ta liga - união  
 un verse di - universal  
 un yen di lense - monóculo  
 un zai di - só (solitário)  
-un ta liga - união  
 ura - urra  
 Uran - Urano  
 uran yum - urânio  

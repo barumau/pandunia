@@ -71,8 +71,8 @@ amir ja - émir
 amir lin - ligne de commande (console, terminal, invite de commande)  
 amper - ampère  
 ampul - ampoule (fiole)  
-an ama - exécrer  
 an air bio di - anaérobique  
+an ama - exécrer  
 an deu sim ja - athée  
 an din ja - infidèle (incroyant)  
 an memo - oublier  
@@ -1446,7 +1446,6 @@ sata di - momentané
 Saturne - Saturne  
 saur - lézard  
 se - se  
-se kon - l'un l'autre  
 se su - son (sa)  
 sekse logi - sexologie  
 seku - pierre  
@@ -1457,6 +1456,7 @@ selge - blettes (bettes)
 selu logi - cytologie  
 seme - semence  
 seme di - séminal  
+semon - l'un l'autre  
 sene - âge  
 sense - sens  
 sense shaka - tentacule  
@@ -1631,9 +1631,9 @@ uma bichi - cravache
 un - un (1)  
 un di - seul (unique)  
 un mar - une fois  
+un ta liga - union  
 un verse di - universel  
 un yen di lense - monocle  
-un ta liga - union  
 ura - hourra  
 Uran - Uranus  
 uran yum - uranium  

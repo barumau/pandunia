@@ -1266,7 +1266,6 @@
 |**sauna**|sauna|fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)|
 |**saur**|lizard|Greek:σαύρα (saura), English:-saur, French:-saure, Spanish:-saurio, Portuguese:-sauro, Russian:-завр (-zavr), Hindi:Bengali: Malay:-saur(us) + hin:सरट (saraṭ)|
 |**saya**|shadow|Persian:(sāye), Urdu:(sāyā), Hindi:साया (sāyā), छाया (chāyā), Bengali:ছায়া (chaya), Thai:ฉายา (chāyā)|
-|**se kon**|each other (one another, mutually)|English:one another, Italian:l’una, l’altra, French: l'un l'autre, Spanish:el uno al otro, Portuguese:um ao outro, Turkish:birbirine, Mandarin:彼此 (bǐcǐ)|
 |**sekse**|sex (sexual relation)|English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)|
 |**seku**|stone (piece of rock)|Mandarin: 石 (shí), Cantonese:石 (sek3), Japanese:石 (seki), Korean:석 (seok)|
 |**sekunde**|second(s)|English:second, Spanish:Portuguese:segundo, Russian:секунда (sekunda), Swahili:sekunde, Hindi:सैकण्ड (saikaṇḍ), Bengali:সেকেন্ড (śekenḍ)|

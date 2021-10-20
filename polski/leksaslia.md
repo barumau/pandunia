@@ -1199,7 +1199,6 @@
 |**sauna**|sauna|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
 |**saur**|jaszczurka|ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)|
 |**saya**|cień|fas:(sāye), urd:(sāyā), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
-|**se kon**|się (nawzajem, wzajemnie)|eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|
 |**sekse**|seks, stosunek płciowy|eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|
 |**seku**|kamień (kawał skały)|zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)|
 |**sekunde**|sekunda|eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)|

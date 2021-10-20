@@ -45,14 +45,14 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 **mimon vide se.**
 – We see ourselves.
 
-The expression **se kon** is used as the reciprocal pronoun.
+The expression **semon** is used as the reciprocal pronoun.
 
-**se kon**
+**semon**
 – each other, one another
 
-**mi e tu vide se kon.**
+**mi e tu vide semon.**
 – Me and you see each other.  
-**mimon vide se kon.**
+**mimon vide semon.**
 – We see each other.
 
 

@@ -107,8 +107,8 @@ amir ja - emiiri
 amir lin - komentorivi  
 amper - ampeeri  
 ampul - ampulli  
-an ama - inhota  
 an air bio di - anaerobinen  
+an ama - inhota  
 an chen vide di - ennennäkemätön  
 an daka - paljastaa  
 an deu sim ja - ateisti (jumalankieltäjä)  
@@ -1099,9 +1099,9 @@ fa sekur - suojella (suojata, turvata)
 fa sel - neuvoa  
 fa sense - aistia  
 fa sharti - vaatia (edellyttää)  
-fa shiti bai - hävitä (kärsiä tappio)  
 fa shipi - kosteuttaa  
 fa shite - paskantaa (ulostaa)  
+fa shiti bai - hävitä (kärsiä tappio)  
 fa shofer - ajaa (kuskata)  
 fa shopi - ostaa  
 fa shukur - kiittää  
@@ -1462,8 +1462,8 @@ grimas - irvistys
 grom - jyrinä (ukkonen)  
 grom tafun - ukkosmyrsky  
 gros - paksu  
-gros zi - lihavoitu kirjain  
 gros ta - paksuus  
+gros zi - lihavoitu kirjain  
 grupe - ryhmä  
 gua - luola  
 Guadelupe - Guadeloupe  
@@ -1478,8 +1478,8 @@ gubu - virtahepo
 gui - peikko  
 gui papi - idänunikko  
 gujarati - gujarati (eräs intialainen kieli)  
-gule - ghouli  
 gul - niellä  
+gule - ghouli  
 guma - rumpu  
 gun - armeija (sotajoukko)  
 gun jen - sotilas  
@@ -3125,9 +3125,6 @@ saur - lisko
 saya - varjo  
 se - itse  
 se di - itsekäs  
-se kon - toisiaan (keskenään)  
-se kon - toisiaan (toinen toistaan)  
-se kon su - molemminpuolinen (keskinäinen)  
 se su - oma (-nsa)  
 sekse - seksi (sukupuolisuhde)  
 sekse di - seksikäs  
@@ -3143,6 +3140,8 @@ seme - siemen
 seme dana - siemenjyvä  
 seme di - siemen-  
 semente - sementti  
+semon - toisiaan (toinen toistaan)  
+semon su - molemminpuolinen (keskinäinen)  
 sene - ikä  
 sene di - iäkäs  
 Senegal - Senegal  
@@ -3543,14 +3542,14 @@ un mar - kerran
 un me - ensimmäinen (numero yksi)  
 un rang di - yksivärinen  
 un she sim - monismi  
-un verse di - universaali  
-un yen di lense - monokkeli  
-un zai di - yksinäinen  
 un ta - ykseys  
 Un Ta Arabi Amir Desha (UAA) - Yhdistyneet Arabiemiirikunnat  
 Un Ta Desh Da Amerika (UDA) - Yhdysvallat (ns. Amerikka)  
 un ta di - yhtenäinen  
 un ta liga - liitto (unioni)  
+un verse di - universaali  
+un yen di lense - monokkeli  
+un zai di - yksinäinen  
 ura - hurraa (hurrata)  
 Uran - Uranus  
 uran yum - uraani  
@@ -3752,9 +3751,9 @@ zai - olla olemassa
 zai den - tänään  
 zai di - läsnä oleva  
 zai fa - manata esiin  
+zai ta - läsnäolo  
 zai zaman - tämä hetki (nyt)  
 zai zaman di - nykyinen (tämänhetkinen)  
-zai ta - läsnäolo  
 zaitun - oliivi  
 zalim - ilkeä (julma)  
 zalim raja - tyranni  

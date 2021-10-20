@@ -46,14 +46,14 @@ Sen omistusmuoto on **se su**.
 **ye vide se su muka na mira.**
 – Hän näkee kasvonsa peilissä.
 
-Sana **se kon** viittaa tekijöihin toisiinsa.
+Sana **semon** viittaa tekijöihin toisiinsa.
 
-**se kon**
+**semon**
 – toisiaan
 
-**mi e tu vide se kon.**
+**mi e tu vide semon.**
 – Sinä ja minä näemme toisemme.  
-**mimon vide se kon.**
+**mimon vide semon.**
 – Me näemme toisemme.
 
 

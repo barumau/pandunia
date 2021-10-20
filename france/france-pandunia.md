@@ -850,7 +850,7 @@ krypton - kriton
 kumquat - gingam  
 Kâmasûtra - kama kanon  
 ####L - L  
-l'un l'autre - se kon  
+l'un l'autre - semon  
 lac - lage  
 laid (vilain) - dus vide  
 laine - meme kesha  

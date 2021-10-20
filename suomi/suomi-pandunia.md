@@ -1896,7 +1896,7 @@ mitali - medal
 miten? - ke riti  
 mitta (koko, määrä) - metre  
 Moldova - Moldova  
-molemminpuolinen (keskinäinen) - se kon su  
+molemminpuolinen (keskinäinen) - semon su  
 molybdeeni - moliden  
 Monaco - Monako  
 monarkki (kuningas, kuningatar) - raja  
@@ -3263,8 +3263,7 @@ toimintahäiriö - dus funsi
 toimisto (konttori, byroo) - buro  
 toimittaja (journalisti, lehtimies) - gazeta ja  
 toimiva -   
-toisiaan (keskenään) - se kon  
-toisiaan (toinen toistaan) - se kon  
+toisiaan (toinen toistaan) - semon  
 toistaa - fa re  
 toisto - re  
 toivoa - asha  

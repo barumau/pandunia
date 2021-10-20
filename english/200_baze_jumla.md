@@ -194,8 +194,9 @@ She is a woman.
 **ye si aple.**
 It is an apple.
 
-**ye** is the general third person pronoun. It is used for people (irrespective
-of gender) as well as for things.
+**ye**
+is the general third person pronoun.
+It is used for people (irrespective of gender) as well as for things.
 
 **mi salam ye.**
 I greet him/her.
@@ -214,7 +215,7 @@ Are you a doctor?
 Tip: Yes/no questions frequently begin with **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu dava ja.**
+**mi sual tu dava ja**
 (I ask, you doctor?) by dropping out the first word.
 
 **sual tu bon?**
@@ -336,7 +337,7 @@ Who are they?
 Bengali: কী "ke".</small>
 
 
-### ni & go <small>this and that</small>
+### ni e go <small>this and that</small>
 
 **ni si ke?**
 What's this?
@@ -454,10 +455,10 @@ I know him/her/it.
 **sual tu sabe go jen?**
 Do you know that person?
 
-**sual tumon sabe se kon?**
+**sual tumon sabe semon?**
 Do you know each other?
 
-**mimon sabe se kon ze long.**
+**mimon sabe semon ze long.**
 We know each other for a long time.
 
 
@@ -500,9 +501,11 @@ Do you drink coffee?
 **ya. mi yam kafe.**
 Yes, I drink coffee.
 
-Tip: Meaning of **yam** covers both eating and drinking. It can feel odd at
-first but soon you will see that it is quite handy! Usually the object of the
-verb tells is it about eating, drinking or both.
+Tip: Meaning of
+**yam**
+covers both eating and drinking.
+It can feel odd at first but soon you will see that it is quite handy!
+Usually the object of the verb tells is it about eating, drinking or both.
 
 **mi yam kafe e pang.**
 I'm having coffee and bread.
@@ -653,7 +656,7 @@ What did you say?
 **mi loga do tu.**
 I talk to you.
 
-**mimon loga do se kon.**
+**mimon loga do semon.**
 We talk to each other.
 
 **mon loga "cat" na ke yang na pandunia?**
@@ -817,7 +820,9 @@ Where is he/she?
 **ye side na kamar.**
 He/she sits in the room.
 
-Tip! You can use **na** as a preposition or alone as the verb.
+Tip! You can use
+**na**
+as a preposition or alone as the verb.
 
 **mi gong na...**
 I work at ...

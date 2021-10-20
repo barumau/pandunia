@@ -2608,7 +2608,7 @@ siki - pisha
 silnik - moto  
 silny - lika di  
 Singapur - Singapur  
-się (nawzajem, wzajemnie) - se kon  
+się (nawzajem, wzajemnie) - semon  
 siła - lika  
 siła, autorytet, władza - sultan  
 siły powietrzne - air gun  
@@ -3286,7 +3286,7 @@ wysłać (wyemitować) - mise
 wytwórca łuków i strzał - fleche ja  
 wyć - ulul  
 wyświetlać - lanse grafi  
-wzajemny - se kon su  
+wzajemny - semon su  
 wzmacniać (wzmocnić) - dai darja  
 wzmacniać się (wzmagać, pogłębiać się) - be teza  
 wzmocnić (wzmocnić, wzmóc) - fa lika  

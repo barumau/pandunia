@@ -39,14 +39,14 @@ El pronombre reflexivo se usa cuando el objeto de una oración es la misma como 
 **mimon vide se.**
 – Nos miramos.
 
-La expresión **se kon** se usa cuando dos o más personas performan la acción el uno al otro.
+La expresión **semon** se usa cuando dos o más personas performan la acción el uno al otro.
 
-**se kon**
+**semon**
 – el uno al otro
 
-**mi e tu vide se kon.**
+**mi e tu vide semon.**
 – Yo y tú miramos el uno al otros.  
-**mimon vide se kon.**
+**mimon vide semon.**
 – Nos miramos.
 
 

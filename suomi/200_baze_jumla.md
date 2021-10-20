@@ -56,7 +56,7 @@ Hyvästi!
 **salam safar!**
 Hyvää matkaa!
 
-**salam son!**
+**salam sona!**
 Nuku hyvin!
 
 Vinkki! Kuten huomaat, **salam**
@@ -67,58 +67,59 @@ lähteitä: arabia: سَلَام‏ "salām", heprea: שָׁלוֹם‏ "šalom"
 indonesia: selamat.</small>
 
 
-### danke <small>kiitos</small>
+### shukur <small>kiitos</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**danke!**
+**shukur!**
 Kiitos!
 
-**multo danke!**
+**poli shukur!**
 Paljon kiitoksia!
 
-**ye, danke.**
+**ya, shukur.**
 Kyllä, kiitos.
 
-**no, danke.**
+**no, shukur.**
 Ei, kiitos.
 
-**danke tu.**
+**shukur tu.**
 Kiitos sinulle.
 
-**mi danke tu.**
+**mi shukur tu.**
 Minä kiitän sinua.
 
-**mi danke tu helpe mi.**
+**mi shukur tu mede mi.**
 Minä kiitän sinua minun auttamisesta.
 
-**danke tu helpe mi.**
+**shukur tu mede mi.**
 Kiitos kun autoit minua.
 
-**no yau danke.**
+**no yau shukur.**
 Ole hyvä. (Sanan mukaisesti: _Ei tarvitse kiittää._)
 
 
-### e <small>olla</small>
+### si <small>olla</small>
 
-**mi e Tomas.**
+**mi si Tomas.**
 Minä olen Tomas.
 
-**tu e Sara.**
+**tu si Sara.**
 Sinä olet Sara.
 
-**aple e frute.**
+**aple si frute.**
 Omena on hedelmä.
 
+<small>Sanan **si** alkuperä on
+mandarinikiina 是 "shì",
+shanghainkiina 是 "sí".</small>
 
 ### mi <small>minä</small>
 
-<p style="font-size:5em;">🗨️🧑</p>
-
-**mi e Sara.**
+**mi si Sara.**
 Minä olen Sara.
 
-**mi e Tomas.**
+**mi si Tomas.**
 Minä olen Tomas.
 
 Voit esitellä itsesi helposti sanomalla vain **me**
@@ -133,7 +134,7 @@ Minä tervehdin isää.
 Sana **salam** on sekä substantiivi että verbi.
 Pandunian normaali sanajärjestys on subjekti–verbi–objekti.
 
-**Sara ye salam Tomas.**
+**Sara ya salam Tomas.**
 Sara tervehtii Tomasta.
 
 **salam mama!**
@@ -152,7 +153,7 @@ lähteitä: englanti: me, hindi: मैं (mẽĩ), espanja: me, suahili: mimi.
 
 <p style="font-size:4em;">🗣️👉👤</p>
 
-**tu e Tomas.**
+**tu si Tomas.**
 Sinä olet Tomas.
 
 **mi salam tu.**
@@ -161,33 +162,36 @@ Minä tervehdin sinua.
 **tu salam mi.**
 Sinä tervehdit minua.
 
-Pandunian sanat ovat taipumattomia. Niinpä esimerkiksi sana **me**
-pysyy koko ajan samana, oli se sitten tekijänä taikka teon kohteena.
+Pandunian sanat ovat taipumattomia.
+Niinpä esimerkiksi sana
+**mi**
+pysyy koko ajan samana,
+oli se sitten tekijänä taikka teon kohteena.
 
-**mi ai tu.**
+**mi ama tu.**
 Minä rakastan sinua.
 
 <small>Sanan **tu**
 lähteitä: venäjä: ты (ty), italia: tu, ranska: tu.</small>
 
 
-### ya <small>hän, se</small>
+### ye <small>hän, se</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**ya e man.**
+**ye si man.**
 Hän on mies.
 
-**ya e fem.**
+**ye si fem.**
 Hän on nainen.
 
-**ya e aple.**
+**ye si aple.**
 Se on omena.
 
-**ya**
+**ye**
 on yleispätevä kolmannen persoonan pronomini, jota käytetään ihmisistä, eläimistä, esineistä ja asioista.
 
-**mi salam ya.**
+**mi salam ye.**
 Minä tervehdin häntä.
 
 <small>Sanan **ya**
@@ -195,82 +199,67 @@ lähteitä: malaiji: ia, hindi: यह (yah).</small>
 
 
 
-### suala <small>kysyä</small>
+### sual <small>kysyä</small>
 
 <p style="font-size:5em">🤔❓</p>
 
-**suala tu e Tomas?**
+**sual tu si Tomas?**
 Oletko sinä Tomas?
 
-**suala tu e mediker?**
+**sual tu si dava ja?**
 Oletko lääkäri?
 
 Kyllä vai ei -kysymykset alkavat tavallisesti sanalla **suala**.
 Se on ihan tavallinen verbi eikä _kysymyspartikkeli_ kuten suomen -ko/-kö.
-Itse asiassa äskeinen kysymys on lyhennetty lauseesta **mi suala tu e mediker.**
+Itse asiassa äskeinen kysymys on lyhennetty lauseesta
+**mi sual tu dava ja**
 (Minä kysyn: sinä olet lääkäri?), joka on lyhennetty jättämällä ensimmäinen sana pois.
 
-**suala tu bon?**
+**sual tu bon?**
 Miten voit? (Sananmukaisesti: _Voitko hyvin?_)  
 **mi bon.**
 Minä voin hyvin.  
-**suala tu?**
+**sual tu?**
 Entä sinä?  
 **mi no bon.**
 Minä en voi hyvin.
 
-<small>Sanan **suala**
+<small>Sanan **sual**
 lähteitä ovat arabia سؤال (su'āl),
 hindi सवाल (savāl),
 malaiji _soal_,
 suahili _swali_.</small>
 
 
-### si <small>kyllä</small>
+### ya <small>kyllä</small>
 
-**suala tu e Tomas?**
+**sual tu si Tomas?**
 Oletko Tomas?
 
-**ye, mi e Tomas.**
+**ya, mi si Tomas.**
 Kyllä, olen Tomas.
 
-**suala ya e mediker?**
+**sual ye si dava ja?**
 Onko hän lääkäri?
 
-**ye, ya e mediker.**
+**ya, ye si dava ja.**
 Kyllä, hän on lääkäri.
-
-Sanalla **ye**
-vahvistetaan jokin asia todeksi. Silloin sen voi panna myös olla-verbin paikalle.
-
-**mi ye Tomas.**
-Minä kyllä olen Tomas.
-
-**tu ye Sara.**
-Sinä kyllä olet Sara.
-
-**aple ye frute.**
-Omena kyllä on hedelmä.
-
-<small>Sanan **ye**
-lähteitä: englanti: yeah.</small>
-
 
 
 ### no <small>ei</small>
 
-**mi no e Sara.**
+**mi no si Sara.**
 Minä en ole Sara.
 
-**mi no e mediker.**
+**mi no si dava ja.**
 Minä en ole lääkäri.
 
 **suala tu bon?**
 Voitko hyvin?  
-**ye. mi bon.**
+**ya. mi bon.**
 Kyllä, minä voin hyvin.
 
-**suala tu bon?**
+**sual tu bon?**
 Voitko hyvin?  
 **no, mi no bon.**
 Ei, minä en voi hyvin.
@@ -278,7 +267,7 @@ Ei, minä en voi hyvin.
 Sanalla **no**
 voi kiistää mitä tahansa. Sen paikka on kiistetyn sanan edellä.
 
-**ya no salam mi.**
+**ye no salam mi.**
 Hän ei tervehdi minua.
 
 <small>Sanan **no**
@@ -290,34 +279,34 @@ lähteitä: ukraina: espanja: no, englanti: no, ranska: non.</small>
 Yksikön persoonapronomineista saadaan monikot seuraavasti:
 **mi**
 (minä) →
-**mimen**
+**mimon**
 (me)  
 **tu**
 (sinä) →
-**tumen**
+**tumon**
 (te)  
 **ya**
 (hän, se) →
-**yamen**
+**yemon**
 (he, ne)
 
 
-**mimen salam tumen.**
+**mimon salam tumon.**
 Me tervehdimme teitä.
 
-**tumen salam yamen.**
+**tumon salam yemon.**
 Te tervehditte heitä.
 
-**yamen salam mimen!**
+**yemon salam mimon!**
 He tervehtivät meitä.
 
-**mimen e fem.**
+**mimon si fem.**
 Me olemme naisia.
 
-**tumen e man.**
+**tumon si man.**
 Te olette miehiä.
 
-**yamen e aple.**
+**yemon si aple.**
 Ne ovat omenoita.
 
 
@@ -327,109 +316,107 @@ Ne ovat omenoita.
 **ke?**
 Mitä?
 
-**tu e ke?**
+**tu si ke?**
 Kuka olet?
-**mi e Tomas.**
+**mi si Tomas.**
 Minä olen Tomas.
 
-**ya e ke?**
+**ye si ke?**
 Kuka hän on?
-**ya e Sara.**
+**ye si Sara.**
 Hän on Sara.
 
-**tumen e ke?**
+**tumon si ke?**
 Keitä te olette?
 
-**yamen e ke?**
+**yemon si ke?**
 Keitä he ovat?
 
 <small>Sanan **ke**
 lähteitä: espanja: qué, portugali: que, italia: che, bangla: কী "ki".</small>
 
 
-### ye e we <small>tämä ja tuo</small>
+### ni e go <small>tämä ja tuo</small>
 
-**ye ke? / ke ye?**
+**ni si ke?**
 Mikä tämä on?
 
-**ye apel.**
+**ni si aple.**
 Tämä on omena.
 
-**we ke? / ke we?**
+**go si ke?**
 Mikä tuo on?
 
-**we oranje.**
+**go si oranje.**
 Tuo on appelsiini.
 
-**ye kirmi apel.**
+**ni si rubi aple.**
 Tämä on punainen omena.
 
-**yi apel kirmi.**
+**ni aple si rubi.**
 Tämä omena on punainen.
 
-Huom! Kun adjektiivi, kuten **kirmi**, on ennen substantiivia, se toimii määreenä.
-Mutta kun adjektiivi on substantiivin perässä, se toimii ikään kuin verbinä.
-
-**ye kirmi.**
+**ni si rubi.**
 Tämä on punainen.
 
-
-Huom! Osoittavilla pronomineilla on kaksi muotoa: Muotoa **ye**
-käytetään yksinään, kun taas muotoa **yi** käytetään
-määrittämään perässä olevaa substantiivia.
-
-**lole sa ke?**
+**yemon na ke?**
 Missä he ovat?
 
-**lole sa we.**
+**yemon na ni.**
 He ovat tuolla.
 
-**mome sa ye.**
+**yemon na go.**
 Me olemme täällä.
 
 
-### di <small>-n (genetiivipartikkeli)</small>
+### su <small>-n (genetiivipartikkeli)</small>
 
-**ye e ke?**
+**ni si ke?**
 Mikä tämä on?
 
-**ya e mi di telfon.**
+**ye si mi su telefon.**
 Se on minun puhelin.
 
-**ye e ke di?**
+**ni si ke su?**
 Kenen tämä on?
 
-**ya e mi di.**
+**ye si mi su.**
 Se on minun.
 
-Genetiivipartikkeli **di** ilmaisee omistusta. Se on omistavan ja omistetun sanan välissä.
-Joten **mi di** tarkoittaa "minun", **tu di** tarkoittaa "sinun" jne.
+Genetiivipartikkeli
+**su**
+ilmaisee omistusta.
+Se on omistavan ja omistetun sanan välissä. Joten
+**mi su**
+tarkoittaa "minun",
+**tu su**
+tarkoittaa "sinun" jne.
 
-**ya e ke?**
+**ye si ke?**
 Kuka hän on?
 
-**ya e mi di doste.**
+**ye si mi su dosti.**
 Hän on minun ystävä.
 
-**mi e Sara di doste.**
+**mi si Sara su dosti.**
 Minä olen Saran ystävä.
 
-<small>Sanan **du**
-lähteitä: yleiskiina: 的 (de).</small>
+<small>Sanan **su**
+lähteitä: englanti _'s_, afrikaans _se_, espanja _su_.</small>
 
 
 ### nam <small>nimi</small>
 
-**tu di nam e ke?**
+**tu su nam si ke?**
 Mikä sinun nimesi on?
 
-**mi di nam e Tomas.**
+**mi su nam si Tomas.**
 Minun nimeni on Tomas.
 
-**ya di nam e ke?**
+**ye su nam si ke?**
 Mikä hänen nimensä on?
 
-**ya di nam e Sara.**
+**ye su nam si Sara.**
 Hänen nimensä on Sara.
 
 <small>Sanan **name**
@@ -441,52 +428,52 @@ saksa: Name, englanti: name.</small>
 
 
 
-### tena <small>olla, omistaa</small>
+### ten <small>olla, omistaa</small>
 
-**mi tena un bon dom.**
+**mi ten un bon dom.**
 Minulla on hyvä talo.
 
-**ya no tena pesa.**
+**ye no ten pesa.**
 Hänellä ei ole rahaa.
 
-**mi vol tena un nove telefon.**
+**mi vol ten un nove telefon.**
 Minä haluan saada uuden puhelimen.
 
-**suala tu tena ben?**
+**sual tu ten yo ben?**
 Onko sinulla lapsia?
-**me tena dul bache.**
+**mi ten du ben.**
 Minulla on kaksi lasta.
 
 
 
-### sabi <small>tietää, tuntea</small>
+### sabe <small>tietää, tuntea</small>
 
-**mi sabi ya.**
+**mi sabe ye.**
 Minä tunnen hänet.
 
-**suala tu sabi vi jan?**
+**sual tu sabe go jen?**
 Tunnetko tuon henkilön?
 
-**suala tumen sabi semen?**
+**sual tumon sabe semon?**
 Tunnetteko toisenne?
 
-**mimen sabi semen ze long.**
+**mimon sabe semon ze long.**
 Tunnemme toisemme jo vanhastaan.
 
 
 
-### helpe <small>auttaa</small>
+### mede <small>auttaa</small>
 
-**mi yau helpe.**
+**mi yau yo mede.**
 Minä tarvitsen apua.
 
-**suala tu abla helpe mi?**
+**sual tu bil mede mi?**
 Voitko auttaa minua?
 
-**suala mi abla helpe tu?**
+**sual mi bil mede tu?**
 Voinko auttaa sinua?
 
-**mi vol helpe tu.**
+**mi vol mede tu.**
 Haluan auttaa sinua.
 
 
@@ -495,25 +482,28 @@ Haluan auttaa sinua.
 
 ### yam <small>nauttia, syödä, juoda</small>
 
-**suala tu vol yam yo?**
+**sual tu vol yam yo?**
 Haluaisitko syödä jotakin?
 
-**ya yam un aple.**
+**ye yam un aple.**
 Hän syö omenaa.
 
-**yamen yam ba aple.**
+**yemon yam ba aple.**
 He syövät omenoita.
 
-Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle. Siksi esimerkiksi sana **aple**
+Huom! Panduniassa ei ole erillisiä sanoja yksikölle ja monikolle.
+Siksi esimerkiksi sana
+**aple**
 voi tarkoittaa yhtä tai useampaa omenaa.
 
-**suala tu yam kafe?**
+**sual tu yam kafe?**
 Juotko kahvia?
 
-**ye. mi yam kafe.**
+**ya. mi yam kafe.**
 Minä juon kahvia.
 
-Vinkki: Sana **yam**
+Vinkki: Sana
+**yam**
 sisältää sekä syömisen että juomisen.
 Aluksi se saattaa tuntua oudolta, mutta oikeastaan se on kätevää,
 koska yleensä tekemisen kohde tarkentaa, onko kyse syömisestä, juomisesta vai molemmista.
@@ -525,7 +515,7 @@ Minä nautin kahvia ja leipää.
 
 ### vol <small>haluta</small>
 
-**suala tu vol yam?**
+**sual tu vol yam?**
 Haluaisitko syödä?
 
 **tu vol yam ke?**
@@ -537,14 +527,14 @@ on samalla paikalla kuin normaalissakin lauseessa.
 **mi vol yam kafe.**
 Minä haluan juoda kahvia.
 
-**suala tu vol yam chai?**
+**sual tu vol yam chai?**
 Haluaisitko juoda teetä.
 **no. mi no vol chai. mi vol kafe.**
 Ei, minä en halua teetä. Minä haluan kahvia.
 
 **tu vol ke aple?**
 Minkä omenan haluat?
-**yi kirmi.**
+**ni rubi.**
 Tuon punaisen.
 
 
@@ -557,7 +547,7 @@ Minä pyydän sinua juomaan teetä.
 **mi ching tu lai dom.**
 Minä pyydän sinua tulemaan kotiin.
 
-**mi ching tu helpe mi.**
+**mi ching tu mede mi.**
 Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
@@ -590,16 +580,16 @@ Menkäämme kotiin.
 
 ### yau <small>tarvita</small>
 
-**mi yau helpe.**
+**mi yau yo mede.**
 Tarvitsen apua.
 
 **mi yau yam.**
 Minulla on nälkä. (Tarvitsen ruokaa.)
 
-**suala tu yau yam?**
+**sual tu yau yam?**
 Onko sinulla nälkä?
 
-**suala tu yau sui?**
+**sual tu yau sui?**
 Onko sinulla jano?
 
 
@@ -612,10 +602,10 @@ Onko sinulla jano?
 **maf! mi no aha.**
 Anteeksi, minä en ymmärrä.
 
-**maf! ye e ke?**
+**maf! ni si ke?**
 Anteeksi, mikä tämä on?
 
-**maf. tu di nam e ke?**
+**maf. tu su nam si ke?**
 Anteeksi, mikä sinun nimi on?
 
 
@@ -639,30 +629,30 @@ En ymmärrä yhtään.
 
 
 
-### abla <small>osata</small>
+### bil <small>osata</small>
 
-**mi abla shofe gar.**
+**mi bil shofer un kar.**
 Osaan ajaa autolla.
 
-**ya no abla shofe gar.**
+**ye no bil shofer un kar.**
 Hän ei osaa ajaa autolla.
 
 **suala tu abla reibona ya?**
-Osaatko korjata sen?
+Do you know how to fix it?
 
-**suala tu abla pandunia?**
+**sual tu bil pandunia?**
 Osaatko panduniaa?
 
-**mi abla pandunia.**
+**mi bil pandunia.**
 Minä osaan panduniaa.
 
-**mi abla lilo pandunia.**
+**mi bil lili da pandunia.**
 Minä osaan vähän panduniaa.
 
-**mi no abla english.**
+**mi no bil english.**
 Minä en osaa englantia.
 
-**pardon. mi no abla tu di bax.**
+**maf. mi no bil tu su basha.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -675,13 +665,13 @@ Mitä sinä sanoit?
 **mi loga do tu.**
 Minä puhun sinulle.
 
-**mome loga pa unale.**
+**mimon loga do semon.**
 Me puhumme toisillemme.
 
-**men loga "kissa" a ke yang a pandunia?**
+**mon loga "kissa" na ke yang na pandunia?**
 Miten sanotaan "kissa" panduniaksi?
 
-**"kissa" e ke a pandunia?**
+**"kissa" si ke na pandunia?**
 Mikä "kissa" on panduniaksi?
 
 **mau loga miau.**
@@ -693,80 +683,80 @@ Kissa sanoo miau.
 **audi mi!**
 Kuuntele minua!
 
-**mi no abla audi tu.**
+**mi no bil audi tu.**
 En voi kuulla sinua.
 
-**ching loga forto.**
+**ching loga mas lika.**
 Puhuisitko kovempaa.
 
-**mi audi musike.**
+**mi audi muzika.**
 Minä kuuntelen musiikkia.
 
-**tu auda ke yang di musike?**
+**tu audi ke yang di muzika?**
 Minkälaista musiikkia sinä kuuntelet?
 
 
 
 ### vide <small>nähdä</small>
 
-**suku vide tu.**
+**suka vide tu.**
 Hauska nähdä sinua!
 
 **vide tu re!**
 Nähdään taas!
 
-**vide tu a pos den!**
+**vide tu na pos den!**
 Nähdään huomenna!
 
-**mi vide ya a chen den.**
+**mi vide ye na chen den.**
 Minä näin hänet eilen.
 
 
 
 ### mana <small>tarkoittaa</small>
 
-**yi loga mana ke?**
+**ni loga ya mana ke?**
 Mitä tämä sana tarkoittaa?
 
-**"mau" mana ke?**
+**"mau" ya mana ke?**
 Mitä "maw" tarkoittaa?
 
-**ya mana un yang da zou.**
+**ye mana un yang da zou.**
 Se tarkoittaa eräänlaista eläintä.
 
-**mi no aha ya mana ke.**
+**mi no aha ye mana ke.**
 Minä en ymmärrä mitä se tarkoittaa.
 
 
 
-### kitaba <small>kirjoittaa</small>
+### kitabu <small>kirjoittaa</small>
 
-**ching kitaba tu di adres.**
+**ching kitabu tu su adres.**
 Kirjoittaisitko osoitteesi.
 
-**ching kitaba ya a ye.**
+**ching kitabu ye na ni.**
 Kirjoittaisitko sen tähän!
 
 
 
 ### basha <small>puhua kieltä, kommunikoida</small>
 
-**suala tumen basha pandunia.**
+**sual tumon basha pandunia.**
 Puhutteko te panduniaa?
 
-**mimen basha pandunia.**
+**mimon basha pandunia.**
 Me osaamme puhua panduniaa.
 
-**suala tu abla basha english?**
+**sual tu bil basha english?**
 Osaatko puhua englantia?
 
-**france, espan, portugal, rus**
+**france, espanya, portugal, rus**
 Ranskaa, espanjaa, portugalia, venäjää
 
 **putong han, nipon, indonesia**
 Kiinaa, japania, indonesiaa
 
-**arabi, turke, farsi, urdu, hindi**
+**arabi, turki, farsi, urdu, hindi**
 Arabiaa, turkkia, persiaa, urdua, hindiä
 
 **suahili, hausa, yoruba, amari**
@@ -776,24 +766,24 @@ Swahilia, hausaa, jorubaa, amharaa
 
 ## Osa 4. Kulkeminen
 
-### gou <small>mennä</small>
+### ga <small>mennä</small>
 
-**tu gou ke?**
+**tu ga ke?**
 Minne sinä menet?
 
-**mi gou le dom.**
+**mi ga la dom.**
 Minä menen kotiin.
 
-**mi mus gou ke?**
+**mi mus ga ke?**
 Minne minun pitää mennä?
 
-**mi mus gou do ke jan?**
+**mi mus ga do ke jen?**
 Kenen luoksen minun pitää mennä?
 
-**haida gou!**
+**haida ga!**
 Menkäämme!
 
-**haida gou a fute**
+**haida ga na fute**
 Menkäämme jalan!
 
 
@@ -809,79 +799,75 @@ Mistä sinä tulet?
 **mi lai ze Dubai.**
 Minä tulen Dubaista.
 
-**mi lai dom a pos den.**
+**mi lai dom na pos den.**
 Minä tulen kotiin huomenna.
 
 
 ### safara <small>matkustaa</small>
 
-**suala tu safar a tren?**
+**sual tu safar na tren?**
 Matkustatko junalla?
 
-**mimen safar ze London do Paris.**
+**mimon safar ze London do Paris.**
 Me matkustamme Lontoosta Pariisiin.
 
-**safar multo long.**
+**safar tre long.**
 Matka on hyvin pitkä.
 
 
-### sa <small>luona, kanssa, -lla, -ssa</small>
+### na <small>luona, kanssa, -lla, -ssa</small>
 
-**hotel a ke?**
+**la hotel na ke?**
 Missä hotelli on?
 
-**hotel a vi dau.**
+**la hotel na go dau.**
 Hotelli on tuolla tiellä.
 
-**tu a ke?**
+**tu na ke?**
 Missä sinä olet?
 
-**mi a dom.**
+**mi na dom.**
 Olen kotona.
 
-**ya a ke?**
+**ye na ke?**
 Missä hän on?
 
-**ya side a kamar.**
+**ye side na kamar.**
 Hän istuu huoneessa.
 
-Panduniassa sanaa **sa**
+Panduniassa sanaa
+**na**
 voi käyttää yksinään ilman verbiä.
 
-**mi kara a...**
+**mi gong na...**
 Työskentelen ...lla.
 
 
 
-### doma <small>asua</small>
+### dom <small>asua</small>
 
-**tu doma ke?**
+**tu dom na ke?**
 Missä sinä asut?
 
-**mi doma Singapur.**
+**mi dom na Singapur.**
 Asun Singaporessa.
 
-**suala tu doma yi hotel?**
+**sual tu dom na ni hotel?**
 Astuko tässä hotellissa?
 
-On oikein sanoa "te doma sa ke?" lyhyemmän muodon "te doma ke" sijasta.
-Kuitenkin **doma** kattaa yksinäänkin jossakin olemisen,
-joten sanaa **sa** ei välttämättä tarvita.
 
+### dele <small>odottaa</small>
 
-
-### deng <small>odottaa</small>
-
-**ching deng!**
+**ching dele!**
 Odota!
 
-**deng mi!**
+**dele do mi!**
 Odota minua!
 
-**yamen deng mimen.**
+**yemon dele do mimon.**
 He odottavat meitä.
 
-**mi deng tu a hotel.**
+**mi dele do tu na hotel.**
 Minä odotan sinua hotellissa.
 
 
@@ -891,60 +877,60 @@ Minä odotan sinua hotellissa.
 
 ### zai <small>parhaillaan</small>
 
-**mi zai salam tu di doste.**  
+**mi zai salam tu su dosti.**  
 Minä olen tervehtimässä sinun ystävääsi.
 
-**man ye zai vide un filme.**  
+**la man ya zai vide un filme.**  
 Mies on katsomassa filmiä.
 
-**ya zai e shefe.**  
+**ye zai si shefe.**  
 Hän on päällikkö (parhaillaan).
 
-**ya zai a dom.**  
+**ye zai na dom.**  
 Hän on parhaillaan kotona.
 
 
 ### pas <small>ennen</small>
 
-**mi pas salam tu di doste.**  
+**mi pas salam tu su dosti.**  
 Minä tervehdin sinun ystävääsi.
 
-**man ye pas vide un filme fem.**  
+**la man ya pas vide un filme fem.**  
 Mies katsoi elokuvaa.
 
-**ya pas e shefe.**  
+**ye pas si shefe.**  
 Hän oli ennen päällikkö.
 
-**ya pas a dom.**  
+**ye pas na dom.**  
 Hän oli kotona.
 
 
-### leu <small>jo, valmiiksi</small>
+### le <small>jo, valmiiksi</small>
 
-**mi leu salam tu di doste.**  
+**mi le salam tu su dosti.**  
 Minä olen tervehtinyt ystävääsi.
 
-**man leu vide un filme.**  
+**la man le vide un filme.**  
 Mies on katsonut filmin.
 
-**ya leu e shefe.**  
+**ye le si shefe.**  
 Hän on ollut päällikkö.
 
-**ya leu a le dom.**  
+**ye le na la dom.**  
 Hän on ollut kotona.
 
 
-### wilo <small>myöhemmin, jatkossa</small>
+### sha <small>myöhemmin, jatkossa</small>
 
-**mi vil salam tu di doste.**  
+**mi sha salam tu su dosti.**  
 Minä tervehdin ystävääsi (jatkossa).
 
-**man vil vide le filme.**  
+**la man sha vide la filme.**  
 Mies tulee katsomaan filmin.
 
-**ya vil e shefe.**  
+**ye sha si shefe.**  
 Hän tulee olemaan päällikkö.
 
-**ya vil a dom.**  
+**ye sha na dom.**  
 Hän tulee olemaan kotona.
 

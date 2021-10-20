@@ -1101,8 +1101,7 @@ dysprosium - disprosi yum
 dystheism (maltheism) - dus deu sim  
 dystopia - dus topo  
 ####E - E  
-each other (one another) - se kon  
-each other (one another, mutually) - se kon  
+each other (one another, mutually) - semon  
 ear - ore  
 earlier (before, in the past) - chen  
 earn (gain) - ganya  
@@ -2381,7 +2380,7 @@ musketeer - muskete ja
 muskmelon - melon  
 muslim (moslem) - islam din ja  
 must (have to, should) - mus  
-mutual (each other’s) - se kon su  
+mutual (each other’s) - semon su  
 Mx. (Mr. or Ms.) - shi  
 my - mi su  
 Myanmar (Burma) - Myanma  

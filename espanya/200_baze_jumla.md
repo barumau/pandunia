@@ -409,10 +409,10 @@ Yo lo/a conozco a él/ella.
 **sual tu sabe go jen?**
 ¿Conoces esa persona?
 
-**sual tumon sabe se kon?**
+**sual tumon sabe semon?**
 ¿Ustedes se conocen (entre ustedes)?
 
-**mimon sabe se kon ze long.**
+**mimon sabe semon ze long.**
 Nosotros nos conocemos (entre nosotros) hace tiempo.
 
 
@@ -606,7 +606,7 @@ Lo siento. No puedo hablar tu idioma.
 **mi loga do tu.**
 Te hablé.
 
-**mimon loga do se kon.**
+**mimon loga do semon.**
 Hablamos entre nosotros.
 
 **mon loga «gato» na ke yang na pandunia?**

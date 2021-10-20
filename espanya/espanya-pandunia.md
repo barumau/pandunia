@@ -1170,8 +1170,8 @@ ejército - geo gun
 ejército - gun  
 el (la) - la  
 El Salvador - Salvador  
-el uno al otro (mutuamente) - se kon  
-el uno al otro (se) - se kon  
+el uno al otro (mutuamente) - semon  
+el uno al otro (se) -   
 elección - chuze  
 electricidad - eletro  
 electrón - eletron  
@@ -2346,7 +2346,7 @@ muro (muralha) - mur
 musgo - mos  
 musgoso - mos di  
 musulmán - islam din ja  
-mutuo (recíproco) - se kon su  
+mutuo (recíproco) - semon su  
 muy - tre  
 Myanmar (Birmania) - Myanma  
 máquina (dispositivo, aparato) - gi  

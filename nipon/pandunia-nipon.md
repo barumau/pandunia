@@ -355,8 +355,8 @@ fa poze - 植える
 fa ratibu - 揃える  
 fa re - 繰り返す  
 fa sam sifa - シミュレートする  
-fa shiti bai - 負ける  
 fa shipi - 濡らす  
+fa shiti bai - 負ける  
 fa shopi - 買う  
 fa shula - 学ぶ  
 fa sing foto - ピカピカ光る (きらきらする)  
@@ -1337,9 +1337,9 @@ tuzi - うさぎ
 umami - 旨味  
 un - 一 (1)  
 un di - だけ (唯一の)  
-un zai di - 一人の (寂しい, ポツリ)  
 un ta - 団結 (統一)  
 un ta liga - 連合 (接合)  
+un zai di - 一人の (寂しい, ポツリ)  
 uran yum - ウラン  
 uze bil di - 使用可能  
 ####V - V  

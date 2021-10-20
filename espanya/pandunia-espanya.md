@@ -78,8 +78,8 @@ amir ja - emir
 amir lin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
-an ama - detestar  
 an air bio di - anaeróbico  
+an ama - detestar  
 an daka - destapar  
 an deu sim ja - ateo  
 an din ja - infiel (descreído)  
@@ -968,9 +968,9 @@ fa sekur - proteger (asegurar, guardar)
 fa sel - aconsejar  
 fa sense - sentir (detectar)  
 fa sharti - espicificar (estipular)  
-fa shiti bai - perder (fallar)  
 fa shipi - mojar  
 fa shite - cagar  
+fa shiti bai - perder (fallar)  
 fa shofer - conducir  
 fa shopi - comprar  
 fa shukur - agradecer  
@@ -1305,8 +1305,8 @@ grimas - mueca
 grom - truenos (estruendo)  
 grom tafun - tormenta  
 gros - grueso  
-gros zi - letra negrita  
 gros ta - grosor  
+gros zi - letra negrita  
 grupe - grupo  
 gua - cueva (caverna)  
 Guadelupe - Guadalupe  
@@ -1320,8 +1320,8 @@ gubu - hipopótamo
 gui - ogro (gnomo, trol, duende, trasgo)  
 gujarati - gujaratí  
 guku hua - crisantemo  
-gule - gul  
 gul - tragar  
+gule - gul  
 guma - tambor  
 gun - ejército  
 gun jen - soldado  
@@ -3051,9 +3051,6 @@ sauna - sauna
 saur - lagarto  
 saya - sombra  
 se - se  
-se kon - el uno al otro (se)  
-se kon - el uno al otro (mutuamente)  
-se kon su - mutuo (recíproco)  
 se su - su (suyo)  
 sekse - sexo  
 sekse di - sexy (sexual)  
@@ -3074,6 +3071,8 @@ seme - semilla
 seme dana - pepita  
 seme di - seminal  
 semente - cemento  
+semon - el uno al otro (mutuamente)  
+semon su - mutuo (recíproco)  
 sene - edad  
 Senegal - Senegal  
 seng - victoria  
@@ -3488,14 +3487,14 @@ un mar - una vez
 un me - primero (numbre uno)  
 un rang di - monocromático  
 un she sim - monismo  
-un verse di - universal  
-un yen di lense - monóculo  
-un zai di - solo (aislado, solitary, soltero)  
 un ta - unidad (unión)  
 Un Ta Arabi Amir Desha (UAA) - Emiratos Árabes Unidos  
 Un Ta Desh Da Amerika (UDA) - Estados Unidos de América  
 un ta di - unido  
 un ta liga - unión  
+un verse di - universal  
+un yen di lense - monóculo  
+un zai di - solo (aislado, solitary, soltero)  
 ura - hurra  
 Uran - Urano  
 uran yum - uranio  
@@ -3682,9 +3681,9 @@ zai - existir (actualmente)
 zai den - hoy  
 zai di - actual (presente)  
 zai fa - generar (añadir, realizar)  
+zai ta - presencia (existencia)  
 zai zaman - presente (actualidad)  
 zai zaman di - actual  
-zai ta - presencia (existencia)  
 zaitun - aceituna  
 zalim - mezquino (antipático, cruel)  
 zalim raja - tirano (déspota)  
@@ -3730,6 +3729,7 @@ zuku di - étnico
 zuku medi di - interétnica  
 Zulu - zulú  
 zumarde - esmeralda  
+ - el uno al otro (se)  
  - sobrestimar  
  - nevar  
  - conocido  

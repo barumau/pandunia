@@ -931,9 +931,9 @@ fa sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
 fa sekur - chronić (ratować)  
 fa sense - czuć (poczuć, postrzegać, wykrywać)  
 fa sharti - wymagać, przewidywać  
-fa shiti bai - przegrać, przegrywać  
 fa shipi - moczyć (zmoczyć)  
 fa shite - srać (robić gówno)  
+fa shiti bai - przegrać, przegrywać  
 fa shofer - prowadzić pojazd  
 fa shopi - kupić  
 fa shukur - dziękować  
@@ -1243,8 +1243,8 @@ grimas - grymas
 grom - grom, huk  
 grom tafun - burza z piorunami  
 gros - gruby  
-gros zi - pogrubiona litera  
 gros ta - grubość  
+gros zi - pogrubiona litera  
 grupe - grupa  
 gua - jaskinia  
 Guadelupe - Gwadelupa  
@@ -1259,8 +1259,8 @@ gubu - hipopotam
 gui - ogr (trol, goblin)  
 gui papi - mak wschodni  
 gujarati - Gudżarat  
-gule - ghul  
 gul - połknąć (połykać)  
+gule - ghul  
 guma - bęben  
 gun - armia  
 gun jen - żołnierz  
@@ -2932,8 +2932,6 @@ sauna - sauna
 saur - jaszczurka  
 saya - cień  
 se - sam, siebie  
-se kon - się (nawzajem, wzajemnie)  
-se kon su - wzajemny  
 sekse - seks, stosunek płciowy  
 sekse di - seksowny, ponętny  
 sekse logi - seksuologia  
@@ -2952,6 +2950,8 @@ seme - ziarno (nasienie)
 seme dana - ziarno, nasienie  
 seme di - nasienny  
 semente - cement  
+semon - się (nawzajem, wzajemnie)  
+semon su - wzajemny  
 sene - wiek  
 Senegal - Senegal  
 seng - zwycięstwo, wygrana  
@@ -3525,9 +3525,9 @@ zai - istnieć
 zai den - dziś, dzisiaj  
 zai di - obecny, teraźniejszy, aktualny, bieżący, współczesny  
 zai fa - wzywać (wezwać, dodawać, dodać)  
+zai ta - teraźniejszość, współczesność  
 zai zaman - teraźniejszość, współczesność (teraz)  
 zai zaman di - bieżący (aktualny, obecny)  
-zai ta - teraźniejszość, współczesność  
 zaitun - oliwka  
 zalim - złośliwy, okrutny  
 zalim raja - tyran  

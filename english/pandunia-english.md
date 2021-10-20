@@ -107,8 +107,8 @@ amir ja - emir
 amir lin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
-an ama - dislike (loathe)  
 an air bio di - anaerobic  
+an ama - dislike (loathe)  
 an chen vide di - unexpected  
 an daka - uncover (reveal)  
 an deu sim ja - atheist  
@@ -1111,9 +1111,9 @@ fa sekur - protect (secure, save)
 fa sel - advise (recommend)  
 fa sense - sense (perceive, detect)  
 fa sharti - stipulate  
-fa shiti bai - lose (fail, miss, be defeated)  
 fa shipi - wet (dampen, moisten)  
 fa shite - defecate (shit)  
+fa shiti bai - lose (fail, miss, be defeated)  
 fa shofer - drive (steer)  
 fa shopi - buy (purchase)  
 fa shukur - thank  
@@ -1480,8 +1480,8 @@ grimas - grimace
 grom - thunder (roaring)  
 grom tafun - thunderstorm  
 gros - thick  
-gros zi - bold letter  
 gros ta - thickness  
+gros zi - bold letter  
 grupe - group  
 gua - cave  
 Guadelupe - Guadeloupe  
@@ -1497,8 +1497,8 @@ gui - ogre (troll, goblin)
 gui papi - oriental poppy  
 gujarati - Gujarati  
 guku hua - florist's chrysanthemum  
-gule - ghoul  
 gul - swallow  
+gule - ghoul  
 guma - drum  
 gun - army  
 gun jen - soldier  
@@ -3379,9 +3379,6 @@ saur - lizard
 saya - shadow  
 se - self (reflexive pronoun)  
 se di - selfish  
-se kon - each other (one another, mutually)  
-se kon - each other (one another)  
-se kon su - mutual (each other’s)  
 se su - own  
 sekse - sex (sexual relation)  
 sekse di - sexy (sexually arousing)  
@@ -3402,6 +3399,8 @@ seme - seed (semen)
 seme dana - seed (fertilized grain)  
 seme di - seminal  
 semente - cement  
+semon - each other (one another, mutually)  
+semon su - mutual (each other’s)  
 sene - age  
 sene di - aged  
 Senegal - Senegal  
@@ -3851,14 +3850,14 @@ un mar - once (one time)
 un me - first (number one)  
 un rang di - monochrome  
 un she sim - monism  
-un verse di - universal  
-un yen di lense - monocle  
-un zai di - alone (lonely, isolated, solitary, single)  
 un ta - unity  
 Un Ta Arabi Amir Desha (UAA) - United Arab Emirates  
 Un Ta Desh Da Amerika (UDA) - United States of America (USA)  
 un ta di - united  
 un ta liga - union  
+un verse di - universal  
+un yen di lense - monocle  
+un zai di - alone (lonely, isolated, solitary, single)  
 ura - cheer (hurrah, hooray)  
 Uran - Uranus  
 uran yum - uranium  
@@ -4068,9 +4067,9 @@ zai - exist (presently, currently)
 zai den - today  
 zai di - present (existing)  
 zai fa - summon (add, spawn, actualize)  
+zai ta - presence (existence)  
 zai zaman - present time (now)  
 zai zaman di - current (contemporary, present-day)  
-zai ta - presence (existence)  
 zaitun - olive  
 zalim - mean (cruel)  
 zalim raja - tyrant (despot)  

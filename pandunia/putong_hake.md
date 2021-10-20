@@ -11,7 +11,7 @@ sabu – un putong aha da ni haki e huru ta ten la masim ham ta gar ni vode bil 
 asar – PUTONG JAMA DA UN TA NASI ya komun ni PUTONG LOGA DA INSAN HAKI ka un putong norma da jin ta do pan demo e pan nasi, do ichi da pan un jen e pan un fen da sosi, dur da hema ni loga na pan sata, vil gung va shula do sim la onor da ni haki e huru ta e, na nasi di e nasi medi di jin sim di karma, fa sekur yemon su putong e funsi di note e sekur ta, na medi da nasi jen da membre desha e medi da jen da desha jo nicha yemon su krati.
 
 ## babu 1
-pan insan be jene va huru ta e par ta na onor e haki. yemon ten yo razon e budi. yemon mus be chuli se kon va ruhu da brus ta.
+pan insan be jene va huru ta e par ta na onor e haki. yemon ten yo razon e budi. yemon mus be chuli semon va ruhu da brus ta.
 
 ## babu 2
 pan insan ten la haki da pan haki e huru ta na in da ni loga, va hin da eni has ta da yang, do misal: rasa, rang da pil, jinse, basha, din, politi o alo rai, nasi o sosi asal, mal, jene, o alo hal. plus, mus no fa has na baze da politi di, sultan di, o medi nasi di hal da desha o area jo ten pan un insan, gar o no gar ye si auto nomi, vai nomi, o eni alo yang da krati.

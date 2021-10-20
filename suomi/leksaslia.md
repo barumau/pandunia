@@ -1209,7 +1209,6 @@
 |**sauna**|sauna|fin:deu:englanti:ranska:portugali:espanja:malaiji:turkki:sauna, venäjä:сауна (sauna), yleiskiina:桑拿 (sāngná), japani:サウナ (sauna), korea:사우나 (sauna), hindi:सॉना (sonā), persia:urdu:(sonā), thai:ซาวน่า (saona)|
 |**saur**|lisko|kreikka:σαύρα (saura), englanti:-saur, ranska:-saure, espanja:-saurio, portugali:-sauro, venäjä:-завр (-zavr), hindi:bangla: malaiji:-saur(us) + hin:सरट (saraṭ)|
 |**saya**|varjo|persia:(sāye), urdu:(sāyā), hindi:साया (sāyā), छाया (chāyā), bangla:ছায়া (chaya), thai:ฉายา (chāyā)|
-|**se kon**|toisiaan (keskenään)|englanti:one another, italia:l’una, l’altra, ranska: l'un l'autre, espanja:el uno al otro, portugali:um ao outro, turkki:birbirine, yleiskiina:彼此 (bǐcǐ)|
 |**sekse**|seksi (sukupuolisuhde)|englanti:sex, ranska:sexe, espanja:portugali:sexo, venäjä:секс (seks), turkki:seks, hindi:सेक्स (seks), japani:セックス (sekkusu), korea:섹스 (sekseu)|
 |**seku**|kivi (hippu)|yleiskiina: 石 (shí), kantoninkiina:石 (sek3), japani:石 (seki), korea:석 (seok)|
 |**sekunde**|sekunti|englanti:second, espanja:portugali:segundo, venäjä:секунда (sekunda), suahili:sekunde, hindi:सैकण्ड (saikaṇḍ), bangla:সেকেন্ড (śekenḍ)|

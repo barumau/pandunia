@@ -359,8 +359,8 @@ fa nomi - 组织
 fa pede - 放屁  
 fa ratibu - 整理  
 fa re - 重复  
-fa shiti bai - 输  
 fa shipi - 弄湿  
+fa shiti bai - 输  
 fa shofer - 开车  
 fa shopi - 买  
 fa shula - 学习  
@@ -1166,7 +1166,6 @@ sata - 时刻 (瞬间)
 Saturne - 土星  
 saur - 蜥蜴  
 se di - 自私  
-se kon - 彼此  
 sekse logi - 性学  
 seku - 石 (岩)  
 selen yum - 硒  
@@ -1174,6 +1173,7 @@ selu logi - 细胞学
 seme - 种  
 seme dana - 种子  
 seme di - 种子的  
+semon - 彼此  
 sene - 年岁  
 seng bai - 勝敗  
 sense - 感觉  
@@ -1335,9 +1335,9 @@ umami - 鲜味
 un - 一 (1)  
 un di - 只有 (惟独, 唯一, 独)  
 un mar - 一次 (一遍)  
-un zai di - 独自的 (孤单)  
 un ta - 团结 (统一)  
 un ta liga - 合并  
+un zai di - 独自的 (孤单)  
 ura - 好哇  
 uran yum - 铀  
 ####V - V  
