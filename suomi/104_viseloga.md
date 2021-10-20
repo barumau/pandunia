@@ -9,6 +9,7 @@
 | sinä        | te           |
 | **ye**      | **yemon**    |
 | hän         | he           |
+
 Persoonapronominien omistusmuodot muodostetaan partikkelilla
 **su**.
 
@@ -34,16 +35,16 @@ Persoonapronominit korvaavat kokonaisia lausekkeita.
 Refleksiivipronominia **ze** käytetään sellaisenaan kaikissa persoonissa.
 
 **mi vide se**
-– Minä näen itseni.
+– Minä näen itseni.  
 **ye vide se**
-– Hän näkee itsensä.
+– Hän näkee itsensä.  
 **mimon vide se.**
 – Me näemme itsemme.
 
 Sen omistusmuoto on **se su**.
 
 **ye vide se su muka na mira.**
-= Hän näkee kasvonsa peilissä.
+– Hän näkee kasvonsa peilissä.
 
 Sana **se kon** viittaa tekijöihin toisiinsa.
 

@@ -73,34 +73,41 @@ Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeen
 
 ### Aktiivilauseet
 
-Aktiivilauseissa predikaatin pääsana on verbi eli teonsana.
-A predicate can also be a verb. In this case, there may be objects as well as the subject.
-These come after the predicate.
+Aktiivilauseissa predikaatina on verbi eli teonsana.
 
 **mi marche.**
-– I walk.  
-**tu yam yo apel.**
-– You eat some apples.  
-**mimon dona ye yo pesa.**
-– We give her some money.
+– Minä kävelen.  
+**mi fikir.**
+– Minä ajattelen.
 
-Sometimes, the subjet of one sentence can become the object of another.
+Subjektin ja predikaatin lisäksi lauseessa voi olla myös objekti,
+joka on teon kohde.
+
+**mi fikir tu.**
+– Minä ajattelen sinua.  
+**tu yam yo apel.**
+– Sinä syös omenoita.  
+**mimon dona ye yo pesa.**
+– Me annamme hänelle rahaa.
+
+Toisinaan yhden lauseen subjekti voi olla toisessa lauseessa objekti,
+vaikka verbi pysyy samana.
 
 **la fuku ya gan.**
-– The clothes dry.  
+– Vaatteet kuivuvat.  
 **la sol ya gan la fuku.**
-– The sun dries the clothes.
+– Aurinko kuivaa vaatteita.
 
-To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
-**fa** indicates that the subject is the agent or doer of the action,
-and **be** indicates that the subject is the patient, or receiver.
+Apuverbejä **fa** ja **be** käytetään lauseenjäsenten roolien selkeyttämiseksi.
+**fa** tarkoittaa, että subjekti on tekijä,
+ja **be** tarkoittaa että subjekti on kokija tai tekemisen vastaanottaja.
 
 **mi fa salam mi su dosti.**
-– I greet my friend.  
+– Minä tervehdin ystävääni.  
 **mi be salam mi su dosti.**
-– I am greeted by my friend.  
+– Minua tervehtii minun ystäväni.  
 **pa fa mi salam mi su dosti.**
-– Father makes me greet my friend.
+– Isä panee minut tervehtimään ystävääni.
 
 
 ### Saranarakenne
@@ -182,116 +189,117 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 ## Kysymyslauseet
 
-### Kyllä–vai–ei-lauseet
+### Kyllä–vai–ei -kysymykset
 
-_Yes-no_ questions are questions that expect 'yes' or 'no' as answer.
-The easiest way to form a yes-no question in Pandunia is to simply attach the particle
+_Kyllä–vai–ei -kysymykset_ ovat kysymyksiä, joihin vastataan _kyllä_ tai _ei_.
+Panduniassa helpoin tapa muodostaa tällainen kymysys on liittää väitelauseen loppuun kysyvä partikkeli
 **he**
-('eh', 'huh') to the end of a statement.
+('häh').
 
 **tu yam un piza.**
-– You eat a pizza. (statement)  
+– Sinä syöt pitsaa. (väitelause)  
 **tu yam un piza, he?**
-– Do you eat a pizza? (question)
+– Syötkö sinä pitsaa? (kysymyslause)
 
-It is also possible to use
+Lauseen loppuun voi vaihtoehtoisesti liittää myös sanat
 **no**
-('no', 'not') or
+('ei') tai
 **ya**
-('yes') instead of
-**he**
-to suggest the expected answer.
+('kyllä')
+sen mukaan, kumpaa vastausta odotetaan.
 
 **tu yam un piza, no?**
-– You eat a pizza, don't you?  
+– Ethän sinä syö pitsaa?  
 **tu yam un piza, ya?**
-– You eat a pizza, right?
+– Sinä syöt pitsaa, eikö niin?
 
-The third way to ask a yes-no question is to contradict the verb
-with the _A-not-A_ structure.
+Kolmas tapa muodostaa kyllä–vai–ei -kysymys on ristiriitainen väitelause,
+jossa ikään kuin myönnetään ja kielletään tekeminen.
+Tämä on ns. _A-no-A_ -rakennne.
 
 **tu yam no yam un piza?**
-– Do you or don't you eat a pizza?  
+– Syötkö vai etkö syö pitsaa?  
 **tu bil no bil yam un piza?**
-– Can you or can't you eat a pizza?
+– Voitko vai etkö voi syödä pitsaa?
 
-Finally, you can emphasize the question by using **sual**.
+Viimeinen tapa on painottaa kysymistä käyttämällä verbiä **sual** ('kysyä').
 
 **mi sual, tu yam un piza?**
-– I ask do you eat a pizza?  
+– Minä kysyn, syötkö sinä pitsaa?  
 **sual tu yam un piza?**
-– Do you eat a pizza?
+– (Kysyn) syötkö sinä pitsaa?
 
-Yes-no questions are answered with
+Kyllä–vai–ei -kysymyksiin vastaan joko
 **ya**
-('yes') and
+('kyllä') tai
 **no**
-('no').
+('ei').
 
 **tu vide mi, he?**
-– Do you see me?  
+– Näetkö sinä minut?  
 **ya. (mi ya vide tu.)**
 – Yes. (I _do_ see you.)  
 **no. (mi no vide tu.)**
-– No. (I don't see you.)
+– En. (Minä en näe sinua.)
 
-Negative questions are answered so that
+Kieltomuotoisiin kysymyksiin vastattaessa
 **ya**
-and
+ja
 **no**
-apply to the verb, not the whole question.
+tarkoittavat verbiä eivätkä koko kysymyslausetta.
 
 **tu no vide mi, he?**
-– Don't you see me?  
-**ya. (mi vide tu.)**
-– Yes. (I see you.)  
+– Etkö sinä näe minua  
+**ya. (mi ya vide tu.)**
+– Kyllä. (Minä kyllä näen sinut.)  
 **no. (mi no vide tu.)**
-– No. (I don't see you.)
+– Ei. (Minä en näe sinua.)
 
 
-### Alternative questions
+### Vaihtoehtokysymykset
 
-Questions that offer alternatives end with the particle
+Kysymykset, joissa tarjotaan vaihtoehtoja, loppuvat partikkeliin
 **he**
-or start with the word
+tai alkavat verbillä
 **sual**
-to indicate that an answer is expected.
-The question is answered by repeating the chosen alternative.
+merkkinä siitä, että vastausta odotetaan.
+Kysymykseen vastataan toistamalla valittu vaihtoehto.
 
 **tu yam un o du banana.**
-– You eat one or two bananas. (statement)  
+– Sinä syöt yhden tai kaksi banaania. (väitelause)  
 **tu yam un o du banana, he?**
-– Do you eat one or two bananas? (question)  
+– Syötko sinä yhden vai kaksi banaania? (kysymyslause)  
 **un.**
-– One.
+– Yhden.
 
 
-## Open questions
+## Avoimet kysymykset
 
-Open questions, or _wh-_ questions, ask for more information.
-In Pandunia they use the word **ke**.
+Avoimilla kysymyksillä kysytään uutta tietoa.
+Panduniassa avoimissa kysymyksissä on aina kysymyssana
+**ke**
+('mikä, mitä').
+Sanajärjestys on yleensä sama kuin väitelauseissa.
 
 **piza si ke?**
-– What is pizza?
+– Mikä pitsa on?
 
-The question word may be moved to the front of the sentence for emphasis.
-However, unlike in English, the word order may also be left alone.
+Kysymyssanan voi myös siirtää lauseen alkuun painottamaan sen merkitystä.
+Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
 **ke she tu zai yam?**
-– What are you eating?  
+– Mitä sinä olet syömässä?  
 **tu zai yam ke she?**
-– You are eating what?  
+– Sinä olet syömässä mitä?  
 **ye lai na ke sata?**
-– When does he arrive?  
+– Mihin aikaan hän tulee?  
 **tumon keka na ke jen su dom?**
-– Whose house did you all visit?
+– Kenen talossa te kävitte?
 
 
 --------------------------------------------------------------------------------
 
-## 8. Konjunktiot
-
-### 8.1. Peruskonjunktiot
+## Konjunktiot
 
 **e**
 – ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)
@@ -362,32 +370,6 @@ Se vaikuttaa aina vain seuraavaan sanaan.
 – Minä en pyydä sinua siivoamaan huonetta.  
 **mi ching tu no safa la kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
-
-
-Partikkelit **ya** ja **no** vastaavat myös kysymyksiin.
-
-**sual tu vide mi?**
-= Näetkö sinä minut?  
-**ya. (mi ya vide tu.)**
-= Kyllä. (Minä näen sinut.)  
-**no. (mi no vide tu.)**
-= En. (Minä en näe sinua.)
-
-Kieltomuotoisiin kysymyksiin vastattaessa **ya** ja **no** tarkoittavat verbiä eivätkä koko kysymyslausetta.
-
-**sual tu no vide mi?**
-= Etkö sinä näe minua  
-**si. (mi si vide tu.)**
-= Kyllä. (Minä kyllä näen sinut.)  
-**no. (mi no vide tu.)**
-= Ei. (Minä en näe sinua.)
-
-
-
- 
-
- 
-
 
 
 ### Määrepartikkelit

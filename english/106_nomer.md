@@ -244,6 +244,6 @@ The 24 hour clock is the standard.
 **hor des du e tri des**
 – twelve thirty, half past twelve  
 **hor du des**
-– eight PM
+– eight PM  
 **hor du des e des lima**
 – quarter past eight PM

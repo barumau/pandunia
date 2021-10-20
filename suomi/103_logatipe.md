@@ -25,10 +25,8 @@ Ne ylläpitävät lauseiden rakennetta,
 mutta ne eivät mitään tiettyä asiaa ulkopuolisessa maailmassa.
 Esimerkiksi sana "että" on funktiosana.
 
-In Pandunia, it is easy to identify structure words because they always consist of only one syllable.
-Content words, on the other hand, are typically longer.
-Structure words are best explained in the grammar,
-whereas content words are translated in the dictionary.
+Funktiosanat on helppo tunnistaa panduniassa, koska ne ovat useimmiten yksitavuisia.
+Sisältösanat sen sijaan ovat lähes aina pitempiä.
 
 ## Sanaluokat
 

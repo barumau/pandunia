@@ -362,8 +362,6 @@ The demonstrative **go** points to the following phrase, and **ni** points to th
 
 ## Combining phrases with conjunctions
 
-### Basic conjunctions
-
 **e**
 – and (connects two similar words or phrases)  
 **o**

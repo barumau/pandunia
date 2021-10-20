@@ -240,6 +240,6 @@ Panduniassa normina on 24-tuntinen kellonaika.
 **hor des du e tri des**
 – 12.30 eli puoli yksi
 **hor du des**
-– kello 20 eli kello kahdeksan illalla
+– kello 20 eli kello kahdeksan illalla  
 **hor du des e des lima**
 – 20.15 eli vartin yli kahdeksan illalla
