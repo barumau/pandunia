@@ -1,39 +1,44 @@
-# halou, dunia!
+# halo, dunia!
 
 Tervehdys, maailma!
-Tervetuloa saamaan tietoa panduniasta, tasapuolisesti koko maailman apukielestä!
+Tervetuloa tutustumaan panduniaan, koko maailman apukieleen!
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
-<small>Kuvan lähde [Freepik](http://www.freepik.com)</small>
+<small>Kuva: [Freepik](http://www.freepik.com)</small>
 
-## Mikä on pandunia?
+## Mitä pandunia on?
 
-Pandunia on keinotekoinen kieli, joka on suunniteltu kaikkien maailman ihmisten käyttöön kansainvälisessä viestinnässä.
+Pandunia on keinotekoinen kieli, joka on suunniteltu käytettäväksi kansainvälisessä viestinnässä.
 
 - Pandunia on helpompi ja yksinkertaisempi kuin luonnollisesti kehittyneet maailmankielet, kuten englanti, ranska, venäjä, arabia ja kiina.
-- Keinotekoisena kielenä pandunia on täysin säännöllinen kieli. Siinä ei ole poikkeuksia eikä muitakaan tarpeettomia hankaluuksia.
-- Pandunia on aidosti kansainvälinen! Sen sanat ovat peräisin maailman eri puolilla puhutuista kielistä, mukaan lukien 12 maailman puhutuinta kieltä, jotka ova englanti, kiina, espanja, hindi-urdu, arabia, venäjä, bangla, portugali, malaiji-indonesia, japani, ranska ja saksa.
+- Keinotekoisena kielenä pandunia on täysin säännöllinen kieli.
+  Siinä ei ole poikkeuksia eikä muitakaan tarpeettomia hankaluuksia.
+- Pandunia on aidosti kansainvälinen!
+  Sen sanat ovat peräisin tasapuolisesti maailman eri puolilta.
+  Mukaan on otettu mm. maailman 12 puhutuinta kieltä,
+  jotka ova englanti, kiina, espanja, hindi-urdu, arabia, venäjä, bangla, portugali, malaiji, japani, ranska ja saksa.
 
 ![](http://www.pandunia.info/bandir/bandir.png "Pandunian lippu")
 
 ## Kelle?
 
-Pandunia on tarkoitettu aivan kaikille! Keinotekoisena kielenä pandunialla ei ole yhtään äidinkielistä puhujaa, joten käytännössä sitä osaa vasta kourallinen vieraiden kielten harrastajia.
+Pandunia on tarkoitettu aivan kaikille!
+Käytännössa pandunian puhujat lasketaan vasta kymmenissä,
+joten se ei ole ainakaan vielä todellinen maailmankieli.
+Se voi kuitenkin olla mielenkiintoinen harrastus!
 
-Mikäli olet kiinnostunut muista keinotekoisista kielistä, kuten esperanto, ido, interlingua, toki pona tai lidepla, siinä tapauksessa tulet melko varmasti tykkäämään panduniasta.
-
-## Tulossa pian...
-
-Pandunia uusi, parannettu version julkaistaan maaliskuussa 2021.
-Versio 2.0 sisältää kieliopin parannuksia, loogisemmat rakennesanat sekä uusia ja muutettuja sanoja.
-
+Panduniasta uusi, parannettu versio valmistui syyskuussa 2021.
+Se sisältää kieliopin parannuksia sekä paljon uusia sanoja.
 
 ## Opiskele!
 
-Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole pakko päntätä päähän.
+Panduniaa voi opiskella itsenäisesti.
+Rakenteeltaan pandunia on niin yksinkertaista,
+että sen voi oppia käytännön harjoitusten kautta,
+eikä kielioppia ole pakko opiskella.
 
-- [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_shula.html) - Kokeile oppia panduniaa pelkkien kuvien avulla!
-- [Tulkkisanakirja](200_baze_jumla.md) - Käytännöllisiä lauseita panduniaksi ja suomeksi
+- [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_shula.html) - Yritä oppia pandunian alkeet pelkkien kuvien avulla!
+- [Tulkkisanakirja](200_baze_jumla.md) - Käytännöllisiä lauseita panduniasta suomeksi
 - Sanastoja
     - [Pandunia-suomi](pandunia-suomi.md)
     - [Suomi-pandunia](suomi-pandunia.md)
@@ -41,20 +46,27 @@ Pandunian voi oppia esimerkkien avulla ja matkimalla toisia. Kielioppia ei ole p
 - [Tarinoita ja sarjakuvia panduniaksi](http://www.pandunia.info/pandunia/index.html)
 
 
-
 ## Jutellaan!
 
-- Löydä muita pandunian puhujia [Amikumu](https://amikumu.com/)-sovelluksella!
-- Panduniasta voi puhua suomeksi Facebookin [Tekokielet](http://www.facebook.com/groups/tekokielet)-ryhmässä.
-  ja Suomi24:n [Keinokielet](http://keskustelu.suomi24.fi/tiede-ja-teknologia/tiede/keinokielet)-ryhmässä.
-- Facebookin [Pandunia](http://www.facebook.com/groups/pandunia)-ryhmä toimii pääasiassa englanniksi.
-- Telegramissa on kanavat [kokonaan panduniaksi](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg), [englanniksi](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) ja [esperantoksi](https://pandunia.telegramo.org/).
-- Pandunialle on myös oma [Reddit-foorumi](https://www.reddit.com/r/pandunia/).
-- Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
-  johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käytä selainta ja Google-tiliäsi.
+| Alusta   | Kanava | Tarkoitus |
+|----------|---------|---------|
+| Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | Uutisia ja keskustelua panduniaksi ja englanniksi. |
+| Twitter  | [pandunia_](https://twitter.com/pandunia_) | Uutisia. |
+| Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
+| Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |
+| Discord  | [pandunia-multilingual](https://discord.gg/FWavWeG) | Keskustelua eri kielillä. Kanava on yhdistetty alla olevaan Telegram-kanavaan. |
+| Telegram | [multilingual channel](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) | Keskustelua eri kielillä. Kanava on yhdistetty yllä olevaan Discord-kanavaan. |
+| Telegram | [mimon basha pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
+| Telegram | [pandunia esperanto grupe](https://pandunia.telegramo.org/) | Keskustelua esperantoksi. |
+| QQ       | 717549404 | Keskustelua kiinaksi ja muilla kielillä. |
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")  
-<small>Kuvan lähde [Freepik](http://www.freepik.com)</small>
+Muita pandunian puhujia voi löytää [Amikumu](https://amikumu.com/)-sovelluksella.
+
+Suomeksi on tarjolla [sähköpostilista](https://groups.google.com/forum/?hl=fi&fromgroups=#!forum/suomi-pandunia),
+johon voi liittyä lähettämällä tyhjän viestin osoitteeseen suomi-pandunia+subscribe@googlegroups.com tai käyttämällä selainta ja Google-tiliä.
+
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon loga pandunia!")  
+<small>Kuva: [Freepik](http://www.freepik.com)</small>
 
 Yhteyshenkilönä toimii kielen pääasiallinen tekijä, Risto Kupsala, [risto@pandunia.info](mailto:risto@pandunia.info)
 
