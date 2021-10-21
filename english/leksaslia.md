@@ -381,7 +381,7 @@
 |**firuze**|turquoise gem|per:(firuze), Turkish:firuze, Arabic:(fayrūz), Swahili:feruzi, Hindi:फीरोज़ा (phīrozā), Bengali:ফিরোজা (phiroja), Malay:pirus, Russian:бирюза (biryuza)|
 |**fito**|plant (vegetable, vegetation)|English:phyto-, -phyte, deu:French:phyto-, Spanish:Portuguese:fito-, Russian:фито- (fito-)|
 |**fizika suta**|physics (science)|English:physics, Spanish:Portuguese:física, Russian:физика (fizika), Turkish:Malay:fizik, Arabic:فِيزِيقَا‎ (fīzīqā), Swahili:fizikia, Hindi:फ़िज़िक्स (fiziks)|
-|**flame**|inflammation (-itis)|English:French:inflammation + Mandarin:炎 (yán), Cantonese:炎 (jim4), Korean:염 (yeom), Vietnamese:viêm|
+|**flam**|inflammation (-itis)|English:French:inflammation + Mandarin:炎 (yán), Cantonese:炎 (jim4), Korean:염 (yeom), Vietnamese:viêm|
 |**fleche**|arrow (bolt)|Spanish:Portuguese:flecha, French:flèche, English:fletch|
 |**flerof yum**|flerovium|English:Malay:flerovium, French:flérovium, Spanish:flerovio, Portuguese:fleróvio, Russian:флеровий, Mandarin: (fū), Japanese:フレロビウム, Korean:플레로븀, Vietnamese:flerovi, Swahili:flerovi|
 |**flur**|fluorine|English:fluorine, French:fluor, Spanish:flúor, Portuguese:flúor, Russian:фтор, Mandarin:氟 (fú), Japanese:フッ素, Korean:플루오르, Vietnamese:flo, Hindi:फ्लोरीन, Bengali:ফ্লুরিন, Malay:fluor, Swahili:florini, Arabic: فلور|
@@ -1486,7 +1486,7 @@
 |**ura**|cheer (hurrah, hooray)|Russian:ура (ura), Italian:urrà, deu:Spanish:hurra, French:hourra, English:hurrah, Malay:hore, Persian:(hurâ)|
 |**uran yum**|uranium|English:uranium, French:uranium, Spanish:uranio, Portuguese:urânio, Russian:уран, Japanese:ウラン, Korean:우라늄, Vietnamese:urani (uran), Hindi:युरेनियम, Bengali:ইউরেনিয়াম, Malay:uranium, Swahili:urani, Arabic: يورانيوم|
 |**uze**|use (employ, apply)|English:use, French:user, Spanish:Portuguese:usar, Polish:używać|
-|**va**|with (there be; have)|Arabic: و‎ (wa), Hindi:व (va), Persian:Urdu: و‎ (va), Turkish:ve + Cantonese:和 (wo4), Vietnamese:và|
+|**va**|with (in the company of; by means of)|Arabic: و‎ (wa), Hindi:व (va), Persian:Urdu: و‎ (va), Turkish:ve + Cantonese:和 (wo4), Vietnamese:và|
 |**vaf**|dog|English:woof, French:ouaf, Russian:гав (gav), Turkish:hav, Mandarin:汪 (wāng), Japanese:ワン (wan)|
 |**vagina**|vagina|English:French:vagina, Portuguese:Spanish:vagina, Russian:вагина (vagina), Japanese:ワギナ (wagina), Korean:바기나 (bagina), Turkish:vajina, Malay:vagina|
 |**vah**|wow! (gee!)|English:wow, French:ouah, Mandarin:哇 (wā), Japanese:わあ (wā), Korean:와 (wa), Hindi:वाह (vāh), Malay:wah|

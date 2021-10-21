@@ -46,7 +46,7 @@ aisti - sense
 aistia - fa sense  
 aivastaa (atsii!) - achi  
 aivokalvo - meninge  
-aivokalvontulehdus - meninge flame  
+aivokalvontulehdus - meninge flam  
 aivoperäinen (aivo-) - nau di  
 aivot - nau  
 aivoton - nau hin  
@@ -379,7 +379,7 @@ emiirikunta - amir desha
 emäksinen (alkalinen) - kali  
 emäs - kali  
 emätin (vagina) - vagina  
-emätintulehdus - vagina flame  
+emätintulehdus - vagina flam  
 Enceladus - Enceladus  
 endonyymi (omakielinen nimi) - in nam  
 enemmistö - mas di fen  
@@ -1036,7 +1036,7 @@ kansallisuusaate (nationalismi) - nasi sim
 kansanryhmien välinen - zuku medi di  
 kansanryhmä (etninen ryhmä) - zuku  
 kansio (hakemisto) - dokumen sanduku  
-kanssa (kera, -lla) - va  
+kanssa (-lla, kera; avulla, välineellä) - va  
 kapina - rebel  
 kapteeni - nave shefe  
 karaatti - kirate  
@@ -1166,7 +1166,7 @@ ketsuppi - kechape
 ketterä - agile  
 kettu - huli  
 keuhko - pulmon  
-keuhkokuume - pulmon flame  
+keuhkokuume - pulmon flam  
 kevyt (hento, pehmeä, helppo, jne.) - ligu  
 kevyt (kevytpainoinen) - ligu veze di  
 kevät - hua mosim  
@@ -1316,7 +1316,7 @@ kortti - karte
 koruton (tavanomainen, pelkkä, vain) - sada  
 korva - ore  
 korvata - fa vise  
-korvatulehdus - ore flame  
+korvatulehdus - ore flam  
 koska (johdosta, takia) - ze sabu da  
 koskea (koskettaa) - tochu  
 kosminen - kosmo di  
@@ -1939,7 +1939,7 @@ mulperi - tuta
 muna - anda  
 munakoiso - bedinjan  
 munuainen - nefre  
-munuaistulehdus (nefriitti) - nefre flame  
+munuaistulehdus (nefriitti) - nefre flam  
 muoto (morfi) - forma  
 muotoilla (muovata) - fa forma  
 muovailuvaha - plasti paste  
@@ -3295,7 +3295,7 @@ tuhat (kilo-) - kilo
 tuhat triljoonaa (tsetta-) - zeta  
 tuhka - hui  
 tuikkia - fa sing foto  
-tulehdus - flame  
+tulehdus - flam  
 tulenpalvonta - hogo puja  
 tulevaa aikaa merkitsevä apuverbi - sha  
 tulevaisuus - pos zaman  

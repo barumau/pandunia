@@ -1090,7 +1090,7 @@ fito yam sim ja - vegetariano
 fizika - física  
 fizika ja - físico (científico)  
 fizika suta - física  
-flame - inflamación  
+flam - inflamación  
 fleche - flecha  
 flerof yum - flerovio  
 flur - flúor  
@@ -2230,7 +2230,7 @@ memo note - memorándum (nota)
 mena - fideo (tallarín)  
 mendelef yum - mendelevio  
 meninge - meninge  
-meninge flame - meningitis  
+meninge flam - meningitis  
 mentor - consejero (asesor)  
 Merkur - Mercurio  
 mes - mez  
@@ -2442,7 +2442,7 @@ nave shefe - capitán
 Nederlande - Países Bajos  
 Nederlande Antil - Antillas Neerlandesas  
 nefre - riñon  
-nefre flame - nefritis  
+nefre flam - nefritis  
 nefte - aceite (óleo)  
 nega - rechazar (negar)  
 nelu - cuatro (4)  
@@ -2553,7 +2553,7 @@ onor di - respetable (honorable)
 oranje - naranja  
 oranje rang - anaranjado  
 ore - oreja  
-ore flame - otitis  
+ore flam - otitis  
 orgazme - orgasmo  
 orkide - orquídea  
 oromo - oromo  
@@ -2822,7 +2822,7 @@ pul fito yam sim - veganismo
 pul fito yam sim ja - vegano  
 pul shipi - remojar (marinar, encurtir, macerar)  
 pulmon - pulmón  
-pulmon flame - pulmonía (neumonía)  
+pulmon flam - pulmonía (neumonía)  
 puma - puma  
 punte - punto  
 punte bano - marcador  
@@ -3510,7 +3510,7 @@ uze ja nam - nombre de usuario
 va - con  
 vaf - perro  
 vagina - vagina  
-vagina flame - vaginitis  
+vagina flam - vaginitis  
 vah - guau (vaya)  
 vai - fuera (exterior)  
 vai desha - país extranjero  

@@ -693,7 +693,7 @@ indígena (índio) - asal Amerka jen
 infectar (contagiar) - fa pati mise  
 infecção (contágio) - pati mise  
 infiel - an din ja  
-inflamaçao - flame  
+inflamaçao - flam  
 informática (ciência da computação) - data chuli logi  
 inimigo - dus jen  
 inquisitivo - sabe vol ja  
@@ -994,7 +994,7 @@ origem - asal
 original - asal di  
 orquídea - orkide  
 ortogonal - orto gona di  
-otite - ore flame  
+otite - ore flam  
 ou - o  
 ouro - auro  
 outono - pade mosim  
@@ -1086,7 +1086,7 @@ planta (vegetal) - fito
 platina - platin  
 plutónio - pluton yum  
 plástico - plasti di  
-pneumonia  - pulmon flame  
+pneumonia  - pulmon flam  
 Polinésia - Polinesi  
 poluição - najis  
 polvo - ohtopus  
@@ -1414,7 +1414,7 @@ urânio - uran yum
 usar - aplika  
 ####V - V  
 vagina - vagina  
-vaginite - vagina flame  
+vaginite - vagina flam  
 vale (uadi) - vali  
 valor (valia) - valu  
 valorar - fa valu  

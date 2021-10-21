@@ -1372,7 +1372,7 @@ onor di - respektinda
 oranje - oranĝo  
 oranje rang - oranĝa  
 ore - orelo  
-ore flame - otito  
+ore flam - otito  
 orto - rekta  
 osmi yum - osmio  
 osmos - osmozo  
@@ -1819,10 +1819,10 @@ un yen di lense - monoklo
 uran yum - uranio  
 uze - uzi  
 ####V - V  
-va - kun  
+va - kun (per)  
 vaf - hundo  
 vagina - vagino  
-vagina flame - vaginito  
+vagina flam - vaginito  
 vah - ŭaŭ!  
 vai - ekstero  
 vai desha - fremda lando  

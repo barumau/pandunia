@@ -3361,11 +3361,11 @@ zamknąć (zamykać) - fa klus
 zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć) - fa sor  
 zapach (aromat, smród, odór) - aroma  
 zapakować, pakować - fa pake  
-zapalenie - flame  
-zapalenie nerek - nefre flame  
-zapalenie opon mózgowych - meninge flame  
-zapalenie pochwy - vagina flame  
-zapalenie ucha - ore flame  
+zapalenie - flam  
+zapalenie nerek - nefre flam  
+zapalenie opon mózgowych - meninge flam  
+zapalenie pochwy - vagina flam  
+zapalenie ucha - ore flam  
 zapaść się (zapadać się, runąć) - parche tal  
 zapominać (zapomnieć) - an memo  
 zapomnieć, zapominać - boli  

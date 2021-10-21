@@ -1049,7 +1049,7 @@ fito yam sim ja - wegetarianin
 fizika - fizyka  
 fizika ja - fizyka  
 fizika suta - fizyk  
-flame - zapalenie  
+flam - zapalenie  
 fleche - strzała (bełt)  
 fleche ja - wytwórca łuków i strzał  
 flerof yum - flerow  
@@ -2144,7 +2144,7 @@ memo bina - pomnik (memoriał)
 memo note - notatka, memo  
 mena - makaron  
 meninge - opona mózgowa  
-meninge flame - zapalenie opon mózgowych  
+meninge flam - zapalenie opon mózgowych  
 mentor - doradca (mentor)  
 meranti - damarzyk (meranti)  
 Merkur - Merkury  
@@ -2347,7 +2347,7 @@ nave shefe - kapitan
 Nederlande - Holandia (Królestwo Niderlandów)  
 Nederlande Antil - Antyle Holenderskie  
 nefre - nerka  
-nefre flame - zapalenie nerek  
+nefre flam - zapalenie nerek  
 nefte - olej  
 nefte guku - złocień indyjski  
 nega - odmówić (odrzucić)  
@@ -2454,7 +2454,7 @@ onor di - honorowy
 oranje - pomarańcza  
 oranje rang - pomarańczowy  
 ore - ucho  
-ore flame - zapalenie ucha  
+ore flam - zapalenie ucha  
 orgazme - orgazm  
 orkide - storczyk (orchidea)  
 oromo - oromo  
@@ -3363,7 +3363,7 @@ uze ja nam - nazwa użytkownika
 ####V - V  
 vaf - pies  
 vagina - wagina  
-vagina flame - zapalenie pochwy  
+vagina flam - zapalenie pochwy  
 vah - wow!, łoł!, jej!  
 vai - zęwnętrzny  
 vai desha - zagranica  

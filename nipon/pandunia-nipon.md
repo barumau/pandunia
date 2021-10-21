@@ -1089,7 +1089,7 @@ puja kan - 神殿 (宮, 寺, 神社)
 pul fito yam sim - ヴィーガニズム  
 pul fito yam sim ja - 絶対菜食主義者 (ヴィーガン)  
 pul shipi - 漬ける (締める)  
-pulmon flame - 肺炎  
+pulmon flam - 肺炎  
 puma - ピューマ (クーガー)  
 punte bano - スコアボード  
 punte nomer - 得点 (点数)  

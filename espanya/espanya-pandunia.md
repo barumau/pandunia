@@ -1792,7 +1792,7 @@ infectar (contagiar) - fa pati mise
 inferior - niche di  
 infiel (descreído) - an din ja  
 infierno - naraka  
-inflamación - flame  
+inflamación - flam  
 información - kon sabe  
 informe (reporte, noticia) - reporte  
 informática (computación) - data chuli logi  
@@ -2215,7 +2215,7 @@ memoria - memo
 memorándum (nota) - memo note  
 mendelevio - mendelef yum  
 meninge - meninge  
-meningitis - meninge flame  
+meningitis - meninge flam  
 menor (leve) - minor  
 menos - min  
 mensaje - anjil  
@@ -2394,7 +2394,7 @@ necesario - yau di
 necesidad - yau ta  
 necesitar - yau  
 necrofilia - mata badan fili  
-nefritis - nefre flame  
+nefritis - nefre flam  
 negociar - fa biznes lona  
 negocios (comercio) - biznes  
 negro - kala  
@@ -2544,7 +2544,7 @@ oscuro - oskur
 Osetia del Sur - Sude Iria (Alonia)  
 osmio - osmi yum  
 oso - baru  
-otitis - ore flame  
+otitis - ore flam  
 otomana - osman  
 otoño - pade mosim  
 otra vez (de nuevo) - na re  
@@ -2915,7 +2915,7 @@ puerto marítimo - hai porte
 Puerto Rico - Portoriko  
 puertorriqueño - portoriko jen  
 pulir (lustrar) - foto frike  
-pulmonía (neumonía) - pulmon flame  
+pulmonía (neumonía) - pulmon flam  
 pulmón - pulmon  
 pulpo - ohtopus  
 puma - puma  
@@ -3574,7 +3574,7 @@ vaca (toro) - mumu
 vacuna - vasin  
 vacío (desocupado) - hali  
 vagina - vagina  
-vaginitis - vagina flame  
+vaginitis - vagina flam  
 vainilla - vanila  
 valiente (heroico) - hero di  
 valla (cerca) - kinar baryer  

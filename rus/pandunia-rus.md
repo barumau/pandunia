@@ -451,7 +451,7 @@ firuze - бирюза
 fito - растение  
 fito logi - ботаника  
 fito yam sim ja - вегетарианец  
-flame - воспаление  
+flam - воспаление  
 fleche - стрела (стрелка)  
 flerof yum - флеровий  
 flur - фтор  
@@ -1081,7 +1081,7 @@ okside - окись (оксид)
 onor - честь  
 oranje - апельсин  
 oranje rang - оранжевый  
-ore flame - отит  
+ore flam - отит  
 orkide - орхидея  
 orto - прямой  
 orto gona di - ортогона́льный  
@@ -1205,7 +1205,7 @@ puja meza - алтарь
 pul - полный  
 pul fito yam sim ja - веган  
 pul shipi - мариновать  
-pulmon flame - пневмония (воспаление лёгких)  
+pulmon flam - пневмония (воспаление лёгких)  
 puma - пума (кугуар)  
 punte nomer - оценка  
 putau bagi - виноградник  
@@ -1507,7 +1507,7 @@ uran yum - уран
 va - с  
 vaf - собака  
 vagina - влагалище (вагина)  
-vagina flame - вагинит  
+vagina flam - вагинит  
 vah - вау!  
 vai - вне  
 vai jen - посторонний (аутсайдер)  

@@ -983,7 +983,7 @@
 |**un**|unu (1)|franca:un, hispana:uno, portugala:um,una, angla:one|
 |**uran yum**|uranio|angla:uranium, franca:uranium, hispana:uranio, portugala:urânio, rusa:уран, japana:ウラン, korea:우라늄, vjetnama:urani (uran), hindia:युरेनियम, bengala:ইউরেনিয়াম, malaja:uranium, svahila:urani, araba: يورانيوم|
 |**uze**|uzi|angla:use, franca:user, hispana:portugala:usar, polona:używać|
-|**va**|kun|araba: و‎ (wa), hindia:व (va), persa:urdua: و‎ (va), turka:ve + kantona:和 (wo4), vjetnama:và|
+|**va**|kun (per)|araba: و‎ (wa), hindia:व (va), persa:urdua: و‎ (va), turka:ve + kantona:和 (wo4), vjetnama:và|
 |**vaf**|hundo|angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)|
 |**vagina**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
 |**vah**|ŭaŭ!|angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah|

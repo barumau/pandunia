@@ -798,7 +798,7 @@ Indus - Hindi rivo
 infecter - fa pati mise  
 infection (contagion) - pati mise  
 infidèle (incroyant) - an din ja  
-inflammation - flame  
+inflammation - flam  
 informatique - data chuli logi  
 innomé - nam hin  
 insecte - dudu  
@@ -1130,7 +1130,7 @@ originel - asal di
 orphelinat - yatim dom  
 orthogonal - orto gona di  
 osmium - osmi yum  
-otite - ore flame  
+otite - ore flam  
 ou - o  
 ouah - vah  
 oublier - an memo  
@@ -1245,7 +1245,7 @@ plurilingue (multilingue) - poli basha di
 plus - mas  
 plutonium - pluton yum  
 pluvieux -   
-pneumonie - pulmon flame  
+pneumonie - pulmon flam  
 pocion - dava sui  
 podzol - hui darte  
 poids (lourdeur, gravité) - veze  
@@ -1616,7 +1616,7 @@ Uranus - Uran
 ####V - V  
 vachellia - babul  
 vagine - vagina  
-vaginite - vagina flame  
+vaginite - vagina flam  
 vaisseau spatial - kosmo nave  
 valeur - valu  
 vallée (oued) - vali  

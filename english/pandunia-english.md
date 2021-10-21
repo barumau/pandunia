@@ -1246,7 +1246,7 @@ fito yam sim ja - vegetarian
 fizika - physics  
 fizika ja - physicist  
 fizika suta - physics (science)  
-flame - inflammation (-itis)  
+flam - inflammation (-itis)  
 fleche - arrow (bolt)  
 fleche ja - fletcher  
 flerof yum - flerovium  
@@ -2495,7 +2495,7 @@ memo tehni - mnemotechny
 mena - noodle  
 mendelef yum - mendelevium  
 meninge - meninx (meninges)  
-meninge flame - meningitis  
+meninge flam - meningitis  
 mentor - advisor (counselor, mentor)  
 meranti - lauan tree (meranti, balau)  
 Merkur - Mercury  
@@ -2717,7 +2717,7 @@ nave shefe - captain
 Nederlande - Netherlands  
 Nederlande Antil - Netherlands Antilles  
 nefre - kidney  
-nefre flame - nephritis  
+nefre flam - nephritis  
 nefte - oil  
 nefte guku - Indian chrysanthemum  
 nega - refuse (deny, decline)  
@@ -2839,7 +2839,7 @@ onor di - honorable (respectable)
 oranje - orange (fruit)  
 oranje rang - orange (orange-colored)  
 ore - ear  
-ore flame - otitis  
+ore flam - otitis  
 orgazme - orgasm  
 orkide - orchid  
 oromo - Oromo (an Ethiopian ethnic group)  
@@ -3131,7 +3131,7 @@ pul fito yam sim - veganism
 pul fito yam sim ja - vegan  
 pul shipi - soak (steep, marinate)  
 pulmon - lung  
-pulmon flame - pneumonia  
+pulmon flam - pneumonia  
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 punte bano - scoreboard  
@@ -3871,10 +3871,10 @@ uze bil di - usable (available)
 uze ja - user  
 uze ja nam - username  
 ####V - V  
-va - with (there be; have)  
+va - with (in the company of; by means of)  
 vaf - dog  
 vagina - vagina  
-vagina flame - vaginitis  
+vagina flam - vaginitis  
 vah - wow! (gee!)  
 vai - outside (exterior)  
 vai desha - foreign country  

@@ -394,7 +394,7 @@ firuze - 绿松石
 fito - 植物  
 fito logi - 植物学  
 fito yam sim ja - 素食主义者  
-flame - 炎症  
+flam - 炎症  
 fleche - 箭  
 flur - 氟  
 fong - 蜂  
@@ -981,7 +981,7 @@ onda - 波浪
 oranje - 橙子  
 oranje rang - 橙色  
 ore - 耳  
-ore flame - 耳炎  
+ore flam - 耳炎  
 orkide - 兰花  
 orto - 直  
 oselote - 虎貓  
@@ -1082,7 +1082,7 @@ puja meza - 圣坛
 pul fina - 完成  
 pul fito yam sim ja - 纯素食主义者  
 pul shipi - 浸泡  
-pulmon flame - 肺炎  
+pulmon flam - 肺炎  
 puma - 美洲獅 (山狮)  
 putau bagi - 葡萄园  
 putau oranje - 葡萄柚  

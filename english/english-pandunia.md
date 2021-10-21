@@ -1794,7 +1794,7 @@ infect - fa pati mise
 infection (infestation, contagion) - pati mise  
 infidel (pagan, heathen, unbeliever) - kafir  
 infinity - an limite  
-inflammation (-itis) - flame  
+inflammation (-itis) - flam  
 information (communicable knowledge) - kon sabe  
 initial (first) - shuru di  
 inject - jusha  
@@ -2237,7 +2237,7 @@ member (component) - membre
 memorandum (memo) - memo note  
 memory (recollection) - memo  
 mendelevium - mendelef yum  
-meningitis - meninge flame  
+meningitis - meninge flam  
 meninx (meninges) - meninge  
 mental (psychic) - ruhu di  
 mercury (quicksilver) - hidrargente  
@@ -2423,7 +2423,7 @@ neon - neon
 neophyte plant - nove fito  
 Nepal - Nepal  
 nephew or niece - brusben  
-nephritis - nefre flame  
+nephritis - nefre flam  
 Neptune - Neputun  
 neptunium - neputun yum  
 nerve - nerve  
@@ -2587,7 +2587,7 @@ osmium - osmi yum
 osmosis - osmos  
 other - alo  
 otherwise (else) - alo  
-otitis - ore flame  
+otitis - ore flam  
 otter - lotra  
 Ottoman - osman  
 Ottoman Empire - Osman Imperi Desha  
@@ -2817,7 +2817,7 @@ pliers (pincers) - pinse gi
 plug (stop with a plug) - fa tapa  
 Pluto (dwarf planet) - Pluton  
 plutonium - pluton yum  
-pneumonia - pulmon flame  
+pneumonia - pulmon flam  
 pocket - jebe  
 podzol - hui darte  
 poem - shir  
@@ -3876,7 +3876,7 @@ Uzbekistan - Uzbeki
 vaccine - vasin  
 vacuum cleaner - fun chupa gi  
 vagina - vagina  
-vaginitis - vagina flame  
+vaginitis - vagina flam  
 valid (workable) -   
 valley - vali  
 value (evaluate) - fa valu  
@@ -4032,7 +4032,7 @@ wintry - leng mosim di
 wire - metal lin  
 wisdom - sofi ta  
 wise - sofi  
-with (there be; have) - va  
+with (in the company of; by means of) - va  
 wolf - volfe  
 Wolof (language and people) - Volof  
 woman (adult female) - matur fem  

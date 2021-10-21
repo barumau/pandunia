@@ -407,7 +407,7 @@ fiorde - fiorde
 fito - planta (vegetal)  
 fito logi - botânica  
 fito yam sim ja - vegetariano  
-flame - inflamaçao  
+flam - inflamaçao  
 fleche - flecha (seta)  
 flerof yum - fleróvio  
 flur - flúor  
@@ -1023,7 +1023,7 @@ onor - honra
 oranje - laranja  
 oranje rang - alaranjado  
 ore - orelha  
-ore flame - otite  
+ore flam - otite  
 orkide - orquídea  
 orto - reto  
 orto gona di - ortogonal  
@@ -1142,7 +1142,7 @@ pul - cheio
 pul fina - terminar (acabar, concluir)  
 pul fito yam sim ja - vegetalista  
 pul shipi - ensopar (encharcar, marinar)  
-pulmon flame - pneumonia   
+pulmon flam - pneumonia   
 putau bagi - vinhedo  
 putau oranje - toranja  
 ####R - R  
@@ -1394,7 +1394,7 @@ uran yum - urânio
 ####V - V  
 vaf - cão (cachorro)  
 vagina - vagina  
-vagina flame - vaginite  
+vagina flam - vaginite  
 vah - uau  
 vai - exterior  
 vai jene di - exógeno  

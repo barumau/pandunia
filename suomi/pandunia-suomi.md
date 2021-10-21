@@ -1231,7 +1231,7 @@ fito yam sim ja - kasvissyöjä
 fizika - fysiikka  
 fizika ja - fyysikko  
 fizika suta - fysiikka  
-flame - tulehdus  
+flam - tulehdus  
 fleche - nuoli  
 fleche ja - nuolentekijä  
 flerof yum - flerovium  
@@ -2363,7 +2363,7 @@ memo tehni - muistitekniikka
 mena - nuudeli  
 mendelef yum - mendelevium  
 meninge - aivokalvo  
-meninge flame - aivokalvontulehdus  
+meninge flam - aivokalvontulehdus  
 mentor - neuvontantaja (mentori)  
 Merkur - Merkurius  
 mes - kuukausi  
@@ -2554,7 +2554,7 @@ nave shefe - kapteeni
 Nederlande - Alankomaat (Hollanti)  
 Nederlande Antil - Alankomaiden Antillit  
 nefre - munuainen  
-nefre flame - munuaistulehdus (nefriitti)  
+nefre flam - munuaistulehdus (nefriitti)  
 nega - kieltää  
 nelu - neljä (4)  
 nelu di galope - neli (kiitolaukka)  
@@ -2663,7 +2663,7 @@ onor di - kunnianarvoisa
 oranje - appelsiini  
 oranje rang - oranssi  
 ore - korva  
-ore flame - korvatulehdus  
+ore flam - korvatulehdus  
 orgazme - orgasmi  
 oromo - oromo (etiopialainen kansa)  
 Oromo Desha - Oromia  
@@ -2916,7 +2916,7 @@ pul bon - täydellinen (täysin hyvä)
 pul fina - tehdä loppuun (saada valmiiksi)  
 pul fito yam sim ja - vegaani  
 pulmon - keuhko  
-pulmon flame - keuhkokuume  
+pulmon flam - keuhkokuume  
 punte - piste (täplä)  
 pupe - nukke  
 pusha - työntää (puskea)  
@@ -3563,10 +3563,10 @@ uze bil di - käytettävissä oleva
 uze ja - käyttäjä  
 uze ja nam - käyttäjänimi  
 ####V - V  
-va - kanssa (kera, -lla)  
+va - kanssa (-lla, kera; avulla, välineellä)  
 vaf - koira  
 vagina - emätin (vagina)  
-vagina flame - emätintulehdus  
+vagina flam - emätintulehdus  
 vah - oho (vau)  
 vai - ulkopuoli  
 vai desha - ulkomaa  
