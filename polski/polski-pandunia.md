@@ -1836,7 +1836,7 @@ oliwka - zaitun
 Oman - Oman  
 omszały (mszysty) - mos di  
 on, ona, ono - ye  
-oni - yamon  
+oni - yemon  
 online (na linii, w sieci) - na lin  
 opaska do włosów - kesha bande  
 opcja (wybór) - chuze she  
@@ -2850,7 +2850,7 @@ słuchać - fa ore
 sługa - serve ja  
 słup (pal, kołek) - moka kane  
 służba - serve  
-służyć - serva  
+służyć - serve  
 ####T - T  
 tablica (deska) - bano  
 tablica wyników - punte bano  

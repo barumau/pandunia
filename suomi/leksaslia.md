@@ -1224,7 +1224,7 @@
 |**sento**|sata (hehto-)|ranska:cent, espanja:cien, portugali:cem, italia:cento, englanti:cent-, hindi:शत (śat), bangla:শত (śôt)|
 |**serami**|savityö (keramiikka)|englanti:ceramic, espanja:cerámica, portugali:cerâmico, ranska:céramique, venäjä:керамика (keramika), bangla:সিরামিক (sirāmika), turkki:mel:seramik|
 |**serpe**|käärme|hindi:सर्प (sarp), bangla:সাপ (sap), telugu:(sarpamu), ranska:englanti:serpent, espanja:serpiente, + yleiskiina:蛇 (shé), + yoruba:sèbé|
-|**serve**|palvelu (palvelus)|englanti:ranska:service, portugali:serviço, venäjä:сервис (servis), turkki:servis, hindi:(sevâ)|
+|**serve**|palvelu (palvelus)|englanti:ranska:service, portugali:serviço, venäjä:сервис (servis), turkki:servis + hindi:सेवा (sevâ), bangla:সেবা  (seba)|
 |**sesam**|seesami|englanti:sesame, venäjä:сезам (sezam), espanja:sésamo, arabia:(simsim), suahili:simsim, turkki:susam|
 |**sha**|tulevaa aikaa merkitsevä apuverbi|englanti:shall + arabia:(sa-) + vietnami:sẽ + sve:ska|
 |**shaka**|oksa (haara)|bangla:শাখা (śakha), hindi:शाखा (śākhā), urdu:(śāx), persia:(šax)|

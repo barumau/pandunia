@@ -3403,8 +3403,8 @@ serami|||eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:кера
 serami sing|bio|Houstonia||bluet|||||||||||||||||houstonia
 Serbia|desha|RS||Serbia||Serbia|||||||||||||Serbio|Serbia|Serbia
 serpe|||hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|snake (serpent)||serpiente (culebra)|||||||||||||serpento|käärme|wąż
-serva||||serve (give service)||servir||||||||||||||palvella (tarjoilla)|służyć
-serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|service||servicio||||||||||||||palvelu (palvelus)|służba
+serve||||serve (give service)||servir||||||||||||||palvella (tarjoilla)|służyć
+serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:servis + hin:सेवा (sevâ), ben:সেবা  (seba)|service||servicio||||||||||||||palvelu (palvelus)|służba
 serve ja||||servant||criado (sirviente)||||||||||||||palvelija (tarjoilija)|sługa
 sesam|bio|Sesamum indicum|eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam|sesame||ajonjolí (sésamo)||сезам|||||||||simsim|susam||seesami|sezam
 Seshel nesi|desha|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
@@ -3987,7 +3987,6 @@ xenon|yum 054|Xe|eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон
 Y||||Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y
 ya|||spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|area of thinking or being||sufijo para regiónes y sustantivos abstractos|||||||||||||ejo (ujo, io)|ajattelun, olemisen tai ihmisten ala tai alue|przyrostek dla miejsca
 ya|||may:ya, deu:ja, eng:yeah, kor:예 (ye) + zho:呀/啊 (ya/a)|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
-ye su||||his or her||||||他的|||||||||lia aŭ ŝia aŭ ĝia|hänen (sen)|
 Yahve||||Yahweh (Jehovah)|Yahweh (Jéhovah)|Yahvé (Jehová)|Javé (Jeová)|Яхве (Иегова)|يَهْوَه|耶和华 (雅威)|ヤハウェ (エホバ)|야훼 (여호와)|||||Yehova||Javeo (Jehovo)|Jahve (Jehova)|
 yake|||eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|yak||yac||||||||||||||jakki|jak (zwierzę)
 yaki|||kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)|about (approximately, nearly, almost)||aproximadamente||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony
@@ -3998,8 +3997,6 @@ yam kamar||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
 yam she||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
 yam sukar gana|bio|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
 yam yau||||hunger|faim|hambre|fome|голод|جوع‎|饥饿|飢え|굶주림|đói|भूख|ক্ষুধা|lapar|njaa|açlık|malsato|nälkä|głód
-yemon|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
-yemon su||||their|leur|||их||他们的||||उनका|||||ilia|heidän|
 yang|||zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|kind (style, sort, type)||variedad (tipo, estilo)|||||タイプ||||||||speco (tipo, stilo)|laji (tyyppi, tyyli)|rodzaj, typ, styl
 Yapetus|planete 6 lun 8|||Iapetus||||||||||||||||Japetus|
 yasen|bio|Fraxinus|rus:ясень (yasen’), pol:jesion|ash tree|frêne|fresno|freixo|ясень||白蜡树|秦皮|||||||dişbudak||saarni|jesion
@@ -4009,12 +4006,15 @@ yau|||zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|nee
 yau di||||necessary (needed)|nécessaire|necesario|necessário|нужный|ضَرُورِيّ‎|必要的|必要|필요하다||ज़रूरी||||||tarpeellinen|potrzebny
 yau ta||||need (shortage, lack, requirement)|besoin|necesidad|necessidade|нужда|ضَرُورَة‎||必要|필요||ज़रूरत||keperluan|haja||bezono|tarve (puute)|potrzeba
 ye|pron.||hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y|he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
+ye su||||his or her||||||他的|||||||||lia aŭ ŝia aŭ ĝia|hänen (sen)|
 yehudi||||Jewish||judío||||||||||||||juutalainen|żydowski
 yehudi din||||Judaism||judaísmo||||||||||||||juutalaisuus|judaizm
 yei|||eng:yay, pol:jej, jpn:イエイ (iei)|yay! (yeah!)||yupi||||||||||||||jee! (hurraa!)|jej
 yeka|||zho:易 (yì), yue:易 (yik6), jpn:易 (eki), kor:역 (yeok), vie:dịch|exchange (replace, trade, swap)||||||||||||||||vaihtaa (tehdä vaihtokauppa)|
 yeka kanon||||I Ching (the Book of Changes)|Yi King|||Книга Перемен||易经 (周易)|易経|역경|Kinh Dịch||||||Libro de ŝanĝiĝoj (I Ĉing)|Muutosten kirja (I Ching)|
 Yemen||||Yemen||Yemen||Йемен|||||||||||Jemeno|Jemen|Jemen
+yemon|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
+yemon su||||their|leur|||их||他们的||||उनका|||||ilia|heidän|
 yen|bode||zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain + fra:yeux|eye|œil|ojo|olho|глаз (око)|عَيْن|眼睛|目|눈|mắt|आँख (नैन, नेत्र)|চোখ (অক্ষি)|mata|jicho|göz|okulo|silmä|oko
 yen di||||ocular|oculaire|ocular|ocular|глазной|عَيْنِيّ||||||||||okula|silmä-|
 yen kesha||||eyelash||pestaña||||||||||||||silmäripsi|rzęsa
@@ -4105,12 +4105,3 @@ zuku di||||ethnic|ethnique|étnico|étnico|этнический|||民族の|민�
 zuku medi di||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumarde|||eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
-||||||el uno al otro (se)|||||||||||||||
-||||overestimate|surestimer|sobrestimar|superestimar (sobrestimar)|переоценить||||||||||||yliarvioida|
-||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
-||||valid (workable)||||||||||||||||toimiva|poprawny (wykonalny)
-||||known||conocido||||||||||||||tietty (tunnettu)|wiadomy, znany
-||||burden (load, encumber)||cargar|carregar|обременять||||||लादना (भरना)||||||kuormata (lastata, ladata)|naładować, załadować, obładować, ładować
-||||rainy|pluvieux|lluvioso (pluvioso)|chuvoso (pluvioso)|дождливый||多雨||||बरसाती||||yağmurlu|pluva|sateinen|deszczowy
-||||rain (pour down)||llover||дожди́ть|||雨が降る|||||||||sataa|padać (lać)
-||||adversary (antagonist, opponent)|adversaire (antagoniste, ennemi)|adversario (oponente)|adversário|противник||敌手|敵 (相手)||||প্রতিপক্ষ|||rakip||vastustaja (vihollinen)|przeciwnik (antagonista)

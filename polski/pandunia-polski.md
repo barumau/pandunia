@@ -2968,7 +2968,7 @@ serami - ceramika
 serami sing - houstonia  
 Serbia - Serbia  
 serpe - wąż  
-serva - służyć  
+serve - służyć  
 serve - służba  
 serve ja - sługa  
 sesam - sezam  
@@ -3479,7 +3479,6 @@ yam kamar - jadalnia
 yam she - jedzenie, posiłek  
 yam sukar gana - cukrowiec jadalny  
 yam yau - głód  
-yamon - oni  
 yang - rodzaj, typ, styl  
 yasen - jesion  
 yatim - sierota  
@@ -3491,6 +3490,7 @@ yehudi - żydowski
 yehudi din - judaizm  
 yei - jej  
 Yemen - Jemen  
+yemon - oni  
 yen - oko  
 yen kesha - rzęsa  
 yen sui - łza  

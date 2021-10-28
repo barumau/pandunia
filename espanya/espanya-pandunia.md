@@ -1181,7 +1181,7 @@ elegir (escoger, seleccionar) - chuze
 elemento (unidad fundamental) - so  
 elemento químico - kimi so  
 elfo - elfe  
-ellos o ellas - yamon  
+ellos o ellas - yemon  
 elogiar (alabar, exaltar) - halela  
 elogio - eu loga  
 elástico (flexible) - elasti  
@@ -3219,7 +3219,7 @@ Serbia - Serbia
 serie - sili  
 serpiente (culebra) - serpe  
 servicio - serve  
-servir - serva  
+servir - serve  
 sexo (género) - jinse  
 sexo - bio jinse  
 sexo - sekse  

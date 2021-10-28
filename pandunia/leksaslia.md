@@ -1315,7 +1315,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**sera**|spa:sierra, por:serra, eng:serrate|
 |**serami**|eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik|
 |**serpe**|hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|
-|**serve**|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis, hin:(sevâ)|
+|**serve**|eng:fra:service, por:serviço, rus:сервис (servis), tur:servis + hin:सेवा (sevâ), ben:সেবা  (seba)|
 |**sesam**|eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam|
 |**sha**|eng:shall + ara:(sa-) + vie:sẽ + sve:ska|
 |**shaka**|ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|

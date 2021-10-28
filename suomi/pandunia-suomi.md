@@ -3155,7 +3155,7 @@ sento nen di - satavuotinen
 serami - savityö (keramiikka)  
 Serbia - Serbia  
 serpe - käärme  
-serva - palvella (tarjoilla)  
+serve - palvella (tarjoilla)  
 serve - palvelu (palvelus)  
 serve ja - palvelija (tarjoilija)  
 sesam - seesami  
@@ -3692,7 +3692,6 @@ xenon - ksenon
 ####Y - Y  
 ya - ajattelun, olemisen tai ihmisten ala tai alue  
 ya - kyllä  
-ya su - hänen (sen)  
 Yahve - Jahve (Jehova)  
 yake - jakki  
 yaki - noin (arviolta, suunnilleen)  
@@ -3702,8 +3701,6 @@ yam fito - kasvis
 yam kamar - ruokasali  
 yam she - ruoka  
 yam yau - nälkä  
-yamon - he  
-yamon su - heidän  
 yang - laji (tyyppi, tyyli)  
 Yapetus - Japetus  
 yasen - saarni  
@@ -3713,12 +3710,15 @@ yau - tarvita
 yau di - tarpeellinen  
 yau ta - tarve (puute)  
 ye - hän (se)  
+ye su - hänen (sen)  
 yehudi - juutalainen  
 yehudi din - juutalaisuus  
 yei - jee! (hurraa!)  
 yeka - vaihtaa (tehdä vaihtokauppa)  
 yeka kanon - Muutosten kirja (I Ching)  
 Yemen - Jemen  
+yemon - he  
+yemon su - heidän  
 yen - silmä  
 yen di - silmä-  
 yen kesha - silmäripsi  

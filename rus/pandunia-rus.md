@@ -1572,13 +1572,13 @@ ya - да
 Yahve - Яхве (Иегова)  
 yam fito - овощ  
 yam yau - голод  
-yamon su - их  
 yasen - ясень  
 yatim dom - детский дом  
 yau di - нужный  
 yau ta - нужда  
 yeka kanon - Книга Перемен  
 Yemen - Йемен  
+yemon su - их  
 yen - глаз (око)  
 yen di - глазной  
 yen sui gas - слезоточи́вый газ  
