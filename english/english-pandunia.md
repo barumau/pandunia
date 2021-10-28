@@ -1675,7 +1675,7 @@ Hinduism - Hindi din
 Hindustan - Hindi desha  
 hinge (pivot) - sharnir  
 hippopotamus - gubu  
-his or her - ya su  
+his or her - ye su  
 hispanophone (Spanish speaking) - espanya fon di  
 historian - histori ja  
 history (annals) - histori  
@@ -3268,7 +3268,7 @@ September - mes tisa
 Serbia - Serbia  
 series (sequence) - sili  
 servant - serve ja  
-serve (give service) - serva  
+serve (give service) - serve  
 service - serve  
 sesame - sesam  
 seven (7) - cheti  
@@ -3674,7 +3674,7 @@ that over there - go
 the (that) - la  
 the Grenadines - Grenadin nesi  
 theft - chori  
-their - yamon su  
+their - yemon su  
 theism - deu din  
 theist - deu din ja  
 theocracy - deu krati  
@@ -3683,7 +3683,7 @@ theory - teori
 theosophy - deu sofi  
 there - na go  
 thermometer - termo metre gi  
-they - yamon  
+they - yemon  
 thick - gros  
 thickness - gros ta  
 thief - chori ja  

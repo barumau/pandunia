@@ -3419,7 +3419,7 @@ serami - ceramic
 serami sing - bluet  
 Serbia - Serbia  
 serpe - snake (serpent)  
-serva - serve (give service)  
+serve - serve (give service)  
 serve - service  
 serve ja - servant  
 sesam - sesame  
@@ -4003,7 +4003,6 @@ xenon - xenon
 ####Y - Y  
 ya - area of thinking or being  
 ya - yes  
-ya su - his or her  
 Yahve - Yahweh (Jehovah)  
 yake - yak  
 yaki - about (approximately, nearly, almost)  
@@ -4014,8 +4013,6 @@ yam kamar - dining room
 yam she - food (meal)  
 yam sukar gana - duruka  
 yam yau - hunger  
-yamon - they  
-yamon su - their  
 yang - kind (style, sort, type)  
 Yapetus - Iapetus  
 yasen - ash tree  
@@ -4025,12 +4022,15 @@ yau - need (lack, require)
 yau di - necessary (needed)  
 yau ta - need (shortage, lack, requirement)  
 ye - he or she or it  
+ye su - his or her  
 yehudi - Jewish  
 yehudi din - Judaism  
 yei - yay! (yeah!)  
 yeka - exchange (replace, trade, swap)  
 yeka kanon - I Ching (the Book of Changes)  
 Yemen - Yemen  
+yemon - they  
+yemon su - their  
 yen - eye  
 yen di - ocular  
 yen kesha - eyelash  

@@ -15,5 +15,5 @@
 | suahili | 427 | 27% |
 | chosen | 420 | 26% |
 | putonghan | 413 | 26% |
-| bangla | 376 | 24% |
+| bangla | 377 | 24% |
 | viet | 272 | 17% |

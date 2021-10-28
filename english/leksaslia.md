@@ -1283,7 +1283,7 @@
 |**sera**|saw|Spanish:sierra, Portuguese:serra, English:serrate|
 |**serami**|ceramic|English:ceramic, Spanish:cerámica, Portuguese:cerâmico, French:céramique, Russian:керамика (keramika), Bengali:সিরামিক (sirāmika), Turkish:mel:seramik|
 |**serpe**|snake (serpent)|Hindi:सर्प (sarp), Bengali:সাপ (sap), Telugu:(sarpamu), French:English:serpent, Spanish:serpiente, + Mandarin:蛇 (shé), + Yoruba:sèbé|
-|**serve**|service|English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis, Hindi:(sevâ)|
+|**serve**|service|English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis + Hindi:सेवा (sevâ), Bengali:সেবা  (seba)|
 |**sesam**|sesame|English:sesame, Russian:сезам (sezam), Spanish:sésamo, Arabic:(simsim), Swahili:simsim, Turkish:susam|
 |**sha**|auxiliary verb that marks future tense (will, shall)|English:shall + Arabic:(sa-) + Vietnamese:sẽ + sve:ska|
 |**shaka**|branch (bough)|Bengali:শাখা (śakha), Hindi:शाखा (śākhā), Urdu:(śāx), Persian:(šax)|

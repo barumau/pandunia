@@ -876,7 +876,7 @@ le (la) - la
 lent - lente  
 lentille - lense  
 Lettonie - Latvia  
-leur - yamon su  
+leur - yemon su  
 lexical - loga di  
 leçon - shula she  
 libellule - libele  

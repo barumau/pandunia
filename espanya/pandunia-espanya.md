@@ -3087,7 +3087,7 @@ sera - sierra
 serami - cerámica  
 Serbia - Serbia  
 serpe - serpiente (culebra)  
-serva - servir  
+serve - servir  
 serve - servicio  
 serve ja - criado (sirviente)  
 sesam - ajonjolí (sésamo)  
@@ -3635,7 +3635,6 @@ yam fito - verdura (legumbre)
 yam kamar - comedor  
 yam she - comida  
 yam yau - hambre  
-yamon - ellos o ellas  
 yang - variedad (tipo, estilo)  
 yasen - fresno  
 yatim - huérfano  
@@ -3648,6 +3647,7 @@ yehudi - judío
 yehudi din - judaísmo  
 yei - yupi  
 Yemen - Yemen  
+yemon - ellos o ellas  
 yen - ojo  
 yen di - ocular  
 yen kesha - pestaña  

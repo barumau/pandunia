@@ -1393,17 +1393,17 @@ vutu - 物体 (物品)
 xenon - 氙  
 ####Y - Y  
 ya - 对 (是)  
-ya su - 他的  
 Yahve - 耶和华 (雅威)  
 yam fito - 蔬菜  
 yam yau - 饥饿  
-yamon - 他们  
-yamon su - 他们的  
 yasen - 白蜡树  
 yatim dom - 孤儿院  
 yau di - 必要的  
 ye - 他，她，它  
+ye su - 他的  
 yeka kanon - 易经 (周易)  
+yemon - 他们  
+yemon su - 他们的  
 yen - 眼睛  
 yen sui gas - 催泪瓦斯  
 yepa - 叶  

@@ -1876,20 +1876,20 @@ xenon - ksenono
 ####Y - Y  
 ya - ejo (ujo, io)  
 ya - jes  
-ya su - lia aŭ ŝia aŭ ĝia  
 Yahve - Javeo (Jehovo)  
 yam - manĝi (trinki)  
 yam fito - legomo  
 yam kamar - manĝoĉambro  
 yam yau - malsato  
-yamon - ili  
-yamon su - ilia  
 yang - speco (tipo, stilo)  
 yau - bezoni  
 yau ta - bezono  
 ye - li aŭ ŝi aŭ ĝi  
+ye su - lia aŭ ŝia aŭ ĝia  
 yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 Yemen - Jemeno  
+yemon - ili  
+yemon su - ilia  
 yen - okulo  
 yen di - okula  
 yepa - folio  

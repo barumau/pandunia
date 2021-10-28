@@ -1704,12 +1704,12 @@ ya - oui
 Yahve - Yahweh (Jéhovah)  
 yam fito - légume  
 yam yau - faim  
-yamon su - leur  
 yasen - frêne  
 yatim dom - orphelinat  
 yau di - nécessaire  
 yau ta - besoin  
 yeka kanon - Yi King  
+yemon su - leur  
 yen - œil  
 yen di - oculaire  
 yen sui gas - gaz lacrymogène  

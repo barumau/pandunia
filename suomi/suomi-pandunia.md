@@ -586,11 +586,11 @@ hautakivi - gabur seku
 hautausmaa - gabur bagi  
 Havaiji - Havai  
 Havaijin saaret - Havai nesi  
-he - yamon  
+he - yemon  
 hedelmä - frute  
 hedelmätarha - frute bagi  
 hei (haloo) - halo  
-heidän - yamon su  
+heidän - yemon su  
 heijastaa (peilata) - mira  
 heijastaa kuvia (projisoida) - lanse grafi  
 heikko - debil  
@@ -746,7 +746,7 @@ hämmästys (ihmetys) - ajibu
 hämähäkinverkko - arane nete  
 hämähäkki - arane  
 hän (se) - ye  
-hänen (sen) - ya su  
+hänen (sen) - ye su  
 häntä - koda  
 häpeä - sharma  
 häpy (ulkosynnyttimet) - vulva  
@@ -2255,7 +2255,7 @@ pallokala - balon peshe
 palmu - palme  
 paluu - retro dau  
 palvelija (tarjoilija) - serve ja  
-palvella (tarjoilla) - serva  
+palvella (tarjoilla) - serve  
 palvelu (palvelus) - serve  
 palvonta - puja  
 panaasialainen - pan asia di  
