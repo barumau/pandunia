@@ -31,13 +31,13 @@ En adición un sustantivo puede servir de un sujeto.
 
 Frecuentamente hay indicador entre el sujeto y el verbo
 para indicar donde el sujeto finaliza y el verbo comenza.
-Es particularmente útil cuando el sujeto y el verbo son palabras de contento
+Es particularmente útil cuando el sujeto y el verbo son palabras de contenido
 que pueden servir de los dos.
 El indicador es tipicalmente una partícula o un verbo auxiliar.
 Un de los indicadores más adecuado es
 **ya**
 (»sí>>),
-que añade ningún contento a la oración
+que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
 **karote si uma yam.**

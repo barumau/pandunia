@@ -340,9 +340,9 @@ En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 – La persona, con cuya pluma escribo el libro, cae.
 
 
-## Cláusulas de contento
+## Cláusulas de contenido
 
-Una cláusula de contento puede ponerse antes o despues de la cláusula que habla sobre ella.
+Una cláusula de contenido puede ponerse antes o despues de la cláusula que habla sobre ella.
 El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 
 **go si bari, mi le no vide yemon.**

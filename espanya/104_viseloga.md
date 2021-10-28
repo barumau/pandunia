@@ -113,8 +113,8 @@ Arriba, **ni jumle** (_esta oración_) refiere a la oración que se está hablan
 **mi ama tu. mi mana la she.**
 – Te amo. Esa es la que significo.
 
-Arriba, **go she** refiere al contento de la oración siguiente,
-y **la she** refiere al contento de la oración previa.
+Arriba, **go she** refiere al contenido de la oración siguiente,
+y **la she** refiere al contenido de la oración previa.
 
 
 ## Pronombres interogativos
