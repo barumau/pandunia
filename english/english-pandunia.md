@@ -43,7 +43,6 @@ advancement (milestone) - jin
 adventure (venture) - ventur  
 adventurer - ventur ja  
 adverb - mode loge  
-adversary (antagonist, opponent) -   
 advice (counsel) - sel  
 advise (recommend) - fa sel  
 advisor (counselor, mentor) - mentor  
@@ -209,7 +208,6 @@ Asian - asia
 ask (inquire) - fa sual  
 ask (request, beg, plead; please) - ching  
 asparagus - lusun  
-aspirin - aspirin  
 associate - liga  
 assume (presuppose) - chen gar  
 Assur - Ashur  
@@ -502,7 +500,6 @@ building (structure) - bina
 Bulgaria - Bolgaria  
 bulletproof - dana sekur  
 bunk bed - cheng bede  
-burden (load, encumber) -   
 bureaucracy - buro krati  
 Burkina Faso - Burkina Faso  
 burn (be burned) - be hogo  
@@ -1937,7 +1934,6 @@ knife - chaku
 knot (node) - node  
 know (be aware of) - sabe  
 knowledge - sabe she  
-known -   
 Konkani - Konkani  
 Korea - Chosen  
 Korean - chosen di  
@@ -2602,7 +2598,6 @@ outside - na vai
 outsider - vai jen  
 outward (external) - do vai  
 oven (furnace) - tanur  
-overestimate -   
 overpass - supra  
 own (possess) - fa mal  
 own - se su  
@@ -2989,12 +2984,10 @@ radish - loba
 radium - radi yum  
 radon - radon  
 rail (railway, railroad) - tren dau  
-rain (pour down) -   
 rain (precipitation) - shava  
 rainbow - rang arka  
 rainbow trout - rang arka salmon  
 raincoat - shava kote  
-rainy -   
 rainy season (monsoon) - shava mosim  
 raise (lift) - fa gau  
 raisin - gan putau  
@@ -3377,7 +3370,6 @@ snake (serpent) - serpe
 sneak - sir move  
 sneeze (achoo) - achi  
 sniper (sharpshooter) - juste pau ja  
-snow (be snowing) -   
 snow - hima  
 soak (steep, marinate) - pul shipi  
 soap - sabun  
@@ -3877,7 +3869,6 @@ vaccine - vasin
 vacuum cleaner - fun chupa gi  
 vagina - vagina  
 vaginitis - vagina flam  
-valid (workable) -   
 valley - vali  
 value (evaluate) - fa valu  
 value (worth) - valu  

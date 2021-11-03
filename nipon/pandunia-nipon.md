@@ -1443,6 +1443,3 @@ zou logi - 動物学
 zou logi di - 動物学の  
 zuku - 民族  
 zuku di - 民族の  
- - 雪が降る  
- - 雨が降る  
- - 敵 (相手)  

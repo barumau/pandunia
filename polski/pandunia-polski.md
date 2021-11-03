@@ -162,7 +162,6 @@ asia - azjatycki
 Asia - Azja  
 askete - asceta  
 asma - astma  
-aspirin - aspiryna  
 astatin - astat  
 astro nave ja - astronauta  
 astro nomi - astronomia  
@@ -3571,10 +3570,3 @@ zuku di - etniczny
 zuku medi di - międzyetniczny  
 Zulu - zulu  
 zumarde - szmaragd  
- - śnieżyć (padać)  
- - poprawny (wykonalny)  
- - wiadomy, znany  
- - naładować, załadować, obładować, ładować  
- - deszczowy  
- - padać (lać)  
- - przeciwnik (antagonista)  

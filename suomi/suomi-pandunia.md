@@ -173,7 +173,6 @@ asia (juttu) - sual tema
 asia - she  
 asiakirja (dokumentti, tiedosto) - dokumen  
 askeett - askete  
-aspiriini - aspirin  
 Assur - Ashur  
 Assyria - Ashur desha  
 astatiini - astatin  
@@ -1387,7 +1386,6 @@ kuoppa (kolo) - kave
 kuori (suojakuori) - kaske  
 kuoria - tire yo pil  
 kuorma (lasti, taakka) - karga  
-kuormata (lastata, ladata) -   
 kuoro - chanta grupe  
 kupari - kupre  
 kupla - lili bol  
@@ -2775,14 +2773,12 @@ sarvikuono - kornonos
 saslik - shish nama  
 sata (hehto-) - sento  
 sata tuhatta - des kilo  
-sataa -   
 satakieli - bulbul  
 satama - hai porte  
 satanismi (paholaisenpalvonta) - shatan din  
 satanisti - shatan din ja  
 satavuotinen - sento nen di  
 sateenvarjo - shava chati  
-sateinen -   
 satsuma - venjou oranje  
 sattua (käydä kipeää) - be pasi  
 sattuma (onni) - zar  
@@ -3231,7 +3227,6 @@ tietojenkäsittelytiede - data chuli logi
 tietokanta - data banka  
 tietokone - komputa  
 tietoteoria (epistemologia) - sabe logi  
-tietty (tunnettu) -   
 tietysti (selvästi) - klar!  
 tietää (tuntea) - sabe  
 Tiibet - Bote  
@@ -3262,7 +3257,6 @@ toiminta (funktio) - funsi
 toimintahäiriö - dus funsi  
 toimisto (konttori, byroo) - buro  
 toimittaja (journalisti, lehtimies) - gazeta ja  
-toimiva -   
 toisiaan (toinen toistaan) - semon  
 toistaa - fa re  
 toisto - re  
@@ -3541,7 +3535,6 @@ vastasyntynyt - nove jene di
 vastata - fa javabu  
 vastaus - javabu  
 vastustaa - shatan  
-vastustaja (vihollinen) -   
 Vatikaanivaltio - Vatikan  
 vaurio (vahinko, haveri) - avar  
 vaurioitunut - avar di  
@@ -3745,7 +3738,6 @@ yksityiskohta (detalji) - detal
 yksivärinen - un rang di  
 yleinen (universaali) - putong  
 yleiskiina (mandariinikiina) - Putong Han  
-yliarvioida -   
 yliopisto - dai shula kan  
 ylistys - eu loga  
 ylistää (puhua hyvää, kehua) - fa eu loga  

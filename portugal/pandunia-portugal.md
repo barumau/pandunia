@@ -70,7 +70,6 @@ asal di - original
 asar - efeito  
 asha hin - desesperado  
 asma - asma  
-aspirin - aspirina  
 astatin - astato  
 astro - astro (corpo celeste)  
 astro nave - astronave  
@@ -1491,7 +1490,3 @@ zou logi di - zoológico
 zuku - etnia  
 zuku di - étnico  
 zumarde - esmeralda  
- - superestimar (sobrestimar)  
- - carregar  
- - chuvoso (pluvioso)  
- - adversário  

@@ -62,7 +62,6 @@
 |**Asia**|Asia|English:Spanish:Asia, Russian:Азия (Aziya), Turkish:Asya, Arabic:آسيا (ʾāsiyā), Persian:آسیا‎ (âsiyâ), Hindi:एशिया (eśiyā), Bengali:এশিয়া (eśiẏa), Marathi:आशिया (āśiyā), Malay:Asia, Mandarin:亞洲 (yàzhōu), Cantonese:亚洲 (aa3 zau1), Wu-Chinese:亚洲 (ia tseu), Japanese:アジア (ajia), Korean:아시아 (asia)|
 |**askete**|ascetic|English:ascetic, Spanish:Portuguese:asceta, French:ascéte, Russian:аскет (asket)|
 |**asma**|asthma|French:asthme, English:asthma, Spanish:Portuguese:Malay:asma, Polish:astma|
-|**aspirin**|aspirin|English:aspirin, Spanish:Portuguese:aspirina, French:aspirine, Russian:аспирин (aspirin), Arabic:أسبرين‎ (ʾasbirīn), Hindi:एस्पिरिन (espirin), Mandarin:阿司匹林 (āsīpǐlín),  Japanese:アスピリン (asupirin), Swahili:aspirini|
 |**astatin**|astatine|English:astatine, French:astate, Spanish:ástato, Portuguese:astato, Russian:астат(ин), Mandarin:砹 (ài), Japanese:アスタチン, Korean:아스타틴, Vietnamese:astatin, Hindi:एस्टाटिन, Bengali:অ্যাস্টাটিন, Malay:astatin, Swahili:astatini, Arabic: استاتين|
 |**ata**|sugar-apple (sweetsop)|French:atte, Portuguese:ata, Bengali:আতা (ata), Filipino:atis, som:aat|
 |**Atlanti Hai**|Atlantic Ocean|English:Atlantic, Spanish:Atlántico, Portuguese:Atlântico, Russian:Атлантический океан (Atlanticheskyy okean), Swahili:Atlantiki|

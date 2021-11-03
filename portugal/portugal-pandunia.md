@@ -19,7 +19,6 @@ acéfalo - sar hin
 adesivo - glu grafi  
 adjetivo - sifa loga  
 administrador - politi ja  
-adversário -   
 aeite (óleo) - nefte  
 aeroporto - air porte  
 aeróbico - air bio di  
@@ -98,7 +97,6 @@ arsénic - arsen yum
 arte - suta  
 artista - arte ja  
 asma - asma  
-aspirina - aspirin  
 assinar - nam kitabu  
 assustador - fobi ja  
 assustar - fa fobi  
@@ -249,7 +247,6 @@ Caribe - Karibe
 carimbo - posta marke  
 carne - nama  
 carrapato (ácaros) - akare  
-carregar -   
 carregar - fa karga  
 carreira - pei gong jiva  
 carta - karte  
@@ -294,7 +291,6 @@ China - Jongoku
 chocolate - choklate  
 chumbo - plumbe  
 chuva - shava  
-chuvoso (pluvioso) -   
 chá - chai  
 ciclista - sikle ja  
 cidade - siti  
@@ -1311,7 +1307,6 @@ substância - kimi
 suco (sumo) - jus  
 sunismo - suna islam din  
 suor - sueda  
-superestimar (sobrestimar) -   
 suástica (cruz gamada) - huke krus  
 Suíça - Suise  
 sábado - var luka  

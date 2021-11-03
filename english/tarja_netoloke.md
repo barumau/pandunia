@@ -4,8 +4,8 @@
 
 The original dictionary is a file called
 [pandunia-loge.csv](https://github.com/barumau/pandunia/blob/master/pandunia-loge.csv).
-It is in character-separated format (CSV) and the cell separator is the vertical bar "|".
-It includes translations to english and many other languages.
+It is in character-separated format (CSV) and cells are separated with the vertical bar "|".
+It includes translations from Pandunia to English and many other languages.
 All dictionaries in different languages are created from this file.
 
 You can edit the file in Microsoft Excel, LibreOffice Calc, other spreadsheet tools and text editors.

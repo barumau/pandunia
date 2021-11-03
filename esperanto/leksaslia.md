@@ -51,7 +51,6 @@
 |**Asia**|Azio|angla:hispana:Asia, rusa:Азия (Aziya), turka:Asya, araba:آسيا (ʾāsiyā), persa:آسیا‎ (âsiyâ), hindia:एशिया (eśiyā), bengala:এশিয়া (eśiẏa), marataja:आशिया (āśiyā), malaja:Asia, mandarena:亞洲 (yàzhōu), kantona:亚洲 (aa3 zau1), vua:亚洲 (ia tseu), japana:アジア (ajia), korea:아시아 (asia)|
 |**askete**|ascetiko|angla:ascetic, hispana:portugala:asceta, franca:ascéte, rusa:аскет (asket)|
 |**asma**|astmo|franca:asthme, angla:asthma, hispana:portugala:malaja:asma, polona:astma|
-|**aspirin**|aspirino|angla:aspirin, hispana:portugala:aspirina, franca:aspirine, rusa:аспирин (aspirin), araba:أسبرين‎ (ʾasbirīn), hindia:एस्पिरिन (espirin), mandarena:阿司匹林 (āsīpǐlín),  japana:アスピリン (asupirin), svahila:aspirini|
 |**atom**|atomo|angla:turka:malaja:atom, hispana:portugala:átomo, rusa:атом (atom), svahila:atomi, japana:アトム (atomu)|
 |**audi**|aŭdi (aŭskulti)|angla:hispana:franca:audio, portugala:áudio|
 |**auro**|oro|latina:aurum, portugala:ouro, hispana:oro, franca:or, rusa:аурум (aurum), malaja:aurum, svahila:auri|

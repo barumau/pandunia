@@ -95,7 +95,6 @@ Aruba - Aruba
 arytmetyka - hisabu suta  
 asceta - askete  
 aseksualny - an sekse di  
-aspiryna - aspirin  
 astat - astatin  
 astma - asma  
 astronauta - astro nave ja  
@@ -457,7 +456,6 @@ demon - demon
 dentysta - dante dava ja  
 deska - moka bano  
 deszcz - shava  
-deszczowy -   
 detal, szczegół - detal  
 dewanagari - deu nagar zi  
 dezaktualizować (pogorszyć) - dus darja  
@@ -1667,7 +1665,6 @@ nazizm - nasi sosi sim
 nazwa użytkownika - uze ja nam  
 nazwać, nazywać, wezwać, wzywać - fa nam  
 nazwisko, imię rodziny - famili nam  
-naładować, załadować, obładować, ładować -   
 negatywny (przeciwny, nie) - an  
 negocjować - fa biznes lona  
 neodym - neodim yum  
@@ -1901,7 +1898,6 @@ pacjent - pati jen
 pacyfista - pase sim ja  
 pacyfizm - pase sim  
 paczka, paka - pake  
-padać (lać) -   
 pająk - arane  
 pajęczyna - arane nete  
 Pakistan - Pakistan  
@@ -2124,7 +2120,6 @@ popełnić błąd - fa galte
 popiół - hui  
 popołudnie - sham dia  
 poprawić, poprawiać, prostować, korygować - fa sahi  
-poprawny (wykonalny) -   
 poprowadzić do (doprowadzić do, powodować) - fa asar  
 poprzedni - chen  
 poprzedzić, poprzedzać - be chen  
@@ -2260,7 +2255,6 @@ przechylać (przechylić, wychylać, wychylić) - fa tercha
 przeciekać, ciec - lou  
 przecinek - koma  
 przeciwnie do ruchu wskazówek zegara - rota lefte  
-przeciwnik (antagonista) -   
 przedmiot (obiekt) - vutu  
 przedpołudnie - suba dia  
 przedrostek (prefiks) - chen fikse  
@@ -3124,7 +3118,6 @@ wełna (runo owcze) - meme kesha
 wiadomość - anjil  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - note anjil  
-wiadomy, znany -   
 wiadro - baldi  
 wiadukt, przejście powyżej - supra  
 wiara, wierzenie, kredo - sina  
@@ -3534,7 +3527,6 @@ zły, zrujnowany, zepsuty - harabu
 śmieć, odpadek - laji  
 śniadanie - suba yam  
 śnieg - hima  
-śnieżyć (padać) -   
 śpiewać - chanta  
 średni - medi  
 środa - var tri  

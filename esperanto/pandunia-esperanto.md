@@ -92,7 +92,6 @@ asia - azia
 Asia - Azio  
 askete - ascetiko  
 asma - astmo  
-aspirin - aspirino  
 astro - astro  
 astro nave ja - astronaŭto  
 astro nomi ja - astronomo  
@@ -1946,4 +1945,3 @@ zuku di - etna
 zuku medi di - interetna  
 Zulu - zuluo  
 zumarde - smeraldo  
- - pluva  

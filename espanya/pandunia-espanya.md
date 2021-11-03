@@ -162,7 +162,6 @@ asia - asiático
 Asia - Asia  
 askete - asceta  
 asma - asma  
-aspirin - aspirina  
 astatin - ástato  
 astro - cuerpo celeste  
 astro nave - astronave (nave estelar)  
@@ -3729,11 +3728,3 @@ zuku di - étnico
 zuku medi di - interétnica  
 Zulu - zulú  
 zumarde - esmeralda  
- - el uno al otro (se)  
- - sobrestimar  
- - nevar  
- - conocido  
- - cargar  
- - lluvioso (pluvioso)  
- - llover  
- - adversario (oponente)  

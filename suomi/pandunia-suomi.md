@@ -203,7 +203,6 @@ asia - aasialainen
 Asia - Aasia  
 askete - askeett  
 asma - astma  
-aspirin - aspiriini  
 astatin - astatiini  
 astro - taivaankappale  
 astro nave - tähtialus  
@@ -3804,10 +3803,3 @@ zuku di - etninen
 zuku medi di - kansanryhmien välinen  
 Zulu - zulu  
 zumarde - smaragdi  
- - yliarvioida  
- - toimiva  
- - tietty (tunnettu)  
- - kuormata (lastata, ladata)  
- - sateinen  
- - sataa  
- - vastustaja (vihollinen)  

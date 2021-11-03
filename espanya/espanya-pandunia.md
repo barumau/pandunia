@@ -66,7 +66,6 @@ adormidera (amapola real) - sona papi
 adulterio - zina  
 adulto - matur  
 adverbo - mode loge  
-adversario (oponente) -   
 aeroplano - fei gi  
 aeropuerto - air porte  
 aeróbico - air bio di  
@@ -274,7 +273,6 @@ asombrar - fa ajibu
 asombro - ajibu  
 aspecto - rupa  
 aspiradora - fun chupa gi  
-aspirina - aspirin  
 Assur (Ashur) - Ashur  
 astrobiologia - kosmo bio logi  
 astronauta - astro nave ja  
@@ -579,7 +577,6 @@ cardo burral - pero kardon
 cardo mariano - milke kardon  
 carga (pesa) - karga  
 cargar (subir) - nete don  
-cargar -   
 cargar - fa karga  
 cargo - guan  
 Caribe - Karibe  
@@ -812,7 +809,6 @@ confundido - ruhu mishe di
 confundir (desconcertar, perplejo) - ruhu mishe  
 congelarse (helarse) - be ais  
 cono - kone  
-conocido -   
 consecuencia (siguiente) - pos  
 conseguir (obtener, recibir) - deku  
 consejero (asesor) - mentor  
@@ -1171,7 +1167,6 @@ ejército - gun
 el (la) - la  
 El Salvador - Salvador  
 el uno al otro (mutuamente) - semon  
-el uno al otro (se) -   
 elección - chuze  
 electricidad - eletro  
 electrón - eletron  
@@ -2040,9 +2035,7 @@ lleno (completo) - pul
 llevar (verstirse) - fuku  
 llorar - be duka  
 llorar - uhu  
-llover -   
 lluvia - shava  
-lluvioso (pluvioso) -   
 lo lejos - tele  
 lo menos - minim  
 lo más - masim  
@@ -2409,7 +2402,6 @@ nervio - nerve
 neural - nerve di  
 neurona - nerve selu  
 neuropatía - nerve pati  
-nevar -   
 newton (N) - niuton  
 neón - neon  
 Nicaragua - Nikaragua  
@@ -3264,7 +3256,6 @@ sitio web - nete loka
 situación - she hal  
 sobre - na supra  
 sobrepasar - be supra  
-sobrestimar -   
 social - sosi di  
 socialismo - sosi sim  
 socialismo nacional - nasi sosi sim  

@@ -74,7 +74,6 @@ asal di - 原始的
 asar - 影响  
 asha hin - 没有希望的  
 asma - 气喘  
-aspirin - 阿司匹林  
 astatin - 砹  
 astro - 天体  
 astro nave ja - 宇航员  
@@ -1438,5 +1437,3 @@ zou bagi - 动物园
 zou logi - 动物学  
 zuku - 民族  
 zumarde - 绿宝石 (祖母绿)  
- - 多雨  
- - 敌手  

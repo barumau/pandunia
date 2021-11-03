@@ -205,7 +205,6 @@ asia - Asian
 Asia - Asia  
 askete - ascetic  
 asma - asthma  
-aspirin - aspirin  
 astatin - astatine  
 astro - celestial body  
 astro nave - starship  
@@ -4121,11 +4120,3 @@ zuku di - ethnic
 zuku medi di - interethnic  
 Zulu - Zulu  
 zumarde - emerald  
- - overestimate  
- - snow (be snowing)  
- - valid (workable)  
- - known  
- - burden (load, encumber)  
- - rainy  
- - rain (pour down)  
- - adversary (antagonist, opponent)  

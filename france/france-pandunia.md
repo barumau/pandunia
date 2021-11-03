@@ -29,7 +29,6 @@ adjectif - sifa loga
 administrateur - politi ja  
 adresse - adres  
 adulte - matur  
-adversaire (antagoniste, ennemi) -   
 Afghanistan - Afgan  
 Afrique - Afrika  
 agent (faiseur) - karma ja  
@@ -143,7 +142,6 @@ ascète - askete
 asexué - an sekse di  
 asiatique - asia  
 Asie - Asia  
-aspirine - aspirin  
 assez - bas  
 Assur - Ashur  
 Assyrie - Ashur desha  
@@ -1244,7 +1242,6 @@ plume - pero kalam
 plurilingue (multilingue) - poli basha di  
 plus - mas  
 plutonium - pluton yum  
-pluvieux -   
 pneumonie - pulmon flam  
 pocion - dava sui  
 podzol - hui darte  
@@ -1508,7 +1505,6 @@ Suisse - Suise
 suivre - fa pos  
 sujet (thème) - tema  
 sunnisme - suna islam din  
-surestimer -   
 svastika (croix gammée) - huke krus  
 syllabe - loga fen  
 symétrie - sam metre  
