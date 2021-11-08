@@ -350,13 +350,41 @@ Also _resumptive relative pronoun_ can be used if needed.
 
 ## Content clauses
 
-A content clause can be placed before or after the clause that talks about it.
-The demonstrative **go** points to the following phrase, and **ni** points to the previous one.
+A content clause is a subordinate clause that provides content that is commented or referred to by its main clause.
+In Pandunia they are typically introduced with the conjunction
+**ki**.
 
-**go si bari, mi le no vide yemon.**
-– This is important: I haven't seen them.  
-**pan jen be egal sana, ni fate si klar.**
-– All people are created equal; that fact is clear.
+**mi sabe ki tu si dosti.**
+– I know that you are a friend.  
+**yemon fikir ki mimon le chuti.**
+– They think that we have left.
+
+A content clause can be placed before or after the clause that talks about it.
+The demonstrative
+**go**
+points to the following content clause and
+**la**
+points to the previous one.
+
+**go si bari, ki mi le no vide yemon.**
+– _It_ is important _that I haven't seen them_.  
+**ki pan jen be sana ka par, la si klar.**
+– _That all people are created as equals_; _it_ is clear.
+
+The content clause marker
+**ki**
+can be combined to the prepositions in order to construct conjunctions of cause and purpose.
+
+**do ki**
+– so that, in order that, with the result that  
+**ze ki**
+– because, for the reason that
+
+**mi duku ni buku _do ki_ mi transe la teste.**
+– I read this book so that I will pass the test.  
+**mi le transe la teste _ze ki_ mi duku la buku.**
+– I have passed the test because I read the book.
+
 
 --------------------------------------------------------------------------------
 
@@ -367,13 +395,7 @@ The demonstrative **go** points to the following phrase, and **ni** points to th
 **o**
 – or (connects two alternative words or phrases)  
 **a**
-– but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)  
-**ki**
-– that (introduces a clause which is the subject or object of a verb or is reported speech)  
-**do ki**
-– so that, in order that, with the result that  
-**ze ki**
-– because, for the reason that
+– but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
 **mi suka mau e vaf.**
 – I like cats and dogs.  
@@ -381,6 +403,8 @@ The demonstrative **go** points to the following phrase, and **ni** points to th
 – I like cats or dogs.  
 **mi suka mau a no vaf.**
 – I like cats but not dogs.
+
+
 
 --------------------------------------------------------------------------------
 
