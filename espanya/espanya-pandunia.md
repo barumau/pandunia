@@ -70,7 +70,7 @@ aeroplano - fei gi
 aeropuerto - air porte  
 aeróbico - air bio di  
 afecto (emoción) - emosi  
-Afganistán - Afgan  
+Afganistán - Afghan  
 afrontar - verse  
 agacharse - lipa side  
 agorafobia - medan fobi  
@@ -235,7 +235,7 @@ arma - arme
 arma nuclear - kerne arme  
 armadura - defa kaske  
 armario - almari  
-Armenia - Hayaki  
+Armenia - Haye  
 armonioso - harmoni  
 armonía - harmoni  
 arnés (arreos, jaeces) - harnes  
@@ -605,7 +605,7 @@ castigo - fatu
 castillo (fortaleza) - burge  
 castor - kastor  
 Cataluña - Katalunia  
-Catar (Qatar) - Katar  
+Catar (Qatar) - Qatar  
 cauri - kauri  
 causar - fa sabu  
 cavar (excavar) - fa kave  
@@ -1410,7 +1410,7 @@ fideo (tallarín) - mena
 fiebrie (calentura) - febre  
 fijar (pegar, asegurar) - fa fikse  
 Fiji - Fiji  
-Filipinas - Filipinas  
+Filipinas - Filipin  
 filosofía - filsofi  
 filosófico - filsofi di  
 filtro - filtre  
@@ -1532,8 +1532,8 @@ geografía - geo grafi
 geología - geo logi  
 geometría - geo metre  
 geopolítica - geo politi  
-Georgia (República de Georgia) - Kartvel  
-Georgias del Sur y Sándwich del Sur - Sude Jorjia e Sudi Sandviche nesi  
+Georgia (República de Georgia) - Kartuli  
+Georgias del Sur y Sándwich del Sur - Sude Jorjia e Sude Sanduiche nesi  
 geotérmico - geo termo  
 gerencia (dirección) - nomi  
 Germania - Germania  
@@ -1629,7 +1629,7 @@ hacha - futau
 hachís - hashish  
 hada - pari  
 hafnio - hafen yum  
-Haití - Haiti  
+Haití - Aiti  
 halo (aureola) - foto gola  
 hamaca - hamake  
 hambre - yam yau  
@@ -1833,16 +1833,16 @@ inyectar - jusha
 ion - ion  
 ir - ga  
 ira (furia) - furi ta  
-Iraq - Iraki  
+Iraq - Iraqi  
 iridio - iris yum  
-Irlanda - Aire  
+Irlanda - Eire  
 Irlanda del Norte - Norde Aire  
 ironía - ironi  
 Irán - Iran  
 irónico - ironi di  
 isla - nesi  
 Isla de Man - Manin nesi  
-Isla de San Vicente - Sante Vinsente  
+Isla de San Vicente - Sante Vincente  
 Isla Norfolk - Norfolke nesi  
 Isla Santa Elena - Sante Helena  
 islamismo (islam) - islam din  
@@ -1853,7 +1853,7 @@ islas Caimán - Kaiman nesi
 Islas Cocos (Islas Keeling) - Kokos nesi  
 Islas Cook - Kuke nesi  
 Islas Malvinas - Malvinas nesi  
-Islas Marianas - Marian nesi  
+Islas Marianas - Mariana nesi  
 Islas Marshall - Marshal nesi  
 Islas Pitcairn - Pitkerne nesi  
 Islas Salomón - Solomon nesi  
@@ -1912,7 +1912,7 @@ karaoke - karaoke
 karate - karate  
 karité - karite  
 Karnataka - Karnada  
-Kazajistán (Kazakistan) - Kazake  
+Kazajistán (Kazakistan) - Qazaqe  
 kelp - yepa alga  
 kelvin - kelvin  
 Kenia - Kenya  
@@ -1924,7 +1924,7 @@ kiwi fruta - kivi
 konkani - Konkani  
 Kosovo - Kosovo  
 kumquat (quinoto) - gingam  
-Kuwait - Kuvaitia  
+Kuwait - Kuvaite  
 kétchup - kechape  
 ####L - L  
 labio - labi  
@@ -2341,7 +2341,7 @@ musgoso - mos di
 musulmán - islam din ja  
 mutuo (recíproco) - semon su  
 muy - tre  
-Myanmar (Birmania) - Myanma  
+Myanmar (Birmania) - Mianma  
 máquina (dispositivo, aparato) - gi  
 máquina de escribir - kitabu gi  
 más - mas  
@@ -3029,7 +3029,7 @@ repetir - fa re
 reportar - fa reporte  
 representación (figura) - figur  
 representar - vakil  
-Republica Dominicana - Dominika Komunkrati  
+Republica Dominicana - Dominika Komun krati  
 repuesta (contestación) - javabu  
 República Centroafricana - Jong Afrika Komun krati  
 República Checa - Cheska  
@@ -3158,13 +3158,13 @@ Samoa Americana - Amerika Samoa
 San Cristóbal - Sante Kitse  
 San Cristóbal y Nieves - Sante Kitse e Nevis  
 San Marino - Sante Marino  
-San Vicente y las Granadinas - Sante Vinsente e Grenadine  
+San Vicente y las Granadinas - Sante Vincente e Grenadin  
 sandía (patilla) - arbuza  
 sangrar - lou sang  
 sangre - sange  
-Santa Lucía - Sante Lusia  
+Santa Lucía - Sante Lucia  
 Santa Sede (Estado de la Ciudad del Vaticano) - Vatikan  
-Santo Tomé y Príncipe - Sante Tome e Prinsipe  
+Santo Tomé y Príncipe - Sante Tome e Principe  
 saquear (desvalijar, robar) - luta  
 sartén - tava  
 satanismo - shatan din  
@@ -3297,7 +3297,7 @@ sudoroso (sudado) - sueda di
 Sudáfrica - Sude Afrika  
 Sudán - Sudan  
 Sudán del Sur - Sude Sudan  
-Suecia - Sven  
+Suecia - Suen  
 suegra - gami ma  
 suegro - gami pa  
 sueño - sona  
@@ -3551,7 +3551,7 @@ uranio - uran yum
 Urano - Uran  
 urbano - nagar di  
 urdu - urdu  
-Uruguay - Uruguay  
+Uruguay - Uruguai  
 usar (aplicar) - uze  
 uso (utilidad, beneficio) - faida  
 ustedes - tumon  

@@ -29,7 +29,7 @@ adjectif - sifa loga
 administrateur - politi ja  
 adresse - adres  
 adulte - matur  
-Afghanistan - Afgan  
+Afghanistan - Afghan  
 Afrique - Afrika  
 agent (faiseur) - karma ja  
 agent pathogène - pati jene she  
@@ -742,7 +742,7 @@ hameçon - peshe huke
 hassium - hese yum  
 haut - gau  
 hautes technologies - gau tehni  
-Haïti - Haiti  
+Haïti - Aiti  
 hein? - he  
 henné - hina  
 herbe (gazon) - gazo  
@@ -809,7 +809,7 @@ inutile - an yau di
 inverse (négatif, in-) - an  
 iode - iode  
 iridium - iris yum  
-Irland - Aire  
+Irland - Eire  
 ironie - ironi  
 Islam - islam din  
 ####J - J  

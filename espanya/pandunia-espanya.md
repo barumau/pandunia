@@ -13,7 +13,7 @@ adil - justo
 adil ta - justicia  
 adres - dirección  
 adres zi - arroba (@)  
-Afgan - Afganistán  
+Afghan - Afganistán  
 Afrika - África  
 agile - ágil  
 agresi - ataque  
@@ -26,7 +26,7 @@ air gun - fuerza aérea
 air porte - aeropuerto  
 air presa - presión atmosférica  
 air presa metre gi - barómetro  
-Aire - Irlanda  
+Eire - Irlanda  
 ais - hielo  
 ais di - cubierto de hielo  
 ais hoki - hockey sobre hielo  
@@ -668,7 +668,7 @@ dom desha - patria
 dom di - doméstico (domesticado)  
 dom zeze - mosco  
 Dominika - Dominica  
-Dominika Komunkrati - Republica Dominicana  
+Dominika Komun krati - Republica Dominicana  
 domino gem - dominó  
 don - dar  
 don she - regalo (obsequio)  
@@ -1069,7 +1069,7 @@ fikir - idea (pensamiento, reflexión)
 fikse - accesorio (afijo)  
 fili - attracción (-filia)  
 fili ja - fan (-filo)  
-Filipinas - Filipinas  
+Filipin - Filipinas  
 Filistin - Palestina  
 filme - película (film, membrana)  
 filsofi - filosofía  
@@ -1353,7 +1353,7 @@ hai jele - medusa
 hai kinar - costa (orilla)  
 hai porte - puerto marítimo  
 haide - vamos a  
-Haiti - Haití  
+Aiti - Haití  
 haki - derecho  
 hal - estado (condición)  
 halal - permitido (admisible)  
@@ -1398,7 +1398,7 @@ hava - soplar (echar)
 hava - viento  
 Havai - Hawái  
 Havai nesi - archipiélago de Hawái  
-Hayaki - Armenia  
+Haye - Armenia  
 he - cómo? (eh?)  
 Helen - Grecia  
 Helen - griego (helénico)  
@@ -1528,7 +1528,7 @@ iode - yodo (iodo)
 ion - ion  
 ion radi - radiación ionizante  
 ion radi di - radiactivo  
-Iraki - Iraq  
+Iraqi - Iraq  
 Iran - Irán  
 iris yum - iridio  
 ironi - ironía  
@@ -1739,7 +1739,7 @@ karote - zanahoria
 karse - áspero (basto)  
 karse limon - combava (lima kafir)  
 karte - tarjeta (carta)  
-Kartvel - Georgia (República de Georgia)  
+Kartuli - Georgia (República de Georgia)  
 karvan - caravana  
 kas - acontecimiento (caso, suceso, evento)  
 kaske - carapacho (cáscara, concha, corteza, capa)  
@@ -1748,13 +1748,13 @@ kastor - castor
 kata - historia (cuento, relato, leyenda)  
 Katalunia - Cataluña  
 katana - espada  
-Katar - Catar (Qatar)  
+Qatar - Catar (Qatar)  
 katus - cacto  
 Kaukasia - Cáucaso  
 kauri - cauri  
 kavai - lindo (precioso)  
 kave - fosa  
-Kazake - Kazajistán (Kazakistan)  
+Qazaqe - Kazajistán (Kazakistan)  
 ke - qué  
 ke jen - quién  
 ke multi di - cuántos  
@@ -1943,7 +1943,7 @@ kurva di - curvo
 kush - acostar (poner)  
 kush - acostarse (echarse, tenderse, tumbarse)  
 kushen - almohada  
-Kuvaitia - Kuwait  
+Kuvaite - Kuwait  
 ####L - L  
 la - el (la)  
 laba - clarín (corneta)  
@@ -2153,7 +2153,7 @@ marche - marcha
 margai - gato tigre (maracayá)  
 margarin - margarina  
 margarita - margarita  
-Marian nesi - Islas Marianas  
+Mariana nesi - Islas Marianas  
 marke - marca (huella, mancha)  
 Marse - Marte  
 Marshal nesi - Islas Marshall  
@@ -2376,7 +2376,7 @@ musli - muesli
 mute - cambiar  
 muzika - música  
 muzika ja - músico  
-Myanma - Myanmar (Birmania)  
+Mianma - Myanmar (Birmania)  
 ####N - N  
 na - en (a)  
 na go - allí (allá)  
@@ -3028,11 +3028,11 @@ Sante Helena - Isla Santa Elena
 sante kanon - sagrada escritura  
 Sante Kitse - San Cristóbal  
 Sante Kitse e Nevis - San Cristóbal y Nieves  
-Sante Lusia - Santa Lucía  
+Sante Lucia - Santa Lucía  
 Sante Marino - San Marino  
-Sante Tome e Prinsipe - Santo Tomé y Príncipe  
-Sante Vinsente - Isla de San Vicente  
-Sante Vinsente e Grenadine - San Vicente y las Granadinas  
+Sante Tome e Principe - Santo Tomé y Príncipe  
+Sante Vincente - Isla de San Vicente  
+Sante Vincente e Grenadin - San Vicente y las Granadinas  
 sapatu - zapato  
 sapatu ja - zapatero  
 sapatu kan - zapatería  
@@ -3268,7 +3268,7 @@ Sude Amerika - Sudamérica
 Sude Chosen - Corea del Sur  
 sude di - sureño  
 Sude Iria (Alonia) - Osetia del Sur  
-Sude Jorjia e Sudi Sandviche nesi - Georgias del Sur y Sándwich del Sur  
+Sude Jorjia e Sude Sanduiche nesi - Georgias del Sur y Sándwich del Sur  
 Sude Sudan - Sudán del Sur  
 sueda - sudor  
 sueda di - sudoroso (sudado)  
@@ -3316,7 +3316,7 @@ susan - lirio
 sushi - sushi  
 suta - dotes (arte, habilidad)  
 sutur - costura (sutura)  
-Sven - Suecia  
+Suen - Suecia  
 ####T - T  
 ta - -idad  
 tabaku - tabaco  
@@ -3499,7 +3499,7 @@ Uran - Urano
 uran yum - uranio  
 urdu - urdu  
 Urdun - Jordania  
-Uruguay - Uruguay  
+Uruguai - Uruguay  
 Uzbeki - Uzbekistán  
 uze - usar (aplicar)  
 uze bil di - utilizable (disponible)  

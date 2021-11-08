@@ -39,7 +39,7 @@ adil kan - court of justice
 adil ta - justice  
 adres - address  
 adres zi - @ symbol  
-Afgan - Afghanistan  
+Afghan - Afghanistan  
 Afrika - Africa  
 agile - agile  
 agresi - attack (assault, aggression, hostility)  
@@ -52,7 +52,7 @@ air gun - airforce
 air porte - airport (aeroport)  
 air presa - atmospheric pressure  
 air presa metre gi - barometer  
-Aire - Ireland  
+Eire - Ireland  
 ais - ice  
 ais di - icy  
 ais hoki - ice hockey  
@@ -771,7 +771,7 @@ dom desha - homeland
 dom di - domestic (tame)  
 dom zeze - housefly  
 Dominika - Dominica  
-Dominika Komunkrati - Dominican Republic  
+Dominika Komun krati - Dominican Republic  
 domino gem - dominoes  
 don - give  
 don she - gift  
@@ -1224,7 +1224,7 @@ fikir - thought (idea)
 fikse - attachment (affix)  
 fili - attraction (fascination, -philia)  
 fili ja - fan (-phile)  
-Filipinas - Philippines  
+Filipin - Philippines  
 Filistin - Palestinian Territory  
 filme - film (membrane, video)  
 filsofi - philosophy  
@@ -1532,7 +1532,7 @@ hai jele - jellyfish (seajelly)
 hai kinar - shore (coast, beach)  
 hai porte - harbor (seaport)  
 haide - let's  
-Haiti - Haiti  
+Aiti - Haiti  
 haki - right (entitlement)  
 hal - state (condition, status, situation)  
 halal - permissible (allowed, halal)  
@@ -1579,7 +1579,7 @@ hava - blow
 hava - wind  
 Havai - Hawaii  
 Havai nesi - Hawaiian archipelago  
-Hayaki - Armenia  
+Haye - Armenia  
 he - huh? (eh?, pardon?)  
 Helen - Greece  
 Helen - Greek (Hellenic)  
@@ -1721,7 +1721,7 @@ iode - iodine
 ion - ion  
 ion radi - radioactivity (ionizing radiation)  
 ion radi di - radioactive  
-Iraki - Iraq  
+Iraqi - Iraq  
 Iran - Iran  
 iris yum - iridium  
 ironi - irony  
@@ -1957,7 +1957,7 @@ karote - carrot
 karse - rough (coarse)  
 karse limon - makrut lime (kaffir lime)  
 karte - card  
-Kartvel - Georgia (Republic of Georgia)  
+Kartuli - Georgia (Republic of Georgia)  
 karvan - caravan (convoy)  
 kas - event (case, instance)  
 kasa - box (container)  
@@ -1967,13 +1967,13 @@ kastor - beaver
 kata - tale (story, legend, saga)  
 Katalunia - Catalonia  
 katana - sword  
-Katar - Qatar  
+Qatar - Qatar  
 katus - cactus  
 Kaukasia - Caucasia  
 kauri - cowrie  
 kavai - cute (sweet)  
 kave - pit (excavation, cavity)  
-Kazake - Kazakhstan  
+Qazaqe - Kazakhstan  
 ke - what?  
 ke jen - who?  
 ke multi di - how many?  
@@ -2185,7 +2185,7 @@ kush - lay (lay down)
 kush - lie (lie down)  
 kush loka - berth (couchette)  
 kushen - cushion (pillow)  
-Kuvaitia - Kuwait  
+Kuvaite - Kuwait  
 ####L - L  
 la - the (that)  
 laba - bugle (horn instrument)  
@@ -2413,7 +2413,7 @@ marche - walk (march)
 margai - margay  
 margarin - margarine  
 margarita - daisy  
-Marian nesi - Northern Mariana Islands  
+Mariana nesi - Northern Mariana Islands  
 marke - mark (trace)  
 Marse - Mars  
 Marshal nesi - Marshall Islands  
@@ -2649,7 +2649,7 @@ musli - muesli
 mute - change (alter, convert)  
 muzika - music  
 muzika ja - musician  
-Myanma - Myanmar (Burma)  
+Mianma - Myanmar (Burma)  
 ####N - N  
 na - by (at, in, on)  
 na go - there  
@@ -3352,12 +3352,12 @@ Sante Helena - Saint Helena
 sante kanon - holy writ (sacred writings)  
 Sante Kitse - Saint Kitts  
 Sante Kitse e Nevis - Saint Kitts and Nevis  
-Sante Lusia - Saint Lucia  
+Sante Lucia - Saint Lucia  
 Sante Marino - San Marino  
 Sante Paulo - Sao Paulo  
-Sante Tome e Prinsipe - Sao Tome and Principe  
-Sante Vinsente - Saint Vincent  
-Sante Vinsente e Grenadine - Saint Vincent and Grenadines  
+Sante Tome e Principe - Sao Tome and Principe  
+Sante Vincente - Saint Vincent  
+Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sapatu - chaussure  
 sapatu ja - shoemaker  
 sapatu kan - shoemaker's shop  
@@ -3613,7 +3613,7 @@ Sude Amerika - South America
 Sude Chosen - South Korea (Republic of Korea)  
 sude di - southern  
 Sude Iria (Alonia) - South Ossetia (Alania)  
-Sude Jorjia e Sudi Sandviche nesi - South Georgia and the South Sandwich Islands  
+Sude Jorjia e Sude Sanduiche nesi - South Georgia and the South Sandwich Islands  
 Sude Sudan - South Sudan  
 sueda - sweat (perspiration)  
 sueda di - sweaty  
@@ -3664,7 +3664,7 @@ sushi - sushi
 suta - skill (art, craft)  
 suta tabi - skillful (crafty)  
 sutur - suture (seam)  
-Sven - Sweden  
+Suen - Sweden  
 ####T - T  
 ta - -ness, (-ity)  
 tabaku - tobacco  
@@ -3862,7 +3862,7 @@ Uran - Uranus
 uran yum - uranium  
 urdu - Urdu  
 Urdun - Jordan  
-Uruguay - Uruguay  
+Uruguai - Uruguay  
 Urushalem - Jerusalem  
 Uzbeki - Uzbekistan  
 uze - use (employ, apply)  

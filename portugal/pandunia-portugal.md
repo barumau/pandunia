@@ -8,7 +8,7 @@ ada - costume (hábito)
 adil - justo  
 adil ta - justiça  
 adres - endereço  
-Afgan - Afeganistão  
+Afghan - Afeganistão  
 agile - ágil  
 agresi - ataque  
 agresi ja - agressor  

@@ -21,7 +21,7 @@ abyssinialainen - habasha
 adjektiivi (laatusana) - sifa loga  
 adverbi - mode loge  
 aerobinen - air bio di  
-Afganistan - Afgan  
+Afganistan - Afghan  
 Afrikka - Afrika  
 agorafobia (avaran paikan kammo) - medan fobi  
 agronomia (maatalous) - nong nomi  
@@ -149,7 +149,7 @@ arkkitehti - bina plan ja
 arkkitehtuuri - bina plan  
 Arktis - Artika  
 armeija (sotajoukko) - gun  
-Armenia - Hayaki  
+Armenia - Haye  
 aromanttinen - an romanse  
 arseeni - arsen yum  
 artesaani (käsityöläinen) - jiang ja  
@@ -316,7 +316,7 @@ Djiboutia - Jibuti
 dokumenttielokuva - dokumen filme  
 dollari - dolar  
 Dominika - Dominika  
-Dominikaaninen Tasavalta - Dominika Komunkrati  
+Dominikaaninen Tasavalta - Dominika Komun krati  
 dominopeli - domino gem  
 draama - drama  
 dualismi - du she sim  
@@ -462,7 +462,7 @@ feminismi - fem sim
 feministi - fem sim ja  
 fermium - fermi yum  
 Fidži - Fiji  
-Filippiinit - Filipinas  
+Filippiinit - Filipin  
 filmi - filme  
 filosofi - filsofi ja  
 filosofia - filsofi  
@@ -494,7 +494,7 @@ gaselli - gazel
 geologia (maaperäntutkimus) - geo logi  
 geometria - geo metre  
 geopolitiikka - geo politi  
-Georgia - Kartvel  
+Georgia - Kartuli  
 geoterminen (maalämpö-) - geo termo  
 Germania - Germania  
 germanium - german yum  
@@ -529,7 +529,7 @@ hafnium - hafen yum
 hahmo (figuuri) - figur  
 haista - aroma  
 haistaa - aroma  
-Haiti - Haiti  
+Haiti - Aiti  
 hajalla - perishe di  
 hajanainen - an jama di  
 hajauttaa - an jama  
@@ -809,10 +809,10 @@ Intian valtameri - Barti Hai
 introspektio - in vide  
 Io - Io  
 ioni - ion  
-Irak - Iraki  
+Irak - Iraqi  
 Iran - Iran  
 iridium - iris yum  
-Irlanti - Aire  
+Irlanti - Eire  
 ironia - ironi  
 ironinen - ironi di  
 irvistys - grimas  
@@ -1089,7 +1089,7 @@ kaupunki - nagar
 kaupunki - siti  
 kaura - ave  
 kaveriton - dosti hin  
-Kazakstan - Kazake  
+Kazakstan - Qazaqe  
 kebab (grilliliha) - kababu nama  
 kehitys - darja mute  
 keho (ruumis) - badan  
@@ -1418,7 +1418,7 @@ kuvanveisto - eskulte suta
 kuvanveistäjä - eskulte ja  
 kuvaruutu - ekran  
 kuvitella - fa fantazi  
-Kuwait - Kuvaitia  
+Kuwait - Kuvaite  
 kvadriljoona (jotta-) - yota  
 kykenevä (voiva) - bil ja  
 kyllä - ya  
@@ -1972,7 +1972,7 @@ muuttaa (siirtää) - fa migra
 muuttaa (tehdä eriksi) - fa alo  
 muuttaa maahan - in migra  
 muutto (migraatio) - migra  
-Myanmar (Burma) - Myanma  
+Myanmar (Burma) - Mianma  
 myky (pelmeni, ravioli) - pelmen  
 mylly - mol kan  
 myllynkivi - mol seku  
@@ -2574,7 +2574,7 @@ pölynimuri - fun chupa gi
 pöytä - meza  
 pöytäliina - meza tela  
 pöö! - bu!  
-Qatar - Katar  
+Qatar - Qatar  
 ####R - R  
 Raamattu - Biblia  
 raamatullinen - Biblia di  
@@ -2695,7 +2695,7 @@ ruokalusikka - supa chamacha
 ruokasali - yam kamar  
 ruoko - gana  
 ruokokynä - gana kalam  
-Ruotsi - Sven  
+Ruotsi - Suen  
 rusina - gan putau  
 ruskea - kafe rang  
 rutenium - rus yum  
@@ -2731,7 +2731,7 @@ sahrami - safran
 Saint Helena - Sante Helena  
 Saint Kitts - Sante Kitse  
 Saint Kitts ja Nevis - Sante Kitse e Nevis  
-Saint Lucia - Sante Lusia  
+Saint Lucia - Sante Lucia  
 saippua - sabun  
 sairas - pati di  
 sairaus (tauti) - pati  
@@ -2763,7 +2763,7 @@ sankaritaru (legenda) - hero kata
 sanko (ämpäri) - baldi  
 sanoa (puhua) - loga  
 sanomalehti - habar gazeta  
-Sao Tome ja Principe - Sante Tome e Prinsipe  
+Sao Tome ja Principe - Sante Tome e Principe  
 sapatti - sabate  
 sarana - sharnir  
 sarja - sili  
@@ -3428,7 +3428,7 @@ urhea (sankarillinen) - hero di
 urheilija - esporte ja  
 urheilu - esporte  
 uros (mies) - man  
-Uruguai - Uruguay  
+Uruguai - Uruguai  
 usein - na poli mar  
 usko (luottamus) - sina  
 uskoa (luottaa) - fa sina  

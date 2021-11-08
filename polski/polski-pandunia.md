@@ -7,7 +7,7 @@ abisyński - habasha
 aborygeński - asal Australia jen  
 admirał - hai amir ja  
 adres - adres  
-Afganistan - Afgan  
+Afganistan - Afghan  
 Afryka - Afrika  
 agorafobia - medan fobi  
 agresywny - agresi tabi  
@@ -84,7 +84,7 @@ argument - argu
 argument, teza - tese  
 arka Noego - Noe di nave  
 Arktyka - Artika  
-Armenia - Hayaki  
+Armenia - Haye  
 armia - gun  
 aromantyczny - an romanse  
 arsen - arsen yum  
@@ -642,7 +642,7 @@ ferm - fermi yum
 fermentować - be bio mute  
 Fidżi - Fiji  
 figura, reprezentacja - figur  
-Filipiny - Filipinas  
+Filipiny - Filipin  
 filiżanka do kawy - kafe kupa  
 film - filme  
 filozof - filsofi ja  
@@ -763,7 +763,7 @@ grunt (ziemia, próchnica) - darte
 grupa - grupe  
 grupa etniczna - zuku  
 gruszka - pera  
-Gruzja (Republika Gruzji) - Kartvel  
+Gruzja (Republika Gruzji) - Kartuli  
 grymas - grimas  
 grzebień - kanga  
 grzyb - fungu  
@@ -805,7 +805,7 @@ głębokość - fase tele ta
 ####H - H  
 haczyk - peshe huke  
 hafn - hafen yum  
-Haiti - Haiti  
+Haiti - Aiti  
 hak - huke  
 halo, cześć - halo  
 hamak - hamake  
@@ -913,9 +913,9 @@ interesujący - sabe vol di
 interfejs - medi fase  
 internet - internete  
 inżynier - enjener  
-Irak - Iraki  
+Irak - Iraqi  
 Iran - Iran  
-Irlandia - Aire  
+Irlandia - Eire  
 Irlandia Północna - Norde Aire  
 ironia - ironi  
 ironia dramatyczna - drama ironi  
@@ -1052,12 +1052,12 @@ kasta - jene klas
 kaszel; kaszlnięcie - koso  
 kasztan - kastana  
 Katalonia - Katalunia  
-Katar - Katar  
+Katar - Qatar  
 Kaukazja - Kaukasia  
 kauri - kauri  
 kawa - kafe  
 kawiarnia - kafe kan  
-Kazachstan - Kazake  
+Kazachstan - Qazaqe  
 kałamarnica (mątwa) - kalmar  
 każdy człowiek, wszyscy - pan jen  
 każdy, wszyscy - pan un  
@@ -1260,7 +1260,7 @@ kurtka - jake
 kusić, nakłonić, nakłaniać - tenta  
 kusza (balista) - krus arka  
 kuszetka (koja) - kush loka  
-Kuwejt - Kuvaitia  
+Kuwejt - Kuvaite  
 kuzyn - chin brus ben  
 kwadrat (czworokąt, czworobok, tetragon) - nelu gona  
 kwarc - kuarze  
@@ -1416,7 +1416,7 @@ maraton - maraton
 marchew - karote  
 margaj (ocelot nadrzewny) - margai  
 margaryna - margarin  
-Mariany Północne - Marian nesi  
+Mariany Północne - Mariana nesi  
 marmur - kalsi bilor  
 Maroko - Magribi desha  
 Mars - Marse  
@@ -1529,7 +1529,7 @@ miłośnik (fan, -fil) - fili ja
 miłość (afekt) - ama  
 miłość romantyczna - romanse  
 miły, przyjemny, uroczy - hushi  
-Mjanma, Birma - Myanma  
+Mjanma, Birma - Mianma  
 mlecz - makan hua  
 mleko - milke  
 mleko sojowe - soi milke  
@@ -2408,7 +2408,7 @@ reprezentant (przedstawiciel) - vakil ja
 reprezentować - vakil  
 republika - komun krati  
 Republika Czeska, Czechy - Cheska  
-Republika Dominikańska (Dominikana) - Dominika Komunkrati  
+Republika Dominikańska (Dominikana) - Dominika Komun krati  
 Republika Konga - Brazavil Kongo  
 Republika Macedonii, Macedonia - Norde Makedonia  
 Republika Środkowoafrykańska - Jong Afrika Komun krati  
@@ -2539,9 +2539,9 @@ sago - sagu
 Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna) - Sahara Desha  
 Saint Kitts - Sante Kitse  
 Saint Kitts i Nevis - Sante Kitse e Nevis  
-Saint Lucia - Sante Lusia  
-Saint Vincent - Sante Vinsente  
-Saint Vincent and Grenadines - Sante Vinsente e Grenadine  
+Saint Lucia - Sante Lucia  
+Saint Vincent - Sante Vincente  
+Saint Vincent and Grenadines - Sante Vincente e Grenadin  
 Saint Vincent i Grenadyny - Valis e Futuna nesi  
 Salwador - Salvador  
 sam, siebie - se  
@@ -2812,7 +2812,7 @@ sztylet (puginał) - kanjar
 szuflada - tire sanduku  
 szukać - soki  
 Szwajcaria - Suise  
-Szwecja - Sven  
+Szwecja - Suen  
 szyb górniczy - kuanga tunel  
 szybki, prędki - rapide  
 szyism - shia islam din  
@@ -3046,7 +3046,7 @@ urodziny - jene den
 urodzić się, rodzić się - be jene  
 urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić - fa jene  
 urosnąć, rosnąć, wzrosnąć, wzrastać - be dai  
-Urugwaj - Uruguay  
+Urugwaj - Uruguai  
 urząd, pozycja, stanowisko, funkcja - guan  
 usiąść - side  
 uskok - geo kaske krake  
@@ -3267,12 +3267,12 @@ Wyspa Man - Manin nesi
 Wyspy Alandzkie - Olande nesi  
 Wyspy Cooka - Kuke nesi  
 Wyspy Dziewicze US####A - Virjin nesi  
-Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia e Sudi Sandviche nesi  
+Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia e Sude Sanduiche nesi  
 Wyspy Kokosowe - Kokos nesi  
 Wyspy Marshalla - Marshal nesi  
 Wyspy Salomona - Solomon nesi  
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde  
-Wyspy Świętego Tomasza i Książęca - Sante Tome e Prinsipe  
+Wyspy Świętego Tomasza i Książęca - Sante Tome e Principe  
 wystarczający - bas  
 wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete don  
 wysłać (wyemitować) - mise  

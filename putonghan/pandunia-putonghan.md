@@ -9,7 +9,7 @@ ada - 习惯 (风俗)
 adil - 公正地  
 adil ta - 正义  
 adres - 地址  
-Afgan - 阿富汗  
+Afghan - 阿富汗  
 agile - 灵活的  
 agresi - 攻击  
 agresi ja - 侵略者  

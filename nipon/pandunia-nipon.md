@@ -4,7 +4,7 @@ abies - モミ
 achar - 漬物  
 acini yum - アクチニウム  
 ada - 習慣 (風俗)  
-Afgan - アフガニスタン  
+Afghan - アフガニスタン  
 air - 空気  
 air bio di - 好気性  
 air gun - 空軍  
@@ -273,7 +273,7 @@ dolfin - イルカ (ドルフィン)
 dom - 家  
 dom - 家  
 dom desha - 祖国  
-Dominika Komunkrati - ドミニカ共和国  
+Dominika Komun krati - ドミニカ共和国  
 don - あげる (くれる)  
 dong - 東  
 dong gorila - ヒガシゴリラ  

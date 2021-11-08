@@ -22,7 +22,7 @@ administrador - politi ja
 aeite (óleo) - nefte  
 aeroporto - air porte  
 aeróbico - air bio di  
-Afeganistão - Afgan  
+Afeganistão - Afghan  
 agacharse - lipa side  
 agente - karma ja  
 agressor - agresi ja  

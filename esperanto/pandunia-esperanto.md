@@ -9,7 +9,7 @@ ada - kutimo
 adil - justa  
 adil ta - justeco  
 adres - adreso  
-Afgan - Afganujo, Afganio  
+Afghan - Afganujo, Afganio  
 Afrika - Afriko  
 agile - lerta  
 agresi - atako (agreso)  
@@ -588,7 +588,7 @@ festa - festo
 figur - figuro  
 fikir - pensi  
 fikir - penso  
-Filipinas - Filipinoj  
+Filipin - Filipinoj  
 filme - filmo  
 filsofi - filozofio  
 filsofi di - filozofia  
@@ -749,7 +749,7 @@ hai di - mara
 hai gun - mararmeo  
 hai porte - haveno  
 haide - ni faru...  
-Haiti - Haitio  
+Aiti - Haitio  
 haki - rajto  
 hal - stato  
 hali - malplena  
@@ -851,7 +851,7 @@ insan sim - homismo
 insulte - insulto  
 iode - jodo  
 ion - iono  
-Iraki - Irakio  
+Iraqi - Irakio  
 Iran - Iranio  
 iris yum - iridio  
 islam din - islamo  
@@ -1272,7 +1272,7 @@ musli - muslio
 mute - aliigi  
 muzika - muziko  
 muzika ja - muzikisto  
-Myanma - Birmo  
+Mianma - Birmo  
 ####N - N  
 na - ĉe (en, sur)  
 na go - tie  

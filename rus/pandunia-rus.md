@@ -9,7 +9,7 @@ ada - обычай (привычка)
 adil - справедливый  
 adil ta - справедливость  
 adres - адрес  
-Afgan - Афганистан  
+Afghan - Афганистан  
 agile - подвижный  
 agresi - нападение (атака, агрессия)  
 agresi ja - агрессор  
@@ -319,7 +319,7 @@ dom - дом
 dom desha - родина (отечество)  
 dom di - домашний  
 dom zeze - муха  
-Dominika Komunkrati - Доминиканская Республика  
+Dominika Komun krati - Доминиканская Республика  
 don tabi - щедрый  
 dong - восток (ост)  
 dong gorila - восточная горилла  

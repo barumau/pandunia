@@ -39,7 +39,7 @@ adil kan - oikeus (käräjätalo)
 adil ta - oikeus  
 adres - osoite  
 adres zi - @-merkki  
-Afgan - Afganistan  
+Afghan - Afganistan  
 Afrika - Afrikka  
 agile - ketterä  
 agresi - hyökkäys (päällekarkaus, aggressio)  
@@ -52,7 +52,7 @@ air gun - ilmavoimat
 air porte - lentoasema (lentokenttä)  
 air presa - ilmanpaine  
 air presa metre gi - ilmapuntari (ilmanpainemittari, barometri)  
-Aire - Irlanti  
+Eire - Irlanti  
 ais - jää  
 ais di - jäinen  
 ais hoki - jääkiekko  
@@ -764,7 +764,7 @@ dom desha - kotimaa
 dom di - koti-  
 dom zeze - kärpänen  
 Dominika - Dominika  
-Dominika Komunkrati - Dominikaaninen Tasavalta  
+Dominika Komun krati - Dominikaaninen Tasavalta  
 domino gem - dominopeli  
 don - antaa  
 don she - lahja  
@@ -1209,7 +1209,7 @@ fikir - ajatus
 fikse - kiinnitys  
 fili - tykkääminen  
 fili ja - fani (-fiili)  
-Filipinas - Filippiinit  
+Filipin - Filippiinit  
 Filistin - Palestiina  
 filme - filmi  
 filsofi - filosofia  
@@ -1513,7 +1513,7 @@ hai jele - meduusa
 hai kinar - merenranta  
 hai porte - satama  
 haide - tehkäämme  
-Haiti - Haiti  
+Aiti - Haiti  
 haki - oikeus (oikeutus)  
 hal - tila (tilanne, seikka)  
 halal - sallittu (hyväksytty)  
@@ -1559,7 +1559,7 @@ hava - tuulla (puhaltaa)
 hava - tuuli (puhallus)  
 Havai - Havaiji  
 Havai nesi - Havaijin saaret  
-Hayaki - Armenia  
+Haye - Armenia  
 he - häh (-ko, -kö)  
 Helen - Kreikka  
 Helen - kreikkalainen  
@@ -1699,7 +1699,7 @@ iode - jodi
 ion - ioni  
 ion radi - radioaktiivisuus  
 ion radi di - radioaktiivinen  
-Iraki - Irak  
+Iraqi - Irak  
 Iran - Iran  
 iris yum - iridium  
 ironi - ironia  
@@ -1896,7 +1896,7 @@ Karnada - Karnataka (Intian osavaltio)
 karnada basha - kannada (eräs intialainen kieli)  
 karote - porkkana  
 karte - kortti  
-Kartvel - Georgia  
+Kartuli - Georgia  
 karvan - karavaani (saattue)  
 kas - tapaus (seikka)  
 kasa - laatikko  
@@ -1906,13 +1906,13 @@ kastor - majava
 kata - kertomus (tarina, saaga)  
 Katalunia - Katalonia  
 katana - miekka  
-Katar - Qatar  
+Qatar - Qatar  
 katus - kaktus  
 Kaukasia - Kaukasia  
 kauri - posliinikotilo  
 kavai - söpö (suloinen)  
 kave - kuoppa (kolo)  
-Kazake - Kazakstan  
+Qazaqe - Kazakstan  
 ke - mikä? (mitä?)  
 ke jen - kuka?  
 ke multi di - montako? (paljonko?)  
@@ -2099,7 +2099,7 @@ kurva di - mutkikas
 kush - panna jkn maate  
 kush - maata (makoilla)  
 kushen - tyyny  
-Kuvaitia - Kuwait  
+Kuvaite - Kuwait  
 ####L - L  
 la - se  
 laba - torvi (torvisoitin)  
@@ -2496,7 +2496,7 @@ musli - mysli
 mute - muuttaa (muuntaa)  
 muzika - musiikki  
 muzika ja - muusikko  
-Myanma - Myanmar (Burma)  
+Mianma - Myanmar (Burma)  
 ####N - N  
 na - luona (-lla, -ssa)  
 na go - tuolla  
@@ -3103,9 +3103,9 @@ Sante Helena - Saint Helena
 sante kanon - pyhä kirja (pyhät kirjoitukset)  
 Sante Kitse - Saint Kitts  
 Sante Kitse e Nevis - Saint Kitts ja Nevis  
-Sante Lusia - Saint Lucia  
+Sante Lucia - Saint Lucia  
 Sante Marino - San Marino  
-Sante Tome e Prinsipe - Sao Tome ja Principe  
+Sante Tome e Principe - Sao Tome ja Principe  
 sapatu - kenkä  
 sapatu ja - suutari  
 sapatu kan - suutarin paja  
@@ -3367,7 +3367,7 @@ susan - lilja
 sushi - sushi  
 suta - taito  
 sutur - sauma (ommel)  
-Sven - Ruotsi  
+Suen - Ruotsi  
 ####T - T  
 tabaku - tupakka  
 tabi - luonto  
@@ -3554,7 +3554,7 @@ Uran - Uranus
 uran yum - uraani  
 urdu - urdu  
 Urdun - Jordania  
-Uruguay - Uruguai  
+Uruguai - Uruguai  
 Urushalem - Jerusalem  
 Uzbeki - Uzbekistan  
 uze - käyttää  

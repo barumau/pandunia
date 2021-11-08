@@ -50,7 +50,7 @@ advocacy (promotion, -ism) - sim
 advocate (promote, support) - fa sim  
 advocate (promoter, supporter, adherent) - sim ja  
 aerobic - air bio di  
-Afghanistan - Afgan  
+Afghanistan - Afghan  
 afraid (scared) - fobi di  
 Africa - Afrika  
 afternoon - sham dia  
@@ -185,7 +185,7 @@ Ariel - Ariel
 arithmetics - hisabu suta  
 Ark of the Covenant - liga di sanduku  
 arm - hande shaka  
-Armenia - Hayaki  
+Armenia - Haye  
 armor (shielding) - defa kaske  
 army - gun  
 aromantic - an romanse  
@@ -1046,7 +1046,7 @@ domestic (tame) - dom di
 domesticate (cultivate) - fa dosil jene  
 domesticated - dosil jene di  
 Dominica - Dominika  
-Dominican Republic - Dominika Komunkrati  
+Dominican Republic - Dominika Komun krati  
 dominoes - domino gem  
 donkey (ass) - iha  
 door (gate, portal) - mun  
@@ -1475,7 +1475,7 @@ geography - geo grafi
 geology - geo logi  
 geometry - geo metre  
 geopolitics - geo politi  
-Georgia (Republic of Georgia) - Kartvel  
+Georgia (Republic of Georgia) - Kartuli  
 geothermal - geo termo  
 German - doiche di  
 German camomile - kamil  
@@ -1602,7 +1602,7 @@ hair of the head - sar kesha
 hairband (headband) - kesha bande  
 hairbrush - kesha brosha  
 hairless - kesha hin  
-Haiti - Haiti  
+Haiti - Aiti  
 halo (aureola) - foto gola  
 halve (divide by two) - fa fen do du  
 hammer - hamar  
@@ -1831,8 +1831,8 @@ Io - Io
 iodine - iode  
 ion - ion  
 Iran - Iran  
-Iraq - Iraki  
-Ireland - Aire  
+Iraq - Iraqi  
+Ireland - Eire  
 iridium - iris yum  
 iron - fero  
 ironic - ironi di  
@@ -1896,7 +1896,7 @@ karaoke - karaoke
 karate - karate  
 karateka (practitioner of karate) - karate ja  
 Karnataka - Karnada  
-Kazakhstan - Kazake  
+Kazakhstan - Qazaqe  
 keep (preserve, conserve, retain, spare) - hafiza  
 keeper (preserver) - hafiza ja  
 kelp - yepa alga  
@@ -1941,7 +1941,7 @@ Korean melon - aroma melon
 Kosovo - Kosovo  
 krypton - kriton  
 kumquat - gingam  
-Kuwait - Kuvaitia  
+Kuwait - Kuvaite  
 Kyrgyzstan - Kirgize  
 ####L - L  
 lack (miss, be without) - hin  
@@ -2379,7 +2379,7 @@ must (have to, should) - mus
 mutual (each other’s) - semon su  
 Mx. (Mr. or Ms.) - shi  
 my - mi su  
-Myanmar (Burma) - Myanma  
+Myanmar (Burma) - Mianma  
 mycelium - fungu nete  
 myth (divine story) - deu kata  
 ####N - N  
@@ -2475,7 +2475,7 @@ North Korea (Democratic People’s Republic of Korea) - Norde Chosen
 Northen Cyprus - Norde Kipris  
 northern - norde di  
 Northern Ireland - Norde Aire  
-Northern Mariana Islands - Marian nesi  
+Northern Mariana Islands - Mariana nesi  
 Norway - Norge  
 Norwegian language - norge basha  
 nose - nos  
@@ -2729,7 +2729,7 @@ Peru - Peru
 peta- - peta  
 petroleum - petra nefte  
 pharmacology - dava she logi  
-Philippines - Filipinas  
+Philippines - Filipin  
 philosopher - filsofi ja  
 philosophic - filsofi di  
 philosophy - filsofi  
@@ -2955,7 +2955,7 @@ put back (postpone) - pos poza
 put forward (advance, progress) - fa jin  
 pyramid - piram  
 pyrolatry - hogo puja  
-Qatar - Katar  
+Qatar - Qatar  
 qualify (describe) - fa sifa  
 quark (paneer) - panir  
 quarter (neighbourhood, district, locality, section of town) - mahala  
@@ -3166,9 +3166,9 @@ Saint Helena - Sante Helena
 Saint John's Day - Yohan festa  
 Saint Kitts - Sante Kitse  
 Saint Kitts and Nevis - Sante Kitse e Nevis  
-Saint Lucia - Sante Lusia  
-Saint Vincent - Sante Vinsente  
-Saint Vincent and Grenadines - Sante Vinsente e Grenadine  
+Saint Lucia - Sante Lucia  
+Saint Vincent - Sante Vincente  
+Saint Vincent and Grenadines - Sante Vincente e Grenadin  
 salad - salade  
 salmon (trout) - salmon  
 salt - sal  
@@ -3181,7 +3181,7 @@ sand - arena
 sandstone - arena petra  
 sandwich - sanduiche  
 Sao Paulo - Sante Paulo  
-Sao Tome and Principe - Sante Tome e Prinsipe  
+Sao Tome and Principe - Sante Tome e Principe  
 sapling - jovan moka  
 Satanism (devil worship) - shatan din  
 Satanist - shatan din ja  
@@ -3409,7 +3409,7 @@ sour - suan
 south - sude  
 South Africa - Sude Afrika  
 South America - Sude Amerika  
-South Georgia and the South Sandwich Islands - Sude Jorjia e Sudi Sandviche nesi  
+South Georgia and the South Sandwich Islands - Sude Jorjia e Sude Sanduiche nesi  
 South Korea (Republic of Korea) - Sude Chosen  
 South Ossetia (Alania) - Sude Iria (Alonia)  
 South Sudan - Sude Sudan  
@@ -3558,7 +3558,7 @@ swallow - gul
 swastika (hooked cross) - huke krus  
 sweat (perspiration) - sueda  
 sweaty - sueda di  
-Sweden - Sven  
+Sweden - Suen  
 sweet orange - sukar oranje  
 sweet potato - kamote  
 Switzerland - Suise  
@@ -3855,7 +3855,7 @@ uranium - uran yum
 Uranus - Uran  
 urban - nagar di  
 Urdu - urdu  
-Uruguay - Uruguay  
+Uruguay - Uruguai  
 usable (available) - uze bil di  
 use (employ, apply) - uze  
 use (utility, benefit, gain, advantage) - faida  

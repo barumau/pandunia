@@ -12,7 +12,7 @@ adil - juste
 adil ta - justice  
 adres - adresse  
 adres zi - arobase (@)  
-Afgan - Afghanistan  
+Afghan - Afghanistan  
 Afrika - Afrique  
 agile - agile  
 agresi - agression (attaque)  
@@ -25,7 +25,7 @@ air gun - armée de l'ai
 air porte - aéroport  
 air presa - pression atmosphérique  
 air presa metre gi - baromètre  
-Aire - Irland  
+Eire - Irland  
 ais - glace  
 ais di - glacé (glacial, gelé)  
 ais hoki - hockey sur glace  
@@ -675,7 +675,7 @@ hai gun - force navale (marine)
 hai hiyar - concombre de mer  
 hai jele - méduse  
 hai kinar - côte  
-Haiti - Haïti  
+Aiti - Haïti  
 haki - droit  
 hal - état  
 hali - vide  
