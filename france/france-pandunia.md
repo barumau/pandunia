@@ -54,7 +54,7 @@ algues - hai alga
 algues brunes - kafe alga  
 Algérie - Jayer  
 aller - ga  
-Aller-retour - retro tikete  
+aller-retour - retro tikete  
 alligator - korte krokodil  
 allophone - alo fon  
 allô - halo  
@@ -407,6 +407,7 @@ cimetière - gabur bagi
 cinq (5) - lima  
 cirse commun - pero kardon  
 citron - limon  
+citronnade - limon jus  
 citrouille - kaboga  
 clair - klar  
 classique (canon) - kanon  
@@ -459,6 +460,7 @@ coton - goton
 cou (encolure, nuque) - nuka  
 couch (couchette) - kush loka  
 coucher - kush  
+coucou - kuku  
 coude - kudi  
 coudée - kudi metre  
 couguar (puma) - puma  
@@ -702,6 +704,7 @@ galaxie - galaksi
 gallium - gali yum  
 galop - galope  
 garde-boue (aile) - fan defa bano  
+gaufre - vafle  
 Gaule - Galia  
 gaz - gas  
 gaz lacrymogène - yen sui gas  
@@ -1003,6 +1006,7 @@ menthe - minta
 Menthe aquatique - sui minta  
 menthe poivrée - pipre minta  
 menthe verte - kane minte  
+menu (carte) - yam liste  
 mer - hai  
 merci - shukur  
 mercredi - var tri  
@@ -1236,6 +1240,7 @@ personne - jen
 pet (vesse) - pede  
 petit - lili  
 peu - shau  
+peut-être - bil si  
 pharmacie - dava she kan  
 pharmacologie - dava she logi  
 phase - faze  
@@ -1319,7 +1324,7 @@ Poulpe (pieuvre) - ohtopus
 pourri - pute  
 pourrir (se décomposer) - be pute  
 pousse - jovan moka  
-pouvoir (possible, capacité, peut-être) - bil  
+pouvoir (possible, capacité) - bil  
 praséodyme - prazedim yum  
 presse-papier - gata glu bano  
 presser - fa presa  
@@ -1549,6 +1554,7 @@ sujet (thème) - tema
 sunnisme - suna islam din  
 svastika (croix gammée) - huke krus  
 syllabe - loga fen  
+symbole - simbol  
 symétrie - sam metre  
 sélénium - selen yum  
 séminal - seme di  
@@ -1664,6 +1670,7 @@ vaginite - vagina flam
 vaisseau spatial - kosmo nave  
 valeur - valu  
 vallée (oued) - vali  
+valse - valse  
 vampire - vampir  
 vampire des abysses - vampir ohtopus  
 vanadium - vanadi yum  
@@ -1702,6 +1709,7 @@ virus - virus
 visage - muka  
 viser - fa dika  
 Vishnou - Vishnu  
+vitamine - vitamin  
 vite (rapide) - rapide  
 vivant - jiva  
 vivre (habiter) - be dom  

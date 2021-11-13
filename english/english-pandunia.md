@@ -899,6 +899,7 @@ crystal - bilor
 Cuba - Kuba  
 cube - kube  
 cubit - kudi metre  
+cuckoo - kuku  
 cucumber - hiyar  
 cultivate (farm) - nong  
 culture - kultur  
@@ -2028,6 +2029,7 @@ leftist (left-winger) - lefte sim ja
 leftover (residue, vestige) - lashe she  
 leg - fute shaka  
 lemon - limon  
+lemonade - limon jus  
 lend - jeka don  
 length - long ta  
 lengthen (prolong) - fa long  
@@ -2245,6 +2247,7 @@ maximize - fa masim
 maximum - masim  
 May - mes lima  
 Maya - maya  
+maybe (perhaps) - bil si  
 Mayotte - Mayote  
 mean (cruel) - zalim  
 mean (intend) - fa nia  
@@ -2273,6 +2276,7 @@ mendelevium - mendelef yum
 meningitis - meninge flam  
 meninx (meninges) - meninge  
 mental (psychic) - ruhu di  
+menu - yam liste  
 mercury (quicksilver) - hidrargente  
 Mercury - Merkur  
 merge (fuse) - be yung liga  
@@ -2903,7 +2907,7 @@ Portuguese language - portugal basha
 pose (position) - poze  
 pose (set, plant) - fa poze  
 possessive postposition (’s) - su  
-possible (able, can, maybe) - bil  
+possible (able, can) - bil  
 post office - posta kan  
 postal stamp - posta chape  
 postmark (postage stamp) - posta marke  
@@ -3616,6 +3620,7 @@ sweet potato - kamote
 Switzerland - Suise  
 sword - katana  
 syllable - loga fen  
+symbol (emblem) - simbol  
 symmetry (symmetrical) - sam metre  
 Syria - Suria  
 syrup - shirope  
@@ -3980,6 +3985,7 @@ visit - fa keka
 visitation (visit) - keka  
 visitor (guest) - keka ja  
 visual field (field of vision) - vide medan  
+vitamin - vitamin  
 vocabulary (lexicon) - loga jama  
 void (empty space) - hali  
 volcanic glass - hogo san kancha  
@@ -3990,6 +3996,7 @@ vote (ballot) - vote
 vote (cast a vote) - fa vote  
 vowel - jong fon  
 vulva - vulva  
+waffle - vafle  
 wait (delay) - dele  
 wait for - dele do  
 wake (become awake) - be jaga  
@@ -4000,6 +4007,7 @@ walk (march) - marche
 wall (structure for delimitation) - mur  
 Wallis and Futuna Islands - Valis e Futuna nesi  
 wallpaper - mur kaguji  
+waltz - valse  
 want (desire, wish) - vol  
 want (desire, wish) - vol she  
 warm (hot) - garma  

@@ -54,11 +54,11 @@ air gun - airforce
 air porte - airport (aeroport)  
 air presa - atmospheric pressure  
 air presa metre gi - barometer  
-Eire - Ireland  
 ais - ice  
 ais di - icy  
 ais hoki - ice hockey  
 ais krem - ice cream  
+Aiti - Haiti  
 ajibu - marvel (wonder)  
 ajibu - awe (wonder)  
 ajibu di - amazing (astonishing)  
@@ -152,9 +152,9 @@ anjil ja - messenger
 Antartika - Antarctica  
 Antartika Hai - Antarctic Ocean  
 antena - antenna (aerial)  
-antra - intestines (entrails, guts, bowels, viscera)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua and Barbuda  
+antra - intestines (entrails, guts, bowels, viscera)  
 anus - anus  
 anus di - anal  
 aple - apple  
@@ -437,8 +437,9 @@ betula - birch tree
 Biblia - Bible  
 Biblia di - Biblical  
 bichi - whip  
-bil - possible (able, can, maybe)  
+bil - possible (able, can)  
 bil ja - capable (talent, skillful)  
+bil si - maybe (perhaps)  
 bil ta - ability  
 bilor - crystal  
 bina - building (structure)  
@@ -857,6 +858,7 @@ e - and
 e mas - also (too)  
 eglisa - church  
 einstein yum - einsteinium  
+Eire - Ireland  
 eko - environment (nature)  
 eko di - environmental (natural)  
 eko jene di - wild (savage)  
@@ -1380,9 +1382,9 @@ Gana - Ghana
 gana - reed (cane)  
 gana kalam - reed pen  
 Ganda - Uganda  
+Ganga - Ganges  
 gani - liver  
 gani flam - hepatitis  
-Ganga - Ganges  
 Ganimede - Ganymede  
 ganja - cannabis (marijuana, ganja, pot, weed)  
 ganse - goose  
@@ -1561,7 +1563,6 @@ hai jele - jellyfish (seajelly)
 hai kinar - shore (coast, beach)  
 hai porte - harbor (seaport)  
 haide - let's  
-Aiti - Haiti  
 haki - right (entitlement)  
 hal - state (condition, status, situation)  
 halal - permissible (allowed, halal)  
@@ -1752,8 +1753,8 @@ iode - iodine
 ion - ion  
 ion radi - radioactivity (ionizing radiation)  
 ion radi di - radioactive  
-Iraqi - Iraq  
 Iran - Iran  
+Iraqi - Iraq  
 iris yum - iridium  
 ironi - irony  
 ironi di - ironic  
@@ -2003,13 +2004,11 @@ kastor - beaver
 kata - tale (story, legend, saga)  
 Katalunia - Catalonia  
 katana - sword  
-Qatar - Qatar  
 katus - cactus  
 Kaukasia - Caucasia  
 kauri - cowrie  
 kavai - cute (sweet)  
 kave - pit (excavation, cavity)  
-Qazaqe - Kazakhstan  
 ke - what?  
 ke jen - who?  
 ke loka - where?  
@@ -2202,6 +2201,7 @@ kuke - cook (prepare food)
 kuke ja - cook (chef)  
 kuke kamar - kitchen  
 Kuke nesi - Cook Islands  
+kuku - cuckoo  
 kul - cool  
 kulombe - coulomb (unit)  
 kultur - culture  
@@ -2317,6 +2317,7 @@ limfa - lymph
 limite - limit (boundary)  
 limite di - finite (limited)  
 limon - lemon  
+limon jus - lemonade  
 limon oranje - citrus fruit  
 limon verde di - lime green  
 lin - line (thread, string)  
@@ -2574,6 +2575,7 @@ meza tela - tablecloth
 meza topo - plateau (tableland)  
 mi - I (me)  
 mi su - my  
+Mianma - Myanmar (Burma)  
 migra - migration (moving)  
 mikro bio - microorganism (microbe)  
 mikro bio logi - microbiology  
@@ -2692,7 +2694,6 @@ musli - muesli
 mute - change (alter, convert)  
 muzika - music  
 muzika ja - musician  
-Mianma - Myanmar (Burma)  
 
 ## N  
 
@@ -3152,8 +3153,8 @@ pote - pot (vase, bin, jar)
 pote chamacha - ladle (dipper, scoop)  
 pote ja - potter  
 pote suta - pottery  
-poze - pose (position)  
 poyu - louse  
+poze - pose (position)  
 prati - practice (actuality)  
 prati di - practical (pragmatic)  
 prazedim yum - praseodymium  
@@ -3195,6 +3196,8 @@ putau oranje - grapefruit
 pute - rotten  
 putong - common (general)  
 Putong Han - Mandarin Chinese (Putonghua)  
+Qatar - Qatar  
+Qazaqe - Kazakhstan  
 
 ## R  
 
@@ -3584,6 +3587,7 @@ silke - silk
 silke larva - silkworm  
 sim - advocacy (promotion, -ism)  
 sim ja - advocate (promoter, supporter, adherent)  
+simbol - symbol (emblem)  
 simple - simple (not complicated)  
 sin - sign (signal)  
 sina - belief (faith, creed)  
@@ -3673,6 +3677,7 @@ Sude Jorjia e Sude Sanduiche nesi - South Georgia and the South Sandwich Islands
 Sude Sudan - South Sudan  
 sueda - sweat (perspiration)  
 sueda di - sweaty  
+Suen - Sweden  
 sui - water  
 sui chuli - water treatment  
 sui di - watery  
@@ -3720,7 +3725,6 @@ sushi - sushi
 suta - skill (art, craft)  
 suta tabi - skillful (crafty)  
 sutur - suture (seam)  
-Suen - Sweden  
 
 ## T  
 
@@ -3935,6 +3939,7 @@ uze ja nam - username
 
 va - with (in the company of; by means of)  
 vaf - dog  
+vafle - waffle  
 vagina - vagina  
 vagina flam - vaginitis  
 vah - wow! (gee!)  
@@ -3959,6 +3964,7 @@ vakil ja - representative (proxy, agent)
 vali - valley  
 vali susan - lily of the valley  
 Valis e Futuna nesi - Wallis and Futuna Islands  
+valse - waltz  
 valu - value (worth)  
 vampir - vampire  
 vampir ohtopus - vampire squid  
@@ -4049,6 +4055,7 @@ vise raja - viceroy
 Vishnu - Vishnu  
 viski - whisky (whiskey)  
 vita - screw  
+vitamin - vitamin  
 viza - visa  
 vode - promise (vow, oath)  
 vodun - voodoo  
@@ -4078,6 +4085,7 @@ yaki nesi - peninsula
 yam - consume (eat or drink)  
 yam fito - vegetable  
 yam kamar - dining room  
+yam liste - menu  
 yam she - food (meal)  
 yam sukar gana - duruka  
 yam yau - hunger  

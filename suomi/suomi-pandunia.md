@@ -350,6 +350,7 @@ Egypti - Misri
 egyptiläinen - misri di  
 ehdottaa - fa suje  
 ehdotus - suje  
+ehkä (voi olla) - bil si  
 ei - no  
 ei koskaan (ei kertaakaan) - siro sata  
 ei kukaan - siro jen  
@@ -1466,6 +1467,7 @@ kysyä - fa sual
 kyynel - yen sui  
 kyynärpää - kudi  
 kyynäränmitta - kudi metre  
+käki - kuku  
 kärki (pää) - pike  
 kärppä (fretti) - furete  
 kärpänen - dom zeze  
@@ -1625,6 +1627,7 @@ liittosopimus - kon trati
 liittää - liga  
 likainen (mutainen) - darte di  
 lilja - susan  
+limonadi - limon jus  
 linja (viiva, lanka, liina, naru, köysi) - lin  
 linja-auto (bussi) - bus  
 linna (linnake, linnoitus) - burge  
@@ -2727,6 +2730,7 @@ runoilija - shir ja
 ruoho - gazo  
 ruohotasanko - gazo topo  
 ruoka - yam she  
+ruokalista - yam liste  
 ruokalusikka - supa chamacha  
 ruokasali - yam kamar  
 ruoko - gana  
@@ -3348,6 +3352,7 @@ Tunisia - Tunis
 tunne (mielenliikutus) - emosi  
 tunneli - tunel  
 tunnetila (tuuli) - emosi hal  
+tunnus (symboli) - simbol  
 tunnussana - pas loga  
 tuntea (kokea tunteita) - be emosi  
 tuntea - tochu sense  
@@ -3536,6 +3541,7 @@ valokuva (foto) - foto grafi
 valokuvaaja - foto grafi ja  
 valokuvaus - foto grafi suta  
 valonsäde - foto radi  
+valssi - valse  
 valta - krati  
 valtameri - dai hai  
 vampyyri - vampir  
@@ -3680,10 +3686,12 @@ virtsata (kusta) - fa pish
 virus - virus  
 viski - viski  
 vismutti - bismute  
+vitamiini - vitamin  
 vitsi - joke  
 vitsiniekka - joke ja  
 viuhka (tuuletin) - panka  
 Višnu - Vishnu  
+vohveli - vafle  
 voi - makan  
 voida (osata, pystyä, mahdollinen, ehkä) - bil  
 voileipä - sanduiche  

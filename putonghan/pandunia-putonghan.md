@@ -163,6 +163,7 @@ betula - 桦树
 bichi - 鞭子  
 bil - 会 (可能)  
 bil ja - 熟练  
+bil si - 也许 (或是, 可能)  
 bina - 建筑  
 bina plan - 建筑学  
 bina plan ja - 建筑师  
@@ -758,6 +759,7 @@ kuanga san - 矿场
 kuarze - 石英  
 kube - 立方体  
 kudi - 肘  
+kuku - 布谷鸟 (杜鹃)  
 kupa - 杯子  
 kupre - 铜  
 kurban - 牺牲  
@@ -809,6 +811,7 @@ lili kaboga - 西葫芦
 lili seku - 砾石  
 lima - 五 (5)  
 limon - 柠檬  
+limon jus - 柠檬水  
 limon oranje - 柑橘  
 lin - 线  
 lin so - 纤维  
@@ -1275,6 +1278,7 @@ sili tika - 连结
 silis - 硅  
 silke - 丝绸  
 silke larva - 家蚕 (蚕宝宝)  
+simbol - 象徵  
 sing - 星  
 sir plan - 阴谋 (密谋)  
 siro - 零 (〇)  
@@ -1392,6 +1396,7 @@ uran yum - 铀
 
 va - 和  
 vaf - 狗  
+vafle - 窝夫  
 vagina - 阴道  
 vah - 哇  
 vai - 外  
@@ -1401,6 +1406,7 @@ vai verse di - 外向的
 vai yam - 野餐  
 vali - 山谷  
 vali susan - 鈴蘭  
+valse - 华尔兹  
 valu - 价值  
 vampir - 吸血鬼  
 vanadi yum - 钒  
@@ -1436,6 +1442,7 @@ virje - 处女
 vise ma - 继母  
 vise pa - 继父  
 Vishnu - 毗湿奴  
+vitamin - 维生素 (维他命)  
 vode - 诺言  
 vol - 想要 (愿意)  
 volfram - 钨  
@@ -1451,6 +1458,7 @@ xenon - 氙
 ya - 对 (是)  
 Yahve - 耶和华 (雅威)  
 yam fito - 蔬菜  
+yam liste - 菜单  
 yam yau - 饥饿  
 yasen - 白蜡树  
 yatim dom - 孤儿院  

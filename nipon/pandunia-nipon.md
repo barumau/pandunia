@@ -769,6 +769,7 @@ kuarze - 石英
 kube - 立方体  
 kudi - 肘  
 kuke kamar - 台所  
+kuku - 郭公  
 kul - カッコいい  
 kupa - コップ  
 kupre - 銅  
@@ -819,6 +820,7 @@ lili kaboga - ズッキーニ
 lili seku - 小石  
 lima - 五 (5)  
 limon - レモン  
+limon jus - レモネード  
 limon oranje - 柑橘  
 lin - 糸  
 lin so - 繊維  
@@ -1292,6 +1294,7 @@ silis - ヶィ素
 silke - 絹  
 silke larva - 蚕 (家蚕)  
 sim - 主义  
+simbol - 象徴 (シンボル)  
 sing - 星  
 sir plan - 陰謀  
 sir ta - 忍び  
@@ -1403,6 +1406,7 @@ uze bil di - 使用可能
 ## V  
 
 vaf - 犬 (狗)  
+vafle - ワッフル  
 vagina - 膣 (ワギナ)  
 vah - わあ  
 vai - 外  
@@ -1411,6 +1415,7 @@ vai planete - 系外惑星
 vai verse di - 外向的な  
 vali - 谷  
 vali susan - キミカゲソウ (スズラン)  
+valse - ワルツ (円舞曲)  
 valu - 価値  
 vampir - 吸血鬼  
 vampir ohtopus - コウモリダコ  
@@ -1450,6 +1455,7 @@ vise - 代替
 vise ma - 継母  
 vise pa - 継父  
 Vishnu - ヴィシュヌ  
+vitamin - ビタミン  
 vode - 約束  
 vol - 欲しい  
 volfram - タングステン  
@@ -1465,6 +1471,7 @@ xenon - キセノン
 ya - はい  
 Yahve - ヤハウェ (エホバ)  
 yam - 食べる  
+yam liste - メニュー  
 yam she - 食べ物 (食事)  
 yam yau - 飢え  
 yang - タイプ  

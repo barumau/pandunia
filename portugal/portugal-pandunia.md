@@ -247,6 +247,7 @@ carbono - karbon
 cardo - kardon  
 cardo-mariano - milke kardon  
 cardo-roxo - pero kardon  
+cardápio (menu) - yam liste  
 careta (esgar) - grimas  
 carga (peso) - karga  
 Caribe - Karibe  
@@ -376,6 +377,7 @@ crème - krem
 crómo - krom yum  
 crónico - dur di  
 cubo - kube  
+cuco - kuku  
 cultivar - nong  
 cume (pico, topo) - san pike  
 curry - kari  
@@ -790,6 +792,7 @@ libélula - libele
 liga (aliança) - liga  
 ligeiro - ligu veze di  
 lima - kaguji limon  
+limonada - limon jus  
 limão - limon  
 lince - linse  
 linha (fio) - lin  
@@ -1359,12 +1362,14 @@ São Paulo - Sante Paulo
 século - sento nen  
 série (sequência) - sili  
 sílaba - loga fen  
+símbolo - simbol  
 só (solitário) - un zai di  
 sódio - natri  
 
 ## T  
 
 tablet - table komputa  
+talvez - bil si  
 tangerina (mandarim) - lal oranje  
 tapioca - manioka fufu  
 tartaruga - tortuga  
@@ -1464,6 +1469,7 @@ vaginite - vagina flam
 vale (uadi) - vali  
 valor (valia) - valu  
 valorar - fa valu  
+valsa - valse  
 vampiro - vampir  
 vanádio - vanadi yum  
 vapor - sui gas  
@@ -1495,6 +1501,7 @@ vidro - kancha
 vinhedo - putau bagi  
 vir - lai  
 virgem - virje  
+vitamina - vitamin  
 vivo - jiva  
 Vixnu - Vishnu  
 viúvo - vidou  
@@ -1512,6 +1519,7 @@ vulva - vulva
 vários - vari  
 Vénus - Venus  
 véu - hijabu  
+waffle - vafle  
 
 ## X  
 

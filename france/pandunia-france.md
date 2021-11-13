@@ -27,11 +27,11 @@ air gun - armée de l'ai
 air porte - aéroport  
 air presa - pression atmosphérique  
 air presa metre gi - baromètre  
-Eire - Irland  
 ais - glace  
 ais di - glacé (glacial, gelé)  
 ais hoki - hockey sur glace  
 ais krem - crème glacée  
+Aiti - Haïti  
 ajibu - merveille  
 akare - acarien  
 akse - axe  
@@ -97,9 +97,9 @@ anjil ja - messager
 Antartika - Antarctique  
 Antartika Hai - Océan Antarctique  
 antena - antenne  
-antra - intestin (entrailles, ventre, boyau)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua-et-Barbuda  
+antra - intestin (entrailles, ventre, boyau)  
 anus - anus  
 anus di - anal  
 aple - pomme  
@@ -267,7 +267,8 @@ berkli yum - berkélium
 bete - betterave  
 betula - bouleau  
 bichi - fouet  
-bil - pouvoir (possible, capacité, peut-être)  
+bil - pouvoir (possible, capacité)  
+bil si - peut-être  
 bil ta - capacité (pouvoir, habileté)  
 bilor - cristal  
 bina - bâtiment  
@@ -434,6 +435,7 @@ dush - douche
 
 e - et  
 einstein yum - einsteinium  
+Eire - Irland  
 eko jene di - sauvage  
 ekore - écureuil  
 eletro - électricité  
@@ -693,7 +695,6 @@ hai gun - force navale (marine)
 hai hiyar - concombre de mer  
 hai jele - méduse  
 hai kinar - côte  
-Aiti - Haïti  
 haki - droit  
 hal - état  
 hali - vide  
@@ -962,6 +963,7 @@ kuarze - quartz
 kube - cube  
 kudi - coude  
 kudi metre - coudée  
+kuku - coucou  
 kupa - coupe (tasse, verre)  
 kupre - cuivre  
 kurban - sacrifice  
@@ -1019,6 +1021,7 @@ lili kaboga - courgette
 lili seku - caillou  
 lima - cinq (5)  
 limon - citron  
+limon jus - citronnade  
 lin - ligne (fil)  
 lin so - fibre  
 linke - lien  
@@ -1419,7 +1422,7 @@ reseta - recette
 reste - reste  
 retro - en arrière  
 retro gula sense - nausée  
-retro tikete - Aller-retour  
+retro tikete - aller-retour  
 riche - riche  
 rim - rime  
 ring - anneau  
@@ -1561,6 +1564,7 @@ sili tika - maillon (chaînon)
 silis - silicium  
 silke - soie  
 silke larva - ver à soie  
+simbol - symbole  
 sing - étoile  
 sir plan - complot (conspiration)  
 sir ta - célérité  
@@ -1687,6 +1691,7 @@ uran yum - uranium
 
 va - avec  
 vaf - chien  
+vafle - gaufre  
 vagina - vagine  
 vagina flam - vaginite  
 vah - ouah  
@@ -1697,6 +1702,7 @@ vai poze - exposer
 vai vide di - évident  
 vai yam - piquenique  
 vali - vallée (oued)  
+valse - valse  
 valu - valeur  
 vampir - vampire  
 vampir ohtopus - vampire des abysses  
@@ -1740,6 +1746,7 @@ virje - vierge
 virus - virus  
 vise raja - vice-roi  
 Vishnu - Vishnou  
+vitamin - vitamine  
 vode - vœu (promesse)  
 vol - vouloir  
 volfe - loup  
@@ -1757,6 +1764,7 @@ xenon - xénon
 ya - oui  
 Yahve - Yahweh (Jéhovah)  
 yam fito - légume  
+yam liste - menu (carte)  
 yam yau - faim  
 yasen - frêne  
 yatim dom - orphelinat  

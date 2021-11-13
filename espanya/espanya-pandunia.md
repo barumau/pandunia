@@ -931,6 +931,7 @@ cuchara de sopa - supa chamacha
 cucharilla - chai chamacha  
 cucharón (cazo) - pote chamacha  
 cuchillo - chaku  
+cuco - kuku  
 cuello (nuca, pescuezo) - nuka  
 cuenta (factura) - fatura  
 cuenta - hisabu loge  
@@ -1577,6 +1578,7 @@ GM
 gobernante (soberano) - sultan ja  
 gobernar - fa politi  
 gobierno - politi  
+gofre - vafle  
 golpear (pegar) - darba  
 goma (caucho, hule) - gomu  
 goma arábiga - arabi babul  
@@ -2039,6 +2041,7 @@ ligero - ligu veze di
 lila (de color lila) - lila rang  
 lila - lila  
 limero - kaguji limon  
+limonada - limon jus  
 limpiador - safa ja  
 limpiar - fa safa  
 limpio - safa  
@@ -2255,6 +2258,7 @@ mensajero - anjil ja
 menta - minta  
 menta acuática - sui minta  
 mental (psíquico) - ruhu di  
+menú (carta) - yam liste  
 mercado (bazar) - bazar  
 mercurio - hidrargente  
 Mercurio - Merkur  
@@ -2992,6 +2996,7 @@ quiosco (kiosco) - kioske
 quitar (eliminar, borrar) - fa an zai  
 quitar (pelar) - tire yo pil  
 quitar (remover) - fa for  
+quizás (tal vez) - bil si  
 quién - ke jen  
 qué - ke  
 qué tipo de - ke yang  
@@ -3385,6 +3390,7 @@ sábado - var luka
 sándwich (sánduche) - sanduiche  
 sí - ya  
 sílaba - loga fen  
+símbolo - simbol  
 sólido - gati mate  
 
 ## T  
@@ -3633,6 +3639,7 @@ valla (cerca) - kinar baryer
 valle - vali  
 valor - valu  
 valorar - fa valu  
+vals - valse  
 vamos a - haide  
 vampiro - vampir  
 vanadio - vanadi yum  
@@ -3710,6 +3717,7 @@ Vishnú - Vishnu
 visitar - fa keka  
 visitar - keka  
 vista (visión) - vide she  
+vitamina - vitamin  
 viudo - vidou  
 vivir (residir) - be dom  
 vivo (lleno de vida) - jiva  

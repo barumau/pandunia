@@ -176,6 +176,7 @@ berkli yum - берклий
 bete - свёкла  
 betula - берёза  
 bil - возможный  
+bil si - может быть  
 bilor - кристалл  
 bina - строение  
 bina plan - архитектура  
@@ -843,6 +844,7 @@ kuarze - кварц
 kube - куб  
 kudi - локоть  
 kuke kamar - кухня  
+kuku - кукушка  
 kupa - чаша (чашка, стакан)  
 kupre - медь  
 kurban - жертва  
@@ -892,6 +894,7 @@ lili kaboga - цукини
 lili seku - галька  
 lima - пять (5)  
 limon - лимон  
+limon jus - лимонад  
 limon oranje - цитрус  
 lin - линия (нитка)  
 lin so - волокно  
@@ -1425,6 +1428,7 @@ silis - кремний
 silke - шёлк  
 silke larva - шелкопряд  
 sim - идеология  
+simbol - символ  
 sine plate - нагрудник  
 sing - звезда  
 sir plan - заговор (сговор)  
@@ -1562,6 +1566,7 @@ uran yum - уран
 
 va - с  
 vaf - собака  
+vafle - вафля  
 vagina - влагалище (вагина)  
 vagina flam - вагинит  
 vah - вау!  
@@ -1574,6 +1579,7 @@ vai verse di - экстраверт
 vai vide di - очевидный  
 vai yam - пикник  
 vali susan - ландыш  
+valse - вальс  
 valu - ценность  
 vampir - вампир (упырь)  
 vampir ohtopus - адский вампир  
@@ -1618,6 +1624,7 @@ vise ma - мачеха
 vise pa - отчим  
 vise raja - вице-король  
 Vishnu - Вишну  
+vitamin - витамин  
 viza - виза  
 vode - клятва (присяга, обет)  
 vol - хотеть  
@@ -1634,6 +1641,7 @@ xenon - ксенон
 ya - да  
 Yahve - Яхве (Иегова)  
 yam fito - овощ  
+yam liste - меню  
 yam yau - голод  
 yasen - ясень  
 yatim dom - детский дом  

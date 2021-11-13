@@ -23,6 +23,7 @@ air porte - flughaveno
 ais - glacio  
 ais di - glacia  
 ais krem - glaciaĵo  
+Aiti - Haitio  
 ajila - rapidigi  
 akasia - akacio  
 akse - akso  
@@ -219,6 +220,7 @@ Biblia di - biblia
 bichi - vipo  
 bil - ebla (povi)  
 bil ja - kapabla  
+bil si - eble  
 bina plan - arĥitekturo  
 bina plan ja - arĥitekto  
 bindu - punkto  
@@ -765,7 +767,6 @@ hai di - mara
 hai gun - mararmeo  
 hai porte - haveno  
 haide - ni faru...  
-Aiti - Haitio  
 haki - rajto  
 hal - stato  
 hali - malplena  
@@ -869,8 +870,8 @@ insan sim - homismo
 insulte - insulto  
 iode - jodo  
 ion - iono  
-Iraqi - Irakio  
 Iran - Iranio  
+Iraqi - Irakio  
 iris yum - iridio  
 islam din - islamo  
 islam din sharia - ŝario  
@@ -1085,6 +1086,7 @@ kruasan - korna bulko
 krus - kruco  
 kube - kubo  
 kudi - kubuto  
+kuku - kukolo  
 kul - bonega (mojosa)  
 kultur - kulturo  
 Kung Fuzi - Konfuceo  
@@ -1132,6 +1134,7 @@ lili seku - ŝtoneto
 lili siti - urbeto  
 lima - kvin (5)  
 limon - citrono  
+limon jus - limonado  
 lin - lineo (ŝnuro)  
 lin so - fibro  
 linke - rilato  
@@ -1237,6 +1240,7 @@ meza - tablo
 meza tela - tablotuko  
 mi - mi  
 mi su - mia  
+Mianma - Birmo  
 migra - migrado  
 mikro - mikro-  
 mikro bio - mikrobo  
@@ -1299,7 +1303,6 @@ musli - muslio
 mute - aliigi  
 muzika - muziko  
 muzika ja - muzikisto  
-Mianma - Birmo  
 
 ## N  
 
@@ -1707,6 +1710,7 @@ silis - silicio
 silke - silko  
 silke larva - silkraŭpo  
 sim - ismo  
+simbol - simbolo  
 simple - simpla  
 sina - kredo  
 sine - brusto  
@@ -1863,6 +1867,7 @@ uze - uzi
 
 va - kun (per)  
 vaf - hundo  
+vafle - vaflo  
 vagina - vagino  
 vagina flam - vaginito  
 vah - ŭaŭ!  

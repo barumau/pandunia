@@ -28,11 +28,11 @@ air gun - fuerza aérea
 air porte - aeropuerto  
 air presa - presión atmosférica  
 air presa metre gi - barómetro  
-Eire - Irlanda  
 ais - hielo  
 ais di - cubierto de hielo  
 ais hoki - hockey sobre hielo  
 ais krem - helado  
+Aiti - Haití  
 ajibu - maravilla  
 ajibu - asombro  
 ajibu di - maravilloso (asombroso)  
@@ -112,9 +112,9 @@ anjil ja - mensajero
 Antartika - antartida  
 Antartika Hai - océano Antártico  
 antena - antena  
-antra - intestino (visceras, entrañas, tripas)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua y Barbuda  
+antra - intestino (visceras, entrañas, tripas)  
 anus - ano  
 anus di - anal  
 aple - manzana  
@@ -374,6 +374,7 @@ Biblia - Biblia
 bichi - látigo (fusta)  
 bil - poder (posible)  
 bil ja - capaz  
+bil si - quizás (tal vez)  
 bil ta - habilidad (capacidad)  
 bilor - cristal  
 bina plan - arquitectura  
@@ -743,6 +744,7 @@ e - y
 e mas - además  
 eglisa - iglesia  
 einstein yum - einsteinium  
+Eire - Irlanda  
 eko - medioambiente (naturaleza)  
 eko di - ambiental (ecológico, natural)  
 eko jene di - salvaje  
@@ -1212,9 +1214,9 @@ Gana - Ghana
 gana - caña  
 gana kalam - cálamo  
 Ganda - Uganda  
+Ganga - Ganges  
 gani - hígado  
 gani flam - hepatitis  
-Ganga - Ganges  
 ganja - cannabis (hachís, marihuana)  
 ganse - ganso (oca)  
 ganum - trigo  
@@ -1379,7 +1381,6 @@ hai jele - medusa
 hai kinar - costa (orilla)  
 hai porte - puerto marítimo  
 haide - vamos a  
-Aiti - Haití  
 haki - derecho  
 hal - estado (condición)  
 halal - permitido (admisible)  
@@ -1556,8 +1557,8 @@ iode - yodo (iodo)
 ion - ion  
 ion radi - radiación ionizante  
 ion radi di - radiactivo  
-Iraqi - Iraq  
 Iran - Irán  
+Iraqi - Iraq  
 iris yum - iridio  
 ironi - ironía  
 ironi di - irónico  
@@ -1781,13 +1782,11 @@ kastor - castor
 kata - historia (cuento, relato, leyenda)  
 Katalunia - Cataluña  
 katana - espada  
-Qatar - Catar (Qatar)  
 katus - cacto  
 Kaukasia - Cáucaso  
 kauri - cauri  
 kavai - lindo (precioso)  
 kave - fosa  
-Qazaqe - Kazajistán (Kazakistan)  
 ke - qué  
 ke jen - quién  
 ke loka - dónde  
@@ -1958,6 +1957,7 @@ kuke - cocinar (preparar)
 kuke ja - cocinero  
 kuke kamar - cocina  
 Kuke nesi - Islas Cook  
+kuku - cuco  
 kul - genial  
 kulombe - culombio  
 kultur - cultura  
@@ -2066,6 +2066,7 @@ lima gona - pentágono
 limfa - linfa  
 limite - límite (frontera, linde)  
 limon - limón  
+limon jus - limonada  
 limon oranje - cítrico  
 limon verde di - verde limón  
 lin - linea (hilo, cordel, raya)  
@@ -2304,6 +2305,7 @@ meza tela - mantel
 meza topo - meseta  
 mi - yo  
 mi su - mi  
+Mianma - Myanmar (Birmania)  
 migra - migración  
 mikro - micro-  
 mikro bio - microbio  
@@ -2415,7 +2417,6 @@ musli - muesli
 mute - cambiar  
 muzika - música  
 muzika ja - músico  
-Mianma - Myanmar (Birmania)  
 
 ## N  
 
@@ -2839,8 +2840,8 @@ posta marke - matasellos
 pote chamacha - cucharón (cazo)  
 pote ja - alfarero  
 pote suta - alfarería  
-poze - pose (postura)  
 poyu - piojo  
+poze - pose (postura)  
 prati - práctica  
 prati di - práctico  
 prazedim yum - praseodimio  
@@ -2881,6 +2882,8 @@ putau oranje - pomelo (toronja)
 pute - podrido (cariado)  
 putong - general (common)  
 Putong Han - chino mandarín  
+Qatar - Catar (Qatar)  
+Qazaqe - Kazajistán (Kazakistan)  
 
 ## R  
 
@@ -3239,6 +3242,7 @@ silis - silicio
 silke - seda  
 silke larva - gusano de seda  
 sim - ideología (doctrina, -ismo)  
+simbol - símbolo  
 simple - simple  
 sin - señal (letrero, indicio)  
 sina - creencia (fe)  
@@ -3324,6 +3328,7 @@ Sude Jorjia e Sude Sanduiche nesi - Georgias del Sur y Sándwich del Sur
 Sude Sudan - Sudán del Sur  
 sueda - sudor  
 sueda di - sudoroso (sudado)  
+Suen - Suecia  
 sui - agua  
 sui di - acuoso  
 sui gas - vapor  
@@ -3368,7 +3373,6 @@ susan - lirio
 sushi - sushi  
 suta - dotes (arte, habilidad)  
 sutur - costura (sutura)  
-Suen - Suecia  
 
 ## T  
 
@@ -3567,6 +3571,7 @@ uze ja nam - nombre de usuario
 
 va - con  
 vaf - perro  
+vafle - gofre  
 vagina - vagina  
 vagina flam - vaginitis  
 vah - guau (vaya)  
@@ -3587,6 +3592,7 @@ vakil - representar
 vali - valle  
 vali susan - convalaria (lirio de los valles)  
 Valis e Futuna nesi - Wallis y Futuna  
+valse - vals  
 valu - valor  
 vampir - vampiro  
 vampir ohtopus - calamar vampiro  
@@ -3670,6 +3676,7 @@ vise prezidente - vicepresidente
 vise raja - virrey  
 Vishnu - Vishnú  
 vita - tornillo  
+vitamin - vitamina  
 viza - visado  
 vode - promesa (voto)  
 vodun - vudú  
@@ -3698,6 +3705,7 @@ yaki nesi - península
 yam - comer (bebir)  
 yam fito - verdura (legumbre)  
 yam kamar - comedor  
+yam liste - menú (carta)  
 yam she - comida  
 yam yau - hambre  
 yang - variedad (tipo, estilo)  

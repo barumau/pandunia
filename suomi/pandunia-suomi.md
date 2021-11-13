@@ -54,11 +54,11 @@ air gun - ilmavoimat
 air porte - lentoasema (lentokenttä)  
 air presa - ilmanpaine  
 air presa metre gi - ilmapuntari (ilmanpainemittari, barometri)  
-Eire - Irlanti  
 ais - jää  
 ais di - jäinen  
 ais hoki - jääkiekko  
 ais krem - jäätelö  
+Aiti - Haiti  
 ajibu - ihme  
 ajibu - hämmästys (ihmetys)  
 ajibu di - ihmeellinen (ällistyttävä, merkillinen)  
@@ -433,6 +433,7 @@ Biblia di - raamatullinen
 bichi - piiska (ruoska)  
 bil - voida (osata, pystyä, mahdollinen, ehkä)  
 bil ja - kykenevä (voiva)  
+bil si - ehkä (voi olla)  
 bil ta - mahdollisuus (taito, kyky)  
 bilor - kristalli  
 bina - rakennus (rakenne)  
@@ -846,6 +847,7 @@ e - ja (sekä)
 e mas - lisäksi (myös)  
 eglisa - kirkko  
 einstein yum - einsteinium  
+Eire - Irlanti  
 eko - luonto  
 eko jene di - villi (villinä syntynyt)  
 eko logi - ekologia (ympäristötiede)  
@@ -1530,7 +1532,6 @@ hai jele - meduusa
 hai kinar - merenranta  
 hai porte - satama  
 haide - tehkäämme  
-Aiti - Haiti  
 haki - oikeus (oikeutus)  
 hal - tila (tilanne, seikka)  
 halal - sallittu (hyväksytty)  
@@ -1718,8 +1719,8 @@ iode - jodi
 ion - ioni  
 ion radi - radioaktiivisuus  
 ion radi di - radioaktiivinen  
-Iraqi - Irak  
 Iran - Iran  
+Iraqi - Irak  
 iris yum - iridium  
 ironi - ironia  
 ironi di - ironinen  
@@ -1929,13 +1930,11 @@ kastor - majava
 kata - kertomus (tarina, saaga)  
 Katalunia - Katalonia  
 katana - miekka  
-Qatar - Qatar  
 katus - kaktus  
 Kaukasia - Kaukasia  
 kauri - posliinikotilo  
 kavai - söpö (suloinen)  
 kave - kuoppa (kolo)  
-Qazaqe - Kazakstan  
 ke - mikä? (mitä?)  
 ke jen - kuka?  
 ke loka - jossa?  
@@ -2104,6 +2103,7 @@ kuke - kokata (laittaa ruokaa)
 kuke ja - kokki  
 kuke kamar - keittiö  
 Kuke nesi - Cookin saaret  
+kuku - käki  
 kul - upea (hieno)  
 kulombe - kulombi (mittayksikkö C)  
 kultur - kulttuuri  
@@ -2202,6 +2202,7 @@ lima gona - viisikulmio
 limfa - lymfa  
 limite - raja  
 limon - sitruuna  
+limon jus - limonadi  
 lin - linja (viiva, lanka, liina, naru, köysi)  
 lin parche - rivinvaihto  
 lin so - säie (kuitu)  
@@ -2423,6 +2424,7 @@ meza - pöytä
 meza tela - pöytäliina  
 mi - minä  
 mi su - minun  
+Mianma - Myanmar (Burma)  
 migra - muutto (migraatio)  
 mikro bio - mikrobi  
 mikro bio logi - mikrobiologia  
@@ -2525,7 +2527,6 @@ musli - mysli
 mute - muuttaa (muuntaa)  
 muzika - musiikki  
 muzika ja - muusikko  
-Mianma - Myanmar (Burma)  
 
 ## N  
 
@@ -2959,6 +2960,8 @@ putau bagi - viinitarha
 pute - mätä  
 putong - yleinen (universaali)  
 Putong Han - yleiskiina (mandariinikiina)  
+Qatar - Qatar  
+Qazaqe - Kazakstan  
 
 ## R  
 
@@ -3292,6 +3295,7 @@ silke - silkki
 silke larva - silkkiäistoukka  
 sim - aate (aatteen kannatus, ismi)  
 sim ja - kannattaja (tukija, -isti)  
+simbol - tunnus (symboli)  
 simple - yksinkertainen (mutkaton)  
 sin - merkki (signaali)  
 sina - usko (luottamus)  
@@ -3369,6 +3373,7 @@ Sude Iria (Alonia) - Etelä-Ossetia
 Sude Sudan - Etelä-Sudan  
 sueda - hiki  
 sueda di - hikinen  
+Suen - Ruotsi  
 sui - vesi  
 sui chuli - vedenkäsittely  
 sui di - vetinen  
@@ -3406,7 +3411,6 @@ susan - lilja
 sushi - sushi  
 suta - taito  
 sutur - sauma (ommel)  
-Suen - Ruotsi  
 
 ## T  
 
@@ -3609,6 +3613,7 @@ uze ja nam - käyttäjänimi
 
 va - kanssa (-lla, kera; avulla, välineellä)  
 vaf - koira  
+vafle - vohveli  
 vagina - emätin (vagina)  
 vagina flam - emätintulehdus  
 vah - oho (vau)  
@@ -3632,6 +3637,7 @@ vakil ja - edustaja (agentti)
 vali - laakso  
 vali susan - kielo  
 Valis e Futuna nesi - Wallis ja Futuna  
+valse - valssi  
 valu - arvo  
 vampir - vampyyri  
 vampir ohtopus - vampyyritursas  
@@ -3720,6 +3726,7 @@ vise raja - varakuningas
 Vishnu - Višnu  
 viski - viski  
 vita - ruuvi  
+vitamin - vitamiini  
 viza - viisumi  
 vode - lupaus (vala)  
 vodun - voodoo  
@@ -3749,6 +3756,7 @@ yaki nesi - niemi
 yam - nauttia (syödä, juoda)  
 yam fito - kasvis  
 yam kamar - ruokasali  
+yam liste - ruokalista  
 yam she - ruoka  
 yam yau - nälkä  
 yang - laji (tyyppi, tyyli)  

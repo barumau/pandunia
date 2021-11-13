@@ -1269,6 +1269,7 @@ kucać (kucnąć) - lipa side
 kucharz - kuke ja  
 kuchnia - kuke kamar  
 kukurydza - mais  
+kukułka - kuku  
 kulomb - kulombe  
 kuloodporny - dana sekur  
 kult ognia - hogo puja  
@@ -1600,6 +1601,7 @@ motyka - chopu
 motyl - pelpel  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
+może - bil si  
 może - hai  
 mruganie (błysk) - fa sing foto  
 mrówka - murche  
@@ -2791,6 +2793,7 @@ Swalbard - Sualbarde
 swastyka - huke krus  
 Syberia - Sibiria  
 sylaba (zgłoska) - loga fen  
+symbol - simbol  
 syn - man ben  
 sypialnia - sona kamar  
 Syria - Suria  
@@ -3120,6 +3123,7 @@ w innym wypadku (inaczej) - alo
 waga (ciężkość) - veze  
 waga (urządzenie ważące) - veze metre gi  
 wagina - vagina  
+walc - valse  
 Walia - Kamri  
 walijski - kamri  
 walka, wojna - jang  
@@ -3220,6 +3224,7 @@ wirus - virus
 wirusologia - virus logi  
 Wisznu - Vishnu  
 witaj, dobre przybycie - salam lai  
+witamina - vitamin  
 witraż - rang kancha  
 witryna internetowa (portal internetowy) - nete loka  
 wiwatować; hura - ura  

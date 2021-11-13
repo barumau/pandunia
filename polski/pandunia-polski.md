@@ -27,11 +27,11 @@ air gun - siły powietrzne
 air porte - lotnisko (port lotniczy)  
 air presa - ciśnienie atmosferyczne  
 air presa metre gi - barometr  
-Eire - Irlandia  
 ais - lód  
 ais di - lodowy  
 ais hoki - hokej na lodzie  
 ais krem - lody  
+Aiti - Haiti  
 ajibu - dziw (cudo)  
 ajibu - zachwyt (zdumienie)  
 ajibu di - zachwycający (zdumiewający, zadziwiający)  
@@ -363,6 +363,7 @@ beton - beton
 betula - brzoza  
 Biblia - Biblia  
 bil - móc, umieć, możliwy, prawdopodobnie  
+bil si - może  
 bilor - kryształ  
 bina - budynek (struktura)  
 bina plan - architektura  
@@ -721,6 +722,7 @@ dute ja - niepewny (podejrzliwy, niedowierzący)
 e - i, oraz  
 eglisa - kościół  
 einstein yum - einstein  
+Eire - Irlandia  
 eko - natura, środowisko  
 eko di - środowiskowy, naturalny  
 eko jene di - dziki  
@@ -1312,7 +1314,6 @@ hai jele - meduza
 hai kinar - wybrzeże  
 hai porte - port morski (przystań)  
 haide - niech my, hajda  
-Aiti - Haiti  
 haki - prawo, przywilej  
 hal - stan  
 halal - dozwolony (dopuszczalny, zezwolony, halal)  
@@ -1473,8 +1474,8 @@ iode - jod; jodyna
 ion - jon  
 ion radi - radioaktywność  
 ion radi di - radioaktywny  
-Iraqi - Irak  
 Iran - Iran  
+Iraqi - Irak  
 iris yum - iryd  
 ironi - ironia  
 ironi di - ironiczny  
@@ -1692,13 +1693,11 @@ kastor - bóbr
 kata - opowiadanie, opowieść, legenda, saga  
 Katalunia - Katalonia  
 katana - miecz  
-Qatar - Katar  
 katus - kaktus  
 Kaukasia - Kaukazja  
 kauri - kauri  
 kavai - uroczy, słodki  
 kave - dół, jama, wydobycie, wykop, wykopalisko  
-Qazaqe - Kazachstan  
 ke - co?  
 ke jen - co?  
 ke loka - gdzie?  
@@ -1870,6 +1869,7 @@ kuke - gotować, szykować jedzenie
 kuke ja - kucharz  
 kuke kamar - kuchnia  
 Kuke nesi - Wyspy Cooka  
+kuku - kukułka  
 kul - świetny  
 kulombe - kulomb  
 kultur - kultura  
@@ -2208,6 +2208,7 @@ meza tela - obrus
 meza topo - płaskowyż (plateau)  
 mi - ja, mnie  
 mi su - mój  
+Mianma - Mjanma, Birma  
 migra - migracja  
 mikro - mikro-  
 mikro bio - mikroorganizm  (mikrob)  
@@ -2319,7 +2320,6 @@ musli - musli
 mute - zmienić, zmieniać  
 muzika - muzyka  
 muzika ja - muzyk  
-Mianma - Mjanma, Birma  
 
 ## N  
 
@@ -2750,6 +2750,8 @@ putau oranje - grejpfrut
 pute - zgniły  
 putong - powszechny, uniwersalny  
 Putong Han - mandaryński chiński, Putonghua  
+Qatar - Katar  
+Qazaqe - Kazachstan  
 
 ## R  
 
@@ -3102,6 +3104,7 @@ sili nete - kolczuga
 sili sili - łańcuch  
 silis - krzem  
 silke - jedwab  
+simbol - symbol  
 simple - prosty, nieskomplikowany  
 sin - znak, sygnał  
 sina - wiara, wierzenie, kredo  
@@ -3187,6 +3190,7 @@ Sude Jorjia e Sude Sanduiche nesi - Wyspy Georgia Południowa i Sandwich Połudn
 Sude Sudan - Sudan Południowy  
 sueda - pot  
 sueda di - spocony  
+Suen - Szwecja  
 sui - woda  
 sui di - wodny  
 sui gas - para wodna  
@@ -3229,7 +3233,6 @@ susan - lilia
 sushi - sushi  
 suta - umiejętność (kompetencja)  
 sutur - szew  
-Suen - Szwecja  
 
 ## T  
 
@@ -3423,6 +3426,7 @@ vakil ja - reprezentant (przedstawiciel)
 vali - dolina  
 vali susan - konwalia majowa  
 Valis e Futuna nesi - Saint Vincent i Grenadyny  
+valse - walc  
 valu - wartość  
 vampir - wampir  
 vampir ohtopus - wampirzyca piekielna (wampirnica)  
@@ -3500,6 +3504,7 @@ vise prezidente - wiceprezydent
 vise raja - wicekról  
 Vishnu - Wisznu  
 vita - śruba, wkręt  
+vitamin - witamina  
 viza - wiza  
 vodun - voodoo  
 vol - chcieć, pragnąć  

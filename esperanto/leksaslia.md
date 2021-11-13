@@ -550,6 +550,7 @@
 |**krus**|kruco|angla:cross, portugala:hispana:cruz, deu:Kreuz, franca:croix, japana:クロス (kurosu), rusa:крест (krest), konga:kuluzi, hindia:क्रूश (krūś)|
 |**kube**|kubo|hispana:portugala:cubo, deu:Kubus, angla:franca:cube, rusa:куб (kub), araba:(kaʿba), malaja:kubus, turka:küp|
 |**kudi**|kubuto|araba: كُوع‎ m (kūʿ) + franca:coude + hindia:कुहनी (kuhnī)|
+|**kuku**|kukolo|angla:cuckoo, franca:coucou, hispana:portugala:cuco, rusa:кукушка (kukushka), japana:郭公  (kakkō), mandarena:布谷鸟 (bùgǔniǎo)|
 |**kul**|bonega (mojosa)|angla:deu:franca:cool, japana:クール (kūru), mandarena:酷 (kù)|
 |**kultur**|kulturo|angla:franca:culture, hispana:portugala:cultura, rusa:культу́ра (kulʹtúra), turka:kültür, japana:カルチャー (karuchā)|
 |**Kung Fuzi**|Konfuceo|mandarena:孔夫子 (Kǒng Fūzǐ)|
@@ -893,6 +894,7 @@
 |**silis**|silicio|angla:silicon, franca:silicium, hispana:silicio, portugala:silício, rusa:кремний, vjetnama:silic, hindia:सिलिकॉन, bengala:সিলিকন, malaja:silikon, svahila:silikoni, araba: سيلكون|
 |**silke**|silko|mandarena:丝 (sī), kantona:絲 (si1), vua:絲 (sr1), korea:사 (sa) + angla:silk, hispana:portugala:sérico, rusa:шёлк (sholk)|
 |**sim**|ismo|taja:เสริม (soem) + angla:-ism, franca:-isme, hispana:portugala:-ismo, rusa:-изм (-izm), malaja:-isme|
+|**simbol**|simbolo|angla:symbol, franca:symbole, hispana:portugala:símbolo, rusa:символ (simbol), japana:シンボル (shinboru), malaja:simbol|
 |**simple**|simpla|angla:hispana:franca:simple, portugala:simples, deu:simpel|
 |**sina**|kredo|mandarena:信 (xìn), kantona:信 (seon3), japana:信 (shin), vjetnama:tin|
 |**sine**|brusto|persa:(sine), turka:sine, hindia:सीना (sīnā), bengala:সিনা (sinā), hispana:seno, franca:sein, latina:sinus|
@@ -939,7 +941,7 @@
 |**tanur**|forno|persa:heb:tanur, araba:(tannūr), angla:tandoor, athanor, turka:tandır, hindia:तनूर (tanūr), urdua:(tanūr), panĝaba:ਤੰਦੂਰ (tandūr), svahila:tanuri|
 |**tarjum she**|traduko|araba:ترجمة (tarjama), persa:ترجمه (tarjome), hindia:तर्जुमा (tarjuma), urdua:(tarjuma), bengala:তর্জমা (tôrjôma), malaja:terjemah, svahila:tarjumi, turka:tercüme|
 |**tasa**|plado|araba: طَاس (ṭās), svahila:tasa, turka:tas, franca:tasse, hispana:taza, rusa:таз, hindia:तश्तरी (tashtarī)|
-|**tatu**|tatuo|sam:tah:tatau, haw:kākau, malaja:tato, angla:tattoo, franca:tatouage, hispana:tatuaje, rusa:тату (tatu)|
+|**tatu**|tatuo|angla:tattoo, franca:tatouage, hispana:tatuaje, rusa:тату (tatu), malaja:tato, sam:tah:tatau, haw:kākau|
 |**tava**|pato|hindia:तवा (tavā), turka:tava, persa:(tābe)|
 |**taza**|freŝa|turka:taze, hindia:ताज़ा (tāzā), bengala:তাজা (taja), persa:(tâze)|
 |**tehni yum**|teknecio|angla:technetium, franca:technétium, hispana:tecnetio, portugala:tecnécio, rusa:технеций, mandarena:锝 (dé), japana:テクネチウム, korea:테크네튬, vjetnama:tecnexi, hindia:टेक्निशियम, bengala:টেকনিসিয়াম, malaja:teknetium, svahila:tekineti, araba: تكنيتيوم|
@@ -951,7 +953,7 @@
 |**teori**|teorio|angla:theory, hispana:teoría, portugala:teoria, franca:téorie, rusa:теория (teoriya), persa:تئوری‎ (teori), malaja:teori|
 |**tepe**|bendo|angla:tape, svahila:tepe, japana:テープ (tēpu), korea:테이프 (teipeu), turka:teyp, hindia:टेप (tep)|
 |**terbi yum**|terbio|angla:terbium, franca:terbium, hispana:terbio, portugala:térbio, rusa:тербий, mandarena:铽 (tè), japana:テルビウム, korea:테르븀, 2터븀, vjetnama:tecbi, hindia:टर्बियम, bengala:টার্বিয়াম, malaja:terbium, svahila:taribi, araba: تربيوم|
-|**teror**|teroro|angla:hispana:portugala:terror, franca:terreur|
+|**teror**|teroro|angla:hispana:portugala:terror, franca:terreur + rusa:терроризм (terrorizm), japana:テロリズム (terorizumu), korea:테러리즘 (tereorijeum), malaja:terorisme|
 |**teste**|testo|angla:franca:test, rusa: тест (test), portugala:teste, turka:test|
 |**tire**|tiri|hispana:portugala:tirar, franca:tirer, angla:tear, turka:tire, malaja:tarik|
 |**titan yum**|titanio|angla:titanium, franca:titane, hispana:titanio, portugala:titânio, rusa:титан, mandarena:钛 (tài), japana:チタン, korea:타이타늄, vjetnama:titan, hindia:टाइटानियम, bengala:টাইটেনিয়াম, malaja:titanium, svahila:titani, araba: تيتانيوم|
@@ -984,6 +986,7 @@
 |**uze**|uzi|angla:use, franca:user, hispana:portugala:usar, polona:używać|
 |**va**|kun (per)|araba: و‎ (wa), hindia:व (va), persa:urdua: و‎ (va), turka:ve + kantona:和 (wo4), vjetnama:và|
 |**vaf**|hundo|angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)|
+|**vafle**|vaflo|angla:waffle, deu:Waffel, rusa:вафля (vaflya), mandarena:窝夫 (wōfū), japana:ワッフル (waffuru), korea:와플 (wapeul)|
 |**vagina**|vagino|angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina|
 |**vah**|ŭaŭ!|angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah|
 |**vai**|ekstero|mandarena:外 (wài), kantona:外 (ngoi6), japana:外 (gai), korea:외 (oe), vjetnama:ngoại;ngoài|
@@ -1030,7 +1033,7 @@
 |**zebra**|zebro|angla:portugala:turka:zebra, hispana:cebra, rusa:зебра (zebra), hindia:ज़ेब्रा (zebrā), japana:ゼブラ (zebura)|
 |**zeyil**|veruko|persa:زگیل (zegil), turka:siğil, aze:ziyil, fin:syylä|
 |**zina**|malfideleco|araba:(zināʾ), malaja:turka:zina, svahila:zinaa, urdua:(zinā), persa:(zenā)|
-|**zinji**|zingibro|tamila:இஞ்சி (inji), angla:ginger, araba:(zanjabīl), turka:zencefil, franca:gingembre|
+|**zinji**|zingibro|angla:ginger, franca:gingembre, hispana:gengibre, portugala:jengibre, mandarena:姜 (jiāng), tamila:இஞ்சி (inji), araba: زنجبيل‎ (zanjabīl), turka:zencefil|
 |**zinke**|zinko|angla:zinc, franca:zinc, hispana:cinc, portugala:zinco, rusa:цинк, mandarena:锌 (xīn), bengala:জিঙ্ক, malaja:seng, svahila:zinki|
 |**zira**|kumino|bengala:জিরা (zīra), hindia:ज़ीरा (zīrā), tamila:சீரகம் (sīrakam), svahila:mjira, persa:(zire), mandarena:孜然 (zīrán)|
 |**zirkon yum**|zirkonio|angla:zirconium, franca:zirconium, hispana:circonio, portugala:zircónio, rusa:цирконий, japana:ジルコニウム, korea:지르코늄, vjetnama:ziriconi, hindia:जर्कोनियम, bengala:জিরকোনিয়াম, malaja:zirkonium, svahila:zirikoni, araba: زيركونيوم|

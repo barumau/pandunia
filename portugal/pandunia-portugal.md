@@ -159,6 +159,7 @@ berkli yum - berqueélio
 betula - bétula  
 bichi - chicote  
 bil - possível  
+bil si - talvez  
 bil ta - habilidade (capacidade)  
 bilor - cristal  
 bina plan - arquitetura  
@@ -782,6 +783,7 @@ kuarze - quartzo
 kube - cubo  
 kudi - cotovelo  
 kudi metre - cúbito (côvado)  
+kuku - cuco  
 kupa - copo (taça)  
 kupre - cobre  
 kurban - sacrifício  
@@ -839,6 +841,7 @@ lili kaboga - abobrinha
 lili seku - pedrinha  
 lima - cinco (5)  
 limon - limão  
+limon jus - limonada  
 lin - linha (fio)  
 lin so - fibra  
 linke - conexão (vínculo, laço)  
@@ -1338,6 +1341,7 @@ sili tika - elo
 silis - silício  
 silke - seda  
 silke larva - bicho-da-seda (sirgo)  
+simbol - símbolo  
 sing - estrela  
 sir plan - complô (conspiração)  
 siro - zero  
@@ -1443,6 +1447,7 @@ uran yum - urânio
 ## V  
 
 vaf - cão (cachorro)  
+vafle - waffle  
 vagina - vagina  
 vagina flam - vaginite  
 vah - uau  
@@ -1455,6 +1460,7 @@ vai vide di - evidente
 vai yam - piquenique  
 vali - vale (uadi)  
 vali susan - lírio-do-vale  
+valse - valsa  
 valu - valor (valia)  
 vampir - vampiro  
 vanadi yum - vanádio  
@@ -1490,6 +1496,7 @@ vise ma - madrasta
 vise pa - padrasto  
 vise raja - vice-rei  
 Vishnu - Vixnu  
+vitamin - vitamina  
 vode - promessa (voto)  
 vol - querer (desejar)  
 vol she - vontade  
@@ -1507,6 +1514,7 @@ xenon - xénon
 ya - sim  
 Yahve - Javé (Jeová)  
 yam fito - verdura (hortaliça, legume)  
+yam liste - cardápio (menu)  
 yam yau - fome  
 yasen - freixo  
 yatim dom - orfanato  
