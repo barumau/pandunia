@@ -2,7 +2,9 @@
 -idad - ta  
 -ésimo - me  
 a (hacia) - do  
-####A - A  
+
+## A  
+
 abedul - betula  
 abeja - medu fong  
 abeja o avispa - fong  
@@ -71,6 +73,7 @@ aeropuerto - air porte
 aeróbico - air bio di  
 afecto (emoción) - emosi  
 Afganistán - Afghan  
+afilado (puntiagudo) - gata ja  
 afrontar - verse  
 agacharse - lipa side  
 agorafobia - medan fobi  
@@ -212,6 +215,7 @@ aquí (acá) - na ni
 Arabia Saudita - Saudi Arabia  
 aracnofobia - arane fobi  
 araña - arane  
+arañar - fa nahun  
 arboreto - moka jong parke  
 arbusto (mata) - tal moka  
 arca de la Alianza - liga di sanduku  
@@ -321,7 +325,9 @@ azul - blu
 azur (blao) - lazur  
 azúcar - sukar  
 año - nen  
-####B - B  
+
+## B  
+
 babor - nave lefte  
 bacalao - bakalau  
 bacalao común - atlanti bakalau  
@@ -477,12 +483,15 @@ Bélgica - Belgi
 bóveda - arka chati  
 bóxer - bokse pante  
 búbalo (arni) - karbau  
-####C - C  
+
+## C  
+
 caballo - uma  
 cabaña - kabin  
 cabello - sar kesha  
 cabeza - sar  
 cable - eletro lin  
+cable - kable  
 Cabo Verde - Kabu Verde  
 cabra - behe  
 caca - kaka  
@@ -872,7 +881,7 @@ costumbre (tradición, convención) - suna
 costura (sutura) - sutur  
 cota de malla - sili nete  
 crecemiento - raste  
-crecer (aumentar) - be dai  
+crecer (aumentar, hincharse) - be dai  
 crecer - be raste  
 creencia (fe) - sina  
 creer - fa sina  
@@ -922,6 +931,7 @@ cuchara de sopa - supa chamacha
 cucharilla - chai chamacha  
 cucharón (cazo) - pote chamacha  
 cuchillo - chaku  
+cuello (nuca, pescuezo) - nuka  
 cuenta (factura) - fatura  
 cuenta - hisabu loge  
 cuento (relato corto) - korte kata  
@@ -946,7 +956,7 @@ curri - kari
 curva - kurva  
 curvo - kurva di  
 cuál cosa - ke she  
-cuándo - ke sate  
+cuándo - ke sata  
 cuántos - ke multi di  
 cálamo - gana kalam  
 cálculo - kalkul  
@@ -965,7 +975,9 @@ cómo? (eh?) - he
 cómodo (lujoso) - hushi  
 cósmico - kosmo di  
 cúpula - kupa chati  
-####D - D  
+
+## D  
+
 dado - zar kube  
 damas - dama gem  
 danés - Danske  
@@ -1144,8 +1156,11 @@ día de San Juan - Yohan festa
 día de semana - var  
 día festivo (feriado) - festa den  
 dígital - komputa di  
+dónde - ke loka  
 dónde - na ke  
-####E - E  
+
+## E  
+
 eco - mira sonde  
 ecología - eko logi  
 economía - mal nomi  
@@ -1301,6 +1316,8 @@ esperar - dele do
 espicificar (estipular) - fa sharti  
 espiral (hélice) - helis  
 esponja - esponje  
+esposa - fem gami  
+esposo - man gami  
 esposo o esposa - gami jen  
 espárrago - lusun  
 espíritu (genio) - jini  
@@ -1373,7 +1390,9 @@ extraer - fa vai trata
 extranjero - vai desha di  
 exógeno - vai jene di  
 exónimo - vai nam  
-####F - F  
+
+## F  
+
 facción - shia  
 facilidad - fasil ta  
 falda - jupe  
@@ -1418,7 +1437,7 @@ filósofo - filsofi ja
 fin (el final) - fin  
 final (último) - fin me  
 Finlandia - Suomi  
-fino (delgado, delicado) - fine  
+fino (delgado, angosto, estrecho, delicado) - fine  
 fiordo - fiorde  
 firmar - nam kitabu  
 fisicoculturismo (culturismo, musculación) - muskul bina  
@@ -1482,7 +1501,9 @@ física nuclear - kerne fizika
 físico (científico) - fizika ja  
 fósforo - pospor  
 fútbol - fute bol  
-####G - G  
+
+## G  
+
 Gabón - Gabon  
 gacela - gazel  
 gadolinio - gadolin yum  
@@ -1502,6 +1523,7 @@ ganso (oca) - ganse
 garam masala - garma masala  
 garantía - garanti  
 garbanzo - humus  
+garganta  - gala  
 garlopa - rande  
 garrapata (ácaro) - akare  
 gas - gas  
@@ -1549,7 +1571,9 @@ global (de todo el mundo) - pan dunia di
 global (mundial) - dunia di  
 globo - balon  
 gluten - gluten  
-GM####S - vijin  
+GM
+## vijin  
+
 gobernante (soberano) - sultan ja  
 gobernar - fa politi  
 gobierno - politi  
@@ -1614,7 +1638,9 @@ guía - gida ja
 guía de viaje - gida buku  
 género gramatical - basha jinse  
 género social - sosi jinse  
-####H - H  
+
+## H  
+
 habilidad (capacidad) - bil ta  
 habitación (cuarto, sala, pieza) - kamar  
 habla (palabras) - loga  
@@ -1646,6 +1672,7 @@ helecho - parne
 helicóptero - helis fei gi  
 helio - heli yum  
 heno - gan gazo  
+hepatitis - gani flam  
 hercio (Hz) - herze  
 hermano o hermana - brus  
 hermoso (bello, lindo) - sundar  
@@ -1727,7 +1754,10 @@ hurón - furete
 huérfano - yatim  
 héroe - hero  
 híbrido (mestizo) - hibride  
-####I - I  
+hígado - gani  
+
+## I  
+
 idea (noción, concepto) - idea  
 idea (pensamiento, reflexión) - fikir  
 ideograma - idea zi  
@@ -1823,6 +1853,7 @@ interracial - rasa medi
 interrogativa - sual di  
 interés - sabe vol  
 interétnica - zuku medi di  
+intestino (visceras, entrañas, tripas) - antra  
 introvertido - in verse jen  
 invernal - leng mosim di  
 invierno - leng mosim  
@@ -1864,7 +1895,9 @@ iterbio - yuterbi yum
 itrio - yuter yum  
 izquerdista - lefte sim ja  
 izquierdo - lefte di  
-####J - J  
+
+## J  
+
 jabón - sabun  
 jade - giuka  
 jainismo - jain din  
@@ -1907,7 +1940,9 @@ justicia - adil ta
 justo - adil  
 juventud - jovan ta  
 juzgar - fa jude  
-####K - K  
+
+## K  
+
 karaoke - karaoke  
 karate - karate  
 karité - karite  
@@ -1926,7 +1961,9 @@ Kosovo - Kosovo
 kumquat (quinoto) - gingam  
 Kuwait - Kuvaite  
 kétchup - kechape  
-####L - L  
+
+## L  
+
 labio - labi  
 laca - laka  
 lado (flanco) - late  
@@ -2070,7 +2107,9 @@ límite (frontera, linde) - limite
 líquido (fluido) - dara mate di  
 líquido - dara mate  
 lógica - logika  
-####M - M  
+
+## M  
+
 Macao - Makau  
 Macedonia del Norte - Norde Makedonia  
 maceta (plantera) - hua pote  
@@ -2333,6 +2372,7 @@ multicultural - poli kultur di
 multiculturalismo - poli kultur sim  
 multilingüe (plurilingüe) - poli basha di  
 multinacional - poli nasi di  
+multiplicar - fa multi  
 mundo - dunia  
 murciélago - fei mushu  
 muro (muralha) - mur  
@@ -2357,7 +2397,9 @@ Mónaco - Monako
 músculo - muskul  
 música - muzika  
 músico - muzika ja  
-####N - N  
+
+## N  
+
 nacer - be jene  
 nacimiento (origen) - jene  
 nacional - nasi di  
@@ -2406,6 +2448,7 @@ newton (N) - niuton
 neón - neon  
 Nicaragua - Nikaragua  
 nido (avispero, hormiguero, ratonera) - nide  
+niebla - tal megi  
 nieve - hima  
 Nieves - Nevis  
 Nigeria - Naijiria  
@@ -2465,7 +2508,9 @@ número (muchedumbre) - multi ta
 número - nomer  
 número de identificación personal - sekur nomer  
 número par - par nomer  
-####O - O  
+
+## O  
+
 o - o  
 oasis - vase  
 objetivo - dike  
@@ -2544,7 +2589,9 @@ otro - alo
 oveja - meme  
 oxígeno - oksi  
 oír (escuchar) - audi  
-####P - P  
+
+## P  
+
 paciente - pati jen  
 pacifismo - pase sim  
 pacifista - pase sim ja  
@@ -2664,6 +2711,7 @@ peine - kanga
 Pekín - Beijing  
 pelado (desvellado) - kesha hin  
 pelea (guerra, batalla) - jang  
+pelear - fa jang  
 peligro - hatar  
 peligroso - hatar di  
 pelo - kesha  
@@ -2736,6 +2784,7 @@ pino - songi
 pintar - fa pente  
 pintor - pente ja  
 pintura - pente  
+piojo - poyu  
 piperita - pipre minta  
 pirata - pirate ja  
 piratería - pirate  
@@ -2948,7 +2997,9 @@ qué - ke
 qué tipo de - ke yang  
 química - kimi logi  
 químico - kimi di  
-####R - R  
+
+## R  
+
 racismo - rasa sim  
 racista - rasa sim ja  
 ración (dosis) - doze  
@@ -3042,6 +3093,7 @@ resina - rezin
 respetable (honorable) - onor di  
 respeto (honor) - onor  
 respiración - nafas  
+respirar - fa nafas  
 responder (contestar) - fa javabu  
 restaurante - restorante  
 resto (demás) - reste  
@@ -3115,7 +3167,9 @@ régimen - politi mode
 réservation - rezerve  
 rígido (sólido) - gati mate di  
 rótula - guta kaske oste  
-####S - S  
+
+## S  
+
 sabana - garma zona gazo topo  
 sabbat - sabate  
 saber (conocer) - sabe  
@@ -3332,7 +3386,9 @@ sándwich (sánduche) - sanduiche
 sí - ya  
 sílaba - loga fen  
 sólido - gati mate  
-####T - T  
+
+## T  
+
 tabaco - tabaku  
 tabla (lámina, plancha) - table  
 tabla - data table  
@@ -3486,6 +3542,7 @@ tranquilo (calmado) - shanti di
 transcurrir - si dur  
 transitar (atravesar) - fa transe  
 Transnistria (Cisdniéster) - Transe Nistre Desha  
+trapo (tela para limpiar) - safa tela  
 trasero (nalgas) - pigu  
 tratar (llevar, manejar, lidiar, procesar) - fa chuli  
 tratar de - tema  
@@ -3533,7 +3590,9 @@ tú (usted) - tu
 túnel - tunel  
 Túnez - Tunis  
 túnica - tunika  
-####U - U  
+
+## U  
+
 Ucrania - Ukraina  
 Uganda - Ganda  
 una vez - un mar  
@@ -3560,7 +3619,9 @@ utilizable (disponible) - uze bil di
 uva - putau  
 Uzbekistán - Uzbeki  
 uña - nahun  
-####V - V  
+
+## V  
+
 vaca (toro) - mumu  
 vacuna - vasin  
 vacío (desocupado) - hali  
@@ -3670,10 +3731,14 @@ vulva - vulva
 válvula (llave, canilla) - kran  
 vía férrea - tren dau  
 Wallis y Futuna - Valis e Futuna nesi  
-####X - X  
+
+## X  
+
 xenón - xenon  
 y - e  
-####Y - Y  
+
+## Y  
+
 ya (acción completado) - fin  
 yac - yake  
 Yahvé (Jehová) - Yahve  
@@ -3690,7 +3755,9 @@ yudo - judau
 yugo - yogo  
 yunque - metal bede  
 yupi - yei  
-####Z - Z  
+
+## Z  
+
 Zambia - Zambia  
 zanahoria - karote  
 zapatero - sapatu ja  

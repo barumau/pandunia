@@ -1,5 +1,7 @@
 # pandunia-espanya
-####A - A  
+
+## A  
+
 a - pero (sino)  
 a min da - excepto (menos)  
 abies - abeto  
@@ -110,6 +112,7 @@ anjil ja - mensajero
 Antartika - antartida  
 Antartika Hai - océano Antártico  
 antena - antena  
+antra - intestino (visceras, entrañas, tripas)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua y Barbuda  
 anus - ano  
@@ -191,7 +194,9 @@ avar ja - dañino (perjudicial)
 ave - avena  
 ayo - ay!  
 Azerbaijan - Azerbaiyán  
-####B - B  
+
+## B  
+
 babu - capítulo (sección)  
 babuche - chinelo (pantufa)  
 bacha - niño o niña  
@@ -289,7 +294,7 @@ be boli - hervirse (ser cocida)
 be bum - explotar (estallar)  
 be bum - explosionar  
 be chen - preceder (anteceder)  
-be dai - crecer (aumentar)  
+be dai - crecer (aumentar, hincharse)  
 be dara - fluir  
 be dom - vivir (residir)  
 be duka - llorar  
@@ -465,7 +470,9 @@ buta - bota
 buton - tecla (botón)  
 buton bano - teclado  
 buyu - baobab  
-####C - C  
+
+## C  
+
 celsius darje - grado Celsius  
 Ceres - Ceres (planeta enano)  
 ceres yum - cerio  
@@ -542,7 +549,9 @@ chuze - elección
 chuze she - opción  
 chuze yo gol - destinar  
 Cuana - Botsuana  
-####D - D  
+
+## D  
+
 da - de (posposición de posesión)  
 dai - grande  
 dai anjil ja - embajador  
@@ -727,7 +736,9 @@ dus vide - feo
 dus zar - infortunio (mala suerte)  
 dush - ducha  
 dute - duda  
-####E - E  
+
+## E  
+
 e - y  
 e mas - además  
 eglisa - iglesia  
@@ -798,7 +809,9 @@ europa baluta - roble común
 europa di - europeo  
 Europa Unta - Unión Europea  
 europa yum - europio  
-####F - F  
+
+## F  
+
 fa - hacer  
 fa achar - encurtir  
 fa ajibu - asombrar  
@@ -865,6 +878,7 @@ fa hisabu - calcular
 fa hogo - quemar  
 fa in klus - incluir  
 fa jama - recoger (juntar, reunir, acumular, recolectar, montar)  
+fa jang - pelear  
 fa javabu - responder (contestar)  
 fa jela - encarcelar (aprisionar)  
 fa jene - dar a luz (enngendrar, parir, procrear)  
@@ -909,8 +923,11 @@ fa min rai - subestimar
 fa ming - iluminar  
 fa model - modelo  
 fa mol - moler (pulverizar)  
+fa multi - multiplicar  
 fa multi do du - doblar (multiplicar por dos)  
 fa muzika - tocar música  
+fa nafas - respirar  
+fa nahun - arañar  
 fa najis - corromper (contaminar)  
 fa nam - llamar (poner)  
 fa node - hacer un nudo  
@@ -1051,6 +1068,7 @@ fei gi - aeroplano
 fei mushu - murciélago  
 fem - mujer (hembra)  
 fem ben - hija  
+fem gami - esposa  
 fem raja - reina  
 fem sim - feminismo  
 fem sim ja - feministe  
@@ -1080,7 +1098,7 @@ fin - fin (el final)
 fin - terminar (acabar)  
 fin - ya (acción completado)  
 fin me - final (último)  
-fine - fino (delgado, delicado)  
+fine - fino (delgado, angosto, estrecho, delicado)  
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
 fito - planta (vegetal, vegetación)  
@@ -1158,7 +1176,9 @@ fute - pie (pata)
 fute bano - andamiaje  
 fute bol - fútbol  
 fute marke - pisada (huella)  
-####G - G  
+
+## G  
+
 ga - ir  
 Gabon - Gabón  
 gabur - tumba (sepultura, enterrar)  
@@ -1166,6 +1186,7 @@ gabur bagi - cementerio
 gabur seku - lápida  
 gadolin yum - gadolinio  
 gaja - elefante  
+gala - garganta   
 galaksi - galaxia  
 galeri - galería  
 gali yum - galio  
@@ -1191,6 +1212,8 @@ Gana - Ghana
 gana - caña  
 gana kalam - cálamo  
 Ganda - Uganda  
+gani - hígado  
+gani flam - hepatitis  
 Ganga - Ganges  
 ganja - cannabis (hachís, marihuana)  
 ganse - ganso (oca)  
@@ -1210,6 +1233,7 @@ gas - gas
 gas di - gaseoso  
 gata - cortar  
 gata glu bano - portapapeles  
+gata ja - afilado (puntiagudo)  
 gati - duro  
 gati mate - sólido  
 gati mate di - rígido (sólido)  
@@ -1332,7 +1356,9 @@ guste ka - tener gusto a
 guta - rodilla  
 guta kaske oste - rótula  
 Guyana - Guyana  
-####H - H  
+
+## H  
+
 ha - tener  
 habar - noticias  
 habar gazeta - periódico (diario)  
@@ -1481,7 +1507,9 @@ huru sim di - liberal
 huru sim ja - liberalista  
 huru ta - libertad  
 hushi - cómodo (lujoso)  
-####I - I  
+
+## I  
+
 ibri - hebreo  
 ichi - querer (disponer)  
 ichi - voluntad  
@@ -1541,7 +1569,9 @@ islam fobi - islamofobia
 Islande - Islandia  
 Israel - Israel  
 Italia - Italia  
-####J - J  
+
+## J  
+
 ja - hacedor (perpetrador)  
 jaga - despertar  
 jaga - despierto  
@@ -1631,10 +1661,13 @@ jusha - inyección
 jusha - inyectar  
 juste - exacto (preciso)  
 juste pau ja - francotirador  
-####K - K  
+
+## K  
+
 ka - que (como, en comparación con)  
 kababu - asar  
 kabin - cabaña  
+kable - cable  
 kaboga - calabaza  
 Kabu Verde - Cabo Verde  
 kadim yum - cadmio  
@@ -1757,9 +1790,10 @@ kave - fosa
 Qazaqe - Kazajistán (Kazakistan)  
 ke - qué  
 ke jen - quién  
+ke loka - dónde  
 ke multi di - cuántos  
 ke riti - cómo  
-ke sate - cuándo  
+ke sata - cuándo  
 ke she - cuál cosa  
 ke yang - qué tipo de  
 kechape - kétchup  
@@ -1944,7 +1978,9 @@ kush - acostar (poner)
 kush - acostarse (echarse, tenderse, tumbarse)  
 kushen - almohada  
 Kuvaite - Kuwait  
-####L - L  
+
+## L  
+
 la - el (la)  
 laba - clarín (corneta)  
 labi - labio  
@@ -2092,7 +2128,9 @@ luta ja - ladrón
 Luter din - luteranismo  
 Luter din ja - luterano  
 lutesi yum - lutecio  
-####M - M  
+
+## M  
+
 ma - madre (mamá)  
 ma di - maternal  
 Madagasi - Madagascar  
@@ -2127,6 +2165,7 @@ Malvinas nesi - Islas Malvinas
 mamal - mamífero  
 man - masculino (macho)  
 man ben - hijo  
+man gami - esposo  
 man raja - rey  
 mana - significado (acepción)  
 manera - comportamiento (conducta)  
@@ -2377,7 +2416,9 @@ mute - cambiar
 muzika - música  
 muzika ja - músico  
 Mianma - Myanmar (Birmania)  
-####N - N  
+
+## N  
+
 na - en (a)  
 na go - allí (allá)  
 na in - dentro  
@@ -2534,7 +2575,10 @@ Nove Zelande - Nueva Zelanda
 nude - desnudo  
 nude sim - nudismo  
 nude sim ja - nudista  
-####O - O  
+nuka - cuello (nuca, pescuezo)  
+
+## O  
+
 o - o  
 Oceania - Oceanía  
 Odisa - oriya  
@@ -2570,7 +2614,9 @@ osmos - ósmosis
 oste - hueso  
 oste jama - esqueleto (armazón)  
 Ostria - Austria  
-####P - P  
+
+## P  
+
 pa - padre (papá)  
 pa di - paternal  
 pade - caer  
@@ -2794,6 +2840,7 @@ pote chamacha - cucharón (cazo)
 pote ja - alfarero  
 pote suta - alfarería  
 poze - pose (postura)  
+poyu - piojo  
 prati - práctica  
 prati di - práctico  
 prazedim yum - praseodimio  
@@ -2834,7 +2881,9 @@ putau oranje - pomelo (toronja)
 pute - podrido (cariado)  
 putong - general (common)  
 Putong Han - chino mandarín  
-####R - R  
+
+## R  
+
 radi - radiar (emitir)  
 radi - rayo  
 radi - radiación  
@@ -2953,7 +3002,9 @@ rusia basha - idioma ruso
 rute - ruta  
 ruterfor yum - rutherfordio  
 rutin - rutina (hábito)  
-####S - S  
+
+## S  
+
 sabate - sabbat  
 sabe - saber (conocer)  
 sabe logi - epistemología  
@@ -2966,6 +3017,7 @@ sabun - jabón
 sada - sencillo (liso)  
 safa - limpio  
 safa ja - limpiador  
+safa tela - trapo (tela para limpiar)  
 safar - viaje  
 safar ja - viajero  
 safar kegu - turismo  
@@ -3317,7 +3369,9 @@ sushi - sushi
 suta - dotes (arte, habilidad)  
 sutur - costura (sutura)  
 Suen - Suecia  
-####T - T  
+
+## T  
+
 ta - -idad  
 tabaku - tabaco  
 tabi - disposición (naturaleza, carácter, -ivo)  
@@ -3337,6 +3391,7 @@ taksi - tasa (precio, cuota, tarifa)
 taksi kar - taxi (cab)  
 tal - fondo  
 tal di - bajo  
+tal megi - niebla  
 tal moka - arbusto (mata)  
 tal tela - alfombra (tapete)  
 tali yum - talio  
@@ -3469,7 +3524,9 @@ Turkomen - Turkmenistán
 tuta - moral (moro)  
 Tuvalu - Tuvalu  
 tuzi - conejo (liebre)  
-####U - U  
+
+## U  
+
 UDA di - estadounidense  
 uhu - llorar  
 Ukraina - Ucrania  
@@ -3505,7 +3562,9 @@ uze - usar (aplicar)
 uze bil di - utilizable (disponible)  
 uze ja - usuario  
 uze ja nam - nombre de usuario  
-####V - V  
+
+## V  
+
 va - con  
 vaf - perro  
 vagina - vagina  
@@ -3551,6 +3610,9 @@ varis - patrimonio (herencia, legado)
 vase - oasis  
 vashi - lavar  
 vashi urso - mapache  
+Vashington D
+##   
+
 vasin - vacuna  
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
@@ -3620,9 +3682,13 @@ vote - voto
 vote haki - sufragio (derecho al voto)  
 vulva - vulva  
 vutu - objeto (artículo)  
-####X - X  
+
+## X  
+
 xenon - xenón  
-####Y - Y  
+
+## Y  
+
 ya - sufijo para regiónes y sustantivos abstractos  
 ya - sí  
 Yahve - Yahvé (Jehová)  
@@ -3675,7 +3741,9 @@ yung liga - fusión
 yung petra - lava  
 yuter yum - itrio  
 yuterbi yum - iterbio  
-####Z - Z  
+
+## Z  
+
 zai - existir (actualmente)  
 zai den - hoy  
 zai di - actual (presente)  

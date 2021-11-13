@@ -1,5 +1,7 @@
 # pandunia-rus
-####A - A  
+
+## A  
+
 a - а (но)  
 abies - пихта  
 achar di - марино́ванный  
@@ -52,6 +54,7 @@ angul pike - кончик пальца
 anime - оживление  
 anjil - месседж  
 antena - антенна  
+antra - внутренности  
 anus - анус  
 aple - яблоко  
 aple sos - яблочное пюре  
@@ -94,7 +97,9 @@ Austronesi - Австронезия
 auto loga - монолог  
 avar - повреждение (авария)  
 ave - овёс  
-####B - B  
+
+## B  
+
 babu - глава  
 babul - вахелия  
 bacha - ребёнок  
@@ -222,7 +227,9 @@ buro krati - бюрократия
 bus halte - автобусная остановка  
 buta - ботинок  
 buton - пуговица  
-####C - C  
+
+## C  
+
 ceres yum - церий  
 cesi yum - цезий  
 chabi - ключ  
@@ -258,7 +265,9 @@ choklate - шоколад
 chopu - мотыга  
 chuli - процесс  
 chun - деревня (село)  
-####D - D  
+
+## D  
+
 dai dom - дворец (особняк)  
 dai hai - океан  
 dai lasun - лук исполинский  
@@ -341,7 +350,9 @@ dus jen - враг (противник)
 dus sin di - зловещий  
 dus vide - безобразный (некрасивый)  
 dush - душ  
-####E - E  
+
+## E  
+
 einstein yum - эйнштейний  
 eko jene di - дикий  
 ekore - белка  
@@ -368,7 +379,9 @@ eu anjil - евангелие
 eu loga - панегирик  
 europa baluta - дуб черешчатый  
 europa yum - европий  
-####F - F  
+
+## F  
+
 fa - делать  
 fa alo - изменять  
 fa argu - аргументи́ровать  
@@ -409,6 +422,7 @@ fa plasti - лепить
 fa presa - нажимать  
 fa pul - заполнять  
 fa re - повторять  
+fa safa va tela - вытереть  
 fa sel - советовать  
 fa shiti bai - проиграть (провалиться)  
 fa shopi - покупать (купить)  
@@ -445,6 +459,7 @@ fermi yum - фермий
 fero - железо  
 filme - плева (фильм)  
 filsofi - философия  
+fine - тонкий (узкий)  
 fiorde - фьорд  
 firuze - бирюза  
 fito - растение  
@@ -477,18 +492,22 @@ fuku vashi gi - стиральная машина
 fungu frute - гриб  
 fute bol - футбол  
 fute marke - след ноги  
-####G - G  
+
+## G  
+
 ga - идти  
 gabur - могила (гроб, хоронить)  
 gabur bagi - кладбище  
 gabur seku - надгробие  
 gadolin yum - гадолиний  
+gala - горло (глотка)  
 galaksi - галактика  
 gali yum - галлий  
 Galia - Галлия  
 galope - кентер и галоп  
 gamba - креветка  
 gan gazo - сено  
+gani - печень  
 ganse - гусь  
 ganum - пшеница  
 gar - если  
@@ -548,7 +567,9 @@ gun jen - солдат
 gun raja - генералиссимус  
 guta - колено  
 guta kaske oste - надколенник  
-####H - H  
+
+## H  
+
 ha - иметь  
 habar - новости  
 Habasha - Абиссиния  
@@ -617,7 +638,9 @@ huke krus - свастика
 huke lin kane - удочка  
 huli - лиса  
 huru - свободный (вольный)  
-####I - I  
+
+## I  
+
 iha uma - мул  
 in bum - имплозия  
 in migra - иммигрировать  
@@ -632,7 +655,9 @@ iode - йод
 iris yum - иридий  
 ironi - ирония  
 islam din - ислам (мусульманство)  
-####J - J  
+
+## J  
+
 jamul - джамболан  
 jan buda din - дзен-буддизм  
 janela - окно  
@@ -667,9 +692,12 @@ Jupiter - Юпитер
 jus - сок  
 juste - точный  
 juste pau ja - снайпер  
-####K - K  
+
+## K  
+
 ka - чем  
 kababu nama - кебаб  
+kable - верёвка (канат)  
 kaboga - тыква  
 kadim yum - кадмий  
 kafe - кофе  
@@ -742,7 +770,11 @@ katus - кактус
 kauri - каури  
 kave - яма  
 ke - что  
+ke jen - кто  
+ke loka - где  
 ke riti - как  
+ke sata - когда  
+ke yang - какой  
 Keme - Древний Египет  
 kesha brosha - щётка для воло́с  
 kesha hin - безволосый  
@@ -818,7 +850,9 @@ kuri yum - кюрий
 kurva - кривая  
 kush - положить  (уложить)  
 kush - лежать  
-####L - L  
+
+## L  
+
 lai - приходить  
 laji - мусор (дрянь)  
 laji bagi - свалка  
@@ -895,7 +929,9 @@ luta ja - грабитель
 Luter din - лютера́нство  
 Luter din ja - лютеранский  
 lutesi yum - лютеций  
-####M - M  
+
+## M  
+
 ma - мать (мама)  
 ma di - материнский  
 magen yum - магний  
@@ -949,6 +985,7 @@ medi noche - полночь
 medu - мёд  
 medu fong nide - улей (соты)  
 megi - облако  
+megi di - туманный  
 meitner yum - майтнерий  
 melon - дыня  
 memo - память  
@@ -1007,7 +1044,9 @@ mushu - мышь
 muskul bina - культуризм  
 musli - мюсли  
 muzika - музика  
-####N - N  
+
+## N  
+
 na - в (на)  
 na go - там  
 na lin - онлайн  
@@ -1071,7 +1110,10 @@ nove ka - новичок
 nove loga - неологизм  
 nove ta - новизна  
 nu - ну  
-####O - O  
+nuka - шея  
+
+## O  
+
 o - или  
 oganeson - оганесон  
 ohtopus - спрут (осьминог)  
@@ -1089,7 +1131,9 @@ osidian - обсидиан
 osmi yum - осмий  
 osmos - осмос  
 oste jama - скелет (остов)  
-####P - P  
+
+## P  
+
 pa - отец (папа)  
 pa di - отеческий  
 pade di - упавший  (падший)  
@@ -1189,6 +1233,7 @@ posta marke - почтовый штемпель
 pote chamacha - половник (черпак, ковш)  
 pote ja - гончар  
 pote suta - гончарное дело  
+poyu - вошь  
 prazedim yum - празеодим  
 presa - давление (нажим)  
 presa gi - пресс  
@@ -1209,7 +1254,9 @@ puma - пума (кугуар)
 punte nomer - оценка  
 putau bagi - виноградник  
 putau oranje - грейпфрут  
-####R - R  
+
+## R  
+
 radi yum - радий  
 radio - радио  
 radon - радон  
@@ -1261,11 +1308,14 @@ ruhu mishe di - растерянный (озадаченный)
 ruke sake - рюкзак  
 rus yum - рутений  
 ruterfor yum - резерфордий, ²курчатовий  
-####S - S  
+
+## S  
+
 sabe - знать  
 sabe vol - интерес (любопытство)  
 sabe vol di - интересный  
 sabe vol ja - любознательный  
+safa tela - тряпка  
 safran - шафран  
 sagu - саго  
 sahi - правильный  
@@ -1423,13 +1473,16 @@ supa chamacha - суповая ложка
 supra vakil ja - сенатор  
 susan - лилия  
 suta - искусство  
-####T - T  
+
+## T  
+
 tabi - природа (естество, характер)  
 table - плита  
 table komputa - планшетный компьютер  
 tai - сцена (подмостки, эстрада)  
 tail - черепи́ца  
 taksi metre gi - таксометр  
+tal megi - туман  
 tal moka - куст  
 tal tela - ковёр  
 tali yum - таллий  
@@ -1490,7 +1543,9 @@ tumon su - ваш
 tundra san - фьельды  
 tuta - шелковица (тута)  
 tuzi - кролик (заяц)  
-####U - U  
+
+## U  
+
 uma bichi - хлыст  
 un - один (1)  
 un di - только (единственно, единственный, уникальный)  
@@ -1502,7 +1557,9 @@ un zai di - одинокий (единичный)
 ura - ура  
 Uran - Уран  
 uran yum - уран  
-####V - V  
+
+## V  
+
 va - с  
 vaf - собака  
 vagina - влагалище (вагина)  
@@ -1532,6 +1589,9 @@ var un - понедельник
 vase - оазис  
 vashi - мыть  
 vashi urso - енот  
+Vashington D
+##   
+
 vei lin - уток  
 vende - продать  
 vende shope - торговля  
@@ -1564,9 +1624,13 @@ vol - хотеть
 volfram - вольфрам  
 vulva - вульва  
 vutu - статья (предмет)  
-####X - X  
+
+## X  
+
 xenon - ксенон  
-####Y - Y  
+
+## Y  
+
 ya - да  
 Yahve - Яхве (Иегова)  
 yam fito - овощ  
@@ -1591,7 +1655,9 @@ Yohan festa - Иванов день
 yumor - юмор  
 yuter yum - иттрий  
 yuterbi yum - иттербий  
-####Z - Z  
+
+## Z  
+
 zai zaman di - нынешний  
 zalim raja - тиран (деспот)  
 Zambia - Замбия  

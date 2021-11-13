@@ -1,7 +1,9 @@
 # suomi–pandunia
 -a (adjektiva partiklo) - di  
 -n (oma) - su  
-####A - A  
+
+## A  
+
 aakkoset (ABC) - zi sili  
 aalto (laine) - onda  
 aamiainen - suba yam  
@@ -210,9 +212,12 @@ avaruusalus - kosmo nave
 avaruusmatkaaja (kosmonautti) - kosmo nave ja  
 avata lukko - an sora  
 avioliitto - gami  
+aviomies - man gami  
 avokado - avakate  
 Azerbaidžan - Azerbaijan  
-####B - B  
+
+## B  
+
 baari (kapakka) - bar  
 baari (kapakka) - bir kan  
 backgammon - nardi  
@@ -276,7 +281,9 @@ Burkina Faso - Burkina Faso
 Burundi - Rundi  
 bussipysäkki (linja-autopysäkki) - bus halte  
 byrokratia - buro krati  
-####C - C  
+
+## C  
+
 Cabo Verde - Kabu Verde  
 Cayman-saaret - Kaiman nesi  
 celsiusaste - celsius darje  
@@ -293,7 +300,9 @@ copernicium - koperni yum
 Costa Rica - Kosta Rika  
 curium - kuri yum  
 curry (karri) - kari  
-####D - D  
+
+## D  
+
 darmstadtium - darmestadi yum  
 darwinismi - darvin sim  
 darwinisti - darvin sim ja  
@@ -325,7 +334,9 @@ dynamiitti - dinamite
 dysprosium - disprosi yum  
 dysteismi (usko jumalan pahuuteen) - dus deu sim  
 dystopia - dus topo  
-####E - E  
+
+## E  
+
 Ecuador - Ekuador  
 edellinen - chen  
 edellyttää - chen gar  
@@ -452,7 +463,9 @@ europium - europa yum
 euteismi (usko jumalan hyvyyteen) - eu deu sim  
 evankeliumi(hyvä sana) - eu anjil  
 eväsretki (piknik) - vai yam  
-####F - F  
+
+## F  
+
 Falklandin saaret - Malvinas nesi  
 fani (-fiili) - fili ja  
 farmakologia - dava she logi  
@@ -479,7 +492,9 @@ fuusio (yhteensulautuminen) - yung liga
 fysiikka - fizika  
 fysiikka - fizika suta  
 fyysikko - fizika ja  
-####G - G  
+
+## G  
+
 Gabon - Gabon  
 gadolinium - gadolin yum  
 galaksi - galaksi  
@@ -523,7 +538,9 @@ Guinea-Bissau - Bisau Ginia
 gujarati (eräs intialainen kieli) - gujarati  
 guru (opettaja) - guru  
 Guyana - Guyana  
-####H - H  
+
+## H  
+
 haarukka - forke  
 hafnium - hafen yum  
 hahmo (figuuri) - figur  
@@ -758,7 +775,9 @@ hölmö (narri) - bufon
 höylä - rande  
 höylätä - randa  
 höyry (vesihöyry) - sui gas  
-####I - I  
+
+## I  
+
 ideogrammi - idea zi  
 idängorilla - dong gorila  
 idänunikko - gui papi  
@@ -845,7 +864,9 @@ itäinen - dong di
 itämainen lohikäärme - lung  
 Itävalta - Ostria  
 iäkäs - sene di  
-####J - J  
+
+## J  
+
 ja (sekä) - e  
 jade - giuka  
 Jahve (Jehova) - Yahve  
@@ -901,6 +922,7 @@ Jordania - Urdun
 joruban kansa ja kieli - Yoruba  
 jos (olettaa) - gar  
 joskus - yo sate  
+jossa? - ke loka  
 joukkue (tiimi) - tim  
 joule (J) - jul  
 joulu - mesi jene  
@@ -958,7 +980,9 @@ Jäämeri - Artika Hai
 jäännös (loput) - reste  
 jäätelö - ais krem  
 jäätyä - be ais  
-####K - K  
+
+## K  
+
 kaakao - kakau  
 kaaos - haos  
 kaappi - almari  
@@ -1478,7 +1502,9 @@ kääriä - fa rolo
 käärme - serpe  
 käärö - rolo  
 köynnös - eskale tana  
-####L - L  
+
+## L  
+
 laadukas (hyvä) - bon sifa di  
 laakso - vali  
 laastari - glu bande  
@@ -1702,7 +1728,9 @@ lääkejuoma - dava sui
 lääketiede - dava logi  
 lääkäri (tohtori) - dava ja  
 löytää (keksiä) - eureka  
-####M - M  
+
+## M  
+
 maa (maaperä) - geo  
 maa (multa) - darte  
 Maa (Tellus) - Geo  
@@ -1881,7 +1909,7 @@ millainen? - ke yang
 milli- - mili  
 milligramma - mili gram  
 millimetri - mili metre  
-milloin? (koska?) - ke sate  
+milloin? (koska?) - ke sata  
 minimalismi - minim sim  
 minimoida - fa minim  
 ministeri - ministre ja  
@@ -1993,7 +2021,9 @@ määritellä (luonnehtia) - fa sifa
 määritetyn määritteeseen liittävä partikkeli - da  
 määrätä - chuze yo gol  
 mörkö - bubu  
-####N - N  
+
+## N  
+
 naamio (maski) - maska  
 naaras - fem  
 nahka (kuori, iho) - pil  
@@ -2111,7 +2141,9 @@ näytellä - fa rol
 näyttelijä - rol ja  
 näyttää jltkn - be rupa  
 näytös (esitys, show) - shou  
-####O - O  
+
+## O  
+
 odottaa - dele do  
 oganesson - oganeson  
 ohitettu (mennyt) - pas  
@@ -2207,7 +2239,9 @@ ottaa kiinni (napata, kaapata) - kape
 ottelu (matsi) - meche  
 outo (kummallinen) - guai  
 ovi (portti, veräjä) - mun  
-####P - P  
+
+## P  
+
 paahtaa (paistaa) - roste  
 paahtoleipä - roste pang  
 paapuuri - nave lefte  
@@ -2575,7 +2609,9 @@ pöytä - meza
 pöytäliina - meza tela  
 pöö! - bu!  
 Qatar - Qatar  
-####R - R  
+
+## R  
+
 Raamattu - Biblia  
 raamatullinen - Biblia di  
 raastaa - chira chira  
@@ -2713,7 +2749,9 @@ ryöväri (rosvo) - luta ja
 räjähdys (pamaus) - bum  
 räjähtää - be bum  
 räjähtää - be bum  
-####S - S  
+
+## S  
+
 saagopalmu - sagu  
 saagotärkkelys - sagu fun  
 saaja (vastaanottaja) - deku ja  
@@ -3062,7 +3100,9 @@ sävel (sävy) - ton
 sää - sama hal  
 sääty (kasti) - jene klas  
 söpö (suloinen) - kavai  
-####T - T  
+
+## T  
+
 taajuus (tiheys) - poli mar ta  
 taas (uudestaan) - na re  
 taateli - tamar  
@@ -3389,7 +3429,9 @@ täällä - na ni
 törkeä - insulte di  
 Tšad - Chade  
 Tšekki - Cheska  
-####U - U  
+
+## U  
+
 Uganda - Ganda  
 uhri (uhraus) - kurban  
 ukkosmyrsky - grom tafun  
@@ -3448,7 +3490,9 @@ uutinen - habar
 uutuus - nove ta  
 uutuustuote - nove  
 Uzbekistan - Uzbeki  
-####V - V  
+
+## V  
+
 vaaka (puntari) - veze metre gi  
 vaakatasossa - vei  
 vaaleanpunainen - rode rang  
@@ -3471,6 +3515,7 @@ vaikeus (hankaluus) - dus hal
 vaikuttaa - fa asar  
 vaikutus (tulos) - asar  
 vaimentua - be mirde  
+vaimo - fem gami  
 vain (ainoa, ainut) - un di  
 vaivata (hieroa) - masaje  
 vaivautua - be turbe  
@@ -3698,14 +3743,20 @@ väärä (virheellinen) - galte di
 Wales - Kamri  
 walesilainen - kamri  
 Wallis ja Futuna - Valis e Futuna nesi  
-Washington D####C - Vashington DC  
+Washington D
+## Vashington DC  
+
 watti - vate  
 Wenzhou - Venjou  
 wiki - viki  
 wikikirjoitus - viki makala  
 wolofin kansa ja kieli - Volof  
-####X - X  
-####Y - Y  
+
+## X  
+
+
+## Y  
+
 ydin (sydän) - kerne  
 ydinase - kerne arme  
 ydinenergia - kerne energi  
@@ -3765,7 +3816,9 @@ ytterbium - yuterbi yum
 yttrium - yuter yum  
 yö - noche  
 yömoodi - noche mode  
-####Z - Z  
+
+## Z  
+
 Zarathustra - Zardush  
 zarathustralainen - zardush din ja  
 zarathustralainen pappi - zardush magi ja  

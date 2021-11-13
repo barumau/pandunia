@@ -23,7 +23,9 @@ niiden käännökset erotetaan puolipisteellä.
 
 ---
 
-####A - A  
+
+## A  
+
 a - mutta  
 a min da - paitsi (miinus)  
 abies - pihta (jalokuusi)  
@@ -230,7 +232,9 @@ avar ja - vahingollinen (vaurioittava)
 ave - kaura  
 ayo - oi! (ai, oijoi)  
 Azerbaijan - Azerbaidžan  
-####B - B  
+
+## B  
+
 babu - luku (kirjan osa)  
 babuche - tohveli  
 babul - palloakaasia  
@@ -535,7 +539,9 @@ buta - saapas (buutsi)
 buton - nappi (näppäin, kytkin, nappula)  
 buton bano - näppäimistö  
 buyu - apinanleipäpuu (baobab)  
-####C - C  
+
+## C  
+
 celsius darje - celsiusaste  
 Ceres - Ceres  
 ceres yum - cerium  
@@ -620,7 +626,9 @@ chuze - valinta (vaali)
 chuze she - vaihtoehto  
 chuze yo gol - määrätä  
 Cuana - Botswana  
-####D - D  
+
+## D  
+
 da - määritetyn määritteeseen liittävä partikkeli  
 dai - iso (suuri)  
 dai anjil ja - lähettiläs  
@@ -831,7 +839,9 @@ dush - suihku
 dute - epäilys  
 dute bil - epäilyttävä  
 dute ja - epäilevä  
-####E - E  
+
+## E  
+
 e - ja (sekä)  
 e mas - lisäksi (myös)  
 eglisa - kirkko  
@@ -909,7 +919,9 @@ europa di - eurooppalainen
 Europa luna - Europa-kuu  
 Europa Unta - Euroopan unioni  
 europa yum - europium  
-####F - F  
+
+## F  
+
 fa - tehdä (toimia)  
 fa achar - säilöä  
 fa agresi - hyökätä (käydä päälle)  
@@ -1191,6 +1203,7 @@ fei gi di kape ja - lentokonekaappari
 fei mushu - lepakko  
 fem - naaras  
 fem ben - tyttölapsi  
+fem gami - vaimo  
 fem raja - kuningatar  
 fem sim - feminismi  
 fem sim ja - feministi  
@@ -1307,7 +1320,9 @@ fute bano - jalusta (teline)
 fute bol - jalkapallo  
 fute marke - jalanjälki  
 fute shaka - jalka (alaraaja)  
-####G - G  
+
+## G  
+
 ga - mennä  
 Gabon - Gabon  
 gabur - hauta  
@@ -1490,7 +1505,9 @@ guste ka - maistua
 guta - polvi  
 guta kaske oste - polvilumpio  
 Guyana - Guyana  
-####H - H  
+
+## H  
+
 ha - olla (omistaa)  
 habar - uutinen  
 habar gazeta - sanomalehti  
@@ -1649,7 +1666,9 @@ huru sim di - liberaali (vapaamielinen)
 huru sim ja - liberalisti  
 huru ta - vapaus  
 hushi - mukava (kiva, miellyttävä)  
-####I - I  
+
+## I  
+
 ibri - heprea  
 ichi - tahtoa  
 ichi - tahto  
@@ -1712,7 +1731,9 @@ islam fobi - islamofobia (islamin pelko)
 Islande - Islanti  
 Israel - Israel  
 Italia - Italia  
-####J - J  
+
+## J  
+
 ja - tekijä (aikaansaaja)  
 jaga - herättää  
 jaga - olla hereillä  
@@ -1799,7 +1820,9 @@ jus - mehu
 jusha - ruiske (injektio)  
 jusha - ruiskuttaa  
 juste - juuri (tarkka, täsmällinen)  
-####K - K  
+
+## K  
+
 ka - kuin (verrattuna)  
 ka - henkilö jota asia määrittelee  
 kababu - grillata (kärventää)  
@@ -1915,9 +1938,10 @@ kave - kuoppa (kolo)
 Qazaqe - Kazakstan  
 ke - mikä? (mitä?)  
 ke jen - kuka?  
+ke loka - jossa?  
 ke multi di - montako? (paljonko?)  
 ke riti - miten?  
-ke sate - milloin? (koska?)  
+ke sata - milloin? (koska?)  
 ke she - mikä? (mitä?)  
 ke yang - millainen?  
 kechape - ketsuppi  
@@ -2100,7 +2124,9 @@ kush - panna jkn maate
 kush - maata (makoilla)  
 kushen - tyyny  
 Kuvaite - Kuwait  
-####L - L  
+
+## L  
+
 la - se  
 laba - torvi (torvisoitin)  
 labi - huuli  
@@ -2235,7 +2261,9 @@ luta ja - ryöväri (rosvo)
 Luter din - luterilaisuus  
 Luter din ja - luterilainen  
 lutesi yum - lutetium  
-####M - M  
+
+## M  
+
 ma - äiti (emä)  
 ma di - äidillinen  
 ma su ma - äidinäiti  
@@ -2272,6 +2300,7 @@ Malvinas nesi - Falklandin saaret
 mamal - nisäkäs  
 man - uros (mies)  
 man ben - poika  
+man gami - aviomies  
 man raja - kuningas  
 mana - merkitys  
 manera - käytös (käyttäytyminen, tapa, tavat)  
@@ -2497,7 +2526,9 @@ mute - muuttaa (muuntaa)
 muzika - musiikki  
 muzika ja - muusikko  
 Mianma - Myanmar (Burma)  
-####N - N  
+
+## N  
+
 na - luona (-lla, -ssa)  
 na go - tuolla  
 na in - sisällä (sisäpuolella)  
@@ -2643,7 +2674,9 @@ nu - no
 nude - alaston (paljas, naku)  
 nude sim - nudismi  
 nude sim ja - nudisti  
-####O - O  
+
+## O  
+
 o - tai (vai)  
 Oceania - Oseania  
 Odisa - orija (eräs intialainen kieli)  
@@ -2677,7 +2710,9 @@ osmi yum - osmium
 osmos - osmoosi  
 oste - luu  
 Ostria - Itävalta  
-####P - P  
+
+## P  
+
 pa - isä  
 pa di - isällinen  
 pa su ma - isänäiti  
@@ -2924,7 +2959,9 @@ putau bagi - viinitarha
 pute - mätä  
 putong - yleinen (universaali)  
 Putong Han - yleiskiina (mandariinikiina)  
-####R - R  
+
+## R  
+
 radi - säteillä  
 radi - säde  
 radi - säteily  
@@ -3032,7 +3069,9 @@ rusia basha - venäläinen
 rute - polku (reitti, kurssi)  
 ruterfor yum - rutherfordium  
 rutin - tapa (rutiini)  
-####S - S  
+
+## S  
+
 sabate - sapatti  
 sabe - tietää (tuntea)  
 sabe logi - tietoteoria (epistemologia)  
@@ -3368,7 +3407,9 @@ sushi - sushi
 suta - taito  
 sutur - sauma (ommel)  
 Suen - Ruotsi  
-####T - T  
+
+## T  
+
 tabaku - tupakka  
 tabi - luonto  
 table - laatta (levy)  
@@ -3523,7 +3564,9 @@ Turkomen - Turkmenistan
 tuta - mulperi  
 Tuvalu - Tuvalu  
 tuzi - jänis  
-####U - U  
+
+## U  
+
 UDA di - yhdysvaltalainen (ns. Amerikkalainen)  
 uhu - itkeä (yhyy)  
 Ukraina - Ukraina  
@@ -3561,7 +3604,9 @@ uze - käyttää
 uze bil di - käytettävissä oleva  
 uze ja - käyttäjä  
 uze ja nam - käyttäjänimi  
-####V - V  
+
+## V  
+
 va - kanssa (-lla, kera; avulla, välineellä)  
 vaf - koira  
 vagina - emätin (vagina)  
@@ -3610,7 +3655,9 @@ varis - perintö
 vase - keidas  
 vashi - pestä  
 vashi urso - pesukarhu  
-Vashington D####C - Washington DC  
+Vashington D
+## Washington DC  
+
 vasin - rokote  
 vate - watti  
 Vatikan - Vatikaanivaltio  
@@ -3686,9 +3733,13 @@ vote - ääni (äänestyksessä)
 vote haki - äänioikeus  
 vulva - häpy (ulkosynnyttimet)  
 vutu - esine (tavara)  
-####X - X  
+
+## X  
+
 xenon - ksenon  
-####Y - Y  
+
+## Y  
+
 ya - ajattelun, olemisen tai ihmisten ala tai alue  
 ya - kyllä  
 Yahve - Jahve (Jehova)  
@@ -3745,7 +3796,9 @@ yung liga - fuusio (yhteensulautuminen)
 yung petra - laava  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  
-####Z - Z  
+
+## Z  
+
 zai - olla olemassa  
 zai den - tänään  
 zai di - läsnä oleva  

@@ -1,5 +1,7 @@
 # portugal–pandunia
-####A - A  
+
+## A  
+
 abater - bucha  
 abelha ou vespa - fong  
 abeto - abies  
@@ -124,7 +126,9 @@ azur - blu
 açougueiro (talhante) - bucha ja  
 açúcar - sukar  
 aí (lá) - na go  
-####B - B  
+
+## B  
+
 bacalhau - bakalau  
 bacalhau-do-atlântico - atlanti bakalau  
 bacia - basen  
@@ -198,7 +202,9 @@ bário - bari yum
 bétula - betula  
 bóhrio - bor yum  
 búzio - kauri  
-####C - C  
+
+## C  
+
 cabelo - sar kesha  
 cabeça - sar  
 cacto - katus  
@@ -342,6 +348,7 @@ copernício - koperni yum
 copo (taça) - kupa  
 cor - rang  
 coral - koral  
+corda (cabo) - kable  
 corno - korne  
 coro - chanta grupe  
 corpo - badan  
@@ -386,7 +393,9 @@ cópia - kopi
 cósmico - kosmo di  
 cúbito (côvado) - kudi metre  
 cúrio - kuri yum  
-####D - D  
+
+## D  
+
 dado - zar kube  
 dados - data  
 damas - dama gem  
@@ -443,7 +452,9 @@ durar - be dur
 duração - dur  
 duro - gati  
 dúbnio - dubna yum  
-####E - E  
+
+## E  
+
 e - e  
 economia - mal nomi  
 educação - shula  
@@ -499,6 +510,8 @@ espirrar - achi
 espodossolo - hui darte  
 esponja - esponje  
 esporte - esporte  
+esposa - fem gami  
+esposo - man gami  
 esposo ou esposa - gami jen  
 espírito (gênio) - jini  
 esquecer - an memo  
@@ -537,7 +550,9 @@ exterior - vai
 extrair - fa vai trata  
 exército - gun  
 exógeno - vai jene di  
-####F - F  
+
+## F  
+
 face (faceta) - fase  
 facção - shia  
 fada - pari  
@@ -592,9 +607,12 @@ futebol - fute bol
 fábula - zou kata  
 fácil - fasil  
 férmio - fermi yum  
+fígado - gani  
 fósforo - pospor  
 fóton (fotão) - foto so  
-####G - G  
+
+## G  
+
 gadolínio - gadolin yum  
 gaiola (jaula) - kane kasa  
 galope - galope  
@@ -602,6 +620,7 @@ galáxia - galaksi
 gamão - nardi  
 gancho - huke  
 ganso - ganse  
+garganta - gala  
 garrafa (botelha) - botel  
 gato - mau  
 gato-do-mato (gato-maracajá-mirim) - bagre oselote  
@@ -639,7 +658,9 @@ gálio - gali yum
 gás - gas  
 gás lacrimogéneo - yen sui gas  
 gênero gramatical - basha jinse  
-####H - H  
+
+## H  
+
 habilidade (capacidade) - bil ta  
 haste (talo, caule) - tana  
 hena - hina  
@@ -668,7 +689,9 @@ héroi - hero
 hólmio - holme yum  
 hóquei - hoki  
 hóquei no gelo - ais hoki  
-####I - I  
+
+## I  
+
 idade - sene  
 idoso (sene) - sene di  
 idoso - lau  
@@ -697,6 +720,7 @@ inseto - dudu
 insônia - an sona  
 intenção - nia  
 internacional - nasi medi  
+intestino (entranhas, tripa) - antra  
 invernal (hibernal) - leng mosim di  
 inverno - leng mosim  
 iodo - iode  
@@ -708,7 +732,9 @@ islã - islam din
 item - vutu  
 itrio - yuter yum  
 itérbio - yuterbi yum  
-####J - J  
+
+## J  
+
 jade - giuka  
 jaguatirica (ocelote) - oselote  
 jambolão (jambo) - jamul  
@@ -728,11 +754,15 @@ juiz - jude ja
 justiça - adil ta  
 justo - adil  
 Júpiter - Jupiter  
-####K - K  
+
+## K  
+
 Kama Sutra - kama kanon  
 kelp - yepa alga  
 krípton - kriton  
-####L - L  
+
+## L  
+
 lado - late  
 ladrilho (telha, azulejo) - tail  
 ladrão - luta ja  
@@ -800,7 +830,9 @@ língua materna - jene basha
 lírio - susan  
 lírio-do-vale - vali susan  
 lítio - lito yum  
-####M - M  
+
+## M  
+
 macroalga - hai alga  
 madrasta - vise ma  
 magnésio - magen yum  
@@ -916,7 +948,9 @@ mês - mes
 mímico - mima ja  
 mó - mol seku  
 música - muzika  
-####N - N  
+
+## N  
+
 nadar (flutuar) - be boi  
 nautiloide - nautile  
 nave espacial - kosmo nave  
@@ -960,7 +994,9 @@ nós - mimon
 núcleo (cerne) - kerne  
 número - nomer  
 o (a) - la  
-####O - O  
+
+## O  
+
 o que - ke  
 objetivo - dike  
 oblíquo (torto) - tercha  
@@ -975,6 +1011,7 @@ oito (8) - bati
 oleiro - pote ja  
 olho - yen  
 onda - onda  
+onde - ke loka  
 onde - na ke  
 online - na lin  
 ontem - chen den  
@@ -997,7 +1034,9 @@ outono - pade mosim
 outro - alo  
 oxigénio - oksi  
 oásis - vase  
-####P - P  
+
+## P  
+
 paciente - pati jen  
 pacifismo - pase sim  
 pacifista - pase sim ja  
@@ -1066,6 +1105,7 @@ perplexo (confuso) - ruhu mishe di
 peru - dinde  
 pesado - veze di  
 pescador - peshe saide ja  
+pescoço (nuca, gargalo) - nuka  
 pessoa - jen  
 petróleo - petra nefte  
 picareta - pin chope  
@@ -1074,6 +1114,7 @@ pimenta - pipre
 pincel - pente brosha  
 pinheiro - songi  
 pintura - pente  
+piolho - poyu  
 piquenique - vai yam  
 pirataria - pirate  
 pirâmida - piram  
@@ -1145,7 +1186,7 @@ pântano - fan topo
 pão - pang  
 pícea (espruce) - pisea  
 quadrinhos (banda desenhada) - grafi kata  
-quando - ke sate  
+quando - ke sata  
 quarta-feira - var tri  
 quarteirão - mahala  
 quarto (dormitório) - sona kamar  
@@ -1170,7 +1211,9 @@ quincã (cunquate) - gingam
 quinta-feira - var nelu  
 quivi - kivi  
 química - kimi logi  
-####R - R  
+
+## R  
+
 rachadura - krake  
 radio - radio  
 rajá - hindi raja  
@@ -1233,7 +1276,9 @@ rã - krokro
 rénio - ren yum  
 ródio - rode yum  
 rótula (patela) - guta kaske oste  
-####S - S  
+
+## S  
+
 sabedoria (sagacidade, sapiência) - sofi ta  
 saber (conhecer) - sabe  
 sacada (varanda) - veranda  
@@ -1316,7 +1361,9 @@ série (sequência) - sili
 sílaba - loga fen  
 só (solitário) - un zai di  
 sódio - natri  
-####T - T  
+
+## T  
+
 tablet - table komputa  
 tangerina (mandarim) - lal oranje  
 tapioca - manioka fufu  
@@ -1395,7 +1442,9 @@ térbio - terbi yum
 título - tema nam  
 tório - tor yum  
 túlio - tule yum  
-####U - U  
+
+## U  
+
 uau - vah  
 um (1) - un  
 um ao outro - semon  
@@ -1407,7 +1456,9 @@ urra - ura
 urso - baru  
 urânio - uran yum  
 usar - aplika  
-####V - V  
+
+## V  
+
 vagina - vagina  
 vaginite - vagina flam  
 vale (uadi) - vali  
@@ -1461,12 +1512,18 @@ vulva - vulva
 vários - vari  
 Vénus - Venus  
 véu - hijabu  
-####X - X  
+
+## X  
+
 xiismo - shia islam din  
 Xiva - Shiva  
 xénon - xenon  
-####Y - Y  
-####Z - Z  
+
+## Y  
+
+
+## Z  
+
 zebra - zebra  
 zero - siro  
 zinco - zinke  

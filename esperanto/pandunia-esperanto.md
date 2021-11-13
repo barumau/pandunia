@@ -1,5 +1,7 @@
 # pandunia-esperanto
-####A - A  
+
+## A  
+
 a - sed  
 a min da - escepte  
 abies - abio  
@@ -107,7 +109,9 @@ avar - damaĝo
 avar ja - damaĝa  
 ave - aveno  
 ayo - aj (alas)  
-####B - B  
+
+## B  
+
 babu - ĉapitro  
 babuche - pantoflo  
 bacha - infano  
@@ -275,7 +279,9 @@ bus halte - bushaltejo
 buton - klavo (butono)  
 buton bano - klavaro  
 buyu - baobabo  
-####C - C  
+
+## C  
+
 Ceres - Cereso  
 ceres yum - cerio  
 cesi yum - cezio  
@@ -320,7 +326,9 @@ chuti - eliro
 chuti mun - elirejo  
 chuze - elekti  
 chuze - elekto  
-####D - D  
+
+## D  
+
 da - de (partiklo de posedo)  
 dai - granda  
 dai anjil ja - ambasadoro  
@@ -429,7 +437,9 @@ dus jen - malamiko
 dus vide - malbonaspekta  
 dush - duŝo  
 dute - dubo  
-####E - E  
+
+## E  
+
 e - kaj  
 e mas - ankaŭ  
 eglisa - preĝejo  
@@ -471,7 +481,9 @@ Europa - Eŭropo
 europa di - Eŭropa  
 Europa Unta - Eŭropa Unio (EU)  
 europa yum - eŭropio  
-####F - F  
+
+## F  
+
 fa - fari  
 fa alo - ŝanĝi (aliigi)  
 fa bina - konstrui  
@@ -647,7 +659,9 @@ futa - graso
 futa di - grasa  
 fute - piedo  
 fute bol - piedpilko  
-####G - G  
+
+## G  
+
 ga - iri  
 gabur - tombo (enterigi)  
 gabur bagi - tombejo  
@@ -737,7 +751,9 @@ guste ka - gusti kiel
 guta - genuo  
 guta kaske oste - patelo  
 Guyana - Gujano  
-####H - H  
+
+## H  
+
 ha - havi  
 habar - novaĵoj  
 habar gazeta - gazeto  
@@ -835,7 +851,9 @@ huru - libera
 huru di - liberigi  
 huru ta - libereco  
 hushi - agrabla  
-####I - I  
+
+## I  
+
 ibri - Hebrea  
 ichi - volo  
 idea - ideo  
@@ -859,7 +877,9 @@ islam din sharia - ŝario
 Islande - Islando  
 Israel - Israelo  
 Italia - Italio  
-####J - J  
+
+## J  
+
 ja - isto (anto)  
 jaga - uyanık  
 jain din - Ĝajnismo  
@@ -906,7 +926,9 @@ jul - ĵulo (J)
 jupe - jupo  
 jus - suko  
 juste - ĝuste (precize, ekzakte)  
-####K - K  
+
+## K  
+
 ka - ol (kiel)  
 kadim yum - kadmio  
 kafe - kafo  
@@ -974,9 +996,10 @@ kavai - ĉarma
 kave - foso  
 ke - kio?  
 ke jen - kiu?  
+ke loka - kie?  
 ke multi di - kiom?  
 ke riti - kiel?  
-ke sate - kiam?  
+ke sata - kiam?  
 ke she - kio?  
 ke yang - kia?  
 kechape - keĉupo  
@@ -1072,7 +1095,9 @@ kuri yum - kuriumo
 kursi - seĝo  
 kurva - kurbo  
 kush - kuŝi  
-####L - L  
+
+## L  
+
 la - la  
 labi - lipo  
 lai - veni  
@@ -1141,7 +1166,9 @@ luna - luno
 luta - rabi  
 luta ja - rabisto  
 lutesi yum - lutecio  
-####M - M  
+
+## M  
+
 ma - patrino  
 maf - pardono  
 magen yum - magnezio  
@@ -1273,7 +1300,9 @@ mute - aliigi
 muzika - muziko  
 muzika ja - muzikisto  
 Mianma - Birmo  
-####N - N  
+
+## N  
+
 na - ĉe (en, sur)  
 na go - tie  
 na ke - kie  
@@ -1357,7 +1386,9 @@ nove ka - novulo
 nove loga - neologismo  
 nove ta - noveco  
 nu - nu  
-####O - O  
+
+## O  
+
 o - aŭ  
 Oceania - Oceanio  
 oganeson - oganesono  
@@ -1376,7 +1407,9 @@ orto - rekta
 osmi yum - osmio  
 osmos - osmozo  
 oste - osto  
-####P - P  
+
+## P  
+
 pa - patro  
 pade mosim - aŭtuno  
 pai - torto  
@@ -1490,7 +1523,9 @@ putau - vinbero
 putau bagi - vitejo  
 putong - generala  
 Putong Han - mandarinĉina  
-####R - R  
+
+## R  
+
 radi geter - radio  
 radi yum - radiumo  
 radon - radono  
@@ -1539,7 +1574,9 @@ rus krepe - rusa krepo
 rus yum - rutenio  
 ruterfor yum - ruterfordio  
 rutin - rutino (kutimo)  
-####S - S  
+
+## S  
+
 sabe - scii (koni)  
 sabe logi - sciteorio (epistemologio)  
 sabe she - scio  
@@ -1730,7 +1767,9 @@ super - bonega
 supra vakil ja - senatano  
 supriza - surprizo  
 sushi - suŝio  
-####T - T  
+
+## T  
+
 tabaku - tabako  
 tabi - naturo  
 tafun - ŝtormo  
@@ -1805,7 +1844,9 @@ tupi - ĉapelo
 turfa - torfo  
 Turki - Turkio  
 tuta - moruso  
-####U - U  
+
+## U  
+
 uhu - plori  
 uma - ĉevalo  
 uma bichi - vipeto  
@@ -1817,7 +1858,9 @@ un ta liga - uniono
 un yen di lense - monoklo  
 uran yum - uranio  
 uze - uzi  
-####V - V  
+
+## V  
+
 va - kun (per)  
 vaf - hundo  
 vagina - vagino  
@@ -1843,6 +1886,9 @@ var un - luno
 var var - semajno  
 vase - oazo  
 vashi - lavi  
+Vashington D
+##   
+
 vate - vato  
 ventur - aventuro  
 ventur ja - aventuristo  
@@ -1870,9 +1916,13 @@ vol - voli
 vol she - volo  
 volfe - lupo  
 vulva - vulvo  
-####X - X  
+
+## X  
+
 xenon - ksenono  
-####Y - Y  
+
+## Y  
+
 ya - ejo (ujo, io)  
 ya - jes  
 Yahve - Javeo (Jehovo)  
@@ -1908,7 +1958,9 @@ yumor di - humura
 yumor ja - humuristo  
 yuter yum - itrio  
 yuterbi yum - iterbio  
-####Z - Z  
+
+## Z  
+
 zai den - hodiaŭ  
 zai di - ĉeestanta (ekzistanta)  
 zai ta - ĉeestanteco (ekzisto)  

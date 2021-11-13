@@ -1,5 +1,7 @@
 # pandunia-nipon
-####A - A  
+
+## A  
+
 abies - モミ  
 achar - 漬物  
 acini yum - アクチニウム  
@@ -40,6 +42,7 @@ angul - 指
 angul marke - 指紋  
 angul pike - 指先  
 anjil - 伝言 (メッセージ)  
+antra - 腸 (臓器)  
 aple - 林檎  
 arane - オレンジ  
 arane nete - クモの巣  
@@ -71,7 +74,9 @@ auto krati - 君主制
 auto loga - 独白 (独話)  
 ave - 烏麦  
 ayo - 痛い  
-####B - B  
+
+## B  
+
 bacha - 子供 (赤ちゃん)  
 badam - アーモンド (扁桃)  
 badan - 体  
@@ -108,6 +113,7 @@ be ais - 凍る (凍結する)
 be bio mute - 熟成する (発酵する)  
 be boi - 泳ぐ (浮く)  
 be bum - 爆発する  
+be dai - 膨らむ  
 be dom - 住む (居住する)  
 be fatige - 疲れる (疲労する)  
 be fobi - 恐れる  
@@ -180,7 +186,9 @@ buro ja - 秘書
 buro krati - 官僚制  
 bus halte - バス停  
 buta - ブーツ  
-####C - C  
+
+## C  
+
 ceres yum - セリウム  
 cesi yum - セシウム  
 chabi - 鍵  
@@ -206,6 +214,7 @@ chira - 裂く
 chira - 裂く  
 chira chira - 千切る  
 chira chira di - ぼろぼろ  
+chira tela - ボロ  
 chize - チーズ  
 choi - 菜  
 choklate - チョコレート  
@@ -214,7 +223,9 @@ chopu - クワ
 chuli - 処理 (プロセス)  
 chun - 村  
 chuze she - オプション (選択)  
-####D - D  
+
+## D  
+
 dai - 大きい  
 dai dom - 宮殿 (邸宅)  
 dai hai - 大洋 (大海)  
@@ -297,7 +308,9 @@ dus karma - 悪事
 dus sin di - 不吉 (縁起の悪い)  
 dus vide - 見苦しい  
 dush - シャワー  
-####E - E  
+
+## E  
+
 einstein yum - アインスタイニウム  
 eko jene di - 野生  
 ekore - 栗鼠  
@@ -318,7 +331,9 @@ estronti yum - ストロンチウム
 eu loga - 賛辞  
 europa baluta - ヨーロッパナラ  
 europa yum - ユウロピウム  
-####F - F  
+
+## F  
+
 fa - する  
 fa achar - 酢漬けある  
 fa alo - 変える  
@@ -338,6 +353,7 @@ fa gong - 働く
 fa hapu - 適応する  
 fa hisabu - 計算する  
 fa hogo - 燃やす  
+fa jang - 戦う  
 fa jene - 生む  
 fa kave - 掘る  
 fa kino - 動かす  
@@ -354,6 +370,7 @@ fa politi - 治める (司る)
 fa poze - 植える  
 fa ratibu - 揃える  
 fa re - 繰り返す  
+fa safa - 掃く (精げる, 拭く)  
 fa sam sifa - シミュレートする  
 fa shipi - 濡らす  
 fa shiti bai - 負ける  
@@ -392,6 +409,7 @@ fermi yum - フェルミウム
 fero - 鉄  
 filme - フィルム (膜)  
 filsofi - 哲学  
+fine - 狭い (薄い, 細い)  
 fiorde - フィヨルド  
 fito - 植物  
 fito yam sim ja - 菜食主義者 (ベジタリアン)  
@@ -418,12 +436,15 @@ fungu nete - 菌糸体
 fute bano - 足場  
 fute bol - フットボール  
 fute marke - 足跡  
-####G - G  
+
+## G  
+
 ga - 行く  
 gabur - 墓 (埋葬, 葬る)  
 gabur bagi - 墓 (墓地)  
 gabur seku - 墓石 (墓碑)  
 gadolin yum - ガドリニウム  
+gala - のど  
 galaksi - 銀河  
 gali yum - ガリウム  
 Galia - ガリア  
@@ -431,6 +452,8 @@ galte - 間違い (誤り, バグ)
 gamba - 海老  
 gami ben - 連れ子  
 gan gazo - 干し草  
+gani - 肝臓  
+gani flam - 肝炎  
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
 gar - もし  
@@ -439,6 +462,7 @@ garma mosim - 夏
 garma zona - 熱帯  
 garma zona gazo topo - サバンナ  
 gata glu bano - クリップボード  
+gata ja - 鋭い  
 gati - 硬い  
 gati mate - 固体  
 gau - 高い  
@@ -491,7 +515,9 @@ gun raja - 総統 (将軍 )
 guru - 尊師 (グル, 先生)  
 guta - 膝  
 guta kaske oste - 膝蓋骨  
-####H - H  
+
+## H  
+
 Habasha - アビシニア  
 hafen yum - ハフニウム  
 haha - 笑う  
@@ -552,7 +578,9 @@ huke krus - 卍 (卐)
 huke lin kane - 釣り竿  
 huli - 狐  
 huru - 自由  
-####I - I  
+
+## I  
+
 iha uma - 騾馬  
 in - 内  
 in migra - 移住する (移民する)  
@@ -567,7 +595,9 @@ iris yum - イリジウム
 ironi - 反語 (皮肉)  
 ironi di - 反語的  
 islam din - イスラム教  
-####J - J  
+
+## J  
+
 jamul - フトモモ  
 jan buda din - 禅宗  
 janela - 窓  
@@ -600,9 +630,12 @@ jul - ジュール (J)
 Jupiter - 木星  
 jus - ジュース  
 juste pau ja - 狙撃兵  
-####K - K  
+
+## K  
+
 ka - より (に比べ)  
 ka - 家  
+kable - 縄 (綱)  
 kaboga - カボチャ  
 kadim yum - カドミウム  
 kafe - コーヒー  
@@ -670,8 +703,9 @@ katus - サボテン
 kauri - 宝貝  
 ke - 何  
 ke jen - 誰  
+ke loka - どこ  
 ke riti - どのように  
-ke sate - 何時  
+ke sata - 何時  
 ke she - 何事  
 ke yang - どんな  
 keka ja - 客人  
@@ -742,7 +776,9 @@ kurban - 犠牲
 kuri yum - キュリウム  
 kush - 横たえる  
 kush - 寝転ぶ  
-####L - L  
+
+## L  
+
 la - あの  
 lage - 湖  
 lai - 来る  
@@ -818,7 +854,9 @@ luna keke - 月餅
 lung - 竜  
 lung dou - 四角豆  
 lutesi yum - ルテニウム  
-####M - M  
+
+## M  
+
 ma - お母さん (母, ママ)  
 maf - ごめんなさい  
 magen yum - マグネシウム  
@@ -866,6 +904,7 @@ medu fong nide - 蜂の巣 (ハニカム)
 medu fong sanduku - 養蜂箱  
 mega - １００万 (メガ)  
 megi - 雲  
+megi di - 霧深い (曇っている)  
 meitner yum - マイトネリウム  
 melon - マスクメロン  
 memo - 記憶  
@@ -933,7 +972,9 @@ mur kaguji - 壁紙
 mushu - 鼠  
 musli - ミューズリー  
 muzika - 音楽  
-####N - N  
+
+## N  
+
 na go - そこ (あそこ)  
 na lin - オンライン  
 na ni - ここ  
@@ -987,7 +1028,10 @@ nove - 新しい
 nove ka - 初心者  
 nove loga - 新語 (新造語)  
 nove yang di - 近代的  
-####O - O  
+nuka - 首  
+
+## O  
+
 oganeson - オガネソン  
 ohtopus - タコ  
 oke - 大丈夫 (ＯＫ)  
@@ -1001,7 +1045,9 @@ osidian - 黒曜石
 osmi yum - オスミウム  
 oste jama - 骨格  
 oste shalke - ぜんご  
-####P - P  
+
+## P  
+
 pa - お父さん (父, パパ)  
 pade mun - 落とし戸  
 paladi yum - パラジウム  
@@ -1077,6 +1123,7 @@ pos den - 明日
 pospor - リン  
 pote ja - 陶工  
 pote suta - 陶芸  
+poyu - シラミ  
 prazedim yum - プラセオジム  
 presa - 圧力  
 presa gi - 圧搾機  
@@ -1096,7 +1143,9 @@ punte nomer - 得点 (点数)
 putau bagi - 葡萄園  
 putau oranje - グレープフルーツ  
 Putong Han - 普通話 (北京語)  
-####R - R  
+
+## R  
+
 radi yum - ラジウム  
 radon - ラドン  
 rai - 意見 (見解)  
@@ -1143,11 +1192,14 @@ ruhu mishe di - まごまご
 ruke sake - リュックサック  
 rus yum - ルテニウム  
 ruterfor yum - ラザホージウム  
-####S - S  
+
+## S  
+
 sabe - 知る  
 sabe vol - 興味 (好奇心)  
 sabe vol di - 面白い  
 sabe vol ja - 知りたがる  
+safa tela - ワイプ  
 sagu - サゴ  
 sagu fun - サゴ澱粉  
 sahi - 正しい  
@@ -1285,11 +1337,14 @@ supa chamacha - さじ (テーブルスプーン)
 supra - 上  
 supra vakil ja - 上院議員  
 suta - 術  
-####T - T  
+
+## T  
+
 ta - さ (み, 性)  
 tabi - 性質 (性)  
 table komputa - タブレットコンピュータ  
 tail - タイル (瓦)  
+tal megi - 霧  
 tal moka - 灌木 (藪)  
 tal tela - 絨毯 (カーペット)  
 tali yum - タリウム  
@@ -1333,7 +1388,9 @@ tule yum - ツリウム
 tumon - あなたたち  
 tuta - 桑  
 tuzi - うさぎ  
-####U - U  
+
+## U  
+
 umami - 旨味  
 un - 一 (1)  
 un di - だけ (唯一の)  
@@ -1342,7 +1399,9 @@ un ta liga - 連合 (接合)
 un zai di - 一人の (寂しい, ポツリ)  
 uran yum - ウラン  
 uze bil di - 使用可能  
-####V - V  
+
+## V  
+
 vaf - 犬 (狗)  
 vagina - 膣 (ワギナ)  
 vah - わあ  
@@ -1369,6 +1428,9 @@ var un - 月曜日
 vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 vase - オアシス  
 vashi urso - 狸 (ラクーン, 洗い熊)  
+Vashington D
+##   
+
 vei darje - 緯度  
 vei lin - 横糸  
 vende - 売る  
@@ -1393,9 +1455,13 @@ vol - 欲しい
 volfram - タングステン  
 vulva - 陰門  
 vutu - 物 (品)  
-####X - X  
+
+## X  
+
 xenon - キセノン  
-####Y - Y  
+
+## Y  
+
 ya - はい  
 Yahve - ヤハウェ (エホバ)  
 yam - 食べる  
@@ -1420,7 +1486,9 @@ yung - 溶ける
 yung petra - 溶岩  
 yuter yum - イットリウム  
 yuterbi yum - イッテルビウム  
-####Z - Z  
+
+## Z  
+
 zai - ある (いる)  
 zai den - 今日  
 zai zaman - 今 (現在)  

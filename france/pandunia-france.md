@@ -1,5 +1,7 @@
 # pandunia-france
-####A - A  
+
+## A  
+
 a - mais  
 abies - sapin  
 achar di - décapé (mariné)  
@@ -95,6 +97,7 @@ anjil ja - messager
 Antartika - Antarctique  
 Antartika Hai - Océan Antarctique  
 antena - antenne  
+antra - intestin (entrailles, ventre, boyau)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua-et-Barbuda  
 anus - anus  
@@ -165,7 +168,9 @@ avar - dommage
 ave - avoine  
 ayo - aïe!  
 Azerbaijan - Azerbaijan  
-####B - B  
+
+## B  
+
 babu - chapitre  
 babuche - pantoufle (babouche)  
 babul - vachellia  
@@ -310,7 +315,9 @@ buro krati - bureaucratie
 bus halte - arrêt de bus  
 buta - botte  
 buton - bouton  
-####C - C  
+
+## C  
+
 ceres yum - cérium  
 cesi yum - césium  
 chabi - clef  
@@ -344,7 +351,9 @@ chopu - houe
 chuli - traitement (processe)  
 chun - village  
 chuze she - option  
-####D - D  
+
+## D  
+
 dai dom - palais (château, manoir)  
 dai hai - océan  
 dai pau - canon  
@@ -420,7 +429,9 @@ dus jen - ennemi
 dus karma - méfait (péché)  
 dus vide - laid (vilain)  
 dush - douche  
-####E - E  
+
+## E  
+
 e - et  
 einstein yum - einsteinium  
 eko jene di - sauvage  
@@ -450,7 +461,9 @@ Europa - Europe
 europa baluta - chêne pédonculé  
 europa di - européen  
 europa yum - europium  
-####F - F  
+
+## F  
+
 fa - faire  
 fa agresi - attaquer (agresser)  
 fa ajibu - éblouir (étonner, stupéfier, surprendre)  
@@ -580,7 +593,9 @@ fungu frute - champignon
 fungu nete - mycélium  
 fute bol - football  
 fute marke - empreinte de pied  
-####G - G  
+
+## G  
+
 ga - aller  
 gabur - tombe (enterrer)  
 gabur bagi - cimetière  
@@ -601,6 +616,7 @@ gan gazo - foin
 gan tela - serviette  
 gana - canne  
 gana kalam - calame  
+gani - foie  
 ganse - oie  
 ganum - blé  
 gar - si  
@@ -662,7 +678,9 @@ gun jen - soldat
 gun raja - généralissime  
 guta - genou  
 guta kaske oste - rotule  
-####H - H  
+
+## H  
+
 ha - avoir  
 Habasha - Abyssinie  
 hafen yum - hafnium  
@@ -733,7 +751,9 @@ huke krus - svastika (croix gammée)
 huke lin kane - canne à pêche  
 huli - renard  
 huru - libre  
-####I - I  
+
+## I  
+
 iha uma - mule  
 in bum - implosion  
 in klus - y compris  
@@ -751,7 +771,9 @@ iris yum - iridium
 ironi - ironie  
 islam - soumission  
 islam din - Islam  
-####J - J  
+
+## J  
+
 jaga - éveillé  
 jain din - jaïnisme  
 jama karde - carte à collectionner  
@@ -792,8 +814,11 @@ jul - joule (J)
 Jupiter - Jupiter  
 jus - jus  
 juste - justo (exact, précis)  
-####K - K  
+
+## K  
+
 ka - que (comme)  
+kable - corde  
 kaboga - citrouille  
 kadim yum - cadmium  
 kafe - café  
@@ -869,8 +894,9 @@ kauri - cauri
 kave - fosse  
 ke - que (quoi)  
 ke jen - qui  
+ke loka - où  
 ke riti - comment  
-ke sate - quand  
+ke sata - quand  
 Keme - Égypte antique  
 kerne - coeur  
 kesha brosha - brosse à cheveux  
@@ -944,7 +970,9 @@ kurva - courbe
 kush - coucher  
 kush - être couché  
 kush loka - couch (couchette)  
-####L - L  
+
+## L  
+
 la - le (la)  
 lage - lac  
 lai - venir  
@@ -1030,7 +1058,9 @@ luta ja - brigand (bandit)
 Luter din - luthéranisme  
 Luter din ja - luthérien  
 lutesi yum - lutécium  
-####M - M  
+
+## M  
+
 ma - mère (maman)  
 ma di - maternel  
 magen yum - magnésium  
@@ -1142,7 +1172,9 @@ mushu - souris
 muskul bina - culturisme (musculation)  
 musli - musli  
 muzika - musique  
-####N - N  
+
+## N  
+
 na - a (dans, en, chez)  
 na go - là (y)  
 na ke - où  
@@ -1206,7 +1238,10 @@ nove jene di - nouveau-né
 nove ka - néophyte  
 nove loga - néologisme  
 nove ta - nouveauté  
-####O - O  
+nuka - cou (encolure, nuque)  
+
+## O  
+
 o - ou  
 oganeson - oganesson  
 ohtopus - Poulpe (pieuvre)  
@@ -1226,7 +1261,9 @@ osidian - obsidienne
 osmi yum - osmium  
 oste jama - squelette  
 oste shalke - scutelle  
-####P - P  
+
+## P  
+
 pa - pere (papa)  
 pa di - paternel  
 pade di - chu  
@@ -1334,6 +1371,7 @@ pote - pot (vase)
 pote chamacha - louche (cuillère à pot)  
 pote ja - potier  
 pote suta - poterie  
+poyu - pou  
 prazedim yum - praséodyme  
 presa - pression  
 presa gi - pressoir  
@@ -1354,7 +1392,9 @@ puma - couguar (puma)
 putau bagi - vignoble  
 putau oranje - pamplemousse  
 pute - pourri  
-####R - R  
+
+## R  
+
 radi yum - radium  
 radio - radio  
 radon - radon  
@@ -1412,7 +1452,9 @@ ruhu logi - psychologie
 ruhu mishe di - perplexe (désorienté)  
 rus yum - ruthénium  
 ruterfor yum - rutherfordium  
-####S - S  
+
+## S  
+
 sabe - savoir (connaître)  
 safar kegu ja - touriste  
 sagu - sagoutier  
@@ -1564,7 +1606,9 @@ supa - soupe
 supra vakil ja - sénateur  
 susan - lys  
 suta - art  
-####T - T  
+
+## T  
+
 table komputa - ordinateur tablette  
 tai - estrade  
 tail - carreau (tuile)  
@@ -1625,7 +1669,9 @@ tumon su - votre
 Tunis - Tunisie  
 tuta - mûrier  
 tuzi - lapin (lièvre)  
-####U - U  
+
+## U  
+
 uma bichi - cravache  
 un - un (1)  
 un di - seul (unique)  
@@ -1636,7 +1682,9 @@ un yen di lense - monocle
 ura - hourra  
 Uran - Uranus  
 uran yum - uranium  
-####V - V  
+
+## V  
+
 va - avec  
 vaf - chien  
 vagina - vagine  
@@ -1664,6 +1712,9 @@ var var - semaine
 vari - divers (plusieurs)  
 vase - oasis  
 vashi urso - raton laveur  
+Vashington D
+##   
+
 vei lin - fil de trame  
 vende - vendre  
 vende shope - commerce  
@@ -1696,9 +1747,13 @@ volfram - tungstène
 Volof - wolof  
 vulva - vulve  
 vutu - objet (article)  
-####X - X  
+
+## X  
+
 xenon - xénon  
-####Y - Y  
+
+## Y  
+
 ya - oui  
 Yahve - Yahweh (Jéhovah)  
 yam fito - légume  
@@ -1724,7 +1779,9 @@ yung petra - lave
 yung safa - fondu  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  
-####Z - Z  
+
+## Z  
+
 zai di - présent  
 zai zaman di - actuel (courant)  
 zaman - temps  

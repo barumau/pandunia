@@ -1,6 +1,8 @@
 # france–pandunia
 a (dans, en, chez) - na  
-####A - A  
+
+## A  
+
 abattoir - bucha kan  
 abattre - bucha  
 abeille ou guêpe - fong  
@@ -180,7 +182,9 @@ azur - lazur
 aérobique - air bio di  
 aéroport - air porte  
 aïe! - ayo  
-####B - B  
+
+## B  
+
 babord - nave lefte  
 backgammon - nardi  
 bagage - bagaje  
@@ -288,7 +292,9 @@ bédouin - badavi
 béryllium - beril yum  
 bêche (pelle) - bagi bele  
 bûche - moka tana  
-####C - C  
+
+## C  
+
 cacher - fa sir  
 cachet de la poste - posta marke  
 cactus - katus  
@@ -442,6 +448,7 @@ copernicium - koperni yum
 copie - kopi  
 coquelicot - medan papi  
 corail - koral  
+corde - kable  
 corne - korne  
 corps - badan  
 correct (juste) - sahi  
@@ -449,6 +456,7 @@ cosmique - kosmo di
 cosmonaute - kosmo nave ja  
 cosmos - kosmo  
 coton - goton  
+cou (encolure, nuque) - nuka  
 couch (couchette) - kush loka  
 coucher - kush  
 coude - kudi  
@@ -499,7 +507,9 @@ cérébral - nau di
 césium - cesi yum  
 côte - hai kinar  
 côté - late  
-####D - D  
+
+## D  
+
 dance - danse  
 dandélion - makan hua  
 danger - hatar  
@@ -564,7 +574,9 @@ désaccord (différend) - alo rai
 désespéré - asha hin  
 dévanagari - deu nagar zi  
 développement - darja mute  
-####E - E  
+
+## E  
+
 east (orient) - dong  
 eau - sui  
 effectuer - fa asar  
@@ -614,7 +626,9 @@ exposer - vai poze
 extraire - fa vai trata  
 extérieur - vai  
 exécrer - an ama  
-####F - F  
+
+## F  
+
 fable - zou kata  
 face (facette) - fase  
 facile - fasil  
@@ -650,6 +664,7 @@ fleur - hua
 fluor - flur  
 flèche - fleche  
 flérovium - flerof yum  
+foie - gani  
 foin - gan gazo  
 fois - mar  
 fondu - yung safa  
@@ -679,7 +694,9 @@ frêne - yasen
 fée - pari  
 Félicitations ! - barka  
 féliciter - barka  
-####G - G  
+
+## G  
+
 gadolinium - gadolin yum  
 galaxie - galaksi  
 gallium - gali yum  
@@ -733,7 +750,9 @@ géométrie - geo metre
 géopolitique - geo politi  
 géothermique - geo termo  
 gêner (déranger, perturber) - fa turbe  
-####H - H  
+
+## H  
+
 habiller (vêtir) - fa fuku  
 hafnium - hafen yum  
 haine - hen  
@@ -777,7 +796,9 @@ héros - hero
 hétéroromantique (hétéromantique) - alo romanse di  
 hétérosexuel - alo sekse di  
 hôtel - hotel  
-####I - I  
+
+## I  
+
 ici - na ni  
 imitateur (mime) - mima ja  
 imiter - mima  
@@ -804,6 +825,7 @@ insomnie - an sona
 intention - nia  
 international - nasi medi  
 interracial - rasa medi  
+intestin (entrailles, ventre, boyau) - antra  
 introverti - in verse jen  
 inutile - an yau di  
 inverse (négatif, in-) - an  
@@ -812,7 +834,9 @@ iridium - iris yum
 Irland - Eire  
 ironie - ironi  
 Islam - islam din  
-####J - J  
+
+## J  
+
 jade - giuka  
 Japon - Nipon  
 jarre (carafe, cruche) - jara  
@@ -836,7 +860,9 @@ justice - adil ta
 justo (exact, précis) - juste  
 Jésus - Yesa  
 Jésus-Christ - Yesa Mesi  
-####K - K  
+
+## K  
+
 kangourou - kangaru  
 karaté - karate  
 karatéka - karate ja  
@@ -847,7 +873,9 @@ kiwi - kivi
 krypton - kriton  
 kumquat - gingam  
 Kâmasûtra - kama kanon  
-####L - L  
+
+## L  
+
 l'un l'autre - semon  
 lac - lage  
 laid (vilain) - dus vide  
@@ -927,7 +955,9 @@ là (y) - na go
 léger - ligu veze di  
 légume - yam fito  
 lézard - saur  
-####M - M  
+
+## M  
+
 machine à écrire - kitabu gi  
 magma - pasta petra  
 magnésium - magen yum  
@@ -1038,7 +1068,9 @@ méninge - meninge
 métaux lourds - bari metal  
 métier à tisser - tela gi  
 mûrier - tuta  
-####N - N  
+
+## N  
+
 nagar (flotter) - be boi  
 nappe - meza tela  
 nation - nasi  
@@ -1083,7 +1115,9 @@ néodyme - neodim yum
 néologisme - nove loga  
 néon - neon  
 néophyte - nove ka  
-####O - O  
+
+## O  
+
 oasis - vase  
 objectif (cible) - dike  
 objet (article) - vutu  
@@ -1137,8 +1171,11 @@ oui - ya
 ours - baru  
 oxyde - okside  
 oxygène - oksi  
+où - ke loka  
 où - na ke  
-####P - P  
+
+## P  
+
 pacifisme - pase sim  
 pacifiste - pase sim ja  
 page - yepa late  
@@ -1275,6 +1312,7 @@ pot de fleur - hua pote
 potassium - kali yum  
 poterie - pote suta  
 potier - pote ja  
+pou - poyu  
 poubelle - laji tong  
 poudre à canon - barude  
 Poulpe (pieuvre) - ohtopus  
@@ -1328,7 +1366,7 @@ périr - perishe
 péter - fa pede  
 pétrole (essence) - petra nefte  
 pêcheur - peshe saide ja  
-quand - ke sate  
+quand - ke sata  
 quartier - mahala  
 quartz - kuarze  
 quatre (4) - nelu  
@@ -1339,7 +1377,9 @@ querelle (dispute, palabre) - palaba
 question - sual  
 queue (côté ) - koda  
 qui - ke jen  
-####R - R  
+
+## R  
+
 race - rasa  
 racine - mula  
 radio - radio  
@@ -1404,7 +1444,9 @@ répéter - fa re
 répétition - re  
 rêche (rugueux, gros) - karse  
 rôtir - roste  
-####S - S  
+
+## S  
+
 s'installer (déménager) - be migra  
 s'opposer à - shatan  
 sable - arena  
@@ -1514,7 +1556,9 @@ sénateur - supra vakil ja
 série - sili  
 sûr - sekur  
 s’accroupir - lipa side  
-####T - T  
+
+## T  
+
 table - meza  
 tableau (panneau) - bano  
 tablette de chocolat - choklate kane  
@@ -1602,14 +1646,18 @@ téléphone - tele fon gi
 téléphoner - fa tele fon  
 téléviseur - tele vide gi  
 tête - sar  
-####U - U  
+
+## U  
+
 un (1) - un  
 une fois - un mar  
 union - un ta liga  
 universel - un verse di  
 uranium - uran yum  
 Uranus - Uran  
-####V - V  
+
+## V  
+
 vachellia - babul  
 vagine - vagina  
 vaginite - vagina flam  
@@ -1675,16 +1723,22 @@ Vénus - Venus
 vêtements - fuku  
 vœu (promesse) - vode  
 wolof - Volof  
-####X - X  
+
+## X  
+
 xénon - xenon  
-####Y - Y  
+
+## Y  
+
 y compris - in klus  
 Yahweh (Jéhovah) - Yahve  
 yaourt (yogourt) - yogur  
 Yi King - yeka kanon  
 ytterbium - yuterbi yum  
 yttrium - yuter yum  
-####Z - Z  
+
+## Z  
+
 zen - jan buda din  
 zinc - zinke  
 zirconium - zirkon yum  

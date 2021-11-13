@@ -1,5 +1,7 @@
 # polski–pandunia
-####A - A  
+
+## A  
+
 Abchazja - Apsni  
 Abchazja - Arcah  
 Abisynia - Habasha  
@@ -118,7 +120,9 @@ Azja - Asia
 azjatycki - asia  
 azot - nitre  
 aż do - hata  
-####B - B  
+
+## B  
+
 babcia (babka) - chin ma  
 bagaż - bagaje  
 bagietka - kane pang  
@@ -282,7 +286,9 @@ błotnisty - fan di
 błoto - fan  
 błąd (pomyłka) - galte  
 błędny (niepoprawny) - galte di  
-####C - C  
+
+## C  
+
 Cantalupo in Sabina - Kantalupo va Sabina  
 całość (integralność) - holo ta  
 całus - chum  
@@ -422,7 +428,9 @@ część, ułamek - fen
 członek - membre  
 człowiek, istota ludzka - insan  
 córka - fem ben  
-####D - D  
+
+## D  
+
 dach - chati  
 daktyl - tamar  
 daleki, odległy - tele di  
@@ -575,7 +583,9 @@ dźwięk, brzmienie - soni
 Dżakarta - Jakarta  
 Dżibuti - Jibuti  
 dżul (J) - jul  
-####E - E  
+
+## E  
+
 echo - mira sonde  
 efekt halo - foto gola  
 egipski - misri di  
@@ -624,7 +634,9 @@ europ - europa yum
 Europa - Europa  
 europejski - europa di  
 ewangelia - eu anjil  
-####F - F  
+
+## F  
+
 fabryka, manufaktura - gong kan  
 fajka - pipe  
 fala - onda  
@@ -681,7 +693,9 @@ funkcjonariusz, urzędnik - guan ja
 funt (£) - paunde  
 fuzja (amalgamowanie, łączenie) - yung liga  
 fuzja jądrowa (synteza jądrowa, reakcja termojądrowa) - kerne unta  
-####G - G  
+
+## G  
+
 Gabon - Gabon  
 gadolin - gadolin yum  
 gal - gali yum  
@@ -701,6 +715,7 @@ gazeta - habar gazeta
 gazowy - gas di  
 gałąź, konar - shaka  
 gdzie - na ke  
+gdzie? - ke loka  
 gejowski (homoseksualny) - gei  
 genderqueer, niebinarny - nobi  
 genealogia - jene logi  
@@ -802,7 +817,9 @@ głód - yam yau
 główny - shefe di  
 głęboki - fase tele  
 głębokość - fase tele ta  
-####H - H  
+
+## H  
+
 haczyk - peshe huke  
 hafn - hafen yum  
 Haiti - Aiti  
@@ -872,7 +889,9 @@ humor - yumor
 humorystyczny, śmieszny, zabawny, komiczny - yumor di  
 hybryda; kundel - hibride  
 hę?, co?, pardon? - he  
-####I - I  
+
+## I  
+
 i, oraz - e  
 idea, pomysł - idea  
 ideogram - idea zi  
@@ -934,7 +953,9 @@ iść - ga
 iść w dół (iść pod spód, iść na dno) - be niche  
 iść wzdłuż (pójść wzdłuż) - be ging  
 iść, maszerować - fa marche  
-####J - J  
+
+## J  
+
 ja, mnie - mi  
 jabłko - aple  
 jabłko cukrowe - ata  
@@ -999,7 +1020,9 @@ język sztuczny - sana basha
 język świata, język ogólnoświatowy - dunia basha  
 język; komunikacja; mówić - basha  
 językoznastwo - basha logi  
-####K - K  
+
+## K  
+
 kabaczek (dynia, tykwa) - kaboga  
 kabel (linia) - eletro lin  
 kabina, budka - kabin  
@@ -1274,7 +1297,9 @@ kąt - gona
 kąt prosty - orto gona  
 kłuć (żądlić) - fa pin  
 kłódka - pende sor  
-####L - L  
+
+## L  
+
 lakier - laka  
 lalka, kukiełka, pacynka, marionetka - pupe  
 lama - lama  
@@ -1369,7 +1394,9 @@ lutet - lutesi yum
 luty - mes des  
 luźna rozmowa, gadanina - blabla  
 lód - ais  
-####M - M  
+
+## M  
+
 macka (czułek) - sense shaka  
 Madagaskar - Madagasi  
 madagaskarski; malagaski - madagasi di  
@@ -1448,6 +1475,8 @@ małpa (znak na - adres zi
 mały; mało, trochę, nieco - lili  
 małżeństwo, związek małżeński - gami  
 małżonek (małżonka) - gami jen  
+małżonek - man gami  
+małżonka - fem gami  
 mech - mos  
 mecz, rywalizacja - meche  
 medalion, medal - medal  
@@ -1608,7 +1637,9 @@ młody - jovan
 młodzież, młoda osoba - jovan jen  
 młot, młotek - hamar  
 młynarz - mol ja  
-####N - N  
+
+## N  
+
 na przykład - do misal  
 nabardziej, maksymalnie - masim  
 nabywca (kupiec) - shopi ja  
@@ -1754,7 +1785,9 @@ nudyzm - nude sim
 numer - nomer  
 nylon - nilon  
 nóż - chaku  
-####O - O  
+
+## O  
+
 oaza - vase  
 obcęgi, kleszcze, szczypce - pinse gi  
 obecny, teraźniejszy, aktualny, bieżący, współczesny - zai di  
@@ -1892,7 +1925,9 @@ oś - akse
 ośmiornica - ohtopus  
 ożeniony, zamężny, w związku małżeńskim - gami di  
 ożenić się, poślubić, wyjść za mąż - fa gami  
-####P - P  
+
+## P  
+
 pachnieć - aroma  
 pacjent - pati jen  
 pacyfista - pase sim ja  
@@ -2071,6 +2106,7 @@ podróżować - fa safar
 podstawa, baza, fundament - baze  
 poduszka - kushen  
 podwajać (podwoić, pomnożyć przez dwa) - fa multi do du  
+podwoić - fa multi  
 podziemny - geo niche di  
 podążać - fa pos  
 podłoga - kamar tal  
@@ -2367,7 +2403,9 @@ płuco - pulmon
 płyta - tail  
 płyta tektoniczna - geo kaske plate  
 płytki - fase karibu  
-####R - R  
+
+## R  
+
 rabuś (grabieżca) - luta ja  
 rachunek (faktura) - fatura  
 rachunek (formalny system obliczeń) - kalkul  
@@ -2534,7 +2572,9 @@ ręcznik - gan tela
 ręczny - hande di  
 ręka, dłoń - hande  
 rękaw - kamisa shaka  
-####S - S  
+
+## S  
+
 sago - sagu  
 Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna) - Sahara Desha  
 Saint Kitts - Sante Kitse  
@@ -2845,7 +2885,9 @@ sługa - serve ja
 słup (pal, kołek) - moka kane  
 służba - serve  
 służyć - serve  
-####T - T  
+
+## T  
+
 tablica (deska) - bano  
 tablica wyników - punte bano  
 tablioca, macierz - data table  
@@ -2861,7 +2903,9 @@ taksometr - taksi metre gi
 taktyka, strategia - tatike  
 tal - tali yum  
 talerz - plate tasa  
-taleta, W####C - tualete  
+taleta, W
+## tualete  
+
 tamilski - Tamil  
 tamten - go  
 Tanach, Biblia hebrajska - tanah  
@@ -3003,7 +3047,9 @@ tłumacz - tarjum ja
 tłumaczenie, interpretacja - tarjum she  
 tłusty - futa di  
 tłuszcz - futa  
-####U - U  
+
+## U  
+
 ubranie, ubiór, strój - fuku  
 ucho - ore  
 uciec, uciekać - bega  
@@ -3065,7 +3111,9 @@ uświadomić sobie, zdać sobie sprawę, pojąć, pojmować - fa budi
 użyteczny, pomocny, przydatny, pożyteczny, korzystny - faida di  
 użytkownik - uze ja  
 użyć, używać, zatrudnić, stosować - uze  
-####V - V  
+
+## V  
+
 Vanuatu - Vanuatu  
 voodoo - vodun  
 w innym wypadku (inaczej) - alo  
@@ -3089,7 +3137,9 @@ warsztat szewski - sapatu kan
 wartość - valu  
 warunek - sharti  
 warzywo - yam fito  
-Waszyngton D.####C - Vashington DC  
+Waszyngton D.
+## Vashington DC  
+
 wat - vate  
 Watykan, Państwo Watykańskie - Vatikan  
 ważka - libele  
@@ -3266,7 +3316,9 @@ wyspa - nesi
 Wyspa Man - Manin nesi  
 Wyspy Alandzkie - Olande nesi  
 Wyspy Cooka - Kuke nesi  
-Wyspy Dziewicze US####A - Virjin nesi  
+Wyspy Dziewicze US
+## Virjin nesi  
+
 Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia e Sude Sanduiche nesi  
 Wyspy Kokosowe - Kokos nesi  
 Wyspy Marshalla - Marshal nesi  
@@ -3305,11 +3357,17 @@ właśnie, dopiero co, ostatnio, niedawno - na nove
 włos - kesha  
 włosy - sar kesha  
 włókno - lin so  
-####X - X  
-####Y - Y  
+
+## X  
+
+
+## Y  
+
 z (od) - ze  
 z (partykuła posiadania) - da  
-####Z - Z  
+
+## Z  
+
 z boku (na bok) - late  
 zaakceptować, akceptować, powiedzieć okej, mówić okej - fa oke  
 zabawa, rozrywka - vanu  
@@ -3365,7 +3423,7 @@ zapomnieć, zapominać - boli
 zapożyczenie (wyraz obcy) - jeka loga  
 zaprosić, zapraszać - ching lai  
 zaprzęc, zaprzęgać - harnes  
-zapytać, pytać - ke sate  
+zapytać, pytać - ke sata  
 zapytać, spytać, pytać - fa sual  
 zapłacić, opłacić, płacić - fa pei  
 zapłata, opłata - pei  

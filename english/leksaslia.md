@@ -41,6 +41,7 @@
 |**anime**|animation (cartoon)|English:French:animation, Spanish:animación, Portuguese:animação, Russian:анимация, Japanese:アニメ (anime), Turkish:Malay:anime, Arabic:أنمي m (ʾanimī), Hindi:ऐनिमे (ainime), Korean:아니메 (anime)|
 |**anjil**|message|Greek:ἀγγελία (angelía), Arabic:(ʾinjīl), Swahili:injili, Malay:injil, Turkish:incil, Hindi:इंजील (iñjīl), Russian:евангелие (evangeliye), French:évangile, Portuguese:evangelho|
 |**antena**|antenna (aerial)|English:antenna, Spanish:Portuguese:Malay:antena, French:antenne, Russian:антенна (antenna), Turkish:anten, Japanese:アンテナ (antena)|
+|**antra**|intestines (entrails, guts, bowels, viscera)|Hindi:आंत्र (åntra), Bengali:অন্ত্র (antra), pan:ਆਂਦਰਾਂ (āndarā̃) + French:entrailles, English:entrails, Spanish:entrañas, Portuguese:entranhas|
 |**anus**|anus|English:French:anus, Portuguese:ânus, Spanish:ano, deu:Anus, Russian:анус (anus), Turkish:anüs|
 |**aple**|apple|English:apple, deu:Apfel, Russian:яблоко (yabloko), Malay:apel, Bengali:আেপল (apôl), Zulu:ihhabhula|
 |**aplika**|application|English:French:application, Spanish:aplicación, Portuguese:aplicação, Polish:aplikacja|
@@ -232,7 +233,7 @@
 |**chuze**|choose (elect, select, pick)|English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn|
 |**da**|of (attributive preposition)|French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|ocean|Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)|
-|**dai**|big (great)|Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai,tai), Korean:대— (dae-)|
+|**dai**|big (great, large)|Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai,tai), Korean:대— (dae-)|
 |**dalil**|proof (evidence, proof, demonstration, testimony)|Arabic:(dalil), Bengali:দলিল (dôlil), Swahili:dalili, Turkish:delil|
 |**dama gem**|checkers (draughts)|French:jeu de dames, Spanish:Portuguese:damas, Arabic: ضَامَة‎ (ḍāma), Vietnamese:cờ đam, Malay:dam, Turkish:dama, deu:Damespiel|
 |**dan**|rank (grade, dan)| Japanese:段 (dan), English:French:Malay:dan + Mandarin:等 (děng),  Cantonese:等 (dang2), Korean:등 (dang), Vietnamese:đẳng|
@@ -375,7 +376,7 @@
 |**filsofi**|philosophy|English:philosophy, French:philosophie, Spanish:Portuguese:filosofia, Russian:философия (filosofiya), Arabic: فَلْسَفَة (falsafa), Hindi:फ़लसफ़ा (falsafā), Malay:filsafat, Swahili:falsafa, Turkish:felsefe|
 |**filtre**|filter|English:filter, Spanish:Portuguese:filtro, French:Turkish:filtre, Russian:фильтр (filʹtr), Hindi:फ़िल्टर (filṭar), Bengali:ফিল্টার (philṭar), Japanese:フィルター (firutā)|
 |**fin**|end (ending)|English:finish, French:Spanish:fin, Portuguese:fim|
-|**fine**|fine (delicate)|English:fine, Spanish:Portuguese:fino, French:fin|
+|**fine**|fine (thin, narrow, slender, delicate)|English:fine, Spanish:Portuguese:fino, French:fin|
 |**fiorde**|fjord|nor:English:fjord, French:Malay:fiord, Portuguese:fiorde, Spanish:fiordo, Russian:фьорд (f’ord), Japanese:フィヨルド (fiyorudo)|
 |**firuze**|turquoise gem|per:(firuze), Turkish:firuze, Arabic:(fayrūz), Swahili:feruzi, Hindi:फीरोज़ा (phīrozā), Bengali:ফিরোজা (phiroja), Malay:pirus, Russian:бирюза (biryuza)|
 |**fito**|plant (vegetable, vegetation)|English:phyto-, -phyte, deu:French:phyto-, Spanish:Portuguese:fito-, Russian:фито- (fito-)|
@@ -419,6 +420,7 @@
 |**gabur**|grave (tomb, bury)|Arabic:(qabr), Hindi:क़ब्र (qabra), Bengali:কবর (kôbôr), Malay:kubur, Swahili:kaburi, Turkish:kabir + deu:Grab, Polish:grób, Russian:гроб (grob)|
 |**gadolin yum**|gadolinium|English:gadolinium, French:gadolinium, Spanish:gadolinio, Portuguese:gadolínio, Russian:гадолиний, Mandarin:钆 (gá), Japanese:ガドリニウム, Korean:가돌리늄, Vietnamese:gađolini, Hindi:ग्याडोलिनियम, Bengali:গ্যাডোলিনিয়াম, Malay:gadolinium, Swahili:gadolini, Arabic: جدولينيوم|
 |**gaja**|elephant|Hindi:गज (gaj), Telugu:గజము (gajamu), Kannada:ಗಜ (gaja), Malay:gajah, Filipino:gadya|
+|**gala**|throat (windpipe, gullet, pharynx)|English:gullet, Spanish:Portuguese:gola, far:گلو (galu), Hindi:गला (gala), Bengali:গলা (galā), pan:ਗਲਾ (galā) + Russian:горло (gorlo) + Arabic:حلق (halaq)|
 |**galaksi**|galaxy|English:galaxy, Spanish:galaxia, Portuguese:galáxia, French:galaxie, Russian:галактика (galaktika), Turkish:Malay:galaksi, Hindi:गैलेक्सी (gaileksī)|
 |**galeri**|gallery (exhibition hall)|English:gallery, Spanish:galería, Portuguese:galeria, French:galerie, Russian:галерея (galereya), Turkish:galeri, Hindi:गैलरी (gailrī), Japanese:ギャラリー (gyararī)|
 |**gali yum**|gallium|English:gallium, French:gallium, Spanish:galio, Portuguese:gálio, Russian:галлий, Mandarin:镓 (jiā), Japanese:ガリウム, Korean:갈륨, Vietnamese:gali, Hindi:गैलियम, Bengali:গ্যালিয়াম, Malay:galium, Swahili:gali, Arabic: جاليوم|
@@ -430,6 +432,7 @@
 |**gan putau**|raisin|Korean:건포도 (geonpodo), Mandarin:葡萄干 (pútáogān)|
 |**gan**|dry|Mandarin:干 (gān), Cantonese:乾 (gon1), Japanese:乾 (kan), Korean:건 (geon)|
 |**gana**|reed (cane)|heb: קָנֶה‎ (qané), Arabic: قَنَاة‎ (qanāh) + English:cane, French:canne, Spanish:caña, Portuguese:cana + Mandarin:秆 (gǎn), Cantonese:稈 (gon2) + (sugarcane) Hindi:गन्ना (gannā), Punjabi:ਗੰਨਾ (gannā)|
+|**gani**|liver|Mandarin:肝 (gān), Cantonese:肝 (gon1), Wu-Chinese:肝 (koe1), Korean:간 (gan), Japanese:肝臓 (kanzō), Vietnamese:gan + Swahili:ini|
 |**ganja**|cannabis (marijuana, ganja, pot, weed)|Hindi:गांजा (gāñjā), Urdu:(gānjā), Punjabi:ਗਾਂਜਾ (gāñjā), Bengali:গাঁজা (gañja), Telugu:గంజాయి (gañjāyi), Tamil:கஞ்சா (kañcā), Khmer:កញ្ឆា (kɑñchaa), Thai:กัญชา (gan-chaa), Vietnamese:cần sa, English:Portuguese:Malay:ganja, Japanese:ガンジャ (gānjya)|
 |**ganse**|goose|Spanish:Portuguese:ganso, Hindi:हंस (hans), Bengali:হাঁস (hãs), Malay:angsa English:goose, Russian:гусь (gus’), Polish:gęś + Cantonese:雁 (ngaan6), Japanese:雁 (gan), Thai:ห่าน (han)|
 |**ganum**|wheat|Persian:گندم‎(gandom), Malay:gandum, Urdu:گندم‎(gandum), Telugu:గోధుమ (gōdhuma), Swahili:ngano|
@@ -621,6 +624,7 @@
 |**ka**|than (as, compared to, relative to)|Spanish:Portuguese:French:que, Swahili:kumliko, suo:kuin, lao:ກວ່າ (kuā), Filipino:kaysa|
 |**kababu**|barbecue (grill)|Arabic:Persian:Urdu: كباب (kabāb), Turkish:Malay:English:Spanish:kebab, Russian:кебаб (kebab), Hindi:कबाब (kabāb), Bengali:কাবাব (kabab), Swahili:kababu|
 |**kabin**|cabin (booth)|English:cabin, Spanish:cabaña, Portuguese:cabana, French:cabane, Bengali:কেবিন (kebin)|
+|**kable**|rope (cable)|English:Spanish:cable, Portuguese:cabo French:câble, Russian:кабель (kabel'), Japanese:ケーブル (kēburu), Korean:까벨 (kkabel), Malay:kabel, Turkish:kablo + Arabic:حَبْل‎ (ḥabl)|
 |**kaboga**|squash (pumpkin, gourd)|Turkish:kabak, Swahili:boga, Japanese:カボチャ (kabocha)|
 |**kadim yum**|cadmium|English:cadmium, French:cadmium, Spanish:cadmio, Portuguese:cádmio, Russian:кадмий, Mandarin:镉 (gé), Japanese:カドミウム, Korean:카드뮴, Vietnamese:catmi, Hindi:काडमियम, Bengali:ক্যাডমিয়াম, Malay:kadmium, Swahili:kadimi, Arabic: كادميوم|
 |**kafe**|coffee|deu:Kaffee, French:Spanish:Portuguese:café, Russian:кофе, Mandarin: 咖啡 (kāfēi), Cantonese:咖啡 (gaa3 fe1), English:coffee, Hindi:काफ़ी (kāfī), Bengali:কফি (kôphi), Turkish:kahve, Filipino:kape, Thai:กาแฟ (kafæ)|
@@ -1038,6 +1042,7 @@
 |**nove**|new (recent)|English:new,neo-, French:nouveau, Spanish:nuevo, Portuguese:novo, Russian:новый (novyy), Hindi:नव (nav)|
 |**nu**|well (now; used to introduce a statement)|Russian:ну (nu) + English:now, deu:na, Mandarin:那 (nà)|
 |**nude**|naked (bare, nude)|English:nude, Spanish:desnudo, Portuguese:French:nu|
+|**nuka**|neck (nape)|English:neck, Spanish:Portuguese:nuca, French:nuque + Arabic:عُنُق‎ (ʿunuq)|
 |**o**|or|English:or, Spanish:Filipino:o, French:Portuguese:ou, Mandarin:或 (huò), Arabic:(ʾaw)|
 |**oganeson**|oganesson|English:French:Portuguese:Malay:oganesson, Spanish:oganesón, Russian:оганесон, Japanese:オガネソン, Korean:우누녹튬|
 |**ohtopus**|octopus|English:octopus, deu:Oktopus, Turkish:ahtapot, Arabic:أخطبوط (ʾuḵṭubūṭ), Persian:اختاپوس‎ (oxtâpus), Hindi:ऑक्टोपस (okṭopasa), Bengali:অক্টোপাস (ôkṭopaś)|
@@ -1153,6 +1158,7 @@
 |**pospor**|phosphorus|English:phosphorus, French:phosphore, Spanish:fósforo, Portuguese:fósforo, Russian:фосфор, Vietnamese:photpho, Hindi:फास्फोरस, Bengali:ফসফরাস, Malay:fosfor, Swahili:posfori, Arabic: فوسفور|
 |**posta**|mail|English:post, Portuguese:postagem, French:poste, Russian:почта (pochta), Turkish:posta, Arabic:بوسطة‎ (busṭa), Swahili:posta, Malay:pos, Persian:پست‎ (post)|
 |**pote**|pot (vase, bin, jar)|English:French:pot, Spanish:Portuguese:pote, Malay:poci, Japanese:ポット (potto), Korean:포트 (poteu)|
+|**poyu**|louse|French:pou, Portuguese:piolho, Spanish:piojo|
 |**poze**|pose (position)|English:Spanish:Portuguese:French:pose, deu:Pose, Russian:поза (poza), Japanese:ポーズ|
 |**prati**|practice (actuality)|English:practice, French:pratique, Portuguese:prática, Turkish:pratik, Polish:praktyka, Hindi:प्रथा (prathā)|
 |**prazedim yum**|praseodymium|English:praseodymium, French:praséodyme, Spanish:praseodimio, Portuguese:praseodímio, Russian:празеодим, Japanese:プラセオジム, Korean:프라세오디뮴, Vietnamese:prazeođim, Hindi:प्रासियोडाइमियम, Bengali:প্র্যাসেওডিমিয়াম, Malay:praseodinium, Swahili:praseodimi, Arabic: براسوديميوم|

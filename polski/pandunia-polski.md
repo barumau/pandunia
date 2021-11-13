@@ -1,5 +1,7 @@
 # pandunia-polski
-####A - A  
+
+## A  
+
 a - ale, lecz  
 a min da - oprócz, minus  
 abies - jodła  
@@ -185,7 +187,9 @@ avar - obrażenia (rana, krzywda)
 avar ja - krzywdzący (szkodliwy)  
 ayo - aj!, ał!  
 Azerbaijan - Azerbejdżan  
-####B - B  
+
+## B  
+
 babu - rozdział, sekcja  
 babuche - kapeć (papeć, bambosz)  
 bacha - dziecko (nieletni)  
@@ -449,7 +453,9 @@ buta - but
 buton - klawisz, przycisk, przełącznik, guzik  
 buton bano - klawiatura  
 buyu - baobab  
-####C - C  
+
+## C  
+
 celsius darje - stopień Celsjusza  
 Ceres - Ceres (planeta karłowata)  
 ceres yum - cer  
@@ -529,7 +535,9 @@ chuze - wybór, elekcja, selekcja
 chuze she - opcja (wybór)  
 chuze yo gol - przeznaczyć  
 Cuana - Botswana  
-####D - D  
+
+## D  
+
 da - z (partykuła posiadania)  
 dai - duży  
 dai anjil ja - ambasador  
@@ -707,7 +715,9 @@ dush - prysznic
 dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 dute bil - wątpliwy (niewiarygodny, podejrzany)  
 dute ja - niepewny (podejrzliwy, niedowierzący)  
-####E - E  
+
+## E  
+
 e - i, oraz  
 eglisa - kościół  
 einstein yum - einstein  
@@ -776,7 +786,9 @@ europa baluta - dąb szypułkowy
 europa di - europejski  
 Europa Unta - Unia Europejska (EU)  
 europa yum - europ  
-####F - F  
+
+## F  
+
 fa - zrobić (stworzyć, wykreować)  
 fa achar - kisić (marynować)  
 fa ajibu - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
@@ -879,6 +891,7 @@ fa ming - rozjaśnić
 fa minim - zminimalizować  
 fa model - modelować (projektować, zaprojektować)  
 fa mol - zemleć (mleć, mielić)  
+fa multi - podwoić  
 fa multi do du - podwajać (podwoić, pomnożyć przez dwa)  
 fa muzika - grać muzykę  
 fa nam - nazwać, nazywać, wezwać, wzywać  
@@ -1011,6 +1024,7 @@ fei gi di kape ja - porywacz samolotu
 fei mushu - nietoperz  
 fem - kobieta; kobiecy  
 fem ben - córka  
+fem gami - małżonka  
 fem raja - królowa  
 fem sim - feminizm  
 fem sim ja - feminista (feministka)  
@@ -1110,7 +1124,9 @@ fute - stopa
 fute bano - rusztowanie (trap)  
 fute bol - piłka nożna  
 fute shaka - noga  
-####G - G  
+
+## G  
+
 ga - iść  
 Gabon - Gabon  
 gabur - grób (mogiła, grobowiec, zakopać, pochować)  
@@ -1271,7 +1287,9 @@ guste ka - smakować jak
 guta - kolano  
 guta kaske oste - rzepka  
 Guyana - Gujana  
-####H - H  
+
+## H  
+
 ha - mieć (trzymać)  
 habar - wiadomość, nius  
 habar gazeta - gazeta  
@@ -1410,7 +1428,9 @@ huru sim di - liberalny, wolnościowy
 huru sim ja - liberalista, wolnościowiec  
 huru ta - wolność, niepodległość, niezależność  
 hushi - miły, przyjemny, uroczy  
-####I - I  
+
+## I  
+
 ibri - hebrajski  
 ichi - chcieć (pragnąć)  
 ichi - wola, chęć  
@@ -1466,7 +1486,9 @@ islam fobi - islamofobia
 Islande - Islandia  
 Israel - Izrael  
 Italia - Italia, Włochy  
-####J - J  
+
+## J  
+
 ja - przyrostek dla wykonawcy  
 jaga - obudzić, budzić  
 jaga - przebudzony, przytomny  
@@ -1552,7 +1574,9 @@ jusha - zastrzyk
 jusha - wstrzyknąć, wstrzykiwać  
 juste - tylko (precyzyjny, dokładny)  
 juste pau ja - snajper (strzelec wyborowy)  
-####K - K  
+
+## K  
+
 ka - jak, niż, od  
 kababu - grillować  
 kababu nama - kebab  
@@ -1677,9 +1701,10 @@ kave - dół, jama, wydobycie, wykop, wykopalisko
 Qazaqe - Kazachstan  
 ke - co?  
 ke jen - co?  
+ke loka - gdzie?  
 ke multi di - ile?  
 ke riti - kiedy?  
-ke sate - zapytać, pytać  
+ke sata - zapytać, pytać  
 ke she - jak?  
 ke yang - jaki?  
 kechape - keczup  
@@ -1866,7 +1891,9 @@ kush - leżeć
 kush loka - kuszetka (koja)  
 kushen - poduszka  
 Kuvaite - Kuwejt  
-####L - L  
+
+## L  
+
 laba - róg  
 labi - warga  
 lage - jezioro  
@@ -2011,7 +2038,9 @@ luta ja - rabuś (grabieżca)
 Luter din - luteranizm  
 Luter din ja - luterański  
 lutesi yum - lutet  
-####M - M  
+
+## M  
+
 ma - matka, mama  
 Madagasi - Madagaskar  
 madagasi di - madagaskarski; malagaski  
@@ -2047,6 +2076,7 @@ Malvinas nesi - Falklandy, Malwiny
 mamal - ssak  
 man - męski  
 man ben - syn  
+man gami - małżonek  
 man raja - król  
 mana - znaczenie  
 manera - zachowanie (maniery, kultura)  
@@ -2290,7 +2320,9 @@ mute - zmienić, zmieniać
 muzika - muzyka  
 muzika ja - muzyk  
 Mianma - Mjanma, Birma  
-####N - N  
+
+## N  
+
 na - przy, z, na, w, u  
 na go - tu (tutaj, tam)  
 na ke - gdzie  
@@ -2435,7 +2467,9 @@ Nove Zelande - Nowa Zelandia
 nude - nagi, goły, obnażony  
 nude sim - nudyzm  
 nude sim ja - nudysta  
-####O - O  
+
+## O  
+
 o - lub, albo  
 Oceania - Oceania  
 Odisa - orija  
@@ -2472,7 +2506,9 @@ oste - kość
 oste jama - szkielet  
 oste shalke - łuska (blaszka, tarczka)  
 Ostria - Austria  
-####P - P  
+
+## P  
+
 pa - ojciec  
 pade - paść, padać, upaść, upadać  
 pade di - upadły  
@@ -2714,7 +2750,9 @@ putau oranje - grejpfrut
 pute - zgniły  
 putong - powszechny, uniwersalny  
 Putong Han - mandaryński chiński, Putonghua  
-####R - R  
+
+## R  
+
 radi - promieniować  
 radi - promień  
 radi - promieniowanie  
@@ -2833,7 +2871,9 @@ rute - ścieżka (droga, szlak, kurs)
 rute galte di - zbłąkany (dewiacyjny, wykolejony)  
 ruterfor yum - rutherford  
 rutin - rutyna, nawyk, zwyczaj  
-####S - S  
+
+## S  
+
 sabate - szabat, szabas  
 sabe - wiedzieć  
 sabe logi - epistemologia  
@@ -3190,7 +3230,9 @@ sushi - sushi
 suta - umiejętność (kompetencja)  
 sutur - szew  
 Suen - Szwecja  
-####T - T  
+
+## T  
+
 tabaku - tytoń  
 tabi - natura, środowisko  
 table yo data - ułożyć w trabelę  
@@ -3328,7 +3370,9 @@ Turkomen - Turkmenistan
 tuta - morwa  
 Tuvalu - Tuwalu  
 tuzi - królik, zając  
-####U - U  
+
+## U  
+
 UDA di - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
 uhu - płakać, łkać  
 Ukraina - Ukraina  
@@ -3359,7 +3403,9 @@ Uzbeki - Uzbekistan
 uze - użyć, używać, zatrudnić, stosować  
 uze ja - użytkownik  
 uze ja nam - nazwa użytkownika  
-####V - V  
+
+## V  
+
 vaf - pies  
 vagina - wagina  
 vagina flam - zapalenie pochwy  
@@ -3398,7 +3444,9 @@ varis - spadek, dziedzictwo, spuścizna, zapis
 vase - oaza  
 vashi - prać, umyć, myć  
 vashi urso - szop pracz  
-Vashington D####C - Waszyngton D.C  
+Vashington D
+## Waszyngton D.C  
+
 vasin - szczepionka  
 vate - wat  
 Vatikan - Watykan, Państwo Watykańskie  
@@ -3464,9 +3512,13 @@ vote - głos
 vote haki - prawo wyborcze  
 vulva - srom  
 vutu - przedmiot (obiekt)  
-####X - X  
+
+## X  
+
 xenon - ksenon  
-####Y - Y  
+
+## Y  
+
 ya - przyrostek dla miejsca  
 ya - tak  
 yake - jak (zwierzę)  
@@ -3519,7 +3571,9 @@ yung petra - lawa
 yung safa - topić (upłynnić, upłynniać)  
 yuter yum - itr  
 yuterbi yum - iterb  
-####Z - Z  
+
+## Z  
+
 zai - istnieć  
 zai den - dziś, dzisiaj  
 zai di - obecny, teraźniejszy, aktualny, bieżący, współczesny  

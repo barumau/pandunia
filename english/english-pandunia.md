@@ -2,7 +2,9 @@
 -ness, (-ity) - ta  
 -th (ordinal suffix) - me  
 @ symbol - adres zi  
-####A - A  
+
+## A  
+
 a couple of - du o tri  
 abattoir (slaughterhouse) - bucha kan  
 ability - bil ta  
@@ -254,7 +256,9 @@ axis (axle) - akse
 Azerbaijan - Azerbaijan  
 azure - lazur  
 azure bluet - blu serami sing  
-####B - B  
+
+## B  
+
 babul tree (thorny acacia) - arabi babul  
 baby (infant) - bebe  
 back (posterior) - pos di  
@@ -378,7 +382,7 @@ Bhutan - Lung Desha
 Bible - Biblia  
 Biblical - Biblia di  
 bicycle (pedal bike) - pedal sikle  
-big (great) - dai  
+big (great, large) - dai  
 big city - dai siti  
 bike (cycle) - sikle  
 bilingual - du basha di  
@@ -404,6 +408,7 @@ bitter orange - kali oranje
 black - kala  
 blacklist - haram liste  
 blacksmith (iron forger) - metal jiang ja  
+blade - gata yepa  
 blast furnace - gau tanur  
 bleed - lou sang  
 blini - rus krepe  
@@ -472,6 +477,7 @@ breakfast - suba yam
 breast (boob, tit) - titi  
 breastplate - sine plate  
 breath - nafas  
+breathe - fa nafas  
 breed - jene yo zou  
 brick - dobe  
 bridge - kio  
@@ -522,7 +528,9 @@ buttocks (bum, butt, ass) - pigu
 buy (purchase) - fa shopi  
 buyer - shopi ja  
 by (at, in, on) - na  
-####C - C  
+
+## C  
+
 cabin (booth) - kabin  
 cable (wire, line) - eletro lin  
 Cabo Verde (Cape Verde) - Kabu Verde  
@@ -695,6 +703,7 @@ classic (canon) - kanon
 classic (classical) - chen yang di  
 classify (categorize) - fa klas  
 classroom - shula kamar  
+claw (scratch) - fa nahun  
 clay - glu fan  
 clean (pure) - safa  
 clean (purify) - fa safa  
@@ -720,6 +729,7 @@ cloth (fabric, textile) - tela
 clothed (dressed) - fuku di  
 clothing (clothes) - fuku  
 cloud - megi  
+cloudy (foggy) - megi di  
 club - klube  
 coat - kote  
 cobalt - kobalte  
@@ -914,7 +924,9 @@ Cyrillic alphabet - Kiril zi
 cytology - selu logi  
 Czech Republic - Cheska  
 Côte d’Ivoire (Ivory Coast) - Kote Da Ivar  
-####D - D  
+
+## D  
+
 dagger - kanjar  
 daimyo oak - dante baluta  
 daisy - margarita  
@@ -1023,7 +1035,7 @@ distance (length) - tele ta
 distinction (specialty) - has ta  
 distinguish - fa has  
 ditch (canal, channel, dyke, trench) - kanal  
-divide (to partition) - fa fen  
+divide (partition, part, split, separate) - fa fen  
 divine (godly) - deu di  
 Djibouti - Jibuti  
 Dniester - Nistre  
@@ -1097,7 +1109,9 @@ dysfunction (malfunction) - dus funsi
 dysprosium - disprosi yum  
 dystheism (maltheism) - dus deu sim  
 dystopia - dus topo  
-####E - E  
+
+## E  
+
 each other (one another, mutually) - semon  
 ear - ore  
 earlier (before, in the past) - chen  
@@ -1253,7 +1267,9 @@ extroverted (outgoing) - vai verse di
 eye (look, watch, observe, spectate) - fa yen  
 eye - yen  
 eyelash - yen kesha  
-####F - F  
+
+## F  
+
 fable - zou kata  
 face (versus) - verse  
 face - muka  
@@ -1319,6 +1335,7 @@ fibre - lin so
 field (square, plaza, maidan) - medan  
 fiery - hogo di  
 fiever - febre  
+fight (do battle, make war) - fa jang  
 fight (war, battle, combat) - jang  
 figure (representation) - figur  
 Fiji - Fiji  
@@ -1326,7 +1343,7 @@ fill - fa pul
 film (membrane, video) - filme  
 filter - filtre  
 find (discover) - eureka  
-fine (delicate) - fine  
+fine (thin, narrow, slender, delicate) - fine  
 fine arts - sundar suta  
 finger (toe) - angul  
 finger ring - angul ring  
@@ -1372,6 +1389,7 @@ fluorine - flur
 fly (go through air) - fei  
 fly - zeze  
 focus (concentration) - fokus  
+fog (mist, haze) - tal megi  
 folder (directory) - dokumen sanduku  
 follow (come after) - fa pos  
 food (meal) - yam she  
@@ -1436,7 +1454,9 @@ funnel - dara tubo
 funny (amusing) - vanu di  
 fusion (amalgamation) - yung liga  
 future time - pos zaman  
-####G - G  
+
+## G  
+
 Gabon - Gabon  
 gadolinium - gadolin yum  
 gains and losses (pros and cons) - deku shiti  
@@ -1570,7 +1590,7 @@ grind (grind in mill) - fa mol
 grindstone (millstone) - mol seku  
 ground force (army) - geo gun  
 group - grupe  
-grow (get bigger) - be dai  
+grow (get bigger, inflate, swell) - be dai  
 grow (grow up, expand) - be raste  
 growth - raste  
 Guadeloupe - Guadelupe  
@@ -1594,7 +1614,9 @@ gun (firearm) - pau gi
 gunpowder - barude  
 guru (teacher, sage) - guru  
 Guyana - Guyana  
-####H - H  
+
+## H  
+
 habit (custom) - ada  
 hafnium - hafen yum  
 hair - kesha  
@@ -1652,6 +1674,7 @@ help (assist) - fa mede
 helper (supporter, proponent, backer) - mede ja  
 Helsinki - Helsinki  
 henna (alcanna) - hina  
+hepatitis - gani flam  
 here - na ni  
 heritage (legacy, bequest) - varis  
 hero - hero  
@@ -1739,13 +1762,16 @@ hunter - saide ja
 hunting (fishing) - saide  
 hurry (hasten) - ajila  
 hurt - fa pasi  
+husband - man gami  
 hush (shh) - shush  
 hybrid (mongrel) - hibride  
 hydrogen - hidro  
 hygiene (cleanliness) - salu safa ta  
 Hyperion - Hiperion  
 I (me) - mi  
-####I - I  
+
+## I  
+
 I Ching (the Book of Changes) - yeka kanon  
 Iapetus - Yapetus  
 ice - ais  
@@ -1823,6 +1849,7 @@ internet - internete
 interpreter (translator) - tarjum ja  
 interracial - rasa medi  
 interrogative - sual di  
+intestines (entrails, guts, bowels, viscera) - antra  
 introspection - in vide  
 introvert - in verse jen  
 invite - ching lai  
@@ -1844,7 +1871,9 @@ Isle of Man - Manin nesi
 Israel - Israel  
 issue (affair, concern) - sual tema  
 Italy - Italia  
-####J - J  
+
+## J  
+
 jackal - shakal  
 jacket - jake  
 jade - giuka  
@@ -1888,7 +1917,9 @@ just (fair, righteous) - adil
 just (precise, exact, accurate) - juste  
 just (recently) - na nove  
 justice - adil ta  
-####K - K  
+
+## K  
+
 Kama Sutra - kama kanon  
 kangaroo - kangaru  
 Kannada - karnada basha  
@@ -1943,7 +1974,9 @@ krypton - kriton
 kumquat - gingam  
 Kuwait - Kuvaite  
 Kyrgyzstan - Kirgize  
-####L - L  
+
+## L  
+
 lack (miss, be without) - hin  
 lacking (-less) - hin di  
 lacquer (varnish) - laka  
@@ -2056,6 +2089,7 @@ little (few, not many) - shau
 little (small; a little, somewhat) - lili  
 live (be alive, living) - jiva  
 live in (reside in, inhabit) - be dom  
+liver - gani  
 livermorium - livermor yum  
 lizard - saur  
 llama - liama  
@@ -2084,6 +2118,7 @@ lose (fail, miss, be defeated) - fa shiti bai
 lose (misplace, miss, shed) - shiti  
 loser - shiti bai ja  
 lot (plot of land) - geo tika  
+louse - poyu  
 love (liking, affection) - ama  
 love romantically - romanse  
 lover - ama ja  
@@ -2105,7 +2140,9 @@ Luxembourg - Luksemburge
 lychee (litchi) - lichi  
 lymph - limfa  
 lynx - linse  
-####M - M  
+
+## M  
+
 Macao - Makau  
 machine (device, aparatus) - gi  
 mad (insane, crazy) - foli  
@@ -2364,6 +2401,7 @@ multicultural - poli kultur di
 multiculturalism - poli kultur sim  
 multilingual - poli basha di  
 multinational - poli nasi di  
+multiply - fa multi  
 Mumbai (Bombay) - Mumbai  
 mummy - mum jen  
 muscle - muskul  
@@ -2382,7 +2420,9 @@ my - mi su
 Myanmar (Burma) - Mianma  
 mycelium - fungu nete  
 myth (divine story) - deu kata  
-####N - N  
+
+## N  
+
 Nahuatl (Nahua) - nava  
 nail (fingernail) - nahun  
 nail (spike) - dingi  
@@ -2408,6 +2448,7 @@ Nazi - nasi sosi sim ja
 Nazism - nasi sosi sim  
 near (close, almost) - karibu  
 necessary (needed) - yau di  
+neck (nape) - nuka  
 necrophilia - mata badan fili  
 need (lack, require) - yau  
 need (shortage, lack, requirement) - yau ta  
@@ -2503,7 +2544,9 @@ nudist - nude sim ja
 number (abundance) - multi ta  
 number - nomer  
 nylon - nilon  
-####O - O  
+
+## O  
+
 oak tree - baluta  
 oasis - vase  
 oat - ave  
@@ -2605,7 +2648,9 @@ owner (proprietor) - mal ja
 oxeye daisy - baku margarite  
 oxide - okside  
 oxygen - oksi  
-####P - P  
+
+## P  
+
 Pacific cod - pase hai bakalau  
 Pacific Ocean - Pase Hai  
 pacifism - pase sim  
@@ -2966,7 +3011,9 @@ quill - pero kalam
 quotation mark - sita marke  
 quote (cite) - sita  
 Quran (Koran) - kuran  
-####R - R  
+
+## R  
+
 rabbit (hare) - tuzi  
 raccoon - vashi urso  
 race (breed) - rasa  
@@ -2983,6 +3030,7 @@ radiotransmitter - radi miser
 radish - loba  
 radium - radi yum  
 radon - radon  
+rag (tattered cloth) - chira tela  
 rail (railway, railroad) - tren dau  
 rain (precipitation) - shava  
 rainbow - rang arka  
@@ -3118,6 +3166,7 @@ Rome - Roma
 roof - chati  
 room (chamber) - kamar  
 root - mula  
+rope (cable) - kable  
 rose - rode  
 rotate (make spin) - rota  
 rotate (spin, turn on an axis) - rota  
@@ -3149,7 +3198,9 @@ ruthenium - rus yum
 rutherfordium - ruterfor yum  
 Rwanda - Ruanda  
 Réunion - Reunion  
-####S - S  
+
+## S  
+
 Sabbath - sabate  
 sacrifice (offer) - kurban  
 sad - duka di  
@@ -3282,6 +3333,7 @@ shape (sculpt) - fa forma
 share - fa komun  
 shari'a - islam din sharia  
 shark - sharke  
+sharp (cutting, edged, pointed) - gata ja  
 shashlik - shish nama  
 shatter (break into pieces) - fa parche  
 shea (vitellaria) - karite  
@@ -3439,7 +3491,7 @@ spiderweb (cobweb) - arane nete
 spiral (helix, corkscrew, twist) - helis  
 spirit (soul, vitality, life force) - jini  
 spit - tuh  
-split (fall apart) - be fen  
+split (fall apart, divide, separate) - be fen  
 spoken (lexical) - loga di  
 sponge - esponje  
 spoon - chamacha  
@@ -3569,7 +3621,9 @@ Syria - Suria
 syrup - shirope  
 system - sistem  
 systemic - sistem di  
-####T - T  
+
+## T  
+
 table - meza  
 table of contents (inventory) - in liste  
 tablecloth - meza tela  
@@ -3689,6 +3743,7 @@ thorn tree (acacia, wattle) - babul
 thought (idea) - fikir  
 thousand (kilo-) - kilo  
 three (3) - tri  
+throat (windpipe, gullet, pharynx) - gala  
 throw (launch) - lanse  
 throw up (vomit, regurgitate) - retro gula  
 Thule - Tule  
@@ -3815,7 +3870,9 @@ two (2) - du
 type (kind, genre) - tipe  
 typewriter - kitabu gi  
 tyrant (despot) - zalim raja  
-####U - U  
+
+## U  
+
 Uganda - Ganda  
 ugly (unsightly) - dus vide  
 Ukraine - Ukraina  
@@ -3864,7 +3921,9 @@ user - uze ja
 username - uze ja nam  
 utopia - eu topo  
 Uzbekistan - Uzbeki  
-####V - V  
+
+## V  
+
 vaccine - vasin  
 vacuum cleaner - fun chupa gi  
 vagina - vagina  
@@ -3908,7 +3967,9 @@ vinegar - vin suan
 vineyard - putau bagi  
 vinyl - vinil  
 virgin - virje  
-Virgin Islands, U####S - Virjin nesi  
+Virgin Islands, U
+## Virjin nesi  
+
 virology - virus logi  
 virtue (morals) - bon moral  
 virtuous - bon moral di  
@@ -3947,7 +4008,9 @@ warrior (fighter) - jang ja
 wart - zeyil  
 wash - vashi  
 washing machine - fuku vashi gi  
-Washington D####C - Vashington DC  
+Washington D
+## Vashington DC  
+
 water - sui  
 water buffalo - karbau  
 water lily (nenuphar) - nenufar  
@@ -3991,8 +4054,9 @@ what thing? - ke she
 what? - ke  
 wheat - ganum  
 wheel - chakra  
-when? - ke sate  
+when? - ke sata  
 where - na ke  
+where? - ke loka  
 which (who, that) - jo  
 whip - bichi  
 whisky (whiskey) - viski  
@@ -4004,6 +4068,7 @@ wholeness (integrity) - holo ta
 wide (broad) - kuan  
 widow - vidou  
 width (breadth) - kuan ta  
+wife - fem gami  
 wiki - viki  
 wiki article - viki makala  
 wild (savage) - eko jene di  
@@ -4020,6 +4085,8 @@ winged bean - lung dou
 winter - leng mosim  
 winter melon (wax gourd, ash gourd) - mum melon  
 wintry - leng mosim di  
+wipe (clean with a cloth) - fa safa va tela  
+wipe (rag, cleaning cloth) - safa tela  
 wire - metal lin  
 wisdom - sofi ta  
 wise - sofi  
@@ -4047,9 +4114,13 @@ wrap - lifafa
 wrapping (envelope, covering) - lifafa  
 write (text) - kitabu  
 wrong (incorrect, erroneous, faulty) - galte di  
-####X - X  
+
+## X  
+
 xenon - xenon  
-####Y - Y  
+
+## Y  
+
 Yahweh (Jehovah) - Yahve  
 yak - yake  
 yard (garden) - bagi  
@@ -4076,7 +4147,9 @@ youth (young age) - jovan ta
 youth (young person) - jovan jen  
 ytterbium - yuterbi yum  
 yttrium - yuter yum  
-####Z - Z  
+
+## Z  
+
 Zambia - Zambia  
 zebra - zebra  
 Zen Buddhism - jan buda din  

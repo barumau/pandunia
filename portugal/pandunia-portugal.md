@@ -1,5 +1,7 @@
 # pandunia-portugal
-####A - A  
+
+## A  
+
 a - mas  
 abies - abeto  
 achi - espirrar  
@@ -46,6 +48,7 @@ angul - dedo
 angul marke - impressão digital  
 angul pike - ponta do dedo  
 anjil - mensagem  
+antra - intestino (entranhas, tripa)  
 aple - maçã  
 aple sos - purê de maçã  
 aplika - usar  
@@ -84,7 +87,9 @@ auto loga - monólogo
 avar - dano (avaria)  
 ave - aveia  
 ayo - ai!  
-####B - B  
+
+## B  
+
 bacha - criança (menino)  
 badam - amêndoa  
 badan - corpo  
@@ -199,7 +204,9 @@ buro krati - burocracia
 bus halte - parada de ônibus  
 buta - bota  
 buton - botão  
-####C - C  
+
+## C  
+
 ceres yum - cério  
 cesi yum - césio  
 chabi - chave  
@@ -234,7 +241,9 @@ chopu - enxada
 chuli - processo  
 chun - aldeia (vila)  
 chuze she - opção  
-####D - D  
+
+## D  
+
 dai dom - palácio (mansão, palacete)  
 dai hai - oceano  
 dai pau - canhǎo  
@@ -303,7 +312,9 @@ dus jen - inimigo
 dus karma - malfeitoria (pecado)  
 dus vide - feio  
 dush - ducha  
-####E - E  
+
+## E  
+
 e - e  
 einstein yum - einstânio  
 ekore - esquilo  
@@ -326,7 +337,9 @@ eu anjil - evangelho
 eu loga - elogio  
 europa baluta - carvalho-roble  
 europa yum - európio  
-####F - F  
+
+## F  
+
 fa - fazer  
 fa alo - alterar  
 fa argu - arguir  
@@ -397,6 +410,7 @@ fatu di - penal
 fatura - conta (fatura)  
 fei - voo  
 fei - voar  
+fem gami - esposa  
 fen - parte  
 fen gata - análise  
 fermi yum - férmio  
@@ -432,12 +446,15 @@ fungu - fungo
 fungu frute - cogumelo  
 fute bol - futebol  
 fute marke - pegada  
-####G - G  
+
+## G  
+
 ga - ir  
 gabur - sepultura (túmulo, enterrar)  
 gabur bagi - cemitério  
 gabur seku - lápide  
 gadolin yum - gadolínio  
+gala - garganta  
 galaksi - galáxia  
 gali yum - gálio  
 Galia - Gália  
@@ -453,6 +470,7 @@ gan gazo - feno
 gan tela - toalha  
 gana - cana  
 gana kalam - cálamo  
+gani - fígado  
 ganse - ganso  
 ganum - trigo  
 gar - se  
@@ -500,7 +518,9 @@ gun jen - soldado
 gun raja - generalíssimo  
 guta - joelho  
 guta kaske oste - rótula (patela)  
-####H - H  
+
+## H  
+
 Habasha - Abissínia  
 hafen yum - háfnio  
 haha - rir  
@@ -567,7 +587,9 @@ huke krus - suástica (cruz gamada)
 huke lin kane - vara de pescar  
 huli - raposa  
 huru - livre (forro)  
-####I - I  
+
+## I  
+
 in bum - imploção  
 in klus - incluindo  
 in klus di - inclusivo  
@@ -582,7 +604,9 @@ iode - iodo
 iris yum - irídio  
 ironi - ironia  
 islam din - islã  
-####J - J  
+
+## J  
+
 jaga - acordado  
 jama karde - cromo  
 jamul - jambolão (jambo)  
@@ -617,8 +641,11 @@ jul - joule (J)
 Jupiter - Júpiter  
 jus - suco (sumo)  
 juste - exato (preciso)  
-####K - K  
+
+## K  
+
 ka - que (como)  
+kable - corda (cabo)  
 kaboga - abóbora (jerimun)  
 kadim yum - cádmio  
 kafe - café  
@@ -690,8 +717,9 @@ kauri - búzio
 kave - buraco  
 ke - o que  
 ke jen - quem  
+ke loka - onde  
 ke riti - como  
-ke sate - quando  
+ke sata - quando  
 Keme - Antigo Egito  
 kerne - núcleo (cerne)  
 kesha brosha - escova de cabelo  
@@ -761,7 +789,9 @@ kuri yum - cúrio
 kurva - curva  
 kush - deitar  
 kush - estar deitado (jazer)  
-####L - L  
+
+## L  
+
 la - o (a)  
 labi - lábio  
 lage - lago  
@@ -846,7 +876,9 @@ luta ja - ladrão
 Luter din - luteranismo  
 Luter din ja - luterano  
 lutesi yum - lutécio  
-####M - M  
+
+## M  
+
 ma - mãe  
 ma di - maternal  
 magen yum - magnésio  
@@ -856,6 +888,7 @@ mahala - quarteirão
 majang - mahjong  
 makan hua - dente-de-leão (taráxaco)  
 mal nomi - economia  
+man gami - esposo  
 man raja - rei  
 manera - comportamento (conduta)  
 mang - ocupado (atarefado)  
@@ -952,7 +985,9 @@ mushu - rato
 muskul bina - fisiculturismo  
 musli - muesli  
 muzika - música  
-####N - N  
+
+## N  
+
 na - em  
 na go - aí (lá)  
 na ke - onde  
@@ -1011,7 +1046,10 @@ nove jene di - recém-nascido
 nove ka - novato (neófito)  
 nove loga - neologismo  
 nove ta - novidade  
-####O - O  
+nuka - pescoço (nuca, gargalo)  
+
+## O  
+
 o - ou  
 oganeson - oganesson  
 ohtopus - polvo  
@@ -1031,7 +1069,9 @@ osidian - obsidiana
 osmi yum - ósmio  
 oste jama - esqueleto  
 oste shalke - escudo  
-####P - P  
+
+## P  
+
 pa - pai  
 pa di - paternal  
 pade mosim - outono  
@@ -1126,6 +1166,7 @@ posta marke - carimbo
 pote chamacha - concha  
 pote ja - oleiro  
 pote suta - cerâmica  
+poyu - piolho  
 prazedim yum - praseodímio  
 presa - pressão  
 presa gi - prensa  
@@ -1144,7 +1185,9 @@ pul shipi - ensopar (encharcar, marinar)
 pulmon flam - pneumonia   
 putau bagi - vinhedo  
 putau oranje - toranja  
-####R - R  
+
+## R  
+
 radi yum - rádio  
 radio - radio  
 radon - rádon  
@@ -1187,7 +1230,9 @@ rubi yum - rubídio
 ruhu mishe di - perplexo (confuso)  
 rus yum - ruténio  
 ruterfor yum - rutherfórdio  
-####S - S  
+
+## S  
+
 sabe - saber (conhecer)  
 sabe vol ja - inquisitivo  
 sagu - sagu  
@@ -1335,7 +1380,9 @@ supa chamacha - colher de sopa
 supra vakil ja - senador  
 susan - lírio  
 suta - arte  
-####T - T  
+
+## T  
+
 table komputa - tablet  
 tai - estrado  
 tail - ladrilho (telha, azulejo)  
@@ -1378,7 +1425,9 @@ tule yum - túlio
 tumon su - vosso  
 tuta - amoreira  
 tuzi - coelho (lebre)  
-####U - U  
+
+## U  
+
 uma bichi - chibata  
 un - um (1)  
 un di - único (só)  
@@ -1390,7 +1439,9 @@ un zai di - só (solitário)
 ura - urra  
 Uran - Urano  
 uran yum - urânio  
-####V - V  
+
+## V  
+
 vaf - cão (cachorro)  
 vagina - vagina  
 vagina flam - vaginite  
@@ -1417,6 +1468,9 @@ var un - segunda-feira
 vari - vários  
 vase - oásis  
 vashi urso - guaxinim (rato-lavadeiro)  
+Vashington D
+##   
+
 vende - vender  
 ventur - aventura  
 ventur ja - aventureiro  
@@ -1443,9 +1497,13 @@ volfram - tungsténio
 vote - voto  
 vulva - vulva  
 vutu - item  
-####X - X  
+
+## X  
+
 xenon - xénon  
-####Y - Y  
+
+## Y  
+
 ya - sim  
 Yahve - Javé (Jeová)  
 yam fito - verdura (hortaliça, legume)  
@@ -1466,7 +1524,9 @@ yogur - iogurte
 yung - derretre  
 yuter yum - itrio  
 yuterbi yum - itérbio  
-####Z - Z  
+
+## Z  
+
 zai zaman di - corrente (atual)  
 zaman - tempo  
 zar kube - dado  

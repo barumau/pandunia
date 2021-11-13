@@ -23,7 +23,9 @@ they are separated by the semicolon.
 
 ---
 
-####A - A  
+
+## A  
+
 a - but (rather)  
 a min da - except (minus)  
 abies - fir tree  
@@ -150,6 +152,7 @@ anjil ja - messenger
 Antartika - Antarctica  
 Antartika Hai - Antarctic Ocean  
 antena - antenna (aerial)  
+antra - intestines (entrails, guts, bowels, viscera)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua and Barbuda  
 anus - anus  
@@ -234,7 +237,9 @@ avar ja - harmful (damaging)
 ave - oat  
 ayo - ouch (expressing pain, distress, shock and fear)  
 Azerbaijan - Azerbaijan  
-####B - B  
+
+## B  
+
 babu - chapter (section)  
 babuche - slipper  
 babul - thorn tree (acacia, wattle)  
@@ -339,7 +344,7 @@ be boli - boil (be boiled)
 be bum - explode (blow up)  
 be bum - explode  
 be chen - predate (be before)  
-be dai - grow (get bigger)  
+be dai - grow (get bigger, inflate, swell)  
 be dara - flow  
 be dom - live in (reside in, inhabit)  
 be duka - grieve  
@@ -347,7 +352,7 @@ be dur - last (take time; during)
 be emosi - feel  
 be estasi - stand still  
 be fatige - get tired (become weary)  
-be fen - split (fall apart)  
+be fen - split (fall apart, divide, separate)  
 be fin - end  
 be fobi - fear (be afraid)  
 be gas - gasify (vaporize)  
@@ -541,7 +546,9 @@ buta - boot
 buton - key (push-button, switch)  
 buton bano - keyboard  
 buyu - baobab  
-####C - C  
+
+## C  
+
 celsius darje - degree Celsius  
 Ceres - Ceres (dwarf planet)  
 ceres yum - cerium  
@@ -604,6 +611,7 @@ chira - tear (rip, edge)
 chira - tear (rip, split)  
 chira chira - tear up (tatter, shred)  
 chira chira di - tattered (ragged, torn)  
+chira tela - rag (tattered cloth)  
 chize - cheese  
 choda - fuck (copulate)  
 choi - greens  
@@ -626,9 +634,11 @@ chuze - choice (election, selection)
 chuze she - option (choice)  
 chuze yo gol - destine (set)  
 Cuana - Botswana  
-####D - D  
+
+## D  
+
 da - of (attributive preposition)  
-dai - big (great)  
+dai - big (great, large)  
 dai anjil ja - ambassador  
 dai anjil kan - embassy  
 dai dara - torrent  
@@ -840,7 +850,9 @@ dush - shower
 dute - doubt (disbelief)  
 dute bil - dubious (suspicious, unbelievable)  
 dute ja - doubtful (suspicious, disbelieving)  
-####E - E  
+
+## E  
+
 e - and  
 e mas - also (too)  
 eglisa - church  
@@ -920,7 +932,9 @@ europa di - European
 Europa luna - Europa  
 Europa Unta - European Union (EU)  
 europa yum - europium  
-####F - F  
+
+## F  
+
 fa - do  
 fa achar - pickle (preserve in vinegar or brine)  
 fa agresi - attack (assault)  
@@ -959,7 +973,7 @@ fa estude - study (work in order to practise or demonstrate)
 fa eu loga - praise (eulogize)  
 fa fantazi - imagine (fantasize)  
 fa fatu - punish (penalize)  
-fa fen - divide (to partition)  
+fa fen - divide (partition, part, split, separate)  
 fa fen do du - halve (divide by two)  
 fa fen gata - analyse (dissect, parse)  
 fa festa - celebrate (party)  
@@ -994,6 +1008,7 @@ fa in - enter (insert, put in)
 fa in klus - include (enclose, hold in)  
 fa ja - doer (agent)  
 fa jama - collect (gather, bring together, assemble, congregate)  
+fa jang - fight (do battle, make war)  
 fa javabu - respond (give an answer)  
 fa jela - imprison (jail)  
 fa jene - give birth (beget, generate, breed)  
@@ -1049,8 +1064,11 @@ fa ming - brighten
 fa minim - minimize  
 fa model - model (design)  
 fa mol - grind (grind in mill)  
+fa multi - multiply  
 fa multi do du - double (multiply by two)  
 fa muzika - play music  
+fa nafas - breathe  
+fa nahun - claw (scratch)  
 fa najis - corrupt (pollute, soil, defile, stain, taint)  
 fa nam - call (name)  
 fa nia - mean (intend)  
@@ -1100,6 +1118,7 @@ fa rol - act (play a role)
 fa rolo - roll (wrap in)  
 fa sabu - cause (be the cause for)  
 fa safa - clean (purify)  
+fa safa va tela - wipe (clean with a cloth)  
 fa safar - travel  
 fa sahi - correct (make right)  
 fa salam - greet  
@@ -1206,6 +1225,7 @@ fei gi di kape ja - plane hijacker
 fei mushu - bat (flying mammal)  
 fem - female  
 fem ben - daughter  
+fem gami - wife  
 fem raja - queen  
 fem sim - feminism  
 fem sim ja - feminist  
@@ -1236,7 +1256,7 @@ fin - finish (complete, end)
 fin - already (completed action)  
 fin di - ended (finished)  
 fin me - last (final)  
-fine - fine (delicate)  
+fine - fine (thin, narrow, slender, delicate)  
 fiorde - fjord  
 firuze - turquoise gem  
 fito - plant (vegetable, vegetation)  
@@ -1322,7 +1342,9 @@ fute bano - scaffolding (gangplank)
 fute bol - football (soccer)  
 fute marke - footprint  
 fute shaka - leg  
-####G - G  
+
+## G  
+
 ga - go (move through space)  
 Gabon - Gabon  
 gabur - grave (tomb, bury)  
@@ -1330,6 +1352,7 @@ gabur bagi - graveyard (cemetery, burial ground)
 gabur seku - tombstone (gravestone)  
 gadolin yum - gadolinium  
 gaja - elephant  
+gala - throat (windpipe, gullet, pharynx)  
 galaksi - galaxy  
 galeri - gallery (exhibition hall)  
 gali yum - gallium  
@@ -1357,6 +1380,8 @@ Gana - Ghana
 gana - reed (cane)  
 gana kalam - reed pen  
 Ganda - Uganda  
+gani - liver  
+gani flam - hepatitis  
 Ganga - Ganges  
 Ganimede - Ganymede  
 ganja - cannabis (marijuana, ganja, pot, weed)  
@@ -1378,6 +1403,8 @@ gas - gas
 gas di - gaseous  
 gata - cut  
 gata glu bano - clipboard (paste buffer)  
+gata ja - sharp (cutting, edged, pointed)  
+gata yepa - blade  
 gati - hard (tough)  
 gati mate - solid  
 gati mate di - rigid (solid)  
@@ -1509,7 +1536,9 @@ guste ka - taste like
 guta - knee  
 guta kaske oste - kneecap  
 Guyana - Guyana  
-####H - H  
+
+## H  
+
 ha - have (there be)  
 habar - news  
 habar gazeta - newspaper (gazette)  
@@ -1670,7 +1699,9 @@ huru sim di - liberal
 huru sim ja - liberalist  
 huru ta - freedom (liberty)  
 hushi - nice (pleasant, comfortable, cushy)  
-####I - I  
+
+## I  
+
 ibri - Hebrew  
 ichi - will (want)  
 ichi - will (volition, desire)  
@@ -1734,7 +1765,9 @@ islam fobi - islamophobia
 Islande - Iceland  
 Israel - Israel  
 Italia - Italy  
-####J - J  
+
+## J  
+
 ja - doer (agent, actor)  
 jaga - wake (make awake)  
 jaga - awake  
@@ -1833,12 +1866,15 @@ jusha - injection
 jusha - inject  
 juste - just (precise, exact, accurate)  
 juste pau ja - sniper (sharpshooter)  
-####K - K  
+
+## K  
+
 ka - than (as, compared to, relative to)  
 ka - person engaged in a profession or practice (-ic, -er)  
 kababu - barbecue (grill)  
 kababu nama - grilled meat (kebab)  
 kabin - cabin (booth)  
+kable - rope (cable)  
 kaboga - squash (pumpkin, gourd)  
 Kabu Verde - Cabo Verde (Cape Verde)  
 kadim yum - cadmium  
@@ -1976,9 +2012,10 @@ kave - pit (excavation, cavity)
 Qazaqe - Kazakhstan  
 ke - what?  
 ke jen - who?  
+ke loka - where?  
 ke multi di - how many?  
 ke riti - how?  
-ke sate - when?  
+ke sata - when?  
 ke she - what thing?  
 ke yang - what kind of?  
 kechape - ketchup  
@@ -2186,7 +2223,9 @@ kush - lie (lie down)
 kush loka - berth (couchette)  
 kushen - cushion (pillow)  
 Kuvaite - Kuwait  
-####L - L  
+
+## L  
+
 la - the (that)  
 laba - bugle (horn instrument)  
 labi - lip  
@@ -2347,7 +2386,9 @@ luta ja - robber (plunderer)
 Luter din - Lutheranism  
 Luter din ja - Lutheran  
 lutesi yum - lutetium  
-####M - M  
+
+## M  
+
 ma - mother (mom, mama)  
 ma di - motherly (maternal)  
 ma su ma - maternal grandmother  
@@ -2387,6 +2428,7 @@ Malvinas nesi - Falkland Islands (Malvinas)
 mamal - mammal  
 man - male  
 man ben - son  
+man gami - husband  
 man raja - king  
 mana - meaning (signification)  
 manera - behavior (manners)  
@@ -2478,6 +2520,7 @@ medu fong sanduku - beehive (beehouse)
 mega gram - tonne (metric ton)  
 mega vate - megawat (MW)  
 megi - cloud  
+megi di - cloudy (foggy)  
 Mehiko - Mexico  
 Mehiko siti - Mexico City  
 meitner yum - meitnerium  
@@ -2650,7 +2693,9 @@ mute - change (alter, convert)
 muzika - music  
 muzika ja - musician  
 Mianma - Myanmar (Burma)  
-####N - N  
+
+## N  
+
 na - by (at, in, on)  
 na go - there  
 na in - inside  
@@ -2818,7 +2863,10 @@ nu - well (now; used to introduce a statement)
 nude - naked (bare, nude)  
 nude sim - nudism  
 nude sim ja - nudist  
-####O - O  
+nuka - neck (nape)  
+
+## O  
+
 o - or  
 Oberon - Oberon  
 Oceania - Oceania  
@@ -2858,7 +2906,9 @@ oste - bone
 oste jama - skeleton (frame)  
 oste shalke - scute  
 Ostria - Austria  
-####P - P  
+
+## P  
+
 pa - father (dad, papa)  
 pa di - fatherly (paternal)  
 pa su ma - paternal grandmother  
@@ -3103,6 +3153,7 @@ pote chamacha - ladle (dipper, scoop)
 pote ja - potter  
 pote suta - pottery  
 poze - pose (position)  
+poyu - louse  
 prati - practice (actuality)  
 prati di - practical (pragmatic)  
 prazedim yum - praseodymium  
@@ -3144,7 +3195,9 @@ putau oranje - grapefruit
 pute - rotten  
 putong - common (general)  
 Putong Han - Mandarin Chinese (Putonghua)  
-####R - R  
+
+## R  
+
 radi - radiate  
 radi - ray  
 radi - radiation  
@@ -3272,7 +3325,9 @@ rute - route (path, trail, course, itinerary)
 rute galte di - stray (deviant)  
 ruterfor yum - rutherfordium  
 rutin - routine (habit)  
-####S - S  
+
+## S  
+
 sabate - Sabbath  
 sabe - know (be aware of)  
 sabe logi - epistemology  
@@ -3285,6 +3340,7 @@ sabun - soap
 sada - plain (ordinary, unadorned, simple, mere)  
 safa - clean (pure)  
 safa ja - cleaner  
+safa tela - wipe (rag, cleaning cloth)  
 safar - travel (voyage, trip)  
 safar ja - traveler  
 safar kegu - tourism  
@@ -3665,7 +3721,9 @@ suta - skill (art, craft)
 suta tabi - skillful (crafty)  
 sutur - suture (seam)  
 Suen - Sweden  
-####T - T  
+
+## T  
+
 ta - -ness, (-ity)  
 tabaku - tobacco  
 tabi - nature (disposition, essence, character, -ive)  
@@ -3687,6 +3745,7 @@ taksi metre gi - taximeter
 tal - bottom  
 tal darja - level down  
 tal di - low (short)  
+tal megi - fog (mist, haze)  
 tal moka - bush (shrub)  
 tal tela - carpet (rug)  
 tali yum - thallium  
@@ -3831,7 +3890,9 @@ Turkomen - Turkmenistan
 tuta - mulberry  
 Tuvalu - Tuvalu  
 tuzi - rabbit (hare)  
-####U - U  
+
+## U  
+
 UDA di - American (US)  
 uhu - cry (boo-hoo, alas, woe)  
 Ukraina - Ukraine  
@@ -3869,7 +3930,9 @@ uze - use (employ, apply)
 uze bil di - usable (available)  
 uze ja - user  
 uze ja nam - username  
-####V - V  
+
+## V  
+
 va - with (in the company of; by means of)  
 vaf - dog  
 vagina - vagina  
@@ -3919,7 +3982,9 @@ varis - heritage (legacy, bequest)
 vase - oasis  
 vashi - wash  
 vashi urso - raccoon  
-Vashington D####C - Washington DC  
+Vashington D
+## Washington DC  
+
 vasin - vaccine  
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
@@ -3997,9 +4062,13 @@ vote - vote (ballot)
 vote haki - franchise (right to vote)  
 vulva - vulva  
 vutu - object (item, thing)  
-####X - X  
+
+## X  
+
 xenon - xenon  
-####Y - Y  
+
+## Y  
+
 ya - area of thinking or being  
 ya - yes  
 Yahve - Yahweh (Jehovah)  
@@ -4061,7 +4130,9 @@ yung petra - lava
 yung safa - smelt  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  
-####Z - Z  
+
+## Z  
+
 zai - exist (presently, currently)  
 zai den - today  
 zai di - present (existing)  

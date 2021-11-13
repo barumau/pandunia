@@ -5,7 +5,9 @@ fata_liste_pandunia_X() {
     #mata un me lin
     sed -i '1d' $logaliste
     # ABC nam
-    sed -i 's/[A-Z] - .*$/####&/' $logaliste
+    sed -i 's/[A-Z] - .*$/\n##&\n/' $logaliste
+    # mute "A - A" do "A"
+    sed 's/#[A-Z] -/#/g' -i $logaliste
     #Delete empty translations
     sed -i '/-...$/d' $logaliste
     #kitabu la nam e la chen kitabu
@@ -28,7 +30,10 @@ fata_liste_X_pandunia() {
     sed -i '1d' $logaliste
     # alfobeta
     cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
-    cat temp/temp.txt | sed 's/[A-Z] - .*$/####&/' > $logaliste
+    # ABC nam
+    cat temp/temp.txt | sed 's/[A-Z] - .*$/\n##&\n/' > $logaliste
+    # mute "A - A" do "A"
+    sed 's/#[A-Z] -/#/g' -i $logaliste
     #Add header
     sed -i "1s/^/# $2–pandunia\n/" $logaliste
     #Delete empty translations

@@ -1,5 +1,7 @@
 # pandunia-putonghan
-####A - A  
+
+## A  
+
 a - 但是 (不过)  
 abies - 冷杉  
 achar - 腌菜  
@@ -50,6 +52,7 @@ angul pike - 指尖
 anime - 活跃  
 anjil - 信息  
 antena - 天线  
+antra - 肠子  
 anus - 肛门  
 aple - 苹果  
 aplika - 运用  
@@ -87,7 +90,9 @@ Austronesi - 南岛
 auto loga - 独白  
 ave - 燕麦  
 ayo - 哎哟  
-####B - B  
+
+## B  
+
 babu - 章  
 bacha - 小孩  
 badam - 杏仁 (巴旦木)  
@@ -202,7 +207,9 @@ buro ja - 秘书
 buro krati - 官僚制  
 bus halte - 汽车站  
 buton - 扣子  
-####C - C  
+
+## C  
+
 ceres yum - 铈  
 cesi yum - 铯  
 chabi - 钥匙  
@@ -238,7 +245,9 @@ chopu - 锄头
 chuli - 处理  
 chun - 村  
 chuze she - 选择 (买卖权)  
-####D - D  
+
+## D  
+
 dai dom - 殿 (宫殿, 宅第)  
 dai hai - 大洋 (大海)  
 dai pau - 大炮  
@@ -310,7 +319,9 @@ dus jen - 敌人
 dus sin di - 不祥的  
 dus vide - 难看  
 dush - 淋浴  
-####E - E  
+
+## E  
+
 e - 和  
 einstein yum - 锿  
 ekore - 松鼠  
@@ -329,7 +340,9 @@ estronti yum - 锶
 eu anjil - 福音  
 europa baluta - 夏櫟  
 europa yum - 铕  
-####F - F  
+
+## F  
+
 fa - 作  
 fa alo - 改變  
 fa bina - 建设  
@@ -358,6 +371,7 @@ fa nomi - 组织
 fa pede - 放屁  
 fa ratibu - 整理  
 fa re - 重复  
+fa safa va tela - 擦  
 fa shipi - 弄湿  
 fa shiti bai - 输  
 fa shofer - 开车  
@@ -388,6 +402,7 @@ fero - 铁
 filme - 膜  
 filsofi - 哲学  
 fin - 了  
+fine - 窄 (薄, 稀疏)  
 fiorde - 峡湾  
 firuze - 绿松石  
 fito - 植物  
@@ -417,12 +432,15 @@ fuku - 穿
 fuku vashi gi - 洗衣机  
 fungu frute - 蘑菇  
 fute marke - 脚印  
-####G - G  
+
+## G  
+
 ga - 去  
 gabur - 坟墓 (埋葬)  
 gabur bagi - 公墓 (墓地)  
 gabur seku - 墓石 (墓碑)  
 gadolin yum - 钆  
+gala - 咽喉  
 galaksi - 恆星系  
 gali yum - 镓  
 Galia - 高卢  
@@ -431,6 +449,7 @@ gamba - 虾
 gan gazo - 干草  
 gana - 秆  
 gana kalam - 蘆葦筆  
+gani - 肝脏  
 ganse - 雁 (鹅)  
 ganum - 麦  
 gar - 如果 (要是)  
@@ -486,7 +505,9 @@ gun jen - 军人
 gun raja - 大元帅  
 guta - 膝  
 guta kaske oste - 膝盖骨  
-####H - H  
+
+## H  
+
 ha - 有  
 habar - 消息  
 Habasha - 阿比西尼亚  
@@ -556,7 +577,9 @@ huke lin kane - 钓鱼竿
 huli - 狐狸  
 huru - 自由的  
 huru ta - 自由  
-####I - I  
+
+## I  
+
 iha uma - 骡  
 in bum - 内爆  
 in migra - 移民 (移居)  
@@ -568,7 +591,9 @@ insan sim - 人文主义
 iode - 碘  
 iris yum - 铱  
 islam din - 回教 (伊斯蘭教)  
-####J - J  
+
+## J  
+
 jamul - 閻浮樹  
 jan buda din - 禅宗  
 janela - 窗戶  
@@ -600,9 +625,12 @@ jul - 焦耳 (J)
 jumla - 句子  
 Jupiter - 木星  
 jus - 汁  
-####K - K  
+
+## K  
+
 ka - 比  
 ka - 家  
+kable - 绳子  
 kaboga - 南瓜  
 kadim yum - 镉  
 kafe - 咖啡  
@@ -735,7 +763,9 @@ kupre - 铜
 kurban - 牺牲  
 kuri yum - 锔  
 kush - 躺  
-####L - L  
+
+## L  
+
 la - 该 (上述的)  
 lage - 湖  
 lai - 来  
@@ -814,7 +844,9 @@ lung dou - 四棱豆
 luta - 掠夺  
 luta ja - 强盗  
 lutesi yum - 镥  
-####M - M  
+
+## M  
+
 ma - 妈妈  
 ma su ma - 外婆 (外祖母)  
 ma su pa - 外公 (外祖父)  
@@ -916,7 +948,9 @@ mushu - 鼠
 muskul bina - 健美运动  
 musli - 木斯里 (瑞士麦片)  
 muzika - 音乐  
-####N - N  
+
+## N  
+
 na - 在  
 na go - 那里 (那儿)  
 na lin - 在线  
@@ -971,7 +1005,10 @@ note she - 便条
 nove - 新  
 nove ka - 新手  
 nove loga - 新词  
-####O - O  
+nuka - 颈  
+
+## O  
+
 o - 或  
 ohtopus - 章鱼  
 oksi - 氧  
@@ -987,7 +1024,9 @@ oselote - 虎貓
 osidian - 黑曜岩  
 osmi yum - 锇  
 oste jama - 骨骼  
-####P - P  
+
+## P  
+
 pa - 爸爸  
 pa su ma - 奶奶 (祖母)  
 pa su pa - 爷爷 (祖父)  
@@ -1069,6 +1108,7 @@ pospor - 磷
 pote chamacha - 勺 (舀)  
 pote ja - 陶瓷工  
 pote suta - 陶器制造  
+poyu - 虱子  
 prazedim yum - 镨  
 presa - 压力  
 problem - 问题 (难题)  
@@ -1087,7 +1127,9 @@ putau bagi - 葡萄园
 putau oranje - 葡萄柚  
 putong - 普通  
 Putong Han - 普通话  
-####R - R  
+
+## R  
+
 radi yum - 镭  
 radon - 氡  
 rai - 意见 (见解)  
@@ -1127,7 +1169,9 @@ rubi bau seku - 红宝石
 rubi yum - 铷  
 ruhu mishe di - 困惑 (混乱)  
 rus yum - 钌  
-####S - S  
+
+## S  
+
 sabe - 知道 (晓得)  
 sabe vol - 趣  
 sabe vol di - 有趣  
@@ -1272,7 +1316,9 @@ supra vakil ja - 参议员
 supriza - 惊奇  
 susan - 百合花  
 suta - 技术  
-####T - T  
+
+## T  
+
 tabi - 特性 (生性)  
 table komputa - 平板电脑  
 tail - 砖 (瓦)  
@@ -1328,7 +1374,9 @@ tumon - 你们
 tumon su - 你们的  
 tuta - 桑树  
 tuzi - 兔子  
-####U - U  
+
+## U  
+
 uma bichi - 马鞭  
 umami - 鲜味  
 un - 一 (1)  
@@ -1339,7 +1387,9 @@ un ta liga - 合并
 un zai di - 独自的 (孤单)  
 ura - 好哇  
 uran yum - 铀  
-####V - V  
+
+## V  
+
 va - 和  
 vaf - 狗  
 vagina - 阴道  
@@ -1365,6 +1415,9 @@ var un - 星期一 (禮拜一)
 var var - 週  
 vari - 各种各样  
 vashi urso - 浣熊  
+Vashington D
+##   
+
 vei darje - 纬度  
 vei lin - 緯紗  
 vende - 卖  
@@ -1388,9 +1441,13 @@ vol - 想要 (愿意)
 volfram - 钨  
 vulva - 外阴 (陰门)  
 vutu - 物体 (物品)  
-####X - X  
+
+## X  
+
 xenon - 氙  
-####Y - Y  
+
+## Y  
+
 ya - 对 (是)  
 Yahve - 耶和华 (雅威)  
 yam fito - 蔬菜  
@@ -1416,7 +1473,9 @@ yung petra - 熔岩
 yung safa - 熔炼  
 yuter yum - 钇  
 yuterbi yum - 镱  
-####Z - Z  
+
+## Z  
+
 zai zaman di - 现在的  
 zaman - 时间  
 zar kube - 骰子 (色子)  
