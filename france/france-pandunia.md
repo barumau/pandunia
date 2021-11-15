@@ -3,6 +3,7 @@ a (dans, en, chez) - na
 
 ## A  
 
+abaque (boulier compteur) - lulu table  
 abattoir - bucha kan  
 abattre - bucha  
 abeille ou guêpe - fong  
@@ -81,6 +82,7 @@ anal - anus di
 analyse - fen gata  
 analyser - fa fen gata  
 anaérobique - an air bio di  
+anchois - anchovi  
 ancre - angar  
 Andes - Andes  
 Andorre - Andora  
@@ -90,6 +92,7 @@ Angola - Angola
 animal (bête) - zou  
 animation - anime  
 animer - anime  
+anis - anis  
 anneau - ring  
 Antarctique - Antartika  
 antenne - antena  
@@ -193,6 +196,7 @@ baie (golf) - baya
 baie - beri  
 bain - banya  
 baisser - fa tal  
+balai - jaru  
 balance (poids) - veze metre gi  
 balcon - veranda  
 balle (boule) - bol  
@@ -467,7 +471,7 @@ couguar (puma) - puma
 couleur - rang  
 coupe (tasse, verre) - kupa  
 courbe - kurva  
-coureur - korer  
+coureur - kore ja  
 courgette - lili kaboga  
 courir - kore  
 couronne - korona  
@@ -507,6 +511,7 @@ célérité - sir ta
 cérium - ceres yum  
 cérébral - nau di  
 césium - cesi yum  
+cône - kone  
 côte - hai kinar  
 côté - late  
 
@@ -1390,6 +1395,7 @@ racine - mula
 radio - radio  
 radium - radi yum  
 radon - radon  
+raki - anis araki  
 rang - dan  
 rare - nadir  
 rare - rare  
@@ -1441,6 +1447,7 @@ ruche (nid d'abeille) - fong nide
 ruse - truke  
 rutherfordium - ruterfor yum  
 ruthénium - rus yum  
+réglisse - alkasus  
 réparateur - shuli ja  
 réparation - shuli  
 réparer - shuli  
@@ -1540,6 +1547,7 @@ soumission - islam
 soupe - supa  
 souris - mushu  
 sous-estimer - fa min rai  
+spiritueux - araki  
 sport - esporte  
 squelette - oste jama  
 strontium - estronti yum  
@@ -1596,6 +1604,7 @@ terre cuite - baka fan
 terreplatiste - plate geo sim ja  
 terrorisme - teror sim  
 thallium - tali yum  
+thon - tuna  
 thorium - tor yum  
 thulium - tule yum  
 Thulé - Tule  

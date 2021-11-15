@@ -28,11 +28,13 @@ akse - ось
 alga - водоросли  
 alga fungu - лишай  
 alga jangal - лес водорослей  
+alkasus - солодка (лакрица)  
 alkol - алкоголь  
 almari - шкаф  
 almas - алмаз (бриллиант)  
 alo - другой (второй)  
 alo fen di - раздельный  
+alpaka - альпака  
 alumin - алюминий  
 ama - любовь  
 ama ja - любовник  
@@ -46,12 +48,15 @@ an din ja - неверующий
 an memo - забывать  
 an nam - антоним  
 an sona - бессонница (инсомния)  
+anchovi - анчоус (хамса)  
 andesite - андезит  
 angar - якорь  
 angul - палец  
 angul marke - отпечаток пальца  
 angul pike - кончик пальца  
 anime - оживление  
+anis - анис  
+anis araki - арак (ракы)  
 anjil - месседж  
 antena - антенна  
 antra - внутренности  
@@ -664,6 +669,7 @@ jan buda din - дзен-буддизм
 janela - окно  
 jangal - лес (джунгли)  
 jara - кувшин (графин)  
+jaru - метла  
 jau - ячмень  
 javabu - ответ  
 jene basha - родной язык  
@@ -811,12 +817,13 @@ kon gong - сотрудничать (кооперировать)
 kon pasi - жалость (сердобольность)  
 kon sel ja - консультант (советник)  
 kon trati - контракт  
+kone - конус  
 konserte - концерт  
 koperni yum - коперниций  
 kopi - копия  
 koral - коралл  
 kore - бегать (бежать)  
-korer - бегун  
+kore ja - бегун  
 korne melon - кивано (рогатая дыня)  
 kornonos - носорог  
 korona - корона  
@@ -926,6 +933,7 @@ long tire - вытянуть
 lotra - выдра  
 lou - протекать (просочиться)  
 luka - шесть (6)  
+lulu table - счёты (абак)  
 luna - луна  
 luna keke - лунный пирог  
 luta ja - грабитель  
@@ -1544,6 +1552,7 @@ tu - ты
 Tule - Туле  
 tule yum - тулий  
 tumon su - ваш  
+tuna - тунец  
 tundra san - фьельды  
 tuta - шелковица (тута)  
 tuzi - кролик (заяц)  

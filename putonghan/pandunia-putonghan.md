@@ -26,12 +26,14 @@ akse - 轴线
 alga - 藻类  
 alga fungu - 地衣  
 alga jangal - 海藻林  
+alkasus - 甘草 (国老)  
 alkol - 酒  
 almari - 碗碟橱  
 almas - 钻石  
 alo - 另一  
 alo fen di - 分开的  
 alo rai - 不同意  
+alpaka - 无峰驼  
 alumin - 铝  
 ama - 爱  
 ama di - 亲爱的  
@@ -44,12 +46,15 @@ an air bio di - 厌氧的
 an din ja - 不信神的  
 an memo - 忘记  
 an sona - 失眠  
+anchovi - 凤尾鱼  
 andesite - 安山岩  
 angar - 锚  
 angul - 手指  
 angul marke - 指纹 (指印)  
 angul pike - 指尖  
 anime - 活跃  
+anis - 茴芹  
+anis araki - 阿剌吉  
 anjil - 信息  
 antena - 天线  
 antra - 肠子  
@@ -57,6 +62,7 @@ anus - 肛门
 aple - 苹果  
 aplika - 运用  
 arabi babul - 阿拉伯金合欢  
+araki - 烈酒  
 arane - 蜘蛛  
 arane nete - 蜘蛛网  
 arbuza - 西瓜  
@@ -602,6 +608,7 @@ janela frem - 窗框
 jang - 戰爭 (斗争, 战斗)  
 jangal - 森林  
 jara - 罐 (瓶)  
+jaru - 扫帚  
 jau - 大麦  
 javabu - 回答  
 jeka - 借  
@@ -732,11 +739,12 @@ kon bon - 相配
 kon gong - 合作  
 kon sel ja - 顾问  
 kon trati - 公約  
+kone - 锥体  
 konserte - 音乐会  
 kopi - 摹本 (拷貝)  
 koral - 珊瑚  
 kore - 跑步  
-korer - 跑步者  
+kore ja - 跑步者  
 korne melon - 刺角瓜  
 korte kata - 短篇小说  
 korte krokodil - 短吻鳄  
@@ -841,6 +849,7 @@ long tire - 拉
 lotra - 獭  
 lou - 漏  
 luka - 六 (6)  
+lulu table - 算盘  
 luna keke - 月饼  
 lung - 龙  
 lung dou - 四棱豆  
@@ -1376,6 +1385,7 @@ tu - 你
 tule yum - 铥  
 tumon - 你们  
 tumon su - 你们的  
+tuna - 金枪鱼  
 tuta - 桑树  
 tuzi - 兔子  
 

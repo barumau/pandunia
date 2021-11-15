@@ -43,6 +43,7 @@ Alaska - Alaska
 alga - alga  
 alga fungu - liquen  
 alga jangal - bosque de algas  
+alkasus - regaliz (alcazuz, orozuz)  
 alkol - alcohol  
 alkol di - alcohólico  
 almari - armario  
@@ -58,6 +59,7 @@ alo romanse di - heterorromántico
 alo sekse di - heterosexual  
 alo sifa - diferencia  
 alo sifa di - diferente  
+alpaka - alpaca  
 alumin - aluminio  
 alumin mate - alumbre  
 alumin okside - alúmina  
@@ -95,6 +97,7 @@ an sekse di - asexual
 an sona - insomnio  
 an tapa - desatascar  
 an yau di - innecesario  
+anchovi - anchoa  
 anda - huevo  
 Andes - Andes  
 andesite - andesita  
@@ -107,6 +110,7 @@ angul pike - yema del dedo
 angul ring - anillo (sortija)  
 anime - animar  
 anime - animación (dibujo animado)  
+anis - anís  
 anjil - mensaje  
 anjil ja - mensajero  
 Antartika - antartida  
@@ -124,6 +128,7 @@ aplika - aplicación
 Apsni - abjazia  
 arabi - árabe  
 arabi babul - goma arábiga  
+araki - licor  
 arane - araña  
 arane fobi - aracnofobia  
 arane nete - telaraña  
@@ -1592,6 +1597,7 @@ jang ja - luchador (guerrero)
 jang suta - arte marcial  
 jangal - bosque (jungla, selva)  
 jara - jarra  
+jaru - escoba  
 jau - cebada  
 javabu - repuesta (contestación)  
 Jayer - Argelia  
@@ -1903,7 +1909,7 @@ kopi - copia (réplica)
 kopi haki - derechos de autor (copyright)  
 koral - coral  
 kore - correr  
-korer - corredor  
+kore ja - corredor  
 korne - cuerno  
 kornonos - rinoceronte  
 korona - corona  
@@ -2119,6 +2125,7 @@ luka fase - hexaedro (cubo)
 luka gona - hexágono  
 Luksemburge - Luxemburgo  
 lulu - perla  
+lulu table - ábaco  
 luna - luna  
 luna keke - pastel de luna  
 lung - dragón  
@@ -3515,6 +3522,7 @@ tule yum - tulio
 tulpan - tulipán  
 tumon - ustedes  
 tumon su - vuestro  
+tuna - atún  
 tundra - tundra  
 tunel - túnel  
 tunel tren - metro  

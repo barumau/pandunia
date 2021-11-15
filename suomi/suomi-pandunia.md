@@ -91,6 +91,7 @@ alla - na niche
 allas - basen  
 allofoni (vaihtoehtoinen ääntämys) - alo fon  
 aloittaa - fa shuru  
+alpakka - alpaka  
 alttari - puja meza  
 alue (seutu) - area  
 alumiini - alumin  
@@ -118,6 +119,7 @@ anglofiili - english fili ja
 Angola - Angola  
 animaatio (piirretty) - anime  
 animoida - anime  
+anis - anis  
 ankkuri - angar  
 annos - doze  
 anoppi - gami ma  
@@ -153,6 +155,7 @@ Arktis - Artika
 armeija (sotajoukko) - gun  
 Armenia - Haye  
 aromanttinen - an romanse  
+arrakki - ris araki  
 arseeni - arsen yum  
 artesaani (käsityöläinen) - jiang ja  
 artikkeli (kirjoitus) - makala  
@@ -619,6 +622,7 @@ helikopteri - helis fei gi
 helium - heli yum  
 helmi - lulu  
 helmikuu - mes du  
+helmitaulu - lulu table  
 helppo - fasil  
 helppous - fasil ta  
 Helsinki - Helsinki  
@@ -945,7 +949,7 @@ jumaltaru (myytti) - deu kata
 juna - tren  
 junakaappari - tren kape ja  
 junarata (rautatie) - tren dau  
-juoksija - korer  
+juoksija - kore ja  
 juoni (salaliitto) - sir plan  
 juosta - kore  
 Jupiter - Jupiter  
@@ -1319,6 +1323,7 @@ kopioida (jäljentää) - fa kopi
 kopiointioikeus (tekijänoikeus) - kopi haki  
 koppi (maja) - kabin  
 koraani - kuran  
+koralli - koral  
 Korea - Chosen  
 korealainen - chosen di  
 kori - baske  
@@ -1528,6 +1533,7 @@ laji - jung
 laki - kanun  
 lakka - laka  
 lakki (hattu) - tupi  
+lakritsi - alkasus  
 lammas - meme  
 lamppu - lampa  
 lannoite - darte bon ja  
@@ -1696,6 +1702,7 @@ luterilainen - Luter din ja
 luterilaisuus - Luter din  
 lutetium - lutesi yum  
 luu - oste  
+luuta - jaru  
 luvata (vannoa) - fa vode  
 Luxemburg - Luksemburge  
 lyhentää - korte fa  
@@ -2636,6 +2643,7 @@ rakastaja - ama ja
 rakennus (rakenne) - bina  
 rakentaa - fa bina  
 raketti - rokete  
+raki - anis araki  
 rakkaudenjumala - kama deu  
 rakkaus (tykkääminen) - ama  
 ramadan - ramazan  
@@ -2808,6 +2816,7 @@ sanomalehti - habar gazeta
 Sao Tome ja Principe - Sante Tome e Principe  
 sapatti - sabate  
 sarana - sharnir  
+sardelli (anjovis) - anchovi  
 sarja - sili  
 sarjakuva - grafi kata  
 sarvi - korne  
@@ -3312,6 +3321,7 @@ toksikologia (myrkkyoppi) - toksi logi
 tomaatti - tomate  
 Tonga - Tonga  
 tonni (1000 kg) - mega gram  
+tonnikala - tuna  
 tontti (maakaistale) - geo tika  
 topografia - topo grafi  
 tori (basaari) - bazar  
@@ -3650,6 +3660,7 @@ viihdyttää (huvittaa) - fa vanu
 viikko - var var  
 viikonpäivä - var  
 viimeinen - fin me  
+viina - araki  
 viini - vin  
 viinipanimo - vin kan  
 viinirypäle - putau  

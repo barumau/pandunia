@@ -70,6 +70,7 @@ Alaska - Alaska
 alga - alga  
 alga fungu - lichen  
 alga jangal - kelp forest  
+alkasus - licorice  
 alkol - alcohol  
 alkol di - alcoholic  
 almari - cupboard (closet, cabinet, wardrobe)  
@@ -85,6 +86,7 @@ alo romanse di - heteroromantic
 alo sekse di - heterosexual  
 alo sifa - difference  
 alo sifa di - different  
+alpaka - alpaca  
 alumin - aluminium  
 alumin mate - alum  
 alumin okside - alumina (aluminum oxide)  
@@ -135,6 +137,7 @@ an sora - unlock
 an sora di - unlocked  
 an tapa - unplug (uncork)  
 an yau di - unnecessary (extraneous, unneeded)  
+anchovi - anchovy  
 anda - egg  
 Andes - Andes  
 andesite - andesite  
@@ -147,6 +150,8 @@ angul pike - fingertip
 angul ring - finger ring  
 anime - animate  
 anime - animation (cartoon)  
+anis - anise  
+anis araki - raki  
 anjil - message  
 anjil ja - messenger  
 Antartika - Antarctica  
@@ -164,6 +169,7 @@ aplika - application
 Apsni - Abkhazia  
 arabi - Arabic  
 arabi babul - babul tree (thorny acacia)  
+araki - liquor  
 arane - spider  
 arane fobi - arachnophobia  
 arane nete - spiderweb (cobweb)  
@@ -1791,6 +1797,7 @@ jang ja - warrior (fighter)
 jang suta - martial art  
 jangal - forest (woods, jungle)  
 jara - jar (jug, pitcher, carafe, amphora, vase)  
+jaru - broom (sweep)  
 jau - barley  
 javabu - answer (reply, response)  
 Jayer - Algeria  
@@ -2140,7 +2147,7 @@ kopi - copy (duplicate, replica)
 kopi haki - copyright  
 koral - coral  
 kore - run  
-korer - runner  
+kore ja - runner  
 korne - horn  
 korne melon - horned melon (kiwano)  
 kornonos - rhinoceros  
@@ -2376,6 +2383,7 @@ luka fase - hexahedron (cube)
 luka gona - hexagon  
 Luksemburge - Luxembourg  
 lulu - pearl  
+lulu table - abacus  
 luna - moon  
 luna keke - mooncake  
 lung - dragon  
@@ -3268,6 +3276,7 @@ rim - rhyme (verse)
 ring - ring  
 ringar - ring (sports or exhibition arena)  
 ris - rice  
+ris araki - arrack  
 ris biskute - rice cake (puffed rice cake)  
 ris vin - rice wine  
 risko - risk  
@@ -3879,6 +3888,7 @@ tule yum - thulium
 tulpan - tulip  
 tumon - you all  
 tumon su - your  
+tuna - tuna  
 tundra - tundra  
 tundra san - fell  
 tunel - tunnel  

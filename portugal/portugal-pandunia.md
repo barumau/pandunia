@@ -39,6 +39,7 @@ alcachofra - karchof
 alcachofra-girassol (tupinambo) - masa mula sol hua  
 alcalino - kali  
 alcaravia (cariz) - karavi  
+alcaçuz (regaliz) - alkasus  
 aldeia (vila) - chun  
 alface - letus  
 alfinete - pin  
@@ -62,9 +63,11 @@ amoreira - tuta
 amêndoa - badam  
 anaeróbico - an air bio di  
 analógico - zoku di  
+anchova - anchovi  
 andesito - andesite  
 anel - ring  
 animal (besta, bicho) - zou  
+anis - anis  
 Antigo Egito - Keme  
 antimónio - estibi yum  
 anzol - peshe huke  
@@ -336,6 +339,7 @@ condutor (chofer, motorista) - shofer ja
 conduzir - fa shofer  
 conexão (vínculo, laço) - linke  
 confiar (contar com) - amen shin  
+cono - kone  
 conselho - sel  
 considerar - hem  
 construir - fa bina  
@@ -353,7 +357,7 @@ corda (cabo) - kable
 corno - korne  
 coro - chanta grupe  
 corpo - badan  
-corredor - korer  
+corredor - kore ja  
 corrente (atual) - zai zaman di  
 correr - kore  
 correto (justo) - sahi  
@@ -789,6 +793,7 @@ Letónia - Latvia
 leve - ligu  
 lhama - liama  
 libélula - libele  
+licor - araki  
 liga (aliança) - liga  
 ligeiro - ligu veze di  
 lima - kaguji limon  
@@ -1476,6 +1481,7 @@ vapor - sui gas
 vara (bastão) - kane  
 vara de pescar - huke lin kane  
 vaso de flores - hua pote  
+vassoura - jaru  
 vazar - lou  
 vazio - hali  
 vegetalista - pul fito yam sim ja  
@@ -1541,9 +1547,11 @@ zoologia - zou logi
 zoológico - zou bagi  
 zoológico - zou logi di  
 zumbi - zombi  
+ábaco - lulu table  
 ágil - agile  
 água - sui  
 álcool - alkol  
+áraque - anis araki  
 área de acampamento - kampe bagi  
 área de transferência - gata glu bano  
 árvore - moka  

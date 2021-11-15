@@ -28,6 +28,7 @@ ajila - rapidigi
 akasia - akacio  
 akse - akso  
 alga - algo  
+alkasus - lakrico  
 alkol - alkoholo  
 alkol di - alkohola  
 almari - ŝranko  
@@ -58,6 +59,7 @@ an memo - forgesi
 an pase - malpaco  
 an sabe di - fremda (nekonata)  
 an sona - sendormeco  
+anchovi - sardelo (anĉovo)  
 anda - ovo  
 Andes - Andoj  
 angar - ankro  
@@ -894,6 +896,7 @@ jang - milito (batalo)
 jang di - milita  
 jangal - arbaro  
 jara - kruĉo  
+jaru - balailo  
 jau - hordeo  
 javabu - respondo  
 jebe - poŝo  
@@ -1055,12 +1058,14 @@ kon sabe - informacio
 kon sana sim - komunismo  
 kon sana sim ja - komunisto  
 kon su - kuna  
+kone - konuso  
 konserte - koncerto  
 kontra - kontraŭi  
 koperni yum - kopernicio  
 kopi - kopio  
+koral - koralo  
 kore - kuri  
-korer - kuristo  
+kore ja - kuristo  
 korne - korno  
 kornonos - rinocero  
 korona - krono  
@@ -1165,6 +1170,7 @@ long kata - romano
 lou - liki  
 lou sang - sangi  
 lulu - perlo  
+lulu table - bidkalkulilo (abako)  
 luna - luno  
 luta - rabi  
 luta ja - rabisto  
@@ -1178,6 +1184,7 @@ magen yum - magnezio
 magi - magio  
 mahala - kvartalo  
 majang - maĝango  
+makan - butero  
 makas - tondilo  
 mal ja - havanto  
 mal nomi - ekonomiko  

@@ -39,6 +39,7 @@ Alaska - Alaska
 alga - algue  
 alga fungu - lichen  
 alga jangal - forêt de kelp  
+alkasus - réglisse  
 alkol - alcool  
 alkol di - alcoolique  
 almari - placard  
@@ -82,6 +83,7 @@ an nam - antonyme
 an sekse di - asexué  
 an sona - insomnie  
 an yau di - inutile  
+anchovi - anchois  
 anda - oeuf  
 Andes - Andes  
 andesite - andésite  
@@ -92,6 +94,8 @@ angul marke - empreinte digitale
 angul pike - bout de doigt  
 anime - animer  
 anime - animation  
+anis - anis  
+anis araki - raki  
 anjil - message  
 anjil ja - messager  
 Antartika - Antarctique  
@@ -108,6 +112,7 @@ aplika - appliquer
 aplika - application  
 Apsni - Abkhazie  
 arabi - arabe  
+araki - spiritueux  
 arane - araignée  
 arane fobi - arachnophobie  
 arane nete - toile d'araignée (arantèle)  
@@ -783,6 +788,7 @@ jan buda din - zen
 janela - fenêtre  
 jangal - forêt (jungle)  
 jara - jarre (carafe, cruche)  
+jaru - balai  
 jau - orge  
 javabu - réponse  
 Jayer - Algérie  
@@ -931,12 +937,13 @@ komputa di - numérique
 kon gong - collaborer  
 kon sel ja - consultant (conseiller)  
 kon trati - convention (alliance, pacte)  
+kone - cône  
 konserte - concert  
 koperni yum - copernicium  
 kopi - copie  
 koral - corail  
 kore - courir  
-korer - coureur  
+kore ja - coureur  
 korne - corne  
 korona - couronne  
 korte kata - nouvelle (récit court)  
@@ -1054,6 +1061,7 @@ long pipre - poivre long
 long tire - tender  
 lotra - loutre  
 luka - six (6)  
+lulu table - abaque (boulier compteur)  
 luna - lune  
 luna keke - gâteau de lune  
 lung dou - pois carré  
@@ -1670,6 +1678,7 @@ tu - tu
 Tule - Thulé  
 tule yum - thulium  
 tumon su - votre  
+tuna - thon  
 Tunis - Tunisie  
 tuta - mûrier  
 tuzi - lapin (lièvre)  

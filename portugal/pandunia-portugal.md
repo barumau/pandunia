@@ -24,6 +24,7 @@ ajibu - maravilha
 akare - carrapato (ácaros)  
 alga - alga  
 alga jangal - floresta de algas  
+alkasus - alcaçuz (regaliz)  
 alkol - álcool  
 almari - armário  
 almas - diamante  
@@ -42,16 +43,20 @@ an air bio di - anaeróbico
 an din ja - infiel  
 an memo - esquecer  
 an sona - insônia  
+anchovi - anchova  
 andesite - andesito  
 angar - âncora  
 angul - dedo  
 angul marke - impressão digital  
 angul pike - ponta do dedo  
+anis - anis  
+anis araki - áraque  
 anjil - mensagem  
 antra - intestino (entranhas, tripa)  
 aple - maçã  
 aple sos - purê de maçã  
 aplika - usar  
+araki - licor  
 arane - aranha  
 arane nete - teia de aranha  
 arbuza - melancia  
@@ -615,6 +620,7 @@ jan buda din - budismo zen
 janela - janela  
 jangal - selva (floresta, jângal)  
 jara - jarra (jarro)  
+jaru - vassoura  
 jau - cevada  
 javabu - resposta  
 jeka - emprestar (pedir emprestado)  
@@ -753,12 +759,13 @@ kon bon - combinar com
 kon gong - colaborar  
 kon sel ja - consultor  
 kon trati - pacto  
+kone - cono  
 konserte - concerto  
 koperni yum - copernício  
 kopi - cópia  
 koral - coral  
 kore - correr  
-korer - corredor  
+kore ja - corredor  
 korne - corno  
 korne melon - pepino-africano (kiwano)  
 korte kata - conto  
@@ -873,6 +880,7 @@ long tire - estirar
 lotra - lontra  
 lou - vazar  
 luka - seis (6)  
+lulu table - ábaco  
 luna - lua  
 luna keke - bolo lunar  
 luta ja - ladrão  

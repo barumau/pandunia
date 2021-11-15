@@ -133,6 +133,7 @@ almirante - hai amir ja
 almohada - kushen  
 almuerzo - dia yam  
 alojar (hospedar) - fa dom  
+alpaca - alpaka  
 alquilar (arrendar, dar en arriendo) - kira don  
 alquilar (arrendar, tomar en arriendo) - kira kape  
 alquiler (arriendo) - kira  
@@ -171,6 +172,7 @@ anal - anus di
 analizar (disecar) - fa fen gata  
 anaranjado - oranje rang  
 ancho - kuan  
+anchoa - anchovi  
 anchura - kuan ta  
 ancla - angar  
 andamiaje - fute bano  
@@ -201,6 +203,7 @@ antorcha - foto kane
 antónimo - an nam  
 análisis (disección) - fen gata  
 análisis de datos - data fen gata  
+anís - anis  
 anón (ates, saramuyo) - ata  
 aparecer - be zai  
 apartarse (desviarse) - be rute galte  
@@ -291,6 +294,7 @@ atar (amarrar) - bande
 Atenas - Athina  
 ateo - an deu sim ja  
 attracción (-filia) - fili  
+atún - tuna  
 aullar - ulul  
 aullido - ulul  
 auspicioso (propicio) - bon sin di  
@@ -857,7 +861,7 @@ corona - korona
 corporal (corpóreo) - badan di  
 correa (rein) - lida lin  
 correcto (justo) - sahi  
-corredor - korer  
+corredor - kore ja  
 corregir - fa sahi  
 correo - posta  
 correr - kore  
@@ -1281,6 +1285,7 @@ escarcha - hima rose
 escasez - shau ta  
 escaso (disperso, ralo) - an jama di  
 escenario (podio, estrado, tarima) - tai  
+escoba - jaru  
 Escocia - Eskote  
 escribir - kitabu  
 escritorio (mesa de trabajo) - gong meza  
@@ -2034,6 +2039,7 @@ libro de cuentos ilustrado - grafi buku
 libro de registro - loge buku  
 libélula - libele  
 lichi - lichi  
+licor - araki  
 Liechtenstein - Lihtenstain  
 liga (alianza, federación) - liga  
 ligero (leve, vago, débil, borroso) - mirde  
@@ -3055,6 +3061,7 @@ redondo (circular) - gola di
 reducir a la mitad (dividir en dos) - fa fen do du  
 reflejar - mira  
 refuerzos - mas gun  
+regaliz (alcazuz, orozuz) - alkasus  
 regalo (obsequio) - don she  
 registro (archivo, anotación) - loge  
 región (zona) - topo  
@@ -3786,6 +3793,7 @@ zulú - Zulu
 ¡Felicitaciones! - barka  
 África - Afrika  
 Ártico - Artika  
+ábaco - lulu table  
 ágil - agile  
 álgebra - jebra  
 ángulo recto - orto gona  

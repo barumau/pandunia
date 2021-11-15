@@ -70,6 +70,7 @@ Alaska - Alaska
 alga - levä  
 alga fungu - jäkälä  
 alga jangal - leväkasvusto  
+alkasus - lakritsi  
 alkol - alkoholi  
 alkol di - alkoholinen  
 almari - kaappi  
@@ -85,6 +86,7 @@ alo romanse di - heteroromanttinen
 alo sekse di - heteroseksuaali  
 alo sifa - erilaisuus (ero)  
 alo sifa di - erilainen  
+alpaka - alpakka  
 alumin - alumiini  
 alumin mate - aluna  
 alumin okside - alumiinioksidi  
@@ -135,6 +137,7 @@ an sora - avata lukko
 an sora di - lukitsematon  
 an tapa - korkata  
 an yau di - tarpeeton  
+anchovi - sardelli (anjovis)  
 anda - muna  
 Andes - Andit  
 andesite - andesiitti  
@@ -147,6 +150,8 @@ angul pike - sormenpää
 angul ring - sormus  
 anime - animoida  
 anime - animaatio (piirretty)  
+anis - anis  
+anis araki - raki  
 anjil - viesti  
 anjil ja - viestintuoja (airut)  
 Antartika - Antarktis  
@@ -162,6 +167,7 @@ aplika - soveltaa
 aplika - sovellus  
 Apsni - Abhaasia  
 arabi - arabialainen  
+araki - viina  
 arane - hämähäkki  
 arane fobi - araknofobia (hämähäkkikammo)  
 arane nete - hämähäkinverkko  
@@ -1757,6 +1763,7 @@ jang ja - soturi (taistelija)
 jang suta - kamppailulaji  
 jangal - metsä (viidakko)  
 jara - ruukku (kannu, maljakko, karahvi)  
+jaru - luuta  
 jau - ohra  
 javabu - vastaus  
 Jayer - Algeria  
@@ -2054,8 +2061,9 @@ kontra - mennä vasten
 koperni yum - copernicium  
 kopi - kopio (jäljennös)  
 kopi haki - kopiointioikeus (tekijänoikeus)  
+koral - koralli  
 kore - juosta  
-korer - juoksija  
+kore ja - juoksija  
 korne - sarvi  
 kornonos - sarvikuono  
 korona - kruunu  
@@ -2251,6 +2259,7 @@ luka fase - kuutio (kuusitahokas)
 luka gona - kuusikulmio  
 Luksemburge - Luxemburg  
 lulu - helmi  
+lulu table - helmitaulu  
 luna - kuu  
 luna keke - kuukakku  
 lung - itämainen lohikäärme  
@@ -3019,6 +3028,7 @@ rim - säe (riimi)
 ring - rengas (kehä)  
 ringar - kehä (ottelualue)  
 ris - riisi  
+ris araki - arrakki  
 ris biskute - riisikakku  
 ris vin - riisiviina  
 risko - riski  
@@ -3553,6 +3563,7 @@ tule yum - tulium
 tulpan - tulppaani  
 tumon - te  
 tumon su - teidän  
+tuna - tonnikala  
 tundra - tundra  
 tundra san - tunturi  
 tunel - tunneli  

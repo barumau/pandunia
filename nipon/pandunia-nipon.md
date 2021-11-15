@@ -18,8 +18,10 @@ ajila - 急ぐ
 akare - 壁蝨  
 alga fungu - 地衣類 (苔癬)  
 alga jangal - 藻場  
+alkasus - 甘草 (蕗草)  
 alo - 他の  
 alo fen di - 個別的  
+alpaka - アルパカ  
 alumin - アルミニウム  
 ama - 愛  
 ama di - 愛しい  
@@ -37,10 +39,12 @@ an jama di - 疎ら
 an memo - 忘れる  
 an sona - 不眠症  
 an yau di - 不要  
+anchovi - アンチョビ  
 andesite - 安山岩  
 angul - 指  
 angul marke - 指紋  
 angul pike - 指先  
+anis - アニス (八角)  
 anjil - 伝言 (メッセージ)  
 antra - 腸 (臓器)  
 aple - 林檎  
@@ -603,6 +607,7 @@ jan buda din - 禅宗
 janela - 窓  
 jang - 戦闘 (格闘)  
 jangal - 森 (森林, ジャングル)  
+jaru - 箒  
 jau - 大麦  
 javabu - 答え (回答)  
 jeka - 借用  
@@ -743,10 +748,11 @@ kon forma - 即する
 kon gong - 共同して働  
 kon pasi - 同情  
 kon sel ja - 顧問  
+kone - 錐  
 konserte - コンサート (音楽会)  
 koperni yum - コペルニシウム  
 kopi - コピー  
-koral - サンゴ  
+koral - 珊瑚  
 kore - 走る (疾走する)  
 korne melon - ツノニガウリ  
 korte kata - 短編小説  
@@ -852,6 +858,7 @@ long tire - 伸びる (張る)
 lotra - 獺  
 lou - 漏る  
 luka - 六 (6)  
+lulu table - 算盤  
 luna keke - 月餅  
 lung - 竜  
 lung dou - 四角豆  
@@ -1389,6 +1396,7 @@ tu - あなた
 tu su - あなたの  
 tule yum - ツリウム  
 tumon - あなたたち  
+tuna - 鮪 (ツナ)  
 tuta - 桑  
 tuzi - うさぎ  
 

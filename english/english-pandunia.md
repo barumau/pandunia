@@ -6,6 +6,7 @@
 ## A  
 
 a couple of - du o tri  
+abacus - lulu table  
 abattoir (slaughterhouse) - bucha kan  
 ability - bil ta  
 Abkhazia - Apsni  
@@ -91,6 +92,7 @@ allophone - alo fon
 allow (permit) - fa halal  
 almond - badam  
 alone (lonely, isolated, solitary, single) - un zai di  
+alpaca - alpaka  
 alphabet - zi sili  
 already (completed action) - fin  
 also (too) - e mas  
@@ -122,6 +124,7 @@ anal - anus di
 analyse (dissect, parse) - fa fen gata  
 analysis (dissection) - fen gata  
 anchor - angar  
+anchovy - anchovi  
 Ancient Egypt (Kemet) - Keme  
 and - e  
 Andes - Andes  
@@ -137,6 +140,7 @@ animal - zou
 animal husbandry - zou agro suta  
 animate - anime  
 animation (cartoon) - anime  
+anise - anis  
 anniversary - nen festa  
 answer (reply, response) - javabu  
 ant - murche  
@@ -191,6 +195,7 @@ Armenia - Haye
 armor (shielding) - defa kaske  
 army - gun  
 aromantic - an romanse  
+arrack - ris araki  
 arrow (bolt) - fleche  
 arsenic - arsen yum  
 artichoke thistle (cardoon) - kardon karchof  
@@ -486,6 +491,7 @@ brighten - fa ming
 bring - fa lai  
 broken (shattered) - parche di  
 bromine - brom  
+broom (sweep) - jaru  
 brown - kafe rang  
 brown algae - kafe alga  
 brown trout - kafe salmon  
@@ -2053,6 +2059,7 @@ librarian - kitabu minister
 library - kitabu kan  
 Libya - Libia  
 lichen - alga fungu  
+licorice - alkasus  
 lie (lie down) - kush  
 Liechtenstein - Lihtenstain  
 life (existence) - jiva  
@@ -2080,6 +2087,7 @@ link - sili tika
 lion - singa  
 lip - labi  
 liquid - dara mate  
+liquor - araki  
 list (listing, catalogue) - liste  
 listen - fa ore  
 literature - kitabu suta  
@@ -3044,6 +3052,7 @@ rainy season (monsoon) - shava mosim
 raise (lift) - fa gau  
 raisin - gan putau  
 rajah - hindi raja  
+raki - anis araki  
 Ramadan - ramazan  
 ramp (incline, slope) - rampe  
 random - zar di  
@@ -3192,7 +3201,7 @@ rule (reign, government, -ocracy, -archy) - krati
 ruler - sultan ja  
 rum - rom  
 run - kore  
-runner - korer  
+runner - kore ja  
 rural (rustic) - nong topo di  
 rural village - nong chun  
 Russia - Rusia  
@@ -3855,6 +3864,7 @@ tube (pipe) - tubo
 tuber (bulb) - masa mula  
 Tuesday - var du  
 tulip - tulpan  
+tuna - tuna  
 tundra - tundra  
 tungsten (wolfram) - volfram  
 tunic (gown) - tunika  

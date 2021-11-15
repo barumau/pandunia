@@ -43,6 +43,7 @@ Alaska - Alaska
 alga - alga (wodorost)  
 alga fungu - porost  
 alga jangal - las wodorostów  
+alkasus - lukrecja  
 alkol - alkohol  
 alkol di - alkoholowy  
 almari - kredens (szafa, szafka)  
@@ -97,6 +98,7 @@ an sora - otworzyć (otwierać, odkluczyć, odkluczać)
 an sora di - zamknięty na klucz (zakluczony)  
 an tapa - odetkać, odtykać  
 an yau di - niepotrzebny  
+anchovi - sardela  
 anda - jajko (jajo)  
 Andes - Andy  
 andesite - andezyt  
@@ -107,6 +109,7 @@ angul - palec
 angul ring - pierścień, pierścionek; obrączka  
 anime - animować  
 anime - animacja  
+anis - anyż  
 anjil - wiadomość  
 anjil ja - posłaniec (wysłannik)  
 Antartika - Antarktyka  
@@ -2029,6 +2032,7 @@ luka fase - sześcian (kostka)
 luka gona - sześciokąt (sześciobok)  
 Luksemburge - Luksemburg  
 lulu - perła  
+lulu table - abak (liczydło)  
 luna - księżyc  
 lung - smok  
 Lung Desha - Bhutan  

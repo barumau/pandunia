@@ -2,6 +2,7 @@
 
 ## A  
 
+abak (liczydło) - lulu table  
 Abchazja - Apsni  
 Abchazja - Arcah  
 Abisynia - Habasha  
@@ -72,6 +73,7 @@ antonim - an nam
 antychryst - an mesi  
 Antyle Holenderskie - Nederlande Antil  
 antymon - estibi yum  
+anyż - anis  
 Arabia Saudyjska - Saudi Arabia  
 arabski - arabi  
 arachnofobia - arane fobi  
@@ -1386,6 +1388,7 @@ lud, społeczeństwo - demo
 ludzie (lud, ludność) - nasi jen  
 ludzki - insan di  
 ludzkość, rodzaj ludzki - insan jong  
+lukrecja - alkasus  
 Luksemburg - Luksemburge  
 lulać - lala  
 lustro - mira plate  
@@ -2595,6 +2598,7 @@ samogłoska - jong fon
 samolot - fei gi  
 samppanja - shampan vin  
 San Marino - Sante Marino  
+sardela - anchovi  
 sarkazm - loga ironi  
 satanista - shatan din ja  
 satanizm - shatan din  
