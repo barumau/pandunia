@@ -128,7 +128,7 @@
 |**bega**|uciec, uciekać|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
 |**behe**|koza|eng:baa, por:bé, rus:бэ-бэ (be-be), pol:bee|
 |**bele**|łopata (szpadel)|fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|
-|**ben**|dziecko, potomek|ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|
+|**ben**|dziecko, potomek|ara: ابن (ibn, bint), heb:בן (ben), בת (bat) swa:bin|
 |**benchi**|ławka|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |**benzin**|benzyna|deu:Benzin, spa:bencina, rus:бензин (benzin), tur:benzin, ara:بنزين (banzīn), hin:बेंज़ीन (benzīn), may:bensin, jpn:ベンジン (benjin), swa:benzini|
 |**bere**|beret|fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (zh) (bèiléimào), rus:берет (beret)|
@@ -324,7 +324,7 @@
 |**fa**|zrobić (stworzyć, wykreować)|fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya|
 |**faida**|zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)|ara:(fāʾida), tur:fayda, swa:faida, hin:फ़ायदा (fāyadā), may:faedah|
 |**false**|fałszywy, nieprawdziwy|eng:false, spa:por:falso, fra:faux, deu:falsch|
-|**famili**|rodzina|eng:family, spa:familia, por:família, fra:famille|
+|**famili**|rodzina|eng:family, spa:familia, por:família, fra:famille, swa:familia|
 |**fan**|błoto|fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|
 |**fantazi**|fantazja (wyobrażenie, wyobraźnia)|eng:fra:fantasy, spa:fantasía, por:swa:fantasia, rus:фантазия (fantazija), tur:fantezi, may:fantasi, jpn:ファンタジー (fantajī)|
 |**fantom**|duch, fantom|eng:phantom, spa:por:fantasma, fra:fantôme, rus:фантом (fantom)|
@@ -683,7 +683,6 @@
 |**kode**|kod, szyfr|eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)|
 |**koka**|koka|spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)|
 |**koko**|kura, kogut, kurczak|fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + swa:kuku, zul:inkukhu,ibo:Ọkụkọ + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|
-|**kola**|kola, napój gazowany|eng:spa:cola, rus:кола (kola), hin:कोला (kolā), jpn:コラ (kora)|
 |**koloni**|kolonia, osada|eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー|
 |**kolum**|kolumna, filar|eng:column, fra:colonne, spa:columna, por:coluna, rus:колонна (kolonna), pol:kolumna|
 |**koma**|przecinek|eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|

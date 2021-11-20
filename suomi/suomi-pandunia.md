@@ -297,7 +297,7 @@ chapati - chapati
 Chile - Chile  
 chinchilla - chinchila  
 Chongqing - chongching  
-cola - kola  
+colajuoma - kola jus  
 Cookin saaret - Kuke nesi  
 copernicium - koperni yum  
 Costa Rica - Kosta Rika  
@@ -1316,6 +1316,8 @@ koodi - kode
 kooka - koka  
 kookos - yezi  
 Kookossaaret - Kokos nesi  
+koola - kola  
+koolapähkinä - kola frute  
 koominen (hauska) - yumor di  
 koota (kerätä) - fa jama  
 kopio (jäljennös) - kopi  
@@ -1544,7 +1546,7 @@ laoslainen - lau di
 lapio - bele  
 lapislatsuli - lazur petra  
 lappo - dara tubo  
-lapsenlapsi - benben  
+lapsenlapsi - ben ben  
 lapsi (jälkeläinen) - ben  
 lapsi - bacha  
 lapsipuoli - gami ben  

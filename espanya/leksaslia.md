@@ -130,7 +130,7 @@
 |**bega**|escaparse (evitar, huir)|rus:убегать (ubegat'), hin:भागना (bhāgnā)|
 |**behe**|cabra|eng:baa, por:bé, rus:бэ-бэ (be-be), pol:bee|
 |**bele**|pala|fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|
-|**ben**|hijo o hija|ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|
+|**ben**|hijo o hija|ara: ابن (ibn, bint), heb:בן (ben), בת (bat) swa:bin|
 |**benchi**|banco (silla)|eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|
 |**benzin**|gasolina (bencina)|deu:Benzin, spa:bencina, rus:бензин (benzin), tur:benzin, ara:بنزين (banzīn), hin:बेंज़ीन (benzīn), may:bensin, jpn:ベンジン (benjin), swa:benzini|
 |**bere**|boina|fra:béret, tur:bere, eng:beret, jpn:ベレー帽 (berē bō), zho:贝雷帽 (zh) (bèiléimào), rus:берет (beret)|
@@ -336,7 +336,7 @@
 |**fa**|hacer|fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya|
 |**faida**|uso (utilidad, beneficio)|ara:(fāʾida), tur:fayda, swa:faida, hin:फ़ायदा (fāyadā), may:faedah|
 |**false**|falso|eng:false, spa:por:falso, fra:faux, deu:falsch|
-|**famili**|familia|eng:family, spa:familia, por:família, fra:famille|
+|**famili**|familia|eng:family, spa:familia, por:família, fra:famille, swa:familia|
 |**fan**|lodo (barro, fango)|fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|
 |**fantazi**|imaginación (fantasía)|eng:fra:fantasy, spa:fantasía, por:swa:fantasia, rus:фантазия (fantazija), tur:fantezi, may:fantasi, jpn:ファンタジー (fantajī)|
 |**fantom**|fantasma|eng:phantom, spa:por:fantasma, fra:fantôme, rus:фантом (fantom)|
@@ -708,7 +708,6 @@
 |**kode**|código (cifra)|eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)|
 |**koka**|coca|spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)|
 |**koko**|pollo|fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + swa:kuku, zul:inkukhu,ibo:Ọkụkọ + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)|
-|**kola**|cola (refresco de cola)|eng:spa:cola, rus:кола (kola), hin:कोला (kolā), jpn:コラ (kora)|
 |**koloni**|colonia|eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー|
 |**kolum**|poste (columna)|eng:column, fra:colonne, spa:columna, por:coluna, rus:колонна (kolonna), pol:kolumna|
 |**koma**|coma|eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), may:koma|

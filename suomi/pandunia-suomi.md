@@ -421,7 +421,7 @@ bele - lapio
 Belgi - Belgia  
 Belize - Belize  
 ben - lapsi (jälkeläinen)  
-benben - lapsenlapsi  
+ben ben - lapsenlapsi  
 benchi - penkki  
 Benin - Benin  
 benzin - bensiini (bensa)  
@@ -2027,7 +2027,9 @@ kode - koodi
 koka - kooka  
 koko - kana  
 Kokos nesi - Kookossaaret  
-kola - cola  
+kola - koola  
+kola jus - colajuoma  
+kola frute - koolapähkinä  
 Kolombia - Kolumbia  
 koloni - kolonia (siirtomaa)  
 koloni ja - kolonialisti  

@@ -106,7 +106,7 @@
 |**bega**|fuĝi|rusa:убегать (ubegat'), hindia:भागना (bhāgnā)|
 |**behe**|kapro|angla:baa, portugala:bé, rusa:бэ-бэ (be-be), polona:bee|
 |**bele**|fosilo (ŝovelilo)|persa: بیل‎ (bil), turka:bel, hindia:बेलचा (belcā), bengala:বেলচা (bēlacā), svahila:beleshi + franca:pelle, kmera:ប៉ែល (pael)|
-|**ben**|ido (infano)|araba: ابن (ibn, bint), heb:בן (ben), בת (bat)|
+|**ben**|ido (gefilo)|araba: ابن (ibn, bint), heb:בן (ben), בת (bat) svahila:bin|
 |**benchi**|benko|angla:bench, svahila:benchi, hindia:बेंच (bẽc), japana:ベンチ (benchi), korea:벤치 (benchi)|
 |**benzin**|benzino|deu:Benzin, hispana:bencina, rusa:бензин (benzin), turka:benzin, araba:بنزين (banzīn), hindia:बेंज़ीन (benzīn), malaja:bensin, japana:ベンジン (benjin), svahila:benzini|
 |**bere**|bereto|franca:béret, turka:bere, angla:beret, japana:ベレー帽 (berē bō), mandarena:贝雷帽 (zh) (bèiléimào), rusa:берет (beret)|
@@ -257,7 +257,7 @@
 |**fa kave**|fosi|hispana:portugala:cavar, angla:excavar, franca:excaver|
 |**fa**|fari|franca:faire, portugala:fazer, itala:fare + araba: فَعَلَ‎ (faʿala) + svahila:fanya|
 |**faida**|utileco|araba:(fāʾida), turka:fayda, svahila:faida, hindia:फ़ायदा (fāyadā), malaja:faedah|
-|**famili**|familio|angla:family, hispana:familia, portugala:família, franca:famille|
+|**famili**|familio|angla:family, hispana:familia, portugala:família, franca:famille, svahila:familia|
 |**fan**|koto|franca:fang, hispana:fango + angla:fen + mandarena:粪 (fèn), kantona:糞 (fan3), vjetnama:phân|
 |**fantazi**|fantazio|angla:franca:fantasy, hispana:fantasía, portugala:svahila:fantasia, rusa:фантазия (fantazija), turka:fantezi, malaja:fantasi, japana:ファンタジー (fantajī)|
 |**fantom**|fantomo|angla:phantom, hispana:portugala:fantasma, franca:fantôme, rusa:фантом (fantom)|

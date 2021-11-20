@@ -400,8 +400,8 @@ Belarus|desha|BY||Belarus||Belarús|||||||||||||Belorusio|Valkovenäjä|Białoru
 bele|||fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)|shovel (spade, scoop)|pelle|pala|pá|лопата||铲|シャベル (スコップ)||||||koleo|kürek|fosilo (ŝovelilo)|lapio|łopata (szpadel)
 Belgi|desha|BE||Belgium||Bélgica|||||||||||||Belgio|Belgia|Belgia
 Belize|desha|BZ||Belize||Belice|||||||||||||Beliceo|Belize|Belize
-ben|||ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|child (offspring)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek
-benben||||grandchild||||||||||||||||lapsenlapsi|
+ben|||ara: ابن (ibn, bint), heb:בן (ben), בת (bat) swa:bin|child (offspring)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|bin au binti|çocuk|ido (gefilo)|lapsi (jälkeläinen)|dziecko, potomek
+ben ben||||grandchild||||||||||||||||lapsenlapsi|
 benchi|||eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|bench||banco (silla)|||||||||||||benko|penkki|ławka
 Benin|desha|BJ||Benin||Benín||||||||||||||Benin|Benin
 benzin|||deu:Benzin, spa:bencina, rus:бензин (benzin), tur:benzin, ara:بنزين (banzīn), hin:बेंज़ीन (benzīn), may:bensin, jpn:ベンジン (benjin), swa:benzini|gasoline (petrol)||gasolina (bencina)|||||||||||benzini|benzin|benzino|bensiini (bensa)|benzyna
@@ -494,7 +494,7 @@ brom|yum 035|Br|eng:bromine, fra:brome, spa:bromo, por:bromo, rus:бром, kor:
 brosha|||eng:brush, fra:brosse, spa:por:brocha, jpn:ブラシ (burashi), kor:브러시 (beureosi), hin:ब्रश (braś), ben:ব্রাশ (braś), hau:swa:burashi, fas:(boros), may:berus, ara: فُرْشَاة‎ (furšāh), tur:fırça|brush|brosse|cepillo (brocha)|brocha (pincel)|щётка|فُرْشَاة‎|笔||||ब्रश|ব্রাশ||burashi|fırça|broso|harja|szczotka
 brosha kalam||||inkbrush (calligraphy brush)||||||毛笔|筆 (毛筆)|||||||||mustesivellin|
 Brunei|desha|BN||Brunei Darussalam||Brunei||||||||||||||Brunei|Brunei Darussalam
-brus||||sibling (brother or sister)||hermano o hermana|||||||||||||frato aŭ fratino|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
+brus||||sibling (brother or sister)||hermano o hermana|||||||||||||gefrato|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
 brusben||||nephew or niece||||||||||||||||sisaruksen lapsi|
 bu!|||eng:boo, fra:bouh, por:spa:bu, rus:бу (bu), kor:부 (bu)|boo!|bouh!|bu!|bu!|бу|||ばあ|부|hù!|||||||pöö!|bu!
 bubu||||bogeyman|croque-mitaine|coco|bicho-papão|бука||魔鬼||||||||||mörkö|
@@ -1161,7 +1161,7 @@ faida di||||useful (beneficial, advantageous)||útil (beneficioso)|||||||||||||u
 faida she||||material (ingredient, resource)||||||||||||||||hyötyaines|materiał (składnik, zasób)
 false|||eng:false, spa:por:falso, fra:faux, deu:falsch|false (fake)||falso||||||||||||||väärä (epätosi, vale-)|fałszywy, nieprawdziwy
 false vide||||illusion (hallucination)||ilusión|||||幻覚|||||||||harhanäky (näköharha)|iluzja (halucynacja)
-famili|||eng:family, spa:familia, por:família, fra:famille|family||familia|||||||||||||familio|perhe|rodzina
+famili|||eng:family, spa:familia, por:família, fra:famille, swa:familia|family||familia|||||||||||familia||familio|perhe|rodzina
 famili nam||||surname (family name)||apellido|||||||||||||familinomo|sukunimi|nazwisko, imię rodziny
 fan|||fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|mud (mire)|boue (fange, bourbe, gadoue)|lodo (barro, fango)|lama (lodo)|болото|طِين‎|坭|泥|||कीचड़|কাদা|lumpur|tope|çamur|koto|muta (kura, lieju)|błoto
 fan defa bano||||fender|garde-boue (aile)|guarda-barros (aleta)|para-lama|||挡泥板|フェンダー|||||||||lokasuoja|błotnik

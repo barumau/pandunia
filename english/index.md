@@ -26,7 +26,7 @@ It includes simpler grammar, more international word forms, and many new words.
 
 ## How to learn it?
 
-- [The basics](baze.md) in one short page
+- [Pandunia in a nutshell](003_baze.md) (one short page only!)
 - [Lessons with Dialogs](201_shula.md)
 - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_shula.html)

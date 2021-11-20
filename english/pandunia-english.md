@@ -427,7 +427,7 @@ bele - shovel (spade, scoop)
 Belgi - Belgium  
 Belize - Belize  
 ben - child (offspring)  
-benben - grandchild  
+ben ben - grandchild  
 benchi - bench  
 Benin - Benin  
 benzin - gasoline (petrol)  
@@ -2107,7 +2107,9 @@ koka - coca
 Koka Kola - Coca-Cola  
 koko - chicken  
 Kokos nesi - Cocos (Keeling) Islands  
-kola - cola  
+kola - kola  
+kola jus - cola  
+kola frute - kola nut  
 Kolombia - Colombia  
 koloni - colony (settlement)  
 koloni ja - colonist  

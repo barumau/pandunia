@@ -754,7 +754,7 @@ coffee - kafe
 coffee cup - kafe kupa  
 coffeepot - kafe pote  
 coin - pesa diske  
-cola - kola  
+cola - kola jus  
 cold (illness) - zukam  
 cold - leng  
 collaborate (work together) - kon gong  
@@ -1565,7 +1565,7 @@ gram (g) - gram
 grammar - basha kanun  
 grammatical - basha kanun di  
 grammatical gender - basha jinse  
-grandchild - benben  
+grandchild - ben ben  
 grandfather - chin pa  
 grandmother - chin ma  
 grandparent - chin chin  
@@ -1972,6 +1972,8 @@ knife - chaku
 knot (node) - node  
 know (be aware of) - sabe  
 knowledge - sabe she  
+kola - kola  
+kola nut - kola frute  
 Konkani - Konkani  
 Korea - Chosen  
 Korean - chosen di  

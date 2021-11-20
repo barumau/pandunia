@@ -208,7 +208,7 @@ Belarus - Belorusio
 bele - fosilo (ŝovelilo)  
 Belgi - Belgio  
 Belize - Beliceo  
-ben - ido (infano)  
+ben - ido (gefilo)  
 benchi - benko  
 benzin - benzino  
 bere - bereto  
@@ -264,7 +264,7 @@ Brazil - Brazilo
 briko - abrikoto (pruno)  
 brom - bromo  
 brosha - broso  
-brus - frato aŭ fratino  
+brus - gefrato  
 bucha - buĉi  
 bucha ja - buĉisto  
 bucha kan - buĉejo  

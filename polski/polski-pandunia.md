@@ -1142,7 +1142,7 @@ koka - koka
 kokos - yezi  
 koktajl - mishe alkol  
 kola (coca-cola) - Koka Kola  
-kola, napój gazowany - kola  
+kola, napój gazowany - kola jus  
 kolacja - sham yam  
 kolano - guta  
 kolczuga - sili nete  

@@ -1781,7 +1781,7 @@ koka - koka
 Koka Kola - kola (coca-cola)  
 koko - kura, kogut, kurczak  
 Kokos nesi - Wyspy Kokosowe  
-kola - kola, napój gazowany  
+kola jus - kola, napój gazowany  
 Kolombia - Kolumbia  
 koloni - kolonia, osada  
 koloni ja - kolonizator  

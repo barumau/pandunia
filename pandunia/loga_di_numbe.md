@@ -12,7 +12,7 @@
 | nipon | 622 | 39% |
 | malayu | 561 | 35% |
 | arabi | 456 | 28% |
-| suahili | 430 | 27% |
+| suahili | 433 | 27% |
 | chosen | 429 | 27% |
 | putonghan | 419 | 26% |
 | bangla | 382 | 24% |

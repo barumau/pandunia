@@ -752,7 +752,7 @@ codo - kudi
 cohete (misil) - rokete  
 col china - baku choi  
 cola (rabo, coda) - koda  
-cola (refresco de cola) - kola  
+cola (refresco de cola) - kola jus  
 colaborar - kon gong  
 colarse - sir move  
 colchón - matras  

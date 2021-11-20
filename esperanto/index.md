@@ -22,6 +22,11 @@ Rimarkindaj trajtoj de pandunio estas:
 
 ![](http://www.pandunia.info/bandir/bandir.png "Pandunia flago")
 
+## Lerniloj
+
+- [Bazaĵojn de Pandunia rapide](003_baze.md) en nur unu paĝo!
+- [Lecionetoj kun bildoj](http://www.pandunia.info/pandunia/mini_shula.html)
+
 ## Komunumo
 
 Homoj jam interesiĝas pri pandunio. Vi povas renkonti ilin ĉi tie:
@@ -36,14 +41,10 @@ Homoj jam interesiĝas pri pandunio. Vi povas renkonti ilin ĉi tie:
 - Kanalo QQ: 717549404
 - [Twitter](https://twitter.com/pandunia_).
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")  
 <small>Bildo de [Freepik](http://www.freepik.com)</small>
 
 Vi povas kontakti la kreinton de pandunio, Risto Kupsala, per la retpoŝta
 adreso [risto@pandunia.info](mailto:risto@pandunia.info), kaj ankaŭ en la supre
 menciitaj ret-lokoj.
-
-## Lerniloj 
-
-- [Lecionetoj kun bildoj](http://www.pandunia.info/pandunia/mini_shula.html)
 

@@ -1874,7 +1874,7 @@ kode - código (cifra)
 koka - coca  
 koko - pollo  
 Kokos nesi - Islas Cocos (Islas Keeling)  
-kola - cola (refresco de cola)  
+kola jus - cola (refresco de cola)  
 Kolombia - Colombia  
 koloni - colonia  
 koloni ja - colono  
