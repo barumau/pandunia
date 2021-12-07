@@ -117,7 +117,7 @@ indicates that an action is done regularly.
 **le**
 ('attain, accomplish, reach')
 indiciates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
-You can think of it somewhat like the past perfect in English (_I have done_, _I have eaten_). 
+You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_). 
 
 **ye _le_ si guru.**
 – He or she has been a teacher (and still is).  

@@ -86,7 +86,7 @@ and
 can be viewed.
 This technology also enables collaboration
 because
-[everybody can contribute](https://github.com/barumau/pandunia/graphs/contributors)
+[everybody can propose](https://github.com/barumau/pandunia/graphs/contributors)
 changes and improvements to the language and its documentation.
 
 A new wave of people get interested about Pandunia in late 2016 and early 2017.

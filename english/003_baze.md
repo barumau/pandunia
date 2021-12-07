@@ -38,14 +38,14 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 ### Personal pronouns
 
-| Person | Singular          | Plural       |
-|--------|:-----------------:|:------------:|
-| First  | **mi**            | **mimon**    |
-|        | _I, me_           | _we, us_     |
-| Second | **tu**            | **tumon**    |
-|        | _you_             | _you all_    |
-| Third  | **ye**            | **yemon**    |
-|        | _he/she, him/her_ | _they, them_ |
+|                   |              |
+|:-----------------:|:------------:|
+| **mi**            | **mimon**    |
+| _I, me_           | _we, us_     |
+| **tu**            | **tumon**    |
+| _you_             | _you all_    |
+| **ye**            | **yemon**    |
+| _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
 
