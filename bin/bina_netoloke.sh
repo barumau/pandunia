@@ -28,6 +28,7 @@ bina_pan() {
     bina_netoloke portugal
     bina_netoloke rus
     bina_netoloke suomi
+    bina_netoloke tai
 }
 
 bina_pan

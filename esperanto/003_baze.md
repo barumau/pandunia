@@ -38,14 +38,14 @@ La sama vorto, sin ia ajn ŝanĝo en sia formo, povas roli kiel substantivo, adj
 
 ### Personaj pronomoj
 
-| Persono| Ununombro         | Multenombro  |
-|--------|:-----------------:|:------------:|
-| 1a     | **mi**            | **mimon**    |
-|        | _mi_              | _ni_         |
-| 2a     | **tu**            | **tumon**    |
-|        | _ci aŭ vi_        | _vi_         |
-| 3a     | **ye**            | **yemon**    |
-|        | _ĝi, li aŭ ŝi_    | _ili_        |
+|                   |              |
+|:-----------------:|:------------:|
+| **mi**            | **mimon**    |
+| _mi_              | _ni_         |
+| **tu**            | **tumon**    |
+| _ci aŭ vi_        | _vi_         |
+| **ye**            | **yemon**    |
+| _ĝi, li aŭ ŝi_    | _ili_        |
 
 ### Bazaj frazkonstruoj
 

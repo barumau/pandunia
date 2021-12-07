@@ -38,14 +38,14 @@ Samaa sanaa voi käyttää samassa muodossa niin substantiivina, adjektiivina ku
 
 ### Persoonapronominit
 
-|Persoona| Yksikkö           | Monikko      |
-|--------|:-----------------:|:------------:|
-| 1.     | **mi**            | **mimon**    |
-|        | _minä_            | _me_         |
-| 2.     | **tu**            | **tumon**    |
-|        | _sinä_            | _te_         |
-| 3.     | **ye**            | **yemon**    |
-|        | _hän, se_         | _he_         |
+|                   |              |
+|:-----------------:|:------------:|
+| **mi**            | **mimon**    |
+| _minä_            | _me_         |
+| **tu**            | **tumon**    |
+| _sinä_            | _te_         |
+| **ye**            | **yemon**    |
+| _hän, se_         | _he_         |
 
 ### Perus lauserakenteita
 

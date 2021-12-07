@@ -1,5 +1,4 @@
-พันดูเนีย - ภาษาเรียบง่ายของโลก
-============================
+# พันดูเนีย - ภาษาเรียบง่ายของโลก
 
 ![](http://www.pandunia.info/bandir/bandir.png "ธงของภาษาพันดูเนีย")
 
@@ -19,15 +18,7 @@
 ## มาเรียนกัน
 
 - [บทเรียนผ่านทางรูปภาพ](http://www.pandunia.info/pandunia/mini_shula.html)
-- [การออกเสียง](abc.md)
-- [รวบประโยค](fraze.md)
-- [ไวยากรณ์](kanun.md)
-
-- [พจนานุกรมที่มาของคำ](leksaslia.md)
-
-## บทความ
-
-[พันดูเนีย - ภาษาโลที่เท่าเทียม](dunia_baxe.md)
+- [ภาษาพันดูเนีย โดยย่ อ](pandunia_baze.pdf)
 
 ## เครือข่ายชุมชน
 
@@ -43,6 +34,6 @@
 - [Twitter](https://twitter.com/pandunia_)
 - [Pandunia Vikio](http://eo.pandunia.wikia.com/wiki/%C4%88efpa%C4%9Do)
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mome loga pandunia!")
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")
 
 คุณสามารถติดต่อ Risto Kupsala ผู้ประดิษฐ์ภาษาพันดูเนีย ผ่านทางอีเมลที่ [risto@pandunia.info](mailto:risto@pandunia.info) หรือในที่ที่อยู่ในรายการเครือข่ายชุมชน
