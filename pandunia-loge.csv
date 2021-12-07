@@ -93,6 +93,7 @@ an chen vide di||||unexpected||||||||||||||||ennennäkemätön|niespodziewany
 an daka||||uncover (reveal)||destapar||||||||||||||paljastaa|odsłonić, odsłaniać
 an deu sim ja||||atheist|athée|ateo|||||||||||||ateisto|ateisti (jumalankieltäjä)|ateista
 an din ja||||unbeliever (infidel)|infidèle (incroyant)|infiel (descreído)|infiel|неверующий|كافر|不信神的|不信者|불신자||नास्तिक (काफ़िर)||||kafir|malkredulo|uskonnoton|niewierny
+an ding||||indeterminate (uncertain, indefinite, undecided)||indeterminado (incierto, indefinido)|||||不定||||||||||
 an dosti||||enemy (unfriend)|||||||||||||||malamiko|vihollinen|wróg (nieprzyjaciel)
 an eskale||||get off (descend)|||||||下る (降りる)|||||||||laskeutua|zejść (schodzić, zstąpić, zstępować)
 an icha ja||||reluctant||||||||||अनिच्छा||||||vastahakoinen (haluton)|niechętny
@@ -318,6 +319,7 @@ baze shula kan||||primary school (elementary school, gradeschool)|école primair
 be|||zho:被 (bèi), yue:被 (bei6), vie:bị + eng:be|undergo (passivizing verb)||sufrir (verbo pasivo)||||||||||||||läpikäydä (passiivin muodostava verbi)|być poddanym, doświadczyć, doświadczać (ubierniający czasownik)
 be ais||||freeze (get frozen)|geler (glacer)|congelarse (helarse)|gelar|||结冰|凍る (凍結する)||||||||glaciiĝi (frostiĝi)|jäätyä|marznąć (zamarznąć)
 be ajibu||||wonder (be amazed)||||||||||||||||ihmetellä (olla ihmeissään)|zachwycić się (być zachwyconym)
+be an zai||||disappear (vanish)||desaparecer|||||||||||||||
 be bio mute||||ferment (leaven)|fermenter|fermentar|fermentar|заквасить||发酵|熟成する (発酵する)|||||||||nostattaa hiivalla|fermentować
 be boi||||float (swim)|nagar (flotter)|nadar (flotar)|nadar (flutuar)|плавать||漂浮|泳ぐ (浮く)|||||||||kellua (uida)|dryfować (pływać, płynąć)
 be boli|||eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)|boil (be boiled)||hervirse (ser cocida)|||||||||||||boli|kiehua|ugotować się, gotować się
@@ -450,6 +452,7 @@ blu elfe||||smurf|schtroumpf|pitufo|estrumpfe (smurf)|смурф (штрумпф
 blu sentaure|bio|Centaurea cyanus||cornflower|Centaurée bleuet|aciano (azulejo)|escovinha (centáurea)|василёк синий||矢車菊|ヤグルマギク|||||||||ruiskaunokki|bławatek
 blu serami sing|bio|Houstonia caerulea||azure bluet||||||茜草花|ヒナソウ|||||||||keijunsilmä|houstoia azurowa
 boi|||eng:buoy, spa:swa:may:boya, por:boia, fra:bouée, rus:буй (buy), jpn:ブイ (bui), kor:부표 (bupyo)|float (buoy, bobber)||flotador (boya)||поплавок (буй)|||フロート (ブイ)|||||||||kelluke (poiju)|spławik (boja)
+boi punte nomer||||floating point number||punto flotante|||||浮動小数点数||||||||||
 boikote|||eng:fra:boycott, spa:boicot, por:boicote, jpn:ボイコット (boikotto), fas:بایکوت‎ (bâykot), бойкот (boykot)|boycott||boicot|||||||||||||bojkoto|boikotti|bojkot
 boing|||eng:boing, jpn:ボイン (boin)|bounce|rebondir|rebotar|rebater|||||||||||||kimmota (pomppia)|
 boke|||spa:por:boca|mouth||boca|||||||||||||buŝo|suu|usta
@@ -555,6 +558,7 @@ cheke|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする
 chen||||previous (fore)||previo (anterior)||||||||||||||edellinen|poprzedni
 chen|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before, in the past)|avant|más temprano (antes, haber, en el pasado)||раньше||以前|以前 (前に)|전에|||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|wcześniej (uprzednio, poprzednio, przedtem)
 chen den||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
+chen ding||||default (preset, predecided)||predeterminado||по умолчанию|||既定 (デフォルト)||||||||||
 chen fikse||||prefix||prefijo||||||||||||||etuliite (prefiksi)|przedrostek (prefiks)
 chen gar||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
 chen vide||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
@@ -729,6 +733,7 @@ din ja||||believer (religious person)|croyant|creyente|crente|верующий|�
 din shia||||sect (cult)|secte|secta (culto)|seita|секта|فِرْقَة‎|教派|教派|||||||mezhep|sekto|lahko (kultti)|
 dinamite|||eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|dynamite|dynamite|dinamita|dinamite|динамит||甘油炸药|ダイナマイト|||||||||dynamiitti|dynamit
 dinde|bio|Meleagris|fra:dinde, rus:индюк (indyuk), tur:hindi, ara: دِيك هِنْدِيّ‎ (dīk hindiy)|turkey|dinde (dindon)|pavo (guajalote)|peru|индюк|دِيك رُومِيّ‎|火鸡|七面鳥|칠면조|gà tây|पीरू||kalkun (ayam belanda)|bata mzinga (piru)|hindi|meleagro|kalkkuna|indyk
+ding|||zho:定 (dìng), yue:定 (ding6), wuu:定 (din3), jpn:定 (tei), vie:định|determined (fixed, certain, definite, particular, specific)||determinado (cierto, definido)||определённый||||||निर्धारित|নির্দিষ্ট|pasti||kati|||
 dingi|||zho:钉 (dīng), yue:釘 (ding1), vie:đinh|nail (spike)||clavo (pincho, punta)||||钉子|||||||||najlo|naula (piikki)|kolec
 dino saur||||dinosaur|dinosaure|dinosaurio|dinossauro|динозавр|دِينَاصَوْر‎|恐龙|恐竜|공룡|khủng long|डायनासोर (भीमसरट)|ডাইনোসর|dinosaurus||dinozor|dinosaŭro|dinosaurus (hirmulisko)|dinozaur
 Dione|planete 6 lun 4|||Dione||||||||||||||||Dione|
@@ -885,7 +890,8 @@ esporte ja||||athlete (sportsman)||deportista||||||||||||||urheilija|hałas
 estadi|||fra:stade, por:estádio, spa:estadio, rus:стадион (stadion), eng:stadium, tur:stadyum, ara:(ʾistād), hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||estadio (arena)|||||||||||||stadiono (areno)|stadioni (areena)|stadion, arena
 estan|yum 050|Sn|spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin, swa:stani|tin|étain|estaño|estanho|олово|قصدير|锡|スズ|주석|thiếc|त्रपु|টিন|timah|bati (stani)|kalay||tina|cynk
 estasi|||tur:istasyon, por:estação, spa:estación, tgl:estasyon, urd:(isṭeśan), eng:fra:station, hin:स्टेशन (sṭeśan), rus:станция (stantsiya)|station||estación|||||||||||||stacio|asema|stacja
-estasi di||||static (stationary)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
+estasi di||||static (stationary, still)||estático (estacionario)||||||||||||||seisova (staattinen)|statyczny, stacjonarny, nieruchomy
+estasi grafi||||film frame (still)||fotograma||кадр|||コマ|||||||film karesi (kare)|||
 Esti|desha|EE||Estonia||Estonia|||||||||||||Estonio|Viro (Eesti)|Estonia
 estibi yum|yum 051|Sb|zho:锑 (tī), swa:stibi|antimony|antimoine|antimonio|antimónio|сурьма|انتيمون|锑|アンチモン|안티몬|antimon|एन्टिमोनी|অ্যান্টিমনি|antimon|stibi|antimon||antimoni|antymon
 estronti yum|yum 038|Sr|eng:strontium, fra:strontium, spa:strontium, por:estrôncio, rus:стронций, zho:锶 (sī), jpn:ストロンチウム, kor:스트논듐, vie:stronti, hin:स्ट्रोन्सियम, ben:স্ট্রনসিয়াম, may:strontium, swa:stronti, ara: سترانشيوم|strontium|strontium|strontium|estrôncio|стронций|سترانشيوم|锶|ストロンチウム|스트논듐|stronti|स्ट्रोन्सियम|স্ট্রনসিয়াম|strontium|stronti|stronsiyum|stroncio|strontium|stront
@@ -914,6 +920,7 @@ fa achar||||pickle (preserve in vinegar or brine)||encurtir|||||酢漬けある|
 fa agresi||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
 fa ajibu||||amaze|éblouir (étonner, stupéfier, surprendre)|asombrar||||||||||||||ällistyttää|zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)
 fa alo||||change (make different)|changer|cambiar (demudar)|alterar|изменять||改變|変える|바꾸다|||||kubadili||ŝanĝi (aliigi)|muuttaa (tehdä eriksi)|zmienić (zmieniać)
+fa amen||||assure (affirm, confirm)||confirmar||утвердить (конфирмовать)|||||||||||||
 fa an galta||||debug|déboguer (débugger)|depurar|||||デバッグする|||||||||poistaa virheitä (debugata)|
 fa an karma||||deactivate (disable, turn off)||||||||||||||||poistaa toiminnasta|deaktywować (wyłączyć, zatrzymać)
 fa an zai||||remove (delete, dispose, erase)||quitar (eliminar, borrar)||||||||||||||poistaa (hävittää)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
@@ -934,6 +941,7 @@ fa dalil||||prove (demonstrate, testify)||probar (demonstrar, comprobar)||||||||
 fa dante||||bite|mordre|morder|morder|откусить|مَضَغَ‎|咬|咬む|물어떼다 (깨물다)|cắn|||gigit|kuuma|ısırmak|mordi|purra|
 fa darte bon||||fertilize||||||||||||||||lannoittaa|nawozić (nawieźć)
 fa dika||||aim (point)|viser|apuntar|mirar (apontar)|целиться||瞄准|狙う|||||membidik|||celi|osoittaa (tähdätä)|celować
+fa ding||||determine (establish, fix, decide, set, confirm, specify, resolve)||determinar (establecer, definir)||определить||决定|定める (決する, 決定する)||||||||||
 fa dom||||accommodate||alojar (hospedar)|||||||||||||loĝigi|asuttaa|dać mieszkanie (zakwaterować)
 fa dosil||||tame (train)|apprivoiser (dresser, dompter, discipliner)|domar (amansar)||укрощать (приручить)||驯养|馴らす|||||||||kesyttää|oswoić (oswajać, tresować, trenować)
 fa dosil jene||||domesticate (cultivate)|domestiquer (apprivoiser)|domesticar (cultivate)||одомашнивать||||||||||||kesyttää|udomowić (kultywować)
@@ -1108,6 +1116,7 @@ fa shite||||defecate (shit)||cagar||||||||||||||paskantaa (ulostaa)|srać (robi�
 fa shiti bai||||lose (fail, miss, be defeated)||perder (fallar)||проиграть (провалиться)||输|負ける|||असफल होना||gagal (kalah dalam)|kushindwa (kufeli)|başarısız olmak||hävitä (kärsiä tappio)|przegrać, przegrywać
 fa shofer||||drive (steer)||conducir|conduzir|||开车|||||||||konduki|ajaa (kuskata)|prowadzić pojazd
 fa shopi||||buy (purchase)|acheter|comprar|comprar|покупать (купить)|اِشْتَرَى‎|买|買う|사다|mua|मोल लेना (ख़रीदना)|কেনা|membeli|kununua|satın almak|aĉeti|ostaa|kupić
+fa shou||||show (display, demonstrate)||demostrar||доказать (демонстрировать)|||見せる (示す, デモる)||||||||||
 fa shukur||||thank||agradecer|||||||||||||danki|kiittää|dziękować
 fa shula||||learn (study)|apprendre (étudier)|aprender (estudiar)|aprender|учиться||学习|学ぶ|배우다|học (học tập)|सीखना|শেখা|belajar|kujifunza|öğrenmek|lerni (studi)|oppia (opiskella)|nauczyć się, uczyć się, studiować
 fa shuru||||begin (start, commence, initiate)||comenzar (iniciar, empezar)||||开始||||||||başlamak|komenci|aloittaa|zacząć, zaczynać
@@ -1118,7 +1127,7 @@ fa sim||||advocate (promote, support)||||||||||||||||kannattaa (tukea, edistää
 fa sina||||believe||creer|||||||||||||kreda|uskoa (luottaa)|wierzyć
 fa sing foto||||twinkle (sparkle)|étinceler|centellear (titilar)|cintilar|сверкать (мерцать)||闪烁|ピカピカ光る (きらきらする)|||||||||tuikkia|mruganie (błysk)
 fa sir||||hide (conceal)|cacher|ocultar (esconder)|ocultar (esconder)|скрывать||隐藏|隠す|||||||||piilottaa (kätkeä)|chować (kryć)
-fa siro||||cancel (nullify)||cancelar|||||キャンセルする|||||||||nollata|
+fa siro||||cancel (nullify, delete, erase)||cancelar (nulificar, borrar, eliminar)||||删除 (消除)|消す (キャンセルする)|||||||||nollata|
 fa soni||||sound (make a sound)||sonar||||||||||||||ääntää|brzmieć, wydać dźwięk, wydawać dźwięk
 fa sor||||lock (fasten)||||||||||||||||lukita|zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)
 fa sosi||||socialize (interact)||alternar (interactuar)||||||||||||||seurustella (toimia yhdessä)|socjalizować się
@@ -1155,6 +1164,7 @@ fa vode||||promise (pledge)|promettre|prometer (comprometerse)||||许诺||||||||
 fa vote||||vote (cast a vote)||votar|votar|||||||||||||äänestää|głosować (złożyć głos)
 fa yagu||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
 fa yen||||eye (look, watch, observe, spectate)|||||||||||||||okulumi|silmäillä (katsoa, tarkkailla)|patrzeć (oglądać)
+fa zai||||summon (add, spawn, actualize)||generar (añadir, realizar)||||||||||||||manata esiin|wzywać (wezwać, dodawać, dodać)
 faida||||resource (utility, asset)||||||||||||||||hyöty (etu)|zasób
 faida|||ara:(fāʾida), tur:fayda, swa:faida, hin:फ़ायदा (fāyadā), may:faedah|use (utility, benefit, gain, advantage)||uso (utilidad, beneficio)||применение (утилитарность)||效用 (好处)|使用 (為, 利)|||फ़ायदा||kegunaan (faedah)|faida|avantaj (fayda, yarar)|utileco|hyödyllisyys|zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)
 faida di||||useful (beneficial, advantageous)||útil (beneficioso)|||||||||||||utila|hyödyllinen|użyteczny, pomocny, przydatny, pożyteczny, korzystny
@@ -1238,6 +1248,8 @@ fito logi||||botany (phytology)|botanique|botánica|botânica|ботаника||
 fito yam sim ja||||vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|wegetarianin
 fizika||||physics||física|||||||||||||fiziko|fysiikka|fizyka
 fizika ja||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
+fizika di||||physical|||||||||||||||||
+fizika gi||||hardware (physical device)||hardware (soporte físico)||аппаратное обеспечение||硬件|ハードウェア||||||||||
 fizika suta|||eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)|physics (science)||física|||||||||||||fiziko|fysiikka|fizyk
 flam|||eng:fra:inflammation + zho:炎 (yán), yue:炎 (jim4), kor:염 (yeom), vie:viêm|inflammation (-itis)|inflammation|inflamación|inflamaçao|воспаление||炎症||||||||||tulehdus|zapalenie
 fleche|||spa:por:flecha, fra:flèche, eng:fletch|arrow (bolt)|flèche|flecha|flecha (seta)|стрела (стрелка)||箭|矢 (矢印)|||||||||nuoli|strzała (bełt)
@@ -1449,7 +1461,7 @@ gola|||hin:गोल (gol), ben:গোলক (golôk), tel:గోళము (gō�
 gola di||||round (circular)||redondo (circular)||||||||||||||pyöreä|okrągły
 gola seku||||cobblestone|pavé|adoquín||булыжник||鹅卵石|丸石 (玉石, 栗石)|||||||||mukulakivi|bruk
 golem|||heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)|golem||||||||||||||||golem|golem
-gomu|||spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|rubber||goma (caucho, hule)|||||||||||||kaŭĉuko|kumi|guma
+gomu|||spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|rubber (eraser)||goma (caucho, hule, borrador)||резина (каучук, резинка, ластик)|||消しゴム||||||kifuto||kaŭĉuko|kumi|guma
 gona|||hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana, fra:-gone, spa:por:-gono|corner (angle)||esquina (rincón, ángulo)||||||||कोण|||||angulo|kulma (nurkka)|kąt
 gona metre gi||||goniometer||goniómetro (medidor de ángulos)||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
 gong|||zho:工 (gōng), yue:工 (gung1), jpn:工 (kō), kor:공 (gong), vie:công|work (labour, job)|travail|trabajo|trabalho|работа|عَمَل|工作|労働|일||काम|কাজ|kerja (karya)|kazi|iş|laboro|työ|praca, zjęcie, zadanie
@@ -1469,7 +1481,9 @@ grafi chuli||||image processing|traitement d'images|procesamiento de imágenes|p
 grafi di||||graphic (pictorial)||gráfico (pictórico, ilustrado)|||||||||||||grafika (bilda)|graafinen|obrazowy, graficzny; opisowy
 grafi ja||||illustrator (graphic artist)||ilustrador||||||||||||||graafikko|ilustrator, grafik
 grafi kata||||comic (cartoon)|bande dessinée|historieta (caricaturas)|quadrinhos (banda desenhada)|комикс||漫画|漫画||||||||bildrakonto|sarjakuva|komiks; kreskówka
+grafi karte||||graphics card (video card)||tarjeta de gráfica|||||グラフィックカード||||||||||
 grafi lanse gi||||image projector||proyector||||||||||||||projektori (videotykki, piirtoheitin)|projektor (rzutnik)
+grafi rapide ta||||framerate||tasa de fotogramas|||||フレームレート||||||||||
 gram|unomete|g||gram (g)||gramo (g)|||||||||||||gramo|gramma|gram
 granite|||eng:fra:granite, spa:por:granito, rus:гранит (granit), tur:vie:may:granit, ara:جرانيت (jaraniat), hin:ग्रेनाइट (grenait)|granite|granit|granito|granito|гранит||花岗石|花崗岩|||||||||graniitti|granit
 grave|||eng:gravel, spa:grava, fra:gravire, rus:гравий (graviy) + swa:changarawe|gravel|gravire|grava|cascalho|гравий||砾石|砂利|||||||||sora|żwir
@@ -2530,6 +2544,7 @@ metal|||eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metá
 metal bede||||anvil|enclume|yunque|bigorna|наковальня||铁砧|金敷き (鉄床)||||||||||kowadło
 metal jiang ja||||blacksmith (iron forger)||herrero||||铁匠||||||||||seppä|kowal
 metal lin||||wire|fil de fer|alambre (hilo)|arame|||线 (铁丝)|線 (針金)|철사||तार|তার||waya|tel|drato|vaijeri (metallilanka)|
+metal tul||||hardware (ironware, equipment)||ferretería|||||金物||||||||||
 metre|||eng:meter, spa:por:-metro, rus:метр tur:metre, + hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|measure (measurement)||medir (medida)|||||測定||||||||mezuri|mitta (koko, määrä)|zmierzyć (miara)
 metre gi||||meter (measuring device)||medidor|||||測定装置 (計)||||||||||
 metre grafi||||chart (map, graph, blueprint)|carte (graphique)|carta (mapa, tabla, gráfico)|carta|карта (график, схема)||図表||peta (carta)||नक़्शा (मानचित्र)||||çizelge||kaavio (kartta)|mapa
@@ -3126,6 +3141,7 @@ problem|||eng:problem, fra:problème, spa:por:problema, rus:проблема (pr
 problem di||||problematic|problématique|problemático||проблематичный||||||||||||ongelmallinen|problematyczny
 profesor|||eng:por:professor, spa:profesor, rus:профессор (professor), tur:profesör, swa:profesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)|professor||profesor|||||||||||||profesoro|professori|profesor
 program|||eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu|program (set of structured activities)|programme|programa|programa|программа||计划|次第 (計画, プログラム)|계획 (프로그램)|kế hoạch|प्रोग्राम||program|programu|program|programo|ohjelma|program
+program gi||||software (virtual device)||software (soporte lógico)||программное обеспечение||软件|ソフトウェア||||||||||
 program ja||||programmer (coder)||programador||||||||||||||ohjelmoija|programista, koder
 projete|||fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|project (endeavour)|projet|proyecto|projeto|проект|||プロジェクト|계획 (프로젝트)||परियोजना (प्रोजैक्ट)|প্রজেক্ট|||||hanke (projekti)|projekt, planowane przedsięwzięcie
 Promete|name|||Prometheus|Prométhée|Prometeo|Prometeu|Прометей||||||||||||Prometheus|
@@ -3138,6 +3154,7 @@ puja meza||||altar|autel|altar|altar|алтарь||圣坛||||वेदी (व�
 puja riti||||ritual (ceremony, religious custom)||rito (ceremonia)||||||||धार्मिक-विधि||||||rituaali (seremonia, riitti)|rytuał, ceremonia, ryt
 pul|||hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por), spa:pleno, fra:plein, eng:full, rus:полный (polnyj), pol:pełny|full (complete, saturated)|plein|lleno (completo)|cheio|полный||||||पूर्ण|পূর্ণ||||plena|täysi|pełny
 pul bon||||perfect||perfecto||||||||पूर्ण||||||täydellinen (täysin hyvä)|perfekcyjny
+pul ekran||||fullscreen||pantalla completa|||||フルスクリーン||||||||||
 pul fina||||complete (make done)|accomplir (terminer)|completar (terminar)|terminar (acabar, concluir)|||完成|||||||||kompleti|tehdä loppuun (saada valmiiksi)|
 pul fito yam sim||||veganism||veganismo|||||ヴィーガニズム|비거니즘||वीगनवाद||||veganlık|||
 pul fito yam sim ja||||vegan||vegano|vegetalista|веган||纯素食主义者|絶対菜食主義者 (ヴィーガン)|비건||||vegan||||vegaani|weganin (weganka)
@@ -3438,7 +3455,9 @@ Serbia|desha|RS||Serbia||Serbia|||||||||||||Serbio|Serbia|Serbia
 serpe|||hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|snake (serpent)||serpiente (culebra)|||||||||||||serpento|käärme|wąż
 serve||||serve (give service)||servir||||||||||||||palvella (tarjoilla)|służyć
 serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:servis + hin:सेवा (sevâ), ben:সেবা  (seba)|service||servicio||||||||||||||palvelu (palvelus)|służba
-serve ja||||servant||criado (sirviente)||||||||||||||palvelija (tarjoilija)|sługa
+serve ja||||servant||criado (sirviente)||слуга|||使用人|||||||||palvelija (tarjoilija)|sługa
+serve gi||||server (host machine)||servidor||сервер|||サーバ||||||||||
+serve nam||||servername (hostname)|||||||||||||||||
 sesam|bio|Sesamum indicum|eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam|sesame||ajonjolí (sésamo)||сезам|||||||||simsim|susam||seesami|sezam
 Seshel nesi|desha|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
 sha|||eng:shall + ara:(sa-) + vie:sẽ + sve:ska|auxiliary verb that marks future tense (will, shall)|||||||||||||||–os|tulevaa aikaa merkitsevä apuverbi|
@@ -3502,7 +3521,7 @@ shofer ja|||fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol
 shoke|||eng:nld:shock, fra:choc, spa:por:choque, tur:şok, may:syok + zho:冲击 (chōngjī), yue:衝擊 (chung1 gik1), nan:衝擊 (cong1 kêg4), jpn:衝撃 (shōgeki)|shock (collision)||choque (sacudida)||||||||||||||isku (šokki)|szokwstrząs; kolizja
 shopi|||eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|shopping|shopping|compras (shopping)|compras|покупка (шоппинг)||购物 (血拼)||||||||||ostokset|zakupy (sprawunki, shopping)
 shopi ja||||buyer||comprador|||||||||||||aĉetanto (aĉetisto)|ostaja|nabywca (kupiec)
-shou|||eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|show (display, exhibition)||exposición (espectáculo)|||||||||||||montri (ekspozicii)|näytös (esitys, show)|pokaz, ekspozycja, wystawa
+shou|||eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|show (display, exhibition, demonstration, demo)||exposición (espectáculo)|||||||||||||montri (ekspozicii)|näytös (esitys, show)|pokaz, ekspozycja, wystawa
 shukur|||ara: شُكْر‎ m (šukr), hin:शुक्र (śukr), ben:শোকর (śokôr), swa:-shukuru, tur:şükür|thanks (thank you)|merci|gracias|obrigado|спасибо|شُكْرًا|谢谢|ありがとう (どうも)|고마워|cám ơn|धन्यवाद (शुक्रिया)|ধন্যবাদ (শুকরিয়া)|terima kasih|asante (shukrani)|teşekkürler|danko|kiitos|dzięki, dzięki ci
 shukur ta||||gratitude|gratitude|gratitud|gratidão|благодарность||谢意|||||||ushukuru||dankemo|kiitollisuus|wdzięczność
 shukur ze||||thanks to|grâce à|gracias a (merced a)|graças a||||||||||||dank’al|ansiosta|
@@ -4090,7 +4109,6 @@ Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
 zai|||zho:在 (zài), jpn:在 (zai), vie:tại|exist (presently, currently)||existir (actualmente)|||||ある (いる)|||||||||olla olemassa|istnieć
 zai den||||today||hoy|||||今日||||||||hodiaŭ|tänään|dziś, dzisiaj
 zai di||||present (existing)|présent|actual (presente)|||||||||||||ĉeestanta (ekzistanta)|läsnä oleva|obecny, teraźniejszy, aktualny, bieżący, współczesny
-zai fa||||summon (add, spawn, actualize)||generar (añadir, realizar)||||||||||||||manata esiin|wzywać (wezwać, dodawać, dodać)
 zai ta||||presence (existence)||presencia (existencia)|||||||||||||ĉeestanteco (ekzisto)|läsnäolo|teraźniejszość, współczesność
 zai zaman||||present time (now)||presente (actualidad)|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
 zai zaman di||||current (contemporary, present-day)|actuel (courant)|actual|corrente (atual)|нынешний||现在的|現行|현행의|||||||nuna|nykyinen (tämänhetkinen)|bieżący (aktualny, obecny)
