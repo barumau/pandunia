@@ -1749,7 +1749,7 @@ Islande|desha|IS||Iceland||Islandia|||||||||||||Islando|Islanti|Islandia
 Israel|desha|IL||Israel||Israel|||||||||||||Israelo|Israel|Izrael
 Italia|desha|IT||Italy||Italia|||||||||||||Italio|Italia|Italia, Włochy
 J||||J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J
-ja|||zho:者 (zhě);家 (jiă), kor:자 (ja), vie:gia|doer (agent, actor)||hacedor (perpetrador)|||||||||||||isto (anto)|tekijä (aikaansaaja)|przyrostek dla wykonawcy
+ja|||zho:者 (zhě);家 (jiă), kor:자 (ja), vie:gia|doer (agent, actor, -er, -ist)||hacedor (perpetrador)||||者 (人, 家)|者 (人, 家)||||||||isto (anto)|tekijä (aikaansaaja)|przyrostek dla wykonawcy
 jaga||||wake (make awake)||despertar||||||||||||||herättää|obudzić, budzić
 jaga|||hin:जागना (jāgnā), ben:জাগা (jaga), pan:ਜਾਗਣਾ (jāgṇā), mar:जागणे (j̈āgṇe), guj:જાગવું (jāgvũ), may:jaga|awake|éveillé|despierto|acordado||||||||||jaga||uyanık|olla hereillä|przebudzony, przytomny
 jain din|||hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)|Jainism|jaïnisme|jainismo|||||||||||||Ĝajnismo|jainalaisuus|dźinizm, dżinizm
@@ -1835,7 +1835,7 @@ jovan man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
 jovan moka||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
 jovan ta||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
 judau||||judo||yudo|||||||||||||ĵudo|judo|judo
-jude||||judgment (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
+jude||||judgement (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
 jude di||||judicial||||||||||||||||oikeudellinen|
 jude ja|||eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|judge (referee)|juje|juez (árbitro, réferi)|juiz|судья|||||||||||juĝisto|tuomari|sędzia
 jul|unomete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
@@ -1850,7 +1850,6 @@ juste|||eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|jus
 juste pau ja||||sniper (sharpshooter)||francotirador||снайпер|||狙撃兵||||||||||snajper (strzelec wyborowy)
 K||||K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K
 ka|prep.||spa:por:fra:que, swa:kumliko, suo:kuin, lao:ກວ່າ (kuā), tgl:kaysa|than (as, compared to, relative to)|que (comme)|que (como, en comparación con)|que (como)|чем||比|より (に比べ)||hơn|||daripada|kuliko|göre|ol (kiel)|kuin (verrattuna)|jak, niż, od
-ka|||jpn:家 (-ka), kor:가 (-ga), yue:家 (-gaa1) + eng:-ic, fra:-ique, spa:por:-ico, hin:-इक (-ika)|person engaged in a profession or practice (-ic, -er)||||||家|家|||||||||henkilö jota asia määrittelee|
 kababu|||ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu|barbecue (grill)||asar||||||||||||||grillata (kärventää)|grillować
 kababu nama||||grilled meat (kebab)||||кебаб|كباب|||||कबाब|কাবাব|||kebap||kebab (grilliliha)|kebab
 kabin|||eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)|cabin (booth)||cabaña||||||||||||||koppi (maja)|kabina, budka
@@ -2831,8 +2830,8 @@ note she|||deu:eng:fra:note, spa:por:nota, tur:not, jpn:ノート (nōto), kor:
 nove||||novelty (new product)||novedad|novidade|новинка (новь)|||||||||||novaĵo|uutuustuote|nowość
 nove|||eng:new,neo-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav)|new (recent)|nouveau|nuevo|novo|новый|جَدِيد|新|新しい|||नया (नवीन)||baru|-pya||nova|uusi|nowy
 nove fito||||neophyte plant||planta neófita||||||||||||||tulokaskasvi (neofyytti)|
+nove jen||||novice (newbie)|néophyte|novato|novato (neófito)|новичок||新手|初心者|승진자|||||||novulo|noviisi (uusikko, vasta-alkaja)|nowicjusz (nowa osoba)
 nove jene di||||newborn|nouveau-né|neonato (recién nacido)|recém-nascido|новорождённый|||||||||||novnaskita|vastasyntynyt|
-nove ka||||novice (newbie)|néophyte|novato|novato (neófito)|новичок||新手|初心者|승진자|||||||novulo|noviisi (uusikko, vasta-alkaja)|nowicjusz (nowa osoba)
 Nove Kaledonia|desha|NC||New Caledonia||Nueva Caledonia||||||||||||||Uusi-Kaledonia|Nowa Kaledonia
 nove loga||||neologism|néologisme|neologismo|neologismo|неологизм||新词|新語 (新造語)|신어 (신조어)||||||yenici deyim|neologismo|uudissana|neologizm
 nove ta||||newness|nouveauté|novedad|novidade|новизна||||||||||yenilik|noveco|uutuus|
