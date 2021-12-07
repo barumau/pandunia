@@ -356,6 +356,7 @@ fa bina - 建设
 fa chuli - 处理 (对待)  
 fa dante - 咬  
 fa dika - 瞄准  
+fa ding - 决定  
 fa dosil - 驯养  
 fa dus forma - 变丑  
 fa fen gata - 分析  
@@ -387,6 +388,7 @@ fa shula - 学习
 fa shuru - 开始  
 fa sing foto - 闪烁  
 fa sir - 隐藏  
+fa siro - 删除 (消除)  
 fa sual - 问  
 fa tele fon - 打电话  
 fa truke - 耍花招  
@@ -415,6 +417,7 @@ firuze - 绿松石
 fito - 植物  
 fito logi - 植物学  
 fito yam sim ja - 素食主义者  
+fizika gi - 硬件  
 flam - 炎症  
 fleche - 箭  
 flur - 氟  
@@ -1125,6 +1128,7 @@ prazedim yum - 镨
 presa - 压力  
 problem - 问题 (难题)  
 program - 计划  
+program gi - 软件  
 promete yum - 钷  
 protacini yum - 镤  
 puding - 布丁  

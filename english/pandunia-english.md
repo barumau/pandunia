@@ -117,6 +117,7 @@ an chen vide di - unexpected
 an daka - uncover (reveal)  
 an deu sim ja - atheist  
 an din ja - unbeliever (infidel)  
+an ding - indeterminate (uncertain, indefinite, undecided)  
 an dosti - enemy (unfriend)  
 an eskale - get off (descend)  
 an icha ja - reluctant  
@@ -344,6 +345,7 @@ baze shula kan - primary school (elementary school, gradeschool)
 be - undergo (passivizing verb)  
 be ais - freeze (get frozen)  
 be ajibu - wonder (be amazed)  
+be an zai - disappear (vanish)  
 be bio mute - ferment (leaven)  
 be boi - float (swim)  
 be boli - boil (be boiled)  
@@ -476,6 +478,7 @@ blu elfe - smurf
 blu sentaure - cornflower  
 blu serami sing - azure bluet  
 boi - float (buoy, bobber)  
+boi punte nomer - floating point number  
 boikote - boycott  
 boing - bounce  
 boke - mouth  
@@ -583,6 +586,7 @@ cheke - examine (inspect, check)
 chen - previous (fore)  
 chen - earlier (before, in the past)  
 chen den - yesterday  
+chen ding - default (preset, predecided)  
 chen fikse - prefix  
 chen gar - assume (presuppose)  
 chen vide - expect (anticipate, predict, forsee)  
@@ -759,6 +763,7 @@ din ja - believer (religious person)
 din shia - sect (cult)  
 dinamite - dynamite  
 dinde - turkey  
+ding - determined (fixed, certain, definite, particular, specific)  
 dingi - nail (spike)  
 dino saur - dinosaur  
 Dione - Dione  
@@ -917,7 +922,8 @@ esporte ja - athlete (sportsman)
 estadi - stadium (arena)  
 estan - tin  
 estasi - station  
-estasi di - static (stationary)  
+estasi di - static (stationary, still)  
+estasi grafi - film frame (still)  
 Esti - Estonia  
 estibi yum - antimony  
 estronti yum - strontium  
@@ -948,6 +954,7 @@ fa achar - pickle (preserve in vinegar or brine)
 fa agresi - attack (assault)  
 fa ajibu - amaze  
 fa alo - change (make different)  
+fa amen - assure (affirm, confirm)  
 fa an galta - debug  
 fa an karma - deactivate (disable, turn off)  
 fa an zai - remove (delete, dispose, erase)  
@@ -968,6 +975,7 @@ fa dalil - prove (demonstrate, testify)
 fa dante - bite  
 fa darte bon - fertilize  
 fa dika - aim (point)  
+fa ding - determine (establish, fix, decide, set, confirm, specify, resolve)  
 fa dom - accommodate  
 fa dosil - tame (train)  
 fa dosil jene - domesticate (cultivate)  
@@ -1142,6 +1150,7 @@ fa shite - defecate (shit)
 fa shiti bai - lose (fail, miss, be defeated)  
 fa shofer - drive (steer)  
 fa shopi - buy (purchase)  
+fa shou - show (display, demonstrate)  
 fa shukur - thank  
 fa shula - learn (study)  
 fa shuru - begin (start, commence, initiate)  
@@ -1152,7 +1161,7 @@ fa sim - advocate (promote, support)
 fa sina - believe  
 fa sing foto - twinkle (sparkle)  
 fa sir - hide (conceal)  
-fa siro - cancel (nullify)  
+fa siro - cancel (nullify, delete, erase)  
 fa soni - sound (make a sound)  
 fa sor - lock (fasten)  
 fa sosi - socialize (interact)  
@@ -1189,6 +1198,7 @@ fa vode - promise (pledge)
 fa vote - vote (cast a vote)  
 fa yagu - estimate (approximate)  
 fa yen - eye (look, watch, observe, spectate)  
+fa zai - summon (add, spawn, actualize)  
 faida - resource (utility, asset)  
 faida - use (utility, benefit, gain, advantage)  
 faida di - useful (beneficial, advantageous)  
@@ -1272,6 +1282,8 @@ fito logi - botany (phytology)
 fito yam sim ja - vegetarian  
 fizika - physics  
 fizika ja - physicist  
+fizika di - physical  
+fizika gi - hardware (physical device)  
 fizika suta - physics (science)  
 flam - inflammation (-itis)  
 fleche - arrow (bolt)  
@@ -1484,7 +1496,7 @@ gola - circle (sphere, round object)
 gola di - round (circular)  
 gola seku - cobblestone  
 golem - golem  
-gomu - rubber  
+gomu - rubber (eraser)  
 gona - corner (angle)  
 gona metre gi - goniometer  
 gong - work (labour, job)  
@@ -1504,7 +1516,9 @@ grafi chuli - image processing
 grafi di - graphic (pictorial)  
 grafi ja - illustrator (graphic artist)  
 grafi kata - comic (cartoon)  
+grafi karte - graphics card (video card)  
 grafi lanse gi - image projector  
+grafi rapide ta - framerate  
 gram - gram (g)  
 granite - granite  
 grave - gravel  
@@ -2575,6 +2589,7 @@ metal - metal
 metal bede - anvil  
 metal jiang ja - blacksmith (iron forger)  
 metal lin - wire  
+metal tul - hardware (ironware, equipment)  
 metre - measure (measurement)  
 metre gi - meter (measuring device)  
 metre grafi - chart (map, graph, blueprint)  
@@ -3175,6 +3190,7 @@ problem - problem (issue)
 problem di - problematic  
 profesor - professor  
 program - program (set of structured activities)  
+program gi - software (virtual device)  
 program ja - programmer (coder)  
 projete - project (endeavour)  
 Promete - Prometheus  
@@ -3187,6 +3203,7 @@ puja meza - altar
 puja riti - ritual (ceremony, religious custom)  
 pul - full (complete, saturated)  
 pul bon - perfect  
+pul ekran - fullscreen  
 pul fina - complete (make done)  
 pul fito yam sim - veganism  
 pul fito yam sim ja - vegan  
@@ -3491,6 +3508,8 @@ serpe - snake (serpent)
 serve - serve (give service)  
 serve - service  
 serve ja - servant  
+serve gi - server (host machine)  
+serve nam - servername (hostname)  
 sesam - sesame  
 Seshel nesi - Seychelles  
 sha - auxiliary verb that marks future tense (will, shall)  
@@ -3554,7 +3573,7 @@ shofer ja - chauffeur (driver)
 shoke - shock (collision)  
 shopi - shopping  
 shopi ja - buyer  
-shou - show (display, exhibition)  
+shou - show (display, exhibition, demonstration, demo)  
 shukur - thanks (thank you)  
 shukur ta - gratitude  
 shukur ze - thanks to  
@@ -4156,7 +4175,6 @@ yuterbi yum - ytterbium
 zai - exist (presently, currently)  
 zai den - today  
 zai di - present (existing)  
-zai fa - summon (add, spawn, actualize)  
 zai ta - presence (existence)  
 zai zaman - present time (now)  
 zai zaman di - current (contemporary, present-day)  

@@ -218,6 +218,7 @@ asparagus - lusun
 associate - liga  
 assume (presuppose) - chen gar  
 Assur - Ashur  
+assure (affirm, confirm) - fa amen  
 Assyria - Ashur desha  
 astatine - astatin  
 asthma - asma  
@@ -569,7 +570,7 @@ camp bed (cot) - kampe bede
 camper - kampe ja  
 campground - kampe bagi  
 Canada - Kanada  
-cancel (nullify) - fa siro  
+cancel (nullify, delete, erase) - fa siro  
 candela - kandela  
 candle - mum foto  
 candy (sweets) - kandi  
@@ -981,6 +982,7 @@ dedication (devotion) - sata don ta
 deed (fact) - fate  
 deem (opine, think that) - fa rai  
 deep - fase tele  
+default (preset, predecided) - chen ding  
 defecate (shit) - fa shite  
 defecate (shit) - kaka  
 defend - defa  
@@ -1004,6 +1006,8 @@ despise (scorn) - fa paraya
 destine (set) - chuze yo gol  
 destiny (fate, lot, kismet) - kisma  
 detail - detal  
+determine (establish, fix, decide, set, confirm, specify, resolve) - fa ding  
+determined (fixed, certain, definite, particular, specific) - ding  
 Devanagari alphabet - deu nagar zi  
 development - darja mute  
 devil (Satan) - shatan ja  
@@ -1029,6 +1033,7 @@ directly - disha di
 dirty (soiled, polluted, defiled, tainted, unclean, impure) - najis di  
 disagree - alo rai  
 disagreement (disconsent) - alo rai  
+disappear (vanish) - be an zai  
 disapprove (frown upon) - dus rai  
 disc (disk) - diske  
 discrete (distinct, separate, quantized) - alo fen di  
@@ -1348,6 +1353,7 @@ figure (representation) - figur
 Fiji - Fiji  
 fill - fa pul  
 film (membrane, video) - filme  
+film frame (still) - estasi grafi  
 filter - filtre  
 find (discover) - eureka  
 fine (thin, narrow, slender, delicate) - fine  
@@ -1384,6 +1390,7 @@ flight - fei
 flint - hogo seku  
 float (buoy, bobber) - boi  
 float (swim) - be boi  
+floating point number - boi punte nomer  
 floor - kamar tal  
 florist's chrysanthemum - guku hua  
 flow (current, stream) - dara  
@@ -1429,6 +1436,7 @@ fountain pen - fonte kalam
 four (4) - nelu  
 fox - huli  
 frame - frem  
+framerate - grafi rapide ta  
 France - France  
 franchise (right to vote) - vote haki  
 francium - france yum  
@@ -1454,6 +1462,7 @@ fruit - frute
 frying pan - tava  
 fuck (copulate) - choda  
 full (complete, saturated) - pul  
+fullscreen - pul ekran  
 fun (amusement) - vanu  
 function (work) - funsi  
 fungus (mushroom) - fungu  
@@ -1573,6 +1582,7 @@ granite - granite
 grape - putau  
 grapefruit - putau oranje  
 graphic (pictorial) - grafi di  
+graphics card (video card) - grafi karte  
 grass - gazo  
 grassland (prairie) - gazo topo  
 gratitude - shukur ta  
@@ -1642,6 +1652,8 @@ hang (dangle) - pende
 harbor (seaport) - hai porte  
 hard (tough) - gati  
 hardship (difficulty, challenge) - dus hal  
+hardware (ironware, equipment) - metal tul  
+hardware (physical device) - fizika gi  
 harm (damage) - fa avar  
 harmful (damaging) - avar ja  
 harmonious - harmoni  
@@ -1813,6 +1825,7 @@ including - in klus
 inclusive - in klus di  
 increase - fa mas  
 increment - mas darja  
+indeterminate (uncertain, indefinite, undecided) - an ding  
 India - Barti  
 Indian - barti  
 Indian chrysanthemum - nefte guku  
@@ -2801,6 +2814,7 @@ photograph - foto grafi
 photographer - foto grafi ja  
 photography - foto grafi suta  
 photon - foto so  
+physical - fizika di  
 physicist - fizika ja  
 physics (science) - fizika suta  
 physics - fizika  
@@ -3193,7 +3207,7 @@ route (path, trail, course, itinerary) - rute
 routine (habit) - rutin  
 royal - raja di  
 rub (scrape, scrub) - frike  
-rubber - gomu  
+rubber (eraser) - gomu  
 rubidium - rubi yum  
 ruby - rubi bau seku  
 rude (offensive) - insulte di  
@@ -3328,6 +3342,8 @@ Serbia - Serbia
 series (sequence) - sili  
 servant - serve ja  
 serve (give service) - serve  
+server (host machine) - serve gi  
+servername (hostname) - serve nam  
 service - serve  
 sesame - sesam  
 seven (7) - cheti  
@@ -3375,7 +3391,8 @@ shorten - korte fa
 should (ought) - be sel  
 shoulder - kanta  
 shovel (spade, scoop) - bele  
-show (display, exhibition) - shou  
+show (display, demonstrate) - fa shou  
+show (display, exhibition, demonstration, demo) - shou  
 shower - dush  
 shrimp (prawn) - gamba  
 Siberia - Sibiria  
@@ -3452,6 +3469,7 @@ sockeye salmon - lal salmon
 sodium - natri  
 sofa (couch) - sofa  
 soft - komal  
+software (virtual device) - program gi  
 soil (dirt) - darte  
 soily (dirty) - darte di  
 solar system - sol sistem  
@@ -3535,7 +3553,7 @@ star - sing
 starboard (right side of a ship) - nave raite  
 starship - astro nave  
 state (condition, status, situation) - hal  
-static (stationary) - estasi di  
+static (stationary, still) - estasi di  
 station - estasi  
 stay behind (linger) - be lashe  
 steal - fa chori  
@@ -3603,7 +3621,7 @@ sultanate - sultan desha
 sum (total) - sum  
 sum up (add together) - fa sum  
 summer - garma mosim  
-summon (add, spawn, actualize) - zai fa  
+summon (add, spawn, actualize) - fa zai  
 sun - sol  
 Sunday - var cheti  
 sunflower - sol hua  

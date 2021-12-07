@@ -1170,6 +1170,7 @@ fa vode - luvata (vannoa)
 fa vote - äänestää  
 fa yagu - arvioida  
 fa yen - silmäillä (katsoa, tarkkailla)  
+fa zai - manata esiin  
 faida - hyöty (etu)  
 faida - hyödyllisyys  
 faida di - hyödyllinen  
@@ -3823,7 +3824,6 @@ yuterbi yum - ytterbium
 zai - olla olemassa  
 zai den - tänään  
 zai di - läsnä oleva  
-zai fa - manata esiin  
 zai ta - läsnäolo  
 zai zaman - tämä hetki (nyt)  
 zai zaman di - nykyinen (tämänhetkinen)  

@@ -989,6 +989,7 @@ fa vode - obiecać, angażować się
 fa vote - głosować (złożyć głos)  
 fa yagu - oszacować, szacować, przybliżyć, przybliżać  
 fa yen - patrzeć (oglądać)  
+fa zai - wzywać (wezwać, dodawać, dodać)  
 faida - zasób  
 faida - zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
 faida di - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
@@ -3586,7 +3587,6 @@ yuterbi yum - iterb
 zai - istnieć  
 zai den - dziś, dzisiaj  
 zai di - obecny, teraźniejszy, aktualny, bieżący, współczesny  
-zai fa - wzywać (wezwać, dodawać, dodać)  
 zai ta - teraźniejszość, współczesność  
 zai zaman - teraźniejszość, współczesność (teraz)  
 zai zaman di - bieżący (aktualny, obecny)  

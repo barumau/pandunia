@@ -3348,7 +3348,7 @@ wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieś�
 wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać - fuka  
 wzrastać - be raste  
 wzrost - raste  
-wzywać (wezwać, dodawać, dodać) - zai fa  
+wzywać (wezwać, dodawać, dodać) - fa zai  
 wóz, wózek - kar  
 wąchać - aroma  
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - dute  

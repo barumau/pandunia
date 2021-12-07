@@ -33,6 +33,7 @@ amerika yum - アメリシウム
 amir lin - コマンド行  
 an air bio di - 嫌気性  
 an din ja - 不信者  
+an ding - 不定  
 an eskale - 下る (降りる)  
 an jama - 散らす  
 an jama di - 疎ら  
@@ -164,6 +165,7 @@ blu elfe - スマーフ (シュトロンフ)
 blu sentaure - ヤグルマギク  
 blu serami sing - ヒナソウ  
 boi - フロート (ブイ)  
+boi punte nomer - 浮動小数点数  
 bokse - ボクシング (拳闘)  
 bokse ja - ボクサー (拳闘家)  
 bol - 玉 (球)  
@@ -207,6 +209,7 @@ chanta grupe - 合唱団
 chati - 屋根  
 chen - 以前 (前に)  
 chen den - 昨日  
+chen ding - 既定 (デフォルト)  
 chen vide - 待ち受ける (見込む)  
 chen yang di - 古典的  
 chen zaman di - 古い  
@@ -330,6 +333,7 @@ eskale tana - 蔓草
 eskandi yum - スカンジウム  
 esponje - スポンジ (海綿)  
 estan - スズ  
+estasi grafi - コマ  
 estibi yum - アンチモン  
 estronti yum - ストロンチウム  
 eu loga - 賛辞  
@@ -348,6 +352,7 @@ fa biznes lona - 話し合う (話を付ける)
 fa chuli - 扱う (処理する)  
 fa dante - 咬む  
 fa dika - 狙う  
+fa ding - 定める (決する, 決定する)  
 fa dosil - 馴らす  
 fa dus forma - 醜くする  
 fa fatu - 罰する  
@@ -379,10 +384,11 @@ fa sam sifa - シミュレートする
 fa shipi - 濡らす  
 fa shiti bai - 負ける  
 fa shopi - 買う  
+fa shou - 見せる (示す, デモる)  
 fa shula - 学ぶ  
 fa sing foto - ピカピカ光る (きらきらする)  
 fa sir - 隠す  
-fa siro - キャンセルする  
+fa siro - 消す (キャンセルする)  
 fa sual - 聞く  
 fa sundar daka - 飾る  
 fa tele fon - 電話する  
@@ -417,6 +423,7 @@ fine - 狭い (薄い, 細い)
 fiorde - フィヨルド  
 fito - 植物  
 fito yam sim ja - 菜食主義者 (ベジタリアン)  
+fizika gi - ハードウェア  
 fleche - 矢 (矢印)  
 flerof yum - フレロビウム  
 flur - フッ素  
@@ -500,6 +507,7 @@ glu grafi - ステッカー
 go - その  
 gol - 目的 (行き先, ゴール)  
 gola seku - 丸石 (玉石, 栗石)  
+gomu - 消しゴム  
 gong - 労働  
 gong ja - 労働者  
 gong kan - 工場 (製造所)  
@@ -507,6 +515,8 @@ gong mise - 提出
 gorila - ゴリラ  
 grafi chuli - 画像処理  
 grafi kata - 漫画  
+grafi karte - グラフィックカード  
+grafi rapide ta - フレームレート  
 granite - 花崗岩  
 grave - 砂利  
 guai - 変  
@@ -936,6 +946,7 @@ mes un - １月
 metal - 金属  
 metal bede - 金敷き (鉄床)  
 metal lin - 線 (針金)  
+metal tul - 金物  
 metre - 測定  
 metre gi - 測定装置 (計)  
 meza - 机 (テーブル)  
@@ -1138,10 +1149,12 @@ presa - 圧力
 presa gi - 圧搾機  
 problem - 問題  
 program - 次第 (計画, プログラム)  
+program gi - ソフトウェア  
 projete - プロジェクト  
 promete yum - プロメチウム  
 protacini yum - プロトアクチニウム  
 puja kan - 神殿 (宮, 寺, 神社)  
+pul ekran - フルスクリーン  
 pul fito yam sim - ヴィーガニズム  
 pul fito yam sim ja - 絶対菜食主義者 (ヴィーガン)  
 pul shipi - 漬ける (締める)  
@@ -1254,6 +1267,8 @@ sento - 百 (１００)
 sento nen - 世紀  
 sera - のこぎり  
 serami - 陶器  
+serve ja - 使用人  
+serve gi - サーバ  
 shalke - うろこ  
 sham - 夕べ  
 sham yam - 夕食  

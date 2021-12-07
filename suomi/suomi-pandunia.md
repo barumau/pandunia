@@ -1810,7 +1810,7 @@ malja (kuppi, muki, lasi) - kupa
 malli - model  
 mallintaa - fa model  
 Malta - Malta  
-manata esiin - zai fa  
+manata esiin - fa zai  
 mandariini (kiinalainen virkailija) - han guan ja  
 mandariini - lal oranje  
 mangaani - mangan  

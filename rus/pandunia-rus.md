@@ -252,6 +252,7 @@ charme - шарм
 chati - крыша (кров)  
 chen - раньше  
 chen den - вчера  
+chen ding - по умолчанию  
 chen zaman di - старый (древний)  
 cheng bede - двухъярусная кровать  
 cheri - черешня  
@@ -320,6 +321,7 @@ din ja - верующий
 din shia - секта  
 dinamite - динамит  
 dinde - индюк  
+ding - определённый  
 dino saur - динозавр  
 diorite - диорит  
 diske - диск  
@@ -377,6 +379,7 @@ eskulte ja - скульптор
 esponje - губка  
 esporte - спорт  
 estan - олово  
+estasi grafi - кадр  
 estibi yum - сурьма  
 estronti yum - стронций  
 estude - этюд  
@@ -390,11 +393,13 @@ europa yum - европий
 
 fa - делать  
 fa alo - изменять  
+fa amen - утвердить (конфирмовать)  
 fa argu - аргументи́ровать  
 fa bina - строить  
 fa chuli - обращаться (обработать, обрабатываться, разбираться)  
 fa dante - откусить  
 fa dika - целиться  
+fa ding - определить  
 fa dosil - укрощать (приручить)  
 fa dosil jene - одомашнивать  
 fa dus forma - уродовать  
@@ -432,6 +437,7 @@ fa safa va tela - вытереть
 fa sel - советовать  
 fa shiti bai - проиграть (провалиться)  
 fa shopi - покупать (купить)  
+fa shou - доказать (демонстрировать)  
 fa shula - учиться  
 fa side - сидеть  
 fa sing foto - сверкать (мерцать)  
@@ -471,6 +477,7 @@ firuze - бирюза
 fito - растение  
 fito logi - ботаника  
 fito yam sim ja - вегетарианец  
+fizika gi - аппаратное обеспечение  
 flam - воспаление  
 fleche - стрела (стрелка)  
 flerof yum - флеровий  
@@ -550,6 +557,7 @@ glu grafi - наклейка
 go - тот  
 gol - цель  
 gola seku - булыжник  
+gomu - резина (каучук, резинка, ластик)  
 gong - работа  
 gong ja - работник  
 gong kan - завод (фабрика)  
@@ -1251,6 +1259,7 @@ presa gi - пресс
 problem - проблема  
 problem di - проблематичный  
 program - программа  
+program gi - программное обеспечение  
 projete - проект  
 Promete - Прометей  
 promete yum - прометий  
@@ -1379,6 +1388,8 @@ sento nen - столетие
 sento nen di - столетний  
 sera - пила  
 serami - керамика  
+serve ja - слуга  
+serve gi - сервер  
 sesam - сезам  
 shalke - чешуя  
 sham - вечер  

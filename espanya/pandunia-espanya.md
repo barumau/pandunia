@@ -87,6 +87,7 @@ an ama - detestar
 an daka - destapar  
 an deu sim ja - ateo  
 an din ja - infiel (descreído)  
+an ding - indeterminado (incierto, indefinido)  
 an jama - dispersar (esparcir, desmontar)  
 an jama di - escaso (disperso, ralo)  
 an memo - olvidar  
@@ -293,6 +294,7 @@ baze petra - lecho de roca
 baze shula kan - escuela primaria  
 be - sufrir (verbo pasivo)  
 be ais - congelarse (helarse)  
+be an zai - desaparecer  
 be bio mute - fermentar  
 be boi - nadar (flotar)  
 be boli - hervirse (ser cocida)  
@@ -406,6 +408,7 @@ blu - azul
 blu elfe - pitufo  
 blu sentaure - aciano (azulejo)  
 boi - flotador (boya)  
+boi punte nomer - punto flotante  
 boikote - boicot  
 boing - rebotar  
 boke - boca  
@@ -506,6 +509,7 @@ cheke - revisar (chequear, examinar, inspeccionar)
 chen - previo (anterior)  
 chen - más temprano (antes, haber, en el pasado)  
 chen den - ayer  
+chen ding - predeterminado  
 chen fikse - prefijo  
 chen gar - presuponer  
 chen vide - prever (esperar, pensar)  
@@ -657,6 +661,7 @@ din ja - creyente
 din shia - secta (culto)  
 dinamite - dinamita  
 dinde - pavo (guajalote)  
+ding - determinado (cierto, definido)  
 dingi - clavo (pincho, punta)  
 dino saur - dinosaurio  
 diorite - diorita  
@@ -799,6 +804,7 @@ estadi - estadio (arena)
 estan - estaño  
 estasi - estación  
 estasi di - estático (estacionario)  
+estasi grafi - fotograma  
 Esti - Estonia  
 estibi yum - antimonio  
 estronti yum - strontium  
@@ -823,6 +829,7 @@ fa - hacer
 fa achar - encurtir  
 fa ajibu - asombrar  
 fa alo - cambiar (demudar)  
+fa amen - confirmar  
 fa an galta - depurar  
 fa an zai - quitar (eliminar, borrar)  
 fa argu - argüir  
@@ -841,6 +848,7 @@ fa daka - cubrir (tapar)
 fa dalil - probar (demonstrar, comprobar)  
 fa dante - morder  
 fa dika - apuntar  
+fa ding - determinar (establecer, definir)  
 fa dom - alojar (hospedar)  
 fa dosil - domar (amansar)  
 fa dosil jene - domesticar (cultivate)  
@@ -996,6 +1004,7 @@ fa shite - cagar
 fa shiti bai - perder (fallar)  
 fa shofer - conducir  
 fa shopi - comprar  
+fa shou - demostrar  
 fa shukur - agradecer  
 fa shula - aprender (estudiar)  
 fa shuru - comenzar (iniciar, empezar)  
@@ -1004,7 +1013,7 @@ fa sifa - definir
 fa sina - creer  
 fa sing foto - centellear (titilar)  
 fa sir - ocultar (esconder)  
-fa siro - cancelar  
+fa siro - cancelar (nulificar, borrar, eliminar)  
 fa soni - sonar  
 fa sosi - alternar (interactuar)  
 fa sual - preguntar (inquirir)  
@@ -1036,6 +1045,7 @@ fa vise - sustituir (reemplezar)
 fa vode - prometer (comprometerse)  
 fa vote - votar  
 fa yagu - estimar (apriximarse a)  
+fa zai - generar (añadir, realizar)  
 faida - uso (utilidad, beneficio)  
 faida di - útil (beneficioso)  
 false - falso  
@@ -1113,6 +1123,7 @@ fito logi - botánica
 fito yam sim ja - vegetariano  
 fizika - física  
 fizika ja - físico (científico)  
+fizika gi - hardware (soporte físico)  
 fizika suta - física  
 flam - inflamación  
 fleche - flecha  
@@ -1306,7 +1317,7 @@ gol - meta (gol, destinación)
 gola - círculo  
 gola di - redondo (circular)  
 gola seku - adoquín  
-gomu - goma (caucho, hule)  
+gomu - goma (caucho, hule, borrador)  
 gona - esquina (rincón, ángulo)  
 gona metre gi - goniómetro (medidor de ángulos)  
 gong - trabajo  
@@ -1325,7 +1336,9 @@ grafi chuli - procesamiento de imágenes
 grafi di - gráfico (pictórico, ilustrado)  
 grafi ja - ilustrador  
 grafi kata - historieta (caricaturas)  
+grafi karte - tarjeta de gráfica  
 grafi lanse gi - proyector  
+grafi rapide ta - tasa de fotogramas  
 gram - gramo (g)  
 granite - granito  
 grave - grava  
@@ -2302,6 +2315,7 @@ metal - metal
 metal bede - yunque  
 metal jiang ja - herrero  
 metal lin - alambre (hilo)  
+metal tul - ferretería  
 metre - medir (medida)  
 metre gi - medidor  
 metre grafi - carta (mapa, tabla, gráfico)  
@@ -2859,6 +2873,7 @@ problem - problema
 problem di - problemático  
 profesor - profesor  
 program - programa  
+program gi - software (soporte lógico)  
 program ja - programador  
 projete - proyecto  
 Promete - Prometeo  
@@ -2871,6 +2886,7 @@ puja meza - altar
 puja riti - rito (ceremonia)  
 pul - lleno (completo)  
 pul bon - perfecto  
+pul ekran - pantalla completa  
 pul fina - completar (terminar)  
 pul fito yam sim - veganismo  
 pul fito yam sim ja - vegano  
@@ -3151,6 +3167,7 @@ serpe - serpiente (culebra)
 serve - servir  
 serve - servicio  
 serve ja - criado (sirviente)  
+serve gi - servidor  
 sesam - ajonjolí (sésamo)  
 Seshel nesi - Seychelles  
 shaka - rama  
@@ -3763,7 +3780,6 @@ yuterbi yum - iterbio
 zai - existir (actualmente)  
 zai den - hoy  
 zai di - actual (presente)  
-zai fa - generar (añadir, realizar)  
 zai ta - presencia (existencia)  
 zai zaman - presente (actualidad)  
 zai zaman di - actual  

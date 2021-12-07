@@ -557,7 +557,7 @@ campo - nong topo
 campo de visión - vide medan  
 Canadá - Kanada  
 canal (cauce, acequia, foso, zanja) - kanal  
-cancelar - fa siro  
+cancelar (nulificar, borrar, eliminar) - fa siro  
 canción - chanta  
 canción de cuna (nana) - lala chanta  
 candado - pende sor  
@@ -816,6 +816,7 @@ conectar (empalmar, enlazar, vincular) - fa linke
 conejo (liebre) - tuzi  
 conexión (relación, asociación, juntura, enlace) - linke  
 confiar (contar con) - amen shin  
+confirmar - fa amen  
 confucianismo - kung fuzi sim  
 confucio - Kung Fuzi  
 confundido - ruhu mishe di  
@@ -1032,6 +1033,7 @@ democrático - demo krati di
 demografía - demo grafi  
 demonio - demon  
 demora (retraso) - dele  
+demostrar - fa shou  
 demócrata - demo krati ja  
 dentista (odontólogo) - dante dava ja  
 dentro - na in  
@@ -1046,6 +1048,7 @@ derechos humanos - insan haki
 derretirse - yung  
 derrota - bai  
 desacuerdo - alo rai  
+desaparecer - be an zai  
 desarrollo - darja mute  
 desatascar - an tapa  
 desayuno - suba yam  
@@ -1068,6 +1071,8 @@ destapar - an daka
 destinar - chuze yo gol  
 destino - kisma  
 detalle - detal  
+determinado (cierto, definido) - ding  
+determinar (establecer, definir) - fa ding  
 detestar - an ama  
 devanágari - deu nagar zi  
 devolver (vomitar) - retro gula  
@@ -1431,6 +1436,7 @@ feministe - fem sim ja
 feo - dus vide  
 fermentar - be bio mute  
 fermio - fermi yum  
+ferretería - metal tul  
 fideo (tallarín) - mena  
 fiebrie (calentura) - febre  
 fijar (pegar, asegurar) - fa fikse  
@@ -1468,6 +1474,7 @@ forzar (usar fuerte, imponer, coaccionar) - fa paka
 fosa - kave  
 foto (fotografía) - foto grafi  
 fotografía - foto grafi suta  
+fotograma - estasi grafi  
 fotógrafo - foto grafi ja  
 fotón - foto so  
 fracaso - shiti bai  
@@ -1548,7 +1555,7 @@ genealogía - jene logi
 generación (cohorte) - jene grupe  
 general (common) - putong  
 generalísimo (sogún) - gun raja  
-generar (añadir, realizar) - zai fa  
+generar (añadir, realizar) - fa zai  
 generosidad (caridad) - karim  
 generoso (dadivoso) - don tabi  
 generoso (dadivoso, caritativo) - karim di  
@@ -1585,7 +1592,7 @@ gobernar - fa politi
 gobierno - politi  
 gofre - vafle  
 golpear (pegar) - darba  
-goma (caucho, hule) - gomu  
+goma (caucho, hule, borrador) - gomu  
 goma arábiga - arabi babul  
 goniómetro (medidor de ángulos) - gona metre gi  
 gorila - gorila  
@@ -1667,6 +1674,7 @@ halo (aureola) - foto gola
 hamaca - hamake  
 hambre - yam yau  
 hamo (anzuelo) - peshe huke  
+hardware (soporte físico) - fizika gi  
 hasio - hese yum  
 hasta (también) - hata  
 hasta - hata  
@@ -1810,6 +1818,7 @@ inclinar - gau tal move
 incluido - in klus  
 incluir - fa in klus  
 inclusivo - in klus di  
+indeterminado (incierto, indefinido) - an ding  
 India - Barti  
 indicador (cursor) - ponte fleche  
 indio (hindú) - barti  
@@ -2638,6 +2647,7 @@ panqueque (crepa) - krepe
 panrromántico - pan romanse di  
 pansexual - pan sekse di  
 pantalla - ekran  
+pantalla completa - pul ekran  
 pantalones - pante  
 panteísmo - pan deu sim  
 panteón - pan deu  
@@ -2882,6 +2892,7 @@ praseodimio - prazedim yum
 preceder (anteceder) - be chen  
 precio (coste) - koste  
 precioso - bau di  
+predeterminado - chen ding  
 preferir (favorecer) - mas fili  
 prefijo - chen fikse  
 pregunta - sual  
@@ -2973,6 +2984,7 @@ puma - puma
 punjabí - panjabi  
 punto (lunar) - bindu  
 punto - punte  
+punto flotante - boi punte nomer  
 puntuación (resultado) - punte nomer  
 puñal (daga) - kanjar  
 página - yepa late  
@@ -3277,6 +3289,7 @@ Serbia - Serbia
 serie - sili  
 serpiente (culebra) - serpe  
 servicio - serve  
+servidor - serve gi  
 servir - serve  
 sexo (género) - jinse  
 sexo - bio jinse  
@@ -3328,6 +3341,7 @@ socialismo nacional - nasi sosi sim
 socialista - sosi sim ja  
 sociedad - sosi  
 sodio - natri  
+software (soporte lógico) - program gi  
 sofá - sofa  
 soja - soi  
 sol - sol  
@@ -3430,7 +3444,9 @@ taponar - fa tapa
 tapón (tapa) - tapa  
 tarde (después de mediodía) - sham dia  
 tarjeta (carta) - karte  
+tarjeta de gráfica - grafi karte  
 tasa (precio, cuota, tarifa) - taksi  
+tasa de fotogramas - grafi rapide ta  
 tatuaje - tatu  
 taxi (cab) - taksi kar  
 Tayikistán - Tajiki  
