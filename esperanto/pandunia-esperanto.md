@@ -34,10 +34,9 @@ alkol di - alkohola
 almari - ŝranko  
 almas - diamanto  
 alo - alia  
-alo - alie  
+alo di - alie  
 alo fon - alofono  
 alo nam - tio estas (alivorte)  
-alo rai - malkonsenti  
 alo sekse di - samseksema  
 alumin - aluminio  
 ama - amo  
@@ -76,7 +75,6 @@ arane - araneo
 arane fobi - araneofobio  
 arane nete - araneaĵo  
 arbuza - akvomelono  
-area - areo  
 area - ejo  
 arena - sablo  
 arena topo - dezerto  
@@ -135,7 +133,6 @@ balon - balono
 baluta - kverko  
 bambu - bambuo  
 banana - banano  
-bande - ligi  
 bande - bandaĝo (vindo)  
 bandera - flago  
 Bangla desha - Bangladeŝo  
@@ -144,7 +141,6 @@ banka shefe - bankisto
 bano - tabulo  
 bano gem - tabulludo  
 banya - bano  
-banya - bana  
 banya kamar - banĉambro  
 bara - bari  
 bara mur - barilo  
@@ -153,7 +149,6 @@ barde - barbo
 bari fon - akcento  
 bari metal - pezmetalo  
 bari yum - bario  
-barka - gratuli  
 Barti - Baratio  
 barti - Barata  
 baru - urso  
@@ -190,6 +185,7 @@ be hapu - taŭgi
 be jene - naski  
 be kai - malfermiĝi  
 be kino - moviĝi  
+be kush - kuŝi  
 be mal - aparteni  
 be mata - morti  
 be raste - kreski  
@@ -297,7 +293,6 @@ chaku - tranĉilo
 chamacha - kulero  
 champion - ĉampiono  
 chanse - ŝanco  
-chanta - kanti  
 chanta - kanto  
 chanta grupe - ĥoro  
 chape - presaĵo  
@@ -314,7 +309,6 @@ chin brus ben - kuzo
 chin ma - avino  
 chin pa - avo  
 chinchila - ĉinĉilo  
-ching - peti (bonvolu)  
 ching lai - inviti  
 chini - porcelano  
 chize - fromaĝo  
@@ -328,7 +322,6 @@ chun - vilaĝo
 chupu - suĉi  
 chuti - eliro  
 chuti mun - elirejo  
-chuze - elekti  
 chuze - elekto  
 
 ## D  
@@ -362,7 +355,6 @@ dau - vojo
 dava - sanigi (kuraci)  
 dava ja - kuracisto  
 defa - defendo  
-defa - defendi  
 defa ja - defendanto (defendisto)  
 deku - akiri (ricevi, preni)  
 dele do - atendi  
@@ -405,7 +397,6 @@ dokumen filme - dokumentfilmo
 dolar - dolaro  
 dolfin - delfeno  
 dom - hejmo (loĝejo)  
-dom - hejmo  
 dom desha - patrio  
 dom di - hejma  
 dom zeze - muŝo  
@@ -425,7 +416,6 @@ doze - porcio (dozo)
 drama - dramo  
 du - du (2)  
 du basha di - dulingva  
-dua - preĝi  
 dua - preĝo  
 dubna yum - dubnio  
 dudu - insekto  
@@ -490,40 +480,56 @@ europa yum - eŭropio
 
 fa - fari  
 fa alo - ŝanĝi (aliigi)  
+fa alo rai - malkonsenti  
+fa bande - ligi  
+fa banya - bana  
+fa barka - gratuli  
 fa bina - konstrui  
 fa budi - kompreni  
+fa chanta - kanti  
 fa chape - presi  
+fa ching - peti (bonvolu)  
 fa chori - ŝteli  
 fa chuti - eliri  
+fa chuze - elekti  
 fa daka - kovri  
 fa dante - mordi  
+fa defa - defendi  
 fa dika - celi  
 fa dom - loĝigi  
+fa dua - preĝi  
 fa duka - malĝojigi  
 fa dur - daŭrigi  
 fa eskulte - skulti  
 fa fantazi - fantaci  
+fa fei - flugi  
 fa fen - dividi  
 fa fen gata - analizi  
 fa festa - festi  
+fa fikir - pensi  
 fa fikse - fiksi  
+fa fin - fini  
 fa fobi - timigi  
 fa fokus - koncentri  
 fa for - forigi  
 fa forma - formigi  
 fa fuku - vestigi  
+fa fuku - vesti (surporti)  
 fa gami - edzigi  
 fa gem - ludi  
 fa gola - ĉirkaŭi  
+fa grafi - desegni  
 fa guste - gustumi  
 fa halte - haltigi  
 fa hapu - taŭgigi  
+fa hava - venti  
 fa hisabu - kalkuli  
 fa ja - aganto  
 fa jama - kolekti (kunigi)  
 fa javabu - respondi  
 fa jela - malliberigi  
 fa jene - naskigi  
+fa jiva - viva  
 fa kai - malfermi  
 fa karga - ŝarĝi  
 fa kata - rakonti  
@@ -535,6 +541,8 @@ fa klon - kloni
 fa kopi - kopii  
 fa lai - alporti (venigi)  
 fa lenshi - ekzerci  
+fa liga - aligi  
+fa loga - paroli  
 fa loka - lokigi  
 fa long - longigi  
 fa maf - pardoni  
@@ -555,6 +563,7 @@ fa rol - ludi rolon
 fa safa - purigi  
 fa safar - vojaĝi  
 fa sahi - pravigi  
+fa saide - ĉasi  
 fa salam - saluti  
 fa sam rai - samopinii (interkonsenti)  
 fa sana - produkti (fabriki)  
@@ -562,12 +571,14 @@ fa shofer - konduki
 fa shopi - aĉeti  
 fa shukur - danki  
 fa shula - lerni (studi)  
+fa shuli - ripari  
 fa shuru - komenci  
 fa shush - silentigi  
 fa side - sidi  
 fa sina - kreda  
 fa sual - demandi  
 fa tele fon - telefoni  
+fa tema - esti pri; pridiskuti  
 fa vai - krom (escepti)  
 fa vai klus - ekskludi  
 fa vanu - amuzi  
@@ -581,10 +592,11 @@ fan - koto
 fan di - kota  
 fan topo - marĉo  
 fantazi - fantazio  
-fantazi - fantazia  
+fantazi di - fantazia  
 fantom - fantomo  
 farsi - persa  
 fase - surfaco  
+fase area - areo  
 fasha sim - faŝismo  
 fasha sim ja - faŝisto  
 fasil - facila  
@@ -593,7 +605,6 @@ fate - faro (fakto)
 fatura - kalkulo (fakturo)  
 febre - febro  
 fei - flugo  
-fei - flugi  
 fem - ino  
 fem ben - filino  
 fen - parto (frakcio)  
@@ -602,7 +613,6 @@ fermi yum - fermio
 fero - fero  
 festa - festo  
 figur - figuro  
-fikir - pensi  
 fikir - penso  
 Filipin - Filipinoj  
 filme - filmo  
@@ -611,7 +621,6 @@ filsofi di - filozofia
 filsofi ja - filozofo  
 filtre - filtri  
 fin - fino  
-fin - fini  
 fin - jam (esti farita)  
 fin di - finita  
 fin me - lasta  
@@ -652,7 +661,6 @@ frute - frukto
 frute bagi - fruktarbejo  
 fui - bah!  
 fuku - vesto  
-fuku - vesti (surporti)  
 fuku vashi gi - lavmaŝino  
 fun - polvo  
 fungu - fungo  
@@ -701,7 +709,7 @@ gas - gaso
 gata - tranĉi  
 gati - malmola  
 gati mate - solido  
-gau - alta  
+gau di - alta  
 gaze - gazo  
 gazel - gazelo  
 gazeta - gazeto (revuo)  
@@ -732,7 +740,6 @@ goro - porko
 goro nama - porkaĵo  
 goton - kotono  
 grafi - bildo (desegnaĵo)  
-grafi - desegni  
 grafi di - grafika (bilda)  
 grafi kata - bildrakonto  
 gram - gramo  
@@ -789,19 +796,18 @@ haos - kaoso (malordo)
 hapu - taŭga  
 harabu - ruinigita  
 harabu mahala - kvartalaĉo  
-harmoni - harmonia  
 harmoni - harmonio  
+harmoni di - harmonia  
 Hartum - Ĥartumo  
 has - speciala  
 hata - ĝis  
-hata - eĉ  
+hata di - eĉ  
 hatar - danĝero  
 hatar di - danĝera  
-hava - venti  
 hava - vento  
 he - ĉu?  
 Helen - Grekio  
-Helen - greka  
+Helen di - greka  
 heli yum - helio  
 helis fei gi - helikoptero  
 hem - pripensi (rigardi ia)  
@@ -913,7 +919,6 @@ jinse - sekso
 jinse di - seksa  
 jirafa - ĝirafo  
 jiva - vivo  
-jiva - viva  
 jong - centro  
 jong fon - vokalo  
 jong shula kan - gimnazio  
@@ -948,7 +953,7 @@ kala - nigra
 kalam - plumo  
 kalam sui - inko  
 kalenda - kalendaro  
-kali - alkaleca  
+kali di - alkaleca  
 kali guste - amara  
 kali yum - kalio  
 kaliforni yum - kaliforniumo  
@@ -985,7 +990,7 @@ kari - kareo
 Karibe - Karibio  
 karibu - proksima  
 karma - ago  
-karma ja - agema  
+karma ja di - agema  
 karma loga - verbo  
 karote - karoto  
 karte - karto  
@@ -1101,7 +1106,6 @@ kurban - ofero
 kuri yum - kuriumo  
 kursi - seĝo  
 kurva - kurbo  
-kush - kuŝi  
 
 ## L  
 
@@ -1129,7 +1133,6 @@ lenshi - ekzerco
 lente - malrapida  
 letus - laktuko  
 libele - libelo  
-liga - aligi  
 liga di sanduku - Kesto de Interligo  
 lika - forto  
 lika di - forta  
@@ -1150,7 +1153,6 @@ liste - listo
 lito yum - litio  
 litre - litro  
 loba - rafaneto  
-loga - paroli  
 loga - parolo  
 loga asal - etimologio  
 loga di - vorta  
@@ -1212,15 +1214,15 @@ mata badan - kadavro
 mata di - morta  
 mata ja - mortigisto  
 mate - materio  
-matur - plenaĝa  
 matur - matura (plenkreska)  
 matur fem - virino  
+matur jen - plenaĝa  
 matur man - viro  
 mau - kato  
 maya - majao  
 maze - ŝtrumpo  
 mede - helpo  
-medi - mezo  
+medi di - mezo  
 medi dia - tagmezo  
 medi gi - rimedo  
 medi noche - noktmezo  
@@ -1320,6 +1322,7 @@ na medi - inter
 na ni - ĉi tie  
 na nove - ĵus  
 na poli mar - ofte  
+na pos - estonte  
 na re - denove (ripete)  
 na supra - super  
 na vai - ekster  
@@ -1390,7 +1393,7 @@ note - rimarki
 note buku - kajero  
 note she - noto (rimarko, komento)  
 nove - novaĵo  
-nove - nova  
+nove di - nova  
 nove jene di - novnaskita  
 nove ka - novulo  
 nove loga - neologismo  
@@ -1451,7 +1454,7 @@ pari kata - fabelo
 parke - parko (ĝardeno)  
 parti - partio  
 pas - pasi  
-pas - pasinta  
+pas di - pasinta  
 pase - paco  
 pase sim - pacifismo  
 pase sim ja - pacifisto  
@@ -1508,9 +1511,8 @@ ponte - montri
 porte - haveno  
 Portoriko - Portoriko  
 pos - sekvo  
-pos - sekva  
-pos - estonte  
 pos den - morgaŭ  
+pos di - sekva  
 pos zaman - estonoteco  
 pospor - fosforo  
 posta kan - poŝtejo  
@@ -1600,7 +1602,6 @@ safar - vojaĝo
 safar ja - vojaĝanto  
 safran - safrano  
 sahi - ĝusta (prava)  
-saide - ĉasi  
 saide - ĉasado  
 saide ja - ĉasisto  
 sal - salo  
@@ -1701,7 +1702,6 @@ shula kan - lernejo
 shula she - leciono  
 shula shefe - lernejestro  
 shuli - riparo  
-shuli - ripari  
 shuli ja - riparisto  
 shuru - komenco  
 shush di - silenta  
@@ -1809,7 +1809,6 @@ tele vide gi - televidilo
 teleskope - teleskopo  
 telu yum - teluro  
 tema - temo  
-tema - esti pri; pridiskuti  
 tenesi yum - teneso  
 tenis - teniso  
 teori - teorio  
@@ -1935,7 +1934,6 @@ xenon - ksenono
 
 ## Y  
 
-ya - ejo (ujo, io)  
 ya - jes  
 Yahve - Javeo (Jehovo)  
 yam - manĝi (trinki)  

@@ -20,7 +20,7 @@ accord - sam rai
 accès - jin lai  
 acheter - fa shopi  
 acte (action) - karma  
-actif - karma ja  
+actif - karma ja di  
 actinium - acini yum  
 activer (allumer, mettre en marche, déclencher) - fa karma  
 actuel (courant) - zai zaman di  
@@ -31,7 +31,7 @@ adhésif (collant) - glu di
 adjectif - sifa loga  
 administrateur - politi ja  
 adresse - adres  
-adulte - matur  
+adulte - matur jen  
 Afghanistan - Afghan  
 Afrique - Afrika  
 agent (faiseur) - karma ja  
@@ -46,7 +46,7 @@ agronomie - nong nomi
 aide (secours) - mede  
 ail - lasun  
 air - air  
-aire (superficie) - area  
+aire (superficie) - fase area  
 Alaska - Alaska  
 alcool - alkol  
 alcoolique - alkol di  
@@ -91,7 +91,7 @@ anglophone - english fon di
 Angola - Angola  
 animal (bête) - zou  
 animation - anime  
-animer - anime  
+animer - fa anime  
 anis - anis  
 anneau - ring  
 Antarctique - Antartika  
@@ -104,7 +104,7 @@ anus - anus
 août - mes bati  
 appartenir à - be mal  
 application - aplika  
-appliquer - aplika  
+appliquer - fa aplika  
 apporter - fa lai  
 apprendre (étudier) - fa shula  
 apprivoiser (dresser, dompter, discipliner) - fa dosil  
@@ -169,7 +169,7 @@ autel - puja meza
 autocollant - glu grafi  
 automne - pade mosim  
 autre - alo  
-autrement - alo  
+autrement - alo di  
 avant - chen  
 avec - va  
 aventure - ventur  
@@ -221,7 +221,7 @@ base (alcali) - kali
 base - baze  
 base de données - data banka  
 baseball - baze bol  
-basique - kali  
+basique - kali di  
 basketball - baske bol  
 bassin - basen  
 bateau - nave  
@@ -377,7 +377,7 @@ chardon penché - pende kardon
 charge (fardeau, poids) - karga  
 charger - fa karga  
 charme - charme  
-chasser - saide  
+chasser - fa saide  
 chat - mau  
 chaudron - dai pote  
 chauve - sar kesha hin  
@@ -463,7 +463,7 @@ cosmos - kosmo
 coton - goton  
 cou (encolure, nuque) - nuka  
 couch (couchette) - kush loka  
-coucher - kush  
+coucher - fa kush  
 coucou - kuku  
 coude - kudi  
 coudée - kudi metre  
@@ -544,7 +544,7 @@ directeur (principal) - shula shefe
 dirigeant (leader) - lida ja  
 disque - diske  
 distinct - alo fen di  
-diverger (ne pas être d'accord) - alo rai  
+diverger (ne pas être d'accord) - fa alo rai  
 divers (plusieurs) - vari  
 dix (deca-) - des  
 docile (insipide) - dosil  
@@ -573,7 +573,6 @@ déboguer (débugger) - fa an galta
 début (commencement) - shuru  
 décapé (mariné) - achar di  
 décharge - laji bagi  
-déchirer - chira  
 déchirer - chira  
 défigurer - fa dus forma  
 délai (retard) - dele  
@@ -605,10 +604,10 @@ ennemi - dus jen
 enregistrement - loge  
 enseigner - gio  
 ensommeillé (somnolent) - sona tabi  
-ensuite (après, plus tard, ir a, en el futuro) - pos  
+ensuite (après, plus tard, ir a, en el futuro) - na pos  
 entonnoir - dara tubo  
 entrer - be in  
-envelopper (emballer) - lifafa  
+envelopper (emballer) - fa lifafa  
 erbium - erbi yum  
 erroné - galte di  
 escroquer - fa truke  
@@ -665,7 +664,7 @@ fil de fer - metal lin
 fil de trame - vei lin  
 fils ou fille - ben  
 fini - fin di  
-finir - fin  
+finir - fa fin  
 fiord - fiorde  
 fleur - hua  
 fluor - flur  
@@ -688,7 +687,6 @@ fossé (canal, tranchée) - kanal
 fouet - bichi  
 fougères - parne  
 fourmi - murche  
-foyer (domicile) - dom  
 fragment - parche  
 frais - taza  
 francium - france yum  
@@ -700,7 +698,7 @@ fruit - frute
 frêne - yasen  
 fée - pari  
 Félicitations ! - barka  
-féliciter - barka  
+féliciter - fa barka  
 
 ## G  
 
@@ -973,7 +971,7 @@ mah-jong - majang
 maillon (chaînon) - sili tika  
 main - hande  
 mais - a  
-maison - dom  
+maison (foyer, domicile) - dom  
 malédiccion - lana  
 manche - kamisa shaka  
 mandarin - han guan ja  
@@ -1001,9 +999,9 @@ maternel - ma di
 mathématiques - hisabu logi  
 matière - mate  
 matérialisme - mate lona  
-maximum - masim  
+maximum - masim she  
 maître - mestre  
-medio - medi  
+medio - medi di  
 meitnérium - meitner yum  
 melt - yung  
 mendélévium - mendelef yum  
@@ -1110,7 +1108,7 @@ nostalgie - nostalgia
 note - note she  
 notre - mimon su  
 nous - mimon  
-nouveau - nove  
+nouveau - nove di  
 nouveau-né - nove jene di  
 nouveauté - nove ta  
 nouvelle (récit court) - korte kata  
@@ -1214,7 +1212,7 @@ parapluie - shava chati
 parc - parke  
 pardonner - fa maf  
 Paris - Paris  
-parler - loga  
+parler - fa loga  
 parole (mots) - loga  
 part - fen  
 passe (passage) - pas dau  
@@ -1310,7 +1308,7 @@ pont - kio
 porcelaine - chini  
 porte - porte  
 porte-bloc (planchette à pince) - pinse bano  
-porter (s’habiller) - fuku  
+porter (s’habiller) - fa fuku  
 Porto Rico - Portoriko  
 Portoricain - portoriko jen  
 posidonie (herbiers marins) - hai gazo  
@@ -1348,7 +1346,7 @@ programme - program
 projectile - lanse she  
 projection - lanse grafi  
 projet - projete  
-projeter (donner) - lanse grafi  
+projeter (donner) - fa lanse grafi  
 prolongé - long dur di  
 promettre - fa vode  
 prométhium - promete yum  
@@ -1450,7 +1448,7 @@ ruthénium - rus yum
 réglisse - alkasus  
 réparateur - shuli ja  
 réparation - shuli  
-réparer - shuli  
+réparer - fa shuli  
 réponse - javabu  
 répéter - fa re  
 répétition - re  
@@ -1498,7 +1496,7 @@ scie - sera
 sculpteur - eskulte ja  
 scutelle - oste shalke  
 se - se  
-se baigner - banya  
+se baigner - fa banya  
 se mouvoir - be kino  
 se passer - si dur  
 se plaire - be suka  
@@ -1512,8 +1510,8 @@ sel - sal
 semaine - var var  
 semence - seme  
 sens - sense  
-sentir qqch (avoir l'odeur de qqch) - aroma  
-sentir qqch - aroma  
+sentir qqch (avoir l'odeur de qqch) - fa aroma  
+sentir qqch - fa aroma  
 sept (7) - cheti  
 serrure - sor  
 serviette - gan tela  
@@ -1720,15 +1718,15 @@ viser - fa dika
 Vishnou - Vishnu  
 vitamine - vitamin  
 vite (rapide) - rapide  
-vivant - jiva  
+vivant - fa jiva  
 vivre (habiter) - be dom  
 vocabulaire (lexique) - loga jama  
 voile - hijabu  
 voir - vide  
-voire (même) - hata  
+voire (même) - hata di  
 vol - fei  
 volcan - hogo san  
-voler - fei  
+voler - fa fei  
 votre - tumon su  
 vouloir - vol  
 voyelle - jong fon  
@@ -1824,6 +1822,6 @@ zéro - siro
 éveillé - jaga  
 évident - vai vide di  
 être - si  
-être couché - kush  
+être couché - be kush  
 être humain - insan  
 œil - yen  

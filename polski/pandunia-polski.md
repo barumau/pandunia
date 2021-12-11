@@ -32,8 +32,7 @@ ais di - lodowy
 ais hoki - hokej na lodzie  
 ais krem - lody  
 Aiti - Haiti  
-ajibu - dziw (cudo)  
-ajibu - zachwyt (zdumienie)  
+ajibu - dziw (cudo, zachwyt)  
 ajibu di - zachwycający (zdumiewający, zadziwiający)  
 ajila - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
 akare - klescz (roztocze)  
@@ -49,11 +48,10 @@ alkol di - alkoholowy
 almari - kredens (szafa, szafka)  
 almas - diament  
 alo - inny  
-alo - w innym wypadku (inaczej)  
+alo di - w innym wypadku (inaczej)  
 alo fen di - dyskretny (kwantowy)  
 alo fon - alofon  
 alo nam - innymi słowy  
-alo rai - nie zgadzać się  
 alo rai - niezgoda  
 alo romanse di - heteroromantyczny  
 alo sekse di - heteroseksualny  
@@ -107,7 +105,6 @@ angar - kotwica
 Angola - Angola  
 angul - palec  
 angul ring - pierścień, pierścionek; obrączka  
-anime - animować  
 anime - animacja  
 anis - anyż  
 anjil - wiadomość  
@@ -121,7 +118,6 @@ anus - odbyt
 anus di - analny, odbytni  
 aple - jabłko  
 aple sos - sos jabłkowy  
-aplika - zastosować, stosować  
 aplika - zastosowanie, aplikacja  
 Apsni - Abchazja  
 arabi - arabski  
@@ -131,7 +127,6 @@ arane fobi - arachnofobia
 arane nete - pajęczyna  
 arbuza - arbuz  
 Arcah - Abchazja  
-area - pole, powierzchnia  
 area - powierzchnia, region, teren  
 arena - piasek, piach  
 arena petra - piaskowiec  
@@ -144,9 +139,7 @@ arka - łuk
 arka ja - łucznik  
 arka suta - łucznictwo  
 arme - broń  
-aroma - wąchać  
 aroma - zapach (aromat, smród, odór)  
-aroma - pachnieć  
 aroma melon - melon koreański  
 arsen yum - arsen  
 arte ja - artysta  
@@ -226,7 +219,6 @@ baluta frute - żołądź
 bambu - bambus  
 banana - banan  
 banda - zespół (drużyna, grupa)  
-bande - związać, wiązać; zapiąć, zapinać  
 bande - taśma; bandaż  
 bandera - flaga, sztandar  
 bangla basha - banglijski  
@@ -237,7 +229,6 @@ banka shefe - bankier
 bano - tablica (deska)  
 bano gem - gra planszowa  
 banya - kąpiel  
-banya - kąpać się  
 banya kamar - łazienka  
 bar - bar  
 bara - blokować, hamować  
@@ -249,7 +240,6 @@ barde - broda
 bari fon - akcent, nacisk  
 bari metal - metal ciężki  
 bari yum - bar  
-barka - gratulować; błogosławić  
 barka - gratulacje!  
 Barti - Indie  
 barti - Indyjski  
@@ -311,6 +301,7 @@ be jin - posuwać się do przodu (dokonywać postępu, wejść)
 be kai - otworzyć się, otwierać się  
 be karibu - zbliżać się (zbliżyć się)  
 be krus - przejść w poprzek  
+be kush - leżeć  
 be lashe - pozostawać w tyle (zwlekać)  
 be loka - być umiejscowionym (być ulokowanym, stać)  
 be mal - należeć  
@@ -325,6 +316,7 @@ be raste - wzrastać
 be razon - mieć sens  
 be reste - zostać, zostawać  
 be retro - wrócić, wracać, wycofać się, wycofywać się  
+be rota - obrócić się (kręcić się)  
 be rupa - wyglądać (wydawać się)  
 be rute galte - zbłąkać się (wykoleić się)  
 be sam rupa - być podobnym, być jak  
@@ -476,7 +468,6 @@ chaku - nóż
 chamacha - łyżka  
 champion - czempion  
 chanse - szansa  
-chanta - śpiewać  
 chanta - piosenka, pieśń  
 chanta grupe - chór  
 chapati - płaski chleb, ćapati  
@@ -484,9 +475,9 @@ chape - odcisk, ślad; stempel, pieczęć
 charme - czar (urok, wdzięk)  
 chati - dach  
 cheke - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
-chen - poprzedni  
 chen - wcześniej (uprzednio, poprzednio, przedtem)  
 chen den - wczoraj  
+chen di - poprzedni  
 chen fikse - przedrostek (prefiks)  
 chen gar - zakładać (założyć)  
 chen vide - przewidzieć (spodziewać się)  
@@ -509,11 +500,9 @@ chin brus ben - kuzyn
 chin ma - babcia (babka)  
 chin pa - dziadek (dziad)  
 chinchila - szynszyla  
-ching - prosić  
 ching lai - zaprosić, zapraszać  
 chini - porcelana  
 Chipe - Albania  
-chira - rwać (drzeć)  
 chira - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
 chira chira - strzępić (drzeć)  
 chira chira di - rozstrzępiony (podarty)  
@@ -534,7 +523,6 @@ chun - wieś, wioska
 chupu - ssać  
 chuti - wyjśćie, opuszczenie  
 chuti mun - drzwi wyjściowe  
-chuze - wybrać, wybierać, selekcjonować  
 chuze - wybór, elekcja, selekcja  
 chuze she - opcja (wybór)  
 chuze yo gol - przeznaczyć  
@@ -598,7 +586,6 @@ dava logi - medycyna
 dava sui - eliksir (magiczny napój)  
 debil - słaby  
 defa - obrona  
-defa - obronić (chronić)  
 defa bano - tarcza  
 defa ja - obrońca  
 defa kaske - zbroja  
@@ -692,7 +679,6 @@ du o tri - parę
 du romanse di - biromantyczny  
 du sekse di - biseksualny  
 du she sim - dualizm  
-dua - pomodlić się, modlić się  
 dua - modlitwa  
 dubna yum - dubn  
 dudu - owad  
@@ -756,7 +742,6 @@ erbi yum - erb
 Eris - Eris (planeta karłowata)  
 Eritra - Erytrea  
 esai - esej  
-eskale - wspinać się (wspiąć się)  
 eskale - schody (drabina)  
 eskale tana - pnącz  
 eskandi yum - skand  
@@ -798,39 +783,57 @@ fa - zrobić (stworzyć, wykreować)
 fa achar - kisić (marynować)  
 fa ajibu - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
 fa alo - zmienić (zmieniać)  
+fa alo rai - nie zgadzać się  
 fa an karma - deaktywować (wyłączyć, zatrzymać)  
 fa an zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
+fa anime - animować  
+fa aplika - zastosować, stosować  
+fa aroma - wąchać  
+fa aroma - pachnieć  
 fa asar - poprowadzić do (doprowadzić do, powodować)  
+fa bande - związać, wiązać; zapiąć, zapinać  
+fa banya - kąpać się  
+fa barka - gratulować; błogosławić  
 fa baze - zakładać (założyć, ustanowić)  
 fa bina - zbudować, budować, konstruować  
 fa biznes lona - negocjować  
 fa budi - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować  
+fa chanta - śpiewać  
 fa chape - naciskać, zostawiać ślad  
+fa ching - prosić  
 fa chori - ukraść, kraść  
 fa chuli - traktować  
 fa chuti - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
+fa chuze - wybrać, wybierać, selekcjonować  
 fa daka - przykryć, przykrywać, ukryć, ukrywać  
 fa dalil - dowieść, dowodzić; zeznać, zeznawać  
 fa darte bon - nawozić (nawieźć)  
+fa defa - obronić (chronić)  
 fa dika - celować  
 fa dom - dać mieszkanie (zakwaterować)  
 fa dosil - oswoić (oswajać, tresować, trenować)  
 fa dosil jene - udomowić (kultywować)  
+fa dua - pomodlić się, modlić się  
 fa duka - zasmucić (zasmucać)  
 fa dur - minąć, mijać (czas)  
 fa dus nam - obrazić  
 fa english kitabu - anglizować (zanglizować)  
+fa eskale - wspinać się (wspiąć się)  
 fa eskulte - rzeźbić  
 fa fantazi - wyobrazić, wyobrażać, fantazjować  
+fa fei - latać, lecieć  
 fa fen - dzielić  
 fa fen do du - przepołowić (podzielić przez dwa)  
 fa fen gata - analizować  
 fa festa - świętować, imprezować  
+fa fikir - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
 fa fikse - przyczepić, przymocować  
 fa fili - lubić  
+fa fin - skończyć, kończyć  
 fa fokus - skupić, się, skoncentrować się  
 fa fon - wymawiać (wymówić)  
 fa forma - ukształtować, kształtować, urzeźbić, rzeźbić  
+fa fuku - nosić ubrania  
 fa galte - popełnić błąd  
 fa gami - ożenić się, poślubić, wyjść za mąż  
 fa gan - suszyć (wysuszyć)  
@@ -840,20 +843,28 @@ fa gem - grać w grę
 fa glu - lepić (kleić)  
 fa gola - otoczyć, otaczać  
 fa gong - pracować  
+fa grafi - opisywać, ilustorawć; przedstawiać  
 fa guste - smakować, próbować smaku  
 fa halal - pozwolić, pozwalać, zezwolić, zezwalać  
 fa halte - zatrzymać  
+fa harabu - rujnować, dewastwować, burzyć  
 fa haram - zabronić (wzbronić, zakazać)  
 fa has - rozróżniać (rozróżnić)  
+fa hava - dmuchać  
 fa hisabu - kalkulować  
 fa hogo - spalić, palić  
+fa ichi - chcieć (pragnąć)  
+fa jaga - obudzić, budzić  
 fa jama - kolekcjonować, zebrać, zbierać  
 fa javabu - odpowiedzieć, odpowiadać  
 fa jela - uwięzić, więzić, pozbawić wolności  
 fa jene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
+fa jiva - żyć (żywy, żyjący)  
 fa jong - centrować, skupić, skupiać  
 fa jude - sądzić (osądzić)  
+fa jusha - wstrzyknąć, wstrzykiwać  
 fa kai - otworzyć, otwierać  
+fa kaka - defekować, srać  
 fa kanal - kierować (doprowadzać, prowadzić, służyć jako kanał)  
 fa kancha dake - szklić (glazurować)  
 fa karma - aktywować (włączyć, uruchomić)  
@@ -865,22 +876,30 @@ fa klar - wyklarować (rozjaśnić)
 fa klas - klasyfikować, kategoryzować  
 fa klon - klonować, repilikować  
 fa klus - zamknąć (zamykać)  
+fa kode - kodować  
 fa koloni - kolonizować  
 fa komputa - policzyć, liczyć, przetwarzać dane  
 fa komun - dzielić (współdzielić)  
 fa kon sabe - poinformować, informować, zakomunikować, komunikować  
 fa kopi - kopiować, replikować  
+fa koste - kosztować  
 fa krus fikse - ukrzyżować  
 fa kung - przebić (perforować, dziurawić)  
+fa kush - położyć  
+fa lanse grafi - wyświetlać  
 fa Latin kitabu - zromanizować  
 fa lenshi - ćwiczyć  
 fa libu - postawić (stawiać)  
+fa lifafa - zawijać (zawinąć)  
+fa liga - stowarzyszać się (zrzeszać się)  
 fa lika - wzmocnić (wzmocnić, wzmóc)  
 fa linke - łączyć, wiązać, złączyć  
+fa loga - mówić, rozmawiać  
 fa loka - umieścić (postawić)  
 fa lona - debatować, prowadzić dyskurs  
 fa long - przedłużyć, przedłużać  
 fa mal - mieć (posiadać)  
+fa manera - zachowywać się (działać)  
 fa marche - iść, maszerować  
 fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
 fa mas lika - wesprzeć (wzmocnić, zasilić)  
@@ -894,6 +913,7 @@ fa migra - ruszać się (migrować, poruszać się, przenieść się, przesiedla
 fa min darja - zmniejszyć o jeden  
 fa ming - rozjaśnić  
 fa minim - zminimalizować  
+fa miti - spotkać  
 fa model - modelować (projektować, zaprojektować)  
 fa mol - zemleć (mleć, mielić)  
 fa multi - podwoić  
@@ -928,6 +948,7 @@ fa posta - nadać, wysłać pocztą
 fa poze - pozować, ustawiać się  
 fa pul - wypełnić, wypełniać  
 fa pul bon - doskonalić (optymalizować, ulepszać)  
+fa radi - promieniować  
 fa rai - uważać (sądzić)  
 fa ratibu - porządkować, organizować  
 fa re - powtórzyć, powtarzać  
@@ -937,16 +958,20 @@ fa reside - uznać (przynać, przyjąć do wiadomości)
 fa rezerve - rezerwować (zarezerwować)  
 fa rol - grać, odgrywać rolę  
 fa rolo - toczyć, turlać  
+fa romanse - kochać romantycznie  
+fa rota - obrócić (kręcić)  
 fa sabu - spowodować, powodować  
 fa safa - wyczyścić, czyścić  
 fa safar - podróżować  
 fa sahi - poprawić, poprawiać, prostować, korygować  
+fa saide - polować (łowić)  
 fa salam - pozdrowić, pozdrawiać  
 fa sam rai - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
 fa sam sifa - emulować (symulować, naśladować, modelować)  
 fa sana - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
 fa sekur - chronić (ratować)  
 fa sense - czuć (poczuć, postrzegać, wykrywać)  
+fa serve - służyć  
 fa sharti - wymagać, przewidywać  
 fa shipi - moczyć (zmoczyć)  
 fa shite - srać (robić gówno)  
@@ -955,6 +980,7 @@ fa shofer - prowadzić pojazd
 fa shopi - kupić  
 fa shukur - dziękować  
 fa shula - nauczyć się, uczyć się, studiować  
+fa shuli - naprawić, naprawiać  
 fa shuru - zacząć, zaczynać  
 fa shush - uciszyć (uciszać)  
 fa side - siedzieć  
@@ -974,6 +1000,7 @@ fa sundar daka - dekorować
 fa tal - obniżać (obniżyć)  
 fa tapa - zatkać, ztykać  
 fa tela - tkać (pleść)  
+fa tema - być o; dyskutować o  
 fa tercha - przechylać (przechylić, wychylać, wychylić)  
 fa tese - dyskutoać, twierdzić  
 fa teste - spróbować, próbować  
@@ -981,6 +1008,7 @@ fa transe - przejść, przechodzić, przejechać, przejeżdżać
 fa trati - zgodzić się (umówić się)  
 fa truke - oszukać (oszukiwać  
 fa turbe - przeszkodzić, przeszkadzać, robić kłopot  
+fa ulul - wyć  
 fa un she - jednoczyć  
 fa vai - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
 fa vanu - bawić, zabawiać  
@@ -990,8 +1018,7 @@ fa vote - głosować (złożyć głos)
 fa yagu - oszacować, szacować, przybliżyć, przybliżać  
 fa yen - patrzeć (oglądać)  
 fa zai - wzywać (wezwać, dodawać, dodać)  
-faida - zasób  
-faida - zastosowanie (użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
+faida - zasób (zastosowanie, użyteczność, korzyść, zysk, pożytek, walor, profit, zaleta)  
 faida di - użyteczny, pomocny, przydatny, pożyteczny, korzystny  
 faida she - materiał (składnik, zasób)  
 false - fałszywy, nieprawdziwy  
@@ -1003,10 +1030,11 @@ fan defa bano - błotnik
 fan di - błotnisty  
 fan topo - bagno (moczary)  
 fantazi - fantazja (wyobrażenie, wyobraźnia)  
-fantazi - fantastyczny, fantazyjny  
+fantazi di - fantastyczny, fantazyjny  
 fantom - duch, fantom  
 farsi - Pers; perski, farsi  
 fase - powierzchnia  
+fase area - pole, powierzchnia  
 fase karibu - płytki  
 fase tele - głęboki  
 fase tele ta - głębokość  
@@ -1024,7 +1052,6 @@ fatura - rachunek (faktura)
 faze - etap, faza  
 febre - gorączka  
 fei - lot  
-fei - latać, lecieć  
 fei gi - samolot  
 fei gi di kape ja - porywacz samolotu  
 fei mushu - nietoperz  
@@ -1043,7 +1070,6 @@ festa - przyjęcie, święto, festiwal
 festa den - święto  
 figur - figura, reprezentacja  
 Fiji - Fidżi  
-fikir - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
 fikir - myśl, pomysł  
 fikse - załącznik (przyrostek, afiks)  
 fili - zamiłowanie (-filia)  
@@ -1056,7 +1082,6 @@ filsofi di - filozoficzny
 filsofi ja - filozof  
 filtre - filtr  
 fin - koniec  
-fin - skończyć, kończyć  
 fin - już (skończona czynność)  
 fin me - ostatni, końcowy  
 fine - delikatny, cienki, lekki  
@@ -1112,7 +1137,6 @@ frute - owoc
 fui - fu, fuj  
 fuka - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuku - ubranie, ubiór, strój  
-fuku - nosić ubrania  
 fuku vashi gi - pralka  
 fun - pył  
 fun chupa gi - odkurzacz  
@@ -1183,7 +1207,7 @@ gati - twardy
 gati mate - ciało stałe  
 gati mate di - stały (sztywny)  
 gau - góra (szczyt)  
-gau - wysoki  
+gau di - wysoki  
 gau ta - wysokość  
 gau tal - pionowy  
 gau tanur - wielki piec  
@@ -1249,7 +1273,6 @@ goro - świnia
 goro nama - wieprzowina  
 goton - bawełna  
 grafi - opis, przedstawienie; wykres  
-grafi - opisywać, ilustorawć; przedstawiać  
 grafi buku - książka z obrazkami  
 grafi di - obrazowy, graficzny; opisowy  
 grafi ja - ilustrator, grafik  
@@ -1322,7 +1345,6 @@ haki - prawo, przywilej
 hal - stan  
 halal - dozwolony (dopuszczalny, zezwolony, halal)  
 halela - chwalić (wychwalać)  
-hali - pustka  
 hali - pusty  
 hali zi - spacja  
 halifa - kalif  
@@ -1340,28 +1362,26 @@ hande - ręka, dłoń
 hande di - ręczny  
 hande shaka - ramię (kończyna górna)  
 haos - chaos, nieporządek; wrzawa, zgiełk  
-harabu - rujnować, dewastwować, burzyć  
 harabu - zły, zrujnowany, zepsuty  
 harabu mahala - slums  
 haram - zabroniony (wzbroniony, nielegalny, haram, tabu)  
-harmoni - harmoniczny  
 harmoni - harmonia  
+harmoni di - harmoniczny  
 harnes - zaprzęc, zaprzęgać  
 has - specjalny, wyraźny, wyrazisty  
 has ta - różnica (specjalność)  
 hashish - haszysz  
 hata - aż do  
-hata - nawet  
+hata di - nawet  
 hatar - zagrożenie, niebezpieczeństwo  
 hatar di - niebezpieczny  
-hava - dmuchać  
 hava - wiatr  
 Havai - Hawaje  
 Havai nesi - Hawaje (archipelag hawajski)  
 Haye - Armenia  
 he - hę?, co?, pardon?  
 Helen - Grecja  
-Helen - gracki, helleński; Grek  
+Helen di - gracki, helleński; Grek  
 heli yum - hel  
 helis - helisa  
 helis fei gi - helikopter  
@@ -1437,7 +1457,6 @@ hushi - miły, przyjemny, uroczy
 ## I  
 
 ibri - hebrajski  
-ichi - chcieć (pragnąć)  
 ichi - wola, chęć  
 idea - idea, pomysł  
 idea di - pojęciowy  
@@ -1495,7 +1514,6 @@ Italia - Italia, Włochy
 ## J  
 
 ja - przyrostek dla wykonawcy  
-jaga - obudzić, budzić  
 jaga - przebudzony, przytomny  
 jain din - dźinizm, dżinizm  
 Jakarta - Dżakarta  
@@ -1551,11 +1569,9 @@ jinse - płeć
 jinse di - płciowy  
 jirafa - żyrafa  
 jiva - życie  
-jiva - żyć (żywy, żyjący)  
 joke - żart  
 joke ja - żartowniś, dowcipniś  
 jong - środkowy, centralny  
-jong - być wycentrowanym, być w środku  
 Jong Afrika Komun krati - Republika Środkowoafrykańska  
 jong di - centralny (środkowy)  
 jong fon - samogłoska  
@@ -1576,7 +1592,6 @@ jupe - spódnica
 Jupiter - Jowisz  
 jus - sok  
 jusha - zastrzyk  
-jusha - wstrzyknąć, wstrzykiwać  
 juste - tylko (precyzyjny, dokładny)  
 juste pau ja - snajper (strzelec wyborowy)  
 
@@ -1601,7 +1616,6 @@ kaguji - papier
 kaguji limon - lima (limonka)  
 kai - otwarty, niezamknięty  
 Kaiman nesi - Kajmany  
-kaka - defekować, srać  
 kaka - ekskrement, gówno  
 kakau - kakao  
 kala - czarny  
@@ -1679,8 +1693,8 @@ karibu ta - bliskość
 karim - hojność (szczodrość)  
 karim di - hojny (szczodry)  
 karite - masłosz Parka  
-karma ja - aktywny (włączony, uruchomiony)  
 karma ja - przyrostek dla wykonawcy  
+karma ja di - aktywny (włączony, uruchomiony)  
 karma loga - czasownik  
 Karnada - Karnataka  
 karnada basha - kannada  
@@ -1773,10 +1787,9 @@ klin - tendencja (być skłonnym)
 klon - klon, replika  
 klor - chlor  
 klube - klub  
-klus - zamknięty  
+klus di - zamknięty  
 kobalte - kobalt  
 koda - ogon  
-kode - kodować  
 kode - kod, szyfr  
 koka - koka  
 Koka Kola - kola (coca-cola)  
@@ -1831,7 +1844,6 @@ kosmo nave ja - kosmonauta
 koso - kaszel; kaszlnięcie  
 Kosovo - Kosowo  
 Kosta Rika - Kostaryka  
-koste - kosztować  
 koste - koszt, cena  
 koste di - kosztowny (drogi)  
 kote - płaszcz  
@@ -1849,7 +1861,7 @@ krim di - kryminalny, przestępczy
 krita - krzyknąć, krzyczeć  
 kriton - krypton  
 krizi - kryzys  
-krizi - kryzysowy  
+krizi di - kryzysowy  
 krokodil - krokodyl  
 krokro - żaba  
 krom yum - chrom  
@@ -1890,8 +1902,6 @@ kuri yum - kiur
 kursi - kszesło, fotel  
 kurva - wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
 kurva di - zakrzywiony  
-kush - położyć  
-kush - leżeć  
 kush loka - kuszetka (koja)  
 kushen - poduszka  
 Kuvaite - Kuwejt  
@@ -1917,7 +1927,6 @@ langan - poręcz (balustrada)
 Lanka - Sri Lanka  
 lanse - rzucić, rzucać, miotać, cisnąć, ciskać  
 lanse grafi - rzut (projekcja)  
-lanse grafi - wyświetlać  
 lanse she - pocisk  
 lantan - lantan  
 larva - larwa, czerw, gąsienica  
@@ -1925,7 +1934,7 @@ lashe - pozostawiać (pozostawić)
 lashe she - pozostałość (szczątek)  
 lasun - larwa, czerw, gąsienica  
 late - strona (bok)  
-late - z boku (na bok)  
+late di - z boku (na bok)  
 late di - poziomy (horyzontalny, boczny)  
 late jen - towarzysz (partner, kumpel)  
 Latin zi - alfabet łaciński, łacinka, alfabet rzymski  
@@ -1959,8 +1968,6 @@ lida lin - smycz (cugiel, lejc, wodza)
 Lietuva - Litwa  
 lietuva basha - litewski  
 lifafa - owinięcie (koperta, okładka)  
-lifafa - zawijać (zawinąć)  
-liga - stowarzyszać się (zrzeszać się)  
 liga - liga (stowarzyszenie)  
 ligu veze di - lekki  
 Lihtenstain - Liechtenstein  
@@ -1998,7 +2005,6 @@ lito yum - lit
 litre - litr  
 livermor yum - liwermor  
 loba - rzodkiewka  
-loga - mówić, rozmawiać  
 loga - słowo (mowa)  
 loga asal - etymologia  
 loga di - słowny (leksykalny)  
@@ -2085,7 +2091,6 @@ man gami - małżonek
 man raja - król  
 mana - znaczenie  
 manera - zachowanie (maniery, kultura)  
-manera - zachowywać się (działać)  
 manete - magnes  
 manete di - magnetyczny  
 mang - zajęty  
@@ -2123,8 +2128,8 @@ masaje - masaż
 masala - przyprawa  
 masala tika - tikka masala  
 masim - nabardziej, maksymalnie  
-masim - maksimum  
 masim di - maksymalny  
+masim she - maksimum  
 maska - maska, kamuflaż  
 masta - maszt  
 mata - śmierć  
@@ -2134,9 +2139,9 @@ mata ja - zabójca
 mate - materia, substancja  
 mate di - materialny  
 matras - materac  
-matur - osoba dorosła  
 matur - dorosły, dojrzały  
 matur fem - kobieta, dorosła samica  
+matur jen - osoba dorosła  
 matur man - mężczyzna, dorosły samiec  
 mau - kot  
 maya - Maya  
@@ -2151,7 +2156,7 @@ medan papi - mak polny
 mede - pomoc, wsparcie  
 mede ja - przyrostek dla wsperającego ideę  
 medi - środek  
-medi - średni  
+medi di - średni  
 medi dia - południe  
 medi fase - interfejs  
 medi noche - północ  
@@ -2167,8 +2172,8 @@ megi - chmura
 Mehiko - Meksyk  
 Mehiko siti - Meksyk  
 meitner yum - meitner  
-melodi - melodyczny  
 melodi - melodia  
+melodi di - melodyczny  
 melon - ogórek melon  
 membre - członek  
 meme - owca  
@@ -2253,7 +2258,6 @@ mishe gi - mikser, blender, robot kuchenny
 miskin - biedny, mizerny  
 Misri - Egipt  
 misri di - egipski  
-miti - spotkać  
 miti - spotkanie, zebranie  
 mitre - metr  
 mode - sposób (metoda, tryb)  
@@ -2330,6 +2334,7 @@ muzika ja - muzyk
 
 na - przy, z, na, w, u  
 na go - tu (tutaj, tam)  
+na jong - być wycentrowanym, być w środku  
 na ke - gdzie  
 na late - być obok  
 na lin - online (na linii, w sieci)  
@@ -2337,6 +2342,7 @@ na medi - między (wśród, pośród)
 na niche - pod (poniżej)  
 na nove - właśnie, dopiero co, ostatnio, niedawno  
 na poli mar - często  
+na pos - później (w przyszłości)  
 na re - znowu (ponownie)  
 na supra - nad  
 nabi - proroctwo  
@@ -2363,8 +2369,7 @@ nasi jen - ludzie (lud, ludność)
 nasi medi - międzynarodowy  
 nasi sim - nacjonalizm  
 nasi sim ja - nacjonalista  
-nasi sosi sim - nazizm  
-nasi sosi sim - narodowy socjalizm  
+nasi sosi sim - narodowy socjalizm (nazizm)  
 nasi sosi sim ja - nazista  
 natri - sód  
 nau - mózg  
@@ -2451,7 +2456,7 @@ Norfolke nesi - Norfolk
 Norge - Norwegia  
 norge basha - norweski  
 norma - norma, standard  
-norma - normalny, standardowy  
+norma di - normalny, standardowy  
 nos - nos  
 nos di - nosowy  
 nostalgia - nostalgia (tęsknota)  
@@ -2461,7 +2466,7 @@ note anjil - wiadomość, zawiadomienie, powiadomienie
 note buku - notatnik  
 note she - uwaga, obserwacja  
 nove - nowość  
-nove - nowy  
+nove di - nowy  
 nove ka - nowicjusz (nowa osoba)  
 Nove Kaledonia - Nowa Kaledonia  
 nove loga - neologizm  
@@ -2577,7 +2582,7 @@ parne - paproć
 parti - partia  
 parti ja - uczestnik  
 pas - minąć, mijać, przeminąć, przemijać  
-pas - przeszły, miniony  
+pas di - przeszły, miniony  
 pase - pokój  
 Pase Hai - Ocean Spokojny (Pacyfik)  
 pase hai bakalau - dorsz pacyficzny  
@@ -2710,9 +2715,8 @@ porte - port
 Portoriko - Portoryko (Puerto Rico)  
 Portugal - Portugalia  
 pos - konsekwencja, skutek  
-pos - następny (następujący)  
-pos - później (w przyszłości)  
 pos den - jutro  
+pos di - następny (następujący)  
 pos fikse - przyrostek (sufiks)  
 pos zaman - przyszłość  
 pospor - fosfor  
@@ -2760,10 +2764,9 @@ Qazaqe - Kazachstan
 
 ## R  
 
-radi - promieniować  
 radi - promień  
-radi - promieniowanie  
 radi geter - radio  
+radi karma - promieniowanie  
 radi metre gi - radoiometr  
 radi miser - nadajnik radiowy  
 radi yum - rad  
@@ -2844,14 +2847,11 @@ Roma - Rzym
 Roma Imperia - Imperium Rzymskie  
 roma kamil - rumian rzymski  
 Romania - Rumunia  
-romanse - kochać romantycznie  
 romanse - miłość romantyczna  
 romanse di - romantyczny  
 rose - rosa  
 roste - piec  
 roste pang - tost  
-rota - obrócić (kręcić)  
-rota - obrócić się (kręcić się)  
 rota lefte - przeciwnie do ruchu wskazówek zegara  
 rota raite - według ruchu wskazówek zegara  
 rota she - rotor, wirnik  
@@ -2901,7 +2901,6 @@ safran - szafran
 sagu - sago  
 Sahara Desha - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
 sahi - właściwy, poprawny  
-saide - polować (łowić)  
 saide - polowanie (łowienie)  
 saide ja - łowca (myśliwy)  
 saide yo peshe - łapać rybę  
@@ -3014,7 +3013,6 @@ serami - ceramika
 serami sing - houstonia  
 Serbia - Serbia  
 serpe - wąż  
-serve - służyć  
 serve - służba  
 serve ja - sługa  
 sesam - sezam  
@@ -3083,7 +3081,6 @@ shula kan - szkoła (instytucja)
 shula she - lekcja  
 shula shefe - dyrektor szkoły  
 shuli - naprawa  
-shuli - naprawić, naprawiać  
 shuli ja - naprawiacz  
 shuru - początek  
 shuru di - pierwszy, początkowy  
@@ -3294,7 +3291,6 @@ teleskope - teleskop
 telu yum - tellur  
 Telugu - telugu  
 tema - temat, motyw  
-tema - być o; dyskutować o  
 tema nam - tytuł (nagłówek)  
 tenesi yum - tenesyn, tennessine  
 tenis - tenis  
@@ -3385,7 +3381,6 @@ UDA di - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)
 uhu - płakać, łkać  
 Ukraina - Ukraina  
 ulul - wycie, skowyt  
-ulul - wyć  
 uma - koń  
 umami - mięsny (umami)  
 un - jeden (1)  
@@ -3529,7 +3524,6 @@ xenon - ksenon
 
 ## Y  
 
-ya - przyrostek dla miejsca  
 ya - tak  
 yake - jak (zwierzę)  
 yaki - około; przybliżony  

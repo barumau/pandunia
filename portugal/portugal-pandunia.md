@@ -37,7 +37,7 @@ ajuda (socorro, auxílio) - mede
 alaranjado - oranje rang  
 alcachofra - karchof  
 alcachofra-girassol (tupinambo) - masa mula sol hua  
-alcalino - kali  
+alcalino - kali di  
 alcaravia (cariz) - karavi  
 alcaçuz (regaliz) - alkasus  
 aldeia (vila) - chun  
@@ -115,7 +115,7 @@ astrónomo - astro nomi ja
 ataque - agresi  
 Atenas - Athina  
 aterro (lixão) - laji bagi  
-ativo - karma ja  
+ativo - karma ja di  
 ato (ação) - karma  
 até - hata  
 Austronésia - Austronesi  
@@ -266,11 +266,12 @@ cartografia - metre grafi suta
 Cartum - Hartum  
 carvalho - baluta  
 carvalho-roble - europa baluta  
+casa (lar) - dom  
 casca (concha) - kaske  
 cascalho - grave  
 castanho (marrom) - kafe rang  
 cavar (escavar) - fa kave  
-caçar - saide  
+caçar - fa saide  
 cebola - piaze  
 cem (100) - sento  
 cemitério - gabur bagi  
@@ -293,7 +294,7 @@ chave - chabi
 chavena (tigela de chá) - chai kupa  
 chefe - shefe  
 cheio - pul  
-cheirar - aroma  
+cheirar - fa aroma  
 cheiro - aroma  
 chibata - uma bichi  
 chicote - bichi  
@@ -411,7 +412,7 @@ danês - Danske
 darmstádio - darmestadi yum  
 de - ze  
 dedo - angul  
-deitar - kush  
+deitar - fa kush  
 deixar - lashe  
 demora (atraso, espera) - dele  
 dente-de-leão (taráxaco) - makan hua  
@@ -441,7 +442,7 @@ direito - haki
 direitos humanos - insan haki  
 diretor - shula shefe  
 disco - diske  
-discordar - alo rai  
+discordar - fa alo rai  
 disprósio - disprosi yum  
 distinto - alo fen di  
 diário - den loge  
@@ -475,13 +476,13 @@ elfo - elfe
 elo - sili tika  
 elogio - eu loga  
 em - na  
-embalar - lifafa  
+embalar - fa lifafa  
 emoticon (emoji) - emosi zi  
 emoçao - emosi  
 emprestar (pedir emprestado) - jeka  
 emprestar - jeka don  
 encarar (afrontar; vérsus) - verse  
-encontrar - miti  
+encontrar - fa miti  
 endereço - adres  
 enganar - fa truke  
 ensinar (lecionar) - gio  
@@ -528,7 +529,7 @@ esse (aquele) - go
 estaca - moka kane  
 estado - hal  
 estanho - estan  
-estar deitado (jazer) - kush  
+estar deitado (jazer) - be kush  
 estação (sazão) - mosim  
 este (leste) - dong  
 este - ni  
@@ -564,7 +565,7 @@ facção - shia
 fada - pari  
 fadiga - fatige  
 fala (palavras) - loga  
-falar - loga  
+falar - fa loga  
 farmacologia - dava she logi  
 farmácia (drogaria) - dava she kan  
 farol (baliza) - foto minar  
@@ -778,7 +779,6 @@ lama (lodo) - fan
 lama - lama  
 lantâno - lantan  
 lançador de foguetes - rokete lanse gi  
-lar (casa) - dom  
 laranja - oranje  
 lasanha - lazanya  
 lateral - late di  
@@ -938,7 +938,7 @@ moscovio - moskva yum
 motor - moto  
 mover - fa kino  
 Mover-se - be kino  
-moyen - medi  
+moyen - medi di  
 mudança climática - klima mute  
 mudar-se - be migra  
 muesli - musli  
@@ -949,7 +949,7 @@ muro (muralha) - mur
 máquina de escrever - kitabu gi  
 mármore - kalsi bilor  
 máscara - maska  
-máximo - masim  
+máximo - masim she  
 mãe - ma  
 mão - hande  
 mês - mes  
@@ -990,7 +990,7 @@ novato (neófito) - nove ka
 nove (9) - tisa  
 novidade - nove  
 novidade - nove ta  
-novo - nove  
+novo - nove di  
 Noé - Noe  
 nuvem - megi  
 náusea - retro gula sense  
@@ -1230,7 +1230,6 @@ raramente - nadir mar
 raro - nadir  
 raro - rare  
 rasgar - chira  
-rasgar - chira  
 rato - mushu  
 raça - rasa  
 raíz - mula  
@@ -1248,7 +1247,7 @@ remover - fa for
 remédio (medicamento) - dava she  
 Reno - Ren  
 reparador - shuli ja  
-reparar - shuli  
+reparar - fa shuli  
 reparo - shuli  
 repetir - fa re  
 repetição - re  
@@ -1426,7 +1425,7 @@ toxina - bio toksi
 trabalhador - gong ja  
 trabalhar - fa gong  
 trabalho - gong  
-trajar (vestir-se) - fuku  
+trajar (vestir-se) - fa fuku  
 tranca - kane sor  
 tranquilo (calmo) - shanti di  
 transcorrer - si dur  
@@ -1465,7 +1464,7 @@ Urano - Uran
 urra - ura  
 urso - baru  
 urânio - uran yum  
-usar - aplika  
+usar - fa aplika  
 
 ## V  
 
@@ -1508,10 +1507,10 @@ vinhedo - putau bagi
 vir - lai  
 virgem - virje  
 vitamina - vitamin  
-vivo - jiva  
+vivo - fa jiva  
 Vixnu - Vishnu  
 viúvo - vidou  
-voar - fei  
+voar - fa fei  
 vocabulário - loga jama  
 vogal - jong fon  
 voltar (regressar) - be retro  

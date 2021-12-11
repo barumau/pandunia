@@ -45,10 +45,9 @@ alkol di - alcoolique
 almari - placard  
 almas - diamant  
 alo - autre  
-alo - autrement  
+alo di - autrement  
 alo fen di - distinct  
 alo fon - allophone  
-alo rai - diverger (ne pas être d'accord)  
 alo rai - désaccord (différend)  
 alo romanse di - hétéroromantique (hétéromantique)  
 alo sekse di - hétérosexuel  
@@ -92,7 +91,6 @@ angar - ancre
 Angola - Angola  
 angul marke - empreinte digitale  
 angul pike - bout de doigt  
-anime - animer  
 anime - animation  
 anis - anis  
 anis araki - raki  
@@ -108,7 +106,6 @@ anus - anus
 anus di - anal  
 aple - pomme  
 aple sos - compote de pommes  
-aplika - appliquer  
 aplika - application  
 Apsni - Abkhazie  
 arabi - arabe  
@@ -118,7 +115,6 @@ arane fobi - arachnophobie
 arane nete - toile d'araignée (arantèle)  
 arbuza - pastèque  
 Arcah - Artsakh  
-area - aire (superficie)  
 area - espace (zone, région)  
 arena - sable  
 arena estade - arène  
@@ -132,9 +128,7 @@ arka chati - voûte
 arka ja - archer  
 arka suta - tire à l'arc  
 arme - arme  
-aroma - sentir qqch  
 aroma - odeur  
-aroma - sentir qqch (avoir l'odeur de qqch)  
 arsen yum - arsenic  
 arte ja - artiste  
 Artika - arctique  
@@ -211,7 +205,6 @@ banka shefe - banquier
 bano - tableau (panneau)  
 bano gem - jeu de société  
 banya - bain  
-banya - se baigner  
 banya kamar - salle de bains  
 bara - bloquer  
 bara mur - barrière  
@@ -222,7 +215,6 @@ barde - barbe
 bari fon - accent  
 bari metal - métaux lourds  
 bari yum - baryum  
-barka - féliciter  
 barka - Félicitations !  
 Barti - Inde  
 barti - indien  
@@ -255,6 +247,7 @@ be hapu - convenir (être approprié)
 be in - entrer  
 be in bum - imploser  
 be kino - se mouvoir  
+be kush - être couché  
 be mal - appartenir à  
 be migra - s'installer (déménager)  
 be pute - pourrir (se décomposer)  
@@ -349,7 +342,6 @@ chin ma - grand-mère
 chin pa - grand-père  
 chini - porcelaine  
 chira - déchirer  
-chira - déchirer  
 chize - fromage  
 choklate - chocolat  
 choklate kane - tablette de chocolat  
@@ -412,8 +404,7 @@ dobe - brique
 dokumen - document (dossier)  
 dokumen filme - documentaire  
 dolfin - dauphin  
-dom - maison  
-dom - foyer (domicile)  
+dom - maison (foyer, domicile)  
 dom desha - patrie  
 dom di - domestique  
 dom zeze - mouche  
@@ -475,9 +466,16 @@ fa - faire
 fa agresi - attaquer (agresser)  
 fa ajibu - éblouir (étonner, stupéfier, surprendre)  
 fa alo - changer  
+fa alo rai - diverger (ne pas être d'accord)  
 fa an galta - déboguer (débugger)  
+fa anime - animer  
+fa aplika - appliquer  
 fa argu - arguer  
+fa aroma - sentir qqch  
+fa aroma - sentir qqch (avoir l'odeur de qqch)  
 fa asar - effectuer  
+fa banya - se baigner  
+fa barka - féliciter  
 fa bina - construire  
 fa chuli - traiter  
 fa daka - couvrir  
@@ -489,10 +487,13 @@ fa dur - passer
 fa dus forma - défigurer  
 fa estude - étudier  
 fa fatu - punir  
+fa fei - voler  
 fa fen gata - analyser  
+fa fin - finir  
 fa fobi - effrayer  
 fa forma - former  
 fa fuku - habiller (vêtir)  
+fa fuku - porter (s’habiller)  
 fa glu - coller  
 fa gong - travailler  
 fa hapu - adapter (ajuster)  
@@ -500,11 +501,16 @@ fa hisabu - calculer
 fa hogo - brûler  
 fa in klus - inclure  
 fa jene - donner naissance (procréer, engendrer, accoucher)  
+fa jiva - vivant  
 fa karga - charger  
 fa karma - activer (allumer, mettre en marche, déclencher)  
 fa kave - creuser  
 fa kino - mouvoir (bouger)  
+fa kush - coucher  
 fa lai - apporter  
+fa lanse grafi - projeter (donner)  
+fa lifafa - envelopper (emballer)  
+fa loga - parler  
 fa loka - mettre (placer)  
 fa maf - pardonner  
 fa memo - se rappeler (se remémorer)  
@@ -523,10 +529,12 @@ fa pul - remplir
 fa pul bon - perfectionner (parfaire)  
 fa re - répéter  
 fa retro - remettre  
+fa saide - chasser  
 fa sel - conseiller  
 fa shipi - mouiller  
 fa shopi - acheter  
 fa shula - apprendre (étudier)  
+fa shuli - réparer  
 fa sing foto - étinceler  
 fa sir - cacher  
 fa sual - demander (poser un question; est-ce que)  
@@ -545,6 +553,7 @@ fan - boue (fange, bourbe, gadoue)
 fan defa bano - garde-boue (aile)  
 fan topo - marécage (marais)  
 fase - face (facette)  
+fase area - aire (superficie)  
 fase tele - profond  
 fasil - facile  
 fate - fait  
@@ -554,14 +563,12 @@ fatu di - pénal
 fatura - addition (facture)  
 faze - phase  
 fei - vol  
-fei - voler  
 fei mushu - chauve-souris  
 fen - part  
 fen gata - analyse  
 fermi yum - fermium  
 fero - fer  
 filsofi - philosophie  
-fin - finir  
 fin di - fini  
 fiorde - fiord  
 fito - plante (végétal)  
@@ -595,7 +602,6 @@ frute - fruit
 frute bagi - verger  
 fufu - pâte (pulpe, foufou)  
 fuku - vêtements  
-fuku - porter (s’habiller)  
 fungu frute - champignon  
 fungu nete - mycélium  
 fute bol - football  
@@ -715,7 +721,7 @@ hapu - approprié (adapté, convenable, opportun)
 harabu mahala - bidonville  
 Hartum - Khartoum  
 hata - jusque (jusqu’à)  
-hata - voire (même)  
+hata di - voire (même)  
 hatar - danger  
 he - hein?  
 heli yum - hélium  
@@ -809,7 +815,6 @@ jinse - sexe
 jinse logi - études de genre  
 jirafa - giraffe  
 jiva - vie  
-jiva - vivant  
 jong - centre  
 jong fon - voyelle  
 jong shula kan - école secondaire  
@@ -841,7 +846,7 @@ kalam - plume
 kalam sui - encre  
 kalenda - calendrier  
 kali - base (alcali)  
-kali - basique  
+kali di - basique  
 kali guste - amer  
 kali oranje - orange amère  
 kali yum - potassium  
@@ -887,8 +892,8 @@ Karibe - Caraïbes
 karim - générosité (charité)  
 karim di - généreux  
 karma - acte (action)  
-karma ja - actif  
 karma ja - agent (faiseur)  
+karma ja di - actif  
 karma loga - verbe  
 karote - carotte  
 karse - rêche (rugueux, gros)  
@@ -976,8 +981,6 @@ kupre - cuivre
 kurban - sacrifice  
 kuri yum - curium  
 kurva - courbe  
-kush - coucher  
-kush - être couché  
 kush loka - couch (couchette)  
 
 ## L  
@@ -996,7 +999,6 @@ lama - lama (enseignant religieux du bouddhisme tibétain)
 lampa - lampe  
 lana - malédiccion  
 lanse grafi - projection  
-lanse grafi - projeter (donner)  
 lanse she - projectile  
 lantan - lanthane  
 lashe - laisser  
@@ -1017,7 +1019,6 @@ letus - laitue
 liama - lama  
 libele - libellule  
 lida ja - dirigeant (leader)  
-lifafa - envelopper (emballer)  
 liga - ligue (alliance)  
 liga di sanduku - Arche d'Alliance  
 ligu veze di - léger  
@@ -1040,7 +1041,6 @@ liste - liste
 lito yum - lithium  
 litre - litre  
 livermor yum - livermorium  
-loga - parler  
 loga - parole (mots)  
 loga asal - étymologie  
 loga di - lexical  
@@ -1104,20 +1104,20 @@ masa - masse
 masa mula - tubercule  
 masa mula sol hua - topinambour  
 masala - épices  
-masim - maximum  
+masim she - maximum  
 maska - masque  
 masta - mât  
 mata badan - cadavre (corps)  
 mata badan fili - nécrophilie  
 mate - matière  
 mate lona - matérialisme  
-matur - adulte  
+matur jen - adulte  
 mau - chat  
 meche - match  
 medan - place  
 medan papi - coquelicot  
 mede - aide (secours)  
-medi - medio  
+medi di - medio  
 medi dia - midi  
 medi noche - minuit  
 medu - miel  
@@ -1191,6 +1191,7 @@ na go - là (y)
 na ke - où  
 na lin - en ligne  
 na ni - ici  
+na pos - ensuite (après, plus tard, ir a, en el futuro)  
 nadir - rare  
 nadir mar - rarement  
 najis - pollution  
@@ -1244,7 +1245,7 @@ nong nomi - agronomie
 norde - nord  
 nostalgia - nostalgie  
 note she - note  
-nove - nouveau  
+nove di - nouveau  
 nove jene di - nouveau-né  
 nove ka - néophyte  
 nove loga - néologisme  
@@ -1372,7 +1373,6 @@ porei - poireau
 porte - porte  
 Portoriko - Porto Rico  
 portoriko jen - Portoricain  
-pos - ensuite (après, plus tard, ir a, en el futuro)  
 pos den - demain  
 pos di - postérieur  
 pos fikse - suffixe  
@@ -1470,7 +1470,6 @@ sabe - savoir (connaître)
 safar kegu ja - touriste  
 sagu - sagoutier  
 sahi - correct (juste)  
-saide - chasser  
 sake - sac  
 sal - sel  
 salam - salut (salam)  
@@ -1557,7 +1556,6 @@ shula kan - école (collège)
 shula she - leçon  
 shula shefe - directeur (principal)  
 shuli - réparation  
-shuli - réparer  
 shuli ja - réparateur  
 shuru - début (commencement)  
 si - être  

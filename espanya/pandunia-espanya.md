@@ -34,7 +34,6 @@ ais hoki - hockey sobre hielo
 ais krem - helado  
 Aiti - Haití  
 ajibu - maravilla  
-ajibu - asombro  
 ajibu di - maravilloso (asombroso)  
 ajila - meter prisa  
 akare - garrapata (ácaro)  
@@ -49,11 +48,10 @@ alkol di - alcohólico
 almari - armario  
 almas - diamante  
 alo - otro  
-alo - sino  
+alo di - sino  
 alo fen di - discreto  
 alo fon - alófono  
 alo nam - es decir (en otras palabras)  
-alo rai - disentir (no estar de acuerdo)  
 alo rai - desacuerdo  
 alo romanse di - heterorromántico  
 alo sekse di - heterosexual  
@@ -109,7 +107,6 @@ angul - dedo
 angul marke - huella digital  
 angul pike - yema del dedo  
 angul ring - anillo (sortija)  
-anime - animar  
 anime - animación (dibujo animado)  
 anis - anís  
 anjil - mensaje  
@@ -124,7 +121,6 @@ anus - ano
 anus di - anal  
 aple - manzana  
 aple sos - compota de manzanas  
-aplika - emplear (aplicar)  
 aplika - aplicación  
 Apsni - abjazia  
 arabi - árabe  
@@ -135,7 +131,6 @@ arane fobi - aracnofobia
 arane nete - telaraña  
 arbuza - sandía (patilla)  
 Arcah - Artsaj  
-area - área (superficie)  
 area - área (zona, región)  
 arena - arena  
 arena topo - desierto  
@@ -148,9 +143,7 @@ arka chati - bóveda
 arka ja - arquero  
 arka suta - tiro con arco  
 arme - arma  
-aroma - oler (olfatear)  
 aroma - olor (aroma)  
-aroma - oler (apestar)  
 aroma melon - melón coreano  
 arsen yum - arsénico  
 arte ja - artista  
@@ -238,7 +231,6 @@ bambu - bambú
 bamia - ocra  
 banana - plátano (banana)  
 banda - banda  
-bande - atar (amarrar)  
 bande - banda (cinta)  
 bandera - bandera  
 bangla basha - idioma bengalí  
@@ -248,7 +240,6 @@ banka kan - banco
 banka shefe - banquero  
 bano gem - juego de mesa  
 banya - bañera  
-banya - bañarse  
 banya kamar - baño  
 bar - bar  
 bara - barrar (bloquear, obstruir)  
@@ -260,7 +251,6 @@ barde - barba
 bari fon - acento  
 bari metal - metal pesado  
 bari yum - bario  
-barka - felicitar  
 barka - ¡Felicitaciones!  
 Barti - India  
 barti - indio (hindú)  
@@ -298,7 +288,6 @@ be an zai - desaparecer
 be bio mute - fermentar  
 be boi - nadar (flotar)  
 be boli - hervirse (ser cocida)  
-be bum - explotar (estallar)  
 be bum - explosionar  
 be chen - preceder (anteceder)  
 be dai - crecer (aumentar, hincharse)  
@@ -327,6 +316,7 @@ be kai - abirse
 be karibu - axproximarse  
 be kino - moverse  
 be krus - cruzar  
+be kush - acostarse (echarse, tenderse, tumbarse)  
 be loka - encontrarse (estar, situarse)  
 be mal - ser de  
 be mata - morirse  
@@ -338,6 +328,7 @@ be raste - crecer
 be razon - tener sentido  
 be reste - quedarse  
 be retro - volver  
+be rota - girar (rotar)  
 be rupa - parecer  
 be rute galte - apartarse (desviarse)  
 be sabi vol - preguntarse  
@@ -498,7 +489,6 @@ chaku - cuchillo
 chamacha - cuchara  
 champion - campeón  
 chanse - oportunidad (chance)  
-chanta - cantar  
 chanta - canción  
 chanta grupe - coro  
 chapati - chapati (pan sin levadura)  
@@ -506,9 +496,9 @@ chape - grabado (sello, estampando)
 charme - encanto  
 chati - techo (tejado)  
 cheke - revisar (chequear, examinar, inspeccionar)  
-chen - previo (anterior)  
 chen - más temprano (antes, haber, en el pasado)  
 chen den - ayer  
+chen di - previo (anterior)  
 chen ding - predeterminado  
 chen fikse - prefijo  
 chen gar - presuponer  
@@ -531,11 +521,9 @@ chin brus ben - primo
 chin ma - abuela  
 chin pa - abuelo  
 chinchila - chinchilla  
-ching - pedir (invitar; por favor)  
 ching lai - invitar  
 chini - porcelana  
 Chipe - Albania  
-chira - rasgar (romper)  
 chira - rasgar (romper)  
 chira chira di - andrajoso  
 chize - queso  
@@ -554,7 +542,6 @@ chun - aldea
 chupu - chupar (succionar)  
 chuti - escapatoria  
 chuti mun - salida  
-chuze - elegir (escoger, seleccionar)  
 chuze - elección  
 chuze she - opción  
 chuze yo gol - destinar  
@@ -618,7 +605,6 @@ dava she logi - farmacologia
 dava sui - poción  
 debil - débil  
 defa - defensa  
-defa - defender  
 defa bano - escudo  
 defa ja - defensor  
 defa kaske - armadura  
@@ -683,7 +669,6 @@ dokumen sanduku - carpeta
 dolar - dolar  
 dolfin - delfín  
 dom - casa (hogar, residencia)  
-dom - hogar  
 dom desha - patria  
 dom di - doméstico (domesticado)  
 dom zeze - mosco  
@@ -719,7 +704,6 @@ du mar - dos veces
 du romanse di - birromántico  
 du sekse di - bisexual  
 du she sim - dualismo  
-dua - rezar (orar)  
 dua - rezo (oración)  
 dubna yum - dubnio  
 dudu - insecto  
@@ -786,7 +770,6 @@ erbi yum - erbio
 Eris - Eris (planeta enano)  
 Eritra - Eritrea  
 esai - ensayo (redacción)  
-eskale - escalar  
 eskale - escalera  
 eskale tana - enredadera  
 eskandi yum - escandio  
@@ -829,50 +812,68 @@ fa - hacer
 fa achar - encurtir  
 fa ajibu - asombrar  
 fa alo - cambiar (demudar)  
+fa alo rai - disentir (no estar de acuerdo)  
 fa amen - confirmar  
 fa an galta - depurar  
 fa an zai - quitar (eliminar, borrar)  
+fa anime - animar  
+fa aplika - emplear (aplicar)  
 fa argu - argüir  
+fa aroma - oler (olfatear)  
+fa aroma - oler (apestar)  
 fa asar - efectuar  
 fa auto - personalizar  
 fa avar - dañar  
+fa bande - atar (amarrar)  
+fa banya - bañarse  
+fa barka - felicitar  
 fa baze - fundar (basar)  
 fa bina - construir (edificar)  
 fa biznes lona - negociar  
 fa budi - darse cuenta (notar)  
+fa chanta - cantar  
 fa chape - imprimir  
+fa ching - pedir (invitar; por favor)  
 fa chori - robar (hurtar)  
 fa chuli - tratar (llevar, manejar, lidiar, procesar)  
 fa chuti - salir (irse)  
+fa chuze - elegir (escoger, seleccionar)  
 fa daka - cubrir (tapar)  
 fa dalil - probar (demonstrar, comprobar)  
 fa dante - morder  
+fa defa - defender  
 fa dika - apuntar  
 fa ding - determinar (establecer, definir)  
 fa dom - alojar (hospedar)  
 fa dosil - domar (amansar)  
 fa dosil jene - domesticar (cultivate)  
+fa dua - rezar (orar)  
 fa duka - entristecer (poner triste)  
 fa dur - pasar (transcurrir)  
 fa dus forma - desfigurar  
 fa dus nam - insultar (ofender)  
 fa english kitabu - anglicanizar  
+fa eskale - escalar  
 fa eskulte - esculpir  
 fa estude - estudiar (examinar)  
 fa fantazi - imaginar (fantasear)  
 fa fatu - castigar  
+fa fei - volar  
 fa fen - dividir (repartir)  
 fa fen do du - reducir a la mitad (dividir en dos)  
 fa fen gata - analizar (disecar)  
 fa festa - celebrar (festejar)  
+fa fikir - pensar  
 fa fikse - fijar (pegar, asegurar)  
 fa fili - gustarse (querer)  
+fa fin - terminar (acabar)  
 fa fobi - asustar (atemorizar)  
 fa fokus - concentración  
 fa fon - pronunciar (articular)  
 fa for - quitar (remover)  
 fa forma - formar  
 fa fuku - vestir  
+fa fuku - llevar (verstirse)  
 fa galte - errar (cometer un error)  
 fa gami - casar  
 fa gan - secar  
@@ -883,23 +884,31 @@ fa glu - pegar
 fa gol - lograr (llegar)  
 fa gola - rodear (cirundar)  
 fa gong - trabajar  
+fa grafi - dibujar (trazar)  
 fa guste - notar el sabor  
 fa halal - permitir (dejar)  
 fa halte - parar (detener)  
+fa harabu - arruinar (destruir, devastar, asolar)  
 fa haram - prohibir  
 fa has - diferenciar (distinguir)  
+fa hava - soplar (echar)  
 fa hen - odiar  
 fa hisabu - calcular  
 fa hogo - quemar  
+fa ichi - querer (disponer)  
 fa in klus - incluir  
+fa jaga - despertar  
 fa jama - recoger (juntar, reunir, acumular, recolectar, montar)  
 fa jang - pelear  
 fa javabu - responder (contestar)  
 fa jela - encarcelar (aprisionar)  
 fa jene - dar a luz (enngendrar, parir, procrear)  
+fa jiva - vivo (lleno de vida)  
 fa jong - centrar (concentrar)  
 fa jude - juzgar  
+fa jusha - inyectar  
 fa kai - abrir  
+fa kaka - defecar  
 fa kancha dake - vidriar (glasear)  
 fa karga - cargar  
 fa kata - relatar (narrar)  
@@ -909,25 +918,35 @@ fa kino - mudar (mover, transferir, traspasar, trasladar, estimular, inspirar)
 fa klar - aclarar (clarificar)  
 fa klas - clasificar  
 fa klon - clon  
+fa kode - codificar (cifrar)  
 fa koloni - colonizar  
 fa komputa - calcular (computar)  
 fa komun - compartir (tener en común)  
 fa kon sabe - comunicar (informar)  
 fa kopi - copiar  
+fa koste - costar  
 fa krus fikse - crucificar  
 fa kung - perforar (agujerar)  
+fa kush - acostar (poner)  
 fa lai - traer  
+fa lanse grafi - proyectar  
 fa Latin kitabu - romanizar  
 fa lenshi - practicar (ensayar, ejercitar)  
 fa libu - erigir (montar, armar)  
+fa lifafa - envolver  
+fa liga - asociar  
 fa linke - conectar (empalmar, enlazar, vincular)  
+fa loga - decir (hablar)  
 fa loka - colocar (poner, ubicar)  
 fa lona - debatir (discutir)  
 fa long - alargar  
 fa maf - perdonar (disculpar)  
 fa mal - poseer (tener, ser dueño de)  
+fa manera - comportarse (portarse)  
+fa mantra - salmodiar  
 fa marche - caminar (marchar, andar)  
 fa marke - marcar  
+fa masaje - amasar (masajear)  
 fa mata - matar (morir, asesinar)  
 fa meche - competir  
 fa mede - ayudar (asistar)  
@@ -936,6 +955,7 @@ fa mestre - dominar
 fa migra - migrar (emigrar, tralsadar)  
 fa min rai - subestimar  
 fa ming - iluminar  
+fa miti - encontrar  
 fa model - modelo  
 fa mol - moler (pulverizar)  
 fa multi - multiplicar  
@@ -977,6 +997,7 @@ fa poze - hacer posar (plantar)
 fa presa - prensar (oprimir)  
 fa pul - llenar  
 fa pul bon - perfeccionar  
+fa radi - radiar (emitir)  
 fa rai - opinar  
 fa ratibu - ordenar (arreglar)  
 fa re - repetir  
@@ -987,10 +1008,13 @@ fa retro - retornar
 fa rezerve - reservar  
 fa rol - actuar (hacer un papel)  
 fa rolo - liar (enrollar)  
+fa romanse - amar románticamente  
+fa rota - hace girar (dar vueltas)  
 fa sabu - causar  
 fa safa - limpiar  
 fa safar - viajar  
 fa sahi - corregir  
+fa saide - cazar (pescar)  
 fa salam - saludar  
 fa sam rai - acordar  
 fa sam sifa - simular  
@@ -998,6 +1022,7 @@ fa sana - producir (hacer, preparar)
 fa sekur - proteger (asegurar, guardar)  
 fa sel - aconsejar  
 fa sense - sentir (detectar)  
+fa serve - servir  
 fa sharti - espicificar (estipular)  
 fa shipi - mojar  
 fa shite - cagar  
@@ -1007,6 +1032,7 @@ fa shopi - comprar
 fa shou - demostrar  
 fa shukur - agradecer  
 fa shula - aprender (estudiar)  
+fa shuli - reparar (arreglar)  
 fa shuru - comenzar (iniciar, empezar)  
 fa side - sentar  
 fa sifa - definir  
@@ -1026,12 +1052,14 @@ fa tal - bajar
 fa tapa - taponar  
 fa tela - tejer  
 fa tele fon - telefonear  
+fa tema - tratar de  
 fa tercha - inclinar  
 fa tese - argumentar (alegar)  
 fa teste - intentar (probar)  
 fa transe - transitar (atravesar)  
 fa truke - engañar  
 fa turbe - molestar (perturber)  
+fa ulul - aullar  
 fa un she - unir  
 fa vai - expulsar (exceptuar, excepto)  
 fa vai kave - excavar  
@@ -1057,10 +1085,11 @@ fan defa bano - guarda-barros (aleta)
 fan di - embarrado (enlodado)  
 fan topo - ciénaga (pantano)  
 fantazi - imaginación (fantasía)  
-fantazi - imaginario (fantástico)  
+fantazi di - imaginario (fantástico)  
 fantom - fantasma  
 farsi - farsi  
 fase - faz (faceta)  
+fase area - área (superficie)  
 fase tele - profundo (hondo)  
 fase tele ta - superficial (poco profundo)  
 fasha - tira (faja, vendaje, cinta)  
@@ -1080,7 +1109,6 @@ fatura - cuenta (factura)
 faze - etapa (fase)  
 febre - fiebrie (calentura)  
 fei - vuelo  
-fei - volar  
 fei gi - aeroplano  
 fei mushu - murciélago  
 fem - mujer (hembra)  
@@ -1099,7 +1127,6 @@ festa - celebración (fiesta)
 festa den - día festivo (feriado)  
 figur - representación (figura)  
 Fiji - Fiji  
-fikir - pensar  
 fikir - idea (pensamiento, reflexión)  
 fikse - accesorio (afijo)  
 fili - attracción (-filia)  
@@ -1112,7 +1139,6 @@ filsofi di - filosófico
 filsofi ja - filósofo  
 filtre - filtro  
 fin - fin (el final)  
-fin - terminar (acabar)  
 fin - ya (acción completado)  
 fin me - final (último)  
 fine - fino (delgado, angosto, estrecho, delicado)  
@@ -1122,8 +1148,8 @@ fito - planta (vegetal, vegetación)
 fito logi - botánica  
 fito yam sim ja - vegetariano  
 fizika - física  
-fizika ja - físico (científico)  
 fizika gi - hardware (soporte físico)  
+fizika ja - físico (científico)  
 fizika suta - física  
 flam - inflamación  
 fleche - flecha  
@@ -1175,7 +1201,6 @@ fufu - polpa
 fui - puaj  
 fuka - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuku - ropa (vestimenta)  
-fuku - llevar (verstirse)  
 fuku di - vestido (llevando ropa)  
 fuku vashi gi - lavadora  
 fun - polvo  
@@ -1256,7 +1281,7 @@ gati - duro
 gati mate - sólido  
 gati mate di - rígido (sólido)  
 gau - alto (parte de arriba)  
-gau - alto  
+gau di - alto  
 gau ta - altura (altitud)  
 gau tal - vertical  
 gau tal move - inclinar  
@@ -1330,13 +1355,12 @@ goro - cerdo (puerco)
 goro nama - carne de cerdo  
 goton - algodón  
 grafi - imagen (gráfico, dibujo)  
-grafi - dibujar (trazar)  
 grafi buku - libro de cuentos ilustrado  
 grafi chuli - procesamiento de imágenes  
 grafi di - gráfico (pictórico, ilustrado)  
 grafi ja - ilustrador  
-grafi kata - historieta (caricaturas)  
 grafi karte - tarjeta de gráfica  
+grafi kata - historieta (caricaturas)  
 grafi lanse gi - proyector  
 grafi rapide ta - tasa de fotogramas  
 gram - gramo (g)  
@@ -1404,7 +1428,6 @@ hal - estado (condición)
 halal - permitido (admisible)  
 halal liste - lista blanca  
 halela - elogiar (alabar, exaltar)  
-hali - espacio (separación)  
 hali - vacío (desocupado)  
 hali zi - espacio (texto)  
 halifa - califa  
@@ -1423,30 +1446,28 @@ hande di - manual
 hande shaka - brazo  
 haos - caos (desorden)  
 hapu - apropriado (apto, oportuno)  
-harabu - arruinar (destruir, devastar, asolar)  
 harabu - arruinado (devastado, asolado)  
 harabu mahala - barrio pobre  
 haram - prohibido (tabú)  
 haram liste - lista negra  
-harmoni - armonioso  
 harmoni - armonía  
+harmoni di - armonioso  
 harnes - arnés (arreos, jaeces)  
 Hartum - Jartum  
 has - especial (diferenciado, distinto)  
 has ta - especialización (distinción)  
 hashish - hachís  
 hata - hasta  
-hata - hasta (también)  
+hata di - hasta (también)  
 hatar - peligro  
 hatar di - peligroso  
-hava - soplar (echar)  
 hava - viento  
 Havai - Hawái  
 Havai nesi - archipiélago de Hawái  
 Haye - Armenia  
 he - cómo? (eh?)  
 Helen - Grecia  
-Helen - griego (helénico)  
+Helen di - griego (helénico)  
 heli yum - helio  
 helis - espiral (hélice)  
 helis babul - acacia de copa plana  
@@ -1530,7 +1551,6 @@ hushi - cómodo (lujoso)
 ## I  
 
 ibri - hebreo  
-ichi - querer (disponer)  
 ichi - voluntad  
 idea - idea (noción, concepto)  
 idea di - conceptual  
@@ -1592,7 +1612,6 @@ Italia - Italia
 ## J  
 
 ja - hacedor (perpetrador)  
-jaga - despertar  
 jaga - despierto  
 jain din - jainismo  
 jake - chaqueta  
@@ -1652,11 +1671,9 @@ jini - espíritu (genio)
 jinse - sexo (género)  
 jirafa - jirafa  
 jiva - vida  
-jiva - vivo (lleno de vida)  
 joke - broma (chiste)  
 joke ja - bromista (chistoso)  
 jong - centro  
-jong - centrarse (en el centro de)  
 Jong Afrika Komun krati - República Centroafricana  
 jong di - central  
 jong fon - vocal  
@@ -1678,7 +1695,6 @@ jupe - falda
 Jupiter - Jupiter  
 jus - jugo (zumo)  
 jusha - inyección  
-jusha - inyectar  
 juste - exacto (preciso)  
 juste pau ja - francotirador  
 
@@ -1703,7 +1719,6 @@ kaguji - papel
 kaguji limon - limero  
 kai - abierto  
 Kaiman nesi - islas Caimán  
-kaka - defecar  
 kaka - caca  
 kakau - cacao  
 kala - negro  
@@ -1712,7 +1727,7 @@ kalam - bolígrafo
 kalam sui - tinta  
 kalenda - calendario  
 kali - base (álcali)  
-kali - alcalino  
+kali di - alcalino  
 kali guste - amargo  
 kali melon - melón amargo  
 kali oranje - naranjo amargo  
@@ -1783,8 +1798,8 @@ karim - generosidad (caridad)
 karim di - generoso (dadivoso, caritativo)  
 karite - karité  
 karma - acto (acción)  
-karma ja - activo  
 karma ja - actor (hacedor, perpetrador, agente)  
+karma ja di - activo  
 karma loga - verbo  
 Karnada - Karnataka  
 karnada basha - cararés  
@@ -1882,7 +1897,6 @@ klor - cloro
 klube - club  
 kobalte - cobalto  
 koda - cola (rabo, coda)  
-kode - codificar (cifrar)  
 kode - código (cifra)  
 koka - coca  
 koko - pollo  
@@ -1938,7 +1952,6 @@ kosmo nave ja - cosmonauta
 koso - tos  
 Kosovo - Kosovo  
 Kosta Rika - Costa Rica  
-koste - costar  
 koste - precio (coste)  
 kote - abrigo (chaqueta)  
 Kote Da Ivar - Costa de Marfil  
@@ -1953,7 +1966,7 @@ krim di - criminal
 krita - gritar  
 kriton - criptón (kriptón)  
 krizi - crisis  
-krizi - crítico (fundamental)  
+krizi di - crítico (fundamental)  
 krokodil - crocodilio  
 krokro - rana  
 krom yum - cromo  
@@ -1993,8 +2006,6 @@ kuri yum - curio
 kursi - silla  
 kurva - curva  
 kurva di - curvo  
-kush - acostar (poner)  
-kush - acostarse (echarse, tenderse, tumbarse)  
 kushen - almohada  
 Kuvaite - Kuwait  
 
@@ -2021,7 +2032,6 @@ langan - barandilla (pasamanos)
 Lanka - Sri Lanka  
 lanse - tirar (lanzar, echar, arrojar, aventar)  
 lanse grafi - proyección  
-lanse grafi - proyectar  
 lanse she - proyectil (misil)  
 lantan - lantano  
 larva - larva  
@@ -2029,7 +2039,7 @@ lashe - dejar
 lashe she - vestigio (sobrante, residuo)  
 lasun - ajo  
 late - lado (flanco)  
-late - de lado  
+late di - de lado  
 late di - lateral (horizontal)  
 late jen - compañero (compinche)  
 Latin zi - alfabeto latino  
@@ -2064,8 +2074,6 @@ lida lin - correa (rein)
 Lietuva - Lituania  
 lietuva basha - lituano  
 lifafa - envoltura  
-lifafa - envolver  
-liga - asociar  
 liga - liga (alianza, federación)  
 liga di sanduku - arca de la Alianza  
 ligu - leve  
@@ -2105,7 +2113,6 @@ lito yum - litio
 litre - litro  
 livermor yum - livermorio  
 loba - rábano  
-loga - decir (hablar)  
 loga - habla (palabras)  
 loga asal - etimología  
 loga di - léxico  
@@ -2190,7 +2197,6 @@ man gami - esposo
 man raja - rey  
 mana - significado (acepción)  
 manera - comportamiento (conducta)  
-manera - comportarse (portarse)  
 manete - imán  
 manete di - magnético  
 mang - ocupado (atareado)  
@@ -2203,7 +2209,6 @@ Manin nesi - Isla de Man
 manioka - yuca (mandioca)  
 manioka fufu - tapioca  
 mantol - capa (manto)  
-mantra - salmodiar  
 mantra - mantra  
 mantu - panecillos al vapor (mantou)  
 mar - vez  
@@ -2228,13 +2233,12 @@ mas ka bas - demasiado
 masa - masa (trozo, pedazo)  
 masa mula - tubérculo  
 masa mula sol hua - tupinambo (pataca, alcachofa de Jerusalén)  
-masaje - amasar (masajear)  
 masaje - masaje  
 masala - especia  
 masala tika - tikka masala  
 masim - lo más  
-masim - máximo  
 masim di - máximo  
+masim she - máximo  
 maska - máscara  
 masta - mástil  
 mata - muerte (fallecimiento)  
@@ -2246,9 +2250,9 @@ mate - sustancia (materia)
 mate di - material  
 mate lona - materialismo  
 matras - colchón  
-matur - adulto  
 matur - maduro (adulto, curado)  
 matur fem - mujer (señora)  
+matur jen - adulto  
 matur man - hombre (señor)  
 mau - gato  
 maya - maya  
@@ -2264,7 +2268,7 @@ medan papi - amapola silvestre
 mede - ayuda (socorro, auxilio, asistencia)  
 mede ja - proponente (defensor)  
 medi - medio  
-medi - medio (mediano)  
+medi di - medio (mediano)  
 medi dia - mediodía  
 medi gi - medio (instrumento)  
 medi noche - medianoche  
@@ -2278,8 +2282,8 @@ megi - nube
 Mehiko - México  
 Mehiko siti - Ciudad de México  
 meitner yum - meitnerio  
-melodi - melodioso  
 melodi - melodía  
+melodi di - melodioso  
 melon - melón  
 membre - miembro (componente)  
 meme - oveja  
@@ -2369,7 +2373,6 @@ mishe gi - batidora (licuadora, mezcladora)
 miskin - pobre (miserable)  
 Misri - Egipto  
 misri di - egipcio  
-miti - encontrar  
 miti - reunión (junta, mitin)  
 mitre - metro  
 mode - modo (manera, forma)  
@@ -2444,6 +2447,7 @@ muzika ja - músico
 na - en (a)  
 na go - allí (allá)  
 na in - dentro  
+na jong - centrarse (en el centro de)  
 na ke - dónde  
 na late - estar al lado de  
 na lin - en línea  
@@ -2452,6 +2456,7 @@ na ni - aquí (acá)
 na niche - debajo  
 na nove - ahora mismo (justo)  
 na poli mar - frecuentemente  
+na pos - más tarde  
 na re - otra vez (de nuevo)  
 na supra - sobre  
 nabi - profecía  
@@ -2483,8 +2488,7 @@ nasi jen - gente
 nasi medi - internacional  
 nasi sim - nacionalismo  
 nasi sim ja - nacionalista  
-nasi sosi sim - nazismo  
-nasi sosi sim - socialismo nacional  
+nasi sosi sim - socialismo nacional (nazismo)  
 nasi sosi sim ja - Nazi  
 natre bilor - natrón  
 natri - sodio  
@@ -2575,7 +2579,7 @@ Norfolke nesi - Isla Norfolk
 Norge - Noruega  
 norge basha - idioma noruego  
 norma - norma  
-norma - norma  
+norma di - norma  
 nos - nariz  
 nos di - nasal  
 nostalgia - nostalgia  
@@ -2585,7 +2589,7 @@ note anjil - aviso (notificación)
 note buku - cuaderno (libreta)  
 note she - nota  
 nove - novedad  
-nove - nuevo  
+nove di - nuevo  
 nove fito - planta neófita  
 nove jene di - neonato (recién nacido)  
 nove ka - novato  
@@ -2702,8 +2706,8 @@ parne - helecho
 parti - partido (grupo)  
 parti ja - participante  
 pas - pasar  
-pas - anterior (remoto)  
 pas dau - paso (pasaje)  
+pas di - anterior (remoto)  
 pas loga - contraseña  
 pase - paz  
 Pase Hai - océano Pacífico  
@@ -2810,7 +2814,6 @@ Pluton - Plutón
 pluton yum - plutonio  
 poker - póquer  
 polau - pilaf (pulaw)  
-poli - poli-  
 poli - mucho (muchos)  
 poli basha di - multilingüe (plurilingüe)  
 poli deu sim - politeísmo  
@@ -2847,9 +2850,8 @@ portoriko jen - puertorriqueño
 Portugal - Portugal  
 portugal basha - idioma portugués  
 pos - consecuencia (siguiente)  
-pos - siguiente (trasero)  
-pos - más tarde  
 pos den - mañana  
+pos di - siguiente (trasero)  
 pos di - posterior  
 pos fikse - sufijo  
 pos zaman - futuro  
@@ -2910,10 +2912,9 @@ Qazaqe - Kazajistán (Kazakistan)
 
 ## R  
 
-radi - radiar (emitir)  
 radi - rayo  
-radi - radiación  
 radi geter - receptor de radio  
+radi karma - radiación  
 radi metre gi - radiómetro  
 radi miser - radiotransmisor  
 radi yum - radio  
@@ -2996,14 +2997,11 @@ Roma - Roma
 Roma Imperia - Imperio romano  
 roma kamil - manzanilla romana (camomila común)  
 Romania - Rumania  
-romanse - amar románticamente  
 romanse - romance  
 romanse di - romántico  
 rose - rocío  
 roste - asar (tostar)  
 roste pang - pan tostado  
-rota - hace girar (dar vueltas)  
-rota - girar (rotar)  
 rota lefte - en el sentido contrario al las agujas del reloj  
 rota raite - en el sentido del las agujas del reloj  
 rota she - rotor  
@@ -3052,7 +3050,6 @@ safran - azafrán
 sagu - sagú  
 Sahara Desha - República Árabe Saharaui Democrática  
 sahi - correcto (justo)  
-saide - cazar (pescar)  
 saide ja - cazador  
 saide yo peshe - pescar  
 sake - saco  
@@ -3164,10 +3161,9 @@ sera - sierra
 serami - cerámica  
 Serbia - Serbia  
 serpe - serpiente (culebra)  
-serve - servir  
 serve - servicio  
-serve ja - criado (sirviente)  
 serve gi - servidor  
+serve ja - criado (sirviente)  
 sesam - ajonjolí (sésamo)  
 Seshel nesi - Seychelles  
 shaka - rama  
@@ -3235,7 +3231,6 @@ shula kan - escuela (colegio, institución)
 shula she - lección  
 shula shefe - director de colegio  
 shuli - arreglo  
-shuli - reparar (arreglar)  
 shuli ja - reparador  
 shuru - comienzo (inicio, principio)  
 shuru di - primer (inicial, inaugural)  
@@ -3458,7 +3453,6 @@ teleskope - telescopio
 telu yum - telurio  
 Telugu - télugu  
 tema - tema  
-tema - tratar de  
 tema nam - título  
 ten - tener (mantener, detener)  
 ten bil - accesible  
@@ -3560,7 +3554,6 @@ UDA di - estadounidense
 uhu - llorar  
 Ukraina - Ucrania  
 ulul - aullido  
-ulul - aullar  
 uma - caballo  
 uma bichi - fusta  
 umami - sabroso (umami)  
@@ -3721,7 +3714,6 @@ xenon - xenón
 
 ## Y  
 
-ya - sufijo para regiónes y sustantivos abstractos  
 ya - sí  
 Yahve - Yahvé (Jehová)  
 yake - yac  

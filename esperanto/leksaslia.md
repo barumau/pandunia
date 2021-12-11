@@ -41,7 +41,6 @@
 |**aple**|pomo|angla:apple, deu:Apfel, rusa:яблоко (yabloko), malaja:apel, bengala:আেপল (apôl), zulua:ihhabhula|
 |**arane**|araneo|franca:araignee, portugala:aranha, hispana:araña, angla:arachnid|
 |**arbuza**|akvomelono|rusa:арбуз (arbuz), polona:arbuz, turka:karpuz, greka:καρπούζι (karpuzi), hindia:तरबूज़ (tarbūz), bengala:তরমুজ (tôrmuj)|
-|**area**|areo|angla:area, portugala:hispana:área, polona:areał, franca:aire|
 |**arena**|sablo|hispana:itala:arena, portugala:areia + angla:turka:arena, franca:arène, rusa:арена (arena), malaja:arena, japana:アリーナ (arīna), korea:아레나 (arena)|
 |**argente**|arĝento|portugala:itala:argento, franca:argent, malaja:argentum, svahila:agenti|
 |**argon**|argono|angla:argon, franca:argon, hispana:argón, portugala:argon, rusa:аргон, japana:アルゴン, korea:아르곤, vjetnama:agon, hindia:ऑर्गन, bengala:আর্গন, malaja:argon, svahila:arigoni, araba: أرجون|
@@ -83,7 +82,6 @@
 |**barbar**|barbaro|deu:turka:barbar, franca:barbare, persa:(barbar), hispana:barbaro, angla:barbarian, rusa:варвар (varvar)|
 |**barde**|barbo|franca:barbe, hispana:portugala:barba, deu:Bart, angla:beard, rusa:борода (boroda), polona:broda|
 |**bari yum**|bario|angla:barium, franca:baryum, hispana:bario, portugala:bário, rusa:барий, mandarena:钡 (bèi), japana:バリウム, korea:바륨, vjetnama:bari, hindia:बेरियम, bengala:বেরিয়াম, malaja:barium, svahila:bari, araba: باريوم|
-|**barka**|gratuli|haŭsa:barka, malaja:berkah, turka:tebrik, persa:(tabrik), araba:urdua:(mubārak), svahila:baraka, joruba:alubarika|
 |**barti**|Barata|hindia:भारतीय (bhārtīy), urdua:(bhārtīy), marataja:(bhārtīya), teluga:(bhāratīya)|
 |**baru**|urso|angla:bear, deu:Bär + hindia:भालू (bhālū) bengala:ভালুক (bhaluk) + malaja:beruang|
 |**barude**|pulvo|araba:persa:urdua:(bārūd), hindia:बारूद (bārūd), svahila:baruti, turka:barut|
@@ -168,7 +166,6 @@
 |**cheti**|sep (7)|franca:sept, hispana:siete, portugala:sete, hindia:सात (sāt), bengala:সাত (sat) + mandarena:七 (qī), kantona:七 (cat1),  japana:七 (shichi), korea:칠 (chil), taja:เจ็ด (chet)|
 |**chimpanzi**|ĉimpanzo|angla:chimpanzee, hispana:chimpancé, portugala:franca:chimpanzé, rusa:шимпанзе (shimpanze), turka:şempanze, araba:شمبانزي‎ (šimbanzī), hindia:चिंपांजी (cimpāñjī), japana:チンパンジー (chinpanjī), malaja:cimpanzi|
 |**chinchila**|ĉinĉilo|angla:hispana:franca:chinchilla, portugala:chinchila, rusa:шиншилла (šinšilla), turka:çinçilya, malaja:cincila, japana:チンチラ (chinchira)|
-|**ching**|peti (bonvolu)|mandarena:请 (qǐng), kantona:請 (cing2), korea:청 (cheong), vjetnama:thỉnh|
 |**chini**|porcelano|mandarena:瓷 (cí) + angla:chinaware, hindia:चीनी (cīnī), bengala:চীনামাটি (cinamaṭi), araba: صِينِيَّة‎ (ṣīniyya), svahila:sini|
 |**chize**|fromaĝo|angla: cheese, mandarena: 起司 (qǐsī), svahila: chizi, japana:チーズ (chīzu), korea:치즈 (chijeu)|
 |**choda**|fiki|bengala:চোদা (coda), hindia:चोदना (codnā)|
@@ -178,7 +175,7 @@
 |**chun**|vilaĝo|mandarena:村 (cūn), kantona:村 (cyun1), japana:村 (son), korea:촌 (chon), vjetnama:thôn|
 |**chupu**|suĉi|hispana:portugala:chupar, kmera:ជប់ (cup)|
 |**chuti**|eliro|mandarena:出 (chū), kantona:出 (ceot1), vua:出 (tsheq4), hakaa:出 (chut), japana:出 (shutsu), korea:출 (chul), vjetnama:xuất, hindia:छूटना (chūtnā) + turka:çıkmak|
-|**chuze**|elekti|angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn|
+|**chuze**|elekto|angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn|
 |**da**|de (partiklo de posedo)|franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)|
 |**dai hai**|oceano|mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)|
 |**dai**|granda|kantona:大 (daai), mandarena:大 (dá), vjetnama:đại, japana:(dai,tai), korea:대— (dae-)|
@@ -209,7 +206,6 @@
 |**dokumen**|dokumento|angla:franca:document, hispana:portugala:documento, rusa:документ (dokument), japana:ドキュメント (dokyumento), malaja:dokumen, turka:doküman|
 |**dolfin**|delfeno|greka:δελφίνια (delphínia), angla:dolphin, hispana:delfín, portugala:delfim, rusa:дельфин (del’fin), araba:دلفين (dulfin), japana:ドルフィン (dorufin), bengala:ডলফিন (ḍalaphina), hindia:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|hejmo (loĝejo)|rusa:дом (dom), polona:dom, latina:domus, + angla:domestic, franca:domestique, hispana:portugala:doméstico|
-|**dom**|hejmo|mandarena:家 (jiā), kantona:家 (gaa1), japana:家 (ka), korea:가 (ga), vjetnama:gia|
 |**don**|doni|franca:donner, angla:donate, hispana:portugala:donar|
 |**dong**|oriento|mandarena:东 (dōng), kantona:東 (dōng), vjetnama:đông, korea:동 (dong), turka:doğu|
 |**dosha**|kulpo|malaja:dosa, hindia:दोष (doś), taja:โทษ (toot(sa))|
@@ -252,7 +248,10 @@
 |**eureka**|trovi|greka:ευρίσκω (evrísko), angla:hispana:eureka, portugala:eureca, franca:eurêka, rusa:эврика (evrika), turka:efreka, japana:ユーレカ (yūreka)|
 |**europa yum**|eŭropio|angla:europium, franca:europium, hispana:europio, portugala:európio, rusa:европий, japana:ユウロピウム, korea:유로퓸, vjetnama:europi, hindia:युरोपियम, bengala:ইউরোপিয়াম, malaja:europium, svahila:europi, araba: يروبيوم|
 |**Europa**|Eŭropo|angla:franca:Europe, hispana:portugala:deu:polona:Europa, greka:Ευρώπη (Evrópi) rusa:Европа (Evropa), turka:Avrupa, svahila:Uropa, hindia:यूरोप (yūrop), malaja:Eropah, mandarena:歐洲 (Ōuzhōu), japana:ヨーロッパ (yōroppa)|
+|**fa barka**|gratuli|haŭsa:barka, malaja:berkah, turka:tebrik, persa:(tabrik), araba:urdua:(mubārak), svahila:baraka, joruba:alubarika|
+|**fa ching**|peti (bonvolu)|mandarena:请 (qǐng), kantona:請 (cing2), korea:청 (cheong), vjetnama:thỉnh|
 |**fa daka**|kovri|hindia:ढकना (dhaknā), bengala:ঢাকা (ḍhaka), panĝaba:ਢੱਕਣਾ (ḍhakṇā), deu:decken, angla:deck|
+|**fa fei**|flugi|mandarena:飞 (fēi), kantona:飛 (fei1), vua:飛 (fi1), japana:飛 (hi), korea:비 (bi), vjetnama:bay|
 |**fa fikse**|fiksi|angla:fix, franca:fixer, hispana:fijar, portugala:fixar|
 |**fa kave**|fosi|hispana:portugala:cavar, angla:excavar, franca:excaver|
 |**fa**|fari|franca:faire, portugala:fazer, itala:fare + araba: فَعَلَ‎ (faʿala) + svahila:fanya|
@@ -261,13 +260,13 @@
 |**fan**|koto|franca:fang, hispana:fango + angla:fen + mandarena:粪 (fèn), kantona:糞 (fan3), vjetnama:phân|
 |**fantazi**|fantazio|angla:franca:fantasy, hispana:fantasía, portugala:svahila:fantasia, rusa:фантазия (fantazija), turka:fantezi, malaja:fantasi, japana:ファンタジー (fantajī)|
 |**fantom**|fantomo|angla:phantom, hispana:portugala:fantasma, franca:fantôme, rusa:фантом (fantom)|
+|**fase area**|areo|angla:area, portugala:hispana:área, polona:areał, franca:aire|
 |**fase**|surfaco|angla:franca:portugala:face, hispana:faz, deu:Facette|
 |**fasil**|facila|angla:facility, hispana:portugala:fácil, franca:facile|
 |**fasin ta**|fascinado|angla:franca:fascination, hispana:fascinación, portugala:fascinação, deu:Faszination|
 |**fate**|faro (fakto)|franca:fait, portugala:fato, angla:fact, deu:Fakt, rusa:факт (fakt), persa:(fâkt)|
 |**fatura**|kalkulo (fakturo)|franca:facture, hispana:factura, portugala:turka:fatura, rusa:фактура (faktura), araba: فَاتُورَة‎ (fātūra)|
 |**febre**|febro|portugala:febre, hispana:fiebre, deu:Fieber, angla:fever, franca:fièvre|
-|**fei**|flugi|mandarena:飞 (fēi), kantona:飛 (fei1), vua:飛 (fi1), japana:飛 (hi), korea:비 (bi), vjetnama:bay|
 |**fem**|ino|franca:femme, portugala:fêmea, angla:female|
 |**fen**|parto (frakcio)|mandarena:分 (fèn), vua:分 (fén), kantona:分 (fan), vjetnama:phần, taja:ปัน (pan), japana:分 (bun), korea:분 (bun)|
 |**fermi yum**|fermio|angla:fermium, franca:fermium, hispana:fermio, portugala:férmio, rusa:фермий, mandarena:镄 (fèi), japana:フェルミウム, korea:페르뮴, vjetnama:fecmi, hindia:फर्मियम, bengala:ফার্মিয়াম, malaja:fermium, svahila:fermi, araba: فرميوم|
@@ -331,7 +330,7 @@
 |**gas**|gaso|deu:angla:hispana:malaja:gas, portugala:gás, bengala:গ্যাস (gyas), japana:ガス (gasu), korea:가스 (gaseu), hindia:गैस (gais), franca:turka:gaz, rusa:газ (gaz), araba:(ḡāz), svahila:gesi|
 |**gata**|tranĉi|angla:cut, araba:(qaṭa’a), hindia:काटना (kāṭnā), bengala:কাটা (kata), svahila:kata, vjetnama:cắt, mandarena:割 (gē), kantona:割 (got3), vua:割 (ga’), japana:割 (katsu)|
 |**gati**|malmola|teluga:గట్టి (gaṭṭi), turka:katı, hindia:कड़ा (kaṛā), japana:硬い (katai)|
-|**gau**|alta|mandarena:高 (gāo), kantona:高 (gou1), vua:高 (kau1), japana:高 (kō), korea:고 (go), vjetnama:cao|
+|**gau di**|alta|mandarena:高 (gāo), kantona:高 (gou1), vua:高 (kau1), japana:高 (kō), korea:고 (go), vjetnama:cao|
 |**gaze**|gazo|deu:franca:portugala:gaze, japana:ガーゼ (gāze), rusa:газ (gaz), angla:gauze|
 |**gazel**|gazelo|araba:(ḡazāl), angla:franca:gazelle, rusa:газель (gazel'), japana:ガゼル (gazeru)|
 |**gazeta**|gazeto (revuo)|angla:franca:gazette, rusa:газета (gazeta), svahila:gazeri, turka:gazete|
@@ -631,7 +630,7 @@
 |**mau**|kato|mandarena:猫 (māo), kantona:貓 (maau), vjetnama:mèo, svahila:nyau|
 |**maze**|ŝtrumpo|hindia:मोज़ा (mozā), bengala:মোজা (moja), urdua: موزا‎ (mozā) + mandarena:袜子 (wàzi), vua:袜子 (ma’zi), kantona:襪 (mat6), korea:말 (mal)|
 |**mede**|helpo|franca:m’aidez, angla:mayday, rusa:мэдэ (mede), japana:メーデー (mēdē), korea:메이데이 (meidei) + araba:persa:urdua: مَدَد‎ (madad), hindia:मदद (madad), bengala:মদদ (môdôd)|
-|**medi**|mezo|hispana:medio, angla:medium, hindia:माद्धयम (mādhyam)|
+|**medi di**|mezo|hispana:medio, angla:medium, hindia:माद्धयम (mādhyam)|
 |**medu**|mielo|rusa:мёд (myod), hindia:मधु (madhu), bengala:মধু (môdhu), malaja:madu + portugala:mel, franca:hispana:miel + kantona:蜜 (mat6)|
 |**mega**|miliono|angla:franca:hispana:portugala:malaja:turka:mega-, rusa:мега- (mega-), japana:メガ (mega), korea:메가- (mega-)|
 |**megi**|nubo|hindia:मेघ (megh), bengala:মেঘ (megh), tamila:மேகம் (mēgam), teluga:మేఘము (mēghamu), malaja:mega, taja:เมฆ (mek) + araba: غَيْمَة‎ (ḡayma) + vjetnama:mây|
@@ -718,7 +717,7 @@
 |**norde**|nordo|angla:north, hispana:portugala:norte, deu:Nord, franca:nord, rusa:норд (nord)|
 |**nostalgia**|nostalgio (saudado)|angla:portugala:hispana:nostalgia, franca:nostalgie, deu:Nostalgie, rusa:ностальгия (nostalʹgiya), japana:ノスタルジー (nosutarujī), persa:(nostâlži)|
 |**note she**|noto (rimarko, komento)|deu:angla:franca:note, hispana:portugala:nota, turka:not, japana:ノート (nōto), korea:노트 (noteu), persa:(not)|
-|**nove**|nova|angla:new,neo-, franca:nouveau, hispana:nuevo, portugala:novo, rusa:новый (novyy), hindia:नव (nav)|
+|**nove di**|nova|angla:new,neo-, franca:nouveau, hispana:nuevo, portugala:novo, rusa:новый (novyy), hindia:नव (nav)|
 |**nu**|nu|rusa:ну (nu) + angla:now, deu:na, mandarena:那 (nà)|
 |**o**|aŭ|angla:or, hispana:filipina:o, franca:portugala:ou, mandarena:或 (huò), araba:(ʾaw)|
 |**oganeson**|oganesono|angla:franca:portugala:malaja:oganesson, hispana:oganesón, rusa:оганесон, japana:オガネソン, korea:우누녹튬|
@@ -1017,7 +1016,6 @@
 |**volfe**|lupo|deu:ned:angla:wolf, rusa:волк (volk)|
 |**vulva**|vulvo|franca:vulve, angla:portugala:hispana:turka:vulva, rusa:вульва (vul’va)|
 |**xenon**|ksenono|angla:xenon, franca:xénon, hispana:xenón, portugala:xénon, rusa:ксенон, mandarena:氙 (xiān), japana:キセノン, korea:크세논, vjetnama:xenon, hindia:ज़ेनान, bengala:জেনন, malaja:xenon, svahila:zenoni, araba: إكسينون|
-|**ya**|ejo (ujo, io)|hispana:portugala:angla:-ia, rusa:-ия (-iya), araba: ية (-iya), japana:屋 (-ya)|
 |**ya**|jes|malaja:ya, deu:ja, angla:yeah, korea:예 (ye) + mandarena:呀/啊 (ya/a)|
 |**yam**|manĝi (trinki)|kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam|
 |**yang**|speco (tipo, stilo)|mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)|
