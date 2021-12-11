@@ -57,9 +57,7 @@ argente - 銀
 argon - アルゴン  
 arka - 弓 (弓なり)  
 arka ja - 弓兵  
-aroma - 嗅ぐ  
 aroma - 香り (匂い, 臭い)  
-aroma - 香る (匂う, 臭う)  
 aroma melon - マクワウリ  
 arsen yum - ヒ素  
 asal - 起源  
@@ -126,6 +124,7 @@ be halte - 止まる
 be hogo - 燃える  
 be jaga - 起きる  
 be kino - 動く  
+be kush - 寝転ぶ  
 be pute - 腐敗  
 be rute galte - 逸れる  
 be sabi vol - 訝る (-かしら)  
@@ -215,9 +214,7 @@ chen yang di - 古典的
 chen zaman di - 古い  
 chili fun - パプリカ  
 chin ma - お婆さん  
-ching - 請う (ーて下さい)  
 chini - 磁器  
-chira - 裂く  
 chira - 裂く  
 chira chira - 千切る  
 chira chira di - ぼろぼろ  
@@ -289,7 +286,6 @@ dokumen - 書類 (文書, ドキュメント)
 dokumen filme - ドキュメンタリー  
 dolfin - イルカ (ドルフィン)  
 dom - 家  
-dom - 家  
 dom desha - 祖国  
 Dominika Komun krati - ドミニカ共和国  
 don - あげる (くれる)  
@@ -328,7 +324,6 @@ elfe - 妖精 (エルフ)
 emosi zi - 絵文字  
 english margarita - ヒナギク  
 erbi yum - エルビウム  
-eskale - 上る (乗る, よじ登る)  
 eskale tana - 蔓草  
 eskandi yum - スカンジウム  
 esponje - スポンジ (海綿)  
@@ -346,17 +341,23 @@ fa - する
 fa achar - 酢漬けある  
 fa alo - 変える  
 fa an galta - デバッグする  
+fa aroma - 嗅ぐ  
+fa aroma - 香る (匂う, 臭う)  
 fa auto - カスタマイズする  
 fa bina - 建てる  
 fa biznes lona - 話し合う (話を付ける)  
+fa ching - 請う (ーて下さい)  
 fa chuli - 扱う (処理する)  
 fa dante - 咬む  
 fa dika - 狙う  
 fa ding - 定める (決する, 決定する)  
 fa dosil - 馴らす  
 fa dus forma - 醜くする  
+fa eskale - 上る (乗る, よじ登る)  
 fa fatu - 罰する  
+fa fei - 飛ぶ  
 fa fen gata - 見つめ直す  
+fa fuku - 着る  
 fa glu - 張る (付く)  
 fa gong - 働く  
 fa hapu - 適応する  
@@ -367,10 +368,14 @@ fa jene - 生む
 fa kave - 掘る  
 fa kino - 動かす  
 fa kung - 染みる (貫通する)  
+fa kush - 横たえる  
 fa lai - 持って来る  
+fa lanse grafi - 映す (投影する)  
 fa linke - 繋ぐ  
+fa loga - 話す  
 fa mede - 手伝う (助ける)  
 fa memo - 思い出す  
+fa miti - 会う  
 fa najis - 汚す  
 fa nomer - 数える  
 fa nomi - 組織する  
@@ -380,12 +385,14 @@ fa poze - 植える
 fa ratibu - 揃える  
 fa re - 繰り返す  
 fa safa - 掃く (精げる, 拭く)  
+fa saide - 狩る  
 fa sam sifa - シミュレートする  
 fa shipi - 濡らす  
 fa shiti bai - 負ける  
 fa shopi - 買う  
 fa shou - 見せる (示す, デモる)  
 fa shula - 学ぶ  
+fa shuli - 修理する  
 fa sing foto - ピカピカ光る (きらきらする)  
 fa sir - 隠す  
 fa siro - 消す (キャンセルする)  
@@ -408,7 +415,6 @@ fate - 事実
 fatige - 疲労  
 fatu - 処罰  
 fatura - 料金  
-fei - 飛ぶ  
 fei mushu - こうもり (飛鼠)  
 fem - 女  
 fem raja - 女王  
@@ -440,7 +446,6 @@ frike - 擦る (擦り傷する)
 frute - 果実 (フルーツ)  
 frute bagi - 果樹園  
 fuku - 服  
-fuku - 着る  
 fuku vashi gi - 洗濯機  
 fungu frute - 茸  
 fungu nete - 菌糸体  
@@ -476,7 +481,7 @@ gata glu bano - クリップボード
 gata ja - 鋭い  
 gati - 硬い  
 gati mate - 固体  
-gau - 高い  
+gau di - 高い  
 gau tal move - 浮き沈みする  
 gau tehni - ハイテク  
 gazel - ガゼル  
@@ -514,8 +519,8 @@ gong kan - 工場 (製造所)
 gong mise - 提出  
 gorila - ゴリラ  
 grafi chuli - 画像処理  
-grafi kata - 漫画  
 grafi karte - グラフィックカード  
+grafi kata - 漫画  
 grafi rapide ta - フレームレート  
 granite - 花崗岩  
 grave - 砂利  
@@ -649,7 +654,6 @@ juste pau ja - 狙撃兵
 ## K  
 
 ka - より (に比べ)  
-ka - 家  
 kable - 縄 (綱)  
 kaboga - カボチャ  
 kadim yum - カドミウム  
@@ -706,7 +710,7 @@ kardon - アザミ
 kardon karchof - カルドン  
 kari - カレー  
 karma - 行為  
-karma ja - 活動的  
+karma ja di - 活動的  
 karma loga - 動詞  
 karote - ニンジン  
 karse - 荒い  
@@ -791,8 +795,6 @@ kupa - コップ
 kupre - 銅  
 kurban - 犠牲  
 kuri yum - キュリウム  
-kush - 横たえる  
-kush - 寝転ぶ  
 
 ## L  
 
@@ -811,7 +813,6 @@ lama - ラマ (チベット仏教の上師)
 lampa - ランプ  
 lana - 呪い (たたり)  
 lanse grafi - 投影  
-lanse grafi - 映す (投影する)  
 lanse she - 飛翔体 (矢玉)  
 lantan - ランタン  
 lashe - 残す  
@@ -850,7 +851,6 @@ lisan - 舌
 lito yum - リチウム  
 litre - リットル  
 livermor yum - リバモリウム  
-loga - 話す  
 loga - 演説  
 loga fen - 音節  
 loga jama - 語彙  
@@ -905,8 +905,8 @@ mata badan - 死体
 mata badan fili - 屍姦 (死体性愛)  
 mate - 物質  
 mate lona - 唯物論 (唯物主義)  
-matur - 大人  
 matur fem - 女の人  
+matur jen - 大人  
 matur man - 男の人  
 mau - 猫  
 maze - 靴下 (ソックス)  
@@ -965,7 +965,6 @@ minta - ハッカ
 mirde - 微か  
 mishe alkol - カクテル (混合酒)  
 Misri - エジプト  
-miti - 会う  
 miti - 会合 (会議, ミーティング)  
 mitre - メートル  
 moka - 木  
@@ -1042,9 +1041,9 @@ nong chun - 農村
 nong nomi - 農学  
 norde - 北  
 norma - 標準  
-norma - 普段 (ノーマル)  
+norma di - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
-nove - 新しい  
+nove di - 新しい  
 nove ka - 初心者  
 nove loga - 新語 (新造語)  
 nove yang di - 近代的  
@@ -1225,7 +1224,6 @@ safa tela - ワイプ
 sagu - サゴ  
 sagu fun - サゴ澱粉  
 sahi - 正しい  
-saide - 狩る  
 saide - 狩り (狩猟)  
 sal - 塩  
 salam - 挨拶  
@@ -1267,8 +1265,8 @@ sento - 百 (１００)
 sento nen - 世紀  
 sera - のこぎり  
 serami - 陶器  
-serve ja - 使用人  
 serve gi - サーバ  
+serve ja - 使用人  
 shalke - うろこ  
 sham - 夕べ  
 sham yam - 夕食  
@@ -1299,7 +1297,6 @@ shula ja - 学生
 shula kan - 学校  
 shula shefe - 校長  
 shuli - 修理  
-shuli - 修理する  
 shuli ja - 修理工  
 shuru - 開始  
 shush - しーっ  

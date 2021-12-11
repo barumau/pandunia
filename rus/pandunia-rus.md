@@ -68,7 +68,6 @@ arabi babul - акация нильская
 arane - паук  
 arane nete - паутина  
 arbuza - арбуз  
-area - площадь  
 arena estade - арена  
 argente - серебро  
 argon - аргон  
@@ -76,9 +75,7 @@ argu - аргумент (обосновани)
 arka - лук (арка)  
 arka chati - свод  
 arka ja - лучник  
-aroma - понюхать  
 aroma - запах (аромат)  
-aroma - пахнуть  
 arsen yum - мышьяк  
 arte ja - художник (артист)  
 asal - начало (причина)  
@@ -130,7 +127,6 @@ banka kan - банк
 bano - доска (панель)  
 bano gem - настольная игра  
 banya - купание  
-banya - купаться  
 banya kamar - ванная  
 bara - преграждать  
 bara mur - барьер  
@@ -155,13 +151,13 @@ baze shula kan - семилетка
 be bio mute - заквасить  
 be boi - плавать  
 be bum - взрываться  
-be bum - взрываться  
 be dur - длиться  
 be fatige - устать  
 be fobi - бояться (страшиться)  
 be in bum - взрываться вовнутрь  
 be jaga - проснуться  
 be kino - двигаться  
+be kush - лежать  
 be mal - принадлежать  
 be migra - переезжать  
 be pute - гнить (портиться)  
@@ -260,9 +256,7 @@ cheti - семь (7)
 chili - перец (паприка)  
 chin ma - бабушка  
 chin pa - дедушка  
-ching - просить  
 chini - фарфор  
-chira - рвать  
 chira - рвать  
 chira chira - изорвать  
 chira chira di - изорванный  
@@ -373,7 +367,6 @@ emosi hal - настроение
 emosi zi - смайлик (эмодзи)  
 english margarita - маргаритка многоле́тняя  
 erbi yum - эрбий  
-eskale - подниматься  
 eskandi yum - скандий  
 eskulte ja - скульптор  
 esponje - губка  
@@ -395,7 +388,11 @@ fa - делать
 fa alo - изменять  
 fa amen - утвердить (конфирмовать)  
 fa argu - аргументи́ровать  
+fa aroma - понюхать  
+fa aroma - пахнуть  
+fa banya - купаться  
 fa bina - строить  
+fa ching - просить  
 fa chuli - обращаться (обработать, обрабатываться, разбираться)  
 fa dante - откусить  
 fa dika - целиться  
@@ -403,25 +400,31 @@ fa ding - определить
 fa dosil - укрощать (приручить)  
 fa dosil jene - одомашнивать  
 fa dus forma - уродовать  
+fa eskale - подниматься  
 fa estude - изучать  
 fa fatu - наказать  
+fa fei - лететь  
 fa fen gata - анализировать  
 fa fobi - страшить  
 fa forma - формировать  
 fa fuku - одевать  
+fa fuku - носить (одеваться)  
 fa glu - клеиться  
 fa gong - работать  
 fa hisabu - вычислять  
 fa hogo - жечь (палить)  
 fa in klus - включить  
 fa jene - родить  
+fa jiva - живой  
 fa kancha dake - глазуровать  
 fa karga - обременять  
 fa kave - копать  
 fa kino - двигать  
 fa kung - пробиться  
+fa kush - положить  (уложить)  
 fa lai - приносить  
 fa linke - соединить (подключить)  
+fa loga - говорить  
 fa loka - ставить  
 fa memo - помнить  
 fa min rai - недооценить  
@@ -434,11 +437,13 @@ fa presa - нажимать
 fa pul - заполнять  
 fa re - повторять  
 fa safa va tela - вытереть  
+fa saide - охотиться  
 fa sel - советовать  
 fa shiti bai - проиграть (провалиться)  
 fa shopi - покупать (купить)  
 fa shou - доказать (демонстрировать)  
 fa shula - учиться  
+fa shuli - чинить (ремонтировать)  
 fa side - сидеть  
 fa sing foto - сверкать (мерцать)  
 fa sir - скрывать  
@@ -455,6 +460,7 @@ faida - применение (утилитарность)
 fan - болото  
 fan topo - болото (топь)  
 fase - грань  
+fase area - площадь  
 fase tele - глубокий  
 fase tele ta - мелкий  
 fasil - лёгкий (простой)  
@@ -463,7 +469,6 @@ fatu - наказание
 fatura - счёт (фактура)  
 faze - фаза  
 fei - полёт  
-fei - лететь  
 fei mushu - летучая мышь  
 fen - parte  
 fen gata - анализ  
@@ -499,7 +504,6 @@ frute - плод (фрукт)
 frute bagi - фруктовый сад  
 fufu - мякоть (пульпа, фуфу)  
 fuku - одежда  
-fuku - носить (одеваться)  
 fuku di - оде́тый  
 fuku vashi gi - стиральная машина  
 fungu frute - гриб  
@@ -693,7 +697,6 @@ jinse - пол
 jinse logi - гендерные исследования  
 jirafa - жираф  
 jiva - жизнь  
-jiva - живой  
 jong - центр  
 jong fon - гласный  
 jong shula kan - средняя школа  
@@ -772,8 +775,8 @@ kardon karchof - артишок испанский (кардон)
 karga - бремя (товар, груз, ноша)  
 kari - карри  
 karma - действие (акт, акция)  
-karma ja - активный (деятельный)  
 karma ja - деятель  
+karma ja di - активный (деятельный)  
 karma loga - глагол  
 karote - морковь  
 karse - грубой  
@@ -865,8 +868,6 @@ kupre - медь
 kurban - жертва  
 kuri yum - кюрий  
 kurva - кривая  
-kush - положить  (уложить)  
-kush - лежать  
 
 ## L  
 
@@ -922,7 +923,6 @@ liste - список
 lito yum - литий  
 litre - литр  
 livermor yum - ливерморий  
-loga - говорить  
 loga - речь  
 loga asal - этимология  
 loga di - лексический  
@@ -983,21 +983,21 @@ masa - масса
 masa mula - клубень  
 masa mula sol hua - топинамбу́р  
 masala - пряность  
-masim - максимум  
+masim she - максимум  
 maska - маска  
 masta - мачта  
 mata badan - труп (мёртвое тело)  
 mata badan fili - некрофилия  
 mate - материя  
 mate lona - материализм  
-matur - взрослый  
+matur jen - взрослый  
 mau - кошка  
 maze - носок  
 meche - матч  
 medan - площадь (сквер, майдан)  
 medan papi - мак самосейка  
 mede - помощь  
-medi - средний  
+medi di - средний  
 medi dia - полдень  
 medi gi - средство  
 medi noche - полночь  
@@ -1071,6 +1071,7 @@ na go - там
 na lin - онлайн  
 na ni - здесь (тут)  
 na poli mar - часто  
+na pos - после  
 nadir - редкий  
 nadir mar - редко  
 najis - грязь (скверна)  
@@ -1123,7 +1124,7 @@ norde - север (норд)
 nostalgia - ностальгия (тоска)  
 note she - запись (заметка)  
 nove - новинка (новь)  
-nove - новый  
+nove di - новый  
 nove jene di - новорождённый  
 nove ka - новичок  
 nove loga - неологизм  
@@ -1246,7 +1247,6 @@ porei - лук-порей
 porte - порт  
 Portoriko - Пуэрто-Рико  
 portoriko jen - пуэрториканец  
-pos - после  
 pospor - фосфор  
 posta marke - почтовый штемпель  
 pote chamacha - половник (черпак, ковш)  
@@ -1339,7 +1339,6 @@ safa tela - тряпка
 safran - шафран  
 sagu - саго  
 sahi - правильный  
-saide - охотиться  
 sal - соль  
 salam - приветствие  
 salam ta - благосостояние  
@@ -1388,8 +1387,8 @@ sento nen - столетие
 sento nen di - столетний  
 sera - пила  
 serami - керамика  
-serve ja - слуга  
 serve gi - сервер  
+serve ja - слуга  
 sesam - сезам  
 shalke - чешуя  
 sham - вечер  
@@ -1429,7 +1428,6 @@ shula kan - школа
 shula she - урок (учение)  
 shula shefe - директор (ректор)  
 shuli - починка (ремонт)  
-shuli - чинить (ремонтировать)  
 shuli ja - ремонтник  
 shuru - начало  
 shush di - тихий  

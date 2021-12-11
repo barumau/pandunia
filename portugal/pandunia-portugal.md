@@ -30,7 +30,6 @@ almari - armário
 almas - diamante  
 alo - outro  
 alo fen di - distinto  
-alo rai - discordar  
 alumin - alumínio  
 ama - amor  
 ama di - querido (caro)  
@@ -55,7 +54,6 @@ anjil - mensagem
 antra - intestino (entranhas, tripa)  
 aple - maçã  
 aple sos - purê de maçã  
-aplika - usar  
 araki - licor  
 arane - aranha  
 arane nete - teia de aranha  
@@ -68,7 +66,6 @@ arka - arco
 arka chati - abóbada  
 arme - arma  
 aroma - cheiro  
-aroma - cheirar  
 aroma melon - melão coreano  
 arsen yum - arsénic  
 arte ja - artista  
@@ -148,6 +145,7 @@ be in - entrar
 be in bum - implodir  
 be jaga - despertar  
 be kino - Mover-se  
+be kush - estar deitado (jazer)  
 be migra - mudar-se  
 be pute - apodrecer-se  
 be retro - voltar (regressar)  
@@ -237,7 +235,6 @@ chin ma - avó
 chin pa - avô  
 chini - porcelana  
 chira - rasgar  
-chira - rasgar  
 chira chira di - esfarrapado  
 chize - queijo  
 choi - verdura  
@@ -299,7 +296,7 @@ dobe - tijolo
 dokumen - documento  
 dokumen filme - documentário  
 dolfin - golfinho (delfim)  
-dom - lar (casa)  
+dom - casa (lar)  
 dom desha - pátria  
 dom di - doméstico  
 don tabi - generoso (dadivoso, mão-aberta)  
@@ -348,7 +345,10 @@ europa yum - európio
 
 fa - fazer  
 fa alo - alterar  
+fa alo rai - discordar  
+fa aplika - usar  
 fa argu - arguir  
+fa aroma - cheirar  
 fa asar - efetuar  
 fa bina - construir  
 fa chuli - tratar (lidar, procesar)  
@@ -357,25 +357,32 @@ fa dika - mirar (apontar)
 fa dus forma - desfigurar  
 fa estude - estudar (examinar)  
 fa fatu - punir (castigar)  
+fa fei - voar  
 fa fobi - assustar  
 fa for - remover  
 fa forma - modelar  
 fa fuku - vestir  
+fa fuku - trajar (vestir-se)  
 fa glu - colar (aderir)  
 fa gong - trabalhar  
 fa hisabu - calcular  
 fa hogo - queimar  
 fa in klus - incluir  
+fa jiva - vivo  
 fa karga - carregar  
 fa kave - cavar (escavar)  
 fa kino - mover  
+fa kush - deitar  
 fa lai - trazer  
+fa lifafa - embalar  
 fa linke - relier (connecter)  
+fa loga - falar  
 fa loka - colocar (pôr)  
 fa maf - perdoar (desculpar)  
 fa mata - matar  
 fa memo - lembrar-se (recordar-se)  
 fa min rai - menosprezar (subestimar)  
+fa miti - encontrar  
 fa mol - moer  
 fa nomi - organizar  
 fa onor - honrar  
@@ -386,11 +393,13 @@ fa presa - prensar (pressionar, premir)
 fa pul bon - aperfeiçoar  
 fa re - repetir  
 fa retro - retornar  
+fa saide - caçar  
 fa sel - aconselhar  
 fa shipi - molhar  
 fa shofer - conduzir  
 fa shopi - comprar  
 fa shula - aprender  
+fa shuli - reparar  
 fa sing foto - cintilar  
 fa sir - ocultar (esconder)  
 fa sual - perguntar  
@@ -415,7 +424,6 @@ fatu - punição (castigo)
 fatu di - penal  
 fatura - conta (fatura)  
 fei - voo  
-fei - voar  
 fem gami - esposa  
 fen - parte  
 fen gata - análise  
@@ -447,7 +455,6 @@ frem - moldura
 frute - fruta  
 frute bagi - pomar  
 fuku - roupa (vestidura)  
-fuku - trajar (vestir-se)  
 fungu - fungo  
 fungu frute - cogumelo  
 fute bol - futebol  
@@ -637,7 +644,6 @@ jini - espírito (gênio)
 jinse - sexo  
 jirafa - girafa  
 jiva - vida  
-jiva - vivo  
 jong - centro  
 jong fon - vogal  
 jong shula kan - ensino secundário  
@@ -667,7 +673,7 @@ kalam - lápis
 kalam sui - tinta  
 kalenda - calendário  
 kali - base (álcali)  
-kali - alcalino  
+kali di - alcalino  
 kali guste - amargo  
 kali yum - potássio  
 kaliforni yum - califórnio  
@@ -710,8 +716,8 @@ kari - curry
 Karibe - Caribe  
 karim - generosidade  
 karma - ato (ação)  
-karma ja - ativo  
 karma ja - agente  
+karma ja di - ativo  
 karma loga - verbo  
 karote - cenoura  
 karse - áspero  
@@ -796,8 +802,6 @@ kupre - cobre
 kurban - sacrifício  
 kuri yum - cúrio  
 kurva - curva  
-kush - deitar  
-kush - estar deitado (jazer)  
 
 ## L  
 
@@ -837,7 +841,6 @@ letus - alface
 liama - lhama  
 libele - libélula  
 lida ja - líder (chefe)  
-lifafa - embalar  
 liga - liga (aliança)  
 liga di sanduku - Arca da Aliança  
 ligu - leve  
@@ -860,7 +863,6 @@ liste - lista
 lito yum - lítio  
 litre - litro  
 livermor yum - livermório  
-loga - falar  
 loga - fala (palavras)  
 loga asal - etimologia  
 loga di - léxico  
@@ -923,7 +925,7 @@ masa - massa
 masa mula - tubérculo  
 masa mula sol hua - alcachofra-girassol (tupinambo)  
 masala - tempero  
-masim - máximo  
+masim she - máximo  
 maska - máscara  
 masta - mastro  
 mata badan - cadáver  
@@ -937,7 +939,7 @@ medan - praça
 medan papi - papoila  
 mede - ajuda (socorro, auxílio)  
 medi - meio (metade)  
-medi - moyen  
+medi di - moyen  
 medi dia - meio-dia  
 medi gi - meio (instrumento)  
 medi noche - meia-noite  
@@ -972,7 +974,6 @@ mimon su - nosso
 minta - hortelã  
 mirde - fraco  
 Misri - Egipto (Egito)  
-miti - encontrar  
 mitre - metro  
 mode - modo (maneira, jeito)  
 moka - árvore  
@@ -1052,7 +1053,7 @@ norde - norte
 nostalgia - nostalgia (saudade)  
 note she - nota  
 nove - novidade  
-nove - novo  
+nove di - novo  
 nove jene di - recém-nascido  
 nove ka - novato (neófito)  
 nove loga - neologismo  
@@ -1248,7 +1249,6 @@ sabe - saber (conhecer)
 sabe vol ja - inquisitivo  
 sagu - sagu  
 sahi - correto (justo)  
-saide - caçar  
 sake - saco  
 sal - sal  
 sal di - salino  
@@ -1335,7 +1335,6 @@ shula kan - escola (colégio)
 shula she - lição  
 shula shefe - diretor  
 shuli - reparo  
-shuli - reparar  
 shuli ja - reparador  
 shuru - começo (início, princípio)  
 si - ser (estar)  

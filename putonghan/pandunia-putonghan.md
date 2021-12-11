@@ -32,7 +32,6 @@ almari - 碗碟橱
 almas - 钻石  
 alo - 另一  
 alo fen di - 分开的  
-alo rai - 不同意  
 alpaka - 无峰驼  
 alumin - 铝  
 ama - 爱  
@@ -60,21 +59,17 @@ antena - 天线
 antra - 肠子  
 anus - 肛门  
 aple - 苹果  
-aplika - 运用  
 arabi babul - 阿拉伯金合欢  
 araki - 烈酒  
 arane - 蜘蛛  
 arane nete - 蜘蛛网  
 arbuza - 西瓜  
-area - 面积  
 argente - 银  
 argon - 氩  
 arka - 弓 (琴弓, 拱)  
 arka chati - 拱顶  
 arme - 武器  
-aroma - 闻到  
 aroma - 气味  
-aroma - 发臭  
 aroma melon - 香瓜  
 arsen yum - 砷  
 arte ja - 美术家  
@@ -124,7 +119,6 @@ banka kan - 银行
 bano - 板子  
 bano gem - 版图游戏  
 banya - 洗澡  
-banya - 游泳  
 banya kamar - 浴室  
 bari fon - 重音符号  
 bari yum - 钡  
@@ -151,6 +145,7 @@ be fobi - 害怕
 be hogo - 烧  
 be jaga - 睡醒  
 be kino - 动  
+be kush - 躺  
 be mal - 属于  
 be pute - 腐烂  
 be retro - 返回 (回来)  
@@ -238,9 +233,7 @@ cheng bede - 双层床
 cheti - 七 (7)  
 chili - 菜椒  
 chili fun - 辣椒粉  
-ching - 请  
 chini - 瓷器  
-chira - 撕裂  
 chira - 撕裂  
 chira chira - 撕毁  
 chira chira di - 褴褛的  
@@ -307,8 +300,7 @@ dobe - 砖
 dokumen - 文件  
 dokumen filme - 纪录片  
 dolfin - 海豚  
-dom - 房子  
-dom - 家  
+dom - 家 (房子)  
 dom desha - 祖国  
 dong - 东  
 dosil - 驯服的  
@@ -352,16 +344,24 @@ europa yum - 铕
 
 fa - 作  
 fa alo - 改變  
+fa alo rai - 不同意  
+fa aplika - 运用  
+fa aroma - 闻到  
+fa aroma - 发臭  
+fa banya - 游泳  
 fa bina - 建设  
+fa ching - 请  
 fa chuli - 处理 (对待)  
 fa dante - 咬  
 fa dika - 瞄准  
 fa ding - 决定  
 fa dosil - 驯养  
 fa dus forma - 变丑  
+fa fei - 飞  
 fa fen gata - 分析  
 fa fobi - 吓唬  
 fa for - 除去  
+fa fuku - 穿  
 fa gong - 工作  
 fa hisabu - 计算  
 fa hogo - 燃烧  
@@ -369,22 +369,27 @@ fa in klus - 包括
 fa kave - 挖  
 fa kino - 动  
 fa lai - 带来  
+fa lanse grafi - 投射  
 fa linke - 连接  
+fa loga - 说话 (讲)  
 fa loka - 放置  
 fa mede - 帮助  
 fa memo - 记得 (回忆)  
 fa migra - 搬家  
+fa miti - 聚会  
 fa najis - 污染  
 fa nomi - 组织  
 fa pede - 放屁  
 fa ratibu - 整理  
 fa re - 重复  
 fa safa va tela - 擦  
+fa saide - 打猎  
 fa shipi - 弄湿  
 fa shiti bai - 输  
 fa shofer - 开车  
 fa shopi - 买  
 fa shula - 学习  
+fa shuli - 修理  
 fa shuru - 开始  
 fa sing foto - 闪烁  
 fa sir - 隐藏  
@@ -398,11 +403,11 @@ fan - 坭
 fan defa bano - 挡泥板  
 fan topo - 沼泽  
 fase - 面  
+fase area - 面积  
 fase tele - 深  
 fate - 事实  
 fatu - 惩罚  
 fatura - 帐单  
-fei - 飞  
 fem - 女  
 fen - 部分  
 fen gata - 分析  
@@ -438,7 +443,6 @@ frute - 果
 frute bagi - 果园  
 fufu - 富富  
 fuku - 衣服  
-fuku - 穿  
 fuku vashi gi - 洗衣机  
 fungu frute - 蘑菇  
 fute marke - 脚印  
@@ -548,7 +552,7 @@ hande shaka - 胳膊
 hapu - 合适  
 Hartum - 喀土穆  
 hata - 直到  
-hata - 连  
+hata di - 连  
 hatar - 危险  
 heli yum - 氦  
 helis - 螺旋  
@@ -640,7 +644,6 @@ jus - 汁
 ## K  
 
 ka - 比  
-ka - 家  
 kable - 绳子  
 kaboga - 南瓜  
 kadim yum - 镉  
@@ -695,7 +698,7 @@ kardon karchof - 刺苞菜蓟
 karga - 擔子  
 kari - 咖喱  
 karma - 作为 (行为)  
-karma ja - 活性  
+karma ja di - 活性  
 karma loga - 动词  
 karote - 红萝卜  
 karse - 粗糙  
@@ -775,7 +778,6 @@ kupa - 杯子
 kupre - 铜  
 kurban - 牺牲  
 kuri yum - 锔  
-kush - 躺  
 
 ## L  
 
@@ -794,7 +796,6 @@ lama - 喇嘛
 lampa - 灯  
 lana - 诅咒  
 lanse grafi - 投影  
-lanse grafi - 投射  
 lanse she - 投掷物  
 lantan - 镧  
 lashe - 落 (留下)  
@@ -835,7 +836,6 @@ lisan - 舌头
 liste - 单子  
 lito yum - 锂  
 litre - 升  
-loga - 说话 (讲)  
 loga - 语言  
 loga fen - 音节  
 loga jama - 词汇  
@@ -893,8 +893,8 @@ mata badan - 尸体
 mata badan fili - 恋尸癖  
 mate - 物质  
 mate lona - 唯物论 (唯物主义)  
-matur - 成年人  
 matur fem - 女人  
+matur jen - 成年人  
 matur man - 男人  
 mau - 猫  
 maze - 袜子  
@@ -902,7 +902,7 @@ meche - 比赛
 medan - 广场  
 medan papi - 虞美人 (雛罌粟)  
 mede - 帮  
-medi - 中型  
+medi di - 中型  
 medi dia - 正午  
 medi noche - 半夜 (午夜)  
 medu - 蜜  
@@ -933,7 +933,6 @@ mimon su - 我们的
 minta - 薄荷  
 mirde - 微弱的  
 Misri - 埃及  
-miti - 聚会  
 miti - 会议  
 mitre - 米 (公尺)  
 moka - 树木  
@@ -1017,7 +1016,7 @@ nong nomi - 农学
 norde - 北  
 nostalgia - 怀旧  
 note she - 便条  
-nove - 新  
+nove di - 新  
 nove ka - 新手  
 nove loga - 新词  
 nuka - 颈  
@@ -1196,7 +1195,6 @@ sabun - 肥皂
 safar - 旅行  
 sagu - 西谷米  
 sahi - 正确  
-saide - 打猎  
 saide - 狩猎  
 saide ja - 狩人  
 sal - 盐  
@@ -1276,7 +1274,6 @@ shula ja - 学生
 shula kan - 学校  
 shula she - 课  
 shula shefe - 校长  
-shuli - 修理  
 shuli - 修理  
 shuli ja - 修理工人  
 shuru - 开始  

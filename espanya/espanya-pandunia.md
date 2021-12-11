@@ -41,11 +41,11 @@ acontecimiento (caso, suceso, evento) - kas
 acordar - fa sam rai  
 acordarse - fa memo  
 acortar (abreviar) - korte fa  
-acostar (poner) - kush  
-acostarse (echarse, tenderse, tumbarse) - kush  
+acostar (poner) - fa kush  
+acostarse (echarse, tenderse, tumbarse) - be kush  
 actinia (anémonas de mar) - hai hua  
 actinio - acini yum  
-activo - karma ja  
+activo - karma ja di  
 acto (acción) - karma  
 actor (actriz) - rol ja  
 actor (hacedor, perpetrador, agente) - karma ja  
@@ -66,7 +66,7 @@ adoquín - gola seku
 adoración (veneración, culto) - puja  
 adormidera (amapola real) - sona papi  
 adulterio - zina  
-adulto - matur  
+adulto - matur jen  
 adverbo - mode loge  
 aeroplano - fei gi  
 aeropuerto - air porte  
@@ -104,7 +104,7 @@ Albania - Chipe
 albaricoque (ciruela) - briko  
 albañil (mampostero, cantero) - seku jiang ja  
 alcachofera - karchof  
-alcalino - kali  
+alcalino - kali di  
 alcohol - alkol  
 alcohólico - alkol di  
 aldea - chun  
@@ -140,7 +140,7 @@ alquiler (arriendo) - kira
 altar - puja meza  
 alternar (interactuar) - fa sosi  
 alto (parte de arriba) - gau  
-alto - gau  
+alto - gau di  
 altura (altitud) - gau ta  
 alumbre - alumin mate  
 aluminio - alumin  
@@ -150,10 +150,10 @@ alúmina - alumin okside
 amado (cariño) - ama jen  
 amante (enamorado) - ama ja  
 amapola silvestre - medan papi  
-amar románticamente - romanse  
+amar románticamente - fa romanse  
 amargo - kali guste  
 amarillo - huang  
-amasar (masajear) - masaje  
+amasar (masajear) - fa masaje  
 amateur (aficionado) - hobi ja  
 ambiental (ecológico, natural) - eko di  
 ambiguo - poli mana di  
@@ -187,12 +187,12 @@ anillo (sortija) - angul ring
 anillo - ring  
 animación (dibujo animado) - anime  
 animal (bestia) - zou  
-animar - anime  
+animar - fa anime  
 aniversario - nen festa  
 ano - anus  
 antartida - Antartika  
 antena - antena  
-anterior (remoto) - pas  
+anterior (remoto) - pas di  
 antibalas - dana sekur  
 Anticristo - an mesi  
 Antigua - Antigua  
@@ -243,7 +243,7 @@ arma nuclear - kerne arme
 armadura - defa kaske  
 armario - almari  
 Armenia - Haye  
-armonioso - harmoni  
+armonioso - harmoni di  
 armonía - harmoni  
 arnés (arreos, jaeces) - harnes  
 arquero - arka ja  
@@ -256,7 +256,7 @@ arroba (@) - adres zi
 arromántico - an romanse  
 arroz - ris  
 arruinado (devastado, asolado) - harabu  
-arruinar (destruir, devastar, asolar) - harabu  
+arruinar (destruir, devastar, asolar) - fa harabu  
 arsénico - arsen yum  
 arte marcial - jang suta  
 artesano - jiang ja  
@@ -275,9 +275,8 @@ Asia - Asia
 Asiria - Ashur desha  
 asiático - asia  
 asma - asma  
-asociar - liga  
+asociar - fa liga  
 asombrar - fa ajibu  
-asombro - ajibu  
 aspecto - rupa  
 aspiradora - fun chupa gi  
 Assur (Ashur) - Ashur  
@@ -290,12 +289,12 @@ asunto (caso) - sual tema
 asustador - fobi ja  
 asustar (atemorizar) - fa fobi  
 ataque - agresi  
-atar (amarrar) - bande  
+atar (amarrar) - fa bande  
 Atenas - Athina  
 ateo - an deu sim ja  
 attracción (-filia) - fili  
 atún - tuna  
-aullar - ulul  
+aullar - fa ulul  
 aullido - ulul  
 auspicioso (propicio) - bon sin di  
 Australia - Australia  
@@ -386,7 +385,7 @@ basural - laji bagi
 basurero - laji tong  
 batidora (licuadora, mezcladora) - mishe gi  
 baya - beri  
-bañarse - banya  
+bañarse - fa banya  
 bañera - banya  
 baño - banya kamar  
 bebé - bebe  
@@ -567,7 +566,7 @@ cannabis (hachís, marihuana) - ganja
 canoa - kano  
 cansarse (fatigar) - be fatige  
 Cantalupo in Sabina - Kantalupo va Sabina  
-cantar - chanta  
+cantar - fa chanta  
 cantidad - poli ta  
 caos (desorden) - haos  
 capa (manto) - mantol  
@@ -623,7 +622,7 @@ cauri - kauri
 causar - fa sabu  
 cavar (excavar) - fa kave  
 cazador - saide ja  
-cazar (pescar) - saide  
+cazar (pescar) - fa saide  
 caña - gana  
 caña de azúcar - sukar gana  
 caña de pesca - huke lin kane  
@@ -647,7 +646,7 @@ centenario - sento nen di
 centi- (por ciento) - senti  
 central - jong di  
 centrar (concentrar) - fa jong  
-centrarse (en el centro de) - jong  
+centrarse (en el centro de) - na jong  
 centro - jong  
 centuria (siglo) - sento nen  
 centímetro - sentimitre  
@@ -747,7 +746,7 @@ coco - bubu
 coco - yezi  
 cocodrilo - long krokodil  
 codicioso (avaro) - tami  
-codificar (cifrar) - kode  
+codificar (cifrar) - fa kode  
 codo - kudi  
 cohete (misil) - rokete  
 col china - baku choi  
@@ -791,7 +790,7 @@ competir - fa meche
 completar (terminar) - pul fina  
 complot (conspiración) - sir plan  
 comportamiento (conducta) - manera  
-comportarse (portarse) - manera  
+comportarse (portarse) - fa manera  
 compota de manzanas - aple sos  
 comprador - shopi ja  
 comprar - fa shopi  
@@ -880,7 +879,7 @@ cosmos - kosmo
 costa (orilla) - hai kinar  
 Costa de Marfil - Kote Da Ivar  
 Costa Rica - Kosta Rika  
-costar - koste  
+costar - fa koste  
 costumbre (hábito) - ada  
 costumbre (tradición, convención) - suna  
 costura (sutura) - sutur  
@@ -919,7 +918,7 @@ crueldad (tiranía) - zalim ta
 cruz - krus  
 cruzar - be krus  
 cráneo (calavera) - sar oste  
-crítico (fundamental) - krizi  
+crítico (fundamental) - krizi di  
 crítico - piping ja  
 crónico - dur di  
 cuaderno (libreta) - note buku  
@@ -1001,7 +1000,7 @@ daño (corrupción) - avar
 de (desde) - ze  
 de (posposición de posesión) - da  
 de (posposición de posesión) - su  
-de lado - late  
+de lado - late di  
 debajo - na niche  
 debatir (discutir) - fa lona  
 deber (necesitar) - mus  
@@ -1009,13 +1008,13 @@ deber (se recomienda) - be sel
 deci- - desi  
 decibelio - desi bel  
 deciembre - mes des du  
-decir (hablar) - loga  
+decir (hablar) - fa loga  
 decoración (adorno) - sundar daka  
 decorar (adornar) - fa sundar daka  
 dedicar - sata don  
 dedo - angul  
-defecar - kaka  
-defender - defa  
+defecar - fa kaka  
+defender - fa defa  
 defensa - defa  
 defensor - defa ja  
 definir - fa sifa  
@@ -1063,7 +1062,7 @@ desfigurar - fa dus forma
 desierto - arena topo  
 deslizar - glis  
 desnudo - nude  
-despertar - jaga  
+despertar - fa jaga  
 despertarse - be jaga  
 despierto - jaga  
 despreciar (desdeñar) - fa paraya  
@@ -1079,7 +1078,7 @@ devolver (vomitar) - retro gula
 diagonal - transe gon di  
 diamante - almas  
 diario - den loge  
-dibujar (trazar) - grafi  
+dibujar (trazar) - fa grafi  
 dibujo (diseño) - desen  
 diente - dante  
 dientes de león (panaderos) - makan hua  
@@ -1103,7 +1102,7 @@ dirigir (mandar, conducir, capitanear) - lida
 disco - diske  
 discreto - alo fen di  
 discusión (debate, discurso) - lona  
-disentir (no estar de acuerdo) - alo rai  
+disentir (no estar de acuerdo) - fa alo rai  
 disfrutar (jugar) - be vanu  
 disionario (lexicón) - loga liste  
 disparar - pau  
@@ -1197,7 +1196,7 @@ electricidad - eletro
 electrón - eletron  
 elefante - gaja  
 elegante (chic) - shike  
-elegir (escoger, seleccionar) - chuze  
+elegir (escoger, seleccionar) - fa chuze  
 elemento (unidad fundamental) - so  
 elemento químico - kimi so  
 elfo - elfe  
@@ -1222,7 +1221,7 @@ emotivo - emosi di
 empanada (pelmeni) - pelmen  
 emparejar (quedar) - kon bon  
 emperador - imperi ja  
-emplear (aplicar) - aplika  
+emplear (aplicar) - fa aplika  
 empresario - biznes ja  
 empujar (presionar) - pusha  
 en (a) - na  
@@ -1231,7 +1230,7 @@ en el sentido del las agujas del reloj - rota raite
 en línea - na lin  
 encanto - charme  
 encarcelar (aprisionar) - fa jela  
-encontrar - miti  
+encontrar - fa miti  
 encontrarse (estar, situarse) - be loka  
 encurtido - achar di  
 encurtir - fa achar  
@@ -1260,7 +1259,7 @@ entregar (enviar) - gong mise
 entristecer (poner triste) - fa duka  
 enviar (transmitar) - mise  
 envoltura - lifafa  
-envolver - lifafa  
+envolver - fa lifafa  
 enzima - enzim  
 epistemología - sabe logi  
 equal (similar) - sam  
@@ -1279,7 +1278,7 @@ errar (cometer un error) - fa galte
 error - galte  
 erróneo - galte di  
 es decir (en otras palabras) - alo nam  
-escalar - eskale  
+escalar - fa eskale  
 escalera - eskale  
 escama - shalke  
 Escandinavia - Eskandinavia  
@@ -1310,7 +1309,6 @@ eslavo - Slave
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
 esmeralda - zumarde  
-espacio (separación) - hali  
 espacio (texto) - hali zi  
 espada - katana  
 espalda (lomo) - ruke  
@@ -1390,7 +1388,6 @@ explorador - logi safar ja
 explorar - brauza  
 explosionar - be bum  
 explosión (estallado) - bum  
-explotar (estallar) - be bum  
 exponer (revelar) - vai poze  
 exportar - vai mise  
 exposición (espectáculo) - shou  
@@ -1429,7 +1426,7 @@ favorito (preferido) - mas fili di
 faz (faceta) - fase  
 febrero - mes du  
 fecha - nen mes den  
-felicitar - barka  
+felicitar - fa barka  
 feliz - suka  
 feminismo - fem sim  
 feministe - fem sim ja  
@@ -1578,7 +1575,7 @@ Ghana - Gana
 Gibraltar - Jibraltar  
 giga- - giga  
 ginseng - jenshen  
-girar (rotar) - rota  
+girar (rotar) - be rota  
 girasol - sol hua  
 global (de todo el mundo) - pan dunia di  
 global (mundial) - dunia di  
@@ -1617,7 +1614,7 @@ gratitud - shukur ta
 grava - grave  
 gravar (cobrar tasas) - kape yo taksi  
 Grecia - Helen  
-griego (helénico) - Helen  
+griego (helénico) - Helen di  
 gris - hui rang  
 gritar - krita  
 Groenlandia - Kalal  
@@ -1660,7 +1657,7 @@ habitación (cuarto, sala, pieza) - kamar
 habla (palabras) - loga  
 hablador (locuaz) - loga tabi di  
 hablante de Pandunia - pandunia ja  
-hace girar (dar vueltas) - rota  
+hace girar (dar vueltas) - fa rota  
 hacedor (perpetrador) - ja  
 hacer - fa  
 hacer posar (plantar) - fa poze  
@@ -1676,7 +1673,7 @@ hambre - yam yau
 hamo (anzuelo) - peshe huke  
 hardware (soporte físico) - fizika gi  
 hasio - hese yum  
-hasta (también) - hata  
+hasta (también) - hata di  
 hasta - hata  
 Hawái - Havai  
 hebra (fibra) - lin so  
@@ -1723,7 +1720,6 @@ historieta (caricaturas) - grafi kata
 hm… - hem…  
 hockey - hoki  
 hockey sobre hielo - ais hoki  
-hogar - dom  
 hoja - yepa  
 holmio - holme yum  
 holograma - holo grafi  
@@ -1795,7 +1791,7 @@ ilustrador - grafi ja
 imagen (gráfico, dibujo) - grafi  
 imaginación (fantasía) - fantazi  
 imaginar (fantasear) - fa fantazi  
-imaginario (fantástico) - fantazi  
+imaginario (fantástico) - fantazi di  
 imitador - mima ja  
 imitar - mima  
 imperialismo - imperi sim  
@@ -1876,7 +1872,7 @@ invierno - leng mosim
 invitado (visita) - keka ja  
 invitar - ching lai  
 inyección - jusha  
-inyectar - jusha  
+inyectar - fa jusha  
 ion - ion  
 ir - ga  
 ira (furia) - furi ta  
@@ -2087,7 +2083,7 @@ llanura - plate topo
 llave - chabi  
 llenar - fa pul  
 lleno (completo) - pul  
-llevar (verstirse) - fuku  
+llevar (verstirse) - fa fuku  
 llorar - be duka  
 llorar - uhu  
 lluvia - shava  
@@ -2242,7 +2238,7 @@ medicamento (medicina, remedio, fármaco) - dava she
 medicina - dava logi  
 medidor - metre gi  
 medio (instrumento) - medi gi  
-medio (mediano) - medi  
+medio (mediano) - medi di  
 medio - medi  
 medio - medi she  
 medioambiente (naturaleza) - eko  
@@ -2254,7 +2250,7 @@ medusa - hai jele
 megavatio - mega vate  
 meitnerio - meitner yum  
 mejorar - bon darja  
-melodioso - melodi  
+melodioso - melodi di  
 melodía - melodi  
 melón - melon  
 melón amargo - kali melon  
@@ -2404,12 +2400,12 @@ Myanmar (Birmania) - Mianma
 máquina (dispositivo, aparato) - gi  
 máquina de escribir - kitabu gi  
 más - mas  
-más tarde - pos  
+más tarde - na pos  
 más temprano (antes, haber, en el pasado) - chen  
 máscara - maska  
 mástil - masta  
-máximo - masim  
 máximo - masim di  
+máximo - masim she  
 México - Mehiko  
 mínimo - minim di  
 Mónaco - Monako  
@@ -2442,7 +2438,6 @@ navegador - brauza gi
 navegar (ir en bote) - nave ga  
 Navidad - mesi jene  
 Nazi - nasi sosi sim ja  
-nazismo - nasi sosi sim  
 Naúru - Nauru  
 necesario - yau di  
 necesidad - yau ta  
@@ -2489,7 +2484,7 @@ noche - noche
 nombre - nam  
 nombre de usuario - uze ja nam  
 norma - norma  
-norma - norma  
+norma - norma di  
 norte - norde  
 Norteamérica - Norde Amerika  
 norteño - norde di  
@@ -2515,7 +2510,7 @@ Nueva Caledonia - Nove Kaledonia
 nueva línea - lin parche  
 Nueva Zelanda - Nove Zelande  
 nueve (9) - tisa  
-nuevo - nove  
+nuevo - nove di  
 nunca - siro sata  
 nutria - lotra  
 náhuatl (nahua) - nava  
@@ -2562,8 +2557,8 @@ oficina de correos - posta kan
 oganesón - oganeson  
 ogro (gnomo, trol, duende, trasgo) - gui  
 ojo - yen  
-oler (apestar) - aroma  
-oler (olfatear) - aroma  
+oler (apestar) - fa aroma  
+oler (olfatear) - fa aroma  
 olor (aroma) - aroma  
 olvidar - an memo  
 ominoso (amenazador) - dus sin di  
@@ -2719,7 +2714,7 @@ pecho (seno, tórax) - sine
 pedal - pedal  
 pedazo - tika  
 pedernal (sílex) - hogo seku  
-pedir (invitar; por favor) - ching  
+pedir (invitar; por favor) - fa ching  
 pedir prestado - jeka deku  
 pedo - pede  
 peer - fa pede  
@@ -2740,7 +2735,7 @@ película (filme) - kino grafi
 pena (tristeza) - duka  
 penal (penetenciario) - fatu di  
 pene - penis  
-pensar - fikir  
+pensar - fa fikir  
 pentaedro - lima fase  
 pentágono - lima gona  
 península - yaki nesi  
@@ -2854,7 +2849,6 @@ podrido (cariado) - pute
 podsol - hui darte  
 poema - shir  
 poeta - shir ja  
-poli- - poli  
 policía - polis  
 policía - polis ja  
 poliedro - poli fase  
@@ -2911,7 +2905,7 @@ prestar - jeka don
 presuponer - chen gar  
 presupuesto - bujete  
 prever (esperar, pensar) - chen vide  
-previo (anterior) - chen  
+previo (anterior) - chen di  
 primavera - hua mosim  
 primer (inicial, inaugural) - shuru di  
 primer ministro - shefe minister  
@@ -2954,7 +2948,7 @@ proponente (defensor) - mede ja
 proteger (asegurar, guardar) - fa sekur  
 proximidad - karibu ta  
 proyección - lanse grafi  
-proyectar - lanse grafi  
+proyectar - fa lanse grafi  
 proyectil (misil) - lanse she  
 proyecto - projete  
 proyector - grafi lanse gi  
@@ -3003,7 +2997,7 @@ queja (lamento) - shikaya
 quemar - fa hogo  
 quemarse - be hogo  
 querer (desear) - vol  
-querer (disponer) - ichi  
+querer (disponer) - fa ichi  
 querido - ama di  
 querubín - kerubi  
 queso - chize  
@@ -3026,10 +3020,10 @@ químico - kimi di
 racismo - rasa sim  
 racista - rasa sim ja  
 ración (dosis) - doze  
-radiación - radi  
+radiación - radi karma  
 radiación ionizante - ion radi  
 radiactivo - ion radi di  
-radiar (emitir) - radi  
+radiar (emitir) - fa radi  
 radio - radi yum  
 radio - radio  
 radiotransmisor - radi miser  
@@ -3046,7 +3040,6 @@ raramente - nadir mar
 raro (extraño) - guai  
 raro - nadir  
 raro - rare  
-rasgar (romper) - chira  
 rasgar (romper) - chira  
 raspar (arañar) - frike  
 ratón - mushu  
@@ -3098,7 +3091,7 @@ remolacha azucarera - sukar bete
 renio - ren yum  
 renovar - fa nove  
 reparador - shuli ja  
-reparar (arreglar) - shuli  
+reparar (arreglar) - fa shuli  
 repetición - re  
 repetir - fa re  
 reportar - fa reporte  
@@ -3131,7 +3124,7 @@ revisar (chequear, examinar, inspeccionar) - cheke
 revista (periódico, gaceta) - gazeta  
 rey - man raja  
 rey o reina - raja  
-rezar (orar) - dua  
+rezar (orar) - fa dua  
 rezo (oración) - dua  
 reír - haha  
 ribera - rivo kinar  
@@ -3214,7 +3207,7 @@ salida - chuti mun
 salino - sal di  
 salir (egresar) - be vai  
 salir (irse) - fa chuti  
-salmodiar - mantra  
+salmodiar - fa mantra  
 salmón (trucha) - salmon  
 salmón chum (keta) - baku salmon  
 salmón del Atlántico - atlanti salmon  
@@ -3290,7 +3283,7 @@ serie - sili
 serpiente (culebra) - serpe  
 servicio - serve  
 servidor - serve gi  
-servir - serve  
+servir - fa serve  
 sexo (género) - jinse  
 sexo - bio jinse  
 sexo - sekse  
@@ -3310,7 +3303,7 @@ Sierra Leona - Salon
 siete (7) - cheti  
 sigilo - sir ta  
 significado (acepción) - mana  
-siguiente (trasero) - pos  
+siguiente (trasero) - pos di  
 sij - siki din ja  
 sijismo - siki din  
 silencioso - shush di  
@@ -3324,7 +3317,7 @@ simpático (amable, tierno, dulce) - dosti di
 simular - fa sam sifa  
 sin amigos - dosti hin  
 Singapur - Singapur  
-sino - alo  
+sino - alo di  
 sintoísmo - shindau din  
 Siria - Suria  
 sismología - sismo logi  
@@ -3337,7 +3330,7 @@ sobre - na supra
 sobrepasar - be supra  
 social - sosi di  
 socialismo - sosi sim  
-socialismo nacional - nasi sosi sim  
+socialismo nacional (nazismo) - nasi sosi sim  
 socialista - sosi sim ja  
 sociedad - sosi  
 sodio - natri  
@@ -3356,7 +3349,7 @@ someterse (rendirse, ceder) - be islam
 sonar - fa soni  
 sonido (audio) - soni  
 sopa - supa  
-soplar (echar) - hava  
+soplar (echar) - fa hava  
 soporte (perchero, atril) - lipa baze  
 sorpresa - supriza  
 soñoliento (somnífero) - sona tabi  
@@ -3382,7 +3375,6 @@ suegra - gami ma
 suegro - gami pa  
 sueño - sona  
 sufijo - pos fikse  
-sufijo para regiónes y sustantivos abstractos - ya  
 sufragio (derecho al voto) - vote haki  
 sufrir (verbo pasivo) - be  
 sufrir - be pasi  
@@ -3493,7 +3485,7 @@ teoría - teori
 teosofía - deu sofi  
 tera- - tera  
 terbio - terbi yum  
-terminar (acabar) - fin  
+terminar (acabar) - fa fin  
 termómetro - termo metre gi  
 terracota - baka fan  
 terraplanista - plate geo sim ja  
@@ -3574,7 +3566,7 @@ Transnistria (Cisdniéster) - Transe Nistre Desha
 trapo (tela para limpiar) - safa tela  
 trasero (nalgas) - pigu  
 tratar (llevar, manejar, lidiar, procesar) - fa chuli  
-tratar de - tema  
+tratar de - fa tema  
 tren - tren  
 tres (3) - tri  
 tribu - tribu  
@@ -3743,11 +3735,11 @@ vista (visión) - vide she
 vitamina - vitamin  
 viudo - vidou  
 vivir (residir) - be dom  
-vivo (lleno de vida) - jiva  
+vivo (lleno de vida) - fa jiva  
 viñedo - putau bagi  
 vocabulario (léxico) - loga jama  
 vocal - jong fon  
-volar - fei  
+volar - fa fei  
 volcán - hogo san  
 voltio (V) - volte  
 voluntad - ichi  
@@ -3815,7 +3807,7 @@ zulú - Zulu
 ángulo recto - orto gona  
 árabe - arabi  
 árbol - moka  
-área (superficie) - area  
+área (superficie) - fase area  
 área (zona, región) - area  
 áspero (basto) - karse  
 ástato - astatin  
