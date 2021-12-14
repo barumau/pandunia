@@ -1,7 +1,7 @@
 # halo, dunia!
 
 ¡Hola, mundo!
-¡Les damos la bienvenida a Pandunia, el idioma auxiliar equitativo a nivel global! 
+¡Les damos la bienvenida a Pandunia, el idioma auxiliar que es equitativo a nivel global! 
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
@@ -12,17 +12,17 @@ Pandunia es una lengua auxiliar internacional, es decir, es una lengua diseñada
 para ser utilizada en la comunicación internacional, en cualquier lugar del
 mundo, como complemento a otros idiomas.
 
-Algunas características notables de Pandunia:
+Estas son algunas características notables de Pandunia:
 
 - Es más fácil y sencilla que las lenguas nacionales que se usan en la
   comunicación internacional, tales como el inglés, el chino, el francés y el
   árabe.
 - Como idioma construido, pandunia es completamente regular, no tiene
   excepciones.
-- Es verdaderamente internacional. Su vocabulario está compuesto por palabras
+- Es realmente internacional ya que su vocabulario se compone de diversas palabras
   tomadas de muchos idiomas de todo el mundo, incluyendo los 10 más hablados.
 
-Versión final de Pandunia fue inaugurada en septiembre 2021.
+La versión final de Pandunia fue inaugurada en septiembre 2021.
 Tiene una gramática más sencilla, formas de palabras más internacionales, y muchas palabras nuevas.
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
@@ -33,9 +33,9 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 - [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
 - [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_shula.html)
 - [Guía de conversación](200_baze_jumla.md)
-- [Gramático de Pandunia](pan.pdf) como PDF
-- [Dicionario que puede buscarse](http://www.pandunia.info/pandunia/logia.html)
-- [Orígenes de las palabras](leksaslia.md)
+- [Gramática de Pandunia](pan.pdf) como PDF
+- [Dicionario que permite búsquedas](http://www.pandunia.info/pandunia/logia.html)
+- [Orígenes de las palabras(etimología de Pandunia)](leksaslia.md)
 
 
 ## Textos
@@ -44,10 +44,10 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 
 ## Artículos
 
-- [Presentación (PDF en inglés)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
-- [Pandunia, un idioma para el contacto global (PDF en inglés)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
+- [La presentación (PDF en inglés)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
+- [Pandunia, que es un idioma para el contacto global (PDF en inglés)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf),
   un artículo aparecido en *Interlinguistica Tartuensis 10* (en inglés)
-- [¿Por qué me gusta pandunia (PDF en inglés)?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinión de estudiantes
+- [¿Por qué me gusta pandunia? (PDF en inglés)](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinión de estudiantes
 
 ## Aprende con otros
 
