@@ -166,7 +166,6 @@ arme|||fra:arme, eng:arms, spa:por:arma|weapon (arms)|arme|arma|arma|||武器|||
 aroma|||eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat), jpn:アロマ (aroma)|scent (odor, fragrance, aroma)|odeur|olor (aroma)|cheiro|запах (аромат)||气味|香り (匂い, 臭い)|||||||||haju|zapach (aromat, smród, odór)
 aroma melon|bio|Cucumis melo, Makuwa||Korean melon||melón coreano|melão coreano|||香瓜|マクワウリ||||||||||melon koreański
 arsen yum|yum 033|As|eng:arsenic, fra:arsenic, spa:arsénico, por:arsénic, zho:砷 (shēn), vie:asen, hin:आर्सेनिक, ben:আর্সেনিক, may:arsen, swa:aseniki, ara: زرنيخ|arsenic|arsenic|arsénico|arsénic|мышьяк|زرنيخ|砷|ヒ素|비소|asen|आर्सेनिक|আর্সেনিক|arsen|aseniki|arsenik|arseno|arseeni|arsen
-arte ja||||artist|artiste|artista|artista|художник (артист)||美术家||||कलाकार||seniman|mwanasanaa|sanatçı|artisto|taiteilija|artysta
 Artika|desha|||Arctic|arctique|Ártico||||||||||||||Arktis|Arktyka
 Artika Hai||||Arctic Ocean|océan Arctique|océano Ártico||||||||||||||Jäämeri|Ocean Arktyczny
 Aruba|desha|AW||Aruba|Aruba|Aruba||||||||||||||Aruba|Aruba
@@ -1111,6 +1110,7 @@ fa pul||||fill|remplir|llenar||заполнять|||||||||||plenigi|täyttää|w
 fa pul bon||||perfect (optimize, refine, polish)|perfectionner (parfaire)|perfeccionar|aperfeiçoar|||||||||||||tehdä täydelliseksi|doskonalić (optymalizować, ulepszać)
 fa radi||||radiate||radiar (emitir)||||||||||||||säteillä|promieniować
 fa rai||||deem (opine, think that)||opinar|||||||||||||opinii|olla jtkn mieltä (pitää jnkn)|uważać (sądzić)
+fa rande||||smoothen with a plane||cepillar con garlopa||||||||||||||höylätä|heblować
 fa ratibu|||ara: رَتَّبَ (rattaba), swa:ratibu, hau:rattaba, fas: ترتيب (tartīb), hin:तरतीब (taratība), may:tertib, tur:tertip|order (arrange)||ordenar (arreglar)||||整理|揃える|||व्यवस्थित करना||||||järjestää (järjestellä)|porządkować, organizować
 fa re||||repeat (iterate)|répéter|repetir|repetir|повторять||重复|繰り返す|되풀이하다||दोहराना|||||ripeti (refari)|toistaa|powtórzyć, powtarzać
 fa redi||||prepare (make ready)||preparar (hacer listo)||||||||||||||tehdä valmiiksi|przygotować, przygotowywać
@@ -1230,7 +1230,7 @@ fatu di||||penal (penetenciary)|pénal|penal (penetenciario)|penal||||||||||||||
 fatura|||fra:facture, spa:factura, por:tur:fatura, rus:фактура (faktura), ara: فَاتُورَة‎ (fātūra)|bill (check, invoice)|addition (facture)|cuenta (factura)|conta (fatura)|счёт (фактура)|فَاتُورَة‎|帐单|料金|계산서 (송장)||||bon (bil)||fatura|kalkulo (fakturo)|lasku (faktuura)|rachunek (faktura)
 favor|||eng:spa:por:favor, fra:faveur + rus:фаворитизм (favoritizm)|favor (goodwill)||||||||||||||||suosio (hyväntahtoisuus)|
 faze|||spa:por:ita:may:fase, eng:fra:phase, rus:фаза (faza), pol:faza, fas:(fāz)|stage (phase)|phase|etapa (fase)||фаза||||||||||||vaihe (etappi)|etap, faza
-febre|||por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre|fiever||fiebrie (calentura)|||||||||||||febro|kuume|gorączka
+febre|||por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre|fever||fiebrie (calentura)|||||||||||||febro|kuume|gorączka
 fei||||flight|vol|vuelo|voo|полёт|||||||||||flugo|lento|lot
 fei gi||||airplane||aeroplano||||||||||||||lentokone|samolot
 fei gi di kape ja||||plane hijacker||||||||||||||||lentokonekaappari|porywacz samolotu
@@ -2137,7 +2137,7 @@ kore|||fra:courir, spa:por:correr|run|courir|correr|correr|бегать (беж�
 kore ja||||runner|coureur|corredor|corredor|бегун||跑步者||||||||koşucu|kuristo|juoksija|
 korne|||fra:corne, spa:cuerno, por:corno, eng:horn, ara:(qarn)|horn|corne|cuerno|corno||||||||||||korno|sarvi|róg
 korne melon|bio|Cucumis metuliferus||horned melon (kiwano)|||pepino-africano (kiwano)|кивано (рогатая дыня)||刺角瓜|ツノニガウリ||||||||||ogórek kiwano
-kornonos|bio|Rhinocerotidae||rhinoceros||rinoceronte||носорог|||||||||||rinocero|sarvikuono|nosorożec
+korne nos|bio|Rhinocerotidae||rhinoceros||rinoceronte||носорог|||||||||||rinocero|sarvikuono|nosorożec
 korona|||fra:couronne, eng:crown, spa:corona, jpn:クラウン (kuraun), rus:корона (korona), por:coroa|crown|couronne|corona||корона|||||||||||krono|kruunu|korona
 korona virus||||corona virus|||||||||||||||krunviruso|koronavirus|koronawirus
 korte|||spa:corto, rus:короткий (korotkiy), por:curto, fra:court, deu:kurz, eng:short|short (brief)||corto (breve)|||||||||||||mallonga|lyhyt|krótki
@@ -2225,9 +2225,6 @@ laji|||zho:垃圾 (lājī)|garbage (rubbish, trash, waste)|ordures|basura (desec
 laji bagi||||dump (junk yard)|décharge|basural|aterro (lixão)|свалка||垃圾场|ゴミ捨て場||||||||rubejo|kaatopaikka|
 laji tong||||garbage can (trash bin)|poubelle|basurero|lixeira|мусорный бак||垃圾桶|ごみ箱|쓰레기통|thùng rác|कचरा पात्र||tong sampah|pipa|çöp kutusu|rubujo|jäteastia (roskakori, roskis)|śmietnik
 laka|||eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|lacquer (varnish)||laca||||||||||||||lakka|lakier
-lal linse|bio|Lynx rufus||bobcat||lince rojo (gato montés)||рыжая рысь||短尾貓|ボブキャット||||||||||ryś rudy
-lal oranje|bio|Citrus reticulata||mandarin orange (tangerine)|mandarine|mandarina (tangerina)|tangerina (mandarim)|мандарин||柑橘 (红橘)|ポンカン (マンダリン)|||नारंगी (nārangī)||limau mandarin (oren mandarin, tangerin)|chenza||mandarino|mandariini|mandarynka
-lal salmon|bio|Oncorhynchus nerka||sockeye salmon|saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||紅鮭|ベニザケ||||||||||nerka (łosoś czerwony)
 lala|||eng:lull, pol:lulać, fas: لالا کردن‎ (lâlâ kardan) + jpn:ララバイ (rarabai), tgl:lalay + swa:-lala|lull|||||||||||||||luli|tuudittaa|lulać
 lala bede||||cradle|berceau|cuna|berço|колыбель (люлька)||摇篮|揺り籠|요람||पालना|দোলনা|buaian||beşik|lulilo|kehto|kołyska (kolebka)
 lala chanta||||lullaby|berceause|canción de cuna (nana)|canção de ninar|колыбельная песня||摇篮曲|子守歌 (ララバイ)|자장가||लोरी||nina-bobok|tumbuizo|ninni|lulkanto|tuutulaulu|
@@ -2567,7 +2564,7 @@ Mikronesi|desha|FM||Micronesia|Micronésie|Micronesia||||||||||||||Mikronesia|Mi
 mikroskope||||microscope|microscope|microscopio|microscópio|микроскоп|مِجْهَر‎|显微镜|顕微鏡 (マイクロスコープ)|현미경|kính hiển vi|ख़ुर्दबीन|অণুবীক্ষণযন্ত্র|mikroskop|hadubini|mikroskop|mikroskopo|mikroskooppi|mikroskop
 mili|nomer|||milli-||mili-|||||||||||||mili-|milli-|mili-
 mili gram|unomete|mg||milligram||miligrama||||||||||||||milligramma|miligram
-mili metre|unomete|mm||millimeter||milimetre|||||||||||||milimetro|millimetri|milimetr
+mili mitre|unomete|mm||millimeter||milimetre|||||||||||||milimetro|millimetri|milimetr
 milke|||eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)|milk|lait|leche|leite|молоко|||牛乳 (ミルク)||||||||lakto|maito|mleko
 milke kardon|bio|Silybum marianum||milk thistle|chardon Marie|cardo mariano|cardo-mariano|расторопша пятнистая||水飞蓟|マリアアザミ||||||||||ostropest plamisty
 mima|||eng:fra:mime, por:mímico, rus:мим (mim)|mimic (imitate)|imiter|imitar|imitar (mimetizar)|имитировать||模拟  (模仿)||||||||taklit etmek||matkia (imitoida)|
@@ -2963,6 +2960,7 @@ pas|asp.aux.||eng:past, spa:pasado, por:passado, fra: passé|pass (go across or 
 pas dau||||pass (passage)|passe (passage)|paso (pasaje)|passagem||||||đèo|||||||sola (läpikulku)|
 pas di||||past (bygone)||anterior (remoto)|||||||||||||pasinta|ohitettu (mennyt)|przeszły, miniony
 pas loga||||password|mot de passe|contraseña|palavra-passe (senha)|пароль||密码|パスワード|암호 (패스워드)||पासवर्ड|পাসওয়ার্ড|kata sandi (kata laluan)||parola||tunnussana|
+pas tabi||||passive (inactive)|||||||||||||||||pasywny (nieaktywny)
 pase|||ita:pace, eng:peace, spa:por:paz, fra:paix, rus:пац- (pac-)|peace|paix|paz|paz|||和平|||||||||paco|rauha|pokój
 Pase Hai||||Pacific Ocean||océano Pacífico||||||||||||||Tyyni valtameri|Ocean Spokojny (Pacyfik)
 pase hai bakalau|bio|Gadus macrocephalus||Pacific cod|morue du Pacifique|||тихоокеанская треска|||マダラ||||||||||dorsz pacyficzny
@@ -2975,7 +2973,6 @@ paskal|unomete|Pa||pascal (Pa)||pascal (Pa)||||||||||||||pascal (Pa)|paskal (Pa)
 pasporte|||eng:passport, fra:passeport, spa:pasaporte, por:passaporte, rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|passport|passeport|pasaporte|passaporte|паспорт||护照|パスポート|여권|hộ chiếu|पासपोर्ट|পাসপোর্ট|paspor|paspoti|pasaport|pasporto|passi|paszport
 pasta|||eng:deu:paste, rus:паста (pasta), spa:por:pasta|paste (dough)|pâte|pasta|pasta|||||||||||||tahna (tahdas)|pasta
 pasta petra||||magma|magma|magma||||岩漿|マグマ (岩漿)||||||||||magma
-pastabi||||passive (inactive)|||||||||||||||||pasywny (nieaktywny)
 patate|bio||fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), swa:mbatata, eng:potato, tgl:patatas|potato||papa|||||||||||||terpomo|peruna (potaatti)|ziemniak
 pati|||deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|disease (illness, sickness)||enfermedad||||||||||||||sairaus (tauti)|choroba
 pati di||||ill (sick)||enfermo|||||||||||||malsana|sairas|chory
@@ -3179,12 +3176,12 @@ Qatar|desha|QA||Qatar||Catar (Qatar)||||||||||||||Qatar|Katar
 Qazaqe|desha|KZ||Kazakhstan||Kazajistán (Kazakistan)||||||||||||||Kazakstan|Kazachstan
 R||||R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R
 radi||||ray (radiation)||rayo||||||||||||||säde|promień
-radi geter||||radio receiver||receptor de radio|||||||||||||radio|radiovastaanotin|radio
 radi karma|||eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|||radiación||||||||||||||säteily|promieniowanie
 radi metre gi||||radiometer||radiómetro||||||||||||||säteilymittari|radoiometr
-radi miser||||radiotransmitter||radiotransmisor||||||||||||||radiolähetin|nadajnik radiowy
 radi yum|yum 088|Ra|eng:radium, fra:radium, spa:radio, por:rádio, rus:радий, zho:镭 (léi), jpn:ラジウム, kor:라듐, vie:rađi, hin:रेडियम, ben:রেডিয়াম, may:radium, swa:radi, ara: راديوم|radium|radium|radio|rádio|радий|راديوم|镭|ラジウム|라듐|rađi|रेडियम|রেডিয়াম|radium|radi|radyum|radiumo|radium|rad
 radio|||eng:fra:spa:por:radio, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)|radio|radio|radio|radio|радио||||||रेडियो|রেডিও||redio|radyo|||radio
+radio deku gi||||radio receiver||receptor de radio|||||||||||||radio|radiovastaanotin|radio
+radio mise gi||||radiotransmitter||radiotransmisor||||||||||||||radiolähetin|nadajnik radiowy
 radon|yum 086|Rn|eng:radon, fra:radon, spa:radón, por:rádon, rus:радон, zho:氡 (dōng), jpn:ラドン, kor:라돈, vie:rađơn, hin:रेडन, ben:রেডন, may:radon, swa:radoni, ara: رادون|radon|radon|radón|rádon|радон|رادون|氡|ラドン|라돈|rađơn|रेडन|রেডন|radon|radoni|radon|radono|radon|radon
 rai|||ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|opinion (view)|avis (opinion)|opinión (juicio, consideración)|opinião|мнение|رَأْي‎|意见 (见解)|意見 (見解)|의견 (견해)|ý kiến (kiến giải)|विचार (राय)|অভিমতি (নজর)|opini|wazo (rai)|rey|opinio|mielipide (näkemys)|opinia, pogląd
 raite|||eng:right|right hand side||lado derecho|||||右|||||||||oikea puoli|prawa strona
@@ -3195,7 +3192,6 @@ raja desha||||kingdom||reino||||||||||||||kuningaskunta|królestwo
 raja di||||royal||real (de realtad)||||||||||||||kuninkaallinen|królewski
 ramazan||||Ramadan||Ramadán||||||||||||||ramadan|Ramadan
 rampe|||fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|ramp (incline, slope)||rampa (cuesta)|||||||||||||ramplo|luiska (ramppi)|rampa
-randa||||smoothen with a plane||cepillar con garlopa||||||||||||||höylätä|heblować
 rande|||tur:rende, bul:ренде (rende), ron:rindea, hin:रंदा, (randâ), fas:(rande), swa:(randa)|plane (tool for making a smooth surface)||garlopa||||||||||||||höylä|hebel, strug
 rang|||ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk|color (colored)|couleur|color (colorido)|cor|||||||रंग|রং||rangi|renk|koloro|väri|kolor
 rang arka||||rainbow|arc-en-ciel|arco iris||радуга|||虹||||||||||tęcza
@@ -3268,7 +3264,7 @@ rol ja||||actor (actress)||actor (actriz)|||||||||||||aktoro (aktorino)|näyttel
 rolo|||eng:roll, fra:rouleau, deu:Rolle, spa:rollo, por:rolo|roll (scroll, coil)||rollo||||||||||||||käärö|rulon (rolka, zwój)
 rom|||eng:rum, spa:ron, hin:रम (ram), rus:ром (rom)|rum||ron||||||||||||||rommi|rum
 Roma|xefsite|IT||Rome|Rome|Roma|Roma|Рим|الروم|罗马|ローマ|||रोम||Roma|Roma|Roma|Romo|Rooma|Rzym
-Roma Imperia||||Roman Empire||Imperio romano||||||||||||||Rooman valtakunta|Imperium Rzymskie
+Roma Imperi Desha||||Roman Empire||Imperio romano||||||||||||||Rooman valtakunta|Imperium Rzymskie
 roma kamil|bio|Chamaemelum nobile||Roman camomile|Camomille Romaine|manzanilla romana (camomila común)|camomila-romana|ромашка римская||果香菊|ローマンカモミール||||||||||rumian rzymski
 Romania|desha|RO||Romania||Rumania||||||||||||||Romania|Rumunia
 romanse||27 emotions|fra:eng:spa:por:romance, rus:роман (roman), tur:romans, may:roman, jpn:ロマンス (romansu), kor:로맨스 (romaenseu)|romance (romantic love)||romance||роман|||ロマンス|||||roman||romans||lempi (romanssi, rakkaus)|miłość romantyczna
@@ -3284,6 +3280,9 @@ rota vanu gi|||eng:top, fra:toupie|top (spinning top)|toupie|trompo||волчо�
 Ruanda|desha|RW||Rwanda||Ruanda||||||||||||||Ruanda|Rwanda
 rubi|rang|||red|rouge|rojo|vermelho|красный|أَحْمَر|红|赤い|빨갛다|đỏ|लाल|লাল|merah|nyekundu|kırmızı (al)|ruĝa|punainen|czerwony
 rubi bau seku|||eng:ruby, por:rubi, spa:rubí, fra:rubis, deu:Rubin, rus:рубин (rubin), jpn:ルビー (rubī)|ruby|rubis|rubí|rubi|рубин|ياقوت|红宝石|ルビー|루비|hồng ngọc|मानिक (याक़ूत)||delima|yakuti|yakut|rubeno|rubiini|rubin
+rubi linse|bio|Lynx rufus||bobcat||lince rojo (gato montés)||рыжая рысь||短尾貓|ボブキャット||||||||||ryś rudy
+rubi oranje|bio|Citrus reticulata||mandarin orange (tangerine)|mandarine|mandarina (tangerina)|tangerina (mandarim)|мандарин||柑橘 (红橘)|ポンカン (マンダリン)|||नारंगी (nārangī)||limau mandarin (oren mandarin, tangerin)|chenza||mandarino|mandariini|mandarynka
+rubi salmon|bio|Oncorhynchus nerka||sockeye salmon|saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||紅鮭|ベニザケ||||||||||nerka (łosoś czerwony)
 rubi yum|yum 037|Rb|eng:rubidium, fra:rubidium, spa:rubidio, por:rubídio, rus:рубидий, zho:铷 (rú), jpn:ルビジウム, kor:루비듐, vie:rubiđi, hin:रुबिडियम, ben:রুবিডিয়াম, may:rubidium, swa:rubidi, ara: روبيديوم|rubidium|rubidium|rubidio|rubídio|рубидий|روبيديوم|铷|ルビジウム|루비듐|rubiđi|रुबिडियम|রুবিডিয়াম|rubidium|rubidi|rubidyum|rubidio|rubidium|rubid
 ruhu|||ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|soul (mind, psyche)|psyché|psique||душа (дух)|||||||||||animo (psiko)|henki (sielu, mieli, psyyke)|dusza, duch, umysł
 ruhu di||||mental (psychic)||mental (psíquico)||||||||||||||henkinen (psyykkinen)|umysłowy (psychiczny)
@@ -3318,8 +3317,8 @@ safa ja||||cleaner||limpiador|||||||||||||purigisto|siivooja|sprzątacz, sprząt
 safa tela||||wipe (rag, cleaning cloth)||trapo (tela para limpiar)||тряпка|||ワイプ||||||||||
 safar|||ara:(safar), hin:सफ़र (safar), tur:sefer, swa:safari, eng:fra:spa:por:deu:may:safari|travel (voyage, trip)||viaje||||旅行||||यात्रा (सफ़र)|||||vojaĝo|matka (reissu)|podróż
 safar ja||||traveler||viajero|||||||||||||vojaĝanto|matkailija|podróżnik
-safar kegu||||tourism||turismo||||||||||||||turismi|turystyka
-safar kegu ja||||tourist|touriste|turista||||||||||||||turisti|turysta
+safar keka||||tourism||turismo||||||||||||||turismi|turystyka
+safar keka ja||||tourist|touriste|turista||||||||||||||turisti|turysta
 safran|||ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|saffron||azafrán||шафран|||||||||||safrano|sahrami|szafran
 sagu|bio|Metroxylon sagu|eng:sago, fra:sagou, spa:sagú, por:may:sagu, rus:саго (sago), ara: سَاغُو‎ (sāḡū), zho:西谷米 (xīgúmǐ), jpn:サゴ (sago), hin:सागू (sāgū)|sago palm|sagoutier|sagú|sagu|саго|سَاغُو‎|西谷米|サゴ|||सागू||pokok sagu||||saagopalmu|sago
 sagu fun||||sago|||||||サゴ澱粉|||||sagu||||saagotärkkelys|
@@ -3402,7 +3401,7 @@ sata di||||momentary|momentané|momentáneo|momentâneo|моментальный
 sata don||||dedicate (devote)||dedicar|||||||||||||||dedykować (poświęcać, poświęcić)
 sata don ta||||dedication (devotion)|||||||||||||||||dedykacja (poświęcenie)
 Saturne|planete 6|||Saturn|Saturne|Saturno|Saturno|Сатурн|زحل|土星|土星|||||||Satürn||Saturnus|Saturn
-Saudi Arabia|desha|SA||Saudi Arabia||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska
+Saudi Arabi|desha|SA||Saudi Arabia||Arabia Saudita||||||||||||||Saudi Arabia|Arabia Saudyjska
 sauna|||fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|sauna||sauna|||||||||||||saŭno|sauna|sauna
 saur|||ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)|lizard|lézard|lagarto|lagarto|ящерица|سِحْلِيَّة‎|蜥蜴|蜥蜴|도마뱀|thằn lằn|छिपकली (सरट)|টিকটিকি|kadal (cicak)|mjusi|kertenkele|lacerto|lisko|jaszczurka
 saya|||fas:(sāye), urd:(sāyā), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|shadow||sombra||||||||छाया (साया)|ছায়া||||ombro|varjo|cień
@@ -3491,7 +3490,7 @@ she hal|||zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:�
 she hal ironi||||situational irony|||||||||||||||||ironia sytuacyjna
 shefe|||fra:chef, por:chefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|chief (boss)|chef|jefe|chefe|шеф|||||||||||estro (ĉefulo)|päällikkö (pomo)|szef, kierownik
 shefe di||||main (principal)||principal||||||||||||||pää-|główny
-shefe minister||||prime minister||primer ministro|||||||||||||ĉefministro|pääministeri (suurvisiiri)|premier
+shefe ministre ja||||prime minister||primer ministro|||||||||||||ĉefministro|pääministeri (suurvisiiri)|premier
 shi|||zho:氏 (shì), yue:氏 (si6), jpn:氏 (-shi), kor:씨 (ssi) + may:si + hin:श्री (śrī), ben:শ্রী  (śri)|Mx. (Mr. or Ms.)|||||||さん (氏)|||श्री|শ্রী|||||herra tai rouva|
 shia|||ara: شِيعَة (šīʿa), heb: סִיעָה (si'á) + zho:系 (xì)|faction (clique)|faction (clique)|facción|facção|фракция (клика)|شيعة|派系||||||||||porukka (kuppikunta, lohko, siipi)|
 shia islam din||||Shia Islam (Shi’ism)|chiisme|chiismo (chía)|xiismo|шиизм|الشِّيعَة‎|什叶派|シーア派|||शिया|||||ŝijaismo|šiialaisuus|szyism
@@ -3678,6 +3677,7 @@ suna islam din||||Sunni Islam (Sunnism)|sunnisme|sunismo|sunismo|сунниты|
 sundar|||hin:सुन्दर (sundar), ben:সুন্দর (sundôr), guj:સુંદર (sundar),|beautiful (handsome, pretty)|beau|hermoso (bello, lindo)|belo (lindo)|красивый|جَمِيل|漂亮 (美)|美しい|아름답다|đẹp|सुन्दर (ख़ूबसूरत)|সুন্দর|indah (cantik)|zuri|güzel|bela|kaunis (komea, sievä)|piękny, przystojny
 sundar daka||||decoration (ornament)||decoración (adorno)||украшение||装饰|装飾||||||||||dekoracja (ornament)
 sundar suta||||fine arts||bellas artes||||艺术 (美术)|芸術 (美術)|예술|nghệ thuật|कला|শিল্প|seni|sanaa|sanat|arto|taide|sztuka
+sundar suta ja||||artist|artiste|artista|artista|художник (артист)||美术家|美術家|||कलाकार||seniman|mwanasanaa|sanatçı|artisto|taiteilija|artysta
 sundar ta||||beauty|beauté|belleza (hermosura)|beleza|красота|جَمَال|美丽|美しさ|아름다움||सौन्दर्य|||uzuri (jamala, urembo)|güzellik|beleco|kauneus|piękno
 Suomi|desha|FI||Finland||Finlandia|||||||||||||Finnlando|Suomi|Finlandia
 suomi basha|basha|||Finnish language||idioma finés|||||||||||||lingvo|suomen kieli|
