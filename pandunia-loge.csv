@@ -97,7 +97,7 @@ an eskale||||get off (descend)|||||||下る (降りる)|||||||||laskeutua|zejś�
 an icha ja||||reluctant||||||||||अनिच्छा||||||vastahakoinen (haluton)|niechętny
 an jama||||disperse (spread out, scatter)||dispersar (esparcir, desmontar)|||||散らす||||||||disigi|hajauttaa|rozproszyć, rozpraszać
 an jama di||||sparse (scattered)||escaso (disperso, ralo)|||||疎ら|||||||||hajanainen|rzadki (rozrzedzony, rozproszony)
-an karma ja||||off (deactivated, disabled)||||||||||||||||epäaktiivinen (pois toiminnasta)|zdeaktywowany (wyłączony, zatrzymany)
+an karma ja||||off (deactivated, disabled, inactive)||desactivado||||||||||||||epäaktiivinen (pois toiminnasta)|zdeaktywowany (wyłączony, zatrzymany)
 an kode||||decode (decrypt)||||||||||||||||purkaa koodi (dekoodata)|
 an limite||||infinity||||||||||||||||äärettömyys (rajattomuus)|nieskończoność
 an memo||||forget|oublier|olvidar|esquecer|забывать|نَسِيَ|忘记|忘れる|잊다|quên|भूलना|ভুলে যাওয়া|lupa|kusahau|unutmak|forgesi|unohtaa|zapominać (zapomnieć)
@@ -111,6 +111,7 @@ an sona||||insomnia|insomnie|insomnio|insônia|бессонница (инсом�
 an sora||||unlock||||||||||||||||avata lukko|otworzyć (otwierać, odkluczyć, odkluczać)
 an sora di||||unlocked||||||||||||||||lukitsematon|zamknięty na klucz (zakluczony)
 an tapa||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać, odtykać
+an transe vide di||||opaque||opaco||непрозрачный|||不透明||||||||||
 an yau di||||unnecessary (extraneous, unneeded)|inutile|innecesario|||||不要|||||||||tarpeeton|niepotrzebny
 anchovi|bio|Engraulidae|eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)|anchovy|anchois|anchoa|anchova|анчоус (хамса)|أَنْشُوفة‎|凤尾鱼|アンチョビ|멸치|cá cơm|ऐन्चोवी||bilis||hamsi|sardelo (anĉovo)|sardelli (anjovis)|sardela
 anda|||hin:अंडा (aṇḍā), ben:আণ্ডা (aṇḍa), urd:(aṇḍā), pnb:ਆਂਡਾ (āṇḍā), tel:(aṇḍamu), zul:xho:iqanda, mon:өндөг (öndög)|egg|oeuf|huevo|||||||||||||ovo|muna|jajko (jajo)
@@ -601,7 +602,8 @@ chupu|||spa:por:chupar, khm:ជប់ (cup)|suck (absorb)||chupar (succionar)|||
 chuti|||zho:出 (chū), yue:出 (ceot1), wuu:出 (tsheq4), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), vie:xuất, hin:छूटना (chūtnā) + tur:çıkmak|exit (leaving)||escapatoria|||||||||||||eliro|poistuminen|wyjśćie, opuszczenie
 chuti mun||||exit door||salida|||||||||||||elirejo|uloskäynti|drzwi wyjściowe
 chuze|||eng:choose, + hin:चुनना (cunnā), + vie:chọn|choice (election, selection)||elección|||||||||||||elekto|valinta (vaali)|wybór, elekcja, selekcja
-chuze she||||option (choice)|option|opción|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
+chuze liste||||menu (catalog)||menú (catálogo)|||||品書き (メニュー)|||||menu (daftar)|||||
+chuze she||||option (choice, preference)|option|opción (preferencia)|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
 chuze yo gol||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
 Cuana|desha|BW||Botswana||Botsuana||||||||||||||Botswana|Botswana
 D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
@@ -623,6 +625,7 @@ dai siti||||big city|||||||||||||||urbego|suurkaupunki|
 dai ta||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
 daka||||cover (lid, cap, deck)||tapa (funda, cubierta)||||||||ढक्कन|||||kovrilo|peite (kansi)|pokrycie; pokrywa, wieko, dekiel; pokład
 dalil|||ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|proof (evidence, proof, demonstration, testimony)|preuve|prueba|prova|доказательство||||||||||||todiste (todistus, osoitus, demonstraatio)|dowód; zeznanie
+dalil dokumen||||certificate||certificado|||||証明書||||||||||
 dama gem|||fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel|checkers (draughts)|jeu de dames|damas|damas|шашки|ضَامَة‎|跳棋|チェッカー (西洋碁)|체커|cờ đam|चेकर्स (ड्राफ़्टस)|চেকারস|dam|drafti|dama|damludo|tammipeli|warcaby
 dan||| jpn:段 (dan), eng:fra:may:dan + zho:等 (děng),  yue:等 (dang2), kor:등 (dang), vie:đẳng|rank (grade, dan)|rang|||ранг||等 (段)|段 (等)||đẳng|||||||sija (taso, ranking, dan)|
 dana|||hin:दाना (dānā), tur:tane + jpn:種 (tane);銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)
@@ -907,6 +910,7 @@ fa alo rai||||disagree|diverger (ne pas être d'accord)|disentir (no estar de ac
 fa amen||||assure (affirm, confirm)||confirmar||утвердить (конфирмовать)|||||||||||||
 fa an galte||||debug|déboguer (débugger)|depurar|||||デバッグする|||||||||poistaa virheitä (debugata)|
 fa an karma||||deactivate (disable, turn off)||||||||||||||||poistaa toiminnasta|deaktywować (wyłączyć, zatrzymać)
+fa an verse||||invert (reverse)||invertir|||||逆らう||||||||||
 fa an zai||||remove (delete, dispose, erase)||quitar (eliminar, borrar)||||||||||||||poistaa (hävittää)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
 fa anime||||animate|animer|animar||||||||||||||animoida|animować
 fa aplika||||apply (put to use for a purpose)|appliquer|emplear (aplicar)|usar|||运用||||प्रयोग में लाना||||kullanmak||soveltaa|zastosować, stosować
@@ -1486,7 +1490,7 @@ gola|||hin:गोल (gol), ben:গোলক (golôk), tel:గోళము (gō�
 gola di||||round (circular)||redondo (circular)||||||||||||||pyöreä|okrągły
 gola seku||||cobblestone|pavé|adoquín||булыжник||鹅卵石|丸石 (玉石, 栗石)|||||||||mukulakivi|bruk
 golem|||heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)|golem||||||||||||||||golem|golem
-gomu|||spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|rubber (eraser)||goma (caucho, hule, borrador)||резина (каучук, резинка, ластик)|||消しゴム||||||kifuto||kaŭĉuko|kumi|guma
+gomu|||spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|rubber (latex, eraser)||goma (caucho, hule, borrador)||резина (каучук, резинка, ластик)|||ゴム (消しゴム)||||||kifuto||kaŭĉuko|kumi|guma
 gona|||hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana, fra:-gone, spa:por:-gono|corner (angle)||esquina (rincón, ángulo)||||||||कोण|||||angulo|kulma (nurkka)|kąt
 gona metre gi||||goniometer||goniómetro (medidor de ángulos)||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
 gong|||zho:工 (gōng), yue:工 (gung1), jpn:工 (kō), kor:공 (gong), vie:công|work (labour, job)|travail|trabajo|trabalho|работа|عَمَل|工作|労働|일||काम|কাজ|kerja (karya)|kazi|iş|laboro|työ|praca, zjęcie, zadanie
@@ -1604,6 +1608,7 @@ harmoni di||||harmonious||armonioso|||||||||||||harmonia|harmoninen|harmoniczny
 harnes|||fra:harnais, eng:harness, spa:arnés, por:arnês|harness||arnés (arreos, jaeces)||||||||||||||valjaat|zaprzęc, zaprzęgać
 Hartum|xefsite|SD||Khartoum|Khartoum|Jartum|Cartum|Хартум|الخرطوم|喀土穆|ハルツーム|||||Khartoum|Khartoum|Hartum|Ĥartumo|Khartoum|
 has|||ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas, swa:hususa|special (distinct)||especial (diferenciado, distinto)|||||||||||||speciala|erikoinen (erityinen)|specjalny, wyraźny, wyrazisty
+has nam||||identifier (ID)||identificador||идентификатор|||識別名||||||||||
 has ta||||distinction (specialty)||especialización (distinción)||||||||||||||erikoisuus|różnica (specjalność)
 hashish||||hashish||hachís||||||||||||||hasis|haszysz
 hata|prep.||por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|until (til, up to)|jusque (jusqu’à)|hasta|até|до||直到|||||||mpaka||ĝis|asti (saakka)|aż do
@@ -1675,6 +1680,7 @@ holera|||eng:cholera, spa:por:cólera, fra:choléra, rus:холера (holera), 
 holme yum|yum 067|Ho|eng:holmium, fra:holmium, spa:holmio, por:hólmio, rus:гольмий, zho:钬 (huǒ), jpn:ホルミウム, kor:홀뮴, vie:honmi, hin:होल्मियम, ben:হলমিয়াম, may:holmium, swa:homi, ara: هلميوم|holmium|holmium|holmio|hólmio|гольмий|هلميوم|钬|ホルミウム|홀뮴|holmi, honmi|होल्मियम|হলমিয়াম|holmium|homi|holmiyum|holmio|holmium|holm
 holo|||eng:whole, spa:por:fra:tur:may:holo-, rus:голо- (golo-), jpn:ホロ (horo-)|whole (entire)||entero (todo)||||||||||||||koko (kokonainen)|cały
 holo grafi||||hologram||holograma||||||||||||||hologrammi|hologram
+holo nomer||||integer (whole number)||número entero|||||||||||||||
 holo ta||||wholeness (integrity)||totalidad (integridad)||||||||||||||kokonaisuus|całość (integralność)
 Hong Gong|desha|HK||Hong Kong, SAR China||Hong Kong||||||||||||||Hong Kong|Hong Kong
 hor|||fra:heure, eng:hour, spa:por:hora|hour|heure|hora|hora|час|سَاعَة|小时|時 (１時間)|시|giờ|घंटा|ঘন্টা|jam|saa|saat|horo|tunti|godzina
@@ -1754,6 +1760,7 @@ iode|yum 053|I|eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:
 ion|||eng:fra:spa:ion, rus:ион (ion), tur:iyon|ion||ion|||||||||||||iono|ioni|jon
 ion radi||||radioactivity (ionizing radiation)||radiación ionizante||||||||||||||radioaktiivisuus|radioaktywność
 ion radi di||||radioactive||radiactivo||||||||||||||radioaktiivinen|radioaktywny
+IP adres (internete protokol adres)||||IP address||dirección de IP||IP-адрес|||IPアドレス||||||anwani ya IP|ip adresi|||
 Iran|desha|IR||Iran||Irán|||||||||||||Iranio|Iran|Iran
 Iraqi|desha|IQ||Iraq||Iraq|||||||||||||Irakio|Irak|Irak
 iris yum|yum 077|Ir|eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم|iridium|iridium|iridio|irídio|иридий|إريديوم|铱|イリジウム|이리듐|iriđi|इरिडियम|ইরিডিয়াম|iridium|iridi|i̇ridyum|iridio|iridium|iryd
@@ -1994,6 +2001,7 @@ kaske|||spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku
 kastana|bio|Castanea|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|chestnut||castaña|||||||||||||kaŝtano|kastanja|kasztan
 kastor|bio|Castor|fra:por:spa:castor, tgl:tur:kastor|beaver||castor|||||||||||||kastoro|majava|bóbr
 kata|||hin:कथा (kathā), tel:కత (kata), khm:កថា (kaʼthaa), tgl:katha + jpn:語る (kataru)|tale (story, legend, saga)||historia (cuento, relato, leyenda)|||||||||||||rakonto|kertomus (tarina, saaga)|opowiadanie, opowieść, legenda, saga
+kata ja||||narrator|||||||||||||||||
 Katalunia||||Catalonia||Cataluña|||||||||||||Katalunio|Katalonia|Katalonia
 katana|||jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)|sword|épée|espada|espada|меч||剑|刀 (剣)|||तलवार||pedang||kılıç|glavo|miekka|miecz
 katus|bio|Cactaceae|eng:spa:por:fra:cactus, rus:кактус (kaktus), tur:kaktüs, may:kaktus|cactus|cactus|cacto|cacto|кактус||仙人掌|サボテン|||||kaktus||kaktüs|kaktuso|kaktus|kaktus
@@ -2107,6 +2115,7 @@ Komoro nesi|desha|KM||Comoros||Comoros||||||||||||||Komorit|Komory
 kompani|||eng:company, hin:कंपनी (kampanī), rus:компания (kompaniya), tgl:kompanya, pol:kompania|company (corporation)||compañía (empresa, corporación)|||||||||||||kompanio (firmao)|yritys (yhtiö)|firma, kompania, korporacja
 komputa|||eng:computer, spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)|computer|ordinateur|computadora (ordenador)|computador|компьютер||计算机||||कम्प्यूटर||komputer||bilgisayar|komputero|tietokone|komputer
 komputa di||||digital|numérique|dígital|digital|цифровой||数字的|デジタル|||डिजिटल||digit||dijital|||cyfrowy
+komputa hor loga gi||||digital clock|||||||||||||||||
 komun|||eng:common, spa:común, por:comum, fra:commun, rus:коммунальный (kommunal’nyy)|common (shared)||comunitario|||||||||||||komuna|yhteinen|wspólny
 komun krati||||republic|||||||||||||||republiko|tasavalta|republika
 kon|||eng:fra:spa:por:con- + zho:共 (gòng), yue:共 (gung4), kor:공 (gong), vie:cộng, jpn:共 (kyō-) + tha:กัน (gan)|together (jointly, mutually)||juntos||||共同 (一起)|一緒に||||||pamoja|birlikte|kune|yhdessä|razem (wspólnie)
@@ -2230,6 +2239,7 @@ lala bede||||cradle|berceau|cuna|berço|колыбель (люлька)||摇篮|
 lala chanta||||lullaby|berceause|canción de cuna (nana)|canção de ninar|колыбельная песня||摇篮曲|子守歌 (ララバイ)|자장가||लोरी||nina-bobok|tumbuizo|ninni|lulkanto|tuutulaulu|
 lama||||lama|lama (enseignant religieux du bouddhisme tibétain)|lama|lama|лама (религиозный учитель в тибетском буддизме)||喇嘛|ラマ (チベット仏教の上師)||||||||||lama
 lampa|||eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), may:lampu, tur:lamba|lamp|lampe|lámpara|lâmpada (luminária)|лампа|لمبة‎|灯|ランプ|램프|đèn|चिराग़ (लैंप)|ল্যাম্প|lampu|taa|lamba|lampo|lamppu|lampa
+LAN (loka area nete)||||LAN||LAN (RAL)|||||LAN||||||||||
 lana|||ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, urd:lānat, may:laknat|curse (damn!)|malédiccion|maldición|maldição|проклятие||诅咒|呪い (たたり)||||||||||przekleństwo (cholera!)
 langan|||zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)|banister (handrail)||barandilla (pasamanos)||||||||||||||kaide (reelinki)|poręcz (balustrada)
 Lanka|desha|LK||Sri Lanka (Ceylon)||Sri Lanka||||||||||||||Sri Lanka|Sri Lanka
@@ -2705,6 +2715,7 @@ najis|||ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:naji
 najis bindu||||stain (spot)||mancha|||||染み (汚点)||||||||||
 najis di||||dirty (soiled, polluted, defiled, tainted, unclean, impure)||sucio (corrompido)|||||汚い|||प्रदूषित|||-chafu||||
 nam|||deu:eng:name, fra:nom, hin:नाम (nām), ben:নাম (nam), may:nama, tha:นาม (naam) + jpn:名前 (namae)|name|nom|nombre||имя|اِسْم‎|名|名前|이름 (명칭)|tên|नाम|নাম|nama|jina|ad (isim)|nomo|nimi|imię, nazwa
+nam dokumen||||identity document (identification, ID)||identificación (ID)||ID|||身分証明書 (ID)||||||||||
 nam hin||||nameless (unnamed, anonymous)|innomé|innominado|sem nome|безымянный||无名|名無し (無名の)|||बेनाम|নামহীন||||sennoma|nimetön|bezimienny
 nam kitabu||||sign (autograph)|signer|firmar|assinar|подписать||签署|署名する (サイン)||||||||||podpis (autograf)
 nam loga|||zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|noun||sustantivo|||||||||||||substantivo|substantiivi (nimisana)|rzeczownik
@@ -2797,6 +2808,7 @@ node|||eng:node, spa:nudo, por:nó, fra:nœud|knot (node)||nudo|||||||||||||nodo
 Noe||||Noah|Noé|Noé|Noé|||诺亚|||||||||Noa|Nooa|
 Noe di nave||||Noah’s arc|arche de Noé|arca de Noé|arca de Noé|Ноев ковчег|سَفِينَةُ نُوح‎|诺亚方舟|ノアの箱舟|노아의 방주||||Bahtera Nabi Nuh||Nuh'un gemisi|Arkeo de Noa|Nooan arkki|arka Noego
 nomer|||eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|number|nombre (numéro)|número|número|число||数||||संख्या (नंबर)|সংখ্যা (নম্বর )|angka (nombor)|nambari|sayı|nombro|lukumäärä (luku, numero)|numer
+nomer zi||||digit (figure, numeral)|ciffre|dígito (cifra)|dígito|цифры|raqam|数字|数字|||अंक||angka (digit)|tarakimu||||
 nomi|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|management (arrangement, -nomy)||gerencia (dirección)||организация||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
 nong|||zho:农民 (nóng), yue:農民 (nung4), jpn:農 (nō), kor:농 (nong), vie:nông|cultivate (farm)|cultiver|cultivar|cultivar|выращивать||||||||||||viljellä|uprawić, uprawiać
 nong bio logi||||agrobiology|agrobiologie|agrobiología|agrobiologia|агробиология||土壤生物学||||||||agrobiyoloji||maatalousbiologia|
@@ -3145,6 +3157,7 @@ projete|||fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (
 Promete|name|||Prometheus|Prométhée|Prometeo|Prometeu|Прометей||||||||||||Prometheus|
 promete yum|yum 061|Pm|eng:promethium, fra:prométhium, spa:prometio, por:promécio, rus:прометий, zho:钷 (pǒ), jpn:プロメチウム, kor:프로메튬, vie:prometi, hin:प्रोमेथियम, ben:প্রমিথিয়াম, may:prometium, swa:promethi, ara: بروميثيوم|promethium|prométhium|prometio|promécio|прометий|بروميثيوم|钷|プロメチウム|프로메튬|prometi|प्रोमेथियम|প্রমিথিয়াম|prometium|promethi|prometyum|prometio|prometium|promet
 protacini yum|yum 091|Pa|eng:protactinium, fra:protactinium, spa:proactinio, por:protacnídio, rus:протактиний, zho:镤 (pú), jpn:プロトアクチニウム, kor:프로트악티늄, vie:protactini, hin:प्रोटैक्टीनियम, ben:প্রোটেক্টিনিয়াম, may:protaktinium, swa:protaktini, ara: بروتكتنيوم|protactinium|protactinium|proactinio|protacnídio|протактиний|بروتكتنيوم|镤|プロトアクチニウム|프로트악티늄|protactini|प्रोटैक्टीनियम|প্রোটেক্টিনিয়াম|protaktinium|protaktini|protaktinyum|protaktinio|protaktinium|protaktyn
+protokol|||eng:protocol, spa:por:protocolo, fra:protocole, rus:протокол (protokol), tur:may:protokol, jpn:プロトコル (purotokoru)|etiquette (protocol, procedure)|protocole|etiqueta (protocolo)|protocolo|этикет (протокол)|||礼法 (規約, プロトコル)|||शिष्टाचार||tata tertib (protokol)|itifaki|teşrifat (protokol)|||
 puding|||eng:pudding, spa:pudín, rus:пудинг (puding), tur:may:puding, swa:pudini, ara:بودنغ (budingh), zho:布丁 (bùdīng), jpn:プディング (pudingu)|pudding||pudín||||布丁|||||||pudini|||vanukas|puding
 puja|||hin:पूजा (pūjā), urd:(pūjā), tha:บูชา (bucha), may:puja|worship (reveration)||adoración (veneración, culto)||||||||पूजा||||||palvonta|cześć, szacunek
 puja kan||||temple (shrine, place of worship)|temple|templo|templo|храм (место богослужения)|مَعْبَد‎|寺庙|神殿 (宮, 寺, 神社)|절 (사원)|đền|मन्दिर|মন্দির|kuil|hekalu|tapınak (ibadethane)|templo|temppeli|świątynia
@@ -3230,6 +3243,7 @@ retro|||eng:spa:por:retro-, fra:rétro-, rus:ретро- (retro-), jpn:レトロ
 retro dau||||return (way back)||vuelta|||||||||||||reiro|paluu|powrót
 retro gula||||throw up (vomit, regurgitate)||devolver (vomitar)||рвать (изрыга́ть)||呕吐|戻す (吐く)||||||||||wymiotować (zwrócić)
 retro gula sense||||nausea (motion sickness)|nausée|náusea|náusea|тошнота||恶心|吐き気 (嘔気)||||||||||nudności (choroba lokomocyjna)
+retro note||||feedback||retroalimentación (realimentación, feedback)||обратная связь||反馈|フィードバック (帰還)||||||||||
 retro tikete||||return ticket|aller-retour|billete de ida y vuelta|passagem de volta|||往返票||||||||||menopaluulippu|bilet powrotny
 Reunion|desha|RE||Réunion||Reunión||||||||||||||Reunion|Reunion
 rezerve|||eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|reservation (booking, withholding)||réservation|reserva||||||||||||rezervo|varaus (ennakkovaraus)|rezerwacja
@@ -3821,6 +3835,7 @@ torso|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||tor
 tortuga|bio|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)|tortue|tortuga|tartaruga|||||||||||||kilpikonna|żółw
 transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (transport, passage)||tránsito (transporte)||||||||||||||läpikulku (kuljetus)|przejazd, przewóz, tranzyt, transport
 transe gon di||||diagonal||diagonal||||||||||||||lävistävä (diagonaalinen)|przekątny
+transe vide di||||transparent (see-through, clear)||transparente||прозрачный||透明的|透明|||पारदर्शी|||||||
 Transe Nistre Desha|desha|||Transnistria||Transnistria (Cisdniéster)||||||||||||||Transdnistria|Naddniestrze
 trata||||drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
 trata gi|||eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|tractor|tracteur|tractor|trator|трактор|تَرَاكْتُور‎|拖拉机 (铁牛)|トラクター|트랙타|máy kéo|ट्रैक्टर|ট্র্যাক্টর|traktor|trekta|traktör|traktoro|traktori|traktor (ciągnik)
@@ -3908,6 +3923,7 @@ vagina|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギ�
 vagina flam||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy
 vah|||eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|wow! (gee!)|ouah|guau (vaya)|uau|вау!||哇|わあ|와||वाह||wah|||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
 vai|||zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), kor:외 (oe), vie:ngoại;ngoài|outside (exterior)|extérieur|fuera (exterior)|exterior|вне||外|外|||बाहरी||luar (pinggir, tepi)|nje|dış|ekstero|ulkopuoli|zęwnętrzny
+vai dara||||overflow (spill out)||desbordarse (derramarse)||переливаться||溢出|溢れる (越流する)||||||||||
 vai desha||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
 vai desha di||||foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
 vai di||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
@@ -4009,6 +4025,7 @@ Virjin nesi|desha|VI||Virgin Islands, US||Islas Vírgenes||||||||||||||Neitsytsa
 virus|||eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)|virus|virus|virus||вирус||||||||||||virus|wirus
 virus logi|||pol:wirusologia, rus:вирусология (virusologiya)|virology||virología||вирусология||||||||||||virologia|wirusologia
 vise|||eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|vice (deputy, alternative, substitute, replacement)||vice- (alternativa, sustituto)|||||代替||||||||vic-|vara- (korvike-)|wice- (alternatywa, substytut, zastępstwo)
+vise kitabu||||overwrite||sobreescribir||||重写|重ね書き (書き換える)||||||||||
 vise loga||||pronoun||pronombre|||||||||||||pronomo|pronomini|zaimek
 vise ma||||step-mother||madrastra|madrasta|мачеха||继母|継母|계모|mẹ kế|सौतेली माँ|||||vicpatrino|äitipuoli (isän puoliso)|
 vise pa||||step-father||padrastro|padrasto|отчим||继父|継父|계부|cha kế|सौतेला बाप|||||vicpatro|isäpuoli (äidin puoliso)|
@@ -4042,7 +4059,7 @@ yaki nesi||||peninsula||península||||||||||||||niemi|półwysep
 yam|||khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|consume (eat or drink)||comer (bebir)|||||食べる||||||||manĝi (trinki)|nauttia (syödä, juoda)|skonsumować, konsumować, zjeść, jeść, wypić, pić)
 yam fito||||vegetable|légume|verdura (legumbre)|verdura (hortaliça, legume)|овощ||蔬菜||||सब्ज़ी|সবজি|||sebze|legomo|kasvis|warzywo
 yam kamar||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
-yam liste||||menu|menu (carte)|menú (carta)|cardápio (menu)|меню||菜单|メニュー|메뉴||मेनू||||menü||ruokalista|
+yam liste||||menu (bill of fare)|menu (carte)|menú (carta)|cardápio (menu)|меню||菜单|メニュー (献立)|메뉴||मेनू||||menü||ruokalista|
 yam she||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
 yam sukar gana|bio|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
 yam yau||||hunger|faim|hambre|fome|голод|جوع‎|饥饿|飢え|굶주림|đói|भूख|ক্ষুধা|lapar|njaa|açlık|malsato|nälkä|głód
@@ -4136,6 +4153,7 @@ zirkon yum|yum 040|Zr|eng:zirconium, fra:zirconium, spa:circonio, por:zircónio,
 zizi|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
 zoku|||wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|continue (go on, keep on, carry on, proceed, still, yet)|continuer (poursuivre, encore)|todavía (aún)|ainda|ещё||还 (依然)|まだ|||||||devam etmek|ankoraŭ|vielä (yhä, jatkua)|wciąż, nadal; kontynuować, wznawiać, ponawiać
 zoku di||||continuous (analog)|continu (analogique)|continuo (analógico)|analógico|||指针式的|アナログ|||||||||jatkuva (analoginen)|ciągły (analogowy)
+zoku hor loga gi||||analog clock|||||||||||||||||
 zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
 zona|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
 zou|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
