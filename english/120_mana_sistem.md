@@ -89,8 +89,9 @@ The thing called *mother* is not any different.
 If you apply a mother to an object, again probably a human or an animate object, you can imagine what the mother would do typically.
 However, this time the thing between the subject and the object comes with a condition.
 You can apply *any axe* to *any tree*, but you can't apply *any mother* to *any child*, can you?
-There is a natural relation between the father and the child. The mother is the child's mother and the child is the mother's child.
+There is a natural relation between the mother and the child. The mother is the child's mother and the child is the mother's child.
 So there is a natural assumption, that the one who applies a mother (or motherhood) is the mother herself.
+
 **mi ma mi su ben.**
 – 'I mother my child.'
 

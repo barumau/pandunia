@@ -23,14 +23,15 @@ they are separated by the semicolon.
 
 Sometimes there are two entries of the same word.
 
-> **huru** - free (unbound)
+> **huru** - free (unbound)  
 > **fa huru** - free (liberate)
 
 The entry with **fa** is there only for including the verbal translation in English.
 Pandunia words are multipurpose words that can be used as verbs, adjectives, nouns and adverbs.
-Therefore it is normally enough to use only the main word of the dictionary entry in sentence contexts.
-For example, **mi huru yemon** is the proper way to say 'I free them' or 'I liberate them',
-and saying **mi fa huru yemon** would include a superfluous word, **fa**.
+Therefore it is normally enough to use only the main word of the dictionary entry in sentence contexts
+and the auxiliary verb **fa** can be left out.
+For example, **mi huru yemon** is the proper way to say 'I free them' or 'I liberate them'.
+The sentence **mi fa huru yemon** would mean the same thing but it would include the superfluous word **fa**.
 
 ---
 

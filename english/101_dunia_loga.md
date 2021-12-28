@@ -236,7 +236,7 @@ So the Pandunia word for language becomes **basha**.
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
 | Portuguese | bɐndeiɾa     | bandeira        |
-| Spanish    | bandieɾa     | bandiera        |
+| Spanish    | bandeɾa      | bandera         |
 | English    | bænəɹ        | banner          |
 | French     | baniɛʁ       | bannière        |
 | Indonesian | bəndera      | bendera         |

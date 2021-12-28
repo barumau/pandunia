@@ -44,7 +44,7 @@ It includes simpler grammar, more international word forms, and many new words.
 ## Articles
 
 - [Pandunia - a new world language](001_dunia_basha.md)
-- [On the semantics](120_mana_sistem.md)
+- [On the semantics of Pandunia](120_mana_sistem.md)
 - [Adapting international words to Pandunia](403_loga_hapu.md)
 - [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
 - [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
