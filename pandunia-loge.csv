@@ -981,7 +981,6 @@ fa gan||||dry out||secar||||||||||||||kuivata (kuivattaa)|suszyć (wysuszyć)
 fa gas||||gasify (vaporize)||gasificar||||||||||||||kaasuttaa|zamieniać w gaz
 fa gau||||raise (lift)||levantar (elevar)||||||||||||||nostaa|podnosić (podnieść)
 fa gem||||play a game||jugar un juego|||||||||||||ludi|pelata|grać w grę
-fa ginsen||||warn (caution, alert)||advertir||предостерегать|||戒める (諭す)|||||diperingatkan||ihtar etmek|||
 fa glu||||stick (adhere, paste, glue)|coller|pegar|colar (aderir)|клеиться|||張る (付く)|||||||||liimata|lepić (kleić)
 fa gol||||achieve (accomplish, arrive, reach)||lograr (llegar)||||||||||||||saavuttaa|
 fa gola||||surround (encircle)||rodear (cirundar)|||||||||||||ĉirkaŭi|ympäröidä (piirittää)|otoczyć, otaczać
@@ -1012,6 +1011,7 @@ fa jin||||put forward (advance, progress)||||||||||||||||edistää|
 fa jiva||||live (be alive, living)|vivant|vivo (lleno de vida)|vivo|живой||||||जीवित|জীবন্ত||||viva|elävä (elää)|żyć (żywy, żyjący)
 fa jong||||center (concentrate)||centrar (concentrar)||||||||||||||keskittää|centrować, skupić, skupiać
 fa jude||||judge||juzgar||||||||||||||tuomita|sądzić (osądzić)
+fa jui||||warn (caution, alert)||advertir||предостерегать|||戒める (諭す)|||||diperingatkan||ihtar etmek|||
 fa jusha||||inject||inyectar||||||||||||||ruiskuttaa|wstrzyknąć, wstrzykiwać
 fa kai||||open||abrir|||||||||||||malfermi|aukaista (avata)|otworzyć, otwierać
 fa kaka||||defecate (shit)||defecar||||||||||||||ulostaa (kakata)|defekować, srać
@@ -1478,9 +1478,6 @@ ging darja||||longitude||longitud||||||||||||||pituusaste|długość geograficzn
 ging gola||||meridian (line of longitude)||meridiano (línea de longitud)||||||||||||||pituuspiiri|długość geograficzna
 ging lin||||warp||||||經紗|縦糸|||||||||loimi|
 gingam|bio|Citrus japonica|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|kumquat|kumquat|kumquat (quinoto)|quincã (cunquate)|кумкват (кинкан)||金柑|キンカン (キンキツ)|||||kumkuat||kumkat||kumkvatti|kumkwat
-ginsen|||zho:谨慎 (jǐnshèn), yue:謹慎 (gan2 san6), jpn:謹慎 (kinshin), vie:cẩn thận|care (caution, attention)||cuidado (atención, precaución, cautela)||осторожность (опаска)||谨慎||||सावधानी||berhati-hati (awas)||ihtiyat (dikkat)|||
-ginsen||||careful (cautious, attentive, alert, wary)||cuidadoso (cauteloso, tener cuidado)||осторожный (внимательный)||谨慎的|気をつける (慎む)|||सतर्क||hati-hati||dikkatli|||
-ginsen note||||warning (advisory)||advertencia (aviso)||упреждение||警告|注意 (戒め, 警告)|||पूर्वसूचना|||||||
 gio||||teach (educate, instruct, doctrine)|enseigner|enseñar (instruir, doctrina)|ensinar (lecionar)|учить (преподавать)|دَرَّسَ|教学|教える (教義, -教)|||सिखाना (पढ़ाना)|শেখান|mengajar|kufundisha|öğretmek (ders vermek)|instrui (lernigi)|opettaa|
 gio ja||||teacher (instructor)||docente (enseñante, profesor, maestro)|||||教員|||||||||opettaja|
 giota|||tha:หยด (yòt), vie:giọt, + eng:iota, rus:йота (yota) + spa:por:gota|drop (droplet)||gota||||||||||||||pisara (tippa)|kropla
@@ -1873,6 +1870,9 @@ judau||||judo||yudo|||||||||||||ĵudo|judo|judo
 jude||||judgement (sentence)||fallo (juicio, criterio)|||||||||||||juĝo|tuomio|wyrok
 jude di||||judicial||||||||||||||||oikeudellinen|
 jude ja|||eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|judge (referee)|juje|juez (árbitro, réferi)|juiz|судья|||||||||||juĝisto|tuomari|sędzia
+jui|||zho:注意 (zhùyì), yue:注意 (zyu3 ji3), wuu:注意 (tsr i), jpn:注意 (chūi), kor:주의 (juui), vie:chú ý|care (caution, attention)||cuidado (atención, precaución, cautela)||осторожность (опаска)||注意 (谨慎)|注意|||सावधानी||berhati-hati (awas)||ihtiyat (dikkat)|||
+jui di||||careful (cautious, attentive, alert, wary)||cuidadoso (cauteloso, tener cuidado)||осторожный (внимательный)||谨慎的|気をつける (慎む)|||सतर्क||hati-hati||dikkatli|||
+jui note||||warning (advisory)||advertencia (aviso)||упреждение||警告|注意 (戒め, 警告)|||पूर्वसूचना|||||||
 jul|unomete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
 jumla|||ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|sentence (phrase)||oración||фраза||句子|||||||||||zdanie (fraza)
 jung|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species||especie||||||||||||||laji|gatunek
