@@ -64,6 +64,7 @@ them. Esperanto is still the most popular language of its kind.
 It is better to have one big language with several dialects than
 many competing languages.
 
+
 #### Which languages have influenced the grammar of Pandunia?
 
 Pandunia has been influenced by both natural and constructed
@@ -80,7 +81,6 @@ languages.
   they tend to create extremely simplified grammar to overcome the language barrier
   — no matter how complex languages they speak natively.
 
-
 #### Who made Pandunia?
 
 The starter of Pandunia is _Risto Kupsala_ (born in Finland in 1979).
@@ -90,6 +90,18 @@ People from many countries have helped over the years.
 There is a list of some of the contributors in
 [GitHub](https://github.com/barumau/pandunia/graphs/contributors).
 
+#### How does the version 3 of Pandunia differ from the previous versions?
+
+Pandunia has been developed for many years
+and there have been two major versions before the current version 3.
+Pandunia v.1 is essentially the same as Middle Pandunia.
+Pandunia v.2 is structurally similar to Analytic Pandunia.
+
+There is one new and important thing that was added to version 3:
+the sixth vowel, ***ə***.
+It serves as the linking vowel in compound words
+and as the neutral ending that doesn't mark any word class.
+This vowel was the necessary ingredient for making versions 1 and 2 compatible with each other.
 
 
 ## Auxiliary language

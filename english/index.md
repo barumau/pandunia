@@ -1,4 +1,4 @@
-# halo, dunia!
+# halo', dunia!
 
 Hello, world!
 Welcome to learn about Pandunia, the evenly global helping language!
@@ -8,19 +8,68 @@ Welcome to learn about Pandunia, the evenly global helping language!
 
 ## What is Pandunia?
 
-Pandunia is a helping language for world-wide use.
-It is an easy language that people can use to talk with each other
-when they don't talk any other common language.
-It is meant to supplement other languages in our multilingual world.
+Pandunia is a globally sourced constructed language
+that combines different types of grammar and international words from all continents into one language.
+It is a perfect language to be learned as the first foreign language because it prepares students to study other foreign languages in a unique way.
+Pandunia helps students to identify and use
 
-Pandunia is a constructed language.
-It is simpler, more regular and easier to learn than natural world languages,
-like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
-Learning Pandunia is equally easy for everybody.
-Its words have been borrowed from many languages on all continents and all cultures of the world.
+- the basic word classes
+- different word orders
+- analytic and synthetic grammar
+- word derivation and structure of international words
+- widely known words from Western, Asian and African cultures.
 
-The second version of Pandunia was published in September 2021.
-It includes simpler grammar, more international word forms, and many new words.
+One year of learning Pandunia produces a language ability equivalent to what the average learner reaches with other languages after several years of study.
+It is a first stepping stone that builds confidence and improves the ability of the student to learn any other language in the future.
+
+One year of learning Pandunia also enables students to communicate well with a growing number of people
+who have also learned this regular, flexible and multicultural language.
+
+## How Pandunia works?
+
+Learning Pandunia is a course in basic linguistics by itself.
+There are three structural types of Pandunia
+that familiarize learners with the most common types and structures of languages.
+
+1. *Analytic Pandunia* (AP) is the simplest type.
+   It has only invariable words and it uses a fixed word order to arrange words in sentences.
+2. *Middle Pandunia* (MP) is a compromise between the extreme types.
+   It uses a system of *word class markers* to arrange words in sentences.
+3. *Synthetic Pandunia* (SP) is the most complicated type.
+   It changes the form of words when they are used in different ways in sentences.
+
+The types are compatible with each other!
+The most advanced type, Synthetic Pandunia, includes Middle Pandunia, which in turn includes Analytic Pandunia.
+
+The best way to get familiar with the three types is to start from Middle Pandunia.
+Middle Pandunia words consist of two parts:
+the word stem and a *vowel ending* that indicates the word's part of speech.
+
+- Every adjective ends in ***-i***.
+- Every adverb ends in ***-o***.
+- Every noun ends in ***-e*** or the *zero ending*.
+- Every verb ends in ***-a*** or ***-u***.
+
+Analytic Pandunia is made from Middle Pandunia by stripping off the vowel endings
+and replacing them with the neutral vowel ending ***-ə*** or the zero ending.
+Only the core stucture words, such as the pronouns, keep their original endings.
+In the resulting simplified language, grammatical relations are expressed with a fixed word order instead of the word class markers.
+
+Synthetic Pandunia is made from Middle Pandunia by combining several meaningful roots into one word,
+such as person and tense into verbs and possessive pronouns into nouns.
+So the sentence in a way collapses into a smaller number of words
+because more information is encoded into individual words.
+
+Below is a simple demonstration where the same sentence is written in the three types of Pandunia.
+The units of meaning are written in different colors.
+
+![](http://www.pandunia.info/grafe/pandunia3.png "Examples for comparing the three types of Pandunia")
+
+The three types of Pandunia can be used for different purposes.
+Analytic Pandunia is the natural choice for communication in rudimentary levels.
+People can learn this type easily on their own even without books or other learning materials.
+Middle Pandunia is a good choice for literature, business and even legal documents.
+Synthetic Pandunia can be used in artistic expression, for example poetry and proverbs.
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
