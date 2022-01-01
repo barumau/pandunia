@@ -48,6 +48,7 @@ an din ja - неверующий
 an memo - забывать  
 an nam - антоним  
 an sona - бессонница (инсомния)  
+an transe vide di - непрозрачный  
 anchovi - анчоус (хамса)  
 andesite - андезит  
 angar - якорь  
@@ -77,7 +78,6 @@ arka chati - свод
 arka ja - лучник  
 aroma - запах (аромат)  
 arsen yum - мышьяк  
-arte ja - художник (артист)  
 asal - начало (причина)  
 asal Amerka jen - инде́йский  
 asan - поза  
@@ -225,7 +225,9 @@ bulbul - соловей
 bum - взрыв  
 burge - крепость (форт)  
 buro - контора (бюро, офис)  
+buro di - казённый (формальный)  
 buro krati - бюрократия  
+buro riti - этикет (протокол)  
 bus halte - автобусная остановка  
 buta - ботинок  
 buton - пуговица  
@@ -416,6 +418,7 @@ fa hogo - жечь (палить)
 fa in klus - включить  
 fa jene - родить  
 fa jiva - живой  
+fa jui - предостерегать  
 fa kancha dake - глазуровать  
 fa karga - обременять  
 fa kave - копать  
@@ -569,6 +572,7 @@ gorila - горилла
 goton - хлопок  
 grafi chuli - обработка изображений  
 grafi kata - комикс  
+grafi so - пиксель  
 granite - гранит  
 grave - гравий  
 grimas - гримаса  
@@ -614,6 +618,7 @@ hande shaka - рукав
 hapu - подходящий (годный)  
 harabu mahala - трущоба  
 Hartum - Хартум  
+has nam - идентификатор  
 hata - до  
 hatar - опасность  
 heli yum - гелий  
@@ -670,6 +675,7 @@ insan di - человечный
 insan haki - права человека  
 insan sim - гуманизм  
 iode - йод  
+IP adres - IP-адрес  
 iris yum - иридий  
 ironi - ирония  
 islam din - ислам (мусульманство)  
@@ -704,6 +710,9 @@ Jongoku - Китай
 jovan - юный  
 jovan moka - саженец  
 jude ja - судья  
+jui - осторожность (опаска)  
+jui di - осторожный (внимательный)  
+jui note - упреждение  
 jul - джоуль (J)  
 jumla - фраза  
 Jupiter - Юпитер  
@@ -836,7 +845,7 @@ koral - коралл
 kore - бегать (бежать)  
 kore ja - бегун  
 korne melon - кивано (рогатая дыня)  
-kornonos - носорог  
+korne nos - носорог  
 korona - корона  
 korte kata - новелла  
 korte krokodil - аллигатор  
@@ -875,9 +884,6 @@ lai - приходить
 laji - мусор (дрянь)  
 laji bagi - свалка  
 laji tong - мусорный бак  
-lal linse - рыжая рысь  
-lal oranje - мандарин  
-lal salmon - нерка (красница)  
 lala bede - колыбель (люлька)  
 lala chanta - колыбельная песня  
 lama - лама (религиозный учитель в тибетском буддизме)  
@@ -933,6 +939,7 @@ loge - запись
 loge buku - судовой журнал  
 logi safar ja - исследователь  
 loka - место  
+loka nomer - координаты  
 long dur - долго  
 long dur di - долгий (длительный)  
 long kata - роман  
@@ -1001,6 +1008,7 @@ medi di - средний
 medi dia - полдень  
 medi gi - средство  
 medi noche - полночь  
+medi she - медиа (посредник, буфер)  
 medu - мёд  
 medu fong nide - улей (соты)  
 megi - облако  
@@ -1076,6 +1084,7 @@ nadir - редкий
 nadir mar - редко  
 najis - грязь (скверна)  
 nam - имя  
+nam dokumen - ID  
 nam hin - безымянный  
 nam kitabu - подписать  
 nama - мясо  
@@ -1102,6 +1111,7 @@ neputun yum - нептуний
 nerve selu - нейрон  
 ni - этот  
 nia - намерение  
+niche kitabu - субтитр  
 nide - гнездо (улей)  
 nikel - никель  
 nilon - нейлон  
@@ -1115,6 +1125,7 @@ nobel yum - нобелий
 noche - ночь  
 Noe di nave - Ноев ковчег  
 nomer - число  
+nomer zi - цифры  
 nomi - организация  
 nong - выращивать  
 nong bio logi - агробиология  
@@ -1125,8 +1136,8 @@ nostalgia - ностальгия (тоска)
 note she - запись (заметка)  
 nove - новинка (новь)  
 nove di - новый  
+nove jen - новичок  
 nove jene di - новорождённый  
-nove ka - новичок  
 nove loga - неологизм  
 nove ta - новизна  
 nu - ну  
@@ -1277,6 +1288,7 @@ putau oranje - грейпфрут
 
 ## R  
 
+radi long ta - радиус  
 radi yum - радий  
 radio - радио  
 radon - радон  
@@ -1297,6 +1309,7 @@ rentegen yum - рентгений
 reste - остаток  
 retro gula - рвать (изрыга́ть)  
 retro gula sense - тошнота  
+retro note - обратная связь  
 rim - рифма  
 ringar - ринг (манеж)  
 ris - рис  
@@ -1321,6 +1334,9 @@ rota lefte - против часовой стрелки
 rota vanu gi - волчок  
 rubi - красный  
 rubi bau seku - рубин  
+rubi linse - рыжая рысь  
+rubi oranje - мандарин  
+rubi salmon - нерка (красница)  
 rubi yum - рубидий  
 ruhu - душа (дух)  
 ruhu mishe - озадачить  
@@ -1488,6 +1504,7 @@ sulfu - сера
 suna islam din - сунниты  
 sundar - красивый  
 sundar daka - украшение  
+sundar suta ja - художник (артист)  
 sundar ta - красота  
 supa - суп  
 supa chamacha - суповая ложка  
@@ -1550,6 +1567,7 @@ tomate - помидор (томат)
 topo grafi - топография  
 topo metre grafi - карта (план)  
 tor yum - торий  
+transe vide di - прозрачный  
 trata - волочить  
 trata gi - трактор  
 trati - договор  
@@ -1563,6 +1581,7 @@ tule yum - тулий
 tumon su - ваш  
 tuna - тунец  
 tundra san - фьельды  
+turbe posta - спам  
 tuta - шелковица (тута)  
 tuzi - кролик (заяц)  
 
@@ -1572,6 +1591,7 @@ uma bichi - хлыст
 un - один (1)  
 un di - только (единственно, единственный, уникальный)  
 un mar - один раз  
+un sata - тотчас  
 un ta - единица  
 un ta liga - союз  
 un yen di lense - монокль  
@@ -1589,6 +1609,7 @@ vagina - влагалище (вагина)
 vagina flam - вагинит  
 vah - вау!  
 vai - вне  
+vai dara - переливаться  
 vai jen - посторонний (аутсайдер)  
 vai jene di - экзогенный  
 vai klus di - исключительный (эксклюзивный)  
@@ -1695,6 +1716,7 @@ zebra - зебра
 zeyil - бородавка  
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
+zi forma - шрифт  
 zi sili - алфавит  
 Zimbabue - Зимбабве  
 zinji - имбирь  

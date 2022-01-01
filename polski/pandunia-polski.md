@@ -142,7 +142,6 @@ arme - broń
 aroma - zapach (aromat, smród, odór)  
 aroma melon - melon koreański  
 arsen yum - arsen  
-arte ja - artysta  
 Artika - Arktyka  
 Artika Hai - Ocean Arktyczny  
 Aruba - Aruba  
@@ -452,7 +451,7 @@ buyu - baobab
 
 ## C  
 
-celsius darje - stopień Celsjusza  
+celsius darja - stopień Celsjusza  
 Ceres - Ceres (planeta karłowata)  
 ceres yum - cer  
 cesi yum - cez  
@@ -950,6 +949,7 @@ fa pul - wypełnić, wypełniać
 fa pul bon - doskonalić (optymalizować, ulepszać)  
 fa radi - promieniować  
 fa rai - uważać (sądzić)  
+fa rande - heblować  
 fa ratibu - porządkować, organizować  
 fa re - powtórzyć, powtarzać  
 fa redi - przygotować, przygotowywać  
@@ -1832,7 +1832,7 @@ koral - koral
 kore - biec (biegać, pędzić)  
 korne - róg  
 korne melon - ogórek kiwano  
-kornonos - nosorożec  
+korne nos - nosorożec  
 korona - korona  
 korona virus - koronawirus  
 korte - krótki  
@@ -1915,9 +1915,6 @@ lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać
 laji - śmieć, odpadek  
 laji tong - śmietnik  
 laka - lakier  
-lal linse - ryś rudy  
-lal oranje - mandarynka  
-lal salmon - nerka (łosoś czerwony)  
 lala - lulać  
 lala bede - kołyska (kolebka)  
 lama - lama  
@@ -2227,7 +2224,7 @@ Mikronesi - Mikronezja
 mikroskope - mikroskop  
 mili - mili-  
 mili gram - miligram  
-mili metre - milimetr  
+mili mitre - milimetr  
 milke - mleko  
 milke kardon - ostropest plamisty  
 mimon - my  
@@ -2467,7 +2464,7 @@ note buku - notatnik
 note she - uwaga, obserwacja  
 nove - nowość  
 nove di - nowy  
-nove ka - nowicjusz (nowa osoba)  
+nove jen - nowicjusz (nowa osoba)  
 Nove Kaledonia - Nowa Kaledonia  
 nove loga - neologizm  
 nove yang di - nowoczesne  
@@ -2583,6 +2580,7 @@ parti - partia
 parti ja - uczestnik  
 pas - minąć, mijać, przeminąć, przemijać  
 pas di - przeszły, miniony  
+pas tabi - pasywny (nieaktywny)  
 pase - pokój  
 Pase Hai - Ocean Spokojny (Pacyfik)  
 pase hai bakalau - dorsz pacyficzny  
@@ -2595,7 +2593,6 @@ paskal - paskal (Pa)
 pasporte - paszport  
 pasta - pasta  
 pasta petra - magma  
-pastabi - pasywny (nieaktywny)  
 patate - ziemniak  
 pati - choroba  
 pati di - chory  
@@ -2765,12 +2762,12 @@ Qazaqe - Kazachstan
 ## R  
 
 radi - promień  
-radi geter - radio  
 radi karma - promieniowanie  
 radi metre gi - radoiometr  
-radi miser - nadajnik radiowy  
 radi yum - rad  
 radio - radio  
+radio deku gi - radio  
+radio mise gi - nadajnik radiowy  
 radon - radon  
 rai - opinia, pogląd  
 raite - prawa strona  
@@ -2781,7 +2778,6 @@ raja desha - królestwo
 raja di - królewski  
 ramazan - Ramadan  
 rampe - rampa  
-randa - heblować  
 rande - hebel, strug  
 rang - kolor  
 rang arka - tęcza  
@@ -2844,7 +2840,7 @@ rol ja - akt, scena
 rolo - rulon (rolka, zwój)  
 rom - rum  
 Roma - Rzym  
-Roma Imperia - Imperium Rzymskie  
+Roma Imperi Desha - Imperium Rzymskie  
 roma kamil - rumian rzymski  
 Romania - Rumunia  
 romanse - miłość romantyczna  
@@ -2860,6 +2856,9 @@ rota vanu gi - bąk, bączek
 Ruanda - Rwanda  
 rubi - czerwony  
 rubi bau seku - rubin  
+rubi linse - ryś rudy  
+rubi oranje - mandarynka  
+rubi salmon - nerka (łosoś czerwony)  
 rubi yum - rubid  
 ruhu - dusza, duch, umysł  
 ruhu di - umysłowy (psychiczny)  
@@ -2895,8 +2894,8 @@ safa - czysty
 safa ja - sprzątacz, sprzątacz  
 safar - podróż  
 safar ja - podróżnik  
-safar kegu - turystyka  
-safar kegu ja - turysta  
+safar keka - turystyka  
+safar keka ja - turysta  
 safran - szafran  
 sagu - sago  
 Sahara Desha - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
@@ -2972,7 +2971,7 @@ sata di - chwilowy
 sata don - dedykować (poświęcać, poświęcić)  
 sata don ta - dedykacja (poświęcenie)  
 Saturne - Saturn  
-Saudi Arabia - Arabia Saudyjska  
+Saudi Arabi - Arabia Saudyjska  
 sauna - sauna  
 saur - jaszczurka  
 saya - cień  
@@ -3050,7 +3049,7 @@ she hal - sytuacja (stan)
 she hal ironi - ironia sytuacyjna  
 shefe - szef, kierownik  
 shefe di - główny  
-shefe minister - premier  
+shefe ministre ja - premier  
 shia islam din - szyism  
 shifu - mistrz (sensei)  
 shike - elegancki, szykowny  
@@ -3219,6 +3218,7 @@ suna di - konwencjonalny, zwyczajowy, tradycyjny
 sundar - piękny, przystojny  
 sundar daka - dekoracja (ornament)  
 sundar suta - sztuka  
+sundar suta ja - artysta  
 sundar ta - piękno  
 Suomi - Finlandia  
 supa - zupa  
@@ -3454,7 +3454,7 @@ Vashington D
 vasin - szczepionka  
 vate - wat  
 Vatikan - Watykan, Państwo Watykańskie  
-vei darje - południk  
+vei darja - południk  
 vei gola - południk  
 vende - sprzedać (sprzedawać)  
 vende shope - handel  

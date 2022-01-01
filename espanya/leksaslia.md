@@ -481,7 +481,7 @@
 |**guku hua**|crisantemo|zho:菊 (jú), yue:菊 (guk1), jpn:キク (kiku), kor:국화 (gukhwa), vie:cúc đại đóa, tha:เก๊กฮวย (gék-huai), may:kekwa, ara:قحوان (quḥwān)|
 |**gul**|tragar|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
 |**gule**|gul|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
-|**guma**|tambor|swa:ngoma + zho:鼓 (gǔ)|
+|**guma**|tambor|swa:ngoma, rwa:ingoma + zho:鼓 (gǔ)|
 |**gun**|ejército|zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|
 |**guru**|maestro (gurú, sabio, profesor)|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
 |**guste**|gusto (sabor)|spa:gusto, por:gosto, fra:goût|
@@ -602,6 +602,7 @@
 |**jong**|centro|zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|
 |**jovan**|joven|hin:जवान (javān), fas:urd:(javān), tel:యువ (yuva), por:jovem, spa:joven, ita:giovane, eng:juvenile, fra:juvénile|
 |**jude ja**|juez (árbitro, réferi)|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|
+|**jui**|cuidado (atención, precaución, cautela)|zho:注意 (zhùyì), yue:注意 (zyu3 ji3), wuu:注意 (tsr i), jpn:注意 (chūi), kor:주의 (juui), vie:chú ý|
 |**jumla**|oración|ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|
 |**jung**|especie|zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|
 |**jupe**|falda|fra:jupe, ara:(jūb), rus:юбка (yubka)|
@@ -1407,7 +1408,7 @@
 |**teza**|intenso (brusco, ácido, fuerte, afilado, rápido)|hin:तेज़ (tez), urd:(tez), fas:(tiz)|
 |**tichin**|instrumento de arco|zho:提琴 (tíqín), yue:提琴 (tai4 kam4), wuu:提琴 (di jin3), jpn:提琴 (teikin)|
 |**tika**|pedazo|fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)|
-|**tikete**|boleto|eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
+|**tikete**|etiqueta (boleto, billete)|eng:deu:ticket, spa:por:etiqueta, fra:étiquette, rus:этикетка (etiketka), tur:etiket, may:tiket, hin:टिकट (ṭikaṭ), urd:ٹکٹ (ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
 |**tim**|equipo|eng:team, deu:Team, swa:timu, hin:टीम (ṭīm), jpn:チーム (chīmu), kor:팀 (tim)|
 |**tipe**|tipo (género)|eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|
 |**tire**|tirar|spa:por:tirar, fra:tirer, eng:tear, tur:tire, may:tarik|

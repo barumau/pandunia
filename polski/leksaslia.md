@@ -464,7 +464,7 @@
 |**gui**|ogr (trol, goblin)|zho:鬼 (guǐ), vie:quỷ, + tha:กุ๊ย (gui)|
 |**gul**|połknąć (połykać)|ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|
 |**gule**|ghul|ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|
-|**guma**|bęben|swa:ngoma + zho:鼓 (gǔ)|
+|**guma**|bęben|swa:ngoma, rwa:ingoma + zho:鼓 (gǔ)|
 |**gun**|armia|zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|
 |**guru**|guru, mistrz|hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|
 |**guste**|smak|spa:gusto, por:gosto, fra:goût|
@@ -1366,7 +1366,7 @@
 |**teza**|intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)|hin:तेज़ (tez), urd:(tez), fas:(tiz)|
 |**tichin**|chordofon, instrument strunowy|zho:提琴 (tíqín), yue:提琴 (tai4 kam4), wuu:提琴 (di jin3), jpn:提琴 (teikin)|
 |**tika**|tikka|fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)|
-|**tikete**|bilet|eng:deu:ticket, may:tiket, hin:टिकट (ṭikaṭ), urd:(ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
+|**tikete**|bilet|eng:deu:ticket, spa:por:etiqueta, fra:étiquette, rus:этикетка (etiketka), tur:etiket, may:tiket, hin:टिकट (ṭikaṭ), urd:ٹکٹ (ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
 |**tim**|drużyna|eng:team, deu:Team, swa:timu, hin:टीम (ṭīm), jpn:チーム (chīmu), kor:팀 (tim)|
 |**tipe**|typ (rodzaj, gatunek)|eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|
 |**tire**|ciągnąć|spa:por:tirar, fra:tirer, eng:tear, tur:tire, may:tarik|

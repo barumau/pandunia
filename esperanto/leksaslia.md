@@ -362,7 +362,7 @@
 |**gubu**|hipopotamo|fula:ngabu konga:ngubu, sot:tsw:kubu, zulua:rwa:imvubu, amharaba:ጉማሬ (gumare)|
 |**gui**|ogro (trolo)|mandarena:鬼 (guǐ), vjetnama:quỷ, + taja:กุ๊ย (gui)|
 |**gul**|gluti|bengala:গেলা (gela), portugala:engolir, rusa:глотать (glotat'), taja:กลืน (glʉʉn), hispana:deglutir, franca:déglutir|
-|**guma**|tamburo|svahila:ngoma + mandarena:鼓 (gǔ)|
+|**guma**|tamburo|svahila:ngoma, rwa:ingoma + mandarena:鼓 (gǔ)|
 |**gun**|armeo|mandarena:军 (jūn), kantona:軍 (gwan1), japana:軍 (gun), korea:군 (gun), vjetnama:quân|
 |**guru**|guruo (instruisto)|hindia:गुरु (guru), bengala:গুরু (guru), guĝarata:ગુરુ (guru), panĝaba:ਗੁਰੂ (gurū), filipina:guro, taja:ครู (gruu), malaja:angla:portugala:guru, hispana:gurú, rusa:гуру (guru), franca:gourou, korea:구루 (guru), japana:グル (guru)|
 |**guste**|gusto|hispana:gusto, portugala:gosto, franca:goût|

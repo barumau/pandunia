@@ -88,6 +88,7 @@ an din ja - infiel (descreído)
 an ding - indeterminado (incierto, indefinido)  
 an jama - dispersar (esparcir, desmontar)  
 an jama di - escaso (disperso, ralo)  
+an karma ja - desactivado  
 an memo - olvidar  
 an mesi - Anticristo  
 an nam - antónimo  
@@ -95,6 +96,7 @@ an romanse - arromántico
 an sekse di - asexual  
 an sona - insomnio  
 an tapa - desatascar  
+an transe vide di - opaco  
 an yau di - innecesario  
 anchovi - anchoa  
 anda - huevo  
@@ -146,7 +148,6 @@ arme - arma
 aroma - olor (aroma)  
 aroma melon - melón coreano  
 arsen yum - arsénico  
-arte ja - artista  
 Artika - Ártico  
 Artika Hai - océano Ártico  
 Aruba - Aruba  
@@ -196,6 +197,7 @@ Azerbaijan - Azerbaiyán
 
 ## B  
 
+ba - muchos (múltiples)  
 babu - capítulo (sección)  
 babuche - chinelo (pantufa)  
 bacha - niño o niña  
@@ -459,10 +461,12 @@ bum - explosión (estallado)
 burge - castillo (fortaleza)  
 Burkina Faso - Burkina Faso  
 buro - oficina  
+buro di - oficial (formal, protocolario)  
 buro ja - secretario  
 buro ja grupe - secretaría  
 buro kan - oficina  
 buro krati - burocracia  
+buro riti - etiqueta (protocolo)  
 bus - bus (autobús)  
 bus halte - parada de autobús  
 buste - pecho (busto)  
@@ -473,7 +477,7 @@ buyu - baobab
 
 ## C  
 
-celsius darje - grado Celsius  
+celsius darja - grado Celsius  
 Ceres - Ceres (planeta enano)  
 ceres yum - cerio  
 cesi yum - cesio  
@@ -543,7 +547,8 @@ chupu - chupar (succionar)
 chuti - escapatoria  
 chuti mun - salida  
 chuze - elección  
-chuze she - opción  
+chuze liste - menú (catálogo)  
+chuze she - opción (preferencia)  
 chuze yo gol - destinar  
 Cuana - Botsuana  
 
@@ -561,8 +566,10 @@ dai pote - caldero
 dai seku - peñasco (pedrusco)  
 dai shula kan - universidad  
 dai ta - tamaño  
+dai zi - mayúscula  
 daka - tapa (funda, cubierta)  
 dalil - prueba  
+dalil dokumen - certificado  
 dama gem - damas  
 dana - partícula (grano, bala)  
 dana sekur - antibalas  
@@ -814,7 +821,8 @@ fa ajibu - asombrar
 fa alo - cambiar (demudar)  
 fa alo rai - disentir (no estar de acuerdo)  
 fa amen - confirmar  
-fa an galta - depurar  
+fa an galte - depurar  
+fa an verse - invertir  
 fa an zai - quitar (eliminar, borrar)  
 fa anime - animar  
 fa aplika - emplear (aplicar)  
@@ -906,6 +914,7 @@ fa jene - dar a luz (enngendrar, parir, procrear)
 fa jiva - vivo (lleno de vida)  
 fa jong - centrar (concentrar)  
 fa jude - juzgar  
+fa jui - advertir  
 fa jusha - inyectar  
 fa kai - abrir  
 fa kaka - defecar  
@@ -999,6 +1008,7 @@ fa pul - llenar
 fa pul bon - perfeccionar  
 fa radi - radiar (emitir)  
 fa rai - opinar  
+fa rande - cepillar con garlopa  
 fa ratibu - ordenar (arreglar)  
 fa re - repetir  
 fa redi - preparar (hacer listo)  
@@ -1341,6 +1351,7 @@ go - ese (aquel)
 gol - meta (gol, destinación)  
 gola - círculo  
 gola di - redondo (circular)  
+gola long ta - perímetro (circunferencia)  
 gola seku - adoquín  
 gomu - goma (caucho, hule, borrador)  
 gona - esquina (rincón, ángulo)  
@@ -1358,11 +1369,13 @@ grafi - imagen (gráfico, dibujo)
 grafi buku - libro de cuentos ilustrado  
 grafi chuli - procesamiento de imágenes  
 grafi di - gráfico (pictórico, ilustrado)  
+grafi fine ta - resolución de pantalla  
 grafi ja - ilustrador  
 grafi karte - tarjeta de gráfica  
 grafi kata - historieta (caricaturas)  
 grafi lanse gi - proyector  
 grafi rapide ta - tasa de fotogramas  
+grafi so - píxel  
 gram - gramo (g)  
 granite - granito  
 grave - grava  
@@ -1455,6 +1468,7 @@ harmoni di - armonioso
 harnes - arnés (arreos, jaeces)  
 Hartum - Jartum  
 has - especial (diferenciado, distinto)  
+has nam - identificador  
 has ta - especialización (distinción)  
 hashish - hachís  
 hata - hasta  
@@ -1518,6 +1532,7 @@ holera - cólera
 holme yum - holmio  
 holo - entero (todo)  
 holo grafi - holograma  
+holo nomer - número entero  
 holo ta - totalidad (integridad)  
 Hong Gong - Hong Kong  
 hor - hora  
@@ -1595,6 +1610,7 @@ iode - yodo (iodo)
 ion - ion  
 ion radi - radiación ionizante  
 ion radi di - radiactivo  
+IP adres - dirección de IP  
 Iran - Irán  
 Iraqi - Iraq  
 iris yum - iridio  
@@ -1617,7 +1633,7 @@ jain din - jainismo
 jake - chaqueta  
 jama - colección (grupo, conjunto, montón)  
 jama di - colectivo  
-jama karde - cromo  
+jama karte - cromo  
 Jamaika - Jamaica  
 jampe - saltar (brincar)  
 jan - meditar (reflexionar)  
@@ -1688,6 +1704,9 @@ jovan ta - juventud
 judau - yudo  
 jude - fallo (juicio, criterio)  
 jude ja - juez (árbitro, réferi)  
+jui - cuidado (atención, precaución, cautela)  
+jui di - cuidadoso (cauteloso, tener cuidado)  
+jui note - advertencia (aviso)  
 jul - joule (J)  
 jumla - oración  
 jung - especie  
@@ -1883,6 +1902,7 @@ kitabu forma - formateo
 kitabu gi - máquina de escribir  
 kitabu kan - biblioteca  
 kitabu minister - bibliotecario  
+kitabu so - grafema  
 kitabu suta - literatura  
 kivi - kiwi fruta  
 klar - claro  
@@ -1938,7 +1958,7 @@ koral - coral
 kore - correr  
 kore ja - corredor  
 korne - cuerno  
-kornonos - rinoceronte  
+korne nos - rinoceronte  
 korona - corona  
 korte - corto (breve)  
 korte fa - acortar (abreviar)  
@@ -2020,13 +2040,11 @@ laji - basura (desechos)
 laji bagi - basural  
 laji tong - basurero  
 laka - laca  
-lal linse - lince rojo (gato montés)  
-lal oranje - mandarina (tangerina)  
-lal salmon - salmón rojo  
 lala bede - cuna  
 lala chanta - canción de cuna (nana)  
 lama - lama  
 lampa - lámpara  
+LAN (loka area nete) - LAN (RAL)  
 lana - maldición  
 langan - barandilla (pasamanos)  
 Lanka - Sri Lanka  
@@ -2087,6 +2105,7 @@ lili - pequeño
 lili bol - burbuja (pompa)  
 lili kaboga - calabacín  
 lili yam - tentempié  
+lili zi - minúscula  
 lima - cinco (5)  
 lima fase - pentaedro  
 lima gona - pentágono  
@@ -2123,12 +2142,15 @@ loga so - palabra (vocablo)
 loga tabi di - hablador (locuaz)  
 loge - registro (archivo, anotación)  
 loge buku - libro de registro  
+loge chuti - cerrar sesión  
+loge jin - iniciar sesión  
 logi - ciencia (estudiar, investigar, -ología)  
 logi safar ja - explorador  
 logika - lógica  
 logika di - logical  
 loka - lugar  
 loka di - local  
+loka nomer - coordenadas  
 lona - discusión (debate, discurso)  
 long - largo  
 long dur di - perdurable (longevo, prolongado)  
@@ -2270,9 +2292,10 @@ mede ja - proponente (defensor)
 medi - medio  
 medi di - medio (mediano)  
 medi dia - mediodía  
+medi fase - interfaz  
 medi gi - medio (instrumento)  
 medi noche - medianoche  
-medi she - medio  
+medi she - medio (búfer)  
 medu - miel  
 medu fong - abeja  
 medu fong nide - colmena (panal)  
@@ -2339,7 +2362,7 @@ Mikronesi - Micronesia
 mikroskope - microscopio  
 mili - mili-  
 mili gram - miligrama  
-mili metre - milimetre  
+mili mitre - milimetre  
 milke - leche  
 milke kardon - cardo mariano  
 mima - imitar  
@@ -2433,6 +2456,7 @@ Muritania - mauritania
 mus - deber (necesitar)  
 mus ta - obligación (compulsión)  
 mushu - ratón  
+mushu chakra - rueda del mouse  
 muskete - mosquete  
 muskete ja - mosquetero  
 muskul - músculo  
@@ -2472,9 +2496,11 @@ najis - contaminación (corrupción, porquería, suciedad)
 najis bindu - mancha  
 najis di - sucio (corrompido)  
 nam - nombre  
+nam dokumen - identificación (ID)  
 nam hin - innominado  
 nam kitabu - firmar  
 nam loga - sustantivo  
+nam tikete - gafete (etiqueta de identificación)  
 nama - carne  
 Namibia - Namibia  
 nanas - piña  
@@ -2537,6 +2563,7 @@ ni - este
 nia - intención (intento)  
 niche - parte inferior  
 niche di - inferior  
+niche kitabu - subtítulos  
 nide - nido (avispero, hormiguero, ratonera)  
 Nijer - Níger  
 Nikaragua - Nicaragua  
@@ -2560,6 +2587,7 @@ node - nudo
 Noe - Noé  
 Noe di nave - arca de Noé  
 nomer - número  
+nomer zi - dígito (cifra)  
 nomi - gerencia (dirección)  
 nong - cultivar  
 nong bio logi - agrobiología  
@@ -2591,8 +2619,8 @@ note she - nota
 nove - novedad  
 nove di - nuevo  
 nove fito - planta neófita  
+nove jen - novato  
 nove jene di - neonato (recién nacido)  
-nove ka - novato  
 Nove Kaledonia - Nueva Caledonia  
 nove loga - neologismo  
 nove ta - novedad  
@@ -2913,12 +2941,13 @@ Qazaqe - Kazajistán (Kazakistan)
 ## R  
 
 radi - rayo  
-radi geter - receptor de radio  
 radi karma - radiación  
+radi long ta - radio (mitad de diámetro)  
 radi metre gi - radiómetro  
-radi miser - radiotransmisor  
 radi yum - radio  
 radio - radio  
+radio deku gi - receptor de radio  
+radio mise gi - radiotransmisor  
 radon - radón  
 rai - opinión (juicio, consideración)  
 raite - lado derecho  
@@ -2929,7 +2958,6 @@ raja desha - reino
 raja di - real (de realtad)  
 ramazan - Ramadán  
 rampe - rampa (cuesta)  
-randa - cepillar con garlopa  
 rande - garlopa  
 rang - color (colorido)  
 rang arka - arco iris  
@@ -2949,6 +2977,7 @@ ratibu di - ordenado (regular)
 razon - razón  
 razon di - razonable  
 re - repetición  
+re karga - recargar  
 re sikle - reciclar  
 re zoku - continuar (reanudar)  
 rebel - rebelión (sublevación)  
@@ -2965,6 +2994,7 @@ retro - al revés
 retro dau - vuelta  
 retro gula - devolver (vomitar)  
 retro gula sense - náusea  
+retro note - retroalimentación (realimentación, feedback)  
 retro tikete - billete de ida y vuelta  
 Reunion - Reunión  
 rezerve - réservation  
@@ -2994,7 +3024,7 @@ rol ja - actor (actriz)
 rolo - rollo  
 rom - ron  
 Roma - Roma  
-Roma Imperia - Imperio romano  
+Roma Imperi Desha - Imperio romano  
 roma kamil - manzanilla romana (camomila común)  
 Romania - Rumania  
 romanse - romance  
@@ -3010,6 +3040,9 @@ rota vanu gi - trompo
 Ruanda - Ruanda  
 rubi - rojo  
 rubi bau seku - rubí  
+rubi linse - lince rojo (gato montés)  
+rubi oranje - mandarina (tangerina)  
+rubi salmon - salmón rojo  
 rubi yum - rubidio  
 ruhu - psique  
 ruhu di - mental (psíquico)  
@@ -3044,8 +3077,8 @@ safa ja - limpiador
 safa tela - trapo (tela para limpiar)  
 safar - viaje  
 safar ja - viajero  
-safar kegu - turismo  
-safar kegu ja - turista  
+safar keka - turismo  
+safar keka ja - turista  
 safran - azafrán  
 sagu - sagú  
 Sahara Desha - República Árabe Saharaui Democrática  
@@ -3120,7 +3153,7 @@ sata - momento
 sata di - momentáneo  
 sata don - dedicar  
 Saturne - Saturno  
-Saudi Arabia - Arabia Saudita  
+Saudi Arabi - Arabia Saudita  
 sauna - sauna  
 saur - lagarto  
 saya - sombra  
@@ -3198,7 +3231,7 @@ she - cosa
 she hal - situación  
 shefe - jefe  
 shefe di - principal  
-shefe minister - primer ministro  
+shefe ministre ja - primer ministro  
 shia - facción  
 shia islam din - chiismo (chía)  
 shifu - maestro (profesor)  
@@ -3375,6 +3408,7 @@ suna islam din - sunismo
 sundar - hermoso (bello, lindo)  
 sundar daka - decoración (adorno)  
 sundar suta - bellas artes  
+sundar suta ja - artista  
 sundar ta - belleza (hermosura)  
 Suomi - Finlandia  
 suomi basha - idioma finés  
@@ -3476,9 +3510,10 @@ tese - tesis
 tesla - tesla (T)  
 teste - prueba  
 teza - intenso (brusco, ácido, fuerte, afilado, rápido)  
+teza ta - intensidad (volumen)  
 tichin - instrumento de arco  
 tika - pedazo  
-tikete - boleto  
+tikete - etiqueta (boleto, billete)  
 tim - equipo  
 Timor - Timor  
 tipe - tipo (género)  
@@ -3510,6 +3545,8 @@ torso - torso
 tortuga - tortuga  
 transe - tránsito (transporte)  
 transe gon di - diagonal  
+transe long ta - diámetro  
+transe vide di - transparente  
 Transe Nistre Desha - Transnistria (Cisdniéster)  
 trata - arrastrar  
 trata gi - tractor  
@@ -3541,6 +3578,7 @@ tunika - túnica
 Tunis - Túnez  
 tupi - sombrero  
 turbe - problema (disturio)  
+turbe posta - correo basura  
 Turki - Turquía  
 turki basha - idioma turco  
 Turkomen - Turkmenistán  
@@ -3564,6 +3602,7 @@ un mana di - inequívoco
 un mar - una vez  
 un me - primero (numbre uno)  
 un rang di - monocromático  
+un sata - instantáneamente  
 un she sim - monismo  
 un ta - unidad (unión)  
 Un Ta Arabi Amir Desha (UAA) - Emiratos Árabes Unidos  
@@ -3594,6 +3633,7 @@ vagina - vagina
 vagina flam - vaginitis  
 vah - guau (vaya)  
 vai - fuera (exterior)  
+vai dara - desbordarse (derramarse)  
 vai desha - país extranjero  
 vai desha di - extranjero  
 vai di - exterior  
@@ -3640,7 +3680,7 @@ Vashington D
 vasin - vacuna  
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
-vei darje - latitud  
+vei darja - latitud  
 vei gola - paralelo (línea de latitud)  
 vende - vender  
 vende shope - comercio  
@@ -3687,6 +3727,7 @@ Virjin nesi - Islas Vírgenes
 virus - virus  
 virus logi - virología  
 vise - vice- (alternativa, sustituto)  
+vise kitabu - sobreescribir  
 vise loga - pronombre  
 vise ma - madrastra  
 vise pa - padrastro  
@@ -3793,6 +3834,7 @@ ze sabu da - porque
 zebra - cebra  
 zeyil - verruga  
 zi - carácter  
+zi forma - fuenta  
 zi sili - alfabeto  
 zigzage - zigzag  
 zikura - zigurat  

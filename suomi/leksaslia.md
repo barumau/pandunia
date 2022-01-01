@@ -491,7 +491,7 @@
 |**gui**|peikko|yleiskiina:鬼 (guǐ), vietnami:quỷ, + thai:กุ๊ย (gui)|
 |**gul**|niellä|bangla:গেলা (gela), portugali:engolir, venäjä:глотать (glotat'), thai:กลืน (glʉʉn), espanja:deglutir, ranska:déglutir|
 |**gule**|ghouli|arabia:الغول (ghūl), persia:غول‎ (ğul), englanti:portugali:ghoul, espanja:gul, venäjä:гуль (gul′), turkki:kulbastı, malaiji:ghul, japani:グール (gūru)|
-|**guma**|rumpu|suahili:ngoma + yleiskiina:鼓 (gǔ)|
+|**guma**|rumpu|suahili:ngoma, rwa:ingoma + yleiskiina:鼓 (gǔ)|
 |**gun**|armeija (sotajoukko)|yleiskiina:军 (jūn), kantoninkiina:軍 (gwan1), japani:軍 (gun), korea:군 (gun), vietnami:quân|
 |**guru**|guru (opettaja)|hindi:गुरु (guru), bangla:গুরু (guru), gujarati:ગુરુ (guru), pandzabi:ਗੁਰੂ (gurū), filippiini:guro, thai:ครู (gruu), malaiji:englanti:portugali:guru, espanja:gurú, venäjä:гуру (guru), ranska:gourou, korea:구루 (guru), japani:グル (guru)|
 |**guste**|maku|espanja:gusto, portugali:gosto, ranska:goût|
@@ -652,7 +652,7 @@
 |**kano**|kanootti|englanti:canoe, ranska:canoë, espanja:portugali:canoa, venäjä:каноэ (kanoe), japani:カヌー (kanū), korea:카누 (kanu), turkki:kano|
 |**kanon**|klassikko|englanti:ranska:espanja:canon, portugali:canone|
 |**kanta**|olkapää (hartia)|hindi:कंधा (kandhā), urdu:(kandhā), bangla:কাঁধ (kandhô), + japani:肩 (kata), + arabia:(kataf), + min-kiina:肩頭 (keng-thâu)|
-|**kanun**|laki|arabia:(qānūn), turkki:kanun, suahili:kanuni, hindi:क़ानून (qānūn), + englanti:ranska:canon, portugali:cânone, venäjä:канон (kanon)|
+|**kanun**|laki (sääntö)|arabia:(qānūn), turkki:kanun, suahili:kanuni, hindi:क़ानून (qānūn), + englanti:ranska:canon, portugali:cânone, venäjä:канон (kanon)|
 |**kape**|ottaa kiinni (napata, kaapata)|turkki:kapmak, unkari:kap, sve:kapa, fin:kaapata, ned:kapen, espanja:portugali:capturar, englanti:capture, spa:por:caber, khmer:ចាប់ (cap)|
 |**kar**|kärry (vaunu, auto, jne)|englanti:car, portugali:espanja:carro, deu:Karre, telugu:(kāru) + hindi:गाड़ी (gāṛī), suahili:gari, persia:(gâri)|
 |**karavi**|kumina|arabia:(karāwiya), englanti:caraway, ranska:carvi, espanja:alcaravea, portugali:alcaravia|
@@ -1373,7 +1373,7 @@
 |**teza**|kiihkeä (väkevä, voimakas, vahva, kova)|hindi:तेज़ (tez), urdu:(tez), persia:(tiz)|
 |**tichin**|jousisoitin|yleiskiina:提琴 (tíqín), kantoninkiina:提琴 (tai4 kam4), wu-kiina:提琴 (di jin3), japani:提琴 (teikin)|
 |**tika**|pala|persia:(tekke), arm:թիքա (tʿikʿa), hindi:टिक्का (ṭikkā)|
-|**tikete**|lippu (piletti)|englanti:deu:ticket, malaiji:tiket, hindi:टिकट (ṭikaṭ), urdu:(ṭikaṭ), bangla:টিকিট (ṭikiṭ), amharabia:ቲኬት (tiket), korea:티켓 (tiket), japani:チケット (chiketto)|
+|**tikete**|lippu (piletti)|englanti:deu:ticket, espanja:portugali:etiqueta, ranska:étiquette, venäjä:этикетка (etiketka), turkki:etiket, malaiji:tiket, hindi:टिकट (ṭikaṭ), urdu:ٹکٹ (ṭikaṭ), bangla:টিকিট (ṭikiṭ), amharabia:ቲኬት (tiket), korea:티켓 (tiket), japani:チケット (chiketto)|
 |**tim**|joukkue (tiimi)|englanti:team, deu:Team, suahili:timu, hindi:टीम (ṭīm), japani:チーム (chīmu), korea:팀 (tim)|
 |**tipe**|tyyppi (laji, genre)|englanti:ranska:type, espanja:portugali:tipo, ru:тип (tip), turkki:tip, japani:タイプ (taipu)|
 |**tire**|vetää (kiskoa)|espanja:portugali:tirar, ranska:tirer, englanti:tear, turkki:tire, malaiji:tarik|

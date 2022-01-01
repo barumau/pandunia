@@ -288,7 +288,7 @@ byrokratia - buro krati
 
 Cabo Verde - Kabu Verde  
 Cayman-saaret - Kaiman nesi  
-celsiusaste - celsius darje  
+celsiusaste - celsius darja  
 Ceres - Ceres  
 cerium - ceres yum  
 cesium - cesi yum  
@@ -446,6 +446,7 @@ Etelä-Ossetia - Sude Iria (Alonia)
 Etelä-Sudan - Sude Sudan  
 Eteläinen Jäämeri - Antartika Hai  
 etiikka (moraalioppi) - moral logi  
+etiketti (protokolla) - buro riti  
 etikka - vin suan  
 Etiopia - Etiopia  
 etninen - zuku di  
@@ -773,7 +774,7 @@ hävitä (kärsiä tappio) - fa shiti bai
 häviäjä - shiti bai ja  
 hölmö (narri) - bufon  
 höylä - rande  
-höylätä - randa  
+höylätä - fa rande  
 höyry (vesihöyry) - sui gas  
 
 ## I  
@@ -1160,7 +1161,7 @@ kerta (vuoro) - mar
 kertoa - fa kata  
 kertomus (tarina, saaga) - kata  
 kerubi - kerubi  
-keräilykortti - jama karde  
+keräilykortti - jama karte  
 keskeyttää (tauottaa) - fa pauza  
 Keski-Afrikan Tasavalta - Jong Afrika Komun krati  
 keskipäivä (puolipäivä) - medi dia  
@@ -1526,7 +1527,7 @@ lainausmerkki - sita marke
 laivakaappari - nave kape ja  
 laji (tyyppi, tyyli) - yang  
 laji - jung  
-laki - kanun  
+laki (sääntö) - kanun  
 lakka - laka  
 lakki (hattu) - tupi  
 lakritsi - alkasus  
@@ -1592,7 +1593,7 @@ lepakko - fei mushu
 lepo - shanti  
 leski - vidou  
 Lesoto - Soto  
-leveysaste - vei darje  
+leveysaste - vei darja  
 leveyspiiri - vei gola  
 leveä - kuan  
 levottomuus (konflikti) - an pase  
@@ -1806,7 +1807,7 @@ mallintaa - fa model
 Malta - Malta  
 manata esiin - fa zai  
 mandariini (kiinalainen virkailija) - han guan ja  
-mandariini - lal oranje  
+mandariini - rubi oranje  
 mangaani - mangan  
 mango - mango  
 mangostani - mangus  
@@ -1914,7 +1915,7 @@ miljoona (mega-) - mega
 millainen? - ke yang  
 milli- - mili  
 milligramma - mili gram  
-millimetri - mili metre  
+millimetri - mili mitre  
 milloin? (koska?) - ke sata  
 minimalismi - minim sim  
 minimoida - fa minim  
@@ -2117,7 +2118,7 @@ nousta - be gau
 nousta ylemmälle tasolle - be gau darja  
 noutopöytä (buffetti) - bufete  
 novelli - korte kata  
-noviisi (uusikko, vasta-alkaja) - nove ka  
+noviisi (uusikko, vasta-alkaja) - nove jen  
 nudismi - nude sim  
 nudisti - nude sim ja  
 nukke - pupe  
@@ -2466,7 +2467,7 @@ poistaa (hävittää) - fa an zai
 poistaa (paitsi, poislukien) - fa vai  
 poistaa (viedä) - fa for  
 poistaa toiminnasta - fa an karma  
-poistaa virheitä (debugata) - fa an galta  
+poistaa virheitä (debugata) - fa an galte  
 poistua (mennä ulos) - be vai  
 poistua - fa chuti  
 poistuminen - chuti  
@@ -2601,7 +2602,7 @@ pää - sar
 pää- - shefe di  
 pääkallo - sar oste  
 päällikkö (pomo) - shefe  
-pääministeri (suurvisiiri) - shefe minister  
+pääministeri (suurvisiiri) - shefe ministre ja  
 päärynä - pera  
 pääsiäinen - paska  
 päästä - be lashe  
@@ -2622,8 +2623,8 @@ raastaa - chira chira
 raastettu - chira chira di  
 radioaktiivinen - ion radi di  
 radioaktiivisuus - ion radi  
-radiolähetin - radi miser  
-radiovastaanotin - radi geter  
+radiolähetin - radio mise gi  
+radiovastaanotin - radio deku gi  
 radium - radi yum  
 radon - radon  
 radža - hindi raja  
@@ -2711,7 +2712,7 @@ romanttinen - romanse di
 rommi - rom  
 rooli (osa) - rol  
 Rooma - Roma  
-Rooman valtakunta - Roma Imperia  
+Rooman valtakunta - Roma Imperi Desha  
 roottori (propelli) - rota she  
 roska - laji  
 rotu - rasa  
@@ -2812,7 +2813,7 @@ sardelli (anjovis) - anchovi
 sarja - sili  
 sarjakuva - grafi kata  
 sarvi - korne  
-sarvikuono - kornonos  
+sarvikuono - korne nos  
 saslik - shish nama  
 sata (hehto-) - sento  
 sata tuhatta - des kilo  
@@ -2830,7 +2831,7 @@ satu - pari kata
 satumaa (paratiisi) - pari desha  
 Saturnus - Saturne  
 satuttaa - fa pasi  
-Saudi Arabia - Saudi Arabia  
+Saudi Arabia - Saudi Arabi  
 sauma (ommel) - sutur  
 sauna - sauna  
 savanni - garma zona gazo topo  
@@ -3130,7 +3131,7 @@ Taipei - Taibei
 taipumus - klin  
 taistelu (sota) - jang  
 taitaa (olla mestari jskn) - fa mestre  
-taiteilija - arte ja  
+taiteilija - sundar suta ja  
 taito - suta  
 taivaankappale - astro  
 taivas - sama  
@@ -3374,8 +3375,8 @@ tuottava (tuottelias) - sana ja di
 tupakka - tabaku  
 tuplata (kertoa kahdella) - fa multi do du  
 turbaani - pagri  
-turismi - safar kegu  
-turisti - safar kegu ja  
+turismi - safar keka  
+turisti - safar keka ja  
 Turkki - Turki  
 turkkilainen - turki basha  
 Turkmenistan - Turkomen  

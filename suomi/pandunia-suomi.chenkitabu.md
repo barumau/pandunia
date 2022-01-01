@@ -21,5 +21,17 @@ niiden käännökset erotetaan puolipisteellä.
 
 > ching - pyytää (anoa; ole hyvä)
 
+Toisinaan samasta sanasta on kaksi lähes samanlaista hakusanaa.
+
+> **huru** - free (unbound)  
+> **fa huru** - free (liberate)
+
+Näistä **fa**-alkuisen hakusanan kohdalla on varsinaisen pääsanan suomennos verbinä.
+Pandunian sanat voivat toimia sekä substantiivina, adjektiivina että verbinä.
+Sen vuoksi lauseyhteydessä riittää yleensä pelkän pääsanan käyttäminen
+ja apuverbin **fa** voi jättää pois.
+Esimerkiksi **mi huru yemon** on riittävä tapa sanoa 'Minä vapautan heidät'.
+Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kannalta ylimääräinen **fa**-sana.
+
 ---
 

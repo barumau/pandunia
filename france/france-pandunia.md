@@ -139,7 +139,7 @@ arrêt de bus - bus halte
 arsenic - arsen yum  
 art - suta  
 artichaut - karchof  
-artiste - arte ja  
+artiste - sundar suta ja  
 Artsakh - Arcah  
 Aruba - Aruba  
 arène - arena estade  
@@ -347,7 +347,7 @@ carrière - pei gong jiva
 carte (graphique) - metre grafi  
 carte (plan) - topo metre grafi  
 carte - karte  
-carte à collectionner - jama karde  
+carte à collectionner - jama karte  
 cartographie - metre grafi suta  
 cauri - kauri  
 ce...ci - ni  
@@ -405,6 +405,7 @@ chêne - baluta
 chêne pédonculé - europa baluta  
 chœur - chanta grupe  
 ciel - sama  
+ciffre - nomer zi  
 cigarette - sigar  
 cime (pic, sommet) - san pike  
 cimetière - gabur bagi  
@@ -569,7 +570,7 @@ durée - dur
 dynamite - dinamite  
 dysprosium - disprosi yum  
 dé - zar kube  
-déboguer (débugger) - fa an galta  
+déboguer (débugger) - fa an galte  
 début (commencement) - shuru  
 décapé (mariné) - achar di  
 décharge - laji bagi  
@@ -975,7 +976,7 @@ maison (foyer, domicile) - dom
 malédiccion - lana  
 manche - kamisa shaka  
 mandarin - han guan ja  
-mandarine - lal oranje  
+mandarine - rubi oranje  
 mandarine satsuma - venjou oranje  
 manganèse - mangan  
 manichéisme - mani din  
@@ -1121,7 +1122,7 @@ nécrophilie - mata badan fili
 néodyme - neodim yum  
 néologisme - nove loga  
 néon - neon  
-néophyte - nove ka  
+néophyte - nove jen  
 
 ## O  
 
@@ -1354,6 +1355,7 @@ Prométhée - Promete
 propice - bon sin di  
 propriété (possession, bien) - mal  
 protactinium - protacini yum  
+protocole - buro riti  
 prune de Java - jamul  
 précieux - bau di  
 préférer - mas fili  
@@ -1485,7 +1487,7 @@ saucisse - sosis
 saumon altentique - atlanti salmon  
 saumon du Pacifique (saumon kéta, saumon chien) - baku salmon  
 saumon rose - rode salmon  
-saumon sockeye - lal salmon  
+saumon sockeye - rubi salmon  
 sauvage - eko jene di  
 savane - garma zona gazo topo  
 savoir (connaître) - sabe  
@@ -1625,7 +1627,7 @@ topographie - topo grafi
 tortue - tortuga  
 toucher - tochu  
 toupie - rota vanu gi  
-touriste - safar kegu ja  
+touriste - safar keka ja  
 Tournesol - sol hua  
 toxicologie - toksi logi  
 toxine - bio toksi  

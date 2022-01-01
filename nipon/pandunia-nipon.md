@@ -39,6 +39,7 @@ an jama - 散らす
 an jama di - 疎ら  
 an memo - 忘れる  
 an sona - 不眠症  
+an transe vide di - 不透明  
 an yau di - 不要  
 anchovi - アンチョビ  
 andesite - 安山岩  
@@ -189,6 +190,7 @@ bum - 爆発
 burge - 要塞  
 buro ja - 秘書  
 buro krati - 官僚制  
+buro riti - 公式 (礼法, プロトコル)  
 bus halte - バス停  
 buta - ブーツ  
 
@@ -226,6 +228,7 @@ choklate kane - チョコバー
 chopu - クワ  
 chuli - 処理 (プロセス)  
 chun - 村  
+chuze liste - 品書き (メニュー)  
 chuze she - オプション (選択)  
 
 ## D  
@@ -236,6 +239,8 @@ dai hai - 大洋 (大海)
 dai pau - 大砲  
 dai pote - 大釜 (大鍋)  
 dai seku - 大石  
+dai zi - 大文字  
+dalil dokumen - 証明書  
 dama gem - チェッカー (西洋碁)  
 dan - 段 (等)  
 dang gi - 鐘 (鈴)  
@@ -340,7 +345,8 @@ europa yum - ユウロピウム
 fa - する  
 fa achar - 酢漬けある  
 fa alo - 変える  
-fa an galta - デバッグする  
+fa an galte - デバッグする  
+fa an verse - 逆らう  
 fa aroma - 嗅ぐ  
 fa aroma - 香る (匂う, 臭う)  
 fa auto - カスタマイズする  
@@ -365,6 +371,7 @@ fa hisabu - 計算する
 fa hogo - 燃やす  
 fa jang - 戦う  
 fa jene - 生む  
+fa jui - 戒める (諭す)  
 fa kave - 掘る  
 fa kino - 動かす  
 fa kung - 染みる (貫通する)  
@@ -511,17 +518,20 @@ glu fan - 粘土
 glu grafi - ステッカー  
 go - その  
 gol - 目的 (行き先, ゴール)  
+gola long ta - 周囲長  
 gola seku - 丸石 (玉石, 栗石)  
-gomu - 消しゴム  
+gomu - ゴム (消しゴム)  
 gong - 労働  
 gong ja - 労働者  
 gong kan - 工場 (製造所)  
 gong mise - 提出  
 gorila - ゴリラ  
 grafi chuli - 画像処理  
+grafi fine ta - 解像度  
 grafi karte - グラフィックカード  
 grafi kata - 漫画  
 grafi rapide ta - フレームレート  
+grafi so - 画素 (ピクセル)  
 granite - 花崗岩  
 grave - 砂利  
 guai - 変  
@@ -562,6 +572,7 @@ hande shaka - 腕
 hapu - 適切  
 haram liste - ブラックリスト  
 Hartum - ハルツーム  
+has nam - 識別名  
 hatar - 危険  
 hava - 風  
 heli yum - ヘリウム  
@@ -610,6 +621,7 @@ insan - 人間
 insan haki - 人権  
 insan sim - ヒューマニズム (人文主義)  
 iode - ヨウ素  
+IP adres - IPアドレス  
 iris yum - イリジウム  
 ironi - 反語 (皮肉)  
 ironi di - 反語的  
@@ -617,6 +629,7 @@ islam din - イスラム教
 
 ## J  
 
+ja - 者 (人, 家)  
 jamul - フトモモ  
 jan buda din - 禅宗  
 janela - 窓  
@@ -646,6 +659,9 @@ jovan fem - 女の子
 jovan jen - 青少年  
 jovan man - 男の子  
 jovan moka - 若木  
+jui - 注意  
+jui di - 気をつける (慎む)  
+jui note - 注意 (戒め, 警告)  
 jul - ジュール (J)  
 Jupiter - 木星  
 jus - ジュース  
@@ -746,6 +762,7 @@ kisma - 運命 (宿命)
 kitabu forma - 書式付け  
 kitabu kan - 図書館  
 kitabu minister - 図書係  
+kitabu so - 書記素  
 kitabu suta - 文献 (文学, 文芸)  
 kivi - キーウィフルーツ  
 klas - 部門 (級)  
@@ -804,13 +821,11 @@ lai - 来る
 laji - ゴミ (廃棄物)  
 laji bagi - ゴミ捨て場  
 laji tong - ごみ箱  
-lal linse - ボブキャット  
-lal oranje - ポンカン (マンダリン)  
-lal salmon - ベニザケ  
 lala bede - 揺り籠  
 lala chanta - 子守歌 (ララバイ)  
 lama - ラマ (チベット仏教の上師)  
 lampa - ランプ  
+LAN (loka area nete) - LAN  
 lana - 呪い (たたり)  
 lanse grafi - 投影  
 lanse she - 飛翔体 (矢玉)  
@@ -835,6 +850,7 @@ lika - 力
 lili - 小さい  
 lili kaboga - ズッキーニ  
 lili seku - 小石  
+lili zi - 小文字  
 lima - 五 (5)  
 limon - レモン  
 limon jus - レモネード  
@@ -857,9 +873,12 @@ loga jama - 語彙
 loga so - 言葉  
 loge - 記録  
 loge buku - 日誌  
+loge chuti - ログアウト  
+loge jin - ログイン  
 logi - 研究 (科学, 学)  
 logi safar ja - 探検家  
 loka - 場所  
+loka nomer - 座標  
 long - 長い  
 long kata - 小説  
 long krokodil - クロコダイル  
@@ -916,7 +935,9 @@ medan - 広場
 medan papi - ヒナゲシ  
 mede - 助け  
 medi dia - 正午  
+medi fase - 界面  
 medi noche - 真夜中  
+medi she - 媒体 (バッファ)  
 medu - 蜂蜜  
 medu fong - 蜜蜂  
 medu fong nide - 蜂の巣 (ハニカム)  
@@ -989,6 +1010,7 @@ mun - 門
 mur - 壁  
 mur kaguji - 壁紙  
 mushu - 鼠  
+mushu chakra - ホイールマウス  
 musli - ミューズリー  
 muzika - 音楽  
 
@@ -1002,6 +1024,7 @@ najis - 汚れ (汚染)
 najis bindu - 染み (汚点)  
 najis di - 汚い  
 nam - 名前  
+nam dokumen - 身分証明書 (ID)  
 nam hin - 名無し (無名の)  
 nam kitabu - 署名する (サイン)  
 nama - 肉  
@@ -1024,6 +1047,7 @@ nete - 網
 ni - この  
 nia - 意図  
 niche - 下  
+niche kitabu - 字幕  
 nide - 巣  
 nikel - ニッケル  
 nilon - ナイロン  
@@ -1037,6 +1061,7 @@ no - いいえ
 nobel yum - ノーベリウム  
 noche - 夜  
 Noe di nave - ノアの箱舟  
+nomer zi - 数字  
 nong chun - 農村  
 nong nomi - 農学  
 norde - 北  
@@ -1044,7 +1069,7 @@ norma - 標準
 norma di - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
 nove di - 新しい  
-nove ka - 初心者  
+nove jen - 初心者  
 nove loga - 新語 (新造語)  
 nove yang di - 近代的  
 nuka - 首  
@@ -1167,6 +1192,7 @@ Putong Han - 普通話 (北京語)
 
 ## R  
 
+radi long ta - 半径  
 radi yum - ラジウム  
 radon - ラドン  
 rai - 意見 (見解)  
@@ -1188,6 +1214,7 @@ ren yum - レニウム
 rentegen yum - レントゲニウム  
 retro gula - 戻す (吐く)  
 retro gula sense - 吐き気 (嘔気)  
+retro note - フィードバック (帰還)  
 ring - 輪  
 ringar - リング  
 ris - 米 (ご飯)  
@@ -1207,6 +1234,9 @@ rota lefte - 左回り (反時計回り)
 rota vanu gi - 独楽  
 rubi - 赤い  
 rubi bau seku - ルビー  
+rubi linse - ボブキャット  
+rubi oranje - ポンカン (マンダリン)  
+rubi salmon - ベニザケ  
 rubi yum - ルビジウム  
 ruhu mishe - 惑わす  
 ruhu mishe di - まごまご  
@@ -1353,6 +1383,7 @@ sulfu - 硫黄
 sundar - 美しい  
 sundar daka - 装飾  
 sundar suta - 芸術 (美術)  
+sundar suta ja - 美術家  
 sundar ta - 美しさ  
 supa - スープ (汁)  
 supa chamacha - さじ (テーブルスプーン)  
@@ -1387,6 +1418,7 @@ ten fasil ta - アクセシビリティ
 tenesi yum - テネシン  
 terbi yum - テルビウム  
 tercha - 斜め  
+tikete - 札  
 tipe - 種類  
 tire dara - 離岸流  
 tire kane - レバー (てこ)  
@@ -1397,6 +1429,8 @@ toksi - 毒
 Tokyo - 東京  
 topo grafi - 地勢  
 tor yum - トリウム  
+transe long ta - 直径  
+transe vide di - 透明  
 trata gi - トラクター  
 trati - 合意  
 tre - とても  
@@ -1409,6 +1443,7 @@ tu su - あなたの
 tule yum - ツリウム  
 tumon - あなたたち  
 tuna - 鮪 (ツナ)  
+turbe posta - 迷惑メール  
 tuta - 桑  
 tuzi - うさぎ  
 
@@ -1417,6 +1452,7 @@ tuzi - うさぎ
 umami - 旨味  
 un - 一 (1)  
 un di - だけ (唯一の)  
+un sata - 一躍  
 un ta - 団結 (統一)  
 un ta liga - 連合 (接合)  
 un zai di - 一人の (寂しい, ポツリ)  
@@ -1430,6 +1466,7 @@ vafle - ワッフル
 vagina - 膣 (ワギナ)  
 vah - わあ  
 vai - 外  
+vai dara - 溢れる (越流する)  
 vai jen - 部外者 (アウトサイダー)  
 vai planete - 系外惑星  
 vai verse di - 外向的な  
@@ -1456,7 +1493,7 @@ vashi urso - 狸 (ラクーン, 洗い熊)
 Vashington D
 ##   
 
-vei darje - 緯度  
+vei darja - 緯度  
 vei lin - 横糸  
 vende - 売る  
 vende shope - 交易 (売買)  
@@ -1472,6 +1509,7 @@ vin kan - ワイナリー (酒造場)
 violeta - スミレ  
 violeta blu - 紫色 (パープル)  
 vise - 代替  
+vise kitabu - 重ね書き (書き換える)  
 vise ma - 継母  
 vise pa - 継父  
 Vishnu - ヴィシュヌ  
@@ -1491,7 +1529,7 @@ xenon - キセノン
 ya - はい  
 Yahve - ヤハウェ (エホバ)  
 yam - 食べる  
-yam liste - メニュー  
+yam liste - メニュー (献立)  
 yam she - 食べ物 (食事)  
 yam yau - 飢え  
 yang - タイプ  
@@ -1527,6 +1565,7 @@ ze - -から
 zeyil - 疣  
 zeze - ハエ目 (双翅目)  
 zi - 字  
+zi forma - フォント (字体)  
 zinke - 亜鉛  
 zirkon yum - ジルコニウム  
 zoku - まだ  

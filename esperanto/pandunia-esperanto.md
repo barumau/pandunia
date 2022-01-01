@@ -84,7 +84,6 @@ argon - argono
 arka chati - volbo  
 arme - armilo  
 arsen yum - arseno  
-arte ja - artisto  
 asal - origino  
 asal Australia jen - aborigeno  
 asal di - origina  
@@ -1072,7 +1071,7 @@ koral - koralo
 kore - kuri  
 kore ja - kuristo  
 korne - korno  
-kornonos - rinocero  
+korne nos - rinocero  
 korona - krono  
 korona virus - krunviruso  
 korte - mallonga  
@@ -1115,7 +1114,6 @@ lai - veni
 laji - rubo  
 laji bagi - rubejo  
 laji tong - rubujo  
-lal oranje - mandarino  
 lala - luli  
 lala bede - lulilo  
 lala chanta - lulkanto  
@@ -1256,7 +1254,7 @@ mikro bio - mikrobo
 mikro bio logi - mikrobiologio  
 mikroskope - mikroskopo  
 mili - mili-  
-mili metre - milimetro  
+mili mitre - milimetro  
 milke - lakto  
 mimon - ni  
 mimon su - nia  
@@ -1394,8 +1392,8 @@ note buku - kajero
 note she - noto (rimarko, komento)  
 nove - novaĵo  
 nove di - nova  
+nove jen - novulo  
 nove jene di - novnaskita  
-nove ka - novulo  
 nove loga - neologismo  
 nove ta - noveco  
 nu - nu  
@@ -1538,8 +1536,8 @@ Putong Han - mandarinĉina
 
 ## R  
 
-radi geter - radio  
 radi yum - radiumo  
+radio deku gi - radio  
 radon - radono  
 rai - opinio  
 raja - reĝo aŭ reĝino  
@@ -1577,6 +1575,7 @@ rota lefte - maldekstrume
 rota tafun - uragano (tajfuno)  
 rubi - ruĝa  
 rubi bau seku - rubeno  
+rubi oranje - mandarino  
 rubi yum - rubidio  
 ruhu - animo (psiko)  
 ruhu logi - psikologio  
@@ -1680,7 +1679,7 @@ shava - pluvo
 shava chati - obrelo  
 she hal - situacio (aferstato)  
 shefe - estro (ĉefulo)  
-shefe minister - ĉefministro  
+shefe ministre ja - ĉefministro  
 shia islam din - ŝijaismo  
 shikaya - plendo  
 shim - koro  
@@ -1770,6 +1769,7 @@ sum - sumo
 suna islam din - sunaismo  
 sundar - bela  
 sundar suta - arto  
+sundar suta ja - artisto  
 sundar ta - beleco  
 Suomi - Finnlando  
 suomi basha - lingvo  

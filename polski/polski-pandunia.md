@@ -74,7 +74,7 @@ antychryst - an mesi
 Antyle Holenderskie - Nederlande Antil  
 antymon - estibi yum  
 anyż - anis  
-Arabia Saudyjska - Saudi Arabia  
+Arabia Saudyjska - Saudi Arabi  
 arabski - arabi  
 arachnofobia - arane fobi  
 arboretum - moka jong parke  
@@ -94,7 +94,7 @@ aromantyczny - an romanse
 arsen - arsen yum  
 artykuł wiki - viki makala  
 artykuł, tekst - makala  
-artysta - arte ja  
+artysta - sundar suta ja  
 Aruba - Aruba  
 arytmetyka - hisabu suta  
 asceta - askete  
@@ -840,7 +840,7 @@ Hawaje (archipelag hawajski) - Havai nesi
 Hawaje - Havai  
 hałas - esporte ja  
 hebel, strug - rande  
-heblować - randa  
+heblować - fa rande  
 hebrajski - ibri  
 hel - heli yum  
 helikopter - helis fei gi  
@@ -914,7 +914,7 @@ imperialista - imperi sim ja
 imperializm - imperi sim  
 imperium - imperi desha  
 Imperium Osmańskie - Osman Imperi Desha  
-Imperium Rzymskie - Roma Imperia  
+Imperium Rzymskie - Roma Imperi Desha  
 implodować - be in bum  
 implozja - in bum  
 importować (zaimportować) - in mise  
@@ -1432,7 +1432,7 @@ Malediwy (Republika Malediwów) - Divehi
 Malezja - Malaisia  
 Mali - Mali  
 Malta - Malta  
-mandarynka - lal oranje  
+mandarynka - rubi oranje  
 mandarynka Satsuma (pomarańcza Satsuma) - venjou oranje  
 mandaryński chiński, Putonghua - Putong Han  
 mangan - mangan  
@@ -1530,7 +1530,7 @@ mikser, blender, robot kuchenny - mishe gi
 miksować, mieszać - mishe  
 mili- - mili  
 miligram - mili gram  
-milimetr - mili metre  
+milimetr - mili mitre  
 milion - mega  
 militarny, wojskowy, wojenny - jang di  
 minerał, ruda - kuanga  
@@ -1652,7 +1652,7 @@ naciskać, zostawiać ślad - fa chape
 nacjonalista - nasi sim ja  
 nacjonalizm - nasi sim  
 nad - na supra  
-nadajnik radiowy - radi miser  
+nadajnik radiowy - radio mise gi  
 nadawca - mise ja  
 nadać, wysłać pocztą - fa posta  
 Naddniestrze - Transe Nistre Desha  
@@ -1708,7 +1708,7 @@ neon - neon
 Nepal - Nepal  
 Neptun - Neputun  
 neptun - neputun yum  
-nerka (łosoś czerwony) - lal salmon  
+nerka (łosoś czerwony) - rubi salmon  
 nerka - nefre  
 nerw - nerve  
 nerwowy (neuronowy) - nerve di  
@@ -1767,7 +1767,7 @@ Norwegia - Norge
 norweski - norge basha  
 nos - nos  
 nosić ubrania - fa fuku  
-nosorożec - kornonos  
+nosorożec - korne nos  
 nosowy - nos di  
 nostalgia (tęsknota) - nostalgia  
 nostalgiczny - nostalgia di  
@@ -1776,7 +1776,7 @@ notatnik - note buku
 notować, obserwować, zauważyć, zauważać - note  
 Nowa Kaledonia - Nove Kaledonia  
 Nowa Zelandia - Nove Zelande  
-nowicjusz (nowa osoba) - nove ka  
+nowicjusz (nowa osoba) - nove jen  
 nowoczesne - nove yang di  
 nowość - nove  
 nowy - nove di  
@@ -1987,7 +1987,7 @@ pas, strefa - zona
 paskal (Pa) - paskal  
 pasować - kon bon  
 pasta - pasta  
-pasywny (nieaktywny) - pastabi  
+pasywny (nieaktywny) - pas tabi  
 paszport - pasporte  
 patelnia - tava  
 patogen - pati jene she  
@@ -2226,7 +2226,7 @@ połknąć (połykać) - gul
 położyć - fa kush  
 południe - medi dia  
 południe - sude  
-południk - vei darje  
+południk - vei darja  
 południk - vei gola  
 Południowa Afryka - Sude Afrika  
 południowy - sude di  
@@ -2256,7 +2256,7 @@ prawy (prawostronny, z prawej strony) - raite di
 prazeodym - prazedim yum  
 prać, umyć, myć - vashi  
 preferować (woleć) - mas fili  
-premier - shefe minister  
+premier - shefe ministre ja  
 prezydent - prezidente  
 problem - problem  
 problem, kłopot, zakłócenie - turbe  
@@ -2414,8 +2414,8 @@ rachunek (formalny system obliczeń) - kalkul
 racjonalny, rozsądny - razon di  
 rad - radi yum  
 rada, porada - sel  
-radio - radi geter  
 radio - radio  
+radio - radio deku gi  
 radioaktywność - ion radi  
 radioaktywny - ion radi di  
 radoiometr - radi metre gi  
@@ -2531,7 +2531,7 @@ rytuał, ceremonia, ryt - puja riti
 ryzyko - risko  
 ryzykowny - risko di  
 ryś - linse  
-ryś rudy - lal linse  
+ryś rudy - rubi linse  
 ryż - ris  
 rzadki (nieczęsty) - rare  
 rzadki (rozrzedzony, rozproszony) - an jama di  
@@ -2753,7 +2753,7 @@ stolarz - moka jiang ja
 stop; przerwa, zatrzymanie - halte  
 stopa - fute  
 stoper (sekundomierz) - dur metre gi  
-stopień Celsjusza - celsius darje  
+stopień Celsjusza - celsius darja  
 stopień, poziom, ranga, klasa - darja  
 stopniowy - darja di  
 storczyk (orchidea) - orkide  
@@ -3020,8 +3020,8 @@ turecki - turki basha
 Turek osmański - osman  
 Turkmenistan - Turkomen  
 turkus - firuze  
-turysta - safar kegu ja  
-turystyka - safar kegu  
+turysta - safar keka ja  
+turystyka - safar keka  
 tusz - kalam sui  
 Tuwalu - Tuvalu  
 tułów - torso  

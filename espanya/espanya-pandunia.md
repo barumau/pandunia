@@ -68,6 +68,8 @@ adormidera (amapola real) - sona papi
 adulterio - zina  
 adulto - matur jen  
 adverbo - mode loge  
+advertencia (aviso) - jui note  
+advertir - fa jui  
 aeroplano - fei gi  
 aeropuerto - air porte  
 aeróbico - air bio di  
@@ -215,7 +217,7 @@ aproximadamente - yaki
 apuntar (indicar) - ponte  
 apuntar - fa dika  
 aquí (acá) - na ni  
-Arabia Saudita - Saudi Arabia  
+Arabia Saudita - Saudi Arabi  
 aracnofobia - arane fobi  
 araña - arane  
 arañar - fa nahun  
@@ -261,7 +263,7 @@ arsénico - arsen yum
 arte marcial - jang suta  
 artesano - jiang ja  
 artificial (sintético) - sana di  
-artista - arte ja  
+artista - sundar suta ja  
 Artsaj - Arcah  
 artículo (documento) - papir  
 artículo (texto) - makala  
@@ -428,7 +430,6 @@ bohrio - bor yum
 boicot - boikote  
 boina - bere  
 bola - bol  
-boleto - tikete  
 Bolivia - Bolivia  
 bolsillo - jebe  
 bolígrafo - kalam  
@@ -650,7 +651,7 @@ centrarse (en el centro de) - na jong
 centro - jong  
 centuria (siglo) - sento nen  
 centímetro - sentimitre  
-cepillar con garlopa - randa  
+cepillar con garlopa - fa rande  
 cepillo (brocha) - brosha  
 cepillo de dientes - dante brosha  
 cepillo de pelo - kesha brosha  
@@ -664,7 +665,9 @@ cereza - cheri
 cerio - ceres yum  
 cero (ninguno) - siro  
 cerradura (candado) - sor  
+cerrar sesión - loge chuti  
 cerrojo (pestillo) - kane sor  
+certificado - dalil dokumen  
 cerveza (birra) - bir  
 cerámica - serami  
 cesio - cesi yum  
@@ -845,6 +848,7 @@ contrato (tratado) - trati
 contribuir - fen don  
 convalaria (lirio de los valles) - vali susan  
 convenion (pacto) - kon trati  
+coordenadas - loka nomer  
 copia (réplica) - kopi  
 copia de seguridad - sekur kopi  
 copiar - fa kopi  
@@ -864,6 +868,7 @@ correcto (justo) - sahi
 corredor - kore ja  
 corregir - fa sahi  
 correo - posta  
+correo basura - turbe posta  
 correr - kore  
 corriente de resaca - tire dara  
 corromper (contaminar) - fa najis  
@@ -908,7 +913,7 @@ Cristo (mesías) - mesi
 criticar (evaluar) - fa piping  
 Croacia - Horvati  
 crocodilio - krokodil  
-cromo - jama karde  
+cromo - jama karte  
 cromo - krom yum  
 cronómetro - dur metre gi  
 cruasán - kruasan  
@@ -946,6 +951,8 @@ cuerpo - badan
 cuerpo celeste - astro  
 cuesta (inclinación, pendiente, predisposición, tender) - klin  
 cueva (caverna) - gua  
+cuidado (atención, precaución, cautela) - jui  
+cuidadoso (cauteloso, tener cuidado) - jui di  
 culombio - kulombe  
 culpa (defecto, crimen) - dosha  
 culpable - dosha di  
@@ -1038,7 +1045,7 @@ dentista (odontólogo) - dante dava ja
 dentro - na in  
 deporte - esporte  
 deportista - esporte ja  
-depurar - fa an galta  
+depurar - fa an galte  
 derechista - raite sim ja  
 derecho - haki  
 derecho - raite di  
@@ -1046,11 +1053,13 @@ derechos de autor (copyright) - kopi haki
 derechos humanos - insan haki  
 derretirse - yung  
 derrota - bai  
+desactivado - an karma ja  
 desacuerdo - alo rai  
 desaparecer - be an zai  
 desarrollo - darja mute  
 desatascar - an tapa  
 desayuno - suba yam  
+desbordarse (derramarse) - vai dara  
 descanso (alivio) - shanti  
 descargar - nete gete  
 descerebrado - nau hin  
@@ -1095,6 +1104,9 @@ diorita - diorite
 dios - deu  
 dirección - adres  
 dirección - disha  
+dirección de I
+## IP adres  
+
 directamente - disha di  
 director de colegio - shula shefe  
 dirigente (líder) - lida ja  
@@ -1117,6 +1129,7 @@ divertido - vanu di
 divertir (entretener) - fa vanu  
 dividir (repartir) - fa fen  
 divino - deu di  
+diámetro - transe long ta  
 dióxido de carbono - karbon duokside  
 Dniéster - Nistre  
 doblar (multiplicar por dos) - fa multi do du  
@@ -1165,6 +1178,7 @@ día de San Juan - Yohan festa
 día de semana - var  
 día festivo (feriado) - festa den  
 dígital - komputa di  
+dígito (cifra) - nomer zi  
 dónde - ke loka  
 dónde - na ke  
 
@@ -1365,6 +1379,8 @@ esvástica (cruz gamada) - huke krus
 etapa (fase) - faze  
 etimología - loga asal  
 Etiopía - Etiopia  
+etiqueta (boleto, billete) - tikete  
+etiqueta (protocolo) - buro riti  
 etnia - zuku  
 Eurasia - Eurasia  
 euro - euro  
@@ -1487,6 +1503,7 @@ frontera (límite, borde, periferia) - kinar
 fruta - frute  
 frío - leng  
 fuego - hogo  
+fuenta - zi forma  
 fuente (manantial) - fonte  
 fuera (exterior) - vai  
 fuerte - lika di  
@@ -1517,6 +1534,7 @@ fútbol - fute bol
 Gabón - Gabon  
 gacela - gazel  
 gadolinio - gadolin yum  
+gafete (etiqueta de identificación) - nam tikete  
 galaxia - galaksi  
 galería - galeri  
 Gales - Kamri  
@@ -1599,7 +1617,8 @@ gota - giota
 grabado (sello, estampando) - chape  
 gracias - shukur  
 gracias a (merced a) - shukur ze  
-grado Celsius - celsius darje  
+grado Celsius - celsius darja  
+grafema - kitabu so  
 gramatical - basha kanun di  
 gramo (g) - gram  
 gramática - basha kanun  
@@ -1771,6 +1790,8 @@ hígado - gani
 
 idea (noción, concepto) - idea  
 idea (pensamiento, reflexión) - fikir  
+identificación (ID) - nam dokumen  
+identificador - has nam  
 ideograma - idea zi  
 ideología (doctrina, -ismo) - sim  
 idioma artificial (lengua construida, conlang) - sana basha  
@@ -1798,7 +1819,7 @@ imperialismo - imperi sim
 imperialista - imperi sim ja  
 imperio - imperi desha  
 Imperio otomano - Osman Imperi Desha  
-Imperio romano - Roma Imperia  
+Imperio romano - Roma Imperi Desha  
 impermeable (sumergible) - sui sekur di  
 impermeable - shava kote  
 implosionar - be in bum  
@@ -1837,6 +1858,7 @@ infortunio (mala suerte) - dus zar
 ingeniero - enjener  
 Inglaterra - English  
 inglés - english di  
+iniciar sesión - loge jin  
 inmigrante - in migra ja  
 inmigrar - in migra  
 innato (endógeno) - in jene di  
@@ -1846,16 +1868,19 @@ inodoro (wáter, retrete) - tualete
 inquisitivo (curioso) - sabe vol ja  
 insecto - dudu  
 insomnio - an sona  
+instantáneamente - un sata  
 instrucciones (receta) - reseta  
 instrumento de arco - tichin  
 insultar (ofender) - fa dus nam  
 insulto (ofensa) - dus nam  
 insulto (ofensa, afrenta) - insulte  
 intención (intento) - nia  
+intensidad (volumen) - teza ta  
 intenso (brusco, ácido, fuerte, afilado, rápido) - teza  
 intentar (probar) - fa teste  
 intercambiar (canjear) - badal  
 interesante (curioso) - sabe vol di  
+interfaz - medi fase  
 interfaz de línea de comandos - amir lin  
 interior (interno) - in di  
 interior - in  
@@ -1868,6 +1893,7 @@ interétnica - zuku medi di
 intestino (visceras, entrañas, tripas) - antra  
 introvertido - in verse jen  
 invernal - leng mosim di  
+invertir - fa an verse  
 invierno - leng mosim  
 invitado (visita) - keka ja  
 invitar - ching lai  
@@ -1987,6 +2013,7 @@ ladrón - luta ja
 lagarto - saur  
 lago - lage  
 lama - lama  
+LAN (RAL) - LAN (loka area nete)  
 lantano - lantan  
 lanzamisiles - rokete lanse gi  
 Laos - Lau  
@@ -1997,7 +2024,7 @@ largo - long
 larva - larva  
 lasaña - lazanya  
 lateral (horizontal) - late di  
-latitud - vei darje  
+latitud - vei darja  
 laurencio - laurence yum  
 lava - yung petra  
 lavadora - fuku vashi gi  
@@ -2058,7 +2085,7 @@ limpiar - fa safa
 limpio - safa  
 limón - limon  
 lince - linse  
-lince rojo (gato montés) - lal linse  
+lince rojo (gato montés) - rubi linse  
 lindo (precioso) - kavai  
 linea (hilo, cordel, raya) - lin  
 linfa - limfa  
@@ -2162,7 +2189,7 @@ malo (difícil, duro) - dus
 Malta - Malta  
 mamífero - mamal  
 mancha - najis bindu  
-mandarina (tangerina) - lal oranje  
+mandarina (tangerina) - rubi oranje  
 manga - kamisa shaka  
 manganeso - mangan  
 mango - mango  
@@ -2225,6 +2252,7 @@ maya - maya
 mayo - mes lima  
 mayoría - mas di fen  
 Mayotte (Mahoré) - Mayote  
+mayúscula - dai zi  
 mazmorra - geo niche jela  
 maíz - mais  
 mañana (antes mediodía) - suba dia  
@@ -2237,10 +2265,10 @@ medianoche - medi noche
 medicamento (medicina, remedio, fármaco) - dava she  
 medicina - dava logi  
 medidor - metre gi  
+medio (búfer) - medi she  
 medio (instrumento) - medi gi  
 medio (mediano) - medi di  
 medio - medi  
-medio - medi she  
 medioambiente (naturaleza) - eko  
 mediodía - medi dia  
 medir (medida) - metre  
@@ -2270,6 +2298,7 @@ menta - minta
 menta acuática - sui minta  
 mental (psíquico) - ruhu di  
 menú (carta) - yam liste  
+menú (catálogo) - chuze liste  
 mercado (bazar) - bazar  
 mercurio - hidrargente  
 Mercurio - Merkur  
@@ -2304,7 +2333,7 @@ migrarse (mudarse, trasladarse) - be migra
 mil (kilo-) - kilo  
 mili- - mili  
 miligrama - mili gram  
-milimetre - mili metre  
+milimetre - mili mitre  
 millón (mega-) - mega  
 mina - kuanga san  
 mineral (mena) - kuanga  
@@ -2314,6 +2343,7 @@ ministerio - ministre ofis
 ministro - ministre ja  
 minoría - min di fen  
 minuto - minute  
+minúscula - lili zi  
 mismo (yo) - auto  
 mito (cuento divino) - deu kata  
 miércoles - var tri  
@@ -2373,6 +2403,7 @@ movimiento - kino
 movimiento - move  
 Mozambique - Mozambike  
 mucho (muchos) - poli  
+muchos (múltiples) - ba  
 muchos - multi  
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - fa kino  
 mueca - grimas  
@@ -2496,7 +2527,7 @@ nota - note she
 notar (observar) - note  
 notar el sabor - fa guste  
 noticias - habar  
-novato - nove ka  
+novato - nove jen  
 novedad - nove  
 novedad - nove ta  
 novela (romance) - long kata  
@@ -2521,6 +2552,7 @@ nómada - badavi
 número (muchedumbre) - multi ta  
 número - nomer  
 número de identificación personal - sekur nomer  
+número entero - holo nomer  
 número par - par nomer  
 
 ## O  
@@ -2550,6 +2582,7 @@ océano Índico - Barti Hai
 odiar - fa hen  
 odio - hen  
 oeste - veste  
+oficial (formal, protocolario) - buro di  
 oficial - guan di  
 oficina - buro  
 oficina - buro kan  
@@ -2564,7 +2597,8 @@ olvidar - an memo
 ominoso (amenazador) - dus sin di  
 Omán - Oman  
 onda - onda  
-opción - chuze she  
+opaco - an transe vide di  
+opción (preferencia) - chuze she  
 opinar - fa rai  
 opinión (juicio, consideración) - rai  
 oponerse (resistir) - shatan  
@@ -2768,6 +2802,7 @@ personal (privado, a medida) - jen di
 personalizar - fa auto  
 perspectiva (punto de vista) - vide punte  
 pertenecer (ser miembro de) - si membre  
+perímetro (circunferencia) - gola long ta  
 Perú - Peru  
 pesa (báscula, balanza) - veze metre gi  
 pesado - veze di  
@@ -2908,7 +2943,7 @@ prever (esperar, pensar) - chen vide
 previo (anterior) - chen di  
 primavera - hua mosim  
 primer (inicial, inaugural) - shuru di  
-primer ministro - shefe minister  
+primer ministro - shefe ministre ja  
 primero (numbre uno) - un me  
 primo - chin brus ben  
 principal - shefe di  
@@ -2986,6 +3021,7 @@ página wiki - viki makala
 pájaro (ave) - paksi  
 pánico - panike  
 pícea - pisea  
+píxel - grafi so  
 pólvora - barude  
 póquer - poker  
 público - demo di  
@@ -3024,9 +3060,10 @@ radiación - radi karma
 radiación ionizante - ion radi  
 radiactivo - ion radi di  
 radiar (emitir) - fa radi  
+radio (mitad de diámetro) - radi long ta  
 radio - radi yum  
 radio - radio  
-radiotransmisor - radi miser  
+radiotransmisor - radio mise gi  
 radiómetro - radi metre gi  
 radón - radon  
 raja (grieta) - krake  
@@ -3053,7 +3090,8 @@ raíz - mula
 real (de realtad) - raja di  
 rebelión (sublevación) - rebel  
 rebotar - boing  
-receptor de radio - radi geter  
+recargar - re karga  
+receptor de radio - radio deku gi  
 rechazar (negar) - nega  
 reciclar - re sikle  
 recoger (juntar, reunir, acumular, recolectar, montar) - fa jama  
@@ -3107,6 +3145,7 @@ República Árabe Saharaui Democrática - Sahara Desha
 reservar - fa rezerve  
 resfriado (catarro) - zukam  
 resina - rezin  
+resolución de pantalla - grafi fine ta  
 respetable (honorable) - onor di  
 respeto (honor) - onor  
 respiración - nafas  
@@ -3116,6 +3155,7 @@ restaurante - restorante
 resto (demás) - reste  
 resulta (efecto) - asar  
 retornar - fa retro  
+retroalimentación (realimentación, feedback) - retro note  
 retículo - krus lin  
 reunión (junta, mitin) - miti  
 Reunión - Reunion  
@@ -3134,7 +3174,7 @@ riesgo - risko
 rima - rim  
 Rin - Ren  
 ring - ringar  
-rinoceronte - kornonos  
+rinoceronte - korne nos  
 rio - rivo  
 ritmo - ritim  
 rito (ceremonia) - puja riti  
@@ -3169,6 +3209,7 @@ Ruanda - Ruanda
 rubidio - rubi yum  
 rubí - rubi bau seku  
 rueda (volante) - chakra  
+rueda del mouse - mushu chakra  
 ruido - kelele  
 ruiseñor - bulbul  
 Rumania - Romania  
@@ -3211,7 +3252,7 @@ salmodiar - fa mantra
 salmón (trucha) - salmon  
 salmón chum (keta) - baku salmon  
 salmón del Atlántico - atlanti salmon  
-salmón rojo - lal salmon  
+salmón rojo - rubi salmon  
 salmón rosado - rode salmon  
 salsa - sos  
 salsa de soja - soi sos  
@@ -3327,6 +3368,7 @@ sistémico - sistem di
 sitio web - nete loka  
 situación - she hal  
 sobre - na supra  
+sobreescribir - vise kitabu  
 sobrepasar - be supra  
 social - sosi di  
 socialismo - sosi sim  
@@ -3362,6 +3404,7 @@ suave (liso) - lis
 subestimar - fa min rai  
 subir (alzar) - be gau  
 subterráneo - geo niche di  
+subtítulos - niche kitabu  
 sucio (corrompido) - najis di  
 sucio - darte di  
 Sudamérica - Sude Amerika  
@@ -3563,6 +3606,7 @@ tranquilo (calmado) - shanti di
 transcurrir - si dur  
 transitar (atravesar) - fa transe  
 Transnistria (Cisdniéster) - Transe Nistre Desha  
+transparente - transe vide di  
 trapo (tela para limpiar) - safa tela  
 trasero (nalgas) - pigu  
 tratar (llevar, manejar, lidiar, procesar) - fa chuli  
@@ -3593,8 +3637,8 @@ tundra - tundra
 tungsteno (wolframio) - volfram  
 tupinambo (pataca, alcachofa de Jerusalén) - masa mula sol hua  
 turbante - pagri  
-turismo - safar kegu  
-turista - safar kegu ja  
+turismo - safar keka  
+turista - safar keka ja  
 Turkmenistán - Turkomen  
 turquesa (piedra preciosa) - firuze  
 Turquía - Turki  

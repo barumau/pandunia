@@ -72,7 +72,6 @@ arme - 武器
 aroma - 气味  
 aroma melon - 香瓜  
 arsen yum - 砷  
-arte ja - 美术家  
 asal - 起源  
 asal di - 原始的  
 asar - 影响  
@@ -408,6 +407,7 @@ fase tele - 深
 fate - 事实  
 fatu - 惩罚  
 fatura - 帐单  
+fei gi tikete - 飞机票  
 fem - 女  
 fen - 部分  
 fen gata - 分析  
@@ -445,6 +445,7 @@ fufu - 富富
 fuku - 衣服  
 fuku vashi gi - 洗衣机  
 fungu frute - 蘑菇  
+funsi bil - 機能的  
 fute marke - 脚印  
 
 ## G  
@@ -608,6 +609,7 @@ islam din - 回教 (伊斯蘭教)
 
 ## J  
 
+ja - 者 (人, 家)  
 jamul - 閻浮樹  
 jan buda din - 禅宗  
 janela - 窗戶  
@@ -636,6 +638,9 @@ jiva - 生命
 jong - 中心  
 jong shula kan - 中学  
 Jongoku - 中国  
+jui - 注意 (谨慎)  
+jui di - 谨慎的  
+jui note - 警告  
 jul - 焦耳 (J)  
 jumla - 句子  
 Jupiter - 木星  
@@ -787,9 +792,6 @@ lai - 来
 laji - 废物 (垃圾)  
 laji bagi - 垃圾场  
 laji tong - 垃圾桶  
-lal linse - 短尾貓  
-lal oranje - 柑橘 (红橘)  
-lal salmon - 紅鮭  
 lala bede - 摇篮  
 lala chanta - 摇篮曲  
 lama - 喇嘛  
@@ -843,6 +845,7 @@ loga so - 词
 loge - 纪录  
 loge buku - 航海日志  
 loka - 地方  
+loka nomer - 坐标  
 lona - 论  
 long - 长  
 long dur - 久  
@@ -996,6 +999,7 @@ neputun yum - 镎
 nerve toksi - 神经毒素  
 ni - 这 (此)  
 nia - 意图  
+niche kitabu - 字幕  
 nide - 巢 (穴)  
 nikel - 镍  
 nilon - 尼龙  
@@ -1010,6 +1014,7 @@ noche - 夜
 Noe - 诺亚  
 Noe di nave - 诺亚方舟  
 nomer - 数  
+nomer zi - 数字  
 nong bio logi - 土壤生物学  
 nong chun - 农村  
 nong nomi - 农学  
@@ -1017,7 +1022,7 @@ norde - 北
 nostalgia - 怀旧  
 note she - 便条  
 nove di - 新  
-nove ka - 新手  
+nove jen - 新手  
 nove loga - 新词  
 nuka - 颈  
 
@@ -1160,6 +1165,7 @@ ren yum - 铼
 reste - 其余  
 retro gula - 呕吐  
 retro gula sense - 恶心  
+retro note - 反馈  
 retro tikete - 往返票  
 ring - 环 (轮)  
 ringar - 擂台  
@@ -1181,6 +1187,9 @@ rota tafun - 飓风 (台风)
 rota vanu gi - 陀螺  
 rubi - 红  
 rubi bau seku - 红宝石  
+rubi linse - 短尾貓  
+rubi oranje - 柑橘 (红橘)  
+rubi salmon - 紅鮭  
 rubi yum - 铷  
 ruhu mishe di - 困惑 (混乱)  
 rus yum - 钌  
@@ -1323,6 +1332,7 @@ sulfu - 硫
 sundar - 漂亮 (美)  
 sundar daka - 装饰  
 sundar suta - 艺术 (美术)  
+sundar suta ja - 美术家  
 sundar ta - 美丽  
 supa - 汤  
 supa chamacha - 汤匙  
@@ -1376,9 +1386,11 @@ tomate - 西红柿
 topo grafi - 地形  
 topo metre grafi - 地图  
 tor yum - 钍  
+transe vide di - 透明的  
 trata - 拖  
 trata gi - 拖拉机 (铁牛)  
 trati - 合同 (合约)  
+tren tikete - 火车票  
 tri - 三 (3)  
 tri pike - 三叉戟  
 truke - 伎俩  
@@ -1411,6 +1423,7 @@ vafle - 窝夫
 vagina - 阴道  
 vah - 哇  
 vai - 外  
+vai dara - 溢出  
 vai jen - 外人 (局外人)  
 vai planete - 系外行星  
 vai verse di - 外向的  
@@ -1435,7 +1448,7 @@ vashi urso - 浣熊
 Vashington D
 ##   
 
-vei darje - 纬度  
+vei darja - 纬度  
 vei lin - 緯紗  
 vende - 卖  
 vende shope - 贸易  
@@ -1450,6 +1463,7 @@ vide - 看
 vidou - 寡妇  
 vijin - 味精  
 virje - 处女  
+vise kitabu - 重写  
 vise ma - 继母  
 vise pa - 继父  
 Vishnu - 毗湿奴  

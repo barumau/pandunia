@@ -130,7 +130,6 @@ arka suta - tire à l'arc
 arme - arme  
 aroma - odeur  
 arsen yum - arsenic  
-arte ja - artiste  
 Artika - arctique  
 Artika Hai - océan Arctique  
 Aruba - Aruba  
@@ -311,6 +310,7 @@ bum - explosion
 burge - fort  
 buro - bureau (office)  
 buro krati - bureaucratie  
+buro riti - protocole  
 bus halte - arrêt de bus  
 buta - botte  
 buton - bouton  
@@ -467,7 +467,7 @@ fa agresi - attaquer (agresser)
 fa ajibu - éblouir (étonner, stupéfier, surprendre)  
 fa alo - changer  
 fa alo rai - diverger (ne pas être d'accord)  
-fa an galta - déboguer (débugger)  
+fa an galte - déboguer (débugger)  
 fa anime - animer  
 fa aplika - appliquer  
 fa argu - arguer  
@@ -788,7 +788,7 @@ islam din - Islam
 
 jaga - éveillé  
 jain din - jaïnisme  
-jama karde - carte à collectionner  
+jama karte - carte à collectionner  
 jamul - prune de Java  
 jan buda din - zen  
 janela - fenêtre  
@@ -991,8 +991,6 @@ lai - venir
 laji - ordures  
 laji bagi - décharge  
 laji tong - poubelle  
-lal oranje - mandarine  
-lal salmon - saumon sockeye  
 lala bede - berceau  
 lala chanta - berceause  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
@@ -1238,6 +1236,7 @@ noche - noit
 Noe - Noé  
 Noe di nave - arche de Noé  
 nomer - nombre (numéro)  
+nomer zi - ciffre  
 nong - cultiver  
 nong bio logi - agrobiologie  
 nong di - agricole  
@@ -1246,8 +1245,8 @@ norde - nord
 nostalgia - nostalgie  
 note she - note  
 nove di - nouveau  
+nove jen - néophyte  
 nove jene di - nouveau-né  
-nove ka - néophyte  
 nove loga - néologisme  
 nove ta - nouveauté  
 nuka - cou (encolure, nuque)  
@@ -1457,6 +1456,8 @@ rota lefte - dans le sens antihoraire
 rota vanu gi - toupie  
 rubi - rouge  
 rubi bau seku - rubis  
+rubi oranje - mandarine  
+rubi salmon - saumon sockeye  
 rubi yum - rubidium  
 ruhu - psyché  
 ruhu logi - psychologie  
@@ -1467,7 +1468,7 @@ ruterfor yum - rutherfordium
 ## S  
 
 sabe - savoir (connaître)  
-safar kegu ja - touriste  
+safar keka ja - touriste  
 sagu - sagoutier  
 sahi - correct (juste)  
 sake - sac  
@@ -1611,6 +1612,7 @@ sukar oranje - orange douce
 sulfu - soufre  
 suna islam din - sunnisme  
 sundar - beau  
+sundar suta ja - artiste  
 sundar ta - beauté  
 supa - soupe  
 supra vakil ja - sénateur  

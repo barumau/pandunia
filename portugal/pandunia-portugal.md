@@ -68,7 +68,6 @@ arme - arma
 aroma - cheiro  
 aroma melon - melão coreano  
 arsen yum - arsénic  
-arte ja - artista  
 asal - origem  
 asal Amerka jen - indígena (índio)  
 asal di - original  
@@ -205,6 +204,7 @@ bum - explosão
 burge - forte  
 buro - escritório (birô)  
 buro krati - burocracia  
+buro riti - protocolo  
 bus halte - parada de ônibus  
 buta - bota  
 buton - botão  
@@ -621,7 +621,7 @@ islam din - islã
 ## J  
 
 jaga - acordado  
-jama karde - cromo  
+jama karte - cromo  
 jamul - jambolão (jambo)  
 jan buda din - budismo zen  
 janela - janela  
@@ -812,8 +812,6 @@ lai - vir
 laji - lixo (refugo , escória)  
 laji bagi - aterro (lixão)  
 laji tong - lixeira  
-lal oranje - tangerina (mandarim)  
-lal salmon - salmão-vermelho  
 lala bede - berço  
 lala chanta - canção de ninar  
 lama - lama  
@@ -1045,6 +1043,7 @@ noche - noite
 Noe - Noé  
 Noe di nave - arca de Noé  
 nomer - número  
+nomer zi - dígito  
 nong - cultivar  
 nong bio logi - agrobiologia  
 nong di - agrícola  
@@ -1054,8 +1053,8 @@ nostalgia - nostalgia (saudade)
 note she - nota  
 nove - novidade  
 nove di - novo  
+nove jen - novato (neófito)  
 nove jene di - recém-nascido  
-nove ka - novato (neófito)  
 nove loga - neologismo  
 nove ta - novidade  
 nuka - pescoço (nuca, gargalo)  
@@ -1238,6 +1237,8 @@ Roma - Roma
 roma kamil - camomila-romana  
 rubi - vermelho  
 rubi bau seku - rubi  
+rubi oranje - tangerina (mandarim)  
+rubi salmon - salmão-vermelho  
 rubi yum - rubídio  
 ruhu mishe di - perplexo (confuso)  
 rus yum - ruténio  
@@ -1385,6 +1386,7 @@ sukar gana - cana-de-açúcar
 sulfu - enxofre  
 suna islam din - sunismo  
 sundar - belo (lindo)  
+sundar suta ja - artista  
 sundar ta - beleza  
 supa - sopa  
 supa chamacha - colher de sopa  

@@ -21,6 +21,18 @@ niiden käännökset erotetaan puolipisteellä.
 
 > ching - pyytää (anoa; ole hyvä)
 
+Toisinaan samasta sanasta on kaksi lähes samanlaista hakusanaa.
+
+> **huru** - free (unbound)  
+> **fa huru** - free (liberate)
+
+Näistä **fa**-alkuisen hakusanan kohdalla on varsinaisen pääsanan suomennos verbinä.
+Pandunian sanat voivat toimia sekä substantiivina, adjektiivina että verbinä.
+Sen vuoksi lauseyhteydessä riittää yleensä pelkän pääsanan käyttäminen
+ja apuverbin **fa** voi jättää pois.
+Esimerkiksi **mi huru yemon** on riittävä tapa sanoa 'Minä vapautan heidät'.
+Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kannalta ylimääräinen **fa**-sana.
+
 ---
 
 
@@ -186,7 +198,6 @@ arka suta - jousiammunta
 arme - ase  
 aroma - haju  
 arsen yum - arseeni  
-arte ja - taiteilija  
 Artika - Arktis  
 Artika Hai - Jäämeri  
 Aruba - Aruba  
@@ -530,6 +541,7 @@ buro - toimisto (konttori, byroo)
 buro ja - sihteeri  
 buro ja grupe - sihteeristö  
 buro krati - byrokratia  
+buro riti - etiketti (protokolla)  
 bus - linja-auto (bussi)  
 bus halte - bussipysäkki (linja-autopysäkki)  
 buste - povi  
@@ -540,7 +552,7 @@ buyu - apinanleipäpuu (baobab)
 
 ## C  
 
-celsius darje - celsiusaste  
+celsius darja - celsiusaste  
 Ceres - Ceres  
 ceres yum - cerium  
 cesi yum - cesium  
@@ -919,7 +931,7 @@ fa agresi - hyökätä (käydä päälle)
 fa ajibu - ällistyttää  
 fa alo - muuttaa (tehdä eriksi)  
 fa alo rai - olla eri mieltä  
-fa an galta - poistaa virheitä (debugata)  
+fa an galte - poistaa virheitä (debugata)  
 fa an karma - poistaa toiminnasta  
 fa an zai - poistaa (hävittää)  
 fa anime - animoida  
@@ -1118,6 +1130,7 @@ fa pul - täyttää
 fa pul bon - tehdä täydelliseksi  
 fa radi - säteillä  
 fa rai - olla jtkn mieltä (pitää jnkn)  
+fa rande - höylätä  
 fa ratibu - järjestää (järjestellä)  
 fa re - toistaa  
 fa redi - tehdä valmiiksi  
@@ -1768,7 +1781,7 @@ Jakarta - Jakarta
 jake - pikkutakki (jakku)  
 jama - yhteisö (kokoontuminen, kollektiivi)  
 jama di - kollektiivinen  
-jama karde - keräilykortti  
+jama karte - keräilykortti  
 Jamaika - Jamaika  
 jampe - hypätä (hyppiä)  
 jamul - jambolaani  
@@ -1912,7 +1925,7 @@ kano - kanootti
 kanon - klassikko  
 kanon di - klassinen (kanooninen)  
 kanta - olkapää (hartia)  
-kanun - laki  
+kanun - laki (sääntö)  
 kape - ottaa kiinni (napata, kaapata)  
 kape yo taksi - veloittaa (verottaa)  
 kar - kärry (vaunu, auto, jne)  
@@ -2080,7 +2093,7 @@ koral - koralli
 kore - juosta  
 kore ja - juoksija  
 korne - sarvi  
-kornonos - sarvikuono  
+korne nos - sarvikuono  
 korona - kruunu  
 korona virus - koronavirus  
 korte - lyhyt  
@@ -2156,7 +2169,6 @@ laji - roska
 laji bagi - kaatopaikka  
 laji tong - jäteastia (roskakori, roskis)  
 laka - lakka  
-lal oranje - mandariini  
 lala - tuudittaa  
 lala bede - kehto  
 lala chanta - tuutulaulu  
@@ -2446,7 +2458,7 @@ Mikronesi - Mikronesia
 mikroskope - mikroskooppi  
 mili - milli-  
 mili gram - milligramma  
-mili metre - millimetri  
+mili mitre - millimetri  
 milke - maito  
 mima - matkia (imitoida)  
 mima ja - matkija (imitaattori)  
@@ -2679,8 +2691,8 @@ note she - huomio (kommentti, merkintä)
 nove - uutuustuote  
 nove di - uusi  
 nove fito - tulokaskasvi (neofyytti)  
+nove jen - noviisi (uusikko, vasta-alkaja)  
 nove jene di - vastasyntynyt  
-nove ka - noviisi (uusikko, vasta-alkaja)  
 Nove Kaledonia - Uusi-Kaledonia  
 nove loga - uudissana  
 nove ta - uutuus  
@@ -2979,11 +2991,11 @@ Qazaqe - Kazakstan
 ## R  
 
 radi - säde  
-radi geter - radiovastaanotin  
 radi karma - säteily  
 radi metre gi - säteilymittari  
-radi miser - radiolähetin  
 radi yum - radium  
+radio deku gi - radiovastaanotin  
+radio mise gi - radiolähetin  
 radon - radon  
 rai - mielipide (näkemys)  
 raite - oikea puoli  
@@ -2993,7 +3005,6 @@ raja desha - kuningaskunta
 raja di - kuninkaallinen  
 ramazan - ramadan  
 rampe - luiska (ramppi)  
-randa - höylätä  
 rande - höylä  
 rang - väri  
 rang mate - väriaine  
@@ -3053,7 +3064,7 @@ rol ja - näyttelijä
 rolo - käärö  
 rom - rommi  
 Roma - Rooma  
-Roma Imperia - Rooman valtakunta  
+Roma Imperi Desha - Rooman valtakunta  
 Romania - Romania  
 romanse - lempi (romanssi, rakkaus)  
 romanse di - romanttinen  
@@ -3067,6 +3078,7 @@ rota vanu gi - hyrrä
 Ruanda - Ruanda  
 rubi - punainen  
 rubi bau seku - rubiini  
+rubi oranje - mandariini  
 rubi yum - rubidium  
 ruhu - henki (sielu, mieli, psyyke)  
 ruhu di - henkinen (psyykkinen)  
@@ -3099,8 +3111,8 @@ safa - puhdas (siivo, siisti)
 safa ja - siivooja  
 safar - matka (reissu)  
 safar ja - matkailija  
-safar kegu - turismi  
-safar kegu ja - turisti  
+safar keka - turismi  
+safar keka ja - turisti  
 safran - sahrami  
 sagu - saagopalmu  
 sagu fun - saagotärkkelys  
@@ -3169,7 +3181,7 @@ sar oste - pääkallo
 sata - hetki (kotva, ajankohta)  
 sata di - hetkellinen  
 Saturne - Saturnus  
-Saudi Arabia - Saudi Arabia  
+Saudi Arabi - Saudi Arabia  
 sauna - sauna  
 saur - lisko  
 saya - varjo  
@@ -3239,7 +3251,7 @@ she - asia
 she hal - tilanne (asiaintila)  
 shefe - päällikkö (pomo)  
 shefe di - pää-  
-shefe minister - pääministeri (suurvisiiri)  
+shefe ministre ja - pääministeri (suurvisiiri)  
 shi - herra tai rouva  
 shia - porukka (kuppikunta, lohko, siipi)  
 shia islam din - šiialaisuus  
@@ -3401,6 +3413,7 @@ suna di - tavanomainen (perinteinen)
 suna islam din - sunnalaisuus  
 sundar - kaunis (komea, sievä)  
 sundar suta - taide  
+sundar suta ja - taiteilija  
 sundar ta - kauneus  
 Suomi - Suomi  
 suomi basha - suomen kieli  
@@ -3673,7 +3686,7 @@ vasin - rokote
 vate - watti  
 Vatikan - Vatikaanivaltio  
 vei - vaakatasossa  
-vei darje - leveysaste  
+vei darja - leveysaste  
 vei di - poikittainen (vaaka)  
 vei gola - leveyspiiri  
 vei lin - kude  

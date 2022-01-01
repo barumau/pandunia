@@ -23,14 +23,15 @@ they are separated by the semicolon.
 
 Sometimes there are two entries of the same word.
 
-> **huru** - free (unbound)
+> **huru** - free (unbound)  
 > **fa huru** - free (liberate)
 
 The entry with **fa** is there only for including the verbal translation in English.
 Pandunia words are multipurpose words that can be used as verbs, adjectives, nouns and adverbs.
-Therefore it is normally enough to use only the main word of the dictionary entry in sentence contexts.
-For example, **mi huru yemon** is the proper way to say 'I free them' or 'I liberate them',
-and saying **mi fa huru yemon** would include a superfluous word, **fa**.
+Therefore it is normally enough to use only the main word of the dictionary entry in sentence contexts
+and the auxiliary verb **fa** can be left out.
+For example, **mi huru yemon** is the proper way to say 'I free them' or 'I liberate them'.
+The sentence **mi fa huru yemon** would mean the same thing but it would include the superfluous word **fa**.
 
 ---
 
@@ -132,7 +133,7 @@ an eskale - get off (descend)
 an icha ja - reluctant  
 an jama - disperse (spread out, scatter)  
 an jama di - sparse (scattered)  
-an karma ja - off (deactivated, disabled)  
+an karma ja - off (deactivated, disabled, inactive)  
 an kode - decode (decrypt)  
 an limite - infinity  
 an memo - forget  
@@ -146,6 +147,7 @@ an sona - insomnia
 an sora - unlock  
 an sora di - unlocked  
 an tapa - unplug (uncork)  
+an transe vide di - opaque  
 an yau di - unnecessary (extraneous, unneeded)  
 anchovi - anchovy  
 anda - egg  
@@ -201,7 +203,6 @@ arme - weapon (arms)
 aroma - scent (odor, fragrance, aroma)  
 aroma melon - Korean melon  
 arsen yum - arsenic  
-arte ja - artist  
 Artika - Arctic  
 Artika Hai - Arctic Ocean  
 Aruba - Aruba  
@@ -251,11 +252,12 @@ Azerbaijan - Azerbaijan
 
 ## B  
 
+ba - many (multiple, several)  
 babu - chapter (section)  
 babuche - slipper  
 babul - thorn tree (acacia, wattle)  
 bacha - child (minor)  
-badal - exchange (swap, replace, trade)  
+badal - exchange (swap, replace, trade, switch)  
 badam - almond  
 badan - body  
 badan di - bodily (corporal)  
@@ -547,10 +549,12 @@ bum - explosion (blast, eruption)
 burge - fortress (castle, fort, stronghold)  
 Burkina Faso - Burkina Faso  
 buro - office (bureau)  
+buro di - official (formal, bureaucratic)  
 buro ja - secretary (clerk)  
 buro ja grupe - secretariat  
 buro kan - office (room)  
 buro krati - bureaucracy  
+buro riti - etiquette (protocol, procedure)  
 bus - bus  
 bus halte - bus stop  
 buste - bust (bosom)  
@@ -561,7 +565,7 @@ buyu - baobab
 
 ## C  
 
-celsius darje - degree Celsius  
+celsius darja - degree Celsius  
 Ceres - Ceres (dwarf planet)  
 ceres yum - cerium  
 cesi yum - caesium  
@@ -640,7 +644,8 @@ chupu - suck (absorb)
 chuti - exit (leaving)  
 chuti mun - exit door  
 chuze - choice (election, selection)  
-chuze she - option (choice)  
+chuze liste - menu (catalog)  
+chuze she - option (choice, preference)  
 chuze yo gol - destine (set)  
 Cuana - Botswana  
 
@@ -662,8 +667,10 @@ dai seku - boulder
 dai shula kan - university  
 dai siti - big city  
 dai ta - size  
+dai zi - capital letter (upppercase letter)  
 daka - cover (lid, cap, deck)  
 dalil - proof (evidence, proof, demonstration, testimony)  
+dalil dokumen - certificate  
 dama gem - checkers (draughts)  
 dan - rank (grade, dan)  
 dana - particle (grain, bullet)  
@@ -950,8 +957,9 @@ fa ajibu - amaze
 fa alo - change (make different)  
 fa alo rai - disagree  
 fa amen - assure (affirm, confirm)  
-fa an galta - debug  
+fa an galte - debug  
 fa an karma - deactivate (disable, turn off)  
+fa an verse - invert (reverse)  
 fa an zai - remove (delete, dispose, erase)  
 fa anime - animate  
 fa aplika - apply (put to use for a purpose)  
@@ -1049,6 +1057,7 @@ fa jin - put forward (advance, progress)
 fa jiva - live (be alive, living)  
 fa jong - center (concentrate)  
 fa jude - judge  
+fa jui - warn (caution, alert)  
 fa jusha - inject  
 fa kai - open  
 fa kaka - defecate (shit)  
@@ -1155,6 +1164,7 @@ fa pul - fill
 fa pul bon - perfect (optimize, refine, polish)  
 fa radi - radiate  
 fa rai - deem (opine, think that)  
+fa rande - smoothen with a plane  
 fa ratibu - order (arrange)  
 fa re - repeat (iterate)  
 fa redi - prepare (make ready)  
@@ -1274,10 +1284,11 @@ fatu di - penal (penetenciary)
 fatura - bill (check, invoice)  
 favor - favor (goodwill)  
 faze - stage (phase)  
-febre - fiever  
+febre - fever  
 fei - flight  
 fei gi - airplane  
 fei gi di kape ja - plane hijacker  
+fei gi tikete - plane ticket  
 fei mushu - bat (flying mammal)  
 fem - female  
 fem ben - daughter  
@@ -1386,6 +1397,7 @@ fungu - fungus (mushroom)
 fungu frute - mushroom (sporocarp)  
 fungu nete - mycelium  
 funsi - function (work)  
+funsi bil - functional (valid, workable)  
 furete - polecat (ferret)  
 furi - angry (furious)  
 furi ta - anger (fury, rage, wrath)  
@@ -1529,9 +1541,10 @@ go - that over there
 gol - goal (destination)  
 gola - circle (sphere, round object)  
 gola di - round (circular)  
+gola long ta - perimeter (circumference)  
 gola seku - cobblestone  
 golem - golem  
-gomu - rubber (eraser)  
+gomu - rubber (latex, eraser)  
 gona - corner (angle)  
 gona metre gi - goniometer  
 gong - work (labour, job)  
@@ -1548,11 +1561,13 @@ grafi - drawing (graph, image)
 grafi buku - picture book  
 grafi chuli - image processing  
 grafi di - graphic (pictorial)  
+grafi fine ta - image resolution  
 grafi ja - illustrator (graphic artist)  
 grafi karte - graphics card (video card)  
 grafi kata - comic (cartoon)  
 grafi lanse gi - image projector  
 grafi rapide ta - framerate  
+grafi so - pixel  
 gram - gram (g)  
 granite - granite  
 grave - gravel  
@@ -1651,6 +1666,7 @@ harmoni di - harmonious
 harnes - harness  
 Hartum - Khartoum  
 has - special (distinct)  
+has nam - identifier (ID)  
 has ta - distinction (specialty)  
 hashish - hashish  
 hata - until (til, up to)  
@@ -1722,6 +1738,7 @@ holera - cholera
 holme yum - holmium  
 holo - whole (entire)  
 holo grafi - hologram  
+holo nomer - integer (whole number)  
 holo ta - wholeness (integrity)  
 Hong Gong - Hong Kong, SAR China  
 hor - hour  
@@ -1803,6 +1820,7 @@ iode - iodine
 ion - ion  
 ion radi - radioactivity (ionizing radiation)  
 ion radi di - radioactive  
+IP adres - IP address  
 Iran - Iran  
 Iraqi - Iraq  
 iris yum - iridium  
@@ -1819,14 +1837,14 @@ Italia - Italy
 
 ## J  
 
-ja - doer (agent, actor)  
+ja - doer (agent, actor, -er, -ist)  
 jaga - awake  
 jain din - Jainism  
 Jakarta - Jakarta  
 jake - jacket  
 jama - collection (congregation, assembly)  
 jama di - collective  
-jama karde - trading card  
+jama karte - trading card  
 Jamaika - Jamaica  
 jampe - jump  
 jamul - jamul (jambul, rose apple)  
@@ -1902,9 +1920,12 @@ jovan man - boy
 jovan moka - sapling  
 jovan ta - youth (young age)  
 judau - judo  
-jude - judgment (sentence)  
+jude - judgement (sentence)  
 jude di - judicial  
 jude ja - judge (referee)  
+jui - care (caution, attention)  
+jui di - careful (cautious, attentive, alert, wary)  
+jui note - warning (advisory)  
 jul - joule (J)  
 jumla - sentence (phrase)  
 jung - species  
@@ -1999,7 +2020,7 @@ kanon di - classic (authoritative, definitive)
 kanta - shoulder  
 kantalupo melon - cantaloupe  
 Kantalupo va Sabina - Cantalupo in Sabina  
-kanun - law  
+kanun - law (rule, regulation)  
 kanyon - canyon (ravine, gorge, gully)  
 kape - catch (capture, seize, snatch, intercept)  
 kape truke - trap (snare)  
@@ -2047,6 +2068,7 @@ kaske - shell (crust, carapace)
 kastana - chestnut  
 kastor - beaver  
 kata - tale (story, legend, saga)  
+kata ja - narrator  
 Katalunia - Catalonia  
 katana - sword  
 katus - cactus  
@@ -2121,6 +2143,7 @@ kitabu forma - formatting
 kitabu gi - typewriter  
 kitabu kan - library  
 kitabu minister - librarian  
+kitabu so - grapheme  
 kitabu suta - literature  
 kivi - kiwi fruit  
 klar - clear (obvious)  
@@ -2159,6 +2182,7 @@ Komoro nesi - Comoros
 kompani - company (corporation)  
 komputa - computer  
 komputa di - digital  
+komputa hor loga gi - digital clock  
 komun - common (shared)  
 komun krati - republic  
 kon - together (jointly, mutually)  
@@ -2189,7 +2213,7 @@ kore - run
 kore ja - runner  
 korne - horn  
 korne melon - horned melon (kiwano)  
-kornonos - rhinoceros  
+korne nos - rhinoceros  
 korona - crown  
 korona virus - corona virus  
 korte - short (brief)  
@@ -2279,14 +2303,12 @@ laji - garbage (rubbish, trash, waste)
 laji bagi - dump (junk yard)  
 laji tong - garbage can (trash bin)  
 laka - lacquer (varnish)  
-lal linse - bobcat  
-lal oranje - mandarin orange (tangerine)  
-lal salmon - sockeye salmon  
 lala - lull  
 lala bede - cradle  
 lala chanta - lullaby  
 lama - lama  
 lampa - lamp  
+LAN (loka area nete) - LAN  
 lana - curse (damn!)  
 langan - banister (handrail)  
 Lanka - Sri Lanka (Ceylon)  
@@ -2350,6 +2372,7 @@ lili kaboga - zucchini
 lili seku - pebble (gravel)  
 lili siti - small town  
 lili yam - snack  
+lili zi - lowercase letter  
 lima - five (5)  
 lima fase - pentahedron (prism)  
 lima gona - pentagon  
@@ -2390,12 +2413,15 @@ loga so - word (lexeme)
 loga tabi di - talkative  
 loge - register (record, log)  
 loge buku - logbook  
+loge chuti - log out (log off)  
+loge jin - log in (sign in)  
 logi - study (research, science, -ology)  
 logi safar ja - explorer  
 logika - logic (deduction)  
 logika di - logical  
 loka - place (location)  
 loka di - local  
+loka nomer - coordinates  
 lona - discussion (debate, discourse)  
 London - London  
 long - long (lengthy)  
@@ -2550,7 +2576,7 @@ medi dia - noon (midday)
 medi fase - interface  
 medi gi - instrument (means)  
 medi noche - midnight  
-medi she - medium (media)  
+medi she - medium (media, buffer)  
 medu - honey  
 medu fong - honeybee  
 medu fong nide - beehive (honeycomb)  
@@ -2621,7 +2647,7 @@ Mikronesi - Micronesia
 mikroskope - microscope  
 mili - milli-  
 mili gram - milligram  
-mili metre - millimeter  
+mili mitre - millimeter  
 milke - milk  
 milke kardon - milk thistle  
 mima - mimic (imitate)  
@@ -2723,6 +2749,7 @@ Muritania - Mauritania
 mus - must (have to, should)  
 mus ta - obligation (compulsion)  
 mushu - mouse or rat  
+mushu chakra - scroll wheel  
 muskete - musket  
 muskete ja - musketeer  
 muskul - muscle  
@@ -2764,9 +2791,11 @@ najis - corruption (filth, pollution, contamination, najis)
 najis bindu - stain (spot)  
 najis di - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
 nam - name  
+nam dokumen - identity document (identification, ID)  
 nam hin - nameless (unnamed, anonymous)  
 nam kitabu - sign (autograph)  
 nam loga - noun  
+nam tikete - nametag  
 nama - meat (flesh)  
 Namibia - Namibia  
 nanas - pineapple  
@@ -2832,6 +2861,7 @@ ni - this
 nia - intention (purpose)  
 niche - underside (underneath)  
 niche di - lower (inferior)  
+niche kitabu - subtitles (captions)  
 nide - nest (hive, den)  
 Nijer - Niger  
 Nikaragua - Nicaragua  
@@ -2856,6 +2886,7 @@ node - knot (node)
 Noe - Noah  
 Noe di nave - Noah’s arc  
 nomer - number  
+nomer zi - digit (figure, numeral)  
 nomi - management (arrangement, -nomy)  
 nong - cultivate (farm)  
 nong bio logi - agrobiology  
@@ -2889,8 +2920,8 @@ note she - note (observation, remark, comment)
 nove - novelty (new product)  
 nove di - new (recent)  
 nove fito - neophyte plant  
+nove jen - novice (newbie)  
 nove jene di - newborn  
-nove ka - novice (newbie)  
 Nove Kaledonia - New Caledonia  
 nove loga - neologism  
 nove ta - newness  
@@ -3019,10 +3050,11 @@ parke - park (garden)
 parne - fern  
 parti - party (group)  
 parti ja - participant  
-pas - pass (go across or through)  
+pas - pass (go across or through, skip)  
 pas dau - pass (passage)  
 pas di - past (bygone)  
 pas loga - password  
+pas tabi - passive (inactive)  
 pase - peace  
 Pase Hai - Pacific Ocean  
 pase hai bakalau - Pacific cod  
@@ -3035,7 +3067,6 @@ paskal - pascal (Pa)
 pasporte - passport  
 pasta - paste (dough)  
 pasta petra - magma  
-pastabi - passive (inactive)  
 patate - potato  
 pati - disease (illness, sickness)  
 pati di - ill (sick)  
@@ -3241,11 +3272,12 @@ Qazaqe - Kazakhstan
 ## R  
 
 radi - ray (radiation)  
-radi geter - radio receiver  
+radi long ta - radius  
 radi metre gi - radiometer  
-radi miser - radiotransmitter  
 radi yum - radium  
 radio - radio  
+radio deku gi - radio receiver  
+radio mise gi - radiotransmitter  
 radon - radon  
 rai - opinion (view)  
 raite - right hand side  
@@ -3256,7 +3288,6 @@ raja desha - kingdom
 raja di - royal  
 ramazan - Ramadan  
 rampe - ramp (incline, slope)  
-randa - smoothen with a plane  
 rande - plane (tool for making a smooth surface)  
 rang - color (colored)  
 rang arka - rainbow  
@@ -3278,6 +3309,7 @@ ratibu di - orderly (organized, in sequence, tidy, regular)
 razon - reason (rational thinking)  
 razon di - rational (reasonable)  
 re - repetition  
+re karga - recharge (reload)  
 re sikle - recycle  
 re zoku - continue (resume)  
 Rea - Rhea  
@@ -3295,6 +3327,7 @@ retro - backward (in reverse)
 retro dau - return (way back)  
 retro gula - throw up (vomit, regurgitate)  
 retro gula sense - nausea (motion sickness)  
+retro note - feedback  
 retro tikete - return ticket  
 Reunion - Réunion  
 rezerve - reservation (booking, withholding)  
@@ -3329,7 +3362,7 @@ rol ja - actor (actress)
 rolo - roll (scroll, coil)  
 rom - rum  
 Roma - Rome  
-Roma Imperia - Roman Empire  
+Roma Imperi Desha - Roman Empire  
 roma kamil - Roman camomile  
 Romania - Romania  
 romanse - romance (romantic love)  
@@ -3345,6 +3378,9 @@ rota vanu gi - top (spinning top)
 Ruanda - Rwanda  
 rubi - red  
 rubi bau seku - ruby  
+rubi linse - bobcat  
+rubi oranje - mandarin orange (tangerine)  
+rubi salmon - sockeye salmon  
 rubi yum - rubidium  
 ruhu - soul (mind, psyche)  
 ruhu di - mental (psychic)  
@@ -3381,8 +3417,8 @@ safa ja - cleaner
 safa tela - wipe (rag, cleaning cloth)  
 safar - travel (voyage, trip)  
 safar ja - traveler  
-safar kegu - tourism  
-safar kegu ja - tourist  
+safar keka - tourism  
+safar keka ja - tourist  
 safran - saffron  
 sagu - sago palm  
 sagu fun - sago  
@@ -3465,7 +3501,7 @@ sata di - momentary
 sata don - dedicate (devote)  
 sata don ta - dedication (devotion)  
 Saturne - Saturn  
-Saudi Arabia - Saudi Arabia  
+Saudi Arabi - Saudi Arabia  
 sauna - sauna  
 saur - lizard  
 saya - shadow  
@@ -3482,7 +3518,7 @@ sekur - safe (secure, protected)
 sekur kode - password (security code)  
 sekur kopi - backup  
 sekur nomer - personal identification number (PIN)  
-sel - advice (counsel)  
+sel - advice (counsel, recommendation)  
 selen yum - selenium  
 selge - chard  
 selu - cell (biology)  
@@ -3500,6 +3536,7 @@ seng - victory (win, triumph)
 seng bai - outcome (victory or defeat)  
 sense - sense (method of perception)  
 sense gi - sensor (detector)  
+sense ja - sensitive (perceptive)  
 sense shaka - tentacle (feeler)  
 senti - centi- (per cent)  
 sentimitre - centimeter (cm)  
@@ -3553,7 +3590,7 @@ she hal - situation (circumstances, state of affairs)
 she hal ironi - situational irony  
 shefe - chief (boss)  
 shefe di - main (principal)  
-shefe minister - prime minister  
+shefe ministre ja - prime minister  
 shi - Mx. (Mr. or Ms.)  
 shia - faction (clique)  
 shia islam din - Shia Islam (Shi’ism)  
@@ -3740,6 +3777,7 @@ suna islam din - Sunni Islam (Sunnism)
 sundar - beautiful (handsome, pretty)  
 sundar daka - decoration (ornament)  
 sundar suta - fine arts  
+sundar suta ja - artist  
 sundar ta - beauty  
 Suomi - Finland  
 suomi basha - Finnish language  
@@ -3847,10 +3885,11 @@ tese - argument (thesis)
 tesla - tesla (T)  
 teste - test (try, attempt)  
 Tetis - Tethys  
-teza - intensive (depending on context: brisk, sharp, acrid, strong, fast, quick)  
+teza - intensive (depending on context: brisk, sharp, acrid, strong, fast, quick, loud)  
+teza ta - intensity (volume)  
 tichin - bow instrument (violin, etc.)  
 tika - piece (nugget, tikka)  
-tikete - ticket  
+tikete - tag (ticket, label, slip, note)  
 tim - team  
 Timor - Timor  
 tipe - type (kind, genre)  
@@ -3885,6 +3924,8 @@ torso - trunk (torso)
 tortuga - turtle (tortoise)  
 transe - transit (transport, passage)  
 transe gon di - diagonal  
+transe long ta - diameter  
+transe vide di - transparent (see-through, clear)  
 Transe Nistre Desha - Transnistria  
 trata - drag (haul, tow, trail)  
 trata gi - tractor  
@@ -3893,6 +3934,7 @@ tre - very
 tren - train  
 tren dau - rail (railway, railroad)  
 tren kape ja - train hijacker  
+tren tikete - train ticket  
 tri - three (3)  
 tri gona - triangle  
 tri pike - trident  
@@ -3920,6 +3962,7 @@ tunika - tunic (gown)
 Tunis - Tunisia  
 tupi - hat (cap)  
 turbe - trouble (disturbance, bother, annoyance)  
+turbe posta - spam mail  
 turfa - peat  
 Turki - Turkey  
 turki basha - Turkish langage  
@@ -3945,6 +3988,7 @@ un mana di - unambiguous
 un mar - once (one time)  
 un me - first (number one)  
 un rang di - monochrome  
+un sata - instantly  
 un she sim - monism  
 un ta - unity  
 Un Ta Arabi Amir Desha (UAA) - United Arab Emirates  
@@ -3976,6 +4020,7 @@ vagina - vagina
 vagina flam - vaginitis  
 vah - wow! (gee!)  
 vai - outside (exterior)  
+vai dara - overflow (spill out)  
 vai desha - foreign country  
 vai desha di - foreign  
 vai di - outer (external)  
@@ -4027,7 +4072,7 @@ vasin - vaccine
 vate - watt  
 Vatikan - Holy See (Vatican City State)  
 vei - latitudinal (horizontal)  
-vei darje - latitude  
+vei darja - latitude  
 vei di - traverse (horizontal)  
 vei gola - parallel (line of latitude)  
 vei lin - weft  
@@ -4079,6 +4124,7 @@ Virjin nesi - Virgin Islands, US
 virus - virus  
 virus logi - virology  
 vise - vice (deputy, alternative, substitute, replacement)  
+vise kitabu - overwrite  
 vise loga - pronoun  
 vise ma - step-mother  
 vise pa - step-father  
@@ -4116,7 +4162,7 @@ yaki nesi - peninsula
 yam - consume (eat or drink)  
 yam fito - vegetable  
 yam kamar - dining room  
-yam liste - menu  
+yam liste - menu (bill of fare)  
 yam she - food (meal)  
 yam sukar gana - duruka  
 yam yau - hunger  
@@ -4198,6 +4244,7 @@ zeta - zetta-
 zeyil - wart  
 zeze - fly  
 zi - character (written symbol)  
+zi forma - font  
 zi sili - alphabet  
 zigzage - zigzag  
 zikura - ziggurat  
@@ -4212,6 +4259,7 @@ zirkon yum - zirconium
 zizi - sizzle  
 zoku - continue (go on, keep on, carry on, proceed, still, yet)  
 zoku di - continuous (analog)  
+zoku hor loga gi - analog clock  
 zombi - zombie  
 zona - belt (zone)  
 zou - animal  

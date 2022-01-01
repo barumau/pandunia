@@ -100,7 +100,7 @@ arrastar - trata
 arroz - ris  
 arsénic - arsen yum  
 arte - suta  
-artista - arte ja  
+artista - sundar suta ja  
 asma - asma  
 assinar - nam kitabu  
 assustador - fobi ja  
@@ -375,7 +375,7 @@ cristal - bilor
 croassã - kruasan  
 crocodiliano - krokodil  
 crocodilo - long krokodil  
-cromo - jama karde  
+cromo - jama karte  
 cronómetro - dur metre gi  
 cruz - krus  
 crème - krem  
@@ -458,6 +458,7 @@ ducha - dush
 durar - be dur  
 duração - dur  
 duro - gati  
+dígito - nomer zi  
 dúbnio - dubna yum  
 
 ## E  
@@ -986,7 +987,7 @@ norte - norde
 nosso - mimon su  
 nostalgia (saudade) - nostalgia  
 nota - note she  
-novato (neófito) - nove ka  
+novato (neófito) - nove jen  
 nove (9) - tisa  
 novidade - nove  
 novidade - nove ta  
@@ -1182,6 +1183,7 @@ promessa (voto) - vode
 Prometeu - Promete  
 promécio - promete yum  
 protacnídio - protacini yum  
+protocolo - buro riti  
 prova - dalil  
 punir (castigar) - fa fatu  
 punição (castigo) - fatu  
@@ -1299,7 +1301,7 @@ sala (câmara) - kamar
 salino - sal di  
 salmão-cão (salmão-keta) - baku salmon  
 salmão-rosa - rode salmon  
-salmão-vermelho - lal salmon  
+salmão-vermelho - rubi salmon  
 salsicha - sosis  
 samambaia - parne  
 samba-canção - bokse pante  
@@ -1374,7 +1376,7 @@ sódio - natri
 
 tablet - table komputa  
 talvez - bil si  
-tangerina (mandarim) - lal oranje  
+tangerina (mandarim) - rubi oranje  
 tapioca - manioka fufu  
 tartaruga - tortuga  
 taxímetro - taksi metre gi  
