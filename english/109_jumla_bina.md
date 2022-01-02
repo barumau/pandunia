@@ -386,18 +386,38 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 – I have passed the test because I read the book.
 
 
-## Conditional clauses
+## Conditional sentences
 
-The word **gar** means 'to suppose',
-and in conditional sentences, it works in the same way as English 'if'.
+There are three types of conditional sentences in Pandunia.
 
-**mi no yam ye gar mi si tu.**
-– I wouldn't eat it _if_ I were you.
+1. **gar A, asar B.**
+   – If A, then B.
+1. **gar A, B.**
+   – If A, B.
+1. **A, asar B.**
+   – A, then B.
 
-The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
+The conditional part of sentence normally starts with the word **gar**,
+which means means 'to suppose' or 'if'.
+The result part of the sentence may start withthe word **asar**,
+which means 'to result' or 'then'.
 
+Note that verbs are not marked in any special way in Pandunia.
+There is no equivalent to the English auxiliary verb *would*.
+
+**mi no yam ye, gar mi si tu.**
+– I wouldn't eat it _if_ I were you.  
+**gar tu no brosha ba dante, tu deku ba kung.**
+– If you don’t brush your teeth, you get cavities.  
+**gar tu shanti, tu emosi mas bon.**
+– If you rest, you will feel better.  
 **gar tu tochu la tava, asar tu pasi la hande.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
+
+Imaginary and unlikely situations can be framed with the verb **fantazi** 'to imagine'.
+
+**fantazi mi ganya un mega euro, mi safar do la luna.**
+– Imagine I would win a million euros, I would travel to the moon.
 
 
 --------------------------------------------------------------------------------
