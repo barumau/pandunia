@@ -11,16 +11,19 @@ nav:
         - 'Introduction': 001_dunia_basha.md
         - 'Principles': 002_filsofi.md
     - 'Grammar and Rules':
-        - 'The basic rules': 100_baze_kanun.md
+#        - 'The basic rules': 100_baze_kanun.md
         - 'World words': 101_dunia_loga.md
         - 'Spelling and pronunciation': 102_ABC.md
         - 'Word classes': 103_logatipe.md
-        - 'Pronouns': 104_viseloga.md
-        - 'Nouns': 105_namloga.md
-        - 'Numerals': 106_nomer.md
-        - 'Modifiers': 107_modeloga.md
-        - 'Verbs': 108_karmaloga.md
-        - 'Sentences': 109_jumla_bina.md
+        - 'Mini Pandunia grammar' : mini_pandunia.md
+        - 'Midi Pandunia grammar' : medi_pandunia.md
+        - 'Maxi Pandunia grammar' : maxi_pandunia.md
+#        - 'Pronouns': 104_viseloga.md
+#        - 'Nouns': 105_namloga.md
+#        - 'Numerals': 106_nomer.md
+#        - 'Modifiers': 107_modeloga.md
+#        - 'Verbs': 108_karmaloga.md
+#        - 'Sentences': 109_jumla_bina.md
         - 'Word building': 110_loga_bina.md
     - 'Lessons':
         - 'Basic Phrases': 200_baze_jumla.md

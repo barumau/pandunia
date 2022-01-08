@@ -27,7 +27,7 @@ whereas the meaning of content words can be explained briefly with a dictionary.
 Structure words can be categorized into word classes as follows:
 
 1. Pronouns : words that point to people and things.
-2. Prepositions : words that relate things and actions into circumstances
+2. Prepositions : words that relate things and actions to circumstances
 3. Conjunctions : words that join phrases together
 
 Content words can be classified into the following word classes:
@@ -47,10 +47,10 @@ Content words can be classified into the following word classes:
 ## Word class roles in Mini Pandunia
 
 In Mini Pandunia, the class of a content word is seldom permanent.
-A word like
+Words take different roles depending on their position in sentences.
+For example, the word
 **amə**
-('love') can function as a verb, noun or adjective
-depending on its position in the sentence.
+'love' can function as a verb, noun or adjective as demonstrated below.
 
 **me _amə_ te.**
 – I _love_ you. (verb)  
@@ -62,19 +62,29 @@ depending on its position in the sentence.
 
 ## Word class markers in Midi Pandunia
 
-The designated vowel endings enable easy derivation of one type of word from another.
-An ending is simply changed to another ending.
-All endings can be used on all roots in the same way.
+Midi Pandunia uses vowel endings for quick word derivation.
+In this system the final vowel of a word indicates its word class.
+So the stem of the word indicates a general idea
+and the vowel endings indicate different sides of that idea.
 
-- The ending **-e** converts the idea into a thing.
+The designated vowel endings enable easy derivation of one type of word from another.
+One ending is simply changed to another ending.
+All endings can be used on all word stems in the same way.
+
+- The ending **-e** converts the idea to a thing and the word to a noun.
   For example, **nile** means 'blue color, blueness'.
-- The ending **-i** converts the idea into a description.
+- The ending **-i** converts the idea to a description and the word to an adjective.
   The resulting adjective describes another idea with the modifying idea.
   For example, **nili dome** means 'blue house'.
-- The ending **-a** converts the idea into an action.
+- The ending **-a** converts the idea to an action and the word to a verb.
   The resulting verb is about using the idea to an object.
   For example, **nila dome** means 'to make the house blue'.
 - The ending **-u** creates an action just like **-a**.
   The only difference is that the word order is the opposite.
   For example, **dome nilu** means 'the house becomes blue'.
+
+The same word class markers are used also in Maxi Pandunia
+but they can be followed by other inflectional suffixes in the same word.
+For example, the Maxi Pandunia word **domem** consists of the stem and two suffixes: *dom-e-m*.
+The same thing is said with two words in Midi Pandunia and the word class markers are clearly visible: **mi dome** 'my house'.
 
