@@ -31,18 +31,21 @@ Learning Pandunia is a course in basic linguistics by itself.
 There are three structural types of Pandunia
 that familiarize learners with the most common types and structures of languages.
 
-1. *Analytic Pandunia* (AP) is the simplest type.
-   It has only invariable words and it uses a fixed word order to arrange words in sentences.
-2. *Middle Pandunia* (MP) is a compromise between the extreme types.
-   It uses a system of *word class markers* to arrange words in sentences.
-3. *Synthetic Pandunia* (SP) is the most complicated type.
-   It changes the form of words when they are used in different ways in sentences.
+1. **Mini Pandunia** (MnP) is the simplest type.
+   It has only invariable words.
+   It uses specific grammatical words and **no inflection** to indicate grammatical relationships.
+2. *Midi Pandunia* (MdP) is a compromise between the extreme types.
+   It uses **little inflection** to indicate grammatical relationships.
+   It has exactly five inflectional suffixes, which are the famous five **word class markers**.
+3. *Maxi Pandunia* (MxP) is the most complicated type.
+   It uses **much inflection** to indicate grammatical relationships,
+   and forms of words can change considerably.
 
 The types are compatible with each other!
-The most advanced type, Synthetic Pandunia, includes Middle Pandunia, which in turn includes Analytic Pandunia.
+The most advanced type, Maxi Pandunia, includes Midi Pandunia, which in turn includes Mini Pandunia.
 
-The best way to get familiar with the three types is to start from Middle Pandunia.
-Middle Pandunia words consist of two parts:
+The best way to get familiar with the three types is to start from Midi Pandunia.
+Midi Pandunia words consist of two parts:
 the word stem and a *vowel ending* that indicates the word's part of speech.
 
 - Every adjective ends in ***-i***.
@@ -50,12 +53,12 @@ the word stem and a *vowel ending* that indicates the word's part of speech.
 - Every noun ends in ***-e*** or the *zero ending*.
 - Every verb ends in ***-a*** or ***-u***.
 
-Analytic Pandunia is made from Middle Pandunia by stripping off the vowel endings
+Mini Pandunia is made from Midi Pandunia by stripping off the vowel endings
 and replacing them with the neutral vowel ending ***-ə*** or the zero ending.
 Only the core stucture words, such as the pronouns, keep their original endings.
 In the resulting simplified language, grammatical relations are expressed with a fixed word order instead of the word class markers.
 
-Synthetic Pandunia is made from Middle Pandunia by combining several meaningful roots into one word,
+Maxi Pandunia is made from Midi Pandunia by combining several meaningful roots into one word,
 such as person and tense into verbs and possessive pronouns into nouns.
 So the sentence in a way collapses into a smaller number of words
 because more information is encoded into individual words.
@@ -66,10 +69,10 @@ The units of meaning are written in different colors.
 ![](http://www.pandunia.info/grafe/pandunia3.png "Examples for comparing the three types of Pandunia")
 
 The three types of Pandunia can be used for different purposes.
-Analytic Pandunia is the natural choice for communication in rudimentary levels.
+Mini Pandunia is the natural choice for communication in rudimentary levels.
 People can learn this type easily on their own even without books or other learning materials.
-Middle Pandunia is a good choice for literature, business and even legal documents.
-Synthetic Pandunia can be used in artistic expression, for example poetry and proverbs.
+Midi Pandunia is a good choice for literature, business and even legal documents.
+Maxi Pandunia can be used in artistic expression, for example poetry and proverbs.
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 

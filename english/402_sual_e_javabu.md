@@ -94,8 +94,8 @@ There is a list of some of the contributors in
 
 Pandunia has been developed for many years
 and there have been two major versions before the current version 3.
-Pandunia v.1 is essentially the same as Middle Pandunia.
-Pandunia v.2 is structurally similar to Analytic Pandunia.
+Pandunia v.1 was essentially the same as Midi Pandunia.
+Pandunia v.2 was structurally similar to Mini Pandunia.
 
 There is one new and important thing that was added to version 3:
 the sixth vowel, ***ə***.

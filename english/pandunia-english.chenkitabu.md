@@ -24,7 +24,9 @@ they are separated by the semicolon.
 
 The Pandunia word is the representative base form of the word.
 In *Analytical Pandunia* it can be used as such as a multipurpose content word.
-In *Middle Pandunia* and *Synthetic Pandunia* it serves as the basis for derived words.
+In *Midi Pandunia* and *Maxi Pandunia* it serves as the basis for derived words.
+
+#### Example 1. *logə*
 
 The following is an actual entry from the word list.
 
@@ -39,12 +41,30 @@ which are not included in this dictionary.
 > **logi** - spoken, oral  
 > **logo** - by speech, orally
 
-This dictionary also includes some words in Middle Pandunia that are used very frequently.
-They are marked with **(MP)**.
+#### Example 2. *luna*
+
+Some word stems end in a full vowel.
+Here is one example.
+
+> **luna** - moon (lunar)
+
+It serves as the basis for the following list of completed Midi Pandunia word forms,
+which are not included in this dictionary.
+
+> **luna'** - moon  
+> **luna'i** - lunar
+
+The apostrophe is there to indicate that the vowel is part of the word stem
+and not a word class marker.
+
+#### Example 3. *mi*
+
+This dictionary includes also some Midi Pandunia words
+that include a word class marker.
+They are marked with **(MdP)**.
 
 > **me** - I  
-> **me da** - my  
-> **mi (MP)** - my
+> **mi (MdP)** - my
 
 ---
 
