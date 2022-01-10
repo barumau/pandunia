@@ -1,6 +1,6 @@
-# The basic rules of Pandunia
+# The basic rules of Mini Pandunia
 
-These are the basic rules of Pandunia language.
+These are the basic rules of Mini Pandunia language.
 They are described in more detail later in this document.
 
 1. **World words:**
@@ -73,7 +73,7 @@ They are described in more detail later in this document.
           → **ching loga la pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
-   In Pandunia, words change only when their actual meaning changes.
+   In Mini Pandunia, words change only when their actual meaning changes.
    Words don't ever change only to serve in a different grammatical role.
    Compound words are made by combining the elements that form them.
    The main word stands at the end.
@@ -145,7 +145,7 @@ The expression **semon** is used as the reciprocal pronoun.
 ## Demonstrative pronouns
 
 Demonstrative pronouns are used with nouns to make them more specific.
-The demonstrative pronouns in Pandunia are:
+The demonstrative pronouns in Mini Pandunia are:
 
 **ni**
 – this (near the speaker)  
@@ -154,7 +154,7 @@ The demonstrative pronouns in Pandunia are:
 **la**
 – the (known by both the speaker and the listener)
 
-In Pandunia, **ni**, **go** and **la** work only as modifiers
+In Mini Pandunia, **ni**, **go** and **la** work only as modifiers
 and they always require a noun after them.
 To use them like pronouns, a generic noun like
 **she**
@@ -253,7 +253,7 @@ Also adjectives are questioned with **ke**.
 ### Only one form
 
 A noun is a word that names a thing.
-Like all words in Pandunia, nouns don't ever change their form.
+Like all words in Mini Pandunia, nouns don't ever change their form.
 So the same form is used in singular and plural, in definite and indefinite, etc.
 
 **seku**
@@ -599,12 +599,14 @@ The 24 hour clock is the standard.
 – eight PM  
 **hor du des e des lima**
 – quarter past eight PM
+
+
 # Modifiers
 
 A modifier is a word that adds a particular quality or description,
 such as good, bad, big, and fast, to another word.
-In Pandunia, there is only one class of modifiers.
-The same word can modify nouns and verbs,
+In Mini Pandunia, there is only one class of modifiers.
+The same word can modify both nouns and verbs,
 whereas in English only _adjectives_ can modify nouns
 and only _adverbs_ can modify verbs.
 For example, the word
@@ -621,7 +623,7 @@ B. **tu _sundar_ di kitabu.**
 
 ### Modifying nouns
 
-In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
+In Mini Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
 **un _nove_ kar**
 – a _new_ car  

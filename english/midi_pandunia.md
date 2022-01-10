@@ -1,6 +1,6 @@
-# The basic rules of Pandunia
+# The basic rules of Midi Pandunia
 
-These are the basic rules of Pandunia language.
+These are the basic rules of Midi Pandunia language.
 They are described in more detail later in this document.
 
 1. The spelling follows the pronunciation exactly.
@@ -207,7 +207,7 @@ and they refer to things in the world outside the structure of the language.
 Function words have only a structural role
 and therefore they behave differently than content words.
 
-In Pandunia, the pronouns and other function words that are derived from them have the following characteristics:
+In Midi Pandunia, the pronouns and other function words that are derived from them have the following characteristics:
 
 1. The word is made up of one consonant and one vowel.
 2. The consonant indicates the general idea of the word.
@@ -295,7 +295,7 @@ for example good, bad, big, and fast.
 ## Modifying a noun
 
 An adjective is a word that adds a particular quality for a noun.
-In Pandunia, adjectives typically end in **-i** and their place is before a noun.
+In Midi Pandunia, adjectives end in **-i** and their place is before a noun.
 
 **novi gar**
 – new car(s)  
@@ -332,7 +332,7 @@ Naturally there can be modifiers on both sides of the noun as well.
 
 An adverb is a word that modifies a verb or another modifier.
 
-In Pandunia adverbs end in **-o** and their place is before a verb
+In Midi Pandunia adverbs end in **-o** and their place is before a verb
 or at the end of the sentence.
 
 **me _bono_ sona.**
@@ -616,7 +616,7 @@ A verb can involve an agent and a patient.
 The agent performs or "causes" an action,
 and the patient receives or "experiences" the action.
 
-There are three types of verbs in Pandunia:
+There are three types of verbs in Midi Pandunia:
 
 1. Agent-oriented verbs: The subject does the action in the SVO word order.
    The the verb ends in **-a**.
@@ -663,7 +663,7 @@ If there is a word immediately after the verb, it is the patient.
 
 #### Order A-1: Agent, verb and patient
 
-The most common word order in Pandunia is agent–verb–patient.
+The most common word order in Midi Pandunia is agent–verb–patient.
 It is used typically in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
 
 Examples:  
@@ -1070,7 +1070,7 @@ An active sentence is a sentence where the subject does the action denoted by th
 The focus is on the subject as the active participant.
 The correct word order is subject-verb-object (SVO).
 
-In Pandunia, active verbs are easy to identify because all of them end in **-a**.
+In Midi Pandunia, active verbs are easy to identify because all of them end in **-a**.
 
 
 The following sentences are in SVO order.
@@ -1088,7 +1088,7 @@ that is a passive recipient that undergoes the action.
 So the recipient is the subject of the sentence.
 Often the agent is not mentioned at all.
 
-In Pandunia, the passive voice is expressed with the verb ending in **-u**.
+In Midi Pandunia, the passive voice is expressed with the verb ending in **-u**.
 The word order is subject–verb–(optional object) or, more precisely,
 recipient–verb–(optional agent).
 
