@@ -1,4 +1,4 @@
-# halo', dunia!
+# halo, dunia!
 
 Hello, world!
 Welcome to learn about Pandunia, the evenly global helping language!
@@ -28,25 +28,25 @@ who have also learned this regular, flexible and multicultural language.
 ## How Pandunia works?
 
 Learning Pandunia is a course in basic linguistics by itself.
-There are three structural types of Pandunia
+There are three structural varieties of Pandunia
 that familiarize learners with the most common types and structures of languages.
 
-1. **Mini Pandunia** (MnP) is the simplest type.
+1. **Mini Pandunia** (MnP) is the simplest variety.
    It has only invariable words.
    It uses specific grammatical words and **no inflection** to indicate grammatical relationships.
-2. *Midi Pandunia* (MdP) is a compromise between the extreme types.
+2. *Midi Pandunia* (MdP) is a compromise between the extreme varieties.
    It uses **little inflection** to indicate grammatical relationships.
    It has exactly five inflectional suffixes, which are the famous five **word class markers**.
-3. *Maxi Pandunia* (MxP) is the most complicated type.
+3. *Maxi Pandunia* (MxP) is the most complicated variety.
    It uses **much inflection** to indicate grammatical relationships,
    and forms of words can change considerably.
 
-The types are compatible with each other!
-The most advanced type, Maxi Pandunia, includes Midi Pandunia, which in turn includes Mini Pandunia.
+The varieties are compatible with each other!
+The most advanced variety, Maxi Pandunia, includes Midi Pandunia, which in turn includes Mini Pandunia.
 
-The best way to get familiar with the three types is to start from Midi Pandunia.
+The best way to get familiar with the three varieties is to start from Midi Pandunia.
 Midi Pandunia words consist of two parts:
-the word stem and a *vowel ending* that indicates the word's part of speech.
+a word stem and a *vowel ending* that indicates the word's part of speech.
 
 - Every adjective ends in ***-i***.
 - Every adverb ends in ***-o***.
@@ -63,14 +63,14 @@ such as person and tense into verbs and possessive pronouns into nouns.
 So the sentence in a way collapses into a smaller number of words
 because more information is encoded into individual words.
 
-Below is a simple demonstration where the same sentence is written in the three types of Pandunia.
+Below is a simple demonstration where the same sentence is written in the three varieties of Pandunia.
 The units of meaning are written in different colors.
 
-![](http://www.pandunia.info/grafe/pandunia3.png "Examples for comparing the three types of Pandunia")
+![](http://www.pandunia.info/grafe/pandunia3.png "Examples for comparing the three varieties of Pandunia")
 
-The three types of Pandunia can be used for different purposes.
+The three varieties of Pandunia can be used for different purposes.
 Mini Pandunia is the natural choice for communication in rudimentary levels.
-People can learn this type easily on their own even without books or other learning materials.
+People can learn this variety easily on their own even without books or other learning materials.
 Midi Pandunia is a good choice for literature, business and even legal documents.
 Maxi Pandunia can be used in artistic expression, for example poetry and proverbs.
 
