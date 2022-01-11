@@ -25,6 +25,8 @@ It is a first stepping stone that builds confidence and improves the ability of 
 One year of learning Pandunia also enables students to communicate well with a growing number of people
 who have also learned this regular, flexible and multicultural language.
 
+[Read more about Pandunia in education](bash-pedie.md)!
+
 ## How Pandunia works?
 
 Learning Pandunia is a course in basic linguistics by itself.
