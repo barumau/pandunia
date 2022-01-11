@@ -1034,7 +1034,7 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**me vol te yam ba fito.**
+**me vol te yam ba 	.**
 – I want you to eat vegetables.
 
 In the example above,
@@ -1045,7 +1045,7 @@ as its object.
 At the same time,
 **te**
 functions as the subject of the following predicate,
-**yam ba fito**.
+**yam ba fitə**.
 So
 **te**
 is the _pivot_ of the entire sentence.
@@ -1054,17 +1054,17 @@ The second verb in a pivot structure is the main verb.
 The first verb is a modal verb,
 which indicates a modality such as desire, permission or obligation.
 
-**me vol te yam ba fito.**
+**me vol te yam ba fitə.**
 – I want you to eat vegetables. (desire)  
-**me sel te yam ba fito.**
+**me sel te yam ba fitə.**
 – I advise you to eat vegetables. (advice)  
-**me halal te yam ba fito.**
+**me halal te yam ba fitə.**
 – I allow you to eat vegetables. (permission)  
-**me bil te yam ba fito.**
+**me bil te yam ba fitə.**
 – I enable you to eat vegetables. (ability)  
-**me mus te yam ba fito.**
+**me mus te yam ba fitə.**
 – I compel you to eat vegetables. (obligation)  
-**me rai te yam ba fito.**
+**me rai te yam ba fitə.**
 – I think you eat vegetables. (opinion)
 
 
@@ -1084,15 +1084,15 @@ and all of them are about the same subject.
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**te vol yam yo fito.**
+**te vol yam yo fitə.**
 – You want to eat vegetables. (desire)  
-**te sel yam yo fito.**
+**te sel yam yo fitə.**
 – You had better eat vegetables. (advice)  
-**te halal yam yo fito.**
+**te halal yam yo fitə.**
 – You may eat vegetables. (permission)  
-**te bil yam yo fito.**
+**te bil yam yo fitə.**
 – You can eat vegetables. (ability)  
-**te mus yam yo fito.**
+**te mus yam yo fitə.**
 – You must eat vegetables. (obligation)
 
 ### Pronoun dropping

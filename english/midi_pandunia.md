@@ -1,4 +1,20 @@
-# The basic rules of Midi Pandunia
+# Midi Pandunia
+
+Midi Pandunia is a variety of Pandunia language that is both simple and flexible.
+It uses a system of five **word class markers** to arrange words in sentences.
+Its words consist of two parts:
+a word stem and a word class marker, which is one of the five vowels.
+
+- Every adjective ends in ***-i***.
+- Every adverb ends in ***-o***.
+- Every verb ends in ***-a*** or ***-u***.
+- Most nouns end in ***-e*** (and the rest have a *zero ending*).
+
+Midi Pandunia is a good place to start learning Pandunia.
+Mini Pandunia is a reduced variety and Maxi Pandunia is an enriched variety of Midi Pandunia.
+
+
+## The basic rules of Midi Pandunia
 
 These are the basic rules of Midi Pandunia language.
 They are described in more detail later in this document.
@@ -40,11 +56,11 @@ They are described in more detail later in this document.
     - ex. **hur-** (freedom) + **ist-** (proponent) → **huriste** (liberalist)
     - ex. **post-** (mail) + **sanduk-** (box) → **postosanduke** (mailbox)
 
-# Pronouns
+## Pronouns
 
 Pronouns can substitute nouns and noun phrases.
 
-## Personal pronouns
+### Personal pronouns
 
 | Singular    | Plural       |
 |:------------|:-------------|
@@ -71,7 +87,7 @@ The possessive pronouns are:
 | his or her  | their        |
 
 
-## Reflexive pronoun
+### Reflexive pronoun
 
 The reflexive pronoun is used when the object of a sentence is the same as the subject.
 
@@ -88,7 +104,7 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 **mome vida se.**
 – We see ourselves.
 
-## Reciprocal pronoun
+### Reciprocal pronoun
 
 The word **unale** is used as the reciprocal pronoun.
 
@@ -101,7 +117,7 @@ The word **unale** is used as the reciprocal pronoun.
 – We see each other.
 
 
-## Demonstrative pronouns
+### Demonstrative pronouns
 
 The demonstrative pronouns are:
 
@@ -138,7 +154,7 @@ and it is known by the audience or is topical within the discourse.
 – I own a cat and a dog. The dog is big. It eats a lot of food.
 
 
-### Abstract use
+#### Abstract use
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
@@ -160,7 +176,7 @@ In the above, the pronoun **ve** refers to the content of the next statement
 and **de** refers to the content of the previous statement.
 
 
-## Interrogative pronouns
+### Interrogative pronouns
 
 **ke** is a general-purpose interrogative pronoun.
 It does the job of English words _who_ and _what_.
@@ -198,7 +214,7 @@ Also adjectives are questioned with **ko**.
 – How big cat do you have?
 
 
-## Table of pronouns and other function words
+### Table of pronouns and other function words
 
 _Function words_ are words that help to structure other words into more or less complex sentences.
 It is a _closed class_ of words, so new words can never be added to it.
@@ -243,9 +259,9 @@ In Midi Pandunia, the pronouns and other function words that are derived from th
 |10| Relative      | **de**             | **di**             |                    | **da**             | **du**             |
 |  |               | which              | which              |                    | of                 | 's                 |
 
-## Nouns
+### Nouns
 
-### Uninflected
+#### Uninflected
 
 A noun is a word that names a thing.
 Like all words in Pandunia, nouns are invariant.
@@ -263,7 +279,7 @@ So the same form is used in singular and plural, in definite and indefinite, etc
 Number and definiteness are often known because they were specified earlier in the discussion or because they are general knowledge.
 For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and moon.
 
-### Number
+#### Number
 
 Nouns are unaffected by number, i.e. nouns have the same form in singular and plural.
 Number can be mentioned with number words when it is needed.
@@ -280,19 +296,19 @@ Number can be mentioned with number words when it is needed.
 – many chairs; chairs
 
 
-### Gender
+#### Gender
 
 Pandunia doesn't have grammatical gender (i.e. masculine, feminine and/or neuter categories).
 
 Some words have _natural gender_.
 For example **fem** (woman) is feminine and **man** (man) is masculine.
 
-# Adjectives
+## Adjectives
 
 A modifier is a word that adds some quality or description to another word,
 for example good, bad, big, and fast.
 
-## Modifying a noun
+### Modifying a noun
 
 An adjective is a word that adds a particular quality for a noun.
 In Midi Pandunia, adjectives end in **-i** and their place is before a noun.
@@ -326,9 +342,9 @@ Naturally there can be modifiers on both sides of the noun as well.
 **novi gar rapidi.**
 – The new car is fast.
 
-# Adverbs
+## Adverbs
 
-## Modifying a verb
+### Modifying a verb
 
 An adverb is a word that modifies a verb or another modifier.
 
@@ -342,7 +358,7 @@ or at the end of the sentence.
 **te baxa pandunia _bono_.**
 – You speak Pandunia _well_.
 
-## Modifying another modifier
+### Modifying another modifier
 
 A modifier can modify also another modifier.
 For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
@@ -360,7 +376,7 @@ For example **day** (big) and **lil** (little) can be used as intensifying adver
 – somewhat beautiful person
 
 
-## Comparison
+### Comparison
 
 Modifiers can be compared with the adverbs of comparison.
 
@@ -404,7 +420,7 @@ which are directly attached to the object of comparison.
 – You speak well, equal me. _meaning:_ You speak as well as me.
 
 
-## Adverbs of time and space
+### Adverbs of time and space
 
 Adverbs are used for expressing time and place of events and actions.
 Here are some of the most frequently used adverbs:
@@ -438,9 +454,9 @@ A complement can be added with the preposition **da**.
 **me vola xopa tougar maxo da motogar.**
 – I want to buy a trailer in addition to the car.
 
-# Numerals
+## Numerals
 
-## Cardinal numbers
+### Cardinal numbers
 
 Quantity can be expressed with numerals and other quantity-words.
 They are put before the word or phrase that they qualify.
@@ -506,7 +522,7 @@ Sometimes it is known from the context how many objects are spoken about.
 For example, the word **sol** (sun) normally refers to just one sun because there is only one.
 
 
-## Fractions
+### Fractions
 
 Fractions are formed with the help of
 **fen**
@@ -520,7 +536,7 @@ Fractions are formed with the help of
 – three quarters, ¾
 
 
-## Ordinal numbers
+### Ordinal numbers
 
 Ordinal numbers are created with the suffix **-odi**.
 
@@ -555,9 +571,9 @@ They are placed before the modified noun like normal adjectives.
 – the third part
 
 
-## Date and time
+### Date and time
 
-#### Days of the week
+##### Days of the week
 
 In naming the days of the week, a number indicating the day (starting from Monday) is followed by
 **yom**
@@ -579,7 +595,7 @@ So 'Monday' is literally 'one-day', 'Tuesday' is 'two-day', 'Wednesday' is 'thre
 7. **cetyom**
    – Sunday
 
-#### Months
+##### Months
 
 1. **unlun**
    – January
@@ -606,9 +622,9 @@ So 'Monday' is literally 'one-day', 'Tuesday' is 'two-day', 'Wednesday' is 'thre
 12. **desdullun**
   – December
 
-# Verbs
+## Verbs
 
-## Verb types
+### Verb types
 
 A verb denotes an action or an occurence, for example to eat, to speak, to look and to think.
 
@@ -640,7 +656,7 @@ Consider the following examples:
 As you can see, **-a** and **-u** indicate opposite orders of the agent and patient.
 
 
-### Agent-oriented verbs
+#### Agent-oriented verbs
 
 Verbs that end in **-a** are called _agent-oriented verbs_
 because the agent comes before the verb.
@@ -661,7 +677,7 @@ If there is a word immediately before the verb, it is the agent.
 If there is a word immediately after the verb, it is the patient.
 
 
-#### Order A-1: Agent, verb and patient
+##### Order A-1: Agent, verb and patient
 
 The most common word order in Midi Pandunia is agent–verb–patient.
 It is used typically in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
@@ -672,7 +688,7 @@ Examples:
 **te beka pang.**
 – You bake bread.  
 
-#### Order A-2: Patient, agent and verb
+##### Order A-2: Patient, agent and verb
 
 The second order is patient–agent–verb.
 It is frequent in dependant clauses.
@@ -683,14 +699,14 @@ Examples:
 **me yama pang, de te beka.**
 – I eat bread _that you baked._
 
-#### Order A-3: Verb, patient and agent
+##### Order A-3: Verb, patient and agent
 
 The third order is the verb-patient-agent, which is rarely used.
 It is described here only for the sake of completeness.
 
 
 
-### Patient-oriented verbs
+#### Patient-oriented verbs
 
 Verbs that end in **-u** are called _patient-oriented verbs_
 because the patient comes before the verb.
@@ -708,7 +724,7 @@ Therefore it is possible to put them in exactly three different orders:
 The arguments of patient-oriented verbs are exactly in the opposite order
 compared to agent-oriented verbs.
 
-#### Order U-1: Patient, verb and agent
+##### Order U-1: Patient, verb and agent
 
 The patient-verb-agent order is common in the passive voice,
 where the focus is on the passive recipient of the action.
@@ -724,7 +740,7 @@ Examples:
 **rajer suku les.**
 – The king is pleased by them.
 
-#### Order U-2: Agent, patient and verb
+##### Order U-2: Agent, patient and verb
 
 The agent–patient–verb order is a possible alternative for the agent–verb–patient order.
 It is used in the active voice, where the the focus is on the agent (i.e. the doer) of the action.
@@ -733,14 +749,14 @@ Examples:
 **me les vidu.** - _I them see._  
 **te pang beku.** - _You bread bake._
 
-#### Order U-3: Verb, agent and patient
+##### Order U-3: Verb, agent and patient
 
 The verb–agent–patient order is very rare but possible.
 It is described here only for the sake of completeness.
 
 
 
-### Stative verbs
+#### Stative verbs
 
 Verbs that end in **-i** are called _stative verbs_.
 They are basically adjectives that describe the subject in a verb-like manner.
@@ -756,7 +772,7 @@ Stative verbs are always intransitive.
 They can't have an object.
 
 
-### Comparison of the verb types
+#### Comparison of the verb types
 
 The verb types are summarized in the table below
 for the normal subject–verb–object word order.
@@ -796,7 +812,7 @@ for the normal subject–verb–object word order.
 | time, duration | lasting        | last, take time| spend, put time|
 
 
-## Participles
+### Participles
 
 **-an-**
 denotes someone or something that does the action of the root.
@@ -827,7 +843,7 @@ to unite
 united
 
 
-### Causative verbs
+#### Causative verbs
 
 The causatives are the verbs that are used to indicate
 that one person causes another person to do something.
@@ -867,11 +883,11 @@ A causative can imply that the action is done for the causer.
 – I don't build the house. I have it built (for myself).
 
 
-## Prepositions
+### Prepositions
 
 In Pandunia, prepositions are basically a sub-category of verbs.
 
-### Prepositions of place and time
+#### Prepositions of place and time
 
 Pandunia has five prepositions of place and time.
 
@@ -905,7 +921,7 @@ refer to time.
 **me denga va te sona.**
 – I wait while you sleep.  
 
-#### va
+##### va
 
 **va** is an all-purpose locative preposition.
 Its basic meaning is "at".
@@ -922,7 +938,7 @@ I speak in Pandunia.
 _I speak with friends with Pandunia with telephone._  
 I speak with friends in Pandunia by telephone.
 
-#### Verbs as prepositions
+##### Verbs as prepositions
 
 In Pandunia some verbs function like prepositions do in English.
 
@@ -942,7 +958,7 @@ Here are some verbs that are usable as prepositions:
 **sirka** - to surround; around  
 **supra** - to surpass; over, above  
 
-#### Verbs without prepositions
+##### Verbs without prepositions
 
 Prepositions are not used as frequently in Pandunia as in English. In
 many phrases, the verb says enough alone.
@@ -958,7 +974,7 @@ many phrases, the verb says enough alone.
 **jenger marca dau.**
 – Warriors march (on) the road.  
 
-### Preposition of relation
+#### Preposition of relation
 
 Preposition **ka** indicates the way something is done.
 It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
@@ -985,9 +1001,9 @@ In the above example
 – **max** (more), **min** (less) and **samo** (same) –
 to the point of comparison, which is **pape** (father) in the examples above.
 
-# Sentences
+## Sentences
 
-## Observations
+### Observations
 
 Observations are the simplest sentence type.
 They may consist of only one word, which draws the listener's attention.
@@ -997,9 +1013,9 @@ They may consist of only one word, which draws the listener's attention.
 **barxa!**
 – (It) rains!
 
-## Stative Sentences
+### Stative Sentences
 
-### With noun or pronoun subject
+#### With noun or pronoun subject
 
 Normally a sentence consists of a subject and a predicate.
 In the simplest sentences, the subject is a noun or a pronoun and the predicate is an adjective or a noun.
@@ -1046,7 +1062,7 @@ Also two personal pronouns can be combined with **si** and **no**.
 **me no sa te.**
 – I'm not you.
 
-### With adjective subject
+#### With adjective subject
 
 The same rule applies also for two adjectives.
 
@@ -1055,7 +1071,7 @@ The same rule applies also for two adjectives.
 **novi no sa purani.**
 – New is not old.  
 
-### With verb subject
+#### With verb subject
 
 A verb can't be subject as such.
 So the verb is first, use **de** to start a comment about the verb.
@@ -1064,7 +1080,7 @@ So the verb is first, use **de** to start a comment about the verb.
 – Singing, that is good. (Singing is good.)
 
 
-## Active Sentences
+### Active Sentences
 
 An active sentence is a sentence where the subject does the action denoted by the verb to the object.
 The focus is on the subject as the active participant.
@@ -1081,7 +1097,7 @@ The following sentences are in SVO order.
 – I see you.
 
 
-## Passive Sentences
+### Passive Sentences
 
 In the passive voice the focus of the sentence is on a subject
 that is a passive recipient that undergoes the action.
@@ -1114,9 +1130,9 @@ That is because the direction of pleasing is from the active doer to the passive
 – I am pleased by music. / I like music.
 
 
-## Pivot structure
+### Pivot structure
 
-### Basic pivot structure (SVOVO)
+#### Basic pivot structure (SVOVO)
 
 In the _pivot structure_ the word order is:  
 subject – verb 1 – object 1 – verb 2 – object 2.
@@ -1144,7 +1160,7 @@ which indicates a modality such as advice, desire, permission or obligation.
 – I compel you to eat vegetables. (obligation)  
 
 
-## Verb series structure
+### Verb series structure
 
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
@@ -1172,19 +1188,19 @@ which that indicate a modality such as likelihood, ability, advice, permission, 
 **te musu yama vejete.**
 – You must eat vegetables. (obligation)  
 
-## Pronoun dropping
+### Pronoun dropping
 
 In certain types of expressions the pronouns get dropped for brevity.
 This is done especially in commands and requests.
 
-### Short pivot structure (VOVO)
+#### Short pivot structure (VOVO)
 
 **me suala te baxa pandunia.**
 – I ask do you speak Pandunia.  
 **suala te baxa pandunia?**
 – Do you speak Pandunia.
 
-### Short pivot structure (VVO)
+#### Short pivot structure (VVO)
 
 **me cinga te laya dom.**
 – I ask you to come home.  
@@ -1193,7 +1209,7 @@ This is done especially in commands and requests.
 (Word for word: _Request come home!_)
 
 
-## Relative clauses
+### Relative clauses
 
 A relative clause is a subordinate clause that modifies a noun phrase, most commonly a noun.
 For example, the phrase "the person who lives there" containst the noun _person_,
@@ -1266,9 +1282,9 @@ It can be clarified by an expression like
 – The fact that the person writes the book is important.
 
 
-## Combining phrases with conjunctions
+### Combining phrases with conjunctions
 
-### Basic conjunctions
+#### Basic conjunctions
 
 1. **e** and (connects two similar words or phrases)
 2. **o** or (connects two alternative words or phrases)
@@ -1284,11 +1300,11 @@ It can be clarified by an expression like
 
 --------------------------------------------------------------------------------
 
-## Particles
+### Particles
 
-### Affirmation and Negation
+#### Affirmation and Negation
 
-#### Affirmative
+##### Affirmative
 
 Expressions are affirmative by default.
 
@@ -1306,7 +1322,7 @@ Affirmation can be emphasized with the adverb
 **le yo sa novi meze.**
 – It indeed is a new table.
 
-#### Negative
+##### Negative
 
 Such sentences can be simply negated with **no**.
 
@@ -1360,13 +1376,13 @@ apply to the verb, not the whole question.
 – No. (I don't see you.)
 
 
-### Modifier particles
+#### Modifier particles
 
 Particles **du** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
 **du** connects the modifying word or phrase to the main noun word.
 **da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
-#### Possession
+##### Possession
 
 The modifier particle can be used for any possessive noun or pronoun.
 
@@ -1392,7 +1408,7 @@ so one can say things like
 but it's better to use the short possessive pronouns and say simply
 **mi dom** (_my house_).
 
-#### Modification with noun phrases
+##### Modification with noun phrases
 
 Another way to use these particles is to connect an adjective or other words with a noun.
 It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
@@ -1428,7 +1444,7 @@ So a modifier phrase with and without **du** can mean a different thing.
 **max du sundari fule**
 – more of beautiful flowers
 
-#### Modification with verb phrases
+##### Modification with verb phrases
 
 Verbs and verb phrases are turned into modifiers by placing **da** or **du** immediately next to the verb.
 
@@ -1439,7 +1455,7 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **du** imm
 
 
 
-### Tense and Aspect Particles
+#### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **ceno** (past), **zayo** (present) and **poso** (future, upcoming).

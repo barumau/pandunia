@@ -35,7 +35,7 @@ It is a learning experience that builds confidence and improves the ability of s
 In addition, one year of learning Pandunia enables students to communicate well with a growing number of people
 who have also learned this regular, flexible and multicultural language in school or in their free time.
 
-## Are they real?
+## Are the benefits real?
 
 There is a constructed language, somewhat similar to Pandunia, that has been taught in schools successfully.
 It is **Esperanto**.
