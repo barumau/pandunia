@@ -35,10 +35,10 @@ They are described in more detail later in this document.
 4. **Pronouns:**
     - The personal pronouns are:
      **me** _I_, **te** _you_ (sg.), **le** _he or she_,
-     **mimon** _we_, **timon** _you_ (pl.), **limon** _they_.
+     **mes** _we_, **tes** _you_ (pl.), **les** _they_.
     - The possessive pronouns are:
       **me su** _my_, **te su** _your_, **le su** _his or her_,
-      **mimon su** _our_, **timon su** _your_, **limon su** _their_.
+      **mes su** _our_, **tes su** _your_, **les su** _their_.
      - The interrogative pronouns are: **ke** _what_ or _who_, **ke su** _whose_.
      - The impersonal pronoun is
        **mon**
@@ -109,11 +109,11 @@ Pronouns can substitute nouns and noun phrases.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **me**      | **mimon**    |
+| **me**      | **mes**      |
 | I, me       | we           |
-| **te**      | **timon**    |
+| **te**      | **tes**      |
 | you         | you all      |
-| **le**      | **limon**    |
+| **le**      | **les**      |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
@@ -123,11 +123,11 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **me su**   | **mimon su** |
+| **me su**   | **mes su** |
 | my          | our          |
-| **te su**   | **timon su** |
+| **te su**   | **tes su** |
 | your        | your         |
-| **le su**   | **limon su** |
+| **le su**   | **les su** |
 | his or her  | their        |
 
 
@@ -145,17 +145,17 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 – I see myself.  
 **le vidə se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mimon vidə se.**
+**mes vidə se.**
 – We see ourselves.
 
-The expression **semon** is used as the reciprocal pronoun.
+The expression **unal** is used as the reciprocal pronoun.
 
-**semon**
+**unal**
 – each other, one another
 
-**me e te vidə semon.**
+**me e te vidə unal.**
 – Me and you see each other.  
-**mimon vidə semon.**
+**mes vidə unal.**
 – We see each other.
 
 
@@ -666,7 +666,7 @@ is placed immediately before the verb.
 
 **te _rapidə_ logə.**
 – You talk _fast_.  
-**limon _bon_ kitabə.**
+**les _bon_ kitabə.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -676,7 +676,7 @@ It makes the structure of the verb phrase clearer.
 
 **te _sundar di_ kitabə.**
 – You write _beautifully_.  
-**limon _rapidə di_ marche.**
+**les _rapidə di_ marche.**
 – They walk _fast_.
 
 
@@ -835,7 +835,7 @@ indicates beginning of an action or transition to a new situation.
 ('end, cease, quit, stop')
 conveys the idea of "to stop doing something".
 
-**limon fin haha.**
+**les fin haha.**
 – They stopped laughing.  
 **kagujə ya fin hogə.**
 – Paper ceased to burn.  
@@ -892,9 +892,9 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 – I haven't drank alcohol.  
 **me _leu_ no gul yo alkohol.**
 – I have reached not drinking alcohol.  
-**me _leu_ don la bukə do limon.**
+**me _leu_ don la bukə do les.**
 – I have given the book to them. (So I don't have it.)  
-**limon no _leu_ don le re do me.**
+**les no _leu_ don le re do me.**
 – They haven't given it back to me.  
 **me _leu_ lai do siti.**
 – I have come to the city.
@@ -904,7 +904,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**me pas don la bukə do limon.**
+**me pas don la bukə do les.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **me pas keka la France.**
 – I have visited France.  
@@ -1002,7 +1002,7 @@ These come after the predicate.
 – I walk.  
 **te yam yo apel.**
 – You eat some apples.  
-**mimon dona le yo pesa.**
+**mes dona le yo pesa.**
 – We give her some money.
 
 Sometimes, the subjet of one sentence can become the object of another.
@@ -1219,7 +1219,7 @@ However, unlike in English, the word order may also be left alone.
 – You are eating what?  
 **le lai na ke sata?**
 – When does he arrive?  
-**timon keka na ke jen su dom?**
+**tes keka na ke jen su dom?**
 – Whose house did you all visit?
 
 
@@ -1280,7 +1280,7 @@ In Pandunia they are typically introduced with the conjunction
 
 **me sabe ki te sa dostə.**
 – I know that you are a friend.  
-**limon fikrə ki mimon leu chutə.**
+**les fikrə ki mes leu chutə.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -1290,7 +1290,7 @@ points to the following content clause and
 **la**
 points to the previous one.
 
-**go sa bari, ki me leu no vidə limon.**
+**go sa bari, ki me leu no vidə les.**
 – _It_ is important _that I haven't seen them_.  
 **ki pan jen be sana ka par, la sa klar.**
 – _That all people are created as equals_; _it_ is clear.
@@ -1385,7 +1385,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **me no vidə te.**
 – I don't see you.  
-**me vidə no te a limon.**
+**me vidə no te a les.**
 – I see, not you, but them.
 
 **me ching te safə la kamar.**
@@ -1468,11 +1468,11 @@ The same particle is used with with personal pronouns too.
 – your house  
 **le su dom**
 – his or her house  
-**mimon su dom**
+**mes su dom**
 – our house  
-**timon su dom**
+**tes su dom**
 – your house  
-**limon su dom**
+**les su dom**
 – their house
 
 

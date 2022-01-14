@@ -64,11 +64,11 @@ Pronouns can substitute nouns and noun phrases.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **me**      | **mome**     |
+| **me**      | **mes**      |
 | I, me       | we           |
-| **te**      | **tote**     |
+| **te**      | **tes**      |
 | you         | you all      |
-| **le**      | **lole**     |
+| **le**      | **les**      |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
@@ -79,11 +79,11 @@ The possessive pronouns are:
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi**      | **momi**     |
+| **mi**      | **mesi**     |
 | my          | our          |
-| **ti**      | **toti**     |
+| **ti**      | **tesi**     |
 | your        | your         |
-| **li**      | **loli**     |
+| **li**      | **lesi**     |
 | his or her  | their        |
 
 
@@ -101,7 +101,7 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 – I see myself.  
 **le vida se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mome vida se.**
+**mes vida se.**
 – We see ourselves.
 
 ### Reciprocal pronoun
@@ -113,7 +113,7 @@ The word **unale** is used as the reciprocal pronoun.
 
 **me e te vida unale.**
 – Me and you see each other.  
-**mome vida unale.**
+**mes vida unale.**
 – We see each other.
 
 
@@ -1339,7 +1339,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **me no vida te.**
 – I don't see you.  
-**me vida no te a lole.**
+**me vida no te a les.**
 – I see, not you, but them.
 
 **me cinga te safa kamar.**
