@@ -1,7 +1,8 @@
 fata_liste_pandunia_X() {
     logaliste="$2/pandunia-$2.md"
-    #pandunia un me
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$1	 \" - \" \$$1 \"  \"}" > $logaliste
+    #echo "kitaba $logaliste"
+    #pandunia ($2) un me
+    cat pandunia-loge.csv | awk -F "|" "{print \$2	 \" - \" \$$1 \"  \"}" > $logaliste
     #mata un me lin
     sed -i '1d' $logaliste
     # ABC nam
@@ -25,7 +26,8 @@ fata_liste_pandunia_X() {
 fata_liste_X_pandunia() {
     #ali bax unodo
     logaliste="$2/$2-pandunia.md"
-    cat pandunia-loge.csv | awk -F "|" "{gsub(/\*/,\"\\\*\",\$2); print \$$1 \" - \" \$1 \"  \"}" > $logaliste
+    #echo "kitaba $logaliste"
+    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $logaliste
     #mata un me lin
     sed -i '1d' $logaliste
     # alfobeta
@@ -38,11 +40,13 @@ fata_liste_X_pandunia() {
     sed -i "1s/^/# $2–pandunia\n/" $logaliste
     #Delete empty translations
     sed -i '/^.-/d' $logaliste
+    #Delete bullets
+    sed 's/• //g' -i $logaliste
 }
 
 fata_leksasli_liste() {
 #    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
+    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
     #mata un me lin
     sed -i '1d' $2/leksaslia.md
     #Sort
@@ -59,14 +63,14 @@ fata_leksasli_liste() {
 }
 
 fata_liste() {
-    echo sana la loga liste do $2
+    echo kitaba logəliste da $2
     fata_liste_pandunia_X $1 $2
     fata_liste_X_pandunia $1 $2
     fata_leksasli_liste $1 $2
 }
 
 fata_lekse_asle() {
-    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$1 \"**|\" \$4 \"|\"}" > temp/lekse.txt
+    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$5 \"|\"}" > temp/lekse.txt
     #mata un me lin
     sed -i '1d' temp/lekse.txt
     sed -i '1d' temp/lekse.txt
@@ -251,49 +255,49 @@ tarja_logaslia_pa_esperanto() {
 sed 's/\t/|/g' -i pandunia-loge.csv
 
 # english e pandunia
-fata_liste 5 english
+fata_liste 6 english
 tarja_logaslia_pa_english
 
 #Tiddly dictionary
 kitabu_Tiddly english
 
 # esperanto e pandunia
-fata_liste 20 esperanto
+fata_liste 21 esperanto
 tarja_logaslia_pa_esperanto
 
 # suomi e pandunia
-fata_liste 21 suomi
+fata_liste 22 suomi
 tarja_logaslia_pa_suomi
 
 # polski e pandunia
-fata_liste 22 polski
+fata_liste 23 polski
 
 # Tiddly polski e pandunia
 kitabu_Tiddly polski
 
 # putonghan e pandunia
-fata_liste 11 putonghan
+fata_liste 12 putonghan
 
 # nipon e pandunia
-fata_liste 12 nipon
+fata_liste 13 nipon
 
 # malayu e pandunia
-fata_liste 17 malayu
+fata_liste 19 malayu
 
 # rusi e pandunia
-fata_liste 9 rus
+fata_liste 10 rus
 
 # france e pandunia
-fata_liste 6 france
+fata_liste 7 france
 
 #Tiddly france e pandunia
 kitabu_Tiddly france
 
 # espanya e pandunia
-fata_liste 7 espanya
+fata_liste 8 espanya
 
 # portugal e pandunia
-fata_liste 8 portugal
+fata_liste 9 portugal
 
 # loga asal na pandunia basha
 fata_lekse_asle
