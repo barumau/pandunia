@@ -9,7 +9,7 @@
 | rus | 9% |
 | hindi | 9% |
 | bangla | 4% |
-| putonghan | 6% |
+| putonghan | 5% |
 | nipon | 6% |
 | chosen | 4% |
 | viet | 3% |
