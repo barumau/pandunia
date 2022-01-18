@@ -95,9 +95,9 @@ am.at.er:|amater||||amateur|amateur|amateur (aficionado)|amador|любитель
 am.er:|amer||||lover|amoureux|amante (enamorado)|amante|любовник|عَاشِق‎|恋人 (情人, 爱人)|恋人 (恋人)|애인|người yêu|प्रेमी|||mpenzi|aşik|amanto|rakastaja|
 am.ik:|amikə||||darling (honey)|chéri|amado (cariño)|querido||حَبِيب‎|||||हबीब (प्रिय)|||||karulo|kulta (rakas)|
 amar:i|Amari|nas|||Amhara (an Ethiopian ethnic group and language)|Amhara (groupe ethnique et langue éthiopienne)|amhara||||||||||||||amhara (etiopialainen kansa ja kieli)|Amhara, amharski
+amen:|amen|||heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen), vie:a-men|surely (verily, amen)|sûrement|seguramente (amén)||||||||||||||uskottavasti (totisesti, aamen)|
 amen:a|amena||||trust (have faith)|faire confiance (espérer, croire qqn./qqch., avoir la foi)|||||||||||||||luottaa (uskoa)|
 amen:i|ameni||||trusted|fiable (de confiance, fidèle, sûr, crédible)|||||||||||||||varma|
-amen:|amen|||heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina,amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen), vie:a-men|surely (verily, amen)|sûrement|seguramente (amén)||||||||||||||uskottavasti (totisesti, aamen)|
 amerik:|Amerikə|||eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:may:Amerika, ara:أمريكا‎ (ʾamrīkā), hin:अमेरिका (amerikā), ben:আমেরিকা (amerika), jpn:アメリカ (amerika)|America (continent)|Amérique|América|||||||||||||Ameriko|Amerikka|Ameryka (kontynent)
 amerik:i|ameriki||||American|américain|americano|||||||||||||amerika|amerikkalainen|amerykański
 amerik:i samoa:|Ameriki Samoa|dex|AS||American Samoa|Samoa américaines|Samoa Americana|||||||||||||||Amerykańska Samoa
@@ -1737,8 +1737,6 @@ jam.kard:|jamkardə||||trading card|carte à collectionner|cromo|cromo||||||||||
 jamaika:|Jamaika|dex|JM||Jamaica||Jamaica|||||||||||||Jamajko|Jamaika|Jamajka
 jamp:a|jampa|||eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)|jump||saltar (brincar)|||||||||||||salti|hypätä (hyppiä)|skoczyć, skakać
 jamul:|jamul|biu|Syzygium|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|jamul (jambul, rose apple)|prune de Java||jambolão (jambo)|джамболан||閻浮樹|フトモモ|||जामुन|||zambarau|||jambolaani|czapetka kuminowa
-jan:|jan|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|person (individual)|personne|persona|pessoa|||人|人||||||||persono|henkilö|osoba
-jan<dus:|• dusjan||||enemy (foe, villain)|ennemi|enemigo|inimigo|враг (противник)|عَدُوّ|敌人|敵|적 (구적)|kẻ thù (kẻ địch)|दुर्जन (शत्रु)|দুশমন (শত্রু)|musuh (durjana)|adui|düşman|malamiko|vihollinen|
 janel:|janel|||por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla|window|fenêtre|ventana|janela|окно|شباك‎|窗戶|窓|창|cửa sổ|खिड़की|জানালা|jendela|dirisha|pencere|fenestro|ikkuna|okno
 janel.frem:|janelfrem||||window frame||||||窗框|||||||||fenestrokadro|ikkunankehys (ikkunanpuite)|
 jang:i|jangi||||crafty (dexterous)||||||||||||||||kätevä|umiejętny (sprawny, zręczny)
@@ -1758,6 +1756,7 @@ jek.get:a|jekəgeta|||zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (j
 jek.log:|jekəlogə||||loanword||préstamo lingüístico|||||||||||||||zapożyczenie (wyraz obcy)
 jel:|jel|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī), vie:chất gien|gel (jelly)||gel (jalea, gelatina)|||||||chất gien||||||ĝelo|hyytelö|żel, galareta
 jelos:i|jelosi|||eng:jealous, spa:celoso, fra:jaloux|jealous||celoso (envidioso)||||||||||||||kade (kateellinen)|zazdrosny
+jen:|jen|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|person (individual)|personne|persona|pessoa|||人|人||||||||persono|henkilö|osoba
 jen:|jen|||hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|birth||nacimiento (origen)|||||||||||||nasko|synty (syntymä)|narodziny
 jen:a|jena||||give birth (beget, generate, breed)|donner naissance (procréer, engendrer, accoucher)|dar a luz (enngendrar, parir, procrear)||родить|||生む||||||||naskigi|synnyttää|urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić
 jen:i|jeni||||raw (crude)||crudo||сырой||生的|生 (未熟)||||||||||surowy (niedojrzały)
@@ -1770,6 +1769,7 @@ jen.it:a|jenita||||breed|élever|criar||выращивать|||湧かす||||||||
 jen.klas:|jenklas||||caste||casta||||||||||||||sääty (kasti)|kasta
 jen.loj:ia|jenəlojia||||genealogy (study of descent)|généalogie|genealogía|genealogia|генеалогия||系谱学|系譜学|계보학|gia phả học|||genealogi||soy bilimi (jeneoloji)|genealogio|sukututkimus|genealogia
 jen.tip:|jentipə||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
+jen<dus:|• dusjen||||enemy (foe, villain)|ennemi|enemigo|inimigo|враг (противник)|عَدُوّ|敌人|敵|적 (구적)|kẻ thù (kẻ địch)|दुर्जन (शत्रु)|দুশমন (শত্রু)|musuh (durjana)|adui|düşman|malamiko|vihollinen|
 jeng:|jeng|||zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|fight (war, battle, combat)||pelea (guerra, batalla)|||||戦闘 (格闘)||||||||milito (batalo)|taistelu (sota)|walka, wojna
 jeng:i|jengi||||military (martial, warlike)||macrial (militar)|||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
 jeng.er:|jenger||||warrior (fighter)||luchador (guerrero)||||||||||||||soturi (taistelija)|wojownik, bojownik
@@ -1780,7 +1780,6 @@ jest:|jestə|||eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:
 jet:|jeta|||fra:projet,por:projeto,eng:project,spa:proyecto,rus:проект (proyekt),hin:प्रोजैक्ट (projaikṭ),ben:প্রজেক্ট (prôjekṭ),jpn:プロジェクト (purojekuto),kor:프로젝트 (peurojekteu),tur:proje|thrust (throw,cast)|||||||||||||||||
 jet<a<iu:|• ajetivə||||adjective|||||||||||||||||
 jet<ex:|• exjeta||||eject (throw out)|||||||||||||||||
-||||||||||||||||||||||
 jet<in:|• injetə||||injection||inyección||||||||||||||ruiske (injektio)|zastrzyk
 jet<pro:|• projetə||||project (forecast)|projet|proyecto|projeto|проект||||||||||||projisoida (projisio)|
 jet<pro.aj:|• projetajə||||project (endeavour)|projet|proyecto|projeto|проект|||プロジェクト|계획 (프로젝트)||परियोजना (प्रोजैक्ट)|প্রজেক্ট|||||hanke (projekti)|projekt,planowane przedsięwzięcie
@@ -1838,7 +1837,6 @@ just:i|justi|||eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jas
 just:o|justo||||just (exactly, precisely)||justo (exactamente)|||||||||||||ĝuste (ekzakte)|juuri (just, täsmälleen)|dokładnie (precyzyjnie, tylko)
 just.pau.er:|justəpaver||||sniper (sharpshooter)||francotirador||снайпер|||狙撃兵||||||||||snajper (strzelec wyborowy)
 just<a:|• ajustə||||adjust (make exact)|||||||||||||||||
-|||||injection|||||||||||||||||
 jux:a|juxa||||inject||inyectar||||||||||||||ruiskuttaa|wstrzyknąć, wstrzykiwać
 k|K||||K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K
 k:|kə|||fra:que, spa:qué, por:o que + ben:কে  (ke)|what?|que (quoi)|qué|o que|что||什么|何|||क्या||apa|nini|ne|kio?|mikä? (mitä?)|co?
@@ -2402,6 +2400,8 @@ m:i|mi||||my||mi|||||私の||||||||mia|minun|mój
 m.es:|mes|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
 m.es:i|mesi||||our|notre|nuestro|nosso|наш||我们的||||हमारा|আমাদের|||bizim|nia|meidän|
 ma:|ma|||zho:妈 (mā),vie:má,ben:মা (ma),hin:मां (mã) + eng:swa:mama, fra:maman, spa:mamá, por:por:mãe, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mom (mama)|maman|mamá|mãe|мама|أُمّ‎|妈妈|お母さん (母,ママ)|엄마|mẹ (má)|माता (मां,मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|mama
+ma.ma:|mama||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
+ma.pa:|mapa||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
 ma.tr:|• matrə||||mother|mère|madre|mãe|мать||母亲||||||||||äiti|matka
 ma.tr.ia|• matria||||motherland|||pátria-mãe|родина||||||||||||emämaa (synnyinmaa)|macierz
 maf:|maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
@@ -2414,8 +2414,6 @@ mages.em:|magesem|kimeme 012|Mg|eng:magnesium, fra:magnésium, spa:magnesio, por
 magiar:ia|Magyaria|dex|HU||Hungary||Hungría||||||||||||||Unkari|Węgry
 magrib:ia|Magribia|dex|MA||Morocco|Maroc|Marruecos|Marrocos|Марокко|المغرب‎|摩洛哥|モロッコ|모로코|Ma-rốc|मोरक्को|মরোক্কো|Moroko (Maghribi)|Moroko|Fas||Marokko|Maroko
 mai:|mai|||por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mother (mom, mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母, ママ)|엄마|mẹ (má)|माता (मां, मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka, mama
-ma.ma:|mama||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
-ma.pa:|mapa||||maternal grandfather||||||外公 (外祖父)||||नाना||||||äidinisä|
 maian:|mayan||||Maya||maya|||||||||||||majao|maya (mayaintiaani)|Maya
 maiot:|Mayotə|dex|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
 mais:|mais|||eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)|corn (maize)||maíz||||||||||||||maissi|kukurydza
@@ -2628,8 +2626,8 @@ min.darj:a|mindarja||||decrement|||||||||||||||||zmniejszyć o jeden
 min.rai:a|minraya||||underestimate|sous-estimer|subestimar|menosprezar (subestimar)|недооценить||||||||||||aliarvioida|
 min~i pan.dun:ia|Mini Pandunia||||Mini Pandunia||||||||||||||||mini-pandunia|
 minar:|minar|||swa: mnara, tur: minare, + eng:minaret|tower||torre|||||||||||||turo|torni|wieża
-ming:a|minga||||brighten||iluminar||||||||||||||kirkastaa (valaista)|rozjaśnić
-ming:i|mingi|||zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)|bright (brilliant, clear)||brillante (luminoso)||||||||||||||kirkas (selkeä)|jasny, czysty
+ming:|ming|||zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)|bright (brilliant, luminous, shining; shine)||brillante (luminoso)||||||||||||||kirkas (selkeä)|jasny, czysty
+ming<trans:|transming||||translucent|||||||||||||||||
 minim: (minim:o)|minim (minimo)|||eng:fra:minimum, spa:por:mínimo, deu:Minimum, rus:ми́нимум (mínimum)|least (minimally)||lo menos|||||||||||||malplej|vähiten|najmniej, minimalnie
 minim:a|minima||||minimize|||||||||||||||||zminimalizować
 minim:i|minimi||||minimal||mínimo||||||||||||||vähimmäis-|minimal
@@ -2748,7 +2746,8 @@ mum.ik:|• mumikə||||mummy|momie|momia|múmia|мумия||木乃伊|ミイラ|
 mum.jan:|mumjan||||mummy||momia|||||||||||||mumio|muumio|mumia
 mum.melon:|mummelon|biu|Benincasa hispida||winter melon (wax gourd, ash gourd)||calabaza china (calabaza de la cera)||восковая тыква (зимняя дыня)||冬瓜 (白瓜)|トウガン||||||||||beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)
 mumbai:|Mumbai|site|||Mumbai (Bombay)|||||||||||||||||Bombaj (Mumbaj)
-mun:|mun|||kor:문 (mun), yue:門 (mun), jpn:門 (mon), zho:门 (mén)|door (gate, portal)||puerta|||||門||||||||pordo|ovi (portti, veräjä)|drzwi, brama, portal
+mun:|mun|||kor:문 (mun), yue:門 (mun), jpn:門 (mon), zho:门 (mén)|door (gate)||puerta||||门|門|문||||||kapı|pordo|ovi (luukku)|drzwi, brama, portal
+mun<dai:|• daimun||||gate (portal)||||||大门|大門|대문||||||||portti (veräjä)|
 mungus:|mungus|||tel:ముంగిస (muṅgisa), mar:मुंगूस (muṅgūs), eng:mongoose, spa:mangosta, por:mangusto, fra:mangouste, rus:мангу́ст (mangúst), jpn:マングース (mangūsu)|mongoose||mangosta||||||||||||||mangusti|mangusta
 mur:|mur|||fra:mur, spa:por:muro + deu:Mauer, pol:mur|wall (structure for delimitation)|mur|muro (muralha)|muro (muralha)|стена (вал)|جِدَار‎|墙壁|壁||tường|दीवार|দেওয়াল|dinding|kuta|duvar|vando|seinä (muuri)|mur, ściana
 mur.kaguj:|murkagujə||||wallpaper|papier peint|papel tapiz|papel de parede|обои||壁纸 (墙纸)|壁紙|벽지||दीवारी-कागज||||duvar kâğıdı|tapeto|tapetti|tapeta
@@ -2997,16 +2996,14 @@ oranj:|oranjə|biu||eng:orange, spa:naranja, por:laranja, hin:नारंगी
 oranj:i|oranji|rang|||orange (orange-colored)|orange (couleur)|anaranjado|alaranjado|оранжевый||橙色|オレンジ色の||||||||oranĝa|oranssi|pomarańczowy
 orgazm:|orgazmə|||eng:orgasm, spa:por:orgasmo, fra:may:orgasme, rus:оргазм (orgazm), tur:orgazm, hin:ओगाज़्म (ogāzma), jpn:オーガズム (ōgazumu), kor:오르가슴 (oreugaseum)|orgasm||orgasmo||||||||||||||orgasmi|orgazm
 orkid:|orkidə|biu|Orchidaceae|eng:orchid, spa:por:orquídea, rus:орхидея (orhideya), hin:ऑर्किड (orkid), ben:অর্কিড (arkiḍa)|orchid|orchidée|orquídea|orquídea|орхидея||兰花|ラン|||ऑर्किड|||||||storczyk (orchidea)
-orom:i|oromi||||Oromo (an Ethiopian ethnic group and language)||oromo||||||||||||||oromo (etiopialainen kansa ja kieli)|oromo
+orom:|oromə||||Oromo (an Ethiopian ethnic group and language)||oromo||||||||||||||oromo (etiopialainen kansa ja kieli)|oromo
 orom:ia|Oromia|dex|||Oromia||Oromía||||||||||||||Oromia|Oromia
-ort:a|orta||||straighten||enderezar (poner recto)||||||||||||||suoristaa (ojentaa)|wprostowywać (wyprostować)
-ort:i|orti|||eng:fra:ortho-, spa:por:orto-, rus:орто- (orto-)|straight|droit (rectiligne)|recto|reto|прямой||直|まっすぐな|||सीधा|||||rekta|suora|prosty
+ort:|ortə|||eng:fra:ortho-, spa:por:orto-, rus:орто- (orto-)|straight|droit (rectiligne)|recto|reto|прямой||直|まっすぐな|||सीधा|||||rekta|suora|prosty
 ort.gon:|ortəgon||||right angle||ángulo recto||||||||||||||suorakulma (oikokulma)|kąt prosty
 ort.gon:i|ortəgoni||||orthogonal (perpendicular)|orthogonal|ortogonal|ortogonal|ортогона́льный||||||||||||suorakulmainen|prostopadły
 oselot:|oselotə|biu|Leopardus pardalis|nah:tlālocēlōtl, eng:ocelot, spa:por:ocelote, rus:оцелот (ocelot), tur:oselo, ara:أصلوت ('aslut), hin:ऑसेलॉट (ŏsēlŏṭa), jpn:オセロット (oserotto)|ocelot|ocelot|ocelote|jaguatirica (ocelote)|оцелот||虎貓|オセロット|||ऑसेलॉट|||oselo||||ocelot
 osidian:|osidian|||eng:may:obsidian, spa:por:obsidiana, ita:ossidiana, rus:обсидиан (obsidian), swa:obsidiyen, hin:ऑब्सिडियन (obsidiyan)|obsidian|obsidienne|obsidiana|obsidiana|обсидиан||黑曜岩|黒曜石||||||||||obsydian
 oskop:|oskopə|||eng:fra:-scope, spa:por:-scopio, rus:-скоп (skop), jpn:スコープ (sukōpu), hin:स्कोप (-skop), may:tur:-skop|scope (viewer)||||||||||||||||katselulaite (skooppi)|
-oskur:i|oskuri|||eng:obscure, spa:oscuro, por:escuro, fra:obscur|dark (dim)||oscuro||||||||||||||pimeä (hämärä)|ciemny, słabo oświetlony
 osm.em:|osmem|kimeme 076|Os|eng:osmium, fra:osmium, spa:osmio, por:ósmio, rus:осмий, jpn:オスミウム, kor:오스뮴, vie:osimi, hin:अस्मियम, ben:অসমিয়াম, may:osmium, swa:osmi, ara: ازميوم|osmium|osmium|osmio|ósmio|осмий|ازميوم|锇|オスミウム|오스뮴|osimi, osmi|अस्मियम|অসমিয়াম|osmium|osmi|osmiyum|osmio|osmium|osm
 osman:|osman||||Ottoman||otomana||||||||||||||osmani (ottomaani)|Turek osmański
 osman:i imper:ia|Osmani Imperia||||Ottoman Empire||Imperio otomano||||||||||||||Osmanien valtakunta|Imperium Osmańskie
@@ -4417,6 +4414,7 @@ xak:|xakə|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx)
 xakal:|xakal|biu||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
 xal:|xal|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)||bufanda (chal)|||||||||||||koltuko|huivi (šaali)|szal, szalik
 xalk:|xalkə|||eng:scale, fra:échelle, hin:शल्क (shalka)|scale (flake)|échelle|escama|escama|чешуя||鳞|うろこ|||शल्क||sisik|gamba||||szala 
+xam:|xam|||hin:श्याम (śyām) + zho:暗 (àn), yue:暗 (am3), jpn:暗 (an), kor:암 (am), vie:ám|dark (dim)|obscur (sombre, foncé)|oscuro|escuro|тёмный||暗 (黑暗)|暗い|||अंधेरा (श्याम )|আঁধার|||||tumma (hämärä, pimeä)|ciemny, słabo oświetlony
 xam.an:|xaman|||eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)|shaman||chamán (brujo, hechicero)||шаман|||シャーマン|||||dukun (pawang, shaman)|||ŝamano|šamaani|szaman
 xampan:|Xampan|regia|||Champagne|Champagne|Champaña|Champagne|Шампань|||香槟|シャンパーニュ|||||||||Champagne
 xampan: uin:|Xampan vin|alkohol|||champagne|Champagner|champagne|champaña|champanhe|шампанское|||||||||||ĉampano|samppanja
@@ -4452,6 +4450,9 @@ xeng:|xeng|||zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), 
 xeng:a|xenga||||win (triumph, succeed, accomplish)||gañar (triunfar, lograr, desrotar)||победить|||||||||||venki|voittaa (kukistaa)|zwyciężyć, wygrać
 xenon:|xenon|kimeme 054|Xe|eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون|xenon|xénon|xenón|xénon|ксенон|إكسينون|氙|キセノン|크세논|xenon|ज़ेनान|জেনন|xenon|zenoni|ksenon|ksenono|ksenon|ksenon
 xens:|xensə|||jpn:先生 (sensei), may:sinse, zho:先生 (xiānshēng), eng:sensei|master (sensei)||maestro (profesor)|||||||||||||||mistrz (sensei)
+xer:|xerə|||alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)|saw|scie|sierra|serra|пила|مِنْشَار|锯子|のこぎり|톱|cưa|आरा|করাত|gergaji|msumeno|testere|segilo|saha|piła
+xer.fun:|xerəfun||||sawdust|sciure|serrín|serragem|опилки||锯末|木屑||mùn cưa||||||segaĵo|sahanpuru (sahajauho)|
+xer.kan:|xerəkan||||sawmill|scierie|aserradero|serraría|лесопилка||||||||||||sahalaitos|tartak
 xibai:|xibai|||zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|failure (loss, flop, miss, defeat)|échec|derrota (fracaso)||||失败 (击败)|失敗 (負け)||||||||malsukceso|epäonnistuminen|porażka (niepowodzenie, klapa, przegrana, strata, porażka)
 xibai:|xibai||||loss (failure, miss)|||||||||||||||||przegrana (strata, porażka)
 xibai:a|xibaya||||lose (fail, miss, be defeated)||perder (fallar)||проиграть (провалиться)||输|負ける|||असफल होना||gagal (kalah dalam)|kushindwa (kufeli)|başarısız olmak||hävitä (kärsiä tappio)|przegrać, przegrywać
@@ -4568,6 +4569,5 @@ zuk.med:i|zukəmedi||||interethnic||interétnica||межэтнический||||
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurud:|zumurudə|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
-|||||saw|scie|sierra|serra|пила||锯子|のこぎり||||||||||piła
 |||||shore (bank, edge)|bord (rive)|orilla (ribera)|margem|||岸|岸|||तट||tebing|||||wybrzeże (brzeg, krawędź)
 |||||fat (grease)||grasa|||||||||||||graso|rasva (öljy)|tłuszcz
