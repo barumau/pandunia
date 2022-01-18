@@ -35,10 +35,6 @@ agr.er:|agrer||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolni
 agr.istan:|agristan||||countryside||campo||||||||||||||maaseutu|wieś, tereny wiejskie
 agr.istan:i|agristani||||rural (rustic)||rural (rústico)||||||||||||||maalais-|wiejski, rustykalny
 agr.nom:ia|agrənomia||||agronomy|agronomie|agronomía|agronomia|агрономия|عِلْم الزِرَاعَة‎|农学|農学|농학|nông học|||||agronomi|agronomio|agronomia (maatalous)|agronomia
-agres:|agres|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)|agression (attaque)|ataque|ataque|нападение (атака, агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
-agres:a|agresa||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
-agres.er:|agreser||||aggressor|agresseur|agresor|agressor|агрессор||侵略者||||||||||hyökkääjä|
-agres.iu:i|agresivi||||aggressive|agressif|agresivo|||||||||||||agresema|hyökkäävä (aggressiivinen)|agresywny
 ah:|ahə|||rus:ага (aha),kor: 아하 (aha),eng: uh-huh,pol:aha + ara: آه (ʾāh)|understand (realize)|comprendre (réaliser)|entender (comprender)|||||||||||||kompreni|oivaltaa (tajuta)|rozumieć,pojmować
 ai:|ai|||spa:ay, por:ai, fra:aïe, zho:哎 (ai), kor:아야 (aya), fas:(ây), rus:ай (ay)|ouch (ow, alas)|aïe!|ay!|ai!||||||||||||aj (alas)|ai! (au!)|aj!, ał!
 ainstain.em:|ainstainem|kimeme 099|Es|eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم|einsteinium|einsteinium|einsteinium|einstânio|эйнштейний|انيشتنيوم|锿|アインスタイニウム|아인시타이늄|ensteni|आइन्स्टाइनियम|আইনস্টাইনিয়াম|einsteinium|einsteni|eınsteınyum|ejnŝtejnio|einsteinium|einstein
@@ -225,9 +221,7 @@ astr.nom.er:|astrənomer||||astronomer|astronome|astrónomo|astrónomo|астр�
 at:|atə|||por:ato,eng:act,fra:acte,spa:acto,rus:акт (akt)|act (deed)|acte|acto|ato|действие (акт)|عمل|作为 (行为)|行為|||||tindakan (perbuatan)|kitendo||ago|teko (toimenpide,akti)|
 at.er:|• ater|||eng:actor,-ator,fra:-ateur,spa:por:-ador|agent (doer,actor)|agent (faiseur)|agente|agente|деятель||||||||||fail|aganto|tekijä (toimija)|
 at.ion|• ation||||action|action|acción|ação|действие (акция)||行动|行動|||||aksi||amel|agado|toiminta|
-at.ion:|ation||||action|action|acción|ação|действие (акция)||行动|行動|||||aksi||amel|agado|toiminta|
-at.iu:|• ativə||||active|actif|activo|ativo|активный (деятельный)||活性|活動的|||||||aktif|agema|toimelias (aktiivinen)|
-at.iu:a|ativa||||activate (enable, turn on, trigger)|activer (allumer, mettre en marche, déclencher)|||||||||||||||panna toimintaan|aktywować (włączyć, uruchomić)
+at.iu:|• ativə||||active (working; activate, enable, turn on, trigger)|actif (activer, allumer, mettre en marche)|activo|ativo|активный (деятельный)||活性|活動的|||||||aktif|agema|toimelias (aktiivinen; aktivoida, panna käyntiin tai päälle)|aktywować (włączyć, uruchomić)
 at.iu.at.e|• ativatə||||activate (turn on)|||||||||||||||||
 at.iu<n:|• ənativə||||off (deactivated,disabled,inactive)||desactivado|inativo|||||||||||||epäaktiivinen (pois toiminnasta)|zdeaktywowany (wyłączony,zatrzymany)
 at.ur:|• aturə||||work (product)|œuvre|obra|obra|труд||作品|作品|작품|tác phẩm|||||eser|verko (verkaĵo)|teos (tuote)|
@@ -376,8 +370,8 @@ bek.er:|beker||||baker|boulanger|panadero|padeiro|хлебопёк (пекарь
 bek.fan:|bekəfan||||terracotta|terre cuite|terracota|terracota|терракота||陶瓦|テラコッタ||||||||||terakota
 bek.kan:|bekəkan||||bakery (bakehouse)||panadería||пекарня (булочная)|||パン屋 (ベーカリー)||||||||bakejo|leipomo|piekarnia
 bel:|bel|unomete|B||bel (unit)||belio||||||||||||||beli (B)|bel
-bel:|bel|||fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), fra:pelle|shovel (spade, scoop)|pelle|pala|pá|лопата||铲|シャベル (スコップ)|||||||||lapio|łopata (szpadel)
 belarus:|Belarus|dex|BY||Belarus||Belarús|||||||||||||Belorusio|Valkovenäjä|Białoruś
+belc:|belcə|||hin:बेलचा (belcā), ben:বেলচা (bēlacā), fas: بیل‎ (bil), tur:bel + fra:pelle|shovel (spade, scoop)|pelle|pala|pá|лопата||铲|シャベル (スコップ)|||||||||lapio|łopata (szpadel)
 belg:ia|Belgia|dex|BE||Belgium||Bélgica|||||||||||||Belgio|Belgia|Belgia
 beliz:|Belizə|dex|BZ||Belize||Belice|||||||||||||Beliceo|Belize|Belize
 ben:|ben|||ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|child (offspring)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek
@@ -572,7 +566,6 @@ ceres.em:|ceresem|kimeme 058|Ce|eng:cerium, fra:cérium, spa:cerio, por:cério, 
 ceriz:|cerizə|pal||eng:cherry, fra:cerise, spa:cereza, por:cereja, rus:черешня (čerešnya), ara:(karaz), tur:kiraz, hin:गिलास (gilās), ben:চেরি  (ceri), may:ceri, jpn:チェリー (cherī), kor:체리 (cheri)|cherry|cerise|cereza|cereja|черешня||||||गिलास|চেরি|||||kirsikka|wiśnia (czereśnia)
 cernagora:|Cernagora|dex|ME||Montenegro||Montenegro||||||||||||||Montenegro|Czarnogóra
 ces.em:|cesem|kimeme 055|Cs|eng:caesium, fra:césium, spa:cesio, por:césio, rus:цезий, zho:铯 (sè), jpn:セシウム, kor:세슘, vie:xezi, hin:सीज़ियम, ben:সিজিয়াম, may:sesium, swa:sizi, ara: سيزيوم|caesium|césium|cesio|césio|цезий|سيزيوم|铯|セシウム|세슘|xezi, xêzi|सीज़ियम|সিজিয়াম|sesium|sizi|sezyum|cezio|cesium|cez
-ces.em:|cesem|yum 055|Cs|eng:caesium,fra:césium,spa:cesio,por:césio,rus:цезий,zho:铯 (sè),jpn:セシウム,kor:세슘,vie:xezi,hin:सीज़ियम,ben:সিজিয়াম,may:sesium,swa:sizi,ara: سيزيوم|caesium|césium|cesio|césio|цезий|سيزيوم|铯|セシウム|세슘|xezi,xêzi|सीज़ियम|সিজিয়াম|sesium|sizi|sezyum|cezio|cesium|cez
 ces<pre:|• precesə||||precede (go before)|précéder|preceder (anteceder)|preceder (anteceder)|предшествовать|||||||||||antaŭi|edeltää (mennä edellä)|
 ces<pro:|• procesə||||process (proceed,go forward)||||||||||||||||edetä (mennä eteenpäin)|
 ces<pro.or:|• procesor||||processor||||||||||||||||prosessori|
@@ -730,12 +723,12 @@ desen:|desen|||eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hi
 detal:|detal|||eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|detail||detalle|||||||||||||detalo|yksityiskohta (detalji)|detal, szczegół
 deu:|deu|||por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|god (deity)|dieu|dios|deus|бог|إِلٰه|神|神|||देवता||dewa (tuhan)|mungu||dio|jumala|bóg, bóstwo
 deu:i|• devi||||divine (godly)||divino|||||||||||||dia|jumalallinen|boski
-deu.ist<dus:ia|• dusdevistia||||dystheism (maltheism)||||||||||||||||dysteismi (usko jumalan pahuuteen)|
 deu.ism:|• devismə||||theism||teísmo||||||||||||||teismi (jumalusko)|teizm
 deu.ism<dus:|• dusdevismə||||dystheism (maltheism)||||||||||||||||dysteismi (usko jumalan pahuuteen)|
 deu.ism<pan:|• pandevismə||||pantheism||panteísmo||||||||||||||monijumalisuus (panteismi)|panteizm
 deu.ism<poli:|• polidevismə||||polytheism||politeísmo||||||||||||||polyteismi (monijumalisuus)|politeizm
 deu.ist:|• devistə||||theist||teísta||||||||||||||teisti|teistyczny
+deu.ist<dus:ia|• dusdevistia||||dystheism (maltheism)||||||||||||||||dysteismi (usko jumalan pahuuteen)|
 deu.krat:ia|• deukratiə||||theocracy||teocracia|||||||||||||teokratio|teokratia|teokracja
 deu.loj:ia|• deulojiə||||theology||teología|||||||||||||teologio|teologia|teologia
 deu.sag:|deusagə||||myth (divine story)||mito (cuento divino)|||||||||||||mito|jumaltaru (myytti)|mit, boska opowieść
@@ -744,8 +737,11 @@ deu<un.ism:|• unədevismə||||monotheism||monoteismo||||||||||||||monoteismi (
 deu~nagr:i|devənagri||||Devanagari alphabet|dévanagari|devanágari|devanágari|деванагари||天城文|デーヴァナーガリー|데바나가리||देवनागरी|দেবনাগরী|||||devanagari|dewanagari
 dex:|dex|||hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|country (land, state)||país (nación, estado, terra)||||||||देश|দেশ||||lando|maa (valtio)|kraj, ziemia
 dex.jan:|dexəjan||||citizen||ciudadano||||公民|市民|||||||||kansalainen (valtion asukas)|obywatel
+dex<ex:|• exdex||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
+dex<ex:i|• exdexi||||foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
 dik:|dikə|||zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích + ben:দিকে (dike) + eng:indicate, fra:indiquer, spa:por:indicar|target (aim, objective)|objectif (cible)|objetivo|objetivo|цель||目的 (目标)|標的 (ターゲット)|목표 (표적)|mục tiêu (đích)||||||celo|maali (maalitaulu, kohde)|cel
 dik:a|dika||||aim (point)|viser|apuntar|mirar (apontar)|целиться||瞄准|狙う|||||membidik|||celi|osoittaa (tähdätä)|celować
+dik<in:a|indika||||indicate (point into)||||||||||||||||osoittaa (näyttää)|
 din:|din|||ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|religion (worship)|religion|religión|religião|религия (вера)|دين‎|宗教|宗教|종교|tôn giáo|धर्म (दीन)|ধর্ম (দীন)|agama (din)|dini|din (inanç)|religio|uskonto|religia, wyznanie
 din:i|dini||||religious||religioso|||||||||||||religia|uskonnollinen|religijny
 din.guru:|dinguru*||||priest (cleric)||sacerdote (clérigo, eclesiástico)|||||||||||||pastro|pappi|ksiądz, kleryk, kaznodzieja
@@ -757,7 +753,6 @@ dione:|Dionə|planete 6 lun 4|||Dione||||||||||||||||Dione|
 dior.it:|dioritə|||eng:fra:diorite, spa:diorita, rus:диорит (diorit), tur:diyorit, ara:ديوريت (dayurit), hin:डायोराइट (dāyorait), vie:may:diorit|diorite|diorite|diorita|diorito|диорит||闪长岩|閃緑岩||||||||||dioryt
 dis:|disə||||disperse (spread out,scatter; sparse)||dispersar (esparcir,desmontar; escaso,disperso,ralo)|||||散らす||||||||disigi|hajauttaa|rozproszyć,rozpraszać
 disk:|diskə|||eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|disc (disk)|disque|disco|disco|диск|قُرْص|圆盘|ディスク (円盤)|디스크 (원반)|đĩa|डिस्क|ডিস্ক|cakram||disk|disko|kiekko (levy)|dysk
-disk:|diskə|||eng:tur:disk,fra:disque,spa:por:disco,rus:диск (disk),hin:डिस्क (ḍisk),ben:ডিস্ক (ḑisk),jpn:ディスク (disuku),kor:디스크 (diseukeu)|disc (disk)|disque|disco|disco|диск|قُرْص|圆盘|ディスク (円盤)|디스크 (원반)|đĩa|डिस्क|ডিস্ক|cakram||disk|disko|kiekko (levy)|dysk
 dispros.em:|disprosem|kimeme 066|Dy|eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم|dysprosium|dysprosium|disprosio|disprósio|диспрозий|ديسبروسيوم|镝|ジスプロシウム|디스프로슘|đysprosi, đisprozi|डिस्प्रोसियम|ডিসপ্রোসিয়াম|disprosium|disprosi|disprosyum|disprozio|dysprosium|dysproz
 dit:|ditə||||dictate|dicter|dictar|ditar|диктовать||||||||||||sanella|dyktować
 dit.at.er|• ditater|||por:ditador,ita:dittatore,end:dictator,fra:dictateur,spa:dictador,deu:may:diktator,rus:диктатор (diktator),tur:diktatör,ara:(diktatūr)|dictator|dictateur|dictador|ditador|диктатор|دكتاتور|独裁者|独裁者|독재자||तानाशाह (अधिनायक)|একনায়ক|diktator|||diktatoro|diktaattori|dyktator
@@ -877,8 +872,8 @@ dut.an:i|dutani||||doubtful (suspicious, disbelieving)||||||||||||||||epäilevä
 duu:|duvə|||ara: دُعَاء‏  (duʿāʾ), hin:दुआ (duā), swa:tur:dua, may:doa + zho:祈祷 (dǎo), jpn:禱 (tō), kor:도 (do)|prayer||rezo (oración)||||祈祷|祈祷|기도|||||||preĝo|rukous|modlitwa
 duu:a|duva||||pray (beg, entreat, implore)||rezar (orar)|||||||cầu nguyện||||||preĝi|rukoilla (anoa)|pomodlić się, modlić się
 dux:|dux|||fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|shower|douche|ducha|ducha|душ|دوش|淋浴|シャワー|샤워|vòi hoa sen|शावर||dus|shawaa|duş|duŝo|suihku|prysznic
-e|ə||||E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E
-e:|ə|||fra:et, por:e, spa:y;e, zho:和 (hé)|and|et|y|e|||和|||||||||kaj|ja (sekä)|i, oraz
+e|E||||E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E
+e:|e|||fra:et, por:e, spa:y;e, zho:和 (hé)|and|et|y|e|||和|||||||||kaj|ja (sekä)|i, oraz
 e1|-ə||||suffix for derived nouns|suffixe pour dériver les noms|sufijo para sustantivos|||||||||||||-o (-aĵo)|pääte: substantiivi|przyrostek dla (wyniku) działania
 eglis:|eglis|||eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise|church||iglesia|||||||||||||preĝejo|kirkko|kościół
 eh:|eh|||fra:por:hein, jpn:e|huh? (pardon?)||cómo? (eh?)|||||||||||||ĉu?|häh?|hę?, co?, pardon?
@@ -894,12 +889,11 @@ eletr:|eletrə|||por:eletricidade, ita:elettricità, eng:electricity, rus:эле
 eletr:i|• eletri||||electric||eléctrico|||||||||||||elektra|sähköinen|elektryczny
 eletr. kar:|• eletre kar||||electric car||||||||||||||||sähköauto|
 eletr.ik:|• eletrikə||||electric||eléctrico|||||||||||||elektra|sähköinen|elektryczny
-eletr.lin:|eletrəlin||||cable (wire, line)||cable||провод (кабель)||电缆 (电线)|電線|||||||||sähköjohto|kabel (linia)
 eletr.loj:ia|• eletrelojia||||electronics|électronique|electrónica|eletrônica|электроника||电子学|電子工学|전자공학|điện tử học|इलेक्ट्रॉनिक्स|ইলেকট্রনিক্স|elektronika|elektroniki|elektronik|elektroniko|sähköoppi (elektroniikka)|elektronika
 eletr.on|• eletron||||electron||electrón|||||||||||||elektrono|elektroni|elektron
-eletr.on:|• eletron||||electron|||||||||||||||||
-eletr.post:e (e-post:e)|eletrəposte (e-poste)||||e-mail||email (correo electrónico)||||||||||||||sähköposti|poczta elektroniczna
-eletr.rad:|eletrəradə||||lightning bolt||relámpago||молния||闪电|雷 (稲妻)|||||||||salama|piorun (grom)
+eletr~lin:|eletrəlin||||cable (wire, line)||cable||провод (кабель)||电缆 (电线)|電線|||||||||sähköjohto|kabel (linia)
+eletr~post:e (e-post:e)|eletrəposte (e-poste)||||e-mail||email (correo electrónico)||||||||||||||sähköposti|poczta elektroniczna
+eletr~rad:|eletrəradə||||lightning bolt||relámpago||молния||闪电|雷 (稲妻)|||||||||salama|piorun (grom)
 elf:|elfə|||eng:elf,spa:por:elfo,fra:elfe,rus:эльф (el’f),jpn:エルフ (erufu),kor:엘프 (elpeu)|elf|elfe|elfo|elfo|эльф|آلْف|精灵|妖精 (エルフ)|엘프 (요정)||एल्फ़||||||haltia (tonttu)|
 em:|em|||eng:-eme, spa:por:-ema, fra:-ème, rus:-ема (-ema), may:-em|element (the simplest unit)|élément (unité fondamentale)|elemento (unidad fundamental)|elemento|элемент||||||तत्व||||element|elemento (ero)|elementti (yksinkertaisin yksikkö)|pierwiastek (jednostki podstawowej)
 emoj:|emojə|||jpn:絵文字 (emoji), kor:에모지 (emoji), eng:fra:por:tur:emoji, rus:эмодзи (emodzi), hin:इमोजी (imojī)|emoji (smiley, emoticon)|émoticône (emoji)|emoticón (emoyi)|emoticon (emoji)|смайлик (эмодзи)||绘文字|絵文字|에모지||इमोजी||||emoji||hymiö (emoji)|emoji (emotkon)
@@ -984,32 +978,15 @@ europa:|Europa|planete 5 lun 2|||Europa||||||||||||||||Europa-kuu|
 ex:|ex|||eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|outside (exterior)|extérieur|fuera (exterior)|exterior|вне||外|外|||बाहरी||luar (pinggir, tepi)|nje|dış|ekstero|ulkopuoli|zęwnętrzny
 ex:a|exa||||oust (expel, exclude, except, save)||expulsar (exceptuar, excepto)||выгнать (исключить, кроме)|||追出 (退ける, 除いて)||||||||krom (escepti)|poistaa (paitsi, poislukien)|wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)
 ex:i|exi||||outer (external)||exterior|||||||||||||ekstera|ulko- (ulkoinen)|zewnętrzny
-ex.dex:|exdex||||foreign country||país extranjero|||||||||||||fremda lando|ulkomaa|zagranica
-ex.dex:i|exdexi||||foreign||extranjero||||||||||||||ulkomaalainen|zagraniczny
-ex.iam:|exyam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
 ex.jan:|exəjan||||outsider||||посторонний (аутсайдер)||外人 (局外人)|部外者 (アウトサイダー)|||||||||ulkopuolinen|
-ex.jen:i|exəjeni||||exogenous||exógeno|exógeno|экзогенный||||||||||||ulkosyntyinen|
-ex.kau:a|exkava||||excavate (dig out)|excaver|excavar|escavar|||||||||||||kaivaa esiin|
-ex.klus:a|exklusa||||exclude (keep out)|exclure|excluir|excluir|исключить|||||||||||ekskludi|sulkea pois|
-ex.klus.iv:i|exklusivi||||exclusive|exclusif|exclusivo|exclusivo|исключительный (эксклюзивный)||||||||||||poissulkeva (eksklusiivinen)|
-ex.mis:a|exmisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
-ex.nam:|exnam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
 ex.per.aj:|experajə||||experience|||||||||||||||||
-ex.per.men:|expermen||||experiment|||||||||||||||||
-ex.planet:|explanetə||||exoplanet|exoplanète|exoplaneta (planeta extrasolar)|exoplaneta (planeta extrassolar)|экзопланета (внесолнечная планета)||系外行星|系外惑星|외계 행성|ngoại hành tinh|||||güneş dışı gezegen|ekzoplanedo|eksoplaneetta|egzoplaneta
-ex.ploz:|explozə|||eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|explosion|explosion|explosión|explosão|взрыв||爆炸|爆発|폭발|nổ|विस्फोट|বিস্ফোরণ||ledakan (letupan, eksplosi)|patlama|eksplodo|räjähdys|wybuch (eksplozja)
-ex.ploz:u|explozu||||explode|exploser (détoner)|explosionar|explodir|взрываться|||||||||||eksplodi|räjähtää|
-ex.poz:a|expoza||||expose (reveal)|exposer|exponer (revelar)|expor (revelar)|||||||||||||ottaa esiin (paljastaa)|
-ex.tens:a|extensa||||extend (stretch out)||||||||||||||||venyttää (pingottaa)|
+ex.per.men:|• expermen||||experiment|||||||||||||||||
 ex.tr:|• extrə|||deu:eng:fra:spa:por:extra,rus:экстренный (ekstrennyy),tur:ekstra|extra|supplémentaire|extra (adicional)|extra|экстренный||||||||||ekstra|aldona (ekstra)|ylimääräinen (lisä,ekstra)|
 ex.tr:i|extri||||outward (external)||||||||||||||||ulkoinen|
 ex.tr:o|extro||||outside|||||||||||||||ekster|ulkona (ulkopuolella)|
 ex.tr:u|extru||||exit (get out)||salir (egresar)|sair|||||||||||||poistua (mennä ulos)|
 ex.tr.an:|• extran||||strange (foreign)||||||||||||||||vieras (ulkopuolinen)|
 ex.tr.im:|• extrimə||||extreme (outermost)|||||||||||||||||
-ex.tr.uers:i|extrəversi||||extrovert (outgoing)||||экстраверт||外向的|外向的な|||||||||ulospäinsuuntautunut (ekstrovertti)|
-ex.trat:a|extrata||||extract (draw out)|extraire|extraer|extrair|извлекать||||||||||||vetää ulos|
-ex.vid:i|exvidi||||evident (apparent, obvious)|évident|evidente|evidente|очевидный||||||||||bariz|evidenta|ilmeinen (silminnähtävä)|
 f|F||||F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F|F
 f:a|fa|||fra:faire,por:fazer,ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya|do (make)|faire|hacer|fazer|делать|فَعَلَ|作|する|하다|làm|करना|করা|buat|kufanya|yapmak|fari|tehdä (toimia)|zrobić (stworzyć,wykreować)
 fad:a|fada|||zho:发 (fā), yue:發 (faat3), wuu:發 (faq4), jpn:発 (hatsu), vie:phát|supply (dispense, issue, put out)||suministrar (dar, proveer, emitir)||||||||||||||jakaa (jaella)|dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)
@@ -1068,7 +1045,7 @@ fen:u|fenu||||split (fall apart)||partir (dividirse)||||||||||||||jakautua (hajo
 fen.don:a|fendona||||contribute||contribuir||||||||||||||osallistua (tehdä osansa)|wnieć wkład (przyczynić się)
 fen.kat:|fenkatə||||analysis (dissection)|analyse|análisis (disección)|análise|анализ||分析|分析 (解析)|||विश्लेषण||||analiz|analizo|analyysi|analiza
 fen.kat:a|fenkata||||analyse (dissect, parse)|analyser|analizar (disecar)||анализировать||分析|見つめ直す||||||||analizi|analysoida|analizować
-fer:|ferə|kimeme 026|Fe|spa:hierro, por:ferro, fra:fer, may:ferum, swa:feri|iron|fer|hierro|ferro|железо|حديد|铁|鉄|철|sắt|लोहा|আয়রন|besi (ferum)|chuma (feri)|demir|fero|rauta|żelazo
+fer:|fer|kimeme 026|Fe|spa:hierro, por:ferro, fra:fer, may:ferum, swa:feri|iron|fer|hierro|ferro|железо|حديد|铁|鉄|철|sắt|लोहा|আয়রন|besi (ferum)|chuma (feri)|demir|fero|rauta|żelazo
 fer:|ferə||||deem (consider,regard,assign some quality to)||||||||||||||||pitää jnkn (suhtautua)|
 fer<dis:|• disferə||||differ (be different)||||||||||||||||erottaa (pitää erilaisena)|
 fer<in:|• inferə||||infer|inférer|inferir|inferir|||||||||||||päätyä johtopäätökseen|
@@ -1078,7 +1055,6 @@ ferm.em:|fermem|kimeme 100|Fm|eng:fermium, fra:fermium, spa:fermio, por:férmio,
 fest:|festə|||por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|party (celebration, festival)||celebración (fiesta)|||||||||||||festo|juhlat|przyjęcie, święto, festiwal
 fest:a|festa||||celebrate (party)||celebrar (festejar)|||||||||||||festi|juhlia|świętować, imprezować
 fest.den:|festəden||||holiday||día festivo (feriado)||||||||||||||juhlapäivä|święto
-fet:|fetə|||eng:fat, deu:Fett, swa:mafuta, rwa:mavuta, kon:mafuta|fat (grease)||grasa|||||||||||||graso|rasva (öljy)|tłuszcz
 fet:|fetə|||fra:fait,por:fato,eng:fact,deu:Fakt,rus:факт (fakt),fas:(fâkt)|fact (concrete deed)|fait|hecho|fato (facto)|факт||事实|事実||||||||fakto|fakta (teko)|czyn,uczynek
 fet:i|feti||||fatty (greasy)||graso (adiposo)|||||||||||||grasa|rasvainen|tłusty
 fet.er|• feter||||factor|faiseur (facteur)|factor|fator (fazedor)|фактор||||||||||faktör|||
@@ -1157,8 +1133,7 @@ font:|fontə|||por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, e
 font.kalam:|fontəkalam||||fountain pen|stylo-plume|estilógrafo|caneta de tinta permanente|авторучка||钢笔||||||||||mustekynä|
 for:a|fora|||fra:forer, por:furar, eng:perforate, spa:perforar|drill (bore, perforate)|forer (percer)|taladrar (perforar)|furar (perfurar)|сверлить (бурить)||钻孔|||||||||taladri|porata|wiercić, borować
 fork:|forkə|||eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|fork||tenedor|||||||||||||forko|haarukka|widelec
-form:|formə|||eng:form, spa:por:forma, fra:forme, deu:Form,rus:форма (forma)|form (shape,morph)||forma (figura,morfo)|||||||||||||formo|muoto (morfi)|forma,kształt,morf
-form:|formə|||eng:deu:form,fra:forme,spa:por:forma,rus:форма (forma)|form (shape)|forme|forma (figura)|forma|форма (фигура)||形状 (形式)|||||||||formo|muoto|forma,kształt
+form:|formə|||eng:form, spa:por:forma, fra:forme, deu:Form,rus:форма (forma)|form (shape)|forme|forma (figura)|forma|форма (фигура)||形状 (形式)|||||||||formo|muoto|forma,kształt
 form:a|forma||||shape (sculpt)|former|formar|modelar|формировать|||||||||||formigi|muotoilla (muovata)|ukształtować, kształtować, urzeźbić, rzeźbić
 form.aj:|• formajə||||format (formation)|||||||||||||||||
 form.ul:|• formulə||||formula|||||||||||||||||
@@ -1254,7 +1229,7 @@ gam.ben:|gamben||||step-child||hijastro o  hijastra|enteado||||連れ子||||||||
 gam.cin:|gamcin||||parent-in-law||||||||||||||||appivanhempi|
 gam.mai:|gammai||||mother-in-law|belle-mère|suegra|sogra||||||||||||bopatrino|anoppi|
 gam.pai:|gampai||||father-in-law|beau-père|suegro|sogro||||||||||||bopatro|appi|
-gam<di:|• digamə||||divorce (unmarry)|||||||||||||||||
+gam<de:|• degamə||||divorce (unmarry)|||||||||||||||||
 gam<mon.ie|• monegamia||||monogamy|||||||||||||||||
 gam<pol.ie|• polegamia||||polygamy|||||||||||||||||
 gamb:ia|Gambia|dex|GM||Gambia||Gambia||||||||||||||Gambia|Gambia
@@ -1311,9 +1286,8 @@ gei:i|geyi|||eng:fra:spa:gay, por:guei|gay (homosexual)||gay (homosexual)|||||||
 gem:|gem|||eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|game||juego|||||||||||||ludo|peli|gra
 gem:a|gema||||play a game||jugar un juego|||||||||||||ludi|pelata|grać w grę
 gem.er:|gemer||||player (gamer)||jugador||игрок (геймер)|||||||||||ludanto|pelaaja|gracz
-gen:|genə||||be born||nacer|||||||||||||naski|syntyä|urodzić się,rodzić się
-gen:|genə|||eng:gen- + jpn:源 (gen)|beget (create,birth,breed,descend,generate,produce)||||||||||||||||tehdä (synnyttää,luoda,aiheuttaa)|
-gen:|genə|||hin:जन्म (janma),mal:ജനനം (jananaṃ),ell: γέννα (génna),eng:genesis,fra:genèse|birth||nacimiento (origen)|||||||||||||nasko|synty (syntymä)|narodziny
+gen:|genə|||ell: γέννα (génna),eng:genesis,fra:genèse + hin:जन्म (janma),mal:ജനനം (jananaṃ) + jpn:源 (gen)|birth (beget, create, breed, generate, produce)||nacimiento (origen)|||||||||||||nasko|synty (synnyttää, luoda, tuottaa)|narodziny
+gen:u|genu||||be born||nacer|||||||||||||naski|syntyä|urodzić się,rodzić się
 gen.bax:|genəbaxə||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
 gen.den:|genəden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
 gen.er:|• gener||||||||||||||||||||tekijä (luoja)|
@@ -1334,7 +1308,9 @@ gen.om:|• genomə||||genome||||||||||||||||perimä (genomi)|
 gen.tip:|genətipə||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
 gen<ex:|• exəgenə||||exogenous||exógeno|exógeno|экзогенный||||||||||||ulkosyntyinen|
 gen<ex:|• exgenə||||exogeneous||||||||||||||||ulkosyntyinen|
+gen<ex:i|• exəgeni||||exogenous||exógeno|exógeno|экзогенный||||||||||||ulkosyntyinen|
 gen<in:|• ingenə||||endogeneous|endogène|endógeno|endógeno|эндогенный||内生的||||||||||sisäsyntyinen (endogeeninen)|
+gen<in:i|injeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
 gen<mon:|• monəgenə||||monogenesis|||||||||||||||||
 gen<poli:|• poligenə||||polygenesis|||||||||||||||||
 genc:a|genca|||zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn,検査 (kensa)|examine (inspect, check)||examinar (inspeccionar)||||检查||||||||||tutkia (tarkastaa)|sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać
@@ -1387,7 +1363,6 @@ gol:a|gola||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
 golem:|golem|||heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)|golem||||||||||||||||golem|golem
 gom:|gom|||spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi|rubber||goma (caucho, hule)|||||||||||||kaŭĉuko|kumi|guma
 gon:|gonə|||eng:corner,fra:-gone,spa:por:-gono,hin:कोण (koṇ),tel:(kōnamu),swa:kona,hau:kwana|corner (angle)||esquina (rincón,ángulo)||||||||कोण|||||angulo|kulma (nurkka)|kąt
-gon:|gonə|||hin:कोण (koṇ),tel:(kōnamu),swa:kona,eng:corner,hau:kwana,fra:-gone,spa:por:-gono|corner (angle)||esquina (rincón,ángulo)||||||||कोण|||||angulo|kulma (nurkka)|kąt
 gon.metr.er:|gonmetrer||||goniometer||goniómetro (medidor de ángulos)||||||||||||||kulmamitta (goniometri)|goniometr (kątomierz)
 gon<dia.al|• diagonal||||diagonal|diagonale|diagonal|diagonal|диагональный||对角|筋交い (対角)||||||||diagonala|diagonaalinen (lävistävä)|diagonal
 goril:|gorilə|biu||eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)|gorilla|gorille|gorila|gorila|горилла|غوريلا|大猩猩|ゴリラ|고릴라|khỉ đột (gôrila)|वनमानुष (गोरिल्ला)|গরিলা|gorila|ngagi|||gorilla|goryl
@@ -1408,8 +1383,11 @@ grau:|gravə|||eng:gravel, spa:grava, fra:gravire, rus:гравий (graviy) + s
 grenada:|Grenada|dex|GD||Grenada||Granada||||||||||||||Grenada|Grenada
 grenadin: nes:ia|Grenadin nesia||||the Grenadines||Granadinas||||||||||||||Grenadiinit|Grenadyny
 gres:|gresə||||stride||||||||||||||||harpata (harppoa,käydä)|
+gres<a|agres|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)|agression (attaque)|ataque|ataque|нападение (атака, агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
 gres<a:|• agresə|||eng:deu:fra:agression,pol:agresja,rus:агрессия (agressiya),spa:agresión,por:agressão,may:agresif|attack (assault,aggression,hostility)|agression (attaque)|ataque|ataque|нападение (атака,агрессия)||攻击||||आक्रमण||menarik||saldırı|atako (agreso)|käydä päälle (käydä kimppuun; päällekarkaus,aggressio)|atak (agresja,napaść)
+gres<a:a|agresa||||attack (assault)|attaquer (agresser)|||||||||||||||hyökätä (käydä päälle)|
 gres<a.er:|• agreser||||aggressor|agresseur|agresor|agressor|агрессор||侵略者||||||||||päällekävijä|
+gres<a.iu:|agresivi||||aggressive|agressif|agresivo|||||||||||||agresema|hyökkäävä (aggressiivinen)|agresywny
 gres<a.iu:|• agresivə||||aggressive|agressif|agresivo|||||||||||||agresema|päällekäyvä (aggressiivinen)|agresywny
 gres<pro:|• progresə||||progress (stride forward)||||||||||||||||edistyä (harppoa eteenpäin)|
 gres<re:|• regresə||||regress (fall back)||||||||||||||||perääntyä|
@@ -1585,6 +1563,7 @@ hol:ia|holia||||wholeness (integrity)||totalidad (integridad)|||||||||||||||cał
 hol.graf:|holgraf||||hologram||holograma||||||||||||||hologrammi|hologram
 holir:|holirə|||eng:cholera, spa:por:cólera, fra:choléra, rus:холера (holera), tur:kolera, ara:كُولِيرَا‎ (kōlīrā), hin:कॉलरा (kŏlrā), zho:虎列拉 (hǔlièlā), jpn:コレラ (korera)|cholera||cólera||||||||||||||kolera|cholera
 holm.em:|holmem|kimeme 067|Ho|eng:holmium, fra:holmium, spa:holmio, por:hólmio, rus:гольмий, zho:钬 (huǒ), jpn:ホルミウム, kor:홀뮴, vie:honmi, hin:होल्मियम, ben:হলমিয়াম, may:holmium, swa:homi, ara: هلميوم|holmium|holmium|holmio|hólmio|гольмий|هلميوم|钬|ホルミウム|홀뮴|holmi, honmi|होल्मियम|হলমিয়াম|holmium|homi|holmiyum|holmio|holmium|holm
+homo:|homo|bio|Homo Sapiens||homo sapiens||||||||||||||||homo sapiens|
 hong: gong:|Hong Gong|dex|HK||Hong Kong, SAR China||Hong Kong||||||||||||||Hong Kong|Hong Kong
 hor:|hor|||fra:heure, eng:hour, spa:por:hora|hour|heure|hora|hora|час|سَاعَة|小时|時 (１時間)|시|giờ|घंटा|ঘন্টা|jam|saa|saat|horo|tunti|godzina
 hor.log.er:|horloger|||lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:relógio, may:arloji|clock (watch)|horloge|reloj|relógio|часы|ساعة‎|钟|時計|시계|đồng hồ|घड़ी|ঘড়ি|jam (jam dinding)|saa|saat|horloĝo|kello (ajannäyttäjä)|zegar (zegarek)
@@ -1599,19 +1578,15 @@ huk:|hukə|||eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk
 huk.krus:|hukəkrus||||swastika (hooked cross)|svastika (croix gammée)|esvástica (cruz gamada)|suástica (cruz gamada)|свастика||卍 (卐)|卍 (卐)|만자문|chữ Vạn|स्वस्तिक|স্বস্তিক|||gamalı haç|svastiko|hakaristi (svastika)|swastyka
 hulei:|hulei|biu|Vulpes vulpes|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|fox|renard|zorro|raposa|лиса|ثَعْلَب|狐狸|狐|여우|cáo|लोमड़ी|শিয়াল|rubah|thalabu|tilki|vulpo|kettu|lis
 hum:|humə||||humus (mold)|humus|humus|humo (húmus)|гумус (перегной)||||||||humus||||multa (humus)|
-hum.an:|• human||||human being||||||||||||||||ihminen (tomumaja)|
-hum.an:|insan|bio|Homo Sapiens|ara:(ʔinsan),hin:इंसान (insān),tur:insan,urd:(insān),fas:(ensān)|human being|être humain|ser humano|ser humano|человек|إِنْسَان|人类|人間|인류||मनुष्य (इंसान)|মানুষ|manusia|binadamu|insan|homo|ihminen|człowiek,istota ludzka
-hum.an:|insan di||||humane|humain|humano|humano|человечный|||||||||||humana|inhimillinen|ludzki
-hum.an:|insan haki||||human rights|droits de l'homme|derechos humanos|direitos humanos|права человека||人权|人権|인권|nhân quyền|मानव अधिकार||hak asasi manusia|haki za kibinadamu|insan hakları|homaj rajtoj|ihmisoikeudet|prawa człowieka
-hum.an:|insan jong||||mankind (humanity)||humanidad (género humano)|||||||||||||homaro|ihmiskunta|ludzkość,rodzaj ludzki
-hum.an:|insan sim di||||humanistic||humanístico||||||||||||||humanistinen|humanistyczny
-hum.an:|insan sim||||humanism|humanisme|humanismo|humanismo|гуманизм|إِنْسَانِيَّة|人文主义|ヒューマニズム (人文主義)|인문주의|nhân văn chủ nghỉa|मानवतावाद||humanisme||hümanizm|homismo|humanismi|humanizm
-hum.an:|insan sim ja||||humanist||humanista||||||||||||||humanisti|humanista
-hum.an.ism:|• humanismə||||humanism||||||||||||||||humanismi (ihmisusko)|
-hum.an.ist:|• humanistə||||humanist||||||||||||||||humanisti|
+hum.an:|• human||||human being|être humain|ser humano|ser humano|человек|إِنْسَان|人类|人間|인류||मनुष्य (इंसान)|মানুষ|manusia|binadamu|insan|homo|ihminen|człowiek,istota ludzka
+hum.an:i|• humani||||humane|humain|humano|humano|человечный|||||||||||humana|inhimillinen|ludzki
+hum.an:ia|• humania||||mankind (humanity)||humanidad (género humano)|||||||||||||homaro|ihmiskunta|ludzkość,rodzaj ludzki
+hum.an.ism:|• humanismə||||humanism|humanisme|humanismo|humanismo|гуманизм|إِنْسَانِيَّة|人文主义|ヒューマニズム (人文主義)|인문주의|nhân văn chủ nghỉa|मानवतावाद||humanisme||hümanizm|homismo|humanismi (ihmisusko)|humanizm
+hum.an.ist:|• humanistə||||humanist||humanista||||||||||||||humanisti|humanista
 hum.an.oid:|• humanoidə||||humanoid||||||||||||||||humanoidi (ihmisenkaltainen)|
 hum<ex:a|• exhuma||||exhume||||||||||||||||kaivaa mullasta (kaivaa haudasta)|
 hum<in:a|• inhuma||||bury (inter,inhume)||||||||||||||||haudata multaan|
+hum~an: hak:|human hakə||||human rights|droits de l'homme|derechos humanos|direitos humanos|права человека||人权|人権|인권|nhân quyền|मानव अधिकार||hak asasi manusia|haki za kibinadamu|insan hakları|homaj rajtoj|ihmisoikeudet|prawa człowieka
 humus:|humus|biu||ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)|chickpea||garbanzo||||||||||||||kikherne|ciecierzyca
 humus.saus:|humusəsaus||||hummus||humus||||||||||||||hummus|hummus
 hur:a|hura||||free (liberate)||liberar (soltar)|||||||||||||liberigi|vapauttaa|uwolnić, uwalniać
@@ -1646,6 +1621,7 @@ iam.fit:|yamfitə||||vegetable|légume|verdura (legumbre)|verdura (hortaliça, l
 iam.iau:|yamyau||||hunger|faim|hambre|fome|голод|جوع‎|饥饿|飢え|굶주림|đói|भूख|ক্ষুধা|lapar|njaa|açlık|malsato|nälkä|głód
 iam.kamar:|yamkamar||||dining room||comedor|||||||||||||manĝoĉambro|ruokasali|jadalnia
 iam.sukar.cau:|yamsukarcau|biu|Saccharum edule||duruka||||||||||||tebu telur|||||cukrowiec jadalny
+iam<ex:|• exyam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野餐||||||||||eväsretki (piknik)|piknik
 iang:|yang|||zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)|kind (style, sort, type)||variedad (tipo, estilo)|||||タイプ||||||||speco (tipo, stilo)|laji (tyyppi, tyyli)|rodzaj, typ, styl
 iapetus:|Yapetus|planete 6 lun 8|||Iapetus|||||||||||||||||
 iasen:|yasen|biu|Fraxinus|rus:ясень (yasen’), pol:jesion|ash tree|frêne|fresno|freixo|ясень||白蜡树|秦皮|||||||dişbudak|||jesion
@@ -1684,24 +1660,7 @@ imper.er:|imperer||||emperor||emperador||||||||||||||keisari|imperator
 imper.ist:|imperistə||||imperialist||imperialista||||||||||||||imperialisti|imperialista
 imper.ist:ia|imperistia||||imperialism||imperialismo||||||||||||||imperialismi|imperializm
 in:|in|||eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|inside (interior)||interior|||||内||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
-in:a|inda||||contain (include)||contener|||||||||||||||zawierać
-in:i|indi||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
-in.an:|inan||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
-in.dik:a|indika||||indicate (point into)||||||||||||||||osoittaa (näyttää)|
-in.it:|initə||||content||contenido||||||||||||||sisältö|treść (zawartość)
-in.jen:i|injeni||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
-in.klus:a|inklusa||||include (enclose, hold in)|inclure|incluir|incluir|включить||包括||||||||||sisällyttää (sulkea sisäänsä)|
-in.klus:o|inkluso||||including|y compris|incluido|incluindo|||||||||||||mukaan lukien|
-in.klus.iv:i|inklusivi||||inclusive|inclusif|inclusivo|inclusivo|||||||||||||kattava|
-in.list:|inlistə||||table of contents (inventory)||índice de contenidos||||||||||||||sisällysluettelo|spis treści (tabela zawartości)
-in.migr:a|inmigra||||immigrate (move in)|immigrer|inmigrar|imigrar|иммигрировать||移民 (移居)|移住する (移民する)||nhập cư|||||||muuttaa maahan|
-in.migr.an:|inmigran||||immigrant|immigrant|inmigrante|imigrante|иммигрант||移民者|移民 (移住者)||dân nhập cư|||||||maahanmuuttaja|
-in.mis:a|inmisa||||import||importar|||||||||||||||importować (zaimportować)
-in.nam:|innam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
-in.ploz:|inplozə||||implosion|implosion|implosión|imploção|имплозия||内爆||||||||||luhistuminen|implozja
-in.ploz:u|inplozu||||implode (collapse)|imploser|implosionar|implodir|взрываться вовнутрь||||||||||||luhistua (sortua sisään)|implodować
-in.pux:a|inpuxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
-in.sid:a|insida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
+in:i|ini||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
 in.tr:|intrə||||inside (interior)||||||||||||||||sisäpuoli|
 in.tr:|intrə||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
 in.tr:a|intra||||enter (insert, put in)||||||||||||||||panna sisään|
@@ -1712,13 +1671,6 @@ in.tr.aj:|intrajə|||hin:आंत्र (åntra),ben:অন্ত্র (antra)
 in.tr.spet:|intrəspetə||||introspection||||||||||||||||introspektio|
 in.tr.uers:i|intrəversi||||introvert|introverti|introvertido||интроверт||内向的|内向的な人|||||||||sisäänpäinsuuntautunut (introvertti)|
 indones:ia|Indonesia|dex|ID||Indonesia||Indonesia|||||||||||||Indonezio|Indonesia|Indonezja
-insan:|insan|biu|Homo Sapiens|ara:(ʔinsan), hin:इंसान (insān), tur:insan, urd:(insān), fas:(ensān)|human being|être humain|ser humano|ser humano|человек|إِنْسَان|人类|人間|인류||मनुष्य (इंसान)|মানুষ|manusia|binadamu|insan|homo|ihminen|człowiek, istota ludzka
-insan:i hak:|insani hakə||||human rights|droits de l'homme|derechos humanos|direitos humanos|права человека||人权|人権|인권|nhân quyền|मानव अधिकार||hak asasi manusia|haki za kibinadamu|insan hakları|homaj rajtoj|ihmisoikeudet|prawa człowieka
-insan:ia|insania||||mankind (humanity)||humanidad (género humano)|||||||||||||homaro|ihmiskunta|ludzkość, rodzaj ludzki
-insan.ik:i|insaniki||||humane|humain|humano|humano|человечный|||||||||||humana|inhimillinen|ludzki
-insan.ist:|insanistə||||humanist||humanista||||||||||||||humanisti|humanista
-insan.ist:i|insanisti||||humanistic||humanístico||||||||||||||humanistinen|humanistyczny
-insan.ist:ia|insanistia||||humanism|humanisme|humanismo|humanismo|гуманизм|إِنْسَانِيَّة|人文主义|ヒューマニズム (人文主義)|인문주의|nhân văn chủ nghỉa|मानवतावाद||humanisme||hümanizm|homismo|humanismi|humanizm
 intelig:|inteligə||||intelligence (intellect)|intelligence|inteligencia (intelecto)|inteligência (intelecto)|интеллект|||知性|||||||||äly|
 intelig.abl:|• inteligablə||||intelligible|intelligible|inteligible|inteligível|||||||||||||älyttävä (ymmärrettävä)|
 intelig.ent:|• inteligentə||||intelligent (smart)||||||||||||||||älykäs|
@@ -1730,7 +1682,6 @@ iod.em:|yodem|kimeme 053|I|eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:
 iog:|yogə|||hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|yoga||yoga||йога||瑜伽功|||||||||jogo|jooga|joga
 iog:a|yoga||||do yoga||hacer yoga||||||||||||||joogata|uprawiać jogę
 iog.ist:|yogistə||||yogi|yogi|yogui|iogui|йог||瑜伽士|ヨギ|||योगी||||||joogi|jogin (joginka)
-iog.ist:|yogistə||||yogi||yogui||||||||||||||joogi|jogin (joginka)
 iogur:|yogur|||eng:may:yogurt,fra:yogourt,spa:yogur,por:iogurte,rus:йогурт (yogurt),zho:优格 (yōugé),jpn:ヨーグルト (yōguruto),kor:요구르트 (yogureuteu),tur:yoğurt |yogurt|yaourt (yogourt)|yogur|iogurte|йогурт|لَبَن|酸奶 (优格)|ヨーグルト|요구르트|sữa chua|दही|দই|yogurt|maziwa ya mgando|yoğurt|jogurto|jogurtti|jogurt
 iohan:i fest:|yohani festə||||Saint John's Day||día de San Juan||Иванов день||||||||||||juhannus (kristillinen juhla)|dzień świętego Jana
 iok:|yokə|||eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách|yoke|joug|yugo|jugo|ярмо (иго)||轭|軛||ách|जुआ|জোয়াল|||boyunduruk|jugo|ies|jarzmo
@@ -1793,8 +1744,7 @@ janel.frem:|janelfrem||||window frame||||||窗框|||||||||fenestrokadro|ikkunank
 jang:i|jangi||||crafty (dexterous)||||||||||||||||kätevä|umiejętny (sprawny, zręczny)
 jang.er:|janger|||zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|artisan (craftsman)||artesano||||工匠 (匠人)|||||||||metiisto|artesaani (käsityöläinen)|rzemieślnik
 jangl:|janglə|||eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel|forest (woods, jungle)|forêt (jungle)|bosque (jungla, selva)|selva (floresta, jângal)|лес (джунгли)||森林|森 (森林, ジャングル)|숲 (삼림 , 정글)|rừng|जंगल (वन)|বন (জঙ্গল)|hutan (jenggela)|msitu|orman (cengel)|arbaro|metsä (viidakko)|las, dżungla, zagajnik
-jar:|jar|||eng:jar, ara:(jara), por:spa:jarra|jug (jar, pitcher)||jarra||||||||||||||kannu (karahvi)|dzban, dzbanek; słój, słoik
-jar:|jar|||ara: جَرَة‎ (jara), eng:jar, fra:jarre, spa:por:jarra|jar (jug, pitcher, carafe, amphora, vase)|jarre (carafe, cruche)|jarra|jarra (jarro)|кувшин (графин)|جَرَّة‎ (زِير‎)|罐 (瓶)|||lọ (bình)||||||kruĉo|ruukku (kannu, maljakko, karahvi)|wazon
+jar:|jar|||ara: جَرَة‎ (jara), eng:jar, fra:jarre, spa:por:jarra|jar (jug, pitcher, carafe, amphora, vase)|jarre (carafe, cruche)|jarra|jarra (jarro)|кувшин (графин)|جَرَّة‎ (زِير‎)|罐 (瓶)|||lọ (bình)||||||kruĉo|ruukku (kannu, maljakko, karahvi)|dzban (dzbanek; słój, słoik; wazon)
 jau:|jau|biu|Hordeum vulgare|hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)|barley|orge|cebada|cevada|ячмень||大麦|大麦|보리|lúa mạch|जौ|যব|barli|shayiri|arpa|hordeo|ohra|jęczmień
 jauab:|javabə|||ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap|answer (reply, response)|réponse|repuesta (contestación)|resposta|ответ|جَوَاب‎|回答|答え (回答)|대답 (회답)|trả lời|जवाब (उत्तर)|উত্তর|jawab|jibu|cevap|respondo|vastaus|odpowiedź, odzew
 jauab:a|javaba||||respond (give an answer)||responder (contestar)|||||||||||||respondi|vastata|odpowiedzieć, odpowiadać
@@ -1827,13 +1777,13 @@ jeng.xut:|jengəxutə|||zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thu�
 jenxen:|jenxen|bine|Panax|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|ginseng||ginseng||||||||||||||ginseng|żeń-szeń
 jerz:|Jerzə|dex|JE||Jersey||Jersey||||||||||||||Jersey|Jersey
 jest:|jestə|||eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|gesture||gesto||||||||||||||ele|gest
-jet:|jeta||||thrust (throw,cast)|||||||||||||||||
+jet:|jeta|||fra:projet,por:projeto,eng:project,spa:proyecto,rus:проект (proyekt),hin:प्रोजैक्ट (projaikṭ),ben:প্রজেক্ট (prôjekṭ),jpn:プロジェクト (purojekuto),kor:프로젝트 (peurojekteu),tur:proje|thrust (throw,cast)|||||||||||||||||
 jet<a<iu:|• ajetivə||||adjective|||||||||||||||||
 jet<ex:|• exjeta||||eject (throw out)|||||||||||||||||
 jet<in:|• injeta||||inject (thrust in)|||||||||||||||||
 jet<in:|• injetə|||zho:注射 (zhùshè),kor:주사 (jusa),jpn:注射 (chusha)|injection||inyección||||||||||||||ruiske (injektio)|zastrzyk
-jet<pro:|• projetə|||fra:projet,por:projeto,eng:project,spa:proyecto,rus:проект (proyekt),hin:प्रोजैक्ट (projaikṭ),ben:প্রজেক্ট (prôjekṭ),jpn:プロジェクト (purojekuto),kor:프로젝트 (peurojekteu),tur:proje|project (endeavour)|projet|proyecto|projeto|проект|||プロジェクト|계획 (프로젝트)||परियोजना (प्रोजैक्ट)|প্রজেক্ট|||||hanke (projekti)|projekt,planowane przedsięwzięcie
-jet<pro:|• projetə||||project (forecast)|projet|proyecto|projeto|проект||||||||||||projekti|
+jet<pro:|• projetə||||project (forecast)|projet|proyecto|projeto|проект||||||||||||projisoida (projisio)|
+jet<pro.aj:|• projetajə||||project (endeavour)|projet|proyecto|projeto|проект|||プロジェクト|계획 (프로젝트)||परियोजना (प्रोजैक्ट)|প্রজেক্ট|||||hanke (projekti)|projekt,planowane przedsięwzięcie
 jet<pro.or:|• projetor||||projector|||||||||||||||||
 jet<re:|• rejetə||||reject (throw back)|||||||||||||||||
 jet<sub:|• subjetə||||subject|sujet||||||||||||||||
@@ -2027,9 +1977,9 @@ katus:|katus|biu|Cactaceae|eng:spa:por:fra:cactus, rus:кактус (kaktus), tu
 kau:|kavə||||pit (excavation, cavity)|fosse|fosa|buraco|яма||坑 (穴)|||||||||foso|kuoppa (kolo)|dół, jama, wydobycie, wykop, wykopalisko
 kau:a|kava|||spa:por:cavar, eng:excavar, fra:excaver|dig (excavate)|creuser|cavar (excavar)|cavar (escavar)|копать||挖|掘る||đào (bới)|खोदना||gali (korek)||kazmak|fosi|kaivaa|wykopać, kopać, wydobyć, wydobywać, wykopywać
 kau<ex:|• exkavə||||dig out (excavate)|||||||||||||||||
+kau<ex:a|• exkava||||excavate (dig out)|excaver|excavar|escavar|||||||||||||kaivaa esiin|
 kauai:i|kavayi|||jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|cute (sweet)||lindo (precioso)|||||||||||||ĉarma|söpö (suloinen)|uroczy, słodki
-kauk.as:ia|Kaukasia|||eng:Caucasia,spa:Cáucaso,rus:Кавказ (Kavkaz),tur:Kafkasya,kat:კავკასია (ḳavḳasia),hye:Կովկաս (Kovkas),aze:Qafqaz,ara:اَلْقَوْقَاز‎ (al-qawqāz),hin:कॉकस (kŏkas),may:Kaukasus,zho:高加索 (gāojiāsuǒ)|Caucasia||Cáucaso||||||||||||||Kaukasia|Kaukazja
-kaukas:ia|Kaukasia|||eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)|Caucasia||Cáucaso||||||||||||||Kaukasia|Kaukazja
+kauk.as:ia|Kaukasia|||eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)|Caucasia||Cáucaso||Кавказ|اَلْقَوْقَاز‎|高加索||||कॉकस||Kaukasus||Kafkasya||Kaukasia|Kaukazja
 kax:|kax|||deu:Kasse, rus:касса (kassa), eng:case,cash, swa:kasha, por:caixa, spa:caja|cash box||caja (caja registradora)||||||||||||||kassa|pudełko, skrzynia
 kax.er:|kaxer||||cashier||cajero||||||||||||||kassanhoitaja|kasjer
 kazak:ia|Kazakia|dex|KZ||Kazakhstan||Kazajistán (Kazakistan)||||||||||||||Kazakstan|Kazachstan
@@ -2112,11 +2062,12 @@ klor.em:|klorem|kimeme 017|Cl|eng:chlorine, fra:chlore, spa:cloro, por:cloro, ru
 klub:|klubə|||eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|club||club|||||||||||||klubo|kerho (klubi)|klub
 klus:|klusə||||close (shut)|||||||||||||||||
 klus:a|klusa|||eng:fra:spa:por:-clus-, rus:ключить (-klyučítʹ)|close (shut)||||||||||||||||sulkea|
-klus.ex:|• exklusə||||exclude|||||||||||||||||
+klus.ex:|• exklusə||||exclude (keep out)|exclure|excluir|excluir|исключить|||||||||||ekskludi|sulkea pois|
 klus<ex.iu:|• exklusivə||||exclusive|exclusif|exclusivo|exclusivo|исключительный (эксклюзивный)||||||||||||poissulkeva (eksklusiivinen)|
-klus<in:|• inklusə||||include (enclose)|||||||||||||||||
-klus<in:|• inklusə||||including|y compris|incluido|incluindo|||||||||||||mukaan lukien|
-klus<in.iu:|• inklusivə||||inclusive|||||||||||||||||
+klus<ex.iv:i|• exklusivi||||exclusive|exclusif|exclusivo|exclusivo|исключительный (эксклюзивный)||||||||||||poissulkeva (eksklusiivinen)|
+klus<in:|• inklusə||||include (enclose, hold in)|inclure|incluir|incluir|включить||包括||||||||||sisällyttää (sulkea sisäänsä)|
+klus<in:a|• inklusa||||including|y compris|incluido|incluindo|||||||||||||mukaan lukien|
+klus<in:o|• inkluso||||including|y compris|incluido|incluindo|||||||||||||mukaan lukien|
 klus<in.iu:|• inklusivə||||inclusive|inclusif|inclusivo|inclusivo|||||||||||||kattava|
 klus<kon:|• konklusə||||conclude (close together)|||||||||||||||||
 kobalt:|kobaltə|kimeme 027|Co|eng:cobalt, fra:cobalt, spa:cobalto, por:cobalto, rus:кобальт, zho:钴 (gǔ), jpn:コバルト, kor:코발트, vie:coban, hin:कोबाल्ट, ben:কোবাল্ট, may:kobalt, swa:kobalti, ara: كوبلت|cobalt|cobalt|cobalto|cobalto|кобальт|كوبلت|钴|コバルト|코발트|coban|कोबाल्ट|কোবাল্ট|kobalt|kobalti|kobalt|kobalto|koboltti|kobalt
@@ -2142,8 +2093,6 @@ kom:|komə|||eng:comma, deu:Komma, jpn:コンマ (konma), kor:콤마 (komma), m
 komal:i|komali|||hin:कोमल (komal), tel:కోమలము (kōmalamu), khm:កោមល (kaomɑl)|soft||blando (mullido)|||||||||||||mola|pehmeä|miękki
 komoro: nes:ia|Komoro nesia|dex|KM||Comoros||Comoros||||||||||||||Komorit|Komory
 kompan:ia|kompania|||eng:company, hin:कंपनी (kampanī), rus:компания (kompaniya), tgl:kompanya, pol:kompania|company (corporation)||compañía (empresa, corporación)|||||||||||||kompanio (firmao)|yritys (yhtiö)|firma, kompania, korporacja
-komput:a|komputa||||compute (to process data)||calcular (computar)||||||||||||||käsitellä dataa|policzyć, liczyć, przetwarzać dane
-komput.er:|komputer|||eng:computer, spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)|computer|ordinateur|computadora (ordenador)|computador|компьютер||计算机||||कम्प्यूटर||komputer||bilgisayar|komputero|tietokone|komputer
 komun:a|komuna||||share||compartir (tener en común)||||||||||||||jakaa yhteiseksi|dzielić (współdzielić)
 komun:i|komuni|||eng:common, spa:común, por:comum, fra:commun, rus:коммунальный (kommunal’nyy)|common (shared)||comunitario|||||||||||||komuna|yhteinen|wspólny
 komun.krat:ia|komunkratia||||republic|||||||||||||||republiko|tasavalta|republika
@@ -2204,8 +2153,7 @@ krab:|krabə|biu||eng:crab, deu:Krebs, fra:crabe, rus:краб (krab)|crab|crabe
 krak:|krakə|||yue:隙 (gwik1), nan:隙 (kiah4), jpn:隙 (kyaku), vie: khích + eng:crack, fra:craquer, spa:crac|crack (rift)|fente (fissure, fêlure)|raja (grieta)|rachadura|щель (трещина)||裂缝 (缝隙)|隙間 (ひび)||||||||||pęknięcie
 kran:|kran|||ned:kraan, rus:кран (kran), pol:kran, may:keran|valve (tap, faucet)||válvula (llave, canilla)||кран||||||||keran|||krano (valvo)|hana (venttiili, kraana)|kran (zawór)
 krat:ia|kratia|||eng:-cracy, spa:por:-cracia, fra:-cratie, deu:-kratie, may:-krasi|rule (reign)||dominio (reinado)|||||||||||||regi|valta|rządzić, władać
-kred:|kredə||||believe||creer|||||||||||||kreda|uskoa (luottaa)|wierzyć
-kred:|kredə||||believe (trust,credit)|||||||||||||||||
+kred:|kredə||||believe (trust,credit)||creer|||||||||||||kreda|uskoa (luottaa)|wierzyć
 kred.abl:|• kredablə||||credible (believable)||||||||||||||||uskottava|
 kred.ist:|• kredistə||||believer (religious person)|croyant|creyente|crente|верующий|مؤمن|信徒|信徒 (信者)|신도 (신자)||आस्तिक|||muumini|mümin|kredulo|uskovainen|wierzący (osoba religijna)
 kred<n.abl:|• nəkredablə||||incredible (unbelievable)||||||||||||||||uskomaton|
@@ -2274,8 +2222,8 @@ kux:u|kuxu||||lie (lie down)|être couché|acostarse (echarse, tenderse, tumbars
 kux.en:|kuxen||||cushion (pillow)||almohada||||||||||||||tyyny|poduszka
 kux.lok:|kuxlokə|||fra:eng:couchette, ita:cuccetta, pol:kuszetka|berth (couchette)|couch (couchette)||||||||||||||||kuszetka (koja)
 l|L||||L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L
-l:|lə|pron.|||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
 l:a|la|prep.|||from (since, because)|de|de (desde)|de|из (от)|مِن|从|-から|-서|từ|-से|অবধি (থেকে)|dari (daripada)||-den|de (el, pro)|luota (lähtien, -sta, -lta)|z (od)
+l:e|le|pron.|||he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
 l.es:|les|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
 l.es:i|lesi||||their|leur|||их||他们的||||उनका|||||ilia|heidän|
 lab:|labə|||fas:urd:(lab), hin:लब (lab), tgl:labi, spa:labio, por:lábio|lip||labio|||||||||||||lipo|huuli|warga
@@ -2396,6 +2344,7 @@ link:a|linka||||connect (join, link)||conectar (empalmar, enlazar, vincular)|rel
 lis:i|lisi|||fra:lisse, spa:por:liso, fas:(liz), may:licin|smooth||suave (liso)|||||||||||||glata|sileä|gładki
 lisan:|lisan|||ara: لِسَان‎ (lisān), hin:लिसान (lisān), swa:lisani, may:tur:lisan, amh:ልሳን (ləsan)|tongue|langue|lengua|língua|язык|لِسَان‎|舌头|舌|혀|lưỡi|जीभ (ज़बान)|জিহ্বা|lidah (lisan)|ulimi (lisani)|dil (lisan)|lango|kieli (elin)|język
 list:|listə|||eng:list, spa:por:lista, rus:лист (list), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)|list (listing, catalogue)|liste|lista|lista|список||单子||||लिस्ट|||||listo|lista (luettelo)|lista, spis, wykaz
+list<in:|inlistə||||table of contents (inventory)||índice de contenidos||||||||||||||sisällysluettelo|spis treści (tabela zawartości)
 lit.em:|litem|kimeme 003|Li|eng:lithium, fra:lithium, spa:litio, por:lítio, rus:литий, zho:锂 (lǐ), jpn:リチウム, kor:리튬, vie:swa:lithi, hin:लिथियम, ben:লিথিয়াম, may:litium, swa:lithi, ara: ليثيوم|lithium|lithium|litio|lítio|литий|ليثيوم|锂|リチウム|리튬|lithi, liti|लिथियम|লিথিয়াম|litium|lithi|lityum|litio|litium|lit
 litr:|litrə|||eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|litre (liter)|litre|litro|litro|литр|لتر‎|升|リットル|리터|lít|लीटर|লিটার|liter|lita|litre|litro|litra|litr
 liuermor.em:|livermorem|kimeme 116|Lv|eng:fra:livermorium, spa:livermorio, por:livermório, rus:ливерморий, zho: (lì), jpn:リバモリウム, kor:리버모륨, vie:livermori, may:livermorium, swa:livermori|livermorium|livermorium|livermorio|livermório|ливерморий|ليفرموريوم||リバモリウム|리버모륨|livermori|||livermorium|livermori|livermoriyum||livermorium|liwermor
@@ -2448,12 +2397,11 @@ lut:a|luta|||hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা
 lut.er:|luter||||robber (plunderer)|brigand (bandit)|ladrón|ladrão|грабитель||强盗||||डाकू|||||rabisto|ryöväri (rosvo)|rabuś (grabieżca)
 lutet.em:|lutetem|kimeme 071|Lu|eng:lutetium, fra:lutécium, spa:lutecio, por:lutécio, rus:лютеций, zho:镥 (lǔ), jpn:ルテニウム, kor:루테튬, vie:lutexi, hin:लुटेटियम, ben:লুটেসিয়াম, may:lutetium, swa:luteti, ara: لوتيتيوم|lutetium|lutécium|lutecio|lutécio|лютеций|لوتيتيوم|镥|ルテニウム|루테튬|lutexi|लुटेटियम|লুটেসিয়াম|lutetium|luteti|lutesyum|lutecio|lutetium|lutet
 m|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
-m:|mə|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
+m:e|me|pron.||eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
 m:i|mi||||my||mi|||||私の||||||||mia|minun|mój
 m.es:|mes|pron.|||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
 m.es:i|mesi||||our|notre|nuestro|nosso|наш||我们的||||हमारा|আমাদের|||bizim|nia|meidän|
-ma:|ma|||por:mãe + zho:妈 (mā),vie:má,ben:মা (ma),hin:मां (mã) + eng:swa:mama,spa:mamá,fra:maman,rus:мама (mama),jpn:ママ (mama),kor:엄마 (eomma)|mother (mom,mama)|mère (maman)|madre (mamá)|mãe|мать (мама)|أُمّ‎|妈妈|お母さん (母,ママ)|엄마|mẹ (má)|माता (मां,मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|matka,mama
-ma:|ma|||spa:mamá,fra:maman,eng:swa:mama,rus:мама (mama),zho: 妈妈 (māma),jpn:ママ (mama),kor:엄마 (eomma),vie:má,ben:মা (ma),hin:मां (mã)|mom (mama)|maman|mamá|mãe|мама|أُمّ‎|妈妈|お母さん (母,ママ)|엄마|mẹ (má)|माता (मां,मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|mama
+ma:|ma|||zho:妈 (mā),vie:má,ben:মা (ma),hin:मां (mã) + eng:swa:mama, fra:maman, spa:mamá, por:por:mãe, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mom (mama)|maman|mamá|mãe|мама|أُمّ‎|妈妈|お母さん (母,ママ)|엄마|mẹ (má)|माता (मां,मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|mama
 ma.tr:|• matrə||||mother|mère|madre|mãe|мать||母亲||||||||||äiti|matka
 ma.tr.ia|• matria||||motherland|||pátria-mãe|родина||||||||||||emämaa (synnyinmaa)|macierz
 maf:|maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)||perdón|||||ごめんなさい|||माफ़||maaf||af (affetme)|pardono|anteeksi|przepraszam!
@@ -2660,6 +2608,8 @@ migr:a|migra||||move (migrate, relocate)||migrar (emigrar, tralsadar)||||搬家|
 migr:u|migru||||move (migrate, relocate oneself)|s'installer (déménager)|migrarse (mudarse, trasladarse)|mudar-se|переезжать||||||||||||muuttaa (siirtyä)|przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić)
 migr<ex:|• exmigrə||||emigrate (move out)||||||||||||||||muuttaa pois (emigroitua)|
 migr<in:|• inmigrə||||immigrate (move in)|immigrer|inmigrar|imigrar|иммигрировать||移民 (移居)|移住する (移民する)||nhập cư|||||||muuttaa maahan|
+migr<in:a|inmigra||||immigrate (move in)|immigrer|inmigrar|imigrar|иммигрировать||移民 (移居)|移住する (移民する)||nhập cư|||||||muuttaa maahan|
+migr<in.an:|inmigran||||immigrant|immigrant|inmigrante|imigrante|иммигрант||移民者|移民 (移住者)||dân nhập cư|||||||maahanmuuttaja|
 migr<in.er:|• inmigrer||||immigrant|immigrant|inmigrante|imigrante|иммигрант||移民者|移民 (移住者)||dân nhập cư|||||||maahanmuuttaja|
 mikr:i|mikri|||eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイクロ- (maikuro-), may:tur:mikr-|tiny (microscopic)||||||||||||||mikrobiyoloji||pikkuruinen (mikroskooppinen)|
 mikr.bi:|mikrəbiə||||microorganism (microbe)|microbe|microbio|micróbio|микроб|مِيكْرُوب‎|微生物 |微生物|미생물|vi sinh vật|सूक्ष्मजीव||mikroba||mikrop|mikrobo|mikrobi|mikroorganizm  (mikrob)
@@ -2717,7 +2667,9 @@ mis.ag:|• misajə|||eng:deu:fra:message,spa:mensaje,por:mensagem,tur:mesaj,jpn
 mis.er:|miser||||sender (transmitter)||remitente||||||||||||||lähettäjä (lähetin)|nadawca
 mis.ion|• mision||||mission (sending)|mission|misión|missão|миссия||||||||misi||||lähetys|
 mis.ion.er|• misioner|||eng:missionary,deu:Missionar,fra:missionnaire,spa:misionero,por:misionário,rus:миссионер (missioner),may:misioinaris,swa:mmisionari,tur:misyoner|missionary|missionnaire|misionero|missionário|миссионер||传教士|宣教師|선교사|người truyền giáo|||misionaris|mmisionari|misyoner|misiisto|lähetti (lähetyssaarnaaja)|misjonarz
+mis<ex:a|• exmisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
 mis<ex:a|• exmisə||||emit|||||||||||||||||
+mis<in:a|inmisa||||import||importar|||||||||||||||importować (zaimportować)
 mis<kon:a|• konmisə||||commit|||||||||||||||||
 mis<kon<ia|• konmisia|||rus:комиссия (komissiya),pol:komisja,eng:fra:commission,deu:Kommission,spa:comisión,por:comissão,tur:komisyon,hin:कमीशन (kamīśan),ben:কমিশন (kômiśôn),may:komisi|commission (committee)|commission (comité)|comisión (comité)|comissão (comité)|комиссия (комитет)||委员会|委員会|위원회|uỷ ban|आयोग (कमीशन)|কমিশন|komisi (komite)||komisyon|komisiono (komitea)|komission (komitea)|komisja (komitet)
 mis<tran:a|• tranmisə||||transmit |transmettre|transmitir|transmitir|||||||||||||välittää (siirtää,lähettää)|
@@ -2851,6 +2803,8 @@ nam<ant:|• antənam||||antonym|antonyme|antónimo||антоним||||||||anton
 nam<dus:|• dusnam||||insult (offense)||insulto (ofensa)||||||||||||||loukkaus (herja)|obraza (obelga)
 nam<dus:|• dusnamə||||insult (offense)||insulto (ofensa)||||||||||||||loukkaus (herja)|obraza (obelga)
 nam<dus.an:a|• dusnamana||||insult (offend, call names)||insultar (ofender)||||||||||||||solvata (loukata)|obrazić
+nam<ex:|• exnam||||exonym||exónimo||||||||||||||eksonyymi|egzonim
+nam<in:|innam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
 nam<in:|• innam||||endonym||endónimo||||||||||||||endonyymi (omakielinen nimi)|endonim
 namib:|Namibə||||Namibe desert|||||||||||||||||
 namib:ia|Namibia|dex|NA||Namibia||Namibia|||||||||||||Namibio|Namibia|Namibia
@@ -3163,7 +3117,7 @@ par.ik:|parikə||||peer||equilibrado (par)|par|ровня||同辈|同輩||||||||
 par.lin:i|parlini||||parallel (longitudinal)||paralelo||параллельный|||並行||||||||||równoległy (podłużny)
 par.lin:u|parlinu||||align (go along)||alinear|||||||||||||||iść wzdłuż (pójść wzdłuż)
 par.uez:ia|parvezia||||equilibrium (balance)|équilibre|equilibrio|equilíbrio|равновесие (баланс)|تَوَازُن‎|平衡|均衡 (平衡)|평형|sự thăng bằng|संतुलन||keseimbangan||denge|ekvilibro|tasapaino|równowaga
-par/kon:|• konparə||||compare|comparer|comparar (equiparar)|comparar|||||||||||||verrata (vertailla)|
+par<kon:|• konparə||||compare|comparer|comparar (equiparar)|comparar|||||||||||||verrata (vertailla)|
 par<re:|• reparə||||repair (restore to equal condition)|réparer|reparar|reparar|починить||||||||||||korjata (ennallistaa)|
 paraguai:|Paraguai|dex|PY||Paraguay||Paraguay||||||||||||||Paraguai|Paragwaj
 parai:|parayə|||hin:पराया (parāyā), eng:pariah, rus:пария (pariya), spa:paria|outcast (pariah)||paria||||||||||||||hylkiö (paaria)|wyrzutek
@@ -3312,6 +3266,7 @@ piz.kan:|pizəkan||||pizzeria||pizzería|||||||||||||picejo|pitseria|pizzeria
 plan:|plan|||eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)|plan|plan|plan|plano|план||||||प्लैन||||||suunnitelma|plan
 plan:a|plana||||intend (plan)||planear (tener pensado)||||||||||||||suunnitella|planować
 planet:|planetə|||eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)|planet||planeta||||||||||||||planeetta|planeta
+planet<ex:|• explanetə||||exoplanet|exoplanète|exoplaneta (planeta extrasolar)|exoplaneta (planeta extrassolar)|экзопланета (внесолнечная планета)||系外行星|系外惑星|외계 행성|ngoại hành tinh|||||güneş dışı gezegen|ekzoplanedo|eksoplaneetta|egzoplaneta
 plast:a|plasta||||mold (shape)|modeler|moldear (modelar)|moldar (modelar)|лепить||||||||||||muovata (muovailla)|
 plast:i|plasti||||plastic (moldable, malleable)||maleable|plástico|пластичный||||||||||||plastinen (muovailtava)|
 plast.ik:|plastikə|||eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)|plastic||plástico||пластмасса||||||||||||muovi|plastik
@@ -3332,10 +3287,14 @@ plazm:|plazmə|||eng:plasma, spa:plasma, rus:плазма (plazma), ara:بلاز
 ploz:|plozə||||clap|||||||||||||||||
 ploz.abl:|• plozablə||||plausible (praiseworthy)|||||||||||||||||
 ploz<a,|• aplozə||||applaude|||||||||||||||||
+ploz<ex:|• explozə|||eng:fra:explosion, spa:explosión, por:exploção, rus:имплозия (imploziya), may:eksplosi|explosion|explosion|explosión|explosão|взрыв||爆炸|爆発|폭발|nổ|विस्फोट|বিস্ফোরণ||ledakan (letupan, eksplosi)|patlama|eksplodo|räjähdys|wybuch (eksplozja)
 ploz<ex:|• explozə||||explode (blow up)|||||||||||||||||
+ploz<ex:u|• explozu||||explode|exploser (détoner)|explosionar|explodir|взрываться|||||||||||eksplodi|räjähtää|
 ploz<ex.iu:|• explozivə||||explosive|||||||||||||||||
+ploz<in:|inplozə||||implosion|implosion|implosión|imploção|имплозия||内爆||||||||||luhistuminen|implozja
 ploz<in:|• inplozə||||implode (collapse)|imploser|implosionar|implodir|взрываться вовнутрь||||||||||||luhistua (sortua sisään)|implodować
 ploz<in:|• inplozə||||implosion|implosion|implosión|imploção|имплозия||内爆||||||||||luhistuminen|implozja
+ploz<in:u|inplozu||||implode (collapse)|imploser|implosionar|implodir|взрываться вовнутрь||||||||||||luhistua (sortua sisään)|implodować
 plum:|plum|pal||eng:plum, deu:Pflaume, jpn:プラム (pulamu), tha:พลัม (plam)|plum (prune)|prune|ciruela|ameixa|слива||李子|セイヨウスモモ (プラム)|자두|mận|आलूचा||||erik|pruno|luumu|śliwka
 plumb:|plumbə|kimeme 082|Pb|fra:plomb, spa:plomo, por:chumbo, swa:plumbi|lead|plomb|plomo|chumbo|свинец|رصاص|铅|鉛|납|chì|सीसा|লেড|timbal|risasi (plumbi)|kurşun|plumbo|lyijy|ołów
 pluton:|Pluton||||Pluto (dwarf planet)||Plutón||||||||||||||Pluto (kääpiöplaneetta)|Pluton (planeta karłowata)
@@ -3411,6 +3370,7 @@ poz:ia|• pozia||||position||||||||||||||||asema (sijainti)|
 poz<de:|• depozə||||remove (delete,dispose,erase)||quitar (eliminar,borrar)||||||||||||||poistaa (hävittää)|usuwać (usunąć,likwidować,zlikwidować,wymazywać,wymazać,pozbywać się,pozbyć się)
 poz<ex:|• exposə||||expose  ||||||||||||||||paljastaa (panna esiin)|
 poz<ex:|• expozə||||expose (reveal)|exposer|exponer (revelar)|expor (revelar)|||||||||||||ottaa esiin (paljastaa)|
+poz<ex:a|• expoza||||expose (reveal)|exposer|exponer (revelar)|expor (revelar)|||||||||||||ottaa esiin (paljastaa)|
 poz<in|• inpozə||||put in (impose)||||||||||||||||panna sisään|
 poz<kon.aj:|• konpozajə||||component|||||||||||||||||
 poz<pos:|• pospozə||||postposition||||||||||||||||postpositio|
@@ -3474,14 +3434,14 @@ pur.xip:a|purxipa||||soak (steep, marinate)|tremper (faire mariner)|remojar (mar
 put<ex:|• exputə||||output|||||||||||||||||
 put<in:|• inputə||||input |||||||||||||||||
 put<kon:|• konputə||||compute (put data together)||calcular (computar)||||||||||||||käsitellä dataa|policzyć (przetwarzać dane)
-put<kon.er:|• komputa|||eng:computer,spa:computadora,por:computador,rus:компьютер (komp’uter),ara:كَمْبْيُوتَر‎ (kambyūtar),swa:kompyuta,hin:कंप्यूटर (kampyūṭar),ben:কম্পিউটার (kômpiuṭar),may:komputer,jpn:コンピューター (konpyūtā)|computer|ordinateur|computadora (ordenador)|computador|компьютер||计算机||||कम्प्यूटर||komputer||bilgisayar|komputero|tietokone|komputer
-put<kon.er:|• konputer|||deu:eng:computer,spa;computadora,por:computador,rus:компьютер (kompyuter),jpn:コンピュータ (kompyūta),컴퓨터 (keompyuteo),ara:(kambyutar),hin:कंप्यूटर (kampyūṭar),ben:কম্পিউটার (kômpyuṭar),may:komputer,swa:kompyuta|computer|ordinateur|computadora (ordenador)|computador|компьютер|كمبيوتر|计算机|コンピュータ|컴퓨터|máy vi tính|कंप्यूटर (संगणक)|কম্পিউটার|komputer|kompyuta|bilgisayar|komputero|tietokone|komputer
+put<kon.er:|• konputer|||eng:computer, spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)|computer|ordinateur|computadora (ordenador)|computador|компьютер|كمبيوتر|计算机|コンピュータ|컴퓨터|máy vi tính|कंप्यूटर (संगणक)|কম্পিউটার|komputer|kompyuta|bilgisayar|komputero|tietokone|komputer
 putau:|putau|biu||zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào|grape||uva|||||||||||||vinbero|viinirypäle|winogrono
 putau.oranj:|putavoranjə|biu|Citrus × paradisi|eng:grapefruit, zho:葡萄柚|grapefruit|pamplemousse|pomelo (toronja)|toranja|грейпфрут||葡萄柚|グレープフルーツ|||चकोतरा||limau gedang|||||grejpfrut
 putong: cin:i|Putong Cini||||Mandarin Chinese (Putonghua)||chino mandarín|||||||||||||mandarinĉina|yleiskiina (mandariinikiina)|mandaryński chiński, Putonghua
 putong:i|putongi|||zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|common (general)||general (common)||||普通|||||||||generala|yleinen (universaali)|powszechny, uniwersalny
-pux:a|puxa|||eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)|push||empujar (presionar)||||||||||||||työntää (puskea)|pchnąć, pchać
+pux:|puxə|||eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)|push||empujar (presionar)||||||||||||||työntää (puskea)|pchnąć, pchać
 pux.er:|puxer||||piston|||||||||||||||||tłok
+pux<in:a|inpuxa||||squeeze (squish)|||||||||||||||||ścisnąć (sciskać, wycisnąć)
 r|R||||R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R|R
 rad:|radə||||ray||rayo||||||||||||||säde|promień
 rad:a|rada||||radiate||radiar (emitir)||||||||||||||säteillä|promieniować
@@ -3809,6 +3769,7 @@ sem.dan:|semdan||||seed (fertilized grain)||pepita||||种子|種|||||biji benih|
 sem.em:|• sememə||||sememe||||||||||||||||semeemi|
 sem.for.er:|• seməforer||||semaphore|sémaphore|semáforo||семафор|||||||||||||
 sem.loj:ia|• seməlojia||||semantics|sémantique|semántica|semântica|семантика||语义学|意味論|의미론|ngữ nghĩa học|||semantik|semantiki|anlambilim|semantiko|merkitysoppi (semantiikka)|
+sem<poli:|• polisemə||||ambiguous (polysemous)||||||||||||||||monimerkityksinen (polyseeminen)|
 sem<un:|• unəsemə||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
 sement:|sementə|||eng:cement, may:semen, spa:cemento, swa:sementi, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|cement||cemento||цемент|||||||||sementi|çimento||sementti|cement
 sen:|sen|||ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)|age|âge|edad|idade|возраст|عُمْر|年岁|年齢|연세||आयु (उमर)||umur|umri||aĝo|ikä|wiek
@@ -3848,6 +3809,7 @@ siborg.em:|siborgem|kimeme 106|Sg|eng:seaborgium, fra:seaborgium, spa:seaborgio,
 sid:|sidə||||seat (saddle)||silla (montura)||сиденье (седло)||座部 (马鞍)|座席 (鞍)||||||||||siedzenie (siodło)
 sid:a|sida|||rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|sit (put down)||sentar||сидеть|||||||||||sidi|istua|siedzieć
 sid:u|sidu||||sit down||sentarse|||||座る||||||||||usiąść
+sid<in:a|insida||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
 sid<pre.ent:|• presidentə|||eng:president,spa:por:presidente,rus:президент (prezident),kat:პრეზიდენტი (ṗrezidenṭi),fas:پرزیدنت‎ (perezident),may:presiden|president||presidente|||||||||||||prezidento|presidentti|prezydent
 sid<pre.ent<uis:|• visəpresidentə||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
 sif:|sif|||hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)|attribute (charasteristic, quality, feature, description, property)||cualidad (atributo, descripción)||||||||||||||laatu (ominaisuus, ominaispiirre, määrite)|cecha, właściwość, parametr
@@ -3955,10 +3917,9 @@ sport.er:|• sporter||||athlete (sportsman)||deportista||||||||||||||urheilija|
 stad:ia|stadia|||fra:stade,por:estádio,spa:estadio,rus:стадион (stadion),eng:stadium,tur:stadyum,ara:(ʾistād),hin:स्टेडियम (sṭeḍiyam)|stadium (arena)||estadio (arena)|||||||||||||stadiono (areno)|stadioni (areena)|stadion,arena
 strut:a|struta||||building||||||||||||||||rakennus|
 strut.ur:|• struturə||||structure||||||||||||||||rakenne|
-strut.ur.al:i|• struturali||||structural|||||||||||||||||
-strut<di:a|• distruta||||destroy (destruct)|détruire|destruir|destruir|разрушать|||||||||||detrui|tuhota|
+strut<de:a|• destruta||||destroy (destruct)|détruire|destruir|destruir|разрушать|||||||||||detrui|tuhota|
 strut<in:a|• instruta||||build in (instruct)|||||||||||||||||
-strut<infra.ur:|• infrəstruturə||||infrastructure  ||||||||||||||||infrastruktuuri (perusrakenteet)|
+strut<infr.ur:|• infrəstruturə||||infrastructure  ||||||||||||||||infrastruktuuri (perusrakenteet)|
 strut<kon:a|• konstruta||||construct (build)|construire|construir||строить||||||||||||rakentaa|
 strut<kon.ion|• konstrution|||ita:costruzione,eng:fra:construction,por:construção,spa:construcción,deu:konstruieren,rus:конструкция (konstrukciya),jpn:コンストラクト (konsutorakuto)|construction|construction|construcción|construção|строение||||||निर्माण||||||rakentaminen|
 stud:|studə||||learn (study)|||||||||||||||||
@@ -4047,7 +4008,7 @@ sut:a|suta|||hin:सीना (sīnā), rus:шить (šit'), eng:sew|sew||coser
 sutur:|sutur|||fra:eng:suture, por:spa:sutura|suture (seam)||costura (sutura)||||||||||||||sauma (ommel)|szew
 sux:i|suxi|||jpn:寿司 (sushi), eng:spa:sushi, rus:су́ши (sushi), tur:suşi|sushi||sushi|||||||||||||suŝio|sushi|sushi
 t|T||||T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T
-t:|tə|pron.||fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|you (singular)|tu|tú (usted)|tu|ты||你|あなた||||||||vi (ci)|sinä|ty, ciebie
+t:e|te|pron.||fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|you (singular)|tu|tú (usted)|tu|ты||你|あなた||||||||vi (ci)|sinä|ty, ciebie
 t:i|ti||||your||tu|||||あなたの||||||||via (cia)|sinun|twój
 t.es:|tes|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
 t.es:i|tesi||||your|votre|vuestro|vosso|ваш||你们的|||||||||via|teidän|
@@ -4127,6 +4088,9 @@ ten:i|teni||||celestial (heavenly)||celeste (celestial)|||||||||||||||niebieski,
 ten.hal:|tenhal||||weather||clima (tiempo)||погода||天气|天気|날씨|thời tiết|मौसम (ऋतु)|বতৰ|cuaca (hawa)|hali ya hewa|hava|vetero|sää|pogoda
 ten.kenar:|tenkenar||||horizon||horizonte||горизонт||地平线|地平線 (水平線, 天際)||||||||||horyzont
 ten.nil:i|tennili||||light blue (sky blue, azure)||celeste (azul celeste)||голубой|||空色||||||||||jasnoniebieski (lazurowy)
+ten<in:|intenə||||content||contenido||||||||||||||sisältö|treść (zawartość)
+ten<in:a|intena||||contain (include)||contener|||||||||||||||zawierać
+ten<in.er:|intener||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
 ten<kon:|• kontenə||||contain (hold together)|||||||||||||||||
 ten<kon.er:|• kontener||||container|conteneur|contenedor|contêiner|контейнер|||コンテナ|콘테이너||||||||kontti|
 ten<re:|• retenə||||retain (hold back)|||||||||||||||||
@@ -4141,6 +4105,7 @@ tens:a|tensa||||||||||||||||||||kirentää (kiristää)|
 tens:i|tensi|||eng:tense, fra:tendu, spa:por:tenso|tight (tense)|tendu|tenso|tenso|тугой||||||||||||kireä (tiukka, jännittynyt)|
 tens:ia|tensia||||tension||||||||||||||||jännitys (jännite)|
 tens<ex:|• extensə||||extent|||||||||||||||||
+tens<ex:a|• extensa||||extend (stretch out)||||||||||||||||venyttää (pingottaa)|
 tent:a|tenta|||eng:tempt, spa:por:tentar, fra:tenter|tempt (entice)||tentar (seducir)||||||||||||||houkutella|kusić, nakłonić, nakłaniać
 teor:ia|teoria|||eng:theory, spa:teoría, por:teoria, fra:téorie, rus:теория (teoriya), fas:تئوری‎ (teori), may:teori|theory||teoría|||||||||||||teorio|teoria|teoria
 tep:|tepə|||eng:tape, swa:tepu, jpn:(tēpu), tur:teyp|tape|ruban (bande)|cinta adhesiva||лента|||||||||||bendo|teippi (nauha)|taśma
@@ -4223,6 +4188,7 @@ trat<a:|• '• atratə||||attract||||||||||||||||viehättää (vetää puoleen
 trat<a.iu:|• atrativə||||attractive||||||||||||||||puoleensavetävä (viehättävä)|
 trat<dis:|• distratə||||distract (pull apart)|distraire|distraer|distrair|||||||||||||vetää hajalleen (harhauttaa)|
 trat<ex:|• extratə||||extract (pull out)|||||||||||||||||
+trat<ex:a|• extrata||||extract (draw out)|extraire|extraer|extrair|извлекать||||||||||||vetää ulos|
 trat<ex.or:|• extrator||||extractor||extractor||||||||||||||ulosvetäjä|
 trat<kon:|• kontratə|||eng:treaty,fra:traité,spa:por:tratado,rus:контракт (kontrakt),tur:kontrat,may:kontrak|agreement (treaty,contract)|contract (traité)|contrato (tratado)|acordo (tratado,contrato)|договор (контракт)||||||||kontrak||sözleşme (kontrat)||sopimus|
 tren:|tren|||eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|train||tren|||||電車 (列車)||||||||trajno (vagonaro)|juna|pociąg
@@ -4309,8 +4275,7 @@ uei:i|veyi|||zho:纬度 (wěi), kor:위 (wi), vie:vĩ|traverse (horizontal)|||||
 uei.lin:|veilin||||weft|fil de trame|||уток||緯紗|横糸|||||||||kude|
 uei.sirk:|veisirkə||||latitude||latitud||||纬度|緯度|위도|vĩ độ|||||||leveyspiiri|południk
 uel:|velə|||eng;veil,fra:voile,spa:velo,por:véu,jpn:ベール (bêru),kor:베일 (beil),swa:veli|veil|voile|velo|véu|||||베일|||||veli (shela)|||verho (peite)|
-uel<di:|• divelə||AWL||unveil (reveal,uncover)|dévoiler (révéler)|develar (revelar)|revelar|||||||||||||paljastaa|
-uel<di.at.ion:|• divelation|||||||||||||||||||||
+uel<de:|• develə||AWL||unveil (reveal,uncover)|dévoiler (révéler)|develar (revelar)|revelar|||||||||||||paljastaa|
 uel<in:|• invelajə||||envelope (enfold)|||||||||||||||||
 uen<cirk:|• cirkəvenə||||get around (avoid,circumvent)||||||||||||||||mennä ympäri|
 uen<ex:|• exvenə||||come out (happen,event)||||||||||||||||tulla ulos (ilmestyä,tapahtua)|
@@ -4345,6 +4310,7 @@ uers.ion:|version|||eng:fra:version,por:versão,rus:версия (versiya),may:v
 uers<de:|• deversə||||avert||||||||||||||||kääntyä pois|
 uers<dis:|• disversə||||diverse||||||||||||||||monitahoinen (monipuolinen)|
 uers<ex:|• exversə||||extroverted (outgoing)||||экстраверт||外向的|外向的な|||||||||ulospäinsuuntautunut (ekstrovertti)|
+uers<ex.tr:i|• extrəversi||||extrovert (outgoing)||||экстраверт||外向的|外向的な|||||||||ulospäinsuuntautunut (ekstrovertti)|
 uers<in.tr:|• intrəversə||||introvert|introverti|introvertido||интроверт||内向的|内向的な人|||||||||sisäänpäinsuuntautunut (introvertti)|
 uers<kon:|• konversə||||converse (turn back and forth)||||||||||||||||pyöritellä asiaa (keskustella)|
 uers<kon.tr:|• kontrəversə||||controversy  ||||||||||||||||vastakohtaisuus|
@@ -4482,6 +4448,7 @@ uz.er:|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
 uz.er.nam:|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
 uzbek:ia|Uzbekia|dex|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekistan
 vid<dus:i|• dusvidi||||ugly (unsightly)|laid (vilain)|feo|feio|безобразный (некрасивый)|قَبِيح|难看|見苦しい|추악하다|xấu xí|बदसूरत|বিশ্রী|hodoh||çirkin|malbonaspekta|ruma (pahannäköinen)|brzydki
+vid<ex:i|• exvidi||||evident (apparent, obvious)|évident|evidente|evidente|очевидный||||||||||bariz|evidenta|ilmeinen (silminnähtävä)|
 x|X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 xak:|xakə|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 xakal:|xakal|biu||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
@@ -4637,3 +4604,4 @@ zuk.med:i|zukəmedi||||interethnic||interétnica||межэтнический||||
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurud:|zumurudə|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
+|||||fat (grease)||grasa|||||||||||||graso|rasva (öljy)|tłuszcz
