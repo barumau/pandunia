@@ -2,18 +2,18 @@
 
 | basha | nomer | fen |
 |-------|-------|-----|
-| pan | 1620 | 100% |
-| english | 1115 | 69% |
-| espanya | 993 | 61% |
-| portugal | 939 | 58% |
-| france | 937 | 58% |
-| rus | 803 | 50% |
-| hindi | 680 | 42% |
-| nipon | 598 | 37% |
-| malayu | 555 | 34% |
-| arabi | 424 | 26% |
-| suahili | 405 | 25% |
-| putonghan | 390 | 24% |
-| chosen | 387 | 24% |
-| bangla | 363 | 22% |
-| viet | 257 | 16% |
+| pan | 1629 | 100% |
+| english | 1124 | 69% |
+| espanya | 1000 | 61% |
+| portugal | 947 | 58% |
+| france | 944 | 58% |
+| rus | 809 | 50% |
+| hindi | 686 | 42% |
+| nipon | 604 | 37% |
+| malayu | 557 | 34% |
+| arabi | 431 | 26% |
+| suahili | 407 | 25% |
+| putonghan | 393 | 24% |
+| chosen | 390 | 24% |
+| bangla | 367 | 23% |
+| viet | 258 | 16% |
