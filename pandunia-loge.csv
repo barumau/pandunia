@@ -1689,7 +1689,6 @@ intelig:|inteligə||||intelligence (intellect)|intelligence|inteligencia (intele
 intelig.abl:|• inteligablə||||intelligible|intelligible|inteligible|inteligível|||||||||||||älyttävä (ymmärrettävä)|
 intelig.ent:|• inteligentə||||intelligent (smart)||||||||||||||||älykäs|
 intelig.ent:ia|• inteligentia||||intelligentsia||||||||||||||||älymystö (intelligentsia)|
-inter.net:|internetə||||internet||Internet||||||||||||||internet|internet
 inxal:a|inxala|||ara:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), fas:ان‌شاءالله (enšâ'allâh), tur:inşallah, may:insya allah, spa:ojalá, por:oxalá, eng:inshallah, rus:иншаллах (inšallax), ben:ইনশাআল্লাহ্ (inśaallah), zho:印沙安拉 (yìnshā'ānlā)|hope (wish)||esperar (desear)||надеяться (чаять)|||||||||||esperi|toivoa|nadzieja, życzenie
 io:|Io|planete 5 lun 1|||Io|||||||||||||||||
 iod.em:|yodem|kimeme 053|I|eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود|iodine|iode|yodo (iodo)|iodo|йод|يود|碘|ヨウ素|요오드|iot, iođ|आयोडिन|আয়োডিন|yodium|iodini (aidini)|i̇yod|jodo|jodi|jod; jodyna
@@ -2880,10 +2879,17 @@ neputun:|Neputun|planete 8|||Neptune|Neptune|Neptuno|Netuno|Нептун|نبت�
 neputun.em:|neputunem|kimeme 093|Np|eng:neptunium, fra:neptunium, spa:neptunio, por:neptúnio, rus:нептуний, zho:镎 (ná), jpn:ネプツニウム, kor:넵투늄, vie:neptuni, hin:नेप्ट्यूनियम, ben:নেপচুনিয়াম, may:neptunium, swa:neptuni, ara: نبتونيوم|neptunium|neptunium|neptunio|neptúnio|нептуний|نبتونيوم|镎|ネプツニウム|넵투늄|neptuni|नेप्ट्यूनियम|নেপচুনিয়াম|neptunium|neptuni|neptunyum|neptunio|neptunium|neptun
 nes:|nes|||ell:νήσος (nēsos), may:nusa, mlg:nosy|island||isla||||||||||||||saari|wyspa
 nes:ia|nesia||||archipelago||archipiélago||||||||||||||saaristo|archipelag
-net:|netə|||eng:net, deu:Netz, jpn:ネット (netto)|net (web, mesh)||red|||||網||||||||reto|verkko|sieć
-net.don:a|netədona||||upload||cargar (subir)|||||||||||||||wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)
-net.get:a|netəgeta||||download|télécharger|descargar|||||||||||||||ściągać (ściągnąć, pobrać, pobierać)
-net.lok:|netəlokə||||website||sitio web||||||||||||||nettisivu|witryna internetowa (portal internetowy)
+|||||net (web, mesh)|filet (maillage)|red (malla)|rede (malha)|сеть|شَبَكَة‎|网|網|그물 (망)|lưới (mạng)|जाल|জাল|jaring|wavu|ağ|reto|verkko|sieć
+net:|netə|||eng:net(work), deu:Netz(werk), jpn:ネット(ワーク) (nettowāku), kor:네트워크 (neteuwokeu) + fra:connecter, spa:por:connectar|nexus (web, network)|nexus (réseau)|nexo (red)|nexo (rede)|||||||||||||verkosto|
+net<a:|• anetə||||annex|||||||||||||||||
+net<inter:|• internetə||||internet||Internet||||||||||||||internet|internet
+net<kon:|• konnetə||||connect|connecter|conectar|conectar|связывать||连接|繋げる|연결||||||||yhdistää (kytkeä)|
+net<kon.or:|• konnetor||||connector|connecteur|conector|conector|||连接器||||||||||liitin|
+net<kon<de:|• dekonnetə||||disconnect||desconectar|desconectar|||||||||||||katkaista yhteys|
+net<kon.ion:|• konnetion||||connection|connexion|conexión|conexão||||||||||||||
+net~don:a|netədona||||upload||cargar (subir)|||||||||||||||wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)
+net~get:a|netəgeta||||download|télécharger|descargar|||||||||||||||ściągać (ściągnąć, pobrać, pobierać)
+net~lok:|netəlokə||||website||sitio web||||||||||||||nettisivu|witryna internetowa (portal internetowy)
 neu:|neu||||novelty (new product)||novedad|novidade|новинка (новь)|||||||||||novaĵo|uutuustuote|nowość
 neu:a|neva||||renew (make new, renovate)||renovar||||||||||||||uudistaa|odnowić, odnawiać, uczynić nowym
 neu:i|nevi|||eng:new,neo-, fra:nouveau, spa:nuevo, por:novo, rus:новый (novyy), hin:नव (nav)|new (recent)|nouveau|nuevo|novo|новый|جَدِيد|新|新しい|||नया (नवीन)||baru|-pya||nova|uusi|nowy
@@ -2904,10 +2910,6 @@ neur:i|neuri||||neural||neural|||||||||||||nerva|hermostollinen|nerwowy (neurono
 neur.cel:|neurəcel||||neuron|neurone|neurona|neurônio|нейрон||||||||||nöron|neŭrono|hermosolu (neuroni)|neuron
 neur.pat:ia|neurəpatia||||neuropathy||neuropatía||||||||||||||hermosairaus (neuropatia)|neuropatia
 neur.toks:|neurətoksə||||neurotoxin|neurotoxine||neurotoxina|||神经毒素|神経毒|||||||||hermomyrkky|
-nex:|neksə||||nexus|nexus|nexo|nexo||||||||||||||
-nex<a:|• aneksə||||annex|||||||||||||||||
-nex<kon:|• konneksə||||connect (join together)|||||||||||||||||
-nex<kon.ion:|• konneksion||||connection|||||||||||||||||
 nic:|nicə|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
 nic:a|nica||||go under||||||||||||||||alittaa|iść w dół (iść pod spód, iść na dno)
 nic:i|nici||||lower (inferior)||inferior||||||||||||||ala-|poniższy
