@@ -1,0 +1,13 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/malayu
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../malayu
+site_dir: ../../html/malayu
+theme: readthedocs
+nav:
+    - Home: 'index.md'
+    - 'Kalimat': fraze.md
+    - 'Kamus':
+        - 'Pandunia–Melayu': pandunia-malayu.md
+        - 'Melayu–Pandunia': malayu-pandunia.md
+
