@@ -106,8 +106,7 @@ angul:|angul|||hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|fi
 angul.mark:|angulmarkə||||fingerprint|empreinte digitale|huella digital|impressão digital|отпечаток пальца||指纹 (指印)|指紋|지문||||||parmak izi||sormenjälki|
 angul.pik:|angulpikə||||fingertip|bout de doigt|yema del dedo|ponta do dedo|кончик пальца|بَنَان‎|指尖|指先|||अंगुलाग्र||||||sormenpää|
 angul.ring:|angulring||||finger ring||anillo (sortija)|||||||||||||ringo|sormus|pierścień, pierścionek; obrączka
-anim:|animə|||eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|animation (cartoon)|animation|animación (dibujo animado)||оживление||活跃|||||||||kartuno|animaatio (piirretty)|animacja
-anim:a|anima||||animate|animer|animar||||||||||||||animoida|animować
+anim:|animə|||eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)|animate (animation, cartoon)|animer (animation)|animar (animación, dibujo animado)||оживление||活跃|||||||||kartuno|animaatio (piirretty)|animować (animacja)
 anis:|anis|bio|Pimpinella anisum|eng:anise, fra:por:anis, spa:anís, rus:анис (anis), ara: أَنْسُون‎ (ʾansūn), jpn:アニス (anisu), kor:아니스 (aniseu)|anise|anis|anís|anis|анис|أَنْسُون‎|茴芹|アニス (八角)|아니스||||||||anis|anyż
 anis~ arak:|anis arakə||||raki|raki||áraque|арак (ракы)||阿剌吉||||||||rakı||raki|
 anjil:|anjil|||ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl), rus:евангелие (evangeliye), fra:évangile, por:evangelho|message|message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość
@@ -117,12 +116,10 @@ antartik:i hai:|Antartiki Hai||||Antarctic Ocean|Océan Antarctique|océano Ant�
 anten:|anten|||eng:antenna, spa:por:may:antena, fra:antenne, rus:антенна (antenna), tur:anten, jpn:アンテナ (antena)|antenna (aerial)|antenne|antena||антенна||天线|||||||||anteno|antenni|antena
 antigua:|Antigua|dex|||Antigua|Antigua|Antigua||||||||||||||Antigua|Antigua
 antigua: e: barbuda:|Antigua e Barbuda|dex|AG||Antigua and Barbuda|Antigua-et-Barbuda|Antigua y Barbuda||||||||||||||Antigua ja Barbuda|Antigua i Barbuda
-anus:|anus|||eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs|anus|anus|ano||анус||肛门|||||||||anuso|peräaukko (anus)|odbyt
-anus:i|anusi||||anal|anal|anal|||||||||||||anusa|anaalinen|analny, odbytni
+anus:|anus|||eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs|anus (anal)|anus (anal)|ano (anal)||анус||肛门|||||||||anuso|peräaukko (anus; anaalinen)|odbyt (analny, odbytni)
 apl:|aplə|biu||eng:apple, deu:Apfel, may:apel, ben:আেপল (apôl), zul:ihhabhula|apple|pomme|manzana|maçã|яблоко|تُفَّاح‎|苹果|林檎|||सेब||apel (epal)|tofaa|elma|pomo|omena|jabłko
 apl.saus:|apləsaus||||applesauce|compote de pommes|compota de manzanas|purê de maçã|яблочное пюре||||||||||||omenasose|sos jabłkowy
-aplik:|aplikə|||eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|application|application|aplicación||||||||||||||sovellus|zastosowanie, aplikacja
-aplik:a|aplika||||apply (put to use for a purpose)|appliquer|emplear (aplicar)|usar|||运用||||प्रयोग में लाना||||kullanmak||soveltaa|zastosować, stosować
+aplik:|aplikə|||eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja|apply (put to use for a purpose; application)|appliquer (application)|emplear (aplicar; aplicación)||||运用||||प्रयोग में लाना||||kullanmak||soveltaa (sovellus)|stosować (zastosować; zastosowanie, aplikacja)
 apsni:|Apsni|dex|||Abkhazia|Abkhazie|abjazia||Абхазия||||||||||||Abhaasia|Abchazja
 ar:|ar|||eng:area, por:spa:área, pol:areał, fra:aire|area (extent of surface)|aire (superficie)|área (superficie)||площадь||面积|||||||||areo|ala (pinta-ala)|pole, powierzchnia
 ar:ia|aria||||area (region)|espace (zone, région)|área (zona, región)|||||辺||||||||ejo|alue (seutu)|powierzchnia, region, teren
@@ -157,11 +154,10 @@ aruba:|Aruba|dex|AW||Aruba|Aruba|Aruba||||||||||||||Aruba|Aruba
 as:i|asi||||Asian|asiatique|asiático|||||||||||||azia|aasialainen|azjatycki
 as:ia|Asia|||eng:spa:Asia, rus:Азия (Aziya), tur:Asya, ara:آسيا (ʾāsiyā), fas:آسیا‎ (âsiyâ), hin:एशिया (eśiyā), ben:এশিয়া (eśiẏa), mar:आशिया (āśiyā), may:Asia, zho:亞洲 (yàzhōu), yue:亚洲 (aa3 zau1), wuu:亚洲 (ia tseu), jpn:アジア (ajia), kor:아시아 (asia)|Asia|Asie|Asia|||||||||||||Azio|Aasia|Azja
 asan:|asan|||hin:आसन (āsan), eng:asana, rus:асана (asana)|posture (asana)|posture (position)|postura (posición)||поза||||||||sikap (posisi)|||posteno|asento|postawa ciała; asana
-asar:|asar|||ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir, swa:athari|effect (impact, impression, result, outcome)|effet|resulta (efecto)|efeito|эффект||影响|効果||||||athari|eser||vaikutus (tulos)|rezult, wynik
-asar:a|asara||||effect (bring about)|effectuer|efectuar|efetuar|||||||||||||vaikuttaa|poprowadzić do (doprowadzić do, powodować)
+asar:|asar|||ara: أَثَر‎ (ʾaṯar), fas: اثر‎ (asar), hin:असर (asar), ben:আসর (asôr), tur:eser,tesir, swa:athari|effect (impact, impression, result, outcome)|effet (effectuer)|efectuar (efecto, resulta)|efetuar (efeito)|эффект||影响|効果||||||athari|eser||vaikuttaa (vaikutus, tulos)|powodować (rezult, wynik)
 asket:|asketə|||eng:ascetic, spa:por:asceta, fra:ascéte, rus:аскет (asket)|ascetic|ascète|asceta|||||||||||||ascetiko|askeett|asceta
-asl:|aslə|||ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|origin (source)|origine|origen|origem|начало (причина)||起源|起源|기원 (원인)||मूल||asal|asili|kaynak (asl)|origino|alkuperä|źródło, początek, pochodzenie
-asl:i|asli||||original (authentic)|originel|original|original|||原始的||||||asli|||origina|alkuperäinen|źródłowy, początkowy, oryginalny
+asl:|aslə|||ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili|origin (source; original, authentic)|origine (originel)|origen (original)|origem (original)|начало (причина)||起源 (原始)|起源|기원 (원인)||मूल||asal (asli)|asili|kaynak (asl)|origino|alkuperä (lähde; alkuperäinen)|źródło (początek, pochodzenie; źródłowy, początkowy, oryginalny)
+||||||||||||||||||||||
 asl.amerik:i|aslameriki||||Amerindian (Native American)|amérindien (indien)|indígena (indio)|indígena (índio)|инде́йский||||||मूल अमेरिकी||||||intiaani (Amerikan alkuperäisasukas)|indiański
 asl.austr.al:i|aslaustrali||||Australian Aboriginal|aborigènes australiens|aborigen|||||||||||||aborigeno|aboriginaali (Australian alkuperäisasukas)|aborygeński
 asm:|asmə|||fra:asthme, eng:asthma, spa:por:may:asma, pol:astma|asthma|asthme|asma|asma|астма||气喘||||श्वासरोग||bengek||astım|astmo|astma|astma
@@ -196,18 +192,14 @@ atlant.kad:|atlantəkadə|biu|Gadus morhua||Atlantic cod|morue de l'Atlantique|b
 atlant.salmon:|atlantəsalmon|biu|Salmo salar||Atlantic salmon|saumon altentique|salmón del Atlántico||Атлантический лосось (сёмга)||大西洋鮭|タイセイヨウサケ|||||salmon Atlantik|||||łosoś atlantycki
 atom:|atom|||eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|atom|atome|átomo|||||||||||||atomo|atomi|atom
 auakat:|avakatə|biu||nah:ahuakatl, spa:aguacate, por:abacate, tgl:abokado, jpn:アボカド (abokado), kor:아보카도 (abokado), fra:avocat, pol:awokado, kon:zavoká|avocado|avocat|aguacate|||||||||||||avokado|avokado|awokado
-auar:|avar|||ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|damage (injury, harm)|dommage|daño (corrupción)|dano (avaria)|повреждение (авария)|||||||||||damaĝo|vaurio (vahinko, haveri)|obrażenia (rana, krzywda)
-auar:a|avara||||harm (damage)||dañar||||||||||||||vahingoittaa (vaurioittaa)|
-auar:i|avari||||damaged (corrupt)||dañado||||||||||||||vaurioitunut|
+auar:|avar|||ara: عَوَارِيَّة‎ (ʿawāriyya), eng:(nautical) average, fra:avarie, spa:avéria, por:avaria, rus:авария (avariya), tur:avarya|damage (injury, harm)|dommage|dañar (daño, corrupción)|dano (avaria)|повреждение (авария)|||||||||||damaĝo|vaurio (vahinko, haveri)|obrażenia (rana, krzywda)
 auar.an:i|avarani||||harmful (damaging)||dañino (perjudicial)|||||||||||||damaĝa|vahingollinen (vaurioittava)|krzywdzący (szkodliwy)
 aud:a|auda|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
 auen:|aven|||fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|oat|avoine|avena|aveia|овёс||燕麦|烏麦|귀리|yến mạch|जई|জই|haver||yulaf|aveno|kaura|
 aure:|aurə|kimeme 079|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum, swa:auri|gold|or|oro|ouro|золото|ذهب|金|金|금|vàng|सोना|গোল্ড|emas|dhahabu (auri)|altın|oro|kulta|złoto
 austr.al:ia|Australia|dex|AU||Australia|Australie|Australia|||||||||||||Aŭstralio|Australia|Australia
 austr.nes:ia|Austrənesia||||Austronesia|Austronésie|Austronesia|Austronésia|Австронезия||南岛|オーストロネシア|오스트로네시아|||||||Aŭstronezio|Austronesia|
-aut:|autə|||ell:αὐτός (aftós), eng:fra:spa:por:auto-, rus:авто- (avto-)|self (identity)||mismo (yo)|||||自己|||||||||itseys|jaźń (tożsamość)
-aut:a|auta||||personalize (customize)||personalizar|||||カスタマイズする||||||||||
-aut:i|auti||||personal (intimate, private, custom)||personal (privado, a medida)||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
+aut:|autə|||ell:αὐτός (aftós), eng:fra:spa:por:auto-, rus:авто- (avto-)|self (identity; personal, intimate, private)||mismo (personal, privado, a medida)|||||自己|||||||||itseys (minuus; itseä koskeva, henkilökohtainen)|jaźń (tożsamość)
 aut.krat:ia|autəkratia||||autocracy (monarchy)||autocratia (monarquía)|||||君主制|||||||||yksinvaltius (autokratia, monarkia)|monarchia
 aut.log:|autəlogə||||monolog|monologue|monólogo|monólogo|монолог||独白|独白 (独話)|||||||monolog||yksinpuhelu (monologi)|monolog
 aut.mot:i|autəmoti||||self-moving (automotive, automobile)||automotor (automotriz)|||||||||||||memmova|itseliikkuva|samobieżny
@@ -251,35 +243,26 @@ band:|bandə|||zho:班 (bān), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande
 band.ir:|bandir|||eng:banner, fra:bannière, spa:bandera, por:bandeira, may:bendera, tgl:bandila, swa:bendera|flag (banner)|drapeau|bandera||флаг||旗|||||||||flago|lippu|flaga, sztandar
 bangl:i|bangli||||Bengali (Bangla)|bengali|bengalí||||||||||||||bengali|banglijski
 bangl.dex:|Banglədex|dex|BD||Bangladesh|Bangladesh|Bangladés|||||||||||||Bangladeŝo|Bangladesh|Bangladesz
-bangl.dex:i|banglədexi||||Bangladeshi|bangladais|bangladesí|||||||||||||bangladeŝa|bangladeshilainen|bangladeski
-bani:|banyə|||spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|bath|bain|bañera||купание||洗澡|||||||bafu||bano|kylpy|kąpiel
-bani:u|banyu||||bathe|se baigner|bañarse||купаться||游泳|||||||||bana|kylpeä|kąpać się
+bani:|banyə|||spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|bathe (bath)|bain (bagner)|bañarse (baño)||купание (купаться)||洗澡 (游泳)|||||||bafu||bano|kylpy (kylpeä)|kąpiel (kąpać się)
 bani.kamar:|banyəkamar||||bathroom|salle de bains|baño||ванная||浴室|||||||||banĉambro|kylpyhuone|łazienka
-bank:|bankə|||eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|bank (depository, cache)|banque|banco|banco|банк||银行||||बैंक||bank||banka|banko|pankki|bank
-bank:a|banka||||save (deposit, bank)||ahorrar (reservar, depositar)||||||||||||||tallettaa (tallentaa)|oszczędzać (deponować)
-bank.er:|banker||||banker|banquier|banquero|banqueiro||||||||||||bankisto|pankkiiri|bankier
+bank:|bankə|||eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|bank (deposit, save)|banque|ahorrar (reservar, depositar)|||||||||||||banki|tallettaa (tallentaa)|oszczędzać (deponować)
+bank.er:|• banker||||banker|banquier|banquero|banqueiro||||||||||||bankisto|pankkiiri|bankier
+bank.kan:|• bankəkan||||bank (depository, cache)||banco|banco|банк||银行||||बैंक||bank||banka|banko|pankki (talletuspaikka)|bank
 bans:|bansə|biu|Bambusoideae|hin:बांस (bāns), ben:বাঁশ (bãśô), pnb:ਬਾਂਸ (bāns), swa:mwanzi|bamboo|bambou|bambú|bambu|бамбук|خَيْزَرَان|竹子|竹|대나무|tre|बांस|বাঁশ|buluh (bambu)|mwanzi||bambuo|bambu|bambus
 bar:|bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar||bar||||||||||||||baari (kapakka)|bar
-bar:|barə|||hin:भार  (bhār), ben:ভারী (bharī), may:berat, tel:బరువు (baruvu), fas: بار‎ (bâr), ell: βαρύς (barýs) + kor:바리 (bari)|burden (load, weight)|charge (fardeau, poids)|carga (pesa)|carga (peso)|ноша||擔子||바리 (짐)||||||yük||kuorma (lasti, taakka, paino)|ciężar (brzemię)
-bar:a|bara||||burden (load, encumber)||cargar|carregar|обременять||||||लादना (भरना)||||||kuormata (lastata, ladata)|naładować, załadować, obładować, ładować
+bar:|barə|||eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|bar (barrier, fence)|barrière|barrera (barda)|barrar (barreira)|барьер||||||बाड़ (रोक)|বেড়া||||barilo|este (sulku; puomi)|bariera
 bar.em:|barem|kimeme 056|Ba|eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari, ara: باريوم|barium|baryum|bario|bário|барий|باريوم|钡|バリウム|바륨|bari|बेरियम|বেরিয়াম|barium|bari|baryum|bario|barium|bar
-bar.metal:|barmetal||||heavy metal|métaux lourds|metal pesado|||||||||||||pezmetalo|raskasmetalli|metal ciężki
 barbados:|Barbados|dex|BB||Barbados|Barbade|Barbados||||||||||||||Barbados|Barbados
 barbar:|barbar|||deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|barbarian|barbare|bárbaro|||||||||||||barbaro|barbaari (raakalainen)|barbarzyńca
 barbuda:|Barbuda|dex|||Barbuda|Barbuda|Barbuda||||||||||||||Barbuda|Barbuda
 bard:|bardə|||fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|beard|barbe|barba|barba|борода|||||||||||barbo|parta|broda
-bari:a|barya||||bar (obstruct, block)|bloquer|barrar (bloquear, obstruir)|barrar|преграждать||||||रोकना|||||bari|estää kulku (tukkia tie)|blokować, hamować
-bari.er:|baryer|||eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|barrier (fence)|barrière|barrera (barda)|barreira|барьер||||||बाड़ (रोक)|বেড়া||||barilo|este|bariera
-bark:a|barka|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|congratulate (bless)|féliciter|felicitar|||||||||||||gratuli|onnitella (siunata)|gratulować; błogosławić
-bark:e!|barke!||||congratulations! (blessing, benediction)|Félicitations !|¡Felicitaciones!|||||||||||baraka|||onneksi olkoon!|gratulacje!
+bark:|barkə|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|congratulate (bless; congratulation, benediction)|féliciter (felicitation)|felicitar (felicitacion)|||||||||||baraka||gratuli|onnitella (siunata)|gratulować (błogosławić, gratulacje)
 barkok:|barkokə|pal||ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|apricot|abricot|albaricoque|damasco (abricó)|абрикос||杏子||||ख़ूबानी|খুবানি||aprikoti|kayısı (zerdali)|abrikoto|aprikoosi|morela
 bart:i|barti|||hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|Indian|indien|indio (hindú)|||||||||||||Barata|intialainen|Indyjski
 bart:i hai:|Barti Hai||||Indian Ocean|océan Indien|océano Índico||||||||||||||Intian valtameri|Ocean Indyjski
 bart:ia|Bartia|dex|IN||India|Inde|India|||||||||||||Baratio|Intia|Indie
 barud:|barudə|||ara:fas:urd:(bārūd), hin:बारूद (bārūd), swa:baruti, tur:barut|gunpowder|poudre à canon|pólvora|||||||||||baruti|barut|pulvo|ruuti|proch strzelniczy
-barx:|barxə|||hin:बारिश (bāriś), ben:বৃষ্টি (briśṭi), tur:baran|rain (precipitation)|pluie|lluvia|chuva|дождь|مطر‎|雨|雨|비|mưa|बारिश (वर्षा)|বৃষ্টি|hujan|mvua|yağmur (baran)|pluvo|sade|deszcz
-barx:i|barxi||||rainy|pluvieux|lluvioso (pluvioso)|chuvoso (pluvioso)|дождливый||多雨||||बरसाती||||yağmurlu|pluva|sateinen|deszczowy
-barx:u|barxu||||rain (pour down)||llover||дожди́ть|||雨が降る|||||||||sataa|padać (lać)
+barx:|barxə|||hin:बारिश (bāriś), ben:বৃষ্টি (briśṭi), tur:baran|rain (precipitation)|pluie|llover (lluvia)|chuva|дождь|مطر‎|雨|雨 (雨が降る)|비|mưa|बारिश (वर्षा)|বৃষ্টি|hujan|mvua|yağmur (baran)|pluvo|sade|deszcz (padać, lać)
 barx.cat:|barxəcatə||||umbrella|parapluie|parasol|guarda-chuva|зонтик||伞||||छाता||payung||şemsiye|obrelo|sateenvarjo|parasol
 barx.kot:|barxəkotə||||raincoat|imperméable|impermeable|capa de chuva|плащ (дождевик)||雨衣||||रेनकोट||jas hujan||yağmurluk||sadetakki|płaszcz nieprzemakalny
 barx.mosim:|barxəmosim||||rainy season (monsoon)|mousson||monção|муссон||雨季|雨季|우기|mùa mưa|वर्षा ऋतु||musim hujan|majira ya mvua|muson||sadekausi|
@@ -296,18 +279,14 @@ baton:|baton|||eng:cane, fra:canne, zho:杆 (gǎn),|bar (pole, rod, shaft, staff
 baton.kaps:|batonkapsə||||cage|cage|jaula (caja)|gaiola (jaula)|клетка|قَفَص|笼|檻 (篭, ケージ)|우리|lồng|क़फ़स (पिंजड़ा)|খাঁচা|sangkar|tundu|kafes|kaĝo|häkki|klatka
 baton.pang:|batonpang||||baguette||baguette||||||||||||||patonki (ranskanleipä)|bagietka
 batr:|batrə|||eng:battery, hat:batri, fas:(bātri), swa:betri, hin:बैटरी (baiṭrī), ben:ব্যাটারি (byaṭari), ara:(baṭṭāriyya), jpn:バッテリー (batterī), kor:배터리 (baeteori), rus:батарея (batareya), spa:por:bateria, may:bateri|battery|pile (batterie)|pila (batería)|pilha (bateria)|батарея|بَطَّارِيَّة|电池|バッテリー|전지 (배터리)|pin (bình điện)|बैटरी|ব্যাটারি|baterai (bateri)|betri|pil (akü)|baterio (pilo)|akku (paristo)|bateria
-bau:|bau|||zho:宝 (bǎo), kor:보 (bo), vie:bảo, jpn:宝 (hō)|treasure (valuables)||tesoro||сокровище (казна)|||||||||||trezoro|aarre|skarb; skrabiec
-bau:i|bavi||||precious|précieux|precioso|precioso|драгоценный||宝贵||귀중한||||||||arvokas|cenny
+bau:|bau|||zho:宝 (bǎo), kor:보 (bo), vie:bảo, jpn:宝 (hō)|treasure (valuables; precious)|précieux|tesoro (precioso)|precioso|сокровище (казна; драгоценный)||宝 (宝贵)||귀중한|||||||trezoro|aarre (arvokas)|skarb (skrabiec; cenny)
+||||||||||||||||||||||
 bau.xek:|bauxekə||||gem (gemstone, jewel)|pierre précieuse (joyau)|piedra preciosa (joya, gema)|pedra preciosa (gema)|драгоценный камень|جوهرة‎|宝石|宝石|보석|đá quý|मणि (रत्न)||permata (jauhar)|johari|mücevher|juvelo|jalokivi|klejnot
-bax:|baxə|||hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|language (communication)|langue|lengua (idioma)|língua (idioma)|язык||语言|言語|||भाषा||bahasa|lugha|dil (lisan)|lingvo|kieli (kommunikaatio)|język; komunikacja
-bax:a|baxa||||speak (communicate)||hablar (comunicarse)|||||||||||||paroli (komuniki)|puhua (kommunikoida)|mówić; komunikować
+bax:|baxə|||hin:भाषा (bhāṣā), urd:(bhāṣā), ben:ভাষা (bhaṣa), pnb:ਭਾਸ਼ਾ (bhāshā), tel:భాష (bhāṣa), tam:பாசை (pāsai), tha:ภาษา (phasa), may:bahasa, jav:basa|speak (language, communication)|langue|hablar (comunicarse; lengua (idioma)|língua (idioma)|язык||语言|言語|||भाषा||bahasa|lugha|dil (lisan)|paroli (komuniki; lingvo)|kieli (kommunikaatio)|mówić (komunikować; język, komunikacja)
 bax:i jins:|baxi jinsə||||grammatical gender|genre grammatical|género gramatical|gênero gramatical|род в грамматике||文法的性|文法的性 (名詞クラス)|||||||||kieliopillinen suku|rodzaj gramatyczny
 bax.kanun:|baxəkanun||||grammar||gramática|||||||||||||gramatiko|kielioppi|gramatyka
-bax.kanun:i|baxəkanuni||||grammatical||gramatical|||||||||||||gramatika|kieliopillinen|gramatyczny
 bax.loj:ia|baxəlojia||||linguistics||lingüística||||语言学|言語学||||||||lingvistiko|kielitiede (lingvistiikka)|językoznastwo
-baz:|bazə|||eng:fra:por:spa:base, deu:Basis, rus:база (baza)|base (foundation)|base|base|base|основа (база,  фундамент)||底部||||आधार||landasan||temel|bazo|perusta (perustus)|podstawa, baza, fundament
-baz:a|baza||||found||fundar (basar)||||||||||||||perustaa|zakładać (założyć, ustanowić)
-baz:i|bazi||||basic||básico|||||||||||||baza|perus-|bazowy, podstawowy
+baz:|bazə|||eng:fra:por:spa:base, deu:Basis, rus:база (baza)|base (foundation; basic; base on, found)|base|base (básico; fundar, basar)|base|основа (база,  фундамент)||底部||||आधार||landasan||temel|bazo|perusta (perustus; perustaa)|podstawa (baza, fundament; bazowy; zakładać (założyć, ustanowić)
 baz.bol:|bazəbol||||baseball|baseball|béisbol|basebol (beisebol)|бейсбол||棒球|野球|야구|bóng chày|बेसबॉल|||besiboli|beyzbol|basbalo|baseball (amerikkalainen pesäpallo)|bejsbol (baseball)
 baz.er:|bazer||||founder||fundador||||||||||||||perustaja|założyciel
 baz.kanun:|bazəkanun||||consitution||constitución||||||||||||||perustuslaki|konstytucja
@@ -333,8 +312,7 @@ beliz:|Belizə|dex|BZ||Belize||Belice|||||||||||||Beliceo|Belize|Belize
 ben:|ben|||ara: ابن (ibn, bint), heb:בן (ben), בת (bat)|child (offspring)|fils ou fille|hijo o hija|filho ou filha||وَلَد||子供 (息子か娘)|어린이|đứa bé|बेटा या बेटी|শিশু|anak|mwana|çocuk|ido (infano)|lapsi (jälkeläinen)|dziecko, potomek
 ben.ben:|benben||||grandchild||||||||||||||||lapsenlapsi|
 benc:|bencə|||eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)|bench||banco (silla)|||||||||||||benko|penkki|ławka
-bend:|bendə|||ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)|band (tape, bandage)||banda (cinta)|||||||||||||bandaĝo (vindo)|nauha (side)|taśma; bandaż
-bend:a|benda||||tie (fasten, bind)||atar (amarrar)|||||||||||||ligi|sitoa|związać, wiązać; zapiąć, zapinać
+bend:|bendə|||ita:benda, swa:bendeji, spa:venda, fra:bande, eng:band, deu:Binde, rus:бинт (bint) hin:बाँधना (bāndhnā)|bind (tie, fasten; band, bandage)||banda (cinta; atar, amarrar))|||||||||||||bandaĝo (vindo)|side (nauha; sitoa)|bandaż (taśma; związać, wiązać; zapiąć, zapinać)
 benin:|Benin|dex|BJ||Benin||Benín||||||||||||||Benin|Benin
 benzin:|benzin|||deu:Benzin, spa:bencina, rus:бензин (benzin), tur:benzin, ara:بنزين (banzīn), hin:बेंज़ीन (benzīn), may:bensin, jpn:ベンジン (benjin), swa:benzini|gasoline (petrol)||gasolina (bencina)|||||||||||benzini|benzin|benzino|bensiini (bensa)|benzyna
 ber:|berə|||deu:Beere, eng:berry, may:beri, hin:बेरी (berī), ben:বেরি (beri), jpn: ベリー (berī)|berry|baie|baya|baga|ягода|توت|浆果 (莓)|漿果 (ベリー )|||बेरी||beri||||marja|jagoda
@@ -349,18 +327,16 @@ bet:|betə|biu|Beta vulgaris subsp. vulgaris, Conditiva|eng:beet, spa:betabel, p
 beton:|beton|||fra:béton, por:betão, deu:Beton, rus:бетон (beton), pol:tur:beton, fas:بتن‎ (beton)|concrete (material with cement)||concreto (hormigón)|||||||||||||betono|betoni|beton
 bi.can.iu.er:|biəcaniver||||compost|compost|abono orgánico (compost)||компост|||堆肥||||||||||kompost
 bi.loj:ia|biəlojia||||biology (study of organic life)|biologie|biología|biología|биология||生物学|生物学|생물학|sinh vật học|जीवविज्ञान|জীববিজ্ঞান|biologi (ilmu hayat)|biolojia|biyoloji|biologio|biologia|biologia (nauka o życiu)
-bi.mut:i|biəmuti||||fermented|||||||||||||||||sfermentowany
-bi.mut:u|biəmutu||||ferment (leaven)|fermenter|fermentar|fermentar|заквасить||发酵|熟成する (発酵する)||||||||||fermentować
+bi.mut:|biəmutə||||ferment (leaven)|fermenter|fermentar|fermentar|заквасить||发酵|熟成する (発酵する)||||||||||fermentować
 bi.sistem:|biəsistem||||biome|biome|bioma|bioma|биом||生物群系|生物群系||||||||||biom
 bi.toks:|biətoksə||||toxin|toxine|toxina|toxina|токсин||毒素|毒素|독소|toxin (độc tố)|||||||toksiini|toksyna
 bibl:i|bibli||||Biblical|||||||||||||||biblia|raamatullinen|
 bibl:ia|biblia||||Bible||Biblia|||||||||||||Biblio|Raamattu|Biblia
 bil:|bil|||eng:bill, hin:बिल (bil), may:bil|bill (invoice)||cuenta (factura)||счёт||帐单||||||bon (bil)||||lasku (faktuura)|rachunek (faktura)
 bilor:|bilor|||ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|crystal|cristal|cristal|cristal|кристалл|||結晶||||||fuwele|||kristalli|kryształ
-bin:|bin||||building (structure)||||||||||||||||rakennus (rakenne)|budynek (struktura)
-bin:a|bina|||ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|build (construct)|construire|construir (edificar)|construir|строить|بَنَى‎|建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|rakentaa|zbudować, budować, konstruować
-bin.plan:ia|binplania||||architecture|architecture|arquitectura|arquitetura|архитектура|هَنْدَسَة مِعْمَارِيَّة‎|建筑学|建築学|건축학|kiến trúc|वास्तुकला||seni bina|ujenzi|mimarlık|arĥitekturo|arkkitehtuuri|architektura
-bin.plan.er:|binplaner||||architect|architecte|arquitecto|arquiteto|архитектор|مِعْمَارِيّ‎|建筑师|建築家|건축가|kiến trúc sư|वास्तुकार|স্থপতি|arkitek (jurubina)||mimar|arĥitekto|arkkitehti|architekt
+bin:|binə|||ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|build (building)|construire|construir (edificar)|construir|строить|بَنَى‎|建设|建てる|||बनाना||bangun (bina)|kujenga||konstrui|koota (rakentaa; rakennus)|budować (zbudować, konstruować; budynek)
+bin.plan:ia|binəplania||||architecture|architecture|arquitectura|arquitetura|архитектура|هَنْدَسَة مِعْمَارِيَّة‎|建筑学|建築学|건축학|kiến trúc|वास्तुकला||seni bina|ujenzi|mimarlık|arĥitekturo|arkkitehtuuri|architektura
+bin.plan.er:|binəplaner||||architect|architecte|arquitecto|arquiteto|архитектор|مِعْمَارِيّ‎|建筑师|建築家|건축가|kiến trúc sư|वास्तुकार|স্থপতি|arkitek (jurubina)||mimar|arĥitekto|arkkitehti|architekt
 bind:|bində|||hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|dot (spot)||punto (lunar)|||||||||||||punkto|täplä (läiskä)|punkt
 bir:|bir|||eng:beer, tur:bira, fra:bière, ara: بيرة (bīra), may:bir, hin:बियर (biyar), swa:bia, zho:啤(酒) pí(jiǔ), jpn:ビール (bīru)|beer|bière|cerveza (birra)|cerveja|пиво|بيرة|啤酒|ビール|||बियर||bir|bia||biero|olut (kalja)|piwo
 bir.kan:|birkan|||eng:bar, hin:बार (bār), spa:bar, zho:酒吧 (jiǔbā), rus:бар (bar)|bar (pub, beer house)||bar (pub)|||||||||||||drinkejo|baari (kapakka)|bar, knajpa
@@ -1928,6 +1904,7 @@ karcof:|karcof|biu|Cynara cardunculus var. scolymus|ara:خرشوف (kharshuf), a
 kard:|kardə|||eng:card, jpn: カード (kādo), swa: kadi, zho:卡 (kǎ), deu:Karte, may:kartu, fra:carte|card|carte|tarjeta (carta)|carta|карта||牌|カルタ|||ताश||kartu|karata||karto|kortti|karta
 kardon:|kardon|biu||spa:por:cardo, fra:chardon, eng:cardoon, jpn:カルドン (karudon)|thistle|chardon|cardo|cardo|расторопша||蓟|アザミ||||||||||oset
 kardon.karcof:|kardonkarcof|biu|Cyara cardunculus||artichoke thistle (cardoon)|cardon|||артишок испанский (кардон)||刺苞菜蓟|カルドン||||||||||karczoch hiszpański
+karg:|kargə|||spa:por:carga, eng:cargo, may:kargo|burden (load, weight, charge, cargo)|charge (fardeau, poids)|carga (pesa)|carregar (carga, peso)|обременять (ноша)||擔子||바리 (짐)||लादना (भरना)||||yük||kuorma (lasti, lataus, taakka, paino)|ciężar (brzemię; ładować)
 karg<ri:|• rikargə||||recharge (reload)||recargar|||||||||||||||
 karib:|karibə||||proximity||proximidad|||||||||||||||bliskość
 karib:i|karibi|||ara:fas:urd:(qarīb), swa:karibu, tur:takribi|near (close)||cerca|||||||||||||proksima|läheinen|bliski
@@ -4036,9 +4013,7 @@ tank:|tankə|||eng:tank, hin:टंकी (ṭaṅkī), swa:tangi, spa:tanque, 
 tantal.em:|tantalem|kimeme 073|Ta|eng:tantalum, fra:tantale, spa:tántalo, por:tântalo, rus:тантал, zho:钽 (tǎn), jpn:タンタル, kor:탄탈, vie:tantali, hin:टाण्टलम, ben:ট্যান্টালাম, may:tantalum, swa:tantali, ara: تنتالم|tantalum|tantale|tántalo|tântalo|тантал|تنتالم|钽|タンタル|탄탈|tantali, tantan|टाण्टलम|ট্যান্টালাম|tantalum|tantali|tantal|tantalo|tantaali|tantal
 tanur:|tanur|||fas:heb:tanur, ara:(tannūr), eng:tandoor, athanor, tur:tandır, hin:तनूर (tanūr), urd:(tanūr), pnb:ਤੰਦੂਰ (tandūr)|oven (furnace)||horno|||||||||||||forno|uuni|piec (piekarnik)
 tanzan:ia|Tanzania|dex|TZ||Tanzania||Tanzania|||||||||||||Tanzanio|Tansania|Tanzania
-tap:|tapə|||spa:tur:tapa, por:tampa, ell:τάπα (tapa), bul:тапа (tapa), eng:tap|stopper (cap, peg, tap)||tapón (tapa)||||||||||||||tulppa (tappi, korkki)|korek, zatyczka, szpunt
-tap:a|tapa||||plug (stop with a plug)||taponar||||||||||||||korkittaa (tukkia)|zatkać, ztykać
-tap<de:|• detapə||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać, odtykać
+tap:|tapə|||spa:tur:tapa, por:tampa, ell:τάπα (tapa), bul:тапа (tapa), eng:tap|stop (obsruct, block; plug, stopper, cap, peg, tap)|bloquer|tapón (tapa; taponar, bloquear, obstruir)||преграждать||||||रोकना||||||tukko (tulppa, tappi, korkki; tukkia)|zatyczka (korek, szpunt; zatkać, ztykać, blokować, hamować)
 tap<de:|• detapə||||unplug (uncork)||desatascar||||||||||||||korkata|odetkać,odtykać
 tarif:|tarif|||eng:tariff, spa:por:tarifa, deu:fra:tur:tarif, ara:(taʿrīf), rus:тариф (tarif), hin:टैरिफ़ (ṭairif)|tarif (tax, duty)||impuesto (tributo, tarifa)||||||||||||||taksa (tariffi)|opłata, taryfa
 tarj:|tarjə|||ara:(tarjama), hin:तर्जुमा (tarjuma), urd:(tarjuma), ben:তর্জমা (tôrjôma), may:terjemah, swa:tarjumi, tur:tercüme|translation (interpretation)|traduction|tradicción (interpretación)||перевод||翻译|||||||tafsiri (tarjumi)||traduko|käännös (tulkinta)|tłumaczenie, interpretacja
@@ -4422,6 +4397,7 @@ uz.abl:i|uzabli||||usable (available)||utilizable (disponible)|||||使用可能|
 uz.er:|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
 uz.er.nam:|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
 uzbek:ia|Uzbekia|dex|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekistan
+vez.metal:|vezə metal||||heavy metal|métaux lourds|metal pesado|||||||||||||pezmetalo|raskasmetalli|metal ciężki
 vid<dus:i|• dusvidi||||ugly (unsightly)|laid (vilain)|feo|feio|безобразный (некрасивый)|قَبِيح|难看|見苦しい|추악하다|xấu xí|बदसूरत|বিশ্রী|hodoh||çirkin|malbonaspekta|ruma (pahannäköinen)|brzydki
 vid<ex:i|• exvidi||||evident (apparent, obvious)|évident|evidente|evidente|очевидный||||||||||bariz|evidenta|ilmeinen (silminnähtävä)|
 vid<trans.abl<n:|nətransvidablə||||opaque||opaco||непрозрачный|||不透明||||||||||
