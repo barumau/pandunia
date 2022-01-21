@@ -187,8 +187,7 @@ ark:|arkə|||eng:arch, spa:por:arco, fra:arc, rus:арка (arka), may:arka|bow 
 ark.er:|arker||||archer|archer|arquero||лучник|||弓兵|||||||||jousiampuja|łucznik
 ark.er:ia|arkeria||||archery|tire à l'arc|tiro con arco||||||||||||||jousiammunta|łucznictwo
 arm:|armə|||fra:arme, eng:arms, spa:por:arma|weapon (arms)|arme|arma|arma|||武器|||||||||armilo|ase|broń
-arom:|aromə|||eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat), jpn:アロマ (aroma)|scent (odor, fragrance, aroma)|odeur|olor (aroma)|cheiro|запах (аромат)||气味|香り (匂い, 臭い)|||||||||haju|zapach (aromat, smród, odór)
-arom:a|aroma||||smell (sniff)|sentir qqch|oler (olfatear)||понюхать||闻到|嗅ぐ|||||||||haistaa|wąchać
+arom:|aromə|||eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat), jpn:アロマ (aroma)|flavor (aroma)|||||||||||||||||
 arom:u|aromu||||smell (reek)|sentir qqch (avoir l'odeur de qqch)|oler (apestar)|cheirar|пахнуть||发臭|香る (匂う, 臭う)|||||||||haista|pachnieć
 arom.melon:|aroməmelon|biu|Cucumis melo, Makuwa||Korean melon||melón coreano|melão coreano|||香瓜|マクワウリ||||||||||melon koreański
 arsen:|arsenə|kimeme 033|As|eng:arsenic, fra:arsenic, spa:arsénico, por:arsénic, zho:砷 (shēn), vie:asen, hin:आर्सेनिक, ben:আর্সেনিক, may:arsen, swa:aseniki, ara: زرنيخ|arsenic|arsenic|arsénico|arsénic|мышьяк|زرنيخ|砷|ヒ素|비소|asen|आर्सेनिक|আর্সেনিক|arsen|aseniki|arsenik|arseno|arseeni|arsen
@@ -1253,6 +1252,8 @@ gan.mosim:|ganmosim|mosim|||dry season||||||||||||musim kemarau|||||
 gan.putau:|ganputau|||kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|raisin||pasa (uva pasa)|||||||||||||sekvinbero|rusina|rodzynka
 gan.tex:|gantex||||towel|serviette|toalla|toalha|||||||तौलिया|||||viŝilo|pyyheliina|ręcznik
 gana:|Gana|dex|GH||Ghana||Ghana||||||||||||||Ghana|Ghana
+gand:|gandə|||hin:गंध (gandh), ben:গন্ধ (gôndh)|scent (odor, fragrance, aroma)|odeur|olor (aroma)|cheiro|запах (аромат)||气味|香り (匂い, 臭い)|||गंध (बू)|গন্ধ|bau||||haju|zapach (aromat, smród, odór)
+gand:a|ganda||||smell (sniff)|sentir qqch|oler (olfatear)||понюхать||闻到|嗅ぐ|||||||||haistaa|wąchać
 ganda:|Ganda|dex|UG||Uganda||Uganda||||||||||||||Uganda|Uganda
 ganga:|Ganga||||Ganges||Ganges|||||||||||||Gangoj|Ganges|Ganges
 gani:a|ganya|||fra:gagner, por:ganhar, spa:ganar, eng:gain|earn (gain)||ganar (cobrar)|||||||||||||akiri (gajni)|hankkia (ansaita)|zyskać, zyskiwać, zarobić, zarabiać
@@ -2020,6 +2021,7 @@ ketl:|ketlə|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketl�
 kex:|kex|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
 kex.bend:|kexbendə||||hairband (headband)||cinta (cinta para el pelo)||||||||||||||hiuspanta|opaska do włosów
 kex.sabun:|kexəsabun||||shampoo||champú|||||||||||||ŝampuo|šampoo|szampon
+kex<su:|sukexə||||good-haired||||||||||||||||kaunishiuksinen|
 kil:i|kili|numbe|1000|eng:fra:spa:por:may:tur:kilo-, rus:кило- (kilo-), jpn:キロ- (kiro-), kor:킬로- (killo-)|thousand (kilo-)||mil (kilo-)|||||千 (１０００)||||||||mil (kilo-)|tuhat (kilo-)|tysiąc (kilo-)
 kil.gram:|kiləgram|unomete|kg||kilogram (kg)||kilograma||||||||||||||kilogramma|kilogram (kg)
 kil.mitr:|kiləmitrə|unomete|km||kilometer (km)||kilometre|||||||||||||kilometro|kilometri|kilometr
@@ -2221,6 +2223,7 @@ kuku:|kuku|biu||eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukush
 kul:i|kuli|||eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)|cool||genial|||||カッコいい||||||||bonega (mojosa)|upea (hieno)|świetny
 kulomb:|kulombə|unomete|C||coulomb (unit)||culombio||||||||||||||kulombi (mittayksikkö C)|kulomb
 kultur:|kultur|||eng:fra:culture, spa:por:cultura, rus:культу́ра (kulʹtúra), tur:kültür, jpn:カルチャー (karuchā)|culture||cultura|||||||||||||kulturo|kulttuuri|kultura
+kumar:|kumar|||hin:कुमार (kumār), tel:కుమారుడు (kumāruḍu), khm:កុមារ (ko’maa), tha:กุมาร (kuman)|adolescent (yong man; maiden)|||||||||||||||||
 kup:|kupə|||eng:cup, fra:coupe, spa:copa, por:copo, ara: كُوب‎ (kūb), tur:kupa, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop) + fas:(koppe), ara:قبة (qubba), may:kubah, rus:купол (kupol), deu:Kuppel|drinking vessel (cup, glass, mug, goblet, chalice)|coupe (tasse, verre)|vaso (taza, copa)|copo (taça)|чаша (чашка, стакан)|كُوب‎|杯子|コップ|컵|ly (chén)|प्याला|পেয়ালা|cangkir (cawan, gelas)|kikombe (glas)|kase (fincan, bardak, kupa)|taso|malja (kuppi, muki, lasi)|kubek
 kup.cat:|kupəcatə||||dome||cúpula||||||||||||||kupoli (holvikatto)|kopuła
 kupon:|kupon|||eng:fra:coupon, spa:cupón, por:cupom, rus:купо́н (kupón), may:kupon, jpn:クーポン (kūpon), kor:쿠폰 (kupon), swa:kuponi|coupon||cupón (vale)|||||||||||kuponi|||kuponki|kupon
@@ -2757,6 +2760,7 @@ muh:|muh|biu||(onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū
 muh.mans:|muhmansə||||beef||carne de vaca|||||||||||||bovaĵo|lehmän liha|wołowina
 muk:|mukə|||ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|face|visage|cara (rosto)||||||||||muka|||vizaĝo|kasvot (naama)|twarz
 muk.fun:|mukəfun||||face powder||polvo de cara||||||||||||||puuteri|puder
+muk<su:|sumukə||||beautiful-faced||||||||||||||||kauniskasvoinen|
 mul:|mul|||hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|root|racine|raíz|raíz|корень|جَذْر|根|根|뿌리|rễ|मूल (जड़)|মূল|akar|mzizi|kök|radiko|juuri|korzeń
 mult:i|multi|||por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)|many (much)||muchos|||||多い|||||||||moni (usea)|wiele
 mult:ia|multia||||number (abundance)||número (muchedumbre)|||||||||||||||liczność (mnóstwo)
@@ -2879,14 +2883,13 @@ neputun:|Neputun|planete 8|||Neptune|Neptune|Neptuno|Netuno|Нептун|نبت�
 neputun.em:|neputunem|kimeme 093|Np|eng:neptunium, fra:neptunium, spa:neptunio, por:neptúnio, rus:нептуний, zho:镎 (ná), jpn:ネプツニウム, kor:넵투늄, vie:neptuni, hin:नेप्ट्यूनियम, ben:নেপচুনিয়াম, may:neptunium, swa:neptuni, ara: نبتونيوم|neptunium|neptunium|neptunio|neptúnio|нептуний|نبتونيوم|镎|ネプツニウム|넵투늄|neptuni|नेप्ट्यूनियम|নেপচুনিয়াম|neptunium|neptuni|neptunyum|neptunio|neptunium|neptun
 nes:|nes|||ell:νήσος (nēsos), may:nusa, mlg:nosy|island||isla||||||||||||||saari|wyspa
 nes:ia|nesia||||archipelago||archipiélago||||||||||||||saaristo|archipelag
-|||||net (web, mesh)|filet (maillage)|red (malla)|rede (malha)|сеть|شَبَكَة‎|网|網|그물 (망)|lưới (mạng)|जाल|জাল|jaring|wavu|ağ|reto|verkko|sieć
 net:|netə|||eng:net(work), deu:Netz(werk), jpn:ネット(ワーク) (nettowāku), kor:네트워크 (neteuwokeu) + fra:connecter, spa:por:connectar|nexus (web, network)|nexus (réseau)|nexo (red)|nexo (rede)|||||||||||||verkosto|
 net<a:|• anetə||||annex|||||||||||||||||
 net<inter:|• internetə||||internet||Internet||||||||||||||internet|internet
 net<kon:|• konnetə||||connect|connecter|conectar|conectar|связывать||连接|繋げる|연결||||||||yhdistää (kytkeä)|
+net<kon.ion:|• konnetion||||connection|connexion|conexión|conexão||||||||||||||
 net<kon.or:|• konnetor||||connector|connecteur|conector|conector|||连接器||||||||||liitin|
 net<kon<de:|• dekonnetə||||disconnect||desconectar|desconectar|||||||||||||katkaista yhteys|
-net<kon.ion:|• konnetion||||connection|connexion|conexión|conexão||||||||||||||
 net~don:a|netədona||||upload||cargar (subir)|||||||||||||||wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)
 net~get:a|netəgeta||||download|télécharger|descargar|||||||||||||||ściągać (ściągnąć, pobrać, pobierać)
 net~lok:|netəlokə||||website||sitio web||||||||||||||nettisivu|witryna internetowa (portal internetowy)
@@ -3062,11 +3065,14 @@ pac:i hai:|Paci Hai||||Pacific Ocean||océano Pacífico||||||||||||||Tyyni valta
 pac.ist:|pacistə||||pacifist|pacifiste|pacifista|pacifista|||和平主义者|||||||||pacifisto|pasifisti|pacyfista
 pac.ist:ia|pacistia||||pacifism||pacifismo||||和平主义|||||||||pacifismo|rauhanaate (pasifismi)|pacyfizm
 pac.kad:|pacəkadə|biu|Gadus macrocephalus||Pacific cod|morue du Pacifique|||тихоокеанская треска|||マダラ||||||||||dorsz pacyficzny
+pad:|padə|||eng:path, deu:Pfad, rus:путь (putʹ), hin:पथ (path), ben:পথ (pôth), tel:పథము (pathamu), |route (path, trail, course, itinerary)||ruta||||||||||||||polku (reitti, kurssi)|ścieżka (droga, szlak, kurs)
 pad:a|pada||||drop (let fall)||dejar caer||||||||||||||pudottaa|upuścić, upuszczać
 pad:i|padi||||fallen|chu|||упавший  (падший)||||||||||||pudonnut (tippunut)|upadły
 pad:u|padu|||tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)|fall||caer||||||||||||||pudota (tipahtaa)|paść, padać, upaść, upadać
 pad.mosim:|padəmosim|mosim|||autumn (fall)|automne|otoño|outono||||||||||||aŭtuno|syksy (syys)|jesień
 pad.mun:|padəmun||||trapdoor||trampilla||лаз|||落とし戸||||||||||klapa
+pad<de:|• depadə||||stray (deviate)||apartarse (desviarse)||отходить (скитаться)|||逸れる||||||||||zbłąkać się (wykoleić się)
+pad<de:i|• depadi||||stray (deviant)|||||||||||||||||zbłąkany (dewiacyjny, wykolejony)
 pagr:|pagrə|||hin:mar:पगड़ी (pagṛī), urd:(pagṛī), ben:পাগড়ি (pagri)|turban|turban|turbante|turbante|чалма||包头||||पगड़ी|পাগড়ি|||||turbaani|turban
 pai:|pai|||eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)|pie (pastry)|tarte|pastel (pay)|torta|пирог||馅饼||||||kue pai||turta|torto|piirakka (piiras)|placek, ciasto
 paiac:|payacə|||ita:pagliaccio,fra:paillassa,spa:payaso,por:palhaço,rus:паяц (payac),tur:palyaço|clown|clown (paillasse)|payaso (clown)|palhaço|клоун (паяц)||小丑|ピエロ (道化師)|||||badut||palyaço|klaŭno|pelle (klovni)|klaun
@@ -3473,8 +3479,9 @@ rait:|raitə|||eng:right|right hand side||lado derecho|||||右|||||||||oikea puo
 rait:i|raiti||||right hand||derecho|||||||||||||||prawy (prawostronny, z prawej strony)
 rait.ist:|raitistə||||rightist (right-winger)||derechista||||||||||||||oikeistolainen|prawicowiec (prawak)
 raj:i|raji||||royal||real (de realtad)||||||||||||||kuninkaallinen|królewski
-raj:ia|rajia|||hin:राज्य (rājya), ben:রাজ্য (rajyô)|kingdom||reino||||||||||||||kuningaskunta|królestwo
-raj.er:|rajer||||king or queen||rey o reina|||||国王||||||||reĝo aŭ reĝino|monarkki (kuningas, kuningatar)|król lub królowa
+raj:ia|• rajia|||hin:राज्य (rājya), ben:রাজ্য (rajyô)|kingdom||reino||||||||||||||kuningaskunta|królestwo
+raj.er:|• rajer||||king or queen||rey o reina|||||国王||||||||reĝo aŭ reĝino|monarkki (kuningas, kuningatar)|król lub królowa
+raj.ben:|• rajəben||||prince or princess||||||||||राजकुमार|রাজকুমার (শাহজাদা)|||||prinssi tai prinsessa|
 ramazan:|ramazan||||Ramadan||Ramadán||||||||||||||ramadan|Ramadan
 ramp:|rampə|||fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)|ramp (incline, slope)||rampa (cuesta)|||||||||||||ramplo|luiska (ramppi)|rampa
 rand:|randə|||tur:rende, bul:ренде (rende), ron:rindea, hin:रंदा, (randâ), fas:(rande), swa:(randa)|plane (tool for making a smooth surface)||garlopa||||||||||||||höylä|hebel, strug
@@ -3621,10 +3628,6 @@ rup:u|rupu||||seem||parecer||||||||||||||näyttää jltkn|wyglądać (wydawać s
 rus:i|rusi||||Russian||ruso||||||||||||||venäläinen|rosyjski
 rus:i krep:|rusi krepə|yam|||blini|||||||||||||||rusa krepo|blini|rosyjski naleśnik (blin)
 rus:ia|Rusia|dex|RU||Russia||Rusia||||||||||||||Venäjä|Rosja
-rut:|rutə|||eng:fra:route, spa:ruta, por:rota, deu:Route, jpn:ルート (rūto), rus:маршрут (maršrut)|route (path, trail, course, itinerary)||ruta||||||||||||||polku (reitti, kurssi)|ścieżka (droga, szlak, kurs)
-rut.galt:a|rutəgalta||||stray (deviate)||apartarse (desviarse)||отходить (скитаться)|||逸れる||||||||||zbłąkać się (wykoleić się)
-rut.galt:i|rutəgalti||||stray (deviant)|||||||||||||||||zbłąkany (dewiacyjny, wykolejony)
-rut.in:|• rutin|||eng:fra:routine,spa:rutina,por:rotina,deu:Routine,fas:روتین‎ (rutin),rus:рутина (rutina)|routine (habit)||rutina (hábito)|||||||||||||rutino (kutimo)|tapa (rutiini)|rutyna,nawyk,zwyczaj
 ruten.em:|rutenem|kimeme 044|Ru||ruthenium|ruthénium|rutenio|ruténio|рутений|روتينيوم|钌|ルテニウム|루테늄|ruteni|रुथेनियम|রুথেনিয়াম|rutenium|rutheni|rutenyum|rutenio|rutenium|rut
 ruterford.em:|ruterfordem|kimeme 104|Rf|eng:rutherfordium, fra:rutherfordium, spa:rutherfordio, por:rutherfórdio, rus:резерфордий, ²курчатовий, zho: (lú), jpn:ラザホージウム, kor:러더포듐, vie:rutherfordi, hin:रुथरफोर्डियम, ben:রাদারফোর্ডিয়াম, may:rutherfordium, swa:rutherfordi, ara: رذرفورديوم|rutherfordium|rutherfordium|rutherfordio|rutherfórdio|резерфордий, ²курчатовий|رذرفورديوم||ラザホージウム|러더포듐|rutherfordi|रुथरफोर्डियम|রাদারফোর্ডিয়াম|rutherfordium|rutherfordi|rutherfordiyum|ruterfordio|rutherfordium|rutherford
 rutin:|rutin|||eng:fra:routine, spa:rutina, por:rotina, deu:Routine, fas:روتین‎ (rutin), rus:рутина (rutina)|routine (habit)||rutina (hábito)|||||||||||||rutino (kutimo)|tapa (rutiini)|rutyna, nawyk, zwyczaj
@@ -3932,6 +3935,7 @@ stud:ia|• studia||||studio (study room, atelier)|étude|estudio||кабине�
 stud.aj:|• studajə||||study (work made in order to practise or demonstrate)|étude|||этюд||||||||||||tutkielma|
 stud.ent:|• studentə|||deu:eng:student,fra:étudiant,spa:estudiante,por:estudante,rus:студент (student),hin:स्टूडेंट (sṭūḍeṇṭ)|learner (student)|étudiant|estudiante (alumno)|estudante (aluno)|студент|طالب‎|学生|学生|학생|học sinh|छात्र (स्टूडेंट,तालिब)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|lernanto (studento)|oppilas (opiskelija)|
 stud.er:|• studer||||student|étudiant|estudiante|estudante|студент||||||विद्यार्थी (स्टूडेंट)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|studento|opiskelija|student
+su:|su-|||scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-|good (well)|||||||||||||||||
 suahil:i|suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
 sual:|sual|||ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|question (query, inquiry)|question|pregunta|questão (pergunta)|вопрос|سؤال|问题|質問 (問題)|질문 (문제)|câu hỏi (vấn đề)|सवाल (प्रश्न)|প্রশ্ন|pertanyaan (soal)|swali (suala)|soru (sual)|demando|kysymys|pytanie
 sual:a|suala||||ask (inquire)|demander (poser un question; est-ce que)|preguntar (inquirir)|perguntar|спрашивать|سأل‎|问|聞く|묻다 (질문하다)|hỏi|पूछना|পুছা|tanya|kuuliza (kusaili)|sormak|demandi|kysyä|zapytać, spytać, pytać
@@ -4600,5 +4604,7 @@ zuk.med:i|zukəmedi||||interethnic||interétnica||межэтнический||||
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurud:|zumurudə|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
+|||||net (web, mesh)|filet (maillage)|red (malla)|rede (malha)|сеть|شَبَكَة‎|网|網|그물 (망)|lưới (mạng)|जाल|জাল|jaring|wavu|ağ|reto|verkko|sieć
+|||||routine (habit)||rutina (hábito)|||||||||||||rutino (kutimo)|tapa (rutiini)|rutyna,nawyk,zwyczaj
 |||||shore (bank, edge)|bord (rive)|orilla (ribera)|margem|||岸|岸|||तट||tebing|||||wybrzeże (brzeg, krawędź)
 |||||fat (grease)||grasa|||||||||||||graso|rasva (öljy)|tłuszcz
