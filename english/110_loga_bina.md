@@ -1,198 +1,291 @@
 # Word derivation
 
 New words can be built freely in Pandunia!
-Pandunia has a productive system of word derivation.
+Pandunia has a word derivation system that is regular and productive.
 
 ## How to combine words
 
-Two or more words can be put together to make a _compound word_.
-The last word is the most meaningful part in the compound
-and the words that come before it only modify its meaning.
+Pandunia words are made up of roots and suffixes.
+A root is that part of word that refers to something in the world outside the language.
+A suffix is a vowel ending that has mainly a grammatical function.
+For example, the word **zemia** 'planet Earth' consists of the root **zem-** 'earth, soil'
+and the collective noun suffix **-ia**.
 
-**demo**
-(the people) +
-**krati**
-(rule) =
-**demo krati**
-(democracy).
+           zem-      'earth, soil'
+       +   -ia       'a noun ending'
+    _____________
+    =     zemia      'planet Earth'
 
-**an demo krati di**
-(undemocratic)
+Two or more roots can be put together to make _compound words_.
+The last root is the most meaningful part in the compound
+and the preceding roots only modify its meaning.
 
-**termo**
-(warmth) +
-**metre**
-(measurement) +
-**gi**
-(device) =
-**termo metre gi**
-(thermometer).
+           pan-      'all'
+       +   dem-      'people, public'
+       +    -i       'adjective ending'
+    _____________
+    =   pandemi      'pandemic'
+
+Joining roots together could sometimes result into unpronounceable consonant sequences.
+For example, the consonant sequence **-nsst-** could appear when the roots **dans-** and **stud-** were put together.
+Then the linking vowel **-ə-** is inserted between the roots to make pronunciation easier.
+
+          dans-      'dance'
+       +    -ə-      'linking vowel'
+       +  stud-      'study'
+       +   -ia       'a noun ending'
+    _____________
+    = dansəstudia    'dance studio'
+
+There are two more examples below.
+
+           dem-      'people, public'
+       +    -ə-      'linking vowel'
+       +  krat-      'rule, govern'
+       +   -ia       'a noun ending'
+    _____________
+    = deməkratia     'democracy'
+
+          term-      'temperature'
+       +    -ə-      'linking vowel'
+       +   met-      'measuring'
+       +    or-      'apparatus'
+    ____________
+    = terməmetor     'thermometer'
+
+There are some roots in Pandunia that are used frequently as prefixes in compound words but seldom as words on their own.
+These include the roots **a-**, **de-**, **pro-**, **re-** and **su-** among others.
+
+             a-      'to, toward'
+       +   ces-      'pass'
+    ____________
+    =     acesə      'get past to, access'
+
+           pro-      'forward, to the front'
+       +   ces-      'pass'
+    ____________
+    =   procesə      'pass forward, process'
+
+            re-      'back to'
+       +   ces-      'pass'
+    ____________
+    =    recesə      'pass back, recede'
+
+            de-      'away, off'
+       +   ces-      'pass'
+    ____________
+    =    decesə      'pass away, die'
+
+            su-      'good, well'
+       +   ces-      'pass'
+    ____________
+    =    sucesə      'go well, succeed'
+
 
 
 ### Common affixes
 
-#### an
+#### -aj-
+
+Indicates a group of things or objects.
+
+**bagə**
+'bag' →
+**bagajə**
+'baggage, luggage'  
+**formə**
+'form' →
+**formajə**
+'format, formation'  
+**korə**
+'core'
+**korajə**
+'guts, the things in the core'
+
+#### de-
 
 Creates verbs that reverse the meaning of the base verb.
 
-**node**
-(to tie) →
-**an node**
-(to untie)  
-**tapa**
-(to plug, to close with a plug) →
-**an tapa**
-(to unplug, to open the plug).
+**kodə**
+'code' →
+**dekodə**
+'decode, remove coding'  
+**tapə**
+'plug, cap, stopper' →
+**detapə**
+'unplug, remove the plug, cap or stopper'
 
+#### nə-, ən-
 
-#### di
+Creates words that denote negative or absence of the base word.
 
-**di**
-denotes someone or something that is characterized by the base word.
+**human**
+'human' →
+**nəhuman**
+'unhuman'
 
-**dom**
-– home  
-**dom di**
-– domestic  
-**oranje rang**
-orange color
-→ **oranje rang di**
-orange-colored
+Since this root consists of one consonant only,
+its alternative form **ən-** is used before roots that begin with a vowel.
 
+**uzablə**
+'usable' →
+**ənuzablə**
+'unusable'
 
-#### ja
+#### -er
 
 Creates agent nouns.
-It denotes a person who does or causes the action.
+It denotes a person or a tool which does the action.
 
-**yam**
-(to eat) →
-**yam ja**
-(one who eats, eater)  
-**shula**
-(to learn) →
-**shula ja**
-(one who learns, learner)  
-**karate**
-(karate) →
-**karate ja**
-(one who does karate, karateka)
-
-**loga**
-(to speak) →
-**loga ja**
-(speaker, the one who speaks)  
-**filsofi**
-(to think deeply) →
-**filsofi ja**
-(philosopher)  
-**mata**
-(death) →
-**mata ja**
-(killer)
+**loga** to speak; **loger** speaker, the one who speaks  
+**beka** to bake; **beker** baker, the one who bakes  
+**lida** to lead; **lider** leader, the one who leads  
+**filsofa** to think deeply; **filsofer** philosopher  
+**komputa** to compute, to process data; **komputer** computer  
+**morta** to kill; **morter** killer  
 
 The derivative can be also more loosely associated with the root.
 
-**sapatu**
-(shoe) →
-**sapatu ja**
-(shoemaker)  
-**muskete**
-(musket) →
-**muskete ja**
-(musketeer)  
-**kasa**
-(cash box) →
-**kasa ja**
-(cashier)
+**sapate** shoe; **sapater** shoemaker  
+**muskete** musket; **musketer** musketeer  
+**kase** cash desk; **kaser** cashier  
 
-
-#### gi
-
-Indicates a device, machine, or tool that is used for the action.
-
-**fei**
-(fly) →
-**fei gi**
-(flying machine, aircraft)  
-**foto grafi**
-(photograph) →
-**foto grafi gi**
-(camera)  
-**pince**
-(pinch) →
-**pince gi**
-(pliers)
-
-
-#### ta
-
-Creates abstract nouns representing a quality or state.
-
-**nove**
-(new) →
-**nove ta**
-(newness, novelty)  
-**huru**
-(free) →
-**huru ta**
-(freedom)  
-**un**
-(one)
-**un ta**
-(oneness, unity)
-
-
-#### bil
-
-Indicates possibility. It is often used with the agent suffix **ja**.
-
-**bil** possible  
-**bilja** able, capable
-
-**vide**
-(to see) →
-**vide bil**
-(which can be seen, visible)  
-**vide bil ja**
-(who/which can see)
-
-
-#### jama
+#### -ia
 
 Creates aggregate nouns.
-It denotes a group or set of elements.
+It denotes a group of elements named by the root as a whole.
 
-**nesi jama** archipelago  
-**loga jama** vocabulary  
+**human**
+'human being' →
+**humania**
+'humanity, mankind, all the human beings as a group'  
+**kristə**
+'Christian' →
+**kristia**
+'Christianity, all Christians as a group'  
+**filsof**
+'view, outlook, life wisdom' →
+**filsofia**
+'philosophy, the discipline of wisdom'
 
+This ending is often used in place names, especially in country names.
+However it is not always used.
+There are also a lot of country names that do not end in **-ia**.
 
-#### suta
+**arabə**
+'Arab, Arabic' →
+**Arabia**
+'Arabia'  
+**rus**
+'Russian, Ruski' →
+**Rusia**
+'Russia'  
+**turkə**
+'Turk, Turkish' →
+**Turkia**
+'Turkey'  
+**italə'
+'Italic, Italian' →
+**Italia**
+'Italy'  
+**Asia**
+'Asia'  
+**Indonesia**
+'Indonesia'
 
-A field of expertise, or a set of techniques for using or making something.
+Also abstract nouns often end in **-ia**.
 
-**enjener suta** engineering  
-**sapatu suta** shoemaking  
+**novə**
+'new' →
+**novia**
+'newness, novelty'  
+**hurə**
+'free' →
+**huria**
+'freedom'
 
+When **-ia** is added after **-er-**, it means a field of expertise.
 
-#### sim
+**enjener**
+'engineer' →
+**enjeneria**
+'engineering'  
+**sapater**
+'shoemaker' →
+**sapateria**
+'shoemaking'
+
+#### -ik-
+
+**-ik-**
+denotes someone or something that is predominantly characterized by the base word.
+
+**un**
+'one'
+→ **unikə**
+'only, sole, single'  
+**dom**
+'home' →
+**domikə**
+'domestic'  
+**novə**
+'new' →
+→ **novikə**
+'novice, newbie'
+
+#### -abl-
+
+Indicates possibility.
+
+**vidə**
+'see, view' →
+**vidablə**
+'one that can be seen, visible'  
+**uzə**
+'use' →
+**uzablə**
+'one that can be used, usable'
+
+#### -ist-
+
+This suffix denotes a person who tends to behave or think in a certain way
+or to follow a certain ideology or religion.
+
+**deu**
+'god' →
+**devistə**
+'theist, one who believes in existence of a god or gods'
+
+#### -ism-
 
 Denotes an ideology or a way of thinking or living (an _ism_).
-It is often used with the agent suffix **ja**.
+It can be a political ideology, a religion or some other movement movement
+whose adherents tend to behave or think in a certain way.
 
-This suffix that denotes a person who tends to behave or think in a
-certain way or to follow a certain ideology or religion.
+**deu**
+'god' →
+**devismə**
+'theism'
 
-**deu** god  
-**deu sim** theism (system of belief in a god or gods)
-**deu sim ja** theist (one who believes in existence of a god or gods)  
-**deu sim di** theistic  
+#### -it-
 
+Passive participle and causative suffix.
 
-#### she
+**sabə**
+'know' →
+**sabitə**
+'known'
 
-Indicates a thing that exhibits an attribute or suffers an action.
+#### -or-
 
-**sabe** to know  
-**sabe she** known thing (knowledge)  
+Indicates an apparatus, device, machine, or tool that is used for the action.
+
+**tratə**
+'drag, haul' →
+**trator**
+'tractor'  
+**fotəgraf**
+'photograph' →
+**fotəgrafor**
+'photograph apparatus, camera'
 
