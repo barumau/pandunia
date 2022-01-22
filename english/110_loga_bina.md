@@ -3,7 +3,7 @@
 New words can be built freely in Pandunia!
 Pandunia has a word derivation system that is regular and productive.
 
-## How to combine words
+## How to combine words?
 
 Pandunia words are made up of roots and suffixes.
 A root is that part of word that refers to something in the world outside the language.
@@ -27,15 +27,14 @@ and the preceding roots only modify its meaning.
     =   pandemi      'pandemic'
 
 Joining roots together could sometimes result into unpronounceable consonant sequences.
-For example, the consonant sequence **-nsst-** could appear when the roots **dans-** and **stud-** were put together.
+For example, the consonant sequence **-tgr-** could appear when the roots **fot-** and **graf-** were put together.
 Then the linking vowel **-ə-** is inserted between the roots to make pronunciation easier.
 
-          dans-      'dance'
+           fot-      'light'
        +    -ə-      'linking vowel'
-       +  stud-      'study'
-       +   -ia       'a noun ending'
+       +  graf-      'picture, image'
     _____________
-    = dansəstudia    'dance studio'
+    =   fotəgraf     'photograph'
 
 There are two more examples below.
 
@@ -53,8 +52,28 @@ There are two more examples below.
     ____________
     = terməmetor     'thermometer'
 
+
+## Compound words – together or separately?
+
+It doesn't matter are the elements of a compound word written together or separately
+– both ways work without problems
+because the linking vowel **-ə-** is used only for this purpose.
+So, for example, the word for 'mailbox' can be written
+**postə sandukə**
+or
+**postəsandukə**
+and the word for 'democracy' can be written either
+**demə kratia**
+or
+**deməkratia**.
+
+
+## International affixes
+
 There are some roots in Pandunia that are used frequently as prefixes in compound words but seldom as words on their own.
 These include the roots **a-**, **de-**, **pro-**, **re-** and **su-** among others.
+They are used in many international words
+and Pandunia has adopted them.
 
              a-      'to, toward'
        +   ces-      'pass'
@@ -81,9 +100,26 @@ These include the roots **a-**, **de-**, **pro-**, **re-** and **su-** among oth
     ____________
     =    sucesə      'go well, succeed'
 
+Note that these prefixes are used only in compound words that really mean the sum their parts.
+Fossilized words whose meanings are no longer the sum of their parts,
+like *evolution* (originally 'rolling out') and *revolution* (originally 'rolling back'),
+are not re-used in Pandunia.
 
 
-### Common affixes
+## Common affixes
+
+#### -abl-
+
+Indicates possibility.
+
+**vidə**
+'see, view' →
+**vidablə**
+'one that can be seen, visible'  
+**uzə**
+'use' →
+**uzablə**
+'one that can be used, usable'
 
 #### -aj-
 
@@ -101,6 +137,15 @@ Indicates a group of things or objects.
 'core'
 **korajə**
 'guts, the things in the core'
+
+#### -at-
+
+Denotes doing.
+
+**rotə**
+'wheel'
+→ **rotatə**
+'rotate, turn like a wheel'
 
 #### de-
 
@@ -233,18 +278,19 @@ denotes someone or something that is predominantly characterized by the base wor
 → **novikə**
 'novice, newbie'
 
-#### -abl-
+#### -ion
 
-Indicates possibility.
+Denotes an action or process.
 
-**vidə**
-'see, view' →
-**vidablə**
-'one that can be seen, visible'  
-**uzə**
-'use' →
-**uzablə**
-'one that can be used, usable'
+**ditə**
+'say'
+→ **dition**
+'saying, diction'  
+**rotatə**
+'turn like a wheel'
+→ **rotation**
+'rotation, turning'
+
 
 #### -ist-
 
