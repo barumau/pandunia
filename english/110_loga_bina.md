@@ -259,7 +259,7 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 'one that can be used, usable'
 
 **-aj-**
-'Indicates a group of things or objects' :  
+'thing made of or consisting of' :  
 **bagə**
 'bag'
 → **bagajə**
@@ -271,7 +271,19 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 **korə**
 'core'
 **korajə**
-'guts, the things in the core'
+'guts, the things in the core'  
+**misə**
+'send'
+→ **misajə**
+'something sent, message'  
+**fasə**
+'face'
+→ **fasajə**
+'facade, frontage'  
+**limon**
+'lemon'
+→ **limonaje**
+'lemonade'
 
 **-an**
 'one who belongs to, one who has membership in' :  
