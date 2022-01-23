@@ -184,14 +184,14 @@ It does the job of English words _who_ and _what_.
 **ke?**
 – Who or what?  
 
-The adjectival interrogative pronoun is **ki**
+The adjectival interrogative pronoun is **kə**
 and it means the same as English _which_.
 
-**ki xei?**
+**kə xei?**
 – What? (Which thing?)  
-**ki jan?**
+**kə jen?**
 – Who? (Which person?)  
-**ki zaman?**
+**kə zaman?**
 – When? (What time?)  
 
 The adverbial interrogative pronoun is **ko**
@@ -235,29 +235,27 @@ In Midi Pandunia, the pronouns and other function words that are derived from th
     - **-o** indicates an adverb of manner
     - **-a** indicates a preposition
     - **-u** indicates a postposition
+    - **-ə** indicates a prefix or prefix-like determiner
 
-|  | Idea          | Pronoun            | Determiner         | Adverb             | Preposition        | Postposition       |
-|--|:--------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
-| 1| Speaker       | **me**             | **mi**             |                    |                    |                    |
-|  |               | I                  | my                 |                    |                    |                    |
-| 2| Addressee     | **te**             | **ti**             |                    |                    |                    |
-|  |               | you                | your               |                    |                    |                    |
-| 3| Topical       | **le**             | **li**             | **lo**             | **la**             |                    |
-|  |               | that (aforesaid)   | the (aforesaid)    | as aforesaid       | from, since        |                    |
-| 4| Proximal      | **ye**             | **yi**             | **yo**             | **ya**             |                    |
-|  |               | this               | this               | like this          | at, in, on         |                    |
-| 5| Distal        | **ve**             | **vi**             | **vo**             | **va**             |                    |
-|  |               | that               | that               | like that          | to, for            |                    |
-| 6| Identity      | **se**             | **si**             |                    | **sa**             |                    |
-|  |               | self               | 's own             |                    | be; as             |                    |
-| 7| Question      | **ke**             | **ki**             | **ko**             |                    |                    |
-|  |               | what?              | which?             | how?               |                    |                    |
-| 8| Existence     | **he**             | **hi**             | **ho**             | **ha**             |                    |
-|  |               | (some)one          | some, a(n)         | really             | with; there is     |                    |
-| 9| Non-existence | **ne**             | **ni**             | **no**             | **na**             |                    |
-|  |               | none               | not any            | not; no            | without            |                    |
-|10| Relative      | **de**             | **di**             |                    | **da**             | **du**             |
-|  |               | which              | which              |                    | of                 | 's                 |
+| Idea          | Pronoun            | Determiner         | Adverb             | Preposition        | Postposition       | Prefix-like        |
+|:--------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
+| 1st person    | **me**             | **mi**             |                    |                    |                    |                    |
+|               | I                  | my                 |                    |                    |                    |                    |
+| 2nd person    | **te**             | **ti**             |                    |                    |                    |                    |
+|               | you                | your               |                    |                    |                    |                    |
+| 3rd person    | **le**             | **li**             |                    |                    |                    | **lə**             |
+|               | it, he, she        | its, his, her      |                    |                    |                    | the                |
+| Self          | **se**             | **si**             |                    | **sa**             |                    |                    |
+|               | self               | 's own             |                    | be                 |                    |                    |
+| Question      | **ke**             | **ki**             | **ko**             |                    |                    | **kə**             |
+|               | what?              | whose?             | how?               |                    |                    | which?             |
+| Existence     | **ye**             | **yi**             | **yo**             | **ya**             |                    | **yə**             |
+|               | some               | some               | somehow            | with; there is     |                    | some-              |
+| Non-existence | **ne**             | **ni**             | **no**             | **na**             |                    | **nə**             |
+|               | none               | not any            | not; no            | without            |                    | no-, un-           |
+| Relative      | **de**             | **di**             |                    | **da**             | **du**             |                    |
+|               | that, which        | that               |                    | of                 | 's                 |                    |
+
 
 ### Nouns
 
@@ -313,9 +311,9 @@ for example good, bad, big, and fast.
 An adjective is a word that adds a particular quality for a noun.
 In Midi Pandunia, adjectives end in **-i** and their place is before a noun.
 
-**novi gar**
+**novi kar**
 – new car(s)  
-**rapidi gar**
+**rapidi kar**
 – fast car(s)  
 **dayi meze**
 – big table(s)  
@@ -326,20 +324,20 @@ In Midi Pandunia, adjectives end in **-i** and their place is before a noun.
 
 Two or more adjectives can modify the same word.
 
-**lili novi gar**
+**lili novi kar**
 – a little, new car
 
 Adjective can be also after the noun.
 Often this type of phrases can be read as complete sentences, where the verb _to be_ is implied.
 
-**gar novi.**
+**kar novi.**
 – The car is new.  
 **bagre rapidi.**
 – The tiger is fast.
 
 Naturally there can be modifiers on both sides of the noun as well.
 
-**novi gar rapidi.**
+**novi kar rapidi.**
 – The new car is fast.
 
 ## Adverbs
@@ -363,16 +361,16 @@ or at the end of the sentence.
 A modifier can modify also another modifier.
 For example **day** (big) and **lil** (little) can be used as intensifying adverbs.
 
-**dayi jan**
+**dayi jen**
 – a big person  
-**lili jan**
+**lili jen**
 – a little person  
-**sundari jan**
+**sundari jen**
 – a beautiful person
 
-**dayo sundari jan**
+**dayo sundari jen**
 – very beautiful person  
-**lilo sundari jan**
+**lilo sundari jen**
 – somewhat beautiful person
 
 
@@ -896,7 +894,7 @@ Pandunia has five prepositions of place and time.
 2. **na** - absence or lack: without
 3. **va** - location or moment (in general):
    at, in, on, by
-4. **ja** - origin, beginning or cause: from, since, because
+4. **za** - origin, beginning or cause: from, since, because
 5. **pa** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
@@ -906,15 +904,15 @@ the preposition is complemented by a pronoun or a noun phrase.
 – I'm in the hotel.  
 **me sona va hotel.**
 – I sleep in the hotel.  
-**me sona ja xam pa sube.**
+**me sona za xam pa sube.**
 – I sleep since evening until morning.  
-**me safara ja London pa Paris.**
+**me safara za London pa Paris.**
 – I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
 refer to time.
 
-**me denga ja te kita.**
+**me denga za te kita.**
 – I have waited since you left.  
 **me denga pa te laya dom.**
 – I wait until you come home.  
@@ -1225,51 +1223,51 @@ but it is necessary only in complex phrases.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**di buke, de jan kitaba, padu.**
+**di buke, de jen kitaba, padu.**
 – _That_ book, which the person writes, falls.
 
 Normally the same sentence includes only **de**.
 
-**buke, de jan kitaba, padu.**
+**buke, de jen kitaba, padu.**
 – The book that the person writes falls.
 
 It is possible to leave also **de** out.
 This structure is called _reduced relative clause_.
 
-**buke, jan kitaba, padu.**
+**buke, jen kitaba, padu.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**jan, de kitaba buke, padu.**
+**jen, de kitaba buke, padu.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**_di_ kalam, ya _de_ jan kitaba buke, padu.**
+**_di_ kalam, ya _de_ jen kitaba buke, padu.**
 – _That_ pen, with _which_ the person writes the book, falls.  
-**kalam, jan kitaba buke ya, padu.**
+**kalam, jen kitaba buke ya, padu.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**_di_ jan, me vida _de_ kitaba buke, padu.**
+**_di_ jen, me vida _de_ kitaba buke, padu.**
 – The person, whom I see write the book, falls.  
-**jan, me vida kitaba buke, padu.**
+**jen, me vida kitaba buke, padu.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**_di_ jan, me kitaba buke ya _de_ du kalam, padu.**
+**_di_ jen, me kitaba buke ya _de_ du kalam, padu.**
 – The person whose pen I write the book with falls.  
 
 Finally, a content clause can also involve **de**,
 which refers back to the previous phrase.
 
-**jan kitaba buke, de sa hami.**
+**jen kitaba buke, de sa hami.**
 – The person writes a book, which is important.
 
 However, it is unclear whethere **de** (_which_) refers to only the book
@@ -1278,7 +1276,7 @@ It can be clarified by an expression like
 **di fate**
 (_the fact_).
 
-**jan kitaba buke, di fate sa hami.**
+**jen kitaba buke, di fate sa hami.**
 – The fact that the person writes the book is important.
 
 
@@ -1452,7 +1450,6 @@ Verbs and verb phrases are turned into modifiers by placing **da** or **du** imm
 – the art of painting pictures  
 **suke da helpa ale**
 – the joy of helping others
-
 
 
 #### Tense and Aspect Particles
