@@ -230,31 +230,30 @@ In Midi Pandunia, the pronouns and other function words that are derived from th
    Sometimes the same consonant is used for expressing two different ideas.
 3. The vowel has a structural meaning, as follows:
     - **-e** indicates a pronoun
-    - **-i** indicates a determiner,
-      which indicates definiteness, possession, etc.
+    - **-i** indicates a possessive pronoun
     - **-o** indicates an adverb of manner
     - **-a** indicates a preposition
     - **-u** indicates a postposition
-    - **-ə** indicates a prefix or prefix-like determiner
+    - **-ə** indicates a determiner of definiteness, indefiniteness, etc.
 
-| Idea          | Pronoun            | Determiner         | Adverb             | Preposition        | Postposition       | Prefix-like        |
-|:--------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|
-| 1st person    | **me**             | **mi**             |                    |                    |                    |                    |
-|               | I                  | my                 |                    |                    |                    |                    |
-| 2nd person    | **te**             | **ti**             |                    |                    |                    |                    |
-|               | you                | your               |                    |                    |                    |                    |
-| 3rd person    | **le**             | **li**             | **lo**             |                    |                    | **lə**             |
-|               | it, he, she        | its, his, her      | like that          |                    |                    | the                |
-| Self          | **se**             | **si**             |                    | **sa**             |                    |                    |
-|               | self               | 's own             |                    | be                 |                    |                    |
-| Question      | **ke**             | **ki**             | **ko**             |                    |                    | **kə**             |
-|               | what?              | whose?             | how?               |                    |                    | which?             |
-| Existence     | **ye**             | **yi**             | **yo**             | **ya**             |                    | **yə**             |
-|               | some               | some               | somehow            | with; there is     |                    | some-              |
-| Non-existence | **ne**             | **ni**             | **no**             | **na**             |                    | **nə**             |
-|               | none               | not any            | not; no            | without            |                    | no-, un-           |
-| Relative      | **de**             | **di**             |                    | **da**             | **du**             |                    |
-|               | that, which. who   | whose, of which    |                    | of                 | 's                 |                    |
+| Idea          | Pronoun         | Possessive      | Adverb          | Preposition     | Postposition    | Determiner      |
+|:--------------|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| 1st person    | **me**          | **mi**          |                 |                 |                 |                 |
+|               | I               | my              |                 |                 |                 |                 |
+| 2nd person    | **te**          | **ti**          |                 |                 |                 |                 |
+|               | you             | your            |                 |                 |                 |                 |
+| 3rd party     | **le**          | **li**          | **lo**          |                 |                 | **lə**          |
+|               | it, he, she     | its, his, her   | like that       |                 |                 | the             |
+| Identity      | **se**          | **si**          |                 | **sa**          |                 |                 |
+|               | self            | 's own          |                 | be              |                 |                 |
+| Interrogative | **ke**          | **ki**          | **ko**          |                 |                 | **kə**          |
+|               | what?           | whose?          | how?            |                 |                 | which?          |
+| Existence     | **ye**          | **yi**          | **yo**          | **ya**          |                 | **yə**          |
+|               | some            | some            | somehow         | with; there is  |                 | some-           |
+| Non-existence | **ne**          | **ni**          | **no**          | **na**          |                 | **nə**          |
+|               | none            | not any         | not; no         | without         |                 | no-, un-        |
+| Relative      | **de**          | **di**          |                 | **da**          | **du**          |                 |
+|               | that, which. who| whose, of which |                 | of              | 's              |                 |
 
 
 ### Nouns
