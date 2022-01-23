@@ -52,28 +52,9 @@ There are two more examples below.
     ____________
     = terməmetor     'thermometer'
 
-
-## Compound words – together or separately?
-
-It doesn't matter are the elements of a compound word written together or separately
-– both ways work without problems
-because the linking vowel **-ə-** is used only for this purpose.
-So, for example, the word for 'mailbox' can be written
-**postə sandukə**
-or
-**postəsandukə**
-and the word for 'democracy' can be written either
-**demə kratia**
-or
-**deməkratia**.
-
-
-## International affixes
-
-There are some roots in Pandunia that are used frequently as prefixes in compound words but seldom as words on their own.
-These include the roots **a-**, **de-**, **pro-**, **re-** and **su-** among others.
-They are used in many international words
-and Pandunia has adopted them.
+Some roots are used frequently as prefixes but seldom as words on their own.
+These *international prefixes* include the roots **a-**, **de-**, **pro-**, **re-** and **su-** among others.
+Pandunia has adopted them in order to re-create many international words as native Pandunia words.
 
              a-      'to, toward'
        +   ces-      'pass'
@@ -103,185 +84,363 @@ and Pandunia has adopted them.
 Note that these prefixes are used only in compound words that really mean the sum their parts.
 Fossilized words whose meanings are no longer the sum of their parts,
 like *evolution* (originally 'rolling out') and *revolution* (originally 'rolling back'),
-are not re-used in Pandunia.
+are not compound words in Pandunia.
 
 
-## Common affixes
+## Compound words – together or separately?
 
-#### -abl-
+It doesn't matter are the elements of a compound word written together or separately
+– both ways work without problems
+because the linking vowel **-ə-** is used only for this purpose.
+So, for example, the word for 'mailbox' can be written
+**postə sandukə**
+or
+**postəsandukə**
+and the word for 'democracy' can be written
+**demə kratia**
+or
+**deməkratia**.
 
-Indicates possibility.
 
+## Affixes
+
+Prefixes and suffixes are very important and give great flexibility to the language.
+The most useful ones are listed here.
+Most of them are in fact ordinary words that are also used on their own,
+but some are true prefixes or suffixes and can be used only as such, not as separate words.
+
+### Prefixes
+
+**a-**
+'to oneself' :  
+**cepə**
+'take, catch'
+→ **acepə**
+'take to oneself, accept'  
+**ligə**
+'tie'
+→ **aligə**
+'tie to oneself, ally'
+
+**de-**
+'away, off' :  
+**cepe**
+'take, catch'
+→ **decepə**
+'take away, remove'  
+**ducə**
+'lead, conduct'
+→ **deducə**
+'lead away, deduce'  
+**partə**
+'part, chip'
+→ **departə**
+'part away, chip off'  
+**kodə**
+'code'
+→ **dekodə**
+'decode, remove coding'  
+**tapə**
+'plug, cap, stopper'
+→ **detapə**
+'unplug, remove the plug, cap or stopper'
+
+**ex-**
+'out' :  
+**cepə**
+'take, catch'
+→ **excepə**
+'take out, except'  
+**jetə**
+'thrust'
+→ **exjetə**
+'thrust out, eject'
+
+**in-**
+'in, into, in-, en-' :  
+**jetə**
+'thrust'
+→ **injetə**
+'thrust in, inject'  
+**kluzə**
+'close, shut'
+→ **inkluzə**
+'close in, enclose, include'
+
+**kon-**
+'together' :  
+**strutə**
+'structure'
+→ **konstrutə**
+'construct, put together'
+
+**nə-, ən-**
+'opposite, un-, in-' :  
+**human**
+'human'
+→ **nəhuman**
+'unhuman'
+**devistə**
+'theist'
+→ **nədeviste**
+'atheist'  
+**tabakistə**
+'smoker'
+→ **nətabakistə**
+'non-smoker'
+
+Since this prefix consists of one consonant only,
+its alternative form **ən-** is used before roots that begin with a vowel.
+
+**uzablə**
+'usable'
+→ **ənuzablə**
+'unusable'
+
+**pos-**
+'after' :  
+**pozə**
+'put, pose'
+→ **pospozə**
+'put after, postpone'
+
+**pre-**
+'before' :  
+**ditə**
+'tell'  
+→ **preditə**
+'foretell, predict'  
 **vidə**
-'see, view' →
-**vidablə**
+'see'
+→ **previdə**
+'foresee, preview'
+
+**pro-**
+'onward, forth' :  
+**pozə**
+'put, pose'
+→ **propozə**
+'put forward, propose'  
+**vokə**
+'call, summon'
+→ **provokə**
+'call forth, provoke'
+
+**re-**
+'back' :  
+**atə**
+'to act'
+→ **reatə**
+'to act back, react'  
+**turnə**
+'to turn'
+→ **returnə**
+'to turn back'
+
+**ri-**
+'again, repeatedly' :  
+**formə**
+'to form'
+→ **riformə**
+'to reform'
+
+
+### Suffixes
+
+**-abl-**
+'that can be done' :  
+**vidə**
+'see, view'
+→ **vidablə**
 'one that can be seen, visible'  
 **uzə**
-'use' →
-**uzablə**
+'use'
+→ **uzablə**
 'one that can be used, usable'
 
-#### -aj-
-
-Indicates a group of things or objects.
-
+**-aj-**
+'Indicates a group of things or objects' :  
 **bagə**
-'bag' →
-**bagajə**
+'bag'
+→ **bagajə**
 'baggage, luggage'  
 **formə**
-'form' →
-**formajə**
+'form'
+→ **formajə**
 'format, formation'  
 **korə**
 'core'
 **korajə**
 'guts, the things in the core'
 
-#### -at-
+**-an**
+'one who belongs to, one who has membership in' :  
+**Amerikə**
+'America'
+→ **amerikan**
+'American'  
+**Italia**
+'Italy'
+→ **italian**
+'Italian'  
+**Rusia**
+'Russia'
+→ **rusian**
+'Russian'  
+**Paris**
+'the city of Paris'
+→ **parisan**
+'Parisian'  
+**kristia**
+'Christendom'
+→ **kristian**
+'Christian'  
+**hume**
+'earth, soil'
+→ **human**
+'earthling' and, _by extension_, 'human being'
 
-Denotes doing.
-
+**-at-**
+'doing, action' :  
 **rotə**
 'wheel'
 → **rotatə**
 'rotate, turn like a wheel'
 
-#### de-
+**-em-**
+'distinct meaningful element' :  
+**fonə**
+'speech sound'
+→ **fonemə**
+'phoneme, distinct speech sound'  
+**lexə**
+'word'
+→ **lexemə**
+'lexeme'
 
-Creates verbs that reverse the meaning of the base verb.
+**-er-**
+'doer, agent, -er' :  
+**bekə**
+'bake'
+→ **beker**
+'baker'  
+**lidə**
+'lead'
+→ **lider**
+'leader, the one who leads'  
+**filsofə**
+'think deeply'
+→ **filsofer**
+'philosopher'  
+**sapatə**
+'shoe'
+→ **sapater**
+'shoemaker'  
+**musketə**
+'musket'
+→ **musketer**
+'musketeer'  
+**kasə**
+'cash box, cash register'
+→ **kaser**
+'cashier'
 
-**kodə**
-'code' →
-**dekodə**
-'decode, remove coding'  
-**tapə**
-'plug, cap, stopper' →
-**detapə**
-'unplug, remove the plug, cap or stopper'
+**-eria**
+'place for making, producing or selling; profession' :  
+**beker**
+'baker'
+→ **bekeria**
+'bakery'  
+**perfume**
+'perfumə'
+→ **perfumeria**
+'perfumery'  
+**enjener**
+'engineer'
+→ **enjeneria**
+'engineering'  
 
-#### nə-, ən-
-
-Creates words that denote negative or absence of the base word.
-
+**-ia**
+'collection of, aggregation of' :  
 **human**
-'human' →
-**nəhuman**
-'unhuman'
-
-Since this root consists of one consonant only,
-its alternative form **ən-** is used before roots that begin with a vowel.
-
-**uzablə**
-'usable' →
-**ənuzablə**
-'unusable'
-
-#### -er
-
-Creates agent nouns.
-It denotes a person or a tool which does the action.
-
-**loga** to speak; **loger** speaker, the one who speaks  
-**beka** to bake; **beker** baker, the one who bakes  
-**lida** to lead; **lider** leader, the one who leads  
-**filsofa** to think deeply; **filsofer** philosopher  
-**komputa** to compute, to process data; **komputer** computer  
-**morta** to kill; **morter** killer  
-
-The derivative can be also more loosely associated with the root.
-
-**sapate** shoe; **sapater** shoemaker  
-**muskete** musket; **musketer** musketeer  
-**kase** cash desk; **kaser** cashier  
-
-#### -ia
-
-Creates aggregate nouns.
-It denotes a group of elements named by the root as a whole.
-
-**human**
-'human being' →
-**humania**
+'human being'
+→ **humania**
 'humanity, mankind, all the human beings as a group'  
 **kristə**
-'Christian' →
-**kristia**
+'Christian'
+→ **kristia**
 'Christianity, all Christians as a group'  
 **filsof**
-'view, outlook, life wisdom' →
-**filsofia**
+'view, outlook, life wisdom'
+→ **filsofia**
 'philosophy, the discipline of wisdom'
 
 This ending is often used in place names, especially in country names.
 However it is not always used.
 There are also a lot of country names that do not end in **-ia**.
 
+**-ia**
+'area, region, country' :  
 **arabə**
-'Arab, Arabic' →
-**Arabia**
+'Arab, Arabic'
+→ **Arabia**
 'Arabia'  
 **rus**
-'Russian, Ruski' →
-**Rusia**
+'Russian, Ruski'
+→ **Rusia**
 'Russia'  
 **turkə**
-'Turk, Turkish' →
-**Turkia**
+'Turk, Turkish'
+→ **Turkia**
 'Turkey'  
-**italə'
-'Italic, Italian' →
-**Italia**
+**italə**
+'Italic, Italian'
+→ **Italia**
 'Italy'  
 **Asia**
 'Asia'  
 **Indonesia**
 'Indonesia'
 
-Also abstract nouns often end in **-ia**.
-
+**-ia**
+'abstract quality' :  
 **novə**
-'new' →
-**novia**
+'new'
+→ **novia**
 'newness, novelty'  
 **hurə**
-'free' →
-**huria**
+'free'
+→ **huria**
 'freedom'
 
-When **-ia** is added after **-er-**, it means a field of expertise.
-
-**enjener**
-'engineer' →
-**enjeneria**
-'engineering'  
-**sapater**
-'shoemaker' →
-**sapateria**
-'shoemaking'
-
-#### -ik-
-
 **-ik-**
-denotes someone or something that is predominantly characterized by the base word.
-
+'of the style or manner of, -ish, -esque' :  
 **un**
 'one'
 → **unikə**
 'only, sole, single'  
 **dom**
-'home' →
-**domikə**
+'home'
+→ **domikə**
 'domestic'  
 **novə**
-'new' →
-→ **novikə**
+'new'
+→ → **novikə**
 'novice, newbie'
 
-#### -ion
+**-im-**
+'the most, superlative' :  
+**pre**
+'fore, front'
+→ **primə**
+'foremost, prime'  
+**extrə**
+'outside, exterior'
+→ **extrimə**
+'outermost, extreme'
 
-Denotes an action or process.
-
+**-ion-**
+'action, process' :  
 **ditə**
 'say'
 → **dition**
@@ -291,47 +450,57 @@ Denotes an action or process.
 → **rotation**
 'rotation, turning'
 
-
-#### -ist-
-
-This suffix denotes a person who tends to behave or think in a certain way
-or to follow a certain ideology or religion.
-
+**-ist-**
+'person who tends to behave or think in a certain way, adherent of an ideology or religion' :  
 **deu**
-'god' →
-**devistə**
+'god'
+→ **devistə**
 'theist, one who believes in existence of a god or gods'
 
-#### -ism-
-
-Denotes an ideology or a way of thinking or living (an _ism_).
-It can be a political ideology, a religion or some other movement movement
-whose adherents tend to behave or think in a certain way.
-
+**-ism-**
+'ideology, way of thinking, way of living, ism' :  
 **deu**
-'god' →
-**devismə**
+'god'
+→ **devismə**
 'theism'
 
-#### -it-
-
-Passive participle and causative suffix.
-
+**-it-**
+'passive participle' :  
 **sabə**
-'know' →
-**sabitə**
+'know'
+→ **sabitə**
 'known'
 
-#### -or-
+**-iv-**
+'inclined to' :  
+**atə**
+'act, perform'
+→ **ativə**
+'active, inclined to act'  
+**explozə**
+'explode'
+→ **explozivə**
+'explosive'
 
-Indicates an apparatus, device, machine, or tool that is used for the action.
-
+**-or-**
+'apparatus, device, machine' :  
 **tratə**
-'drag, haul' →
-**trator**
+'drag, haul'
+→ **trator**
 'tractor'  
 **fotəgraf**
-'photograph' →
-**fotəgrafor**
+'photograph'
+→ **fotəgrafor**
 'photograph apparatus, camera'
+
+**-ur-**
+'result or product' :  
+**kultə**
+'cultivate (a way of life)'
+→ **kulturə**
+'culture'  
+**mixə**
+'mix'
+→ **mixurə**
+'mixture'
 
