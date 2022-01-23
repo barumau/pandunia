@@ -243,8 +243,8 @@ In Midi Pandunia, the pronouns and other function words that are derived from th
 |               | I                  | my                 |                    |                    |                    |                    |
 | 2nd person    | **te**             | **ti**             |                    |                    |                    |                    |
 |               | you                | your               |                    |                    |                    |                    |
-| 3rd person    | **le**             | **li**             |                    |                    |                    | **lə**             |
-|               | it, he, she        | its, his, her      |                    |                    |                    | the                |
+| 3rd person    | **le**             | **li**             | **lo**             |                    |                    | **lə**             |
+|               | it, he, she        | its, his, her      | like that          |                    |                    | the                |
 | Self          | **se**             | **si**             |                    | **sa**             |                    |                    |
 |               | self               | 's own             |                    | be                 |                    |                    |
 | Question      | **ke**             | **ki**             | **ko**             |                    |                    | **kə**             |
@@ -254,7 +254,7 @@ In Midi Pandunia, the pronouns and other function words that are derived from th
 | Non-existence | **ne**             | **ni**             | **no**             | **na**             |                    | **nə**             |
 |               | none               | not any            | not; no            | without            |                    | no-, un-           |
 | Relative      | **de**             | **di**             |                    | **da**             | **du**             |                    |
-|               | that, which        | that               |                    | of                 | 's                 |                    |
+|               | that, which. who   | whose, of which    |                    | of                 | 's                 |                    |
 
 
 ### Nouns
