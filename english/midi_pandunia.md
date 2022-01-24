@@ -214,48 +214,6 @@ Also adjectives are questioned with **ko**.
 – How big cat do you have?
 
 
-### Table of pronouns and other function words
-
-_Function words_ are words that help to structure other words into more or less complex sentences.
-It is a _closed class_ of words, so new words can never be added to it.
-_Content words_, on the other hand, is an open, ever-growing class of words,
-and they refer to things in the world outside the structure of the language.
-Function words have only a structural role
-and therefore they behave differently than content words.
-
-In Midi Pandunia, the pronouns and other function words that are derived from them have the following characteristics:
-
-1. The word is made up of one consonant and one vowel.
-2. The consonant indicates the general idea of the word.
-   Sometimes the same consonant is used for expressing two different ideas.
-3. The vowel has a structural meaning, as follows:
-    - **-e** indicates a pronoun
-    - **-i** indicates a possessive pronoun
-    - **-o** indicates an adverb of manner
-    - **-a** indicates a preposition
-    - **-u** indicates a postposition
-    - **-ə** indicates a determiner of definiteness, indefiniteness, etc.
-
-| Idea          | Pronoun         | Possessive      | Adverb          | Preposition     | Postposition    | Determiner      |
-|:--------------|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-| 1st person    | **me**          | **mi**          |                 |                 |                 |                 |
-|               | I               | my              |                 |                 |                 |                 |
-| 2nd person    | **te**          | **ti**          |                 |                 |                 |                 |
-|               | you             | your            |                 |                 |                 |                 |
-| 3rd party     | **le**          | **li**          | **lo**          |                 |                 | **lə**          |
-|               | it, he, she     | its, his, her   | like that       |                 |                 | the             |
-| Identity      | **se**          | **si**          |                 | **sa**          |                 |                 |
-|               | self            | 's own          |                 | be              |                 |                 |
-| Interrogative | **ke**          | **ki**          | **ko**          |                 |                 | **kə**          |
-|               | what?           | whose?          | how?            |                 |                 | which?          |
-| Existence     | **ye**          |                 | **yo**          | **ya**          |                 | **yə**          |
-|               | some            |                 | somehow         | with; there is  |                 | some-           |
-| Non-existence | **ne**          |                 | **no**          | **na**          |                 | **nə**          |
-|               | none            |                 | not; no         | without         |                 | no-, un-        |
-| Relative      | **de**          | **di**          |                 | **da**          | **du**          |                 |
-|               | that, which, who| whose, of which |                 | of              | 's              |                 |
-
-
 ### Nouns
 
 #### Uninflected
