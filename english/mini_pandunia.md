@@ -37,9 +37,9 @@ They are described in more detail later in this document.
      **me** _I_, **te** _you_ (sg.), **le** _he or she_,
      **mes** _we_, **tes** _you_ (pl.), **les** _they_.
     - The possessive pronouns are:
-      **me su** _my_, **te su** _your_, **le su** _his or her_,
-      **mes su** _our_, **tes su** _your_, **les su** _their_.
-     - The interrogative pronouns are: **ke** _what_ or _who_, **ke su** _whose_.
+      **me du** _my_, **te du** _your_, **le du** _his or her_,
+      **mes du** _our_, **tes du** _your_, **les du** _their_.
+     - The interrogative pronouns are: **ke** _what_ or _who_, **ke du** _whose_.
      - The impersonal pronoun is
        **mon**
        (_one_, _you_, _they_)
@@ -50,13 +50,13 @@ They are described in more detail later in this document.
    Their role is indicated by word order or by a preposition.
 6. **Numerals:**
    The cardinal numbers are:
-       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
+       - 0 **siro**, 1 **un**, 2 **duə**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
          7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.
-       - Greater than ten: 11 **des un**, 12 **des du**, 13 **des tri**, etc.
-       - Tens: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
-       - Hundreds: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
-       - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
-       - The ordinal numbers use the suffix **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
+       - Greater than ten: 11 **des un**, 12 **des duə**, 13 **des tri**, etc.
+       - Tens: 20 **duə des**, 30 **tri des**, 40 **nelu des**, etc.
+       - Hundreds: 100 **un sento**, 200 **duə sento**, 300 **tri sento**, etc.
+       - Thousands: 1000 **un kilo**, 2000 **duə kilo**, 3000 **tri kilo**, etc.
+       - The ordinal numbers use the suffix **me**: **un me** (first), **duə me** (second), **tri me** (third), etc.
 7. **Modifiers:**
    The adjective and the adverb have the same form.
    The adjective modifier is before the noun that it modifies,
@@ -79,15 +79,15 @@ They are described in more detail later in this document.
       A similar effect can be also reached with the impersonal pronoun **mon**.
         - **pandunia be logə.**
           – Pandunia is spoken.
-        - **mon logə la pandunia.**
+        - **mon logə lə pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **me ching te logə la pandunia.**
+        - **me ching te logə lə pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ ching _te_ logə la pandunia.**
-          → **ching logə la pandunia.**
+        - **_mi_ ching _te_ logə lə pandunia.**
+          → **ching logə lə pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
    In Mini Pandunia, words change only when their actual meaning changes.
@@ -119,15 +119,15 @@ Pronouns can substitute nouns and noun phrases.
 All pronouns can be used for all genders.
 
 The possessive pronouns consists of the personal pronoun and the possessive particle
-**su**.
+**du**.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **me su**   | **mes su** |
+| **me du**   | **mes du** |
 | my          | our          |
-| **te su**   | **tes su** |
+| **te du**   | **tes du** |
 | your        | your         |
-| **le su**   | **les su** |
+| **le du**   | **les du** |
 | his or her  | their        |
 
 
@@ -168,10 +168,10 @@ The demonstrative pronouns in Mini Pandunia are:
 – this (near the speaker)  
 **go**
 – that (far from speaker)  
-**la**
+**lə**
 – the (known by both the speaker and the listener)
 
-In Mini Pandunia, **ni**, **go** and **la** work only as modifiers
+In Mini Pandunia, **ni**, **go** and **lə** work only as modifiers
 and they always require a noun after them.
 To use them like pronouns, a generic noun like
 **she**
@@ -192,7 +192,7 @@ points to things that are far from the speaker.
 – I want this book, not that.
 
 The basic proximal and distal pronouns are used for introducing a new object.
-The topical demonstrative **la**, on the other hand,
+The topical demonstrative **lə**, on the other hand,
 does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
@@ -200,7 +200,7 @@ and it is known by the audience or is topical within the discourse.
 **ni she sa mau. le vol yam go mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**me ten un mau e un vaf. la vaf sa dai. le yam poli yam.**
+**me ten un mau e un vaf. lə vaf sa dai. le yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -208,7 +208,7 @@ and it is known by the audience or is topical within the discourse.
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**la** refers to things previously spoken,
+**lə** refers to things previously spoken,
 **ni** refers to things currently being spoken,
 and **go** refers to things about to be spoken.
 
@@ -219,11 +219,11 @@ In the above, **ni jumle** (_this sentence_) refers to the sentence being spoken
 
 **me mana go: me ama te.**
 – I mean this: I love you. OR I mean that I love you.  
-**me ama te. me mana la.**
+**me ama te. me mana lə.**
 – I love you. That is what I mean.
 
 In the above, the pronoun **go** refers to the content of the next statement
-and **la** refers to the content of the previous statement.
+and **lə** refers to the content of the previous statement.
 
 
 ### Interrogative pronouns
@@ -261,7 +261,7 @@ Also adjectives are questioned with **ke**.
 **ke lili?**
 – How small?
 
-**te ten ke dai di mau?**
+**te ten ke dai du mau?**
 – How big a cat do you have?
 
 
@@ -273,7 +273,7 @@ A noun is a word that names a thing.
 Like all words in Mini Pandunia, nouns don't ever change their form.
 So the same form is used in singular and plural, in definite and indefinite, etc.
 
-**seku**
+**sekə**
 – a stone, stones, the stone or the stones  
 **meza**
 – a table, tables, the table or the tables  
@@ -283,7 +283,7 @@ So the same form is used in singular and plural, in definite and indefinite, etc
 – water
 
 Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
-For example, normally the word **sol** refers to _the sun_ and **luna** refers to _the moon_, our only sun and moon.
+For example, normally the word **sol** refers to _the sun_ and **lunə** refers to _the moon_, our only sun and moon.
 
 
 #### Indicating number
@@ -303,7 +303,7 @@ Simply insert a numeral in front of the unchanged noun.
 – (one or more) sheep  
 **un meme**
 – a sheep or one sheep  
-**du meme**
+**duə meme**
 – two sheep  
 **tri meme**
 – three sheep  
@@ -314,7 +314,7 @@ Simply insert a numeral in front of the unchanged noun.
 – a chair or chairs  
 **un kursə**
 – one chair  
-**du kursə**
+**duə kursə**
 – two chairs  
 **tri kursə**
 – three chairs  
@@ -323,7 +323,7 @@ Simply insert a numeral in front of the unchanged noun.
 
 An easy way to say that there are many is to repeat the noun two times.
 
-**seku seku**
+**sekə sekə**
 – stones and stones, a variety of stones  
 **bukə bukə**
 – books and books, a variety of books
@@ -360,11 +360,11 @@ Two or more nouns can be put together to make a compound word.
 The last word is the most meaningful word in the compound,
 and the words that come before it only modify the meaning.
 
-**sol foto**
+**sol fotə**
 – sun light  
-**luna foto**
+**lunə fotə**
 – moon light  
-**luna seku**
+**lunə sekə**
 – moon stone
 
 ## Numerals
@@ -373,21 +373,21 @@ and the words that come before it only modify the meaning.
 
 | Ones    | Ten and over | 20 and over      | 30 and over      |
 |:--------|:-------------|:-----------------|:-----------------|
-| 0 siro  | 10 (un) des  | 20 du des        | 30 tri des       |
-| 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
-| 2 du    | 12 des du    | 22 du des du     | 32 tri des du    |
-| 3 tri   | 13 des tri   | 23 du des tri    | 33 tri des tri   |
-| 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
-| 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
-| 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
-| 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
-| 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
+| 0 siro  | 10 (un) des  | 20 duə des        | 30 tri des       |
+| 1 un    | 11 des un    | 21 duə des un     | 31 tri des un    |
+| 2 duə   | 12 des duə   | 22 duə des duə    | 32 tri des duə   |
+| 3 tri   | 13 des tri   | 23 duə des tri    | 33 tri des tri   |
+| 4 nelu  | 14 des nelu  | 24 duə des nelu   | 34 tri des nelu  |
+| 5 lima  | 15 des lima  | 25 duə des lima   | 35 tri des lima  |
+| 6 luka  | 16 des luka  | 26 duə des luka   | 36 tri des luka  |
+| 7 cheti | 17 des cheti | 27 duə des cheti  | 37 tri des cheti |
+| 8 bati  | 18 des bati  | 28 duə des bati   | 38 tri des bati  |
+| 9 tisa  | 19 des tisa  | 29 duə des tisa   | 39 tri des tisa  |
 
 | Ones    |  Tens         | Hundreds        | Thousands        |
 |:--------|:-------------|:----------------|:------------------|
 | 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
-| 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
+| 2 duə   | 20 duə des   | 200 duə sento   | 2000 duə kilo     |
 | 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
 | 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
@@ -428,7 +428,7 @@ They are put before the word or phrase that they qualify.
 
 **un sing**
 – one star  
-**du sing**
+**duə sing**
 – two stars  
 **tri sing**
 – three stars  
@@ -439,7 +439,7 @@ They are put before the word or phrase that they qualify.
 
 **un dai kursə**
 – one big chair  
-**du dai kursə**
+**duə dai kursə**
 – two big chairs  
 **tri bon kursə**
 – three good chairs
@@ -451,7 +451,7 @@ Ordinal numbers are created with the particle **me**.
 
 - **un me**
   – first
-- **du me**
+- **duə me**
   – second
 - **tri me**
   – third
@@ -474,7 +474,7 @@ They are placed before the modified noun like normal adjectives.
 
 **un me fen**
 – the first part  
-**du me fen**
+**duə me fen**
 – the second part  
 **tri me fen**
 – the third part
@@ -485,7 +485,7 @@ Another way to form ordinal numbers is to place the number after the noun.
 
 **fen un**
 – the first part (part one)
-**fen du**
+**fen duə**
 – the second part (part two)
 **fen tri**
 – the third part (part three)
@@ -500,7 +500,7 @@ Both of them use the word
 
 The short way is to use ordinal numbers.
 
-**un fen du**
+**un fen duə**
 – a half (½)  
 **un fen nelu**
 – one fourth, one quarter (¼)  
@@ -515,7 +515,7 @@ The longer way uses the pattern
 **X da Y fen**
 ('X of Y parts').
 
-**un da du fen**
+**un da duə fen**
 – one of two parts, a half (½)  
 **un da nelu fen**
 – one of four parts, a quarter (¼)  
@@ -530,11 +530,11 @@ Fractions are connected to the noun with
 **da**
 ('of').
 
-**un fen du da hor**
+**un fen duə da hor**
 – a half (of an) hour  
 **lima des fen sento da jen**
 – fifty percent of people  
-**du fen tri da keke**
+**duə fen tri da keke**
 – two thirds of a cake  
 
 
@@ -550,13 +550,13 @@ Monday is
 **var un**
 ('weekday one'),
 Tuesday is
-**var du**
+**var duə**
 ('weekday two')
 and so on.
 
 1. **var un**
    – Monday
-2. **var du**
+2. **var duə**
    – Tuesday
 3. **var tri**
    – Wednesday
@@ -578,7 +578,7 @@ but this time the word
 
 1. **mes un**
    – January
-2. **mes du**
+2. **mes duə**
    – February
 3. **mes tri**
    – March
@@ -598,7 +598,7 @@ but this time the word
   – October
 11. **mes des un**
   – November
-12. **mes des du**
+12. **mes des duə**
   – December
 
 ##### Telling time
@@ -608,13 +608,13 @@ Time can be told with the word
 ('hour').
 The 24 hour clock is the standard.
 
-**hor des du**
+**hor des duə**
 – twelve o'clock  
-**hor des du e tri des**
+**hor des duə e tri des**
 – twelve thirty, half past twelve  
-**hor du des**
+**hor duə des**
 – eight PM  
-**hor du des e des lima**
+**hor duə des e des lima**
 – quarter past eight PM
 
 
@@ -634,7 +634,7 @@ and a verb in sentence B.
 
 A. **go sa un _sundar_ kitabə.**
 – That is a beautiful writing.  
-B. **te _sundar_ di kitabə.**
+B. **te _sundar_ du kitabə.**
 – You write _beautifully_.
 
 
@@ -670,7 +670,7 @@ is placed immediately before the verb.
 – They write _well_.
 
 It is common to put the modifying particle
-**di**
+**du**
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
@@ -683,7 +683,7 @@ It makes the structure of the verb phrase clearer.
 #### Modifying other modifiers
 
 The particle
-**di**
+**du**
 is used also when a modifier modifies another one.
 
 **un _surpris di_ bon bukə**
@@ -758,9 +758,9 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple sa mas bon ka oranje.**
+**aplə sa mas bon ka oranje.**
 = Apples are better than oranges.  
-**oranje sa min bon ka aple.**
+**oranje sa min bon ka aplə.**
 = Oranges are less good than apples.  
 **te logə par bon ka me.**
 = You speak as well as me.
@@ -802,14 +802,14 @@ It is particularly helpful when the subject and the verb are content words
 that could serve as both.
 The marker is typically a particle or an auxiliary verb.
 One of the many suitable markers is
-**ya**
+**yo**
 ('yes'),
 which adds no content to the sentence
 but helps to clarify its structure.
 
 **peshə sa mau yam.**
 – Fish is catfood.  
-**mau _ya_ yam yo peshə.**
+**mau _yo_ yam yə peshə.**
 – The cat eats some fish.
 
 Other suitable markers include auxiliaries of time and mood,
@@ -824,9 +824,9 @@ The relationship of an action, event or state to time is indicated with auxiliar
 ('begin, start')
 indicates beginning of an action or transition to a new situation.
 
-**me shuru fuku la kotə.**
+**me shuru fukə lə kotə.**
 – I start wearing the coat. = I put the coat on.  
-**kagujə ya shuru hogə.**
+**kagujə yo shuru hogə.**
 – Paper starts to burn.  
 **te shuru yam.**
 – You start to eat.
@@ -837,7 +837,7 @@ conveys the idea of "to stop doing something".
 
 **les fin haha.**
 – They stopped laughing.  
-**kagujə ya fin hogə.**
+**kagujə yo fin hogə.**
 – Paper ceased to burn.  
 **te fin yam.**
 – You stop eating.
@@ -848,7 +848,7 @@ indicates that an action is done completely.
 
 **te pul yam un pizə.**
 – You ate a pizza completely.  
-**me pul vidə la filme.**
+**me pul vidə lə filme.**
 – I completed watching the film. / I watched the film completely.
 
 **fen**
@@ -857,7 +857,7 @@ indicates that the action is only partially done.
 
 **te fen yam un pizə.**
 – You ate some of the pizza.  
-**me fen vidə la filme.**
+**me fen vidə lə filme.**
 – I watched some of the movie.
 
 **zai**
@@ -871,14 +871,14 @@ indicates that a situation is happening at present.
 ('keep on', 'continue', 'proceed')
 indicates that a situation is continuing or in progress.
 
-**me dur yam la pizə.**
+**me dur yam lə pizə.**
 – I keep on eating the pizza.
 
 **ada**
 ('have a habit', 'be used to')
 indicates that an action is done regularly.
 
-**me ada gul yo bir.**
+**me ada gul yə bir.**
 – I have a habit of drinking beer.
 
 **leu**
@@ -888,15 +888,15 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 
 **le _leu_ sa guru.**
 – He or she has been a teacher (and still is).  
-**me no _leu_ gul yo alkohol.**
+**me no _leu_ gul yə alkohol.**
 – I haven't drank alcohol.  
-**me _leu_ no gul yo alkohol.**
+**me _leu_ no gul yə alkohol.**
 – I have reached not drinking alcohol.  
-**me _leu_ don la bukə do les.**
+**me _leu_ don lə bukə ga les.**
 – I have given the book to them. (So I don't have it.)  
-**les no _leu_ don le re do me.**
+**les no _leu_ don le re ga me.**
 – They haven't given it back to me.  
-**me _leu_ lai do siti.**
+**me _leu_ lai ga siti.**
 – I have come to the city.
 
 **pas**
@@ -904,13 +904,13 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**me pas don la bukə do les.**
+**me pas don lə bukə ga les.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
-**me pas keka la France.**
+**me pas keka lə France.**
 – I have visited France.  
-**me pas ada gul yo bir.**
+**me pas ada gul yə bir.**
 – I used to drink beer. / I had a habit of drinking beer.  
-**me pas lai do siti.**
+**me pas lai ga siti.**
 – I came to the city.
 
 **sha**
@@ -953,7 +953,7 @@ When the subject is a noun, the connecting verb **sa** (_to be_) is necessary.
 
 **Sara sa bon.**
 – Sara is good.  
-**seku sa dai.**
+**sekə sa dai.**
 – Stones are big.  
 **meza sa novə.**
 – The table is new.
@@ -1000,27 +1000,27 @@ These come after the predicate.
 
 **me marche.**
 – I walk.  
-**te yam yo apel.**
+**te yam yə aplə.**
 – You eat some apples.  
-**mes dona le yo pesa.**
+**mes dona le yə pesa.**
 – We give her some money.
 
 Sometimes, the subjet of one sentence can become the object of another.
 
-**la fuku ya gan.**
+**lə fukə yo gan.**
 – The clothes dry.  
-**la sol ya gan la fuku.**
+**lə sol yo gan lə fukə.**
 – The sun dries the clothes.
 
 To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
 **fa** indicates that the subject is the agent or doer of the action,
 and **be** indicates that the subject is the patient, or receiver.
 
-**me fa salam me su dostə.**
+**me fa salam me du dostə.**
 – I greet my friend.  
-**me be salam me su dostə.**
+**me be salam me du dostə.**
 – I am greeted by my friend.  
-**pa fa me salam me su dostə.**
+**pa fa me salam me du dostə.**
 – Father makes me greet my friend.
 
 
@@ -1073,26 +1073,26 @@ which indicates a modality such as desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **me ga do dom.**
+1. **me ga ga dom.**
    – I go home.  
-2. **me bil ga do dom.**
+2. **me bil ga ga dom.**
    – I can go home.  
-3. **me vol bil ga do dom.**
+3. **me vol bil ga ga dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**te vol yam yo fitə.**
+**te vol yam yə fitə.**
 – You want to eat vegetables. (desire)  
-**te sel yam yo fitə.**
+**te sel yam yə fitə.**
 – You had better eat vegetables. (advice)  
-**te halal yam yo fitə.**
+**te halal yam yə fitə.**
 – You may eat vegetables. (permission)  
-**te bil yam yo fitə.**
+**te bil yam yə fitə.**
 – You can eat vegetables. (ability)  
-**te mus yam yo fitə.**
+**te mus yam yə fitə.**
 – You must eat vegetables. (obligation)
 
 ### Pronoun dropping
@@ -1102,16 +1102,16 @@ This is done especially in commands and requests.
 
 #### Short pivot structure (VOVO)
 
-**me amir te kai la mun.**
+**me amir te kai lə mun.**
 – I command you to open the door.  
-**amir te kai la mun.**
+**amir te kai lə mun.**
 – Open the door!
 
 #### Short pivot structure (VVO)
 
-**me ching te lai do dom.**
+**me ching te lai ga dom.**
 – I ask you to come home.  
-**ching lai do dom!**
+**ching lai ga dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -1133,14 +1133,14 @@ The easiest way to form a yes-no question in Pandunia is to simply attach the pa
 It is also possible to use
 **no**
 ('no', 'not') or
-**ya**
+**ye**
 ('yes') instead of
 **he**
 to suggest the expected answer.
 
 **te yam un pizə, no?**
 – You eat a pizza, don't you?  
-**te yam un pizə, ya?**
+**te yam un pizə, ye?**
 – You eat a pizza, right?
 
 The third way to ask a yes-no question is to contradict the verb
@@ -1159,27 +1159,27 @@ Finally, you can emphasize the question by using **sual**.
 – Do you eat a pizza?
 
 Yes-no questions are answered with
-**ya**
+**ye**
 ('yes') and
 **no**
 ('no').
 
 **te vidə me, he?**
 – Do you see me?  
-**ya. (me ya vidə te.)**
+**ye. (me yo vidə te.)**
 – Yes. (I _do_ see you.)  
 **no. (me no vidə te.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ya**
+**ye**
 and
 **no**
 apply to the verb, not the whole question.
 
 **te no vidə me, he?**
 – Don't you see me?  
-**ya. (me vidə te.)**
+**ye. (me vidə te.)**
 – Yes. (I see you.)  
 **no. (me no vidə te.)**
 – No. (I don't see you.)
@@ -1194,9 +1194,9 @@ or start with the word
 to indicate that an answer is expected.
 The question is answered by repeating the chosen alternative.
 
-**te yam un o du banan.**
+**te yam un o duə banan.**
 – You eat one or two bananas. (statement)  
-**te yam un o du banan, he?**
+**te yam un o duə banan, he?**
 – Do you eat one or two bananas? (question)  
 **un.**
 – One.
@@ -1217,9 +1217,9 @@ However, unlike in English, the word order may also be left alone.
 – What are you eating?  
 **te zai yam ke she?**
 – You are eating what?  
-**le lai na ke sata?**
+**le lai va ke sata?**
 – When does he arrive?  
-**tes keka na ke jen su dom?**
+**tes keka va ke jen du dom?**
 – Whose house did you all visit?
 
 
@@ -1230,45 +1230,45 @@ For example, the phrase "the person who lives there" containst the noun _person_
 which is modified by the relative clause _who lives there_.
 
 There are different ways to build a relative clause in Pandunia.
-The relative pronoun in Pandunia is **jo**
+The relative pronoun in Pandunia is **de**
 and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**la bukə, jo la jen fa kitabə, pade.**
+**lə bukə, de lə jen fa kitabə, pade.**
 – The book, which the person writes, falls.
 
-It is possible to leave also **jo** out.
+It is possible to leave also **de** out.
 This structure is called _reduced relative clause_.
 
-**la bukə, la jen fa kitabə, pade.**
+**lə bukə, lə jen fa kitabə, pade.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**la jen, jo fa kitabə la bukə, pade.**
+**lə jen, de fa kitabə lə bukə, pade.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**la kalam, na jo la jen fa kitabə la bukə, pade.**
+**lə kalam, ya de lə jen fa kitabə lə bukə, pade.**
 – The pen, with _which_ the person writes the book, falls.  
-**la kalam, la jen fa kitabə la bukə na, pade.**
+**lə kalam, lə jen fa kitabə lə bukə ya, pade.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jen, me vidə jo fa kitabə la bukə, pade.**
+**lə jen, me vidə de fa kitabə lə bukə, pade.**
 – The person, whom I see write the book, falls.  
-**la jen, me vidə fa kitabə la bukə, pade.**
+**lə jen, me vidə fa kitabə lə bukə, pade.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**la jen, me fa kitabə la bukə na jo su kalam, padu.**
+**lə jen, me fa kitabə lə bukə ya de du kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
@@ -1287,26 +1287,26 @@ A content clause can be placed before or after the clause that talks about it.
 The demonstrative
 **go**
 points to the following content clause and
-**la**
+**lə**
 points to the previous one.
 
 **go sa bari, ki me leu no vidə les.**
 – _It_ is important _that I haven't seen them_.  
-**ki pan jen be sana ka par, la sa klar.**
+**ki pan jen be sana ka par, lə sa klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
 **ki**
 can be combined to the prepositions in order to construct conjunctions of cause and purpose.
 
-**do ki**
+**ga ki**
 – so that, in order that, with the result that  
-**ze ki**
+**za ki**
 – because, for the reason that
 
-**me duku ni bukə _do ki_ me transe la teste.**
+**me duku ni bukə _do ki_ me transe lə teste.**
 – I read this book so that I will pass the test.  
-**me leu transe la teste _ze ki_ me duku la bukə.**
+**me leu transe lə teste _ze ki_ me duku lə bukə.**
 – I have passed the test because I read the book.
 
 
@@ -1320,7 +1320,7 @@ and in conditional sentences, it works in the same way as English 'if'.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
 
-**gar te tochu la tava, asar te pasi la hande.**
+**gar te tochu lə tava, asar te pasi lə hande.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
 
 
@@ -1360,12 +1360,12 @@ Expressions are affirmative by default.
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
-**ya**
+**yo**
 ('yes indeed').
 
-**me ya sa shefe.**
+**me yo sa shefe.**
 – I indeed am the boss.  
-**le ya sa novə meza.**
+**le yo sa novə meza.**
 – It indeed is a new table.
 
 ##### Negative
@@ -1388,18 +1388,18 @@ Different scopes of negation may result depending on the location of the negativ
 **me vidə no te a les.**
 – I see, not you, but them.
 
-**me ching te safə la kamar.**
+**me ching te safə lə kamar.**
 – I ask you to clean the room.  
-**me no ching te safə la kamar.**
+**me no ching te safə lə kamar.**
 – I do NOT ask you to clean the room.  
-**me ching te no safə la kamar.**
+**me ching te no safə lə kamar.**
 – I ask you NOT to clean the room.
 
 
 #### Modifier particles
 
-Particles **di** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
-**di** connects the modifying word or phrase to the main noun word.
+Particles **du** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
+**du** connects the modifying word or phrase to the main noun word.
 **da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 ##### Modification with noun phrases
@@ -1409,9 +1409,9 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**rode rang di labi**
+**rode rang du labi**
 – rose-colored lips  
-**sama rang di yen**
+**sama rang du yen**
 – sky-colored eyes
 
 Or in the opposite order:
@@ -1423,56 +1423,56 @@ Or in the opposite order:
 
 The particles help in creating measure words too.
  
-**un sake di patate**
+**un sake du patate**
 – one sack of potatoes  
-**du sake di patate**
+**duə sake du patate**
 – two sacks of potatoes  
-**mas sake di patate**
+**mas sake du patate**
 – more sacks of potatoes
 
-Note that **di** and **da** connect phrases together.
+Note that **du** and **da** connect phrases together.
 So a modifier phrase with and without **da** can mean a different thing.
 
 **mas sundar hua**
 – more beautiful flowers  
-**mas di sundar hua**
+**mas du sundar hua**
 – more of beautiful flowers
 
 ##### Modification with verb phrases
 
-Verbs are turned into modifiers by placing **da** or **di** immediately next to the verb.
+Verbs are turned into modifiers by placing **da** or **du** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
 **suta da grafə pentə**
 – the art of picture-painting (the art of painting pictures)  
-**alə su mede su suka**
+**alə du mede du suka**
 – the joy of others-helping (the joy of helping others)
 
 ##### Possession
 
 The possessive particle
-**su**
+**du**
 works like the apostrophe-s ('s) in English.
 It indicates that the previous word has possession of the next one.
 
-**Maria su mama**
+**Maria du mama**
 – Maria's mother  
-**Maria su mama su dom**
+**Maria du mama du dom**
 – Maria's mother's house
 
 The same particle is used with with personal pronouns too.
 
-**me su dom**
+**me du dom**
 – my house  
-**te su dom**
+**te du dom**
 – your house  
-**le su dom**
+**le du dom**
 – his or her house  
-**mes su dom**
+**mes du dom**
 – our house  
-**tes su dom**
+**tes du dom**
 – your house  
-**les su dom**
+**les du dom**
 – their house
 
 
@@ -1489,13 +1489,13 @@ They function like adverbs, so typically their place is before the verb.
 **bil, me sha ha mau.**
 – Maybe I will have cats.
 
-It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
+It's also possible to say it in a longer way like **va pas zaman** (in the past) etc.
 
-**me ha mau na pas zaman.**
+**me ha mau va pas zaman.**
 – I had cats in the past.  
-**a me no ha mau na zai zaman.**
+**a me no ha mau va zai zaman.**
 – But I don't have cats at present.  
-**bil, me ha mau na sha zaman.**
+**bil, me ha mau va sha zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

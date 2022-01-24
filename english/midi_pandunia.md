@@ -248,12 +248,12 @@ In Midi Pandunia, the pronouns and other function words that are derived from th
 |               | self            | 's own          |                 | be              |                 |                 |
 | Interrogative | **ke**          | **ki**          | **ko**          |                 |                 | **kə**          |
 |               | what?           | whose?          | how?            |                 |                 | which?          |
-| Existence     | **ye**          | **yi**          | **yo**          | **ya**          |                 | **yə**          |
-|               | some            | some            | somehow         | with; there is  |                 | some-           |
-| Non-existence | **ne**          | **ni**          | **no**          | **na**          |                 | **nə**          |
-|               | none            | not any         | not; no         | without         |                 | no-, un-        |
+| Existence     | **ye**          |                 | **yo**          | **ya**          |                 | **yə**          |
+|               | some            |                 | somehow         | with; there is  |                 | some-           |
+| Non-existence | **ne**          |                 | **no**          | **na**          |                 | **nə**          |
+|               | none            |                 | not; no         | without         |                 | no-, un-        |
 | Relative      | **de**          | **di**          |                 | **da**          | **du**          |                 |
-|               | that, which. who| whose, of which |                 | of              | 's              |                 |
+|               | that, which, who| whose, of which |                 | of              | 's              |                 |
 
 
 ### Nouns
@@ -869,7 +869,7 @@ Note that "to feed" has two different causative meanings in English.
 – Fish is eaten.  
 **mau yama pex.**
 – The cat eats fish.  
-**me yamita pex pa mau.**
+**me yamita pex ga mau.**
 – I feed fish to the cat.  
 **me yamana mau va pex.**
 – I feed the cat with fish.
@@ -894,7 +894,7 @@ Pandunia has five prepositions of place and time.
 3. **va** - location or moment (in general):
    at, in, on, by
 4. **za** - origin, beginning or cause: from, since, because
-5. **pa** - destination, end or purpose: to, till, until, for, then
+5. **ga** - destination, end or purpose: to, till, until, for, then
 
 A preposition begins a prepositional phrase. In a simple prepositional phrase
 the preposition is complemented by a pronoun or a noun phrase.
@@ -903,9 +903,9 @@ the preposition is complemented by a pronoun or a noun phrase.
 – I'm in the hotel.  
 **me sona va hotel.**
 – I sleep in the hotel.  
-**me sona za xam pa sube.**
+**me sona za xam ga sube.**
 – I sleep since evening until morning.  
-**me safara za London pa Paris.**
+**me safara za London ga Paris.**
 – I travel from London to Paris.  
 
 Prepositions can be complemented also by a verb phrase. Then they
@@ -913,7 +913,7 @@ refer to time.
 
 **me denga za te kita.**
 – I have waited since you left.  
-**me denga pa te laya dom.**
+**me denga ga te laya dom.**
 – I wait until you come home.  
 **me denga va te sona.**
 – I wait while you sleep.  
