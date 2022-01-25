@@ -35,20 +35,28 @@ that familiarize learners with the most common types and structures of languages
 
 1. **Mini Pandunia** (MnP) is the simplest variety.
    It has only invariable words.
-   It uses specific grammatical words and **no inflection** to indicate grammatical relationships.
-2. *Midi Pandunia* (MdP) is a compromise between the extreme varieties.
-   It uses **little inflection** to indicate grammatical relationships.
-   It has exactly five inflectional suffixes, which are the famous five **word class markers**.
-3. *Maxi Pandunia* (MxP) is the most complicated variety.
-   It uses **much inflection** to indicate grammatical relationships,
+   It uses specific grammatical words and *no inflection* to indicate grammatical relationships.
+   **Minimi Pandunia** is a version of Mini Pandunia that is restricted to only 150 words.
+2. **Midi Pandunia** (MdP) is a compromise between the extreme varieties.
+   It uses *little inflection* to indicate grammatical relationships.
+   It has exactly five inflectional suffixes, which are the famous five *word class markers*.
+3. **Maxi Pandunia** (MxP) is the most complicated variety.
+   It uses *much inflection* to indicate grammatical relationships,
    and forms of words can change considerably.
 
 The varieties are compatible with each other!
-The most advanced variety, Maxi Pandunia, includes Midi Pandunia, which in turn includes Mini Pandunia.
+All of them have the same basic structure words and the same dictionary.
+The most advanced variety, Maxi Pandunia, includes Midi Pandunia, which in turn includes Mini Pandunia and Minimi Pandunia.
 
-The best way to get familiar with the three varieties is to start from Midi Pandunia.
+![](http://www.pandunia.info/grafe/variaje.png "The levels and varieties of Pandunia")
+
+The best way to get familiar with all the varieties is to learn the common, basic structure words.
+The next step is to study Mini or Midi.
+
+Learning Midi Pandunia gives a good understanding of grammar in general
+because the mechanisms of grammar are made visible by the word class markers.
 Midi Pandunia words consist of two parts:
-a word stem and a *vowel ending* that indicates the word's part of speech.
+a word stem and a *vowel ending* that indicates the word class.
 
 - Every adjective ends in ***-i***.
 - Every adverb ends in ***-o***.
@@ -57,8 +65,9 @@ a word stem and a *vowel ending* that indicates the word's part of speech.
 
 Mini Pandunia is made from Midi Pandunia by stripping off the vowel endings
 and replacing them with the neutral vowel ending ***-ə*** or the zero ending.
-Only the core stucture words, such as the pronouns, keep their original endings.
-In the resulting simplified language, grammatical relations are expressed with a fixed word order instead of the word class markers.
+Only the essential stucture words, such as pronouns and prepositions, get to keep their original endings.
+In the resulting simplified language, grammatical relations are expressed with a fixed word order instead of the word class markers,
+and the essential stucture words hold sentences together.
 
 Maxi Pandunia is made from Midi Pandunia by combining several meaningful roots into one word,
 such as person and tense into verbs and possessive pronouns into nouns.
@@ -76,7 +85,7 @@ People can learn this variety easily on their own even without books or other le
 Midi Pandunia is a good choice for literature, business and even legal documents.
 Maxi Pandunia can be used in artistic expression, for example poetry and proverbs.
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+![](http://www.pandunia.info/grafe/bandir.png "The flag of Pandunia")
 
 ## How to learn it?
 
@@ -124,7 +133,7 @@ You can find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
 
 Please help to [translate this site](tarja_netoloke.md) into new languages!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mes basha pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
