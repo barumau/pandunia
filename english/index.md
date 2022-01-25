@@ -1,4 +1,4 @@
-# halo, dunia!
+# salam, dunia!
 
 Hello, world!
 Welcome to learn about Pandunia, the evenly global helping language!
@@ -75,9 +75,9 @@ So the sentence in a way collapses into a smaller number of words
 because more information is encoded into individual words.
 
 Below is a simple demonstration where the same sentence is written in the three varieties of Pandunia.
-The units of meaning are written in different colors.
+The units of meaning are written in different colors to highlight the differences.
 
-![](http://www.pandunia.info/grafe/pandunia3.png "Examples for comparing the three varieties of Pandunia")
+![](http://www.pandunia.info/grafe/Mini-Midi-Maxi_ENG.png "Examples for comparing the three varieties of Pandunia")
 
 The three varieties of Pandunia can be used for different purposes.
 Mini Pandunia is the natural choice for communication in rudimentary levels.
