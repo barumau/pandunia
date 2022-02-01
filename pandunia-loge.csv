@@ -1192,10 +1192,33 @@ gaz:|gazə|||deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauz
 gazel:|gazel|biu||ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|gazelle|gazelle|gacela||газель|||ガゼル||||||||gazelo|gaselli|gazela
 gazet:|gazetə|||eng:fra:gazette, rus:газета (gazeta), swa:gazeri, tur:gazete|magazine (journal, gazette)||revista (periódico, gaceta)||газета|||||||||gazeti|gazete|gazeto (revuo)|lehti (sanomalehti)|magazyn, dziennik, gazeta
 gazet.er:|gazeter||||journalist||periodista||||||||||||||toimittaja (journalisti, lehtimies)|dziennikarz
+ge:|geə|||eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|earth (ground)||tierra|||||地|||||||||maa (maaperä)|ziemia, grunt, gleba
+ge:ia|Geia|planete 3|||Earth (Terra)|Terre|Tierra|Terra|Земля|الأرض|||||||||Yer|||
+ge.dou:|geədou|biu|||peanut (groundnut)||maní||||||||||||||maapähkinä|orzech ziemny
+ge.form:|geəformə||||terrain|terrain|terreno|terreno|||地势|地形||||||||||teren
+ge.graf:ia|geəgrafia||||geography|geographie|geografía|geografia|география||地理|||||||jiografia||geografio|maantiede|
+ge.gun:ia|geəgunia||||ground force (army)||ejército||||||||||||||maavoimat|wosko lądowe (armia)
+ge.kask:i krak:|geəkaski krakə||||fault line|||||||||||||||||uskok
+ge.kask:i plat:|geəkaski platə||||tectonic plate|plaque tectonique|placa tectónica|||||||||||||||płyta tektoniczna
+ge.loj:ia|geəlojia||||geology|géologie|geología|||||地質学||||||||||geologia
+ge.med:i hai:|Geəmedi Hai||||Mediterranean||Mediterráneo||||||||||||||Välimeri|Morze Śródziemne
+ge.metr:ia|geəmetria||||geometry|géométrie|geometría|geometria|геометрия||几何学|幾何学|기하학|hình học|ज्यामिति|||||geometrio|geometria|
+ge.nic:i|geənici||||underground (subterrainean)||subterráneo|||||地中||||||||||podziemny
+ge.nic:i prizon:|geənici prizon||||dungeon (underground prison)|oubliette (cul de basse-fosse)|mazmorra||ублиет (подземная тюрьма)|||地下牢 (ダンジョン)||||||||||loch
+ge.par.lin:|geəparlin||||equator||ecuador||||||||||||||päiväntasaaja|równik
+ge.par.lin:i gin:ia|Geəparlini Ginia|dex|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
+ge.politik:|geəpolitikə||||geopolitics|géopolitique|geopolítica|geopolítica|геополитика||地缘政治||||भूराजनीति||||||geopolitiikka|
+ge.sism:|geəsismə||||earthquake||terremoto|||||||||||||tertremo|maanjäristys|trzęsienie Ziemi
+ge.term:i|geətermi||||geothermal|géothermique|geotérmico||геотерма́льный||地热的||||||||||geoterminen (maalämpö-)|
+ge.tik:|geətikə||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale)|działka (teren)
 gei:i|geyi|||eng:fra:spa:gay, por:guei|gay (homosexual)||gay (homosexual)|||||||||||||samseksema|homo (homoseksuaali)|gejowski (homoseksualny)
 gem:|gem|||eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|game (play a game)||juego (jugar un juego)|||||||||||||ludo|peli (pelata)|gra (grać w grę)
 gem.er:|• gemer||||player (gamer)||jugador||игрок (геймер)|||||||||||ludanto|pelaaja|gracz
 gen:|genə|||ell: γέννα (génna),eng:genesis,fra:genèse + hin:जन्म (janma),mal:ജനനം (jananaṃ) + jpn:源 (gen)|birth (beget, create, breed, generate, produce)||nacimiento (origen)|||||||||||||nasko|synty (synnyttää, luoda, tuottaa)|narodziny
+gen:|gen|||hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|birth||nacimiento (origen)|||||||||||||nasko|synty (syntymä)|narodziny
+gen:a|gena||||give birth (beget, generate, breed)|donner naissance (procréer, engendrer, accoucher)|dar a luz (enngendrar, parir, procrear)||родить|||生む||||||||naskigi|synnyttää|urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić
+gen:i|geni||||raw (crude)||crudo||сырой||生的|生 (未熟)||||||||||surowy (niedojrzały)
+gen:u|genu||||be born||nacer|||||||||||||naski|syntyä|urodzić się, rodzić się
 gen.er:|• gener||||||||||||||||||||tekijä (luoja)|
 gen.er.at:|• generatə||||generate |||||||||||||||||
 gen.er.at.ion:|• generation||||generation  |||||||||||||||||
@@ -1207,13 +1230,17 @@ gen.et.al:|• genetal||||genetic|génétique|genético|genético|генетич
 gen.et.loj:ia|• genetəlojia||||genetics|||||||||||||||||
 gen.it:a|• genita||||breed|élever|criar||выращивать|||湧かす||||||||||rozmnażać
 gen.loj:ia|• genelojia||||genealogy (study of descent)|généalogie|genealogía|genealogia|генеалогия||系谱学|系譜学|계보학|gia phả học|||genealogi||soy bilimi (jeneoloji)|genealogio|sukututkimus|genealogia
+gen.loj:ia|genəlojia||||genealogy (study of descent)|généalogie|genealogía|genealogia|генеалогия||系谱学|系譜学|계보학|gia phả học|||genealogi||soy bilimi (jeneoloji)|genealogio|sukututkimus|genealogia
 gen.om:|• genomə||||genome||||||||||||||||perimä (genomi)|
 gen<ex:|• exəgenə||||exogeneous||exógeno|exógeno|экзогенный||||||||||||ulkosyntyinen|
 gen<in:i|• ingenə||||innate (endogeneous, indigenous, inborn)|endogène|innato (endógeno)|endógeno|||内生的||||||||||sisäsyntyinen (endogeeninen)|wewnętrzny
 gen<poli:|• poligenə||||polygenesis|||||||||||||||||
 gen<un:|• unəgenə||||monogenesis|||||||||||||||||
 gen~bax:|genəbaxə||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
+gen~bax:|genəbaxə||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
 gen~den:|genəden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
+gen~den:|genəden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
+gen~grup:|genəgrupə||||generation (cohort)||generación (cohorte)||поколение|||||||||||||pokolenie (generacja)
 gen~grup:|genəgrupə||||generation (cohort)||generación (cohorte)||поколение|||||||||||||pokolenie (generacja)
 gen~klas:|genəklas||||caste||casta||||||||||||||sääty (kasti)|kasta
 gen~lok:|genəlokə||||birthplace|lieu de naissance|lugar de nacimiento||место рождения||出生地|出生地|출생지|nơi sinh (sinh quán)|जन्मस्थान||||doğum yeri|naskiĝejo|syntymäpaikka|
@@ -1229,25 +1256,6 @@ german.em:|germanem|kimeme 032|Ge|eng:germanium, fra:germanium, spa:germanio, po
 gernezi:|Gernezi|dex|GG||Guernsey||Guernesey||||||||||||||Guernsey|Guernsey
 get:a|geta|||eng:get|get (receive, obtain, take)||conseguir (obtener, recibir)|ter (achar, receber)|получить||获得|受ける (もらう)|||पाना|||kupata (kuget)|elde etmek|akiri (ricevi, preni)|hankkia (saada)|dostać, dostawać, otrzymać, otrzymywać, wziąć, brać
 get.er:|geter||||getter (receiver, recipient)||engendrador||||||||||||||saaja (vastaanottaja)|odbiorca
-gey:|geyə|||eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|earth (ground)||tierra|||||地|||||||||maa (maaperä)|ziemia, grunt, gleba
-gey:ia|Geyia|planete 3|||Earth (Terra)|Terre|Tierra|Terra|Земля|الأرض|||||||||Yer|||
-gey.dou:|geədou|biu|||peanut (groundnut)||maní||||||||||||||maapähkinä|orzech ziemny
-gey.form:|geəformə||||terrain|terrain|terreno|terreno|||地势|地形||||||||||teren
-gey.graf:ia|geəgrafia||||geography|geographie|geografía|geografia|география||地理|||||||jiografia||geografio|maantiede|
-gey.gun:ia|geəgunia||||ground force (army)||ejército||||||||||||||maavoimat|wosko lądowe (armia)
-gey.kask:i krak:|geəkaski krakə||||fault line|||||||||||||||||uskok
-gey.kask:i plat:|geəkaski platə||||tectonic plate|plaque tectonique|placa tectónica|||||||||||||||płyta tektoniczna
-gey.loj:ia|geəlojia||||geology|géologie|geología|||||地質学||||||||||geologia
-gey.med:i hai:|Geəmedi Hai||||Mediterranean||Mediterráneo||||||||||||||Välimeri|Morze Śródziemne
-gey.metr:ia|geəmetria||||geometry|géométrie|geometría|geometria|геометрия||几何学|幾何学|기하학|hình học|ज्यामिति|||||geometrio|geometria|
-gey.nic:i|geənici||||underground (subterrainean)||subterráneo|||||地中||||||||||podziemny
-gey.nic:i prizon:|geənici prizon||||dungeon (underground prison)|oubliette (cul de basse-fosse)|mazmorra||ублиет (подземная тюрьма)|||地下牢 (ダンジョン)||||||||||loch
-gey.par.lin:|geəparlin||||equator||ecuador||||||||||||||päiväntasaaja|równik
-gey.par.lin:i gin:ia|Geəparlini Ginia|dex|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
-gey.politik:|geəpolitikə||||geopolitics|géopolitique|geopolítica|geopolítica|геополитика||地缘政治||||भूराजनीति||||||geopolitiikka|
-gey.sism:|geəsismə||||earthquake||terremoto|||||||||||||tertremo|maanjäristys|trzęsienie Ziemi
-gey.term:i|geətermi||||geothermal|géothermique|geotérmico||геотерма́льный||地热的||||||||||geoterminen (maalämpö-)|
-gey.tik:|geətikə||||lot (plot of land)||terreno (solar)||||||||||||||tontti (maakaistale)|działka (teren)
 gid:a|gida|||eng:fra:guide, spa:guía, por:guia, rus:гид  (gid), jpn:ガイド (gaido), kor:가이드 (gaideu), swa:gaidi + ara:قَادَ‎ (qāda)|guide (lead, show the way)|guider|guiar|guiar|||导游|||||||kiongozi (gaidi)||gvidi|opastaa (ohjata)|prowadzić (wskazać drogę)
 gid.buk:|gidəbukə||||guide book|guide touristique|guía de viaje||путеводитель||指南|ガイドブック|가이드북||||buku panduan||||matkaopas (opaskirja)|przewodnik
 gid.er:|gider||||guide|guide|guía|guia|гид||导游|案内人 (ガイド)|안내인 (가이드)||||pemandu|kiongozi|rehber||opas (tiennäyttäjä)|przewodnik
@@ -1653,15 +1661,7 @@ jek.log:|jekəlogə||||loanword||préstamo lingüístico|||||||||||||||zapożycz
 jel:|jel|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī), vie:chất gien|gel (jelly)||gel (jalea, gelatina)|||||||chất gien||||||ĝelo|hyytelö|żel, galareta
 jelos:i|jelosi|||eng:jealous, spa:celoso, fra:jaloux|jealous||celoso (envidioso)||||||||||||||kade (kateellinen)|zazdrosny
 jen:|jen|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|person (individual)|personne|persona|pessoa|||人|人||||||||persono|henkilö|osoba
-jen:|jen|||hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|birth||nacimiento (origen)|||||||||||||nasko|synty (syntymä)|narodziny
-jen:a|jena||||give birth (beget, generate, breed)|donner naissance (procréer, engendrer, accoucher)|dar a luz (enngendrar, parir, procrear)||родить|||生む||||||||naskigi|synnyttää|urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić
-jen:i|jeni||||raw (crude)||crudo||сырой||生的|生 (未熟)||||||||||surowy (niedojrzały)
-jen:i bax:|jeni bax||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
-jen:u|jenu||||be born||nacer|||||||||||||naski|syntyä|urodzić się, rodzić się
-jen.den:|jenden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
-jen.grup:|jengrupə||||generation (cohort)||generación (cohorte)||поколение|||||||||||||pokolenie (generacja)
-jen.loj:ia|genəlojia||||genealogy (study of descent)|généalogie|genealogía|genealogia|генеалогия||系谱学|系譜学|계보학|gia phả học|||genealogi||soy bilimi (jeneoloji)|genealogio|sukututkimus|genealogia
-jen<dus:|• dusjen||||enemy (foe, villain)|ennemi|enemigo|inimigo|враг (противник)|عَدُوّ|敌人|敵|적 (구적)|kẻ thù (kẻ địch)|दुर्जन (शत्रु)|দুশমন (শত্রু)|musuh (durjana)|adui|düşman|malamiko|vihollinen|
+jen<dus:|• dusəjen||||enemy (foe, villain)|ennemi|enemigo|inimigo|враг (противник)|عَدُوّ|敌人|敵|적 (구적)|kẻ thù (kẻ địch)|दुर्जन (शत्रु)|দুশমন (শত্রু)|musuh (durjana)|adui|düşman|malamiko|vihollinen|
 jeng:|jeng|||zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)|fight (war, battle, combat)||pelea (guerra, batalla)|||||戦闘 (格闘)||||||||milito (batalo)|taistelu (sota)|walka, wojna
 jeng:i|jengi||||military (martial, warlike)||macrial (militar)|||||||||||||milita|sotilaallinen|militarny, wojskowy, wojenny
 jeng.er:|jenger||||warrior (fighter)||luchador (guerrero)||||||||||||||soturi (taistelija)|wojownik, bojownik
@@ -1823,7 +1823,7 @@ kaps:|kapsə|||lat:capsa, eng:fra:case,capsule, spa:caja,cápsula, por:caixa,cá
 kar:|kar|||may:karya, hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma) |work (job, task)|travail|trabajo|trabalho|работа|عَمَل|工作|労働|일||काम|কাজ|kerja (karya)|kazi|iş|laboro|työ (tehtävä)|praca, zjęcie, zadanie
 kar:a|kara||||work|travailler|trabajar|trabalhar|работать|عَمِلَ|工作|働く|일하다|làm việc|काम करना|কাম কৰা|bekerja|kufanya kazi|işlemek (çalışmak)||työskennellä|pracować
 kar.er:|karer||||worker|travailleur (ouvrier)|trabajador (obrero)|trabalhador|работник|عَامِل|工人 (工作者)|労働者|노동자|công nhân|मज़दूर (कर्मी)|কর্মী|pekerja||işçi|laboristo|työntekijä (työläinen)|pracownik
-kar.kan:|karkan|||eng:workshop, fas:کارخانه‎ (kârxâne), hin:कारख़ाना (kārxānā), ben:কারখানা (karôkhana), zho:工厂 (gōngchǎng)|workshop||||||工厂||||कारख़ाना|কারখানা||||laborejo|paja (työpaja)|
+kar.kan:|karəkan|||eng:workshop, fas:کارخانه‎ (kârxâne), hin:कारख़ाना (kārxānā), ben:কারখানা (karôkhana), zho:工厂 (gōngchǎng)|workshop||||||工厂||||कारख़ाना|কারখানা||||laborejo|paja (työpaja)|
 kar.log:|karlogə|||hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja|verb|verbe|verbo|verbo|глагол||动词|動詞|동사|động từ|क्रिया|ক্রিয়া|kata kerja|kitenzi|fiil|verbo|verbi (teonsana)|czasownik
 kar.mez:|karmezə||||desk||escritorio (mesa de trabajo)||||||||||||||työpöytä (kirjoituspöytä)|biurko
 kar.mis:a|karmisa||||submit (present)|soumettre|entregar (enviar)||||提交|提出||||||||||przedstawić (przedłożyć, przedstawić, złożyć, składać)
@@ -1966,7 +1966,7 @@ klus<in.iu:|• inklusivə||||inclusive|inclusif|inclusivo|inclusivo||||||||||||
 klus<kon:|• konklusə||||conclude (close together)|||||||||||||||||
 kobalt:|kobaltə|kimeme 027|Co|eng:cobalt, fra:cobalt, spa:cobalto, por:cobalto, rus:кобальт, zho:钴 (gǔ), jpn:コバルト, kor:코발트, vie:coban, hin:कोबाल्ट, ben:কোবাল্ট, may:kobalt, swa:kobalti, ara: كوبلت|cobalt|cobalt|cobalto|cobalto|кобальт|كوبلت|钴|コバルト|코발트|coban|कोबाल्ट|কোবাল্ট|kobalt|kobalti|kobalt|kobalto|koboltti|kobalt
 kod:|kodə|||eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)|code (cipher)||código (cifra)|||||||||||||kodo|koodi|kod, szyfr
-kod:a|koda||||encode (encrypt)||codificar (cifrar)||||||||||||||koodata|kodować
+kod<in:|• inkodə||||encode (encrypt)||codificar (cifrar)||||||||||||||koodata|kodować
 kod<de:|• dekodə||||decode (decrypt)||||||||||||||||purkaa koodi (dekoodata)|
 koka:|koka|||spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)|coca||coca||||||||||||||kooka|koka
 koka.kola:|koka kola||||Coca-Cola|||||||||||||||||kola (coca-cola)
@@ -2560,14 +2560,14 @@ mird:i|mirdi|||eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yu
 mird:u|mirdu||||fade|||||||||||||||||niknąć (blaknąć, gasnąć, słabnąć)
 mis:|misə||||send||||||||||||||||lähettää|
 mis:a|misa|||eng:emit, spa:remitir, por:emitir, fra:émettre|send (emit, transmit)||enviar (transmitar)||||||||||||||lähettää|wysłać (wyemitować)
-mis:ia|misia||||mission (transmission, emission)||emisión||||||||||||||lähetys|misja
+mis:ia|• misia||||mission (transmission, emission)||emisión||||||||||||||lähetys|misja
 mis.ag:|• misajə|||eng:deu:fra:message,spa:mensaje,por:mensagem,tur:mesaj,jpn:メッセージ (messēji),kor:메시지 (mesiji),rus:месседж (messedzh),may:mesej|message|message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość
-mis.er:|miser||||sender (transmitter)||remitente||||||||||||||lähettäjä (lähetin)|nadawca
+mis.er:|• miser||||sender (transmitter)||remitente||||||||||||||lähettäjä (lähetin)|nadawca
 mis.ion|• mision||||mission (sending)|mission|misión|missão|миссия||||||||misi||||lähetys|
 mis.ion.er|• misioner|||eng:missionary,deu:Missionar,fra:missionnaire,spa:misionero,por:misionário,rus:миссионер (missioner),may:misioinaris,swa:mmisionari,tur:misyoner|missionary|missionnaire|misionero|missionário|миссионер||传教士|宣教師|선교사|người truyền giáo|||misionaris|mmisionari|misyoner|misiisto|lähetti (lähetyssaarnaaja)|misjonarz
 mis<ex:a|• exmisa||||export||exportar||||||||||||||viedä pois (viedä maasta)|eksportować (wyeksportować)
 mis<ex:a|• exmisə||||emit|||||||||||||||||
-mis<in:a|inmisa||||import||importar|||||||||||||||importować (zaimportować)
+mis<in:a|• inmisa||||import||importar|||||||||||||||importować (zaimportować)
 mis<kon:a|• konmisə||||commit|||||||||||||||||
 mis<kon<ia|• konmisia|||rus:комиссия (komissiya),pol:komisja,eng:fra:commission,deu:Kommission,spa:comisión,por:comissão,tur:komisyon,hin:कमीशन (kamīśan),ben:কমিশন (kômiśôn),may:komisi|commission (committee)|commission (comité)|comisión (comité)|comissão (comité)|комиссия (комитет)||委员会|委員会|위원회|uỷ ban|आयोग (कमीशन)|কমিশন|komisi (komite)||komisyon|komisiono (komitea)|komission (komitea)|komisja (komitet)
 mis<tran:a|• tranmisə||||transmit |transmettre|transmitir|transmitir|||||||||||||välittää (siirtää,lähettää)|
