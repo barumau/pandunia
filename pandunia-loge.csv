@@ -667,7 +667,7 @@ disk:|diskə|||eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin
 dispros.em:|disprosem|kimeme 066|Dy|eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم|dysprosium|dysprosium|disprosio|disprósio|диспрозий|ديسبروسيوم|镝|ジスプロシウム|디스프로슘|đysprosi, đisprozi|डिस्प्रोसियम|ডিসপ্রোসিয়াম|disprosium|disprosi|disprosyum|disprozio|dysprosium|dysproz
 dit:|ditə||||dictate|dicter|dictar|ditar|диктовать||||||||||||sanella|dyktować
 dit.at.er|• ditater|||por:ditador,ita:dittatore,end:dictator,fra:dictateur,spa:dictador,deu:may:diktator,rus:диктатор (diktator),tur:diktatör,ara:(diktatūr)|dictator|dictateur|dictador|ditador|диктатор|دكتاتور|独裁者|独裁者|독재자||तानाशाह (अधिनायक)|একনায়ক|diktator|||diktatoro|diktaattori|dyktator
-dit.at.er.ie|• ditateriə||||dictatorship|dictature|dictadura|ditadura|диктатура||独裁|独裁|독재|||||||diktaturo|diktatuuri|dyktatura
+dit.at.er:ia|• ditateria||||dictatorship|dictature|dictadura|ditadura|диктатура||独裁|独裁|독재|||||||diktaturo|diktatuuri|dyktatura
 dit.ion|• dition||||saying (diction)|diction|dicción|dicção|дикция||吐字||||||diksi||||sanoittaminen (diktio)|
 dit.ion.ar:|• ditionar||||dictionary (collection of sayings)|||||||||||||||||
 dit<kon.tr:|• kontreditə||||contradict |||||||||||||||||
@@ -2162,7 +2162,7 @@ log:i|logi||||spoken (lexical)|lexical|léxico|léxico|лексический|||
 log:ia|logia||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||词汇|語彙|어휘|từ vựng|शब्दकोश (लुग़त)||kosa kata (logat)|msamiati|sözlük (lügat)|vortaro|sanasto|słownictwo
 log.asl:ia|logaslia||||etymology|étymologie|etimología|etimologia|этимология|||||||||||etimologio|etymologia|etymologia
 log.em:|logem||||word (lexeme)|mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
-log.fil:ia|logəfiliə||||logophilia||||||||||||||||logəfiliə|
+log.fil:ia|logəfilia||||logophilia||||||||||||||||logəfiliə|
 log.fil.er:|logəfilistə||||logophile (word buff)||||||||||||||||logofiili|logofil (miłośnik słów)
 log.iron:ia|logironia||||verbal irony (sarcasm)|||||||||||||||||sarkazm
 log.iu:i|logivi||||talkative|loquace|hablador (locuaz)|||||||||||||parolema|puhelias|rozmowny
@@ -2305,9 +2305,9 @@ mask:|maskə|||eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), h
 mast:|mastə|||eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|mast|mât|mástil|mastro|мачта||桅||||मस्तूल||||direk|masto|masto (salko)|maszt
 mast.er|master|akadem.||eng:fra:master,por:mestre,rus:магистр (magistr),may:magister|master (master’s degree)|diplôme de master||mestre|магистр|||||||||||magistro|maisteri (tutkinto)|magister
 mast.er. d:a art:|master da artə (MA)||||Master of Arts|||||||||||||||||
-mast.er. d:a engen:ia|master da engeniə (ME)||||Master of Engineering||||||||||||Magister Teknik|||||
-mast.er. d:a filsof.i;|master da filsofiə (MF)||||Master of Philosophy|||||||||||||||||
-mast.er. d:a sent:ia|master da sentie (MS)||||Master of Science||||||||||||Magister Sains|||||
+mast.er. d:a engen:ia|master da engenia (ME)||||Master of Engineering||||||||||||Magister Teknik|||||
+mast.er. d:a filsof.i;|master da filsofia (MF)||||Master of Philosophy|||||||||||||||||
+mast.er. d:a sent:ia|master da sentia (MS)||||Master of Science||||||||||||Magister Sains|||||
 mast.er. d:af tehn.loz:ia|master da tehnəlozia (MT)||||Master of Technology|||||||||||||||||
 mat:|matə|||eng:matter, fra:matière, spa:por:materia, rus:материя (materiya), deu:Materie, may:materi + ara: مادة (mādda), swa:maada, tur:madde + yue:物 (mat), vie:vật|matter (substance)|matière|sustancia (materia)|matéria|материя|مادة|物质|物質|물질|vật chất|पदार्थ|পদার্থ||maada|madde|materio|aine (materia)|materia, substancja
 mat:i|mati||||material||material||||||||||||||aineellinen (materiaalinen)|materialny
