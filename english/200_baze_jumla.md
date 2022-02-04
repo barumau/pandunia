@@ -76,35 +76,35 @@ is a popular greeting that is used by both religious and non-religious people in
 Indonesian: selamat.</small>
 
 
-### shukrə <small>thanks</small>
+### shukry <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**shukrə!**
+**shukry!**
 Thanks!
 
-**poli shukrə!**
+**poli shukry!**
 Thanks a lot!
 
-**ya, shukrə.**
+**ya, shukry.**
 Yes, thank you.
 
-**no, shukrə.**
+**no, shukry.**
 No, thank you.
 
-**shukrə te.**
+**shukry te.**
 Thank you.
 
-**me shukrə te.**
+**me shukry te.**
 I thank you.
 
-**me shukrə te medə me.**
+**me shukry te medy me.**
 I thank you for helping me.
 
-**shukrə te medə me.**
+**shukry te medy me.**
 Thanks for helping me.
 
-**no yau shukrə.**
+**no yau shukry.**
 You're welcome. (Literally: _No need to thank._)
 
 
@@ -118,7 +118,7 @@ I am Thomas.
 **te sa Sara.**
 You are Sarah.
 
-**aplə sa frutə.**
+**aply sa fruty.**
 The apple is a fruit.
 
 <small>Etimology. **sa** is from
@@ -175,7 +175,7 @@ That's why
 is the same in subject and object positions
 while English has two different forms, 'I' and 'me'.
 
-**me amə te.**
+**me amy te.**
 I love you.
 
 <small>Etymology. **te** is from Spanish: te, Russian: ты (ty), Italian: te, French: te.</small>
@@ -191,7 +191,7 @@ He is a man.
 **le sa fem.**
 She is a woman.
 
-**le sa aplə.**
+**le sa aply.**
 It is an apple.
 
 **le**
@@ -308,7 +308,7 @@ We are women.
 **les sa man.**
 You are men.
 
-**les sa aplə.**
+**les sa aply.**
 They are apples.
 
 
@@ -342,19 +342,19 @@ Bengali: কী "ke".</small>
 **ni sa ke?**
 What's this?
 
-**ni sa aplə.**
+**ni sa aply.**
 This is an apple.
 
 **go sa ke?**
 What is that?
 
-**go sa oranjə.**
+**go sa oranjy.**
 That is an orange.
 
-**ni sa rubi aplə.**
+**ni sa rubi aply.**
 This is a red apple.
 
-**ni aplə sa rubi.**
+**ni aply sa rubi.**
 This apple is red.
 
 **ni sa rubi.**
@@ -396,10 +396,10 @@ means "your" and so on.
 **le sa ke?**
 Who's he/she?
 
-**le sa me du dostə.**
+**le sa me du dosty.**
 He/she is my friend.
 
-**me sa Sara du dostə.**
+**me sa Sara du dosty.**
 I am Sarah's friend.
 
 <small>Etymology. **du**
@@ -443,37 +443,37 @@ I want to have a new phone.
 
 **sual te ten yo ben?**
 Do you have children?  
-**me ten duə ben.**
+**me ten duy ben.**
 I have two children.
 
 
-### sabə <small>to know</small>
+### saby <small>to know</small>
 
-**me sabə le.**
+**me saby le.**
 I know him/her/it.
 
-**sual te sabə go jen?**
+**sual te saby go jen?**
 Do you know that person?
 
-**sual les sabə semon?**
+**sual les saby semon?**
 Do you know each other?
 
-**mes sabə semon za long.**
+**mes saby semon za long.**
 We know each other for a long time.
 
 
-### medə <small>help</small>
+### medy <small>help</small>
 
-**me yau yo medə.**
+**me yau yo medy.**
 I need help.
 
-**sual te ablə medə me?**
+**sual te ably medy me?**
 Can you help me?
 
-**sual me ablə medə te?**
+**sual me ably medy te?**
 Can I help you?
 
-**me vol medə te.**
+**me vol medy te.**
 I want to help you.
 
 
@@ -484,15 +484,15 @@ I want to help you.
 **sual te vol yam yo?**
 Would you like to eat something?
 
-**le yam un aplə.**
+**le yam un aply.**
 He/she eats an apple.
 
-**les yam ba aplə.**
+**les yam ba aply.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
 Therefore a word like
-**aplə**
+**aply**
 can refer to one or more apples.
 
 **sual te yam kafe?**
@@ -530,7 +530,7 @@ Would you like to drink tea?
 **no. me no vol chai. me vol kafe.**
 No, I don't want tea. I want coffee.
 
-**te vol ke aplə?**
+**te vol ke aply?**
 Which apple do you want?  
 **ni rubi.**
 This red one.
@@ -544,7 +544,7 @@ I ask you to drink tea.
 **me ching te lai dom.**
 I ask you to come home.
 
-**me ching te medə me.**
+**me ching te medy me.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
@@ -558,7 +558,7 @@ Please, have some coffee!
 **ching lai dom.**
 Please, come home!
 
-**ching medə me.**
+**ching medy me.**
 Please, help me.
 
 
@@ -576,7 +576,7 @@ Let's go home.
 
 ### yau <small>need</small>
 
-**me yau yo medə.**
+**me yau yo medy.**
 I need help.
 
 **me yau yam.**
@@ -593,7 +593,7 @@ Are you thirsty?
 
 ### maf <small>sorry, pardon</small>
 
-**maf! me no ahə.**
+**maf! me no ahy.**
 Sorry, I don't understand.
 
 **maf! ni sa ke?**
@@ -603,108 +603,108 @@ Excuse me, what's this?
 Excuse me, what's your name?
 
 
-### ahə <small>understand</small>
+### ahy <small>understand</small>
 
-**sual te ahə me?**
+**sual te ahy me?**
 Do you understand me?
 
-**me ahə.**
+**me ahy.**
 I understand.
 
-**maf. me no ahə te.**
+**maf. me no ahy te.**
 Sorry. I don't understand you.
 
-**me no bas ahə te.**
+**me no bas ahy te.**
 I didn't quite understand you.
 
-**me ahə nol.**
+**me ahy nol.**
 I don't understand at all.
 
 
-### ablə <small>can</small>
+### ably <small>can</small>
 
-**me ablə shofə un kar.**
+**me ably shofy un kar.**
 I can drive a car.
 
-**le no ablə shofə un kar.**
+**le no ably shofy un kar.**
 He/she doesn't know how to drive a car.
 
-**sual te ablə shuli le?**
+**sual te ably shuli le?**
 Do you know how to fix it?
 
-**sual te ablə pandunia?**
+**sual te ably pandunia?**
 Can you speak Pandunia?
 
-**me ablə pandunia.**
+**me ably pandunia.**
 I can speak Pandunia.
 
-**me ablə lili da pandunia.**
+**me ably lili da pandunia.**
 I can speak a little Pandunia.
 
-**me no ablə english.**
+**me no ably english.**
 I can't speak English.
 
-**maf. me no ablə te du bashə.**
+**maf. me no ably te du bashy.**
 Sorry, I can't speak your language.
 
 
-### logə <small>to say, speak, talk</small>
+### logy <small>to say, speak, talk</small>
 
-**te logə ke?**
+**te logy ke?**
 What did you say?
 
-**me logə ga te.**
+**me logy ga te.**
 I talk to you.
 
-**mes logə ga semon.**
+**mes logy ga semon.**
 We talk to each other.
 
-**mon logə "cat" va ke yang va pandunia?**
+**mon logy "cat" va ke yang va pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" sa ke va pandunia?**
 What is "cat" in Pandunia?
 
-**mau logə miau.**
+**mau logy miau.**
 Cat says meow.
 
 
-### audə <small>to listen, hear</small>
+### audy <small>to listen, hear</small>
 
-**audə me!**
+**audy me!**
 Listen to me!
 
-**me no ablə audə te.**
+**me no ably audy te.**
 I can't hear you.
 
-**ching logə max lika.**
+**ching logy max lika.**
 Please speak louder.
 
-**me audə muzikə.**
+**me audy muziky.**
 I listen to music.
 
-**te audə ke yang du muzikə?**
+**te audy ke yang du muziky?**
 What kind of music do you listen to?
 
 
-### vidə <small>to see</small>
+### vidy <small>to see</small>
 
-**sukə vidə te.**
+**suky vidy te.**
 Pleased to see you!
 
-**vidə te re!**
+**vidy te re!**
 See you again!
 
-**vidə te va pos den!**
+**vidy te va pos den!**
 See you tomorrow!
 
-**me vidə le va chen den.**
+**me vidy le va chen den.**
 I saw him/her yesterday.
 
 
 ### mana <small>to mean</small>
 
-**ni logə ya mana ke?**
+**ni logy ya mana ke?**
 What does this word mean?
 
 **"mau" ya mana ke?**
@@ -713,28 +713,28 @@ What does "mau" mean?
 **le mana un yang da zou.**
 It means a kind of animal.
 
-**me no ahə le mana ke.**
+**me no ahy le mana ke.**
 I don't understand what it means.
 
 
-### kitabə <small>write</small>
+### kitaby <small>write</small>
 
-**ching kitabə te du adres.**
+**ching kitaby te du adres.**
 Please, write your address.
 
-**ching kitabə le va ni.**
+**ching kitaby le va ni.**
 Please, write it here!
 
 
-### bashə <small>speak a language, communicate</small>
+### bashy <small>speak a language, communicate</small>
 
-**sual les bashə pandunia.**
+**sual les bashy pandunia.**
 Do you speak Pandunia?
 
-**mes bashə pandunia.**
+**mes bashy pandunia.**
 We speak Pandunia.
 
-**sual te ablə bashə english?**
+**sual te ably bashy english?**
 Can you speak English?
 
 **france, espanya, portugal, rus**
@@ -757,7 +757,7 @@ Swahili, Hausa, Yoruba, Amharic
 **te ga ke?**
 Where are you going?
 
-**me ga lə dom.**
+**me ga ly dom.**
 I'm going home.
 
 **me mus ga ke?**
@@ -802,10 +802,10 @@ The voyage is very long.
 
 ### va <small>in, on, at</small>
 
-**lə hotel va ke?**
+**ly hotel va ke?**
 Where is the hotel?
 
-**lə hotel va go dau.**
+**ly hotel va go dau.**
 The hotel is on that road.
 
 **te va ke?**
@@ -817,7 +817,7 @@ I'm at home.
 **le va ke?**
 Where is he/she?
 
-**le sidə va kamar.**
+**le sidy va kamar.**
 He/she sits in the room.
 
 Tip! You can use
@@ -859,13 +859,13 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**me zai salam te du dostə.**  
+**me zai salam te du dosty.**  
 I am greeting your friend.
 
-**lə man ya zai vidə un filmə.**  
+**ly man ya zai vidy un filmy.**  
 The man is watching a film.
 
-**le zai sa shefə.**  
+**le zai sa shefy.**  
 He or she is currently the chief.
 
 **le zai va dom.**  
@@ -874,13 +874,13 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**me pas salam te du dostə.**  
+**me pas salam te du dosty.**  
 I greeted your friend.
 
-**lə man ya pas vidə un filmə fem.**  
+**ly man ya pas vidy un filmy fem.**  
 The man watched a film.
 
-**le pas sa shefə.**  
+**le pas sa shefy.**  
 He or she was the chief.
 
 **le pas va dom.**  
@@ -889,28 +889,28 @@ He or she was at home.
 
 ### leu <small>already, completed</small>
 
-**me leu salam te du dostə.**  
+**me leu salam te du dosty.**  
 I have greeted your friend.
 
-**lə man leu vidə un filmə.**  
+**ly man leu vidy un filmy.**  
 The man has watched a film.
 
-**le leu sa shefə.**  
+**le leu sa shefy.**  
 He or she has been the chief.
 
-**le leu va lə dom.**  
+**le leu va ly dom.**  
 He or she has been at home.
 
 
 ### sha <small>in the future</small>
 
-**me sha salam te du dostə.**  
+**me sha salam te du dosty.**  
 I will greet your friend.
 
-**lə man sha vidə lə filmə.**  
+**ly man sha vidy ly filmy.**  
 The man will watch the film.
 
-**le sha sa shefə.**  
+**le sha sa shefy.**  
 He or she will be the chief.
 
 **le sha va dom.**  
@@ -939,36 +939,36 @@ I give a book to them.
 He/she doesn't want to give it to me.
 
 
-### kapə <small>take, get</small>
+### kapy <small>take, get</small>
 
-**me kapə un kafe.**
+**me kapy un kafe.**
 I will take a coffee.
 
-**ching kapə un kafe ga me.**
+**ching kapy un kafe ga me.**
 Please take one coffee for me.
 
-**te pas kapə pesa za me.**
+**te pas kapy pesa za me.**
 You already got money from me before.
 
-**me kapə un bir.**
+**me kapy un bir.**
 I will take a beer.
 
 
-### kirə <small>rent, lease, hire</small>
+### kiry <small>rent, lease, hire</small>
 
-**kirə sa 500 dolar va mes.**  
+**kiry sa 500 dolar va mes.**  
 The rent is 500 dollars in a month.
 
-**le no ablə pei lə kirə.**  
+**le no ably pei ly kiry.**  
 He/she can't pay the rent.
 
-**me vol kapə un gar va kirə.**  
+**me vol kapy un gar va kiry.**  
 I want to take a car for rent.
 
-**me vol kirə kapə un kar.**
+**me vol kiry kapy un kar.**
 I want to rent a car.
 
-**le kirə don lə kamar ga safarer.**
+**le kiry don ly kamar ga safarer.**
 He/she rents rooms to travelers.
 
 
@@ -1010,7 +1010,7 @@ It is cheap / expensive.
 **men cing mes lai.**
 We are being called.
 
-**me soka tualetə.**
+**me soka tualety.**
 I'm looking for the toilet.
 
 ****
@@ -1019,10 +1019,10 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**me shula lə pandunia.**
+**me shula ly pandunia.**
 I study Pandunia.
 
-**shou le ga me va logə buku!**
+**shou le ga me va logy buku!**
 Show me in the dictionary!
 **me no yada.**
 I don't remember.
@@ -1045,16 +1045,16 @@ Cheers!
 ****
 Of course!
 
-**sual te sukə ...?**
+**sual te suky ...?**
 ga you like ...?
 
 ****
 I feel alright.
 
-**ching sidə va ni!**
+**ching sidy va ni!**
 Please, sit here!
 
-**me sukə stasa.**
+**me suky stasa.**
 I rather stand.
 
 ****

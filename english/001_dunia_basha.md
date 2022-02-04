@@ -114,10 +114,10 @@ Sounds that are present in English or Mandarin but not in Pandunia are enclosed 
 |------------|-------------|---------------|-----------------|
 | Nasals     | m n ng      | m n ng        | m n ng          |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
-| Liquids    | l r y v     | l r y w       | l r y w (yü)    |
-| Sibilants  | s z sh      | s z sh (zh)   | s z* sh (x)     |
+| Liquids    | l r j v     | l r y w       | l r y w (yü)    |
+| Sibilants  | s z         | s z (sh zh)   | s z* (sh x)     |
 | Fricatives | f h         | f h (v th th) | f h             |
-| Affricates | ch j        | ch j          | ch zh (q j c)   |
+| Affricates | c           | ch (j)        | ch (zh q j c)   |
 
 
 ### Easy to pronounce

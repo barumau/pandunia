@@ -1,4 +1,4 @@
-# Commonalities in the Pandunia varieties
+# Common basis
 
 ## Introduction
 
@@ -109,6 +109,48 @@ Affirmation can be emphasized with the adverb
 – It is you but not me.  
 **me sa jen, a le sa mau.**
 – I am a person but it is a cat.
+
+
+### Interrogative pronouns
+
+**ke** is a general-purpose interrogative pronoun.
+It does the job of English words _who_ and _what_.
+
+**ke?**
+– Who or what?  
+
+The adjectival interrogative pronoun is also **ke**
+and it means the same as English _which_.
+
+**ke she?**
+– What? (Which thing?)  
+**ke jen?**
+– Who? (Which person?)  
+**ke zaman?**
+– When? (What time?)  
+**ke yang?** 
+– How? (What way?)  
+**ke sabu?**
+– Why? (What reason?)
+
+Also adjectives are questioned with **kə**.
+
+**kə novə?**
+– How new?  
+**kə kostə?**
+– How costy?  
+**kə poli?**
+– How many?  
+**kə dai?**
+– How big?  
+**kə lil?**
+– How small?
+
+**te ten ke dai du mau?**
+– How big a cat do you have?
+
+**ke sa le?**
+– Who is it?
 
 
 ## Summary

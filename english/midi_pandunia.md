@@ -184,14 +184,14 @@ It does the job of English words _who_ and _what_.
 **ke?**
 – Who or what?  
 
-The adjectival interrogative pronoun is **kə**
+The adjectival interrogative pronoun is **ky**
 and it means the same as English _which_.
 
-**kə xei?**
+**ky xei?**
 – What? (Which thing?)  
-**kə jen?**
+**ky jen?**
 – Who? (Which person?)  
-**kə zaman?**
+**ky zaman?**
 – When? (What time?)  
 
 The adverbial interrogative pronoun is **ko**
