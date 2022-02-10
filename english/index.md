@@ -37,14 +37,14 @@ Learning Pandunia is a course in basic linguistics by itself.
 There are three structural varieties of Pandunia
 that familiarize learners with the most common types and structures of languages.
 
-1. **Mini Pandunia** (MnP) is the simplest variety.
+1. **Mini Pandunia** is the simplest variety.
    It has only invariable words.
    It uses specific grammatical words and *no inflection* to indicate grammatical relationships.
    **Minimi Pandunia** is a version of Mini Pandunia that is restricted to only 150 words.
-2. **Midi Pandunia** (MdP) is a compromise between the extreme varieties.
+2. **Midi Pandunia** is a compromise between the extreme varieties.
    It uses *little inflection* to indicate grammatical relationships.
    It has exactly five inflectional suffixes, which are the famous five *word class markers*.
-3. **Maxi Pandunia** (MxP) is the most complicated variety.
+3. **Maxi Pandunia** is the most complicated variety.
    It uses *much inflection* to indicate grammatical relationships,
    and forms of words can change considerably.
 
@@ -52,7 +52,7 @@ The varieties are compatible with each other!
 All of them have the same basic structure words and the same dictionary.
 The most advanced variety, Maxi Pandunia, includes Midi Pandunia, which in turn includes Mini Pandunia and Minimi Pandunia.
 
-![](http://www.pandunia.info/grafe/variaje.png "The levels and varieties of Pandunia")
+![](http://www.pandunia.info/grafe/pandunia-3.png "The layers of Pandunia")
 
 The best way to get familiar with all the varieties is to learn the common, basic structure words.
 The next step is to study Mini or Midi.
