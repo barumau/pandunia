@@ -2,6 +2,12 @@
 
 ## ✝
 
+mesi saman patrə,
+santə ti namə,
+lai ti rajia,
+fetə ti volə,
+va zemə e va saman.
+
 mimon su sama pa,  
 sante tu su nam,  
 lai tu su raja desha,  
@@ -25,6 +31,6 @@ e muhamad si ye su nabi ja.
 insan si metre da pan she.  
 – da _Protagoras_
 
-deu si mata. deu ya reste mata. e mimon le mata ye.  
-– da _Fridrih Niche_ (Friedrich Nietzsche)
+deu sa mati. deu restu mati. e mes avo mata le.  
+– da _Fridrih Nichə_ (Friedrich Nietzsche)
 
