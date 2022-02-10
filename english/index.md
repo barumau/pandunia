@@ -3,6 +3,10 @@
 Hello, world!
 Welcome to learn about Pandunia, the evenly global helping language!
 
+**This is version 3 alpha.**
+It is unstable and subject to change,
+but it contains the major features and shows what the new version can do.
+
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
