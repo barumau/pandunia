@@ -1,10 +1,10 @@
-site_name: Pandunia v.3
+site_name: Pandunia v3-alfa
 site_url: http://www.pandunia.info/english
 repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
 docs_dir: ../../english
 site_dir: ../../html/english
-theme: readable
+theme: readthedocs
 nav:
     - 'Info':
         - 'Introduction': 001_dunia_basha.md
