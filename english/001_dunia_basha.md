@@ -45,7 +45,6 @@ Instead, the grammar should be built from things that are universally known and/
 Hartmut Traunmuller divided the world into four major cultural spheres in his article
 [A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf).
 The languages within a certain cultural sphere share words (loan words and translated loan words) and cultural concepts.
-The four major cultural spheres are:
 
 1. The Western (or the European) cultural sphere
     - This sphere covers all of Europe, Americas, Australia and various smaller regions.
