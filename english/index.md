@@ -14,82 +14,22 @@ but it contains the major features and shows what the new version can do.
 
 Pandunia is a globally sourced constructed language
 that combines different types of grammar and international words from all continents into one language.
-It is a perfect language to be learned as the first foreign language because it prepares students to study other foreign languages in a unique way.
-Pandunia helps students to identify and use
 
-- the basic word classes
-- different word orders
-- analytic and synthetic grammar
-- word derivation and structure of international words
-- widely known words from Western, Asian and African cultures.
+Pandunia is a helping language for world-wide use.
+It is an easy language that people can use to talk with each other
+when they don't talk any other common language.
+It is meant to supplement other languages in our multilingual world.
 
-One year of learning Pandunia produces a language ability equivalent to what the average learner reaches with other languages after several years of study.
-It is a first stepping stone that builds confidence and improves the ability of the student to learn any other language in the future.
+Pandunia is simpler, more regular and easier to learn than natural world languages,
+like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
+Learning Pandunia is equally easy for everybody.
+Its words have been borrowed from many languages on all continents and all cultures of the world.
 
-One year of learning Pandunia also enables students to communicate well with a growing number of people
-who have also learned this regular, flexible and multicultural language.
+Learning Pandunia enables you to communicate with a growing number of people.
+It also prepares you to study other foreign languages in a unique way thanks to its versatility and cultural diversity.
+Read more about the benefits of Pandunia as a preparatory language in language instruction [here](bash-pedie.md)!
 
-[Read more about Pandunia in education](bash-pedie.md)!
-
-## How Pandunia works?
-
-Learning Pandunia is a course in basic linguistics by itself.
-There are three structural varieties of Pandunia
-that familiarize learners with the most common types and structures of languages.
-
-1. **Mini Pandunia** is the simplest variety.
-   It has only invariable words.
-   It uses specific grammatical words and *no inflection* to indicate grammatical relationships.
-   **Minimi Pandunia** is a version of Mini Pandunia that is restricted to only 150 words.
-2. **Midi Pandunia** is a compromise between the extreme varieties.
-   It uses *little inflection* to indicate grammatical relationships.
-   It has exactly five inflectional suffixes, which are the famous five *word class markers*.
-3. **Maxi Pandunia** is the most complicated variety.
-   It uses *much inflection* to indicate grammatical relationships,
-   and forms of words can change considerably.
-
-The varieties are compatible with each other!
-All of them have the same basic structure words and the same dictionary.
-The most advanced variety, Maxi Pandunia, includes Midi Pandunia, which in turn includes Mini Pandunia and Minimi Pandunia.
-
-![](http://www.pandunia.info/grafe/pandunia-3.png "The layers of Pandunia")
-
-The best way to get familiar with all the varieties is to learn the common, basic structure words.
-The next step is to study Mini or Midi.
-
-Learning Midi Pandunia gives a good understanding of grammar in general
-because the mechanisms of grammar are made visible by the word class markers.
-Midi Pandunia words consist of two parts:
-a word stem and a *vowel ending* that indicates the word class.
-
-- Every adjective ends in ***-i***.
-- Every adverb ends in ***-o***.
-- Every noun ends in ***-e*** or the *zero ending*.
-- Every verb ends in ***-a*** or ***-u***.
-
-Mini Pandunia is made from Midi Pandunia by stripping off the vowel endings
-and replacing them with the neutral vowel ending ***-ə*** or the zero ending.
-Only the essential stucture words, such as pronouns and prepositions, get to keep their original endings.
-In the resulting simplified language, grammatical relations are expressed with a fixed word order instead of the word class markers,
-and the essential stucture words hold sentences together.
-
-Maxi Pandunia is made from Midi Pandunia by combining several meaningful roots into one word,
-such as person and tense into verbs and possessive pronouns into nouns.
-So the sentence in a way collapses into a smaller number of words
-because more information is encoded into individual words.
-
-Below is a simple demonstration where the same sentence is written in the three varieties of Pandunia.
-The units of meaning are written in different colors to highlight the differences.
-
-![](http://www.pandunia.info/grafe/Mini-Midi-Maxi_ENG.png "Examples for comparing the three varieties of Pandunia")
-
-The three varieties of Pandunia can be used for different purposes.
-Mini Pandunia is the natural choice for communication in rudimentary levels.
-People can learn this variety easily on their own even without books or other learning materials.
-Midi Pandunia is a good choice for literature, business and even legal documents.
-Maxi Pandunia can be used in artistic expression, for example poetry and proverbs.
-
-![](http://www.pandunia.info/grafe/bandir.png "The flag of Pandunia")
+![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
 ## How to learn it?
 
