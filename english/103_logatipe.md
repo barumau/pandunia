@@ -44,25 +44,9 @@ Content words can be classified into the following word classes:
    Verbs answer to the question *what happened*.
 
 
-## Word class roles in Mini Pandunia
+## Word class markers
 
-In Mini Pandunia, the class of a content word is seldom permanent.
-Words take different roles depending on their position in sentences.
-For example, the word
-**amə**
-'love' can function as a verb, noun or adjective as demonstrated below.
-
-**me _amə_ te.**
-– I _love_ you. (verb)  
-**te emosə me da _amə_.**
-– You feel my _love_. (noun)  
-**me kitabə un _amə_ misajə.**
-– I write a _love_ letter. (adjective)
-
-
-## Word class markers in Midi Pandunia
-
-Midi Pandunia uses vowel endings for quick word derivation.
+Pandunia uses vowel endings for quick word derivation.
 In this system the final vowel of a word indicates its word class.
 So the stem of the word indicates a general idea
 and the vowel endings indicate different sides of that idea.
@@ -82,9 +66,17 @@ All endings can be used on all word stems in the same way.
 - The ending **-u** creates an action just like **-a**.
   The only difference is that the word order is the opposite.
   For example, **dome nilu** means 'the house becomes blue'.
+- Finally, the ending **-ə** creates a word that can be used for many purposes.
+  It can function as a verb, noun or adjective depending on its position in the sentence.
 
-The same word class markers are used also in Maxi Pandunia
-but they can be followed by other inflectional suffixes in the same word.
-For example, the Maxi Pandunia word **domem** consists of the stem and two suffixes: *dom-e-m*.
-The same thing is said with two words in Midi Pandunia and the word class markers are clearly visible: **mi dome** 'my house'.
+For example, the word
+**amə**
+'love' can function as a verb, noun or adjective as demonstrated below.
+
+**me _amə_ te.**
+– I _love_ you. (verb)  
+**le sa _amə_.**
+– It is _love_. (noun)  
+**le sa un _amə_ misazə.**
+– It is a _love_ letter. (adjective)
 

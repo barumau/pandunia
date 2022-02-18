@@ -6,25 +6,29 @@ Pronouns can substitute nouns and noun phrases.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi**      | **mimon**    |
+| **me**      | **mes**      |
 | I, me       | we           |
-| **tu**      | **tumon**    |
+| **te**      | **tes**      |
 | you         | you all      |
-| **ye**      | **yemon**    |
+| **le**      | **les**      |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
 
-The possessive pronouns consists of the personal pronoun and the possessive particle
-**su**.
+The reflexive pronoun is used when the object of a sentence is the same as the subject.
+It is used for all persons.
+
+The possessive pronouns end in
+**-i**.
+
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **mimon su** |
+| **mi**      | **mesi**     |
 | my          | our          |
-| **tu su**   | **tumon su** |
+| **ti**      | **tesi**     |
 | your        | your         |
-| **ye su**   | **yemon su** |
+| **li**      | **lesi**     |
 | his or her  | their        |
 
 
@@ -38,21 +42,21 @@ The reflexive pronoun is used when the object of a sentence is the same as the s
 Note! The same reflexive pronoun is used for all persons,
 so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, _ourselves_ and _themselves_ all at once.
 
-**mi vide se**
+**me vida se**
 – I see myself.  
-**ye vide se**
+**le vida se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mimon vide se.**
+**mes vida se.**
 – We see ourselves.
 
-The expression **semon** is used as the reciprocal pronoun.
+The expression **ses** is used as the reciprocal pronoun.
 
-**semon**
+**ses**
 – each other, one another
 
-**mi e tu vide semon.**
+**me e te vida ses.**
 – Me and you see each other.  
-**mimon vide semon.**
+**mes vida ses.**
 – We see each other.
 
 
@@ -97,7 +101,7 @@ and it is known by the audience or is topical within the discourse.
 **ni she si mau. ye vol yam go mushu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ten un mau e un vaf. la vaf si dai. ye yam poli yam.**
+**me ha un mau e un vaf. lə vaf sa dai. le jama poli jam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -129,36 +133,41 @@ and **la** refers to the content of the previous statement.
 It does the job of English words _who_ and _what_.
 
 **ke?**
-– Who or what?  
+– who or what?  
+**ki?**
+– whose?
 
-The adjectival interrogative pronoun is also **ke**
-and it means the same as English _which_.
+The modifying interrogative pronoun is
+**kə**.
+It means the same as English _which_.
 
-**ke she?**
+**kə she?**
 – What? (Which thing?)  
-**ke jen?**
+**kə jen?**
 – Who? (Which person?)  
-**ke zaman?**
+**kə zaman?**
 – When? (What time?)  
-**ke yang?** 
+**kə tipe?**
+– What kind?  
+**kə modo?**
 – How? (What way?)  
-**ke sabu?**
+**kə sababe?**
 – Why? (What reason?)
 
-Also adjectives are questioned with **ke**.
+Adjectives are questioned with **ko**.
 
-**ke nove?**
+**kə novi?**
 – How new?  
-**ke koste?**
+**kə kosti?**
 – How costy?  
-**ke poli?**
+**kə poli?**
 – How many?  
-**ke dai?**
+**kə daji?**
 – How big?  
-**ke lili?**
+**kə lili?**
 – How small?
 
-**tu ten ke dai di mau?**
+**te ha kə daji mau?**
 – How big a cat do you have?
 
 
