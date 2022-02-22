@@ -1,0 +1,9 @@
+site_name: พันดูเนีย
+site_url: http://www.pandunia.info/tai
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../tai
+site_dir: ../../html/tai
+theme: readthedocs
+nav:
+    - "พันดูเนีย": 'index.md'
+

@@ -40,6 +40,7 @@ konta_asar() {
       eureki=$(echo "$line" | grep -c "$1:")
       if [ $eureki = 1 ]
       then
+         #Count sum of etymologies from number of colons.
          sum=$(echo "$line" | grep -o "...:" | wc -l)
          #echo $sum
          asar=$((asar+(10000/sum)))
@@ -52,6 +53,7 @@ konta_asar() {
    echo "$2 $asar $3 $percent%"
    #echo "$2 $((($asar/10)/$3))%" >> temp/stats.txt
    echo "$2 $percent%" >> temp/stats.txt
+   echo "$1,$percent" >> temp/asarpercent.csv
    echo "$1,$asar" >> temp/asarnumbe.csv
 }
 
@@ -68,6 +70,7 @@ fata_leksasli_liste
 
 rm temp/stats.txt
 rm temp/asarnumbe.csv
+rm temp/asarpercent.csv
 pan=$(cat temp/logaslia.txt | grep -c ":" )
 #echo "pan $pan 100%" >> temp/stats.txt
 
@@ -91,6 +94,17 @@ konta_asar may malayu $pan
 
 konta_asar ara arabi $pan
 konta_asar swa suahili $pan
+
+#ratiba la dayi va lili numbe, ya kolum 2
+sort --field-separator=',' --key=2 -rn temp/asarpercent.csv -o temp/asarpercent.csv
+
+#Insert before the first line
+sed -i '1 i -,0' temp/asarpercent.csv
+#Append after the last line
+sed -i '$ a -,0' temp/asarpercent.csv
+
+
+echo "-,0" >> temp/asarpercent.csv
 
 #kina nam e numbe va sami linye
 perl -pi -e 's/ \n/ /' temp/stats.txt
