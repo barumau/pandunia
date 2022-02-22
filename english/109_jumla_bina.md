@@ -17,43 +17,43 @@ They may consist of only one word, which draws the listener's attention.
 Normally a sentence consists of a subject and a predicate.
 In the simplest sentences, the subject is a pronoun and the predicate is an adjective or a noun.
 
-**mi bon.**
+**me bon.**
 – I am good.  
-**ye nove.**
+**le novi.**
 – It is new.  
-**ye Sara.**
+**le Sara.**
 – She is Sara.
 
-When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
+When the subject is a noun, the connecting verb **sa** (_to be_) is necessary.
 
 
-**Sara si bon.**
+**Sara sa bon.**
 – Sara is good.  
-**seku si dai.**
+**seku sa dai.**
 – Stones are big.  
-**meza si nove.**
+**meza sa novi.**
 – The table is new.
 
 The word **no** is added to form the negative.
-Then the verb **si** is not needed.
+Then the verb **sa** is not needed.
 
-| Positive         | Negative           |
-|------------------|--------------------|
-| **mi bon.**      | **mi no bon.**     |
-| I am good.       | I am not good.     |
-| **ye nove.**     | **ye no nove.**    |
-| It is new.       | It is not new.     |
-| **ye Sara.**     | **ye no Sara.**    |
-| She is Sarah.    | She is not Sarah.  |
-| **Sara si bon.** | **Sara no bon.**   |
-| Sarah is good.   | Sarah is not good. |
+| Positive          | Negative           |
+|-------------------|--------------------|
+| **me (sa) bon.**  | **me no bon.**     |
+| I am good.        | I am not good.     |
+| **le (sa) novi.** | **le no novi.**    |
+| It is new.        | It is not new.     |
+| **le (sa) Sara.** | **le no Sara.**    |
+| She is Sarah.     | She is not Sarah.  |
+| **Sara sa bon.**  | **Sara no bon.**   |
+| Sarah is good.    | Sarah is not good. |
 
 
-Also two personal pronouns can be combined with **si** and **no**.
+Also two personal pronouns can be combined with **sa** and **no**.
 
-**mi si ye.**
+**me sa le.**
 – I am he/she.  
-**mi no tu.**
+**me no te.**
 – I'm not you.
 
 
@@ -61,11 +61,11 @@ Also two personal pronouns can be combined with **si** and **no**.
 
 The same rule applies also for two adjectives, or a verb and an adjective.
 
-**jovan si sundar.**
+**jun sa mei.**
 – Young is beautiful.  
-**nove no lau.**
+**novi no lau.**
 – New is not old.  
-**chanta si bon.**
+**chanta sa bon.**
 – Singing is good.
 
 
@@ -74,29 +74,29 @@ The same rule applies also for two adjectives, or a verb and an adjective.
 A predicate can also be a verb. In this case, there may be objects as well as the subject.
 These come after the predicate.
 
-**mi marche.**
+**me marche.**
 – I walk.  
-**tu yam yo apel.**
+**te jam yo apel.**
 – You eat some apples.  
-**mimon dona ye yo pesa.**
+**mes dona le yo pesa.**
 – We give her some money.
 
 Sometimes, the subjet of one sentence can become the object of another.
 
-**la fuku ya gan.**
+**la fuku jo gan.**
 – The clothes dry.  
-**la sol ya gan la fuku.**
+**la sol jo gan la fuku.**
 – The sun dries the clothes.
 
 To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
 **fa** indicates that the subject is the agent or doer of the action,
 and **be** indicates that the subject is the patient, or receiver.
 
-**mi fa salam mi su dosti.**
+**me fa salam mi doste.**
 – I greet my friend.  
-**mi be salam mi su dosti.**
+**me be salam mi doste.**
 – I am greeted by my friend.  
-**pa fa mi salam mi su dosti.**
+**pa fa me salam mi doste.**
 – Father makes me greet my friend.
 
 
@@ -110,37 +110,37 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**mi vol tu yam ba fito.**
+**me vol te jam ba fito.**
 – I want you to eat vegetables.
 
 In the example above,
-**mi vol**
+**me vol**
 has
-**tu**
+**te**
 as its object.
 At the same time,
-**tu**
+**te**
 functions as the subject of the following predicate,
-**yam ba fito**.
+**jam ba fito**.
 So
-**tu**
+**te**
 is the _pivot_ of the entire sentence.
 
 The second verb in a pivot structure is the main verb.
 The first verb is a modal verb,
 which indicates a modality such as desire, permission or obligation.
 
-**mi vol tu yam ba fito.**
+**me vol te jam ba fito.**
 – I want you to eat vegetables. (desire)  
-**mi sel tu yam ba fito.**
+**me sel te jam ba fito.**
 – I advise you to eat vegetables. (advice)  
-**mi halal tu yam ba fito.**
+**me halal te jam ba fito.**
 – I allow you to eat vegetables. (permission)  
-**mi bil tu yam ba fito.**
+**me bil te jam ba fito.**
 – I enable you to eat vegetables. (ability)  
-**mi mus tu yam ba fito.**
+**me mus te jam ba fito.**
 – I compel you to eat vegetables. (obligation)  
-**mi rai tu yam ba fito.**
+**me rai te jam ba fito.**
 – I think you eat vegetables. (opinion)
 
 
@@ -149,26 +149,26 @@ which indicates a modality such as desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **mi ga do dom.**
+1. **me ga dom.**
    – I go home.  
-2. **mi bil ga do dom.**
+2. **me bil ga dom.**
    – I can go home.  
-3. **mi vol bil ga do dom.**
+3. **me vol bil ga dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**tu vol yam yo fito.**
+**te vol jam yo fito.**
 – You want to eat vegetables. (desire)  
-**tu sel yam yo fito.**
+**te sel jam yo fito.**
 – You had better eat vegetables. (advice)  
-**tu halal yam yo fito.**
+**te halal jam yo fito.**
 – You may eat vegetables. (permission)  
-**tu bil yam yo fito.**
+**te bil jam yo fito.**
 – You can eat vegetables. (ability)  
-**tu mus yam yo fito.**
+**te mus jam yo fito.**
 – You must eat vegetables. (obligation)
 
 ## Pronoun dropping
@@ -178,14 +178,14 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VOVO)
 
-**mi amir tu kai la mun.**
+**me amir te kai la mun.**
 – I command you to open the door.  
-**amir tu kai la mun.**
+**amir te kai la mun.**
 – Open the door!
 
 ### Short pivot structure (VVO)
 
-**mi ching tu lai do dom.**
+**me ching te lai do dom.**
 – I ask you to come home.  
 **ching lai do dom!**
 – Please come home!
@@ -201,63 +201,63 @@ The easiest way to form a yes-no question in Pandunia is to simply attach the pa
 **he**
 ('eh', 'huh') to the end of a statement.
 
-**tu yam un piza.**
+**te jam un piza.**
 – You eat a pizza. (statement)  
-**tu yam un piza, he?**
+**te jam un piza, he?**
 – Do you eat a pizza? (question)
 
 It is also possible to use
 **no**
 ('no', 'not') or
-**ya**
+**jo**
 ('yes') instead of
 **he**
 to suggest the expected answer.
 
-**tu yam un piza, no?**
+**te jam un piza, no?**
 – You eat a pizza, don't you?  
-**tu yam un piza, ya?**
+**te jam un piza, jo?**
 – You eat a pizza, right?
 
 The third way to ask a yes-no question is to contradict the verb
 with the _A-not-A_ structure.
 
-**tu yam no yam un piza?**
+**te jam no jam un piza?**
 – Do you or don't you eat a pizza?  
-**tu bil no bil yam un piza?**
+**te bil no bil jam un piza?**
 – Can you or can't you eat a pizza?
 
 Finally, you can emphasize the question by using **sual**.
 
-**mi sual, tu yam un piza?**
+**me sual, te jam un piza?**
 – I ask do you eat a pizza?  
-**sual tu yam un piza?**
+**sual te jam un piza?**
 – Do you eat a pizza?
 
 Yes-no questions are answered with
-**ya**
+**ja**
 ('yes') and
 **no**
 ('no').
 
-**tu vide mi, he?**
+**te vide me, he?**
 – Do you see me?  
-**ya. (mi ya vide tu.)**
+**ja. (me jo vide te.)**
 – Yes. (I _do_ see you.)  
-**no. (mi no vide tu.)**
+**no. (me no vide te.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ya**
+**ja**
 and
 **no**
 apply to the verb, not the whole question.
 
-**tu no vide mi, he?**
+**te no vide me, he?**
 – Don't you see me?  
-**ya. (mi vide tu.)**
+**ja. (me vide te.)**
 – Yes. (I see you.)  
-**no. (mi no vide tu.)**
+**no. (me no vide te.)**
 – No. (I don't see you.)
 
 
@@ -270,9 +270,9 @@ or start with the word
 to indicate that an answer is expected.
 The question is answered by repeating the chosen alternative.
 
-**tu yam un o du banana.**
+**te jam un o du banana.**
 – You eat one or two bananas. (statement)  
-**tu yam un o du banana, he?**
+**te jam un o du banana, he?**
 – Do you eat one or two bananas? (question)  
 **un.**
 – One.
@@ -283,19 +283,19 @@ The question is answered by repeating the chosen alternative.
 Open questions, or _wh-_ questions, ask for more information.
 In Pandunia they use the word **ke**.
 
-**piza si ke?**
+**piza sa ke?**
 – What is pizza?
 
 The question word may be moved to the front of the sentence for emphasis.
 However, unlike in English, the word order may also be left alone.
 
-**ke she tu zai yam?**
+**ke she te zai jam?**
 – What are you eating?  
-**tu zai yam ke she?**
+**te zai jam ke she?**
 – You are eating what?  
-**ye lai na ke sata?**
+**le lai na ke sata?**
 – When does he arrive?  
-**tumon keka na ke jen su dom?**
+**tes keka na ke jen du dom?**
 – Whose house did you all visit?
 
 
@@ -337,14 +337,14 @@ It's possible to use relative pronouns or the reduced relative clause structure.
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jen, mi vide jo fa kitabu la buku, pade.**
+**la jen, me vide jo fa kitabu la buku, pade.**
 – The person, whom I see write the book, falls.  
-**la jen, mi vide fa kitabu la buku, pade.**
+**la jen, me vide fa kitabu la buku, pade.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**la jen, mi fa kitabu la buku na jo su kalam, padu.**
+**la jen, me fa kitabu la buku na jo du kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
@@ -354,9 +354,9 @@ A content clause is a subordinate clause that provides content that is commented
 In Pandunia they are typically introduced with the conjunction
 **ki**.
 
-**mi sabe ki tu si dosti.**
+**me sabe ki te sa doste.**
 – I know that you are a friend.  
-**yemon fikir ki mimon le chuti.**
+**les fikir ki mes leu chuti.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -366,9 +366,9 @@ points to the following content clause and
 **la**
 points to the previous one.
 
-**go si bari, ki mi le no vide yemon.**
+**go sa bari, ki me leu no vide les.**
 – _It_ is important _that I haven't seen them_.  
-**ki pan jen be sana ka par, la si klar.**
+**ki pan jen be sana ka par, la sa klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
@@ -380,9 +380,9 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 **ze ki**
 – because, for the reason that
 
-**mi duku ni buku _do ki_ mi transe la teste.**
+**me duku ni buku _do ki_ me transe la teste.**
 – I read this book so that I will pass the test.  
-**mi le transe la teste _ze ki_ mi duku la buku.**
+**me leu transe la teste _ze ki_ me duku la buku.**
 – I have passed the test because I read the book.
 
 
@@ -391,12 +391,12 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 The word **gar** means 'to suppose',
 and in conditional sentences, it works in the same way as English 'if'.
 
-**mi no yam ye gar mi si tu.**
+**me no jam le gar me sa te.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
 
-**gar tu tochu la tava, asar tu pasi la hande.**
+**gar te tochu la tava, asar te pasi la hande.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
 
 
@@ -411,11 +411,11 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 **a**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suka mau e vaf.**
+**me suka mau e vaf.**
 – I like cats and dogs.  
-**mi suka mau o vaf.**
+**me suka mau o vaf.**
 – I like cats or dogs.  
-**mi suka mau a no vaf.**
+**me suka mau a no vaf.**
 – I like cats but not dogs.
 
 
@@ -430,45 +430,45 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 Expressions are affirmative by default.
 
-**mi si shefe.**
+**me sa shefe.**
 – I am the boss.  
-**ye si nove meza.**
+**le sa novi meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
-**ya**
+**jo**
 ('yes indeed').
 
-**mi ya si shefe.**
+**me jo sa shefe.**
 – I indeed am the boss.  
-**ye ya si nove meza.**
+**le jo sa novi meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**ye no si shefe.**
+**le no sa shefe.**
 – He is not the boss.  
-**ye no si nove meza.**
+**le no sa novi meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
 It affects always the next word.
 Different scopes of negation may result depending on the location of the negative word.
 
-**mi vide tu.**
+**me vide te.**
 – I see you.  
-**mi no vide tu.**
+**me no vide te.**
 – I don't see you.  
-**mi vide no tu a yemon.**
+**me vide no te a les.**
 – I see, not you, but them.
 
-**mi ching tu safa la kamar.**
+**me ching te safa la kamar.**
 – I ask you to clean the room.  
-**mi no ching tu safa la kamar.**
+**me no ching te safa la kamar.**
 – I do NOT ask you to clean the room.  
-**mi ching tu no safa la kamar.**
+**me ching te no safa la kamar.**
 – I ask you NOT to clean the room.
 
 
@@ -485,9 +485,9 @@ It gives us more information about the noun, and the particle makes it clear in 
 
 The modifier particles are useful for creating complex adjectives that consists of two or more words.
 
-**rode rang di labi**
+**rodə rang di labi**
 – rose-colored lips  
-**sama rang di yen**
+**samanə rang di yen**
 – sky-colored eyes
 
 Or in the opposite order:
@@ -503,15 +503,15 @@ The particles help in creating measure words too.
 – one sack of potatoes  
 **du sake di patate**
 – two sacks of potatoes  
-**mas sake di patate**
+**max sake di patate**
 – more sacks of potatoes
 
 Note that **di** and **da** connect phrases together.
 So a modifier phrase with and without **da** can mean a different thing.
 
-**mas sundar hua**
+**max mei hua**
 – more beautiful flowers  
-**mas di sundar hua**
+**max di mei hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases
@@ -521,34 +521,34 @@ Verb phrases can also be made into modifiers in this way, but any objects must b
 
 **suta da grafi pente**
 – the art of picture-painting (the art of painting pictures)  
-**alo su mede su suka**
+**alo du mede du suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession
 
 The possessive particle
-**su**
+**du**
 works like the apostrophe-s ('s) in English.
 It indicates that the previous word has possession of the next one.
 
-**Maria su mama**
+**Maria du mama**
 – Maria's mother  
-**Maria su mama su dom**
+**Maria du mama du dom**
 – Maria's mother's house
 
 The same particle is used with with personal pronouns too.
 
-**mi su dom**
+**me du dom**
 – my house  
-**tu su dom**
+**te du dom**
 – your house  
-**ye su dom**
+**le du dom**
 – his or her house  
-**mimon su dom**
+**mes du dom**
 – our house  
-**tumon su dom**
+**tes du dom**
 – your house  
-**yemon su dom**
+**les du dom**
 – their house
 
 
@@ -558,20 +558,20 @@ In Pandunia, tense can be expressed with time words and time phrases if needed.
 The general time words are **pas** (past), **zai** (present) and **sha** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
-**mi pas ha mau.**
+**me pas ha mau.**
 – I had cats.  
-**a mi no zai ha mau.**
+**a me no zai ha mau.**
 – But I now don't have cats.  
-**bil, mi sha ha mau.**
+**bil, me sha ha mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
 
-**mi ha mau na pas zaman.**
+**me ha mau na pas zaman.**
 – I had cats in the past.  
-**a mi no ha mau na zai zaman.**
+**a me no ha mau na zai zaman.**
 – But I don't have cats at present.  
-**bil, mi ha mau na sha zaman.**
+**bil, me ha mau na sha zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.
