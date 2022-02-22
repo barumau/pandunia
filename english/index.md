@@ -1,26 +1,33 @@
-# halo, dunia!
+# salam, dunia!
 
 Hello, world!
 Welcome to learn about Pandunia, the evenly global helping language!
+
+**This is version 3 alpha.**
+It is unstable and subject to change,
+but it contains the major features and shows what the new version can do.
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 ## What is Pandunia?
 
+Pandunia is a globally sourced constructed language
+that combines different types of grammar and international words from all continents into one language.
+
 Pandunia is a helping language for world-wide use.
 It is an easy language that people can use to talk with each other
 when they don't talk any other common language.
 It is meant to supplement other languages in our multilingual world.
 
-Pandunia is a constructed language.
-It is simpler, more regular and easier to learn than natural world languages,
+Pandunia is simpler, more regular and easier to learn than natural world languages,
 like English, French, Spanish, Chinese, Russian, Arabic and Hindi.
 Learning Pandunia is equally easy for everybody.
 Its words have been borrowed from many languages on all continents and all cultures of the world.
 
-The second version of Pandunia was published in September 2021.
-It includes simpler grammar, more international word forms, and many new words.
+Learning Pandunia enables you to communicate with a growing number of people.
+It also prepares you to study other foreign languages in a unique way thanks to its versatility and cultural diversity.
+Read more about the benefits of Pandunia as a preparatory language in language instruction [here](bash-pedie.md)!
 
 ![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
@@ -70,7 +77,7 @@ You can find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
 
 Please help to [translate this site](tarja_netoloke.md) into new languages!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mes basha pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email

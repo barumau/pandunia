@@ -1,4 +1,4 @@
-site_name: Pandunia
+site_name: Pandunia v3-alfa
 site_url: http://www.pandunia.info/english
 repo_url: https://github.com/barumau/pandunia/
 site_author: Risto Kupsala
@@ -6,15 +6,15 @@ docs_dir: ../../english
 site_dir: ../../html/english
 theme: readthedocs
 nav:
-    - Home: 'index.md'
-    - 'Info':
-        - 'Introduction': 001_dunia_basha.md
-        - 'Principles': 002_filsofi.md
-    - 'Grammar and Rules':
-        - 'The basic rules': 100_baze_kanun.md
-        - 'World words': 101_dunia_loga.md
+    - 'Introduction' : 001_dunia_basha.md
+    - 'Grammar':
+#        - 'The basic rules': 100_baze_kanun.md
         - 'Spelling and pronunciation': 102_ABC.md
         - 'Word classes': 103_logatipe.md
+#        - 'Basics' : bazaje.md
+#        - 'Mini Pandunia grammar' : mini_pandunia.md
+#        - 'Midi Pandunia grammar' : midi_pandunia.md
+#        - 'Maxi Pandunia grammar' : maxi_pandunia.md
         - 'Pronouns': 104_viseloga.md
         - 'Nouns': 105_namloga.md
         - 'Numerals': 106_nomer.md
@@ -31,8 +31,8 @@ nav:
         - 'Origins of words': leksaslia.md
         - 'Search': tiddly.html
     - 'Appendix':
+        - 'Adapting foreign words' : 403_loga_hapu.md
         - History: 401_histori.md
         - 'Questions & Answers': 402_sual_e_javabu.md
-        - 'Adapting foreign words' : 403_loga_hapu.md
         - 'Translate this site': tarja_netoloke.md
 

@@ -7,14 +7,14 @@ The same word can modify nouns and verbs,
 whereas in English only _adjectives_ can modify nouns
 and only _adverbs_ can modify verbs.
 For example, the word
-**sundar**
+**mei**
 ('beautiful' or 'beautifully')
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **go si un _sundar_ kitabu.**
+A. **go sa un _mei_ kitabə.**
 – That is a beautiful writing.  
-B. **tu _sundar_ di kitabu.**
+B. **te _mei_ du kitabə.**
 – You write _beautifully_.
 
 
@@ -22,15 +22,15 @@ B. **tu _sundar_ di kitabu.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _nove_ kar**
+**un _novi_ kar**
 – a _new_ car  
-**un _rapide_ kar**
+**un _sugi_ kar**
 – a _fast_ car  
 **ba _dai_ meza**
 – _big_ tables  
-**ba _gau_ meza**
+**ba _gavi_ meza**
 – high tables  
-**un bon jen**
+**un boni jen**
 – a good person
 
 Two or more modifiers can modify the same noun.
@@ -44,9 +44,9 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**tu _rapide_ loga.**
+**te _sugo_ loga.**
 – You talk _fast_.  
-**yemon _bon_ kitabu.**
+**les _bono_ kitaba.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -54,9 +54,9 @@ It is common to put the modifying particle
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**tu _sundar di_ kitabu.**
+**te _mejo_ kitaba.**
 – You write _beautifully_.  
-**yemon _rapide di_ marche.**
+**les _sugo_ marca.**
 – They walk _fast_.
 
 
@@ -76,11 +76,11 @@ is used also when a modifier modifies another one.
 
 Degree words tell us about the intensity of something.
 
-**tre**
+**dajo**
 – very  
 **bas**
 – quite, sufficiently, enough  
-**mas**
+**max**
 – more  
 **min**
 – less
@@ -91,7 +91,7 @@ Degree words are placed before the word that they modify.
 
 **un dai man**
 – a big man  
-**un tre dai man**
+**un dajo dai man**
 – a very big man  
 **un bas dai man**
 – a big enough man / a sufficiently big man
@@ -102,20 +102,20 @@ A degree word together with a modifier forms a _compound adverb_
 that can modify a verb or a sentence.
 The compound adverb is placed immediately before the verb that it modifies.
 
-**tre poli**
+**dajo poli**
 – very much  
-**mi _tre poli_ vol loga.**
+**me _dajo poli_ vol loga.**
 – I want very much to speak.  
-**mi vol _tre poli_ loga.**
+**me vola _dajo polo_ loga.**
 – I want to speak very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**mi vol loga _tre poli_.**
+**me vola loga _dajo polo_.**
 – I want to speak very much.  
-**sual tu sona _bas bon_?**
+**suala te sona _bas bon_?**
 – Did you sleep well enough?
 
 
@@ -123,25 +123,32 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 Adjectives can be compared with the adverbs of comparison.
 
-- **mas**
+- **maxo**
   (_more_) indicates comparison of superiority
-- **masim**
+- **maximo**
   (_most_) indicates the superlative of superiority
-- **min**
+- **mino**
   (_less_) indicates comparison of inferiority
-- **minim**
+- **minimo**
   (_least_) indicates the superlative of inferiority
-- **par**
+- **paro**
   (_as_ or _equally_) indicates the comparison of equality
 
 The particle
-**ka**
+**za**
 relates the adverbs of comparison to the object of comparison.
 
-**aple si mas bon ka oranje.**
+**aple sa maxo boni za orange.**
 = Apples are better than oranges.  
-**oranje si min bon ka aple.**
+**orange sa mino boni za aple.**
 = Oranges are less good than apples.  
-**tu loga par bon ka mi.**
+**te loga paro boni za me.**
 = You speak as well as me.
+
+Comparison can be also formulated with verbs using the same roots.
+
+**aple maxa orange va boni.**
+– Apples exceed oranges in goodness.  
+**orange mina aple va boni.**
+– Oranges subceed apples in goodness.
 
