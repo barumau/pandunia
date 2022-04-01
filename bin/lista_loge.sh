@@ -45,21 +45,23 @@ fata_liste_X_pandunia() {
 }
 
 fata_leksasli_liste() {
+    #pandunia = $2 e lexasle ) $5
 #    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
-    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$$1 \"|\" \$4 \"|\"}" > $2/leksaslia.md
+    cat pandunia-loge.csv | awk -F "|" "{print \"**\" \$2 \"** *\" \$$1 \"* ← \" \$5 \"  \"}" > $2/leksaslia.md
     #mata un me lin
     sed -i '1d' $2/leksaslia.md
     #Sort
     LC_ALL=C sort -f $2/leksaslia.md --output $2/leksaslia.md
     #Add header row
-    sed -i "1s/^/| pandunia | $2 | logasle |\n/" $2/leksaslia.md
+    #sed -i "1s/^/| pandunia | $2 | logasle |\n/" $2/leksaslia.md
     #Add header
-    sed -i "1s/^/# pandunia-$2 ha logasle\n/" $2/leksaslia.md
+    sed -i "1s/^/# pandunia–$2 va lexaslia\n/" $2/leksaslia.md
     #Delete empty translations
-    sed -i '/||/d' $2/leksaslia.md
+    sed -i '/←   /d' $2/leksaslia.md
+    sed -i '/----/d' $2/leksaslia.md
     #shuli 2 me lin
-    sed 's/|\*\*--/|--/' -i $2/leksaslia.md
-    sed 's/--\*\*|/--|/' -i $2/leksaslia.md
+    #sed 's/|\*\*--/|--/' -i $2/leksaslia.md
+    #sed 's/--\*\*|/--|/' -i $2/leksaslia.md
 }
 
 fata_liste() {
@@ -70,6 +72,7 @@ fata_liste() {
 }
 
 fata_lekse_asle() {
+    #pandunia = $2 e lexasle ) $5
     cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$5 \"|\"}" > temp/lekse.txt
     #mata un me lin
     sed -i '1d' temp/lekse.txt
