@@ -1,53 +1,59 @@
 # Semantics of Pandunia
 
-## Multipurpose words
+## Multipurpose roots
 
-Pandunia's semantics is based on natural meanings of words.
-Every content word has potentially many possible uses.
-Content words don't belong permanently into any _word classes_ or _part-of-speech_ categories.
+Pandunia has a solid system of semantics that is based on natural meanings of words
+and simple logical rules on how to use them in a systematic way.
+Every root has potentially many possible uses.
+Roots don't belong permanently into any _word classes_ or _part-of-speech_ categories.
 For example, the word
-**hogə**
+**hog-**
 can mean 'fire', 'fiery', 'burning' and 'to burn'.
 The actual meaning emerges in the sentence context.
 
-The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence.
+The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence (in Mini)
+or when the root gets a noun ending (in Midi).
 
-**me vidə li hogə.**
-– I see the fire.
+Mini: **me vidə li hogə.**  
+Midi: **me vida hoge.**  
+– I see fire.
 
-The adjectival meaning, 'fiery', emerges in adjectival position.
+The adjectival meaning, 'fiery', emerges in adjectival position (in Mini)
+or when the root gets the adjectival ending (in Midi).
 
-**me vidə un hogə kar.**
+Mini: **me vidə un hogə kar.**  
+Midi: **me vida hogi kar.**  
 – I see a fiery chariot.
 
-The verbal meaning, 'to burn', emerges in verbal position.
+The verbal meaning, 'to burn', emerges in verbal position (in Mini)
+or when the root gets a verb ending (in Midi).
 
-**me hogə jo mokə.**
-– I burn some wood.
+Mini: **me hogə jo mokə.**  
+Midi: **me hoga moke.**  
+– I burn wood.
 
-Verb, noun and modifier are created independently from the base idea.
+Verb, noun and modifier are created independently from the base root.
 Therefore their meanings don't depend on each other,
 for example, the meaning of the noun doesn't depend on the corresponding verb and vice versa.
 There's no conceptual symmetry that would govern all words.
-However, words can be grouped into categories by their real-world meanings.
 
 
-## Meaning categories
+## Semantic categories
 
-Words can be categorized by their real-world meanings.
-Words that belong to the same category
+Roots can be grouped into categories by their real-world meanings.
+Roots that belong to the same category
 are typically used in the same ways.
 
 ### Tool words
 
-The category of tool words includes words for things that are manufactured to be used as tools,
+The category of tool words includes roots for things that are manufactured to be used as tools,
 such as hammer, drill, axe, knife, comb and brush.
 
 1. Noun meaning: the tool.
 2. Modifier meaning: related or belonging to the tool.
 3. Verb meaning: to use the tool.
 
-| Word       | Noun meaning | Modifier meaning | Verb meaning |
+| Root       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
 | **bros-**  | 'brush'      | 'of brush' | 'to brush' |
 | **katan-** | 'sword'      | 'of sword' | 'to sword-fight, to fence' |
@@ -63,10 +69,10 @@ The base word is some other type of concrete object.
 2. Modifier meaning: related or belonging to the object.
 3. Verb meaning: to equip the syntactic object with the thing.
 
-| Word       | Noun meaning | Modifier meaning | Verb meaning |
+| Root       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **dobə**   | 'brick'      | 'made of brick'  | 'to build with bricks' |
-| **aurə**   | 'gold'       | 'golden'         | 'to gild, to cover with gold' |
+| **dob-**   | 'brick'      | 'made of brick'  | 'to build with bricks' |
+| **aur-**   | 'gold'       | 'golden'         | 'to gild, to cover with gold' |
 
 ### Words for people
 
@@ -76,10 +82,10 @@ The base word is a person:
 2. Modifier meaning: related or belonging to the person.
 3. Verb meaning: to send the person to do its characteristic thing to the object.
 
-| Word       | Noun meaning | Modifier meaning | Verb meaning |
+| Root       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **patrə**  | 'father'     | 'fatherly'       | 'to father'  |
-| **brus**   | 'sibling'    | 'siblinglike'    | 'to fraternize' |
+| **patr-**  | 'father'     | 'fatherly'       | 'to father'  |
+| **brus-**  | 'sibling'    | 'siblinglike'    | 'to fraternize' |
 
 ### Quality words
 
@@ -89,10 +95,10 @@ The base word is a quality:
 2. Modifier meaning: the quality as a description.
 3. Verb meaning: to give the quality to the object.
 
-| Word       | Noun meaning | Modifier meaning | Verb meaning |
+| Root       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **bon**    | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
-| **hurə**   | 'freedom'    | 'free'           | 'to free, to liberate' |
+| **bon-**   | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
+| **hur-**   | 'freedom'    | 'free'           | 'to free, to liberate' |
 
 ### Artifact words
 
@@ -102,80 +108,11 @@ The base word refers to a human-made object.
 2. Modifier meaning: affected by the action.
 3. Verb meaning: to do the action to the object.
 
-| Word       | Noun meaning | Modifier meaning | Verb meaning |
+| Root       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **kitabə** | 'writing'    | 'written'        | 'to write' |
-| **fikrə**  | 'thought'    | 'of thinking'    | 'to think' |
+| **kitab-** | 'writing'    | 'written'        | 'to write' |
+| **fikr-**  | 'thought'    | 'of thinking'    | 'to think' |
 
-
-## Transitive construction
-
-A transitive construction includes an agent, a patient and an activity or another thing,
-which is applied by the agent to the patient.
-
-> Transitive construction:  
-> Agent – activity – patient
-
-In principle, any content word can take any of the three roles.
-The agent and the patient are typically names of people, objects or other things.
-The activity is typically a word for an action but it can be any other kind of thing too.
-Examples of different kinds of activity words include
-**futau**
-'axe',
-**hogə**
-'fire',
-**yen**
-'eyes',
-**amə**
-'love',
-**hurə**
-'freedom', and
-**matrə**
-'mother'.
-
-In the transitive construction the agent applies the activity to the patient.
-
-- What happens when you apply an *axe* to a tree?
-- What happens when you apply *fire* to a tree?
-- What happens when you apply *eyes* to a tree?
-- What happens when you apply *love* to a tree or a child?
-- What happens when you apply *freedom* to a child?
-- What happens when you apply a *mother* to a child?
-
-Most things have well-known applications.
-An axe is made for chopping and a hammer is made for hitting.
-Fire is used for burning.
-Eyes are used for watching.
-Love is felt for others.
-Therefore the semantics of the following sentences are easy to understand.
-
-**me futau jo mokə.**
-– I chop some trees.  
-**me hogə jo mokə.**
-– I burn some wood.  
-**me yen te.**
-– I eye you. ~ I look at you.  
-**me amə te.**
-– I love you.
-
-Freedom is an abstract thing.
-So how can it be used?
-If you are in a situation where you can apply freedom to an object,
-you can probably guess that the object is likely a human object or an animate object,
-and then you can imagine what freedom does to them.
-
-**me hurə les.**
-– I free them. ~ I liberate them.
-
-The thing called *mother* is not any different.
-If you apply a mother to an object, again probably a human or an animate object, you can imagine what the mother would do typically.
-However, this time the thing between the subject and the object comes with a condition.
-You can apply *any axe* to *any tree*, but you can't apply *any mother* to *any child*, can you?
-There is a natural relation between the mother and the child. The mother is the child's mother and the child is the mother's child.
-So there is a natural assumption, that the one who applies a mother (or motherhood) is the mother herself.
-
-**me matrə mi su ben.**
-– 'I mother my child.'
 
 
 ## Semantic Roles
@@ -239,4 +176,83 @@ and the house stands still.
 – The dogᴬ walks.
 
 The dog moves and it is self-moving.
+
+
+
+## Transitive construction
+
+A transitive construction includes an agent, a patient and a verb.
+The verb is an activity or another thing,
+which is applied by the agent to the patient.
+
+> Transitive construction:  
+> Agent – activity – patient
+
+In principle, any root can take any of the aforementioned three roles.
+The agent and the patient are typically words for people, objects or other concrete or abstract things.
+The activity is typically a word for an action but it can be also an instrument, a role that a person can take, and other things too.
+Examples of different kinds of activity words include the following:
+**futau-**
+'axe',
+**hog-**
+'fire',
+**ok-**
+'eyes',
+**am-**
+'love',
+**hur-**
+'freedom', and
+**matr-**
+'mother'.
+
+In the transitive construction the agent applies the activity to the patient.
+
+- What happens when you apply an *axe* to a tree?
+- What happens when you apply *fire* to a tree?
+- What happens when you apply *eyes* to a tree?
+- What happens when you apply *love* to a tree or a child?
+- What happens when you apply *freedom* to a child?
+- What happens when you apply a *mother* to a child?
+
+Most things have well-known applications.
+An axe is made for chopping wood and a hammer is made for hitting nails.
+Fire is used for burning.
+Eyes are used for watching.
+Love is felt for others.
+Therefore the semantics of the following sentences are easy to understand.
+
+**me futava moke.**
+– I chop trees.  
+**me hoga moke.**
+– I burn wood.  
+**me oka te.**
+– I eye you. ~ I look at you.  
+**me ama te.**
+– I love you.
+
+Freedom is an abstract thing.
+So how can it be used?
+If you are in a situation where you can apply freedom to an object,
+you can probably guess that the object is likely a human object or an animate object,
+and then you can imagine what freedom does to them.
+
+**me hura les.**
+– I free them. ~ I liberate them.
+
+The thing called *mother* is not any different.
+If you apply a mother to an object, again probably a human or an animate object, you can imagine what the mother would do typically.
+However, this time the thing between the subject and the object comes with a condition.
+You can apply *any axe* to *any tree*, but you can't apply *any mother* to *any child*, can you?
+There is a natural relation between the mother and the child. The mother is the child's mother and the child is the mother's child.
+So there is a natural assumption, that the one who applies a mother (or motherhood) is the mother herself.
+
+**me matra mi ben.**
+– 'I mother my child.'
+
+The meaning of some of these sentences can be unintuitive for some people.
+It is understandable.
+Pandunia has its own logic and it can be different than in some other languages.
+What matters, in the end, is that there is a solid system of semantics in Pandunia
+that helps all people to understand the meanings of verbs and the roles of agents and patients in the same way
+– no matter where they come from or what kind of logic their native language follows.
 
