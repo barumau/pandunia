@@ -131,11 +131,6 @@ The dictionary is updated accordingly.
 More systematic rules are established for adapting words from the source languages to Pandunia.
 Pandunia version 2.0 is published in September 28, 2021.
 
-In 2022, Pandunia version 3 is released.
-This version combines versions 1 and 2 into the same language as complementary types.
-Pandunia 1 becomes *Middle Pandunia* and Pandunia 2 becomes *Analytical Pandunia*.
-The third type, *Synthetic Pandunia* is introduced at the same time.
-
 #### Miscellaneous
 
 Creation years of the Wikipedia articles about Pandunia:

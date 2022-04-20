@@ -1,38 +1,32 @@
 # Semantics of Pandunia
 
-## Multipurpose roots
+## Multipurpose words
 
 Pandunia has a solid system of semantics that is based on natural meanings of words
 and simple logical rules on how to use them in a systematic way.
-Every root has potentially many possible uses.
-Roots don't belong permanently into any _word classes_ or _part-of-speech_ categories.
+Every word has potentially many possible uses.
+Words don't belong permanently into any _word classes_ or _part-of-speech_ categories.
 For example, the word
-**hog-**
+**hoge**
 can mean 'fire', 'fiery', 'burning' and 'to burn'.
 The actual meaning emerges in the sentence context.
 
-The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence (in Mini)
-or when the root gets a noun ending (in Midi).
+The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence.
 
-Mini: **me vidə li hogə.**  
-Midi: **me vida hoge.**  
+**mi vide la hoge.**
 – I see fire.
 
-The adjectival meaning, 'fiery', emerges in adjectival position (in Mini)
-or when the root gets the adjectival ending (in Midi).
+The adjectival meaning, 'fiery', emerges in adjectival position.
 
-Mini: **me vidə un hogə kar.**  
-Midi: **me vida hogi kar.**  
+**mi vide un hoge kar.**
 – I see a fiery chariot.
 
-The verbal meaning, 'to burn', emerges in verbal position (in Mini)
-or when the root gets a verb ending (in Midi).
+The verbal meaning, 'to burn', emerges in verbal position.
 
-Mini: **me hogə jo mokə.**  
-Midi: **me hoga moke.**  
-– I burn wood.
+**mi hoge yo mokə.**
+– I burn some wood.
 
-Verb, noun and modifier are created independently from the base root.
+Verb, noun and modifier are created independently from the base word.
 Therefore their meanings don't depend on each other,
 for example, the meaning of the noun doesn't depend on the corresponding verb and vice versa.
 There's no conceptual symmetry that would govern all words.
@@ -40,26 +34,26 @@ There's no conceptual symmetry that would govern all words.
 
 ## Semantic categories
 
-Roots can be grouped into categories by their real-world meanings.
-Roots that belong to the same category
+Words can be grouped into categories by their real-world meanings.
+Words that belong to the same category
 are typically used in the same ways.
 
 ### Tool words
 
-The category of tool words includes roots for things that are manufactured to be used as tools,
+The category of tool words includes words for things that are manufactured to be used as tools,
 such as hammer, drill, axe, knife, comb and brush.
 
 1. Noun meaning: the tool.
 2. Modifier meaning: related or belonging to the tool.
 3. Verb meaning: to use the tool.
 
-| Root       | Noun meaning | Modifier meaning | Verb meaning |
+| Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **bros-**  | 'brush'      | 'of brush' | 'to brush' |
-| **katan-** | 'sword'      | 'of sword' | 'to sword-fight, to fence' |
-| **def-**   | 'shield'     | 'to defend, to shield' |
-| **dag-**   | 'dagger'     | 'of dagger' | 'to stab' |
-| **hamar-** | 'hammer'     | 'hammer's, hammerlike' | 'to beat, to hammer' |
+| **brox**   | 'brush'      | 'of brush' | 'to brush' |
+| **katan**  | 'sword'      | 'of sword' | 'to sword-fight, to fence' |
+| **defe**   | 'shield'     | 'to defend, to shield' |
+| **dage**   | 'dagger'     | 'of dagger' | 'to stab' |
+| **hamar**  | 'hammer'     | 'hammer's, hammerlike' | 'to beat, to hammer' |
 
 ### Object words
 
@@ -69,10 +63,10 @@ The base word is some other type of concrete object.
 2. Modifier meaning: related or belonging to the object.
 3. Verb meaning: to equip the syntactic object with the thing.
 
-| Root       | Noun meaning | Modifier meaning | Verb meaning |
+| Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **dob-**   | 'brick'      | 'made of brick'  | 'to build with bricks' |
-| **aur-**   | 'gold'       | 'golden'         | 'to gild, to cover with gold' |
+| **dobe**   | 'brick'      | 'made of brick'  | 'to build with bricks' |
+| **aure**   | 'gold'       | 'golden'         | 'to gild, to cover with gold' |
 
 ### Words for people
 
@@ -82,10 +76,10 @@ The base word is a person:
 2. Modifier meaning: related or belonging to the person.
 3. Verb meaning: to send the person to do its characteristic thing to the object.
 
-| Root       | Noun meaning | Modifier meaning | Verb meaning |
+| Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **patr-**  | 'father'     | 'fatherly'       | 'to father'  |
-| **brus-**  | 'sibling'    | 'siblinglike'    | 'to fraternize' |
+| **patre**  | 'father'     | 'fatherly'       | 'to father'  |
+| **bruse**  | 'sibling'    | 'siblinglike'    | 'to fraternize' |
 
 ### Quality words
 
@@ -95,10 +89,10 @@ The base word is a quality:
 2. Modifier meaning: the quality as a description.
 3. Verb meaning: to give the quality to the object.
 
-| Root       | Noun meaning | Modifier meaning | Verb meaning |
+| Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **bon-**   | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
-| **hur-**   | 'freedom'    | 'free'           | 'to free, to liberate' |
+| **bone**   | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
+| **hure**   | 'freedom'    | 'free'           | 'to free, to liberate' |
 
 ### Artifact words
 
@@ -108,10 +102,10 @@ The base word refers to a human-made object.
 2. Modifier meaning: affected by the action.
 3. Verb meaning: to do the action to the object.
 
-| Root       | Noun meaning | Modifier meaning | Verb meaning |
+| Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **kitab-** | 'writing'    | 'written'        | 'to write' |
-| **fikr-**  | 'thought'    | 'of thinking'    | 'to think' |
+| **kitabe** | 'writing'    | 'written'        | 'to write' |
+| **fikre**  | 'thought'    | 'of thinking'    | 'to think' |
 
 
 
@@ -141,38 +135,38 @@ A prototypical patient
 
 In the following examples, the agent is marked with superscript A and the patient with superscript P.
 
-**jenᴬ deklusa munᴾ.**
+**jenᴬ dekluze munᴾ.**
 – The personᴬ opens the doorᴾ.
 
 The person opens the door on purpose.
 The door undergoes a change of state from closed to opened.
 
-**jenᴬ vida e aroma orangeᴾ.**
+**jenᴬ vide e arome orangeᴾ.**
 – The personᴬ sees and smells an orangeᴾ.
 
 The person can perceive the orange with their senses.
 The orange is a non-living thing.
 
-**jenᴬ ama orangeᴾ.**
+**jenᴬ ame orangeᴾ.**
 – The personᴬ loves orangesᴾ.
 
 The person can feel.
 The orange stimulates the feeling of love in the person
 but it does it just by being there, it doesn't do it on purpose.
 
-**jenᴬ mota korsiᴾ.**
+**jenᴬ mote kursiᴾ.**
 – The personᴬ moves the chairᴾ.
 
 The person is the one who moves the chair.
 The chair is not self-propelled and it doesn't move by itself.
 
-**jenᴬ pasa domᴾ.**
+**jenᴬ pase domᴾ.**
 – The personᴬ passes the houseᴾ.
 
 The person is the one who moves
 and the house stands still.
 
-**vafᴬ marca.**
+**vafᴬ marce.**
 – The dogᴬ walks.
 
 The dog moves and it is self-moving.
@@ -188,21 +182,21 @@ which is applied by the agent to the patient.
 > Transitive construction:  
 > Agent – activity – patient
 
-In principle, any root can take any of the aforementioned three roles.
+In principle, any word can take any of the aforementioned three roles.
 The agent and the patient are typically words for people, objects or other concrete or abstract things.
 The activity is typically a word for an action but it can be also an instrument, a role that a person can take, and other things too.
 Examples of different kinds of activity words include the following:
-**futau-**
+**futau**
 'axe',
-**hog-**
+**hoge**
 'fire',
-**ok-**
+**yen**
 'eyes',
-**am-**
+**ame**
 'love',
-**hur-**
+**hure**
 'freedom', and
-**matr-**
+**matre**
 'mother'.
 
 In the transitive construction the agent applies the activity to the patient.
@@ -221,13 +215,13 @@ Eyes are used for watching.
 Love is felt for others.
 Therefore the semantics of the following sentences are easy to understand.
 
-**me futava moke.**
+**mi futau yo moke.**
 – I chop trees.  
-**me hoga moke.**
+**mi hoge yo moke.**
 – I burn wood.  
-**me oka te.**
+**mi yen tu.**
 – I eye you. ~ I look at you.  
-**me ama te.**
+**mi ame tu.**
 – I love you.
 
 Freedom is an abstract thing.
@@ -236,7 +230,7 @@ If you are in a situation where you can apply freedom to an object,
 you can probably guess that the object is likely a human object or an animate object,
 and then you can imagine what freedom does to them.
 
-**me hura les.**
+**mi hure yemon.**
 – I free them. ~ I liberate them.
 
 The thing called *mother* is not any different.
@@ -246,7 +240,7 @@ You can apply *any axe* to *any tree*, but you can't apply *any mother* to *any 
 There is a natural relation between the mother and the child. The mother is the child's mother and the child is the mother's child.
 So there is a natural assumption, that the one who applies a mother (or motherhood) is the mother herself.
 
-**me matra mi ben.**
+**mi matre mi su ben.**
 – 'I mother my child.'
 
 The meaning of some of these sentences can be unintuitive for some people.
