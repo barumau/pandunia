@@ -6,7 +6,7 @@ A noun is a word that names a thing.
 Like all words in Pandunia, nouns don't ever change their form.
 So the same form is used in singular and plural, in definite and indefinite, etc.
 
-**seke**
+**seku**
 – a stone, stones, the stone or the stones  
 **meza**
 – a table, tables, the table or the tables  
@@ -16,7 +16,7 @@ So the same form is used in singular and plural, in definite and indefinite, etc
 – water
 
 Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
-For example, normally the word **sole** refers to _the sun_ and **lune** refers to _the moon_, our only sun and moon.
+For example, normally the word **sol** refers to _the sun_ and **luna** refers to _the moon_, our only sun and moon.
 
 
 ### Indicating number
@@ -36,29 +36,29 @@ Simply insert a numeral in front of the unchanged noun.
 – (one or more) sheep  
 **un meme**
 – a sheep or one sheep  
-**duli meme**
+**du meme**
 – two sheep  
-**sani meme**
+**tri meme**
 – three sheep  
-**poli meme**
+**ba meme**
 – many sheep
 
-**kurse**
+**kursi**
 – a chair or chairs  
-**un kurse**
+**un kursi**
 – one chair  
-**duli kurse**
+**du kursi**
 – two chairs  
-**sani kurse**
+**tri kursi**
 – three chairs  
-**poli kurse**
-– many chairs; chairs
+**ba kursi**
+– many chairs
 
 An easy way to say that there are many is to repeat the noun two times.
 
-**seke seke**
+**seku seku**
 – stones and stones, a variety of stones  
-**buke buke**
+**buku buku**
 – books and books, a variety of books
 
 
@@ -97,6 +97,6 @@ and the words that come before it only modify the meaning.
 – sun light  
 **luna foto**
 – moon light  
-**luna seke**
+**luna seku**
 – moon stone
 

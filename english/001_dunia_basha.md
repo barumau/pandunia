@@ -140,7 +140,7 @@ are written in the Roman alphabet.
 
 Therefore the Roman alphabet is the obvious choice for the international language.
 
-### Only six vowels
+### Only five vowels
 
 According to [chapter 2](https://wals.info/chapter/1) of The World Atlas of Language Structures,
 the vowel inventories in world's languages are categorized by size as follows:
@@ -149,10 +149,10 @@ the vowel inventories in world's languages are categorized by size as follows:
 - average: 5-6 vowels
 - large: 7-14 vowels
 
-Pandunia has only six pure vowels: a, e, i, o, u, ə.
+Pandunia has only five pure vowels: a, e, i, o, u.
 The number is approximately the same as the global average.
 In this respect, Pandunia is close to languages like
-Malay (6 vowels) and Russian (6 vowels).
+Spanish and Japanese as both have a system of five vowels.
 
 Examples of large vowel inventories include English (12 vowels) and Mandarin (9 vowels).
 
@@ -180,9 +180,9 @@ Sounds that are present in English or Mandarin but not in Pandunia are inside pa
 | Nasals     | m n ng      | m n ng        | m n ng          |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
 | Liquids    | l r j v     | l r y w       | l r y w (yü)    |
-| Sibilants  | s z         | s z (sh zh)   | s z* (sh x)     |
+| Sibilants  | s z x       | s z sh (zh)   | s z* x (sh)     |
 | Fricatives | f h         | f h (v th th) | f h             |
-| Affricates | c           | ch (j)        | c (ch zh q j)   |
+| Affricates | c j         | ch j          | c j (ch zh q)   |
 
 
 ### Easy to pronounce
@@ -407,7 +407,7 @@ This is why Pandunia has for example these basic global words:
 – sheep  
 **mumu**
 – cow  
-**jam**
+**yam**
 – to eat
 **aci**
 – to sneeze  
@@ -500,7 +500,7 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes **basha**.
+So the Pandunia word for language becomes **baxa**.
 
 
 ### Western words
@@ -527,8 +527,8 @@ form that sounds familiar to speakers of as many languages as possible.
 | Pandunia word | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
 | **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
-| **marche**    | march      | marcha     | marcha     | marche     | Marsch     | marš       |
+| **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
+| **marce**     | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
 
@@ -555,11 +555,11 @@ a normal PoS suffix.
 | 字 | Pandunia root | Cantonese  | Mandarin   | Japanese   | Korean     | Vietnamese |
 |----|---------------|------------|------------|------------|------------|------------|
 | 水 | **sui**       | sui        | shuǐ       | sui        | su         | thuỷ       |
-| 中 | **zung**      | zung       | zhōng      | chū        | jung       | trung      |
-| 心 | **sim**       | sam        | xīn        | shin       | sim        | tâm        |
+| 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
+| 心 | **xim**       | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
-| 讀 | **dukə**      | duk        | dú         | doku       | dog        | đọc        |
-| 出 | **chutə**     | cœt        | chū        | shutsu     | chul       | xuất       |
+| 讀 | **duku**      | duk        | dú         | doku       | dok        | đọc        |
+| 出 | **cuta**      | cœt        | chū        | shutsu     | chul       | xuất       |
 
 Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, but it is nothing new
 – Sinitic words are already inflected in Korean!
@@ -620,7 +620,7 @@ Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, bu
 
 ### Examples of semiglobal words
 
-#### banderə 'flag'
+#### bandera 'flag'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -634,7 +634,7 @@ Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, bu
 | Kongo      | bande:la     | bandêla         |
 
 
-#### kamizə 'shirt'
+#### kamiza 'shirt'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -679,7 +679,7 @@ Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, bu
 
 ### Examples of words from Arabic
 
-#### duvə 'prayer'
+#### dua 'prayer'
 
 | Language   | Spoken  form | Written word    |
 |------------|--------------|-----------------|
@@ -691,7 +691,7 @@ Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, bu
 | Hausa      | adduʕa       | addu'a          |
 | Yoruba     | adura        | àdúrà           |
 
-#### kitabə 'writing'
+#### kitabe 'writing'
 
 This word means _book_ in many languages.
 The original Arabic word means all kinds of writing.
@@ -779,40 +779,40 @@ The normal sentence word order is subject–verb–object
 – just like in English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me ama te, te ama me.
+    Pandunia:  mi ama tu, tu ama mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 The auxiliary verb **be** is used when the object of the action comes first in the sentence.
 (This is the so called passive sentence.)
 
     English:   Apples were eaten.
-    Pandunia:  aple bei jam.
+    Pandunia:  aple bei yam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **bei** is a loan word from Standard Chinese,
 but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  le no bil bei jam.
+    Pandunia:  ye no bil bei yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi ching le jam kafe.
+    Pandunia:  mi cing ye yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
-One word, **sa**, is used instead of
+One word, **si**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  le sa aple.
+    Pandunia:  ye si aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  les sa aple.
+    Pandunia:  yemon si aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

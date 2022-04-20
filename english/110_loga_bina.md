@@ -59,27 +59,27 @@ Pandunia has adopted them in order to re-create many international words as nati
              a-      'to, toward'
        +   ces-      'pass'
     ____________
-    =     acesə      'get past to, access'
+    =     acese      'get past to, access'
 
            pro-      'forward, to the front'
        +   ces-      'pass'
     ____________
-    =   procesə      'pass forward, process'
+    =   procese      'pass forward, process'
 
             re-      'back to'
        +   ces-      'pass'
     ____________
-    =    recesə      'pass back, recede'
+    =    recese      'pass back, recede'
 
             de-      'away, off'
        +   ces-      'pass'
     ____________
-    =    decesə      'pass away, die'
+    =    decese      'pass away, die'
 
             su-      'good, well'
        +   ces-      'pass'
     ____________
-    =    sucesə      'go well, succeed'
+    =    sucese      'go well, succeed'
 
 Note that these prefixes are used only in compound words that really mean the sum their parts.
 Fossilized words whose meanings are no longer the sum of their parts,
@@ -113,65 +113,65 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 
 **a-**
 'to oneself' :  
-**cepə**
+**cepe**
 'take, catch'
-→ **acepə**
+→ **acepe**
 'take to oneself, accept'  
-**ligə**
+**lige**
 'tie'
-→ **aligə**
+→ **alige**
 'tie to oneself, ally'
 
 **de-**
 'away, off' :  
 **cepe**
 'take, catch'
-→ **decepə**
+→ **decepe**
 'take away, remove'  
-**ducə**
+**duce**
 'lead, conduct'
-→ **deducə**
+→ **deduce**
 'lead away, deduce'  
-**partə**
+**parte**
 'part, chip'
-→ **departə**
+→ **departe**
 'part away, chip off'  
-**kodə**
+**kode**
 'code'
-→ **dekodə**
+→ **dekode**
 'decode, remove coding'  
-**tapə**
+**tape**
 'plug, cap, stopper'
-→ **detapə**
+→ **detape**
 'unplug, remove the plug, cap or stopper'
 
 **ex-**
 'out' :  
-**cepə**
+**cepe**
 'take, catch'
-→ **excepə**
+→ **excepe**
 'take out, except'  
-**jetə**
+**jete**
 'thrust'
-→ **exjetə**
+→ **exjete**
 'thrust out, eject'
 
 **in-**
 'in, into, in-, en-' :  
-**jetə**
+**jete**
 'thrust'
-→ **injetə**
+→ **injete**
 'thrust in, inject'  
-**kluzə**
+**kluze**
 'close, shut'
-→ **inkluzə**
+→ **inkluze**
 'close in, enclose, include'
 
 **kon-**
 'together' :  
-**strutə**
+**strute**
 'structure'
-→ **konstrutə**
+→ **konstrute**
 'construct, put together'
 
 **nə-, ən-**
@@ -180,105 +180,116 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 'human'
 → **nəhuman**
 'unhuman'
-**devistə**
+**deviste**
 'theist'
 → **nədeviste**
 'atheist'  
-**tabakistə**
+**tabakiste**
 'smoker'
-→ **nətabakistə**
+→ **nətabakiste**
 'non-smoker'
 
 Since this prefix consists of one consonant only,
 its alternative form **ən-** is used before roots that begin with a vowel.
 
-**uzablə**
+**uzable**
 'usable'
-→ **ənuzablə**
+→ **ənuzable**
 'unusable'
 
 **pos-**
 'after' :  
-**pozə**
+**poze**
 'put, pose'
-→ **pospozə**
+→ **pospoze**
 'put after, postpone'
 
 **pre-**
 'before' :  
-**ditə**
+**dite**
 'tell'  
-→ **preditə**
+→ **predite**
 'foretell, predict'  
-**vidə**
+**vide**
 'see'
-→ **previdə**
+→ **previde**
 'foresee, preview'
 
 **pro-**
 'onward, forth' :  
-**pozə**
+**poze**
 'put, pose'
-→ **propozə**
+→ **propoze**
 'put forward, propose'  
-**vokə**
+**voke**
 'call, summon'
-→ **provokə**
+→ **provoke**
 'call forth, provoke'
 
 **re-**
 'back' :  
-**atə**
+**ate**
 'to act'
-→ **reatə**
+→ **reate**
 'to act back, react'  
-**turnə**
+**turne**
 'to turn'
-→ **returnə**
+→ **returne**
 'to turn back'
 
 **ri-**
 'again, repeatedly' :  
-**formə**
+**forme**
 'to form'
-→ **riformə**
+→ **riforme**
 'to reform'
+
+**su-**
+'good, well' :
+**cese**
+'pass, go by'
+→ **sucese**
+'go well, succeed'  
+**rupe**
+'appearance, looks'
+→ **surupe**
+'good-looking'
 
 
 ### Suffixes
 
 **-abl-**
 'that can be done' :  
-**vidə**
+**vide**
 'see, view'
-→ **vidablə**
+→ **vidable**
 'one that can be seen, visible'  
-**uzə**
+**uze**
 'use'
-→ **uzablə**
+→ **uzable**
 'one that can be used, usable'
 
 **-aj-**
 'thing made of or consisting of' :  
-**bagə**
+**bage**
 'bag'
-→ **bagajə**
+→ **bagaje**
 'baggage, luggage'  
-**formə**
+**forme**
 'form'
-→ **formajə**
+→ **formaje**
 'format, formation'  
-**korə**
+**kore**
 'core'
-**korajə**
+**koraje**
 'guts, the things in the core'  
-**misə**
+**mise**
 'send'
-→ **misajə**
+→ **misaje**
 'something sent, message'  
-**fasə**
+**fase**
 'face'
-→ **fasajə**
+→ **fasaje**
 'facade, frontage'  
 **limon**
 'lemon'
@@ -287,7 +298,7 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 
 **-an**
 'one who belongs to, one who has membership in' :  
-**Amerikə**
+**Amerike**
 'America'
 → **amerikan**
 'American'  
@@ -314,45 +325,45 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 
 **-at-**
 'doing, action' :  
-**rotə**
+**rote**
 'wheel'
-→ **rotatə**
+→ **rotate**
 'rotate, turn like a wheel'
 
 **-em-**
 'distinct meaningful element' :  
-**fonə**
+**fone**
 'speech sound'
-→ **fonemə**
+→ **foneme**
 'phoneme, distinct speech sound'  
-**lexə**
+**lexe**
 'word'
-→ **lexemə**
+→ **lexeme**
 'lexeme'
 
 **-er-**
 'doer, agent, -er' :  
-**bekə**
+**beke**
 'bake'
 → **beker**
 'baker'  
-**lidə**
+**lide**
 'lead'
 → **lider**
 'leader, the one who leads'  
-**filsofə**
+**filsofe**
 'think deeply'
 → **filsofer**
 'philosopher'  
-**sapatə**
+**sapate**
 'shoe'
 → **sapater**
 'shoemaker'  
-**musketə**
+**muskete**
 'musket'
 → **musketer**
 'musketeer'  
-**kasə**
+**kase**
 'cash box, cash register'
 → **kaser**
 'cashier'
@@ -364,7 +375,7 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 → **bekeria**
 'bakery'  
 **perfume**
-'perfumə'
+'perfume'
 → **perfumeria**
 'perfumery'  
 **enjener**
@@ -378,11 +389,11 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 'human being'
 → **humania**
 'humanity, mankind, all the human beings as a group'  
-**kristə**
-'Christian'
+**kriste**
+'Christ'
 → **kristia**
 'Christianity, all Christians as a group'  
-**filsof**
+**filsofe**
 'view, outlook, life wisdom'
 → **filsofia**
 'philosophy, the discipline of wisdom'
@@ -393,7 +404,7 @@ There are also a lot of country names that do not end in **-ia**.
 
 **-ia**
 'area, region, country' :  
-**arabə**
+**arabe**
 'Arab, Arabic'
 → **Arabia**
 'Arabia'  
@@ -401,11 +412,11 @@ There are also a lot of country names that do not end in **-ia**.
 'Russian, Ruski'
 → **Rusia**
 'Russia'  
-**turkə**
+**turke**
 'Turk, Turkish'
 → **Turkia**
 'Turkey'  
-**italə**
+**itale**
 'Italic, Italian'
 → **Italia**
 'Italy'  
@@ -416,11 +427,11 @@ There are also a lot of country names that do not end in **-ia**.
 
 **-ia**
 'abstract quality' :  
-**novə**
+**nove**
 'new'
 → **novia**
 'newness, novelty'  
-**hurə**
+**hure**
 'free'
 → **huria**
 'freedom'
@@ -429,35 +440,35 @@ There are also a lot of country names that do not end in **-ia**.
 'of the style or manner of, -ish, -esque' :  
 **un**
 'one'
-→ **unikə**
+→ **unike**
 'only, sole, single'  
 **dom**
 'home'
-→ **domikə**
+→ **domike**
 'domestic'  
-**novə**
+**nove**
 'new'
-→ → **novikə**
+→ → **novike**
 'novice, newbie'
 
 **-im-**
 'the most, superlative' :  
 **pre**
 'fore, front'
-→ **primə**
+→ **prime**
 'foremost, prime'  
-**extrə**
+**extre**
 'outside, exterior'
-→ **extrimə**
+→ **extrime**
 'outermost, extreme'
 
 **-ion-**
 'action, process' :  
-**ditə**
+**dite**
 'say'
 → **dition**
 'saying, diction'  
-**rotatə**
+**rotate**
 'turn like a wheel'
 → **rotation**
 'rotation, turning'
@@ -466,53 +477,53 @@ There are also a lot of country names that do not end in **-ia**.
 'person who tends to behave or think in a certain way, adherent of an ideology or religion' :  
 **deu**
 'god'
-→ **devistə**
+→ **deviste**
 'theist, one who believes in existence of a god or gods'
 
 **-ism-**
 'ideology, way of thinking, way of living, ism' :  
 **deu**
 'god'
-→ **devismə**
+→ **devisme**
 'theism'
 
 **-it-**
 'passive participle' :  
-**sabə**
+**sabe**
 'know'
-→ **sabitə**
+→ **sabite**
 'known'
 
 **-iv-**
 'inclined to' :  
-**atə**
+**ate**
 'act, perform'
-→ **ativə**
+→ **ative**
 'active, inclined to act'  
-**explozə**
+**exploze**
 'explode'
-→ **explozivə**
+→ **explozive**
 'explosive'
 
 **-or-**
 'apparatus, device, machine' :  
-**tratə**
+**trate**
 'drag, haul'
 → **trator**
 'tractor'  
-**fotəgraf**
+**fotegraf**
 'photograph'
-→ **fotəgrafor**
+→ **fotegrafor**
 'photograph apparatus, camera'
 
 **-ur-**
 'result or product' :  
-**kultə**
+**kulte**
 'cultivate (a way of life)'
-→ **kulturə**
+→ **kulture**
 'culture'  
-**mixə**
+**mixe**
 'mix'
-→ **mixurə**
+→ **mixure**
 'mixture'
 

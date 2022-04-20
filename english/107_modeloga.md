@@ -7,14 +7,14 @@ The same word can modify nouns and verbs,
 whereas in English only _adjectives_ can modify nouns
 and only _adverbs_ can modify verbs.
 For example, the word
-**mei**
+**sundar**
 ('beautiful' or 'beautifully')
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **go sa un _mei_ kitabə.**
+A. **go si un _sundar_ kitabu.**
 – That is a beautiful writing.  
-B. **te _mei_ du kitabə.**
+B. **tu _sundar_ di kitabu.**
 – You write _beautifully_.
 
 
@@ -22,15 +22,15 @@ B. **te _mei_ du kitabə.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _novi_ kar**
+**un _nove_ kar**
 – a _new_ car  
-**un _sugi_ kar**
+**un _rapide_ kar**
 – a _fast_ car  
 **ba _dai_ meza**
 – _big_ tables  
-**ba _gavi_ meza**
+**ba _gau_ meza**
 – high tables  
-**un boni jen**
+**un bon jen**
 – a good person
 
 Two or more modifiers can modify the same noun.
@@ -44,9 +44,9 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**te _sugo_ loga.**
+**tu _rapide_ loga.**
 – You talk _fast_.  
-**les _bono_ kitaba.**
+**yemon _bon_ kitabu.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -54,9 +54,9 @@ It is common to put the modifying particle
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**te _mejo_ kitaba.**
+**tu _sundar di_ kitabu.**
 – You write _beautifully_.  
-**les _sugo_ marca.**
+**yemon _rapide di_ marche.**
 – They walk _fast_.
 
 
@@ -76,7 +76,7 @@ is used also when a modifier modifies another one.
 
 Degree words tell us about the intensity of something.
 
-**dajo**
+**tre**
 – very  
 **bas**
 – quite, sufficiently, enough  
@@ -84,38 +84,38 @@ Degree words tell us about the intensity of something.
 – more  
 **min**
 – less
-**mas ka bas**
+**max ka bas**
 – too  
 
 Degree words are placed before the word that they modify.
 
 **un dai man**
 – a big man  
-**un dajo dai man**
+**un tre dai man**
 – a very big man  
 **un bas dai man**
 – a big enough man / a sufficiently big man
-**un mas dai man ka bas**
+**un max dai man ka bas**
 – a too big man  
 
 A degree word together with a modifier forms a _compound adverb_
 that can modify a verb or a sentence.
 The compound adverb is placed immediately before the verb that it modifies.
 
-**dajo poli**
+**tre poli**
 – very much  
-**me _dajo poli_ vol loga.**
+**mi _tre poli_ vol loga.**
 – I want very much to speak.  
-**me vola _dajo polo_ loga.**
+**mi vol _tre poli_ loga.**
 – I want to speak very much.
 
 It is also possible to place the compound adverb very last in the sentence,
 and then it modifies the sentence as a whole.
 The meaning is the same like when the compound adverb modifies the main verb.
 
-**me vola loga _dajo polo_.**
+**mi vol loga _tre poli_.**
 – I want to speak very much.  
-**suala te sona _bas bon_?**
+**sual tu sona _bas bon_?**
 – Did you sleep well enough?
 
 
@@ -123,32 +123,25 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 Adjectives can be compared with the adverbs of comparison.
 
-- **maxo**
+- **max**
   (_more_) indicates comparison of superiority
-- **maximo**
+- **maxim**
   (_most_) indicates the superlative of superiority
-- **mino**
+- **min**
   (_less_) indicates comparison of inferiority
-- **minimo**
+- **minim**
   (_least_) indicates the superlative of inferiority
-- **paro**
+- **par**
   (_as_ or _equally_) indicates the comparison of equality
 
 The particle
-**za**
+**ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple sa maxo boni za orange.**
+**aple si max bon ka oranje.**
 = Apples are better than oranges.  
-**orange sa mino boni za aple.**
+**oranje si min bon ka aple.**
 = Oranges are less good than apples.  
-**te loga paro boni za me.**
+**tu loga par bon ka mi.**
 = You speak as well as me.
-
-Comparison can be also formulated with verbs using the same roots.
-
-**aple maxa orange va boni.**
-– Apples exceed oranges in goodness.  
-**orange mina aple va boni.**
-– Oranges subceed apples in goodness.
 
