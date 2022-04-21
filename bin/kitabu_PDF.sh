@@ -5,17 +5,6 @@ fa_pandoc() {
 
 fa_pan_md() {
     echo
-    echo "kitaba $1 PDF dokəmen"
-    cd $1
-    cat 000_dake.md 102_ABC.md 103_logatipe.md bazaje.md mini_pandunia.md midi_pandunia.md maxi_pandunia.md > pan.md
-
-    # uza loki grafe
-    sed 's/http:\/\/www.pandunia.info/\/home\/risto\/pandunia\/html/g' -i pan.md
-    cd ..
-}
-
-fa_lau_pan_md() {
-    echo
     echo "kitabu la $1 PDF dokumen"
     cd $1
     cat 000_dake.md 100_baze_kanun.md 102_ABC.md 103_logatipe.md 104_viseloga.md 105_namloga.md 106_nomer.md 107_modeloga.md 108_karmaloga.md 109_jumla_bina.md 110_loga_bina.md 201_shula.md > pan.md
@@ -30,7 +19,7 @@ fa_lau_pan_md() {
 
 fa_pan_md english
 fa_pandoc english
-fa_lau_pan_md espanya
+fa_pan_md espanya
 fa_pandoc espanya
 
 # uze la pake:
