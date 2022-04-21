@@ -302,7 +302,7 @@ However, unlike in English, the word order may also be left alone.
 ## Relative clauses
 
 A relative clause is a subordinate clause that modifies a noun phrase, most commonly a noun.
-For example, the phrase "the person who lives there" containst the noun _person_,
+For example, the phrase "the person who lives there" includes the noun _person_,
 which is modified by the relative clause _who lives there_.
 
 There are different ways to build a relative clause in Pandunia.
@@ -311,40 +311,40 @@ and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**la buku, jo la jen fa kitabu, pade.**
+**la buke, jo la jen fa kitabe, pade.**
 – The book, which the person writes, falls.
 
 It is possible to leave also **jo** out.
 This structure is called _reduced relative clause_.
 
-**la buku, la jen fa kitabu, pade.**
+**la buke, la jen fa kitabe, pade.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**la jen, jo fa kitabu la buku, pade.**
+**la jen, jo fa kitabe la buke, pade.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**la kalam, na jo la jen fa kitabu la buku, pade.**
+**la kalam, na jo la jen fa kitabe la buke, pade.**
 – The pen, with _which_ the person writes the book, falls.  
-**la kalam, la jen fa kitabu la buku na, pade.**
+**la kalam, la jen fa kitabe la buke na, pade.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jen, mi vide jo fa kitabu la buku, pade.**
+**la jen, mi vide jo fa kitabe la buke, pade.**
 – The person, whom I see write the book, falls.  
-**la jen, mi vide fa kitabu la buku, pade.**
+**la jen, mi vide fa kitabe la buke, pade.**
 – The person that I see write the book falls.  
 
 Also _resumptive relative pronoun_ can be used if needed.
 
-**la jen, mi fa kitabu la buku na jo su kalam, padu.**
+**la jen, mi fa kitabe la buke na jo su kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
@@ -380,9 +380,9 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 **ze ki**
 – because, for the reason that
 
-**mi duku ni buku _do ki_ mi transe la teste.**
+**mi duku ni buke _do ki_ mi transe la teste.**
 – I read this book so that I will pass the test.  
-**mi le transe la teste _ze ki_ mi duku la buku.**
+**mi le transe la teste _ze ki_ mi duku la buke.**
 – I have passed the test because I read the book.
 
 
@@ -555,14 +555,14 @@ The same particle is used with with personal pronouns too.
 ### Tense and Aspect Particles
 
 In Pandunia, tense can be expressed with time words and time phrases if needed.
-The general time words are **pas** (past), **zai** (present) and **sha** (future, upcoming).
+The general time words are **pas** (past), **zai** (present) and **xa** (future, upcoming).
 They function like adverbs, so typically their place is before the verb.
 
 **mi pas ha mau.**
 – I had cats.  
 **a mi no zai ha mau.**
 – But I now don't have cats.  
-**bil, mi sha ha mau.**
+**bil, mi xa ha mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
@@ -571,7 +571,7 @@ It's also possible to say it in a longer way like **na pas zaman** (in the past)
 – I had cats in the past.  
 **a mi no ha mau na zai zaman.**
 – But I don't have cats at present.  
-**bil, mi ha mau na sha zaman.**
+**bil, mi ha mau na xa zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

@@ -23,7 +23,7 @@
 **mi si Sara. ye si ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**ye si mi su dosti.**
+**ye si mi su doste.**
 = That is my friend.  
 <big>☺</big>
 **ye su nam si ke?**
@@ -37,9 +37,9 @@
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**ye si mi su dosti**
+**ye si mi su doste**
 the topic is the pronoun **ye** (he, she, it), which is followed by the comment
-**si mi su dosti**
+**si mi su doste**
 (is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
@@ -105,7 +105,7 @@ to be
 no; not  
 **bon**
 good  
-**dosti**
+**doste**
 friend  
 **nam**
 name  
@@ -122,7 +122,7 @@ animal
 
 1. tu si ke?
 2. mi si tomas.
-3. tu su dosti si ke?
+3. tu su doste si ke?
 4. ye si Sara.
 5. tu su nam si ke?
 6. mi su nam si ........... 
@@ -208,7 +208,7 @@ to address people by name, kinship term or profession.
 – Hello, mother!  
 **halo, papa!**
 – Hello, father!  
-**salam, shefe!**
+**salam, xefe!**
 – Hello, chief!
 
 
@@ -233,7 +233,7 @@ to greet
 mother, mom  
 **papa**
 father, dad  
-**shefe**
+**xefe**
 chief, boss  
 
 
@@ -252,30 +252,30 @@ chief, boss
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/laupapa.png "chin pa e bacha")  
+![](http://www.pandunia.info/grafe/laupapa.png "cin pa e bacha")  
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
-**halo, chin pa!**
+**halo, cin pa!**
 = Hello, grandfather!  
 <big>☺</big>
-**halo! ching side.**
+**halo! cing side.**
 = Hello! Please sit!  
 <big>☻</big>
 **shukur.**
 = Thank you.  
 <big>☺</big>
-**ching yam yo kafe o chai.**
+**cing yam yo kafe o cai.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**a mi yam un di chai! shukur.**
+**a mi yam un di cai! shukur.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
-**chin pa, mi mus ga na zai.**
+**cin pa, mi mus ga na zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**bon. ching salam tu su mama!**
+**bon. cing salam tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
 **mi salam ye. salam reste!**
@@ -293,12 +293,12 @@ doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
 The first verb,
-**ching**
+**cing**
 ('to request), addresses
 **tu**
 as its object. At the same time
@@ -323,13 +323,13 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = I ask you to say hello to him/her.  
-**ching salam ye.**
+**cing salam ye.**
 = Please say hello to him/her.
 
 See how the translation of
-**ching**
+**cing**
 changed between the two sentences?
 The meaning of the word, the concept, did not change, but its use did.
 English reflects this change by using different words, to ask and please.
@@ -338,33 +338,33 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**ching salam ye**
+**cing salam ye**
 has a useful pattern that can be used for making polite requests.
 
-**ching side.**
+**cing side.**
 = Please be seated.  
-**ching don yo kafe.**
+**cing don yo kafe.**
 = Please give me some coffee.  
-**ching don yo chai.**
+**cing don yo cai.**
 = Please give me some tea.  
-**ching yam yo chai.**
+**cing yam yo cai.**
 = Please have some tea.  
-**ching safa la kamar.**
+**cing safe la kamar.**
 = Please clean the room.
 
 Commands are introduced with
 **amir**
 ('to command'). They employ the same pivot structure as requests with
-**ching**.
+**cing**.
 
-**amir don yo chai.**
+**amir don yo cai.**
 = Give (me) some tea!  
-**amir safa la kamar.**
+**amir safe la kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safa ye!**
+**safe ye!**
 = Clean it!
 
 
@@ -383,11 +383,11 @@ Try translating these sentences from English to Pandunia.
 
 **amir**
 to order, to command  
-**chai**
+**cai**
 tea  
-**chin pa**
+**cin pa**
 grandfather  
-**ching**
+**cing**
 to ask; please  
 **don**
 to give  
@@ -405,7 +405,7 @@ the
 must, have to  
 **o**
 or  
-**safa**
+**safe**
 to clean  
 **shukur**
 thanks  
@@ -421,11 +421,11 @@ some, a(n)
 
 ### Answers to the Exercises
 
-1. ye yam chai.
-2. la shefe ching ye side.
-3. ching yam kafe o chai.
-4. mama ching mi safa kamar.
-5. shefe side e yam kafe.
+1. ye yam cai.
+2. la xefe cing ye side.
+3. cing yam kafe o cai.
+4. mama cing mi safe kamar.
+5. xefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -439,10 +439,10 @@ some, a(n)
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**salam! sual tu yam kafe o chai?**
+**salam! sual tu yam kafe o cai?**
 = Hello! Would you like to have coffee or tea?  
 <big>☻</big>
-**chai.**
+**cai.**
 = Tea.  
 <big>☺</big>
 **e tu?**
@@ -451,10 +451,10 @@ some, a(n)
 **mi no basha pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**maf! sual ye yam chai?**
+**maf! sual ye yam cai?**
 = Pardon! Will he have tea?  
 <big>☻</big>
-**no. ye no yam chai. ye yam kafe.**
+**no. ye no yam cai. ye yam kafe.**
 = No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam yo supe?**
@@ -469,21 +469,21 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**shukur. mi don un chai e un kafe e un supe pos des minute.**
+**shukur. mi don un cai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
 ### Asking questions
 
 Questions that can be answered by saying _yes_ or _no_ have the same
-pivot structure as requests with **ching**, which you learned in the
+pivot structure as requests with **cing**, which you learned in the
 previous lesson. Question sentences are introduced with **sual** = to ask.
 
-**mi sual tu yam chai.**
+**mi sual tu yam cai.**
 = I ask (do) you drink tea.  
-**sual tu yam chai?**
+**sual tu yam cai?**
 = Do you drink tea?  
-**sual yam chai?**
+**sual yam cai?**
 = Drink tea?
 
 Requests usually concern the one or the ones spoken to, but questions
@@ -491,7 +491,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual ye yam chai?**
+**sual ye yam cai?**
 = Does he or she drink tea?  
 **sual tu yam supe?**
 = Do you eat soup?  
@@ -500,9 +500,9 @@ discussion.
 
 Of course common and proper nouns can also be used.
 
-**sual shefe yam kafe?**
+**sual xefe yam kafe?**
 = Does the chief drink coffee?  
-**sual papa safa kamar?**
+**sual papa safe kamar?**
 = Does the father clean the room?  
 **sual niki basha pandunia?**
 = Does Nicky speak Pandunia?
@@ -609,11 +609,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi ching tu safa la kamar.**
+**mi cing tu safe la kamar.**
 = I ask you to clean the room.  
-**mi no ching tu safa la kamar.**
+**mi no cing tu safe la kamar.**
 = I do NOT ask you to clean the room.  
-**mi ching tu no safa la kamar.**
+**mi cing tu no safe la kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -664,11 +664,11 @@ but
 
 ### Answers to the Exercises
 
-1. ye no safa kamar.
+1. ye no safe kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. ye no ten vaf e mau. / ye ten no vaf e no mau.
-5. shefe yam chai a no kafe.
+5. xefe yam cai a no kafe.
 6. mama ten no vaf a du mau.
 
 
@@ -780,16 +780,16 @@ There are also specific time words.
 
 **zai**
 = currently, at the moment  
-**sha**
+**xa**
 = later, in the future
 
 They can be used for modifying nouns.
 
-**Sara si mi su pas shefe.**
+**Sara si mi su pas xefe.**
 = Sarah is my former boss.  
-**Yusef si mi su zai shefe.**
+**Yusef si mi su zai xefe.**
 = Yusef is my current boss.  
-**Maria si mi su sha shefe.**
+**Maria si mi su xa xefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -799,7 +799,7 @@ Simply put the word before the verb.
 = I hit it (in the past).  
 **mi zai darba ye.**
 = I am hitting it (currently).  
-**mi sha darba ye.**
+**mi xa darba ye.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
@@ -808,7 +808,7 @@ It's also possible to use preposition phrases of time.
 = I hit it in the past.  
 **mi darba ye na zai.**
 = I hit it at present.  
-**mi darba ye na sha.**
+**mi darba ye na xa.**
 = I hit it in the future.
 
 
@@ -830,7 +830,7 @@ time expression is present, other markers are not needed.
 
 **mi be jene na nen 2003.**
 = I was born in 2003.  
-**ye safa la kamar na pos den.**
+**ye safe la kamar na pos den.**
 = He will clean the room tomorrow.
 
 
@@ -851,7 +851,7 @@ Try translating these sentences from English to Pandunia.
 past, former  
 **zai**
 present, current  
-**sha**
+**xa**
 future  
 **chen**
 before  
@@ -870,10 +870,10 @@ milk
 
 ### Answers to the Exercises
 
-1. mi su shefe festa na sha.
+1. mi su xefe festa na xa.
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
-4. ye safa kamar na chen den.
+4. ye safe kamar na chen den.
 5. mau yam milke na pos den.
 6. tu su mama festa na chen noche.
 

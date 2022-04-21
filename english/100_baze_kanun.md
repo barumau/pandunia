@@ -66,21 +66,21 @@ They are described in more detail later in this document.
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi ching tu loga la pandunia.**
+        - **mi cing tu loga la pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ ching _tu_ loga la pandunia.**
-          → **ching loga la pandunia.**
+        - **_mi_ cing _tu_ loga la pandunia.**
+          → **cing loga la pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
    In Pandunia, words change only when their actual meaning changes.
    Words don't ever change only to serve in a different grammatical role.
    Compound words are made by combining the elements that form them.
    The main word stands at the end.
-    - **posta**
+    - **poste**
       ("mail") +
-      **kasa**
+      **kase**
       ("box") =
-      **posta kasa**
+      **poste kase**
       ("mailbox")
 

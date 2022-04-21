@@ -64,7 +64,7 @@ Content words can be classified further into the following word classes:
 2. Adjectives : words for qualities of nouns, such as good, bad, and big.
 3. Adverbs : words that describe degrees of qualities, such as less, more and very.
 4. Numerals : words for numbers and amounts.
-5. Verbs : words for actions and occurences, such as to eat and to look.
+5. Verbs : words for actions and occurrences, such as to eat and to look.
 
 However, the class of a content word is seldom permanent.
 A word like

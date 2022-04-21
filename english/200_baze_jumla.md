@@ -396,10 +396,10 @@ means "your" and so on.
 **ye si ke?**
 Who's he/she?
 
-**ye si mi su dosti.**
+**ye si mi su doste.**
 He/she is my friend.
 
-**mi si Sara su dosti.**
+**mi si Sara su doste.**
 I am Sarah's friend.
 
 <small>Etymology. **su**
@@ -525,9 +525,9 @@ the word order is not affected by the **ke**.
 **mi vol yam kafe.**
 I want to drink coffee.
 
-**sual tu vol yam chai?**
+**sual tu vol yam cai?**
 Would you like to drink tea?  
-**no. mi no vol chai. mi vol kafe.**
+**no. mi no vol cai. mi vol kafe.**
 No, I don't want tea. I want coffee.
 
 **tu vol ke aple?**
@@ -536,29 +536,29 @@ Which apple do you want?
 This red one.
 
 
-### ching <small>request, please</small>
+### cing <small>request, please</small>
 
-**mi ching tu yam chai.**
+**mi cing tu yam cai.**
 I ask you to drink tea.
 
-**mi ching tu lai dom.**
+**mi cing tu lai dom.**
 I ask you to come home.
 
-**mi ching tu mede mi.**
+**mi cing tu mede mi.**
 I ask you to help me.
 
 Tip: To make direct requests, drop all the pronouns.
 
-**ching yam chai.**
+**cing yam cai.**
 Please, have some tea!
 
-**ching yam kafe.**
+**cing yam kafe.**
 Please, have some coffee!
 
-**ching lai dom.**
+**cing lai dom.**
 Please, come home!
 
-**ching mede mi.**
+**cing mede mi.**
 Please, help me.
 
 
@@ -677,7 +677,7 @@ Listen to me!
 **mi no bil audi tu.**
 I can't hear you.
 
-**ching loga mas lika.**
+**cing loga mas lika.**
 Please speak louder.
 
 **mi audi muzika.**
@@ -719,10 +719,10 @@ I don't understand what it means.
 
 ### kitabu <small>write</small>
 
-**ching kitabu tu su adres.**
+**cing kitabu tu su adres.**
 Please, write your address.
 
-**ching kitabu ye na ni.**
+**cing kitabu ye na ni.**
 Please, write it here!
 
 
@@ -775,7 +775,7 @@ Let's go by foot!
 
 ### lai <small>to come</small>
 
-**ching lai!**
+**cing lai!**
 Come here!
 
 **tu lai ze ke?**
@@ -842,7 +842,7 @@ Do you live in this hotel?
 
 ### dele <small>to wait</small>
 
-**ching dele!**
+**cing dele!**
 Please wait!
 
 **dele do mi!**
@@ -859,13 +859,13 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai salam tu su dosti.**  
+**mi zai salam tu su doste.**  
 I am greeting your friend.
 
 **la man ya zai vide un filme.**  
 The man is watching a film.
 
-**ye zai si shefe.**  
+**ye zai si xefe.**  
 He or she is currently the chief.
 
 **ye zai na dom.**  
@@ -874,13 +874,13 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**mi pas salam tu su dosti.**  
+**mi pas salam tu su doste.**  
 I greeted your friend.
 
 **la man ya pas vide un filme fem.**  
 The man watched a film.
 
-**ye pas si shefe.**  
+**ye pas si xefe.**  
 He or she was the chief.
 
 **ye pas na dom.**  
@@ -889,13 +889,13 @@ He or she was at home.
 
 ### le <small>already, completed</small>
 
-**mi le salam tu su dosti.**  
+**mi le salam tu su doste.**  
 I have greeted your friend.
 
 **la man le vide un filme.**  
 The man has watched a film.
 
-**ye le si shefe.**  
+**ye le si xefe.**  
 He or she has been the chief.
 
 **ye le na la dom.**  
@@ -904,13 +904,13 @@ He or she has been at home.
 
 ### sha <small>in the future</small>
 
-**mi sha salam tu su dosti.**  
+**mi sha salam tu su doste.**  
 I will greet your friend.
 
 **la man sha vide la filme.**  
 The man will watch the film.
 
-**ye sha si shefe.**  
+**ye sha si xefe.**  
 He or she will be the chief.
 
 **ye sha na dom.**  
@@ -923,16 +923,16 @@ He or she will be at home.
 
 ### don <small>give</small>
 
-**ching don yo pesa.**
+**cing don yo pesa.**
 Please give some money.
 
-**ching don ye do mi.**
+**cing don ye do mi.**
 Please give it to me.
 
 **mi don ni do tu.**
 I give this to you.
 
-**mi don buku do yemon.**
+**mi don buke do yemon.**
 I give a book to them.
 
 **ye no vol don ye do mi.**
@@ -944,7 +944,7 @@ He/she doesn't want to give it to me.
 **mi kape un kafe.**
 I will take a coffee.
 
-**ching kape un kafe do mi.**
+**cing kape un kafe do mi.**
 Please take one coffee for me.
 
 **tu pas kape pesa ze mi.**
@@ -1022,7 +1022,7 @@ Come here / back / to us.
 **mi shula la pandunia.**
 I study Pandunia.
 
-**shou ye do mi na loga buku!**
+**shou ye do mi na loga buke!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.
@@ -1051,7 +1051,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**ching side na ni!**
+**cing side na ni!**
 Please, sit here!
 
 **mi suku stasa.**

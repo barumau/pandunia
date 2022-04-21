@@ -111,7 +111,7 @@ The base word refers to a human-made object.
 
 ## Semantic Roles
 
-A verb denotes an event (an action or an occurence).
+A verb denotes an event (an action or an occurrence).
 The event named by the verb involves one or more participants,
 typically an agent and a patient.
 It is not always clear what differentiates agent and patient

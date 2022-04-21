@@ -40,9 +40,9 @@ One of the many suitable markers is
 which adds no content to the sentence
 but helps to clarify its structure.
 
-**peshe si mau yam.**
-– Fish is catfood.  
-**mau _ya_ yam yo peshe.**
+**pexe si mau yam.**
+– Fish is cat food.  
+**mau _ya_ yam yo pexe.**
 – The cat eats some fish.
 
 Other suitable markers include auxiliaries of time and mood,
@@ -116,7 +116,7 @@ indicates that an action is done regularly.
 
 **le**
 ('attain, accomplish, reach')
-indiciates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
+indicates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_). 
 
 **ye _le_ si guru.**
@@ -125,7 +125,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 – I haven't drank alcohol.  
 **mi _le_ no gul yo alkohol.**
 – I have reached not drinking alcohol.  
-**mi _le_ don la buku do yemon.**
+**mi _le_ don la buke do yemon.**
 – I have given the book to them. (So I don't have it.)  
 **yemon no _le_ don ye re do mi.**
 – They haven't given it back to me.  
@@ -137,7 +137,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**mi pas don la buku do yemon.**
+**mi pas don la buke do yemon.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas keka la France.**
 – I have visited France.  

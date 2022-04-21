@@ -118,7 +118,7 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 (in the past),
 **le**
 (already), and
-**sha**
+**xa**
 (in the future).
 
 **mi zai ama tu.**
@@ -127,7 +127,7 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 – I loved you.  
 **mi le ama tu.**
 – I have loved you.  
-**mi sha ama tu.**
+**mi xa ama tu.**
 – I will love you.
 
 ### Passive
