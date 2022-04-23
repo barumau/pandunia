@@ -54,7 +54,7 @@ They are described in more detail later in this document.
     - **zai** indicates an ongoing event.
     - **le** indicates a completed event whose results have an effect on the present situation.
     - **pas** indicates a completed event that has no connection to the present situation.
-    - **sha** indicates a future event.
+    - **xa** indicates a future event.
 9. **Word order:**
     - The word order is subject–verb–object.
       The same order is used in declarations and questions.

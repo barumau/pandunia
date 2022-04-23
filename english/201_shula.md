@@ -853,11 +853,11 @@ past, former
 present, current  
 **xa**
 future  
-**chen**
+**cen**
 before  
 **den**
 day  
-**noche**
+**noce**
 night  
 **darba**
 to hit, to beat  
@@ -873,7 +873,7 @@ milk
 1. mi su xefe festa na xa.
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
-4. ye safe kamar na chen den.
+4. ye safe kamar na cen den.
 5. mau yam milke na pos den.
-6. tu su mama festa na chen noche.
+6. tu su mama festa na cen noce.
 

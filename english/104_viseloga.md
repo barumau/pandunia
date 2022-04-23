@@ -85,7 +85,7 @@ points to things that are far from the speaker.
 – This (thing) is good.  
 **go she si dus.**
 – That (thing) is bad.  
-**mi vol ni buku, no go.**
+**mi vol ni buke, no go.**
 – I want this book, not that.
 
 The basic proximal and distal pronouns are used for introducing a new object.

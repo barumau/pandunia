@@ -342,7 +342,7 @@ or it can be left out by using the reduced relative clause structure.
 **la jen, mi vide fa kitabe la buke, pade.**
 – The person that I see write the book falls.  
 
-Also _resumptive relative pronoun_ can be used if needed.
+Also a _resumptive relative pronoun_ can be used if needed.
 
 **la jen, mi fa kitabe la buke na jo su kalam, padu.**
 – The person whose pen I write the book with falls.
@@ -464,11 +464,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vide no tu a yemon.**
 – I see, not you, but them.
 
-**mi cing tu safa la kamar.**
+**mi cing tu safe la kamar.**
 – I ask you to clean the room.  
-**mi no cing tu safa la kamar.**
+**mi no cing tu safe la kamar.**
 – I do NOT ask you to clean the room.  
-**mi cing tu no safa la kamar.**
+**mi cing tu no safe la kamar.**
 – I ask you NOT to clean the room.
 
 

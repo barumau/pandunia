@@ -43,10 +43,10 @@ Good morning!
 **salam den!**
 Good day!
 
-**salam sham!**
+**salam xam!**
 Good evening!
 
-**salam noche!**
+**salam noce!**
 Good night!
 
 **salam yam!**

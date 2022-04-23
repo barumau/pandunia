@@ -12,9 +12,9 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **go si un _sundar_ kitabu.**
+A. **go si un _sundar_ kitabe.**
 – That is a beautiful writing.  
-B. **tu _sundar_ di kitabu.**
+B. **tu _sundar_ di kitabe.**
 – You write _beautifully_.
 
 
@@ -46,7 +46,7 @@ is placed immediately before the verb.
 
 **tu _rapide_ loga.**
 – You talk _fast_.  
-**yemon _bon_ kitabu.**
+**yemon _bon_ kitabe.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -54,9 +54,9 @@ It is common to put the modifying particle
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**tu _sundar di_ kitabu.**
+**tu _sundar di_ kitabe.**
 – You write _beautifully_.  
-**yemon _rapide di_ marche.**
+**yemon _rapide di_ marce.**
 – They walk _fast_.
 
 
@@ -66,7 +66,7 @@ The particle
 **di**
 is used also when a modifier modifies another one.
 
-**un _surpris di_ bon buku**
+**un _surpris di_ bon buke**
 – a _surprisingly_ good book  
 **ba _lika di_ ama ja jen**
 – _strongly_ loving people
