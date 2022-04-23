@@ -28,29 +28,29 @@ and the preceding roots only modify its meaning.
 
 Joining roots together could sometimes result into unpronounceable consonant sequences.
 For example, the consonant sequence **-tgr-** could appear when the roots **fot-** and **graf-** were put together.
-Then the linking vowel **-ə-** is inserted between the roots to make pronunciation easier.
+Then the connecting vowel **-o-** is inserted between the roots to make pronunciation easier.
 
            fot-      'light'
-       +    -ə-      'linking vowel'
+       +    -o-      'connecting vowel'
        +  graf-      'picture, image'
     _____________
-    =   fotəgraf     'photograph'
+    =   fotograf     'photograph'
 
 There are two more examples below.
 
            dem-      'people, public'
-       +    -ə-      'linking vowel'
+       +    -o-      'connecting vowel'
        +  krat-      'rule, govern'
        +   -ia       'a noun ending'
     _____________
-    = deməkratia     'democracy'
+    = demokratia     'democracy'
 
           term-      'temperature'
-       +    -ə-      'linking vowel'
+       +    -o-      'connecting vowel'
        +   met-      'measuring'
        +    or-      'apparatus'
     ____________
-    = terməmetor     'thermometer'
+    = termometor     'thermometer'
 
 Some roots are used frequently as prefixes but seldom as words on their own.
 These *international prefixes* include the roots **a-**, **de-**, **pro-**, **re-** and **su-** among others.
@@ -90,16 +90,15 @@ are not compound words in Pandunia.
 ## Compound words – together or separately?
 
 It doesn't matter are the elements of a compound word written together or separately
-– both ways work without problems
-because the linking vowel **-ə-** is used only for this purpose.
+– both ways work without problems.
 So, for example, the word for 'mailbox' can be written
-**postə sandukə**
+**poste kase**
 or
-**postəsandukə**
+**postokase**
 and the word for 'democracy' can be written
-**demə kratia**
+**deme kratia**
 or
-**deməkratia**.
+**demokratia**.
 
 
 ## Affixes
@@ -121,6 +120,25 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 'tie'
 → **alige**
 'tie to oneself, ally'
+
+**an-**
+'opposite, un-, in-' :  
+**human**
+'human'
+→ **anhuman**
+'unhuman'
+**deviste**
+'theist'
+→ **andeviste**
+'atheist'  
+**tabakiste**
+'smoker'
+→ **antabakiste**
+'non-smoker'  
+**kluze**
+'close'
+→ **ankluze**
+'unclose, open'
 
 **de-**
 'away, off' :  
@@ -173,21 +191,6 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 'structure'
 → **konstrute**
 'construct, put together'
-
-**nə-, ən-**
-'opposite, un-, in-' :  
-**human**
-'human'
-→ **nəhuman**
-'unhuman'
-**deviste**
-'theist'
-→ **nədeviste**
-'atheist'  
-**tabakiste**
-'smoker'
-→ **nətabakiste**
-'non-smoker'
 
 Since this prefix consists of one consonant only,
 its alternative form **ən-** is used before roots that begin with a vowel.
