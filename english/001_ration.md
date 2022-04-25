@@ -1,19 +1,45 @@
-# Pandunia - a global contact language
+# Pandunia - the evenly global helping language
  
 ## Introduction
 
-This article describes why and how Pandunia was created
-to be an equally global auxiliary language.
+Pandunia is an equally global helping language.
+In this article we tell what makes Pandunia global and equal,
+why it is like that,
+and how it could help people of the world to communicate better with each other.
 
-## The big picture
 
-Many people are used to seeing this kind of world map.
+## Principles of Pandunia
+
+Pandunia is _fair_.
+Everybody has an equal chance of learning and speaking Pandunia well.
+It is supposed to be the _great equalizer_
+— a way of communicating that everybody can use on the same level.
+
+Pandunia is _evenly global_.
+It borrows words from from all regions and all cultures of the world.
+It is the world language that stands for the whole world!
+
+Pandunia is _practical_.
+It re-uses things that have already become international, including
+the basic Latin alphabet and
+international words from English, Greek, Latin, Sanskrit, Chinese and Arabic, among others.
+That way Pandunia can be used in real international communication right from the start.
+
+Pandunia is _simple_.
+In international situations it is best to use plain words, short sentences and simple language
+because they are much more effective than specialized words, long sentences and complex language.
+So, let's keep it simple!
+
+
+## How is Pandunia evenly global?
+
+Many people are used to seeing the kind of world map below.
 It is the famous _Mercator projection_ map.
 Unfortunately it distorts the land area terribly.
 
 ![](http://www.pandunia.info/grafe/metrograf_da_merkator.jpg "Mercator projection")
 
-Why is that? The world is a 3-dimensional globe and drawing it into a flat, 2-dimensional map is not easy.
+Why is that? The world is a three-dimensional globe and turning it into a flat, two-dimensional map is not easy.
 Equal-area projections, such as the _Equal Earth projection_ below,
 show land areas correctly.
 Compare the sizes of Greenland and Africa in these two maps.
@@ -22,7 +48,7 @@ but the Equal Earth projection shows correctly that in reality Africa is 14 time
 
 ![](http://www.pandunia.info/grafe/metrograf_da_pari_gevia.jpg "Equal Earth projection")
 
-That is the natural world.
+That is the physical world.
 We live also in a human world, which comprises of nations that are divided by borders.
 In a normal map of countries of the world, sizes of the countries are defined by their geographic area.
 
@@ -38,6 +64,39 @@ The grammar should be easy for all.
 Areal linguistic characteristics, such as [Standard Average European](https://en.wikipedia.org/wiki/Standard_Average_European),
 are not suitable guidelines for the world language.
 Instead, the grammar should be built from things that are universally known and/or universally considered easy.
+
+
+### Can all languages be included?
+
+About 6000-7000 languages are spoken in the world today.
+The figure below shows cumulative distribution of the number of speakers of the 50 most spoken native languages.
+The figure shows that:
+
+- 25 percent of all people speak the top-3 languages
+- 50 percent of all people speak the top-13 languages
+- 75 percent of all people speak the top-50 languages
+
+The remaining languages – remember, there are over 6000 of them! – are outside the picture.
+The curve, which is steep at the beginning, turns virtually into a flat line when it approaches the last language,
+which is spoken only by a handful of people.
+
+The figure indicates that _beyond a certain point_
+including one more language to the mix wouldn't make the interlanguage significantly more international.
+For example, if the top-50 languages were already included,
+adding the 51st language wouldn't make much of a difference,
+because it would increase the coverage from 75.07% to 75.43%.
+
+One can also question the practical implications of including 51 languages versus 50.
+The increase in coverage would be marginal, only 0.36%,
+and it would not help the remaining 24.24% of the world who speak other, smaller languages!
+
+![](http://www.pandunia.info/grafe/kumule.png)  
+Figure. Percentage of world population by language by number of native speakers.
+
+The vocabulary of Pandunia is based on the most spoken languages.
+They cover all continents and all major modern cultures of the world.
+They also have a lot of _international words_ in common with less spoken languages.
+That's why Pandunia-like words can be found also in smaller languages.
 
 
 ## Cultures of the world
@@ -140,6 +199,7 @@ are written in the Roman alphabet.
 
 Therefore the Roman alphabet is the obvious choice for the international language.
 
+
 ### Only five vowels
 
 According to [chapter 2](https://wals.info/chapter/1) of The World Atlas of Language Structures,
@@ -168,21 +228,101 @@ the consonant inventories in world's languages are categorized by size as follow
 - moderately large: 26-33
 - large: 34 or more consonants
 
-Pandunia has only 18 consonants so its consonant inventory is moderately small.
+Pandunia has only 20 consonants so its consonant inventory is average in size.
 
 English and Mandarin, for example, have much bigger consonant inventories.
 Most consonant letters are pronounced in the same way in all three languages.
 The table below shows what consonant sounds correspond to each other in Pandunia, English and Mandarin.
 Sounds that are present in English or Mandarin but not in Pandunia are inside parenthesis.
 
-|            | Pandunia    | English       | Mandarin Pinyin |
+|            | Pandunia    | English       | Mandarin        |
 |------------|-------------|---------------|-----------------|
-| Nasals     | m n ng      | m n ng        | m n ng          |
+| Nasals     | m n (ng)    | m n (ng)      | m n (ng)        |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
 | Liquids    | l r j v     | l r y w       | l r y w (yü)    |
 | Sibilants  | s z x       | s z sh (zh)   | s z* x (sh)     |
 | Fricatives | f h         | f h (v th th) | f h             |
 | Affricates | c j         | ch j          | c j (ch zh q)   |
+
+
+### Almost universal letter-to-sound correspondence
+
+Pandunia's assigns letters to sounds in an almost universal way.
+Most letters correspond to roughly the same in Pandunia and in other languages
+that use the Latin alphabet in their spelling or as their standard method of Romanization.
+For example, 19 letters correspond to the same sounds in Pandunia and English
+and only five are used differently.
+In addition, two English letters (*w* and *q*) are not used in Pandunia.
+
+The pronunciation of Pandunia letters is compared to their pronunciation in other languages in the table below.
+
+- Letters that correspond to approximately similar sounds in Pandunia and the compared language are listed in the column "Similar".
+  For example the English *g* is considered similar to the Pandunia *g*
+  though in English there is the 'soft g' (as in _gel_) besides the more common 'hard g' (as in _get_).
+- Letters that correspond usually to different sounds in Pandunia
+  and in the compared language are listed in the column "Different".
+- Pandunia letters that are not used in the compared language are listed in the column "Not used".
+
+| Language         | Similar                                         | Different   | Not used|
+|:-----------------|-------------------------------------------------|-------------|---------|
+| Pandunia         | a b c d e f g h i j k l m n o p r s t u v x y z |             |         |
+| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v   y z |             | x       |
+| Malay            | a b c d e f g h i j k l m n o p r s t u     y z |             | v x     |
+| Hausa            | a b c d e f g h i j k l m n o p r s t u     y z |             | v x     |
+| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u   x y   | e z         | v       |
+| Swahili          | a b   d e f g h i j k l m n o p r s t u v   y z |             | c x     |
+| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u     y z | f r         | v c x   |
+| Portuguese       | a b   d e f g   i   k l m n o p r s t u v x   z | c h j       | y       |
+| English          |   b   d   f g h i j k l m n o p r s t   v   y z | a c e u x   |         |
+| French           | a b   d e f g   i   k l m n o p   s t u v   y z | c h j r x   |         |
+| Spanish          | a b   d e f g   i   k l m n o p r s t u v   y   | c h j x z   |         |
+| German           | a b   d e f g h i   k l m n o p r s t u v       | c j x y z   |         |
+| Vietnamese       | a b     e   g h i   k l m n o p r   t u v   y   | c d s x     | f j z   |
+
+In summary, most letters correspond to the same sounds in Pandunia as in other languages,
+and most differences are about letters *c*, *j*, *x*, *y* and *z*.
+Special attention needs to be given to *c* and *x*.
+
+#### Why is the letter X pronounced like SH?
+ 
+Pandunia follows the phonetic principle.
+One letter represents exactly one sound, and one sound is written with exactly one letter.
+
+Traditionally there isn't any dedicated letter for the sound /ʃ/ in the Latin alphabet.
+This sound is frequently written by the letter combination *sh* in English.
+Other languages use different letters and letter combinations,
+such as *ch* in French, *sch* in German, *sj* in Swedish, *sz* in Polish, *š* in Czech and *ş* in Turkish.
+
+However, there is a handful of languages that use the letter *x* for the sound /ʃ/.
+Basque and Maltese do it without exception.
+Portuguese and Catalan are less consistent, but their *x* stands for /ʃ/ frequently.
+For example, the Pandunia word **xampu'** is written almost exactly like in Portuguese.
+It means 'shampoo'.
+
+In the Chinese Romanization systen, Pīnyīn, the letter *x* stands for /ɕ/ which is almost similar to /ʃ/.
+Pandunia has borrowed many words with *x* from Chinese,
+for example **xim**, **xin** and **xuxe**.
+
+![](http://www.pandunia.info/grafe/X.png "C = ʃ")
+
+
+#### Why is the letter C pronounced like CH?
+
+Actually there are several languages where C is pronounced like English CH,
+including Malaysian, Indonesian, Hausa, Oromo and Rwanda.
+In Italian, when C is followed by E or I, it is pronounced /tʃ/.
+This pronunciation is present in English loan words from Italian, such as _cello_ and _cappuccino_.
+
+In addition, *c* is pronounced like *ts* in *cats* in many languages,
+including Polish, Czech, Hungarian and sometimes German.
+This pronunciation comes from Medieval Latin.
+The pronunciation of *c* is similar also in the standard Romanization of Mandarin Chinese.
+
+![](http://www.pandunia.info/grafe/C.png "C = ts o tʃ")
+
+On the other hand, the letter *c* doesn't stand for any unique sound in English.
+The _hard c_ can be replaced by *k* and the _soft c_ by *s*.
+So the letter *c* is free to be reassigned to some useful sound.
 
 
 ### Easy to pronounce
@@ -224,14 +364,15 @@ English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn
 _mai, sai, lai, rai_. It is as simple as that!
 
 Pandunia can be spelled regularly because it has fewer speech sounds (24)
-than there are letters in the basic Roman alphabet (26).
+than there are letters in the Basic Latin alphabet (26).
 The alphabet of Pandunia is:  
-a b c d e f g h i j k l m n o p r s t u v x ə z
+a b c d e f g h i j k l m n o p r s t u v x y z
 
 Pandunia has almost perfect letter-to-sound correspondence.
 One letter stands for one sound only.
 One sound is represented by exactly one letter.
 Every word is pronounced as it is written.
+
 
 
 ### Regular accent
@@ -240,7 +381,7 @@ Pandunia has a regular accent.
 The place of the stress is decided by one simple rule:
 the last vowel of the word stem is stressed.
 It goes like this:  
-**haló'! mé vóla lóga lə bóni dúnia básə.**  
+**haló'! mé vól lóge la bón dúnia báxe.**  
 (_Hello! I want to speak the good world language._)
 
 Regular stress is easier to learn and more comfortable to use
