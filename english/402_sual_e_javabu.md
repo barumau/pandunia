@@ -165,3 +165,33 @@ spoken in the future.
 You are free to speak Pandunia, English and any other language that
 your heart desires.
 
+
+## Vocabulary
+
+#### Why the last vowel of words is sometimes different in Pandunia than in language X?
+
+The main reason is that Pandunia borrows words from many languages,
+and often those languages don't agree about the final vowel.
+For example the word **supe** (_soup_) ends in -a in Spanish _sopa_,
+in -u in Japanese スープ (_sūpu_),
+in -e in German _Suppe_,
+and not in any vowel in English _soup_.
+So it's not one and the same word but rather an international family of similar words,
+and Pandunia's **supe** fits perfectly into that family.
+
+#### Shouldn't "salam" mean "peace"?
+
+In many languages, expressions of greeting have something to do with
+peace, health or well-being. The origins of Pandunia's word **salam**
+can be traced back to Semitic triliteral root SLM, which covers a
+variety of meanings including safety, security, peace and health.
+Likewise the English word _salutation_ (and French greeting _salut_)
+can be traced back to Latin "salus", which means safety, security,
+health and well-being.
+
+So the meaning of **salam** is greater than the meaning of peace. It
+means well-being in general and you can use it as a general
+expression for well-wishing in all kinds of situations, not just when
+you meet somebody. See the first lesson in the [phrasebook](200_baze_jumla.md)
+for a lot of examples!
+

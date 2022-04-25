@@ -66,7 +66,7 @@ are not suitable guidelines for the world language.
 Instead, the grammar should be built from things that are universally known and/or universally considered easy.
 
 
-### Can all languages be included?
+### Can all languages really be included?
 
 About 6000-7000 languages are spoken in the world today.
 The figure below shows cumulative distribution of the number of speakers of the 50 most spoken native languages.
@@ -325,7 +325,7 @@ The _hard c_ can be replaced by *k* and the _soft c_ by *s*.
 So the letter *c* is free to be reassigned to some useful sound.
 
 
-### Easy to pronounce
+### Easy syllable structure
 
 A syllable consists of one core vowel and possible consonants.
 In some languages syllables are simpler than in others.
@@ -381,7 +381,7 @@ Pandunia has a regular accent.
 The place of the stress is decided by one simple rule:
 the last vowel of the word stem is stressed.
 It goes like this:  
-**haló'! mé vól lóge la bón dúnia báxe.**  
+**hálo! mé vól lóge la bón dúnia báxe.**  
 (_Hello! I want to speak the good world language._)
 
 Regular stress is easier to learn and more comfortable to use
@@ -518,6 +518,84 @@ adjective before the noun,
 relative clause after the noun
 and prepositions.
 
+
+#### How Pandunia compares to pidgins and creoles?
+
+Pidgins and creoles are _natural_ contact languages.
+Pandunia is a _constructed_ contact language.
+So the answer is no, Pandunia is not a real pidgin or a creole.
+However, it is characterized by many of the same features as pidgins and creoles.
+
+The following is a list of characteristic features of pidgins and creoles
+that apply for Pandunia too.
+
+1. Lack of grammatical complexity
+   - No definite or indefinite article
+   - Omission of the copula 'be'
+   - Tense, aspect, modality and negation are not part of the verb.
+   - Passive structures are not used.
+2. Lack of morphological complexity
+   - Nouns and pronouns are not inflected
+   - Verbs are not inflected and tense is marked by separate words
+3. Semantic transparency
+   - Meaning of a word can be determined from the meanings of the parts of which the word is built.
+4. Reduced vocabulary
+   - Multifunctional words
+   - All-purpose prepositions
+5. Simple phonology
+   - Avoid difficult sounds.
+   - Use mostly simple syllable structures.
+   - Prefer short words.
+   - Tone is not used to distinguish words.
+
+
+## Easy sentences
+
+In this section we will compare the sentence structures of Pandunia with English and Chinese,
+the two most widely spoken languages of the world.
+
+The normal sentence word order is subject–verb–object
+– just like in English and Chinese.
+
+    English:   I love you, and you love me.
+    Pandunia:  mi ama tu, tu ama mi.
+    Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
+
+The auxiliary verb **be** is used when the object of the action comes first in the sentence.
+(This is the so called passive sentence.)
+
+    English:   Apples were eaten.
+    Pandunia:  aple bei yam.
+    Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
+
+**bei** is a loan word from Standard Chinese,
+but it is also close to some uses of English "to be".
+
+    English:   It can not be eaten.
+    Pandunia:  ye no bil bei yam.
+    Chinese:   Tā bù néng bèi chī. (它不能被吃。)
+
+Like Chinese, Pandunia doesn't mark verbs with a word like "to".
+
+    English:   I invite him to drink coffee.
+    Pandunia:  mi cing ye yam kafe.
+    Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
+
+In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
+There's no plural ending like -s in English.
+Also verbs are not conjugated.
+One word, **si**, is used instead of
+_am, is, are, was, were..._
+
+    English:   It is an apple.
+    Pandunia:  ye si aple.
+    Chinese:   Tā shì píngguǒ. (他是苹果。)
+
+    English:   They are apples.
+    Pandunia:  yemon si aple.
+    Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
+
+ 
  
 ## World words
 
@@ -605,6 +683,14 @@ The list of source languages for general words:
 Normally a word appears in at least two of the source languages.
 In case there isn't a common word, partially similar words can be selected.
 Only in the last resort a word from only one language can be accepted.
+
+The figures below show how Pandunia words are distributed by source languages.
+
+![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
+Figure. Bar chart showing the percentage of words similar in the source languages and Pandunia.
+
+![](http://www.pandunia.info/grafe/asarprocente.png "Bar chart depicting influence distribution")  
+Figure. Bar chart showing distribution of influence from the main source languages to Pandunia.
 
 
 ### Example: Selecting the word for "language"
@@ -699,8 +785,8 @@ a normal PoS suffix.
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
 | 心 | **xim**       | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
-| 讀 | **duku**      | duk        | dú         | doku       | dok        | đọc        |
-| 出 | **cuta**      | cœt        | chū        | shutsu     | chul       | xuất       |
+| 讀 | **duge**      | duk        | dú         | doku       | dok        | đọc        |
+| 出 | **cute**      | cœt        | chū        | shutsu     | chul       | xuất       |
 
 Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, but it is nothing new
 – Sinitic words are already inflected in Korean!
@@ -909,51 +995,4 @@ and "admiral" (commander of the navy).
     - English "emir" and "admiral"
     - French "amiral" (admiral)
     - Russian "эмир" (emir)
-
-
-## Easy sentences
-
-In this section we will compare the sentence structures of Pandunia with English and Chinese,
-the two most widely spoken languages of the world.
-
-The normal sentence word order is subject–verb–object
-– just like in English and Chinese.
-
-    English:   I love you, and you love me.
-    Pandunia:  mi ama tu, tu ama mi.
-    Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
-
-The auxiliary verb **be** is used when the object of the action comes first in the sentence.
-(This is the so called passive sentence.)
-
-    English:   Apples were eaten.
-    Pandunia:  aple bei yam.
-    Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
-
-**bei** is a loan word from Standard Chinese,
-but it is also close to some uses of English "to be".
-
-    English:   It can not be eaten.
-    Pandunia:  ye no bil bei yam.
-    Chinese:   Tā bù néng bèi chī. (它不能被吃。)
-
-Like Chinese, Pandunia doesn't mark verbs with a word like "to".
-
-    English:   I invite him to drink coffee.
-    Pandunia:  mi cing ye yam kafe.
-    Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
-
-In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
-There's no plural ending like -s in English.
-Also verbs are not conjugated.
-One word, **si**, is used instead of
-_am, is, are, was, were..._
-
-    English:   It is an apple.
-    Pandunia:  ye si aple.
-    Chinese:   Tā shì píngguǒ. (他是苹果。)
-
-    English:   They are apples.
-    Pandunia:  yemon si aple.
-    Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
