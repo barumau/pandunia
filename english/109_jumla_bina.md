@@ -408,14 +408,14 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 – and (connects two similar words or phrases)  
 **o**
 – or (connects two alternative words or phrases)  
-**a**
+**ama**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
 **mi suka mau e vaf.**
 – I like cats and dogs.  
 **mi suka mau o vaf.**
 – I like cats or dogs.  
-**mi suka mau a no vaf.**
+**mi suka mau ama no vaf.**
 – I like cats but not dogs.
 
 
@@ -560,7 +560,7 @@ They function like adverbs, so typically their place is before the verb.
 
 **mi pas ha mau.**
 – I had cats.  
-**a mi no zai ha mau.**
+**ama mi no zai ha mau.**
 – But I now don't have cats.  
 **bil, mi xa ha mau.**
 – Maybe I will have cats.
@@ -569,7 +569,7 @@ It's also possible to say it in a longer way like **na pas zaman** (in the past)
 
 **mi ha mau na pas zaman.**
 – I had cats in the past.  
-**a mi no ha mau na zai zaman.**
+**ama mi no ha mau na zai zaman.**
 – But I don't have cats at present.  
 **bil, mi ha mau na xa zaman.**
 – Maybe I will have cats in the future.
