@@ -155,3 +155,47 @@ indicates that the event will take place later or in the future.
 **mi no _xa_ gul un bir.**
 – I will not drink a beer.
 
+
+
+## Prepositions
+
+In Pandunia, prepositions are words that function almost like verbs.
+They always take an object.
+
+**a**
+– at, on, by, next to, on the side of  
+**abe**
+– away  
+**de**
+– off, from  
+**do**
+– to, until  
+**ex**
+– out of, outside  
+**in**
+– in, inside  
+**kon**
+– with, together with  
+**pos**
+– after  
+**pre**
+– before  
+**pro**
+– for, forth, forward  
+**re**
+– back, back to  
+**tras**
+– beyond  
+**vise**
+– instead of
+
+**ye go in la dome.**
+– He/she went into the house.  
+**ye go ex la dome.**
+– He/she went out of the house.  
+**ye lai re la dome.**
+– He/she came back to the house.  
+**ye loge kon la xefe.**
+– He/she speaks with the boss.
+
+
