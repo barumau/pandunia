@@ -167,7 +167,7 @@ They always take an object.
 **abe**
 – away  
 **de**
-– off, from  
+– off, away from, from  
 **do**
 – to, until  
 **ex**

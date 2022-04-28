@@ -1,70 +1,37 @@
-# Pandunia–English dictionary
+# Pandunia–English word list
 
-This dictionary consists of words in Pandunia and their translations to English.
+This word list consists of words in Pandunia and their translations to English.
 The list is arranged in the alphabetical order by Pandunia base words.
 
 Each dictionary entry consists of a word or compound word in Pandunia and its translation to English.
 There is only one translation
-when the meanings of the word and its English translation are almost or completely the same.
+when the meaning of the word and the meaning of its English translation are almost or completely the same.
 
-> **aplə** - apple  
-> **aranə** - spider
+> aple - apple  
+> arane - spider
 
 When the Pandunia word can be translated in more than one way,
 the most common translation is first
 and it is followed by more specific translations inside parenthesis.
 
-> **chirə** - tear (rip, split)
+> chira - tear (rip, split)
 
 If there is more than one meaning,
 they are separated by the semicolon.
 
-> **ching** - ask (request, beg, plead; please)  
-> **hurə** - free (unbound; liberate)  
+> ching - ask (request, beg, plead; please)
 
-Most Pandunia words carry the multipurpose ending **-ə**.
-It can be easily changed to another ending as needed.
+Sometimes there are two entries of the same word.
 
-#### Example 1. *logə*
+> **huru** - free (unbound)  
+> **fa huru** - free (liberate)
 
-The following is an actual entry from the dictionary.
-
-> **logə** - say (speak, talk; speech, words)
-
-It serves as the basis for other words,
-which are listed below
-and which are not included in this dictionary.
-
-> **loga** - to talk, to speak  
-> **logu** - to talk, to speak  
-> **loge** - words, speech  
-> **logi** - spoken, oral  
-> **logo** - by speech, orally
-
-#### Example 2. *luna*
-
-Some word stems end in a full vowel.
-Here is one example.
-
-> **luna** - moon (lunar)
-
-It serves as the basis for the following list of additional word forms,
-which are not included in this dictionary.
-
-> **luna'** - moon  
-> **luna'i** - lunar
-
-The apostrophe is there to indicate that the vowel is part of the word stem
-and not a word class marker.
-
-#### Example 3. *mi*
-
-This dictionary includes also some frequently used words
-that include a dedicated word class marker
-other than the multipurpose ending **-ə**.
-
-> **me** - I  
-> **mi** - my
+The entry with **fa** is there only for including the verbal translation in English.
+Pandunia words are multipurpose words that can be used as verbs, adjectives, nouns and adverbs.
+Therefore it is normally enough to use only the main word of the dictionary entry in sentence contexts
+and the auxiliary verb **fa** can be left out.
+For example, **mi huru yemon** is the proper way to say 'I free them' or 'I liberate them'.
+The sentence **mi fa huru yemon** would mean the same thing but it would include the superfluous word **fa**.
 
 ---
 

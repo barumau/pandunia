@@ -1,1829 +1,1840 @@
 # france–pandunia
-a (dans, en, chez) - na  
+a (dans, en, chez) - a  
 
 ## A  
 
-abaque (boulier compteur) - lulu table  
-abattoir - bucha kan  
-abattre - bucha  
-abeille ou guêpe - fong  
-Abkhazie - Apsni  
-aborigènes australiens - asal Australia jen  
-abricot (prune) - briko  
-Abyssinie - Habasha  
-acacia faux-gommier - helis babul  
+abattoir - bucokan  
+abattre - buce  
+abeille ou guêpe - vespe  
+Abkhazie - Apsua  
+aborigènes australiens - aslaustrale  
+abricot - barkoke  
+acacia faux-gommier - helisbabul  
 acarien - akare  
-accent - bari fon  
-accessible (atteignable, à portée) - ten bil  
-accomplir (terminer) - pul fina  
-accord - sam rai  
-accès - jin lai  
-acheter - fa shopi  
-acte (action) - karma  
-actif - karma ja di  
-actinium - acini yum  
-activer (allumer, mettre en marche, déclencher) - fa karma  
-actuel (courant) - zai zaman di  
-acéphale (sans tête) - sar hin  
-adapter (ajuster) - fa hapu  
-addition (facture) - fatura  
-adhésif (collant) - glu di  
-adjectif - sifa loga  
-administrateur - politi ja  
+accent - baloton  
+accepter - acepe  
+accomplir (terminer) - purfine  
+accord - samrayia  
+accorder - atone  
+accès (accéder) - acese  
+acheter (shopping) - xope  
+acte - ate  
+actif (activer, allumer, mettre en marche) - ative  
+actinium - acinium  
+action - ation  
+adapter (ajuster) - hape  
+adjectif - sifloge  
+administrateur - politer  
 adresse - adres  
-adulte - matur jen  
-Afghanistan - Afghan  
-Afrique - Afrika  
-agent (faiseur) - karma ja  
-agent pathogène - pati jene she  
+adulte - matur  
+adversaire (antagoniste, ennemi) - xatan  
+afghan - afgani  
+Afghanistan - Afgania  
+africain - Afrikan  
+Afrique - Afrike  
+afrophile - afrikofiliste  
+afrophilie - afrikofilia  
+agent (faiseur) - ater  
+agent pathogène - patogener  
 agile - agile  
-agresseur - agresi ja  
-agressif - agresi tabi  
-agression (attaque) - agresi  
-agricole - nong di  
-agrobiologie - nong bio logi  
-agronomie - nong nomi  
-aide (secours) - mede  
+agresseur - agreser  
+agressif - agresive  
+agression (attaque; agresser, attaquer) - agrese  
+agrobiologie - agrobiolojia  
+agronomie - agronomia  
 ail - lasun  
+aile - panke  
+aimer (amour, affection; cher) - ame  
 air - air  
-aire (superficie) - fase area  
+aire (superficie) - ar  
 Alaska - Alaska  
 alcool - alkol  
-alcoolique - alkol di  
 algue - alga  
-algues - hai alga  
-algues brunes - kafe alga  
-Algérie - Jayer  
-aller - ga  
-aller-retour - retro tikete  
-alligator - korte krokodil  
-allophone - alo fon  
-allô - halo  
-alphabet - zi sili  
-alumine (oxyde d'aluminium) - alumin okside  
-aluminium - alumin  
-alun - alumin mate  
+algues - haialge  
+algues brunes - brunalge  
+Algérie - Zayeria  
+aller (quitter) - kite  
+aller-retour - retrotikete  
+alligator - kortokrokodil  
+allophone - alofon  
+allô - halou  
+alphabet - harfia  
+alpiniste - montaner  
+alumine (oxyde d'aluminium) - aluminokside  
+aluminium - aluminium  
+alun - aluminmate  
 amande - badam  
-amateur - hobi ja  
-amer - kali guste  
-Amhara (groupe ethnique et langue éthiopienne) - Amara  
-amie - dosti  
-amiral - hai amir ja  
-amour (affection) - ama  
-amoureux - ama ja  
+amateur - amater  
+amer - alkaloguste  
+Amhara (groupe ethnique et langue éthiopienne) - Amare  
+amiral - haiamirer  
+amoureux - amer  
 ampoule (fiole) - ampul  
 ampère - amper  
-américain - Amerika di  
-américium - amerika yum  
-amérindien (indien) - asal Amerka jen  
-Amérique - Amerika  
-an (année) - nen  
-anal - anus di  
-analyse - fen gata  
-analyser - fa fen gata  
-anaérobique - an air bio di  
-anchois - anchovi  
+américain - amerikan  
+américium - amerikium  
+amérindien (indien) - aslamerike  
+Amérique - Amerike  
+analyse (analyser) - fenkate  
+anaérobique - anairobike  
+anchois - ancovi  
 ancre - angar  
 Andes - Andes  
 Andorre - Andora  
 andésite - andesite  
-anglophone - english fon di  
+anglophone - englofone  
 Angola - Angola  
 animal (bête) - zou  
-animation - anime  
-animer - fa anime  
+animer (animation) - anime  
 anis - anis  
 anneau - ring  
-Antarctique - Antartika  
-antenne - antena  
+anormal (inhabituel) - annorme  
+Antarctique - Antartike  
+antenne - anten  
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
-antimoine - estibi yum  
-antonyme - an nam  
-anus - anus  
-août - mes bati  
-appartenir à - be mal  
-application - aplika  
-appliquer - fa aplika  
-apporter - fa lai  
-apprendre (étudier) - fa shula  
-apprivoiser (dresser, dompter, discipliner) - fa dosil  
-approprié (adapté, convenable, opportun) - hapu  
-arabe - arabi  
-arachnophobie - arane fobi  
+antimoine - stibium  
+antonyme - antinam  
+antonyme - antonam  
+anus (anal) - anus  
+août - batolun  
+apogée - abogee  
+appartenir à - be male  
+appendre - apende  
+appliquer (application) - aplike  
+apporter - laiane  
+apprendre (étudier) - xule  
+apprivoiser (dresser, dompter, discipliner) - dosile  
+approcher - aprose  
+approprié (adapté, convenable, opportun) - hape  
+arabe - arabe  
+arachnophobie - aranofobia  
 araignée - arane  
-arboretum, pépinière - moka jong parke  
-arbre - moka  
-arc - arka  
-arc-en-ciel - rang arka  
-Arche d'Alliance - liga di sanduku  
-arche de Noé - Noe di nave  
-archer - arka ja  
-architecte - bina plan ja  
-architecture - bina plan  
-arctique - Artika  
+arboretum, pépinière - mokozongoparke  
+arbre - moke  
+arc - arke  
+arc-en-ciel - rangarke  
+archer - arker  
+architecte - binoplaner  
+architecture - binoplania  
+arctique - Artike  
 argent - argente  
-argent - pesa  
-Argentine - Argentina  
-argile - glu fan  
+argent - pese  
+Argentine - Argentin  
+argile - glutofan  
 argon - argon  
-arguer - fa argu  
-argument - argu  
+argument - argum  
 argument - tese  
 arme - arme  
-armure - defa kaske  
+armure - defkaske  
 armée - gun  
-armée de l'ai - air gun  
-arobase (@) - adres zi  
-arrêt de bus - bus halte  
-arsenic - arsen yum  
-art - suta  
-artichaut - karchof  
-artiste - sundar suta ja  
+armée de l'ai - airogun  
+arobase (@) - adresoharfe  
+arsenic - arsene  
+art - arte  
+artefact - artofete  
+artichaut - karcof  
+artiste - artiste  
 Artsakh - Arcah  
 Aruba - Aruba  
-arène - arena estade  
 ascète - askete  
-asexué - an sekse di  
-asiatique - asia  
+asexué - ansekse  
+asiatique - ase  
 Asie - Asia  
+aspirine - aspirin  
 assez - bas  
-Assur - Ashur  
-Assyrie - Ashur desha  
-astate - astatin  
+Assur - Asur  
+Assyrie - Asuria  
+astate - astatium  
 asthme - asma  
-astre (corps céleste) - astro  
-astrobiologie - kosmo bio logi  
-astronaute - astro nave ja  
-astronef - astro nave  
-astronome - astro nomi ja  
-astronomie - astro nomi  
+astre (corps céleste) - astre  
+astrobiologie - kosmobiolojia  
+astronaute - astronaver  
+astronef - astronau  
+astronome - astronomer  
+astronomie - astronomia  
 Athènes - Athina  
-athée - an deu sim ja  
+athée - andeviste  
 atome - atom  
-attaquer (agresser) - fa agresi  
-aubergine - bedinjan  
+aubergine - bedinge  
+augmenter - auge  
 Australie - Australia  
-Austronésie - Austronesi  
-autel - puja meza  
-autocollant - glu grafi  
-automne - pade mosim  
-autre - alo  
-autrement - alo di  
-avant - chen  
-avec - va  
+Austronésie - Austronesia  
+autel - puzomeze  
+autocollant - glutograf  
+automne - padomosim  
+autopsie - nekrotome  
+autre (changer) - ale  
+avant - cene  
+avec (avoir) - ya  
 aventure - ventur  
-aventurier - ventur ja  
+aventurier - venturer  
 avis (opinion) - rai  
 avocat - avakate  
-avoine - ave  
-avoir - ha  
+avoine - aven  
+avoir besoin de - yavu  
+avoir tendance à - ive  
 axe - akse  
-Azerbaijan - Azerbaijan  
+Azerbaijan - Azerbaizan  
 azote - nitre  
-azur - lazur  
-aérobique - air bio di  
-aéroport - air porte  
-aïe! - ayo  
+azur - lazure  
+aérobique - airobike  
+aéroport - airoporte  
+aïe! - ai  
 
 ## B  
 
-babord - nave lefte  
-backgammon - nardi  
+babord - naulefte  
+backgammon - narde  
 bagage - bagaje  
+baguette - dikobaton  
 bah - bah  
-baie (golf) - baya  
+baie (golf) - bai  
 baie - beri  
-bain - banya  
-baisser - fa tal  
-balai - jaru  
-balance (poids) - veze metre gi  
-balcon - veranda  
+bain (bagner) - banya  
+baisser - tale  
+balance (poids) - vezometrer  
+balcon - beranda  
 balle (boule) - bol  
 ballon - balon  
-bambou - bambu  
-banane - banana  
-bande - banda  
-bande dessinée - grafi kata  
-Bangladesh - Bangla desha  
-banque - banka kan  
-banquier - banka shefe  
+bambou - banse  
+banane - banan  
+bande - bande  
+bande dessinée - grafosage  
+Bangladesh - Banglodes  
+banque - banke  
+banquier - banker  
 Barbade - Barbados  
 barbare - barbar  
 barbe - barde  
 Barbuda - Barbuda  
-baromètre - air presa metre gi  
-barrière - bara mur  
-baryum - bari yum  
+baromètre - airbarmetrer  
+barrière - bare  
+baryum - barium  
 bas - tal  
-bas - tal di  
-base (alcali) - kali  
+bas - tale  
+base (alcali; basique) - alkale  
 base - baze  
-base de données - data banka  
+base de données - datobanke  
 baseball - baze bol  
-basique - kali di  
 basketball - baske bol  
 bassin - basen  
-bateau - nave  
-beau - sundar  
-beau-père - gami pa  
-beauté - sundar ta  
-belle-mère - gami ma  
-bengali - bangla basha  
-berceau - lala bede  
-berceause - lala chanta  
-berkélium - berkli yum  
-besoin - yau ta  
+bateau - nau  
+beau - mei  
+beau-père - gamopa  
+beauté - sundaria  
+belle-mère - gamoma  
+bellicisme - belikisme  
+belligérant - belente  
+belliqueux - belike  
+bengali - bangle  
+berkélium - berkelium  
+besoin - yau  
 betterave - bete  
-betterave à sucre (betterave sucrière) - sukar bete  
-bibliothèque - kitabu kan  
+betterave à sucre (betterave sucrière) - sukarbete  
+bibliothèque - kitabokan  
 bicyclette - sikle  
-bidonville - harabu mahala  
-bien-être - salam ta  
-bilingue - du basha di  
+bien-être - salamia  
+bilingue - dubaxiste  
 billet - tikete  
-biologie - bio logi  
-biome - bio sistem  
-biscuit - biskute  
+biologie - biolojia  
+biome - biosistem  
 bismuth - bismute  
-bizarre - guai  
 bière - bir  
-blanc - baku  
+blanc - bake  
 blettes (bettes) - selge  
-bleu - blu  
-bloquer - bara  
+bleu - nile  
+bloquer - tape  
 blé - ganum  
-bohrium - bor yum  
-bombe - bomba  
+bohrium - borium  
+bombe - bombe  
 bon - bon  
-bonbon - kandi  
-bord - kinar  
 boron - boron  
-botanique - fito logi  
-botte - buta  
-boucher - bucha ja  
-bouclire - defa bano  
+botanique - fitolojia  
+botte - bute  
+boucher - bucer  
+bouclire - defoban  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - fan  
-bouh! - bu!  
-boulanger - baka ja  
-bouleau - betula  
+boulanger - beker  
+bouleau - berze  
 bout (pointe, pic) - pike  
-bout de doigt - angul pike  
+bout de doigt - angulpike  
 bouteille - botel  
 bouton - buton  
 boxe - bokse  
-boxeur - bokse ja  
-bras - hande shaka  
-brave - bravo  
+boxeur - bokser  
+bras - handoxake  
+brave - brave  
 bravo! - bravo  
-brigand (bandit) - luta ja  
+brigand (bandit) - luter  
 brique - dobe  
-brochette - shish  
-brome - brom  
-brosse - brosha  
-brosse à cheveux - kesha brosha  
-brun (marron) - kafe rang  
-brûler - fa hogo  
-buisson - tal moka  
-bureau (office) - buro  
-bureaucratie - buro krati  
+brochette - sis  
+brome - bromium  
+brun (marron) - brune  
+brûler - hoge  
+budget - bugete  
+buisson - tali moke  
+bureau (office) - bure  
+bureaucratie - burokratia  
 but (destination) - gol  
-bâtiment - bina  
-bâton (canne, tige) - kane  
+bâton (canne, tige) - baton  
 bébé - bebe  
-bédouin - badavi  
-béryllium - beril yum  
-bêche (pelle) - bagi bele  
-bûche - moka tana  
+bédouin - badave  
+béryllium - berilium  
+bûche - mokotan  
 
 ## C  
 
-cacher - fa sir  
-cachet de la poste - posta marke  
+cacher - sire  
+cachet de la poste - postomarke  
 cactus - katus  
-cadavre (corps) - mata badan  
-cadenas - pende sor  
-cadmium - kadim yum  
+cadmium - kadium  
 cadre - frem  
 cafetière - kafe pote  
 café - kafe  
 café - kafe kan  
-cage - kane kasa  
-caillou - lili seku  
-calame - gana kalam  
-calcaire - kalsi petra  
+cage - batonkapse  
+caillou - lilseke  
+calcaire - kalsopetre  
 calcite - kalsite  
-calcium - kalsi yum  
-calculer - fa hisabu  
-calendrier - kalenda  
-caleçon - bokse pante  
-calife - halifa  
-californium - kaliforni yum  
+calcium - kalsium  
+calculer - hisabe  
+calendrier - kalende  
+caleçon - bokserpante  
+californium - kalifornium  
 calmar (encornet, calamar) - kalmar  
-calme (tranquille) - shanti di  
+calme (tranquille) - sante  
 Camomille Romaine - roma kamil  
 Camomille sauvage - kamil  
+canapé (sofa) - kanape  
 canapé (sofa) - sofa  
-canevas (toile) - pente tela  
-canne - gana  
-canne à pêche - huke lin kane  
 canne à sucre - sukar gana  
-canon - dai pau  
+canon - daipau  
 canoë - kano  
-Cantalupo in Sabina - Kantalupo va Sabina  
+Cantalupo in Sabina - Kantalupo va Sabine  
 canyon (ravin) - kanyon  
-capacité (pouvoir, habileté) - bil ta  
 cape - mantol  
-caractère - zi  
 carapace (coquille, coquillage, croûte) - kaske  
-carat - kirate  
-Caraïbes - Karibe  
-carbone - karbon  
-cardon - kardon karchof  
+Caraïbes - Karaibia  
+carbone - karbe  
+cardon - kardonkarcof  
 carotte - karote  
 carreau (tuile) - tail  
-carrière - pei gong jiva  
-carte (graphique) - metre grafi  
-carte (plan) - topo metre grafi  
-carte - karte  
-carte à collectionner - jama karte  
-cartographie - metre grafi suta  
-cauri - kauri  
-ce...ci - ni  
-ce...lá - go  
-cent (100) - sento  
-Centaurée - sentaure  
-Centaurée bleuet - blu sentaure  
-Centaurée du solstice - sol sentaure  
-centenaire - sento nen di  
-centre - jong  
-cerise - cheri  
-cerveau (cervelle) - nau  
-chachlik - shish nama  
-chaise à bascule (berçante) - roke kursi  
-chambre à coucher - sona kamar  
-Champagne - shampan  
-champagne - shampan vin  
-champignon - fungu frute  
-chance - chanse  
-changement climatique - klima mute  
-changer - fa alo  
+carrière - peikari ziu  
+carte - karde  
+carte - metrograf  
+carte de crédit - krede karte  
+carte à collectionner - zamokarde  
+cartographie - metrografia  
+cascade (chute d'eau) - suipade  
+cent (100) - cente  
+Centaurée - centaure  
+Centaurée bleuet - nilcentaur  
+Centaurée du solstice - solocentaur  
+centre - zung  
+cerise - cerize  
+chachlik - sismanse  
+chambre à coucher - somokamar  
+Champagne - sampan  
+Champagner - sampan vin  
+champignon - fungopal  
+chance - canse  
+changement climatique - klimomute  
+chanter (chanson) - cante  
 chapitre - babu  
 chardon - kardon  
-chardon aux ânes - pin kardon  
-chardon Marie - milke kardon  
-chardon penché - pende kardon  
-charge (fardeau, poids) - karga  
-charger - fa karga  
-charme - charme  
-chasser - fa saide  
+chardon aux ânes - pinkardon  
+chardon Marie - milkokardon  
+chardon penché - pendokardon  
+charge (fardeau, poids) - karge  
+charme - carme  
+charnière - xarnir  
+chasser - yege  
 chat - mau  
-chaudron - dai pote  
-chauve - sar kesha hin  
-chauve-souris - fei mushu  
-chaux - kalsi mate  
-chef - shefe  
-chemise - kamisa  
-cher - ama di  
-chercher - soki  
-cheveux - sar kesha  
+chaudron - daivaze  
+chauve-souris - feimus  
+chaux - kalsomate  
+chef - xefe  
+chemise - kamis  
+chercher - soge  
+chewing-gum - cuvogom  
 chien - vaf  
-chiisme - shia islam din  
-chimie - kimi logi  
-Chine - Jongoku  
-chlore - klor  
-chocolat - choklate  
-chose - she  
-Christ (messie) - mesi  
-chrome - krom yum  
-chronique - dur di  
-chronomètre - dur metre gi  
-chu - pade di  
-chéri - ama jen  
-chêne - baluta  
-chêne pédonculé - europa baluta  
-chœur - chanta grupe  
-ciel - sama  
-ciffre - nomer zi  
+chimie - kimolojia  
+Chine - Zungogia  
+chlore - klorium  
+chocolat - coklate  
+chose - xei  
+chrome - kromium  
+chronique - durike  
+chronomètre - durometrer  
+chéri - amike  
+chêne - balute  
+chêne pédonculé - europobalute  
+chœur - cantergrupe  
+ciel - ten  
 cigarette - sigar  
-cime (pic, sommet) - san pike  
-cimetière - gabur bagi  
-cinq (5) - lima  
-cirse commun - pero kardon  
+cime (pic, sommet) - pike  
+cimetière - gabrostan  
+cinq (5) - lime  
+cinéphile - kinofilike  
+cirse commun - perkardon  
 citron - limon  
 citronnade - limon jus  
-citrouille - kaboga  
-clair - klar  
-classique (canon) - kanon  
-clef - chabi  
+citrouille - kaboge  
+civil - civile  
+civique - civike  
+clair - klare  
 client - klien  
-cloche - dang gi  
+cloche - danger  
+clown (paillasse) - payace  
 cobalt - kobalte  
-coeur - kerne  
-collaborer - kon gong  
-coller - fa glu  
-colorant - rang mate  
-combava - karse limon  
-comment - ke riti  
-commerce - vende shope  
-compassion - sam emos  
-complot (conspiration) - sir plan  
-comportement (manière) - manera  
-compost - bio sana she  
-compote de pommes - aple sos  
-comprendre (réaliser) - aha  
-compte - hisabu loge  
+coeur - kore  
+collaborer - konkare  
+coller - glute  
+colorant - rangomate  
+combava - karsolimon  
+comique - komi  
+comment - ko?  
+commercer - vendosope  
+commission (comité) - konmisia  
+comparer - konpare  
+compassion - samemos  
+compatriote - konpatrian  
+complot (conspiration) - sirplan  
+comportement (manière) - manir  
+compost - biocaniver  
+compote de pommes - aplesaus  
+comprendre (réaliser) - ahe  
+comédie - komodia  
 concert - konserte  
 concombre - hiyar  
-concombre confit (cornichon) - achar hiyar  
-concombre de mer - hai hiyar  
-conseil - sel  
-conseiller - fa sel  
-considérer - hem  
-construire - fa bina  
-consultant (conseiller) - kon sel ja  
-conte de fées - pari kata  
-conteneur - in ten gi  
-continu (analogique) - zoku di  
-continuer (poursuivre, encore) - zoku  
-contract (traité) - trati  
-convenir (être approprié) - be hapu  
-convention (alliance, pacte) - kon trati  
-copernicium - koperni yum  
-copie - kopi  
-coquelicot - medan papi  
-corail - koral  
-corde - kable  
+concombre confit (cornichon) - suanpursipi hiyar  
+concombre de mer - haihiyar  
+conjonction - juntolexe  
+conjugaison - konyuge  
+connecter - konnete  
+connecteur - konnetor  
+connexion - konnetion  
+conseil (conseiller) - sele  
+considérer - heme  
+construction - konstrution  
+construire - bine  
+construire - konstrute  
+consultant (conseiller) - konseler  
+contact - kontate  
+conteneur - intener  
+conteneur - kontener  
+continu (analogique) - undure  
+continuer (poursuivre) - dura  
+contract (traité) - trete  
+contract (traité) - kontrate  
+convenir (être approprié) - hapu  
+convention (alliance, pacte) - kontrete  
+copernicium - kopernikium  
+copie - kope  
+coquelicot - medenpapil  
+coral - biu  
 corne - korne  
-corps - badan  
-correct (juste) - sahi  
-cosmique - kosmo di  
-cosmonaute - kosmo nave ja  
-cosmos - kosmo  
+corps - bode  
+correct (juste) - sahe  
+cosmique - kosme  
+cosmonaute - kosmonaver  
+cosmos - kosmia  
 coton - goton  
-cou (encolure, nuque) - nuka  
-couch (couchette) - kush loka  
-coucher - fa kush  
+cou (encolure, nuque) - nuke  
+couch (couchette) - kusloke  
+coucher - kuse  
 coucou - kuku  
-coude - kudi  
-coudée - kudi metre  
 couguar (puma) - puma  
 couleur - rang  
-coupe (tasse, verre) - kupa  
-courbe - kurva  
-coureur - kore ja  
-courgette - lili kaboga  
+coupe (tasse, verre) - kupe  
+coureur - korer  
+courgette - lilkaboge  
 courir - kore  
-couronne - korona  
-cousin - chin brus ben  
-coutume - ada  
-couvrir - fa daka  
+couronne - koron  
+cousin - cinbrusben  
+couteau - caku  
+coutume (ordinaire, habituel, normal) - ade  
+couvrir - dake  
 crabe - krabe  
-craindre (avoir peur) - be fobi  
-cravache - uma bichi  
-crayon - karbon kalam  
-creuser - fa kave  
-crevette - gamba  
+creuser - kave  
+crevette - krevete  
 cristal - bilor  
 crochet - huke  
-crocodile - long krokodil  
+crocodile - longokrokodil  
 crocodilien - krokodil  
-croissant - kruasan  
+croissant - kruasante  
 croix - krus  
-croque-mitaine - bubu  
-croyant - din ja  
+croyant - diniste  
+croyant - krediste  
 crème - krem  
-crème glacée - ais krem  
-crêpe - france krepe  
+crème glacée - aiskrem  
+crêpe - fransi krepe  
 crêpe - krepe  
-crêperie - krepe kan  
+crêperie - krepokan  
 cube - kube  
-cuiller - chamacha  
-cuillère à café (petite cuillère) - chai chamacha  
+cuiller - camaca  
 cuivre - kupre  
-cultiver - nong  
-culturisme (musculation) - muskul bina  
-curium - kuri yum  
-curry - kari  
-cycliste - sikle ja  
-cytologie - selu logi  
-célérité - sir ta  
-cérium - ceres yum  
-cérébral - nau di  
-césium - cesi yum  
-cône - kone  
-côte - hai kinar  
+cultiver - agre  
+culturisme (musculation) - muskulbin  
+curium - kurium  
+cycliste - sikliste  
+cytologie - celolojia  
+célérité - siri mote  
+cérium - ceresium  
+césium - cesium  
+cône - konus  
+côte - haitate  
 côté - late  
 
 ## D  
 
 dance - danse  
-dandélion - makan hua  
-danger - hatar  
-danois - Danske  
-dans le sens antihoraire - rota lefte  
-darmstadtium - darmestadi yum  
+dandélion - makanful  
+danger - hatre  
+danois - dane  
+dans le sens antihoraire - rotolefto  
+darmstadtium - darmositium  
 dauphin - dolfin  
-de - ze  
-demain - pos den  
-demander (poser un question; est-ce que) - fa sual  
-dessous - niche  
-destin - kisma  
+de - za  
+demain - posdeno  
+demander (question) - sual  
+dent - dante  
+dessous - nice  
+destin - nasibe  
 deux (2) - du  
-devoir - mus  
-diamant - almas  
+devoir - debu  
+diagonale - diagone  
+diamant - adamas  
+dichotomie - duotome  
+dictateur - ditater  
+dictature - ditateria  
+dicter - dite  
+diction - dition  
 dieu - deu  
-différence - alo sifa  
-différent - alo sifa di  
-dimanche - var cheti  
+différence - alosifia  
+différent - alosife  
+dimanche - cetyom  
 dinde (dindon) - dinde  
-dinosaure - dino saur  
 diorite - diorite  
-dioxyde de carbone - karbon duokside  
-directeur (principal) - shula shefe  
-dirigeant (leader) - lida ja  
+dioxyde de carbone - karbodulokside  
+diplôme de master - master  
+directeur (principal) - xulxefe  
+dirigeant (leader) - lider  
 disque - diske  
-distinct - alo fen di  
-diverger (ne pas être d'accord) - fa alo rai  
-divers (plusieurs) - vari  
-dix (deca-) - des  
-docile (insipide) - dosil  
-document (dossier) - dokumen  
-documentaire - dokumen filme  
-domestique - dom di  
-domestiquer (apprivoiser) - fa dosil jene  
-domestiqué (apprivoisé) - dosil jene di  
+distinct (numérique) - feni  
+distraire - distrate  
+diverger (ne pas être d'accord) - aloraye  
+divers (plusieurs) - vare  
+docile (insipide) - dosile  
+doctrine - dokaje  
+document (dossier) - dokum  
+documentaire - dokumfilme  
+domaine - dominia  
+domestique - domike  
+domestiquer (apprivoiser) - dosilgenite  
+domestiqué (apprivoisé) - dosilgene  
 dommage - avar  
-donner naissance (procréer, engendrer, accoucher) - fa jene  
-données - data  
-dormir - be sona  
-douche - dush  
-drapeau - bandera  
-droit (rectiligne) - orto  
-droit - haki  
-droits de l'homme - insan haki  
-dubnium - dubna yum  
-dur - gati  
-durer - be dur  
-durée - dur  
+données - date  
+dormir (sommeil) - some  
+double - duple  
+douche - duce  
+douteux (dubitatif) - sankable  
+drapeau - bandir  
+drogue (narcotique,dope) - narke  
+droit (rectiligne) - orte  
+droit - hake  
+droits de l'homme - human hake  
+dubnium - dubnium  
+dur - gate  
+durer (se passer; durée) - dur  
 dynamite - dinamite  
-dysprosium - disprosi yum  
-dé - zar kube  
-déboguer (débugger) - fa an galte  
-début (commencement) - shuru  
-décapé (mariné) - achar di  
-décharge - laji bagi  
-déchirer - chira  
-défigurer - fa dus forma  
-délai (retard) - dele  
-désaccord (différend) - alo rai  
-désespéré - asha hin  
-dévanagari - deu nagar zi  
-développement - darja mute  
+dysprosium - disprosium  
+dé - zarkube  
+déboguer (débugger) - degalte  
+début (commencement) - sur  
+décapé (mariné) - acari  
+déchirer - cire  
+défigurer - dusforme  
+dénoncer (annoncer la fin d’un accord) - denunce  
+désaccord (différend) - alorayia  
+désert - sablostan  
+désigner - desinye  
+détruire - destrute  
+dévanagari - deunagre  
+développement - dargomute  
+dévoiler (révéler) - devele  
 
 ## E  
 
 east (orient) - dong  
 eau - sui  
-effectuer - fa asar  
-effet - asar  
-effrayant - fobi ja  
-effrayer - fa fobi  
-einsteinium - einstein yum  
+effet (effectuer) - asar  
+effet - exfete  
+effrayant - fobante  
+einsteinium - ainstainium  
 elfe - elfe  
-empreinte de pied - fute marke  
-empreinte digitale - angul marke  
-empruntre - jeka deku  
+empreinte de pied - futomarke  
+empreinte digitale - angulmarke  
+empruntre - zekogete  
 en arrière - retro  
-en avant - do jin  
-en ligne - na lin  
-enclume - metal bede  
-encre - kalam sui  
-enfant - bacha  
-ennemi - dus jen  
-enregistrement - loge  
-enseigner - gio  
-ensommeillé (somnolent) - sona tabi  
-ensuite (après, plus tard, ir a, en el futuro) - na pos  
-entonnoir - dara tubo  
-entrer - be in  
-envelopper (emballer) - fa lifafa  
-erbium - erbi yum  
-erroné - galte di  
-escroquer - fa truke  
-espace (zone, région) - area  
-espace - hali zi  
-espectador - vide ja  
-esprit (génie) - jini  
+en avant - proo  
+en ligne - a line  
+enclume - metalbede  
+encore - duro  
+endogène - ingene  
+enfant - bace  
+ennemi - anamike  
+ennemi - dusojen  
+enseigner - xulane  
+ensommeillé (somnolent) - somive  
+ensuite (après, plus tard, ir a, en el futuro) - poso  
+entonnoir - darotube  
+entrer - intru  
+entrer en éruption - exrute  
+envelopper (emballer) - lifafe  
+erbium - erbium  
+escroquer - truke  
+espace (zone, région) - aria  
+espace - kali harfe  
 estrade - tai  
 et - e  
-ethnie - zuku  
-ethnique - zuku di  
-Europe - Europa  
-europium - europa yum  
-européen - europa di  
-excaver - fa vai kave  
-exclure - fa vai klus  
-exclusif - vai klus di  
-exoplanète - vai planete  
-exploser (détoner) - be bum  
+ethnie (ethnique) - zuke  
+Europe - Europe  
+europium - europium  
+européen - europe  
+exact (précis) - juste  
+excaver - exkave  
+exclure - exkluze  
+exclusif - exkluzive  
+exoplanète - explanete  
+expatrié - expatrian  
+exploser (détoner; explosion) - exploze  
 explosion - bum  
-exposer - vai poze  
-extraire - fa vai trata  
-extérieur - vai  
-exécrer - an ama  
+exposer - expoze  
+exposer - expoze  
+expulser - expele  
+extraire - extrate  
+extrajudiciaire - exyude  
+extérieur - exe  
+exécrer - aname  
 
 ## F  
 
-fable - zou kata  
 face (facette) - fase  
-facile - fasil  
-faction (clique) - shia  
-faible - debil  
+facile - fasile  
 faible - mirde  
-faim - yam yau  
-faire - fa  
-faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen shin  
-fait - fate  
-fanal (balise) - foto minar  
+faible - anbale  
+failli - bankorute  
+faillite (banqueroute) - bankorutia  
+faim - yamyau  
+faire (fait) - fete  
+faire - fe  
+faiseur (facteur) - feter  
+fait (faiture) - feture  
+fanal (balise) - fotominar  
 fatigue - fatige  
-faute (erreur) - galte  
-favori (préféré) - mas fili di  
-favoritisme - mas fili sim  
+faute (erreur; erroné) - galte  
+favori (préféré) - profilaje  
+favoritisme - profilisme  
 fente (fissure, fêlure) - krake  
-fenêtre - janela  
-fer - fero  
-fermenter - be bio mute  
-fermium - fermi yum  
-feu - hogo  
-feu d’artifice - hogo tehni  
-feuille - yepa  
-fiable (de confiance, fidèle, sûr, crédible) - amen shin di  
-fibre - lin so  
-fil de fer - metal lin  
-fil de trame - vei lin  
+fenêtre - zanel  
+fer - fer  
+fermenter - biomute  
+fermer - kluze  
+fermium - fermium  
+feu - hoge  
+feu d’artifice - hogotehne  
+fibre - linem  
+ficher (fixer) - fixe  
+fier - yausine  
+fil de fer - metallin  
+fil de trame - veilin  
 fils ou fille - ben  
-fini - fin di  
-finir - fa fin  
+fin - fin  
 fiord - fiorde  
-fleur - hua  
-fluor - flur  
-flèche - fleche  
-flérovium - flerof yum  
-foie - gani  
-foin - gan gazo  
+fleur - ful  
+flotter - boi  
+fluor - flurium  
+flèche - flece  
+flérovium - flerovium  
+foie - hepate  
+foin - gancau  
 fois - mar  
-fondu - yung safa  
-football - fute bol  
-force - lika  
-force navale (marine) - hai gun  
-forer (percer) - fora  
-former - fa forma  
-fort - burge  
-forêt (jungle) - jangal  
-forêt de kelp - alga jangal  
+fondu - exfuze  
+football - futobol  
+force - balia  
+force navale (marine) - haigun  
+forer (percer) - fore  
+forme (former) - forme  
+fort - bale  
+forêt (jungle) - jangle  
+forêt de kelp - algajangle  
 fosse - kave  
-fossé (canal, tranchée) - kanal  
-fouet - bichi  
 fougères - parne  
-fourmi - murche  
-fragment - parche  
-frais - taza  
-francium - france yum  
-francophone - france fon di  
-francophonie - France fon dunia  
-fromage - chize  
+fourmi - murce  
+fragment - parce  
+frais - taze  
+francium - fransium  
+francophone - fransofone  
+francophonie - Fransofonia  
+fromage - cize  
 fromage blanc - panir  
-fruit - frute  
 frêne - yasen  
-fée - pari  
-Félicitations ! - barka  
-féliciter - fa barka  
+féliciter (felicitation) - barke  
 
 ## G  
 
-gadolinium - gadolin yum  
-galaxie - galaksi  
-gallium - gali yum  
+gadolinium - gadolinium  
+galaxie - galaksia  
+gallium - galium  
 galop - galope  
-garde-boue (aile) - fan defa bano  
+garde-boue (aile) - fandefban  
 gaufre - vafle  
 Gaule - Galia  
 gaz - gas  
-gaz lacrymogène - yen sui gas  
+gaz lacrymogène - okosuigas  
+gaze - gaze  
 gazelle - gazel  
-geler (glacer) - be ais  
-genou - guta  
-genre grammatical - basha jinse  
-geographie - geo grafi  
+genou - gute  
+genre grammatical - baxe ginse  
+geographie - geografia  
 Germanie - Germania  
-germanium - german yum  
-gingembre - zinji  
-giraffe - jirafa  
-glabre - kesha hin  
-glace - ais  
-glacé (glacial, gelé) - ais di  
-gland - baluta frute  
-glisser - glis  
-gnome - geo elfe  
+germanium - germanium  
+gingembre - zinze  
+giraffe - ziraf  
+glace (glacé, glacial, gelé) - ais  
+gland - balutopal  
+glisser - glise  
 gombo - bamia  
-gorille - gorila  
-goule - gule  
-gouvernement - politi  
-grand-mère - chin ma  
-grand-père - chin pa  
+gorille - gorile  
+goule - gulogui  
+gouvernement - polite  
+grand-mère - cinmai  
+grand-père - cinpai  
 granit - granite  
-gratitude - shukur ta  
 gravire - grave  
-grenouille - krokro  
+grenouille - krokroke  
 grimace - grimas  
 groupe - grupe  
-grâce à - shukur ze  
-grès - arena petra  
-guide - gida ja  
-guide touristique - gida buku  
-guider - gida  
+grâce à - danko de  
+grès - sablopetre  
+guerre - gere  
+guerrier - gerer  
+guide - gider  
+guide touristique - gidobuke  
+guider - gide  
 guitare - gitar  
-gâteau de lune - luna keke  
-génotype - jene tipe  
-généalogie - jene logi  
-généralissime - gun raja  
-généreux - don tabi  
-généreux - karim di  
-générosité (charité) - karim  
-géologie - geo logi  
-géométrie - geo metre  
-géopolitique - geo politi  
-géothermique - geo termo  
-gêner (déranger, perturber) - fa turbe  
+guérilla - gerile  
+gâteau de lune - lunokeke  
+génotype - genotipe  
+généalogie - genolojia  
+généralissime - gunreger  
+généreux - donive  
+généreux - karime  
+générosité (charité) - karimia  
+génétique - geneti  
+géologie - geolojia  
+géométrie - geometria  
+géopolitique - geopolitike  
+géothermique - geoterme  
+gêner (déranger, perturber) - turbe  
 
 ## H  
 
-habiller (vêtir) - fa fuku  
-hafnium - hafen yum  
+habiller (vêtir) - fuke  
+hafnium - hafnium  
 haine - hen  
-halte - halte  
-hameçon - peshe huke  
-hassium - hese yum  
+hameçon - pesohuke  
+haschich - hasis  
+hassium - hesium  
 haut - gau  
-hautes technologies - gau tehni  
-Haïti - Aiti  
-hein? - he  
-henné - hina  
-herbe (gazon) - gazo  
-Hesse - Hese  
+hautes technologies - gautehnia  
+Haïti - Haiti  
+Hesse - Hesia  
+heure (heure du jour,momente) - sate  
 heure - hor  
-heureux - suka  
-hier - chen den  
-Hindustan - Hindi desha  
-hippopotame  - gubu  
-hiver - leng mosim  
-hivernal (hibernal) - leng mosim di  
-hockey - hoki  
-hockey sur glace - ais hoki  
-holmium - holme yum  
+heureux - suke  
+hier - cendeno  
+Hindustan - Hindia  
+hiver - lengomosim  
+hivernal (hibernal) - lengomosime  
+hockey - hoke  
+hockey sur glace - aishoke  
+holisme - holisme  
+holistique - holike  
+holmium - holmium  
 honneur - onor  
-honnête (sûr, crédible, sûrement) - amen  
-honorer - fa onor  
-horloge - hor loga gi  
-houe - chopu  
-hourra - ura  
+honorer - onore  
+horloge - horloger  
+houe - cope  
+hourra - ure  
 huile (pétrole) - nefte  
-huit (8) - bati  
-humain - insan di  
-humanisme - insan sim  
-humeur - emosi hal  
-hum… - hem…  
-hydrogène - hidro  
-hygiène - salu safa ta  
-hélicoptère - helis fei gi  
-hélium - heli yum  
-héros - hero  
-hétéroromantique (hétéromantique) - alo romanse di  
-hétérosexuel - alo sekse di  
+huit (8) - bate  
+hum - hem  
+humain - humane  
+humanisme - humanisme  
+humeur - emoshal  
+humus - hume  
+hydrogène - hidre  
+hygiène - salsafia  
+hélice - propelor  
+hélicoptère - helisviman  
+hélium - helium  
+hémoglobine - hemoglobin  
+hétéroromantique (hétéromantique) - aloromanse  
+hétérosexuel - alosekse  
 hôtel - hotel  
 
 ## I  
 
-ici - na ni  
-imitateur (mime) - mima ja  
-imiter - mima  
-immigrant - in migra ja  
-immigrer - in migra  
-imperméable - shava kote  
-imploser - be in bum  
-implosion - in bum  
-important - ham di  
-inclure - fa in klus  
-inclusif - in klus di  
-Inde - Barti  
-indien - barti  
-indium - hindi yum  
-Indus - Hindi rivo  
-infecter - fa pati mise  
-infection (contagion) - pati mise  
-infidèle (incroyant) - an din ja  
-inflammation - flam  
-informatique - data chuli logi  
-innomé - nam hin  
-insecte - dudu  
-insomnie - an sona  
-intention - nia  
-international - nasi medi  
-interracial - rasa medi  
-intestin (entrailles, ventre, boyau) - antra  
-introverti - in verse jen  
-inutile - an yau di  
-inverse (négatif, in-) - an  
-iode - iode  
-iridium - iris yum  
+imitateur (mime) - mimer  
+imiter - mime  
+immigrant - inmigrer  
+immigrer - inmigre  
+imperméable - barsokote  
+imploser (implosion) - inploze  
+imploser - inplozu  
+important - ham  
+inclure - inkluze  
+inclusif - inkluzive  
+Inde - Bartia  
+indien - barte  
+indium - hindium  
+Indus - Hinde riu  
+infecter - patomise  
+infection (contagion) - patomis  
+infection - infetion  
+infidèle (incroyant) - andiniste  
+infidèle (incroyant) - ankrediste  
+inflammation - itis  
+infuser - infuze  
+inférer - infere  
+insecte - koncung  
+insomnie - ansome  
+intelligence - intelige  
+intelligence artificielle - artofete intelige (AI)  
+intelligible - inteligable  
+intercepter - intercepe  
+international - nasmede  
+interracial - rasmede  
+interrompre - interrute  
+intestin (entrailles, ventre, boyau) - intraje  
+introverti - introverse  
+introverti - introverse  
+inutile - anyave  
+inverse (négatif, in-) - an-  
+iode - yodium  
+iridium - iridium  
 Irland - Eire  
-ironie - ironi  
-Islam - islam din  
+ironie - ironia  
+Islam - islamisme  
+Islam - islamia  
+ivoire - gaja dante  
 
 ## J  
 
-jade - giuka  
+jade - giuke  
 Japon - Nipon  
-jarre (carafe, cruche) - jara  
-jasmin - moli  
-jaïnisme - jain din  
-je (me) - mi  
-jeu de dames - dama gem  
-jeu de société - bano gem  
-jeudi - var nelu  
-jeune (juvénile) - jovan  
-joug - yogo  
+jaïnisme - zeinisme  
+je (me) - me  
+jeu de société - banogem  
+jeudi - caryom  
+jeune (juvénile) - yune  
+jonction - juntion  
+jongler - jongle  
+jongleur - jongler  
+joug - yuge  
 joule (J) - jul  
-jour - dia  
-journal - den loge  
-juje - jude ja  
-Jupiter - Jupiter  
+jour - den  
+juje - yuder  
+Jupiter - jupiter  
 jus - jus  
-jusque (jusqu’à) - hata  
-juste - adil  
-justice - adil ta  
-justo (exact, précis) - juste  
-Jésus - Yesa  
-Jésus-Christ - Yesa Mesi  
+jusque (jusqu’à) - hate  
+juste - adal  
+justice - adalia  
+Jésus - yesus  
 
 ## K  
 
 kangourou - kangaru  
-karaté - karate  
-karatéka - karate ja  
+ketchup - kecape  
 Khartoum - Hartum  
 kimono - kimono  
-Kinshasa - Kinshasa  
+Kinshasa - Kinsasa  
 kiwi - kivi  
 krypton - kriton  
-kumquat - gingam  
-Kâmasûtra - kama kanon  
+kumquat - kankuate  
 
 ## L  
 
 l'un l'autre - semon  
 lac - lage  
-laid (vilain) - dus vide  
-laine - meme kesha  
-laisser - lashe  
+laid (vilain) - dusvide  
+laine - mehi kex  
+laisser - lase  
 lait - milke  
-lait de soja - soi milke  
-laitue - letus  
+lait de soja - soimilke  
+laitue - letis  
 lama (enseignant religieux du bouddhisme tibétain) - lama  
-lama - liama  
-lampe - lampa  
-Lance-roquettes - rokete lanse gi  
-langue - basha  
+lama - liame  
+lampe - lampe  
+Lance-roquettes - roketolancer  
+langue - baxe  
 langue - lisan  
-langue maternelle - jene basha  
-lanthane - lantan  
-lapin (lièvre) - tuzi  
-lapis-lazuli - lazur petra  
+langue maternelle - genobase  
+lanthane - lantanium  
+lapin (lièvre) - tuze  
+lapis-lazuli - lazurpetre  
 lasagne - lazanya  
-latéral - late di  
-lave - yung petra  
-lawrencium - laurence yum  
-le (la) - la  
+latéral - late  
+lave - fuzopetre  
+lawrencium - laurensium  
+le (la) - le  
 lent - lente  
 lentille - lense  
 Lettonie - Latvia  
-leur - yemon su  
-lexical - loga di  
-leçon - shula she  
+leur - losi  
+lexical - lexike  
+leçon - xul  
 libellule - libele  
-libre - huru  
-lichen - alga fungu  
+libre - hure  
+lichen - algafung  
 lien - linke  
-lieu - loka  
-lieu de naissance - jene loka  
+lieu - loke  
+lieu de naissance - genoloke  
 ligne (fil) - lin  
-ligne de commande (console, terminal, invite de commande) - amir lin  
-ligne téléphonique - tele fon lin  
-ligue (alliance) - liga  
-lilas - lila  
-lime (citron vert) - kaguji limon  
-lire - duku  
+ligne de commande (console, terminal, invite de commande) - amirlin  
+ligne téléphonique - telfonlin  
+lime (citron vert) - kagujolimon  
+limité - limite  
+lire - duge  
 liste - liste  
-lit - bede  
-lit de camp - kampe bede  
-lithium - lito yum  
+lithium - litium  
 litre - litre  
-lits superposés - cheng bede  
-littérature - kitabu suta  
-livermorium - livermor yum  
-livre - buku  
-livre de bord - loge buku  
-local - loka di  
-loin (hors, parti) - for  
-loin - do long  
-long - long  
-longtemps - long dur  
-loquace - loga tabi di  
-loquet - kane sor  
-louche (cuillère à pot) - pote chamacha  
+littérature - kitabia  
+livermorium - livermorium  
+livre - buke  
+local - loke  
+logique - ratolojia  
+loin - longo  
+long - longe  
+longtemps - longoduro  
+loquace - logive  
 loup - volfe  
-lourd - veze di  
-loutre - lotra  
-luisant (brillant) - foto mira di  
-lumière - foto  
-lumière du jour - dia foto  
-lundi - var un  
-lune - luna  
-luthéranisme - Luter din  
-luthérien - Luter din ja  
-lutte - jihade  
-lutécium - lutesi yum  
-luxure (libido) - kama  
-lynx - linse  
+lourd - veze  
+loutre - lontre  
+lumière - fote  
+lundi - unoyom  
+lune - lune  
+luthéranisme - martinluterisme  
+luthérien - martinluteriste  
+lutte - gihade  
+lutécium - lutetium  
+lynx - lince  
 lys - susan  
-là (y) - na go  
-léger - ligu veze di  
-légume - yam fito  
-lézard - saur  
+léger - lege  
+légume - yamfite  
+lézard - saure  
 
 ## M  
 
-machine à écrire - kitabu gi  
-magma - pasta petra  
-magnésium - magen yum  
-mah-jong - majang  
-maillon (chaînon) - sili tika  
+machine à écrire - kitabomasin  
+magma - pastopetre  
+magnésium - magesium  
+maillon (chaînon) - serlinke  
+maillon (chaînon) - sil  
 main - hande  
-mais - a  
-maison (foyer, domicile) - dom  
-malédiccion - lana  
-manche - kamisa shaka  
-mandarin - han guan ja  
-mandarine - rubi oranje  
-mandarine satsuma - venjou oranje  
+mais - ama  
+maison (foyer, domicile; vivre (habiter) - dom  
+majeur - maxure  
+majorité - maxuria  
+mal de tête - sartunge  
+malédiccion - lane  
+malédiction - dusdua  
+maman - me  
+manche - kamisi xake  
+mandarin - cini manter  
+mandarine - lalorange  
+mandarine satsuma - venzovorange  
 manganèse - mangan  
-manichéisme - mani din  
-manioc - manioka  
-mantra - mantra  
-marbre - kalsi bilor  
-marche - marche  
+manichéisme - manihaiisme  
+mantra - mantre  
+marbre - kalsokristal  
+marche - marce  
 marché (bazar) - bazar  
-mardi - var du  
+mardi - dulyom  
 margay (chat-tigre) - margai  
-marguerite - baku margarite  
-mariage - gami  
-Maroc - Magribi desha  
+marguerite - bakomargarite  
+mariage - gamia  
+Maroc - Magribia  
 Mars - Marse  
-marécage (marais) - fan topo  
-masque - maska  
-masse - masa  
-mat (opaque) - foto mata di  
-match - meche  
-maternel - ma di  
-mathématiques - hisabu logi  
+marécage (marais) - fanostan  
+masque - maske  
+masse - mas  
+match - mace  
+mathématiques - hisabolojia  
 matière - mate  
-matérialisme - mate lona  
-maximum - masim she  
-maître - mestre  
-medio - medi di  
-meitnérium - meitner yum  
-melt - yung  
-mendélévium - mendelef yum  
-menthe - minta  
-Menthe aquatique - sui minta  
-menthe poivrée - pipre minta  
-menthe verte - kane minte  
-menu (carte) - yam liste  
+maté - mate cai  
+maximum - maximaje  
+maître - mester  
+medio - midi  
+meitnérium - maitnerium  
+melt - fuze  
+mendélévium - mendelevium  
+menthe - minte  
+Menthe aquatique - suiminte  
+menthe poivrée - piprominte  
+menthe verte - zongominte  
+menu (carte) - menu  
 mer - hai  
-merci - shukur  
-mercredi - var tri  
-mercure - hidrargente  
+mercredi - yom tri  
+mercure - hurargente  
 Mercure - Merkur  
-merde - shite  
-merveille - ajibu  
-message - anjil  
-messager - anjil ja  
-mettre (placer) - fa loka  
-meule - mol seku  
-microbe - mikro bio  
-microbiologie - mikro bio logi  
-Micronésie - Mikronesi  
+merde - xite  
+merveille (éblouir, étonner, stupéfier, surprendre) - ajibe  
+merveille - mirable  
+message - angil  
+message - misaje  
+messager - angiler  
+mettre (placer) - loke  
+meule - molseke  
+microbe - mikrobia  
+microbiologie - mikrobiolojia  
 microscope - mikroskope  
-midi - medi dia  
-miel - medu  
-migration - migra  
-mine - kuanga san  
-minuit - medi noche  
+miel - madu  
+migration (s'installer, déménager) - migre  
+mine - kuangia  
+minimalisme - minimisme  
+minorité - minuria  
+miracle - mirokle  
+mirage - miraje  
+mirar - mire  
+miroir - miror  
+mission - mision  
+missionnaire - misioner  
 mode (façon, manière) - mode  
-modeler - fa plasti  
-mois - mes  
+modeler - plaste  
+mois - lun  
 mole (unité) - mole  
-molybdène - moliden  
-momentané - sata di  
+molybdène - molidenium  
+momentané - sate di  
+momie - mumike  
 monde - dunia  
-monnaie (pièce) - pesa diske  
-monocle - un yen di lense  
-monologue - auto loga  
-monstre - mostre  
-mordre - fa dante  
-morue (cabillaud) - bakalau  
-morue de l'Atlantique - atlanti bakalau  
-morue du Pacifique - pase hai bakalau  
-moscovium - moskva yum  
-mot - loga so  
-mot de passe - pas loga  
-moteur - moto  
-mouche - dom zeze  
-moudre - fa mol  
-mouiller - fa shipi  
-mouillé - shipi  
-moulin - mol kan  
+monnaie (pièce) - pesodiske  
+monocle - unoki lense  
+monologue - autologe  
+mordre - danta  
+morue - kade  
+morue de l'Atlantique - atlantokade  
+morue du Pacifique - pacehaikade  
+moscovium - moskovium  
+mot - lexe  
+mot de passe - pasloge  
+moteur - moter  
+mouche - domzeze  
+moudjahid (djihadiste) - gihadiste  
+moudre - mole  
+mouiller - sipe  
+mouillé - sipe  
+moulin - molia  
 mousse - mos  
-mousson - shava mosim  
-moussu - mos di  
-mouvoir (bouger) - fa kino  
-mule - iha uma  
+mousson - barsomosim  
+mouvoir (bouger) - kine  
+mule - gadogude  
 mur - mur  
-musique - muzika  
-musli - musli  
-mycélium - fungu nete  
-mythe - deu kata  
-mât - masta  
-mère (maman) - ma  
+musique - muzike  
+musli - musle  
+mycélium - fungonete  
+mât - maste  
+mère (maman) - mai  
+mère - matre  
 mètre - mitre  
-médicament (remède) - dava she  
-méduse - hai jele  
-méfait (péché) - dus karma  
-mémoire - memo  
+méduse - haigel  
+méfait (péché) - dusate  
+méfait (péché) - duskar  
+mémoire - mem  
 méninge - meninge  
-métaux lourds - bari metal  
-métier à tisser - tela gi  
-mûrier - tuta  
+métaux lourds - veze metal  
 
 ## N  
 
-nagar (flotter) - be boi  
-nappe - meza tela  
-nation - nasi  
-nausée - retro gula sense  
+nappe - mezateks  
+nation - nasia  
+nature - nature  
+nausée - retroguli sense  
 nautile - nautile  
-neige - hima  
-Neptune - Neputun  
-neptunium - neputun yum  
-neuf (9) - tisa  
-neurone - nerve selu  
-neurotoxine - nerve toksi  
-niche - nish  
+neige - hime  
+Neptune - Nepotun  
+neptunium - nepotunium  
+neuf (9) - nove  
+neurone - neurocel  
+neurotoxine - neurotokse  
+nexus (réseau) - nete  
+niche - nis  
 nickel - nikel  
 nid - nide  
-nihonium - nipon yum  
-niobium - niobi yum  
-niveau - par fase  
-nobélium - nobel yum  
-noir - kala  
-noit - noche  
-nom - nam  
-nombre (numéro) - nomer  
-nombre pair - par nomer  
+nihonium - niponium  
+niobium - niobium  
+niveau - par  
+nobélium - nobelium  
+noir - siyahe  
+noit - noce  
+nombre (numéro) - numbe  
+nombre pair - pari numbe  
 non (ne...pas) - no  
-non-binaire - nobi  
 nord - norde  
 nostalgie - nostalgia  
-note - note she  
-notre - mimon su  
-nous - mimon  
-nouveau - nove di  
-nouveau-né - nove jene di  
-nouveauté - nove ta  
-nouvelle (récit court) - korte kata  
-Noé - Noe  
-nuage - megi  
-numérique - komputa di  
+note - note  
+notre - mosi  
+nous - mos  
+nouveau - novi  
+nouveau-né - novogene  
+nouveauté - novia  
+nuage - nepe  
 nylon - nilon  
-nécessaire - yau di  
-nécrophilie - mata badan fili  
-néodyme - neodim yum  
-néologisme - nove loga  
+nécessaire - yavan  
+nécessiteux (dans le besoin) - yave  
+nécrologie - nekrologe  
+nécrophilie - nekrofilisme  
+néodyme - neodimium  
+néologisme - novologe  
+néologisme - novologe  
 néon - neon  
-néophyte - nove jen  
+néophyte - novike  
+néophyte - novike  
+néphologie - nepolojia  
 
 ## O  
 
-oasis - vase  
-objectif (cible) - dike  
-objet (article) - vutu  
-oblique (de travers) - tercha  
+objet (article) - vate  
+oblique (de travers) - terce  
+obscur (sombre, foncé) - dam  
 obsidienne - osidian  
-occupé - mang  
+occupé - mange  
 ocelot - oselote  
-oculaire - yen di  
-océan - dai hai  
-Océan Antarctique - Antartika Hai  
-océan Arctique - Artika Hai  
+oculaire - oke  
+océan - daihai  
+Océan Antarctique - Antartiki Hai  
+océan Arctique - Artiki Hai  
 océan Atlantique - Atlanti Hai  
 océan Indien - Barti Hai  
-odeur - aroma  
-oeuf - anda  
-oganesson - oganeson  
+ode - ode  
+odeur - gande  
+oeuf - ove  
 oie - ganse  
 oignon - piaze  
-oiseau - paksi  
-ombrelle (parasol) - sol chati  
-on - mon  
-oncille - bagre oselote  
-onde - onda  
-option - chuze she  
-or - auro  
-orange (couleur) - oranje rang  
-orange (fruit) - oranje  
-orange amère - kali oranje  
-orange douce - sukar oranje  
+oiseau - pakse  
+ombrelle (parasol) - solocate  
+oncille - bagroselote  
+onde - onde  
+opter - ote  
+optimal - otimal  
+option (choix) - otion  
+option - cuzable  
+or - aure  
+orange (couleur) - orangi  
+orange (fruit) - orange  
+orange amère - alkalorange  
+orange douce - sukarorange  
 orchidée - orkide  
-ordinaire (habituel, normal) - ada di  
-ordinateur - komputa  
-ordinateur tablette - table komputa  
-ordre - ratibu  
-ordures - laji  
-oreille - ore  
-organiser - fa nomi  
-organisme - bio she  
-orge - jau  
-origine - asal  
-originel - asal di  
-orphelinat - yatim dom  
-orthogonal - orto gona di  
-osmium - osmi yum  
-otite - ore flam  
+ordinateur - konputer  
+ordinateur tablette - tablete konputer  
+ordinateur tablette - tablokomputer  
+ordre - ratibe  
+ordures - laze  
+oreille - or  
+organiser - nome  
+organisme - bia  
+orge - zau  
+origine (originel) - asle  
+orphelinat - yatimokan  
+orthogonal - ortogone  
+osmium - osmium  
+otite - oritis  
 ou - o  
 ouah - vah  
-oublier - an memo  
-oubliette (cul de basse-fosse) - geo niche jela  
-oui - ya  
-ours - baru  
+oublier - dememe  
+oubliette (cul de basse-fosse) - geonici prizon  
+oui - ye  
+ours - urse  
+ovale - ovoide  
 oxyde - okside  
-oxygène - oksi  
-où - ke loka  
-où - na ke  
+oxygène - okse  
+où - a ke  
 
 ## P  
 
-pacifisme - pase sim  
-pacifiste - pase sim ja  
-page - yepa late  
+pacifiste - paciste  
+page - varkolate  
 pain - pang  
-pair (pareil, egal) - par  
-paix - pase  
-palais (château, manoir) - dai dom  
-palladium - paladi yum  
-pamplemousse - putau oranje  
+pair (pareil) - paran  
+pair (pareil, egal) - pare  
+paix - pace  
+palais (château, manoir) - daidom  
+palladium - paladium  
+pamplemousse - putavorange  
 panda - panda  
-pandémie - pan demo pati  
-paneuropéen - pan europa di  
+pandémie - pandemi patia  
 panier (panier de basketball) - baske  
-panneau de signalisation - dau bano  
-pansement (sparadrap) - glu bande  
+panneau de signalisation - dauban  
+pansement (sparadrap) - glutobende  
 pantalon - pante  
-pantomime - pan mima  
-pantoufle (babouche) - babuche  
-papaye - papaya  
-papier - kaguji  
-papier peint - mur kaguji  
+pantomime - panmime  
+pantoufle (babouche) - babuce  
+papaye - papai  
+papier - kaguje  
+papier peint - murkaguze  
 papillon - pelpel  
 paquet - pake  
-par exemple - do misal  
+par exemple - misalo  
+parabole - parable  
 paramètre - param  
-parapluie - shava chati  
+paranormal - paranorme  
+parapluie - barsocate  
 parc - parke  
-pardonner - fa maf  
+pardonner - mafe  
+parfait - perfete  
 Paris - Paris  
-parler - fa loga  
-parole (mots) - loga  
-part - fen  
-passe (passage) - pas dau  
+parler (parole) - loge  
+partenaire - partaner  
+parti - kite  
+partisan (guérillero) - geriler  
+parvenir - pervene  
+passe (passage) - pasodau  
 passeport - pasporte  
-passer - fa dur  
-passer - pas  
-pastèque - arbuza  
-paternel - pa di  
-pathologie - pati logi  
-patient - pati jen  
-patrie - dom desha  
-pause - pauza  
-pavot d'Orient - gui papi  
-pavot somnifère - sona papi  
-pavé - gola seku  
-pays des fées (paradis) - pari desha  
-peindre - fa pente  
+passer - pase  
+passer - durize  
+pastèque - arbuze  
+pathologie - patolojia  
+patient - patike  
+patrie - patria  
+pause - pauze  
+pavot d'Orient - guipapil  
+pavot somnifère - somopapil  
+pavé - sirkoseke  
+peindre - pente  
 peinture - pente  
-pelle - bele  
-pelouse (gazon) - gazo medan  
-perdant - shiti bai ja  
-perder - shiti  
-pere (papa) - pa  
-perfectionner (parfaire) - fa pul bon  
-perplexe (désorienté) - ruhu mishe di  
+pelle - belce  
+pendentif - pendaje  
+pender - pende  
+perdant - sibayer  
+perder - sibaya tene  
+pere (papa) - pe  
+perfectionner (parfaire) - purbone  
+perplexe (désorienté) - ruhmixe  
 perroquet - papagai  
 personne - jen  
-pet (vesse) - pede  
-petit - lili  
-peu - shau  
-peut-être - bil si  
-pharmacie - dava she kan  
-pharmacologie - dava she logi  
+perturber (turbulence) - disturbe  
+pervers - perverse  
+peser - vezu  
+pet (vesse; péter) - perde  
+petit - lile  
+peu - save  
+peur (effrayer; craindre) - fobe  
+peut-être - ablo  
 phase - faze  
-philosophie - filsofi  
+philosophie - filsofia  
 phosphore - pospor  
-photographie - foto grafi  
-photographie - foto grafi suta  
-photon - foto so  
-pierre - seku  
-pierre précieuse (joyau) - bau seku  
-pierre tombale - gabur seku  
-pieu - moka kane  
-pile (batterie) - bateri  
-pilier (colonne, poteau) - kolum  
-piment - chili  
-pinceau - pente brosha  
-pioche - pin chope  
-piquant - pin sense di  
-piquenique - vai yam  
-piraterie - pirate  
-pistolet - pau gi  
-pizza - piza  
+photographie - fotograf  
+photographie - fotografia  
+pierre - seke  
+pierre précieuse (joyau) - bauseke  
+pierre tombale - gabroseke  
+pieu (poteau) - baton  
+pile (batterie) - batre  
+piment - cili  
+pinceau - pentobrose  
+pioche - pincope  
+piojo - bio  
+piquant - pinane  
+piquenique - exyam  
+piraterie - piratia  
+pistolet - pau  
+pizza - pize  
 pièce (chambre) - kamar  
-piège - kape truke  
+piège - kapotruke  
 placard - almari  
-place - medan  
-plaine - plate topo  
-plainte (lamentation) - shikaya  
-plaire - fa suka  
+place - meden  
+plaine - platostan  
+plaire - suke  
 plan - plan  
-planche - moka bano  
-plante (végétal) - fito  
-planter - fa poze  
-plaque tectonique - geo kaske plate  
-platine - platin  
-plein - pul  
+planche - mokoban  
+plante (végétal) - fite  
+planter - poze  
+plaque tectonique - geokaski plate  
+platine - platinium  
+plein - pure  
 plomb - plumbe  
-pluie - shava  
+pluie - barse  
 plume - kalam  
-plume - pero kalam  
-plurilingue (multilingue) - poli basha di  
-plus - mas  
-plutonium - pluton yum  
-pneumonie - pulmon flam  
-pocion - dava sui  
-podzol - hui darte  
-poids (lourdeur, gravité) - veze  
-poire - pera  
+plurilingue (multilingue) - polbase  
+plus - max  
+plutonium - plutonium  
+pocion - medikosui  
+podzol - huidarte  
+poids (lourdeur, gravité) - vezia  
 poireau - porei  
-pois carré - lung dou  
-poisson - peshe  
-poisson-globe - balon peshe  
+poisson-globe - balonpes  
 poivre - pipre  
-poivre long - long pipre  
-poli - foto frike  
-pollution - najis  
-polonium - polska yum  
-Polynesie - Polinesi  
-Polynésie française - France Polinesi  
+poivre long - longopipre  
+poli - fotofrike  
+pollution - nagis  
+polonium - polskium  
+Polynesie - Polnesia  
 pomme - aple  
-pont - kio  
-porcelaine - chini  
+pont - pul  
+pore - pore  
+poreux - porosi  
 porte - porte  
-porte-bloc (planchette à pince) - pinse bano  
-porter (s’habiller) - fa fuku  
+porte-bloc (planchette à pince) - pinsoban  
+porter (s’habiller) - fuku  
+porter - porte  
 Porto Rico - Portoriko  
-Portoricain - portoriko jen  
-posidonie (herbiers marins) - hai gazo  
-possédant (propriétaire) - mal ja  
+Portoricain - portorike  
+posidonie (herbiers marins) - haicau  
+possédant (propriétaire) - maler  
+post-natal - posnatal  
+post-production - posprodute  
 posture (position) - asan  
-postérieur - pos di  
-pot (vase) - pote  
-pot de fleur - hua pote  
-potassium - kali yum  
-poterie - pote suta  
-potier - pote ja  
-pou - poyu  
-poubelle - laji tong  
+postérieur - postre  
+pot (vase, jarre, carafe, cruche) - pote  
+pot de fleur - fulpote  
+potassium - kalium  
+poterie - poteria  
+potier - poter  
 poudre à canon - barude  
-Poulpe (pieuvre) - ohtopus  
-pourri - pute  
-pourrir (se décomposer) - be pute  
-pousse - jovan moka  
-pouvoir (possible, capacité) - bil  
-praséodyme - prazedim yum  
-presse-papier - gata glu bano  
-presser - fa presa  
-pression - presa  
-pression atmosphérique - air presa  
-pressoir - presa gi  
+Poulpe (pieuvre) - batosenter  
+pour cent - pro cente  
+pourri - pude  
+pourrir (se décomposer) - pudu  
+pousse - yune moke  
+pouvoir (être capable; possible) - able  
+praséodyme - prasedium  
+presse-papier - katoglutoban  
+pression - prese  
+pression atmosphérique - airbaria  
+pressoir - preser  
 preuve - dalil  
-prison (geôle) - jela kan  
 problème - problem  
-problématique - problem di  
-procédé (rite) - riti  
-professeur (enseignant) - shula guru  
-profession (métier) - pei gong  
-profond - fase tele  
+problématique - probleme  
+proche - prose  
+proclamer - proklame  
+professeur (enseignant) - xulaner  
+profession (métier) - peikar  
+profond - fasotele  
 programme - program  
-projectile - lanse she  
-projection - lanse grafi  
+projectile - lancite  
+projection - lancograf  
 projet - projete  
-projeter (donner) - fa lanse grafi  
-prolongé - long dur di  
-promettre - fa vode  
-prométhium - promete yum  
-Prométhée - Promete  
-propice - bon sin di  
-propriété (possession, bien) - mal  
-protactinium - protacini yum  
-protocole - buro riti  
-prune de Java - jamul  
-précieux - bau di  
-préférer - mas fili  
-présent - zai di  
-prêter (empruntre) - jeka  
-prêter - jeka don  
-psychologie - ruhu logi  
-psyché - ruhu  
-punicion - fatu  
-punir - fa fatu  
+projet - projetaje  
+projet - projete  
+projeter (donner) - lancografe  
+prolongé - longodure  
+promettre (vœu , promesse) - vode  
+prométhium - prometium  
+propice - bonsinye  
+propriété (possession, bien) - male  
+propédeutique (préparatoire) - prepede  
+protactinium - protacinium  
+protocole - burorite  
+protéine - proten  
+prune - plum  
+prune de Java - zamul  
+précieux - bau  
+précurseur - prekurser  
+précéder - precese  
+préférer - prefere  
+préférer - profile  
+prénatal - prenatal  
+présent - zaye  
+prévoir (anticiper) - previde  
+prêter (empruntre) - zeke  
+prêter - zekodone  
+psychologie - ruhlojia  
+psyché - ruh  
 pyramide - piram  
-pâquerette - english margarita  
-pâte (pulpe, foufou) - fufu  
-pâte - pasta  
-pâte à modeler - plasti paste  
-pénal - fatu di  
-périr - perishe  
-péter - fa pede  
-pétrole (essence) - petra nefte  
-pêcheur - peshe saide ja  
-quand - ke sata  
-quartier - mahala  
+pâquerette - englomargarite  
+pâte - paste  
+pâte à modeler - plastopaste  
+pétrole (essence) - petronefte  
+pêcheur - pesosaider  
+quand - ke sate  
 quartz - kuarze  
-quatre (4) - nelu  
-que (comme) - ka  
+quatre (4) - care  
+que (comme) - ce  
 que (quoi) - ke  
-que - ki  
-querelle (dispute, palabre) - palaba  
-question - sual  
-queue (côté ) - koda  
+querelle (dispute, palabre) - palabe  
 qui - ke jen  
 
 ## R  
 
-race - rasa  
-racine - mula  
-radio - radio  
-radium - radi yum  
+race - ras  
+racine - mul  
+radium - radium  
 radon - radon  
-raki - anis araki  
-rang - dan  
-rare - nadir  
+raisonnement - ration  
+raki - anis arake  
+rare - nadire  
 rare - rare  
-rarement - nadir mar  
-raton laveur - vashi urso  
-rayon de miel - medu fong nide  
-rebondir - boing  
-recette - reseta  
-recycler - re sikle  
+rarement - nadiro  
+raser - raze  
+rasoir - razor  
+raton laveur - vasurse  
+rayon de miel - maduvesponide  
+rebelle - rebeler  
+receveur (récepteur) - receper  
+recevoir - recepe  
+recycler - risikle  
 rein - nefre  
 religion - din  
-remettre - fa retro  
-remplir - fa pul  
-renard - huli  
-repos - shanti  
-reprendre - re zoku  
-requin - sharke  
+remplir - pure  
+renard - hulei  
+reporter (rapporteur) - reporter  
+repos - sante  
+repos - repause  
+repose en paix (REP) - repause in pace (RIP)  
+repport (reportage) - reporte  
+reprendre - redure  
+requin - xarke  
 reste - reste  
-retourner (revenir) - be retro  
-Rhin - Ren  
-rhodium - rode yum  
+retour (retourner, revenir; remettre) - retre  
+revenir - revene  
+rhodium - rodium  
 rhythme - ritim  
-rhénium - ren yum  
-riche - riche  
+rhénium - renium  
+riche - rice  
+rideau - zanelovel  
 rime - rim  
 ring (manège) - ringar  
-rire - haha  
-rive - rivo kinar  
-rivière (fleuve) - rivo  
+rire - hahe  
+rivière (fleuve) - riu  
 riz - ris  
 robot - robote  
-roche (pierre) - petra  
-rocher - dai seku  
-rock - roke muzika  
-roentgenium - rentegen yum  
-roi - man raja  
-roman - long kata  
+roche (pierre) - petre  
+rocher - daiseke  
+rock - roke muzike  
+roentgenium - rentogenium  
 Rome - Roma  
 rose - rode  
-rossignol - bulbul  
+rose - roze  
 rosée - rose  
-rotule - guta kaske oste  
-roue - chakra  
-rouge - rubi  
+rotation - rotation  
+roue - cakre  
+rouge - lale  
 ruban (bande) - tepe  
-rubidium - rubi yum  
-rubis - rubi bau seku  
-ruche (nid d'abeille) - fong nide  
+rubidium - rubidium  
+rubis - lalbauseke  
+ruche (nid d'abeille) - vesponide  
+rupture - ruture  
 ruse - truke  
-rutherfordium - ruterfor yum  
-ruthénium - rus yum  
-réglisse - alkasus  
-réparateur - shuli ja  
-réparation - shuli  
-réparer - fa shuli  
-réponse - javabu  
-répéter - fa re  
-répétition - re  
+rutherfordium - ruterfordium  
+ruthénium - rutenium  
+réaction - reation  
+réagir - reate  
+réaliser - relize  
+réalité - relia  
+rébellion - rebelion  
+réception - recepion  
+réel - rel  
+référer - refere  
+réglisse - sus  
+régénérer - rigenerate  
+réparateur - riboner  
+réparer - ribone  
+réparer - repare  
+réponse - gavabe  
+répéter - rifete  
+répétition - ri-  
+réussir (avoir du succès,prospérer) - sucese  
 rêche (rugueux, gros) - karse  
 rôtir - roste  
 
 ## S  
 
-s'installer (déménager) - be migra  
-s'opposer à - shatan  
-sable - arena  
+s'opposer à - xate  
+sable - sable  
+sables mouvants - movosable  
 sac - sake  
-sacrifice - kurban  
-sagesse - sofi ta  
+sagesse - sofia  
 sagoutier - sagu  
-sain - salu  
+sain - sale  
 saintes écritures  - sante kanon  
 saison - mosim  
-salle de bains - banya kamar  
-salle de classe - shula kamar  
+salle de bains - banyakamar  
+salle de classe - xulkamar  
+salle de gymnastique - sportokan  
+salle de muscu - balokan  
 salut (salam) - salam  
-samarium - samari yum  
-samedi - var luka  
-Samoa américaines - Amerika Samoa  
-sandwich - sanduiche  
-sang - sange  
-santé - salu ta  
-sapin - abies  
-Satan - shatan ja  
+samarium - samarium  
+samedi - sisyom  
+Samoa américaines - Amerikan Samoa  
+sandwich - sanduice  
+sang - heme  
+sang - heme  
+santé - salia  
+sapin - abete  
+Satan - xatan (ruhoxatan)  
 Saturne - Saturne  
-sauce - sos  
-sauce de soja - soi sos  
+sauce - saus  
+sauce de soja - soisaus  
 saucisse - sosis  
-saumon altentique - atlanti salmon  
-saumon du Pacifique (saumon kéta, saumon chien) - baku salmon  
-saumon rose - rode salmon  
-saumon sockeye - rubi salmon  
-sauvage - eko jene di  
-savane - garma zona gazo topo  
-savoir (connaître) - sabe  
-Scandinavie - Eskandinavia  
-scandium - eskandi yum  
-schtroumpf - blu elfe  
-scie - sera  
-sculpteur - eskulte ja  
-scutelle - oste shalke  
+saumon altentique - atlantosalmon  
+saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
+saumon rose - rozosalmon  
+saumon sockeye - lalsalmon  
+sauvage - ekogene  
+sauver (secourir) - salve  
+sauveur - salver  
+savane - garmozone caustan  
+savoir (connaître) - save  
+Scandinavie - oskandinavia  
+Scandinavie - Skandia  
+scandium - skandium  
+scie - sere  
+scierie - serokan  
+sciure - serofun  
+scooter - motor skuter  
+sculpteur - skulter  
+scutelle - ostosalke  
 se - se  
-se baigner - fa banya  
-se mouvoir - be kino  
-se passer - si dur  
-se plaire - be suka  
-se rappeler (se remémorer) - fa memo  
-seaborgium - siborge yum  
-seau - baldi  
+se mouvoir - kinu  
+se plaire - suku  
+se rappeler (se remémorer) - meme  
+seaborgium - siborgium  
+seau - balde  
 secouer - roke  
-secte - din shia  
-sein - titi  
-sel - sal  
-semaine - var var  
-semence - seme  
+sein - mam  
+sel - salte  
+semence - semen  
 sens - sense  
-sentir qqch (avoir l'odeur de qqch) - fa aroma  
-sentir qqch - fa aroma  
-sept (7) - cheti  
+sentir qqch (avoir l'odeur de qqch) - aromu  
+sentir qqch - gande  
+sept (7) - cete  
 serrure - sor  
-serviette - gan tela  
-seul (unique) - un di  
-sexe - jinse  
-sexologie - sekse logi  
-Shiva - Shiva  
-shopping - shopi  
+serviette - ganteks  
+seul (unique) - unike  
+sexe - gense  
+sexologie - seksolojia  
+sexologie - seksolojia  
+Shiva - Xiva  
 si - gar  
-signer - nam kitabu  
-silex - hogo seku  
-silicium - silis  
-simulation - sam sifa she  
-situation (état de choses) - she hal  
-six (6) - luka  
-siècle (centennie) - sento nen  
-société - sosi  
-sodium - natri  
+signer - namkitabe  
+signifier (voiloir dire) - seme  
+silex - hogoseke  
+silicium - silike  
+simulation - samsifia  
+situation (état de choses) - xeihal  
+six (6) - sise  
+société - socia  
+sodium - natrium  
 soie - silke  
-soif - sui yau  
-soir (soirée) - sham  
+soif - suiyau  
+soir (soirée) - suar  
 soja - soi  
-soldat - gun jen  
+soldat - gunjen  
 soleil - sol  
-sommeil - sona  
 son (sa) - se su  
-son - soni  
-soufre - sulfu  
-soumettre - gong mise  
+son - son  
+soufre - sulfe  
+soumettre - karmise  
 soumission - islam  
-soupe - supa  
-souris - mushu  
-sous-estimer - fa min rai  
-spiritueux - araki  
-sport - esporte  
-squelette - oste jama  
-strontium - estronti yum  
-stylo-plume - fonte kalam  
-substance - kimi  
+sous-estimer - minrai  
+souteneur (maquereau) - sutener  
+spectateur - speter  
+spiritueux - arake  
+sport - sporte  
+squelette - ostogamia  
+strontium - strontium  
+stylo-plume - fontokalam  
+substance - kime  
 sucre - sukar  
-sueur - sueda  
-suffixe - pos fikse  
-Suisse - Suise  
-suivre - fa pos  
-sujet (thème) - tema  
-sunnisme - suna islam din  
-svastika (croix gammée) - huke krus  
-syllabe - loga fen  
-symbole - simbol  
-symétrie - sam metre  
-sélénium - selen yum  
-séminal - seme di  
-sénateur - supra vakil ja  
-série - sili  
-sûr - sekur  
-s’accroupir - lipa side  
+sueur - suede  
+suffixe - posfixe  
+suffixe pour l'adjectif - –i  
+suivre - pose  
+sujet (thème) - tem  
+sujet - subjete  
+supplémentaire - extre  
+surestimer - maxorai  
+svastika (croix gammée) - hukokrus  
+symétrie - sammetria  
+symétrique - sammetre  
+syntoniseur - sintonor  
+sèche-cheveux - kexofentor  
+sélénium - selenium  
+sémantique - semolojia  
+sémaphore - semoforer  
+séminal - semene  
+sénateur - senater  
+série - sere  
+série - silia  
+sûr - sekure  
+sûrement (faire confiance, espérer, croire; amen) - amen  
+s’accroupir - inside  
 
 ## T  
 
-table - meza  
-tableau (panneau) - bano  
-tablette de chocolat - choklate kane  
-tantale - tantal yum  
-tapioca - manioka fufu  
+table - meze  
+tableau (panneau) - ban  
+tablette de chocolat - coklatobaton  
+tabula rasa - razi table  
+Talibans - Talban  
+tantale - tantalium  
 tarte - pai  
-tasse à thé - chai kupa  
+tasse à thé - caikupe  
 taupe - krote  
-taximètre - taksi metre gi  
-technique - tehni  
-technologie - tehni logi  
-technétium - tehni yum  
-tectonique des plaques - plate geo kaske logi  
-tellure - telu yum  
-temple - puja kan  
+taximètre - taksi metrer  
+technique - tehne  
+technologie - tehnolojia  
+technétium - tehnium  
+tectonique des plaques - plati geokaskia  
+tellure - telurium  
+temple - puzokan  
 temps - zaman  
-tendance - klin  
-tender - long tire  
+tendance - ivia  
+tender - tirlonge  
 tendu - tense  
-tenir - ten  
-tennessine - tenesi yum  
-tentacule - sense shaka  
-tente - hema  
-terbium - terbi yum  
-terrain - geo forme  
-terrain de camping - kampe bagi  
-Terre - Geo  
-terre cuite - baka fan  
-terreplatiste - plate geo sim ja  
-terrorisme - teror sim  
-thallium - tali yum  
-thon - tuna  
-thorium - tor yum  
-thulium - tule yum  
-Thulé - Tule  
-thé - chai  
-théière - chai pote  
-théosophie - deu sofi  
-tige - tana  
+tennessine - tenesium  
+tentacule - senter  
+tente - hemah  
+terbium - terbium  
+terrain - geoforme  
+terrain de camping - kampostan  
+Terre - Geia  
+terre cuite - bekofan  
+terreplatiste - platogeiste  
+terrifier - terife  
+terrorisme - terurisme  
+texte - texte  
+thallium - talium  
+thon - tune  
+thorium - torium  
+thulium - tulium  
+thé - cai  
+théière - caipote  
+théosophie - deusofia  
+tige - tan  
 tigre - bagre  
-tire à l'arc - arka suta  
-tirer - tire yo milke  
-tissu - tela  
-titane - titan yum  
-titre - tema nam  
-toile d'araignée (arantèle) - arane nete  
-toit - chati  
+tire à l'arc - arkeria  
+tirer - tira milke  
+tissu - tekse  
+titane - titanium  
+titre - temnam  
+toile d'araignée - aranonete  
 tomate - tomate  
-tombe (enterrer) - gabur  
-topinambour - masa mula sol hua  
-topographie - topo grafi  
-tortue - tortuga  
-toucher - tochu  
-toupie - rota vanu gi  
-touriste - safar keka ja  
-Tournesol - sol hua  
-toxicologie - toksi logi  
-toxine - bio toksi  
+tombe (enterrer) - gabre  
+tomographie - tomografia  
+topinambour - masmulsolful  
+topographie - topografe  
+topographie - topografia  
+toucher (tact) - tate  
+toucher - toce  
+toupie - rototope  
+touriste - safariste  
+tourner (rotationner) - rotate  
+Tournesol - soloful  
+toxicologie - toksolojia  
+toxine - biotokse  
 trace - marke  
-tracteur - trata gi  
-traduction - tarjum she  
-traitement (processe) - chuli  
-traitement d'images - grafi chuli  
-traitement de données - data chuli  
-traitement de texte - kitabu chuli  
-traiter - fa chuli  
-travail - gong  
-travailler - fa gong  
-travailleur (ouvrier) - gong ja  
-traîner - trata  
-tremper (faire mariner) - pul shipi  
-tribord - nave raite  
+tracteur - trator  
+traduction - transobaxe  
+tragicomique - tragokomi  
+tragique - tragi  
+tragédie - tragodia  
+traitement d'images - grafoprocese  
+transmetteur - tranmisor  
+transmettre - tranmise  
+transmission - tranmision  
+travail - karme  
+travailler - kare  
+travailleur (ouvrier) - karer  
+traîner - trate  
+tremper (faire mariner) - pursipe  
+tribord - nauraite  
+tribunal (cour de justice) - yudokan  
+trichotomie - tritome  
+triple - triple  
 trois (3) - tri  
-tropique - garma zona  
+tropique - garmozon  
+trottinette - skuter  
 truite - salmon  
-truite arc-en-ciel - rang arka salmon  
-truite brune (truite de mer) - kafe salmon  
-tu - tu  
-tubercule - masa mula  
+truite arc-en-ciel - rangarkosalmon  
+truite brune (truite de mer) - brunsalmon  
+tu - te  
+tubercule - masmul  
 tungstène - volfram  
-Tunisie - Tunis  
-turban - pagri  
-télescope (lunette) - teleskope  
-télécharger - nete gete  
-téléphone - tele fon gi  
-téléphoner - fa tele fon  
-téléviseur - tele vide gi  
+Tunisie - Tunisia  
+turban - pagre  
+turbine - turbin  
+turboréacteur - turbojeter  
+télescope (lunette) - teloskope  
+télécharger - netogete  
+téléphone - telfon  
+téléphoner - telfone  
+téléréalité - rel televizion  
+téléviseur - telvide  
 tête - sar  
 
 ## U  
 
 un (1) - un  
-une fois - un mar  
-union - un ta liga  
-universel - un verse di  
-uranium - uran yum  
+une fois - unomaro  
+uniquement - uniko  
+universel - unoverse  
+uranium - uranium  
 Uranus - Uran  
-
-## V  
-
-vachellia - babul  
-vagine - vagina  
-vaginite - vagina flam  
-vaisseau spatial - kosmo nave  
-valeur - valu  
-vallée (oued) - vali  
+user - uze  
+vagine - vagine  
+vaginite - vaginitis  
+vaisseau spatial - kosmonau  
+valeur - val  
+vallée (oued) - vade  
 valse - valse  
 vampire - vampir  
-vampire des abysses - vampir ohtopus  
-vanadium - vanadi yum  
-vapeur d’eau - sui gas  
-varech - yepa alga  
+vampire des abysses - vampirbalsenter  
+vanadium - vanadium  
+vapeur d’eau - suigas  
+varech - varkalge  
 vendre - vende  
-vendredi - var lima  
-Venezuela - Venezuela  
+vendredi - limyom  
+Venezuela - Venezuele  
 venir - lai  
+ventilateur - fentor  
 ver - verme  
-ver à soie - silke larva  
-verbe - karma loga  
-verger - frute bagi  
+verbe - karloge  
 vermouth - vermute  
-verre - kancha  
-verre coloré - rang kancha  
+verre - kance  
+verre coloré - rangi kance  
 verrue - zeyil  
-verse (face á) - verse  
-verser - fa verse  
-vert - verde  
+verser (face á) - verse  
+vert - luge  
 veuve - vidou  
-viande - nama  
-vice-roi - vise raja  
-vide - hali  
-vie - jiva  
-vierge - virje  
-vieux (ancien) - chen zaman di  
-vieux (âgé, ancien) - lau  
-vigne - eskale tana  
-vignoble - putau bagi  
-village - chun  
-ville - siti  
+viande - manse  
+vice-roi - visoreger  
+vie - zive  
+vierge - virge  
+vieux (ancien) - cenike  
+vieux (âgé, ancien) - lave  
+vigne - skalotan  
+village - vilaje  
+ville - site  
 vin de riz - ris vin  
-violet (pourpre) - violeta blu  
+violet (pourpre) - violete  
+violon - viole  
+violoncelle - daiviole  
+violoniste - violiste  
 virus - virus  
-visage - muka  
-viser - fa dika  
-Vishnou - Vishnu  
+visage - muke  
+viser (direction, cible; objectif) - dike  
+Vishnou - Visnu  
 vitamine - vitamin  
-vite (rapide) - rapide  
-vivant - fa jiva  
-vivre (habiter) - be dom  
-vocabulaire (lexique) - loga jama  
-voile - hijabu  
+vite (rapide) - suge  
+vivant - zivi  
+vivisection - zivotome  
+vocabulaire (lexique) - lexia  
+voile - higabe  
+voile - vele  
 voir - vide  
-voire (même) - hata di  
-vol - fei  
-volcan - hogo san  
-voler - fa fei  
-votre - tumon su  
+voire (même) - hato  
+volcan - hogosan  
+voler (vol) - fei  
+votre - TOSI  
 vouloir - vol  
-voyelle - jong fon  
-voûte - arka chati  
-vrai - ver  
-vulve - vulva  
-végétarien - fito yam sim ja  
+voyelle - zungofon  
+voyelle - vokal son  
+vrai - vere  
+vraiment - vero  
+vulve - vulve  
+végétarien - fitoyamiste  
 Vénus - Venus  
-vêtements - fuku  
-vœu (promesse) - vode  
+vêtements - fuke  
 wolof - Volof  
 
 ## X  
 
 xénon - xenon  
-
-## Y  
-
-y compris - in klus  
-Yahweh (Jéhovah) - Yahve  
+y compris - inkluze da  
+Yahweh (Jéhovah) - yahve  
 yaourt (yogourt) - yogur  
-Yi King - yeka kanon  
-ytterbium - yuterbi yum  
-yttrium - yuter yum  
+yerba mate - mate  
+yogi - yogiste  
+ytterbium - yterbium  
+yttrium - ytrium  
 
 ## Z  
 
-zen - jan buda din  
 zinc - zinke  
-zirconium - zirkon yum  
-zombi - zombi  
-zone - zona  
-zoo - zou bagi  
-zoologie - zou logi  
-zoologique - zou logi di  
-Zoroastre - Zardush  
-zoroastrien - zardush din ja  
-zoroastrisme - zardush din  
+zirconium - zirkonium  
+zodiaque - zousikle  
+zombi - zombe  
+zone - zon  
+zoo - zouparke  
+zoologie - zoulojia  
+zoologique - zoulozi  
+Zoroastre - Zardus  
+zoroastrien - zardusiste  
+zoroastrisme - zardusisme  
 zoulou - Zulu  
 zèbre - zebra  
-zéro - siro  
-Égypte - Misri  
-Égypte antique - Keme  
-Épicéa - pisea  
-âge - sene  
-éblouir (étonner, stupéfier, surprendre) - fa ajibu  
-échec - shiti bai  
-échelle - shalke  
-école (collège) - shula kan  
-école primaire - baze shula kan  
-école secondaire - jong shula kan  
-économie - mal nomi  
-écorce - tire yo pil  
-écrire - kitabu  
+Égypte - Misria  
+âge - sen  
+échec - sibai  
+école (collège) - xulkan  
+école primaire - bazoxulkan  
+école secondaire - zungoxulkan  
+économie - malonomia  
+écorce - tira pil  
+écrire (écriture) - kitabe  
 écureuil - ekore  
-édenté - dante hin  
-éducation - shula  
-égal (même) - sam  
-électricité - eletro  
-élevage - zou agro suta  
-élever - jene yo zou  
-éloge - eu loga  
-élément (unité fondamentale) - so  
-élément chimique - kimi so  
-émeraude - zumarde  
-émir - amir ja  
-émirat - amir desha  
-émoticône (emoji) - emosi zi  
-émotion - emosi  
-épices - masala  
+éducation - xulia  
+éducation civique - civepedia  
+égal (même) - same  
+électricité - eletre  
+électronique - eletrolojia  
+élevage - zovagria  
+élever - genite  
+éloge - euloge  
+élément (unité fondamentale) - em  
+élément chimique - kimium  
+émeraude - zumurude  
+émir - amirer  
+émirat - amiria  
+émoticône (emoji) - emoze  
+émotion - emos  
+épices - masale  
+épicéa - picea  
 épingle - pin  
-éponge - esponje  
-époux - gami jen  
+éponge - sponge  
+époux - gamike  
 épreuve (test) - teste  
-épée - katana  
-équilibre - par veze ta  
+épée - katane  
+équilibre - parvezia  
 équipe - tim  
-étagère - lipa bano  
-étain - estan  
+étagère - liboban  
+étain - stanium  
 état - hal  
-éternuer (atchoum) - achi  
-étinceler - fa sing foto  
+éternuer (atchoum) - aci  
+étinceler - singofote  
 étoile - sing  
-étude - estude  
-études de genre - jinse logi  
-étudiant - estude ja  
-étudiant - shula ja  
-étudier - fa estude  
-étymologie - loga asal  
-été - garma mosim  
-évaluer - fa valu  
-évangile - eu anjil  
-éveillé - jaga  
-évident - vai vide di  
+étude - studaje  
+étude - studia  
+études de genre - gensolojia  
+étudiant - xuler  
+étudiant - studente  
+étudiant - studer  
+étudier (étude) - stude  
+étymologie - logaslia  
+été - garmomosim  
+évaluer - vale  
+évangile - evangil  
+éveillé - zage  
+éventail - sanze  
+évident - exvidable  
+évident - exvide  
 être - si  
-être couché - be kush  
-être humain - insan  
-œil - yen  
+être couché - kusu  
+être humain - human  
+œil - oke  
+œuvre - ature  
