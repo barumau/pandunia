@@ -5,31 +5,30 @@ correspondentes símbolos Alfabeto Fonético Internacional (AFI):
 
 | Pandunia | AFI    |
 |:--------:|:------:|
-| A        | a      |
-| B        | b      |
-| C        | ts (s) |
-| Ch       | tʃ     |
-| D        | d      |
-| E        | e      |
-| F        | f      |
-| G        | g      |
-| H        | h (x)  |
-| I        | i      |
-| J        | dʒ     |
-| K        | kʰ     |
-| L        | l      |
-| M        | m      |
-| N        | n (ŋ)  |
-| P        | pʰ     |
-| O        | o      |
-| R        | r (ɹ)  |
-| S        | s      |
-| Sh       | ʃ      |
-| T        | tʰ     |
-| U        | u      |
-| V        | w (ʋ v) |
-| Y        | j      |
-| Z        | z (dz) |
+| a        | a      |
+| b        | b      |
+| c        | tʃ (ts)|
+| d        | d      |
+| e        | e      |
+| f        | f      |
+| g        | g      |
+| h        | h (x)  |
+| i        | i      |
+| j        | dʒ     |
+| k        | kʰ (k) |
+| l        | l      |
+| m        | m      |
+| n        | n (ŋ)  |
+| o        | pʰ (p) |
+| p        | o      |
+| r        | r (ɹ)  |
+| s        | s      |
+| t        | tʰ (t) |
+| u        | u      |
+| v        | w (ʋ v) |
+| x        | ʃ      |
+| y        | j      |
+| z        | z (dz) |
 
 Em Pandunia, cada letra sempre representa o mesmo som e nenhuma letra é muda.
 
