@@ -68,14 +68,14 @@ Content words can be classified further into the following word classes:
 
 However, the class of a content word is seldom permanent.
 A word like
-**ama**
+**ame**
 ('love') can function as a verb, noun or adjective
 depending on its position in the sentence.
 
-**mi _ama_ tu.**
+**mi _ame_ tu.**
 – I _love_ you. (verb)  
-**tu emosi mi su _ama_.**
+**tu emosi mi su _ame_.**
 – You feel my _love_. (noun)  
-**mi kitabu un _ama_ anjil.**
+**mi kitabe un _ame_ anjil.**
 – I write a _love_ letter. (adjective)
 

@@ -142,6 +142,61 @@ the history of the international auxiliary language (IAL) movement.
   very little attention to IALs. So it is up to grassroots movements
   to push an IAL to success.
 
+#### Isn't it easier to just speak English instead?
+
+English is indeed widely used
+– even up to a degree that some would like to call it _the_ international language.
+Unfortunately, English is not very good at being an international language.
+It's not its own fault.
+It just happens to be the case that natural languages,
+including English, French, Spanish, Russian, Mandarin Chinese and most others,
+are the products of very long, natural, undirected language evolution.
+How things are said and written in these languages is more because of convention and tradition
+than because of beauty, logic, simplicity and practicality.
+
+There is also the viewpoint of fairness.
+International communication should be fair, like a meeting where everybody get together half-way.
+That's not the situation with English.
+Native English speakers don't need to make any effort in learning the international language,
+while everybody else has to spend years learning English in school or on their own.
+Native English speakers are in a dominant position that they have gained just by their birth.
+That's not fair.
+
+This is mostly a result of political history.
+Britain was once successful at invading and submitting other territories in the age of colonialism
+and it imposed the English language on other peoples.
+Although the power of Britain waned eventually,
+its military, economic and cultural dominance was continued by another English speaking power, the United States, until today.
+
+Native English speakers always have an advantage over non-native speakers
+because they speak English fluently and they are aware of all the cultural nuances.
+Native English speakers speak English perfecty by definition,
+whereas non-native speakers speak it almost always with an accent
+– and it's their job to lose that accent!
+They also tend to make mistakes in grammar
+and they often select their words poorly
+because English vocabulary is huge, layered, and nuanced.
+
+The table below summarizes the main points of difference between
+English (a natural language)
+and Pandunia (a constructed helping language).
+
+| English                                                 | vs | Pandunia                              |
+|:------------------------------------------------------- |:--:|:----------------------------------|
+| Western                                                 |    | Global                            |
+| Many standards (British, American, Indian, etc.)        |    | One standard                      |
+| Very irregular spelling                                 |    | Regular spelling                  |
+| Irregular stress                                        |    | Regular stress                    |
+| 12 vowels and 24 consonants                             |    | 5 vowels and 19 consonants        |
+| Almost 200 irregular verbs<br>e.g. speak, spoke, spoken |    | Only regular verbs                |
+| Inflected verbs<br>e.g. talk, talks, talked             |    | Unchanging verbs                  |
+| Inflected nouns<br>e.g. one life, two lives             |    | Unchanging nouns                  |
+| Inflected adjectives<br>e.g. good, better, best         |    | Unchanging adjectives             |
+| Huge vocabulary                                         |    | Concise vocabulary                |
+| Duplicate words from Germanic, Latinate and Greek roots |    | Few duplicate words               |
+| Complex and irregular word formation                    |    | Transparent and regular word building |
+| Changing word order e.g. in questions                   |    | One fixed word order              |
+
 
 #### Should Pandunia replace English?
 
