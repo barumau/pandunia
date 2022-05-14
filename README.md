@@ -6,7 +6,7 @@ This is a location for the documentation about Pandunia, which is a helping lang
 
 #### Locations
 
-This website is available online at http://www.pandunia.info
+This website is available online at http://www.pandunia.info and at https://barumau.github.io/pandunia/
 
 All pure text files are stored in a version control repository in GitHub at https://github.com/barumau/pandunia
 
