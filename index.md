@@ -1,29 +1,29 @@
 
 ![](http://www.pandunia.info/bandir/bandir.png "bandir da pandunia")
 
-#pandunia - adali dunbax
+#pandunia - dunia lingue
 
 #### [pandunia](pandunia/index.md)
 
-#### [cini – 中文](cini/index.md)
+#### [cini – 中文](putonghan/index.md)
 
-#### [engli – English](engli/index.md)
+#### [engli – English](english/index.md)
 
-#### [espani – español](espani/index.md)
+#### [espani – español](espanya/index.md)
 
-#### [esperanti – esperanto](esperanti/index.md)
+#### [esperanti – esperanto](esperanto/index.md)
 
-#### [fransi – français](fransi/index.md)
+#### [fransi – français](france/index.md)
 
-#### [malayi – bahasa Melayu](malayi/index.md)
+#### [malayi – bahasa Melayu](malayu/index.md)
 
-#### [niponi – 日本語](niponi/index.md)
+#### [niponi – 日本語](nipon/index.md)
 
 #### [polski – polski](polski/index.md)
 
-#### [portugali – português](portugali/index.md)
+#### [portugali – português](portugal/index.md)
 
-#### [rusi – русский](rusi/index.md)
+#### [rusi – русский](rus/index.md)
 
 #### [suomi – suomi](suomi/index.md)
 
