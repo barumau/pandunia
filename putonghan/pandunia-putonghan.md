@@ -28,7 +28,7 @@ ais - 冰 (结冰)
 aishoke - 冰球  
 aiskrem - 冰淇淋  
 akare - 蜱 (螨)  
-akse - 轴线  
+axe - 轴线  
 ale - 另一 (改變)  
 aloraye - 不同意  
 alga - 藻类  
@@ -144,10 +144,6 @@ batonkapse - 笼
 batre - 电池  
 bau - 宝 (宝贵)  
 bauseke - 宝石  
-baxe - 语言  
-• transobaxe - 翻译  
-baxe ginse - 文法的性  
-baxolojia - 语言学  
 baze - 底部  
 baze bol - 棒球  
 bazoxulkan - 小学  
@@ -168,7 +164,7 @@ bioginse - 生物性別
 biolojia - 生物学  
 biomute - 发酵  
 biosistem - 生物群系  
-biotokse - 毒素  
+biotoxe - 毒素  
 bil - 帐单  
 bine - 建设  
 binoplania - 建筑学  
@@ -236,7 +232,6 @@ cinovieti - 汉越
 cing - 请  
 cire - 撕裂  
 circire - 撕毁  
-cize - 酪 (起司)  
 coklate - 巧克力  
 coklatobaton - 巧克力棒  
 Congcing - 重庆  
@@ -375,6 +370,7 @@ fulpote - 花盆
 • funcable - 機能的  
 fungopal - 蘑菇  
 futomarke - 脚印  
+futau - 斧头  
 fuze - 融化  
 • exfuze - 熔炼  
 fuzopetre - 熔岩  
@@ -391,9 +387,10 @@ gaja dante - 象牙
 gale - 咽喉  
 Galia - 高卢  
 galium - 镓  
-galaksia - 恆星系  
+galaxia - 恆星系  
 galte - 错误  
 gancau - 干草  
+gana - 秆  
 gande - 气味  
 gande - 闻到  
 ganse - 雁 (鹅)  
@@ -423,6 +420,7 @@ gensolojia - 性别研究
 • gerile - 游击  
 • geriler - 游击队员  
 germanium - 锗  
+gestolingue - 手语  
 gide - 导游  
 gidobuke - 指南  
 gider - 导游  
@@ -456,6 +454,7 @@ gute - 膝
 
 ## H  
 
+ha - 有  
 habar - 消息  
 hafnium - 铪  
 hahe - 笑  
@@ -525,45 +524,23 @@ hurargente - 汞
 
 ## I  
 
-ya - 有  
-ye - 对 (是)  
-yahve - 耶和华 (雅威)  
-yamfite - 蔬菜  
-yamyau - 饥饿  
-• exyam - 野餐  
-yasen - 白蜡树  
-yatimokan - 孤儿院  
-yavu - 需要  
-yavan - 必要的  
-yausine - 信赖  
-yausinable - 忠实  
-yege - 狩猎  
-• yeger - 狩人  
-jen - 人  
-• dusojen - 敌人  
 ike - 的  
 intraje - 肠子  
 introverse - 内向的  
-yodium - 碘  
-yoge - 瑜伽功  
-• yogiste - 瑜伽士  
-yogur - 酸奶 (优格)  
-yom - 日  
-yomcete - 週  
 iridium - 铱  
 • islamia - 回教 (伊斯蘭教)  
-islamisme - 回教 (伊斯蘭教)  
+• islamisme - 回教 (伊斯蘭教)  
 itis - 炎症  
 ivia - 趋势  
-• yudokan - 法庭  
-yuge - 轭  
-juntolexe - 连接词  
 
 ## J  
 
-jangle - 森林  
+jangle - 野生  
+jangle van - 丛林  
 jongle - 变戏法  
+• judokan - 法庭  
 jul - 焦耳 (J)  
+juntolexe - 连接词  
 jupiter - 木星  
 jus - 汁  
 
@@ -610,7 +587,7 @@ karokan - 工厂
 karloge - 动词  
 karmise - 提交  
 karbe - 碳  
-karbodulokside - 二氧化碳  
+karboduloxide - 二氧化碳  
 karcof - 菜蓟  
 karde - 牌  
 kardon - 蓟  
@@ -644,10 +621,11 @@ kinu - 动
 kite - 去  
 kitane - 除去  
 kitabe - 写  
-kitabia - 文学  
+• kitabia - 文学  
 kitabokan - 图书馆  
-kitabomasin - 打字机  
+kitabomaxin - 打字机  
 kivi - 奇异果  
+kize - 酪 (起司)  
 klien - 顾客  
 klimomute - 气候变化  
 klorium - 氯  
@@ -660,6 +638,7 @@ konkare - 合作
 konseler - 顾问  
 kontrete - 公約  
 koncung - 昆虫  
+Kongfuze - 孔夫子  
 konserte - 音乐会  
 konus - 锥体  
 kope - 摹本 (拷貝)  
@@ -699,9 +678,6 @@ kusu - 躺
 
 ## L  
 
-le - 他，她，它  
-los - 他们  
-losi - 他们的  
 lage - 湖  
 lai - 来  
 laiane - 带来  
@@ -712,7 +688,6 @@ lalorange - 柑橘 (红橘)
 lalsalmon - 紅鮭  
 lama - 喇嘛  
 lampe - 灯  
-lane - 诅咒  
 lancograf - 投影  
 lancografe - 投射  
 lancite - 投掷物  
@@ -751,6 +726,9 @@ limon jus - 柠檬水
 lin - 线  
 linem - 纤维  
 lince - 猞猁 (山貓)  
+lingue - 语言  
+lingue ginse - 文法的性  
+linguolojia - 语言学  
 linke - 联系  
 linke - 连接  
 lisan - 舌头  
@@ -775,9 +753,6 @@ lutetium - 镥
 
 ## M  
 
-me - 我  
-mosi - 我们的  
-mos - 我们  
 me - 妈妈  
 mame - 外婆 (外祖母)  
 mape - 外公 (外祖父)  
@@ -833,7 +808,10 @@ metalzanger - 铁匠
 metrograf - 地图  
 metrografia - 地图学  
 meze - 桌子  
-mezateks - 桌布  
+mezatexe - 桌布  
+mi - 我  
+mimon - 我们的  
+mimon su - 我们  
 midi - 中型  
 • inmigre - 移民 (移居)  
 • inmigrer - 移民者  
@@ -902,6 +880,7 @@ nau - 船 (艇)
 naulefte - 左舷  
 nauraite - 右舷  
 nautile - 鹦鹉螺  
+naze - 鼻 (鼻子)  
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
@@ -910,10 +889,10 @@ neodimium - 钕
 neon - 氖  
 nepe - 云  
 nepotunium - 镎  
-• intonete - 网络  
+• internete - 网络  
 • konnete - 连接  
 • konnetor - 连接器  
-neurotokse - 神经毒素  
+neurotoxe - 神经毒素  
 nide - 巢 (穴)  
 nikel - 镍  
 nile - 蓝色  
@@ -926,18 +905,17 @@ nis - 壁龛
 nitre - 氮  
 nobelium - 锘  
 noce - 夜  
+nof - 九 (9)  
 nome - 组织  
 norde - 北  
 nostalgia - 怀旧  
 note - 便条  
-• novi - 新  
-• novike - 新手  
+nove - 新  
 • novike - 新手  
 novologe - 新词  
-nove - 九 (9)  
-novologe - 新词  
+• nudisme - 裸体主义  
 nuke - 颈  
-numbe - 数  
+nume - 数  
 
 ## O  
 
@@ -945,8 +923,8 @@ o - 或
 ode - 頌  
 oke - 眼睛  
 okosuigas - 催泪瓦斯  
-okse - 氧  
-okside - 氧化物  
+oxe - 氧  
+oxide - 氧化物  
 onde - 波浪  
 or - 耳  
 oritis - 耳炎  
@@ -1010,7 +988,7 @@ pelpel - 蝴蝶
 pendokardon - 垂花飞廉  
 pente - 油漆 (颜料)  
 pentobrose - 画笔  
-perkardon - 翼蓟  
+perokardon - 翼蓟  
 perde - 屁 (放屁)  
 pese - 钱  
 pesodiske - 硬币  
@@ -1038,8 +1016,8 @@ plumbe - 铅
 plutonium - 钚  
 bio - シラミ  
 poke - 扑克  
-polmaro - 经常  
-Polnesia - 波利尼西亚  
+poli mar - 经常  
+Polinesia - 波利尼西亚  
 polite - 政府  
 politomode - 政体  
 polskium - 钋  
@@ -1156,8 +1134,8 @@ savovolite - 有趣
 saure - 蜥蜴  
 semon - 彼此  
 seke - 石 (岩)  
-seksolojia - 性学  
-seksolojia - 性学  
+sexolojia - 性学  
+sexolojia - 性学  
 selenium - 硒  
 • semolojia - 语义学  
 semen - 种  
@@ -1251,15 +1229,10 @@ sute - 熟练
 
 ## T  
 
-te - 你  
-tos - 你们  
-TOS
-## 你们的  
-
 tablokomputer - 平板电脑  
 tablete konputer - 平板电脑  
 tail - 砖 (瓦)  
-taksi metrer - 计程器  
+taxi metrer - 计程器  
 tali moke - 灌木  
 talium - 铊  
 Talban - 塔利班  
@@ -1272,7 +1245,7 @@ taze - 新鲜的
 tehne - 技术  
 tehnium - 锝  
 tehnolojia - 工艺学  
-tekse - 布料  
+texe - 布料  
 telfon - 电话机  
 telfone - 打电话  
 telfonlin - 电话线  
@@ -1298,7 +1271,7 @@ tirbaton - 杆
 tirlonge - 拉  
 titanium - 钛  
 toce - 接触  
-toksolojia - 毒物学  
+toxolojia - 毒物学  
 • zivotome - 活体解剖  
 tomate - 西红柿  
 topografe - 地形  
@@ -1312,6 +1285,9 @@ tri - 三 (3)
 tripike - 三叉戟  
 truke - 伎俩  
 truke - 耍花招  
+tu - 你  
+tumon - 你们  
+tumon su - 你们的  
 tulium - 铥  
 tune - 金枪鱼  
 tunge - 疼痛  
@@ -1340,13 +1316,14 @@ vah - 哇
 val - 价值  
 valse - 华尔兹  
 vampir - 吸血鬼  
+van: - 森林  
 van - 娱乐  
 vanu - 玩耍  
 vanadium - 钒  
 vare - 各种各样  
 vase - оазис  
-vasurse - 浣熊  
-Vashington D
+vaxurse - 浣熊  
+Vaxington D
 ##   
 
 vate - 物体 (物品)  
@@ -1410,9 +1387,34 @@ xulxefe - 校长
 
 ##   
 
+ya - 对 (是)  
+yahve - 耶和华 (雅威)  
+yamfite - 蔬菜  
+yamyau - 饥饿  
+• exyam - 野餐  
+yasen - 白蜡树  
+yatimokan - 孤儿院  
+yavu - 需要  
+yavan - 必要的  
+yausine - 信赖  
+yausinable - 忠实  
+ye - 他，她，它  
+yemon - 他们  
+yemon su - 他们的  
+yege - 狩猎  
+• yeger - 狩人  
+jen - 人  
+• dusojen - 敌人  
+yodium - 碘  
+yoge - 瑜伽功  
+• yogiste - 瑜伽士  
+yogur - 酸奶 (优格)  
+yom - 日  
+yomcete - 週  
 yom tri - 星期三 (禮拜三)  
 yterbium - 镱  
 ytrium - 钇  
+yuge - 轭  
 
 ## Z  
 
@@ -1441,10 +1443,10 @@ ziraf - 长颈鹿
 zirkonium - 锆  
 zive - 生命  
 zongominte - 留兰香  
-zou - 动物  
-• zoulojia - 动物学  
-zouparke - 动物园  
-zousikle - 黄道带  
+zoe - 动物  
+• zoolojia - 动物学  
+zooparke - 动物园  
+zoosikle - 黄道带  
 zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  
 zung - 中心  

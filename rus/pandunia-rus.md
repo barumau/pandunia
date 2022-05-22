@@ -27,7 +27,7 @@ airoporte - аэропорт
 aishoke - хокке́й с ша́йбой  
 aiskrem - мороженое  
 akare - клещ (лепта)  
-akse - ось  
+axe - ось  
 ale - другой (второй; изменять)  
 alga - водоросли  
 algafung - лишай  
@@ -154,10 +154,6 @@ batonkapse - клетка
 batre - батарея  
 bau - сокровище (казна; драгоценный)  
 bauseke - драгоценный камень  
-baxe - язык  
-• dubaxiste - двуязычный  
-• transobaxe - перевод  
-baxe ginse - род в грамматике  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
 bazoxulkan - семилетка  
@@ -181,7 +177,7 @@ bioginse - биологический пол
 biolojia - биология  
 biomute - заквасить  
 biosistem - биом  
-biotokse - токсин  
+biotoxe - токсин  
 bil - счёт  
 bilor - кристалл  
 bine - строить  
@@ -269,8 +265,7 @@ cing - просить
 cire - рвать  
 circire - изорвать  
 • civile - гражданский  
-• civepedia - граждановедение  
-cize - сыр  
+• civopedia - граждановедение  
 coi - зелень  
 coklate - шоколад  
 cope - мотыга  
@@ -436,6 +431,7 @@ fulpote - цвето́чный горшок
 fungopal - гриб  
 futobol - футбол  
 futomarke - след ноги  
+futau - топор (колун, секира)  
 
 ## G  
 
@@ -448,7 +444,7 @@ gaja dante - слоновая кость
 gale - горло (глотка)  
 Galia - Галлия  
 galium - галлий  
-galaksia - галактика  
+galaxia - галактика  
 galope - кентер и галоп  
 gancau - сено  
 gande - запах (аромат)  
@@ -488,6 +484,7 @@ gere - война
 • gerile - партизанская война (герилья)  
 • geriler - партизан  
 germanium - германий  
+gestolingue - язык жестов  
 gidobuke - путеводитель  
 gider - гид  
 gihade - борьба (бой)  
@@ -526,6 +523,7 @@ gute - колено
 
 ## H  
 
+ha - с (иметь)  
 habar - новости  
 hafnium - гафний  
 hahe - смеяться  
@@ -596,59 +594,31 @@ hurargente - ртуть
 
 ## I  
 
-ya - с (иметь)  
-ye - да  
-yahve - Яхве (Иегова)  
-yamfite - овощ  
-yamyau - голод  
-• exyam - пикник  
-yasen - ясень  
-yatimokan - детский дом  
-yau - нужда  
-yavu - нуждаться  
-yavan - нужный  
-yausine - доверять (понадеяться)  
-yausinable - верный  
-yausinablia - верность  
-yege - охотиться  
-• yeger - егерь  
-Yemen - Йемен  
-• dusojen - враг (противник)  
-yesus - Иисус  
-• projete - проект  
-• projetaje - проект  
 intraje - внутренности  
 introverse - интроверт  
 insale - надеяться (чаять)  
 intelige - интеллект  
-yodium - йод  
-yoge - йога  
-• yogiste - йог  
-yogur - йогурт  
-yohani feste - Иванов день  
-yom - сутки  
 IP adres - IP-адрес  
 iridium - иридий  
 ironia - ирония  
 • islamia - ислам (мусульманство)  
-islamisme - ислам (мусульманство)  
+• islamisme - ислам (мусульманство)  
 itis - воспаление  
 ivia - тенденция  
-• yuder - судья  
-• yudokan - суд (трибунал)  
-• exyude - внесудебный  
-yuge - ярмо (иго)  
-yune - юный  
-• yunike - юнец  
-yune moke - саженец  
-• juntion - соединение  
 
 ## J  
 
-jangle - лес (джунгли)  
+jangle - дикий  
+jangle van - джунгли  
+• projete - проект  
+• projetaje - проект  
 jongle - жонглировать  
 • jongler - жонглёр  
+• juder - судья  
+• judokan - суд (трибунал)  
+• exjude - внесудебный  
 jul - джоуль (J)  
+• juntion - соединение  
 jupiter - Юпитер  
 jus - сок  
 juste - точный  
@@ -697,7 +667,7 @@ kare - работать
 karer - работник  
 karloge - глагол  
 karbe - углерод  
-karbodulokside - двуокись углерода  
+karboduloxide - двуокись углерода  
 karbosui - углевод  
 karcof - артишок посевной  
 karde - карта  
@@ -729,11 +699,12 @@ kire - аренда
 kirogete - арендовать  
 kite - идти  
 kitabe - писать (письмо)  
-kitabia - литература (словесность)  
+• kitabia - литература (словесность)  
 kitabokan - библиотека  
-kitabomasin - пишущая машинка  
+kitabomaxin - пишущая машинка  
 kitabominister - библиотекарь  
 kivi - киви  
+kize - сыр  
 klien - клиент (покупатель, зака́зчик)  
 klim - климат  
 klimomute - изменение климата  
@@ -752,6 +723,7 @@ konseler - консультант (советник)
 kontrete - контракт  
 koncung - насекомое  
 konge - пробиться  
+Kongfuze - Конфуций  
 konserte - концерт  
 konus - конус  
 kope - копия  
@@ -796,7 +768,6 @@ kusu - лежать
 
 ## L  
 
-losi - их  
 lai - приходить  
 laiane - приносить  
 lale - красный  
@@ -806,7 +777,6 @@ lalorange - мандарин
 lalsalmon - нерка (красница)  
 lama - лама (религиозный учитель в тибетском буддизме)  
 lampe - лампа  
-lane - проклятие  
 lancite - снаряд  
 lantanium - лантан  
 lasun - чеснок  
@@ -844,6 +814,11 @@ limon jus - лимонад
 lin - линия (нитка)  
 linem - волокно  
 lince - рысь  
+lingue - язык  
+• linguistia - лингвистика  
+• duolinguike - двуязычный  
+• polilinguike - многоязычный  
+lingue ginse - род в грамматике  
 linke - связь (ссылка)  
 linke - соединить (подключить)  
 lisan - язык  
@@ -871,9 +846,6 @@ lutetium - лютеций
 
 ## M  
 
-me - я  
-mosi - наш  
-mos - мы  
 me - мама  
 • matre - мать  
 • matria - родина  
@@ -936,7 +908,10 @@ metalbede - наковальня
 metrograf - карта  
 metrografia - картография  
 meze - стол  
-mezateks - скатерть  
+mezatexe - скатерть  
+mi - я  
+mimon - наш  
+mimon su - мы  
 midi - средний  
 migre - миграция (переезжать)  
 • inmigre - иммигрировать  
@@ -1017,6 +992,7 @@ nau - лодка (бот)
 naulefte - левый борт  
 nauraite - правый борт  
 nautile - наутилид  
+naze - нос  
 nefre - почка  
 nefte - масло  
 • nekrofilisme - некрофилия  
@@ -1042,24 +1018,22 @@ nis - ниша
 nitre - азот  
 nobelium - нобелий  
 noce - ночь  
+nof - девять (9)  
 nome - организовать  
 nomia - организация  
 norde - север (норд)  
 • annorme - ненормальный  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
-nove - новинка (новь)  
-nove - новинка (новь)  
-• novi - новый  
+nove - новый  
 • novia - новизна  
+• novaje - новинка (новь)  
 • novike - новичок  
-• novike - новичок  
-novogene - новорождённый  
+novojene - новорождённый  
 novologe - неологизм  
-nove - девять (9)  
-novologe - неологизм  
+• nudisme - нудизм  
 nuke - шея  
-numbe - число  
+nume - число (счёт)  
 • denunce - денонсировать  
 • renunce - отрекаться  
 
@@ -1069,8 +1043,8 @@ o - или
 oke - глаз (око)  
 oke - глазной  
 okosuigas - слезоточи́вый газ  
-okse - кислород  
-okside - окись (оксид)  
+oxe - кислород  
+oxide - окись (оксид)  
 onor - честь  
 onore - чтить  
 oritis - отит  
@@ -1149,8 +1123,8 @@ pendokardon - чертополох поникший
 pente - картина  
 pentobrose - кисть  
 • penter - художник  
-per - перо  
-perkardon - бодяк обыкновенный  
+pere - перо  
+perokardon - бодяк обыкновенный  
 perde - пердение (пердеть)  
 pese - деньги  
 pesodiske - монета  
@@ -1184,10 +1158,9 @@ inplozu - взрываться вовнутрь
 plum - слива  
 plumbe - свинец  
 plutonium - плутоний  
-polbase - многоязычный  
-polmaro - часто  
-Polnesia - Полинезия  
 polau - плов  
+poli mar - часто  
+Polinesia - Полинезия  
 politer - управляющий  
 polskium - полоний  
 pontopin - компас  
@@ -1335,8 +1308,8 @@ saus - соус
 se - себя (-ся)  
 semon - друг друга  
 seke - камень (камешек)  
-seksolojia - сексология  
-seksolojia - сексология  
+sexolojia - сексология  
+sexolojia - сексология  
 sele - совет (советовать)  
 selenium - селен  
 selge - мангольд  
@@ -1449,19 +1422,15 @@ susan - лилия
 
 ## T  
 
-te - ты  
-TOS
-## ваш  
-
 table - плита  
 tablokomputer - планшетный компьютер  
 tablete konputer - планшетный компьютер  
 tai - сцена (подмостки, эстрада)  
 tail - черепи́ца  
-taksi metrer - таксометр  
+taxi metrer - таксометр  
 tali moke - куст  
 talium - таллий  
-talteks - ковёр  
+taltexe - ковёр  
 Talban - Талибан  
 tan - стебель  
 tantalium - тантал  
@@ -1474,8 +1443,8 @@ taze - свежий
 tehne - техника  
 tehnium - технеций  
 tehnolojia - технология  
-tekse - ткань  
-teksmasin - ткацкий станок  
+texe - ткань  
+texomaxin - ткацкий станок  
 telfon - телефон  
 telfone - звонить  
 telfonia - телефония  
@@ -1510,7 +1479,7 @@ tirlonge - вытянуть
 tiroriu - отбойное течение  
 titanium - титан  
 toce - касаться  
-toksolojia - токсикология  
+toxolojia - токсикология  
 • tomografia - томография  
 • duotome - дихотомия  
 • tritome - трихотомия  
@@ -1530,6 +1499,8 @@ tri - три (3)
 tripike - трезубец  
 truke - обман  
 truke - обмануть  
+tu - ты  
+tumon su - ваш  
 tulium - тулий  
 tune - тунец  
 tundromonte - фьельды  
@@ -1564,12 +1535,13 @@ vale - оценивать
 valse - вальс  
 vampir - вампир (упырь)  
 vampirbalsenter - адский вампир  
+van: - лес  
 vanadium - ванадий  
 vase - oasis  
-vase - мыть  
-vasmasin - стиральная машина  
-vasurse - енот  
-Vashington D
+vaxe - мыть  
+vaxomaxin - стиральная машина  
+vaxurse - енот  
+Vaxington D
 ##   
 
 vate - статья (предмет)  
@@ -1634,7 +1606,7 @@ xefe - шеф
 xei - вещь  
 xeihal - положение (ситуация)  
 xenon - ксенон  
-siskababe - шиш-кебаб  
+xixkababe - шиш-кебаб  
 xite - говно (дерьмо)  
 Xiva - Шива  
 sismanse - шашлык  
@@ -1651,9 +1623,38 @@ xulxefe - директор (ректор)
 
 ##   
 
+ya - да  
+yahve - Яхве (Иегова)  
+yamfite - овощ  
+yamyau - голод  
+• exyam - пикник  
+yasen - ясень  
+yatimokan - детский дом  
+yau - нужда  
+yavu - нуждаться  
+yavan - нужный  
+yausine - доверять (понадеяться)  
+yausinable - верный  
+yausinablia - верность  
+yemon su - их  
+yege - охотиться  
+• yeger - егерь  
+Yemen - Йемен  
+• dusojen - враг (противник)  
+yesus - Иисус  
+yodium - йод  
+yoge - йога  
+• yogiste - йог  
+yogur - йогурт  
+yohani feste - Иванов день  
+yom - сутки  
 yom tri - среда  
 yterbium - иттербий  
 ytrium - иттрий  
+yuge - ярмо (иго)  
+yune - юный  
+• yunike - юнец  
+yune moke - саженец  
 
 ## Z  
 
@@ -1685,11 +1686,11 @@ zive - жизнь
 • zivi - живой  
 zon - пояс (зона)  
 zongominte - мята колоси́стая  
-zou - животное  
-• zoulojia - зоология  
-• zoulozi - зоологический  
-zouparke - зоопарк  
-zousikle - зодиак  
+zoe - животное  
+• zoolojia - зоология  
+• zoolojike - зоологический  
+zooparke - зоопарк  
+zoosikle - зодиак  
 zuke - этнос (этнический)  
 zukomede - межэтнический  
 Zulu - зулус  

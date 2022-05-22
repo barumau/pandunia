@@ -474,9 +474,9 @@ Different scopes of negation may result depending on the location of the negativ
 
 ### Modifier particles
 
-Particles **di** and **da** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
+Particles **di** and **de** are used to link a noun, an adjective or a verb phrase to a noun to modify it.
 **di** connects the modifying word or phrase to the main noun word.
-**da** works in the opposite direction, it connects the main noun to the modifying word or phrase.
+**de** works in the opposite direction, it connects the main noun to the modifying word or phrase.
 
 #### Modification with noun phrases
 
@@ -492,9 +492,9 @@ The modifier particles are useful for creating complex adjectives that consists 
 
 Or in the opposite order:
 
-**labi da rode rang**
+**labi de rode rang**
 – lips of the rose-color  
-**yen da sama rang**
+**yen de sama rang**
 – eyes of the sky-color
 
 The particles help in creating measure words too.
@@ -506,8 +506,8 @@ The particles help in creating measure words too.
 **mas sake di patate**
 – more sacks of potatoes
 
-Note that **di** and **da** connect phrases together.
-So a modifier phrase with and without **da** can mean a different thing.
+Note that **di** and **de** connect phrases together.
+So a modifier phrase with and without **de** can mean a different thing.
 
 **mas sundar hua**
 – more beautiful flowers  
@@ -516,12 +516,12 @@ So a modifier phrase with and without **da** can mean a different thing.
 
 #### Modification with verb phrases
 
-Verbs are turned into modifiers by placing **da** or **di** immediately next to the verb.
+Verbs are turned into modifiers by placing **de** or **di** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**suta da grafi pente**
+**suta de grafe pente**
 – the art of picture-painting (the art of painting pictures)  
-**alo su mede su suka**
+**ale su mede su suka**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession

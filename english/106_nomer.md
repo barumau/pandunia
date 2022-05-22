@@ -143,29 +143,29 @@ The short way is to use ordinal numbers.
 – one thousandth, one permille (1‰)
 
 The longer way uses the pattern
-**X da Y fen**
+**X de Y fen**
 ('X of Y parts').
 
-**un da du fen**
+**un de du fen**
 – one of two parts, a half (½)  
-**un da nelu fen**
+**un de nelu fen**
 – one of four parts, a quarter (¼)  
-**tri da nelu fen**
+**tri de nelu fen**
 – three of four parts, three quarters (¾)  
-**un da sento fen**
+**un de sento fen**
 – one of hundred parts, a percent, (1%)  
-**un da kilo fen**
+**un de kilo fen**
 – one of thousand parts, a permille, (1‰)
 
 Fractions are connected to the noun with
 **da**
 ('of').
 
-**un fen du da hor**
+**un fen du de hor**
 – a half (of an) hour  
-**lima des fen sento da jen**
+**lima des fen sento de jen**
 – fifty percent of people  
-**du fen tri da keke**
+**du fen tri de keke**
 – two thirds of a cake  
 
 

@@ -67,7 +67,7 @@ analógico - undure
 anchova - ancovi  
 andesito - andesite  
 anel - ring  
-animal (besta, bicho) - zou  
+animal (besta, bicho) - zoe  
 anis - anis  
 anormal - annorme  
 antimónio - stibium  
@@ -171,7 +171,7 @@ biblioteca - kitabokan
 bigorna - metalbede  
 bilhete - tikete  
 bilogia - duologia  
-bilíngue - dubaxiste  
+bilíngue - duolinguike  
 biología - biolojia  
 bioma - biosistem  
 bismuto - bismute  
@@ -221,6 +221,7 @@ camarão - krevete
 camisa - kamis  
 camomila-romana - roma kamil  
 camomila-vulgar - kamil  
+cana - gana  
 cana-de-açúcar - sukar gana  
 caneta de tinta permanente - fontokalam  
 canguru - kangaru  
@@ -233,7 +234,7 @@ capa de chuva - barsokote
 carbono - karbe  
 cardo - kardon  
 cardo-mariano - milkokardon  
-cardo-roxo - perkardon  
+cardo-roxo - perokardon  
 cardápio (menu) - menu  
 careta (esgar) - grimas  
 Caribe - Karaibia  
@@ -326,6 +327,7 @@ conector - konnetor
 conexão (vínculo, laço) - linke  
 conexão - konnetion  
 confiar (contar com) - yausine  
+Confúcio - Kongfuze  
 conjunção - juntolexe  
 cono - konus  
 conselho (aconselhar) - sele  
@@ -430,7 +432,7 @@ distrair - distrate
 ditador - ditater  
 ditadura - ditateria  
 ditar - dite  
-dióxido de carbono - karbodulokside  
+dióxido de carbono - karboduloxide  
 dobro - duple  
 docente - dokente  
 documento - dokum  
@@ -446,6 +448,7 @@ droga (narcótico) - narke
 ducha - duce  
 durar (transcorrer; duração) - dur  
 duro - gate  
+dêixis - dikion  
 dúbio (duvidoso) - sankable  
 dúbnio - dubnium  
 
@@ -454,7 +457,7 @@ dúbnio - dubnium
 e - e  
 economia - malonomia  
 educação - xulia  
-educação cívica - civepedia  
+educação cívica - civopedia  
 efeito - exfete  
 efeito colateral - parafete  
 efetuar (efeito) - asar  
@@ -530,7 +533,7 @@ estudante - studer
 estudar (examinar) - stude  
 etimologia - logaslia  
 etnia (étnico) - zuke  
-eu (me) - me  
+eu (me) - mi  
 európio - europium  
 evangelho - evangil  
 evidente - exvidable  
@@ -548,7 +551,7 @@ expor (revelar) - expoze
 exterior - exe  
 extra - extre  
 extrair - extrate  
-extrajudicial - exyude  
+extrajudicial - exjude  
 exército - gun  
 exógeno - exogene  
 
@@ -562,7 +565,7 @@ farol (baliza) - fotominar
 fator (fazedor) - feter  
 favoritismo - profilisme  
 favorito (preferido) - profilaje  
-fazenda (tecido) - tekse  
+fazenda (tecido) - texe  
 fazer (fato, facto) - fete  
 fazer - fe  
 fazer malabarismo - jongle  
@@ -611,7 +614,7 @@ fósforo - pospor
 gadolínio - gadolinium  
 gaiola (jaula) - batonkapse  
 galope - galope  
-galáxia - galaksia  
+galáxia - galaxia  
 gamão - narde  
 gancho - huke  
 ganso - ganse  
@@ -645,7 +648,7 @@ graças a - danko de
 grupo - grupe  
 grávida (prenhe) - hamile  
 guarda-chuva - barsocate  
-guaxinim (rato-lavadeiro) - vasurse  
+guaxinim (rato-lavadeiro) - vaxurse  
 guerra - gere  
 guerreiro - gerer  
 guerrilha - gerile  
@@ -657,7 +660,7 @@ Gália - Galia
 gálio - galium  
 gás - gas  
 gás lacrimogéneo - okosuigas  
-gênero gramatical - baxe ginse  
+gênero gramatical - lingue ginse  
 
 ## H  
 
@@ -737,8 +740,8 @@ iogurte - yogur
 ir - kite  
 ironia - ironia  
 irídio - iridium  
-islã - islamisme  
 islã - islamia  
+islã - islamisme  
 item - vate  
 itrio - ytrium  
 itérbio - yterbium  
@@ -759,7 +762,7 @@ jogo de tabuleiro - banogem
 joule (J) - jul  
 jovem - yune  
 jugo - yuge  
-juiz - yuder  
+juiz - juder  
 juntura - junture  
 junção - juntion  
 justiça - adalia  
@@ -802,6 +805,7 @@ limitado - limite
 limonada - limon jus  
 limão - limon  
 lince - lince  
+linguagem de sinais - gestolingue  
 linha (fio) - lin  
 lista - liste  
 literatura - kitabia  
@@ -827,7 +831,7 @@ lápis-lazúli - lazurpetre
 lâmpada (luminária) - lampe  
 léxico - lexike  
 líder (chefe) - lider  
-língua (idioma) - baxe  
+língua (idioma) - lingue  
 língua - lisan  
 língua materna - genobase  
 lírio - susan  
@@ -837,13 +841,13 @@ lógica - ratolojia
 
 ## M  
 
+machado - futau  
 macroalga - haialge  
 madrasta - visomatre  
 magnésio - magesium  
 maioria - maxuria  
 mais - max  
 malabarista - jongler  
-maldição - lane  
 maldição - dusdua  
 malfeitoria (pecado) - dusate  
 malfeitoria (pecado) - duskar  
@@ -872,6 +876,7 @@ massa de modelar (massinha) - plastopaste
 mastro - maste  
 matadouro - bucokan  
 matemática - hisabolojia  
+mato (jângal) - jangle van  
 matéria - mate  
 maçã - aple  
 medusa - haigel  
@@ -936,11 +941,11 @@ Mover-se - kinu
 moyen - midi  
 mudança climática - klimomute  
 muesli - musle  
-multilíngue (plurilíngue) - polbase  
+multilíngue (plurilíngue) - polilinguike  
 mundo - dunia  
 muro (muralha) - mur  
 musgo - mos  
-máquina de escrever - kitabomasin  
+máquina de escrever - kitabomaxin  
 mármore - kalsokristal  
 máscara - maske  
 máximo - maximaje  
@@ -956,6 +961,7 @@ música - muzike
 
 ## N  
 
+nariz (nasal) - naze  
 natureza - nature  
 nautiloide - nautile  
 nave espacial - kosmonau  
@@ -967,10 +973,9 @@ necessário - yavan
 necrofilia - nekrofilisme  
 neodímio - neodimium  
 neologismo - novologe  
-neologismo - novologe  
 neptúnio - nepotunium  
 Netuno - Nepotun  
-neurotoxina - neurotokse  
+neurotoxina - neurotoxe  
 neurônio - neurocel  
 neve - hime  
 nexo (rede) - nete  
@@ -983,26 +988,26 @@ nióbio - niobium
 nobélio - nobelium  
 noite - noce  
 noitinha - suar  
+norma (normal) - norme  
 norte - norde  
-nosso - mosi  
+nosso - mimon  
 nostalgia (saudade) - nostalgia  
 nota - note  
 novato (neófito) - novike  
-novato (neófito) - novike  
-nove (9) - nove  
-novidade - nove  
-novidade - nove  
+nove (9) - nof  
+novidade - novaje  
 novidade - novia  
-novo - novi  
+novo - nove  
+nudismo - nudisme  
 nuvem - nepe  
 náusea - retroguli sense  
 não - no  
 néon - neon  
 níquel - nikel  
-nós - mos  
+nós - mimon su  
 núcleo (cerne) - kore  
-número - numbe  
-o (a) - le  
+número (contagem; contar) - nume  
+o (a) - la  
 
 ## O  
 
@@ -1044,7 +1049,7 @@ outono - padomosim
 outro (alterar) - ale  
 ovo - ove  
 ovoide - ovoide  
-oxigénio - okse  
+oxigénio - oxe  
 
 ## P  
 
@@ -1130,7 +1135,7 @@ planta (vegetal) - fite
 platina - platinium  
 plutónio - plutonium  
 plástico - plaste  
-Polinésia - Polnesia  
+Polinésia - Polinesia  
 poluição - nagis  
 polvo - batosenter  
 polónio - polskium  
@@ -1209,7 +1214,7 @@ quarto (dormitório) - somokamar
 quartzo - kuarze  
 quatro (4) - care  
 que (como) - ce  
-queijo - cize  
+queijo - kize  
 queijo fresco - panir  
 queimar - hoge  
 queimarse - hogu  
@@ -1248,7 +1253,7 @@ receber - recepe
 receptor - receper  
 recepção - recepion  
 reciclar - risikle  
-recém-nascido - novogene  
+recém-nascido - novojene  
 referir - refere  
 refugo (escória) - laze  
 regenerar - rigenerate  
@@ -1338,7 +1343,8 @@ segunda-feira - unoyom
 seguro - sekure  
 seio (mama) - mam  
 seis (6) - sise  
-selva (floresta, jângal) - jangle  
+selva (floresta) - van:  
+selvagem (silvestre) - jangle  
 selénio - selenium  
 sem - na  
 semente - semen  
@@ -1354,12 +1360,12 @@ serragem - serofun
 serraría - serokan  
 sete (7) - cete  
 sexo - gense  
-sexologia - seksolojia  
-sexologia - seksolojia  
+sexologia - sexolojia  
+sexologia - sexolojia  
 sexta-feira - limyom  
 significar (querer dizer) - seme  
 silício - silike  
-sim - ye  
+sim - ya  
 simetria - sammetria  
 simulação - samsifia  
 simétrico - sammetre  
@@ -1397,8 +1403,8 @@ tablet - tablete konputer
 tablet - tablokomputer  
 Talibã - Talban  
 tangerina (mandarim) - lalorange  
-taxímetro - taksi metrer  
-tear - teksmasin  
+taxímetro - taxi metrer  
+tear - texomaxin  
 tecnécio - tehnium  
 tectónica de placas - plati geokaskia  
 telefonar - telfone  
@@ -1430,8 +1436,8 @@ texto - texte
 tigre - bagre  
 tijolo - dobe  
 titânio - titanium  
-toalha - ganteks  
-toalha de mesa - mezateks  
+toalha - gantexe  
+toalha de mesa - mezatexe  
 tocar (tato) - tate  
 tomate - tomate  
 tomografia - tomografia  
@@ -1441,8 +1447,8 @@ tora - mokotan
 toranja - putavorange  
 torta - pai  
 toupeira - krote  
-toxicologia - toksolojia  
-toxina - biotokse  
+toxicologia - toxolojia  
+toxina - biotoxe  
 trabalhador - karer  
 trabalhar - kare  
 trabalho - karme  
@@ -1454,7 +1460,7 @@ transmissão - tranmision
 transmitir - tranmise  
 trator - trator  
 trazer - laiane  
-tribunal - yudokan  
+tribunal - judokan  
 trigo - ganum  
 triplo - triple  
 truque (fraude) - truke  
@@ -1463,7 +1469,7 @@ truta-marrom - brunsalmon
 trágico - tragi  
 três (3) - tri  
 trópicos - garmozon  
-tu - te  
+tu - tu  
 tubarão - xarke  
 tubérculo - masmul  
 tungsténio - volfram  
@@ -1540,7 +1546,7 @@ voar (voo) - fei
 vocabulário - lexia  
 vogal - zungofon  
 vogal - vokal son  
-vosso - TOSI  
+vosso - tumon su  
 voto (votar) - vote  
 vulcão - hogosan  
 vulva - vulve  
@@ -1560,11 +1566,11 @@ xénon - xenon
 zebra - zebra  
 zinco - zinke  
 zircónio - zirkonium  
-zodíaco - zousikle  
+zodíaco - zoosikle  
 zona - zon  
-zoologia - zoulojia  
-zoológico - zouparke  
-zoológico - zoulozi  
+zoologia - zoolojia  
+zoológico - zooparke  
+zoológico - zoolojike  
 zumbi - zombe  
 ágil - agile  
 água - sui  
@@ -1579,7 +1585,7 @@ zumbi - zombe
 índio - hindium  
 ósmio - osmium  
 ótimo (óptimo) - otimal  
-óxide - okside  
+óxide - oxide  
 único (só) - unike  
 вошь - bio  
 коралл - biu  

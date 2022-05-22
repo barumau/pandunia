@@ -6,6 +6,8 @@ a - przy, z, na, w, u
 a ke - gdzie  
 a le - tu (tutaj, tam)  
 a line - online (na linii, w sieci)  
+a nove - właśnie, dopiero co, ostatnio, niedawno  
+a sube - pod (poniżej)  
 abete - jodła  
 able - móc, umieć  
 • ablo - prawdopodobnie (możliwie)  
@@ -45,7 +47,7 @@ aiskrem - lody
 ajibe - dziw (cudo)  
 ajibia - zachwyt (zdumienie)  
 akare - klescz (roztocze)  
-akse - oś  
+axe - oś  
 ale - inny (zmienić, zmieniać)  
 • alo - w innym wypadku (inaczej)  
 alofon - alofon  
@@ -53,7 +55,7 @@ alonamo - innymi słowy
 aloraye - nie zgadzać się  
 alorayia - niezgoda  
 aloromanse - heteroromantyczny  
-alosekse - heteroseksualny  
+alosexe - heteroseksualny  
 alosife - różny (inny)  
 alosifia - różnica  
 Alaska - Alaska  
@@ -244,13 +246,6 @@ batonpang - bagietka
 batre - bateria  
 bau - skarb (skrabiec; cenny)  
 bauseke - klejnot  
-baxe - mówić (komunikować; język, komunikacja)  
-• dubaxiste - dwujęzyczny  
-• transobaxe - tłumaczyć (interpretować; tłumaczenie, interpretacja)  
-• transobaxer - tłumacz  
-baxe ginse - rodzaj gramatyczny  
-baxokanun - gramatyka  
-baxolojia - językoznastwo  
 baze - podstawa (baza, fundament; bazowy; zakładać (założyć, ustanowić)  
 baze bol - bejsbol (baseball)  
 bazer - założyciel  
@@ -295,7 +290,7 @@ bioginse - płeć biologiczna
 biolojia - biologia (nauka o życiu)  
 biomute - fermentować  
 biosistem - biom  
-biotokse - toksyna  
+biotoxe - toksyna  
 biblia - Biblia  
 bil - rachunek (faktura)  
 bilor - kryształ  
@@ -358,7 +353,7 @@ brus - rodzeństwo, brat lub siostra
 bude - uświadomienie, świadomość; oświecenie, bodhi  
 budisme - Buddyzm  
 budiste - buddysta  
-• dusbude - źle zrozumieć  
+• mesbude - źle zrozumieć  
 Buda - Budda  
 bufete - bufet (szwedzki stół)  
 bufon - głupiec, bufon  
@@ -396,7 +391,6 @@ can - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
 • cania - produkcja  
 • canive - produktywny (żyzny)  
 • canivaje - nawóz  
-canobaxe - język sztuczny  
 canse - szansa  
 cante - śpiewać (piosenka, pieśń)  
 cantergrupe - chór  
@@ -457,7 +451,6 @@ cite - cytować
 citomarke - cudzysłów  
 • civile - cywilny  
 • civilade - cywilizowany (ucywilizowany)  
-cize - ser  
 code - jebać, kopulować  
 coi - zielenina  
 coklate - czekolada  
@@ -563,6 +556,7 @@ deu - bóg, bóstwo
 • devisme - teizm  
 • pandevisme - panteizm  
 • polidevisme - politeizm  
+• polidevisme - politeizm  
 • unodevisme - monoteizm  
 • deviste - teistyczny  
 • andeviste - ateista  
@@ -629,7 +623,7 @@ Drugia - Bhutan
 du - dwa (2)  
 du o tri - parę  
 dua - modlitwa (pomodlić się, modlić się)  
-• dusdua - przekleństwo (cholera!)  
+• dusdua - kląć (przeklinać; przekleństwo)  
 dubnium - dubn  
 duce - prysznic  
 duge - czytać  
@@ -641,10 +635,10 @@ dullun - maj
 dulmaro - dwukrotnie (dwa razy)  
 dulmene - dwuznacznik  
 dulromanse - biromantyczny  
-dulsekse - biseksualny  
+dulsexe - biseksualny  
 duman - dym  
 dunia - świat  
-dunia baxe - język świata, język ogólnoświatowy  
+dunia lingue - język świata, język ogólnoświatowy  
 dungia aventur - przygoda w lochu  
 dur - trwać (zająć czas; przez; trwanie)  
 • dura - kontynuować; wznawiać, ponawiać  
@@ -767,6 +761,7 @@ fete - zrobić (czyn, uczynek)
 • infetion - infekcja (zakażenie)  
 • perfete - perfekcyjny  
 • rifete - powtórzyć, powtarzać  
+fetolingue - język sztuczny  
 figur - figura, reprezentacja  
 fikre - myśleć (dumać; myśl, pomysł)  
 file - lubić (zamiłowanie, -filia)  
@@ -818,7 +813,7 @@ fotofrike - polerować (szlifować)
 fotograf - zdjęcie (fotografia)  
 fotografia - fotografia  
 fotografer - fotograf  
-fotografmasin - kamera, aparat fotograficzny  
+fotografmaxin - kamera, aparat fotograficzny  
 fotominar - latarnia morska  
 fotorade - promień światła  
 fotosirke - efekt halo  
@@ -853,7 +848,7 @@ fute - stopa
 futoban - rusztowanie (trap)  
 futobol - piłka nożna  
 futoxake - noga  
-futau - siekera, topór  
+futau - siekera (topór)  
 fuze - topnieć (upłynniać się)  
 • fuzion - fuzja (amalgamowanie, łączenie)  
 • exfuze - topić (upłynnić, upłynniać)  
@@ -874,7 +869,7 @@ gaja - słoń
 gaja dante - kość słoniowa  
 Galia - Galia  
 galium - gal  
-galaksia - galaktyka  
+galaxia - galaktyka  
 galeria - galeria, sala wystawowa  
 galope - cwał (galop)  
 galte - błąd (pomyłka; popełnić błąd; błędny, niepoprawny)  
@@ -886,7 +881,7 @@ gamel - wielbłąd, wielbłądzica
 gane - suchy (suszyć )  
 gancau - siano  
 ganputau - rodzynka  
-ganteks - ręcznik  
+gantexe - ręcznik  
 Gana - Ghana  
 gande - zapach (aromat, smród, odór)  
 gande - wąchać  
@@ -969,12 +964,14 @@ globe - globalny
 glute - lepić (kleić; klej)  
 gluten - gluten  
 glutofan - glina  
+go sube - iść w dół (iść pod spód, iść na dno)  
 gol - cel  
 golem - golem  
 gom - guma  
 gone - kąt  
 gonmetrer - goniometr (kątomierz)  
 • diagone - diagonal  
+• poligone - wielokąt (wielościan)  
 gorile - goryl  
 goton - bawełna  
 grafe - opis (rzedstawienie; wykres; obrazowy, graficzny)  
@@ -1025,6 +1022,7 @@ guzarate - Gudżarat
 
 ## H  
 
+ha - mieć (trzymać)  
 habar - wiadomość, nius  
 habargazete - gazeta  
 habase - abisyński  
@@ -1171,41 +1169,8 @@ huse - miły, przyjemny, uroczy
 
 ## I  
 
-ye - jakiś  
-ya - mieć (trzymać)  
-ye - tak  
-yojen - ktoś  
-yosate - sometime  
-yosei - coś  
 –i - przyrostek dla przymiotnika  
 –ia - przyrostek dla miejsca  
-yage - oszacować, szacować, przybliżyć, przybliżać  
-yago - około; przybliżony  
-yagones - półwysep  
-yege pes - łapać rybę  
-yahude - żydowski  
-yahudisme - judaizm  
-yake - jak (zwierzę)  
-yale - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
-yam - jedzenie, posiłek  
-yame - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
-yami - pyszny  
-yamfite - warzywo  
-yamyau - głód  
-yamkamar - jadalnia  
-yamsukarcau - cukrowiec jadalny  
-• exyam - piknik  
-yang - rodzaj, typ, styl  
-yasen - jesion  
-yatim - sierota  
-yatimokan - sierociniec, dom dziecka  
-yau - potrzeba  
-yavu - potrzebować  
-yavan - potrzebny  
-yausine - ufać (wierzyć, liczyć, polegać)  
-yausinable - lojalny (wierny)  
-yausinablia - lojalność (wierność)  
-anyave - niepotrzebny  
 ibre - hebrajski  
 ice - wola, chęć  
 ice - chcieć (pragnąć)  
@@ -1216,17 +1181,6 @@ ide - pojęciowy
 idiote - idiota  
 idiote - głupi (idiotyczny)  
 idiotia - idiotyzm (głupota)  
-yege - polować (łowić)  
-• yeger - łowca (myśliwy)  
-yei - jej  
-Yemen - Jemen  
-jen - osoba  
-jensen - żeń-szeń  
-yesus - Jezus  
-• injete - zastrzyk  
-injete - wstrzyknąć, wstrzykiwać  
-• projetaje - projekt,planowane przedsięwzięcie  
-yeze - kokos  
 ifrite - ifrit  
 ike - -owy (-ny, okazujący cechę)  
 impere - władać, panować, rządzić jako imperator  
@@ -1240,16 +1194,6 @@ intre - wewnętrzny
 intromun - wejście  
 Indonesia - Indonezja  
 insale - nadzieja, życzenie  
-yodium - jod; jodyna  
-yoge - joga  
-• yogiste - jogin (joginka)  
-yogur - jogurt  
-yohani feste - dzień świętego Jana  
-joke - żart  
-joker - żartowniś, dowcipniś  
-yomcete - tydzień  
-yote - kropla  
-yota - milion  
 Irakia - Irak  
 Iran - Iran  
 iridium - iryd  
@@ -1257,13 +1201,12 @@ irone - ironiczny
 ironia - ironia  
 islam - poddanie się, uległość, pokora, posłuszeństwo  
 • islamia - Islam  
-islamu - poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym  
 • islaman - muzułman,muzułmanin  
 • islamofobia - islamofobia  
-islamisme - Islam  
-islamiste - muzułman, muzułmanin  
-islamiste - islamski  
-islamisti saria - szariat  
+• islamike - islamski  
+• islamisme - Islam  
+• islamiste - muzułman, muzułmanin  
+islam xaria - szariat  
 Islandia - Islandia  
 isme - przyrostek dla ideologii  
 Israel - Izrael  
@@ -1272,24 +1215,23 @@ Italia - Italia, Włochy
 itis - zapalenie  
 ive - być skłonnym (mieć skłonność)  
 ivia - tendencja  
-yude - sądzić (osądzić; wyrok)  
-• yuder - sędzia  
-• yudokan - sąd (trybunał)  
-yuge - jarzmo  
-yune - młody  
-• yunia - młodość  
-• yunike - młodzież, młoda osoba  
-yune fem - dziewczyna  
-yune man - chłopak  
-yune moke - młode drzewo  
 
 ## J  
 
 Jakarta - Dżakarta  
 Jamaika - Jamajka  
-jangle - las, dżungla, zagajnik  
+jangle - dziki  
+jangle van - dżungla  
 jaze - jazz, dżez  
 Jerzi - Jersey  
+• injete - zastrzyk  
+injete - wstrzyknąć, wstrzykiwać  
+• projetaje - projekt,planowane przedsięwzięcie  
+joke - żart  
+joker - żartowniś, dowcipniś  
+jude - sądzić (osądzić; wyrok)  
+• juder - sędzia  
+• judokan - sąd (trybunał)  
 judau - judo  
 jul - dżul (J)  
 jupe - spódnica  
@@ -1394,7 +1336,7 @@ karaoke - karaoke
 karate - karate  
 karau - kminek  
 karbe - węgiel  
-karbodulokside - dwutlenek węgla  
+karboduloxide - dwutlenek węgla  
 karcof - karczoch zwyczajny  
 karde - karta  
 kardon - oset  
@@ -1471,14 +1413,16 @@ kirogete - wynająć, oddać w najem
 kirate - karat  
 Kirgizia - Kirgistan  
 Kiribati - Kiribati  
-kirili harfia - cyrylica  
+kiril harfia - cyrylica  
 kite - iść (przemieścić się)  
 kitabe - pisać (pismo)  
 kitaboforme - formatowanie  
 kitabokan - biblioteka  
-kitabomasin - maszyna do pisania  
+kitabomaxin - maszyna do pisania  
 kitabominister - bibliotekarz  
 kivi - owoc kiwi  
+kize - ser  
+kizoproten - kazeina  
 klame - krzyknąć, krzyczeć  
 klare - przeźroczysty (jasny; oczywiście)  
 • klarife - wyklarować (rozjaśnić)  
@@ -1517,7 +1461,6 @@ komune - wspólny
 komunkratia - republika  
 kone - wspólny (wzajemny)  
 kono - razem (wspólnie)  
-konbas - wspólny język  
 konbone - pasować  
 koncanisme - komunizm  
 koncaniste - komunista  
@@ -1602,7 +1545,7 @@ kruasante - croissant
 krus - krzyż  
 krusu - przejść w poprzek  
 krusarke - kusza (balista)  
-krusofikse - ukrzyżować  
+krusofixe - ukrzyżować  
 krusolin - celownik optyczny (siatka lunety)  
 kuane - szeroki  
 kuania - szerokość  
@@ -1624,6 +1567,8 @@ kuku - kukułka
 kule - świetny  
 kulombe - kulomb  
 kultur - kultura  
+• polikulture - wielokulturowy  
+• polikulturisme - wielokulturowość  
 kupe - kubek  
 kupocate - kopuła  
 kupon - kupon  
@@ -1642,8 +1587,6 @@ Kuvaitia - Kuwejt
 
 ## L  
 
-le - on, ona, ono  
-los - oni  
 labe - warga  
 lage - jezioro  
 lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
@@ -1655,8 +1598,6 @@ lalorange - mandarynka
 lalsalmon - nerka (łosoś czerwony)  
 lama - lama  
 lampe - lampa  
-lane - przekleństwo (cholera!)  
-lane - kląć (przeklinać)  
 lance - rzucić, rzucać, miotać, cisnąć, ciskać  
 lance - ciśnięty (rzucony, miecony)  
 lancograf - rzut (projekcja)  
@@ -1749,6 +1690,13 @@ linem - włókno
 linparce - złamanie lini  
 lince - ryś  
 linfe - limfa  
+lingue - język  
+• duolinguike - dwujęzyczny  
+• konlingue - wspólny język  
+• polilinguike - wielojęzyczny  
+lingue ginse - rodzaj gramatyczny  
+linguokanun - gramatyka  
+linguolojia - językoznastwo  
 linke - połączenie, złącze, styk  
 linke - łączyć, wiązać, złączyć  
 lise - gładki  
@@ -1789,7 +1737,7 @@ luge - zielony
 • lugia - register  
 lugomelon - melon miodowy  
 lugobuke - dziennik pokładowy (notatnik)  
-Luksemburge - Luksemburg  
+Luxemburge - Luksemburg  
 lul - perła  
 lune - księżyc  
 lun - miesiąc  
@@ -1802,9 +1750,6 @@ lutetium - lutet
 
 ## M  
 
-me - ja, mnie  
-mi - mój  
-mos - my  
 me - mama  
 • matre - matka  
 • matria - macierz  
@@ -1873,6 +1818,7 @@ mante - urząd, pozycja, stanowisko, funkcja
 mantol - peleryna (płaszcz, opończa)  
 mantu - bułka gotowana na parze  
 mar - czas; okazja  
+• polimaria - częstotliwość  
 marate - marathi  
 maraton - maraton  
 marce - iść, maszerować  
@@ -1966,7 +1912,10 @@ metrografia - kartografia
 metrun - jednostka miary  
 meze - stół  
 mezastan - płaskowyż (plateau)  
-mezateks - obrus  
+mezatexe - obrus  
+mi - ja, mnie  
+mimon su - my  
+mi su - mój  
 Myanma - Mjanma, Birma  
 mide - środek  
 midi - średni  
@@ -2123,6 +2072,7 @@ namloge - rzeczownik
 • dusnam - obraza (obelga)  
 • exonam - egzonim  
 • inonam - endonim  
+• pronam - zaimek  
 Namibia - Namibia  
 nane - nano-  
 nanomitre - nanometr  
@@ -2138,6 +2088,7 @@ nasisme - nacjonalizm
 nasiste - nacjonalista  
 nasmede - międzynarodowy  
 • polinase - wielonarodowy  
+• polinasike - wielonarodowy  
 nasibe - przeznaczenie, los  
 • nature - natura  
 • innate - wewnętrzny  
@@ -2154,6 +2105,7 @@ nauxefe - kapitan
 navate - nahuatl  
 Nauru - Nauru  
 nautile - nautilus  
+naze - nos  
 nazisme - nazizm  
 naziste - nazista  
 Nederlandi Antil - Antyle Holenderskie  
@@ -2177,19 +2129,14 @@ nepotunium - neptun
 Nepal - Nepal  
 nes - wyspa  
 • nesia - archipelag  
-• intonete - internet  
+• internete - internet  
 netodone - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 netogete - ściągać (ściągnąć, pobrać, pobierać)  
 netoloke - witryna internetowa (portal internetowy)  
 Nevis - Nevis  
 neure - nerw  
-neure - nerwowy (neuronowy)  
 neurocel - neuron  
 neuropatia - neuropatia  
-nice - spód  
-nice - iść w dół (iść pod spód, iść na dno)  
-nice - poniższy  
-nico - pod (poniżej)  
 nide - gniazdo (ul, nora, jama, barłóg, legowisko)  
 Niger - Niger  
 Nigiria - Nigeria  
@@ -2213,12 +2160,11 @@ no ham di - jakikolwiek, którykolwiek
 nobelium - nobel  
 noce - noc  
 nocomode - tryb nocny  
-node - węzeł, zupeł  
-node - zawiązywać (zawiązać węzeł)  
+node - węzeł (zupeł; zawiązywać, zawiązać węzeł)  
+nof - dziewięć (9)  
 nome - zarządzać (organizować, kierować)  
 nomia - zarządzanie (-nomia)  
 norde - północ  
-norde - północny  
 Nordi Amerike - Ameryka Północna  
 Nordi Cosen - Korea Północna (Koreańska Republika Ludowo-Demokratyczna)  
 Nordi Eire - Irlandia Północna  
@@ -2227,38 +2173,28 @@ Nordi Makedonia - Republika Macedonii, Macedonia
 Norfolke nes - Norfolk  
 Norge - Norwegia  
 norge - norweski  
-norme - norma, standard  
-norme - normalny, standardowy  
-nos - nos  
-nose - nosowy  
-nostalge - nostalgiczny  
+norme - norma (standard; normalny)  
 nostalgia - nostalgia (tęsknota)  
-note - uwaga, obserwacja  
-note - notować, obserwować, zauważyć, zauważać  
-notane - powiadomić, powiadamiać  
+nostalgike - nostalgiczny  
+note - uwaga (obserwacja; notować, obserwować, zauważyć, zauważać)  
+• notife - powiadomić, powiadamiać  
+• notize - wiadomość, zawiadomienie, powiadomienie  
 notobuke - notatnik  
-notite - wiadomość, zawiadomienie, powiadomienie  
-nove - nowość  
-nove - nowość  
-Nove Kaledonia - Nowa Kaledonia  
+nove - nowy  
 Nove Zelandia - Nowa Zelandia  
-• novi - nowy  
-• novo - właśnie, dopiero co, ostatnio, niedawno  
-• novike - nowicjusz (nowa osoba)  
+• novaje - nowość  
 • novike - nowicjusz (nowa osoba)  
 • renove - odnowić, odnawiać, uczynić nowym  
-novoyange - nowoczesne  
-novologe - neologizm  
+Nove Kaledonia - Nowa Kaledonia  
 Nove Yorke - Nowy Jork  
 Nove Yorke site - Stan Nowy Jork  
-nove - dziewięć (9)  
+novoyange - nowoczesne  
 novologe - neologizm  
 novolun - grudzień  
-nude - nagi, goły, obnażony  
-nudisme - nudyzm  
-nudiste - nudysta  
-numbe - numer  
-numbe - liczyć  
+nude - nagi (goły, obnażony)  
+• nudisme - nudyzm  
+• nudiste - nudysta  
+nume - numer (liczyć)  
 nuton - niuton (N)  
 
 ## O  
@@ -2278,8 +2214,8 @@ okosui - łza
 okosuigas - gaz łzawiący  
 okeye - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 okeye - okej, spoko, akceptowalny  
-okse - tlen  
-okside - tlenek  
+oxe - tlen  
+oxide - tlenek  
 Olandi nesia - Wyspy Alandzkie  
 Oman - Oman  
 onde - fala  
@@ -2352,7 +2288,7 @@ panduniste - osoba mówiąca w Panduni
 paneurope - paneuropejski  
 panromanse - panromantyczny  
 pansato - zawsze  
-pansekse - panseksualny  
+pansexe - panseksualny  
 panun - każdy, wszyscy  
 Panama - Panama  
 panda - panda  
@@ -2424,8 +2360,8 @@ penis - penis
 pente - namalować, malować  
 pente - namalować, malować  
 • penter - malarz  
-per - pióro  
-perkardon - ostrożeń lancetowaty  
+pere - pióro  
+perokardon - ostrożeń lancetowaty  
 perde - pierdnięcie (pierdzieć)  
 Peru - Peru  
 pese - pieniądze  
@@ -2440,6 +2376,7 @@ piano - pianino
 piaze - cebula  
 picea - świerk  
 pige - pośladki, pupa, tyłek, zadek  
+pijin - pidżin, język pomocniczy  
 pike - szczyt (wierzchołek)  
 pil - skóra  
 piloter - pilot  
@@ -2463,7 +2400,6 @@ pistol - pistolet
 Pitkerne nesia - Pitcairn  
 pize - pizza  
 pizokan - pizzeria  
-pizin - pidżin, język pomocniczy  
 plan - plan  
 plane - planować  
 planete - planeta  
@@ -2478,9 +2414,9 @@ platostan - równina (plaskowyż, plateau)
 platotas - talerz  
 platinium - platyna  
 Platon - Platon  
+platonike - platoniczne  
 platonisme - platonizm  
 platoniste - platończyk  
-platoniste - platoniczne  
 plazme - plazma (zjonizowany gaz)  
 • exploze - wybuch (eksplozja)  
 • inploze - implozja (implodować)  
@@ -2490,19 +2426,11 @@ plumbe - ołów
 Pluton - Pluton (planeta karłowata)  
 plutonium - pluton  
 poke - poker  
-polbase - wielojęzyczny  
-poldevisme - politeizm  
 polfas - wielościan  
-polgon - wielokąt (wielościan)  
-polkulture - wielokulturowy  
-polkulturisme - wielokulturowość  
-polmaria - częstotliwość  
-polmaro - często  
 polmene - wieloznaczny  
-polnase - wielonarodowy  
 polau - pilaw  
-poli - wiele  
 polia - ilość  
+poli mar - często  
 polis - policja  
 poliser - oficer policji, policjant  
 polite - rząd  
@@ -2715,9 +2643,9 @@ rutin - rutyna, nawyk, zwyczaj
 
 ## S  
 
-sabe - powód (przyczyna; spowodować, powodować)  
-sabe da - ponieważ, bo  
-• ansabe - dziwny (nieznany)  
+sababe - powód (przyczyna; spowodować, powodować)  
+a sababe de - ponieważ, bo  
+• ansave - dziwny (nieznany)  
 sabate - szabat, szabas  
 sable - piasek, piach  
 sablopetre - piaskowiec  
@@ -2820,15 +2748,15 @@ seke - kamień (kawał skały)
 sekozanger - kamieniarz  
 sekreter - sekretarz  
 sekreteria - sekretariat  
-sekse - seks, stosunek płciowy  
-sekse - kochać się, uprawiać seks  
-sekse - seksowny, ponętny  
-sekse - seksowny,ponętny  
-seksolojia - seksuologia  
-seksolojia - seksuologia  
-• ansekse - aseksualny  
-• dusekse - biseksualny  
-• pansekse - panseksualny  
+sexe - seks, stosunek płciowy  
+sexe - kochać się, uprawiać seks  
+sexe - seksowny, ponętny  
+sexe - seksowny,ponętny  
+sexolojia - seksuologia  
+sexolojia - seksuologia  
+• ansexe - aseksualny  
+• dusexe - biseksualny  
+• pansexe - panseksualny  
 sekunde - sekunda  
 sekure - bezpieczny (chronić, ratować)  
 sekurokode - hasło  
@@ -3015,9 +2943,11 @@ suar - wieczór
 suarden - popołudnie  
 suaryam - kolacja  
 Suati - Suazi  
+sube - spód  
 sube - ranek, rano, poranek  
 suboden - przedpołudnie  
 subyam - śniadanie  
+• subike - poniższy  
 sude - południe  
 sude - południowy  
 Sudi Amerike - Ameryka Południowa  
@@ -3090,12 +3020,6 @@ sutur - szew
 
 ## T  
 
-te - ty, ciebie  
-ti - twój  
-tos - wy, was  
-TOS
-##   
-
 tabake - tytoń  
 tabla date - ułożyć w trabelę  
 tafun - burza, sztorm, tajfun  
@@ -3105,16 +3029,16 @@ Taibei - Tajpej
 taige - tajga  
 tail - płyta  
 Taivan - Tajwan, Republika Chińska  
-takse - podatek, opłata  
-takse - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
-taksi kar - taxi, taksówka  
-taksi metrer - taksometr  
+taxe - podatek, opłata  
+taxe - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
+taxi kar - taxi, taksówka  
+taxi metrer - taksometr  
 tal - dół, spód  
 tale - obniżać (obniżyć)  
 tale - niski  
 tali moke - krzak (krzew)  
 talium - tal  
-talteks - dywan  
+taltexe - dywan  
 tame - chciwy (żądny)  
 tamar - daktyl  
 Tamil - tamilski  
@@ -3140,9 +3064,9 @@ tehne - technika, technologia
 tehnium - technet  
 tehnokratia - technokracja  
 tehnolojia - technologia, nauka o technikach  
-tekse - tkanina (materiał, sukno)  
-tekse - tkać (pleść)  
-teksmasin - krosno  
+texe - tkanina (materiał, sukno)  
+texe - tkać (pleść)  
+texomaxin - krosno  
 tel - dystans  
 tele - daleki, odległy  
 telia - dystans  
@@ -3205,7 +3129,7 @@ tiz: - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)
 toce - dotyczyć  
 Togo - Togo  
 Tokyo - Tokio  
-tokse - trucizna (toksyna; toksyczny, trujący)  
+toxe - trucizna (toksyna; toksyczny, trujący)  
 tolere - tolerować  
 • tomografia - tomografia  
 • duotome - dychotomia  
@@ -3236,6 +3160,9 @@ tribe - plemię
 Trinidade e Tobago - Trynidad i Tobago  
 truke - sztuczka (podstęp, oszustwo)  
 truke - oszukać (oszukiwać  
+tu - ty, ciebie  
+tumon - wy, was  
+tu su - twój  
 tualete - taleta, WC  
 tube - tuba, rura  
 tuhe - pluć  
@@ -3310,6 +3237,7 @@ Valis e Futuna nesia - Saint Vincent i Grenadyny
 valse - walc  
 vampir - wampir  
 vampirbalsenter - wampirzyca piekielna (wampirnica)  
+van: - las (zagajnik)  
 van - zabawa, rozrywka  
 vane - bawić, zabawiać  
 vane - zabawny  
@@ -3323,10 +3251,10 @@ varke - kartka (dokument)
 varkalge - listownicowiec  
 varkolate - strona  
 vase - oaza  
-vase - prać, umyć, myć  
-vasmasin - pralka  
-vasurse - szop pracz  
-Vashington D
+vaxe - prać, umyć, myć  
+vaxomaxin - pralka  
+vaxurse - szop pracz  
+Vaxington D
 ## Waszyngton D.C  
 
 vate - przedmiot (obiekt)  
@@ -3371,7 +3299,6 @@ viete - wietnamski
 Vietia - Wietnam  
 vike - artykuł wiki  
 • vilaje - wieś, wioska  
-vilde - dziki  
 viman - samolot  
 vimankaper - porywacz samolotu  
 vin - wino  
@@ -3388,7 +3315,6 @@ Virgin nesia - Wyspy Dziewicze USA
 virus - wirus  
 viruslojia - wirusologia  
 vise - wice- (alternatywa, substytut, zastępstwo)  
-visologe - zaimek  
 visopresidante - wiceprezydent  
 visoreger - wicekról  
 viski - viski  
@@ -3422,15 +3348,15 @@ xatani - diabelski, szatański
 xatanisme - satanizm  
 xataniste - satanista  
 xefe - szef, kierownik  
-xefe - główny  
 xefe minister - premier  
+xefe di - główny  
 xei - rzecz  
 xeihal - sytuacja (stan)  
 xeihalironia - ironia sytuacyjna  
 xenon - ksenon  
 xenseng - mistrz (sensei)  
-sirope - syrop  
-siskababe - szisz kebab  
+xirope - syrop  
+xixkababe - szisz kebab  
 xite - gówno  
 Xiva - Śiwa  
 sis - rożen (szpikulec)  
@@ -3451,13 +3377,70 @@ xulxefe - dyrektor szkoły
 
 ##   
 
+ya - tak  
+yage - oszacować, szacować, przybliżyć, przybliżać  
+yago - około; przybliżony  
+yagones - półwysep  
+yege pes - łapać rybę  
+yahude - żydowski  
+yahudisme - judaizm  
+yake - jak (zwierzę)  
+yale - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
+yam - jedzenie, posiłek  
+yame - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
+yami - pyszny  
+yamfite - warzywo  
+yamkamar - jadalnia  
+yamsukarcau - cukrowiec jadalny  
+yamyau - głód  
+• exyam - piknik  
+yang - rodzaj, typ, styl  
+yasen - jesion  
+yatim - sierota  
+yatimokan - sierociniec, dom dziecka  
+yau - potrzeba  
+yavu - potrzebować  
+yavan - potrzebny  
+yausine - ufać (wierzyć, liczyć, polegać)  
+yausinable - lojalny (wierny)  
+yausinablia - lojalność (wierność)  
+anyave - niepotrzebny  
+ye - on, ona, ono  
+yemon - oni  
+yege - polować (łowić)  
+• yeger - łowca (myśliwy)  
+yei - jej  
+Yemen - Jemen  
+jen - osoba  
+jensen - żeń-szeń  
+yesus - Jezus  
+yeze - kokos  
+yo - jakiś  
+yo jen - ktoś  
+yo sate - sometime  
+yo xei - coś  
+yodium - jod; jodyna  
+yoge - joga  
+• yogiste - jogin (joginka)  
+yogur - jogurt  
+yohani feste - dzień świętego Jana  
+yomcete - tydzień  
 yom tri - środa  
 yon - jon  
 yon rade - radioaktywny  
 yon radia - radioaktywność  
 yoruba - Joruba  
+yote - kropla  
+yota - milion  
 yterbium - iterb  
 ytrium - itr  
+yuge - jarzmo  
+yune - młody  
+• yunia - młodość  
+• yunike - młodzież, młoda osoba  
+yune fem - dziewczyna  
+yune man - chłopak  
+yune moke - młode drzewo  
 
 ## Z  
 
@@ -3529,12 +3512,12 @@ zombe - zombie, zombi
 zon - pas, strefa  
 zong - gatunek  
 zongominte - mięta zielona (mięta kłosowa)  
-zou - animal  
-• zoulojia - zoologia  
-• zoulozi - zoologiczny  
-zovagria - hodowla zwierząt  
-zouparke - zoo (ogród zoologiczny)  
-zousikle - zodiak  
+zoe - animal  
+• zoolojia - zoologia  
+• zoolojike - zoologiczny  
+zoagria - hodowla zwierząt  
+zooparke - zoo (ogród zoologiczny)  
+zoosikle - zodiak  
 zuke - grupa etniczna  
 zukomede - międzyetniczny  
 zukam - przeziębienie, katar  

@@ -60,7 +60,7 @@ allophone - alofon
 allô - halou  
 alphabet - harfia  
 alpiniste - montaner  
-alumine (oxyde d'aluminium) - aluminokside  
+alumine (oxyde d'aluminium) - aluminoxide  
 aluminium - aluminium  
 alun - aluminmate  
 amande - badam  
@@ -84,7 +84,7 @@ Andorre - Andora
 andésite - andesite  
 anglophone - englofone  
 Angola - Angola  
-animal (bête) - zou  
+animal (bête) - zoe  
 animer (animation) - anime  
 anis - anis  
 anneau - ring  
@@ -138,7 +138,7 @@ artiste - artiste
 Artsakh - Arcah  
 Aruba - Aruba  
 ascète - askete  
-asexué - ansekse  
+asexué - ansexe  
 asiatique - ase  
 Asie - Asia  
 aspirine - aspirin  
@@ -166,7 +166,7 @@ automne - padomosim
 autopsie - nekrotome  
 autre (changer) - ale  
 avant - cene  
-avec (avoir) - ya  
+avec (avoir) - ha  
 aventure - ventur  
 aventurier - venturer  
 avis (opinion) - rai  
@@ -174,7 +174,7 @@ avocat - avakate
 avoine - aven  
 avoir besoin de - yavu  
 avoir tendance à - ive  
-axe - akse  
+axe - axe  
 Azerbaijan - Azerbaizan  
 azote - nitre  
 azur - lazure  
@@ -235,7 +235,7 @@ betterave à sucre (betterave sucrière) - sukarbete
 bibliothèque - kitabokan  
 bicyclette - sikle  
 bien-être - salamia  
-bilingue - dubaxiste  
+bilingue - duolinguike  
 billet - tikete  
 biologie - biolojia  
 biome - biosistem  
@@ -309,6 +309,7 @@ Camomille Romaine - roma kamil
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa  
+canne - gana  
 canne à sucre - sukar gana  
 canon - daipau  
 canoë - kano  
@@ -328,6 +329,7 @@ carte de crédit - krede karte
 carte à collectionner - zamokarde  
 cartographie - metrografia  
 cascade (chute d'eau) - suipade  
+caséine - kizoproten  
 cent (100) - cente  
 Centaurée - centaure  
 Centaurée bleuet - nilcentaur  
@@ -378,7 +380,7 @@ cime (pic, sommet) - pike
 cimetière - gabrostan  
 cinq (5) - lime  
 cinéphile - kinofilike  
-cirse commun - perkardon  
+cirse commun - perokardon  
 citron - limon  
 citronnade - limon jus  
 citrouille - kaboge  
@@ -411,6 +413,7 @@ concert - konserte
 concombre - hiyar  
 concombre confit (cornichon) - suanpursipi hiyar  
 concombre de mer - haihiyar  
+Confucius - Kongfuze  
 conjonction - juntolexe  
 conjugaison - konyuge  
 connecter - konnete  
@@ -501,7 +504,7 @@ de - za
 demain - posdeno  
 demander (question) - sual  
 dent - dante  
-dessous - nice  
+dessous - sube  
 destin - nasibe  
 deux (2) - du  
 devoir - debu  
@@ -518,7 +521,7 @@ différent - alosife
 dimanche - cetyom  
 dinde (dindon) - dinde  
 diorite - diorite  
-dioxyde de carbone - karbodulokside  
+dioxyde de carbone - karboduloxide  
 diplôme de master - master  
 directeur (principal) - xulxefe  
 dirigeant (leader) - lider  
@@ -616,7 +619,7 @@ exposer - expoze
 exposer - expoze  
 expulser - expele  
 extraire - extrate  
-extrajudiciaire - exyude  
+extrajudiciaire - exjude  
 extérieur - exe  
 exécrer - aname  
 
@@ -669,7 +672,7 @@ force navale (marine) - haigun
 forer (percer) - fore  
 forme (former) - forme  
 fort - bale  
-forêt (jungle) - jangle  
+forêt - van:  
 forêt de kelp - algajangle  
 fosse - kave  
 fougères - parne  
@@ -679,7 +682,7 @@ frais - taze
 francium - fransium  
 francophone - fransofone  
 francophonie - Fransofonia  
-fromage - cize  
+fromage - kize  
 fromage blanc - panir  
 frêne - yasen  
 féliciter (felicitation) - barke  
@@ -687,7 +690,7 @@ féliciter (felicitation) - barke
 ## G  
 
 gadolinium - gadolinium  
-galaxie - galaksia  
+galaxie - galaxia  
 gallium - galium  
 galop - galope  
 garde-boue (aile) - fandefban  
@@ -698,7 +701,7 @@ gaz lacrymogène - okosuigas
 gaze - gaze  
 gazelle - gazel  
 genou - gute  
-genre grammatical - baxe ginse  
+genre grammatical - lingue ginse  
 geographie - geografia  
 Germanie - Germania  
 germanium - germanium  
@@ -744,6 +747,7 @@ gêner (déranger, perturber) - turbe
 ## H  
 
 habiller (vêtir) - fuke  
+hache - futau  
 hafnium - hafnium  
 haine - hen  
 hameçon - pesohuke  
@@ -784,7 +788,7 @@ hélicoptère - helisviman
 hélium - helium  
 hémoglobine - hemoglobin  
 hétéroromantique (hétéromantique) - aloromanse  
-hétérosexuel - alosekse  
+hétérosexuel - alosexe  
 hôtel - hotel  
 
 ## I  
@@ -800,6 +804,7 @@ important - ham
 inclure - inkluze  
 inclusif - inkluzive  
 Inde - Bartia  
+indication (deixis) - dikion  
 indien - barte  
 indium - hindium  
 Indus - Hinde riu  
@@ -829,8 +834,8 @@ iode - yodium
 iridium - iridium  
 Irland - Eire  
 ironie - ironia  
-Islam - islamisme  
 Islam - islamia  
+Islam - islamisme  
 ivoire - gaja dante  
 
 ## J  
@@ -838,7 +843,7 @@ ivoire - gaja dante
 jade - giuke  
 Japon - Nipon  
 jaïnisme - zeinisme  
-je (me) - me  
+je (me) - mi  
 jeu de société - banogem  
 jeudi - caryom  
 jeune (juvénile) - yune  
@@ -848,7 +853,8 @@ jongleur - jongler
 joug - yuge  
 joule (J) - jul  
 jour - den  
-juje - yuder  
+juje - juder  
+jungle - jangle van  
 Jupiter - jupiter  
 jus - jus  
 jusque (jusqu’à) - hate  
@@ -881,8 +887,9 @@ lama (enseignant religieux du bouddhisme tibétain) - lama
 lama - liame  
 lampe - lampe  
 Lance-roquettes - roketolancer  
-langue - baxe  
+langage - lingue  
 langue - lisan  
+langue des signes - gestolingue  
 langue maternelle - genobase  
 lanthane - lantanium  
 lapin (lièvre) - tuze  
@@ -891,11 +898,11 @@ lasagne - lazanya
 latéral - late  
 lave - fuzopetre  
 lawrencium - laurensium  
-le (la) - le  
+le (la) - la  
 lent - lente  
 lentille - lense  
 Lettonie - Latvia  
-leur - losi  
+leur - yemon su  
 lexical - lexike  
 leçon - xul  
 libellule - libele  
@@ -940,7 +947,7 @@ lézard - saure
 
 ## M  
 
-machine à écrire - kitabomasin  
+machine à écrire - kitabomaxin  
 magma - pastopetre  
 magnésium - magesium  
 maillon (chaînon) - serlinke  
@@ -951,7 +958,6 @@ maison (foyer, domicile; vivre (habiter) - dom
 majeur - maxure  
 majorité - maxuria  
 mal de tête - sartunge  
-malédiccion - lane  
 malédiction - dusdua  
 maman - me  
 manche - kamisi xake  
@@ -1060,18 +1066,20 @@ métaux lourds - veze metal
 
 ## N  
 
-nappe - mezateks  
+nappe - mezatexe  
 nation - nasia  
 nature - nature  
+nature sauvage - janglia  
 nausée - retroguli sense  
 nautile - nautile  
 neige - hime  
 Neptune - Nepotun  
 neptunium - nepotunium  
-neuf (9) - nove  
+neuf (9) - nof  
 neurone - neurocel  
-neurotoxine - neurotokse  
+neurotoxine - neurotoxe  
 nexus (réseau) - nete  
+nez - naze  
 niche - nis  
 nickel - nikel  
 nid - nide  
@@ -1081,18 +1089,20 @@ niveau - par
 nobélium - nobelium  
 noir - siyahe  
 noit - noce  
-nombre (numéro) - numbe  
+nombre (numéro, compte; compter) - nume  
 nombre pair - pari numbe  
 non (ne...pas) - no  
 nord - norde  
+norme (normal) - norme  
 nostalgie - nostalgia  
 note - note  
-notre - mosi  
-nous - mos  
-nouveau - novi  
-nouveau-né - novogene  
+notre - mimon  
+nous - mimon su  
+nouveau - nove  
+nouveau-né - novojene  
 nouveauté - novia  
 nuage - nepe  
+nudisme - nudisme  
 nylon - nilon  
 nécessaire - yavan  
 nécessiteux (dans le besoin) - yave  
@@ -1100,9 +1110,7 @@ nécrologie - nekrologe
 nécrophilie - nekrofilisme  
 néodyme - neodimium  
 néologisme - novologe  
-néologisme - novologe  
 néon - neon  
-néophyte - novike  
 néophyte - novike  
 néphologie - nepolojia  
 
@@ -1157,11 +1165,11 @@ ou - o
 ouah - vah  
 oublier - dememe  
 oubliette (cul de basse-fosse) - geonici prizon  
-oui - ye  
+oui - ya  
 ours - urse  
 ovale - ovoide  
-oxyde - okside  
-oxygène - okse  
+oxyde - oxide  
+oxygène - oxe  
 où - a ke  
 
 ## P  
@@ -1269,7 +1277,7 @@ plein - pure
 plomb - plumbe  
 pluie - barse  
 plume - kalam  
-plurilingue (multilingue) - polbase  
+plurilingue (multilingue) - polilinguike  
 plus - max  
 plutonium - plutonium  
 pocion - medikosui  
@@ -1282,7 +1290,7 @@ poivre long - longopipre
 poli - fotofrike  
 pollution - nagis  
 polonium - polskium  
-Polynesie - Polnesia  
+Polynesie - Polinesia  
 pomme - aple  
 pont - pul  
 pore - pore  
@@ -1381,7 +1389,7 @@ rare - rare
 rarement - nadiro  
 raser - raze  
 rasoir - razor  
-raton laveur - vasurse  
+raton laveur - vaxurse  
 rayon de miel - maduvesponide  
 rebelle - rebeler  
 receveur (récepteur) - receper  
@@ -1485,6 +1493,7 @@ saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon
 saumon rose - rozosalmon  
 saumon sockeye - lalsalmon  
 sauvage - ekogene  
+sauvage - jangle  
 sauver (secourir) - salve  
 sauveur - salver  
 savane - garmozone caustan  
@@ -1513,11 +1522,11 @@ sentir qqch (avoir l'odeur de qqch) - aromu
 sentir qqch - gande  
 sept (7) - cete  
 serrure - sor  
-serviette - ganteks  
+serviette - gantexe  
 seul (unique) - unike  
 sexe - gense  
-sexologie - seksolojia  
-sexologie - seksolojia  
+sexologie - sexolojia  
+sexologie - sexolojia  
 Shiva - Xiva  
 si - gar  
 signer - namkitabe  
@@ -1585,7 +1594,7 @@ tantale - tantalium
 tarte - pai  
 tasse à thé - caikupe  
 taupe - krote  
-taximètre - taksi metrer  
+taximètre - taxi metrer  
 technique - tehne  
 technologie - tehnolojia  
 technétium - tehnium  
@@ -1619,7 +1628,7 @@ tige - tan
 tigre - bagre  
 tire à l'arc - arkeria  
 tirer - tira milke  
-tissu - tekse  
+tissu - texe  
 titane - titanium  
 titre - temnam  
 toile d'araignée - aranonete  
@@ -1635,11 +1644,10 @@ toupie - rototope
 touriste - safariste  
 tourner (rotationner) - rotate  
 Tournesol - soloful  
-toxicologie - toksolojia  
-toxine - biotokse  
+toxicologie - toxolojia  
+toxine - biotoxe  
 trace - marke  
 tracteur - trator  
-traduction - transobaxe  
 tragicomique - tragokomi  
 tragique - tragi  
 tragédie - tragodia  
@@ -1653,7 +1661,7 @@ travailleur (ouvrier) - karer
 traîner - trate  
 tremper (faire mariner) - pursipe  
 tribord - nauraite  
-tribunal (cour de justice) - yudokan  
+tribunal (cour de justice) - judokan  
 trichotomie - tritome  
 triple - triple  
 trois (3) - tri  
@@ -1662,7 +1670,7 @@ trottinette - skuter
 truite - salmon  
 truite arc-en-ciel - rangarkosalmon  
 truite brune (truite de mer) - brunsalmon  
-tu - te  
+tu - tu  
 tubercule - masmul  
 tungstène - volfram  
 Tunisie - Tunisia  
@@ -1740,7 +1748,7 @@ voir - vide
 voire (même) - hato  
 volcan - hogosan  
 voler (vol) - fei  
-votre - TOSI  
+votre - tumon su  
 vouloir - vol  
 voyelle - zungofon  
 voyelle - vokal son  
@@ -1767,12 +1775,12 @@ yttrium - ytrium
 
 zinc - zinke  
 zirconium - zirkonium  
-zodiaque - zousikle  
+zodiaque - zoosikle  
 zombi - zombe  
 zone - zon  
-zoo - zouparke  
-zoologie - zoulojia  
-zoologique - zoulozi  
+zoo - zooparke  
+zoologie - zoolojia  
+zoologique - zoolojike  
 Zoroastre - Zardus  
 zoroastrien - zardusiste  
 zoroastrisme - zardusisme  
@@ -1789,11 +1797,11 @@ zèbre - zebra
 écrire (écriture) - kitabe  
 écureuil - ekore  
 éducation - xulia  
-éducation civique - civepedia  
+éducation civique - civopedia  
 égal (même) - same  
 électricité - eletre  
 électronique - eletrolojia  
-élevage - zovagria  
+élevage - zoagria  
 élever - genite  
 éloge - euloge  
 élément (unité fondamentale) - em  

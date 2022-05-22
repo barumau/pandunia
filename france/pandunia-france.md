@@ -42,13 +42,13 @@ aishoke - hockey sur glace
 aiskrem - crème glacée  
 ajibe - merveille (éblouir, étonner, stupéfier, surprendre)  
 akare - acarien  
-akse - axe  
+axe - axe  
 ale - autre (changer)  
 alofon - allophone  
 aloraye - diverger (ne pas être d'accord)  
 alorayia - désaccord (différend)  
 aloromanse - hétéroromantique (hétéromantique)  
-alosekse - hétérosexuel  
+alosexe - hétérosexuel  
 alosife - différent  
 alosifia - différence  
 Alaska - Alaska  
@@ -62,7 +62,7 @@ alkol - alcool
 almari - placard  
 aluminium - aluminium  
 aluminmate - alun  
-aluminokside - alumine (oxyde d'aluminium)  
+aluminoxide - alumine (oxyde d'aluminium)  
 ame - aimer (amour, affection; cher)  
 • amater - amateur  
 • amer - amoureux  
@@ -241,10 +241,6 @@ batonkapse - cage
 batre - pile (batterie)  
 bau - précieux  
 bauseke - pierre précieuse (joyau)  
-baxe - langue  
-• dubaxiste - bilingue  
-• transobaxe - traduction  
-baxe ginse - genre grammatical  
 baze - base  
 baze bol - baseball  
 bazoxulkan - école primaire  
@@ -271,7 +267,7 @@ biocaniver - compost
 biolojia - biologie  
 biomute - fermenter  
 biosistem - biome  
-biotokse - toxine  
+biotoxe - toxine  
 bilor - cristal  
 bine - construire  
 binoplania - architecture  
@@ -354,8 +350,7 @@ cini manter - mandarin
 cire - déchirer  
 • civike - civique  
 • civile - civil  
-• civepedia - éducation civique  
-cize - fromage  
+• civopedia - éducation civique  
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
 cope - houe  
@@ -393,6 +388,7 @@ deu - dieu
 deunagre - dévanagari  
 deusofia - théosophie  
 dike - viser (direction, cible; objectif)  
+• dikion - indication (deixis)  
 dikobaton - baguette  
 din - religion  
 • diniste - croyant  
@@ -529,6 +525,7 @@ fungonete - mycélium
 fungopal - champignon  
 futobol - football  
 futomarke - empreinte de pied  
+futau - hache  
 fuze - melt  
 • exfuze - fondu  
 • infuze - infuser  
@@ -544,7 +541,7 @@ gadolinium - gadolinium
 gaja dante - ivoire  
 Galia - Gaule  
 galium - gallium  
-galaksia - galaxie  
+galaxia - galaxie  
 galope - galop  
 galte - faute (erreur; erroné)  
 • degalte - déboguer (débugger)  
@@ -553,7 +550,8 @@ galte - faute (erreur; erroné)
 gamoma - belle-mère  
 gamopa - beau-père  
 gancau - foin  
-ganteks - serviette  
+gantexe - serviette  
+gana - canne  
 gande - odeur  
 gande - sentir qqch  
 ganse - oie  
@@ -595,6 +593,7 @@ gere - guerre
 • geriler - partisan (guérillero)  
 Germania - Germanie  
 germanium - germanium  
+gestolingue - langue des signes  
 gide - guider  
 gidobuke - guide touristique  
 gider - guide  
@@ -629,6 +628,7 @@ gute - genou
 
 ## H  
 
+ha - avec (avoir)  
 hafnium - hafnium  
 hahe - rire  
 hai - mer  
@@ -703,60 +703,37 @@ hurargente - mercure
 
 ## I  
 
-ya - avec (avoir)  
-ye - oui  
 –i - suffixe pour l'adjectif  
-yahve - Yahweh (Jéhovah)  
-yamfite - légume  
-yamyau - faim  
-• exyam - piquenique  
-yasen - frêne  
-yatimokan - orphelinat  
-yau - besoin  
-yave - nécessiteux (dans le besoin)  
-yavu - avoir besoin de  
-yavan - nécessaire  
-yausine - fier  
-anyave - inutile  
-yege - chasser  
-jen - personne  
-• dusojen - ennemi  
-yesus - Jésus  
-• projete - projet  
-• projetaje - projet  
-• subjete - sujet  
 intru - entrer  
 intraje - intestin (entrailles, ventre, boyau)  
 introverse - introverti  
 intelige - intelligence  
 • inteligable - intelligible  
-yodium - iode  
-• yogiste - yogi  
-yogur - yaourt (yogourt)  
 iridium - iridium  
 ironia - ironie  
 islam - soumission  
 • islamia - Islam  
-islamisme - Islam  
+• islamisme - Islam  
 itis - inflammation  
 ive - avoir tendance à  
 ivia - tendance  
-• yuder - juje  
-• yudokan - tribunal (cour de justice)  
-• exyude - extrajudiciaire  
-yuge - joug  
-• konyuge - conjugaison  
-yune - jeune (juvénile)  
-yune moke - pousse  
-• juntion - jonction  
-juntolexe - conjonction  
 
 ## J  
 
-jangle - forêt (jungle)  
+jangle - sauvage  
+janglia - nature sauvage  
+jangle van - jungle  
+• projete - projet  
+• projetaje - projet  
+• subjete - sujet  
 jongle - jongler  
 • jongler - jongleur  
+• juder - juje  
+• judokan - tribunal (cour de justice)  
+• exjude - extrajudiciaire  
 jul - joule (J)  
+• juntion - jonction  
+juntolexe - conjonction  
 jupiter - Jupiter  
 jus - jus  
 juste - exact (précis)  
@@ -806,7 +783,7 @@ karmise - soumettre
 • duskar - méfait (péché)  
 Karaibia - Caraïbes  
 karbe - carbone  
-karbodulokside - dioxyde de carbone  
+karboduloxide - dioxyde de carbone  
 karcof - artichaut  
 karde - carte  
 kardon - chardon  
@@ -838,10 +815,12 @@ Kinsasa - Kinshasa
 kite - aller (quitter)  
 kite - parti  
 kitabe - écrire (écriture)  
-kitabia - littérature  
+• kitabia - littérature  
 kitabokan - bibliothèque  
-kitabomasin - machine à écrire  
+kitabomaxin - machine à écrire  
 kivi - kiwi  
+kize - fromage  
+kizoproten - caséine  
 • proklame - proclamer  
 klare - clair  
 klien - client  
@@ -860,6 +839,7 @@ konkare - collaborer
 konseler - consultant (conseiller)  
 kontrete - convention (alliance, pacte)  
 koncung - insecte  
+Kongfuze - Confucius  
 konserte - concert  
 konus - cône  
 kope - copie  
@@ -906,8 +886,7 @@ kusloke - couch (couchette)
 
 ## L  
 
-le - le (la)  
-losi - leur  
+la - le (la)  
 lage - lac  
 lai - venir  
 laiane - apporter  
@@ -917,7 +896,6 @@ lalorange - mandarine
 lalsalmon - saumon sockeye  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
-lane - malédiccion  
 lancograf - projection  
 lancografe - projeter (donner)  
 lancite - projectile  
@@ -958,6 +936,10 @@ limon jus - citronnade
 lin - ligne (fil)  
 linem - fibre  
 lince - lynx  
+lingue - langage  
+• duolinguike - bilingue  
+• polilinguike - plurilingue (multilingue)  
+lingue ginse - genre grammatical  
 linke - lien  
 lisan - langue  
 liste - liste  
@@ -987,9 +969,6 @@ lutetium - lutécium
 
 ## M  
 
-me - je (me)  
-mosi - notre  
-mos - nous  
 me - maman  
 • matre - mère  
 mace - match  
@@ -1055,7 +1034,10 @@ metallin - fil de fer
 metrograf - carte  
 metrografia - cartographie  
 meze - table  
-mezateks - nappe  
+mezatexe - nappe  
+mi - je (me)  
+mimon - notre  
+mimon su - nous  
 midi - medio  
 migre - migration (s'installer, déménager)  
 • inmigre - immigrer  
@@ -1135,6 +1117,7 @@ nau - bateau
 naulefte - babord  
 nauraite - tribord  
 nautile - nautile  
+naze - nez  
 nefre - rein  
 nefte - huile (pétrole)  
 • nekrofilisme - nécrophilie  
@@ -1152,8 +1135,7 @@ nete - nexus (réseau)
 • konnetor - connecteur  
 netogete - télécharger  
 neurocel - neurone  
-neurotokse - neurotoxine  
-nice - dessous  
+neurotoxe - neurotoxine  
 nide - nid  
 nikel - nickel  
 nile - bleu  
@@ -1166,22 +1148,22 @@ nis - niche
 nitre - azote  
 nobelium - nobélium  
 noce - noit  
+nof - neuf (9)  
 nome - organiser  
 norde - nord  
+norme - norme (normal)  
 • annorme - anormal (inhabituel)  
 • paranorme - paranormal  
 nostalgia - nostalgie  
 note - note  
-• novi - nouveau  
+nove - nouveau  
 • novia - nouveauté  
 • novike - néophyte  
-• novike - néophyte  
-novogene - nouveau-né  
+novojene - nouveau-né  
 novologe - néologisme  
-nove - neuf (9)  
-novologe - néologisme  
+• nudisme - nudisme  
 nuke - cou (encolure, nuque)  
-numbe - nombre (numéro)  
+nume - nombre (numéro, compte; compter)  
 • denunce - dénoncer (annoncer la fin d’un accord)  
 
 ## O  
@@ -1192,8 +1174,8 @@ oke - œil
 oke - oculaire  
 speter - spectateur  
 okosuigas - gaz lacrymogène  
-okse - oxygène  
-okside - oxyde  
+oxe - oxygène  
+oxide - oxyde  
 onde - onde  
 onor - honneur  
 onore - honorer  
@@ -1283,7 +1265,7 @@ pendokardon - chardon penché
 pente - peinture  
 pente - peindre  
 pentobrose - pinceau  
-perkardon - cirse commun  
+perokardon - cirse commun  
 perde - pet (vesse; péter)  
 pese - argent  
 pesodiske - monnaie (pièce)  
@@ -1320,8 +1302,7 @@ plum - prune
 plumbe - plomb  
 plutonium - plutonium  
 bio - piojo  
-polbase - plurilingue (multilingue)  
-Polnesia - Polynesie  
+Polinesia - Polynesie  
 polite - gouvernement  
 politer - administrateur  
 polskium - polonium  
@@ -1484,9 +1465,9 @@ se - se
 se su - son (sa)  
 semon - l'un l'autre  
 seke - pierre  
-seksolojia - sexologie  
-seksolojia - sexologie  
-• ansekse - asexué  
+sexolojia - sexologie  
+sexolojia - sexologie  
+• ansexe - asexué  
 sekure - sûr  
 sele - conseil (conseiller)  
 selenium - sélénium  
@@ -1575,6 +1556,7 @@ stude - étudier (étude)
 sual - demander (question)  
 suanpursipi hiyar - concombre confit (cornichon)  
 suar - soir (soirée)  
+sube - dessous  
 suede - sueur  
 suge - vite (rapide)  
 sui - eau  
@@ -1597,15 +1579,11 @@ susan - lys
 
 ## T  
 
-te - tu  
-TOS
-## votre  
-
 tablokomputer - ordinateur tablette  
 tablete konputer - ordinateur tablette  
 tai - estrade  
 tail - carreau (tuile)  
-taksi metrer - taximètre  
+taxi metrer - taximètre  
 tal - bas  
 tale - baisser  
 tale - bas  
@@ -1621,7 +1599,7 @@ taze - frais
 tehne - technique  
 tehnium - technétium  
 tehnolojia - technologie  
-tekse - tissu  
+texe - tissu  
 telfon - téléphone  
 telfone - téléphoner  
 telfonlin - ligne téléphonique  
@@ -1652,7 +1630,7 @@ tira pil - écorce
 tirlonge - tender  
 titanium - titane  
 toce - toucher  
-toksolojia - toxicologie  
+toxolojia - toxicologie  
 • tomografia - tomographie  
 • duotome - dichotomie  
 • tritome - trichotomie  
@@ -1676,6 +1654,8 @@ tri - trois (3)
 • triple - triple  
 truke - ruse  
 truke - escroquer  
+tu - tu  
+tumon su - votre  
 tulium - thulium  
 tune - thon  
 Tunisia - Tunisie  
@@ -1714,12 +1694,13 @@ vale - évaluer
 valse - valse  
 vampir - vampire  
 vampirbalsenter - vampire des abysses  
+van: - forêt  
 vanadium - vanadium  
 vare - divers (plusieurs)  
 varkalge - varech  
 varkolate - page  
-vasurse - raton laveur  
-Vashington D
+vaxurse - raton laveur  
+Vaxington D
 ##   
 
 vate - objet (article)  
@@ -1800,9 +1781,34 @@ xulxefe - directeur (principal)
 
 ##   
 
+ya - oui  
+yahve - Yahweh (Jéhovah)  
+yamfite - légume  
+yamyau - faim  
+• exyam - piquenique  
+yasen - frêne  
+yatimokan - orphelinat  
+yau - besoin  
+yave - nécessiteux (dans le besoin)  
+yavu - avoir besoin de  
+yavan - nécessaire  
+yausine - fier  
+anyave - inutile  
+yemon su - leur  
+yege - chasser  
+jen - personne  
+• dusojen - ennemi  
+yesus - Jésus  
+yodium - iode  
+• yogiste - yogi  
+yogur - yaourt (yogourt)  
 yom tri - mercredi  
 yterbium - ytterbium  
 ytrium - yttrium  
+yuge - joug  
+• konyuge - conjugaison  
+yune - jeune (juvénile)  
+yune moke - pousse  
 
 ## Z  
 
@@ -1835,12 +1841,12 @@ zive - vie
 zombe - zombi  
 zon - zone  
 zongominte - menthe verte  
-zou - animal (bête)  
-• zoulojia - zoologie  
-• zoulozi - zoologique  
-zovagria - élevage  
-zouparke - zoo  
-zousikle - zodiaque  
+zoe - animal (bête)  
+• zoolojia - zoologie  
+• zoolojike - zoologique  
+zoagria - élevage  
+zooparke - zoo  
+zoosikle - zodiaque  
 zuke - ethnie (ethnique)  
 Zulu - zoulou  
 zumurude - émeraude  

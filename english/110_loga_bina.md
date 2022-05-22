@@ -210,7 +210,7 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 **pre-**
 'before' :  
 **dite**
-'tell'  
+'tell'
 → **predite**
 'foretell, predict'  
 **vide**

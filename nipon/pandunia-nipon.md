@@ -109,10 +109,6 @@ baton - 杭
 batonkapse - 檻 (篭, ケージ)  
 batre - バッテリー  
 bauseke - 宝石  
-baxe - 言語  
-• transobaxe - 翻訳する  
-baxe ginse - 文法的性 (名詞クラス)  
-baxolojia - 言語学  
 baze bol - 野球  
 bazopetre - 基盤岩  
 bazoxulkan - 小学校  
@@ -135,7 +131,7 @@ bioginse - 生物学の性
 biolojia - 生物学  
 biomute - 熟成する (発酵する)  
 biosistem - 生物群系  
-biotokse - 毒素  
+biotoxe - 毒素  
 bilor - 結晶  
 bine - 建てる  
 binoplania - 建築学  
@@ -208,8 +204,8 @@ cinovieti - 漢越
 cing - 請う (ーて下さい)  
 cire - 裂く  
 circire - 千切る  
-cirteks - ボロ  
-cize - チーズ  
+cirtexe - ボロ  
+• codokan - 娼館  
 coi - 菜  
 coklate - チョコレート  
 coklatobaton - チョコバー  
@@ -254,6 +250,7 @@ desunlun - １１月
 deu - 神  
 deunagre - デーヴァナーガリー  
 dike - 方向 (標的, ターゲット; 狙う)  
+• dikion - 直示  
 dikobaton - 指し棒  
 din - 宗教  
 • diniste - 信徒 (信者)  
@@ -372,6 +369,7 @@ fungopal - 茸
 futoban - 足場  
 futobol - フットボール  
 futomarke - 足跡  
+futau - 斧  
 fuze - 溶ける  
 fuzopetre - 溶岩  
 
@@ -386,7 +384,7 @@ gaja dante - 象牙
 gale - のど  
 Galia - ガリア  
 galium - ガリウム  
-galaksia - 銀河  
+galaxia - 銀河  
 galte - 間違い (誤り, バグ)  
 • degalte - デバッグする  
 gamben - 連れ子  
@@ -424,6 +422,7 @@ gensolojia - ジェンダー研究
 • gerer - 戦士 (武士)  
 • geriler - ゲリラ  
 germanium - ゲルマニウム  
+gestolingue - 手話  
 gidobuke - ガイドブック  
 gider - 案内人 (ガイド)  
 • gihadiste - ムジャーヒディーン  
@@ -516,53 +515,28 @@ hurargente - 水銀
 
 ## I  
 
-ye - 何分の  
-ye - はい  
-yahve - ヤハウェ (エホバ)  
-yam - 食べ物 (食事)  
-yame - 食べる  
-yami - 美味しい  
-yamyau - 飢え  
-yang - タイプ  
-yasen - 秦皮  
-yau - 必要  
-yavan - 必要  
-yausine - 信頼する  
-yausinable - 忠実  
-anyave - 不要  
-yege - 狩り (狩猟)  
-jen - 人  
-• dusojen - 敵  
-• projetaje - プロジェクト  
 ike - 的  
 in - 内  
 intraje - 腸 (臓器)  
 introverse - 内向的な人  
 intelige - 知性  
-yodium - ヨウ素  
-• yogiste - ヨギ  
-yogur - ヨーグルト  
-yom - 日  
 IP adres - IPアドレス  
 iridium - イリジウム  
 irone - 反語的  
 ironia - 反語 (皮肉)  
 • islamia - イスラム教  
-islamisme - イスラム教  
+• islamisme - イスラム教  
 ivia - 傾向  
-yuge - 軛  
-• yunike - 青少年  
-yune fem - 女の子  
-yune man - 男の子  
-yune moke - 若木  
-juntolexe - 接続詞  
 
 ## J  
 
-jangle - 森 (森林, ジャングル)  
+jangle - 野生の  
+jangle van - ジャングル  
+• projetaje - プロジェクト  
 jongle - ジャグリング  
 • jongler - ジャグラー  
 jul - ジュール (J)  
+juntolexe - 接続詞  
 jupiter - 木星  
 jus - ジュース  
 justopaver - 狙撃兵  
@@ -643,12 +617,14 @@ kinu - 動く
 • kinograf - 映画  
 kire - 賃貸  
 kite - 行く  
-kitabia - 文献 (文学)  
-kitabeme - 書記素  
+• kitabia - 文献 (文学)  
+• kitabeme - 書記素  
 kitaboforme - 書式付け  
 kitabokan - 図書館  
 kitabominister - 図書係  
 kivi - キーウィフルーツ  
+kize - チーズ  
+kizoproten - 乾酪素  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
 klimomute - 気候変動  
@@ -663,6 +639,7 @@ konpatia - 同情
 konseler - 顧問  
 koncung - 昆虫  
 konge - 染みる (貫通する)  
+Kongfuze - 孔夫子  
 konserte - コンサート (音楽会)  
 konus - 錐  
 kope - コピー  
@@ -713,8 +690,6 @@ lalorange - ポンカン (マンダリン)
 lalsalmon - ベニザケ  
 lama - ラマ (チベット仏教の上師)  
 lampe - ランプ  
-lane - 呪い (たたり)  
-lane - 呪う  
 LAN (loke aria nete) - LAN  
 lancograf - 投影  
 lancografe - 映す (投影する)  
@@ -753,6 +728,9 @@ limon jus - レモネード
 lin - 糸  
 linem - 繊維  
 lince - 大山猫  
+lingue - 言語  
+lingue ginse - 文法的性 (名詞クラス)  
+linguolojia - 言語学  
 linke - 繋がり (リンク)  
 linke - 繋ぐ  
 lisan - 舌  
@@ -778,9 +756,6 @@ lutetium - ルテニウム
 
 ## M  
 
-me - 私  
-mi - 私の  
-mos - 私たち  
 me - お母さん (母,ママ)  
 mace - 試合 (競技)  
 maduvesponide - 蜂の巣 (ハニカム)  
@@ -835,7 +810,10 @@ metallin - 線 (針金)
 metal tul - 金物  
 meze - 机 (テーブル)  
 mezastan - 台地 (高地)  
-mezateks - テーブル掛け  
+mezatexe - テーブル掛け  
+mi - 私  
+mimon su - 私たち  
+mi su - 私の  
 mien - ヌードル  
 • inmigre - 移住する (移民する)  
 • inmigrer - 移民 (移住者)  
@@ -896,6 +874,7 @@ nasibe - 運命 (宿命)
 natrium - ナトリウム  
 nau - 舟 (ボート)  
 nautile - オウムガイ  
+naze - 鼻  
 nefre - 腎臓  
 nefte - 油 (オイル)  
 neftoguke - シマカンギク (アブラギク)  
@@ -907,10 +886,9 @@ neon - ネオン
 nepe - 雲  
 • nepi - 霧深い (曇っている)  
 nepotunium - ネプツニウム  
-• intonete - インターネット  
+• internete - インターネット  
 • konnete - 繋げる  
-neurotokse - 神経毒  
-nice - 下  
+neurotoxe - 神経毒  
 nide - 巣  
 nikel - ニッケル  
 nile - 青い  
@@ -925,23 +903,21 @@ nis - 壁龕
 nitre - 窒素  
 nobelium - ノーベリウム  
 noce - 夜  
+nof - 九 (9)  
 nole - キャンセルする  
 nome - 組織する  
 norde - 北  
-norme - 標準  
-norme - 普段 (ノーマル)  
+norme - 標準 (普段, ノーマル)  
 • annorme - 不自然  
 nostalgia - 懐古 (懐旧)  
-• novi - 新しい  
-• novike - 初心者  
+nove - 新しい  
 • novike - 初心者  
 novoyange - 近代的  
 novologe - 新語 (新造語)  
-nove - 九 (9)  
-novologe - 新語 (新造語)  
 novolun - ９月  
+• nudisme - ヌーディズム  
 nuke - 首  
-numbe - 数える  
+nume - 数える  
 
 ## O  
 
@@ -949,7 +925,7 @@ ode - 頌歌 (オード)
 oke - 目  
 okosuigas - 催涙ガス  
 okeye - 大丈夫 (ＯＫ)  
-okse - 酸素  
+oxe - 酸素  
 onde - 波  
 orangi - オレンジ色の  
 orkide - ラン  
@@ -1009,7 +985,7 @@ pelpel - チョウ
 pente - 絵の具 (ペンキ)  
 pentobrose - 絵筆  
 • penter - 画家 (絵かき)  
-perkardon - アメリカオニアザミ  
+perokardon - アメリカオニアザミ  
 perde - 屁  
 pese - 金  
 pesohuke - 釣り針  
@@ -1034,9 +1010,9 @@ plum - セイヨウスモモ (プラム)
 plumbe - 鉛  
 plutonium - プルトニウム  
 poke - ポーカー  
-polmaro - よく (屡々)  
-Polnesia - ポリネシア  
 poli - たくさん  
+poli mar - よく (屡々)  
+Polinesia - ポリネシア  
 polite - 政府  
 polite - 治める (司る)  
 politomode - 政体  
@@ -1165,8 +1141,8 @@ savovolite - 面白い
 saure - 蜥蜴  
 saus - ソース  
 sekozanger - 石匠  
-seksolojia - 性科学  
-seksolojia - 性科学  
+sexolojia - 性科学  
+sexolojia - 性科学  
 sekurokope - バックアップ (控え)  
 sekuronumbe - 暗証番号  
 selenium - セレン  
@@ -1245,6 +1221,7 @@ sual - 聞く (質問, 問題)
 sualdokum - アンケート (質問用紙)  
 suar - 夕べ  
 suaryam - 夕食  
+sube - 下  
 sube - 朝  
 subyam - 朝食  
 suge - 速い  
@@ -1270,26 +1247,20 @@ suso - しーっ
 
 ## T  
 
-te - あなた  
-ti - あなたの  
-tos - あなたたち  
-TOS
-##   
-
 tablokomputer - タブレットコンピュータ  
 tablete konputer - タブレットコンピュータ  
 tail - タイル (瓦)  
 tali moke - 灌木 (藪)  
 talium - タリウム  
-talteks - 絨毯 (カーペット)  
+taltexe - 絨毯 (カーペット)  
 Talban - タリバン  
 tan - 茎 (胴)  
 tantalium - タンタル  
 tas - 皿  
 tehne - 技術  
 tehnium - テクネチウム  
-tekse - 布  
-teksmasin - 織機  
+texe - 布  
+texomaxin - 織機  
 telfon - 電話  
 telfone - 電話する  
 teloloku - 瞬間移動  
@@ -1313,7 +1284,7 @@ tirlonge - 伸びる (張る)
 tiroriu - 離岸流  
 titanium - チタン  
 Tokyo - 東京  
-tokse - 毒  
+toxe - 毒  
 • tomografia - トモグラフィー  
 • tritome - 三分法  
 • zivotome - 生体解剖  
@@ -1328,6 +1299,9 @@ tri - 三 (3)
 tripike - 三つまた (トライデント)  
 truke - 悪戯 (詐欺)  
 truke - 騙す  
+tu - あなた  
+tumon - あなたたち  
+tu su - あなたの  
 tulium - ツリウム  
 tune - 鮪 (ツナ)  
 tunge - 痛み  
@@ -1359,6 +1333,7 @@ val - 価値
 valse - ワルツ (円舞曲)  
 vampir - 吸血鬼  
 vampirbalsenter - コウモリダコ  
+van: - 森 (森林)  
 van - 楽しみ (娯楽)  
 vane - 楽しい  
 vanu - 遊ぶ  
@@ -1366,8 +1341,8 @@ vanadium - バナジウム
 vare - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 varkalge - コンブ  
 varkolate - ページ (面)  
-vasurse - 狸 (ラクーン, 洗い熊)  
-Vashington D
+vaxurse - 狸 (ラクーン, 洗い熊)  
+Vaxington D
 ##   
 
 vate - 物 (品)  
@@ -1430,9 +1405,35 @@ xulxefe - 校長
 
 ##   
 
+ya - はい  
+yahve - ヤハウェ (エホバ)  
+yam - 食べ物 (食事)  
+yame - 食べる  
+yami - 美味しい  
+yamyau - 飢え  
+yang - タイプ  
+yasen - 秦皮  
+yau - 必要  
+yavan - 必要  
+yausine - 信頼する  
+yausinable - 忠実  
+anyave - 不要  
+yege - 狩り (狩猟)  
+jen - 人  
+• dusojen - 敵  
+yo - 何分の  
+yodium - ヨウ素  
+• yogiste - ヨギ  
+yogur - ヨーグルト  
+yom - 日  
 yom tri - 水曜日  
 yterbium - イッテルビウム  
 ytrium - イットリウム  
+yuge - 軛  
+• yunike - 青少年  
+yune fem - 女の子  
+yune man - 男の子  
+yune moke - 若木  
 
 ## Z  
 
@@ -1461,12 +1462,12 @@ ziraf - 麒麟
 zirkonium - ジルコニウム  
 zive - 命 (生命)  
 zongominte - スペアミント  
-zou - 動物  
-• zoulojia - 動物学  
-• zoulozi - 動物学の  
-zovagria - 畜産  
-zouparke - 動物園  
-zousikle - 黄道帯  
+zoe - 動物  
+• zoolojia - 動物学  
+• zoolojike - 動物学の  
+zoagria - 畜産  
+zooparke - 動物園  
+zoosikle - 黄道帯  
 zuke - 民族  
 zung - 中心  
 Zungogia - 中国  

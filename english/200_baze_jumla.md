@@ -638,7 +638,7 @@ Can you speak Pandunia?
 **mi bil pandunia.**
 I can speak Pandunia.
 
-**mi bil lili da pandunia.**
+**mi bil lili de pandunia.**
 I can speak a little Pandunia.
 
 **mi no bil english.**
@@ -710,7 +710,7 @@ What does this word mean?
 **"mau" ya mana ke?**
 What does "mau" mean?
 
-**ye mana un yang da zou.**
+**ye mana un yang de zou.**
 It means a kind of animal.
 
 **mi no aha ye mana ke.**
