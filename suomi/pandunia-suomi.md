@@ -38,6 +38,7 @@ Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kann
 
 ## A  
 
+a sababe de - koska (johdosta, takia)  
 a - luona (-lla, -ssa)  
 a ke - missä?  
 a le - siellä (tuolla)  
@@ -85,7 +86,6 @@ aiskrem - jäätelö
 ajibe - ihme (ihmeellinen, ällistyttävä)  
 ajibia - hämmästys (ihmetys)  
 akare - punkki  
-axe - akseli  
 ale - muu (toinen; muuttaa toiseksi)  
 • alo - muuten (toisin)  
 alofon - allofoni (vaihtoehtoinen ääntämys)  
@@ -228,6 +228,7 @@ autologe - yksinpuhelu (monologi)
 automote - itseliikkuva  
 autonome - autonominen  
 autonomia - itsehallinto (autonomia)  
+axe - akseli  
 Azerbaizan - Azerbaidžan  
 
 ## B  
@@ -416,11 +417,11 @@ Brunei - Brunei
 brus - sisarus (veli tai sisko)  
 brusben - sisaruksen lapsi  
 buce - teurastaa (lahdata)  
-bucer - teurastaja  
-bucokan - teurastamo  
+• bucer - teurastaja  
+• bucokan - teurastamo  
 bude - ymmärrys (taju, oivallus; valaistunut)  
-budisme - buddhalaisuus (buddhismi)  
-budiste - buddhalainen  
+• budisme - buddhalaisuus (buddhismi)  
+• budiste - buddhalainen  
 • mesbude - ymmärtää väärin  
 Buda - Buddha  
 Budapext - Budapest  
@@ -610,6 +611,7 @@ darte - maa (multa; mutainen, likainen)
 darvinisme - darwinismi  
 darviniste - darwinisti  
 date - data (numeerinen tieto)  
+• dataje - tiedosto  
 datobanke - tietokanta  
 datotable - taulukko  
 dau - tie  
@@ -752,6 +754,7 @@ dulsonde - stereofoninen
 duman - savu  
 dunia - maailma  
 dunia lingue - maailmankieli  
+duna - dyyni (kinos)  
 dungia aventur - luolaseikkailu  
 dur - kestää (kulua, viedä aikaa; kestoaika, kesto, aika)  
 • dura - jatko (jatkaa; jatkua)  
@@ -932,10 +935,10 @@ fizike - fysiikka
 • fizikia - fysiikka  
 • fiziker - fyysikko  
 flece - nuoli  
+flerovium - flerovium  
 • reflexe - heijastaa (taittaa takaisin)  
 • reflexon - heijastus  
 • reflexor - heijastin  
-flerovium - flerovium  
 flurium - fluori  
 fobe - pelko (pelottaa; pelätä; pelokas)  
 • fobia - kammo (fobia)  
@@ -1286,8 +1289,9 @@ hibride - risteytys (hybridi)
 hidre - vety  
 higabe - verho (huntu, peite)  
 hiyar - kurkku  
-hime - lumi  
-himros - kuura  
+hima - lumi  
+hima duna - lumikinos  
+hima rose - kuura  
 Himalia - Himalaja  
 Hinde riu - Indusjoki  
 hinde - hindin kieli  
@@ -1763,7 +1767,6 @@ kuang - kivennäinen (mineraali)
 kuangosui - kivennäisvesi  
 kube - kuutio  
 Kuba - Kuuba  
-kuge - itkeä  
 kuke - kokata (laittaa ruokaa)  
 Kuke nesia - Cookin saaret  
 kuker - kokki  
@@ -1772,6 +1775,9 @@ kuku - käki
 kule - upea (hieno)  
 kulombe - kulombi (mittayksikkö C)  
 kultur - kulttuuri  
+kume - kumpu (kasa, läjä)  
+• kumule - kasa (kasautua, kumuloitua)  
+kumulonepe - kumpupilvi  
 kupe - malja (kuppi, muki, lasi)  
 kupocate - kupoli (holvikatto)  
 kupon - kuponki  
@@ -1938,17 +1944,21 @@ luge - tallenne (rekisteri; tallentaa, rekisteröidä, kirjata)
 luge - vihreä  
 • lugia - rekisteri (tili)  
 lugobuke - lokikirja  
-Luxemburge - Luxemburg  
 lul - helmi  
 lune - kuu  
 lun - kuukausi  
-lunokeke - kuukakku  
 lun tri - maaliskuu  
+lunokeke - kuukakku  
 lung - itämainen lohikäärme  
 lusun - parsa  
 lute - ryöstää (ryövätä)  
 luter - ryöväri (rosvo)  
 lutetium - lutetium  
+luxe - runsas  
+• luxure - ylenmääräinen  
+• luxuria - ylenmääräisyys (luksus)  
+• deluxe - deluxe  
+Luxemburge - Luxemburg  
 
 ## M  
 
@@ -2197,6 +2207,7 @@ monte - vuori (mäki)
 morfe - morfi  
 morfem - morfeemi  
 morfeme - morfeemi  
+pandunia - suomi  
 Moris - Mauritius  
 morte - kuolema (kuolo)  
 morte - tappaa  
@@ -2366,9 +2377,10 @@ nobelium - nobelium
 noce - yö  
 nocomode - yömoodi  
 node - solmia (solmu)  
+• nodule - myky  
 nof - yhdeksän  
 nome - järjestellä (hallinnoida, organisoida, manageroida)  
-nomia - hallinto (hallinnointi)  
+• nomia - hallinto (hallinnointi)  
 norde - pohjoinen  
 Nordi Amerike - Pohjois-Amerikka  
 Nordi Cosen - Pohjois-Korea  
@@ -2424,8 +2436,6 @@ okosui - kyynel
 okei - hyväksyntä  
 okeye - hyväksyä  
 okeye - kelpo (okei)  
-oxe - happi  
-oxide - oksidi  
 Olandi nesia - Ahvenanmaa (Oolanti)  
 Oman - Oman  
 onde - aalto (laine)  
@@ -2461,6 +2471,8 @@ ote - suosia (pitää parempana)
 • otional - valinnainen (optionaalinen)  
 ove - muna  
 • ovoide - soikea (munanmuotoinen,ovaali)  
+oxe - happi  
+oxide - oksidi  
 
 ## P  
 
@@ -2919,8 +2931,6 @@ rutin - tapa (rutiini)
 ## S  
 
 sababe - syy (aiheuttaa, olla syynä)  
-a sababe de - koska (johdosta, takia)  
-• ansave - vieras (tuntematon)  
 sabate - sapatti  
 sable - hiekka  
 • movosable - juoksuhiekka  
@@ -3013,19 +3023,13 @@ Saudi Arabia - Saudi Arabia
 sauna - sauna  
 saure - lisko  
 saus - kastike (soosi)  
+• ansave - vieras (tuntematon)  
 se - itse  
 se su - oma (-nsa)  
 semon - toisiaan (toinen toistaan)  
 seke - kivi (hippu)  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
-sexe - seksi (sukupuolisuhde)  
-sexe - seksikäs  
-sexe - seksikäs  
-sexolojia - seksologia  
-sexolojia - seksologia  
-• ansexe - aseksuaali  
-• dusexe - biseksuaali  
 sekunde - sekunti  
 sekure - turvallinen (varma, suojattu; turvata, suojella)  
 sele - neuvo (neuvoa, suositella)  
@@ -3067,6 +3071,13 @@ serve - palvella (tarjoilla)
 server - palvelija (tarjoilija)  
 sesam - seesami  
 Seshel nesia - Seychellit  
+sexe - seksi (sukupuolisuhde)  
+sexe - seksikäs  
+sexe - seksikäs  
+sexolojia - seksologia  
+sexolojia - seksologia  
+• ansexe - aseksuaali  
+• dusexe - biseksuaali  
 • homosexe - homoseksuaali  
 si - olla  
 si ham - olla väliä (olla tärkeä)  
@@ -3163,8 +3174,8 @@ solosistem - aurinkokunta
 Solomon nesia - Salomon-saaret  
 some - nukkua (nukkuminen, uni)  
 • somive - unelias  
-• ansome - unettomuus  
 • desome - herättää  
+• ansome - unettomuus  
 somokamar - makuuhuone  
 Somalia - Somalia  
 Somaldes - Somalimaa  
@@ -3253,30 +3264,22 @@ supre - ylitys
 supre - ylittää  
 supro - yllä (pääll)  
 suprize - yllätys  
-sur - alku  
-sure - aloittaa  
 Suria - Syyria  
-suru - alkaa  
 Surinam - Surinam  
-surinami bas - sranan tongo  
+surinami baxe - sranan tongo  
 sus - lakritsi  
-suse - hiljentää  
-suse - hiljainen  
-suso - hiljaa (hys, shhh)  
 susan - lilja  
-sushe - sushi  
-sute - taito  
 sute - ommella  
-sute - taitava  
-sutur - sauma (ommel)  
+• suture - sauma (ommel)  
+suxi - sushi  
 
 ## T  
 
 tabake - tupakka  
 table - laatta (levy, taulu)  
-tabla date - taulukoida  
-tablokomputer - taulutietokone (tabletti)  
+• tablate - taulukoida  
 tablete konputer - taulutietokone (tabletti)  
+table konputer - taulutietokone (tabletti)  
 tafun - myrsky  
 tai - lava  
 Tai - thai  
@@ -3284,10 +3287,6 @@ Tai dexia - Thaimaa
 Taibei - Taipei  
 taige - taiga  
 Taivan - Taiwan  
-taxe - taksa (vero)  
-taxe - veloittaa (verottaa)  
-taxi kar - taksi  
-taxi metrer - taksamittari  
 tal - pohja  
 talium - tallium  
 talbe - hakea (pyrkiä; hakemus, pyrkimys)  
@@ -3311,15 +3310,16 @@ tatosense - tuntea
 tatike - taktiikka  
 tatu - tatuointi  
 tave - pannu (paistinpannu)  
+taxe - taksa (vero)  
+taxe - veloittaa (verottaa)  
+taxi kar - taksi  
+taxi metrer - taksamittari  
 taze - tuore (raikas)  
 Tazikia - Tadžikistan  
 tehne - tekniikka (keino, menetelmä)  
 tehnium - teknetium  
 tehnokratia - teknokratia  
 tehnolojia - tekniikka (teknologia)  
-texe - kangas  
-texe - kutoa kangasta  
-texomaxin - kutomakone  
 tel - etäisyys (kaukaisuus)  
 tele - kaukainen  
 telia - etäisyys (kaukaisuus)  
@@ -3360,6 +3360,9 @@ tesle - tesla (T)
 teste - koe (testi, yritys)  
 teste - yrittää (kokeilla)  
 Tetis - Tethys  
+texe - kangas  
+texe - kutoa kangasta  
+texomaxin - kutomakone  
 texte - teksti  
 • intertexte - intertekstuaalinen  
 • kontexte - konteksti (asiayhteys)  
@@ -3378,11 +3381,12 @@ tire - vetää (kiskoa)
 tira milke - lypsää maitoa  
 tirsanduke - vetolaatikko  
 titanium - titaani  
+tix - hiljaa (hys, shhh)  
+tixe - hiljainen  
+tixia - hiljaisuus  
 tiz: - terävä (kimeä, nokkela, napakka, jne)  
 toce - koskea (koskettaa)  
 Togo - Togo  
-toxe - myrkky (myrkyllinen)  
-toxolojia - toksikologia (myrkkyoppi)  
 tolere - sallia  
 tome - jakaa (leikata)  
 • tomografe - läpileikkaus  
@@ -3405,6 +3409,8 @@ topografe - topografia
 torium - torium  
 torse - vartalo (varsi, torso)  
 tortuge - kilpikonna  
+toxe - myrkky (myrkyllinen)  
+toxolojia - toksikologia (myrkkyoppi)  
 tragi - murheellinen (traaginen)  
 tragokomi - surkuhupaisa (tragikoominen)  
 tragodia - tragedia (murhenäytelmä)  
@@ -3475,8 +3481,8 @@ un - yksi (1)
 • uniko - ainoastaan (vain)  
 • unime - ensimmäinen (numero yksi)  
 • unite - yhtenäinen  
-Uniti Arabi Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
-Uniti Des Da Amerike (UDA) - Yhdysvallat (ns. Amerikka)  
+Unite Arabe Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
+Unite State de Amerika (USA) - Yhdysvallat (ns. Amerikka)  
 unale - toisiaan (keskenään; molemminpuolinen, keskinäinen)  
 unemisme - monismi  
 Uni Arabi Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
@@ -3524,15 +3530,17 @@ varis - perintö
 varke - lehti (arkki, levy)  
 varkolate - sivu (kirjassa)  
 vase - keidas  
+vate - esine (tavara)  
+vat - watti  
+Vatikan - Vatikaanivaltio  
+vau - oho (vau)  
+vava - itkeä  
+vava bebe - itkupilli  
 vaxe - pestä  
 vaxomaxin - pesukone  
 Vaxington D
 ## Washington DC  
 
-vate - esine (tavara)  
-vat - watti  
-Vatikan - Vatikaanivaltio  
-vau - oho (vau)  
 vei - häntä  
 veye - poikittainen (vaaka)  
 veilin - kude  
@@ -3677,6 +3685,11 @@ xuler - oppilas
 xulkamar - luokkahuone  
 xulkan - koulu (opisto)  
 xulxefe - rehtori  
+xure - alku  
+xure - aloittaa  
+xure - alkaa  
+xute - taito  
+xute - taitava  
 
 ##   
 
@@ -3809,11 +3822,6 @@ zirkonium - zirkonium
 zive - elää (elämä)  
 • zivi - elävä  
 zize - sihistä  
-zombe - zombi  
-zon - vyö  
-zong - laji  
-zor - väkivalta (pakko)  
-zorsexe - raiskaus  
 zoe - eläin  
 • zoofilia - eläinrakkaus  
 • zoogeografia - eläinmaantiede  
@@ -3823,6 +3831,11 @@ zoagria - karjanhoito
 zooparke - eläintarha  
 zoosikle - eläinrata  
 zootoxe - eläinmyrkky (zootoksiini)  
+zombi - zombi  
+zone - vyö  
+zong - laji  
+zor - väkivalta (pakko)  
+zorsexe - raiskaus  
 zuke - kansanryhmä (etninen ryhmä)  
 zukomede - kansanryhmien välinen  
 zukam - vilustuminen  

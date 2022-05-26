@@ -27,7 +27,6 @@ airoporte - аэропорт
 aishoke - хокке́й с ша́йбой  
 aiskrem - мороженое  
 akare - клещ (лепта)  
-axe - ось  
 ale - другой (второй; изменять)  
 alga - водоросли  
 algafung - лишай  
@@ -104,6 +103,7 @@ aven - овёс
 aure - золото  
 Austronesia - Австронезия  
 autologe - монолог  
+axe - ось  
 
 ## B  
 
@@ -207,8 +207,8 @@ bromium - бром
 brune - коричневый  
 brunalge - бурые водоросли  
 brunsalmon - кумжа  
-bucer - мясник  
-bucokan - бойня  
+• bucer - мясник  
+• bucokan - бойня  
 Buda - Будда  
 bufete - буфет  
 bugete - бюджет  
@@ -292,6 +292,7 @@ darotube - воронка
 dargomute - развитие  
 darmositium - дармштадтий  
 date - данные  
+• dataje - файл  
 datobanke - база данных  
 dauban - табличка с названием улицы  
 defkaske - доспехи  
@@ -339,6 +340,7 @@ duce - душ
 duge - читать  
 dulyom - вторник  
 dunia - мир (свет)  
+duna - дюна  
 dur - длиться  
 • duro - ещё  
 • durable - долговечный  
@@ -760,6 +762,7 @@ kuarze - кварц
 kube - куб  
 kukokamar - кухня  
 kuku - кукушка  
+kumulonepe - кучевое облако  
 kupe - чаша (чашка, стакан)  
 kupre - медь  
 kurium - кюрий  
@@ -951,6 +954,7 @@ molseke - жёрнов
 molidenium - молибден  
 moluske - моллюск  
 • montaner - альпинист (скалолаз)  
+pandunia - rusi  
 • posmortal - после смерти  
 mos - мох  
 mosim - время года (сезон)  
@@ -1020,7 +1024,7 @@ nobelium - нобелий
 noce - ночь  
 nof - девять (9)  
 nome - организовать  
-nomia - организация  
+• nomia - организация  
 norde - север (норд)  
 • annorme - ненормальный  
 nostalgia - ностальгия (тоска)  
@@ -1043,8 +1047,6 @@ o - или
 oke - глаз (око)  
 oke - глазной  
 okosuigas - слезоточи́вый газ  
-oxe - кислород  
-oxide - окись (оксид)  
 onor - честь  
 onore - чтить  
 oritis - отит  
@@ -1061,6 +1063,8 @@ ostogamia - скелет (остов)
 • otimal - оптимальный (наилучший)  
 • otion - опция (выбор,альтернатива)  
 • ovoide - овал  
+oxe - кислород  
+oxide - окись (оксид)  
 
 ## P  
 
@@ -1308,8 +1312,6 @@ saus - соус
 se - себя (-ся)  
 semon - друг друга  
 seke - камень (камешек)  
-sexolojia - сексология  
-sexolojia - сексология  
 sele - совет (советовать)  
 selenium - селен  
 selge - мангольд  
@@ -1332,6 +1334,8 @@ sernete - кольчуга
 serame - керамика  
 servor - сервер  
 sesam - сезам  
+sexolojia - сексология  
+sexolojia - сексология  
 si - быть  
 siane - циан  
 sibaye - проиграть (провалиться)  
@@ -1415,19 +1419,16 @@ sulfe - сера
 sundaria - красота  
 sundardake - украшение  
 sundardake - украсить  
-sur - начало  
 sus - солодка (лакрица)  
-suse - тихий  
 susan - лилия  
 
 ## T  
 
 table - плита  
-tablokomputer - планшетный компьютер  
 tablete konputer - планшетный компьютер  
+table konputer - планшетный компьютер  
 tai - сцена (подмостки, эстрада)  
 tail - черепи́ца  
-taxi metrer - таксометр  
 tali moke - куст  
 talium - таллий  
 taltexe - ковёр  
@@ -1439,12 +1440,11 @@ tas - блюдо (таз)
 tate - касаться  
 • kontate - контакт  
 tatu - татуировка (тату)  
+taxi metrer - таксометр  
 taze - свежий  
 tehne - техника  
 tehnium - технеций  
 tehnolojia - технология  
-texe - ткань  
-texomaxin - ткацкий станок  
 telfon - телефон  
 telfone - звонить  
 telfonia - телефония  
@@ -1470,6 +1470,8 @@ terbium - тербий
 terce - косой  
 tese - довод  
 teste - проба (тест)  
+texe - ткань  
+texomaxin - ткацкий станок  
 • tikete - билет  
 tim - команда  
 tira milke - тянуть  
@@ -1478,8 +1480,9 @@ tirbaton - рычаг
 tirlonge - вытянуть  
 tiroriu - отбойное течение  
 titanium - титан  
+tixe - тихий  
+tixia - тишина  
 toce - касаться  
-toxolojia - токсикология  
 • tomografia - томография  
 • duotome - дихотомия  
 • tritome - трихотомия  
@@ -1488,6 +1491,7 @@ tomate - помидор (томат)
 topografe - топография  
 • topografia - топография  
 torium - торий  
+toxolojia - токсикология  
 tragi - трагический  
 tragodia - трагедия  
 trate - волочить  
@@ -1538,14 +1542,15 @@ vampirbalsenter - адский вампир
 van: - лес  
 vanadium - ванадий  
 vase - oasis  
+vate - статья (предмет)  
+vau - вау!  
+vava bebe - плакса  
 vaxe - мыть  
 vaxomaxin - стиральная машина  
 vaxurse - енот  
 Vaxington D
 ##   
 
-vate - статья (предмет)  
-vau - вау!  
 vei - хвост  
 veilin - уток  
 vende - продать  
@@ -1620,6 +1625,7 @@ xulane - учить (преподавать)
 xulaner - учитель  
 xulkan - школа   
 xulxefe - директор (ректор)  
+xure - начало  
 
 ##   
 
@@ -1684,13 +1690,13 @@ zirkon - циркон
 zirkonium - цирконий  
 zive - жизнь  
 • zivi - живой  
-zon - пояс (зона)  
-zongominte - мята колоси́стая  
 zoe - животное  
 • zoolojia - зоология  
 • zoolojike - зоологический  
 zooparke - зоопарк  
 zoosikle - зодиак  
+zone - пояс (зона)  
+zongominte - мята колоси́стая  
 zuke - этнос (этнический)  
 zukomede - межэтнический  
 Zulu - зулус  

@@ -38,6 +38,7 @@ The sentence **mi fa huru yemon** would mean the same thing but it would include
 
 ## A  
 
+a sababe de - because  
 a - by (at, in, on)  
 a ke - where  
 a le - there  
@@ -91,7 +92,6 @@ aiskrem - ice cream
 ajibe - marvel (wonder; amaze, astonish)  
 ajibia - awe (wonder)  
 akare - tick (mite)  
-axe - axis (axle)  
 ale - other (different; differentiate, change)  
 • alo - otherwise (else)  
 alofon - allophone  
@@ -251,6 +251,7 @@ autologe - monolog
 automote - self-moving (automotive, automobile)  
 autonome - autonomous  
 autonomia - autonomy  
+axe - axis (axle)  
 Azerbaizan - Azerbaijan  
 
 ## B  
@@ -453,12 +454,12 @@ brunsalmon - brown trout
 Brunei - Brunei Darussalam  
 brus - sibling (brother or sister)  
 brusben - nephew or niece  
-buce - butcher  
-bucer - butcher  
-bucokan - abattoir (slaughterhouse)  
+buce - butcher (slaughter)  
+• bucer - butcher  
+• bucokan - abattoir (slaughterhouse)  
 bude - realize (realization, awareness, enlightenment, bodhi; aware, enlightened)  
-budisme - Buddhism  
-budiste - Buddhist  
+• budisme - Buddhism  
+• budiste - Buddhist  
 • mesbude - misunderstand  
 Buda - Buddha  
 Budapext - Budapest  
@@ -667,6 +668,7 @@ darte - soil (dirt; soily, dirty)
 darvinisme - Darwinism  
 darviniste - Darwinist  
 date - data (numeric information)  
+• dataje - file (record, collection of data)  
 datobanke - database (databank)  
 datofenkate - data analysis  
 datotable - data table (matrix)  
@@ -823,6 +825,7 @@ dulsonde - stereophonic
 duman - smoke  
 dunia - world  
 dunia lingue - world language  
+duna - dune  
 dungia aventur - dungeon crawl  
 dur - last (take time; elapse, pass by, go by; during; duration, time interval)  
 • dura - continue (go on, keep on, carry on)  
@@ -1035,6 +1038,7 @@ fizike - physics
 • fiziker - physicist  
 flece - arrow (bolt)  
 • flecer - fletcher  
+flerovium - flerovium  
 flexe - bend (flex)  
 • flexable - flexible   
 • flexion - flexion (flection)  
@@ -1043,7 +1047,6 @@ flexe - bend (flex)
 • reflexe - reflect (bend back)  
 • reflexon - reflection  
 • reflexor - reflector  
-flerovium - flerovium  
 flurium - fluorine  
 fobe - fear (scare; frighten; scared, afraid)  
 • fobia - fear (phobia)  
@@ -1453,9 +1456,9 @@ hibride - hybrid (mongrel)
 hidre - hydrogen  
 higabe - veil (cover, screen)  
 hiyar - cucumber  
-hime - snow  
-himu - snow (be snowing)  
-himros - frost  
+hima - snow (be snowing)  
+hima duna - snow drift  
+hima rose - frost  
 Himalia - Himalayas  
 Hinde riu - Indus river  
 hinde - Hindi (Hindustani)  
@@ -2009,7 +2012,6 @@ kuangotunel - mineshaft
 kuarze - quartz  
 kube - cube  
 Kuba - Cuba  
-kuge - weep (cry)  
 kuke - cook (prepare food)  
 Kuke nesia - Cook Islands  
 kuker - cook (chef)  
@@ -2020,6 +2022,9 @@ kulombe - coulomb (unit)
 kultur - culture  
 • polikulture - multicultural  
 • polikulturisme - multiculturalism  
+kume - mound (hill)  
+• kumule - heap (hillock, accumulation; heap up, accumulate)  
+kumulonepe - cumulus cloud  
 kumar - adolescent (yong man; maiden)  
 kupe - drinking vessel (cup, glass, mug, goblet, chalice)  
 kupocate - dome  
@@ -2218,17 +2223,22 @@ luge - green
 • lugia - registry (account)  
 lugomelon - honeydew (green melon)  
 lugobuke - logbook  
-Luxemburge - Luxembourg  
 lul - pearl  
 lune - moon  
 lun - month  
-lunokeke - mooncake  
+• lunule - moonlet (lunula)  
 lun tri - March  
+lunokeke - mooncake  
 lung - dragon  
 lusun - asparagus  
 lute - rob (loot, plunder, pillage, ransack)  
 luter - robber (plunderer)  
 lutetium - lutetium  
+luxe - lush  
+• luxure - luxuriant (excessive)  
+• luxuria - luxury (excess)  
+• deluxe - deluxe  
+Luxemburge - Luxembourg  
 
 ## M  
 
@@ -2535,6 +2545,7 @@ monte - mountain (mount,hill)
 morfe - morph  
 morfem - morpheme  
 morfeme - morpheme  
+pandunia - engli  
 Moris - Mauritius  
 morte - death  
 morte - kill  
@@ -2729,10 +2740,11 @@ nobelium - nobelium
 noce - night  
 nocomode - night mode  
 node - tie (make knot; knot, node)  
+• nodule - lump (nodule)  
 nof - nine (9)  
 nole - cancel (nullify)  
 nome - manage (organize)  
-nomia - management (arrangement, -nomy)  
+• nomia - management (arrangement, -nomy)  
 norde - north (northern)  
 Nordi Amerike - North America  
 Nordi Cosen - North Korea (Democratic People’s Republic of Korea)  
@@ -2799,8 +2811,6 @@ okosuigas - tear gas
 okei - okay (acceptance)  
 okeye - accept (say okay)  
 okeye - okay (acceptable)  
-oxe - oxygen  
-oxide - oxide  
 Olandi nesia - Aland Islands  
 Oman - Oman  
 onde - wave  
@@ -2842,6 +2852,8 @@ ote - opt (prefer,choose)
 • otional - optional  
 ove - egg  
 • ovoide - oval  
+oxe - oxygen  
+oxide - oxide  
 oze - functional disease or disorder  
 
 ## P  
@@ -3385,8 +3397,6 @@ rutin - routine (habit)
 ## S  
 
 sababe - reason (cause)  
-a sababe de - because  
-• ansave - strange (unknown)  
 sabate - Sabbath  
 sable - sand  
 • movosable - quicksand  
@@ -3494,6 +3504,7 @@ Saudi Arabia - Saudi Arabia
 sauna - sauna  
 saure - lizard  
 saus - sauce  
+• ansave - strange (unknown)  
 se - self (reflexive pronoun)  
 se su - own  
 semon - each other (one another)  
@@ -3501,15 +3512,6 @@ seke - stone (piece of rock)
 sekozanger - mason (stonemason, stonecutter)  
 sekreter - secretary  
 sekreteria - secretariat  
-sexe - sex (sexual relation; have sex)  
-sexe - have sex  
-sexe - sexy (sexually arousing)  
-sexe - sexy (sexually arousing)  
-sexolojia - sexology  
-sexolojia - sexology  
-• ansexe - asexual  
-• dusexe - bisexual  
-• pansexe - pansexual  
 sekunde - second(s)  
 sekure - safe (secure; protect)  
 sekurokode - password (security code)  
@@ -3562,7 +3564,16 @@ servor - server (host machine)
 servor nam - servername (hostname)  
 sesam - sesame  
 Seshel nesia - Seychelles  
+sexe - sex (sexual relation; have sex)  
+sexe - have sex  
+sexe - sexy (sexually arousing)  
+sexe - sexy (sexually arousing)  
+sexolojia - sexology  
+sexolojia - sexology  
+• ansexe - asexual  
+• dusexe - bisexual  
 • homosexe - homosexual  
+• pansexe - pansexual  
 Shanghai - Shanghai  
 si - be  
 si ham - matter (be important)  
@@ -3681,8 +3692,8 @@ solosistem - solar system
 Solomon nesia - Solomon Islands  
 some - sleep  
 • somive - drowsy  
-• ansome - insomnia  
 • desome - wake up  
+• ansome - insomnia  
 somokamar - bedroom  
 somopapil - opium poppy  
 Somalia - Somalia  
@@ -3792,31 +3803,22 @@ supre - surpass (go over)
 supre - upper  
 supro - above (over)  
 suprize - surprise  
-sur - beginning (start, commencement, onset)  
-sure - begin (start, commence, initiate)  
-sure - initial (first)  
 Suria - Syria  
-suru - begin (get started)  
 Surinam - Suriname  
-surinami bas - Sranan Tongo  
+surinami baxe - Sranan Tongo  
 sus - licorice  
-suse - silence (make silent)  
-suse - silent  
-suso - hush (shh)  
 susan - lily  
-sushe - sushi  
-sute - skill (art, craft)  
 sute - sew  
-sute - skillful (crafty)  
-sutur - suture (seam)  
+• suture - suture (seam)  
+suxi - sushi  
 
 ## T  
 
 tabake - tobacco  
 table - slab (slate, tablet, board)  
-tabla date - tabulate  
-tablokomputer - tablette computer  
+• tablate - tabulate  
 tablete konputer - tablette computer  
+table konputer - tablette computer  
 tafun - storm (tempest, typhoon, hurricane, cyclone)  
 tai - stage (platform, pedestal, podium)  
 Tai - Thai  
@@ -3825,10 +3827,6 @@ Taibei - Taipei
 taige - taiga  
 tail - tile  
 Taivan - Taiwan (Republic of China)  
-taxe - fee (fare)  
-taxe - collect fees or taxes  
-taxi kar - taxi (cab)  
-taxi metrer - taximeter  
 tal - bottom  
 tale - lower (put down)  
 tale - low (short)  
@@ -3859,15 +3857,16 @@ tatosense - feel (sense by touch)
 tatike - tactics (strategy)  
 tatu - tattoo  
 tave - frying pan  
+taxe - fee (fare)  
+taxe - collect fees or taxes  
+taxi kar - taxi (cab)  
+taxi metrer - taximeter  
 taze - fresh  
 Tazikia - Tajikistan  
 tehne - technique (technology)  
 tehnium - technetium  
 tehnokratia - technocracy  
 tehnolojia - technology (study of techniques)  
-texe - cloth (fabric, textile)  
-texe - weave  
-texomaxin - loom  
 tel - distance (far away)  
 tele - far (distant)  
 telia - distance (length)  
@@ -3926,6 +3925,9 @@ tesle - tesla (T)
 teste - test (try, attempt)  
 teste - try (attempt)  
 Tetis - Tethys  
+texe - cloth (fabric, textile)  
+texe - weave  
+texomaxin - loom  
 texte - text  
 • intertexte - intertextual  
 • kontexte - context  
@@ -3951,13 +3953,14 @@ tirsanduke - drawer
 Titan - Titan  
 Titania - Titania  
 titanium - titanium  
+tix - hush (shh)  
+tixe - silent  
+tixia - silence  
 tiz: - sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)  
 • tizife - intensify  
 toce - touch  
 Togo - Togo  
 Tokyo - Tokyo  
-toxe - poison (venom; toxic, poisonous, venomous)  
-toxolojia - toxicology  
 tolere - tolerate  
 tome - split (dissect)  
 • tomografe - tomogram  
@@ -3981,6 +3984,8 @@ topografe - topography
 torium - thorium  
 torse - trunk (torso)  
 tortuge - turtle (tortoise)  
+toxe - poison (venom; toxic, poisonous, venomous)  
+toxolojia - toxicology  
 tragi - sad (tragic)  
 tragokomi - tragicomic  
 tragodia - tragedy  
@@ -4056,8 +4061,8 @@ un - one (1)
 • uniko - only (solely, just)  
 • unime - first (number one)  
 • unite - united  
-Uniti Arabi Amiria (UAA) - United Arab Emirates  
-Uniti Des Da Amerike (UDA) - United States of America (USA)  
+Unite Arabe Amiria (UAA) - United Arab Emirates  
+Unite State de Amerika (USA) - United States of America (USA)  
 unale - each other (one another, mutually; mutual)  
 unemisme - monism  
 Uni Arabi Amiria (UAA) - United Arab Emirates  
@@ -4115,16 +4120,18 @@ varke - leaf (sheet)
 varkalge - kelp  
 varkolate - page (side of a leaf of a book)  
 vase - oasis  
+vate - thing (object, item, matter)  
+vat - watt  
+Vatikan - Holy See (Vatican City State)  
+vau - wow! (gee!)  
+vava - weep (cry)  
+vava bebe - crybaby  
 vaxe - wash  
 vaxomaxin - washing machine  
 vaxurse - raccoon  
 Vaxington D
 ## Washington DC  
 
-vate - thing (object, item, matter)  
-vat - watt  
-Vatikan - Holy See (Vatican City State)  
-vau - wow! (gee!)  
 vei - tail  
 veye - traverse (horizontal)  
 veilin - weft  
@@ -4294,6 +4301,12 @@ xuler - student (pupil, learner)
 xulkamar - classroom  
 xulkan - school (institution)  
 xulxefe - headmaster (principal)  
+xure - beginning (start, commencement, onset)  
+xure - begin (start, commence, initiate)  
+xure - begin (get started)  
+xurime - initial (first)  
+xute - skill (art, craft)  
+xute - skillful (crafty)  
 
 ## Y  
 
@@ -4447,12 +4460,6 @@ zirkonium - zirconium
 zive - live (life)  
 • zivi - live (living)  
 zize - sizzle  
-zombe - zombie  
-zon - belt (zone)  
-zong - species  
-zongominte - spearmint  
-zor - force (violence)  
-zorsexe - rape (forced sex)  
 zoe - animal  
 • zoofilia - zoophily  
 • zoogeografia - zoogeography  
@@ -4462,6 +4469,12 @@ zoagria - animal husbandry
 zooparke - zoo (zoological garden)  
 zoosikle - zodiac  
 zootoxe - zootoxin  
+zombi - zombie  
+zone - belt (zone)  
+zong - species  
+zongominte - spearmint  
+zor - force (violence)  
+zorsexe - rape (forced sex)  
 zuke - ethnic (ethnicity)  
 zukomede - interethnic  
 zukam - cold (illness)  

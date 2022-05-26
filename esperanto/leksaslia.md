@@ -175,8 +175,6 @@
 **bromium** *bromo* ← angla:bromine, franca:brome, hispana:bromo, portugala:bromo, rusa:бром, korea:브롬, vjetnama:brom, hindia:ब्रोमिन, bengala:ব্রোমিন, malaja:brom, svahila:bromi, araba: بروم  
 **bros** *broso* ← angla:brush, franca:brosse, bengala:ব্রাশ (braś), hindia:ब्रश (braś), urdua:(braś), haŭsa:svahila:burashi, japana:ブラシ (burashi), korea:브러시 (beureosi), persa:(boros), malaja:berus  
 **brune** *bruna* ← franca:brun, araba:(bunniy), hindia:भूरा (bhūrā), angla:brown  
-**bucer** *buĉisto* ← angla:butcher, franca:boucher, itala:beccaio, hindia:बूचड़ (būcaṛ)  
-**bucokan** *buĉejo* ← persa: سلاخ خانه‎ (sallâx-xâne), hindia:बूचड़खाना (būcaṛkhānā), bengala:কসাইখানা (kôśaikhana)  
 **bude** *kompreni (konscii)* ← sanskrita:बोधि (bodhi), hindia:बुद्धि (buddhi), japana:菩提 (bodai), mandarena:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), vjetnama:Bụt, taja:โพธิ (potí)  
 **bufete** ** ← franca:buffet, angla:buffet, hispana:bufé, portugala:bufete, deu:Büfett, rusa:буфет (bufet), mandarena:部飛 (bùfēi), japana:ビュッフェ (byuffe), korea:뷔페 (bwipe), malaja:bufet, svahila:bufee  
 **bufon** *pajaco* ← hispana:bufón, angla:buffoon, franca:bouffon  
@@ -302,6 +300,7 @@
 **duge** *legi* ← mandarena:读 (dú), kantona:讀 (duk6), vjetnama:đọc, zha:dog, japana:(doku-)  
 **duke** *malĝoja* ← hindia:दुःख (duḥkh), bengala:দুঃখ (dukhô), taja:ทุกข์ (tuk), malaja:duka, angla:dukkha  
 **duman** *fumo* ← hindia:धूआँ (dhuã), turka:duman, rusa:дым (dym), kanara:(dhūma), bengala:ধোঁয়া (dhõẇa)  
+**duna** ** ← angla:franca:dune, hispana:portugala:duna, rusa:дюна (diuna) + vjetnama:đụn, korea:둔(덕) (dun(deok))  
 **dungia aventur** ** ← angla:dungeon, franca:donjon, japana:ダンジョン (danjon)  
 **dunia** *mondo* ← araba: دُنْيَا‎ (dunyā), hindia:दुनिया (duniyā), malaja:svahila:dunia, persa: دنیا (donya), urdua: دنیا (duniyā), haŭsa:duniya  
 **dur** *daŭri* ← angla:duration, franca:durée, hispana:portugala:durar + bengala:ধরে (dhôre), hindia:दौरान (daurān)  
@@ -518,7 +517,7 @@
 **hibride** *miksulo* ← angla:hybrid, hispana:portugala:híbrido, franca:hybride, rusa:гибрид (gibrid)  
 **hidre** *hidrogeno* ← angla:franca:hydro-, hispana:portugala:malaja:svahila:hidro-, vjetnama:hyđrô, araba: هيدروجين  
 **higabe** ** ← araba:(ḥijāb), persa:(hejâb), svahila:hijabu, haŭsa:hijabi, hindia:हिजाब (hijāb), bengala:হিজাব (hijab), angla:portugala:hijab, franca:hidjab, hispana:hiyab, rusa:хиджаб (xidžab)  
-**hime** *neĝo* ← hindia:हिमपात (himpāt), taja:หิมะ (hima), teluga:(himamu)  
+**hima** *neĝo* ← hindia:हिमपात (himpāt), taja:หิมะ (hima), teluga:(himamu)  
 **hindium** *indio* ← angla:indium, franca:indium, hispana:indium, portugala:índio, rusa:индий, mandarena:铟 (yīn), japana:インジウム, korea:인듐, vjetnama:indi, hindia:इण्डियम, bengala:ইন্ডিয়াম, malaja:indium, svahila:indi, araba: انديوم  
 **hisabe** *kalkuli* ← araba: حِسَاب‎ (ḥisāb), turka:hesap, oroma:hisaaba, svahila:hisabu, hindia:हिसाब (hisāb), bengala:হিসাব (hiśab)  
 **hiyar** *kukumo* ← persa:خیار (xiyâr), turka:hıyar, araba:خيار‎ (khiyār), hindia:खीरा (khīrā), bengala:ক্ষীরা (kṣīrā)  
@@ -715,13 +714,13 @@
 **kuang** ** ← mandarena:矿 (kuàng), vjetnama:khoáng, korea:광 (guang)  
 **kuarze** ** ← deu:Quarz, angla:franca:quartz, hispana:cuarzo, rusa:кварц (kvarc), turka:kuvars, hindia:क्वार्ट्ज (kvārtj), japana:クオーツ (kuōtsu), malaja:kuarza  
 **kube** *kubo* ← hispana:portugala:cubo, deu:Kubus, angla:franca:cube, rusa:куб (kub), araba:(kaʿba), malaja:kubus, turka:küp  
-**kuge** *plori* ← mandarena:哭 (kū), kantona:哭 (huk1), vjetnama:khóc  
 **kuke** ** ← angla:cook, deu:Kock, itala:cuoco, malaja:koki, taja:กุ๊ก (kuk), sango:kuku  
 **kuker** ** ← angla:cook, rusa:кухар (kuhar), polona:kucharz, taja:กุ๊ก (gúk), malaja:koki, deu:Koch  
 **kuku** *kukolo* ← angla:cuckoo, franca:coucou, hispana:portugala:cuco, rusa:кукушка (kukushka), japana:郭公  (kakkō), mandarena:布谷鸟 (bùgǔniǎo)  
 **kule** *bonega (mojosa)* ← angla:deu:franca:cool, japana:クール (kūru), mandarena:酷 (kù)  
 **kultur** *kulturo* ← angla:franca:culture, hispana:portugala:cultura, rusa:культу́ра (kulʹtúra), turka:kültür, japana:カルチャー (karuchā)  
 **kumar** ** ← hindia:कुमार (kumār), teluga:కుమారుడు (kumāruḍu), kmera:កុមារ (ko’maa), taja:กุมาร (kuman)  
+**kume** ** ← angla:cumulate, franca:cumuler, hispana:portugala:cumular + turka:kumul + araba:كَوْمَة‎ (kawma), persa: کومه (kume)  
 **kupe** *taso* ← angla:cup, franca:coupe, hispana:copa, portugala:copo, araba: كُوب‎ (kūb), turka:kupa, hindia:कप (kap), japana:コップ (koppu), korea:컵 (keop) + persa:(koppe), ara:قبة (qubba), malaja:kubah, rusa:купол (kupol), deu:Kuppel  
 **kupon** ** ← angla:franca:coupon, hispana:cupón, portugala:cupom, rusa:купо́н (kupón), malaja:kupon, japana:クーポン (kūpon), korea:쿠폰 (kupon), svahila:kuponi  
 **kupre** *kupro* ← angla:copper, franca:cuivre, hispana:cobre, portugala:cobre, svahila:kupri  
@@ -795,6 +794,7 @@
 **lusun** ** ← mandarena:芦笋 (lúsǔn), kantona:蘆筍 (lou4 seon2)  
 **lute** *rabi* ← hindia:लूटना (lūṭnā), urdua:(lūṭnā), bengala:লুটা (luṭā), panĝaba:ਲੁੱਟ (luṭ), angla:loot, + mandarena:掠夺 (lüèduó), kantona:掠 (loek6)  
 **lutetium** *lutecio* ← angla:lutetium, franca:lutécium, hispana:lutecio, portugala:lutécio, rusa:лютеций, mandarena:镥 (lǔ), japana:ルテニウム, korea:루테튬, vjetnama:lutexi, hindia:लुटेटियम, bengala:লুটেসিয়াম, malaja:lutetium, svahila:luteti, araba: لوتيتيوم  
+**luxe** ** ← angla:lush, franca:luxe, hispana:lujo, portugala:luxo, rusa:люкс (lyuks), turka:lüks  
 **mace** ** ← angla:franca:match, hindia:मैच (mɛc), svahila:meci, polona:mecz, rusa:матч (matč), turka:maç  
 **madu** *mielo* ← rusa:мёд (myod), hindia:मधु (madhu), bengala:মধু (môdhu), malaja:madu + portugala:mel, franca:hispana:miel + kantona:蜜 (mat6)  
 **maf** *pardono* ← araba: مُعَاف‎ (muʿāf), hindia:माफ़ (māf), bengala:মাফ (maph), malaja:maaf, svahila:afu, turka:af, haŭsa:yafe  
@@ -972,9 +972,8 @@
 **no** *ne* ← angla:hispana:no, franca:non, portugala:não, bengala:না (na), rusa:не (nye), hindia:नहीं (nahī̃), korea:아니 (ani), japana:-ない (-nai)  
 **nobelium** *nobelio* ← angla:nobelium, franca:nobélium, hispana:nobelio, portugala:nobélio, rusa:нобелий, mandarena:锘 (nuò), japana:ノーベリウム, korea:노벨륨, vjetnama:nobeli, hindia:नोबेलियम, bengala:নোবেলিয়াম, malaja:nobelium, svahila:nobeli, araba: نوبليوم  
 **noce** *nokto* ← hispana:noche, portugala:noite, rusa:ночь (nočʹ), polona:noc  
-**node** *nodo* ← angla:node, hispana:nudo, portugala:nó, franca:nœud  
+**node** *nodo* ← angla:node, hispana:nudo, portugala:nó, franca:nœud + vjetnama:nút  
 **nof** ** ← portugala:nove, hispana:nueve, franca:neuf, hindia:नौ (nau), bengala:নয় (nôy)  
-**nomia** ** ← angla:-nomy, deu:franca:-nomie, hispana:portugala:-nomia, rusa:-номия (-nomiya), malaja:-nomi  
 **norde** *nordo* ← angla:north, hispana:portugala:norte, deu:Nord, franca:nord, rusa:норд (nord)  
 **norme** ** ← angla:hispana:portugala:franca:deu:normal, rusa:нормальный (normalʹnyj), persa:نرمال‎ (normâl)  
 **noste** ** ← ← angla:portugala:hispana:nostalgia, franca:nostalgie, deu:Nostalgie, rusa:ностальгия (nostalʹgiya), japana:ノスタルジー (nosutarujī), persa:(nostâlži)  
@@ -1017,6 +1016,7 @@
 **palme** *palmo* ← deu:Palme, angla:palm, portugala:hispana:palma, rusa:пальма (palma), turka:palmiye, malaja:palem, taja:ปาล์ม (pām)  
 **pan (pani)** *ĉiu* ← angla:hispana:portugala:deu:malaja:pan-, rusa:пан- (pan-) + mandarena:泛 (fàn), japana:汎 (han-)  
 **panda** *pando* ← angla:hispana:portugala:franca:malaja:panda, rusa:панда (panda), hindia:पांडा (pāṇḍā), japana:パンダ (panda)  
+**pandunia** *esperanti* ← logasle  
 **pang** *pano* ← taja:ปัง (pang), korea:빵 (ppang), kmera:នំប៉័ង (numpang), japana:パン (pan), portugala:pão, hispana:pan, franca:pain  
 **panike** *paniko* ← angla:panic, hispana:pánico, portugala:pânico, franca:panique, rusa:паника (panika), persa:پانیک‎ (pânik), japana:パニック (panikku)  
 **panir** ** ← hindia:पनीर (panīr), panĝaba:ਪਨੀਰ (panīr), bengala:পনির (pônir), turka:peynir, angla:paneer  
@@ -1312,14 +1312,10 @@
 **supere** *bonega* ← angla:franca:super, hispana:portugala:súper, japana:スーパー (sūpā)  
 **supre** *superiri* ← angla:super, hispana:portugala:sobre, itala:sopra  
 **suprize** *surprizo* ← angla:surprise, turka:sürpriz, persa:(surpris), rusa::сюрприз (siurpriz), portugala:surpresa, hispana:sorpresa  
-**sur** *komenco* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
 **sus** *lakrico* ← araba: سُوس (sus), hispana:alcazus, portugala:alcaçuz, svahila:susi  
-**susan** ** ← persa:sousan, araba:(sawsan), heb:(šōšān), + angla:Susan, portugala:hispana:Susana, franca:Suzanne, polona:Zuzana, rusa:Сусанна (Susanna)  
-**sushe** *suŝio* ← japana:寿司 (sushi), angla:hispana:sushi, rusa:су́ши (sushi), turka:suşi  
-**suso** ** ← angla:shh, franca:chut, rusa:ш-ш-ш, mandarena:噓 (xū), japana:しーっ (shīt), korea:쉿 (swit), turka:sus  
-**sute** ** ← hindia:सीना (sīnā), rusa:шить (šit'), angla:sew  
-**sute** ** ← mandarena:术 (shù), kantona:術 (seot6), japana:術 (jutsu), korea:술 (sul)  
-**sutur** ** ← franca:angla:suture, portugala:hispana:sutura  
+**susan** *lilio* ← araba: سَوْسَن‎ (sawsan), hispana:azucena + angla:Susan, portugala:Susana, franca:Suzanne, polona:Zuzana, rusa:Сусанна (Susanna)  
+**sute** ** ← hindia:सीना (sīnā), rusa:шить (šit') + franca:angla:suture, portugala:hispana:sutura  
+**suxi** *suŝio* ← japana:寿司 (sushi), angla:hispana:sushi, rusa:су́ши (sushi), turka:suşi  
 **tabake** *tabako* ← deu:Tabak, rusa:табак (tabak), franca:tabac, hispana:portugala:tabaco, japana:タバコ (tabako), angla:tobacco, hindia:तंबाकू (tambākū), malaja:tembakau  
 **table** ** ← angla:table, franca:tableau, hispana:tabla, rusa:табличка (tablichka), malaja:tabel, turka:tablo  
 **tafun** *ŝtormo* ← mandarena:大风 (dàfēng), kantona:大風 (daai6fung1), korea:태풍 (taepung), japana:台風 (taifuu), taja:ไต้ฝุ่น (taifun), araba:(ṭūfān), persa:urdua:(tufān), hindia:तूफ़ान (tūfān), svahila:tufani, portugala:tufão, hispana:tifón, franca:typhon, angla:typhoon, rusa:тайфун (tayfun)  
@@ -1370,6 +1366,7 @@
 **tipe** ** ← angla:franca:type, hispana:portugala:tipo, ru:тип (tip), turka:tip, japana:タイプ (taipu)  
 **tire** *tiri* ← hispana:portugala:tirar, franca:tirer, angla:tear, turka:tire  
 **titanium** *titanio* ← angla:titanium, franca:titane, hispana:titanio, portugala:titânio, rusa:титан, mandarena:钛 (tài), japana:チタン, korea:타이타늄, vjetnama:titan, hindia:टाइटानियम, bengala:টাইটেনিয়াম, malaja:titanium, svahila:titani, araba: تيتانيوم  
+**tix** ** ← rusa:тишина (tišina) + angla:shh, franca:chut, rus:ш-ш-ш, mandarena:噓 (xū), japana:しーっ (shīt), korea:쉿 (swit), turka:sus  
 **tiz:** ** ← persa: تیز (tiz), hindia:तेज़ (tez), turka:tez  
 **toce** *tuŝi* ← angla:touch, hispana: tocar, + hindia: छूना (chūnā), mandarena: 触 (chù)  
 **tolere** ** ← angla:tolerate, hispana:portugala:tolerar, franca:tolérer, deu:tolerieren  
@@ -1431,6 +1428,7 @@
 **vase** *oazo* ← araba:(wāḥa), turka:vaha, persa:(vāhe), angla:franca:hispana:portugala:oasis, rusa:оазис (oazis), deu:Oase, japana:オアシス (oashisu), korea:오아시스 (oasiseu)  
 **vate** ** ← hindia:वस्तु (vastu), bengala:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), taja:วัสดุ (wạttu), birma:ဝတ္ထု (wathtu), kmera:វត្ថុ (vŏəttho) + vjetnama:vật, vua:物 (veq5), mandarena:物 (wù), kantona:物 (mat6), japana:物 (butsu)  
 **vau** *ŭaŭ!* ← mandarena:哇 (wā), angla:wow  
+**vava** *plori* ← angla:wah-wah, franca:ouin ouin, hispana:portugala:buá buá, bengala:ওয়া ওয়া (oā-oā), mandarena:哇哇 (wāwā), kantona:哇哇 (waa1waa1), vjetnama:oa oa, malaja:owe-owe  
 **vaxe** *lavi* ← angla:wash, deu:waschen, mandarena:洗 (xǐ)  
 **vaxurse** ** ← mandarena:浣熊, japana:洗熊, itala:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ  
 **vei** *vosto* ← mandarena:尾 (wěi), kantona:尾 (mei5), vua:尾 (vi3), nan:尾 (bé), japana:尾 (bi)  
@@ -1487,6 +1485,8 @@
 **xope** *aĉeti* ← angla:franca:hispana:shopping, japana:ショッピング (shoppingu), korea:쇼핑 (syoping), taja:ชอปปิ้ง (chop-bing), rusa:шоппинг (šopping), mandarena:血拼 (xuèpīn)  
 **xou** *montri (ekspozicii)* ← angla:deu:franca:hispana:portugala:show, rusa:шоу (šou), turka:şov, svahila:shoo, taja:โชว์ (choo), korea:쇼 (syo), japana:ショー (shō), mandarena:秀 (xiù)  
 **xulkan** *lernejo* ← mandarena:学 (xué) + deu:Schule, svahila:shule + angla:school, franca:école, hispana:escuela, portugala:escola, rusa:школа (škola), hindia:स्कूल (skūl), bengala:স্কুল (śkul), malaja:sekolah  
+**xure** *komenco* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
+**xute** ** ← mandarena:术 (shù), kantona:術 (seot6), japana:術 (jutsu), korea:술 (sul)  
 **yago** ** ← korea:약 (yag), japana:約 (yaku), kantona:約 (yœk), turka:yaklaşık, mandarena:约 (yuē)  
 **yake** ** ← angla:deu:franca:hispana:turka:yak, portugala:iaque, hindia:याक (yāk)  
 **yame** *manĝi (trinki)* ← kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam  
@@ -1545,8 +1545,8 @@
 **zive** *vivo* ← hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy  
 **zize** ** ← mandarena:zizi angla:sizzle  
 **zoe** *besto* ← angla:franca:hispana:portugala:malaja:turka:zoo-, rusa:зоо- (zoo-)  
-**zombe** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  
-**zon** *zono* ← greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)  
+**zombi** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  
+**zone** *zono* ← greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)  
 **zong** ** ← mandarena:種 (zhǒng), kantona:種 (zung2), vua:種 (tson2), japana:種 (shu), korea:종 (jong), vjetnama:chủng  
 **zor** ** ← hindia:ज़ोर (zor), bengala:জোর (zor), persa: زور (zur)  
 **zukam** ** ← araba:زُكَام‎ (zukām), persa:زکام‎ (zukâm), hindia:ज़ुकाम (zukāma)  
@@ -1558,6 +1558,8 @@
 **• agrese** *atako (agreso)* ← angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif  
 **• ater** *aganto* ← angla:actor, -ator, franca:-ateur, hispana:portugala:-ador  
 **• balia** *forto* ← hindia:बल (bal), bengala:বল (bôl), malaja:bala, teluga:బలము (balamu), taja:พล (pon), พละ (pá-lá)  
+**• bucer** *buĉisto* ← angla:butcher, franca:boucher, itala:beccaio, hindia:बूचड़ (būcaṛ) + korea:푸주한 (pujuhan)  
+**• bucokan** *buĉejo* ← persa: سلاخ خانه‎ (sallâx-xâne), hindia:बूचड़खाना (būcaṛkhānā), bengala:কসাইখানা (kôśaikhana)  
 **• civile** ** ← angla:franca:hispana:portugala:civil, por:civil, hindia:सिविल (sivil), malaja:sipil  
 **• ditater** *diktatoro* ← portugala:ditador, itala:dittatore, end:dictator, franca:dictateur, hispana:dictador, deu:malaja:diktator, rusa:диктатор (diktator), turka:diktatör, araba:(diktatūr)  
 **• exfete** ** ← franca:effet, portugala:efeito, angla:effect, hispana:efecto, rusa:эффект (effekt)  
@@ -1580,6 +1582,7 @@
 **• misaje** *mesaĝo* ← angla:deu:franca:message, hispana:mensaje, portugala:mensagem, turka:mesaj, japana:メッセージ (messēji), korea:메시지 (mesiji), rusa:месседж (messedzh), malaja:mesej  
 **• misioner** *misiisto* ← angla:missionary, deu:Missionar, franca:missionnaire, hispana:misionero, portugala:misionário, rusa:миссионер (missioner), malaja:misioinaris, svahila:mmisionari, turka:misyoner  
 **• nature** *naturo* ← angla:franca:nature, deu:Natur, portugala:natureza, hispana:naturaleza  
+**• nomia** ** ← angla:-nomy, deu:franca:-nomie, hispana:portugala:-nomia, rusa:-номия (-nomiya), malaja:-nomi  
 **• otion** ** ← deu:angla:franca:option, hispana:opción, portugala:opção, rusa:опция (opciya)  
 **• partaner** ** ← deu:angla:itala:polona:partner, franca:partenaire, rusa:партнёр (partnyor), japana:パートナー (pātonā), korea:파트너 (pateuneo)  
 **• presidente** *prezidento* ← angla:president, hispana:portugala:presidente, rusa:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), persa:پرزیدنت‎ (perezident), malaja:presiden  

@@ -42,7 +42,6 @@ aishoke - hockey sur glace
 aiskrem - crème glacée  
 ajibe - merveille (éblouir, étonner, stupéfier, surprendre)  
 akare - acarien  
-axe - axe  
 ale - autre (changer)  
 alofon - allophone  
 aloraye - diverger (ne pas être d'accord)  
@@ -170,6 +169,7 @@ aure - or
 Australia - Australie  
 Austronesia - Austronésie  
 autologe - monologue  
+axe - axe  
 Azerbaizan - Azerbaijan  
 
 ## B  
@@ -295,8 +295,8 @@ brune - brun (marron)
 brunalge - algues brunes  
 brunsalmon - truite brune (truite de mer)  
 buce - abattre  
-bucer - boucher  
-bucokan - abattoir  
+• bucer - boucher  
+• bucokan - abattoir  
 Buda - Bouddha  
 bugete - budget  
 buke - livre  
@@ -377,6 +377,7 @@ darotube - entonnoir
 dargomute - développement  
 darmositium - darmstadtium  
 date - données  
+• dataje - dossier  
 datobanke - base de données  
 dauban - panneau de signalisation  
 debu - devoir  
@@ -404,7 +405,7 @@ dite - dicter
 • dition - diction  
 dobe - brique  
 • dokaje - doctrine  
-dokum - document (dossier)  
+dokum - document  
 dokumfilme - documentaire  
 dolfin - dauphin  
 dom - maison (foyer, domicile; vivre (habiter)  
@@ -425,6 +426,7 @@ duce - douche
 duge - lire  
 dulyom - mardi  
 dunia - monde  
+duna - dune  
 dur - durer (se passer; durée)  
 • dura - continuer (poursuivre)  
 • duro - encore  
@@ -671,7 +673,7 @@ hesium - hassium
 hidre - hydrogène  
 higabe - voile  
 hiyar - concombre  
-hime - neige  
+hima - neige  
 Hinde riu - Indus  
 Hindia - Hindustan  
 hindium - indium  
@@ -876,6 +878,7 @@ kuangia - mine
 kuarze - quartz  
 kube - cube  
 kuku - coucou  
+kume - accumuler  
 kupe - coupe (tasse, verre)  
 kupre - cuivre  
 kurium - curium  
@@ -966,6 +969,8 @@ lun - mois
 lunokeke - gâteau de lune  
 luter - brigand (bandit)  
 lutetium - lutécium  
+• luxure - luxure  
+• deluxe - de luxe  
 
 ## M  
 
@@ -1080,6 +1085,7 @@ molseke - meule
 mole - mole (unité)  
 molidenium - molybdène  
 • montaner - alpiniste  
+pandunia - franci  
 mos - mousse  
 mosim - saison  
 moskovium - moscovium  
@@ -1174,8 +1180,6 @@ oke - œil
 oke - oculaire  
 speter - spectateur  
 okosuigas - gaz lacrymogène  
-oxe - oxygène  
-oxide - oxyde  
 onde - onde  
 onor - honneur  
 onore - honorer  
@@ -1196,6 +1200,8 @@ ote - opter
 • otion - option (choix)  
 ove - oeuf  
 • ovoide - ovale  
+oxe - oxygène  
+oxide - oxyde  
 
 ## P  
 
@@ -1465,9 +1471,6 @@ se - se
 se su - son (sa)  
 semon - l'un l'autre  
 seke - pierre  
-sexolojia - sexologie  
-sexolojia - sexologie  
-• ansexe - asexué  
 sekure - sûr  
 sele - conseil (conseiller)  
 selenium - sélénium  
@@ -1486,6 +1489,9 @@ sere - scie
 serofun - sciure  
 serokan - scierie  
 serlinke - maillon (chaînon)  
+sexolojia - sexologie  
+sexolojia - sexologie  
+• ansexe - asexué  
 si - être  
 sibai - échec  
 sibaya tene - perder  
@@ -1573,17 +1579,15 @@ sukarorange - orange douce
 sukar gana - canne à sucre  
 sulfe - soufre  
 sundaria - beauté  
-sur - début (commencement)  
 sus - réglisse  
 susan - lys  
 
 ## T  
 
-tablokomputer - ordinateur tablette  
 tablete konputer - ordinateur tablette  
+table konputer - ordinateur tablette  
 tai - estrade  
 tail - carreau (tuile)  
-taxi metrer - taximètre  
 tal - bas  
 tale - baisser  
 tale - bas  
@@ -1595,11 +1599,11 @@ tantalium - tantale
 tape - bloquer  
 tate - toucher (tact)  
 • kontate - contact  
+taxi metrer - taximètre  
 taze - frais  
 tehne - technique  
 tehnium - technétium  
 tehnolojia - technologie  
-texe - tissu  
 telfon - téléphone  
 telfone - téléphoner  
 telfonlin - ligne téléphonique  
@@ -1621,6 +1625,7 @@ terbium - terbium
 terce - oblique (de travers)  
 tese - argument  
 teste - épreuve (test)  
+texe - tissu  
 texte - texte  
 • tikete - billet  
 • retrotikete - aller-retour  
@@ -1629,8 +1634,10 @@ tira milke - tirer
 tira pil - écorce  
 tirlonge - tender  
 titanium - titane  
+tix - chut  
+tixe - silencieux (se taire)  
+tixia - silence  
 toce - toucher  
-toxolojia - toxicologie  
 • tomografia - tomographie  
 • duotome - dichotomie  
 • tritome - trichotomie  
@@ -1641,6 +1648,7 @@ tomate - tomate
 topografe - topographie  
 • topografia - topographie  
 torium - thorium  
+toxolojia - toxicologie  
 tragi - tragique  
 tragokomi - tragicomique  
 tragodia - tragédie  
@@ -1699,11 +1707,12 @@ vanadium - vanadium
 vare - divers (plusieurs)  
 varkalge - varech  
 varkolate - page  
+vate - objet (article)  
+vava bebe - pleurnicheur (pleurnichard)  
 vaxurse - raton laveur  
 Vaxington D
 ##   
 
-vate - objet (article)  
 veilin - fil de trame  
 vele - voile  
 • devele - dévoiler (révéler)  
@@ -1778,6 +1787,7 @@ xuler - étudiant
 xulkamar - salle de classe  
 xulkan - école (collège)  
 xulxefe - directeur (principal)  
+xure - début (commencement)  
 
 ##   
 
@@ -1838,15 +1848,15 @@ ziraf - giraffe
 zirkonium - zirconium  
 zive - vie  
 • zivi - vivant  
-zombe - zombi  
-zon - zone  
-zongominte - menthe verte  
 zoe - animal (bête)  
 • zoolojia - zoologie  
 • zoolojike - zoologique  
 zoagria - élevage  
 zooparke - zoo  
 zoosikle - zodiaque  
+zombi - zombi  
+zone - zone  
+zongominte - menthe verte  
 zuke - ethnie (ethnique)  
 Zulu - zoulou  
 zumurude - émeraude  

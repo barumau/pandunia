@@ -282,6 +282,8 @@ cheiro - gande
 chiclete (goma de mascar, chuinga) - cuvogom  
 China - Zungogia  
 chocolate - coklate  
+chorar - vava  
+chorão - vava bebe  
 chumbo - plumbe  
 chuva - barse  
 chá - cai  
@@ -308,7 +310,7 @@ colher - camaca
 colocar (pôr) - loke  
 combava - karsolimon  
 combinar com - konbone  
-começo (início, princípio) - sur  
+começo (início, princípio) - xure  
 comissão (comité) - konmisia  
 como - ko?  
 compaixão - samemos  
@@ -382,6 +384,7 @@ cívico - civike
 cópia - kope  
 cósmico - kosme  
 cômico - komi  
+cúmulo - kumulonepe  
 cúrio - kurium  
 
 ## D  
@@ -393,6 +396,7 @@ dano (avaria) - avar
 danês - dane  
 darmstádio - darmositium  
 de - za  
+de luxo - deluxe  
 dedo - angul  
 deitar - kuse  
 deixar - lase  
@@ -446,6 +450,7 @@ dormir (sono) - some
 doutrina - dokaje  
 droga (narcótico) - narke  
 ducha - duce  
+duna (бархан) - duna  
 durar (transcorrer; duração) - dur  
 duro - gate  
 dêixis - dikion  
@@ -824,6 +829,7 @@ luta - gihade
 luteranismo - martinluterisme  
 luterano - martinluteriste  
 lutécio - lutetium  
+luxúria - luxuria  
 luz - fote  
 lápide - gabroseke  
 lápis - kalam  
@@ -977,7 +983,7 @@ neptúnio - nepotunium
 Netuno - Nepotun  
 neurotoxina - neurotoxe  
 neurônio - neurocel  
-neve - hime  
+neve - hima  
 nexo (rede) - nete  
 nicho - nis  
 nihonium - niponium  
@@ -1153,6 +1159,7 @@ porto - porte
 porto marítimo - haiporte  
 Porto Rico - Portoriko  
 porto-riquenho - portorike  
+portugali - pandunia  
 possível - able  
 poste (estaca) - baton  
 posterior - postre  
@@ -1364,6 +1371,8 @@ sexologia - sexolojia
 sexologia - sexolojia  
 sexta-feira - limyom  
 significar (querer dizer) - seme  
+silencioso - tixe  
+silêncio - tixia  
 silício - silike  
 sim - ya  
 simetria - sammetria  
@@ -1399,8 +1408,8 @@ sódio - natrium
 
 ## T  
 
+tablet - table konputer  
 tablet - tablete konputer  
-tablet - tablokomputer  
 Talibã - Talban  
 tangerina (mandarim) - lalorange  
 taxímetro - taxi metrer  
@@ -1567,11 +1576,11 @@ zebra - zebra
 zinco - zinke  
 zircónio - zirkonium  
 zodíaco - zoosikle  
-zona - zon  
+zona - zone  
 zoologia - zoolojia  
 zoológico - zooparke  
 zoológico - zoolojike  
-zumbi - zombe  
+zumbi - zombi  
 ágil - agile  
 água - sui  
 álcool - alkol  

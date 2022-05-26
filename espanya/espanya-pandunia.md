@@ -51,6 +51,7 @@ actuar (hacer un papel) - role
 acuarela - suirang  
 acuario (pecera) - pestanke  
 acuerdo - samrayia  
+acumular - kume  
 acuoso - suye  
 adelante - proo  
 además - a max  
@@ -222,6 +223,7 @@ arboreto - mokozongoparke
 arbusto (mata) - tali moke  
 archipiélago - nesia  
 archipiélago de Hawái - Havai nesia  
+archivo - dataje  
 arcilla (barro) - glutofan  
 arco - arke  
 arco iris - rangarke  
@@ -663,7 +665,7 @@ chinés (de los Han) - cine
 Chipre - Kipris  
 Chipre del Norte - Nordi Kipris  
 chisporrotear - zize  
-chito (chist) - suso  
+chito (chist) - tix  
 chocolate - coklate  
 choque (sacudida) - xoke  
 chorrear - love  
@@ -680,7 +682,7 @@ cinc - zinke
 cinco (5) - lime  
 cinta (cinta para el pelo) - kexbende  
 cinta adhesiva - tepe  
-cinturón (zona) - zon  
+cinturón (zona) - zone  
 cinéfilo - kinofilike  
 cinético - kine  
 circonio - zirkonium  
@@ -750,13 +752,13 @@ coma - kome
 combava (lima kafir) - karsolimon  
 comedia - komodia  
 comedor - yamkamar  
-comenzar (iniciar, empezar) - sure  
-comenzar (iniciarse, empezar) - suru  
+comenzar (iniciar, empezar) - xure  
+comenzar (iniciarse, empezar) - xure  
 comer (bebir) - yame  
 comerciar - vendosope  
 comercio - vendosope  
 comida - yam  
-comienzo (inicio, principio) - sur  
+comienzo (inicio, principio) - xure  
 comilla - citomarke  
 comino - zire  
 comisión (comité) - konmisia  
@@ -868,7 +870,7 @@ Costa Rica - Kosta Rika
 costar - koste  
 costumbre (hábito; ordinario, habitual) - ade  
 costumbre (tradición, convención; traditional, convencional) - rite  
-costura (sutura) - sutur  
+costura (sutura) - suture  
 cota de malla - sernete  
 cota de malla - silnete  
 crecemiento - raste  
@@ -957,6 +959,7 @@ cómo - ko?
 cómo? (eh?) - he  
 cómodo (lujoso) - huse  
 cósmico - kosme  
+cúmulo - kumulonepe  
 cúpula - kupocate  
 
 ## D  
@@ -975,6 +978,7 @@ de (desde) - za
 de (posposición de posesión) - da  
 de (posposición de posesión) - di  
 de lado - lato  
+de lujo - deluxe  
 debajo - a sube  
 debatir (discutir) - lone  
 deber (necesitar) - debu  
@@ -1099,7 +1103,7 @@ doctor - dotor
 doctorado - dotoria  
 doctrina - dokaje  
 documental - dokumfilme  
-documento (archivo, nota) - dokum  
+documento - dokum  
 dolar - dolar  
 dolor (sufrimiento; sufrir; doler) - tunge  
 dolor de cabeza - sartunge  
@@ -1117,7 +1121,7 @@ dormir (sueño) - some
 dormitorio - somokamar  
 dos (2) - du  
 dos veces - dulmaro  
-dotes (arte, habilidad) - sute  
+dotes (arte, habilidad) - xute  
 dragón - lung  
 drama - drame  
 droga (narcótico) - droge  
@@ -1128,6 +1132,7 @@ ducha - duce
 duda - sanke  
 dudoso - sankable  
 dueño - maler  
+duna - duna  
 durable - durable  
 durar (llevar tiempo, transcurrir; duración) - dur  
 duro - gate  
@@ -1190,7 +1195,7 @@ embudo - darotube
 emir - amirer  
 emirato - amiria  
 Emiratos Árabes Unidos - Uni Arabi Amiria (UAA)  
-Emiratos Árabes Unidos - Uniti Arabi Amiria (UAA)  
+Emiratos Árabes Unidos - Unite Arabe Amiria (UAA)  
 emisión - misia  
 emoticón (emoyi) - emoze  
 emotivo - emose  
@@ -1257,7 +1262,7 @@ Escandinavia - oskandinavia
 Escandinavia - Skandia  
 escandio - skandium  
 escaparse (evitar, huir) - bege  
-escarcha - himros  
+escarcha - hima rose  
 escasez - savia  
 escenario (podio, estrado, tarima) - tai  
 Escocia - Skotia  
@@ -1282,6 +1287,7 @@ espacio (separación) - kal
 espacio (texto) - kali harfe  
 espada - katane  
 espalda (lomo) - ruke  
+espani - pandunia  
 España - Espania  
 especia - masale  
 especial (diferenciado, distinto) - hase  
@@ -1305,7 +1311,7 @@ estación (temporada) - mosim
 estación - statia  
 estadio (arena) - stadia  
 estado (condición) - hal  
-Estados Unidos de América - Uniti Des Da Amerike (UDA)  
+Estados Unidos de América - Unite State de Amerika (USA)  
 estadounidense - USA  
 estante (repisa) - liboban  
 estar al lado de - late  
@@ -1722,7 +1728,7 @@ huracán (tifón) - rototafun
 hurra - ure  
 hurón - furete  
 huérfano - yatim  
-hábil - sute  
+hábil - xute  
 héroe - vir  
 híbrido (mestizo) - hibride  
 hígado - hepate  
@@ -2023,7 +2029,7 @@ linea (hilo, cordel, raya) - lin
 linfa - linfe  
 lingüística - linguolojia  
 liquen - algafung  
-lirio - susan  
+lirio (azucena) - susan  
 lista - liste  
 lista blanca - halaloliste  
 lista negra - haramliste  
@@ -2042,8 +2048,9 @@ llave - cabe
 llenar - pure  
 lleno (completo) - pure  
 llevar (verstirse) - fuku  
-llorar - kuge  
+llorar - vava  
 llover (lluvia) - barse  
+llóron - vava bebe  
 lo lejos - tel  
 lobo - volfe  
 local - loke  
@@ -2057,6 +2064,7 @@ luchador (guerrero) - zenger
 lugar - loke  
 lugar de nacimiento - genoloke  
 lujuria (deseo) - kamia  
+lujuria - luxuria  
 luna - lune  
 lunes - unoyom  
 lutecio - lutetium  
@@ -2413,13 +2421,12 @@ Neptuno - Nepotun
 nervio (neural) - neure  
 neurona - neurocel  
 neuropatía - neuropatia  
-nevar - himu  
 newton (N) - nuton  
 nexo (red) - nete  
 neón - neon  
 Nicaragua - Nikaragua  
 nido (avispero, hormiguero, ratonera) - nide  
-nieve - hime  
+nieve (nevar) - hima  
 Nieves - Nevis  
 Nigeria - Nigiria  
 nihonio - niponium  
@@ -2854,7 +2861,7 @@ prever (anticipar) - previde
 prever (esperar, pensar) - cenvide  
 previo (anterior; antes; preceder, anteceder) - cene  
 primavera - fulmosim  
-primer (inicial, inaugural) - sure  
+primer (inicial, inaugural) - xurime  
 primer ministro - xefe minister  
 primero (numbre uno) - unime  
 primo - cinbrusben  
@@ -3265,7 +3272,8 @@ significar - mene
 siguiente (trasero) - pose  
 sij - sikiste  
 sijismo - sikisme  
-silencioso - suse  
+silencio - tixia  
+silencioso - tixe  
 silicio - silike  
 silla (montura) - side  
 silla - korse  
@@ -3314,7 +3322,7 @@ sopa - supe
 soporte (perchero, atril) - libobaze  
 sorpresa - suprize  
 soñoliento (somnífero) - somive  
-sranan tongo - surinami bas  
+sranan tongo - surinami baxe  
 Sri Lanka - Lanka  
 strontium - strontium  
 su (suyo) - se su  
@@ -3349,7 +3357,7 @@ superior (más alto) - supre
 sur - sude  
 sureño - sude  
 Surinam - Surinam  
-sushi - sushe  
+sushi - suxi  
 sustancia (materia) - mate  
 sustancia - kime  
 sustantivo - namloge  
@@ -3366,10 +3374,10 @@ tabaco - tabake
 tabla (lámina, plancha) - table  
 tabla - datotable  
 tabla con pinza (carpeta con sujetapapeles) - pinsoban  
+tablet - table konputer  
 tablet - tablete konputer  
-tablet - tablokomputer  
 tablón - mokoban  
-tabular - tabla date  
+tabular - tablate  
 taiga - taige  
 Tailandia - Tai dexia  
 tailandés - Tai  
@@ -3743,7 +3751,7 @@ zigurat - zikure
 zigzag - zigzage  
 Zimbabue - Zimbabve  
 zodíaco - zoosikle  
-zombi - zombe  
+zombi - zombi  
 zoo - zooparke  
 zoología - zoolojia  
 zoológico - zoolojike  

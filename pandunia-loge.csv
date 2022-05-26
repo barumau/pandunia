@@ -1,6 +1,6 @@
-morfe|pandunia|klase||logasle|engli|franci|espani|portugali|rusi|arabi|putongi cini|niponi|coseni|vieti|hindi|bangli|malayu|swahili|turki|esperanti|suomi|polski
 ----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------
 a|A||||A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A
+a sabab: de|a sababe de||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
 a:|a|binə|adp.|fra:à, spa:por:a, eng:a-,ad-, rus:а-|by (at, in, on)|a (dans, en, chez)|en (a)||в||在||||||||||luona (-lla, -ssa)|przy, z, na, w, u
 a~ ke;|a ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
 a~ le:|a le||||there||allí (allá)|||||||||||||tie|siellä (tuolla)|tu (tutaj, tam)
@@ -54,7 +54,6 @@ ais~krem:|aiskrem|||eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:
 ajib:|ajibe|||ara:(ʿajīb), swa:ajabu, + fas:('ajib), urd:(ajīb), hin:अजीब (ajīb), tur:acayip|marvel (wonder; amaze, astonish)|merveille (éblouir, étonner, stupéfier, surprendre)|maravilla (maravilloso, asombroso)|maravilha|||||||||||||ihme (ihmeellinen, ällistyttävä)|dziw (cudo)
 ajib:ia|ajibia||27 emotions||awe (wonder)||asombro||||||||||||||hämmästys (ihmetys)|zachwyt (zdumienie)
 akar:|akare|biu|Acari|spa:por:ácaro, fra:acarien, tur:acari|tick (mite)|acarien|garrapata (ácaro)|carrapato (ácaros)|клещ (лепта)||蜱 (螨)|壁蝨|||||||||punkki|klescz (roztocze)
-ax:|axe|||eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen|axis (axle)|axe|eje||ось||轴线||||धुरी||as (poros, paksi)||eksen|akso|akseli|oś
 al:|ale|||ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)|other (different; differentiate, change)|autre (changer)|otro (cambiar, demudar)|outro (alterar)|другой (второй; изменять)||另一 (改變)|他の (変える)|바꾸다||अन्य||lainnya|kubadili|diğer|alia (aliigi, ŝanĝi)|muu (toinen; muuttaa toiseksi)|inny (zmienić, zmieniać)
 al:o|• alo||||otherwise (else)|||||||||||||||alie|muuten (toisin)|w innym wypadku (inaczej)
 al~fon:|alofon||||allophone|allophone|alófono|||||||||||||alofono|allofoni (vaihtoehtoinen ääntämys)|alofon
@@ -214,6 +213,7 @@ aut.log:|autologe||||monolog|monologue|monólogo|monólogo|монолог||独�
 aut.mot:i|automote||||self-moving (automotive, automobile)||automotor (automotriz)|||||||||||||memmova|itseliikkuva|samobieżny
 aut.nom:i|autonome||||autonomous||autónomo||||||||||||||autonominen|autonomiczny
 aut.nom:ia|autonomia||||autonomy||autonomía||||||||||||||itsehallinto (autonomia)|autonomia
+ax:|axe|||eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen|axis (axle)|axe|eje||ось||轴线||||धुरी||as (poros, paksi)||eksen|akso|akseli|oś
 azerbaizan:|Azerbaizan|dex|AZ||Azerbaijan|Azerbaijan|Azerbaiyán||||||||||||||Azerbaidžan|Azerbejdżan
 b|B||||B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B|B
 babu:|babu|||may:bab, ara:urd:fas:(bāb), swa:babu|chapter (section)|chapitre|capítulo (sección)||глава||章|||||||babu (sura)||ĉapitro|luku (kirjan osa)|rozdział, sekcja
@@ -414,12 +414,12 @@ brun.salmon:|brunsalmon|biu|Salmo trutta||brown trout|truite brune (truite de me
 brunei:|Brunei|dex|BN||Brunei Darussalam||Brunei||||||||||||||Brunei|Brunei Darussalam
 brus:|brus||||sibling (brother or sister)||hermano o hermana|||||||||||||gefrato|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
 brus.ben:|brusben||||nephew or niece||||||||||||||||sisaruksen lapsi|
-buc:a|buce||||butcher|abattre|carnear (matar)|abater||||||||||||buĉi|teurastaa (lahdata)|
-buc.er:|bucer|||eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ)|butcher|boucher|carnicero|açougueiro (talhante)|мясник|جَزَّار‎|屠夫|肉屋|푸주한|người hàng thịt|क़साई (बूचड़)||tukang daging|||buĉisto|teurastaja|
-buc.kan:|bucokan|||fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)|abattoir (slaughterhouse)|abattoir|matadero|matadouro|бойня||屠宰场|屠畜場|도살장|lò mổ|बूचड़खाना (कसाईखाना)|কসাইখানা|||mezbaha|buĉejo|teurastamo|
+buc:|buce||||butcher (slaughter)|abattre|carnear (matar)|abater||||||||||||buĉi|teurastaa (lahdata)|
+buc.er:|• bucer|||eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ) + kor:푸주한 (pujuhan)|butcher|boucher|carnicero|açougueiro (talhante)|мясник|جَزَّار‎|屠夫|肉屋|푸주한|người hàng thịt|क़साई (बूचड़)||tukang daging|||buĉisto|teurastaja|
+buc.kan:|• bucokan|||fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)|abattoir (slaughterhouse)|abattoir|matadero|matadouro|бойня||屠宰场|屠畜場|도살장 (푸주)|lò mổ|बूचड़खाना (कसाईखाना)|কসাইখানা|||mezbaha|buĉejo|teurastamo|
 bud:|bude|||san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), vie:Bụt, tha:โพธิ (potí)|realize (realization, awareness, enlightenment, bodhi; aware, enlightened)||comprensión (entendimiento; concienciado, iluminado))|||||||||||||kompreni (konscii)|ymmärrys (taju, oivallus; valaistunut)|uświadomienie, świadomość; oświecenie, bodhi
-bud.ism:|budisme||||Buddhism||budismo||||||||बौद्ध धर्म|||||budhismo|buddhalaisuus (buddhismi)|Buddyzm
-bud.ist:|budiste||||Buddhist||budista|||||||||||||budhisto|buddhalainen|buddysta
+bud.ism:|• budisme||||Buddhism||budismo||||||||बौद्ध धर्म|||||budhismo|buddhalaisuus (buddhismi)|Buddyzm
+bud.ist:|• budiste||||Buddhist||budista|||||||||||||budhisto|buddhalainen|buddysta
 bud<mes:|• mesbude||||misunderstand||malinterpretar||||||||ग़लत समझना||||||ymmärtää väärin|źle zrozumieć
 buda|Buda||||Buddha|Bouddha|Buda|Buda|Будда||佛陀|仏陀|부처 (불타)|Phật (Bụt)|बुद्ध|বুদ্ধ|Buddha||Buda|Budho|Buddha|Budda
 budapext:|Budapext|xefsite|HU||Budapest||||||||||||||||Budapest|
@@ -624,9 +624,10 @@ dart:|darte|||eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, m
 daruin.ism:|darvinisme||||Darwinism||darwinismo||||||||||||||darwinismi|darwinizm
 daruin.ist:|darviniste||||Darwinist||darwinista||||||||||||||darwinisti|darwinista
 dat:|date|||eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)|data (numeric information)|données|datos|dados|данные||数据||||डेटा||data||veri|datumo|data (numeerinen tieto)|dane
+dat.aj:|• dataje||||file (record, collection of data)|dossier|archivo||файл||||||||||||tiedosto|
 dat.bank:|datobanke||||database (databank)|base de données|banco de datos (base de datos)|banco de dados|база данных||数据库||||डेटाबेस||basis data||veritabanı|datumbanko|tietokanta|baza danych (bank danych)
 dat.fen.kat:|datofenkate||||data analysis||análisis de datos|||||データ解析||||||||||
-dat.tabl:|datotable||||data table (matrix)||tabla||||表格|表|표||तालिका|তালিকা||||tabelo|taulukko|tablioca, macierz
+dat~tabl:|datotable||||data table (matrix)||tabla||||表格|表|표||तालिका|তালিকা||||tabelo|taulukko|tablioca, macierz
 dau:|dau|||zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo|way (road)||camino (calle)|||||道||||||||vojo|tie|droga, szosa, ulica
 dau.ism:|• davisme||||Taoism (Daoism)||taoísmo||||||||||||||taolaisuus|taoizm
 dau.ist:|• daviste||||Taoist||taoísta||||||||||||||taolainen|taoista
@@ -717,7 +718,7 @@ dok.aj:|• dokaje||||doctrine (body of teachings)|doctrine|doctrina|doutrina|у
 dok.ent:|• dokente||||docent||docente|docente|||||||||dosen||||dosentti|
 dok.er:|• doker||||doctor|||||||||||||||||
 dok.men:|• dokemen||||document (paper used as a proof)|||||||||||||||||
-dokum:|dokum|||eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|document (record, file)|document (dossier)|documento (archivo, nota)|documento|документ||文件|書類 (文書, ドキュメント)|서류 (문서)|tài liệu (văn kiện)|दस्तावेज़||surat (dokumen)|waraka|belge (doküman)|dokumento|asiakirja (dokumentti, tiedosto)|dokument
+dokum:|dokum|||eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|document (record, file)|document|documento|documento|документ||文件|書類 (文書, ドキュメント)|서류 (문서)|tài liệu (văn kiện)|दस्तावेज़||surat (dokumen)|waraka|belge (doküman)|dokumento|asiakirja (dokumentti, tiedosto)|dokument
 dokum.film:|dokumfilme||||documentary film|documentaire|documental|documentário|документальный фильм||纪录片|ドキュメンタリー|다큐멘터리|phim tài liệu|||film dokumenter||belgesel|dokumentfilmo|dokumenttielokuva|
 dokum.sanduk:|dokumsanduke||||folder (directory)||carpeta||||||||||||||kansio (hakemisto)|folder (teczka)
 dolar:|dolar||||dollar||dolar|||||||||||||dolaro|dollari|dolar
@@ -780,6 +781,7 @@ dul.sond:i|dulsonde||||stereophonic||||||||||||||||stereofoninen|
 duman:|duman|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|smoke||humo|||||||||||||fumo|savu|dym
 dun:ia|dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
 dun~ia lingu:|dunia lingue||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
+duna:|duna|||eng:fra:dune, spa:por:duna, rus:дюна (diuna) + vie:đụn, kor:둔(덕) (dun(deok))|dune|dune|duna|duna (бархан)|дюна||||||||||||dyyni (kinos)|
 dung:ia: auentur:|dungia aventur|||eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|dungeon crawl||juego de mazmorras|||||ダンジョンアドベンチャー|||||||||luolaseikkailu|przygoda w lochu
 dur:|dur|||eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|last (take time; elapse, pass by, go by; during; duration, time interval)|durer (se passer; durée)|durar (llevar tiempo, transcurrir; duración)|durar (transcorrer; duração)|длиться||时间|||||||||daŭri|kestää (kulua, viedä aikaa; kestoaika, kesto, aika)|trwać (zająć czas; przez; trwanie)
 dur:a|• dura||||continue (go on, keep on, carry on)|continuer (poursuivre)|||||||||||||devam etmek||jatko (jatkaa; jatkua)|kontynuować; wznawiać, ponawiać
@@ -988,6 +990,7 @@ fizik:ia|• fizikia|||eng:physics, spa:por:física, rus:физика (fizika), 
 fizik.er:|• fiziker||||physicist||físico (científico)|||||||||||||fizikisto|fyysikko|fizyka
 flec:|flece|||spa:por:flecha, fra:flèche, eng:fletch|arrow (bolt)|flèche|flecha|flecha (seta)|стрела (стрелка)||箭|矢 (矢印)|||||||||nuoli|strzała (bełt)
 flec.er:|• flecer||||fletcher|||||||||||||||||wytwórca łuków i strzał
+flerou.ium:|flerovium|kimium 114|Fl|eng:may:flerovium, fra:flérovium, spa:flerovio, por:fleróvio, rus:флеровий, zho: (fū), jpn:フレロビウム, kor:플레로븀, vie:flerovi, swa:flerovi|flerovium|flérovium|flerovio|fleróvio|флеровий|ٲنون كواديوم||フレロビウム|플레로븀|flerovi|||flerovium|flerovi|fleroviyum||flerovium|flerow
 flex:|flexe||||bend (flex)|||||||||||||||||
 flex.abl:|• flexable||||flexible |||||||||||||||||
 flex.ion:|• flexion||||flexion (flection)|||||||||||||||||
@@ -996,7 +999,6 @@ flex<de:|• deflexe||||deflect (bend away)|||||||||||||||||
 flex<re:|• reflexe||||reflect (bend back)||||||||||||||||heijastaa (taittaa takaisin)|
 flex<re.ion:|• reflexon||||reflection||||||||||||||||heijastus|
 flex<re.or:|• reflexor||||reflector||||||||||||||||heijastin|
-flerou.ium:|flerovium|kimium 114|Fl|eng:may:flerovium, fra:flérovium, spa:flerovio, por:fleróvio, rus:флеровий, zho: (fū), jpn:フレロビウム, kor:플레로븀, vie:flerovi, swa:flerovi|flerovium|flérovium|flerovio|fleróvio|флеровий|ٲنون كواديوم||フレロビウム|플레로븀|flerovi|||flerovium|flerovi|fleroviyum||flerovium|flerow
 flur.ium:|flurium|kimium 009|F|eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور|fluorine|fluor|flúor|flúor|фтор|فلور|氟|フッ素|플루오르|flo|फ्लोरीन|ফ্লুরিন|fluor|florini|fluor|fluoro|fluori|fluor
 fob:|fobe||||fear (scare; frighten; scared, afraid)|peur (effrayer; craindre)|miedo (temer; asustar, atemorizar)|temer (assustar)|бояться (страшиться; страшить)||害怕 (吓唬)|恐れる|두려워하다|sợ hãi|डरना|ভয় করা|takut|kuogopa (kuhofu)|korkmak (korkutmak)|timo (timi; timigi)|pelko (pelottaa; pelätä; pelokas)|
 fob:ia|• fobia|||eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi|fear (phobia)||miedo (-fobia)|||||||||||||fobio|kammo (fobia)|strach, fobia
@@ -1403,9 +1405,9 @@ hibrid:|hibride|||eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (g
 hidr:|hidre|kimium 001|H|eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين|hydrogen|hydrogène|hidrógeno|hidrogéno|водород|هيدروجين|氢|水素|수소|hyđrô|हाइड्रोजन|হাইড্রোজেন|hidrogen|hidrojeni|hidrojen|hidrogeno|vety|wodór
 higab:|higabe|||ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|veil (cover, screen)|voile|velo|véu|вуаль|حِجَاب|面纱||||||||hijabu (veli, shela)||verho (huntu, peite)|welon (woalka)
 hiiar:|hiyar|biu|Cucumis sativus|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|cucumber|concombre|pepino|pepino|огурец||黄瓜|キュウリ||||||||kukumo|kurkku|ogórek
-him:|hime|||hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|snow|neige|nieve|neve||||||||||||neĝo|lumi|śnieg
-him:u|himu||||snow (be snowing)||nevar|||||雪が降る||||||||||śnieżyć (padać)
-him.ros:|himros||||frost||escarcha|||||||||||||frosto|kuura|szron
+hima:|hima|||hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|snow (be snowing)|neige|nieve (nevar)|neve||||雪が降る||||||||neĝo|lumi|śnieg (śnieżyć)
+hima~duna:|hima duna||||snow drift||||||||||||||||lumikinos|
+hima~ros:|hima rose||||frost||escarcha|||||||||||||frosto|kuura|szron
 himal:ia|Himalia||||Himalayas||Himalaya|||||||||||||Himalajo|Himalaja|Himalaje
 hind:e riu:|Hinde riu||||Indus river|Indus|Indo|Indo|Инд|نَهْر الْسِنْد‎|印度河|インダス川|||सिन्धु (सिन्ध नदी)|সিন্ধু|||Ind|Induso|Indusjoki|
 hind:i|hinde||||Hindi (Hindustani)||||||||||हिंदी (हिंदुस्तानी)|হিন্দি|||||hindin kieli|
@@ -1954,7 +1956,6 @@ kuang.tunel:|kuangotunel||||mineshaft|||||||||||||||||szyb górniczy
 kuarz:|kuarze|||deu:Quarz, eng:fra:quartz, spa:cuarzo, rus:кварц (kvarc), tur:kuvars, hin:क्वार्ट्ज (kvārtj), jpn:クオーツ (kuōtsu), may:kuarza|quartz|quartz|cuarzo|quartzo|кварц||石英|石英||||||||||kwarc
 kub:|kube|||spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp|cube|cube|cubo|cubo|куб|كَعْبَة|立方体|立方体|입방체|hình lập phương|घन|ঘনক|kubus||küp|kubo|kuutio|sześcian
 kuba:|Kuba|dex|CU||Cuba||Cuba||||||||||||||Kuuba|Kuba
-kug:a|kuge|||zho:哭 (kū), yue:哭 (huk1), vie:khóc|weep (cry)||llorar|||||||||||||plori|itkeä|płakać, łkać
 kuk:a|kuke|||eng:cook, deu:Kock, ita:cuoco, may:koki, tha:กุ๊ก (kuk), sango:kuku|cook (prepare food)||cocinar (preparar)||||||||||||||kokata (laittaa ruokaa)|gotować, szykować jedzenie
 kuk:e nes:ia|Kuke nesia|dex|CK||Cook Islands||Islas Cook||||||||||||||Cookin saaret|Wyspy Cooka
 kuk.er:|kuker|||eng:cook, rus:кухар (kuhar), pol:kucharz, tha:กุ๊ก (gúk), may:koki, deu:Koch|cook (chef)||cocinero||||||||||||||kokki|kucharz
@@ -1965,6 +1966,9 @@ kulomb:|kulombe|unomete|C||coulomb (unit)||culombio||||||||||||||kulombi (mittay
 kultur:|kultur|||eng:fra:culture, spa:por:cultura, rus:культу́ра (kulʹtúra), tur:kültür, jpn:カルチャー (karuchā)|culture||cultura|||||||||||||kulturo|kulttuuri|kultura
 kultur<poli:|• polikulture||||multicultural||multicultural|||||||||||||||wielokulturowy
 kultur<poli.ism:|• polikulturisme||||multiculturalism||multiculturalismo|||||||||||||||wielokulturowość
+kum:|kume|||eng:cumulate, fra:cumuler, spa:por:cumular + tur:kumul + ara:كَوْمَة‎ (kawma), fas: کومه (kume)|mound (hill)|accumuler|acumular||||||||||||||kumpu (kasa, läjä)|
+kum.ul:|• kumule||||heap (hillock, accumulation; heap up, accumulate)||||||||||||||||kasa (kasautua, kumuloitua)|
+kum~ul.nep:|kumulonepe||||cumulus cloud||cúmulo|cúmulo|кучевое облако||积云|積雲|||||||||kumpupilvi|
 kumar:|kumar|||hin:कुमार (kumār), tel:కుమారుడు (kumāruḍu), khm:កុមារ (ko’maa), tha:กุมาร (kuman)|adolescent (yong man; maiden)|||||||||||||||||
 kup:|kupe|||eng:cup, fra:coupe, spa:copa, por:copo, ara: كُوب‎ (kūb), tur:kupa, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop) + fas:(koppe), ara:قبة (qubba), may:kubah, rus:купол (kupol), deu:Kuppel|drinking vessel (cup, glass, mug, goblet, chalice)|coupe (tasse, verre)|vaso (taza, copa)|copo (taça)|чаша (чашка, стакан)|كُوب‎|杯子|コップ|컵|ly (chén)|प्याला|পেয়ালা|cangkir (cawan, gelas)|kikombe (glas)|kase (fincan, bardak, kupa)|taso|malja (kuppi, muki, lasi)|kubek
 kup.cat:|kupocate||||dome||cúpula||||||||||||||kupoli (holvikatto)|kopuła
@@ -2161,17 +2165,22 @@ lug:i|luge|rang||zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok)
 lug:ia|• lugia||||registry (account)||registro (cuenta)|||||||||||||registro (konto)|rekisteri (tili)|register
 lug.melon:|lugomelon|biu|Cucumis melo, Inodorus||honeydew (green melon)||melón verde|||||ハネデューメロン||||||||||melon miodowy
 lug~buk:|lugobuke||||logbook||diario||||||||||||||lokikirja|dziennik pokładowy (notatnik)
-luxemburg:|Luxemburge|dex|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg
 lul:|lul|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła
 lun:|lune|planete 3 lun 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|lune|luna|lua|луна|||||||||||luno|kuu|księżyc
 lun:|lun||||month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
-lun.kek:|lunokeke||||mooncake|gâteau de lune|pastel de luna|bolo lunar|лунный пирог|كَعْكَة اَلْقَمَر‎|月饼|月餅|월병||||kue bulan||ay keki||kuukakku|
+lun.ul:|• lunule||||moonlet (lunula)|||||||||||||||||
 lun~ tri|lun tri|mes|||March||marzo|||||３月|||||||||maaliskuu|czerwiec
+lun~kek:|lunokeke||||mooncake|gâteau de lune|pastel de luna|bolo lunar|лунный пирог|كَعْكَة اَلْقَمَر‎|月饼|月餅|월병||||kue bulan||ay keki||kuukakku|
 lung:|lung|||zho:龙 (lóng), yue:龍 (lung4), vie:rồng, long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)|dragon||dragón||||龙|竜|용 (룡)|rồng|||||||itämainen lohikäärme|smok
 lusun:|lusun|biu||zho:芦笋 (lúsǔn), yue:蘆筍 (lou4 seon2)|asparagus||espárrago||||||||||||||parsa|szparag; szparagia
 lut:a|lute|||hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|rob (loot, plunder, pillage, ransack)||saquear (desvalijar, robar)||||掠夺|||||||||rabi|ryöstää (ryövätä)|obrabować, splądrować
 lut.er:|luter||||robber (plunderer)|brigand (bandit)|ladrón|ladrão|грабитель||强盗||||डाकू|||||rabisto|ryöväri (rosvo)|rabuś (grabieżca)
 lutet.ium:|lutetium|kimium 071|Lu|eng:lutetium, fra:lutécium, spa:lutecio, por:lutécio, rus:лютеций, zho:镥 (lǔ), jpn:ルテニウム, kor:루테튬, vie:lutexi, hin:लुटेटियम, ben:লুটেসিয়াম, may:lutetium, swa:luteti, ara: لوتيتيوم|lutetium|lutécium|lutecio|lutécio|лютеций|لوتيتيوم|镥|ルテニウム|루테튬|lutexi|लुटेटियम|লুটেসিয়াম|lutetium|luteti|lutesyum|lutecio|lutetium|lutet
+lux:|luxe|||eng:lush, fra:luxe, spa:lujo, por:luxo, rus:люкс (lyuks), tur:lüks|lush||||||||||||||||runsas|
+lux.ur:|• luxure||||luxuriant (excessive)|luxure|||||||||||||||ylenmääräinen|
+lux.ur:ia|• luxuria||||luxury (excess)||lujuria|luxúria|||||||||||||ylenmääräisyys (luksus)|
+lux<de:|• deluxe||||deluxe|de luxe|de lujo|de luxo|||||||||||||deluxe|
+luxemburg:|Luxemburge|dex|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg
 m|M||||M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M|M
 ma:|me|||zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, fra:maman, spa:mamá, por:por:mãe, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mom (mama)|maman|mamá|mãe|мама|أُمّ‎|妈妈|お母さん (母,ママ)|엄마|mẹ (má)|माता (मां,मादर)|মাতা (মা)|ibu (emak)|mzazi (mama)|anne|patrino|äiti (emä)|mama
 ma.ma:|mame||||maternal grandmother||||||外婆 (外祖母)||||नानी||||||äidinäiti|
@@ -2477,6 +2486,7 @@ mont.et:|• montete||||hill|||||||||||||||||
 morf:|morfe|||eng:morph, spa:morfo, rus:морф (morf)|morph||morfo||||||||||||||morfi|morf
 morf.em:|morfem||||morpheme||morfema||||||||||||||morfeemi|morfem
 morf.em:|morfeme||||morpheme||morfema||||||||||||||morfeemi|morfem
+morfe|pandunia|klase||logasle|engli|franci|espani|portugali|rusi|arabi|putongi cini|niponi|coseni|vieti|hindi|bangli|malayu|swahili|turki|esperanti|suomi|polski
 moris:|Moris|dex|MU||Mauritius||Mauricio||||||||||||||Mauritius|Mauritius
 mort:|morte||||death||muerte (fallecimiento)|||||||||||||morto|kuolema (kuolo)|śmierć
 mort:a|morte||||kill||matar (morir, asesinar)|||||||||||||mortigi|tappaa|zabić, zabijać
@@ -2669,11 +2679,12 @@ no~ ham: di:|no ham di||||any (whichever; arbitrary)||qualquier (arbitrario)|arb
 nobel.ium:|nobelium|kimium 102|No|eng:nobelium, fra:nobélium, spa:nobelio, por:nobélio, rus:нобелий, zho:锘 (nuò), jpn:ノーベリウム, kor:노벨륨, vie:nobeli, hin:नोबेलियम, ben:নোবেলিয়াম, may:nobelium, swa:nobeli, ara: نوبليوم|nobelium|nobélium|nobelio|nobélio|нобелий|نوبليوم|锘|ノーベリウム|노벨륨|nobeli|नोबेलियम|নোবেলিয়াম|nobelium|nobeli|nobelyum|nobelio|nobelium|nobel
 noc:|noce|||spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|night|noit|noche|noite|ночь||夜|夜|||रात||malam||gece|nokto|yö|noc
 noc.mod:|nocomode||||night mode||modo nocturno||||||||||||||yömoodi|tryb nocny
-nod:|node|||eng:node, spa:nudo, por:nó, fra:nœud|tie (make knot; knot, node)||nudo (hacer un nudo)|||||||||||||nodo|solmia (solmu)|węzeł (zupeł; zawiązywać, zawiązać węzeł)
+nod:|node|||eng:node, spa:nudo, por:nó, fra:nœud + vie:nút|tie (make knot; knot, node)||nudo (hacer un nudo)|||||||||||||nodo|solmia (solmu)|węzeł (zupeł; zawiązywać, zawiązać węzeł)
+nod.ul:|• nodule||||lump (nodule)||||||||||||||||myky|
 nof:|nof|numbe|9|por:nove, spa:nueve, fra:neuf, hin:नौ (nau), ben:নয় (nôy)|nine (9)|neuf (9)|nueve (9)|nove (9)|девять (9)||九 (9)|九 (9)|||नौ|নয়|||||yhdeksän|dziewięć (9)
 nol:a|nole||||cancel (nullify)||cancelar|||||キャンセルする||||||||||
-nom:a|nome||||manage (organize)|organiser|organizar (gestionar)|organizar|организовать||组织|組織する|||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
-nom:ia|nomia|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|management (arrangement, -nomy)||gerencia (dirección)||организация||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
+nom:|nome||||manage (organize)|organiser|organizar (gestionar)|organizar|организовать||组织|組織する|||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
+nom:ia|• nomia|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|management (arrangement, -nomy)||gerencia (dirección)||организация||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
 nord:|norde|||eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|north (northern)|nord|norte (norteño)|norte|север (норд)||北|北|북|||||||nordo|pohjoinen|północ
 nord:i amerik:|Nordi Amerike||||North America||Norteamérica||||||||||||||Pohjois-Amerikka|Ameryka Północna
 nord:i cosen:|Nordi Cosen|dex|KP||North Korea (Democratic People’s Republic of Korea)||Corea del Norte||||||||||||||Pohjois-Korea|Korea Północna (Koreańska Republika Ludowo-Demokratyczna)
@@ -2738,8 +2749,6 @@ ok.sui.gas:|okosuigas||||tear gas|gaz lacrymogène|gas lacrimógeno|gás lacrimo
 okei:|okei||||okay (acceptance)||||||||||||||||hyväksyntä|
 okei:a|okeye||||accept (say okay)||aceptar||||||||||||||hyväksyä|zaakceptować, akceptować, powiedzieć okej, mówić okej
 okei:i|okeye|||eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)|okay (acceptable)||bien (aceptable)|||||大丈夫 (ＯＫ)||||||||akceptebla (okej)|kelpo (okei)|okej, spoko, akceptowalny
-ox:|oxe|kimium 008|O|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|oxygen|oxygène|oxígeno|oxigénio|кислород|أكسجين|氧|酸素|산소|oxy, oxi|ऑक्सीजन|অক্সিজেন|oksigen|oksijeni|oksijen|oksigeno|happi|tlen
-ox.id:|oxide||||oxide|oxyde|óxide|óxide|окись (оксид)||氧化物|||||||||oksido|oksidi|tlenek
 oland:i nes:ia|Olandi nesia|dex|AX||Aland Islands||islas Aland||||||||||||||Ahvenanmaa (Oolanti)|Wyspy Alandzkie
 oman:|Oman|dex|OM||Oman||Omán||||||||||||||Oman|Oman
 ond:|onde|||spa:por:ita:onda, fra:onde, may:ombak|wave|onde|onda|onda|||波浪|波||||||||ondo|aalto (laine)|fala
@@ -2781,6 +2790,8 @@ ot.ion:|• otion|||deu:eng:fra:option, spa:opción, por:opção, rus:опция
 ot.ion.al:|• otional||||optional||||||||||||||||valinnainen (optionaalinen)|
 ou:|ove|||fra:oeuf, spa:huevo, por:ovo + eng:tur:oval, rus:овал (oval)|egg|oeuf|huevo|ovo||||||||||||ovo|muna|jajko (jajo)
 ou.oid:|• ovoide||||oval|ovale|óvale|ovoide|овал||卵形|卵形 ( たまごがた)|타원||||||oval|ovala|soikea (munanmuotoinen,ovaali)|
+ox:|oxe|kimium 008|O|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|oxygen|oxygène|oxígeno|oxigénio|кислород|أكسجين|氧|酸素|산소|oxy, oxi|ऑक्सीजन|অক্সিজেন|oksigen|oksijeni|oksijen|oksigeno|happi|tlen
+ox.id:|oxide||||oxide|oxyde|óxide|óxide|окись (оксид)||氧化物|||||||||oksido|oksidi|tlenek
 oz:|oze||||functional disease or disorder|||||||||||||||||
 p|P||||P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
 pa:|pe|||eng:fra:papa, spa:papá, rus:папа (papa), ara:(bābā), zho:爸爸 (bàba), jpn:パパ (papa), kor:아빠 (appa), vie:ba/bố, hin:बाप (bāp), ben:বাবা (baba), may:bapa, swa:tur:baba|dad (papa)|pere (papa)|papá|pai|папа|أَب‎|爸爸|お父さん (父,パパ)|아빠|ba (bố)|पिता (बाप,पिदर)|আব্বা (পিতা,বাবা)|bapa (bapak)|baba|baba|paĉjo|isi|ojciec
@@ -3319,8 +3330,6 @@ ruterford.ium:|ruterfordium|kimium 104|Rf|eng:rutherfordium, fra:rutherfordium, 
 rutin:|rutin|||eng:fra:routine, spa:rutina, por:rotina, deu:Routine, fas:روتین‎ (rutin), rus:рутина (rutina)|routine (habit)||rutina (hábito)|||||||||||||rutino (kutimo)|tapa (rutiini)|rutyna, nawyk, zwyczaj
 s|S||||S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S|S
 sabab:|sababe|||heb:(sibá), hau:sabo;sababi, kon:sambu, ara:urd:(sabab), tur:sebep, may:sebab, swa:sababu|reason (cause)||razón (causa)|||||||||||||kialo|syy (aiheuttaa, olla syynä)|powód (przyczyna; spowodować, powodować)
-a sabab: de|a sababe de||||because||porque|||||||||||||ĉar|koska (johdosta, takia)|ponieważ, bo
-sav<an:|• ansave||||strange (unknown)||||||||||अनजाना|||||fremda (nekonata)|vieras (tuntematon)|dziwny (nieznany)
 sabat:|sabate||||Sabbath||sabbat||||||||||||||sapatti|szabat, szabas
 sabl:|sable|||fra:sable, ita:sabbia + zho:沙漠 (shā), jpn:砂 (sa), kor:사 (sa), vie:sa + hin:बालू (bālū), ben:বালু (balu)|sand|sable|arena|areia|песок|رمل‎ |沙|砂|모래|cát|रेत ( बालू)|বালু|pasir|mchanga|kum|sablo|hiekka|piasek, piach
 sabl<mou:|• movosable||||quicksand|sables mouvants|arenas movedizas|areia movediça|зыбучие пески||流沙|流砂|유사|||চোরাবালি|||||juoksuhiekka|
@@ -3428,6 +3437,7 @@ saud:i arab:ia|Saudi Arabia|dex|SA||Saudi Arabia||Arabia Saudita||||||||||||||Sa
 sauna:|sauna|||fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|sauna||sauna|||||||||||||saŭno|sauna|sauna
 saur:|saure|||ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)|lizard|lézard|lagarto|lagarto|ящерица|سِحْلِيَّة‎|蜥蜴|蜥蜴|도마뱀|thằn lằn|छिपकली (सरट)|টিকটিকি|kadal (cicak)|mjusi|kertenkele|lacerto|lisko|jaszczurka
 saus:|saus|||eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus|sauce|sauce|salsa||соус|||ソース|소스|xốt|सॉस||saus|||saŭco|kastike (soosi)|sos
+sav<an:|• ansave||||strange (unknown)||||||||||अनजाना|||||fremda (nekonata)|vieras (tuntematon)|dziwny (nieznany)
 se:|se|binə|pers.pron. identity||self (reflexive pronoun)|se|se|se|себя (-ся)|||||||||||si|itse|sam (siebie)
 se: su:|se su|binə|identity possessive||own|son (sa)|su (suyo)||||||||||||||oma (-nsa)|
 se.mon:|semon|binə|pers.pron. reciprocal||each other (one another)|l'un l'autre|el uno al otro (mutuamente)|um ao outro|друг друга||彼此||||||||birbiri|unu la alian|toisiaan (toinen toistaan)|
@@ -3435,15 +3445,6 @@ sek:|seke|||zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)|ston
 sek.zang.er:|sekozanger||||mason (stonemason, stonecutter)||albañil (mampostero, cantero)|||||石匠||||||||||kamieniarz
 sekret.er:|sekreter|||eng:secretary, spa:secretario, por:secretário, fra:secrétaire, deu:Sekretär, rus:секретарь (sekretar’), tur:sekreter, fas:سکرتر‎ (sekreter)|secretary||secretario||||||||||||||sihteeri|sekretarz
 sekret.er:ia|sekreteria||||secretariat||secretaría||||||||||||||sihteeristö|sekretariat
-sex:|sexe|||eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|sex (sexual relation; have sex)||sexo|||||||||||||sekso|seksi (sukupuolisuhde)|seks, stosunek płciowy
-sex:a|sexe||||have sex||tener sexo|||||||||||||||kochać się, uprawiać seks
-sex:i|sexe||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny, ponętny
-sex:i|sexe||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny,ponętny
-sex.loj:ia|sexolojia||||sexology|sexologie|sexología|sexologia|сексология|طِبّ جِنْسِيّ‎|性学|性科学||tình dục học||যৌনবিদ্যা|||seksoloji||seksologia|seksuologia
-sex.loj:ia|sexolojia||||sexology|sexologie|sexología|sexologia|сексология|طِبّ جِنْسِيّ‎|性学|性科学||tình dục học||যৌনবিদ্যা|||seksoloji||seksologia|seksuologia
-sex<an:|• ansexe||||asexual|asexué|asexual||||||||||||||aseksuaali|aseksualny
-sex<du:|• dusexe||||bisexual||bisexual||||||||||||||biseksuaali|biseksualny
-sex<pan:|• pansexe||||pansexual||pansexual|||||||||||||||panseksualny
 sekund:|sekunde|||eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)|second(s)||segundo||||||||||||||sekunti|sekunda
 sekur:|sekure|||eng:secure, deu:sicher, spa:por:seguro|safe (secure; protect)|sûr|seguro (proteger, asegurar, guardar)|seguro|||||||||||||turvallinen (varma, suojattu; turvata, suojella)|bezpieczny (chronić, ratować)
 sekur~kod:|sekurokode||||password (security code)||contraseña|||||||||||||||hasło
@@ -3496,7 +3497,16 @@ seru.or:|servor||||server (host machine)||servidor||сервер|||サーバ||||
 seru.or.nam:|servor nam||||servername (hostname)|||||||||||||||||
 sesam:|sesam|biu|Sesamum indicum|eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam|sesame||ajonjolí (sésamo)||сезам|||||||||simsim|susam||seesami|sezam
 seshel: nes:ia|Seshel nesia|dex|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
+sex:|sexe|||eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)|sex (sexual relation; have sex)||sexo|||||||||||||sekso|seksi (sukupuolisuhde)|seks, stosunek płciowy
+sex:a|sexe||||have sex||tener sexo|||||||||||||||kochać się, uprawiać seks
+sex:i|sexe||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny, ponętny
+sex:i|sexe||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny,ponętny
+sex.loj:ia|sexolojia||||sexology|sexologie|sexología|sexologia|сексология|طِبّ جِنْسِيّ‎|性学|性科学||tình dục học||যৌনবিদ্যা|||seksoloji||seksologia|seksuologia
+sex.loj:ia|sexolojia||||sexology|sexologie|sexología|sexologia|сексология|طِبّ جِنْسِيّ‎|性学|性科学||tình dục học||যৌনবিদ্যা|||seksoloji||seksologia|seksuologia
+sex<an:|• ansexe||||asexual|asexué|asexual||||||||||||||aseksuaali|aseksualny
+sex<du:|• dusexe||||bisexual||bisexual||||||||||||||biseksuaali|biseksualny
 sex<hom:|• homosexe||||homosexual||homosexual|||||||||||||samseksema|homoseksuaali|homoseksualny
+sex<pan:|• pansexe||||pansexual||pansexual|||||||||||||||panseksualny
 shanghai:|Shanghai|site|||Shanghai||||||上海|||||||||||Szanghaj
 si:|si|binə|identity copula||be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
 si~ ham:|si ham||||matter (be important)||importar|||||||||||||gravi|olla väliä (olla tärkeä)|znaczyć (liczyć się, być ważnym)
@@ -3615,8 +3625,8 @@ sol.sistem:|solosistem||||solar system||sistema solar||||太阳系|||||||||sunsi
 solomon: nes:ia|Solomon nesia|dex|SB||Solomon Islands||Islas Salomón||||||||||||||Salomon-saaret|Wyspy Salomona
 som:|some|||fra:sommeil, por:sono, rus:сон (son), hin:सोना (sonā), ben:শোয়া (śoya) + ara: سِنَة (sina)|sleep|dormir (sommeil)|dormir (sueño)|dormir (sono)|спать|نَوْم‎|睡觉 (困觉)|寝る|자다||नींद (सोना)|শোয়া|tidur|kulala|uyumak|dormi|nukkua (nukkuminen, uni)|spać (sen)
 som.iv:|• somive||||drowsy|ensommeillé (somnolent)|soñoliento (somnífero)|sonolento|сонный|||||||||||dormema|unelias|
-som<n:|• ansome||||insomnia|insomnie|insomnio|insônia|бессонница (инсомния)||失眠|不眠症|불면증|mất ngủ|अनिद्रा||||uykusuzluk|sendormeco|unettomuus|
 som<de:|• desome||||wake up||||||||||||||||herättää|
+som<n:|• ansome||||insomnia|insomnie|insomnio|insônia|бессонница (инсомния)||失眠|不眠症|불면증|mất ngủ|अनिद्रा||||uykusuzluk|sendormeco|unettomuus|
 som~kamar:|somokamar||||bedroom|chambre à coucher|dormitorio|quarto (dormitório)|спальня||卧室 (寝室)|寝室|침실|phòng ngủ|शयनकक्ष||kamar tidur|chumba cha kulala|yatak odası|dormoĉambro|makuuhuone|sypialnia
 som~papil:|somopapil|biu|Papaver somniferum|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|opium poppy|pavot somnifère|adormidera (amapola real)|papoila-dormideira|мак снотворный||鴉片罌粟|ケシ||||||mpopi||||mak lekarski
 somal:ia|Somalia|dex|SO||Somalia||Somalia||||||||||||||Somalia|Somalia
@@ -3726,29 +3736,20 @@ supr:a|supre|||eng:super, spa:por:sobre, ita:sopra|surpass (go over)||sobrepasar
 supr:i|supre||||upper||superior (más alto)||||||||||||||ylä- (yli-)|górny
 supr:o|supro||||above (over)||sobre|||||||||||||super|yllä (pääll)|nad
 supriz:|suprize|||eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa|surprise||sorpresa||||惊奇|||||||||surprizo|yllätys|zaskoczenie
-sur:|sur|||ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|beginning (start, commencement, onset)|début (commencement)|comienzo (inicio, principio)|começo (início, princípio)|начало|بِدَايَة‎|开始|開始|시작||शुरू|শুরু|mula|||komenco|alku|początek
-sur:a|sure||||begin (start, commence, initiate)||comenzar (iniciar, empezar)||||开始||||||||başlamak|komenci|aloittaa|zacząć, zaczynać
-sur:i|sure||||initial (first)||primer (inicial, inaugural)||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
 sur:ia|Suria|dex|SY||Syria||Siria||||||||||||||Syyria|Syria
-sur:u|suru||||begin (get started)||comenzar (iniciarse, empezar)|||||||||||||komenciĝi|alkaa|zaczyna (zacząć, rozpoczynać, rozpocząć)
 surinam:|Surinam|dex|SR||Suriname||Surinam||||||||||||||Surinam|Surinam
-surinam:i bas:|surinami bas||||Sranan Tongo||sranan tongo||||||||||||||sranan tongo|język surinamski
+surinam~ bax:|surinami baxe||||Sranan Tongo||sranan tongo||||||||||||||sranan tongo|język surinamski
 sus:|sus|bio|Glycyrrhiza|ara: سُوس (sus), spa:alcazus, por:alcaçuz, swa:susi|licorice|réglisse|regaliz (alcazuz, orozuz)|alcaçuz (regaliz)|солодка (лакрица)|سُوس|甘草 (国老)|甘草 (蕗草)|감초|cam thảo|यष्टिमधु (मुलहठी)|মদ্যপান|akar manis|susi|meyan|lakrico|lakritsi|lukrecja
-sus:a|suse||||silence (make silent)|||||||||||||||silentigi|hiljentää|uciszyć (uciszać)
-sus:i|suse||||silent||silencioso||тихий|||||||||||silenta|hiljainen|cichy
-sus:o|suso|||eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|hush (shh)||chito (chist)||||噓|しーっ|쉿|suỵt|||||||hiljaa (hys, shhh)|ćsi
-susan:|susan|biu|Lilium candidum|fas:sousan, ara:(sawsan), heb:(šōšān), + eng:Susan, por:spa:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)|lily|lys|lirio|lírio|лилия||百合花||||कुमुदिनी||lili||zambak||lilja|lilia
-sushi:|sushe|||jpn:寿司 (sushi), eng:spa:sushi, rus:су́ши (sushi), tur:suşi|sushi||sushi|||||||||||||suŝio|sushi|sushi
-sut:|sute|||zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|skill (art, craft)||dotes (arte, habilidad)||||技术||||||||||taito|umiejętność (kompetencja)
-sut:a|sute|||hin:सीना (sīnā), rus:шить (šit'), eng:sew|sew||coser||||||||||||||ommella|szyć
-sut:i|sute||||skillful (crafty)||hábil||||熟练||||||||||taitava|umiejętny (wprawny)
-sutur:|sutur|||fra:eng:suture, por:spa:sutura|suture (seam)||costura (sutura)||||||||||||||sauma (ommel)|szew
+susan:|susan|biu|Lilium candidum|ara: سَوْسَن‎ (sawsan), spa:azucena + eng:Susan, por:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)|lily|lys|lirio (azucena)|lírio|лилия||百合花||||कुमुदिनी||lili||zambak|lilio|lilja|lilia
+sut:|sute|||hin:सीना (sīnā), rus:шить (šit') + fra:eng:suture, por:spa:sutura|sew||coser||||||||||||||ommella|szyć
+sut.ur:|• suture||||suture (seam)||costura (sutura)||||||||||||||sauma (ommel)|szew
+suxi:|suxi|||jpn:寿司 (sushi), eng:spa:sushi, rus:су́ши (sushi), tur:suşi|sushi||sushi|||||||||||||suŝio|sushi|sushi
 t|T||||T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T|T
 tabak:|tabake|biu|Nicotiana tabacum|deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau|tobacco||tabaco|||||||||||||tabako|tupakka|tytoń
 tabl:|table|||eng:table, fra:tableau, spa:tabla, rus:табличка (tablichka), may:tabel, tur:tablo|slab (slate, tablet, board)||tabla (lámina, plancha)||плита||||||बोर्ड||||tahta||laatta (levy, taulu)|
-tabl:a dat:|tabla date||||tabulate||tabular||||||||||||||taulukoida|ułożyć w trabelę
-tabl.komput.er:|tablokomputer||||tablette computer|ordinateur tablette|tablet|tablet|планшетный компьютер||平板电脑|タブレットコンピュータ|태블릿 컴퓨터||||||elaltı bilgisayar||taulutietokone (tabletti)|
+tabl.at:|• tablate||||tabulate||tabular||||||||||||||taulukoida|ułożyć w trabelę
 tabl~et. kon.put.er:|tablete konputer||||tablette computer|ordinateur tablette|tablet|tablet|планшетный компьютер||平板电脑|タブレットコンピュータ|태블릿 컴퓨터||||||elaltı bilgisayar||taulutietokone (tabletti)|
+tabl~kon.put.er:|table konputer||||tablette computer|ordinateur tablette|tablet|tablet|планшетный компьютер||平板电脑|タブレットコンピュータ|태블릿 컴퓨터||||||elaltı bilgisayar||taulutietokone (tabletti)|
 tafun:|tafun|||zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), swa:tufani, por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)|storm (tempest, typhoon, hurricane, cyclone)||tormenta (tempestad)|||||||||||tufani||ŝtormo|myrsky|burza, sztorm, tajfun
 tai:|tai|||zho:台 (tái), yue:臺 (toi4), jpn:台 (dai), vie:đài, kor:대 (dae) + eng:dais|stage (platform, pedestal, podium)|estrade|escenario (podio, estrado, tarima)|estrado|сцена (подмостки, эстрада)|||||đài|||||||lava|
 Tai:|Tai||||Thai||tailandés|||||||||||||tajlanda|thai|tajski
@@ -3757,10 +3758,6 @@ taibei:|Taibei||||Taipei||Taipei||||||||||||||Taipei|Tajpej
 taig:|taige|||rus:тайга (tayga), eng:spa:por:may:taiga, tur:tayga, ara:تايغا‎ (tāyḡā), zho:泰加林 (tàijiālín), jpn:タイガ (taiga)|taiga||taiga|||||||||||||tajgo|taiga|tajga
 tail:|tail|||eng:tile, por:telha, fra:tuile, nld:tegel, fin:tiili, hin:टाइल (ṭāila), ben:টালি (ṭali), jpn:タイル (tairu), kor:타일 (tail)|tile|carreau (tuile)|baldosa (teja, azulejo)|ladrilho (telha, azulejo)|черепи́ца||砖 (瓦)|タイル (瓦)||||||||||płyta
 taiuan:|Taivan|dex|TW||Taiwan (Republic of China)||Taiwán||||||||||||||Taiwan|Tajwan, Republika Chińska
-tax:|taxe|||eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks)|fee (fare)||tasa (precio, cuota, tarifa)||||||||||||||taksa (vero)|podatek, opłata
-tax:a|taxe||||collect fees or taxes||gravar (cobrar tasas)||||||||||||||veloittaa (verottaa)|zbierać opłaty lub podatki (zebrać opłaty lub podatki)
-taxi~gar:|taxi kar||||taxi (cab)||taxi (cab)||||||||||||||taksi|taxi, taksówka
-taxi~metr.er:|taxi metrer||||taximeter|taximètre||taxímetro|таксометр||计程器||||||||||taksamittari|taksometr
 tal:|tal||||bottom|bas|fondo||||||||||||||pohja|dół, spód
 tal:a|tale||||lower (put down)|baisser|bajar|||||||||||||||obniżać (obniżyć)
 tal:i|tale|||fas:ته (tah), hin:तह (tah) + zho:低 (dī), yue:低 (dai1), wuu:低 (ti1), jpn:低 (tei) + cze:dole|low (short)|bas|bajo|||||||||||||||niski
@@ -3791,15 +3788,16 @@ tat<kon:|• kontate||||contact|contact|contacto|contato|контакт|||||||||
 tatik:|tatike|||por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik|tactics (strategy)||táctica (estrategia)||||||||||||||taktiikka|taktyka, strategia
 tatu:|tatu|||sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)|tattoo||tatuaje||татуировка (тату)|||||||||||tatuo|tatuointi|tatuaż
 tau:|tave|||hin:तवा (tavā), tur:tava, fas:(tābe)|frying pan||sartén|||||||||||||pato|pannu (paistinpannu)|patelnia
+tax:|taxe|||eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks)|fee (fare)||tasa (precio, cuota, tarifa)||||||||||||||taksa (vero)|podatek, opłata
+tax:a|taxe||||collect fees or taxes||gravar (cobrar tasas)||||||||||||||veloittaa (verottaa)|zbierać opłaty lub podatki (zebrać opłaty lub podatki)
+taxi~gar:|taxi kar||||taxi (cab)||taxi (cab)||||||||||||||taksi|taxi, taksówka
+taxi~metr.er:|taxi metrer||||taximeter|taximètre||taxímetro|таксометр||计程器||||||||||taksamittari|taksometr
 taz:i|taze|||tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|fresh|frais|fresco||свежий||新鲜的|||||||||freŝa|tuore (raikas)|świeży
 tazik:ia|Tazikia|dex|TJ||Tajikistan||Tayikistán||||||||||||||Tadžikistan|Tadżykistan
 tehn:|tehne|||ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|technique (technology)|technique|técnica|técnica|техника||技术|技術|기술|kỹ thuật|||teknik||teknik|tekniko|tekniikka (keino, menetelmä)|technika, technologia
 tehn.ium:|tehnium|kimium 043|Tc|eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم|technetium|technétium|tecnetio|tecnécio|технеций|تكنيتيوم|锝|テクネチウム|테크네튬|tecnexi|टेक्निशियम|টেকনিসিয়াম|teknetium|tekineti|teknesyum|teknecio|teknetium|technet
 tehn.krat:ia|tehnokratia||||technocracy||tecnocracia||||||||||||||teknokratia|technokracja
 tehn.loj:ia|tehnolojia||||technology (study of techniques)|technologie|tecnología||технология||工艺学|||||||||teknologio|tekniikka (teknologia)|technologia, nauka o technikach
-tex:|texe||||cloth (fabric, textile)|tissu|tela (paño, tejido)|fazenda (tecido)|ткань||布料|布|||||||||kangas|tkanina (materiał, sukno)
-tex:a|texe|||spa:tejer, por:tecer, fra:tisser, eng:textile|weave||tejer||||||||||||||kutoa kangasta|tkać (pleść)
-tex.maxin:|texomaxin||||loom||telar|tear|ткацкий станок|||織機|||||||||kutomakone|krosno
 tel:|tel|||eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|distance (far away)||lo lejos|||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
 tel:i|tele||||far (distant)||lejano (lejos)|||||||||||||malproksima|kaukainen|daleki, odległy
 tel:ia|telia||||distance (length)||distancia|||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
@@ -3858,6 +3856,9 @@ tesl:|tesle|unomete|T||tesla (T)||tesla (T)||||||||||||||tesla (T)|tesla (T)
 test:|teste|||eng:fra:test, rus: тест (test), por:teste, tur:test|test (try, attempt)|épreuve (test)|prueba|teste|проба (тест)||化验||||||||test|testo|koe (testi, yritys)|test, wyzwanie, próba
 test:a|teste||||try (attempt)||intentar (probar)|tentar (provar)|||||||कोशिश करना|চেষ্টা করা|||||yrittää (kokeilla)|spróbować, próbować
 tetis:|Tetis|planete 6 lun 3|||Tethys||||||||||||||||Tethys|
+tex:|texe||||cloth (fabric, textile)|tissu|tela (paño, tejido)|fazenda (tecido)|ткань||布料|布|||||||||kangas|tkanina (materiał, sukno)
+tex:a|texe|||spa:tejer, por:tecer, fra:tisser, eng:textile|weave||tejer||||||||||||||kutoa kangasta|tkać (pleść)
+tex.maxin:|texomaxin||||loom||telar|tear|ткацкий станок|||織機|||||||||kutomakone|krosno
 text:|texte||||text|texte|texto|texto|||||||||||||teksti|tekst
 text<inter:|• intertexte||||intertextual||||||||||||||||intertekstuaalinen|
 text<kon:|• kontexte||||context||||||||||||||||konteksti (asiayhteys)|
@@ -3883,13 +3884,14 @@ tir.sanduk:|tirsanduke||||drawer||cajón (gaveta)||||||||||||||vetolaatikko|szuf
 titan:|Titan|planete 6 lun 6|||Titan|||||||||||||||||
 titan:ia|Titania|planete 7 lun 4|||Titania|||||||||||||||||
 titan.ium:|titanium|kimium 022|Ti|eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم|titanium|titane|titanio|titânio|титан|تيتانيوم|钛|チタン|타이타늄|titan|टाइटानियम|টাইটেনিয়াম|titanium|titani|titan|titanio|titaani|tytan
+tix:|tix|||rus:тишина (tišina) + eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|hush (shh)|chut|chito (chist)||ш-ш-ш||噓|しーっ|쉿|suỵt|||||sus||hiljaa (hys, shhh)|ćsi
+tix:e|tixe||||silent|silencieux (se taire)|silencioso|silencioso|тихий||安静|静かな (無音)|조용하다|yên lặng|चुप|খামোশ|||sessiz|silenta|hiljainen|cichy
+tix:ia|tixia||||silence|silence|silencio|silêncio|тишина|سُكُوت‎|沉默|静けさ (静寂, 黙秘)|침묵|sự yên lặng|ख़ामोशी (चुप्पी)|||||silento|hiljaisuus|
 tiz:|tiz:|||fas: تیز (tiz), hin:तेज़ (tez), tur:tez|sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)||intenso (brusco, ácido, fuerte, afilado, rápido)||||||||||||||terävä (kimeä, nokkela, napakka, jne)|intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)
 tiz.if:|• tizife||||intensify|||||||||||||||||wzmacniać się (wzmagać, pogłębiać się)
 toc:a|toce|||eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)|touch|toucher|tocar (rozar)||касаться||接触|||||||||tuŝi|koskea (koskettaa)|dotyczyć
 togo:|Togo|dex|TG||Togo||Togo|||||||||||||Toglando|Togo|Togo
 tokio:|Tokyo||||Tokyo|||||||東京||||||||||Tokio
-tox:|toxe|||eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc|poison (venom; toxic, poisonous, venomous)||veneno (toxina; tóxico)|||||毒|||||||||myrkky (myrkyllinen)|trucizna (toksyna; toksyczny, trujący)
-tox.loj:ia|toxolojia||||toxicology|toxicologie|toxicología|toxicologia|токсикология||毒物学||||||||||toksikologia (myrkkyoppi)|
 toler:a|tolere|||eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren|tolerate||tolerar||||||||||||||sallia|tolerować
 tom:|tome||||split (dissect)||||||||||||||||jakaa (leikata)|
 tom.graf:|• tomografe||||tomogram||||||||||||||||läpileikkaus|
@@ -3913,6 +3915,8 @@ top<eu:ia|• eutopia||||utopia||||||||||||||||utopia|
 tor.ium:|torium|kimium 090|Th|eng:thorium, fra:thorium, spa:torio, por:tório, rus:торий, zho:钍 (tǔ), jpn:トリウム, kor:토륨, vie:thori, hin:थोरियम, ben:থোরিয়াম, may:torium, swa:thori, ara: ثوريوم|thorium|thorium|torio|tório|торий|ثوريوم|钍|トリウム|토륨|thori|थोरियम|থোরিয়াম|torium|thori|toryum|torio|torium|tor
 tors:|torse|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
 tortug:|tortuge|biu|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw
+tox:|toxe|||eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc|poison (venom; toxic, poisonous, venomous)||veneno (toxina; tóxico)|||||毒|||||||||myrkky (myrkyllinen)|trucizna (toksyna; toksyczny, trujący)
+tox.loj:ia|toxolojia||||toxicology|toxicologie|toxicología|toxicologia|токсикология||毒物学||||||||||toksikologia (myrkkyoppi)|
 trag:i|tragi|||eng:tragic, fra:tragique, spa:por:trágico, rus:трагический (tragičeskij)|sad (tragic)|tragique|triste (trágico)|trágico|трагический||||||||||||murheellinen (traaginen)|
 trag~kom:i|tragokomi||||tragicomic|tragicomique|tragicómico||||||||||||||surkuhupaisa (tragikoominen)|
 trag~od:ia|tragodia||||tragedy|tragédie|tragedia|tragédia|трагедия||悲剧|悲劇|비극||||||||tragedia (murhenäytelmä)|tragedia
@@ -3986,8 +3990,8 @@ un.ik:|• unike||||only (single, sole, lone)|seul (unique)|único (solo, solter
 un.ik:o|• uniko||||only (solely, just)|uniquement|únicamente (solo)|unicamente|только (единственно)||只有 (惟独)|だけ|||सिर्फ़|||||sole (nur)|ainoastaan (vain)|jedynie (tylko)
 un.im:|• unime||||first (number one)||primero (numbre uno)||||||||||||||ensimmäinen (numero yksi)|pierwszy, numer jeden
 un.it:|• unite||||united||unido||||||||||||||yhtenäinen|zjednoczony
-un.it:i arab:i amir:ia (uaa)|Uniti Arabi Amiria (UAA)|dex|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
-un.it: stat: de amerika:|Uniti Des Da Amerike (UDA)|dex|US||United States of America (USA)||Estados Unidos de América||||||||||||||Yhdysvallat (ns. Amerikka)|Stany Zjednoczone Ameryki
+un.it: arab: amir:ia (uaa)|Unite Arabe Amiria (UAA)|dex|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
+un.it: stat: de amerika:|Unite State de Amerika (USA)|dex|US||United States of America (USA)||Estados Unidos de América||||||||||||||Yhdysvallat (ns. Amerikka)|Stany Zjednoczone Ameryki
 un~al:|unale|||eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|each other (one another, mutually; mutual)||el uno al otro (se; mutuo, recíproco))|||||||||||||unu la alian (reciproke)|toisiaan (keskenään; molemminpuolinen, keskinäinen)|się (nawzajem, wzajemnie)
 un~em.ism:|unemisme||||monism||monismo|||||||||||||monismo|monismi|monizm
 un~i arab: amir:ia|Uni Arabi Amiria (UAA)|dex|AE||United Arab Emirates||Emiratos Árabes Unidos||||||||||||||Yhdistyneet Arabiemiirikunnat|Zjednoczone Emiraty Arabskie
@@ -4043,14 +4047,16 @@ vark:|varke|||ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақ�
 vark.alg:|varkalge||||kelp|varech|kelp|kelp||||コンブ|||||kelp|||||listownicowiec
 vark.lat:|varkolate||||page (side of a leaf of a book)|page|página|página||||ページ (面)||||||||paĝo|sivu (kirjassa)|strona
 vas:|vase|||ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|oasis||oasis|oasis|oasis|oásis|оазис|||オアシス|오아시스 (천지)|||||oazo|keidas|oaza
-vax:|vaxe|||eng:wash, deu:waschen, zho:洗 (xǐ)|wash||lavar||мыть|||||||||||lavi|pestä|prać, umyć, myć
-vax.maxin:|vaxomaxin||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
-vax.urs:|vaxurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|raccoon|raton laveur|mapache|guaxinim (rato-lavadeiro)|енот||浣熊|狸 (ラクーン, 洗い熊)||||||||||szop pracz
-vaxington: dc:|Vaxington DC|xefsite|US||Washington DC||||||||||||||||Washington DC|Waszyngton D.C
 vat:|vate|||hin:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu), mya:ဝတ္ထု (wathtu), khm:វត្ថុ (vŏəttho) + vie:vật, wuu:物 (veq5), zho:物 (wù), yue:物 (mat6), jpn:物 (butsu)|thing (object, item, matter)|objet (article)|objeto (artículo)|item|статья (предмет)||物体 (物品)|物 (品)|||||||||esine (tavara)|przedmiot (obiekt)
 vat2|vat|unomete|W||watt||vatio|||||||||||||vato|watti|wat
 vatikan:|Vatikan|dex|VA||Holy See (Vatican City State)||Santa Sede (Estado de la Ciudad del Vaticano)||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
 vau:|vau|||zho:哇 (wā), eng:wow|wow! (gee!)||guau (vaya)||вау!|||||||||||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
+vava:|vava|||eng:wah-wah, fra:ouin ouin, spa:por:buá buá, ben:ওয়া ওয়া (oā-oā), zho:哇哇 (wāwā), yue:哇哇 (waa1waa1), vie:oa oa, may:owe-owe|weep (cry)||llorar|chorar||||||||||||plori|itkeä|płakać, łkać
+vava~beb:|vava bebe||||crybaby|pleurnicheur (pleurnichard)|llóron|chorão|плакса||||||||||||itkupilli|beksa
+vax:|vaxe|||eng:wash, deu:waschen, zho:洗 (xǐ)|wash||lavar||мыть|||||||||||lavi|pestä|prać, umyć, myć
+vax.maxin:|vaxomaxin||||washing machine||lavadora||стиральная машина|||||||||||lavmaŝino|pesukone|pralka
+vax.urs:|vaxurse|||zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ|raccoon|raton laveur|mapache|guaxinim (rato-lavadeiro)|енот||浣熊|狸 (ラクーン, 洗い熊)||||||||||szop pracz
+vaxington: dc:|Vaxington DC|xefsite|US||Washington DC||||||||||||||||Washington DC|Waszyngton D.C
 vei:|vei|||zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)|tail||cola (rabo)||хвост||尾巴 (尾部)|尾 (尾翼)|||पूंछ (दुम)|লেজ|ekor (kotek, basian)|mkia|kuyruk|vosto|häntä|ogon
 vei:i|veye|||zho:纬度 (wěi), kor:위 (wi), vie:vĩ|traverse (horizontal)||||||||||||||||poikittainen (vaaka)|
 vei.lin:|veilin||||weft|fil de trame|||уток||緯紗|横糸|||||||||kude|
@@ -4218,6 +4224,12 @@ xul.er:|xuler||||student (pupil, learner)|étudiant|estudiante|||طَالِب‎
 xul.kamar:|xulkamar||||classroom|salle de classe|||||||||||||||luokkahuone|
 xul.kan:|xulkan|||zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), hin:स्कूल (skūl), ben:স্কুল (śkul), may:sekolah|school (institution)|école (collège)|escuela (colegio, institución)|escola (colégio)|школа |مَدْرَسَة‎|学校|学校|학교|trường học|विद्यालय (स्कूल, मद्रसा)|মকতব (স্কুল, মাদ্রাসা)|sekolah|shule (skule)|okul (mektep, madrese)|lernejo|koulu (opisto)|szkoła (instytucja)
 xul.xef:|xulxefe||||headmaster (principal)|directeur (principal)|director de colegio|diretor|директор (ректор)||校长|校長|교장||||kepala sekolah (guru besar)|||lernejestro|rehtori|dyrektor szkoły
+xur:|xure|||ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|beginning (start, commencement, onset)|début (commencement)|comienzo (inicio, principio)|começo (início, princípio)|начало|بِدَايَة‎|开始|開始|시작||शुरू|শুরু|mula|||komenco|alku|początek
+xur:|xure||||begin (start, commence, initiate)||comenzar (iniciar, empezar)||||开始||||||||başlamak|komenci|aloittaa|zacząć, zaczynać
+xur:|xure||||begin (get started)||comenzar (iniciarse, empezar)|||||||||||||komenciĝi|alkaa|zaczyna (zacząć, rozpoczynać, rozpocząć)
+xur.im:|xurime||||initial (first)||primer (inicial, inaugural)||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
+xut:|xute|||zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|skill (art, craft)||dotes (arte, habilidad)||||技术||||||||||taito|umiejętność (kompetencja)
+xut:i|xute||||skillful (crafty)||hábil||||熟练||||||||||taitava|umiejętny (wprawny)
 y|Y||||Y|||||||||||||||||
 ya:|ya||||yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
 yag:a|yage||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
@@ -4367,12 +4379,6 @@ zirkon.ium:|zirkonium|kimium 040|Zr|eng:zirconium, fra:zirconium, spa:circonio, 
 ziu:|zive|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|live (life)|vie|vida|vida|жизнь|حَيَاة|生命|命 (生命)|||ज़िंदगी (जीवन, हयात)||hidup (hayat)|uhai||vivo|elää (elämä)|życie
 ziu:i|• zivi||||live (living)|vivant|vivo (lleno de vida)|vivo|живой||||||जीवित|জীবন্ত||||viva|elävä|żyć (żywy, żyjący)
 ziz:a|zize|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
-zomb:|zombe|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
-zon:|zon|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
-zong:|zong|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species||especie||||||||||||||laji|gatunek
-zong.mint:|zongominte|biu|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
-zor:|zor|||hin:ज़ोर (zor), ben:জোর (zor), fas: زور (zur)|force (violence)||||||||||||||||väkivalta (pakko)|
-zor~sex:|zorsexe||||rape (forced sex)||||||||||||||||raiskaus|
 zo:|zoe|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
 zo.fil:ia|• zoofilia||||zoophily||||||||||||||||eläinrakkaus|
 zo.ge.graf:ia|• zoogeografia||||zoogeography||||||||||||||||eläinmaantiede|
@@ -4382,6 +4388,12 @@ zo~agr:ia|zoagria||||animal husbandry|élevage||||||畜産|||||||||karjanhoito|h
 zo~park:|zooparke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园|動物園|동물원|thảo cầm viên|चिड़ियाघर|চিড়িয়াখানা|kebun binatang|bustani ya wanyama|hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)
 zo~sikl:|zoosikle||||zodiac|zodiaque|zodíaco|zodíaco|зодиак||黄道带|黄道帯|황도대||राशिचक्र||zodiak|||zodiako|eläinrata|zodiak
 zo~tox:|zootoxe||||zootoxin||||||||||||||||eläinmyrkky (zootoksiini)|
+zombi:|zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
+zon:|zone|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
+zong:|zong|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species||especie||||||||||||||laji|gatunek
+zong.mint:|zongominte|biu|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
+zor:|zor|||hin:ज़ोर (zor), ben:জোর (zor), fas: زور (zur)|force (violence)||||||||||||||||väkivalta (pakko)|
+zor~sex:|zorsexe||||rape (forced sex)||||||||||||||||raiskaus|
 zuk:|zuke|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic (ethnicity)|ethnie (ethnique)|etnia (étnico)|etnia (étnico)|этнос (этнический)||民族|民族|민족|dân tộc|||||etnik|etno|kansanryhmä (etninen ryhmä)|grupa etniczna
 zuk.med:i|zukomede||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar

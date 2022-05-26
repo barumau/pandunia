@@ -2,6 +2,7 @@
 
 ## A  
 
+a sababe de - ĉar  
 a ke - kie  
 a le - tie  
 a max - ankaŭ  
@@ -34,7 +35,6 @@ airogun - aerarmeo
 airoporte - flughaveno  
 ais - glacio (frosto)  
 aiskrem - glaciaĵo  
-axe - akso  
 ale - alia (aliigi, ŝanĝi)  
 • alo - alie  
 alofon - alofono  
@@ -112,6 +112,7 @@ aure - oro
 Australia - Aŭstralio  
 Austronesia - Aŭstronezio  
 automote - memmova  
+axe - akso  
 
 ## B  
 
@@ -234,11 +235,11 @@ bros - broso
 brune - bruna  
 brus - gefrato  
 buce - buĉi  
-bucer - buĉisto  
-bucokan - buĉejo  
+• bucer - buĉisto  
+• bucokan - buĉejo  
 bude - kompreni (konscii)  
-budisme - budhismo  
-budiste - budhisto  
+• budisme - budhismo  
+• budiste - budhisto  
 Buda - Budho  
 bufon - pajaco  
 bugete - buĝeto  
@@ -703,8 +704,8 @@ hesium - hasio
 hibride - miksulo  
 hidre - hidrogeno  
 hiyar - kukumo  
-hime - neĝo  
-himros - frosto  
+hima - neĝo  
+hima rose - frosto  
 Himalia - Himalajo  
 Hinde riu - Induso  
 hindisme - hinduismo  
@@ -945,7 +946,6 @@ kromium - kromo
 kruasante - korna bulko  
 krus - kruco  
 kube - kubo  
-kuge - plori  
 kuku - kukolo  
 kule - bonega (mojosa)  
 kultur - kulturo  
@@ -1143,6 +1143,7 @@ mongole - mongola
 Mongolia - Mongolio  
 monoster - monstro  
 monte - monto  
+pandunia - esperanti  
 morte - morto  
 morte - mortigi  
 morte - morta  
@@ -1251,8 +1252,6 @@ oke - okulumi
 oke - okula  
 speter - spektanto  
 okeye - akceptebla (okej)  
-oxe - oksigeno  
-oxide - oksido  
 onde - ondo  
 Onduras - Honduro  
 onor - honoro (respekto)  
@@ -1268,6 +1267,8 @@ oste - osto
 ote - preferi  
 ove - ovo  
 • ovoide - ovala  
+oxe - oksigeno  
+oxide - oksido  
 
 ## P  
 
@@ -1474,8 +1475,6 @@ rutin - rutino (kutimo)
 ## S  
 
 sababe - kialo  
-a sababe de - ĉar  
-• ansave - fremda (nekonata)  
 sable - sablo  
 sablostan - dezerto  
 sabun - sapo  
@@ -1530,10 +1529,10 @@ savovolite - interesa
 sauna - saŭno  
 saure - lacerto  
 saus - saŭco  
+• ansave - fremda (nekonata)  
 se - si  
 semon - unu la alian  
 seke - ŝtono  
-sexe - sekso  
 • selu - devus  
 selenium - seleno  
 seme - signifi  
@@ -1554,6 +1553,7 @@ serser - ĉeno
 Serbia - Serbio  
 serebre - cerbo  
 serpe - serpento  
+sexe - sekso  
 • homosexe - samseksema  
 si - esti  
 si ham - gravi  
@@ -1645,13 +1645,9 @@ supere - bonega
 supre - superiri  
 supro - super  
 suprize - surprizo  
-sur - komenco  
-sure - komenci  
-suru - komenciĝi  
 sus - lakrico  
-suse - silentigi  
-suse - silenta  
-sushe - suŝio  
+susan - lilio  
+suxi - suŝio  
 
 ## T  
 
@@ -1702,6 +1698,8 @@ tingu - halti
 tire - tiri  
 tira milke - melki  
 titanium - titanio  
+tixe - silenta  
+tixia - silento  
 toce - tuŝi  
 Togo - Toglando  
 • duotome - diĥotomio  
@@ -1764,13 +1762,14 @@ vane - amuzi
 vane - amuza  
 varkolate - paĝo  
 vase - oazo  
+vat - vato  
+vau - ŭaŭ!  
+vava - plori  
 vaxe - lavi  
 vaxomaxin - lavmaŝino  
 Vaxington D
 ##   
 
-vat - vato  
-vau - ŭaŭ!  
 vei - vosto  
 • revene - reveni  
 ventur - aventuro  
@@ -1834,6 +1833,9 @@ xulaner - instruisto
 xuler - studento (lernanto)  
 xulkan - lernejo  
 xulxefe - lernejestro  
+xure - komenco  
+xure - komenci  
+xure - komenciĝi  
 
 ##   
 
@@ -1918,12 +1920,12 @@ ziraf - ĝirafo
 zirkonium - zirkonio  
 zive - vivo  
 • zivi - viva  
-zon - zono  
 zoe - besto  
 • zoolojia - zoologio  
 • zoolojike - zoologia  
 zooparke - zoo (bestoĝardeno)  
 zoosikle - zodiako  
+zone - zono  
 zuke - etno  
 zukomede - interetna  
 Zulu - zuluo  

@@ -519,6 +519,17 @@ There are also a lot of country names that do not end in **-ia**.
 → **fotegrafor**
 'photograph apparatus, camera'
 
+**-ul-**
+'diminutive, indicating small size or youth' :  
+**kume**
+'mound, hill'
+→ **kumule**
+'hillock, heap, pile'  
+**node**
+'knot'
+→ **nodule**
+'nodule, small lump'
+
 **-ur-**
 'result or product' :  
 **kulte**

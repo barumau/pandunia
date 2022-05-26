@@ -369,9 +369,9 @@ beehive (honeycomb) - maduvesponide
 beer - bir  
 beetroot - bete  
 before (previous, fore, past) - cene  
-begin (get started) - suru  
-begin (start, commence, initiate) - sure  
-beginning (start, commencement, onset) - sur  
+begin (get started) - xure  
+begin (start, commence, initiate) - xure  
+beginning (start, commencement, onset) - xure  
 behave (act) - manire  
 behavior (manners) - manir  
 Beijing (Peking) - Beijing  
@@ -393,7 +393,7 @@ belligerent (warring) - belente
 belly (stomach, abdomen) - pete  
 belong (be a member) - membe  
 belong - be male  
-belt (zone) - zon  
+belt (zone) - zone  
 bench - bence  
 bend (flex) - flexe  
 bend around - cirkoflexe  
@@ -542,7 +542,7 @@ businessperson (businessman) - bizneser
 bust (bosom) - buste  
 busy (occupied) - mange  
 but (rather) - ama  
-butcher - buce  
+butcher (slaughter) - buce  
 butcher - bucer  
 butter - makan  
 butterfly (moth) - pelpel  
@@ -956,6 +956,7 @@ crown - koron
 crucify - krusofixe  
 cruelty (tyranny, despotism) - zalimia  
 cry (shout, scream, yell) - klame  
+crybaby - vava bebe  
 crystal - bilor  
 Cuba - Kuba  
 cube - kube  
@@ -964,6 +965,7 @@ cucumber - hiyar
 cultivate (farm) - agre  
 culture - kultur  
 cumin (jeera) - zire  
+cumulus cloud - kumulonepe  
 cupboard (closet, cabinet, wardrobe) - almari  
 curium - kurium  
 current (contemporary, present-day) - zaizamane  
@@ -1044,6 +1046,7 @@ defunct (out of use) - defunse
 degree Celsius - celsius darge  
 Deimos - Deimos  
 delicious (yummy) - yami  
+deluxe - deluxe  
 demented (out of one’s mind) - demente  
 democracy - demokratia  
 democrati - demokratiste  
@@ -1183,6 +1186,7 @@ dubious (suspicious) - sankable
 dubnium - dubnium  
 duck - bata  
 dumpling (ravioli, pelmeni) - pelmen  
+dune - duna  
 dungeon (underground prison) - geonici prizon  
 dungeon crawl - dungia aventur  
 durable (endurable, sustainable) - durable  
@@ -1265,6 +1269,7 @@ energy - energe
 engine (motor) - moter  
 engineer - enjener  
 England - Englia  
+engli - pandunia  
 English - engle  
 English daisy - englomargarite  
 English oak - europobalute  
@@ -1441,6 +1446,7 @@ fight (war) - bele
 fight (war, battle, combat) - zeng  
 figure (representation) - figur  
 Fiji - Fizi  
+file (record, collection of data) - dataje  
 fill - pure  
 film (membrane, video) - filme  
 filter - filter  
@@ -1541,7 +1547,7 @@ friend (friendly, kind, nice, gentle) - doste
 friendship - dostia  
 frog - krokroke  
 from (since, because) - za  
-frost - himros  
+frost - hima rose  
 fruit - pal  
 frying pan - tave  
 fuck (copulate) - code  
@@ -1763,6 +1769,7 @@ headmaster (principal) - xulxefe
 heal (cure, remedy) - medike  
 health - salia  
 healthy - sale  
+heap (hillock, accumulation; heap up, accumulate) - kumule  
 hear (listen) - aude  
 heart - sim  
 heavy - veze  
@@ -1865,7 +1872,7 @@ hunter (chasseur) - yeger
 hunting (fishing) - yege  
 hurry (hasten) - yale  
 hurt (pain; suffer) - tunge  
-hush (shh) - suso  
+hush (shh) - tix  
 hybrid (mongrel) - hibride  
 hydrogen - hidre  
 hygiene (cleanliness) - salsafia  
@@ -1939,7 +1946,7 @@ information (organized knowledge) - informaje
 infrastructure   - infrostruture  
 infuse (melt in, steep in) - infuze  
 ingenerate (produce within) - ingenerate  
-initial (first) - sure  
+initial (first) - xurime  
 inject - injete  
 injection - injete  
 ink - moge  
@@ -2272,13 +2279,17 @@ lower (put down) - tale
 loyal (faithful, trustworthy) - yausinable  
 loyalty (faithfulness) - yausinablia  
 luggage (baggage) - bagaje  
+lump (nodule) - nodule  
 lunch - denyam  
 lung - pulmon  
+lush - luxe  
 lusophone (Portuguese speaking) - portugalfone  
 lutetium - lutetium  
 Lutheran - martinluteriste  
 Lutheranism - martinluterisme  
 Luxembourg - Luxemburge  
+luxuriant (excessive) - luxure  
+luxury (excess) - luxuria  
 lychee (litchi) - lice  
 lymph - linfe  
 lynx - lince  
@@ -2521,6 +2532,7 @@ monument (memorial) - membin
 mood (emotional state) - emoshal  
 moon - lune  
 mooncake - lunokeke  
+moonlet (lunula) - lunule  
 morality (ethics; moral) - deke  
 more - max  
 morning (dawn) - sube  
@@ -2542,6 +2554,7 @@ motion (movement) - mote
 motor scooter - motor skuter  
 motorcar (automobile) - motogar  
 motorcycle - motosikle  
+mound (hill) - kume  
 mountain (hill) - san  
 mountain (mount,hill) - monte  
 mountaineer - montaner  
@@ -3615,8 +3628,8 @@ sign language - gestolingue
 signal - sinyal  
 Sikh - sikiste  
 Sikhism - sikisme  
-silence (make silent) - suse  
-silent - suse  
+silence - tixia  
+silent - tixe  
 silicon - silike  
 silk - silke  
 silver - argente  
@@ -3638,8 +3651,8 @@ size - dayia
 sizzle - zize  
 skeleton (frame) - ostogamia  
 skewer - sis  
-skill (art, craft) - sute  
-skillful (crafty) - sute  
+skill (art, craft) - xute  
+skillful (crafty) - xute  
 skin (peel, bark, leather) - pil  
 skirt - jupe  
 skull - saroste  
@@ -3666,8 +3679,8 @@ snatch (remove) - decepe
 sneak - siro motu  
 sneeze (achoo) - aci  
 sniper (sharpshooter) - justopaver  
-snow (be snowing) - himu  
-snow - hime  
+snow (be snowing) - hima  
+snow drift - hima duna  
 soak (steep, marinate) - pursipe  
 soap - sabun  
 social - sose  
@@ -3743,7 +3756,7 @@ squash (pumpkin, gourd) - kaboge
 squeeze (squish) - inpuse  
 squid (cuttlefish) - kalmar  
 squirrel - ekore  
-Sranan Tongo - surinami bas  
+Sranan Tongo - surinami baxe  
 Sri Lanka (Ceylon) - Lanka  
 stadium (arena) - stadia  
 stage (phase) - faze  
@@ -3837,10 +3850,10 @@ surpass (go over) - supre
 surprise - suprize  
 surrender (submit, yield; submission) - islam  
 surround (encircle) - sirke  
-sushi - sushe  
+sushi - suxi  
 sustain (hold from below) - subotene  
 sustain (hold from below) - subotene  
-suture (seam) - sutur  
+suture (seam) - suture  
 Svalbard - Svalbarde  
 Swahili - suahile  
 swallow - gule  
@@ -3867,10 +3880,10 @@ systemic - sisteme
 table - meze  
 table of contents (inventory) - inliste  
 tablecloth - mezatexe  
+tablette computer - table konputer  
 tablette computer - tablete konputer  
-tablette computer - tablokomputer  
 tabula rasa - razi table  
-tabulate - tabla date  
+tabulate - tablate  
 tactics (strategy) - tatike  
 taiga - taige  
 tail - vei  
@@ -4152,9 +4165,9 @@ unit (measurement) - metrun
 unite - una  
 united - unite  
 United Arab Emirates - Uni Arabi Amiria (UAA)  
-United Arab Emirates - Uniti Arabi Amiria (UAA)  
+United Arab Emirates - Unite Arabe Amiria (UAA)  
 United Kingdom - Britania  
-United States of America (USA) - Uniti Des Da Amerike (UDA)  
+United States of America (USA) - Unite State de Amerika (USA)  
 universal - unoverse  
 university - daixulkan  
 unlock - desore  
@@ -4303,7 +4316,7 @@ weave - texe
 website - netoloke  
 Wednesday - yom tri  
 week - yomcete  
-weep (cry) - kuge  
+weep (cry) - vava  
 weft - veilin  
 weigh (have weight) - vezu  
 weight (heft, gravity) - vezia  
@@ -4432,7 +4445,7 @@ zipper - ziper
 zircon - zirkon  
 zirconium - zirkonium  
 zodiac - zoosikle  
-zombie - zombe  
+zombie - zombi  
 zoo (zoological garden) - zooparke  
 zoogeography - zoogeografia  
 zoological - zoolojike  

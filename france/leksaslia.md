@@ -175,8 +175,6 @@
 **bromium** *brome* ← eng:bromine, fra:brome, spa:bromo, por:bromo, rus:бром, kor:브롬, vie:brom, hin:ब्रोमिन, ben:ব্রোমিন, may:brom, swa:bromi, ara: بروم  
 **bros** ** ← eng:brush, fra:brosse, ben:ব্রাশ (braś), hin:ब्रश (braś), urd:(braś), hau:swa:burashi, jpn:ブラシ (burashi), kor:브러시 (beureosi), fas:(boros), may:berus  
 **brune** *brun (marron)* ← fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown  
-**bucer** *boucher* ← eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ)  
-**bucokan** *abattoir* ← fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)  
 **bude** ** ← san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), vie:Bụt, tha:โพธิ (potí)  
 **bufete** ** ← fra:buffet, eng:buffet, spa:bufé, por:bufete, deu:Büfett, rus:буфет (bufet), zho:部飛 (bùfēi), jpn:ビュッフェ (byuffe), kor:뷔페 (bwipe), may:bufet, swa:bufee  
 **bufon** ** ← spa:bufón, eng:buffoon, fra:bouffon  
@@ -280,7 +278,7 @@
 **diske** *disque* ← eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)  
 **disprosium** *dysprosium* ← eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم  
 **dobe** *brique* ← ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe  
-**dokum** *document (dossier)* ← eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman  
+**dokum** *document* ← eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman  
 **dolfin** *dauphin* ← ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)  
 **dom** *maison (foyer, domicile; vivre (habiter)* ← rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico  
 **dominogem** ** ← eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)  
@@ -302,6 +300,7 @@
 **duge** *lire* ← zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)  
 **duke** ** ← hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha  
 **duman** ** ← hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)  
+**duna** *dune* ← eng:fra:dune, spa:por:duna, rus:дюна (diuna) + vie:đụn, kor:둔(덕) (dun(deok))  
 **dungia aventur** ** ← eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)  
 **dunia** *monde* ← ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya  
 **dur** *durer (se passer; durée)* ← eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)  
@@ -518,7 +517,7 @@
 **hibride** ** ← eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (gibrid)  
 **hidre** *hydrogène* ← eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين  
 **higabe** *voile* ← ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)  
-**hime** *neige* ← hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)  
+**hima** *neige* ← hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)  
 **hindium** *indium* ← eng:indium, fra:indium, spa:indium, por:índio, rus:индий, zho:铟 (yīn), jpn:インジウム, kor:인듐, vie:indi, hin:इण्डियम, ben:ইন্ডিয়াম, may:indium, swa:indi, ara: انديوم  
 **hisabe** *calculer* ← ara: حِسَاب‎ (ḥisāb), tur:hesap, orm:hisaaba, swa:hisabu, hin:हिसाब (hisāb), ben:হিসাব (hiśab)  
 **hiyar** *concombre* ← fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)  
@@ -715,13 +714,13 @@
 **kuang** ** ← zho:矿 (kuàng), vie:khoáng, kor:광 (guang)  
 **kuarze** *quartz* ← deu:Quarz, eng:fra:quartz, spa:cuarzo, rus:кварц (kvarc), tur:kuvars, hin:क्वार्ट्ज (kvārtj), jpn:クオーツ (kuōtsu), may:kuarza  
 **kube** *cube* ← spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp  
-**kuge** ** ← zho:哭 (kū), yue:哭 (huk1), vie:khóc  
 **kuke** ** ← eng:cook, deu:Kock, ita:cuoco, may:koki, tha:กุ๊ก (kuk), sango:kuku  
 **kuker** ** ← eng:cook, rus:кухар (kuhar), pol:kucharz, tha:กุ๊ก (gúk), may:koki, deu:Koch  
 **kuku** *coucou* ← eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukushka), jpn:郭公  (kakkō), zho:布谷鸟 (bùgǔniǎo)  
 **kule** ** ← eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)  
 **kultur** ** ← eng:fra:culture, spa:por:cultura, rus:культу́ра (kulʹtúra), tur:kültür, jpn:カルチャー (karuchā)  
 **kumar** ** ← hin:कुमार (kumār), tel:కుమారుడు (kumāruḍu), khm:កុមារ (ko’maa), tha:กุมาร (kuman)  
+**kume** *accumuler* ← eng:cumulate, fra:cumuler, spa:por:cumular + tur:kumul + ara:كَوْمَة‎ (kawma), fas: کومه (kume)  
 **kupe** *coupe (tasse, verre)* ← eng:cup, fra:coupe, spa:copa, por:copo, ara: كُوب‎ (kūb), tur:kupa, hin:कप (kap), jpn:コップ (koppu), kor:컵 (keop) + fas:(koppe), ara:قبة (qubba), may:kubah, rus:купол (kupol), deu:Kuppel  
 **kupon** ** ← eng:fra:coupon, spa:cupón, por:cupom, rus:купо́н (kupón), may:kupon, jpn:クーポン (kūpon), kor:쿠폰 (kupon), swa:kuponi  
 **kupre** *cuivre* ← eng:copper, fra:cuivre, spa:cobre, por:cobre, swa:kupri  
@@ -795,6 +794,7 @@
 **lusun** ** ← zho:芦笋 (lúsǔn), yue:蘆筍 (lou4 seon2)  
 **lute** ** ← hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)  
 **lutetium** *lutécium* ← eng:lutetium, fra:lutécium, spa:lutecio, por:lutécio, rus:лютеций, zho:镥 (lǔ), jpn:ルテニウム, kor:루테튬, vie:lutexi, hin:लुटेटियम, ben:লুটেসিয়াম, may:lutetium, swa:luteti, ara: لوتيتيوم  
+**luxe** ** ← eng:lush, fra:luxe, spa:lujo, por:luxo, rus:люкс (lyuks), tur:lüks  
 **mace** *match* ← eng:fra:match, hin:मैच (mɛc), swa:meci, pol:mecz, rus:матч (matč), tur:maç  
 **madu** *miel* ← rus:мёд (myod), hin:मधु (madhu), ben:মধু (môdhu), may:madu + por:mel, fra:spa:miel + yue:蜜 (mat6)  
 **maf** ** ← ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe  
@@ -972,9 +972,8 @@
 **no** *non (ne...pas)* ← eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)  
 **nobelium** *nobélium* ← eng:nobelium, fra:nobélium, spa:nobelio, por:nobélio, rus:нобелий, zho:锘 (nuò), jpn:ノーベリウム, kor:노벨륨, vie:nobeli, hin:नोबेलियम, ben:নোবেলিয়াম, may:nobelium, swa:nobeli, ara: نوبليوم  
 **noce** *noit* ← spa:noche, por:noite, rus:ночь (nočʹ), pol:noc  
-**node** ** ← eng:node, spa:nudo, por:nó, fra:nœud  
+**node** ** ← eng:node, spa:nudo, por:nó, fra:nœud + vie:nút  
 **nof** *neuf (9)* ← por:nove, spa:nueve, fra:neuf, hin:नौ (nau), ben:নয় (nôy)  
-**nomia** ** ← eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi  
 **norde** *nord* ← eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)  
 **norme** *norme (normal)* ← eng:spa:por:fra:deu:normal, rus:нормальный (normalʹnyj), fas:نرمال‎ (normâl)  
 **noste** ** ← ← eng:por:spa:nostalgia, fra:nostalgie, deu:Nostalgie, rus:ностальгия (nostalʹgiya), jpn:ノスタルジー (nosutarujī), fas:(nostâlži)  
@@ -1017,6 +1016,7 @@
 **palme** ** ← deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)  
 **pan (pani)** ** ← eng:spa:por:deu:may:pan-, rus:пан- (pan-) + zho:泛 (fàn), jpn:汎 (han-)  
 **panda** *panda* ← eng:spa:por:fra:may:panda, rus:панда (panda), hin:पांडा (pāṇḍā), jpn:パンダ (panda)  
+**pandunia** *franci* ← logasle  
 **pang** *pain* ← tha:ปัง (pang), kor:빵 (ppang), khm:នំប៉័ង (numpang), jpn:パン (pan), por:pão, spa:pan, fra:pain  
 **panike** ** ← eng:panic, spa:pánico, por:pânico, fra:panique, rus:паника (panika), fas:پانیک‎ (pânik), jpn:パニック (panikku)  
 **panir** *fromage blanc* ← hin:पनीर (panīr), pnb:ਪਨੀਰ (panīr), ben:পনির (pônir), tur:peynir, eng:paneer  
@@ -1312,14 +1312,10 @@
 **supere** ** ← eng:fra:super, spa:por:súper, jpn:スーパー (sūpā)  
 **supre** ** ← eng:super, spa:por:sobre, ita:sopra  
 **suprize** ** ← eng:surprise, tur:sürpriz, fas:(surpris), rus::сюрприз (siurpriz), por:surpresa, spa:sorpresa  
-**sur** *début (commencement)* ← ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)  
 **sus** *réglisse* ← ara: سُوس (sus), spa:alcazus, por:alcaçuz, swa:susi  
-**susan** *lys* ← fas:sousan, ara:(sawsan), heb:(šōšān), + eng:Susan, por:spa:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)  
-**sushe** ** ← jpn:寿司 (sushi), eng:spa:sushi, rus:су́ши (sushi), tur:suşi  
-**suso** ** ← eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus  
-**sute** ** ← hin:सीना (sīnā), rus:шить (šit'), eng:sew  
-**sute** ** ← zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)  
-**sutur** ** ← fra:eng:suture, por:spa:sutura  
+**susan** *lys* ← ara: سَوْسَن‎ (sawsan), spa:azucena + eng:Susan, por:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)  
+**sute** ** ← hin:सीना (sīnā), rus:шить (šit') + fra:eng:suture, por:spa:sutura  
+**suxi** ** ← jpn:寿司 (sushi), eng:spa:sushi, rus:су́ши (sushi), tur:suşi  
 **tabake** ** ← deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau  
 **table** ** ← eng:table, fra:tableau, spa:tabla, rus:табличка (tablichka), may:tabel, tur:tablo  
 **tafun** ** ← zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), swa:tufani, por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)  
@@ -1370,6 +1366,7 @@
 **tipe** ** ← eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)  
 **tire** ** ← spa:por:tirar, fra:tirer, eng:tear, tur:tire  
 **titanium** *titane* ← eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم  
+**tix** *chut* ← rus:тишина (tišina) + eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus  
 **tiz:** ** ← fas: تیز (tiz), hin:तेज़ (tez), tur:tez  
 **toce** *toucher* ← eng:touch, spa: tocar, + hin: छूना (chūnā), zho: 触 (chù)  
 **tolere** ** ← eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren  
@@ -1431,6 +1428,7 @@
 **vase** ** ← ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)  
 **vate** *objet (article)* ← hin:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu), mya:ဝတ္ထု (wathtu), khm:វត្ថុ (vŏəttho) + vie:vật, wuu:物 (veq5), zho:物 (wù), yue:物 (mat6), jpn:物 (butsu)  
 **vau** ** ← zho:哇 (wā), eng:wow  
+**vava** ** ← eng:wah-wah, fra:ouin ouin, spa:por:buá buá, ben:ওয়া ওয়া (oā-oā), zho:哇哇 (wāwā), yue:哇哇 (waa1waa1), vie:oa oa, may:owe-owe  
 **vaxe** ** ← eng:wash, deu:waschen, zho:洗 (xǐ)  
 **vaxurse** *raton laveur* ← zho:浣熊, jpn:洗熊, ita:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ  
 **vei** ** ← zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)  
@@ -1487,6 +1485,8 @@
 **xope** *acheter (shopping)* ← eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)  
 **xou** ** ← eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)  
 **xulkan** *école (collège)* ← zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), hin:स्कूल (skūl), ben:স্কুল (śkul), may:sekolah  
+**xure** *début (commencement)* ← ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)  
+**xute** ** ← zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)  
 **yago** ** ← kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)  
 **yake** ** ← eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)  
 **yame** ** ← khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam  
@@ -1545,8 +1545,8 @@
 **zive** *vie* ← hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy  
 **zize** ** ← zho:zizi eng:sizzle  
 **zoe** *animal (bête)* ← eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)  
-**zombe** *zombi* ← kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)  
-**zon** *zone* ← ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)  
+**zombi** *zombi* ← kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)  
+**zone** *zone* ← ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)  
 **zong** ** ← zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng  
 **zor** ** ← hin:ज़ोर (zor), ben:জোর (zor), fas: زور (zur)  
 **zukam** ** ← ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)  
@@ -1558,6 +1558,8 @@
 **• agrese** *agression (attaque; agresser, attaquer)* ← eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif  
 **• ater** *agent (faiseur)* ← eng:actor, -ator, fra:-ateur, spa:por:-ador  
 **• balia** *force* ← hin:बल (bal), ben:বল (bôl), may:bala, tel:బలము (balamu), tha:พล (pon), พละ (pá-lá)  
+**• bucer** *boucher* ← eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ) + kor:푸주한 (pujuhan)  
+**• bucokan** *abattoir* ← fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)  
 **• civile** *civil* ← eng:fra:spa:por:civil, por:civil, hin:सिविल (sivil), may:sipil  
 **• ditater** *dictateur* ← por:ditador, ita:dittatore, end:dictator, fra:dictateur, spa:dictador, deu:may:diktator, rus:диктатор (diktator), tur:diktatör, ara:(diktatūr)  
 **• exfete** *effet* ← fra:effet, por:efeito, eng:effect, spa:efecto, rus:эффект (effekt)  
@@ -1580,6 +1582,7 @@
 **• misaje** *message* ← eng:deu:fra:message, spa:mensaje, por:mensagem, tur:mesaj, jpn:メッセージ (messēji), kor:메시지 (mesiji), rus:месседж (messedzh), may:mesej  
 **• misioner** *missionnaire* ← eng:missionary, deu:Missionar, fra:missionnaire, spa:misionero, por:misionário, rus:миссионер (missioner), may:misioinaris, swa:mmisionari, tur:misyoner  
 **• nature** *nature* ← eng:fra:nature, deu:Natur, por:natureza, spa:naturaleza  
+**• nomia** ** ← eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi  
 **• otion** *option (choix)* ← deu:eng:fra:option, spa:opción, por:opção, rus:опция (opciya)  
 **• partaner** *partenaire* ← deu:eng:ita:pol:partner, fra:partenaire, rus:партнёр (partnyor), jpn:パートナー (pātonā), kor:파트너 (pateuneo)  
 **• presidente** ** ← eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden  

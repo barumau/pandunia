@@ -197,8 +197,8 @@ bromium - bromo
 brune - castanho (marrom)  
 brunsalmon - truta-marrom  
 buce - abater  
-bucer - açougueiro (talhante)  
-bucokan - matadouro  
+• bucer - açougueiro (talhante)  
+• bucokan - matadouro  
 Buda - Buda  
 buke - livro  
 bum - explosão  
@@ -319,6 +319,7 @@ duce - ducha
 duge - ler  
 dulyom - terça-feira  
 dunia - mundo  
+duna - duna (бархан)  
 dur - durar (transcorrer; duração)  
 • duro - ainda  
 • durike - crónico  
@@ -524,7 +525,7 @@ hesium - hássio
 hidre - hidrogéno  
 higabe - véu  
 hiyar - pepino  
-hime - neve  
+hima - neve  
 Hinde riu - Indo  
 hindium - índio  
 hisabe - calcular  
@@ -718,6 +719,7 @@ kuangia - mina
 kuarze - quartzo  
 kube - cubo  
 kuku - cuco  
+kumulonepe - cúmulo  
 kupe - copo (taça)  
 kupre - cobre  
 kurium - cúrio  
@@ -806,6 +808,8 @@ lun - mês
 lunokeke - bolo lunar  
 luter - ladrão  
 lutetium - lutécio  
+• luxuria - luxúria  
+• deluxe - de luxo  
 
 ## M  
 
@@ -919,6 +923,7 @@ mole - mol
 molidenium - molibdénio  
 monte - montanha (monte)  
 • montaner - alpinista (montanhista)  
+pandunia - portugali  
 mos - musgo  
 mosim - estação (sazão)  
 moskovium - moscovio  
@@ -1008,8 +1013,6 @@ oke - olho
 oke - ocular  
 speter - espetador  
 okosuigas - gás lacrimogéneo  
-oxe - oxigénio  
-oxide - óxide  
 onde - onda  
 onor - honra  
 onore - honrar  
@@ -1030,6 +1033,8 @@ ote - optar
 • otion - opção  
 ove - ovo  
 • ovoide - ovoide  
+oxe - oxigénio  
+oxide - óxide  
 
 ## P  
 
@@ -1267,8 +1272,6 @@ saure - lagarto
 se - se  
 semon - um ao outro  
 seke - pedra  
-sexolojia - sexologia  
-sexolojia - sexologia  
 sekure - seguro  
 sele - conselho (aconselhar)  
 selenium - selénio  
@@ -1287,6 +1290,8 @@ serofun - serragem
 serokan - serraría  
 serlinke - elo  
 serame - cerâmico  
+sexolojia - sexologia  
+sexolojia - sexologia  
 si - ser (estar)  
 sibaya tene - perder  
 sibayer - perdedor  
@@ -1359,17 +1364,15 @@ sukar - açúcar
 sukar gana - cana-de-açúcar  
 sulfe - enxofre  
 sundaria - beleza  
-sur - começo (início, princípio)  
 sus - alcaçuz (regaliz)  
 susan - lírio  
 
 ## T  
 
-tablokomputer - tablet  
 tablete konputer - tablet  
+table konputer - tablet  
 tai - estrado  
 tail - ladrilho (telha, azulejo)  
-taxi metrer - taxímetro  
 tali moke - arbusto (mata)  
 talium - tálio  
 Talban - Talibã  
@@ -1377,10 +1380,9 @@ tan - haste (talo, caule)
 tantalium - tântalo  
 tate - tocar (tato)  
 • kontate - contato  
+taxi metrer - taxímetro  
 tehne - técnica  
 tehnium - tecnécio  
-texe - fazenda (tecido)  
-texomaxin - tear  
 telfone - telefonar  
 telfonia - telefonia  
 teloskope - telescópio  
@@ -1396,12 +1398,15 @@ terbium - térbio
 terce - oblíquo (torto)  
 teste - teste  
 teste - tentar (provar)  
+texe - fazenda (tecido)  
+texomaxin - tear  
 texte - texto  
 • tikete - bilhete  
 • retrotikete - passagem de volta  
 tirlonge - estirar  
 titanium - titânio  
-toxolojia - toxicologia  
+tixe - silencioso  
+tixia - silêncio  
 • tomografia - tomografia  
 • duotome - dicotomia  
 • zivotome - vivisecção  
@@ -1412,6 +1417,7 @@ tomate - tomate
 topografe - topografia  
 • topografia - topografia  
 torium - tório  
+toxolojia - toxicologia  
 tragi - trágico  
 tragodia - tragédia  
 trate - arrastar  
@@ -1468,11 +1474,13 @@ vare - vários
 varkalge - kelp  
 varkolate - página  
 vase - oasis  
+vate - item  
+vava - chorar  
+vava bebe - chorão  
 vaxurse - guaxinim (rato-lavadeiro)  
 Vaxington D
 ##   
 
-vate - item  
 vele - véu  
 • devele - revelar  
 vende - vender  
@@ -1534,6 +1542,7 @@ xulane - ensinar (lecionar)
 xulaner - professor (docente)  
 xulkan - escola (colégio)  
 xulxefe - diretor  
+xure - começo (início, princípio)  
 
 ##   
 
@@ -1586,14 +1595,14 @@ ziraf - girafa
 zirkonium - zircónio  
 zive - vida  
 • zivi - vivo  
-zombe - zumbi  
-zon - zona  
-zongominte - hortelã-verde  
 zoe - animal (besta, bicho)  
 • zoolojia - zoologia  
 • zoolojike - zoológico  
 zooparke - zoológico  
 zoosikle - zodíaco  
+zombi - zumbi  
+zone - zona  
+zongominte - hortelã-verde  
 zuke - etnia (étnico)  
 zumurude - esmeralda  
 zung - centro  

@@ -16,6 +16,7 @@ accepter - acepe
 accomplir (terminer) - purfine  
 accord - samrayia  
 accorder - atone  
+accumuler - kume  
 accès (accéder) - acese  
 acheter (shopping) - xope  
 acte - ate  
@@ -370,6 +371,7 @@ chose - xei
 chrome - kromium  
 chronique - durike  
 chronomètre - durometrer  
+chut - tix  
 chéri - amike  
 chêne - balute  
 chêne pédonculé - europobalute  
@@ -501,6 +503,7 @@ dans le sens antihoraire - rotolefto
 darmstadtium - darmositium  
 dauphin - dolfin  
 de - za  
+de luxe - deluxe  
 demain - posdeno  
 demander (question) - sual  
 dent - dante  
@@ -532,7 +535,7 @@ diverger (ne pas être d'accord) - aloraye
 divers (plusieurs) - vare  
 docile (insipide) - dosile  
 doctrine - dokaje  
-document (dossier) - dokum  
+document - dokum  
 documentaire - dokumfilme  
 domaine - dominia  
 domestique - domike  
@@ -541,6 +544,7 @@ domestiqué (apprivoisé) - dosilgene
 dommage - avar  
 données - date  
 dormir (sommeil) - some  
+dossier - dataje  
 double - duple  
 douche - duce  
 douteux (dubitatif) - sankable  
@@ -550,13 +554,14 @@ droit (rectiligne) - orte
 droit - hake  
 droits de l'homme - human hake  
 dubnium - dubnium  
+dune - duna  
 dur - gate  
 durer (se passer; durée) - dur  
 dynamite - dinamite  
 dysprosium - disprosium  
 dé - zarkube  
 déboguer (débugger) - degalte  
-début (commencement) - sur  
+début (commencement) - xure  
 décapé (mariné) - acari  
 déchirer - cire  
 défigurer - dusforme  
@@ -679,6 +684,7 @@ fougères - parne
 fourmi - murce  
 fragment - parce  
 frais - taze  
+franci - pandunia  
 francium - fransium  
 francophone - fransofone  
 francophonie - Fransofonia  
@@ -939,6 +945,7 @@ luthéranisme - martinluterisme
 luthérien - martinluteriste  
 lutte - gihade  
 lutécium - lutetium  
+luxure - luxure  
 lynx - lince  
 lys - susan  
 léger - lege  
@@ -1072,7 +1079,7 @@ nature - nature
 nature sauvage - janglia  
 nausée - retroguli sense  
 nautile - nautile  
-neige - hime  
+neige - hima  
 Neptune - Nepotun  
 neptunium - nepotunium  
 neuf (9) - nof  
@@ -1148,8 +1155,8 @@ orange amère - alkalorange
 orange douce - sukarorange  
 orchidée - orkide  
 ordinateur - konputer  
+ordinateur tablette - table konputer  
 ordinateur tablette - tablete konputer  
-ordinateur tablette - tablokomputer  
 ordre - ratibe  
 ordures - laze  
 oreille - or  
@@ -1274,6 +1281,7 @@ planter - poze
 plaque tectonique - geokaski plate  
 platine - platinium  
 plein - pure  
+pleurnicheur (pleurnichard) - vava bebe  
 plomb - plumbe  
 pluie - barse  
 plume - kalam  
@@ -1531,6 +1539,8 @@ Shiva - Xiva
 si - gar  
 signer - namkitabe  
 signifier (voiloir dire) - seme  
+silence - tixia  
+silencieux (se taire) - tixe  
 silex - hogoseke  
 silicium - silike  
 simulation - samsifia  
@@ -1776,8 +1786,8 @@ yttrium - ytrium
 zinc - zinke  
 zirconium - zirkonium  
 zodiaque - zoosikle  
-zombi - zombe  
-zone - zon  
+zombi - zombi  
+zone - zone  
 zoo - zooparke  
 zoologie - zoolojia  
 zoologique - zoolojike  

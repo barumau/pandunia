@@ -87,17 +87,17 @@ Algeria - Zayeria
 aliarvioida - minrai  
 alistua (alistuminen; antautuminen) - islam  
 alittaa - go sube  
-alkaa - suru  
+alkaa - xure  
 alkoholi - alkol  
 alkovi - nis  
-alku - sur  
+alku - xure  
 alkuaine - kimium  
 alkuperä (lähde; alkuperäinen) - asle  
 alla - a sube  
 allas - basen  
 allatiivi - alative  
 allofoni (vaihtoehtoinen ääntämys) - alofon  
-aloittaa - sure  
+aloittaa - xure  
 alpakka - alpaka  
 alttari - puzomeze  
 alue (seutu) - aria  
@@ -301,6 +301,7 @@ darwinisti - darviniste
 data (numeerinen tieto) - date  
 Deimos - Deimos  
 delfiini - dolfin  
+deluxe - deluxe  
 demokraatti - demokratiste  
 demokraattinen - demokrate  
 demokratia - demokratia  
@@ -328,6 +329,7 @@ dynamiitti - dinamite
 dysprosium - disprosium  
 dysteismi (usko jumalan pahuuteen) - dusdevisme  
 dystopia - dustopia  
+dyyni (kinos) - duna  
 
 ## E  
 
@@ -397,7 +399,7 @@ eniten - maxime
 ennen (aikaisemmin, aiemmin; aikaisempi, edellinen) - cene  
 ennennäkemätön - anprevide  
 ennustaa (nähdä ennalta) - cenvide  
-ensimmäinen (alku-) - sure  
+ensimmäinen (alku-) - xurime  
 ensimmäinen (numero yksi) - unime  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anative  
@@ -648,9 +650,9 @@ hiiri - mus
 hiiva - hamir  
 hiki - suede  
 hikinen - suede  
-hiljaa (hys, shhh) - suso  
-hiljainen - suse  
-hiljentää - suse  
+hiljaa (hys, shhh) - tix  
+hiljainen - tixe  
+hiljaisuus - tixia  
 Himalaja - Himalia  
 himo (halu) - kamia  
 hindin kieli - hinde  
@@ -853,7 +855,8 @@ isäntä - dominer
 isänäiti - pame  
 isäpuoli (äidin puoliso) - visopatre  
 Italia - Italia  
-itkeä - kuge  
+itkeä - vava  
+itkupilli - vava bebe  
 itse - se  
 itsehallinto (autonomia) - autonomia  
 itseliikkuva - automote  
@@ -1065,6 +1068,7 @@ kartio (keila) - konus
 kartogratia - metrografia  
 kartta - metrograf  
 karttakeppi - dikobaton  
+kasa (kasautua, kumuloitua) - kumule  
 kaseiini - kizoproten  
 kassa - kas  
 kassanhoitaja - kaser  
@@ -1371,6 +1375,8 @@ kumi - gom
 kumina - karau  
 kumkvatti - kankuate  
 kummitus (aave) - fantom  
+kumpu (kasa, läjä) - kume  
+kumpupilvi - kumulonepe  
 Kungfutse - Kongfuze  
 Kungfutselaisuus - kongfuzisme  
 kuningas - mani reger  
@@ -1419,7 +1425,7 @@ kuuluttaa - proklame
 kuuluva - vokal  
 kuume - febre  
 kuunnella - ore  
-kuura - himros  
+kuura - hima rose  
 kuusi (6) - sise  
 kuusi (metsäkuusi) - picea  
 kuusikulmio - sisgon  
@@ -1638,7 +1644,8 @@ luiska (ramppi) - rampe
 lukea - duge  
 luku (kirjan osa) - babu  
 lukumäärä (luku, numero; laskea) - nume  
-lumi - hime  
+lumi - hima  
+lumikinos - hima duna  
 lumme - nenufar  
 luodinkestävä - dansekure  
 luokitella (kategorisoida) - klase  
@@ -1960,6 +1967,7 @@ muuttaa pois (emigroitua) - exmigre
 muutto (migraatio) - migre  
 Myanmar (Burma) - Myanma  
 myky (pelmeni, ravioli) - pelmen  
+myky - nodule  
 mylly - molia  
 myllynkivi - molseke  
 mylläri - moler  
@@ -2673,6 +2681,7 @@ ruma (pahannäköinen) - dusvide
 rumpu - gum  
 runo - sir  
 runoilija - sirer  
+runsas - luxe  
 ruoho (hasis) - hasis  
 ruoho - cau  
 ruohotasanko - caustan  
@@ -2774,7 +2783,7 @@ satsuma - venzovorange
 sattuma (onni; sattumanvarainen) - zar  
 Saturnus - Saturne  
 Saudi Arabia - Saudi Arabia  
-sauma (ommel) - sutur  
+sauma (ommel) - suture  
 sauna - sauna  
 savanni - garmozone caustan  
 savenvalaja - poter  
@@ -2956,7 +2965,7 @@ soturi (sotilas) - gerer
 soturi (taistelija) - zenger  
 soveltaa (sovellus) - aplike  
 sovittaa (mukauttaa) - hape  
-sranan tongo - surinami bas  
+sranan tongo - surinami baxe  
 Sri Lanka - Lanka  
 stadioni (areena) - stadia  
 stereofoninen - dulsonde  
@@ -2993,6 +3002,7 @@ suojakilpi - defoban
 suojakypärä - defkaske  
 suola - salte  
 suomalainen - suome  
+suomi - pandunia  
 Suomi - Suomia  
 suora - orte  
 suorakulma (oikokulma) - ortogon  
@@ -3004,7 +3014,7 @@ suosinta (favoritismi) - profilisme
 Surinam - Surinam  
 surkuhupaisa (tragikoominen) - tragokomi  
 suru (murhe; surullinen; surra, murehtia) - duke  
-sushi - sushe  
+sushi - suxi  
 susi (hukka) - volfe  
 sutenööri - sutener  
 suu - boka  
@@ -3087,9 +3097,9 @@ Taipei - Taibei
 taipumus - ivia  
 taistelu (sota) - zeng  
 taitaa (olla mestari jskn) - meste  
-taitava - sute  
+taitava - xute  
 taiteilija - artiste  
-taito - sute  
+taito - xute  
 taivaankappale - astre  
 taivas - ten  
 Taiwan - Taivan  
@@ -3151,9 +3161,9 @@ tasoittaa (tasata) - pare
 tatuointi - tatu  
 tauko (keskeytys, paussi) - pauze  
 taulukko - datotable  
-taulukoida - tabla date  
+taulukoida - tablate  
+taulutietokone (tabletti) - table konputer  
 taulutietokone (tabletti) - tablete konputer  
-taulutietokone (tabletti) - tablokomputer  
 tauti - pate  
 tavata - mite  
 te - tumon  
@@ -3220,6 +3230,7 @@ thai - Tai
 Thaimaa - Tai dexia  
 tie - dau  
 tiede (tutkimus) - lojia  
+tiedosto - dataje  
 tiedottaa (informoida) - konsavane  
 tieto (tietämys) - save  
 tieto - konsave  
@@ -3676,7 +3687,7 @@ vuosi - nen
 vuosijuhla - nenfeste  
 vuotaa - love  
 vuotaa verta - lova sang  
-vyö - zon  
+vyö - zone  
 väenpaljous - demomultia  
 väestö (kansa; kansan-, julkinen) - deme  
 väestötiede (demografia) - demografia  
@@ -3724,12 +3735,12 @@ ydinfysiikka - kori fizikia
 yhdeksän - nof  
 yhdessä - kono  
 Yhdistyneet Arabiemiirikunnat - Uni Arabi Amiria (UAA)  
-Yhdistyneet Arabiemiirikunnat - Uniti Arabi Amiria (UAA)  
+Yhdistyneet Arabiemiirikunnat - Unite Arabe Amiria (UAA)  
 yhdistys (sidos) - linke  
 yhdistää (kytkeä) - konnete  
 yhdistää - linke  
 yhdistää - una  
-Yhdysvallat (ns. Amerikka) - Uniti Des Da Amerike (UDA)  
+Yhdysvallat (ns. Amerikka) - Unite State de Amerika (USA)  
 yhdysvaltalainen (ns. Amerikkalainen) - USA  
 yhteinen - komune  
 yhteinen - kone  
@@ -3750,6 +3761,8 @@ yksityiskohta (detalji) - detal
 yksivärinen - unorange  
 yleinen (universaali) - putonge  
 yleiskiina (mandariinikiina) - Putong Cini  
+ylenmääräinen - luxure  
+ylenmääräisyys (luksus) - luxuria  
 yliarvioida - maxorai  
 yliopisto - daixulkan  
 ylistys (ylistää, puhua hyvää, kehua) - euloge  
@@ -3783,7 +3796,7 @@ zarathustralaisuus - zardusisme
 zikkurat - zikure  
 Zimbabwe - Zimbabve  
 zirkonium - zirkonium  
-zombi - zombe  
+zombi - zombi  
 zulu - Zulu  
 äidinisä - mape  
 äidinkieli - genobase  

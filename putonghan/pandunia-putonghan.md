@@ -28,7 +28,6 @@ ais - 冰 (结冰)
 aishoke - 冰球  
 aiskrem - 冰淇淋  
 akare - 蜱 (螨)  
-axe - 轴线  
 ale - 另一 (改變)  
 aloraye - 不同意  
 alga - 藻类  
@@ -98,6 +97,7 @@ aven - 燕麦
 aure - 金  
 Austronesia - 南岛  
 autologe - 独白  
+axe - 轴线  
 
 ## B  
 
@@ -188,8 +188,8 @@ botel - 瓶
 bromium - 溴  
 brune - 棕色 (色)  
 brunsalmon - 褐鳟  
-bucer - 屠夫  
-bucokan - 屠宰场  
+• bucer - 屠夫  
+• bucokan - 屠宰场  
 Buda - 佛陀  
 bufete - 自助餐  
 buke - 书  
@@ -671,6 +671,7 @@ kuangia - 矿场
 kuarze - 石英  
 kube - 立方体  
 kuku - 布谷鸟 (杜鹃)  
+kumulonepe - 积云  
 kupe - 杯子  
 kupre - 铜  
 kurium - 锔  
@@ -843,6 +844,7 @@ mole - 摩尔 (单位)
 molekul - 分子  
 molidenium - 钼  
 monte - 山  
+pandunia - putongi cini  
 mos - 苔藓  
 mosim - 季  
 moter - 马达 (发动机)  
@@ -923,8 +925,6 @@ o - 或
 ode - 頌  
 oke - 眼睛  
 okosuigas - 催泪瓦斯  
-oxe - 氧  
-oxide - 氧化物  
 onde - 波浪  
 or - 耳  
 oritis - 耳炎  
@@ -937,6 +937,8 @@ osidian - 黑曜岩
 osmium - 锇  
 ostogamia - 骨骼  
 • ovoide - 卵形  
+oxe - 氧  
+oxide - 氧化物  
 
 ## P  
 
@@ -1134,8 +1136,6 @@ savovolite - 有趣
 saure - 蜥蜴  
 semon - 彼此  
 seke - 石 (岩)  
-sexolojia - 性学  
-sexolojia - 性学  
 selenium - 硒  
 • semolojia - 语义学  
 semen - 种  
@@ -1150,6 +1150,8 @@ sere - 锯子
 serofun - 锯末  
 serlinke - 连结  
 serame - 陶瓷  
+sexolojia - 性学  
+sexolojia - 性学  
 Shanghai - 上海  
 si - 对  
 sibai - 失败 (击败)  
@@ -1219,20 +1221,14 @@ sulfe - 硫
 sundaria - 美丽  
 sundardake - 装饰  
 suprize - 惊奇  
-sur - 开始  
-sure - 开始  
 sus - 甘草 (国老)  
-suso - 噓  
 susan - 百合花  
-sute - 技术  
-sute - 熟练  
 
 ## T  
 
-tablokomputer - 平板电脑  
 tablete konputer - 平板电脑  
+table konputer - 平板电脑  
 tail - 砖 (瓦)  
-taxi metrer - 计程器  
 tali moke - 灌木  
 talium - 铊  
 Talban - 塔利班  
@@ -1241,11 +1237,11 @@ tan - 茎 (梗)
 tantalium - 钽  
 tas - 盘 (碟)  
 tate - 接触  
+taxi metrer - 计程器  
 taze - 新鲜的  
 tehne - 技术  
 tehnium - 锝  
 tehnolojia - 工艺学  
-texe - 布料  
 telfon - 电话机  
 telfone - 打电话  
 telfonlin - 电话线  
@@ -1262,6 +1258,7 @@ terbium - 铽
 terce - 斜的  
 tese - 论据  
 teste - 化验  
+texe - 布料  
 • tikete - 票  
 • retrotikete - 往返票  
 tim - 队  
@@ -1270,13 +1267,16 @@ tira pil - 削 (刮去)
 tirbaton - 杆  
 tirlonge - 拉  
 titanium - 钛  
+tix - 噓  
+tixe - 安静  
+tixia - 沉默  
 toce - 接触  
-toxolojia - 毒物学  
 • zivotome - 活体解剖  
 tomate - 西红柿  
 topografe - 地形  
 • topografia - 地形  
 torium - 钍  
+toxolojia - 毒物学  
 tragodia - 悲剧  
 trate - 拖  
 • trator - 拖拉机 (铁牛)  
@@ -1322,11 +1322,11 @@ vanu - 玩耍
 vanadium - 钒  
 vare - 各种各样  
 vase - оазис  
+vate - 物体 (物品)  
 vaxurse - 浣熊  
 Vaxington D
 ##   
 
-vate - 物体 (物品)  
 vei - 尾巴 (尾部)  
 veilin - 緯紗  
 veisirke - 纬度  
@@ -1384,6 +1384,10 @@ xulaner - 教师 (老师)
 xuler - 学生  
 xulkan - 学校  
 xulxefe - 校长  
+xure - 开始  
+xure - 开始  
+xute - 技术  
+xute - 熟练  
 
 ##   
 
@@ -1442,11 +1446,11 @@ zire - 孜然
 ziraf - 长颈鹿  
 zirkonium - 锆  
 zive - 生命  
-zongominte - 留兰香  
 zoe - 动物  
 • zoolojia - 动物学  
 zooparke - 动物园  
 zoosikle - 黄道带  
+zongominte - 留兰香  
 zuke - 民族  
 zumurude - 绿宝石 (祖母绿)  
 zung - 中心  

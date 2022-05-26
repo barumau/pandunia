@@ -169,6 +169,7 @@ bańka - lilbol
 beczka - tong  
 beduiński; nomadyczny - badave  
 bejsbol (baseball) - baze bol  
+beksa - vava bebe  
 bel - bel  
 Belgia - Belgia  
 Belize - Belize  
@@ -339,7 +340,7 @@ chór - cantergrupe
 chłopak - yune man  
 ciasto, ciastko - keke  
 ciało - bode  
-cichy - suse  
+cichy - tixe  
 ciecierzyca - humus  
 ciecz (płyn) - riumate  
 ciekawy - savovolane  
@@ -1002,7 +1003,7 @@ jęczmień - zau
 język - lingue  
 język - lisan  
 język ojczysty (język rodzimy) - genobase  
-język surinamski - surinami bas  
+język surinamski - surinami baxe  
 język sztuczny - fetolingue  
 język świata, język ogólnoświatowy - dunia lingue  
 językoznastwo - linguolojia  
@@ -1952,7 +1953,7 @@ Partia Piratów - piratisti partia
 partner - partaner  
 Paryż - Paris  
 parę - du o tri  
-pas, strefa - zon  
+pas, strefa - zone  
 paskal (Pa) - paskal  
 pasować - konbone  
 pasta - paste  
@@ -2001,7 +2002,7 @@ pieprz długi - longopipre
 pierdnięcie (pierdzieć) - perde  
 pierwiastek (jednostki podstawowej) - em  
 pierwszy, numer jeden - unime  
-pierwszy, początkowy - sure  
+pierwszy, początkowy - xurime  
 pierś - sina  
 pierścień - ring  
 pierścień, pierścionek; obrączka - angulring  
@@ -2064,7 +2065,7 @@ pociąg - tren
 poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
 poczta, budynek poczty - postokan  
-początek - sur  
+początek - xure  
 pod (poniżej) - a sube  
 podarunek, dar, prezent - don  
 podatek, opłata - taxe  
@@ -2107,6 +2108,7 @@ polityka - politia
 polon - polskium  
 polować (łowić) - yege  
 Polska - Polske  
+polski - pandunia  
 polski - polske  
 pomarańcza - orange  
 pomarańcza słodka (pomarańcza chińska) - sukarorange  
@@ -2348,7 +2350,7 @@ półwysep - yagones
 później (w przyszłości) - poso  
 pękać (rozrywać się) - parcokayu  
 pęknięcie - krake  
-płakać, łkać - kuge  
+płakać, łkać - vava  
 płaski - plate  
 płaski chleb, ćapati - capati  
 płaskowyż (plateau) - mezastan  
@@ -2691,7 +2693,7 @@ stacja - statia
 stadion, arena - stadia  
 stan - hal  
 Stan Nowy Jork - Nove Yorke site  
-Stany Zjednoczone Ameryki - Uniti Des Da Amerike (UDA)  
+Stany Zjednoczone Ameryki - Unite State de Amerika (USA)  
 Starożytny Egipt (Kemet) - Kemia  
 stary (sędziwy, wiekowy) - lave  
 stary, starożytny - cenike  
@@ -2738,7 +2740,7 @@ Sudan Południowy - Sudi Sudan
 sufit - kamargau  
 suma - sum  
 Surinam - Surinam  
-sushi - sushe  
+sushi - suxi  
 Swalbard - Svalbarde  
 swastyka - hukokrus  
 Syberia - Sibiria  
@@ -2771,7 +2773,7 @@ szef, kierownik - xefe
 szeleścić - sase  
 szeroki - kuane  
 szerokość - kuania  
-szew - sutur  
+szew - suture  
 szewc - sapater  
 sześcian (kostka) - sisfas  
 sześcian - kube  
@@ -2793,7 +2795,7 @@ szokwstrząs; kolizja - xoke
 szop pracz - vaxurse  
 szorstki - karse  
 szparag; szparagia - lusun  
-szron - himros  
+szron - hima rose  
 sztuczka (podstęp, oszustwo) - truke  
 sztuczna inteligencja - artofete intelige (AI)  
 sztuka - arte  
@@ -2994,7 +2996,6 @@ tłok - puser
 ubranie, ubiór, strój - fuke  
 ucho - or  
 uciec, uciekać - bege  
-uciszyć (uciszać) - suse  
 uczestniczyć, wziąć udział, brać udział - parte  
 uczestnik - parter  
 uczeń, student - xuler  
@@ -3011,9 +3012,9 @@ ul (gniazdo pszczół lub os) - vesponide
 ul - maduvesposanduke  
 uleczyć, leczyć, uzdrowić, uzdrawiać - medike  
 ulubiony - profilaje  
-umiejętność (kompetencja) - sute  
+umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - zange  
-umiejętny (wprawny) - sute  
+umiejętny (wprawny) - xute  
 umieścić (postawić) - loke  
 umrzeć, umierać - mortu  
 umysłowy (psychiczny) - ruhe  
@@ -3041,7 +3042,7 @@ uważać (sądzić) - raye
 uwięzić, więzić, pozbawić wolności - prizone  
 uwolnić, uwalniać - hure  
 Uzbekistan - Uzbekia  
-ułożyć w trabelę - tabla date  
+ułożyć w trabelę - tablate  
 uświadomienie, świadomość; oświecenie, bodhi - bude  
 użytkownik - uzer  
 użyć, używać, zatrudnić, stosować - uze  
@@ -3309,8 +3310,8 @@ zachować, zakonserwować, zachować, utrzymać - hafize
 zachowywać się (działać) - manire  
 zachwyt (zdumienie) - ajibia  
 zachód (zachodni) - veste  
-zaczyna (zacząć, rozpoczynać, rozpocząć) - suru  
-zacząć, zaczynać - sure  
+zaczyna (zacząć, rozpoczynać, rozpocząć) - xure  
+zacząć, zaczynać - xure  
 zagranica - exdes  
 zagraniczny - exdese  
 zagrożenie (niebezpieczeństwo; niebezpieczny) - hatre  
@@ -3394,7 +3395,7 @@ Zimbabwe - Zimbabve
 zimny, chłodny - lenge  
 zimowy - lengomosime  
 Zjednoczone Emiraty Arabskie - Uni Arabi Amiria (UAA)  
-Zjednoczone Emiraty Arabskie - Uniti Arabi Amiria (UAA)  
+Zjednoczone Emiraty Arabskie - Unite Arabe Amiria (UAA)  
 Zjednoczone Królestwo - Britania  
 zjednoczony - unite  
 zmaksymalizować - maximife  
@@ -3416,7 +3417,7 @@ znaleźć, znajdywać, odkryć, odkrywać - eureke
 znowu (ponownie) - rio  
 znudzony - bore  
 zodiak - zoosikle  
-zombie, zombi - zombe  
+zombie, zombi - zombi  
 zoo (ogród zoologiczny) - zooparke  
 zoologia - zoolojia  
 zoologiczny - zoolojike  
@@ -3450,7 +3451,7 @@ zły (wsciekły, gniewny) - fure
 zły los - dusi zar  
 zły los - dusozar  
 zły, zrujnowany, zepsuty - harabe  
-ćsi - suso  
+ćsi - tix  
 ćwiczenie - lense  
 ćwiczyć - lense  
 Łotwa - Latvia  
@@ -3487,8 +3488,7 @@ zły, zrujnowany, zepsuty - harabe
 śmierć - morte  
 śmieć, odpadek - laze  
 śniadanie - subyam  
-śnieg - hime  
-śnieżyć (padać) - himu  
+śnieg (śnieżyć) - hima  
 śpiewać (piosenka, pieśń) - cante  
 średni - midi  
 środa - yom tri  

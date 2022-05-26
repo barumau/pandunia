@@ -2,6 +2,7 @@
 
 ## A  
 
+a sababe de - ponieważ, bo  
 a - przy, z, na, w, u  
 a ke - gdzie  
 a le - tu (tutaj, tam)  
@@ -47,7 +48,6 @@ aiskrem - lody
 ajibe - dziw (cudo)  
 ajibia - zachwyt (zdumienie)  
 akare - klescz (roztocze)  
-axe - oś  
 ale - inny (zmienić, zmieniać)  
 • alo - w innym wypadku (inaczej)  
 alofon - alofon  
@@ -168,6 +168,7 @@ autologe - monolog
 automote - samobieżny  
 autonome - autonomiczny  
 autonomia - autonomia  
+axe - oś  
 Azerbaizan - Azerbejdżan  
 
 ## B  
@@ -351,8 +352,8 @@ brunsalmon - pstrąg potokowy
 Brunei - Brunei Darussalam  
 brus - rodzeństwo, brat lub siostra  
 bude - uświadomienie, świadomość; oświecenie, bodhi  
-budisme - Buddyzm  
-budiste - buddysta  
+• budisme - Buddyzm  
+• budiste - buddysta  
 • mesbude - źle zrozumieć  
 Buda - Budda  
 bufete - bufet (szwedzki stół)  
@@ -1101,9 +1102,8 @@ hibride - hybryda; kundel
 hidre - wodór  
 higabe - welon (woalka)  
 hiyar - ogórek  
-hime - śnieg  
-himu - śnieżyć (padać)  
-himros - szron  
+hima - śnieg (śnieżyć)  
+hima rose - szron  
 Himalia - Himalaje  
 hindisme - hinduizm  
 hindiste - hinduistyczny  
@@ -1558,7 +1558,6 @@ kuangotunel - szyb górniczy
 kuarze - kwarc  
 kube - sześcian  
 Kuba - Kuba  
-kuge - płakać, łkać  
 kuke - gotować, szykować jedzenie  
 Kuke nesia - Wyspy Cooka  
 kuker - kucharz  
@@ -1737,7 +1736,6 @@ luge - zielony
 • lugia - register  
 lugomelon - melon miodowy  
 lugobuke - dziennik pokładowy (notatnik)  
-Luxemburge - Luksemburg  
 lul - perła  
 lune - księżyc  
 lun - miesiąc  
@@ -1747,6 +1745,7 @@ lusun - szparag; szparagia
 lute - obrabować, splądrować  
 luter - rabuś (grabieżca)  
 lutetium - lutet  
+Luxemburge - Luksemburg  
 
 ## M  
 
@@ -1997,6 +1996,7 @@ monte - góra,wzgórze
 morfe - morf  
 morfem - morfem  
 morfeme - morfem  
+pandunia - polski  
 Moris - Mauritius  
 morte - śmierć  
 morte - zabić, zabijać  
@@ -2163,7 +2163,7 @@ nocomode - tryb nocny
 node - węzeł (zupeł; zawiązywać, zawiązać węzeł)  
 nof - dziewięć (9)  
 nome - zarządzać (organizować, kierować)  
-nomia - zarządzanie (-nomia)  
+• nomia - zarządzanie (-nomia)  
 norde - północ  
 Nordi Amerike - Ameryka Północna  
 Nordi Cosen - Korea Północna (Koreańska Republika Ludowo-Demokratyczna)  
@@ -2214,8 +2214,6 @@ okosui - łza
 okosuigas - gaz łzawiący  
 okeye - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 okeye - okej, spoko, akceptowalny  
-oxe - tlen  
-oxide - tlenek  
 Olandi nesia - Wyspy Alandzkie  
 Oman - Oman  
 onde - fala  
@@ -2245,6 +2243,8 @@ ostogamia - szkielet
 ostosalke - łuska (blaszka, tarczka)  
 Ostria - Austria  
 ove - jajko (jajo)  
+oxe - tlen  
+oxide - tlenek  
 
 ## P  
 
@@ -2644,8 +2644,6 @@ rutin - rutyna, nawyk, zwyczaj
 ## S  
 
 sababe - powód (przyczyna; spowodować, powodować)  
-a sababe de - ponieważ, bo  
-• ansave - dziwny (nieznany)  
 sabate - szabat, szabas  
 sable - piasek, piach  
 sablopetre - piaskowiec  
@@ -2743,20 +2741,12 @@ Saudi Arabia - Arabia Saudyjska
 sauna - sauna  
 saure - jaszczurka  
 saus - sos  
+• ansave - dziwny (nieznany)  
 se - sam (siebie)  
 seke - kamień (kawał skały)  
 sekozanger - kamieniarz  
 sekreter - sekretarz  
 sekreteria - sekretariat  
-sexe - seks, stosunek płciowy  
-sexe - kochać się, uprawiać seks  
-sexe - seksowny, ponętny  
-sexe - seksowny,ponętny  
-sexolojia - seksuologia  
-sexolojia - seksuologia  
-• ansexe - aseksualny  
-• dusexe - biseksualny  
-• pansexe - panseksualny  
 sekunde - sekunda  
 sekure - bezpieczny (chronić, ratować)  
 sekurokode - hasło  
@@ -2797,7 +2787,16 @@ serve - służyć
 server - sługa  
 sesam - sezam  
 Seshel nesia - Seszele  
+sexe - seks, stosunek płciowy  
+sexe - kochać się, uprawiać seks  
+sexe - seksowny, ponętny  
+sexe - seksowny,ponętny  
+sexolojia - seksuologia  
+sexolojia - seksuologia  
+• ansexe - aseksualny  
+• dusexe - biseksualny  
 • homosexe - homoseksualny  
+• pansexe - panseksualny  
 Shanghai - Szanghaj  
 si - być  
 si ham - znaczyć (liczyć się, być ważnym)  
@@ -3000,28 +2999,19 @@ supre - przekroczyć, przekraczać, przejść nad, iść nad
 supre - górny  
 supro - nad  
 suprize - zaskoczenie  
-sur - początek  
-sure - zacząć, zaczynać  
-sure - pierwszy, początkowy  
 Suria - Syria  
-suru - zaczyna (zacząć, rozpoczynać, rozpocząć)  
 Surinam - Surinam  
-surinami bas - język surinamski  
+surinami baxe - język surinamski  
 sus - lukrecja  
-suse - uciszyć (uciszać)  
-suse - cichy  
-suso - ćsi  
 susan - lilia  
-sushe - sushi  
-sute - umiejętność (kompetencja)  
 sute - szyć  
-sute - umiejętny (wprawny)  
-sutur - szew  
+• suture - szew  
+suxi - sushi  
 
 ## T  
 
 tabake - tytoń  
-tabla date - ułożyć w trabelę  
+• tablate - ułożyć w trabelę  
 tafun - burza, sztorm, tajfun  
 Tai - tajski  
 Tai dexia - Tajlandia  
@@ -3029,10 +3019,6 @@ Taibei - Tajpej
 taige - tajga  
 tail - płyta  
 Taivan - Tajwan, Republika Chińska  
-taxe - podatek, opłata  
-taxe - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
-taxi kar - taxi, taksówka  
-taxi metrer - taksometr  
 tal - dół, spód  
 tale - obniżać (obniżyć)  
 tale - niski  
@@ -3058,15 +3044,16 @@ tatosense - czuć
 tatike - taktyka, strategia  
 tatu - tatuaż  
 tave - patelnia  
+taxe - podatek, opłata  
+taxe - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
+taxi kar - taxi, taksówka  
+taxi metrer - taksometr  
 taze - świeży  
 Tazikia - Tadżykistan  
 tehne - technika, technologia  
 tehnium - technet  
 tehnokratia - technokracja  
 tehnolojia - technologia, nauka o technikach  
-texe - tkanina (materiał, sukno)  
-texe - tkać (pleść)  
-texomaxin - krosno  
 tel - dystans  
 tele - daleki, odległy  
 telia - dystans  
@@ -3105,6 +3092,9 @@ tese - dyskutoać, twierdzić
 tesle - tesla (T)  
 teste - test, wyzwanie, próba  
 teste - spróbować, próbować  
+texe - tkanina (materiał, sukno)  
+texe - tkać (pleść)  
+texomaxin - krosno  
 texte - tekst  
 ticin - chordofon, instrument strunowy  
 tike - tikka  
@@ -3124,12 +3114,13 @@ tirlonge - rozciągać (rozciągnąć)
 tiroriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirsanduke - szuflada  
 titanium - tytan  
+tix - ćsi  
+tixe - cichy  
 tiz: - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 • tizife - wzmacniać się (wzmagać, pogłębiać się)  
 toce - dotyczyć  
 Togo - Togo  
 Tokyo - Tokio  
-toxe - trucizna (toksyna; toksyczny, trujący)  
 tolere - tolerować  
 • tomografia - tomografia  
 • duotome - dychotomia  
@@ -3142,6 +3133,7 @@ tope - region
 torium - tor  
 torse - tułów  
 tortuge - żółw  
+toxe - trucizna (toksyna; toksyczny, trujący)  
 tragodia - tragedia  
 transe - przejazd, przewóz, tranzyt  
 transe - przejść, przechodzić, przejechać, przejeżdżać  
@@ -3197,8 +3189,8 @@ un - jeden (1)
 • uniko - jedynie (tylko)  
 • unime - pierwszy, numer jeden  
 • unite - zjednoczony  
-Uniti Arabi Amiria (UAA) - Zjednoczone Emiraty Arabskie  
-Uniti Des Da Amerike (UDA) - Stany Zjednoczone Ameryki  
+Unite Arabe Amiria (UAA) - Zjednoczone Emiraty Arabskie  
+Unite State de Amerika (USA) - Stany Zjednoczone Ameryki  
 unale - się (nawzajem, wzajemnie)  
 unemisme - monizm  
 Uni Arabi Amiria (UAA) - Zjednoczone Emiraty Arabskie  
@@ -3251,16 +3243,18 @@ varke - kartka (dokument)
 varkalge - listownicowiec  
 varkolate - strona  
 vase - oaza  
+vate - przedmiot (obiekt)  
+vat - wat  
+Vatikan - Watykan, Państwo Watykańskie  
+vau - wow!, łoł!, jej!  
+vava - płakać, łkać  
+vava bebe - beksa  
 vaxe - prać, umyć, myć  
 vaxomaxin - pralka  
 vaxurse - szop pracz  
 Vaxington D
 ## Waszyngton D.C  
 
-vate - przedmiot (obiekt)  
-vat - wat  
-Vatikan - Watykan, Państwo Watykańskie  
-vau - wow!, łoł!, jej!  
 vei - ogon  
 veisirke - południk  
 vende - sprzedać (sprzedawać)  
@@ -3374,6 +3368,12 @@ xulaner - nauczyciel
 xuler - uczeń, student  
 xulkan - szkoła (instytucja)  
 xulxefe - dyrektor szkoły  
+xure - początek  
+xure - zacząć, zaczynać  
+xure - zaczyna (zacząć, rozpoczynać, rozpocząć)  
+xurime - pierwszy, początkowy  
+xute - umiejętność (kompetencja)  
+xute - umiejętny (wprawny)  
 
 ##   
 
@@ -3508,16 +3508,16 @@ zirkonium - cyrkon
 zive - życie  
 • zivi - żyć (żywy, żyjący)  
 zize - skwierczeć  
-zombe - zombie, zombi  
-zon - pas, strefa  
-zong - gatunek  
-zongominte - mięta zielona (mięta kłosowa)  
 zoe - animal  
 • zoolojia - zoologia  
 • zoolojike - zoologiczny  
 zoagria - hodowla zwierząt  
 zooparke - zoo (ogród zoologiczny)  
 zoosikle - zodiak  
+zombi - zombie, zombi  
+zone - pas, strefa  
+zong - gatunek  
+zongominte - mięta zielona (mięta kłosowa)  
 zuke - grupa etniczna  
 zukomede - międzyetniczny  
 zukam - przeziębienie, katar  

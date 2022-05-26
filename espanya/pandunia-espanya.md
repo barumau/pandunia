@@ -2,6 +2,7 @@
 
 ## A  
 
+a sababe de - porque  
 a - en (a)  
 a ke - dónde  
 a le - allí (allá)  
@@ -48,7 +49,6 @@ aiskrem - helado
 ajibe - maravilla (maravilloso, asombroso)  
 ajibia - asombro  
 akare - garrapata (ácaro)  
-axe - eje  
 ale - otro (cambiar, demudar)  
 alofon - alófono  
 alonamo - es decir (en otras palabras)  
@@ -193,6 +193,7 @@ autologe - monólogo
 automote - automotor (automotriz)  
 autonome - autónomo  
 autonomia - autonomía  
+axe - eje  
 Azerbaizan - Azerbaiyán  
 
 ## B  
@@ -382,11 +383,11 @@ brunsalmon - trucha marrón
 Brunei - Brunei  
 brus - hermano o hermana  
 buce - carnear (matar)  
-bucer - carnicero  
-bucokan - matadero  
+• bucer - carnicero  
+• bucokan - matadero  
 bude - comprensión (entendimiento; concienciado, iluminado))  
-budisme - budismo  
-budiste - budista  
+• budisme - budismo  
+• budiste - budista  
 • mesbude - malinterpretar  
 Buda - Buda  
 bufete - bufé  
@@ -560,6 +561,7 @@ darte - tierra (barro; sucio)
 darvinisme - darwinismo  
 darviniste - darwinista  
 date - datos  
+• dataje - archivo  
 datobanke - banco de datos (base de datos)  
 datofenkate - análisis de datos  
 datotable - tabla  
@@ -638,7 +640,7 @@ Doice - Alemania
 doice - alemán  
 • dokaje - doctrina  
 • dokente - docente  
-dokum - documento (archivo, nota)  
+dokum - documento  
 dokumfilme - documental  
 dokumsanduke - carpeta  
 dolar - dolar  
@@ -692,6 +694,7 @@ dulsexe - bisexual
 duman - humo  
 dunia - mundo  
 dunia lingue - lengua mundial  
+duna - duna  
 dungia aventur - juego de mazmorras  
 dur - durar (llevar tiempo, transcurrir; duración)  
 • duro - todavía (aún)  
@@ -1207,9 +1210,8 @@ hibride - híbrido (mestizo)
 hidre - hidrógeno  
 higabe - velo  
 hiyar - pepino  
-hime - nieve  
-himu - nevar  
-himros - escarcha  
+hima - nieve (nevar)  
+hima rose - escarcha  
 Himalia - Himalaya  
 Hinde riu - Indo  
 Hindia - Indostán  
@@ -1683,7 +1685,6 @@ kuangosui - agua mineral
 kuarze - cuarzo  
 kube - cubo  
 Kuba - Cuba  
-kuge - llorar  
 kuke - cocinar (preparar)  
 Kuke nesia - Islas Cook  
 kuker - cocinero  
@@ -1694,6 +1695,8 @@ kulombe - culombio
 kultur - cultura  
 • polikulture - multicultural  
 • polikulturisme - multiculturalismo  
+kume - acumular  
+kumulonepe - cúmulo  
 kupe - vaso (taza, copa)  
 kupocate - cúpula  
 kupon - cupón (vale)  
@@ -1861,17 +1864,19 @@ luge - verde
 • lugia - registro (cuenta)  
 lugomelon - melón verde  
 lugobuke - diario  
-Luxemburge - Luxemburgo  
 lul - perla  
 lune - luna  
 lun - mez  
-lunokeke - pastel de luna  
 lun tri - marzo  
+lunokeke - pastel de luna  
 lung - dragón  
 lusun - espárrago  
 lute - saquear (desvalijar, robar)  
 luter - ladrón  
 lutetium - lutecio  
+• luxuria - lujuria  
+• deluxe - de lujo  
+Luxemburge - Luxemburgo  
 
 ## M  
 
@@ -2132,6 +2137,7 @@ monte - montaña (monte)
 morfe - morfo  
 morfem - morfema  
 morfeme - morfema  
+pandunia - espani  
 Moris - Mauricio  
 morte - muerte (fallecimiento)  
 morte - matar (morir, asesinar)  
@@ -2305,7 +2311,7 @@ node - nudo (hacer un nudo)
 nof - nueve (9)  
 nole - cancelar  
 nome - organizar (gestionar)  
-nomia - gerencia (dirección)  
+• nomia - gerencia (dirección)  
 norde - norte (norteño)  
 Nordi Amerike - Norteamérica  
 Nordi Cosen - Corea del Norte  
@@ -2362,8 +2368,6 @@ okosui - lágrima
 okosuigas - gas lacrimógeno  
 okeye - aceptar  
 okeye - bien (aceptable)  
-oxe - oxígeno  
-oxide - óxide  
 Olandi nesia - islas Aland  
 Oman - Omán  
 onde - onda  
@@ -2398,6 +2402,8 @@ ote - optar
 • otion - opción (alternativa)  
 ove - huevo  
 • ovoide - óvale  
+oxe - oxígeno  
+oxide - óxide  
 
 ## P  
 
@@ -2834,7 +2840,6 @@ rutin - rutina (hábito)
 ## S  
 
 sababe - razón (causa)  
-a sababe de - porque  
 sabate - sabbat  
 sable - arena  
 • movosable - arenas movedizas  
@@ -2941,15 +2946,6 @@ seke - piedra
 sekozanger - albañil (mampostero, cantero)  
 sekreter - secretario  
 sekreteria - secretaría  
-sexe - sexo  
-sexe - tener sexo  
-sexe - sexy (sexual)  
-sexe - sexy (sexual)  
-sexolojia - sexología  
-sexolojia - sexología  
-• ansexe - asexual  
-• dusexe - bisexual  
-• pansexe - pansexual  
 sekunde - segundo  
 sekure - seguro (proteger, asegurar, guardar)  
 sekurokode - contraseña  
@@ -2994,7 +2990,16 @@ server - criado (sirviente)
 servor - servidor  
 sesam - ajonjolí (sésamo)  
 Seshel nesia - Seychelles  
+sexe - sexo  
+sexe - tener sexo  
+sexe - sexy (sexual)  
+sexe - sexy (sexual)  
+sexolojia - sexología  
+sexolojia - sexología  
+• ansexe - asexual  
+• dusexe - bisexual  
 • homosexe - homosexual  
+• pansexe - pansexual  
 si - ser (estar)  
 si ham - importar  
 siane - cian  
@@ -3206,30 +3211,22 @@ supre - sobrepasar
 supre - superior (más alto)  
 supro - sobre  
 suprize - sorpresa  
-sur - comienzo (inicio, principio)  
-sure - comenzar (iniciar, empezar)  
-sure - primer (inicial, inaugural)  
 Suria - Siria  
-suru - comenzar (iniciarse, empezar)  
 Surinam - Surinam  
-surinami bas - sranan tongo  
+surinami baxe - sranan tongo  
 sus - regaliz (alcazuz, orozuz)  
-suse - silencioso  
-suso - chito (chist)  
-susan - lirio  
-sushe - sushi  
-sute - dotes (arte, habilidad)  
+susan - lirio (azucena)  
 sute - coser  
-sute - hábil  
-sutur - costura (sutura)  
+• suture - costura (sutura)  
+suxi - sushi  
 
 ## T  
 
 tabake - tabaco  
 table - tabla (lámina, plancha)  
-tabla date - tabular  
-tablokomputer - tablet  
+• tablate - tabular  
 tablete konputer - tablet  
+table konputer - tablet  
 tafun - tormenta (tempestad)  
 tai - escenario (podio, estrado, tarima)  
 Tai - tailandés  
@@ -3238,9 +3235,6 @@ Taibei - Taipei
 taige - taiga  
 tail - baldosa (teja, azulejo)  
 Taivan - Taiwán  
-taxe - tasa (precio, cuota, tarifa)  
-taxe - gravar (cobrar tasas)  
-taxi kar - taxi (cab)  
 tal - fondo  
 tale - bajar  
 tale - bajo  
@@ -3267,15 +3261,15 @@ tatosense - palpar (tocar)
 tatike - táctica (estrategia)  
 tatu - tatuaje  
 tave - sartén  
+taxe - tasa (precio, cuota, tarifa)  
+taxe - gravar (cobrar tasas)  
+taxi kar - taxi (cab)  
 taze - fresco  
 Tazikia - Tayikistán  
 tehne - técnica  
 tehnium - tecnetio  
 tehnokratia - tecnocracia  
 tehnolojia - tecnología  
-texe - tela (paño, tejido)  
-texe - tejer  
-texomaxin - telar  
 tel - lo lejos  
 tele - lejano (lejos)  
 telia - distancia  
@@ -3322,6 +3316,9 @@ tese - argumentar (alegar)
 tesle - tesla (T)  
 teste - prueba  
 teste - intentar (probar)  
+texe - tela (paño, tejido)  
+texe - tejer  
+texomaxin - telar  
 texte - texto  
 ticin - instrumento de arco  
 tike - pedazo  
@@ -3341,11 +3338,12 @@ tirlonge - estirar (extender)
 tiroriu - corriente de resaca  
 tirsanduke - cajón (gaveta)  
 titanium - titanio  
+tix - chito (chist)  
+tixe - silencioso  
+tixia - silencio  
 tiz: - intenso (brusco, ácido, fuerte, afilado, rápido)  
 toce - tocar (rozar)  
 Togo - Togo  
-toxe - veneno (toxina; tóxico)  
-toxolojia - toxicología  
 tolere - tolerar  
 • tomografia - tomografía  
 • duotome - dicotomía  
@@ -3363,6 +3361,8 @@ topografe - topografía
 torium - torio  
 torse - torso  
 tortuge - tortuga  
+toxe - veneno (toxina; tóxico)  
+toxolojia - toxicología  
 tragi - triste (trágico)  
 tragokomi - tragicómico  
 tragodia - tragedia  
@@ -3429,8 +3429,8 @@ un - uno (1)
 • uniko - únicamente (solo)  
 • unime - primero (numbre uno)  
 • unite - unido  
-Uniti Arabi Amiria (UAA) - Emiratos Árabes Unidos  
-Uniti Des Da Amerike (UDA) - Estados Unidos de América  
+Unite Arabe Amiria (UAA) - Emiratos Árabes Unidos  
+Unite State de Amerika (USA) - Estados Unidos de América  
 unale - el uno al otro (se; mutuo, recíproco))  
 unemisme - monismo  
 Uni Arabi Amiria (UAA) - Emiratos Árabes Unidos  
@@ -3486,16 +3486,18 @@ varke - hoja
 varkalge - kelp  
 varkolate - página  
 vase - oasis  
+vate - objeto (artículo)  
+vat - vatio  
+Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
+vau - guau (vaya)  
+vava - llorar  
+vava bebe - llóron  
 vaxe - lavar  
 vaxomaxin - lavadora  
 vaxurse - mapache  
 Vaxington D
 ##   
 
-vate - objeto (artículo)  
-vat - vatio  
-Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
-vau - guau (vaya)  
 vei - cola (rabo)  
 veisirke - latitud  
 vele - velo  
@@ -3617,6 +3619,12 @@ xulaner - maestro (profesor, docente)
 xuler - estudiante  
 xulkan - escuela (colegio, institución)  
 xulxefe - director de colegio  
+xure - comienzo (inicio, principio)  
+xure - comenzar (iniciar, empezar)  
+xure - comenzar (iniciarse, empezar)  
+xurime - primer (inicial, inaugural)  
+xute - dotes (arte, habilidad)  
+xute - hábil  
 
 ##   
 
@@ -3754,15 +3762,15 @@ zirkonium - circonio
 zive - vida  
 • zivi - vivo (lleno de vida)  
 zize - chisporrotear  
-zombe - zombi  
-zon - cinturón (zona)  
-zong - especie  
-zongominte - hierbabuena  
 zoe - animal (bestia)  
 • zoolojia - zoología  
 • zoolojike - zoológico  
 zooparke - zoo  
 zoosikle - zodíaco  
+zombi - zombi  
+zone - cinturón (zona)  
+zong - especie  
+zongominte - hierbabuena  
 zuke - etnia (étnico)  
 zukomede - interétnica  
 zukam - resfriado (catarro)  

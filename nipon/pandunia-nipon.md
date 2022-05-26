@@ -157,8 +157,8 @@ bromium - 臭素
 brune - 茶色  
 brunalge - 褐藻  
 brunsalmon - ブラウントラウト  
-bucer - 肉屋  
-bucokan - 屠畜場  
+• bucer - 肉屋  
+• bucokan - 屠畜場  
 Buda - 仏陀  
 bufete - ビュッフェ (バイキング)  
 buke - 本 (書物)  
@@ -487,7 +487,7 @@ Hesia - ヘッセン
 hesium - ハッシウム  
 hidre - 水素  
 hiyar - キュウリ  
-himu - 雪が降る  
+hima - 雪が降る  
 Hinde riu - インダス川  
 hindium - インジウム  
 hisabe - 計算する  
@@ -672,6 +672,7 @@ kube - 立方体
 kukokamar - 台所  
 kuku - 郭公  
 kule - カッコいい  
+kumulonepe - 積雲  
 kupe - コップ  
 kupre - 銅  
 kurium - キュリウム  
@@ -749,8 +750,8 @@ love - 漏る
 luge - 緑 (緑色)  
 lugomelon - ハネデューメロン  
 lun - 月間  
-lunokeke - 月餅  
 lun tri - ３月  
+lunokeke - 月餅  
 lung - 竜  
 lutetium - ルテニウム  
 
@@ -841,6 +842,7 @@ mokotan - 丸木
 mole - モル  
 molekul - 分子  
 molidenium - モリブデン  
+pandunia - niponi  
 mos - 苔  
 mosim - 季節  
 moskovium - モスコビウム  
@@ -925,7 +927,6 @@ ode - 頌歌 (オード)
 oke - 目  
 okosuigas - 催涙ガス  
 okeye - 大丈夫 (ＯＫ)  
-oxe - 酸素  
 onde - 波  
 orangi - オレンジ色の  
 orkide - ラン  
@@ -936,6 +937,7 @@ osmium - オスミウム
 ostogamia - 骨格  
 ostosalke - ぜんご  
 • ovoide - 卵形 ( たまごがた)  
+oxe - 酸素  
 
 ## P  
 
@@ -1141,8 +1143,6 @@ savovolite - 面白い
 saure - 蜥蜴  
 saus - ソース  
 sekozanger - 石匠  
-sexolojia - 性科学  
-sexolojia - 性科学  
 sekurokope - バックアップ (控え)  
 sekuronumbe - 暗証番号  
 selenium - セレン  
@@ -1159,6 +1159,8 @@ serofun - 木屑
 serlinke - 連結  
 serame - 陶器  
 servor - サーバ  
+sexolojia - 性科学  
+sexolojia - 性科学  
 siane - シアン  
 sibai - 失敗 (負け)  
 sibaye - 負ける  
@@ -1241,14 +1243,12 @@ sundaria - 美しさ
 sundardake - 装飾  
 sundardake - 飾る  
 supre - 上  
-sur - 開始  
 sus - 甘草 (蕗草)  
-suso - しーっ  
 
 ## T  
 
-tablokomputer - タブレットコンピュータ  
 tablete konputer - タブレットコンピュータ  
+table konputer - タブレットコンピュータ  
 tail - タイル (瓦)  
 tali moke - 灌木 (藪)  
 talium - タリウム  
@@ -1259,8 +1259,6 @@ tantalium - タンタル
 tas - 皿  
 tehne - 技術  
 tehnium - テクネチウム  
-texe - 布  
-texomaxin - 織機  
 telfon - 電話  
 telfone - 電話する  
 teloloku - 瞬間移動  
@@ -1276,6 +1274,8 @@ intener - コンテナ
 tenesium - テネシン  
 terbium - テルビウム  
 terce - 斜め  
+texe - 布  
+texomaxin - 織機  
 tingu - 止まる  
 tipe - 種類  
 tira pil - はがす (剥ぐ)  
@@ -1283,14 +1283,17 @@ tirbaton - レバー (てこ)
 tirlonge - 伸びる (張る)  
 tiroriu - 離岸流  
 titanium - チタン  
+tix - しーっ  
+tixe - 静かな (無音)  
+tixia - 静けさ (静寂, 黙秘)  
 Tokyo - 東京  
-toxe - 毒  
 • tomografia - トモグラフィー  
 • tritome - 三分法  
 • zivotome - 生体解剖  
 topografe - 地勢  
 • topografia - 地勢  
 torium - トリウム  
+toxe - 毒  
 tragodia - 悲劇  
 • trator - トラクター  
 tren - 電車 (列車)  
@@ -1341,11 +1344,11 @@ vanadium - バナジウム
 vare - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 varkalge - コンブ  
 varkolate - ページ (面)  
+vate - 物 (品)  
 vaxurse - 狸 (ラクーン, 洗い熊)  
 Vaxington D
 ##   
 
-vate - 物 (品)  
 vei - 尾 (尾翼)  
 veilin - 横糸  
 veisirke - 緯度  
@@ -1402,6 +1405,7 @@ xulaner - 先生 (教師)
 xuler - 学生  
 xulkan - 学校  
 xulxefe - 校長  
+xure - 開始  
 
 ##   
 
@@ -1461,13 +1465,13 @@ zire - クミン
 ziraf - 麒麟  
 zirkonium - ジルコニウム  
 zive - 命 (生命)  
-zongominte - スペアミント  
 zoe - 動物  
 • zoolojia - 動物学  
 • zoolojike - 動物学の  
 zoagria - 畜産  
 zooparke - 動物園  
 zoosikle - 黄道帯  
+zongominte - スペアミント  
 zuke - 民族  
 zung - 中心  
 Zungogia - 中国  
