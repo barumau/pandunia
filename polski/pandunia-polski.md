@@ -4,6 +4,7 @@
 
 a sababe de - ponieważ, bo  
 a - przy, z, na, w, u  
+a zay den - dziś, dzisiaj  
 a ke - gdzie  
 a le - tu (tutaj, tam)  
 a line - online (na linii, w sieci)  
@@ -520,6 +521,7 @@ datotable - tablioca, macierz
 dau - droga, szosa, ulica  
 • davisme - taoizm  
 • daviste - taoista  
+de - z (od)  
 debu - musieć  
 deci - decy-, dziesiąta część  
 decibel - decybel  
@@ -1084,6 +1086,7 @@ hatre - zagrożenie (niebezpieczeństwo; niebezpieczny)
 Havai - Hawaje  
 Havai nesia - Hawaje (archipelag hawajski)  
 he - hę?, co?, pardon?  
+hei - hej  
 helium - hel  
 helene - gracki, helleński; Grek  
 Helenia - Grecja  
@@ -1218,15 +1221,38 @@ ivia - tendencja
 
 ## J  
 
+jake - kurtka  
 Jakarta - Dżakarta  
+jame - kolekcjonować, zebrać, zbierać  
+• jamia - kolekcja, zbiór; zgromadzenie, zebranie  
 Jamaika - Jamajka  
+jambul - czapetka kuminowa  
+jampe - skoczyć, skakać  
+janel - okno  
+janelovel - zasłona, kurtyna  
 jangle - dziki  
 jangle van - dżungla  
+jau - jęczmień  
 jaze - jazz, dżez  
+jebe - kieszeń  
+jeke - pożyczyć  
+jekocepe - pożyczać (pożyczyć)  
+jekodone - pożyczać komuś (pożyczyć komuś)  
+jekolexe - zapożyczenie (wyraz obcy)  
+jenisme - dźinizm, dżinizm  
+jeng - walka, wojna  
+jenge - militarny, wojskowy, wojenny  
+• jenger - wojownik, bojownik  
+jengoxute - sztuka walki  
 Jerzi - Jersey  
+• jetaje - pocisk  
 • injete - zastrzyk  
 injete - wstrzyknąć, wstrzykiwać  
 • projetaje - projekt,planowane przedsięwzięcie  
+jetografor - projektor (rzutnik)  
+jetografe - wyświetlać (rzut, projekcja)  
+jin - prawdziwy (rzeczywisty, szczery)  
+jinje - imbir  
 joke - żart  
 joker - żartowniś, dowcipniś  
 jude - sądzić (osądzić; wyrok)  
@@ -1577,11 +1603,10 @@ kurium - kiur
 kuran - Koran  
 • prekurser - prekursor  
 kurve - wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
-• kurvi - zakrzywiony  
 kuse - położyć  
 kusu - leżeć  
-kusen - poduszka  
 kusloke - kuszetka (koja)  
+kusen - poduszka  
 Kuvaitia - Kuwejt  
 
 ## L  
@@ -1597,12 +1622,6 @@ lalorange - mandarynka
 lalsalmon - nerka (łosoś czerwony)  
 lama - lama  
 lampe - lampa  
-lance - rzucić, rzucać, miotać, cisnąć, ciskać  
-lance - ciśnięty (rzucony, miecony)  
-lancograf - rzut (projekcja)  
-lancografe - wyświetlać  
-lancografer - projektor (rzutnik)  
-lancite - pocisk  
 langan - poręcz (balustrada)  
 Lanka - Sri Lanka  
 lantanium - lantan  
@@ -1996,7 +2015,6 @@ monte - góra,wzgórze
 morfe - morf  
 morfem - morfem  
 morfeme - morfem  
-pandunia - polski  
 Moris - Mauritius  
 morte - śmierć  
 morte - zabić, zabijać  
@@ -2859,6 +2877,7 @@ sirke - koło, okrąg
 sirke - otoczyć, otaczać  
 sirke - okrągły  
 sirkoseke - bruk  
+siro - zero, nic, żaden  
 sisa - nabić (przebić, dźgnąć)  
 sise - sześć (6)  
 sisfas - sześcian (kostka)  
@@ -3215,6 +3234,7 @@ uze - użyć, używać, zatrudnić, stosować
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
 Uzbekia - Uzbekistan  
+va - wow!, łoł!, jej!  
 vacin - szczepionka  
 vade - dolina  
 vadosusan - konwalia majowa  
@@ -3246,7 +3266,6 @@ vase - oaza
 vate - przedmiot (obiekt)  
 vat - wat  
 Vatikan - Watykan, Państwo Watykańskie  
-vau - wow!, łoł!, jej!  
 vava - płakać, łkać  
 vava bebe - beksa  
 vaxe - prać, umyć, myć  
@@ -3271,6 +3290,7 @@ vere - prawdziwy (rzeczywisty, szczery)
 verme - robak  
 vermute - wermut  
 • version - wersja (wariacja,edycja,wydanie)  
+veruke - brodawka  
 vespe - pszczoła lub osa  
 vesponide - ul (gniazdo pszczół lub os)  
 veste - zachód (zachodni)  
@@ -3444,62 +3464,37 @@ yune moke - młode drzewo
 
 ## Z  
 
-za - z (od)  
 zage - obudzić, budzić  
 zage - przebudzony, przytomny  
-zaye - wzywać (wezwać, dodawać, dodać)  
-zaye - obecny, teraźniejszy, aktualny, bieżący, współczesny  
-zayia - teraźniejszość, współczesność  
-zayu - pojawić się  
-zayu - istnieć (być obecnym)  
-zaideno - dziś, dzisiaj  
-zaizaman - teraźniejszość, współczesność (teraz)  
-zaizamane - bieżący (aktualny, obecny)  
-• dezaye - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
-Zayeria - Algieria  
 zaitun - oliwka  
-zake - kurtka  
 zalime - złośliwy, okrutny  
-zalimi reger - tyran  
-zalimia - tyrania  
-zame - kolekcjonować, zebrać, zbierać  
-• zamia - kolekcja, zbiór; zgromadzenie, zebranie  
+• zalimia - tyrania  
+zalime reger - tyran  
 zaman - czas (epoka,era)  
 Zambia - Zambia  
-zampe - skoczyć, skakać  
-zamul - czapetka kuminowa  
-zanel - okno  
-zanelovel - zasłona, kurtyna  
 zange - umiejętny (sprawny, zręczny)  
 zanger - rzemieślnik  
 zar - niebezpieczeństwo (szansa; losowy)  
 • dusozar - zły los  
 zarkube - kość do gry  
-Zardus - Zaratusztra  
-zardusisme - zaratusztrianizm  
-zardusiste - zaratrustianin  
-zau - jęczmień  
-zebe - kieszeń  
+Zardux - Zaratusztra  
+zarduxisme - zaratusztrianizm  
+zarduxiste - zaratrustianin  
+zay - istnieć (być obecnym)  
+zayia - teraźniejszość, współczesność  
+• zayife - wzywać (wezwać, dodawać, dodać)  
+• azay - pojawić się  
+• dezay - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
+zay zaman - teraźniejszość, współczesność (teraz)  
+zay zaman su - bieżący (aktualny, obecny)  
+Zayeria - Algieria  
 zebra - zebra  
-zeyil - brodawka  
-zeinisme - dźinizm, dżinizm  
-zeke - pożyczyć  
-zekodone - pożyczać komuś (pożyczyć komuś)  
-zekogete - pożyczać (pożyczyć)  
-zekologe - zapożyczenie (wyraz obcy)  
-zeng - walka, wojna  
-zenge - militarny, wojskowy, wojenny  
-• zenger - wojownik, bojownik  
-zengosute - sztuka walki  
-zere - zero, nic, żaden  
 • rezerve - rezerwacja (rezerwować, zarezerwować)  
 zigzage - zygzag  
 zikure - ziggurat  
 Zimbabve - Zimbabwe  
-zin - prawdziwy (rzeczywisty, szczery)  
 zine - zdrada małżeńska, cudzołóstwo  
 zinke - cynk  
-zinze - imbir  
 zipe - zamknąć zamkiem błyskawicznym  
 • ziper - zamek błyskawiczny  
 zire - kumin (kmin)  

@@ -16,7 +16,7 @@ acordado - zage
 acordo (tratado, contrato) - trete  
 acordo (tratado,contrato) - kontrate  
 acordo - samrayia  
-actuel (courant) - zaizamane  
+actuel (courant) - zay zaman su  
 actínio - acinium  
 adesivo - glutograf  
 adjetivo - sifloge  
@@ -44,6 +44,7 @@ alcaravia (cariz) - karau
 alcaçuz (regaliz) - sus  
 aldeia (vila) - vilaje  
 alface - letis  
+alfarroba - karube  
 alfinete - pin  
 alga - alga  
 algodão - goton  
@@ -51,6 +52,7 @@ alho - lasun
 alho-porro - porei  
 aligátor (jacaré) - kortokrokodil  
 almirante - haiamirer  
+almofada (coxim) - kusen  
 alpinista (montanhista) - montaner  
 altar - puzomeze  
 alumínio - aluminium  
@@ -269,7 +271,7 @@ cereja - cerize
 cerveja - bir  
 cerâmica - poteria  
 cerâmico - serame  
-cevada - zau  
+cevada - jau  
 Champagne - sampan  
 champaña - sampan vin  
 chance - canse  
@@ -349,7 +351,7 @@ corpo - bode
 corredor - korer  
 correr - kore  
 correto (justo) - sahe  
-cortina - zanelovel  
+cortina - janelovel  
 cosmo - kosmia  
 cosmonauta - kosmonaver  
 costa - haitate  
@@ -363,7 +365,7 @@ cristal - bilor
 croassã - kruasante  
 crocodiliano - krokodil  
 crocodilo - longokrokodil  
-cromo - zamokarde  
+cromo - jamokarde  
 cronómetro - durometrer  
 cruz - krus  
 crème - krem  
@@ -395,7 +397,7 @@ damasco (abricó) - barkoke
 dano (avaria) - avar  
 danês - dane  
 darmstádio - darmositium  
-de - za  
+de - de  
 de luxo - deluxe  
 dedo - angul  
 deitar - kuse  
@@ -467,6 +469,7 @@ efeito - exfete
 efeito colateral - parafete  
 efetuar (efeito) - asar  
 Egipto (Egito) - Misria  
+ei - hei  
 einstânio - ainstainium  
 elemento - em  
 elemento químico - kimium  
@@ -479,8 +482,8 @@ elogio - euloge
 embalar - lifafe  
 emoticon (emoji) - emoze  
 emoçao - emos  
-emprestar (pedir emprestado) - zeke  
-emprestar - zekodone  
+emprestar (pedir emprestado) - jeke  
+emprestar - jekodone  
 encarar (afrontar; vérsus) - verse  
 encontrar - mite  
 endereço - adres  
@@ -755,12 +758,12 @@ itérbio - yterbium
 
 jade - giuke  
 jaguatirica (ocelote) - oselote  
-jambolão (jambo) - zamul  
-janela - zanel  
+jambolão (jambo) - jambul  
+janela - janel  
 Japão - Nipon  
 jarra (jarro) - pote  
 Javé (Jeová) - yahve  
-jengibre - zinze  
+jengibre - jinje  
 jihadista - gihadiste  
 joelho - gute  
 jogo de tabuleiro - banogem  
@@ -1098,7 +1101,7 @@ patógeno - patogener
 pausa - pauze  
 paz - pace  
 pederneira - hogoseke  
-pedir emprestado - zekogete  
+pedir emprestado - jekocepe  
 pedra - seke  
 pedra preciosa (gema) - bauseke  
 pedregulho - daiseke  
@@ -1159,7 +1162,6 @@ porto - porte
 porto marítimo - haiporte  
 Porto Rico - Portoriko  
 porto-riquenho - portorike  
-portugali - pandunia  
 possível - able  
 poste (estaca) - baton  
 posterior - postre  
@@ -1189,8 +1191,8 @@ programa - program
 projeto - projete  
 projeto - projetaje  
 projeto - projete  
-projeção - lancograf  
-projétil - lancite  
+projeção - jetografe  
+projétil - jetaje  
 prolongado - longodure  
 promessa (voto) - vode  
 promécio - prometium  
@@ -1278,6 +1280,7 @@ repetição - ri-
 repouso - repause  
 repórter - reporter  
 reserva - rezerve  
+resfiado (gripe) - zukam  
 resposta - gavabe  
 resto - reste  
 reto - orte  
@@ -1497,6 +1500,7 @@ túlio - tulium
 
 ## U  
 
+uau - va  
 uau - vah  
 um (1) - un  
 um ao outro - semon  
@@ -1534,7 +1538,7 @@ verdura - coi
 verme - verme  
 vermelho - lale  
 vermute - vermute  
-verruga - zeyil  
+verruga - veruke  
 verão - garmomosim  
 vestir - fuke  
 vez - mar  

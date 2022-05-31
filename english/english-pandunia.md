@@ -165,7 +165,7 @@ anvil - metalbede
 any (whichever; arbitrary) - no ham di  
 apogee - abogee  
 appeal (drive to oneself) - apele  
-appear - zayu  
+appear - azay  
 appearance (looks; seem) - rupe  
 append (hang to) - apende  
 appendix - apendaje  
@@ -326,7 +326,7 @@ barbarian - barbar
 barbecue (grill) - kababe  
 Barbuda - Barbuda  
 barium - barium  
-barley - zau  
+barley - jau  
 barometer - airbarmetrer  
 barrel (can, cask) - tong  
 base (alkali; alkaline) - alkale  
@@ -471,8 +471,8 @@ border (edge, fringe, margin, rim, side, shore, periphery) - kenar
 bored - bore  
 boredom - boria  
 boron - boron  
-borrow (lend) - zeke  
-borrow - zekogete  
+borrow (lend) - jeke  
+borrow - jekocepe  
 Bosnia and Herzegovina - Bosnia e Hercegovina  
 botany (phytology) - fitolojia  
 Botswana - Cuana  
@@ -613,6 +613,7 @@ card - karde
 care (cure) - kure  
 career (professional life) - peikari ziu  
 Caribbean - Karaibia  
+carob (St. John's bread) - karube  
 carpenter - mokozanger  
 carpet (rug) - taltexe  
 carrot - karote  
@@ -784,13 +785,13 @@ coffeepot - kafe pote
 coin - pesodiske  
 cola - kola jus  
 cola - kole  
-cold (illness) - zukam  
+cold (common cold) - zukam  
 cold - lenge  
 collaborate (work together) - konkare  
 collapse - parcotalu  
-collect (gather, bring together, assemble) - zame  
+collect (gather, bring together, assemble) - jame  
 collect fees or taxes - taxe  
-collection (congregation, assembly) - zamia  
+collection (congregation, assembly) - jamia  
 Colombia - Kolombia  
 colonialism - kolonisme  
 colonialist - koloniste  
@@ -968,11 +969,10 @@ cumin (jeera) - zire
 cumulus cloud - kumulonepe  
 cupboard (closet, cabinet, wardrobe) - almari  
 curium - kurium  
-current (contemporary, present-day) - zaizamane  
+current (contemporary, present-day) - zay zaman su  
 curse (damn, malediction) - dusdua  
-curtain - zanelovel  
+curtain - janelovel  
 curve (bend) - kurve  
-curvy (curved) - kurvi  
 cushion (pillow) - kusen  
 custom (tradition, practice, convention; conventional, customary, traditional) - rite  
 customer (client, patron) - klien  
@@ -1269,7 +1269,6 @@ energy - energe
 engine (motor) - moter  
 engineer - enjener  
 England - Englia  
-engli - pandunia  
 English - engle  
 English daisy - englomargarite  
 English oak - europobalute  
@@ -1346,7 +1345,7 @@ excursion - exkurse
 exercise - lense  
 exhume - exhume  
 exist (be out there) - exese  
-exist (be present) - zayu  
+exist (be present) - zay  
 exist - ese  
 exit door - cutomun  
 exogeneous - exogene  
@@ -1443,7 +1442,7 @@ field (square, plaza, maidan) - meden
 fiery - hoge  
 fiever - febre  
 fight (war) - bele  
-fight (war, battle, combat) - zeng  
+fight (war, battle, combat) - jeng  
 figure (representation) - figur  
 Fiji - Fizi  
 file (record, collection of data) - dataje  
@@ -1546,7 +1545,7 @@ Friday - limyom
 friend (friendly, kind, nice, gentle) - doste  
 friendship - dostia  
 frog - krokroke  
-from (since, because) - za  
+from (since, because) - de  
 frost - hima rose  
 fruit - pal  
 frying pan - tave  
@@ -1625,7 +1624,7 @@ ghoul - gulogui
 giant onion - dailasun  
 Gibraltar - Gibraltar  
 gift - don  
-ginger - zinze  
+ginger - jinje  
 ginseng - jensen  
 giraffe - ziraf  
 girl - yune fem  
@@ -1795,6 +1794,7 @@ heteroromantic - aloromanse
 heterosexual - alosexe  
 hexagon - sisgon  
 hexahedron (cube) - sisfas  
+hey (exclamation to get attention) - hei  
 hide (conceal) - sire  
 high (tall) - gave  
 high technology (hi-tech) - gautehnia  
@@ -1817,7 +1817,7 @@ hobby - hobe
 hobbyist - hobiste  
 hockey - hoke  
 hoe - cope  
-hold together - zamohafize  
+hold together - jamohafize  
 hole - kong  
 holiday - festoden  
 holism - holisme  
@@ -1899,7 +1899,7 @@ illusion (hallucination) - falsvide
 illustrator (graphic artist) - grafer  
 image processing - grafoprocese  
 image projector - grafoprojetor  
-image projector - lancografer  
+image projector - jetografor  
 imagine (fantasize; fantasy, imagination) - fantas  
 imitator (mime) - mimer  
 immigrant - inmigrer  
@@ -2023,13 +2023,13 @@ ivory - gaja dante
 ## J  
 
 jackal - xakal  
-jacket - zake  
+jacket - jake  
 jade - giuke  
 jailer (imprisoner) - prizoner  
-Jainism - zeinisme  
+Jainism - jenisme  
 Jakarta - Jakarta  
 Jamaica - Jamaika  
-jamul (jambul, rose apple) - zamul  
+jamul (jambul, rose apple) - jambul  
 January - unolun  
 Japan - Nipon  
 Japanese - nipone  
@@ -2060,7 +2060,7 @@ juggle - jongle
 juggler - jongler  
 juice - jus  
 July - cetolun  
-jump - zampe  
+jump - jampe  
 junction - juntion  
 juncture (junction,intersection) - junture  
 June - sislun  
@@ -2179,7 +2179,7 @@ leftover (residue, vestige) - las
 leg - futoxake  
 lemon - limon  
 lemonade - limon jus  
-lend - zekodone  
+lend - jekodone  
 length - longia  
 lengthen (prolong) - longe  
 lens - lense  
@@ -2246,7 +2246,7 @@ liver - hepate
 livermorium - livermorium  
 lizard - saure  
 llama - liame  
-loanword - zekologe  
+loanword - jekolexe  
 local - loke  
 lock (fasten) - sore  
 lock (fastener) - sor  
@@ -2366,7 +2366,7 @@ marry - game
 Mars - Marse  
 marsh (bog, swamp, morass) - fanostan  
 Marshall Islands - Marshal nesia  
-martial art - zengosute  
+martial art - jengoxute  
 marvel (wonder; amaze, astonish) - ajibe  
 mask (camouflage) - maske  
 mason (stonemason, stonecutter) - sekozanger  
@@ -2455,7 +2455,7 @@ middle (center) - zung
 middle (the part in between) - mide  
 Midi Pandunia - Midi Pandunia  
 Midsummer Day - garmomosimmedi den  
-military (martial, warlike) - zenge  
+military (martial, warlike) - jenge  
 milk (draw milk) - tira milke  
 milk - milke  
 milk thistle - milkokardon  
@@ -3050,7 +3050,7 @@ pliers (pincers) - pinser
 plum (prune) - plum  
 Pluto (dwarf planet) - Pluton  
 plutonium - plutonium  
-pocket - zebe  
+pocket - jebe  
 podzol - huidarte  
 poem - sir  
 poet - sirer  
@@ -3134,10 +3134,9 @@ pregnant - hamile
 prenatal - prenatal  
 preposition - prepoze  
 presence (existence) - zayia  
-present (existing) - zaye  
-present (here, now, current situation) - zai  
-present time (now) - zaizaman  
-presenty (currently, now) - zayo  
+present (here, now, current situation) - zayaje  
+present time (now) - zay zaman  
+presenty (currently, now) - a zay  
 president - prezidente  
 president - presidente  
 press (pressure) - prese  
@@ -3170,13 +3169,11 @@ professor - profeser
 program (set of structured activities) - program  
 programmer (coder) - programer  
 progress (stride forward, advance, go forward) - progrese  
-project (cast) - lancografe  
+project (cast; projection image) - jetografe  
 project (endeavour) - projete  
 project (endeavour) - projetaje  
 project (forecast) - projete  
-projectile (missile) - lancite  
-projectile (thrown) - lance  
-projection (image) - lancograf  
+projectile (missile) - jetaje  
 projector - projetor  
 promethium - prometium  
 promise (vow, oath, pledge) - vode  
@@ -3272,7 +3269,7 @@ react - reate
 reaction - reation  
 read - duge  
 ready (prepared; prepare) - rede  
-real (authentic, genuine) - zin  
+real (authentic, genuine) - jin  
 real (genuine) - rel  
 realism - relisme  
 realist - reliste  
@@ -3321,7 +3318,7 @@ religion (worship) - din
 reluctant - anice  
 remain (stay; rest, remainder) - reste  
 remember (recall) - meme  
-remove (delete, dispose, erase) - dezaye  
+remove (delete, dispose, erase) - dezay  
 remove (delete,dispose,erase) - depoze  
 remove (take away) - kitane  
 renew (make new, renovate) - renove  
@@ -3378,6 +3375,7 @@ right (entitlement) - hake
 right angle - ortogon  
 right hand - raite  
 right hand side - raite  
+right? (isn't it?) - ne  
 rightist (right-winger) - raitiste  
 ring (sports or exhibition arena) - ringar  
 ring (toll, clang) - dange  
@@ -3834,7 +3832,7 @@ sultanate - sultania
 sum (total) - sum  
 sum up (add together) - sume  
 summer - garmomosim  
-summon (add, spawn) - zaye  
+summon (add, spawn) - zayife  
 sun - sol  
 Sunday - cetyom  
 sunflower - soloful  
@@ -3994,7 +3992,6 @@ thorn tree (acacia) - babul
 thousand (kilo-) - kile  
 three (3) - tri  
 throat (windpipe, gullet, pharynx) - gale  
-throw (launch) - lance  
 throw up (vomit, regurgitate) - retrogule  
 thrust (throw,cast) - jete  
 thulium - tulium  
@@ -4023,7 +4020,7 @@ title (headline) - temnam
 to (toward, till, until, for) - ga  
 toast (toasted bread) - roste pang  
 tobacco - tabake  
-today - zaideno  
+today - a zay den  
 together (jointly, mutually) - kono  
 Togo - Togo  
 toilet (WC) - tualete  
@@ -4065,7 +4062,7 @@ tractor - trator
 trade (buy and sell) - vendosope  
 trade (commerce) - vendosope  
 trader (merchant) - vendosoper  
-trading card - zamokarde  
+trading card - jamokarde  
 tragedy - tragodia  
 tragicomic - tragokomi  
 train - tren  
@@ -4136,7 +4133,7 @@ two (2) - du
 type (kind, genre) - tipe  
 typewriter - kitabomaxin  
 typology - tipolojia  
-tyrant (despot) - zalimi reger  
+tyrant (despot) - zalime reger  
 
 ## U  
 
@@ -4283,9 +4280,9 @@ want (desire, wish; longing) - vol
 war - gere  
 warm (hot) - garme  
 warp - gingolin  
-warrior (fighter) - zenger  
+warrior (fighter) - jenger  
 warrior (soldier) - gerer  
-wart - zeyil  
+wart (verruca) - veruke  
 wash - vaxe  
 washing machine - vaxomaxin  
 Washington D
@@ -4359,8 +4356,8 @@ wilderness - janglia
 will (volition, desire) - ice  
 will (want) - ice  
 win (triumph, succeed, accomplish) - senge  
-window - zanel  
-window frame - zanelfrem  
+window - janel  
+window frame - janelfrem  
 wine - vin  
 winery - vineria  
 wing - panke  
@@ -4393,8 +4390,8 @@ world language - dunia lingue
 worm - verme  
 worship (reveration) - puze  
 worship (revere) - puze  
+wow! (gee!) - va  
 wow! (gee!) - vah  
-wow! (gee!) - vau  
 wrap (wrapping, envelope, covering) - lifafe  
 write (writing) - kitabe  
 
@@ -4434,7 +4431,7 @@ yttrium - ytrium
 
 Zambia - Zambia  
 zebra - zebra  
-zero (none) - zere  
+zero (none) - siro  
 zetta- - zeta  
 ziggurat - zikure  
 zigzag - zigzage  
@@ -4452,8 +4449,8 @@ zoological - zoolojike
 zoology - zoolojia  
 zoophily - zoofilia  
 zootoxin - zootoxe  
-Zoroaster - Zardus  
-Zoroastrian - zardusiste  
-Zoroastrianism - zardusisme  
+Zoroaster - Zardux  
+Zoroastrian - zarduxiste  
+Zoroastrianism - zarduxisme  
 zucchini - lilkaboge  
 Zulu - Zulu  

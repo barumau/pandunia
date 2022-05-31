@@ -40,6 +40,8 @@ The sentence **mi fa huru yemon** would mean the same thing but it would include
 
 a sababe de - because  
 a - by (at, in, on)  
+a zay - presenty (currently, now)  
+a zay den - today  
 a ke - where  
 a le - there  
 a line - online  
@@ -676,6 +678,7 @@ dau - way (road)
 • davisme - Taoism (Daoism)  
 • daviste - Taoist  
 dauban - road sign  
+de - from (since, because)  
 debu - must  
 deci - deci-  
 decibel - decibel  
@@ -1431,6 +1434,7 @@ Havai - Hawaii
 Havai nesia - Hawaiian archipelago  
 have - atmosphere (air, wind)  
 he - huh? (pardon?)  
+hei - hey (exclamation to get attention)  
 helium - helium  
 helene - Greek (Hellenic)  
 Helenia - Greece  
@@ -1602,14 +1606,36 @@ ivia - tendency (inclination)
 
 ## J  
 
+jake - jacket  
 Jakarta - Jakarta  
+jame - collect (gather, bring together, assemble)  
+• jamia - collection (congregation, assembly)  
+jamohafize - hold together  
+jamokarde - trading card  
 Jamaika - Jamaica  
+jambul - jamul (jambul, rose apple)  
+jampe - jump  
+janel - window  
+janelfrem - window frame  
+janelovel - curtain  
 jangle - wild (feral, savage)  
 janglia - wilderness  
 jangle van - jungle  
+jau - barley  
 jaze - jazz  
+jebe - pocket  
+jeke - borrow (lend)  
+jekocepe - borrow  
+jekodone - lend  
+jekolexe - loanword  
+jenisme - Jainism  
+jeng - fight (war, battle, combat)  
+jenge - military (martial, warlike)  
+• jenger - warrior (fighter)  
+jengoxute - martial art  
 Jerzi - Jersey  
 jete - thrust (throw,cast)  
+• jetaje - projectile (missile)  
 • ajetive - adjective  
 • exjete - eject (throw out)  
 • injete - injection  
@@ -1619,6 +1645,10 @@ injete - inject
 • projetor - projector  
 • rejete - reject (throw back)  
 • subjete - subject  
+jetografor - image projector  
+jetografe - project (cast; projection image)  
+jin - real (authentic, genuine)  
+jinje - ginger  
 jo - which (who, that)  
 joke - joke  
 joker - joker  
@@ -1767,6 +1797,7 @@ karse - rough (coarse)
 karsolimon - makrut lime (kaffir lime)  
 Kartul - Georgia (Republic of Georgia)  
 karvan - caravan (convoy)  
+karube - carob (St. John's bread)  
 kas - event (case, instance)  
 kas - cash box  
 kaser - cashier  
@@ -2041,11 +2072,10 @@ kurse - go (going; course)
 • rikurse - recur (go again)  
 • transkurse - go through (go by)  
 kurve - curve (bend)  
-• kurvi - curvy (curved)  
 kuse - lay (lay down)  
 kusu - lie (lie down)  
-kusen - cushion (pillow)  
 kusloke - berth (couchette)  
+kusen - cushion (pillow)  
 Kuvaitia - Kuwait  
 
 ## L  
@@ -2065,12 +2095,6 @@ lalsalmon - sockeye salmon
 lama - lama  
 lampe - lamp  
 LAN (loke aria nete) - LAN  
-lance - throw (launch)  
-lance - projectile (thrown)  
-lancograf - projection (image)  
-lancografe - project (cast)  
-lancografer - image projector  
-lancite - projectile (missile)  
 langan - banister (handrail)  
 Lanka - Sri Lanka (Ceylon)  
 lantanium - lanthanum  
@@ -2545,7 +2569,6 @@ monte - mountain (mount,hill)
 morfe - morph  
 morfem - morpheme  
 morfeme - morpheme  
-pandunia - engli  
 Moris - Mauritius  
 morte - death  
 morte - kill  
@@ -2674,6 +2697,7 @@ nautile - nautilus
 naze - nose (nasal)  
 nazisme - Nazism  
 naziste - Nazi  
+ne - right? (isn't it?)  
 Nederlandi Antil - Netherlands Antilles  
 Nederlandia - Netherlands  
 nefre - kidney  
@@ -3642,6 +3666,7 @@ sirke - circle (round)
 sirke - surround (encircle)  
 sirke - round (circular)  
 sirkoseke - cobblestone  
+siro - zero (none)  
 sisa - impale (stab, skewer)  
 sise - six (6)  
 sisfas - hexahedron (cube)  
@@ -4089,6 +4114,7 @@ uzable - usable (available)
 uzer - user  
 uzernam - username  
 Uzbekia - Uzbekistan  
+va - wow! (gee!)  
 vacin - vaccine  
 vade - valley  
 vadosusan - lily of the valley  
@@ -4123,7 +4149,6 @@ vase - oasis
 vate - thing (object, item, matter)  
 vat - watt  
 Vatikan - Holy See (Vatican City State)  
-vau - wow! (gee!)  
 vava - weep (cry)  
 vava bebe - crybaby  
 vaxe - wash  
@@ -4176,6 +4201,7 @@ verse - turn toward (direct, flip; versus)
 • kontroverse - controversy    
 • perverse - pervert (twist; perverse)  
 • reverse - reverse (invert, direct back; backwards)  
+veruke - wart (verruca)  
 vespe - bee or wasp  
 vesponide - bee nest (beehive, wasp's nest)  
 veste - west (western)  
@@ -4386,71 +4412,42 @@ yune moke - sapling
 
 ## Z  
 
-za - from (since, because)  
 zage - wake (make awake)  
 zage - awake  
 zagu - wake (become awake)  
-zai - present (here, now, current situation)  
-zaye - summon (add, spawn)  
-zaye - present (existing)  
-zayia - presence (existence)  
-zayo - presenty (currently, now)  
-zayu - appear  
-zayu - exist (be present)  
-zaideno - today  
-zaizaman - present time (now)  
-zaizamane - current (contemporary, present-day)  
-• dezaye - remove (delete, dispose, erase)  
-Zayeria - Algeria  
 zaitun - olive  
-zake - jacket  
 zalime - mean (cruel)  
-zalimi reger - tyrant (despot)  
-zalimia - cruelty (tyranny, despotism)  
-zame - collect (gather, bring together, assemble)  
-• zamia - collection (congregation, assembly)  
-zamohafize - hold together  
-zamokarde - trading card  
+• zalimia - cruelty (tyranny, despotism)  
+zalime reger - tyrant (despot)  
 zaman - time (age, period, era, epoch, term)  
 Zambia - Zambia  
-zampe - jump  
-zamul - jamul (jambul, rose apple)  
 zane - know (be acquainted or familiar with)  
-zanel - window  
-zanelfrem - window frame  
-zanelovel - curtain  
 zange - crafty (dexterous)  
 zanger - artisan (craftsman)  
 zar - hazard (chance; random)  
 • dusozar - misfortune (bad luck)  
 zarkube - die (dice)  
-Zardus - Zoroaster  
-zardusisme - Zoroastrianism  
-zardusiste - Zoroastrian  
-zau - barley  
-zebe - pocket  
+Zardux - Zoroaster  
+zarduxisme - Zoroastrianism  
+zarduxiste - Zoroastrian  
+zay - exist (be present)  
+zayia - presence (existence)  
+• zayaje - present (here, now, current situation)  
+• zayife - summon (add, spawn)  
+• azay - appear  
+• dezay - remove (delete, dispose, erase)  
+zay zaman - present time (now)  
+zay zaman su - current (contemporary, present-day)  
+Zayeria - Algeria  
 zebra - zebra  
-zeyil - wart  
-zeinisme - Jainism  
-zeke - borrow (lend)  
-zekodone - lend  
-zekogete - borrow  
-zekologe - loanword  
-zeng - fight (war, battle, combat)  
-zenge - military (martial, warlike)  
-• zenger - warrior (fighter)  
-zengosute - martial art  
-zere - zero (none)  
 • rezerve - reserve (book; reservation, booking, withholding)  
 zeta - zetta-  
 zeze - fly  
 zigzage - zigzag  
 zikure - ziggurat  
 Zimbabve - Zimbabwe  
-zin - real (authentic, genuine)  
 zine - adultery (infidelity)  
 zinke - zinc  
-zinze - ginger  
 zipe - zip up  
 • ziper - zipper  
 zire - cumin (jeera)  
@@ -4477,7 +4474,7 @@ zor - force (violence)
 zorsexe - rape (forced sex)  
 zuke - ethnic (ethnicity)  
 zukomede - interethnic  
-zukam - cold (illness)  
+zukam - cold (common cold)  
 Zulu - Zulu  
 zumurude - emerald  
 zung - middle (center)  

@@ -295,6 +295,7 @@ date - данные
 • dataje - файл  
 datobanke - база данных  
 dauban - табличка с названием улицы  
+de - из (от)  
 defkaske - доспехи  
 defoban - щит  
 dege - получить  
@@ -549,6 +550,7 @@ Hartum - Хартум
 hasis - гашиш  
 hate - до  
 hatre - опасность  
+hei - эй  
 helium - гелий  
 helisbabul - акация кручёная  
 helisviman - вертолёт  
@@ -610,10 +612,16 @@ ivia - тенденция
 
 ## J  
 
+jambul - джамболан  
+janel - окно  
+janelovel - штора (гардина)  
 jangle - дикий  
 jangle van - джунгли  
+jau - ячмень  
+• jetaje - снаряд  
 • projete - проект  
 • projetaje - проект  
+jinje - имбирь  
 jongle - жонглировать  
 • jongler - жонглёр  
 • juder - судья  
@@ -680,6 +688,7 @@ karme - работа
 karote - морковь  
 karse - грубой  
 karsolimon - лима (каффир-лайм)  
+karube - рожковое дерево  
 kaske - оболочка (кора, панцирь)  
 katoglutoban - буфер обмена  
 katane - меч  
@@ -780,7 +789,6 @@ lalorange - мандарин
 lalsalmon - нерка (красница)  
 lama - лама (религиозный учитель в тибетском буддизме)  
 lampe - лампа  
-lancite - снаряд  
 lantanium - лантан  
 lasun - чеснок  
 late - сторона (бок)  
@@ -954,7 +962,6 @@ molseke - жёрнов
 molidenium - молибден  
 moluske - моллюск  
 • montaner - альпинист (скалолаз)  
-pandunia - rusi  
 • posmortal - после смерти  
 mos - мох  
 mosim - время года (сезон)  
@@ -1528,6 +1535,7 @@ uranium - уран
 US
 ##   
 
+va - вау!  
 vadosusan - ландыш  
 vaf - собака  
 vafle - вафля  
@@ -1543,7 +1551,6 @@ van: - лес
 vanadium - ванадий  
 vase - oasis  
 vate - статья (предмет)  
-vau - вау!  
 vava bebe - плакса  
 vaxe - мыть  
 vaxomaxin - стиральная машина  
@@ -1565,6 +1572,7 @@ vermute - вермут
 • exverse - экстраверт  
 • extroverse - экстраверт  
 • introverse - интроверт  
+veruke - бородавка  
 vestogoril - западная горилла  
 veze - тяжёлый  
 vezu - весить  
@@ -1664,26 +1672,19 @@ yune moke - саженец
 
 ## Z  
 
-za - из (от)  
 zage - acordado  
 zagu - проснуться  
-zaizamane - actual  
-zalimi reger - тиран (деспот)  
+zalime reger - тиран (деспот)  
 zaman - период (эпоха)  
 Zambia - Замбия  
-zamul - джамболан  
-zanel - окно  
-zanelovel - штора (гардина)  
 zarkube - кость (кубик)  
-Zardus - Зороастр  
-zardusiste - зороастризм  
-zau - ячмень  
+Zardux - Зороастр  
+zarduxiste - зороастризм  
+zay zaman su - actual  
 zebra - зебра  
-zeyil - бородавка  
 zeze - двукрылое  
 Zimbabve - Зимбабве  
 zinke - цинк  
-zinze - имбирь  
 zire - тмин  
 ziraf - жираф  
 zirkon - циркон  

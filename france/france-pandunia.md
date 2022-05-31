@@ -322,12 +322,13 @@ Caraïbes - Karaibia
 carbone - karbe  
 cardon - kardonkarcof  
 carotte - karote  
+caroube - karube  
 carreau (tuile) - tail  
 carrière - peikari ziu  
 carte - karde  
 carte - metrograf  
 carte de crédit - krede karte  
-carte à collectionner - zamokarde  
+carte à collectionner - jamokarde  
 cartographie - metrografia  
 cascade (chute d'eau) - suipade  
 caséine - kizoproten  
@@ -459,6 +460,7 @@ courgette - lilkaboge
 courir - kore  
 couronne - koron  
 cousin - cinbrusben  
+coussin - kusen  
 couteau - caku  
 coutume (ordinaire, habituel, normal) - ade  
 couvrir - dake  
@@ -502,7 +504,7 @@ danois - dane
 dans le sens antihoraire - rotolefto  
 darmstadtium - darmositium  
 dauphin - dolfin  
-de - za  
+de - de  
 de luxe - deluxe  
 demain - posdeno  
 demander (question) - sual  
@@ -585,7 +587,7 @@ einsteinium - ainstainium
 elfe - elfe  
 empreinte de pied - futomarke  
 empreinte digitale - angulmarke  
-empruntre - zekogete  
+empruntre - jekocepe  
 en arrière - retro  
 en avant - proo  
 en ligne - a line  
@@ -647,7 +649,7 @@ faute (erreur; erroné) - galte
 favori (préféré) - profilaje  
 favoritisme - profilisme  
 fente (fissure, fêlure) - krake  
-fenêtre - zanel  
+fenêtre - janel  
 fer - fer  
 fermenter - biomute  
 fermer - kluze  
@@ -684,7 +686,6 @@ fougères - parne
 fourmi - murce  
 fragment - parce  
 frais - taze  
-franci - pandunia  
 francium - fransium  
 francophone - fransofone  
 francophonie - Fransofonia  
@@ -711,7 +712,7 @@ genre grammatical - lingue ginse
 geographie - geografia  
 Germanie - Germania  
 germanium - germanium  
-gingembre - zinze  
+gingembre - jinje  
 giraffe - ziraf  
 glace (glacé, glacial, gelé) - ais  
 gland - balutopal  
@@ -789,6 +790,7 @@ humeur - emoshal
 humus - hume  
 hydrogène - hidre  
 hygiène - salsafia  
+hé - hei  
 hélice - propelor  
 hélicoptère - helisviman  
 hélium - helium  
@@ -848,7 +850,7 @@ ivoire - gaja dante
 
 jade - giuke  
 Japon - Nipon  
-jaïnisme - zeinisme  
+jaïnisme - jenisme  
 je (me) - mi  
 jeu de société - banogem  
 jeudi - caryom  
@@ -1162,13 +1164,14 @@ ordures - laze
 oreille - or  
 organiser - nome  
 organisme - bia  
-orge - zau  
+orge - jau  
 origine (originel) - asle  
 orphelinat - yatimokan  
 orthogonal - ortogone  
 osmium - osmium  
 otite - oritis  
 ou - o  
+ouah - va  
 ouah - vah  
 oublier - dememe  
 oubliette (cul de basse-fosse) - geonici prizon  
@@ -1341,12 +1344,11 @@ professeur (enseignant) - xulaner
 profession (métier) - peikar  
 profond - fasotele  
 programme - program  
-projectile - lancite  
-projection - lancograf  
+projectile - jetaje  
 projet - projete  
 projet - projetaje  
 projet - projete  
-projeter (donner) - lancografe  
+projeter (image projection) - jetografe  
 prolongé - longodure  
 promettre (vœu , promesse) - vode  
 prométhium - prometium  
@@ -1357,17 +1359,16 @@ protactinium - protacinium
 protocole - burorite  
 protéine - proten  
 prune - plum  
-prune de Java - zamul  
+prune de Java - jambul  
 précieux - bau  
 précurseur - prekurser  
 précéder - precese  
 préférer - prefere  
 préférer - profile  
 prénatal - prenatal  
-présent - zaye  
 prévoir (anticiper) - previde  
-prêter (empruntre) - zeke  
-prêter - zekodone  
+prêter (empruntre) - jeke  
+prêter - jekodone  
 psychologie - ruhlojia  
 psyché - ruh  
 pyramide - piram  
@@ -1418,10 +1419,11 @@ reste - reste
 retour (retourner, revenir; remettre) - retre  
 revenir - revene  
 rhodium - rodium  
+rhume - zukam  
 rhythme - ritim  
 rhénium - renium  
 riche - rice  
-rideau - zanelovel  
+rideau - janelovel  
 rime - rim  
 ring (manège) - ringar  
 rire - hahe  
@@ -1725,7 +1727,7 @@ verbe - karloge
 vermouth - vermute  
 verre - kance  
 verre coloré - rangi kance  
-verrue - zeyil  
+verrue - veruke  
 verser (face á) - verse  
 vert - luge  
 veuve - vidou  
@@ -1791,9 +1793,9 @@ zone - zone
 zoo - zooparke  
 zoologie - zoolojia  
 zoologique - zoolojike  
-Zoroastre - Zardus  
-zoroastrien - zardusiste  
-zoroastrisme - zardusisme  
+Zoroastre - Zardux  
+zoroastrien - zarduxiste  
+zoroastrisme - zarduxisme  
 zoulou - Zulu  
 zèbre - zebra  
 Égypte - Misria  
@@ -1854,5 +1856,6 @@ zèbre - zebra
 être - si  
 être couché - kusu  
 être humain - human  
+être présent - zay  
 œil - oke  
 œuvre - ature  

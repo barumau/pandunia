@@ -51,7 +51,7 @@ ainoa (ainut) - unike
 ainoastaan (vain) - uniko  
 aisti - sense  
 aistia - sense  
-aito - zin  
+aito - jin  
 aivastaa (atsii!) - aci  
 aivokalvo - meninge  
 aivokalvontulehdus - meningitis  
@@ -111,6 +111,7 @@ amhara (etiopialainen kansa ja kieli) - Amare
 amiraali - haiamirer  
 ammatti - peikar  
 ammattilainen - peikarer  
+ammus - jetaje  
 ampeeri - amper  
 ampulli - ampul  
 anaerobinen - anairobike  
@@ -600,17 +601,17 @@ Havaijin saaret - Havai nesia
 he - yemon  
 hedelmä - pal  
 hei (haloo) - halou  
+hei - hei  
 heidän - yemon su  
 heijastaa (peilata) - mire  
 heijastaa (taittaa takaisin) - reflexe  
-heijastaa kuvia (projisoida) - lancografe  
+heijastaa kuvia (projisoida; projektio) - jetografe  
 heijastin - reflexor  
 heijastus - reflexon  
 heikko - anbale  
 heimo - tribe  
 heinä - gancau  
 heinäkuu - cetolun  
-heittää (paiskata) - lance  
 helikopteri - helisviman  
 helium - helium  
 helmi - lul  
@@ -722,7 +723,7 @@ hygienia (puhtaus) - salsafia
 hyi! (pyh!) - fui  
 hylkiö (paaria) - paraye  
 hymiö (emoji) - emoze  
-hypätä (hyppiä) - zampe  
+hypätä (hyppiä) - jampe  
 hyrrä - rototope  
 hyttynen (sääski) - moskite  
 hyve - bondeke  
@@ -775,9 +776,9 @@ ihmeteltävä - mirable
 ihminen - human  
 ihmiskunta - humania  
 ihmisoikeudet - human hake  
-ikkuna - zanel  
-ikkunankehys (ikkunanpuite) - zanelfrem  
-ikkunaverhot - zanelovel  
+ikkuna - janel  
+ikkunankehys (ikkunanpuite) - janelfrem  
+ikkunaverhot - janelovel  
 ikä - sen  
 ilkeä (julma) - zalime  
 illallinen - suaryam  
@@ -816,7 +817,7 @@ infrastruktuuri (perusrakenteet) - infrostruture
 inhimillinen - humane  
 inhokki (inhotus) - anamike  
 inhota - aname  
-inkivääri - zinze  
+inkivääri - jinje  
 insinööri - enjener  
 internet - internete  
 intertekstuaalinen - intertexte  
@@ -873,7 +874,7 @@ iäkäs - sene
 ja (sekä) - e  
 jade - giuke  
 Jahve (Jehova) - yahve  
-jainalaisuus - zeinisme  
+jainalaisuus - jenisme  
 jakaa (jaella) - fade  
 jakaa (leikata) - tome  
 jakaa yhteiseksi - komune  
@@ -884,7 +885,7 @@ jalka (jalkaterä) - fute
 jalkapallo - futobol  
 jalokivi - bauseke  
 Jamaika - Jamaika  
-jambolaani - zamul  
+jambolaani - jambul  
 jano - suiyau  
 Japani - Nipon  
 japanilainen - nipone  
@@ -901,6 +902,7 @@ jihadismi - gihadisme
 jihadisti - gihadiste  
 jodi - yodium  
 jogurtti - yogur  
+johanneksenleipäpuu - karube  
 johtaa (ohjata) - lide  
 johtaja (pomo) - lider  
 joka (jokainen) - panun  
@@ -1027,7 +1029,7 @@ kammo (fobia) - fobia
 kamomilla - kamil  
 kampa - kang  
 kamppailu (taistelu) - gihade  
-kamppailulaji - zengosute  
+kamppailulaji - jengoxute  
 kana - kokode  
 Kanada - Kanade  
 kanava (kanaali) - kanal  
@@ -1148,7 +1150,7 @@ kerros - ceng
 kerta (vuoro) - mar  
 kertomus (tarina, saaga) - sage  
 kerubi - kerube  
-keräilykortti - zamokarde  
+keräilykortti - jamokarde  
 keskeyttää (tauottaa) - pauze  
 Keski-Afrikan Tasavalta - Zungafrike  
 keskittyminen (keskittymä) - fokus  
@@ -1293,7 +1295,7 @@ Kookossaaret - Kokos nesia
 koolapähkinä - kola pal  
 koominen (hauska) - humore  
 koominen (hauska) - komi  
-koota (kerätä) - zame  
+koota (kerätä) - jame  
 koota (rakentaa; rakennus) - bine  
 kopio (jäljennös) - kope  
 kopioida (jäljentää) - kope  
@@ -1657,7 +1659,7 @@ luolaseikkailu - dungia aventur
 luona (-lla, -ssa) - a  
 luonto - ekia  
 luonto - nature  
-luota (lähtien, -sta, -lta) - za  
+luota (lähtien, -sta, -lta) - de  
 luottamus (usko; uskottavasti, totisesti; aamen) - amen  
 luottokortti - krede karte  
 lupaava (hyvältä vaikuttava) - bonsinye  
@@ -1701,7 +1703,6 @@ läpikulku - transe
 läpikäydä (passiivin muodostava verbi) - be  
 läpileikkaus - tomografe  
 läpinäkymätön - antrasvidable  
-läsnä oleva - zaye  
 läsnäolo - zayia  
 lätty (räiskäle, pannukakku) - krepe  
 lääketiede - medikia  
@@ -1950,7 +1951,6 @@ mustekala - batosenter
 mustekynä - fontokalam  
 muta (kura, lieju) - fan  
 mutka (kurvi) - kurve  
-mutkikas - kurvi  
 mutta - ama  
 muu (toinen; muuttaa toiseksi) - ale  
 muuli - gadogude  
@@ -2048,7 +2048,7 @@ nisäkäs - mamal
 Niue - Niue  
 nobelium - nobelium  
 noin (arviolta, suunnilleen) - yago  
-nolla (ei yhtään) - zere  
+nolla (ei yhtään) - siro  
 nominatiivi - namative  
 nopea (pikainen, vauhdikas) - suge  
 nopeus (vauhti) - sugude  
@@ -2070,6 +2070,7 @@ noutopöytä (buffetti) - bufete
 noviisi (uusikko, vasta-alkaja) - novike  
 nudismi - nudisme  
 nudisti - nudiste  
+nuha (vilustuminen) - zukam  
 nukke - pupe  
 nukkua (nukkuminen, uni) - some  
 nuoli - flece  
@@ -2078,7 +2079,7 @@ nuorukainen - yunike
 nuoruus - yunia  
 nussia (panna) - code  
 nuudeli - mien  
-nykyinen (tämänhetkinen) - zaizamane  
+nykyinen (tämänhetkinen) - zay zaman su  
 nyrkkeilijä - bokser  
 nyrkkeily - bokse  
 nähdä - vide  
@@ -2099,9 +2100,9 @@ ohitettu (mennyt) - pase
 ohjaaja (pilotti, luotsi) - piloter  
 ohjelma - program  
 ohjelmoija - programer  
+oho (vau) - va  
 oho (vau) - vah  
-oho (vau) - vau  
-ohra - zau  
+ohra - jau  
 oikea (paikkansapitävä; korjata oikeaksi) - sahe  
 oikea puoli - raite  
 oikeistolainen - raitiste  
@@ -2122,7 +2123,7 @@ olla hereillä - zage
 olla jkn arvoinen - valu  
 olla jtkn mieltä (pitää jnkn) - raye  
 olla nimeltään - name  
-olla olemassa - zayu  
+olla olemassa - zay  
 olla samaa mieltä - samraye  
 olla taipuvainen - ive  
 olla vuorovaikutuksessa - interate  
@@ -2357,7 +2358,7 @@ piirros (graafi, grafiikka) - grafe
 piirustus - desen  
 pikkukaupunki - lilsite  
 pikkuruinen (mikroskooppinen) - mikre  
-pikkutakki (jakku) - zake  
+pikkutakki (jakku) - jake  
 pilaantua (raunioitua) - harabu  
 pilahvi - polau  
 pilalla (raunioina) - harabe  
@@ -2392,7 +2393,7 @@ pitäisi - selu
 pitää (tykätä, olla tyytyväinen jstkn) - suku  
 pitää jnkn (suhtautua) - fere  
 pitää parempana (pitää etusijalla) - prefere  
-pitää yhdessä - zamohafize  
+pitää yhdessä - jamohafize  
 planeetta - planete  
 plastinen (muovailtava) - plaste  
 platina - platinium  
@@ -2417,7 +2418,7 @@ pois - abe
 pois käytöstä - defunse  
 poissulkeva (eksklusiivinen) - exkluzive  
 poistaa (hävittää) - depoze  
-poistaa (hävittää) - dezaye  
+poistaa (hävittää) - dezay  
 poistaa toiminnasta - deative  
 poistaa virheitä (debugata) - degalte  
 poistua - cute  
@@ -2464,8 +2465,7 @@ profeetta - naber
 profeetta Mani - Manihai  
 professori - profeser  
 profetia - nabe  
-projektio (diakuva) - lancograf  
-projektori (videotykki, piirtoheitin) - lancografer  
+projektori (videotykki, piirtoheitin) - jetografor  
 projektori (videotykki,piirtoheitin) - grafoprojetor  
 projisoida (projisio) - projete  
 prometium - prometium  
@@ -2959,10 +2959,10 @@ sota - gere
 sotaakäyvä - belente  
 sotaisa - belike  
 sotaisuus - belikisme  
-sotilaallinen - zenge  
+sotilaallinen - jenge  
 sotilas - gunjen  
 soturi (sotilas) - gerer  
-soturi (taistelija) - zenger  
+soturi (taistelija) - jenger  
 soveltaa (sovellus) - aplike  
 sovittaa (mukauttaa) - hape  
 sranan tongo - surinami baxe  
@@ -3002,7 +3002,6 @@ suojakilpi - defoban
 suojakypärä - defkaske  
 suola - salte  
 suomalainen - suome  
-suomi - pandunia  
 Suomi - Suomia  
 suora - orte  
 suorakulma (oikokulma) - ortogon  
@@ -3049,7 +3048,7 @@ syvyys - fasotelia
 syvä - fasotele  
 syy (aiheuttaa, olla syynä) - sababe  
 syyllinen - dose  
-syylä - zeyil  
+syylä - veruke  
 Syyria - Suria  
 syyskuu - novolun  
 säde - rade  
@@ -3095,7 +3094,7 @@ taika (taikuus, magia) - magia
 taikuri - mager  
 Taipei - Taibei  
 taipumus - ivia  
-taistelu (sota) - zeng  
+taistelu (sota) - jeng  
 taitaa (olla mestari jskn) - meste  
 taitava - xute  
 taiteilija - artiste  
@@ -3155,7 +3154,7 @@ tarvita - yavu
 tasainen (tasavertainen) - pare  
 tasapaino - parvezia  
 tasavalta - komunkratia  
-tasku - zebe  
+tasku - jebe  
 taso - par  
 tasoittaa (tasata) - pare  
 tatuointi - tatu  
@@ -3374,7 +3373,7 @@ tynnyri (tölkki) - tong
 typerys (idiootti) - idiote  
 typologia - tipolojia  
 typpi - nitre  
-tyranni - zalimi reger  
+tyranni - zalime reger  
 tyrannia - zalimia  
 tyttö (nuori neito) - yune fem  
 tyttölapsi - femi pute  
@@ -3392,8 +3391,8 @@ tähti - sing
 tähtialus - astronau  
 tähtitiede (astronomia) - astronomia  
 tähtitieteilijä - astronomer  
-tämä hetki (nyt) - zaizaman  
-tänään - zaideno  
+tämä hetki (nyt) - zay zaman  
+tänään - a zay den  
 täplä (läiskä) - binde  
 tärkeä - ham  
 täydellinen (täysin hyvä) - purbone  
@@ -3625,7 +3624,6 @@ viljellä (viljely, maatalous, agraari-) - agre
 viljely - agria  
 villi (kesytön) - jangle  
 villi (villinä syntynyt) - ekogene  
-vilustuminen - zukam  
 vinyyli - vinil  
 violetti (liila) - lilake  
 virallinen - ofise  
@@ -3747,7 +3745,7 @@ yhteinen - kone
 yhteiskieli - konlingue  
 yhteiskunnallinen (sosiaalinen) - sose  
 yhteisymmärrys - samrayia  
-yhteisö (kokoontuminen, kollektiivi) - zamia  
+yhteisö (kokoontuminen, kollektiivi) - jamia  
 yhtenäinen - unite  
 yhtäjaksoinen - undure  
 yksi (1) - un  
@@ -3790,9 +3788,9 @@ yömoodi - nocomode
 
 ## Z  
 
-Zarathustra - Zardus  
-zarathustralainen - zardusiste  
-zarathustralaisuus - zardusisme  
+Zarathustra - Zardux  
+zarathustralainen - zarduxiste  
+zarathustralaisuus - zarduxisme  
 zikkurat - zikure  
 Zimbabwe - Zimbabve  
 zirkonium - zirkonium  

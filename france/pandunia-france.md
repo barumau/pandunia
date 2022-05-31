@@ -380,6 +380,7 @@ date - données
 • dataje - dossier  
 datobanke - base de données  
 dauban - panneau de signalisation  
+de - de  
 debu - devoir  
 defkaske - armure  
 defoban - bouclire  
@@ -657,6 +658,7 @@ hasis - haschich
 hate - jusque (jusqu’à)  
 hato - voire (même)  
 hatre - danger  
+hei - hé  
 helium - hélium  
 helisbabul - acacia faux-gommier  
 helisviman - hélicoptère  
@@ -722,12 +724,24 @@ ivia - tendance
 
 ## J  
 
+jamokarde - carte à collectionner  
+jambul - prune de Java  
+janel - fenêtre  
+janelovel - rideau  
 jangle - sauvage  
 janglia - nature sauvage  
 jangle van - jungle  
+jau - orge  
+jeke - prêter (empruntre)  
+jekocepe - empruntre  
+jekodone - prêter  
+jenisme - jaïnisme  
+• jetaje - projectile  
 • projete - projet  
 • projetaje - projet  
 • subjete - sujet  
+jetografe - projeter (image projection)  
+jinje - gingembre  
 jongle - jongler  
 • jongler - jongleur  
 • juder - juje  
@@ -797,6 +811,7 @@ karme - travail
 karote - carotte  
 karse - rêche (rugueux, gros)  
 karsolimon - combava  
+karube - caroube  
 kaske - carapace (coquille, coquillage, croûte)  
 katoglutoban - presse-papier  
 katane - épée  
@@ -886,6 +901,7 @@ kurium - curium
 kuse - coucher  
 kusu - être couché  
 kusloke - couch (couchette)  
+kusen - coussin  
 
 ## L  
 
@@ -899,9 +915,6 @@ lalorange - mandarine
 lalsalmon - saumon sockeye  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
-lancograf - projection  
-lancografe - projeter (donner)  
-lancite - projectile  
 lantanium - lanthane  
 lase - laisser  
 lasun - ail  
@@ -1085,7 +1098,6 @@ molseke - meule
 mole - mole (unité)  
 molidenium - molybdène  
 • montaner - alpiniste  
-pandunia - franci  
 mos - mousse  
 mosim - saison  
 moskovium - moscovium  
@@ -1691,6 +1703,7 @@ US
 ##   
 
 uze - user  
+va - ouah  
 vade - vallée (oued)  
 vaf - chien  
 vafle - gaufre  
@@ -1732,6 +1745,7 @@ vermute - vermouth
 verse - verser (face á)  
 • introverse - introverti  
 • perverse - pervers  
+veruke - verrue  
 vespe - abeille ou guêpe  
 vesponide - ruche (nid d'abeille)  
 veze - lourd  
@@ -1822,28 +1836,16 @@ yune moke - pousse
 
 ## Z  
 
-za - de  
 zage - éveillé  
-zaye - présent  
-Zayeria - Algérie  
-zamokarde - carte à collectionner  
 zaman - temps  
-zamul - prune de Java  
-zanel - fenêtre  
-zanelovel - rideau  
 zarkube - dé  
-Zardus - Zoroastre  
-zardusisme - zoroastrisme  
-zardusiste - zoroastrien  
-zau - orge  
+Zardux - Zoroastre  
+zarduxisme - zoroastrisme  
+zarduxiste - zoroastrien  
+zay - être présent  
+Zayeria - Algérie  
 zebra - zèbre  
-zeyil - verrue  
-zeinisme - jaïnisme  
-zeke - prêter (empruntre)  
-zekodone - prêter  
-zekogete - empruntre  
 zinke - zinc  
-zinze - gingembre  
 ziraf - giraffe  
 zirkonium - zirconium  
 zive - vie  
@@ -1858,6 +1860,7 @@ zombi - zombi
 zone - zone  
 zongominte - menthe verte  
 zuke - ethnie (ethnique)  
+zukam - rhume  
 Zulu - zoulou  
 zumurude - émeraude  
 zung - centre  

@@ -3,6 +3,7 @@
 ## A  
 
 a sababe de - ĉar  
+a zay den - hodiaŭ  
 a ke - kie  
 a le - tie  
 a max - ankaŭ  
@@ -341,6 +342,7 @@ date - datumo
 datobanke - datumbanko  
 datotable - tabelo  
 dau - vojo  
+de - de (el, pro)  
 debu - devi  
 deci - dekono  
 defe - defendi  
@@ -773,7 +775,20 @@ ivia - emo (inklino, tendenco)
 
 ## J  
 
+jake - jako  
+jame - kolekti (kunigi)  
 Jamaika - Jamajko  
+jampe - salti  
+janel - fenestro  
+janelfrem - fenestrokadro  
+janelovel - kurteno  
+jau - hordeo  
+jebe - poŝo  
+jenisme - Ĝajnismo  
+jeng - milito (batalo)  
+jenge - milita  
+jin - vera  
+jinje - zingibro  
 jongle - ĵongli  
 • jongler - ĵonglisto  
 jude - juĝo  
@@ -964,7 +979,6 @@ lale - ruĝa
 lalbauseke - rubeno  
 lalorange - mandarino  
 lampe - lampo  
-lance - ĵeti (lanĉi)  
 lasun - ajlo  
 late - flanko (latero)  
 late - flanka (latera)  
@@ -1143,7 +1157,6 @@ mongole - mongola
 Mongolia - Mongolio  
 monoster - monstro  
 monte - monto  
-pandunia - esperanti  
 morte - morto  
 morte - mortigi  
 morte - morta  
@@ -1749,6 +1762,7 @@ US
 ##   
 
 uze - uzi  
+va - ŭaŭ!  
 vade - valo  
 vaf - hundo  
 vafle - vaflo  
@@ -1763,7 +1777,6 @@ vane - amuza
 varkolate - paĝo  
 vase - oazo  
 vat - vato  
-vau - ŭaŭ!  
 vava - plori  
 vaxe - lavi  
 vaxomaxin - lavmaŝino  
@@ -1778,6 +1791,7 @@ vere - vera
 verme - vermo  
 vermute - vermuto  
 • version - versio  
+veruke - veruko  
 vespe - abelo aŭ vespo  
 veze - peza  
 vezia - pezo  
@@ -1880,41 +1894,25 @@ yune man - knabo
 
 ## Z  
 
-za - de (el, pro)  
 zage - uyanık  
-zaye - ĉeestanta (ekzistanta)  
-zayia - ĉeestanteco (ekzisto)  
-zaideno - hodiaŭ  
-zaizaman - nuno  
-zaizamane - nuna  
 zaitun - olivo  
-zake - jako  
-zame - kolekti (kunigi)  
 zaman - tempo  
 Zambia - Zambio  
-zampe - salti  
 zane - koni  
-zanel - fenestro  
-zanelfrem - fenestrokadro  
-zanelovel - kurteno  
 zanger - metiisto  
 zar - hazardo  
 zarkube - ĵetkubo  
-Zardus - Zoroastro  
-zardusisme - zoroastrismo  
-zardusiste - zoroastristo  
-zau - hordeo  
-zebe - poŝo  
+Zardux - Zoroastro  
+zarduxisme - zoroastrismo  
+zarduxiste - zoroastristo  
+zay - ĉeesti (ekzisti)  
+zayia - ĉeestanteco (ekzisto)  
+zay zaman - nuno  
+zay zaman su - nuna  
 zebra - zebro  
-zeyil - veruko  
-zeinisme - Ĝajnismo  
-zeng - milito (batalo)  
-zenge - milita  
 • rezerve - rezervo  
-zin - vera  
 zine - malfideleco  
 zinke - zinko  
-zinze - zingibro  
 zire - kumino  
 ziraf - ĝirafo  
 zirkonium - zirkonio  

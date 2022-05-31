@@ -2,6 +2,7 @@
 
 ## A  
 
+a zay den - 今日  
 a line - オンライン  
 abete - モミ  
 able - ありうる  
@@ -235,6 +236,7 @@ darte - 土
 datofenkate - データ解析  
 datotable - 表  
 dau - 道  
+de - -から  
 defkaske - 鎧  
 defoban - 盾  
 dege - 受ける (もらう)  
@@ -475,6 +477,7 @@ hape - 適切
 haramliste - ブラックリスト  
 Hartum - ハルツーム  
 hatre - 危険  
+hei - おい  
 helium - ヘリウム  
 helisviman - ヘリコプター  
 heme - 血  
@@ -530,9 +533,19 @@ ivia - 傾向
 
 ## J  
 
+jambul - フトモモ  
+janel - 窓  
+janelovel - カーテン  
 jangle - 野生の  
 jangle van - ジャングル  
+jau - 大麦  
+jeke - 借用  
+jekocepe - 借りる  
+jekodone - 貸す  
+jeng - 戦闘 (格闘)  
+• jetaje - 飛翔体 (矢玉)  
 • projetaje - プロジェクト  
+jetografe - 映す (投影する, 投影)  
 jongle - ジャグリング  
 • jongler - ジャグラー  
 jul - ジュール (J)  
@@ -597,6 +610,7 @@ karme - 労働
 karote - ニンジン  
 karse - 荒い  
 karsolimon - コブミカン (スワンギ, プルット)  
+karube - 蝗豆  
 kaske - 殻 (皮)  
 katoglutoban - クリップボード  
 katane - 刀 (剣)  
@@ -678,6 +692,7 @@ kupre - 銅
 kurium - キュリウム  
 kuse - 横たえる  
 kusu - 寝転ぶ  
+kusen - 枕  
 
 ## L  
 
@@ -692,9 +707,6 @@ lalsalmon - ベニザケ
 lama - ラマ (チベット仏教の上師)  
 lampe - ランプ  
 LAN (loke aria nete) - LAN  
-lancograf - 投影  
-lancografe - 映す (投影する)  
-lancite - 飛翔体 (矢玉)  
 lantanium - ランタン  
 lase - 残す  
 lasun - 大蒜  
@@ -842,7 +854,6 @@ mokotan - 丸木
 mole - モル  
 molekul - 分子  
 molidenium - モリブデン  
-pandunia - niponi  
 mos - 苔  
 mosim - 季節  
 moskovium - モスコビウム  
@@ -877,6 +888,7 @@ natrium - ナトリウム
 nau - 舟 (ボート)  
 nautile - オウムガイ  
 naze - 鼻  
+ne - ね  
 nefre - 腎臓  
 nefte - 油 (オイル)  
 neftoguke - シマカンギク (アブラギク)  
@@ -1188,6 +1200,7 @@ sire - 隠す
 siri mote - 忍び  
 sirplan - 陰謀  
 sirkoseke - 丸石 (玉石, 栗石)  
+siro - 零 (０)  
 sisa - 刺す  
 sise - 六 (6)  
 sisyom - 土曜日  
@@ -1326,6 +1339,7 @@ US
 ##   
 
 uzable - 使用可能  
+va - わあ  
 vade - 谷  
 vadosusan - キミカゲソウ (スズラン)  
 vaf - 犬 (狗)  
@@ -1362,6 +1376,7 @@ verme - 蠕虫
 • extroverse - 外向的な  
 • introverse - 内向的な人  
 • reverse - 逆らう  
+veruke - 疣  
 vespe - 蜂  
 vesponide - 蜂の巣  
 vestogoril - ニシゴリラ  
@@ -1441,24 +1456,12 @@ yune moke - 若木
 
 ## Z  
 
-za - -から  
 zagu - 起きる  
-zayu - ある (いる)  
-zaideno - 今日  
-zaizaman - 今 (現在)  
-zalimi reger - 暴君  
+zalime reger - 暴君  
 zaman - 時代 (年代)  
-zamul - フトモモ  
-zanel - 窓  
-zanelovel - カーテン  
 zarkube - 賽子  
-zau - 大麦  
-zeyil - 疣  
-zeke - 借用  
-zekodone - 貸す  
-zekogete - 借りる  
-zeng - 戦闘 (格闘)  
-zere - 零 (０)  
+zay - ある (いる)  
+zay zaman - 今 (現在)  
 zeze - ハエ目 (双翅目)  
 zinke - 亜鉛  
 zire - クミン  
@@ -1473,5 +1476,6 @@ zooparke - 動物園
 zoosikle - 黄道帯  
 zongominte - スペアミント  
 zuke - 民族  
+zukam - 風邪 (感冒)  
 zung - 中心  
 Zungogia - 中国  

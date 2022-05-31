@@ -277,6 +277,7 @@ dargomute - desenvolvimento
 darmositium - darmstádio  
 date - dados  
 datobanke - banco de dados  
+de - de  
 debu - dever  
 defkaske - armadura  
 defoban - escudo  
@@ -512,6 +513,7 @@ Hartum - Cartum
 hasis - haxixe  
 hate - até  
 hatre - perigo  
+hei - ei  
 helium - hélio  
 helisviman - hélicoptero  
 hem - hmm  
@@ -570,10 +572,21 @@ ivia - tendência
 
 ## J  
 
+jamokarde - cromo  
+jambul - jambolão (jambo)  
+janel - janela  
+janelovel - cortina  
 jangle - selvagem (silvestre)  
 jangle van - mato (jângal)  
+jau - cevada  
+jeke - emprestar (pedir emprestado)  
+jekocepe - pedir emprestado  
+jekodone - emprestar  
+• jetaje - projétil  
 • projete - projeto  
 • projetaje - projeto  
+jetografe - projeção  
+jinje - jengibre  
 jongle - fazer malabarismo  
 • jongler - malabarista  
 • juder - juiz  
@@ -641,6 +654,7 @@ karme - trabalho
 karote - cenoura  
 karse - áspero  
 karsolimon - combava  
+karube - alfarroba  
 kaske - casca (concha)  
 katoglutoban - área de transferência  
 katane - espada  
@@ -726,6 +740,7 @@ kurium - cúrio
 • prekurser - precursor  
 kuse - deitar  
 kusu - estar deitado (jazer)  
+kusen - almofada (coxim)  
 
 ## L  
 
@@ -739,8 +754,6 @@ lalorange - tangerina (mandarim)
 lalsalmon - salmão-vermelho  
 lama - lama  
 lampe - lâmpada (luminária)  
-lancograf - projeção  
-lancite - projétil  
 lantanium - lantâno  
 lase - deixar  
 lasun - alho  
@@ -923,7 +936,6 @@ mole - mol
 molidenium - molibdénio  
 monte - montanha (monte)  
 • montaner - alpinista (montanhista)  
-pandunia - portugali  
 mos - musgo  
 mosim - estação (sazão)  
 moskovium - moscovio  
@@ -1456,6 +1468,7 @@ US
 ##   
 
 uze - usar  
+va - uau  
 vade - vale (uadi)  
 vadosusan - lírio-do-vale  
 vaf - cão (cachorro)  
@@ -1492,6 +1505,7 @@ vere - verdadeiro
 verme - verme  
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  
+veruke - verruga  
 vespe - abelha ou vespa  
 veze - pesado  
 vezu - pesar  
@@ -1572,25 +1586,14 @@ yune - jovem
 
 ## Z  
 
-za - de  
 zage - acordado  
 zagu - despertar  
-zaizamane - actuel (courant)  
-zamokarde - cromo  
 zaman - tempo  
-zamul - jambolão (jambo)  
-zanel - janela  
-zanelovel - cortina  
 zarkube - dado  
-zau - cevada  
+zay zaman su - actuel (courant)  
 zebra - zebra  
-zeyil - verruga  
-zeke - emprestar (pedir emprestado)  
-zekodone - emprestar  
-zekogete - pedir emprestado  
 • rezerve - reserva  
 zinke - zinco  
-zinze - jengibre  
 ziraf - girafa  
 zirkonium - zircónio  
 zive - vida  
@@ -1604,6 +1607,7 @@ zombi - zumbi
 zone - zona  
 zongominte - hortelã-verde  
 zuke - etnia (étnico)  
+zukam - resfiado (gripe)  
 zumurude - esmeralda  
 zung - centro  
 zungofon - vogal  

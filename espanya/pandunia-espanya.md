@@ -4,6 +4,8 @@
 
 a sababe de - porque  
 a - en (a)  
+a zay - ahora (actualmente)  
+a zay den - hoy  
 a ke - dónde  
 a le - allí (allá)  
 a line - en línea  
@@ -569,6 +571,7 @@ dau - camino (calle)
 • davisme - taoísmo  
 • daviste - taoísta  
 dauban - señal de tránsito  
+de - de (desde)  
 debu - deber (necesitar)  
 deci - deci-  
 decibel - decibelio  
@@ -1187,6 +1190,7 @@ hatre - peligro (peligroso)
 Havai - Hawái  
 Havai nesia - archipiélago de Hawái  
 he - cómo? (eh?)  
+hei - oye (hey)  
 helium - helio  
 helene - griego (helénico)  
 Helenia - Grecia  
@@ -1332,15 +1336,37 @@ ivia - tendencia
 
 ## J  
 
+jake - chaqueta  
+jame - recoger (juntar, reunir, acumular, recolectar, montar)  
+• jamia - colección (grupo, conjunto, montón)  
+jamokarde - cromo  
 Jamaika - Jamaica  
+jampe - saltar (brincar)  
+janel - ventana  
+janelovel - cortina  
 jangle - salvaje  
 jangle van - jungla  
+jau - cebada  
 jaze - jazz  
+jebe - bolsillo  
+jeke - prestar (pedir prestado)  
+jekocepe - pedir prestado  
+jekodone - prestar  
+jekolexe - préstamo lingüístico  
+jenisme - jainismo  
+jeng - pelea (guerra, batalla)  
+jenge - macrial (militar)  
+• jenger - luchador (guerrero)  
+jengoxute - arte marcial  
 Jerzi - Jersey  
+• jetaje - proyectil (misil)  
 • injete - inyección  
 injete - inyectar  
 • projete - proyecto  
 • projetaje - proyecto  
+jetografor - proyector  
+jetografe - proyectar (proyección)  
+jinje - gengibre  
 joke - broma (chiste)  
 joker - bromista (chistoso)  
 jongle - hacer malabarismos  
@@ -1472,6 +1498,7 @@ karse - áspero (basto)
 karsolimon - combava (lima kafir)  
 Kartul - Georgia (República de Georgia)  
 karvan - caravana  
+karube - algarrobo  
 kas - acontecimiento (caso, suceso, evento)  
 kas - caja (caja registradora)  
 kaser - cajero  
@@ -1706,10 +1733,9 @@ kuran - Corán
 • prekurser - precursor  
 • transkurse - transcurrir  
 kurve - curva  
-• kurvi - curvo  
 kuse - acostar (poner)  
 kusu - acostarse (echarse, tenderse, tumbarse)  
-kusen - almohada  
+kusen - almohada (cojín)  
 Kuvaitia - Kuwait  
 
 ## L  
@@ -1728,11 +1754,6 @@ lalsalmon - salmón rojo
 lama - lama  
 lampe - lámpara  
 LAN (loke aria nete) - LAN (RAL)  
-lance - tirar (lanzar, echar, arrojar, aventar)  
-lancograf - proyección  
-lancografe - proyectar  
-lancografer - proyector  
-lancite - proyectil (misil)  
 langan - barandilla (pasamanos)  
 Lanka - Sri Lanka  
 lantanium - lantano  
@@ -2137,7 +2158,6 @@ monte - montaña (monte)
 morfe - morfo  
 morfem - morfema  
 morfeme - morfema  
-pandunia - espani  
 Moris - Mauricio  
 morte - muerte (fallecimiento)  
 morte - matar (morir, asesinar)  
@@ -3064,6 +3084,7 @@ sirke - círculo
 sirke - rodear (cirundar)  
 sirke - redondo (circular)  
 sirkoseke - adoquín  
+siro - cero (ninguno)  
 sisa - atravesar  
 sise - seis (6)  
 sisfas - hexaedro (cubo)  
@@ -3456,6 +3477,7 @@ uzable - utilizable (disponible)
 uzer - usuario  
 uzernam - nombre de usuario  
 Uzbekia - Uzbekistán  
+va - guau (vaya)  
 vacin - vacuna  
 vade - valle  
 vadosusan - convalaria (lirio de los valles)  
@@ -3489,7 +3511,6 @@ vase - oasis
 vate - objeto (artículo)  
 vat - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
-vau - guau (vaya)  
 vava - llorar  
 vava bebe - llóron  
 vaxe - lavar  
@@ -3518,6 +3539,7 @@ verse - versar (afrontar)
 • version - versión (modelo)  
 • introverse - introvertido  
 • reverse - invertir  
+veruke - verruga  
 vespe - abeja o avispa  
 vesponide - avispero (colmena)  
 veste - oeste (occidental)  
@@ -3696,63 +3718,38 @@ yune moke - pimpollo
 
 ## Z  
 
-za - de (desde)  
 zage - despertar  
 zage - despierto  
 zagu - despertarse  
-zai - actualidad  
-zaye - generar (añadir)  
-zaye - actual  
-zayia - presencia (existencia)  
-zayo - ahora (actualmente)  
-zayu - aparecer  
-zayu - existir (estar presente)  
-zaideno - hoy  
-zaizaman - presente  
-zaizamane - actual  
-• dezaye - quitar (eliminar, borrar)  
-Zayeria - Argelia  
 zaitun - aceituna  
-zake - chaqueta  
 zalime - mezquino (antipático, cruel)  
-zalimi reger - tirano (déspota)  
-zalimia - crueldad (tiranía)  
-zame - recoger (juntar, reunir, acumular, recolectar, montar)  
-• zamia - colección (grupo, conjunto, montón)  
-zamokarde - cromo  
+• zalimia - crueldad (tiranía)  
+zalime reger - tirano (déspota)  
 zaman - tiempo (era,periodo,época)  
 Zambia - Zambia  
-zampe - saltar (brincar)  
-zanel - ventana  
-zanelovel - cortina  
 zanger - artesano  
 zar - riesgo (posibilidad; azar, aleatorio)  
 • dusozar - infortunio (mala suerte)  
 zarkube - dado  
-Zardus - Zoroastro  
-zardusisme - zoroastrismo  
-zardusiste - zoroastriano  
-zau - cebada  
-zebe - bolsillo  
+Zardux - Zoroastro  
+zarduxisme - zoroastrismo  
+zarduxiste - zoroastriano  
+zay - existir (estar presente; actual)  
+zayia - presencia (existencia)  
+• zayaje - actualidad  
+• zayife - generar (añadir)  
+• azay - aparecer  
+• dezay - quitar (eliminar, borrar)  
+zay zaman - presente  
+zay zaman su - actual  
+Zayeria - Argelia  
 zebra - cebra  
-zeyil - verruga  
-zeinisme - jainismo  
-zeke - prestar (pedir prestado)  
-zekodone - prestar  
-zekogete - pedir prestado  
-zekologe - préstamo lingüístico  
-zeng - pelea (guerra, batalla)  
-zenge - macrial (militar)  
-• zenger - luchador (guerrero)  
-zengosute - arte marcial  
-zere - cero (ninguno)  
 • rezerve - reservar (réservation)  
 zigzage - zigzag  
 zikure - zigurat  
 Zimbabve - Zimbabue  
 zine - adulterio  
 zinke - cinc  
-zinze - gengibre  
 zipe - cerrar con cremallera  
 • ziper - cremallera  
 zire - comino  

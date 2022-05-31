@@ -581,3 +581,57 @@ Naturally time words are used only when they are necessary.
 Usually it is enough to mention the time just once at the beginning of the text
 and not in every single sentence, if the tense doesn't change.
 
+
+## Modal particles
+
+In Pandunia, sentence-final particles are used to communicate why the sentence is said,
+for example, is the sentence a statement, a question or a command.
+
+**ba**
+indicates a suggestion or a command.
+
+**yam ba!**
+– Eat!
+
+**he**
+asks a yes-or-no question.
+It translates as *eh?* or *huh?*.
+
+**tu ame kafe, he?**
+– You love coffee, huh?
+
+**ne**
+asks for confirmation to what was said just before.
+It roughly translates as *right?*, *isn't it?*, *isn't that so?*, etc.
+One uses it at the end of sentence if one is not completely sure about something but thinks it's probably true.
+
+**tu ame kafe, ne? cepe un kupe ba!**
+– You love coffee, right? Grab a cup!
+
+**o**
+indicates uncertainty.
+
+**tu ame kafe, o...**
+– You love coffee, or...
+
+**va**
+indicates excitement.
+It can be used on its own or at the start or end of a sentence to express how amazing or surprising something is.
+
+**va!**
+Wow!  
+**va, ye dai!**
+– Wow, it's big!  
+**ye dai, va!**
+– It's so big!
+
+**ya**
+reinforces the meaning of the sentence
+or indicates agreement.
+It can be translated *indeed* or *truly*.
+
+**mi ame kafe, ya.**
+– I love coffee indeed.  
+**ye nove, ne? – ye nove, ya.**
+– It is new, right? – It's new indeed.
+

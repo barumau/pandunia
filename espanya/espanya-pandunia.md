@@ -44,9 +44,8 @@ actinio - acinium
 activo - ative  
 acto - ate  
 actor (actriz) - roler  
-actual - zaizamane  
-actual - zaye  
-actualidad - zai  
+actual - zay zaman su  
+actualidad - zayaje  
 actuar (hacer un papel) - role  
 acuarela - suirang  
 acuario (pecera) - pestanke  
@@ -93,7 +92,7 @@ agua - sui
 agua mineral - kuangosui  
 aguacate - avakate  
 agujero (hueco) - kong  
-ahora (actualmente) - zayo  
+ahora (actualmente) - a zay  
 ahora mismo (justo) - a nove  
 ahorrar (reservar, depositar) - banke  
 aire - air  
@@ -121,6 +120,7 @@ alfarería - poteria
 alfiler (espina, aguja) - pin  
 alfombra (tapete) - taltexe  
 alga - alga  
+algarrobo - karube  
 algas pardas - brunalge  
 algién - yo jen  
 algo - yo xei  
@@ -132,7 +132,7 @@ alinear - parlinu
 allí (allá) - a le  
 almendra - badam  
 almirante - haiamirer  
-almohada - kusen  
+almohada (cojín) - kusen  
 almuerzo - denyam  
 alojar (hospedar) - domane  
 alpaca - alpaka  
@@ -206,7 +206,7 @@ antónimo - antonam
 análisis de datos - datofenkate  
 anís - anis  
 anón (ates,saramuyo) - ata  
-aparecer - zayu  
+aparecer - azay  
 apartarse (desviarse) - depade  
 apellido - familnam  
 apogeo - abogee  
@@ -257,7 +257,7 @@ arruinar (destruir, devastar, asolar) - harabe
 arsénico - arsene  
 arte (campo) - eria  
 arte - arte  
-arte marcial - zengosute  
+arte marcial - jengoxute  
 artefacto - artofete  
 artesano - zanger  
 artista - artiste  
@@ -428,7 +428,7 @@ boina - berete
 bola - bol  
 boleto - tikete  
 Bolivia - Bolivia  
-bolsillo - zebe  
+bolsillo - jebe  
 bolígrafo - kalam  
 bomba - bombe  
 bombear - pompe  
@@ -608,7 +608,7 @@ caña de azúcar - sukar gana
 cañonear - daipaver  
 cañón (barranco, quebrada) - kanyon  
 cañón - daipau  
-cebada - zau  
+cebada - jau  
 cebolla - piaze  
 cebra - zebra  
 celebrar (festejar; celebración, fiesta) - feste  
@@ -635,7 +635,7 @@ cerebro - serebre
 Ceres (planeta enano) - Ceres  
 cereza - cerize  
 cerio - ceresium  
-cero (ninguno) - zere  
+cero (ninguno) - siro  
 cerradura (candado) - sor  
 cerrar con cremallera - zipe  
 cerveza (birra) - bir  
@@ -650,7 +650,7 @@ champiñón (seta) - fungopal
 champú - kexosabun  
 chamán (brujo, hechicero) - xaman  
 chapati (pan sin levadura) - capati  
-chaqueta - zake  
+chaqueta - jake  
 charlar (parlotear, chatear) - blabla  
 chelo (violonchelo) - daiviole  
 chicle - cuvogom  
@@ -733,7 +733,7 @@ cola (refresco de cola) - kole
 colaborar - konkare  
 colarse - siro motu  
 colchón - matras  
-colección (grupo, conjunto, montón) - zamia  
+colección (grupo, conjunto, montón) - jamia  
 colgante (pendiente) - pendaje  
 colgar - pende  
 colgar - pende  
@@ -857,7 +857,7 @@ corriente de resaca - tiroriu
 corromper (contaminar) - nagise  
 corsario - naukaper  
 cortar - kate  
-cortina - zanelovel  
+cortina - janelovel  
 corto (breve) - korte  
 Corán - kuran  
 cosa - xei  
@@ -898,8 +898,8 @@ Cristo (mesías) - kriste
 criticar (evaluar) - krita  
 Croacia - Horvatia  
 crocodilio - krokodil  
+cromo - jamokarde  
 cromo - kromium  
-cromo - zamokarde  
 cronómetro - durometrer  
 cruasán - kruasante  
 crucificar - krusofixe  
@@ -938,7 +938,6 @@ curar (sanar) - medike
 curio - kurium  
 curita (apósito) - glutobende  
 curva - kurve  
-curvo - kurvi  
 cuál - ke  
 cuál cosa - ke sei  
 cuándo - ke sate  
@@ -974,7 +973,7 @@ darwinista - darviniste
 datos - date  
 dañar (daño, corrupción) - avar  
 dañino (perjudicial) - avaran  
-de (desde) - za  
+de (desde) - de  
 de (posposición de posesión) - da  
 de (posposición de posesión) - di  
 de lado - lato  
@@ -1287,7 +1286,6 @@ espacio (separación) - kal
 espacio (texto) - kali harfe  
 espada - katane  
 espalda (lomo) - ruke  
-espani - pandunia  
 España - Espania  
 especia - masale  
 especial (diferenciado, distinto) - hase  
@@ -1359,7 +1357,7 @@ excepto (exceptuar) - excepe
 excepto (menos) - minus  
 excluir - exkluze  
 exclusivo - exkluzive  
-existir (estar presente) - zayu  
+existir (estar presente; actual) - zay  
 exoplaneta (planeta extrasolar) - explanete  
 expatriado - expatrian  
 expeler (expulsar) - expele  
@@ -1520,11 +1518,11 @@ genealogía - genolojia
 generación (cohorte) - genogrupe  
 general (common) - putonge  
 generalísimo (sogún) - gunreger  
-generar (añadir) - zaye  
+generar (añadir) - zayife  
 generosidad (caridad) - karimia  
 generoso (dadivoso) - donive  
 generoso (dadivoso, caritativo) - karime  
-gengibre - zinze  
+gengibre - jinje  
 genial - kule  
 genotipo - genotipe  
 gente - nas  
@@ -1595,8 +1593,8 @@ guapo (bien parecido) - bonvide
 guarda (preservador, conservador) - hafizer  
 guarda-barros (aleta) - fandefban  
 Guatemala - Guatemala  
+guau (vaya) - va  
 guau (vaya) - vah  
-guau (vaya) - vau  
 Guernesey - Gerneze  
 guerra - gere  
 guerrero - gerer  
@@ -1708,7 +1706,7 @@ hornacina - nis
 hornear (cocer) - beke  
 horno - tanur  
 hotel (albergue) - hotel  
-hoy - zaideno  
+hoy - a zay den  
 huella digital - angulmarke  
 hueso - oste  
 huevo - ove  
@@ -1878,7 +1876,7 @@ izquierdo - lefte
 
 jabón - sabun  
 jade - giuke  
-jainismo - zeinisme  
+jainismo - jenisme  
 Jamaica - Jamaika  
 japonés - nipone  
 Japón - Nipon  
@@ -2060,7 +2058,7 @@ longitud - vestodongia
 loro (papagayo) - papagai  
 lote (grupo) - lote  
 lucha - gihade  
-luchador (guerrero) - zenger  
+luchador (guerrero) - jenger  
 lugar - loke  
 lugar de nacimiento - genoloke  
 lujuria (deseo) - kamia  
@@ -2086,7 +2084,7 @@ lógica - ratolojia
 Macao - Makau  
 Macedonia del Norte - Nordi Makedonia  
 maceta (plantera) - fulpote  
-macrial (militar) - zenge  
+macrial (militar) - jenge  
 macroalga - haialge  
 Madagascar - Malagasia  
 madera - mokomate  
@@ -2562,6 +2560,7 @@ otra vez (de nuevo) - rio
 otro (cambiar, demudar) - ale  
 oveja - meh  
 oxígeno - oxe  
+oye (hey) - hei  
 oír (escuchar) - aude  
 
 ## P  
@@ -2673,13 +2672,13 @@ pedal - pedal
 pedazo - tike  
 pedernal (sílex) - hogoseke  
 pedir (invitar; por favor) - cing  
-pedir prestado - zekogete  
+pedir prestado - jekocepe  
 pedo (peer) - perde  
 pegar (pegamento, pega, goma, adhesivo) - glute  
 pegar - peye  
 peine - kang  
 Pekín - Beijing  
-pelea (guerra, batalla) - zeng  
+pelea (guerra, batalla) - jeng  
 peligro (peligroso) - hatre  
 pelo - kex  
 película (film, membrana) - filme  
@@ -2848,13 +2847,13 @@ preguntarse - savovolu
 prenatal - prenatal  
 prensa - preser  
 presencia (existencia) - zayia  
-presente - zaizaman  
+presente - zay zaman  
 presidente - prezidente  
 presidente - presidente  
 presión - prese  
 presión atmosférica - airbaria  
-prestar (pedir prestado) - zeke  
-prestar - zekodone  
+prestar (pedir prestado) - jeke  
+prestar - jekodone  
 presuponer - cenage  
 presupuesto - bugete  
 prever (anticipar) - previde  
@@ -2899,19 +2898,18 @@ prosperar - sucese
 proteína - proten  
 proxeneta (chulo) - sutener  
 proximidad - karibe  
-proyección - lancograf  
-proyectar - lancografe  
-proyectil (misil) - lancite  
+proyectar (proyección) - jetografe  
+proyectil (misil) - jetaje  
 proyecto - projete  
 proyecto - projetaje  
 proyecto - projete  
 proyector - grafoprojetor  
-proyector - lancografer  
+proyector - jetografor  
 prueba - dalil  
 prueba - teste  
 práctica - prate  
 práctico - prate  
-préstamo lingüístico - zekologe  
+préstamo lingüístico - jekolexe  
 próximo - prose  
 psicología - ruhlojia  
 psique - ruh  
@@ -2958,7 +2956,7 @@ queso fresco - panir
 quilate - kirate  
 quimono - kimono  
 quiosco (kiosco) - kioske  
-quitar (eliminar, borrar) - dezaye  
+quitar (eliminar, borrar) - dezay  
 quitar (eliminar,borrar) - depoze  
 quitar (pelar) - tira pil  
 quitar (remover) - kitane  
@@ -3020,7 +3018,7 @@ receptor de radio - radi geter
 rechazar (negar) - nege  
 recibir - recepe  
 reciclar - risikle  
-recoger (juntar, reunir, acumular, recolectar, montar) - zame  
+recoger (juntar, reunir, acumular, recolectar, montar) - jame  
 reconocimiento (recibo; reconocer) - reside  
 recto - orte  
 redes sociales - soce media  
@@ -3168,7 +3166,7 @@ salmón rojo - lalsalmon
 salmón rosado - rozosalmon  
 salsa - saus  
 salsa de soja - soisaus  
-saltar (brincar) - zampe  
+saltar (brincar) - jampe  
 salud - salia  
 saludable - sale  
 saludar (saludo) - salam  
@@ -3475,8 +3473,7 @@ tinta - moge
 tinte - rangomate  
 tipo (género) - tipe  
 tira (faja, vendaje, cinta) - fase  
-tirano (déspota) - zalimi reger  
-tirar (lanzar, echar, arrojar, aventar) - lance  
+tirano (déspota) - zalime reger  
 tirar - tire  
 tiro con arco - arkeria  
 titanio - titanium  
@@ -3640,7 +3637,7 @@ vender - vende
 veneno (toxina; tóxico) - toxe  
 Venezuela - Venezuele  
 venir - lai  
-ventana - zanel  
+ventana - janel  
 ventilador (fuelle) - fentor  
 ventilador - fentopanke  
 Venus - Venus  
@@ -3655,7 +3652,7 @@ verduras - coi
 vergüenza (pena) - sarme  
 verme - verme  
 vermú - vermute  
-verruga - zeyil  
+verruga - veruke  
 versar (afrontar) - verse  
 versión (modelo) - version  
 vertical - gautale  
@@ -3755,9 +3752,9 @@ zombi - zombi
 zoo - zooparke  
 zoología - zoolojia  
 zoológico - zoolojike  
-zoroastriano - zardusiste  
-zoroastrismo - zardusisme  
-Zoroastro - Zardus  
+zoroastriano - zarduxiste  
+zoroastrismo - zarduxisme  
+Zoroastro - Zardux  
 zorro - hulei  
 zulú - Zulu  
 África - Afrike  

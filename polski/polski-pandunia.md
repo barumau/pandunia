@@ -191,7 +191,7 @@ biblioteka - kitabokan
 bibliotekarz - kitabominister  
 biec (biegać, pędzić) - kore  
 biedny, mizerny - miskine  
-bieżący (aktualny, obecny) - zaizamane  
+bieżący (aktualny, obecny) - zay zaman su  
 bilet - tikete  
 bilet powrotny - retrotikete  
 bilion,giga- - gige  
@@ -233,7 +233,7 @@ Boże Narodzenie - kristojen
 brawo (gratulacje) - bravo  
 Brazyla - Brazil  
 broda - barde  
-brodawka - zeyil  
+brodawka - veruke  
 brom - bromium  
 broń - arme  
 broń nuklearna - kori arme  
@@ -356,7 +356,6 @@ ciężar (brzemię; ładować) - karge
 ciężarny (w ciąży) - hamile  
 ciężki (masywny) - veze  
 ciśnienie atmosferyczne - airbaria  
-ciśnięty (rzucony, miecony) - lance  
 cmentarz - gabrostan  
 cnota (moralność) - bondeke  
 co? - ke  
@@ -384,7 +383,7 @@ cywilizowany (ucywilizowany) - civilade
 cywilny - civile  
 Czad - Cadia  
 czajnik - ketle  
-czapetka kuminowa - zamul  
+czapetka kuminowa - jambul  
 czar (urok, wdzięk) - carme  
 Czarnogóra - Cernagore  
 czarny - siyahe  
@@ -553,7 +552,7 @@ dziw (cudo) - ajibe
 dziwny (nieznany) - ansave  
 dziwny - bizar  
 dziękować (dzięki) - danke  
-dziś, dzisiaj - zaideno  
+dziś, dzisiaj - a zay den  
 dzwon (dzwonek) - danger  
 dzwonić (dźwięczeć, szczękać) - dange  
 dół, jama, wydobycie, wykop, wykopalisko - kave  
@@ -564,7 +563,7 @@ dąb zębaty - dantobalute
 długi - longe  
 długość - longia  
 długość geograficzna - vestodongia  
-dźinizm, dżinizm - zeinisme  
+dźinizm, dżinizm - jenisme  
 dźwignia - tirbaton  
 dźwięk, brzmienie - son  
 Dżakarta - Jakarta  
@@ -824,6 +823,7 @@ hałas - sporter
 hebel, strug - rande  
 heblować - rande  
 hebrajski - ibre  
+hej - hei  
 hel - helium  
 helikopter - helisviman  
 helisa - helis  
@@ -888,7 +888,7 @@ ile? - ko multo
 ilość - polia  
 ilustrator, grafik - grafer  
 iluzja (halucynacja) - falsvide  
-imbir - zinze  
+imbir - jinje  
 imbryk (czajnik) - caipote  
 imbryk do kawy - kafe pote  
 imię, nazwa - nam  
@@ -931,7 +931,7 @@ Islam - islamisme
 islamofobia - islamofobia  
 islamski - islamike  
 Islandia - Islandia  
-istnieć (być obecnym) - zayu  
+istnieć (być obecnym) - zay  
 Italia, Włochy - Italia  
 iterb - yterbium  
 itr - ytrium  
@@ -999,7 +999,7 @@ Jowisz - jupiter
 judaizm - yahudisme  
 judo - judau  
 jutro - posdeno  
-jęczmień - zau  
+jęczmień - jau  
 język - lingue  
 język - lisan  
 język ojczysty (język rodzimy) - genobase  
@@ -1080,7 +1080,7 @@ keta - bakosalmon
 kichać (apsik!) - aci  
 kiedy? - ko?  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - kanale  
-kieszeń - zebe  
+kieszeń - jebe  
 kiełbasa - sosis  
 kilof - pincope  
 kilogram (kg) - kilogram  
@@ -1136,8 +1136,8 @@ kolczuga - sernete
 kolczuga - silnete  
 kolec - ding  
 kolej - trendau  
-kolekcja, zbiór; zgromadzenie, zebranie - zamia  
-kolekcjonować, zebrać, zbierać - zame  
+kolekcja, zbiór; zgromadzenie, zebranie - jamia  
+kolekcjonować, zebrać, zbierać - jame  
 kolonia, osada - kolonia  
 kolonialista - koloniste  
 kolonializm - kolonisme  
@@ -1274,7 +1274,7 @@ kumkwat - kankuate
 kupić (zakupy, sprawunki, shopping) - xope  
 kupon - kupon  
 kura, kogut, kurczak - kokode  
-kurtka - zake  
+kurtka - jake  
 kusić, nakłonić, nakłaniać - tente  
 kusza (balista) - krusarke  
 kuszetka (koja) - kusloke  
@@ -1517,7 +1517,7 @@ miligram - miligram
 milimetr - milimitre  
 milion - mega  
 milion - yota  
-militarny, wojskowy, wojenny - zenge  
+militarny, wojskowy, wojenny - jenge  
 minerał, ruda - kuang  
 minimalizm - minimisme  
 minister - manter  
@@ -1777,7 +1777,6 @@ nóż - caku
 
 oaza - vase  
 obcęgi, kleszcze, szczypce - pinser  
-obecny, teraźniejszy, aktualny, bieżący, współczesny - zaye  
 obiad, lunch - denyam  
 obiecać, angażować się - vode  
 obiecujący (dobrze wróżący) - bonsinye  
@@ -1837,7 +1836,7 @@ ogórek melon - melon
 ojciec - pe  
 ojczyzna - patria  
 okej, spoko, akceptowalny - okeye  
-okno - zanel  
+okno - janel  
 oko - oke  
 około; przybliżony - yago  
 okrągły - sirke  
@@ -2060,7 +2059,7 @@ pluton - plutonium
 pluć - tuhe  
 pnącz - skalotan  
 pochochodnia (latarka) - fotobaton  
-pocisk - lancite  
+pocisk - jetaje  
 pociąg - tren  
 poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
@@ -2085,7 +2084,7 @@ poeta - sirer
 pogoda - tenhal  
 pogrubiona litera - grosi harfe  
 poinformować, informować, zakomunikować, komunikować - konsavane  
-pojawić się - zayu  
+pojawić się - azay  
 pojęciowy - ide  
 pokazać (pokazywać, wystawić, wystawiać; pokaz, ekspozycja, wystawa) - xou  
 poker - poke  
@@ -2108,7 +2107,6 @@ polityka - politia
 polon - polskium  
 polować (łowić) - yege  
 Polska - Polske  
-polski - pandunia  
 polski - polske  
 pomarańcza - orange  
 pomarańcza słodka (pomarańcza chińska) - sukarorange  
@@ -2193,9 +2191,9 @@ południowy - sude
 połączenie, złącze, styk - linke  
 pośladki, pupa, tyłek, zadek - pige  
 pośmiertny - posmortal  
-pożyczać (pożyczyć) - zekogete  
-pożyczać komuś (pożyczyć komuś) - zekodone  
-pożyczyć - zeke  
+pożyczać (pożyczyć) - jekocepe  
+pożyczać komuś (pożyczyć komuś) - jekodone  
+pożyczyć - jeke  
 pożądanie, żadza - kamia  
 praca, zjęcie, zadanie - karme  
 pracować - kare  
@@ -2209,8 +2207,8 @@ prawa autorskie - kopohake
 prawa człowieka - human hake  
 prawa strona - raite  
 prawdopodobnie (możliwie) - ablo  
+prawdziwy (rzeczywisty, szczery) - jin  
 prawdziwy (rzeczywisty, szczery) - vere  
-prawdziwy (rzeczywisty, szczery) - zin  
 prawicowiec (prawak) - raitiste  
 prawo - kanun  
 prawo wyborcze - votohake  
@@ -2237,7 +2235,7 @@ programista, koder - programer
 projekt, planowane przedsięwzięcie - projete  
 projekt,planowane przedsięwzięcie - projetaje  
 projektor (rzutnik) - grafoprojetor  
-projektor (rzutnik) - lancografer  
+projektor (rzutnik) - jetografor  
 promet - prometium  
 promieniowanie - radia  
 promieniować - rade  
@@ -2503,8 +2501,6 @@ rzeźbiarstwo - skultia
 rzeźbiarz - skulter  
 rzeźbić (rzeźba) - skulte  
 rzodkiewka - lobake  
-rzucić, rzucać, miotać, cisnąć, ciskać - lance  
-rzut (projekcja) - lancograf  
 Rzym - Roma  
 rząd - polite  
 rządzić - polite  
@@ -2615,7 +2611,7 @@ skarb (skrabiec; cenny) - bau
 skarpeta, skarpetka, pończocha - maze  
 skała - petre  
 skała macierzysta - bazopetre  
-skoczyć, skakać - zampe  
+skoczyć, skakać - jampe  
 skonsumować, konsumować, zjeść, jeść, wypić, pić) - yame  
 skorupa (pancerz, muszla) - kaske  
 skończony (ograniczony) - limite  
@@ -2799,7 +2795,7 @@ szron - hima rose
 sztuczka (podstęp, oszustwo) - truke  
 sztuczna inteligencja - artofete intelige (AI)  
 sztuka - arte  
-sztuka walki - zengosute  
+sztuka walki - jengoxute  
 sztylet (puginał) - kanzar  
 szuflada - tirsanduke  
 szukać - soge  
@@ -2895,7 +2891,7 @@ teoria - teoria
 teozofia - deusofia  
 tera- - tera  
 terakota - bekofan  
-teraźniejszość, współczesność (teraz) - zaizaman  
+teraźniejszość, współczesność (teraz) - zay zaman  
 teraźniejszość, współczesność - zayia  
 terb - terbium  
 teren - geoforme  
@@ -2982,7 +2978,7 @@ tydzień - yomcete
 tygrys - bagre  
 tykwa pospolita (kabalasz) - suikaboge  
 typ (rodzaj, gatunek) - tipe  
-tyran - zalimi reger  
+tyran - zalime reger  
 tyrania - zalimia  
 tysiąc (kilo-) - kile  
 tytan - titanium  
@@ -3034,7 +3030,7 @@ urząd, pozycja, stanowisko, funkcja - ofis
 usiąść - sidu  
 uskok - geokaski krake  
 usta - boka  
-usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - dezaye  
+usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - dezay  
 usuwać (usunąć,likwidować,zlikwidować,wymazywać,wymazać,pozbywać się,pozbyć się) - depoze  
 usłyszeć, słyszeć; słuchać - aude  
 uwaga (obserwacja; notować, obserwować, zauważyć, zauważać) - note  
@@ -3056,7 +3052,7 @@ wagina - vagine
 walc - valse  
 Walia - Kamria  
 walijski - kamre  
-walka, wojna - zeng  
+walka, wojna - jeng  
 wampir - vampir  
 wampirzyca piekielna (wampirnica) - vampirbalsenter  
 wanad - vanadium  
@@ -3183,7 +3179,7 @@ wodoodporny - suisekure
 wodorosty - haialge  
 wodospad - suipade  
 wodór - hidre  
-wojownik, bojownik - zenger  
+wojownik, bojownik - jenger  
 wola, chęć - ice  
 wolfram - volfram  
 wolność, niepodległość, niezależność - huria  
@@ -3192,7 +3188,7 @@ wolof - Volof
 wolt (V) - volte  
 wosk - mum  
 wosko lądowe (armia) - geogunia  
-wow!, łoł!, jej! - vau  
+wow!, łoł!, jej! - va  
 wow!,łoł!,jej! - vah  
 wołowina - muhmanse  
 wrzesień - sislun  
@@ -3266,14 +3262,14 @@ wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - netodone
 wysłać (wyemitować) - mise  
 wytwórca łuków i strzał - flecer  
 wyć - ulule  
-wyświetlać - lancografe  
+wyświetlać (rzut, projekcja) - jetografe  
 wzmacniać (wzmocnić) - daidarge  
 wzmacniać się (wzmagać, pogłębiać się) - tizife  
 wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się) - gavu  
 wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać - fuge  
 wzrastać - rastu  
 wzrost - raste  
-wzywać (wezwać, dodawać, dodać) - zaye  
+wzywać (wezwać, dodawać, dodać) - zayife  
 wóz, wózek - kar  
 wąchać - gande  
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - sanke  
@@ -3292,7 +3288,7 @@ włókno - linem
 
 ## X  
 
-z (od) - za  
+z (od) - de  
 z (partykuła posiadania) - da  
 
 ## Z  
@@ -3319,7 +3315,6 @@ zaimek - pronam
 zainteresowanie, zaciekawienie; interesujący - savovol  
 zajęty - mange  
 zaklecie - magasar  
-zakrzywiony - kurvi  
 zakładać (założyć) - cenage  
 Zambia - Zambia  
 zamek (zapięcie) - sor  
@@ -3336,21 +3331,21 @@ zapalenie pochwy - vaginitis
 zapalenie ucha - oritis  
 zapaść się (zapadać się, runąć) - parcotalu  
 zapominać (zapomnieć) - dememe  
-zapożyczenie (wyraz obcy) - zekologe  
+zapożyczenie (wyraz obcy) - jekolexe  
 zaprosić, zapraszać - cing lai  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ke sate  
 zapłacić, opłacić, płacić - peye  
 zapłata, opłata - pei  
-zaratrustianin - zardusiste  
-Zaratusztra - Zardus  
-zaratusztrianizm - zardusisme  
+zaratrustianin - zarduxiste  
+Zaratusztra - Zardux  
+zaratusztrianizm - zarduxisme  
 zarządzanie (-nomia) - nomia  
 zarządzać (organizować, kierować) - nome  
 zaskoczenie - suprize  
 zastosowanie (zasób; użyteczny, pomocny, przydatny, pożyteczny, korzystny) - faide  
 zastrzyk - injete  
-zasłona, kurtyna - zanelovel  
+zasłona, kurtyna - janelovel  
 zatoka - bai  
 zatrzymać - tinge  
 zatrzymać się - tingu  
@@ -3379,7 +3374,7 @@ zebra - zebra
 zegar (zegarek) - horloger  
 zejść (schodzić, zstąpić, zstępować) - deskale  
 zemleć (mleć, mielić) - mole  
-zero, nic, żaden - zere  
+zero, nic, żaden - siro  
 zespół (drużyna, grupa) - bande  
 zgniły - pude  
 zgodzić się (umówić się) - trete  

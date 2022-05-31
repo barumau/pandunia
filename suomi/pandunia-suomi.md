@@ -40,6 +40,7 @@ Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kann
 
 a sababe de - koska (johdosta, takia)  
 a - luona (-lla, -ssa)  
+a zay den - tänään  
 a ke - missä?  
 a le - siellä (tuolla)  
 a nove - äsken (vasta, juuri)  
@@ -618,6 +619,7 @@ dau - tie
 • davisme - taolaisuus  
 • daviste - taolainen  
 dauban - liikennemerkki  
+de - luota (lähtien, -sta, -lta)  
 debu - täytyä (olla pakko)  
 deci - desi  
 decibel - desibeli  
@@ -1268,6 +1270,7 @@ Havai - Havaiji
 Havai nesia - Havaijin saaret  
 have - ilma  
 he - häh?  
+hei - hei  
 helium - helium  
 helene - kreikkalainen  
 Helenia - Kreikka  
@@ -1423,16 +1426,38 @@ ivia - taipumus
 
 ## J  
 
+jake - pikkutakki (jakku)  
+jame - koota (kerätä)  
+• jamia - yhteisö (kokoontuminen, kollektiivi)  
+jamohafize - pitää yhdessä  
+jamokarde - keräilykortti  
 Jamaika - Jamaika  
+jambul - jambolaani  
+jampe - hypätä (hyppiä)  
+janel - ikkuna  
+janelfrem - ikkunankehys (ikkunanpuite)  
+janelovel - ikkunaverhot  
 jangle - villi (kesytön)  
 janglia - erämaa (kesytön luonto)  
 jangle van - korpi (viidakko)  
+jau - ohra  
 jaze - jazz (jatsi)  
+jebe - tasku  
+jenisme - jainalaisuus  
+jeng - taistelu (sota)  
+jenge - sotilaallinen  
+• jenger - soturi (taistelija)  
+jengoxute - kamppailulaji  
 Jerzi - Jersey  
+• jetaje - ammus  
 • injete - ruiske (injektio)  
 injete - ruiskuttaa  
 • projete - projisoida (projisio)  
 • projetaje - hanke (projekti)  
+jetografor - projektori (videotykki, piirtoheitin)  
+jetografe - heijastaa kuvia (projisoida; projektio)  
+jin - aito  
+jinje - inkivääri  
 jo - joka (mikä)  
 joke - vitsi  
 joker - vitsiniekka  
@@ -1552,6 +1577,7 @@ karnadia - Karnataka (Intian osavaltio)
 karote - porkkana  
 Kartul - Georgia  
 karvan - karavaani (saattue)  
+karube - johanneksenleipäpuu  
 kas - tapaus (seikka)  
 kas - kassa  
 kaser - kassanhoitaja  
@@ -1792,7 +1818,6 @@ kurse - kulkea (kulku; kurssi; reitti)
 • prekurser - edeltäjä  
 • transkurse - kulkea läpi (läpikulku)  
 kurve - mutka (kurvi)  
-• kurvi - mutkikas  
 kuse - panna jkn maate  
 kusu - maata (makoilla)  
 kusen - tyyny  
@@ -1811,10 +1836,6 @@ lalbauseke - rubiini
 lalorange - mandariini  
 lampe - lamppu  
 LAN (loke aria nete) - lähiverkko (LAN-verkko)  
-lance - heittää (paiskata)  
-lancograf - projektio (diakuva)  
-lancografe - heijastaa kuvia (projisoida)  
-lancografer - projektori (videotykki, piirtoheitin)  
 langan - kaide (reelinki)  
 Lanka - Sri Lanka  
 lantanium - lantaani  
@@ -2207,7 +2228,6 @@ monte - vuori (mäki)
 morfe - morfi  
 morfem - morfeemi  
 morfeme - morfeemi  
-pandunia - suomi  
 Moris - Mauritius  
 morte - kuolema (kuolo)  
 morte - tappaa  
@@ -3131,6 +3151,7 @@ sirke - piiri (ympyrä)
 sirke - ympäröidä (piirittää)  
 sirke - pyöreä  
 sirkoseke - mukulakivi  
+siro - nolla (ei yhtään)  
 sise - kuusi (6)  
 sisfas - kuutio (kuusitahokas)  
 sisgon - kuusikulmio  
@@ -3506,6 +3527,7 @@ US
 uze - käyttää  
 uzer - käyttäjä  
 Uzbekia - Uzbekistan  
+va - oho (vau)  
 vacin - rokote  
 vade - laakso  
 vaf - koira  
@@ -3533,7 +3555,6 @@ vase - keidas
 vate - esine (tavara)  
 vat - watti  
 Vatikan - Vatikaanivaltio  
-vau - oho (vau)  
 vava - itkeä  
 vava bebe - itkupilli  
 vaxe - pestä  
@@ -3575,6 +3596,7 @@ verse - kohti (päin)
 • kontroverse - vastakohtaisuus  
 • perverse - kiero (perverssi)  
 • reverse - taaksepäin  
+veruke - syylä  
 vespe - mehiläinen tai ampiainen  
 veste - länsi  
 veze - painava  
@@ -3758,62 +3780,38 @@ yune man - poika (nuori mies)
 
 ## Z  
 
-za - luota (lähtien, -sta, -lta)  
 zage - herättää  
 zage - olla hereillä  
-zaye - läsnä oleva  
-zayia - läsnäolo  
-zayu - olla olemassa  
-zaideno - tänään  
-zaizaman - tämä hetki (nyt)  
-zaizamane - nykyinen (tämänhetkinen)  
-• dezaye - poistaa (hävittää)  
-Zayeria - Algeria  
 zaitun - oliivi  
-zake - pikkutakki (jakku)  
 zalime - ilkeä (julma)  
-zalimi reger - tyranni  
-zalimia - tyrannia  
-zame - koota (kerätä)  
-• zamia - yhteisö (kokoontuminen, kollektiivi)  
-zamohafize - pitää yhdessä  
-zamokarde - keräilykortti  
+• zalimia - tyrannia  
+zalime reger - tyranni  
 zaman - aika (aikakausi,kausi)  
 Zambia - Sambia  
-zampe - hypätä (hyppiä)  
-zamul - jambolaani  
 zane - tuntea  
-zanel - ikkuna  
-zanelfrem - ikkunankehys (ikkunanpuite)  
-zanelovel - ikkunaverhot  
 zange - kätevä  
 zanger - artesaani (käsityöläinen)  
 zar - sattuma (onni; sattumanvarainen)  
 • dusozar - epäonni  
 zarkube - noppa (arpakuutio)  
-Zardus - Zarathustra  
-zardusisme - zarathustralaisuus  
-zardusiste - zarathustralainen  
-zau - ohra  
-zebe - tasku  
+Zardux - Zarathustra  
+zarduxisme - zarathustralaisuus  
+zarduxiste - zarathustralainen  
+zay - olla olemassa  
+zayia - läsnäolo  
+• dezay - poistaa (hävittää)  
+zay zaman - tämä hetki (nyt)  
+zay zaman su - nykyinen (tämänhetkinen)  
+Zayeria - Algeria  
 zebra - seepra  
-zeyil - syylä  
-zeinisme - jainalaisuus  
-zeng - taistelu (sota)  
-zenge - sotilaallinen  
-• zenger - soturi (taistelija)  
-zengosute - kamppailulaji  
-zere - nolla (ei yhtään)  
 • rezerve - varaus (ennakkovaraus)  
 zeta - tsetta-  
 zeze - kaksisiipinen  
 zigzage - siksakki  
 zikure - zikkurat  
 Zimbabve - Zimbabwe  
-zin - aito  
 zine - haureus (uskottomuus)  
 zinke - sinkki  
-zinze - inkivääri  
 zipe - sulkea vetoketjulla  
 • ziper - vetoketju  
 zire - juustokumina (jeera)  
@@ -3838,7 +3836,7 @@ zor - väkivalta (pakko)
 zorsexe - raiskaus  
 zuke - kansanryhmä (etninen ryhmä)  
 zukomede - kansanryhmien välinen  
-zukam - vilustuminen  
+zukam - nuha (vilustuminen)  
 Zulu - zulu  
 zumurude - smaragdi  
 zung - keskus (keskikohta)  

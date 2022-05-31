@@ -101,6 +101,7 @@ axe - 轴线
 
 ## B  
 
+ba - 吧  
 babu - 章  
 bace - 小孩  
 badam - 杏仁 (巴旦木)  
@@ -256,6 +257,7 @@ dargomute - 发展 (开发)
 date - 数据  
 datobanke - 数据库  
 datotable - 表格  
+de - 从  
 defkaske - 盔甲  
 defoban - 盾牌  
 dege - 得 (获得)  
@@ -481,6 +483,7 @@ Hartum - 喀土穆
 hate - 直到  
 hato - 连  
 hatre - 危险  
+hei - 喂  
 helium - 氦  
 helis - 螺旋  
 helisviman - 直升机  
@@ -535,8 +538,20 @@ ivia - 趋势
 
 ## J  
 
+jambul - 閻浮樹  
+janel - 窗戶  
+janelfrem - 窗框  
+janelovel - 窗帘  
 jangle - 野生  
 jangle van - 丛林  
+jau - 大麦  
+jeke - 借  
+jekocepe - 借入  
+jekodone - 借出  
+• jetaje - 投掷物  
+jetografe - 投射 (投影)  
+jin - 真  
+jinje - 姜  
 jongle - 变戏法  
 • judokan - 法庭  
 jul - 焦耳 (J)  
@@ -676,6 +691,7 @@ kupe - 杯子
 kupre - 铜  
 kurium - 锔  
 kusu - 躺  
+kusen - 墊子  
 
 ## L  
 
@@ -689,9 +705,6 @@ lalorange - 柑橘 (红橘)
 lalsalmon - 紅鮭  
 lama - 喇嘛  
 lampe - 灯  
-lancograf - 投影  
-lancografe - 投射  
-lancite - 投掷物  
 lantanium - 镧  
 lase - 落 (留下)  
 lasun - 大蒜 (蒜头)  
@@ -844,7 +857,6 @@ mole - 摩尔 (单位)
 molekul - 分子  
 molidenium - 钼  
 monte - 山  
-pandunia - putongi cini  
 mos - 苔藓  
 mosim - 季  
 moter - 马达 (发动机)  
@@ -883,6 +895,7 @@ naulefte - 左舷
 nauraite - 右舷  
 nautile - 鹦鹉螺  
 naze - 鼻 (鼻子)  
+ne - 呢  
 nefre - 肾脏  
 nefte - 油  
 neftoguke - 野菊花  
@@ -1307,6 +1320,7 @@ uranium - 铀
 US
 ##   
 
+va - 哇  
 vade - 山谷  
 vadosusan - 鈴蘭  
 vaf - 狗  
@@ -1341,6 +1355,7 @@ verme - 蠕虫
 • exverse - 外向的  
 • extroverse - 外向的  
 • introverse - 内向的  
+veruke - 疣  
 vespe - 蜂  
 veze - 重型的  
 vide - 看  
@@ -1422,26 +1437,14 @@ yuge - 轭
 
 ## Z  
 
-za - 从  
 zagu - 睡醒  
-zaizamane - нынешний  
 zaman - 时间  
-zamul - 閻浮樹  
-zanel - 窗戶  
-zanelfrem - 窗框  
-zanelovel - 窗帘  
 zanger - 工匠 (匠人)  
 zarkube - 骰子 (色子)  
-zau - 大麦  
+zay zaman su - нынешний  
 zebra - 斑马  
-zeyil - 疣  
-zeke - 借  
-zekodone - 借出  
-zekogete - 借入  
 zeze - 双翅目  
-zin - 真  
 zinke - 锌  
-zinze - 姜  
 zire - 孜然  
 ziraf - 长颈鹿  
 zirkonium - 锆  
@@ -1452,6 +1455,7 @@ zooparke - 动物园
 zoosikle - 黄道带  
 zongominte - 留兰香  
 zuke - 民族  
+zukam - 感冒  
 zumurude - 绿宝石 (祖母绿)  
 zung - 中心  
 Zungogia - 中国  
