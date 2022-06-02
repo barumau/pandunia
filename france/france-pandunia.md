@@ -190,6 +190,7 @@ backgammon - narde
 bagage - bagaje  
 baguette - dikobaton  
 bah - bah  
+bah! (fi!) - fi  
 baie (golf) - bai  
 baie - beri  
 bain (bagner) - banya  
@@ -247,6 +248,7 @@ blettes (bettes) - selge
 bleu - nile  
 bloquer - tape  
 blé - ganum  
+bof - me  
 bohrium - borium  
 bombe - bombe  
 bon - bon  
@@ -1393,9 +1395,8 @@ radium - radium
 radon - radon  
 raisonnement - ration  
 raki - anis arake  
-rare - nadire  
+rare - nadir  
 rare - rare  
-rarement - nadiro  
 raser - raze  
 rasoir - razor  
 raton laveur - vaxurse  

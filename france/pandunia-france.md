@@ -489,6 +489,7 @@ fete - faire (fait)
 • infetion - infection  
 • perfete - parfait  
 • rifete - répéter  
+fi - bah! (fi!)  
 • profile - préférer  
 • profilaje - favori (préféré)  
 • profilisme - favoritisme  
@@ -1034,6 +1035,7 @@ max - plus
 • maxure - majeur  
 • maxuria - majorité  
 maxorai - surestimer  
+me - bof  
 meden - place  
 medenpapil - coquelicot  
 medikosui - pocion  
@@ -1115,9 +1117,7 @@ muzike - musique
 
 ## N  
 
-no - non (ne...pas)  
-nadire - rare  
-nadiro - rarement  
+nadir - rare  
 nagis - pollution  
 namkitabe - signer  
 • antonam - antonyme  
@@ -1164,6 +1164,7 @@ Nipon - Japon
 niponium - nihonium  
 nis - niche  
 nitre - azote  
+no - non (ne...pas)  
 nobelium - nobélium  
 noce - noit  
 nof - neuf (9)  

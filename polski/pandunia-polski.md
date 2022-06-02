@@ -81,6 +81,7 @@ amir - rozkaz, komenda
 • amirer - emir  
 amper - amper  
 ampul - ampułka  
+an- - negatywny (przeciwny, nie)  
 anjen - nikt, żadna osoba  
 ansate - nigdy  
 ansei - nic, żadna rzecz  
@@ -765,6 +766,7 @@ fete - zrobić (czyn, uczynek)
 • perfete - perfekcyjny  
 • rifete - powtórzyć, powtarzać  
 fetolingue - język sztuczny  
+fi - fu, fuj  
 figur - figura, reprezentacja  
 fikre - myśleć (dumać; myśl, pomysł)  
 file - lubić (zamiłowanie, -filia)  
@@ -828,7 +830,6 @@ fransium - frans
 frem - rama  
 frike - trzeć (pocierać, obetrzeć, pucować)  
 fuge - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
-fui - fu, fuj  
 fuke - ubranie, ubiór, strój  
 fuku - nosić ubrania  
 ful - kwiat  
@@ -2069,13 +2070,9 @@ muziker - muzyk
 
 ## N  
 
-an- - negatywny (przeciwny, nie)  
-na - bez  
-na lin - offline (nie na linii, poza siecią)  
-no - nie  
 nabe - proroctwo  
 naber - prorok  
-nadiro - rzadko  
+nadir - rzadko  
 nafas - oddech  
 nagre - miasto  
 nagre - miejski  
@@ -2174,6 +2171,7 @@ nis - nisza, alkowa
 Nistria - Naddniestrze  
 nitre - azot  
 Niue - Niue  
+no - nie  
 no ham di - jakikolwiek, którykolwiek  
 nobelium - nobel  
 noce - noc  

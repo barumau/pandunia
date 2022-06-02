@@ -357,6 +357,7 @@
 **fermium** *fermium* ← English:fermium, French:fermium, Spanish:fermio, Portuguese:férmio, Russian:фермий, Mandarin:镄 (fèi), Japanese:フェルミウム, Korean:페르뮴, Vietnamese:fecmi, Hindi:फर्मियम, Bengali:ফার্মিয়াম, Malay:fermium, Swahili:fermi, Arabic: فرميوم  
 **feste** *party (celebration, festival; celebrate)* ← Portuguese:festa, Spanish:fiesta, French:fête, deu:Fest, English:festival, Russian:фестиваль (festival')  
 **fete** *do (make; deed, fact)* ← French:fait, Portuguese:fato, English:fact, deu:Fakt, Russian:факт (fakt), Persian:(fâkt)  
+**fi** *bah!* ← English:fie, French:fi, Russian:фи (fi) + Mandarin:呸 (pēi)  
 **figur** *figure (representation)* ← English:French:figure, Spanish:Portuguese:figura  
 **fikre** *think (ponder; thought, idea)* ← Arabic:(fikr), Malay:pikir, Swahili:fikiri, Turkish:fikir, Hindi:(fikr), Persian:(fekr)  
 **filme** *film (membrane, video)* ← English:Spanish:French:film, Portuguese:filme, deu:Film, Russian:фильм (fil’m), Turkish:film, Arabic:فيلم (film), Japanese:フィルム (firumu), Malay:pilem, Swahili:filamu  
@@ -384,7 +385,6 @@
 **frem** *frame* ← English:frame, Bengali:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), Marathi:फ्रेम (phrēma), Swahili:fremu  
 **frike** *rub (scrape, scrub)* ← English:friction, Spanish:Portuguese:friccionar, French:frictionner + Arabic:فرك (farak)  
 **fuge** *return (restore, recover, resume)* ← Mandarin:复 (fù), Cantonese:(fuk), Vietnamese:phục  
-**fui** *bah! (yuck!)* ← Spanish:puaj, Polish:fuj, Russian:фи (fi)  
 **fuke** *clothing (clothes)* ← Mandarin:服 (fú), Cantonese:服 (fuk6), Japanese:服 (fuku), Korean:의복 (uibok), Vietnamese:y phục  
 **ful** *flower* ← Hausa:fure, Igbo:ifulu, Lingala:folele, Hindi:फूल (phul), Bengali:ফুল (phul), French:fleur, Portuguese:Spanish:flor, English:flower  
 **fun** *dust (powder)* ← Mandarin:粉 (fěn), Hakka-Chinese:粉 (fun), Thai:ฝุ่น (fùn)  
@@ -861,6 +861,7 @@
 **max** *more* ← Spanish:mas, Portuguese:mais + English:French:maximum, Russian:максимум (maksimum), Malay:maksimum, Persian: ماکسیمم‎ (mâksimom)  
 **maxin** *machine* ← French: machine, English: machine, deu: Maschine, Malay: mesin  
 **maze** *sock (stocking)* ← Hindi:मोज़ा (mozā), Bengali:মোজা (moja), Urdu: موزا‎ (mozā) + Mandarin:袜子 (wàzi), Wu-Chinese:袜子 (ma’zi), Cantonese:襪 (mat6), Korean:말 (mal)  
+**me** *meh* ← English:meh  
 **me** *mom (mama)* ← Mandarin:妈 (mā), Vietnamese:má, Bengali:মা (ma), Hindi:मां (mã) + English:Swahili:mama, French:maman, Spanish:mamá, Portuguese:por:mãe, Russian:мама (mama), Japanese:ママ (mama), Korean:엄마 (eomma)  
 **medal** *medallion (medal)* ← English:medal, Spanish:medalla, Portuguese:medalha, French:médaille, Russian:меда́ль (medálʹ), Hindi:मेडल (meḍal), Bengali:মেডেল (meḍel), Turkish:madalya, Japanese:メダル (medaru)  
 **mede** *help (aid, assist)* ← Arabic:Persian:Urdu: مَدَد‎ (madad), Hindi:मदद (madad), Bengali:মদদ (môdôd) + French:m’aidez, English:mayday, Russian:мэдэ (mede), Japanese:メーデー (mēdē), Korean:메이데이 (meidei)  
@@ -944,7 +945,7 @@
 **mute** *change (alter, convert)* ← Spanish:mudar, English:mutate, French:muter  
 **muzike** *music* ← English:music, French:musique, Spanish:Portuguese:música, Russian:музика (muzika), Arabic:(mūsīqā), Swahili:muziki, Turkish:müzik, Malay:musik  
 **naber** *prophet* ← Arabic:(nabiy), Hindi:नबी (nabī), Malay:nabi, Swahili:nabii, Hausa:annabi, Turkish:nebi  
-**nadire** *rare (scarce, uncommon)* ← Arabic: نَادِر‎ (nādir), Hindi:नादिर (nādir), Swahili:nadra, Turkish:nadir, Persian: نادر (nâder)  
+**nadir** *rare (scarce, uncommon; seldom, rarely)* ← Arabic: نَادِر‎ (nādir), Hindi:नादिर (nādir), Swahili:nadra, Turkish:nadir, Persian: نادر (nâder)  
 **nafas** *breath* ← Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi  
 **nagis** *corruption (filth, pollution, contamination, najis)* ← Arabic:نجس (najis), Malay:najis, Swahili:najisi, Persian:نجس (najes) + English:najis, Russian:наджаса (nadžasa)  
 **nagre** *town* ← Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Kannada:ನಗರ (nagara), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon)  
@@ -962,7 +963,7 @@
 **nautile** *nautilus* ← English:nautilus, Spanish:nautilo, Portuguese:nautiloide, Russian:наутилид (nautilid), Arabic:نوتي (noti), Hindi:नौटिलस (nautilas), Turkish:notilus  
 **naze** *nose (nasal)* ← English:French:Spanish:Portuguese:nasal, Hindi:नासिका (nāsikā)  
 **naziste** *Nazi* ← Russian:нацист (natsist), Japanese:ナチ (nachi), Korean:나치 (nachi), Portuguese:Italian:nazista  
-**ne** *right? (isn't it?)* ← Portuguese:na, Hindi:न (na), Mandarin:呢 (ne), Japanese:ね (ne)  
+**ne** *right? (isn't it?)* ← Portuguese:né, Hindi:न (na), Mandarin:呢 (ne), Japanese:ね (ne), Vietnamese:nhé  
 **nefre** *kidney* ← English:French:nephro-, Spanish:Portuguese:nefro-, deu:Niere  
 **nefte** *oil* ← Arabic:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), Turkish:aze:neft, Russian:нефть (neft’), kar:ნავთი (navti) + Persian:نفت (naft), English:naphtha, Spanish:Portuguese:nafta, Japanese:ナフサ (nafusa), Korean:나프타 (napeuta), Malay:nafta  
 **neftoguke** *Indian chrysanthemum* ← Mandarin:油菊, Japanese:アブラギク  

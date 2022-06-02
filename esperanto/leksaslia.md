@@ -357,6 +357,7 @@
 **fermium** *fermio* ← angla:fermium, franca:fermium, hispana:fermio, portugala:férmio, rusa:фермий, mandarena:镄 (fèi), japana:フェルミウム, korea:페르뮴, vjetnama:fecmi, hindia:फर्मियम, bengala:ফার্মিয়াম, malaja:fermium, svahila:fermi, araba: فرميوم  
 **feste** *festo* ← portugala:festa, hispana:fiesta, franca:fête, deu:Fest, angla:festival, rusa:фестиваль (festival')  
 **fete** *fari (faro, fakto)* ← franca:fait, portugala:fato, angla:fact, deu:Fakt, rusa:факт (fakt), persa:(fâkt)  
+**fi** *bah!* ← angla:fie, franca:fi, rusa:фи (fi) + mandarena:呸 (pēi)  
 **figur** *figuro* ← angla:franca:figure, hispana:portugala:figura  
 **fikre** *pensi (penso)* ← araba:(fikr), malaja:pikir, svahila:fikiri, turka:fikir, hindia:(fikr), persa:(fekr)  
 **filme** *filmo* ← angla:hispana:franca:film, portugala:filme, deu:Film, rusa:фильм (fil’m), turka:film, araba:فيلم (film), japana:フィルム (firumu), malaja:pilem, svahila:filamu  
@@ -384,7 +385,6 @@
 **frem** *kadro* ← angla:frame, bengala:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), marataja:फ्रेम (phrēma), svahila:fremu  
 **frike** ** ← angla:friction, hispana:portugala:friccionar, franca:frictionner + araba:فرك (farak)  
 **fuge** ** ← mandarena:复 (fù), kantona:(fuk), vjetnama:phục  
-**fui** *bah!* ← hispana:puaj, polona:fuj, rusa:фи (fi)  
 **fuke** *vesto* ← mandarena:服 (fú), kantona:服 (fuk6), japana:服 (fuku), korea:의복 (uibok), vjetnama:y phục  
 **ful** *floro* ← haŭsa:fure, igba:ifulu, lingala:folele, hindia:फूल (phul), bengala:ফুল (phul), franca:fleur, portugala:hispana:flor, angla:flower  
 **fun** *polvo* ← mandarena:粉 (fěn), hakaa:粉 (fun), taja:ฝุ่น (fùn)  
@@ -861,6 +861,7 @@
 **max** *pli* ← hispana:mas, portugala:mais + angla:franca:maximum, rusa:максимум (maksimum), malaja:maksimum, persa: ماکسیمم‎ (mâksimom)  
 **maxin** *maŝino* ← franca: machine, angla: machine, deu: Maschine, malaja: mesin  
 **maze** *ŝtrumpo* ← hindia:मोज़ा (mozā), bengala:মোজা (moja), urdua: موزا‎ (mozā) + mandarena:袜子 (wàzi), vua:袜子 (ma’zi), kantona:襪 (mat6), korea:말 (mal)  
+**me** ** ← angla:meh  
 **me** *patrino* ← mandarena:妈 (mā), vjetnama:má, bengala:মা (ma), hindia:मां (mã) + angla:svahila:mama, franca:maman, hispana:mamá, portugala:por:mãe, rusa:мама (mama), japana:ママ (mama), korea:엄마 (eomma)  
 **medal** ** ← angla:medal, hispana:medalla, portugala:medalha, franca:médaille, rusa:меда́ль (medálʹ), hindia:मेडल (meḍal), bengala:মেডেল (meḍel), turka:madalya, japana:メダル (medaru)  
 **mede** *helpo* ← araba:persa:urdua: مَدَد‎ (madad), hindia:मदद (madad), bengala:মদদ (môdôd) + franca:m’aidez, angla:mayday, rusa:мэдэ (mede), japana:メーデー (mēdē), korea:메이데이 (meidei)  
@@ -944,7 +945,7 @@
 **mute** *aliigi* ← hispana:mudar, angla:mutate, franca:muter  
 **muzike** *muziko* ← angla:music, franca:musique, hispana:portugala:música, rusa:музика (muzika), araba:(mūsīqā), svahila:muziki, turka:müzik, malaja:musik  
 **naber** ** ← araba:(nabiy), hindia:नबी (nabī), malaja:nabi, svahila:nabii, haŭsa:annabi, turka:nebi  
-**nadire** *malofta* ← araba: نَادِر‎ (nādir), hindia:नादिर (nādir), svahila:nadra, turka:nadir, persa: نادر (nâder)  
+**nadir** *malofta* ← araba: نَادِر‎ (nādir), hindia:नादिर (nādir), svahila:nadra, turka:nadir, persa: نادر (nâder)  
 **nafas** *spiro* ← araba:persa:(nafas), malaja:napas, turka:nefes, haŭsa:numfashi  
 **nagis** ** ← araba:نجس (najis), malaja:najis, svahila:najisi, persa:نجس (najes) + angla:najis, rusa:наджаса (nadžasa)  
 **nagre** *urbo* ← hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), kanara:ನಗರ (nagara), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon)  
@@ -962,7 +963,7 @@
 **nautile** ** ← angla:nautilus, hispana:nautilo, portugala:nautiloide, rusa:наутилид (nautilid), araba:نوتي (noti), hindia:नौटिलस (nautilas), turka:notilus  
 **naze** *nazo* ← angla:franca:hispana:portugala:nasal, hindia:नासिका (nāsikā)  
 **naziste** ** ← rusa:нацист (natsist), japana:ナチ (nachi), korea:나치 (nachi), portugala:itala:nazista  
-**ne** ** ← portugala:na, hindia:न (na), mandarena:呢 (ne), japana:ね (ne)  
+**ne** ** ← portugala:né, hindia:न (na), mandarena:呢 (ne), japana:ね (ne), vjetnama:nhé  
 **nefre** *reno* ← angla:franca:nephro-, hispana:portugala:nefro-, deu:Niere  
 **nefte** ** ← araba:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), turka:aze:neft, rusa:нефть (neft’), kar:ნავთი (navti) + persa:نفت (naft), angla:naphtha, hispana:portugala:nafta, japana:ナフサ (nafusa), korea:나프타 (napeuta), malaja:nafta  
 **neftoguke** ** ← mandarena:油菊, japana:アブラギク  

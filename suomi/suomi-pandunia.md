@@ -350,7 +350,6 @@ ei - no
 ei koskaan (ei kertaakaan) - ansate  
 ei kukaan - anjen  
 ei mitään - ansei  
-ei mitään - ne  
 eilen - cendeno  
 einsteinium - ainstainium  
 ekologia (ympäristötiede) - ekolojia  
@@ -587,8 +586,7 @@ harpata (harppoa,käydä) - grese
 harrastaja - hobiste  
 harrastus - hobe  
 harso - gaze  
-harvinainen - nadire  
-harvoin - nadiro  
+harvinainen (harvoin) - nadir  
 hassium - hesium  
 haudata multaan - inhume  
 haureus (uskottomuus) - zine  
@@ -720,7 +718,6 @@ huutaa takaisin - reklame
 huvi (hauskuus) - van  
 hygieeninen - salsafe  
 hygienia (puhtaus) - salsafia  
-hyi! (pyh!) - fui  
 hylkiö (paaria) - paraye  
 hymiö (emoji) - emoze  
 hypätä (hyppiä) - jampe  
@@ -785,7 +782,6 @@ illallinen - suaryam
 illatiivi - inlative  
 ilma - air  
 ilma - have  
-ilman - na  
 ilmanpaine - airbaria  
 ilmapallo - balon  
 ilmapuntari (ilmanpainemittari, barometri) - airbarmetrer  
@@ -2208,6 +2204,7 @@ paahtoleipä - roste pang
 paapuuri - naulefte  
 paeta (karata) - bege  
 pah (pyh) - bah  
+pah! (pyh!) - fi  
 paha (epäsuotuisa, epämiellyttävä, vastustava) - duse  
 paha (epäsuotuisa,epämiellyttävä,vastustava) - dus  
 paheksua - dusraye  
@@ -3808,6 +3805,7 @@ zulu - Zulu
 älymystö (intelligentsia) - inteligentia  
 älyttävä (ymmärrettävä) - inteligable  
 äsken (vasta, juuri) - a nove  
+ääh (plääh) - me  
 ääni (äänestää) - vote  
 ääni - son  
 äänioikeus - votohake  

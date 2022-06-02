@@ -181,7 +181,6 @@ berkel - berkelium
 Bermudy - Bermuda  
 beryl - berilium  
 beton - beton  
-bez - na  
 bezpieczny (chronić, ratować) - sekure  
 Bhutan - Drugia  
 Białoruś - Belarus  
@@ -674,7 +673,7 @@ fotografia - fotografia
 Francja - Fransia  
 francuski naleśnik (crêpe) - fransi krepe  
 frans - fransium  
-fu, fuj - fui  
+fu, fuj - fi  
 funkcja, stanowisko - funce  
 funkcjonariusz, urzędnik - ofiser  
 funt (£) - paunde  
@@ -1822,7 +1821,6 @@ odpowiedź (odzew; odpowiedzieć, odpowiadać) - gavabe
 odsłonić, odsłaniać - andake  
 Odwarzny ( - brave  
 odwiedzić, odwiedzać - kege  
-offline (nie na linii, poza siecią) - na lin  
 oficer policji, policjant - poliser  
 oficjalny - ofise  
 oficjalny - manti  
@@ -2490,7 +2488,7 @@ ryś rudy - lalolince
 ryż - ris  
 rzadki (nieczęsty) - rare  
 rzadki (rozproszyć, rozpraszać;  rozrzedzony, rozproszony) - dise  
-rzadko - nadiro  
+rzadko - nadir  
 rzadkość - raria  
 rzecz - xei  
 rzeczownik - namloge  

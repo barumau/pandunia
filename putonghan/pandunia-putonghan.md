@@ -876,9 +876,7 @@ muzike - 音乐
 
 ## N  
 
-na lin - 离线  
-no - 不  
-nadiro - 很少  
+nadir - 很少  
 nagis - 污染物  
 nagise - 污染  
 namkitabe - 签署  
@@ -918,6 +916,7 @@ niobium - 铌
 Nipon - 日本  
 nis - 壁龛  
 nitre - 氮  
+no - 不  
 nobelium - 锘  
 noce - 夜  
 nof - 九 (9)  

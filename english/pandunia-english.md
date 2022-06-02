@@ -1006,6 +1006,7 @@ fete - do (make; deed, fact)
 • perfete - perfect (complete)  
 • rifete - do again (repeat, iterate)  
 fetolingue - artificial language (conlang)  
+fi - bah!  
 figur - figure (representation)  
 fikre - think (ponder; thought, idea)  
 file - like (liking, attraction, -philia)  
@@ -1100,7 +1101,6 @@ fransium - francium
 frem - frame  
 frike - rub (scrape, scrub)  
 fuge - return (restore, recover, resume)  
-fui - bah! (yuck!)  
 fuke - clothing (clothes)  
 fuke - dress (clothe sb.)  
 fuke - clothed (dressed)  
@@ -2396,6 +2396,7 @@ maxdarge - increment
 maxorai - overestimate  
 maxin - machine  
 maze - sock (stocking)  
+me - meh  
 mede - help (aid, assist)  
 medu - among (amid, between)  
 medal - medallion (medal)  
@@ -2627,14 +2628,9 @@ muziker - musician
 
 ## N  
 
-na - without  
-na lin - offline  
-ne - none  
-no - not (no)  
 nabe - prophecy  
 naber - prophet  
-nadire - rare (scarce, uncommon)  
-nadiro - seldom (rarely)  
+nadir - rare (scarce, uncommon; seldom, rarely)  
 nafas - breath  
 nagis - corruption (filth, pollution, contamination, najis)  
 nagise - corrupt (pollute, soil, defile, stain, taint)  
@@ -2759,6 +2755,7 @@ nis - niche (recess, alcove)
 Nistria - Transnistria  
 nitre - nitrogen  
 Niue - Niue  
+no - not (no)  
 no ham di - any (whichever; arbitrary)  
 nobelium - nobelium  
 noce - night  

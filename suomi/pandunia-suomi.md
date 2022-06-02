@@ -904,6 +904,7 @@ fete - tehdä (toimia; teko, toimenpide)
 • perfete - täydellinen  
 • rifete - tehdä uudestaan (toistaa)  
 fetolingue - keinotekoinen kieli (tekokieli, keinokieli)  
+fi - pah! (pyh!)  
 figur - hahmo (figuuri)  
 fikre - ajatella (miettiä; ajatus)  
 file - tykätä (pitää; tykkääminen)  
@@ -983,7 +984,6 @@ fransium - frankium
 frem - kehys (raamit)  
 frike - hangata  
 fuge - palauttaa  
-fui - hyi! (pyh!)  
 fuke - vaate (puku)  
 fuke - pukea (vaatettaa)  
 fuku - pukeutua (pitää vaatetta yllään)  
@@ -2091,6 +2091,7 @@ max - enemmän (myös, lisäksi, plus)
 maxorai - yliarvioida  
 maxin - kone  
 maze - sukka  
+me - ääh (plääh)  
 mede - apu (auttaa, avustaa)  
 medu - välissä  
 medal - mitali  
@@ -2282,13 +2283,9 @@ muziker - muusikko
 
 ## N  
 
-na - ilman  
-ne - ei mitään  
-no - ei  
 nabe - profetia  
 naber - profeetta  
-nadire - harvinainen  
-nadiro - harvoin  
+nadir - harvinainen (harvoin)  
 nafas - hengitys (henkäys)  
 nagre - kaupunki  
 nahun - kynsi  
@@ -2392,6 +2389,7 @@ nis - alkovi
 Nistria - Transdnistria  
 nitre - typpi  
 Niue - Niue  
+no - ei  
 no ham di - mikä tahansa (umpimähkäinen, mielivaltainen)  
 nobelium - nobelium  
 noce - yö  

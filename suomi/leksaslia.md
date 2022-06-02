@@ -357,6 +357,7 @@
 **fermium** *fermium* ← englanti:fermium, ranska:fermium, espanja:fermio, portugali:férmio, venäjä:фермий, yleiskiina:镄 (fèi), japani:フェルミウム, korea:페르뮴, vietnami:fecmi, hindi:फर्मियम, bangla:ফার্মিয়াম, malaiji:fermium, suahili:fermi, arabia: فرميوم  
 **feste** *juhlia (juhlat, pidot, bileet)* ← portugali:festa, espanja:fiesta, ranska:fête, deu:Fest, englanti:festival, venäjä:фестиваль (festival')  
 **fete** *tehdä (toimia; teko, toimenpide)* ← ranska:fait, portugali:fato, englanti:fact, deu:Fakt, venäjä:факт (fakt), persia:(fâkt)  
+**fi** *pah! (pyh!)* ← englanti:fie, ranska:fi, venäjä:фи (fi) + yleiskiina:呸 (pēi)  
 **figur** *hahmo (figuuri)* ← englanti:ranska:figure, espanja:portugali:figura  
 **fikre** *ajatella (miettiä; ajatus)* ← arabia:(fikr), malaiji:pikir, suahili:fikiri, turkki:fikir, hindi:(fikr), persia:(fekr)  
 **filme** *filmi* ← englanti:espanja:ranska:film, portugali:filme, deu:Film, venäjä:фильм (fil’m), turkki:film, arabia:فيلم (film), japani:フィルム (firumu), malaiji:pilem, suahili:filamu  
@@ -384,7 +385,6 @@
 **frem** *kehys (raamit)* ← englanti:frame, bangla:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), marathi:फ्रेम (phrēma), suahili:fremu  
 **frike** *hangata* ← englanti:friction, espanja:portugali:friccionar, ranska:frictionner + arabia:فرك (farak)  
 **fuge** *palauttaa* ← yleiskiina:复 (fù), kantoninkiina:(fuk), vietnami:phục  
-**fui** *hyi! (pyh!)* ← espanja:puaj, puola:fuj, venäjä:фи (fi)  
 **fuke** *vaate (puku)* ← yleiskiina:服 (fú), kantoninkiina:服 (fuk6), japani:服 (fuku), korea:의복 (uibok), vietnami:y phục  
 **ful** *kukka* ← hausa:fure, igbo:ifulu, lingala:folele, hindi:फूल (phul), bangla:ফুল (phul), ranska:fleur, portugali:espanja:flor, englanti:flower  
 **fun** *pöly (tomu)* ← yleiskiina:粉 (fěn), hakkakiina:粉 (fun), thai:ฝุ่น (fùn)  
@@ -862,6 +862,7 @@
 **maxin** *kone* ← ranska: machine, englanti: machine, deu: Maschine, malaiji: mesin  
 **maze** *sukka* ← hindi:मोज़ा (mozā), bangla:মোজা (moja), urdu: موزا‎ (mozā) + yleiskiina:袜子 (wàzi), wu-kiina:袜子 (ma’zi), kantoninkiina:襪 (mat6), korea:말 (mal)  
 **me** *äiti (emä)* ← yleiskiina:妈 (mā), vietnami:má, bangla:মা (ma), hindi:मां (mã) + englanti:suahili:mama, ranska:maman, espanja:mamá, portugali:por:mãe, venäjä:мама (mama), japani:ママ (mama), korea:엄마 (eomma)  
+**me** *ääh (plääh)* ← englanti:meh  
 **medal** *mitali* ← englanti:medal, espanja:medalla, portugali:medalha, ranska:médaille, venäjä:меда́ль (medálʹ), hindi:मेडल (meḍal), bangla:মেডেল (meḍel), turkki:madalya, japani:メダル (medaru)  
 **mede** *apu (auttaa, avustaa)* ← arabia:persia:urdu: مَدَد‎ (madad), hindi:मदद (madad), bangla:মদদ (môdôd) + ranska:m’aidez, englanti:mayday, venäjä:мэдэ (mede), japani:メーデー (mēdē), korea:메이데이 (meidei)  
 **meden** *kenttä (aukio)* ← arabia: مَيْدَان‎ (maydān), persia:(meydan), hindi:मैदान (maidān), bangla:ময়দান (moidan), turkki:meydan, suahili:medani, venäjä:майдан (maydan) + yleiskiina:田 (tián), japani:田 (den), korea:전 (jeon), vietnami:điền  
@@ -944,7 +945,7 @@
 **mute** *muuttaa (muuntaa)* ← espanja:mudar, englanti:mutate, ranska:muter  
 **muzike** *musiikki* ← englanti:music, ranska:musique, espanja:portugali:música, venäjä:музика (muzika), arabia:(mūsīqā), suahili:muziki, turkki:müzik, malaiji:musik  
 **naber** *profeetta* ← arabia:(nabiy), hindi:नबी (nabī), malaiji:nabi, suahili:nabii, hausa:annabi, turkki:nebi  
-**nadire** *harvinainen* ← arabia: نَادِر‎ (nādir), hindi:नादिर (nādir), suahili:nadra, turkki:nadir, persia: نادر (nâder)  
+**nadir** *harvinainen (harvoin)* ← arabia: نَادِر‎ (nādir), hindi:नादिर (nādir), suahili:nadra, turkki:nadir, persia: نادر (nâder)  
 **nafas** *hengitys (henkäys)* ← arabia:persia:(nafas), malaiji:napas, turkki:nefes, hausa:numfashi  
 **nagis** ** ← arabia:نجس (najis), malaiji:najis, suahili:najisi, persia:نجس (najes) + englanti:najis, venäjä:наджаса (nadžasa)  
 **nagre** *kaupunki* ← hindi:नगर (nagar), bangla:নগর (nôgôr), telugu:నగరము (nagaramu), kannada:ನಗರ (nagara), tamili:நகரம் (nakaram), khmer:អង្គរ (ʾɑngkɔɔ), thai:นคร (na-khon)  
@@ -962,7 +963,7 @@
 **nautile** ** ← englanti:nautilus, espanja:nautilo, portugali:nautiloide, venäjä:наутилид (nautilid), arabia:نوتي (noti), hindi:नौटिलस (nautilas), turkki:notilus  
 **naze** *nenä* ← englanti:ranska:espanja:portugali:nasal, hindi:नासिका (nāsikā)  
 **naziste** *natsi* ← venäjä:нацист (natsist), japani:ナチ (nachi), korea:나치 (nachi), portugali:italia:nazista  
-**ne** ** ← portugali:na, hindi:न (na), yleiskiina:呢 (ne), japani:ね (ne)  
+**ne** ** ← portugali:né, hindi:न (na), yleiskiina:呢 (ne), japani:ね (ne), vietnami:nhé  
 **nefre** *munuainen* ← englanti:ranska:nephro-, espanja:portugali:nefro-, deu:Niere  
 **nefte** ** ← arabia:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), turkki:aze:neft, venäjä:нефть (neft’), kar:ნავთი (navti) + persia:نفت (naft), englanti:naphtha, espanja:portugali:nafta, japani:ナフサ (nafusa), korea:나프타 (napeuta), malaiji:nafta  
 **neftoguke** ** ← yleiskiina:油菊, japani:アブラギク  

@@ -66,6 +66,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**amerikium**|eng:americium, fra:américium, spa:americio, por:amerício, rus:америций, zho:镅 (méi), jpn:アメリシウム, kor:아메리슘, vie:amerixi, hin:अमेरिशियम, ben:অ্যামেরিসিয়াম, may:amerisium, swa:ameriki, ara: أمريكيوم|
 |**amir**|ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)|
 |**ampul**|fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|
+|**an-**|ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|
 |**ancovi**|eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)|
 |**andesite**|spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit|
 |**angar**|eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga|
@@ -397,6 +398,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**fete**|fra:fait, por:fato, eng:fact, deu:Fakt, rus:факт (fakt), fas:(fâkt)|
 |**• exfete**|fra:effet, por:efeito, eng:effect, spa:efecto, rus:эффект (effekt)|
 |**• infetion**|eng:fra:infection, deu:Infektion, spa:infección, por:infecção, rus:инфекция (infektsiya), tur:enfeksiyon, may:infeksi|
+|**fi**|eng:fie, fra:fi, rus:фи (fi) + zho:呸 (pēi)|
 |**figur**|eng:fra:figure, spa:por:figura|
 |**fikre**|ara:(fikr), may:pikir, swa:fikiri, tur:fikir, hin:(fikr), fas:(fekr)|
 |**• filike**|eng:fra:-phile, por:spa:-filo|
@@ -427,7 +429,6 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**frem**|eng:frame, ben:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), mar:फ्रेम (phrēma), swa:fremu|
 |**frike**|eng:friction, spa:por:friccionar, fra:frictionner + ara:فرك (farak)|
 |**fuge**|zho:复 (fù), yue:(fuk), vie:phục|
-|**fui**|spa:puaj, pol:fuj, rus:фи (fi)|
 |**fuke**|zho:服 (fú), yue:服 (fuk6), jpn:服 (fuku), kor:의복 (uibok), vie:y phục|
 |**ful**|hau:fure, ibo:ifulu, lin:folele, hin:फूल (phul), ben:ফুল (phul), fra:fleur, por:spa:flor, eng:flower|
 |**fun**|zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)|
@@ -914,6 +915,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**max**|spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)|
 |**maxin**|fra: machine, eng: machine, deu: Maschine, may: mesin|
 |**maze**|hin:मोज़ा (mozā), ben:মোজা (moja), urd: موزا‎ (mozā) + zho:袜子 (wàzi), wuu:袜子 (ma’zi), yue:襪 (mat6), kor:말 (mal)|
+|**me**|eng:meh|
 |**mede**|ara:fas:urd: مَدَد‎ (madad), hin:मदद (madad), ben:মদদ (môdôd) + fra:m’aidez, eng:mayday, rus:мэдэ (mede), jpn:メーデー (mēdē), kor:메이데이 (meidei)|
 |**medal**|eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|
 |**meden**|ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|
@@ -999,10 +1001,8 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**musle**|eng:fra:spa:por:muesli, rus:мюсли (myusli), zho:木斯里 (mùsīlǐ), jpn:ミューズリー (myūzurī), kor:뮈슬리 (mwiseulli), tur:müsli|
 |**mute**|spa:mudar, eng:mutate, fra:muter|
 |**muzike**|eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik|
-|**an-**|ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|
-|**no**|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |**naber**|ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi|
-|**nadire**|ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)|
+|**nadir**|ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)|
 |**nafas**|ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi|
 |**nagis**|ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)|
 |**nagre**|hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|
@@ -1021,7 +1021,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**nautile**|eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|
 |**naze**|eng:fra:spa:por:nasal, hin:नासिका (nāsikā)|
 |**naziste**|rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista|
-|**ne**|por:na, hin:न (na), zho:呢 (ne), jpn:ね (ne)|
+|**ne**|por:né, hin:न (na), zho:呢 (ne), jpn:ね (ne), vie:nhé|
 |**nefre**|eng:fra:nephro-, spa:por:nefro-, deu:Niere|
 |**nefte**|ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta|
 |**neftoguke**|zho:油菊, jpn:アブラギク|
@@ -1045,6 +1045,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**niponium**|eng:fra:may:nihonium, spa:nihonio, por:nihonium, rus:нихоний, jpn:ニホニウム, kor:우눈트륨, vie:swa:nihoni|
 |**nis**|fra:eng:niche, por:nicho, rus:ниша (niša)|
 |**nitre**|eng:nitrogen, fra:azote, spa:nitrógeno, por:nitrogénio, rus:азот, vie:nitơ, hin:नाइट्रोजन, ben:নাইট্রোজেন, may:nitrogen, swa:nitrojeni, ara: نيتروجين|
+|**no**|eng:spa:no, fra:non, por:não, ben:না (na), rus:не (nye), hin:नहीं (nahī̃), kor:아니 (ani), jpn:-ない (-nai)|
 |**nobelium**|eng:nobelium, fra:nobélium, spa:nobelio, por:nobélio, rus:нобелий, zho:锘 (nuò), jpn:ノーベリウム, kor:노벨륨, vie:nobeli, hin:नोबेलियम, ben:নোবেলিয়াম, may:nobelium, swa:nobeli, ara: نوبليوم|
 |**noce**|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |**node**|eng:node, spa:nudo, por:nó, fra:nœud + vie:nút|

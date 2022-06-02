@@ -371,6 +371,7 @@ fete - fazer (fato, facto)
 • infetion - infecção  
 • parafete - efeito colateral  
 • rifete - repetir  
+fi - bah!  
 • profile - preferir  
 • profilaje - favorito (preferido)  
 • profilisme - favoritismo  
@@ -870,6 +871,7 @@ max - mais
 • maxuria - maioria  
 maxorai - superestimar (sobrestimar)  
 maze - meia  
+me - nhé  
 meden - praça  
 medenpapil - papoila  
 mei - belo (lindo)  
@@ -951,10 +953,7 @@ muzike - música
 
 ## N  
 
-na - sem  
-no - não  
-nadire - raro  
-nadiro - raramente  
+nadir - raro (raramente)  
 nagis - poluição  
 namkitabe - assinar  
 narde - gamão  
@@ -996,6 +995,7 @@ Nipon - Japão
 niponium - nihonium  
 nis - nicho  
 nitre - nitrogénio  
+no - não  
 no ham di - arbitrário  
 nobelium - nobélio  
 noce - noite  

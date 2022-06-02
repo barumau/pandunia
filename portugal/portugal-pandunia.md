@@ -141,6 +141,7 @@ bacalhau-do-atlântico - atlantokade
 bacia - basen  
 baga - beri  
 bagagem - bagaje  
+bah! - fi  
 baile (danza) - danse  
 balde - balde  
 bambu - banse  
@@ -988,6 +989,7 @@ neurotoxina - neurotoxe
 neurônio - neurocel  
 neve - hima  
 nexo (rede) - nete  
+nhé - me  
 nicho - nis  
 nihonium - niponium  
 ninho (vespiero) - nide  
@@ -1244,8 +1246,7 @@ racional - rationi
 raiz - radike  
 raposa - hulei  
 rapsódia - rapsodia  
-raramente - nadiro  
-raro - nadire  
+raro (raramente) - nadir  
 raro - rare  
 rasgar - cire  
 razoamento - ration  
@@ -1356,7 +1357,6 @@ seis (6) - sise
 selva (floresta) - van:  
 selvagem (silvestre) - jangle  
 selénio - selenium  
-sem - na  
 semente - semen  
 seminal - semene  
 semântica - semolojia  

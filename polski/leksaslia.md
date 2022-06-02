@@ -357,6 +357,7 @@
 **fermium** *ferm* ← eng:fermium, fra:fermium, spa:fermio, por:férmio, rus:фермий, zho:镄 (fèi), jpn:フェルミウム, kor:페르뮴, vie:fecmi, hin:फर्मियम, ben:ফার্মিয়াম, may:fermium, swa:fermi, ara: فرميوم  
 **feste** *przyjęcie (święto, festiwal)* ← por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')  
 **fete** *zrobić (czyn, uczynek)* ← fra:fait, por:fato, eng:fact, deu:Fakt, rus:факт (fakt), fas:(fâkt)  
+**fi** *fu, fuj* ← eng:fie, fra:fi, rus:фи (fi) + zho:呸 (pēi)  
 **figur** *figura, reprezentacja* ← eng:fra:figure, spa:por:figura  
 **fikre** *myśleć (dumać; myśl, pomysł)* ← ara:(fikr), may:pikir, swa:fikiri, tur:fikir, hin:(fikr), fas:(fekr)  
 **filme** *film* ← eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem, swa:filamu  
@@ -384,7 +385,6 @@
 **frem** *rama* ← eng:frame, ben:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), mar:फ्रेम (phrēma), swa:fremu  
 **frike** *trzeć (pocierać, obetrzeć, pucować)* ← eng:friction, spa:por:friccionar, fra:frictionner + ara:فرك (farak)  
 **fuge** *wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać* ← zho:复 (fù), yue:(fuk), vie:phục  
-**fui** *fu, fuj* ← spa:puaj, pol:fuj, rus:фи (fi)  
 **fuke** *ubranie, ubiór, strój* ← zho:服 (fú), yue:服 (fuk6), jpn:服 (fuku), kor:의복 (uibok), vie:y phục  
 **ful** *kwiat* ← hau:fure, ibo:ifulu, lin:folele, hin:फूल (phul), ben:ফুল (phul), fra:fleur, por:spa:flor, eng:flower  
 **fun** *pył* ← zho:粉 (fěn), hak:粉 (fun), tha:ฝุ่น (fùn)  
@@ -861,6 +861,7 @@
 **max** *bardzie* ← spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)  
 **maxin** *maszyna* ← fra: machine, eng: machine, deu: Maschine, may: mesin  
 **maze** *skarpeta, skarpetka, pończocha* ← hin:मोज़ा (mozā), ben:মোজা (moja), urd: موزا‎ (mozā) + zho:袜子 (wàzi), wuu:袜子 (ma’zi), yue:襪 (mat6), kor:말 (mal)  
+**me** ** ← eng:meh  
 **me** *mama* ← zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, fra:maman, spa:mamá, por:por:mãe, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)  
 **medal** *medalion, medal* ← eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)  
 **mede** *pomóc (pomagać, asystować; pomoc, wsparcie)* ← ara:fas:urd: مَدَد‎ (madad), hin:मदद (madad), ben:মদদ (môdôd) + fra:m’aidez, eng:mayday, rus:мэдэ (mede), jpn:メーデー (mēdē), kor:메이데이 (meidei)  
@@ -944,7 +945,7 @@
 **mute** *zmienić, zmieniać* ← spa:mudar, eng:mutate, fra:muter  
 **muzike** *muzyka* ← eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik  
 **naber** *prorok* ← ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi  
-**nadire** ** ← ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)  
+**nadir** *rzadko* ← ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)  
 **nafas** *oddech* ← ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi  
 **nagis** ** ← ara:نجس (najis), may:najis, swa:najisi, fas:نجس (najes) + eng:najis, rus:наджаса (nadžasa)  
 **nagre** *miasto* ← hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)  
@@ -962,7 +963,7 @@
 **nautile** *nautilus* ← eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus  
 **naze** *nos* ← eng:fra:spa:por:nasal, hin:नासिका (nāsikā)  
 **naziste** *nazista* ← rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista  
-**ne** ** ← por:na, hin:न (na), zho:呢 (ne), jpn:ね (ne)  
+**ne** ** ← por:né, hin:न (na), zho:呢 (ne), jpn:ね (ne), vie:nhé  
 **nefre** *nerka* ← eng:fra:nephro-, spa:por:nefro-, deu:Niere  
 **nefte** *olej* ← ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta  
 **neftoguke** *złocień indyjski* ← zho:油菊, jpn:アブラギク  

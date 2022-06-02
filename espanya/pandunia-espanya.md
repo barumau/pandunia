@@ -835,6 +835,7 @@ fete - hacer (hecho)
 • perfete - perfecto  
 • rifete - repetir  
 fetolingue - idioma artificial (lengua construida, conlang)  
+fi - bah  
 figur - representación (figura)  
 fikre - pensar (idea, pensamiento)  
 file - gustarse (querer; attracción, -filia)  
@@ -903,7 +904,6 @@ fransium - francio
 frem - marco  
 frike - raspar (arañar)  
 fuge - regresar (restablecer, restaurar, recuperar, reanudar)  
-fui - puaj  
 fuke - ropa (vestimenta)  
 fuke - vestir  
 fuke - vestido (llevando ropa)  
@@ -2208,12 +2208,9 @@ muziker - músico
 
 ## N  
 
-na - sin  
-no - no  
 nabe - profecía  
 naber - profeta  
-nadire - raro  
-nadiro - raramente  
+nadir - raro (raramente)  
 nafas - respiración  
 nagis - contaminación (corrupción, porquería, suciedad)  
 nagise - corromper (contaminar)  
@@ -2323,6 +2320,7 @@ nis - hornacina
 Nistria - Transnistria (Cisdniéster)  
 nitre - nitrógeno  
 Niue - Niue  
+no - no  
 no ham di - qualquier (arbitrario)  
 nobelium - nobelio  
 noce - noche  

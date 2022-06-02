@@ -582,10 +582,12 @@ Usually it is enough to mention the time just once at the beginning of the text
 and not in every single sentence, if the tense doesn't change.
 
 
-## Modal particles
+### Sentence-ending particles
 
-In Pandunia, sentence-final particles are used to communicate why the sentence is said,
-for example, is the sentence a statement, a question or a command.
+Sentence-ending particles are modal particles or interaction particles that occur at the end of a sentence.
+They indicate the speaker's mood or attitude to the meaning of the sentence.
+They can also indicate what kind of reaction to the sentence the speaker expects from the listener.
+For example, the speaker can use the particle **ne** to indicate that they expect the listener express their point of view.
 
 **ba**
 indicates a suggestion or a command.
@@ -593,29 +595,61 @@ indicates a suggestion or a command.
 **yam ba!**
 – Eat!
 
+
+**fi**
+indicates disdainment, disrespect or contempt.
+It translates as *bah*, *fie*.
+
+**tu fete ye, fi.**
+– You did it, bah.  
+**fi! piza! mi no vole.**
+– Bah! Pizza! I don't want (it).
+
+
 **he**
-asks a yes-or-no question.
+asks a direct *yes or no* question.
 It translates as *eh?* or *huh?*.
 
 **tu ame kafe, he?**
 – You love coffee, huh?
 
+**me**
+indicates indifference, boredom or lack of excitement.
+
+**me. ye no nove.**
+– Meh. It's not new.
+
 **ne**
-asks for confirmation to what was said just before.
+asks for the listener's point of view on the matter,
+usually their agreement.
+It is different from **he** in that it's not directly asking a question but it only seeks confirmation.
 It roughly translates as *right?*, *isn't it?*, *isn't that so?*, etc.
 One uses it at the end of sentence if one is not completely sure about something but thinks it's probably true.
 
 **tu ame kafe, ne? cepe un kupe ba!**
-– You love coffee, right? Grab a cup!
+– You love coffee, right? Grab a cup!  
+**ye nove, ne?**
+– It is new, isn't it?
+
+**na**
+is used to introduce a statement.
+It can fill a pause, particularly at the beginning of a response to a question.
+It can also introduce a statement that may be contrary to expectations.
+
+**tu kitabe ye, he? – na, no le.**
+– Did you write it? – Well, not yet.  
+**ye bon, ne? – na, ya.**
+– It's good, isn't it? – Well, yes.
 
 **o**
-indicates uncertainty.
+indicates that the speaker is uncertain of the matter.
+It roughly translates as *or...?*.
 
-**tu ame kafe, o...**
-– You love coffee, or...
+**ye okei a tu, o...**
+– It is okay for you, or...
 
 **va**
-indicates excitement.
+indicates that the speaker is excited, amazed or surprised.
 It can be used on its own or at the start or end of a sentence to express how amazing or surprising something is.
 
 **va!**
@@ -628,10 +662,13 @@ Wow!
 **ya**
 reinforces the meaning of the sentence
 or indicates agreement.
-It can be translated *indeed* or *truly*.
+The speaker is absolutely sure of what they are saying.
+It can be translated as *indeed* or *truly*.
 
-**mi ame kafe, ya.**
-– I love coffee indeed.  
+**mi le vide tu ya.**
+– I truly saw you.  
+**ye ver, ya.**
+– It is true indeed.  
 **ye nove, ne? – ye nove, ya.**
 – It is new, right? – It's new indeed.
 

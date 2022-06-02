@@ -872,7 +872,6 @@ muzike - 音楽
 
 ## N  
 
-no - いいえ  
 nagis - 汚れ (汚染)  
 nagise - 汚す  
 nagise - 汚い  
@@ -915,6 +914,7 @@ nipone - 日本の (日本語, 日本人)
 niponium - ニホニウム  
 nis - 壁龕  
 nitre - 窒素  
+no - いいえ  
 nobelium - ノーベリウム  
 noce - 夜  
 nof - 九 (9)  

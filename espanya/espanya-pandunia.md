@@ -336,6 +336,7 @@ bacalao común - atlantokade
 backgammon - narde  
 baguette - batonpang  
 bah - bah  
+bah - fi  
 Bahamas - Bahama  
 bahaísmo (fe bahá'i) - bahaisme  
 bahá'í - bahaiste  
@@ -2913,7 +2914,6 @@ préstamo lingüístico - jekolexe
 próximo - prose  
 psicología - ruhlojia  
 psique - ruh  
-puaj - fui  
 pudrirse (cariarse, descomponerse) - pudu  
 pudín - puding  
 pueblo (población; público) - deme  
@@ -2987,9 +2987,8 @@ rampa (cuesta) - rampe
 rana - krokroke  
 rapidez (velocidad) - sugude  
 rapsodia - rapsodia  
-raramente - nadiro  
 raro (extraño) - bizar  
-raro - nadire  
+raro (raramente) - nadir  
 raro - rare  
 rasgar (romper) - cire  
 raspar (arañar) - frike  
@@ -3280,7 +3279,6 @@ similar - samsife
 simple - simple  
 simular - samsife  
 simétrico - sammetre  
-sin - na  
 Singapur - Singapur  
 sinocoreano - cinocoseni  
 sinovietnamita - cinovieti  

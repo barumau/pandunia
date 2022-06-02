@@ -398,6 +398,7 @@ fete - факт
 • infetion - инфекция  
 • parafete - побочный эффект  
 • rifete - повторять  
+fi - тьфу (фи)  
 • profile - предпочитать  
 • profilaje - любимый  
 • profilisme - фаворитизм (кумовство)  
@@ -983,9 +984,7 @@ muzike - музика
 
 ## N  
 
-no - нет (не)  
-nadire - редкий  
-nadiro - редко  
+nadir - редкий (редко)  
 nagis - грязь (скверна)  
 namkitabe - подписать  
 • antonam - антоним  
@@ -1027,6 +1026,7 @@ Nipon - Япония
 niponium - нихоний  
 nis - ниша  
 nitre - азот  
+no - нет (не)  
 nobelium - нобелий  
 noce - ночь  
 nof - девять (9)  

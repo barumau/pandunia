@@ -295,7 +295,7 @@ bad (unfavorable,negative,evil,wicked,troublesome,difficult) - dus
 bag (sack) - sake  
 baguette - batonpang  
 bah - bah  
-bah! (yuck!) - fui  
+bah! - fi  
 Baha'ism - bahaisme  
 Baha'ist - bahaiste  
 Bahamas - Bahama  
@@ -2420,6 +2420,7 @@ medium (media) - midia
 meet - mite  
 meeting (gathering) - mite  
 megawat (MW) - megavate  
+meh - me  
 meitnerium - maitnerium  
 melodious (melodic) - melodi  
 melodrama - melodrame  
@@ -2683,7 +2684,6 @@ nobelium - nobelium
 nobody (no-one) - anjen  
 noise - kelele  
 nominative case - namative  
-none - ne  
 noodle - mien  
 Norfolk Island - Norfolke nes  
 norm (standard; normal) - norme  
@@ -2749,7 +2749,6 @@ officer - ofiser
 official (formal, bureaucratic) - bure di  
 official (pertaining to public trust) - manti  
 official - ofise  
-offline - na lin  
 often (frequently) - poli mar  
 ogre (troll, goblin) - gui  
 oil - nefte  
@@ -3257,7 +3256,7 @@ raki - anis arake
 Ramadan - ramazan  
 ramp (incline, slope) - rampe  
 rape (forced sex) - zorsexe  
-rare (scarce, uncommon) - nadire  
+rare (scarce, uncommon; seldom, rarely) - nadir  
 rare (uncommon, sparse) - rare  
 rarity - raria  
 rational (reasonable) - rationi  
@@ -3534,7 +3533,6 @@ seed (fertilized grain) - semendan
 seed (semen) - semen  
 seek (claim, demand, apply, pursue, request; application, petition) - talbe  
 seismology - sismolojia  
-seldom (rarely) - nadiro  
 selenium - selenium  
 self (identity; personal, intimate, private) - aute  
 self (reflexive pronoun) - se  
@@ -4368,7 +4366,6 @@ wire - metallin
 wisdom - sofia  
 wise - sofe  
 with (there be; have) - ha  
-without - na  
 wolf - volfe  
 Wolof (language and people) - Volof  
 woman (adult female) - maturi fem  

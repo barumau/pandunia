@@ -59,6 +59,7 @@ amerikan - amerika
 amerikium - americio  
 amir - ordono  
 amper - ampero  
+an- - mala  
 ancovi - sardelo (anĉovo)  
 Andes - Andoj  
 angar - ankro  
@@ -493,6 +494,7 @@ fete - fari (faro, fakto)
 • infetion - infekto  
 • rifete - ripeti (refari)  
 fetolingue - artefarita lingvo  
+fi - bah!  
 figur - figuro  
 fikre - pensi (penso)  
 • profile - preferi (pliŝati)  
@@ -536,7 +538,6 @@ fransi krepe - franca krepo
 Fransia - Francio  
 fransium - franciumo  
 frem - kadro  
-fui - bah!  
 fuke - vesto  
 fuke - vestigi  
 fuku - vesti (surporti)  
@@ -1189,12 +1190,8 @@ muziker - muzikisto
 
 ## N  
 
-an- - mala  
-na - sen  
-no - ne  
 nabe - profetaĵo  
-nadire - malofta  
-nadiro - malofte  
+nadir - malofta  
 nafas - spiro  
 nagre - urbo  
 nagre - urba  
@@ -1236,6 +1233,7 @@ Nipon - Japanio
 nipone - japana  
 niponium - nihonio  
 nitre - nitrogeno  
+no - ne  
 no ham di - iu ajn  
 nobelium - nobelio  
 noce - nokto  
