@@ -2,16 +2,17 @@
 
 ## A  
 
-a sababe de - porque  
 a - en (a)  
-a zay - ahora (actualmente)  
-a zay den - hoy  
+a danke de - gracias a (merced a)  
 a ke - dónde  
 a le - allí (allá)  
 a line - en línea  
 a max - además  
 a nove - ahora mismo (justo)  
+a sababe de - porque  
 a sube - debajo  
+a zay - ahora (actualmente)  
+a zay den - hoy  
 abete - abeto  
 able - poder (posible)  
 • ablo - posiblemente  
@@ -273,13 +274,14 @@ batonkapse - jaula (caja)
 batonpang - baguette  
 batre - pila (batería)  
 bau - tesoro (precioso)  
-bauseke - piedra preciosa (joya, gema)  
+bavite - piedra preciosa (joya, gema)  
 baze - base (básico; fundar, basar)  
 baze bol - béisbol  
 bazer - fundador  
 bazokanun - constitución  
 bazopetre - lecho de roca  
 bazoxulkan - escuela primaria  
+bazostrute - infraestructura  
 bazar - mercado (bazar)  
 be - sufrir (verbo pasivo)  
 bebe - bebé  
@@ -328,6 +330,7 @@ bilor - cristal
 bine - construir (edificar)  
 binoplania - arquitectura  
 binoplaner - arquitecto  
+binite - ladrillo  
 binde - punto (lunar)  
 bir - cerveza (birra)  
 birkan - bar (pub)  
@@ -521,17 +524,16 @@ cuzoliste - menú (catálogo)
 
 ## D  
 
-da - de (posposición de posesión)  
 dai - grande (crecer, aumentar)  
-dayia - tamaño  
+• dayia - tamaño  
 dayangiler - embajador  
 dayangilkan - embajada  
 daidom - palacio (mansión)  
 daihai - océano  
+dayite - peñasco (pedrusco)  
 daipau - cañón  
 daipaver - cañonear  
-daiseke - peñasco (pedrusco)  
-daivaze - caldero  
+daipote - caldero  
 daixulkan - universidad  
 dake - cubrir (tapa, funda, cubierta)  
 • andake - destapar  
@@ -542,10 +544,9 @@ dama gem - damas
 dane - danés  
 Dania - Dinamarca  
 dan - partícula (grano, bala)  
-dansekure - antibalas  
+danosekure - antibalas  
 danger - campana (cencerro)  
 danke - agradecer (gracias)  
-danko de - gracias a (merced a)  
 danse - baile (danza)  
 dante - diente  
 • danta - morder  
@@ -571,6 +572,7 @@ dau - camino (calle)
 • davisme - taoísmo  
 • daviste - taoísta  
 dauban - señal de tránsito  
+de - de (posposición de posesión)  
 de - de (desde)  
 debu - deber (necesitar)  
 deci - deci-  
@@ -638,7 +640,6 @@ dite - dictar
 • ditateria - dictadura  
 • dition - dicción  
 Divehia - Maldivas  
-dobe - ladrillo  
 Doice - Alemania  
 doice - alemán  
 • dokaje - doctrina  
@@ -940,7 +941,7 @@ fuzopetre - lava
 ga - a (hacia)  
 Gabon - Gabón  
 gabre - tumba (sepultura; enterrar)  
-gabroseke - lápida  
+gabrite - lápida  
 gabrostan - cementerio  
 gade - burro (asno)  
 gadogude - mula  
@@ -1145,7 +1146,6 @@ haigun - marina (armada)
 haihiyar - holoturia (pepino de mar)  
 haiporte - puerto marítimo  
 haitate - costa  
-Hayakia - Armenia  
 haide - vamos a  
 Haiti - Haití  
 hake - derecho  
@@ -1189,6 +1189,7 @@ hato - hasta (también)
 hatre - peligro (peligroso)  
 Havai - Hawái  
 Havai nesia - archipiélago de Hawái  
+Hayastan - Armenia  
 he - cómo? (eh?)  
 hei - oye (hey)  
 helium - helio  
@@ -1237,7 +1238,7 @@ hogu - quemarse
 hogosan - volcán  
 hogosani kance - vidrio volcánico  
 hogosanduke - farol (linterna)  
-hogoseke - pedernal (sílex)  
+hogite - pedernal (sílex)  
 hogotehne - dispositivo pirotécnico  
 hoke - hockey  
 hole - entero (todo)  
@@ -1329,6 +1330,8 @@ Islandia - Islandia
 isme - ideología (doctrina, religión, -ismo)  
 Israel - Israel  
 iste - proponente (defensor, -ista)  
+ite - piedra  
+itojanger - albañil (mampostero, cantero)  
 Italia - Italia  
 itis - inflamación  
 ive - tender  
@@ -1747,10 +1750,10 @@ lai - venir
 laiane - traer  
 lake - laca  
 lale - rojo  
-lalbauseke - rubí  
 lalolince - lince rojo (gato montés)  
 lalorange - mandarina (tangerina)  
 lalsalmon - salmón rojo  
+lalobavite - rubí  
 lama - lama  
 lampe - lámpara  
 LAN (loke aria nete) - LAN (RAL)  
@@ -2143,7 +2146,7 @@ mokozongoparke - arboreto
 mole - moler (pulverizar)  
 molia - molino  
 moler - molinero  
-molseke - muela  
+molite - muela  
 Moldove - Moldova  
 mole - mol  
 molekul - molécula  
@@ -2559,6 +2562,7 @@ pesosaider - pescador
 pestanke - acuario (pecera)  
 pete - barriga (vientre, panza)  
 petre - roca (piedra)  
+• petrolojia - petrología  
 petronefte - petróleo  
 piano - piano  
 piaze - cebolla  
@@ -2960,8 +2964,6 @@ saus - salsa
 se - se  
 se su - su (suyo)  
 semon - el uno al otro (mutuamente)  
-seke - piedra  
-sekozanger - albañil (mampostero, cantero)  
 sekreter - secretario  
 sekreteria - secretaría  
 sekunde - segundo  
@@ -3081,7 +3083,7 @@ sirplan - complot (conspiración)
 sirke - círculo  
 sirke - rodear (cirundar)  
 sirke - redondo (circular)  
-sirkoseke - adoquín  
+sirkite - adoquín  
 siro - cero (ninguno)  
 sisa - atravesar  
 sise - seis (6)  

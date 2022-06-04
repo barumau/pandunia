@@ -60,7 +60,7 @@ adiós - salam cute
 adjetivo - sifloge  
 administrador - politer  
 admirar - amire  
-adoquín - sirkoseke  
+adoquín - sirkite  
 adoración (veneración, culto) - puze  
 adorar (venerar) - puze  
 adormidera (amapola real) - somopapil  
@@ -106,7 +106,7 @@ alargar - longe
 Alaska - Alaska  
 Albania - Cipia  
 albaricoque - barkoke  
-albañil (mampostero, cantero) - sekozanger  
+albañil (mampostero, cantero) - itojanger  
 alcachofera - karcof  
 alcohol - alkol  
 aldea (villa) - vilaje  
@@ -194,7 +194,7 @@ anormal - annorme
 antartida - Antartike  
 antena - anten  
 anterior (remoto) - pase  
-antibalas - dansekure  
+antibalas - danosekure  
 Anticristo - antikriste  
 Antigua - Antigua  
 Antigua y Barbuda - Antigua e Barbuda  
@@ -241,7 +241,7 @@ arma - arme
 arma nuclear - kori arme  
 armadura - defkaske  
 armario - almari  
-Armenia - Hayakia  
+Armenia - Hayastan  
 armonioso - harmone  
 armonía - harmonia  
 arnés (arreos, jaeces) - harnes  
@@ -520,7 +520,7 @@ calcio - kalsium
 calcita - kalsite  
 calcular (computar) - konpute  
 calcular - hisabe  
-caldero - daivaze  
+caldero - daipote  
 calendario - kalende  
 calidad (excelencia, mérito, virtud, ventaja) - bonsifia  
 caliente (cálido) - garme  
@@ -975,7 +975,7 @@ datos - date
 dañar (daño, corrupción) - avar  
 dañino (perjudicial) - avaran  
 de (desde) - de  
-de (posposición de posesión) - da  
+de (posposición de posesión) - de  
 de (posposición de posesión) - di  
 de lado - lato  
 de lujo - deluxe  
@@ -1567,7 +1567,7 @@ gorila occidental - vestogoril
 gorila oriental - dongogoril  
 gota - yote  
 grabado (sello, estampando) - cape  
-gracias a (merced a) - danko de  
+gracias a (merced a) - a danke de  
 grado Celsius - celsius darge  
 grafema - kitabeme  
 gramo (g) - gram  
@@ -1791,6 +1791,7 @@ informe (reporte,noticia) - reporte
 informe (reporte,noticia) - reporte  
 infortunio (mala suerte) - dusi zar  
 infortunio (mala suerte) - dusozar  
+infraestructura - bazostrute  
 ingeniero - enjener  
 Inglaterra - Englia  
 inglés - engle  
@@ -1947,7 +1948,7 @@ laca - lake
 lado (flanco) - late  
 lado derecho - raite  
 lado izquerdo - lefte  
-ladrillo - dobe  
+ladrillo - binite  
 ladrón - luter  
 ladrón - corer  
 lagarto - saure  
@@ -2073,7 +2074,7 @@ Luxemburgo - Luxemburge
 luz (iluminación) - fote  
 lágrima - okosui  
 lámpara - lampe  
-lápida - gabroseke  
+lápida - gabrite  
 léxico - lexike  
 Líbano - Libanen  
 límite (frontera, linde) - lime  
@@ -2339,7 +2340,7 @@ muchos (múltiples) - osi
 muchos - multe  
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - kine  
 mueca - grimas  
-muela - molseke  
+muela - molite  
 muerte (fallecimiento) - morte  
 muerto - morte  
 muesli - musle  
@@ -2671,7 +2672,7 @@ pecho (busto) - buste
 pecho (seno, tórax) - sina  
 pedal - pedal  
 pedazo - tike  
-pedernal (sílex) - hogoseke  
+pedernal (sílex) - hogite  
 pedir (invitar; por favor) - cing  
 pedir prestado - jekocepe  
 pedo (peer) - perde  
@@ -2727,15 +2728,16 @@ pescar - yege pes
 peso (gravedad) - vezia  
 pestaña - okokex  
 peto - sinaplate  
+petrología - petrolojia  
 petróleo - petronefte  
 pez globo - balonpes  
-peñasco (pedrusco) - daiseke  
+peñasco (pedrusco) - dayite  
 piano - piano  
 pico (punta) - pike  
 pidgin - pijin  
 pie (pata) - fute  
-piedra - seke  
-piedra preciosa (joya, gema) - bauseke  
+piedra - ite  
+piedra preciosa (joya, gema) - bavite  
 piel - pil  
 pila (batería) - batre  
 pilaf (pulaw) - polau  
@@ -3124,7 +3126,7 @@ rotor - roter
 rotura - ruture  
 Ruanda - Ruanda  
 rubidio - rubidium  
-rubí - lalbauseke  
+rubí - lalobavite  
 rueda (volante) - cakre  
 ruido - kelele  
 ruiseñor - bulbul  

@@ -35,7 +35,6 @@
 **ampul** *ampulli* ← ranska:englanti:ampoule, yleiskiina:安瓿 (ānbù), japani:アンプル (anpuru), venäjä:ампула (ámpula), arabia:(ʾambūla)  
 **an-** *vastakohtainen (negatiivinen, epä-)* ← kreikka:ἀν- (an-), englanti:un-, hindi:अन- (an-), ranska:espanja:portugali:in-  
 **ancovi** *sardelli (anjovis)* ← englanti:anchovy, ranska:anchois, espanja:anchoa, portugali:anchova, venäjä:анчоус (ančous), japani:アンチョビ (anchobi), hindi:ऐन्चोवी (enchovi)  
-**andesite** ** ← espanja:andesita, englanti:andesite, venäjä:андезит (andezit), turkki:andezit, arabia:أنديزيت ('andizit), hindi:एंडेसाइट (endesait), vietnami:malaiji:andesit  
 **angar** *ankkuri* ← englanti:anchor, ranska:ancre, portugali:âncora, malaiji:jangkar, venäjä:якорь, arabia:(ʾanjar), hindi:लंगर (laṅgar), urdu:(laṅgar), telugu:లంగరు (laṅgaru), suahili:nanga  
 **angil** *viesti* ← kreikka:ἀγγελία (angelía), arabia:(ʾinjīl), suahili:injili, malaiji:injil, turkki:incil, hindi:इंजील (iñjīl) + englanti:angel, ranska:ange, espanja:ángel, portugali:anjo, venäjä:ангел (angel), yleiskiina:安琪儿 (ānqí'ér)  
 **angul** *sormi tai varvas* ← hindi:अंगुलि (aṅgulī), bangla:আঙুল (aṅgul)  
@@ -237,7 +236,6 @@
 **cute** *poistua* ← yleiskiina:出 (chū), hakkakiina:(chut), korea:출 (chul), hindi:छूटना (chūtnā) + turkki:çıkmak  
 **cuve** *pureskella* ← englanti:chew + ranska:chewing-gum, hindi:चूइंग गम (cūiṅg gam), bangla:চ্যুইং গাম (cyuiṅ gam), japani:チューインガム (chūingamu), korea:츄잉껌 (chu'ingkkeom)  
 **cuze** *valita (valinta, vaali)* ← englanti:choose, + hindi:चुनना (cunnā), + vietnami:chọn  
-**da** *määritetyn määritteeseen liittävä partikkeli* ← [da] ranska:de, du, portugali:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] yleiskiina:的 (de), kantoninkiina:啲 (di1) + [de] deu:der  
 **dai** *iso (suuri; suurentua, kasvaa kokoa)* ← kantoninkiina:大 (daai), yleiskiina:大 (dá), vietnami:đại, japani:(dai, tai), korea:대— (dae-)  
 **daihai** *valtameri* ← yleiskiina:大海 (dàhǎi), japani:大海 (taikai), korea:대양 (daeyang), vietnami:đại dương, hindi:महासागर (mahāsāgar), bangla:মহাসমুদ্র (môhaśmudr), thai:มหาสมุทร (mahasamut)  
 **dake** *peittää (peite, kansi)* ← hindi:ढकना (dhaknā), bangla:ঢাকা (ḍhaka), pandzabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, englanti:deck  
@@ -256,6 +254,7 @@
 **darte** *maa (multa; mutainen, likainen)* ← englanti:dirt, hindi:धरती (dhartī), urdu:(dhartī), vietnami:đất, malaiji:darat  
 **date** *data (numeerinen tieto)* ← englanti:malaiji:data, vietnami:đa ta, deu:Daten, espanja:filippiini:datos, portugali:dados, persia:(dâde-hâ), hindi:डेटा (ḍeṭā), urdu:(ḍeṭā), japani:データ (dēta)  
 **dau** *tie* ← yleiskiina:道 (dào), kantoninkiina:道 (dou6), japani:道 (dō), korea:도 (do), vietnami:đạo  
+**de** *määritetyn määritteeseen liittävä partikkeli* ← [da] ranska:de, du, portugali:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] yleiskiina:的 (de), kantoninkiina:啲 (di1) + [de] deu:der  
 **debu** *täytyä (olla pakko)* ← ranska:devoir, espanja:deber, portugali:dever  
 **defe** *puolustaa (puolustus)* ← arabia: دِفَاع (difāʿ), hindi:दफ़ा (dafā), persia:urdu:  دفاع  (difā'), + ranska:englanti:defense, espanja:defensa, portugali:defesa, turkki:defans  
 **dege** *saada (hankkia, ansaita)* ← yleiskiina:得 (dé), kantoninkiina:得 (dak1), korea:득 (deuk), vietnami:được  
@@ -275,10 +274,8 @@
 **dinamite** *dynamiitti* ← englanti:dynamite, espanja:dinamita, venäjä:динамит (dinamit), turkki:malaiji:dinamit, arabia:ديناميت (dinamit), hindi:डायनामाइट (dāyanāmait), japani:ダイナマイト (dainamaito)  
 **dinde** *kalkkuna* ← ranska:dinde, venäjä:индюк (indyuk), turkki:hindi, arabia: دِيك هِنْدِيّ‎ (dīk hindiy)  
 **ding** *naula (piikki)* ← yleiskiina:钉 (dīng), kantoninkiina:釘 (deng1), vietnami:đinh  
-**diorite** ** ← englanti:ranska:diorite, espanja:diorita, venäjä:диорит (diorit), turkki:diyorit, arabia:ديوريت (dayurit), hindi:डायोराइट (dāyorait), vietnami:malaiji:diorit  
 **diske** *kiekko (levy)* ← englanti:turkki:disk, ranska:disque, espanja:portugali:disco, venäjä:диск (disk), hindi:डिस्क (ḍisk), bangla:ডিস্ক (ḑisk), japani:ディスク (disuku), korea:디스크 (diseukeu)  
 **disprosium** *dysprosium* ← englanti:dysprosium, ranska:dysprosium, espanja:disprosio, portugali:disprósio, venäjä:диспрозий, yleiskiina:镝 (dī), japani:ジスプロシウム, korea:디스프로슘, vietnami:đysprosi, hindi:डिस्प्रोसियम, bangla:ডিসপ্রোসিয়াম, malaiji:disprosium, suahili:disprosi, arabia: ديسبروسيوم  
-**dobe** *tiili* ← arabia:طوبةطوبة (ṭūba), amhara:ጡብ (ṭub), deu:englanti:ranska:espanja:portugali:adobe  
 **dokum** *asiakirja (dokumentti, tiedosto)* ← englanti:ranska:document, espanja:portugali:documento, venäjä:документ (dokument), japani:ドキュメント (dokyumento), malaiji:dokumen, turkki:doküman  
 **dolfin** *delfiini* ← kreikka:δελφίνια (delphínia), englanti:dolphin, espanja:delfín, portugali:delfim, venäjä:дельфин (del’fin), arabia:دلفين (dulfin), japani:ドルフィン (dorufin), bangla:ডলফিন (ḍalaphina), hindi:डॉल्फ़िन (ḍŏlfin)  
 **dom** *asua (asunto, koti)* ← venäjä:дом (dom), puola:dom, latina:domus, + englanti:domestic, ranska:domestique, espanja:portugali:doméstico  
@@ -555,6 +552,7 @@
 **islam** *alistua (alistuminen; antautuminen)* ← arabia:(ʾislām), persia:(taslim), turkki:teslim  
 **iste** *aatteen kannattaja* ← englanti:deu:turkki:-ist, ranska:-iste, espanja:portugali:-ista, venäjä:-ист (-ist)  
 **ite** ** ← englanti:-ed, ranska:-ite, deu:-it, espanja:portugali:-ido, hindi:-इत (-it)  
+**ite** *kivi (hippu)* ← englanti:ranska:-ite, espanja:portugali:-ito, venäjä:-ит (-it) + (brick) bangla:ইট (iṭ), hindi:ईंट (ī̃ṭ), thai:อิฐ (it), khmer:ឥដ្ឋ (ʼət), burma: အုတ် (ut)  
 **itis** *tulehdus* ← englanti:espanja:-itis, ranska:portugali:-ite, venäjä:-ит (-it)  
 **ivia** *taipumus* ← englanti:-ive, deu:-iv, ranska:-if, -ive, portugali:espanja:-ivo, venäjä:-ивный (-ivnyj)  
 **jake** *pikkutakki (jakku)* ← englanti:jacket, yleiskiina:夹克 (jiākè), venäjä:жакет (žaket), deu:Jacke, portugali:jaqueta  
@@ -1236,7 +1234,6 @@
 **save** *tietää (tuntea)* ← ranska:savoir, espanja:portugali:saber, englanti:savvy  
 **save** *vähän* ← yleiskiina:少 (shǎo), kantoninkiina:少 (siu2), japani:少 (shō), korea:소 (so)  
 **saye** *varjo* ← persia:(sāye), urdu:(sāyā), hindi:साया (sāyā), छाया (chāyā), bangla:ছায়া (chaya), thai:ฉายา (chāyā)  
-**seke** *kivi (hippu)* ← yleiskiina: 石 (shí), kantoninkiina:石 (sek3), japani:石 (seki), korea:석 (seok)  
 **sekreter** *sihteeri* ← englanti:secretary, espanja:secretario, portugali:secretário, ranska:secrétaire, deu:Sekretär, venäjä:секретарь (sekretar’), turkki:sekreter, persia:سکرتر‎ (sekreter)  
 **sekunde** *sekunti* ← englanti:second, espanja:portugali:segundo, venäjä:секунда (sekunda), suahili:sekunde, hindi:सैकण्ड (saikaṇḍ), bangla:সেকেন্ড (śekenḍ)  
 **sekure** *turvallinen (varma, suojattu; turvata, suojella)* ← englanti:secure, deu:sicher, espanja:portugali:seguro  
@@ -1308,6 +1305,7 @@
 **stanium** *tina* ← espanja:estaño, portugali:estanho, ranska:étain, italia:stagno, englanti:tin, suahili:stani  
 **stibium** *antimoni* ← yleiskiina:锑 (tī), suahili:stibi  
 **strontium** *strontium* ← englanti:strontium, ranska:strontium, espanja:strontium, portugali:estrôncio, venäjä:стронций, yleiskiina:锶 (sī), japani:ストロンチウム, korea:스트논듐, vietnami:stronti, hindi:स्ट्रोन्सियम, bangla:স্ট্রনসিয়াম, malaiji:strontium, suahili:stronti, arabia: سترانشيوم  
+**strute** *rakennus* ← englanti:ranska:structure, espanja:estructure, portugali:estrutura, venäjä:структура (struktura), malaiji:(infra)struktur, japani:(インフラ)ストラクチャ ((infura)sutorakucha), korea:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *opiskella (tutkia; tutkielma)* ← englanti:study, ranska:étudier, espanja:estudiar, portugali:estudar + venäjä:студент (student), hindi:स्टूडेंट (sṭūḍeṇṭ)  
 **su-** ** ← scr:hindi: सु- (su-), bangla:সু- (śu-) + latina:englanti:ranska:su-  
 **sual** *kysyä (kysymys)* ← arabia: سؤال (su'āl), hindi:सवाल (savāl), malaiji:soal, suahili:swali  
@@ -1578,7 +1576,6 @@
 **• juder** *tuomari* ← englanti:judge, ranska:juge, espanja:juez, portugali:juiz, hindi:जज (jaj), bangla:জজ (jôj), suahili:jaji + venäjä:суд (sud)  
 **• konmisia** *komission (komitea)* ← venäjä:комиссия (komissiya), puola:komisja, englanti:ranska:commission, deu:Kommission, espanja:comisión, portugali:comissão, turkki:komisyon, hindi:कमीशन (kamīśan), bangla:কমিশন (kômiśôn), malaiji:komisi  
 **• konputer** *tietokone* ← englanti:computer, espanja:computadora, portugali:computador, venäjä:компьютер (komp’uter), arabia:كَمْبْيُوتَر‎ (kambyūtar), suahili:kompyuta, hindi:कंप्यूटर (kampyūṭar), bangla:কম্পিউটার (kômpiuṭar), malaiji:komputer, japani:コンピューター (konpyūtā)  
-**• konstrution** *rakentaminen* ← italia:costruzione, englanti:ranska:construction, portugali:construção, espanja:construcción, deu:konstruieren, venäjä:конструкция (konstrukciya), japani:コンストラクト (konsutorakuto)  
 **• kontrate** *sopimus* ← englanti:treaty, ranska:traité, espanja:portugali:tratado, venäjä:контракт (kontrakt), turkki:kontrat, malaiji:kontrak  
 **• krita** *arvioida (arvostella, kritisoida)* ← yleiskiina:批评 (pīpíng), vietnami:phê bình, korea:비평 (bipyeong)  
 **• lider** *johtaja (pomo)* ← englanti:ranska:leader, espanja:portugali:líder, venäjä:лидер (lider), turkki:lider, hindi:लीडर (līdar), japani:リーダー (rīdā), korea:리더 (rideo)  

@@ -2,6 +2,7 @@
 
 ## A  
 
+a danke de - graças a  
 a ke - onde  
 a line - online  
 abete - abeto  
@@ -147,10 +148,11 @@ baton - poste (estaca)
 batonkapse - gaiola (jaula)  
 batre - pilha (bateria)  
 bau - precioso  
-bauseke - pedra preciosa (gema)  
+bavite - pedra preciosa (gema)  
 baze - base  
 baze bol - basebol (beisebol)  
 bazoxulkan - ensino primário  
+bazostrute - infraestrutura  
 bazar - mercado (bazar)  
 bebe - bebê  
 bedinge - beringela  
@@ -176,6 +178,7 @@ bilor - cristal
 bine - construir  
 binoplania - arquitetura  
 binoplaner - arquiteto  
+binite - tijolo  
 bir - cerveja  
 bismute - bismuto  
 bode - corpo  
@@ -263,13 +266,12 @@ cuvogom - chiclete (goma de mascar, chuinga)
 
 daidom - palácio (mansão, palacete)  
 daihai - oceano  
+dayite - pedregulho  
 daipau - canhǎo  
-daiseke - pedregulho  
 dalil - prova  
 dam - escuro  
 dane - danês  
 danger - sino (campainha)  
-danko de - graças a  
 danse - baile (danza)  
 • danta - morder  
 darotube - funil  
@@ -301,7 +303,6 @@ dite - ditar
 • ditater - ditador  
 • ditateria - ditadura  
 • dition - dicção  
-dobe - tijolo  
 • dokaje - doutrina  
 • dokente - docente  
 dokum - documento  
@@ -411,7 +412,7 @@ fuze - derretre
 ## G  
 
 gabre - sepultura (túmulo; enterrar)  
-gabroseke - lápide  
+gabrite - lápide  
 gabrostan - cemitério  
 gadolinium - gadolínio  
 gaja dante - marfim  
@@ -537,7 +538,7 @@ hoge - fogo
 hoge - queimar  
 hogu - queimarse  
 hogosan - vulcão  
-hogoseke - pederneira  
+hogite - pederneira  
 hogotehne - fogos de artifício  
 hoke - hóquei  
 • holisme - holismo  
@@ -567,6 +568,7 @@ iridium - irídio
 ironia - ironia  
 • islamia - islã  
 • islamisme - islã  
+ite - pedra  
 itis - inflamaçao  
 ive - tender  
 ivia - tendência  
@@ -750,9 +752,9 @@ lage - lago
 lai - vir  
 laiane - trazer  
 lale - vermelho  
-lalbauseke - rubi  
 lalorange - tangerina (mandarim)  
 lalsalmon - salmão-vermelho  
+lalobavite - rubi  
 lama - lama  
 lampe - lâmpada (luminária)  
 lantanium - lantâno  
@@ -783,7 +785,7 @@ libele - libélula
 lifafe - embalar  
 lile - pequeno  
 lilkaboge - abobrinha  
-lilseke - pedrinha  
+lilite - pedrinha  
 lime - cinco (5)  
 limyom - sexta-feira  
 • limite - limitado  
@@ -933,7 +935,7 @@ mokoban - tábua (prancha)
 mokotan - tora  
 mole - moer  
 molia - moenda (moinho)  
-molseke - mó  
+molite - mó  
 mole - mol  
 molidenium - molibdénio  
 monte - montanha (monte)  
@@ -1113,6 +1115,7 @@ pesodiske - moeda
 pesohuke - anzol  
 pesosaider - pescador  
 petre - rocha (pedra)  
+• petrolojia - petrologia  
 petronefte - petróleo  
 piaze - cebola  
 picea - pícea (espruce)  
@@ -1283,7 +1286,6 @@ savovolane - inquisitivo
 saure - lagarto  
 se - se  
 semon - um ao outro  
-seke - pedra  
 sekure - seguro  
 sele - conselho (aconselhar)  
 selenium - selénio  

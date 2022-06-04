@@ -3,6 +3,7 @@
 ## A  
 
 a - a (dans, en, chez)  
+a danke de - grâce à  
 a ke - où  
 a line - en ligne  
 abete - sapin  
@@ -240,10 +241,11 @@ baton - pieu (poteau)
 batonkapse - cage  
 batre - pile (batterie)  
 bau - précieux  
-bauseke - pierre précieuse (joyau)  
+bavite - pierre précieuse (joyau)  
 baze - base  
 baze bol - baseball  
 bazoxulkan - école primaire  
+bazostrute - infrastructure  
 bazar - marché (bazar)  
 bebe - bébé  
 bedinge - aubergine  
@@ -272,6 +274,7 @@ bilor - cristal
 bine - construire  
 binoplania - architecture  
 binoplaner - architecte  
+binite - brique  
 bir - bière  
 bismute - bismuth  
 bode - corps  
@@ -361,15 +364,14 @@ cuvogom - chewing-gum
 
 daidom - palais (château, manoir)  
 daihai - océan  
+dayite - rocher  
 daipau - canon  
-daiseke - rocher  
-daivaze - chaudron  
+daipote - chaudron  
 dake - couvrir  
 dalil - preuve  
 dam - obscur (sombre, foncé)  
 dane - danois  
 danger - cloche  
-danko de - grâce à  
 danse - dance  
 dante - dent  
 • danta - mordre  
@@ -404,7 +406,6 @@ dite - dicter
 • ditater - dictateur  
 • ditateria - dictature  
 • dition - diction  
-dobe - brique  
 • dokaje - doctrine  
 dokum - document  
 dokumfilme - documentaire  
@@ -538,7 +539,7 @@ fuzopetre - lave
 ## G  
 
 gabre - tombe (enterrer)  
-gabroseke - pierre tombale  
+gabrite - pierre tombale  
 gabrostan - cimetière  
 gadogude - mule  
 gadolinium - gadolinium  
@@ -685,7 +686,7 @@ hisabe - calculer
 hoge - feu  
 hoge - brûler  
 hogosan - volcan  
-hogoseke - silex  
+hogite - silex  
 hogotehne - feu d’artifice  
 hoke - hockey  
 • holike - holistique  
@@ -719,6 +720,7 @@ ironia - ironie
 islam - soumission  
 • islamia - Islam  
 • islamisme - Islam  
+ite - pierre  
 itis - inflammation  
 ive - avoir tendance à  
 ivia - tendance  
@@ -911,9 +913,9 @@ lage - lac
 lai - venir  
 laiane - apporter  
 lale - rouge  
-lalbauseke - rubis  
 lalorange - mandarine  
 lalsalmon - saumon sockeye  
+lalobavite - rubis  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
 lantanium - lanthane  
@@ -944,7 +946,7 @@ libele - libellule
 lifafe - envelopper (emballer)  
 lile - petit  
 lilkaboge - courgette  
-lilseke - caillou  
+lilite - caillou  
 lime - cinq (5)  
 limyom - vendredi  
 • limite - limité  
@@ -1096,7 +1098,7 @@ mokotan - bûche
 mokozongoparke - arboretum, pépinière  
 mole - moudre  
 molia - moulin  
-molseke - meule  
+molite - meule  
 mole - mole (unité)  
 molidenium - molybdène  
 • montaner - alpiniste  
@@ -1291,6 +1293,7 @@ pesodiske - monnaie (pièce)
 pesohuke - hameçon  
 pesosaider - pêcheur  
 petre - roche (pierre)  
+• petrolojia - pétrologie  
 petronefte - pétrole (essence)  
 piaze - oignon  
 picea - épicéa  
@@ -1483,7 +1486,6 @@ saus - sauce
 se - se  
 se su - son (sa)  
 semon - l'un l'autre  
-seke - pierre  
 sekure - sûr  
 sele - conseil (conseiller)  
 selenium - sélénium  
@@ -1529,7 +1531,7 @@ sipe - mouillé
 sire - cacher  
 siri mote - célérité  
 sirplan - complot (conspiration)  
-sirkoseke - pavé  
+sirkite - pavé  
 sise - six (6)  
 sisyom - samedi  
 site - ville  

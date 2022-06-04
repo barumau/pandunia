@@ -144,10 +144,11 @@ baton - 桩
 batonkapse - 笼  
 batre - 电池  
 bau - 宝 (宝贵)  
-bauseke - 宝石  
+bavite - 宝石  
 baze - 底部  
 baze bol - 棒球  
 bazoxulkan - 小学  
+bazostrute - 基础设施  
 bazar - 市场  
 bebe - 宝宝  
 bekofan - 陶瓦  
@@ -170,6 +171,7 @@ bil - 帐单
 bine - 建设  
 binoplania - 建筑学  
 binoplaner - 建筑师  
+binite - 砖  
 bir - 啤酒  
 bismute - 铋  
 bode - 身体  
@@ -244,9 +246,9 @@ cuvogom - 口香糖
 
 daidom - 殿 (宫殿, 宅第)  
 daihai - 大洋 (大海)  
+dayite - 磐石  
 daipau - 大炮  
-daiseke - 磐石  
-daivaze - 炼药锅  
+daipote - 炼药锅  
 dam - 暗 (黑暗)  
 dane - 丹麦的  
 danger - 钟 (摇铃)  
@@ -279,7 +281,6 @@ disprosium - 镝
 • ditater - 独裁者  
 • ditateria - 独裁  
 • dition - 吐字  
-dobe - 砖  
 • dokaje - 学说  
 dokum - 文件  
 dokumfilme - 纪录片  
@@ -381,7 +382,7 @@ fuzopetre - 熔岩
 
 ga - 到  
 gabre - 坟墓 (埋葬)  
-gabroseke - 墓石 (墓碑)  
+gabrite - 墓石 (墓碑)  
 gabrostan - 公墓 (墓地)  
 gadogude - 骡  
 gadolinium - 钆  
@@ -506,7 +507,7 @@ hoge - 火
 hoge - 燃烧  
 hogu - 烧  
 hogosan - 火山  
-hogoseke - 燧石  
+hogite - 燧石  
 hogotehne - 烟火  
 hoke - 曲棍球  
 • holike - 全面的 (全方位的)  
@@ -533,6 +534,7 @@ introverse - 内向的
 iridium - 铱  
 • islamia - 回教 (伊斯蘭教)  
 • islamisme - 回教 (伊斯蘭教)  
+ite - 石 (岩)  
 itis - 炎症  
 ivia - 趋势  
 
@@ -699,10 +701,10 @@ lage - 湖
 lai - 来  
 laiane - 带来  
 lale - 红  
-lalbauseke - 红宝石  
 lalolince - 短尾貓  
 lalorange - 柑橘 (红橘)  
 lalsalmon - 紅鮭  
+lalobavite - 红宝石  
 lama - 喇嘛  
 lampe - 灯  
 lantanium - 镧  
@@ -731,7 +733,7 @@ libele - 蜻蜓
 • lider - 领导  
 lile - 小  
 lilkaboge - 西葫芦  
-lilseke - 砾石  
+lilite - 砾石  
 lime - 五 (5)  
 limyom - 星期五 (禮拜五)  
 limon - 柠檬  
@@ -852,7 +854,7 @@ mokomate - 木材
 mokotan - 原木  
 mokozanger - 木匠  
 molia - 磨坊  
-molseke - 磨石  
+molite - 磨石  
 mole - 摩尔 (单位)  
 molekul - 分子  
 molidenium - 钼  
@@ -1008,6 +1010,7 @@ pese - 钱
 pesodiske - 硬币  
 pesohuke - 鱼钩  
 pesosaider - 鱼夫  
+• petrolojia - 岩石学  
 petronefte - 石油  
 piaze - 洋葱  
 picea - 云杉  
@@ -1147,7 +1150,6 @@ savovolane - 好奇
 savovolite - 有趣  
 saure - 蜥蜴  
 semon - 彼此  
-seke - 石 (岩)  
 selenium - 硒  
 • semolojia - 语义学  
 semen - 种  
@@ -1188,7 +1190,7 @@ sipe - 湿
 sir - 诗  
 sire - 隐藏  
 sirplan - 阴谋 (密谋)  
-sirkoseke - 鹅卵石  
+sirkite - 鹅卵石  
 sise - 六 (6)  
 sisyom - 星期六 (礼拜六)  
 skandium - 钪  

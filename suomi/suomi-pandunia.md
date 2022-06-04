@@ -125,7 +125,7 @@ anis - anis
 ankkuri - angar  
 annos - doze  
 anoppi - gamoma  
-ansiosta - danko de  
+ansiosta - a danke de  
 antaa - done  
 antaa anteeksi - mafe  
 Antarktis - Antartike  
@@ -154,7 +154,7 @@ arkkitehti - binoplaner
 arkkitehtuuri - binoplania  
 Arktis - Artike  
 armeija (sotajoukko) - gun  
-Armenia - Hayakia  
+Armenia - Hayastan  
 arrakki - ris arake  
 arseeni - arsene  
 artefakti (keinotekoinen esine) - artofete  
@@ -592,7 +592,7 @@ haudata multaan - inhume
 haureus (uskottomuus) - zine  
 hauska (huvittava) - vane  
 hauta (haudata) - gabre  
-hautakivi - gabroseke  
+hautakivi - gabrite  
 hautausmaa - gabrostan  
 Havaiji - Havai  
 Havaijin saaret - Havai nesia  
@@ -737,7 +737,7 @@ Hyvää iltaa - salam suar
 hyvää matkaa - salam cute  
 hyvää ruokahalua! - salam yam  
 hyytelö - gel  
-hyöky (vyöry) - dairiu  
+hyöky (vyöry) - dairive  
 hyönteinen (ötökkä) - koncung  
 hyöty (hyödyllisyys, etu; hyödyllinen) - faide  
 hyötyaines - faidaje  
@@ -879,7 +879,7 @@ jalanjälki - futomarke
 jalka (alaraaja) - futoxake  
 jalka (jalkaterä) - fute  
 jalkapallo - futobol  
-jalokivi - bauseke  
+jalokivi - bavite  
 Jamaika - Jamaika  
 jambolaani - jambul  
 jano - suiyau  
@@ -1237,7 +1237,7 @@ kitkerä (karvas) - alkaloguste
 kitkeä juurineen - exradike  
 kivennäinen (mineraali) - kuang  
 kivennäisvesi - kuangosui  
-kivi (hippu) - seke  
+kivi (hippu) - ite  
 kloonata (monistaa) - klone  
 klooni (identtinen kopio) - klon  
 kloori - klorium  
@@ -1624,7 +1624,7 @@ livermorium - livermorium
 logiikka - ratolojia  
 logofiili - logofiliste  
 logəfiliə - logofilia  
-lohkare (järkäle) - daiseke  
+lohkare (järkäle) - dayite  
 loimi - gingolin  
 lokakuu - deslun  
 lokasuoja - fandefban  
@@ -1645,7 +1645,7 @@ lukumäärä (luku, numero; laskea) - nume
 lumi - hima  
 lumikinos - hima duna  
 lumme - nenufar  
-luodinkestävä - dansekure  
+luodinkestävä - danosekure  
 luokitella (kategorisoida) - klase  
 luokka (kategoria) - klas  
 luokkahuone - xulkamar  
@@ -1923,7 +1923,7 @@ muistio (muistiinmerkintä) - memnote
 muistosanat (muistopuhe,muistokirjoitus) - nekrologe  
 mukaan lukien - inkluze da  
 mukava (kiva, miellyttävä) - huse  
-mukulakivi - sirkoseke  
+mukulakivi - sirkite  
 multa (humus) - hume  
 muna - ove  
 munakoiso - bedinge  
@@ -1965,7 +1965,7 @@ Myanmar (Burma) - Myanma
 myky (pelmeni, ravioli) - pelmen  
 myky - nodule  
 mylly - molia  
-myllynkivi - molseke  
+myllynkivi - molite  
 mylläri - moler  
 myrkky (myrkyllinen) - toxe  
 myrsky - tafun  
@@ -1978,7 +1978,7 @@ mänty - song
 märkä (kostea) - sipe  
 mätä - pude  
 määritellä (luonnehtia) - sife  
-määritetyn määritteeseen liittävä partikkeli - da  
+määritetyn määritteeseen liittävä partikkeli - de  
 määrä (päämäärä, kohtalo) - nasibe  
 
 ## N  
@@ -2328,6 +2328,7 @@ persia (farsi) - farse
 Peru - Peru  
 peruna (potaatti) - patate  
 peruskallio - bazopetre  
+perusrakenne (infrastruktuuri) - bazostrute  
 perusta (perustus; perustaa) - baze  
 perustaja - bazer  
 perustelu (argumentti) - argum  
@@ -2337,6 +2338,7 @@ perääntyä - regrese
 pestä - vaxe  
 pesukone - vaxomaxin  
 peta- - peta  
+petrologia - petrolojia  
 pian - suno  
 piano - piano  
 pidentää - longe  
@@ -2346,7 +2348,7 @@ pihdit - pinser
 pihka (hartsi) - rezin  
 pihta (jalokuusi) - abete  
 pii - silike  
-piikivi - hogoseke  
+piikivi - hogite  
 piikki (pistin, neula) - pin  
 piippu - pipe  
 piirakka (piiras) - pai  
@@ -2670,7 +2672,7 @@ rotu - ras
 rotujen välinen - rasmede  
 Ruanda - Ruanda  
 rubidium - rubidium  
-rubiini - lalbauseke  
+rubiini - lalobavite  
 ruiske (injektio) - injete  
 ruiskuttaa - injete  
 rukoilla (anoa; rukous) - dua  
@@ -2943,7 +2945,7 @@ sopia - konbone
 sopimus - trete  
 sopimus - kontrate  
 sopiva (passeli) - hape  
-sorakivi - lilseke  
+sorakivi - lilite  
 sormenjälki - angulmarke  
 sormenpää - angulpike  
 sormi tai varvas - angul  
@@ -3237,7 +3239,7 @@ tietty (tunnettu) - save
 tietää (tuntea) - save  
 Tiibet - Botia  
 tiikeri - bagre  
-tiili - dobe  
+tiili - binite  
 tiisai - dulyom  
 tikari - kanzar  
 tikka masala - masali tike  

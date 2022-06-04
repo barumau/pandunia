@@ -271,7 +271,7 @@ bras - handoxake
 brave - brave  
 bravo! - bravo  
 brigand (bandit) - luter  
-brique - dobe  
+brique - binite  
 brochette - sis  
 brome - bromium  
 brun (marron) - brune  
@@ -298,7 +298,7 @@ cafetière - kafe pote
 café - kafe  
 café - kafe kan  
 cage - batonkapse  
-caillou - lilseke  
+caillou - lilite  
 calcaire - kalsopetre  
 calcite - kalsite  
 calcium - kalsium  
@@ -358,7 +358,7 @@ charme - carme
 charnière - xarnir  
 chasser - yege  
 chat - mau  
-chaudron - daivaze  
+chaudron - daipote  
 chauve-souris - feimus  
 chaux - kalsomate  
 chef - xefe  
@@ -730,7 +730,7 @@ gravire - grave
 grenouille - krokroke  
 grimace - grimas  
 groupe - grupe  
-grâce à - danko de  
+grâce à - a danke de  
 grès - sablopetre  
 guerre - gere  
 guerrier - gerer  
@@ -824,6 +824,7 @@ infection - infetion
 infidèle (incroyant) - andiniste  
 infidèle (incroyant) - ankrediste  
 inflammation - itis  
+infrastructure - bazostrute  
 infuser - infuze  
 inférer - infere  
 insecte - koncung  
@@ -1016,7 +1017,7 @@ message - angil
 message - misaje  
 messager - angiler  
 mettre (placer) - loke  
-meule - molseke  
+meule - molite  
 microbe - mikrobia  
 microbiologie - mikrobiolojia  
 microscope - mikroskope  
@@ -1233,7 +1234,7 @@ patrie - patria
 pause - pauze  
 pavot d'Orient - guipapil  
 pavot somnifère - somopapil  
-pavé - sirkoseke  
+pavé - sirkite  
 peindre - pente  
 peinture - pente  
 pelle - belce  
@@ -1259,9 +1260,9 @@ philosophie - filsofia
 phosphore - pospor  
 photographie - fotograf  
 photographie - fotografia  
-pierre - seke  
-pierre précieuse (joyau) - bauseke  
-pierre tombale - gabroseke  
+pierre - ite  
+pierre précieuse (joyau) - bavite  
+pierre tombale - gabrite  
 pieu (poteau) - baton  
 pile (batterie) - batre  
 piment - cili  
@@ -1378,6 +1379,7 @@ pâquerette - englomargarite
 pâte - paste  
 pâte à modeler - plastopaste  
 pétrole (essence) - petronefte  
+pétrologie - petrolojia  
 pêcheur - pesosaider  
 quand - ke sate  
 quartz - kuarze  
@@ -1432,7 +1434,7 @@ rivière (fleuve) - riu
 riz - ris  
 robot - robote  
 roche (pierre) - petre  
-rocher - daiseke  
+rocher - dayite  
 rock - roke muzike  
 roentgenium - rentogenium  
 Rome - Roma  
@@ -1444,7 +1446,7 @@ roue - cakre
 rouge - lale  
 ruban (bande) - tepe  
 rubidium - rubidium  
-rubis - lalbauseke  
+rubis - lalobavite  
 ruche (nid d'abeille) - vesponide  
 rupture - ruture  
 ruse - truke  
@@ -1544,7 +1546,7 @@ signer - namkitabe
 signifier (voiloir dire) - seme  
 silence - tixia  
 silencieux (se taire) - tixe  
-silex - hogoseke  
+silex - hogite  
 silicium - silike  
 simulation - samsifia  
 situation (état de choses) - xeihal  

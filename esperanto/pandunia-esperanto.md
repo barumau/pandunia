@@ -2,12 +2,13 @@
 
 ## A  
 
-a sababe de - ĉar  
-a zay den - hodiaŭ  
+a danke de - dank’al  
 a ke - kie  
 a le - tie  
 a max - ankaŭ  
 a nove - ĵus  
+a sababe de - ĉar  
+a zay den - hodiaŭ  
 abete - abio  
 able - povi  
 • ablo - eble  
@@ -167,7 +168,7 @@ baton - stango
 batonkapse - kaĝo  
 batre - baterio (pilo)  
 bau - trezoro  
-bauseke - juvelo  
+bavite - juvelo  
 baze - bazo  
 baze bol - basbalo  
 bazoxulkan - bazlernejo  
@@ -317,21 +318,19 @@ cuze - elekti
 
 ## D  
 
-da - de (partiklo de posedo)  
 dai - granda  
 dayangiler - ambasadoro  
 dayangilkan - ambasado  
 daidom - palaco  
 daihai - oceano  
+dayite - ŝtonego  
 daipau - kanono  
 daipaver - kanonisto  
-daiseke - ŝtonego  
 daisite - urbego  
 dake - kovrilo  
 dane - dana  
 Dania - Danio  
 danke - danki (dankon)  
-danko de - dank’al  
 danse - danco  
 dante - dento  
 • danta - mordi  
@@ -343,6 +342,7 @@ date - datumo
 datobanke - datumbanko  
 datotable - tabelo  
 dau - vojo  
+de - de (partiklo de posedo)  
 de - de (el, pro)  
 debu - devi  
 deci - dekono  
@@ -559,7 +559,7 @@ futau - hakilo
 
 ga - al (ĝis, por)  
 gabre - tombo (enterigi)  
-gabroseke - tomboŝtono  
+gabrite - tomboŝtono  
 gabrostan - tombejo  
 gade - azeno  
 gadolinium - gadolinio  
@@ -770,6 +770,7 @@ Islandia - Islando
 isme - ismo  
 Israel - Israelo  
 iste - isto de ismo  
+ite - ŝtono  
 Italia - Italio  
 ive - emi  
 ivia - emo (inklino, tendenco)  
@@ -977,8 +978,8 @@ labe - lipo
 lai - veni  
 laiane - alporti (venigi)  
 lale - ruĝa  
-lalbauseke - rubeno  
 lalorange - mandarino  
+lalobavite - rubeno  
 lampe - lampo  
 lasun - ajlo  
 late - flanko (latero)  
@@ -1002,8 +1003,8 @@ libele - libelo
 • alige - aligi  
 lile - malgranda  
 lilbol - bobelo  
-lilseke - ŝtoneto  
 lilsite - urbeto  
+lilite - ŝtoneto  
 lime - kvin (5)  
 limyom - vendredo  
 limotranse - tro  
@@ -1543,7 +1544,6 @@ saus - saŭco
 • ansave - fremda (nekonata)  
 se - si  
 semon - unu la alian  
-seke - ŝtono  
 • selu - devus  
 selenium - seleno  
 seme - signifi  

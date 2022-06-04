@@ -35,7 +35,6 @@
 **ampul** ** ← franca:angla:ampoule, mandarena:安瓿 (ānbù), japana:アンプル (anpuru), rusa:ампула (ámpula), araba:(ʾambūla)  
 **an-** *mala* ← greka:ἀν- (an-), angla:un-, hindia:अन- (an-), franca:hispana:portugala:in-  
 **ancovi** *sardelo (anĉovo)* ← angla:anchovy, franca:anchois, hispana:anchoa, portugala:anchova, rusa:анчоус (ančous), japana:アンチョビ (anchobi), hindia:ऐन्चोवी (enchovi)  
-**andesite** ** ← hispana:andesita, angla:andesite, rusa:андезит (andezit), turka:andezit, araba:أنديزيت ('andizit), hindia:एंडेसाइट (endesait), vjetnama:malaja:andesit  
 **angar** *ankro* ← angla:anchor, franca:ancre, portugala:âncora, malaja:jangkar, rusa:якорь, araba:(ʾanjar), hindia:लंगर (laṅgar), urdua:(laṅgar), teluga:లంగరు (laṅgaru), svahila:nanga  
 **angil** *mesaĝo* ← greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl) + angla:angel, franca:ange, hispana:ángel, portugala:anjo, rusa:ангел (angel), mandarena:安琪儿 (ānqí'ér)  
 **angul** *fingro* ← hindia:अंगुलि (aṅgulī), bengala:আঙুল (aṅgul)  
@@ -237,7 +236,6 @@
 **cute** *eliri* ← mandarena:出 (chū), hakaa:(chut), korea:출 (chul), hindia:छूटना (chūtnā) + turka:çıkmak  
 **cuve** *maĉi* ← angla:chew + franca:chewing-gum, hindia:चूइंग गम (cūiṅg gam), bengala:চ্যুইং গাম (cyuiṅ gam), japana:チューインガム (chūingamu), korea:츄잉껌 (chu'ingkkeom)  
 **cuze** *elekti* ← angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn  
-**da** *de (partiklo de posedo)* ← [da] franca:de, du, portugala:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] mandarena:的 (de), kantona:啲 (di1) + [de] deu:der  
 **dai** *granda* ← kantona:大 (daai), mandarena:大 (dá), vjetnama:đại, japana:(dai, tai), korea:대— (dae-)  
 **daihai** *oceano* ← mandarena:大海 (dàhǎi), japana:大海 (taikai), korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)  
 **dake** *kovrilo* ← hindia:ढकना (dhaknā), bengala:ঢাকা (ḍhaka), panĝaba:ਢੱਕਣਾ (ḍhakṇā), deu:decken, angla:deck  
@@ -256,6 +254,7 @@
 **darte** ** ← angla:dirt, hindia:धरती (dhartī), urdua:(dhartī), vjetnama:đất, malaja:darat  
 **date** *datumo* ← angla:malaja:data, vjetnama:đa ta, deu:Daten, hispana:filipina:datos, portugala:dados, persa:(dâde-hâ), hindia:डेटा (ḍeṭā), urdua:(ḍeṭā), japana:データ (dēta)  
 **dau** *vojo* ← mandarena:道 (dào), kantona:道 (dou6), japana:道 (dō), korea:도 (do), vjetnama:đạo  
+**de** *de (partiklo de posedo)* ← [da] franca:de, du, portugala:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] mandarena:的 (de), kantona:啲 (di1) + [de] deu:der  
 **debu** *devi* ← franca:devoir, hispana:deber, portugala:dever  
 **defe** *defendi* ← araba: دِفَاع (difāʿ), hindia:दफ़ा (dafā), persa:urdua:  دفاع  (difā'), + franca:angla:defense, hispana:defensa, portugala:defesa, turka:defans  
 **dege** *akiri (gajni, ricevi, preni)* ← mandarena:得 (dé), kantona:得 (dak1), korea:득 (deuk), vjetnama:được  
@@ -275,10 +274,8 @@
 **dinamite** ** ← angla:dynamite, hispana:dinamita, rusa:динамит (dinamit), turka:malaja:dinamit, araba:ديناميت (dinamit), hindia:डायनामाइट (dāyanāmait), japana:ダイナマイト (dainamaito)  
 **dinde** *meleagro* ← franca:dinde, rusa:индюк (indyuk), turka:hindi, araba: دِيك هِنْدِيّ‎ (dīk hindiy)  
 **ding** *najlo* ← mandarena:钉 (dīng), kantona:釘 (deng1), vjetnama:đinh  
-**diorite** ** ← angla:franca:diorite, hispana:diorita, rusa:диорит (diorit), turka:diyorit, araba:ديوريت (dayurit), hindia:डायोराइट (dāyorait), vjetnama:malaja:diorit  
 **diske** *disko* ← angla:turka:disk, franca:disque, hispana:portugala:disco, rusa:диск (disk), hindia:डिस्क (ḍisk), bengala:ডিস্ক (ḑisk), japana:ディスク (disuku), korea:디스크 (diseukeu)  
 **disprosium** *disprozio* ← angla:dysprosium, franca:dysprosium, hispana:disprosio, portugala:disprósio, rusa:диспрозий, mandarena:镝 (dī), japana:ジスプロシウム, korea:디스프로슘, vjetnama:đysprosi, hindia:डिस्प्रोसियम, bengala:ডিসপ্রোসিয়াম, malaja:disprosium, svahila:disprosi, araba: ديسبروسيوم  
-**dobe** ** ← araba:طوبةطوبة (ṭūba), amhara:ጡብ (ṭub), deu:angla:franca:hispana:portugala:adobe  
 **dokum** *dokumento* ← angla:franca:document, hispana:portugala:documento, rusa:документ (dokument), japana:ドキュメント (dokyumento), malaja:dokumen, turka:doküman  
 **dolfin** *delfeno* ← greka:δελφίνια (delphínia), angla:dolphin, hispana:delfín, portugala:delfim, rusa:дельфин (del’fin), araba:دلفين (dulfin), japana:ドルフィン (dorufin), bengala:ডলফিন (ḍalaphina), hindia:डॉल्फ़िन (ḍŏlfin)  
 **dom** *loĝi (loĝejo, hejmo)* ← rusa:дом (dom), polona:dom, latina:domus, + angla:domestic, franca:domestique, hispana:portugala:doméstico  
@@ -555,6 +552,7 @@
 **islam** ** ← araba:(ʾislām), persa:(taslim), turka:teslim  
 **iste** *isto de ismo* ← angla:deu:turka:-ist, franca:-iste, hispana:portugala:-ista, rusa:-ист (-ist)  
 **ite** ** ← angla:-ed, franca:-ite, deu:-it, hispana:portugala:-ido, hindia:-इत (-it)  
+**ite** *ŝtono* ← angla:franca:-ite, hispana:portugala:-ito, rusa:-ит (-it) + (brick) bengala:ইট (iṭ), hindia:ईंट (ī̃ṭ), taja:อิฐ (it), kmera:ឥដ្ឋ (ʼət), birma: အုတ် (ut)  
 **itis** ** ← angla:hispana:-itis, franca:portugala:-ite, rusa:-ит (-it)  
 **ivia** *emo (inklino, tendenco)* ← angla:-ive, deu:-iv, franca:-if, -ive, portugala:hispana:-ivo, rusa:-ивный (-ivnyj)  
 **jake** *jako* ← angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta  
@@ -1236,7 +1234,6 @@
 **save** *malmulte* ← mandarena:少 (shǎo), kantona:少 (siu2), japana:少 (shō), korea:소 (so)  
 **save** *scii (koni)* ← franca:savoir, hispana:portugala:saber, angla:savvy  
 **saye** *ombro* ← persa:(sāye), urdua:(sāyā), hindia:साया (sāyā), छाया (chāyā), bengala:ছায়া (chaya), taja:ฉายา (chāyā)  
-**seke** *ŝtono* ← mandarena: 石 (shí), kantona:石 (sek3), japana:石 (seki), korea:석 (seok)  
 **sekreter** ** ← angla:secretary, hispana:secretario, portugala:secretário, franca:secrétaire, deu:Sekretär, rusa:секретарь (sekretar’), turka:sekreter, persa:سکرتر‎ (sekreter)  
 **sekunde** ** ← angla:second, hispana:portugala:segundo, rusa:секунда (sekunda), svahila:sekunde, hindia:सैकण्ड (saikaṇḍ), bengala:সেকেন্ড (śekenḍ)  
 **sekure** ** ← angla:secure, deu:sicher, hispana:portugala:seguro  
@@ -1308,6 +1305,7 @@
 **stanium** ** ← hispana:estaño, portugala:estanho, franca:étain, itala:stagno, angla:tin, svahila:stani  
 **stibium** ** ← mandarena:锑 (tī), svahila:stibi  
 **strontium** *stroncio* ← angla:strontium, franca:strontium, hispana:strontium, portugala:estrôncio, rusa:стронций, mandarena:锶 (sī), japana:ストロンチウム, korea:스트논듐, vjetnama:stronti, hindia:स्ट्रोन्सियम, bengala:স্ট্রনসিয়াম, malaja:strontium, svahila:stronti, araba: سترانشيوم  
+**strute** ** ← angla:franca:structure, hispana:estructure, portugala:estrutura, rusa:структура (struktura), malaja:(infra)struktur, japana:(インフラ)ストラクチャ ((infura)sutorakucha), korea:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** ** ← angla:study, franca:étudier, hispana:estudiar, portugala:estudar + rusa:студент (student), hindia:स्टूडेंट (sṭūḍeṇṭ)  
 **su-** ** ← scr:hindia: सु- (su-), bengala:সু- (śu-) + latina:angla:franca:su-  
 **sual** *demandi* ← araba: سؤال (su'āl), hindia:सवाल (savāl), malaja:soal, svahila:swali  
@@ -1578,7 +1576,6 @@
 **• juder** *juĝisto* ← angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji + rusa:суд (sud)  
 **• konmisia** *komisiono (komitea)* ← rusa:комиссия (komissiya), polona:komisja, angla:franca:commission, deu:Kommission, hispana:comisión, portugala:comissão, turka:komisyon, hindia:कमीशन (kamīśan), bengala:কমিশন (kômiśôn), malaja:komisi  
 **• konputer** *komputero* ← angla:computer, hispana:computadora, portugala:computador, rusa:компьютер (komp’uter), araba:كَمْبْيُوتَر‎ (kambyūtar), svahila:kompyuta, hindia:कंप्यूटर (kampyūṭar), bengala:কম্পিউটার (kômpiuṭar), malaja:komputer, japana:コンピューター (konpyūtā)  
-**• konstrution** ** ← itala:costruzione, angla:franca:construction, portugala:construção, hispana:construcción, deu:konstruieren, rusa:конструкция (konstrukciya), japana:コンストラクト (konsutorakuto)  
 **• kontrate** ** ← angla:treaty, franca:traité, hispana:portugala:tratado, rusa:контракт (kontrakt), turka:kontrat, malaja:kontrak  
 **• krita** ** ← mandarena:批评 (pīpíng), vjetnama:phê bình, korea:비평 (bipyeong)  
 **• lider** ** ← angla:franca:leader, hispana:portugala:líder, rusa:лидер (lider), turka:lider, hindia:लीडर (līdar), japana:リーダー (rīdā), korea:리더 (rideo)  

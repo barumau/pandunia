@@ -2,8 +2,8 @@
 
 ## A  
 
-a zay den - 今日  
 a line - オンライン  
+a zay den - 今日  
 abete - モミ  
 able - ありうる  
 acar - 漬物  
@@ -109,10 +109,11 @@ bata - 鴨
 baton - 杭  
 batonkapse - 檻 (篭, ケージ)  
 batre - バッテリー  
-bauseke - 宝石  
+bavite - 宝石  
 baze bol - 野球  
 bazopetre - 基盤岩  
 bazoxulkan - 小学校  
+bazostrute - インフラストラクチャー  
 bazar - 市場 (マーケット, バザー)  
 bebe - 赤ちゃん  
 bekofan - テラコッタ  
@@ -137,6 +138,7 @@ bilor - 結晶
 bine - 建てる  
 binoplania - 建築学  
 binoplaner - 建築家  
+binite - レンガ (磚)  
 bir - ビール  
 bismute - ビスマス  
 biznes - 業務 (営業, ビジネス)  
@@ -221,9 +223,9 @@ cuzoliste - 品書き (メニュー)
 dai - 大きい  
 daidom - 宮殿 (邸宅)  
 daihai - 大洋 (大海)  
+dayite - 大石  
 daipau - 大砲  
-daiseke - 大石  
-daivaze - 大釜 (大鍋)  
+daipote - 大釜 (大鍋)  
 dam - 暗い  
 dane - デンマークの  
 danger - 鐘 (鈴)  
@@ -265,7 +267,6 @@ diske - ディスク (円盤)
 disprosium - ジスプロシウム  
 • ditater - 独裁者  
 • ditateria - 独裁  
-dobe - レンガ (磚)  
 • dokaje - 学説  
 dokum - 書類 (文書, ドキュメント)  
 dokumfilme - ドキュメンタリー  
@@ -378,7 +379,7 @@ fuzopetre - 溶岩
 ## G  
 
 gabre - 墓 (埋葬,葬る)  
-gabroseke - 墓石 (墓碑)  
+gabrite - 墓石 (墓碑)  
 gabrostan - 墓 (墓地)  
 gadogude - 騾馬  
 gadolinium - ガドリニウム  
@@ -499,7 +500,7 @@ hoge - 火
 hoge - 燃やす  
 hogu - 燃える  
 hogosan - 火山  
-hogoseke - 火打ち石 (フリント)  
+hogite - 火打ち石 (フリント)  
 hogotehne - 花火  
 hoke - ホッケー  
 holmium - ホルミウム  
@@ -529,6 +530,7 @@ irone - 反語的
 ironia - 反語 (皮肉)  
 • islamia - イスラム教  
 • islamisme - イスラム教  
+itojanger - 石匠  
 ivia - 傾向  
 
 ## J  
@@ -700,10 +702,10 @@ lage - 湖
 lai - 来る  
 laiane - 持って来る  
 lale - 赤い  
-lalbauseke - ルビー  
 lalolince - ボブキャット  
 lalorange - ポンカン (マンダリン)  
 lalsalmon - ベニザケ  
+lalobavite - ルビー  
 lama - ラマ (チベット仏教の上師)  
 lampe - ランプ  
 LAN (loke aria nete) - LAN  
@@ -731,7 +733,7 @@ libele - 蜻蛉
 lidolin - リード (手綱)  
 lile - 小さい  
 lilkaboge - ズッキーニ  
-lilseke - 小石  
+lilite - 小石  
 lime - 五 (5)  
 limyom - 金曜日  
 limlun - ５月  
@@ -1004,6 +1006,7 @@ perde - 屁
 pese - 金  
 pesohuke - 釣り針  
 pesosaider - 漁師  
+• petrolojia - 岩石学  
 petronefte - 石油  
 piaze - 玉葱  
 picea - トウヒ  
@@ -1154,7 +1157,6 @@ savovolane - 知りたがる
 savovolite - 面白い  
 saure - 蜥蜴  
 saus - ソース  
-sekozanger - 石匠  
 sekurokope - バックアップ (控え)  
 sekuronumbe - 暗証番号  
 selenium - セレン  
@@ -1199,7 +1201,7 @@ sir - 詩
 sire - 隠す  
 siri mote - 忍び  
 sirplan - 陰謀  
-sirkoseke - 丸石 (玉石, 栗石)  
+sirkite - 丸石 (玉石, 栗石)  
 siro - 零 (０)  
 sisa - 刺す  
 sise - 六 (6)  

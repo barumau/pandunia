@@ -35,7 +35,6 @@
 **ampul** *ampułka* ← fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)  
 **an-** *negatywny (przeciwny, nie)* ← ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-  
 **ancovi** *sardela* ← eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)  
-**andesite** *andezyt* ← spa:andesita, eng:andesite, rus:андезит (andezit), tur:andezit, ara:أنديزيت ('andizit), hin:एंडेसाइट (endesait), vie:may:andesit  
 **angar** *kotwica* ← eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga  
 **angil** *wiadomość* ← ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl) + eng:angel, fra:ange, spa:ángel, por:anjo, rus:ангел (angel), zho:安琪儿 (ānqí'ér)  
 **angul** *palec* ← hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)  
@@ -237,7 +236,6 @@
 **cute** *wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie)* ← zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak  
 **cuve** ** ← eng:chew + fra:chewing-gum, hin:चूइंग गम (cūiṅg gam), ben:চ্যুইং গাম (cyuiṅ gam), jpn:チューインガム (chūingamu), kor:츄잉껌 (chu'ingkkeom)  
 **cuze** *wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)* ← eng:choose, + hin:चुनना (cunnā), + vie:chọn  
-**da** *z (partykuła posiadania)* ← [da] fra:de, du, por:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de), yue:啲 (di1) + [de] deu:der  
 **dai** *duży* ← yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai, tai), kor:대— (dae-)  
 **daihai** *ocean* ← zho:大海 (dàhǎi), jpn:大海 (taikai), kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)  
 **dake** *przykryć (przykrywać, ukryć, ukrywać; pokrycie; pokrywa, wieko, dekiel; pokład)* ← hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck  
@@ -256,6 +254,7 @@
 **darte** *grunt (ziemia, próchnica; ziemny, glebowy, gruntowy))* ← eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat  
 **date** *dane* ← eng:may:data, vie:đa ta, deu:Daten, spa:tgl:datos, por:dados, fas:(dâde-hâ), hin:डेटा (ḍeṭā), urd:(ḍeṭā), jpn:データ (dēta)  
 **dau** *droga, szosa, ulica* ← zho:道 (dào), yue:道 (dou6), jpn:道 (dō), kor:도 (do), vie:đạo  
+**de** *z (partykuła posiadania)* ← [da] fra:de, du, por:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] zho:的 (de), yue:啲 (di1) + [de] deu:der  
 **debu** *musieć* ← fra:devoir, spa:deber, por:dever  
 **defe** *obronić (chronić; obrona)* ← ara: دِفَاع (difāʿ), hin:दफ़ा (dafā), fas:urd:  دفاع  (difā'), + fra:eng:defense, spa:defensa, por:defesa, tur:defans  
 **dege** *dostać, dostawać, otrzymać, otrzymywać, wziąć, brać* ← zho:得 (dé), yue:得 (dak1), kor:득 (deuk), vie:được  
@@ -275,10 +274,8 @@
 **dinamite** *dynamit* ← eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)  
 **dinde** *indyk* ← fra:dinde, rus:индюк (indyuk), tur:hindi, ara: دِيك هِنْدِيّ‎ (dīk hindiy)  
 **ding** *kolec* ← zho:钉 (dīng), yue:釘 (deng1), vie:đinh  
-**diorite** *dioryt* ← eng:fra:diorite, spa:diorita, rus:диорит (diorit), tur:diyorit, ara:ديوريت (dayurit), hin:डायोराइट (dāyorait), vie:may:diorit  
 **diske** *dysk* ← eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)  
 **disprosium** *dysproz* ← eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم  
-**dobe** *cegła* ← ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe  
 **dokum** *dokument* ← eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman  
 **dolfin** *delfin* ← ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)  
 **dom** *mieszkać (mieszkanie, dom)* ← rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico  
@@ -555,6 +552,7 @@
 **islam** *poddanie się, uległość, pokora, posłuszeństwo* ← ara:(ʾislām), fas:(taslim), tur:teslim  
 **iste** *przyrostek dla wsperającego ideę* ← eng:deu:tur:-ist, fra:-iste, spa:por:-ista, rus:-ист (-ist)  
 **ite** ** ← eng:-ed, fra:-ite, deu:-it, spa:por:-ido, hin:-इत (-it)  
+**ite** *kamień (kawał skały)* ← eng:fra:-ite, spa:por:-ito, rus:-ит (-it) + (brick) ben:ইট (iṭ), hin:ईंट (ī̃ṭ), tha:อิฐ (it), khm:ឥដ្ឋ (ʼət), mya: အုတ် (ut)  
 **itis** *zapalenie* ← eng:spa:-itis, fra:por:-ite, rus:-ит (-it)  
 **ivia** *tendencja* ← eng:-ive, deu:-iv, fra:-if, -ive, por:spa:-ivo, rus:-ивный (-ivnyj)  
 **jake** *kurtka* ← eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta  
@@ -1236,7 +1234,6 @@
 **save** *niewiele (mało)* ← zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)  
 **save** *wiedzieć* ← fra:savoir, spa:por:saber, eng:savvy  
 **saye** *cień* ← fas:(sāye), urd:(sāyā), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)  
-**seke** *kamień (kawał skały)* ← zho: 石 (shí), yue:石 (sek3), jpn:石 (seki), kor:석 (seok)  
 **sekreter** *sekretarz* ← eng:secretary, spa:secretario, por:secretário, fra:secrétaire, deu:Sekretär, rus:секретарь (sekretar’), tur:sekreter, fas:سکرتر‎ (sekreter)  
 **sekunde** *sekunda* ← eng:second, spa:por:segundo, rus:секунда (sekunda), swa:sekunde, hin:सैकण्ड (saikaṇḍ), ben:সেকেন্ড (śekenḍ)  
 **sekure** *bezpieczny (chronić, ratować)* ← eng:secure, deu:sicher, spa:por:seguro  
@@ -1308,6 +1305,7 @@
 **stanium** *cynk* ← spa:estaño, por:estanho, fra:étain, ita:stagno, eng:tin, swa:stani  
 **stibium** *antymon* ← zho:锑 (tī), swa:stibi  
 **strontium** *stront* ← eng:strontium, fra:strontium, spa:strontium, por:estrôncio, rus:стронций, zho:锶 (sī), jpn:ストロンチウム, kor:스트논듐, vie:stronti, hin:स्ट्रोन्सियम, ben:স্ট্রনসিয়াম, may:strontium, swa:stronti, ara: سترانشيوم  
+**strute** ** ← eng:fra:structure, spa:estructure, por:estrutura, rus:структура (struktura), may:(infra)struktur, jpn:(インフラ)ストラクチャ ((infura)sutorakucha), kor:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** ** ← eng:study, fra:étudier, spa:estudiar, por:estudar + rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)  
 **su-** ** ← scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-  
 **sual** *pytać (pytanie)* ← ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali  
@@ -1578,7 +1576,6 @@
 **• juder** *sędzia* ← eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:суд (sud)  
 **• konmisia** *komisja (komitet)* ← rus:комиссия (komissiya), pol:komisja, eng:fra:commission, deu:Kommission, spa:comisión, por:comissão, tur:komisyon, hin:कमीशन (kamīśan), ben:কমিশন (kômiśôn), may:komisi  
 **• konputer** *komputer* ← eng:computer, spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)  
-**• konstrution** ** ← ita:costruzione, eng:fra:construction, por:construção, spa:construcción, deu:konstruieren, rus:конструкция (konstrukciya), jpn:コンストラクト (konsutorakuto)  
 **• kontrate** ** ← eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak  
 **• krita** *ocenić, oceniać, recenzować, komentować, krytykować* ← zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeong)  
 **• lider** *dowódca, kierownik* ← eng:fra:leader, spa:por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)  

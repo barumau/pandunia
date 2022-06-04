@@ -35,7 +35,6 @@
 **ampul** *ampoule (vial)* ← French:English:ampoule, Mandarin:安瓿 (ānbù), Japanese:アンプル (anpuru), Russian:ампула (ámpula), Arabic:(ʾambūla)  
 **an-** *reverse (negative, un-)* ← Greek:ἀν- (an-), English:un-, Hindi:अन- (an-), French:Spanish:Portuguese:in-  
 **ancovi** *anchovy* ← English:anchovy, French:anchois, Spanish:anchoa, Portuguese:anchova, Russian:анчоус (ančous), Japanese:アンチョビ (anchobi), Hindi:ऐन्चोवी (enchovi)  
-**andesite** *andesite* ← Spanish:andesita, English:andesite, Russian:андезит (andezit), Turkish:andezit, Arabic:أنديزيت ('andizit), Hindi:एंडेसाइट (endesait), Vietnamese:Malay:andesit  
 **angar** *anchor* ← English:anchor, French:ancre, Portuguese:âncora, Malay:jangkar, Russian:якорь, Arabic:(ʾanjar), Hindi:लंगर (laṅgar), Urdu:(laṅgar), Telugu:లంగరు (laṅgaru), Swahili:nanga  
 **angil** *message* ← Greek:ἀγγελία (angelía), Arabic:(ʾinjīl), Swahili:injili, Malay:injil, Turkish:incil, Hindi:इंजील (iñjīl) + English:angel, French:ange, Spanish:ángel, Portuguese:anjo, Russian:ангел (angel), Mandarin:安琪儿 (ānqí'ér)  
 **angul** *finger (toe)* ← Hindi:अंगुलि (aṅgulī), Bengali:আঙুল (aṅgul)  
@@ -237,7 +236,6 @@
 **cute** *leave (go out, exit)* ← Mandarin:出 (chū), Hakka-Chinese:(chut), Korean:출 (chul), Hindi:छूटना (chūtnā) + Turkish:çıkmak  
 **cuve** *chew* ← English:chew + French:chewing-gum, Hindi:चूइंग गम (cūiṅg gam), Bengali:চ্যুইং গাম (cyuiṅ gam), Japanese:チューインガム (chūingamu), Korean:츄잉껌 (chu'ingkkeom)  
 **cuze** *choose (elect, select, pick; choice, election, selection))* ← English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn  
-**da** *of (attributive preposition)* ← [da] French:de, du, Portuguese:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] Mandarin:的 (de), Cantonese:啲 (di1) + [de] deu:der  
 **dai** *big (great, large; get bigger, grow in size)* ← Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai, tai), Korean:대— (dae-)  
 **daihai** *ocean* ← Mandarin:大海 (dàhǎi), Japanese:大海 (taikai), Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)  
 **dake** *cover (conceal; lid, cap, deck)* ← Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck  
@@ -256,6 +254,7 @@
 **darte** *soil (dirt; soily, dirty)* ← English:dirt, Hindi:धरती (dhartī), Urdu:(dhartī), Vietnamese:đất, Malay:darat  
 **date** *data (numeric information)* ← English:Malay:data, Vietnamese:đa ta, deu:Daten, Spanish:Filipino:datos, Portuguese:dados, Persian:(dâde-hâ), Hindi:डेटा (ḍeṭā), Urdu:(ḍeṭā), Japanese:データ (dēta)  
 **dau** *way (road)* ← Mandarin:道 (dào), Cantonese:道 (dou6), Japanese:道 (dō), Korean:도 (do), Vietnamese:đạo  
+**de** *of (attributive preposition)* ← [da] French:de, du, Portuguese:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] Mandarin:的 (de), Cantonese:啲 (di1) + [de] deu:der  
 **debu** *must* ← French:devoir, Spanish:deber, Portuguese:dever  
 **defe** *defend (ward off; defense, defence)* ← Arabic: دِفَاع (difāʿ), Hindi:दफ़ा (dafā), Persian:Urdu:  دفاع  (difā'), + French:English:defense, Spanish:defensa, Portuguese:defesa, Turkish:defans  
 **dege** *get (gain, obtain, receive)* ← Mandarin:得 (dé), Cantonese:得 (dak1), Korean:득 (deuk), Vietnamese:được  
@@ -275,10 +274,8 @@
 **dinamite** *dynamite* ← English:dynamite, Spanish:dinamita, Russian:динамит (dinamit), Turkish:Malay:dinamit, Arabic:ديناميت (dinamit), Hindi:डायनामाइट (dāyanāmait), Japanese:ダイナマイト (dainamaito)  
 **dinde** *turkey* ← French:dinde, Russian:индюк (indyuk), Turkish:hindi, Arabic: دِيك هِنْدِيّ‎ (dīk hindiy)  
 **ding** *nail (spike)* ← Mandarin:钉 (dīng), Cantonese:釘 (deng1), Vietnamese:đinh  
-**diorite** *diorite* ← English:French:diorite, Spanish:diorita, Russian:диорит (diorit), Turkish:diyorit, Arabic:ديوريت (dayurit), Hindi:डायोराइट (dāyorait), Vietnamese:Malay:diorit  
 **diske** *disc (disk)* ← English:Turkish:disk, French:disque, Spanish:Portuguese:disco, Russian:диск (disk), Hindi:डिस्क (ḍisk), Bengali:ডিস্ক (ḑisk), Japanese:ディスク (disuku), Korean:디스크 (diseukeu)  
 **disprosium** *dysprosium* ← English:dysprosium, French:dysprosium, Spanish:disprosio, Portuguese:disprósio, Russian:диспрозий, Mandarin:镝 (dī), Japanese:ジスプロシウム, Korean:디스프로슘, Vietnamese:đysprosi, Hindi:डिस्प्रोसियम, Bengali:ডিসপ্রোসিয়াম, Malay:disprosium, Swahili:disprosi, Arabic: ديسبروسيوم  
-**dobe** *brick* ← Arabic:طوبةطوبة (ṭūba), Amharic:ጡብ (ṭub), deu:English:French:Spanish:Portuguese:adobe  
 **dokum** *document (record, file)* ← English:French:document, Spanish:Portuguese:documento, Russian:документ (dokument), Japanese:ドキュメント (dokyumento), Malay:dokumen, Turkish:doküman  
 **dolfin** *dolphin* ← Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)  
 **dom** *home (house, residence; reside, live in, inhabit)* ← Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico  
@@ -555,6 +552,7 @@
 **islam** *surrender (submit, yield; submission)* ← Arabic:(ʾislām), Persian:(taslim), Turkish:teslim  
 **iste** *proponent (supporter, activist, -ist)* ← English:deu:Turkish:-ist, French:-iste, Spanish:Portuguese:-ista, Russian:-ист (-ist)  
 **ite** *object (patient, target)* ← English:-ed, French:-ite, deu:-it, Spanish:Portuguese:-ido, Hindi:-इत (-it)  
+**ite** *stone (piece of rock)* ← English:French:-ite, Spanish:Portuguese:-ito, Russian:-ит (-it) + (brick) Bengali:ইট (iṭ), Hindi:ईंट (ī̃ṭ), Thai:อิฐ (it), Khmer:ឥដ្ឋ (ʼət), Burmese: အုတ် (ut)  
 **itis** *inflammation (-itis)* ← English:Spanish:-itis, French:Portuguese:-ite, Russian:-ит (-it)  
 **ivia** *tendency (inclination)* ← English:-ive, deu:-iv, French:-if, -ive, Portuguese:Spanish:-ivo, Russian:-ивный (-ivnyj)  
 **jake** *jacket* ← English:jacket, Mandarin:夹克 (jiākè), Russian:жакет (žaket), deu:Jacke, Portuguese:jaqueta  
@@ -1236,7 +1234,6 @@
 **save** *know (be aware of)* ← French:savoir, Spanish:Portuguese:saber, English:savvy  
 **save** *little (few, not many)* ← Mandarin:少 (shǎo), Cantonese:少 (siu2), Japanese:少 (shō), Korean:소 (so)  
 **saye** *shadow* ← Persian:(sāye), Urdu:(sāyā), Hindi:साया (sāyā), छाया (chāyā), Bengali:ছায়া (chaya), Thai:ฉายา (chāyā)  
-**seke** *stone (piece of rock)* ← Mandarin: 石 (shí), Cantonese:石 (sek3), Japanese:石 (seki), Korean:석 (seok)  
 **sekreter** *secretary* ← English:secretary, Spanish:secretario, Portuguese:secretário, French:secrétaire, deu:Sekretär, Russian:секретарь (sekretar’), Turkish:sekreter, Persian:سکرتر‎ (sekreter)  
 **sekunde** *second(s)* ← English:second, Spanish:Portuguese:segundo, Russian:секунда (sekunda), Swahili:sekunde, Hindi:सैकण्ड (saikaṇḍ), Bengali:সেকেন্ড (śekenḍ)  
 **sekure** *safe (secure; protect)* ← English:secure, deu:sicher, Spanish:Portuguese:seguro  
@@ -1308,6 +1305,7 @@
 **stanium** *tin* ← Spanish:estaño, Portuguese:estanho, French:étain, Italian:stagno, English:tin, Swahili:stani  
 **stibium** *antimony* ← Mandarin:锑 (tī), Swahili:stibi  
 **strontium** *strontium* ← English:strontium, French:strontium, Spanish:strontium, Portuguese:estrôncio, Russian:стронций, Mandarin:锶 (sī), Japanese:ストロンチウム, Korean:스트논듐, Vietnamese:stronti, Hindi:स्ट्रोन्सियम, Bengali:স্ট্রনসিয়াম, Malay:strontium, Swahili:stronti, Arabic: سترانشيوم  
+**strute** *building* ← English:French:structure, Spanish:estructure, Portuguese:estrutura, Russian:структура (struktura), Malay:(infra)struktur, Japanese:(インフラ)ストラクチャ ((infura)sutorakucha), Korean:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *study (work in order to practise or demonstrate)* ← English:study, French:étudier, Spanish:estudiar, Portuguese:estudar + Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)  
 **su-** *good (well)* ← scr:Hindi: सु- (su-), Bengali:সু- (śu-) + Latin:English:French:su-  
 **sual** *ask (inquire; question, query, inquiry)* ← Arabic: سؤال (su'āl), Hindi:सवाल (savāl), Malay:soal, Swahili:swali  
@@ -1578,7 +1576,6 @@
 **• juder** *judge (referee)* ← English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji + Russian:суд (sud)  
 **• konmisia** *commission (committee)* ← Russian:комиссия (komissiya), Polish:komisja, English:French:commission, deu:Kommission, Spanish:comisión, Portuguese:comissão, Turkish:komisyon, Hindi:कमीशन (kamīśan), Bengali:কমিশন (kômiśôn), Malay:komisi  
 **• konputer** *computer* ← English:computer, Spanish:computadora, Portuguese:computador, Russian:компьютер (komp’uter), Arabic:كَمْبْيُوتَر‎ (kambyūtar), Swahili:kompyuta, Hindi:कंप्यूटर (kampyūṭar), Bengali:কম্পিউটার (kômpiuṭar), Malay:komputer, Japanese:コンピューター (konpyūtā)  
-**• konstrution** *construction* ← Italian:costruzione, English:French:construction, Portuguese:construção, Spanish:construcción, deu:konstruieren, Russian:конструкция (konstrukciya), Japanese:コンストラクト (konsutorakuto)  
 **• kontrate** *agreement (treaty,contract)* ← English:treaty, French:traité, Spanish:Portuguese:tratado, Russian:контракт (kontrakt), Turkish:kontrat, Malay:kontrak  
 **• krita** *evaluate (review, criticise)* ← Mandarin:批评 (pīpíng), Vietnamese:phê bình, Korean:비평 (bipyeong)  
 **• lider** *leader (director)* ← English:French:leader, Spanish:Portuguese:líder, Russian:лидер (lider), Turkish:lider, Hindi:लीडर (līdar), Japanese:リーダー (rīdā), Korean:리더 (rideo)  

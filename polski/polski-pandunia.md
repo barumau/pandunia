@@ -87,7 +87,7 @@ argon - argon
 argument - argum  
 argument, teza - tese  
 Arktyka - Artike  
-Armenia - Hayakia  
+Armenia - Hayastan  
 armia - gun  
 aromantyczny - anromante  
 arsen - arsene  
@@ -236,7 +236,7 @@ brodawka - veruke
 brom - bromium  
 broń - arme  
 broń nuklearna - kori arme  
-bruk - sirkoseke  
+bruk - sirkite  
 brunatnica - brunalge  
 Brunei Darussalam - Brunei  
 brzmieć, wydać dźwięk, wydawać dźwięk - sone  
@@ -292,7 +292,7 @@ cały - hole
 cebula - piaze  
 cecha, atrybut, własność; -ość - bonsifia  
 cecha, właściwość, parametr - sif  
-cegła - dobe  
+cegła - binite  
 cel (celować; kierunek) - dike  
 cel - gol  
 celownik optyczny (siatka lunety) - krusolin  
@@ -788,7 +788,7 @@ gówno - xite
 gąbka - sponge  
 gęś - ganse  
 gładki - lise  
-głaz - daiseke  
+głaz - dayite  
 głos (głosować) - vote  
 głoska - fon  
 głowa - sar  
@@ -1026,9 +1026,9 @@ kalkulować - hisabe
 Kambodża - Kambozia  
 kamera, aparat fotograficzny - fotografmaxin  
 Kamerun - Kamerun  
-kamieniarz - sekozanger  
-kamień (kawał skały) - seke  
-kamyk - lilseke  
+kamieniarz - itojanger  
+kamień (kawał skały) - ite  
+kamyk - lilite  
 Kanada - Kanade  
 kanapka - sanduice  
 kanał - kanal  
@@ -1104,7 +1104,7 @@ klatka piersiowa - sinakapse
 klaun - payace  
 klawiatura - butonban  
 klawisz, przycisk, przełącznik, guzik - buton  
-klejnot - bauseke  
+klejnot - bavite  
 klescz (roztocze) - akare  
 klimat - klim  
 klimatologia - klimolojia  
@@ -1120,7 +1120,7 @@ kobieta, dorosła samica - maturi fem
 kobieta; kobiecy - fem  
 kochać (miłość, afekt) - ame  
 kochać się, uprawiać seks - sexe  
-kocioł - daivaze  
+kocioł - daipote  
 kod, szyfr - kode  
 kodować - inkode  
 koka - koke  
@@ -1236,7 +1236,7 @@ kryzys - krize
 kryzysowy - krizi  
 krzak (krzew) - tali moke  
 krzem - silike  
-krzemień - hogoseke  
+krzemień - hogite  
 krzyknąć, krzyczeć - klame  
 krzywdzący (szkodliwy) - avaran  
 krzyż - krus  
@@ -1264,7 +1264,7 @@ kuchnia - kukokamar
 kukurydza - mais  
 kukułka - kuku  
 kulomb - kulombe  
-kuloodporny - dansekure  
+kuloodporny - danosekure  
 kult ognia - hogopuzia  
 kultura - kultur  
 kulturystyka - muskulbin  
@@ -1642,7 +1642,7 @@ nadać, wysłać pocztą - poste
 Naddniestrze - Nistria  
 nadzieja, życzenie - insale  
 nagi (goły, obnażony) - nude  
-nagrobek - gabroseke  
+nagrobek - gabrite  
 nahuatl - navate  
 najmniej (minimalnie) - minime  
 naleśnik - krepe  
@@ -1874,7 +1874,7 @@ osobisty numer identyfikacyjny (pin) - sekuronumbe
 ostatni, końcowy - finime  
 ostropest plamisty - milkokardon  
 ostrożeń lancetowaty - perokardon  
-ostrzarka (kamień młyński) - molseke  
+ostrzarka (kamień młyński) - molite  
 oswoić (oswajać, tresować, trenować) - dosile  
 oswojony (potulny, posłuszny) - dosile  
 oszacować, szacować, przybliżyć, przybliżać - yage  
@@ -2459,7 +2459,7 @@ roślina, sadzonka - fite
 rożen (szpikulec) - sis  
 rtęć - hurargente  
 rubid - rubidium  
-rubin - lalbauseke  
+rubin - lalobavite  
 ruch - kine  
 ruch - mote  
 ruchowy, kinetyczny - kine  
@@ -3287,7 +3287,7 @@ włókno - linem
 ## X  
 
 z (od) - de  
-z (partykuła posiadania) - da  
+z (partykuła posiadania) - de  
 
 ## Z  
 

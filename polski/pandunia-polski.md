@@ -2,14 +2,14 @@
 
 ## A  
 
-a sababe de - ponieważ, bo  
 a - przy, z, na, w, u  
-a zay den - dziś, dzisiaj  
 a ke - gdzie  
 a le - tu (tutaj, tam)  
 a line - online (na linii, w sieci)  
 a nove - właśnie, dopiero co, ostatnio, niedawno  
+a sababe de - ponieważ, bo  
 a sube - pod (poniżej)  
+a zay den - dziś, dzisiaj  
 abete - jodła  
 able - móc, umieć  
 • ablo - prawdopodobnie (możliwie)  
@@ -248,7 +248,7 @@ batonkapse - klatka
 batonpang - bagietka  
 batre - bateria  
 bau - skarb (skrabiec; cenny)  
-bauseke - klejnot  
+bavite - klejnot  
 baze - podstawa (baza, fundament; bazowy; zakładać (założyć, ustanowić)  
 baze bol - bejsbol (baseball)  
 bazer - założyciel  
@@ -300,6 +300,7 @@ bilor - kryształ
 bine - budować (zbudować, konstruować; budynek)  
 binoplania - architektura  
 binoplaner - architekt  
+binite - cegła  
 binde - punkt  
 bir - piwo  
 birkan - bar, knajpa  
@@ -473,19 +474,18 @@ cuze - wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)
 
 ## D  
 
-da - z (partykuła posiadania)  
 dai - duży  
-dayia - rozmiar  
+• dayia - rozmiar  
 dayangiler - ambasador  
 dayangilkan - ambasada  
 daidarge - wzmacniać (wzmocnić)  
 daidom - pałac  
 daihai - ocean  
+dayite - głaz  
 dailasun - czosnek olbrzymi  
 daipau - działo  
 daipaver - kanonier  
-daiseke - głaz  
-daivaze - kocioł  
+daipote - kocioł  
 daixulkan - uniwersytet  
 dake - przykryć (przykrywać, ukryć, ukrywać; pokrycie; pokrywa, wieko, dekiel; pokład)  
 • andake - odsłonić, odsłaniać  
@@ -496,7 +496,7 @@ dama gem - warcaby
 dane - duński  
 Dania - Dania  
 dan - cząstka (ziarno, kula, pocisk)  
-dansekure - kuloodporny  
+danosekure - kuloodporny  
 dange - dzwonić (dźwięczeć, szczękać)  
 danger - dzwon (dzwonek)  
 danke - dziękować (dzięki)  
@@ -522,6 +522,7 @@ datotable - tablioca, macierz
 dau - droga, szosa, ulica  
 • davisme - taoizm  
 • daviste - taoista  
+de - z (partykuła posiadania)  
 de - z (od)  
 debu - musieć  
 deci - decy-, dziesiąta część  
@@ -588,7 +589,6 @@ dite - dyktować
 • ditater - dyktator  
 • ditateria - dyktatura  
 Divehia - Malediwy (Republika Malediwów)  
-dobe - cegła  
 Doice - Niemcy  
 doice - niemiecki  
 dokum - dokument  
@@ -864,7 +864,7 @@ fuzopetre - lawa
 ga - do, dopóki, dla  
 Gabon - Gabon  
 gabre - grób (mogiła; zakopać,pochować)  
-gabroseke - nagrobek  
+gabrite - nagrobek  
 gabrostan - cmentarz  
 gade - osioł  
 gadogude - muł  
@@ -1047,7 +1047,6 @@ haihiyar - strzykwa
 hainile - morskoniebieski  
 haiporte - port morski (przystań)  
 haitate - wybrzeże (plaża)  
-Hayakia - Armenia  
 haide - niech my, hajda  
 Haiti - Haiti  
 hake - prawo, przywilej  
@@ -1086,6 +1085,7 @@ hato - nawet
 hatre - zagrożenie (niebezpieczeństwo; niebezpieczny)  
 Havai - Hawaje  
 Havai nesia - Hawaje (archipelag hawajski)  
+Hayastan - Armenia  
 he - hę?, co?, pardon?  
 hei - hej  
 helium - hel  
@@ -1129,7 +1129,7 @@ hogopuzia - kult ognia
 hogosan - wulkan  
 hogosani kance - szkło wulkaniczne  
 hogosanduke - latarnia  
-hogoseke - krzemień  
+hogite - krzemień  
 hogotehne - pirotechnika  
 hoke - hokej  
 hole - cały  
@@ -1215,6 +1215,8 @@ Islandia - Islandia
 isme - przyrostek dla ideologii  
 Israel - Izrael  
 iste - przyrostek dla wsperającego ideę  
+ite - kamień (kawał skały)  
+itojanger - kamieniarz  
 Italia - Italia, Włochy  
 itis - zapalenie  
 ive - być skłonnym (mieć skłonność)  
@@ -1617,10 +1619,10 @@ lage - jezioro
 lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 lake - lakier  
 lale - czerwony  
-lalbauseke - rubin  
 lalolince - ryś rudy  
 lalorange - mandarynka  
 lalsalmon - nerka (łosoś czerwony)  
+lalobavite - rubin  
 lama - lama  
 lampe - lampa  
 langan - poręcz (balustrada)  
@@ -1689,7 +1691,7 @@ lile - mały; mało, trochę, nieco
 lilbol - bańka  
 lilyam - przekąska  
 lilkaboge - cukinia  
-lilseke - kamyk  
+lilite - kamyk  
 lilake - lilak  
 lilake - liliowy  
 lime - limit, granica  
@@ -2002,7 +2004,7 @@ mokozongoparke - arboretum
 mole - zemleć (mleć, mielić)  
 molia - mielić  
 moler - młynarz  
-molseke - ostrzarka (kamień młyński)  
+molite - ostrzarka (kamień młyński)  
 Moldove - Mołdawia  
 mole - mol  
 molekul - molekuła (cząsteczka)  
@@ -2759,8 +2761,6 @@ saure - jaszczurka
 saus - sos  
 • ansave - dziwny (nieznany)  
 se - sam (siebie)  
-seke - kamień (kawał skały)  
-sekozanger - kamieniarz  
 sekreter - sekretarz  
 sekreteria - sekretariat  
 sekunde - sekunda  
@@ -2874,7 +2874,7 @@ sirplan - spisek (konspiracja)
 sirke - koło, okrąg  
 sirke - otoczyć, otaczać  
 sirke - okrągły  
-sirkoseke - bruk  
+sirkite - bruk  
 siro - zero, nic, żaden  
 sisa - nabić (przebić, dźgnąć)  
 sise - sześć (6)  

@@ -38,13 +38,14 @@ Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kann
 
 ## A  
 
-a sababe de - koska (johdosta, takia)  
 a - luona (-lla, -ssa)  
-a zay den - tänään  
+a danke de - ansiosta  
 a ke - missä?  
 a le - siellä (tuolla)  
 a nove - äsken (vasta, juuri)  
+a sababe de - koska (johdosta, takia)  
 a sube - alla  
+a zay den - tänään  
 abe - pois  
 abete - pihta (jalokuusi)  
 able - voida (osata, pystyä)  
@@ -306,13 +307,14 @@ batonkapse - häkki
 batonpang - patonki (ranskanleipä)  
 batre - akku (paristo)  
 bau - aarre (arvokas)  
-bauseke - jalokivi  
+bavite - jalokivi  
 baze - perusta (perustus; perustaa)  
 baze bol - baseball (amerikkalainen pesäpallo)  
 bazer - perustaja  
 bazokanun - perustuslaki  
 bazopetre - peruskallio  
 bazoxulkan - ala-aste  
+bazostrute - perusrakenne (infrastruktuuri)  
 bazar - tori (basaari)  
 bazarhurisme - markkinaliberalismi  
 be - läpikäydä (passiivin muodostava verbi)  
@@ -361,6 +363,7 @@ bilor - kristalli
 bine - koota (rakentaa; rakennus)  
 binoplania - arkkitehtuuri  
 binoplaner - arkkitehti  
+binite - tiili  
 binde - täplä (läiskä)  
 bir - olut (kalja)  
 birkan - baari (kapakka)  
@@ -568,18 +571,17 @@ cuze - valita (valinta, vaali)
 
 ## D  
 
-da - määritetyn määritteeseen liittävä partikkeli  
 dai - iso (suuri; suurentua, kasvaa kokoa)  
-dayia - suuruus (koko)  
+• dayia - suuruus (koko)  
 dayangiler - lähettiläs  
 dayangilkan - lähetystö  
 daidarge - korottaa  
 daidom - palatsi  
 daihai - valtameri  
+dayite - lohkare (järkäle)  
 daipau - tykki  
 daipaver - tykkimies  
-dairiu - hyöky (vyöry)  
-daiseke - lohkare (järkäle)  
+dairive - hyöky (vyöry)  
 daisite - suurkaupunki  
 daixulkan - yliopisto  
 dake - peittää (peite, kansi)  
@@ -591,11 +593,10 @@ dama gem - tammipeli
 dane - tanskalainen  
 Dania - Tanska  
 dan - jyvä (luoti)  
-dansekure - luodinkestävä  
+danosekure - luodinkestävä  
 dange - kilistää (soittaa kelloa)  
 danger - soittokello  
 danke - kiittää (kiitos)  
-danko de - ansiosta  
 danse - tanssi  
 dante - hammas  
 • danta - purra  
@@ -619,6 +620,7 @@ dau - tie
 • davisme - taolaisuus  
 • daviste - taolainen  
 dauban - liikennemerkki  
+de - määritetyn määritteeseen liittävä partikkeli  
 de - luota (lähtien, -sta, -lta)  
 debu - täytyä (olla pakko)  
 deci - desi  
@@ -693,7 +695,6 @@ dite - sanella
 • ditateria - diktatuuri  
 • dition - sanoittaminen (diktio)  
 Divehia - Malediivit  
-dobe - tiili  
 Doice - Saksa  
 doice - saksalainen  
 • dokaje - oppi (doktriini)  
@@ -1021,7 +1022,7 @@ fuze - sulaa
 ga - luokse (tykö, kohti, asti)  
 Gabon - Gabon  
 gabre - hauta (haudata)  
-gabroseke - hautakivi  
+gabrite - hautakivi  
 gabrostan - hautausmaa  
 gade - aasi  
 gadogude - muuli  
@@ -1223,7 +1224,6 @@ hai - meri- (merellinen)
 haiamirer - amiraali  
 haigun - merivoimat (sotalaivasto)  
 haiporte - satama  
-Hayakia - Armenia  
 haide - tehkäämme  
 Haiti - Haiti  
 hake - oikeus (oikeutus)  
@@ -1269,6 +1269,7 @@ hatre - vaara (vaarallinen)
 Havai - Havaiji  
 Havai nesia - Havaijin saaret  
 have - ilma  
+Hayastan - Armenia  
 he - häh?  
 hei - hei  
 helium - helium  
@@ -1318,7 +1319,7 @@ hoge - polttaa
 hoge - tulinen  
 hogu - palaa  
 hogosanduke - lyhty  
-hogoseke - piikivi  
+hogite - piikivi  
 hoke - hockey (jääkiekko)  
 hole - koko (kokonainen)  
 • holia - kokonaisuus  
@@ -1419,6 +1420,7 @@ Islandia - Islanti
 isme - aate (ismi, ideologia, uskonto, jne)  
 Israel - Israel  
 iste - aatteen kannattaja  
+ite - kivi (hippu)  
 Italia - Italia  
 itis - tulehdus  
 ive - olla taipuvainen  
@@ -1832,8 +1834,8 @@ lai - tulla (saapua)
 laiane - tuoda  
 lake - lakka  
 lale - punainen  
-lalbauseke - rubiini  
 lalorange - mandariini  
+lalobavite - rubiini  
 lampe - lamppu  
 LAN (loke aria nete) - lähiverkko (LAN-verkko)  
 langan - kaide (reelinki)  
@@ -1895,8 +1897,8 @@ Lihtenstain - Liechtenstein
 lile - pieni (pienesti, vähän)  
 lilbol - kupla  
 lilyam - välipala (naposteltava)  
-lilseke - sorakivi  
 lilsite - pikkukaupunki  
+lilite - sorakivi  
 lilake - syreeni  
 lilake - violetti (liila)  
 lime - raja  
@@ -2217,7 +2219,7 @@ mokozongoparke - arboretum (puulajipuisto)
 mole - jauhaa  
 molia - mylly  
 moler - mylläri  
-molseke - myllynkivi  
+molite - myllynkivi  
 Moldove - Moldova  
 molidenium - molybdeeni  
 moluske - nilviäinen  
@@ -2646,6 +2648,7 @@ pestanke - akvaario
 pete - maha (vatsa)  
 peta - peta-  
 petre - kallio (kivi)  
+• petrolojia - petrologia  
 piano - piano  
 piaze - sipuli  
 picea - kuusi (metsäkuusi)  
@@ -3045,7 +3048,6 @@ saus - kastike (soosi)
 se - itse  
 se su - oma (-nsa)  
 semon - toisiaan (toinen toistaan)  
-seke - kivi (hippu)  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
 sekunde - sekunti  
@@ -3148,7 +3150,7 @@ sirplan - juoni (salaliitto)
 sirke - piiri (ympyrä)  
 sirke - ympäröidä (piirittää)  
 sirke - pyöreä  
-sirkoseke - mukulakivi  
+sirkite - mukulakivi  
 siro - nolla (ei yhtään)  
 sise - kuusi (6)  
 sisfas - kuutio (kuusitahokas)  

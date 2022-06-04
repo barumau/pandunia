@@ -153,10 +153,11 @@ baton - кол
 batonkapse - клетка  
 batre - батарея  
 bau - сокровище (казна; драгоценный)  
-bauseke - драгоценный камень  
+bavite - драгоценный камень  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
 bazoxulkan - семилетка  
+bazostrute - инфраструктура  
 bazar - рынок (базар)  
 bebe - младенец  
 beker - хлебопёк (пекарь)  
@@ -183,6 +184,7 @@ bilor - кристалл
 bine - строить  
 binoplania - архитектура  
 binoplaner - архитектор  
+binite - кирпич  
 bir - пиво  
 bismute - висмут  
 biznes - предприятие (бизнес)  
@@ -276,10 +278,10 @@ cuvogom - жевательная резинка (жевачка)
 
 daidom - дворец (особняк)  
 daihai - океан  
+dayite - валун  
 dailasun - лук исполинский  
 daipau - пушка  
-daiseke - валун  
-daivaze - котёл  
+daipote - котёл  
 dalil - доказательство  
 dam - тёмный  
 dane - датский  
@@ -317,7 +319,6 @@ dite - диктовать
 • ditater - диктатор  
 • ditateria - диктатура  
 • dition - дикция  
-dobe - кирпич  
 • dokaje - учение (доктрина)  
 dokum - документ  
 dokumfilme - документальный фильм  
@@ -440,7 +441,7 @@ futau - топор (колун, секира)
 ## G  
 
 gabre - могила (гроб; хоронить)  
-gabroseke - надгробие  
+gabrite - надгробие  
 gabrostan - кладбище  
 gadogude - мул  
 gadolinium - гадолиний  
@@ -575,7 +576,7 @@ hisabe - вычислять
 hoge - огонь  
 hoge - жечь (палить)  
 hogosan - вулкан  
-hogoseke - кремень  
+hogite - кремень  
 hogotehne - фейерверк  
 hoke - хоккей  
 • holike - всесторонний  
@@ -608,6 +609,7 @@ iridium - иридий
 ironia - ирония  
 • islamia - ислам (мусульманство)  
 • islamisme - ислам (мусульманство)  
+ite - камень (камешек)  
 itis - воспаление  
 ivia - тенденция  
 
@@ -784,10 +786,10 @@ kusu - лежать
 lai - приходить  
 laiane - приносить  
 lale - красный  
-lalbauseke - рубин  
 lalolince - рыжая рысь  
 lalorange - мандарин  
 lalsalmon - нерка (красница)  
+lalobavite - рубин  
 lama - лама (религиозный учитель в тибетском буддизме)  
 lampe - лампа  
 lantanium - лантан  
@@ -816,7 +818,7 @@ libele - стрекоза
 • lider - руководитель (лидер)  
 lile - маленький (малый)  
 lilkaboge - цукини  
-lilseke - галька  
+lilite - галька  
 lime - пять (5)  
 limyom - пятница  
 • limite - ограниченный  
@@ -959,7 +961,7 @@ mokoban - доска (планка)
 mokotan - бревно  
 mole - молоть  
 molia - мельница  
-molseke - жёрнов  
+molite - жёрнов  
 molidenium - молибден  
 moluske - моллюск  
 • montaner - альпинист (скалолаз)  
@@ -1318,7 +1320,6 @@ saure - ящерица
 saus - соус  
 se - себя (-ся)  
 semon - друг друга  
-seke - камень (камешек)  
 sele - совет (советовать)  
 selenium - селен  
 selge - мангольд  
@@ -1366,7 +1367,7 @@ singofote - сверкать (мерцать)
 • dusosinye - зловещий  
 sire - скрывать  
 sirplan - заговор (сговор)  
-sirkoseke - булыжник  
+sirkite - булыжник  
 sise - шесть (6)  
 sisyom - суббота  
 skale - подниматься  

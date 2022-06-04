@@ -202,7 +202,7 @@ argument (thesis) - tese
 Ariel - Ariel  
 arithmetics - hisabia  
 arm - handoxake  
-Armenia - Hayakia  
+Armenia - Hayastan  
 armor (shielding) - defkaske  
 army - gun  
 aromantic - anromante  
@@ -478,7 +478,7 @@ botany (phytology) - fitolojia
 Botswana - Cuana  
 bottle - botel  
 bottom - tal  
-boulder - daiseke  
+boulder - dayite  
 bow (arch, arc) - arke  
 bow instrument (violin, etc.) - ticin  
 box (chest) - sanduke  
@@ -500,7 +500,7 @@ breast (boob, tit) - mam
 breastplate - sinaplate  
 breath - nafas  
 breed - genite  
-brick - dobe  
+brick - binite  
 bridge - pul  
 bright (brilliant, luminous, shining; shine) - ming  
 bring - laiane  
@@ -525,7 +525,7 @@ build (building) - bine
 build in (instruct) - instrute  
 building - strute  
 Bulgaria - Bolgaria  
-bulletproof - dansekure  
+bulletproof - danosekure  
 burden (load, weight, charge, cargo) - karge  
 bureaucracy - burokratia  
 Burkina Faso - Burkina Faso  
@@ -632,7 +632,7 @@ catch (capture, take, seize) - cepe
 catch fish - kapa pes  
 catch fish - yege pes  
 Caucasia - Kaukasia  
-cauldron - daivaze  
+cauldron - daipote  
 cause (make sb. do sth.) - ante  
 cave - guhe  
 Cayman Islands - Kaiman nesia  
@@ -768,7 +768,7 @@ club - klube
 coast (beach) - haitate  
 coat - kote  
 cobalt - kobalte  
-cobblestone - sirkoseke  
+cobblestone - sirkite  
 coca - koke  
 Coca-Cola - koka kole  
 cocktail - mixi alkol  
@@ -1129,7 +1129,7 @@ doctor (scholar who has attained doctorate) - dotor
 doctor - doker  
 doctorate - dotoria  
 doctrine (body of teachings) - dokaje  
-document (paper used as a proof) - dokemen  
+document (paper used as a proof) - dokomen  
 document (paper) - papir  
 document (record, file) - dokum  
 documentary film - dokumfilme  
@@ -1480,7 +1480,7 @@ flerovium - flerovium
 fletcher - flecer  
 flexible  - flexable  
 flexion (flection) - flexion  
-flint - hogoseke  
+flint - hogite  
 float (buoy, bobber) - boi  
 floating point number - boipuntonumbe  
 floor - kamartal  
@@ -1585,7 +1585,7 @@ gauze - gaze
 gay (homosexual) - gei  
 gazelle - gazel  
 gel (jelly) - gel  
-gem (gemstone, jewel) - bauseke  
+gem (gemstone, jewel) - bavite  
 gender (sex) - gense  
 gender studies - gensolojia  
 genderqueer (non-binary) - bis  
@@ -1696,7 +1696,7 @@ grief (sorrow, sadness; sad; grieve) - duke
 grilled meat (kebab) - kababe manse  
 grimace - grimas  
 grind (grind in mill) - mole  
-grindstone (millstone) - molseke  
+grindstone (millstone) - molite  
 ground force (army) - geogunia  
 group - grupe  
 grow (grow up, expand) - rastu  
@@ -1989,6 +1989,7 @@ intertextual - intertexte
 intervene (come between) - intervene  
 intestines (entrails, guts, bowels, viscera) - intraje  
 intoxicated (high,stoned) - narke  
+intrastructure (underbuilding) - bazostrute  
 introspection - introspete  
 introvert - introverse  
 introvert - introverse  
@@ -2369,7 +2370,7 @@ Marshall Islands - Marshal nesia
 martial art - jengoxute  
 marvel (wonder; amaze, astonish) - ajibe  
 mask (camouflage) - maske  
-mason (stonemason, stonecutter) - sekozanger  
+mason (stonemason, stonecutter) - itojanger  
 mass (quantity of matter) - mas  
 massage - masaje  
 mast - maste  
@@ -2739,7 +2740,7 @@ ocular - oke
 odd (strange, weird) - bizar  
 ode (verse) - ode  
 Odia (Oriya) - odise  
-of (attributive preposition) - da  
+of (attributive preposition) - de  
 off (deactivated,disabled,inactive) - anative  
 office (bureau) - bure  
 office (bureau) - ofisia  
@@ -2928,7 +2929,7 @@ peanut (groundnut) - geodou
 pear - leze  
 pearl - lul  
 peat - turfe  
-pebble (gravel) - lilseke  
+pebble (gravel) - lilite  
 pedagogue - pedogider  
 pedal - pedal  
 pedocentrist - pedocentriste  
@@ -2965,6 +2966,7 @@ Peru - Peru
 pervert (twist; perverse) - perverse  
 peta- - peta  
 petroleum - petronefte  
+petrology - petrolojia  
 Philippines - Filipin  
 philosopher - filsofer  
 philosophic - filsofe  
@@ -3421,7 +3423,7 @@ royal - rege
 rub (scrape, scrub) - frike  
 rubber (latex, eraser) - gom  
 rubidium - rubidium  
-ruby - lalbauseke  
+ruby - lalobavite  
 rude (offensive) - ninde  
 ruin (destroy, devastate, demolish) - harabe  
 rule (be in charge) - sulte  
@@ -3784,7 +3786,7 @@ step-sibling - cingamben
 stereophonic - dulsonde  
 sticker - glutograf  
 still (yet, continuously) - duro  
-stone (piece of rock) - seke  
+stone (piece of rock) - ite  
 stop (halt) - tinge  
 stop (halt) - tingu  
 stop (obsruct, block; plug, stopper, cap, peg, tap) - tape  
@@ -3962,7 +3964,7 @@ Thailand - Tai dexia
 thallium - talium  
 than (as, compared to) - ce  
 thank (thanks, thank you) - danke  
-thanks to - danko de  
+thanks to - a danke de  
 that is (in other words, i.e., alias) - alonamo  
 the - la  
 the Grenadines - Grenadin nesia  
@@ -4025,7 +4027,7 @@ toilet (WC) - tualete
 Tokyo - Tokyo  
 tolerate - tolere  
 tomato - tomate  
-tombstone (gravestone) - gabroseke  
+tombstone (gravestone) - gabrite  
 tomogram - tomografe  
 tomography - tomografia  
 tomorrow - posdeno  
@@ -4045,7 +4047,7 @@ topic (subject, theme) - tem
 topography - topografe  
 topography - topografia  
 torch - fotobaton  
-torrent - dairiu  
+torrent - dairive  
 touch (tact) - tate  
 touch - toce  
 tourism - safarisme  

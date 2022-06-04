@@ -38,16 +38,17 @@ The sentence **mi fa huru yemon** would mean the same thing but it would include
 
 ## A  
 
-a sababe de - because  
 a - by (at, in, on)  
-a zay - presenty (currently, now)  
-a zay den - today  
+a danke de - thanks to  
 a ke - where  
 a le - there  
 a line - online  
 a max - also (too, in addition)  
 a nove - just (recently)  
+a sababe de - because  
 a sube - under  
+a zay - presenty (currently, now)  
+a zay den - today  
 abe - away  
 abete - fir tree  
 able - can (be able; ability, possibility; able, possible)  
@@ -336,13 +337,14 @@ batonkapse - cage
 batonpang - baguette  
 batre - battery  
 bau - treasure (valuables; precious)  
-bauseke - gem (gemstone, jewel)  
+bavite - gem (gemstone, jewel)  
 baze - base (foundation; basic; base on, found)  
 baze bol - baseball  
 bazer - founder  
 bazokanun - consitution  
 bazopetre - bedrock  
 bazoxulkan - primary school (elementary school, gradeschool)  
+bazostrute - intrastructure (underbuilding)  
 bazar - market (bazaar)  
 bazarhurisme - market liberalism  
 be - undergo (passivizing verb)  
@@ -397,6 +399,7 @@ bilor - crystal
 bine - build (building)  
 binoplania - architecture  
 binoplaner - architect  
+binite - brick  
 binde - dot (spot)  
 bir - beer  
 birkan - bar (pub, beer house)  
@@ -622,21 +625,20 @@ cuzoliste - menu (catalog)
 
 ## D  
 
-da - of (attributive preposition)  
 dai - big (great, large; get bigger, grow in size)  
-dayia - size  
+• dayia - size  
 dayangiler - ambassador  
 dayangilkan - embassy  
 daidarge - amplify (scale)  
 daidom - palace (mansion)  
 daihai - ocean  
+dayite - boulder  
 dailasun - giant onion  
 daipau - gun (cannon)  
 daipaver - cannoneer  
-dairiu - torrent  
-daiseke - boulder  
+daipote - cauldron  
+dairive - torrent  
 daisite - big city  
-daivaze - cauldron  
 daixulkan - university  
 dake - cover (conceal; lid, cap, deck)  
 • andake - uncover (reveal)  
@@ -647,11 +649,10 @@ dama gem - checkers (draughts)
 dane - Danish  
 Dania - Denmark  
 dan - particle (grain, bullet)  
-dansekure - bulletproof  
+danosekure - bulletproof  
 dange - ring (toll, clang)  
 danger - bell  
 danke - thank (thanks, thank you)  
-danko de - thanks to  
 danse - dance  
 dante - tooth  
 • danta - bite  
@@ -678,6 +679,7 @@ dau - way (road)
 • davisme - Taoism (Daoism)  
 • daviste - Taoist  
 dauban - road sign  
+de - of (attributive preposition)  
 de - from (since, because)  
 debu - must  
 deci - deci-  
@@ -757,14 +759,13 @@ dite - dictate
 • predite - predict (foretell)  
 • predition - prediction  
 Divehia - Maldives  
-dobe - brick  
 Doice - Germany  
 doice - German  
 doke - prove (demonstrate,show,instruct)  
 • dokaje - doctrine (body of teachings)  
 • dokente - docent  
 • doker - doctor  
-• dokemen - document (paper used as a proof)  
+• dokomen - document (paper used as a proof)  
 dokum - document (record, file)  
 dokumfilme - documentary film  
 dokumsanduke - folder (directory)  
@@ -1143,7 +1144,7 @@ fuzopetre - lava
 ga - to (toward, till, until, for)  
 Gabon - Gabon  
 gabre - grave (tomb; bury)  
-gabroseke - tombstone (gravestone)  
+gabrite - tombstone (gravestone)  
 gabrostan - graveyard (cemetery,burial ground)  
 gade - donkey (ass)  
 gadogude - mule  
@@ -1386,7 +1387,6 @@ haihiyar - sea cucumber
 hainile - aqua (teal)  
 haiporte - harbor (seaport)  
 haitate - coast (beach)  
-Hayakia - Armenia  
 haide - let's  
 Haiti - Haiti  
 hake - right (entitlement)  
@@ -1433,6 +1433,7 @@ hatre - danger (peril; dangerous, perilous)
 Havai - Hawaii  
 Havai nesia - Hawaiian archipelago  
 have - atmosphere (air, wind)  
+Hayastan - Armenia  
 he - huh? (pardon?)  
 hei - hey (exclamation to get attention)  
 helium - helium  
@@ -1491,7 +1492,7 @@ hogopuzia - pyrolatry
 hogosan - volcano  
 hogosani kance - volcanic glass  
 hogosanduke - lantern  
-hogoseke - flint  
+hogite - flint  
 hogotehne - fireworks (pyrotechnics)  
 hoke - hockey  
 hole - whole (entire)  
@@ -1599,6 +1600,8 @@ isme - ism (doctrine, ideology, religion, etc)
 Israel - Israel  
 iste - proponent (supporter, activist, -ist)  
 ite - object (patient, target)  
+ite - stone (piece of rock)  
+itojanger - mason (stonemason, stonecutter)  
 Italia - Italy  
 itis - inflammation (-itis)  
 ive - tend to  
@@ -2088,10 +2091,10 @@ lai - come (arrive)
 laiane - bring  
 lake - lacquer (varnish)  
 lale - red  
-lalbauseke - ruby  
 lalolince - bobcat  
 lalorange - mandarin orange (tangerine)  
 lalsalmon - sockeye salmon  
+lalobavite - ruby  
 lama - lama  
 lampe - lamp  
 LAN (loke aria nete) - LAN  
@@ -2168,8 +2171,8 @@ lile - little (small; a little, somewhat)
 lilbol - bubble  
 lilyam - snack  
 lilkaboge - zucchini  
-lilseke - pebble (gravel)  
 lilsite - small town  
+lilite - pebble (gravel)  
 lilake - lilac  
 lilake - lilac color  
 lime - limit (boundary)  
@@ -2554,7 +2557,7 @@ mokozongoparke - arboretum
 mole - grind (grind in mill)  
 molia - mill  
 moler - miller  
-molseke - grindstone (millstone)  
+molite - grindstone (millstone)  
 Moldove - Moldova  
 mole - mole (unit)  
 molekul - molecule  
@@ -3054,6 +3057,7 @@ pestanke - fish tank
 pete - belly (stomach, abdomen)  
 peta - peta-  
 petre - rock  
+• petrolojia - petrology  
 petronefte - petroleum  
 piano - piano  
 piaze - onion  
@@ -3529,8 +3533,6 @@ saus - sauce
 se - self (reflexive pronoun)  
 se su - own  
 semon - each other (one another)  
-seke - stone (piece of rock)  
-sekozanger - mason (stonemason, stonecutter)  
 sekreter - secretary  
 sekreteria - secretariat  
 sekunde - second(s)  
@@ -3662,7 +3664,7 @@ sirplan - conspiracy (plot)
 sirke - circle (round)  
 sirke - surround (encircle)  
 sirke - round (circular)  
-sirkoseke - cobblestone  
+sirkite - cobblestone  
 siro - zero (none)  
 sisa - impale (stab, skewer)  
 sise - six (6)  

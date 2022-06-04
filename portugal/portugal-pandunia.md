@@ -653,7 +653,7 @@ golfinho (delfim) - dolfin
 gorila - gorile  
 governo - polite  
 granito - granite  
-graças a - danko de  
+graças a - a danke de  
 grupo - grupe  
 grávida (prenhe) - hamile  
 guarda-chuva - barsocate  
@@ -730,6 +730,7 @@ inferir - infere
 infiel - andiniste  
 infiel - ankrediste  
 inflamaçao - itis  
+infraestrutura - bazostrute  
 inimigo - dusojen  
 inquisitivo - savovolane  
 inseto - koncung  
@@ -835,7 +836,7 @@ luterano - martinluteriste
 lutécio - lutetium  
 luxúria - luxuria  
 luz - fote  
-lápide - gabroseke  
+lápide - gabrite  
 lápis - kalam  
 lápis-lazúli - lazurpetre  
 lâmpada (luminária) - lampe  
@@ -965,7 +966,7 @@ mãe - matre
 mão - hande  
 mês - lun  
 mímico - mimer  
-mó - molseke  
+mó - molite  
 múmia - mumike  
 música - muzike  
 
@@ -1102,12 +1103,12 @@ patologia - patolojia
 patógeno - patogener  
 pausa - pauze  
 paz - pace  
-pederneira - hogoseke  
+pederneira - hogite  
 pedir emprestado - jekocepe  
-pedra - seke  
-pedra preciosa (gema) - bauseke  
-pedregulho - daiseke  
-pedrinha - lilseke  
+pedra - ite  
+pedra preciosa (gema) - bavite  
+pedregulho - dayite  
+pedrinha - lilite  
 pegada - futomarke  
 peido (peidar) - perde  
 pele - pil  
@@ -1130,6 +1131,7 @@ pesar - vezu
 pescador - pesosaider  
 pescoço (nuca, gargalo) - nuke  
 pessoa - jen  
+petrologia - petrolojia  
 petróleo - petronefte  
 picareta - pincope  
 pilha (bateria) - batre  
@@ -1304,7 +1306,7 @@ rosa - roze
 rotar (girar) - rotate  
 rotação - rotation  
 roupa (vestidura) - fuke  
-rubi - lalbauseke  
+rubi - lalobavite  
 rubídio - rubidium  
 rutherfórdio - ruterfordium  
 rutura (ruptura) - ruture  
@@ -1446,7 +1448,7 @@ terça-feira - dulyom
 teste - teste  
 texto - texte  
 tigre - bagre  
-tijolo - dobe  
+tijolo - binite  
 titânio - titanium  
 toalha - gantexe  
 toalha de mesa - mezatexe  
