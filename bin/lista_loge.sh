@@ -1,47 +1,47 @@
 fata_liste_pandunia_X() {
-    logaliste="$2/pandunia-$2.md"
-    #echo "kitaba $logaliste"
-    #pandunia ($2) un me
-    cat pandunia-loge.csv | awk -F "|" "{print \$2	 \" - \" \$$1 \"  \"}" > $logaliste
+    lexoliste="$2/pandunia-$2.md"
+    #echo "kitabe $lexoliste"
+    #pandunia ($2) a 1:ime
+    cat pandunia-loge.csv | awk -F "|" "{print \$2	 \" - \" \$$1 \"  \"}" > $lexoliste
     #mata un me lin
-    sed -i '1d' $logaliste
-    # ABC nam
-    sed -i 's/[A-Z] - .*$/\n##&\n/' $logaliste
+    sed -i '1d' $lexoliste
+    # ABC nam do title a line xure
+    sed -i 's/^[A-Z] - .*$/\n##&\n/' $lexoliste
     # mute "A - A" do "A"
-    sed 's/#[A-Z] -/#/g' -i $logaliste
+    sed 's/#[A-Z] -/#/g' -i $lexoliste
     #Delete empty translations
-    sed -i '/-...$/d' $logaliste
-    #kitabu la nam e la chen kitabu
+    sed -i '/-...$/d' $lexoliste
+    #kitabe la nam e la chen kitabe
     headername="$2/pandunia-$2.chenkitabu.md"
     if test -f "$headername"; then
        echo "$headername exists"
-       cat $headername $logaliste > temp/temp.txt
-       mv temp/temp.txt $logaliste
+       cat $headername $lexoliste > temp/temp.txt
+       mv temp/temp.txt $lexoliste
     else
        echo "$headername doesn't exist. Writing default heading."
-       sed -i "1s/^/# pandunia-$2\n/" $logaliste
+       sed -i "1s/^/# pandunia-$2\n/" $lexoliste
     fi
 }
 
 fata_liste_X_pandunia() {
-    #ali bax unodo
-    logaliste="$2/$2-pandunia.md"
-    #echo "kitaba $logaliste"
-    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $logaliste
+    #ale lingue a 1:ime
+    lexoliste="$2/$2-pandunia.md"
+    #echo "kitabe $lexoliste"
+    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $lexoliste
     #mata un me lin
-    sed -i '1d' $logaliste
-    # alfobeta
+    sed -i '1d' $lexoliste
+    # alfabeta
     cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
-    # ABC nam
-    cat temp/temp.txt | sed 's/[A-Z] - .*$/\n##&\n/' > $logaliste
+    # ABC nam do title a line xure
+    cat temp/temp.txt | sed 's/^[A-Z] - .*$/\n##&\n/' > $lexoliste
     # mute "A - A" do "A"
-    sed 's/#[A-Z] -/#/g' -i $logaliste
+    sed 's/#[A-Z] -/#/g' -i $lexoliste
     #Add header
-    sed -i "1s/^/# $2–pandunia\n/" $logaliste
+    sed -i "1s/^/# $2–pandunia\n/" $lexoliste
     #Delete empty translations
-    sed -i '/^.-/d' $logaliste
+    sed -i '/^.-/d' $lexoliste
     #Delete bullets
-    sed 's/• //g' -i $logaliste
+    sed 's/• //g' -i $lexoliste
 }
 
 fata_leksasli_liste() {
@@ -65,7 +65,7 @@ fata_leksasli_liste() {
 }
 
 fata_liste() {
-    echo kitaba logəliste da $2
+    echo kitabe logəliste da $2
     fata_liste_pandunia_X $1 $2
     fata_liste_X_pandunia $1 $2
     fata_leksasli_liste $1 $2
@@ -83,7 +83,7 @@ fata_lekse_asle() {
 }
 
 
-kitabu_Tiddly() {
+kitabe_Tiddly() {
     cp $1/pandunia-$1.md temp/temp.txt
     sed 's/_//g' -i temp/temp.txt
     #mata un me lin
@@ -262,7 +262,7 @@ fata_liste 6 english
 tarja_logaslia_pa_english
 
 #Tiddly dictionary
-kitabu_Tiddly english
+kitabe_Tiddly english
 
 # esperanto e pandunia
 fata_liste 21 esperanto
@@ -276,7 +276,7 @@ tarja_logaslia_pa_suomi
 fata_liste 23 polski
 
 # Tiddly polski e pandunia
-kitabu_Tiddly polski
+kitabe_Tiddly polski
 
 # putonghan e pandunia
 fata_liste 12 putonghan
@@ -294,7 +294,7 @@ fata_liste 10 rus
 fata_liste 7 france
 
 #Tiddly france e pandunia
-kitabu_Tiddly france
+kitabe_Tiddly france
 
 # espanya e pandunia
 fata_liste 8 espanya

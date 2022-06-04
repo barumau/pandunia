@@ -148,6 +148,7 @@ boipuntonumbe - 浮動小数点数
 bokse - ボクシング (拳闘)  
 bokser - ボクサー (拳闘家)  
 bol - 玉 (球)  
+bolte - ボルト  
 bon - 良い (元気, 上手)  
 ribone - 修理  
 riboner - 修理工  
@@ -317,18 +318,19 @@ exojen - 部外者 (アウトサイダー)
 
 ## F  
 
-fe - する  
 faide - 使用 (為, 利)  
 falsvide - 幻覚  
-fan - 泥  
-fandefban - フェンダー  
-fanostan - 沼地  
+fan - ファン  
+fange - 泥  
+fangodefoban - フェンダー  
+fangostan - 沼地  
 fase - 面  
 fasotele - 深い  
 fasotelia - 浅い  
 fasile - 易しい  
 fasilia da acese - アクセシビリティ  
 fatige - 疲労 (疲れる, 疲労する)  
+• faxisme - 法西斯主义  
 fei - 飛ぶ  
 feimus - こうもり (飛鼠)  
 fem - 女  
@@ -338,6 +340,7 @@ fenkate - 分析 (解析)
 fente - 風  
 fer - 鉄  
 fermium - フェルミウム  
+fete - する  
 fete - する (事実)  
 • fetokan - 工場 (製造所)  
 • exfete - 効果  
@@ -1195,9 +1198,6 @@ silke - 絹
 sim - 心  
 singofote - ピカピカ光る (きらきらする)  
 • dusosinye - 不吉 (縁起の悪い)  
-sipe - 濡らす  
-sipe - 湿っぽい  
-sir - 詩  
 sire - 隠す  
 siri mote - 忍び  
 sirplan - 陰謀  
@@ -1326,6 +1326,7 @@ tunge - 痛み
 turbe - 悩む (わざわざする)  
 • turbin - タービン  
 turbojeter - ターボジェットエンジン  
+turfe - 泥炭  
 tuze - うさぎ  
 
 ## U  
@@ -1337,9 +1338,6 @@ un - 一 (1)
 unoyom - 月曜日  
 unolun - １月  
 uranium - ウラン  
-US
-##   
-
 uzable - 使用可能  
 va - わあ  
 vade - 谷  
@@ -1362,9 +1360,6 @@ varkalge - コンブ
 varkolate - ページ (面)  
 vate - 物 (品)  
 vaxurse - 狸 (ラクーン, 洗い熊)  
-Vaxington D
-##   
-
 vei - 尾 (尾翼)  
 veilin - 横糸  
 veisirke - 緯度  
@@ -1411,6 +1406,9 @@ xatan (ruhoxatan) - 悪魔
 xei - 事 (物)  
 xeihal - 事態  
 xenon - キセノン  
+xipe - 湿っぽい (濡らす)  
+xipostan - 湿地  
+xir - 詩  
 xite - 糞 (屎)  
 Xiva - シヴァ  
 sislun - ６月  

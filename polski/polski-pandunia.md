@@ -130,7 +130,7 @@ babcia (babka) - cinmai
 badać, studiować - loje  
 bagaż - bagaje  
 bagietka - batonpang  
-bagno (moczary) - fanostan  
+bagno (moczary) - fangostan  
 bahaista - bahaiste  
 bahaizm - bahaisme  
 Bahamy - Bahama  
@@ -141,7 +141,7 @@ balon - balon
 bambus - banse  
 banan - banan  
 bandaż (taśma; związać, wiązać; zapiąć, zapinać) - bende  
-bandaż, taśma, wstążka - fase  
+bandaż, taśma, wstążka - faxe  
 Bangladesz - Banglodes  
 banglijski - bangle  
 bank - bankokan  
@@ -278,9 +278,8 @@ ból głowy - sartunge
 bąk, bączek - rototope  
 bęben - gum  
 bławatek - nilcentaur  
-błotnik - fandefban  
-błotnisty - fane  
-błoto - fan  
+błotnik - fangodefoban  
+błoto - fange  
 błąd (pomyłka; popełnić błąd; błędny, niepoprawny) - galte  
 
 ## C  
@@ -631,8 +630,8 @@ Falklandy, Malwiny - Malvinas nesia
 fantazja (wyobrażenie; wyobrazić, wyobrażać, fantazjować) - fantas  
 fascynacja - fasin  
 fasola lub groch, roślina strączkowa - dou  
-faszysta - fasiste  
-faszyzm - fasisme  
+faszysta - faxiste  
+faszyzm - faxisme  
 fałszywy, nieprawdziwy - false  
 feminista (feministka) - femiste  
 feminizm - femisme  
@@ -1553,13 +1552,13 @@ mleko sojowe - soimilke
 mniej - min  
 mniejszościowy - minure  
 mniejszość - minuria  
-moczyć (zmoczyć) - sipe  
 moda (trend; modny, popularny) - fason  
 model (podobieństwo, symulować) - samsifia  
 model, wzór, wzorzec, projekt - model  
 modelować (projektować, zaprojektować) - modele  
 modlitwa (pomodlić się, modlić się) - dua  
-mokry (wilgotny) - sipe  
+mokradło - xipostan  
+mokry (wilgotny; moczyć, zmoczyć) - xipe  
 mol - mole  
 molekuła (cząsteczka) - molekul  
 molibden - molidenium  
@@ -2077,8 +2076,8 @@ poduszka - kusen
 podziemny - geonice  
 podążać - pose  
 podłoga - kamartal  
-poemat - sir  
-poeta - sirer  
+poemat - xir  
+poeta - xirer  
 pogoda - tenhal  
 pogrubiona litera - grosi harfe  
 poinformować, informować, zakomunikować, komunikować - konsavane  
@@ -2676,7 +2675,7 @@ spódnica - jupe
 spółgłoska - kenarfon  
 spławik (boja) - boi  
 spłonąć, płonąć - hogu  
-srać (robić gówno) - feke  
+srać (robić gówno) - defeke  
 srebro - argente  
 Sri Lanka - Lanka  
 srom - vulve  
@@ -2847,9 +2846,7 @@ taksometr - taxi metrer
 taktyka, strategia - tatike  
 tal - talium  
 talerz - platotas  
-taleta, W
-## tualete  
-
+taleta, WC - tualete  
 tamilski - Tamil  
 Tanach, Biblia hebrajska - tanah  
 taniec - danse  
@@ -2921,6 +2918,7 @@ topić (upłynnić, upłynniać) - exfuze
 topnieć (upłynniać się) - fuze  
 tor - torium  
 torba, wór, worek, torba, sakwa - sake  
+torf - turfe  
 tost - roste pang  
 towarzysz (partner, kumpel) - latojen  
 tragedia - tragodia  
@@ -3064,9 +3062,7 @@ warstwa (poziom, piętro, kondygnacja) - ceng
 warsztat szewski - sapatokan  
 wartość - val  
 warzywo - yamfite  
-Waszyngton D.
-## Vaxington DC  
-
+Waszyngton D.C - Vaxington DC  
 wat - vat  
 Watykan, Państwo Watykańskie - Vatikan  
 ważka - libele  
@@ -3246,9 +3242,7 @@ wyspa - nes
 Wyspa Man - Manin nes  
 Wyspy Alandzkie - Olandi nesia  
 Wyspy Cooka - Kuke nesia  
-Wyspy Dziewicze US
-## Virgin nesia  
-
+Wyspy Dziewicze USA - Virgin nesia  
 Wyspy Georgia Południowa i Sandwich Południowy - Sudi Georgia e Sudi Sanduice nesia  
 Wyspy Kokosowe - Kokos nesia  
 Wyspy Marshalla - Marshal nesia  
@@ -3417,7 +3411,7 @@ zoologiczny - zoolojike
 zostawić (zostawiać) - sante  
 zostawić,zostawiać - repause  
 zrobić (czyn, uczynek) - fete  
-zrobić (stworzyć,wykreować) - fe  
+zrobić (stworzyć,wykreować) - fete  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - can  
 zromanizować - latinkitabe  
 zsumować, sumować, dodać, dodawać - sume  

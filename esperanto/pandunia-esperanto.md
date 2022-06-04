@@ -218,6 +218,7 @@ bokser - boksisto
 bol - pilko  
 Bolgaria - Bulgario  
 Bolivia - Bolivio  
+bolte - bolto  
 bombe - bombo  
 bon - bona  
 bonsifia - eco  
@@ -458,22 +459,20 @@ exa - eksa-
 
 ## F  
 
-fe - fari  
 faide - utila (utileco)  
 faine - fajna  
 famil - familio  
 familnam - familinomo  
-fan - koto  
-fane - kota  
-fanostan - marĉo  
+fange - koto  
+fangostan - marĉo  
 fantas - fantazio  
 fantom - fantomo  
 farse - persa  
 fase - surfaco  
-• fasisme - faŝismo  
-• fasiste - faŝisto  
 fasile - facila  
 fasin - fascinado  
+• faxisme - faŝismo  
+• faxiste - faŝisto  
 febre - febro  
 fei - flugi  
 fem - ino  
@@ -487,6 +486,7 @@ fer - fero
 • prefere - preferi (pliŝati)  
 fermium - fermio  
 feste - festo  
+fete - fari  
 fete - fari (faro, fakto)  
 • feter - faristo  
 • feteria - fabriko  
@@ -1590,7 +1590,6 @@ sinakapse - torako
 sing - leono  
 sing - stelo  
 Singapur - Singapuro  
-sir - poemo  
 sirke - ĉirkaŭi  
 sisyom - sabato  
 sismolojia - sismologio  
@@ -1756,9 +1755,6 @@ unoki lense - monoklo
 volfe - lupo  
 uranium - uranio  
 urse - urso  
-US
-##   
-
 uze - uzi  
 va - ŭaŭ!  
 vade - valo  
@@ -1778,9 +1774,6 @@ vat - vato
 vava - plori  
 vaxe - lavi  
 vaxomaxin - lavmaŝino  
-Vaxington D
-##   
-
 vei - vosto  
 • revene - reveni  
 ventur - aventuro  
@@ -1829,6 +1822,9 @@ xefe - estro (ĉefulo)
 xefe minister - ĉefministro  
 xeihal - situacio (aferstato)  
 xenon - ksenono  
+xipe - malseka  
+• xipete - humida  
+xir - poemo  
 xirope - siropo  
 xite - merdo  
 Xiva - Ŝivo  

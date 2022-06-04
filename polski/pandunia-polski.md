@@ -711,7 +711,6 @@ exe - zęwnętrzny
 
 ## F  
 
-fe - zrobić (stworzyć,wykreować)  
 fade - dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)  
 faide - zastosowanie (zasób; użyteczny, pomocny, przydatny, pożyteczny, korzystny)  
 • faidaje - materiał (składnik, zasób)  
@@ -720,17 +719,13 @@ false - fałszywy, nieprawdziwy
 falsvide - iluzja (halucynacja)  
 famil - rodzina  
 familnam - nazwisko, imię rodziny  
-fan - błoto  
-fane - błotnisty  
-fandefban - błotnik  
-fanostan - bagno (moczary)  
+fange - błoto  
+fangodefoban - błotnik  
+fangostan - bagno (moczary)  
 fantas - fantazja (wyobrażenie; wyobrazić, wyobrażać, fantazjować)  
 fantom - duch, fantom  
 farse - Pers; perski, farsi  
 fase - powierzchnia  
-fase - bandaż, taśma, wstążka  
-• fasisme - faszyzm  
-• fasiste - faszysta  
 fasokaribe - płytki  
 fasotele - głęboki  
 fasotelia - głębokość  
@@ -738,11 +733,14 @@ fasile - łatwy, prosty
 fasin - fascynacja  
 fason - moda (trend; modny, popularny)  
 fatige - zmęczenie (wyczerpanie; męczyć się, nużyć się)  
+faxe - bandaż, taśma, wstążka  
+• faxisme - faszyzm  
+• faxiste - faszysta  
 faze - etap, faza  
 febre - gorączka  
 fei - lot (latać, lecieć)  
 feimus - nietoperz  
-feke - srać (robić gówno)  
+• defeke - srać (robić gówno)  
 fem - kobieta; kobiecy  
 femi pute - córka  
 femi reger - królowa  
@@ -758,6 +756,7 @@ fer - żelazo
 fermium - ferm  
 feste - przyjęcie (święto, festiwal)  
 festoden - święto  
+fete - zrobić (stworzyć,wykreować)  
 fete - zrobić (czyn, uczynek)  
 • feter - twórca (czynnik)  
 • feteria - fabryka,manufaktura  
@@ -2861,15 +2860,11 @@ singofote - mruganie (błysk)
 Singapur - Singapur  
 sinye - znak, sygnał  
 • dusosinye - złowieszczy  
-sipe - moczyć (zmoczyć)  
-sipe - mokry (wilgotny)  
 sir - sekret  
-sir - poemat  
 sire - chować (kryć)  
 sire - sekret  
 siri mote - skradanie się  
 siro motu - skradać się  
-sirer - poeta  
 sirplan - spisek (konspiracja)  
 sirke - koło, okrąg  
 sirke - otoczyć, otaczać  
@@ -3187,6 +3182,7 @@ Tunisia - Tunezja
 tupe - kapelusz, czapka  
 turbe - przeszkodzić, przeszkadzać, robić kłopot  
 • turbin - turbina  
+turfe - torf  
 turke - turecki  
 Turkia - Turcja  
 Turkomenia - Turkmenistan  
@@ -3225,9 +3221,7 @@ Urdun - Jordan
 urse - niedźwiedź  
 Uruguai - Urugwaj  
 Urusalem - Jerozolima  
-US
-## amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
-
+USA - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
 uze - użyć, używać, zatrudnić, stosować  
 uzer - użytkownik  
 uzernam - nazwa użytkownika  
@@ -3269,9 +3263,7 @@ vava bebe - beksa
 vaxe - prać, umyć, myć  
 vaxomaxin - pralka  
 vaxurse - szop pracz  
-Vaxington D
-## Waszyngton D.C  
-
+Vaxington DC - Waszyngton D.C  
 vei - ogon  
 veisirke - południk  
 vende - sprzedać (sprzedawać)  
@@ -3367,6 +3359,10 @@ xeihal - sytuacja (stan)
 xeihalironia - ironia sytuacyjna  
 xenon - ksenon  
 xenseng - mistrz (sensei)  
+xipe - mokry (wilgotny; moczyć, zmoczyć)  
+xipostan - mokradło  
+xir - poemat  
+• xirer - poeta  
 xirope - syrop  
 xixkababe - szisz kebab  
 xite - gówno  

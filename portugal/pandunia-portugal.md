@@ -349,15 +349,17 @@ exe - exterior
 
 ## F  
 
-fe - fazer  
-fan - lama (lodo)  
-fandefban - para-lama  
-fanostan - pântano  
+fan - fã  
+fange - lama (lodo)  
+fangodefoban - para-lama  
+fangostan - pântano  
 fase - face (faceta)  
 fasotele - profundo  
 fasile - fácil  
 fatige - fadiga  
 fei - voar (voo)  
+feke - fezes  
+• defeke - defecar  
 feni - digital  
 fenkate - análise  
 fer - ferro  
@@ -365,6 +367,7 @@ fer - ferro
 • prefere - preferir  
 • refere - referir  
 fermium - férmio  
+fete - fazer  
 fete - fazer (fato, facto)  
 • feter - fator (fazedor)  
 • feture - feito (feitura)  
@@ -1323,8 +1326,6 @@ silke - seda
 singofote - cintilar  
 • sinyal - sinal  
 • desinye - designar  
-sipe - molhar  
-sipe - molhado  
 sire - ocultar (esconder)  
 sirplan - complô (conspiração)  
 sise - seis (6)  
@@ -1451,6 +1452,7 @@ turbe - molestar (perturber)
 • turbin - turbina  
 • disturbe - perturbar (turbulência)  
 turbojeter - turbojato  
+turfe - turfa  
 tuze - coelho (lebre)  
 
 ## U  
@@ -1466,9 +1468,6 @@ ure - urra
 Uran - Urano  
 uranium - urânio  
 urse - urso  
-US
-##   
-
 uze - usar  
 va - uau  
 vade - vale (uadi)  
@@ -1493,9 +1492,6 @@ vate - item
 vava - chorar  
 vava bebe - chorão  
 vaxurse - guaxinim (rato-lavadeiro)  
-Vaxington D
-##   
-
 vele - véu  
 • devele - revelar  
 vende - vender  
@@ -1546,6 +1542,9 @@ xefe - chefe
 xei - coisa  
 xeihal - situaçao  
 xenon - xénon  
+xipe - molhar (molhado)  
+• xipete - úmido  
+xipostan - brejo (paul)  
 xite - merda  
 Xiva - Xiva  
 xofe - conduzir  

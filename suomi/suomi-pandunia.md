@@ -467,9 +467,10 @@ eväsretki (piknik) - exyam
 ## F  
 
 Falklandin saaret - Malvinas nesia  
+fanaatikko - fanatike  
 fani (-fiili) - filike  
-fasismi - fasisme  
-fasisti - fasiste  
+fasismi - faxisme  
+fasisti - faxiste  
 feminismi - femisme  
 feministi - femiste  
 fermium - fermium  
@@ -1324,7 +1325,8 @@ koskea (koskettaa) - toce
 kosketus (kontakti) - kontate  
 kosminen - kosme  
 Kosovo - Kosovo  
-kosteuttaa - sipe  
+kostea - xipete  
+kosteikko - xipostan  
 koti- (kotoinen) - domike  
 kotiinpaluu - noste  
 kotouttaa (palauttaa isänmaahan) - repatriate  
@@ -1400,7 +1402,6 @@ kupari - kupre
 kupla - lilbol  
 kupoli (holvikatto) - kupocate  
 kuponki - kupon  
-kurainen (mutainen) - fane  
 kurja (raukka) - miskine  
 kurkku - hiyar  
 kuski (ajuri, ajaja) - xofer  
@@ -1607,6 +1608,7 @@ linja-auto (bussi) - bus
 linna (linnake, linnoitus) - burge  
 linssi - lense  
 lintu - pakse  
+liota - perxipe  
 lippu (piletti) - tikete  
 lippu - bandir  
 lisko - saure  
@@ -1627,7 +1629,7 @@ logəfiliə - logofilia
 lohkare (järkäle) - dayite  
 loimi - gingolin  
 lokakuu - deslun  
-lokasuoja - fandefban  
+lokasuoja - fangodefoban  
 lokikirja - lugobuke  
 looginen - ratolojike  
 lopetettu - finite  
@@ -1945,7 +1947,7 @@ musta lista - haramliste
 muste - moge  
 mustekala - batosenter  
 mustekynä - fontokalam  
-muta (kura, lieju) - fan  
+muta (kura, lieju) - fange  
 mutka (kurvi) - kurve  
 mutta - ama  
 muu (toinen; muuttaa toiseksi) - ale  
@@ -1975,7 +1977,7 @@ myöhempi (takainen) - postre
 myötätunto (sympatia) - samemos  
 mädäntyä (mädätä) - pudu  
 mänty - song  
-märkä (kostea) - sipe  
+märkä (kastaa; kastella) - xipe  
 mätä - pude  
 määritellä (luonnehtia) - sife  
 määritetyn määritteeseen liittävä partikkeli - de  
@@ -2245,6 +2247,8 @@ paluu (palata; palauttaa) - retre
 palvelija (tarjoilija) - server  
 palvella (tarjoilla) - serve  
 palvelu (palvelus) - serve  
+palvoa (fanata) - fanate  
+palvoa (fanata; fani) - fan  
 palvoa - puze  
 palvonta - puze  
 panaasialainen - panase  
@@ -2293,7 +2297,6 @@ partneri (kumppani,osakas) - partaner
 pascal (Pa) - paskal  
 pasifisti - paciste  
 paska (sonta) - xite  
-paskantaa (ulostaa) - feke  
 passi - pasporte  
 pata (ruukku, kannu, maljakko) - pote  
 patja - matras  
@@ -2487,6 +2490,7 @@ puhelintekniikka - telfonia
 pukea (vaatettaa) - fuke  
 pukeutua (pitää vaatetta yllään) - fuku  
 pullo - botel  
+pultti - bolte  
 pumppu - pompe  
 punainen - lale  
 punkki - akare  
@@ -2678,8 +2682,8 @@ ruiskuttaa - injete
 rukoilla (anoa; rukous) - dua  
 ruma (pahannäköinen) - dusvide  
 rumpu - gum  
-runo - sir  
-runoilija - sirer  
+runo - xir  
+runoilija - xirer  
 runsas - luxe  
 ruoho (hasis) - hasis  
 ruoho - cau  
@@ -2839,7 +2843,7 @@ seutu (maa) - tope
 Seychellit - Seshel nesia  
 sianliha - gurubomanse  
 side (nauha; sitoa) - bende  
-side (remmi) - fase  
+side (remmi) - faxe  
 siellä (tuolla) - a le  
 siemen - semen  
 siemen- - semene  
@@ -2995,7 +2999,7 @@ sulkea - kluze
 sulkea pois - exkluze  
 sulkea vetoketjulla - zipe  
 summa - sum  
-suo (räme) - fanostan  
+suo (räme) - fangostan  
 suodattaa - filter  
 suojakilpi - defoban  
 suojakypärä - defkaske  
@@ -3172,7 +3176,7 @@ teepannu - caipote
 teettää - ante  
 tehdas - feteria  
 tehdas - fetokan  
-tehdä (toimia) - fe  
+tehdä (toimia) - fete  
 tehdä (toimia; teko, toimenpide) - fete  
 tehdä (valmistaa) - can  
 tehdä loppuun (saada valmiiksi) - purfine  
@@ -3286,9 +3290,7 @@ torni - minar
 torstai - caryom  
 torvi (torvisoitin) - buge  
 tosi (aito) - vere  
-tosi-T
-## rel televizion  
-
+tosi-TV - rel televizion  
 toteuttaa (konkretisoida) - relize  
 toukka - larve  
 toukokuu - limlun  
@@ -3420,7 +3422,9 @@ ulkosyntyinen - exogene
 uloskäynti - cutomun  
 ulospäinsuuntautunut (ekstrovertti) - extroverse  
 ulospäinsuuntautunut (ekstrovertti) - exverse  
+ulostaa - defeke  
 uloste (kakka; ulostaa, kakata) - kaka  
+uloste (paska) - feke  
 ulosvetäjä - extrator  
 ulvoa - ulule  
 ulvonta - ulul  
@@ -3711,9 +3715,7 @@ väsymys (väsyä; väsynyt) - fatige
 väärä (epätosi, vale-) - false  
 Wales - Kamria  
 walesilainen - kamre  
-Washington D
-## Vaxington DC  
-
+Washington DC - Vaxington DC  
 watti - vat  
 Wenzhou - Venzou  
 wiki - vikia  

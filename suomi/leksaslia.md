@@ -4,7 +4,7 @@
 **abete** *pihta (jalokuusi)* ← espanja:portugali:abeto  
 **able** *voida (osata, pystyä)* ← turkki:bilmek + ranska:habile, espanja:portugali:hábil, englanti:able;ability  
 **acar** ** ← persia:آچار (âčâr), hindi:अचार (acār), arabia:اچار‎ (əčar), englanti:portugali:achar, suahili:achari, malaiji:acar  
-**aci** *aivastaa (atsii!)* ← espanja:achís, yleiskiina: 阿嚏 (ātì), korea:에취 (echwi), venäjä:апчхи, vietnami:hắt xì, englanti:achoo, ranska:atchoum  
+**aci** *aivastaa (atsii!)* ← espanja:achís, yleiskiina: 阿嚏 (ātì), korea:에취 (echwi), bangla:আঁচে (hache), venäjä:апчхи, vietnami:hắt xì, englanti:achoo, ranska:atchoum  
 **acinium** *aktinium* ← englanti:actinium, ranska:actinium, espanja:actinio, portugali:actínio, venäjä:актиний, yleiskiina:锕 (ā), japani:アクチニウム, korea:악티늄, vietnami:actini, hindi:एक्टिनियम, bangla:অ্যাক্টিনিয়াম, malaiji:aktinium, suahili:aktini, arabia: اكتنيوم  
 **adal** *oikeudenmukainen* ← arabia: عدل (’adl), malaiji:turkki:adil, suahili:adili + hindi:अदालत (adālat)  
 **adamas** *timantti* ← venäjä:алмаз (almaz), arabia: أَلْمَاس‎ (ʾalmās), hindi:अलमास (almās), malaiji:almas, suahili:almasi, persia: الماس‎ (almâs) + gre:ἀδάμας (adámas), englanti:diamond, ranska:diamant, espanja:portugali:diamante, japani:ダイヤモンド (daiyamondo), korea:다이아몬드 (daiamondeu)  
@@ -163,6 +163,7 @@
 **boka** *suu* ← espanja:portugali:boca  
 **bokse** *nyrkkeily* ← englanti:box, deu:Boxen, ranska:portugali:boxe, espanja:boxeo, venäjä:бокс (boks), japani:ボクシング (bokushingu), korea:복싱 (boksing), hindi:बॉक्सिंग (bŏksiṅg), bangla:বক্সিং (bôksing), malaiji:boksing, turkki:boks  
 **bol** *pallo* ← englanti:ball, espanja:portugali:malaiji:filippiini:bola, thai:บอล (bɔl), japani:ボール (bōru), korea:볼 (bol), khmer:បាល់ (bal), bangla:বল (bôl), deu:Ball, ranska:boule, balle  
+**bolte** *pultti* ← englanti:bolt, ranska:boulon, venäjä:болт (bolt), hindi:बोल्ट (bolṭ), japani:ボルト (boruto), korea:볼트 (bolteu)   
 **bombe** *pommi* ← puola:portugali:espanja:turkki:bomba, venäjä:бомба (bomba), deu:ranska:bombe, persia:(bomb), englanti:bomb, bangla:বোমা (boma), hindi:बम (bam), urdu:(bam), japani:ボム (bomu), korea:봄 (bom), malaiji:bom  
 **bon** *hyvä* ← ranska:bon, portugali:bom, espanja:bueno, + khmer:បុណ្យ (bon), thai:บุญ (bun), telugu:పుణ్యము (puṇyamu)  
 **bore** *pitkästynyt* ← englanti:bored, espanja:aburrido, hindi:(bhorī)  
@@ -333,26 +334,28 @@
 **faine** *hieno (hienojakoinen)* ← englanti:fine, espanja:portugali:fino, ranska:fin  
 **false** *väärä (epätosi, vale-)* ← englanti:false, espanja:portugali:falso, ranska:faux, deu:falsch  
 **famil** *perhe* ← englanti:family, espanja:familia, portugali:família, ranska:famille  
-**fan** *muta (kura, lieju)* ← ranska:fang, espanja:fango + englanti:fen + yleiskiina:粪 (fèn), kantoninkiina:糞 (fan3), vietnami:phân  
+**fan** *palvoa (fanata; fani)* ← englanti:ranska:espanja:vietnami:fan, portugali:fã, venäjä:фанат (fanat), yleiskiina:粉丝 (fensi), japani:ファン (fan), korea:팬 (pän)  
+**fange** *muta (kura, lieju)* ← ranska:fange, espanja:fango, hindi:पंक (paṅk), tamili:(pankam)  
 **fantas** *kuvitella (kuvittelu, mielikuvitus, fantasia)* ← englanti:ranska:fantasy, espanja:fantasía, portugali:suahili:fantasia, venäjä:фантазия (fantazija), turkki:fantezi, malaiji:fantasi, japani:ファンタジー (fantajī)  
 **fantom** *kummitus (aave)* ← englanti:phantom, espanja:portugali:fantasma, ranska:fantôme, venäjä:фантом (fantom)  
 **fase** *pinta (tahko)* ← englanti:ranska:portugali:face, espanja:faz, deu:Facette  
-**fase** *side (remmi)* ← italia:fascia, portugali:faixa, espanja:faja  
 **fasile** *helppo* ← englanti:facility, espanja:portugali:fácil, ranska:facile  
 **fasin** *hurma (lumo, tenho)* ← englanti:fascination, espanja:fascinación, deu:Faszination  
 **fason** *muoti (trendi; muodikas, trendikäs)* ← englanti:fashion, hindi:फैशन (faiśan), japani:ファッション (fasshon), korea:패션 (pæsyeon), thai:แฟชั่น (feechan), bangla:ফ্যাশন (phaśôn)  
 **fatige** *väsymys (väsyä; väsynyt)* ← englanti:ranska:fatigue, espanja:fatiga, portugali:fadiga, italia:fatica  
 **favor** ** ← englanti:espanja:portugali:favor, ranska:faveur + venäjä:фаворитизм (favoritizm)  
+**faxe** *side (remmi)* ← italia:englanti:fascia, portugali:faixa, espanja:faja + ranska:fascisme, venäjä:фашизм (fašizm), arabia: فَاشِيَّة‎ (fāšiyya), yleiskiina:法西斯主义 (fǎxīsīzhǔyì), japani:ファシズム (fashizumu), korea:파시즘 (pasijeum), vietnami:chủ nghĩa phát xít, hindi:फ़ासीवाद (fāsīvād), malaiji:fasisme bangla:ফ্যাসিবাদ (phaśibad)  
 **faze** *vaihe (etappi)* ← espanja:portugali:italia:malaiji:fase, englanti:ranska:phase, venäjä:фаза (faza), puola:faza, persia:(fāz)  
-**fe** *tehdä (toimia)* ← ranska:faire, portugali:fazer, italia:fare + arabia: فَعَلَ‎ (faʿala) + suahili:fanya  
 **febre** *kuume* ← portugali:febre, espanja:fiebre, deu:Fieber, englanti:fever, ranska:fièvre  
 **fei** *lento (lentää)* ← yleiskiina:飞 (fēi), kantoninkiina:飛 (fei1), wu-kiina:飛 (fi1), japani:飛 (hi), korea:비 (bi), vietnami:bay  
+**feke** *uloste (paska)* ← englanti:feces, ranska:fèces, espanja:heces, portugali:fezes+ yleiskiina:粪 (fèn), kantoninkiina:糞 (fan3), vietnami:phân  
 **fem** *naaras* ← ranska:femme, portugali:fêmea, englanti:female  
 **fen** *osa (pala; jakaa, paloitella)* ← yleiskiina:分 (fèn), wu-kiina:(fén), kantoninkiina:(fan), vietnami:phần, thai:ปัน (pan), japani:分 (bun), korea:분 (bun)  
 **fente** *tuuli (puhallus; tuulla, puhaltaa)* ← yleiskiina:风 (fēng), kantoninkiina:風 (fung1), wu-kiina:风 (fong) + englanti:fan + venäjä:фен (fěn) + ranska:vent, espanja:viento, portugali:vento  
 **fer** *rauta* ← espanja:hierro, portugali:ferro, ranska:fer, malaiji:ferum, suahili:feri  
 **fermium** *fermium* ← englanti:fermium, ranska:fermium, espanja:fermio, portugali:férmio, venäjä:фермий, yleiskiina:镄 (fèi), japani:フェルミウム, korea:페르뮴, vietnami:fecmi, hindi:फर्मियम, bangla:ফার্মিয়াম, malaiji:fermium, suahili:fermi, arabia: فرميوم  
 **feste** *juhlia (juhlat, pidot, bileet)* ← portugali:festa, espanja:fiesta, ranska:fête, deu:Fest, englanti:festival, venäjä:фестиваль (festival')  
+**fete** *tehdä (toimia)* ← ranska:faire, portugali:fazer, italia:fare + arabia: فَعَلَ‎ (faʿala) + suahili:fanya  
 **fete** *tehdä (toimia; teko, toimenpide)* ← ranska:fait, portugali:fato, englanti:fact, deu:Fakt, venäjä:факт (fakt), persia:(fâkt)  
 **fi** *pah! (pyh!)* ← englanti:fie, ranska:fi, venäjä:фи (fi) + yleiskiina:呸 (pēi)  
 **figur** *hahmo (figuuri)* ← englanti:ranska:figure, espanja:portugali:figura  
@@ -1273,8 +1276,6 @@
 **sing** *leijona* ← malaiji:singa, hindi:सिंघ (singh), bangla:সিংহ (singh), tamili:சிங்கம் (sinkam), thai:สิง (sing), yleiskiina:狮 (shī), japani:獅子 (shishi), + suahili:simba  
 **sing** *tähti* ← yleiskiina:星 (xīng), wu-kiina:星 (xing), kantoninkiina:星 (sing1), japani:星 (sei), korea:성 (seong)  
 **sinye** *merkki (signaali)* ← englanti:sign, espanja:señal, portugali:sinal, ranska:signe  
-**sipe** *märkä (kostea)* ← yleiskiina:濕 (shī), kantoninkiina:濕 (sap1), wu-kiina:濕 (seq4), japani:濕 (shitsu), korea:습 (seup)  
-**sir** *runo* ← heb:שיר (šir), arabia:(šiʿr), turkki:şiir, persia:(še'r), suahili:shairi, yleiskiina:诗 (shī), kantoninkiina:詩 (si1), japani:詩 (shi), korea:시 (shi)  
 **sir** *salainen* ← arabia: سِرّ (sirr), hindi:सेर (ser), malaiji:sir, suahili:siri, hausa:fulani:asiri, yoruba:àṣírí, turkki:sır, persia:(serr)  
 **sire** *salainen* ← arabia:(sirr), turkki:sır, persia:(serr), suahili:siri  
 **sirke** *piiri (ympyrä)* ← englanti:circle, espanja:portugali:círculo, ranska:cercle  
@@ -1496,6 +1497,8 @@
 **xeihal** *tilanne (asiaintila)* ← yleiskiina:事态 (shìtài), japani:事態 (jitai), englanti:state of affairs, ranska:état des choses  
 **xenon** *ksenon* ← englanti:xenon, ranska:xénon, espanja:xenón, portugali:xénon, venäjä:ксенон, yleiskiina:氙 (xiān), japani:キセノン, korea:크세논, vietnami:xenon, hindi:ज़ेनान, bangla:জেনন, malaiji:xenon, suahili:zenoni, arabia: إكسينون  
 **xenseng** ** ← yleiskiina:先生 (xiānshēng), kantoninkiina:先生 (sin1saang1), japani:先生 (sensei), korea:선생 (seonsaeng), vietnami:tiên sinh, malaiji:sinse, thai:ซินแส (sin-see), englanti:sensei  
+**xipe** *märkä (kastaa; kastella)* ← yleiskiina:濕 (shī), kantoninkiina:濕 (sap1), wu-kiina:濕 (seq4), japani:濕 (shitsu), korea:습 (seup)  
+**xir** *runo* ← heb:שיר (šir), arabia:(šiʿr), turkki:şiir, persia:(še'r), suahili:shairi, yleiskiina:诗 (shī), kantoninkiina:詩 (si1), japani:詩 (shi), korea:시 (shi)  
 **xirope** *siirappi* ← arabia:(šarāb), portugali:xarope, englanti:syrup, turkki:şurup, japani:シロップ (shiroppu), suahili:shira  
 **xite** *paska (sonta)* ← englanti:shit + yleiskiina:屎 (shǐ), kantoninkiina:屎 (si2)  
 **xoke** *isku (šokki)* ← englanti:shock, ranska:choc, espanja:portugali:choque, venäjä:шок (šok), japani:ショック (shokku), korea:쇼크 (syokeu), malaiji:syok, turkki:şok  

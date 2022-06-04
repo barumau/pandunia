@@ -323,22 +323,25 @@ exojen - 外人 (局外人)
 
 ## F  
 
-fe - 作  
 faide - 效用 (好处)  
-fan - 坭  
-fandefban - 挡泥板  
-fanostan - 沼泽  
+fan - 粉丝 (fensi)  
+fange - 坭  
+fangodefoban - 挡泥板  
+fangostan - 沼泽  
 fase - 面  
 fasotele - 深  
 fasilia da acese - 無障礙環境  
 fatige - 疲劳  
+• faxisme - فَاشِيَّة‎  
 fei - 飞  
+feke - 粪  
 fem - 女  
 feni - 数字的  
 fenkate - 分析  
 • fentor - 鼓风机 (电风扇)  
 fer - 铁  
 fermium - 镄  
+fete - 作  
 fete - 事实  
 • infetion - 传染  
 • rifete - 重复  
@@ -1185,9 +1188,6 @@ silke - 丝绸
 sim - 心  
 singofote - 闪烁  
 • dusosinye - 不祥的  
-sipe - 弄湿  
-sipe - 湿  
-sir - 诗  
 sire - 隐藏  
 sirplan - 阴谋 (密谋)  
 sirkite - 鹅卵石  
@@ -1306,6 +1306,7 @@ tulium - 铥
 tune - 金枪鱼  
 tunge - 疼痛  
 • turbin - 涡轮机  
+turfe - 泥炭  
 tuze - 兔子  
 
 ## U  
@@ -1318,9 +1319,6 @@ unoyom - 星期一 (禮拜一)
 unomaro - 一次 (一遍)  
 ure - 好哇  
 uranium - 铀  
-US
-##   
-
 va - 哇  
 vade - 山谷  
 vadosusan - 鈴蘭  
@@ -1339,9 +1337,6 @@ vare - 各种各样
 vase - оазис  
 vate - 物体 (物品)  
 vaxurse - 浣熊  
-Vaxington D
-##   
-
 vei - 尾巴 (尾部)  
 veilin - 緯紗  
 veisirke - 纬度  
@@ -1385,6 +1380,10 @@ xatan (ruhoxatan) - 撒但
 xei - 事物 (东西)  
 xeihal - 事态  
 xenon - 氙  
+xipe - 湿 (弄湿)  
+• perxipe - 湿透  
+xipostan - 湿地  
+xir - 诗  
 xite - 粪 (屎)  
 Xiva - 湿婆  
 sis - 扦子  

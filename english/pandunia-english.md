@@ -259,6 +259,7 @@ Azerbaizan - Azerbaijan
 
 ## B  
 
+ba - sentence-ending particle for commands  
 babu - chapter (section)  
 babuce - slipper  
 babul - thorn tree (acacia)  
@@ -424,6 +425,7 @@ bokserpante - boxer shorts (boxers)
 bol - ball  
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
+bolte - bolt  
 bombe - bomb  
 bon - good  
 boni zar - good luck  
@@ -937,7 +939,6 @@ exa - exa-
 
 ## F  
 
-fe - do (make)  
 fade - supply (dispense, issue, put out)  
 faide - use (utility, asset, benefit, gain, advantage)  
 • faidaje - material (resource)  
@@ -946,17 +947,16 @@ false - false (fake)
 falsvide - illusion (hallucination)  
 famil - family  
 familnam - surname (family name)  
-fan - mud (mire)  
-fane - muddy  
-fandefban - fender  
-fanostan - marsh (bog, swamp, morass)  
+fan - fan (be a fan, admire)  
+fanate - admire (adore)  
+fanatike - fanatic (enthusiast(ic))  
+fange - mud (mire)  
+fangodefoban - fender  
+fangostan - marsh (bog, swamp, morass)  
 fantas - imagine (fantasize; fantasy, imagination)  
 fantom - ghost (phantom)  
 farse - Persian (Farsi)  
 fase - surface (face)  
-fase - bandage (strip, ribbon)  
-• fasisme - fascism  
-• fasiste - fascist  
 fasokaribe - shallow  
 fasotele - deep  
 fasotelia - depth  
@@ -967,11 +967,15 @@ fasin - fascination
 fason - fashion (trend; trendy, popular)  
 fatige - fatigue (weariness; tired, weary)  
 favor - favor (goodwill)  
+faxe - bandage (strip, ribbon)  
+• faxisme - fascism  
+• faxiste - fascist  
 faze - stage (phase)  
 febre - fiever  
 fei - fly (flight)  
 feimus - bat (flying mammal)  
-feke - feces (shit, poop; defecate)  
+feke - feces (shit, poop)  
+• defeke - defecate  
 fem - female  
 femi pute - daughter  
 femi reger - queen  
@@ -993,6 +997,7 @@ fere - deem (consider,regard,assign some quality to)
 fermium - fermium  
 feste - party (celebration, festival; celebrate)  
 festoden - holiday  
+fete - do (make)  
 fete - do (make; deed, fact)  
 • feter - maker (factor, agent)  
 • feteria - factory (plant)  
@@ -3651,15 +3656,11 @@ sinye - sign (signal)
 • asinye - assign (ascribe,attribute)  
 • desinye - designate (mark out)  
 • dusosinye - ominous (foreboding)  
-sipe - wet (dampen, moisten)  
-sipe - wet (damp, moist)  
 sir - secret (hidden)  
-sir - poem  
 sire - hide (conceal)  
 sire - secret  
 siri mote - stealth  
 siro motu - sneak  
-sirer - poet  
 sirplan - conspiracy (plot)  
 sirke - circle (round)  
 sirke - surround (encircle)  
@@ -4105,9 +4106,7 @@ Urdun - Jordan
 urse - bear  
 Uruguai - Uruguay  
 Urusalem - Jerusalem  
-US
-## American (US)  
-
+USA - American (US)  
 uze - use (employ, apply)  
 uzable - usable (available)  
 uzer - user  
@@ -4153,9 +4152,7 @@ vava bebe - crybaby
 vaxe - wash  
 vaxomaxin - washing machine  
 vaxurse - raccoon  
-Vaxington D
-## Washington DC  
-
+Vaxington DC - Washington DC  
 vei - tail  
 veye - traverse (horizontal)  
 veilin - weft  
@@ -4304,6 +4301,12 @@ xeihal - situation (circumstances, state of affairs)
 xeihalironia - situational irony  
 xenon - xenon  
 xenseng - master (sensei)  
+xipe - wet  
+• xipete - humid (damp, moist)  
+• perxipe - soak (drench)  
+xipostan - wetland  
+xir - poem  
+• xirer - poet  
 xirope - syrup  
 xixkababe - shish kebab  
 xite - shit (poop, feces)  

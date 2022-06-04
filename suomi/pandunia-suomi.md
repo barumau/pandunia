@@ -387,6 +387,7 @@ bokserpante - bokserit
 bol - pallo  
 Bolgaria - Bulgaria  
 Bolivia - Bolivia  
+bolte - pultti  
 bombe - pommi  
 bon - hyvä  
 boni zar - hyvä onni (tuuri, säkä, lykky)  
@@ -841,7 +842,6 @@ exa - eksa-
 
 ## F  
 
-fe - tehdä (toimia)  
 fade - jakaa (jaella)  
 faide - hyöty (hyödyllisyys, etu; hyödyllinen)  
 • faidaje - hyötyaines  
@@ -849,17 +849,16 @@ faine - hieno (hienojakoinen)
 falsvide - harhanäky (näköharha)  
 famil - perhe  
 familnam - sukunimi  
-fan - muta (kura, lieju)  
-fane - kurainen (mutainen)  
-fandefban - lokasuoja  
-fanostan - suo (räme)  
+fan - palvoa (fanata; fani)  
+fanate - palvoa (fanata)  
+fanatike - fanaatikko  
+fange - muta (kura, lieju)  
+fangodefoban - lokasuoja  
+fangostan - suo (räme)  
 fantas - kuvitella (kuvittelu, mielikuvitus, fantasia)  
 fantom - kummitus (aave)  
 farse - persia (farsi)  
 fase - pinta (tahko)  
-fase - side (remmi)  
-• fasisme - fasismi  
-• fasiste - fasisti  
 fasokaribe - matala (ei syvä)  
 fasotele - syvä  
 fasotelia - syvyys  
@@ -867,11 +866,15 @@ fasile - helppo
 fasin - hurma (lumo, tenho)  
 fason - muoti (trendi; muodikas, trendikäs)  
 fatige - väsymys (väsyä; väsynyt)  
+faxe - side (remmi)  
+• faxisme - fasismi  
+• faxiste - fasisti  
 faze - vaihe (etappi)  
 febre - kuume  
 fei - lento (lentää)  
 feimus - lepakko  
-feke - paskantaa (ulostaa)  
+feke - uloste (paska)  
+• defeke - ulostaa  
 fem - naaras  
 femi pute - tyttölapsi  
 femi reger - kuningatar  
@@ -893,6 +896,7 @@ fere - pitää jnkn (suhtautua)
 fermium - fermium  
 feste - juhlia (juhlat, pidot, bileet)  
 festoden - juhlapäivä  
+fete - tehdä (toimia)  
 fete - tehdä (toimia; teko, toimenpide)  
 • feter - tekijä (toimija)  
 • feteria - tehdas  
@@ -3140,12 +3144,8 @@ sing - tähti
 Singapur - Singapore  
 sinye - merkki (signaali)  
 • asinye - merkitä jlkn  
-sipe - kosteuttaa  
-sipe - märkä (kostea)  
 sir - salainen  
-sir - runo  
 sire - salainen  
-sirer - runoilija  
 sirplan - juoni (salaliitto)  
 sirke - piiri (ympyrä)  
 sirke - ympäröidä (piirittää)  
@@ -3521,9 +3521,7 @@ urde - urdu
 Urdun - Jordania  
 urse - karhu  
 Uruguai - Uruguai  
-US
-## yhdysvaltalainen (ns. Amerikkalainen)  
-
+USA - yhdysvaltalainen (ns. Amerikkalainen)  
 uze - käyttää  
 uzer - käyttäjä  
 Uzbekia - Uzbekistan  
@@ -3559,9 +3557,7 @@ vava - itkeä
 vava bebe - itkupilli  
 vaxe - pestä  
 vaxomaxin - pesukone  
-Vaxington D
-## Washington DC  
-
+Vaxington DC - Washington DC  
 vei - häntä  
 veye - poikittainen (vaaka)  
 veilin - kude  
@@ -3685,6 +3681,12 @@ xefe di - pää-
 xei - asia  
 xeihal - tilanne (asiaintila)  
 xenon - ksenon  
+xipe - märkä (kastaa; kastella)  
+• xipete - kostea  
+• perxipe - liota  
+xipostan - kosteikko  
+xir - runo  
+• xirer - runoilija  
 xirope - siirappi  
 xixkababe - varraskebab  
 xite - paska (sonta)  

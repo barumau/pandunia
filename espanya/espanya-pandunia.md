@@ -501,7 +501,6 @@ caer - pade
 cafetera - kafe pote  
 café (cafetería) - kafe kan  
 café - kafe  
-cagar - feke  
 caimán (aligátor, yacaré) - kortokrokodil  
 caja (baúl, cofre, estuche) - sanduke  
 caja (caja registradora) - kas  
@@ -698,7 +697,7 @@ civil - civile
 civilización - sivilia  
 civilizado - sivile  
 civilizado - civilade  
-ciénaga (pantano) - fanostan  
+ciénaga (pantano) - fangostan  
 claro - klare  
 clarín (corneta) - buge  
 clase (categoría) - klas  
@@ -992,6 +991,7 @@ decoración (adorno) - sundardake
 decorar (adornar) - sundardake  
 dedicar - satodone  
 dedo - angul  
+defecar - defeke  
 defender (defensa) - defe  
 defensor - defer  
 definir - sife  
@@ -1071,9 +1071,7 @@ dinero (plata) - pese
 diorita - diorite  
 dios - deu  
 dirección - adres  
-dirección de I
-## IP adres  
-
+dirección de IP - IP adres  
 director de colegio - xulxefe  
 dirigente (líder) - lider  
 dirigir (mandar, conducir, capitanear) - lide  
@@ -1190,7 +1188,6 @@ embajada - dayangilkan
 embajador - dayangiler  
 embalar (llevar; paquete) - pake  
 embarazado (preñado) - hamile  
-embarrado (enlodado) - fane  
 embudo - darotube  
 emir - amirer  
 emirato - amiria  
@@ -1387,13 +1384,14 @@ falla (mal funcionamiento) - dusfunse
 falso - false  
 familia - famil  
 fan (-filo) - filike  
+fan - fan  
 fantasma - fantom  
 faro (baliza, almenara) - fotominar  
 farol (linterna) - hogosanduke  
 farsi - farse  
 fascinación - fasin  
-fascismo - fasisme  
-fascista - fasiste  
+fascismo - faxisme  
+fascista - faxiste  
 fatiga - fatige  
 favoritismo - profilisme  
 favorito (preferido) - profilaje  
@@ -1551,9 +1549,7 @@ global (de todo el mundo) - pandune
 global (mundial) - globe  
 globo - balon  
 gluten - gluten  
-GM
-## vizin  
-
+GMS - vizin  
 gobernante (soberano) - sultan  
 gobernar - polite  
 gobierno - polite  
@@ -1592,7 +1588,7 @@ Guadalupe - Guadelupe
 Guam - Guam  
 guapo (bien parecido) - bonvide  
 guarda (preservador, conservador) - hafizer  
-guarda-barros (aleta) - fandefban  
+guarda-barros (aleta) - fangodefoban  
 Guatemala - Guatemala  
 guau (vaya) - va  
 guau (vaya) - vah  
@@ -1626,7 +1622,7 @@ hablador (locuaz) - logive
 hablante de Pandunia - panduniste  
 hacedor (perpetrador) - er  
 hacer (hecho) - fete  
-hacer - fe  
+hacer - fete  
 hacer malabarismos - jongle  
 hacer posar (plantar) - poze  
 hacha - futau  
@@ -1643,6 +1639,7 @@ hasta - hate
 Hawái - Havai  
 hebra (fibra) - linem  
 hebreo - ibre  
+heces - feke  
 hecho (hechura) - feture  
 helado - aiskrem  
 helecho - parne  
@@ -1715,6 +1712,7 @@ humanidad (género humano) - humania
 humanismo - humanisme  
 humanista - humaniste  
 humano - humane  
+humedal - xipostan  
 humo - duman  
 humor (gracia) - humor  
 humor - emoshal  
@@ -1731,6 +1729,7 @@ hábil - xute
 héroe - vir  
 híbrido (mestizo) - hibride  
 hígado - hepate  
+húmedo - xipete  
 
 ## I  
 
@@ -2054,7 +2053,7 @@ llóron - vava bebe
 lo lejos - tel  
 lobo - volfe  
 local - loke  
-lodo (barro, fango) - fan  
+lodo (barro, fango) - fange  
 logical - ratolojike  
 longitud - vestodongia  
 loro (papagayo) - papagai  
@@ -2287,8 +2286,7 @@ modelo - modele
 moderno - novoyange  
 modo (manera, forma) - mode  
 modo nocturno - nocomode  
-mojado - sipe  
-mojar - sipe  
+mojar (mojado) - xipe  
 mol - mole  
 moldear (modelar) - plaste  
 Moldova - Moldove  
@@ -2796,8 +2794,8 @@ poder (autoridad, competencia) - sultia
 poder (posible) - able  
 podrido (cariado) - pude  
 podsol - huidarte  
-poema - sir  
-poeta - sirer  
+poema - xir  
+poeta - xirer  
 polaco - polske  
 policía - polis  
 policía - poliser  
@@ -3047,6 +3045,7 @@ reliquia - cenaje
 reloj - horloger  
 relámpago - eletrorade  
 remitente - miser  
+remojar (empapar) - perxipe  
 remojar (marinar, encurtir, macerar) - pursipe  
 remolacha - bete  
 remolacha azucarera - sukarbete  
@@ -3472,7 +3471,7 @@ Timor Oriental - Dongi Timor
 tinta - moge  
 tinte - rangomate  
 tipo (género) - tipe  
-tira (faja, vendaje, cinta) - fase  
+tira (faja, vendaje, cinta) - faxe  
 tirano (déspota) - zalime reger  
 tirar - tire  
 tiro con arco - arkeria  
@@ -3555,6 +3554,7 @@ tumba (sepultura; enterrar) - gabre
 tundra - tundre  
 tungsteno (wolframio) - volfram  
 tupinambo (pataca, alcachofa de Jerusalén) - masmulsolful  
+turba - turfe  
 turbante - pagre  
 turbina - turbin  
 turborreactor - turbojeter  

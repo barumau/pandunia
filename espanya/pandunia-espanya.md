@@ -774,7 +774,6 @@ exe - fuera (exterior)
 
 ## F  
 
-fe - hacer  
 fade - suministrar (dar, proveer, emitir)  
 faide - uso (utilidad, beneficio; útil (beneficioso)  
 faine - fino (delgado, delicado)  
@@ -782,17 +781,14 @@ false - falso
 falsvide - ilusión  
 famil - familia  
 familnam - apellido  
-fan - lodo (barro, fango)  
-fane - embarrado (enlodado)  
-fandefban - guarda-barros (aleta)  
-fanostan - ciénaga (pantano)  
+fan - fan  
+fange - lodo (barro, fango)  
+fangodefoban - guarda-barros (aleta)  
+fangostan - ciénaga (pantano)  
 fantas - imaginar (fantasear; imaginación, fantasía)  
 fantom - fantasma  
 farse - farsi  
 fase - faz (faceta)  
-fase - tira (faja, vendaje, cinta)  
-• fasisme - fascismo  
-• fasiste - fascista  
 fasotele - profundo (hondo)  
 fasotelia - superficial (poco profundo)  
 fasile - fácil  
@@ -801,11 +797,15 @@ fasilia da acese - fácil acceso (accesibilidad)
 fasin - fascinación  
 fason - moda (tendencia; moderno, popular)  
 fatige - fatiga  
+faxe - tira (faja, vendaje, cinta)  
+• faxisme - fascismo  
+• faxiste - fascista  
 faze - etapa (fase)  
 febre - fiebrie (calentura)  
 fei - volar (vuelo)  
 feimus - murciélago  
-feke - cagar  
+feke - heces  
+• defeke - defecar  
 fem - mujer (hembra)  
 femi pute - hija  
 femi reger - reina  
@@ -825,6 +825,7 @@ fer - hierro
 fermium - fermio  
 feste - celebrar (festejar; celebración, fiesta)  
 festoden - día festivo (feriado)  
+fete - hacer  
 fete - hacer (hecho)  
 • feter - factor  
 • feteria - fábrica  
@@ -3070,15 +3071,11 @@ sinye - señal (letrero, indicio)
 • sinyal - señal  
 • desinye - designar  
 • dusosinye - ominoso (amenazador)  
-sipe - mojar  
-sipe - mojado  
 sir - secreto  
-sir - poema  
 sire - ocultar (esconder)  
 sire - secreto  
 siri mote - sigilo  
 siro motu - colarse  
-sirer - poeta  
 sirplan - complot (conspiración)  
 sirke - círculo  
 sirke - rodear (cirundar)  
@@ -3430,6 +3427,7 @@ turbe - molestar (perturber)
 • turbin - turbina  
 • disturbe - perturbar (turbulencia)  
 turbojeter - turborreactor  
+turfe - turba  
 turke - turco  
 Turkia - Turquía  
 Turkomenia - Turkmenistán  
@@ -3469,9 +3467,7 @@ urde - urdu
 Urdun - Jordania  
 urse - oso  
 Uruguai - Uruguay  
-US
-## estadounidense  
-
+USA - estadounidense  
 uze - usar (aplicar)  
 uzable - utilizable (disponible)  
 uzer - usuario  
@@ -3516,9 +3512,6 @@ vava bebe - llóron
 vaxe - lavar  
 vaxomaxin - lavadora  
 vaxurse - mapache  
-Vaxington D
-##   
-
 vei - cola (rabo)  
 veisirke - latitud  
 vele - velo  
@@ -3622,6 +3615,12 @@ xei - cosa
 xeihal - situación  
 xenon - xenón  
 xenseng - maestro (profesor)  
+xipe - mojar (mojado)  
+• xipete - húmedo  
+• perxipe - remojar (empapar)  
+xipostan - humedal  
+xir - poema  
+• xirer - poeta  
 xirope - jarabe (sirope)  
 xite - mierda  
 Xiva - Shiva  

@@ -42,6 +42,7 @@ adjust (make exact) - ajuste
 administer (govern) - polite  
 administrator - politer  
 admiral - haiamirer  
+admire (adore) - fanate  
 admire - amire  
 adolescent (yong man; maiden) - kumar  
 adult - matur  
@@ -308,7 +309,7 @@ balloon - balon
 bamboo - banse  
 banana - banan  
 band (squad, group) - bande  
-bandage (strip, ribbon) - fase  
+bandage (strip, ribbon) - faxe  
 Bangladesh - Banglodes  
 banister (handrail) - langan  
 bank (deposit, save) - banke  
@@ -461,6 +462,7 @@ boil (cook) - bule
 bok choy - bakocoi  
 bold letter - grosi harfe  
 Bolivia - Bolivia  
+bolt - bolte  
 bomb - bombe  
 bon appetit! - salam yam  
 bone - oste  
@@ -1038,6 +1040,7 @@ deem (opine, think that) - raye
 deep - fasotele  
 default (preset, predecided) - precuze  
 defeat (do away with) - defete  
+defecate - defeke  
 defend (ward off; defense, defence) - defe  
 defender - defer  
 deflect (bend away) - deflexe  
@@ -1120,7 +1123,7 @@ diverse - disverse
 divine (godly) - deve  
 divorce (unmarry) - degame  
 Djibouti - Gibuti  
-do (make) - fe  
+do (make) - fete  
 do (make; deed, fact) - fete  
 do again (repeat, iterate) - rifete  
 docent - dokente  
@@ -1394,16 +1397,18 @@ fall down (drop down) - pade
 false (fake) - false  
 family - famil  
 fan (-phile) - filike  
+fan (be a fan, admire) - fan  
 fan (ventilator) - fentopanke  
 fan (ventilator) - sanze  
+fanatic (enthusiast(ic)) - fanatike  
 far (distant) - tele  
 farewell - salam cute  
 farmer - agrer  
 farmhouse (villa) - vile  
 fart (flatulence) - perde  
 fascination - fasin  
-fascism - fasisme  
-fascist - fasiste  
+fascism - faxisme  
+fascist - faxiste  
 fashion (trend; trendy, popular) - fason  
 fast (quick, rapid, speedy) - suge  
 father - patre  
@@ -1421,7 +1426,7 @@ fear (scare; frighten; scared, afraid) - fobe
 feather - pere  
 feature (product of work) - feture  
 February - dullun  
-feces (shit, poop; defecate) - feke  
+feces (shit, poop) - feke  
 fee (fare) - taxe  
 feel (sense by touch) - sente  
 feel (sense by touch) - tatosense  
@@ -1431,7 +1436,7 @@ female - fem
 feminism - femisme  
 feminist - femiste  
 fence - kenarbaryer  
-fender - fandefban  
+fender - fangodefoban  
 ferment (leaven) - biomute  
 fermium - fermium  
 fern - parne  
@@ -1860,6 +1865,7 @@ humane - humane
 humanism - humanisme  
 humanist - humaniste  
 humanoid - humanoide  
+humid (damp, moist) - xipete  
 hummus - humusosaus  
 humor - humor  
 humorist - humoriste  
@@ -2134,9 +2140,7 @@ Lagos - Lagos
 lake - lage  
 lama - lama  
 lamp - lampe  
-LA
-## LAN (loke aria nete)  
-
+LAN - LAN (loke aria nete)  
 language (tongue) - lingue  
 lantern - hogosanduke  
 lanthanum - lantanium  
@@ -2365,7 +2369,7 @@ market liberalism - bazarhurisme
 marriage (matrimony) - gamia  
 marry - game  
 Mars - Marse  
-marsh (bog, swamp, morass) - fanostan  
+marsh (bog, swamp, morass) - fangostan  
 Marshall Islands - Marshal nesia  
 martial art - jengoxute  
 marvel (wonder; amaze, astonish) - ajibe  
@@ -2570,8 +2574,7 @@ movie (cinema) - kinograf
 movie theatre - kinografokan  
 Mozambique - Mozambike  
 MSG (monosodium glutamate) - vizin  
-mud (mire) - fan  
-muddy - fane  
+mud (mire) - fange  
 muesli - musle  
 mule - gadogude  
 multicultural - polikulture  
@@ -3053,8 +3056,8 @@ Pluto (dwarf planet) - Pluton
 plutonium - plutonium  
 pocket - jebe  
 podzol - huidarte  
-poem - sir  
-poet - sirer  
+poem - xir  
+poet - xirer  
 point (period, full stop) - punte  
 point (tip, cusp, peak) - pike  
 point at (indicate) - ponte  
@@ -3553,6 +3556,7 @@ sense (method of perception) - sense
 sense (perceive, detect) - sense  
 sensor (detector) - sensor  
 sentence (phrase) - gumle  
+sentence-ending particle for commands - ba  
 September - novolun  
 Serbia - Serbia  
 series (sequence) - silia  
@@ -3679,6 +3683,7 @@ sneeze (achoo) - aci
 sniper (sharpshooter) - justopaver  
 snow (be snowing) - hima  
 snow drift - hima duna  
+soak (drench) - perxipe  
 soak (steep, marinate) - pursipe  
 soap - sabun  
 social - sose  
@@ -4235,9 +4240,7 @@ vinyl - vinil
 violin (fiddle) - viole  
 violinist - violiste  
 virgin (pristine,virginal) - virge  
-Virgin Islands, U
-## Virgin nesia  
-
+Virgin Islands, US - Virgin nesia  
 Virgo - Virge  
 virology - viruslojia  
 virtue (morals) - bondeke  
@@ -4285,9 +4288,7 @@ warrior (soldier) - gerer
 wart (verruca) - veruke  
 wash - vaxe  
 washing machine - vaxomaxin  
-Washington D
-## Vaxington DC  
-
+Washington DC - Vaxington DC  
 water - sui  
 water buffalo - kabau  
 water lily (nenuphar) - nenufar  
@@ -4323,8 +4324,8 @@ Welsh - kamre
 Wenzhou - Venzou  
 west (western) - veste  
 western gorilla - vestogoril  
-wet (damp, moist) - sipe  
-wet (dampen, moisten) - sipe  
+wet - xipe  
+wetland - xipostan  
 what kind of? - ke yange  
 what thing? - ke sei  
 what? - ke  

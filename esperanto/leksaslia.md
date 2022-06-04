@@ -4,7 +4,7 @@
 **abete** *abio* ← hispana:portugala:abeto  
 **able** *povi* ← turka:bilmek + franca:habile, hispana:portugala:hábil, angla:able;ability  
 **acar** ** ← persa:آچار (âčâr), hindia:अचार (acār), araba:اچار‎ (əčar), angla:portugala:achar, svahila:achari, malaja:acar  
-**aci** *terni* ← hispana:achís, mandarena: 阿嚏 (ātì), korea:에취 (echwi), rusa:апчхи, vjetnama:hắt xì, angla:achoo, franca:atchoum  
+**aci** *terni* ← hispana:achís, mandarena: 阿嚏 (ātì), korea:에취 (echwi), bengala:আঁচে (hache), rusa:апчхи, vjetnama:hắt xì, angla:achoo, franca:atchoum  
 **acinium** *aktinio* ← angla:actinium, franca:actinium, hispana:actinio, portugala:actínio, rusa:актиний, mandarena:锕 (ā), japana:アクチニウム, korea:악티늄, vjetnama:actini, hindia:एक्टिनियम, bengala:অ্যাক্টিনিয়াম, malaja:aktinium, svahila:aktini, araba: اكتنيوم  
 **adal** *justa* ← araba: عدل (’adl), malaja:turka:adil, svahila:adili + hindia:अदालत (adālat)  
 **adamas** *diamanto* ← rusa:алмаз (almaz), araba: أَلْمَاس‎ (ʾalmās), hindia:अलमास (almās), malaja:almas, svahila:almasi, persa: الماس‎ (almâs) + gre:ἀδάμας (adámas), angla:diamond, franca:diamant, hispana:portugala:diamante, japana:ダイヤモンド (daiyamondo), korea:다이아몬드 (daiamondeu)  
@@ -163,6 +163,7 @@
 **boka** *buŝo* ← hispana:portugala:boca  
 **bokse** *bokso* ← angla:box, deu:Boxen, franca:portugala:boxe, hispana:boxeo, rusa:бокс (boks), japana:ボクシング (bokushingu), korea:복싱 (boksing), hindia:बॉक्सिंग (bŏksiṅg), bengala:বক্সিং (bôksing), malaja:boksing, turka:boks  
 **bol** *pilko* ← angla:ball, hispana:portugala:malaja:filipina:bola, taja:บอล (bɔl), japana:ボール (bōru), korea:볼 (bol), kmera:បាល់ (bal), bengala:বল (bôl), deu:Ball, franca:boule, balle  
+**bolte** *bolto* ← angla:bolt, franca:boulon, rusa:болт (bolt), hindia:बोल्ट (bolṭ), japana:ボルト (boruto), korea:볼트 (bolteu)   
 **bombe** *bombo* ← polona:portugala:hispana:turka:bomba, rusa:бомба (bomba), deu:franca:bombe, persa:(bomb), angla:bomb, bengala:বোমা (boma), hindia:बम (bam), urdua:(bam), japana:ボム (bomu), korea:봄 (bom), malaja:bom  
 **bon** *bona* ← franca:bon, portugala:bom, hispana:bueno, + kmera:បុណ្យ (bon), taja:บุญ (bun), teluga:పుణ్యము (puṇyamu)  
 **bore** *enui* ← angla:bored, hispana:aburrido, hindia:(bhorī)  
@@ -333,20 +334,21 @@
 **faine** *fajna* ← angla:fine, hispana:portugala:fino, franca:fin  
 **false** ** ← angla:false, hispana:portugala:falso, franca:faux, deu:falsch  
 **famil** *familio* ← angla:family, hispana:familia, portugala:família, franca:famille  
-**fan** *koto* ← franca:fang, hispana:fango + angla:fen + mandarena:粪 (fèn), kantona:糞 (fan3), vjetnama:phân  
+**fan** ** ← angla:franca:hispana:vjetnama:fan, portugala:fã, rusa:фанат (fanat), mandarena:粉丝 (fensi), japana:ファン (fan), korea:팬 (pän)  
+**fange** *koto* ← franca:fange, hispana:fango, hindia:पंक (paṅk), tamila:(pankam)  
 **fantas** *fantazio* ← angla:franca:fantasy, hispana:fantasía, portugala:svahila:fantasia, rusa:фантазия (fantazija), turka:fantezi, malaja:fantasi, japana:ファンタジー (fantajī)  
 **fantom** *fantomo* ← angla:phantom, hispana:portugala:fantasma, franca:fantôme, rusa:фантом (fantom)  
-**fase** ** ← itala:fascia, portugala:faixa, hispana:faja  
 **fase** *surfaco* ← angla:franca:portugala:face, hispana:faz, deu:Facette  
 **fasile** *facila* ← angla:facility, hispana:portugala:fácil, franca:facile  
 **fasin** *fascinado* ← angla:fascination, hispana:fascinación, deu:Faszination  
 **fason** ** ← angla:fashion, hindia:फैशन (faiśan), japana:ファッション (fasshon), korea:패션 (pæsyeon), taja:แฟชั่น (feechan), bengala:ফ্যাশন (phaśôn)  
 **fatige** ** ← angla:franca:fatigue, hispana:fatiga, portugala:fadiga, itala:fatica  
 **favor** ** ← angla:hispana:portugala:favor, franca:faveur + rusa:фаворитизм (favoritizm)  
+**faxe** ** ← itala:angla:fascia, portugala:faixa, hispana:faja + franca:fascisme, rusa:фашизм (fašizm), araba: فَاشِيَّة‎ (fāšiyya), mandarena:法西斯主义 (fǎxīsīzhǔyì), japana:ファシズム (fashizumu), korea:파시즘 (pasijeum), vjetnama:chủ nghĩa phát xít, hindia:फ़ासीवाद (fāsīvād), malaja:fasisme bengala:ফ্যাসিবাদ (phaśibad)  
 **faze** ** ← hispana:portugala:itala:malaja:fase, angla:franca:phase, rusa:фаза (faza), polona:faza, persa:(fāz)  
-**fe** *fari* ← franca:faire, portugala:fazer, itala:fare + araba: فَعَلَ‎ (faʿala) + svahila:fanya  
 **febre** *febro* ← portugala:febre, hispana:fiebre, deu:Fieber, angla:fever, franca:fièvre  
 **fei** *flugi* ← mandarena:飞 (fēi), kantona:飛 (fei1), vua:飛 (fi1), japana:飛 (hi), korea:비 (bi), vjetnama:bay  
+**feke** ** ← angla:feces, franca:fèces, hispana:heces, portugala:fezes+ mandarena:粪 (fèn), kantona:糞 (fan3), vjetnama:phân  
 **fem** *ino* ← franca:femme, portugala:fêmea, angla:female  
 **fen** *parto (frakcio; dividi)* ← mandarena:分 (fèn), vua:(fén), kantona:(fan), vjetnama:phần, taja:ปัน (pan), japana:分 (bun), korea:분 (bun)  
 **fente** *vento* ← mandarena:风 (fēng), kantona:風 (fung1), vua:风 (fong) + angla:fan + rusa:фен (fěn) + franca:vent, hispana:viento, portugala:vento  
@@ -354,6 +356,7 @@
 **fermium** *fermio* ← angla:fermium, franca:fermium, hispana:fermio, portugala:férmio, rusa:фермий, mandarena:镄 (fèi), japana:フェルミウム, korea:페르뮴, vjetnama:fecmi, hindia:फर्मियम, bengala:ফার্মিয়াম, malaja:fermium, svahila:fermi, araba: فرميوم  
 **feste** *festo* ← portugala:festa, hispana:fiesta, franca:fête, deu:Fest, angla:festival, rusa:фестиваль (festival')  
 **fete** *fari (faro, fakto)* ← franca:fait, portugala:fato, angla:fact, deu:Fakt, rusa:факт (fakt), persa:(fâkt)  
+**fete** *fari* ← franca:faire, portugala:fazer, itala:fare + araba: فَعَلَ‎ (faʿala) + svahila:fanya  
 **fi** *bah!* ← angla:fie, franca:fi, rusa:фи (fi) + mandarena:呸 (pēi)  
 **figur** *figuro* ← angla:franca:figure, hispana:portugala:figura  
 **fikre** *pensi (penso)* ← araba:(fikr), malaja:pikir, svahila:fikiri, turka:fikir, hindia:(fikr), persa:(fekr)  
@@ -1273,9 +1276,7 @@
 **sing** *leono* ← malaja:singa, hindia:सिंघ (singh), bengala:সিংহ (singh), tamila:சிங்கம் (sinkam), taja:สิง (sing), mandarena:狮 (shī), japana:獅子 (shishi), + svahila:simba  
 **sing** *stelo* ← mandarena:星 (xīng), vua:星 (xing), kantona:星 (sing1), japana:星 (sei), korea:성 (seong)  
 **sinye** ** ← angla:sign, hispana:señal, portugala:sinal, franca:signe  
-**sipe** ** ← mandarena:濕 (shī), kantona:濕 (sap1), vua:濕 (seq4), japana:濕 (shitsu), korea:습 (seup)  
 **sir** ** ← araba: سِرّ (sirr), hindia:सेर (ser), malaja:sir, svahila:siri, haŭsa:fula:asiri, joruba:àṣírí, turka:sır, persa:(serr)  
-**sir** *poemo* ← heb:שיר (šir), araba:(šiʿr), turka:şiir, persa:(še'r), svahila:shairi, mandarena:诗 (shī), kantona:詩 (si1), japana:詩 (shi), korea:시 (shi)  
 **sire** ** ← araba:(sirr), turka:sır, persa:(serr), svahila:siri  
 **sirke** ** ← angla:circle, hispana:portugala:círculo, franca:cercle  
 **siro** ** ← araba: صِفْر‎ (ṣifr), svahila:sifuri, hindia:सिफ़र (sifar), malaja:sifar, angla:portugala:zero, franca:zéro, hispana:cero, rusa:зеро (zero), japana:ゼロ (zero), korea:제로 (jero), vjetnama:zêrô  
@@ -1496,6 +1497,8 @@
 **xeihal** *situacio (aferstato)* ← mandarena:事态 (shìtài), japana:事態 (jitai), angla:state of affairs, franca:état des choses  
 **xenon** *ksenono* ← angla:xenon, franca:xénon, hispana:xenón, portugala:xénon, rusa:ксенон, mandarena:氙 (xiān), japana:キセノン, korea:크세논, vjetnama:xenon, hindia:ज़ेनान, bengala:জেনন, malaja:xenon, svahila:zenoni, araba: إكسينون  
 **xenseng** ** ← mandarena:先生 (xiānshēng), kantona:先生 (sin1saang1), japana:先生 (sensei), korea:선생 (seonsaeng), vjetnama:tiên sinh, malaja:sinse, taja:ซินแส (sin-see), angla:sensei  
+**xipe** *malseka* ← mandarena:濕 (shī), kantona:濕 (sap1), vua:濕 (seq4), japana:濕 (shitsu), korea:습 (seup)  
+**xir** *poemo* ← heb:שיר (šir), araba:(šiʿr), turka:şiir, persa:(še'r), svahila:shairi, mandarena:诗 (shī), kantona:詩 (si1), japana:詩 (shi), korea:시 (shi)  
 **xirope** *siropo* ← araba:(šarāb), portugala:xarope, angla:syrup, turka:şurup, japana:シロップ (shiroppu), svahila:shira  
 **xite** *merdo* ← angla:shit + mandarena:屎 (shǐ), kantona:屎 (si2)  
 **xoke** ** ← angla:shock, franca:choc, hispana:portugala:choque, rusa:шок (šok), japana:ショック (shokku), korea:쇼크 (syokeu), malaja:syok, turka:şok  

@@ -258,9 +258,10 @@ botte - bute
 boucher - bucer  
 bouclire - defoban  
 Bouddha - Buda  
-boue (fange, bourbe, gadoue) - fan  
+boue (fange, bourbe, gadoue) - fange  
 boulanger - beker  
 bouleau - berze  
+boulon - bolte  
 bout (pointe, pic) - pike  
 bout de doigt - angulpike  
 bouteille - botel  
@@ -569,6 +570,7 @@ début (commencement) - xure
 décapé (mariné) - acari  
 déchirer - cire  
 défigurer - dusforme  
+déféquer - defeke  
 dénoncer (annoncer la fin d’un accord) - denunce  
 désaccord (différend) - alorayia  
 désert - sablostan  
@@ -642,10 +644,13 @@ failli - bankorute
 faillite (banqueroute) - bankorutia  
 faim - yamyau  
 faire (fait) - fete  
-faire - fe  
+faire - fete  
 faiseur (facteur) - feter  
 fait (faiture) - feture  
+fan - fan  
 fanal (balise) - fotominar  
+fanatique - fanatike  
+fascisme - faxisme  
 fatigue - fatige  
 faute (erreur; erroné) - galte  
 favori (préféré) - profilaje  
@@ -694,6 +699,7 @@ francophonie - Fransofonia
 fromage - kize  
 fromage blanc - panir  
 frêne - yasen  
+fèces - feke  
 féliciter (felicitation) - barke  
 
 ## G  
@@ -702,7 +708,7 @@ gadolinium - gadolinium
 galaxie - galaxia  
 gallium - galium  
 galop - galope  
-garde-boue (aile) - fandefban  
+garde-boue (aile) - fangodefoban  
 gaufre - vafle  
 Gaule - Galia  
 gaz - gas  
@@ -789,6 +795,7 @@ hum - hem
 humain - humane  
 humanisme - humanisme  
 humeur - emoshal  
+humide - xipete  
 humus - hume  
 hydrogène - hidre  
 hygiène - salsafia  
@@ -988,7 +995,7 @@ marguerite - bakomargarite
 mariage - gamia  
 Maroc - Magribia  
 Mars - Marse  
-marécage (marais) - fanostan  
+marécage (marais) - fangostan  
 masque - maske  
 masse - mas  
 match - mace  
@@ -1054,8 +1061,7 @@ moteur - moter
 mouche - domzeze  
 moudjahid (djihadiste) - gihadiste  
 moudre - mole  
-mouiller - sipe  
-mouillé - sipe  
+mouiller (mouillé) - xipe  
 moulin - molia  
 mousse - mos  
 mousson - barsomosim  
@@ -1656,6 +1662,7 @@ topographie - topografia
 toucher (tact) - tate  
 toucher - toce  
 toupie - rototope  
+tourbe - turfe  
 touriste - safariste  
 tourner (rotationner) - rotate  
 Tournesol - soloful  

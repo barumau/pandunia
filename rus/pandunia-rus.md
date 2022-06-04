@@ -194,6 +194,7 @@ bokse - бокс
 bokser - боксёр  
 bokserpante - семейные  
 bol - шар  
+bolte - болт  
 bombe - бомба  
 bon - хороший  
 bonsinye - благоприятный  
@@ -374,16 +375,17 @@ exojen - посторонний (аутсайдер)
 
 ## F  
 
-fe - делать  
 faide - применение (утилитарность)  
-fan - болото  
-fanostan - болото (топь)  
+fan - фан (фанат)  
+fange - болото  
+fangostan - болото (топь)  
 fase - грань  
 fasotele - глубокий  
 fasotelia - мелкий  
 fasile - лёгкий (простой)  
 fasilia da acese - доступность  
 fatige - усталость  
+• faxisme - фашизм  
 faze - фаза  
 fei - лететь (полёт)  
 feimus - летучая мышь  
@@ -392,6 +394,7 @@ fenkate - анализ
 fer - железо  
 • prefere - предпочитать  
 fermium - фермий  
+fete - делать  
 fete - факт  
 • feter - фактор  
 • fetokan - завод (фабрика)  
@@ -1520,6 +1523,7 @@ tunge - боль
 turbe - утруждай  
 • turbin - турбина  
 turbojeter - турбореактивный двигатель  
+turfe - торф  
 tuze - кролик (заяц)  
 
 ## U  
@@ -1533,9 +1537,6 @@ unoki lense - монокль
 ure - ура  
 Uran - Уран  
 uranium - уран  
-US
-##   
-
 va - вау!  
 vadosusan - ландыш  
 vaf - собака  
@@ -1556,9 +1557,6 @@ vava bebe - плакса
 vaxe - мыть  
 vaxomaxin - стиральная машина  
 vaxurse - енот  
-Vaxington D
-##   
-
 vei - хвост  
 veilin - уток  
 vende - продать  
@@ -1620,6 +1618,7 @@ xefe - шеф
 xei - вещь  
 xeihal - положение (ситуация)  
 xenon - ксенон  
+• xipete - влажный  
 xixkababe - шиш-кебаб  
 xite - говно (дерьмо)  
 Xiva - Шива  

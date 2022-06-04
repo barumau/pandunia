@@ -4,7 +4,7 @@
 **abete** *jodła* ← spa:por:abeto  
 **able** *móc, umieć* ← tur:bilmek + fra:habile, spa:por:hábil, eng:able;ability  
 **acar** *marynować* ← fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar  
-**aci** *kichać (apsik!)* ← spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum  
+**aci** *kichać (apsik!)* ← spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), ben:আঁচে (hache), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum  
 **acinium** *aktyn* ← eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم  
 **adal** *sprawiedliwy* ← ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)  
 **adamas** *diament* ← rus:алмаз (almaz), ara: أَلْمَاس‎ (ʾalmās), hin:अलमास (almās), may:almas, swa:almasi, fas: الماس‎ (almâs) + gre:ἀδάμας (adámas), eng:diamond, fra:diamant, spa:por:diamante, jpn:ダイヤモンド (daiyamondo), kor:다이아몬드 (daiamondeu)  
@@ -163,6 +163,7 @@
 **boka** *usta* ← spa:por:boca  
 **bokse** *boks* ← eng:box, deu:Boxen, fra:por:boxe, spa:boxeo, rus:бокс (boks), jpn:ボクシング (bokushingu), kor:복싱 (boksing), hin:बॉक्सिंग (bŏksiṅg), ben:বক্সিং (bôksing), may:boksing, tur:boks  
 **bol** *piłka* ← eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule, balle  
+**bolte** ** ← eng:bolt, fra:boulon, rus:болт (bolt), hin:बोल्ट (bolṭ), jpn:ボルト (boruto), kor:볼트 (bolteu)   
 **bombe** *bomba* ← pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom  
 **bon** *dobry* ← fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)  
 **bore** *znudzony* ← eng:bored, spa:aburrido, hin:(bhorī)  
@@ -333,20 +334,21 @@
 **faine** *delikatny, cienki, lekki* ← eng:fine, spa:por:fino, fra:fin  
 **false** *fałszywy, nieprawdziwy* ← eng:false, spa:por:falso, fra:faux, deu:falsch  
 **famil** *rodzina* ← eng:family, spa:familia, por:família, fra:famille  
-**fan** *błoto* ← fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân  
+**fan** ** ← eng:fra:spa:vie:fan, por:fã, rus:фанат (fanat), zho:粉丝 (fensi), jpn:ファン (fan), kor:팬 (pän)  
+**fange** *błoto* ← fra:fange, spa:fango, hin:पंक (paṅk), tam:(pankam)  
 **fantas** *fantazja (wyobrażenie; wyobrazić, wyobrażać, fantazjować)* ← eng:fra:fantasy, spa:fantasía, por:swa:fantasia, rus:фантазия (fantazija), tur:fantezi, may:fantasi, jpn:ファンタジー (fantajī)  
 **fantom** *duch, fantom* ← eng:phantom, spa:por:fantasma, fra:fantôme, rus:фантом (fantom)  
-**fase** *bandaż, taśma, wstążka* ← ita:fascia, por:faixa, spa:faja  
 **fase** *powierzchnia* ← eng:fra:por:face, spa:faz, deu:Facette  
 **fasile** *łatwy, prosty* ← eng:facility, spa:por:fácil, fra:facile  
 **fasin** *fascynacja* ← eng:fascination, spa:fascinación, deu:Faszination  
 **fason** *moda (trend; modny, popularny)* ← eng:fashion, hin:फैशन (faiśan), jpn:ファッション (fasshon), kor:패션 (pæsyeon), tha:แฟชั่น (feechan), ben:ফ্যাশন (phaśôn)  
 **fatige** *zmęczenie (wyczerpanie; męczyć się, nużyć się)* ← eng:fra:fatigue, spa:fatiga, por:fadiga, ita:fatica  
 **favor** ** ← eng:spa:por:favor, fra:faveur + rus:фаворитизм (favoritizm)  
+**faxe** *bandaż, taśma, wstążka* ← ita:eng:fascia, por:faixa, spa:faja + fra:fascisme, rus:фашизм (fašizm), ara: فَاشِيَّة‎ (fāšiyya), zho:法西斯主义 (fǎxīsīzhǔyì), jpn:ファシズム (fashizumu), kor:파시즘 (pasijeum), vie:chủ nghĩa phát xít, hin:फ़ासीवाद (fāsīvād), may:fasisme ben:ফ্যাসিবাদ (phaśibad)  
 **faze** *etap, faza* ← spa:por:ita:may:fase, eng:fra:phase, rus:фаза (faza), pol:faza, fas:(fāz)  
-**fe** *zrobić (stworzyć,wykreować)* ← fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya  
 **febre** *gorączka* ← por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre  
 **fei** *lot (latać, lecieć)* ← zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay  
+**feke** ** ← eng:feces, fra:fèces, spa:heces, por:fezes+ zho:粪 (fèn), yue:糞 (fan3), vie:phân  
 **fem** *kobieta; kobiecy* ← fra:femme, por:fêmea, eng:female  
 **fen** *dzielić (część, ułamek)* ← zho:分 (fèn), wuu:(fén), yue:(fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)  
 **fente** *wiatr (dmuchać)* ← zho:风 (fēng), yue:風 (fung1), wuu:风 (fong) + eng:fan + rus:фен (fěn) + fra:vent, spa:viento, por:vento  
@@ -354,6 +356,7 @@
 **fermium** *ferm* ← eng:fermium, fra:fermium, spa:fermio, por:férmio, rus:фермий, zho:镄 (fèi), jpn:フェルミウム, kor:페르뮴, vie:fecmi, hin:फर्मियम, ben:ফার্মিয়াম, may:fermium, swa:fermi, ara: فرميوم  
 **feste** *przyjęcie (święto, festiwal)* ← por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')  
 **fete** *zrobić (czyn, uczynek)* ← fra:fait, por:fato, eng:fact, deu:Fakt, rus:факт (fakt), fas:(fâkt)  
+**fete** *zrobić (stworzyć,wykreować)* ← fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya  
 **fi** *fu, fuj* ← eng:fie, fra:fi, rus:фи (fi) + zho:呸 (pēi)  
 **figur** *figura, reprezentacja* ← eng:fra:figure, spa:por:figura  
 **fikre** *myśleć (dumać; myśl, pomysł)* ← ara:(fikr), may:pikir, swa:fikiri, tur:fikir, hin:(fikr), fas:(fekr)  
@@ -1273,8 +1276,6 @@
 **sing** *gwiazda* ← zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)  
 **sing** *lew* ← may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba  
 **sinye** *znak, sygnał* ← eng:sign, spa:señal, por:sinal, fra:signe  
-**sipe** *mokry (wilgotny)* ← zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)  
-**sir** *poemat* ← heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)  
 **sir** *sekret* ← ara: سِرّ (sirr), hin:सेर (ser), may:sir, swa:siri, hau:ful:asiri, yor:àṣírí, tur:sır, fas:(serr)  
 **sire** *sekret* ← ara:(sirr), tur:sır, fas:(serr), swa:siri  
 **sirke** *koło, okrąg* ← eng:circle, spa:por:círculo, fra:cercle  
@@ -1414,7 +1415,7 @@
 **tunike** *tunika, toga* ← spa:túnica, eng:tunic, rus:туника (tunika)  
 **tupe** *kapelusz, czapka* ← may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)  
 **turbe** *przeszkodzić, przeszkadzać, robić kłopot* ← eng:turbid + rus:турбина (turbina), jpn:タービン (tābin), kor:터빈 (teobin) + eng:disturb, fra:perturber, spa:por:perturbar  
-**turfe** ** ← eng:turf, fra:tourbe, spa:tur:turba, por:turfa, rus:торф (torf)  
+**turfe** *torf* ← eng:turf, fra:tourbe, spa:tur:turba, por:turfa, rus:торф (torf)  
 **tuze** *królik, zając* ← zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)  
 **ulule** *wyć* ← deu:Heulen, ita:ululato, tur:uluma, tgl:aulong,   
 **umame** *mięsny (umami)* ← jpn:旨味 (umami), kor:우마미 (umami), eng:fra:por:spa:may:umami, rus:умами (umami)  
@@ -1496,6 +1497,8 @@
 **xeihal** *sytuacja (stan)* ← zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses  
 **xenon** *ksenon* ← eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون  
 **xenseng** *mistrz (sensei)* ← zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生 (sensei), kor:선생 (seonsaeng), vie:tiên sinh, may:sinse, tha:ซินแส (sin-see), eng:sensei  
+**xipe** *mokry (wilgotny; moczyć, zmoczyć)* ← zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)  
+**xir** *poemat* ← heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)  
 **xirope** *syrop* ← ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu), swa:shira  
 **xite** *gówno* ← eng:shit + zho:屎 (shǐ), yue:屎 (si2)  
 **xoke** *szokwstrząs; kolizja* ← eng:shock, fra:choc, spa:por:choque, rus:шок (šok), jpn:ショック (shokku), kor:쇼크 (syokeu), may:syok, tur:şok  

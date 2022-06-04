@@ -283,6 +283,7 @@ bokse - boxe
 bokser - boxeur  
 bokserpante - caleçon  
 bol - balle (boule)  
+bolte - boulon  
 bombe - bombe  
 bon - bon  
 bonsinye - propice  
@@ -464,17 +465,21 @@ exe - extérieur
 
 ## F  
 
-fe - faire  
-fan - boue (fange, bourbe, gadoue)  
-fandefban - garde-boue (aile)  
-fanostan - marécage (marais)  
+fan - fan  
+fanatike - fanatique  
+fange - boue (fange, bourbe, gadoue)  
+fangodefoban - garde-boue (aile)  
+fangostan - marécage (marais)  
 fase - face (facette)  
 fasotele - profond  
 fasile - facile  
 fatige - fatigue  
+• faxisme - fascisme  
 faze - phase  
 fei - voler (vol)  
 feimus - chauve-souris  
+feke - fèces  
+• defeke - déféquer  
 feni - distinct (numérique)  
 fenkate - analyse (analyser)  
 • fentor - ventilateur  
@@ -483,6 +488,7 @@ fer - fer
 • prefere - préférer  
 • refere - référer  
 fermium - fermium  
+fete - faire  
 fete - faire (fait)  
 • feter - faiseur (facteur)  
 • feture - fait (faiture)  
@@ -1526,8 +1532,6 @@ silke - soie
 sing - étoile  
 singofote - étinceler  
 • desinye - désigner  
-sipe - mouiller  
-sipe - mouillé  
 sire - cacher  
 siri mote - célérité  
 sirplan - complot (conspiration)  
@@ -1686,6 +1690,7 @@ turbe - gêner (déranger, perturber)
 • turbin - turbine  
 • disturbe - perturber (turbulence)  
 turbojeter - turboréacteur  
+turfe - tourbe  
 tuze - lapin (lièvre)  
 
 ## U  
@@ -1702,9 +1707,6 @@ ure - hourra
 Uran - Uranus  
 uranium - uranium  
 urse - ours  
-US
-##   
-
 uze - user  
 va - ouah  
 vade - vallée (oued)  
@@ -1726,9 +1728,6 @@ varkolate - page
 vate - objet (article)  
 vava bebe - pleurnicheur (pleurnichard)  
 vaxurse - raton laveur  
-Vaxington D
-##   
-
 veilin - fil de trame  
 vele - voile  
 • devele - dévoiler (révéler)  
@@ -1790,6 +1789,8 @@ xefe - chef
 xei - chose  
 xeihal - situation (état de choses)  
 xenon - xénon  
+xipe - mouiller (mouillé)  
+• xipete - humide  
 xite - merde  
 Xiva - Shiva  
 sis - brochette  

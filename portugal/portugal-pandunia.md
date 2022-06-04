@@ -194,6 +194,7 @@ branco - bake
 bravo (valente, corajoso) - brave  
 bravo! - bravo  
 braço - handoxake  
+brejo (paul) - xipostan  
 bromo - bromium  
 Buda - Buda  
 bule - caipote  
@@ -401,6 +402,7 @@ darmstádio - darmositium
 de - de  
 de luxo - deluxe  
 dedo - angul  
+defecar - defeke  
 deitar - kuse  
 deixar - lase  
 dente-de-leão (taráxaco) - makanful  
@@ -576,7 +578,7 @@ favoritismo - profilisme
 favorito (preferido) - profilaje  
 fazenda (tecido) - texe  
 fazer (fato, facto) - fete  
-fazer - fe  
+fazer - fete  
 fazer malabarismo - jongle  
 fechadura - sor  
 feio - dusvide  
@@ -585,6 +587,7 @@ feliz - suke
 feno - gancau  
 fermentar - biomute  
 ferro - fer  
+fezes - feke  
 fibra - linem  
 filho ou filha - ben  
 filosofia - filsofia  
@@ -614,6 +617,7 @@ funil - darotube
 furar (perfurar) - fore  
 futebol - futobol  
 fácil - fasile  
+fã - fan  
 férmio - fermium  
 fígado - hepate  
 fósforo - pospor  
@@ -791,7 +795,7 @@ ladrilho (telha, azulejo) - tail
 ladrão - luter  
 lagarto - saure  
 lago - lage  
-lama (lodo) - fan  
+lama (lodo) - fange  
 lama - lama  
 lantâno - lantanium  
 lançador de foguetes - roketolancer  
@@ -934,8 +938,7 @@ mol - mole
 moldar (modelar) - plaste  
 moldura - frem  
 molestar (perturber) - turbe  
-molhado - sipe  
-molhar - sipe  
+molhar (molhado) - xipe  
 molho de soja - soisaus  
 molibdénio - molidenium  
 momentâneo - sate di  
@@ -1087,7 +1090,7 @@ papoila - medenpapil
 papoila-dormideira - somopapil  
 par - paran  
 par - parike  
-para-lama - fandefban  
+para-lama - fangodefoban  
 parceiro - partaner  
 parque - parke  
 partida - mace  
@@ -1215,7 +1218,7 @@ pá - belce
 página - varkolate  
 pátria - patria  
 pátria-mãe - matria  
-pântano - fanostan  
+pântano - fangostan  
 pão - pang  
 pícea (espruce) - picea  
 pós-natal - posnatal  
@@ -1490,6 +1493,7 @@ tungsténio - volfram
 turbante - pagre  
 turbina - turbin  
 turbojato - turbojeter  
+turfa - turfe  
 tábua (prancha) - mokoban  
 tábula rasa - razi table  
 tálio - talium  
@@ -1601,6 +1605,7 @@ zumbi - zombi
 ósmio - osmium  
 ótimo (óptimo) - otimal  
 óxide - oxide  
+úmido - xipete  
 único (só) - unike  
 вошь - bio  
 коралл - biu  

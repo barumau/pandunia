@@ -4,7 +4,7 @@
 **abete** *fir tree* ← Spanish:Portuguese:abeto  
 **able** *can (be able; ability, possibility; able, possible)* ← Turkish:bilmek + French:habile, Spanish:Portuguese:hábil, English:able;ability  
 **acar** *pickle* ← Persian:آچار (âčâr), Hindi:अचार (acār), Arabic:اچار‎ (əčar), English:Portuguese:achar, Swahili:achari, Malay:acar  
-**aci** *sneeze (achoo)* ← Spanish:achís, Mandarin: 阿嚏 (ātì), Korean:에취 (echwi), Russian:апчхи, Vietnamese:hắt xì, English:achoo, French:atchoum  
+**aci** *sneeze (achoo)* ← Spanish:achís, Mandarin: 阿嚏 (ātì), Korean:에취 (echwi), Bengali:আঁচে (hache), Russian:апчхи, Vietnamese:hắt xì, English:achoo, French:atchoum  
 **acinium** *actinium* ← English:actinium, French:actinium, Spanish:actinio, Portuguese:actínio, Russian:актиний, Mandarin:锕 (ā), Japanese:アクチニウム, Korean:악티늄, Vietnamese:actini, Hindi:एक्टिनियम, Bengali:অ্যাক্টিনিয়াম, Malay:aktinium, Swahili:aktini, Arabic: اكتنيوم  
 **adal** *just (fair, righteous)* ← Arabic: عدل (’adl), Malay:Turkish:adil, Swahili:adili + Hindi:अदालत (adālat)  
 **adamas** *diamond* ← Russian:алмаз (almaz), Arabic: أَلْمَاس‎ (ʾalmās), Hindi:अलमास (almās), Malay:almas, Swahili:almasi, Persian: الماس‎ (almâs) + gre:ἀδάμας (adámas), English:diamond, French:diamant, Spanish:Portuguese:diamante, Japanese:ダイヤモンド (daiyamondo), Korean:다이아몬드 (daiamondeu)  
@@ -78,7 +78,7 @@
 **avar** *damage (injury, harm)* ← Arabic: عَوَارِيَّة‎ (ʿawāriyya), English:(nautical) average, French:avarie, Spanish:avéria, Portuguese:avaria, Russian:авария (avariya), Turkish:avarya  
 **aven** *oat* ← French:avoine, Spanish:avena, Portuguese:aveia, Russian:овёс (ovyos), Malay:haver  
 **axe** *axis (axle)* ← English:axis, French:axe, Hindi:अक्ष (akṣ), Turkish:eksen  
-**ba** ** ← Mandarin:吧 (ba)  
+**ba** *sentence-ending particle for commands* ← Mandarin:吧 (ba)  
 **babu** *chapter (section)* ← Malay:bab, Arabic:Urdu:Persian:(bāb), Swahili:babu  
 **babuce** *slipper* ← Arabic: بَابُوج‎ (bābūj), Spanish:babucha, French:babouche, English:babouche  
 **babul** *thorn tree (acacia)* ← Hindi:बबूल (babūl), Bengali:বাবলা (bābalā), English:babul  
@@ -163,6 +163,7 @@
 **boka** *mouth* ← Spanish:Portuguese:boca  
 **bokse** *boxing* ← English:box, deu:Boxen, French:Portuguese:boxe, Spanish:boxeo, Russian:бокс (boks), Japanese:ボクシング (bokushingu), Korean:복싱 (boksing), Hindi:बॉक्सिंग (bŏksiṅg), Bengali:বক্সিং (bôksing), Malay:boksing, Turkish:boks  
 **bol** *ball* ← English:ball, Spanish:Portuguese:Malay:Filipino:bola, Thai:บอล (bɔl), Japanese:ボール (bōru), Korean:볼 (bol), Khmer:បាល់ (bal), Bengali:বল (bôl), deu:Ball, French:boule, balle  
+**bolte** *bolt* ← English:bolt, French:boulon, Russian:болт (bolt), Hindi:बोल्ट (bolṭ), Japanese:ボルト (boruto), Korean:볼트 (bolteu)   
 **bombe** *bomb* ← Polish:Portuguese:Spanish:Turkish:bomba, Russian:бомба (bomba), deu:French:bombe, Persian:(bomb), English:bomb, Bengali:বোমা (boma), Hindi:बम (bam), Urdu:(bam), Japanese:ボム (bomu), Korean:봄 (bom), Malay:bom  
 **bon** *good* ← French:bon, Portuguese:bom, Spanish:bueno, + Khmer:បុណ្យ (bon), Thai:บุญ (bun), Telugu:పుణ్యము (puṇyamu)  
 **bore** *bored* ← English:bored, Spanish:aburrido, Hindi:(bhorī)  
@@ -333,26 +334,28 @@
 **faine** *fine (delicate)* ← English:fine, Spanish:Portuguese:fino, French:fin  
 **false** *false (fake)* ← English:false, Spanish:Portuguese:falso, French:faux, deu:falsch  
 **famil** *family* ← English:family, Spanish:familia, Portuguese:família, French:famille  
-**fan** *mud (mire)* ← French:fang, Spanish:fango + English:fen + Mandarin:粪 (fèn), Cantonese:糞 (fan3), Vietnamese:phân  
+**fan** *fan (be a fan, admire)* ← English:French:Spanish:Vietnamese:fan, Portuguese:fã, Russian:фанат (fanat), Mandarin:粉丝 (fensi), Japanese:ファン (fan), Korean:팬 (pän)  
+**fange** *mud (mire)* ← French:fange, Spanish:fango, Hindi:पंक (paṅk), Tamil:(pankam)  
 **fantas** *imagine (fantasize; fantasy, imagination)* ← English:French:fantasy, Spanish:fantasía, Portuguese:Swahili:fantasia, Russian:фантазия (fantazija), Turkish:fantezi, Malay:fantasi, Japanese:ファンタジー (fantajī)  
 **fantom** *ghost (phantom)* ← English:phantom, Spanish:Portuguese:fantasma, French:fantôme, Russian:фантом (fantom)  
-**fase** *bandage (strip, ribbon)* ← Italian:fascia, Portuguese:faixa, Spanish:faja  
 **fase** *surface (face)* ← English:French:Portuguese:face, Spanish:faz, deu:Facette  
 **fasile** *easy* ← English:facility, Spanish:Portuguese:fácil, French:facile  
 **fasin** *fascination* ← English:fascination, Spanish:fascinación, deu:Faszination  
 **fason** *fashion (trend; trendy, popular)* ← English:fashion, Hindi:फैशन (faiśan), Japanese:ファッション (fasshon), Korean:패션 (pæsyeon), Thai:แฟชั่น (feechan), Bengali:ফ্যাশন (phaśôn)  
 **fatige** *fatigue (weariness; tired, weary)* ← English:French:fatigue, Spanish:fatiga, Portuguese:fadiga, Italian:fatica  
 **favor** *favor (goodwill)* ← English:Spanish:Portuguese:favor, French:faveur + Russian:фаворитизм (favoritizm)  
+**faxe** *bandage (strip, ribbon)* ← Italian:English:fascia, Portuguese:faixa, Spanish:faja + French:fascisme, Russian:фашизм (fašizm), Arabic: فَاشِيَّة‎ (fāšiyya), Mandarin:法西斯主义 (fǎxīsīzhǔyì), Japanese:ファシズム (fashizumu), Korean:파시즘 (pasijeum), Vietnamese:chủ nghĩa phát xít, Hindi:फ़ासीवाद (fāsīvād), Malay:fasisme Bengali:ফ্যাসিবাদ (phaśibad)  
 **faze** *stage (phase)* ← Spanish:Portuguese:Italian:Malay:fase, English:French:phase, Russian:фаза (faza), Polish:faza, Persian:(fāz)  
-**fe** *do (make)* ← French:faire, Portuguese:fazer, Italian:fare + Arabic: فَعَلَ‎ (faʿala) + Swahili:fanya  
 **febre** *fiever* ← Portuguese:febre, Spanish:fiebre, deu:Fieber, English:fever, French:fièvre  
 **fei** *fly (flight)* ← Mandarin:飞 (fēi), Cantonese:飛 (fei1), Wu-Chinese:飛 (fi1), Japanese:飛 (hi), Korean:비 (bi), Vietnamese:bay  
+**feke** *feces (shit, poop)* ← English:feces, French:fèces, Spanish:heces, Portuguese:fezes+ Mandarin:粪 (fèn), Cantonese:糞 (fan3), Vietnamese:phân  
 **fem** *female* ← French:femme, Portuguese:fêmea, English:female  
 **fen** *part (fraction; divide, partition)* ← Mandarin:分 (fèn), Wu-Chinese:(fén), Cantonese:(fan), Vietnamese:phần, Thai:ปัน (pan), Japanese:分 (bun), Korean:분 (bun)  
 **fente** *blow (wind)* ← Mandarin:风 (fēng), Cantonese:風 (fung1), Wu-Chinese:风 (fong) + English:fan + Russian:фен (fěn) + French:vent, Spanish:viento, Portuguese:vento  
 **fer** *iron* ← Spanish:hierro, Portuguese:ferro, French:fer, Malay:ferum, Swahili:feri  
 **fermium** *fermium* ← English:fermium, French:fermium, Spanish:fermio, Portuguese:férmio, Russian:фермий, Mandarin:镄 (fèi), Japanese:フェルミウム, Korean:페르뮴, Vietnamese:fecmi, Hindi:फर्मियम, Bengali:ফার্মিয়াম, Malay:fermium, Swahili:fermi, Arabic: فرميوم  
 **feste** *party (celebration, festival; celebrate)* ← Portuguese:festa, Spanish:fiesta, French:fête, deu:Fest, English:festival, Russian:фестиваль (festival')  
+**fete** *do (make)* ← French:faire, Portuguese:fazer, Italian:fare + Arabic: فَعَلَ‎ (faʿala) + Swahili:fanya  
 **fete** *do (make; deed, fact)* ← French:fait, Portuguese:fato, English:fact, deu:Fakt, Russian:факт (fakt), Persian:(fâkt)  
 **fi** *bah!* ← English:fie, French:fi, Russian:фи (fi) + Mandarin:呸 (pēi)  
 **figur** *figure (representation)* ← English:French:figure, Spanish:Portuguese:figura  
@@ -1273,8 +1276,6 @@
 **sing** *lion* ← Malay:singa, Hindi:सिंघ (singh), Bengali:সিংহ (singh), Tamil:சிங்கம் (sinkam), Thai:สิง (sing), Mandarin:狮 (shī), Japanese:獅子 (shishi), + Swahili:simba  
 **sing** *star* ← Mandarin:星 (xīng), Wu-Chinese:星 (xing), Cantonese:星 (sing1), Japanese:星 (sei), Korean:성 (seong)  
 **sinye** *sign (signal)* ← English:sign, Spanish:señal, Portuguese:sinal, French:signe  
-**sipe** *wet (damp, moist)* ← Mandarin:濕 (shī), Cantonese:濕 (sap1), Wu-Chinese:濕 (seq4), Japanese:濕 (shitsu), Korean:습 (seup)  
-**sir** *poem* ← heb:שיר (šir), Arabic:(šiʿr), Turkish:şiir, Persian:(še'r), Swahili:shairi, Mandarin:诗 (shī), Cantonese:詩 (si1), Japanese:詩 (shi), Korean:시 (shi)  
 **sir** *secret (hidden)* ← Arabic: سِرّ (sirr), Hindi:सेर (ser), Malay:sir, Swahili:siri, Hausa:Fulani:asiri, Yoruba:àṣírí, Turkish:sır, Persian:(serr)  
 **sire** *secret* ← Arabic:(sirr), Turkish:sır, Persian:(serr), Swahili:siri  
 **sirke** *circle (round)* ← English:circle, Spanish:Portuguese:círculo, French:cercle  
@@ -1496,6 +1497,8 @@
 **xeihal** *situation (circumstances, state of affairs)* ← Mandarin:事态 (shìtài), Japanese:事態 (jitai), English:state of affairs, French:état des choses  
 **xenon** *xenon* ← English:xenon, French:xénon, Spanish:xenón, Portuguese:xénon, Russian:ксенон, Mandarin:氙 (xiān), Japanese:キセノン, Korean:크세논, Vietnamese:xenon, Hindi:ज़ेनान, Bengali:জেনন, Malay:xenon, Swahili:zenoni, Arabic: إكسينون  
 **xenseng** *master (sensei)* ← Mandarin:先生 (xiānshēng), Cantonese:先生 (sin1saang1), Japanese:先生 (sensei), Korean:선생 (seonsaeng), Vietnamese:tiên sinh, Malay:sinse, Thai:ซินแส (sin-see), English:sensei  
+**xipe** *wet* ← Mandarin:濕 (shī), Cantonese:濕 (sap1), Wu-Chinese:濕 (seq4), Japanese:濕 (shitsu), Korean:습 (seup)  
+**xir** *poem* ← heb:שיר (šir), Arabic:(šiʿr), Turkish:şiir, Persian:(še'r), Swahili:shairi, Mandarin:诗 (shī), Cantonese:詩 (si1), Japanese:詩 (shi), Korean:시 (shi)  
 **xirope** *syrup* ← Arabic:(šarāb), Portuguese:xarope, English:syrup, Turkish:şurup, Japanese:シロップ (shiroppu), Swahili:shira  
 **xite** *shit (poop, feces)* ← English:shit + Mandarin:屎 (shǐ), Cantonese:屎 (si2)  
 **xoke** *shock (collision)* ← English:shock, French:choc, Spanish:Portuguese:choque, Russian:шок (šok), Japanese:ショック (shokku), Korean:쇼크 (syokeu), Malay:syok, Turkish:şok  
