@@ -24,8 +24,6 @@ Its words have been borrowed from many languages on all continents and all cultu
 The second version of Pandunia was published in September 2021.
 It includes simpler grammar, more international word forms, and many new words.
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
-
 ## How to learn it?
 
 - [Pandunia in a nutshell](003_baze.md) (one short page only!)
@@ -77,4 +75,6 @@ Please help to [translate this site](tarja_netoloke.md) into new languages!
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
 [risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
+
+![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
