@@ -106,7 +106,7 @@ Pandunia words can be ambiguous because they often have more meanings compared t
 
 But actually the meaning is clear in the real context:
 
-**tri nen chen, mi ha du mau e un vaf. mi mas ha un fem ben. ye ama mau!**
+**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. ye ama mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time

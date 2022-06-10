@@ -33,7 +33,7 @@ Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do nie
 – dwie gwiazdy  
 **tri sing**
 – trzy gwiazdy  
-**shau sing**
+**xau sing**
 – trochę gwiazd  
 **poli sing**
 – wiele gwiazd

@@ -59,11 +59,11 @@
           – Oni parolas pandunian.
     - En la _ĉarnira konstruo_ la objekto de la unua verbo
       rolas kiel la subjekto de la dua verbo.
-        - **mi ching tu loga la pandunia.**
+        - **mi cing tu loga la pandunia.**
           – Mi petas ke vi parolas Pandunia.
     - Oni povas forĵeti pronomojn kiam ili estas nenecesaj.
-        - **_mi_ ching _tu_ loga la pandunia.**
-          → **ching loga la pandunia.**
+        - **_mi_ cing _tu_ loga la pandunia.**
+          → **cing loga la pandunia.**
           – Bonvolu paroli Pandunian.
 10. **Vortfarado:**
    Oni povas krei novajn vortojn kunmetante aliajn vortojn.

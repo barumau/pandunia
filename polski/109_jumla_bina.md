@@ -6,7 +6,7 @@ Obserwacje to najprostszy typ zdania. Mogą się składać z tylko jednego słow
 
 **mau!**
 – Kot!  
-**shava!**
+**xava!**
 – Pada!
 
 
@@ -160,16 +160,16 @@ W pewnych typach wyrażeń zaimki są opuszczane dla zwięzłości. Dochodzi do 
 
 #### 7.8.1. Krótka struktura osiowa (VOVO)
 
-**mi sual tu basha pandunia.**
+**mi sual tu baxa pandunia.**
 – Pytam mówisz w Pandunia.  
-**sual tu basha pandunia?**
+**sual tu baxa pandunia?**
 – Czy mówisz w Panduni?
 
 #### 7.8.2. Krótka struktura osiowa (VVO)
 
-**mi ching tu lai dom.**
+**mi cing tu lai dom.**
 – Proszę cię, żebyś wrócił do domu.  
-**ching lai dom!**
+**cing lai dom!**
 – Proszę, wróć do domu! (Dosłownie _Prosić wrócić dom!_)
 
 
@@ -354,7 +354,7 @@ Przysłówek rozpoczyna wyrażenie przyimkowe. W prostym wyrażeniu przyimkowym 
 – Jestem w hotelu.  
 **mi sona na hotel.**
 – Śpię w hotelu.  
-**mi sona ze sham to suba.**
+**mi sona ze xam to suba.**
 – Śpię od wieczora do rana.  
 **mi safar ze London do Paris.**
 – Podróżuję od Londynu do Paryża.
@@ -421,11 +421,11 @@ Przyimki nie są używane tak często w Panduni jak w języku polskim. W wielu z
 – Przychodzę do domu.  
 **tu side na kursi.**
 – Siedzisz na krześle.  
-**ye kushe na sofa.**
+**ye kuxe na sofa.**
 – Leży na sofie.  
-**peshe boi na sui.**
+**pexe boi na sui.**
 – Ryba pływa w morzu.  
-**jang ja marche na dau.**
+**jang ja marce na dau.**
 – Wojownicy maszerują na drodze.
 
 
@@ -440,7 +440,7 @@ Przyimek **ka** wyraża sposób lub styl. Odpowiada polskojęzycznym przyimkom _
 
 **ka** jest też używany, gdy porównywane są przymiotniki.
 
-**bacha si min dai ka papa.**
+**baca si min dai ka papa.**
 – Dziecko jest mniejsze niż ojciec.
 **lau papa si par dai ka papa.**
 – Dziadek jest tak duży jak ojciec.

@@ -61,9 +61,9 @@ La montrovorto estas:
 **la**
 – la
 
-**ni she si bon.**
+**ni xe si bon.**
 – ĉi tiu (aĵo) estas bone.  
-**go she si dus.**
+**go xe si dus.**
 – Tiu (aĵo) estas malbone.  
 **mi vol ni buku, no go.**
 – mi volas ĉi tiun libron, ne tiun.
@@ -76,7 +76,7 @@ La montrovorto estas:
 
 **ke?**
 – Kiu?/Kio?  
-**ke she?**
+**ke xe?**
 – Kio? (Kiu afero?)  
 **ke jen?**
 – Kiu? (Kiu persono?)  

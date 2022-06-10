@@ -66,11 +66,11 @@ Ellas se describien en más detalle más tarde en este sitio.
           – Uno habla Pandunia.
     - En la _structura de eje_, el objeto del verbo transitivo
       funcciona como el subjeto del verbo siguiente.
-        - **mi ching tu loga la pandunia.**
+        - **mi cing tu loga la pandunia.**
           – Yo te pido a tú hablar Pandunia.
     - Pronombres se pueden omitir cuando son obvios y superfluos.
-        - **_mi_ ching _tu_ loga a pandunia.**
-          → **ching loga a pandunia.**
+        - **_mi_ cing _tu_ loga a pandunia.**
+          → **cing loga a pandunia.**
           – Por favor habla Pandunia.
 10. **Construcción de las palabras:**
    En Pandunia, palabras se cambian solo cuando su significado se cambia.

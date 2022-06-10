@@ -146,7 +146,7 @@ trudne sylaby, na przykład "sprints" (CCCVNCC) w angielskim i
 
 Pandunia jest gdzieś po środku. Większość słów składa się z prostych
 sylab CV, ale są możliwe też bardzej skomplikowane, szczególnie w
-międzynarodowo znanych słowach technicznych. Na przykład **kristal**
+międzynarodowo znanyc słowac technicznych. Na przykład **kristal**
 (kryształ) jest uznawany za skomplikowane słowo w Panduni. Z bardziej
 złożonymi zapożyczeniami można sobie poradzić na dwa sposoby.
 

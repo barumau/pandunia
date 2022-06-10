@@ -59,7 +59,7 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 = kaksi tähteä  
 **tri sing**
 = kolme tähteä  
-**shau sing**
+**xau sing**
 = vähän tähtiä  
 **poli sing**
 = paljon tähtiä
@@ -90,7 +90,7 @@ Järjestysluvut muodostetaan partikkelilla **me**.
   – viides
 - **luka me**
   – kuudes
-- **cheti me**
+- **ceti me**
   – seitsemäs
 - **bati me**
   – kahdeksas
@@ -193,7 +193,7 @@ ja niin edelleen.
    – perjantai
 6. **var luka**
    – lauantai
-7. **var cheti**
+7. **var ceti**
    – sunnuntai
 
 #### Kuukaudet
@@ -215,7 +215,7 @@ mutta tällä kertaa käytetään apuna sanaa
   – toukokuu
 6. **mes luka**
   – kesäkuu
-7. **mes cheti**
+7. **mes ceti**
   – heinäkuu
 8. **mes bati**
   – elokuu

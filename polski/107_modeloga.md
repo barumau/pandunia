@@ -38,7 +38,7 @@ W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem l
 – Ja _dobrze_ śpię.  
 **mi sona _bon_.**
 – Śpię _dobrze_.  
-**tu basha pandunia _bon_.**
+**tu baxa pandunia _bon_.**
 – Mówisz w Panduni _dobrze_.
 
 

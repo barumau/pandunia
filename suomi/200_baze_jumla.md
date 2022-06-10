@@ -38,10 +38,10 @@ Huomenta!
 **salam den!**
 Päivää!
 
-**salam sham!**
+**salam xam!**
 Iltaa!
 
-**salam noche!**
+**salam noce!**
 Hyvää yötä!
 
 **salam yam!**
@@ -71,31 +71,31 @@ indonesia: selamat.</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**shukur!**
+**xukur!**
 Kiitos!
 
-**poli shukur!**
+**poli xukur!**
 Paljon kiitoksia!
 
-**ya, shukur.**
+**ya, xukur.**
 Kyllä, kiitos.
 
-**no, shukur.**
+**no, xukur.**
 Ei, kiitos.
 
-**shukur tu.**
+**xukur tu.**
 Kiitos sinulle.
 
-**mi shukur tu.**
+**mi xukur tu.**
 Minä kiitän sinua.
 
-**mi shukur tu mede mi.**
+**mi xukur tu mede mi.**
 Minä kiitän sinua minun auttamisesta.
 
-**shukur tu mede mi.**
+**xukur tu mede mi.**
 Kiitos kun autoit minua.
 
-**no yau shukur.**
+**no yau xukur.**
 Ole hyvä. (Sanan mukaisesti: _Ei tarvitse kiittää._)
 
 
@@ -527,9 +527,9 @@ on samalla paikalla kuin normaalissakin lauseessa.
 **mi vol yam kafe.**
 Minä haluan juoda kahvia.
 
-**sual tu vol yam chai?**
+**sual tu vol yam cai?**
 Haluaisitko juoda teetä.
-**no. mi no vol chai. mi vol kafe.**
+**no. mi no vol cai. mi vol kafe.**
 Ei, minä en halua teetä. Minä haluan kahvia.
 
 **tu vol ke aple?**
@@ -541,27 +541,27 @@ Tuon punaisen.
 
 ### ching <small>pyytää</small>
 
-**mi ching tu yam chai.**
+**mi cing tu yam cai.**
 Minä pyydän sinua juomaan teetä.
 
-**mi ching tu lai dom.**
+**mi cing tu lai dom.**
 Minä pyydän sinua tulemaan kotiin.
 
-**mi ching tu mede mi.**
+**mi cing tu mede mi.**
 Minä pyydän sinua auttamaan minua.
 
 Vinkki: Pyynnöt muodostetaan jättämällä pronominit pois.
 
-**ching yam chai.**
+**cing yam cai.**
 Juopa teetä.
 
-**ching yam kafe.**
+**cing yam kafe.**
 Juopa kahvia.
 
-**ching lai dom.**
+**cing lai dom.**
 Tulepa kotiin.
 
-**ching helpe mi.**
+**cing helpe mi.**
 Autapa minua.
 
 
@@ -631,10 +631,10 @@ En ymmärrä yhtään.
 
 ### bil <small>osata</small>
 
-**mi bil shofer un kar.**
+**mi bil xofer un kar.**
 Osaan ajaa autolla.
 
-**ye no bil shofer un kar.**
+**ye no bil xofer un kar.**
 Hän ei osaa ajaa autolla.
 
 **suala tu abla reibona ya?**
@@ -649,10 +649,10 @@ Minä osaan panduniaa.
 **mi bil lili da pandunia.**
 Minä osaan vähän panduniaa.
 
-**mi no bil english.**
+**mi no bil englix.**
 Minä en osaa englantia.
 
-**maf. mi no bil tu su basha.**
+**maf. mi no bil tu su baxa.**
 Anteeksi, en osaa sinun kieltäsi.
 
 
@@ -686,7 +686,7 @@ Kuuntele minua!
 **mi no bil audi tu.**
 En voi kuulla sinua.
 
-**ching loga mas lika.**
+**cing loga mas lika.**
 Puhuisitko kovempaa.
 
 **mi audi muzika.**
@@ -708,7 +708,7 @@ Nähdään taas!
 **vide tu na pos den!**
 Nähdään huomenna!
 
-**mi vide ye na chen den.**
+**mi vide ye na cen den.**
 Minä näin hänet eilen.
 
 
@@ -731,23 +731,23 @@ Minä en ymmärrä mitä se tarkoittaa.
 
 ### kitabu <small>kirjoittaa</small>
 
-**ching kitabu tu su adres.**
+**cing kitabu tu su adres.**
 Kirjoittaisitko osoitteesi.
 
-**ching kitabu ye na ni.**
+**cing kitabu ye na ni.**
 Kirjoittaisitko sen tähän!
 
 
 
 ### basha <small>puhua kieltä, kommunikoida</small>
 
-**sual tumon basha pandunia.**
+**sual tumon baxa pandunia.**
 Puhutteko te panduniaa?
 
-**mimon basha pandunia.**
+**mimon baxa pandunia.**
 Me osaamme puhua panduniaa.
 
-**sual tu bil basha english?**
+**sual tu bil baxa englix?**
 Osaatko puhua englantia?
 
 **france, espanya, portugal, rus**
@@ -790,7 +790,7 @@ Menkäämme jalan!
 
 ### lai <small>tulla</small>
 
-**ching lai!**
+**cing lai!**
 Tule tänne!
 
 **tu lai ze ke?**
@@ -858,7 +858,7 @@ Astuko tässä hotellissa?
 
 ### dele <small>odottaa</small>
 
-**ching dele!**
+**cing dele!**
 Odota!
 
 **dele do mi!**
@@ -883,7 +883,7 @@ Minä olen tervehtimässä sinun ystävääsi.
 **la man ya zai vide un filme.**  
 Mies on katsomassa filmiä.
 
-**ye zai si shefe.**  
+**ye zai si xefe.**  
 Hän on päällikkö (parhaillaan).
 
 **ye zai na dom.**  
@@ -898,7 +898,7 @@ Minä tervehdin sinun ystävääsi.
 **la man ya pas vide un filme fem.**  
 Mies katsoi elokuvaa.
 
-**ye pas si shefe.**  
+**ye pas si xefe.**  
 Hän oli ennen päällikkö.
 
 **ye pas na dom.**  
@@ -913,7 +913,7 @@ Minä olen tervehtinyt ystävääsi.
 **la man le vide un filme.**  
 Mies on katsonut filmin.
 
-**ye le si shefe.**  
+**ye le si xefe.**  
 Hän on ollut päällikkö.
 
 **ye le na la dom.**  
@@ -922,15 +922,15 @@ Hän on ollut kotona.
 
 ### sha <small>myöhemmin, jatkossa</small>
 
-**mi sha salam tu su dosti.**  
+**mi xa salam tu su dosti.**  
 Minä tervehdin ystävääsi (jatkossa).
 
-**la man sha vide la filme.**  
+**la man xa vide la filme.**  
 Mies tulee katsomaan filmin.
 
-**ye sha si shefe.**  
+**ye xa si xefe.**  
 Hän tulee olemaan päällikkö.
 
-**ye sha na dom.**  
+**ye xa na dom.**  
 Hän tulee olemaan kotona.
 

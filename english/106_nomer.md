@@ -63,7 +63,7 @@ They are put before the word or phrase that they qualify.
 – two stars  
 **tri sing**
 – three stars  
-**shau sing**
+**xau sing**
 – few stars  
 **poli sing**
 – many stars
@@ -92,7 +92,7 @@ Ordinal numbers are created with the particle **me**.
   – fifth
 - **luka me**
   – sixth
-- **cheti me**
+- **ceti me**
   – seventh
 - **bati me**
   – eighth
@@ -197,7 +197,7 @@ and so on.
    – Friday
 6. **var luka**
    – Saturday
-7. **var cheti**
+7. **var ceti**
    – Sunday
 
 #### Months
@@ -219,7 +219,7 @@ but this time the word
   – May
 6. **mes luka**
   – June
-7. **mes cheti**
+7. **mes ceti**
   – July
 8. **mes bati**
   – August

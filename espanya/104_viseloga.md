@@ -65,7 +65,7 @@ Los demostrativos en Pandunia son:
 En Pandunia, **ni**, **go**, y **la** funciona solo como modificadores,
 y requieren un sustantivo despés.
 Para usarlos como pronombres, un sustantivo genérico como
-**she**
+**xe**
 («cosa») se necesita poner después.
 
 El demostrativo proximal
@@ -75,9 +75,9 @@ El demostrativo distal
 **go**
 indica cosas que están lejos del orador.
 
-**ni she si bon.**
+**ni xe si bon.**
 – Esta (cosa) es buena.  
-**go she si dus.**
+**go xe si dus.**
 – Esa (cosa) es mala.  
 **mi vol ni buku, no go.**
 – Quiero este libro, no ese.
@@ -88,7 +88,7 @@ no espicifica distancia fisical,
 pero se usan cuando el orador ya mencionó el objeto o persona en cuestión,
 o es conocido por el oyente o es de interés actual en el discurso.
 
-**ni she si mau. ye vol yam go mushu.**
+**ni xe si mau. ye vol yam go muxu.**
 – Ese es gato.  Quiere comer ese ratón.
 
 **mi ten un mau e un vaf. la vaf si dai. ye yam poli yam.**
@@ -108,9 +108,9 @@ y **go** refiere a cosas que se dirán en el futuro.
 
 Arriba, **ni jumle** (_esta oración_) refiere a la oración que se está hablando.
 
-**mi mana go she: mi ama tu.**
+**mi mana go xe: mi ama tu.**
 – Significo esto: te amo. (Significo que te amo.)  
-**mi ama tu. mi mana la she.**
+**mi ama tu. mi mana la xe.**
 – Te amo. Esa es la que significo.
 
 Arriba, **go she** refiere al contenido de la oración siguiente,
@@ -127,7 +127,7 @@ Funciona como las palabras españoles _qué_, _quién_, y _cuál_.
 
 Para formar otros pronombres interogativos, **ke** se combina con sustantivos genéricos.
 
-**ke she?**
+**ke xe?**
 – ¿Cuál? (¿Qué cosa?)  
 **ke jen?**
 – ¿Quién? (¿Qué persona?)  

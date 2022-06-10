@@ -202,7 +202,7 @@ pouvez librement choisir lequel utiliser pour saluer les gens.
 – Bonjour | Salut, maman !  
 **halo, papa!**
 – Bonjour | Salut, papa !  
-**salam, shefe!**
+**salam, xefe!**
 – Salut, chef !
 
 
@@ -227,7 +227,7 @@ saluer
 mère, maman  
 **papa**
 père, papa  
-**shefe**
+**xefe**
 chef, patron
 
 
@@ -250,20 +250,20 @@ chef, patron
 **halo!**
 = Bonjour !  
 <big>🧓</big>
-**halo! ching side.**
+**halo! cing side.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
-**shukur.**
+**xukur.**
 = Merci.  
 <big>🧓</big>
-**ching yam kafe o chai.**
+**cing yam kafe o cai.**
 = Prenez du thé ou du café, je vous prie
 <big>🧒</big>
-**mi vol chai. shukur.**
+**mi vol cai. xukur.**
 = Je prends du thé, merci.  
 ...  
 <big>🧓</big>
-**ching salam tu su mama!**
+**cing salam tu su mama!**
 = S'il te plaît, salut ta mère.  
 <big>🧒</big>
 **mi salam ye. salam reste!**
@@ -282,12 +282,12 @@ sexes des pronoms à la troisième personne ou de n'importe quels
 autres pronoms. Tous les pronoms personnels sont présents dans la
 phrase suivante.
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = Je te demande de le/la saluer.
 
 Cette phrase a une _structure pivot_.
 Le premier verbe
-**ching**
+**cing**
 (demander) s'adresse à
 **tu**
 comme objet. Dans le même temps
@@ -313,13 +313,13 @@ auditeurs savent de qui il parle. Il n'est donc pas nécessaire de les
 répéter sans cesse. De cette manière, les phrases peuvent être
 raccourcies.
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = Je te demande de le/la saluer.  
-**ching salam ye.**
+**cing salam ye.**
 = S'il te plaît salue le/la.
 
 Avez-vous noté comment la traduction de
-**ching**
+**cing**
 a changé entre les deux phrases ?
 Le sens du mot – le concept –, n'a pas changé, c'est son utilisation qui a changé.
 Le français reflète ce changement en
@@ -329,18 +329,18 @@ des mots différents. C'est un principe en Pandunia qu'il y ait toujours exactem
 On ne crée pas différents mots simplement parce que le rôle grammatical d'un concept change.
 
 La phrase
-**ching salam ye**
+**cing salam ye**
 est un modèle très utile pour les formules de politesses.
 
-**ching side.**
+**cing side.**
 = Asseyez-vous s'il vous plaît..  
-**ching don yo kafe.**
+**cing don yo kafe.**
 = S'il vous plaît, donnez-moi du café.  
-**ching don yo chai.**
+**cing don yo cai.**
 = S'il vous plaît, donnez-moi du thé. 
-**ching yam yo chai.**
+**cing yam yo cai.**
 = S'il vous plaît, prenez un peu de thé.  
-**ching safa la kamar.**
+**cing safa la kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec
@@ -348,7 +348,7 @@ Les ordres sont données avec
 (ordonner). Ils utilisent la même structure de pivot que les requêtes avec
 **ching**.
 
-**amir don yo chai.**
+**amir don yo cai.**
 = Donnez-moi du thé !  
 **amir safa la kamar.**
 = Nettoiez la chambre !
@@ -373,13 +373,13 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
-**chai**
+**cai**
 thé  
-**ching**
+**cing**
 demander (poliment), s'il-vous-plaît  
 **don**
 donner  
-**shukur**
+**xukur**
 merci  
 **e**
 et  
@@ -416,22 +416,22 @@ manger ou boire, consommer
 ### Dialogue
 
 <big>👩‍🍳</big>
-**salam! sual tu yam kafe o chai?**
+**salam! sual tu yam kafe o cai?**
 = Bonjour ! Prenez-vous du café ou du thé ?  
 <big>🧔</big>
-**chai.**
+**cai.**
 = Du thé.  
 <big>👩‍🍳</big>
 **e tu?**
 = Et vous ?  
 <big>🧓</big>
-**mi no basha pandunia...**
+**mi no baxa pandunia...**
 = Je ne parle pas le Pandunia...  
 <big>👩‍🍳</big>
-**maf! sual ye yam chai?**
+**maf! sual ye yam cai?**
 = Pardon ! prend-il du thé ?  
 <big>🧔</big>
-**no. ye no yam chai. ye yam kafe.**
+**no. ye no yam cai. ye yam kafe.**
 = Non. Il ne prend pas de thé. Il prend du café.  
 <big>👩‍🍳</big>
 **sual tu yam supe?**
@@ -446,7 +446,7 @@ manger ou boire, consommer
 **no yam.**
 = Non.  
 <big>👩‍🍳</big>
-**shukur. mi dona un chai e un kafe e un supe pos des minute.**
+**xukur. mi dona un cai e un kafe e un supe pos des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
 
 Note : **sa bade da** est une expression qui signifie "dans (tant de temps)"
@@ -456,11 +456,11 @@ Note : **sa bade da** est une expression qui signifie "dans (tant de temps)"
 
 Les questions auxquelles on peut répondre par _oui_ ou par _non_ ont la même structure pivot que les requêtes formulées avec **pliza ** que vous avez appris dans la leçon précédente. Les phrases interrogatives sont introduites avec **eska** = demander, questionner.
 
-**mi sual tu yam chai.**
+**mi sual tu yam cai.**
 = Je vous demande si vous buvez du thé.  
-**sual tu yam chai?**
+**sual tu yam cai?**
 = Buvez-vous du thé ?  
-**sual yam chai?**
+**sual yam cai?**
 = Du thé ?
 
 Les demandes s'adressent généralement à des interlocuteurs directs,
@@ -469,7 +469,7 @@ Par conséquent, le deuxième pronom est habituellement nécessaire. Il
 peut être omis seulement quand on a identifié qui est le sujet de la
 discussion.
 
-**sual ye yam chai?**
+**sual ye yam cai?**
 = Est-ce qu'il ou elle prend du thé ?  
 **sual tu yam supe?**
 = Prenez-vous de la soupe ?  
@@ -478,11 +478,11 @@ discussion.
 
 Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
-**sual shefe yam kafe?**
+**sual xefe yam kafe?**
 = Est-ce que le chef prend du café ?  
 **sual papa safa kamar?**
 = Le père nettoie-t-il la chambre ?  
-**sual niki basha pandunia?**
+**sual niki baxa pandunia?**
 = Est-ce que Nicky parle le Pandunia ?
 
 
@@ -543,7 +543,7 @@ pardon, désolé
 minute  
 **no**
 non, pas  
-**basha**
+**baxa**
 parler (une langue)  
 **sui**
 eau  
@@ -590,11 +590,11 @@ le mot **no** nie l'existence de la salutation.
 En Pandunia, la négation affecte le mot qui le suit ;
 le sens de la phrase change donc selon l'emplacement du **no**.
 
-**mi ching tu safa la kamar.**
+**mi cing tu safa la kamar.**
 = Je te demande de nettoyer la chambre.  
-**mi no ching tu safa la kamar.**
+**mi no cing tu safa la kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**mi ching tu no safa la kamar.**
+**mi cing tu no safa la kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
@@ -757,17 +757,17 @@ Il y a également des expressions de temps spécifiques.
 
 **zai**
 = actuellement, en ce moment
-**sha**
+**xa**
 = dans le futur
 
 Les adjectifs pour le passé, le présent et le futur sont **pas, zay**
 et **wil**. Ils peuvent être utilisés pour modifier des noms.
 
-**Sara si mi su pas shefe.**
+**Sara si mi su pas xefe.**
 = Sara est mon ex-patron.  
-**Yusef si mi su zai shefe.**
+**Yusef si mi su zai xefe.**
 = Yusef est mon chef actuel.  
-**Maria si mi su sha shefe.**
+**Maria si mi su xa xefe.**
 = Maria est ma future patronne.
 
 Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements dans le temps. Il suffit de mettre le mot avant le verbe.
@@ -776,7 +776,7 @@ Les mêmes mots sont utilisés lorsque vous parlez d'actions et d'événements d
 = Je l'ai frappé (dans le passé).  
 **mi zai darba ye.**
 = Je le frappe (actuellement)  
-**mi sha darba ye.**
+**mi xa darba ye.**
 = Je le frapperai (dans le futur).
 
 On peut également placer l'expression du temps en fin de phrase.
@@ -786,7 +786,7 @@ On peut également placer l'expression du temps en fin de phrase.
 – Je l'ai frappé par le passé.  
 **mi darba ye na zai.**
 – Je le frappe à présent.  
-**mi darba ye na sha.**
+**mi darba ye na xa.**
 – Je le frapperai dans le futur / à l'avenir.
 
 Il n'est pas nécessaire de répéter les expressions de temps à chaque phrase. Ce serait maladroit.
@@ -829,7 +829,7 @@ fêter, célébrer
 passé, ancien  
 **zai**
 présent, en cours, actuel  
-**sha**
+**xa**
 futur  
 **darba**
 frapper, battre  
@@ -839,9 +839,9 @@ pain
 repas du matin, petit-déjeuner  
 **den**
 jour  
-**noche**
+**noce**
 nuit, soir  
-**chen**
+**cen**
 avant, d'avant  
 **pos**
 après, d'après

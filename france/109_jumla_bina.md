@@ -7,7 +7,7 @@ Elles peuvent ne se construire que d'un mot, ce qui attire l'attention de l'audi
 
 **mau!**
 – Un chat !  
-**shava!**
+**xava!**
 – (Il) pleut !
 
 
@@ -70,7 +70,7 @@ La même règle s'applique aussi pour deux adjectifs.
 
 ### Quand le sujet est un verbe
 
-**chanta si bon.**
+**canta si bon.**
 – Chanter, c'est bon.
 
 
@@ -102,7 +102,7 @@ En pandunia, la voix passive est marquée par le verbe auxiliaire **be**.
 – De la musique est entendue.  
 **pang be baka.**
 – Du pain est cuit.  
-**kupa be parche.**
+**kupa be parce.**
 – La tasse se brise. (La tasse est brisée.)
 
 L'agent peut être introduit après le verbe à l'aide de la particule **da**.
@@ -147,9 +147,9 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Structure pivot brève (VOVO)
 
-**mi sual tu basha pandunia.**
+**mi sual tu baxa pandunia.**
 – Je demande (si) tu parles pandunia.  
-**sual tu basha pandunia?**
+**sual tu baxa pandunia?**
 – Est-ce que tu parles pandunia ?
 
 ###. Short pivot structure (VVO)
@@ -220,11 +220,11 @@ Le sens de la phrase change donc selon l'emplacement du **no**.
 **mi vide no tu a yemon.**
 – Ce n'est pas toi que je vois, mais eux.
 
-**mi ching tu safa la kamar.**
+**mi cing tu safa la kamar.**
 – Je te demande de nettoyer la chambre.  
-**mi no ching tu safa la kamar.**
+**mi no cing tu safa la kamar.**
 – Je NE demande PAS à toi de nettoyer la chambre.  
-**mi ching tu no safa la kamar.**
+**mi cing tu no safa la kamar.**
 – Je te demande de NE PAS nettoyer la chambre.
 
 Les particules **si** et **no** sont également utilisées pour répondre aux questions.
@@ -339,7 +339,7 @@ Elles fonctionnent comme des adjectifs et des verbs, donc elles se placent gén�
 – J'avais des chats.  
 **a mi no zai ha mau.**
 – Mais maintenant je n'ai plus de chats.  
-**bil, mi sha ha mau.**
+**bil, mi xa ha mau.**
 – Peut-être que j'aurai des chats.
 
 On peut aussi utiliser une expression temporelle telle que **sa pase** (dans le passé), etc.
@@ -348,7 +348,7 @@ On peut aussi utiliser une expression temporelle telle que **sa pase** (dans le 
 – J'avais des chats dans le passé.  
 **a mi no ha mau na zai zaman.**
 – Mais je n'ai plus de chats à présent.  
-**bil, mi ha mau na sha zaman.**
+**bil, mi ha mau na xa zaman.**
 – Peut-être aurai-je des chats à l'avenir.
 
 Remarque : les verbes ne sont pas conjugués.

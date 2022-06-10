@@ -76,35 +76,35 @@ is a popular greeting that is used by both religious and non-religious people in
 Indonesian: selamat.</small>
 
 
-### shukur <small>thanks</small>
+### xukur <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**shukur!**
+**xukur!**
 Thanks!
 
-**poli shukur!**
+**poli xukur!**
 Thanks a lot!
 
-**ya, shukur.**
+**ya, xukur.**
 Yes, thank you.
 
-**no, shukur.**
+**no, xukur.**
 No, thank you.
 
-**shukur tu.**
+**xukur tu.**
 Thank you.
 
-**mi shukur tu.**
+**mi xukur tu.**
 I thank you.
 
-**mi shukur tu mede mi.**
+**mi xukur tu mede mi.**
 I thank you for helping me.
 
-**shukur tu mede mi.**
+**xukur tu mede mi.**
 Thanks for helping me.
 
-**no yau shukur.**
+**no yau xukur.**
 You're welcome. (Literally: _No need to thank._)
 
 
@@ -623,13 +623,13 @@ I don't understand at all.
 
 ### bil <small>can</small>
 
-**mi bil shofer un kar.**
+**mi bil xofer un kar.**
 I can drive a car.
 
-**ye no bil shofer un kar.**
+**ye no bil xofer un kar.**
 He/she doesn't know how to drive a car.
 
-**sual tu bil shuli ye?**
+**sual tu bil xuli ye?**
 Do you know how to fix it?
 
 **sual tu bil pandunia?**
@@ -641,10 +641,10 @@ I can speak Pandunia.
 **mi bil lili de pandunia.**
 I can speak a little Pandunia.
 
-**mi no bil english.**
+**mi no bil englix.**
 I can't speak English.
 
-**maf. mi no bil tu su basha.**
+**maf. mi no bil tu su baxa.**
 Sorry, I can't speak your language.
 
 
@@ -698,7 +698,7 @@ See you again!
 **vide tu na pos den!**
 See you tomorrow!
 
-**mi vide ye na chen den.**
+**mi vide ye na cen den.**
 I saw him/her yesterday.
 
 
@@ -726,15 +726,15 @@ Please, write your address.
 Please, write it here!
 
 
-### basha <small>speak a language, communicate</small>
+### baxa <small>speak a language, communicate</small>
 
-**sual tumon basha pandunia.**
+**sual tumon baxa pandunia.**
 Do you speak Pandunia?
 
-**mimon basha pandunia.**
+**mimon baxa pandunia.**
 We speak Pandunia.
 
-**sual tu bil basha english?**
+**sual tu bil baxa englix?**
 Can you speak English?
 
 **france, espanya, portugal, rus**
@@ -902,18 +902,18 @@ He or she has been the chief.
 He or she has been at home.
 
 
-### sha <small>in the future</small>
+### xa <small>in the future</small>
 
-**mi sha salam tu su doste.**  
+**mi xa salam tu su doste.**  
 I will greet your friend.
 
-**la man sha vide la filme.**  
+**la man xa vide la filme.**  
 The man will watch the film.
 
-**ye sha si xefe.**  
+**ye xa si xefe.**  
 He or she will be the chief.
 
-**ye sha na dom.**  
+**ye xa na dom.**  
 He or she will be at home.
 
 
@@ -1019,10 +1019,10 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi shula la pandunia.**
+**mi xula la pandunia.**
 I study Pandunia.
 
-**shou ye do mi na loga buke!**
+**xou ye do mi na loga buke!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.
@@ -1060,7 +1060,7 @@ I rather stand.
 ****
 With pleasure!
 
-**festa shuru na ke zaman?**
+**festa xuru na ke zaman?**
 When does the party begin?
 
 **tu sahi.**

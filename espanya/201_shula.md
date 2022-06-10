@@ -160,7 +160,7 @@ La forma de **salam tu** es útil para decir el nombre de la persona, parentesco
 = ¡Hola, mamá!  
 **halo, papa!**
 = ¡Hola, papá!  
-**salam, shefe!**
+**salam, xefe!**
 = ¡Hola, jefe!  
 
 
@@ -184,7 +184,7 @@ saludar
 mamá, madre, ma  
 **papa**
 padre, papá, pa  
-**shefe**
+**xefe**
 jefe, patrón  
 
 
@@ -210,20 +210,20 @@ Pidiendo
 **halo!**
 = ¡Hola!  
 <big>☺</big>>
-**halo! ching side.**
+**halo! cing side.**
 = ¡ Hola!¡ Por favor sientese!  
 <big>☻</big>>
-**shukur.**
+**xukur.**
 = ¡Gracias!  
 <big>☺</big>>
-**ching yam yo kafe o chai.**
+**cing yam yo kafe o cai.**
 = Por favor beba algo de café o té.  
 <big>☻</big>>
-**mi vol chai. shukur.**
+**mi vol cai. xukur.**
 = Quiero té, gracias.  
 ...  
 <big>☺</big>>
-**ching salam tu su mama!**
+**cing salam tu su mama!**
 = Por favor llevale saludos a tu madre.  
 <big>☻</big>>
 **mi salam ye. salam reste!**
@@ -241,7 +241,7 @@ neutral. No distingue sexos en los pronombres de las terceras personas
 o en otros pronombres. Todos los pronombres personales son usados en
 la siguiente oración.
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = Yo pedirte saludar a él/ella. (Te pido que saludes)
 
 Esta oración es una _oración eje_. El primer verbo, **ching** = pedir,
@@ -261,9 +261,9 @@ seguridad que los oyentes saben de lo que él o ella está hablando.
 Por lo tanto, es innecesario seguir repitiéndolas. De esta manera se
 pueden hacer frases más cortas. 
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = Yo te pido digas hola a él.
-**ching salam ye.**
+**cing salam ye.**
 = Por favor dile hola.
 
 ¿Vea cómo la traducción de **ching** ha cambiado entre las dos frases?
@@ -278,20 +278,20 @@ de algunos cambios de concepto.
 La frase **ching salam ye** tiene un patrón útil que puede ser
 utilizado para hacer peticiones corteses.
 
-**ching side.**
+**cing side.**
 = Por favor sientese.  
-**ching don yo kafe.**
+**cing don yo kafe.**
 = Por favor me da un poco de café.  
-**ching don yo chai.**
+**cing don yo cai.**
 = Por favor me da un poco de té.  
-**ching yam yo chai.**
+**cing yam yo cai.**
 = Por favor beba algo de té.  
-**ching safa la kamar.**
+**cing safa la kamar.**
 = Por favor limpie la habitación.  
 
 Las ordenes son introducidas con **amir** = ordenar. Se utiliza la misma estructura eje como para pedir con **ching**.
 
-**amir don yo chai.**
+**amir don yo cai.**
 = ¡Deme un poco de té!  
 **amir safa la kamar.**
 = ¡Limpie la habitación!
@@ -312,13 +312,13 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 **amir**
 ordenar  
-**chai**
+**cai**
 té  
-**ching**
+**cing**
 pedir, solicitar; por favor  
 **don**
 dar  
-**shukur**
+**xukur**
 gracias  
 **e**
 y  
@@ -361,22 +361,22 @@ Preguntas de Sí o No
 ![](http://www.pandunia.info/grafe/kafekan.png "na kafe kan")  
 
 <big>☺</big>
-**salam! sual tu yam yo kafe o chai?**
+**salam! sual tu yam yo kafe o cai?**
 = ¡Hola! ¿Qué desean tomar café o té?  
 <big>☻</big>
-**chai.**
+**cai.**
 = Té.  
 <big>☺</big>
 **e tu?**
 = ¿Y usted? 
 <big>☹</big>
-**mi no basha pandunia...**
+**mi no baxa pandunia...**
 = Yo no hablo Pandunia...  
 <big>☺</big>
-**maf! sual ye yam chai?**
+**maf! sual ye yam cai?**
 = ¡Perdón! ¿Él toma té?  
 <big>☻</big>
-**no. ye no yam chai. ye yam kafe.**
+**no. ye no yam cai. ye yam kafe.**
 = No. Él no bebe té. Él desea tomar café.  
 <big>☺</big>
 **sual tu yam yo supe?**
@@ -391,7 +391,7 @@ Preguntas de Sí o No
 **no yam.**
 = No.  
 <big>☺</big>
-**shukur! mi don un chai e un kafe e un supe pos des minute.**
+**xukur! mi don un cai e un kafe e un supe pos des minute.**
  = ¡Gracias!. Traeré un té, un café y una sopa en diez minutos.
 
 
@@ -399,20 +399,20 @@ Preguntas de Sí o No
 
 Las preguntas que pueden ser respondidas con “Sí ” o “No” emplea la misma estructura usada con **ching**, lo cual se vio en la lección anterior. Las frases interrogativas se introducen con **sual** = preguntar.
 
-**mi sual tu yam yo chai.**
+**mi sual tu yam yo cai.**
 = Yo preguntarte, tomas té.  
-**sual tu yam yo chai?**
+**sual tu yam yo cai?**
 = ¿Bebes tú té?  
-**sual yam yo chai?**
+**sual yam yo cai?**
 = ¿Bebes té?   
 
 En las peticiones por lo general se refiere a los que se habla, pero las preguntas son a menudo acerca de otras personas. Por lo tanto el pronombre de segunda persona suele ser necesario. Se puede omitir sólo cuando está claro con quien es el tema de discusión.
 
-**sual ye yam yo chai?**
+**sual ye yam yo cai?**
 = ¿Bebe él/ella té?  
 **sual tu yam yo supe?**
 = ¿Come usted sopa?  
-**sual Kamilo basha pandunia?**
+**sual Kamilo baxa pandunia?**
 = ¿Habla Camilo Pandunia?
 
 
@@ -462,7 +462,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 
 ### Vocabulario
 
-**basha**
+**baxa**
 hablar una língua  
 **des**
 diez  
@@ -517,11 +517,11 @@ de **salam** (saludar). En Pandunia la palabra negativa ne se aplica
 a la palabra que la sigue. si que diferentes alcances de negación
 pueden resultar en función de la ubicación de la palabra negativa.
 
-**mi ching tu safa la kamar.**
+**mi cing tu safa la kamar.**
 = Yo te pedi limpiar la habitación.  
-**mi no ching tu safa la kamar.**
+**mi no cing tu safa la kamar.**
 = Yo no te pedi limpiar la habitación.  
-**mi ching tu no safa la kamar.**
+**mi cing tu no safa la kamar.**
 = Yo te pedi no limpiar la habitación.  
 
 La palabra negada puede ser de cualquier tipo: verbo, pronombre, sustantivo, adjetivo y hasta numeral. 
@@ -596,33 +596,33 @@ En adición, hay palabras del tiempo espicificas.
 = más temprano, en el pasado  
 **zai**
 = actualmente, en este momento  
-**sha**
+**xa**
 = más tarde, en el futuro
 
-**sarah si mi su pas shefe.**
+**sarah si mi su pas xefe.**
 = Sara es mi ex-jefa.  
-**yusef si mi su zay shefe.**
+**yusef si mi su zay xefe.**
 = Yusef es mi actual jefe.  
-**maria si mi su sha shefe.**
+**maria si mi su xa xefe.**
 Maria es mi futura jefa.
 
 Las mismas palabras son usadas cuando se habla sobre acciones y
 eventos en el tiempo. Simplemente pone la palabra antes del verbo.
 
-**ye pas si mi su shefe.**
+**ye pas si mi su xefe.**
 = Ella fue mi jefa.  
-**ye zai si mi su shefe.**
+**ye zai si mi su xefe.**
 = Ella es mi jefa.  
-**ye sha si mi su shefe.**
+**ye xa si mi su xefe.**
 = Ella será mi jefa.
 
 También puede usar frases prepocicionales con **na**.
 
-**ye si mi su shefe na pas.**
+**ye si mi su xefe na pas.**
 = Ella fue mi jefa en el pasado.  
-**ye si mi su shefe na zai.**
+**ye si mi su xefe na zai.**
 = Ella es mi jefa en este momento.  
-**ye si mi su shefe na sha.**
+**ye si mi su xefe na xa.**
 = Ella será mi jefa en el futuro.
 
 Nota: el verbo es invariable. No cambia por el tiempo, por tal razón
@@ -644,11 +644,11 @@ que todavía se está hablando en el mismo tiempo.
 En algunas expresiones es pertinente expresar el tiempo. Otras marcas
 de tiempo no son necesarias.
 
-**mi yam yo chai na chen den.**
+**mi yam yo cai na cen den.**
 = Yo tomé té ayer.  
 **ye jene na mes 9.**
 = Él nació en septiembre.  
-**mimon festa na nen 2000 su chen sham.**
+**mimon festa na nen 2000 su cen xam.**
 = Nosotros celebraremos la víspera del año 2000.
 
 ### Ejercicios
@@ -668,13 +668,13 @@ Intenta traducir de Español a Pandunia.
 día  
 **pos den**
 el día siguiente, mañana
-**chen**
+**cen**
 anterior, previo  
-**chen den**
+**cen den**
 el día anterior, ayer  
-**sham**
+**xam**
 noche  
-**chen sham**
+**cen xam**
 la noche anterior, víspera  
 **festa**
 celebrar  
@@ -682,7 +682,7 @@ celebrar
 estar ubicado en (tiempo o espacio); en  
 **pas**
 pasado, antiguo  
-**sha**
+**xa**
 futuro  
 **zai**
 actual, presente
@@ -716,13 +716,13 @@ sea común.
 
 Pueden haber mas de dos verbos en serie.
 
-**mi shula pandunia.**
+**mi xula pandunia.**
 = Yo aprendo pandunia.  
-**mi shuru shula pandunia.**
+**mi xuru xula pandunia.**
 = Yo empiezo a aprender pandunia.  
-**mi vol shuru shula pandunia.**
+**mi vol xuru xula pandunia.**
 = Yo quiero empezar a aprender Pandunia.  
-**mi vol shuru shula loga pandunia.**
+**mi vol xuru xula loga pandunia.**
 = Yo quiero empezar a aprender a hablar Pandunia.
 
 
@@ -741,7 +741,7 @@ Intenta traducir estas oraciones de Español a Pandunia.
 = enfocar, concentrarse.
 **loga**
 = hablar, charlar
-**shuru**
+**xuru**
 = empezar, comenzar.
 **vide**
 = ver, mirar.

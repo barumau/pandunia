@@ -38,7 +38,7 @@ Bonan matenon!
 **salam den!**
 Bonan tagon!
 
-**salam sham!**
+**salam xam!**
 Bonan vesperon!
 
 **salam noce!**
@@ -71,31 +71,31 @@ selamat.</small>
 
 <p style="font-size:5em;">�</p>
 
-**shukur!**
+**xukur!**
 Dankon!
 
-**poli shukur!**
+**poli xukur!**
 Multajn dankojn!
 
-**ya, shukur.**
+**ya, xukur.**
 Jes, danke.
 
-**no, shukur.**
+**no, xukur.**
 Ne, danke.
 
-**shukur tu.**
+**xukur tu.**
 Dankon al vi.
 
-**mi shukur tu.**
+**mi xukur tu.**
 Mi dankas vin.
 
-**mi shukur tu mede mi.**
+**mi xukur tu mede mi.**
 Mi dankas vin pro vi helpis min.
 
-**shukur tu mede mi.**
+**xukur tu mede mi.**
 Dankon pro vi helpis min.
 
-**no yau shukur.**
+**no yau xukur.**
 Ne dankinde.
 
 
@@ -507,9 +507,9 @@ frazoj. La vortordo ne ŝanĝas pro **ke**.
 **mi vol yam kafe.**
 Mi volas trinki kafon.
 
-**sual tu vol yam chai?**
+**sual tu vol yam cai?**
 Ĉu vi volas trinki teon?  
-**no. mi no vol chai. mi vol kafe.**
+**no. mi no vol cai. mi vol kafe.**
 Ne. Mi ne volas teon. Mi volas kafon.
 
 **tu vol ke aple?**
@@ -520,27 +520,27 @@ Tiun ruĝan.
 
 ### ching <small>peti</small>
 
-**mi ching tu yam chai.**
+**mi cing tu yam cai.**
 Mi petas ke vi trinku teon.
 
-**mi ching tu lai dom.**
+**mi cing tu lai dom.**
 Mi petas ke vi venu hejmen.
 
-**mi ching tu mede mi.**
+**mi cing tu mede mi.**
 Mi petas ke vi helpu min.
 
 Noto: Faru mallongajn petojn forlasante la pronomojn.
 
-**ching yam chai.**
+**cing yam cai.**
 Bonvolu trinki teon!
 
-**ching yam kafe.**
+**cing yam kafe.**
 Bonvolu trinki kafon!
 
-**ching lai dom.**
+**cing lai dom.**
 Bonvolu veni hejmen!
 
-**ching mede mi.**
+**cing mede mi.**
 Bonvolu helpi min.
 
 
@@ -604,13 +604,13 @@ Mi komprenas nenion.
 
 ### bil <small>povi</small>
 
-**mi bil shofe un kar.**
+**mi bil xofe un kar.**
 Mi povas konduki aŭton.
 
-**ye no bil shofe un kar.**
+**ye no bil xofe un kar.**
 Ŝi/li ne povas konduki aŭton.
 
-**sual tu bil shuli ye?**
+**sual tu bil xuli ye?**
 Ĉu vi povas ripari ĝin?
 
 **sual tu bil pandunia?**
@@ -622,10 +622,10 @@ Mi povas pandunion.
 **mi bil lili da pandunia.**
 Mi povas ete pandunion.
 
-**mi no bil english.**
+**mi no bil englix.**
 Mi ne povas paroli la anglan.
 
-**maf. mi no bil tu su basha.**
+**maf. mi no bil tu su baxa.**
 Pardonon, mi ne povas paroli vian lingvon.
 
 
@@ -658,7 +658,7 @@ Aŭskulti min!
 **mi no bil audi tu.**
 Mi ne povas aŭdi vin.
 
-**ching loga mas lika.**
+**cing loga mas lika.**
 Bonvolu paroli pli forte.
 
 **mi audi muzika.**
@@ -679,7 +679,7 @@ Mi ĝojas vidi vin!
 **vide tu na pos den!**
 Ĝis la revido morgaŭ!
 
-**mi vide ye na chen den.**
+**mi vide ye na cen den.**
 Mi vidin lin/ŝin hieraŭ.
 
 ### mana <small>signifi</small>
@@ -698,22 +698,22 @@ Mi ne komprenas kion ĝi signifas.
 
 ### kitabu <small>skribi</small>
 
-**ching kitabu tu su adres.**
+**cing kitabu tu su adres.**
 Bonvolu skribi vian adreson.
 
-**ching kitabu ye na ni.**
+**cing kitabu ye na ni.**
 Bonvolu skribi ĝin ĉi tie!
 
 
 ### basha <small>paroli, lingvumi</small>
 
-**sual tumon basha pandunia.**
+**sual tumon baxa pandunia.**
 Ĉu vi parolas pandunion?
 
-**mimon basha pandunia.**
+**mimon baxa pandunia.**
 Ni parolas pandunion.
 
-**sual tu bil basha english?**
+**sual tu bil baxa englix?**
 Ĉu vi povas paroli la anglan?
 
 **france, espan, portugal, rus**
@@ -753,7 +753,7 @@ Ni iru piede!
 
 ### lai <small>veni</small>
 
-**ching lai!**
+**cing lai!**
 Bonvolu veni!
 
 **tu lai ze ke?**
@@ -817,7 +817,7 @@ Mi loĝas en Singapuro.
 
 ### deld <small>atendi</small>
 
-**ching dele!**
+**cing dele!**
 Bonvolu, atendu!
 
 **dele do mi!**
@@ -840,7 +840,7 @@ Mi nune salutas vian amikon.
 **la man ya zai vide un filme.**  
 La viro estas vidanta la virinon.
 
-**ye zai si shefe.**  
+**ye zai si xefe.**  
 Ĝi estas la nuna ĉefo.
 
 **ye zai na dom.**  
@@ -855,7 +855,7 @@ Mi (pasinte) salutis vian amikon.
 **la man ya pas vide un filme fem.**  
 La viro (pasinte) vidis la virinon
 
-**ye pas si shefe.**  
+**ye pas si xefe.**  
 Ĝi estas la pasinta ĉefo.
 
 **ye pas na dom.**  
@@ -870,7 +870,7 @@ Mi estas salutinta vian amikon.
 **la man le vide un filme.**  
 La viro estas vidinta la virinon.
 
-**ye le si shefe.**  
+**ye le si xefe.**  
 Ĝi estas la estinta ĉefo.
 
 **ye le na la dom.**  
@@ -879,15 +879,15 @@ Li estas estinta hejme.
 
 ### sha <small>-os, estonte</small>
 
-**mi sha salam tu su dosti.**  
+**mi xa salam tu su dosti.**  
 Mi salutos vian amikon.
 
-**la man sha vide la filme.**  
+**la man xa vide la filme.**  
 La viro vidos la virinon.
 
-**ye sha si shefe.**  
+**ye xa si xefe.**  
 Ĝi estas la estonta ĉefo.
 
-**ye sha na dom.**  
+**ye xa na dom.**  
 Ĝi estos hejme.
 

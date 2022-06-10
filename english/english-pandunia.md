@@ -66,7 +66,7 @@ afrophile - afrikofiliste
 Afrophilia - afrikofilia  
 afternoon - suarden  
 again (repeatedly) - rio  
-age - sen  
+age - sene  
 aged - sene  
 agent (doer,actor) - ater  
 agglutinating - aglutive  
@@ -310,7 +310,7 @@ bamboo - banse
 banana - banan  
 band (squad, group) - bande  
 bandage (strip, ribbon) - faxe  
-Bangladesh - Banglodes  
+Bangladesh - Banglodex  
 banister (handrail) - langan  
 bank (deposit, save) - banke  
 bank (depository, cache) - bankokan  
@@ -381,9 +381,9 @@ being - esente
 bel (unit) - bel  
 Belarus - Belarus  
 Belgium - Belgia  
-belief (faith, creed) - sin  
+belief (faith, creed) - xin  
 believe (trust, credit) - krede  
-believe - sine  
+believe - xine  
 believer (religious person) - diniste  
 believer (religious person) - krediste  
 Belize - Belize  
@@ -578,7 +578,7 @@ call (voice; summon) - voke
 call on the phone - telfone  
 call out (proclaim) - proklame  
 Callisto - Kalisto  
-calm (peaceful, quiet) - sante  
+calm (peaceful, quiet) - xante  
 Cambodia - Kambozia  
 camel - gamel  
 camera - fotografmaxin  
@@ -657,12 +657,12 @@ Ceres (dwarf planet) - Ceres
 cerium - ceresium  
 Chad - Cadia  
 chain - serser  
-chain - silsil  
+chain - serser  
 chain mail - sernete  
-chain mail - silnete  
+chain mail - sernete  
 chair - korse  
-Champagne - sampan  
-champagne - sampan vin  
+Champagne - xampan  
+champagne - xampan vin  
 champion - campion  
 change (alter, convert) - mute  
 channel (conduct) - kanale  
@@ -687,7 +687,7 @@ chemical element - kimium
 chemistry - kimolojia  
 cherry - cerize  
 cherub - kerube  
-chess - satrange  
+chess - xatrange  
 chest (breast) - sina  
 chestnut - kastan  
 chew - cuve  
@@ -722,7 +722,7 @@ cinematography - kinografia
 cinephile (filmaholic) - kinofilike  
 circle (round) - sirke  
 citizen - cive  
-citizen - desojen  
+citizen - dexojen  
 citrus fruit - limonike  
 city (town) - site  
 civic - civike  
@@ -833,7 +833,7 @@ compassion - konpatia
 compatible (supported) - konfuncable  
 compatible (supported) - konfunsable  
 compatriot (fellow citizen) - konpatrian  
-compatriot - samdese  
+compatriot - samdexe  
 compete (match, contest) - mace  
 compile (pile up together) - konpile  
 compiler - konpiler  
@@ -849,7 +849,7 @@ conceptual - ide
 concert - konserte  
 conclude (close together) - konkluze  
 concrete (material with cement) - beton  
-condition (requirement; require, stipulate) - sarte  
+condition (requirement; require, stipulate) - xarte  
 conduct (lead together) - kondute  
 conductor (director) - konduter  
 conduit (channel) - kanaler  
@@ -923,7 +923,7 @@ coulomb (unit) - kulombe
 counsel - konsele  
 counselor (consultant) - konseler  
 counterclockwise (anticlockwise) - rotolefto  
-country (land, state) - des  
+country (land, state) - dex  
 countryside (rural, rustic) - agrostan  
 coupon - kupon  
 court of law (court of law) - judokan  
@@ -1158,8 +1158,8 @@ door (gate) - mun
 dot (spot) - binde  
 double (twofold) - duple  
 double entendre - dulmene  
-doubt (suspect) - sanke  
-doubtful (suspicious) - sankane  
+doubt (suspect) - xanke  
+doubtful (suspicious) - xankane  
 downgrade - dusdarge  
 download - netogete  
 drag (haul, tow, trail) - trate  
@@ -1185,7 +1185,7 @@ drum - gum
 dry - gane  
 dry season - ganmosim  
 dualism - dulisme  
-dubious (suspicious) - sankable  
+dubious (suspicious) - xankable  
 dubnium - dubnium  
 duck - bata  
 dumpling (ravioli, pelmeni) - pelmen  
@@ -1512,8 +1512,8 @@ forbid (ban, disallow) - harame
 forbidden (illicit, haram, taboo) - harame  
 force (strength, power) - balia  
 force (violence) - zor  
-foreign - exdese  
-foreign country - exdes  
+foreign - exdexe  
+foreign country - exdex  
 forenoon - suboden  
 foresee (anticipate,preview) - previde  
 forest (woods) - van:  
@@ -1775,7 +1775,7 @@ health - salia
 healthy - sale  
 heap (hillock, accumulation; heap up, accumulate) - kumule  
 hear (listen) - aude  
-heart - sim  
+heart - xim  
 heavy - veze  
 heavy metal - veze metal  
 Hebrew - ibre  
@@ -1910,7 +1910,7 @@ imagine (fantasize; fantasy, imagination) - fantas
 imitator (mime) - mimer  
 immigrant - inmigrer  
 immigrate (move in) - inmigre  
-impale (stab, skewer) - sisa  
+impale (stab, skewer) - xixe  
 impel (drive into) - inpele  
 imperialism - imperisme  
 imperialist - imperiste  
@@ -2231,8 +2231,8 @@ line break (newline) - linparce
 linguist - linguiste  
 linguistics - linguolojia  
 linguistics - linguistia  
+link - ser:  
 link - serlinke  
-link - sil  
 lion - sing  
 lip - labe  
 liquor - arake  
@@ -3350,7 +3350,7 @@ reserve (book; reservation, booking, withholding) - rezerve
 resin - rezin  
 respect (honor, esteem) - onor  
 respect (honor, think highly of) - onore  
-rest (relief, repose) - sante  
+rest (relief, repose) - xante  
 rest (repose) - repause  
 rest in peace (RIP) - repause in pace (RIP)  
 restaurant - restorante  
@@ -3439,7 +3439,7 @@ rupture (break) - ruture
 rural village - agrovilaje  
 Russia - Rusia  
 Russian - ruse  
-rustle - sase  
+rustle - xaxa  
 ruthenium - rutenium  
 rutherfordium - ruterfordium  
 Rwanda - Ruanda  
@@ -3489,9 +3489,9 @@ savannah - garmozone caustan
 save (rescue,salvage) - salve  
 savior (rescuer) - salver  
 savory (umami) - umame  
-saw - sere  
-sawdust - serofun  
-sawmill - serokan  
+saw - xere  
+sawdust - xerofun  
+sawmill - xerokan  
 say (talk, speak, tell; speech) - loge  
 saying (diction) - dition  
 scaffolding (gangplank) - futoban  
@@ -3546,7 +3546,7 @@ sell (vend) - vende
 semantics - semolojia  
 semaphore - semoforer  
 sememe - sememe  
-seminal - semene  
+seminal - semenike  
 senator - senater  
 send (emit, transmit) - mise  
 send - mise  
@@ -3559,7 +3559,7 @@ sentence (phrase) - gumle
 sentence-ending particle for commands - ba  
 September - novolun  
 Serbia - Serbia  
-series (sequence) - silia  
+series (sequence) - seria  
 series (sequence,succession) - sere  
 series (sequence,succession) - seria  
 servant - server  
@@ -3576,15 +3576,15 @@ sexology - sexolojia
 sexual (pertaining to gender) - gensi  
 sexual desire (lust) - kamia  
 sexy (sexually arousing) - sexe  
-sexy (sexually arousing) - sexe  
-Seychelles - Seshel nesia  
+sexy (sexually arousing) - sexike  
+Seychelles - Sexel nesia  
 shadow - saye  
 shake (jolt, earthquake) - sisme  
 shallow - fasokaribe  
 shaman - xaman  
-shame (disgrace) - sarme  
+shame (disgrace) - xarme  
 shampoo - kexosabun  
-Shanghai - Shanghai  
+Shanghai - Xanghai  
 share - komune  
 shari'a - islam xaria  
 shark - xarke  
@@ -3597,7 +3597,7 @@ sheep - meh
 shelf (bookshelf) - liboban  
 shell (crust, carapace) - kaske  
 shield - defoban  
-Shintoism - sindavisme  
+Shintoism - xindavisme  
 shirt - kamis  
 shish kebab - xixkababe  
 shit (poop, feces) - xite  
@@ -3624,8 +3624,7 @@ side-effect - parafete
 sideways (laterally) - lato  
 Sierra Leone - Sera Leone  
 sign (autograph) - namkitabe  
-sign (signal) - sinye  
-sign (signal,indication) - sinye  
+sign (signal, indication) - sinye  
 sign language - gestolingue  
 signal - sinyal  
 Sikh - sikiste  
@@ -3638,6 +3637,7 @@ silver - argente
 similar (alike) - home  
 similar (analogous) - samsife  
 simple (not complicated) - simple  
+simplify - simplife  
 simply (merely, only) - sade di  
 sing (song, chant) - cante  
 Singapore - Singapur  
@@ -3706,7 +3706,7 @@ solid - gatomate
 Solomon Islands - Solomon nesia  
 solstice - solestas  
 Somalia - Somalia  
-Somaliland - Somaldes  
+Somaliland - Somaldex  
 someone (somebody) - yo jen  
 something - yo xei  
 sometime - yo sate  
@@ -3770,7 +3770,7 @@ stairs (ladder) - skale
 stand (rack) - libobaze  
 stand - libu  
 stand still - state  
-star - sing  
+star - xing  
 starboard (right side of a ship) - nauraite  
 starship - astronau  
 state (condition, status, situation) - hal  
@@ -3830,7 +3830,7 @@ sugar - sukar
 sugar beet - sukarbete  
 sugar-apple (sweetsop) - ata  
 sugarcane - sukar gana  
-sugary (sweet) - sukare  
+sugary (sweet) - sukari  
 suitable (appropriate, apt, fit) - hape  
 sulfur (brimstone) - sulfe  
 sultanate - sultania  
@@ -3858,7 +3858,7 @@ sustain (hold from below) - subotene
 sustain (hold from below) - subotene  
 suture (seam) - suture  
 Svalbard - Svalbarde  
-Swahili - suahile  
+Swahili - suahili  
 swallow - gule  
 swastika (hooked cross) - hukokrus  
 sweat (perspiration) - suede  
@@ -4133,7 +4133,7 @@ turquoise gem - firuze
 turtle (tortoise) - tortuge  
 Tuvalu - Tuvalu  
 twice - dulmaro  
-twinkle (sparkle) - singofote  
+twinkle (sparkle) - xingofote  
 two (2) - du  
 type (kind, genre) - tipe  
 typewriter - kitabomaxin  

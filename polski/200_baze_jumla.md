@@ -415,7 +415,7 @@ Je jabłko.
 **lole niama aple.**
 Jedzą jabłka.
 
-Uwaga: Inaczej niż język polski, Pandunia nie ma osobnych form pojedynczej i mnogiej. Dlatego słowa jak **aple**
+Uwaga: Inaczej niż język polski, Pandunia nie ma osobnyc form pojedynczej i mnogiej. Dlatego słowa jak **aple**
 mogą się odnosić do jednego lub większej liczby jabłek.
 
 **eska te niama kafe?**

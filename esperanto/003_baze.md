@@ -106,7 +106,7 @@ La vortoj de pandunia ofte havas pli vastan sencon ol la korespondaj esperantaj 
 
 Sed la kunteksto normale klarigas la precizan signifon:
 
-**tri nen chen, mi ha du mau e un vaf. mi mas ha un fem ben. ye ama mau!**
+**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. ye ama mau!**
 – Antaū tri jaroj mi havis du katojn kaj unu hundon. Mi ankaū havis filinon. _Ŝi amis la katojn!_
 
 ### Tempo
@@ -118,7 +118,7 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 (pasinte),
 **le**
 (jam antaŭe) kaj
-**sha**
+**xa**
 (estonte).
 
 **mi zai ama tu.**
@@ -127,7 +127,7 @@ Tensoj kaj aspektoj estas esprimita per adverboj kaj helpantaj verboj, kiel
 – Mi amis vin.  
 **mi le ama tu.**
 – Mi estas aminta vin.  
-**mi sha ama tu.**
+**mi xa ama tu.**
 – Mi amos vin.
 
 ### Pasivo

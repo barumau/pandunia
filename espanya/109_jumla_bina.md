@@ -7,7 +7,7 @@ Pueden consistir en solo una palabra, que llama la atención del oyente.
 
 **mau!**
 – ¡Un gato!  
-**shava!**
+**xava!**
 – ¡Llueve!
 
 ## Oraciones de estado
@@ -65,7 +65,7 @@ La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 – Joven es lindo.  
 **nove no lau.**
 – Nuevo no es viejo.  
-**chanta si bon.**
+**canta si bon.**
 – Cantar es bueno.
 
 
@@ -74,7 +74,7 @@ La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 Un predicado también puede ser un verbo. En este caso, puede haber objetos en adición al sujeto.
 Estes siguen el predicado.
 
-**mi marche.**
+**mi marce.**
 – Yo camino.  
 **tu yam yo aple.**
 – Tú comes manzana.  
@@ -176,9 +176,9 @@ Esto es común especialmente en mandatos y pedidos.
 
 ### Estructura de eje corta (VVO)
 
-**mi ching tu lai do dom.**
+**mi cing tu lai do dom.**
 – Yo te pido que vienes a casa.  
-**ching lai do dom!**
+**cing lai do dom!**
 – ¡Por favor viene a casa!
 (Palabra por palabra: _¡Pedir venir a casa!_)
 
@@ -281,9 +281,9 @@ En Pandunia se usan la palabra **ke**.
 La palabra de pregunta se puede mover al inicio de la oración para enfasís.
 Sin embargo, a diferencia de español, el orden de las palabras también se puede dejar en paz
 
-**ke she tu zai yam?**
+**ke xe tu zai yam?**
 – ¿Qué estás comiendo?  
-**tu zai yam ke she?**
+**tu zai yam ke xe?**
 – ¿Estás comiendo qué?  
 **ye lai na ke sata?**
 – ¿Cuándo llega?  
@@ -381,7 +381,7 @@ El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 
 Expressions are affirmative by default.
 
-**mi si shefe.**
+**mi si xefe.**
 – I am the boss.  
 **ye si nove meza.**
 – It is a new table.
@@ -390,7 +390,7 @@ Affirmation can be emphasized with the adverb
 **ya**
 (_indeed_).
 
-**mi ya si shefe.**
+**mi ya si xefe.**
 – I indeed am the boss.  
 **ye ya si nove meza.**
 – It indeed is a new table.
@@ -399,7 +399,7 @@ Affirmation can be emphasized with the adverb
 
 Such sentences can be simply negated with **no**.
 
-**ye no si shefe.**
+**ye no si xefe.**
 – He is not the boss.  
 **ye no si nove meza.**
 – It's not a new table.
@@ -415,11 +415,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vide no tu a yemon.**
 – I see, not you, but them.
 
-**mi ching tu safa la kamar.**
+**mi cing tu safa la kamar.**
 – I ask you to clean the room.  
-**mi no ching tu safa la kamar.**
+**mi no cing tu safa la kamar.**
 – I do NOT ask you to clean the room.  
-**mi ching tu no safa la kamar.**
+**mi cing tu no safa la kamar.**
 – I ask you NOT to clean the room.
 
 
@@ -513,7 +513,7 @@ They function like adverbs, so typically their place is before the verb.
 – I had cats.  
 **a mi no zai ha mau.**
 – But I now don't have cats.  
-**bil, mi sha ha mau.**
+**bil, mi xa ha mau.**
 – Maybe I will have cats.
 
 It's also possible to say it in a longer way like **na pas zaman** (in the past) etc.
@@ -522,7 +522,7 @@ It's also possible to say it in a longer way like **na pas zaman** (in the past)
 – I had cats in the past.  
 **a mi no ha mau na zai zaman.**
 – But I don't have cats at present.  
-**bil, mi ha mau na sha zaman.**
+**bil, mi ha mau na xa zaman.**
 – Maybe I will have cats in the future.
 
 Note! Verbs are not conjugated.

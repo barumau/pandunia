@@ -48,10 +48,10 @@ Bonjour ! (le matin)
 **salam den!**
 Bonne journée !
 
-**salam sham!**
+**salam xam!**
 Bonsoir !
 
-**salam noche!**
+**salam noce!**
 Bonne nuit !
 
 **salam yam!**
@@ -81,31 +81,31 @@ Remarque : **Salam** est une salutation populaire qui est utilisée à la fois p
 <p style="font-size:5em;">🙏</p>
 
 
-**shukur!**
+**xukur!**
 Merci!
 
-**poli shukur!**
+**poli xukur!**
 Merci beaucoup !
 
-**ya, shukur.**
+**ya, xukur.**
 Oui, merci.
 
-**no, shukur.**
+**no, xukur.**
 Non, merci.
 
-**shukur tu.**
+**xukur tu.**
 Merci à toi.
 
-**mi shukur tu.**
+**mi xukur tu.**
 Je te / vous remercie.
 
-**mi shukur tu mede mi.**
+**mi xukur tu mede mi.**
 Je te remercie de m'avoir aidé.
 
-**shukur tu mede mi.**
+**xukur tu mede mi.**
 Merci de m'avoir aidé.
 
-**no yau shukur.**
+**no yau xukur.**
 Je t'en prie. / Il n'y a pas de quoi.
 
 
@@ -494,9 +494,9 @@ l’ordre des mots n’est pas changé par **ke**, un peu comme en français à 
 **mi vol yam kafe.**
 Je veux boire un café.
 
-**sual tu vol yam chai?**
+**sual tu vol yam cai?**
 Est-ce que tu veux (boire) du thé ?  
-**no. mi no vol chai. mi vol kafe.**
+**no. mi no vol cai. mi vol kafe.**
 Non, Je ne veux pas de thé. Je veux du café.
 
 **tu vol ke aple?**
@@ -508,27 +508,27 @@ La rouge. (mot à mot _cette rouge-ci_)
 
 ### ching <small>demander, s’il vous plait</small>
 
-**mi ching tu yam chai.**
+**mi cing tu yam cai.**
 Je te demande si tu veux du thé.
 
-**mi ching tu lai dom.**
+**mi cing tu lai dom.**
 Je te demande de venir à la maison.
 
-**mi ching tu mede mi.**
+**mi cing tu mede mi.**
 Je te demande de m’aider.
 
 Astuce : Pour créer des demandes directes, retirez les pronoms.
 
-**ching yam chai.**
+**cing yam cai.**
 Prenez un thé, je vous en prie !
 
-**ching yam kafe.**
+**cing yam kafe.**
 Servez-vous un café, faites donc !
 
-**ching lai dom.**
+**cing lai dom.**
 Viens à la maison, s’il te plait !
 
-**ching mede mi.**
+**cing mede mi.**
 Aide moi, s’il te plait.
 
 
@@ -599,13 +599,13 @@ Je n’ai rien compris du tout.
 
 ### abla <small>pouvoir, savoir</small>
 
-**mi bil shofe un kar.**
+**mi bil xofe un kar.**
 Je sais conduire une voiture.
 
-**ye no bil shofe un kar.**
+**ye no bil xofe un kar.**
 Il/elle ne sait pas conduire une voiture.
 
-**sual tu bil shuli ye?**
+**sual tu bil xuli ye?**
 Est-ce que tu sais réparer ça ?
 
 **sual tu bil pandunia?**
@@ -617,10 +617,10 @@ Je peux parler pandunia.
 **mi bil lili da pandunia.**
 Je peux parler un peu pandunia.
 
-**mi no bil english.**
+**mi no bil englix.**
 Je ne parle pas anglais.
 
-**maf. mi no bil tu su basha.**
+**maf. mi no bil tu su baxa.**
 Désolé, je ne parle pas votre langue.
 
 
@@ -636,10 +636,10 @@ Je te parle. (mot à mot : _je parle à toi_)
 **mimon loga do se kon.**
 Nous nous parlons. (mot à mot : _nous parlons à l’un l’autre_)
 
-**mon loga "chat" na ke yang na pandunia?**
+**mon loga "cat" na ke yang na pandunia?**
 Comment se dit « chat » en pandunia ?
 
-**"chat" si ke na pandunia?**
+**"cat" si ke na pandunia?**
 Qu’est-ce que c’est, « chat», en pandunia ?
 
 **mau loga miau.**
@@ -654,7 +654,7 @@ Un chat dit miaou.
 **mi no bil audi tu.**
 Je ne t’entends pas. (Je n’arrive pas à t’entendre)
 
-**ching loga mas lika.**
+**cing loga mas lika.**
 Parlez plus fort, s’il vous plait.
 
 **mi audi muzika.**
@@ -675,7 +675,7 @@ On se voit plus tard ! / À plus tard !
 **vide tu na pos den!**
 On se voit demain ! / À demain !
 
-**mi vide ye na chen den.**
+**mi vide ye na cen den.**
 Je l’ai vu(e) hier.
 
 
@@ -696,22 +696,22 @@ Je ne comprend pas ce que cela signifie.
 
 ### kitaba <small>écrire</small>
 
-**ching kitaba tu su adres.**
+**cing kitaba tu su adres.**
 S’il te plait, écris ton adresse.
 
-**ching kitaba ye na ni.**
+**cing kitaba ye na ni.**
 S’il te plait, écris-le là !
 
 
 ### basha <small>communiquer, parler une langue</small>
 
-**sual tumon basha pandunia.**
+**sual tumon baxa pandunia.**
 Est-ce que vous parlez tous pandunia ?
 
-**mimon basha pandunia.**
+**mimon baxa pandunia.**
 Nous parlons pandunia.
 
-**sual tu bil basha english?**
+**sual tu bil baxa englix?**
 Est-ce que tu parles anglais ?
 
 **france, espan, portugal, rus**
@@ -753,7 +753,7 @@ On y va à pied !
 
 ### lai <small>venir</small>
 
-**ching lai!**
+**cing lai!**
 Viens ici !
 
 **tu lai ze ke?**
@@ -818,7 +818,7 @@ Est-ce que tu résides dans cet hôtel ?
 
 ### deng <small>attendre</small>
 
-**ching dele!**
+**cing dele!**
 Veuillez attendre !
 
 **dele do mi!**
@@ -843,7 +843,7 @@ Je suis en train de saluer ton ami.e.
 **la man ya zai vide un filme.**  
 L'homme est en train de regarder la femme.
 
-**ye zai si shefe.**  
+**ye zai si xefe.**  
 C'est lui le chef / elle la cheffe actuellement.
 
 **ye zai na dom.**  
@@ -858,7 +858,7 @@ J'ai salué ton ami.e.
 **la man ya pas vide un filme fem.**  
 L'homme a regardé / regardait la femme.
 
-**ye pas si shefe.**  
+**ye pas si xefe.**  
 C'était lui le chef. / C'était elle la cheffe.
 
 **ye pas na dom.**  
@@ -873,7 +873,7 @@ J'ai (déjà) salué ton ami.e.
 **la man le vide un filme.**  
 L'homme a (déjà) regardé la femme.
 
-**ye le si shefe.**  
+**ye le si xefe.**  
 Il / Elle a (déjà) été le chef / la cheffe.
 
 **ye le na la dom.**  
@@ -882,16 +882,16 @@ Il / elle a (déjà) été à la maison.
 
 ### sha <small>(événement futur)</small>
 
-**mi sha salam tu su doste.**  
+**mi xa salam tu su doste.**  
 Je saluerai ton ami.e.
 
-**la man sha vide la filme.**  
+**la man xa vide la filme.**  
 L'homme regardera la femme.
 
-**ye sha si shefe.**  
+**ye xa si xefe.**  
 Il sera chef. / Elle sera cheffe.
 
-**ye sha na dom.**  
+**ye xa na dom.**  
 Il / Elle sera à la maison.
 
 
@@ -902,10 +902,10 @@ Il / Elle sera à la maison.
 
 ### don <small>donner</small>
 
-**ching don yo pesa.**
+**cing don yo pesa.**
 Donne-moi de l’argent, s’il te plait.
 
-**ching don ye do mi.**
+**cing don ye do mi.**
 Donne-le moi, s’il te plait.
 
 **mi don ni do tu.**
@@ -923,7 +923,7 @@ Il/elle ne veut pas me le donner.
 **mi kapa un kafe.**
 Je vais prendre un café.
 
-**ching kapa un kafe do mi.**
+**cing kapa un kafe do mi.**
 Prends-moi un café, s’il te plait.
 
 **tu pas kapa pesa ze mi.**
@@ -996,10 +996,10 @@ Viens ici / reviens / vers nous.
 
 
 
-**mi shul le pandunia.**
+**mi xul le pandunia.**
 J’étudie le pandunia.
 
-**shou ya do mi a loga buke!**
+**xou ya do mi a loga buke!**
 Montre-moi dans le dictionnaire !
 **mi no yada.**
 Je ne me souviens pas.
@@ -1029,7 +1029,7 @@ Est-ce que tu aimes… ?
 ****
 Je me sens très bien.
 
-**ching side a yi!**
+**cing side a yi!**
 Assieds-toi là, s’il te plait !
 
 **mi suku stasa.**
@@ -1040,7 +1040,7 @@ Je préfère rester debout.
 ****
 Avec plaisir !
 
-**festa kaishi a ke zaman?**
+**festa kaixi a ke zaman?**
 Quand commence la fête ?
 
 

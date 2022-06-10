@@ -67,7 +67,7 @@ Hace la estructura del frase verbal más claro.
 
 **tu _sundar di_ kitabu.**
 – Tú escribes _hermoso_.  
-**yemon _rapide di_ marche.**
+**yemon _rapide di_ marce.**
 – Ellos caminan _rápido_.
 
 
@@ -124,7 +124,7 @@ En adición es posible poner el adverbo compuesto en el fin de la oración,
 y entonces modifica la oración en conjunto.
 El significado es la misma como cuando el adverbo compuesto modifica el verbo principal.
 
-**mi vol loga _tre muche_.**
+**mi vol loga _tre muce_.**
 – Muchísimo quiero hablar.  
 **sual tu sona _bas bon_?**
 – ¿Sonaste bastante bien?

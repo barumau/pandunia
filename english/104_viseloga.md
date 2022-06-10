@@ -71,7 +71,7 @@ The demonstrative pronouns in Pandunia are:
 In Pandunia, **ni**, **go** and **la** work only as modifiers
 and they always require a noun after them.
 To use them like pronouns, a generic noun like
-**she**
+**xe**
 ('thing') needs to be added after these words.
 
 The proximal demonstrative
@@ -81,9 +81,9 @@ The distal demonstrative
 **go**
 points to things that are far from the speaker.
 
-**ni she si bon.**
+**ni xe si bon.**
 – This (thing) is good.  
-**go she si dus.**
+**go xe si dus.**
 – That (thing) is bad.  
 **mi vol ni buke, no go.**
 – I want this book, not that.
@@ -94,7 +94,7 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ni she si mau. ye vol yam go mushu.**
+**ni xe si mau. ye vol yam go muxu.**
 – This is a cat. It wants to eat that mouse.
 
 **mi ten un mau e un vaf. la vaf si dai. ye yam poli yam.**
@@ -134,7 +134,7 @@ It does the job of English words _who_ and _what_.
 The adjectival interrogative pronoun is also **ke**
 and it means the same as English _which_.
 
-**ke she?**
+**ke xe?**
 – What? (Which thing?)  
 **ke jen?**
 – Who? (Which person?)  

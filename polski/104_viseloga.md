@@ -57,7 +57,7 @@ Zaimki wskazujące to:
 
 Przymiotnikowy zaimek pytający to **ke** i znaczy tyle, co polskie _jaki_.
 
-**ke she?**
+**ke xe?**
 – Co? (Jaka rzecz?)  
 **ke jan?**
 – Kto? (Jaka osoba?)  

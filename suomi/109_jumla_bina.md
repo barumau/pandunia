@@ -7,7 +7,7 @@ Se voi koostua vain yhdestä sanasta, johon puhuja haluaa kuulijan kiinnittävä
 
 **mau!**
 = Kissa!  
-**shava!**
+**xava!**
 = Sataa!  
 
 
@@ -65,7 +65,7 @@ Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeen
 = Nuori on kaunista.  
 **nove no lau.**
 = Uusi ei ole vanha.  
-**chanta si bon.**
+**canta si bon.**
 – Laulaminen on hyvä.
 
 
@@ -75,7 +75,7 @@ Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeen
 
 Aktiivilauseissa predikaatina on verbi eli teonsana.
 
-**mi marche.**
+**mi marce.**
 – Minä kävelen.  
 **mi fikir.**
 – Minä ajattelen.
@@ -180,9 +180,9 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 ### Short pivot structure (VVO)
 
-**mi ching tu lai do dom.**
+**mi cing tu lai do dom.**
 – Minä pyydän sinua tulemaan kotiin.  
-**ching lai do dom!**
+**cing lai do dom!**
 – (Pyydän) tule kotiin!
 
 
@@ -287,9 +287,9 @@ Sanajärjestys on yleensä sama kuin väitelauseissa.
 Kysymyssanan voi myös siirtää lauseen alkuun painottamaan sen merkitystä.
 Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
-**ke she tu zai yam?**
+**ke xe tu zai yam?**
 – Mitä sinä olet syömässä?  
-**tu zai yam ke she?**
+**tu zai yam ke xe?**
 – Sinä olet syömässä mitä?  
 **ye lai na ke sata?**
 – Mihin aikaan hän tulee?  
@@ -332,7 +332,7 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
 Lauseet ovat lähtökohtaisesti myöntäviä.
 
-**mi si shefe.**
+**mi si xefe.**
 = Minä olen pomo.  
 **ye si nove meza.**
 = Se on uusi pöytä.
@@ -341,7 +341,7 @@ Myöntämistä voi painottaa sanalla
 **ya**
 ('kyllä').
 
-**mi ya si shefe.**
+**mi ya si xefe.**
 – Minä kyllä olen pomo.  
 **ye ya si nove meza.**
 – Se kyllä on uusi pöytä.
@@ -349,7 +349,7 @@ Myöntämistä voi painottaa sanalla
 
 Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
-**ye no si shefe.**
+**ye no si xefe.**
 = Minä en ole pomo.  
 **ye no si nove meza.**
 = Tämä ei ole uusi pöytä.
@@ -364,11 +364,11 @@ Se vaikuttaa aina vain seuraavaan sanaan.
 **mi vide no tu a yemon.**
 = Minä näen, en sinua, vaan heidät.
 
-**mi ching tu safa la kamar.**
+**mi cing tu safa la kamar.**
 – Minä pyydän sinua siivoamaan huoneen.  
-**mi no ching tu safa la kamar.**
+**mi no cing tu safa la kamar.**
 – Minä en pyydä sinua siivoamaan huonetta.  
-**mi ching tu no safa la kamar.**
+**mi cing tu no safa la kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
 
 

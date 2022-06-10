@@ -262,13 +262,13 @@ chief, boss
 **halo! cing side.**
 = Hello! Please sit!  
 <big>☻</big>
-**shukur.**
+**xukur.**
 = Thank you.  
 <big>☺</big>
 **cing yam yo kafe o cai.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**a mi yam un di cai! shukur.**
+**a mi yam un di cai! xukur.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
@@ -407,7 +407,7 @@ must, have to
 or  
 **safe**
 to clean  
-**shukur**
+**xukur**
 thanks  
 **side**
 to sit  
@@ -448,7 +448,7 @@ some, a(n)
 **e tu?**
 = And you?  
 <big>☹</big>
-**mi no basha pandunia...**
+**mi no baxa pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
 **maf! sual ye yam cai?**
@@ -469,7 +469,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**shukur. mi don un cai e un kafe e un supe pos des minute.**
+**xukur. mi don un cai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -504,7 +504,7 @@ Of course common and proper nouns can also be used.
 = Does the chief drink coffee?  
 **sual papa safe kamar?**
 = Does the father clean the room?  
-**sual niki basha pandunia?**
+**sual niki baxa pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -561,7 +561,7 @@ after
 pardon, sorry  
 **minute**
 minute  
-**basha**
+**baxa**
 speak a language  
 **sui**
 water  
@@ -685,7 +685,7 @@ manner or thing if needed.
 = What is that? / Who is (s)he?  
 **ye si ke jen?**
 = Who is he/she?  
-**ye si ke she?**
+**ye si ke xe?**
 = What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  

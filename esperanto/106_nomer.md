@@ -64,7 +64,7 @@ Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 – du steloj  
 **tri sing**
 – tri steloj  
-**shau sing**
+**xau sing**
 – kelkaj steloj  
 **poli sing**
 – multe da steloj

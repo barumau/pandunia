@@ -53,15 +53,15 @@ que se introducen suguiente.
 
 La relación de un acción, evento, o estado a tiempo se indica con verbos auxiliares.
 
-**shuru**
+**xuru**
 (»empezar>>, »comenzar>>)
 indica el comienzo de una acción o transición a una situación nueva.
 
-**mi shuru fuku la kote.**
+**mi xuru fuku la kote.**
 – Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-**kaguji ya shuru hogo.**
+**kaguji ya xuru hogo.**
 – Papel empieza a quemar.  
-**tu shuru yam.**
+**tu xuru yam.**
 – Empiezas a comer.
 
 **fin**
@@ -133,12 +133,12 @@ y es pertinente solo como una experiencia.
 **mi pas ada gul yo bir.**
 – Yo solía bebir cerveza. / Tení la costumbre de bebir cerveza.
 
-**sha**
+**xa**
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-**ye _sha_ si guru.**
+**ye _xa_ si guru.**
 – Será docente.  
-**mi no _sha_ gul yo bir.**
+**mi no _xa_ gul yo bir.**
 – No voy a bebir una cerveza.
 

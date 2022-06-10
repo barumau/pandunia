@@ -42,9 +42,9 @@ Väliin pantava merkki on yleensä partikkeli tai apuverbi, kuten
 joka selkeyttää lauseen rakennetta
 tuomatta siihen uutta asiasisältöä.
 
-**peshe si mau yam.**
+**pexe si mau yam.**
 – Kala on kissan ruokaa.  
-**mau _ya_ yam yo peshe.**
+**mau _ya_ yam yo pexe.**
 – Kissa syö kalaa.
 
 Muita sopivia verbilausekkeen alun merkitsijöitä ovat ajan ja tavan apuverbit,
@@ -55,15 +55,15 @@ jotka esitellään seuraavana.
 
 Toiminnan, tapahtuman tai olemisen suhde aikaan ilmaistaan panduniassa apuverbeillä.
 
-**shuru**
+**xuru**
 ('alkaa')
 ilmaisee toiminnan alkamista tai siirtymistä uuteen tilanteeseen.
 
-**mi shuru fuku la kote.**
+**mi xuru fuku la kote.**
 – Minä alan pitää takkia. = Minä panen takin päälle.  
-**kaguji ya shuru hogo.**
+**kaguji ya xuru hogo.**
 – Paperi alkaa palaa.  
-**tu shuru yam.**
+**tu xuru yam.**
 – Sinä alat syödä.
 
 **fin**
@@ -146,12 +146,12 @@ ilmaisee ohimennyttä toimintaa, jonka seuraukset eivät ole olennaisia.
 **mi pas lai do siti.**
 – Minä tulin kaupunkiin (kerran).
 
-**sha**
+**xa**
 ('tulla tekemään')
 ilmaisee tulevaisuudessa tapahtuvaa toimintaa.
 
-**ye _sha_ si guru.**
+**ye _xa_ si guru.**
 – Hän tulee olemaan opettaja.  
-**mi no _sha_ gul un bir.**
+**mi no _xa_ gul un bir.**
 – Minä en tule juomaan olutta.
 

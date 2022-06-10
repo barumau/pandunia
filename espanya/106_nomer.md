@@ -63,7 +63,7 @@ Ellas preceden la palabra o frase que califican.
 – dos estrellas  
 **tri sing**
 – tres estrellas  
-**shau sing**
+**xau sing**
 – pocas estrellas  
 **poli sing**
 – muchas estrellas
@@ -92,7 +92,7 @@ Números ordinales se crean con la partícula **me**.
   – quinto
 - **luka me**
   – sexto
-- **cheti me**
+- **ceti me**
   – séptimo
 - **bati me**
   – octavo
@@ -197,7 +197,7 @@ y demás.
    – viernes
 6. **var luka**
    – sabado
-7. **var cheti**
+7. **var ceti**
    – domingo
 
 #### Meses
@@ -219,7 +219,7 @@ pero esta vez la palabra
   – mayo
 6. **mes luka**
   – junio
-7. **mes cheti**
+7. **mes ceti**
   – julio
 8. **mes bati**
   – agosto

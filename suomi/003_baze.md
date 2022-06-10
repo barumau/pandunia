@@ -108,7 +108,7 @@ Pandunian ovat monikäyttöisiä, ja sen vuoksi ne voivat joskus vaikuttaa epäs
 
 Virkkeen asiayhteys selkeyttää sen merkityksen:
 
-**tri nen chen, mi ha du mau e un vaf. mi mas ha un fem ben. ye ama mau!**
+**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. ye ama mau!**
 – Kolme vuotta sitten minulla oli kaksi kissaa ja koira. Minulla oli myös tytär. Hän rakasti niitä kissoja!
 
 ### Aika
@@ -120,7 +120,7 @@ Tarvittaessa aika ilmaistaan ajan adverbeilla ja apuverbeillä, kuten
 (ennen),
 **le**
 (jo) ja
-**sha**
+**xa**
 (tulevaisuudessa).
 
 **mi zai ama tu.**
@@ -129,7 +129,7 @@ Tarvittaessa aika ilmaistaan ajan adverbeilla ja apuverbeillä, kuten
 – Minä ennen rakastin sinua.  
 **mi le ama tu.**
 – Minä olen jo rakastanut sinua.  
-**mi sha ama tu.**
+**mi xa ama tu.**
 – Minä tulen rakastamaan sinua.
 
 ### Passiivi

@@ -149,7 +149,7 @@ dom **no** zou.
 = こんにちは、お母さん。  
 **salam papa!**
 = こんにちは、お父さん。  
-**salam shefe!**
+**salam xefe!**
 = こんにちは、組長。
 
 パンドゥニアにはもう一つ **halo** というあいさつがあります。
@@ -197,19 +197,19 @@ dom **no** zou.
 **salam!**
 = こんにちは。  
 <big>🧓</big>
-**salam! ching side.**
+**salam! cing side.**
 = こんにちは、おかけになってください。  
 <big>🧒</big>
-**shukur.**
+**xukur.**
 = ありがとうございます。  
 <big>🧓</big>
-**ching yam yo kafe o chai.**
+**cing yam yo kafe o cai.**
 = コーヒーとお茶、どちらになさいますか。  
-☻: **mi yam yo chai. shukur.**
+☻: **mi yam yo cai. xukur.**
 = お茶をください(ありがとう)。  
 ...  
 <big>🧓</big>
-**ching salam tu su mama!**
+**cing salam tu su mama!**
 = お母様によろしく言っておいてください。  
 <big>🧒</big>
 **mi salam ye. salam sona!**
@@ -227,7 +227,7 @@ dom **no** zou.
 全ての人称代名詞が
 使われています。
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = **私**は**あなたに**、**彼/彼女/それ/その人**へあいさつをお願いします。
 
 この文は**依存文**です
@@ -246,9 +246,9 @@ dom **no** zou.
 安心して考えることができます。
 このようにして文を短くすることができます。
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = 私はあなたに、彼/彼女/それ/その人へあいさつをお願いします。  
-**ching salam ye.**
+**cing salam ye.**
 = 彼/彼女/その人へあいさつをお願いします。
 
 <!--
@@ -262,21 +262,21 @@ dom **no** zou.
 **ching salam ye** は
 丁寧なお願いをするときに役立つフレーズです。
 <!-- 【重要】日本語では同じ丁寧な外国語の文でも話し相手によって翻訳が変わります(丁寧語、謙譲語、他)。ここでは一般的な丁寧語で表現しています。 -->
-**ching side.**
+**cing side.**
 = 座ってください。  
-**ching don yo kafe.**
+**cing don yo kafe.**
 = コーヒーをください。  
-**ching don yo chai.**
+**cing don yo cai.**
 = お茶をください。  
-**ching yam yo chai.**
+**cing yam yo cai.**
 = お茶をどうぞ。  
-**ching safa la kamar.**
+**cing safa la kamar.**
 = 部屋の掃除をお願いします。
 
 命令は **amir**(命令する) で表します。
 以下の命令文は **ching** と同じ依存文を採用しています。
 
-**amir don yo chai.**
+**amir don yo cai.**
 = お茶をくれ。  
 **amir safa la kamar.**
 = 部屋を掃除して。
@@ -334,17 +334,17 @@ dom **no** zou.
 
 ### 対話
 <!-- これも状況が全く判らないため翻訳が難しい。日本の喫茶店での店員と客2人を想定。一部翻訳が本来の意味とかけ離れているのは日本の文化による補正によるもの。この手の会話は文化的にニュートラルにできない -->
-☻: **salam! sual tu yam yo kafe o chai?**
+☻: **salam! sual tu yam yo kafe o cai?**
 = いらっしゃいませ! コーヒーと紅茶どちらになさいますか?  
-☺: **chai.**
+☺: **cai.**
 = お茶を。  
 ☻: **e tu?**
 = あなたは?  
 ○: **mi no basha pandunia...** 
 = 私はパンドゥニアを話せません…  
-☻: **maf! sual ye yam yo chai?**
+☻: **maf! sual ye yam yo cai?**
 = すみません。彼もお茶でよろしいでしょうか? <!-- 原文では「も」(英語なら too)とは言っていないが、会話の流れから日本語ではそうするのが普通 -->  
-☺: **no. ye no yam chai. ye yam yo kafe.**
+☺: **no. ye no yam cai. ye yam yo kafe.**
 = いいえ、彼はお茶を飲みません。彼はコーヒーです。  
 ☻: **sual tu yam yo supe?**
 = スープはいかがでしょう?  
@@ -354,7 +354,7 @@ dom **no** zou.
 = 彼もスープを飲みますか? <!-- これも原文では「も」と言っていないが補完した。日本語ではスープは飲むものです。タバコも高齢者は飲むと言います(混乱を招くので現在は使われていません) -->  
 ☺: **no yam.**
 = いいえ(=飲みません)  
-☻: **shukur. mi don un chai e un kafe e un supe na pos des minute.**
+☻: **xukur. mi don un cai e un kafe e un supe na pos des minute.**
 = かしこまりました。復唱します。コーヒー1、お茶1、スープ1。10分後にお持ちします。
 
 
@@ -364,11 +364,11 @@ dom **no** zou.
 前回のレッスンで学んだ **ching** と同じ**依存文**(S1+V1+O1&S2+V2+O2)になっています。
 質問文は **sual**(尋ねる、質問する) を使います。この文は基本的に主語1を省略できます。
 
-**mi sual tu yam yo chai.**
+**mi sual tu yam yo cai.**
 = 私はあなたに「お茶を飲みますか」と尋ねます。  
-**sual tu yam yo chai?**
+**sual tu yam yo cai?**
 = (あなたは)お茶を飲みますか?  
-**sual yam yo chai?**
+**sual yam yo cai?**
 = お茶を飲みますか?
 
 通常、質問は相手や話しかけられた人に関するものですが、
@@ -376,7 +376,7 @@ dom **no** zou.
 そのため基本的に2つ目の主語(S2)が必要になります。
 誰(何)が話題なのかはっきりしている場合のみ省略することができます。
 
-**sual ye yam yo chai?**
+**sual ye yam yo cai?**
 = 彼/彼女/その人はお茶を飲みますか?  
 **sual tu yam yo supe?**
 = (あなたは)スープを飲みますか?  
@@ -385,11 +385,11 @@ dom **no** zou.
 
 もちろん普通名詞や固有名詞も使えます。
 
-**sual shefe yam yo kafe?**
+**sual xefe yam yo kafe?**
 = 先生はコーヒーを飲みますか?  
 **sual papa safa la kamar?**
 = 父は部屋を掃除しますか??  
-**sual Niki basha pandunia?**
+**sual Niki baxa pandunia?**
 = ニキはパンドゥニアを話せますか?
 
 
@@ -401,7 +401,7 @@ dom **no** zou.
 = (あなたは)スープを飲みますか?  
 – **ya.**
 = はい。  
-– **sual ye yam yo chai?**
+– **sual ye yam yo cai?**
 = 彼はスープをお茶みますか?  
 – **no.**
 = いいえ。
@@ -622,7 +622,7 @@ mi suka yo mau **sabu** yemon kavai
 = 過去  
 **zai**
 = 現在  
-**sha**
+**xa**
 = 未来
 
 Sara si mi **pas** dosti.

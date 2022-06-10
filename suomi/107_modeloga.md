@@ -51,7 +51,7 @@ Se selkeyttää verbilausekkeen rakennetta.
 
 **tu _sundar di_ kitabu.**
 – Sinä _kauniisti_ kirjoitat.  
-**yemon _rapide di_ marche.**
+**yemon _rapide di_ marce.**
 – He _nopeasti_ kävelevät.
 
 

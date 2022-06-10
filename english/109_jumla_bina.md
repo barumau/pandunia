@@ -7,7 +7,7 @@ They may consist of only one word, which draws the listener's attention.
 
 **mau!**
 – A cat!  
-**shava!**
+**xava!**
 – (It) rains!
 
 ## Stative Sentences
@@ -65,7 +65,7 @@ The same rule applies also for two adjectives, or a verb and an adjective.
 – Young is beautiful.  
 **nove no lau.**
 – New is not old.  
-**chanta si bon.**
+**canta si bon.**
 – Singing is good.
 
 
@@ -289,9 +289,9 @@ In Pandunia they use the word **ke**.
 The question word may be moved to the front of the sentence for emphasis.
 However, unlike in English, the word order may also be left alone.
 
-**ke she tu zai yam?**
+**ke xe tu zai yam?**
 – What are you eating?  
-**tu zai yam ke she?**
+**tu zai yam ke xe?**
 – You are eating what?  
 **ye lai na ke sata?**
 – When does he arrive?  
@@ -356,7 +356,7 @@ In Pandunia they are typically introduced with the conjunction
 
 **mi sabe ki tu si doste.**
 – I know that you are a friend.  
-**yemon fikir ki mimon le chuti.**
+**yemon fikir ki mimon le cuti.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -396,7 +396,7 @@ and in conditional sentences, it works in the same way as English 'if'.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
 
-**gar tu tochu la tava, asar tu pasi la hande.**
+**gar tu tocu la tava, asar tu pasi la hande.**
 – _If_ you touch the pan, _then_ you will hurt your hand.
 
 

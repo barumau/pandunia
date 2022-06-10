@@ -20,7 +20,7 @@ Elles seront abordées plus en détail plus loin dans ce document.
     - ex. **mi ching tu don pesa.** = I te demande de donner de l'argent.
 10. Les pronoms peuvent être omis quand ils sont évidents et redondant.
     - **mi sual tu basha pandunia?** → **sual te basha pandunia?** = Parles-tu le pandunia?
-    - **mi ching tu loga mas ming.** →  **ching loga mas ming.**
+    - **mi cing tu loga mas ming.** →  **cing loga mas ming.**
       = S'il te plait, parle plus distinctement.
 11. Les mots composés se construisent en mettant les mots-racines l'un à côté de l'autre.
     La liaison entre eux est marquée par la voyelle **-o-** qui s'insère entre les racines.

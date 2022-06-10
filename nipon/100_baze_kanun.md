@@ -240,7 +240,7 @@ fen **tri**
 - 4 **nelu**
 - 5 **lima**
 - 6 **luka**
-- 7 **cheti**
+- 7 **ceti**
 - 8 **bati**
 - 9 **tisa**
 
@@ -374,7 +374,7 @@ tu ten **ke** dai di mau?
 
 mi **yam** la aple.
 – 私はリンゴを**食べる**。  
-mi **yam** la aple na chen den.**
+mi **yam** la aple na cen den.**
 – 昨日私はリンゴを**食べた**。  
 mi dur **yam** la aple.**
 – 昨日私はまだリンゴを**食べている**。  
@@ -401,7 +401,7 @@ mi no **yam** la aple.**
 
 **mau!**
 – 猫だ!  
-**shava!**
+**xava!**
 – 雨が降っている!
 
 ### 7.2. 静的文章

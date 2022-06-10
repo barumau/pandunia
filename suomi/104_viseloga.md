@@ -71,7 +71,7 @@ Osoittava pronomini on:
 Panduniassa **ni**, **go** ja **la** ovat aina vain määreitä,
 joten ne tarvitsevat peräänsä substantiivin.
 Kun niitä käytetään pronominin tapaan, yleiskäyttöinen substantiivi kuten
-**she**
+**xe**
 ('asia') käy niiden täydennykseksi.
 
 Pronomini
@@ -81,9 +81,9 @@ ja pronomini
 **go**
 osoittaa puhujasta kaukana oleviin asioihin.
 
-**ni she si bon.**
+**ni xe si bon.**
 – Tämä (asia) on hyvä.  
-**go she si dus.**
+**go xe si dus.**
 – Tuo (asia) on huono.  
 **mi vol ni buku, no go.**
 – Minä haluan tämän kirjan, en tuota.
@@ -97,7 +97,7 @@ osoittaa puhujasta kaukana oleviin asioihin.
 = Mikä?
 
 Se toimii myös määritteenä merkityksessä 'mikä' tai 'kumpi'.
-**ke she?**
+**ke xe?**
 = Mikä esine?
 **ke jen?**
 = Kuka? (Mikä henkilö?)  

@@ -42,10 +42,10 @@ Buenos días. (Se usa por la mañana.)
 **salam dia!**
 Buenos días.
 
-**salam sham!**
+**salam xam!**
 Buenas tardes.
 
-**salam noche!**
+**salam noce!**
 Buenas noches.
 
 **salam yam!**
@@ -76,22 +76,22 @@ indonesio: selamat.</small>
 
 ### shukur <small>gracias</small>
 
-**shukur!**
+**xukur!**
 ¡Gracias!
 
-**shukur tu.**
+**xukur tu.**
 Gracias. (a ti.)
 
-**mi shukur tu.**
+**mi xukur tu.**
 Te agradezco.
 
-**mi shukur tu mede mi.**
+**mi xukur tu mede mi.**
 Te agradezco por ayudarme.
 
-**shukur tu mede mi.**
+**xukur tu mede mi.**
 Gracias por ayudarme.
 
-**no yau shukur.**
+**no yau xukur.**
 De nada. No hay de qué.
 
 
@@ -474,9 +474,9 @@ la pregunta, en pandunia el orden de las palabras no es afectado por el **ke**.
 **mi vol yam kafe.**
 Quiero beber café.
 
-**sual tu vol yam chai?**
+**sual tu vol yam cai?**
 ¿Te gustaría beber té? 
-**no. mi no vol chai. mi vol kafe.**
+**no. mi no vol cai. mi vol kafe.**
 No, no quiero té. Quiero café.
 
 **tu vol ke aple?**
@@ -487,27 +487,27 @@ Esta roja.
 
 ### ching <small>pedir, solicitud, por favor</small>
 
-**mi ching tu yam chai.**
+**mi cing tu yam cai.**
 Te pido que bebas té.
 
-**mi ching tu lai dom.**
+**mi cing tu lai dom.**
 Te pido que vengas a casa.
 
-**mi ching tu mede mi.**
+**mi cing tu mede mi.**
 Te pido que me ayudes.
 
 Ayuda: Para hacer solicitudes directas, no pongas ningún pronombre.
 
-**ching yam chai.**
+**cing yam cai.**
 Por favor, bebe/beban té.
 
-**ching yam kafe.**
+**cing yam kafe.**
 Por favor, bebe/beban café.
 
-**ching lai dom.**
+**cing lai dom.**
 Por favor, ven/vengan a casa.
 
-**ching mede mi.**
+**cing mede mi.**
 Por favor, ayúdame/ayúdenme.
 
 
@@ -566,20 +566,20 @@ Lo siento. No te entiendo.
 **mi no bas aha tu.**
 No te entiendo muy bien.
 
-**mi aha siro she.**
+**mi aha siro xe.**
 No entiendo nada.
 
 
 ### bil <small>poder</small>
 
-**mi bil shofer gar.**
+**mi bil xofer gar.**
 Puedo conducir un auto.
 
-**ye no bil shofer gar.**
+**ye no bil xofer gar.**
 Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
-**sual tu bil shuli ye?**
+**sual tu bil xuli ye?**
 ¿Puedes arreglarlo?
 
 **sual tu bil pandunia?**
@@ -591,7 +591,7 @@ Puedo hablar pandunia.
 **mi bil un lili pandunia.**
 Puedo hablar un poco de pandunia.
 
-**mi no bil english.**
+**mi no bil englix.**
 No puedo hablar inglés.
 
 **maf. mi no bil tu su bax.**
@@ -627,7 +627,7 @@ El gato dice «miau».
 **mi no bil audi tu.**
 No puedo oírte.
 
-**ching loga mas lika.**
+**cing loga mas lika.**
 Por favor, hablar más fuerte.
 
 **mi audi muzika.**
@@ -648,7 +648,7 @@ Encantado de verte.
 **vide tu na pos den!**
 ¡Te veo mañana!
 
-**mi vide ye na chen den.**
+**mi vide ye na cen den.**
 Lo/a vi a él/ella ayer.
 
 
@@ -669,22 +669,22 @@ No entiendo qué significa.
 
 ### kitabu <small>escribir</small>
 
-**ching kitabu tu su adres.**
+**cing kitabu tu su adres.**
 Por favor, escribe tu dirección.
 
-**ching kitabu ye na ni.**
+**cing kitabu ye na ni.**
 Por favor, escríbelo aquí.
 
 
 ### basha <small>hablar un idioma, comunicar</small>
 
-**sual tumon basha pandunia?**
+**sual tumon baxa pandunia?**
 ¿Hablas pandunia?
 
-**mimon basha pandunia.**
+**mimon baxa pandunia.**
 Nosotros hablamos pandunia.
 
-**sual tu bil basha english?**
+**sual tu bil baxa englix?**
 ¿Puedes hablar inglés?
 
 **france, espanya, portugal, rus**
@@ -725,7 +725,7 @@ Vamos caminando.
 
 ### lai <small>venir</small>
 
-**ching lai!**
+**cing lai!**
 ¡Ven aquí! ¡Vengan aquí!
 
 **tu lai ze ke?**
@@ -795,7 +795,7 @@ es necesario.
 
 ### dele <small>esperar</small>
 
-**ching dele!**
+**cing dele!**
 ¡Por favor, espera!
 
 **dele mi!**
@@ -811,13 +811,13 @@ Te espero en el hotel.
 
 ### don <small>dar</small>
 
-**ching don yo pesa.**
+**cing don yo pesa.**
 Por favor da dinero.
 
-**ching don go she do mi.**
+**cing don go xe do mi.**
 Por favor dame eso.
 
-**mi don ni she do tu.**
+**mi don ni xe do tu.**
 Te doy esto.
 
 **mi don un buku do yemon.**
@@ -832,7 +832,7 @@ Le doy un libro a ellos/as.
 **mi kape un kafe.**
 Voy a tomar un café.
 
-**ching kape un kafe do mi.**
+**cing kape un kafe do mi.**
 Por favor toma un café para mí.
 
 **tu pas kape pesa ze mi.**

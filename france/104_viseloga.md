@@ -60,7 +60,7 @@ Il correspond en français à _qui_, _qui est-ce qui_, _qui est-ce que_ (personn
 Le pronom interrogatif adjectival est **ki**
 et il correspond en français à _quel.le.s_, _lequel_, _laquelle_, _lesquelles_.
 
-**ke she?**
+**ke xe?**
 – Quoi? (Quelle chose ?)  
 **ke jen?**
 – Qui ? (Quelle personne ?)  

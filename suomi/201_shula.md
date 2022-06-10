@@ -196,7 +196,7 @@ Lauseen **salam tu** malli on kätevä, kun ihmisiä tervehditään nimen, sukul
 = Hei, äiti!  
 **halo, papa!**
 = Hei, isä!  
-**salam, shefe!**
+**salam, xefe!**
 = Terve, pomo!
 
 
@@ -217,7 +217,7 @@ tervehdys, terve, hei
 äiti, mamma  
 **papa**  
 isä  
-**shefe**
+**xefe**
 pomo, päällikkö
 
 
@@ -240,26 +240,26 @@ pomo, päällikkö
 <small>Kuva: [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
-**halo, chin pa!**
+**halo, cin pa!**
 = Hei, isoisä!  
 <big>☺</big>
-**halo! ching side.**
+**halo! cing side.**
 = Hei! Istu, ole hyvä!  
 <big>☻</big>
-**shukur.**
+**xukur.**
 = Kiitos.  
 <big>☺</big>
-**ching yam yo kafe o chai.**
+**cing yam yo kafe o cai.**
 = Joisitko kahvia tai teetä?  
 <big>☻</big>
-**a mi yam un di chai! shukur.**
+**a mi yam un di cai! xukur.**
 = Mutta minähän juon vain teetä! Kiitos.  
 ...  
 <big>☻</big>
-**chin pa, mi mus ga na zai.**
+**cin pa, mi mus ga na zai.**
 = Isoisä, Minun täytyy lähteä nyt.  
 <big>☺</big>
-**ching salam tu su mama!**
+**cing salam tu su mama!**
 = Kerro terveisiä äidillesi!  
 <big>☻</big>
 **mi salam ye. salam reste!**
@@ -275,11 +275,11 @@ Pandunian persoonapronominit ovat: **mi** = minä, **tu** = sinä, ja **ye** = h
 Kuten suomessa, myös panduniassa persoonapronomineilla ei jaotella sukupuolta.
 Kaikkia edellä mainittuja persoonapronomineja käytettään seuraavassa esimerkkilauseessa.
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = Minä pyydän sinua tervehtimään häntä.
 
 Lauseessa on niin sanottu _saranarakenne_. Ensimmäinen verbi,
-**ching**
+**cing**
 = pyytää, saa kohteekseen sanan
 **tu**, 
 joka toimii samaan aikaan toisen verbin,
@@ -303,9 +303,9 @@ Toisin sanoen puhuja voi turvallisin mielin olettaa,
 että kuulijat tietävät mistä tai kenestä hän puhuu, eikä hänen tarvitse jatkuvasti toistaa niitä.
 Tällä tavalla lauseista voi tehdä lyhyempiä.
 
-**mi ching tu salam ye.**
+**mi cing tu salam ye.**
 = Minä pyydän sinua tervehtimään häntä.  
-**ching salam ye.**
+**cing salam ye.**
 = (Pyydän,) tervehdi häntä.
 
 Huomasitko miten sanan **ching** rooli muuttui hieman kahdessa edellisessä lauseessa?
@@ -315,18 +315,18 @@ Suomessa käytetään ilmaisua "ole hyvä" tai verbin isi-muotoa.
 Sen sijaan panduniassa käytetään yksinkertaisesti pyytämistä tarkoittavaa verbiä yksinään, sillä kuulija toki tietää kuka pyytää.
 
 Lauseen
-**ching salam ye**
+**cing salam ye**
 rakennetta voi hyödyntää kaikenlaisten kohteliaiden pyyntöjen ilmaisemiseen.
 
-**ching side.**
+**cing side.**
 = Istu, ole hyvä.  
-**ching don yo kafe.**
+**cing don yo kafe.**
 = Antaisitko kahvia.  
-**ching don yo chai.**
+**cing don yo cai.**
 = Antaisitko teetä.  
-**ching yam yo chai.**
+**cing yam yo cai.**
 = Ottaisitko teetä.  
-**ching safa la kamar.**
+**cing safa la kamar.**
 = Siivoaisitko huoneen.
 
 Käskyt aloitetaan sanalla
@@ -334,7 +334,7 @@ Käskyt aloitetaan sanalla
 ('käskeä, komentaa').
 Käskylauseiden rakenne on sama kuin pyyntölauseiden.
 
-**amir don yo chai.**
+**amir don yo cai.**
 = Anna teetä!  
 **amir safa la kamar.**
 = Siivoa huone!
@@ -360,13 +360,13 @@ Käännä seuraavat lauseet panduniaksi. Oikeat vastaukset ovat sanaston jälkee
 
 ### Sanasto
 
-**chai**
+**cai**
 tee  
-**ching**
+**cing**
 pyytää; ole hyvä  
 **don**
 antaa  
-**shukur**
+**xukur**
 kiitos  
 **e**
 ja  
@@ -406,22 +406,22 @@ syödä tai juoda
 <small>Kuva: [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**salam! sual tu yam kafe o chai?**
+**salam! sual tu yam kafe o cai?**
 = Terve! Joisitteko kahvia vai teetä?  
 <big>☻</big>
-**chai.**
+**cai.**
 = Teetä.  
 <big>☺</big>
 **e tu?**
 = Entä sinä?  
 <big>☹</big>
-**mi no basha pandunia...**
+**mi no baxa pandunia...**
 = En osaa panduniaa...  
 <big>☺</big>
-**maf! sual ye yam chai?**
+**maf! sual ye yam cai?**
 = Anteeksi! Haluaisiko hän teetä?  
 <big>☻</big>
-**no. ye no yam chai. ye yam kafe.**
+**no. ye no yam cai. ye yam kafe.**
 = Ei, hän ei juo teetä. Hän juo kahvia.  
 <big>☺</big>
 **sual tu yam supe?**
@@ -436,7 +436,7 @@ syödä tai juoda
 **no yam.**
 = Ei.  
 <big>☺</big>
-**shukur. mi dona un chai e un kafe e un supe pos des minute.**
+**xukur. mi dona un cai e un kafe e un supe pos des minute.**
 = Kiitos. Minä tuon yhden teen, yhden kahvin ja yhden keiton kymmenen minuutin päästä.
 
 
@@ -446,11 +446,11 @@ Kysymykset joihin vastataan "kyllä" ja "ei" muodostetaan samalla saranarakentee
 joissa käytetään sanaa **ching**.
 Kysymyslauseet aloitetaan sanalla **sual** = kysyä.
 
-**mi sual tu yam chai.**
+**mi sual tu yam cai.**
 = Minä kysyn, juotko sinä teetä. 
-**sual tu yam chai?**
+**sual tu yam cai?**
 = Juotko sinä teetä?  
-**sual yam chai?**
+**sual yam cai?**
 = Juotko teetä?
 
 Pyynnöt on yleensä osoitettu ihmiselle, joille puhutaan,
@@ -458,7 +458,7 @@ mutta kysymykset usein koskettavat muita ihmisiä.
 Sen vuoksi kysymyslauseeseen jätetään yleensä jälkimmäinen pronomini jäljelle.
 Sen voisi jättää pois vain kun on ilmiselvää, ketä kysymys koskee.
 
-**sual ye yam chai?**
+**sual ye yam cai?**
 = Juoko hän teetä?  
 **sual tu yam supe?**
 = Syötkö sinä keittoa?  
@@ -467,11 +467,11 @@ Sen voisi jättää pois vain kun on ilmiselvää, ketä kysymys koskee.
 
 Tietysti myös yleis- ja erisnimiä voi käyttää kysymyksissä.
 
-**sual shefe yam kafe?**
+**sual xefe yam kafe?**
 = Juoko päällikkö kahvia?  
 **sual papa safa kamar?**
 = Siivoaako isä huoneen?  
-**sual niki basha pandunia?**
+**sual niki baxa pandunia?**
 = Puhuuko Niki panduniaa?
 
 
@@ -526,7 +526,7 @@ jälkeen
 anteeksi  
 **minute**
 minuutti  
-**basha**
+**baxa**
 puhua kieltä  
 **sui**
 vesi  
@@ -572,11 +572,11 @@ tervehtimisen olemassaolon.
 Panduniassa kieltosana vaikuttaa aina seuraavaan sanaan.
 Siis eri asiat tulevat kielletyksi, kun kieltosanan paikka lauseessa muuttuu.
 
-**mi ching tu safa la kamar.**
+**mi cing tu safa la kamar.**
 = Minä pyydän sinua siivoamaan huoneen.  
-**mi no ching tu safa la kamar.**
+**mi no cing tu safa la kamar.**
 = Minä EN pyydä sinua siivoamaan huonetta.  
-**mi ching tu no safa la kamar.**
+**mi cing tu no safa la kamar.**
 = Minä pyydän sinua ETTET siivoa huonetta.
 
 Kielletty sana voi olla mitä tahansa tyyppiä: verbi, pronomini,
@@ -645,7 +645,7 @@ tarkennetaan muilla sanoilla.
 = Mikä se on? / Kuka hän on?  
 **ye si ke jen?**
 = Kuka (henkilö) hän on?  
-**ye si ke she?**
+**ye si ke xe?**
 = Mikä (asia) se on?
 
 **ke jen lai?**
@@ -739,11 +739,11 @@ Esimerkiksi kun on päivä ja puhe on aamiaisesta, lause viittaa luonnollisesti 
 Mennyttä, nykyistä ja tulevaa tarkoittavat määresanat ovat **pas, zai**
 ja **sha**. Niitä voi käyttää substantiivien määrittämiseen.
 
-**Sara si mi su pas shefe.**
+**Sara si mi su pas xefe.**
 = Sara on minun entinen pomo.  
-**Yusef si mi su zai shefe.**
+**Yusef si mi su zai xefe.**
 = Yusef on minun nykyinen pomo  
-**Maria si mi su sha shefe.**
+**Maria si mi su xa xefe.**
 = Maria on minun tuleva pomo.
 
 Samoja sanoja käytetään myös kun puhutaan teoista ja tapahtumista
@@ -753,7 +753,7 @@ ajassa. Ajan määre pannaan verbin eteen.
 = Minä löin sitä (ennen).  
 **mi zai darba ye.**
 = Minä lyön sitä (nyt).  
-**mi sha darba ye.**
+**mi xa darba ye.**
 = Minä lyön sitä (tulevaisuudessa).
 
 Kuten huomaat, verbi ei taivu aikamuodoissa. Verbi **darba** (lyödä)
@@ -766,7 +766,7 @@ On myös mahdollista ilmaista asia pitemmästi, kuten sanomalla
 = Minä löin sitä menneisyydessä.  
 **mi darba ye na zai.**
 = Minä lyön sitä nykyään.  
-**mi darba ye na sha.**
+**mi darba ye na xa.**
 = Minä lyön sitä tulevaisuudessa.
 
 Yksinkertaisuuden vuoksi ajan ilmausta ei tarvitse toistaa jatkuvasti.
@@ -809,7 +809,7 @@ Käännä seuraavat lauseet panduniaksi.
 entinen, ennen  
 **zai**
 nykyinen, nykyään  
-**sha**
+**xa**
 tuleva, tulevaisuudessa  
 **darba**
 lyödä  

@@ -39,7 +39,7 @@ Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
 **tu _sundar di_ kitabu.**
 – Vi _bele_ skribas.  
-**yemon _rapide di_ marche.**
+**yemon _rapide di_ marce.**
 – Ili _rapide_ promenas.
 
 

@@ -43,7 +43,7 @@
 **salam dia!**
 良い一日を!
 
-**salam sham!**
+**salam xam!**
 こんばんは!
 
 **salam yam!**
@@ -76,31 +76,31 @@
 
 <p style="font-size:5em;">🙏</p>
 
-**shukur!**
+**xukur!**
 ありがとう!
 
-**poli shukur!**
+**poli xukur!**
 どうもありがとう!
 
-**ya, shukur.**
+**ya, xukur.**
 はい、ありがとうございます。
 
-**no, shukur.**
+**no, xukur.**
 いいえ、結構です。
 
-**shukur tu.**
+**xukur tu.**
 ありがとうございました。
 
-**mi shukur tu.**
+**mi xukur tu.**
 ありがとうございます。
 
-**mi shukur tu mede mi.**
+**mi xukur tu mede mi.**
 私を助けてくれてありがとう。
 
-**shukur tu mede mi.**
+**xukur tu mede mi.**
 私を助けてくれてありがとう。
 
-**no yau shukur.**
+**no yau xukur.**
 どういたしまして。
 
 
@@ -452,7 +452,7 @@
 
 ### yam <small>飲食する、食べる、飲む</small>
 
-**sual tu vol yam yo she?**
+**sual tu vol yam yo xe?**
 いくらか食べる必要がありますか?(=何か食べますか?)
 
 **ye yam un aple.**
@@ -486,9 +486,9 @@
 **mi vol yam yo kafe.**
 私はコーヒーを飲むことを望みます(=コーヒーが飲みたいです)。
 
-**sual tu vol yam yo chai?**
+**sual tu vol yam yo cai?**
 あなたはお茶を飲むことを望みますか?(=お茶が飲みたいですか?) (訳注:**chai** は紅茶、緑茶、マテ茶など、お茶全般を指します。区別したい場合は「**lugi** chai=**緑の**茶=緑茶」のように形容詞で補います)  
-**no. mi no vol yo chai. mi vol yo kafe.**
+**no. mi no vol yo cai. mi vol yo kafe.**
 いいえ。私はお茶を望みません。私が望むのはコーヒーです。(=いいえ、お茶はいりません。コーヒーが欲しいです)
 
 **tu vol ke aple?**
@@ -499,27 +499,27 @@
 
 ### ching <small>頼む、お願いする</small>
 
-**mi ching tu yam chai.**
+**mi cing tu yam cai.**
 私はあなたにお茶を頼みます(=お茶をお願いします)。
 
-**mi ching tu lai dom.**
+**mi cing tu lai dom.**
 私はあなたに(私の)家に来るよう頼みます(=私の家に来てください)。
 
-**mi ching tu mede mi.**
+**mi cing tu mede mi.**
 私はあなたに私を助けるよう頼みます(=助けてください)。
 
 ヒント：直接頼む場合は全ての代名詞を除外します。
 
-**ching yam chai.**
+**cing yam cai.**
 お茶をお願い。
 
-**ching yam kafe.**
+**cing yam kafe.**
 コーヒーを頼む!
 
-**ching lai dom.**
+**cing lai dom.**
 お願いだから(家に)帰ってきて!
 
-**ching mede mi.**
+**cing mede mi.**
 どうか助けてください。
 
 
@@ -578,19 +578,19 @@
 **mi no bas aha tu.**
 私はあなたのことを十分に理解できていません。
 
-**mi aha siro she.**
+**mi aha siro xe.**
 私はあなたのことが全く理解できません。
 
 
 ### bil <small>できる、可能</small>
 
-**mi bil shofer un kar.**
+**mi bil xofer un kar.**
 私は車を運転できます。
 
-**ye no bil shofer un kar.**
+**ye no bil xofer un kar.**
 彼/彼女/その人は車を運転できない。
 
-**sual tu bil shula ye?**
+**sual tu bil xula ye?**
 (あなたはそれを)修理できますか?
 
 **sual tu bil pandunia?**
@@ -602,10 +602,10 @@
 **mi bil lili da pandunia.**
 (私は)パンドゥニアを少し話せます。
 
-**mi no bil english.**
+**mi no bil englix.**
 私は英語を話せません。
 
-**maf. mi no bil tu su basha.**
+**maf. mi no bil tu su baxa.**
 すみません、あなたの話す言葉を(私は)話せません
 
 
@@ -638,7 +638,7 @@
 **mi no bil audi tu.**
 (あなたの声が私には)聞えません。
 
-**ching loga mas lika.**
+**cing loga mas lika.**
 大きな声で話してください。
 
 **mi audi yo muzika.**
@@ -659,7 +659,7 @@
 **vide tu na pos den!**
 私は明日あなたに会う(=また明日!)。
 
-**mi vide ye na chen den.**
+**mi vide ye na cen den.**
 私は昨日彼/彼女/その人に会いました。
 
 
@@ -680,28 +680,28 @@
 
 ### kitabu <small>書く</small>
 
-**ching kitabu tu su adres.**
+**cing kitabu tu su adres.**
 あなたの住所を書いてください。
 
-**ching kitabu ye na ni.**
+**cing kitabu ye na ni.**
 そこに書いてください。
 
 
 ### basha <small>(言語を)話す、意思疎通する</small>
 
-**sual tumon bil basha pandunia?**
+**sual tumon bil baxa pandunia?**
 あなたたちはパンドゥニアを話せますか?  (訳注:**bil** がない場合、話す技術がなく真似事の場合も含んでしまう)
 
-**mimon bil basha pandunia.**
+**mimon bil baxa pandunia.**
 私たちはパンドゥニアを話せます。
 
-**sual tu bil basha nipon?**
+**sual tu bil baxa nipon?**
 (あなたは)英語を話せますか?
 
-**english, france, espanya, portugal, rus**
+**englix, france, espanya, portugal, rus**
 英国人/語、フランス人/語、スペイン人/語、ポルトガル人/語、ロシア人/語
 
-**putong han, chosen, indonesi**
+**putong han, cosen, indonesi**
 中国官話、韓国人/語、インドネシア人/語
 
 **arabi, turki, farsi, urdu, hindi**
@@ -736,7 +736,7 @@ Where should I go?
 
 ### lai <small>来る、行く</small>
 
-**ching lai!**
+**cing lai!**
 こっちに来て!
 
 **tu lai ze ke?**
@@ -805,7 +805,7 @@ Where should I go?
 
 ### dele <small>待つ、待ち受ける</small>
 
-**ching dele!**
+**cing dele!**
 ちょっと待って!
 
 **dele mi!**
@@ -828,7 +828,7 @@ Where should I go?
 **man zai vide la fem.**  
 男は女を見ています。
 
-**ye zai si shefe.**  
+**ye zai si xefe.**  
 彼/彼女/その人は今チーフです。
 
 **ye zai na dom.**  
@@ -843,7 +843,7 @@ Where should I go?
 **man pas vide la fem.**  
 男は女を見ていました。
 
-**ye pas si shefe.**  
+**ye pas si xefe.**  
 彼/彼女/その人はチーフでした。
 
 **ye pas na dom.**  
@@ -858,7 +858,7 @@ Where should I go?
 **man le vide la fem.**  
 男はすでに女を見ました。
 
-**ye le si shefe.**  
+**ye le si xefe.**  
 彼/彼女/その人は既にチーフです。
 
 **ye le na dom.**  
@@ -867,16 +867,16 @@ Where should I go?
 
 ### sha <small>未来</small>
 
-**mi sha salam tu su dosti.**  
+**mi xa salam tu su dosti.**  
 私はあなたの友達にあいさつするでしょう。
 
-**man sha vide la fem.**  
+**man xa vide la fem.**  
 男は女を見るでしょう。
 
-**ye sha si shefe.**  
+**ye xa si xefe.**  
 彼/彼女/その人はチーフになるでしょう。
 
-**ye sha na dom.**  
+**ye xa na dom.**  
 彼/彼女/その人は家にいるでしょう。
 
 
@@ -886,10 +886,10 @@ Where should I go?
 
 ### don <small>与える</small>
 
-**ching don pesa.**
+**cing don pesa.**
 お金をください。
 
-**ching don ye do mi.**
+**cing don ye do mi.**
 それを私にください。
 
 **mi don ye do tu.**
@@ -907,7 +907,7 @@ Where should I go?
 **mi kape un kafe.**
 私は一杯のコーヒーを得ました。
 
-**ching kape un kafe do mi.**
+**cing kape un kafe do mi.**
 (私に)コーヒーを一杯ください。
 
 **tu le kape pesa ze mi.**
@@ -1014,7 +1014,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**ching side na ye!**
+**cing side na ye!**
 Please, sit here!
 
 **mi suku stasa.**

@@ -100,7 +100,7 @@ Le temps, l'aspect et le mode sont indiqués à l'aide de particules et d'auxili
 **mi le ama tu.**
 – Je l'ai (déjà) fait.
 (**le** par son sens "déjà", marque l'aspect parfait)  
-**mi sha ama tu.**
+**mi xa ama tu.**
 – Je t'aimerai.
 (**sha** marque le futur)
 

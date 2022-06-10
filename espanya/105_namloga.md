@@ -67,11 +67,11 @@ Por lo tanto es aconsejable usar **shi** siempre cuando conoce personas nuevas d
 
 Un título de respeto se puede usar con el nombre de pila, el apellido, o los dos.
 
-**shi Gabriel Garsia Markes**
+**xi Gabriel Garsia Markes**
 – Sr. Gabriel García Marquez  
-**shi Gabriel**
+**xi Gabriel**
 – Sr. Gabriel  
-**shi Garsia Markes**
+**xi Garsia Markes**
 – Sr. García Marquez
 
 

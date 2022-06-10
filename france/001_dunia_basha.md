@@ -161,7 +161,7 @@ Aucune de ces deux caractéristiques n'est nécessaire dans une langue mondiale.
 
 Le Pandunia a par conséquent déterminé une règle simple :
 l'accent tonique se place toujours sur la syllabe qui précède la dernière consonne.
-Ex : **mi vól lóga la bón dúnia básha.**
+Ex : **mi vól lóga la bón dúnia báxa.**
 Le Pandunia n'a pas d'accent lexical de hauteur.
 
 
