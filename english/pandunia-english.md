@@ -297,7 +297,7 @@ banan - banana
 bande - band (squad, group)  
 bandir - flag (banner)  
 bangle - Bengali (Bangla)  
-Banglodes - Bangladesh  
+Banglodex - Bangladesh  
 banyakamar - bathroom  
 banke - bank (deposit, save)  
 • banker - banker  
@@ -705,15 +705,11 @@ demon - demon
 den - day (daytime)  
 denyam - lunch  
 denge - wait  
-des - country (land, state)  
 dese - ten (10)  
 desdullun - December  
-desojen - citizen  
 deskile - ten thousand  
 deslun - October  
 desunlun - November  
-• exdes - foreign country  
-• exdese - foreign  
 desen - drawing (design)  
 detal - detail  
 deu - god (deity)  
@@ -733,6 +729,10 @@ undevisme - monotheism
 deunagre - Devanagari alphabet  
 deusage - myth (divine story)  
 deusofia - theosophy  
+dex - country (land, state)  
+dexojen - citizen  
+• exdex - foreign country  
+• exdexe - foreign  
 di - 's (attributive postposition)  
 dike - direct (point, aim; direction; target, objective)  
 • diker - pointer (director)  
@@ -3469,7 +3469,7 @@ Salvador - El Salvador
 salve - save (rescue,salvage)  
 • salver - savior (rescuer)  
 same - same (equal, match)  
-samdese - compatriot  
+samdexe - compatriot  
 samemos - compassion (sympathy)  
 sammetre - symmetrical  
 sammetria - symmetry  
@@ -3482,17 +3482,10 @@ samsife - similar (analogous)
 samsifia - model (similarity, simulation)  
 samarium - samarium  
 Samoa - Samoa  
-sampan - Champagne  
-sampan vin - champagne  
 san - mountain (hill)  
 sanduice - sandwich  
 sanduke - box (chest)  
-sanke - doubt (suspect)  
-• sankable - dubious (suspicious)  
-• sankane - doubtful (suspicious)  
-sante - rest (relief, repose)  
 sante - holy (sacred)  
-sante - calm (peaceful, quiet)  
 sante kanon - holy writ (sacred writings)  
 Sante Kitse - Saint Kitts  
 Sante Kitse e Nevis - Saint Kitts and Nevis  
@@ -3510,14 +3503,10 @@ sar - head
 sarkaske - helmet  
 saroste - skull  
 sartunge - headache  
-sarme - shame (disgrace)  
-sarte - condition (requirement; require, stipulate)  
-sase - rustle  
 sate - time (clock time,moment,hour)  
 sate di - momentary  
 satodone - dedicate (devote)  
 satodonia - dedication (devotion)  
-satrange - chess  
 Saturne - Saturn  
 save - knowledge  
 save - know (be aware of)  
@@ -3530,11 +3519,11 @@ savovole - interested (curious)
 savovolu - wonder (be interested in, would like to know)  
 savovolane - interested (curious)  
 savovolite - interesting (curious)  
+• ansave - strange (unknown)  
 Saudi Arabia - Saudi Arabia  
 sauna - sauna  
 saure - lizard  
 saus - sauce  
-• ansave - strange (unknown)  
 se - self (reflexive pronoun)  
 se su - own  
 semon - each other (one another)  
@@ -3557,10 +3546,10 @@ seme - mean (signify)
 • poliseme - ambiguous (polysemous)  
 • unoseme - unambiguous  
 semen - seed (semen)  
-• semene - seminal  
 semendan - seed (fertilized grain)  
+• semenike - seminal  
 semente - cement  
-sen - age  
+sene - age  
 sene - aged  
 senater - senator  
 Senegal - Senegal  
@@ -3572,12 +3561,13 @@ sense - sense (perceive, detect)
 sente - feel (sense by touch)  
 senter - tentacle (feeler)  
 sere - series (sequence,succession)  
-sere - saw  
+ser: - link  
 • seria - series (sequence,succession)  
-serofun - sawdust  
-serokan - sawmill  
+seria - series (sequence)  
 serlinke - link  
 sernete - chain mail  
+sernete - chain mail  
+serser - chain  
 serser - chain  
 Sera Leone - Sierra Leone  
 serame - ceramic  
@@ -3591,18 +3581,17 @@ server - servant
 servor - server (host machine)  
 servor nam - servername (hostname)  
 sesam - sesame  
-Seshel nesia - Seychelles  
 sexe - sex (sexual relation; have sex)  
 sexe - have sex  
 sexe - sexy (sexually arousing)  
-sexe - sexy (sexually arousing)  
+• sexike - sexy (sexually arousing)  
 sexolojia - sexology  
 sexolojia - sexology  
 • ansexe - asexual  
 • dusexe - bisexual  
 • homosexe - homosexual  
 • pansexe - pansexual  
-Shanghai - Shanghai  
+Sexel nesia - Seychelles  
 si - be  
 si ham - matter (be important)  
 siane - cyan  
@@ -3616,7 +3605,7 @@ siborgium - seaborgium
 side - seat (saddle)  
 side - sit (put down)  
 sidu - sit down  
-inside - crouch (squat)  
+• inside - crouch (squat)  
 • presidente - president  
 • visopresidente - vice-president  
 sif - attribute (charasteristic, quality, feature, description, property)  
@@ -3631,27 +3620,17 @@ sikiste - Sikh
 sikle - bike (cycle)  
 sikliste - cyclist  
 risikle - recycle  
-sil - link  
-silia - series (sequence)  
-silnete - chain mail  
-silsil - chain  
 silike - silicon  
 silke - silk  
-sim - heart  
 simple - simple (not complicated)  
+• simplife - simplify  
 sin- - jointly  
-sin - belief (faith, creed)  
-sine - believe  
-sindavisme - Shintoism  
 sina - chest (breast)  
 sinakapse - rib cage  
 sinaplate - breastplate  
 sing - lion  
-sing - star  
-singofote - twinkle (sparkle)  
 Singapur - Singapore  
-sinye - sign (signal,indication)  
-sinye - sign (signal)  
+sinye - sign (signal, indication)  
 • sinyal - signal  
 • asinye - assign (ascribe,attribute)  
 • desinye - designate (mark out)  
@@ -3667,7 +3646,6 @@ sirke - surround (encircle)
 sirke - round (circular)  
 sirkite - cobblestone  
 siro - zero (none)  
-sisa - impale (stab, skewer)  
 sise - six (6)  
 sisfas - hexahedron (cube)  
 sisgon - hexagon  
@@ -3722,7 +3700,7 @@ some - sleep
 somokamar - bedroom  
 somopapil - opium poppy  
 Somalia - Somalia  
-Somaldes - Somaliland  
+Somaldex - Somaliland  
 son - sound (audio)  
 sone - sound (make a sound)  
 song - pine tree  
@@ -3757,7 +3735,7 @@ stude - study (work in order to practise or demonstrate)
 • studente - learner (student)  
 • studer - student  
 su- - good (well)  
-suahile - Swahili  
+suahili - Swahili  
 sual - ask (inquire; question, query, inquiry)  
 • sualive - interrogative  
 sualdokum - form (questionaire)  
@@ -3772,9 +3750,9 @@ suaryam - dinner
 Suati - Eswatini (Swaziland)  
 sube - underside (underneath)  
 sube - morning (dawn)  
+• subike - lower (inferior)  
 suboden - forenoon  
 subyam - breakfast  
-• subike - lower (inferior)  
 sude - south  
 sude - southern  
 Sudi Amerike - South America  
@@ -3804,7 +3782,7 @@ suke - please (satisfy, delight)
 suke - pleased (delighted, happy)  
 suku - like (enjoy, be fond of)  
 sukar - sugar  
-sukare - sugary (sweet)  
+sukari - sugary (sweet)  
 sukarbete - sugar beet  
 sukarorange - sweet orange  
 sukar gana - sugarcane  
@@ -4285,14 +4263,26 @@ xake - branch (bough)
 xakal - jackal  
 xal - scarf (shawl)  
 xaman - shaman  
+xampan - Champagne  
+xampan vin - champagne  
+Xanghai - Shanghai  
+xanke - doubt (suspect)  
+• xankable - dubious (suspicious)  
+• xankane - doubtful (suspicious)  
+xante - rest (relief, repose)  
+xante - calm (peaceful, quiet)  
 xarke - shark  
+xarme - shame (disgrace)  
 xarnir - hinge (pivot)  
+xarte - condition (requirement; require, stipulate)  
 xate - oppose (antagonize, object, resist)  
 xatan - adversary (antagonist, opponent)  
 xatan (ruhoxatan) - devil (Satan)  
 xatani - devilish (satanic)  
 xatanisme - Satanism (devil worship)  
 xataniste - Satanist  
+xatrange - chess  
+xaxa - rustle  
 xefe - chief (boss)  
 xefe minister - prime minister  
 xefe di - main (principal)  
@@ -4301,6 +4291,15 @@ xeihal - situation (circumstances, state of affairs)
 xeihalironia - situational irony  
 xenon - xenon  
 xenseng - master (sensei)  
+xere - saw  
+xerofun - sawdust  
+xerokan - sawmill  
+xim - heart  
+xin - belief (faith, creed)  
+xine - believe  
+xindavisme - Shintoism  
+xing - star  
+xingofote - twinkle (sparkle)  
 xipe - wet  
 • xipete - humid (damp, moist)  
 • perxipe - soak (drench)  
@@ -4311,6 +4310,7 @@ xirope - syrup
 xixkababe - shish kebab  
 xite - shit (poop, feces)  
 Xiva - Shiva  
+xixe - impale (stab, skewer)  
 sis - skewer  
 sislun - June  
 sismanse - shashlik  

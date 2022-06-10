@@ -225,7 +225,7 @@ Bahama-saaret - Bahama
 Bahrain - Bahrain  
 bambu - banse  
 banaani - banan  
-Bangladesh - Banglodes  
+Bangladesh - Banglodex  
 barbaari (raakalainen) - barbar  
 Barbados - Barbados  
 Barbuda - Barbuda  
@@ -403,10 +403,10 @@ ensimmäinen (alku-) - xurime
 ensimmäinen (numero yksi) - unime  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anative  
-epäilevä - sankane  
+epäilevä - xankane  
 epäillä (olla uskomatta) - ankrede  
-epäilys - sanke  
-epäilyttävä - sankable  
+epäilys - xanke  
+epäilyttävä - xankable  
 epänormaali - annorme  
 epäonni - dusi zar  
 epäonni - dusozar  
@@ -751,7 +751,7 @@ hämähäkki - arane
 hän (se) - ye  
 hänen (sen) - ye su  
 häntä - vei  
-häpeä - sarme  
+häpeä - xarme  
 häpy (ulkosynnyttimet) - vulve  
 hätä (paniikki) - panike  
 hävittää maan tasalle (ajaa parta pois) - raze  
@@ -777,7 +777,7 @@ ihmisoikeudet - human hake
 ikkuna - janel  
 ikkunankehys (ikkunanpuite) - janelfrem  
 ikkunaverhot - janelovel  
-ikä - sen  
+ikä - sene  
 ilkeä (julma) - zalime  
 illallinen - suaryam  
 illatiivi - inlative  
@@ -986,7 +986,7 @@ kade (kateellinen) - gelose
 kadmium - kadium  
 kahdeksan (8) - bate  
 kahdesti (kaksi kertaa) - dulmaro  
-kahista - sase  
+kahista - xaxa  
 kahtiajako (dikotomia) - duotome  
 kahvi - kafe  
 kahvikuppi - kafe kupe  
@@ -1041,7 +1041,7 @@ kansa - nas
 kansa - nasian  
 kansainvälinen - nasmede  
 kansakunta - nasia  
-kansalainen (valtion asukas) - desojen  
+kansalainen (valtion asukas) - dexojen  
 kansalaistaito - civopedia  
 kansallinen - nase  
 kansallissosialismi - nasi sosisme  
@@ -1166,9 +1166,9 @@ kesyttää - dosile
 kesä (suvi) - garmomosim  
 kesäkuu - sislun  
 ketju - serser  
-ketju - silsil  
+ketju - serser  
+ketjun lenkki - ser:  
 ketjun lenkki - serlinke  
-ketjun lenkki - sil  
 ketsuppi - kecape  
 ketterä - agile  
 kettu - hulei  
@@ -1558,7 +1558,7 @@ lentokone - viman
 lentokonekaappari - vimankaper  
 lentokonekaappaus - airopiratia  
 lepakko - feimus  
-lepo - sante  
+lepo - xante  
 lepo - repause  
 lepää rauhassa (RIP) - repause in pace (RIP)  
 leski - vidou  
@@ -1711,7 +1711,7 @@ löytää (keksiä) - eureke
 
 maa (maaperä) - gee  
 maa (multa; mutainen, likainen) - darte  
-maa (valtio) - des  
+maa (valtio) - dex  
 maahanmuuttaja - inmigrer  
 maailma - dunia  
 maailman- - globe  
@@ -2612,7 +2612,7 @@ raskasmetalli - veze metal
 ratas - cakre  
 ratas - rote  
 rauha - pace  
-rauhallinen (levollinen, tyyni) - sante  
+rauhallinen (levollinen, tyyni) - xante  
 rauhanaate (pasifismi) - pacisme  
 rauta - fer  
 ravintola - restorante  
@@ -2725,9 +2725,9 @@ saavuttaa (päästä tykö) - acese
 sade - barse  
 sadekausi - barsomosim  
 sadetakki - barsokote  
-saha - sere  
-sahalaitos - serokan  
-sahanpuru (sahajauho) - serofun  
+saha - xere  
+sahalaitos - xerokan  
+sahanpuru (sahajauho) - xerofun  
 sahrami - safran  
 Saint Kitts - Sante Kitse  
 Saint Kitts ja Nevis - Sante Kitse e Nevis  
@@ -2748,7 +2748,7 @@ sallittu (hyväksytty) - halale
 Salomon-saaret - Solomon nesia  
 sama (yhtäläinen) - same  
 samanlainen - samsife  
-samanmaalainen (maanmies) - samdese  
+samanmaalainen (maanmies) - samdexe  
 samarium - samarium  
 Sambia - Zambia  
 sammal - mos  
@@ -2770,7 +2770,7 @@ sapatti - sabate
 sarana - xarnir  
 sardelli (anjovis) - ancovi  
 sarja - sere  
-sarja - silia  
+sarja - seria  
 sarjakuva - grafosage  
 sarvi - korne  
 sarvikuono - kornonos  
@@ -2810,7 +2810,7 @@ sekoitin - mixer
 sekoittaa - mixe  
 seksi (sukupuolisuhde) - sexe  
 seksikäs - sexe  
-seksikäs - sexe  
+seksikäs - sexike  
 seksologia - sexolojia  
 seksologia - sexolojia  
 sekunti - sekunde  
@@ -2840,13 +2840,13 @@ seurata (tulla perässä, tulla jäljessä) - pose
 seuraus - pos  
 seurustella (toimia yhdessä) - soce  
 seutu (maa) - tope  
-Seychellit - Seshel nesia  
+Seychellit - Sexel nesia  
 sianliha - gurubomanse  
 side (nauha; sitoa) - bende  
 side (remmi) - faxe  
 siellä (tuolla) - a le  
 siemen - semen  
-siemen- - semene  
+siemen- - semenike  
 siemenjyvä - semendan  
 sienen hattu - fungopal  
 sieni - funge  
@@ -2871,7 +2871,7 @@ siksakki - zigzage
 sileä - lise  
 silkki - silke  
 silmukkapanssari (rengashaarniska) - sernete  
-silmukkapanssari (rengashaarniska) - silnete  
+silmukkapanssari (rengashaarniska) - sernete  
 silmä - oke  
 silmä- - oke  
 silmäillä (katsoa, tarkkailla) - oke  
@@ -2883,7 +2883,7 @@ Singapore - Singapur
 sininen - nile  
 sinkki - zinke  
 sinko (raketinheitin) - roketolancer  
-sintolaisuus - sindavisme  
+sintolaisuus - xindavisme  
 sinun - tu su  
 sinä - tu  
 Siperia - Sibiria  
@@ -2936,13 +2936,13 @@ soittaa (musisoida) - muzike
 soittaa puhelimella - telfone  
 soittokello - danger  
 sokeri - sukar  
-sokerinen (makea) - sukare  
+sokerinen (makea) - sukari  
 sola (läpikulku) - pasodau  
 solmia (solmu) - node  
 solu - cel  
 soluoppi (sytologia) - celolojia  
 Somalia - Somalia  
-Somalimaa - Somaldes  
+Somalimaa - Somaldex  
 sopia (passata) - hapu  
 sopia (tehdä sopimus) - trete  
 sopia - konbone  
@@ -2974,7 +2974,7 @@ stadioni (areena) - stadia
 stereofoninen - dulsonde  
 stereoskooppinen - dulgrafe  
 strontium - strontium  
-suahili - suahile  
+suahili - suahili  
 substantiivi (nimisana) - namloge  
 Sudan - Sudan  
 sudenkorento - libele  
@@ -3032,7 +3032,7 @@ Svalbard - Svalbarde
 Sveitsi - Suisia  
 Swazimaa - Suati  
 syaani - siane  
-sydän - sim  
+sydän - xim  
 syksy (syys) - padomosim  
 sylkeä - tuhe  
 symmetria - sammetria  
@@ -3388,7 +3388,7 @@ työntekijä (työläinen) - karer
 työntää (puskea) - puse  
 työpöytä (kirjoituspöytä) - karmeze  
 työskennellä - kare  
-tähti - sing  
+tähti - xing  
 tähtialus - astronau  
 tähtitiede (astronomia) - astronomia  
 tähtitieteilijä - astronomer  
@@ -3413,8 +3413,8 @@ Uganda - Ganda
 ukkosmyrsky - gromtafun  
 Ukraina - Ukraina  
 ulkoinen (ulkopuolinen; ylimääräinen, ekstra) - extre  
-ulkomaa - exdes  
-ulkomaalainen - exdese  
+ulkomaa - exdex  
+ulkomaalainen - exdexe  
 ulkona (ulkopuolella) - extro  
 ulkopuoli (ulko-; ulkoinen) - exe  
 ulkopuolinen - exojen  
@@ -3447,9 +3447,9 @@ urheilu - sporte
 uros (mies) - man  
 Uruguai - Uruguai  
 usein - poli mar  
-usko (luottamus) - sin  
+usko (luottamus) - xin  
 uskoa (luottaa) - krede  
-uskoa (luottaa) - sine  
+uskoa (luottaa) - xine  
 uskomaton - ankredable  
 uskonnoton - andiniste  
 uskonnoton - ankrediste  
@@ -3473,7 +3473,7 @@ vaaka (puntari) - vezometrer
 vaaleanpunainen - rozorange  
 vaara (vaarallinen) - hatre  
 vaate (puku) - fuke  
-vaatia (edellyttää; vaatimus, edellytys) - sarte  
+vaatia (edellyttää; vaatimus, edellytys) - xarte  
 vaha - mum  
 vahingollinen (vaurioittava) - avaran  
 vaihe (etappi) - faze  
@@ -3754,6 +3754,7 @@ yksikielinen - unolinguike
 yksimerkityksinen - unomene  
 yksimerkityksinen - unoseme  
 yksinkertainen (mutkaton) - simple  
+yksinkertaistaa - simplife  
 yksinpuhelu (monologi) - autologe  
 yksinvaltius (autokratia, monarkia) - autokratia  
 yksityiskohta (detalji) - detal  
@@ -3819,10 +3820,10 @@ zulu - Zulu
 ääntää (lausua) - fonologe  
 ääntää - sone  
 äärettömyys (rajattomuus) - anlimitia  
-ĉampano - sampan vin  
+ĉampano - xampan vin  
 Šiva - Xiva  
 šakaali - xakal  
-šakki - satrange  
+šakki - xatrange  
 šamaani - xaman  
 šampoo - kexosabun  
 šaria - islam xaria  

@@ -96,7 +96,7 @@ ahora (actualmente) - a zay
 ahora mismo (justo) - a nove  
 ahorrar (reservar, depositar) - banke  
 aire - air  
-ajedrez - satrange  
+ajedrez - xatrange  
 ajo - lasun  
 ajonjolí (sésamo) - sesam  
 al revés - retro  
@@ -268,7 +268,7 @@ Aruba - Aruba
 asar (tostar) - roste  
 asar - kababe  
 asceta - askete  
-aserradero - serokan  
+aserradero - xerokan  
 asesino - morter  
 asexual - ansexe  
 Asia - Asia  
@@ -291,7 +291,7 @@ asustador - fobante
 Atenas - Athina  
 ateo - andeviste  
 aterrar - terife  
-atravesar - sisa  
+atravesar - xixe  
 atún - tune  
 auge (aumentar) - auge  
 aullar - ulule  
@@ -321,7 +321,7 @@ ayudar (asistar; ayuda, asistencia) - mede
 azada - cope  
 azafrán - safran  
 Azerbaiyán - Azerbaizan  
-azucarado - sukare  
+azucarado - sukari  
 azufre - sulfe  
 azul - nile  
 azur (blao) - lazure  
@@ -357,7 +357,7 @@ banco de datos (base de datos) - datobanke
 banda (cinta; atar, amarrar)) - bende  
 banda - bande  
 bandera - bandir  
-Bangladés - Banglodes  
+Bangladés - Banglodex  
 banquero - banker  
 baobab - buyu  
 bar (pub) - birkan  
@@ -495,7 +495,7 @@ cacao - kakau
 cacto - katus  
 cada - panun  
 cadena - serser  
-cadena - silsil  
+cadena - serser  
 cadmio - kadium  
 caer - pade  
 cafetera - kafe pote  
@@ -619,7 +619,7 @@ cementerio - gabrostan
 cemento - semente  
 cena - suaryam  
 ceniza - hui  
-centellear (titilar) - singofote  
+centellear (titilar) - xingofote  
 centi- (por ciento) - centi  
 central - zungi  
 centrar (concentrar) - zunga  
@@ -644,8 +644,8 @@ cesio - cesium
 cesta (canasta, barquilla, aro) - baske  
 chacal - xakal  
 Chad - Cadia  
-champagne - sampan vin  
-Champaña - sampan  
+champagne - xampan vin  
+Champaña - xampan  
 champiñón (seta) - fungopal  
 champú - kexosabun  
 chamán (brujo, hechicero) - xaman  
@@ -692,7 +692,7 @@ citar - cite
 citología - celolojia  
 ciudad - site  
 Ciudad de México - Mehiko site  
-ciudadano - desojen  
+ciudadano - dexojen  
 civil - civile  
 civilización - sivilia  
 civilizado - sivile  
@@ -770,7 +770,7 @@ compasión - samemos
 compatible - konfuncable  
 compatible - konfunsable  
 compatriota (cotérraneo) - konpatrian  
-compatriota - samdese  
+compatriota - samdexe  
 compañero (compinche) - latojen  
 compañía (empresa, corporación) - kompania  
 competir (partido) - mace  
@@ -793,7 +793,7 @@ concentrar (enfocarse) - fokus
 conceptual - ide  
 concierto - konserte  
 concreto (hormigón) - beton  
-condición (requisito, estipulación; espicificar, estipular) - sarte  
+condición (requisito, estipulación; espicificar, estipular) - xarte  
 conducir - xofe  
 conductor (chofer) - xofer  
 conectar (empalmar, enlazar, vincular) - linke  
@@ -842,7 +842,7 @@ copiar - kope
 copérnico - kopernikium  
 coral - biu  
 corazón (núcleo) - kore  
-corazón - sim  
+corazón - xim  
 Corea - Cosen  
 Corea del Norte - Nordi Cosen  
 Corea del Sur - Sudi Cosen  
@@ -872,12 +872,12 @@ costumbre (hábito; ordinario, habitual) - ade
 costumbre (tradición, convención; traditional, convencional) - rite  
 costura (sutura) - suture  
 cota de malla - sernete  
-cota de malla - silnete  
+cota de malla - sernete  
 crecemiento - raste  
 crecer - rastu  
-creencia (fe) - sin  
+creencia (fe) - xin  
 creer - krede  
-creer - sine  
+creer - xine  
 crema - krem  
 cremallera - ziper  
 cremoso - kreme  
@@ -1025,7 +1025,7 @@ desacuerdo - alorayia
 desarrollo - dargomute  
 desatascar - detape  
 desayuno - subyam  
-descanso (alivio) - sante  
+descanso (alivio) - xante  
 descargar - netogete  
 descase en paz - repause in pace (RIP)  
 desconectar - dekonnete  
@@ -1127,8 +1127,8 @@ droga (narcótico) - narke
 dualismo - dulisme  
 dubnio - dubnium  
 ducha - duce  
-duda - sanke  
-dudoso - sankable  
+duda - xanke  
+dudoso - xankable  
 dueño - maler  
 duna - duna  
 durable - durable  
@@ -1149,7 +1149,7 @@ economía - malonomia
 econtrar (hallar) - eureke  
 Ecuador - Ekuador  
 ecuador - geoparlin  
-edad - sen  
+edad - sene  
 educación - xulia  
 educación cívica - civopedia  
 educado - kece  
@@ -1274,8 +1274,8 @@ esculpir (escultura, estatua) - skulte
 escultor - skulter  
 escultura (arte de escultura) - skultia  
 escupir (bufar) - tuhe  
+eslabón - ser:  
 eslabón - serlinke  
-eslabón - sil  
 eslavo - slave  
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
@@ -1319,7 +1319,7 @@ estimar (apriximarse a) - yage
 estirar (extender) - tirlonge  
 Estonia - Estia  
 estornudar (achís) - aci  
-estrella - sing  
+estrella - xing  
 estribor - nauraite  
 estudiante (alumno) - studente  
 estudiante - xuler  
@@ -1370,7 +1370,7 @@ extra (adicional) - extre
 extractor - extrator  
 extraer - extrate  
 extrajudicial - exjude  
-extranjero - exdese  
+extranjero - exdexe  
 exógeno - exogene  
 exónimo - exonam  
 
@@ -2661,8 +2661,8 @@ pausa - pauze
 pavo (guajalote) - dinde  
 payaso (clown) - payace  
 paz - pace  
-país (nación, estado, terra) - des  
-país extranjero - exdes  
+país (nación, estado, terra) - dex  
+país extranjero - exdex  
 Países Bajos - Nederlandia  
 pecado - dusate  
 pecado - duskar  
@@ -3217,7 +3217,7 @@ selenio - selenium
 sello postal - postocape  
 semana - yomcete  
 semilla - semen  
-seminal - semene  
+seminal - semenike  
 semáforo - semoforer  
 semántica - semolojia  
 senador - senater  
@@ -3236,9 +3236,9 @@ ser de - be male
 ser humano - human  
 Serbia - Serbia  
 serie - sere  
-serie - silia  
+serie - seria  
 serpiente (culebra) - serpe  
-serrín - serofun  
+serrín - xerofun  
 servicio - serve  
 servidor - servor  
 servir - serve  
@@ -3248,9 +3248,8 @@ sexo - sexe
 sexología - sexolojia  
 sexología - sexolojia  
 sexy (sexual) - sexe  
-sexy (sexual) - sexe  
-Seychelles - Seshel nesia  
-seña (indicación) - sinye  
+sexy (sexual) - sexike  
+Seychelles - Sexel nesia  
 señal (letrero, indicio) - sinye  
 señal - sinyal  
 señal de tránsito - dauban  
@@ -3260,7 +3259,7 @@ shogunato - gunregia
 si (suponer) - gar  
 Siberia - Sibiria  
 siempre - pansato  
-sierra - sere  
+sierra - xere  
 Sierra Leona - Sera Leone  
 siete (7) - cete  
 sigilo - siri mote  
@@ -3285,7 +3284,7 @@ sinocoreano - cinocoseni
 sinovietnamita - cinovieti  
 sintonizador - sintonor  
 sintonizar - sintone  
-sintoísmo - sindavisme  
+sintoísmo - xindavisme  
 Siria - Suria  
 sismología - sismolojia  
 sistema - sistem  
@@ -3307,7 +3306,7 @@ sofá - kanape
 sofá - sofa  
 soja - soi  
 sol - sol  
-Solamilandia - Somaldes  
+Solamilandia - Somaldex  
 soldado - gunjen  
 solsticio - solestas  
 Somalia - Somalia  
@@ -3323,7 +3322,7 @@ sranan tongo - surinami baxe
 Sri Lanka - Lanka  
 strontium - strontium  
 su (suyo) - se su  
-suajili - suahile  
+suajili - suahili  
 suave (liso) - lise  
 subestimar - minrai  
 subir (alzar) - gavu  
@@ -3358,7 +3357,7 @@ sushi - suxi
 sustancia (materia) - mate  
 sustancia - kime  
 sustantivo - namloge  
-susurrar (curjir) - sase  
+susurrar (curjir) - xaxa  
 Svalbard - Svalbarde  
 sábado - sisyom  
 sándwich (sánduche) - sanduice  
@@ -3516,7 +3515,7 @@ tragedia - tragodia
 tragicómico - tragokomi  
 trampa - kapotruke  
 trampilla - padomun  
-tranquilo (calmado) - sante  
+tranquilo (calmado) - xante  
 transcurrir - transkurse  
 transitar (atravesar) - transe  
 transmisión - tranmision  
@@ -3649,7 +3648,7 @@ verde - luge
 verde limón - limonluge  
 verdura (legumbre) - yamfite  
 verduras - coi  
-vergüenza (pena) - sarme  
+vergüenza (pena) - xarme  
 verme - verme  
 vermú - vermute  
 verruga - veruke  

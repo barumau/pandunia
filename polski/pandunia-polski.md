@@ -210,7 +210,7 @@ banan - banan
 bande - zespół (drużyna, grupa)  
 bandir - flaga, sztandar  
 bangle - banglijski  
-Banglodes - Bangladesz  
+Banglodex - Bangladesz  
 banyakamar - łazienka  
 banke - oszczędzać (deponować)  
 • banker - bankier  
@@ -545,15 +545,11 @@ demon - demon
 den - dzień  
 denyam - obiad, lunch  
 denge - czekać  
-des - kraj, ziemia  
 dese - dziesięć (10)  
 desdullun - kwiecień  
-desojen - obywatel  
 deskile - dziesięć tysięcy  
 deslun - luty  
 desunlun - marzec  
-• exdes - zagranica  
-• exdese - zagraniczny  
 desen - rysunek, obraz  
 detal - detal, szczegół  
 deu - bóg, bóstwo  
@@ -571,6 +567,10 @@ undevisme - monoteizm
 deunagre - dewanagari  
 deusage - mit, boska opowieść  
 deusofia - teozofia  
+dex - kraj, ziemia  
+dexojen - obywatel  
+• exdex - zagranica  
+• exdexe - zagraniczny  
 di - mieć (partykuła posiadania)  
 dike - cel (celować; kierunek)  
 dikobaton - wskaźnik  
@@ -2698,7 +2698,7 @@ Salvador - Salwador
 salve - ratować  
 • salver - ratownik  
 same - taki sam  
-samdese - rodak, ziomek, krajan  
+samdexe - rodak, ziomek, krajan  
 samemos - współczucie  
 samnam - homonim  
 samraye - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
@@ -2709,17 +2709,10 @@ samsife - podobny (analogiczny)
 samsifia - model (podobieństwo, symulować)  
 samarium - samar  
 Samoa - Samoa  
-sampan - Champagne  
-sampan vin - samppanja  
 san - góra, wzgórze  
 sanduice - kanapka  
 sanduke - pudło, skrzynia  
-sanke - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
-• sankable - wątpliwy (niewiarygodny,podejrzany)  
-• sankane - niepewny (podejrzliwy, niedowierzący)  
-sante - zostawić (zostawiać)  
 sante - święty  
-sante - spokojny  
 Sante Kitse - Saint Kitts  
 Sante Kitse e Nevis - Saint Kitts i Nevis  
 Sante Lucia - Saint Lucia  
@@ -2736,14 +2729,10 @@ sar - głowa
 sarkaske - hełm  
 saroste - czaszka  
 sartunge - ból głowy  
-sarme - wstyd (hańba, kompromitacja)  
-sarte - wymagać (przewidywać; warunek)  
-sase - szeleścić  
 sate - czas  
 sate di - chwilowy  
 satodone - dedykować (poświęcać, poświęcić)  
 satodonia - dedykacja (poświęcenie)  
-satrange - szachy  
 Saturne - Saturn  
 save - wiedza  
 save - wiedzieć  
@@ -2754,11 +2743,11 @@ savolojia - epistemologia
 savovol - zainteresowanie, zaciekawienie; interesujący  
 savovolane - ciekawy  
 savovolite - interesujący  
+• ansave - dziwny (nieznany)  
 Saudi Arabia - Arabia Saudyjska  
 sauna - sauna  
 saure - jaszczurka  
 saus - sos  
-• ansave - dziwny (nieznany)  
 se - sam (siebie)  
 sekreter - sekretarz  
 sekreteria - sekretariat  
@@ -2773,10 +2762,10 @@ selge - boćwina (botwina)
 seme - znaczyć  
 • unoseme - jednoznaczny  
 semen - ziarno (nasienie)  
-• semene - nasienny  
 semendan - ziarno, nasienie  
+• semenike - nasienny  
 semente - cement  
-sen - wiek  
+sene - wiek  
 senater - senator  
 Senegal - Senegal  
 seng - zwycięstwo, wygrana  
@@ -2787,9 +2776,10 @@ sense - czuć (poczuć, postrzegać, wykrywać)
 sente - czuć  
 senter - macka (czułek)  
 sere - seria,szereg  
-sere - piła  
-serokan - tartak  
+seria - seria, szereg  
 sernete - kolczuga  
+sernete - kolczuga  
+serser - łańcuch  
 serser - łańcuch  
 Sera Leone - Sierra Leone  
 serame - ceramika  
@@ -2801,18 +2791,17 @@ serve - służba
 serve - służyć  
 server - sługa  
 sesam - sezam  
-Seshel nesia - Seszele  
 sexe - seks, stosunek płciowy  
 sexe - kochać się, uprawiać seks  
-sexe - seksowny, ponętny  
 sexe - seksowny,ponętny  
+• sexike - seksowny, ponętny  
 sexolojia - seksuologia  
 sexolojia - seksuologia  
 • ansexe - aseksualny  
 • dusexe - biseksualny  
 • homosexe - homoseksualny  
 • pansexe - panseksualny  
-Shanghai - Szanghaj  
+Sexel nesia - Seszele  
 si - być  
 si ham - znaczyć (liczyć się, być ważnym)  
 siane - niebieskozielony (cyjan)  
@@ -2826,7 +2815,7 @@ siborgium - seaborg
 side - siedzenie (siodło)  
 side - siedzieć  
 sidu - usiąść  
-inside - kucać (kucnąć)  
+• inside - kucać (kucnąć)  
 • presidente - prezydent  
 • visopresidente - wiceprezydent  
 sif - cecha, właściwość, parametr  
@@ -2841,22 +2830,13 @@ sikiste - sikh
 sikle - rower  
 sikliste - rowerzysta  
 risikle - przetwarzać  
-silia - seria, szereg  
-silnete - kolczuga  
-silsil - łańcuch  
 silike - krzem  
 silke - jedwab  
-sim - serce  
 simple - prosty, nieskomplikowany  
-sin - wiara, wierzenie, kredo  
-sine - wierzyć  
-sindavisme - shintoizm, sintoizm  
 sina - pierś  
 sinakapse - klatka piersiowa  
 sinaplate - napierśnik  
 sing - lew  
-sing - gwiazda  
-singofote - mruganie (błysk)  
 Singapur - Singapur  
 sinye - znak, sygnał  
 • dusosinye - złowieszczy  
@@ -2871,7 +2851,6 @@ sirke - otoczyć, otaczać
 sirke - okrągły  
 sirkite - bruk  
 siro - zero, nic, żaden  
-sisa - nabić (przebić, dźgnąć)  
 sise - sześć (6)  
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
@@ -2920,7 +2899,7 @@ some - spać (sen)
 somokamar - sypialnia  
 somopapil - mak lekarski  
 Somalia - Somalia  
-Somaldes - Somaliland  
+Somaldex - Somaliland  
 son - dźwięk, brzmienie  
 sone - brzmieć, wydać dźwięk, wydawać dźwięk  
 song - sosna  
@@ -2942,7 +2921,7 @@ stibium - antymon
 strontium - stront  
 • studia - studio (pracownia)  
 • studer - student  
-suahile - suahili  
+suahili - suahili  
 sual - pytać (pytanie)  
 • sualive - pytajny, związany z pytaniem  
 sualdokum - formularz (kwestionariusz)  
@@ -2956,9 +2935,9 @@ suaryam - kolacja
 Suati - Suazi  
 sube - spód  
 sube - ranek, rano, poranek  
+• subike - poniższy  
 suboden - przedpołudnie  
 subyam - śniadanie  
-• subike - poniższy  
 sude - południe  
 sude - południowy  
 Sudi Amerike - Ameryka Południowa  
@@ -2988,7 +2967,7 @@ suke - cieszyć, podobać się
 suke - wesoły, ucieszony  
 suku - lubić, cieszyć się  
 sukar - cukier  
-sukare - słodki  
+sukari - słodki  
 sukarbete - burak cukrowy  
 sukarorange - pomarańcza słodka (pomarańcza chińska)  
 sukar gana - trzcina cukrowa  
@@ -3343,14 +3322,26 @@ xake - gałąź, konar
 xakal - szakal  
 xal - szal, szalik  
 xaman - szaman  
+xampan - Champagne  
+xampan vin - samppanja  
+Xanghai - Szanghaj  
+xanke - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
+• xankable - wątpliwy (niewiarygodny,podejrzany)  
+• xankane - niepewny (podejrzliwy, niedowierzący)  
+xante - zostawić (zostawiać)  
+xante - spokojny  
 xarke - rekin  
+xarme - wstyd (hańba, kompromitacja)  
 xarnir - zawias, oś  
+xarte - wymagać (przewidywać; warunek)  
 xate - sprzeciwiać się (opierać się)  
 xatan - przeciwnik (antagonista)  
 xatan (ruhoxatan) - diabeł, szatan  
 xatani - diabelski, szatański  
 xatanisme - satanizm  
 xataniste - satanista  
+xatrange - szachy  
+xaxa - szeleścić  
 xefe - szef, kierownik  
 xefe minister - premier  
 xefe di - główny  
@@ -3359,6 +3350,14 @@ xeihal - sytuacja (stan)
 xeihalironia - ironia sytuacyjna  
 xenon - ksenon  
 xenseng - mistrz (sensei)  
+xere - piła  
+xerokan - tartak  
+xim - serce  
+xin - wiara, wierzenie, kredo  
+xine - wierzyć  
+xindavisme - shintoizm, sintoizm  
+xing - gwiazda  
+xingofote - mruganie (błysk)  
 xipe - mokry (wilgotny; moczyć, zmoczyć)  
 xipostan - mokradło  
 xir - poemat  
@@ -3367,6 +3366,7 @@ xirope - syrop
 xixkababe - szisz kebab  
 xite - gówno  
 Xiva - Śiwa  
+xixe - nabić (przebić, dźgnąć)  
 sis - rożen (szpikulec)  
 sislun - wrzesień  
 sismanse - szaszłyk  

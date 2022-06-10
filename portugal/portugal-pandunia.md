@@ -9,6 +9,7 @@ abobrinha - lilkaboge
 abóbora (jerimun) - kaboge  
 acanto-bastardo - pinkardon  
 aceitar - acepe  
+acelga - selge  
 acento - baloton  
 acesso (acceder) - acese  
 aclamar - proklame  
@@ -274,8 +275,8 @@ cerveja - bir
 cerâmica - poteria  
 cerâmico - serame  
 cevada - jau  
-Champagne - sampan  
-champaña - sampan vin  
+Champagne - xampan  
+champaña - xampan vin  
 chance - canse  
 charme - carme  
 chavena (tigela de chá) - caikupe  
@@ -296,7 +297,7 @@ ciclista - sikliste
 cidade - site  
 cigarro - sigar  
 cinco (5) - lime  
-cintilar - singofote  
+cintilar - xingofote  
 cinéfilo - kinofilike  
 citologia - celolojia  
 civil - civile  
@@ -408,7 +409,7 @@ deixar - lase
 dente-de-leão (taráxaco) - makanful  
 derretre - fuze  
 descanse em paz - repause in pace (RIP)  
-descanso (repouso) - sante  
+descanso (repouso) - xante  
 desconectar - dekonnete  
 desenvolvimento - dargomute  
 deserto - sablostan  
@@ -459,7 +460,7 @@ duna (бархан) - duna
 durar (transcorrer; duração) - dur  
 duro - gate  
 dêixis - dikion  
-dúbio (duvidoso) - sankable  
+dúbio (duvidoso) - xankable  
 dúbnio - dubnium  
 
 ## E  
@@ -479,8 +480,8 @@ elemento químico - kimium
 eletricidade - eletre  
 eletrônica - eletrolojia  
 elfo - elfe  
+elo - ser:  
 elo - serlinke  
-elo - sil  
 elogio - euloge  
 embalar - lifafe  
 emoticon (emoji) - emoze  
@@ -708,7 +709,7 @@ hóquei no gelo - aishoke
 
 ## I  
 
-idade - sen  
+idade - sene  
 idoso (sene) - sene  
 idoso - lave  
 igual (par) - pare  
@@ -1363,16 +1364,16 @@ selva (floresta) - van:
 selvagem (silvestre) - jangle  
 selénio - selenium  
 semente - semen  
-seminal - semene  
+seminal - semenike  
 semântica - semolojia  
 senador - senater  
 sentido - sense  
 sepultura (túmulo; enterrar) - gabre  
 ser (estar) - si  
 ser humano - human  
-serra - sere  
-serragem - serofun  
-serraría - serokan  
+serra - xere  
+serragem - xerofun  
+serraría - xerokan  
 sete (7) - cete  
 sexo - gense  
 sexologia - sexolojia  
@@ -1411,7 +1412,7 @@ suástica (cruz gamada) - hukokrus
 sábado - sisyom  
 São Paulo - Sante Paulo  
 série (sequência) - sere  
-série (sequência) - silia  
+série (sequência) - seria  
 sódio - natrium  
 
 ## T  
@@ -1471,7 +1472,7 @@ trabalhar - kare
 trabalho - karme  
 tragédia - tragodia  
 trajar (vestir-se) - fuku  
-tranquilo (calmo) - sante  
+tranquilo (calmo) - xante  
 transmissor - tranmisor  
 transmissão - tranmision  
 transmitir - tranmise  

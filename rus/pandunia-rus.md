@@ -1297,18 +1297,13 @@ sammetria - симметрия
 samrayia - согласие  
 samsifia - симуляция  
 samarium - самарий  
-sampan - Шампань  
-sampan vin - champanhe  
 sanduice - сандвич  
 sanduke - сундук  
-sante - отдых  
-sante - спокойный  
 sante kanon - священное писание  
 sanze - веер  
 sapate - туфля  
 sar - голова  
 sartunge - головная боль  
-sase - шурша́ть  
 sate - время (момент)  
 sate di - моментальный (минутный)  
 Saturne - Сатурн  
@@ -1329,18 +1324,18 @@ selge - мангольд
 • semoforer - семафор  
 • semolojia - семантика  
 semen - семя  
-• semene - семенной  
+• semenike - семенной  
 semente - цемент  
-sen - возраст  
+sene - возраст  
 senater - сенатор  
 senge - победить  
 sense - чувство  
 senter - щупальце  
 sere - серия  
-sere - пила  
-serofun - опилки  
-serokan - лесопилка  
+ser: - звено  
+seria - серия  
 serlinke - звено  
+sernete - кольчуга  
 sernete - кольчуга  
 serame - керамика  
 servor - сервер  
@@ -1354,19 +1349,15 @@ sibaya tene - потерять (утратить)
 siborgium - сиборгий  
 side - сиденье (седло)  
 side - сидеть  
-inside - сесть на корточки  
+• inside - сесть на корточки  
 sifloge - прилагательное  
 sigar - сигарета (папироса,сигарка)  
 siyahe - чёрный  
 sikliste - велосипедист  
 risikle - рециркулировать  
-sil - звено  
-silia - серия  
-silnete - кольчуга  
 silike - кремний  
 silke - шёлк  
 sinaplate - нагрудник  
-singofote - сверкать (мерцать)  
 • dusosinye - зловещий  
 sire - скрывать  
 sirplan - заговор (сговор)  
@@ -1609,15 +1600,24 @@ vulve - вульва
 ## X  
 
 xaman - шаман  
+xampan - Шампань  
+xampan vin - champanhe  
+xante - отдых  
+xante - спокойный  
 xarke - акула  
 xarnir - шарнир  
 xate - противостоять  
 xatan - противник  
 xatan (ruhoxatan) - Сатана  
+xaxa - шурша́ть  
 xefe - шеф  
 xei - вещь  
 xeihal - положение (ситуация)  
 xenon - ксенон  
+xere - пила  
+xerofun - опилки  
+xerokan - лесопилка  
+xingofote - сверкать (мерцать)  
 • xipete - влажный  
 xixkababe - шиш-кебаб  
 xite - говно (дерьмо)  

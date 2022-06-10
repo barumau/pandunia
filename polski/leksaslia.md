@@ -265,11 +265,11 @@
 **demon** *demon* ← eng:tur:demon, spa:demonio, por:demônio, fra:démon, deu:Dämon, rus:демон (demon)  
 **den** *dzień* ← rus:день (deń), hin:दिन (din), ben:দিন (din) + zho:天 (tiān), yue:天 (tin1)  
 **denge** *czekać* ← zho:等 (děng), yue:等 (dang2)  
-**des** *kraj, ziemia* ← hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)  
 **dese** *dziesięć (10)* ← por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-  
 **desen** *rysunek, obraz* ← eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hin:डिज़ाइन (ḍizāin), jpn:デザイン (dezain)  
 **detal** *detal, szczegół* ← eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)  
 **deu** *bóg, bóstwo* ← por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)  
+**dex** *kraj, ziemia* ← hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)  
 **dike** *cel (celować; kierunek)* ← eng:indicate, fra:indiquer, spa:por:indicar + hin:mar:दिशा (diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang) + ben:দিকে (dike) + zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích  
 **din** *religia, wyznanie* ← ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)  
 **dinamite** *dynamit* ← eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)  
@@ -1220,17 +1220,11 @@
 **san** *góra, wzgórze* ← zho:山 (shān), jpn:山 (san), kor:산 (san), vie:sơn  
 **sanduice** *kanapka* ← eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic  
 **sanduke** *pudło, skrzynia* ← swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)  
-**sanke** *wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność* ← hin:शंका (śankā) + ara: شَكَّ‎ (šakka), swa:shaka  
-**sante** *spokojny* ← hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)  
 **sante** *święty* ← por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng), hin:संत (sant), kon:santu  
 **sanze** *wiatrak (wentylator)* ← zho:扇子 (shànzi), yue:扇子  (sin3zi2), jpn:扇子 (sensu), kor:선 (seon), mon:шанз (šanz)  
 **sapate** *but* ← spa:zapato, por:sapato, may:sepatu, swa:sapatu  
 **sar** *głowa* ← fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi  
-**sarme** *wstyd (hańba, kompromitacja)* ← fas:(šarm), urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)  
-**sarte** *wymagać (przewidywać; warunek)* ← tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)  
-**sase** *szeleścić* ← zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha  
 **sate** *czas* ← ara: سَاعَة‎ (sāʿa), may:tur:saat, swa:saa, hau:sa’a, wol:yor:saa, fas:(sâ'at)  
-**satrange** *szachy* ← hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez  
 **sauna** *sauna* ← fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)  
 **saure** *jaszczurka* ← ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)  
 **saus** *sos* ← eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus  
@@ -1245,12 +1239,12 @@
 **selge** *boćwina (botwina)* ← ara:سلق (silqa), spa:por:acelga  
 **semen** *ziarno (nasienie)* ← fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen  
 **semente** *cement* ← eng:cement, may:semen, spa:cemento, swa:sementi, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)  
-**sen** *wiek* ← ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)  
+**sene** *wiek* ← ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)  
 **seng** *zwycięstwo, wygrana* ← zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng  
 **sense** *zmysł* ← eng:sense, spa:por:sentido, fra:sens  
 **sente** *czuć* ← spa:por:sentir  
+**ser:** ** ← hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili + zho:系列 (xìliè) + eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri  
 **serame** *ceramika* ← eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik  
-**sere** *piła* ← alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)  
 **sere** *seria,szereg* ← eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri + hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili, fas: سلسله‎ (selsele), amh:ሰንሰለት (sänsälät) + zho:系列 (xìliè)  
 **serebre** *mózg* ← eng:cerebrum, spa:cerebro, por:cérebro, fra:cerveau  
 **serpe** *wąż* ← hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé  
@@ -1265,19 +1259,13 @@
 **sigar** *papieros (cygar)* ← eng:fra:cigarette, spa:cigarillo, por:cigarro, rus:сигарета (sigarteta), ara:(sījāra), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá), hin:सिगरेट (sigreṭ), ben:সিগারেট (śigareṭ), swa:tur:sigara, amh:ሲጃራ (siǧara)  
 **sike** *elegancki, szykowny* ← eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)  
 **sikle** *rower* ← eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)  
-**sil** ** ← hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili + zho:系列 (xìliè) + eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri  
 **silike** *krzem* ← eng:silicon, fra:silicium, spa:silicio, por:silício, rus:кремний, vie:silic, hin:सिलिकॉन, ben:সিলিকন, may:silikon, swa:silikoni, ara: سيلكون  
 **silke** *jedwab* ← zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), eng:silk, spa:por:sérico, rus:шёлк (sholk)  
-**sim** *serce* ← kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim  
 **simple** *prosty, nieskomplikowany* ← eng:spa:fra:simple, por:simples, deu:simpel  
-**sin** *wiara, wierzenie, kredo* ← zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin  
 **sina** *pierś* ← fas:(sine), tur:sine, hin:सीना (sīnā), spa:seno, fra:sein, ltn:sinus  
-**sindavisme** *shintoizm, sintoizm* ← jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)  
-**sing** *gwiazda* ← zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)  
 **sing** *lew* ← may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba  
 **sinye** *znak, sygnał* ← eng:sign, spa:señal, por:sinal, fra:signe  
 **sir** *sekret* ← ara: سِرّ (sirr), hin:सेर (ser), may:sir, swa:siri, hau:ful:asiri, yor:àṣírí, tur:sır, fas:(serr)  
-**sire** *sekret* ← ara:(sirr), tur:sır, fas:(serr), swa:siri  
 **sirke** *koło, okrąg* ← eng:circle, spa:por:círculo, fra:cercle  
 **siro** *zero, nic, żaden* ← ara: صِفْر‎ (ṣifr), swa:sifuri, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô  
 **sis** *rożen (szpikulec)* ← tur:şiş + eng:shish-, rus:шиш- (šiš-)  
@@ -1489,14 +1477,25 @@
 **xake** *gałąź, konar* ← ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)  
 **xal** *szal, szalik* ← fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal  
 **xaman** *szaman* ← eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)  
+**xanke** *wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność* ← hin:शंका (śankā) + ara: شَكَّ‎ (šakka), swa:shaka  
+**xante** *spokojny* ← hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)  
 **xarke** *rekin* ← eng:shark, hin:शार्क (shaark), pan:ਸ਼ਾਰਕ (śāraka), mar:शार्क (śārka)  
+**xarme** *wstyd (hańba, kompromitacja)* ← fas:(šarm), urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)  
 **xarnir** *zawias, oś* ← fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)  
+**xarte** *wymagać (przewidywać; warunek)* ← tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)  
 **xatan (ruhoxatan)** *diabeł, szatan* ← heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani  
+**xatrange** *szachy* ← hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez  
+**xaxa** *szeleścić* ← zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha  
 **xefe** *szef, kierownik* ← fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)  
 **xei** *rzecz* ← ara: شيء (šayʾ), tur:şey, fas: شیء‎ (šeyʼ) + zho:事 (shì), yue:事 (si6), vie:sự  
 **xeihal** *sytuacja (stan)* ← zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses  
 **xenon** *ksenon* ← eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون  
 **xenseng** *mistrz (sensei)* ← zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生 (sensei), kor:선생 (seonsaeng), vie:tiên sinh, may:sinse, tha:ซินแส (sin-see), eng:sensei  
+**xere** *piła* ← alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)  
+**xim** *serce* ← kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim  
+**xin** *wiara, wierzenie, kredo* ← zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin  
+**xindavisme** *shintoizm, sintoizm* ← jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)  
+**xing** *gwiazda* ← zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)  
 **xipe** *mokry (wilgotny; moczyć, zmoczyć)* ← zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)  
 **xir** *poemat* ← heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)  
 **xirope** *syrop* ← ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu), swa:shira  

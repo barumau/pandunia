@@ -267,7 +267,7 @@ banan - banaani
 bande - ryhmä (työryhmä, yhtye, bändi)  
 bandir - lippu  
 bangle - bengali  
-Banglodes - Bangladesh  
+Banglodex - Bangladesh  
 banyakamar - kylpyhuone  
 banke - tallettaa (tallentaa)  
 • banker - pankkiiri  
@@ -645,15 +645,11 @@ demon - demoni (piru)
 den - päivä  
 denyam - lounas  
 denge - odottaa  
-des - maa (valtio)  
 dese - kymmenen (10)  
 desdullun - joulukuu  
-desojen - kansalainen (valtion asukas)  
 deskile - sata tuhatta  
 deslun - lokakuu  
 desunlun - marraskuu  
-• exdes - ulkomaa  
-• exdese - ulkomaalainen  
 desen - piirustus  
 detal - yksityiskohta (detalji)  
 deu - jumala  
@@ -673,6 +669,10 @@ undevisme - monoteismi (yksijumalisuus)
 deunagre - devanagari  
 deusage - jumaltaru (myytti)  
 deusofia - teosofia  
+dex - maa (valtio)  
+dexojen - kansalainen (valtion asukas)  
+• exdex - ulkomaa  
+• exdexe - ulkomaalainen  
 di - -n (oma)  
 dike - osoittaa (tähdätä; suunta, kohde; maali)  
 • diker - osoitin  
@@ -2995,7 +2995,7 @@ Salvador - El Salvador
 salve - pelastaa  
 • salver - pelastaja  
 same - sama (yhtäläinen)  
-samdese - samanmaalainen (maanmies)  
+samdexe - samanmaalainen (maanmies)  
 samemos - myötätunto (sympatia)  
 sammetre - symmetrinen  
 sammetria - symmetria  
@@ -3005,16 +3005,10 @@ samrayia - yhteisymmärrys
 samsife - samanlainen  
 samarium - samarium  
 Samoa - Samoa  
-sampan vin - ĉampano  
 san - vuori (mäki)  
 sanduice - voileipä  
 sanduke - laatikko  
-sanke - epäilys  
-• sankable - epäilyttävä  
-• sankane - epäilevä  
-sante - lepo  
 sante - pyhä  
-sante - rauhallinen (levollinen, tyyni)  
 sante kanon - pyhä kirja (pyhät kirjoitukset)  
 Sante Kitse - Saint Kitts  
 Sante Kitse e Nevis - Saint Kitts ja Nevis  
@@ -3029,12 +3023,8 @@ sar - pää
 sarkaske - kypärä  
 saroste - pääkallo  
 sartunge - pääkipu (päänsärky)  
-sarme - häpeä  
-sarte - vaatia (edellyttää; vaatimus, edellytys)  
-sase - kahista  
 sate - kellonaika (ajankohta)  
 sate di - hetkellinen  
-satrange - šakki  
 Saturne - Saturnus  
 save - tieto (tietämys)  
 save - tietää (tuntea)  
@@ -3044,11 +3034,11 @@ savolojia - tietoteoria (epistemologia)
 savovol - kiinnostus (mielenkiinto)  
 savovolane - utelias (tiedonhaluinen)  
 savovolite - kiinnostava  
+• ansave - vieras (tuntematon)  
 Saudi Arabia - Saudi Arabia  
 sauna - sauna  
 saure - lisko  
 saus - kastike (soosi)  
-• ansave - vieras (tuntematon)  
 se - itse  
 se su - oma (-nsa)  
 semon - toisiaan (toinen toistaan)  
@@ -3065,10 +3055,10 @@ seme - merkitä (tarkoittaa)
 • poliseme - monimerkityksinen (polyseeminen)  
 • unoseme - yksimerkityksinen  
 semen - siemen  
-• semene - siemen-  
 semendan - siemenjyvä  
+• semenike - siemen-  
 semente - sementti  
-sen - ikä  
+sene - ikä  
 sene - iäkäs  
 senater - senaattori  
 Senegal - Senegal  
@@ -3079,11 +3069,12 @@ sense - aistia
 • sensor - sensori (aistin)  
 sente - tuntea  
 sere - sarja  
-sere - saha  
-serofun - sahanpuru (sahajauho)  
-serokan - sahalaitos  
+ser: - ketjun lenkki  
+seria - sarja  
 serlinke - ketjun lenkki  
 sernete - silmukkapanssari (rengashaarniska)  
+sernete - silmukkapanssari (rengashaarniska)  
+serser - ketju  
 serser - ketju  
 Sera Leone - Sierra Leone  
 serame - savityö (keramiikka)  
@@ -3094,15 +3085,15 @@ serve - palvelu (palvelus)
 serve - palvella (tarjoilla)  
 server - palvelija (tarjoilija)  
 sesam - seesami  
-Seshel nesia - Seychellit  
 sexe - seksi (sukupuolisuhde)  
 sexe - seksikäs  
-sexe - seksikäs  
+• sexike - seksikäs  
 sexolojia - seksologia  
 sexolojia - seksologia  
 • ansexe - aseksuaali  
 • dusexe - biseksuaali  
 • homosexe - homoseksuaali  
+Sexel nesia - Seychellit  
 si - olla  
 si ham - olla väliä (olla tärkeä)  
 siane - syaani  
@@ -3126,21 +3117,13 @@ sikiste - sikhi
 sikle - pyörä (polkupyörä, moottoripyörä)  
 sikliste - pyöräilyn harrastaja  
 risikle - kierrättää  
-sil - ketjun lenkki  
-silia - sarja  
-silnete - silmukkapanssari (rengashaarniska)  
-silsil - ketju  
 silike - pii  
 silke - silkki  
-sim - sydän  
 simple - yksinkertainen (mutkaton)  
-sin - usko (luottamus)  
-sine - uskoa (luottaa)  
-sindavisme - sintolaisuus  
+• simplife - yksinkertaistaa  
 sina - rinta  
 sinakapse - rintakehä  
 sing - leijona  
-sing - tähti  
 Singapur - Singapore  
 sinye - merkki (signaali)  
 • asinye - merkitä jlkn  
@@ -3199,7 +3182,7 @@ some - nukkua (nukkuminen, uni)
 • ansome - unettomuus  
 somokamar - makuuhuone  
 Somalia - Somalia  
-Somaldes - Somalimaa  
+Somaldex - Somalimaa  
 son - ääni  
 sone - ääntää  
 song - mänty  
@@ -3230,7 +3213,7 @@ stude - opiskella (tutkia; tutkielma)
 • studaje - tutkielma  
 • studente - oppilas (opiskelija)  
 • studer - opiskelija  
-suahile - suahili  
+suahili - suahili  
 sual - kysyä (kysymys)  
 • sualive - kysyvä  
 sualdokum - kyselylomake  
@@ -3244,8 +3227,8 @@ suaryam - illallinen
 Suati - Swazimaa  
 sube - alapuoli  
 sube - aamu  
-subyam - aamiainen  
 • subike - ala-  
+subyam - aamiainen  
 sude - etelä  
 Sudi Amerike - Etelä-Amerikka  
 Sudi Cosen - Etelä-Korea  
@@ -3271,7 +3254,7 @@ suke - ilostuttaa (tyydyttää)
 suke - tyytyväinen (iloinen)  
 suku - pitää (tykätä, olla tyytyväinen jstkn)  
 sukar - sokeri  
-sukare - sokerinen (makea)  
+sukari - sokerinen (makea)  
 sulfe - rikki  
 sum - summa  
 sume - ynnätä (summata)  
@@ -3668,19 +3651,37 @@ xake - oksa (haara)
 xakal - šakaali  
 xal - huivi (šaali)  
 xaman - šamaani  
+xampan vin - ĉampano  
+xanke - epäilys  
+• xankable - epäilyttävä  
+• xankane - epäilevä  
+xante - lepo  
+xante - rauhallinen (levollinen, tyyni)  
+xarme - häpeä  
 xarnir - sarana  
+xarte - vaatia (edellyttää; vaatimus, edellytys)  
 xate - vastustaa  
 xatan - vastustaja (vihollinen)  
 xatan (ruhoxatan) - saatana (sielunvihollinen)  
 xatani - pirullinen  
 xatanisme - satanismi (paholaisenpalvonta)  
 xataniste - satanisti  
+xatrange - šakki  
+xaxa - kahista  
 xefe - päällikkö (pomo)  
 xefe minister - pääministeri (suurvisiiri)  
 xefe di - pää-  
 xei - asia  
 xeihal - tilanne (asiaintila)  
 xenon - ksenon  
+xere - saha  
+xerofun - sahanpuru (sahajauho)  
+xerokan - sahalaitos  
+xim - sydän  
+xin - usko (luottamus)  
+xine - uskoa (luottaa)  
+xindavisme - sintolaisuus  
+xing - tähti  
 xipe - märkä (kastaa; kastella)  
 • xipete - kostea  
 • perxipe - liota  

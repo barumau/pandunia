@@ -264,9 +264,9 @@ defkaske - 盔甲
 defoban - 盾牌  
 dege - 得 (获得)  
 den - 白天  
-desojen - 公民  
 deu - 神  
 deunagre - 天城文  
+dexojen - 公民  
 dike - 方向 (目的, 目标, 瞄准)  
 dikobaton - 教鞭  
 din - 宗教  
@@ -1156,37 +1156,32 @@ semon - 彼此
 selenium - 硒  
 • semolojia - 语义学  
 semen - 种  
-• semene - 种子的  
 semendan - 种子  
-sen - 年岁  
+• semenike - 种子的  
+sene - 年岁  
 senater - 参议员  
 sense - 感觉  
 senter - 觸手  
 sere - 系列  
-sere - 锯子  
-serofun - 锯末  
+ser: - 连结  
+seria - 系列  
 serlinke - 连结  
 serame - 陶瓷  
 sexolojia - 性学  
 sexolojia - 性学  
-Shanghai - 上海  
 si - 对  
 sibai - 失败 (击败)  
 sibaye - 输  
 sibaya tene - 亏损 (失去)  
 side - 座部 (马鞍)  
-inside - 蹲  
+• inside - 蹲  
 sifloge - 形容词  
 sigar - 香烟  
 siyahe - 黑色  
 sikliste - 骑自行车的人  
 risikle - 循环再造  
-sil - 连结  
-silia - 系列  
 silike - 硅  
 silke - 丝绸  
-sim - 心  
-singofote - 闪烁  
 • dusosinye - 不祥的  
 sire - 隐藏  
 sirplan - 阴谋 (密谋)  
@@ -1374,12 +1369,17 @@ vulve - 外阴 (陰门)
 
 ## X  
 
+Xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
 xatan (ruhoxatan) - 撒但  
 xei - 事物 (东西)  
 xeihal - 事态  
 xenon - 氙  
+xere - 锯子  
+xerofun - 锯末  
+xim - 心  
+xingofote - 闪烁  
 xipe - 湿 (弄湿)  
 • perxipe - 湿透  
 xipostan - 湿地  

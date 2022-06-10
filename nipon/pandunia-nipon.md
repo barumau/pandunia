@@ -248,12 +248,12 @@ den - 昼
 denyam - 昼食  
 dese - 十 (１０)  
 desdullun - １２月  
-desojen - 市民  
 deskile - 万  
 deslun - １０月  
 desunlun - １１月  
 deu - 神  
 deunagre - デーヴァナーガリー  
+dexojen - 市民  
 dike - 方向 (標的, ターゲット; 狙う)  
 • dikion - 直示  
 dikobaton - 指し棒  
@@ -1143,7 +1143,6 @@ samsife - シミュレートする
 samsife - 同じよう (近い)  
 samsifia - 模型 (類似, シミュレーション)  
 samarium - サマリウム  
-sampan - 香槟  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
 sanze - 扇子  
@@ -1166,13 +1165,13 @@ selenium - セレン
 selge - フダンソウ (スイスチャード)  
 • semolojia - 意味論  
 semendan - 種  
-sen - 年齢  
+sene - 年齢  
 senater - 上院議員  
 sense - 感覚  
 senter - 触手  
 sere - 系列  
-sere - のこぎり  
-serofun - 木屑  
+ser: - 連結  
+seria - 系列  
 serlinke - 連結  
 serame - 陶器  
 servor - サーバ  
@@ -1185,25 +1184,20 @@ sibaya tene - 失う (無くす, 落とす)
 siborgium - シーボーギウム  
 side - 座席 (鞍)  
 sidu - 座る  
-inside - しゃがむ (蹲る)  
+• inside - しゃがむ (蹲る)  
 sifloge - 形容詞  
 sigar - タバコ  
 siyahe - 黒い  
 sikliste - チャリダー  
 risikle - 再生する (リサイクルする)  
-sil - 連結  
-silia - 系列  
 silike - ヶィ素  
 silke - 絹  
-sim - 心  
-singofote - ピカピカ光る (きらきらする)  
 • dusosinye - 不吉 (縁起の悪い)  
 sire - 隠す  
 siri mote - 忍び  
 sirplan - 陰謀  
 sirkite - 丸石 (玉石, 栗石)  
 siro - 零 (０)  
-sisa - 刺す  
 sise - 六 (6)  
 sisyom - 土曜日  
 sisme - 振る  
@@ -1400,17 +1394,23 @@ vulve - 陰門
 ## X  
 
 xaman - シャーマン  
+xampan - 香槟  
 xarke - サメ  
 xatan - 敵 (相手)  
 xatan (ruhoxatan) - 悪魔  
 xei - 事 (物)  
 xeihal - 事態  
 xenon - キセノン  
+xere - のこぎり  
+xerofun - 木屑  
+xim - 心  
+xingofote - ピカピカ光る (きらきらする)  
 xipe - 湿っぽい (濡らす)  
 xipostan - 湿地  
 xir - 詩  
 xite - 糞 (屎)  
 Xiva - シヴァ  
+xixe - 刺す  
 sislun - ６月  
 xope - 買う  
 xou - 見せる (示す, デモる)  

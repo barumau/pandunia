@@ -142,7 +142,7 @@ bambus - banse
 banan - banan  
 bandaż (taśma; związać, wiązać; zapiąć, zapinać) - bende  
 bandaż, taśma, wstążka - faxe  
-Bangladesz - Banglodes  
+Bangladesz - Banglodex  
 banglijski - bangle  
 bank - bankokan  
 bankier - banker  
@@ -306,7 +306,7 @@ Ceres (planeta karłowata) - Ceres
 cez - cesium  
 chaber - centaure  
 chaber wełnisty - solocentaur  
-Champagne - sampan  
+Champagne - xampan  
 chaos, nieporządek; wrzawa, zgiełk - haos  
 chcieć ( pragnąć; wola, chęć, pragnienie) - vol  
 chcieć (pragnąć) - ice  
@@ -775,7 +775,7 @@ guru, mistrz - guru
 Gwadelupa - Guadelupe  
 gwarancja - garante  
 Gwatemala - Guatemala  
-gwiazda - sing  
+gwiazda - xing  
 Gwinea - Konakri Ginia  
 Gwinea Równikowa - Geoparlini Ginia  
 góra (szczyt) - gau  
@@ -1131,7 +1131,7 @@ kola, napój gazowany - kole
 kolacja - suaryam  
 kolano - gute  
 kolczuga - sernete  
-kolczuga - silnete  
+kolczuga - sernete  
 kolec - ding  
 kolej - trendau  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
@@ -1210,7 +1210,7 @@ kość - oste
 kość do gry - zarkube  
 kość słoniowa - gaja dante  
 krab - krabe  
-kraj, ziemia - des  
+kraj, ziemia - dex  
 kran (zawór) - kran  
 kraść (ukraść; kradzież) - core  
 kredens (szafa, szafka) - almari  
@@ -1588,7 +1588,7 @@ motyl - pelpel
 Mozambik - Mozambike  
 Mołdawia - Moldove  
 może - hai  
-mruganie (błysk) - singofote  
+mruganie (błysk) - xingofote  
 mrówka - murce  
 mucha - domzeze  
 mumia - mumjen  
@@ -1629,7 +1629,7 @@ młynarz - moler
 
 na przykład - misalo  
 nabardziej (maksymalnie) - maxime  
-nabić (przebić, dźgnąć) - sisa  
+nabić (przebić, dźgnąć) - xixe  
 nabywca (kupiec) - xoper  
 naciskać (zostawiać ślad; odcisk, ślad; stempel, pieczęć) - cape  
 nacjonalista - nasiste  
@@ -1666,7 +1666,7 @@ narodowy socjalizm - nasi sosisme
 narodziny - gene  
 narzędzie - tul  
 naród, narodowość - nasia  
-nasienny - semene  
+nasienny - semenike  
 następny (następujący) - pose  
 natura - nature  
 natura, środowisko - ekia  
@@ -1716,7 +1716,7 @@ Niemcy - Doice
 niemiecki - doice  
 niemowlę - bebe  
 nienawidzić - hen  
-niepewny (podejrzliwy, niedowierzący) - sankane  
+niepewny (podejrzliwy, niedowierzący) - xankane  
 niepokój - depace  
 niepotrzebny - anyave  
 nieskończoność - anlimitia  
@@ -1794,7 +1794,7 @@ obserwator (widz) - vider
 obsydian - osidian  
 obudzić, budzić - zage  
 obyczaj (zwyczaj, tradycja, praktyka, konwencja; konwencjonalny, zwyczajowy, tradycyjny) - rite  
-obywatel - desojen  
+obywatel - dexojen  
 obóz - kamper  
 ocean - daihai  
 Ocean Antarktyczny (Ocean Południowy) - Antartiki Hai  
@@ -2031,7 +2031,7 @@ pięciościan (pryzmat) - limfas
 piękno - sundaria  
 piękny, przystojny - mei  
 pięć (5) - lime  
-piła - sere  
+piła - xere  
 piłka - bol  
 piłka do koszykówki (koszykówka) - baske bol  
 piłka nożna - futobol  
@@ -2422,7 +2422,7 @@ robot - robote
 rock - roke muzike  
 rocznica - nenfeste  
 rod - rodium  
-rodak, ziomek, krajan - samdese  
+rodak, ziomek, krajan - samdexe  
 rodzaj gramatyczny - lingue ginse  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - brus  
@@ -2543,7 +2543,7 @@ samobieżny - automote
 samochód (automobil) - motogar  
 samogłoska - zungofon  
 samolot - viman  
-samppanja - sampan vin  
+samppanja - xampan vin  
 San Marino - Sante Marino  
 sardela - ancovi  
 sarkazm - logironia  
@@ -2563,7 +2563,7 @@ sekret - sire
 sekretariat - sekreteria  
 sekretarz - sekreter  
 seks, stosunek płciowy - sexe  
-seksowny, ponętny - sexe  
+seksowny, ponętny - sexike  
 seksowny,ponętny - sexe  
 seksuologia - sexolojia  
 seksuologia - sexolojia  
@@ -2574,12 +2574,12 @@ Senegal - Senegal
 sensor (detektor, czujka) - sensor  
 ser - kize  
 Serbia - Serbia  
-serce - sim  
-seria, szereg - silia  
+serce - xim  
+seria, szereg - seria  
 seria,szereg - sere  
-Seszele - Seshel nesia  
+Seszele - Sexel nesia  
 sezam - sesam  
-shintoizm, sintoizm - sindavisme  
+shintoizm, sintoizm - xindavisme  
 siano - gancau  
 siarka - sulfe  
 siedem (7) - cete  
@@ -2638,7 +2638,7 @@ sofa (kanapa) - sofa
 sofa, kanapa - kanape  
 sok - jus  
 Somalia - Somalia  
-Somaliland - Somaldes  
+Somaliland - Somaldex  
 sometime - yo sate  
 sos - saus  
 sos jabłkowy - aplesaus  
@@ -2654,7 +2654,7 @@ spisek (konspiracja) - sirplan
 spocony - suede  
 spoczywaj w pokoju - repause in pace (RIP)  
 spodnie (pantalony, portki) - pante  
-spokojny - sante  
+spokojny - xante  
 sporokarp - fungopal  
 sport, lekkoatletyka - sporte  
 sposób (metoda, tryb) - mode  
@@ -2725,7 +2725,7 @@ styczeń - unolun
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parce  
 stłuczony (pęknięty) - parce  
-suahili - suahile  
+suahili - suahili  
 Suazi - Suati  
 suchy (suszyć ) - gane  
 Sudan - Sudan  
@@ -2745,7 +2745,7 @@ system - sistem
 systemowy - sisteme  
 sytuacja (stan) - xeihal  
 szabat, szabas - sabate  
-szachy - satrange  
+szachy - xatrange  
 szafran - safran  
 szakal - xakal  
 szal, szalik - xal  
@@ -2753,7 +2753,7 @@ szaleństwo - folia
 szalony - fole  
 szaman - xaman  
 szampon - kexosabun  
-Szanghaj - Shanghai  
+Szanghaj - Xanghai  
 szansa - canse  
 szariat - islam xaria  
 szary - huirange  
@@ -2763,7 +2763,7 @@ szczoteczka do zębów - dantobros
 szczotka - bros  
 szczyt (wierzchołek) - pike  
 szef, kierownik - xefe  
-szeleścić - sase  
+szeleścić - xaxa  
 szeroki - kuane  
 szerokość - kuania  
 szew - suture  
@@ -2811,7 +2811,7 @@ sąd (trybunał) - judokan
 sądzić (osądzić; wyrok) - jude  
 sędzia - juder  
 słaby - anbale  
-słodki - sukare  
+słodki - sukari  
 słodki ziemniak - kamote  
 słonecznik - soloful  
 Słowacja - Slovakia  
@@ -2856,7 +2856,7 @@ taoista - daviste
 taoizm - davisme  
 tapeta - murkaguze  
 tarcza - defoban  
-tartak - serokan  
+tartak - xerokan  
 tatuaż - tatu  
 taxi, taksówka - taxi kar  
 taśma - tepe  
@@ -3096,7 +3096,7 @@ wiadomość, zawiadomienie, powiadomienie - notize
 wiadomy, znany - save  
 wiadro - balde  
 wiadukt, przejście powyżej - supre  
-wiara, wierzenie, kredo - sin  
+wiara, wierzenie, kredo - xin  
 wiatr (dmuchać) - fente  
 wiatrak (wentylator) - fentopanke  
 wiatrak (wentylator) - sanze  
@@ -3110,7 +3110,7 @@ widzieć (patrzeć) - vide
 wieczór - suar  
 wiedza - save  
 wiedzieć - save  
-wiek - sen  
+wiek - sene  
 wielbłąd, wielbłądzica - gamel  
 wiele (wielo-, poli-, multi-) - poli  
 wiele - multe  
@@ -3127,7 +3127,7 @@ wielościan - polfas
 wieprzowina - gurubomanse  
 wiercić, borować - fore  
 wierzyć - krede  
-wierzyć - sine  
+wierzyć - xine  
 wierzący (osoba religijna) - diniste  
 wierzący (osoba religijna) - krediste  
 Wietnam - Vietia  
@@ -3204,7 +3204,7 @@ współczucie - samemos
 współpracować (kolaborować) - konkare  
 wstecz - retro  
 wstrzyknąć, wstrzykiwać - injete  
-wstyd (hańba, kompromitacja) - sarme  
+wstyd (hańba, kompromitacja) - xarme  
 wszyscy, wszystkie, wszystko; każdy - pan (pani)  
 wszystko - pan sei  
 wtorek - dulyom  
@@ -3224,7 +3224,7 @@ wygląd (wyglądać, wydawać się) - rupe
 wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie) - cute  
 wyklarować (rozjaśnić) - klarife  
 wykopać, kopać, wydobyć, wydobywać, wykopywać - kave  
-wymagać (przewidywać; warunek) - sarte  
+wymagać (przewidywać; warunek) - xarte  
 wymawiać (wymówić) - fone  
 wymieniać, wymienić, zamieniać, zamienić - badle  
 wymiotować (zwrócić) - retrogule  
@@ -3264,8 +3264,8 @@ wzrost - raste
 wzywać (wezwać, dodawać, dodać) - zayife  
 wóz, wózek - kar  
 wąchać - gande  
-wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - sanke  
-wątpliwy (niewiarygodny,podejrzany) - sankable  
+wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - xanke  
+wątpliwy (niewiarygodny,podejrzany) - xankable  
 wąż - serpe  
 węgiel - karbe  
 Węgry - Magyaria  
@@ -3300,8 +3300,8 @@ zachwyt (zdumienie) - ajibia
 zachód (zachodni) - veste  
 zaczyna (zacząć, rozpoczynać, rozpocząć) - xure  
 zacząć, zaczynać - xure  
-zagranica - exdes  
-zagraniczny - exdese  
+zagranica - exdex  
+zagraniczny - exdexe  
 zagrożenie (niebezpieczeństwo; niebezpieczny) - hatre  
 zaimek - pronam  
 zainteresowanie, zaciekawienie; interesujący - savovol  
@@ -3408,7 +3408,7 @@ zombie, zombi - zombi
 zoo (ogród zoologiczny) - zooparke  
 zoologia - zoolojia  
 zoologiczny - zoolojike  
-zostawić (zostawiać) - sante  
+zostawić (zostawiać) - xante  
 zostawić,zostawiać - repause  
 zrobić (czyn, uczynek) - fete  
 zrobić (stworzyć,wykreować) - fete  
@@ -3448,7 +3448,7 @@ zły, zrujnowany, zepsuty - harabe
 ławka - bence  
 łazienka - banyakamar  
 łańcuch - serser  
-łańcuch - silsil  
+łańcuch - serser  
 łodyga (tors, pień, trzon) - tan  
 łopata (szpadel) - belce  
 łosoś (pstrąg) - salmon  

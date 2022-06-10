@@ -1269,12 +1269,7 @@ sammetria - simetria
 samrayia - acordo  
 samsifia - simulação  
 samarium - samário  
-sampan - Champagne  
-sampan vin - champaña  
 sanduice - sanduíche  
-• sankable - dúbio (duvidoso)  
-sante - descanso (repouso)  
-sante - tranquilo (calmo)  
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
 sanze - leque  
@@ -1292,19 +1287,19 @@ semon - um ao outro
 sekure - seguro  
 sele - conselho (aconselhar)  
 selenium - selénio  
+selge - acelga  
 seme - significar (querer dizer)  
 • semolojia - semântica  
 semen - semente  
-• semene - seminal  
-sen - idade  
+• semenike - seminal  
+sene - idade  
 sene - idoso (sene)  
 senater - senador  
 sense - sentido  
 senter - tentáculo  
 sere - série (sequência)  
-sere - serra  
-serofun - serragem  
-serokan - serraría  
+ser: - elo  
+seria - série (sequência)  
 serlinke - elo  
 serame - cerâmico  
 sexolojia - sexologia  
@@ -1313,17 +1308,14 @@ si - ser (estar)
 sibaya tene - perder  
 sibayer - perdedor  
 siborgium - seabórgio  
-inside - agacharse  
+• inside - agacharse  
 sifloge - adjetivo  
 sigar - cigarro  
 siyahe - preto  
 sikliste - ciclista  
 risikle - reciclar  
-sil - elo  
-silia - série (sequência)  
 silike - silício  
 silke - seda  
-singofote - cintilar  
 • sinyal - sinal  
 • desinye - designar  
 sire - ocultar (esconder)  
@@ -1534,6 +1526,11 @@ vulve - vulva
 
 ## X  
 
+xampan - Champagne  
+xampan vin - champaña  
+• xankable - dúbio (duvidoso)  
+xante - descanso (repouso)  
+xante - tranquilo (calmo)  
 xarke - tubarão  
 xate - opor  
 xatan - adversário  
@@ -1542,6 +1539,10 @@ xefe - chefe
 xei - coisa  
 xeihal - situaçao  
 xenon - xénon  
+xere - serra  
+xerofun - serragem  
+xerokan - serraría  
+xingofote - cintilar  
 xipe - molhar (molhado)  
 • xipete - úmido  
 xipostan - brejo (paul)  

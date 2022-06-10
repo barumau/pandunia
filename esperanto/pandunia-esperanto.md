@@ -139,7 +139,7 @@ ban - tabulo
 banogem - tabulludo  
 banan - banano  
 bandir - flago  
-Banglodes - Bangladeŝo  
+Banglodex - Bangladeŝo  
 banyakamar - banĉambro  
 banke - banki  
 • banker - bankisto  
@@ -358,10 +358,8 @@ demon - demono
 den - tago  
 denyam - tagmanĝo  
 denge - atendi  
-des - lando  
 dese - dek (10)  
 deskile - dek miloj  
-• exdes - fremda lando  
 desen - desegno  
 detal - detalo  
 deu - dio  
@@ -370,6 +368,8 @@ deu - dio
 • deukratia - teokratio  
 • deulojia - teologio  
 deusage - mito  
+dex - lando  
+• exdex - fremda lando  
 di - propra (partiklo de posedo)  
 dike - direkti (celi; direkto, celo)  
 din - religio  
@@ -1509,7 +1509,7 @@ salam sube - Bonan matenon!
 salte - salo  
 salve - savi  
 same - sama  
-samdese - samlandano  
+samdexe - samlandano  
 samemos - kompato  
 sammetre - simetria  
 sammetria - simetrio  
@@ -1518,30 +1518,25 @@ samrayia - interkonsento
 samarium - samario  
 san - monto  
 sanduke - skatolo (kesto)  
-sanke - dubo  
 sante - sankta  
-sante - trankvila (serena)  
 sanze - ventumilo  
 sapate - ŝuo  
 sapater - ŝuisto  
 sapatokan - ŝuistejo  
 sarkaske - kasko  
 sartunge - kapdoloro  
-sarme - honto  
-sarte - kondiĉo (postulo)  
 sate - horo de horloĝo  
 sate di - momenta  
-satrange - ŝako  
 save - scio  
 save - scii (koni)  
 save - malmulte  
 savolojia - sciteorio (epistemologio)  
 savovolane - scivolema  
 savovolite - interesa  
+• ansave - fremda (nekonata)  
 sauna - saŭno  
 saure - lacerto  
 saus - saŭco  
-• ansave - fremda (nekonata)  
 se - si  
 semon - unu la alian  
 • selu - devus  
@@ -1549,17 +1544,18 @@ selenium - seleno
 seme - signifi  
 • semolojia - semantiko  
 semen - semo  
-• semene - sema  
-sen - aĝo  
+• semenike - sema  
+sene - aĝo  
 senater - senatano  
 seng - venko  
 senge - venki  
 sense - sentumo  
 sente - senti  
 sere - serio  
-sere - segilo  
-serofun - segaĵo  
+ser: - ĉenero  
+seria - serio  
 serlinke - ĉenero  
+serser - ĉeno  
 serser - ĉeno  
 Serbia - Serbio  
 serebre - cerbo  
@@ -1577,18 +1573,12 @@ sigar - cigaredo
 siyahe - nigra  
 sikliste - biciklisto  
 risikle - recikligi  
-sil - ĉenero  
-silia - serio  
-silsil - ĉeno  
 silike - silicio  
-sim - koro  
 simple - simpla  
-sin - kredo  
-sine - kreda  
+• simplife - simpligi  
 sina - brusto  
 sinakapse - torako  
 sing - leono  
-sing - stelo  
 Singapur - Singapuro  
 sirke - ĉirkaŭi  
 sisyom - sabato  
@@ -1624,7 +1614,7 @@ strontium - stroncio
 • destrute - detrui  
 • studente - lernanto (studento)  
 • studer - studento  
-suahile - sŭahili  
+suahili - sŭahili  
 sual - demandi  
 • sualive - demandanta  
 suan - acido  
@@ -1816,12 +1806,23 @@ vulve - vulvo
 xake - branĉo  
 xal - koltuko  
 xaman - ŝamano  
+xanke - dubo  
+xante - trankvila (serena)  
+xarme - honto  
 xarnir - ĉarniro (pivoto)  
+xarte - kondiĉo (postulo)  
 xatan (ruhoxatan) - diablo (Satano)  
+xatrange - ŝako  
 xefe - estro (ĉefulo)  
 xefe minister - ĉefministro  
 xeihal - situacio (aferstato)  
 xenon - ksenono  
+xere - segilo  
+xerofun - segaĵo  
+xim - koro  
+xin - kredo  
+xine - kreda  
+xing - stelo  
 xipe - malseka  
 • xipete - humida  
 xir - poemo  

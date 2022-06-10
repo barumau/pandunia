@@ -235,7 +235,7 @@ banan - plátano (banana)
 bande - banda  
 bandir - bandera  
 bangle - bengalí  
-Banglodes - Bangladés  
+Banglodex - Bangladés  
 banyakamar - baño  
 banke - ahorrar (reservar, depositar)  
 • banker - banquero  
@@ -594,14 +594,10 @@ demon - demonio
 den - día  
 denyam - almuerzo  
 denge - esperar  
-des - país (nación, estado, terra)  
 dese - diez (10)  
 desdullun - deciembre  
-desojen - ciudadano  
 deslun - octubre  
 desunlun - nobiembre  
-• exdes - país extranjero  
-• exdese - extranjero  
 desen - dibujo (diseño)  
 detal - detalle  
 deu - dios  
@@ -619,6 +615,10 @@ undevisme - monoteismo
 deunagre - devanágari  
 deusage - mito (cuento divino)  
 deusofia - teosofía  
+dex - país (nación, estado, terra)  
+dexojen - ciudadano  
+• exdex - país extranjero  
+• exdexe - extranjero  
 di - de (posposición de posesión)  
 dike - apuntar (dirección)  
 • diker - puntero  
@@ -2900,7 +2900,7 @@ Salvador - El Salvador
 salve - salvar (rescatar)  
 • salver - salvador  
 same - equal (similar)  
-samdese - compatriota  
+samdexe - compatriota  
 samemos - compasión  
 sammetre - simétrico  
 sammetria - simetría  
@@ -2913,16 +2913,10 @@ samsife - similar
 samsifia - modelo (similitud, simulación)  
 samarium - samario  
 Samoa - Samoa  
-sampan - Champaña  
-sampan vin - champagne  
 san - montaña (colina)  
 sanduice - sándwich (sánduche)  
 sanduke - caja (baúl, cofre, estuche)  
-sanke - duda  
-• sankable - dudoso  
-sante - descanso (alivio)  
 sante - sagrado (santo)  
-sante - tranquilo (calmado)  
 sante kanon - sagrada escritura  
 Sante Kitse - San Cristóbal  
 Sante Kitse e Nevis - San Cristóbal y Nieves  
@@ -2939,13 +2933,9 @@ sar - cabeza
 sarkaske - casco (yelmo)  
 saroste - cráneo (calavera)  
 sartunge - dolor de cabeza  
-sarme - vergüenza (pena)  
-sarte - condición (requisito, estipulación; espicificar, estipular)  
-sase - susurrar (curjir)  
 sate - hora (hora del día,momento)  
 sate di - momentáneo  
 satodone - dedicar  
-satrange - ajedrez  
 Saturne - Saturno  
 save - sabiduría (conocimiento)  
 save - saber (conocer)  
@@ -2981,10 +2971,10 @@ seme - significar (querer decir)
 • semolojia - semántica  
 • unoseme - inequívoco  
 semen - semilla  
-• semene - seminal  
 semendan - pepita  
+• semenike - seminal  
 semente - cemento  
-sen - edad  
+sene - edad  
 senater - senador  
 Senegal - Senegal  
 seng - victoria  
@@ -2994,11 +2984,12 @@ sense - sentir (detectar)
 sente - palpar (tocar)  
 senter - tentáculo  
 sere - serie  
-sere - sierra  
-serofun - serrín  
-serokan - aserradero  
+ser: - eslabón  
+seria - serie  
 serlinke - eslabón  
 sernete - cota de malla  
+sernete - cota de malla  
+serser - cadena  
 serser - cadena  
 Sera Leone - Sierra Leona  
 serame - cerámica  
@@ -3010,17 +3001,17 @@ serve - servir
 server - criado (sirviente)  
 servor - servidor  
 sesam - ajonjolí (sésamo)  
-Seshel nesia - Seychelles  
 sexe - sexo  
 sexe - tener sexo  
 sexe - sexy (sexual)  
-sexe - sexy (sexual)  
+• sexike - sexy (sexual)  
 sexolojia - sexología  
 sexolojia - sexología  
 • ansexe - asexual  
 • dusexe - bisexual  
 • homosexe - homosexual  
 • pansexe - pansexual  
+Sexel nesia - Seychelles  
 si - ser (estar)  
 si ham - importar  
 siane - cian  
@@ -3033,7 +3024,7 @@ siborgium - seaborgio
 side - silla (montura)  
 side - sentar  
 sidu - sentarse  
-inside - agacharse  
+• inside - agacharse  
 • presidente - presidente  
 • visopresidente - vicepresidente  
 sif - cualidad (atributo, descripción)  
@@ -3048,25 +3039,14 @@ sikiste - sij
 sikle - bicicleta  
 sikliste - ciclista  
 risikle - reciclar  
-sil - eslabón  
-silia - serie  
-silnete - cota de malla  
-silsil - cadena  
 silike - silicio  
 silke - seda  
-sim - corazón  
 simple - simple  
-sin - creencia (fe)  
-sine - creer  
-sindavisme - sintoísmo  
 sina - pecho (seno, tórax)  
 sinakapse - caja torácica  
 sinaplate - peto  
 sing - león  
-sing - estrella  
-singofote - centellear (titilar)  
 Singapur - Singapur  
-sinye - seña (indicación)  
 sinye - señal (letrero, indicio)  
 • sinyal - señal  
 • desinye - designar  
@@ -3082,7 +3062,6 @@ sirke - rodear (cirundar)
 sirke - redondo (circular)  
 sirkite - adoquín  
 siro - cero (ninguno)  
-sisa - atravesar  
 sise - seis (6)  
 sisfas - hexaedro (cubo)  
 sisgon - hexágono  
@@ -3134,7 +3113,7 @@ some - dormir (sueño)
 somokamar - dormitorio  
 somopapil - adormidera (amapola real)  
 Somalia - Somalia  
-Somaldes - Solamilandia  
+Somaldex - Solamilandia  
 son - sonido (audio)  
 sone - sonar  
 song - pino  
@@ -3160,7 +3139,7 @@ stude - estudiar (examinar)
 • studia - estudio  
 • studente - estudiante (alumno)  
 • studer - estudiante  
-suahile - suajili  
+suahili - suajili  
 sual - preguntar (inquirir; pregunta)  
 • sualive - interrogativa  
 sualdokum - formulario  
@@ -3174,9 +3153,9 @@ suaryam - cena
 Suati - Esuatini (Suazilandia)  
 sube - parte inferior  
 sube - mañana  
+• subike - inferior  
 suboden - mañana (antes mediodía)  
 subyam - desayuno  
-• subike - inferior  
 sude - sur  
 sude - sureño  
 Sudi Amerike - Sudamérica  
@@ -3206,7 +3185,7 @@ suke - gustar (complacer)
 suke - feliz  
 suku - gustarse (disfrutar)  
 sukar - azúcar  
-sukare - azucarado  
+sukari - azucarado  
 sukarbete - remolacha azucarera  
 sukar gana - caña de azúcar  
 sulfe - azufre  
@@ -3600,14 +3579,24 @@ xake - rama
 xakal - chacal  
 xal - bufanda (chal)  
 xaman - chamán (brujo, hechicero)  
+xampan - Champaña  
+xampan vin - champagne  
+xanke - duda  
+• xankable - dudoso  
+xante - descanso (alivio)  
+xante - tranquilo (calmado)  
 xarke - tiburón  
+xarme - vergüenza (pena)  
 xarnir - bisagra (gozne)  
+xarte - condición (requisito, estipulación; espicificar, estipular)  
 xate - oponerse (resistir)  
 xatan - adversario (oponente)  
 xatan (ruhoxatan) - Satanás  
 xatani - satánico  
 xatanisme - satanismo  
 xataniste - satanista  
+xatrange - ajedrez  
+xaxa - susurrar (curjir)  
 xefe - jefe  
 xefe minister - primer ministro  
 xefe di - principal  
@@ -3615,6 +3604,15 @@ xei - cosa
 xeihal - situación  
 xenon - xenón  
 xenseng - maestro (profesor)  
+xere - sierra  
+xerofun - serrín  
+xerokan - aserradero  
+xim - corazón  
+xin - creencia (fe)  
+xine - creer  
+xindavisme - sintoísmo  
+xing - estrella  
+xingofote - centellear (titilar)  
 xipe - mojar (mojado)  
 • xipete - húmedo  
 • perxipe - remojar (empapar)  
@@ -3624,6 +3622,7 @@ xir - poema
 xirope - jarabe (sirope)  
 xite - mierda  
 Xiva - Shiva  
+xixe - atravesar  
 sis - brocheta  
 sislun - junio  
 xofe - conducir  
