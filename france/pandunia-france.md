@@ -205,7 +205,7 @@ banan - banane
 bande - bande  
 bandir - drapeau  
 bangle - bengali  
-Banglodes - Bangladesh  
+Banglodex - Bangladesh  
 banyakamar - salle de bains  
 banke - banque  
 • banker - banquier  
@@ -1472,12 +1472,7 @@ sammetria - symétrie
 samrayia - accord  
 samsifia - simulation  
 samarium - samarium  
-sampan - Champagne  
-sampan vin - Champagner  
 sanduice - sandwich  
-• sankable - douteux (dubitatif)  
-sante - repos  
-sante - calme (tranquille)  
 sante kanon - saintes écritures   
 sanze - éventail  
 sar - tête  
@@ -1500,15 +1495,14 @@ seme - signifier (voiloir dire)
 • semoforer - sémaphore  
 • semolojia - sémantique  
 semen - semence  
-• semene - séminal  
-sen - âge  
+• semenike - séminal  
+sene - âge  
 senater - sénateur  
 sense - sens  
 senter - tentacule  
 sere - série  
-sere - scie  
-serofun - sciure  
-serokan - scierie  
+ser: - maillon (chaînon)  
+seria - série  
 serlinke - maillon (chaînon)  
 sexolojia - sexologie  
 sexolojia - sexologie  
@@ -1518,19 +1512,15 @@ sibai - échec
 sibaya tene - perder  
 sibayer - perdant  
 siborgium - seaborgium  
-inside - s’accroupir  
+• inside - s’accroupir  
 sifloge - adjectif  
 sigar - cigarette  
 siyahe - noir  
 sikle - bicyclette  
 sikliste - cycliste  
 risikle - recycler  
-sil - maillon (chaînon)  
-silia - série  
 silike - silicium  
 silke - soie  
-sing - étoile  
-singofote - étinceler  
 • desinye - désigner  
 sire - cacher  
 siri mote - célérité  
@@ -1780,6 +1770,11 @@ vulve - vulve
 
 ## X  
 
+xampan - Champagne  
+xampan vin - Champagner  
+• xankable - douteux (dubitatif)  
+xante - repos  
+xante - calme (tranquille)  
 xarke - requin  
 xarnir - charnière  
 xate - s'opposer à  
@@ -1789,6 +1784,11 @@ xefe - chef
 xei - chose  
 xeihal - situation (état de choses)  
 xenon - xénon  
+xere - scie  
+xerofun - sciure  
+xerokan - scierie  
+xing - étoile  
+xingofote - étinceler  
 xipe - mouiller (mouillé)  
 • xipete - humide  
 xite - merde  

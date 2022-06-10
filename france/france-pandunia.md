@@ -203,7 +203,7 @@ bambou - banse
 banane - banan  
 bande - bande  
 bande dessinée - grafosage  
-Bangladesh - Banglodes  
+Bangladesh - Banglodex  
 banque - banke  
 banquier - banker  
 Barbade - Barbados  
@@ -308,7 +308,7 @@ calendrier - kalende
 caleçon - bokserpante  
 californium - kalifornium  
 calmar (encornet, calamar) - kalmar  
-calme (tranquille) - sante  
+calme (tranquille) - xante  
 Camomille Romaine - roma kamil  
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
@@ -343,8 +343,8 @@ centre - zung
 cerise - cerize  
 chachlik - sismanse  
 chambre à coucher - somokamar  
-Champagne - sampan  
-Champagner - sampan vin  
+Champagne - xampan  
+Champagner - xampan vin  
 champignon - fungopal  
 chance - canse  
 changement climatique - klimomute  
@@ -552,7 +552,7 @@ dormir (sommeil) - some
 dossier - dataje  
 double - duple  
 douche - duce  
-douteux (dubitatif) - sankable  
+douteux (dubitatif) - xankable  
 drapeau - bandir  
 drogue (narcotique,dope) - narke  
 droit (rectiligne) - orte  
@@ -969,8 +969,8 @@ lézard - saure
 machine à écrire - kitabomaxin  
 magma - pastopetre  
 magnésium - magesium  
+maillon (chaînon) - ser:  
 maillon (chaînon) - serlinke  
-maillon (chaînon) - sil  
 main - hande  
 mais - ama  
 maison (foyer, domicile; vivre (habiter) - dom  
@@ -1418,7 +1418,7 @@ religion - din
 remplir - pure  
 renard - hulei  
 reporter (rapporteur) - reporter  
-repos - sante  
+repos - xante  
 repos - repause  
 repose en paix (REP) - repause in pace (RIP)  
 repport (reportage) - reporte  
@@ -1520,9 +1520,9 @@ savoir (connaître) - save
 Scandinavie - oskandinavia  
 Scandinavie - Skandia  
 scandium - skandium  
-scie - sere  
-scierie - serokan  
-sciure - serofun  
+scie - xere  
+scierie - xerokan  
+sciure - xerofun  
 scooter - motor skuter  
 sculpteur - skulter  
 scutelle - ostosalke  
@@ -1596,10 +1596,10 @@ sèche-cheveux - kexofentor
 sélénium - selenium  
 sémantique - semolojia  
 sémaphore - semoforer  
-séminal - semene  
+séminal - semenike  
 sénateur - senater  
 série - sere  
-série - silia  
+série - seria  
 sûr - sekure  
 sûrement (faire confiance, espérer, croire; amen) - amen  
 s’accroupir - inside  
@@ -1809,7 +1809,7 @@ zoroastrisme - zarduxisme
 zoulou - Zulu  
 zèbre - zebra  
 Égypte - Misria  
-âge - sen  
+âge - sene  
 échec - sibai  
 école (collège) - xulkan  
 école primaire - bazoxulkan  
@@ -1846,8 +1846,8 @@ zèbre - zebra
 étain - stanium  
 état - hal  
 éternuer (atchoum) - aci  
-étinceler - singofote  
-étoile - sing  
+étinceler - xingofote  
+étoile - xing  
 étude - studaje  
 étude - studia  
 études de genre - gensolojia  

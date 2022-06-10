@@ -37,7 +37,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**abete**|spa:por:abeto|
 |**able**|tur:bilmek + fra:habile, spa:por:hábil, eng:able;ability|
 |**acar**|fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|
-|**aci**|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
+|**aci**|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), ben:আঁচে (hache), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |**acinium**|eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم|
 |**ade**|ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada|
 |**adal**|ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)|
@@ -196,6 +196,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**boka**|spa:por:boca|
 |**bokse**|eng:box, deu:Boxen, fra:por:boxe, spa:boxeo, rus:бокс (boks), jpn:ボクシング (bokushingu), kor:복싱 (boksing), hin:बॉक्सिंग (bŏksiṅg), ben:বক্সিং (bôksing), may:boksing, tur:boks|
 |**bol**|eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule, balle|
+|**bolte**|eng:bolt, fra:boulon, rus:болт (bolt), hin:बोल्ट (bolṭ), jpn:ボルト (boruto), kor:볼트 (bolteu) |
 |**bombe**|pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|
 |**bon**|fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|
 |**bore**|eng:bored, spa:aburrido, hin:(bhorī)|
@@ -301,11 +302,11 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**demon**|eng:tur:demon, spa:demonio, por:demônio, fra:démon, deu:Dämon, rus:демон (demon)|
 |**den**|rus:день (deń), hin:दिन (din), ben:দিন (din) + zho:天 (tiān), yue:天 (tin1)|
 |**denge**|zho:等 (děng), yue:等 (dang2)|
-|**des**|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
 |**dese**|por:dez, spa:diez, fra:dix, rus:десять (desyat'), pol:dziesięć, hin:दस (das), urd:(das), ben:দশ (dôś), + eng:deci-, may:desi-, jpn:デシ- (deshi), deu:dezi-|
 |**desen**|eng:design, spa:diseño, rus:дизайн (dizain), tur:desen, hin:डिज़ाइन (ḍizāin), jpn:デザイン (dezain)|
 |**detal**|eng:detail, spa:detalle, por:detalhe, fra:détail, deu:Detail, rus:дета́ль (detal’)|
 |**deu**|por:deus, may:dewa, hin:देवता (devtā), kan:(dēva) + eng:theo-, fra:théo-, spa:teo-, rus:тео- (teo-)|
+|**dex**|hin:देश (deś), ben:দেশ (deś), tel:(dēśamu)|
 |**dike**|eng:indicate, fra:indiquer, spa:por:indicar + hin:mar:दिशा (diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang) + ben:দিকে (dike) + zho:的 (dí), yue:的 (dik1), jpn:的 (teki), vie:đích|
 |**din**|ara:(dīn), ben:দীন (din), fas:(din), tur:may:din, swa:dini, hau:addini, hin:दीन (dīn)|
 |**dinamite**|eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|
@@ -367,31 +368,33 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**exe**|eng:fra:spa:ex-, por:ex- (es-), rus:экзо- (ekzo-), may:eks-|
 |**• extre**|deu:eng:fra:spa:por:extra, rus:экстренный (ekstrennyy), tur:ekstra|
 |**exa**|eng:fra:spa:por:exa, rus:экза- (ekza-), may:eska-, zho:艾可萨- (àikěsà-), jpn:エクサ (ekusa), kor:엑사- (eksa-)|
-|**fe**|fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya|
 |**fade**|zho:发 (fā), yue:發 (faat3), wuu:發 (faq4), jpn:発 (hatsu), vie:phát|
 |**faide**|ara:(fāʾida), tur:fayda, swa:faida, hin:फ़ायदा (fāyadā), may:faedah|
 |**faine**|eng:fine, spa:por:fino, fra:fin|
 |**false**|eng:false, spa:por:falso, fra:faux, deu:falsch|
 |**famil**|eng:family, spa:familia, por:família, fra:famille|
-|**fan**|fra:fang, spa:fango + eng:fen + zho:粪 (fèn), yue:糞 (fan3), vie:phân|
+|**fan**|eng:fra:spa:vie:fan, por:fã, rus:фанат (fanat), zho:粉丝 (fensi), jpn:ファン (fan), kor:팬 (pän)|
+|**fange**|fra:fange, spa:fango, hin:पंक (paṅk), tam:(pankam)|
 |**fantas**|eng:fra:fantasy, spa:fantasía, por:swa:fantasia, rus:фантазия (fantazija), tur:fantezi, may:fantasi, jpn:ファンタジー (fantajī)|
 |**fantom**|eng:phantom, spa:por:fantasma, fra:fantôme, rus:фантом (fantom)|
 |**fase**|eng:fra:por:face, spa:faz, deu:Facette|
-|**fase**|ita:fascia, por:faixa, spa:faja|
 |**fasile**|eng:facility, spa:por:fácil, fra:facile|
 |**fasin**|eng:fascination, spa:fascinación, deu:Faszination|
 |**fason**|eng:fashion, hin:फैशन (faiśan), jpn:ファッション (fasshon), kor:패션 (pæsyeon), tha:แฟชั่น (feechan), ben:ফ্যাশন (phaśôn)|
 |**fatige**|eng:fra:fatigue, spa:fatiga, por:fadiga, ita:fatica|
 |**favor**|eng:spa:por:favor, fra:faveur + rus:фаворитизм (favoritizm)|
+|**faxe**|ita:eng:fascia, por:faixa, spa:faja + fra:fascisme, rus:фашизм (fašizm), ara: فَاشِيَّة‎ (fāšiyya), zho:法西斯主义 (fǎxīsīzhǔyì), jpn:ファシズム (fashizumu), kor:파시즘 (pasijeum), vie:chủ nghĩa phát xít, hin:फ़ासीवाद (fāsīvād), may:fasisme ben:ফ্যাসিবাদ (phaśibad)|
 |**faze**|spa:por:ita:may:fase, eng:fra:phase, rus:фаза (faza), pol:faza, fas:(fāz)|
 |**febre**|por:febre, spa:fiebre, deu:Fieber, eng:fever, fra:fièvre|
 |**fei**|zho:飞 (fēi), yue:飛 (fei1), wuu:飛 (fi1), jpn:飛 (hi), kor:비 (bi), vie:bay|
+|**feke**|eng:feces, fra:fèces, spa:heces, por:fezes+ zho:粪 (fèn), yue:糞 (fan3), vie:phân|
 |**fem**|fra:femme, por:fêmea, eng:female|
 |**fen**|zho:分 (fèn), wuu:(fén), yue:(fan), vie:phần, tha:ปัน (pan), jpn:分 (bun), kor:분 (bun)|
 |**fente**|zho:风 (fēng), yue:風 (fung1), wuu:风 (fong) + eng:fan + rus:фен (fěn) + fra:vent, spa:viento, por:vento|
 |**fer**|spa:hierro, por:ferro, fra:fer, may:ferum, swa:feri|
 |**fermium**|eng:fermium, fra:fermium, spa:fermio, por:férmio, rus:фермий, zho:镄 (fèi), jpn:フェルミウム, kor:페르뮴, vie:fecmi, hin:फर्मियम, ben:ফার্মিয়াম, may:fermium, swa:fermi, ara: فرميوم|
 |**feste**|por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival')|
+|**fete**|fra:faire, por:fazer, ita:fare + ara: فَعَلَ‎ (faʿala) + swa:fanya|
 |**fete**|fra:fait, por:fato, eng:fact, deu:Fakt, rus:факт (fakt), fas:(fâkt)|
 |**• exfete**|fra:effet, por:efeito, eng:effect, spa:efecto, rus:эффект (effekt)|
 |**• infetion**|eng:fra:infection, deu:Infektion, spa:infección, por:infecção, rus:инфекция (infektsiya), tur:enfeksiyon, may:infeksi|
@@ -1286,17 +1289,11 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**san**|zho:山 (shān), jpn:山 (san), kor:산 (san), vie:sơn|
 |**sanduice**|eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic|
 |**sanduke**|swa:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq)|
-|**sanke**|hin:शंका (śankā) + ara: شَكَّ‎ (šakka), swa:shaka|
 |**sante**|por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng), hin:संत (sant), kon:santu|
-|**sante**|hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)|
 |**sanze**|zho:扇子 (shànzi), yue:扇子  (sin3zi2), jpn:扇子 (sensu), kor:선 (seon), mon:шанз (šanz)|
 |**sapate**|spa:zapato, por:sapato, may:sepatu, swa:sapatu|
 |**sar**|fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|
-|**sarme**|fas:(šarm), urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|
-|**sarte**|tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|
-|**sase**|zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha|
 |**sate**|ara: سَاعَة‎ (sāʿa), may:tur:saat, swa:saa, hau:sa’a, wol:yor:saa, fas:(sâ'at)|
-|**satrange**|hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|
 |**save**|fra:savoir, spa:por:saber, eng:savvy|
 |**save**|zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|
 |**sauna**|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
@@ -1310,12 +1307,12 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**selge**|ara:سلق (silqa), spa:por:acelga|
 |**semen**|fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:semen|
 |**semente**|eng:cement, may:semen, spa:cemento, swa:sementi, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|
-|**sen**|ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)|
+|**sene**|ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)|
 |**seng**|zho:胜 (shèng), yue:勝 (sing3), wuu:勝 (sen2), jpn:勝 (shō), kor:승 (seung), vie:thắng|
 |**sense**|eng:sense, spa:por:sentido, fra:sens|
 |**sente**|spa:por:sentir|
 |**sere**|eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri + hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili, fas: سلسله‎ (selsele), amh:ሰንሰለት (sänsälät) + zho:系列 (xìliè)|
-|**sere**|alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)|
+|**ser:**|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili + zho:系列 (xìliè) + eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri|
 |**serame**|eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik|
 |**serebre**|eng:cerebrum, spa:cerebro, por:cérebro, fra:cerveau|
 |**serpe**|hin:सर्प (sarp), ben:সাপ (sap), tel:(sarpamu), fra:eng:serpent, spa:serpiente, + zho:蛇 (shé), + yor:sèbé|
@@ -1332,21 +1329,13 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**siyahe**|fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|
 |**sike**|eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|
 |**sikle**|eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|
-|**sil**|hin:सिलसिला (silsilā), ara:(silsila), tur:silsile, swa:silisili + zho:系列 (xìliè) + eng:series, fra:série, spa:serie, rus:серия (seriya), tur:seri|
 |**silike**|eng:silicon, fra:silicium, spa:silicio, por:silício, rus:кремний, vie:silic, hin:सिलिकॉन, ben:সিলিকন, may:silikon, swa:silikoni, ara: سيلكون|
 |**silke**|zho:丝 (sī), yue:絲 (si1), wuu:絲 (sr1), eng:silk, spa:por:sérico, rus:шёлк (sholk)|
-|**sim**|kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim|
 |**simple**|eng:spa:fra:simple, por:simples, deu:simpel|
-|**sin**|zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|
-|**sindavisme**|jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)|
 |**sina**|fas:(sine), tur:sine, hin:सीना (sīnā), spa:seno, fra:sein, ltn:sinus|
 |**sing**|may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba|
-|**sing**|zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)|
 |**sinye**|eng:sign, spa:señal, por:sinal, fra:signe|
-|**sipe**|zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)|
 |**sir**|ara: سِرّ (sirr), hin:सेर (ser), may:sir, swa:siri, hau:ful:asiri, yor:àṣírí, tur:sır, fas:(serr)|
-|**sir**|heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|
-|**sire**|ara:(sirr), tur:sır, fas:(serr), swa:siri|
 |**sirke**|eng:circle, spa:por:círculo, fra:cercle|
 |**siro**|ara: صِفْر‎ (ṣifr), swa:sifuri, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô|
 |**sise**|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta)|
@@ -1566,14 +1555,27 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**xakal**|fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|
 |**xal**|fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|
 |**xaman**|eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)|
+|**xanke**|hin:शंका (śankā) + ara: شَكَّ‎ (šakka), swa:shaka|
+|**xante**|hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)|
 |**xarke**|eng:shark, hin:शार्क (shaark), pan:ਸ਼ਾਰਕ (śāraka), mar:शार्क (śārka)|
+|**xarme**|fas:(šarm), urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|
 |**xarnir**|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
+|**xarte**|tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|
 |**xatan (ruhoxatan)**|heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|
+|**xatrange**|hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez|
+|**xaxa**|zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha|
 |**xefe**|fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)|
 |**xei**|ara: شيء (šayʾ), tur:şey, fas: شیء‎ (šeyʼ) + zho:事 (shì), yue:事 (si6), vie:sự|
 |**xeihal**|zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|
 |**xenon**|eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون|
 |**xenseng**|zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生 (sensei), kor:선생 (seonsaeng), vie:tiên sinh, may:sinse, tha:ซินแส (sin-see), eng:sensei|
+|**xere**|alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)|
+|**xim**|kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim|
+|**xin**|zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|
+|**xindavisme**|jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)|
+|**xing**|zho:星 (xīng), wuu:星 (xing), yue:星 (sing1), jpn:星 (sei), kor:성 (seong)|
+|**xipe**|zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)|
+|**xir**|heb:שיר (šir), ara:(šiʿr), tur:şiir, fas:(še'r), swa:shairi, zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)|
 |**xirope**|ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu), swa:shira|
 |**xite**|eng:shit + zho:屎 (shǐ), yue:屎 (si2)|
 |**sis**|tur:şiş + eng:shish-, rus:шиш- (šiš-)|
