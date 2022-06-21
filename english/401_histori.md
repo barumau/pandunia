@@ -135,9 +135,15 @@ Pandunia version 2.0 is published in September 28, 2021.
 
 Creation years of the Wikipedia articles about Pandunia:
 
-- 2008 Esperanto
-- 2016 Farsi
-- 2017 Kongo, Lingala, Volapük
-- 2018 Finnish, Interlingua
-- 2019 French, Tagalog
+- 2008 [Esperanto](https://eo.wikipedia.org/wiki/Pandunia)
+- 2016 [Farsi](https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D8%AF%D9%88%D9%86%DB%8C%D8%A7)
+- 2017 [Kongo](https://kg.wikipedia.org/wiki/Pandunia),
+       [Lingala](https://ln.wikipedia.org/wiki/Pandunia),
+       [Volapük](https://vo.wikipedia.org/wiki/Pandunia)
+- 2018 [Finnish](https://fi.wikipedia.org/wiki/Pandunia),
+       [Interlingua](https://ia.wikipedia.org/wiki/Pandunia)
+- 2019 [French](https://fr.wikipedia.org/wiki/Pandunia),
+       [Tagalog](https://tl.wikipedia.org/wiki/Pandunia)
+- 2022 [Spanish](https://es.wikipedia.org/wiki/Pandunia),
+       [Basque](https://eu.wikipedia.org/wiki/Pandunia)
 

@@ -4339,8 +4339,7 @@ whose? - ke su
 wide (broad) - kuane  
 widow - vidou  
 width (breadth) - kuania  
-wiki - vikia  
-wiki article - vike  
+wiki - viki  
 wikipedia - vikipedia  
 wild (feral, savage) - jangle  
 wild (savage) - ekogene  

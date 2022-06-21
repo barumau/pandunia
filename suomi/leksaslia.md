@@ -1451,7 +1451,7 @@
 **vezia** *paino* ← arabia: وَزْن‎ (wazn), hindi:वज़न (vazan), bangla:ওজন (ojôn), kannada:ವಜ್ಜೆ (vajje), suahili:uzani + venäjä:вес (ves) + ranska:peser, espanja:portugali:peso  
 **vide** *nähdä* ← venäjä:видеть (videt’), italia:vedere, espanja:portugali:ver, puola:widzieć, englanti:vide  
 **vidou** *leski* ← englanti:widow, espanja:viudo, portugali:viúvo, ranska:veuve, deu:Witwe, venäjä:вдова (vdova), hindi:विधवा (vidhavā), bangla:বিধবা (bidhabā), telugu:విధవ (vidhava)  
-**vikia** *wiki* ← englanti:ranska:espanja:portugali:malaiji:wiki, turkki:viki, arabia:وِيكي‎ (wikī), persia:ویکی‎ (viki), hindi:विकि (viki), bangla:উইকি (uiki), yleiskiina:维基 (wéijī), kantoninkiina:維基 (wai4 gei1), japani:ウィキ (wiki), korea:위키 (wiki)  
+**viki** *wiki* ← englanti:ranska:espanja:portugali:malaiji:wiki, turkki:viki, arabia:وِيكي‎ (wikī), persia:ویکی‎ (viki), hindi:विकि (viki), bangla:উইকি (uiki), yleiskiina:维基 (wéijī), kantoninkiina:維基 (wai4 gei1), japani:ウィキ (wiki), korea:위키 (wiki)  
 **vile** ** ← englanti:ranska:espanja:turkki:villa,portugali:vila,  venäjä:вилла (villa), japani:ビラ (bira), korea:빌라 (billa)  
 **viman** *lentokone* ← hindi:marathi:विमान (vimān), bangla:বিমান (biman), gujarati:વિમાન (vimān), telugu:విమానము (vimānamu), tamili:விமானம் (vimāṉam)  
 **vin** *viini* ← ranska:vin, espanja:vino, venäjä:вино (vino), englanti:wine, deu:Wein, hindi:वाइन (vāin), japani:ワイン (wain), suahili:mvinyo  

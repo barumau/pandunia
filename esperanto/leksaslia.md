@@ -1451,7 +1451,7 @@
 **vezia** *pezo* ← araba: وَزْن‎ (wazn), hindia:वज़न (vazan), bengala:ওজন (ojôn), kanara:ವಜ್ಜೆ (vajje), svahila:uzani + rusa:вес (ves) + franca:peser, hispana:portugala:peso  
 **vide** *vidi (rigardi)* ← rusa:видеть (videt’), itala:vedere, hispana:portugala:ver, polona:widzieć, angla:vide  
 **vidou** *vidvo* ← angla:widow, hispana:viudo, portugala:viúvo, franca:veuve, deu:Witwe, rusa:вдова (vdova), hindia:विधवा (vidhavā), bengala:বিধবা (bidhabā), teluga:విధవ (vidhava)  
-**vikia** ** ← angla:franca:hispana:portugala:malaja:wiki, turka:viki, araba:وِيكي‎ (wikī), persa:ویکی‎ (viki), hindia:विकि (viki), bengala:উইকি (uiki), mandarena:维基 (wéijī), kantona:維基 (wai4 gei1), japana:ウィキ (wiki), korea:위키 (wiki)  
+**viki** *vikio* ← angla:franca:hispana:portugala:malaja:wiki, turka:viki, araba:وِيكي‎ (wikī), persa:ویکی‎ (viki), hindia:विकि (viki), bengala:উইকি (uiki), mandarena:维基 (wéijī), kantona:維基 (wai4 gei1), japana:ウィキ (wiki), korea:위키 (wiki)  
 **vile** ** ← angla:franca:hispana:turka:villa,portugala:vila,  rusa:вилла (villa), japana:ビラ (bira), korea:빌라 (billa)  
 **viman** ** ← hindia:marataja:विमान (vimān), bengala:বিমান (biman), guĝarata:વિમાન (vimān), teluga:విమానము (vimānamu), tamila:விமானம் (vimāṉam)  
 **vin** *vino* ← franca:vin, hispana:vino, rusa:вино (vino), angla:wine, deu:Wein, hindia:वाइन (vāin), japana:ワイン (wain), svahila:mvinyo  

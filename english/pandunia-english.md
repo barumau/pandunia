@@ -4201,8 +4201,7 @@ vidomeden - visual field (field of vision)
 vidou - widow  
 viete - Vietnamese (Viet)  
 Vietia - Viet Nam  
-vike - wiki article  
-vikia - wiki  
+viki - wiki  
 vikipedia - wikipedia  
 vile - farmhouse (villa)  
 • vilaje - village  

@@ -1451,7 +1451,7 @@
 **vezia** *waga (ciężkość)* ← ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso  
 **vide** *widzieć (patrzeć)* ← rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide  
 **vidou** *wdowa* ← eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)  
-**vikia** ** ← eng:fra:spa:por:may:wiki, tur:viki, ara:وِيكي‎ (wikī), fas:ویکی‎ (viki), hin:विकि (viki), ben:উইকি (uiki), zho:维基 (wéijī), yue:維基 (wai4 gei1), jpn:ウィキ (wiki), kor:위키 (wiki)  
+**viki** *wiki* ← eng:fra:spa:por:may:wiki, tur:viki, ara:وِيكي‎ (wikī), fas:ویکی‎ (viki), hin:विकि (viki), ben:উইকি (uiki), zho:维基 (wéijī), yue:維基 (wai4 gei1), jpn:ウィキ (wiki), kor:위키 (wiki)  
 **vile** ** ← eng:fra:spa:tur:villa,por:vila,  rus:вилла (villa), jpn:ビラ (bira), kor:빌라 (billa)  
 **viman** *samolot* ← hin:mar:विमान (vimān), ben:বিমান (biman), guj:વિમાન (vimān), tel:విమానము (vimānamu), tam:விமானம் (vimāṉam)  
 **vin** *wino* ← fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain), swa:mvinyo  

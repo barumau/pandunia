@@ -3536,7 +3536,7 @@ vidomeden - campo de visión
 vidou - viudo  
 viete - vietnamita  
 Vietia - Vietnam  
-vike - página wiki  
+viki - wiki  
 • vilaje - aldea (villa)  
 viman - aeroplano  
 vin - vino  

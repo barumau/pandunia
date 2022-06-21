@@ -1783,7 +1783,8 @@ vide - vidi (rigardi)
 • exvide - evidenta  
 • exvidable - evidenta  
 vidou - vidvo  
-vike - vikia artikulo  
+viki - vikio  
+vikipedia - vikipedio  
 • vilaje - vilaĝo  
 vin - vino  
 vinsuan - vinagro  

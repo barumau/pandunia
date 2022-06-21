@@ -91,7 +91,6 @@ Armenia - Hayastan
 armia - gun  
 aromantyczny - anromante  
 arsen - arsene  
-artykuł wiki - vike  
 artykuł, tekst - makal  
 artysta - artiste  
 Aruba - Aruba  
@@ -3130,6 +3129,7 @@ wieś, tereny wiejskie - agrostan
 wieś, wioska - vilaje  
 wieża - minar  
 wieża zegarowa - horlogerminar  
+wiki - viki  
 wilk - volfe  
 wina, grzech; defekt, wada - dos  
 winiarnia - vineria  

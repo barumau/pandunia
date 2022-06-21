@@ -3600,8 +3600,7 @@ vidomeden - näkökenttä
 vidou - leski  
 viete - vietnamilainen  
 Vietia - Vietnam  
-vike - wikikirjoitus  
-vikia - wiki  
+viki - wiki  
 vikipedia - wikipedia  
 • vilaje - kylä  
 viman - lentokone  

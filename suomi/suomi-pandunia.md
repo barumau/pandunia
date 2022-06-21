@@ -3716,8 +3716,7 @@ walesilainen - kamre
 Washington DC - Vaxington DC  
 watti - vat  
 Wenzhou - Venzou  
-wiki - vikia  
-wikikirjoitus - vike  
+wiki - viki  
 wikipedia - vikipedia  
 wolofin kansa ja kieli - Volof  
 

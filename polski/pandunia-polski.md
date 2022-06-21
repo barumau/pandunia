@@ -3277,7 +3277,7 @@ vidomeden - pole widzenia
 vidou - wdowa  
 viete - wietnamski  
 Vietia - Wietnam  
-vike - artykuł wiki  
+viki - wiki  
 • vilaje - wieś, wioska  
 viman - samolot  
 vimankaper - porywacz samolotu  

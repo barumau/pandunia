@@ -2931,7 +2931,6 @@ punto flotante - boipuntonumbe
 puntuación (resultado) - puntonumbe  
 puñal (daga) - kanzar  
 página - varkolate  
-página wiki - vike  
 pájaro (ave) - pakse  
 pánico - panike  
 pícea - picea  
@@ -3708,6 +3707,7 @@ vulva - vulve
 válvula (llave, canilla) - kran  
 vía férrea - trendau  
 Wallis y Futuna - Valis e Futuna nesia  
+wiki - viki  
 
 ## X  
 
