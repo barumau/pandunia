@@ -226,7 +226,7 @@ ceresium - 铈
 • sucese - 成功  
 cesium - 铯  
 cete - 七 (7)  
-ceti din - 週  
+cetoden - 週  
 cili - 菜椒  
 cili fun - 辣椒粉  
 cine - 汉族  
@@ -301,7 +301,6 @@ dosile - 驯服的
 du - 二 (2)  
 dua - 祈祷  
 • dusdua - 诅咒  
-duce - 淋浴  
 duge - 读 (看)  
 dunia - 世界  
 dur - 时间  
@@ -311,6 +310,7 @@ dur - 时间
 durometrer - 秒表  
 dus - 难  
 duse - 难  
+duxe - 淋浴  
 
 ## E  
 
@@ -421,6 +421,7 @@ geografia - 地理
 geometria - 几何学  
 geopolitike - 地缘政治  
 geoterme - 地热的  
+gele - 啫哩  
 • genolojia - 系谱学  
 • ingene - 内生的  
 genobase - 母语  
@@ -562,6 +563,7 @@ jau - 大麦
 jeke - 借  
 jekocepe - 借入  
 jekodone - 借出  
+• jelokan - 监狱 (监牢)  
 jenju - 珍珠  
 • jetaje - 投掷物  
 jetografe - 投射 (投影)  
@@ -1197,7 +1199,7 @@ silke - 丝绸
 sire - 隐藏  
 sirplan - 阴谋 (密谋)  
 sirkite - 鹅卵石  
-sise - 六 (6)  
+six - 六 (6)  
 skandium - 钪  
 • socia - 社会  
 soce ginse - 社會性別  
@@ -1367,8 +1369,8 @@ viole - 小提琴
 virge - 处女  
 visomatre - 继母  
 visopatre - 继父  
-Visnu - 毗湿奴  
 vitamin - 维生素 (维他命)  
+Vixnu - 毗湿奴  
 vizin - 味精  
 vode - 诺言 (许诺)  
 vol - 想要 (愿意)  

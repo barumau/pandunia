@@ -244,6 +244,7 @@ cerize - cereja
 • sucese - prosperar  
 cesium - césio  
 cete - sete (7)  
+• cetime - sétimo  
 cili - cápsico  
 cinbrusben - primo  
 cinmai - avó  
@@ -327,7 +328,6 @@ du - dois (2)
 • duple - dobro  
 • dusdua - maldição  
 dubnium - dúbnio  
-duce - ducha  
 duge - ler  
 dunia - mundo  
 duna - duna (бархан)  
@@ -337,6 +337,7 @@ dur - durar (transcorrer; duração)
 • undure - analógico  
 durometrer - cronómetro  
 • posprodute - pós-produção  
+duxe - ducha  
 
 ## E  
 
@@ -457,6 +458,7 @@ geografia - geografia
 geometria - geometria  
 geopolitike - geopolítica  
 • abogee - apogeu  
+• gelatine - gelatina  
 • rigenerate - regenerar  
 • geneti - genético  
 • genolojia - genealogia  
@@ -1186,10 +1188,10 @@ problem - problema
 program - programa  
 projete - projeto  
 prometium - promécio  
-prose - próximo  
-• aprose - aproximar  
 proten - proteína  
 protacinium - protacnídio  
+proxe - próximo  
+• aproxe - aproximar  
 pudu - apodrecer-se  
 pul - ponte  
 pure - cheio  
@@ -1329,8 +1331,8 @@ silke - seda
 • desinye - designar  
 sire - ocultar (esconder)  
 sirplan - complô (conspiração)  
-sise - seis (6)  
 site - cidade  
+six - seis (6)  
 skale - escalar  
 skandium - escândio  
 • skulter - escultor  
@@ -1440,7 +1442,7 @@ trate - arrastar
 • trator - trator  
 • distrate - distrair  
 • extrate - extrair  
-• kontrate - acordo (tratado,contrato)  
+• kontrate - acordo (tratado, contrato)  
 trete - acordo (tratado, contrato)  
 tri - três (3)  
 • triple - triplo  
@@ -1524,8 +1526,8 @@ virge - virgem
 visomatre - madrasta  
 visopatre - padrasto  
 visoreger - vice-rei  
-Visnu - Vixnu  
 vitamin - vitamina  
+Vixnu - Vixnu  
 vode - promessa (voto)  
 • vokal son - vogal  
 vol - querer (desejar; vontade)  

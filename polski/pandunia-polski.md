@@ -30,12 +30,12 @@ Afrike - Afryka
 Afrikan - afrykański, Afrykanin  
 afrikofilia - afrəfiliə  
 afrikofiliste - afrofil  
-agile - zwinny,sprawny  
+agile - zwinny, sprawny  
 agre - uprawić, uprawiać  
 • agrer - rolnik, farmer  
 agronomia - agronomia  
 agrostan - wieś, tereny wiejskie  
-ahe - rozumieć,pojmować  
+ahe - rozumieć, pojmować  
 ai - aj!, ał!  
 ainstainium - einstein  
 air - powietrze  
@@ -70,7 +70,7 @@ alkol - alkohol
 almari - kredens (szafa, szafka)  
 aluminium - glin (aluminium)  
 ame - kochać (miłość, afekt)  
-ama - ale,lecz  
+ama - ale, lecz  
 Amare - Amhara, amharski  
 Amerike - Ameryka (kontynent)  
 amerikan - amerykański  
@@ -151,8 +151,8 @@ astronomia - astronomia
 Asur - Aszur  
 Asuria - Asyria  
 • ative - aktywować (włączyć, uruchomić)  
-• anative - zdeaktywowany (wyłączony,zatrzymany)  
-• deative - deaktywować (wyłączyć,zatrzymać)  
+• anative - zdeaktywowany (wyłączony, zatrzymany)  
+• deative - deaktywować (wyłączyć, zatrzymać)  
 ata - jabłko cukrowe  
 Atlanti Hai - Ocean Atlantycki  
 atlantokade - dorsz atlantycki  
@@ -424,7 +424,7 @@ cente - sto (100)
 centaure - chaber  
 centi - centy-, procent, na sto, setna część  
 centimitre - centymetr  
-cepe - złapać,łapać,schwytać,chwytać  
+cepe - złapać, łapać, schwytać, chwytać  
 • excepe - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
 Ceres - Ceres (planeta karłowata)  
 ceresium - cer  
@@ -432,7 +432,7 @@ cerize - wiśnia (czereśnia)
 Cernagore - Czarnogóra  
 cesium - cez  
 cete - siedem (7)  
-ceti din - tydzień  
+cetoden - tydzień  
 Cile - Chile  
 cili - papryka  
 cili fun - papryka  
@@ -614,22 +614,20 @@ dou - fasola lub groch, roślina strączkowa
 doze - porcja, dawka  
 drame - dramat  
 dramironia - ironia dramatyczna  
-droge - narkotyk  
 Drugia - Bhutan  
 du - dwa (2)  
-duple - dwukrotnie (dwa razy)  
-duplomene - dwuznacznik  
+du mar - dwukrotnie (dwa razy)  
 du o tri - parę  
+dufene - przepołowić (podzielić przez dwa)  
+duisme - dualizm  
+duplomene - dwuznacznik  
+duromanse - biromantyczny  
+dusexe - biseksualny  
 dua - modlitwa (pomodlić się, modlić się)  
 • dusdua - kląć (przeklinać; przekleństwo)  
 dubnium - dubn  
-duce - prysznic  
 duge - czytać  
 duke - żal, smutek  
-dulo fene - przepołowić (podzielić przez dwa)  
-dulisme - dualizm  
-dulromanse - biromantyczny  
-dulsexe - biseksualny  
 duman - dym  
 dunia - świat  
 dunia lingue - język świata, język ogólnoświatowy  
@@ -644,6 +642,7 @@ dur - trwać (zająć czas; przez; trwanie)
 durometrer - stoper (sekundomierz)  
 durozam - czas (epoka, era)  
 dusi zar - zły los  
+duxe - prysznic  
 
 ## E  
 
@@ -746,10 +745,10 @@ fer - żelazo
 fermium - ferm  
 feste - przyjęcie (święto, festiwal)  
 festoden - święto  
-fete - zrobić (stworzyć,wykreować)  
+fete - zrobić (stworzyć, wykreować)  
 fete - zrobić (czyn, uczynek)  
 • feter - twórca (czynnik)  
-• feteria - fabryka,manufaktura  
+• feteria - fabryka, manufaktura  
 • fetokan - fabryka, manufaktura  
 • infetion - infekcja (zakażenie)  
 • perfete - perfekcyjny  
@@ -851,7 +850,7 @@ fuzopetre - lawa
 ## G  
 
 Gabon - Gabon  
-gabre - grób (mogiła; zakopać,pochować)  
+gabre - grób (mogiła; zakopać, pochować)  
 gabrite - nagrobek  
 gabrostan - cmentarz  
 gade - osioł  
@@ -884,7 +883,7 @@ ganum - pszenica
 ganze - konopie  
 gar - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
 garante - gwarancja  
-garde - chronić, strzec,  osłaniać, bronić  
+garde - chronić, strzec, osłaniać, bronić  
 garder - strażnik, ochroniarz  
 garme - ciepły  
 garmi masal - garam masala  
@@ -924,8 +923,7 @@ geosisme - trzęsienie Ziemi
 geotike - działka (teren)  
 gebria - algebra  
 gei - gejowski (homoseksualny)  
-gel - żel, galareta  
-gelose - zazdrosny  
+gele - żel, galareta  
 gem - gra (grać w grę)  
 • gemer - gracz  
 gene - narodziny  
@@ -948,7 +946,7 @@ Gibuti - Dżibuti
 gide - prowadzić (wskazać drogę)  
 gidobuke - przewodnik  
 gider - przewodnik  
-gige - bilion,giga-  
+gige - bilion, giga-  
 gitar - gitara  
 giuke - żad  
 glise - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
@@ -1143,9 +1141,9 @@ huirange - szary
 huke - hak  
 hukokrus - swastyka  
 hulei - lis  
-• human - człowiek,istota ludzka  
+• human - człowiek, istota ludzka  
 • humane - ludzki  
-• humania - ludzkość,rodzaj ludzki  
+• humania - ludzkość, rodzaj ludzki  
 • humanisme - humanizm  
 • humaniste - humanista  
 human hake - prawa człowieka  
@@ -1197,7 +1195,7 @@ irone - ironiczny
 ironia - ironia  
 islam - poddanie się, uległość, pokora, posłuszeństwo  
 • islamia - Islam  
-• islaman - muzułman,muzułmanin  
+• islaman - muzułman, muzułmanin  
 • islamofobia - islamofobia  
 • islamike - islamski  
 • islamisme - Islam  
@@ -1234,6 +1232,9 @@ jeke - pożyczyć
 jekocepe - pożyczać (pożyczyć)  
 jekodone - pożyczać komuś (pożyczyć komuś)  
 jekolexe - zapożyczenie (wyraz obcy)  
+jele - uwięzić, więzić, pozbawić wolności  
+• jeler - strażnik więzienny  
+• jelokan - więzienie, zakład karny  
 jenisme - dźinizm, dżinizm  
 jeng - walka, wojna  
 jenge - militarny, wojskowy, wojenny  
@@ -1244,7 +1245,7 @@ Jerzi - Jersey
 • jetaje - pocisk  
 • injete - zastrzyk  
 injete - wstrzyknąć, wstrzykiwać  
-• projetaje - projekt,planowane przedsięwzięcie  
+• projetaje - projekt, planowane przedsięwzięcie  
 jetografor - projektor (rzutnik)  
 jetografe - wyświetlać (rzut, projekcja)  
 jin - prawdziwy (rzeczywisty, szczery)  
@@ -1593,7 +1594,7 @@ kupe - kubek
 kupocate - kopuła  
 kupon - kupon  
 kupre - miedź  
-kure - pielęgnować,leczyć  
+kure - pielęgnować, leczyć  
 kurium - kiur  
 kuran - Koran  
 • prekurser - prekursor  
@@ -2012,7 +2013,7 @@ Monako - Monako
 mongole - Mongolski  
 Mongolia - Mongolia  
 monoster - potwór, monstrum  
-monte - góra,wzgórze  
+monte - góra, wzgórze  
 morfe - morf  
 morfem - morfem  
 morfeme - morfem  
@@ -2100,7 +2101,7 @@ nas - ludzie (lud, ludność)
 nase - narodowy (ludowy)  
 nasi sosisme - narodowy socjalizm  
 nasia - naród, narodowość  
-• nasian - ludzie (lud,ludność)  
+• nasian - ludzie (lud, ludność)  
 nasisme - nacjonalizm  
 nasiste - nacjonalista  
 nasmede - międzynarodowy  
@@ -2359,7 +2360,7 @@ patate - ziemniak
 pau - pistolet, strzelba, ręczna broń palna  
 pave - strzelać (strzelić)  
 paunde - funt (£)  
-• repause - zostawić,zostawiać  
+• repause - zostawić, zostawiać  
 • repause in pace (RIP) - spoczywaj w pokoju  
 pauze - pauza (przerwa)  
 pauze - przerwać, przerywać  
@@ -2370,7 +2371,7 @@ peye - zapłacić, opłacić, płacić
 peikar - profesja, zajęcie, zawód  
 pelmen - kluska, knedel, pieróg; ravioli, pelmeni  
 pelpel - motyl  
-pende - powiesić,wieszać  
+pende - powiesić, wieszać  
 pende - powiesić, wieszać  
 pendokardon - oset zwisły  
 penis - penis  
@@ -2489,20 +2490,17 @@ postokan - poczta, budynek poczty
 pote - dzban (dzbanek; słój, słoik; wazon)  
 poze - poza, pozycja  
 poze - pozować, ustawiać się  
-• depoze - usuwać (usunąć,likwidować,zlikwidować,wymazywać,wymazać,pozbywać się,pozbyć się)  
+• depoze - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 • propoze - proponować (sugerować; propozycja, sugestia)  
 prasedium - prazeodym  
 prate - praktyka, aktualność  
 prate - practyczny, pragmatyczny  
-• konprese - ścisnąć (sciskać,wycisnąć)  
+• prime - pierwszy, początkowy  
+• konprese - ścisnąć (sciskać, wycisnąć)  
 prezidente - prezydent  
-prizon - więzienie, kara więzienia, kara pozbawienia wolności  
-prizone - uwięzić, więzić, pozbawić wolności  
-prizoner - strażnik więzienny  
-prizonkan - więzienie, zakład karny  
-• proo - naprzód  
+pro - naprzód  
 problem - problem  
-probleme - problematyczny  
+• problemike - problematyczny  
 profeser - profesor  
 program - program  
 programer - programista, koder  
@@ -2774,7 +2772,7 @@ sense - czuć (poczuć, postrzegać, wykrywać)
 • sensor - sensor (detektor, czujka)  
 sente - czuć  
 senter - macka (czułek)  
-sere - seria,szereg  
+sere - seria, szereg  
 seria - seria, szereg  
 sernete - kolczuga  
 sernete - kolczuga  
@@ -2792,7 +2790,7 @@ server - sługa
 sesam - sezam  
 sexe - seks, stosunek płciowy  
 sexe - kochać się, uprawiać seks  
-sexe - seksowny,ponętny  
+sexe - seksowny, ponętny  
 • sexike - seksowny, ponętny  
 sexolojia - seksuologia  
 sexolojia - seksuologia  
@@ -2850,9 +2848,6 @@ sirke - otoczyć, otaczać
 sirke - okrągły  
 sirkite - bruk  
 siro - zero, nic, żaden  
-sise - sześć (6)  
-sisfas - sześcian (kostka)  
-sisgon - sześciokąt (sześciobok)  
 sisme - trząść (machać; trzęsienie, machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
 sismolojia - sejsmologia  
 sistem - system  
@@ -2860,6 +2855,9 @@ sisteme - systemowy
 site - miast, miasteczko  
 sivile - cywilizowany (ucywilizowany)  
 sivilia - cywilizacja  
+six - sześć (6)  
+sixofase - sześcian (kostka)  
+sixogon - sześciokąt (sześciobok)  
 skale - schody (drabina)  
 skale - wspinać się (wspiąć się)  
 • deskale - zejść (schodzić, zstąpić, zstępować)  
@@ -3027,7 +3025,7 @@ tantalium - tantal
 tanur - piec (piekarnik)  
 Tanzania - Tanzania  
 tape - zatyczka (korek, szpunt; zatkać, ztykać, blokować, hamować)  
-• detape - odetkać,odtykać  
+• detape - odetkać, odtykać  
 tarif - opłata, taryfa  
 tas - danie  
 tate - dotyczyć  
@@ -3138,7 +3136,7 @@ trenkaper - porywacz pociągu
 trete - porozumienie  
 trete - zgodzić się (umówić się)  
 tri - trzy (3)  
-• trigone - trójkąt  
+trigone - trójkąt  
 tripike - trójząb  
 tribe - plemię  
 Trinidade e Tobago - Trynidad i Tobago  
@@ -3211,7 +3209,7 @@ vadosusan - konwalia majowa
 vaf - pies  
 vagine - wagina  
 vaginitis - zapalenie pochwy  
-vah - wow!,łoł!,jej!  
+vah - wow!, łoł!, jej!  
 vakil - reprezentant (przedstawiciel)  
 vakile - reprezentować  
 val - wartość  
@@ -3252,7 +3250,7 @@ venzovorange - mandarynka Satsuma (pomarańcza Satsuma)
 vere - prawdziwy (rzeczywisty, szczery)  
 verme - robak  
 vermute - wermut  
-• version - wersja (wariacja,edycja,wydanie)  
+• version - wersja (wariacja, edycja, wydanie)  
 veruke - brodawka  
 vespe - pszczoła lub osa  
 vesponide - ul (gniazdo pszczół lub os)  
@@ -3295,9 +3293,9 @@ vise - wice- (alternatywa, substytut, zastępstwo)
 visopresidante - wiceprezydent  
 visoreger - wicekról  
 viski - viski  
-Visnu - Wisznu  
 vite - śruba, wkręt  
 vitamin - witamina  
+Vixnu - Wisznu  
 vize - wiza  
 vizin - glutaminian sodu  
 vode - obiecać, angażować się  
@@ -3320,7 +3318,7 @@ xampan - Champagne
 xampan vin - samppanja  
 Xanghai - Szanghaj  
 xanke - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
-• xankable - wątpliwy (niewiarygodny,podejrzany)  
+• xankable - wątpliwy (niewiarygodny, podejrzany)  
 xante - spokojny  
 xarke - rekin  
 xarme - wstyd (hańba, kompromitacja)  
@@ -3375,17 +3373,15 @@ xuler - uczeń, student
 xulkan - szkoła (instytucja)  
 xulxefe - dyrektor szkoły  
 xure - zaczyna (początek; zacząć, rozpoczynać, rozpocząć)  
-• xurime - pierwszy, początkowy  
 xute - umiejętność (kompetencja)  
 • xutike - umiejętny (wprawny)  
 
 ##   
 
 ya - tak  
-yage - oszacować, szacować, przybliżyć, przybliżać  
-yago - około; przybliżony  
+yage - około; przybliżony  
+yagife - oszacować, szacować, przybliżyć, przybliżać  
 yagones - półwysep  
-yege pes - łapać rybę  
 yahude - żydowski  
 yahudisme - judaizm  
 yake - jak (zwierzę)  
@@ -3413,6 +3409,7 @@ ye - on, ona, ono
 yemon - oni  
 yege - polować (łowić)  
 • yeger - łowca (myśliwy)  
+yege pexe - łapać rybę  
 yei - jej  
 Yemen - Jemen  
 jen - osoba  
@@ -3452,7 +3449,7 @@ zaitun - oliwka
 zalime - złośliwy, okrutny  
 • zalimia - tyrania  
 zalime reger - tyran  
-zaman - czas (epoka,era)  
+zaman - czas (epoka, era)  
 Zambia - Zambia  
 zange - umiejętny (sprawny, zręczny)  
 zanger - rzemieślnik  
@@ -3471,6 +3468,7 @@ zay zaman - teraźniejszość, współczesność (teraz)
 zay zaman su - bieżący (aktualny, obecny)  
 Zayeria - Algieria  
 zebra - zebra  
+• zelose - zazdrosny  
 • rezerve - rezerwacja (rezerwować, zarezerwować)  
 zigzage - zygzag  
 zikure - ziggurat  

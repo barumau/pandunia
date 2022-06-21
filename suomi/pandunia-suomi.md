@@ -202,7 +202,7 @@ astronomia - tähtitiede (astronomia)
 • astronomer - tähtitieteilijä  
 Asur - Assur  
 Asuria - Assyria  
-ate - teko (toimenpide,akti)  
+ate - teko (toimenpide, akti)  
 • ater - tekijä (toimija)  
 • ation - toiminta  
 • ative - toimelias (aktiivinen; aktivoida, panna käyntiin tai päälle)  
@@ -502,7 +502,7 @@ cente - sata (100)
 • pro cente - prosentti  
 centi - sentti  
 centimitre - senttimetri (cm)  
-cepe - ottaa kiinni (napata,kaapata,siepata)  
+cepe - ottaa kiinni (napata, kaapata, siepata)  
 • cepure - sieppaus  
 • acepe - ottaa vastaan  
 • excepe - ottaa pois (poistaa; paitsi, poislukien)  
@@ -522,10 +522,11 @@ cese - päästä (mennä läpi)
 • procesor - prosessori  
 • recese - taantua (mennä taaksepäin)  
 • recesion - taantuma  
-• sucese - onnistua (mennä hyvin,menestyä)  
+• sucese - onnistua (mennä hyvin, menestyä)  
 cesium - cesium  
 cete - seitsemän (7)  
-ceti din - viikko  
+• cetime - seitsemäs (7.)  
+cetoden - viikko  
 Cile - Chile  
 cili - paprika  
 cili fun - paprikajauhe  
@@ -654,6 +655,7 @@ den ceti - niedziela
 denge - odottaa  
 des - kymmenen (10)  
 deskilo - sata tuhatta  
+desosixike - heksadesimaali  
 desen - piirustus  
 detal - yksityiskohta (detalji)  
 deu - jumala  
@@ -706,13 +708,13 @@ dolfin - delfiini
 dom - asua (asunto, koti)  
 • domane - asuttaa  
 • domike - koti- (kotoinen)  
-• domine - isännöidä (hallita,dominoida)  
+• domine - isännöidä (hallita, dominoida)  
 • domination - hallinta (dominointi)  
 • dominente - hallitseva  
 • dominer - isäntä  
 dominogem - dominopeli  
 domzeze - kärpänen  
-• dominia - hallinta-alue (hallintopiiri,dominio)  
+• dominia - hallinta-alue (hallintopiiri, dominio)  
 Dominiki Komunkratia - Dominikaaninen Tasavalta  
 Dominika - Dominika  
 done - antaa  
@@ -735,24 +737,23 @@ dotoria - tohtorin tutkinto
 dou - papu tai herne  
 doze - annos  
 drame - draama  
-droge - huume  
 Drugia - Bhutan  
 du - kaksi (2)  
+• duime - toinen (2.)  
 • duple - tupla (kaksinkertainen)  
-duple - kahdesti (kaksi kertaa)  
-duplomene - kaksimielinen (kaksimerkityksinen)  
+du mar - kahdesti (kaksi kertaa)  
 du o tri - muutama (pari-kolme)  
+dufene - puolittaa (jakaa kahdella)  
+dugrafe - stereoskooppinen  
+duisme - dualismi  
+duplomene - kaksimielinen (kaksimerkityksinen)  
+dusexe - biseksuaali  
+dusonike - stereofoninen  
 dua - rukoilla (anoa; rukous)  
 • dusdua - kirous  
 dubnium - dubnium  
-duce - suihku  
 duge - lukea  
 duke - suru (murhe; surullinen; surra, murehtia)  
-dulo fene - puolittaa (jakaa kahdella)  
-dulgrafe - stereoskooppinen  
-dulisme - dualismi  
-dulsexe - biseksuaali  
-dulsonde - stereofoninen  
 duman - savu  
 dunia - maailma  
 dunia lingue - maailmankieli  
@@ -768,10 +769,11 @@ dur - kestää (kulua, viedä aikaa; kestoaika, kesto, aika)
 • undure - yhtäjaksoinen  
 durometrer - sekuntikello  
 durozam - aikakausi  
-dus - paha (epäsuotuisa,epämiellyttävä,vastustava)  
+dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 duse - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dusi zar - epäonni  
 • posprodute - jälkituotanto  
+duxe - suihku  
 
 ## E  
 
@@ -901,7 +903,7 @@ fete - tehdä (toimia; teko, toimenpide)
 • fetokan - tehdas  
 • defete - tehdä tyhjäksi  
 • exfete - vaikutus (teho)  
-• exfetive - tehokas (tehoava,vaikuttava)  
+• exfetive - tehokas (tehoava, vaikuttava)  
 • infete - tartuttaa tauti  
 • infetion - infektio (tartunta)  
 • perfete - täydellinen  
@@ -1100,8 +1102,8 @@ geotike - tontti (maakaistale)
 • abogee - apogeum  
 gebria - algebra  
 gei - homo (homoseksuaali)  
-gel - hyytelö  
-gelose - kade (kateellinen)  
+gele - hyytelö (geeli)  
+• gelatine - gelatiini  
 gem - peli (pelata)  
 • gemer - pelaaja  
 gene - synty (synnyttää, luoda, tuottaa)  
@@ -1171,13 +1173,13 @@ grafe - piirros (graafi, grafiikka)
 • grafer - graafikko  
 grafobuke - kuvakirja  
 grafoprocese - kuvankäsittely  
-grafoprojetor - projektori (videotykki,piirtoheitin)  
+grafoprojetor - projektori (videotykki, piirtoheitin)  
 grafosage - sarjakuva  
 gram - gramma  
 granite - graniitti  
 Grenada - Grenada  
 Grenadin nesia - Grenadiinit  
-grese - harpata (harppoa,käydä)  
+grese - harpata (harppoa, käydä)  
 • agrese - käydä päälle (käydä kimppuun; päällekarkaus, aggressio)  
 • agreser - päällekävijä  
 • agresive - päällekäyvä (aggressiivinen)  
@@ -1450,6 +1452,9 @@ jangle van - korpi (viidakko)
 jau - ohra  
 jaze - jazz (jatsi)  
 jebe - tasku  
+jele - vangita  
+• jeler - vanginvartija  
+• jelokan - vankila  
 jenisme - jainalaisuus  
 jeng - taistelu (sota)  
 jenge - sotilaallinen  
@@ -2206,8 +2211,8 @@ mise - lähettää
 • misioner - lähetti (lähetyssaarnaaja)  
 • exmise - lähettää  
 • konmisia - komission (komitea)  
-• tranmise - välittää (siirtää,lähettää)  
-• tranmision - välitys (siirtäminen,lähetys)  
+• tranmise - välittää (siirtää, lähettää)  
+• tranmision - välitys (siirtäminen, lähetys)  
 • tranmisor - lähetin  
 misal - esimerkki  
 misalo - esimerkiksi  
@@ -2362,7 +2367,7 @@ nege - kieltää
 nekre - ruumis (vainaja)  
 • nekrofilisme - nekrofilia  
 • nekroliste - kuolinluettelo  
-• nekrologe - muistosanat (muistopuhe,muistokirjoitus)  
+• nekrologe - muistosanat (muistopuhe, muistokirjoitus)  
 • nekrotome - ruumiinavaus (obduktio)  
 nen - vuosi  
 nenfeste - vuosijuhla  
@@ -2503,7 +2508,7 @@ ote - suosia (pitää parempana)
 • otion - optio (preferenssi)  
 • otional - valinnainen (optionaalinen)  
 ove - muna  
-• ovoide - soikea (munanmuotoinen,ovaali)  
+• ovoide - soikea (munanmuotoinen, ovaali)  
 oxe - happi  
 oxide - oksidi  
 
@@ -2587,7 +2592,7 @@ Paris - Pariisi
 parke - tarha (puisto)  
 parte - osallistua  
 partia - osapuoli (puolue)  
-• partaner - partneri (kumppani,osakas)  
+• partaner - partneri (kumppani, osakas)  
 • partaneria - henkilöyhtiö  
 partative - partitiivi  
 • partecepe - osallistua  
@@ -2742,8 +2747,8 @@ pornografia - pornografia
 porte - asema (satama, lentokenttä)  
 porte - kantaa  
 • exporte - viedä pois (viedä maasta)  
-• reporte - raportti (selostus,selonteko)  
-• reporte - raportti (selostus,selonteko)  
+• reporte - raportti (selostus, selonteko)  
+• reporte - raportti (selostus, selonteko)  
 reporte - raportti (selostus, selonteko)  
 reporte - raportoida (selostaa)  
 • reporter - reportteri  
@@ -2789,23 +2794,19 @@ prese - puristaaa (puristus, paine)
 • konprese - pusertaa  
 • represe - puskea takaisin (alistaa)  
 prezidente - presidentti  
-prizon - vankeus  
-prizone - vangita  
-prizoner - vanginvartija  
-prizonkan - vankila  
-• proo - eteen päin  
+pro - eteen päin  
 problem - ongelma  
-probleme - ongelmallinen  
+• problemike - ongelmallinen  
 profeser - professori  
 program - ohjelma  
 programer - ohjelmoija  
 projete - hanke (projekti)  
 prometium - prometium  
-prose - läheinen  
-• aprose - lähestyä  
 proses - prosessi (proseduuri)  
 proten - valkuaisaine (proteiini)  
 protacinium - protaktinium  
+proxe - läheinen  
+• aproxe - lähestyä  
 pude - mätä  
 pudu - mädäntyä (mädätä)  
 puding - vanukas  
@@ -3144,14 +3145,15 @@ sirke - ympäröidä (piirittää)
 sirke - pyöreä  
 sirkite - mukulakivi  
 siro - nolla (ei yhtään)  
-sise - kuusi (6)  
-sisfas - kuutio (kuusitahokas)  
-sisgon - kuusikulmio  
 sismolojia - seismologia  
 sistem - järjestelmä (systeemi)  
 site - kaupunki  
 sivile - sivistynyt  
 sivilia - sivilisaatio  
+six - kuusi (6)  
+• sixime - kuudes (6.)  
+sixofase - kuutio (kuusitahokas)  
+sixogon - kuusikulmio  
 skale - portaat (rappuset, tikkaat)  
 skale - nousta (kiivetä)  
 • deskale - laskeutua  
@@ -3431,7 +3433,7 @@ tragodia - tragedia (murhenäytelmä)
 transe - läpikulku  
 transe - kulkea poikki, läpi tai yli  
 transeria - kuljetus  
-trate - vetää (kiskoa,raahata)  
+trate - vetää (kiskoa, raahata)  
 • trator - traktori  
 • atrate - viehättää (vetää puoleensa)  
 • atrative - puoleensavetävä (viehättävä)  
@@ -3445,8 +3447,9 @@ trenkaper - junakaappari
 trete - sopimus  
 trete - sopia (tehdä sopimus)  
 tri - kolme (3)  
-• trigone - kolmio  
+• trime - kolmas (3.)  
 • triple - tripla (kolminkertainen)  
+trigone - kolmio  
 • trigonometria - trigonometria  
 tribe - heimo  
 Trinidade e Tobago - Trinidad ja Tobago  
@@ -3471,7 +3474,7 @@ Tunisia - Tunisia
 tupe - lakki (hattu)  
 turbe - kieppua (sekoittaa; häiritä)  
 • turbin - turbiini  
-• disturbe - hämmentää (sekoittaa; hämmennys,turbulenssi)  
+• disturbe - hämmentää (sekoittaa; hämmennys, turbulenssi)  
 turbojeter - suihkumoottori (suihkuturbiini)  
 turfe - turve  
 turke - turkkilainen  
@@ -3553,7 +3556,7 @@ veisirke - leveyspiiri
 vele - verho (peite)  
 • devele - paljastaa  
 • cirkovene - mennä ympäri  
-• exvene - tulla ulos (ilmestyä,tapahtua)  
+• exvene - tulla ulos (ilmestyä, tapahtua)  
 • invene - keksiä  
 • intervene - tulla väliin  
 • konvene - kohdata (tulla yhteen)  
@@ -3572,7 +3575,7 @@ vere - tosi (aito)
 verme - mato  
 vermute - vermutti  
 verse - kohti (päin)  
-• version - versio (käännös,muunnelma)  
+• version - versio (käännös, muunnelma)  
 • deverse - kääntyä pois  
 • disverse - monitahoinen (monipuolinen)  
 • exverse - ulospäinsuuntautunut (ekstrovertti)  
@@ -3625,9 +3628,9 @@ visomatre - äitipuoli (isän puoliso)
 visopatre - isäpuoli (äidin puoliso)  
 visopresidante - varapresidentti  
 visoreger - varakuningas  
-Visnu - Višnu  
 vite - ruuvi  
 vitamin - vitamiini  
+Vixnu - Višnu  
 vize - viisumi  
 vizin - natriumglutamaatti  
 vode - luvata (vannoa; lupaus, vala)  
@@ -3722,8 +3725,8 @@ xute - taito
 ##   
 
 ya - kyllä  
-yage - arvioida  
-yago - noin (arviolta, suunnilleen)  
+yage - noin (arviolta, suunnilleen)  
+yagife - arvioida  
 yahve - Jahve (Jehova)  
 yahude - juutalainen  
 yahudisme - juutalaisuus  
@@ -3789,7 +3792,7 @@ zaitun - oliivi
 zalime - ilkeä (julma)  
 • zalimia - tyrannia  
 zalime reger - tyranni  
-zaman - aika (aikakausi,kausi)  
+zaman - aika (aikakausi, kausi)  
 Zambia - Sambia  
 zane - tuntea  
 zange - kätevä  
@@ -3807,6 +3810,7 @@ zay zaman - tämä hetki (nyt)
 zay zaman su - nykyinen (tämänhetkinen)  
 Zayeria - Algeria  
 zebra - seepra  
+• zelose - kade (kateellinen)  
 • rezerve - varaus (ennakkovaraus)  
 zeta - tsetta-  
 zeze - kaksisiipinen  

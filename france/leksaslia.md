@@ -289,12 +289,10 @@
 **dou** ** ← zho:豆 (dòu), yue:豆 (dau6), wuu:豆 (deu3), jpn:豆 (tō), kor:두 (du), vie:đậu  
 **doze** ** ← eng:por:fra:dose, rus:доза (doza), deu:spa:dosis, tur:doz, may:dos  
 **drame** ** ← eng:spa:por:may:swa:drama, fra:drame, rus:дра́ма, ara:دْرَامَا‎ (drāmā), hin:ड्रामा (ḍrāmā), jpn:ドラマ (dorama)  
-**droge** ** ← eng:drug, spa:droga, fra:drogue, deu:Droge  
 **Drugia** ** ← bhuའབྲུག་ཡུལ (ʈuk̚˩, yː˩), tib:འབྲུག་ཡུལ་ (drugyul)  
 **du** *deux (2)* ← fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul)  
 **dua** ** ← ara: دُعَاء‏  (duʿāʾ), hin:दुआ (duā), ben:দুয়া (dua), may:doa, swa:tur:dua, hau:àddu'ā̀, yor:àdúrà + zho:祈祷 (dǎo), jpn:禱 (tō), kor:도 (do)  
 **dubnium** *dubnium* ← eng:dubnium, fra:dubnium, spa:dubnio, por:dúbnio, rus:дубний, ²нильсборий, zho: (dù), jpn:ドブニウム, kor:더브늄, vie:dubni, hin:डब्नियम, ben:ডুবনিয়াম, may:dubnium, swa:dubni, ara: دبنيوم  
-**duce** *douche* ← fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş  
 **duge** *lire* ← zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)  
 **duke** ** ← hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha  
 **duman** ** ← hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)  
@@ -304,6 +302,7 @@
 **dur** *durer (se passer; durée)* ← eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)  
 **dus** ** ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
 **duse** ** ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
+**duxe** *douche* ← fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş  
 **e** *et* ← fra:et, por:e, spa:y;e, zho:和 (hé)  
 **eglis** ** ← eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise  
 **ekia** ** ← eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-  
@@ -429,8 +428,7 @@
 **gebria** ** ← ara:fas:(jabr), tur:cebir, urd:(aljabrā), eng:algebra, fra:algèbre, swa:aljebra  
 **gee** ** ← eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)  
 **gei** ** ← eng:fra:spa:gay, por:guei  
-**gel** ** ← eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī), vie:chất gien  
-**gelose** ** ← eng:jealous, spa:celoso, fra:jaloux  
+**gele** *gelée* ← eng:gel, fra:gelée, rus:желе (žele), hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī), vie:chất gien, tur:jel  
 **gem** ** ← eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)  
 **gence** ** ← zho:检查 (jiǎnchá), yue:檢查 (gimcaa), vie:kiểm tra, jpn, 検査 (kensa)  
 **gene** ** ← ell: γέννα (génna), eng:genesis, fra:genèse + hin:जन्म (janma), mal:ജനനം (jananaṃ) + jpn:源 (gen)  
@@ -566,6 +564,7 @@
 **jebe** ** ← hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba  
 **jeke** *prêter (empruntre)* ← zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check  
 **jekocepe** *empruntre* ← zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check  
+**jele** ** ← eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula  
 **jen** *personne* ← zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente  
 **jeng** ** ← zho:爭 (zhēng), vie:tranh, kor:전쟁 (jeonjaeng), tur:kur:ceng, fas:urd:(jang), hin:जंग (jang)  
 **jengoxute** ** ← zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art  
@@ -956,7 +955,7 @@
 **nanas** ** ← may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)  
 **narake** ** ← hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)  
 **narde** *backgammon* ← fas:urd: نرد‎ (nard), rus:нарды (nardy)  
-**narke** *drogue (narcotique,dope)* ← eng:narcotic, fra:narcotique, spa:por:narcótico, rus:наркотик (narkotik), may:narkotik  
+**narke** *drogue (narcotique, dope)* ← eng:narcotic, fra:narcotique, spa:por:narcótico, rus:наркотик (narkotik), may:narkotik  
 **nasia** *nation* ← ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)  
 **nasibe** *destin* ← ara:نَصِيب (naṣīb), fas:نصیب‎ (nasib), tur:nasip, swa:nasibu, may:nasib, hin:नसीब (nasīb), ben:নসীব (nôśib), pan:ਕਿਸਮਤ (nasīb)  
 **natrium** *sodium* ← eng:sodium, fra:sodium, spa:sodio, por:sódio, rus:натрий, zho:钠 (nà), jpn:ナトリウム, kor:나트륨, vie:natri, hin:सोडियम, ben:সোডিয়াম, may:natrium, swa:natiri  
@@ -1122,22 +1121,21 @@
 **prate** ** ← eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)  
 **prese** *pression* ← fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)  
 **prezidente** ** ← eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden  
-**prizon** ** ← eng:fra:prison, spa:prisión, por:prisão  
 **problem** *problème* ← eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)  
 **profeser** ** ← eng:por:professor, spa:profesor, rus:профессор (professor), tur:profesör, swa:profesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)  
 **program** *programme* ← eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu  
 **projete** *projet* ← fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje  
 **prometium** *prométhium* ← eng:promethium, fra:prométhium, spa:prometio, por:promécio, rus:прометий, zho:钷 (pǒ), jpn:プロメチウム, kor:프로메튬, vie:prometi, hin:प्रोमेथियम, ben:প্রমিথিয়াম, may:prometium, swa:promethi, ara: بروميثيوم  
-**prose** *proche* ← fra:proche, spa:por:próximo  
 **proses** ** ← eng:process, spa:proceso, por:processo, rus:процесс (process), fas:پروسه‎ (prose), may:proses, jpn:プロセス (purosesu), kor:프로세스 (peuroseseu)  
 **protacinium** *protactinium* ← eng:protactinium, fra:protactinium, spa:proactinio, por:protacnídio, rus:протактиний, zho:镤 (pú), jpn:プロトアクチニウム, kor:프로트악티늄, vie:protactini, hin:प्रोटैक्टीनियम, ben:প্রোটেক্টিনিয়াম, may:protaktinium, swa:protaktini, ara: بروتكتنيوم  
+**proxe** *proche* ← fra:proche, spa:por:próximo  
 **pude** *pourri* ← eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)  
 **puding** ** ← eng:pudding, spa:pudín, rus:пудинг (puding), tur:may:puding, swa:pudini, ara:بودنغ (budingh), zho:布丁 (bùdīng), jpn:プディング (pudingu)  
 **pul** *pont* ← hin:पुल (pul), ben:পুল (pul), urd:(pul), fas:(pol)  
 **pulmon** ** ← spa:pulmón, fra:poumon, por:pulmão, eng:pulmonic  
 **puma** *couguar (puma)* ← eng:spa:fra:por:swa:may:tur:puma, rus:пума (puma), jpn:ピューマ (pyūma), hin:पूमा (pooma), pan:ਪੂਮਾ (pūmā), mar:प्युमा (pyumā)  
 **punte** ** ← spa:punto, rus:пункт (punkt), eng:point  
-**pupe** ** ← fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)  
+**pupe** *poupée* ← fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)  
 **pure** *plein* ← hin:पूर्ण (pūrn), ben:পূর্ণ (pūrṇa), pnb:ਪੂਰਾ (pūrā), fas:(por)  
 **puse** ** ← eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)  
 **putau** ** ← zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào  
@@ -1222,7 +1220,7 @@
 **sanze** *éventail* ← zho:扇子 (shànzi), yue:扇子  (sin3zi2), jpn:扇子 (sensu), kor:선 (seon), mon:шанз (šanz)  
 **sapate** ** ← spa:zapato, por:sapato, may:sepatu, swa:sapatu  
 **sar** *tête* ← fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi  
-**sate** *heure (heure du jour,momente)* ← ara: سَاعَة‎ (sāʿa), may:tur:saat, swa:saa, hau:sa’a, wol:yor:saa, fas:(sâ'at)  
+**sate** *heure (heure du jour, momente)* ← ara: سَاعَة‎ (sāʿa), may:tur:saat, swa:saa, hau:sa’a, wol:yor:saa, fas:(sâ'at)  
 **sauna** ** ← fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)  
 **saure** *lézard* ← ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)  
 **saus** *sauce* ← eng:fra:sauce, rus:соус (sous), hin:सॉस (sos), deu:Soße, vie:xốt, jpn:ソース (sōsu), tha:ซอส (soot), kor:소스 (soseu), may:saus  
@@ -1267,11 +1265,11 @@
 **sirke** ** ← eng:circle, spa:por:círculo, fra:cercle  
 **siro** ** ← ara: صِفْر‎ (ṣifr), swa:sifuri, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô  
 **sis** *brochette* ← tur:şiş + eng:shish-, rus:шиш- (šiš-)  
-**sise** *six (6)* ← eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), ara:ستة‎ (sitta)  
 **sisme** ** ← ell:σεισμός (seismós), eng:seism, spa:sismo, fra:séisme, tur:sismik  
 **sistem** ** ← eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem  
 **site** *ville* ← eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)  
 **sivile** ** ← eng:civil, por:civil, hin:सिविल (sivil), may:sipil  
+**six** *six (6)* ← eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’) + ara:ستة‎ (sitta)  
 **siyahe** *noir* ← fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah  
 **skale** ** ← spa:por:escalar + fra:escalier + eng:scale, deu:Skale, rus:шкала (škala)   
 **skandium** *scandium* ← eng:scandium, fra:scandium, spa:escandio, por:escândio, rus:скандий, zho:钪 (kàng), jpn:スカンジウム, kor:스칸듐, vie:scandi, hin:स्काण्डियम, ben:স্ক্যান্ডিয়াম, may:skandium, swa:skandi, ara: سكانديوم  
@@ -1507,7 +1505,7 @@
 **xure** *début (commencement)* ← ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)  
 **xute** ** ← zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)  
 **ya** *oui* ← eng:yeah, deu:ja, may:ya + zho:呀 (ya)  
-**yago** ** ← kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)  
+**yage** ** ← kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), zho:约 (yuē) + tur:yaklaşık  
 **yake** ** ← eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)  
 **yame** ** ← khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam  
 **yang** ** ← zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)  
@@ -1608,3 +1606,4 @@
 **• trator** *tracteur* ← eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör  
 **• vokal son** *voyelle* ← deu:Vokal, spa:vocal, por:vogal, eng:vowel, fra:voyelle  
 **• xofer** ** ← fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)  
+**• zelose** ** ← eng:jealous, spa:celoso, fra:jaloux  

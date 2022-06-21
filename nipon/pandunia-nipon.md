@@ -282,7 +282,6 @@ du - 二 (2)
 dua - 祈祷  
 • dusdua - 呪い (たたり)  
 dubnium - ドブニウム  
-duce - シャワー  
 duge - 読む  
 dunia - 世界  
 dungia aventur - ダンジョンアドベンチャー  
@@ -294,6 +293,7 @@ durometrer - ストップウオッチ
 durozam - 時代 (年代)  
 dus - 難しい  
 duse - 難しい  
+duxe - シャワー  
 
 ## E  
 
@@ -377,7 +377,7 @@ fuzopetre - 溶岩
 
 ## G  
 
-gabre - 墓 (埋葬,葬る)  
+gabre - 墓 (埋葬, 葬る)  
 gabrite - 墓石 (墓碑)  
 gabrostan - 墓 (墓地)  
 gadogude - 騾馬  
@@ -545,6 +545,7 @@ jau - 大麦
 jeke - 借用  
 jekocepe - 借りる  
 jekodone - 貸す  
+• jelokan - 監獄  
 jeng - 戦闘 (格闘)  
 jenju - 真珠  
 • jetaje - 飛翔体 (矢玉)  
@@ -782,7 +783,7 @@ lutetium - ルテニウム
 
 ## M  
 
-me - お母さん (母,ママ)  
+me - お母さん (母, ママ)  
 mace - 試合 (競技)  
 maduvesponide - 蜂の巣 (ハニカム)  
 maduvesposanduke - 養蜂箱  
@@ -968,7 +969,7 @@ oxe - 酸素
 
 ## P  
 
-pe - お父さん (父,パパ)  
+pe - お父さん (父, パパ)  
 pacehaikade - マダラ  
 • depade - 逸れる  
 padomun - 落とし戸  
@@ -1209,8 +1210,8 @@ siri mote - 忍び
 sirplan - 陰謀  
 sirkite - 丸石 (玉石, 栗石)  
 siro - 零 (０)  
-sise - 六 (6)  
 sisme - 振る  
+six - 六 (6)  
 skale - 上る (乗る, よじ登る)  
 • deskale - 下る (降りる)  
 skalotan - 蔓草  
@@ -1388,8 +1389,8 @@ viole - 小提琴 (バイオリン)
 violete - 紫色 (パープル)  
 visomatre - 継母  
 visopatre - 継父  
-Visnu - ヴィシュヌ  
 vitamin - ビタミン  
+Vixnu - ヴィシュヌ  
 vode - 約束  
 vol - 欲しい  
 volfram - タングステン  

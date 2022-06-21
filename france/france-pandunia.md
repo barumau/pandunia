@@ -107,7 +107,7 @@ appliquer (application) - aplike
 apporter - laiane  
 apprendre (étudier) - xule  
 apprivoiser (dresser, dompter, discipliner) - dosile  
-approcher - aprose  
+approcher - aproxe  
 approprié (adapté, convenable, opportun) - hape  
 arabe - arabe  
 arachnophobie - aranofobia  
@@ -557,10 +557,10 @@ données - date
 dormir (sommeil) - some  
 dossier - dataje  
 double - duple  
-douche - duce  
+douche - duxe  
 douteux (dubitatif) - xankable  
 drapeau - bandir  
-drogue (narcotique,dope) - narke  
+drogue (narcotique, dope) - narke  
 droit (rectiligne) - orte  
 droit - hake  
 droits de l'homme - human hake  
@@ -599,7 +599,7 @@ empreinte de pied - futomarke
 empreinte digitale - angulmarke  
 empruntre - jekocepe  
 en arrière - retro  
-en avant - proo  
+en avant - pro  
 en ligne - a line  
 enclume - metalbede  
 encore - duro  
@@ -720,6 +720,7 @@ gaz - gas
 gaz lacrymogène - okosuigas  
 gaze - gaze  
 gazelle - gazel  
+gelée - gele  
 genou - gute  
 genre grammatical - lingue ginse  
 geographie - geografia  
@@ -751,6 +752,7 @@ guider - gide
 guitare - gitar  
 guérilla - gerile  
 gâteau de lune - lunokeke  
+gélatine - gelatine  
 génotype - genotipe  
 généalogie - genolojia  
 généralissime - gunreger  
@@ -777,7 +779,7 @@ haut - gau
 hautes technologies - gautehnia  
 Haïti - Haiti  
 Hesse - Hesia  
-heure (heure du jour,momente) - sate  
+heure (heure du jour, momente) - sate  
 heure - hor  
 heureux - suke  
 hier - cendeno  
@@ -1343,6 +1345,7 @@ poterie - poteria
 potier - poter  
 poudre à canon - barude  
 Poulpe (pieuvre) - batosenter  
+poupée - pupe  
 pour cent - pro cente  
 pourri - pude  
 pourrir (se décomposer) - pudu  
@@ -1354,9 +1357,10 @@ pression - prese
 pression atmosphérique - airbaria  
 pressoir - preser  
 preuve - dalil  
+prison (geôle) - jelokan  
 problème - problem  
-problématique - probleme  
-proche - prose  
+problématique - problemike  
+proche - proxe  
 proclamer - proklame  
 professeur (enseignant) - xulaner  
 profession (métier) - peikar  
@@ -1484,7 +1488,7 @@ réparer - repare
 réponse - gavabe  
 répéter - rifete  
 répétition - ri-  
-réussir (avoir du succès,prospérer) - sucese  
+réussir (avoir du succès, prospérer) - sucese  
 rêche (rugueux, gros) - karse  
 rôtir - roste  
 
@@ -1550,6 +1554,7 @@ sens - sense
 sentir qqch (avoir l'odeur de qqch) - aromu  
 sentir qqch - gande  
 sept (7) - cete  
+septième - cetime  
 serrure - sor  
 serviette - gantexe  
 seul (unique) - unike  
@@ -1566,7 +1571,7 @@ silex - hogite
 silicium - silike  
 simulation - samsifia  
 situation (état de choses) - xeihal  
-six (6) - sise  
+six (6) - six  
 société - socia  
 sodium - natrium  
 soie - silke  
@@ -1768,7 +1773,7 @@ violoniste - violiste
 virus - virus  
 visage - muke  
 viser (direction, cible; objectif) - dike  
-Vishnou - Visnu  
+Vishnou - Vixnu  
 vitamine - vitamin  
 vite (rapide) - suge  
 vivant - zivi  

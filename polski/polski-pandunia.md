@@ -31,7 +31,7 @@ akwarela (farba wodna) - suirang
 akwarium - pestanke  
 Alaska - Alaska  
 Albania - Cipia  
-ale,lecz - ama  
+ale, lecz - ama  
 alfabet łaciński, łacinka, alfabet rzymski - latini harfia  
 alfabet, abecadło - harfia  
 alga (wodorost) - alga  
@@ -191,11 +191,11 @@ biedny, mizerny - miskine
 bieżący (aktualny, obecny) - zay zaman su  
 bilet - tikete  
 bilet powrotny - retrotikete  
-bilion,giga- - gige  
+bilion, giga- - gige  
 biologia (nauka o życiu) - biolojia  
 biom - biosistem  
-biromantyczny - dulromanse  
-biseksualny - dulsexe  
+biromantyczny - duromanse  
+biseksualny - dusexe  
 biseksualny - dusexe  
 biszkopt, ciastko - biskute  
 biurko - karmeze  
@@ -325,7 +325,7 @@ chory - pate
 chować (kryć) - sire  
 chrom - kromium  
 chroniczny - durike  
-chronić, strzec,  osłaniać, bronić - garde  
+chronić, strzec, osłaniać, bronić - garde  
 Chrystus, mesjasz - kriste  
 chrześcijanin - krististe  
 chrześcijaństwo - kristisme  
@@ -382,7 +382,7 @@ czar (urok, wdzięk) - carme
 Czarnogóra - Cernagore  
 czarny - siyahe  
 czas (epoka, era) - durozam  
-czas (epoka,era) - zaman  
+czas (epoka, era) - zaman  
 czas - sate  
 czas; okazja - mar  
 czasownik - karloge  
@@ -410,7 +410,7 @@ często - poli mar
 częstotliwość - polimaria  
 część (fragment, strzęp, kawałek, okruch) - parce  
 członek - member  
-człowiek,istota ludzka - human  
+człowiek, istota ludzka - human  
 córka - femi pute  
 
 ## D  
@@ -428,7 +428,7 @@ darwinizm - darvinisme
 data - nen lun den  
 dać mieszkanie (zakwaterować) - domane  
 dać, dawać - done  
-deaktywować (wyłączyć,zatrzymać) - deative  
+deaktywować (wyłączyć, zatrzymać) - deative  
 debatować, prowadzić dyskurs - lone  
 decy-, dziesiąta część - deci  
 decybel - decibel  
@@ -495,7 +495,7 @@ drzewo - moke
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - cire  
 drzwi wyjściowe - cutomun  
 drzwi, brama, portal - mun  
-dualizm - dulisme  
+dualizm - duisme  
 dubn - dubnium  
 duch, fantom - fantom  
 dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę - heme  
@@ -504,7 +504,7 @@ duński - dane
 duży - dai  
 dwa (2) - du  
 dwujęzyczny - duolinguike  
-dwukrotnie (dwa razy) - duple  
+dwukrotnie (dwa razy) - du mar  
 dwutlenek węgla - karboduloxide  
 dwuznacznik - duplomene  
 dychotomia - duotome  
@@ -619,8 +619,8 @@ ewangelia - evangil
 
 ## F  
 
+fabryka, manufaktura - feteria  
 fabryka, manufaktura - fetokan  
-fabryka,manufaktura - feteria  
 fajka - pipe  
 fala - onde  
 Falklandy, Malwiny - Malvinas nesia  
@@ -760,7 +760,7 @@ grymas - grimas
 grzebień - kang  
 grzyb - funge  
 grzybnia - fungonete  
-grób (mogiła; zakopać,pochować) - gabre  
+grób (mogiła; zakopać, pochować) - gabre  
 Guam - Guam  
 Gudżarat - guzarate  
 Guernsey - Gerneze  
@@ -776,8 +776,8 @@ gwiazda - xing
 Gwinea - Konakri Ginia  
 Gwinea Równikowa - Geoparlini Ginia  
 góra (szczyt) - gau  
+góra, wzgórze - monte  
 góra, wzgórze - san  
-góra,wzgórze - monte  
 górnik (kopacz) - kuanger  
 górny - supre  
 gówno - xite  
@@ -1365,9 +1365,9 @@ lubić (zamiłowanie, -filia) - file
 lubić, cieszyć się - suku  
 lud (społeczeństwo; publiczny) - deme  
 ludzie (lud, ludność) - nas  
-ludzie (lud,ludność) - nasian  
+ludzie (lud, ludność) - nasian  
 ludzki - humane  
-ludzkość,rodzaj ludzki - humania  
+ludzkość, rodzaj ludzki - humania  
 lukrecja - sus  
 Luksemburg - Luxemburge  
 lustro - miror  
@@ -1595,8 +1595,8 @@ muskuł, mięsień - muskul
 musli - musle  
 muszkiet - muskete  
 muszkieter - musketer  
+muzułman, muzułmanin - islaman  
 muzułman, muzułmanin - islamiste  
-muzułman,muzułmanin - islaman  
 muzyk - muziker  
 muzyka - muzike  
 muł - gadogude  
@@ -1653,8 +1653,7 @@ nanometr - nanomitre
 napierśnik - sinaplate  
 naprawa (naprawić, naprawiać) - ribone  
 naprawiacz - riboner  
-naprzód - proo  
-narkotyk - droge  
+naprzód - pro  
 narkotyk - narke  
 narodowy (ludowy) - nase  
 narodowy socjalizm - nasi sosisme  
@@ -1806,7 +1805,7 @@ odbiorca - deger
 odbić, odbijać - mire  
 odbyt (analny, odbytni) - anus  
 oddech - nafas  
-odetkać,odtykać - detape  
+odetkać, odtykać - detape  
 odkurzacz - funcuper  
 odmówić (odrzucić) - nege  
 odnowić, odnawiać, uczynić nowym - renove  
@@ -1829,7 +1828,7 @@ ojczyzna - patria
 okej, spoko, akceptowalny - okeye  
 okno - janel  
 oko - oke  
-około; przybliżony - yago  
+około; przybliżony - yage  
 okrągły - sirke  
 olej - nefte  
 oliwka - zaitun  
@@ -1870,7 +1869,7 @@ ostrożeń lancetowaty - perokardon
 ostrzarka (kamień młyński) - molite  
 oswoić (oswajać, tresować, trenować) - dosile  
 oswojony (potulny, posłuszny) - dosile  
-oszacować, szacować, przybliżyć, przybliżać - yage  
+oszacować, szacować, przybliżyć, przybliżać - yagife  
 oszczędzać (deponować) - banke  
 oszukać (oszukiwać - truke  
 otoczyć, otaczać - sirke  
@@ -1985,14 +1984,14 @@ pieczęć woskowa - mumcape
 piekarnia - bekokan  
 piekarz - beker  
 piekło - narake  
-pielęgnować,leczyć - kure  
+pielęgnować, leczyć - kure  
 pieniądze - pese  
 pieprz - pipre  
 pieprz długi - longopipre  
 pierdnięcie (pierdzieć) - perde  
 pierwiastek (jednostki podstawowej) - em  
 pierwszy, numer jeden - unime  
-pierwszy, początkowy - xurime  
+pierwszy, początkowy - prime  
 pierś - sina  
 pierścień - ring  
 pierścień, pierścionek; obrączka - angulring  
@@ -2152,7 +2151,7 @@ powiadomić, powiadamiać - notife
 powierzchnia - fase  
 powierzchnia, region, teren - aria  
 powiesić, wieszać - pende  
-powiesić,wieszać - pende  
+powiesić, wieszać - pende  
 powietrze - air  
 powinien - selu  
 powodować (rezult, wynik) - asar  
@@ -2210,7 +2209,7 @@ premier - xefe minister
 prezydent - prezidente  
 prezydent - presidente  
 problem - problem  
-problematyczny - probleme  
+problematyczny - problemike  
 proces, procedura - proses  
 proch strzelniczy - barude  
 produkcja - cania  
@@ -2220,7 +2219,7 @@ profesor - profeser
 program - program  
 programista, koder - programer  
 projekt, planowane przedsięwzięcie - projete  
-projekt,planowane przedsięwzięcie - projetaje  
+projekt, planowane przedsięwzięcie - projetaje  
 projektor (rzutnik) - grafoprojetor  
 projektor (rzutnik) - jetografor  
 promet - prometium  
@@ -2240,7 +2239,7 @@ protaktyn - protacinium
 prowadzić (wskazać drogę) - gide  
 prowadzić pojazd - xofe  
 prowadzić, dowodzić, kierować - lide  
-prysznic - duce  
+prysznic - duxe  
 przebić (perforować, dziurawić) - konge  
 przechowawca, kustosz, opiekun - hafizer  
 przechylać (przechylić, wychylać, wychylić) - terce  
@@ -2263,7 +2262,7 @@ przejść, przechodzić, przejechać, przejeżdżać - transe
 przekroczyć, przekraczać, przejść nad, iść nad - supre  
 przekąska - lilyam  
 przekątny - transogone  
-przepołowić (podzielić przez dwa) - dulo fene  
+przepołowić (podzielić przez dwa) - dufene  
 przepraszam! - maf  
 przepękla ogórkowata (balsamka ogórkowata) - alkalomelon  
 przerwać, przerywać - pauze  
@@ -2441,7 +2440,7 @@ rozmowny - logive
 rozróżniać (rozróżnić) - hase  
 rozszczepienie jądra atomowego - kori fenia  
 rozum, rozsądek - ration  
-rozumieć,pojmować - ahe  
+rozumieć, pojmować - ahe  
 rozwój - dargomute  
 rozłożyć się (rozkładać się, gnić, psuć się) - pudu  
 roślina, sadzonka - fite  
@@ -2553,8 +2552,8 @@ sekret - sire
 sekretariat - sekreteria  
 sekretarz - sekreter  
 seks, stosunek płciowy - sexe  
+seksowny, ponętny - sexe  
 seksowny, ponętny - sexike  
-seksowny,ponętny - sexe  
 seksuologia - sexolojia  
 seksuologia - sexolojia  
 sekunda - sekunde  
@@ -2565,8 +2564,8 @@ sensor (detektor, czujka) - sensor
 ser - kize  
 Serbia - Serbia  
 serce - xim  
+seria, szereg - sere  
 seria, szereg - seria  
-seria,szereg - sere  
 Seszele - Sexel nesia  
 sezam - sesam  
 shintoizm, sintoizm - xindavisme  
@@ -2700,7 +2699,7 @@ stosować (zastosować; zastosowanie, aplikacja) - aplike
 stowarzyszać się (zrzeszać się) - alige  
 strach, fobia - fobia  
 stracić (utracić, tracić, zgubuć, gubić) - sibaya tene  
-strażnik więzienny - prizoner  
+strażnik więzienny - jeler  
 strażnik, ochroniarz - garder  
 strona (bok) - late  
 strona - varkolate  
@@ -2758,10 +2757,10 @@ szeroki - kuane
 szerokość - kuania  
 szew - suture  
 szewc - sapater  
-sześcian (kostka) - sisfas  
+sześcian (kostka) - sixofase  
 sześcian - kube  
-sześciokąt (sześciobok) - sisgon  
-sześć (6) - sise  
+sześciokąt (sześciobok) - sixogon  
+sześć (6) - six  
 szisz kebab - xixkababe  
 szkielet - ostogamia  
 szklić (glazurować) - kancodake  
@@ -2960,7 +2959,7 @@ twój - tu su
 twórca (czynnik) - feter  
 ty, ciebie - tu  
 Tybet - Botia  
-tydzień - ceti din  
+tydzień - cetoden  
 tygrys - bagre  
 tykwa pospolita (kabalasz) - suikaboge  
 typ (rodzaj, gatunek) - tipe  
@@ -3015,12 +3014,12 @@ urząd, pozycja, stanowisko, funkcja - ofis
 usiąść - sidu  
 uskok - geokaski krake  
 usta - boka  
+usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - depoze  
 usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - dezay  
-usuwać (usunąć,likwidować,zlikwidować,wymazywać,wymazać,pozbywać się,pozbyć się) - depoze  
 usłyszeć, słyszeć; słuchać - aude  
 uwaga (obserwacja; notować, obserwować, zauważyć, zauważać) - note  
 uważać (sądzić) - raye  
-uwięzić, więzić, pozbawić wolności - prizone  
+uwięzić, więzić, pozbawić wolności - jele  
 uwolnić, uwalniać - hure  
 Uzbekistan - Uzbekia  
 ułożyć w trabelę - tablate  
@@ -3070,7 +3069,7 @@ Wenus - Venus
 Wenzhou - Venzou  
 weranda, balkon, taras, ganek - beranda  
 wermut - vermute  
-wersja (wariacja,edycja,wydanie) - version  
+wersja (wariacja, edycja, wydanie) - version  
 wesoły, ucieszony - suke  
 wesprzeć (wzmocnić, zasilić) - maxobale  
 wewnętrzny - ine  
@@ -3138,7 +3137,7 @@ wiolonczela - daiviole
 wiosna - fulmosim  
 wirus - virus  
 wirusologia - viruslojia  
-Wisznu - Visnu  
+Wisznu - Vixnu  
 witaj, dobre przybycie - salam lai  
 witamina - vitamin  
 witraż - rangi kance  
@@ -3150,8 +3149,7 @@ wizyta - kege
 wizytant (gość) - keger  
 większościowy, wiodący, główny - maxure  
 większość - maxuria  
-więzienie, kara więzienia, kara pozbawienia wolności - prizon  
-więzienie, zakład karny - prizonkan  
+więzienie, zakład karny - jelokan  
 wiśnia (czereśnia) - cerize  
 wkrótce - suno  
 wnieć wkład (przyczynić się) - fendone  
@@ -3173,7 +3171,7 @@ wolt (V) - volte
 wosk - mum  
 wosko lądowe (armia) - geogunia  
 wow!, łoł!, jej! - va  
-wow!,łoł!,jej! - vah  
+wow!, łoł!, jej! - vah  
 wołowina - muhmanse  
 wrzesień - lun luka  
 wróg (nieprzyjaciel) - andoste  
@@ -3255,7 +3253,7 @@ wzywać (wezwać, dodawać, dodać) - zayife
 wóz, wózek - kar  
 wąchać - gande  
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - xanke  
-wątpliwy (niewiarygodny,podejrzany) - xankable  
+wątpliwy (niewiarygodny, podejrzany) - xankable  
 wąż - serpe  
 węgiel - karbe  
 Węgry - Magyaria  
@@ -3335,7 +3333,7 @@ zawias, oś - xarnir
 zawierać - intene  
 zawijać (zawinąć; owinięcie, koperta, okładka) - lifafe  
 zawsze - pansato  
-zazdrosny - gelose  
+zazdrosny - zelose  
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - marke  
 założyciel - bazer  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - taxe  
@@ -3346,7 +3344,7 @@ zbyt - limotranse
 zbyt mało - min ka bas  
 zbłąkać się (wykoleić się) - depade  
 zdanie (fraza) - gumle  
-zdeaktywowany (wyłączony,zatrzymany) - anative  
+zdeaktywowany (wyłączony, zatrzymany) - anative  
 zdjęcie (fotografia) - fotograf  
 zdrada małżeńska, cudzołóstwo - zine  
 zdrowie - salia  
@@ -3397,15 +3395,15 @@ zombie, zombi - zombi
 zoo (ogród zoologiczny) - zooparke  
 zoologia - zoolojia  
 zoologiczny - zoolojike  
-zostawić,zostawiać - repause  
+zostawić, zostawiać - repause  
 zrobić (czyn, uczynek) - fete  
-zrobić (stworzyć,wykreować) - fete  
+zrobić (stworzyć, wykreować) - fete  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - can  
 zromanizować - latinkitabe  
 zsumować, sumować, dodać, dodawać - sume  
 zulu - Zulu  
 zupa - supe  
-zwinny,sprawny - agile  
+zwinny, sprawny - agile  
 związek, powiązanie, połączenie - guanse  
 zwiększyć o jeden - maxdarge  
 zwycięstwo, wygrana - seng  
@@ -3415,8 +3413,8 @@ zygzag - zigzage
 ząb - dante  
 zęwnętrzny - exe  
 złamanie lini - linparce  
+złapać, łapać, schwytać, chwytać - cepe  
 złapać, łapać, schwytać, chwytać - kape  
-złapać,łapać,schwytać,chwytać - cepe  
 złocień indyjski - neftoguke  
 złodziej - corer  
 złoto - aure  
@@ -3431,7 +3429,7 @@ zły, zrujnowany, zepsuty - harabe
 ćwiczyć - lense  
 Łotwa - Latvia  
 łapać rybę - kapa pes  
-łapać rybę - yege pes  
+łapać rybę - yege pexe  
 łatwy, prosty - fasile  
 ławka - bence  
 łazienka - banyakamar  
@@ -3455,7 +3453,7 @@ zły, zrujnowany, zepsuty - harabe
 łąka - caustan  
 Śiwa - Xiva  
 ścisnąć (sciskać, wycisnąć) - inpuse  
-ścisnąć (sciskać,wycisnąć) - konprese  
+ścisnąć (sciskać, wycisnąć) - konprese  
 ściągać (ściągnąć, pobrać, pobierać) - netogete  
 śliwka - plum  
 ślizgać się (poślizgnąć się, jeździć na łyżwach) - glise  
@@ -3491,7 +3489,7 @@ zły, zrujnowany, zepsuty - harabe
 żeglarz (marynarz) - naver  
 żeglować (płynąć) - nave  
 żegnaj, dobre odejście - salam cute  
-żel, galareta - gel  
+żel, galareta - gele  
 żelazo - fer  
 żeń-szeń - jensen  
 żołnierz - gunjen  

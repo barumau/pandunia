@@ -12,7 +12,7 @@ Abkhazia - Apsua
 ablative case - abolative  
 able (capable) - ablan  
 abnormal - annorme  
-about (approximately, nearly, almost) - yago  
+about (approximately, nearly, almost) - yage  
 above (over) - supro  
 Abyssinia - Habasia  
 Abyssinian - habase  
@@ -68,7 +68,7 @@ afternoon - suarden
 again (repeatedly) - rio  
 age - sene  
 aged - sene  
-agent (doer,actor) - ater  
+agent (doer, actor) - ater  
 agglutinating - aglutive  
 aggressive - agresive  
 aggressor - agreser  
@@ -78,7 +78,7 @@ agree (concur) - samraye
 agree (make an agreement) - trete  
 agreement (consent) - samrayia  
 agreement (treaty) - trete  
-agreement (treaty,contract) - kontrate  
+agreement (treaty, contract) - kontrate  
 agriculture - agria  
 agrobiology - agrobiolojia  
 agronomy - agronomia  
@@ -127,7 +127,7 @@ ampere (amp) - amper
 amplify (scale) - daidarge  
 ampoule (vial) - ampul  
 anaerobic - anairobike  
-anaglyphic (stereoscopic) - dulgrafe  
+anaglyphic (stereoscopic) - dugrafe  
 analyse (dissect; analysis, dissection) - fenkate  
 anchor - angar  
 anchovy - ancovi  
@@ -174,10 +174,10 @@ apple - aple
 applesauce - aplesaus  
 apply (put to use for a purpose; application) - aplike  
 apprentice - karxuler  
-approach (get close,approximate) - aprose  
+approach (get close, approximate) - aproxe  
 approach (get near) - karibu  
 approve - bonraye  
-approximate - aprosime  
+approximate - aproxime  
 apricot - barkoke  
 April - lun nelu  
 aqua (teal) - hainile  
@@ -230,7 +230,7 @@ ask (inquire; question, query, inquiry) - sual
 ask (request, beg, plead; please) - cing  
 asparagus - lusun  
 aspirin - aspirin  
-assign (ascribe,attribute) - asinye  
+assign (ascribe, attribute) - asinye  
 associate (association, league) - lige  
 assume (presuppose) - cenage  
 Assur - Asur  
@@ -290,8 +290,8 @@ backward (in reverse) - retro
 backward (posterior) - postre  
 backwards - re-  
 bad (ruined, destroyed) - harabe  
+bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dus  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - duse  
-bad (unfavorable,negative,evil,wicked,troublesome,difficult) - dus  
 bag (sack) - sake  
 baguette - batonpang  
 bah - bah  
@@ -420,12 +420,12 @@ biology (study of organic life) - biolojia
 biome - biosistem  
 birch tree - berze  
 bird - pakse  
-biromantic - dulromanse  
+biromantic - duromanse  
 birth (beget, create, breed, generate, produce) - gene  
 birthday - genoden  
 birthplace - genoloke  
 biscuit (cookie) - biskute  
-bisexual - dulsexe  
+bisexual - dusexe  
 bisexual - dusexe  
 bismuth - bismute  
 bite - danta  
@@ -502,7 +502,7 @@ brick - binite
 bridge - pul  
 bright (brilliant, luminous, shining; shine) - ming  
 bring - laiane  
-bring up (educate,raise) - pede  
+bring up (educate, raise) - pede  
 broken (shattered) - parce  
 bromine - bromium  
 brown - brune  
@@ -532,7 +532,7 @@ burn (cause to burn) - hoge
 burst (pop) - parcokayu  
 burst (split, break, rupture) - rute  
 Burundi - Rundi  
-bury (inter,inhume) - inhume  
+bury (inter, inhume) - inhume  
 bus - bus  
 bush (shrub) - tali moke  
 business (commercial activity) - biznes  
@@ -628,7 +628,7 @@ Catalonia - Katalunia
 catch (capture, seize, snatch, intercept) - kape  
 catch (capture, take, seize) - cepe  
 catch fish - kapa pes  
-catch fish - yege pes  
+catch fish - yege pexe  
 Caucasia - Kaukasia  
 cauldron - daipote  
 cause (make sb. do sth.) - ante  
@@ -755,7 +755,7 @@ clocktower - horlogerminar
 clockwise - rotoraito  
 clone (replica) - klon  
 clone (replicate) - klone  
-close (near) - prose  
+close (near) - proxe  
 close (shut) - kluze  
 close (shut) - dekai  
 cloth (fabric, textile) - texe  
@@ -806,9 +806,9 @@ combine - konbine
 come (arrive) - lai  
 come - ven  
 come back (return) - revene  
-come out (happen,event) - exvene  
+come out (happen, event) - exvene  
 comedy - komodia  
-comfortable (convenient,commodious) - konmode  
+comfortable (convenient, commodious) - konmode  
 comic (cartoon) - grafosage  
 comic (funny) - komi  
 comma - kome  
@@ -839,7 +839,7 @@ compiler - konpiler
 complete (make done) - purfine  
 component - konpozaje  
 compost - biocaniver  
-compress (squeeze,squish) - konprese  
+compress (squeeze, squish) - konprese  
 compute (put data together) - konpute  
 computer - konputer  
 conceive (take together; concept) - koncepe  
@@ -855,7 +855,7 @@ conduit (channel) - kanaler
 cone - konus  
 conflict (argument, dispute, quarrel) - palabe  
 conform (fit, mold) - konformu  
-conform (fit,mold) - konforme  
+conform (fit, mold) - konforme  
 Confucianism - kongfuzisme  
 Confucious - Kongfuze  
 confuse (perplex, bewilder, baffle) - ruhmixe  
@@ -1015,7 +1015,7 @@ date fruit - tamar
 daughter - femi pute  
 day (24 hours) - den  
 day (daytime) - yom  
-deactivate (disable,turn off) - deative  
+deactivate (disable, turn off) - deative  
 deactivate (turn off) - deativate  
 dead (deceased) - morte  
 dead (deceised) - nekre  
@@ -1036,7 +1036,7 @@ dedicate (devote) - satodone
 dedication (devotion) - satodonia  
 deduce (lead from) - dedute  
 deduction - dedution  
-deem (consider,regard,assign some quality to) - fere  
+deem (consider, regard, assign some quality to) - fere  
 deem (opine, think that) - raye  
 deep - fasotele  
 default (preset, predecided) - precuze  
@@ -1110,15 +1110,15 @@ discussion (debate, discourse) - lon
 disease - pate  
 dish (bowl) - tas  
 dislike (loathe) - aname  
-dispel (disperse,drive asunder) - dispele  
-disperse (spread out,scatter; sparse) - dise  
+dispel (disperse, drive asunder) - dispele  
+disperse (spread out, scatter; sparse) - dise  
 distance (far away) - tel  
 distance (length) - telia  
 distinction (specialty) - hasia  
 distinguish - hase  
 distract (pull apart) - distrate  
 distrust (disbelieve) - ankrede  
-disturb (disturbance,turbulence) - disturbe  
+disturb (disturbance, turbulence) - disturbe  
 diverse - disverse  
 divine (godly) - deve  
 divorce (unmarry) - degame  
@@ -1177,13 +1177,12 @@ drive away - depele
 drive together - konpele  
 drop (droplet) - yote  
 drowsy - somive  
-drug (intoxicating substance) - droge  
-drug (narcotic,dope,intoxicating substance) - narke  
+drug (narcotic, dope, intoxicating substance) - narke  
 drug addict - narkiste  
 drum - gum  
 dry - gane  
 dry season - ganmosim  
-dualism - dulisme  
+dualism - duisme  
 dubious (suspicious) - xankable  
 dubnium - dubnium  
 duck - bata  
@@ -1224,7 +1223,7 @@ Ecuador - Ekuador
 education (schooling) - xulia  
 education (upbringing) - pedia  
 effect (impact, impression, result, outcome) - asar  
-effect (impact,influence,affect) - exfete  
+effect (impact, influence, affect) - exfete  
 effective (influential) - exfetive  
 egg - ove  
 eggplant (aubergine, brinjal) - bedinge  
@@ -1301,7 +1300,7 @@ essay - esei
 essence - esentia  
 essential - esential  
 essive case - esive  
-estimate (approximate) - yage  
+estimate (approximate) - yagife  
 Estonia - Estia  
 Eswatini (Swaziland) - Suati  
 ethics - dekolojia  
@@ -1512,7 +1511,7 @@ force (violence) - zor
 foreign - exgogian  
 foreign country - exgogia  
 forenoon - suboden  
-foresee (anticipate,preview) - previde  
+foresee (anticipate, preview) - previde  
 forest (woods) - van:  
 forget - dememe  
 forgive (pardon) - mafe  
@@ -1524,7 +1523,7 @@ formatting - kitaboforme
 formula - formule  
 forum (public space) - forum  
 forward (to the front) - pro-  
-forward - proo  
+forward - pro  
 founder - bazer  
 fountain (spring, well) - fonte  
 fountain pen - fontokalam  
@@ -1585,7 +1584,8 @@ Gaul - Galia
 gauze - gaze  
 gay (homosexual) - gei  
 gazelle - gazel  
-gel (jelly) - gel  
+gel (jelly) - gele  
+gelatin - gelatine  
 gem (gemstone, jewel) - bavite  
 gender (sex) - gense  
 gender studies - gensolojia  
@@ -1615,7 +1615,7 @@ germanium - germanium
 Germany - Doice  
 gesture - geste  
 get (gain, obtain, receive) - dege  
-get around (avoid,circumvent) - cirkovene  
+get around (avoid, circumvent) - cirkovene  
 get off (descend) - deskale  
 getter (receiver, recipient) - deger  
 Ghana - Gana  
@@ -1685,7 +1685,7 @@ grassland (prairie) - caustan
 gratitude (thankfulness) - xukria  
 grave (tomb; bury) - gabre  
 gravel - grave  
-graveyard (cemetery,burial ground) - gabrostan  
+graveyard (cemetery, burial ground) - gabrostan  
 Greece - Helenia  
 greedy - tame  
 Greek (Hellenic) - helene  
@@ -1740,7 +1740,7 @@ hairband (headband) - kexbende
 hairdryer - kexofentor  
 Haiti - Haiti  
 halo (aureola) - fotosirke  
-halve (divide by two) - dulo fene  
+halve (divide by two) - dufene  
 hammer - hamar  
 hammock - hamake  
 Han Chinese - cine  
@@ -1796,8 +1796,9 @@ hertz (Hz) - herze
 Hesse - Hesia  
 heteroromantic - aloromanse  
 heterosexual - alosexe  
-hexagon - sisgon  
-hexahedron (cube) - sisfas  
+hexadecimal - desosixike  
+hexagon - sixogon  
+hexahedron (cube) - sixofase  
 hey (exclamation to get attention) - hei  
 hide (conceal) - sire  
 high (tall) - gave  
@@ -1917,7 +1918,7 @@ implode (collapse) - inplozu
 implode (collapse; implosion) - inploze  
 import - inmise  
 important - ham  
-imprison (jail) - prizone  
+imprison (jail) - jele  
 include (enclose, hold in) - inkluze  
 including - inkluze da  
 inclusive - inkluzive  
@@ -1951,12 +1952,12 @@ information (organized knowledge) - informaje
 infrastructure   - infrostruture  
 infuse (melt in, steep in) - infuze  
 ingenerate (produce within) - ingenerate  
-initial (first) - xurime  
+initial (first; prime) - prime  
 inject - injete  
 injection - injete  
 ink - moge  
 innate (endogeneous, indigenous, inborn) - ingene  
-innate (endogenous,indigenous,inborn) - innate  
+innate (endogenous, indigenous, inborn) - innate  
 inner (internal) - ine  
 inner (internal) - intre  
 input  - inpute  
@@ -1993,7 +1994,7 @@ interrupt - interrute
 intertextual - intertexte  
 intervene (come between) - intervene  
 intestines (entrails, guts, bowels, viscera) - intraje  
-intoxicated (high,stoned) - narke  
+intoxicated (high, stoned) - narke  
 intrastructure (underbuilding) - bazostrute  
 introspection - introspete  
 introvert - introverse  
@@ -2031,7 +2032,7 @@ ivory - gaja dante
 jackal - xakal  
 jacket - jake  
 jade - giuke  
-jailer (imprisoner) - prizoner  
+jailer (imprisoner) - jeler  
 Jainism - jenisme  
 Jakarta - Jakarta  
 Jamaica - Jamaika  
@@ -2041,7 +2042,7 @@ Japan - Nipon
 Japanese - nipone  
 jasmine - malike  
 jazz - jaze  
-jealous - gelose  
+jealous - zelose  
 jellyfish (seajelly) - haigel  
 Jersey - Jerzi  
 Jerusalem - Urusalem  
@@ -2068,7 +2069,7 @@ juice - jus
 July - lun ceti  
 jump - jampe  
 junction - juntion  
-juncture (junction,intersection) - junture  
+juncture (junction, intersection) - junture  
 June - lun luka  
 jungle - jangle van  
 Jupiter - jupiter  
@@ -2351,8 +2352,8 @@ mantra - mantre
 manual - hande  
 many (much) - multe  
 many (much, more than one; poly-, multi-) - poli  
-many (multiple,several) - osi  
-many (plural,-s) - os  
+many (multiple, several) - osi  
+many (plural, -s) - os  
 map (chart) - metrograf  
 Marathi - marate  
 marathon - maraton  
@@ -2472,7 +2473,7 @@ millimeter - milimitre
 million (mega-) - mega  
 Mimas - Mimas  
 mimic (imitate) - mime  
-mind (ability for consciousness,perception and thinking) - mente  
+mind (ability for consciousness, perception and thinking) - mente  
 mine (extract) - kuange  
 mine - kuangia  
 miner - kuanger  
@@ -2490,8 +2491,8 @@ miracle - mirokle
 mirage - miraje  
 Miranda - Mirande  
 mirror - miror  
+misdeed (sin, vice) - dusate  
 misdeed (sin, vice) - duskar  
-misdeed (sin,vice) - dusate  
 misfortune (bad luck) - dusi zar  
 misfortune (bad luck) - dusozar  
 mission (sending) - mision  
@@ -2561,7 +2562,7 @@ motorcar (automobile) - motogar
 motorcycle - motosikle  
 mound (hill) - kume  
 mountain (hill) - san  
-mountain (mount,hill) - monte  
+mountain (mount, hill) - monte  
 mountaineer - montaner  
 mouse - mus  
 mouth - boka  
@@ -2742,7 +2743,7 @@ odd (strange, weird) - bizar
 ode (verse) - ode  
 Odia (Oriya) - odise  
 of (attributive preposition) - de  
-off (deactivated,disabled,inactive) - anative  
+off (deactivated, disabled, inactive) - anative  
 office (bureau) - bure  
 office (bureau) - ofisia  
 office (position) - ofis  
@@ -2779,7 +2780,7 @@ opinion (view) - rai
 opium poppy - somopapil  
 opportunity (chance) - canse  
 oppose (antagonize, object, resist) - xate  
-opt (prefer,choose) - ote  
+opt (prefer, choose) - ote  
 optical fibre (optical cable) - fotolin  
 optimal - otimal  
 optimism - otimisme  
@@ -3143,18 +3144,17 @@ president - prezidente
 president - presidente  
 press (pressure) - prese  
 press device - preser  
-prevent (stop,keep from,come in the way of) - prevene  
+prevent (stop, keep from, come in the way of) - prevene  
 prick (sting) - pine  
 priest (cleric) - dinoguru  
 primary school (elementary school, gradeschool) - bazoxulkan  
 prime minister - xefe minister  
 prince or princess - regoben  
 print (stamp, press) - cape  
-prison (imprisonment) - prizon  
-prison - prizonkan  
+prison - jelokan  
 privateer (buccaneer) - naukaper  
 problem (issue) - problem  
-problematic - probleme  
+problematic - problemike  
 process (procedure) - proses  
 process (proceed, go forward) - procese  
 processor - procesor  
@@ -3181,7 +3181,7 @@ promethium - prometium
 promise (vow, oath, pledge) - vode  
 pronoun - pronam  
 pronounce (articulate) - fonologe  
-pronounce (proclaim,promulgate) - pronunce  
+pronounce (proclaim, promulgate) - pronunce  
 proof (evidence, proof, demonstration, testimony) - dalil  
 propaedeutic - prepede  
 propel (drive forward) - propele  
@@ -3193,8 +3193,8 @@ proponent (supporter, activist, -ist) - iste
 propose (put forth; proposal, suggestion) - propoze  
 protactinium - protacinium  
 protein - proten  
+prove (demonstrate, show, instruct) - doke  
 prove (demonstrate, testify) - dalile  
-prove (demonstrate,show,instruct) - doke  
 prove (verify, authenticate) - provere  
 provoke - provoke  
 proximity - karibe  
@@ -3236,7 +3236,7 @@ racist - rasiste
 radiate - rade  
 radiation - radia  
 radical (going to the roots) - radikal  
-radicate (irradicate,root deeply) - inradike  
+radicate (irradicate, root deeply) - inradike  
 radio receiver - radi geter  
 radioactive - yon rade  
 radioactivity (ionizing radiation) - yon radia  
@@ -3319,11 +3319,11 @@ relic - cenaje
 religion (worship) - din  
 reluctant - anice  
 remember (recall) - meme  
+remove (delete, dispose, erase) - depoze  
 remove (delete, dispose, erase) - dezay  
-remove (delete,dispose,erase) - depoze  
 remove (take away) - kitane  
 renew (make new, renovate) - renove  
-renounce (decline,reject) - renunce  
+renounce (decline, reject) - renunce  
 rent (charter, lease) - kirogete  
 rent out (let, lease) - kirodone  
 repair (fix, mend) - ribone  
@@ -3483,7 +3483,7 @@ Saudi Arabia - Saudi Arabia
 sauna - sauna  
 sausage - sosis  
 savannah - garmozone caustan  
-save (rescue,salvage) - salve  
+save (rescue, salvage) - salve  
 savior (rescuer) - salver  
 savory (umami) - umame  
 saw - xere  
@@ -3503,7 +3503,7 @@ scent (odor, fragrance, aroma) - gande
 school (institution) - xulkan  
 science (study, research) - lojia  
 scissors (shears) - makas  
-scoot (ride a scooter,move while sitting) - skute  
+scoot (ride a scooter, move while sitting) - skute  
 scooter - skuter  
 scope (viewer) - oskope  
 score (grade) - puntonumbe  
@@ -3525,6 +3525,7 @@ search (seek, look for) - soge
 season - mosim  
 seat (saddle) - side  
 seaweed (macroalgae) - haialge  
+second (2nd) - duime  
 second(s) - sekunde  
 secondary school - zungoxulkan  
 secret (hidden) - sir  
@@ -3557,8 +3558,8 @@ sentence-ending particle for commands - ba
 September - lun nuve  
 Serbia - Serbia  
 series (sequence) - seria  
-series (sequence,succession) - sere  
-series (sequence,succession) - seria  
+series (sequence, succession) - sere  
+series (sequence, succession) - seria  
 servant - server  
 serve (give service) - serve  
 server (host machine) - servor  
@@ -3566,6 +3567,7 @@ servername (hostname) - servor nam
 service - serve  
 sesame - sesam  
 seven (7) - cete  
+seventh - cetime  
 sew - sute  
 sex (sexual relation; have sex) - sexe  
 sexology - sexolojia  
@@ -3612,7 +3614,7 @@ shoulder - kante
 shout back (reclaim) - reklame  
 shovel (spade, scoop) - belce  
 show (display; exhibition) - xou  
-shower - duce  
+shower - duxe  
 shrimp (prawn) - krevete  
 Siberia - Sibiria  
 sibling (brother or sister) - brus  
@@ -3645,7 +3647,8 @@ sit (put down) - side
 sit down - sidu  
 situation (circumstances, state of affairs) - xeihal  
 situational irony - xeihalironia  
-six (6) - sise  
+six (6) - six  
+sixth - sixime  
 size - dayia  
 sizzle - zize  
 skeleton (frame) - ostogamia  
@@ -3785,7 +3788,7 @@ step-father - visopatre
 step-mother - visomatre  
 step-parent - cingam  
 step-sibling - cingamben  
-stereophonic - dulsonde  
+stereophonic - dusonike  
 sticker - glutograf  
 still (yet, continuously) - duro  
 stone (piece of rock) - ite  
@@ -3818,7 +3821,7 @@ submit (present) - karmise
 substance (physical material from which something is made) - kime  
 subvene - subvene  
 subway (metro) - tuneltren  
-succeed (go well,prosper) - sucese  
+succeed (go well, prosper) - sucese  
 suck (absorb) - cupe  
 Sudan - Sudan  
 suffix (postfix) - posfixe  
@@ -3987,6 +3990,7 @@ thing (matter, topic) - realaje
 thing (object, item, matter) - vate  
 thing - xei  
 think (ponder; thought, idea) - fikre  
+third - trime  
 thirst - suiyau  
 thistle - kardon  
 thorium - torium  
@@ -3995,7 +3999,7 @@ thousand (kilo-) - kile
 three (3) - tri  
 throat (windpipe, gullet, pharynx) - gale  
 throw up (vomit, regurgitate) - retrogule  
-thrust (throw,cast) - jete  
+thrust (throw, cast) - jete  
 thulium - tulium  
 thunder (roaring) - grom  
 thunderstorm - gromtafun  
@@ -4010,7 +4014,7 @@ tikka masala - masali tike
 tile - tail  
 tilt (skew) - terce  
 time (age, period, era, epoch, term) - zaman  
-time (clock time,moment,hour) - sate  
+time (clock time, moment, hour) - sate  
 time (instance, occasion) - mar  
 Timor - Timor  
 tin - stanium  
@@ -4129,7 +4133,7 @@ turn toward (direct, flip; versus) - verse
 turquoise gem - firuze  
 turtle (tortoise) - tortuge  
 Tuvalu - Tuvalu  
-twice - duple  
+twice - du mar  
 twinkle (sparkle) - xingofote  
 two (2) - du  
 type (kind, genre) - tipe  
@@ -4176,7 +4180,7 @@ unplug (uncork) - detape
 unreal - anrel  
 unrest - depace  
 until (til, up to) - hate  
-unveil (reveal,uncover) - devele  
+unveil (reveal, uncover) - devele  
 upgrade (level up) - bondarge  
 upload - netodone  
 upper - supre  
@@ -4219,7 +4223,7 @@ verb - karloge
 verbal irony (sarcasm) - logironia  
 verify (realize) - verife  
 vermouth - vermute  
-version (variation,edition) - version  
+version (variation, edition) - version  
 vertical - gautale  
 vice (deputy, substitute, replacement) - vise  
 vice-president - visopresidante  
@@ -4236,14 +4240,14 @@ vinegar - vinsuan
 vinyl - vinil  
 violin (fiddle) - viole  
 violinist - violiste  
-virgin (pristine,virginal) - virge  
+virgin (pristine, virginal) - virge  
 Virgin Islands, US - Virgin nesia  
 Virgo - Virge  
 virology - viruslojia  
 virtue (morals) - bondeke  
 virus - virus  
 visa - vize  
-Vishnu - Visnu  
+Vishnu - Vixnu  
 vision (sight) - vidion  
 visit - kege  
 visitation (visit) - kege  
@@ -4307,7 +4311,7 @@ weather - tenhal
 weave - texe  
 website - netoloke  
 Wednesday - den tri  
-week - ceti din  
+week - cetoden  
 weep (cry) - vava  
 weft - veilin  
 weigh (have weight) - vezu  
@@ -4366,7 +4370,7 @@ Wolof (language and people) - Volof
 woman (adult female) - maturi fem  
 wonder (be interested in, would like to know) - savovolu  
 wonder - mire  
-wonderful (marvel,mirable) - mirable  
+wonderful (marvel, mirable) - mirable  
 wood (timber) - mokomate  
 wood board (plank) - mokoban  
 wool (fleece) - mehi kex  

@@ -52,7 +52,7 @@ acuario (pecera) - pestanke
 acuerdo - samrayia  
 acumular - kume  
 acuoso - suye  
-adelante - proo  
+adelante - pro  
 además - a max  
 adhesivo - glutograf  
 adicional (extra) - maxaje  
@@ -205,15 +205,15 @@ antónimo - antinam
 antónimo - antonam  
 análisis de datos - datofenkate  
 anís - anis  
-anón (ates,saramuyo) - ata  
+anón (ates, saramuyo) - ata  
 aparecer - azay  
 apartarse (desviarse) - depade  
 apellido - familnam  
 apogeo - abogee  
 aprender (estudiar) - xule  
 apropriado (apto, oportuno) - hape  
-aproximadamente - yago  
-aproximar - aprose  
+aproximadamente - yage  
+aproximar - aproxe  
 apuntar (dirección) - dike  
 apuntar (indicar) - ponte  
 Arabia Saudita - Saudi Arabia  
@@ -412,9 +412,9 @@ billete de ida y vuelta - retrotikete
 bilogía - duologia  
 biología - biolojia  
 bioma - biosistem  
-birromántico - dulromanse  
+birromántico - duromanse  
 bisagra (gozne) - xarnir  
-bisexual - dulsexe  
+bisexual - dusexe  
 bisexual - dusexe  
 bismuto - bismute  
 blanco - bake  
@@ -567,7 +567,7 @@ cararés - karnade
 caravana - karvan  
 carbohidrato - karbosui  
 carbón - karbe  
-carcelero - prizoner  
+carcelero - jeler  
 cardo - kardon  
 cardo borriquero - pinkardon  
 cardo burral - perokardon  
@@ -614,7 +614,7 @@ cebra - zebra
 celebrar (festejar; celebración, fiesta) - feste  
 celeste (azul celeste) - tennile  
 celeste (celestial) - tene  
-celoso (envidioso) - gelose  
+celoso (envidioso) - zelose  
 cementerio - gabrostan  
 cemento - semente  
 cena - suaryam  
@@ -943,7 +943,7 @@ cuándo - ke sate
 cuántos - ke multe  
 cálculo - kalkulia  
 cámara - fotografmaxin  
-cárcel - prizonkan  
+cárcel - jelokan  
 Cáucaso - Kaukasia  
 célula - cel  
 césped (hierba) - cau  
@@ -1079,7 +1079,7 @@ discusión (debate, discurso) - lon
 disentir (no estar de acuerdo) - aloraye  
 disionario (lexicón) - lexoliste  
 disparar - pave  
-dispersar (esparcir,desmontar; escaso,disperso,ralo) - dise  
+dispersar (esparcir, desmontar; escaso, disperso, ralo) - dise  
 dispositivo pirotécnico - hogotehne  
 disprosio - disprosium  
 distancia - telia  
@@ -1114,15 +1114,14 @@ doméstico - domike
 dormir (sueño) - some  
 dormitorio - somokamar  
 dos (2) - du  
-dos veces - duple  
+dos veces - du mar  
 dotes (arte, habilidad) - xute  
 dragón - lung  
 drama - drame  
-droga (narcótico) - droge  
 droga (narcótico) - narke  
-dualismo - dulisme  
+dualismo - duisme  
 dubnio - dubnium  
-ducha - duce  
+ducha - duxe  
 duda - xanke  
 dudoso - xankable  
 dueño - maler  
@@ -1204,7 +1203,7 @@ en el sentido contrario al las agujas del reloj - rotolefto
 en el sentido del las agujas del reloj - rotoraito  
 en línea - a line  
 encanto - carme  
-encarcelar (aprisionar) - prizone  
+encarcelar (aprisionar) - jele  
 encontrar - mite  
 encurtido - acari  
 encurtir - acara  
@@ -1297,7 +1296,7 @@ esponja - sponge
 esposo o esposa - gamike  
 espárrago - lusun  
 esqueleto (armazón) - ostogamia  
-esquina (rincón,ángulo) - gone  
+esquina (rincón, ángulo) - gone  
 estacionamiento (aparcamiento) - karparke  
 estación (temporada) - mosim  
 estación - statia  
@@ -1311,7 +1310,7 @@ estar de pie - libu
 estar en contra - kontre  
 estaño - stanium  
 estilógrafo - fontokalam  
-estimar (apriximarse a) - yage  
+estimar (apriximarse a) - yagife  
 estirar (extender) - tirlonge  
 Estonia - Estia  
 estornudar (achís) - aci  
@@ -1507,7 +1506,8 @@ gato manchado (tigrillo) - bagroselote
 gato tigre (maracayá) - margai  
 gay (homosexual) - gei  
 gañar (triunfar, lograr, desrotar) - senge  
-gel (jalea, gelatina) - gel  
+gel (jalea) - gele  
+gelatina - gelatine  
 genealogía - genolojia  
 generación (cohorte) - genogrupe  
 general (common) - putonge  
@@ -1653,8 +1653,8 @@ hervir (cocer) - bule
 Hesse (Hessia) - Hesia  
 heterorromántico - aloromanse  
 heterosexual - alosexe  
-hexaedro (cubo) - sisfas  
-hexágono - sisgon  
+hexaedro (cubo) - sixofase  
+hexágono - sixogon  
 hidrógeno - hidre  
 hielo (congelarse, helarse) - ais  
 hierbabuena - zongominte  
@@ -1690,7 +1690,7 @@ Honduras - Onduras
 Hong Kong - Hong Gong  
 hongo (moho) - funge  
 honrar - onore  
-hora (hora del día,momento) - sate  
+hora (hora del día, momento) - sate  
 hora - hor  
 horizonte - tenkenar  
 hormigo - murce  
@@ -1736,7 +1736,7 @@ idiota (imbécil) - idiote
 iglesia - eglis  
 ilusión - falsvide  
 ilustrador - grafer  
-imagen (gráfico,dibujo) - grafe  
+imagen (gráfico, dibujo) - grafe  
 imaginar (fantasear; imaginación, fantasía) - fantas  
 imitador - mimer  
 imitar - mime  
@@ -1781,8 +1781,8 @@ infierno - narake
 inflamación - itis  
 información - konsave  
 informe (reporte, noticia) - reporte  
-informe (reporte,noticia) - reporte  
-informe (reporte,noticia) - reporte  
+informe (reporte, noticia) - reporte  
+informe (reporte, noticia) - reporte  
 infortunio (mala suerte) - dusi zar  
 infortunio (mala suerte) - dusozar  
 infraestructura - bazostrute  
@@ -2111,8 +2111,8 @@ maleable - plaste
 malgache - malagas  
 Mali - Male  
 malinterpretar - mesbude  
+malo (difícil, duro) - dus  
 malo (difícil, duro) - duse  
-malo (difícil,duro) - dus  
 Malta - Malte  
 mamá - me  
 mamífero - mamal  
@@ -2717,7 +2717,7 @@ pesado - veze
 pesar - vezu  
 pescador - pesosaider  
 pescar - kapa pes  
-pescar - yege pes  
+pescar - yege pexe  
 peso (gravedad) - vezia  
 pestaña - okokex  
 peto - sinaplate  
@@ -2855,17 +2855,16 @@ prever (anticipar) - previde
 prever (esperar, pensar) - cenvide  
 previo (anterior; antes; preceder, anteceder) - cene  
 primavera - fulmosim  
-primer (inicial, inaugural) - xurime  
+primer (inicial, inaugural) - prime  
 primer ministro - xefe minister  
 primero (numbre uno) - unime  
 primo - cinbrusben  
 principal - xefe di  
-prisión - prizon  
 proactinio - protacinium  
 probar (demonstrar, comprobar) - dalile  
 probar - provere  
 problema - problem  
-problemático - probleme  
+problemático - problemike  
 procesamiento de imágenes - grafoprocese  
 proceso (procedimiento) - proses  
 proclamar - proklame  
@@ -2906,7 +2905,7 @@ prueba - teste
 práctica - prate  
 práctico - prate  
 préstamo lingüístico - jekolexe  
-próximo - prose  
+próximo - proxe  
 psicología - ruhlojia  
 psique - ruh  
 pudrirse (cariarse, descomponerse) - pudu  
@@ -2950,8 +2949,8 @@ queso fresco - panir
 quilate - kirate  
 quimono - kimono  
 quiosco (kiosco) - kioske  
+quitar (eliminar, borrar) - depoze  
 quitar (eliminar, borrar) - dezay  
-quitar (eliminar,borrar) - depoze  
 quitar (pelar) - tira pil  
 quitar (remover) - kitane  
 quién - ke jen  
@@ -3016,7 +3015,7 @@ reconocimiento (recibo; reconocer) - reside
 recto - orte  
 redes sociales - soce media  
 redondo (circular) - sirke  
-reducir a la mitad (dividir en dos) - dulo fene  
+reducir a la mitad (dividir en dos) - dufene  
 referir - refere  
 reflejar - mire  
 refuerzos - maxobalaje  
@@ -3206,10 +3205,10 @@ seguir - pose
 segundo - sekunde  
 seguramente (amén) - amen  
 seguro (proteger, asegurar, guardar) - sekure  
-seis (6) - sise  
+seis (6) - six  
 selenio - selenium  
 sello postal - postocape  
-semana - ceti din  
+semana - cetoden  
 semilla - semen  
 seminal - semenike  
 semáforo - semoforer  
@@ -3286,6 +3285,7 @@ sistema solar - solosistem
 sistémico - sisteme  
 sitio web - netoloke  
 situación - xeihal  
+sixième - sixime  
 sobre - supro  
 sobrepasar - supre  
 sobrestimar - maxorai  
@@ -3452,7 +3452,7 @@ texto - texte
 teísmo - devisme  
 teísta - deviste  
 tiburón - xarke  
-tiempo (era,periodo,época) - zaman  
+tiempo (era, periodo, época) - zaman  
 tierra (barro; sucio) - darte  
 tierra - gee  
 Tierra - Geia  
@@ -3685,7 +3685,7 @@ virrey - visoreger
 virtud (moralidad) - bondeke  
 virus - virus  
 visado - vize  
-Vishnú - Visnu  
+Vishnú - Vixnu  
 visitar - kege  
 visitar - kege  
 vista - vidaje  

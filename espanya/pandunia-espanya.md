@@ -176,7 +176,7 @@ ate - acto
 • dusate - pecado  
 • reate - reaccionar  
 • reation - reacción  
-ata - anón (ates,saramuyo)  
+ata - anón (ates, saramuyo)  
 Athina - Atenas  
 Atlanti Hai - océano Atlántico  
 atlantokade - bacalao común  
@@ -479,7 +479,7 @@ Cernagore - Montenegro
 • sucese - prosperar  
 cesium - cesio  
 cete - siete (7)  
-ceti din - semana  
+cetoden - semana  
 Cile - Chile  
 cili - chile  
 cimpanze - chimpancé  
@@ -628,7 +628,7 @@ dinamite - dinamita
 dinde - pavo (guajalote)  
 ding - clavo (pincho, punta)  
 diorite - diorita  
-dise - dispersar (esparcir,desmontar; escaso,disperso,ralo)  
+dise - dispersar (esparcir, desmontar; escaso, disperso, ralo)  
 diske - disco  
 disprosium - disprosio  
 dite - dictar  
@@ -674,22 +674,20 @@ dotoria - doctorado
 dou - legumbre (frijol o arveja)  
 doze - ración (dosis)  
 drame - drama  
-droge - droga (narcótico)  
 Drugia - Bután  
 du - dos (2)  
 • duple - doble  
-duple - dos veces  
+du mar - dos veces  
+dufene - reducir a la mitad (dividir en dos)  
+duisme - dualismo  
 duplomene - doble sentido  
+duromanse - birromántico  
+dusexe - bisexual  
 dua - rezar (orar; rezo, oración)  
 • dusdua - maldecir (maldición)  
 dubnium - dubnio  
-duce - ducha  
 duge - leer  
 duke - triste (pena, tristeza)  
-dulo fene - reducir a la mitad (dividir en dos)  
-dulisme - dualismo  
-dulromanse - birromántico  
-dulsexe - bisexual  
 duman - humo  
 dunia - mundo  
 dunia lingue - lengua mundial  
@@ -704,10 +702,11 @@ dur - durar (llevar tiempo, transcurrir; duración)
 • undure - continuo (analógico)  
 durometrer - cronómetro  
 durozam - era (periodo, época)  
-dus - malo (difícil,duro)  
+dus - malo (difícil, duro)  
 duse - malo (difícil, duro)  
 dusi zar - infortunio (mala suerte)  
 • posprodute - posproducción  
+duxe - ducha  
 
 ## E  
 
@@ -1018,8 +1017,8 @@ geotike - terreno (solar)
 • abogee - apogeo  
 gebria - álgebra  
 gei - gay (homosexual)  
-gel - gel (jalea, gelatina)  
-gelose - celoso (envidioso)  
+gele - gel (jalea)  
+• gelatine - gelatina  
 gem - juego (jugar un juego)  
 • gemer - jugador  
 gene - nacimiento (origen)  
@@ -1069,13 +1068,13 @@ gogia - país (nación, estado, terra)
 • exgogian - extranjero  
 gol - meta (gol, destinación; destinar)  
 gom - goma (caucho, hule, borrador)  
-gone - esquina (rincón,ángulo)  
+gone - esquina (rincón, ángulo)  
 gonmetrer - goniómetro (medidor de ángulos)  
 • diagone - diagonal  
 • poligone - polígono  
 gorile - gorila  
 goton - algodón  
-grafe - imagen (gráfico,dibujo)  
+grafe - imagen (gráfico, dibujo)  
 • grafeme - píxel  
 • grafer - ilustrador  
 grafobuke - libro de cuentos ilustrado  
@@ -1355,6 +1354,9 @@ jeke - prestar (pedir prestado)
 jekocepe - pedir prestado  
 jekodone - prestar  
 jekolexe - préstamo lingüístico  
+jele - encarcelar (aprisionar)  
+• jeler - carcelero  
+• jelokan - cárcel  
 jenisme - jainismo  
 jeng - pelea (guerra, batalla)  
 jenge - macrial (militar)  
@@ -2657,8 +2659,8 @@ porne - porno
 pornografia - pornografía  
 porte - porto  
 • exporte - exportar  
-• reporte - informe (reporte,noticia)  
-• reporte - informe (reporte,noticia)  
+• reporte - informe (reporte, noticia)  
+• reporte - informe (reporte, noticia)  
 reporte - informe (reporte, noticia)  
 reporte - reportar  
 • reporter - reportero  
@@ -2683,33 +2685,30 @@ poter - alfarero
 poteria - alfarería  
 poze - pose (postura)  
 poze - hacer posar (plantar)  
-• depoze - quitar (eliminar,borrar)  
+• depoze - quitar (eliminar, borrar)  
 • expoze - exponer (revelar)  
 • expoze - exponer (revelar)  
 • propoze - proponer (sugerir; propuesta)  
 prasedium - praseodimio  
 prate - práctica  
 prate - práctico  
+• prime - primer (inicial, inaugural)  
 prese - presión  
 • preser - prensa  
 prezidente - presidente  
-prizon - prisión  
-prizone - encarcelar (aprisionar)  
-prizoner - carcelero  
-prizonkan - cárcel  
-• proo - adelante  
+pro - adelante  
 problem - problema  
-probleme - problemático  
+• problemike - problemático  
 profeser - profesor  
 program - programa  
 programer - programador  
 projete - proyecto  
 prometium - prometio  
-prose - próximo  
-• aprose - aproximar  
 proses - proceso (procedimiento)  
 proten - proteína  
 protacinium - proactinio  
+proxe - próximo  
+• aproxe - aproximar  
 pude - podrido (cariado)  
 pudu - pudrirse (cariarse, descomponerse)  
 puding - pudín  
@@ -2938,7 +2937,7 @@ sar - cabeza
 sarkaske - casco (yelmo)  
 saroste - cráneo (calavera)  
 sartunge - dolor de cabeza  
-sate - hora (hora del día,momento)  
+sate - hora (hora del día, momento)  
 sate di - momentáneo  
 satodone - dedicar  
 Saturne - Saturno  
@@ -3067,9 +3066,6 @@ sirke - rodear (cirundar)
 sirke - redondo (circular)  
 sirkite - adoquín  
 siro - cero (ninguno)  
-sise - seis (6)  
-sisfas - hexaedro (cubo)  
-sisgon - hexágono  
 sisme - agitar (sacudir)  
 sismolojia - sismología  
 sistem - sistema  
@@ -3077,6 +3073,10 @@ sisteme - sistémico
 site - ciudad  
 sivile - civilizado  
 sivilia - civilización  
+six - seis (6)  
+• sixime - sixième  
+sixofase - hexaedro (cubo)  
+sixogon - hexágono  
 skale - escalera  
 skale - escalar  
 skalotan - enredadera  
@@ -3384,8 +3384,8 @@ tren - tren
 trendau - vía férrea  
 trete - contrato (tratado)  
 tri - tres (3)  
-• trigone - triángulo  
 • triple - triple  
+trigone - triángulo  
 tripike - tridente  
 tribe - tribu  
 Trinidade e Tobago - Trinidad y Tobago  
@@ -3559,9 +3559,9 @@ visomatre - madrastra
 visopatre - padrastro  
 visopresidante - vicepresidente  
 visoreger - virrey  
-Visnu - Vishnú  
 vite - tornillo  
 vitamin - vitamina  
+Vixnu - Vishnú  
 vize - visado  
 vizin - GMS  
 vode - prometer (promesa, voto)  
@@ -3640,17 +3640,15 @@ xuler - estudiante
 xulkan - escuela (colegio, institución)  
 xulxefe - director de colegio  
 xure - comienzo (inicio, principio; comenzar, iniciar, empezar)  
-• xurime - primer (inicial, inaugural)  
 xute - dotes (arte, habilidad)  
 • xutike - hábil  
 
 ##   
 
 ya - sí  
-yage - estimar (apriximarse a)  
-yago - aproximadamente  
+yage - aproximadamente  
+yagife - estimar (apriximarse a)  
 yagones - península  
-yege pes - pescar  
 yahve - Yahvé (Jehová)  
 yahude - judío  
 yahudisme - judaísmo  
@@ -3679,6 +3677,7 @@ ye - él o ella
 yemon - ellos o ellas  
 yege - cazar (pescar)  
 • yeger - cazador  
+yege pexe - pescar  
 yei - yupi  
 Yemen - Yemen  
 jen - persona  
@@ -3718,7 +3717,7 @@ zaitun - aceituna
 zalime - mezquino (antipático, cruel)  
 • zalimia - crueldad (tiranía)  
 zalime reger - tirano (déspota)  
-zaman - tiempo (era,periodo,época)  
+zaman - tiempo (era, periodo, época)  
 Zambia - Zambia  
 zanger - artesano  
 zar - riesgo (posibilidad; azar, aleatorio)  
@@ -3737,6 +3736,7 @@ zay zaman - presente
 zay zaman su - actual  
 Zayeria - Argelia  
 zebra - cebra  
+• zelose - celoso (envidioso)  
 • rezerve - reservar (réservation)  
 zigzage - zigzag  
 zikure - zigurat  

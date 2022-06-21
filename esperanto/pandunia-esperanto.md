@@ -293,7 +293,7 @@ ceresium - cerio
 • sucese - sukcesi  
 cesium - cezio  
 cete - sep (7)  
-ceti din - semajno  
+cetoden - semajno  
 Cile - Ĉilio  
 cimpanze - ĉimpanzo  
 cine - hana  
@@ -406,9 +406,9 @@ dou - fabo aŭ pizo
 doze - porcio (dozo)  
 drame - dramo  
 du - du (2)  
+• duime - dua  
 dua - preĝo  
 dubnium - dubnio  
-duce - duŝo  
 duge - legi  
 duke - malĝoja  
 duman - fumo  
@@ -417,6 +417,7 @@ dunia lingue - mondlingvo
 dur - daŭri  
 • duro - ankoraŭ  
 • durize - daŭrigi  
+duxe - duŝo  
 
 ## E  
 
@@ -600,7 +601,7 @@ geografia - geografio
 geometria - geometrio  
 geosisme - tertremo  
 gei - samseksema  
-gel - ĝelo  
+gele - ĝelo  
 gem - ludo  
 • gemer - ludanto  
 gene - nasko  
@@ -788,6 +789,8 @@ janelfrem - fenestrokadro
 janelovel - kurteno  
 jau - hordeo  
 jebe - poŝo  
+jele - malliberigi  
+• jelokan - malliberejo  
 jenisme - Ĝajnismo  
 jeng - milito (batalo)  
 jenge - milita  
@@ -1406,14 +1409,12 @@ pote - kruĉo
 prese - premo  
 • preser - premilo  
 prezidente - prezidento  
-prizone - malliberigi  
-prizonkan - malliberejo  
 problem - problemo  
 profeser - profesoro  
 program - programo  
 prometium - prometio  
-prose - proksima  
 protacinium - protaktinio  
+proxe - proksima  
 pul - ponto  
 pulmon - pulmo  
 punte - punkto  
@@ -1587,6 +1588,8 @@ sirke - ĉirkaŭi
 sismolojia - sismologio  
 sistem - sistemo  
 site - urbo  
+six - sis  
+• sixime - sisa  
 skale - ŝtuparo  
 skandium - skandio  
 skulte - skulti (statuo, skultaĵo)  
@@ -1797,7 +1800,7 @@ virge - virga (virgulo)
 vise - vic-  
 visomatre - vicpatrino  
 visopatre - vicpatro  
-Visnu - Viŝnuo  
+Vixnu - Viŝnuo  
 vode - promesi  
 • vokal son - vokalo  
 vol - voli  

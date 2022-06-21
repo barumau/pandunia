@@ -289,12 +289,10 @@
 **dou** *fabo aŭ pizo* ← mandarena:豆 (dòu), kantona:豆 (dau6), vua:豆 (deu3), japana:豆 (tō), korea:두 (du), vjetnama:đậu  
 **doze** *porcio (dozo)* ← angla:portugala:franca:dose, rusa:доза (doza), deu:hispana:dosis, turka:doz, malaja:dos  
 **drame** *dramo* ← angla:hispana:portugala:malaja:svahila:drama, franca:drame, rusa:дра́ма, araba:دْرَامَا‎ (drāmā), hindia:ड्रामा (ḍrāmā), japana:ドラマ (dorama)  
-**droge** ** ← angla:drug, hispana:droga, franca:drogue, deu:Droge  
 **Drugia** ** ← bhuའབྲུག་ཡུལ (ʈuk̚˩, yː˩), tib:འབྲུག་ཡུལ་ (drugyul)  
 **du** *du (2)* ← franca:deux, hispana:dos, rusa:два (dva), hindia:दो (do), bengala:দুই (dui) + malaja:dua + korea:둘 (dul)  
 **dua** *preĝo* ← araba: دُعَاء‏  (duʿāʾ), hindia:दुआ (duā), bengala:দুয়া (dua), malaja:doa, svahila:turka:dua, haŭsa:àddu'ā̀, joruba:àdúrà + mandarena:祈祷 (dǎo), japana:禱 (tō), korea:도 (do)  
 **dubnium** *dubnio* ← angla:dubnium, franca:dubnium, hispana:dubnio, portugala:dúbnio, rusa:дубний, ²нильсборий, mandarena: (dù), japana:ドブニウム, korea:더브늄, vjetnama:dubni, hindia:डब्नियम, bengala:ডুবনিয়াম, malaja:dubnium, svahila:dubni, araba: دبنيوم  
-**duce** *duŝo* ← franca:douche, hispana:portugala:ducha, deu:Dusche, rusa:душ (duš), araba: دوش (dūš), malaja:dus, turka:duş  
 **duge** *legi* ← mandarena:读 (dú), kantona:讀 (duk6), vjetnama:đọc, zha:dog, japana:(doku-)  
 **duke** *malĝoja* ← hindia:दुःख (duḥkh), bengala:দুঃখ (dukhô), taja:ทุกข์ (tuk), malaja:duka, angla:dukkha  
 **duman** *fumo* ← hindia:धूआँ (dhuã), turka:duman, rusa:дым (dym), kanara:(dhūma), bengala:ধোঁয়া (dhõẇa)  
@@ -304,6 +302,7 @@
 **dur** *daŭri* ← angla:duration, franca:durée, hispana:portugala:durar + bengala:ধরে (dhôre), hindia:दौरान (daurān)  
 **dus** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
 **duse** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
+**duxe** *duŝo* ← franca:douche, hispana:portugala:ducha, deu:Dusche, rusa:душ (duš), araba: دوش (dūš), malaja:dus, turka:duş  
 **e** *kaj* ← franca:et, portugala:e, hispana:y;e, mandarena:和 (hé)  
 **eglis** *preĝejo* ← angla:ecclesia-, franca:église, hispana:iglesia, portugala:igreja, hindia:गिरजा (girjā), malaja:gereja, araba:(kanisā), svahila:kanisa, turka:kilise  
 **ekia** *naturo* ← angla:hispana:portugala:eco-, franca:éco-, deu:öko-, rusa:эко-, turka:malaja:eko-  
@@ -429,8 +428,7 @@
 **gebria** ** ← araba:persa:(jabr), turka:cebir, urdua:(aljabrā), angla:algebra, franca:algèbre, svahila:aljebra  
 **gee** ** ← angla:hispana:portugala:geo-, franca:géo-, rusa:гео- (geo-)  
 **gei** *samseksema* ← angla:franca:hispana:gay, portugala:guei  
-**gel** *ĝelo* ← angla:gel, franca:gelée, rusa:желе (žele), turka:jel, hindia:जेल (jel), korea:젤 (jel), mandarena:啫哩 (zhělī), vjetnama:chất gien  
-**gelose** ** ← angla:jealous, hispana:celoso, franca:jaloux  
+**gele** *ĝelo* ← angla:gel, franca:gelée, rusa:желе (žele), hindia:जेल (jel), korea:젤 (jel), mandarena:啫哩 (zhělī), vjetnama:chất gien, turka:jel  
 **gem** *ludo* ← angla:game, taja:เกม (geem), japana:ゲーム (gēmu), korea:게임 (geim)  
 **gence** ** ← mandarena:检查 (jiǎnchá), kantona:檢查 (gimcaa), vjetnama:kiểm tra, jpn, 検査 (kensa)  
 **gene** *nasko* ← greka: γέννα (génna), angla:genesis, franca:genèse + hindia:जन्म (janma), malajala:ജനനം (jananaṃ) + japana:源 (gen)  
@@ -566,6 +564,7 @@
 **jebe** *poŝo* ← hindia:जेब (jeb), panĝaba:ਜੇਬ (jeb), urdua:(jeb), teluga:(jēbu), araba:(jayb), turka:cep, volofa:jiba  
 **jeke** ** ← mandarena:借 (jiè), kantona:借 (ze3), vua:借 (jia2), japana:借 (shaku), korea:적 (jeok) + angla:check  
 **jekocepe** ** ← mandarena:借 (jiè), kantona:借 (ze3), japana:借 (shaku), korea:적 (jeok) + angla:check  
+**jele** *malliberigi* ← angla:jail, franca:geôle, hindia:जेल (jel), bengala:জেল (jēl), teluga:జైలు (jailu), urdua: جیل‎ (jēl), svahila:jela + hispana:portugala:jaula  
 **jen** *persono* ← mandarena:人 (rén), wuu人 (zén), japana:人 (jin) + hindia:जन (jan), bengala:-জন (-jôn), malaja:-jana, taja:ชน (chon), kmera:ជន (jon) + franca:gens, portugala:gente  
 **jeng** *milito (batalo)* ← mandarena:爭 (zhēng), vjetnama:tranh, korea:전쟁 (jeonjaeng), turka:kur:ceng, persa:urdua:(jang), hindia:जंग (jang)  
 **jengoxute** ** ← mandarena:武术 (wǔshù), japana:武術 (bujutsu), vjetnama:võ thuật, korea:무술 (musul), angla:martial art  
@@ -1122,15 +1121,14 @@
 **prate** ** ← angla:practice, franca:pratique, portugala:prática, turka:pratik, polona:praktyka, hindia:प्रथा (prathā)  
 **prese** *premo* ← franca:pression, hispana:presión, portugala:pressão, rusa:пресс (press), japana:プレス (puresu)  
 **prezidente** *prezidento* ← angla:president, hispana:portugala:presidente, rusa:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), persa:پرزیدنت‎ (perezident), malaja:presiden  
-**prizon** ** ← angla:franca:prison, hispana:prisión, portugala:prisão  
 **problem** *problemo* ← angla:problem, franca:problème, hispana:portugala:problema, rusa:проблема (problema), bengala:প্রব্লেম (prôblem)  
 **profeser** *profesoro* ← angla:portugala:professor, hispana:profesor, rusa:профессор (professor), turka:profesör, svahila:profesa, persa:پروفسور‎ (profesor), hindia:प्रोफ़ेसर (profesar)  
 **program** *programo* ← angla:malaja:turka:program, franca:programme, portugala:hispana:programa, rusa:программа (programma), japana:プログラム (puroguramu), korea:프로그램 (peurogeuraem), hindia:प्रोग्राम (progrām), svahila:programu  
 **projete** ** ← franca:projet, portugala:projeto, angla:project, hispana:proyecto, rusa:проект (proyekt), hindia:प्रोजैक्ट (projaikṭ), bengala:প্রজেক্ট (prôjekṭ), japana:プロジェクト (purojekuto), korea:프로젝트 (peurojekteu), turka:proje  
 **prometium** *prometio* ← angla:promethium, franca:prométhium, hispana:prometio, portugala:promécio, rusa:прометий, mandarena:钷 (pǒ), japana:プロメチウム, korea:프로메튬, vjetnama:prometi, hindia:प्रोमेथियम, bengala:প্রমিথিয়াম, malaja:prometium, svahila:promethi, araba: بروميثيوم  
-**prose** *proksima* ← franca:proche, hispana:portugala:próximo  
 **proses** ** ← angla:process, hispana:proceso, portugala:processo, rusa:процесс (process), persa:پروسه‎ (prose), malaja:proses, japana:プロセス (purosesu), korea:프로세스 (peuroseseu)  
 **protacinium** *protaktinio* ← angla:protactinium, franca:protactinium, hispana:proactinio, portugala:protacnídio, rusa:протактиний, mandarena:镤 (pú), japana:プロトアクチニウム, korea:프로트악티늄, vjetnama:protactini, hindia:प्रोटैक्टीनियम, bengala:প্রোটেক্টিনিয়াম, malaja:protaktinium, svahila:protaktini, araba: بروتكتنيوم  
+**proxe** *proksima* ← franca:proche, hispana:portugala:próximo  
 **pude** ** ← angla:putrid, hispana:portugala:podre, franca:putride + mandarena:腐 (fǔ), japana:腐 (fu) + taja:ผุ (phu)  
 **puding** ** ← angla:pudding, hispana:pudín, rusa:пудинг (puding), turka:malaja:puding, svahila:pudini, araba:بودنغ (budingh), mandarena:布丁 (bùdīng), japana:プディング (pudingu)  
 **pul** *ponto* ← hindia:पुल (pul), bengala:পুল (pul), urdua:(pul), persa:(pol)  
@@ -1267,11 +1265,11 @@
 **sirke** ** ← angla:circle, hispana:portugala:círculo, franca:cercle  
 **siro** ** ← araba: صِفْر‎ (ṣifr), svahila:sifuri, hindia:सिफ़र (sifar), malaja:sifar, angla:portugala:zero, franca:zéro, hispana:cero, rusa:зеро (zero), japana:ゼロ (zero), korea:제로 (jero), vjetnama:zêrô  
 **sis** ** ← turka:şiş + angla:shish-, rusa:шиш- (šiš-)  
-**sise** ** ← angla:franca:six, hispana:portugala:seis, deu:sechs, rusa:шесть (shest’), araba:ستة‎ (sitta)  
 **sisme** ** ← greka:σεισμός (seismós), angla:seism, hispana:sismo, franca:séisme, turka:sismik  
 **sistem** *sistemo* ← angla:system, hispana:portugala:sistema, franca:système, rusa:система (sistema), hindia:सिस्टम (sisṭam), bengala:সিস্টেম (śiśṭem), malaja:sistem  
 **site** *urbo* ← angla:city, franca:cité, portugala:cidade, hispana:ciudad, itala:città + mandarena:市 (shì), korea:시 (si), japana:都市 (toshi)  
 **sivile** ** ← angla:civil, portugala:civil, hindia:सिविल (sivil), malaja:sipil  
+**six** *sis* ← angla:franca:six, hispana:portugala:seis, deu:sechs, rusa:шесть (shest’) + araba:ستة‎ (sitta)  
 **siyahe** *nigra* ← persa:سیاه‎ (siyâh), hindia:सियाह (siyāh), urdua:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turka:siyah  
 **skale** ** ← hispana:portugala:escalar + franca:escalier + angla:scale, deu:Skale, rusa:шкала (škala)   
 **skandium** *skandio* ← angla:scandium, franca:scandium, hispana:escandio, portugala:escândio, rusa:скандий, mandarena:钪 (kàng), japana:スカンジウム, korea:스칸듐, vjetnama:scandi, hindia:स्काण्डियम, bengala:স্ক্যান্ডিয়াম, malaja:skandium, svahila:skandi, araba: سكانديوم  
@@ -1507,7 +1505,7 @@
 **xure** *komenci* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
 **xute** ** ← mandarena:术 (shù), kantona:術 (seot6), japana:術 (jutsu), korea:술 (sul)  
 **ya** *jes* ← angla:yeah, deu:ja, malaja:ya + mandarena:呀 (ya)  
-**yago** ** ← korea:약 (yag), japana:約 (yaku), kantona:約 (yœk), turka:yaklaşık, mandarena:约 (yuē)  
+**yage** ** ← korea:약 (yag), japana:約 (yaku), kantona:約 (yœk), mandarena:约 (yuē) + turka:yaklaşık  
 **yake** ** ← angla:deu:franca:hispana:turka:yak, portugala:iaque, hindia:याक (yāk)  
 **yame** *manĝi (trinki)* ← kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam  
 **yang** *speco (tipo, stilo)* ← mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)  
@@ -1608,3 +1606,4 @@
 **• trator** *traktoro* ← angla:hispana:tractor, franca:tracteur, portugala:trator, rusa:трактор (traktor), araba: تَرَاكْتُور‎ (tarāktūr), japana:トラクター (torakutā), korea:트랙타 (teuraekta), hindia:ट्रैक्टर (ṭraikṭar), bengala:ট্র্যাক্টর (ṭrækṭôr), malaja:traktor, svahila:trekta, turka:traktör  
 **• vokal son** *vokalo* ← deu:Vokal, hispana:vocal, portugala:vogal, angla:vowel, franca:voyelle  
 **• xofer** *ŝoforo (kondukisto)* ← franca:angla:deu:chauffeur, hispana:portugala:chofer, rusa:шофёр (šofjor), polona:szofer, taja: โชเฟอร์ (chofoe), turka:şoför, persa:(šofer)  
+**• zelose** ** ← angla:jealous, hispana:celoso, franca:jaloux  

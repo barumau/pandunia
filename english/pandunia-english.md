@@ -222,15 +222,15 @@ astronomia - astronomy
 Asur - Assur  
 Asuria - Assyria  
 ate - act (deed)  
-• ater - agent (doer,actor)  
+• ater - agent (doer, actor)  
 • ation - action  
 • ative - active (working; activate, enable, turn on, trigger)  
 • ativate - activate (turn on)  
-• anative - off (deactivated,disabled,inactive)  
+• anative - off (deactivated, disabled, inactive)  
 • ature - work (product)  
-• deative - deactivate (disable,turn off)  
+• deative - deactivate (disable, turn off)  
 • deativate - deactivate (turn off)  
-• dusate - misdeed (sin,vice)  
+• dusate - misdeed (sin, vice)  
 • intation - interaction  
 • interate - interact  
 • interative - interactive  
@@ -568,10 +568,11 @@ cese - pass (go)
 • procesor - processor  
 • recese - recede (retreat)  
 • recesion - recession  
-• sucese - succeed (go well,prosper)  
+• sucese - succeed (go well, prosper)  
 cesium - caesium  
 cete - seven (7)  
-ceti din - week  
+• cetime - seventh  
+cetoden - week  
 Cile - Chile  
 cili - pepper (capsicum)  
 cili fun - paprika  
@@ -714,6 +715,7 @@ den ceti - Sunday
 denge - wait  
 des - ten (10)  
 deskilo - ten thousand  
+desosixike - hexadecimal  
 desen - drawing (design)  
 detal - detail  
 deu - god (deity)  
@@ -747,7 +749,7 @@ dinde - turkey
 ding - nail (spike)  
 Dione - Dione  
 diorite - diorite  
-dise - disperse (spread out,scatter; sparse)  
+dise - disperse (spread out, scatter; sparse)  
 diske - disc (disk)  
 disprosium - dysprosium  
 dite - dictate  
@@ -761,7 +763,7 @@ dite - dictate
 Divehia - Maldives  
 Doice - Germany  
 doice - German  
-doke - prove (demonstrate,show,instruct)  
+doke - prove (demonstrate, show, instruct)  
 • dokaje - doctrine (body of teachings)  
 • dokente - docent  
 • doker - doctor  
@@ -807,25 +809,24 @@ dou - bean or pea (legume)
 doze - portion (dose)  
 drame - drama  
 dramironia - dramatic irony  
-droge - drug (intoxicating substance)  
 Drugia - Bhutan  
 du - two (2)  
+• duime - second (2nd)  
 • duple - double (twofold)  
-duple - twice  
-duplomene - double entendre  
+du mar - twice  
 du o tri - a couple of  
+dufene - halve (divide by two)  
+dugrafe - anaglyphic (stereoscopic)  
+duisme - dualism  
+duplomene - double entendre  
+duromanse - biromantic  
+dusexe - bisexual  
+dusonike - stereophonic  
 dua - pray (beg, entreat, implore; prayer)  
 • dusdua - curse (damn, malediction)  
 dubnium - dubnium  
-duce - shower  
 duge - read  
 duke - grief (sorrow, sadness; sad; grieve)  
-dulo fene - halve (divide by two)  
-dulgrafe - anaglyphic (stereoscopic)  
-dulisme - dualism  
-dulromanse - biromantic  
-dulsexe - bisexual  
-dulsonde - stereophonic  
 duman - smoke  
 dunia - world  
 dunia lingue - world language  
@@ -841,7 +842,7 @@ dur - last (take time; elapse, pass by, go by; during; duration, time interval)
 • undure - continuous (analog)  
 durometrer - stopwatch  
 durozam - period (era, epoch, term)  
-dus - bad (unfavorable,negative,evil,wicked,troublesome,difficult)  
+dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 duse - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dusi zar - misfortune (bad luck)  
 dute - lead (bring to)  
@@ -855,6 +856,7 @@ dute - lead (bring to)
 • produter - producer  
 • posprodute - post-production  
 • redute - reduce (lead back, take back)  
+duxe - shower  
 
 ## E  
 
@@ -987,7 +989,7 @@ fente - blow (wind)
 • fentor - blower (fan)  
 fentopanke - fan (ventilator)  
 fer - iron  
-fere - deem (consider,regard,assign some quality to)  
+fere - deem (consider, regard, assign some quality to)  
 • disfere - differ (be different)  
 • infere - infer  
 • prefere - prefer (assess before)  
@@ -1002,7 +1004,7 @@ fete - do (make; deed, fact)
 • fetokan - factory  
 • feture - feature (product of work)  
 • defete - defeat (do away with)  
-• exfete - effect (impact,influence,affect)  
+• exfete - effect (impact, influence, affect)  
 • exfetive - effective (influential)  
 • infete - infect  
 • infetion - infection  
@@ -1081,7 +1083,7 @@ forme - form (shape)
 • dusforme - malform (disfigure; malformed, deformed, disfigured)  
 • informe - inform (organize knowledge)  
 • informaje - information (organized knowledge)  
-• konforme - conform (fit,mold)  
+• konforme - conform (fit, mold)  
 • riforme - reform  
 forum - forum (public space)  
 fote - light (illumination)  
@@ -1147,7 +1149,7 @@ fuzopetre - lava
 Gabon - Gabon  
 gabre - grave (tomb; bury)  
 gabrite - tombstone (gravestone)  
-gabrostan - graveyard (cemetery,burial ground)  
+gabrostan - graveyard (cemetery, burial ground)  
 gade - donkey (ass)  
 gadogude - mule  
 gadolinium - gadolinium  
@@ -1240,8 +1242,8 @@ geotike - lot (plot of land)
 • abogee - apogee  
 gebria - algebra  
 gei - gay (homosexual)  
-gel - gel (jelly)  
-gelose - jealous  
+gele - gel (jelly)  
+• gelatine - gelatin  
 gem - game (play a game)  
 • gemer - player (gamer)  
 gene - birth (beget, create, breed, generate, produce)  
@@ -1532,7 +1534,7 @@ hume - humus (mold)
 • humaniste - humanist  
 • humanoide - humanoid  
 • exhume - exhume  
-• inhume - bury (inter,inhume)  
+• inhume - bury (inter, inhume)  
 human hake - human rights  
 humor - humor  
 humore - humorous (comical, funny)  
@@ -1636,6 +1638,9 @@ jeke - borrow (lend)
 jekocepe - borrow  
 jekodone - lend  
 jekolexe - loanword  
+jele - imprison (jail)  
+• jeler - jailer (imprisoner)  
+• jelokan - prison  
 jenisme - Jainism  
 jeng - fight (war, battle, combat)  
 jenge - military (martial, warlike)  
@@ -1643,7 +1648,7 @@ jenge - military (martial, warlike)
 jengoxute - martial art  
 jenju - pearl  
 Jerzi - Jersey  
-jete - thrust (throw,cast)  
+jete - thrust (throw, cast)  
 • jetaje - projectile (missile)  
 • ajetive - adjective  
 • exjete - eject (throw out)  
@@ -1671,7 +1676,7 @@ judau - judo
 jul - joule (J)  
 junte - joint (join)  
 • juntion - junction  
-• junture - juncture (junction,intersection)  
+• junture - juncture (junction, intersection)  
 juntolexe - conjunction  
 jupe - skirt  
 jupiter - Jupiter  
@@ -2446,7 +2451,7 @@ mene - mean (signify)
 mendelevium - mendelevium  
 meninge - meninx (meninges)  
 meningitis - meningitis  
-mente - mind (ability for consciousness,perception and thinking)  
+mente - mind (ability for consciousness, perception and thinking)  
 menter - advisor (counselor, mentor)  
 • demente - demented (out of one’s mind)  
 menu - menu  
@@ -2516,7 +2521,7 @@ minte - mint
 minute - minute  
 mire - wonder  
 mire - reflect  
-• mirable - wonderful (marvel,mirable)  
+• mirable - wonderful (marvel, mirable)  
 • miraje - mirage  
 • mirokle - miracle  
 • miror - mirror  
@@ -2553,7 +2558,7 @@ mixer - mixer (blender)
 • mixure - mixture  
 mode - way (manner, mode)  
 modologe - adverb  
-• konmode - comfortable (convenient,commodious)  
+• konmode - comfortable (convenient, commodious)  
 • akonmode - accommodate   
 model - model (design)  
 modele - model (design)  
@@ -2577,7 +2582,7 @@ Monako - Monaco
 mongole - Mongol  
 Mongolia - Mongolia  
 monoster - monster  
-monte - mountain (mount,hill)  
+monte - mountain (mount, hill)  
 • montaner - mountaineer  
 • montete - hill  
 morfe - morph  
@@ -2673,8 +2678,8 @@ nanomitre - nanometer
 nanas - pineapple  
 narake - hell  
 narde - backgammon  
-narke - drug (narcotic,dope,intoxicating substance)  
-• narke - intoxicated (high,stoned)  
+narke - drug (narcotic, dope, intoxicating substance)  
+• narke - intoxicated (high, stoned)  
 • narkiste - drug addict  
 • narkoze - narcosis  
 nas - people (folk)  
@@ -2689,7 +2694,7 @@ nasmede - international
 • polinasike - multinational  
 nasibe - destiny (fate)  
 • nature - nature  
-• innate - innate (endogenous,indigenous,inborn)  
+• innate - innate (endogenous, indigenous, inborn)  
 • posnatal - postnatal  
 • prenatal - prenatal  
 • rinate - rebirth (renaissance)  
@@ -2820,8 +2825,8 @@ nuke - neck (nape)
 nume - number (count; enumerate)  
 nunce - announce (declare)  
 • denunce - denounce (announce the termination of)  
-• pronunce - pronounce (proclaim,promulgate)  
-• renunce - renounce (decline,reject)  
+• pronunce - pronounce (proclaim, promulgate)  
+• renunce - renounce (decline, reject)  
 nuton - newton (N)  
 
 ## O  
@@ -2865,8 +2870,8 @@ Oromia - Oromia
 orte - straight  
 ortogon - right angle  
 ortogone - orthogonal (perpendicular)  
-os - many (plural,-s)  
-• osi - many (multiple,several)  
+os - many (plural, -s)  
+• osi - many (multiple, several)  
 oselote - ocelot  
 osidian - obsidian  
 oskope - scope (viewer)  
@@ -2878,7 +2883,7 @@ oste - bone
 ostogamia - skeleton (frame)  
 ostosalke - scute  
 Ostria - Austria  
-ote - opt (prefer,choose)  
+ote - opt (prefer, choose)  
 • otime - optimum  
 • otimal - optimal  
 • otimisme - optimism  
@@ -3018,7 +3023,7 @@ paunde - pound (£)
 • repause in pace (RIP) - rest in peace (RIP)  
 pauze - pause (break, interruption)  
 pauze - pause (interrupt)  
-pede - bring up (educate,raise)  
+pede - bring up (educate, raise)  
 • pedia - education (upbringing)  
 • pedocentriste - pedocentrist  
 • pedofilisme - pedophilia  
@@ -3036,7 +3041,7 @@ peikarer - professional (pro)
 pele - drive  
 • apele - appeal (drive to oneself)  
 • depele - drive away  
-• dispele - dispel (disperse,drive asunder)  
+• dispele - dispel (disperse, drive asunder)  
 • expele - expel (drive out)  
 • inpele - impel (drive into)  
 • konpele - drive together  
@@ -3202,7 +3207,7 @@ poteria - pottery
 poze - pose (position)  
 poze - pose (set, plant)  
 • pozia - position  
-• depoze - remove (delete,dispose,erase)  
+• depoze - remove (delete, dispose, erase)  
 • expoze - expose    
 • expoze - expose (reveal)  
 • expoze - expose (reveal)  
@@ -3217,33 +3222,30 @@ poze - pose (set, plant)
 prasedium - praseodymium  
 prate - practice (actuality)  
 prate - practical (pragmatic)  
+• prime - initial (first; prime)  
 prese - press (pressure)  
 • preser - press device  
 • deprese - depress (push away)  
 • exprese - express (push out)  
-• konprese - compress (squeeze,squish)  
+• konprese - compress (squeeze, squish)  
 • represe - repress (push back)  
 • suboprese - suppress (press down)  
 prezidente - president  
-prizon - prison (imprisonment)  
-prizone - imprison (jail)  
-prizoner - jailer (imprisoner)  
-prizonkan - prison  
-pro- - forward (to the front)  
-• proo - forward  
+pro - forward  
+• pro- - forward (to the front)  
 problem - problem (issue)  
-probleme - problematic  
+• problemike - problematic  
 profeser - professor  
 program - program (set of structured activities)  
 programer - programmer (coder)  
 projete - project (endeavour)  
 prometium - promethium  
-prose - close (near)  
-• aprose - approach (get close,approximate)  
-• aprosime - approximate  
 proses - process (procedure)  
 proten - protein  
 protacinium - protactinium  
+proxe - close (near)  
+• aproxe - approach (get close, approximate)  
+• aproxime - approximate  
 pude - rotten  
 pudu - decay (rot, deteriorate)  
 puding - pudding  
@@ -3293,7 +3295,7 @@ radometrer - radiometer
 radike - root  
 • radikal - radical (going to the roots)  
 • exradike - eradicate (uproot)  
-• inradike - radicate (irradicate,root deeply)  
+• inradike - radicate (irradicate, root deeply)  
 radon - radon  
 rai - opinion (view)  
 raye - deem (opine, think that)  
@@ -3472,7 +3474,7 @@ salade - salad
 salmon - salmon (trout)  
 salte - salt  
 Salvador - El Salvador  
-salve - save (rescue,salvage)  
+salve - save (rescue, salvage)  
 • salver - savior (rescuer)  
 same - same (equal, match)  
 samdexe - compatriot  
@@ -3509,7 +3511,7 @@ sar - head
 sarkaske - helmet  
 saroste - skull  
 sartunge - headache  
-sate - time (clock time,moment,hour)  
+sate - time (clock time, moment, hour)  
 sate di - momentary  
 satodone - dedicate (devote)  
 satodonia - dedication (devotion)  
@@ -3566,9 +3568,9 @@ sense - sense (perceive, detect)
 • sensor - sensor (detector)  
 sente - feel (sense by touch)  
 senter - tentacle (feeler)  
-sere - series (sequence,succession)  
+sere - series (sequence, succession)  
 ser: - link  
-• seria - series (sequence,succession)  
+• seria - series (sequence, succession)  
 seria - series (sequence)  
 serlinke - link  
 sernete - chain mail  
@@ -3638,7 +3640,7 @@ sing - lion
 Singapur - Singapore  
 sinye - sign (signal, indication)  
 • sinyal - signal  
-• asinye - assign (ascribe,attribute)  
+• asinye - assign (ascribe, attribute)  
 • desinye - designate (mark out)  
 • dusosinye - ominous (foreboding)  
 sir - secret (hidden)  
@@ -3652,9 +3654,6 @@ sirke - surround (encircle)
 sirke - round (circular)  
 sirkite - cobblestone  
 siro - zero (none)  
-sise - six (6)  
-sisfas - hexahedron (cube)  
-sisgon - hexagon  
 sisme - shake (jolt, earthquake)  
 sismolojia - seismology  
 sistem - system  
@@ -3662,6 +3661,10 @@ sisteme - systemic
 site - city (town)  
 sivile - civilized (civil)  
 sivilia - civilization  
+six - six (6)  
+• sixime - sixth  
+sixofase - hexahedron (cube)  
+sixogon - hexagon  
 skale - stairs (ladder)  
 skale - climb (get on)  
 • deskale - get off (descend)  
@@ -3673,7 +3676,7 @@ Skotia - Scotland
 skulte - sculpt  
 • skultia - sculpture (art of sculpting)  
 • skulter - sculptor  
-skute - scoot (ride a scooter,move while sitting)  
+skute - scoot (ride a scooter, move while sitting)  
 • skuter - scooter  
 slave - Slavic  
 Slovakia - Slovakia  
@@ -4010,15 +4013,16 @@ trate - drag (haul, tow, trail)
 • distrate - distract (pull apart)  
 • extrate - extract (draw out)  
 • extrator - extractor  
-• kontrate - agreement (treaty,contract)  
+• kontrate - agreement (treaty, contract)  
 tren - train  
 trendau - rail (railway, railroad)  
 trenkaper - train hijacker  
 trete - agreement (treaty)  
 trete - agree (make an agreement)  
 tri - three (3)  
-• trigone - triangle  
+• trime - third  
 • triple - triple (threefold)  
+trigone - triangle  
 • trigonometria - trigonometry  
 tripike - trident  
 tribe - tribe  
@@ -4047,7 +4051,7 @@ Tunisia - Tunisia
 tupe - hat (cap)  
 turbe - whirl (dizz; disorientate, trouble, disturb, bother, annoy)  
 • turbin - turbine  
-• disturbe - disturb (disturbance,turbulence)  
+• disturbe - disturb (disturbance, turbulence)  
 turbojeter - turbojet  
 turfe - peat  
 turke - Turkish  
@@ -4137,17 +4141,17 @@ veye - traverse (horizontal)
 veilin - weft  
 veisirke - latitude  
 vele - veil  
-• devele - unveil (reveal,uncover)  
+• devele - unveil (reveal, uncover)  
 • invelaje - envelope (enfold)  
 ven - come  
 • avene - advent  
-• cirkovene - get around (avoid,circumvent)  
-• exvene - come out (happen,event)  
+• cirkovene - get around (avoid, circumvent)  
+• exvene - come out (happen, event)  
 • invene - invent  
 • intervene - intervene (come between)  
 • konvene - convene (come together)  
 • pervene - reach (arrive)  
-• prevene - prevent (stop,keep from,come in the way of)  
+• prevene - prevent (stop, keep from, come in the way of)  
 • revene - come back (return)  
 • subvene - subvene  
 vende - sell (vend)  
@@ -4165,7 +4169,7 @@ vere - true (real, genuine)
 verme - worm  
 vermute - vermouth  
 verse - turn toward (direct, flip; versus)  
-• version - version (variation,edition)  
+• version - version (variation, edition)  
 • deverse - avert  
 • disverse - diverse  
 • exverse - extroverted (outgoing)  
@@ -4194,7 +4198,7 @@ vidopunte - perspective (point of view)
 • dusvide - ugly (unsightly)  
 • exvide - evident (apparent, obvious)  
 • exvidable - obvious (evident)  
-• previde - foresee (anticipate,preview)  
+• previde - foresee (anticipate, preview)  
 • anprevide - unexpected  
 • rivide - revise (look over again)  
 antransvidable - opaque  
@@ -4220,7 +4224,7 @@ violete - purple (violet)
 vir - hero  
 vire - heroic  
 Virge - Virgo  
-virge - virgin (pristine,virginal)  
+virge - virgin (pristine, virginal)  
 Virgin nesia - Virgin Islands, US  
 virus - virus  
 viruslojia - virology  
@@ -4230,9 +4234,9 @@ visopatre - step-father
 visopresidante - vice-president  
 visoreger - viceroy  
 viski - whisky (whiskey)  
-Visnu - Vishnu  
 vite - screw  
 vitamin - vitamin  
+Vixnu - Vishnu  
 vize - visa  
 vizin - MSG (monosodium glutamate)  
 vode - promise (vow, oath, pledge)  
@@ -4328,17 +4332,15 @@ xulkamar - classroom
 xulkan - school (institution)  
 xulxefe - headmaster (principal)  
 xure - begin (start, commence, initiate)  
-• xurime - initial (first)  
 xute - skill (art, craft)  
 • xutike - skillful (crafty)  
 
 ## Y  
 
 ya - yes  
-yage - estimate (approximate)  
-yago - about (approximately, nearly, almost)  
+yage - about (approximately, nearly, almost)  
+yagife - estimate (approximate)  
 yagones - peninsula  
-yege pes - catch fish  
 yahve - Yahweh (Jehovah)  
 yahude - Jewish  
 yahudisme - Judaism  
@@ -4371,6 +4373,7 @@ yemon su - their
 ye su - its (his, her)  
 yege - hunting (fishing)  
 • yeger - hunter (chasseur)  
+yege pexe - catch fish  
 yei - yay! (yeah!)  
 Yemen - Yemen  
 jen - person (individual)  
@@ -4434,6 +4437,7 @@ zay zaman - present time (now)
 zay zaman su - current (contemporary, present-day)  
 Zayeria - Algeria  
 zebra - zebra  
+• zelose - jealous  
 • rezerve - reserve (book; reservation, booking, withholding)  
 zeta - zetta-  
 zeze - fly  

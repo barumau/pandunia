@@ -15,7 +15,7 @@ acesso (acceder) - acese
 aclamar - proklame  
 acordado - desome  
 acordo (tratado, contrato) - trete  
-acordo (tratado,contrato) - kontrate  
+acordo (tratado, contrato) - kontrate  
 acordo - samrayia  
 actuel (courant) - zay zaman su  
 actínio - acinium  
@@ -81,7 +81,7 @@ apodrecer-se - pudu
 apogeu - abogee  
 aprender - xule  
 apropriado (apto) - hape  
-aproximar - aprose  
+aproximar - aproxe  
 ar - air  
 arame - metallin  
 aranha - arane  
@@ -458,7 +458,7 @@ dor de cabeça - sartunge
 dormir (sono) - some  
 doutrina - dokaje  
 droga (narcótico) - narke  
-ducha - duce  
+ducha - duxe  
 duna (бархан) - duna  
 durar (transcorrer; duração) - dur  
 duro - gate  
@@ -641,6 +641,7 @@ gato-do-mato (gato-maracajá-mirim) - bagroselote
 gato-maracajá - margai  
 gaze - gaze  
 gelar - ais  
+gelatina - gelatine  
 genealogia - genolojia  
 generalíssimo - gunreger  
 generosidade - karimia  
@@ -1218,7 +1219,7 @@ prova - dalil
 provar - provere  
 proxeneta (cafetão) - sutener  
 pré-natal - prenatal  
-próximo - prose  
+próximo - proxe  
 purpúreo (roxo) - violete  
 purê de maçã - aplesaus  
 pá - belce  
@@ -1366,7 +1367,7 @@ sede - suiyau
 segunda-feira - den un  
 seguro - sekure  
 seio (mama) - mam  
-seis (6) - sise  
+seis (6) - six  
 selva (floresta) - van:  
 selvagem (silvestre) - jangle  
 selénio - selenium  
@@ -1420,6 +1421,7 @@ sábado - den luka
 São Paulo - Sante Paulo  
 série (sequência) - sere  
 série (sequência) - seria  
+sétimo - cetime  
 sódio - natrium  
 
 ## T  
@@ -1567,7 +1569,7 @@ virgem - virge
 vitamina - vitamin  
 vivisecção - zivotome  
 vivo - zivi  
-Vixnu - Visnu  
+Vixnu - Vixnu  
 viúvo - vidou  
 voar (voo) - fei  
 vocabulário - lexia  

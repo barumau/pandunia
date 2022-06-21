@@ -344,9 +344,10 @@ ceresium - cérium
 cerize - cerise  
 • acese - accès (accéder)  
 • precese - précéder  
-• sucese - réussir (avoir du succès,prospérer)  
+• sucese - réussir (avoir du succès, prospérer)  
 cesium - césium  
 cete - sept (7)  
+• cetime - septième  
 cili - piment  
 cinbrusben - cousin  
 cinmai - grand-mère  
@@ -437,7 +438,6 @@ du - deux (2)
 • duple - double  
 • dusdua - malédiction  
 dubnium - dubnium  
-duce - douche  
 duge - lire  
 dunia - monde  
 duna - dune  
@@ -450,6 +450,7 @@ dur - durer (se passer; durée)
 • undure - continu (analogique)  
 durometrer - chronomètre  
 • posprodute - post-production  
+duxe - douche  
 
 ## E  
 
@@ -599,6 +600,8 @@ geonici prizon - oubliette (cul de basse-fosse)
 geopolitike - géopolitique  
 geoterme - géothermique  
 • abogee - apogée  
+gele - gelée  
+• gelatine - gélatine  
 • rigenerate - régénérer  
 • geneti - génétique  
 • genite - élever  
@@ -756,6 +759,7 @@ jau - orge
 jeke - prêter (empruntre)  
 jekocepe - empruntre  
 jekodone - prêter  
+• jelokan - prison (geôle)  
 jenisme - jaïnisme  
 jenju - perle  
 • jetaje - projectile  
@@ -1143,7 +1147,7 @@ namkitabe - signer
 • antonam - antonyme  
 • antinam - antonyme  
 narde - backgammon  
-narke - drogue (narcotique,dope)  
+narke - drogue (narcotique, dope)  
 nasia - nation  
 nasmede - international  
 nasibe - destin  
@@ -1370,20 +1374,21 @@ poze - planter
 prasedium - praséodyme  
 prese - pression  
 • preser - pressoir  
-• proo - en avant  
+pro - en avant  
 problem - problème  
-probleme - problématique  
+• problemike - problématique  
 program - programme  
 projete - projet  
 prometium - prométhium  
-prose - proche  
-• aprose - approcher  
 proten - protéine  
 protacinium - protactinium  
+proxe - proche  
+• aproxe - approcher  
 pude - pourri  
 pudu - pourrir (se décomposer)  
 pul - pont  
 puma - couguar (puma)  
+pupe - poupée  
 pure - remplir  
 pure - plein  
 purbone - perfectionner (parfaire)  
@@ -1489,7 +1494,7 @@ sante kanon - saintes écritures
 sanze - éventail  
 sar - tête  
 sartunge - mal de tête  
-sate - heure (heure du jour,momente)  
+sate - heure (heure du jour, momente)  
 sate di - momentané  
 Saturne - Saturne  
 save - savoir (connaître)  
@@ -1538,8 +1543,8 @@ sire - cacher
 siri mote - célérité  
 sirplan - complot (conspiration)  
 sirkite - pavé  
-sise - six (6)  
 site - ville  
+six - six (6)  
 skalotan - vigne  
 Skandia - Scandinavie  
 skandium - scandium  
@@ -1770,8 +1775,8 @@ violete - violet (pourpre)
 virge - vierge  
 virus - virus  
 visoreger - vice-roi  
-Visnu - Vishnou  
 vitamin - vitamine  
+Vixnu - Vishnou  
 vode - promettre (vœu , promesse)  
 • vokal son - voyelle  
 vol - vouloir  
