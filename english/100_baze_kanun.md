@@ -34,19 +34,19 @@ They are described in more detail later in this document.
 6. **Numerals:**
    The cardinal numbers are:
        - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
-         7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.
+         7 **ceti**, 8 **bati**, 9 **tisa**, 10 **des**.
        - Greater than ten: 11 **des un**, 12 **des du**, 13 **des tri**, etc.
        - Tens: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
-       - Hundreds: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
+       - Hundreds: 100 **un sente**, 200 **du sente**, 300 **tri sente**, etc.
        - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
        - The ordinal numbers use the suffix **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
 7. **Modifiers:**
    The adjective and the adverb have the same form.
    The adjective modifier is before the noun that it modifies,
    and the adverb modifier is before the verb that it modifies.
-    - **un rapide loga**
+    - **un rapide loge**
       – A fast speech.
-    - **tu rapide loga.**
+    - **tu rapide loge.**
       – You speak fast.
 8. **Verbs:**
    The verb does not change in person, number and tense.
@@ -60,16 +60,16 @@ They are described in more detail later in this document.
       The same order is used in declarations and questions.
     - A passive sentence is created with the help of the passive auxiliary verb **be**.
       A similar effect can be also reached with the impersonal pronoun **mon**.
-        - **pandunia be loga.**
+        - **pandunia be loge.**
           – Pandunia is spoken.
-        - **mon loga la pandunia.**
+        - **mon loge la pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi cing tu loga la pandunia.**
+        - **mi cing tu loge la pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ cing _tu_ loga la pandunia.**
+        - **_mi_ cing _tu_ loge la pandunia.**
           → **cing loga la pandunia.**
           – Please speak Pandunia.
 10. **Word building:**

@@ -7,8 +7,8 @@ They may consist of only one word, which draws the listener's attention.
 
 **mau!**
 – A cat!  
-**xava!**
-– (It) rains!
+**xave!**
+– Rain! / (It) rains!
 
 ## Stative Sentences
 
@@ -29,7 +29,7 @@ When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
 
 **Sara si bon.**
 – Sara is good.  
-**seku si dai.**
+**ite si dai.**
 – Stones are big.  
 **meza si nove.**
 – The table is new.
@@ -65,7 +65,7 @@ The same rule applies also for two adjectives, or a verb and an adjective.
 – Young is beautiful.  
 **nove no lau.**
 – New is not old.  
-**canta si bon.**
+**cante si bon.**
 – Singing is good.
 
 
@@ -83,9 +83,9 @@ These come after the predicate.
 
 Sometimes, the subjet of one sentence can become the object of another.
 
-**la fuku ya gan.**
+**la fuke ya gan.**
 – The clothes dry.  
-**la sol ya gan la fuku.**
+**la sol ya gan la fuke.**
 – The sun dries the clothes.
 
 To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
@@ -110,7 +110,7 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**mi vol tu yam ba fito.**
+**mi vol tu yam ba fite.**
 – I want you to eat vegetables.
 
 In the example above,
@@ -121,7 +121,7 @@ as its object.
 At the same time,
 **tu**
 functions as the subject of the following predicate,
-**yam ba fito**.
+**yam ba fite**.
 So
 **tu**
 is the _pivot_ of the entire sentence.
@@ -130,17 +130,17 @@ The second verb in a pivot structure is the main verb.
 The first verb is a modal verb,
 which indicates a modality such as desire, permission or obligation.
 
-**mi vol tu yam ba fito.**
+**mi vol tu yam ba fite.**
 – I want you to eat vegetables. (desire)  
-**mi sel tu yam ba fito.**
+**mi sel tu yam ba fite.**
 – I advise you to eat vegetables. (advice)  
-**mi halal tu yam ba fito.**
+**mi halal tu yam ba fite.**
 – I allow you to eat vegetables. (permission)  
-**mi bil tu yam ba fito.**
+**mi bil tu yam ba fite.**
 – I enable you to eat vegetables. (ability)  
-**mi mus tu yam ba fito.**
+**mi mus tu yam ba fite.**
 – I compel you to eat vegetables. (obligation)  
-**mi rai tu yam ba fito.**
+**mi rai tu yam ba fite.**
 – I think you eat vegetables. (opinion)
 
 
@@ -160,15 +160,15 @@ and all of them are about the same subject.
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**tu vol yam yo fito.**
+**tu vol yam yo fite.**
 – You want to eat vegetables. (desire)  
-**tu sel yam yo fito.**
+**tu sel yam yo fite.**
 – You had better eat vegetables. (advice)  
-**tu halal yam yo fito.**
+**tu halal yam yo fite.**
 – You may eat vegetables. (permission)  
-**tu bil yam yo fito.**
+**tu bil yam yo fite.**
 – You can eat vegetables. (ability)  
-**tu mus yam yo fito.**
+**tu mus yam yo fite.**
 – You must eat vegetables. (obligation)
 
 ## Pronoun dropping
@@ -289,13 +289,13 @@ In Pandunia they use the word **ke**.
 The question word may be moved to the front of the sentence for emphasis.
 However, unlike in English, the word order may also be left alone.
 
-**ke xe tu zai yam?**
+**ke tu zai yam?**
 – What are you eating?  
-**tu zai yam ke xe?**
+**tu zai yam ke?**
 – You are eating what?  
-**ye lai na ke sata?**
+**ye lai a ke sate?**
 – When does he arrive?  
-**tumon keka na ke jen su dom?**
+**tumon keka a ke jen su dom?**
 – Whose house did you all visit?
 
 
@@ -331,7 +331,7 @@ It's possible to use relative pronouns or the reduced relative clause structure.
 
 **la kalam, na jo la jen fa kitabe la buke, pade.**
 – The pen, with _which_ the person writes the book, falls.  
-**la kalam, la jen fa kitabe la buke na, pade.**
+**la kalam, la jen fa kitabe la buke a, pade.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
@@ -492,7 +492,7 @@ The modifier particles are useful for creating complex adjectives that consists 
 
 Or in the opposite order:
 
-**labi de rode rang**
+**labe de rode rang**
 – lips of the rose-color  
 **yen de sama rang**
 – eyes of the sky-color
@@ -519,9 +519,9 @@ So a modifier phrase with and without **de** can mean a different thing.
 Verbs are turned into modifiers by placing **de** or **di** immediately next to the verb.
 Verb phrases can also be made into modifiers in this way, but any objects must be moved to before the verb.
 
-**suta de grafe pente**
+**xute de grafe pente**
 – the art of picture-painting (the art of painting pictures)  
-**ale su mede su suka**
+**ale su mede su suke**
 – the joy of others-helping (the joy of helping others)
 
 #### Possession

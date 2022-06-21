@@ -448,7 +448,7 @@ some, a(n)
 **e tu?**
 = And you?  
 <big>☹</big>
-**mi no baxa pandunia...**
+**mi no baxe pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
 **maf! sual ye yam cai?**
@@ -504,7 +504,7 @@ Of course common and proper nouns can also be used.
 = Does the chief drink coffee?  
 **sual papa safe kamar?**
 = Does the father clean the room?  
-**sual niki baxa pandunia?**
+**sual niki baxe pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -561,7 +561,7 @@ after
 pardon, sorry  
 **minute**
 minute  
-**baxa**
+**baxe**
 speak a language  
 **sui**
 water  

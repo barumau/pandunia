@@ -26,7 +26,7 @@ For example, the verb
 
 Also a noun can serve as subject.
 
-**mau si zou.**
+**mau si zoe.**
 – The cat is an animal.
 
 Frequently there is a marker between the subject and the verb
@@ -53,15 +53,15 @@ which are introduced next.
 
 The relationship of an action, event or state to time is indicated with auxiliary verbs.
 
-**xuru**
+**xure**
 ('begin, start')
 indicates beginning of an action or transition to a new situation.
 
-**mi xuru fuku la kote.**
+**mi xure fuke la kote.**
 – I start wearing the coat. = I put the coat on.  
-**kaguji ya xuru hogo.**
+**kaguje ya xure hoge.**
 – Paper starts to burn.  
-**tu xuru yam.**
+**tu xure yam.**
 – You start to eat.
 
 **fin**
@@ -70,7 +70,7 @@ conveys the idea of "to stop doing something".
 
 **yemon fin haha.**
 – They stopped laughing.  
-**kaguji ya fin hoge.**
+**kaguje ya fin hoge.**
 – Paper ceased to burn.  
 **tu fin yam.**
 – You stop eating.
@@ -107,11 +107,11 @@ indicates that a situation is continuing or in progress.
 **mi dur yam la piza.**
 – I keep on eating the pizza.
 
-**ada**
+**ade**
 ('have a habit', 'be used to')
 indicates that an action is done regularly.
 
-**mi ada gul yo bir.**
+**mi ade gul yo bir.**
 – I have a habit of drinking beer.
 
 **le**
@@ -197,5 +197,3 @@ They always take an object.
 – He/she came back to the house.  
 **ye loge kon la xefe.**
 – He/she speaks with the boss.
-
-

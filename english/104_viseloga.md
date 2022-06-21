@@ -68,12 +68,6 @@ The demonstrative pronouns in Pandunia are:
 **la**
 – the (known by both the speaker and the listener)
 
-In Pandunia, **ni**, **go** and **la** work only as modifiers
-and they always require a noun after them.
-To use them like pronouns, a generic noun like
-**xe**
-('thing') needs to be added after these words.
-
 The proximal demonstrative
 **ni**
 points to things that are near the speaker.
@@ -81,12 +75,30 @@ The distal demonstrative
 **go**
 points to things that are far from the speaker.
 
-**ni xe si bon.**
-– This (thing) is good.  
-**go xe si dus.**
-– That (thing) is bad.  
-**mi vol ni buke, no go.**
-– I want this book, not that.
+**tu vol go buke, he?**
+– Do you want that book?  
+**no, mi vol ni buke, no go.**
+– No, I want this book, not that.
+The demonstratives can serve as subjects and objects in the same way as nouns.
+
+**ni si bon.**
+– This is good.  
+**go si dus.**
+– That is bad.  
+**tu vol ni, he?**
+– Do you want this?  
+**no, mi vol go.**
+– No, I want that.
+
+When the verb is a content word,
+there needs to be a modal particle,
+like **ya** or **no**,
+between the subject and the verb.
+
+**mi vide du jen.**
+– I see two persons.  
+**ni ya cante e go no cante.**
+– This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
 The topical demonstrative **la**, on the other hand,
@@ -94,7 +106,7 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ni xe si mau. ye vol yam go muxu.**
+**ni si mau. ye vol yam go muxu.**
 – This is a cat. It wants to eat that mouse.
 
 **mi ten un mau e un vaf. la vaf si dai. ye yam poli yam.**

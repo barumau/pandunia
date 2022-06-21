@@ -11,29 +11,29 @@
 | 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
 | 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
 | 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
+| 7 ceti  | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
 | 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
 | 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
 | Ones    |  Tens         | Hundreds        | Thousands        |
 |:--------|:-------------|:----------------|:------------------|
-| 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
-| 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
-| 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
-| 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
-| 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
-| 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 cheti | 70 cheti des | 700 cheti sento | 7000 cheti kilo   |
-| 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
-| 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
+| 1 un    | 10 (un) des  | 100 (un) sente  | 1000 (un) kilo    |
+| 2 du    | 20 du des    | 200 du sente    | 2000 du kilo      |
+| 3 tri   | 30 tri des   | 300 tri sente   | 3000 tri kilo     |
+| 4 nelu  | 40 nelu   des| 400 nelu sente  | 4000 nelu kilo    |
+| 5 lima  | 50 lima  des | 500 lima sente  | 5000 lima kilo    |
+| 6 luka  | 60 luka des  | 600 luka sente  | 6000 luka kilo    |
+| 7 ceti  | 70 ceti des  | 700 ceti sente  | 7000 ceti kilo    |
+| 8 bati  | 80 bati des  | 800 bati sente  | 8000 bati kilo    |
+| 9 tisa  | 90 tisa des  | 900 tisa sente  | 9000 tisa kilo    |
 
 Greater numbers follow the same logic as above.
 
 10'000 = un des kilo  
-100'000 = un sento kilo  
+100'000 = un sente kilo  
 1'000'000 = un mega  
 10'000'000 = un des mega  
-100'000'000 = un sento mega  
+100'000'000 = un sente mega  
 1'000'000'000 = un giga
 
 The numerals that are greater than one hundred are borrowed from the
@@ -142,7 +142,20 @@ The short way is to use ordinal numbers.
 **un fen kilo**
 – one thousandth, one permille (1‰)
 
-The longer way uses the pattern
+Fractions are connected to their noun head with
+**de**
+('of').
+
+**un fen du de hor**
+– a half (of an) hour  
+**lima des fen sente de jen**
+– fifty percent of people  
+**du fen tri de keke**
+– two thirds of a cake  
+
+
+There is also a longer pattern for forming fractions.
+It uses the pattern
 **X de Y fen**
 ('X of Y parts').
 
@@ -152,21 +165,11 @@ The longer way uses the pattern
 – one of four parts, a quarter (¼)  
 **tri de nelu fen**
 – three of four parts, three quarters (¾)  
-**un de sento fen**
+**un de sente fen**
 – one of hundred parts, a percent, (1%)  
 **un de kilo fen**
 – one of thousand parts, a permille, (1‰)
 
-Fractions are connected to the noun with
-**da**
-('of').
-
-**un fen du de hor**
-– a half (of an) hour  
-**lima des fen sento de jen**
-– fifty percent of people  
-**du fen tri de keke**
-– two thirds of a cake  
 
 
 ## Date and time
@@ -204,32 +207,32 @@ and so on.
 
 Names of the months are composed like the names of days
 but this time the word
-**mes**
-('month') is used.
+**lun**
+('moon, month') is used.
 
-1. **mes un**
+1. **lun un**
    – January
-2. **mes du**
+2. **lun du**
    – February
-3. **mes tri**
+3. **lun tri**
    – March
-4. **mes nelu**
+4. **lun nelu**
   – April
-5. **mes lima**
+5. **lun lima**
   – May
-6. **mes luka**
+6. **lun luka**
   – June
-7. **mes ceti**
+7. **lun ceti**
   – July
-8. **mes bati**
+8. **lun bati**
   – August
-9. **mes tisa**
+9. **lun tisa**
   – September
-10. **mes des**
+10. **lun des**
   – October
-11. **mes des un**
+11. **lun des un**
   – November
-12. **mes des du**
+12. **lun des du**
   – December
 
 #### Telling time

@@ -669,21 +669,21 @@ What is "cat" in Pandunia?
 Cat says meow.
 
 
-### audi <small>to listen, hear</small>
+### aude <small>to listen, hear</small>
 
-**audi mi!**
+**aude mi!**
 Listen to me!
 
-**mi no bil audi tu.**
+**mi no bil aude tu.**
 I can't hear you.
 
-**cing loga mas lika.**
+**cing loga max like.**
 Please speak louder.
 
-**mi audi muzika.**
+**mi aude muzike.**
 I listen to music.
 
-**tu audi ke yang di muzika?**
+**tu aude ke yang di muzike?**
 What kind of music do you listen to?
 
 
@@ -698,7 +698,7 @@ See you again!
 **vide tu na pos den!**
 See you tomorrow!
 
-**mi vide ye na cen den.**
+**mi vide ye a preden.**
 I saw him/her yesterday.
 
 
@@ -717,24 +717,24 @@ It means a kind of animal.
 I don't understand what it means.
 
 
-### kitabu <small>write</small>
+### kitabe <small>write</small>
 
-**cing kitabu tu su adres.**
+**cing kitabe tu su adres.**
 Please, write your address.
 
-**cing kitabu ye na ni.**
+**cing kitabe ye a ni.**
 Please, write it here!
 
 
-### baxa <small>speak a language, communicate</small>
+### baxe <small>speak a language, communicate</small>
 
-**sual tumon baxa pandunia.**
+**sual tumon baxe pandunia.**
 Do you speak Pandunia?
 
-**mimon baxa pandunia.**
+**mimon baxe pandunia.**
 We speak Pandunia.
 
-**sual tu bil baxa englix?**
+**sual tu bil baxe englix?**
 Can you speak English?
 
 **france, espanya, portugal, rus**
@@ -994,10 +994,10 @@ What is it like?
 **sual ye si nove?**
 Is it new?
 
-**ke si mas boni?**
+**ke si max boni?**
 Which is better?
 
-**ni si masim boni (da pan).**
+**ni si maxim bon (de pan).**
 This is the best (of all).
 
 **ye kosta ke?**
@@ -1019,10 +1019,10 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi xula la pandunia.**
+**mi xule la pandunia.**
 I study Pandunia.
 
-**xou ye do mi na loga buke!**
+**xou ye do mi a logobuke!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.

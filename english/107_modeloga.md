@@ -115,7 +115,7 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 **mi vol loga _tre poli_.**
 – I want to speak very much.  
-**sual tu sona _bas bon_?**
+**sual tu some _bas bon_?**
 – Did you sleep well enough?
 
 
@@ -142,6 +142,6 @@ relates the adverbs of comparison to the object of comparison.
 = Apples are better than oranges.  
 **oranje si min bon ka aple.**
 = Oranges are less good than apples.  
-**tu loga par bon ka mi.**
+**tu loge par bon ka mi.**
 = You speak as well as me.
 

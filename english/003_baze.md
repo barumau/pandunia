@@ -11,7 +11,7 @@ The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 
 The consonants are:
 **b**,
-**ch** (pronounced as in _church_),
+**c** (sounds like _ch_ in _church_),
 **d**,
 **f**,
 **g** (always hard),
@@ -24,9 +24,9 @@ The consonants are:
 **p**,
 **r** (never silent),
 **s** (always voiceless),
-**sh**,
 **t**,
 **v** (sounds like _w_),
+**x** (sounds like _sh_),
 **y**,
 **z**.
 
@@ -53,20 +53,20 @@ The particle **ya** 'yes' separates the subject and the verb.
 
 **mau ya yam.**
 – The cat eats.  
-**jen ya sona.**
+**jen ya some.**
 – The person sleeps.
 
 If the subject is a personal pronoun, the **ya** is left out.
 
 **mi yam.**
 – I eat.  
-**tu sona.**
+**tu some.**
 – You sleep.
 
 The basic word order is subject–verb–object
 – the same as in English!
 
-**mi ama tu.**
+**mi ame tu.**
 – I love you.
 
 When the direct object is a noun, it is marked apart from the verb by a demonstrative pronoun, numeral or another determiner.
@@ -80,7 +80,7 @@ When the direct object is a noun, it is marked apart from the verb by a demonstr
 
 To negate a word, add **no** before it.
 
-**mi no sona.**
+**mi no some.**
 – I don't sleep.  
 **tu yam no jen.**
 – You eat no-one.
@@ -101,12 +101,12 @@ It can be left out in very simple sentences.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**ye ama mau.**
+**ye ame mau.**
 – He loves cats. / She loved a cat. / He or she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**tri nen cen, mi ha du mau e un vaf. mi mas ha un fem ben. ye ama mau!**
+**pre tri nen, mi ha du mau e un vaf. mi max ha un fem ben. ye ame mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -121,13 +121,13 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 **xa**
 (in the future).
 
-**mi zai ama tu.**
+**mi zai ame tu.**
 – I am loving you.  
-**mi pas ama tu.**
+**mi pas ame tu.**
 – I loved you.  
-**mi le ama tu.**
+**mi le ame tu.**
 – I have loved you.  
-**mi xa ama tu.**
+**mi xa ame tu.**
 – I will love you.
 
 ### Passive
@@ -135,16 +135,16 @@ Tenses and aspects are optionally expressed with the help of adverbs and auxilia
 The passive voice is formed with the help of the helping verb
 **be**.
 
-**tu be ama.**
+**tu be ame.**
 – You are loved.  
-**mi be ama da tu.**
+**mi be ame de tu.**
 – I am loved by you.
 
 ### Modifying other words
 
 To modify a noun, put adjectives before it.
 
-**un nove ama**
+**un nove ame**
 – a new love  
 **la bon pai**
 – the good pie
@@ -154,17 +154,17 @@ The adverb can be tagged with **di**.
 
 **mi bon vide tu.**
 – I see you well.  
-**tu vide di ama ye.**
+**tu vide di ame ye.**
 – You seemingly love him/her.
 
 Modifiers are compared with
-**mas** 'more, -er', **masim** 'most, -est',
+**max** 'more, -er', **maxim** 'most, -est',
 **min** 'less', **minim** 'least' and **par** 'equally, as'.
 The point of comparison is introduced with **ka** 'than, as'.
 
-**tu si mas lau ka mi.**
+**tu si max lau ka mi.**
 – You are older than me.  
-**tu si masim lau.**
+**tu si maxim lau.**
 – You are the oldest.
 
 ### Questions
@@ -180,13 +180,13 @@ To ask a content question, write a normal sentence and replace the word in quest
 **ke**
 'what, who'.
 
-**tu ama ke?**
+**tu ame ke?**
 – Who do you love?  
-**tu ama ke man?**
+**tu ame ke man?**
 – Which man do you love?  
-**ke man ya ama tu?**
+**ke man ya ame tu?**
 – Which man loves you?  
-**tu ama ye ke poli?**
+**tu ame ye ke poli?**
 – How much do you love him?
 
 ### Commands
