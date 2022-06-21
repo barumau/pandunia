@@ -136,9 +136,9 @@ biosistem - 生物群系
 biotoxe - 毒素  
 bilor - 結晶  
 bine - 建てる  
+binite - レンガ (磚)  
 binoplania - 建築学  
 binoplaner - 建築家  
-binite - レンガ (磚)  
 bir - ビール  
 bismute - ビスマス  
 biznes - 業務 (営業, ビジネス)  
@@ -186,6 +186,7 @@ caryom - 木曜日
 carlun - ４月  
 cau - 草  
 caustan - 草地  
+ceke - 小切手 (チェック)  
 cene - 以前 (前に)  
 cendeno - 昨日  
 cenyange - 古典的  
@@ -561,13 +562,6 @@ justopaver - 狙撃兵
 
 ## K  
 
-ke - どの  
-ke yange - どんな  
-ke jen - 誰  
-ke sate - 何時  
-ke sei - 何事  
-ke - 何  
-ko? - どのように  
 kaboge - カボチャ  
 kade - 鱈  
 kadium - カドミウム  
@@ -621,6 +615,12 @@ katoglutoban - クリップボード
 katane - 刀 (剣)  
 katus - サボテン  
 kave - 掘る  
+ke - 何 (どの)  
+ke yange - どんな  
+ke jen - 誰  
+ke mode - どのように  
+ke sate - 何時  
+ke xei - 何事  
 kecape - ケチャップ  
 keger - 客人  
 kenarbaryer - 柵 (垣)  
@@ -873,6 +873,8 @@ mun - 門
 mur - 壁  
 murkaguze - 壁紙  
 musle - ミューズリー  
+muze - 楽しみ (娯楽)  
+• muzante - 楽しい  
 muzike - 音楽  
 
 ## N  
@@ -1126,6 +1128,7 @@ sable - 砂
 • movosable - 流砂  
 sablopetre - 砂岩  
 sablostan - 砂漠  
+safaroceke - トラベラーズチェック  
 sagu - サゴ  
 sagu fun - サゴ澱粉  
 sahe - 正しい  
@@ -1268,10 +1271,10 @@ tantalium - タンタル
 tas - 皿  
 tehne - 技術  
 tehnium - テクネチウム  
-telfon - 電話  
-telfone - 電話する  
-teloloku - 瞬間移動  
-teloskope - 望遠鏡 (テレスコープ)  
+telefon - 電話  
+telefone - 電話する  
+teleloke - 瞬間移動  
+teleskope - 望遠鏡 (テレスコープ)  
 telurium - テルル  
 temnam - 題名 (書名, タイトル)  
 ten - 空  
@@ -1345,9 +1348,6 @@ valse - ワルツ (円舞曲)
 vampir - 吸血鬼  
 vampirbalsenter - コウモリダコ  
 van: - 森 (森林)  
-van - 楽しみ (娯楽)  
-vane - 楽しい  
-vanu - 遊ぶ  
 vanadium - バナジウム  
 vare - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 varkalge - コンブ  
@@ -1358,10 +1358,9 @@ vei - 尾 (尾翼)
 veilin - 横糸  
 veisirke - 緯度  
 vende - 売る  
-vendosope - 交易 (売買)  
-vendosope - 売買する  
+vendoxope - 売買する (交易, 売買)  
 venzovorange - ウンシュウミカン  
-verite - ただす  
+• verife - ただす  
 verme - 蠕虫  
 • exverse - 外向的な  
 • extroverse - 外向的な  
@@ -1456,7 +1455,6 @@ yune moke - 若木
 
 ## Z  
 
-zagu - 起きる  
 zalime reger - 暴君  
 zaman - 時代 (年代)  
 zarkube - 賽子  

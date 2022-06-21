@@ -6,6 +6,7 @@ a - a (dans, en, chez)
 a danke de - grâce à  
 a ke - où  
 a line - en ligne  
+a vere - vraiment  
 abete - sapin  
 able - pouvoir (être capable; possible)  
 • ablo - peut-être  
@@ -272,9 +273,9 @@ biosistem - biome
 biotoxe - toxine  
 bilor - cristal  
 bine - construire  
+binite - brique  
 binoplania - architecture  
 binoplaner - architecte  
-binite - brique  
 bir - bière  
 bismute - bismuth  
 bode - corps  
@@ -326,6 +327,7 @@ cantergrupe - chœur
 care - quatre (4)  
 caryom - jeudi  
 carme - charme  
+ceke - chèque  
 celolojia - cytologie  
 cene - avant  
 cendeno - hier  
@@ -415,7 +417,10 @@ dom - maison (foyer, domicile; vivre (habiter)
 • domike - domestique  
 domzeze - mouche  
 • dominia - domaine  
-donive - généreux  
+• donaje - cadeau  
+• donive - généreux  
+• sudone - charité  
+donajoceke - chèque cadeau  
 dong - east (orient)  
 dosile - apprivoiser (dresser, dompter, discipliner)  
 dosile - docile (insipide)  
@@ -765,10 +770,6 @@ juste - exact (précis)
 
 ## K  
 
-ke jen - qui  
-ke sate - quand  
-ke - que (quoi)  
-ko? - comment  
 kaboge - citrouille  
 kade - morue  
 kadium - cadmium  
@@ -825,9 +826,12 @@ kaske - carapace (coquille, coquillage, croûte)
 katoglutoban - presse-papier  
 katane - épée  
 katus - cactus  
-kave - fosse  
 kave - creuser  
-• exkave - excaver  
+• kavaje - fosse  
+ke - que (quoi)  
+ke jen - qui  
+ke mode - comment  
+ke sate - quand  
 kecape - ketchup  
 kexofentor - sèche-cheveux  
 kime - substance  
@@ -1121,6 +1125,7 @@ murkaguze - papier peint
 murce - fourmi  
 muskulbin - culturisme (musculation)  
 musle - musli  
+muze - amuser  
 muzike - musique  
 
 ## N  
@@ -1453,6 +1458,7 @@ sable - sable
 sablopetre - grès  
 sablostan - désert  
 • safariste - touriste  
+safaroceke - chèque de voyage  
 sagu - sagoutier  
 sahe - correct (juste)  
 sake - sac  
@@ -1548,6 +1554,7 @@ solocentaur - Centaurée du solstice
 soloful - Tournesol  
 some - dormir (sommeil)  
 • somive - ensommeillé (somnolent)  
+• desome - éveillé  
 • ansome - insomnie  
 somokamar - chambre à coucher  
 somopapil - pavot somnifère  
@@ -1613,11 +1620,11 @@ taze - frais
 tehne - technique  
 tehnium - technétium  
 tehnolojia - technologie  
-telfon - téléphone  
-telfone - téléphoner  
-telfonlin - ligne téléphonique  
-teloskope - télescope (lunette)  
-telvide - téléviseur  
+telefon - téléphone  
+telefone - téléphoner  
+telefonlin - ligne téléphonique  
+teleskope - télescope (lunette)  
+televide - téléviseur  
 telurium - tellure  
 tem - sujet (thème)  
 temnam - titre  
@@ -1724,14 +1731,14 @@ vele - voile
 • pervene - parvenir  
 • revene - revenir  
 vende - vendre  
-vendosope - commercer  
+vendoxope - commercer  
 Venezuele - Venezuela  
 ventur - aventure  
 venturer - aventurier  
 Venus - Vénus  
 venzovorange - mandarine satsuma  
 vere - vrai  
-vero - vraiment  
+• provere - prouver  
 verme - ver  
 vermute - vermouth  
 verse - verser (face á)  
@@ -1773,7 +1780,6 @@ vulve - vulve
 xampan - Champagne  
 xampan vin - Champagner  
 • xankable - douteux (dubitatif)  
-xante - repos  
 xante - calme (tranquille)  
 xarke - requin  
 xarnir - charnière  
@@ -1840,7 +1846,6 @@ yune moke - pousse
 
 ## Z  
 
-zage - éveillé  
 zaman - temps  
 zarkube - dé  
 Zardux - Zoroastre  

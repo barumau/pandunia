@@ -5,7 +5,7 @@
 Un substantif ou nom est un mot qui sert à nommer une chose.
 Comme tous les mots en pandunia, les noms sont invariables : ils ne sont pas affectés par le nombre et le genre. Donc la même forme sert pour le singulier et le pluriel, le masculin ou le féminin, le caractère défini ou indéfini, etc.
 
-**seku**
+**ite**
 – une pierre, des pierres, la pierre ou les pierres  
 **meza**
 – une table, des tables, la table or les tables  

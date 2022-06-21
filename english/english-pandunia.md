@@ -126,7 +126,6 @@ amount (quantity) - polia
 ampere (amp) - amper  
 amplify (scale) - daidarge  
 ampoule (vial) - ampul  
-amuse (entertain) - vane  
 anaerobic - anairobike  
 anaglyphic (stereoscopic) - dulgrafe  
 analyse (dissect; analysis, dissection) - fenkate  
@@ -270,7 +269,7 @@ autopsy (necrotomy) - nekrotome
 autumn (fall) - padomosim  
 avert - deverse  
 avocado - avakate  
-awake - zage  
+awake (wake up) - desome  
 away - abe  
 awe (wonder) - ajibia  
 axe (hatchet) - futau  
@@ -370,9 +369,7 @@ beehive (honeycomb) - maduvesponide
 beer - bir  
 beetroot - bete  
 before (previous, fore, past) - cene  
-begin (get started) - xure  
 begin (start, commence, initiate) - xure  
-beginning (start, commencement, onset) - xure  
 behave (act) - manire  
 behavior (manners) - manir  
 Beijing (Peking) - Beijing  
@@ -575,7 +572,7 @@ caliph - halif
 caliphate - halifia  
 call (name) - namane  
 call (voice; summon) - voke  
-call on the phone - telfone  
+call on the phone - telefone  
 call out (proclaim) - proklame  
 Callisto - Kalisto  
 calm (peaceful, quiet) - xante  
@@ -672,6 +669,7 @@ chaos (disorder, turmoil) - haos
 chapter (section) - babu  
 chard - selge  
 charitable (gentle, kind) - karime  
+charity (alms) - sudone  
 charity - karimia  
 charm (attraction) - carme  
 chat (babble) - blabla  
@@ -685,6 +683,7 @@ cheese - kize
 chemical - kimi  
 chemical element - kimium  
 chemistry - kimolojia  
+cheque (check) - ceke  
 cherry - cerize  
 cherub - kerube  
 chess - xatrange  
@@ -804,6 +803,7 @@ color - rang
 colored - range  
 column (pillar, pole, post) - kolum  
 comb - kang  
+combine - konbine  
 come (arrive) - lai  
 come - ven  
 come back (return) - revene  
@@ -1092,7 +1092,6 @@ difference - alosifia
 different - alosife  
 diffuse (melt apart) - disfuze  
 dig (excavate) - kave  
-dig out (excavate) - exkave  
 dilogy (duology) - duologia  
 dining room - yamkamar  
 dinner - suaryam  
@@ -1108,7 +1107,7 @@ disconnect - dekonnete
 discrete (digital, quantized) - feni  
 discussion (debate, discourse) - lon  
 disease - pate  
-dish - tas  
+dish (bowl) - tas  
 dislike (loathe) - aname  
 dispel (disperse,drive asunder) - dispele  
 disperse (spread out,scatter; sparse) - dise  
@@ -1159,7 +1158,6 @@ dot (spot) - binde
 double (twofold) - duple  
 double entendre - dulmene  
 doubt (suspect) - xanke  
-doubtful (suspicious) - xankane  
 downgrade - dusdarge  
 download - netogete  
 drag (haul, tow, trail) - trate  
@@ -1275,7 +1273,6 @@ England - Englia
 English - engle  
 English daisy - englomargarite  
 English oak - europobalute  
-enjoy (play) - vanu  
 enough (sufficient) - bas  
 enter (get in) - intru  
 enter (insert, put in) - intre  
@@ -1335,7 +1332,6 @@ evoke (call out) - exvoke
 exa- - exa  
 examine (inspect, check) - gence  
 example (instance of) - misal  
-excavate (dig out) - exkave  
 excellence (quality, virtue) - bonsifia  
 excellent - bonsife  
 except (minus) - minus  
@@ -1557,13 +1553,12 @@ frying pan - tave
 fuck (copulate) - code  
 full (complete, saturated) - pure  
 fully (completely) - puro  
-fun (amusement) - van  
 function (work) - funce  
 functional (valid, workable) - funcable  
 functional disease or disorder - oze  
 fungus (mushroom) - funge  
 funnel - darotube  
-funny (amusing) - vane  
+funny (amusing) - muzante  
 fusion (amalgamation) - fuzion  
 future time - posozam  
 
@@ -1628,7 +1623,8 @@ ghost (phantom) - fantom
 ghoul - gulogui  
 giant onion - dailasun  
 Gibraltar - Gibraltar  
-gift - don  
+gift (present) - donaje  
+gift certificate (gift card) - donajoceke  
 ginger - jinje  
 ginseng - jensen  
 giraffe - ziraf  
@@ -1761,6 +1757,7 @@ hassium - hesium
 hat (cap) - tupe  
 hate (despise) - hene  
 hatred (hate, resentment, odium) - hen  
+have fun (enjoy; amuse, entertain; amusement, entertainment) - muze  
 have sex - sexe  
 Hawaii - Havai  
 Hawaiian archipelago - Havai nesia  
@@ -1845,7 +1842,7 @@ honeydew (green melon) - lugomelon
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onore  
 hook - huke  
-hope (wish) - insale  
+hope (wish) - inxala  
 horizon - tenkenar  
 hormone - hormon  
 horn - korne  
@@ -1854,8 +1851,8 @@ horse - gude
 hotel - hotel  
 hour - hor  
 housefly - domzeze  
-how many? - ko multo  
-how? - ko?  
+how many? - ke multe  
+how? - ke mode  
 howl - ulule  
 howling - ulul  
 huh? (pardon?) - he  
@@ -2730,7 +2727,6 @@ oasis - vase
 oat - aven  
 Oberon - Oberon  
 obituary (necrology) - nekrologe  
-object (patient, target) - ite  
 oblique (askew, tilted) - terce  
 obsidian - osidian  
 obvious (evident) - exvidable  
@@ -2772,6 +2768,7 @@ onion - piaze
 online - a line  
 only (single, sole, lone) - unike  
 only (solely, just) - uniko  
+onomatopoeia - fonomime  
 opaque (not transparent) - antrasvidable  
 opaque - antransvidable  
 open (not closed) - kai  
@@ -2975,8 +2972,8 @@ philosopher - filsofer
 philosophic - filsofe  
 philosophy - filsofia  
 Phobos - Fobos  
-phone (speech sound) - fon  
-phoneme - fonem  
+phone (speech sound) - fone  
+phoneme - foneme  
 phonology - fonolojia  
 phosphorus - pospor  
 photograph - fotograf  
@@ -3016,7 +3013,7 @@ piss (urinate) - pise
 piss (urine) - pis  
 pistol - pistol  
 piston - puser  
-pit (excavation, cavity) - kave  
+pit (excavation, cavity) - kavaje  
 Pitcairn Islands - Pitkerne nesia  
 pixel - grafeme  
 pizza - pize  
@@ -3072,7 +3069,7 @@ police - polis
 police officer - poliser  
 polish - fotofrike  
 Polish - polske  
-polite - kece  
+polite - keci  
 political - politike  
 politician (statesman) - politike  
 politicology - politolojia  
@@ -3084,9 +3081,8 @@ polygon - poligone
 polyhedron - polfas  
 Polynesia - Polinesia  
 polytheism - polidevisme  
-polytheism - polidevisme  
 ponder (think, contemplate, consider, regard) - heme  
-pool (basin, bowl) - basen  
+pool (basin) - basen  
 poor (miserable) - miskine  
 population - demomultia  
 pore - pore  
@@ -3182,7 +3178,6 @@ projector - projetor
 promethium - prometium  
 promise (vow, oath, pledge) - vode  
 pronoun - pronam  
-pronounce (articulate) - fone  
 pronounce (articulate) - fonologe  
 pronounce (proclaim,promulgate) - pronunce  
 proof (evidence, proof, demonstration, testimony) - dalil  
@@ -3198,6 +3193,7 @@ protactinium - protacinium
 protein - proten  
 prove (demonstrate, testify) - dalile  
 prove (demonstrate,show,instruct) - doke  
+prove (verify, authenticate) - provere  
 provoke - provoke  
 proximity - karibe  
 psychology - ruhlojia  
@@ -3350,7 +3346,6 @@ reserve (book; reservation, booking, withholding) - rezerve
 resin - rezin  
 respect (honor, esteem) - onor  
 respect (honor, think highly of) - onore  
-rest (relief, repose) - xante  
 rest (repose) - repause  
 rest in peace (RIP) - repause in pace (RIP)  
 restaurant - restorante  
@@ -3654,7 +3649,7 @@ sizzle - zize
 skeleton (frame) - ostogamia  
 skewer - sis  
 skill (art, craft) - xute  
-skillful (crafty) - xute  
+skillful (crafty) - xutike  
 skin (peel, bark, leather) - pil  
 skirt - jupe  
 skull - saroste  
@@ -3930,12 +3925,12 @@ technique (technology) - tehne
 technocracy - tehnokratia  
 technology (study of techniques) - tehnolojia  
 tectonic plate - geokaski plate  
-telephone - telfon  
-telephone line - telfonlin  
-telephony - telfonia  
-teleport - teloloku  
-telescope - teloskope  
-television - telvide  
+telephone - telefon  
+telephone line - telefonlin  
+telephony - telefonia  
+teleport - teleloke  
+telescope - teleskope  
+television - televide  
 tellurium - telurium  
 Telugu - teluge  
 temperature - terme  
@@ -4022,7 +4017,7 @@ Titan - Titan
 Titania - Titania  
 titanium - titanium  
 title (headline) - temnam  
-to (toward, till, until, for) - ga  
+to (toward, till, until, for) - ta  
 toast (toasted bread) - roste pang  
 tobacco - tabake  
 today - a zay den  
@@ -4064,9 +4059,8 @@ toxicology - toxolojia
 toxin - biotoxe  
 tract (land, ground, region) - stan  
 tractor - trator  
-trade (buy and sell) - vendosope  
-trade (commerce) - vendosope  
-trader (merchant) - vendosoper  
+trade (buy and sell; commerce) - vendoxope  
+trader (merchant) - vendoxoper  
 trading card - jamokarde  
 tragedy - tragodia  
 tragicomic - tragokomi  
@@ -4086,6 +4080,7 @@ trap (snare) - kapotruke
 trapdoor - padomun  
 travel (voyage, trip) - safar  
 traveler - safarer  
+traveller's cheque (traveler's check) - safaroceke  
 traverse (horizontal) - veye  
 treasure (valuables; precious) - bau  
 tree - moke  
@@ -4103,7 +4098,7 @@ Triton - Triton
 tropical - garmozone  
 tropics - garmozon  
 true (real, genuine) - vere  
-truly (indeed, very) - vero  
+truly (indeed, very) - a vere  
 trunk (torso) - torse  
 trust (rely) - yausine  
 trust (surely, verily, amen) - amen  
@@ -4220,7 +4215,7 @@ Venus - Venus
 veranda (balcony, terrace, porch) - beranda  
 verb - karloge  
 verbal irony (sarcasm) - logironia  
-verify (authenticate) - verite  
+verify (realize) - verife  
 vermouth - vermute  
 version (variation,edition) - version  
 vertical - gautale  
@@ -4270,9 +4265,6 @@ vowel - vokal son
 vulva - vulve  
 waffle - vafle  
 wait - denge  
-wake (become awake) - zagu  
-wake (make awake) - zage  
-wake up - desome  
 Wales (Cambria) - Kamria  
 walk (march) - marce  
 wall (structure for delimitation) - mur  
@@ -4327,15 +4319,14 @@ western gorilla - vestogoril
 wet - xipe  
 wetland - xipostan  
 what kind of? - ke yange  
-what thing? - ke sei  
-what? - ke  
+what thing? - ke xei  
+what? (who? which?) - ke  
 wheat - ganum  
 wheel - cakre  
 wheel - rote  
 when? - ke sate  
 where - a ke  
 which (who, that) - jo  
-which? - ke  
 whirl (dizz; disorientate, trouble, disturb, bother, annoy) - turbe  
 whisky (whiskey) - viski  
 white - bake  
@@ -4344,7 +4335,7 @@ who? - ke jen
 whole (entire) - hole  
 wholeness (integrity) - holia  
 whorehouse - codokan  
-whose? - ki  
+whose? - ke su  
 wide (broad) - kuane  
 widow - vidou  
 width (breadth) - kuania  

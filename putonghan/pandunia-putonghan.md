@@ -169,9 +169,9 @@ biosistem - 生物群系
 biotoxe - 毒素  
 bil - 帐单  
 bine - 建设  
+binite - 砖  
 binoplania - 建筑学  
 binoplaner - 建筑师  
-binite - 砖  
 bir - 啤酒  
 bismute - 铋  
 bode - 身体  
@@ -214,6 +214,7 @@ camaca - 匙子
 cantergrupe - 合唱团  
 care - 四 (4)  
 caryom - 星期四 (禮拜四)  
+ceke - 支票  
 celolojia - 细胞学  
 cene - 以前  
 cendeno - 昨日  
@@ -286,6 +287,8 @@ dokum - 文件
 dokumfilme - 纪录片  
 dolfin - 海豚  
 dom - 家 (房子)  
+• donaje - 礼物  
+donajoceke - 礼物卡  
 dong - 东  
 dosile - 驯养  
 dosile - 驯服的  
@@ -383,7 +386,6 @@ fuzopetre - 熔岩
 
 ## G  
 
-ga - 到  
 gabre - 坟墓 (埋葬)  
 gabrite - 墓石 (墓碑)  
 gabrostan - 公墓 (墓地)  
@@ -566,8 +568,6 @@ jus - 汁
 
 ## K  
 
-ke - 什么  
-ko? - 怎么  
 kaboge - 南瓜  
 kade - 鱈  
 kadium - 镉  
@@ -622,11 +622,13 @@ kate - 切
 katoglutoban - 剪贴板  
 katane - 剑  
 katus - 仙人掌  
-kave - 坑 (穴)  
 kave - 挖  
+• kavaje - 坑 (穴)  
 Kaukasia - 高加索  
-kece - 客气  
+ke - 什么  
+ke mode - 怎么  
 kecape - 番茄酱 (茄汁)  
+keci - 客气  
 keger - 客人  
 kenar - 边  
 kenarbaryer - 篱笆  
@@ -877,6 +879,7 @@ murkaguze - 壁纸 (墙纸)
 murce - 蚂蚁  
 muskulbin - 健美运动  
 musle - 木斯里 (瑞士麦片)  
+muze - 娱乐  
 muzike - 音乐  
 
 ## N  
@@ -1122,6 +1125,7 @@ sable - 沙
 sablostan - 沙漠  
 sabun - 肥皂  
 safar - 旅行  
+safaroceke - 旅行支票  
 sagu - 西谷米  
 sahe - 正确  
 sale - 健康  
@@ -1235,6 +1239,7 @@ susan - 百合花
 
 ## T  
 
+ta - 到  
 tablete konputer - 平板电脑  
 table konputer - 平板电脑  
 tail - 砖 (瓦)  
@@ -1251,11 +1256,11 @@ taze - 新鲜的
 tehne - 技术  
 tehnium - 锝  
 tehnolojia - 工艺学  
-telfon - 电话机  
-telfone - 打电话  
-telfonlin - 电话线  
-teloskope - 望远镜  
-telvide - 电视机  
+telefon - 电话机  
+telefone - 打电话  
+telefonlin - 电话线  
+teleskope - 望远镜  
+televide - 电视机  
 telurium - 碲  
 tem - 主题目  
 temnam - 标题  
@@ -1325,8 +1330,6 @@ val - 价值
 valse - 华尔兹  
 vampir - 吸血鬼  
 van: - 森林  
-van - 娱乐  
-vanu - 玩耍  
 vanadium - 钒  
 vare - 各种各样  
 vase - оазис  
@@ -1336,7 +1339,7 @@ vei - 尾巴 (尾部)
 veilin - 緯紗  
 veisirke - 纬度  
 vende - 卖  
-vendosope - 贸易  
+vendoxope - 贸易  
 ventur - 冒险  
 venturer - 冒险者  
 Venzou - 温州  
@@ -1400,9 +1403,8 @@ xuler - 学生
 xulkan - 学校  
 xulxefe - 校长  
 xure - 开始  
-xure - 开始  
 xute - 技术  
-xute - 熟练  
+• xutike - 熟练  
 
 ##   
 
@@ -1437,7 +1439,6 @@ yuge - 轭
 
 ## Z  
 
-zagu - 睡醒  
 zaman - 时间  
 zanger - 工匠 (匠人)  
 zarkube - 骰子 (色子)  

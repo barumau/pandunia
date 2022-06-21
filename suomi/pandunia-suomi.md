@@ -45,6 +45,7 @@ a le - siellä (tuolla)
 a nove - äsken (vasta, juuri)  
 a sababe de - koska (johdosta, takia)  
 a sube - alla  
+a vere - todella  
 a zay den - tänään  
 abe - pois  
 abete - pihta (jalokuusi)  
@@ -361,9 +362,10 @@ biblia - Raamattu
 bil - lasku (faktuura)  
 bilor - kristalli  
 bine - koota (rakentaa; rakennus)  
+• konbine - panna kokoon  
+binite - tiili  
 binoplania - arkkitehtuuri  
 binoplaner - arkkitehti  
-binite - tiili  
 binde - täplä (läiskä)  
 bir - olut (kalja)  
 birkan - baari (kapakka)  
@@ -483,6 +485,7 @@ cate - katto (katos)
 cau - ruoho  
 caustan - ruohotasanko  
 Cehia - Tšekki  
+ceke - šekki  
 ceke - tarkistaa (tsekata)  
 cel - solu  
 celolojia - soluoppi (sytologia)  
@@ -658,7 +661,6 @@ deu - jumala
 • dusdevisme - dysteismi (usko jumalan pahuuteen)  
 • pandevisme - monijumalisuus (panteismi)  
 • polidevisme - polyteismi (monijumalisuus)  
-• polidevisme - polyteismi (monijumalisuus)  
 • unodevisme - monoteismi (yksijumalisuus)  
 • deviste - teisti  
 • andeviste - ateisti (jumalankieltäjä)  
@@ -717,9 +719,11 @@ domzeze - kärpänen
 • dominia - hallinta-alue (hallintopiiri,dominio)  
 Dominiki Komunkratia - Dominikaaninen Tasavalta  
 Dominika - Dominika  
-don - lahja  
 done - antaa  
-donive - antelias (avokätinen)  
+• donaje - lahja  
+• donive - antelias (avokätinen)  
+• sudone - hyväntekeväisyys (almujen anto)  
+donajoceke - lahjakortti  
 dong - itä  
 donge - itäinen  
 Dongi Timor - Itä-Timor  
@@ -956,11 +960,11 @@ fokus - keskittyminen (keskittymä)
 fokuse - keskittää  
 fole - hullu (mieletön)  
 folia - hulluus (mielettömyys)  
-fon - äänne (fooni)  
-fone - ääntää (lausua)  
-fonem - äänne (foneemi)  
-fonologe - ääntää (lausua)  
-fonolojia - fonologia (äänneoppi)  
+fone - äänne (fooni)  
+• foneme - äänne (foneemi)  
+• fonologe - ääntää (lausua)  
+• fonolojia - fonologia (äänneoppi)  
+fonomime - onomatopoeia (ääntä jäljittelevä sana)  
 fonte - lähde (kaivo)  
 fontokalam - mustekynä  
 fore - porata  
@@ -1023,7 +1027,6 @@ fuze - sulaa
 
 ## G  
 
-ga - luokse (tykö, kohti, asti)  
 Gabon - Gabon  
 gabre - hauta (haudata)  
 gabrite - hautakivi  
@@ -1403,11 +1406,11 @@ intraje - sisälmykset
 introspete - introspektio  
 introverse - sisäänpäinsuuntautunut (introvertti)  
 Indonesia - Indonesia  
-insale - toivoa  
 intelige - äly  
 • inteligable - älyttävä (ymmärrettävä)  
 • inteligente - älykäs  
 • inteligentia - älymystö (intelligentsia)  
+inxala - toivoa  
 IP adres - IP-osoite  
 Irakia - Irak  
 Iran - Iran  
@@ -1487,15 +1490,6 @@ justo - juuri (just, täsmälleen)
 
 ## K  
 
-ke - mikä? (kumpi?)  
-ke yange - millainen?  
-ke jen - kuka?  
-ke sate - milloin? (koska?)  
-ke sei - mikä? (mitä?)  
-ke - mikä? (mitä?)  
-ki - kenen? (minkä?)  
-ko? - miten?  
-ko multo - montako? (paljonko?)  
 kababe - grillata (kärventää)  
 kababe manse - kebab (grilliliha)  
 kabau - vesipuhveli  
@@ -1595,14 +1589,21 @@ Katalunia - Katalonia
 katane - miekka  
 Katar - Qatar  
 katus - kaktus  
-kave - kuoppa (kolo)  
 kave - kaivaa  
-• exkave - kaivaa esiin  
+• kavaje - kuoppa (kolo)  
 kavai - söpö (suloinen)  
 Kaukasia - Kaukasia  
 Kazakia - Kazakstan  
-kece - kohtelias (kiltti)  
+ke - mikä? (mitä? kumpi?)  
+ke su - kenen? (minkä?)  
+ke yange - millainen?  
+ke jen - kuka?  
+ke mode - miten?  
+ke multe - montako? (paljonko?)  
+ke sate - milloin? (koska?)  
+ke xei - mikä? (mitä?)  
 kecape - ketsuppi  
+keci - kohtelias (kiltti)  
 kege - käynti (vierailu, visiitti)  
 kege - käydä (vierailla)  
 keger - vierailija (vieras)  
@@ -2283,6 +2284,8 @@ muskul - lihas
 muskulbin - kehonrakennus (bodaus)  
 musle - mysli  
 mute - muuttaa (muuntaa)  
+muze - huvi (hauskuus, viihde; viihtyä; huvittaa, viihdyttää)  
+• muzante - hauska (huvittava)  
 muzike - musiikki  
 muzike - soittaa (musisoida)  
 muziker - muusikko  
@@ -2970,6 +2973,7 @@ safar - matka (reissu; matkustaa)
 • safarer - matkailija  
 • safarisme - turismi  
 • safariste - turisti  
+safaroceke - matkašekki  
 safran - sahrami  
 sage - kertomus (tarina, saaga)  
 sagu - saagopalmu  
@@ -3178,7 +3182,7 @@ solosistem - aurinkokunta
 Solomon nesia - Salomon-saaret  
 some - nukkua (nukkuminen, uni)  
 • somive - unelias  
-• desome - herättää  
+• desome - herääminen (herättää; olla hereillä)  
 • ansome - unettomuus  
 somokamar - makuuhuone  
 Somalia - Somalia  
@@ -3279,6 +3283,7 @@ suxi - sushi
 
 ## T  
 
+ta - luokse (tykö, kohti, asti)  
 tabake - tupakka  
 table - laatta (levy, taulu)  
 • tablate - taulukoida  
@@ -3327,12 +3332,12 @@ tehnolojia - tekniikka (teknologia)
 tel - etäisyys (kaukaisuus)  
 tele - kaukainen  
 telia - etäisyys (kaukaisuus)  
-telfon - puhelin  
-telfone - soittaa puhelimella  
-telfonia - puhelintekniikka  
-telfonlin - puhelinjohto  
-teloskope - kaukoputki (teleskooppi)  
-telvide - televisio  
+telefon - puhelin  
+telefone - soittaa puhelimella  
+telefonia - puhelintekniikka  
+telefonlin - puhelinjohto  
+teleskope - kaukoputki (teleskooppi)  
+televide - televisio  
 teluge - telugu (eräs intialainen kieli)  
 telurium - telluuri  
 tem - aihe (teema)  
@@ -3522,9 +3527,6 @@ vale - arvottaa
 valu - olla jkn arvoinen  
 valse - valssi  
 van: - metsä  
-van - huvi (hauskuus)  
-vane - viihdyttää (huvittaa)  
-vane - hauska (huvittava)  
 vanadium - vanadiini  
 vanil - vanilja  
 Vanuatu - Vanuatu  
@@ -3555,13 +3557,15 @@ vele - verho (peite)
 • pervene - tulla perille  
 • prevene - olla edessä (olla haittona)  
 • revene - tulla takaisin  
+vendoxope - käydä kauppaa (kaupankäynti)  
 Venezuele - Venezuela  
 ventur - seikkailu  
 venturer - seikkailija  
 Venzou - Wenzhou  
 venzovorange - satsuma  
 vere - tosi (aito)  
-vero - todella  
+• verife - toteuttaa  
+• provere - todistaa  
 verme - mato  
 vermute - vermutti  
 verse - kohti (päin)  
@@ -3654,8 +3658,6 @@ xaman - šamaani
 xampan vin - ĉampano  
 xanke - epäilys  
 • xankable - epäilyttävä  
-• xankane - epäilevä  
-xante - lepo  
 xante - rauhallinen (levollinen, tyyni)  
 xarme - häpeä  
 xarnir - sarana  
@@ -3710,11 +3712,9 @@ xuler - oppilas
 xulkamar - luokkahuone  
 xulkan - koulu (opisto)  
 xulxefe - rehtori  
-xure - alku  
-xure - aloittaa  
-xure - alkaa  
+xure - alku (alkaa; aloittaa)  
 xute - taito  
-xute - taitava  
+• xutike - taitava  
 
 ##   
 
@@ -3783,8 +3783,6 @@ yune man - poika (nuori mies)
 
 ## Z  
 
-zage - herättää  
-zage - olla hereillä  
 zaitun - oliivi  
 zalime - ilkeä (julma)  
 • zalimia - tyrannia  

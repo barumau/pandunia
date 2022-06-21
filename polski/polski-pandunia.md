@@ -162,7 +162,6 @@ basen - basen
 bateria - batre  
 baton czekoladowy - coklatobaton  
 bawełna - goton  
-bawić, zabawiać - vane  
 bawół domowy - kabau  
 baza danych (bank danych) - datobanke  
 bańka - lilbol  
@@ -344,7 +343,6 @@ ciecz (płyn) - riumate
 ciekawy - savovolane  
 ciemny, słabo oświetlony - dam  
 ciepły - garme  
-cieszyć się (zażywać, bawić się) - vanu  
 cieszyć, podobać się - suke  
 cień - saye  
 ciągnąć - tire  
@@ -392,6 +390,7 @@ czas; okazja - mar
 czasownik - karloge  
 czaszka - saroste  
 czcić, szanować - puze  
+czek - ceke  
 czekać - denge  
 czekolada - coklate  
 czempion - campion  
@@ -458,7 +457,7 @@ diabeł, szatan - xatan (ruhoxatan)
 diagonal - diagone  
 diament - adamas  
 dioryt - diorite  
-do, dopóki, dla - ga  
+do, dopóki, dla - ta  
 dobry - bon  
 dobry los, szczęście - boni zar  
 dobry ranek - salam sube  
@@ -553,7 +552,7 @@ dziękować (dzięki) - danke
 dziś, dzisiaj - a zay den  
 dzwon (dzwonek) - danger  
 dzwonić (dźwięczeć, szczękać) - dange  
-dół, jama, wydobycie, wykop, wykopalisko - kave  
+dół, jama, wydobycie, wykop, wykopalisko - kavaje  
 dół, spód - tal  
 dąb - balute  
 dąb szypułkowy - europobalute  
@@ -659,7 +658,7 @@ flaga, sztandar - bandir
 flerow - flerovium  
 fluor - flurium  
 folder (teczka) - dokumsanduke  
-fonem - fonem  
+fonem - foneme  
 fonologia - fonolojia  
 fontanna (studnia, źródło) - fonte  
 forma (kształt; ukształtować, kształtować, urzeźbić, rzeźbić) - forme  
@@ -789,7 +788,7 @@ gęś - ganse
 gładki - lise  
 głaz - dayite  
 głos (głosować) - vote  
-głoska - fon  
+głoska - fone  
 głowa - sar  
 głupi (idiotyczny) - idiote  
 głupiec, bufon - bufon  
@@ -807,9 +806,8 @@ hak - huke
 halo, cześć - halou  
 hamak - hamake  
 han chiński - cine  
-handel - vendosope  
-handlarz (kupiec) - vendosoper  
-handlować - vendosope  
+handel (handlować) - vendoxope  
+handlarz (kupiec) - vendoxoper  
 harmonia - harmonia  
 harmoniczny - harmone  
 has - hesium  
@@ -882,7 +880,7 @@ idiota - idiote
 idiotyzm (głupota) - idiotia  
 ifrit - ifrite  
 igła, szpilka - pin  
-ile? - ko multo  
+ile? - ke multe  
 ilość - polia  
 ilustrator, grafik - grafer  
 iluzja (halucynacja) - falsvide  
@@ -949,7 +947,7 @@ jagoda - beri
 jajko (jajo) - ove  
 jak (zwierzę) - yake  
 jak, niż, od - ce  
-jak? - ke sei  
+jak? - ke xei  
 jaki? - ke yange  
 jakikolwiek, którykolwiek - no ham di  
 jakiś - yo  
@@ -1076,7 +1074,7 @@ kelwin - kelvin
 Kenia - Kenia  
 keta - bakosalmon  
 kichać (apsik!) - aci  
-kiedy? - ko?  
+kiedy? - ke mode  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - kanale  
 kieszeń - jebe  
 kiełbasa - sosis  
@@ -1253,7 +1251,6 @@ książka z obrazkami - grafobuke
 księżyc - lune  
 kszesło, fotel - korse  
 ktoś - yo jen  
-który? - ke  
 Kuba - Kuba  
 kubek - kupe  
 kubek do herbaty - caikupe  
@@ -1639,7 +1636,7 @@ nadajnik radiowy - radi miser
 nadawca - miser  
 nadać, wysłać pocztą - poste  
 Naddniestrze - Nistria  
-nadzieja, życzenie - insale  
+nadzieja, życzenie - inxala  
 nagi (goły, obnażony) - nude  
 nagrobek - gabrite  
 nahuatl - navate  
@@ -1716,7 +1713,6 @@ Niemcy - Doice
 niemiecki - doice  
 niemowlę - bebe  
 nienawidzić - hen  
-niepewny (podejrzliwy, niedowierzący) - xankane  
 niepokój - depace  
 niepotrzebny - anyave  
 nieskończoność - anlimitia  
@@ -1792,7 +1788,7 @@ obrus - mezatexe
 obrócić (kręcić) - rotate  
 obserwator (widz) - vider  
 obsydian - osidian  
-obudzić, budzić - zage  
+obudzić (budzić; przebudzony, przytomny) - desome  
 obyczaj (zwyczaj, tradycja, praktyka, konwencja; konwencjonalny, zwyczajowy, tradycyjny) - rite  
 obywatel - dexojen  
 obóz - kamper  
@@ -2061,9 +2057,8 @@ pociąg - tren
 poczta - poste  
 poczta elektroniczna - eletroposte (e-poste)  
 poczta, budynek poczty - postokan  
-początek - xure  
 pod (poniżej) - a sube  
-podarunek, dar, prezent - don  
+podarunek, dar, prezent - donaje  
 podatek, opłata - taxe  
 poddanie się, uległość, pokora, posłuszeństwo - islam  
 podnosić (podnieść) - gave  
@@ -2095,7 +2090,6 @@ polerować (szlifować) - fotofrike
 policja - polis  
 policzyć (przetwarzać dane) - konpute  
 Polinezja Francuska - Fransi Polnesia  
-politeizm - polidevisme  
 politeizm - polidevisme  
 politologia - politolojia  
 polityczny - politike  
@@ -2252,7 +2246,6 @@ prowadzić pojazd - xofe
 prowadzić, dowodzić, kierować - lide  
 prysznic - duce  
 przebić (perforować, dziurawić) - konge  
-przebudzony, przytomny - zage  
 przechowawca, kustosz, opiekun - hafizer  
 przechylać (przechylić, wychylać, wychylić) - terce  
 przeciekać, ciec - love  
@@ -2869,10 +2862,10 @@ teistyczny - deviste
 teizm - devisme  
 tekst - texte  
 tektonika płyt - plati geokaskia  
-telefon - telfon  
-teleportować się - teloloku  
-teleskop - teloskope  
-telewizja - telvide  
+telefon - telefon  
+teleportować się - teleloke  
+teleskop - teleskope  
+telewizja - televide  
 tellur - telurium  
 telugu - teluge  
 temat, motyw - tem  
@@ -3006,7 +2999,7 @@ uleczyć, leczyć, uzdrowić, uzdrawiać - medike
 ulubiony - profilaje  
 umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - zange  
-umiejętny (wprawny) - xute  
+umiejętny (wprawny) - xutike  
 umieścić (postawić) - loke  
 umrzeć, umierać - mortu  
 umysłowy (psychiczny) - ruhe  
@@ -3014,7 +3007,7 @@ unia - unia
 Unia Europejska (EU) - Europi Unia  
 uniwersytet - daixulkan  
 uprawić, uprawiać - agre  
-uprzejmy - kece  
+uprzejmy - keci  
 Uran - Uran  
 uran - uranium  
 urdu - urde  
@@ -3225,7 +3218,7 @@ wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie
 wyklarować (rozjaśnić) - klarife  
 wykopać, kopać, wydobyć, wydobywać, wykopywać - kave  
 wymagać (przewidywać; warunek) - xarte  
-wymawiać (wymówić) - fone  
+wymawiać (wymówić) - fonologe  
 wymieniać, wymienić, zamieniać, zamienić - badle  
 wymiotować (zwrócić) - retrogule  
 wynająć, oddać w najem - kirodone  
@@ -3287,8 +3280,8 @@ z (partykuła posiadania) - de
 
 z boku (na bok) - lato  
 zaakceptować, akceptować, powiedzieć okej, mówić okej - okeye  
-zabawa, rozrywka - van  
-zabawny - vane  
+zabawa (rozrywka; bawić, zabawiać) - muze  
+zabawny - muzante  
 zabić, zabijać - morte  
 zabroniony (wzbroniony, nielegalny, haram, tabu) - harame  
 zabronić (wzbronić, zakazać) - harame  
@@ -3298,8 +3291,7 @@ zachować, zakonserwować, zachować, utrzymać - hafize
 zachowywać się (działać) - manire  
 zachwyt (zdumienie) - ajibia  
 zachód (zachodni) - veste  
-zaczyna (zacząć, rozpoczynać, rozpocząć) - xure  
-zacząć, zaczynać - xure  
+zaczyna (początek; zacząć, rozpoczynać, rozpocząć) - xure  
 zagranica - exdex  
 zagraniczny - exdexe  
 zagrożenie (niebezpieczeństwo; niebezpieczny) - hatre  
@@ -3408,7 +3400,6 @@ zombie, zombi - zombi
 zoo (ogród zoologiczny) - zooparke  
 zoologia - zoolojia  
 zoologiczny - zoolojike  
-zostawić (zostawiać) - xante  
 zostawić,zostawiać - repause  
 zrobić (czyn, uczynek) - fete  
 zrobić (stworzyć,wykreować) - fete  

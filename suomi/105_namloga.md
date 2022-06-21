@@ -5,7 +5,7 @@
 Asiansanat nimeävät esineitä ja asioita.
 Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monikkomuotoja ei ole.
 
-**seku**
+**ite**
 = kivi tai kiviä  
 **meza**
 = pöytä tai pöytiä  
@@ -15,7 +15,7 @@ Panduniassa niihin ei sisälly lukumäärä, joten erillisiä yksikkö- ja monik
 = vesi, vettä  
 
 Usein lukumäärä tiedetään, koska se on aikaisemmin mainittu samassa asiayhteydessä tai koska se on yleisessä tiedossa.
-Esimerkiksi sanalla **sol** tarkoittaa yleensä aurinkokuntamme ainoaa aurinkoa ja **luna** maapallon ainoaa kuuta.
+Esimerkiksi sanalla **sol** tarkoittaa yleensä aurinkokuntamme ainoaa aurinkoa ja **lun** maapallon ainoaa kuuta.
 
 ## Luku
 
@@ -23,7 +23,7 @@ Substantiiveilla on sama muoto yksikössä ja monikossa.
 
 Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
 
-**seku seku**
+**ite ite**
 = kiviä, paljon kiviä  
 **sing sing**
 = tähtiä, paljon tähtiä  
@@ -42,10 +42,10 @@ Kaksi tai useampia sanoja voidaan liittää yhdyssanaksi.
 Yhdyssanan viimeinen sana on edusosa eli yhdyssanan merkittävin osa.
 Sitä ennen tulevat sanat toimivat määriteosana eli ne ainoastaan muokkaavat pääsanan merkitystä.
 
-**sol foto**
+**sol fote**
 = auringon valo  
-**luna foto**
+**lun fote**
 = kuun valo  
-**luna seku**
+**lun ite**
 = kuukivi  
 

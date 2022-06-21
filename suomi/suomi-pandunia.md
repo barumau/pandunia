@@ -87,17 +87,15 @@ Algeria - Zayeria
 aliarvioida - minrai  
 alistua (alistuminen; antautuminen) - islam  
 alittaa - go sube  
-alkaa - xure  
 alkoholi - alkol  
 alkovi - nis  
-alku - xure  
+alku (alkaa; aloittaa) - xure  
 alkuaine - kimium  
 alkuperä (lähde; alkuperäinen) - asle  
 alla - a sube  
 allas - basen  
 allatiivi - alative  
 allofoni (vaihtoehtoinen ääntämys) - alofon  
-aloittaa - xure  
 alpakka - alpaka  
 alttari - puzomeze  
 alue (seutu) - aria  
@@ -403,7 +401,6 @@ ensimmäinen (alku-) - xurime
 ensimmäinen (numero yksi) - unime  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anative  
-epäilevä - xankane  
 epäillä (olla uskomatta) - ankrede  
 epäilys - xanke  
 epäilyttävä - xankable  
@@ -591,7 +588,7 @@ harvinainen (harvoin) - nadir
 hassium - hesium  
 haudata multaan - inhume  
 haureus (uskottomuus) - zine  
-hauska (huvittava) - vane  
+hauska (huvittava) - muzante  
 hauta (haudata) - gabre  
 hautakivi - gabrite  
 hautausmaa - gabrostan  
@@ -632,8 +629,7 @@ hermomyrkky - neurotoxe
 hermosairaus (neuropatia) - neuropatia  
 hermosolu (neuroni) - neurocel  
 hertsi (Hz) - herze  
-herättää - zage  
-herättää - desome  
+herääminen (herättää; olla hereillä) - desome  
 Hessen - Hesia  
 heteroromanttinen - aloromanse  
 heteroseksuaali - alosexe  
@@ -716,7 +712,7 @@ huumeriippuvainen (addikti) - narkiste
 huumori - humor  
 huutaa (huuto) - klame  
 huutaa takaisin - reklame  
-huvi (hauskuus) - van  
+huvi (hauskuus, viihde; viihtyä; huvittaa, viihdyttää) - muze  
 hygieeninen - salsafe  
 hygienia (puhtaus) - salsafia  
 hylkiö (paaria) - paraye  
@@ -734,6 +730,7 @@ hyväksyä - bonraye
 hyväksyä - okeye  
 hyvännäköinen (kaunis, komea) - bonvide  
 hyvännäköinen - surupe  
+hyväntekeväisyys (almujen anto) - sudone  
 Hyvää iltaa - salam suar  
 hyvää matkaa - salam cute  
 hyvää ruokahalua! - salam yam  
@@ -997,7 +994,6 @@ kaikki - pan (pani)
 kaiku - mirsonde  
 kaipuu (ikävä, nostalgia) - nostalgia  
 kaivaa - kave  
-kaivaa esiin - exkave  
 kaivaa mullasta (kaivaa haudasta) - exhume  
 kakku (keksi) - keke  
 kaksi (2) - du  
@@ -1098,7 +1094,7 @@ kauan (pitkän aikaa) - longoduro
 kauhu (terrori) - terure  
 kaukainen - tele  
 Kaukasia - Kaukasia  
-kaukoputki (teleskooppi) - teloskope  
+kaukoputki (teleskooppi) - teleskope  
 kauneus - sundaria  
 kaunis (komea, sievä) - mei  
 kaunishiuksinen - sukexe  
@@ -1133,7 +1129,7 @@ keltainen - limonrange
 kelvin (K) - kelvin  
 kemia - kimolojia  
 kemikaali - kimi  
-kenen? (minkä?) - ki  
+kenen? (minkä?) - ke su  
 kenguru - kangaru  
 Kenia - Kenia  
 kenkä - sapate  
@@ -1245,7 +1241,7 @@ kloori - klorium
 koboltti - kobalte  
 koe (testi, yritys) - teste  
 kohdata (tulla yhteen) - konvene  
-kohtelias (kiltti) - kece  
+kohtelias (kiltti) - keci  
 kohti (päin) - verse  
 koira - vaf  
 koivu - berze  
@@ -1394,7 +1390,7 @@ kuolevainen - mortal
 kuolinluettelo - nekroliste  
 kuolla - mortu  
 kuollut (vainaa) - morte  
-kuoppa (kolo) - kave  
+kuoppa (kolo) - kavaje  
 kuori (suojakuori) - kaske  
 kuorma (lasti, lataus, taakka, paino) - karge  
 kuoro - cantergrupe  
@@ -1472,6 +1468,7 @@ käskyvalta - amirhake
 kätevä - zange  
 kävellä (kävely, marssi) - marce  
 käydä (vierailla) - kege  
+käydä kauppaa (kaupankäynti) - vendoxope  
 käydä päälle (käydä kimppuun; päällekarkaus, aggressio) - agrese  
 käynti (vierailu, visiitti) - kege  
 käyttäjä - uzer  
@@ -1497,7 +1494,8 @@ laatta (levy, taulu) - table
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsifia  
 laatu (ominaisuus, ominaispiirre, määrite) - sif  
 Lagos - Lagos  
-lahja - don  
+lahja - donaje  
+lahjakortti - donajoceke  
 lahti - bai  
 lainata (siteerata) - cite  
 lainausmerkki - citomarke  
@@ -1558,7 +1556,6 @@ lentokone - viman
 lentokonekaappari - vimankaper  
 lentokonekaappaus - airopiratia  
 lepakko - feimus  
-lepo - xante  
 lepo - repause  
 lepää rauhassa (RIP) - repause in pace (RIP)  
 leski - vidou  
@@ -1651,7 +1648,7 @@ luodinkestävä - danosekure
 luokitella (kategorisoida) - klase  
 luokka (kategoria) - klas  
 luokkahuone - xulkamar  
-luokse (tykö, kohti, asti) - ga  
+luokse (tykö, kohti, asti) - ta  
 luola - guhe  
 luolaseikkailu - dungia aventur  
 luona (-lla, -ssa) - a  
@@ -1797,6 +1794,7 @@ matka (reissu; matkustaa) - safar
 matkailija - safarer  
 matkaopas (opaskirja) - gidobuke  
 matkatavarat - bagaje  
+matkašekki - safaroceke  
 matkia (imitoida) - mime  
 matkija (imitaattori) - mimer  
 mato - verme  
@@ -1861,9 +1859,8 @@ mikrobiologia - mikrobiolojia
 Mikronesia - Mikronesia  
 mikroskooppi - mikroskope  
 mikä tahansa (umpimähkäinen, mielivaltainen) - no ham di  
-mikä? (kumpi?) - ke  
-mikä? (mitä?) - ke  
-mikä? (mitä?) - ke sei  
+mikä? (mitä? kumpi?) - ke  
+mikä? (mitä?) - ke xei  
 miljardi (giga-) - gige  
 miljoona (mega-) - mega  
 miljoona (mega-) - yota  
@@ -1880,7 +1877,7 @@ minä - mi
 missä? - a ke  
 mitali - medal  
 mitata - metre  
-miten? - ko?  
+miten? - ke mode  
 mitta (koko, määrä) - metre  
 Moldova - Moldove  
 molybdeeni - molidenium  
@@ -1905,7 +1902,7 @@ monokkeli - unoki lense
 monoteismi (yksijumalisuus) - undevisme  
 monoteismi (yksijumalisuus) - unodevisme  
 monta (monikon merkki) - os  
-montako? (paljonko?) - ko multo  
+montako? (paljonko?) - ke multe  
 Montenegro - Cernagore  
 moottori - moter  
 moottoripyörä - motosikle  
@@ -2117,7 +2114,6 @@ olkapää (hartia) - kante
 olla - si  
 olla edessä (olla haittona) - prevene  
 olla eri mieltä - aloraye  
-olla hereillä - zage  
 olla jkn arvoinen - valu  
 olla jtkn mieltä (pitää jnkn) - raye  
 olla nimeltään - name  
@@ -2140,6 +2136,7 @@ ongelmallinen - probleme
 ongenkoukku - pesohuke  
 onnistua (mennä hyvin,menestyä) - sucese  
 onnitella (siunata) - barke  
+onomatopoeia (ääntä jäljittelevä sana) - fonomime  
 oodi (värssy) - ode  
 opas (tiennäyttäjä) - gider  
 opastaa (ohjata) - gide  
@@ -2268,6 +2265,7 @@ pankkiiri - banker
 panna (asettaa) - poze  
 panna (asettaa, sijoittaa) - loke  
 panna jkn maate - kuse  
+panna kokoon - konbine  
 panna sisään - intre  
 panna sisään - inpoze  
 pannu (paistinpannu) - tave  
@@ -2437,7 +2435,6 @@ polonium - polskium
 polttaa - hoge  
 polvi - gute  
 polyteismi (monijumalisuus) - polidevisme  
-polyteismi (monijumalisuus) - polidevisme  
 pommi - bombe  
 porata - fore  
 porkkana - karote  
@@ -2484,9 +2481,9 @@ puertoricolainen - portorike
 puhallin (tuuletin) - fentor  
 puhdas (siivo, siisti; puhdistaa, siivota) - safe  
 puhelias - logive  
-puhelin - telfon  
-puhelinjohto - telfonlin  
-puhelintekniikka - telfonia  
+puhelin - telefon  
+puhelinjohto - telefonlin  
+puhelintekniikka - telefonia  
 pukea (vaatettaa) - fuke  
 pukeutua (pitää vaatetta yllään) - fuku  
 pullo - botel  
@@ -2933,7 +2930,7 @@ soijakastike - soisaus
 soijamaito - soimilke  
 soikea (munanmuotoinen,ovaali) - ovoide  
 soittaa (musisoida) - muzike  
-soittaa puhelimella - telfone  
+soittaa puhelimella - telefone  
 soittokello - danger  
 sokeri - sukar  
 sokerinen (makea) - sukari  
@@ -3099,7 +3096,7 @@ Taipei - Taibei
 taipumus - ivia  
 taistelu (sota) - jeng  
 taitaa (olla mestari jskn) - meste  
-taitava - xute  
+taitava - xutike  
 taiteilija - artiste  
 taito - xute  
 taivaankappale - astre  
@@ -3202,7 +3199,7 @@ teko (toimenpide,akti) - ate
 tekoäly - artofete intelige (AI)  
 teksti - texte  
 tekstin muotoilu - kitaboforme  
-televisio - telvide  
+televisio - televide  
 telluuri - telurium  
 teltta - hemah  
 telugu (eräs intialainen kieli) - teluge  
@@ -3253,10 +3250,11 @@ timantti - adamas
 Timor - Timor  
 tina - stanium  
 titaani - titanium  
-todella - vero  
+todella - a vere  
 todellinen (aito) - rel  
 todellisuus - relia  
 todistaa - dalile  
+todistaa - provere  
 todiste (todistus, osoitus, demonstraatio) - dalil  
 Togo - Togo  
 tohtori - dotor  
@@ -3273,7 +3271,7 @@ toimiva - funcable
 toisiaan (keskenään; molemminpuolinen, keskinäinen) - unale  
 toisiaan (toinen toistaan) - semon  
 toisto - ri-  
-toivoa - insale  
+toivoa - inxala  
 toksiini - biotoxe  
 toksikologia (myrkkyoppi) - toxolojia  
 tomaatti - tomate  
@@ -3292,6 +3290,7 @@ torvi (torvisoitin) - buge
 tosi (aito) - vere  
 tosi-TV - rel televizion  
 toteuttaa (konkretisoida) - relize  
+toteuttaa - verife  
 toukka - larve  
 toukokuu - limlun  
 tragedia (murhenäytelmä) - tragodia  
@@ -3607,7 +3606,6 @@ vihainen (suuttunut) - fure
 vihannes - coi  
 vihollinen - dusojen  
 vihreä - luge  
-viihdyttää (huvittaa) - vane  
 viikko - yomcete  
 viimeinen - finime  
 viina - arake  
@@ -3814,9 +3812,8 @@ zulu - Zulu
 ääni (äänestää) - vote  
 ääni - son  
 äänioikeus - votohake  
-äänne (foneemi) - fonem  
-äänne (fooni) - fon  
-ääntää (lausua) - fone  
+äänne (foneemi) - foneme  
+äänne (fooni) - fone  
 ääntää (lausua) - fonologe  
 ääntää - sone  
 äärettömyys (rajattomuus) - anlimitia  
@@ -3827,3 +3824,4 @@ zulu - Zulu
 šamaani - xaman  
 šampoo - kexosabun  
 šaria - islam xaria  
+šekki - ceke  

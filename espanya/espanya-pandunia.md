@@ -1,5 +1,5 @@
 # espanya–pandunia
-a (hacia) - ga  
+a (hacia) - ta  
 
 ## A  
 
@@ -300,7 +300,7 @@ auspicioso (propicio) - bonsinye
 Australia - Australia  
 Austria - Ostria  
 Austronesia - Austronesia  
-autenticar - verite  
+autenticar - verife  
 autocratia (monarquía) - autokratia  
 automotor (automotriz) - automote  
 automóvil (coche) - motogar  
@@ -653,6 +653,9 @@ chapati (pan sin levadura) - capati
 chaqueta - jake  
 charlar (parlotear, chatear) - blabla  
 chelo (violonchelo) - daiviole  
+cheque - ceke  
+cheque de viajero - safaroceke  
+cheque regalo - donajoceke  
 chicle - cuvogom  
 Chile - Cile  
 chile - cili  
@@ -750,15 +753,13 @@ colorido - range
 columna - kolum  
 coma - kome  
 combava (lima kafir) - karsolimon  
+combinar - konbine  
 comedia - komodia  
 comedor - yamkamar  
-comenzar (iniciar, empezar) - xure  
-comenzar (iniciarse, empezar) - xure  
 comer (bebir) - yame  
-comerciar - vendosope  
-comercio - vendosope  
+comercio (comerciar) - vendoxope  
 comida - yam  
-comienzo (inicio, principio) - xure  
+comienzo (inicio, principio; comenzar, iniciar, empezar) - xure  
 comilla - citomarke  
 comino - zire  
 comisión (comité) - konmisia  
@@ -938,10 +939,9 @@ curar (sanar) - medike
 curio - kurium  
 curita (apósito) - glutobende  
 curva - kurve  
-cuál - ke  
-cuál cosa - ke sei  
+cuál cosa - ke xei  
 cuándo - ke sate  
-cuántos - ko multo  
+cuántos - ke multe  
 cálculo - kalkulia  
 cámara - fotografmaxin  
 cárcel - prizonkan  
@@ -954,7 +954,7 @@ cívico - civike
 cóctel - mixi alkol  
 código (cifra) - kode  
 cólera - holera  
-cómo - ko?  
+cómo - ke mode  
 cómo? (eh?) - he  
 cómodo (lujoso) - huse  
 cósmico - kosme  
@@ -1025,7 +1025,6 @@ desacuerdo - alorayia
 desarrollo - dargomute  
 desatascar - detape  
 desayuno - subyam  
-descanso (alivio) - xante  
 descargar - netogete  
 descase en paz - repause in pace (RIP)  
 desconectar - dekonnete  
@@ -1035,9 +1034,7 @@ desierto - sablostan
 designar - desinye  
 deslizar - glise  
 desnudo - nude  
-despertar - zage  
-despertarse - zagu  
-despierto - zage  
+despierto (despertar) - desome  
 despreciar (desdeñar) - paraye  
 destapar - andake  
 destino - nasibe  
@@ -1079,7 +1076,6 @@ disco - diske
 discreto (digital) - feni  
 discusión (debate, discurso) - lon  
 disentir (no estar de acuerdo) - aloraye  
-disfrutar (jugar) - vanu  
 disionario (lexicón) - lexoliste  
 disparar - pave  
 dispersar (esparcir,desmontar; escaso,disperso,ralo) - dise  
@@ -1088,9 +1084,8 @@ disprosio - disprosium
 distancia - telia  
 distintos (diversos) - vare  
 distraer - distrate  
-diversión - van  
-divertido - vane  
-divertir (entretener) - vane  
+divertido - muzante  
+divertir (entretener; diversión) - muze  
 divino - deve  
 dióxido de carbono - karboduloxide  
 doble - duple  
@@ -1152,7 +1147,7 @@ ecuador - geoparlin
 edad - sene  
 educación - xulia  
 educación cívica - civopedia  
-educado - kece  
+educado - keci  
 efecto - exfete  
 efecto secundario - parafete  
 efectuar (efecto, resulta) - asar  
@@ -1294,7 +1289,7 @@ espectador - vider
 espejismo - miraje  
 espejo (retrovisor) - miror  
 Esperanto - esperante  
-esperar (desear) - insale  
+esperar (desear) - inxala  
 esperar - denge  
 espiral (hélice) - helis  
 esponja - sponge  
@@ -1349,7 +1344,6 @@ evidente - exvidable
 evidente - exvide  
 exacto (preciso) - juste  
 examinar (inspeccionar) - gence  
-excavar - exkave  
 excelente - bonsife  
 excepto (exceptuar) - excepe  
 excepto (menos) - minus  
@@ -1433,14 +1427,14 @@ flotar (flotador, boya) - boi
 fluir - dare  
 flúor - flurium  
 fondo - tal  
-fonema - fonem  
-fono (segmento acústico) - fon  
+fonema - foneme  
+fono (segmento acústico) - fone  
 fonología - fonolojia  
 forma (figura; formar) - forme  
 formateo - kitaboforme  
 formulario - sualdokum  
 foro (espacio público) - forum  
-fosa - kave  
+fosa - kavaje  
 foto (fotografía) - fotograf  
 fotografía - fotografia  
 fotógrafo - fotografer  
@@ -1725,7 +1719,7 @@ huracán (tifón) - rototafun
 hurra - ure  
 hurón - furete  
 huérfano - yatim  
-hábil - xute  
+hábil - xutike  
 héroe - vir  
 híbrido (mestizo) - hibride  
 hígado - hepate  
@@ -2803,7 +2797,6 @@ poliedro - polfas
 Polinesia - Polinesia  
 Polinesia Francesa - Fransi Polnesia  
 politeísmo - polidevisme  
-politeísmo - polidevisme  
 pollo - kokode  
 Polonia - Polske  
 polonio - polskium  
@@ -2869,6 +2862,7 @@ principal - xefe di
 prisión - prizon  
 proactinio - protacinium  
 probar (demonstrar, comprobar) - dalile  
+probar - provere  
 problema - problem  
 problemático - probleme  
 procesamiento de imágenes - grafoprocese  
@@ -2891,7 +2885,7 @@ prometer (promesa, voto) - vode
 prometio - prometium  
 pronombre - pronam  
 pronto - suno  
-pronunciar (articular) - fone  
+pronunciar (articular) - fonologe  
 proponente (defensor, -ista) - iste  
 proponer (sugerir; propuesta) - propoze  
 propulsor (hélice) - propelor  
@@ -2961,7 +2955,7 @@ quitar (eliminar,borrar) - depoze
 quitar (pelar) - tira pil  
 quitar (remover) - kitane  
 quién - ke jen  
-qué - ke  
+qué (cuál) - ke  
 qué tipo de - ke yange  
 química - kimolojia  
 químico - kimi  
@@ -3027,7 +3021,7 @@ referir - refere
 reflejar - mire  
 refuerzos - maxobalaje  
 regaliz (alcazuz, orozuz) - sus  
-regalo (obsequio) - don  
+regalo (obsequio) - donaje  
 regenerar - rigenerate  
 registro (archivo; registrar, recordar, anotar) - luge  
 registro (cuenta) - lugia  
@@ -3412,13 +3406,13 @@ tectónica de placas - plati geokaskia
 tejer - texe  
 tela (paño, tejido) - texe  
 telar - texomaxin  
-telefonear - telfone  
-telefono - telfon  
-telefonía - telfonia  
+telefonear - telefone  
+telefono - telefon  
+telefonía - telefonia  
 telerrealidad - rel televizion  
-telescopio - teloskope  
-teletransportarse - teloloku  
-televisión - telvide  
+telescopio - teleskope  
+teletransportarse - teleloke  
+televisión - televide  
 telurio - telurium  
 tema - tem  
 temperatura - terme  

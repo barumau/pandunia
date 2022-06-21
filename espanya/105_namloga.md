@@ -6,7 +6,7 @@ Un sustantivo es una palabra que llama una cosa.
 Como todas las palabras en Pandunia, sustantivos no cambian su forma nunca.
 Entonces la misma forma se usa en singular y plural, en definido e indefinido, etc.
 
-**seku**
+**ite**
 – una piedra, unas piedras, la piedra, o las piedras  
 **moka**
 – un árbol, unos árboles, el álbol, o los árboles  
@@ -42,9 +42,9 @@ Simplemente inserta un número delante del sustantivo igual.
 
 Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 
-**seku seku**
+**ite ite**
 – piedras y piedras, una gran variedad de piedras
-**buku buku**
+**buke buke**
 – libros y libros, una gran variedad de libros
 
 
@@ -81,10 +81,10 @@ Dos o más sustantivos pueden reunirse para hacer una palabra compuesta.
 La última palabra es la palabra más significativa,
 y las palabras que preceden a ella solo modifica el significado.
 
-**sol foto**
+**sol fote**
 – luz solar  
-**luna foto**
+**luna fote**
 – luz lunar  
-**luna seku**
+**luna ite**
 – roca lunar
 

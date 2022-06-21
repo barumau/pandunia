@@ -275,6 +275,7 @@ care - kvar (4)
 caryom - ĵaŭdo  
 cate - tekto  
 cau - herbo  
+ceke - ĉeko  
 ceke - kontroli  
 cel - ĉelo  
 celolojia - citologio  
@@ -390,9 +391,9 @@ dolfin - delfeno
 dom - loĝi (loĝejo, hejmo)  
 • domane - loĝigi  
 domzeze - muŝo  
-don - donaco  
 done - doni  
-donive - malavara  
+• donaje - donaco  
+• donive - malavara  
 dong - oriento  
 dos - kulpo  
 dose - kulpa  
@@ -557,7 +558,6 @@ futau - hakilo
 
 ## G  
 
-ga - al (ĝis, por)  
 gabre - tombo (enterigi)  
 gabrite - tomboŝtono  
 gabrostan - tombejo  
@@ -758,7 +758,7 @@ in - eno
 ine - ena  
 intre - ena  
 Indonesia - Indonezio  
-insale - esperi  
+inxala - esperi  
 Irakia - Irakio  
 Iran - Iranio  
 iridium - iridio  
@@ -805,13 +805,6 @@ justo - ĝuste (ekzakte)
 
 ## K  
 
-ke yange - kia?  
-ke jen - kiu?  
-ke sate - kiam?  
-ke sei - kio?  
-ke - kio?  
-ko? - kiel?  
-ko multo - kiom?  
 kadium - kadmio  
 kafe - kafo  
 kafe kan - kafejo  
@@ -867,11 +860,18 @@ kate - tranĉi
 Katalunia - Katalunio  
 katane - glavo  
 katus - kaktuso  
-kave - foso  
 kave - fosi  
+• kavaje - foso  
 kavai - ĉarma  
-kece - ĝentila  
+ke - kio?  
+ke yange - kia?  
+ke jen - kiu?  
+ke mode - kiel?  
+ke multe - kiom?  
+ke sate - kiam?  
+ke xei - kio?  
 kecape - keĉupo  
+keci - ĝentila  
 kege - viziti  
 kege - vizito  
 keger - vizitanto  
@@ -1186,6 +1186,8 @@ muskul - muskolo
 muskulbin - korpokulturado  
 musle - muslio  
 mute - aliigi  
+muze - amuzi  
+• muzante - amuza  
 muzike - muziko  
 muziker - muzikisto  
 
@@ -1602,6 +1604,7 @@ solocate - sunombrelo
 solosistem - sunsistemo  
 some - dormi  
 • somive - dormema  
+• desome - uyanık  
 • ansome - sendormeco  
 somokamar - dormoĉambro  
 son - sono  
@@ -1651,6 +1654,7 @@ suxi - suŝio
 
 ## T  
 
+ta - al (ĝis, por)  
 tabake - tabako  
 tafun - ŝtormo  
 Tai - tajlanda  
@@ -1673,10 +1677,10 @@ tehnolojia - teknologio
 tel - malproksimeco  
 tele - malproksima  
 telia - malproksimeco  
-telfon - telefono  
-telfone - telefoni  
-teloskope - teleskopo  
-telvide - televidilo  
+telefon - telefono  
+telefone - telefoni  
+teleskope - teleskopo  
+televide - televidilo  
 telurium - teluro  
 tem - temo  
 teme - esti pri; pridiskuti  
@@ -1755,9 +1759,6 @@ vaginitis - vaginito
 vah - ŭaŭ!  
 val - valoro  
 van: - arbaro  
-van - amuzo  
-vane - amuzi  
-vane - amuza  
 varkolate - paĝo  
 vase - oazo  
 vat - vato  
@@ -1842,9 +1843,7 @@ xulaner - instruisto
 xuler - studento (lernanto)  
 xulkan - lernejo  
 xulxefe - lernejestro  
-xure - komenco  
 xure - komenci  
-xure - komenciĝi  
 
 ##   
 
@@ -1889,7 +1888,6 @@ yune man - knabo
 
 ## Z  
 
-zage - uyanık  
 zaitun - olivo  
 zaman - tempo  
 Zambia - Zambio  

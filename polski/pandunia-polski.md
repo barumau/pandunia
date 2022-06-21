@@ -298,9 +298,9 @@ biblia - Biblia
 bil - rachunek (faktura)  
 bilor - kryształ  
 bine - budować (zbudować, konstruować; budynek)  
+binite - cegła  
 binoplania - architektura  
 binoplaner - architekt  
-binite - cegła  
 binde - punkt  
 bir - piwo  
 birkan - bar, knajpa  
@@ -409,6 +409,7 @@ cate - dach
 cau - trawa  
 caustan - łąka  
 Cehia - Republika Czeska, Czechy  
+ceke - czek  
 ceke - sprawdzić, sprawdzać, skontrolować  
 cel - komórka (biologia)  
 celolojia - cytologia  
@@ -557,7 +558,6 @@ deu - bóg, bóstwo
 • devisme - teizm  
 • pandevisme - panteizm  
 • polidevisme - politeizm  
-• polidevisme - politeizm  
 • unodevisme - monoteizm  
 • deviste - teistyczny  
 • andeviste - ateista  
@@ -601,8 +601,8 @@ dominogem - domino
 domzeze - mucha  
 Dominiki Komunkratia - Republika Dominikańska (Dominikana)  
 Dominika - Dominika (Wspólnota Dominiki)  
-don - podarunek, dar, prezent  
 done - dać, dawać  
+• donaje - podarunek, dar, prezent  
 dong - wschód  
 donge - wschodni  
 Dongi Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
@@ -802,10 +802,10 @@ fokus - skupienie, koncentracja
 fokuse - skupić, się, skoncentrować się  
 fole - szalony  
 folia - szaleństwo  
-fon - głoska  
-fone - wymawiać (wymówić)  
-fonem - fonem  
-fonolojia - fonologia  
+fone - głoska  
+• foneme - fonem  
+• fonologe - wymawiać (wymówić)  
+• fonolojia - fonologia  
 fonte - fontanna (studnia, źródło)  
 fore - wiercić, borować  
 forke - widelec  
@@ -860,7 +860,6 @@ fuzopetre - lawa
 
 ## G  
 
-ga - do, dopóki, dla  
 Gabon - Gabon  
 gabre - grób (mogiła; zakopać,pochować)  
 gabrite - nagrobek  
@@ -1196,7 +1195,7 @@ ine - wewnętrzny
 intre - wewnętrzny  
 intromun - wejście  
 Indonesia - Indonezja  
-insale - nadzieja, życzenie  
+inxala - nadzieja, życzenie  
 Irakia - Irak  
 Iran - Iran  
 iridium - iryd  
@@ -1271,14 +1270,6 @@ justopaver - snajper (strzelec wyborowy)
 
 ## K  
 
-ke - który?  
-ke yange - jaki?  
-ke jen - co?  
-ke sate - zapytać, pytać  
-ke sei - jak?  
-ke - co?  
-ko? - kiedy?  
-ko multo - ile?  
 kababe - grillować  
 kababe manse - kebab  
 kabau - bawół domowy  
@@ -1396,13 +1387,20 @@ Katalunia - Katalonia
 katane - miecz  
 Katar - Katar  
 katus - kaktus  
-kave - dół, jama, wydobycie, wykop, wykopalisko  
 kave - wykopać, kopać, wydobyć, wydobywać, wykopywać  
+• kavaje - dół, jama, wydobycie, wykop, wykopalisko  
 kavai - uroczy, słodki  
 Kaukasia - Kaukazja  
 Kazakia - Kazachstan  
-kece - uprzejmy  
+ke - co?  
+ke yange - jaki?  
+ke jen - co?  
+ke mode - kiedy?  
+ke multe - ile?  
+ke sate - zapytać, pytać  
+ke xei - jak?  
 kecape - keczup  
+keci - uprzejmy  
 kege - wizyta  
 kege - odwiedzić, odwiedzać  
 keger - wizytant (gość)  
@@ -2065,6 +2063,8 @@ muskul - muskuł, mięsień
 muskulbin - kulturystyka  
 musle - musli  
 mute - zmienić, zmieniać  
+muze - zabawa (rozrywka; bawić, zabawiać)  
+• muzante - zabawny  
 muzike - muzyka  
 muzike - grać muzykę  
 muziker - muzyk  
@@ -2896,6 +2896,7 @@ soloful - słonecznik
 solosistem - układ słoneczny  
 Solomon nesia - Wyspy Salomona  
 some - spać (sen)  
+• desome - obudzić (budzić; przebudzony, przytomny)  
 somokamar - sypialnia  
 somopapil - mak lekarski  
 Somalia - Somalia  
@@ -3001,6 +3002,7 @@ suxi - sushi
 
 ## T  
 
+ta - do, dopóki, dla  
 tabake - tytoń  
 • tablate - ułożyć w trabelę  
 tafun - burza, sztorm, tajfun  
@@ -3048,10 +3050,10 @@ tehnolojia - technologia, nauka o technikach
 tel - dystans  
 tele - daleki, odległy  
 telia - dystans  
-telfon - telefon  
-teloloku - teleportować się  
-teloskope - teleskop  
-telvide - telewizja  
+telefon - telefon  
+teleloke - teleportować się  
+teleskope - teleskop  
+televide - telewizja  
 teluge - telugu  
 telurium - tellur  
 tem - temat, motyw  
@@ -3221,10 +3223,6 @@ valse - walc
 vampir - wampir  
 vampirbalsenter - wampirzyca piekielna (wampirnica)  
 van: - las (zagajnik)  
-van - zabawa, rozrywka  
-vane - bawić, zabawiać  
-vane - zabawny  
-vanu - cieszyć się (zażywać, bawić się)  
 vanadium - wanad  
 vanil - wanilia  
 Vanuatu - Vanuatu  
@@ -3246,9 +3244,8 @@ Vaxington DC - Waszyngton D.C
 vei - ogon  
 veisirke - południk  
 vende - sprzedać (sprzedawać)  
-vendosope - handel  
-vendosope - handlować  
-vendosoper - handlarz (kupiec)  
+vendoxope - handel (handlować)  
+vendoxoper - handlarz (kupiec)  
 Venezuele - Wenezuela  
 ventur - przygoda  
 venturer - poszukiwacz przygód (awanturnik)  
@@ -3327,8 +3324,6 @@ xampan vin - samppanja
 Xanghai - Szanghaj  
 xanke - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 • xankable - wątpliwy (niewiarygodny,podejrzany)  
-• xankane - niepewny (podejrzliwy, niedowierzący)  
-xante - zostawić (zostawiać)  
 xante - spokojny  
 xarke - rekin  
 xarme - wstyd (hańba, kompromitacja)  
@@ -3382,12 +3377,10 @@ xulaner - nauczyciel
 xuler - uczeń, student  
 xulkan - szkoła (instytucja)  
 xulxefe - dyrektor szkoły  
-xure - początek  
-xure - zacząć, zaczynać  
-xure - zaczyna (zacząć, rozpoczynać, rozpocząć)  
-xurime - pierwszy, początkowy  
+xure - zaczyna (początek; zacząć, rozpoczynać, rozpocząć)  
+• xurime - pierwszy, początkowy  
 xute - umiejętność (kompetencja)  
-xute - umiejętny (wprawny)  
+• xutike - umiejętny (wprawny)  
 
 ##   
 
@@ -3458,8 +3451,6 @@ yune moke - młode drzewo
 
 ## Z  
 
-zage - obudzić, budzić  
-zage - przebudzony, przytomny  
 zaitun - oliwka  
 zalime - złośliwy, okrutny  
 • zalimia - tyrania  

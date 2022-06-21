@@ -176,9 +176,9 @@ biosistem - bioma
 biotoxe - toxina  
 bilor - cristal  
 bine - construir  
+binite - tijolo  
 binoplania - arquitetura  
 binoplaner - arquiteto  
-binite - tijolo  
 bir - cerveja  
 bismute - bismuto  
 bode - corpo  
@@ -225,6 +225,7 @@ cantergrupe - coro
 care - quatro (4)  
 caryom - quinta-feira  
 carme - charme  
+ceke - cheque  
 celolojia - citologia  
 cendeno - ontem  
 • cenike - velho (antigo)  
@@ -311,7 +312,9 @@ dolfin - golfinho (delfim)
 dom - casa (lar)  
 • domike - doméstico  
 • dominia - domínio  
-donive - generoso (dadivoso, mão-aberta)  
+• donaje - presente (prenda)  
+• donive - generoso (dadivoso, mão-aberta)  
+• sudone - caridade  
 dong - este (leste)  
 du - dois (2)  
 • duple - dobro  
@@ -608,10 +611,6 @@ juste - exato (preciso)
 
 ## K  
 
-ke jen - quem  
-ke sate - quando  
-ke - o que  
-ko? - como  
 kaboge - abóbora (jerimun)  
 kadium - cádmio  
 kafe - café  
@@ -665,9 +664,12 @@ kaske - casca (concha)
 katoglutoban - área de transferência  
 katane - espada  
 katus - cacto  
-kave - buraco  
 kave - cavar (escavar)  
-• exkave - escavar  
+• kavaje - buraco  
+ke - o que  
+ke jen - quem  
+ke mode - como  
+ke sate - quando  
 kecape - catchup  
 kenarbaryer - cerca  
 kexofentor - secador de cabelo  
@@ -1250,6 +1252,7 @@ ruterfordium - rutherfórdio
 sable - areia  
 • movosable - areia movediça  
 sablostan - deserto  
+safaroceke - cheque de viajante  
 sagu - sagu  
 sahe - correto (justo)  
 sake - saco  
@@ -1339,6 +1342,7 @@ solocate - sombrinha
 soloful - girassol  
 some - dormir (sono)  
 • somive - sonolento  
+• desome - acordado  
 • ansome - insônia  
 somokamar - quarto (dormitório)  
 somopapil - papoila-dormideira  
@@ -1390,9 +1394,9 @@ tate - tocar (tato)
 taxi metrer - taxímetro  
 tehne - técnica  
 tehnium - tecnécio  
-telfone - telefonar  
-telfonia - telefonia  
-teloskope - telescópio  
+telefone - telefonar  
+telefonia - telefonia  
+teleskope - telescópio  
 telurium - telúrio  
 temnam - título  
 ten - céu  
@@ -1487,11 +1491,12 @@ vaxurse - guaxinim (rato-lavadeiro)
 vele - véu  
 • devele - revelar  
 vende - vender  
-vendosope - торговать  
+vendoxope - торговать  
 ventur - aventura  
 venturer - aventureiro  
 Venus - Vénus  
 vere - verdadeiro  
+• provere - provar  
 verme - verme  
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  
@@ -1529,7 +1534,6 @@ vulve - vulva
 xampan - Champagne  
 xampan vin - champaña  
 • xankable - dúbio (duvidoso)  
-xante - descanso (repouso)  
 xante - tranquilo (calmo)  
 xarke - tubarão  
 xate - opor  
@@ -1588,8 +1592,6 @@ yune - jovem
 
 ## Z  
 
-zage - acordado  
-zagu - despertar  
 zaman - tempo  
 zarkube - dado  
 zay zaman su - actuel (courant)  

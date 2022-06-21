@@ -72,6 +72,7 @@ amiral - haiamirer
 amoureux - amer  
 ampoule (fiole) - ampul  
 ampère - amper  
+amuser - muze  
 américain - amerikan  
 américium - amerikium  
 amérindien (indien) - aslamerike  
@@ -293,6 +294,7 @@ bûche - mokotan
 cacher - sire  
 cachet de la poste - postomarke  
 cactus - katus  
+cadeau - donaje  
 cadmium - kadium  
 cadre - frem  
 cafetière - kafe pote  
@@ -355,6 +357,7 @@ chardon aux ânes - pinkardon
 chardon Marie - milkokardon  
 chardon penché - pendokardon  
 charge (fardeau, poids) - karge  
+charité - sudone  
 charme - carme  
 charnière - xarnir  
 chasser - yege  
@@ -376,6 +379,9 @@ chrome - kromium
 chronique - durike  
 chronomètre - durometrer  
 chut - tix  
+chèque - ceke  
+chèque cadeau - donajoceke  
+chèque de voyage - safaroceke  
 chéri - amike  
 chêne - balute  
 chêne pédonculé - europobalute  
@@ -403,8 +409,8 @@ coller - glute
 colorant - rangomate  
 combava - karsolimon  
 comique - komi  
-comment - ko?  
-commercer - vendosope  
+comment - ke mode  
+commercer - vendoxope  
 commission (comité) - konmisia  
 comparer - konpare  
 compassion - samemos  
@@ -619,7 +625,6 @@ Europe - Europe
 europium - europium  
 européen - europe  
 exact (précis) - juste  
-excaver - exkave  
 exclure - exkluze  
 exclusif - exkluzive  
 exoplanète - explanete  
@@ -688,7 +693,7 @@ forme (former) - forme
 fort - bale  
 forêt - van:  
 forêt de kelp - algajangle  
-fosse - kave  
+fosse - kavaje  
 fougères - parne  
 fourmi - murce  
 fragment - parce  
@@ -749,8 +754,8 @@ gâteau de lune - lunokeke
 génotype - genotipe  
 généalogie - genolojia  
 généralissime - gunreger  
-généreux - donive  
 généreux - karime  
+généreux - donive  
 générosité (charité) - karimia  
 génétique - geneti  
 géologie - geolojia  
@@ -931,7 +936,7 @@ lieu - loke
 lieu de naissance - genoloke  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amirlin  
-ligne téléphonique - telfonlin  
+ligne téléphonique - telefonlin  
 lime (citron vert) - kagujolimon  
 limité - limite  
 lire - duge  
@@ -1367,6 +1372,7 @@ propédeutique (préparatoire) - prepede
 protactinium - protacinium  
 protocole - burorite  
 protéine - proten  
+prouver - provere  
 prune - plum  
 prune de Java - jambul  
 précieux - bau  
@@ -1418,7 +1424,6 @@ religion - din
 remplir - pure  
 renard - hulei  
 reporter (rapporteur) - reporter  
-repos - xante  
 repos - repause  
 repose en paix (REP) - repause in pace (RIP)  
 repport (reportage) - reporte  
@@ -1699,12 +1704,12 @@ Tunisie - Tunisia
 turban - pagre  
 turbine - turbin  
 turboréacteur - turbojeter  
-télescope (lunette) - teloskope  
+télescope (lunette) - teleskope  
 télécharger - netogete  
-téléphone - telfon  
-téléphoner - telfone  
+téléphone - telefon  
+téléphoner - telefone  
 téléréalité - rel televizion  
-téléviseur - telvide  
+téléviseur - televide  
 tête - sar  
 
 ## U  
@@ -1775,7 +1780,7 @@ vouloir - vol
 voyelle - zungofon  
 voyelle - vokal son  
 vrai - vere  
-vraiment - vero  
+vraiment - a vere  
 vulve - vulve  
 végétarien - fitoyamiste  
 Vénus - Venus  
@@ -1859,7 +1864,7 @@ zèbre - zebra
 été - garmomosim  
 évaluer - vale  
 évangile - evangil  
-éveillé - zage  
+éveillé - desome  
 éventail - sanze  
 évident - exvidable  
 évident - exvide  

@@ -13,7 +13,7 @@ acelga - selge
 acento - baloton  
 acesso (acceder) - acese  
 aclamar - proklame  
-acordado - zage  
+acordado - desome  
 acordo (tratado, contrato) - trete  
 acordo (tratado,contrato) - kontrate  
 acordo - samrayia  
@@ -199,7 +199,7 @@ brejo (paul) - xipostan
 bromo - bromium  
 Buda - Buda  
 bule - caipote  
-buraco - kave  
+buraco - kavaje  
 burocracia - burokratia  
 buscar (procurar) - soge  
 bário - barium  
@@ -243,6 +243,7 @@ cardo-roxo - perokardon
 cardápio (menu) - menu  
 careta (esgar) - grimas  
 Caribe - Karaibia  
+caridade - sudone  
 carimbo - postomarke  
 carne - manse  
 carrapato (ácaros) - akare  
@@ -284,6 +285,8 @@ chefe - xefe
 cheio - pure  
 cheirar - aromu  
 cheiro - gande  
+cheque - ceke  
+cheque de viajante - safaroceke  
 chiclete (goma de mascar, chuinga) - cuvogom  
 China - Zungogia  
 chocolate - coklate  
@@ -317,7 +320,7 @@ combava - karsolimon
 combinar com - konbone  
 começo (início, princípio) - xure  
 comissão (comité) - konmisia  
-como - ko?  
+como - ke mode  
 compaixão - samemos  
 comparar - konpare  
 compatriota (compatrício) - konpatrian  
@@ -409,14 +412,12 @@ deixar - lase
 dente-de-leão (taráxaco) - makanful  
 derretre - fuze  
 descanse em paz - repause in pace (RIP)  
-descanso (repouso) - xante  
 desconectar - dekonnete  
 desenvolvimento - dargomute  
 deserto - sablostan  
 desfigurar - dusforme  
 designar - desinye  
 deslizar - glise  
-despertar - zagu  
 destino - nasibe  
 destruir - destrute  
 deus - deu  
@@ -507,7 +508,6 @@ erupcionar - exrute
 erva marinha - haicau  
 erva-mate - mate  
 escalar - skale  
-escavar - exkave  
 escola (colégio) - xulkan  
 escovinha (centáurea) - nilcentaur  
 escrever (escrita) - kitabe  
@@ -1186,6 +1186,7 @@ precursor - prekurser
 preferir - prefere  
 preferir - profile  
 prensa - preser  
+presente (prenda) - donaje  
 pressão - prese  
 preto - siyahe  
 prever (anticipar) - previde  
@@ -1210,6 +1211,7 @@ protacnídio - protacinium
 proteína - proten  
 protocolo - burorite  
 prova - dalil  
+provar - provere  
 proxeneta (cafetão) - sutener  
 pré-natal - prenatal  
 próximo - prose  
@@ -1425,9 +1427,9 @@ taxímetro - taxi metrer
 tear - texomaxin  
 tecnécio - tehnium  
 tectónica de placas - plati geokaskia  
-telefonar - telfone  
-telefonia - telfonia  
-telescópio - teloskope  
+telefonar - telefone  
+telefonia - telefonia  
+telescópio - teleskope  
 televisão de realidade - rel televizion  
 telúrio - telurium  
 temer (assustar) - fobe  
@@ -1611,4 +1613,4 @@ zumbi - zombi
 вошь - bio  
 коралл - biu  
 паранормальный - paranorme  
-торговать - vendosope  
+торговать - vendoxope  

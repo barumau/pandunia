@@ -328,9 +328,10 @@ biblia - Biblia
 bil - cuenta (factura)  
 bilor - cristal  
 bine - construir (edificar)  
+• konbine - combinar  
+binite - ladrillo  
 binoplania - arquitectura  
 binoplaner - arquitecto  
-binite - ladrillo  
 binde - punto (lunar)  
 bir - cerveza (birra)  
 birkan - bar (pub)  
@@ -446,6 +447,7 @@ cate - techo (tejado)
 cau - césped (hierba)  
 caustan - pradera (pastizal)  
 Cehia - República Checa  
+ceke - cheque  
 ceke - revisar (chequear)  
 cel - célula  
 celolojia - citología  
@@ -605,7 +607,6 @@ deu - dios
 • devisme - teísmo  
 • pandevisme - panteísmo  
 • polidevisme - politeísmo  
-• polidevisme - politeísmo  
 • unodevisme - monoteismo  
 • deviste - teísta  
 • andeviste - ateo  
@@ -657,9 +658,10 @@ domzeze - mosco
 • dominia - dominio  
 Dominiki Komunkratia - Republica Dominicana  
 Dominika - Dominica  
-don - regalo (obsequio)  
 done - dar  
-donive - generoso (dadivoso)  
+• donaje - regalo (obsequio)  
+• donive - generoso (dadivoso)  
+donajoceke - cheque regalo  
 dong - éste  
 donge - oriental  
 Dongi Timor - Timor Oriental  
@@ -876,10 +878,10 @@ fokus - concentrar (enfocarse)
 fokuse - concentración  
 fole - demente (loco, insensato)  
 folia - demencia (locura)  
-fon - fono (segmento acústico)  
-fone - pronunciar (articular)  
-fonem - fonema  
-fonolojia - fonología  
+fone - fono (segmento acústico)  
+• foneme - fonema  
+• fonologe - pronunciar (articular)  
+• fonolojia - fonología  
 fonte - fuente (manantial)  
 fontokalam - estilógrafo  
 fore - taladrar (perforar)  
@@ -939,7 +941,6 @@ fuzopetre - lava
 
 ## G  
 
-ga - a (hacia)  
 Gabon - Gabón  
 gabre - tumba (sepultura; enterrar)  
 gabrite - lápida  
@@ -1310,9 +1311,9 @@ intromun - entrada
 intraje - intestino (visceras, entrañas, tripas)  
 introverse - introvertido  
 Indonesia - Indonesia  
-insale - esperar (desear)  
 intelige - inteligencia (intelecto)  
 • inteligable - inteligible  
+inxala - esperar (desear)  
 IP adres - dirección de IP  
 Irakia - Iraq  
 Iran - Irán  
@@ -1392,14 +1393,6 @@ justopaver - francotirador
 
 ## K  
 
-ke - cuál  
-ke yange - qué tipo de  
-ke jen - quién  
-ke sate - cuándo  
-ke sei - cuál cosa  
-ke - qué  
-ko? - cómo  
-ko multo - cuántos  
 kababe - asar  
 kabau - búbalo (arni)  
 kabin - cabaña  
@@ -1515,14 +1508,20 @@ Katalunia - Cataluña
 katane - espada  
 Katar - Catar (Qatar)  
 katus - cacto  
-kave - fosa  
 kave - cavar (excavar)  
-• exkave - excavar  
+• kavaje - fosa  
 kavai - lindo (precioso)  
 Kaukasia - Cáucaso  
 Kazakia - Kazajistán (Kazakistan)  
-kece - educado  
+ke - qué (cuál)  
+ke yange - qué tipo de  
+ke jen - quién  
+ke mode - cómo  
+ke multe - cuántos  
+ke sate - cuándo  
+ke xei - cuál cosa  
 kecape - kétchup  
+keci - educado  
 kege - visitar  
 kege - visitar  
 keger - invitado (visita)  
@@ -2206,6 +2205,8 @@ muskul - músculo
 muskulbin - fisicoculturismo (culturismo, musculación)  
 musle - muesli  
 mute - cambiar  
+muze - divertir (entretener; diversión)  
+• muzante - divertido  
 muzike - música  
 muzike - tocar música  
 muziker - músico  
@@ -2875,6 +2876,7 @@ safar - viaje (viajar)
 • safarer - viajero  
 • safarisme - turismo  
 • safariste - turista  
+safaroceke - cheque de viajero  
 safran - azafrán  
 sage - historia (cuento, relato, leyenda; relatar, narrar)  
 sagu - sagú  
@@ -3109,6 +3111,7 @@ solosistem - sistema solar
 Solomon nesia - Islas Salomón  
 some - dormir (sueño)  
 • somive - soñoliento (somnífero)  
+• desome - despierto (despertar)  
 • ansome - insomnio  
 somokamar - dormitorio  
 somopapil - adormidera (amapola real)  
@@ -3219,6 +3222,7 @@ suxi - sushi
 
 ## T  
 
+ta - a (hacia)  
 tabake - tabaco  
 table - tabla (lámina, plancha)  
 • tablate - tabular  
@@ -3270,12 +3274,12 @@ tehnolojia - tecnología
 tel - lo lejos  
 tele - lejano (lejos)  
 telia - distancia  
-telfon - telefono  
-telfone - telefonear  
-telfonia - telefonía  
-teloloku - teletransportarse  
-teloskope - telescopio  
-telvide - televisión  
+telefon - telefono  
+telefone - telefonear  
+telefonia - telefonía  
+teleloke - teletransportarse  
+teleskope - telescopio  
+televide - televisión  
 teluge - télugu  
 telurium - telurio  
 tem - tema  
@@ -3470,10 +3474,6 @@ valse - vals
 vampir - vampiro  
 vampirbalsenter - calamar vampiro  
 van: - bosque (selva)  
-van - diversión  
-vane - divertir (entretener)  
-vane - divertido  
-vanu - disfrutar (jugar)  
 vanadium - vanadio  
 vanil - vainilla  
 Vanuatu - Vanuatu  
@@ -3496,15 +3496,15 @@ veisirke - latitud
 vele - velo  
 • devele - develar (revelar)  
 vende - vender  
-vendosope - comercio  
-vendosope - comerciar  
+vendoxope - comercio (comerciar)  
 Venezuele - Venezuela  
 ventur - aventura  
 venturer - aventurero  
 Venus - Venus  
 venzovorange - unshu mikan  
 vere - verdadero  
-verite - autenticar  
+• verife - autenticar  
+• provere - probar  
 verme - verme  
 vermute - vermú  
 verse - versar (afrontar)  
@@ -3583,7 +3583,6 @@ xampan - Champaña
 xampan vin - champagne  
 xanke - duda  
 • xankable - dudoso  
-xante - descanso (alivio)  
 xante - tranquilo (calmado)  
 xarke - tiburón  
 xarme - vergüenza (pena)  
@@ -3639,12 +3638,10 @@ xulaner - maestro (profesor, docente)
 xuler - estudiante  
 xulkan - escuela (colegio, institución)  
 xulxefe - director de colegio  
-xure - comienzo (inicio, principio)  
-xure - comenzar (iniciar, empezar)  
-xure - comenzar (iniciarse, empezar)  
-xurime - primer (inicial, inaugural)  
+xure - comienzo (inicio, principio; comenzar, iniciar, empezar)  
+• xurime - primer (inicial, inaugural)  
 xute - dotes (arte, habilidad)  
-xute - hábil  
+• xutike - hábil  
 
 ##   
 
@@ -3716,9 +3713,6 @@ yune moke - pimpollo
 
 ## Z  
 
-zage - despertar  
-zage - despierto  
-zagu - despertarse  
 zaitun - aceituna  
 zalime - mezquino (antipático, cruel)  
 • zalimia - crueldad (tiranía)  

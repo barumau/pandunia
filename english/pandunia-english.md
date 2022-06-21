@@ -47,6 +47,7 @@ a max - also (too, in addition)
 a nove - just (recently)  
 a sababe de - because  
 a sube - under  
+a vere - truly (indeed, very)  
 a zay - presenty (currently, now)  
 a zay den - today  
 abe - away  
@@ -324,7 +325,7 @@ Barti Hai - Indian Ocean
 Bartia - India  
 barude - gunpowder  
 bas - enough (sufficient)  
-basen - pool (basin, bowl)  
+basen - pool (basin)  
 baske - basket (basketball hoop)  
 baske bol - basket ball  
 bate - eight (8)  
@@ -398,9 +399,10 @@ biblia - Bible
 bil - bill (invoice)  
 bilor - crystal  
 bine - build (building)  
+• konbine - combine  
+binite - brick  
 binoplania - architecture  
 binoplaner - architect  
-binite - brick  
 binde - dot (spot)  
 bir - beer  
 birkan - bar (pub, beer house)  
@@ -524,6 +526,7 @@ cate - roof
 cau - grass  
 caustan - grassland (prairie)  
 Cehia - Czech Republic  
+ceke - cheque (check)  
 ceke - check (to examine)  
 cel - cell (biology)  
 celolojia - cytology  
@@ -718,7 +721,6 @@ deu - god (deity)
 • dusdevisme - dystheism (maltheism)  
 • pandevisme - pantheism  
 • polidevisme - polytheism  
-• polidevisme - polytheism  
 • unodevisme - monotheism  
 • deviste - theist  
 • andeviste - atheist  
@@ -785,9 +787,11 @@ domzeze - housefly
 • dominia - domain (dominion)  
 Dominiki Komunkratia - Dominican Republic  
 Dominika - Dominica  
-don - gift  
 done - give  
-donive - generous (open-handed)  
+• donaje - gift (present)  
+• donive - generous (open-handed)  
+• sudone - charity (alms)  
+donajoceke - gift certificate (gift card)  
 dong - east (orient)  
 donge - eastern  
 Dongi Timor - East Timor (Timor-Leste)  
@@ -1066,12 +1070,12 @@ fokus - focus (concentration)
 fokuse - concentrate  
 fole - mad (insane, crazy)  
 folia - madness (insanity)  
-fon - phone (speech sound)  
-fone - pronounce (articulate)  
-fonem - phoneme  
-fonologe - pronounce (articulate)  
-fonolojia - phonology  
+fone - phone (speech sound)  
+• foneme - phoneme  
+• fonologe - pronounce (articulate)  
+• fonolojia - phonology  
 • sinfone - symphony  
+fonomime - onomatopoeia  
 fonte - fountain (spring, well)  
 fontokalam - fountain pen  
 fore - drill (bore, perforate)  
@@ -1146,7 +1150,6 @@ fuzopetre - lava
 
 ## G  
 
-ga - to (toward, till, until, for)  
 Gabon - Gabon  
 gabre - grave (tomb; bury)  
 gabrite - tombstone (gravestone)  
@@ -1581,11 +1584,11 @@ intraje - intestines (entrails, guts, bowels, viscera)
 introspete - introspection  
 introverse - introvert  
 Indonesia - Indonesia  
-insale - hope (wish)  
 intelige - intelligence (intellect)  
 • inteligable - intelligible  
 • inteligente - intelligent (smart)  
 • inteligentia - intelligentsia  
+inxala - hope (wish)  
 IP adres - IP address  
 Irakia - Iraq  
 Iran - Iran  
@@ -1604,7 +1607,6 @@ Islandia - Iceland
 isme - ism (doctrine, ideology, religion, etc)  
 Israel - Israel  
 iste - proponent (supporter, activist, -ist)  
-ite - object (patient, target)  
 ite - stone (piece of rock)  
 itojanger - mason (stonemason, stonecutter)  
 Italia - Italy  
@@ -1682,15 +1684,6 @@ justopaver - sniper (sharpshooter)
 
 ## K  
 
-ke - which?  
-ke yange - what kind of?  
-ke jen - who?  
-ke sate - when?  
-ke sei - what thing?  
-ke - what?  
-ki - whose?  
-ko? - how?  
-ko multo - how many?  
 kababe - barbecue (grill)  
 kababe manse - grilled meat (kebab)  
 kabau - water buffalo  
@@ -1818,15 +1811,21 @@ Katalunia - Catalonia
 katane - sword  
 Katar - Qatar  
 katus - cactus  
-kave - pit (excavation, cavity)  
 kave - dig (excavate)  
-• exkave - dig out (excavate)  
-• exkave - excavate (dig out)  
+• kavaje - pit (excavation, cavity)  
 kavai - cute (sweet)  
 Kaukasia - Caucasia  
 Kazakia - Kazakhstan  
-kece - polite  
+ke - what? (who? which?)  
+ke su - whose?  
+ke yange - what kind of?  
+ke jen - who?  
+ke mode - how?  
+ke multe - how many?  
+ke sate - when?  
+ke xei - what thing?  
 kecape - ketchup  
+keci - polite  
 kege - visitation (visit)  
 kege - visit  
 keger - visitor (guest)  
@@ -2630,6 +2629,8 @@ muskul - muscle
 muskulbin - bodybuilding  
 musle - muesli  
 mute - change (alter, convert)  
+muze - have fun (enjoy; amuse, entertain; amusement, entertainment)  
+• muzante - funny (amusing)  
 muzike - music  
 muzike - play music  
 muziker - musician  
@@ -3442,6 +3443,7 @@ safar - travel (voyage, trip)
 • safarer - traveler  
 • safarisme - tourism  
 • safariste - tourist  
+safaroceke - traveller's cheque (traveler's check)  
 safran - saffron  
 sage - tale (story, legend, saga; tell, narrate)  
 sagu - sago palm  
@@ -3695,7 +3697,7 @@ solosistem - solar system
 Solomon nesia - Solomon Islands  
 some - sleep  
 • somive - drowsy  
-• desome - wake up  
+• desome - awake (wake up)  
 • ansome - insomnia  
 somokamar - bedroom  
 somopapil - opium poppy  
@@ -3817,6 +3819,7 @@ suxi - sushi
 
 ## T  
 
+ta - to (toward, till, until, for)  
 tabake - tobacco  
 table - slab (slate, tablet, board)  
 • tablate - tabulate  
@@ -3852,7 +3855,7 @@ Tanzania - Tanzania
 tape - stop (obsruct, block; plug, stopper, cap, peg, tap)  
 • detape - unplug (uncork)  
 tarif - tarif (tax, duty)  
-tas - dish  
+tas - dish (bowl)  
 tate - touch (tact)  
 • tatable - tangible  
 tatosense - feel (sense by touch)  
@@ -3873,13 +3876,13 @@ tehnolojia - technology (study of techniques)
 tel - distance (far away)  
 tele - far (distant)  
 telia - distance (length)  
-telfon - telephone  
-telfone - call on the phone  
-telfonia - telephony  
-telfonlin - telephone line  
-teloloku - teleport  
-teloskope - telescope  
-telvide - television  
+telefon - telephone  
+telefone - call on the phone  
+telefonia - telephony  
+telefonlin - telephone line  
+teleloke - teleport  
+teleskope - telescope  
+televide - television  
 teluge - Telugu  
 telurium - tellurium  
 tem - topic (subject, theme)  
@@ -4109,10 +4112,6 @@ valse - waltz
 vampir - vampire  
 vampirbalsenter - vampire squid  
 van: - forest (woods)  
-van - fun (amusement)  
-vane - amuse (entertain)  
-vane - funny (amusing)  
-vanu - enjoy (play)  
 vanadium - vanadium  
 vanil - vanilla  
 Vanuatu - Vanuatu  
@@ -4150,9 +4149,8 @@ ven - come
 • revene - come back (return)  
 • subvene - subvene  
 vende - sell (vend)  
-vendosope - trade (commerce)  
-vendosope - trade (buy and sell)  
-vendosoper - trader (merchant)  
+vendoxope - trade (buy and sell; commerce)  
+vendoxoper - trader (merchant)  
 Venezuele - Venezuela  
 ventur - adventure (venture)  
 venturer - adventurer  
@@ -4160,8 +4158,8 @@ Venus - Venus
 Venzou - Wenzhou  
 venzovorange - satsuma mandarin  
 vere - true (real, genuine)  
-vero - truly (indeed, very)  
-verite - verify (authenticate)  
+• verife - verify (realize)  
+• provere - prove (verify, authenticate)  
 verme - worm  
 vermute - vermouth  
 verse - turn toward (direct, flip; versus)  
@@ -4268,8 +4266,6 @@ xampan vin - champagne
 Xanghai - Shanghai  
 xanke - doubt (suspect)  
 • xankable - dubious (suspicious)  
-• xankane - doubtful (suspicious)  
-xante - rest (relief, repose)  
 xante - calm (peaceful, quiet)  
 xarke - shark  
 xarme - shame (disgrace)  
@@ -4329,12 +4325,10 @@ xuler - student (pupil, learner)
 xulkamar - classroom  
 xulkan - school (institution)  
 xulxefe - headmaster (principal)  
-xure - beginning (start, commencement, onset)  
 xure - begin (start, commence, initiate)  
-xure - begin (get started)  
-xurime - initial (first)  
+• xurime - initial (first)  
 xute - skill (art, craft)  
-xute - skillful (crafty)  
+• xutike - skillful (crafty)  
 
 ## Y  
 
@@ -4414,9 +4408,6 @@ yune moke - sapling
 
 ## Z  
 
-zage - wake (make awake)  
-zage - awake  
-zagu - wake (become awake)  
 zaitun - olive  
 zalime - mean (cruel)  
 • zalimia - cruelty (tyranny, despotism)  

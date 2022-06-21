@@ -28,7 +28,7 @@
 6. **Lukusanat:**
    Perusluvut ovat:
        - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
-         7 **cheti**, 8 **bati**, 9 **tisa**, 10 **des**.
+         7 **ceti**, 8 **bati**, 9 **tisa**, 10 **des**.
        - Kymmentä suuremmat: 11 **des un**, 12 **des du**, 13 **des tri**, jne.
        - Kymmenet: 20 **du des**, 30 **tri des**, 40 **nelu des**, jne.
        - Sadat: 100 **un sento**, 200 **du sento**, 300 **tri sento**, jne.
@@ -48,15 +48,19 @@
    Ne eivät taivu persoona-, aika- taikka tapamuodoissa.
    Persoona ilmaistaan persoonapronominilla.
    Aika ilmaistaan apuverbeillä.
-    - **zai** ilmaisee meneillään olevaa toimintaa.
-    - **le** ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
-    - **pas** ilmaisee tehtyä toimintaa, joka ei enää vaikuta kuluvaan hetkeen.
-    - **sha** ilmaisee tulevaa toimintaa.
+    - **zai**
+      ilmaisee meneillään olevaa toimintaa.
+    - **le**
+      ilmaisee tehtyä toimintaa, joka vaikuttaa kuluvaan hetkeen.
+    - **pas**
+      ilmaisee tehtyä toimintaa, joka ei enää vaikuta kuluvaan hetkeen.
+    - **xa**
+      ilmaisee tulevaa toimintaa.
 10. **Sanajärjestys:**
     - Lauseen sanajärjestys on subjekti–verbi–objekti.
       Samaa sanajärjestystä käytetään sekä väittämissä että kysymyksissä.
     - Passiivi muodostetaan apuverbillä **be**.
-      Saman vaikutelman voi luoda myös persoonattomalla pronominilla **men**.
+      Saman vaikutelman voi luoda myös persoonattomalla pronominilla **mon**.
         - **pandunia be loga.**
           – Panduniaa puhutaan.
         - **mon loga la pandunia.**
@@ -72,10 +76,10 @@
 10. **Sanojen johtaminen:**
     Yhdyssanat muodostetaan asettamalla kaksi tai useampia perussanoja peräkkäin
     siten, että viimeinen sana on merkittävin.
-    - **posta**
+    - **poste**
       ('posti') +
-      **kasa**
+      **kase**
       ('laatikko', 'lipas') =
-      **posta kasa**
+      **poste kase**
       ('postilaatikko')
 

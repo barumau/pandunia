@@ -182,9 +182,9 @@ biotoxe - токсин
 bil - счёт  
 bilor - кристалл  
 bine - строить  
+binite - кирпич  
 binoplania - архитектура  
 binoplaner - архитектор  
-binite - кирпич  
 bir - пиво  
 bismute - висмут  
 biznes - предприятие (бизнес)  
@@ -239,6 +239,7 @@ cantergrupe - хор
 care - четыре (4)  
 caryom - четверг  
 carme - шарм  
+ceke - чек  
 celolojia - цитология  
 cene - раньше  
 cendeno - вчера  
@@ -329,7 +330,9 @@ dom - дом
 domzeze - муха  
 • dominia - владычество (доминион)  
 Dominiki Komunkratia - Доминиканская Республика  
-donive - щедрый  
+• donaje - подарок (дар, презент)  
+• donive - щедрый  
+donajoceke - подарочный сертификат  
 dong - восток (ост)  
 dongogoril - восточная горилла  
 dosile - укрощать (приручить)  
@@ -605,8 +608,8 @@ hurargente - ртуть
 
 intraje - внутренности  
 introverse - интроверт  
-insale - надеяться (чаять)  
 intelige - интеллект  
+inxala - надеяться (чаять)  
 IP adres - IP-адрес  
 iridium - иридий  
 ironia - ирония  
@@ -642,8 +645,6 @@ justopaver - снайпер
 
 ## K  
 
-ke - что  
-ko? - как  
 kababe manse - кебаб  
 kaboge - тыква  
 kadium - кадмий  
@@ -699,9 +700,11 @@ kaske - оболочка (кора, панцирь)
 katoglutoban - буфер обмена  
 katane - меч  
 katus - кактус  
-kave - яма  
 kave - копать  
+• kavaje - яма  
 Kaukasia - Кавказ  
+ke - что  
+ke mode - как  
 kecape - кетчуп  
 kenarbaryer - забор (ограда)  
 kexofentor - фен  
@@ -1281,6 +1284,7 @@ ruterfordium - резерфордий, ²курчатовий
 sable - песок  
 • movosable - зыбучие пески  
 sablostan - пустыня  
+safaroceke - дорожный чек  
 safran - шафран  
 sagu - саго  
 sahe - правильный  
@@ -1381,6 +1385,7 @@ solocate - зонтик от солнца
 soloful - подсолнечный  
 some - спать  
 • somive - сонный  
+• desome - acordado  
 • ansome - бессонница (инсомния)  
 somokamar - спальня  
 somopapil - мак снотворный  
@@ -1447,13 +1452,13 @@ taze - свежий
 tehne - техника  
 tehnium - технеций  
 tehnolojia - технология  
-telfon - телефон  
-telfone - звонить  
-telfonia - телефония  
-telfonlin - телефонная линия  
-teloloku - телепортировать  
-teloskope - телескоп  
-telvide - телевизор  
+telefon - телефон  
+telefone - звонить  
+telefonia - телефония  
+telefonlin - телефонная линия  
+teleloke - телепортировать  
+teleskope - телескоп  
+televide - телевизор  
 telurium - теллур  
 tem - тема  
 temnam - название (пьесы, заголовок)  
@@ -1551,12 +1556,13 @@ vaxurse - енот
 vei - хвост  
 veilin - уток  
 vende - продать  
-vendosope - обмениваться  
+vendoxope - обмениваться  
 ventur - авантюра  
 venturer - авантюрист  
 Venus - Венера  
 venzovorange - мандарин уншиу  
 vere - верный  
+• provere - доказать (проверить)  
 verme - червь  
 vermute - вермут  
 • exverse - экстраверт  
@@ -1602,7 +1608,6 @@ vulve - вульва
 xaman - шаман  
 xampan - Шампань  
 xampan vin - champanhe  
-xante - отдых  
 xante - спокойный  
 xarke - акула  
 xarnir - шарнир  
@@ -1672,8 +1677,6 @@ yune moke - саженец
 
 ## Z  
 
-zage - acordado  
-zagu - проснуться  
 zalime reger - тиран (деспот)  
 zaman - период (эпоха)  
 Zambia - Замбия  

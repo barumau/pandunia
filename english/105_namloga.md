@@ -6,7 +6,7 @@ A noun is a word that names a thing.
 Like all words in Pandunia, nouns don't ever change their form.
 So the same form is used in singular and plural, in definite and indefinite, etc.
 
-**seku**
+**ite**
 – a stone, stones, the stone or the stones  
 **meza**
 – a table, tables, the table or the tables  
@@ -16,7 +16,7 @@ So the same form is used in singular and plural, in definite and indefinite, etc
 – water
 
 Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
-For example, normally the word **sol** refers to _the sun_ and **luna** refers to _the moon_, our only sun and moon.
+For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and moon.
 
 
 ### Indicating number
@@ -56,7 +56,7 @@ Simply insert a numeral in front of the unchanged noun.
 
 An easy way to say that there are many is to repeat the noun two times.
 
-**seku seku**
+**ite ite**
 – stones and stones, a variety of stones  
 **buke buke**
 – books and books, a variety of books
@@ -93,10 +93,10 @@ Two or more nouns can be put together to make a compound word.
 The last word is the most meaningful word in the compound,
 and the words that come before it only modify the meaning.
 
-**sol foto**
+**sol fote**
 – sun light  
-**luna foto**
+**lun fote**
 – moon light  
-**luna seku**
+**lun ite**
 – moon stone
 
