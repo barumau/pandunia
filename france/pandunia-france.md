@@ -3,10 +3,12 @@
 ## A  
 
 a - a (dans, en, chez)  
-a danke de - grâce à  
 a ke - où  
 a line - en ligne  
+a long - loin  
+a longe dure - longtemps  
 a vere - vraiment  
+a xukre de - grâce à  
 abete - sapin  
 able - pouvoir (être capable; possible)  
 • ablo - peut-être  
@@ -235,7 +237,6 @@ basen - bassin
 baske - panier (panier de basketball)  
 baske bol - basketball  
 bate - huit (8)  
-batolun - août  
 batosenter - Poulpe (pieuvre)  
 baton - bâton (canne, tige)  
 baton - pieu (poteau)  
@@ -325,7 +326,6 @@ canse - chance
 cante - chanter (chanson)  
 cantergrupe - chœur  
 care - quatre (4)  
-caryom - jeudi  
 carme - charme  
 ceke - chèque  
 celolojia - cytologie  
@@ -347,7 +347,6 @@ cerize - cerise
 • sucese - réussir (avoir du succès,prospérer)  
 cesium - césium  
 cete - sept (7)  
-cetyom - dimanche  
 cili - piment  
 cinbrusben - cousin  
 cinmai - grand-mère  
@@ -389,7 +388,15 @@ de - de
 debu - devoir  
 defkaske - armure  
 defoban - bouclire  
-den - jour  
+den - jour (24 heures)  
+• denike - quotidien (journalier)  
+den un - lundi  
+den du - mardi  
+den tri - mercredi  
+den nelu - jeudi  
+den lima - vendredi  
+den luka - samedi  
+den ceti - dimanche  
 deu - dieu  
 • andeviste - athée  
 deunagre - dévanagari  
@@ -432,7 +439,6 @@ du - deux (2)
 dubnium - dubnium  
 duce - douche  
 duge - lire  
-dulyom - mardi  
 dunia - monde  
 duna - dune  
 dur - durer (se passer; durée)  
@@ -622,6 +628,7 @@ glute - coller
 glutobende - pansement (sparadrap)  
 glutofan - argile  
 glutograf - autocollant  
+gogia - pays  
 gol - but (destination)  
 • diagone - diagonale  
 gorile - gorille  
@@ -750,6 +757,7 @@ jeke - prêter (empruntre)
 jekocepe - empruntre  
 jekodone - prêter  
 jenisme - jaïnisme  
+jenju - perle  
 • jetaje - projectile  
 • projete - projet  
 • projetaje - projet  
@@ -929,13 +937,13 @@ lalobavite - rubis
 lama - lama (enseignant religieux du bouddhisme tibétain)  
 lampe - lampe  
 lantanium - lanthane  
-lase - laisser  
 lasun - ail  
 late - côté  
 late - latéral  
 Latvia - Lettonie  
 lave - vieux (âgé, ancien)  
 laurensium - lawrencium  
+laxe - lâcher (laisser)  
 laze - ordures  
 lazanya - lasagne  
 lazure - azur  
@@ -958,7 +966,6 @@ lile - petit
 lilkaboge - courgette  
 lilite - caillou  
 lime - cinq (5)  
-limyom - vendredi  
 • limite - limité  
 limon - citron  
 limon jus - citronnade  
@@ -974,24 +981,24 @@ lisan - langue
 liste - liste  
 litium - lithium  
 litre - litre  
+live - laisser  
+• livaje - reste  
 livermorium - livermorium  
 loge - parler (parole)  
 • logive - loquace  
 • euloge - éloge  
 logaslia - étymologie  
-loke - lieu  
-loke - mettre (placer)  
-loke - local  
+loke - lieu (placer, mettre)  
+• lokike - local  
 longe - long  
-longo - loin  
 longodure - prolongé  
-longoduro - longtemps  
 longokrokodil - crocodile  
 longopipre - poivre long  
 lontre - loutre  
 luge - vert  
-lune - lune  
+lun - lune  
 lun - mois  
+lun bati - août  
 lunokeke - gâteau de lune  
 luter - brigand (bandit)  
 lutetium - lutécium  
@@ -1415,7 +1422,6 @@ rel - réel
 rel televizion - téléréalité  
 renium - rhénium  
 rentogenium - roentgenium  
-reste - reste  
 ri- - répétition  
 rice - riche  
 rim - rime  
@@ -1533,7 +1539,6 @@ siri mote - célérité
 sirplan - complot (conspiration)  
 sirkite - pavé  
 sise - six (6)  
-sisyom - samedi  
 site - ville  
 skalotan - vigne  
 Skandia - Scandinavie  
@@ -1696,7 +1701,6 @@ tuze - lapin (lièvre)
 un - un (1)  
 • unike - seul (unique)  
 • uniko - uniquement  
-unoyom - lundi  
 unomaro - une fois  
 unoki lense - monocle  
 volfe - loup  
@@ -1802,6 +1806,7 @@ Xiva - Shiva
 sis - brochette  
 sismanse - chachlik  
 xope - acheter (shopping)  
+xukre - merci  
 xul - leçon  
 xule - apprendre (étudier)  
 xulia - éducation  
@@ -1836,7 +1841,7 @@ yesus - Jésus
 yodium - iode  
 • yogiste - yogi  
 yogur - yaourt (yogourt)  
-yom tri - mercredi  
+yom - jour  
 yterbium - ytterbium  
 ytrium - yttrium  
 yuge - joug  

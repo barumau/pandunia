@@ -315,7 +315,6 @@ coisa - xei
 colaborar - konkare  
 colar (aderir) - glute  
 colher - camaca  
-colocar (pôr) - loke  
 combava - karsolimon  
 combinar com - konbone  
 começo (início, princípio) - xure  
@@ -408,7 +407,8 @@ de luxo - deluxe
 dedo - angul  
 defecar - defeke  
 deitar - kuse  
-deixar - lase  
+deixar - laxe  
+deixar - live  
 dente-de-leão (taráxaco) - makanful  
 derretre - fuze  
 descanse em paz - repause in pace (RIP)  
@@ -423,7 +423,8 @@ destruir - destrute
 deus - deu  
 devanágari - deunagre  
 dever - debu  
-dia - den  
+dia (24 horas) - den  
+dia - yom  
 diagonal - diagone  
 diamante - adamas  
 dicotomia - duotome  
@@ -443,13 +444,14 @@ distrair - distrate
 ditador - ditater  
 ditadura - ditateria  
 ditar - dite  
+diário - denike  
 dióxido de carbono - karboduloxide  
 dobro - duple  
 docente - dokente  
 documento - dokum  
 documentário - dokumfilme  
 dois (2) - du  
-domingo - cetyom  
+domingo - den ceti  
 doméstico - domike  
 domínio - dominia  
 dor de cabeça - sartunge  
@@ -658,7 +660,7 @@ golfinho (delfim) - dolfin
 gorila - gorile  
 governo - polite  
 granito - granite  
-graças a - a danke de  
+graças a - a xukre de  
 grupo - grupe  
 grávida (prenhe) - hamile  
 guarda-chuva - barsocate  
@@ -829,11 +831,11 @@ livermório - livermorium
 livre (forro) - hure  
 livro - buke  
 lição - xul  
-local - loke  
+local - lokike  
 longo - longe  
 lontra - lontre  
-lua - lune  
-lugar (local) - loke  
+lua - lun  
+lugar (local; colocar, pôr) - loke  
 lula (calamar) - kalmar  
 luta - gihade  
 luteranismo - martinluterisme  
@@ -1032,6 +1034,7 @@ oasis - vase
 obituário - nekrologe  
 oblíquo (torto) - terce  
 obra - ature  
+obrigado - xukre  
 obsidiana - osidian  
 oceano - daihai  
 ocular - oke  
@@ -1107,6 +1110,7 @@ patologia - patolojia
 patógeno - patogener  
 pausa - pauze  
 paz - pace  
+país - gogia  
 pederneira - hogite  
 pedir emprestado - jekocepe  
 pedra - ite  
@@ -1162,7 +1166,7 @@ ponte - pul
 ponteiro - dikobaton  
 por cento - pro cente  
 por exemplo - misalo  
-por muito tempo - longoduro  
+por muito tempo - a longe dure  
 poro - pore  
 poroso - porosi  
 portar - porte  
@@ -1223,12 +1227,13 @@ pátria - patria
 pátria-mãe - matria  
 pântano - fangostan  
 pão - pang  
+pérola - jenju  
 pícea (espruce) - picea  
 pós-natal - posnatal  
 pós-produção - posprodute  
 quadrinhos (banda desenhada) - grafosage  
 quando - ke sate  
-quarta-feira - yom tri  
+quarta-feira - den tri  
 quarto (dormitório) - somokamar  
 quartzo - kuarze  
 quatro (4) - care  
@@ -1243,7 +1248,7 @@ querido - amike
 quiabo - bamia  
 quimono - kimono  
 quincã (cunquate) - kankuate  
-quinta-feira - caryom  
+quinta-feira - den nelu  
 quivi - kivi  
 química - kimolojia  
 
@@ -1291,7 +1296,7 @@ repórter - reporter
 reserva - rezerve  
 resfiado (gripe) - zukam  
 resposta - gavabe  
-resto - reste  
+resto - livaje  
 reto - orte  
 retornar (voltar) - retre  
 revelar - devele  
@@ -1358,7 +1363,7 @@ seabórgio - siborgium
 secador de cabelo - kexofentor  
 seda - silke  
 sede - suiyau  
-segunda-feira - unoyom  
+segunda-feira - den un  
 seguro - sekure  
 seio (mama) - mam  
 seis (6) - sise  
@@ -1380,7 +1385,7 @@ sete (7) - cete
 sexo - gense  
 sexologia - sexolojia  
 sexologia - sexolojia  
-sexta-feira - limyom  
+sexta-feira - den lima  
 significar (querer dizer) - seme  
 silencioso - tixe  
 silêncio - tixia  
@@ -1411,7 +1416,7 @@ suco (sumo) - jus
 suor - suede  
 superestimar (sobrestimar) - maxorai  
 suástica (cruz gamada) - hukokrus  
-sábado - sisyom  
+sábado - den luka  
 São Paulo - Sante Paulo  
 série (sequência) - sere  
 série (sequência) - seria  
@@ -1450,7 +1455,7 @@ terra natal - genostan
 terracota - bekofan  
 terraplanista - platogeiste  
 terreno - geoforme  
-terça-feira - dulyom  
+terça-feira - den du  
 teste - teste  
 texto - texte  
 tigre - bagre  

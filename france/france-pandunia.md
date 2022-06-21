@@ -99,7 +99,7 @@ antimoine - stibium
 antonyme - antinam  
 antonyme - antonam  
 anus (anal) - anus  
-août - batolun  
+août - lun bati  
 apogée - abogee  
 appartenir à - be male  
 appendre - apende  
@@ -532,7 +532,7 @@ diction - dition
 dieu - deu  
 différence - alosifia  
 différent - alosife  
-dimanche - cetyom  
+dimanche - den ceti  
 dinde (dindon) - dinde  
 diorite - diorite  
 dioxyde de carbone - karboduloxide  
@@ -741,7 +741,7 @@ gravire - grave
 grenouille - krokroke  
 grimace - grimas  
 groupe - grupe  
-grâce à - a danke de  
+grâce à - a xukre de  
 grès - sablopetre  
 guerre - gere  
 guerrier - gerer  
@@ -868,14 +868,15 @@ Japon - Nipon
 jaïnisme - jenisme  
 je (me) - mi  
 jeu de société - banogem  
-jeudi - caryom  
+jeudi - den nelu  
 jeune (juvénile) - yune  
 jonction - juntion  
 jongler - jongle  
 jongleur - jongler  
 joug - yuge  
 joule (J) - jul  
-jour - den  
+jour (24 heures) - den  
+jour - yom  
 juje - juder  
 jungle - jangle van  
 Jupiter - jupiter  
@@ -902,7 +903,7 @@ l'un l'autre - semon
 lac - lage  
 laid (vilain) - dusvide  
 laine - mehi kex  
-laisser - lase  
+laisser - live  
 lait - milke  
 lait de soja - soimilke  
 laitue - letis  
@@ -932,7 +933,7 @@ libellule - libele
 libre - hure  
 lichen - algafung  
 lien - linke  
-lieu - loke  
+lieu (placer, mettre) - loke  
 lieu de naissance - genoloke  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amirlin  
@@ -946,18 +947,18 @@ litre - litre
 littérature - kitabia  
 livermorium - livermorium  
 livre - buke  
-local - loke  
+local - lokike  
 logique - ratolojia  
-loin - longo  
+loin - a long  
 long - longe  
-longtemps - longoduro  
+longtemps - a longe dure  
 loquace - logive  
 loup - volfe  
 lourd - veze  
 loutre - lontre  
 lumière - fote  
-lundi - unoyom  
-lune - lune  
+lundi - den un  
+lune - lun  
 luthéranisme - martinluterisme  
 luthérien - martinluteriste  
 lutte - gihade  
@@ -965,6 +966,7 @@ lutécium - lutetium
 luxure - luxure  
 lynx - lince  
 lys - susan  
+lâcher (laisser) - laxe  
 léger - lege  
 légume - yamfite  
 lézard - saure  
@@ -994,7 +996,7 @@ mantra - mantre
 marbre - kalsokristal  
 marche - marce  
 marché (bazar) - bazar  
-mardi - dulyom  
+mardi - den du  
 margay (chat-tigre) - margai  
 marguerite - bakomargarite  
 mariage - gamia  
@@ -1019,7 +1021,8 @@ menthe poivrée - piprominte
 menthe verte - zongominte  
 menu (carte) - menu  
 mer - hai  
-mercredi - yom tri  
+merci - xukre  
+mercredi - den tri  
 mercure - hurargente  
 Mercure - Merkur  
 merde - xite  
@@ -1028,7 +1031,6 @@ merveille - mirable
 message - angil  
 message - misaje  
 messager - angiler  
-mettre (placer) - loke  
 meule - molite  
 microbe - mikrobia  
 microbiologie - mikrobiolojia  
@@ -1246,6 +1248,7 @@ pause - pauze
 pavot d'Orient - guipapil  
 pavot somnifère - somopapil  
 pavé - sirkite  
+pays - gogia  
 peindre - pente  
 peinture - pente  
 pelle - belce  
@@ -1255,6 +1258,7 @@ perdant - sibayer
 perder - sibaya tene  
 pere (papa) - pe  
 perfectionner (parfaire) - purbone  
+perle - jenju  
 perplexe (désorienté) - ruhmixe  
 perroquet - papagai  
 personne - jen  
@@ -1400,6 +1404,7 @@ que (comme) - ce
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
 qui - ke jen  
+quotidien (journalier) - denike  
 
 ## R  
 
@@ -1429,7 +1434,7 @@ repose en paix (REP) - repause in pace (RIP)
 repport (reportage) - reporte  
 reprendre - redure  
 requin - xarke  
-reste - reste  
+reste - livaje  
 retour (retourner, revenir; remettre) - retre  
 revenir - revene  
 rhodium - rodium  
@@ -1500,7 +1505,7 @@ salle de gymnastique - sportokan
 salle de muscu - balokan  
 salut (salam) - salam  
 samarium - samarium  
-samedi - sisyom  
+samedi - den luka  
 Samoa américaines - Amerikan Samoa  
 sandwich - sanduice  
 sang - heme  
@@ -1733,7 +1738,7 @@ vanadium - vanadium
 vapeur d’eau - suigas  
 varech - varkalge  
 vendre - vende  
-vendredi - limyom  
+vendredi - den lima  
 Venezuela - Venezuele  
 venir - lai  
 ventilateur - fentor  

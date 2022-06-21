@@ -61,7 +61,7 @@ Goodbye!
 **salam safar!**
 Have a safe journey!
 
-**salam sona!**
+**salam some!**
 Sleep well!
 
 As you can see from the range of expressions,
@@ -76,35 +76,35 @@ is a popular greeting that is used by both religious and non-religious people in
 Indonesian: selamat.</small>
 
 
-### xukur <small>thanks</small>
+### xukre <small>thanks</small>
 
 <p style="font-size:5em;">🙏</p>
 
-**xukur!**
+**xukre!**
 Thanks!
 
-**poli xukur!**
+**poli xukre!**
 Thanks a lot!
 
-**ya, xukur.**
+**ya, xukre.**
 Yes, thank you.
 
-**no, xukur.**
+**no, xukre.**
 No, thank you.
 
-**xukur tu.**
+**xukre tu.**
 Thank you.
 
-**mi xukur tu.**
+**mi xukre tu.**
 I thank you.
 
-**mi xukur tu mede mi.**
+**mi xukre tu mede mi.**
 I thank you for helping me.
 
-**xukur tu mede mi.**
+**xukre tu mede mi.**
 Thanks for helping me.
 
-**no yau xukur.**
+**no yau xukre.**
 You're welcome. (Literally: _No need to thank._)
 
 
@@ -360,13 +360,13 @@ This apple is red.
 **ni si rubi.**
 This is red.
 
-**yemon na ke?**
+**yemon a ke?**
 Where are they?
 
-**yemon na ni.**
+**yemon a ni.**
 They are here.
 
-**yemon na go.**
+**yemon a go.**
 They are there.
 
 
@@ -648,24 +648,24 @@ I can't speak English.
 Sorry, I can't speak your language.
 
 
-### loga <small>to say, speak, talk</small>
+### loge <small>to say, speak, talk</small>
 
-**tu loga ke?**
+**tu loge ke?**
 What did you say?
 
-**mi loga do tu.**
+**mi loge do tu.**
 I talk to you.
 
-**mimon loga do semon.**
+**mimon loge do semon.**
 We talk to each other.
 
-**mon loga "cat" na ke yang na pandunia?**
+**mon loge "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" si ke na pandunia?**
+**"cat" si ke a pandunia?**
 What is "cat" in Pandunia?
 
-**mau loga miau.**
+**mau loge miau.**
 Cat says meow.
 
 
@@ -677,7 +677,7 @@ Listen to me!
 **mi no bil aude tu.**
 I can't hear you.
 
-**cing loga max like.**
+**cing loge max like.**
 Please speak louder.
 
 **mi aude muzike.**
@@ -695,25 +695,25 @@ Pleased to see you!
 **vide tu re!**
 See you again!
 
-**vide tu na pos den!**
+**vide tu a pos den!**
 See you tomorrow!
 
 **mi vide ye a preden.**
 I saw him/her yesterday.
 
 
-### mana <small>to mean</small>
+### seme <small>to mean</small>
 
-**ni loga ya mana ke?**
+**ni lexe ya seme ke?**
 What does this word mean?
 
-**"mau" ya mana ke?**
+**"mau" ya seme ke?**
 What does "mau" mean?
 
-**ye mana un yang de zou.**
+**ye seme un yang de zou.**
 It means a kind of animal.
 
-**mi no aha ye mana ke.**
+**mi no aha ye seme ke.**
 I don't understand what it means.
 
 
@@ -737,16 +737,16 @@ We speak Pandunia.
 **sual tu bil baxe englix?**
 Can you speak English?
 
-**france, espanya, portugal, rus**
+**franse, espanya, portugal, rus**
 French, Spanish, Portuguese, Russian
 
-**putong han, nipon, indonesia**
-Chinese, Japanese, Indonesian
+**putong han, nipon, malayu**
+Chinese, Japanese, Malay
 
 **arabi, turki, farsi, urdu, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
-**suahili, hausa, yoruba, amari**
+**suahili, hausa, yoruba, amare**
 Swahili, Hausa, Yoruba, Amharic
 
 
@@ -769,7 +769,7 @@ To whom should I go?
 **haida ga!**
 Let's go!
 
-**haida ga na fute**
+**haida ga a fute**
 Let's go by foot!
 
 
@@ -784,13 +784,13 @@ Where do you come from?
 **mi lai ze Dubai.**
 I come from Dubai.
 
-**mi lai dom na pos den.**
+**mi lai dom a pos den.**
 I will come home tomorrow.
 
 
 ### safar <small>to travel</small>
 
-**sual tu safar na tren?**
+**sual tu safar a tren?**
 Do you travel by train?
 
 **mimon safar ze London do Paris.**
@@ -800,43 +800,43 @@ We travel from London to Paris.
 The voyage is very long.
 
 
-### na <small>in, on, at</small>
+### a <small>in, on, at</small>
 
-**la hotel na ke?**
+**la hotel a ke?**
 Where is the hotel?
 
-**la hotel na go dau.**
+**la hotel a go dau.**
 The hotel is on that road.
 
-**tu na ke?**
+**tu a ke?**
 Where are you?
 
-**mi na dom.**
+**mi a dom.**
 I'm at home.
 
-**ye na ke?**
+**ye a ke?**
 Where is he/she?
 
-**ye side na kamar.**
+**ye side a kamar.**
 He/she sits in the room.
 
 Tip! You can use
-**na**
+**a**
 as a preposition or alone as the verb.
 
-**mi gong na...**
+**mi gong a...**
 I work at ...
 
 
 ### dom <small>to live, reside</small>
 
-**tu dom na ke?**
+**tu dom a ke?**
 Where do you live?
 
-**mi dom na Singapur.**
+**mi dom a Singapur.**
 I live in Singapore.
 
-**sual tu dom na ni hotel?**
+**sual tu dom a ni hotel?**
 Do you live in this hotel?
 
 
@@ -851,7 +851,7 @@ Wait for me!
 **yemon dele do mimon.**
 They wait for us.
 
-**mi dele do tu na hotel.**
+**mi dele do tu a hotel.**
 I wait for you in the hotel.
 
 
@@ -868,7 +868,7 @@ The man is watching a film.
 **ye zai si xefe.**  
 He or she is currently the chief.
 
-**ye zai na dom.**  
+**ye zai a dom.**  
 He or she is currently at home.
 
 
@@ -883,7 +883,7 @@ The man watched a film.
 **ye pas si xefe.**  
 He or she was the chief.
 
-**ye pas na dom.**  
+**ye pas a dom.**  
 He or she was at home.
 
 
@@ -898,7 +898,7 @@ The man has watched a film.
 **ye le si xefe.**  
 He or she has been the chief.
 
-**ye le na la dom.**  
+**ye le a la dom.**  
 He or she has been at home.
 
 
@@ -913,7 +913,7 @@ The man will watch the film.
 **ye xa si xefe.**  
 He or she will be the chief.
 
-**ye xa na dom.**  
+**ye xa a dom.**  
 He or she will be at home.
 
 
@@ -954,21 +954,21 @@ You already got money from me before.
 I will take a beer.
 
 
-### kira <small>rent, lease, hire</small>
+### kire <small>rent, lease, hire</small>
 
-**kira si 500 dolar na mes.**  
+**kire si 500 dolar a lun.**  
 The rent is 500 dollars in a month.
 
-**ye no bil pei la kira.**  
+**ye no bil pei la kire.**  
 He/she can't pay the rent.
 
-**mi vol kape un gar na kira.**  
+**mi vol kape un gar a kire.**  
 I want to take a car for rent.
 
-**mi vol kira kape un kar.**
+**mi vol kire kape un kar.**
 I want to rent a car.
 
-**ye kira don la kamar do safarer.**
+**ye kire don la kamar do safarer.**
 He/she rents rooms to travelers.
 
 
@@ -1051,7 +1051,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**cing side na ni!**
+**cing side a ni!**
 Please, sit here!
 
 **mi suku stasa.**
@@ -1060,7 +1060,7 @@ I rather stand.
 ****
 With pleasure!
 
-**festa xuru na ke zaman?**
+**festa xuru a ke zaman?**
 When does the party begin?
 
 **tu sahi.**

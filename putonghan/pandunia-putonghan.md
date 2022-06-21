@@ -4,6 +4,7 @@
 
 a - 在  
 a line - 在线  
+a longe dure - 久  
 abete - 冷杉  
 able - 会 (可能)  
 acar - 腌菜  
@@ -213,7 +214,6 @@ caku - 刀
 camaca - 匙子  
 cantergrupe - 合唱团  
 care - 四 (4)  
-caryom - 星期四 (禮拜四)  
 ceke - 支票  
 celolojia - 细胞学  
 cene - 以前  
@@ -226,7 +226,7 @@ ceresium - 铈
 • sucese - 成功  
 cesium - 铯  
 cete - 七 (7)  
-cetyom - 星期日 (禮拜日)  
+ceti din - 週  
 cili - 菜椒  
 cili fun - 辣椒粉  
 cine - 汉族  
@@ -264,10 +264,16 @@ de - 从
 defkaske - 盔甲  
 defoban - 盾牌  
 dege - 得 (获得)  
-den - 白天  
+den - 日  
+den un - 星期一 (禮拜一)  
+den du - 星期二 (禮拜二)  
+den tri - 星期三 (禮拜三)  
+den nelu - 星期四 (禮拜四)  
+den lima - 星期五 (禮拜五)  
+den luka - 星期六 (礼拜六)  
+den ceti - 星期日 (禮拜日)  
 deu - 神  
 deunagre - 天城文  
-dexojen - 公民  
 dike - 方向 (目的, 目标, 瞄准)  
 dikobaton - 教鞭  
 din - 宗教  
@@ -297,7 +303,6 @@ dua - 祈祷
 • dusdua - 诅咒  
 duce - 淋浴  
 duge - 读 (看)  
-dulyom - 星期二 (禮拜二)  
 dunia - 世界  
 dur - 时间  
 • duro - 还 (依然)  
@@ -440,6 +445,8 @@ glute - 黏的
 glutobende - 创可贴 (邦迪)  
 glutofan - 黏土  
 glutograf - 贴纸  
+gogia - 国家  
+• gogian - 公民  
 gol - 目的  
 • diagone - 对角  
 gorile - 大猩猩  
@@ -555,6 +562,7 @@ jau - 大麦
 jeke - 借  
 jekocepe - 借入  
 jekodone - 借出  
+jenju - 珍珠  
 • jetaje - 投掷物  
 jetografe - 投射 (投影)  
 jin - 真  
@@ -713,7 +721,6 @@ lalobavite - 红宝石
 lama - 喇嘛  
 lampe - 灯  
 lantanium - 镧  
-lase - 落 (留下)  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
 Latvia - 拉脱维亚  
@@ -740,7 +747,6 @@ lile - 小
 lilkaboge - 西葫芦  
 lilite - 砾石  
 lime - 五 (5)  
-limyom - 星期五 (禮拜五)  
 limon - 柠檬  
 limonike - 柑橘  
 limon jus - 柠檬水  
@@ -756,15 +762,16 @@ lisan - 舌头
 liste - 单子  
 litium - 锂  
 litre - 升  
+live - 落 (留下)  
+• livaje - 其余  
 loge - 说话 (讲, 语言)  
-loke - 地方  
-loke - 放置  
+loke - 地方 (放置)  
 lon - 论  
 longe - 长  
-longoduro - 久  
 longopipre - 荜拔  
 lontre - 獭  
 love - 漏  
+luge - 录  
 luge - 绿色  
 lunokeke - 月饼  
 lung - 龙  
@@ -906,6 +913,7 @@ nefre - 肾脏
 nefte - 油  
 neftoguke - 野菊花  
 • nekrotome - 尸检  
+nen lun den - 年月日  
 neodimium - 钕  
 neon - 氖  
 nepe - 云  
@@ -1094,7 +1102,6 @@ retroguli sense - 恶心
 • relia - 现实  
 rel televizion - 真人秀  
 renium - 铼  
-reste - 其余  
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
@@ -1191,7 +1198,6 @@ sire - 隐藏
 sirplan - 阴谋 (密谋)  
 sirkite - 鹅卵石  
 sise - 六 (6)  
-sisyom - 星期六 (礼拜六)  
 skandium - 钪  
 • socia - 社会  
 soce ginse - 社會性別  
@@ -1315,7 +1321,6 @@ umame - 鲜味
 un - 一 (1)  
 • unike - 唯一 (独)  
 • uniko - 只有 (惟独)  
-unoyom - 星期一 (禮拜一)  
 unomaro - 一次 (一遍)  
 ure - 好哇  
 uranium - 铀  
@@ -1394,6 +1399,7 @@ sismanse - 串烧
 xofe - 开车  
 • xofer - 司机  
 xope - 买 (购物, 血拼)  
+xukre - 谢谢  
 xul - 课  
 xule - 学习  
 xulia - 教育  
@@ -1430,9 +1436,7 @@ yodium - 碘
 yoge - 瑜伽功  
 • yogiste - 瑜伽士  
 yogur - 酸奶 (优格)  
-yom - 日  
-yomcete - 週  
-yom tri - 星期三 (禮拜三)  
+yom - 白天  
 yterbium - 镱  
 ytrium - 钇  
 yuge - 轭  

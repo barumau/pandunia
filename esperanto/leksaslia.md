@@ -246,7 +246,6 @@
 **dama gem** ** ← franca:jeu de dames, araba:(dāmā), malaja:dam, hispana:portugala:damas, deu:Damespiel  
 **dan** ** ← hindia:दाना (dānā), turka:tane + japana:種 (tane);銃弾 (jūdan), mandarena:弹 (dàn), vjetnama:đạn, korea:탄알 (tanal)  
 **dange** ** ← angla:dong, portugala:dlim-dlão, hispana:tilín, mandarena:叮 (dīng), japana:がんがん (gangan), taja:กระดิ่ง (grà-dìng)  
-**danke** *danki (dankon)* ← angla:thank, deu:Danke, + hindia:धन्यवाद (dhanyavād)  
 **danse** *danco* ← angla:franca:dance, hispana:danza, portugala:dança, deu:Tanz, rusa:танец (taněc), turka:dans, japana:ダンス (dansu), korea:댄스 (daenseu), svahila:dansi  
 **dante** *dento* ← hispana:diente, portugala:dente, franca:dent, angla:dental, hindia:दाँत (dā̃t), bengala:দাঁত (dãtô), pan:ਦੰਦ (dand), malaja:danta  
 **darbe** *bati* ← araba:ضرب‎ (ḍaraba), svahila:dhurubu, persa:ضرب (ḍarb) + rusa:уда́рить (udarit’)  
@@ -264,15 +263,14 @@
 **deme** *popolo* ← angla:hispana:demo-, franca:démo-, rusa:демо- (demo-)  
 **demokratia** *demokratio* ← angla:democracy, rusa:демократия (demokratiya), hispana:democracia, franca: portugala: deu: araba:(dīmukratiya), svahila:demokrasia  
 **demon** *demono* ← angla:turka:demon, hispana:demonio, portugala:demônio, franca:démon, deu:Dämon, rusa:демон (demon)  
-**den** *tago* ← rusa:день (deń), hindia:दिन (din), bengala:দিন (din) + mandarena:天 (tiān), kantona:天 (tin1)  
+**den** *tago (periodo de 24 horoj)* ← rusa:день (deń), hindia:दिन (din), bengala:দিন (din) + mandarena:天 (tiān), kantona:天 (tin1) + hispana:día, portugala:dia  
 **denge** *atendi* ← mandarena:等 (děng), kantona:等 (dang2)  
-**dese** *dek (10)* ← portugala:dez, hispana:diez, franca:dix, rusa:десять (desyat'), polona:dziesięć, hindia:दस (das), urdua:(das), bengala:দশ (dôś), + angla:deci-, malaja:desi-, japana:デシ- (deshi), deu:dezi-  
+**des** *dek (10)* ← portugala:dez, hispana:diez, franca:dix, rusa:десять (desyat'), polona:dziesięć, hindia:दस (das), urdua:(das), bengala:দশ (dôś), + angla:deci-, malaja:desi-, japana:デシ- (deshi), deu:dezi-  
 **desen** *desegno* ← angla:design, hispana:diseño, rusa:дизайн (dizain), turka:desen, hindia:डिज़ाइन (ḍizāin), japana:デザイン (dezain)  
 **detal** *detalo* ← angla:detail, hispana:detalle, portugala:detalhe, franca:détail, deu:Detail, rusa:дета́ль (detal’)  
 **deu** *dio* ← portugala:deus, malaja:dewa, hindia:देवता (devtā), kanara:(dēva) + angla:theo-, franca:théo-, hispana:teo-, rusa:тео- (teo-)  
-**dex** *lando* ← hindia:देश (deś), bengala:দেশ (deś), teluga:(dēśamu)  
 **dike** *direkti (celi; direkto, celo)* ← angla:indicate, franca:indiquer, hispana:portugala:indicar + hindia:marataja:दिशा (diśā), malajala:ദിശ (diśa), kmera:ទិស (tɨh), tha:ทิศทาง (tit-taang) + bengala:দিকে (dike) + mandarena:的 (dí), kantona:的 (dik1), japana:的 (teki), vjetnama:đích  
-**din** *religio* ← araba:(dīn), bengala:দীন (din), persa:(din), turka:malaja:din, svahila:dini, haŭsa:addini, hindia:दीन (dīn)  
+**din** *religio* ← araba: دِين‎ (dīn), hindia:दीन (dīn), bengala:দীন (din), turka:malaja:din, svahila:dini, haŭsa:addini  
 **dinamite** ** ← angla:dynamite, hispana:dinamita, rusa:динамит (dinamit), turka:malaja:dinamit, araba:ديناميت (dinamit), hindia:डायनामाइट (dāyanāmait), japana:ダイナマイト (dainamaito)  
 **dinde** *meleagro* ← franca:dinde, rusa:индюк (indyuk), turka:hindi, araba: دِيك هِنْدِيّ‎ (dīk hindiy)  
 **ding** *najlo* ← mandarena:钉 (dīng), kantona:釘 (deng1), vjetnama:đinh  
@@ -449,6 +447,7 @@
 **glise** ** ← franca:glisser, itala:glissare + angla:glacier, glissando, hispana:portugala:glaciar, glisando, rusa:глиссандо (glissando), araba:غليساندو (ghlysandw), japana:グリッサンド (gurissando) + malaja:gelangsar  
 **glute** *gluo* ← angla:glue, svahila:gluu + franca:glutineux  
 **gluten** *gluteno* ← angla:hispana:franca:gluten, portugala:glúten, rusa:глюте́н (gl’uten), araba:غْلُوتِين‎ (ḡlūtīn), japana:グルテン (guruten)  
+**gogia** *lando* ← mandarena:国家 (guójiā), kantona:國家 (gwok3 gaa1), japana:国家 (kokka), korea:국가(gukga), vjetnama:quốc gia  
 **gol** *golo* ← portugala:hispana:gol, angla:goal, japana:ゴール (gōru), korea:골 (gol), hindia:गोल (gola), teluga:గోలు (gōlu), rusa:гол (gol)  
 **golem** ** ← heb:גולם‎ (golem), angla:hispana:portugala:franca:malaja:golem, deu:Golem, rusa:голем (golem), araba:غولم (ghwlm) japana:ゴーレム (gōremu), korea:골렘 (gollem)  
 **gom** *kaŭĉuko* ← franca:gomme, hispana:filipina:goma, japana:ゴム (gomu), korea:고무 (gomu) + angla:gum + hindia:गम (gam), bengala:গাম (gam)  
@@ -571,6 +570,7 @@
 **jeng** *milito (batalo)* ← mandarena:爭 (zhēng), vjetnama:tranh, korea:전쟁 (jeonjaeng), turka:kur:ceng, persa:urdua:(jang), hindia:जंग (jang)  
 **jengoxute** ** ← mandarena:武术 (wǔshù), japana:武術 (bujutsu), vjetnama:võ thuật, korea:무술 (musul), angla:martial art  
 **jenisme** *Ĝajnismo* ← hindia:marataja:जैन (jain), tha:เชน (chen), angla:jainism, franca:jaïnisme, rusa:джайнизм (džaynizm)  
+**jenju** *perlo* ← mandarena:珍珠 (zhēnzhū), kantona:珍珠 (zan1 zyu1), japana:真珠 (shinju), korea:진주 (jinju), vjetnama:trân châu, rusa:жемчуг (žemčug), turka:inci,incü  
 **jensen** ** ← mandarena:人蔘 (rénshēn), mina:人蔘 (jîn-sam), angla:hispana:portugala:turka:malaja:ginseng, rusa:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), japana:人参 (ninjin)  
 **jete** ** ← franca:projet, portugala:projeto, angla:project, hispana:proyecto, rusa:проект (proyekt), hindia:प्रोजैक्ट (projaikṭ), bengala:প্রজেক্ট (prôjekṭ), japana:プロジェクト (purojekuto), korea:프로젝트 (peurojekteu), turka:proje  
 **jin** *vera* ← mandarena:真 (zhēn), kantona:真 (zan1), japana:真 (shin), korea:진 (jin), taja:จริง (jing), kyr:tat:чын (çın) + angla:genuine  
@@ -755,12 +755,12 @@
 **langan** ** ← mandarena:栏杆 (lángān), japana:欄干 (rankan), korea:난간 (nan-gan)  
 **lantanium** ** ← angla:lanthanum, franca:lanthane, hispana:lantano, portugala:lantâno, rusa:лантан, mandarena:镧 (lán), japana:ランタン, korea:란탄, vjetnama:lantan, hindia:लाञ्थनम, bengala:ল্যান্থানাম, malaja:lantanium, svahila:lanthani, araba: لنثانوم  
 **larve** ** ← deu:franca:larve, angla:turka:larva, hindia:लार्वा (lārvā), urdua:(lārvā), polona:larwa  
-**lase** ** ← franca:laisser, lâcher, itala:lasciare, deu:lassen  
 **laste** ** ← angla:elastic, hispana:portugala:elástico, gla:lastaig, rusa:эласти́чный (elastíčnyj), turka:malaja:elastik, japana:エラスティック (erasutikku)  
 **lasun** *ajlo* ← hindia:लहसुन (lahsun), bengala:রসুন (rôśun), mandarena:大蒜 (dàsuàn)  
 **late** *flanko (latero)* ← hispana:portugala:lado, itala:lato, angla:lateral, franca:latéral, rusa:латеральный (lateral’nyy)  
 **laurensium** *laŭrencio* ← angla:lawrencium, franca:lawrencium, hispana:laurencio, portugala:lawrêncio, rusa:лоуренсий, mandarena:铹 (láo), japana:ローレンシウム, korea:로렌슘, vjetnama:lorenxi, lawrenci, hindia:लॉरेंशियम, bengala:লরেনসিয়াম, malaja:lawrensium, svahila:lawirensi, araba: لورنسيوم  
 **lave** ** ← mandarena:老 (lǎo), kantona:老 (lau2), vua:老 (lau3), japana:老 (rō), vjetnama:lão  
+**laxe** ** ← angla:(re)lax, franca:(re)lâcher, hispana:(re)lajar, itala:lasciare, deu:lassen  
 **lazanya** ** ← franca:lasagne, angla:lasagna, hispana:lasaña, portugala:lasanha, rusa:лазанья (lazanya), araba:(lazanyā), japana:ラザニア (razania), korea:라자냐 (lajanya), hindia:लज़ैन्या (lazenyā)  
 **laze** *rubo* ← mandarena:垃圾 (lājī)  
 **lazurpetre** ** ← persa:لاجورد (lājevard), angla:lazuli, hispana:lapislázuli, rusa:лазурит (lazurit), araba:لازورد (lāzaward), hindia:लाजवर्द (lājavarda), japana:ラピスラズリ (rapisurazuri), malaja:lazuardi, turka:lazur taşı  
@@ -793,11 +793,11 @@
 **liste** *listo* ← angla:list, hispana:portugala:lista, rusa:лист (list), deu:franca:liste, persa:(list), hindia:लिस्ट (lisṭ), urdua:(lisṭ), japana:リスト (risuto)  
 **litium** *litio* ← angla:lithium, franca:lithium, hispana:litio, portugala:lítio, rusa:литий, mandarena:锂 (lǐ), japana:リチウム, korea:리튬, vjetnama:svahila:lithi, hindia:लिथियम, bengala:লিথিয়াম, malaja:litium, swa:lithi, araba: ليثيوم  
 **litre** *litro* ← angla:franca:turka:litre, deu:malaja:liter, hispana:portugala:litro, rusa:литр (litr), polona:litr, araba: لتر‎(litr), hindia:लीटर (līṭar), bengala:লিটার (liṭar), japana:リットル (rittoru), korea:리터 (riteo), vjetnama:lít, svahila:lita  
+**live** *lasi* ← angla:leave + mandarena:留 (liú), japana:留 (ryū), korea:류 (ryu), vjetnama:lưu  
 **livermorium** ** ← angla:franca:livermorium, hispana:livermorio, portugala:livermório, rusa:ливерморий, mandarena: (lì), japana:リバモリウム, korea:리버모륨, vjetnama:livermori, malaja:livermorium, svahila:livermori  
 **lobake** *rafaneto* ← mandarena:萝卜 (luóbo), kantona:蘿蔔 (lobaak), malaja:lobak  
 **loge** *paroli* ← greka:λόγος (logos), angla:franca:-logue, hispana:portugala:-logo, rusa:-лог (-log) + araba:(luğa), hindia:लुग़त (luġat), svahila:lugha, malaja:logat, turka:lügat, persa:(loğat)  
-**lojia** *scienco* ← angla:-ology, hispana:-ología, franca:-ologie, rusa:ология (-ologiya), turka:-loji  
-**loke** *loko* ← angla:location, hispana:lugar, franca:localisation, + deu:turka:lokal, polona:lokalny  
+**loke** *loko (lokigi)* ← angla:location, hispana:lugar, franca:localisation, + deu:turka:lokal, polona:lokalny  
 **lon** ** ← mandarena:论 (lùn), kantona:論 (lœn6), korea:론 (ron), japana:論 (ron), vjetnama:luận  
 **longe** *longa* ← angla:franca:long, deu:lang, portugala:longo  
 **lontre** ** ← hispana:filipina:lutrino, franca:loutre, portugala:lontra, itala:lontra  
@@ -805,8 +805,7 @@
 **love** *liki* ← mandarena:漏 (lòu), kantona:漏 (lau6), japana:漏 (rō), 루 (ru)  
 **luge** *registri* ← angla:log + mandarena:录 (lù), kantona:錄 (luk6), japana:録 (roku), korea:록 (rok), vjetnama:lục  
 **luge** *verda* ← mandarena:绿 (lǜ), kantona:綠 (luk6), vjetnama:lục, korea:록/녹 (rok/nok), japana: 緑色 (ryokushoku)  
-**lul** *perlo* ← amharaba:ሉል (lul), ara:(luʾluʾa), svahila:lulu, oroma:lu'ulu'a, haŭsa:lu'ulu'u, fula:luuluuri, persa:(lo'lo')  
-**lune** *luno* ← franca:lune, hispana:luna, angla:lunar, rusa:луна (luná)  
+**lun** *luno* ← franca:lune, hispana:luna, angla:lunar, rusa:луна (luná)  
 **lung** ** ← mandarena:龙 (lóng), kantona:龍 (lung4), vjetnama:rồng, long, korea:용 (yong), 룡 (ryong), jon:竜 (ryū)  
 **lusun** ** ← mandarena:芦笋 (lúsǔn), kantona:蘆筍 (lou4 seon2)  
 **lute** *rabi* ← hindia:लूटना (lūṭnā), urdua:(lūṭnā), bengala:লুটা (luṭā), panĝaba:ਲੁੱਟ (luṭ), angla:loot, + mandarena:掠夺 (lüèduó), kantona:掠 (loek6)  
@@ -971,7 +970,6 @@
 **neftoguke** ** ← mandarena:油菊, japana:アブラギク  
 **nege** ** ← hispana:portugala:negar, angla:negate  
 **nen** *jaro* ← japana:年 (nen), mandarena:年 (nián), kantona:年 (nin4), korea:년 (nyeon), vjetnama:năm, niên  
-**nenmesyom** *dato* ← mandarena:年月日 (niányuèrì), japana:年月日 (nengappi), korea:연월일 (yeonworil)  
 **nenufar** ** ← angla:nenuphar, hispana:portugala:nenúfar, franca:nénufar, rusa:ненюфа́р (nenjufár), persa:نیلوفر آبی‎ (nilufar-e âbi)  
 **neodimium** ** ← angla:neodymium, franca:néodyme, hispana:neodimio, portugala:neodímio, rusa:неодим, mandarena:钕 (nǚ), japana:ネオジム, korea:네오디뮴, vjetnama:neođim, hindia:नियोडाइमियम, bengala:নিওডিমিয়াম, malaja:neodinium, svahila:neodimi, araba: نيودميوم  
 **neon** *neono* ← angla:neon, franca:néon, hispana:neón, portugala:néon, rusa:неон, mandarena:氖 (nǎi), japana:ネオン, korea:네온, vjetnama:neon, nê-ông, hindia:नियोन, bengala:নিয়ন, malaja:neon, svahila:neoni, araba: نيون  
@@ -1165,7 +1163,6 @@
 **reporte** ** ← angla:report, hispana:reporte, franca:rapport, rusa:рапорт (raport), turka:rapor, svahila:ripoti, hindia:रिपोर्ट (riporṭ), japana:レポート (repōto)  
 **resete** ** ← itala:ricetta, rusa:рецепт (retsept), deu:Rezept, hispana:receta, portugala:receita, franca:recette, malaja:resep  
 **reside** ** ← persa:(resid), hindia:रसीद (rasīd), urdua:(rasīd), guĝarata:રસીદ (rasīd), teluga:రసీదు (rasīdu), + angla:receipt, svahila:resiti, malaja:resit  
-**reste** ** ← franca:reste, angla:deu:Rest, polona:reszta, hispana:portugala:resto  
 **restorante** *restaŭracio* ← angla:franca:restaurant, hispana:portugala:restaurante, rusa:ресторан (restoran), turka:malaja:restoran, hindia:रेस्तरां (restarā̃), bengala:রেস্টুরেন্ট (reśṭurenṭ), japana:レストラン (resutoran)  
 **rezin** *rezino* ← angla:resin, franca:résine, persa:(rezin), portugala:hispana:resina, turka:reçine  
 **ri-** *ripetado* ← angla:franca:portugala:hispana:re-, rusa:ре- (re-)  
@@ -1297,6 +1294,7 @@
 **strontium** *stroncio* ← angla:strontium, franca:strontium, hispana:strontium, portugala:estrôncio, rusa:стронций, mandarena:锶 (sī), japana:ストロンチウム, korea:스트논듐, vjetnama:stronti, hindia:स्ट्रोन्सियम, bengala:স্ট্রনসিয়াম, malaja:strontium, svahila:stronti, araba: سترانشيوم  
 **strute** ** ← angla:franca:structure, hispana:estructure, portugala:estrutura, rusa:структура (struktura), malaja:(infra)struktur, japana:(インフラ)ストラクチャ ((infura)sutorakucha), korea:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** ** ← angla:study, franca:étudier, hispana:estudiar, portugala:estudar + rusa:студент (student), hindia:स्टूडेंट (sṭūḍeṇṭ)  
+**su** *propra (partiklo de posedo)* ← angla:'s, hispana:su, portugala:seu,sua  
 **su-** ** ← scr:hindia: सु- (su-), bengala:সু- (śu-) + latina:angla:franca:su-  
 **sual** *demandi* ← araba: سؤال (su'āl), hindia:सवाल (savāl), malaja:soal, svahila:swali  
 **suane** *acida* ← mandarena:酸 (suān), kantona:酸 (syun1), vua:酸 (soe1), japana:酸 (san), korea:산 (san), vjetnama:toan  
@@ -1498,12 +1496,13 @@
 **xindavisme** ** ← japana:神道 (shintō), korea:신도 (sindo), mandarena:神道 (shéndào)  
 **xing** *stelo* ← mandarena:星 (xīng), vua:星 (xing), kantona:星 (sing1), japana:星 (sei), korea:성 (seong)  
 **xipe** *malseka* ← mandarena:濕 (shī), kantona:濕 (sap1), vua:濕 (seq4), japana:濕 (shitsu), korea:습 (seup)  
-**xir** *poemo* ← heb:שיר (šir), araba:(šiʿr), turka:şiir, persa:(še'r), svahila:shairi, mandarena:诗 (shī), kantona:詩 (si1), japana:詩 (shi), korea:시 (shi)  
+**xir** *poemo* ← heb:שיר (šir), araba:(šiʿr), turka:şiir, persa:(še'r), svahila:shairi, malaja:syair+ mandarena:诗 (shī), kantona:詩 (si1), japana:詩 (shi), korea:시 (shi)  
 **xirope** *siropo* ← araba:(šarāb), portugala:xarope, angla:syrup, turka:şurup, japana:シロップ (shiroppu), svahila:shira  
 **xite** *merdo* ← angla:shit + mandarena:屎 (shǐ), kantona:屎 (si2)  
 **xoke** ** ← angla:shock, franca:choc, hispana:portugala:choque, rusa:шок (šok), japana:ショック (shokku), korea:쇼크 (syokeu), malaja:syok, turka:şok  
 **xope** *aĉeti* ← angla:franca:hispana:shopping, japana:ショッピング (shoppingu), korea:쇼핑 (syoping), taja:ชอปปิ้ง (chop-bing), rusa:шоппинг (šopping), mandarena:血拼 (xuèpīn)  
 **xou** *montri (ekspozicii)* ← angla:deu:franca:hispana:portugala:show, rusa:шоу (šou), turka:şov, svahila:shoo, taja:โชว์ (choo), korea:쇼 (syo), japana:ショー (shō), mandarena:秀 (xiù)  
+**xukre** *danki (dankon)* ← araba: شُكْر‎ (šukr), hindia:शुक्रिया (śukriyā), bengala:শুকরিয়া (śukriẏa), svahila:shukrani, turka:şũkür  
 **xulkan** *lernejo* ← mandarena:学 (xué) + deu:Schule, svahila:shule + angla:school, franca:école, hispana:escuela, portugala:escola, rusa:школа (škola), hindia:स्कूल (skūl), bengala:স্কুল (śkul), malaja:sekolah  
 **xure** *komenci* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
 **xute** ** ← mandarena:术 (shù), kantona:術 (seot6), japana:術 (jutsu), korea:술 (sul)  
@@ -1521,7 +1520,7 @@
 **yodium** *jodo* ← angla:iodine, franca:iode, hispana:yodo (iodo), portugala:iodo, rusa:йод, japana:ヨウ素, korea:요오드, vjetnama:iot, hindia:आयोडिन, bengala:আয়োডিন, malaja:yodium, svahila:iodini, araba: يود  
 **yoge** *jogo* ← hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)  
 **yogur** *jogurto* ← angla:malaja:yogurt, franca:yogourt, hispana:yogur, portugala:iogurte, rusa:йогурт (yogurt), mandarena:优格 (yōugé), japana:ヨーグルト (yōguruto), korea:요구르트 (yogureuteu), turka:yoğurt   
-**yom** *tago (periodo de 24 horoj)* ← araba: يَوْم‎ (yawm), hindia:यौम (yaum), malaja:yaum, heb: יוֹם‎ (yom)  
+**yom** *tago* ← araba: يَوْم‎ (yawm), hindia:यौम (yaum), malaja:yaum  
 **yon** *iono* ← angla:franca:hispana:ion, rusa:ион (ion), turka:iyon  
 **yota** ** ← angla:franca:hispana:portugala:yotta, malaja:yota-, mandarena:尧它- (yáotā-), japana:ヨタ- (yota-), korea:요타- (yota-)  
 **yote** ** ← taja:หยด (yòt), vjetnama:giọt, + angla:iota, rusa:йота (yota)  
@@ -1581,6 +1580,7 @@
 **• kontrate** ** ← angla:treaty, franca:traité, hispana:portugala:tratado, rusa:контракт (kontrakt), turka:kontrat, malaja:kontrak  
 **• krita** ** ← mandarena:批评 (pīpíng), vjetnama:phê bình, korea:비평 (bipyeong)  
 **• lider** ** ← angla:franca:leader, hispana:portugala:líder, rusa:лидер (lider), turka:lider, hindia:लीडर (līdar), japana:リーダー (rīdā), korea:리더 (rideo)  
+**• lojia** *scienco* ← angla:-ology, hispana:-ología, franca:-ologie, rusa:ология (-ologiya), turka:-loji  
 **• mamal** ** ← angla:mammal, hispana:portugala:mamífero, franca:mammifère, turka:memeli, malaja:mamalia  
 **• manter** *ministro* ← hindia:मंत्री (mantrī), bengala:মন্ত্রী (môntri), malaja:menteri, portugala:mandarim, angla:franca:hispana:mandarin, rusa:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), japana:メンター (mentā), korea:멘토 (mento)  
 **• minime** *malplej* ← angla:franca:minimum, hispana:portugala:mínimo, deu:Minimum, rusa:ми́нимум (mínimum)  

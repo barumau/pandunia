@@ -17,7 +17,7 @@ abono orgánico (compost) - biocaniver
 aborigen - aslaustrale  
 abrepuño - solocentaur  
 abrigo (chaqueta) - kote  
-abril - carlun  
+abril - lun nelu  
 abuela - cinmai  
 abuelo - cinpai  
 aburrido - bore  
@@ -80,8 +80,8 @@ agacharse - inside
 agente - ater  
 agitar (sacudir) - sisme  
 agorafobia - medenfobia  
-agosto - batolun  
-agradecer (gracias) - danke  
+agosto - lun bati  
+agradecer (gracias) - xukre  
 agresivo - agresive  
 agresión (ataque) - agrese  
 agresor - agreser  
@@ -102,7 +102,7 @@ ajonjolí (sésamo) - sesam
 al revés - retro  
 ala - panke  
 alambre (hilo) - metallin  
-alargar - longe  
+alargar - longife  
 Alaska - Alaska  
 Albania - Cipia  
 albaricoque - barkoke  
@@ -133,7 +133,7 @@ allí (allá) - a le
 almendra - badam  
 almirante - haiamirer  
 almohada (cojín) - kusen  
-almuerzo - denyam  
+almuerzo - yomyam  
 alojar (hospedar) - domane  
 alpaca - alpaka  
 alpinista (montañista) - montaner  
@@ -695,7 +695,7 @@ citar - cite
 citología - celolojia  
 ciudad - site  
 Ciudad de México - Mehiko site  
-ciudadano - dexojen  
+ciudadano - gogian  
 civil - civile  
 civilización - sivilia  
 civilizado - sivile  
@@ -741,7 +741,6 @@ colgante (pendiente) - pendaje
 colgar - pende  
 colgar - pende  
 colmena (panal) - maduvesponide  
-colocar (poner, ubicar) - loke  
 Colombia - Kolombia  
 colonia - kolonia  
 colonialismo - kolonisme  
@@ -975,7 +974,7 @@ dañar (daño, corrupción) - avar
 dañino (perjudicial) - avaran  
 de (desde) - de  
 de (posposición de posesión) - de  
-de (posposición de posesión) - di  
+de (posposición de posesión) - su  
 de lado - lato  
 de lujo - deluxe  
 debajo - a sube  
@@ -984,7 +983,7 @@ deber (necesitar) - debu
 deber (se recomienda) - selu  
 deci- - deci  
 decibelio - decibel  
-deciembre - desdullun  
+deciembre - lun des du  
 decir (hablar; habla) - loge  
 declamar - deklame  
 decoración (adorno) - sundardake  
@@ -996,7 +995,8 @@ defender (defensa) - defe
 defensor - defer  
 definir - sife  
 degradar - dusdarge  
-dejar - lase  
+dejar - laxe  
+dejar - live  
 delfín - dolfin  
 delicioso - yami  
 demasiado - limotranse  
@@ -1049,6 +1049,7 @@ diagonal - transogone
 diagonal - diagone  
 diamante - adamas  
 diario - lugobuke  
+diario - denike  
 dibujo (diseño) - desen  
 dicción - dition  
 dicotomía - duotome  
@@ -1057,7 +1058,7 @@ dictadura - ditateria
 dictar - dite  
 diente - dante  
 dientes de león (panaderos) - makanful  
-diez (10) - dese  
+diez (10) - des  
 diferencia - alosifia  
 diferenciar (distinguir) - hase  
 diferente - alosife  
@@ -1089,7 +1090,7 @@ divertir (entretener; diversión) - muze
 divino - deve  
 dióxido de carbono - karboduloxide  
 doble - duple  
-doble sentido - dulmene  
+doble sentido - duplomene  
 docente - dokente  
 doctor (médico) - mediker  
 doctor - dotor  
@@ -1104,7 +1105,7 @@ domar (amansar) - dosile
 domesticado - dosilgene  
 domesticar (cultivate) - dosilgenite  
 dominar - meste  
-domingo - cetyom  
+domingo - den ceti  
 Dominica - Dominika  
 dominio (reinado) - kratia  
 dominio - dominia  
@@ -1113,7 +1114,7 @@ doméstico - domike
 dormir (sueño) - some  
 dormitorio - somokamar  
 dos (2) - du  
-dos veces - dulmaro  
+dos veces - duple  
 dotes (arte, habilidad) - xute  
 dragón - lung  
 drama - drame  
@@ -1131,8 +1132,9 @@ durar (llevar tiempo, transcurrir; duración) - dur
 duro - gate  
 dátil - tamar  
 débil - anbale  
-día - den  
-día de San Juan - yohani feste  
+día (24 horas) - den  
+día - yom  
+día de San Juan - yohan feste  
 día festivo (feriado) - festoden  
 dónde - a ke  
 
@@ -1204,14 +1206,13 @@ en línea - a line
 encanto - carme  
 encarcelar (aprisionar) - prizone  
 encontrar - mite  
-encontrarse (estar, situarse) - loku  
 encurtido - acari  
 encurtir - acara  
 endónimo - inonam  
 enemigo - dusojen  
 energía - energe  
 energía nuclear - kori energia  
-enero - unolun  
+enero - lun un  
 enfermedad - patia  
 enfermo - pate  
 engañar - truke  
@@ -1364,7 +1365,7 @@ extra (adicional) - extre
 extractor - extrator  
 extraer - extrate  
 extrajudicial - exjude  
-extranjero - exdexe  
+extranjero - exgogian  
 exógeno - exogene  
 exónimo - exonam  
 
@@ -1390,8 +1391,8 @@ fatiga - fatige
 favoritismo - profilisme  
 favorito (preferido) - profilaje  
 faz (faceta) - fase  
-febrero - dullun  
-fecha - nenmesyom  
+febrero - lun du  
+fecha - nen lun den  
 felicitar (felicitacion) - barke  
 feliz - suke  
 feminismo - femisme  
@@ -1557,7 +1558,7 @@ gorila occidental - vestogoril
 gorila oriental - dongogoril  
 gota - yote  
 grabado (sello, estampando) - cape  
-gracias a (merced a) - a danke de  
+gracias a (merced a) - a xukre de  
 grado Celsius - celsius darge  
 grafema - kitabeme  
 gramo (g) - gram  
@@ -1896,13 +1897,13 @@ judío - yahude
 juego (jugar un juego) - gem  
 juego de mazmorras - dungia aventur  
 juego de mesa - banogem  
-jueves - caryom  
+jueves - den nelu  
 juez (árbitro, réferi) - juder  
 jugador - gemer  
 jugo (zumo) - jus  
-julio - cetolun  
+julio - lun ceti  
 jungla - jangle van  
-junio - sislun  
+junio - lun luka  
 juntos - kono  
 juntura (conexión, enlace) - linke  
 juntura - junture  
@@ -1973,7 +1974,7 @@ lechuga - letis
 leer - duge  
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele  
-lejos - longo  
+lejos - a long  
 lengua (idioma) - lingue  
 lengua - lisan  
 lengua materna - genobase  
@@ -2046,7 +2047,7 @@ llover (lluvia) - barse
 llóron - vava bebe  
 lo lejos - tel  
 lobo - volfe  
-local - loke  
+local - lokike  
 lodo (barro, fango) - fange  
 logical - ratolojike  
 longitud - vestodongia  
@@ -2054,12 +2055,12 @@ loro (papagayo) - papagai
 lote (grupo) - lote  
 lucha - gihade  
 luchador (guerrero) - jenger  
-lugar - loke  
+lugar (colocar, poner) - loke  
 lugar de nacimiento - genoloke  
 lujuria (deseo) - kamia  
 lujuria - luxuria  
-luna - lune  
-lunes - unoyom  
+luna - lun  
+lunes - den un  
 lutecio - lutetium  
 luteranismo - martinluterisme  
 luterano - martinluteriste  
@@ -2160,7 +2161,7 @@ marmól - kalsokristal
 Marruecos - Magribia  
 marrón - brune  
 Marte - Marse  
-martes - dulyom  
+martes - den du  
 martillo (mazo) - hamar  
 marzo - lun tri  
 marítimo - hai  
@@ -2177,7 +2178,7 @@ material - mate
 Mauricio - Moris  
 mauritania - Muritania  
 maya - mayan  
-mayo - limlun  
+mayo - lun lima  
 mayor - maxure  
 mayoría - maxuria  
 Mayotte (Mahoré) - Mayote  
@@ -2271,7 +2272,7 @@ misionero - misioner
 misión - mision  
 mismo (personal, privado, a medida) - aute  
 mito (cuento divino) - deusage  
-miércoles - yom tri  
+miércoles - den tri  
 mochila - rukosake  
 moda (tendencia; moderno, popular) - fason  
 modelar - model  
@@ -2433,7 +2434,7 @@ niño o niña - bace
 no - no  
 no binario (género) - bis  
 nobelio - nobelium  
-nobiembre - desunlun  
+nobiembre - lun des un  
 noche (tarde) - suar  
 noche - noce  
 nombre - nam  
@@ -2486,7 +2487,7 @@ Oceanía - Oceania
 ocelote - oselote  
 ocho (8) - bate  
 ocra - bamia  
-octubre - deslun  
+octubre - lun des  
 ocular - oke  
 ocultar (esconder) - sire  
 ocupado (atareado) - mange  
@@ -2655,8 +2656,8 @@ pausa - pauze
 pavo (guajalote) - dinde  
 payaso (clown) - payace  
 paz - pace  
-país (nación, estado, terra) - dex  
-país extranjero - exdex  
+país (nación, estado, terra) - gogia  
+país extranjero - exgogia  
 Países Bajos - Nederlandia  
 pecado - dusate  
 pecado - duskar  
@@ -2701,7 +2702,7 @@ perforar (agujerar) - konge
 periférico - kenare  
 periodista - gazeter  
 periódico (diario) - habargazete  
-perla - lul  
+perla - jenju  
 permitido (admisible) - halale  
 permitir (dejar) - halale  
 pero (sino) - ama  
@@ -3068,7 +3069,7 @@ respeto (honor) - onor
 respiración - nafas  
 responder (contestar; repuesta) - gavabe  
 restaurante - restorante  
-resto (demás) - reste  
+resto (demás, residuo) - livaje  
 retículo - krusolin  
 reunión (junta, mitin) - mite  
 Reunión - Reunion  
@@ -3208,7 +3209,7 @@ seguro (proteger, asegurar, guardar) - sekure
 seis (6) - sise  
 selenio - selenium  
 sello postal - postocape  
-semana - yomcete  
+semana - ceti din  
 semilla - semen  
 seminal - semenike  
 semáforo - semoforer  
@@ -3222,7 +3223,7 @@ sentarse - sidu
 sentido - sense  
 sentir (detectar) - sense  
 sentir - emosu  
-septiembre - novolun  
+septiembre - lun nuve  
 ser (estar) - si  
 ser - eser  
 ser de - be male  
@@ -3352,7 +3353,7 @@ sustancia - kime
 sustantivo - namloge  
 susurrar (curjir) - xaxa  
 Svalbard - Svalbarde  
-sábado - sisyom  
+sábado - den luka  
 sándwich (sánduche) - sanduice  
 sí - ya  
 sólido - gatomate  
@@ -3649,7 +3650,7 @@ versar (afrontar) - verse
 versión (modelo) - version  
 vertical - gautale  
 vestido (llevando ropa) - fuke  
-vestigio (sobrante, residuo) - las  
+vestigio (sobrante) - maxolivaje  
 vestir - fuke  
 vez - mar  
 viaje (viajar) - safar  
@@ -3668,7 +3669,7 @@ viejo (anciano) - lau
 viejo (anciano) - lave  
 viejo (antiguo) - cenike  
 viento (soplar, echar) - fente  
-viernes - limyom  
+viernes - den lima  
 Vietnam - Vietia  
 vietnamita - viete  
 vigilante (guardia) - garder  

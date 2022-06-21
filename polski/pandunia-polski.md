@@ -238,7 +238,6 @@ basen - basen
 baske - kosz  
 baske bol - piłka do koszykówki (koszykówka)  
 bate - osiem (8)  
-batolun - listopad  
 batosenter - ośmiornica  
 bata - kaczka  
 batakrote - dziobak  
@@ -402,8 +401,6 @@ cape - naciskać (zostawiać ślad; odcisk, ślad; stempel, pieczęć)
 capati - płaski chleb, ćapati  
 care - cztery (4)  
 cargon - kwadrat (czworokąt, czworobok, tetragon)  
-caryom - czwartek  
-carlun - lipiec  
 carme - czar (urok, wdzięk)  
 cate - dach  
 cau - trawa  
@@ -435,8 +432,7 @@ cerize - wiśnia (czereśnia)
 Cernagore - Czarnogóra  
 cesium - cez  
 cete - siedem (7)  
-cetyom - niedziela  
-cetolun - październik  
+ceti din - tydzień  
 Cile - Chile  
 cili - papryka  
 cili fun - papryka  
@@ -500,7 +496,6 @@ dan - cząstka (ziarno, kula, pocisk)
 danosekure - kuloodporny  
 dange - dzwonić (dźwięczeć, szczękać)  
 danger - dzwon (dzwonek)  
-danke - dziękować (dzięki)  
 danse - taniec  
 dante - ząb  
 dantobalute - dąb zębaty  
@@ -543,14 +538,16 @@ demokratia - demokracja
 demokratiste - demokrata  
 demomultia - populacja  
 demon - demon  
-den - dzień  
-denyam - obiad, lunch  
+den un - poniedziałek  
+den du - wtorek  
+den tri - środa  
+den nelu - czwartek  
+den lima - piątek  
+den luka - sobota  
+den ceti - niedziela  
 denge - czekać  
-dese - dziesięć (10)  
-desdullun - kwiecień  
-deskile - dziesięć tysięcy  
-deslun - luty  
-desunlun - marzec  
+des - dziesięć (10)  
+deskilo - dziesięć tysięcy  
 desen - rysunek, obraz  
 detal - detal, szczegół  
 deu - bóg, bóstwo  
@@ -567,11 +564,6 @@ undevisme - monoteizm
 deunagre - dewanagari  
 deusage - mit, boska opowieść  
 deusofia - teozofia  
-dex - kraj, ziemia  
-dexojen - obywatel  
-• exdex - zagranica  
-• exdexe - zagraniczny  
-di - mieć (partykuła posiadania)  
 dike - cel (celować; kierunek)  
 dikobaton - wskaźnik  
 din - religia, wyznanie  
@@ -625,6 +617,8 @@ dramironia - ironia dramatyczna
 droge - narkotyk  
 Drugia - Bhutan  
 du - dwa (2)  
+duple - dwukrotnie (dwa razy)  
+duplomene - dwuznacznik  
 du o tri - parę  
 dua - modlitwa (pomodlić się, modlić się)  
 • dusdua - kląć (przeklinać; przekleństwo)  
@@ -633,11 +627,7 @@ duce - prysznic
 duge - czytać  
 duke - żal, smutek  
 dulo fene - przepołowić (podzielić przez dwa)  
-dulyom - wtorek  
 dulisme - dualizm  
-dullun - maj  
-dulmaro - dwukrotnie (dwa razy)  
-dulmene - dwuznacznik  
 dulromanse - biromantyczny  
 dulsexe - biseksualny  
 duman - dym  
@@ -967,6 +957,10 @@ glute - lepić (kleić; klej)
 gluten - gluten  
 glutofan - glina  
 go sube - iść w dół (iść pod spód, iść na dno)  
+gogia - kraj, ziemia  
+• exgogia - zagranica  
+• gogian - obywatel  
+• exgogian - zagraniczny  
 gol - cel  
 golem - golem  
 gom - guma  
@@ -1245,6 +1239,7 @@ jeng - walka, wojna
 jenge - militarny, wojskowy, wojenny  
 • jenger - wojownik, bojownik  
 jengoxute - sztuka walki  
+jenju - perła  
 Jerzi - Jersey  
 • jetaje - pocisk  
 • injete - zastrzyk  
@@ -1626,9 +1621,6 @@ langan - poręcz (balustrada)
 Lanka - Sri Lanka  
 lantanium - lantan  
 larve - larwa, czerw, gąsienica  
-las - pozostałość (szczątek)  
-lase - pozostawiać (pozostawić)  
-lasu - pozostawać w tyle (zwlekać)  
 laste - elastyczny  
 lasun - larwa, czerw, gąsienica  
 late - strona (bok)  
@@ -1644,6 +1636,7 @@ lau - starzec
 lave - stary (sędziwy, wiekowy)  
 lave - laotański  
 laurensium - lorens  
+laxe - rozluźnić (poluzować)  
 laze - śmieć, odpadek  
 lazanya - lazania  
 lazurpetre - lapis lazuli  
@@ -1695,9 +1688,7 @@ lime - limit, granica
 lime - pięć (5)  
 limfas - pięciościan (pryzmat)  
 limgon - pięciokąt (pentagon)  
-limyom - piątek  
 • limite - skończony (ograniczony)  
-limlun - sierpień  
 limotranse - zbyt  
 anlimitia - nieskończoność  
 limon - cytryna  
@@ -1723,6 +1714,8 @@ liste - lista, spis, wykaz
 inliste - spis treści (tabela zawartości)  
 litium - lit  
 litre - litr  
+live - pozostawiać (pozostawić, zostać, zostawać)  
+• livaje - pozostałość (reszta)  
 livermorium - liwermor  
 lobake - rzodkiewka  
 loge - mówić (mowa)  
@@ -1732,18 +1725,16 @@ loge - mówić (mowa)
 logaslia - etymologia  
 logironia - sarkazm  
 loje - badać, studiować  
-lojia - nauka, badanie, studiowanie  
-loke - miejsce, lokacja  
-loke - umieścić (postawić)  
-loke - miejscowy, lokalny  
-loku - być umiejscowionym (być ulokowanym, stać)  
+• lojia - nauka, badanie, studiowanie  
+loke - miejsce (lokacja; umieścić)  
+• lokike - miejscowy, lokalny  
 lon - dyskusja, debata, dyskurs  
 lone - debatować, prowadzić dyskurs  
 lona biznes - negocjować  
 London - Londyn  
-longe - przedłużyć, przedłużać  
 longe - długi  
-longia - długość  
+• longia - długość  
+• longife - przedłużyć, przedłużać  
 longokrokodil - krokodyl  
 longopipre - pieprz długi  
 lontre - wydra  
@@ -1755,10 +1746,20 @@ luge - zielony
 • lugia - register  
 lugomelon - melon miodowy  
 lugobuke - dziennik pokładowy (notatnik)  
-lul - perła  
-lune - księżyc  
+lun - księżyc  
 lun - miesiąc  
+lun un - styczeń  
+lun du - maj  
 lun tri - czerwiec  
+lun nelu - lipiec  
+lun lima - sierpień  
+lun luka - wrzesień  
+lun ceti - październik  
+lun bati - listopad  
+lun nuve - grudzień  
+lun des - luty  
+lun des un - marzec  
+lun des du - kwiecień  
 lung - smok  
 lusun - szparag; szparagia  
 lute - obrabować, splądrować  
@@ -2135,7 +2136,7 @@ nege - odmówić (odrzucić)
 • nekrotome - sekcja zwłok (obdukcja)  
 nen - rok  
 nenfeste - rocznica  
-nenmesyom - data  
+nen lun den - data  
 nenufar - lilia wodna, nenufar  
 neodimium - neodym  
 neon - neon  
@@ -2207,7 +2208,6 @@ Nove Yorke - Nowy Jork
 Nove Yorke site - Stan Nowy Jork  
 novoyange - nowoczesne  
 novologe - neologizm  
-novolun - grudzień  
 nude - nagi (goły, obnażony)  
 • nudisme - nudyzm  
 • nudiste - nudysta  
@@ -2596,7 +2596,6 @@ renium - ren
 rentogenium - roentgen  
 resete - recepta, receptura, przepis  
 reside - paragon, pokwitowanie  
-reste - pozostałość (reszta; zostać, zostawać)  
 restorante - restauracja  
 Reunion - Reunion  
 rezin - żywica  
@@ -2854,7 +2853,6 @@ siro - zero, nic, żaden
 sise - sześć (6)  
 sisfas - sześcian (kostka)  
 sisgon - sześciokąt (sześciobok)  
-sisyom - sobota  
 sisme - trząść (machać; trzęsienie, machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
 sismolojia - sejsmologia  
 sistem - system  
@@ -2922,6 +2920,7 @@ stibium - antymon
 strontium - stront  
 • studia - studio (pracownia)  
 • studer - student  
+su - mieć (partykuła posiadania)  
 suahili - suahili  
 sual - pytać (pytanie)  
 • sualive - pytajny, związany z pytaniem  
@@ -3188,8 +3187,6 @@ Unite State de Amerika (USA) - Stany Zjednoczone Ameryki
 unale - się (nawzajem, wzajemnie)  
 unemisme - monizm  
 Uni Arabi Amiria (UAA) - Zjednoczone Emiraty Arabskie  
-unoyom - poniedziałek  
-unolun - styczeń  
 unomaro - raz (jeden raz)  
 unomene - jednoznaczny  
 unorange - jednokolorowy (monochromatyczny)  
@@ -3363,7 +3360,6 @@ xite - gówno
 Xiva - Śiwa  
 xixe - nabić (przebić, dźgnąć)  
 sis - rożen (szpikulec)  
-sislun - wrzesień  
 sismanse - szaszłyk  
 xofe - prowadzić pojazd  
 • xofer - szofer (kierowca)  
@@ -3371,6 +3367,7 @@ xoke - szokwstrząs; kolizja
 xope - kupić (zakupy, sprawunki, shopping)  
 xoper - nabywca (kupiec)  
 xou - pokazać (pokazywać, wystawić, wystawiać; pokaz, ekspozycja, wystawa)  
+xukre - dziękować (dzięki)  
 xul - lekcja  
 xule - nauczyć się, uczyć się, studiować  
 xulaner - nauczyciel  
@@ -3430,9 +3427,9 @@ yodium - jod; jodyna
 yoge - joga  
 • yogiste - jogin (joginka)  
 yogur - jogurt  
-yohani feste - dzień świętego Jana  
-yomcete - tydzień  
-yom tri - środa  
+yohan feste - dzień świętego Jana  
+yom - dzień  
+yomyam - obiad, lunch  
 yon - jon  
 yon rade - radioaktywny  
 yon radia - radioaktywność  

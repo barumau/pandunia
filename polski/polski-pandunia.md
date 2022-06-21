@@ -267,7 +267,6 @@ być obok - late
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
 być przeciw - kontre  
 być skłonnym (mieć skłonność) - ive  
-być umiejscowionym (być ulokowanym, stać) - loku  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym - name  
 bóbr - kastor  
 bóg, bóstwo - deu  
@@ -402,7 +401,7 @@ czuć (poczuć, postrzegać, wykrywać) - sense
 czuć - sente  
 czuć - tatosense  
 czuć, odczuć, odczuwać - emosu  
-czwartek - caryom  
+czwartek - den nelu  
 czysty (higieniczny, sanitarny) - salsafe  
 czysty (wyczyścić, czyścić) - safe  
 czytać - duge  
@@ -426,7 +425,7 @@ danie - tas
 darmsztadt - darmositium  
 darwinista - darviniste  
 darwinizm - darvinisme  
-data - nenmesyom  
+data - nen lun den  
 dać mieszkanie (zakwaterować) - domane  
 dać, dawać - done  
 deaktywować (wyłączyć,zatrzymać) - deative  
@@ -505,9 +504,9 @@ duński - dane
 duży - dai  
 dwa (2) - du  
 dwujęzyczny - duolinguike  
-dwukrotnie (dwa razy) - dulmaro  
+dwukrotnie (dwa razy) - duple  
 dwutlenek węgla - karboduloxide  
-dwuznacznik - dulmene  
+dwuznacznik - duplomene  
 dychotomia - duotome  
 dyktator - ditater  
 dyktatura - ditateria  
@@ -533,13 +532,13 @@ dzielić (część, ułamek) - fen
 dzielić (współdzielić) - komune  
 dziennik pokładowy (notatnik) - lugobuke  
 dziennikarz - gazeter  
-dziesięć (10) - dese  
-dziesięć tysięcy - deskile  
+dziesięć (10) - des  
+dziesięć tysięcy - deskilo  
 dziewczyna - yune fem  
 dziewięć (9) - nof  
-dzień - den  
+dzień - yom  
 dzień dobry - salam den  
-dzień świętego Jana - yohani feste  
+dzień świętego Jana - yohan feste  
 dziki - ekogene  
 dziki - jangle  
 dziobak - batakrote  
@@ -547,7 +546,7 @@ dziura - kong
 dziw (cudo) - ajibe  
 dziwny (nieznany) - ansave  
 dziwny - bizar  
-dziękować (dzięki) - danke  
+dziękować (dzięki) - xukre  
 dziś, dzisiaj - a zay den  
 dzwon (dzwonek) - danger  
 dzwonić (dźwięczeć, szczękać) - dange  
@@ -751,7 +750,7 @@ grillować - kababe
 grom, huk - grom  
 grubość - grosia  
 gruby - grose  
-grudzień - novolun  
+grudzień - lun nuve  
 grunt (ziemia, próchnica; ziemny, glebowy, gruntowy)) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -1207,7 +1206,7 @@ kość - oste
 kość do gry - zarkube  
 kość słoniowa - gaja dante  
 krab - krabe  
-kraj, ziemia - dex  
+kraj, ziemia - gogia  
 kran (zawór) - kran  
 kraść (ukraść; kradzież) - core  
 kredens (szafa, szafka) - almari  
@@ -1247,7 +1246,7 @@ ksenon - xenon
 ksiądz, kleryk, kaznodzieja - dinoguru  
 książka - buke  
 książka z obrazkami - grafobuke  
-księżyc - lune  
+księżyc - lun  
 kszesło, fotel - korse  
 ktoś - yo jen  
 Kuba - Kuba  
@@ -1279,7 +1278,7 @@ kwarc - kuarze
 kwaśny - suane  
 kwestia, problem - sualoteme  
 kwiat - ful  
-kwiecień - desdullun  
+kwiecień - lun des du  
 kwitnąć, rozkwitnąć, rozkwitać - fulu  
 kąpiel (kąpać się) - banya  
 kąt - gone  
@@ -1338,11 +1337,11 @@ limfa - linfe
 limit, granica - lime  
 limonkowy (limonkowo zielony) - limonluge  
 linia (nić, lina, pas, pręga, smuga, dratwa) - lin  
-lipiec - carlun  
+lipiec - lun nelu  
 lis - hulei  
 lista słów - lexoliste  
 lista, spis, wykaz - liste  
-listopad - batolun  
+listopad - lun bati  
 listownicowiec - varkalge  
 lit - litium  
 litera, znak - harfe  
@@ -1375,7 +1374,7 @@ lustro - miror
 luteranizm - martinluterisme  
 luterański - martinluteriste  
 lutet - lutetium  
-luty - deslun  
+luty - lun des  
 luźna rozmowa, gadanina - blabla  
 lód (marznąć, zamarznąć) - ais  
 
@@ -1395,7 +1394,7 @@ magma - pastopetre
 magnes - manete  
 magnetyczny - manete  
 magnez - magesium  
-maj - dullun  
+maj - lun du  
 Majotta - Mayote  
 mak lekarski - somopapil  
 mak polny - medenpapil  
@@ -1435,7 +1434,7 @@ Mars - Marse
 martwy, nieżywy, zabity - morte  
 marynarka (flota) - haigun  
 marynować - acar  
-marzec - desunlun  
+marzec - lun des un  
 masa - mas  
 masaż - masaje  
 maska, kamuflaż - maske  
@@ -1487,13 +1486,13 @@ miast, miasteczko - site
 miasto - nagre  
 miecz - katane  
 miedź - kupre  
-miejsce, lokacja - loke  
-miejscowy, lokalny - loke  
+miejsce (lokacja; umieścić) - loke  
+miejscowy, lokalny - lokike  
 miejski - nagre  
 mielić - molia  
 miesiąc - lun  
 mieszkać (mieszkanie, dom) - dom  
-mieć (partykuła posiadania) - di  
+mieć (partykuła posiadania) - su  
 mieć (posiadać; własność, mienie) - male  
 mieć (trzymać) - ha  
 mieć sens - rate  
@@ -1705,7 +1704,7 @@ niebieskozielony (cyjan) - siane
 niebo - ten  
 niech my, hajda - haide  
 niechętny - anice  
-niedziela - cetyom  
+niedziela - den ceti  
 niedźwiedź - urse  
 nieliczność - savia  
 Niemcy - Doice  
@@ -1770,7 +1769,7 @@ nóż - caku
 
 oaza - vase  
 obcęgi, kleszcze, szczypce - pinser  
-obiad, lunch - denyam  
+obiad, lunch - yomyam  
 obiecać, angażować się - vode  
 obiecujący (dobrze wróżący) - bonsinye  
 obniżać (obniżyć) - tale  
@@ -1789,7 +1788,7 @@ obserwator (widz) - vider
 obsydian - osidian  
 obudzić (budzić; przebudzony, przytomny) - desome  
 obyczaj (zwyczaj, tradycja, praktyka, konwencja; konwencjonalny, zwyczajowy, tradycyjny) - rite  
-obywatel - dexojen  
+obywatel - gogian  
 obóz - kamper  
 ocean - daihai  
 Ocean Antarktyczny (Ocean Południowy) - Antartiki Hai  
@@ -1958,7 +1957,7 @@ pauza (przerwa) - pauze
 paznokieć - nahun  
 pałac - daidom  
 paść (padać, upaść, upadać) - pade  
-październik - cetolun  
+październik - lun ceti  
 pchnąć, pchać - puse  
 pedał - pedal  
 Pekin - Beijing  
@@ -1971,7 +1970,7 @@ Pers; perski, farsi - farse
 perspektywa (punkt widzenia) - vidopunte  
 Peru - Peru  
 peryferyjny - kenare  
-perła - lul  
+perła - jenju  
 pełnie (całkowicie) - puro  
 pełny - pure  
 pfuj (fuj) - bah  
@@ -2020,7 +2019,7 @@ pizza - pize
 pizzeria - pizokan  
 pióro - pere  
 pióro, długopis - kalam  
-piątek - limyom  
+piątek - den lima  
 pięciokąt (pentagon) - limgon  
 pięciościan (pryzmat) - limfas  
 piękno - sundaria  
@@ -2105,7 +2104,7 @@ pomidor - tomate
 pomnik (memoriał) - membin  
 pompować - pompe  
 pomóc (pomagać, asystować; pomoc, wsparcie) - mede  
-poniedziałek - unoyom  
+poniedziałek - den un  
 ponieważ, bo - a sababe de  
 poniższy - subike  
 popiół - hui  
@@ -2166,10 +2165,8 @@ powód (przyczyna; spowodować, powodować) - sababe
 poza, pozycja - poze  
 pozdrowienie (pozdrowić, pozdrawiać) - salam  
 poziomy (horyzontalny, boczny) - late  
-pozostawać w tyle (zwlekać) - lasu  
-pozostawiać (pozostawić) - lase  
-pozostałość (reszta; zostać, zostawać) - reste  
-pozostałość (szczątek) - las  
+pozostawiać (pozostawić, zostać, zostawać) - live  
+pozostałość (reszta) - livaje  
 pozować, ustawiać się - poze  
 pozwolić, pozwalać, zezwolić, zezwalać - halale  
 połknąć (połykać) - gule  
@@ -2256,7 +2253,7 @@ przedporodowy - prenatal
 przedpołudnie - suboden  
 przedrostek (prefiks) - prefixe  
 przedstawić (przedłożyć, przedstawić, złożyć, składać) - karmise  
-przedłużyć, przedłużać - longe  
+przedłużyć, przedłużać - longife  
 przegrana (strata, porażka) - sibai  
 przegrany, pokonany - sibayer  
 przegrać, przegrywać - sibaye  
@@ -2437,6 +2434,7 @@ rowerzysta - sikliste
 rozciągać (rozciągnąć) - tirlonge  
 rozdział, sekcja - babu  
 rozkaz, komenda - amir  
+rozluźnić (poluzować) - laxe  
 rozmiar - dayia  
 rozmnażać - genite  
 rozmowny - logive  
@@ -2580,7 +2578,7 @@ siedzieć - side
 siekera (topór) - futau  
 sierociniec, dom dziecka - yatimokan  
 sierota - yatim  
-sierpień - limlun  
+sierpień - lun lima  
 Sierra Leone - Sera Leone  
 sikać, szczać, oddawać mocz - pise  
 sikh - sikiste  
@@ -2621,7 +2619,7 @@ smak - guste
 smok - lung  
 smycz (cugiel, lejc, wodza) - lidolin  
 snajper (strzelec wyborowy) - justopaver  
-sobota - sisyom  
+sobota - den luka  
 socjalista - sociste  
 socjalizm - socisme  
 socjalizować się - soce  
@@ -2713,7 +2711,7 @@ strzykwa - haihiyar
 strzępić (drzeć) - circire  
 student - studer  
 studio (pracownia) - studia  
-styczeń - unolun  
+styczeń - lun un  
 stół - meze  
 stłuc się (rozpaść się na kawałki) - parce  
 stłuczony (pęknięty) - parce  
@@ -2962,7 +2960,7 @@ twój - tu su
 twórca (czynnik) - feter  
 ty, ciebie - tu  
 Tybet - Botia  
-tydzień - yomcete  
+tydzień - ceti din  
 tygrys - bagre  
 tykwa pospolita (kabalasz) - suikaboge  
 typ (rodzaj, gatunek) - tipe  
@@ -2999,7 +2997,6 @@ ulubiony - profilaje
 umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - zange  
 umiejętny (wprawny) - xutike  
-umieścić (postawić) - loke  
 umrzeć, umierać - mortu  
 umysłowy (psychiczny) - ruhe  
 unia - unia  
@@ -3178,7 +3175,7 @@ wosko lądowe (armia) - geogunia
 wow!, łoł!, jej! - va  
 wow!,łoł!,jej! - vah  
 wołowina - muhmanse  
-wrzesień - sislun  
+wrzesień - lun luka  
 wróg (nieprzyjaciel) - andoste  
 wsad, partia, porcja, seria - lote  
 wschodni - donge  
@@ -3200,7 +3197,7 @@ wstrzyknąć, wstrzykiwać - injete
 wstyd (hańba, kompromitacja) - xarme  
 wszyscy, wszystkie, wszystko; każdy - pan (pani)  
 wszystko - pan sei  
-wtorek - dulyom  
+wtorek - den du  
 wulkan - hogosan  
 wy, was - tumon  
 wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja) - cuze  
@@ -3292,8 +3289,8 @@ zachowywać się (działać) - manire
 zachwyt (zdumienie) - ajibia  
 zachód (zachodni) - veste  
 zaczyna (początek; zacząć, rozpoczynać, rozpocząć) - xure  
-zagranica - exdex  
-zagraniczny - exdexe  
+zagranica - exgogia  
+zagraniczny - exgogian  
 zagrożenie (niebezpieczeństwo; niebezpieczny) - hatre  
 zaimek - pronam  
 zainteresowanie, zaciekawienie; interesujący - savovol  
@@ -3469,7 +3466,7 @@ zły, zrujnowany, zepsuty - harabe
 śnieg (śnieżyć) - hima  
 śpiewać (piosenka, pieśń) - cante  
 średni - midi  
-środa - yom tri  
+środa - den tri  
 środek - mide  
 środkowy, centralny - zung  
 środowiskowy, naturalny - eke  

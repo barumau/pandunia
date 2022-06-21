@@ -39,13 +39,15 @@ Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kann
 ## A  
 
 a - luona (-lla, -ssa)  
-a danke de - ansiosta  
 a ke - missä?  
 a le - siellä (tuolla)  
+a long - pitkästi (kauas)  
+a longe dure - kauan (pitkän aikaa)  
 a nove - äsken (vasta, juuri)  
 a sababe de - koska (johdosta, takia)  
 a sube - alla  
 a vere - todella  
+a xukre de - ansiosta  
 a zay den - tänään  
 abe - pois  
 abete - pihta (jalokuusi)  
@@ -299,7 +301,6 @@ basen - allas
 baske - kori  
 baske bol - koripallo  
 bate - kahdeksan (8)  
-batolun - elokuu  
 batosenter - mustekala  
 bata - sorsa (ankka)  
 batakrote - vesinokkaeläin  
@@ -478,8 +479,6 @@ capati - chapati
 care - neljä (4)  
 cargalope - neli (kiitolaukka)  
 cargon - neliö  
-caryom - torstai  
-carlun - huhtikuu  
 carme - vetovoima (šarmi)  
 cate - katto (katos)  
 cau - ruoho  
@@ -526,8 +525,7 @@ cese - päästä (mennä läpi)
 • sucese - onnistua (mennä hyvin,menestyä)  
 cesium - cesium  
 cete - seitsemän (7)  
-cetyom - niedziela  
-cetolun - heinäkuu  
+ceti din - viikko  
 Cile - Chile  
 cili - paprika  
 cili fun - paprikajauhe  
@@ -600,7 +598,6 @@ dan - jyvä (luoti)
 danosekure - luodinkestävä  
 dange - kilistää (soittaa kelloa)  
 danger - soittokello  
-danke - kiittää (kiitos)  
 danse - tanssi  
 dante - hammas  
 • danta - purra  
@@ -645,14 +642,18 @@ demokratia - demokratia
 demokratiste - demokraatti  
 demomultia - väenpaljous  
 demon - demoni (piru)  
-den - päivä  
-denyam - lounas  
+den - vuorokausi  
+• denike - päivittäinen  
+den un - maanantai  
+den du - tiistai  
+den tri - keskiviikko  
+den nelu - torstai  
+den lima - perjantai  
+den luka - lauantai  
+den ceti - niedziela  
 denge - odottaa  
-dese - kymmenen (10)  
-desdullun - joulukuu  
-deskile - sata tuhatta  
-deslun - lokakuu  
-desunlun - marraskuu  
+des - kymmenen (10)  
+deskilo - sata tuhatta  
 desen - piirustus  
 detal - yksityiskohta (detalji)  
 deu - jumala  
@@ -671,11 +672,6 @@ undevisme - monoteismi (yksijumalisuus)
 deunagre - devanagari  
 deusage - jumaltaru (myytti)  
 deusofia - teosofia  
-dex - maa (valtio)  
-dexojen - kansalainen (valtion asukas)  
-• exdex - ulkomaa  
-• exdexe - ulkomaalainen  
-di - -n (oma)  
 dike - osoittaa (tähdätä; suunta, kohde; maali)  
 • diker - osoitin  
 • dikion - osoittaminen (deiksis)  
@@ -743,6 +739,8 @@ droge - huume
 Drugia - Bhutan  
 du - kaksi (2)  
 • duple - tupla (kaksinkertainen)  
+duple - kahdesti (kaksi kertaa)  
+duplomene - kaksimielinen (kaksimerkityksinen)  
 du o tri - muutama (pari-kolme)  
 dua - rukoilla (anoa; rukous)  
 • dusdua - kirous  
@@ -752,11 +750,7 @@ duge - lukea
 duke - suru (murhe; surullinen; surra, murehtia)  
 dulo fene - puolittaa (jakaa kahdella)  
 dulgrafe - stereoskooppinen  
-dulyom - tiisai  
 dulisme - dualismi  
-dullun - helmikuu  
-dulmaro - kahdesti (kaksi kertaa)  
-dulmene - kaksimielinen (kaksimerkityksinen)  
 dulsexe - biseksuaali  
 dulsonde - stereofoninen  
 duman - savu  
@@ -1160,6 +1154,10 @@ gluten - gluteeni
 glutofan - savi  
 glutograf - tarra  
 go sube - alittaa  
+gogia - maa (valtio)  
+• exgogia - ulkomaa  
+• gogian - kansalainen (valtion asukas)  
+• exgogian - ulkomaalainen  
 gol - maali (päämäärä)  
 golem - golem  
 gom - kumi  
@@ -1457,6 +1455,7 @@ jeng - taistelu (sota)
 jenge - sotilaallinen  
 • jenger - soturi (taistelija)  
 jengoxute - kamppailulaji  
+jenju - helmi  
 Jerzi - Jersey  
 • jetaje - ammus  
 • injete - ruiske (injektio)  
@@ -1847,8 +1846,6 @@ langan - kaide (reelinki)
 Lanka - Sri Lanka  
 lantanium - lantaani  
 larve - toukka  
-las - jäte (hylkytavara)  
-lase - jättää (hylätä)  
 laste - joustava (elastinen)  
 lasun - valkosipuli  
 late - sivu (kylki, puoli)  
@@ -1864,6 +1861,8 @@ Latvia - Latvia
 Lau - Laos  
 lave - laoslainen  
 laurensium - lawrencium  
+laxe - löysä (löysätä, päästää menemään)  
+• relaxe - rentoutua (rentouttaa)  
 laze - roska  
 lazanya - lasagne  
 lazurpetre - lapislatsuli  
@@ -1910,8 +1909,6 @@ lime - raja
 lime - viisi (5)  
 limfas - viisitahokas (prisma)  
 limgon - viisikulmio  
-limyom - perjantai  
-limlun - toukokuu  
 limotranse - liikaa  
 anlimitia - äärettömyys (rajattomuus)  
 limon - sitruuna  
@@ -1940,6 +1937,8 @@ liste - lista (luettelo)
 inliste - sisällysluettelo  
 litium - litium  
 litre - litra  
+live - jäädä (jättää)  
+• livaje - jäännös (loput)  
 livermorium - livermorium  
 lobake - retikka (retiisi)  
 loge - sanoa (puhua)  
@@ -1951,19 +1950,15 @@ loge - sanoa (puhua)
 • euloge - ylistys (ylistää, puhua hyvää, kehua)  
 logaslia - etymologia  
 loje - tutkia (opiskella)  
-lojia - tiede (tutkimus)  
-loke - paikka (sija, sijainti)  
-loke - panna (asettaa, sijoittaa)  
-loke - paikallinen  
-loku - sijaita  
+• lojia - tiede (tutkimus)  
+loke - paikka (sija, sijainti; sijaita; sijoittaa, asettaa)  
+• lokike - paikallinen  
 lon - väittely (debatti)  
 lone - keskustelu (debatti)  
-longe - pidentää  
 longe - pitkä  
-longia - pituus  
-longo - pitkästi (kauas)  
+• longia - pituus  
+• longife - pidentää  
 longodure - pitkäaikainen (pitkäkestoinen)  
-longoduro - kauan (pitkän aikaa)  
 longopipre - pitkäpippuri  
 lote - erä (satsi)  
 love - vuotaa  
@@ -1972,10 +1967,21 @@ luge - tallenne (rekisteri; tallentaa, rekisteröidä, kirjata)
 luge - vihreä  
 • lugia - rekisteri (tili)  
 lugobuke - lokikirja  
-lul - helmi  
-lune - kuu  
+lun - kuu  
 lun - kuukausi  
+lun un - tammikuu  
+lun du - helmikuu  
 lun tri - maaliskuu  
+lun nelu - huhtikuu  
+lun lima - toukokuu  
+lun luka - kesäkuu  
+lun ceti - heinäkuu  
+lun bati - elokuu  
+lun nuve - syyskuu  
+lun des - lokakuu  
+lun des un - marraskuu  
+lun des du - joulukuu  
+lun den - päivämäärä (kuu ja päivä)  
 lunokeke - kuukakku  
 lung - itämainen lohikäärme  
 lusun - parsa  
@@ -2095,6 +2101,7 @@ max - enemmän (myös, lisäksi, plus)
 • maximaje - maksimi (enimmäismäärä)  
 • maxure - enemmistö-  
 • maxuria - enemmistö  
+maxolivaje - ylijäämä  
 maxorai - yliarvioida  
 maxin - kone  
 maze - sukka  
@@ -2359,7 +2366,7 @@ nekre - ruumis (vainaja)
 • nekrotome - ruumiinavaus (obduktio)  
 nen - vuosi  
 nenfeste - vuosijuhla  
-nenmesyom - päivämäärä  
+nen lun den - päivämäärä (vuosi, kuu ja päivä)  
 nenufar - lumme  
 neodimium - neodyymi  
 neon - neon  
@@ -2436,7 +2443,6 @@ Nove Kaledonia - Uusi-Kaledonia
 novofite - tulokaskasvi (neofyytti)  
 novojene - vastasyntynyt  
 novologe - uudissana  
-novolun - syyskuu  
 nude - alaston (paljas, naku)  
 • nudisme - nudismi  
 • nudiste - nudisti  
@@ -2888,7 +2894,6 @@ renium - renium
 rentogenium - roentgenium  
 resete - resepti (ohje)  
 reside - kuitti (kuittaus)  
-reste - jäädä (jäännös, loput)  
 restorante - ravintola  
 Reunion - Reunion  
 rezin - pihka (hartsi)  
@@ -3142,7 +3147,6 @@ siro - nolla (ei yhtään)
 sise - kuusi (6)  
 sisfas - kuutio (kuusitahokas)  
 sisgon - kuusikulmio  
-sisyom - lauantai  
 sismolojia - seismologia  
 sistem - järjestelmä (systeemi)  
 site - kaupunki  
@@ -3217,6 +3221,7 @@ stude - opiskella (tutkia; tutkielma)
 • studaje - tutkielma  
 • studente - oppilas (opiskelija)  
 • studer - opiskelija  
+su - -n (oma)  
 suahili - suahili  
 sual - kysyä (kysymys)  
 • sualive - kysyvä  
@@ -3495,8 +3500,6 @@ Unite State de Amerika (USA) - Yhdysvallat (ns. Amerikka)
 unale - toisiaan (keskenään; molemminpuolinen, keskinäinen)  
 unemisme - monismi  
 Uni Arabi Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
-unoyom - maanantai  
-unolun - tammikuu  
 unomaro - kerran  
 unomene - yksimerkityksinen  
 unoki lense - monokkeli  
@@ -3694,7 +3697,6 @@ xixkababe - varraskebab
 xite - paska (sonta)  
 Xiva - Šiva  
 sis - varras  
-sislun - kesäkuu  
 sismanse - saslik  
 xofe - ajaa (kuskata)  
 • xofer - kuski (ajuri, ajaja)  
@@ -3702,6 +3704,8 @@ xoke - isku (šokki)
 xope - ostaa (ostos; shoppailu)  
 xoper - ostaja  
 xou - näyttää (esittää; näytös, esitys, show)  
+xukre - kiittää (kiitos)  
+xukria - kiitollisuus  
 xul - oppi (opetus)  
 xule - oppia (opiskella)  
 xulia - koulutus  
@@ -3761,10 +3765,9 @@ yodium - jodi
 yoge - jooga  
 • yogiste - joogi  
 yogur - jogurtti  
-yohani feste - juhannus (kristillinen juhla)  
-yom - vuorokausi  
-yomcete - viikko  
-yom tri - keskiviikko  
+yohan feste - juhannus (kristillinen juhla)  
+yom - päivä  
+yomyam - lounas  
 yon - ioni  
 yon rade - radioaktiivinen  
 yon radia - radioaktiivisuus  

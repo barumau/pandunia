@@ -177,30 +177,30 @@ It uses the pattern
 #### Days of the week
 
 Days of the week include the word
-**var**
+**den**
 ('day of the week').
 They are numbered starting from Monday.
 Monday is
-**var un**
+**den un**
 ('weekday one'),
 Tuesday is
-**var du**
+**den du**
 ('weekday two')
 and so on.
 
-1. **var un**
+1. **den un**
    – Monday
-2. **var du**
+2. **den du**
    – Tuesday
-3. **var tri**
+3. **den tri**
    – Wednesday
-4. **var nelu**
+4. **den nelu**
    – Thursday
-5. **var lima**
+5. **den lima**
    – Friday
-6. **var luka**
+6. **den luka**
    – Saturday
-7. **var ceti**
+7. **den ceti**
    – Sunday
 
 #### Months

@@ -262,13 +262,13 @@ chief, boss
 **halo! cing side.**
 = Hello! Please sit!  
 <big>☻</big>
-**xukur.**
+**xukre.**
 = Thank you.  
 <big>☺</big>
 **cing yam yo kafe o cai.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**a mi yam un di cai! xukur.**
+**a mi yam un di cai! xukre.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
@@ -407,7 +407,7 @@ must, have to
 or  
 **safe**
 to clean  
-**xukur**
+**xukre**
 thanks  
 **side**
 to sit  
@@ -469,7 +469,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**xukur. mi don un cai e un kafe e un supe pos des minute.**
+**xukre. mi don un cai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 

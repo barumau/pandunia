@@ -246,7 +246,6 @@
 **dama gem** *checkers (draughts)* ← French:jeu de dames, Arabic:(dāmā), Malay:dam, Spanish:Portuguese:damas, deu:Damespiel  
 **dan** *particle (grain, bullet)* ← Hindi:दाना (dānā), Turkish:tane + Japanese:種 (tane);銃弾 (jūdan), Mandarin:弹 (dàn), Vietnamese:đạn, Korean:탄알 (tanal)  
 **dange** *ring (toll, clang)* ← English:dong, Portuguese:dlim-dlão, Spanish:tilín, Mandarin:叮 (dīng), Japanese:がんがん (gangan), Thai:กระดิ่ง (grà-dìng)  
-**danke** *thank (thanks, thank you)* ← English:thank, deu:Danke, + Hindi:धन्यवाद (dhanyavād)  
 **danse** *dance* ← English:French:dance, Spanish:danza, Portuguese:dança, deu:Tanz, Russian:танец (taněc), Turkish:dans, Japanese:ダンス (dansu), Korean:댄스 (daenseu), Swahili:dansi  
 **dante** *tooth* ← Spanish:diente, Portuguese:dente, French:dent, English:dental, Hindi:दाँत (dā̃t), Bengali:দাঁত (dãtô), pan:ਦੰਦ (dand), Malay:danta  
 **darbe** *strike (punch)* ← Arabic:ضرب‎ (ḍaraba), Swahili:dhurubu, Persian:ضرب (ḍarb) + Russian:уда́рить (udarit’)  
@@ -264,15 +263,14 @@
 **deme** *people (population; public)* ← English:Spanish:demo-, French:démo-, Russian:демо- (demo-)  
 **demokratia** *democracy* ← English:democracy, Russian:демократия (demokratiya), Spanish:democracia, French: Portuguese: deu: Arabic:(dīmukratiya), Swahili:demokrasia  
 **demon** *demon* ← English:Turkish:demon, Spanish:demonio, Portuguese:demônio, French:démon, deu:Dämon, Russian:демон (demon)  
-**den** *day (daytime)* ← Russian:день (deń), Hindi:दिन (din), Bengali:দিন (din) + Mandarin:天 (tiān), Cantonese:天 (tin1)  
+**den** *day (24 hours)* ← Russian:день (deń), Hindi:दिन (din), Bengali:দিন (din) + Mandarin:天 (tiān), Cantonese:天 (tin1) + Spanish:día, Portuguese:dia  
 **denge** *wait* ← Mandarin:等 (děng), Cantonese:等 (dang2)  
-**dese** *ten (10)* ← Portuguese:dez, Spanish:diez, French:dix, Russian:десять (desyat'), Polish:dziesięć, Hindi:दस (das), Urdu:(das), Bengali:দশ (dôś), + English:deci-, Malay:desi-, Japanese:デシ- (deshi), deu:dezi-  
+**des** *ten (10)* ← Portuguese:dez, Spanish:diez, French:dix, Russian:десять (desyat'), Polish:dziesięć, Hindi:दस (das), Urdu:(das), Bengali:দশ (dôś), + English:deci-, Malay:desi-, Japanese:デシ- (deshi), deu:dezi-  
 **desen** *drawing (design)* ← English:design, Spanish:diseño, Russian:дизайн (dizain), Turkish:desen, Hindi:डिज़ाइन (ḍizāin), Japanese:デザイン (dezain)  
 **detal** *detail* ← English:detail, Spanish:detalle, Portuguese:detalhe, French:détail, deu:Detail, Russian:дета́ль (detal’)  
 **deu** *god (deity)* ← Portuguese:deus, Malay:dewa, Hindi:देवता (devtā), Kannada:(dēva) + English:theo-, French:théo-, Spanish:teo-, Russian:тео- (teo-)  
-**dex** *country (land, state)* ← Hindi:देश (deś), Bengali:দেশ (deś), Telugu:(dēśamu)  
 **dike** *direct (point, aim; direction; target, objective)* ← English:indicate, French:indiquer, Spanish:Portuguese:indicar + Hindi:Marathi:दिशा (diśā), Malayalam:ദിശ (diśa), Khmer:ទិស (tɨh), Thai:ทิศทาง (tit-taang) + Bengali:দিকে (dike) + Mandarin:的 (dí), Cantonese:的 (dik1), Japanese:的 (teki), Vietnamese:đích  
-**din** *religion (worship)* ← Arabic:(dīn), Bengali:দীন (din), Persian:(din), Turkish:Malay:din, Swahili:dini, Hausa:addini, Hindi:दीन (dīn)  
+**din** *religion (worship)* ← Arabic: دِين‎ (dīn), Hindi:दीन (dīn), Bengali:দীন (din), Turkish:Malay:din, Swahili:dini, Hausa:addini  
 **dinamite** *dynamite* ← English:dynamite, Spanish:dinamita, Russian:динамит (dinamit), Turkish:Malay:dinamit, Arabic:ديناميت (dinamit), Hindi:डायनामाइट (dāyanāmait), Japanese:ダイナマイト (dainamaito)  
 **dinde** *turkey* ← French:dinde, Russian:индюк (indyuk), Turkish:hindi, Arabic: دِيك هِنْدِيّ‎ (dīk hindiy)  
 **ding** *nail (spike)* ← Mandarin:钉 (dīng), Cantonese:釘 (deng1), Vietnamese:đinh  
@@ -449,6 +447,7 @@
 **glise** *slide (slip, glide, skate)* ← French:glisser, Italian:glissare + English:glacier, glissando, Spanish:Portuguese:glaciar, glisando, Russian:глиссандо (glissando), Arabic:غليساندو (ghlysandw), Japanese:グリッサンド (gurissando) + Malay:gelangsar  
 **glute** *glue (stick, adhere, paste; adhesive)* ← English:glue, Swahili:gluu + French:glutineux  
 **gluten** *gluten* ← English:Spanish:French:gluten, Portuguese:glúten, Russian:глюте́н (gl’uten), Arabic:غْلُوتِين‎ (ḡlūtīn), Japanese:グルテン (guruten)  
+**gogia** *country (land, state)* ← Mandarin:国家 (guójiā), Cantonese:國家 (gwok3 gaa1), Japanese:国家 (kokka), Korean:국가(gukga), Vietnamese:quốc gia  
 **gol** *goal (destination; destine, set)* ← Portuguese:Spanish:gol, English:goal, Japanese:ゴール (gōru), Korean:골 (gol), Hindi:गोल (gola), Telugu:గోలు (gōlu), Russian:гол (gol)  
 **golem** *golem* ← heb:גולם‎ (golem), English:Spanish:Portuguese:French:Malay:golem, deu:Golem, Russian:голем (golem), Arabic:غولم (ghwlm) Japanese:ゴーレム (gōremu), Korean:골렘 (gollem)  
 **gom** *rubber (latex, eraser)* ← French:gomme, Spanish:Filipino:goma, Japanese:ゴム (gomu), Korean:고무 (gomu) + English:gum + Hindi:गम (gam), Bengali:গাম (gam)  
@@ -571,6 +570,7 @@
 **jeng** *fight (war, battle, combat)* ← Mandarin:爭 (zhēng), Vietnamese:tranh, Korean:전쟁 (jeonjaeng), Turkish:kur:ceng, Persian:Urdu:(jang), Hindi:जंग (jang)  
 **jengoxute** *martial art* ← Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art  
 **jenisme** *Jainism* ← Hindi:Marathi:जैन (jain), Thai:เชน (chen), English:jainism, French:jaïnisme, Russian:джайнизм (džaynizm)  
+**jenju** *pearl* ← Mandarin:珍珠 (zhēnzhū), Cantonese:珍珠 (zan1 zyu1), Japanese:真珠 (shinju), Korean:진주 (jinju), Vietnamese:trân châu, Russian:жемчуг (žemčug), Turkish:inci,incü  
 **jensen** *ginseng* ← Mandarin:人蔘 (rénshēn), Min-Chinese:人蔘 (jîn-sam), English:Spanish:Portuguese:Turkish:Malay:ginseng, Russian:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), Japanese:人参 (ninjin)  
 **jete** *thrust (throw,cast)* ← French:projet, Portuguese:projeto, English:project, Spanish:proyecto, Russian:проект (proyekt), Hindi:प्रोजैक्ट (projaikṭ), Bengali:প্রজেক্ট (prôjekṭ), Japanese:プロジェクト (purojekuto), Korean:프로젝트 (peurojekteu), Turkish:proje  
 **jin** *real (authentic, genuine)* ← Mandarin:真 (zhēn), Cantonese:真 (zan1), Japanese:真 (shin), Korean:진 (jin), Thai:จริง (jing), kyr:tat:чын (çın) + English:genuine  
@@ -755,12 +755,12 @@
 **langan** *banister (handrail)* ← Mandarin:栏杆 (lángān), Japanese:欄干 (rankan), Korean:난간 (nan-gan)  
 **lantanium** *lanthanum* ← English:lanthanum, French:lanthane, Spanish:lantano, Portuguese:lantâno, Russian:лантан, Mandarin:镧 (lán), Japanese:ランタン, Korean:란탄, Vietnamese:lantan, Hindi:लाञ्थनम, Bengali:ল্যান্থানাম, Malay:lantanium, Swahili:lanthani, Arabic: لنثانوم  
 **larve** *larva (maggot, caterpillar)* ← deu:French:larve, English:Turkish:larva, Hindi:लार्वा (lārvā), Urdu:(lārvā), Polish:larwa  
-**lase** *leave behind (abandon, let go)* ← French:laisser, lâcher, Italian:lasciare, deu:lassen  
 **laste** *elastic* ← English:elastic, Spanish:Portuguese:elástico, gla:lastaig, Russian:эласти́чный (elastíčnyj), Turkish:Malay:elastik, Japanese:エラスティック (erasutikku)  
 **lasun** *garlic* ← Hindi:लहसुन (lahsun), Bengali:রসুন (rôśun), Mandarin:大蒜 (dàsuàn)  
 **late** *side (flank)* ← Spanish:Portuguese:lado, Italian:lato, English:lateral, French:latéral, Russian:латеральный (lateral’nyy)  
 **laurensium** *lawrencium* ← English:lawrencium, French:lawrencium, Spanish:laurencio, Portuguese:lawrêncio, Russian:лоуренсий, Mandarin:铹 (láo), Japanese:ローレンシウム, Korean:로렌슘, Vietnamese:lorenxi, lawrenci, Hindi:लॉरेंशियम, Bengali:লরেনসিয়াম, Malay:lawrensium, Swahili:lawirensi, Arabic: لورنسيوم  
 **lave** *old (aged, elderly)* ← Mandarin:老 (lǎo), Cantonese:老 (lau2), Wu-Chinese:老 (lau3), Japanese:老 (rō), Vietnamese:lão  
+**laxe** *loose (laxe; loosen, let loose, let go)* ← English:(re)lax, French:(re)lâcher, Spanish:(re)lajar, Italian:lasciare, deu:lassen  
 **lazanya** *lasagna* ← French:lasagne, English:lasagna, Spanish:lasaña, Portuguese:lasanha, Russian:лазанья (lazanya), Arabic:(lazanyā), Japanese:ラザニア (razania), Korean:라자냐 (lajanya), Hindi:लज़ैन्या (lazenyā)  
 **laze** *garbage (rubbish, trash)* ← Mandarin:垃圾 (lājī)  
 **lazurpetre** *lapis lazuli* ← Persian:لاجورد (lājevard), English:lazuli, Spanish:lapislázuli, Russian:лазурит (lazurit), Arabic:لازورد (lāzaward), Hindi:लाजवर्द (lājavarda), Japanese:ラピスラズリ (rapisurazuri), Malay:lazuardi, Turkish:lazur taşı  
@@ -793,11 +793,11 @@
 **liste** *list (listing, catalogue)* ← English:list, Spanish:Portuguese:lista, Russian:лист (list), deu:French:liste, Persian:(list), Hindi:लिस्ट (lisṭ), Urdu:(lisṭ), Japanese:リスト (risuto)  
 **litium** *lithium* ← English:lithium, French:lithium, Spanish:litio, Portuguese:lítio, Russian:литий, Mandarin:锂 (lǐ), Japanese:リチウム, Korean:리튬, Vietnamese:Swahili:lithi, Hindi:लिथियम, Bengali:লিথিয়াম, Malay:litium, swa:lithi, Arabic: ليثيوم  
 **litre** *litre (liter)* ← English:French:Turkish:litre, deu:Malay:liter, Spanish:Portuguese:litro, Russian:литр (litr), Polish:litr, Arabic: لتر‎(litr), Hindi:लीटर (līṭar), Bengali:লিটার (liṭar), Japanese:リットル (rittoru), Korean:리터 (riteo), Vietnamese:lít, Swahili:lita  
+**live** *stay behind (remain, linger; leave behind)* ← English:leave + Mandarin:留 (liú), Japanese:留 (ryū), Korean:류 (ryu), Vietnamese:lưu  
 **livermorium** *livermorium* ← English:French:livermorium, Spanish:livermorio, Portuguese:livermório, Russian:ливерморий, Mandarin: (lì), Japanese:リバモリウム, Korean:리버모륨, Vietnamese:livermori, Malay:livermorium, Swahili:livermori  
 **lobake** *radish* ← Mandarin:萝卜 (luóbo), Cantonese:蘿蔔 (lobaak), Malay:lobak  
 **loge** *say (talk, speak, tell; speech)* ← Greek:λόγος (logos), English:French:-logue, Spanish:Portuguese:-logo, Russian:-лог (-log) + Arabic:(luğa), Hindi:लुग़त (luġat), Swahili:lugha, Malay:logat, Turkish:lügat, Persian:(loğat)  
-**lojia** *science (study, research)* ← English:-ology, Spanish:-ología, French:-ologie, Russian:ология (-ologiya), Turkish:-loji  
-**loke** *place (location)* ← English:location, Spanish:lugar, French:localisation, + deu:Turkish:lokal, Polish:lokalny  
+**loke** *place (location, situation; lie; put, set)* ← English:location, Spanish:lugar, French:localisation, + deu:Turkish:lokal, Polish:lokalny  
 **lon** *discussion (debate, discourse)* ← Mandarin:论 (lùn), Cantonese:論 (lœn6), Korean:론 (ron), Japanese:論 (ron), Vietnamese:luận  
 **longe** *long (lengthy)* ← English:French:long, deu:lang, Portuguese:longo  
 **lontre** *otter* ← Spanish:Filipino:lutrino, French:loutre, Portuguese:lontra, Italian:lontra  
@@ -805,8 +805,7 @@
 **love** *leak* ← Mandarin:漏 (lòu), Cantonese:漏 (lau6), Japanese:漏 (rō), 루 (ru)  
 **luge** *green* ← Mandarin:绿 (lǜ), Cantonese:綠 (luk6), Vietnamese:lục, Korean:록/녹 (rok/nok), Japanese: 緑色 (ryokushoku)  
 **luge** *register (record, log)* ← English:log + Mandarin:录 (lù), Cantonese:錄 (luk6), Japanese:録 (roku), Korean:록 (rok), Vietnamese:lục  
-**lul** *pearl* ← Amharic:ሉል (lul), Arabic:(luʾluʾa), Swahili:lulu, Oromo:lu'ulu'a, Hausa:lu'ulu'u, Fulani:luuluuri, Persian:(lo'lo')  
-**lune** *moon* ← French:lune, Spanish:luna, English:lunar, Russian:луна (luná)  
+**lun** *moon* ← French:lune, Spanish:luna, English:lunar, Russian:луна (luná)  
 **lung** *dragon* ← Mandarin:龙 (lóng), Cantonese:龍 (lung4), Vietnamese:rồng, long, Korean:용 (yong), 룡 (ryong), jon:竜 (ryū)  
 **lusun** *asparagus* ← Mandarin:芦笋 (lúsǔn), Cantonese:蘆筍 (lou4 seon2)  
 **lute** *rob (loot, plunder, pillage, ransack)* ← Hindi:लूटना (lūṭnā), Urdu:(lūṭnā), Bengali:লুটা (luṭā), Punjabi:ਲੁੱਟ (luṭ), English:loot, + Mandarin:掠夺 (lüèduó), Cantonese:掠 (loek6)  
@@ -971,7 +970,6 @@
 **neftoguke** *Indian chrysanthemum* ← Mandarin:油菊, Japanese:アブラギク  
 **nege** *refuse (deny, decline)* ← Spanish:Portuguese:negar, English:negate  
 **nen** *year* ← Japanese:年 (nen), Mandarin:年 (nián), Cantonese:年 (nin4), Korean:년 (nyeon), Vietnamese:năm, niên  
-**nenmesyom** *date* ← Mandarin:年月日 (niányuèrì), Japanese:年月日 (nengappi), Korean:연월일 (yeonworil)  
 **nenufar** *water lily (nenuphar)* ← English:nenuphar, Spanish:Portuguese:nenúfar, French:nénufar, Russian:ненюфа́р (nenjufár), Persian:نیلوفر آبی‎ (nilufar-e âbi)  
 **neodimium** *neodymium* ← English:neodymium, French:néodyme, Spanish:neodimio, Portuguese:neodímio, Russian:неодим, Mandarin:钕 (nǚ), Japanese:ネオジム, Korean:네오디뮴, Vietnamese:neođim, Hindi:नियोडाइमियम, Bengali:নিওডিমিয়াম, Malay:neodinium, Swahili:neodimi, Arabic: نيودميوم  
 **neon** *neon* ← English:neon, French:néon, Spanish:neón, Portuguese:néon, Russian:неон, Mandarin:氖 (nǎi), Japanese:ネオン, Korean:네온, Vietnamese:neon, nê-ông, Hindi:नियोन, Bengali:নিয়ন, Malay:neon, Swahili:neoni, Arabic: نيون  
@@ -1165,7 +1163,6 @@
 **reporte** *report* ← English:report, Spanish:reporte, French:rapport, Russian:рапорт (raport), Turkish:rapor, Swahili:ripoti, Hindi:रिपोर्ट (riporṭ), Japanese:レポート (repōto)  
 **resete** *instructions (recipe)* ← Italian:ricetta, Russian:рецепт (retsept), deu:Rezept, Spanish:receta, Portuguese:receita, French:recette, Malay:resep  
 **reside** *receipt (acknowledgement; acknowledge)* ← Persian:(resid), Hindi:रसीद (rasīd), Urdu:(rasīd), Gujarati:રસીદ (rasīd), Telugu:రసీదు (rasīdu), + English:receipt, Swahili:resiti, Malay:resit  
-**reste** *remain (stay; rest, remainder)* ← French:reste, English:deu:Rest, Polish:reszta, Spanish:Portuguese:resto  
 **restorante** *restaurant* ← English:French:restaurant, Spanish:Portuguese:restaurante, Russian:ресторан (restoran), Turkish:Malay:restoran, Hindi:रेस्तरां (restarā̃), Bengali:রেস্টুরেন্ট (reśṭurenṭ), Japanese:レストラン (resutoran)  
 **rezin** *resin* ← English:resin, French:résine, Persian:(rezin), Portuguese:Spanish:resina, Turkish:reçine  
 **ri-** *repetition* ← English:French:Portuguese:Spanish:re-, Russian:ре- (re-)  
@@ -1297,6 +1294,7 @@
 **strontium** *strontium* ← English:strontium, French:strontium, Spanish:strontium, Portuguese:estrôncio, Russian:стронций, Mandarin:锶 (sī), Japanese:ストロンチウム, Korean:스트논듐, Vietnamese:stronti, Hindi:स्ट्रोन्सियम, Bengali:স্ট্রনসিয়াম, Malay:strontium, Swahili:stronti, Arabic: سترانشيوم  
 **strute** *building* ← English:French:structure, Spanish:estructure, Portuguese:estrutura, Russian:структура (struktura), Malay:(infra)struktur, Japanese:(インフラ)ストラクチャ ((infura)sutorakucha), Korean:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *study (work in order to practise or demonstrate)* ← English:study, French:étudier, Spanish:estudiar, Portuguese:estudar + Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)  
+**su** *'s (attributive postposition)* ← English:'s, Spanish:su, Portuguese:seu,sua  
 **su-** *good (well)* ← scr:Hindi: सु- (su-), Bengali:সু- (śu-) + Latin:English:French:su-  
 **sual** *ask (inquire; question, query, inquiry)* ← Arabic: سؤال (su'āl), Hindi:सवाल (savāl), Malay:soal, Swahili:swali  
 **suane** *sour* ← Mandarin:酸 (suān), Cantonese:酸 (syun1), Wu-Chinese:酸 (soe1), Japanese:酸 (san), Korean:산 (san), Vietnamese:toan  
@@ -1498,12 +1496,13 @@
 **xindavisme** *Shintoism* ← Japanese:神道 (shintō), Korean:신도 (sindo), Mandarin:神道 (shéndào)  
 **xing** *star* ← Mandarin:星 (xīng), Wu-Chinese:星 (xing), Cantonese:星 (sing1), Japanese:星 (sei), Korean:성 (seong)  
 **xipe** *wet* ← Mandarin:濕 (shī), Cantonese:濕 (sap1), Wu-Chinese:濕 (seq4), Japanese:濕 (shitsu), Korean:습 (seup)  
-**xir** *poem* ← heb:שיר (šir), Arabic:(šiʿr), Turkish:şiir, Persian:(še'r), Swahili:shairi, Mandarin:诗 (shī), Cantonese:詩 (si1), Japanese:詩 (shi), Korean:시 (shi)  
+**xir** *poem* ← heb:שיר (šir), Arabic:(šiʿr), Turkish:şiir, Persian:(še'r), Swahili:shairi, Malay:syair+ Mandarin:诗 (shī), Cantonese:詩 (si1), Japanese:詩 (shi), Korean:시 (shi)  
 **xirope** *syrup* ← Arabic:(šarāb), Portuguese:xarope, English:syrup, Turkish:şurup, Japanese:シロップ (shiroppu), Swahili:shira  
 **xite** *shit (poop, feces)* ← English:shit + Mandarin:屎 (shǐ), Cantonese:屎 (si2)  
 **xoke** *shock (collision)* ← English:shock, French:choc, Spanish:Portuguese:choque, Russian:шок (šok), Japanese:ショック (shokku), Korean:쇼크 (syokeu), Malay:syok, Turkish:şok  
 **xope** *buy (purchase, shop; shopping)* ← English:French:Spanish:shopping, Japanese:ショッピング (shoppingu), Korean:쇼핑 (syoping), Thai:ชอปปิ้ง (chop-bing), Russian:шоппинг (šopping), Mandarin:血拼 (xuèpīn)  
 **xou** *show (display; exhibition)* ← English:deu:French:Spanish:Portuguese:show, Russian:шоу (šou), Turkish:şov, Swahili:shoo, Thai:โชว์ (choo), Korean:쇼 (syo), Japanese:ショー (shō), Mandarin:秀 (xiù)  
+**xukre** *thank (thanks, thank you)* ← Arabic: شُكْر‎ (šukr), Hindi:शुक्रिया (śukriyā), Bengali:শুকরিয়া (śukriẏa), Swahili:shukrani, Turkish:şũkür  
 **xulkan** *school (institution)* ← Mandarin:学 (xué) + deu:Schule, Swahili:shule + English:school, French:école, Spanish:escuela, Portuguese:escola, Russian:школа (škola), Hindi:स्कूल (skūl), Bengali:স্কুল (śkul), Malay:sekolah  
 **xure** *begin (start, commence, initiate)* ← Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)  
 **xute** *skill (art, craft)* ← Mandarin:术 (shù), Cantonese:術 (seot6), Japanese:術 (jutsu), Korean:술 (sul)  
@@ -1521,7 +1520,7 @@
 **yodium** *iodine* ← English:iodine, French:iode, Spanish:yodo (iodo), Portuguese:iodo, Russian:йод, Japanese:ヨウ素, Korean:요오드, Vietnamese:iot, Hindi:आयोडिन, Bengali:আয়োডিন, Malay:yodium, Swahili:iodini, Arabic: يود  
 **yoge** *yoga* ← Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)  
 **yogur** *yogurt* ← English:Malay:yogurt, French:yogourt, Spanish:yogur, Portuguese:iogurte, Russian:йогурт (yogurt), Mandarin:优格 (yōugé), Japanese:ヨーグルト (yōguruto), Korean:요구르트 (yogureuteu), Turkish:yoğurt   
-**yom** *day (24 hours)* ← Arabic: يَوْم‎ (yawm), Hindi:यौम (yaum), Malay:yaum, heb: יוֹם‎ (yom)  
+**yom** *day (daytime)* ← Arabic: يَوْم‎ (yawm), Hindi:यौम (yaum), Malay:yaum  
 **yon** *ion* ← English:French:Spanish:ion, Russian:ион (ion), Turkish:iyon  
 **yota** *yotta-* ← English:French:Spanish:Portuguese:yotta, Malay:yota-, Mandarin:尧它- (yáotā-), Japanese:ヨタ- (yota-), Korean:요타- (yota-)  
 **yote** *drop (droplet)* ← Thai:หยด (yòt), Vietnamese:giọt, + English:iota, Russian:йота (yota)  
@@ -1581,6 +1580,7 @@
 **• kontrate** *agreement (treaty,contract)* ← English:treaty, French:traité, Spanish:Portuguese:tratado, Russian:контракт (kontrakt), Turkish:kontrat, Malay:kontrak  
 **• krita** *evaluate (review, criticise)* ← Mandarin:批评 (pīpíng), Vietnamese:phê bình, Korean:비평 (bipyeong)  
 **• lider** *leader (director)* ← English:French:leader, Spanish:Portuguese:líder, Russian:лидер (lider), Turkish:lider, Hindi:लीडर (līdar), Japanese:リーダー (rīdā), Korean:리더 (rideo)  
+**• lojia** *science (study, research)* ← English:-ology, Spanish:-ología, French:-ologie, Russian:ология (-ologiya), Turkish:-loji  
 **• mamal** *mammal* ← English:mammal, Spanish:Portuguese:mamífero, French:mammifère, Turkish:memeli, Malay:mamalia  
 **• manter** *public officer (mandarin, minister)* ← Hindi:मंत्री (mantrī), Bengali:মন্ত্রী (môntri), Malay:menteri, Portuguese:mandarim, English:French:Spanish:mandarin, Russian:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), Japanese:メンター (mentā), Korean:멘토 (mento)  
 **• minime** *least (minimal)* ← English:French:minimum, Spanish:Portuguese:mínimo, deu:Minimum, Russian:ми́нимум (mínimum)  

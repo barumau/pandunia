@@ -103,7 +103,6 @@ barse - 雨 (雨が降る)
 barsomosim - 雨季  
 bas - 十分  
 bate - 八 (8)  
-batolun - ８月  
 batosenter - タコ  
 bata - 鴨  
 baton - 杭  
@@ -182,8 +181,6 @@ cakre - 車輪
 camaca - スプーン  
 cantergrupe - 合唱団  
 care - 四 (4)  
-caryom - 木曜日  
-carlun - ４月  
 cau - 草  
 caustan - 草地  
 ceke - 小切手 (チェック)  
@@ -199,8 +196,6 @@ ceresium - セリウム
 • acese - アクセス  
 • sucese - 成功  
 cesium - セシウム  
-cetyom - 日曜日  
-cetolun - ７月  
 cili fun - パプリカ  
 cinmai - お婆さん  
 cinocoseni - 中韓  
@@ -245,16 +240,18 @@ defkaske - 鎧
 defoban - 盾  
 dege - 受ける (もらう)  
 demon - 悪魔  
-den - 昼  
-denyam - 昼食  
-dese - 十 (１０)  
-desdullun - １２月  
-deskile - 万  
-deslun - １０月  
-desunlun - １１月  
+den - 日  
+den un - 月曜日  
+den du - 火曜日  
+den tri - 水曜日  
+den nelu - 木曜日  
+den lima - 金曜日  
+den luka - 土曜日  
+den ceti - 日曜日  
+des - 十 (１０)  
+deskilo - 万  
 deu - 神  
 deunagre - デーヴァナーガリー  
-dexojen - 市民  
 dike - 方向 (標的, ターゲット; 狙う)  
 • dikion - 直示  
 dikobaton - 指し棒  
@@ -287,8 +284,6 @@ dua - 祈祷
 dubnium - ドブニウム  
 duce - シャワー  
 duge - 読む  
-dulyom - 火曜日  
-dullun - ２月  
 dunia - 世界  
 dungia aventur - ダンジョンアドベンチャー  
 • duro - まだ  
@@ -440,6 +435,8 @@ glute - 張る (付く)
 glutobende - 絆創膏  
 glutofan - 粘土  
 glutograf - ステッカー  
+gogia - 国 (国家)  
+• gogian - 市民  
 gol - 目的 (行き先, ゴール)  
 gom - ゴム (消しゴム)  
 • diagone - 筋交い (対角)  
@@ -549,6 +546,7 @@ jeke - 借用
 jekocepe - 借りる  
 jekodone - 貸す  
 jeng - 戦闘 (格闘)  
+jenju - 真珠  
 • jetaje - 飛翔体 (矢玉)  
 • projetaje - プロジェクト  
 jetografe - 映す (投影する, 投影)  
@@ -713,7 +711,6 @@ lama - ラマ (チベット仏教の上師)
 lampe - ランプ  
 LAN (loke aria nete) - LAN  
 lantanium - ランタン  
-lase - 残す  
 lasun - 大蒜  
 late - 側 (脇)  
 Latvia - ラトビア  
@@ -738,8 +735,6 @@ lile - 小さい
 lilkaboge - ズッキーニ  
 lilite - 小石  
 lime - 五 (5)  
-limyom - 金曜日  
-limlun - ５月  
 limon - レモン  
 limonike - 柑橘  
 limon jus - レモネード  
@@ -754,6 +749,7 @@ linke - 繋ぐ
 lisan - 舌  
 litium - リチウム  
 litre - リットル  
+live - 残す  
 livermorium - リバモリウム  
 loge - 話す  
 • euloge - 賛辞  
@@ -764,10 +760,22 @@ longokrokodil - クロコダイル
 longopipre - 畢撥  
 lontre - 獺  
 love - 漏る  
+luge - 録  
 luge - 緑 (緑色)  
 lugomelon - ハネデューメロン  
 lun - 月間  
+lun un - １月  
+lun du - ２月  
 lun tri - ３月  
+lun nelu - ４月  
+lun lima - ５月  
+lun luka - ６月  
+lun ceti - ７月  
+lun bati - ８月  
+lun nuve - ９月  
+lun des - １０月  
+lun des un - １１月  
+lun des du - １２月  
 lunokeke - 月餅  
 lung - 竜  
 lutetium - ルテニウム  
@@ -901,6 +909,7 @@ neftoguke - シマカンギク (アブラギク)
 • nekrofilisme - 屍姦 (死体性愛)  
 • nekrotome - 検視  
 nen - 年  
+nen lun den - 年月日  
 neodimium - ネオジム  
 neon - ネオン  
 nepe - 雲  
@@ -935,7 +944,6 @@ nove - 新しい
 • novike - 初心者  
 novoyange - 近代的  
 novologe - 新語 (新造語)  
-novolun - ９月  
 • nudisme - ヌーディズム  
 nuke - 首  
 nume - 数える  
@@ -1202,7 +1210,6 @@ sirplan - 陰謀
 sirkite - 丸石 (玉石, 栗石)  
 siro - 零 (０)  
 sise - 六 (6)  
-sisyom - 土曜日  
 sisme - 振る  
 skale - 上る (乗る, よじ登る)  
 • deskale - 下る (降りる)  
@@ -1332,8 +1339,6 @@ umame - 旨味
 un - 一 (1)  
 • unike - 唯一の  
 • uniko - だけ  
-unoyom - 月曜日  
-unolun - １月  
 uranium - ウラン  
 uzable - 使用可能  
 va - わあ  
@@ -1410,9 +1415,9 @@ xir - 詩
 xite - 糞 (屎)  
 Xiva - シヴァ  
 xixe - 刺す  
-sislun - ６月  
 xope - 買う  
 xou - 見せる (示す, デモる)  
+xukre - ありがとう (どうも)  
 xule - 学ぶ  
 xulane - 教える  
 xulaner - 先生 (教師)  
@@ -1443,8 +1448,8 @@ yo - 何分の
 yodium - ヨウ素  
 • yogiste - ヨギ  
 yogur - ヨーグルト  
-yom - 日  
-yom tri - 水曜日  
+yom - 昼  
+yomyam - 昼食  
 yterbium - イッテルビウム  
 ytrium - イットリウム  
 yuge - 軛  

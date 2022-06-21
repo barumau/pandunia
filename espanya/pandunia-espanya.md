@@ -3,14 +3,15 @@
 ## A  
 
 a - en (a)  
-a danke de - gracias a (merced a)  
 a ke - dónde  
 a le - allí (allá)  
 a line - en línea  
+a long - lejos  
 a max - además  
 a nove - ahora mismo (justo)  
 a sababe de - porque  
 a sube - debajo  
+a xukre de - gracias a (merced a)  
 a zay - ahora (actualmente)  
 a zay den - hoy  
 abete - abeto  
@@ -264,7 +265,6 @@ basen - piscina (alberca, lavadero)
 baske - cesta (canasta, barquilla, aro)  
 baske bol - baloncesto (básquetbol)  
 bate - ocho (8)  
-batolun - agosto  
 batosenter - pulpo  
 bata - pato  
 batakrote - ornitorrinco  
@@ -440,8 +440,6 @@ cape - grabado (sello, estampando)
 capati - chapati (pan sin levadura)  
 care - cuatro (4)  
 cargon - cuadro  
-caryom - jueves  
-carlun - abril  
 carme - encanto  
 cate - techo (tejado)  
 cau - césped (hierba)  
@@ -481,8 +479,7 @@ Cernagore - Montenegro
 • sucese - prosperar  
 cesium - cesio  
 cete - siete (7)  
-cetyom - domingo  
-cetolun - julio  
+ceti din - semana  
 Cile - Chile  
 cili - chile  
 cimpanze - chimpancé  
@@ -548,7 +545,6 @@ Dania - Dinamarca
 dan - partícula (grano, bala)  
 danosekure - antibalas  
 danger - campana (cencerro)  
-danke - agradecer (gracias)  
 danse - baile (danza)  
 dante - diente  
 • danta - morder  
@@ -593,13 +589,17 @@ demokrate - democrático
 demokratia - democracia  
 demokratiste - demócrata  
 demon - demonio  
-den - día  
-denyam - almuerzo  
+den - día (24 horas)  
+• denike - diario  
+den un - lunes  
+den du - martes  
+den tri - miércoles  
+den nelu - jueves  
+den lima - viernes  
+den luka - sábado  
+den ceti - domingo  
 denge - esperar  
-dese - diez (10)  
-desdullun - deciembre  
-deslun - octubre  
-desunlun - nobiembre  
+des - diez (10)  
 desen - dibujo (diseño)  
 detal - detalle  
 deu - dios  
@@ -616,11 +616,6 @@ undevisme - monoteismo
 deunagre - devanágari  
 deusage - mito (cuento divino)  
 deusofia - teosofía  
-dex - país (nación, estado, terra)  
-dexojen - ciudadano  
-• exdex - país extranjero  
-• exdexe - extranjero  
-di - de (posposición de posesión)  
 dike - apuntar (dirección)  
 • diker - puntero  
 • dikion - deíxis  
@@ -683,6 +678,8 @@ droge - droga (narcótico)
 Drugia - Bután  
 du - dos (2)  
 • duple - doble  
+duple - dos veces  
+duplomene - doble sentido  
 dua - rezar (orar; rezo, oración)  
 • dusdua - maldecir (maldición)  
 dubnium - dubnio  
@@ -690,11 +687,7 @@ duce - ducha
 duge - leer  
 duke - triste (pena, tristeza)  
 dulo fene - reducir a la mitad (dividir en dos)  
-dulyom - martes  
 dulisme - dualismo  
-dullun - febrero  
-dulmaro - dos veces  
-dulmene - doble sentido  
 dulromanse - birromántico  
 dulsexe - bisexual  
 duman - humo  
@@ -1070,6 +1063,10 @@ glutobende - curita (apósito)
 gluten - gluten  
 glutofan - arcilla (barro)  
 glutograf - adhesivo  
+gogia - país (nación, estado, terra)  
+• exgogia - país extranjero  
+• gogian - ciudadano  
+• exgogian - extranjero  
 gol - meta (gol, destinación; destinar)  
 gom - goma (caucho, hule, borrador)  
 gone - esquina (rincón,ángulo)  
@@ -1363,6 +1360,7 @@ jeng - pelea (guerra, batalla)
 jenge - macrial (militar)  
 • jenger - luchador (guerrero)  
 jengoxute - arte marcial  
+jenju - perla  
 Jerzi - Jersey  
 • jetaje - proyectil (misil)  
 • injete - inyección  
@@ -1761,8 +1759,6 @@ langan - barandilla (pasamanos)
 Lanka - Sri Lanka  
 lantanium - lantano  
 larve - larva  
-las - vestigio (sobrante, residuo)  
-lase - dejar  
 laste - elástico (flexible)  
 lasun - ajo  
 late - lado (flanco)  
@@ -1778,6 +1774,7 @@ lau - viejo (anciano)
 lave - viejo (anciano)  
 lave - laosiano  
 laurensium - laurencio  
+laxe - dejar  
 laze - basura (desechos)  
 lazanya - lasaña  
 lazure - azur (blao)  
@@ -1829,9 +1826,7 @@ lime - límite (frontera, linde)
 lime - cinco (5)  
 limfas - pentaedro  
 limgon - pentágono  
-limyom - viernes  
 • limite - limitado  
-limlun - mayo  
 limotranse - demasiado  
 limon - limón  
 limonike - cítrico  
@@ -1857,6 +1852,8 @@ liste - lista
 inliste - índice de contenidos  
 litium - litio  
 litre - litro  
+live - dejar  
+• livaje - resto (demás, residuo)  
 livermorium - livermorio  
 lobake - rábano  
 loge - decir (hablar; habla)  
@@ -1865,18 +1862,15 @@ loge - decir (hablar; habla)
 • euloge - elogio  
 logaslia - etimología  
 loje - estudiar (investigar)  
-lojia - ciencia (estudia, investigación)  
-loke - lugar  
-loke - colocar (poner, ubicar)  
-loke - local  
-loku - encontrarse (estar, situarse)  
+• lojia - ciencia (estudia, investigación)  
+loke - lugar (colocar, poner)  
+• lokike - local  
 lon - discusión (debate, discurso)  
 lone - debatir (discutir)  
 lona biznes - negociar  
-longe - alargar  
 longe - largo  
-longia - largo (longitud)  
-longo - lejos  
+• longia - largo (longitud)  
+• longife - alargar  
 longodure - perdurable (longevo, prolongado)  
 longokrokodil - cocodrilo  
 lontre - nutria  
@@ -1888,10 +1882,20 @@ luge - verde
 • lugia - registro (cuenta)  
 lugomelon - melón verde  
 lugobuke - diario  
-lul - perla  
-lune - luna  
+lun - luna  
 lun - mez  
+lun un - enero  
+lun du - febrero  
 lun tri - marzo  
+lun nelu - abril  
+lun lima - mayo  
+lun luka - junio  
+lun ceti - julio  
+lun bati - agosto  
+lun nuve - septiembre  
+lun des - octubre  
+lun des un - nobiembre  
+lun des du - deciembre  
 lunokeke - pastel de luna  
 lung - dragón  
 lusun - espárrago  
@@ -2011,6 +2015,7 @@ max - más
 • maxure - mayor  
 • maxuria - mayoría  
 maxobalaje - refuerzos  
+maxolivaje - vestigio (sobrante)  
 maxorai - sobrestimar  
 maxin - máquina  
 maze - calcetín  
@@ -2283,7 +2288,7 @@ nege - rechazar (negar)
 • nekrotome - autopsia  
 nen - año  
 nenfeste - aniversario  
-nenmesyom - fecha  
+nen lun den - fecha  
 nenufar - nenúfar (lirio de agua)  
 neodimium - neodimio  
 neon - neón  
@@ -2364,7 +2369,6 @@ novofite - planta neófita
 novojene - neonato (recién nacido)  
 novoyange - moderno  
 novologe - neologismo  
-novolun - septiembre  
 nude - desnudo  
 • nudisme - nudismo  
 • nudiste - nudista  
@@ -2796,7 +2800,6 @@ renium - renio
 rentogenium - roentgenio  
 resete - instrucciones (receta)  
 reside - reconocimiento (recibo; reconocer)  
-reste - resto (demás)  
 restorante - restaurante  
 Reunion - Reunión  
 rezin - resina  
@@ -3067,7 +3070,6 @@ siro - cero (ninguno)
 sise - seis (6)  
 sisfas - hexaedro (cubo)  
 sisgon - hexágono  
-sisyom - sábado  
 sisme - agitar (sacudir)  
 sismolojia - sismología  
 sistem - sistema  
@@ -3142,6 +3144,7 @@ stude - estudiar (examinar)
 • studia - estudio  
 • studente - estudiante (alumno)  
 • studer - estudiante  
+su - de (posposición de posesión)  
 suahili - suajili  
 sual - preguntar (inquirir; pregunta)  
 • sualive - interrogativa  
@@ -3436,8 +3439,6 @@ Unite State de Amerika (USA) - Estados Unidos de América
 unale - el uno al otro (se; mutuo, recíproco))  
 unemisme - monismo  
 Uni Arabi Amiria (UAA) - Emiratos Árabes Unidos  
-unoyom - lunes  
-unolun - enero  
 unomaro - una vez  
 unomene - inequívoco  
 unoki lense - monóculo  
@@ -3623,13 +3624,13 @@ xite - mierda
 Xiva - Shiva  
 xixe - atravesar  
 sis - brocheta  
-sislun - junio  
 xofe - conducir  
 • xofer - conductor (chofer)  
 xoke - choque (sacudida)  
 xope - comprar (compras, shopping)  
 xoper - comprador  
 xou - mostrar (exposición, espectáculo)  
+xukre - agradecer (gracias)  
 xul - lección  
 xule - aprender (estudiar)  
 xulia - educación  
@@ -3693,9 +3694,9 @@ yodium - yodo (iodo)
 yoge - yoga  
 • yogiste - yogui  
 yogur - yogur  
-yohani feste - día de San Juan  
-yomcete - semana  
-yom tri - miércoles  
+yohan feste - día de San Juan  
+yom - día  
+yomyam - almuerzo  
 yon - ion  
 yon rade - radiactivo  
 yon radia - radiación ionizante  

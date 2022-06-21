@@ -39,15 +39,17 @@ The sentence **mi fa huru yemon** would mean the same thing but it would include
 ## A  
 
 a - by (at, in, on)  
-a danke de - thanks to  
 a ke - where  
 a le - there  
 a line - online  
+a long - long (over a gread distance)  
+a longe dure - for a long time  
 a max - also (too, in addition)  
 a nove - just (recently)  
 a sababe de - because  
 a sube - under  
 a vere - truly (indeed, very)  
+a xukre de - thanks to  
 a zay - presenty (currently, now)  
 a zay den - today  
 abe - away  
@@ -329,7 +331,6 @@ basen - pool (basin)
 baske - basket (basketball hoop)  
 baske bol - basket ball  
 bate - eight (8)  
-batolun - August  
 batosenter - octopus  
 bata - duck  
 batakrote - platypus  
@@ -519,8 +520,6 @@ capati - flatbread (chapati, roti)
 care - four (4)  
 cargalope - gallop  
 cargon - square (tetragon)  
-caryom - Thursday  
-carlun - April  
 carme - charm (attraction)  
 cate - roof  
 cau - grass  
@@ -572,8 +571,7 @@ cese - pass (go)
 • sucese - succeed (go well,prosper)  
 cesium - caesium  
 cete - seven (7)  
-cetyom - Sunday  
-cetolun - July  
+ceti din - week  
 Cile - Chile  
 cili - pepper (capsicum)  
 cili fun - paprika  
@@ -657,7 +655,6 @@ dan - particle (grain, bullet)
 danosekure - bulletproof  
 dange - ring (toll, clang)  
 danger - bell  
-danke - thank (thanks, thank you)  
 danse - dance  
 dante - tooth  
 • danta - bite  
@@ -705,14 +702,18 @@ demokratia - democracy
 demokratiste - democrati  
 demomultia - population  
 demon - demon  
-den - day (daytime)  
-denyam - lunch  
+den - day (24 hours)  
+• denike - daily  
+den un - Monday  
+den du - Tuesday  
+den tri - Wednesday  
+den nelu - Thursday  
+den lima - Friday  
+den luka - Saturday  
+den ceti - Sunday  
 denge - wait  
-dese - ten (10)  
-desdullun - December  
-deskile - ten thousand  
-deslun - October  
-desunlun - November  
+des - ten (10)  
+deskilo - ten thousand  
 desen - drawing (design)  
 detal - detail  
 deu - god (deity)  
@@ -731,11 +732,6 @@ undevisme - monotheism
 deunagre - Devanagari alphabet  
 deusage - myth (divine story)  
 deusofia - theosophy  
-dex - country (land, state)  
-dexojen - citizen  
-• exdex - foreign country  
-• exdexe - foreign  
-di - 's (attributive postposition)  
 dike - direct (point, aim; direction; target, objective)  
 • diker - pointer (director)  
 • dikion - pointing (indication, deixis)  
@@ -815,6 +811,8 @@ droge - drug (intoxicating substance)
 Drugia - Bhutan  
 du - two (2)  
 • duple - double (twofold)  
+duple - twice  
+duplomene - double entendre  
 du o tri - a couple of  
 dua - pray (beg, entreat, implore; prayer)  
 • dusdua - curse (damn, malediction)  
@@ -824,11 +822,7 @@ duge - read
 duke - grief (sorrow, sadness; sad; grieve)  
 dulo fene - halve (divide by two)  
 dulgrafe - anaglyphic (stereoscopic)  
-dulyom - Tuesday  
 dulisme - dualism  
-dullun - February  
-dulmaro - twice  
-dulmene - double entendre  
 dulromanse - biromantic  
 dulsexe - bisexual  
 dulsonde - stereophonic  
@@ -1309,6 +1303,10 @@ gluten - gluten
 glutofan - clay  
 glutograf - sticker  
 go sube - go under  
+gogia - country (land, state)  
+• exgogia - foreign country  
+• gogian - citizen  
+• exgogian - foreign  
 gol - goal (destination; destine, set)  
 golem - golem  
 gom - rubber (latex, eraser)  
@@ -1643,6 +1641,7 @@ jeng - fight (war, battle, combat)
 jenge - military (martial, warlike)  
 • jenger - warrior (fighter)  
 jengoxute - martial art  
+jenju - pearl  
 Jerzi - Jersey  
 jete - thrust (throw,cast)  
 • jetaje - projectile (missile)  
@@ -2106,9 +2105,6 @@ langan - banister (handrail)
 Lanka - Sri Lanka (Ceylon)  
 lantanium - lanthanum  
 larve - larva (maggot, caterpillar)  
-las - leftover (residue, vestige)  
-lase - leave behind (abandon, let go)  
-lasu - stay behind (linger)  
 laste - elastic  
 lasun - garlic  
 late - side (flank)  
@@ -2129,6 +2125,8 @@ lau - elder
 lave - old (aged, elderly)  
 lave - Lao (Laotian)  
 laurensium - lawrencium  
+laxe - loose (laxe; loosen, let loose, let go)  
+• relaxe - relax  
 laze - garbage (rubbish, trash)  
 lazanya - lasagna  
 lazure - azure  
@@ -2183,9 +2181,7 @@ lime - limit (boundary)
 lime - five (5)  
 limfas - pentahedron (prism)  
 limgon - pentagon  
-limyom - Friday  
 • limite - limited (finite)  
-limlun - May  
 limotranse - too much (over limit)  
 anlimitia - infinity  
 limon - lemon  
@@ -2216,6 +2212,8 @@ liste - list (listing, catalogue)
 inliste - table of contents (inventory)  
 litium - lithium  
 litre - litre (liter)  
+live - stay behind (remain, linger; leave behind)  
+• livaje - rest (remainder)  
 livermorium - livermorium  
 lobake - radish  
 loge - say (talk, speak, tell; speech)  
@@ -2228,21 +2226,17 @@ loge - say (talk, speak, tell; speech)
 logaslia - etymology  
 logironia - verbal irony (sarcasm)  
 loje - research (to study)  
-lojia - science (study, research)  
-loke - place (location)  
-loke - put (place, set)  
-loke - local  
-loku - be located (lie, be situated)  
+• lojia - science (study, research)  
+loke - place (location, situation; lie; put, set)  
+• lokike - local  
 lon - discussion (debate, discourse)  
 lone - debate (discuss)  
 lona biznes - negotiate (arrange)  
 London - London  
-longe - lengthen (prolong)  
 longe - long (lengthy)  
-longia - length  
-longo - long (over a gread distance)  
+• longia - length  
+• longife - lengthen (prolong)  
 longodure - long (long-lasting, prolonged)  
-longoduro - for a long time  
 longokrokodil - crocodile  
 longopipre - long pepper (pipli)  
 lontre - otter  
@@ -2254,11 +2248,22 @@ luge - green
 • lugia - registry (account)  
 lugomelon - honeydew (green melon)  
 lugobuke - logbook  
-lul - pearl  
-lune - moon  
-lun - month  
+lun - moon  
 • lunule - moonlet (lunula)  
+lun - month  
+lun un - January  
+lun du - February  
 lun tri - March  
+lun nelu - April  
+lun lima - May  
+lun luka - June  
+lun ceti - July  
+lun bati - August  
+lun nuve - September  
+lun des - October  
+lun des un - November  
+lun des du - December  
+lun den - date (month and day)  
 lunokeke - mooncake  
 lung - dragon  
 lusun - asparagus  
@@ -2400,6 +2405,7 @@ maxobale - reinforce (replenish)
 maxobalaje - reinforcements  
 maxbone - bonus  
 maxdarge - increment  
+maxolivaje - leftover (surplus, residue, vestige)  
 maxorai - overestimate  
 maxin - machine  
 maze - sock (stocking)  
@@ -2718,7 +2724,7 @@ nekre - dead (deceised)
 • nekrotome - autopsy (necrotomy)  
 nen - year  
 nenfeste - anniversary  
-nenmesyom - date  
+nen lun den - date (year, month and day)  
 nenufar - water lily (nenuphar)  
 neodimium - neodymium  
 neon - neon  
@@ -2807,7 +2813,6 @@ novofite - neophyte plant
 novojene - newborn  
 novoyange - modern  
 novologe - neologism  
-novolun - September  
 nude - naked (bare, nude)  
 • nudisme - nudism  
 • nudiste - nudist  
@@ -3350,7 +3355,6 @@ renium - rhenium
 rentogenium - roentgenium  
 resete - instructions (recipe)  
 reside - receipt (acknowledgement; acknowledge)  
-reste - remain (stay; rest, remainder)  
 restorante - restaurant  
 Reunion - Réunion  
 rezin - resin  
@@ -3651,7 +3655,6 @@ siro - zero (none)
 sise - six (6)  
 sisfas - hexahedron (cube)  
 sisgon - hexagon  
-sisyom - Saturday  
 sisme - shake (jolt, earthquake)  
 sismolojia - seismology  
 sistem - system  
@@ -3736,6 +3739,7 @@ stude - study (work in order to practise or demonstrate)
 • studaje - study (work made in order to practise or demonstrate)  
 • studente - learner (student)  
 • studer - student  
+su - 's (attributive postposition)  
 su- - good (well)  
 suahili - Swahili  
 sual - ask (inquire; question, query, inquiry)  
@@ -4072,8 +4076,6 @@ Unite State de Amerika (USA) - United States of America (USA)
 unale - each other (one another, mutually; mutual)  
 unemisme - monism  
 Uni Arabi Amiria (UAA) - United Arab Emirates  
-unoyom - Monday  
-unolun - January  
 unomaro - once  
 unomene - unambiguous  
 unoki lense - monocle  
@@ -4307,7 +4309,6 @@ xite - shit (poop, feces)
 Xiva - Shiva  
 xixe - impale (stab, skewer)  
 sis - skewer  
-sislun - June  
 sismanse - shashlik  
 xofe - drive (steer)  
 • xofer - chauffeur (driver)  
@@ -4315,6 +4316,8 @@ xoke - shock (collision)
 xope - buy (purchase, shop; shopping)  
 xoper - buyer  
 xou - show (display; exhibition)  
+xukre - thank (thanks, thank you)  
+xukria - gratitude (thankfulness)  
 xul - lesson (teaching)  
 xule - learn (study)  
 xulia - education (schooling)  
@@ -4384,10 +4387,9 @@ yodium - iodine
 yoge - yoga  
 • yogiste - yogi  
 yogur - yogurt  
-yohani feste - Saint John's Day  
-yom - day (24 hours)  
-yomcete - week  
-yom tri - Wednesday  
+yohan feste - Saint John's Day  
+yom - day (daytime)  
+yomyam - lunch  
 yon - ion  
 yon rade - radioactive  
 yon radia - radioactivity (ionizing radiation)  

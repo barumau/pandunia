@@ -2,9 +2,10 @@
 
 ## A  
 
-a danke de - graças a  
 a ke - onde  
 a line - online  
+a longe dure - por muito tempo  
+a xukre de - graças a  
 abete - abeto  
 able - possível  
 aci - espirrar  
@@ -223,7 +224,6 @@ camaca - colher
 canse - chance  
 cantergrupe - coro  
 care - quatro (4)  
-caryom - quinta-feira  
 carme - charme  
 ceke - cheque  
 celolojia - citologia  
@@ -244,7 +244,6 @@ cerize - cereja
 • sucese - prosperar  
 cesium - césio  
 cete - sete (7)  
-cetyom - domingo  
 cili - cápsico  
 cinbrusben - primo  
 cinmai - avó  
@@ -285,7 +284,15 @@ debu - dever
 defkaske - armadura  
 defoban - escudo  
 dege - ter (achar, receber)  
-den - dia  
+den - dia (24 horas)  
+• denike - diário  
+den un - segunda-feira  
+den du - terça-feira  
+den tri - quarta-feira  
+den nelu - quinta-feira  
+den lima - sexta-feira  
+den luka - sábado  
+den ceti - domingo  
 deu - deus  
 deunagre - devanágari  
 deusofia - teosofia  
@@ -322,7 +329,6 @@ du - dois (2)
 dubnium - dúbnio  
 duce - ducha  
 duge - ler  
-dulyom - terça-feira  
 dunia - mundo  
 duna - duna (бархан)  
 dur - durar (transcorrer; duração)  
@@ -478,6 +484,7 @@ glute - colar (aderir)
 glutobende - penso (band-aid)  
 glutofan - argila  
 glutograf - adesivo  
+gogia - país  
 gol - meta (gol)  
 • diagone - diagonal  
 gorile - gorila  
@@ -591,6 +598,7 @@ jau - cevada
 jeke - emprestar (pedir emprestado)  
 jekocepe - pedir emprestado  
 jekodone - emprestar  
+jenju - pérola  
 • jetaje - projétil  
 • projete - projeto  
 • projetaje - projeto  
@@ -763,13 +771,13 @@ lalobavite - rubi
 lama - lama  
 lampe - lâmpada (luminária)  
 lantanium - lantâno  
-lase - deixar  
 lasun - alho  
 late - lado  
 late - lateral  
 Latvia - Letónia  
 lave - idoso  
 laurensium - lawrêncio  
+laxe - deixar  
 laze - refugo (escória)  
 lazanya - lasanha  
 lazure - azur (blau)  
@@ -792,7 +800,6 @@ lile - pequeno
 lilkaboge - abobrinha  
 lilite - pedrinha  
 lime - cinco (5)  
-limyom - sexta-feira  
 • limite - limitado  
 limon - limão  
 limon jus - limonada  
@@ -809,22 +816,22 @@ lisan - língua
 liste - lista  
 litium - lítio  
 litre - litro  
+live - deixar  
+• livaje - resto  
 livermorium - livermório  
 loge - falar  
 • duologia - bilogia  
 • euloge - elogio  
 logaslia - etimologia  
-loke - lugar (local)  
-loke - colocar (pôr)  
-loke - local  
+loke - lugar (local; colocar, pôr)  
+• lokike - local  
 longe - longo  
 longodure - prolongado  
-longoduro - por muito tempo  
 longokrokodil - crocodilo  
 lontre - lontra  
 love - vazar  
 luge - verde  
-lune - lua  
+lun - lua  
 lun - mês  
 lunokeke - bolo lunar  
 luter - ladrão  
@@ -1220,7 +1227,6 @@ rel - real
 rel televizion - televisão de realidade  
 renium - rénio  
 rentogenium - roentgênio  
-reste - resto  
 ri- - repetição  
 rim - rima  
 ring - anel  
@@ -1324,7 +1330,6 @@ silke - seda
 sire - ocultar (esconder)  
 sirplan - complô (conspiração)  
 sise - seis (6)  
-sisyom - sábado  
 site - cidade  
 skale - escalar  
 skandium - escândio  
@@ -1457,7 +1462,6 @@ tuze - coelho (lebre)
 un - um (1)  
 • unike - único (só)  
 • uniko - unicamente  
-unoyom - segunda-feira  
 unomaro - uma vez  
 unoki lense - monóculo  
 ure - urra  
@@ -1555,6 +1559,7 @@ Xiva - Xiva
 xofe - conduzir  
 • xofer - condutor (chofer, motorista)  
 xope - comprar (compras)  
+xukre - obrigado  
 xul - lição  
 xule - aprender  
 xulia - educação  
@@ -1584,7 +1589,7 @@ jen - pessoa
 yodium - iodo  
 • yogiste - iogui  
 yogur - iogurte  
-yom tri - quarta-feira  
+yom - dia  
 yterbium - itérbio  
 ytrium - itrio  
 yuge - jugo  

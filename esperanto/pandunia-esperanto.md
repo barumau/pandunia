@@ -2,12 +2,12 @@
 
 ## A  
 
-a danke de - dank’al  
 a ke - kie  
 a le - tie  
 a max - ankaŭ  
 a nove - ĵus  
 a sababe de - ĉar  
+a xukre de - dank’al  
 a zay den - hodiaŭ  
 abete - abio  
 able - povi  
@@ -272,7 +272,6 @@ cante - kanto
 cantergrupe - ĥoro  
 cape - presaĵo  
 care - kvar (4)  
-caryom - ĵaŭdo  
 cate - tekto  
 cau - herbo  
 ceke - ĉeko  
@@ -294,7 +293,7 @@ ceresium - cerio
 • sucese - sukcesi  
 cesium - cezio  
 cete - sep (7)  
-cetyom - dimanĉosunnuntai  
+ceti din - semajno  
 Cile - Ĉilio  
 cimpanze - ĉimpanzo  
 cine - hana  
@@ -332,7 +331,6 @@ daisite - urbego
 dake - kovrilo  
 dane - dana  
 Dania - Danio  
-danke - danki (dankon)  
 danse - danco  
 dante - dento  
 • danta - mordi  
@@ -356,11 +354,17 @@ demografia - demografio
 demokrate - demokratia  
 demokratia - demokratio  
 demon - demono  
-den - tago  
-denyam - tagmanĝo  
+den - tago (periodo de 24 horoj)  
+den un - luno  
+den du - mardo  
+den tri - merredo  
+den nelu - ĵaŭdo  
+den lima - vendredo  
+den luka - sabato  
+den ceti - dimanĉosunnuntai  
 denge - atendi  
-dese - dek (10)  
-deskile - dek miloj  
+des - dek (10)  
+deskilo - dek miloj  
 desen - desegno  
 detal - detalo  
 deu - dio  
@@ -369,9 +373,6 @@ deu - dio
 • deukratia - teokratio  
 • deulojia - teologio  
 deusage - mito  
-dex - lando  
-• exdex - fremda lando  
-di - propra (partiklo de posedo)  
 dike - direkti (celi; direkto, celo)  
 din - religio  
 • diniste - kredulo  
@@ -410,7 +411,6 @@ dubnium - dubnio
 duce - duŝo  
 duge - legi  
 duke - malĝoja  
-dulyom - mardo  
 duman - fumo  
 dunia - mondo  
 dunia lingue - mondlingvo  
@@ -619,6 +619,8 @@ globe - tera
 glute - gluo  
 gluten - gluteno  
 glutograf - glumarko  
+gogia - lando  
+• exgogia - fremda lando  
 gol - golo  
 gom - kaŭĉuko  
 gone - angulo  
@@ -789,6 +791,7 @@ jebe - poŝo
 jenisme - Ĝajnismo  
 jeng - milito (batalo)  
 jenge - milita  
+jenju - perlo  
 jin - vera  
 jinje - zingibro  
 jongle - ĵongli  
@@ -1006,7 +1009,6 @@ lilbol - bobelo
 lilsite - urbeto  
 lilite - ŝtoneto  
 lime - kvin (5)  
-limyom - vendredo  
 limotranse - tro  
 limon - citrono  
 limonrange - flava  
@@ -1026,23 +1028,22 @@ lisan - lango
 liste - listo  
 litium - litio  
 litre - litro  
+live - lasi  
 lobake - rafaneto  
 loge - paroli  
 • logive - parolema  
 logaslia - etimologio  
-lojia - scienco  
-loke - loko  
-loke - lokigi  
-loke - loka  
-longe - longigi  
+• lojia - scienco  
+loke - loko (lokigi)  
+• lokike - loka  
 longe - longa  
+• longife - longigi  
 love - liki  
 lova sang - sangi  
 luge - registri  
 luge - verda  
 • lugia - registro (konto)  
-lul - perlo  
-lune - luno  
+lun - luno  
 lun - monato  
 lute - rabi  
 luter - rabisto  
@@ -1216,7 +1217,7 @@ naze - nazo
 nefre - reno  
 • nekrotome - obdukcio (nekropsio)  
 nen - jaro  
-nenmesyom - dato  
+nen lun den - dato  
 neon - neono  
 Nepotun - Neptuno  
 nepotunium - neptunio  
@@ -1583,7 +1584,6 @@ sinakapse - torako
 sing - leono  
 Singapur - Singapuro  
 sirke - ĉirkaŭi  
-sisyom - sabato  
 sismolojia - sismologio  
 sistem - sistemo  
 site - urbo  
@@ -1617,6 +1617,7 @@ strontium - stroncio
 • destrute - detrui  
 • studente - lernanto (studento)  
 • studer - studento  
+su - propra (partiklo de posedo)  
 suahili - sŭahili  
 sual - demandi  
 • sualive - demandanta  
@@ -1743,7 +1744,6 @@ un - unu (1)
 • uniko - sole (nur)  
 unale - unu la alian (reciproke)  
 unemisme - monismo  
-unoyom - luno  
 unomaro - unufoje  
 unoki lense - monoklo  
 volfe - lupo  
@@ -1837,6 +1837,7 @@ xofe - konduki
 xope - aĉeti  
 xoper - aĉetanto (aĉetisto)  
 xou - montri (ekspozicii)  
+xukre - danki (dankon)  
 xul - leciono  
 xule - lerni (studi)  
 xulane - instrui  
@@ -1874,9 +1875,8 @@ yo xei - io
 yodium - jodo  
 yoge - jogo  
 yogur - jogurto  
-yom - tago (periodo de 24 horoj)  
-yomcete - semajno  
-yom tri - merredo  
+yom - tago  
+yomyam - tagmanĝo  
 yon - iono  
 yterbium - iterbio  
 ytrium - itrio  

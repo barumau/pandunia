@@ -1,5 +1,5 @@
 # english–pandunia
-'s (attributive postposition) - di  
+'s (attributive postposition) - su  
 -ic (a person or thing with specific character) - ike  
 @ symbol - adresoharfe  
 
@@ -179,7 +179,7 @@ approach (get near) - karibu
 approve - bonraye  
 approximate - aprosime  
 apricot - barkoke  
-April - carlun  
+April - lun nelu  
 aqua (teal) - hainile  
 Arabic - arabe  
 arachnophobia - aranofobia  
@@ -255,7 +255,7 @@ attract - atrate
 attractive - atrative  
 attribute (charasteristic, quality, feature, description, property) - sif  
 augment (increase, rise; boom, peak, apex, zenith, heyday) - auge  
-August - batolun  
+August - lun bati  
 auspicious (promising) - bonsinye  
 Australia - Australia  
 Australian Aboriginal - aslaustrale  
@@ -344,7 +344,6 @@ be - si
 be about (discuss as a subject) - teme  
 be beside (accompany) - late  
 be called (be named) - name  
-be located (lie, be situated) - loku  
 be worth - valu  
 beacon (lighthouse) - fotominar  
 bean or pea (legume) - dou  
@@ -721,7 +720,7 @@ cinematography - kinografia
 cinephile (filmaholic) - kinofilike  
 circle (round) - sirke  
 citizen - cive  
-citizen - dexojen  
+citizen - gogian  
 citrus fruit - limonike  
 city (town) - site  
 civic - civike  
@@ -923,7 +922,7 @@ coulomb (unit) - kulombe
 counsel - konsele  
 counselor (consultant) - konseler  
 counterclockwise (anticlockwise) - rotolefto  
-country (land, state) - dex  
+country (land, state) - gogia  
 countryside (rural, rustic) - agrostan  
 coupon - kupon  
 court of law (court of law) - judokan  
@@ -993,6 +992,7 @@ Côte d’Ivoire (Ivory Coast) - Kote Da Ivar
 
 dad (papa) - pe  
 dagger - kanzar  
+daily - denike  
 daimyo oak - dantobalute  
 daisy - margarite  
 damage (injury, harm) - avar  
@@ -1009,11 +1009,12 @@ data (numeric information) - date
 data analysis - datofenkate  
 data table (matrix) - datotable  
 database (databank) - datobanke  
-date - nenmesyom  
+date (month and day) - lun den  
+date (year, month and day) - nen lun den  
 date fruit - tamar  
 daughter - femi pute  
-day (24 hours) - yom  
-day (daytime) - den  
+day (24 hours) - den  
+day (daytime) - yom  
 deactivate (disable,turn off) - deative  
 deactivate (turn off) - deativate  
 dead (deceased) - morte  
@@ -1022,7 +1023,7 @@ death - morte
 debate (discuss) - lone  
 debug - degalte  
 decay (rot, deteriorate) - pudu  
-December - desdullun  
+December - lun des du  
 deci- - deci  
 decibel - decibel  
 declaim (protest, object vociferously) - deklame  
@@ -1156,7 +1157,7 @@ donkey (ass) - gade
 door (gate) - mun  
 dot (spot) - binde  
 double (twofold) - duple  
-double entendre - dulmene  
+double entendre - duplomene  
 doubt (suspect) - xanke  
 downgrade - dusdarge  
 download - netogete  
@@ -1421,7 +1422,7 @@ fear (phobia) - fobia
 fear (scare; frighten; scared, afraid) - fobe  
 feather - pere  
 feature (product of work) - feture  
-February - dullun  
+February - lun du  
 feces (shit, poop) - feke  
 fee (fare) - taxe  
 feel (sense by touch) - sente  
@@ -1502,14 +1503,14 @@ fool (buffoon) - bufon
 foot - fute  
 football (soccer) - futobol  
 footprint - futomarke  
-for a long time - longoduro  
+for a long time - a longe dure  
 for example - misalo  
 forbid (ban, disallow) - harame  
 forbidden (illicit, haram, taboo) - harame  
 force (strength, power) - balia  
 force (violence) - zor  
-foreign - exdexe  
-foreign country - exdex  
+foreign - exgogian  
+foreign country - exgogia  
 forenoon - suboden  
 foresee (anticipate,preview) - previde  
 forest (woods) - van:  
@@ -1542,7 +1543,7 @@ French Guiana - Fransi Guyana
 French Polynesia - Fransi Polnesia  
 frequency - polimaria  
 fresh - taze  
-Friday - limyom  
+Friday - den lima  
 friend (friendly, kind, nice, gentle) - doste  
 friendship - dostia  
 frog - krokroke  
@@ -1681,6 +1682,7 @@ graphics card (video card) - grafokarte
 grass (hashish) - hasis  
 grass - cau  
 grassland (prairie) - caustan  
+gratitude (thankfulness) - xukria  
 grave (tomb; bury) - gabre  
 gravel - grave  
 graveyard (cemetery,burial ground) - gabrostan  
@@ -2034,7 +2036,7 @@ Jainism - jenisme
 Jakarta - Jakarta  
 Jamaica - Jamaika  
 jamul (jambul, rose apple) - jambul  
-January - unolun  
+January - lun un  
 Japan - Nipon  
 Japanese - nipone  
 jasmine - malike  
@@ -2063,11 +2065,11 @@ judo - judau
 juggle - jongle  
 juggler - jongler  
 juice - jus  
-July - cetolun  
+July - lun ceti  
 jump - jampe  
 junction - juntion  
 juncture (junction,intersection) - junture  
-June - sislun  
+June - lun luka  
 jungle - jangle van  
 Jupiter - jupiter  
 just (exactly, precisely) - justo  
@@ -2171,19 +2173,18 @@ learner (student) - studente
 leash (rein) - lidolin  
 least (minimal) - minime  
 leave (go out, exit) - cute  
-leave behind (abandon, let go) - lase  
 Lebanon - Libanen  
 leek - porei  
 left - lefte  
 left hand - lefte  
 leftist (left-winger) - leftiste  
-leftover (residue, vestige) - las  
+leftover (surplus, residue, vestige) - maxolivaje  
 leg - futoxake  
 lemon - limon  
 lemonade - limon jus  
 lend - jekodone  
 length - longia  
-lengthen (prolong) - longe  
+lengthen (prolong) - longife  
 lens - lense  
 Lesotho - Soto  
 less - min  
@@ -2249,7 +2250,7 @@ livermorium - livermorium
 lizard - saure  
 llama - liame  
 loanword - jekolexe  
-local - loke  
+local - lokike  
 lock (fasten) - sore  
 lock (fastener) - sor  
 log (trunk) - mokotan  
@@ -2261,12 +2262,13 @@ logophilia - logofilia
 London - London  
 long (lengthy) - longe  
 long (long-lasting, prolonged) - longodure  
-long (over a gread distance) - longo  
+long (over a gread distance) - a long  
 long pepper (pipli) - longopipre  
 longitude - vestodongia  
 longitudinal (vertical) - ginge  
 look (see; view, vision) - vide  
 loom - texomaxin  
+loose (laxe; loosen, let loose, let go) - laxe  
 lord (owner) - malike  
 lose (fail, miss, be defeated) - sibaye  
 lose (shed, miss, misplace) - sibaya tene  
@@ -2282,7 +2284,7 @@ loyal (faithful, trustworthy) - yausinable
 loyalty (faithfulness) - yausinablia  
 luggage (baggage) - bagaje  
 lump (nodule) - nodule  
-lunch - denyam  
+lunch - yomyam  
 lung - pulmon  
 lush - luxe  
 lusophone (Portuguese speaking) - portugalfone  
@@ -2401,7 +2403,7 @@ Mauritania - Muritania
 Mauritius - Moris  
 maximize - maximife  
 maximum - maximaje  
-May - limlun  
+May - lun lima  
 Maya - mayan  
 maybe (perhaps, possibly) - ablo  
 Mayotte - Mayote  
@@ -2514,7 +2516,7 @@ molybdenum - molidenium
 mom (mama) - me  
 momentary - sate di  
 Monaco - Monako  
-Monday - unoyom  
+Monday - den un  
 money - pese  
 Mongol - mongole  
 Mongolia - Mongolia  
@@ -2533,7 +2535,7 @@ Montenegro - Cernagore
 month - lun  
 monument (memorial) - membin  
 mood (emotional state) - emoshal  
-moon - lune  
+moon - lun  
 mooncake - lunokeke  
 moonlet (lunula) - lunule  
 morality (ethics; moral) - deke  
@@ -2707,7 +2709,7 @@ notice (notification) - notize
 notify - notife  
 noun - namloge  
 novelty (new product) - novaje  
-November - desunlun  
+November - lun des un  
 novice (newbie) - novike  
 nuclear energy - kori energia  
 nuclear fission - kori fenia  
@@ -2733,7 +2735,7 @@ obvious (evident) - exvidable
 ocean - daihai  
 Oceania - Oceania  
 ocelot - oselote  
-October - deslun  
+October - lun des  
 octopus - batosenter  
 ocular - oke  
 odd (strange, weird) - bizar  
@@ -2927,7 +2929,7 @@ payment - pei
 peace - pace  
 peanut (groundnut) - geodou  
 pear - leze  
-pearl - lul  
+pearl - jenju  
 peat - turfe  
 pebble (gravel) - lilite  
 pedagogue - pedogider  
@@ -3018,7 +3020,7 @@ Pitcairn Islands - Pitkerne nesia
 pixel - grafeme  
 pizza - pize  
 pizzeria - pizokan  
-place (location) - loke  
+place (location, situation; lie; put, set) - loke  
 plain (ordinary, unadorned, simple, mere) - sade  
 plain (plateau, flat lands) - platostan  
 plan - plan  
@@ -3209,7 +3211,6 @@ Punjabi - panzabe
 purple (violet) - violete  
 push - puse  
 put (arrange, set into a certain relation, state or condition) - pute  
-put (place, set) - loke  
 put back (postpone) - pospoze  
 put back (postpone) - pospoze  
 put in (impose) - inpoze  
@@ -3313,10 +3314,10 @@ reinforce (replenish) - maxobale
 reinforcements - maxobalaje  
 reject (throw back) - rejete  
 relationship (association, connection) - guanse  
+relax - relaxe  
 relic - cenaje  
 religion (worship) - din  
 reluctant - anice  
-remain (stay; rest, remainder) - reste  
 remember (recall) - meme  
 remove (delete, dispose, erase) - dezay  
 remove (delete,dispose,erase) - depoze  
@@ -3346,6 +3347,7 @@ reserve (book; reservation, booking, withholding) - rezerve
 resin - rezin  
 respect (honor, esteem) - onor  
 respect (honor, think highly of) - onore  
+rest (remainder) - livaje  
 rest (repose) - repause  
 rest in peace (RIP) - repause in pace (RIP)  
 restaurant - restorante  
@@ -3451,7 +3453,7 @@ sago palm - sagu
 Sahrawi Arab Democratic Republic - Saharia  
 sail - nave  
 sailer - naver  
-Saint John's Day - yohani feste  
+Saint John's Day - yohan feste  
 Saint Kitts - Sante Kitse  
 Saint Kitts and Nevis - Sante Kitse e Nevis  
 Saint Lucia - Sante Lucia  
@@ -3474,7 +3476,7 @@ sapling - yune moke
 Satanism (devil worship) - xatanisme  
 Satanist - xataniste  
 satsuma mandarin - venzovorange  
-Saturday - sisyom  
+Saturday - den luka  
 Saturn - Saturne  
 sauce - saus  
 Saudi Arabia - Saudi Arabia  
@@ -3552,7 +3554,7 @@ sense (perceive, detect) - sense
 sensor (detector) - sensor  
 sentence (phrase) - gumle  
 sentence-ending particle for commands - ba  
-September - novolun  
+September - lun nuve  
 Serbia - Serbia  
 series (sequence) - seria  
 series (sequence,succession) - sere  
@@ -3771,7 +3773,7 @@ starship - astronau
 state (condition, status, situation) - hal  
 static (stationary) - statike  
 station - statia  
-stay behind (linger) - lasu  
+stay behind (remain, linger; leave behind) - live  
 steal (theft) - core  
 stealth - siri mote  
 steam (vapor) - suigas  
@@ -3834,7 +3836,7 @@ sum up (add together) - sume
 summer - garmomosim  
 summon (add, spawn) - zayife  
 sun - sol  
-Sunday - cetyom  
+Sunday - den ceti  
 sunflower - soloful  
 superb (wonderful, super) - supere  
 supply (dispense, issue, put out) - fade  
@@ -3936,8 +3938,8 @@ Telugu - teluge
 temperature - terme  
 temple (place of worship) - puzokan  
 tempt (entice) - tente  
-ten (10) - dese  
-ten thousand - deskile  
+ten (10) - des  
+ten thousand - deskilo  
 tend to - ive  
 tendency (inclination) - ivia  
 Tennessee - Tenese  
@@ -3963,8 +3965,8 @@ Thai - Tai
 Thailand - Tai dexia  
 thallium - talium  
 than (as, compared to) - ce  
-thank (thanks, thank you) - danke  
-thanks to - a danke de  
+thank (thanks, thank you) - xukre  
+thanks to - a xukre de  
 that is (in other words, i.e., alias) - alonamo  
 the - la  
 the Grenadines - Grenadin nesia  
@@ -3997,7 +3999,7 @@ thrust (throw,cast) - jete
 thulium - tulium  
 thunder (roaring) - grom  
 thunderstorm - gromtafun  
-Thursday - caryom  
+Thursday - den nelu  
 Tibet - Botia  
 tick (mite) - akare  
 ticket - tikete  
@@ -4105,7 +4107,7 @@ trust (surely, verily, amen) - amen
 try (attempt) - teste  
 tube (pipe) - tube  
 tuber (bulb) - masmul  
-Tuesday - dulyom  
+Tuesday - den du  
 tulip - tulpe  
 tuna - tune  
 tundra - tundre  
@@ -4127,7 +4129,7 @@ turn toward (direct, flip; versus) - verse
 turquoise gem - firuze  
 turtle (tortoise) - tortuge  
 Tuvalu - Tuvalu  
-twice - dulmaro  
+twice - duple  
 twinkle (sparkle) - xingofote  
 two (2) - du  
 type (kind, genre) - tipe  
@@ -4304,8 +4306,8 @@ wear (dress, put on) - fuku
 weather - tenhal  
 weave - texe  
 website - netoloke  
-Wednesday - yom tri  
-week - yomcete  
+Wednesday - den tri  
+week - ceti din  
 weep (cry) - vava  
 weft - veilin  
 weigh (have weight) - vezu  

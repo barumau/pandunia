@@ -4,6 +4,8 @@
 
 a - в  
 a line - онлайн  
+a long - далеко  
+a longe dure - долго  
 abete - пихта  
 acari - марино́ванный  
 aci - чихать  
@@ -237,7 +239,6 @@ camaca - ложка
 canse - возможность (шанс)  
 cantergrupe - хор  
 care - четыре (4)  
-caryom - четверг  
 carme - шарм  
 ceke - чек  
 celolojia - цитология  
@@ -257,7 +258,6 @@ cerize - черешня
 • sucese - преуспеть  
 cesium - цезий  
 cete - семь (7)  
-cetyom - воскресенье  
 cili - перец (паприка)  
 cine - хань  
 cinmai - бабушка  
@@ -303,7 +303,15 @@ de - из (от)
 defkaske - доспехи  
 defoban - щит  
 dege - получить  
-den - день  
+den - сутки  
+• denike - ежедневный  
+den un - понедельник  
+den du - вторник  
+den tri - среда  
+den nelu - четверг  
+den lima - пятница  
+den luka - суббота  
+den ceti - воскресенье  
 deu - бог  
 deunagre - деванагари  
 deusofia - теософия  
@@ -344,7 +352,6 @@ du o tri - пара
 dubnium - дубний, ²нильсборий  
 duce - душ  
 duge - читать  
-dulyom - вторник  
 dunia - мир (свет)  
 duna - дюна  
 dur - длиться  
@@ -507,6 +514,7 @@ glute - клеиться
 glutobende - пластырь  
 glutofan - глина  
 glutograf - наклейка  
+gogia - страна (государство)  
 gol - цель  
 gom - резина (каучук, резинка, ластик)  
 • diagone - диагональный  
@@ -627,6 +635,7 @@ janelovel - штора (гардина)
 jangle - дикий  
 jangle van - джунгли  
 jau - ячмень  
+jenju - жемчуг  
 • jetaje - снаряд  
 • projete - проект  
 • projetaje - проект  
@@ -826,7 +835,6 @@ lile - маленький (малый)
 lilkaboge - цукини  
 lilite - галька  
 lime - пять (5)  
-limyom - пятница  
 • limite - ограниченный  
 limon - лимон  
 limonike - цитрус  
@@ -845,20 +853,18 @@ lisan - язык
 liste - список  
 litium - литий  
 litre - литр  
+• livaje - остаток  
 livermorium - ливерморий  
 loge - говорить (речь)  
 • euloge - панегирик  
 logaslia - этимология  
-loke - место  
-loke - ставить  
-longo - далеко  
+loke - место (ставить)  
 longodure - долгий (длительный)  
-longoduro - долго  
 longopipre - перец длинный  
 lontre - выдра  
 love - протекать (просочиться)  
 luge - зелёный  
-lune - луна  
+lun - луна  
 lun - месяц  
 lunokeke - лунный пирог  
 luter - грабитель  
@@ -1245,7 +1251,6 @@ rel - реальный (истинный,действительный)
 rel televizion - реалити-телевидение  
 renium - рений  
 rentogenium - рентгений  
-reste - остаток  
 ri- - повторение  
 rim - рифма  
 ringar - ринг (манеж)  
@@ -1367,7 +1372,6 @@ sire - скрывать
 sirplan - заговор (сговор)  
 sirkite - булыжник  
 sise - шесть (6)  
-sisyom - суббота  
 skale - подниматься  
 skandium - скандий  
 • skulter - скульптор  
@@ -1527,7 +1531,6 @@ tuze - кролик (заяц)
 un - один (1)  
 • unike - единственный (уникальный)  
 • uniko - только (единственно)  
-unoyom - понедельник  
 unomaro - один раз  
 unoki lense - монокль  
 ure - ура  
@@ -1631,6 +1634,7 @@ sismanse - шашлык
 • xofer - шофёр  
 xope - покупать (купить; покупка, шоппинг)  
 xou - доказать (демонстрировать)  
+xukre - спасибо  
 xul - урок (учение)  
 xule - учиться  
 xulia - образование  
@@ -1665,9 +1669,8 @@ yodium - йод
 yoge - йога  
 • yogiste - йог  
 yogur - йогурт  
-yohani feste - Иванов день  
-yom - сутки  
-yom tri - среда  
+yohan feste - Иванов день  
+yom - день (дневное время)  
 yterbium - иттербий  
 ytrium - иттрий  
 yuge - ярмо (иго)  

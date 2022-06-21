@@ -1,6 +1,6 @@
 # suomi–pandunia
 -llinen (kantasanalle ominaispiirteinen) - ike  
--n (oma) - di  
+-n (oma) - su  
 
 ## A  
 
@@ -123,7 +123,7 @@ anis - anis
 ankkuri - angar  
 annos - doze  
 anoppi - gamoma  
-ansiosta - a danke de  
+ansiosta - a xukre de  
 antaa - done  
 antaa anteeksi - mafe  
 Antarktis - Antartike  
@@ -363,7 +363,7 @@ elektroni - eletron
 elementti (yksinkertaisin yksikkö) - em  
 eli (toisin sanoen) - alonamo  
 elohopea - hurargente  
-elokuu - batolun  
+elokuu - lun bati  
 elokuva - kinograf  
 elokuvallinen - kinografe  
 elokuvataide - kinografia  
@@ -607,11 +607,11 @@ heijastus - reflexon
 heikko - anbale  
 heimo - tribe  
 heinä - gancau  
-heinäkuu - cetolun  
+heinäkuu - lun ceti  
 helikopteri - helisviman  
 helium - helium  
-helmi - lul  
-helmikuu - dullun  
+helmi - jenju  
+helmikuu - lun du  
 helppo - fasile  
 Helsinki - Helsinki  
 helvetti - narake  
@@ -682,7 +682,7 @@ hormoni - hormon
 hotelli - hotel  
 houkutella - tente  
 housut - pante  
-huhtikuu - carlun  
+huhtikuu - lun nelu  
 huippu - gau  
 huippu - pike  
 huivi (šaali) - xal  
@@ -919,14 +919,14 @@ joskus - yo sate
 joukkue (tiimi) - tim  
 joule (J) - jul  
 joulu - kristojen  
-joulukuu - desdullun  
+joulukuu - lun des du  
 jousiammunta - arkeria  
 jousiampuja - arker  
 jousisoitin - ticin  
 joustava (elastinen) - laste  
 judo - judau  
 juhannus (keskikesä, mittumaari) - garmomosimmedi den  
-juhannus (kristillinen juhla) - yohani feste  
+juhannus (kristillinen juhla) - yohan feste  
 juhlapäivä - festoden  
 juhlia (juhlat, pidot, bileet) - feste  
 jumala - deu  
@@ -963,12 +963,11 @@ järjestää (järjestellä) - ratibe
 järkeillä (käydä järkeen) - rate  
 järki (järkeily, päättely) - ration  
 jäsen (osatekijä, komponentti) - member  
-jäte (hylkytavara) - las  
-jättää (hylätä) - lase  
 jää - ais  
-jäädä (jäännös, loput) - reste  
+jäädä (jättää) - live  
 jääkiekko - aishoke  
 Jäämeri - Artiki Hai  
+jäännös (loput) - livaje  
 jäätelö - aiskrem  
 
 ## K  
@@ -982,7 +981,7 @@ kaasu - gas
 kade (kateellinen) - gelose  
 kadmium - kadium  
 kahdeksan (8) - bate  
-kahdesti (kaksi kertaa) - dulmaro  
+kahdesti (kaksi kertaa) - duple  
 kahista - xaxa  
 kahtiajako (dikotomia) - duotome  
 kahvi - kafe  
@@ -998,7 +997,7 @@ kaivaa mullasta (kaivaa haudasta) - exhume
 kakku (keksi) - keke  
 kaksi (2) - du  
 kaksikielinen - duolinguike  
-kaksimielinen (kaksimerkityksinen) - dulmene  
+kaksimielinen (kaksimerkityksinen) - duplomene  
 kaksisiipinen - zeze  
 kaktus - katus  
 kalastaja - pesosaider  
@@ -1037,7 +1036,7 @@ kansa - nas
 kansa - nasian  
 kansainvälinen - nasmede  
 kansakunta - nasia  
-kansalainen (valtion asukas) - dexojen  
+kansalainen (valtion asukas) - gogian  
 kansalaistaito - civopedia  
 kansallinen - nase  
 kansallissosialismi - nasi sosisme  
@@ -1090,7 +1089,7 @@ katsoja (tarkkailija) - speter
 kattava - inkluzive  
 kattila - ketle  
 katto (katos) - cate  
-kauan (pitkän aikaa) - longoduro  
+kauan (pitkän aikaa) - a longe dure  
 kauhu (terrori) - terure  
 kaukainen - tele  
 Kaukasia - Kaukasia  
@@ -1150,7 +1149,7 @@ keskittyminen (keskittymä) - fokus
 keskittää - fokuse  
 keskittää - zunga  
 keskiverto (keski-) - midi  
-keskiviikko - yom tri  
+keskiviikko - den tri  
 keskus (keskikohta) - zung  
 keskustelu (debatti) - lone  
 keskusteluhuone - blablakan  
@@ -1160,7 +1159,7 @@ kestää (kulua, viedä aikaa; kestoaika, kesto, aika) - dur
 kesy - dosile  
 kesyttää - dosile  
 kesä (suvi) - garmomosim  
-kesäkuu - sislun  
+kesäkuu - lun luka  
 ketju - serser  
 ketju - serser  
 ketjun lenkki - ser:  
@@ -1199,7 +1198,8 @@ kiinnostus (mielenkiinto) - savovol
 kiinteä - gatomate  
 kiirehtiä - yale  
 kiireinen - mange  
-kiittää (kiitos) - danke  
+kiitollisuus - xukria  
+kiittää (kiitos) - xukre  
 kiivi - kivi  
 kikherne - humus  
 kilistää (soittaa kelloa) - dange  
@@ -1409,7 +1409,7 @@ kutsua esiin (peräänkuuluttaa) - provoke
 kutsua takaisin - revoke  
 kutsua tykö - invoke  
 kutsumus - vokation  
-kuu - lune  
+kuu - lun  
 Kuuba - Kuba  
 kuukakku - lunokeke  
 kuukausi - lun  
@@ -1440,7 +1440,7 @@ kylmä - lenge
 kylpy (kylpeä) - banya  
 kylpyhuone - banyakamar  
 kylä - vilaje  
-kymmenen (10) - dese  
+kymmenen (10) - des  
 kynsi - nahun  
 kynttilä - mumfote  
 kynä - kalam  
@@ -1529,7 +1529,7 @@ latinalaiset aakkoset - latini harfia
 latinoida - latinkitabe  
 lattia - kamartal  
 Latvia - Latvia  
-lauantai - sisyom  
+lauantai - den luka  
 laukka - galope  
 laulaa (laulu) - cante  
 lauta (paneeli) - ban  
@@ -1625,7 +1625,7 @@ logofiili - logofiliste
 logəfiliə - logofilia  
 lohkare (järkäle) - dayite  
 loimi - gingolin  
-lokakuu - deslun  
+lokakuu - lun des  
 lokasuoja - fangodefoban  
 lokikirja - lugobuke  
 looginen - ratolojike  
@@ -1634,7 +1634,7 @@ loppu (loppua; lopettaa) - fin
 loppuliite (jälkiliite) - posfixe  
 loukkaus (herja, solvaus) - dusnam  
 loukkaus (törkeys) - ninde  
-lounas - denyam  
+lounas - yomyam  
 luhistua (sortua sisään) - inplozu  
 luhistua (sortua sisään) - inploze  
 luiska (ramppi) - rampe  
@@ -1702,13 +1702,14 @@ läsnäolo - zayia
 lätty (räiskäle, pannukakku) - krepe  
 lääketiede - medikia  
 lääkäri (tohtori) - mediker  
+löysä (löysätä, päästää menemään) - laxe  
 löytää (keksiä) - eureke  
 
 ## M  
 
 maa (maaperä) - gee  
 maa (multa; mutainen, likainen) - darte  
-maa (valtio) - dex  
+maa (valtio) - gogia  
 maahanmuuttaja - inmigrer  
 maailma - dunia  
 maailman- - globe  
@@ -1720,7 +1721,7 @@ maalata - pente
 maalata - pente  
 maali (päämäärä) - gol  
 maaliskuu - lun tri  
-maanantai - unoyom  
+maanantai - den un  
 maanjäristys - geosisme  
 maanmies - konpatrian  
 maantiede - geografia  
@@ -1780,7 +1781,7 @@ marja - beri
 markkinaliberalismi - bazarhurisme  
 marmori - kalsokristal  
 Marokko - Magribia  
-marraskuu - desunlun  
+marraskuu - lun des un  
 Mars - Marse  
 Marshall-saaret - Marshal nesia  
 massa - mas  
@@ -2024,7 +2025,7 @@ neuvontantaja (mentori) - menter
 neuvosto (raati) - ratokan  
 Nevis - Nevis  
 newton (N) - nuton  
-niedziela - cetyom  
+niedziela - den ceti  
 niellä - gule  
 Niger - Niger  
 Nigeria - Nigiria  
@@ -2207,8 +2208,8 @@ pah! (pyh!) - fi
 paha (epäsuotuisa, epämiellyttävä, vastustava) - duse  
 paha (epäsuotuisa,epämiellyttävä,vastustava) - dus  
 paheksua - dusraye  
-paikallinen - loke  
-paikka (sija, sijainti) - loke  
+paikallinen - lokike  
+paikka (sija, sijainti; sijaita; sijoittaa, asettaa) - loke  
 painaa (leimata, printata; leima, painauma) - cape  
 painaa (olla jkn painoinen) - vezu  
 painava - veze  
@@ -2263,7 +2264,6 @@ paneurooppalainen - paneurope
 pankki (talletuspaikka) - bankokan  
 pankkiiri - banker  
 panna (asettaa) - poze  
-panna (asettaa, sijoittaa) - loke  
 panna jkn maate - kuse  
 panna kokoon - konbine  
 panna sisään - intre  
@@ -2324,7 +2324,7 @@ perhonen - pelpel
 perimä (genomi) - genome  
 perimä (genotyyppi) - genotipe  
 perintö - varis  
-perjantai - limyom  
+perjantai - den lima  
 persia (farsi) - farse  
 Peru - Peru  
 peruna (potaatti) - patate  
@@ -2342,7 +2342,7 @@ peta- - peta
 petrologia - petrolojia  
 pian - suno  
 piano - piano  
-pidentää - longe  
+pidentää - longife  
 pieni (pienesti, vähän) - lile  
 pieru (pierrä, pieraista) - perde  
 pihdit - pinser  
@@ -2384,7 +2384,7 @@ pitkittäinen - ginge
 pitkä - longe  
 pitkäaikainen (pitkäkestoinen) - longodure  
 pitkäpippuri - longopipre  
-pitkästi (kauas) - longo  
+pitkästi (kauas) - a long  
 pitkästynyt - bore  
 pitsa (pizza) - pize  
 pitseria - pizokan  
@@ -2540,8 +2540,10 @@ pyörremyrsky (hurrikaani, taifuuni, tornado) - rototafun
 pyörä (polkupyörä, moottoripyörä) - sikle  
 pyörähdys (pyörintä) - rotation  
 pyöräilyn harrastaja - sikliste  
-päivä - den  
-päivämäärä - nenmesyom  
+päivittäinen - denike  
+päivä - yom  
+päivämäärä (kuu ja päivä) - lun den  
+päivämäärä (vuosi, kuu ja päivä) - nen lun den  
 päivänseisaus - solestas  
 päiväntasaaja - geoparlin  
 Päiväntasaajan Guinea - Geoparlini Ginia  
@@ -2622,6 +2624,7 @@ reikä - kong
 rekisteri (tili) - lugia  
 rengas (kehä) - ring  
 renium - renium  
+rentoutua (rentouttaa) - relaxe  
 repiä - cire  
 reportteri - reporter  
 reppu (rinkka) - rukosake  
@@ -2773,7 +2776,7 @@ sarvi - korne
 sarvikuono - kornonos  
 saslik - sismanse  
 sata (100) - cente  
-sata tuhatta - deskile  
+sata tuhatta - deskilo  
 satakieli - bulbul  
 satama - haiporte  
 satanismi (paholaisenpalvonta) - xatanisme  
@@ -2860,7 +2863,6 @@ siirtää taakse - pospoze
 siirtää taakse - pospoze  
 siitin (penis) - penis  
 siivooja - safer  
-sijaita - loku  
 sika (possu) - gurube  
 sikhi - sikiste  
 sikhiläisyys - sikisme  
@@ -3050,7 +3052,7 @@ syy (aiheuttaa, olla syynä) - sababe
 syyllinen - dose  
 syylä - veruke  
 Syyria - Suria  
-syyskuu - novolun  
+syyskuu - lun nuve  
 säde - rade  
 sädekehä (halo) - fotosirke  
 säe (riimi) - rim  
@@ -3119,7 +3121,7 @@ talvinen - lengomosime
 tamil (eräs intialainen kieli) - Tamil  
 tammenterho - balutopal  
 tammi - balute  
-tammikuu - unolun  
+tammikuu - lun un  
 tammipeli - dama gem  
 tanakh - tanah  
 tankki (säiliö) - tanke  
@@ -3241,7 +3243,7 @@ tietää (tuntea) - save
 Tiibet - Botia  
 tiikeri - bagre  
 tiili - binite  
-tiisai - dulyom  
+tiistai - den du  
 tikari - kanzar  
 tikka masala - masali tike  
 tila (tilanne, seikka) - hal  
@@ -3285,14 +3287,14 @@ topografia - topografia
 tori (basaari) - bazar  
 torium - torium  
 torni - minar  
-torstai - caryom  
+torstai - den nelu  
 torvi (torvisoitin) - buge  
 tosi (aito) - vere  
 tosi-TV - rel televizion  
 toteuttaa (konkretisoida) - relize  
 toteuttaa - verife  
 toukka - larve  
-toukokuu - limlun  
+toukokuu - lun lima  
 tragedia (murhenäytelmä) - tragodia  
 traktori - trator  
 Transdnistria - Nistria  
@@ -3412,8 +3414,8 @@ Uganda - Ganda
 ukkosmyrsky - gromtafun  
 Ukraina - Ukraina  
 ulkoinen (ulkopuolinen; ylimääräinen, ekstra) - extre  
-ulkomaa - exdex  
-ulkomaalainen - exdexe  
+ulkomaa - exgogia  
+ulkomaalainen - exgogian  
 ulkona (ulkopuolella) - extro  
 ulkopuoli (ulko-; ulkoinen) - exe  
 ulkopuolinen - exojen  
@@ -3606,7 +3608,7 @@ vihainen (suuttunut) - fure
 vihannes - coi  
 vihollinen - dusojen  
 vihreä - luge  
-viikko - yomcete  
+viikko - ceti din  
 viimeinen - finime  
 viina - arake  
 viini - vin  
@@ -3679,7 +3681,7 @@ vuokrata - kirogete
 vuono - fiorde  
 vuori (mäki) - monte  
 vuori (mäki) - san  
-vuorokausi - yom  
+vuorokausi - den  
 vuorovaikutteinen - interative  
 vuorovaikutus - intation  
 vuosi - nen  
@@ -3761,6 +3763,7 @@ yleiskiina (mandariinikiina) - Putong Cini
 ylenmääräinen - luxure  
 ylenmääräisyys (luksus) - luxuria  
 yliarvioida - maxorai  
+ylijäämä - maxolivaje  
 yliopisto - daixulkan  
 ylistys (ylistää, puhua hyvää, kehua) - euloge  
 ylistää - halele  
