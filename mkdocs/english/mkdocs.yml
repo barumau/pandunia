@@ -14,17 +14,17 @@ nav:
         - 'The basic rules': 100_baze_kanun.md
         - 'World words': 101_dunia_loga.md
         - 'Spelling and pronunciation': 102_ABC.md
-        - 'Word classes': 103_logatipe.md
+        - 'Word classes': 103_lexotipe.md
         - 'Pronouns': 104_viseloga.md
-        - 'Nouns': 105_namloga.md
+        - 'Nouns': 105_namolexe.md
         - 'Numerals': 106_nomer.md
-        - 'Modifiers': 107_modeloga.md
+        - 'Modifiers': 107_modolexe.md
         - 'Verbs': 108_karmaloga.md
         - 'Sentences': 109_jumla_bina.md
-        - 'Word building': 110_loga_bina.md
+        - 'Word building': 110_lexobine.md
     - 'Lessons':
         - 'Basic Phrases': 200_baze_jumla.md
-        - 'Course': 201_shula.md
+        - 'Course': 201_xule.md
     - 'Words':
         - 'Pandunia-English': pandunia-english.md
         - 'English-Pandunia': english-pandunia.md
