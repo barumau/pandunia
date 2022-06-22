@@ -27,7 +27,7 @@ It includes simpler grammar, more international word forms, and many new words.
 ## How to learn it?
 
 - [Pandunia in a nutshell](003_baze.md) (one short page only!)
-- [Lessons with Dialogs](201_shula.md)
+- [Lessons with Dialogs](201_xule.md)
 - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_shula.html)
 - [Phrasebook](200_baze_jumla.md)
@@ -43,7 +43,7 @@ It includes simpler grammar, more international word forms, and many new words.
 
 ## Articles
 
-- [Pandunia - a new world language](001_dunia_basha.md)
+- [Pandunia - a new world language](001_ration.md)
 - [On the semantics of Pandunia](120_semia.md)
 - [Adapting international words to Pandunia](403_loga_hapu.md)
 - [Mentions about Pandunia in other publications](makal_tema_pandunia.md)

@@ -565,14 +565,14 @@ The auxiliary verb **be** is used when the object of the action comes first in t
 (This is the so called passive sentence.)
 
     English:   Apples were eaten.
-    Pandunia:  aple bei yam.
+    Pandunia:  aple be yam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
-**bei** is a loan word from Standard Chinese,
+**be** is a loan word from Standard Chinese *bèi*,
 but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ye no bil bei yam.
+    Pandunia:  ye no bil be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".

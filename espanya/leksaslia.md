@@ -121,7 +121,7 @@
 **bau** *tesoro (precioso)* ← zho:宝 (bǎo), kor:보 (bo), vie:bảo, jpn:宝 (hō)  
 **bazar** *mercado (bazar)* ← fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, khm:ផ្សារ (psar)  
 **baze** *base (básico; fundar, basar)* ← eng:fra:por:spa:base, deu:Basis, rus:база (baza)  
-**be** *sufrir (verbo pasivo)* ← zho:被 (bèi)  
+**be** *sufrir (verbo pasivo)* ← zho:被 (bèi), yue:被 (bei6), wuu:被 (bé), jpn:被- (hi-), kor:피— (pi-), vie:bị + eng:be  
 **bebe** *bebé* ← fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)  
 **bede** *cama* ← eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede  
 **bedinge** *berenjena* ← hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani  
@@ -141,7 +141,7 @@
 **berze** *abedul* ← eng:birch, rus:берёза (ber’oza), hin:भूर्ज (bhūrj)  
 **bete** *remolacha* ← eng:beet, spa:betabel, por:beterraba, fra:betterave, deu:Bete, jpn:ビート (bīto)  
 **beton** *concreto (hormigón)* ← fra:béton, por:betão, deu:Beton, rus:бетон (beton), pol:tur:beton, fas:بتن‎ (beton)  
-**bia** *vida orgánica* ← eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)  
+**bie** *vida orgánica* ← eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)  
 **bil** *cuenta (factura)* ← eng:bill, hin:बिल (bil), may:bil  
 **bilor** *cristal* ← ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio  
 **binde** *punto (lunar)* ← hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)  
@@ -317,7 +317,6 @@
 **energe** *energía* ← eng:energy, spa:energía, por:energia, fra:énergie, rus:энергия (energiya), tur:enerji, fas:انرژی‎ (enerži), jpn:エネルギー (enerugī)  
 **enjener** *ingeniero* ← eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia)  
 **enzim** *enzima* ← eng:fra:enzyme, spa:por:enzima, rus:энзим (enzim), tur:may:enzim, ara:انزيم‎, fas:آنزیم‎ (ânzim)  
-**er** *hacedor (perpetrador)* ← eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro  
 **erbium** *erbio* ← eng:erbium, fra:erbium, spa:erbio, por:érbio, rus:эрбий, zho:铒 (ěr), jpn:エルビウム, kor:에르븀, vie:eribi, hin:अर्बियम, ben:ইরবিয়াম, may:erbium, swa:erbi, ara: إربيوم  
 **esei** *ensayo (redacción)* ← eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)  
 **eurasia** *Eurasia* ← eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)  
@@ -916,10 +915,10 @@
 **molia** *molino* ← zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)  
 **molidenium** *molibdeno* ← eng:molybdenum, fra:molybdène, spa:molibdeno, por:molibdénio, rus:молибден, zho:钼 (mù), jpn:モリブデン, kor:몰리브덴, vie:molypđen, hin:मोलिब्डेनम, ben:মলিবডেনাম, may:molibden, swa:molibdeni, ara: مولبيدنيوم  
 **moluske** *molusco* ← eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)  
-**monoster** *monstro* ← eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)  
+**monster** *monstro* ← eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)  
 **monte** *montaña (monte)* ← eng:mountain, por:spa:monte, fra:montaigne  
 **morfe** *morfo* ← eng:morph, spa:morfo, rus:морф (morf)  
-**morte** *muerto* ← por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)  
+**morte** *morirse (muerte; muerto)* ← por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)  
 **mos** *musgo* ← eng:moss, spa:por:musgo, fra:mousse, deu:Moos, rus:мох (mox), hin:मॉस (mosa)  
 **mosim** *estación (temporada)* ← ara: موسم (mawsim), hin:मौसम (mausam), may:musim, tur:mevsim, swa:msimu + eng:monsoon, fra:mousson, por:monção, rus:муссон  
 **moskite** *mosquito* ← eng:spa:por:mosquito, fra:moustique, deu:Moskito, rus:моски́т (moskít), ben:মশা (môśa), kor:모기 (mogi)  
@@ -1088,7 +1087,7 @@
 **pirater** *pirata* ← eng:fra:pirate, spa:por:pirata, deu:Pirat, rus:пират (pirat) + jpn:パイレーシ (pairēshi)  
 **pis** *pis (meados)* ← eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis  
 **pistol** *pistola* ← eng:pistol, spa:por:pistola, fra:pistolet, rus:пистолет (pitolet), hin:पिस्तौल (pistaul), ben:পিস্তল (piśtôl)  
-**pize** *pizza* ← ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)  
+**piza** *pizza* ← ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)  
 **plan** *plan* ← eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)  
 **planete** *planeta* ← eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)  
 **plastike** *plástico* ← eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)  
@@ -1557,6 +1556,7 @@
 **zung** *centro* ← zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-), vie:trung  
 **–i** *sufijo para adjetivos* ← ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-い (-i), hun:-i  
 **–ia** *sufijo para regiónes y sustantivos abstractos* ← spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)  
+**–r** *hacedor (perpetrador)* ← deu:eng:-er, fra:-eur, spa:-ero, por:-eiro, rus:-арь (-arʹ)  
 **• agrese** *agresión (ataque)* ← eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif  
 **• ater** *agente* ← eng:actor, -ator, fra:-ateur, spa:por:-ador  
 **• balia** *fuerza* ← hin:बल (bal), ben:বল (bôl), may:bala, tel:బలము (balamu), tha:พล (pon), พละ (pá-lá)  

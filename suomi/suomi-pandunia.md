@@ -200,6 +200,8 @@ aurinkovarjo - solocate
 Australia - Australia  
 Austronesia - Austronesia  
 auto (automobiili) - motogar  
+automaatti - automate  
+automaattinen (itsetoimiva) - automatike  
 autonominen - autonome  
 avain - cabe  
 avara (aava, aukea) - medene  
@@ -659,7 +661,7 @@ hindulaisuus (hinduismi) - hindisme
 Hindustan - Hindia  
 hindustanin kieli - hindostane  
 hinta (maksu) - koste  
-hirviö - monoster  
+hirviö - monster  
 historia (aikakirjat) - histore  
 historia (oppiaine) - historia  
 historioitsija - historer  
@@ -856,6 +858,7 @@ itkupilli - vava bebe
 itse - se  
 itsehallinto (autonomia) - autonomia  
 itseliikkuva - automote  
+itsenäinen tekijä (auktori) - auter  
 itseys (minuus; itseä koskeva, henkilökohtainen) - aute  
 itä - dong  
 Itä-Timor - Dongi Timor  
@@ -1386,12 +1389,10 @@ kunnioittaa - onore
 kunnioitus (arvostus) - onor  
 kuntosali (punttisali) - balokan  
 kuokka - cope  
-kuolema (kuolo) - morte  
 kuolemanjälkeinen - posmortal  
 kuolevainen - mortal  
 kuolinluettelo - nekroliste  
-kuolla - mortu  
-kuollut (vainaa) - morte  
+kuolla (kuolema, kuolo; kuollut, vainaa) - morte  
 kuoppa (kolo) - kavaje  
 kuori (suojakuori) - kaske  
 kuorma (lasti, lataus, taakka, paino) - karge  
@@ -1803,7 +1804,7 @@ matkia (imitoida) - mime
 matkija (imitaattori) - mimer  
 mato - verme  
 Mauritania - Muritania  
-Mauritius - Moris  
+Mauritius - Maurisia  
 mauste - masale  
 maya (mayaintiaani) - mayan  
 Mayotte - Mayote  
@@ -2160,7 +2161,7 @@ optimisti - otimiste
 optio (preferenssi) - otion  
 oranssi - orangi  
 orava - ekore  
-orgaaninen elämä - bia  
+orgaaninen elämä - bie  
 orgasmi - orgazme  
 orija (eräs intialainen kieli) - odise  
 Oromia - Oromia  
@@ -2389,8 +2390,8 @@ pitkäaikainen (pitkäkestoinen) - longodure
 pitkäpippuri - longopipre  
 pitkästi (kauas) - a long  
 pitkästynyt - bore  
-pitsa (pizza) - pize  
-pitseria - pizokan  
+pitsa (pizza) - piza  
+pitseria (pizzeria) - pizaria  
 pituus - longia  
 pitäisi - selu  
 pitää (tykätä, olla tyytyväinen jstkn) - suku  
@@ -3144,7 +3145,7 @@ tapa - mode
 tapaaminen (kokous) - mite  
 tapaus (seikka) - kas  
 tapetti - murkaguze  
-tappaa - morte  
+tappaa - mortife  
 tappaja - morter  
 tarha (puisto) - parke  
 tarkastaa uudelleen - rivide  
@@ -3193,7 +3194,7 @@ teidän - tumon su
 teippi (nauha) - tepe  
 teismi (jumalusko) - devisme  
 teisti - deviste  
-tekijä (aikaansaaja) - er  
+tekijä (aikaansaaja) - –r  
 tekijä (luoja) - gener  
 tekijä (toimija) - ater  
 tekijä (toimija) - feter  
@@ -3461,6 +3462,7 @@ uskonnoton - andiniste
 uskonnoton - ankrediste  
 uskonto - din  
 uskottava - kredable  
+uskottu (luotettu) - bekrede  
 uskovainen - diniste  
 uskovainen - krediste  
 utelias (tiedonhaluinen) - savovolane  

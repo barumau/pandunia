@@ -91,9 +91,9 @@ astronau - звездолёт
 astronomia - астрономия  
 • astronomer - астроном  
 ate - действие (акт)  
-• ater - деятель  
 • ation - действие (акция)  
 • ative - активный (деятельный)  
+• ater - деятель  
 • ature - труд  
 • reate - реагировать  
 • reation - реакция  
@@ -104,7 +104,9 @@ avar - повреждение (авария)
 aven - овёс  
 aure - золото  
 Austronesia - Австронезия  
+• auter - автор  
 autologe - монолог  
+automatike - автомати́ческий  
 axe - ось  
 
 ## B  
@@ -162,11 +164,11 @@ bazoxulkan - семилетка
 bazostrute - инфраструктура  
 bazar - рынок (базар)  
 bebe - младенец  
-beker - хлебопёк (пекарь)  
 bekofan - терракота  
 bekokan - пекарня (булочная)  
-• rebeler - бунтовщик (повстанец, мятежник)  
+beker - хлебопёк (пекарь)  
 • rebelion - восстание (мятеж, бунт)  
+• rebeler - бунтовщик (повстанец, мятежник)  
 belce - лопата  
 beranda - балкон  
 beri - ягода  
@@ -174,7 +176,7 @@ berilium - бериллий
 berkelium - берклий  
 berze - берёза  
 bete - свёкла  
-bia - организм  
+bie - организм  
 biocaniver - компост  
 bioginse - биологический пол  
 biolojia - биология  
@@ -212,8 +214,8 @@ bromium - бром
 brune - коричневый  
 brunalge - бурые водоросли  
 brunsalmon - кумжа  
-• bucer - мясник  
 • bucokan - бойня  
+• bucer - мясник  
 Buda - Будда  
 bufete - буфет  
 bugete - бюджет  
@@ -407,8 +409,8 @@ fer - железо
 fermium - фермий  
 fete - делать  
 fete - факт  
-• feter - фактор  
 • fetokan - завод (фабрика)  
+• feter - фактор  
 • exfete - эффект  
 • infetion - инфекция  
 • parafete - побочный эффект  
@@ -500,9 +502,9 @@ genotipe - генотип
 gense - пол  
 gensolojia - гендерные исследования  
 gere - война  
-• gerer - воин (боец, солдат)  
 • gerile - партизанская война (герилья)  
 • geriler - партизан  
+• gerer - воин (боец, солдат)  
 germanium - германий  
 gestolingue - язык жестов  
 gidobuke - путеводитель  
@@ -644,8 +646,8 @@ jenju - жемчуг
 jinje - имбирь  
 jongle - жонглировать  
 • jongler - жонглёр  
-• juder - судья  
 • judokan - суд (трибунал)  
+• juder - судья  
 • exjude - внесудебный  
 jul - джоуль (J)  
 • juntion - соединение  
@@ -692,8 +694,8 @@ kantalupomelon - канталупа
 kanzar - кинжал  
 kapotruke - ловушка  
 kare - работать  
-karer - работник  
 karloge - глагол  
+karer - работник  
 karbe - углерод  
 karboduloxide - двуокись углерода  
 karbosui - углевод  
@@ -984,8 +986,8 @@ mos - мох
 mosim - время года (сезон)  
 Moskove - Москва  
 moskovium - московий  
-moter - мотор  
 motor skuter - мотороллер (скутер)  
+moter - мотор  
 motosikle - мотоцикл  
 mul - корень  
 • mumaje - мумиё  
@@ -1171,7 +1173,8 @@ pinsoban - планшет
 pipre - перец  
 piprominte - мята перечная  
 piram - пирамида  
-pize - пицца  
+piza - пицца  
+pizaria - пиццерия  
 plan - план  
 • explanete - экзопланета (внесолнечная планета)  
 plaste - лепить  
@@ -1578,9 +1581,9 @@ vestogoril - западная горилла
 veze - тяжёлый  
 vezu - весить  
 vide - видеть  
-• vider - зрительница  
 • vidion - видение  
 vidopunte - перспектива (точки зрения)  
+• vider - зрительница  
 • dusvide - безобразный (некрасивый)  
 • exvide - очевидный  
 • previde - предвидеть  

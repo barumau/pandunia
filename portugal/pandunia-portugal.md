@@ -44,8 +44,8 @@ almari - armário
 aluminium - alumínio  
 ame - amor (amar; querido, caro)  
 • amater - amador  
-• amer - amante  
 • amike - querido  
+• amer - amante  
 ama - mas  
 amerikium - amerício  
 ancovi - anchova  
@@ -87,10 +87,10 @@ astronau - astronave
 astronomia - astronomia  
 • astronomer - astrónomo  
 ate - ato  
-• ater - agente  
 • ation - ação  
 • ative - ativo  
 • anative - inativo  
+• ater - agente  
 • ature - obra  
 • dusate - malfeitoria (pecado)  
 • reate - reagir  
@@ -102,7 +102,9 @@ aven - aveia
 auge - auge (aumentar)  
 aure - ouro  
 Austronesia - Austronésia  
+• auter - autor  
 autologe - monólogo  
+automatike - automático  
 
 ## B  
 
@@ -125,8 +127,8 @@ ban - painel
 banogem - jogo de tabuleiro  
 banan - banana  
 bande - bando  
-• banker - banqueiro  
 • bankokan - banco  
+• banker - banqueiro  
 bankorute - bancarrota (falido)  
 bankorutia - bancarrota (falência)  
 banse - bambu  
@@ -157,12 +159,12 @@ bazostrute - infraestrutura
 bazar - mercado (bazar)  
 bebe - bebê  
 bedinge - beringela  
-beker - padeiro  
 bekofan - terracota  
+beker - padeiro  
 • belente - beligerante  
 • belike - bélico  
-• rebeler - rebelde  
 • rebelion - rebelião  
+• rebeler - rebelde  
 belce - pá  
 ben - filho ou filha  
 beranda - sacada (varanda)  
@@ -170,7 +172,7 @@ beri - baga
 berilium - berílio  
 berkelium - berqueélio  
 berze - bétula  
-bia - organismo  
+bie - organismo  
 biolojia - biología  
 biomute - fermentar  
 biosistem - bioma  
@@ -201,8 +203,8 @@ bromium - bromo
 brune - castanho (marrom)  
 brunsalmon - truta-marrom  
 buce - abater  
-• bucer - açougueiro (talhante)  
 • bucokan - matadouro  
+• bucer - açougueiro (talhante)  
 Buda - Buda  
 buke - livro  
 bum - explosão  
@@ -235,8 +237,8 @@ centaure - centáurea
 • acepe - aceitar  
 • intercepe - interceptar  
 • recepe - receber  
-• receper - receptor  
 • recepion - recepção  
+• receper - receptor  
 ceresium - cério  
 cerize - cereja  
 • acese - acesso (acceder)  
@@ -459,9 +461,9 @@ geometria - geometria
 geopolitike - geopolítica  
 • abogee - apogeu  
 • gelatine - gelatina  
-• rigenerate - regenerar  
 • geneti - genético  
 • genolojia - genealogia  
+• rigenerate - regenerar  
 • exogene - exógeno  
 • ingene - endógeno  
 genobase - língua materna  
@@ -469,9 +471,9 @@ genostan - terra natal
 genotipe - genótipo  
 gense - sexo  
 gere - guerra  
-• gerer - guerreiro  
 • gerile - guerrilha  
 • geriler - guerrilheiro  
+• gerer - guerreiro  
 Germania - Germânia  
 germanium - germânio  
 gestolingue - linguagem de sinais  
@@ -608,8 +610,8 @@ jetografe - projeção
 jinje - jengibre  
 jongle - fazer malabarismo  
 • jongler - malabarista  
-• juder - juiz  
 • judokan - tribunal  
+• juder - juiz  
 • exjude - extrajudicial  
 jul - joule (J)  
 • juntion - junção  
@@ -653,8 +655,8 @@ Kantalupo va Sabine - Cantalupo in Sabina
 kantalupomelon - meloa (cantalupo)  
 kapotruke - armadilha  
 kare - trabalhar  
-karer - trabalhador  
 karloge - verbo  
+karer - trabalhador  
 • duskar - malfeitoria (pecado)  
 Karaibia - Caribe  
 karau - alcaravia (cariz)  
@@ -957,8 +959,8 @@ monte - montanha (monte)
 mos - musgo  
 mosim - estação (sazão)  
 moskovium - moscovio  
-moter - motor  
 motor skuter - motoneta (lambreta)  
+moter - motor  
 mul - raíz  
 • mumike - múmia  
 mur - muro (muralha)  
@@ -1144,6 +1146,7 @@ pipre - pimenta
 piprominte - hortelã-pimenta  
 piram - pirâmida  
 piratia - pirataria  
+pizaria - pizzaria  
 plan - plano  
 • explanete - exoplaneta (planeta extrassolar)  
 plaste - moldar (modelar)  
@@ -1161,8 +1164,8 @@ plutonium - plutónio
 bio - вошь  
 Polinesia - Polinésia  
 polite - governo  
-politer - administrador  
 politomode - regime  
+politer - administrador  
 polskium - polónio  
 pore - poro  
 • porosi - poroso  

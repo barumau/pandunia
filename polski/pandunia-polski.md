@@ -213,8 +213,8 @@ bangle - banglijski
 Banglodex - Bangladesz  
 banyakamar - łazienka  
 banke - oszczędzać (deponować)  
-• banker - bankier  
 • bankokan - bank  
+• banker - bankier  
 banse - bambus  
 banya - kąpiel (kąpać się)  
 bar - bar  
@@ -250,9 +250,9 @@ bau - skarb (skrabiec; cenny)
 bavite - klejnot  
 baze - podstawa (baza, fundament; bazowy; zakładać (założyć, ustanowić)  
 baze bol - bejsbol (baseball)  
-bazer - założyciel  
 bazokanun - konstytucja  
 bazopetre - skała macierzysta  
+bazer - założyciel  
 bazoxulkan - szkoła podstawowa  
 bazar - rynek, bazar  
 bazarhurisme - liberalizm rynkowy  
@@ -263,9 +263,9 @@ bedinge - bakłażan, oberżyna
 bege - uciec, uciekać  
 Beijing - Pekin  
 beke - piec  
-beker - piekarz  
 bekofan - terakota  
 bekokan - piekarnia  
+beker - piekarz  
 bel - bel  
 • rebelion - rebelia, powstanie  
 Belarus - Białoruś  
@@ -286,7 +286,7 @@ Bermuda - Bermudy
 berze - brzoza  
 bete - burak  
 beton - beton  
-bia - życie organiczne  
+bie - życie organiczne  
 biocaniver - kompost  
 bioginse - płeć biologiczna  
 biolojia - biologia (nauka o życiu)  
@@ -473,8 +473,8 @@ cuze - wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)
 
 dai - duży  
 • dayia - rozmiar  
-dayangiler - ambasador  
 dayangilkan - ambasada  
+dayangiler - ambasador  
 daidarge - wzmacniać (wzmocnić)  
 daidom - pałac  
 daihai - ocean  
@@ -524,8 +524,8 @@ debu - musieć
 deci - decy-, dziesiąta część  
 decibel - decybel  
 defe - obronić (chronić; obrona)  
-• defer - obrońca  
 defkaske - zbroja  
+• defer - obrońca  
 defoban - tarcza  
 dege - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 deger - odbiorca  
@@ -678,7 +678,6 @@ englokitabe - anglizować (zanglizować)
 englomargarite - stokrotka pospolita  
 enjener - inżynier  
 enzim - enzym  
-er - przyrostek dla wykonawcy  
 erbium - erb  
 Eris - Eris (planeta karłowata)  
 Eritria - Erytrea  
@@ -747,9 +746,9 @@ feste - przyjęcie (święto, festiwal)
 festoden - święto  
 fete - zrobić (stworzyć, wykreować)  
 fete - zrobić (czyn, uczynek)  
+• fetokan - fabryka, manufaktura  
 • feter - twórca (czynnik)  
 • feteria - fabryka, manufaktura  
-• fetokan - fabryka, manufaktura  
 • infetion - infekcja (zakażenie)  
 • perfete - perfekcyjny  
 • rifete - powtórzyć, powtarzać  
@@ -805,8 +804,8 @@ fotobaton - pochochodnia (latarka)
 fotofrike - polerować (szlifować)  
 fotograf - zdjęcie (fotografia)  
 fotografia - fotografia  
-fotografer - fotograf  
 fotografmaxin - kamera, aparat fotograficzny  
+fotografer - fotograf  
 fotominar - latarnia morska  
 fotorade - promień światła  
 fotosirke - efekt halo  
@@ -1179,9 +1178,9 @@ ifrite - ifrit
 ike - -owy (-ny, okazujący cechę)  
 impere - władać, panować, rządzić jako imperator  
 imperia - imperium  
-imperer - imperator  
 imperisme - imperializm  
 imperiste - imperialista  
+imperer - imperator  
 in - wnętrze (środek)  
 ine - wewnętrzny  
 intre - wewnętrzny  
@@ -1233,8 +1232,8 @@ jekocepe - pożyczać (pożyczyć)
 jekodone - pożyczać komuś (pożyczyć komuś)  
 jekolexe - zapożyczenie (wyraz obcy)  
 jele - uwięzić, więzić, pozbawić wolności  
-• jeler - strażnik więzienny  
 • jelokan - więzienie, zakład karny  
+• jeler - strażnik więzienny  
 jenisme - dźinizm, dżinizm  
 jeng - walka, wojna  
 jenge - militarny, wojskowy, wojenny  
@@ -1253,8 +1252,8 @@ jinje - imbir
 joke - żart  
 joker - żartowniś, dowcipniś  
 jude - sądzić (osądzić; wyrok)  
-• juder - sędzia  
 • judokan - sąd (trybunał)  
+• juder - sędzia  
 judau - judo  
 jul - dżul (J)  
 jupe - spódnica  
@@ -1340,11 +1339,11 @@ kapa pes - łapać rybę
 kapotruke - pułapka  
 kar - wóz, wózek  
 kare - pracować  
-karer - pracownik  
 karloge - czasownik  
 karmeze - biurko  
 karmise - przedstawić (przedłożyć, przedstawić, złożyć, składać)  
 karparke - parking  
+karer - pracownik  
 karxuler - praktykant  
 Karaibia - Karaiby  
 karaoke - karaoke  
@@ -1469,9 +1468,9 @@ kola jus - kola, napój gazowany
 Kolombia - Kolumbia  
 kolone - kolonizować  
 kolonia - kolonia, osada  
-koloner - kolonizator  
 kolonisme - kolonializm  
 koloniste - kolonialista  
+koloner - kolonizator  
 kolum - kolumna, filar  
 kome - przecinek  
 komodia - komedia  
@@ -1582,8 +1581,8 @@ kube - sześcian
 Kuba - Kuba  
 kuke - gotować, szykować jedzenie  
 Kuke nesia - Wyspy Cooka  
-kuker - kucharz  
 kukokamar - kuchnia  
+kuker - kucharz  
 kuku - kukułka  
 kule - świetny  
 kulombe - kulomb  
@@ -1799,8 +1798,8 @@ makanful - mlecz
 makas - nożyce, nożyczki  
 Makau - Makau  
 male - mieć (posiadać; własność, mienie)  
-• maler - właściciel (posiadacz)  
 • malonomia - ekonomia  
+• maler - właściciel (posiadacz)  
 • be male - należeć  
 malagas - madagaskarski; malagaski  
 Malagasia - Madagaskar  
@@ -1974,8 +1973,8 @@ mirdu - niknąć (blaknąć, gasnąć, słabnąć)
 mise - wysłać (wyemitować)  
 • misia - misja  
 • misaje - wiadomość  
-• miser - nadawca  
 • misioner - misjonarz  
+• miser - nadawca  
 • inmise - importować (zaimportować)  
 • konmisia - komisja (komitet)  
 misal - przykład  
@@ -2012,17 +2011,15 @@ moluske - mięczak (morski bezkręgowiec)
 Monako - Monako  
 mongole - Mongolski  
 Mongolia - Mongolia  
-monoster - potwór, monstrum  
+monster - potwór, monstrum  
 monte - góra, wzgórze  
 morfe - morf  
 morfem - morfem  
 morfeme - morfem  
-Moris - Mauritius  
-morte - śmierć  
-morte - zabić, zabijać  
-morte - martwy, nieżywy, zabity  
-mortu - umrzeć, umierać  
-morter - zabójca  
+Maurisia - Mauritius  
+morte - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)  
+• mortife - zabić, zabijać  
+• morter - zabójca  
 • posmortal - pośmiertny  
 mos - mech  
 mosim - pora roku  
@@ -2030,8 +2027,8 @@ moskite - komar, moskit
 Moskove - Moskwa  
 moskovium - moskovium  
 mote - ruch  
-moter - silnik  
 motogar - samochód (automobil)  
+moter - silnik  
 motosikle - motocykl (motor)  
 Mozambike - Mozambik  
 mudan - piwonia  
@@ -2115,9 +2112,9 @@ nasibe - przeznaczenie, los
 natrium - sód  
 nau - łódź, statek  
 nave - żeglować (płynąć)  
-naver - żeglarz (marynarz)  
 naukaper - kaper (korsarz)  
 naulefte - bakburta (lewa burta)  
+naver - żeglarz (marynarz)  
 nauraite - sterburta (prawa burta)  
 nauxefe - kapitan  
 navate - nahuatl  
@@ -2223,8 +2220,8 @@ odise - orija
 ofis - urząd, pozycja, stanowisko, funkcja  
 ofise - oficjalny  
 ofisia - biuro, urząd  
-ofiser - funkcjonariusz, urzędnik  
 ofiskan - biuro (pokój)  
+ofiser - funkcjonariusz, urzędnik  
 oke - oko  
 oke - patrzeć (oglądać)  
 okokex - rzęsa  
@@ -2409,15 +2406,15 @@ pipre - pieprz
 piprominte - mięta pieprzowa  
 piram - piramida  
 piratia - piractwo  
-pirater - pirat  
 piratiste - pirat (osoba naruszająca prawa własności intelektualnej)  
 piratisti partia - Partia Piratów  
+pirater - pirat  
 pis - siki  
 pise - sikać, szczać, oddawać mocz  
 pistol - pistolet  
 Pitkerne nesia - Pitcairn  
-pize - pizza  
-pizokan - pizzeria  
+piza - pizza  
+pizaria - pizzeria  
 plan - plan  
 plane - planować  
 planete - planeta  
@@ -2462,8 +2459,8 @@ polske - polski
 polskium - polon  
 pompe - pompować  
 ponte - wskazać, wskazywać  
-ponter - wskaźnik  
 pontopin - kompas (namagnesowana igła)  
+ponter - wskaźnik  
 porei - por  
 porne - porno, film erotyczny  
 pornografia - pornografia  
@@ -2542,6 +2539,7 @@ puzorite - rytuał, ceremonia, ryt
 
 ## R  
 
+–r - przyrostek dla wykonawcy  
 rade - promień  
 rade - promieniować  
 radi geter - radio  
@@ -2667,9 +2665,9 @@ sade - zwykły, zwyczajny, prosty
 safe - czysty (wyczyścić, czyścić)  
 • safer - sprzątacz, sprzątacz  
 safar - podróż (podróżować)  
-• safarer - podróżnik  
 • safarisme - turystyka  
 • safariste - turysta  
+• safarer - podróżnik  
 safran - szafran  
 sage - opowiadanie (opowieść, legenda, saga; opowiedzieć, opowiadać)  
 sagu - sago  
@@ -2720,8 +2718,8 @@ Sante Vincente - Saint Vincent
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanze - wiatrak (wentylator)  
 sapate - but  
-sapater - szewc  
 sapatokan - warsztat szewski  
+sapater - szewc  
 sar - głowa  
 sarkaske - hełm  
 saroste - czaszka  
@@ -3127,8 +3125,8 @@ toxe - trucizna (toksyna; toksyczny, trujący)
 tragodia - tragedia  
 transe - przejazd, przewóz, tranzyt  
 transe - przejść, przechodzić, przejechać, przejeżdżać  
-transeria - transport  
 transogone - przekątny  
+transeria - transport  
 • trator - traktor (ciągnik)  
 tren - pociąg  
 trendau - kolej  
@@ -3264,8 +3262,8 @@ veze metal - metal ciężki
 vezometrer - waga (urządzenie ważące)  
 vide - widzieć (patrzeć)  
 • vidaje - widok (wzrok)  
-• vider - obserwator (widz)  
 vidopunte - perspektywa (punkt widzenia)  
+• vider - obserwator (widz)  
 • dusvide - brzydki  
 • anprevide - niespodziewany  
 vidomeden - pole widzenia  
@@ -3369,8 +3367,8 @@ xukre - dziękować (dzięki)
 xul - lekcja  
 xule - nauczyć się, uczyć się, studiować  
 xulaner - nauczyciel  
-xuler - uczeń, student  
 xulkan - szkoła (instytucja)  
+xuler - uczeń, student  
 xulxefe - dyrektor szkoły  
 xure - zaczyna (początek; zacząć, rozpoczynać, rozpocząć)  
 xute - umiejętność (kompetencja)  

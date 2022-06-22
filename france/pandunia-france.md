@@ -68,8 +68,8 @@ aluminmate - alun
 aluminoxide - alumine (oxyde d'aluminium)  
 ame - aimer (amour, affection; cher)  
 • amater - amateur  
-• amer - amoureux  
 • amike - chéri  
+• amer - amoureux  
 • aname - exécrer  
 • anamike - ennemi  
 ama - mais  
@@ -153,9 +153,9 @@ astronomia - astronomie
 Asur - Assur  
 Asuria - Assyrie  
 ate - acte  
-• ater - agent (faiseur)  
 • ation - action  
 • ative - actif (activer, allumer, mettre en marche)  
+• ater - agent (faiseur)  
 • ature - œuvre  
 • dusate - méfait (péché)  
 • reate - réagir  
@@ -172,7 +172,9 @@ auge - augmenter
 aure - or  
 Australia - Australie  
 Austronesia - Austronésie  
+• auter - auteur  
 autologe - monologue  
+automatike - automatique  
 axe - axe  
 Azerbaizan - Azerbaijan  
 
@@ -251,13 +253,13 @@ bazostrute - infrastructure
 bazar - marché (bazar)  
 bebe - bébé  
 bedinge - aubergine  
-beker - boulanger  
 bekofan - terre cuite  
+beker - boulanger  
 • belente - belligérant  
 • belike - belliqueux  
 • belikisme - bellicisme  
-• rebeler - rebelle  
 • rebelion - rébellion  
+• rebeler - rebelle  
 belce - pelle  
 ben - fils ou fille  
 beranda - balcon  
@@ -266,7 +268,7 @@ berilium - béryllium
 berkelium - berkélium  
 berze - bouleau  
 bete - betterave  
-bia - organisme  
+bie - organisme  
 biocaniver - compost  
 biolojia - biologie  
 biomute - fermenter  
@@ -301,8 +303,8 @@ brune - brun (marron)
 brunalge - algues brunes  
 brunsalmon - truite brune (truite de mer)  
 buce - abattre  
-• bucer - boucher  
 • bucokan - abattoir  
+• bucer - boucher  
 Buda - Bouddha  
 bugete - budget  
 buke - livre  
@@ -338,8 +340,8 @@ centaure - Centaurée
 • acepe - accepter  
 • intercepe - intercepter  
 • recepe - recevoir  
-• receper - receveur (récepteur)  
 • recepion - réception  
+• receper - receveur (récepteur)  
 ceresium - cérium  
 cerize - cerise  
 • acese - accès (accéder)  
@@ -602,10 +604,10 @@ geoterme - géothermique
 • abogee - apogée  
 gele - gelée  
 • gelatine - gélatine  
-• rigenerate - régénérer  
 • geneti - génétique  
 • genite - élever  
 • genolojia - généalogie  
+• rigenerate - régénérer  
 • ingene - endogène  
 genobase - langue maternelle  
 genoloke - lieu de naissance  
@@ -613,9 +615,9 @@ genotipe - génotype
 gense - sexe  
 gensolojia - études de genre  
 gere - guerre  
-• gerer - guerrier  
 • gerile - guérilla  
 • geriler - partisan (guérillero)  
+• gerer - guerrier  
 Germania - Germanie  
 germanium - germanium  
 gestolingue - langue des signes  
@@ -641,8 +643,8 @@ grafosage - bande dessinée
 granite - granit  
 grave - gravire  
 • agrese - agression (attaque; agresser, attaquer)  
-• agreser - agresseur  
 • agresive - agressif  
+• agreser - agresseur  
 grimas - grimace  
 grupe - groupe  
 guipapil - pavot d'Orient  
@@ -770,8 +772,8 @@ jetografe - projeter (image projection)
 jinje - gingembre  
 jongle - jongler  
 • jongler - jongleur  
-• juder - juje  
 • judokan - tribunal (cour de justice)  
+• juder - juje  
 • exjude - extrajudiciaire  
 jul - joule (J)  
 • juntion - jonction  
@@ -815,9 +817,9 @@ kano - canoë
 Kantalupo va Sabine - Cantalupo in Sabina  
 kapotruke - piège  
 kare - travailler  
-karer - travailleur (ouvrier)  
 karloge - verbe  
 karmise - soumettre  
+karer - travailleur (ouvrier)  
 • duskar - méfait (péché)  
 Karaibia - Caraïbes  
 karbe - carbone  
@@ -1023,8 +1025,8 @@ mai - mère (maman)
 maitnerium - meitnérium  
 makanful - dandélion  
 male - propriété (possession, bien)  
-• maler - possédant (propriétaire)  
 • malonomia - économie  
+• maler - possédant (propriétaire)  
 • be male - appartenir à  
 mam - sein  
 mange - occupé  
@@ -1126,8 +1128,8 @@ molidenium - molybdène
 mos - mousse  
 mosim - saison  
 moskovium - moscovium  
-moter - moteur  
 motor skuter - scooter  
+moter - moteur  
 muke - visage  
 mul - racine  
 • mumike - momie  
@@ -1330,7 +1332,8 @@ pipre - poivre
 piprominte - menthe poivrée  
 piram - pyramide  
 piratia - piraterie  
-pize - pizza  
+piza - pizza  
+pizaria - pizzeria  
 plan - plan  
 • explanete - exoplanète  
 plaste - modeler  
@@ -1817,9 +1820,9 @@ xule - apprendre (étudier)
 xulia - éducation  
 xulane - enseigner  
 xulaner - professeur (enseignant)  
-xuler - étudiant  
 xulkamar - salle de classe  
 xulkan - école (collège)  
+xuler - étudiant  
 xulxefe - directeur (principal)  
 xure - début (commencement)  
 

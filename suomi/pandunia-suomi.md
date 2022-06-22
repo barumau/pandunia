@@ -112,8 +112,8 @@ alpaka - alpakka
 aluminium - alumiini  
 ame - rakkaus (rakastaa, pitää, tykätä; armas, rakas)  
 • amater - amatööri  
-• amer - rakastaja  
 • amike - kulta (rakas)  
+• amer - rakastaja  
 • aname - inhota  
 • anamike - inhokki (inhotus)  
 ama - mutta  
@@ -203,10 +203,10 @@ astronomia - tähtitiede (astronomia)
 Asur - Assur  
 Asuria - Assyria  
 ate - teko (toimenpide, akti)  
-• ater - tekijä (toimija)  
 • ation - toiminta  
 • ative - toimelias (aktiivinen; aktivoida, panna käyntiin tai päälle)  
 • anative - epäaktiivinen (pois toiminnasta)  
+• ater - tekijä (toimija)  
 • ature - teos (tuote)  
 • deative - poistaa toiminnasta  
 • dusate - synti (paha teko)  
@@ -228,8 +228,11 @@ aure - kulta
 Australia - Australia  
 Austronesia - Austronesia  
 aute - itseys (minuus; itseä koskeva, henkilökohtainen)  
+• auter - itsenäinen tekijä (auktori)  
 autokratia - yksinvaltius (autokratia, monarkia)  
 autologe - yksinpuhelu (monologi)  
+automate - automaatti  
+automatike - automaattinen (itsetoimiva)  
 automote - itseliikkuva  
 autonome - autonominen  
 autonomia - itsehallinto (autonomia)  
@@ -273,8 +276,8 @@ bangle - bengali
 Banglodex - Bangladesh  
 banyakamar - kylpyhuone  
 banke - tallettaa (tallentaa)  
-• banker - pankkiiri  
 • bankokan - pankki (talletuspaikka)  
+• banker - pankkiiri  
 bankorute - vararikossa  
 bankorutia - vararikko (konkurssi)  
 banse - bambu  
@@ -312,9 +315,9 @@ bau - aarre (arvokas)
 bavite - jalokivi  
 baze - perusta (perustus; perustaa)  
 baze bol - baseball (amerikkalainen pesäpallo)  
-bazer - perustaja  
 bazokanun - perustuslaki  
 bazopetre - peruskallio  
+bazer - perustaja  
 bazoxulkan - ala-aste  
 bazostrute - perusrakenne (infrastruktuuri)  
 bazar - tori (basaari)  
@@ -326,15 +329,15 @@ bedinge - munakoiso
 bege - paeta (karata)  
 Beijing - Peking (Beijing)  
 beke - leipoa  
-beker - leipuri  
 bekokan - leipomo  
+beker - leipuri  
 bel - beli (B)  
 • belente - sotaakäyvä  
 • belike - sotaisa  
 • belikisme - sotaisuus  
 • rebele - kapinoida (kapina)  
-• rebeler - kapinallinen  
 • rebelion - kapinointi (kapina)  
+• rebeler - kapinallinen  
 Belarus - Valkovenäjä  
 belce - lapio  
 Belgia - Belgia  
@@ -354,7 +357,7 @@ Berlin - Berlin
 Bermuda - Bermuda  
 berze - koivu  
 beton - betoni  
-bia - orgaaninen elämä  
+bie - orgaaninen elämä  
 bioginse - biologinen sukupuoli  
 biolojia - biologia  
 biotoxe - toksiini  
@@ -425,8 +428,8 @@ Brunei - Brunei
 brus - sisarus (veli tai sisko)  
 brusben - sisaruksen lapsi  
 buce - teurastaa (lahdata)  
-• bucer - teurastaja  
 • bucokan - teurastamo  
+• bucer - teurastaja  
 bude - ymmärrys (taju, oivallus; valaistunut)  
 • budisme - buddhalaisuus (buddhismi)  
 • budiste - buddhalainen  
@@ -508,8 +511,8 @@ cepe - ottaa kiinni (napata, kaapata, siepata)
 • excepe - ottaa pois (poistaa; paitsi, poislukien)  
 • intercepe - siepata välistä  
 • recepe - ottaa takaisin  
-• receper - vastaanottaja  
 • recepion - vastaanotto  
+• receper - vastaanottaja  
 Ceres - Ceres  
 ceresium - cerium  
 cerize - kirsikka  
@@ -576,8 +579,8 @@ cuze - valita (valinta, vaali)
 
 dai - iso (suuri; suurentua, kasvaa kokoa)  
 • dayia - suuruus (koko)  
-dayangiler - lähettiläs  
 dayangilkan - lähetystö  
+dayangiler - lähettiläs  
 daidarge - korottaa  
 daidom - palatsi  
 daihai - valtameri  
@@ -628,8 +631,8 @@ debu - täytyä (olla pakko)
 deci - desi  
 decibel - desibeli  
 defe - puolustaa (puolustus)  
-• defer - puolustaja  
 defkaske - suojakypärä  
+• defer - puolustaja  
 defoban - suojakilpi  
 dege - saada (hankkia, ansaita)  
 deger - saaja (vastaanottaja)  
@@ -675,8 +678,8 @@ deunagre - devanagari
 deusage - jumaltaru (myytti)  
 deusofia - teosofia  
 dike - osoittaa (tähdätä; suunta, kohde; maali)  
-• diker - osoitin  
 • dikion - osoittaminen (deiksis)  
+• diker - osoitin  
 • indike - osoittaa (näyttää)  
 dikobaton - karttakeppi  
 • dikive pronam - demonstratiivipronomini  
@@ -711,8 +714,8 @@ dom - asua (asunto, koti)
 • domine - isännöidä (hallita, dominoida)  
 • domination - hallinta (dominointi)  
 • dominente - hallitseva  
-• dominer - isäntä  
 dominogem - dominopeli  
+• dominer - isäntä  
 domzeze - kärpänen  
 • dominia - hallinta-alue (hallintopiiri, dominio)  
 Dominiki Komunkratia - Dominikaaninen Tasavalta  
@@ -809,12 +812,11 @@ englofone - englantia puhuva (anglofoni)
 englokitabe - englannistaa  
 enjener - insinööri  
 enzim - entsyymi  
-er - tekijä (aikaansaaja)  
 erbium - erbium  
 Eris - Eris (kääpiöplaneetta)  
 Eritria - Eritrea  
-eser - olento (olio)  
 esive - essiivi  
+eser - olento (olio)  
 • aesive - adessiivi  
 • abesive - abessiivi  
 • inesive - inessiivi  
@@ -898,9 +900,9 @@ feste - juhlia (juhlat, pidot, bileet)
 festoden - juhlapäivä  
 fete - tehdä (toimia)  
 fete - tehdä (toimia; teko, toimenpide)  
+• fetokan - tehdas  
 • feter - tekijä (toimija)  
 • feteria - tehdas  
-• fetokan - tehdas  
 • defete - tehdä tyhjäksi  
 • exfete - vaikutus (teho)  
 • exfetive - tehokas (tehoava, vaikuttava)  
@@ -973,8 +975,8 @@ fotobaton - soihtu
 fotofrike - kiillottaa  
 fotograf - valokuva (foto)  
 fotografia - valokuvaus  
-fotografer - valokuvaaja  
 fotografmaxin - kamera  
+fotografer - valokuvaaja  
 fotolin - valokuitu (valokaapeli)  
 fotominar - majakka  
 fotorade - valonsäde  
@@ -1107,11 +1109,11 @@ gele - hyytelö (geeli)
 gem - peli (pelata)  
 • gemer - pelaaja  
 gene - synty (synnyttää, luoda, tuottaa)  
-• gener - tekijä (luoja)  
 • genete - geeni  
 • geneti - geneettinen  
 • genolojia - sukututkimus  
 • genome - perimä (genomi)  
+• gener - tekijä (luoja)  
 • eugenisme - eugeniikka  
 • exogene - ulkosyntyinen  
 • ingene - sisäsyntyinen (endogeeninen)  
@@ -1127,9 +1129,9 @@ gense - sukupuoli
 gensi - sukupuolinen  
 gensolojia - sukupuolitutkimus  
 gere - sota  
-• gerer - soturi (sotilas)  
 • gerile - sissisota  
 • geriler - sissi (partisaani)  
+• gerer - soturi (sotilas)  
 Germania - Germania  
 germanium - germanium  
 Gerneze - Guernsey  
@@ -1181,8 +1183,8 @@ Grenada - Grenada
 Grenadin nesia - Grenadiinit  
 grese - harpata (harppoa, käydä)  
 • agrese - käydä päälle (käydä kimppuun; päällekarkaus, aggressio)  
-• agreser - päällekävijä  
 • agresive - päällekäyvä (aggressiivinen)  
+• agreser - päällekävijä  
 • progrese - edistyä (edetä, harppoa eteenpäin)  
 • progresion - edistää  
 • regrese - perääntyä  
@@ -1390,9 +1392,9 @@ idiotia - tyhmyys (typeryys)
 ike - -llinen (kantasanalle ominaispiirteinen)  
 impere - hallita yksinvaltaisesti  
 imperia - keisarikunta  
-imperer - keisari  
 imperisme - imperialismi  
 imperiste - imperialisti  
+imperer - keisari  
 in - sisus (sisäpuoli)  
 ine - sisä- (sisäinen)  
 intre - sisäpuoli  
@@ -1453,8 +1455,8 @@ jau - ohra
 jaze - jazz (jatsi)  
 jebe - tasku  
 jele - vangita  
-• jeler - vanginvartija  
 • jelokan - vankila  
+• jeler - vanginvartija  
 jenisme - jainalaisuus  
 jeng - taistelu (sota)  
 jenge - sotilaallinen  
@@ -1477,8 +1479,8 @@ joker - vitsiniekka
 jongle - jongleerata  
 • jongler - jonglööri  
 jude - tuomita (tuomio, oikeus; oikeudellinen)  
-• juder - tuomari  
 • judokan - tuomioistuin (oikeus)  
+• juder - tuomari  
 • exjude - mielivaltainen (ilman tuomiota)  
 judau - judo  
 jul - joule (J)  
@@ -1555,11 +1557,11 @@ kape - ottaa kiinni (napata, kaapata)
 kapse - laatikko  
 kar - kärry (vaunu, auto, jne)  
 kare - työskennellä  
-karer - työntekijä (työläinen)  
 karokan - paja (työpaja)  
 karloge - verbi (teonsana)  
 karmeze - työpöytä (kirjoituspöytä)  
 karparke - parkkipaikka  
+karer - työntekijä (työläinen)  
 • duskar - synti (paha teko)  
 Karaibia - Karibia  
 karaoke - karaoke  
@@ -1699,9 +1701,9 @@ kola pal - koolapähkinä
 Kolombia - Kolumbia  
 kolone - kolonisoida  
 kolonia - kolonia (siirtomaa)  
-koloner - kolonialisti  
 kolonisme - kolonialismi  
 koloniste - kolonialisti  
+koloner - kolonialisti  
 kolum - pylväs (pilari)  
 kome - pilkku  
 komi - koominen (hauska)  
@@ -1771,6 +1773,7 @@ kratia - valta
 krede - uskoa (luottaa)  
 • kredable - uskottava  
 • krediste - uskovainen  
+• bekrede - uskottu (luotettu)  
 • ankrede - epäillä (olla uskomatta)  
 • ankredable - uskomaton  
 • ankrediste - uskonnoton  
@@ -1806,8 +1809,8 @@ kube - kuutio
 Kuba - Kuuba  
 kuke - kokata (laittaa ruokaa)  
 Kuke nesia - Cookin saaret  
-kuker - kokki  
 kukokamar - keittiö  
+kuker - kokki  
 kuku - käki  
 kule - upea (hieno)  
 kulombe - kulombi (mittayksikkö C)  
@@ -2027,9 +2030,9 @@ makan - voi
 makas - sakset  
 Makau - Macao  
 male - omistaa (omaisuus)  
-• maler - omistaja (pitäjä, hallussapitäjä)  
 • malike - isäntä (pomo)  
 • malonomia - taloustiede (ekonomia)  
+• maler - omistaja (pitäjä, hallussapitäjä)  
 • be male - kuulua (olla jkn hallussa)  
 malagas - malagassi  
 Malagasia - Madagaskar  
@@ -2206,9 +2209,9 @@ mise - lähettää
 mise - lähettää  
 • misia - lähetys  
 • misaje - viesti  
-• miser - lähettäjä (lähetin)  
 • mision - lähetys  
 • misioner - lähetti (lähetyssaarnaaja)  
+• miser - lähettäjä (lähetin)  
 • exmise - lähettää  
 • konmisia - komission (komitea)  
 • tranmise - välittää (siirtää, lähettää)  
@@ -2243,18 +2246,16 @@ moluske - nilviäinen
 Monako - Monaco  
 mongole - mongoli  
 Mongolia - Mongolia  
-monoster - hirviö  
+monster - hirviö  
 monte - vuori (mäki)  
 morfe - morfi  
 morfem - morfeemi  
 morfeme - morfeemi  
-Moris - Mauritius  
-morte - kuolema (kuolo)  
-morte - tappaa  
-morte - kuollut (vainaa)  
-mortu - kuolla  
+Maurisia - Mauritius  
+morte - kuolla (kuolema, kuolo; kuollut, vainaa)  
 • mortal - kuolevainen  
-morter - tappaja  
+• mortife - tappaa  
+• morter - tappaja  
 • posmortal - kuolemanjälkeinen  
 mos - sammal  
 mosim - vuodenaika  
@@ -2262,9 +2263,9 @@ moskite - hyttynen (sääski)
 Moskove - Moskova  
 moskovium - moscovium  
 mote - liike  
-moter - moottori  
 motogar - auto (automobiili)  
 motor skuter - moposkootteri  
+moter - moottori  
 motosikle - moottoripyörä  
 Mozambike - Mosambik  
 mudan - pioni  
@@ -2349,9 +2350,9 @@ nasibe - määrä (päämäärä, kohtalo)
 natrium - natrium  
 nau - vene (laiva)  
 nave - veneillä  
-naver - veneilijä  
 naukaper - laivakaappari  
 naulefte - paapuuri  
+naver - veneilijä  
 nauraite - tyyrpuuri  
 nauxefe - kapteeni  
 navate - nahuatli  
@@ -2468,8 +2469,8 @@ ofiser - virkailija (virkamies)
 oke - silmä  
 oke - silmäillä (katsoa, tarkkailla)  
 oke - silmä-  
-speter - katsoja (tarkkailija)  
 okokex - silmäripsi  
+speter - katsoja (tarkkailija)  
 okosui - kyynel  
 okei - hyväksyntä  
 okeye - hyväksyä  
@@ -2685,16 +2686,16 @@ pipe - piippu
 pipre - pippuri  
 piram - pyramidi  
 piratia - kaappaus (merirosvous)  
-pirater - merirosvo (piraatti, kaappari)  
 piratiste - piraatti (joka ei kunnioita tekijänoikeuksia)  
 piratisti partia - piraattipuolue  
+pirater - merirosvo (piraatti, kaappari)  
 airopiratia - lentokonekaappaus  
 pis - virtsa (pissa, kusi)  
 pise - virtsata (kusta)  
 pistol - pistooli  
 Pitkerne nesia - Pitcairn  
-pize - pitsa (pizza)  
-pizokan - pitseria  
+piza - pitsa (pizza)  
+pizaria - pitseria (pizzeria)  
 plan - suunnitelma  
 plane - suunnitella  
 planolingue - suunnitelmakieli  
@@ -2729,11 +2730,11 @@ poliser - poliiisi (poliisimies)
 polite - hallinto  
 polite - hallita (hallinnoida)  
 politia - politiikka  
-politer - hallinnoija  
 politike - poliitikko  
 politike - poliittinen  
 politolojia - politiikantutkimus  
 politomode - hallintomuoto  
+politer - hallinnoija  
 Polske - puola  
 polske - puolalainen  
 polskium - polonium  
@@ -2835,6 +2836,7 @@ puzorite - rituaali (seremonia, riitti)
 
 ## R  
 
+–r - tekijä (aikaansaaja)  
 rade - säde  
 rade - säteillä  
 radi geter - radiovastaanotin  
@@ -2976,9 +2978,9 @@ sade di - vain (pelkästään)
 safe - puhdas (siivo, siisti; puhdistaa, siivota)  
 • safer - siivooja  
 safar - matka (reissu; matkustaa)  
-• safarer - matkailija  
 • safarisme - turismi  
 • safariste - turisti  
+• safarer - matkailija  
 safaroceke - matkašekki  
 safran - sahrami  
 sage - kertomus (tarina, saaga)  
@@ -3027,8 +3029,8 @@ Sante Marino - San Marino
 Sante Tome e Principe - Sao Tome ja Principe  
 sanze - viuhka (tuuletin)  
 sapate - kenkä  
-sapater - suutari  
 sapatokan - suutarin paja  
+sapater - suutari  
 sar - pää  
 sarkaske - kypärä  
 saroste - pääkallo  
@@ -3202,8 +3204,8 @@ sosis - makkara
 Soto - Lesoto  
 sponge - sienieläin  
 sporte - urheilu  
-• sporter - urheilija  
 • sportokan - liikuntasali  
+• sporter - urheilija  
 stadia - stadioni (areena)  
 stan - alue (seutu)  
 stanium - tina  
@@ -3714,9 +3716,9 @@ xule - oppia (opiskella)
 xulia - koulutus  
 xulane - opettaa  
 xulaner - opettaja  
-xuler - oppilas  
 xulkamar - luokkahuone  
 xulkan - koulu (opisto)  
+xuler - oppilas  
 xulxefe - rehtori  
 xure - alku (alkaa; aloittaa)  
 xute - taito  

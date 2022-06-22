@@ -121,7 +121,7 @@
 **bau** *skarb (skrabiec; cenny)* ← zho:宝 (bǎo), kor:보 (bo), vie:bảo, jpn:宝 (hō)  
 **bazar** *rynek, bazar* ← fas:urd: بازار (bāzār), hin:बाज़ार (bāzār), fra:spa:por:bazar, eng:bazaar, rus:базар (bazar), may: pasar, khm:ផ្សារ (psar)  
 **baze** *podstawa (baza, fundament; bazowy; zakładać (założyć, ustanowić)* ← eng:fra:por:spa:base, deu:Basis, rus:база (baza)  
-**be** *być poddanym, doświadczyć, doświadczać (ubierniający czasownik)* ← zho:被 (bèi)  
+**be** *być poddanym, doświadczyć, doświadczać (ubierniający czasownik)* ← zho:被 (bèi), yue:被 (bei6), wuu:被 (bé), jpn:被- (hi-), kor:피— (pi-), vie:bị + eng:be  
 **bebe** *niemowlę* ← fra:bébé, por:bebê, spa:bebé, tur:bebek, eng:baby, yue:BB (bibi)  
 **bede** *łóżko* ← eng:bed, deu:Bett, jpn:ベッド (beddo), zul:umbhede  
 **bedinge** *bakłażan, oberżyna* ← hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani  
@@ -141,7 +141,7 @@
 **berze** *brzoza* ← eng:birch, rus:берёза (ber’oza), hin:भूर्ज (bhūrj)  
 **bete** *burak* ← eng:beet, spa:betabel, por:beterraba, fra:betterave, deu:Bete, jpn:ビート (bīto)  
 **beton** *beton* ← fra:béton, por:betão, deu:Beton, rus:бетон (beton), pol:tur:beton, fas:بتن‎ (beton)  
-**bia** *życie organiczne* ← eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)  
+**bie** *życie organiczne* ← eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)  
 **bil** *rachunek (faktura)* ← eng:bill, hin:बिल (bil), may:bil  
 **bilor** *kryształ* ← ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio  
 **binde** *punkt* ← hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)  
@@ -317,7 +317,6 @@
 **energe** *energia* ← eng:energy, spa:energía, por:energia, fra:énergie, rus:энергия (energiya), tur:enerji, fas:انرژی‎ (enerži), jpn:エネルギー (enerugī)  
 **enjener** *inżynier* ← eng:engineer, spa:ingeniero, por:engenheiro, rus:инженер (inzhener), hin:mar:इंजीनियर (iñjīniyar), jpn:エンジニア (enjinia)  
 **enzim** *enzym* ← eng:fra:enzyme, spa:por:enzima, rus:энзим (enzim), tur:may:enzim, ara:انزيم‎, fas:آنزیم‎ (ânzim)  
-**er** *przyrostek dla wykonawcy* ← eng: -er, deu: -er, fra: -eur, spa: -ero, por: -eiro  
 **erbium** *erb* ← eng:erbium, fra:erbium, spa:erbio, por:érbio, rus:эрбий, zho:铒 (ěr), jpn:エルビウム, kor:에르븀, vie:eribi, hin:अर्बियम, ben:ইরবিয়াম, may:erbium, swa:erbi, ara: إربيوم  
 **esei** *esej* ← eng:essay, spa:ensayo, por:ensaio, fra:essai, deu:Essay, rus:эссе (esse), jpn:エッセイ (essei)  
 **eurasia** *Eurazja* ← eng:spa:may:Eurasia, por:Eurásia, fra:Eurasie, rus:Евразия (Evraziya), tur:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), ara:يُورَاسِيَا‎ (yūrāsiyā), hin:यूरेशिया (yūreśiyā), ben:ইউরেশিয়া (iureśiẏa), zho:歐亞大陸 (Ōuyà dàlù), jpn:ユーラシア (yūrashiya)  
@@ -916,10 +915,10 @@
 **molia** *mielić* ← zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)  
 **molidenium** *molibden* ← eng:molybdenum, fra:molybdène, spa:molibdeno, por:molibdénio, rus:молибден, zho:钼 (mù), jpn:モリブデン, kor:몰리브덴, vie:molypđen, hin:मोलिब्डेनम, ben:মলিবডেনাম, may:molibden, swa:molibdeni, ara: مولبيدنيوم  
 **moluske** *mięczak (morski bezkręgowiec)* ← eng:mollusk, deu:Molluske, fra:mollusque, rus:моллюск (mollyusk), spa:por:molusco, may:moluska, hin:urd:(molask)  
-**monoster** *potwór, monstrum* ← eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)  
+**monster** *potwór, monstrum* ← eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā)  
 **monte** *góra, wzgórze* ← eng:mountain, por:spa:monte, fra:montaigne  
 **morfe** *morf* ← eng:morph, spa:morfo, rus:морф (morf)  
-**morte** *martwy, nieżywy, zabity* ← por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)  
+**morte** *umrzeć (umierać; śmierć; martwy, nieżywy, zabity)* ← por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)  
 **mos** *mech* ← eng:moss, spa:por:musgo, fra:mousse, deu:Moos, rus:мох (mox), hin:मॉस (mosa)  
 **mosim** *pora roku* ← ara: موسم (mawsim), hin:मौसम (mausam), may:musim, tur:mevsim, swa:msimu + eng:monsoon, fra:mousson, por:monção, rus:муссон  
 **moskite** *komar, moskit* ← eng:spa:por:mosquito, fra:moustique, deu:Moskito, rus:моски́т (moskít), ben:মশা (môśa), kor:모기 (mogi)  
@@ -1088,7 +1087,7 @@
 **pirater** *pirat* ← eng:fra:pirate, spa:por:pirata, deu:Pirat, rus:пират (pirat) + jpn:パイレーシ (pairēshi)  
 **pis** *siki* ← eng:piss, fra:pisse, ita:piscia, hin:पेशाब (pešāb), may:pipis  
 **pistol** *pistolet* ← eng:pistol, spa:por:pistola, fra:pistolet, rus:пистолет (pitolet), hin:पिस्तौल (pistaul), ben:পিস্তল (piśtôl)  
-**pize** *pizza* ← ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)  
+**piza** *pizza* ← ita:eng:fra:pizza, zho:比萨 (bǐsà), rus:пицца (pitsa), jpn:ピザ (piza), kor:피자 (pija)  
 **plan** *plan* ← eng:spa:fra:plan, por:plano, rus:план (plan), fas:پلان‎ (plân), hin:प्लैन (plain), jpn:プラン (puran)  
 **planete** *planeta* ← eng:tur:may:planet, spa:por:planeta, fra:planète, rus:планета (planeta)  
 **plastike** *plastik* ← eng:plastic, spa:por:plástico, rus:пластик (plastik), tur:may:plastik, swa:plastiki, ara:بلاستيك (blastīk), hin:प्लास्टिक (plāsṭik), jpn:プラスチック (purasuchikku), kor:플라스틱 (peullaseutik)  
@@ -1557,6 +1556,7 @@
 **zung** *środkowy, centralny* ← zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-), vie:trung  
 **–i** *przyrostek dla przymiotnika* ← ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-い (-i), hun:-i  
 **–ia** *przyrostek dla miejsca* ← spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)  
+**–r** *przyrostek dla wykonawcy* ← deu:eng:-er, fra:-eur, spa:-ero, por:-eiro, rus:-арь (-arʹ)  
 **• agrese** *atak (agresja, napaść)* ← eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif  
 **• ater** ** ← eng:actor, -ator, fra:-ateur, spa:por:-ador  
 **• balia** *siła* ← hin:बल (bal), ben:বল (bôl), may:bala, tel:బలము (balamu), tha:พล (pon), พละ (pá-lá)  

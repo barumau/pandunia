@@ -140,6 +140,17 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 → **ankluze**
 'unclose, open'
 
+**be-**
+'the passive recipient of an action, -ed, -ee' :  
+**cepe**
+'take, catch'
+→ **becepe**
+'(be) caught'  
+**krede**
+'trust'
+→ **bekrede**
+'(be) trusted, trustee'
+
 **de-**
 'away, off' :  
 **cepe**
@@ -199,6 +210,13 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 'usable'
 → **ənuzable**
 'unusable'
+
+**per-**
+'thoroughly, completely' :
+**fete**
+'make, do'
+→ **perfete**
+'perfect'
 
 **pos-**
 'after' :  
@@ -344,7 +362,7 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 → **lexeme**
 'lexeme'
 
-**-er-**
+**-r-**
 'doer, agent, -er' :  
 **beke**
 'bake'
@@ -371,7 +389,7 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 → **kaser**
 'cashier'
 
-**-eria**
+**-ria**
 'place for making, producing or selling; profession' :  
 **beker**
 'baker'
@@ -381,6 +399,10 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 'perfume'
 → **perfumeria**
 'perfumery'  
+**piza**
+'pizza'
+→ **pizaria**
+'pizzeria, pizza place'  
 **enjener**
 'engineer'
 → **enjeneria**
@@ -489,13 +511,6 @@ There are also a lot of country names that do not end in **-ia**.
 'god'
 → **devisme**
 'theism'
-
-**-it-**
-'passive participle' :  
-**sabe**
-'know'
-→ **sabite**
-'known'
 
 **-iv-**
 'inclined to' :  

@@ -98,6 +98,7 @@ aven - 燕麦
 aure - 金  
 Austronesia - 南岛  
 autologe - 独白  
+automatike - 自动的  
 axe - 轴线  
 
 ## B  
@@ -153,8 +154,8 @@ bazostrute - 基础设施
 bazar - 市场  
 bebe - 宝宝  
 bekofan - 陶瓦  
-• rebeler - 反叛者 (起义者)  
 • rebelion - 叛乱  
+• rebeler - 反叛者 (起义者)  
 belce - 铲  
 beranda - 阳台  
 beri - 浆果 (莓)  
@@ -162,7 +163,7 @@ berilium - 铍
 berkelium - 锫  
 berze - 桦树  
 bete - 甜菜頭  
-bia - 生物  
+bie - 生物  
 bioginse - 生物性別  
 biolojia - 生物学  
 biomute - 发酵  
@@ -192,8 +193,8 @@ botel - 瓶
 bromium - 溴  
 brune - 棕色 (色)  
 brunsalmon - 褐鳟  
-• bucer - 屠夫  
 • bucokan - 屠宰场  
+• bucer - 屠夫  
 Buda - 佛陀  
 bufete - 自助餐  
 buke - 书  
@@ -430,9 +431,9 @@ genotipe - 基因型
 gence - 检查  
 gense - 性别  
 gensolojia - 性别研究  
-• gerer - 战士 (武士)  
 • gerile - 游击  
 • geriler - 游击队员  
+• gerer - 战士 (武士)  
 germanium - 锗  
 gestolingue - 手语  
 gide - 导游  
@@ -612,10 +613,10 @@ kankuate - 金柑
 kantalupomelon - 鈔皮瓜  
 kapotruke - 陷阱  
 kare - 工作  
-karer - 工人 (工作者)  
 karokan - 工厂  
 karloge - 动词  
 karmise - 提交  
+karer - 工人 (工作者)  
 karbe - 碳  
 karboduloxide - 二氧化碳  
 karcof - 菜蓟  
@@ -1038,6 +1039,7 @@ pinkardon - 大翅蓟
 pipre - 胡椒  
 piprominte - 辣薄荷  
 piram - 金字塔  
+pizaria - 比萨店  
 • explanete - 系外行星  
 plati geokaskia - 板块构造论  
 platostan - 平原  
@@ -1407,8 +1409,8 @@ xule - 学习
 xulia - 教育  
 xulane - 教学  
 xulaner - 教师 (老师)  
-xuler - 学生  
 xulkan - 学校  
+xuler - 学生  
 xulxefe - 校长  
 xure - 开始  
 xute - 技术  

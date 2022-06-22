@@ -121,7 +121,7 @@
 **bau** *aarre (arvokas)* ← yleiskiina:宝 (bǎo), korea:보 (bo), vietnami:bảo, japani:宝 (hō)  
 **bazar** *tori (basaari)* ← persia:urdu: بازار (bāzār), hindi:बाज़ार (bāzār), ranska:espanja:portugali:bazar, englanti:bazaar, venäjä:базар (bazar), malaiji: pasar, khmer:ផ្សារ (psar)  
 **baze** *perusta (perustus; perustaa)* ← englanti:ranska:portugali:espanja:base, deu:Basis, venäjä:база (baza)  
-**be** *läpikäydä (passiivin muodostava verbi)* ← yleiskiina:被 (bèi)  
+**be** *läpikäydä (passiivin muodostava verbi)* ← yleiskiina:被 (bèi), kantoninkiina:被 (bei6), wu-kiina:被 (bé), japani:被- (hi-), korea:피— (pi-), vietnami:bị + englanti:be  
 **bebe** *vauva* ← ranska:bébé, portugali:bebê, espanja:bebé, turkki:bebek, englanti:baby, kantoninkiina:BB (bibi)  
 **bede** *vuode (sänky, peti)* ← englanti:bed, deu:Bett, japani:ベッド (beddo), zulu:umbhede  
 **bedinge** *munakoiso* ← hindi:बैंगन (bEngān), arabia:(bādinjān), portugali:berinjela, ranska:aubergine, espanja:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), turkki:badincan, patlıcan, venäjä:баклажан (baklažan), suahili:mbilingani  
@@ -141,7 +141,7 @@
 **berze** *koivu* ← englanti:birch, venäjä:берёза (ber’oza), hindi:भूर्ज (bhūrj)  
 **bete** ** ← englanti:beet, espanja:betabel, portugali:beterraba, ranska:betterave, deu:Bete, japani:ビート (bīto)  
 **beton** *betoni* ← ranska:béton, portugali:betão, deu:Beton, venäjä:бетон (beton), puola:turkki:beton, persia:بتن‎ (beton)  
-**bia** *orgaaninen elämä* ← englanti:deu:ranska:espanja:portugali:puola:malaiji:suahili:turkki:bio-, venäjä:био- (bio-)  
+**bie** *orgaaninen elämä* ← englanti:deu:ranska:espanja:portugali:puola:malaiji:suahili:turkki:bio-, venäjä:био- (bio-)  
 **bil** *lasku (faktuura)* ← englanti:bill, hindi:बिल (bil), malaiji:bil  
 **bilor** *kristalli* ← arabia: بِلَّوْر‎ (billawr), hindi:बिल्लौर (billaur), malaiji:hablur, turkki:billûr, amhara:በሉር (bälur) + espanja:abalorio  
 **binde** *täplä (läiskä)* ← hindi:बिंदु (bindu), thai:พินทุ (pintu), englanti:bindi (holy dot), venäjä:бинди (bindi)  
@@ -317,7 +317,6 @@
 **energe** *energia* ← englanti:energy, espanja:energía, portugali:energia, ranska:énergie, venäjä:энергия (energiya), turkki:enerji, persia:انرژی‎ (enerži), japani:エネルギー (enerugī)  
 **enjener** *insinööri* ← englanti:engineer, espanja:ingeniero, portugali:engenheiro, venäjä:инженер (inzhener), hindi:marathi:इंजीनियर (iñjīniyar), japani:エンジニア (enjinia)  
 **enzim** *entsyymi* ← englanti:ranska:enzyme, espanja:portugali:enzima, venäjä:энзим (enzim), turkki:malaiji:enzim, arabia:انزيم‎, persia:آنزیم‎ (ânzim)  
-**er** *tekijä (aikaansaaja)* ← englanti: -er, deu: -er, ranska: -eur, espanja: -ero, portugali: -eiro  
 **erbium** *erbium* ← englanti:erbium, ranska:erbium, espanja:erbio, portugali:érbio, venäjä:эрбий, yleiskiina:铒 (ěr), japani:エルビウム, korea:에르븀, vietnami:eribi, hindi:अर्बियम, bangla:ইরবিয়াম, malaiji:erbium, suahili:erbi, arabia: إربيوم  
 **esei** *essee* ← englanti:essay, espanja:ensayo, portugali:ensaio, ranska:essai, deu:Essay, venäjä:эссе (esse), japani:エッセイ (essei)  
 **eurasia** *Euraasia* ← englanti:espanja:malaiji:Eurasia, portugali:Eurásia, ranska:Eurasie, venäjä:Евразия (Evraziya), turkki:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), arabia:يُورَاسِيَا‎ (yūrāsiyā), hindi:यूरेशिया (yūreśiyā), bangla:ইউরেশিয়া (iureśiẏa), yleiskiina:歐亞大陸 (Ōuyà dàlù), japani:ユーラシア (yūrashiya)  
@@ -916,10 +915,10 @@
 **molia** *mylly* ← yleiskiina:磨 (mò), kantoninkiina:磨 (mo4) thai:โม่ (mo), ranska:moulin, espanja:molino, venäjä:молоть  (molot’)  
 **molidenium** *molybdeeni* ← englanti:molybdenum, ranska:molybdène, espanja:molibdeno, portugali:molibdénio, venäjä:молибден, yleiskiina:钼 (mù), japani:モリブデン, korea:몰리브덴, vietnami:molypđen, hindi:मोलिब्डेनम, bangla:মলিবডেনাম, malaiji:molibden, suahili:molibdeni, arabia: مولبيدنيوم  
 **moluske** *nilviäinen* ← englanti:mollusk, deu:Molluske, ranska:mollusque, venäjä:моллюск (mollyusk), espanja:portugali:molusco, malaiji:moluska, hindi:urdu:(molask)  
-**monoster** *hirviö* ← englanti:monster, espanja:portugali:monstro, ranska:monstre, venäjä:монстр (monstr), japani:モンスター (monsutā)  
+**monster** *hirviö* ← englanti:monster, espanja:portugali:monstro, ranska:monstre, venäjä:монстр (monstr), japani:モンスター (monsutā)  
 **monte** *vuori (mäki)* ← englanti:mountain, portugali:espanja:monte, ranska:montaigne  
 **morfe** *morfi* ← englanti:morph, espanja:morfo, venäjä:морф (morf)  
-**morte** *kuollut (vainaa)* ← portugali:morto, ranska:mort, espanja:muerto, persia:(morde), urdu:(murda), hindi:मृत (mrta), venäjä:мёртвый (myortvïy), + malaiji:mati, + arabia:(mawt), amhara:ሞት (mot)  
+**morte** *kuolla (kuolema, kuolo; kuollut, vainaa)* ← portugali:morto, ranska:mort, espanja:muerto, persia:(morde), urdu:(murda), hindi:मृत (mrta), venäjä:мёртвый (myortvïy), + malaiji:mati, + arabia:(mawt), amhara:ሞት (mot)  
 **mos** *sammal* ← englanti:moss, espanja:portugali:musgo, ranska:mousse, deu:Moos, venäjä:мох (mox), hindi:मॉस (mosa)  
 **mosim** *vuodenaika* ← arabia: موسم (mawsim), hindi:मौसम (mausam), malaiji:musim, turkki:mevsim, suahili:msimu + englanti:monsoon, ranska:mousson, portugali:monção, venäjä:муссон  
 **moskite** *hyttynen (sääski)* ← englanti:espanja:portugali:mosquito, ranska:moustique, deu:Moskito, venäjä:моски́т (moskít), bangla:মশা (môśa), korea:모기 (mogi)  
@@ -1088,7 +1087,7 @@
 **pirater** *merirosvo (piraatti, kaappari)* ← englanti:ranska:pirate, espanja:portugali:pirata, deu:Pirat, venäjä:пират (pirat) + japani:パイレーシ (pairēshi)  
 **pis** *virtsa (pissa, kusi)* ← englanti:piss, ranska:pisse, italia:piscia, hindi:पेशाब (pešāb), malaiji:pipis  
 **pistol** *pistooli* ← englanti:pistol, espanja:portugali:pistola, ranska:pistolet, venäjä:пистолет (pitolet), hindi:पिस्तौल (pistaul), bangla:পিস্তল (piśtôl)  
-**pize** *pitsa (pizza)* ← italia:englanti:ranska:pizza, yleiskiina:比萨 (bǐsà), venäjä:пицца (pitsa), japani:ピザ (piza), korea:피자 (pija)  
+**piza** *pitsa (pizza)* ← italia:englanti:ranska:pizza, yleiskiina:比萨 (bǐsà), venäjä:пицца (pitsa), japani:ピザ (piza), korea:피자 (pija)  
 **plan** *suunnitelma* ← englanti:espanja:ranska:plan, portugali:plano, venäjä:план (plan), persia:پلان‎ (plân), hindi:प्लैन (plain), japani:プラン (puran)  
 **planete** *planeetta* ← englanti:turkki:malaiji:planet, espanja:portugali:planeta, ranska:planète, venäjä:планета (planeta)  
 **plastike** *muovi* ← englanti:plastic, espanja:portugali:plástico, venäjä:пластик (plastik), turkki:malaiji:plastik, suahili:plastiki, arabia:بلاستيك (blastīk), hindi:प्लास्टिक (plāsṭik), japani:プラスチック (purasuchikku), korea:플라스틱 (peullaseutik)  
@@ -1557,6 +1556,7 @@
 **zung** *keskus (keskikohta)* ← yleiskiina:中 (zhōng), kantoninkiina:中 (zung), korea:중 (jung), japani:中 (chuu-), vietnami:trung  
 **–i** *pääte: adjektiivi tai adverbi* ← arabia:(-i), persia:(-i), hindi:-ई (-ī), bangla:-ই (-i), englanti:-y, japani:-い (-i), unkari:-i  
 **–ia** *ajattelun, olemisen tai ihmisten ala tai alue* ← espanja:portugali:englanti:-ia, venäjä:-ия (-iya), arabia: ية (-iya), japani:屋 (-ya)  
+**–r** *tekijä (aikaansaaja)* ← deu:englanti:-er, ranska:-eur, espanja:-ero, portugali:-eiro, venäjä:-арь (-arʹ)  
 **• agrese** *käydä päälle (käydä kimppuun; päällekarkaus, aggressio)* ← englanti:deu:ranska:agression, puola:agresja, venäjä:агрессия (agressiya), espanja:agresión, portugali:agressão, malaiji:agresif  
 **• ater** *tekijä (toimija)* ← englanti:actor, -ator, ranska:-ateur, espanja:portugali:-ador  
 **• balia** *voima* ← hindi:बल (bal), bangla:বল (bôl), malaiji:bala, telugu:బలము (balamu), thai:พล (pon), พละ (pá-lá)  

@@ -1431,7 +1431,6 @@ Mariany Północne - Marian nesia
 marmur - kalsokristal  
 Maroko - Magribia  
 Mars - Marse  
-martwy, nieżywy, zabity - morte  
 marynarka (flota) - haigun  
 marynować - acar  
 marzec - lun des un  
@@ -1452,7 +1451,7 @@ materiał (składnik, zasób) - faidaje
 matka - matre  
 matka, mama - mai  
 Mauretania - Muritania  
-Mauritius - Moris  
+Mauritius - Maurisia  
 Maya - mayan  
 małpa (znak na - adresoharfe  
 mały; mało, trochę, nieco - lile  
@@ -2014,8 +2013,8 @@ pistolet, strzelba, ręczna broń palna - pau
 Pitcairn - Pitkerne nesia  
 piwo - bir  
 piwonia - mudan  
-pizza - pize  
-pizzeria - pizokan  
+pizza - piza  
+pizzeria - pizaria  
 pióro - pere  
 pióro, długopis - kalam  
 piątek - den lima  
@@ -2146,7 +2145,7 @@ potrzeba - yau
 potrzebny - yavan  
 potrzebować - yavu  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraye  
-potwór, monstrum - monoster  
+potwór, monstrum - monster  
 powiadomić, powiadamiać - notife  
 powierzchnia - fase  
 powierzchnia, region, teren - aria  
@@ -2298,7 +2297,7 @@ przyrostek dla ideologii - isme
 przyrostek dla miejsca - –ia  
 przyrostek dla przymiotnika - –i  
 przyrostek dla wsperającego ideę - iste  
-przyrostek dla wykonawcy - er  
+przyrostek dla wykonawcy - –r  
 przystojny, atrakcyjny, ładny - bonvide  
 przyszłość - posozam  
 przysłówek - modologe  
@@ -2996,7 +2995,7 @@ ulubiony - profilaje
 umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - zange  
 umiejętny (wprawny) - xutike  
-umrzeć, umierać - mortu  
+umrzeć (umierać; śmierć; martwy, nieżywy, zabity) - morte  
 umysłowy (psychiczny) - ruhe  
 unia - unia  
 Unia Europejska (EU) - Europi Unia  
@@ -3277,7 +3276,7 @@ z boku (na bok) - lato
 zaakceptować, akceptować, powiedzieć okej, mówić okej - okeye  
 zabawa (rozrywka; bawić, zabawiać) - muze  
 zabawny - muzante  
-zabić, zabijać - morte  
+zabić, zabijać - mortife  
 zabroniony (wzbroniony, nielegalny, haram, tabu) - harame  
 zabronić (wzbronić, zakazać) - harame  
 zabójca - morter  
@@ -3458,7 +3457,6 @@ zły, zrujnowany, zepsuty - harabe
 śliwka - plum  
 ślizgać się (poślizgnąć się, jeździć na łyżwach) - glise  
 śmiać się - hahe  
-śmierć - morte  
 śmieć, odpadek - laze  
 śniadanie - subyam  
 śnieg (śnieżyć) - hima  
@@ -3496,7 +3494,7 @@ zły, zrujnowany, zepsuty - harabe
 żołądź - balutopal  
 żwir - grave  
 życie - zive  
-życie organiczne - bia  
+życie organiczne - bie  
 żydowski - yahude  
 żyrafa - ziraf  
 żywica - rezin  

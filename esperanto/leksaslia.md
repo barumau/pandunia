@@ -121,7 +121,7 @@
 **bau** *trezoro* ← mandarena:宝 (bǎo), korea:보 (bo), vjetnama:bảo, japana:宝 (hō)  
 **bazar** *merkato (bazaro)* ← persa:urdua: بازار (bāzār), hindia:बाज़ार (bāzār), franca:hispana:portugala:bazar, angla:bazaar, rusa:базар (bazar), malaja: pasar, kmera:ផ្សារ (psar)  
 **baze** *bazo* ← angla:franca:portugala:hispana:base, deu:Basis, rusa:база (baza)  
-**be** ** ← mandarena:被 (bèi)  
+**be** ** ← mandarena:被 (bèi), kantona:被 (bei6), vua:被 (bé), japana:被- (hi-), korea:피— (pi-), vjetnama:bị + angla:be  
 **bebe** *bebo* ← franca:bébé, portugala:bebê, hispana:bebé, turka:bebek, angla:baby, kantona:BB (bibi)  
 **bede** *lito* ← angla:bed, deu:Bett, japana:ベッド (beddo), zulua:umbhede  
 **bedinge** *melongeno* ← hindia:बैंगन (bEngān), araba:(bādinjān), portugala:berinjela, franca:aubergine, hispana:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), turka:badincan, patlıcan, rusa:баклажан (baklažan), svahila:mbilingani  
@@ -141,7 +141,7 @@
 **berze** ** ← angla:birch, rusa:берёза (ber’oza), hindia:भूर्ज (bhūrj)  
 **bete** ** ← angla:beet, hispana:betabel, portugala:beterraba, franca:betterave, deu:Bete, japana:ビート (bīto)  
 **beton** *betono* ← franca:béton, portugala:betão, deu:Beton, rusa:бетон (beton), polona:turka:beton, persa:بتن‎ (beton)  
-**bia** *organismo* ← angla:deu:franca:hispana:portugala:polona:malaja:svahila:turka:bio-, rusa:био- (bio-)  
+**bie** *organismo* ← angla:deu:franca:hispana:portugala:polona:malaja:svahila:turka:bio-, rusa:био- (bio-)  
 **bil** ** ← angla:bill, hindia:बिल (bil), malaja:bil  
 **bilor** ** ← araba: بِلَّوْر‎ (billawr), hindia:बिल्लौर (billaur), malaja:hablur, turka:billûr, amhara:በሉር (bälur) + hispana:abalorio  
 **binde** *punkto* ← hindia:बिंदु (bindu), taja:พินทุ (pintu), angla:bindi (holy dot), rusa:бинди (bindi)  
@@ -317,7 +317,6 @@
 **energe** *energio* ← angla:energy, hispana:energía, portugala:energia, franca:énergie, rusa:энергия (energiya), turka:enerji, persa:انرژی‎ (enerži), japana:エネルギー (enerugī)  
 **enjener** ** ← angla:engineer, hispana:ingeniero, portugala:engenheiro, rusa:инженер (inzhener), hindia:marataja:इंजीनियर (iñjīniyar), japana:エンジニア (enjinia)  
 **enzim** ** ← angla:franca:enzyme, hispana:portugala:enzima, rusa:энзим (enzim), turka:malaja:enzim, araba:انزيم‎, persa:آنزیم‎ (ânzim)  
-**er** *isto (anto)* ← angla: -er, deu: -er, franca: -eur, hispana: -ero, portugala: -eiro  
 **erbium** *erbio* ← angla:erbium, franca:erbium, hispana:erbio, portugala:érbio, rusa:эрбий, mandarena:铒 (ěr), japana:エルビウム, korea:에르븀, vjetnama:eribi, hindia:अर्बियम, bengala:ইরবিয়াম, malaja:erbium, svahila:erbi, araba: إربيوم  
 **esei** ** ← angla:essay, hispana:ensayo, portugala:ensaio, franca:essai, deu:Essay, rusa:эссе (esse), japana:エッセイ (essei)  
 **eurasia** *Eŭrazio* ← angla:hispana:malaja:Eurasia, portugala:Eurásia, franca:Eurasie, rusa:Евразия (Evraziya), turka:Avrasya, ევრაზია (evrazia), hye:Եվրասիա (Evrasia), araba:يُورَاسِيَا‎ (yūrāsiyā), hindia:यूरेशिया (yūreśiyā), bengala:ইউরেশিয়া (iureśiẏa), mandarena:歐亞大陸 (Ōuyà dàlù), japana:ユーラシア (yūrashiya)  
@@ -916,10 +915,10 @@
 **molia** ** ← mandarena:磨 (mò), kantona:磨 (mo4) taja:โม่ (mo), franca:moulin, hispana:molino, rusa:молоть  (molot’)  
 **molidenium** *molibdeno* ← angla:molybdenum, franca:molybdène, hispana:molibdeno, portugala:molibdénio, rusa:молибден, mandarena:钼 (mù), japana:モリブデン, korea:몰리브덴, vjetnama:molypđen, hindia:मोलिब्डेनम, bengala:মলিবডেনাম, malaja:molibden, svahila:molibdeni, araba: مولبيدنيوم  
 **moluske** *molusko* ← angla:mollusk, deu:Molluske, franca:mollusque, rusa:моллюск (mollyusk), hispana:portugala:molusco, malaja:moluska, hindia:urdua:(molask)  
-**monoster** *monstro* ← angla:monster, hispana:portugala:monstro, franca:monstre, rusa:монстр (monstr), japana:モンスター (monsutā)  
+**monster** *monstro* ← angla:monster, hispana:portugala:monstro, franca:monstre, rusa:монстр (monstr), japana:モンスター (monsutā)  
 **monte** *monto* ← angla:mountain, portugala:hispana:monte, franca:montaigne  
 **morfe** ** ← angla:morph, hispana:morfo, rusa:морф (morf)  
-**morte** *morta* ← portugala:morto, franca:mort, hispana:muerto, persa:(morde), urdua:(murda), hindia:मृत (mrta), rusa:мёртвый (myortvïy), + malaja:mati, + araba:(mawt), amhara:ሞት (mot)  
+**morte** *morti (morto; morta)* ← portugala:morto, franca:mort, hispana:muerto, persa:(morde), urdua:(murda), hindia:मृत (mrta), rusa:мёртвый (myortvïy), + malaja:mati, + araba:(mawt), amhara:ሞት (mot)  
 **mos** ** ← angla:moss, hispana:portugala:musgo, franca:mousse, deu:Moos, rusa:мох (mox), hindia:मॉस (mosa)  
 **mosim** *sezono* ← araba: موسم (mawsim), hindia:मौसम (mausam), malaja:musim, turka:mevsim, svahila:msimu + angla:monsoon, franca:mousson, portugala:monção, rusa:муссон  
 **moskite** ** ← angla:hispana:portugala:mosquito, franca:moustique, deu:Moskito, rusa:моски́т (moskít), bengala:মশা (môśa), korea:모기 (mogi)  
@@ -1088,7 +1087,7 @@
 **pirater** ** ← angla:franca:pirate, hispana:portugala:pirata, deu:Pirat, rusa:пират (pirat) + japana:パイレーシ (pairēshi)  
 **pis** *piso (urino)* ← angla:piss, franca:pisse, itala:piscia, hindia:पेशाब (pešāb), malaja:pipis  
 **pistol** ** ← angla:pistol, hispana:portugala:pistola, franca:pistolet, rusa:пистолет (pitolet), hindia:पिस्तौल (pistaul), bengala:পিস্তল (piśtôl)  
-**pize** *pico* ← itala:angla:franca:pizza, mandarena:比萨 (bǐsà), rusa:пицца (pitsa), japana:ピザ (piza), korea:피자 (pija)  
+**piza** *pico* ← itala:angla:franca:pizza, mandarena:比萨 (bǐsà), rusa:пицца (pitsa), japana:ピザ (piza), korea:피자 (pija)  
 **plan** ** ← angla:hispana:franca:plan, portugala:plano, rusa:план (plan), persa:پلان‎ (plân), hindia:प्लैन (plain), japana:プラン (puran)  
 **planete** ** ← angla:turka:malaja:planet, hispana:portugala:planeta, franca:planète, rusa:планета (planeta)  
 **plastike** ** ← angla:plastic, hispana:portugala:plástico, rusa:пластик (plastik), turka:malaja:plastik, svahila:plastiki, araba:بلاستيك (blastīk), hindia:प्लास्टिक (plāsṭik), japana:プラスチック (purasuchikku), korea:플라스틱 (peullaseutik)  
@@ -1557,6 +1556,7 @@
 **zung** *centro* ← mandarena:中 (zhōng), kantona:中 (zung), korea:중 (jung), japana:中 (chuu-), vjetnama:trung  
 **–i** *-a (-e)* ← araba:(-i), persa:(-i), hindia:-ई (-ī), bengala:-ই (-i), angla:-y, japana:-い (-i), hungara:-i  
 **–ia** *ejo (ujo, io)* ← hispana:portugala:angla:-ia, rusa:-ия (-iya), araba: ية (-iya), japana:屋 (-ya)  
+**–r** *isto (anto)* ← deu:angla:-er, franca:-eur, hispana:-ero, portugala:-eiro, rusa:-арь (-arʹ)  
 **• agrese** *atako (agreso)* ← angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif  
 **• ater** *aganto* ← angla:actor, -ator, franca:-ateur, hispana:portugala:-ador  
 **• balia** *forto* ← hindia:बल (bal), bengala:বল (bôl), malaja:bala, teluga:బలము (balamu), taja:พล (pon), พละ (pá-lá)  

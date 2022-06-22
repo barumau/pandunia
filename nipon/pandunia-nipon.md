@@ -79,6 +79,7 @@ Austronesia - オーストロネシア
 aute - 自己  
 autokratia - 君主制  
 autologe - 独白 (独話)  
+automatike - 自動な  
 
 ## B  
 
@@ -126,7 +127,7 @@ berilium - ベリリウム
 berkelium - バークリウム  
 berze - 樺  
 bete - テーブルビート  
-bia - 生物  
+bie - 生物  
 biocaniver - 堆肥  
 bioginse - 生物学の性  
 biolojia - 生物学  
@@ -160,8 +161,8 @@ bromium - 臭素
 brune - 茶色  
 brunalge - 褐藻  
 brunsalmon - ブラウントラウト  
-• bucer - 肉屋  
 • bucokan - 屠畜場  
+• bucer - 肉屋  
 Buda - 仏陀  
 bufete - ビュッフェ (バイキング)  
 buke - 本 (書物)  
@@ -421,8 +422,8 @@ genoloke - 出生地
 genotipe - 遺伝子型  
 gense - 性別 (ジェンダー)  
 gensolojia - ジェンダー研究  
-• gerer - 戦士 (武士)  
 • geriler - ゲリラ  
+• gerer - 戦士 (武士)  
 germanium - ゲルマニウム  
 gestolingue - 手話  
 gidobuke - ガイドブック  
@@ -594,9 +595,9 @@ kantalupomelon - カンタロープ
 kapotruke - 罠  
 kar - 車  
 kare - 働く  
-karer - 労働者  
 karloge - 動詞  
 karmise - 提出  
+karer - 労働者  
 • duskar - 悪事  
 karbe - 炭素  
 karbosui - 炭水化物  
@@ -1031,6 +1032,7 @@ pinkardon - ゴロツキアザミ
 pinsoban - 用箋挟  
 piprominte - ペパーミント  
 piram - ピラミッド (金字塔)  
+pizaria - ピザ屋  
 • explanete - 系外惑星  
 plate - 平ら  
 plati geokaskia - プレートテクトニクス (プレート理論)  
@@ -1376,8 +1378,8 @@ veruke - 疣
 vespe - 蜂  
 vesponide - 蜂の巣  
 vestogoril - ニシゴリラ  
-• vider - 見物人  
 vidopunte - 遠近法 (見通し, 観点)  
+• vider - 見物人  
 • dusvide - 見苦しい  
 antransvidable - 不透明  
 • antrasvidable - 不透明  
@@ -1422,8 +1424,8 @@ xukre - ありがとう (どうも)
 xule - 学ぶ  
 xulane - 教える  
 xulaner - 先生 (教師)  
-xuler - 学生  
 xulkan - 学校  
+xuler - 学生  
 xulxefe - 校長  
 xure - 開始  
 

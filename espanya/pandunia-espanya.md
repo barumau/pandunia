@@ -78,8 +78,8 @@ aluminmate - alumbre
 aluminoxide - alúmina  
 ame - amar (amor; querido)  
 • amater - amateur (aficionado)  
-• amer - amante (enamorado)  
 • amike - amado (cariño)  
+• amer - amante (enamorado)  
 • aname - detestar  
 ama - pero (sino)  
 Amare - amhara  
@@ -168,10 +168,10 @@ astronomia - astronomía
 Asur - Assur (Ashur)  
 Asuria - Asiria  
 ate - acto  
-• ater - agente  
 • ation - acción  
 • ative - activo  
 • anative - desactivado  
+• ater - agente  
 • ature - obra  
 • dusate - pecado  
 • reate - reaccionar  
@@ -192,8 +192,10 @@ aure - oro
 Australia - Australia  
 Austronesia - Austronesia  
 aute - mismo (personal, privado, a medida)  
+• auter - autor  
 autokratia - autocratia (monarquía)  
 autologe - monólogo  
+automatike - automático  
 automote - automotor (automotriz)  
 autonome - autónomo  
 autonomia - autonomía  
@@ -239,8 +241,8 @@ bangle - bengalí
 Banglodex - Bangladés  
 banyakamar - baño  
 banke - ahorrar (reservar, depositar)  
-• banker - banquero  
 • bankokan - banco  
+• banker - banquero  
 bankorutia - bancarrota (quiebra)  
 banse - bambú  
 banya - bañarse (baño)  
@@ -277,9 +279,9 @@ bau - tesoro (precioso)
 bavite - piedra preciosa (joya, gema)  
 baze - base (básico; fundar, basar)  
 baze bol - béisbol  
-bazer - fundador  
 bazokanun - constitución  
 bazopetre - lecho de roca  
+bazer - fundador  
 bazoxulkan - escuela primaria  
 bazostrute - infraestructura  
 bazar - mercado (bazar)  
@@ -290,15 +292,15 @@ bedinge - berenjena
 bege - escaparse (evitar, huir)  
 Beijing - Pekín  
 beke - hornear (cocer)  
-beker - panadero  
 bekofan - terracota  
 bekokan - panadería  
+beker - panadero  
 bel - belio  
 • belente - beligerante  
 • belike - bélico  
 • belikisme - belicismo  
-• rebeler - rebelde  
 • rebelion - rebelión (sublevación)  
+• rebeler - rebelde  
 Belarus - Belarús  
 belce - pala  
 Belgia - Bélgica  
@@ -317,7 +319,7 @@ Bermuda - Bermuda
 berze - abedul  
 bete - remolacha  
 beton - concreto (hormigón)  
-bia - vida orgánica  
+bie - vida orgánica  
 biocaniver - abono orgánico (compost)  
 bioginse - sexo  
 biolojia - biología  
@@ -389,8 +391,8 @@ brunsalmon - trucha marrón
 Brunei - Brunei  
 brus - hermano o hermana  
 buce - carnear (matar)  
-• bucer - carnicero  
 • bucokan - matadero  
+• bucer - carnicero  
 bude - comprensión (entendimiento; concienciado, iluminado))  
 • budisme - budismo  
 • budiste - budista  
@@ -468,8 +470,8 @@ cepe - capturar (apresar)
 • excepe - excepto (exceptuar)  
 • intercepe - interceptar  
 • recepe - recibir  
-• receper - receptor  
 • recepion - recepción  
+• receper - receptor  
 Ceres - Ceres (planeta enano)  
 ceresium - cerio  
 cerize - cereza  
@@ -525,8 +527,8 @@ cuzoliste - menú (catálogo)
 
 dai - grande (crecer, aumentar)  
 • dayia - tamaño  
-dayangiler - embajador  
 dayangilkan - embajada  
+dayangiler - embajador  
 daidom - palacio (mansión)  
 daihai - océano  
 dayite - peñasco (pedrusco)  
@@ -576,8 +578,8 @@ debu - deber (necesitar)
 deci - deci-  
 decibel - decibelio  
 defe - defender (defensa)  
-• defer - defensor  
 defkaske - armadura  
+• defer - defensor  
 defoban - escudo  
 dege - conseguir (obtener, ganar)  
 deger - engendrador  
@@ -617,8 +619,8 @@ deunagre - devanágari
 deusage - mito (cuento divino)  
 deusofia - teosofía  
 dike - apuntar (dirección)  
-• diker - puntero  
 • dikion - deíxis  
+• diker - puntero  
 dikobaton - puntero  
 din - religión  
 • diniste - creyente  
@@ -743,8 +745,6 @@ englokitabe - anglicanizar
 englomargarite - margarita común (pascueta)  
 enjener - ingeniero  
 enzim - enzima  
-er - hacedor (perpetrador)  
-eria - arte (campo)  
 erbium - erbio  
 Eris - Eris (planeta enano)  
 Eritria - Eritrea  
@@ -821,9 +821,9 @@ feste - celebrar (festejar; celebración, fiesta)
 festoden - día festivo (feriado)  
 fete - hacer  
 fete - hacer (hecho)  
+• fetokan - fábrica  
 • feter - factor  
 • feteria - fábrica  
-• fetokan - fábrica  
 • feture - hecho (hechura)  
 • exfete - efecto  
 • infetion - infección  
@@ -887,8 +887,8 @@ fotobaton - antorcha
 fotofrike - pulir (lustrar)  
 fotograf - foto (fotografía)  
 fotografia - fotografía  
-fotografer - fotógrafo  
 fotografmaxin - cámara  
+fotografer - fotógrafo  
 fotominar - faro (baliza, almenara)  
 fotorade - rayo luminoso  
 fotosirke - halo (aureola)  
@@ -1022,10 +1022,10 @@ gele - gel (jalea)
 gem - juego (jugar un juego)  
 • gemer - jugador  
 gene - nacimiento (origen)  
-• rigenerate - regenerar  
 • geneti - genético  
 • genite - criar  
 • genolojia - genealogía  
+• rigenerate - regenerar  
 • exogene - exógeno  
 • ingene - innato (endógeno)  
 genobase - lengua materna  
@@ -1037,9 +1037,9 @@ genotipe - genotipo
 gence - examinar (inspeccionar)  
 gense - sexo (género)  
 gere - guerra  
-• gerer - guerrero  
 • gerile - guerrilla  
 • geriler - guerrillero  
+• gerer - guerrero  
 Germania - Germania  
 germanium - germanio  
 Gerneze - Guernesey  
@@ -1088,8 +1088,8 @@ grave - grava
 Grenada - Granada  
 Grenadin nesia - Granadinas  
 • agrese - agresión (ataque)  
-• agreser - agresor  
 • agresive - agresivo  
+• agreser - agresor  
 • progrese - avanzar (entrar, adelantar, progresar)  
 grimas - mueca  
 grom - truenos (estruendo)  
@@ -1295,9 +1295,9 @@ idiote - estúpido (tonto)
 idiotia - estupidez (tontería)  
 impere - reinar (reinar como emperador)  
 imperia - imperio  
-imperer - emperador  
 imperisme - imperialismo  
 imperiste - imperialista  
+imperer - emperador  
 in - interior  
 ine - interior (interno)  
 intre - interior (interno)  
@@ -1355,8 +1355,8 @@ jekocepe - pedir prestado
 jekodone - prestar  
 jekolexe - préstamo lingüístico  
 jele - encarcelar (aprisionar)  
-• jeler - carcelero  
 • jelokan - cárcel  
+• jeler - carcelero  
 jenisme - jainismo  
 jeng - pelea (guerra, batalla)  
 jenge - macrial (militar)  
@@ -1377,8 +1377,8 @@ joker - bromista (chistoso)
 jongle - hacer malabarismos  
 • jongler - malabarista  
 jude - juzgar (fallo, juicio, criterio)  
-• juder - juez (árbitro, réferi)  
 • judokan - tribunal de justicia  
+• juder - juez (árbitro, réferi)  
 • exjude - extrajudicial  
 judau - yudo  
 jul - joule (J)  
@@ -1462,11 +1462,11 @@ kapa pes - pescar
 kapotruke - trampa  
 kar - coche (carruaje, auto, vagón)  
 kare - trabajar  
-karer - trabajador (obrero)  
 karloge - verbo  
 karmeze - escritorio (mesa de trabajo)  
 karmise - entregar (enviar)  
 karparke - estacionamiento (aparcamiento)  
+karer - trabajador (obrero)  
 • duskar - pecado  
 Karaibia - Caribe  
 karaoke - karaoke  
@@ -1606,9 +1606,9 @@ kola jus - cola (refresco de cola)
 Kolombia - Colombia  
 kolone - colonizar  
 kolonia - colonia  
-koloner - colono  
 kolonisme - colonialismo  
 koloniste - colonialista  
+koloner - colono  
 kolum - columna  
 kome - coma  
 komodia - comedia  
@@ -1717,8 +1717,8 @@ kube - cubo
 Kuba - Cuba  
 kuke - cocinar (preparar)  
 Kuke nesia - Islas Cook  
-kuker - cocinero  
 kukokamar - cocina  
+kuker - cocinero  
 kuku - cuco  
 kule - genial  
 kulombe - culombio  
@@ -1936,8 +1936,8 @@ makanful - dientes de león (panaderos)
 makas - tijera  
 Makau - Macao  
 male - poseer (tener, ser dueño de; propiedad)  
-• maler - dueño  
 • malonomia - economía  
+• maler - dueño  
 • be male - ser de  
 malagas - malgache  
 Malagasia - Madagascar  
@@ -2120,9 +2120,9 @@ mirde - ligero (leve, vago, débil, borroso)
 mise - enviar (transmitar)  
 • misia - emisión  
 • misaje - mensaje  
-• miser - remitente  
 • mision - misión  
 • misioner - misionero  
+• miser - remitente  
 • inmise - importar  
 • konmisia - comisión (comité)  
 • tranmise - transmitir  
@@ -2162,26 +2162,24 @@ moluske - molusco
 Monako - Mónaco  
 mongole - mongol  
 Mongolia - Mongolia  
-monoster - monstro  
+monster - monstro  
 monte - montaña (monte)  
 • montaner - alpinista (montañista)  
 morfe - morfo  
 morfem - morfema  
 morfeme - morfema  
-Moris - Mauricio  
-morte - muerte (fallecimiento)  
-morte - matar (morir, asesinar)  
-morte - muerto  
-mortu - morirse  
-morter - asesino  
+Maurisia - Mauricio  
+morte - morirse (muerte; muerto)  
+• mortife - matar (morir, asesinar)  
+• morter - asesino  
 mos - musgo  
 mosim - estación (temporada)  
 moskite - mosquito  
 moskovium - moscovio  
 mote - movimiento  
-moter - motor  
 motogar - automóvil (coche)  
 motor skuter - scooter  
+moter - motor  
 motosikle - motocicleta  
 Mozambike - Mozambique  
 mudan - peonía  
@@ -2268,9 +2266,9 @@ natre - natrón
 natrium - sodio  
 nau - barco (bote)  
 nave - navegar (ir en bote)  
-naver - velero  
 naukaper - corsario  
 naulefte - babor  
+naver - velero  
 nauraite - estribor  
 nauxefe - capitán  
 navate - náhuatl (nahua)  
@@ -2387,12 +2385,12 @@ odise - oriya
 ofis - cargo  
 ofise - oficial  
 ofisia - ministerio (departamento)  
-ofiser - funcionario  
 ofiskan - oficina  
+ofiser - funcionario  
 oke - ojo  
 oke - ocular  
-speter - espectador  
 okokex - pestaña  
+speter - espectador  
 okosui - lágrima  
 okosuigas - gas lacrimógeno  
 okeye - aceptar  
@@ -2591,15 +2589,15 @@ pipre - pimienta
 piprominte - piperita  
 piram - pirámide  
 piratia - piratería  
-pirater - pirata  
 piratiste - partidario de infracción de copyright  
 piratisti partia - Partido Pirata  
+pirater - pirata  
 pis - pis (meados)  
 pise - mear  
 pistol - pistola  
 Pitkerne nesia - Islas Pitcairn  
-pize - pizza  
-pizokan - pizzería  
+piza - pizza  
+pizaria - pizzería  
 plan - plan  
 plane - planear (tener pensado)  
 planete - planeta  
@@ -2640,18 +2638,18 @@ poliser - policía
 polite - gobierno  
 polite - gobernar  
 politia - política  
-politer - administrador  
 politike - político  
 politike - político  
 politolojia - ciencia política  
 politomode - régimen  
+politer - administrador  
 Polske - Polonia  
 polske - polaco  
 polskium - polonio  
 pompe - bombear  
 ponte - apuntar (indicar)  
-ponter - indicador (cursor)  
 pontopin - brújula  
+ponter - indicador (cursor)  
 pore - poro  
 • porosi - poroso  
 porei - puerro (cebolla larga)  
@@ -2742,6 +2740,8 @@ puzorite - rito (ceremonia)
 
 ## R  
 
+–r - hacedor (perpetrador)  
+ria - arte (campo)  
 rade - rayo  
 rade - radiar (emitir)  
 radi geter - receptor de radio  
@@ -2875,9 +2875,9 @@ sade - sencillo (liso)
 safe - limpio (limpiar)  
 • safer - limpiador  
 safar - viaje (viajar)  
-• safarer - viajero  
 • safarisme - turismo  
 • safariste - turista  
+• safarer - viajero  
 safaroceke - cheque de viajero  
 safran - azafrán  
 sage - historia (cuento, relato, leyenda; relatar, narrar)  
@@ -2931,8 +2931,8 @@ Sante Vincente - Isla de San Vicente
 Sante Vincente e Grenadin - San Vicente y las Granadinas  
 sanze - abanico (ventilador)  
 sapate - zapato  
-sapater - zapatero  
 sapatokan - zapatería  
+sapater - zapatero  
 sar - cabeza  
 sarkaske - casco (yelmo)  
 saroste - cráneo (calavera)  
@@ -3002,8 +3002,8 @@ serebre - cerebro
 serpe - serpiente (culebra)  
 serve - servicio  
 serve - servir  
-server - criado (sirviente)  
 servor - servidor  
+server - criado (sirviente)  
 sesam - ajonjolí (sésamo)  
 sexe - sexo  
 sexe - tener sexo  
@@ -3128,8 +3128,8 @@ sosis - salchicha
 Soto - Lesoto  
 sponge - esponja  
 sporte - deporte  
-• sporter - deportista  
 • sportokan - gimnasio  
+• sporter - deportista  
 stadia - estadio (arena)  
 stanium - estaño  
 state - pararse (detenerse)  
@@ -3372,8 +3372,8 @@ tragokomi - tragicómico
 tragodia - tragedia  
 transe - tránsito  
 transe - transitar (atravesar)  
-transeria - transporte  
 transogone - diagonal  
+transeria - transporte  
 trate - arrastrar  
 • trator - tractor  
 • distrate - distraer  
@@ -3525,8 +3525,8 @@ veze metal - metal pesado
 vezometrer - pesa (báscula, balanza)  
 vide - ver (mirar; visión)  
 • vidaje - vista  
-• vider - espectador  
 vidopunte - perspectiva (punto de vista)  
+• vider - espectador  
 • dusvide - feo  
 • exvide - evidente  
 • exvidable - evidente  
@@ -3636,8 +3636,8 @@ xule - aprender (estudiar)
 xulia - educación  
 xulane - enseñar  
 xulaner - maestro (profesor, docente)  
-xuler - estudiante  
 xulkan - escuela (colegio, institución)  
+xuler - estudiante  
 xulxefe - director de colegio  
 xure - comienzo (inicio, principio; comenzar, iniciar, empezar)  
 xute - dotes (arte, habilidad)  

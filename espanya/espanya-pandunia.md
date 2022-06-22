@@ -255,7 +255,7 @@ arroz - ris
 arruinado (devastado, asolado) - harabe  
 arruinar (destruir, devastar, asolar) - harabe  
 arsénico - arsene  
-arte (campo) - eria  
+arte (campo) - ria  
 arte - arte  
 arte marcial - jengoxute  
 artefacto - artofete  
@@ -303,9 +303,11 @@ Austronesia - Austronesia
 autenticar - verife  
 autocratia (monarquía) - autokratia  
 automotor (automotriz) - automote  
+automático - automatike  
 automóvil (coche) - motogar  
 autonomía - autonomia  
 autopsia - nekrotome  
+autor - auter  
 autónomo - autonome  
 avanzar (entrar, adelantar, progresar) - progrese  
 avena - aven  
@@ -1615,7 +1617,7 @@ género social - soce ginse
 habitación (cuarto, sala, pieza) - kamar  
 hablador (locuaz) - logive  
 hablante de Pandunia - panduniste  
-hacedor (perpetrador) - er  
+hacedor (perpetrador) - –r  
 hacer (hecho) - fete  
 hacer - fete  
 hacer malabarismos - jongle  
@@ -2169,13 +2171,13 @@ masa (trozo, pedazo) - mas
 masaje - masaje  
 masculino (macho) - man  
 matadero - bucokan  
-matar (morir, asesinar) - morte  
+matar (morir, asesinar) - mortife  
 matasellos - postomarke  
 mate cocido - mate cai  
 matemática - hisabolojia  
 matemático - hisabolojer  
 material - mate  
-Mauricio - Moris  
+Mauricio - Maurisia  
 mauritania - Muritania  
 maya - mayan  
 mayo - lun lima  
@@ -2302,7 +2304,7 @@ monismo - unemisme
 monocromático - unorange  
 monoteismo - undevisme  
 monoteismo - unodevisme  
-monstro - monoster  
+monstro - monster  
 montaña (colina) - san  
 montaña (monte) - monte  
 Montenegro - Cernagore  
@@ -2315,7 +2317,7 @@ morder - danta
 morfema - morfem  
 morfema - morfeme  
 morfo - morfe  
-morirse - mortu  
+morirse (muerte; muerto) - morte  
 mosco - domzeze  
 moscovio - moskovium  
 mosquete - muskete  
@@ -2334,8 +2336,6 @@ muchos - multe
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - kine  
 mueca - grimas  
 muela - molite  
-muerte (fallecimiento) - morte  
-muerto - morte  
 muesli - musle  
 mujer (hembra) - fem  
 mujer (señora) - maturi fem  
@@ -2754,8 +2754,8 @@ piscina (alberca, lavadero) - basen
 piso (suelo) - kamartal  
 pistola (rifle) - pau  
 pistola - pistol  
-pizza - pize  
-pizzería - pizokan  
+pizza - piza  
+pizzería - pizaria  
 piña - nanas  
 placa tectónica - geokaski plate  
 plan - plan  
@@ -3660,7 +3660,7 @@ vicepresidente - visopresidante
 vicepresidente - visopresidente  
 victoria - seng  
 vida - zive  
-vida orgánica - bia  
+vida orgánica - bie  
 vidriado (esmalte) - kancodake  
 vidriar (glasear) - kancodake  
 vidrio (cristal) - kance  

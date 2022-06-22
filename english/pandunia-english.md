@@ -124,8 +124,8 @@ aluminmate - alum
 aluminoxide - alumina (aluminum oxide)  
 ame - love (liking, affection; dear, beloved)  
 • amater - amateur  
-• amer - lover  
 • amike - darling (honey)  
+• amer - lover  
 • aname - dislike (loathe)  
 • anamike - enemy  
 ama - but (rather)  
@@ -222,11 +222,11 @@ astronomia - astronomy
 Asur - Assur  
 Asuria - Assyria  
 ate - act (deed)  
-• ater - agent (doer, actor)  
 • ation - action  
 • ative - active (working; activate, enable, turn on, trigger)  
 • ativate - activate (turn on)  
 • anative - off (deactivated, disabled, inactive)  
+• ater - agent (doer, actor)  
 • ature - work (product)  
 • deative - deactivate (disable, turn off)  
 • deativate - deactivate (turn off)  
@@ -252,8 +252,11 @@ aure - gold
 Australia - Australia  
 Austronesia - Austronesia  
 aute - self (identity; personal, intimate, private)  
+• auter - author (auteur, independent actor)  
 autokratia - autocracy (monarchy)  
 autologe - monolog  
+automate - automat  
+automatike - automatic  
 automote - self-moving (automotive, automobile)  
 autonome - autonomous  
 autonomia - autonomy  
@@ -303,13 +306,13 @@ bangle - Bengali (Bangla)
 Banglodex - Bangladesh  
 banyakamar - bathroom  
 banke - bank (deposit, save)  
-• banker - banker  
 • bankokan - bank (depository, cache)  
+• banker - banker  
 bankorute - bankrupt (insolvent)  
 bankorutia - bankruptcy (insolvency)  
 banse - bamboo  
 banya - bathe (bath)  
-bar - bar  
+bar - bar (public house)  
 bare - bar (barrier, fence)  
 barium - barium  
 Barbados - Barbados  
@@ -343,9 +346,9 @@ bau - treasure (valuables; precious)
 bavite - gem (gemstone, jewel)  
 baze - base (foundation; basic; base on, found)  
 baze bol - baseball  
-bazer - founder  
 bazokanun - consitution  
 bazopetre - bedrock  
+bazer - founder  
 bazoxulkan - primary school (elementary school, gradeschool)  
 bazostrute - intrastructure (underbuilding)  
 bazar - market (bazaar)  
@@ -357,17 +360,17 @@ bedinge - eggplant (aubergine, brinjal)
 bege - escape (flee, run away)  
 Beijing - Beijing (Peking)  
 beke - bake  
-beker - baker  
 bekofan - terracotta  
 bekokan - bakery (bakehouse)  
+beker - baker  
 bel - bel (unit)  
 bele - fight (war)  
 • belente - belligerent (warring)  
 • belike - bellicose (warlike)  
 • belikisme - bellicism  
 • rebele - rebel  
-• rebeler - rebel  
 • rebelion - rebellion  
+• rebeler - rebel  
 Belarus - Belarus  
 belce - shovel (spade, scoop)  
 Belgia - Belgium  
@@ -388,7 +391,7 @@ Bermuda - Bermuda
 berze - birch tree  
 bete - beetroot  
 beton - concrete (material with cement)  
-bia - organism (organic life)  
+bie - organism (organic life)  
 biocaniver - compost  
 bioginse - biological sex  
 biolojia - biology (study of organic life)  
@@ -465,8 +468,8 @@ Brunei - Brunei Darussalam
 brus - sibling (brother or sister)  
 brusben - nephew or niece  
 buce - butcher (slaughter)  
-• bucer - butcher  
 • bucokan - abattoir (slaughterhouse)  
+• bucer - butcher  
 bude - realize (realization, awareness, enlightenment, bodhi; aware, enlightened)  
 • budisme - Buddhism  
 • budiste - Buddhist  
@@ -554,8 +557,8 @@ cepe - catch (capture, take, seize)
 • intercepe - intercept (snatch)  
 • koncepe - conceive (take together; concept)  
 • recepe - take back  
-• receper - receiver (receptor)  
 • recepion - reception  
+• receper - receiver (receptor)  
 Ceres - Ceres (dwarf planet)  
 ceresium - cerium  
 cerize - cherry  
@@ -631,8 +634,8 @@ cuzoliste - menu (catalog)
 
 dai - big (great, large; get bigger, grow in size)  
 • dayia - size  
-dayangiler - ambassador  
 dayangilkan - embassy  
+dayangiler - ambassador  
 daidarge - amplify (scale)  
 daidom - palace (mansion)  
 daihai - ocean  
@@ -688,8 +691,8 @@ debu - must
 deci - deci-  
 decibel - decibel  
 defe - defend (ward off; defense, defence)  
-• defer - defender  
 defkaske - armor (shielding)  
+• defer - defender  
 defoban - shield  
 dege - get (gain, obtain, receive)  
 deger - getter (receiver, recipient)  
@@ -735,8 +738,8 @@ deunagre - Devanagari alphabet
 deusage - myth (divine story)  
 deusofia - theosophy  
 dike - direct (point, aim; direction; target, objective)  
-• diker - pointer (director)  
 • dikion - pointing (indication, deixis)  
+• diker - pointer (director)  
 • indike - indicate (point into)  
 dikobaton - teacher’s pointer  
 • dikive pronam - demonstrative pronoun  
@@ -766,8 +769,8 @@ doice - German
 doke - prove (demonstrate, show, instruct)  
 • dokaje - doctrine (body of teachings)  
 • dokente - docent  
-• doker - doctor  
 • dokomen - document (paper used as a proof)  
+• doker - doctor  
 dokum - document (record, file)  
 dokumfilme - documentary film  
 dokumsanduke - folder (directory)  
@@ -779,8 +782,8 @@ dom - home (house, residence; reside, live in, inhabit)
 • domine - dominate  
 • domination - domination (dominion)  
 • dominente - dominant  
-• dominer - dominator  
 dominogem - dominoes  
+• dominer - dominator  
 domzeze - housefly  
 • dominia - domain (dominion)  
 Dominiki Komunkratia - Dominican Republic  
@@ -896,8 +899,6 @@ englokitabe - anglicize
 englomargarite - English daisy  
 enjener - engineer  
 enzim - enzyme  
-er - doer (agent, actor)  
-eria - field (art, workforce)  
 erbium - erbium  
 Eris - Eris (dwarf planet)  
 Eritria - Eritrea  
@@ -905,8 +906,8 @@ ese - exist
 • esente - being  
 • esentia - essence  
 • esential - essential  
-eser - being (entity)  
 esive - essive case  
+eser - being (entity)  
 • aesive - adessive case  
 • abesive - abessive case  
 • exese - exist (be out there)  
@@ -999,9 +1000,9 @@ feste - party (celebration, festival; celebrate)
 festoden - holiday  
 fete - do (make)  
 fete - do (make; deed, fact)  
+• fetokan - factory  
 • feter - maker (factor, agent)  
 • feteria - factory (plant)  
-• fetokan - factory  
 • feture - feature (product of work)  
 • defete - defeat (do away with)  
 • exfete - effect (impact, influence, affect)  
@@ -1091,8 +1092,8 @@ fotobaton - torch
 fotofrike - polish  
 fotograf - photograph  
 fotografia - photography  
-fotografer - photographer  
 fotografmaxin - camera  
+fotografer - photographer  
 fotolin - optical fibre (optical cable)  
 fotominar - beacon (lighthouse)  
 fotorade - ray of light  
@@ -1247,11 +1248,6 @@ gele - gel (jelly)
 gem - game (play a game)  
 • gemer - player (gamer)  
 gene - birth (beget, create, breed, generate, produce)  
-• gener - creator  
-• generate - generate   
-• generation - generation    
-• ingenerate - ingenerate (produce within)  
-• rigenerate - regenerate (reproduce)  
 • genese - genesis  
 • genete - gene  
 • geneti - genetic  
@@ -1259,6 +1255,11 @@ gene - birth (beget, create, breed, generate, produce)
 • genite - breed  
 • genolojia - genealogy (study of descent)  
 • genome - genome  
+• gener - creator  
+• generate - generate   
+• generation - generation    
+• ingenerate - ingenerate (produce within)  
+• rigenerate - regenerate (reproduce)  
 • eugenisme - eugenics  
 • exogene - exogeneous  
 • ingene - innate (endogeneous, indigenous, inborn)  
@@ -1276,9 +1277,9 @@ gense - gender (sex)
 gensi - sexual (pertaining to gender)  
 gensolojia - gender studies  
 gere - war  
-• gerer - warrior (soldier)  
 • gerile - guerrilla war  
 • geriler - guerrilla  
+• gerer - warrior (soldier)  
 Germania - Germania  
 germanium - germanium  
 Gerneze - Guernsey  
@@ -1333,8 +1334,8 @@ Grenada - Grenada
 Grenadin nesia - the Grenadines  
 grese - stride  
 • agrese - attack (assault, aggression, hostility)  
-• agreser - aggressor  
 • agresive - aggressive  
+• agreser - aggressor  
 • progrese - progress (stride forward, advance, go forward)  
 • progresion - advancement (milestone)  
 • regrese - regress (fall back)  
@@ -1568,9 +1569,9 @@ ifrite - ifrit
 ike - -ic (a person or thing with specific character)  
 impere - reign (rule as an emperor)  
 imperia - empire  
-imperer - emperor  
 imperisme - imperialism  
 imperiste - imperialist  
+imperer - emperor  
 in - inside (interior)  
 ine - inner (internal)  
 intre - inside (interior)  
@@ -1639,8 +1640,8 @@ jekocepe - borrow
 jekodone - lend  
 jekolexe - loanword  
 jele - imprison (jail)  
-• jeler - jailer (imprisoner)  
 • jelokan - prison  
+• jeler - jailer (imprisoner)  
 jenisme - Jainism  
 jeng - fight (war, battle, combat)  
 jenge - military (martial, warlike)  
@@ -1669,8 +1670,8 @@ joker - joker
 jongle - juggle  
 • jongler - juggler  
 jude - judge (judgment, sentence; judicial)  
-• juder - judge (referee)  
 • judokan - court of law (court of law)  
+• juder - judge (referee)  
 • exjude - extrajudicial  
 judau - judo  
 jul - joule (J)  
@@ -1766,12 +1767,12 @@ kapotruke - trap (snare)
 kapse - box (container)  
 kar - car (cart, carriage, wagon, automobile)  
 kare - work  
-karer - worker  
 karokan - workshop  
 karloge - verb  
 karmeze - desk  
 karmise - submit (present)  
 karparke - car park (parking lot)  
+karer - worker  
 karxuler - apprentice  
 • duskar - misdeed (sin, vice)  
 Karaibia - Caribbean  
@@ -1929,9 +1930,9 @@ kola pal - kola nut
 Kolombia - Colombia  
 kolone - colonize  
 kolonia - colony (settlement)  
-koloner - colonist  
 kolonisme - colonialism  
 koloniste - colonialist  
+koloner - colonist  
 kolum - column (pillar, pole, post)  
 kome - comma  
 komi - comic (funny)  
@@ -2009,6 +2010,7 @@ kratia - rule (reign)
 krede - believe (trust, credit)  
 • kredable - credible (believable)  
 • krediste - believer (religious person)  
+• bekrede - trustee  
 • ankrede - distrust (disbelieve)  
 • ankredable - incredible (unbelievable)  
 • ankrediste - unbeliever (infidel)  
@@ -2056,8 +2058,8 @@ kube - cube
 Kuba - Cuba  
 kuke - cook (prepare food)  
 Kuke nesia - Cook Islands  
-kuker - cook (chef)  
 kukokamar - kitchen  
+kuker - cook (chef)  
 kuku - cuckoo  
 kule - cool  
 kulombe - coulomb (unit)  
@@ -2315,9 +2317,9 @@ makanful - dandelion
 makas - scissors (shears)  
 Makau - Macao  
 male - own (possess; property, belongings, possessions)  
-• maler - owner (proprietor, possessor)  
 • malike - lord (owner)  
 • malonomia - economics  
+• maler - owner (proprietor, possessor)  
 • be male - belong  
 malagas - Malagasy  
 Malagasia - Madagascar  
@@ -2534,9 +2536,9 @@ mise - send
 mise - send (emit, transmit)  
 • misia - mission (transmission, emission)  
 • misaje - message  
-• miser - sender (transmitter)  
 • mision - mission (sending)  
 • misioner - missionary  
+• miser - sender (transmitter)  
 • exmise - emit (send out)  
 • inmise - import  
 • konmise - commit  
@@ -2581,20 +2583,18 @@ moluske - mollusk
 Monako - Monaco  
 mongole - Mongol  
 Mongolia - Mongolia  
-monoster - monster  
+monster - monster  
 monte - mountain (mount, hill)  
 • montaner - mountaineer  
 • montete - hill  
 morfe - morph  
 morfem - morpheme  
 morfeme - morpheme  
-Moris - Mauritius  
-morte - death  
-morte - kill  
-morte - dead (deceased)  
-mortu - die  
+Maurisia - Mauritius  
+morte - die (death; dead, deceased)  
 • mortal - mortal  
-morter - killer  
+• mortife - kill  
+• morter - killer  
 • posmortal - post mortem  
 mos - moss  
 mosim - season  
@@ -2602,9 +2602,9 @@ moskite - mosquito
 Moskove - Moscow  
 moskovium - moscovium  
 mote - motion (movement)  
-moter - engine (motor)  
 motogar - motorcar (automobile)  
 motor skuter - motor scooter  
+moter - engine (motor)  
 motosikle - motorcycle  
 Mozambike - Mozambique  
 mudan - peony  
@@ -2702,9 +2702,9 @@ natre - natron
 natrium - sodium  
 nau - boat (ship)  
 nave - sail  
-naver - sailer  
 naukaper - privateer (buccaneer)  
 naulefte - port (left side of a ship)  
+naver - sailer  
 nauraite - starboard (right side of a ship)  
 nauxefe - captain  
 navate - Nahuatl (Nahua)  
@@ -2839,13 +2839,13 @@ odise - Odia (Oriya)
 ofis - office (position)  
 ofise - official  
 ofisia - office (bureau)  
-ofiser - officer  
 ofiskan - office (room)  
+ofiser - officer  
 oke - eye  
 oke - eye (look, watch, observe, spectate)  
 oke - ocular  
-speter - spectator (observer)  
 okokex - eyelash  
+speter - spectator (observer)  
 okosui - tear drop  
 okosuigas - tear gas  
 okei - okay (acceptance)  
@@ -2994,8 +2994,8 @@ partia - party (group)
 partative - partitive case  
 • partecepe - participate  
 • parteceper - participant  
-parter - participant  
 • partekul - particle  
+parter - participant  
 • departure - departure  
 pase - pass (go across or through)  
 pase - past (bygone)  
@@ -3101,16 +3101,16 @@ pipre - pepper (peppercorn)
 piprominte - peppermint  
 piram - pyramid  
 piratia - piracy (hijacking)  
-pirater - pirate (hijacker)  
 piratiste - pirate (one who disobeys intellectual property laws)  
 piratisti partia - Pirate Party  
+pirater - pirate (hijacker)  
 airopiratia - air piracy (skyjacking)  
 pis - piss (urine)  
 pise - piss (urinate)  
 pistol - pistol  
 Pitkerne nesia - Pitcairn Islands  
-pize - pizza  
-pizokan - pizzeria  
+piza - pizza  
+pizaria - pizzeria  
 plan - plan  
 plane - intend (plan)  
 planolingue - planned language  
@@ -3157,18 +3157,18 @@ poliser - police officer
 polite - government (administration, polity)  
 polite - administer (govern)  
 politia - politics  
-politer - administrator  
 politike - politician (statesman)  
 politike - political  
 politolojia - politicology  
 politomode - regime  
+politer - administrator  
 Polske - Poland  
 polske - Polish  
 polskium - polonium  
 pompe - pump  
 ponte - point at (indicate)  
-ponter - pointer (indicator)  
 pontopin - compass (magnetized needle)  
+ponter - pointer (indicator)  
 pore - pore  
 • porosi - porous  
 porei - leek  
@@ -3285,6 +3285,8 @@ puzorite - ritual (ceremony, religious custom)
 
 ## R  
 
+–r - doer (agent, actor)  
+ria - field (art, workforce)  
 rade - ray  
 rade - radiate  
 radi geter - radio receiver  
@@ -3446,9 +3448,9 @@ sade di - simply (merely, only)
 safe - clean (pure; purify)  
 • safer - cleaner  
 safar - travel (voyage, trip)  
-• safarer - traveler  
 • safarisme - tourism  
 • safariste - tourist  
+• safarer - traveler  
 safaroceke - traveller's cheque (traveler's check)  
 safran - saffron  
 sage - tale (story, legend, saga; tell, narrate)  
@@ -3505,8 +3507,8 @@ Sante Vincente - Saint Vincent
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanze - fan (ventilator)  
 sapate - chaussure  
-sapater - shoemaker  
 sapatokan - shoemaker's shop  
+sapater - shoemaker  
 sar - head  
 sarkaske - helmet  
 saroste - skull  
@@ -3585,9 +3587,9 @@ serebre - brain
 serpe - snake (serpent)  
 serve - service  
 serve - serve (give service)  
-server - servant  
 servor - server (host machine)  
 servor nam - servername (hostname)  
+server - servant  
 sesam - sesame  
 sexe - sex (sexual relation; have sex)  
 sexe - have sex  
@@ -3720,8 +3722,8 @@ sosis - sausage
 Soto - Lesotho  
 sponge - sponge  
 sporte - sport (athletics)  
-• sporter - athlete (sportsman)  
 • sportokan - gymnasium (gym)  
+• sporter - athlete (sportsman)  
 stadia - stadium (arena)  
 stan - tract (land, ground, region)  
 stanium - tin  
@@ -4004,8 +4006,8 @@ tragokomi - tragicomic
 tragodia - tragedy  
 transe - transit (passage)  
 transe - transit (pass through or across)  
-transeria - transportation  
 transogone - diagonal  
+transeria - transportation  
 trate - drag (haul, tow, trail)  
 • trator - tractor  
 • atrate - attract  
@@ -4192,9 +4194,9 @@ veze metal - heavy metal
 vezometrer - scales (weighing device)  
 vide - look (see; view, vision)  
 • vidaje - view  
-• vider - spectator (sightseer)  
 • vidion - vision (sight)  
 vidopunte - perspective (point of view)  
+• vider - spectator (sightseer)  
 • dusvide - ugly (unsightly)  
 • exvide - evident (apparent, obvious)  
 • exvidable - obvious (evident)  
@@ -4327,9 +4329,9 @@ xule - learn (study)
 xulia - education (schooling)  
 xulane - teach (educate, instruct)  
 xulaner - teacher  
-xuler - student (pupil, learner)  
 xulkamar - classroom  
 xulkan - school (institution)  
+xuler - student (pupil, learner)  
 xulxefe - headmaster (principal)  
 xure - begin (start, commence, initiate)  
 xute - skill (art, craft)  

@@ -50,8 +50,8 @@ alkol - alkoholo
 almari - ŝranko  
 aluminium - aluminio  
 ame - ami (ŝati)  
-• amer - amanto  
 • amike - karulo  
+• amer - amanto  
 • aname - malami  
 • anamike - malamulo  
 ama - sed  
@@ -99,9 +99,9 @@ astre - astro
 • astronaver - astronaŭto  
 • astronomer - astronomo  
 ate - ago  
-• ater - aganto  
 • ation - agado  
 • ative - agema  
+• ater - aganto  
 • ature - verko (verkaĵo)  
 • reation - reakcio (reago  
 Athina - Ateno  
@@ -114,6 +114,7 @@ aven - aveno
 aure - oro  
 Australia - Aŭstralio  
 Austronesia - Aŭstronezio  
+• auter - aŭtoro  
 automote - memmova  
 axe - akso  
 
@@ -142,8 +143,8 @@ bandir - flago
 Banglodex - Bangladeŝo  
 banyakamar - banĉambro  
 banke - banki  
-• banker - bankisto  
 • bankokan - banko  
+• banker - bankisto  
 bankorute - bankrota  
 bankorutia - bankroto  
 banse - bambuo  
@@ -178,8 +179,8 @@ bede - lito
 bedinge - melongeno  
 bege - fuĝi  
 beke - baki  
-beker - bakisto  
 bekokan - bakejo  
+beker - bakisto  
 Belarus - Belorusio  
 Belgia - Belgio  
 Belize - Beliceo  
@@ -193,7 +194,7 @@ berilium - berilio
 berkelium - berkelio  
 Berlin - Berlino  
 beton - betono  
-bia - organismo  
+bie - organismo  
 biolojia - biologio  
 bible - biblia  
 biblia - Biblio  
@@ -239,8 +240,8 @@ bros - broso
 brune - bruna  
 brus - gefrato  
 buce - buĉi  
-• bucer - buĉisto  
 • bucokan - buĉejo  
+• bucer - buĉisto  
 bude - kompreni (konscii)  
 • budisme - budhismo  
 • budiste - budhisto  
@@ -320,8 +321,8 @@ cuze - elekti
 ## D  
 
 dai - granda  
-dayangiler - ambasadoro  
 dayangilkan - ambasado  
+dayangiler - ambasadoro  
 daidom - palaco  
 daihai - oceano  
 dayite - ŝtonego  
@@ -439,7 +440,6 @@ emosu - emocii
 emoshal - animstato  
 energe - energio  
 engle - angla  
-er - isto (anto)  
 erbium - erbio  
 Eris - Eris (planedeto)  
 Eritria - Eritreo  
@@ -490,9 +490,9 @@ fermium - fermio
 feste - festo  
 fete - fari  
 fete - fari (faro, fakto)  
+• fetokan - fabriko  
 • feter - faristo  
 • feteria - fabriko  
-• fetokan - fabriko  
 • infetion - infekto  
 • rifete - ripeti (refari)  
 fetolingue - artefarita lingvo  
@@ -533,8 +533,8 @@ fote - lumo
 fotobaton - torĉo  
 fotograf - foto  
 fotografia - fotografio  
-fotografer - fotisto  
 fotografmaxin - fotilo  
+fotografer - fotisto  
 fotosirke - halo  
 fransi krepe - franca krepo  
 Fransia - Francio  
@@ -847,9 +847,9 @@ kanun - lego
 kanzar - ponardo  
 kape - kapti  
 kar - aŭto (ĉaro)  
-karer - laboristo  
 karokan - laborejo  
 karloge - verbo  
+karer - laboristo  
 Karaibia - Karibio  
 karate - karateo  
 karau - karvio  
@@ -1065,8 +1065,8 @@ mayan - majao
 maitnerium - mejtnerio  
 makan - butero  
 makas - tondilo  
-• maler - havanto  
 • malonomia - ekonomiko  
+• maler - havanto  
 • be male - aparteni  
 Male - Malio  
 malike - jasmeno  
@@ -1161,12 +1161,11 @@ molidenium - molibdeno
 moluske - molusko  
 mongole - mongola  
 Mongolia - Mongolio  
-monoster - monstro  
+monster - monstro  
 monte - monto  
-morte - morto  
-morte - mortigi  
-morte - morta  
-morter - mortigisto  
+morte - morti (morto; morta)  
+• mortife - mortigi  
+• morter - mortigisto  
 mosim - sezono  
 moskovium - moskovio  
 mote - movo  
@@ -1377,8 +1376,8 @@ pipre - pipro
 piram - piramido  
 pis - piso (urino)  
 pise - pisi (urini)  
-pize - pico  
-pizokan - picejo  
+piza - pico  
+pizaria - picejo  
 • explanete - ekzoplanedo  
 platinium - plateno  
 • exploze - eksplodo  
@@ -1431,6 +1430,7 @@ puzomeze - altaro
 
 ## R  
 
+–r - isto (anto)  
 radi geter - radio  
 radium - radiumo  
 radon - radono  
@@ -1525,8 +1525,8 @@ sanduke - skatolo (kesto)
 sante - sankta  
 sanze - ventumilo  
 sapate - ŝuo  
-sapater - ŝuisto  
 sapatokan - ŝuistejo  
+sapater - ŝuisto  
 sarkaske - kasko  
 sartunge - kapdoloro  
 sate - horo de horloĝo  
@@ -1845,8 +1845,8 @@ xul - leciono
 xule - lerni (studi)  
 xulane - instrui  
 xulaner - instruisto  
-xuler - studento (lernanto)  
 xulkan - lernejo  
+xuler - studento (lernanto)  
 xulxefe - lernejestro  
 xure - komenci  
 

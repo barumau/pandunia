@@ -261,8 +261,11 @@ Australia - Australia
 Australian Aboriginal - aslaustrale  
 Austria - Ostria  
 Austronesia - Austronesia  
+author (auteur, independent actor) - auter  
 authority (power to give orders) - amirhake  
 autocracy (monarchy) - autokratia  
+automat - automate  
+automatic - automatike  
 autonomous - autonome  
 autonomy - autonomia  
 autopsy (necrotomy) - nekrotome  
@@ -320,7 +323,7 @@ baobab - buyu
 bar (barrier, fence) - bare  
 bar (pole, rod, shaft, staff, stick) - baton  
 bar (pub, beer house) - birkan  
-bar - bar  
+bar (public house) - bar  
 Barbados - Barbados  
 barbarian - barbar  
 barbecue (grill) - kababe  
@@ -1017,9 +1020,7 @@ day (24 hours) - den
 day (daytime) - yom  
 deactivate (disable, turn off) - deative  
 deactivate (turn off) - deativate  
-dead (deceased) - morte  
 dead (deceised) - nekre  
-death - morte  
 debate (discuss) - lone  
 debug - degalte  
 decay (rot, deteriorate) - pudu  
@@ -1086,8 +1087,8 @@ dictate - dite
 dictator - ditater  
 dictatorship - ditateria  
 dictionary (collection of sayings) - ditionar  
+die (death; dead, deceased) - morte  
 die (dice) - zarkube  
-die - mortu  
 differ (be different) - disfere  
 difference - alosifia  
 different - alosife  
@@ -1136,7 +1137,7 @@ document (paper used as a proof) - dokomen
 document (paper) - papir  
 document (record, file) - dokum  
 documentary film - dokumfilme  
-doer (agent, actor) - er  
+doer (agent, actor) - –r  
 dog - vaf  
 doll (puppet) - pupe  
 dollar - dolar  
@@ -1438,7 +1439,7 @@ fermium - fermium
 fern - parne  
 fertilizer - canivaje  
 fibre - linem  
-field (art, workforce) - eria  
+field (art, workforce) - ria  
 field (square, plaza, maidan) - meden  
 fiery - hoge  
 fiever - febre  
@@ -2100,7 +2101,7 @@ key lime - kagujolimon
 keyboard - butonban  
 Khartoum - Hartum  
 kidney - nefre  
-kill - morte  
+kill - mortife  
 killer - morter  
 kilogram (kg) - kilogram  
 kilometer (km) - kilomitre  
@@ -2401,7 +2402,7 @@ mature (ripe, adult) - mature
 maté - mate  
 maté tea - mate cai  
 Mauritania - Muritania  
-Mauritius - Moris  
+Mauritius - Maurisia  
 maximize - maximife  
 maximum - maximaje  
 May - lun lima  
@@ -2531,7 +2532,7 @@ monolingual - unolinguike
 monolog - autologe  
 monotheism - undevisme  
 monotheism - unodevisme  
-monster - monoster  
+monster - monster  
 Montenegro - Cernagore  
 month - lun  
 monument (memorial) - membin  
@@ -2797,7 +2798,7 @@ order (arrange) - ratibe
 order (arrangement, sequence) - ratibe  
 order (command) - amir  
 orderly (organized, in sequence, tidy, regular) - ratibe  
-organism (organic life) - bia  
+organism (organic life) - bie  
 orgasm - orgazme  
 oriental poppy - guipapil  
 origin (source; original, authentic) - asle  
@@ -3019,8 +3020,8 @@ piston - puser
 pit (excavation, cavity) - kavaje  
 Pitcairn Islands - Pitkerne nesia  
 pixel - grafeme  
-pizza - pize  
-pizzeria - pizokan  
+pizza - piza  
+pizzeria - pizaria  
 place (location, situation; lie; put, set) - loke  
 plain (ordinary, unadorned, simple, mere) - sade  
 plain (plateau, flat lands) - platostan  
@@ -4108,6 +4109,7 @@ truly (indeed, very) - a vere
 trunk (torso) - torse  
 trust (rely) - yausine  
 trust (surely, verily, amen) - amen  
+trustee - bekrede  
 try (attempt) - teste  
 tube (pipe) - tube  
 tuber (bulb) - masmul  

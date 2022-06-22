@@ -124,7 +124,9 @@ ato - ate
 até - hate  
 auge (aumentar) - auge  
 Austronésia - Austronesia  
+automático - automatike  
 autopsía - nekrotome  
+autor - auter  
 aveia - aven  
 aventura - ventur  
 aventureiro - venturer  
@@ -1057,7 +1059,7 @@ opção - otion
 ordem - ratibe  
 orelha - or  
 orfanato - yatimokan  
-organismo - bia  
+organismo - bie  
 organizar - nome  
 origem (original) - asle  
 orquídea - orkide  
@@ -1152,6 +1154,7 @@ pintura - pente
 piquenique - exyam  
 pirataria - piratia  
 pirâmida - piram  
+pizzaria - pizaria  
 plano - plan  
 planta (vegetal) - fite  
 platina - platinium  

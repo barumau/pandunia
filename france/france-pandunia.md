@@ -163,7 +163,9 @@ augmenter - auge
 Australie - Australia  
 Austronésie - Austronesia  
 autel - puzomeze  
+auteur - auter  
 autocollant - glutograf  
+automatique - automatike  
 automne - padomosim  
 autopsie - nekrotome  
 autre (changer) - ale  
@@ -1181,7 +1183,7 @@ ordre - ratibe
 ordures - laze  
 oreille - or  
 organiser - nome  
-organisme - bia  
+organisme - bie  
 orge - jau  
 origine (originel) - asle  
 orphelinat - yatimokan  
@@ -1290,7 +1292,8 @@ piquant - pinane
 piquenique - exyam  
 piraterie - piratia  
 pistolet - pau  
-pizza - pize  
+pizza - piza  
+pizzeria - pizaria  
 pièce (chambre) - kamar  
 piège - kapotruke  
 placard - almari  
