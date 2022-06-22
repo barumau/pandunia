@@ -13,17 +13,17 @@ nav:
         - 002_filsofi.md
     - 'Gramatica':
         - 102_ABC.md
-        - 103_logatipe.md
+        - 103_lexotipe.md
         - 104_viseloga.md
-        - 105_namloga.md
+        - 105_namolexe.md
         - 106_nomer.md
-        - 107_modeloga.md
+        - 107_modolexe.md
         - 108_karmaloga.md
         - 109_jumla_bina.md
-        - 110_loga_bina.md
+        - 110_lexobine.md
     - 'Lecciones':
         - 'Frases básicas': 200_baze_jumla.md
-        - 'Curso': 201_shula.md
+        - 'Curso': 201_xule.md
     - 'Diccionarios':
         - 'Pandunia-Español': pandunia-espanya.md
         - 'Español-Pandunia': espanya-pandunia.md
