@@ -18,6 +18,7 @@
 ## มาเรียนกัน
 
 - [บทเรียนผ่านทางรูปภาพ](http://www.pandunia.info/pandunia/mini_shula.html)
+- [ABC พันดูเนีย](ABC.pdf)
 - [ภาษาพันดูเนีย โดยย่ อ](pandunia_baze.pdf)
 
 ## เครือข่ายชุมชน
