@@ -283,47 +283,6 @@ In summary, most letters correspond to the same sounds in Pandunia as in other l
 and most differences are about letters *c*, *j*, *x*, *y* and *z*.
 Special attention needs to be given to *c* and *x*.
 
-#### Why is the letter X pronounced like SH?
- 
-Pandunia follows the phonetic principle.
-One letter represents exactly one sound, and one sound is written with exactly one letter.
-
-Traditionally there isn't any dedicated letter for the sound /ʃ/ in the Latin alphabet.
-This sound is frequently written by the letter combination *sh* in English.
-Other languages use different letters and letter combinations,
-such as *ch* in French, *sch* in German, *sj* in Swedish, *sz* in Polish, *š* in Czech and *ş* in Turkish.
-
-However, there is a handful of languages that use the letter *x* for the sound /ʃ/.
-Basque and Maltese do it without exception.
-Portuguese and Catalan are less consistent, but their *x* stands for /ʃ/ frequently.
-For example, the Pandunia word **xampu'** is written almost exactly like in Portuguese.
-It means 'shampoo'.
-
-In the Chinese Romanization systen, Pīnyīn, the letter *x* stands for /ɕ/ which is almost similar to /ʃ/.
-Pandunia has borrowed many words with *x* from Chinese,
-for example **xim**, **xin** and **xuxe**.
-
-![](http://www.pandunia.info/grafe/X.png "C = ʃ")
-
-
-#### Why is the letter C pronounced like CH?
-
-Actually there are several languages where C is pronounced like English CH,
-including Malaysian, Indonesian, Hausa, Oromo and Rwanda.
-In Italian, when C is followed by E or I, it is pronounced /tʃ/.
-This pronunciation is present in English loan words from Italian, such as _cello_ and _cappuccino_.
-
-In addition, *c* is pronounced like *ts* in *cats* in many languages,
-including Polish, Czech, Hungarian and sometimes German.
-This pronunciation comes from Medieval Latin.
-The pronunciation of *c* is similar also in the standard Romanization of Mandarin Chinese.
-
-![](http://www.pandunia.info/grafe/C.png "C = ts o tʃ")
-
-On the other hand, the letter *c* doesn't stand for any unique sound in English.
-The _hard c_ can be replaced by *k* and the _soft c_ by *s*.
-So the letter *c* is free to be reassigned to some useful sound.
-
 
 ### Easy syllable structure
 
