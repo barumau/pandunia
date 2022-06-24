@@ -14,12 +14,12 @@ nav:
     - 'Gramatica':
         - 102_ABC.md
         - 103_lexotipe.md
-        - 104_viseloga.md
+        - 104_viselexe.md
         - 105_namolexe.md
-        - 106_nomer.md
+        - 106_nume.md
         - 107_modolexe.md
         - 108_karmaloga.md
-        - 109_jumla_bina.md
+        - 109_jumlobine.md
         - 110_lexobine.md
     - 'Lecciones':
         - 'Frases básicas': 200_baze_jumla.md
