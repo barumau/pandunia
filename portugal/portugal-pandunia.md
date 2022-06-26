@@ -352,6 +352,7 @@ contêiner - kontener
 copernício - kopernikium  
 copo (taça) - kupe  
 cor - rang  
+corda (cabo) - kable  
 corno - korne  
 coro - cantergrupe  
 corpo - bode  
@@ -366,7 +367,7 @@ costume (hábito) - ade
 crente - diniste  
 crente - krediste  
 crepe (panqueca) - krepe  
-crepe - fransi krepe  
+crepe - franse krepe  
 criança (menino) - bace  
 cristal - bilor  
 croassã - kruasante  
@@ -659,6 +660,7 @@ gilete - razor
 ginásio - sportokan  
 girafa - ziraf  
 girassol - soloful  
+glote - sonomun  
 golfinho (delfim) - dolfin  
 gorila - gorile  
 governo - polite  
@@ -1083,6 +1085,7 @@ padeiro - beker
 padrasto - visopatre  
 pai - pe  
 painel - ban  
+palato (céu da boca) - bokacate  
 palavra (vocábulo) - lexe  
 palavra-passe (senha) - pasloge  
 palhaço - payace  

@@ -582,6 +582,7 @@
 **kababe** ** ← araba:persa:urdua: كباب (kabāb), turka:malaja:angla:hispana:kebab, rusa:кебаб (kebab), hindia:कबाब (kabāb), bengala:কাবাব (kabab), svahila:kababu  
 **kabau** ** ← hispana:carabao, malaja:kerbau, jav:kebo, kmera:ក្របី (krɑbəy)  
 **kabin** ** ← angla:cabin, hispana:cabaña, portugala:cabana, franca:cabane, bengala:কেবিন (kebin)  
+**kable** ** ← angla:hispana:cable, franca:câble, portugala:cabo, rusa:кабель (kabel'), japana:ケーブル (kēburu), korea:까벨 (kkabel), malaja:kabel, turka:kablo + araba:حَبْل‎ (ḥabl)  
 **kaboge** ** ← turka:kabak, svahila:boga, japana:カボチャ (kabocha)  
 **kade** ** ← angla:cod, araba:قد (qad)  
 **kadium** *kadmio* ← angla:cadmium, franca:cadmium, hispana:cadmio, portugala:cádmio, rusa:кадмий, mandarena:镉 (gé), japana:カドミウム, korea:카드뮴, vjetnama:catmi, hindia:काडमियम, bengala:ক্যাডমিয়াম, malaja:kadmium, svahila:kadimi, araba: كادميوم  
@@ -1278,7 +1279,7 @@
 **sol** *suno* ← hispana:portugala:sol, franca:soleil, angla:solar, rusa:солнце (solnce) + hindia:सौर (sOr), teluga:(saur)  
 **some** *dormi* ← franca:sommeil, portugala:sono, rusa:сон (son), hindia:सोना (sonā), bengala:শোয়া (śoya) + araba: سِنَة (sina)  
 **somopapil** ** ← angla:poppy, hispana:amapola, portugala:papoula, svahila:mpopi, bengala:পপি (papi), japana:ポピー (popī)  
-**son** *sono* ← angla:sonic, franca:son, hispana:son, sonido, portugala:som, itala:suono, + korea:소리 (sori) + mandarena:声 (shēng), vua:声 (sən)  
+**son** *sono* ← angla:sonic, franca:son, hispana:son, sonido, portugala:som, itala:suono + mandarena:声 (shēng), kantona:聲 (seng1), vua:声 (sən), japana:声 (sei), korea:성 (seong)  
 **song** *pino* ← mandarena:松 (sōng), vua:(son), taja:สน (sǒn), korea:솔 (sol), vjetnama:thông, + rusa:сосна (sosna)  
 **sor** ** ← mandarena:锁 (suǒ), kantona:鎖 (so2), vua:鎖 (su2), japana:錠 (jō), kmera:សោ (sao), hispana:cierre, franca:serrure, hungara:zár  
 **sosis** *kolbaso* ← franca:saucisse, turka:malaja:sosis, persa:(sosis), rusa:сосиска  (sosiska), japana:ソーセージ (sosēji), hindia:सॉसेज (sosej), bengala:সসেজ (sôsej), angla:sausage  

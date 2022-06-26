@@ -387,6 +387,8 @@ bode - keho (ruumis)
 boi - kellua (kelluke, poiju)  
 boikote - boikotti  
 boka - suu  
+bokacate - suulaki (kitalaki)  
+bokavele - kitapurje  
 bokse - nyrkkeily  
 bokser - nyrkkeilijä  
 bokserpante - bokserit  
@@ -606,6 +608,7 @@ danse - tanssi
 dante - hammas  
 • danta - purra  
 dantobros - hammasharja  
+dantokume - hammasvalli  
 dantomediker - hammaslääkäri  
 dare - virta (virtaus)  
 darotube - lappo  
@@ -795,7 +798,6 @@ eletre - sähkö
 • eletrike - sähköinen  
 • eletrolojia - sähköoppi (elektroniikka)  
 • eletron - elektroni  
-eletrolin - sähköjohto  
 eletroposte (e-poste) - sähköposti  
 eletrorade - salama  
 elfe - haltia (tonttu)  
@@ -975,19 +977,19 @@ fotobaton - soihtu
 fotofrike - kiillottaa  
 fotograf - valokuva (foto)  
 fotografia - valokuvaus  
-fotografmaxin - kamera  
 fotografer - valokuvaaja  
-fotolin - valokuitu (valokaapeli)  
+fotografomaxin - kamera  
+fotokable - valokuitu (valokaapeli)  
 fotominar - majakka  
 fotorade - valonsäde  
 fotosirke - sädekehä (halo)  
-Fransi Guyana - Ranskan Guiana  
-fransi krepe - kreppi  
-Fransi Polnesia - Ranskan Polynesia  
-Fransia - Ranska  
 fransofone - ranskaa puhuva (frankofoni)  
 Fransofonia - ranskankielinen maailma  
+Fransia - Ranska  
 fransium - frankium  
+Franse Guyana - Ranskan Guiana  
+franse krepe - kreppi  
+Franse Polinesia - Ranskan Polynesia  
 frem - kehys (raamit)  
 frike - hangata  
 fuge - palauttaa  
@@ -1500,6 +1502,7 @@ kababe - grillata (kärventää)
 kababe manse - kebab (grilliliha)  
 kabau - vesipuhveli  
 kabin - koppi (maja)  
+kable - kaapeli (johto)  
 Kabu Verdi - Cabo Verde  
 kadium - kadmium  
 kafe - kahvi  
@@ -2102,6 +2105,7 @@ mature - kypsä (aikuinen)
 maturi fem - nainen  
 maturi man - mies  
 mau - kissa  
+Maurisia - Mauritius  
 max - enemmän (myös, lisäksi, plus)  
 • maxaje - lisä-  
 • maxife - lisätä (enentää)  
@@ -2251,7 +2255,6 @@ monte - vuori (mäki)
 morfe - morfi  
 morfem - morfeemi  
 morfeme - morfeemi  
-Maurisia - Mauritius  
 morte - kuolla (kuolema, kuolo; kuollut, vainaa)  
 • mortal - kuolevainen  
 • mortife - tappaa  
@@ -3195,8 +3198,8 @@ some - nukkua (nukkuminen, uni)
 somokamar - makuuhuone  
 Somalia - Somalia  
 Somaldex - Somalimaa  
-son - ääni  
-sone - ääntää  
+son - ääni (ääntää, päästää ääni)  
+sonomun - äänirako  
 song - mänty  
 • desore - avata lukko (lukitsematon)  
 sose - yhteiskunnallinen (sosiaalinen)  

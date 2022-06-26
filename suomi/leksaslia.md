@@ -582,6 +582,7 @@
 **kababe** *grillata (kärventää)* ← arabia:persia:urdu: كباب (kabāb), turkki:malaiji:englanti:espanja:kebab, venäjä:кебаб (kebab), hindi:कबाब (kabāb), bangla:কাবাব (kabab), suahili:kababu  
 **kabau** *vesipuhveli* ← espanja:carabao, malaiji:kerbau, jav:kebo, khmer:ក្របី (krɑbəy)  
 **kabin** *koppi (maja)* ← englanti:cabin, espanja:cabaña, portugali:cabana, ranska:cabane, bangla:কেবিন (kebin)  
+**kable** *kaapeli (johto)* ← englanti:espanja:cable, ranska:câble, portugali:cabo, venäjä:кабель (kabel'), japani:ケーブル (kēburu), korea:까벨 (kkabel), malaiji:kabel, turkki:kablo + arabia:حَبْل‎ (ḥabl)  
 **kaboge** ** ← turkki:kabak, suahili:boga, japani:カボチャ (kabocha)  
 **kade** ** ← englanti:cod, arabia:قد (qad)  
 **kadium** *kadmium* ← englanti:cadmium, ranska:cadmium, espanja:cadmio, portugali:cádmio, venäjä:кадмий, yleiskiina:镉 (gé), japani:カドミウム, korea:카드뮴, vietnami:catmi, hindi:काडमियम, bangla:ক্যাডমিয়াম, malaiji:kadmium, suahili:kadimi, arabia: كادميوم  
@@ -1278,7 +1279,7 @@
 **sol** *aurinko* ← espanja:portugali:sol, ranska:soleil, englanti:solar, venäjä:солнце (solnce) + hindi:सौर (sOr), telugu:(saur)  
 **some** *nukkua (nukkuminen, uni)* ← ranska:sommeil, portugali:sono, venäjä:сон (son), hindi:सोना (sonā), bangla:শোয়া (śoya) + arabia: سِنَة (sina)  
 **somopapil** ** ← englanti:poppy, espanja:amapola, portugali:papoula, suahili:mpopi, bangla:পপি (papi), japani:ポピー (popī)  
-**son** *ääni* ← englanti:sonic, ranska:son, espanja:son, sonido, portugali:som, italia:suono, + korea:소리 (sori) + yleiskiina:声 (shēng), wu-kiina:声 (sən)  
+**son** *ääni (ääntää, päästää ääni)* ← englanti:sonic, ranska:son, espanja:son, sonido, portugali:som, italia:suono + yleiskiina:声 (shēng), kantoninkiina:聲 (seng1), wu-kiina:声 (sən), japani:声 (sei), korea:성 (seong)  
 **song** *mänty* ← yleiskiina:松 (sōng), wu-kiina:(son), thai:สน (sǒn), korea:솔 (sol), vietnami:thông, + venäjä:сосна (sosna)  
 **sor** ** ← yleiskiina:锁 (suǒ), kantoninkiina:鎖 (so2), wu-kiina:鎖 (su2), japani:錠 (jō), khmer:សោ (sao), espanja:cierre, ranska:serrure, unkari:zár  
 **sosis** *makkara* ← ranska:saucisse, turkki:malaiji:sosis, persia:(sosis), venäjä:сосиска  (sosiska), japani:ソーセージ (sosēji), hindi:सॉसेज (sosej), bangla:সসেজ (sôsej), englanti:sausage  

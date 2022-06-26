@@ -186,6 +186,7 @@ bir - cerveja
 bismute - bismuto  
 bode - corpo  
 boi - flutuar  
+bokacate - palato (céu da boca)  
 bokse - boxe  
 bokser - boxeador (pugilista)  
 bokserpante - samba-canção  
@@ -409,8 +410,8 @@ fote - luz
 fotograf - foto (fotografia)  
 fotografia - fotografia  
 fotominar - farol (baliza)  
-fransi krepe - crepe  
 fransium - frâncio  
+franse krepe - crepe  
 frem - moldura  
 fuke - roupa (vestidura)  
 fuke - vestir  
@@ -623,6 +624,7 @@ juste - exato (preciso)
 
 ## K  
 
+kable - corda (cabo)  
 kaboge - abóbora (jerimun)  
 kadium - cádmio  
 kafe - café  
@@ -1357,6 +1359,7 @@ some - dormir (sono)
 somokamar - quarto (dormitório)  
 somopapil - papoila-dormideira  
 son - som  
+sonomun - glote  
 song - pinheiro  
 sor - fechadura  
 sosis - salsicha  

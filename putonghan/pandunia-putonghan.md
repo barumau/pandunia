@@ -177,6 +177,7 @@ binoplaner - 建筑师
 bir - 啤酒  
 bismute - 铋  
 bode - 身体  
+bokacate - 上颚 (口盖)  
 bokse - 拳击  
 bokser - 拳击手  
 bokserpante - 平角褲  
@@ -318,7 +319,6 @@ duxe - 淋浴
 e - 和  
 ekore - 松鼠  
 • eletrolojia - 电子学  
-eletrolin - 电缆 (电线)  
 eletrorade - 闪电  
 elfe - 精灵  
 emoshal - 心情  
@@ -372,7 +372,7 @@ forme - 形状 (形式)
 fote - 光  
 fotofrike - 擦亮  
 fotograf -  照片 (相片)  
-fotolin - 光线  
+fotokable - 光线  
 fotominar - 信号  
 fransium - 钫  
 frem - 框  
@@ -579,6 +579,7 @@ jus - 汁
 
 ## K  
 
+kable - 电缆 (电线)  
 kaboge - 南瓜  
 kade - 鱈  
 kadium - 镉  
@@ -1218,6 +1219,7 @@ some - 睡觉 (困觉)
 • ansome - 失眠  
 somokamar - 卧室 (寝室)  
 somopapil - 鴉片罌粟  
+sonomun - 声门  
 song - 松  
 sor - 锁  
 sosis - 香肠  

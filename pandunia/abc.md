@@ -1,17 +1,22 @@
-# abace
+# ABC
 
 ## foneme
 
-    i   e   a   o   u
-    
-    p   b   m   f   v
-    t   d   n   s   z
-    c   j       x
-    k   g       h
-    l   r
-    y   w
+|                    | labe    |dantokume|bokacate |bokavele | sonomun |
+|:-------------------|:-------:|:-------:|:-------:|:-------:|:-------:|
+| **stope**          | b p     | t d     | c j     | k g     |         |
+| **frite**          | f       | s z     | x       |         | h       |
+| **naze**           | m       | n       |         | ng      |         |
+| **late**           |         | l       |         |         |         |
+| **treme**          |         | r       |         |         |         |
+| **semivokal**      | v       |         | y       |         |         |
+| **gau vokal**      | u       |         | i       |         |         |
+| **mide vokal**     | o       |         | e       |         |         |
+| **sube vokal**     |         | a       |         |         |         |
+|                    | **pos** |**sentre**|**pre** |        |         |
 
-## leter da nam
+
+## harfe name
 
     i   e   a   o   u
     

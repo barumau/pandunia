@@ -362,7 +362,7 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 → **lexeme**
 'lexeme'
 
-**-r-**
+**-(e)r**
 'doer, agent, -er' :  
 **beke**
 'bake'
@@ -389,7 +389,7 @@ its alternative form **ən-** is used before roots that begin with a vowel.
 → **kaser**
 'cashier'
 
-**-ria**
+**-(e)ria**
 'place for making, producing or selling; profession' :  
 **beker**
 'baker'
@@ -529,9 +529,9 @@ There are also a lot of country names that do not end in **-ia**.
 'drag, haul'
 → **trator**
 'tractor'  
-**fotegraf**
+**fotografe**
 'photograph'
-→ **fotegrafor**
+→ **fotografor**
 'photograph apparatus, camera'
 
 **-ul-**

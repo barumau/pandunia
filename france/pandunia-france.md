@@ -283,6 +283,7 @@ bir - bière
 bismute - bismuth  
 bode - corps  
 boi - flotter  
+bokacate - palais de la bouche  
 bokse - boxe  
 bokser - boxeur  
 bokserpante - caleçon  
@@ -536,10 +537,10 @@ fotofrike - poli
 fotograf - photographie  
 fotografia - photographie  
 fotominar - fanal (balise)  
-fransi krepe - crêpe  
 fransofone - francophone  
 Fransofonia - francophonie  
 fransium - francium  
+franse krepe - crêpe  
 frem - cadre  
 fuke - vêtements  
 fuke - habiller (vêtir)  
@@ -784,6 +785,7 @@ juste - exact (précis)
 
 ## K  
 
+kable - câble (corde)  
 kaboge - citrouille  
 kade - morue  
 kadium - cadmium  
@@ -1572,6 +1574,7 @@ some - dormir (sommeil)
 somokamar - chambre à coucher  
 somopapil - pavot somnifère  
 son - son  
+sonomun - glotte  
 sor - serrure  
 sosis - saucisse  
 sponge - éponge  

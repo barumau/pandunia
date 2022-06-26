@@ -567,6 +567,7 @@ hame - jupe
 hammas - dante  
 hammasharja - dantobros  
 hammaslääkäri - dantomediker  
+hammasvalli - dantokume  
 han-kiinalainen - cine  
 hana (venttiili, kraana) - kran  
 hangata - frike  
@@ -978,6 +979,7 @@ jäätelö - aiskrem
 
 kaakao - kakau  
 kaaos - haos  
+kaapeli (johto) - kable  
 kaappaus (merirosvous) - piratia  
 kaappi - almari  
 kaari - arke  
@@ -1019,7 +1021,7 @@ kalsiitti (kalkkisälpä) - kalsite
 kalsium - kalsium  
 Kambodja - Kambozia  
 kameli - gamel  
-kamera - fotografmaxin  
+kamera - fotografomaxin  
 Kamerun - Kamerun  
 kammo (fobia) - fobia  
 kamomilla - kamil  
@@ -1233,6 +1235,7 @@ kirous - dusdua
 kirsikka - cerize  
 kirves - futau  
 kissa - mau  
+kitapurje - bokavele  
 kitara - gitar  
 kitkerä (karvas) - alkaloguste  
 kitkeä juurineen - exradike  
@@ -1337,7 +1340,7 @@ koulutus - xulia
 kova - gate  
 Kreikka - Helenia  
 kreikkalainen - helene  
-kreppi - fransi krepe  
+kreppi - franse krepe  
 kreppikoju - krepokan  
 kriisi (käännekohta) - krize  
 kriittinen (kriisi-) - krizi  
@@ -2599,8 +2602,8 @@ rakkaus (rakastaa, pitää, tykätä; armas, rakas) - ame
 ramadan - ramazan  
 Ranska - Fransia  
 ranskaa puhuva (frankofoni) - fransofone  
-Ranskan Guiana - Fransi Guyana  
-Ranskan Polynesia - Fransi Polnesia  
+Ranskan Guiana - Franse Guyana  
+Ranskan Polynesia - Franse Polinesia  
 ranskankielinen maailma - Fransofonia  
 raportoida (selostaa) - reporte  
 raportti (selostus, selonteko) - reporte  
@@ -3025,6 +3028,7 @@ susi (hukka) - volfe
 sutenööri - sutener  
 suu - boka  
 suukko (pusu) - cum  
+suulaki (kitalaki) - bokacate  
 suunnitella - plane  
 suunnitelma - plan  
 suunnitelmakieli - planolingue  
@@ -3065,7 +3069,6 @@ sähkö - eletre
 sähköauto - eletre kar  
 sähköinen - eletre  
 sähköinen - eletrike  
-sähköjohto - eletrolin  
 sähköoppi (elektroniikka) - eletrolojia  
 sähköposti - eletroposte (e-poste)  
 säie (kuitu) - linem  
@@ -3502,7 +3505,7 @@ Valkovenäjä - Belarus
 valkuaisaine (proteiini) - proten  
 valmis (valmistautua) - rede  
 valo - fote  
-valokuitu (valokaapeli) - fotolin  
+valokuitu (valokaapeli) - fotokable  
 valokuva (foto) - fotograf  
 valokuvaaja - fotografer  
 valokuvaus - fotografia  
@@ -3818,12 +3821,12 @@ zulu - Zulu
 äsken (vasta, juuri) - a nove  
 ääh (plääh) - me  
 ääni (äänestää) - vote  
-ääni - son  
+ääni (ääntää, päästää ääni) - son  
 äänioikeus - votohake  
+äänirako - sonomun  
 äänne (foneemi) - foneme  
 äänne (fooni) - fone  
 ääntää (lausua) - fonologe  
-ääntää - sone  
 äärettömyys (rajattomuus) - anlimitia  
 ĉampano - xampan vin  
 Šiva - Xiva  

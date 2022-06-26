@@ -582,6 +582,7 @@
 **kababe** *barbecue (grill)* ← Arabic:Persian:Urdu: كباب (kabāb), Turkish:Malay:English:Spanish:kebab, Russian:кебаб (kebab), Hindi:कबाब (kabāb), Bengali:কাবাব (kabab), Swahili:kababu  
 **kabau** *water buffalo* ← Spanish:carabao, Malay:kerbau, jav:kebo, Khmer:ក្របី (krɑbəy)  
 **kabin** *cabin (booth)* ← English:cabin, Spanish:cabaña, Portuguese:cabana, French:cabane, Bengali:কেবিন (kebin)  
+**kable** *cable (wire, line)* ← English:Spanish:cable, French:câble, Portuguese:cabo, Russian:кабель (kabel'), Japanese:ケーブル (kēburu), Korean:까벨 (kkabel), Malay:kabel, Turkish:kablo + Arabic:حَبْل‎ (ḥabl)  
 **kaboge** *squash (pumpkin, gourd)* ← Turkish:kabak, Swahili:boga, Japanese:カボチャ (kabocha)  
 **kade** *cod* ← English:cod, Arabic:قد (qad)  
 **kadium** *cadmium* ← English:cadmium, French:cadmium, Spanish:cadmio, Portuguese:cádmio, Russian:кадмий, Mandarin:镉 (gé), Japanese:カドミウム, Korean:카드뮴, Vietnamese:catmi, Hindi:काडमियम, Bengali:ক্যাডমিয়াম, Malay:kadmium, Swahili:kadimi, Arabic: كادميوم  
@@ -1278,7 +1279,7 @@
 **sol** *sun* ← Spanish:Portuguese:sol, French:soleil, English:solar, Russian:солнце (solnce) + Hindi:सौर (sOr), Telugu:(saur)  
 **some** *sleep* ← French:sommeil, Portuguese:sono, Russian:сон (son), Hindi:सोना (sonā), Bengali:শোয়া (śoya) + Arabic: سِنَة (sina)  
 **somopapil** *opium poppy* ← English:poppy, Spanish:amapola, Portuguese:papoula, Swahili:mpopi, Bengali:পপি (papi), Japanese:ポピー (popī)  
-**son** *sound (audio)* ← English:sonic, French:son, Spanish:son, sonido, Portuguese:som, Italian:suono, + Korean:소리 (sori) + Mandarin:声 (shēng), Wu-Chinese:声 (sən)  
+**son** *sound (audio; make a sound)* ← English:sonic, French:son, Spanish:son, sonido, Portuguese:som, Italian:suono + Mandarin:声 (shēng), Cantonese:聲 (seng1), Wu-Chinese:声 (sən), Japanese:声 (sei), Korean:성 (seong)  
 **song** *pine tree* ← Mandarin:松 (sōng), Wu-Chinese:(son), Thai:สน (sǒn), Korean:솔 (sol), Vietnamese:thông, + Russian:сосна (sosna)  
 **sor** *lock (fastener)* ← Mandarin:锁 (suǒ), Cantonese:鎖 (so2), Wu-Chinese:鎖 (su2), Japanese:錠 (jō), Khmer:សោ (sao), Spanish:cierre, French:serrure, Hungarian:zár  
 **sosis** *sausage* ← French:saucisse, Turkish:Malay:sosis, Persian:(sosis), Russian:сосиска  (sosiska), Japanese:ソーセージ (sosēji), Hindi:सॉसेज (sosej), Bengali:সসেজ (sôsej), English:sausage  

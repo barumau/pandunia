@@ -352,6 +352,7 @@ boi - flotar (flotador, boya)
 boipuntonumbe - punto flotante  
 boikote - boicot  
 boka - boca  
+bokacate - paladar  
 bokse - boxeo  
 bokser - boxeador  
 bokserpante - bóxer  
@@ -727,7 +728,6 @@ eletre - electricidad
 • eletrike - eléctrico  
 • eletrolojia - electrónica  
 • eletron - electrón  
-eletrolin - cable  
 eletroposte (e-poste) - email (correo electrónico)  
 eletrorade - relámpago  
 elfe - elfo  
@@ -887,16 +887,16 @@ fotobaton - antorcha
 fotofrike - pulir (lustrar)  
 fotograf - foto (fotografía)  
 fotografia - fotografía  
-fotografmaxin - cámara  
 fotografer - fotógrafo  
+fotografomaxin - cámara  
 fotominar - faro (baliza, almenara)  
 fotorade - rayo luminoso  
 fotosirke - halo (aureola)  
-Fransi Guyana - Guyana Francesa  
-fransi krepe - crepa (crep, tortilla de trigo)  
-Fransi Polnesia - Polinesia Francesa  
 Fransia - Francia  
 fransium - francio  
+Franse Guyana - Guyana Francesa  
+franse krepe - crepa (crep, tortilla de trigo)  
+Franse Polinesia - Polinesia Francesa  
 frem - marco  
 frike - raspar (arañar)  
 fuge - regresar (restablecer, restaurar, recuperar, reanudar)  
@@ -1396,6 +1396,7 @@ justopaver - francotirador
 kababe - asar  
 kabau - búbalo (arni)  
 kabin - cabaña  
+kable - cable  
 kaboge - calabaza  
 Kabu Verdi - Cabo Verde  
 kade - bacalao  
@@ -2010,6 +2011,7 @@ mature - maduro (adulto, curado)
 maturi fem - mujer (señora)  
 maturi man - hombre (señor)  
 mau - gato  
+Maurisia - Mauricio  
 max - más  
 • maxaje - adicional (extra)  
 • maxime - máximo (lo más)  
@@ -2168,7 +2170,6 @@ monte - montaña (monte)
 morfe - morfo  
 morfem - morfema  
 morfeme - morfema  
-Maurisia - Mauricio  
 morte - morirse (muerte; muerto)  
 • mortife - matar (morir, asesinar)  
 • morter - asesino  
@@ -3119,8 +3120,8 @@ somokamar - dormitorio
 somopapil - adormidera (amapola real)  
 Somalia - Somalia  
 Somaldex - Solamilandia  
-son - sonido (audio)  
-sone - sonar  
+son - sonido (audio; sonar)  
+sonomun - glotis  
 song - pino  
 sor - cerradura (candado)  
 sose - social  

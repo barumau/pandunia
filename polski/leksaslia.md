@@ -582,6 +582,7 @@
 **kababe** *grillować* ← ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu  
 **kabau** *bawół domowy* ← spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)  
 **kabin** *kabina, budka* ← eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)  
+**kable** *kabel (linia)* ← eng:spa:cable, fra:câble, por:cabo, rus:кабель (kabel'), jpn:ケーブル (kēburu), kor:까벨 (kkabel), may:kabel, tur:kablo + ara:حَبْل‎ (ḥabl)  
 **kaboge** *kabaczek (dynia, tykwa)* ← tur:kabak, swa:boga, jpn:カボチャ (kabocha)  
 **kade** *dorsz* ← eng:cod, ara:قد (qad)  
 **kadium** *kadm* ← eng:cadmium, fra:cadmium, spa:cadmio, por:cádmio, rus:кадмий, zho:镉 (gé), jpn:カドミウム, kor:카드뮴, vie:catmi, hin:काडमियम, ben:ক্যাডমিয়াম, may:kadmium, swa:kadimi, ara: كادميوم  
@@ -1278,7 +1279,7 @@
 **sol** *słońce* ← spa:por:sol, fra:soleil, eng:solar, rus:солнце (solnce) + hin:सौर (sOr), tel:(saur)  
 **some** *spać (sen)* ← fra:sommeil, por:sono, rus:сон (son), hin:सोना (sonā), ben:শোয়া (śoya) + ara: سِنَة (sina)  
 **somopapil** *mak lekarski* ← eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)  
-**son** *dźwięk, brzmienie* ← eng:sonic, fra:son, spa:son, sonido, por:som, ita:suono, + kor:소리 (sori) + zho:声 (shēng), wuu:声 (sən)  
+**son** *dźwięk (brzmienie; brzmieć, wydać dźwięk, wydawać dźwięk)* ← eng:sonic, fra:son, spa:son, sonido, por:som, ita:suono + zho:声 (shēng), yue:聲 (seng1), wuu:声 (sən), jpn:声 (sei), kor:성 (seong)  
 **song** *sosna* ← zho:松 (sōng), wuu:(son), tha:สน (sǒn), kor:솔 (sol), vie:thông, + rus:сосна (sosna)  
 **sor** *zamek (zapięcie)* ← zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár  
 **sosis** *kiełbasa* ← fra:saucisse, tur:may:sosis, fas:(sosis), rus:сосиска  (sosiska), jpn:ソーセージ (sosēji), hin:सॉसेज (sosej), ben:সসেজ (sôsej), eng:sausage  

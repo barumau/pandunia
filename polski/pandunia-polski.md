@@ -661,7 +661,6 @@ eletre - elektryczność
 • eletrike - elektryczny  
 • eletrolojia - elektronika  
 • eletron - elektron  
-eletrolin - kabel (linia)  
 eletroposte (e-poste) - poczta elektroniczna  
 eletrorade - piorun (grom)  
 em - pierwiastek (jednostki podstawowej)  
@@ -804,16 +803,16 @@ fotobaton - pochochodnia (latarka)
 fotofrike - polerować (szlifować)  
 fotograf - zdjęcie (fotografia)  
 fotografia - fotografia  
-fotografmaxin - kamera, aparat fotograficzny  
 fotografer - fotograf  
+fotografomaxin - kamera, aparat fotograficzny  
 fotominar - latarnia morska  
 fotorade - promień światła  
 fotosirke - efekt halo  
-Fransi Guyana - Gujana Francuska  
-fransi krepe - francuski naleśnik (crêpe)  
-Fransi Polnesia - Polinezja Francuska  
 Fransia - Francja  
 fransium - frans  
+Franse Guyana - Gujana Francuska  
+franse krepe - francuski naleśnik (crêpe)  
+Franse Polinesia - Polinezja Francuska  
 frem - rama  
 frike - trzeć (pocierać, obetrzeć, pucować)  
 fuge - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
@@ -1269,6 +1268,7 @@ kababe - grillować
 kababe manse - kebab  
 kabau - bawół domowy  
 kabin - kabina, budka  
+kable - kabel (linia)  
 kaboge - kabaczek (dynia, tykwa)  
 Kabu Verdi - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
 kade - dorsz  
@@ -1868,6 +1868,7 @@ mature - dorosły, dojrzały
 maturi fem - kobieta, dorosła samica  
 maturi man - mężczyzna, dorosły samiec  
 mau - kot  
+Maurisia - Mauritius  
 max - bardzie  
 • maxaje - dodatkowy  
 • maxime - nabardziej (maksymalnie)  
@@ -2016,7 +2017,6 @@ monte - góra, wzgórze
 morfe - morf  
 morfem - morfem  
 morfeme - morfem  
-Maurisia - Mauritius  
 morte - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)  
 • mortife - zabić, zabijać  
 • morter - zabójca  
@@ -2895,8 +2895,8 @@ somokamar - sypialnia
 somopapil - mak lekarski  
 Somalia - Somalia  
 Somaldex - Somaliland  
-son - dźwięk, brzmienie  
-sone - brzmieć, wydać dźwięk, wydawać dźwięk  
+son - dźwięk (brzmienie; brzmieć, wydać dźwięk, wydawać dźwięk)  
+sonomun - głośnia  
 song - sosna  
 sor - zamek (zapięcie)  
 sore - zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)  

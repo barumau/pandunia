@@ -488,7 +488,7 @@ croyant - diniste
 croyant - krediste  
 crème - krem  
 crème glacée - aiskrem  
-crêpe - fransi krepe  
+crêpe - franse krepe  
 crêpe - krepe  
 crêperie - krepokan  
 cube - kube  
@@ -499,6 +499,7 @@ culturisme (musculation) - muskulbin
 curium - kurium  
 cycliste - sikliste  
 cytologie - celolojia  
+câble (corde) - kable  
 célérité - siri mote  
 cérium - ceresium  
 césium - cesium  
@@ -733,6 +734,7 @@ giraffe - ziraf
 glace (glacé, glacial, gelé) - ais  
 gland - balutopal  
 glisser - glise  
+glotte - sonomun  
 gombo - bamia  
 gorille - gorile  
 goule - gulogui  
@@ -1211,6 +1213,7 @@ pair (pareil) - paran
 pair (pareil, egal) - pare  
 paix - pace  
 palais (château, manoir) - daidom  
+palais de la bouche - bokacate  
 palladium - paladium  
 pamplemousse - putavorange  
 panda - panda  

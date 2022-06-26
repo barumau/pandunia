@@ -109,6 +109,7 @@ altar - puzomeze
 alum - aluminmate  
 alumina (aluminum oxide) - aluminoxide  
 aluminium - aluminium  
+alveolar ridge (gum ridge) - dantokume  
 always - pansato  
 amateur - amater  
 ambassador - dayangiler  
@@ -555,7 +556,7 @@ by (at, in, on) - a
 ## C  
 
 cabin (booth) - kabin  
-cable (wire, line) - eletrolin  
+cable (wire, line) - kable  
 Cabo Verde (Cape Verde) - Kabu Verdi  
 cactus - katus  
 cadmium - kadium  
@@ -580,7 +581,7 @@ Callisto - Kalisto
 calm (peaceful, quiet) - xante  
 Cambodia - Kambozia  
 camel - gamel  
-camera - fotografmaxin  
+camera - fotografomaxin  
 Cameroon - Kamerun  
 camp - kampe  
 camper - kamper  
@@ -942,7 +943,7 @@ creamy (cream colored) - kreme
 creator - gener  
 credible (believable) - kredable  
 credit card - krede karte  
-crepe - fransi krepe  
+crepe - franse krepe  
 crime - krim  
 criminal - krime  
 crisis - krize  
@@ -1539,8 +1540,8 @@ Francophonie - Fransofonia
 free (liberate) - hure  
 free (unchained) - hure  
 freedom (liberty) - huria  
-French Guiana - Fransi Guyana  
-French Polynesia - Fransi Polnesia  
+French Guiana - Franse Guyana  
+French Polynesia - Franse Polinesia  
 frequency - polimaria  
 fresh - taze  
 Friday - den lima  
@@ -1639,6 +1640,7 @@ glazing (enamel) - kancodake
 global (concerning the whole world) - pandune  
 global - globe  
 globe artichoke - karcof  
+glottis - sonomun  
 glue (stick, adhere, paste; adhesive) - glute  
 gluten - gluten  
 go (going; course) - kurse  
@@ -2782,7 +2784,7 @@ opium poppy - somopapil
 opportunity (chance) - canse  
 oppose (antagonize, object, resist) - xate  
 opt (prefer, choose) - ote  
-optical fibre (optical cable) - fotolin  
+optical fibre (optical cable) - fotokable  
 optimal - otimal  
 optimism - otimisme  
 optimist - otimiste  
@@ -2851,6 +2853,7 @@ paintbrush - pentobrose
 painter - penter  
 Pakistan - Pakistan  
 palace (mansion) - daidom  
+palate - bokacate  
 Palau - Palau  
 Palestinian Territory - Filistin  
 palladium - paladium  
@@ -3714,8 +3717,7 @@ sometime - yo sate
 son - mani pute  
 soon - suno  
 soul (mind, psyche) - ruh  
-sound (audio) - son  
-sound (make a sound) - sone  
+sound (audio; make a sound) - son  
 soup (stew) - supe  
 sour - suane  
 souteneur (pimp) - sutener  
@@ -4218,6 +4220,7 @@ vegetable - yamfite
 vegetarian - fitoyamiste  
 veil (cover, screen) - higabe  
 veil - vele  
+velum - bokavele  
 Venezuela - Venezuele  
 Venus - Venus  
 veranda (balcony, terrace, porch) - beranda  

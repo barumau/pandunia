@@ -387,6 +387,8 @@ boi:|boi|||eng:buoy, spa:swa:may:boya, por:boia, fra:bouée, rus:буй (buy), j
 boi.punt.numb:|boipuntonumbe||||floating point number||punto flotante|||||浮動小数点数||||||||||
 boikot:|boikote|||eng:fra:boycott, spa:boicot, por:boicote, jpn:ボイコット (boikotto), fas:بایکوت‎ (bâykot), бойкот (boykot)|boycott||boicot|||||||||||||bojkoto|boikotti|bojkot
 boka:|boka|||spa:por:boca|mouth||boca|||||||||||||buŝo|suu|usta
+boka~cat:|bokacate||||palate|palais de la bouche|paladar|palato (céu da boca)|нёбо||上颚 (口盖)|口蓋 (上顎)|입천장 (구개)|vòm miệng|||langit-langit (palatum)||damak|palato|suulaki (kitalaki)|
+boka~vel:|bokavele||||velum||||||||||||||||kitapurje|
 boks:|bokse|sporte||eng:box, deu:Boxen, fra:por:boxe, spa:boxeo, rus:бокс (boks), jpn:ボクシング (bokushingu), kor:복싱 (boksing), hin:बॉक्सिंग (bŏksiṅg), ben:বক্সিং (bôksing), may:boksing, tur:boks|boxing|boxe|boxeo|boxe|бокс||拳击|ボクシング (拳闘)|권투 (복싱)||बॉक्सिंग|বক্সিং|tinju (boksing)|ndondi|boks|bokso|nyrkkeily|boks
 boks.r:|bokser||||boxer|boxeur|boxeador|boxeador (pugilista)|боксёр||拳击手|ボクサー (拳闘家)|복서||||||boksör|boksisto|nyrkkeilijä|
 boks.r.pant:|bokserpante||||boxer shorts (boxers)|caleçon|bóxer|samba-canção|семейные||平角褲||||||||baksır||bokserit|
@@ -622,6 +624,7 @@ dant:|dante|||spa:diente, por:dente, fra:dent, eng:dental, hin:दाँत (dā
 dant:a|• danta||||bite|mordre|morder|morder|откусить|مَضَغَ‎|咬|咬む|물어떼다 (깨물다)|cắn|||gigit|kuuma|ısırmak|mordi|purra|
 dant~balut:|dantobalute|biu|Quercus dentata||daimyo oak||roble daimyo||дуб зубчатый||槲树|カシワ||||||||||dąb zębaty
 dant~bros:|dantobros||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
+dant~kum:|dantokume||||alveolar ridge (gum ridge)||||||||||||||||hammasvalli|
 dant~medik.r:|dantomediker||||dentist||dentista (odontólogo)|||||||||||||dentisto|hammaslääkäri|dentysta
 dar:|dare|||hin:धारा (dhārā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), hin:दर्या (daryā), ben:দরিয়া (dôriẏa), tur:derya|flow (current, stream)||fluir||||||||धारा||||||virta (virtaus)|latać (fruwać)
 dar.tub:|darotube||||funnel|entonnoir|embudo|funil|воронка||漏斗|漏斗|||||||||lappo|lejek
@@ -835,7 +838,6 @@ eletr. kar:|• eletre kar||||electric car||||||||||||||||sähköauto|
 eletr.ik:|• eletrike||||electric||eléctrico|||||||||||||elektra|sähköinen|elektryczny
 eletr.loj:ia|• eletrolojia||||electronics|électronique|electrónica|eletrônica|электроника||电子学|電子工学|전자공학|điện tử học|इलेक्ट्रॉनिक्स|ইলেকট্রনিক্স|elektronika|elektroniki|elektronik|elektroniko|sähköoppi (elektroniikka)|elektronika
 eletr.on|• eletron||||electron||electrón|||||||||||||elektrono|elektroni|elektron
-eletr~lin:|eletrolin||||cable (wire, line)||cable||провод (кабель)||电缆 (电线)|電線|||||||||sähköjohto|kabel (linia)
 eletr~post:e (e-post:e)|eletroposte (e-poste)||||e-mail||email (correo electrónico)||||||||||||||sähköposti|poczta elektroniczna
 eletr~rad:|eletrorade||||lightning bolt||relámpago||молния||闪电|雷 (稲妻)|||||||||salama|piorun (grom)
 elf:|elfe|||eng:elf, spa:por:elfo, fra:elfe, rus:эльф (el’f), jpn:エルフ (erufu), kor:엘프 (elpeu)|elf|elfe|elfo|elfo|эльф|آلْف|精灵|妖精 (エルフ)|엘프 (요정)||एल्फ़||||||haltia (tonttu)|
@@ -1042,23 +1044,23 @@ form<kon:|• konforme||||conform (fit, mold)||amoldarse||применяться
 form<ri:|• riforme||||reform|||||||||||||||||
 forum:|forum|||eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)|forum (public space)||foro (espacio público)|||||||||||||forumo|foorumi|forum
 fot:|fote|||ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-|light (illumination)|lumière|luz (iluminación)|luz|свет|نور‎|光|光|빛 (광)|ánh sáng|प्रकाश (रौशनी)|আলো|cahaya (nur)|mwanga (nuru)|ışık|lumo|valo|światło (jasny, świetlny)
-fot.baton:|fotobaton||||torch||antorcha|||||||||||||torĉo|soihtu|pochochodnia (latarka)
-fot.frik:a|fotofrike||||polish|poli|pulir (lustrar)||полировать||擦亮|光沢|||||||||kiillottaa|polerować (szlifować)
-fot.graf:|fotograf|||eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf|photograph|photographie|foto (fotografía)|foto (fotografia)||| 照片 (相片)|写真|사진|hình|फ़ोटो|ফটো|foto||fotoğraf|foto|valokuva (foto)|zdjęcie (fotografia)
-fot.graf:ia|fotografia||||photography|photographie|fotografía|fotografia|фотография|||||||||||fotografio|valokuvaus|fotografia
-fot.graf.maxin:|fotografmaxin||||camera||cámara|||||||||||||fotilo|kamera|kamera, aparat fotograficzny
-fot.graf.r:|fotografer||||photographer||fotógrafo|||||||||||||fotisto|valokuvaaja|fotograf
-fot.lin:|fotolin||||optical fibre (optical cable)||||||光线||||||||||valokuitu (valokaapeli)|
-fot.minar:|fotominar||||beacon (lighthouse)|fanal (balise)|faro (baliza, almenara)|farol (baliza)|маяк||信号|狼煙 (ビーコン)|||||||||majakka|latarnia morska
-fot.rad:|fotorade||||ray of light||rayo luminoso||||||||||||||valonsäde|promień światła
-fot.sirk:|fotosirke||||halo (aureola)||halo (aureola)|||||||||||||halo|sädekehä (halo)|efekt halo
-frans:i guiana:|Fransi Guyana|gogia|GF||French Guiana||Guyana Francesa||||||||||||||Ranskan Guiana|Gujana Francuska
-frans:i krep:|fransi krepe|yam|||crepe|crêpe|crepa (crep, tortilla de trigo)|crepe||||||||||||franca krepo|kreppi|francuski naleśnik (crêpe)
-frans:i pol.nes:ia|Fransi Polnesia|gogia|PF||French Polynesia||Polinesia Francesa||||||||||||||Ranskan Polynesia|Polinezja Francuska
+fot~baton:|fotobaton||||torch||antorcha|||||||||||||torĉo|soihtu|pochochodnia (latarka)
+fot~frik:a|fotofrike||||polish|poli|pulir (lustrar)||полировать||擦亮|光沢|||||||||kiillottaa|polerować (szlifować)
+fot~graf:|fotograf|||eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf|photograph|photographie|foto (fotografía)|foto (fotografia)||| 照片 (相片)|写真|사진|hình|फ़ोटो|ফটো|foto||fotoğraf|foto|valokuva (foto)|zdjęcie (fotografia)
+fot~graf:ia|fotografia||||photography|photographie|fotografía|fotografia|фотография|||||||||||fotografio|valokuvaus|fotografia
+fot~graf.r:|fotografer||||photographer||fotógrafo|||||||||||||fotisto|valokuvaaja|fotograf
+fot~graf~maxin:|fotografomaxin||||camera||cámara|||||||||||||fotilo|kamera|kamera, aparat fotograficzny
+fot~kabl:|fotokable||||optical fibre (optical cable)||||||光线||||||||||valokuitu (valokaapeli)|
+fot~minar:|fotominar||||beacon (lighthouse)|fanal (balise)|faro (baliza, almenara)|farol (baliza)|маяк||信号|狼煙 (ビーコン)|||||||||majakka|latarnia morska
+fot~rad:|fotorade||||ray of light||rayo luminoso||||||||||||||valonsäde|promień światła
+fot~sirk:|fotosirke||||halo (aureola)||halo (aureola)|||||||||||||halo|sädekehä (halo)|efekt halo
+fran~fon:i|fransofone||||Francophone (French speaking)|francophone|||||||||||||||ranskaa puhuva (frankofoni)|
+fran~fon:ia|Fransofonia||||Francophonie|francophonie|||||||||||||||ranskankielinen maailma|
 frans:ia|Fransia|gogia|FR||France||Francia|||||||||||||Francio|Ranska|Francja
-frans.fon:i|fransofone||||Francophone (French speaking)|francophone|||||||||||||||ranskaa puhuva (frankofoni)|
-frans.fon:ia|Fransofonia||||Francophonie|francophonie|||||||||||||||ranskankielinen maailma|
 frans.ium:|fransium|kimium 087|Fr|eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم|francium|francium|francio|frâncio|франций|فرنسيوم|钫|フランシウム|프랑슘|franxi|फ्रान्सियम|ফ্রান্সিয়াম|fransium|fransi|fransiyum|franciumo|frankium|frans
+frans~ guiana:|Franse Guyana|gogia|GF||French Guiana||Guyana Francesa||||||||||||||Ranskan Guiana|Gujana Francuska
+frans~ krep:|franse krepe|yam|||crepe|crêpe|crepa (crep, tortilla de trigo)|crepe||||||||||||franca krepo|kreppi|francuski naleśnik (crêpe)
+frans~ poli.nes:ia|Franse Polinesia|gogia|PF||French Polynesia||Polinesia Francesa||||||||||||||Ranskan Polynesia|Polinezja Francuska
 frem:|frem|||eng:frame, ben:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), mar:फ्रेम (phrēma), swa:fremu|frame|cadre|marco|moldura|рама||框|額||||||fremu|frame|kadro|kehys (raamit)|rama
 frik:a|frike|||eng:friction, spa:por:friccionar, fra:frictionner + ara:فرك (farak)|rub (scrape, scrub)||raspar (arañar)||царапать||擦伤|擦る (擦り傷する)|||||||||hangata|trzeć (pocierać, obetrzeć, pucować)
 fug:a|fuge|||zho:复 (fù), yue:(fuk), vie:phục|return (restore, recover, resume)||regresar (restablecer, restaurar, recuperar, reanudar)||||||||||||||palauttaa|wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać
@@ -1638,6 +1640,7 @@ kabab:|kababe|||ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:ке�
 kabab: mans:|kababe manse||||grilled meat (kebab)||||кебаб|كباب|||||कबाब|কাবাব|||kebap||kebab (grilliliha)|kebab
 kabau:|kabau|biu|Bubalus bubalis|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|water buffalo||búbalo (arni)||||||||||||||vesipuhveli|bawół domowy
 kabin:|kabin|||eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)|cabin (booth)||cabaña||||||||||||||koppi (maja)|kabina, budka
+kabl:|kable|||eng:spa:cable, fra:câble, por:cabo, rus:кабель (kabel'), jpn:ケーブル (kēburu), kor:까벨 (kkabel), may:kabel, tur:kablo + ara:حَبْل‎ (ḥabl)|cable (wire, line)|câble (corde)|cable|corda (cabo)|провод (кабель)||电缆 (电线)|電線|||||||||kaapeli (johto)|kabel (linia)
 kabog:|kaboge|biu|Cucurbita|tur:kabak, swa:boga, jpn:カボチャ (kabocha)|squash (pumpkin, gourd)|citrouille|calabaza|abóbora (jerimun)|тыква||南瓜|カボチャ||||||||||kabaczek (dynia, tykwa)
 kabu uerdi:|Kabu Verdi|gogia|CV||Cabo Verde (Cape Verde)||Cabo Verde||||||||||||||Cabo Verde|Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)
 kad:|kade|biu|Gadus|eng:cod, ara:قد (qad)|cod|morue|bacalao||||鱈|鱈||||||||||dorsz
@@ -2343,6 +2346,7 @@ matur:i|mature|||eng:fra:mature, spa:por:maduro|mature (ripe, adult)||maduro (ad
 matur:i fem:|maturi fem||||woman (adult female)||mujer (señora)||||女人|女の人||||||||virino|nainen|kobieta, dorosła samica
 matur:i man:|maturi man||||man (adult male)||hombre (señor)||||男人|男の人||||||||viro|mies|mężczyzna, dorosły samiec
 mau:|mau|biu||zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|cat|chat|gato|gato|кошка||猫|猫|고양이|mèo|बिल्ली|বেড়াল|kucing|paka (nyau)|kedi|kato|kissa|kot
+mauris:ia|Maurisia|gogia|MU||Mauritius||Mauricio||||||||||||||Mauritius|Mauritius
 max:|max|||spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)|more|plus|más|mais||||||||||||pli|enemmän (myös, lisäksi, plus)|bardzie
 max.aj:|• maxaje||||addition (extra)||adicional (extra)||||||||||||||lisä-|dodatkowy
 max.if:|• maxife||||increase||||||||||||||||lisätä (enentää)|
@@ -2534,7 +2538,6 @@ mont.et:|• montete||||hill|||||||||||||||||
 morf:|morfe|||eng:morph, spa:morfo, rus:морф (morf)|morph||morfo||||||||||||||morfi|morf
 morf.em:|morfem||||morpheme||morfema||||||||||||||morfeemi|morfem
 morf.em:|morfeme||||morpheme||morfema||||||||||||||morfeemi|morfem
-mauris:ia|Maurisia|gogia|MU||Mauritius||Mauricio||||||||||||||Mauritius|Mauritius
 mort:|morte|||por:morto, fra:mort, spa:muerto, fas:(morde), urd:(murda), hin:मृत (mrta), rus:мёртвый (myortvïy), + may:mati, + ara:(mawt), amh:ሞት (mot)|die (death; dead, deceased)||morirse (muerte; muerto)|||||||||||||morti (morto; morta)|kuolla (kuolema, kuolo; kuollut, vainaa)|umrzeć (umierać; śmierć; martwy, nieżywy, zabity)
 mort.al|• mortal||||mortal||||||||||||||||kuolevainen|
 mort.if:|• mortife||||kill||matar (morir, asesinar)|||||||||||||mortigi|tappaa|zabić, zabijać
@@ -3646,8 +3649,8 @@ som~kamar:|somokamar||||bedroom|chambre à coucher|dormitorio|quarto (dormitóri
 som~papil:|somopapil|biu|Papaver somniferum|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|opium poppy|pavot somnifère|adormidera (amapola real)|papoila-dormideira|мак снотворный||鴉片罌粟|ケシ||||||mpopi||||mak lekarski
 somal:ia|Somalia|gogia|SO||Somalia||Somalia||||||||||||||Somalia|Somalia
 somal.dex:|Somaldex|gogia|||Somaliland||Solamilandia||||||||||||||Somalimaa|Somaliland
-son:|son|||eng:sonic, fra:son, spa:son, sonido, por:som, ita:suono, + kor:소리 (sori) + zho:声 (shēng), wuu:声 (sən)|sound (audio)|son|sonido (audio)|som||||||||||||sono|ääni|dźwięk, brzmienie
-son:a|sone||||sound (make a sound)||sonar||||||||||||||ääntää|brzmieć, wydać dźwięk, wydawać dźwięk
+son:|son|||eng:sonic, fra:son, spa:son, sonido, por:som, ita:suono + zho:声 (shēng), yue:聲 (seng1), wuu:声 (sən), jpn:声 (sei), kor:성 (seong)|sound (audio; make a sound)|son|sonido (audio; sonar)|som||||||||||||sono|ääni (ääntää, päästää ääni)|dźwięk (brzmienie; brzmieć, wydać dźwięk, wydawać dźwięk)
+son~mun:|sonomun||||glottis|glotte|glotis|glote|глотка||声门|声門|성문|thanh môn|||||||äänirako|głośnia
 song:|song|biu|Pinus|zho:松 (sōng), wuu:(son), tha:สน (sǒn), kor:솔 (sol), vie:thông, + rus:сосна (sosna)|pine tree||pino|pinheiro|сосна||松|マツ|||चीड़|||||pino|mänty|sosna
 sor:|sor|||zho:锁 (suǒ), yue:鎖 (so2), wuu:鎖 (su2), jpn:錠 (jō), khm:សោ (sao), spa:cierre, fra:serrure, hun:zár|lock (fastener)|serrure|cerradura (candado)|fechadura|замок||锁|錠||||||||||zamek (zapięcie)
 sor:a|sore||||lock (fasten)||||запереть|||||||||||||zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)

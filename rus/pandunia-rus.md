@@ -194,6 +194,7 @@ bismute - висмут
 biznes - предприятие (бизнес)  
 bode - тело  
 boi - поплавок (буй)  
+bokacate - нёбо  
 bokse - бокс  
 bokser - боксёр  
 bokserpante - семейные  
@@ -370,7 +371,6 @@ duxe - душ
 ekogene - дикий  
 ekore - белка  
 • eletrolojia - электроника  
-eletrolin - провод (кабель)  
 eletrorade - молния  
 elfe - эльф  
 em - элемент  
@@ -659,6 +659,7 @@ justopaver - снайпер
 ## K  
 
 kababe manse - кебаб  
+kable - провод (кабель)  
 kaboge - тыква  
 kadium - кадмий  
 kafe - кофе  
@@ -1398,6 +1399,7 @@ some - спать
 • ansome - бессонница (инсомния)  
 somokamar - спальня  
 somopapil - мак снотворный  
+sonomun - глотка  
 song - сосна  
 sor - замок  
 sore - запереть  

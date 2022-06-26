@@ -214,6 +214,7 @@ blablakan - babilejo
 bode - korpo  
 boikote - bojkoto  
 boka - buŝo  
+bokacate - palato  
 bokse - bokso  
 bokser - boksisto  
 bol - pilko  
@@ -533,12 +534,12 @@ fote - lumo
 fotobaton - torĉo  
 fotograf - foto  
 fotografia - fotografio  
-fotografmaxin - fotilo  
 fotografer - fotisto  
+fotografomaxin - fotilo  
 fotosirke - halo  
-fransi krepe - franca krepo  
 Fransia - Francio  
 fransium - franciumo  
+franse krepe - franca krepo  
 frem - kadro  
 fuke - vesto  
 fuke - vestigi  

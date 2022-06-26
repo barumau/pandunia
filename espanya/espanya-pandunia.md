@@ -489,7 +489,7 @@ búbalo (arni) - kabau
 caballo - gude  
 cabaña - kabin  
 cabeza - sar  
-cable - eletrolin  
+cable - kable  
 Cabo Verde - Kabu Verdi  
 cabra - buze  
 caca (defecar) - kaka  
@@ -883,7 +883,7 @@ creer - xine
 crema - krem  
 cremallera - ziper  
 cremoso - kreme  
-crepa (crep, tortilla de trigo) - fransi krepe  
+crepa (crep, tortilla de trigo) - franse krepe  
 creyente - diniste  
 creyente - krediste  
 criado (sirviente) - server  
@@ -944,7 +944,7 @@ cuál cosa - ke xei
 cuándo - ke sate  
 cuántos - ke multe  
 cálculo - kalkulia  
-cámara - fotografmaxin  
+cámara - fotografomaxin  
 cárcel - jelokan  
 Cáucaso - Kaukasia  
 célula - cel  
@@ -1545,6 +1545,7 @@ girasol - soloful
 global (de todo el mundo) - pandune  
 global (mundial) - globe  
 globo - balon  
+glotis - sonomun  
 gluten - gluten  
 GMS - vizin  
 gobernante (soberano) - sultan  
@@ -1606,7 +1607,7 @@ gustarse (disfrutar) - suku
 gustarse (querer; attracción, -filia) - file  
 gusto (sabor) - guste  
 Guyana - Guyana  
-Guyana Francesa - Fransi Guyana  
+Guyana Francesa - Franse Guyana  
 guía - gider  
 guía de viaje - gidobuke  
 género gramatical - lingue ginse  
@@ -2571,6 +2572,7 @@ Pakistán - Pakistan
 pala - belce  
 palabra (vocablo) - lexe  
 palacio (mansión) - daidom  
+paladar - bokacate  
 paladio - paladium  
 palanca - tirbaton  
 Palaos - Palau  
@@ -2796,7 +2798,7 @@ policía - polis
 policía - poliser  
 poliedro - polfas  
 Polinesia - Polinesia  
-Polinesia Francesa - Fransi Polnesia  
+Polinesia Francesa - Franse Polinesia  
 politeísmo - polidevisme  
 pollo - kokode  
 Polonia - Polske  
@@ -3306,8 +3308,7 @@ solsticio - solestas
 Somalia - Somalia  
 sombra - saye  
 sombrero - tupe  
-sonar - sone  
-sonido (audio) - son  
+sonido (audio; sonar) - son  
 sopa - supe  
 soporte (perchero, atril) - libobaze  
 sorpresa - suprize  

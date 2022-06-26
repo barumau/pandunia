@@ -145,6 +145,7 @@ biznes - 業務 (営業, ビジネス)
 bode - 体  
 boi - フロート (ブイ)  
 boipuntonumbe - 浮動小数点数  
+bokacate - 口蓋 (上顎)  
 bokse - ボクシング (拳闘)  
 bokser - ボクサー (拳闘家)  
 bol - 玉 (球)  
@@ -302,7 +303,6 @@ ekogene - 野生
 ekore - 栗鼠  
 eletre - 電気  
 • eletrolojia - 電子工学  
-eletrolin - 電線  
 eletrorade - 雷 (稲妻)  
 elfe - 妖精 (エルフ)  
 emoze - 絵文字  
@@ -562,6 +562,7 @@ justopaver - 狙撃兵
 
 ## K  
 
+kable - 電線  
 kaboge - カボチャ  
 kade - 鱈  
 kadium - カドミウム  
@@ -1233,6 +1234,7 @@ some - 寝る
 • ansome - 不眠症  
 somokamar - 寝室  
 somopapil - ケシ  
+sonomun - 声門  
 song - マツ  
 sor - 錠  
 sosis - ソーセージ  

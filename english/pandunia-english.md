@@ -425,6 +425,8 @@ boi - float (buoy, bobber)
 boipuntonumbe - floating point number  
 boikote - boycott  
 boka - mouth  
+bokacate - palate  
+bokavele - velum  
 bokse - boxing  
 bokser - boxer  
 bokserpante - boxer shorts (boxers)  
@@ -664,6 +666,7 @@ dante - tooth
 • danta - bite  
 dantobalute - daimyo oak  
 dantobros - tooth brush  
+dantokume - alveolar ridge (gum ridge)  
 dantomediker - dentist  
 dare - flow (current, stream)  
 darotube - funnel  
@@ -879,7 +882,6 @@ eletre - electricity
 • eletrike - electric  
 • eletrolojia - electronics  
 • eletron - electron  
-eletrolin - cable (wire, line)  
 eletroposte (e-poste) - e-mail  
 eletrorade - lightning bolt  
 elfe - elf  
@@ -1092,19 +1094,19 @@ fotobaton - torch
 fotofrike - polish  
 fotograf - photograph  
 fotografia - photography  
-fotografmaxin - camera  
 fotografer - photographer  
-fotolin - optical fibre (optical cable)  
+fotografomaxin - camera  
+fotokable - optical fibre (optical cable)  
 fotominar - beacon (lighthouse)  
 fotorade - ray of light  
 fotosirke - halo (aureola)  
-Fransi Guyana - French Guiana  
-fransi krepe - crepe  
-Fransi Polnesia - French Polynesia  
-Fransia - France  
 fransofone - Francophone (French speaking)  
 Fransofonia - Francophonie  
+Fransia - France  
 fransium - francium  
+Franse Guyana - French Guiana  
+franse krepe - crepe  
+Franse Polinesia - French Polynesia  
 frem - frame  
 frike - rub (scrape, scrub)  
 fuge - return (restore, recover, resume)  
@@ -1693,6 +1695,7 @@ kababe - barbecue (grill)
 kababe manse - grilled meat (kebab)  
 kabau - water buffalo  
 kabin - cabin (booth)  
+kable - cable (wire, line)  
 kaboge - squash (pumpkin, gourd)  
 Kabu Verdi - Cabo Verde (Cape Verde)  
 kade - cod  
@@ -2400,6 +2403,7 @@ mature - mature (ripe, adult)
 maturi fem - woman (adult female)  
 maturi man - man (adult male)  
 mau - cat  
+Maurisia - Mauritius  
 max - more  
 • maxaje - addition (extra)  
 • maxife - increase  
@@ -2590,7 +2594,6 @@ monte - mountain (mount, hill)
 morfe - morph  
 morfem - morpheme  
 morfeme - morpheme  
-Maurisia - Mauritius  
 morte - die (death; dead, deceased)  
 • mortal - mortal  
 • mortife - kill  
@@ -3711,8 +3714,8 @@ somokamar - bedroom
 somopapil - opium poppy  
 Somalia - Somalia  
 Somaldex - Somaliland  
-son - sound (audio)  
-sone - sound (make a sound)  
+son - sound (audio; make a sound)  
+sonomun - glottis  
 song - pine tree  
 sor - lock (fastener)  
 sore - lock (fasten)  

@@ -237,7 +237,6 @@ broń nuklearna - kori arme
 bruk - sirkite  
 brunatnica - brunalge  
 Brunei Darussalam - Brunei  
-brzmieć, wydać dźwięk, wydawać dźwięk - sone  
 brzoza - berze  
 brzuch - pete  
 brzydki - dusvide  
@@ -560,7 +559,7 @@ długość - longia
 długość geograficzna - vestodongia  
 dźinizm, dżinizm - jenisme  
 dźwignia - tirbaton  
-dźwięk, brzmienie - son  
+dźwięk (brzmienie; brzmieć, wydać dźwięk, wydawać dźwięk) - son  
 Dżakarta - Jakarta  
 Dżibuti - Gibuti  
 dżul (J) - jul  
@@ -667,7 +666,7 @@ fosfor - pospor
 fotograf - fotografer  
 fotografia - fotografia  
 Francja - Fransia  
-francuski naleśnik (crêpe) - fransi krepe  
+francuski naleśnik (crêpe) - franse krepe  
 frans - fransium  
 fu, fuj - fi  
 funkcja, stanowisko - funce  
@@ -766,7 +765,7 @@ Gudżarat - guzarate
 Guernsey - Gerneze  
 Guinea Bissau - Bisau Ginia  
 Gujana - Guyana  
-Gujana Francuska - Fransi Guyana  
+Gujana Francuska - Franse Guyana  
 guma - gom  
 guru, mistrz - guru  
 Gwadelupa - Guadelupe  
@@ -788,6 +787,7 @@ głaz - dayite
 głos (głosować) - vote  
 głoska - fone  
 głowa - sar  
+głośnia - sonomun  
 głupi (idiotyczny) - idiote  
 głupiec, bufon - bufon  
 głód - yamyau  
@@ -1005,7 +1005,7 @@ językoznastwo - linguolojia
 ## K  
 
 kabaczek (dynia, tykwa) - kaboge  
-kabel (linia) - eletrolin  
+kabel (linia) - kable  
 kabina, budka - kabin  
 kaczka - bata  
 kadm - kadium  
@@ -1019,7 +1019,7 @@ kalifat - halifia
 kaliforn - kalifornium  
 kalkulować - hisabe  
 Kambodża - Kambozia  
-kamera, aparat fotograficzny - fotografmaxin  
+kamera, aparat fotograficzny - fotografomaxin  
 Kamerun - Kamerun  
 kamieniarz - itojanger  
 kamień (kawał skały) - ite  
@@ -2085,7 +2085,7 @@ pole, powierzchnia - ar
 polerować (szlifować) - fotofrike  
 policja - polis  
 policzyć (przetwarzać dane) - konpute  
-Polinezja Francuska - Fransi Polnesia  
+Polinezja Francuska - Franse Polinesia  
 politeizm - polidevisme  
 politologia - politolojia  
 polityczny - politike  
