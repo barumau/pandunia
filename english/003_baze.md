@@ -1,11 +1,13 @@
-# Pandunia in a nutshell
+# The basics of Pandunia
 
 Pandunia is a constructed language that has a minimalistic grammar and a globalistic vocabulary.
 
 ### Letters and sounds
 
 Pandunia uses a systematic spelling where
-each letter or double letter represents one spoken sound.
+each letter represents one spoken sound.
+
+![](http://www.pandunia.info/grafe/ABC.png "a b c d e f g h i j k l m n o p r s t u v z")
 
 The vowels **a, e, i, o, u** are pronounced as in "are there three or two".
 

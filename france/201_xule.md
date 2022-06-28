@@ -27,7 +27,7 @@ sur le plan de la politesse et de l'intimité.
 **mi si Sara. ye si ke?**
 = Je suis Sara. Qui est-ce ?  
 <big>🧑🏾</big>
-**ye si mi su dosti.**
+**ye si mi su doste.**
 = C'est mon amie.  
 <big>👩🏻</big>
 **ye su nam si ke?**
@@ -41,9 +41,10 @@ sur le plan de la politesse et de l'intimité.
 Les phrases en Pandunia suivent normalement la structure sujet-commentaire.
 Le sujet indique de qui ou de quoi on parle.
 Le commentaire dit quelque chose sur le sujet. Par exemple, dans
-**ye si mi su dosti**,
-le sujet est le pronom **ye** (il, elle, il neutre), suivi du
-commentaire **si mi su dosti** (est mon amie).
+**ye si mi su doste**
+le sujet est le pronom **ye** (il, elle, il neutre), suivi du commentaire
+**si mi su doste**
+(est mon amie).
 
 Le mot **si** signifie _être_ et _oui_ en Pandunia. Le même mot est utilisé pour toutes les personnes. 
 Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à la fois _ne pas_ et _non_)
@@ -53,9 +54,9 @@ Et pour dire le contraire, remplacez le simplement par **no** (qui signifie à l
 **ye no si Sara.**
 = Ce n'est pas Sara.
 
-**mau si zou.**
+**mau si zoe.**
 = Le chat est un animal.  
-**dom no si zou.**
+**dom no si zoe.**
 = La maison n'est pas un animal.  
 
 De la même façon, vous pouvez vous décrire en utilisant **me** suivi d'un mot pour vous décrire.
@@ -98,13 +99,13 @@ son, sa, ses
 qui ou quoi  
 **si**
 être (je suis, tu es, nous sommes, etc.)  
-**ye**
+**ya**
 oui  
 **no**
 non ; ne pas être  
 **bon**
 bon  
-**dosti**
+**doste**
 ami  
 **nam**
 nom  
@@ -114,7 +115,7 @@ femme
 homme  
 **mau**
 chat  
-**zou**  
+**zoe**  
 animal
 
 ### Réponses aux exercices
@@ -253,7 +254,7 @@ chef, patron
 **halo! cing side.**
 = Bonjour ! Asseyez-vous je vous prie !  
 <big>🧒</big>
-**xukur.**
+**xukre.**
 = Merci.  
 <big>🧓</big>
 **cing yam kafe o cai.**
@@ -266,7 +267,7 @@ chef, patron
 **cing salam tu su mama!**
 = S'il te plaît, salut ta mère.  
 <big>🧒</big>
-**mi salam ye. salam reste!**
+**mi salam ye. salam live!**
 = Je la saluerai. Au revoir !  
 <big>🧓</big>
 **salam ga!**
@@ -340,23 +341,23 @@ est un modèle très utile pour les formules de politesses.
 = S'il vous plaît, donnez-moi du thé. 
 **cing yam yo cai.**
 = S'il vous plaît, prenez un peu de thé.  
-**cing safa la kamar.**
+**cing safe la kamar.**
 = Nettoyez la chambre s'il vous plaît
 
 Les ordres sont données avec
 **amir**
 (ordonner). Ils utilisent la même structure de pivot que les requêtes avec
-**ching**.
+**cing**.
 
 **amir don yo cai.**
 = Donnez-moi du thé !  
-**amir safa la kamar.**
+**amir safe la kamar.**
 = Nettoiez la chambre !
 
 En pratique, les ordres directs peuvent aussi s'exprimer au moyen
 d'un seul verbe et d'un ton autoritaire.
 
-**safa ye!**
+**safe ye!**
 = Nettoie-le/la !
 
 
@@ -373,13 +374,15 @@ Essayez de traduire ces phrases du Français au Pandunia.
 
 ### Liste de mots
 
+**amir**
+ordonner  
 **cai**
 thé  
 **cing**
 demander (poliment), s'il-vous-plaît  
 **don**
 donner  
-**xukur**
+**xukre**
 merci  
 **e**
 et  
@@ -387,11 +390,9 @@ et
 café  
 **kamar**
 chambre, pièce  
-**amir**
-ordonner  
 **o**
 ou  
-**safa**
+**safe**
 nettoyer  
 **side**
 s'asseoir (être assis)  
@@ -401,11 +402,11 @@ manger ou boire, consommer
 
 ### Réponses aux exercices
 
-1. ye yam chai.
-2. la shefe ching ye side.
-3. ching yam kafe o chai.
-4. mama ching mi safa kamar.
-5. shefe side e yam kafe.
+1. ye yam cai.
+2. la xefe cing ye side.
+3. cing yam kafe o cai.
+4. mama cing mi safe kamar.
+5. xefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -425,7 +426,7 @@ manger ou boire, consommer
 **e tu?**
 = Et vous ?  
 <big>🧓</big>
-**mi no baxa pandunia...**
+**mi no baxe pandunia...**
 = Je ne parle pas le Pandunia...  
 <big>👩‍🍳</big>
 **maf! sual ye yam cai?**
@@ -446,10 +447,8 @@ manger ou boire, consommer
 **no yam.**
 = Non.  
 <big>👩‍🍳</big>
-**xukur. mi dona un cai e un kafe e un supe pos des minute.**
+**xukre. mi don un cai e un kafe e un supe pos des minute.**
  = Merci. J'apporte un thé, un café et une soupe dans 10 minutes
-
-Note : **sa bade da** est une expression qui signifie "dans (tant de temps)"
 
 
 ### Poser des questions
@@ -480,9 +479,9 @@ Bien sûr, les noms communs et les noms propres peuvent aussi être utilisés.
 
 **sual xefe yam kafe?**
 = Est-ce que le chef prend du café ?  
-**sual papa safa kamar?**
+**sual papa safe kamar?**
 = Le père nettoie-t-il la chambre ?  
-**sual niki baxa pandunia?**
+**sual niki baxe pandunia?**
 = Est-ce que Nicky parle le Pandunia ?
 
 
@@ -543,7 +542,7 @@ pardon, désolé
 minute  
 **no**
 non, pas  
-**baxa**
+**baxe**
 parler (une langue)  
 **sui**
 eau  
@@ -561,8 +560,8 @@ oui
 
 ### Réponses aux exercices
 
-1. sual tu basha pandunia?
-2. ya. mi basha pandunia.
+1. sual tu baxe pandunia?
+2. ya. mi baxe pandunia.
 3. sual mama yam kafe?
 4. no. ye no yam kafe.
 5. sual ye yam supe?
@@ -573,7 +572,7 @@ oui
 
 # Dire non
 
-Dans la leçon précédente, vous avez appris à répondre **ye** et **no**
+Dans la leçon précédente, vous avez appris à répondre **ya** et **no**
 aux questions. Le mot **no** est utilisé pour répondre par la
 négative. L'ajout du **no** devant le verbe transforme donc une
 phrase affirmative en phrase négative.
@@ -590,11 +589,11 @@ le mot **no** nie l'existence de la salutation.
 En Pandunia, la négation affecte le mot qui le suit ;
 le sens de la phrase change donc selon l'emplacement du **no**.
 
-**mi cing tu safa la kamar.**
+**mi cing tu safe la kamar.**
 = Je te demande de nettoyer la chambre.  
-**mi no cing tu safa la kamar.**
+**mi no cing tu safe la kamar.**
 = Je ne te demande pas de nettoyer la chambre.  
-**mi cing tu no safa la kamar.**
+**mi cing tu no safe la kamar.**
 = Je te demande de ne pas nettoyer la chambre.
 
 
@@ -602,11 +601,11 @@ Le mot nié peut être de n'importe quel type : verbe, pronom, nom, adjectif et 
 
 **ye no ten mau.**
 = Elle n'a pas de chat.  
-**ye ten no mau, a vaf.**
+**ye ten no mau, ama vaf.**
 = Elle n'a pas de chats, mais des chiens.  
-**no ye, a mi ten mau.**
+**no ye, ama mi ten mau.**
 = Pas elle, mais j'ai des chats.  
-**mi ten no un, a du mau.**
+**mi ten no un, ama du mau.**
 = Je n'ai pas un, mais deux chats.
 
 
@@ -639,18 +638,18 @@ chien
 deux  
 **siro**
 zero  
-**a**
+**ama**
 mais
 
 
 ### Réponses aux exercices
 
-1. ye no safa kamar.
+1. ye no safe kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. ye no ten vaf e mau. / ye ten no vaf e no mau.
-5. shefe yam chai a no kafe.
-6. mama ten no vaf a du mau.
+5. xefe yam cai ama no kafe.
+6. mama ten no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -664,28 +663,29 @@ ajoutant des mots pour la personne, le temps, la manière ou la chose
 si nécessaire.
 
 **ye si ke?**
-= Qu'est-ce que c'est ? / Qui est-il/elle ?  
+= Qu'est-ce que c'est ?  
+**ye si ke jen?**
+= Qui est-il/elle ?  
 **ke jen lai?**
 = Qui vient ? (**ren** = personne)  
 **tu yam na ke zaman?**
 = Quand manges-tu ? (**zaman** = temps)  
-**danse na ke yang?**
+**danse a ke yang?**
 = Comment danser ? (**yang** = manière, style)
 
 En Pandunia, les questions commençant par _pourquoi_ sont posées à l'aide de
-**ke sabu**.
+**ke sababe**.
 
-**ke sabu tu suka mau?**
+**ke sababe tu suka mau?**
 = Pourquoi aimes-tu les chats ?
 
-On répond aux questions sur les causes ou les raisons de quelque
-chose en ajoutant **sabu** avant la cause ou la raison. **sabu** est
-en fait un verbe actif qui signifie _causer_, et **sabu** est un
-verbe passif qui signifie _être causé par_.
+On répond aux questions sur les causes ou les raisons de quelque chose en ajoutant
+**sababe**
+avant la cause ou la raison.
 
-**ke sabu tu suka mau?**
+**ke sababe tu suka mau?**
 = Pourquoi aimes-tu les chats ?  
-**ze sabu yemon si kavai.**
+**de sababe yemon si kavai.**
 = Parce qu'ils sont mignons.
 
 Bien entendu, vous pouvez également utiliser **sabu** pour exprimer la cause
@@ -701,7 +701,7 @@ ou la raison de quelque chose, même si vous ne réponsez pas à une question.
 3. Quand vient-il ?
 4. Dans 10 minutes.
 5. Pourquoi ne mange-t-elle pas ?
-6. Parce qu'elle n'aime pas le café ou la soupe.
+6. Parce qu'elle n'aime pas le café et la soupe.
 
 
 ### Liste de mots
@@ -727,8 +727,8 @@ temps, periode
 2. papa suka.
 3. ke zaman ye lai?
 4. pos des minute.
-5. ke sabu ye no yam?
-6. ze sabu ye no suka kafe o supe.
+5. ke sababe ye no yam?
+6. de sababe ye no suka kafe e supe.
 
 --------------------------------------------------------------------------------
 
@@ -760,8 +760,8 @@ Il y a également des expressions de temps spécifiques.
 **xa**
 = dans le futur
 
-Les adjectifs pour le passé, le présent et le futur sont **pas, zay**
-et **wil**. Ils peuvent être utilisés pour modifier des noms.
+Les adjectifs pour le passé, le présent et le futur sont **pas, zai**
+et **xa**. Ils peuvent être utilisés pour modifier des noms.
 
 **Sara si mi su pas xefe.**
 = Sara est mon ex-patron.  
@@ -798,15 +798,15 @@ ou bien pour souligner le fait que le temps du récit n'a pas changé.
 = J'ai eu un chat dans le passé.
 **ye si bon mau.**
 = C'était un bon chat.
-**mi ten un vaf na zai.**
+**mi ten un vaf a zai.**
 = J'ai un chien maintenant.
 
 Toute expression de temps convient pour exprimer un moment dans le temps.
 Lorsqu'une expression temporelle est présente, les autres marqueurs de temps ne sont pas nécessaires.
 
-**mi be jene na nen 2003.**
+**mi be jene a nen 2003.**
 = Je suis né en 2003.  
-**ye safa la kamar na pos den.**
+**ye safe la kamar a pos den.**
 = Il nettoiera la chambre demain.
 
 
@@ -818,12 +818,12 @@ Essayez de traduire ces phrases du Français au Pandunia. Les réponses correcte
 2. J'avais deux chiens.	
 3. Tu manges de la soupe maintenant.
 4. Elle a nettoyé la chambre la veille.
-5. Le chat boira du café demain.
+5. Le chat boira du lait demain.
 6. Ta mère a fait la fête hier soir.
 
 ### Liste de mots
 
-**festa**
+**feste**
 fêter, célébrer  
 **pas**
 passé, ancien  
@@ -841,18 +841,21 @@ repas du matin, petit-déjeuner
 jour  
 **noce**
 nuit, soir  
-**cen**
+**pre**
 avant, d'avant  
 **pos**
-après, d'après
+après, d'après  
+**milke**
+lait
+
 
 ### Réponses aux exercices
 
-1. mi su shefe festa na sha.
+1. mi su xefe festa na xa.
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
-4. ye safa kamar na chen den.
-5. mau yam kafe na pos den.
-6. tu su mama festa na chen noche.
+4. ye safe kamar a pre den.
+5. mau yam milke na pos den.
+6. tu su mama festa a prenoce.
 
-Mis à jour le 28 septembre 2021.
+Mis à jour le 28 juin 2022.

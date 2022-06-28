@@ -51,9 +51,9 @@ And to say the opposite, simply put **no** before it.
 **ye no si Sara.**
 = She is not Sarah.
 
-**mau si zou.**
+**mau si zoe.**
 = The cat is an animal.  
-**dom no si zou.**
+**dom no si zoe.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
@@ -115,7 +115,7 @@ woman
 man  
 **mau**
 cat  
-**zou**
+**zoe**
 animal
 
 ### Answers to the Exercises
@@ -164,8 +164,8 @@ The word **salam** is also a verb, which means "to greet".
 These are active sentences.
 In active sentences the subject does the action to the object. In
 **mi salam tu**
-the first word,
-**mi**,
+the first word
+**mi**
 is the subject,
 **salam**
 is the verb (action word), and
@@ -265,7 +265,7 @@ chief, boss
 **xukre.**
 = Thank you.  
 <big>☺</big>
-**cing yam yo kafe o cai.**
+**cing yam kafe o cai.**
 = Please have some coffee or tea.  
 <big>☻</big>
 **a mi yam un di cai! xukre.**
@@ -278,7 +278,7 @@ chief, boss
 **bon. cing salam tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi salam ye. salam reste!**
+**mi salam ye. salam live!**
 = I will. Bye!  
 <big>☺</big>
 **salam ga!**
@@ -457,13 +457,13 @@ some, a(n)
 **no. ye no yam cai. ye yam kafe.**
 = No, he won't. He would like to have coffee.  
 <big>☺</big>
-**sual tu yam yo supe?**
+**sual tu yam supe?**
 = Would you like to have soup?  
 <big>☻</big>
 **ya.**
 = Yes.  
 <big>☺</big>
-**sual ye yam yo supe?**
+**sual ye yam supe?**
 = Would he like to have soup?  
 <big>☻</big>
 **no yam.**
@@ -579,8 +579,8 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu basha pandunia?
-2. ya. mi basha pandunia.
+1. sual tu baxe pandunia?
+2. ya. mi baxe pandunia.
 3. sual mama yam kafe?
 4. no. ye no yam kafe.
 5. sual ye yam supe?
@@ -621,11 +621,11 @@ and even numeral.
 
 **ye no ten mau.**
 = She doesn't have a cat.  
-**ye ten no mau, a vaf.**
+**ye ten no mau, ama vaf.**
 = She has no cats but dogs.  
-**no ye, a mi ten mau.**
+**no ye, ama mi ten mau.**
 = Not she but I have cats.  
-**mi ten no un, a du mau.**
+**mi ten no un, ama du mau.**
 = I have not one but two cats.
 
 
@@ -658,7 +658,7 @@ dog
 two  
 **siro**
 zero  
-**a**
+**ama**
 but
 
 
@@ -668,8 +668,8 @@ but
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. ye no ten vaf e mau. / ye ten no vaf e no mau.
-5. xefe yam cai a no kafe.
-6. mama ten no vaf a du mau.
+5. xefe yam cai ama no kafe.
+6. mama ten no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -691,22 +691,22 @@ manner or thing if needed.
 = Who is coming? (**jen** = person)  
 **tu yam na ke zaman?**
 = When do you eat? (**zaman** = time)  
-**mon danse na ke yang?**
+**mon danse a ke yang?**
 = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**ke sabu**.
+**ke sababe**.
 
-**ke sabu tu suka mau?**
+**ke sababe tu suka mau?**
 = Why do you like cats?
 
-Questions asking about the cause or reason of something, are answered
-by adding **sabu** before the cause or reason. **sabu** is actually a
-passive verb meaning _to be caused by_.
+Questions asking about the cause or reason of something, are answered by adding
+**sababe**
+before the cause or reason.
 
-**ke sabu tu suka mau?**
+**ke sababe tu suka mau?**
 = Why do you like cats?  
-**ze sabu yemon si kavai.**
+**de sababe yemon si kavai.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
@@ -722,7 +722,7 @@ something, even when not answering to a question.
 3. When will he come?
 4. In ten minutes
 5. Why doesn't she eat?
-6. Because she doesn't like coffee or soup.
+6. Because she doesn't like coffee and soup.
 
 
 ### Word List
@@ -731,7 +731,7 @@ something, even when not answering to a question.
 to dance  
 **lai**
 to come  
-**na**
+**a**
 at, in, on  
 **jen**
 person  
@@ -750,8 +750,8 @@ period of time
 2. papa suka.
 3. ke zaman ye lai?
 4. pos des minute.
-5. ke sabu ye no yam?
-6. ze sabu ye no suka kafe o supe.
+5. ke sababe ye no yam?
+6. de sababe ye no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -822,15 +822,15 @@ or until it becomes useful to stress that you are still talking in the same tens
 = I had a cat in the past.  
 **ye si bon mau.**
 = It was a good cat.  
-**mi ten un vaf na zai.**
+**mi ten un vaf a zai.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-**mi be jene na nen 2003.**
+**mi be jene a nen 2003.**
 = I was born in 2003.  
-**ye safe la kamar na pos den.**
+**ye safe la kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -853,7 +853,7 @@ past, former
 present, current  
 **xa**
 future  
-**cen**
+**pre**
 before  
 **den**
 day  
@@ -873,7 +873,7 @@ milk
 1. mi su xefe festa na xa.
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
-4. ye safe kamar na cen den.
+4. ye safe kamar a pre den.
 5. mau yam milke na pos den.
-6. tu su mama festa na cen noce.
+6. tu su mama festa a prenoce.
 
