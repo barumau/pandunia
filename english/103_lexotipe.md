@@ -2,11 +2,39 @@
 
 ## Introduction
 
-The grammar of Pandunia is simple and concise compared to most languages.
-The main principle is that words don't ever change for the reasons of grammar.
-Therefore the same word can be used as a noun, verb or adjective
-without any change in the form of the word.
-This is one of the reasons why Pandunia is easier to learn and simpler to use than other languages.
+One of the first things that a person notices about Pandunia is that its words don't ever change.
+Most words in Pandunia have one unchanging form,
+which does not change according to number, case, gender, tense, mood or
+any of the other inflectional categories known from other languages.
+Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
+
+1. *mi ame ye.*
+   – I love him.
+2. *ye ame mi.*
+   – He loves me.
+
+In Pandunia, the subject and object simply change places and that's it.
+All words stay the same, and only their order changes.
+In contrast, in English, the subject *I* changes to *me* when it becomes the object,
+the object *him* changes to *he* when it becomes the subject,
+and the verb *love* changes to *loves* in order to agree with the new subject.
+Changes like this are called grammatical inflections,
+and languages that use them are called *inflected languages*.
+
+Languages with very few grammatical inflections are known as *isolating languages*.
+Pandunia is one of those languages
+Tt is free from all grammatical inflections,
+but it goes even futher.
+Pandunia words are multipurpose words
+that can be used as nouns, verbs or adjectives
+without any changes in the form of words.
+So you don't have to worry about using incorrect forms.
+This is one of the reasons why Pandunia is easier to learn and more convenient to use than other languages.
+
+What is important is the order of words
+because grammatical relationships are encoded into the word order, not into words.
+However, the word order in Pandunia is very natural,
+so it is easy to learn.
 
 Pandunia is so simple that we don't need specialized or complicated words to describe how it works.
 That's why all things in this grammar are explained in plain words
@@ -69,7 +97,7 @@ Content words can be classified further into the following word classes:
 However, the class of a content word is seldom permanent.
 A word like
 **ame**
-('love') can function as a verb, noun or adjective
+('love') can function as verb, noun or adjective
 depending on its position in the sentence.
 
 **mi _ame_ tu.**
