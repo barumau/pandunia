@@ -78,64 +78,134 @@ They are put before the word or phrase that they qualify.
 
 ## Ordinal numbers
 
-Ordinal numbers are created with the particle **me**.
+Ordinal numbers are created with the suffix **-ime**.
 
-- **un me**
+- **unime**
   – first
-- **du me**
+- **duime**
   – second
-- **tri me**
+- **trime**
   – third
-- **nelu me**
+- **nelime**
   – fourth
-- **lima me**
+- **limime**
   – fifth
-- **luka me**
+- **lukime**
   – sixth
-- **ceti me**
+- **cetime**
   – seventh
-- **bati me**
+- **batime**
   – eighth
-- **tisa me**
+- **tisime**
   – ninth
-- **des me**
+- **desime**
   – tenth
 
 They are placed before the modified noun like normal adjectives.
 
-**un me fen**
+**unime fen**
 – the first part  
-**du me fen**
+**duime fen**
 – the second part  
-**tri me fen**
+**trime fen**
 – the third part
+
+Also the words for previous, next, first and last use the same suffix.
+
+**pre**
+'before, precede'
+→ **prime**
+'previous, preceding'  
+**pos**
+'after, follow'
+→ **posime**
+'next, following'  
+**xure**
+'begin'
+→ **xurime**
+'the first'  
+**fine**
+'end'
+→ **finime**
+'the last'
 
 ### Ordinal number after noun
 
-Another way to form ordinal numbers is to place the number after the noun.
+Another way to form ordinal numbers is to place the cardinal number after the noun.
 
 **fen un**
-– the first part (part one)
+– part one (the first part)  
 **fen du**
-– the second part (part two)
+– part two (the second part)  
 **fen tri**
-– the third part (part three)
+– part three (the third part)
+
+
+## Classifiers of measurement
+
+The classifier of measurement is a word that occurs between a numeral and a noun.
+It indicates how the referent of the noun is measured, contained or packaged.
+Classifiers of measurement is an open class of words,
+which includes, among many others,
+**litre**
+'liter',
+**metre**
+'meter',
+**botle**
+'bottle',
+**kope**
+'cup, mug',
+**pake**
+'package',
+**pote**
+'pot',
+**sake**
+'bag, sack',
+**tin**
+'can, tin'
+**tong**
+'cask, barrel',
+**van**
+'bowl'.
+
+**du litre jus**
+– two liters of juice  
+**tri metre kable**
+– three meters of wire  
+**un kope kafe**
+– a cup of cofee  
+**du botle vin**
+– two bottles of wine  
+**tri sake patate**
+– two sacks of potatoes  
+**nel tin limonaje**
+– three cans of lemonade
 
 
 ## Fractions
 
-There are two ways to create fractions.
-Both of them use the word
+Fractions are formed with the help of the word
 **fen**
-('part').
+'part'.
 
-The short way is to use ordinal numbers.
+Fractions can be interpreted in two ways.
+Firstly, the word **fen** can be interpreted as a classifier of measurement.
+Then, for example,
+**du fen tri**
+is interpreted as 'two parts of three (parts)'.
+Secondly, the last numeral can be understood as an ordinal number that modifies **fen**.
+Then, for example,
+**du fen tri**
+is interpreted as 'two thirds'.
+Both interpretations lead to the same result that
+**du fen tri**
+stands for '2/3' in mathematical symbols.
 
 **un fen du**
 – a half (½)  
-**un fen nelu**
+**un fen nel**
 – one fourth, one quarter (¼)  
-**tri fen nelu**
+**tri fen nel**
 – three fourths, three quarters (¾)  
 **un fen sento**
 – one hundredth, one percent (1%)  
@@ -154,16 +224,16 @@ Fractions are connected to their noun head with
 – two thirds of a cake  
 
 
-There is also a longer pattern for forming fractions.
+In addition, there is also a longer pattern for forming fractions.
 It uses the pattern
 **X de Y fen**
 ('X of Y parts').
 
 **un de du fen**
 – one of two parts, a half (½)  
-**un de nelu fen**
+**un de nel fen**
 – one of four parts, a quarter (¼)  
-**tri de nelu fen**
+**tri de nel fen**
 – three of four parts, three quarters (¾)  
 **un de sente fen**
 – one of hundred parts, a percent, (1%)  
@@ -194,7 +264,7 @@ and so on.
    – Tuesday
 3. **den tri**
    – Wednesday
-4. **den nelu**
+4. **den nel**
    – Thursday
 5. **den lima**
    – Friday
@@ -216,7 +286,7 @@ but this time the word
    – February
 3. **lun tri**
    – March
-4. **lun nelu**
+4. **lun nel**
   – April
 5. **lun lima**
   – May
