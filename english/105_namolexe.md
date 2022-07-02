@@ -2,18 +2,20 @@
 
 ### Only one form
 
-A noun is a word that names a thing.
-Like all words in Pandunia, nouns don't ever change their form.
-So the same form is used in singular and plural, in definite and indefinite, etc.
+A noun is a word that refers to a concrete or abstract object,
+such as *person*, *tree*, *house*, *life* and *speed*.
+Like all words in Pandunia, nouns don't ever change in form.
+The same word form is always used, no matter whether the referred thing is singular or plural, definite or indefinite, subject or object, etc.
+Therefore the same Pandunia word form can correspond to many different word forms in English.
 
 **ite**
-– a stone, stones, the stone or the stones  
+– a stone, stones, the stone, or the stones  
 **meza**
-– a table, tables, the table or the tables  
+– a table, tables, the table, or the tables  
 **kursi**
-– a chair, chairs, the chair or the chairs  
+– a chair, chairs, the chair, or the chairs  
 **sui**
-– water
+– water, the water
 
 Number and definiteness are often known because they were previously mentioned in the conversation or because they are general knowledge.
 For example, normally the word **sol** refers to _the sun_ and **lun** refers to _the moon_, our only sun and moon.
@@ -24,13 +26,12 @@ For example, normally the word **sol** refers to _the sun_ and **lun** refers to
 Pandunia nouns have the same form
 in singular (when there is one)
 and plural (when there is more than one).
-Therefore all Pandunia nouns are like English words
+Therefore all Pandunia nouns are like the English words
 _sheep_, _deer_ and _fish_,
-which also have only one form.
+which also have only one form though they can refer to one or many things.
 
-A numeral or another quantity word can be added to indicate number
-– but usually it's not necessary.
-Simply insert a numeral in front of the unchanged noun.
+In Pandunia, the number is indicated only when it matters and when it is new information.
+It is done simply by inserting a number or a quantity word before the noun.
 
 **meme**
 – (one or more) sheep  
@@ -40,7 +41,7 @@ Simply insert a numeral in front of the unchanged noun.
 – two sheep  
 **tri meme**
 – three sheep  
-**ba meme**
+**poli meme**
 – many sheep
 
 **kursi**
@@ -51,16 +52,19 @@ Simply insert a numeral in front of the unchanged noun.
 – two chairs  
 **tri kursi**
 – three chairs  
-**ba kursi**
+**poli kursi**
 – many chairs
 
-An easy way to say that there are many is to repeat the noun two times.
+It is possible to specify plurality also by reduplication, by saying the noun two times.
+It is enough to use reduplication only.
+Therefore a quantity word should not be used at the same time.
 
 **ite ite**
 – stones and stones, a variety of stones  
 **buke buke**
-– books and books, a variety of books
-
+– books and books, a variety of books  
+✗ **poli buke buke**
+– (incorrect phrase)
 
 ### Proper names
 
