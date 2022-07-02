@@ -36,6 +36,7 @@
 **an-** *inverse (négatif, in-)* ← ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-  
 **ancovi** *anchois* ← eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)  
 **angar** *ancre* ← eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga  
+**ange** ** ← hin:अंग (aṅg), ben:অঙ্গ (ôṅg), pnb:ਅੰਗ (aṅga), tel:అంగము (aṅgamu), khm: អង្គ (ʔɑŋ), tha: องค์ (ong)  
 **angil** *message* ← ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl) + eng:angel, fra:ange, spa:ángel, por:anjo, rus:ангел (angel), zho:安琪儿 (ānqí'ér)  
 **angul** ** ← hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)  
 **anime** *animer (animation)* ← eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)  
@@ -490,7 +491,7 @@
 **hamar** ** ← eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀  
 **hamile** ** ← ara:(ḥāmil), may:hamil, swa:himila, tur:hamile, urd:(hāmila), fas:(hâmele)  
 **hamir** ** ← ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, swa:hamira, fas:(moxammer), + kor:효모 (hyomo)  
-**hande** *main* ← hin:हाथ (hāth), ben:হাত (hat), eng:hand  
+**hande** *main* ← hin:हाथ (hāth), ben:হাত (hat) + eng:hand  
 **haos** ** ← eng:fra:chaos, spa:por:caos, rus:хаос (haos), jpn:カオス (kaosu)  
 **hape** *approprié (adapté, convenable, opportun)* ← zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto  
 **harabe** ** ← ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu  
@@ -532,19 +533,19 @@
 **hotel** *hôtel* ← eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)  
 **hui** ** ← zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)  
 **huke** *crochet* ← eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak  
-**hulei** *renard* ← zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li  
+**huli** *renard* ← zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li  
 **humor** ** ← rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)  
 **humus** ** ← ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)  
+**hura** *hourra* ← eng:hurrah, deu:spa:hurra, fra:hourra, rus:ура (ura), may:hore, fas:(hurâ)  
 **hurargente** *mercure* ← swa:hidrajiri  
 **hure** *libre* ← ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro  
-**huse** ** ← fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy  
+**hux** ** ← fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy  
 **ice** ** ← vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)  
 **ide** ** ← fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định  
 **idiote** ** ← eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)  
 **ifrite** ** ← ara:عِفْرِيت‎ (ʿifrīt), eng:spa:por:fra:tur:may:ifrit, deu:Ifrit, rus:ифрит (ifrit), jpn:イフリート (ifuriito)  
 **ike** ** ← eng:-ic, fra:-ique, spa:por:-ico, hin:-इक (-ika)  
-**imperia** ** ← eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar  
-**in** ** ← eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)  
+**in** *en* ← eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)  
 **intraje** *intestin (entrailles, ventre, boyau)* ← hin:आंत्र (åntra), ben:অন্ত্র (antra), pan:ਆਂਦਰਾਂ (āndarā̃) + fra:entrailles, eng:entrails, spa:entrañas, por:entranhas  
 **inxala** ** ← ara:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), fas:ان‌شاءالله (enšâ'allâh), tur:inşallah, may:insya allah, spa:ojalá, por:oxalá, eng:inshallah, rus:иншаллах (inšallax), ben:ইনশাআল্লাহ্ (inśaallah), zho:印沙安拉 (yìnshā'ānlā)  
 **iridium** *iridium* ← eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم  
@@ -575,8 +576,8 @@
 **jinje** *gingembre* ← tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre  
 **joke** ** ← eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jongle** *jongler* ← fra:jongler, eng:juggle, rus:жонглировать (žonglirovat’), jpn:ジャグリング (jaguringu)  
+**jube** *robe* ← ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba  
 **junte** ** ← eng:joint, fra:jonction, spa:por:junta, deu:junktion  
-**jupe** ** ← fra:jupe, ara:(jūb), rus:юбка (yubka)  
 **jus** *jus* ← eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)  
 **juste** *exact (précis)* ← eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)  
 **kababe** ** ← ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu  
@@ -1273,6 +1274,7 @@
 **siyahe** *noir* ← fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah  
 **skale** ** ← spa:por:escalar + fra:escalier + eng:scale, deu:Skale, rus:шкала (škala)   
 **skandium** *scandium* ← eng:scandium, fra:scandium, spa:escandio, por:escândio, rus:скандий, zho:钪 (kàng), jpn:スカンジウム, kor:스칸듐, vie:scandi, hin:स्काण्डियम, ben:স্ক্যান্ডিয়াম, may:skandium, swa:skandi, ara: سكانديوم  
+**skerte** *jupe* ← eng:skirt, hin:स्कर्ट (skarṭ), ben:স্কার্ট (śkarṭ), jpn:スカート (sukāto), kor:스커트 (seukeoteu), swa:sketi, hau:siket  
 **sofa** *canapé (sofa)* ← eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), vie:xô pha, hin:सोफ़ा (sofā)  
 **soge** *chercher* ← zho:搜 (sōu), yue:索 (sok3), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen, pol:szukać, ukr:шукати (šukati) + rus:искать (iskat’)  
 **soi** *soja* ← eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)  
@@ -1408,7 +1410,6 @@
 **un** *un (1)* ← fra:un, spa:uno, por:um, una, eng:one  
 **unale** ** ← eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)  
 **uranium** *uranium* ← eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم  
-**ure** *hourra* ← rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)  
 **urse** *ours* ← fra:ours, por:urso, spa:oso, fas:(xers)  
 **uze** *user* ← eng:use, fra:user, spa:por:usar, pol:używać  
 **va** *ouah* ← eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah  
@@ -1511,9 +1512,9 @@
 **yang** ** ← zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)  
 **yasen** *frêne* ← rus:ясень (yasen’), pol:jesion  
 **yatim** ** ← ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)  
-**yau** *besoin* ← zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu  
+**yau** *besoin (avoir besoin de)* ← zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu  
+**ye** *il ou elle* ← hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y  
 **yege** *chasser* ← deu:jagen + eng:jaeger, rus:егерь (jeger’)  
-**yei** ** ← eng:yay, pol:jej, jpn:イエイ (iei)  
 **yeze** ** ← zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)  
 **yodium** *iode* ← eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود  
 **yoge** ** ← hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)  
@@ -1571,6 +1572,7 @@
 **• fizikia** ** ← eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)  
 **• fobia** ** ← eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi  
 **• historia** ** ← eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)  
+**• imperia** ** ← eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar  
 **• infetion** *infection* ← eng:fra:infection, deu:Infektion, spa:infección, por:infecção, rus:инфекция (infektsiya), tur:enfeksiyon, may:infeksi  
 **• jamia** ** ← ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia  
 **• juder** *juje* ← eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:суд (sud)  

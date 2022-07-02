@@ -491,7 +491,7 @@ halou - 哈啰 (哈喽)
 ham - 重要  
 hamile - 怀孕  
 hande - 手  
-handoxake - 胳膊  
+handange - 胳膊  
 hape - 合适  
 harfia - 字母表  
 Hartum - 喀土穆  
@@ -532,19 +532,20 @@ hotel - 旅馆
 huidarte - 灰化土  
 huke - 钩  
 hukokrus - 卍 (卐)  
-hulei - 狐狸  
+huli - 狐狸  
 • human - 人类  
 • humanisme - 人文主义  
 human hake - 人权  
 hure - 自由的  
-huria - 自由  
+• huria - 自由  
 hurargente - 汞  
+hura - 好哇  
 
 ## I  
 
 ike - 的  
+in - 内  
 intraje - 肠子  
-introverse - 内向的  
 iridium - 铱  
 • islamia - 回教 (伊斯蘭教)  
 • islamisme - 回教 (伊斯蘭教)  
@@ -571,6 +572,7 @@ jetografe - 投射 (投影)
 jin - 真  
 jinje - 姜  
 jongle - 变戏法  
+jube - 长袍  
 • judokan - 法庭  
 jul - 焦耳 (J)  
 juntolexe - 连接词  
@@ -688,7 +690,9 @@ kosmobiolojia - 太空生物学
 kosmonau - 太空船  
 kosmonaver - 太空人  
 krake - 裂缝 (缝隙)  
+krede - 信赖  
 • krediste - 信徒  
+bekredable - 忠实  
 • ankrediste - 不信神的  
 krede karte - 信用卡  
 krepe - 薄烤饼  
@@ -1204,6 +1208,7 @@ sirplan - 阴谋 (密谋)
 sirkite - 鹅卵石  
 six - 六 (6)  
 skandium - 钪  
+skerte - 裙子  
 • socia - 社会  
 soce ginse - 社會性別  
 • sofia - 智慧  
@@ -1328,7 +1333,6 @@ un - 一 (1)
 • unike - 唯一 (独)  
 • uniko - 只有 (惟独)  
 unomaro - 一次 (一遍)  
-ure - 好哇  
 uranium - 铀  
 va - 哇  
 vade - 山谷  
@@ -1427,10 +1431,8 @@ yamyau - 饥饿
 • exyam - 野餐  
 yasen - 白蜡树  
 yatimokan - 孤儿院  
-yavu - 需要  
-yavan - 必要的  
-yausine - 信赖  
-yausinable - 忠实  
+yau - 需要  
+• beyau - 必要的  
 ye - 他，她，它  
 yemon - 他们  
 yemon su - 他们的  

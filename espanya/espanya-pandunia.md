@@ -381,6 +381,7 @@ base (básico; fundar, basar) - baze
 base (álcali; alcalino) - alkale  
 bastante - bas  
 basura (desechos) - laze  
+bata (aljuba) - jube  
 batidora (licuadora, mezcladora) - mixer  
 baya - beri  
 bañarse (baño) - banya  
@@ -447,7 +448,7 @@ boxeador - bokser
 boxeo - bokse  
 Brasil - Brazil  
 bravo! - bravo  
-brazo - handoxake  
+brazo - handange  
 Brazzaville - Brazavil  
 brillante (luminoso) - ming  
 brocheta - sis  
@@ -792,7 +793,7 @@ comunitario - komune
 con (tener) - ha  
 concentración - fokuse  
 concentrar (enfocarse) - fokus  
-conceptual - ide  
+conceptual - ideike  
 concierto - konserte  
 concreto (hormigón) - beton  
 condición (requisito, estipulación; espicificar, estipular) - xarte  
@@ -803,7 +804,7 @@ conectar - konnete
 conector - konnetor  
 conejo (liebre) - tuze  
 conexión - konnetion  
-confiar (contar con) - yausine  
+confiar (contar con) - krede  
 confucianismo - kongfuzisme  
 Confucio - Kongfuze  
 confundir (desconcertar, perplejo) - ruhmixe  
@@ -957,7 +958,7 @@ código (cifra) - kode
 cólera - holera  
 cómo - ke mode  
 cómo? (eh?) - he  
-cómodo (lujoso) - huse  
+cómodo (lujoso) - hux  
 cósmico - kosme  
 cúmulo - kumulonepe  
 cúpula - kupocate  
@@ -1011,7 +1012,7 @@ demografía - demografia
 demonio - demon  
 demócrata - demokratiste  
 dentista (odontólogo) - dantomediker  
-dentro - intro  
+dentro - a intre  
 deporte - sporte  
 deportista - sporter  
 depurar - degalte  
@@ -1201,6 +1202,7 @@ emplear (aplicar; aplicación) - aplike
 empresario - bizneser  
 empujar (presionar) - puse  
 en (a) - a  
+en - in  
 en el sentido contrario al las agujas del reloj - rotolefto  
 en el sentido del las agujas del reloj - rotoraito  
 en línea - a line  
@@ -1227,7 +1229,7 @@ enseñar - xulane
 entender (comprender) - ahe  
 entero (todo) - hole  
 entrada - intromun  
-entrar - intru  
+entrar - intre  
 entre - medu  
 entregar (enviar) - karmise  
 enviar (transmitar) - mise  
@@ -1250,7 +1252,7 @@ Eritrea - Eritria
 error (errar; erróneo) - galte  
 erupcionar - exrute  
 es decir (en otras palabras) - alonamo  
-escalar - skale  
+escalar - askale  
 escalera - skale  
 Escandinavia - oskandinavia  
 Escandinavia - Skandia  
@@ -1326,7 +1328,6 @@ estudiar (investigar) - loje
 estudio - studia  
 estupidez (tontería) - idiotia  
 estático (estacionario) - statike  
-estúpido (tonto) - idiote  
 Esuatini (Suazilandia) - Suati  
 esvástica (cruz gamada) - hukokrus  
 etapa (fase) - faze  
@@ -1344,7 +1345,7 @@ evangelio - evangil
 eviar por correo - poste  
 evidente - exvidable  
 evidente - exvide  
-exacto (preciso) - juste  
+exacto (preciso; justo, exactamente) - juste  
 examinar (inspeccionar) - gence  
 excelente - bonsife  
 excepto (exceptuar) - excepe  
@@ -1374,7 +1375,7 @@ exónimo - exonam
 
 facilidad - fasilia  
 factor - feter  
-falda - jupe  
+falda - skerte  
 falla (mal funcionamiento) - dusfunce  
 falla (mal funcionamiento) - dusfunse  
 falso - false  
@@ -1715,12 +1716,12 @@ humo - duman
 humor (gracia) - humor  
 humor - emoshal  
 humorista - humoriste  
-humorístico (gracioso, cómico) - humore  
+humorístico (gracioso, cómico) - humorike  
 humus - hume  
 humus - humusosaus  
 Hungría - Magyaria  
 huracán (tifón) - rototafun  
-hurra - ure  
+hurra (yupi) - hura  
 hurón - furete  
 huérfano - yatim  
 hábil - xutike  
@@ -1735,7 +1736,7 @@ idea (noción, concepto) - ide
 ideograma - ideograf  
 ideología (doctrina, religión, -ismo) - isme  
 idioma artificial (lengua construida, conlang) - fetolingue  
-idiota (imbécil) - idiote  
+idiota (imbécil; estúpido, tonto) - idiote  
 iglesia - eglis  
 ilusión - falsvide  
 ilustrador - grafer  
@@ -1796,7 +1797,7 @@ inmigrante - inmigrer
 inmigrar - inmigre  
 innato (endógeno) - ingene  
 innato (endógeno) - innate  
-innecesario - anyave  
+innecesario - anbeyau  
 inodoro (wáter, retrete) - tualete  
 inquisitivo (curioso) - savovolane  
 insecto - koncung  
@@ -1815,9 +1816,8 @@ interceptar - intercepe
 interesado (curioso) - savovole  
 interesante (curioso) - savovolite  
 interfaz de línea de comandos - amirlin  
-interior (interno) - ine  
-interior (interno) - intre  
-interior - in  
+interior (interno) - inike  
+interior - inaje  
 internacional - nasmede  
 Internet - internete  
 interracial - rasmede  
@@ -1826,7 +1826,6 @@ interrumpir - interrute
 interés - savovol  
 interétnica - zukomede  
 intestino (visceras, entrañas, tripas) - intraje  
-introvertido - introverse  
 introvertido - introverse  
 invernal - lengomosime  
 invertir - reverse  
@@ -1912,7 +1911,6 @@ juntura (conexión, enlace) - linke
 juntura - junture  
 Jupiter - jupiter  
 justicia - adalia  
-justo (exactamente) - justo  
 justo - adal  
 juventud - yunia  
 juzgar (fallo, juicio, criterio) - jude  
@@ -1967,8 +1965,8 @@ laurencio - laurensium
 lava - fuzopetre  
 lavadora - vaxomaxin  
 lavar - vaxe  
-leal (fiel) - yausinable  
-lealtad (fidelidad) - yausinablia  
+leal (fiel) - bekredable  
+lealtad (fidelidad) - bekredablia  
 lección - xul  
 leche - milke  
 leche de soja - soimilke  
@@ -1993,10 +1991,10 @@ levadura - hamir
 levantar (elevar) - gave  
 leño (tronca) - mokotan  
 león - sing  
-liberal - huriste  
+liberal - huristike  
 liberalismo - hurisme  
 liberalista - huriste  
-liberar (soltar) - hure  
+liberar (soltar) - hurife  
 Liberia - Liberia  
 libertad - huria  
 Libia - Libia  
@@ -2377,7 +2375,7 @@ nacional - nase
 nacionalismo - nasisme  
 nacionalista - nasiste  
 nación - nasia  
-nada - ansei  
+nada - no xe  
 nailon (nilón) - nilon  
 Namibia - Namibia  
 nano- - nane  
@@ -2394,10 +2392,9 @@ Navidad - kristojen
 Nazi - naziste  
 nazismo - nazisme  
 Naúru - Nauru  
-necesario - yavan  
-necesidad - yau  
-necesitado - yave  
-necesitar - yavu  
+necesario - beyau  
+necesitado - yavike  
+necesitar (necesidad) - yau  
 necrofilia - nekrofilisme  
 necrología (obituario) - nekrologe  
 nefología - nepolojia  
@@ -2424,7 +2421,7 @@ nieve (nevar) - hima
 Nieves - Nevis  
 Nigeria - Nigiria  
 nihonio - niponium  
-ningunos - anjen  
+ningunos - no jen  
 niobio - niobium  
 nitrógeno - nitre  
 Niue - Niue  
@@ -2463,7 +2460,7 @@ nueva línea - linparce
 Nueva Zelanda - Nove Zelandia  
 nueve (9) - nof  
 nuevo - nove  
-nunca - ansate  
+nunca - no sate  
 nutria - lontre  
 náhuatl (nahua) - navate  
 náusea - retroguli sense  
@@ -2944,7 +2941,6 @@ que (como) - ce
 quemar - hoge  
 quemarse - hogu  
 querer (desear; deseo) - vol  
-querer (disponer) - ice  
 querubín - kerube  
 queso - kize  
 queso fresco - panir  
@@ -3700,7 +3696,7 @@ vocal - vokal son
 volar (vuelo) - fei  
 volcán - hogosan  
 voltio (V) - volte  
-voluntad - ice  
+voluntad (querer, disponer) - ice  
 voto (votar) - vote  
 vudú - vodun  
 vuelta (volver, retornar) - retre  
@@ -3730,7 +3726,6 @@ yuca (mandioca) - manioke
 yudo - judau  
 yugo - yuge  
 yunque - metalbede  
-yupi - yei  
 
 ## Z  
 
@@ -3750,7 +3745,7 @@ zoológico - zoolojike
 zoroastriano - zarduxiste  
 zoroastrismo - zarduxisme  
 Zoroastro - Zardux  
-zorro - hulei  
+zorro - huli  
 zulú - Zulu  
 África - Afrike  
 Ártico - Artike  

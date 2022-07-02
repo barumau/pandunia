@@ -737,19 +737,19 @@ Horvatia - Kroatio
 hotel - hotelo  
 huke - hoko  
 hukokrus - svastiko  
-hulei - vulpo  
+huli - vulpo  
 • human - homo  
 • humane - humana  
 • humania - homaro  
 • humanisme - homismo  
 human hake - homaj rajtoj  
 humor - humuro  
-humore - humura  
-humoriste - humuristo  
-hure - liberigi  
+• humorike - humura  
+• humoriste - humuristo  
 hure - libera  
-huria - libereco  
-huse - agrabla  
+• huria - libereco  
+• hurife - liberigi  
+hux - agrabla  
 
 ## I  
 
@@ -759,8 +759,7 @@ ibre - Hebrea
 ice - volo  
 ide - ideo  
 in - eno  
-ine - ena  
-intre - ena  
+• inike - ena  
 Indonesia - Indonezio  
 inxala - esperi  
 Irakia - Irakio  
@@ -800,15 +799,14 @@ jin - vera
 jinje - zingibro  
 jongle - ĵongli  
 • jongler - ĵonglisto  
+jube - robo  
 jude - juĝo  
 • juder - juĝisto  
 • exjude - senjuĝa  
 judau - ĵudo  
 jul - ĵulo (J)  
-jupe - jupo  
 jus - suko  
-juste - preciza (ekzakta)  
-justo - ĝuste (ekzakte)  
+juste - preciza (ekzakta; ĝuste )  
 
 ## K  
 
@@ -1593,6 +1591,7 @@ six - sis
 • sixime - sisa  
 skale - ŝtuparo  
 skandium - skandio  
+skerte - jupo  
 skulte - skulti (statuo, skultaĵo)  
 • skulter - skultisto  
 • socia - socio  
@@ -1861,7 +1860,7 @@ yamfite - legomo
 yamkamar - manĝoĉambro  
 yamyau - malsato  
 yang - speco (tipo, stilo)  
-yavu - bezoni  
+yau - bezoni  
 ye - li aŭ ŝi aŭ ĝi  
 yemon - ili  
 yemon su - ilia  

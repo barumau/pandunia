@@ -202,7 +202,7 @@ argument (rationale, grounds) - argum
 argument (thesis) - tese  
 Ariel - Ariel  
 arithmetics - hisabia  
-arm - handoxake  
+arm - handange  
 Armenia - Hayastan  
 armor (shielding) - defkaske  
 army - gun  
@@ -681,7 +681,7 @@ chauffeur (driver) - xofer
 chaussure - sapate  
 check (to examine) - ceke  
 checkers (draughts) - dama gem  
-cheer (hurrah, hooray) - ure  
+cheer (hurrah, hooray, yay) - hura  
 cheese - kize  
 chemical - kimi  
 chemical element - kimium  
@@ -751,7 +751,7 @@ climate - klim
 climate change - klimomute  
 climatize - klimize  
 climatology - klimolojia  
-climb (get on) - skale  
+climb (get on) - askale  
 clipboard (paste buffer) - katoglutoban  
 clipboard (physical board) - pinsoban  
 clock (watch) - horloger  
@@ -848,7 +848,7 @@ compute (put data together) - konpute
 computer - konputer  
 conceive (take together; concept) - koncepe  
 concentrate - fokuse  
-conceptual - ide  
+conceptual - ideike  
 concert - konserte  
 conclude (close together) - konkluze  
 concrete (material with cement) - beton  
@@ -1276,8 +1276,7 @@ English - engle
 English daisy - englomargarite  
 English oak - europobalute  
 enough (sufficient) - bas  
-enter (get in) - intru  
-enter (insert, put in) - intre  
+enter (get in; insert, put in) - intre  
 entrance - intromun  
 envelope (enfold) - invelaje  
 environment (nature) - ekia  
@@ -1530,14 +1529,14 @@ founder - bazer
 fountain (spring, well) - fonte  
 fountain pen - fontokalam  
 four (4) - care  
-fox - hulei  
+fox - huli  
 frame - frem  
 France - Fransia  
 franchise (right to vote) - votohake  
 francium - fransium  
 Francophone (French speaking) - fransofone  
 Francophonie - Fransofonia  
-free (liberate) - hure  
+free (liberate) - hurife  
 free (unchained) - hure  
 freedom (liberty) - huria  
 French Guiana - Franse Guyana  
@@ -1872,7 +1871,7 @@ humid (damp, moist) - xipete
 hummus - humusosaus  
 humor - humor  
 humorist - humoriste  
-humorous (comical, funny) - humore  
+humorous (comical, funny) - humorike  
 humus (mold) - hume  
 hundred (100) - cente  
 Hungary - Magyaria  
@@ -1898,7 +1897,7 @@ Iceland - Islandia
 idea (concept, notion) - ide  
 ideogram - ideograf  
 idiocy (stupidity) - idiotia  
-idiot - idiote  
+idiot (stupid, idiotic) - idiote  
 if (suppose, assume) - gar  
 ifrit - ifrite  
 ill (sick) - pate  
@@ -1922,6 +1921,7 @@ implode (collapse; implosion) - inploze
 import - inmise  
 important - ham  
 imprison (jail) - jele  
+in - in  
 include (enclose, hold in) - inkluze  
 including - inkluze da  
 inclusive - inkluzive  
@@ -1961,13 +1961,11 @@ injection - injete
 ink - moge  
 innate (endogeneous, indigenous, inborn) - ingene  
 innate (endogenous, indigenous, inborn) - innate  
-inner (internal) - ine  
-inner (internal) - intre  
+inner (internal) - inike  
 input  - inpute  
 insect - koncung  
-inside (interior) - in  
-inside (interior) - intre  
-inside - intro  
+inside (interior) - inaje  
+inside - a intre  
 insomnia - ansome  
 instructions (recipe) - resete  
 insult (offence) - ninde  
@@ -2001,11 +1999,9 @@ intoxicated (high, stoned) - narke
 intrastructure (underbuilding) - bazostrute  
 introspection - introspete  
 introvert - introverse  
-introvert - introverse  
 invent - invene  
 invite - cing lai  
 invoke - invoke  
-inward (internal) - intre  
 Io - Io  
 iodine - yodium  
 ion - yon  
@@ -2076,7 +2072,6 @@ juncture (junction, intersection) - junture
 June - lun luka  
 jungle - jangle van  
 Jupiter - jupiter  
-just (exactly, precisely) - justo  
 just (fair, righteous) - adal  
 just (recently) - a nove  
 justice - adalia  
@@ -2202,7 +2197,7 @@ level up (graduate) - gaudargu
 lever - tirbaton  
 lexeme - lexeme  
 lexical (related to words) - lexike  
-liberal - huriste  
+liberal - huristike  
 liberalism - hurisme  
 liberalist - huriste  
 Liberia - Liberia  
@@ -2223,6 +2218,7 @@ lilac - lilake
 lilac color - lilake  
 lily - susan  
 lily of the valley - vadosusan  
+limb (member, branch) - ange  
 lime - kalsomate  
 lime green - limonluge  
 limestone - kalsopetre  
@@ -2284,8 +2280,8 @@ lover - amer
 low (short) - tale  
 lower (inferior) - subike  
 lower (put down) - tale  
-loyal (faithful, trustworthy) - yausinable  
-loyalty (faithfulness) - yausinablia  
+loyal (faithful, trustworthy) - bekredable  
+loyalty (faithfulness) - bekredablia  
 luggage (baggage) - bagaje  
 lump (nodule) - nodule  
 lunch - yomyam  
@@ -2632,14 +2628,13 @@ Nazi - naziste
 Nazism - nazisme  
 near (close) - karibe  
 nearly (closely, almost) - karibo  
-necessary (needed) - yavan  
+necessary (needed) - beyau  
 nechrophilia - nekrofilisme  
 neck (nape) - nuke  
 necrology (listing of people who have died) - nekroliste  
-need (lack) - yavu  
-need (shortage, lack) - yau  
+need (lack; shortage) - yau  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
-needy (lacking) - yave  
+needy (lacking) - yavike  
 negative - negative  
 negotiate (arrange) - lona biznes  
 neodymium - neodimium  
@@ -2659,7 +2654,7 @@ Netherlands Antilles - Nederlandi Antil
 neuron - neurocel  
 neuropathy - neuropatia  
 neurotoxin - neurotoxe  
-never - ansate  
+never - no sate  
 Nevis - Nevis  
 new (recent) - nove  
 New Caledonia - Nove Kaledonia  
@@ -2674,7 +2669,7 @@ newton (N) - nuton
 next (following, back) - pose  
 nexus (web, network) - nete  
 Nicaragua - Nikaragua  
-nice (pleasant, comfortable, cushy) - huse  
+nice (pleasant, comfortable, cushy) - hux  
 niche (recess, alcove) - nis  
 nickel - nikel  
 Niger - Niger  
@@ -2688,7 +2683,7 @@ niobium - niobium
 nitrogen - nitre  
 Niue - Niue  
 nobelium - nobelium  
-nobody (no-one) - anjen  
+nobody (no-one) - no jen  
 noise - kelele  
 nominative case - namative  
 noodle - mien  
@@ -2708,7 +2703,7 @@ nostalgic - nostalgike
 not (no) - no  
 note (observation, remark, comment; notice, observe) - note  
 notebook - notobuke  
-nothing - ansei  
+nothing - no xe  
 notice (notification) - notize  
 notify - notife  
 noun - namloge  
@@ -3130,7 +3125,7 @@ praise (eulogy) - euloge
 praseodymium - prasedium  
 pray (beg, entreat, implore; prayer) - dua  
 precede (pass before) - precese  
-precise (exact, accurate) - juste  
+precise (exact, accurate; just, exactly) - juste  
 precursor (predecessor, forerunner) - prekurser  
 predict (foretell) - predite  
 prediction - predition  
@@ -3394,6 +3389,7 @@ road sign - dauban
 roast - roste  
 rob (loot, plunder, pillage, ransack) - lute  
 robber (plunderer) - luter  
+robe (jubbah) - jube  
 robot (bot) - robote  
 rock (sway, tilt) - roke  
 rock - petre  
@@ -3660,7 +3656,7 @@ skewer - sis
 skill (art, craft) - xute  
 skillful (crafty) - xutike  
 skin (peel, bark, leather) - pil  
-skirt - jupe  
+skirt - skerte  
 skull - saroste  
 sky (heaven) - ten  
 slab (slate, tablet, board) - table  
@@ -3769,7 +3765,7 @@ stage (phase) - faze
 stage (platform, pedestal, podium) - tai  
 stain (spot) - nagisbinde  
 stained glass - rangi kance  
-stairs (ladder) - skale  
+stairs (ladder; scale) - skale  
 stand (rack) - libobaze  
 stand - libu  
 stand still - state  
@@ -3818,7 +3814,6 @@ student - studer
 studio (study room, atelier) - studia  
 study (work in order to practise or demonstrate) - stude  
 study (work made in order to practise or demonstrate) - studaje  
-stupid (idiotic) - idiote  
 subject - subjete  
 submit (present) - karmise  
 substance (physical material from which something is made) - kime  
@@ -4109,7 +4104,7 @@ tropics - garmozon
 true (real, genuine) - vere  
 truly (indeed, very) - a vere  
 trunk (torso) - torse  
-trust (rely) - yausine  
+trust (rely) - krede  
 trust (surely, verily, amen) - amen  
 trustee - bekrede  
 try (attempt) - teste  
@@ -4178,7 +4173,7 @@ United States of America (USA) - Unite State de Amerika (USA)
 universal - unoverse  
 university - daixulkan  
 unlock - desore  
-unnecessary (extraneous, unneeded) - anyave  
+unnecessary (extraneous, unneeded) - anbeyau  
 unpack - depake  
 unplug (uncork) - detape  
 unreal - anrel  
@@ -4356,7 +4351,6 @@ wild (feral, savage) - jangle
 wild (savage) - ekogene  
 wilderness - janglia  
 will (volition, desire) - ice  
-will (want) - ice  
 win (triumph, succeed, accomplish) - senge  
 window - janel  
 window frame - janelfrem  
@@ -4404,7 +4398,6 @@ xenon - xenon
 
 Yahweh (Jehovah) - yahve  
 yak - yake  
-yay! (yeah!) - yei  
 year - nen  
 yeast - hamir  
 yellow - limonrange  

@@ -305,7 +305,6 @@ chaber wełnisty - solocentaur
 Champagne - xampan  
 chaos, nieporządek; wrzawa, zgiełk - haos  
 chcieć ( pragnąć; wola, chęć, pragnienie) - vol  
-chcieć (pragnąć) - ice  
 chciwy (żądny) - tame  
 chemia - kimolojia  
 chemiczny - kimi  
@@ -466,7 +465,6 @@ doktor, lekarz, uzdrowiciel - mediker
 doktorat - dotoria  
 dokument - dokum  
 dokument - papir  
-dokładnie (precyzyjnie, tylko) - justo  
 dolar - dolar  
 dolina - vade  
 Dominika (Wspólnota Dominiki) - Dominika  
@@ -788,7 +786,6 @@ głos (głosować) - vote
 głoska - fone  
 głowa - sar  
 głośnia - sonomun  
-głupi (idiotyczny) - idiote  
 głupiec, bufon - bufon  
 głód - yamyau  
 główny - xefe di  
@@ -865,7 +862,7 @@ humanizm - humanisme
 hummus - humusosaus  
 humor (nastrój) - emoshal  
 humor - humor  
-humorystyczny, śmieszny, zabawny, komiczny - humore  
+humorystyczny, śmieszny, zabawny, komiczny - humorike  
 hybryda; kundel - hibride  
 hę?, co?, pardon? - he  
 
@@ -874,7 +871,7 @@ hę?, co?, pardon? - he
 i, oraz - e  
 idea, pomysł - ide  
 ideogram - ideograf  
-idiota - idiote  
+idiota (głupi) - idiote  
 idiotyzm (głupota) - idiotia  
 ifrit - ifrite  
 igła, szpilka - pin  
@@ -972,7 +969,6 @@ jedwab - silke
 jedynie (tylko) - uniko  
 jedyny (wyłączny) - unike  
 jedzenie, posiłek - yam  
-jej - yei  
 Jemen - Yemen  
 Jerozolima - Urusalem  
 Jersey - Jerzi  
@@ -1321,7 +1317,7 @@ Liban - Libanen
 liberalista, wolnościowiec - huriste  
 liberalizm - hurisme  
 liberalizm rynkowy - bazarhurisme  
-liberalny, wolnościowy - huriste  
+liberalny, wolnościowy - huristike  
 Liberia - Liberia  
 Libia - Libia  
 liczi - lice  
@@ -1338,7 +1334,7 @@ limit, granica - lime
 limonkowy (limonkowo zielony) - limonluge  
 linia (nić, lina, pas, pręga, smuga, dratwa) - lin  
 lipiec - lun nelu  
-lis - hulei  
+lis - huli  
 lista słów - lexoliste  
 lista, spis, wykaz - liste  
 listopad - lun bati  
@@ -1354,8 +1350,8 @@ lody - aiskrem
 logiczny - ratolojike  
 logika, dedukcja - ratolojia  
 logofil (miłośnik słów) - logofiliste  
-lojalność (wierność) - yausinablia  
-lojalny (wierny) - yausinable  
+lojalność (wierność) - bekredablia  
+lojalny (wierny) - bekredable  
 Londyn - London  
 lorens - laurensium  
 lot (latać, lecieć) - fei  
@@ -1538,7 +1534,7 @@ mięta wodna - suiminte
 mięta zielona (mięta kłosowa) - zongominte  
 miłośnik (fan, -fil) - filike  
 miłość romantyczna - romante  
-miły, przyjemny, uroczy - huse  
+miły, przyjemny, uroczy - hux  
 Mjanma, Birma - Myanma  
 mlecz - makanful  
 mleko - milke  
@@ -1691,7 +1687,7 @@ nerw - neure
 neuron - neurocel  
 neuropatia - neuropatia  
 Nevis - Nevis  
-nic, żadna rzecz - ansei  
+nic, żadna rzecz - no xe  
 nie - no  
 nie ruszać się - state  
 nie zgadzać się - aloraye  
@@ -1710,7 +1706,7 @@ niemiecki - doice
 niemowlę - bebe  
 nienawidzić - hen  
 niepokój - depace  
-niepotrzebny - anyave  
+niepotrzebny - anbeyau  
 nieskończoność - anlimitia  
 niespodziewany - anprevide  
 nietoperz - feimus  
@@ -1719,14 +1715,14 @@ niewierny (poganin, niewierzący) - kafir
 niewierny - andiniste  
 niewierny - ankrediste  
 niezgoda - alorayia  
-nigdy - ansate  
+nigdy - no sate  
 Niger - Niger  
 Nigeria - Nigiria  
 nihonium - niponium  
 Nikaragua - Nikaragua  
 nikiel - nikel  
 niknąć (blaknąć, gasnąć, słabnąć) - mirdu  
-nikt, żadna osoba - anjen  
+nikt, żadna osoba - no jen  
 nikły - mirde  
 niob - niobium  
 niski - tale  
@@ -2073,7 +2069,7 @@ pogoda - tenhal
 pogrubiona litera - grosi harfe  
 poinformować, informować, zakomunikować, komunikować - konsavane  
 pojawić się - azay  
-pojęciowy - ide  
+pojęciowy - ideike  
 pokazać (pokazywać, wystawić, wystawiać; pokaz, ekspozycja, wystawa) - xou  
 poker - poke  
 pokolenie (generacja) - genogrupe  
@@ -2141,9 +2137,8 @@ poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauze
 posłaniec (wysłannik) - angiler  
 pot - suede  
 potas - kalium  
-potrzeba - yau  
-potrzebny - yavan  
-potrzebować - yavu  
+potrzeba (potrzebować) - yau  
+potrzebny - beyau  
 potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraye  
 potwór, monstrum - monster  
 powiadomić, powiadamiać - notife  
@@ -2201,7 +2196,7 @@ prawo, przywilej - hake
 prawy (prawostronny, z prawej strony) - raite  
 prazeodym - prasedium  
 prać, umyć, myć - vaxe  
-precyzyjny, dokładny - juste  
+precyzyjny (dokładny) - juste  
 preferować (woleć) - profile  
 prekursor - prekurser  
 premier - xefe minister  
@@ -2366,7 +2361,7 @@ radon - radon
 rakieta - rokete  
 rama - frem  
 Ramadan - ramazan  
-ramię (kończyna górna) - handoxake  
+ramię (kończyna górna) - handange  
 rampa - rampe  
 ranek, rano, poranek - sube  
 raport - reporte  
@@ -2659,7 +2654,7 @@ sprzedać (sprzedawać) - vende
 sprzątacz, sprzątacz - safer  
 spróbować, próbować - teste  
 spód - sube  
-spódnica - jupe  
+spódnica - skerte  
 spółgłoska - kenarfon  
 spławik (boja) - boi  
 spłonąć, płonąć - hogu  
@@ -2981,7 +2976,7 @@ uczestnik - parter
 uczeń, student - xuler  
 udomowiony (domowy) - dosilgene  
 udomowić (kultywować) - dosilgenite  
-ufać (wierzyć, liczyć, polegać) - yausine  
+ufać (wierzyć, liczyć, polegać) - krede  
 Uganda - Ganda  
 ugotować się, gotować się - bule  
 Ukraina - Ukraina  
@@ -3019,7 +3014,7 @@ usłyszeć, słyszeć; słuchać - aude
 uwaga (obserwacja; notować, obserwować, zauważyć, zauważać) - note  
 uważać (sądzić) - raye  
 uwięzić, więzić, pozbawić wolności - jele  
-uwolnić, uwalniać - hure  
+uwolnić, uwalniać - hurife  
 Uzbekistan - Uzbekia  
 ułożyć w trabelę - tablate  
 uświadomienie, świadomość; oświecenie, bodhi - bude  
@@ -3028,6 +3023,7 @@ użyć, używać, zatrudnić, stosować - uze
 Vanuatu - Vanuatu  
 viski - viski  
 voodoo - vodun  
+w - in  
 w innym wypadku (inaczej) - alo  
 waga (ciężkość) - vezia  
 waga (urządzenie ważące) - vezometrer  
@@ -3071,9 +3067,8 @@ wermut - vermute
 wersja (wariacja, edycja, wydanie) - version  
 wesoły, ucieszony - suke  
 wesprzeć (wzmocnić, zasilić) - maxobale  
-wewnętrzny - ine  
-wewnętrzny - intre  
 wewnętrzny - ingene  
+wewnętrzny - inike  
 wewnętrzny - innate  
 wełna (runo owcze) - mehi kex  
 wiadomość - angil  
@@ -3141,7 +3136,7 @@ witaj, dobre przybycie - salam lai
 witamina - vitamin  
 witraż - rangi kance  
 witryna internetowa (portal internetowy) - netoloke  
-wiwatować; hura - ure  
+wiwatować (hura, jej) - hura  
 wiwisekcja - zivotome  
 wiza - vize  
 wizyta - kege  
@@ -3152,7 +3147,7 @@ więzienie, zakład karny - jelokan
 wiśnia (czereśnia) - cerize  
 wkrótce - suno  
 wnieć wkład (przyczynić się) - fendone  
-wnętrze (środek) - in  
+wnętrze (środek) - inaje  
 woda - sui  
 woda mineralna - kuangosui  
 wodny - suye  
@@ -3161,7 +3156,7 @@ wodorosty - haialge
 wodospad - suipade  
 wodór - hidre  
 wojownik, bojownik - jenger  
-wola, chęć - ice  
+wola (chęć; chcieć, pragnąć) - ice  
 wolfram - volfram  
 wolność, niepodległość, niezależność - huria  
 wolny, niepodległy, niezależny - hure  
@@ -3183,7 +3178,7 @@ wskaźnik - ponter
 wspaniały - bonsife  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - supere  
 wsparcie (wzmocnienie, zasilenie) - maxobalaje  
-wspinać się (wspiąć się) - skale  
+wspinać się (wspiąć się) - askale  
 wspólny (wzajemny) - kone  
 wspólny - komune  
 wspólny język - konlingue  

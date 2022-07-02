@@ -196,7 +196,7 @@ boxeador (pugilista) - bokser
 branco - bake  
 bravo (valente, corajoso) - brave  
 bravo! - bravo  
-braço - handoxake  
+braço - handange  
 brejo (paul) - xipostan  
 bromo - bromium  
 Buda - Buda  
@@ -337,7 +337,7 @@ conectar - konnete
 conector - konnetor  
 conexão (vínculo, laço) - linke  
 conexão - konnetion  
-confiar (contar com) - yausine  
+confiar (contar com) - krede  
 Confúcio - Kongfuze  
 conjunção - juntolexe  
 cono - konus  
@@ -504,7 +504,7 @@ ensino primário - bazoxulkan
 ensino secundário - zungoxulkan  
 ensopar (encharcar, marinar) - pursipe  
 enteado - gamben  
-entrar - intru  
+entrar - intre  
 enxada - cope  
 enxofre - sulfe  
 equilíbrio - parvezia  
@@ -512,7 +512,7 @@ erro (falta; errôneo) - galte
 erupcionar - exrute  
 erva marinha - haicau  
 erva-mate - mate  
-escalar - skale  
+escalar - askale  
 escola (colégio) - xulkan  
 escovinha (centáurea) - nilcentaur  
 escrever (escrita) - kitabe  
@@ -880,6 +880,7 @@ mandarim - cini manter
 manga - kamisi xake  
 manganésio - mangan  
 maniqueísmo - manihaiisme  
+manto - jube  
 mantra - mantre  
 mar - hai  
 maravilha - ajibe  
@@ -988,10 +989,9 @@ natureza - nature
 nautiloide - nautile  
 nave espacial - kosmonau  
 nação - nasia  
-necessidade - yau  
-necessitado - yave  
-necessitar - yavu  
-necessário - yavan  
+necessitado - yavike  
+necessitar (necessidade) - yau  
+necessário - beyau  
 necrofilia - nekrofilisme  
 neodímio - neodimium  
 neologismo - novologe  
@@ -1264,7 +1264,7 @@ química - kimolojia
 rachadura - krake  
 racional - rationi  
 raiz - radike  
-raposa - hulei  
+raposa - huli  
 rapsódia - rapsodia  
 raro (raramente) - nadir  
 raro - rare  
@@ -1344,6 +1344,7 @@ sacada (varanda) - beranda
 saco - sake  
 sagrada escritura - sante kanon  
 sagu - sagu  
+saia - skerte  
 sal - salte  
 sala (câmara) - kamar  
 salada - salade  
@@ -1530,7 +1531,7 @@ uma vez - unomaro
 unicamente - uniko  
 universal - unoverse  
 Urano - Uran  
-urra - ure  
+urra - hura  
 urso - urse  
 urânio - uranium  
 usar - uze  

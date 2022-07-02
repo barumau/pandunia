@@ -474,7 +474,7 @@ hake - 権利
 hal - 状態  
 halaloliste - ホワイトリスト  
 hande - 手  
-handoxake - 腕  
+handange - 腕  
 hape - 適応する  
 hape - 適切  
 haramliste - ブラックリスト  
@@ -512,7 +512,7 @@ hotel - ホテル (旅館)
 huidarte - ポドゾル  
 huke - 掛 (針, 鉤)  
 hukokrus - 卍 (卐)  
-hulei - 狐  
+huli - 狐  
 • human - 人間  
 • humanisme - ヒューマニズム (人文主義)  
 human hake - 人権  
@@ -524,7 +524,6 @@ hurargente - 水銀
 ike - 的  
 in - 内  
 intraje - 腸 (臓器)  
-introverse - 内向的な人  
 intelige - 知性  
 IP adres - IPアドレス  
 iridium - イリジウム  
@@ -671,7 +670,9 @@ kornomelon - ツノニガウリ
 kortokrokodil - アリゲーター  
 kosmonau - 宇宙船  
 krake - 隙間 (ひび)  
+krede - 信頼する  
 • krediste - 信徒 (信者)  
+bekredable - 忠実  
 • ankrediste - 不信者  
 krede karte - クレジットカード  
 krem - クリーム  
@@ -1215,10 +1216,11 @@ sirkite - 丸石 (玉石, 栗石)
 siro - 零 (０)  
 sisme - 振る  
 six - 六 (6)  
-skale - 上る (乗る, よじ登る)  
+• askale - 上る (乗る, よじ登る)  
 • deskale - 下る (降りる)  
 skalotan - 蔓草  
 skandium - スカンジウム  
+skerte - スカート  
 • skuter - スクーター  
 • socia - 社会  
 soce ginse - ジェンダー  
@@ -1442,10 +1444,8 @@ yamyau - 飢え
 yang - タイプ  
 yasen - 秦皮  
 yau - 必要  
-yavan - 必要  
-yausine - 信頼する  
-yausinable - 忠実  
-anyave - 不要  
+• beyau - 必要  
+• anbeyau - 不要  
 yege - 狩り (狩猟)  
 jen - 人  
 • dusojen - 敵  

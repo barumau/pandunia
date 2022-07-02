@@ -347,9 +347,9 @@ egyptiläinen - misre
 ehdottaa (ehdotus) - propoze  
 ehkä (mahdollisesti) - ablo  
 ei - no  
-ei koskaan (ei kertaakaan) - ansate  
-ei kukaan - anjen  
-ei mitään - ansei  
+ei koskaan (ei kertaakaan) - no sate  
+ei kukaan - no jen  
+ei mitään - no xe  
 eilen - cendeno  
 einsteinium - ainstainium  
 ekologia (ympäristötiede) - ekolojia  
@@ -563,7 +563,7 @@ hallitseva - dominente
 haltia (tonttu) - elfe  
 halu (toive; haluta) - vol  
 halveksia (hyljeksiä) - paraye  
-hame - jupe  
+hame - skerte  
 hammas - dante  
 hammasharja - dantobros  
 hammaslääkäri - dantomediker  
@@ -708,7 +708,7 @@ huominen - posdeno
 huomio (kommentti, merkintä; huomata, hoksata)) - note  
 huone - kamar  
 hurma (lumo, tenho) - fasin  
-hurraa (hurrata) - ure  
+hurraa (hurrata) - hura  
 huuli - labe  
 huumattu (päihtynyt) - narke  
 huume - narke  
@@ -893,7 +893,6 @@ jatko (jatkaa; jatkua) - dura
 jatkua uudestaan - redure  
 jauhaa - mole  
 jazz (jatsi) - jaze  
-jee! (hurraa!) - yei  
 Jeesus - yesus  
 Jemen - Yemen  
 Jersey - Jerzi  
@@ -946,7 +945,6 @@ juoni (salaliitto) - sirplan
 juosta - kore  
 Jupiter - jupiter  
 jutella (höpistä) - blabla  
-juuri (just, täsmälleen) - justo  
 juuri - mul  
 juuri - radike  
 juurtua - inradike  
@@ -982,6 +980,7 @@ kaaos - haos
 kaapeli (johto) - kable  
 kaappaus (merirosvous) - piratia  
 kaappi - almari  
+kaapu - jube  
 kaari - arke  
 kaasu - gas  
 kade (kateellinen) - zelose  
@@ -1172,7 +1171,7 @@ ketjun lenkki - ser:
 ketjun lenkki - serlinke  
 ketsuppi - kecape  
 ketterä - agile  
-kettu - hulei  
+kettu - huli  
 keuhko - pulmon  
 kevät - fulmosim  
 Khartoum - Hartum  
@@ -1294,8 +1293,8 @@ kooka - koke
 kookos - yeze  
 Kookossaaret - Kokos nesia  
 koolapähkinä - kola pal  
-koominen (hauska) - humore  
 koominen (hauska) - komi  
+koominen (hauska) - humorike  
 koota (kerätä) - jame  
 koota (rakentaa; rakennus) - bine  
 kopio (jäljennös) - kope  
@@ -1468,8 +1467,8 @@ käsi - hande
 käsi- - hande  
 käsite (idea) - ide  
 käsitellä dataa - konpute  
-käsitteellinen - ide  
-käsivarsi - handoxake  
+käsitteellinen - ideike  
+käsivarsi - handange  
 käsky (komento) - amir  
 käskyvalta - amirhake  
 kätevä - zange  
@@ -1572,7 +1571,7 @@ leveä - kuane
 levottomuus (konflikti) - depace  
 levä - alga  
 Libanon - Libanen  
-liberaali (vapaamielinen) - huriste  
+liberaali (vapaamielinen) - huristike  
 liberalismi - hurisme  
 liberalisti - huriste  
 Liberia - Liberia  
@@ -1829,7 +1828,7 @@ menneisyys - cenzam
 mennyt (poissa) - kite  
 mennä - kite  
 mennä ohi tai läpi - pase  
-mennä sisään - intru  
+mennä sisään - intre  
 mennä vasten - kontre  
 mennä ympäri - cirkovene  
 menopaluulippu - retrotikete  
@@ -1929,7 +1928,7 @@ muistikirja - notobuke
 muistio (muistiinmerkintä) - memnote  
 muistosanat (muistopuhe, muistokirjoitus) - nekrologe  
 mukaan lukien - inkluze da  
-mukava (kiva, miellyttävä) - huse  
+mukava (kiva, miellyttävä) - hux  
 mukulakivi - sirkite  
 multa (humus) - hume  
 muna - ove  
@@ -2067,7 +2066,7 @@ Norsunluurannikko - Kote Da Ivar
 nostaa - gave  
 nostaa pystyyn - libe  
 nostaa tasoa - bondarge  
-nousta (kiivetä) - skale  
+nousta (kiivetä) - askale  
 nousta - gavu  
 noutopöytä (buffetti) - bufete  
 noviisi (uusikko, vasta-alkaja) - novike  
@@ -2273,7 +2272,6 @@ pankkiiri - banker
 panna (asettaa) - poze  
 panna jkn maate - kuse  
 panna kokoon - konbine  
-panna sisään - intre  
 panna sisään - inpoze  
 pannu (paistinpannu) - tave  
 pantheon - pandevia  
@@ -2448,7 +2446,7 @@ porkkana - karote
 porno - porne  
 pornografia - pornografia  
 porras (aste, taso) - darge  
-portaat (rappuset, tikkaat) - skale  
+portaikko (rappuset, tikkaat; skaala) - skale  
 portti (veräjä) - daimun  
 Portugali - Portugal  
 portugalia puhuva - portugalfone  
@@ -2522,7 +2520,7 @@ puu - moke
 puuaines - mokomate  
 puuseppä - mokozanger  
 puuteri - mukofun  
-puutteenalainen - yave  
+puutteenalainen - yavike  
 puuvilla - goton  
 pyhä - sante  
 pyhä kirja (pyhät kirjoitukset) - sante kanon  
@@ -2577,6 +2575,7 @@ Qatar - Katar
 
 ## R  
 
+raaja - ange  
 Raamattu - biblia  
 raamatullinen - bible  
 raastaa (repiä riekaleiksi) - circire  
@@ -2901,20 +2900,17 @@ sisaruspuoli - cingamben
 sissi (partisaani) - geriler  
 sissisota - gerile  
 sisu - koraje  
-sisus (sisäpuoli) - in  
-sisä- (sisäinen) - ine  
-sisä- (sisäinen) - intre  
-sisäinen - intre  
+sisus (sisäpuoli) - inaje  
+sisä- (sisäinen) - inike  
 sisällysluettelo - inliste  
 sisällyttää (sulkea sisäänsä) - inkluze  
-sisällä (sisäpuolella) - intro  
+sisällä (-ssa, -ssä) - in  
+sisällä (sisäpuolella) - a intre  
 sisälmykset - intraje  
 sisältö - intene  
-sisäpuoli - intre  
 sisäsyntyinen (endogeeninen) - ingene  
 sisäsyntyinen - innate  
 sisäänkäynti - intromun  
-sisäänpäinsuuntautunut (introvertti) - introverse  
 sisäänpäinsuuntautunut (introvertti) - introverse  
 sitruuna - limon  
 siviili (kansalais-) - civile  
@@ -3093,8 +3089,7 @@ taas (uudestaan) - rio
 taateli - tamar  
 Tadžikistan - Tazikia  
 tahna (tahdas) - paste  
-tahto - ice  
-tahtoa - ice  
+tahtoa (tahto) - ice  
 tai (vai) - o  
 taianomainen (maaginen) - mage  
 taide - arte  
@@ -3153,14 +3148,13 @@ tappaja - morter
 tarha (puisto) - parke  
 tarkastaa uudelleen - rivide  
 tarkistaa (tsekata) - ceke  
-tarkka (täsmällinen) - juste  
+tarkka (täsmällinen; juuri, just,täsmälleen) - juste  
 tarpeeksi (riittävästi) - bas  
-tarpeellinen - yavan  
-tarpeeton - anyave  
+tarpeellinen - beyau  
+tarpeeton - anbeyau  
 tarra - glutograf  
 tartuttaa tauti - infete  
-tarve (puute) - yau  
-tarvita - yavu  
+tarvita (tarve, puute) - yau  
 tasainen (tasavertainen) - pare  
 tasapaino - parvezia  
 tasavalta - komunkratia  
@@ -3375,13 +3369,12 @@ tyhjä - kale
 tyhjä taulu (tabula rasa) - razi table  
 tyhjö - kal  
 tyhmyys (typeryys) - idiotia  
-tyhmä (hölmö) - idiote  
 tykki - daipau  
 tykkimies - daipaver  
 tykätä (pitää; tykkääminen) - file  
 tylsyys (pitkästys) - boria  
 tynnyri (tölkki) - tong  
-typerys (idiootti) - idiote  
+typerys (idiootti, tyhmä, hölmö) - idiote  
 typologia - tipolojia  
 typpi - nitre  
 tyranni - zalime reger  
@@ -3524,7 +3517,7 @@ Vanuatu - Vanuatu
 vanukas - puding  
 vapaa - hure  
 vapaus - huria  
-vapauttaa - hure  
+vapauttaa - hurife  
 varakuningas - visoreger  
 varapresidentti - visopresidante  
 varapresidentti - visopresidente  

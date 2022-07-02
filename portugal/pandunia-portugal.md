@@ -527,7 +527,7 @@ halou - alô
 ham - importante  
 hamile - grávida (prenhe)  
 hande - mão  
-handoxake - braço  
+handange - braço  
 hape - apropriado (apto)  
 Hartum - Cartum  
 hasis - haxixe  
@@ -567,7 +567,7 @@ hotel - hotel
 huidarte - espodossolo  
 huke - gancho  
 hukokrus - suástica (cruz gamada)  
-hulei - raposa  
+huli - raposa  
 hume - humo (húmus)  
 • human - ser humano  
 • humane - humano  
@@ -575,10 +575,11 @@ hume - humo (húmus)
 human hake - direitos humanos  
 hure - livre (forro)  
 hurargente - mercúrio  
+hura - urra  
 
 ## I  
 
-intru - entrar  
+• intre - entrar  
 intraje - intestino (entranhas, tripa)  
 intelige - inteligência (intelecto)  
 • inteligable - inteligível  
@@ -611,6 +612,7 @@ jetografe - projeção
 jinje - jengibre  
 jongle - fazer malabarismo  
 • jongler - malabarista  
+jube - manto  
 • judokan - tribunal  
 • juder - juiz  
 • exjude - extrajudicial  
@@ -738,6 +740,7 @@ kosmobiolojia - astrobiologia
 kosmonau - nave espacial  
 kosmonaver - cosmonauta  
 krake - rachadura  
+krede - confiar (contar com)  
 • krediste - crente  
 • ankrediste - infiel  
 krede karte - cartão de crédito  
@@ -1338,8 +1341,9 @@ sire - ocultar (esconder)
 sirplan - complô (conspiração)  
 site - cidade  
 six - seis (6)  
-skale - escalar  
+• askale - escalar  
 skandium - escândio  
+skerte - saia  
 • skulter - escultor  
 • skuter - patinete (trotineta)  
 slave - eslavo  
@@ -1466,13 +1470,11 @@ tuze - coelho (lebre)
 
 ## U  
 
-• unoverse - universal  
 un - um (1)  
 • unike - único (só)  
 • uniko - unicamente  
 unomaro - uma vez  
 unoki lense - monóculo  
-ure - urra  
 Uran - Urano  
 uranium - urânio  
 urse - urso  
@@ -1512,6 +1514,7 @@ vere - verdadeiro
 verme - verme  
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  
+• unoverse - universal  
 veruke - verruga  
 vespe - abelha ou vespa  
 veze - pesado  
@@ -1586,11 +1589,9 @@ yamyau - fome
 • exyam - piquenique  
 yasen - freixo  
 yatimokan - orfanato  
-yau - necessidade  
-yave - necessitado  
-yavu - necessitar  
-yavan - necessário  
-yausine - confiar (contar com)  
+yau - necessitar (necessidade)  
+• yavike - necessitado  
+• beyau - necessário  
 yege - caçar  
 jen - pessoa  
 • dusojen - inimigo  

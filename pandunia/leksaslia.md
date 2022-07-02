@@ -68,6 +68,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**ampul**|fra:eng:ampoule, zho:安瓿 (ānbù), jpn:アンプル (anpuru), rus:ампула (ámpula), ara:(ʾambūla)|
 |**an-**|ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-|
 |**ancovi**|eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)|
+|**ange**|hin:अंग (aṅg), ben:অঙ্গ (ôṅg), pnb:ਅੰਗ (aṅga), tel:అంగము (aṅgamu), khm: អង្គ (ʔɑŋ), tha: องค์ (ong)|
 |**angar**|eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga|
 |**angil**|ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl) + eng:angel, fra:ange, spa:ángel, por:anjo, rus:ангел (angel), zho:安琪儿 (ānqí'ér)|
 |**angul**|hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)|
@@ -535,7 +536,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**hamar**|eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀|
 |**hamile**|ara:(ḥāmil), may:hamil, swa:himila, tur:hamile, urd:(hāmila), fas:(hâmele)|
 |**hamir**|ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, swa:hamira, fas:(moxammer), + kor:효모 (hyomo)|
-|**hande**|hin:हाथ (hāth), ben:হাত (hat), eng:hand|
+|**hande**|hin:हाथ (hāth), ben:হাত (hat) + eng:hand|
 |**haos**|eng:fra:chaos, spa:por:caos, rus:хаос (haos), jpn:カオス (kaosu)|
 |**hape**|zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto|
 |**harabe**|ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu|
@@ -578,12 +579,13 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**hotel**|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
 |**hui**|zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|
 |**huke**|eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|
-|**hulei**|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|
+|**huli**|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|
 |**humor**|rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
 |**humus**|ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)|
 |**hure**|ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro|
 |**hurargente**|swa:hidrajiri|
-|**huse**|fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy|
+|**hura**|eng:hurrah, deu:spa:hurra, fra:hourra, rus:ура (ura), may:hore, fas:(hurâ)|
+|**hux**|fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy|
 |**–i**|ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-い (-i), hun:-i|
 |**–ia**|spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|
 |**ice**|vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|
@@ -591,7 +593,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**idiote**|eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)|
 |**ifrite**|ara:عِفْرِيت‎ (ʿifrīt), eng:spa:por:fra:tur:may:ifrit, deu:Ifrit, rus:ифрит (ifrit), jpn:イフリート (ifuriito)|
 |**ike**|eng:-ic, fra:-ique, spa:por:-ico, hin:-इक (-ika)|
-|**imperia**|eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar|
+|**• imperia**|eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar|
 |**in**|eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|
 |**intraje**|hin:आंत्र (åntra), ben:অন্ত্র (antra), pan:ਆਂਦਰਾਂ (āndarā̃) + fra:entrailles, eng:entrails, spa:entrañas, por:entranhas|
 |**inxala**|ara:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), fas:ان‌شاءالله (enšâ'allâh), tur:inşallah, may:insya allah, spa:ojalá, por:oxalá, eng:inshallah, rus:иншаллах (inšallax), ben:ইনশাআল্লাহ্ (inśaallah), zho:印沙安拉 (yìnshā'ānlā)|
@@ -622,9 +624,9 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**jinje**|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|
 |**joke**|eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**jongle**|fra:jongler, eng:juggle, rus:жонглировать (žonglirovat’), jpn:ジャグリング (jaguringu)|
+|**jube**|ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba|
 |**• juder**|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:суд (sud)|
 |**junte**|eng:joint, fra:jonction, spa:por:junta, deu:junktion|
-|**jupe**|fra:jupe, ara:(jūb), rus:юбка (yubka)|
 |**jus**|eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)|
 |**juste**|eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)|
 |**kababe**|ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu|
@@ -1343,6 +1345,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**six**|eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’) + ara:ستة‎ (sitta)|
 |**skale**|spa:por:escalar + fra:escalier + eng:scale, deu:Skale, rus:шкала (škala) |
 |**skandium**|eng:scandium, fra:scandium, spa:escandio, por:escândio, rus:скандий, zho:钪 (kàng), jpn:スカンジウム, kor:스칸듐, vie:scandi, hin:स्काण्डियम, ben:স্ক্যান্ডিয়াম, may:skandium, swa:skandi, ara: سكانديوم|
+|**skerte**|eng:skirt, hin:स्कर्ट (skarṭ), ben:স্কার্ট (śkarṭ), jpn:スカート (sukāto), kor:스커트 (seukeoteu), swa:sketi, hau:siket|
 |**• skulter**|spa:por:escultor, fra:sculpteur, eng:sculptor, rus:скульптор (skulptor)|
 |**• skuter**|eng:fra:spa:scooter, rus:скутер (skuter), zho:速克达 (sùkèdá), jpn:スクーター (sukūtā), kor:스쿠터 (seukuteo), vie:xe xcutơ, hin:स्कूटर (skūṭar), ben:স্কুটার (śkuṭar), may:skuter|
 |**• socia**|rus:социум (socium), eng:society, spa:sociedad|
@@ -1487,7 +1490,6 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**un**|fra:un, spa:uno, por:um, una, eng:one|
 |**unale**|eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)|
 |**volfe**|deu:ned:eng:wolf, rus:волк (volk)|
-|**ure**|rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)|
 |**uranium**|eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم|
 |**urse**|fra:ours, por:urso, spa:oso, fas:(xers)|
 |**uze**|eng:use, fra:user, spa:por:usar, pol:używać|
@@ -1594,8 +1596,8 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**yasen**|rus:ясень (yasen’), pol:jesion|
 |**yatim**|ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)|
 |**yau**|zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu|
+|**ye**|hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y|
 |**yege**|deu:jagen + eng:jaeger, rus:егерь (jeger’)|
-|**yei**|eng:yay, pol:jej, jpn:イエイ (iei)|
 |**jen**|zho:人 (rén), wuu人 (zén), jpn:人 (jin) + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon) + fra:gens, por:gente|
 |**jensen**|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|
 |**yeze**|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|

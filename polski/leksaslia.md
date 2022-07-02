@@ -36,6 +36,7 @@
 **an-** *negatywny (przeciwny, nie)* ← ell:ἀν- (an-), eng:un-, hin:अन- (an-), fra:spa:por:in-  
 **ancovi** *sardela* ← eng:anchovy, fra:anchois, spa:anchoa, por:anchova, rus:анчоус (ančous), jpn:アンチョビ (anchobi), hin:ऐन्चोवी (enchovi)  
 **angar** *kotwica* ← eng:anchor, fra:ancre, por:âncora, may:jangkar, rus:якорь, ara:(ʾanjar), hin:लंगर (laṅgar), urd:(laṅgar), tel:లంగరు (laṅgaru), swa:nanga  
+**ange** ** ← hin:अंग (aṅg), ben:অঙ্গ (ôṅg), pnb:ਅੰਗ (aṅga), tel:అంగము (aṅgamu), khm: អង្គ (ʔɑŋ), tha: องค์ (ong)  
 **angil** *wiadomość* ← ell:ἀγγελία (angelía), ara:(ʾinjīl), swa:injili, may:injil, tur:incil, hin:इंजील (iñjīl) + eng:angel, fra:ange, spa:ángel, por:anjo, rus:ангел (angel), zho:安琪儿 (ānqí'ér)  
 **angul** *palec* ← hin:अंगुलि (aṅgulī), ben:আঙুল (aṅgul)  
 **anime** *animować (animacja)* ← eng:fra:animation, spa:animación, por:animação, rus:анимация, jpn:アニメ (anime), tur:may:anime, ara:أنمي m (ʾanimī), hin:ऐनिमे (ainime), kor:아니메 (anime)  
@@ -490,7 +491,7 @@
 **hamar** *młot, młotek* ← eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀  
 **hamile** *ciężarny (w ciąży)* ← ara:(ḥāmil), may:hamil, swa:himila, tur:hamile, urd:(hāmila), fas:(hâmele)  
 **hamir** *drożdże* ← ara:(xamīra), hin:ख़मीर (xamīr), tur:hamur, swa:hamira, fas:(moxammer), + kor:효모 (hyomo)  
-**hande** *ręka, dłoń* ← hin:हाथ (hāth), ben:হাত (hat), eng:hand  
+**hande** *ręka, dłoń* ← hin:हाथ (hāth), ben:হাত (hat) + eng:hand  
 **haos** *chaos, nieporządek; wrzawa, zgiełk* ← eng:fra:chaos, spa:por:caos, rus:хаос (haos), jpn:カオス (kaosu)  
 **hape** ** ← zho:合 (hé), yue:合 (hap6), kor:합 (hap), vie:hợp + eng:apt, fra:apte, spa:por:apto  
 **harabe** *zły, zrujnowany, zepsuty* ← ara:fas:urd:(xarāb), tur:harap, hin:ख़राब (xarāb), ben:খারাপ (kharap), swa:-haribu  
@@ -532,19 +533,19 @@
 **hotel** *hotel* ← eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)  
 **hui** *popiół* ← zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)  
 **huke** *hak* ← eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak  
-**hulei** *lis* ← zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li  
+**huli** *lis* ← zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li  
 **humor** *humor* ← rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)  
 **humus** *ciecierzyca* ← ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)  
+**hura** *wiwatować (hura, jej)* ← eng:hurrah, deu:spa:hurra, fra:hourra, rus:ура (ura), may:hore, fas:(hurâ)  
 **hurargente** *rtęć* ← swa:hidrajiri  
 **hure** *wolny, niepodległy, niezależny* ← ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro  
-**huse** *miły, przyjemny, uroczy* ← fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy  
-**ice** *wola, chęć* ← vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)  
+**hux** *miły, przyjemny, uroczy* ← fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy  
+**ice** *wola (chęć; chcieć, pragnąć)* ← vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)  
 **ide** *idea, pomysł* ← fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định  
-**idiote** *idiota* ← eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)  
+**idiote** *idiota (głupi)* ← eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)  
 **ifrite** *ifrit* ← ara:عِفْرِيت‎ (ʿifrīt), eng:spa:por:fra:tur:may:ifrit, deu:Ifrit, rus:ифрит (ifrit), jpn:イフリート (ifuriito)  
 **ike** *-owy (-ny, okazujący cechę)* ← eng:-ic, fra:-ique, spa:por:-ico, hin:-इक (-ika)  
-**imperia** *imperium* ← eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar  
-**in** *wnętrze (środek)* ← eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)  
+**in** *w* ← eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)  
 **intraje** ** ← hin:आंत्र (åntra), ben:অন্ত্র (antra), pan:ਆਂਦਰਾਂ (āndarā̃) + fra:entrailles, eng:entrails, spa:entrañas, por:entranhas  
 **inxala** *nadzieja, życzenie* ← ara:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), fas:ان‌شاءالله (enšâ'allâh), tur:inşallah, may:insya allah, spa:ojalá, por:oxalá, eng:inshallah, rus:иншаллах (inšallax), ben:ইনশাআল্লাহ্ (inśaallah), zho:印沙安拉 (yìnshā'ānlā)  
 **iridium** *iryd* ← eng:iridium, fra:iridium, spa:iridio, por:irídio, rus:иридий, jpn:イリジウム, kor:이리듐, vie:iriđi, hin:इरिडियम, ben:ইরিডিয়াম, may:iridium, swa:iridi, ara: إريديوم  
@@ -575,10 +576,10 @@
 **jinje** *imbir* ← tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre  
 **joke** *żart* ← eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jongle** ** ← fra:jongler, eng:juggle, rus:жонглировать (žonglirovat’), jpn:ジャグリング (jaguringu)  
+**jube** ** ← ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba  
 **junte** ** ← eng:joint, fra:jonction, spa:por:junta, deu:junktion  
-**jupe** *spódnica* ← fra:jupe, ara:(jūb), rus:юбка (yubka)  
 **jus** *sok* ← eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)  
-**juste** *precyzyjny, dokładny* ← eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)  
+**juste** *precyzyjny (dokładny)* ← eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)  
 **kababe** *grillować* ← ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu  
 **kabau** *bawół domowy* ← spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)  
 **kabin** *kabina, budka* ← eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)  
@@ -1271,8 +1272,9 @@
 **sivile** *cywilizowany (ucywilizowany)* ← eng:civil, por:civil, hin:सिविल (sivil), may:sipil  
 **six** *sześć (6)* ← eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’) + ara:ستة‎ (sitta)  
 **siyahe** *czarny* ← fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah  
-**skale** *wspinać się (wspiąć się)* ← spa:por:escalar + fra:escalier + eng:scale, deu:Skale, rus:шкала (škala)   
+**skale** *schody (drabina)* ← spa:por:escalar + fra:escalier + eng:scale, deu:Skale, rus:шкала (škala)   
 **skandium** *skand* ← eng:scandium, fra:scandium, spa:escandio, por:escândio, rus:скандий, zho:钪 (kàng), jpn:スカンジウム, kor:스칸듐, vie:scandi, hin:स्काण्डियम, ben:স্ক্যান্ডিয়াম, may:skandium, swa:skandi, ara: سكانديوم  
+**skerte** *spódnica* ← eng:skirt, hin:स्कर्ट (skarṭ), ben:স্কার্ট (śkarṭ), jpn:スカート (sukāto), kor:스커트 (seukeoteu), swa:sketi, hau:siket  
 **sofa** *sofa (kanapa)* ← eng:fra:sofa, spa:por:sofá, rus:софа (sofa), zho:沙发 (shāfā), jpn:ソファ (sofa), kor:소파 (sopa), vie:xô pha, hin:सोफ़ा (sofā)  
 **soge** *szukać* ← zho:搜 (sōu), yue:索 (sok3), wuu:搜 (seu1), jpn:捜索 (sōsaku) + eng:seek, deu:suchen, pol:szukać, ukr:шукати (šukati) + rus:искать (iskat’)  
 **soi** ** ← eng:soy, fra:spa:por:soja, rus:соя (soya), ara: صُويَا‎ (ṣūyā), hin:सोया (soyā), may:tur:soya + jpn:醤油 (shōyu)  
@@ -1408,7 +1410,6 @@
 **un** *jeden (1)* ← fra:un, spa:uno, por:um, una, eng:one  
 **unale** *się (nawzajem, wzajemnie)* ← eng:one another, ita:l’una, l’altra, fra: l'un l'autre, spa:el uno al otro, por:um ao outro, tur:birbirine, zho:彼此 (bǐcǐ)  
 **uranium** *uran* ← eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم  
-**ure** *wiwatować; hura* ← rus:ура (ura), ita:urrà, deu:spa:hurra, fra:hourra, eng:hurrah, may:hore, fas:(hurâ)  
 **urse** *niedźwiedź* ← fra:ours, por:urso, spa:oso, fas:(xers)  
 **uze** *użyć, używać, zatrudnić, stosować* ← eng:use, fra:user, spa:por:usar, pol:używać  
 **va** *wow!, łoł!, jej!* ← eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah  
@@ -1511,9 +1512,9 @@
 **yang** *rodzaj, typ, styl* ← zho:样 (yàng), tha:อย่าง (yàang), khm:យ៉ាង (yaang)  
 **yasen** *jesion* ← rus:ясень (yasen’), pol:jesion  
 **yatim** *sierota* ← ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)  
-**yau** *potrzeba* ← zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu  
+**yau** *potrzeba (potrzebować)* ← zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu  
+**ye** *on, ona, ono* ← hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y  
 **yege** *polować (łowić)* ← deu:jagen + eng:jaeger, rus:егерь (jeger’)  
-**yei** *jej* ← eng:yay, pol:jej, jpn:イエイ (iei)  
 **yeze** *kokos* ← zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)  
 **yodium** *jod; jodyna* ← eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود  
 **yoge** *joga* ← hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)  
@@ -1571,6 +1572,7 @@
 **• fizikia** *fizyk* ← eng:physics, spa:por:física, rus:физика (fizika), tur:may:fizik, ara:فِيزِيقَا‎ (fīzīqā), swa:fizikia, hin:फ़िज़िक्स (fiziks)  
 **• fobia** *strach, fobia* ← eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi  
 **• historia** *historia, badanie historii* ← eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)  
+**• imperia** *imperium* ← eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar  
 **• infetion** *infekcja (zakażenie)* ← eng:fra:infection, deu:Infektion, spa:infección, por:infecção, rus:инфекция (infektsiya), tur:enfeksiyon, may:infeksi  
 **• jamia** *kolekcja, zbiór; zgromadzenie, zebranie* ← ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia  
 **• juder** *sędzia* ← eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:суд (sud)  

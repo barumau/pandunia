@@ -3,6 +3,7 @@
 ## A  
 
 a - en (a)  
+a intre - dentro  
 a ke - dónde  
 a le - allí (allá)  
 a line - en línea  
@@ -94,9 +95,6 @@ amir - orden (mando, comando; mandar, ordenar)
 amirlin - interfaz de línea de comandos  
 amper - amperio  
 ampul - ampolla (vial)  
-anjen - ningunos  
-ansate - nunca  
-ansei - nada  
 ancovi - anchoa  
 Andes - Andes  
 andesite - andesita  
@@ -1163,7 +1161,7 @@ hamile - embarazado (preñado)
 hamir - levadura  
 hande - mano  
 hande - manual  
-handoxake - brazo  
+handange - brazo  
 haos - caos (desorden)  
 hape - apropriado (apto, oportuno)  
 harabe - arruinar (destruir, devastar, asolar)  
@@ -1258,7 +1256,7 @@ huidarte - podsol
 huirange - gris  
 huke - gancho (anzuelo, alcayata)  
 hukokrus - esvástica (cruz gamada)  
-hulei - zorro  
+huli - zorro  
 hume - humus  
 • human - ser humano  
 • humane - humano  
@@ -1267,45 +1265,42 @@ hume - humus
 • humaniste - humanista  
 human hake - derechos humanos  
 humor - humor (gracia)  
-humore - humorístico (gracioso, cómico)  
-humoriste - humorista  
+• humorike - humorístico (gracioso, cómico)  
+• humoriste - humorista  
 humus - garbanzo  
 humusosaus - humus  
-hure - liberar (soltar)  
 hure - libre (horro)  
-huria - libertad  
+• huria - libertad  
+• hurife - liberar (soltar)  
+• hurisme - liberalismo  
+• huriste - liberalista  
+• huristike - liberal  
 hurargente - mercurio  
-hurisme - liberalismo  
-huriste - liberalista  
-huriste - liberal  
-huse - cómodo (lujoso)  
+hura - hurra (yupi)  
+hux - cómodo (lujoso)  
 
 ## I  
 
 –i - sufijo para adjetivos  
 –ia - sufijo para regiónes y sustantivos abstractos  
 ibre - hebreo  
-ice - voluntad  
-ice - querer (disponer)  
+ice - voluntad (querer, disponer)  
 ide - idea (noción, concepto)  
+• ideike - conceptual  
 ideograf - ideograma  
-ide - conceptual  
-idiote - idiota (imbécil)  
-idiote - estúpido (tonto)  
-idiotia - estupidez (tontería)  
+idiote - idiota (imbécil; estúpido, tonto)  
+• idiotia - estupidez (tontería)  
 impere - reinar (reinar como emperador)  
-imperia - imperio  
-imperisme - imperialismo  
-imperiste - imperialista  
-imperer - emperador  
-in - interior  
-ine - interior (interno)  
-intre - interior (interno)  
-intro - dentro  
-intru - entrar  
+• imperia - imperio  
+• imperisme - imperialismo  
+• imperiste - imperialista  
+• imperer - emperador  
+in - en  
+• inaje - interior  
+• inike - interior (interno)  
+• intre - entrar  
 intromun - entrada  
 intraje - intestino (visceras, entrañas, tripas)  
-introverse - introvertido  
 Indonesia - Indonesia  
 intelige - inteligencia (intelecto)  
 • inteligable - inteligible  
@@ -1358,6 +1353,7 @@ jele - encarcelar (aprisionar)
 • jelokan - cárcel  
 • jeler - carcelero  
 jenisme - jainismo  
+no jen - ningunos  
 jeng - pelea (guerra, batalla)  
 jenge - macrial (militar)  
 • jenger - luchador (guerrero)  
@@ -1376,6 +1372,7 @@ joke - broma (chiste)
 joker - bromista (chistoso)  
 jongle - hacer malabarismos  
 • jongler - malabarista  
+jube - bata (aljuba)  
 jude - juzgar (fallo, juicio, criterio)  
 • judokan - tribunal de justicia  
 • juder - juez (árbitro, réferi)  
@@ -1384,11 +1381,9 @@ judau - yudo
 jul - joule (J)  
 • junture - juntura  
 juntolexe - conjunción  
-jupe - falda  
 jupiter - Jupiter  
 jus - jugo (zumo)  
-juste - exacto (preciso)  
-justo - justo (exactamente)  
+juste - exacto (preciso; justo, exactamente)  
 justopaver - francotirador  
 
 ## K  
@@ -1676,7 +1671,10 @@ krake - raja (grieta)
 kran - válvula (llave, canilla)  
 kratia - dominio (reinado)  
 krede - creer  
+krede - confiar (contar con)  
 • krediste - creyente  
+bekredable - leal (fiel)  
+bekredablia - lealtad (fidelidad)  
 • ankrediste - infiel (descreído)  
 krede karte - tarjeta de crédito  
 krem - crema  
@@ -2941,6 +2939,7 @@ sartunge - dolor de cabeza
 sate - hora (hora del día, momento)  
 sate di - momentáneo  
 satodone - dedicar  
+no sate - nunca  
 Saturne - Saturno  
 save - sabiduría (conocimiento)  
 save - saber (conocer)  
@@ -3079,11 +3078,12 @@ six - seis (6)
 sixofase - hexaedro (cubo)  
 sixogon - hexágono  
 skale - escalera  
-skale - escalar  
+• askale - escalar  
 skalotan - enredadera  
 Skandia - Escandinavia  
 skandium - escandio  
 oskandinavia - Escandinavia  
+skerte - falda  
 Skotia - Escocia  
 skulte - esculpir (escultura, estatua)  
 • skultia - escultura (arte de escultura)  
@@ -3423,7 +3423,6 @@ tuze - conejo (liebre)
 
 ## U  
 
-• unoverse - universal  
 Ukraina - Ucrania  
 ulul - aullido  
 ulule - aullar  
@@ -3445,7 +3444,6 @@ unomene - inequívoco
 unoki lense - monóculo  
 unorange - monocromático  
 volfe - lobo  
-ure - hurra  
 Uran - Urano  
 uranium - uranio  
 urde - urdu  
@@ -3513,6 +3511,7 @@ verse - versar (afrontar)
 • version - versión (modelo)  
 • introverse - introvertido  
 • reverse - invertir  
+• unoverse - universal  
 veruke - verruga  
 vespe - abeja o avispa  
 vesponide - avispero (colmena)  
@@ -3598,6 +3597,7 @@ xatanisme - satanismo
 xataniste - satanista  
 xatrange - ajedrez  
 xaxa - susurrar (curjir)  
+no xe - nada  
 xefe - jefe  
 xefe minister - primer ministro  
 xefe di - principal  
@@ -3666,20 +3666,15 @@ yang - variedad (tipo, estilo)
 yasen - fresno  
 yatim - huérfano  
 yatimokan - orfanato  
-yau - necesidad  
-yave - necesitado  
-yavu - necesitar  
-yavan - necesario  
-yausine - confiar (contar con)  
-yausinable - leal (fiel)  
-yausinablia - lealtad (fidelidad)  
-anyave - innecesario  
+yau - necesitar (necesidad)  
+• yavike - necesitado  
+• beyau - necesario  
+• anbeyau - innecesario  
 ye - él o ella  
 yemon - ellos o ellas  
 yege - cazar (pescar)  
 • yeger - cazador  
 yege pexe - pescar  
-yei - yupi  
 Yemen - Yemen  
 jen - persona  
 • dusojen - enemigo  

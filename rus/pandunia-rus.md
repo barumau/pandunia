@@ -563,7 +563,7 @@ halou - алло
 ham - важный (значимый)  
 hamile - беременный  
 hande - рука  
-handoxake - рукав  
+handange - рукав  
 hape - подходящий (годный)  
 harfia - алфавит  
 Hartum - Хартум  
@@ -606,7 +606,7 @@ hotel - гостиница (отель)
 huidarte - подзол  
 huke - крюк (гак)  
 hukokrus - свастика  
-hulei - лиса  
+huli - лиса  
 hume - гумус (перегной)  
 • human - человек  
 • humane - человечный  
@@ -615,11 +615,11 @@ human hake - права человека
 humor - юмор  
 hure - свободный (вольный)  
 hurargente - ртуть  
+hura - ура  
 
 ## I  
 
 intraje - внутренности  
-introverse - интроверт  
 intelige - интеллект  
 inxala - надеяться (чаять)  
 IP adres - IP-адрес  
@@ -646,6 +646,7 @@ jenju - жемчуг
 jinje - имбирь  
 jongle - жонглировать  
 • jongler - жонглёр  
+jube - халат  
 • judokan - суд (трибунал)  
 • juder - судья  
 • exjude - внесудебный  
@@ -776,7 +777,10 @@ kosmonaver - космонавт
 krabe - краб  
 krake - щель (трещина)  
 kran - кран  
+krede - доверять (понадеяться)  
 • krediste - верующий  
+bekredable - верный  
+bekredablia - верность  
 • ankrediste - неверующий  
 krede karte - кредитная карточка  
 krepe - блин  
@@ -1378,8 +1382,9 @@ sire - скрывать
 sirplan - заговор (сговор)  
 sirkite - булыжник  
 six - шесть (6)  
-skale - подниматься  
+• askale - подниматься  
 skandium - скандий  
+skerte - юбка  
 • skulter - скульптор  
 slave - славянский  
 • socia - общество (социум)  
@@ -1540,7 +1545,6 @@ un - один (1)
 • uniko - только (единственно)  
 unomaro - один раз  
 unoki lense - монокль  
-ure - ура  
 Uran - Уран  
 uranium - уран  
 va - вау!  
@@ -1660,12 +1664,8 @@ yamyau - голод
 • exyam - пикник  
 yasen - ясень  
 yatimokan - детский дом  
-yau - нужда  
-yavu - нуждаться  
-yavan - нужный  
-yausine - доверять (понадеяться)  
-yausinable - верный  
-yausinablia - верность  
+yau - нуждаться (нужда)  
+• beyau - нужный  
 yemon su - их  
 yege - охотиться  
 • yeger - егерь  

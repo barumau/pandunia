@@ -674,7 +674,7 @@ hal - état
 halou - allô  
 ham - important  
 hande - main  
-handoxake - bras  
+handange - bras  
 hape - adapter (ajuster)  
 hape - approprié (adapté, convenable, opportun)  
 hapu - convenir (être approprié)  
@@ -722,7 +722,7 @@ hotel - hôtel
 huidarte - podzol  
 huke - crochet  
 hukokrus - svastika (croix gammée)  
-hulei - renard  
+huli - renard  
 hume - humus  
 • human - être humain  
 • humane - humain  
@@ -730,13 +730,14 @@ hume - humus
 human hake - droits de l'homme  
 hure - libre  
 hurargente - mercure  
+hura - hourra  
 
 ## I  
 
 –i - suffixe pour l'adjectif  
-intru - entrer  
+in - en  
+• intre - entrer  
 intraje - intestin (entrailles, ventre, boyau)  
-introverse - introverti  
 intelige - intelligence  
 • inteligable - intelligible  
 iridium - iridium  
@@ -773,6 +774,7 @@ jetografe - projeter (image projection)
 jinje - gingembre  
 jongle - jongler  
 • jongler - jongleur  
+jube - robe  
 • judokan - tribunal (cour de justice)  
 • juder - juje  
 • exjude - extrajudiciaire  
@@ -904,6 +906,7 @@ kosmonau - vaisseau spatial
 kosmonaver - cosmonaute  
 krabe - crabe  
 krake - fente (fissure, fêlure)  
+krede - fier  
 • krediste - croyant  
 • ankrediste - infidèle (incroyant)  
 krede karte - carte de crédit  
@@ -1554,6 +1557,7 @@ skalotan - vigne
 Skandia - Scandinavie  
 skandium - scandium  
 oskandinavia - Scandinavie  
+skerte - jupe  
 • skulter - sculpteur  
 • skuter - trottinette  
 • socia - société  
@@ -1708,14 +1712,12 @@ tuze - lapin (lièvre)
 
 ## U  
 
-• unoverse - universel  
 un - un (1)  
 • unike - seul (unique)  
 • uniko - uniquement  
 unomaro - une fois  
 unoki lense - monocle  
 volfe - loup  
-ure - hourra  
 Uran - Uranus  
 uranium - uranium  
 urse - ours  
@@ -1759,6 +1761,7 @@ vermute - vermouth
 verse - verser (face á)  
 • introverse - introverti  
 • perverse - pervers  
+• unoverse - universel  
 veruke - verrue  
 vespe - abeille ou guêpe  
 vesponide - ruche (nid d'abeille)  
@@ -1838,12 +1841,12 @@ yamyau - faim
 • exyam - piquenique  
 yasen - frêne  
 yatimokan - orphelinat  
-yau - besoin  
-yave - nécessiteux (dans le besoin)  
-yavu - avoir besoin de  
-yavan - nécessaire  
-yausine - fier  
-anyave - inutile  
+yau - besoin (avoir besoin de)  
+• yavike - nécessiteux (dans le besoin)  
+• beyau - nécessaire  
+• anbeyau - inutile  
+ye - il ou elle  
+yemon - ils ou elles  
 yemon su - leur  
 yege - chasser  
 jen - personne  

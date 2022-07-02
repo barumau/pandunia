@@ -39,6 +39,7 @@ The sentence **mi fa huru yemon** would mean the same thing but it would include
 ## A  
 
 a - by (at, in, on)  
+a intre - inside  
 a ke - where  
 a le - there  
 a line - online  
@@ -142,13 +143,11 @@ amirhake - authority (power to give orders)
 amirlin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
-anjen - nobody (no-one)  
-ansate - never  
-ansei - nothing  
 ancovi - anchovy  
 Andes - Andes  
 andesite - andesite  
 Andora - Andorra  
+ange - limb (member, branch)  
 angar - anchor  
 angil - message  
 • angiler - messenger  
@@ -1417,7 +1416,7 @@ hamile - pregnant
 hamir - yeast  
 hande - hand  
 hande - manual  
-handoxake - arm  
+handange - arm  
 haos - chaos (disorder, turmoil)  
 hape - fit (adapt, adjust, make suitable)  
 hape - suitable (appropriate, apt, fit)  
@@ -1528,7 +1527,7 @@ huidarte - podzol
 huirange - grey (gray, ashy)  
 huke - hook  
 hukokrus - swastika (hooked cross)  
-hulei - fox  
+huli - fox  
 hume - humus (mold)  
 • human - human being  
 • humane - humane  
@@ -1540,18 +1539,19 @@ hume - humus (mold)
 • inhume - bury (inter, inhume)  
 human hake - human rights  
 humor - humor  
-humore - humorous (comical, funny)  
-humoriste - humorist  
+• humorike - humorous (comical, funny)  
+• humoriste - humorist  
 humus - chickpea  
 humusosaus - hummus  
-hure - free (liberate)  
 hure - free (unchained)  
-huria - freedom (liberty)  
+• huria - freedom (liberty)  
+• hurife - free (liberate)  
+• hurisme - liberalism  
+• huriste - liberalist  
+• huristike - liberal  
 hurargente - mercury (quicksilver)  
-hurisme - liberalism  
-huriste - liberalist  
-huriste - liberal  
-huse - nice (pleasant, comfortable, cushy)  
+hura - cheer (hurrah, hooray, yay)  
+hux - nice (pleasant, comfortable, cushy)  
 
 ## I  
 
@@ -1559,33 +1559,25 @@ huse - nice (pleasant, comfortable, cushy)
 –ia - area of thinking or being  
 ibre - Hebrew  
 ice - will (volition, desire)  
-ice - will (want)  
 anice - reluctant  
 ide - idea (concept, notion)  
+• ideike - conceptual  
 ideograf - ideogram  
-ide - conceptual  
-idiote - idiot  
-idiote - stupid (idiotic)  
-idiotia - idiocy (stupidity)  
+idiote - idiot (stupid, idiotic)  
+• idiotia - idiocy (stupidity)  
 ifrite - ifrit  
 ike - -ic (a person or thing with specific character)  
 impere - reign (rule as an emperor)  
-imperia - empire  
-imperisme - imperialism  
-imperiste - imperialist  
-imperer - emperor  
-in - inside (interior)  
-ine - inner (internal)  
-intre - inside (interior)  
-intre - inner (internal)  
-intre - enter (insert, put in)  
-intre - inward (internal)  
-intro - inside  
-intru - enter (get in)  
+• imperia - empire  
+• imperisme - imperialism  
+• imperiste - imperialist  
+• imperer - emperor  
+in - in  
+• inaje - inside (interior)  
+• inike - inner (internal)  
+• intre - enter (get in; insert, put in)  
 intromun - entrance  
 intraje - intestines (entrails, guts, bowels, viscera)  
-introspete - introspection  
-introverse - introvert  
 Indonesia - Indonesia  
 intelige - intelligence (intellect)  
 • inteligable - intelligible  
@@ -1645,6 +1637,7 @@ jele - imprison (jail)
 • jelokan - prison  
 • jeler - jailer (imprisoner)  
 jenisme - Jainism  
+no jen - nobody (no-one)  
 jeng - fight (war, battle, combat)  
 jenge - military (martial, warlike)  
 • jenger - warrior (fighter)  
@@ -1671,6 +1664,7 @@ joke - joke
 joker - joker  
 jongle - juggle  
 • jongler - juggler  
+jube - robe (jubbah)  
 jude - judge (judgment, sentence; judicial)  
 • judokan - court of law (court of law)  
 • juder - judge (referee)  
@@ -1681,13 +1675,11 @@ junte - joint (join)
 • juntion - junction  
 • junture - juncture (junction, intersection)  
 juntolexe - conjunction  
-jupe - skirt  
 jupiter - Jupiter  
 jus - juice  
-juste - precise (exact, accurate)  
-justo - just (exactly, precisely)  
-justopaver - sniper (sharpshooter)  
+juste - precise (exact, accurate; just, exactly)  
 • ajuste - adjust (make exact)  
+justopaver - sniper (sharpshooter)  
 
 ## K  
 
@@ -2011,9 +2003,12 @@ krake - crack (rift)
 kran - valve (tap, faucet)  
 kratia - rule (reign)  
 krede - believe (trust, credit)  
+krede - trust (rely)  
 • kredable - credible (believable)  
 • krediste - believer (religious person)  
 • bekrede - trustee  
+bekredable - loyal (faithful, trustworthy)  
+bekredablia - loyalty (faithfulness)  
 • ankrede - distrust (disbelieve)  
 • ankredable - incredible (unbelievable)  
 • ankrediste - unbeliever (infidel)  
@@ -3520,6 +3515,7 @@ sate - time (clock time, moment, hour)
 sate di - momentary  
 satodone - dedicate (devote)  
 satodonia - dedication (devotion)  
+no sate - never  
 Saturne - Saturn  
 save - knowledge  
 save - know (be aware of)  
@@ -3670,13 +3666,14 @@ six - six (6)
 • sixime - sixth  
 sixofase - hexahedron (cube)  
 sixogon - hexagon  
-skale - stairs (ladder)  
-skale - climb (get on)  
+skale - stairs (ladder; scale)  
+• askale - climb (get on)  
 • deskale - get off (descend)  
 skalotan - vine  
 Skandia - Scandinavia  
 skandium - scandium  
 oskandinavia - Scandinavia  
+skerte - skirt  
 Skotia - Scotland  
 skulte - sculpt  
 • skultia - sculpture (art of sculpting)  
@@ -3723,6 +3720,7 @@ sore - lock (fasten)
 sose - social  
 sosis - sausage  
 Soto - Lesotho  
+• introspete - introspection  
 sponge - sponge  
 sporte - sport (athletics)  
 • sportokan - gymnasium (gym)  
@@ -4067,7 +4065,6 @@ tuze - rabbit (hare)
 
 ## U  
 
-• unoverse - universal  
 Ukraina - Ukraine  
 ulul - howling  
 ulule - howl  
@@ -4090,7 +4087,6 @@ unomene - unambiguous
 unoki lense - monocle  
 unorange - monochrome  
 volfe - wolf  
-ure - cheer (hurrah, hooray)  
 Uran - Uranus  
 uranium - uranium  
 urde - Urdu  
@@ -4184,6 +4180,7 @@ verse - turn toward (direct, flip; versus)
 • kontroverse - controversy    
 • perverse - pervert (twist; perverse)  
 • reverse - reverse (invert, direct back; backwards)  
+• unoverse - universal  
 veruke - wart (verruca)  
 vespe - bee or wasp  
 vesponide - bee nest (beehive, wasp's nest)  
@@ -4289,6 +4286,7 @@ xatanisme - Satanism (devil worship)
 xataniste - Satanist  
 xatrange - chess  
 xaxa - rustle  
+no xe - nothing  
 xefe - chief (boss)  
 xefe minister - prime minister  
 xefe di - main (principal)  
@@ -4364,14 +4362,10 @@ yapetus - Iapetus
 yasen - ash tree  
 yatim - orphan  
 yatimokan - orphanage  
-yau - need (shortage, lack)  
-yave - needy (lacking)  
-yavu - need (lack)  
-yavan - necessary (needed)  
-yausine - trust (rely)  
-yausinable - loyal (faithful, trustworthy)  
-yausinablia - loyalty (faithfulness)  
-anyave - unnecessary (extraneous, unneeded)  
+yau - need (lack; shortage)  
+• yavike - needy (lacking)  
+• beyau - necessary (needed)  
+• anbeyau - unnecessary (extraneous, unneeded)  
 ye - he or she or it  
 yemon - they  
 yemon su - their  
@@ -4379,7 +4373,6 @@ ye su - its (his, her)
 yege - hunting (fishing)  
 • yeger - hunter (chasseur)  
 yege pexe - catch fish  
-yei - yay! (yeah!)  
 Yemen - Yemen  
 jen - person (individual)  
 • dusojen - enemy (foe, villain)  

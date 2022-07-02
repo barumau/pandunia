@@ -82,9 +82,6 @@ amir - rozkaz, komenda
 amper - amper  
 ampul - ampułka  
 an- - negatywny (przeciwny, nie)  
-anjen - nikt, żadna osoba  
-ansate - nigdy  
-ansei - nic, żadna rzecz  
 ancovi - sardela  
 Andes - Andy  
 andesite - andezyt  
@@ -1053,7 +1050,7 @@ hamile - ciężarny (w ciąży)
 hamir - drożdże  
 hande - ręka, dłoń  
 hande - ręczny  
-handoxake - ramię (kończyna górna)  
+handange - ramię (kończyna górna)  
 haos - chaos, nieporządek; wrzawa, zgiełk  
 harabe - rujnować, dewastwować, burzyć  
 harabe - zły, zrujnowany, zepsuty  
@@ -1138,7 +1135,7 @@ huidarte - gleba bielicoziemna
 huirange - szary  
 huke - hak  
 hukokrus - swastyka  
-hulei - lis  
+huli - lis  
 • human - człowiek, istota ludzka  
 • humane - ludzki  
 • humania - ludzkość, rodzaj ludzki  
@@ -1146,43 +1143,42 @@ hulei - lis
 • humaniste - humanista  
 human hake - prawa człowieka  
 humor - humor  
-humore - humorystyczny, śmieszny, zabawny, komiczny  
-humoriste - komik  
+• humorike - humorystyczny, śmieszny, zabawny, komiczny  
+• humoriste - komik  
 humus - ciecierzyca  
 humusosaus - hummus  
-hure - uwolnić, uwalniać  
 hure - wolny, niepodległy, niezależny  
-huria - wolność, niepodległość, niezależność  
+• huria - wolność, niepodległość, niezależność  
+• hurife - uwolnić, uwalniać  
+• hurisme - liberalizm  
+• huriste - liberalista, wolnościowiec  
+• huristike - liberalny, wolnościowy  
 hurargente - rtęć  
-hurisme - liberalizm  
-huriste - liberalista, wolnościowiec  
-huriste - liberalny, wolnościowy  
-huse - miły, przyjemny, uroczy  
+hura - wiwatować (hura, jej)  
+hux - miły, przyjemny, uroczy  
 
 ## I  
 
 –i - przyrostek dla przymiotnika  
 –ia - przyrostek dla miejsca  
 ibre - hebrajski  
-ice - wola, chęć  
-ice - chcieć (pragnąć)  
+ice - wola (chęć; chcieć, pragnąć)  
 anice - niechętny  
 ide - idea, pomysł  
+• ideike - pojęciowy  
 ideograf - ideogram  
-ide - pojęciowy  
-idiote - idiota  
-idiote - głupi (idiotyczny)  
-idiotia - idiotyzm (głupota)  
+idiote - idiota (głupi)  
+• idiotia - idiotyzm (głupota)  
 ifrite - ifrit  
 ike - -owy (-ny, okazujący cechę)  
 impere - władać, panować, rządzić jako imperator  
-imperia - imperium  
-imperisme - imperializm  
-imperiste - imperialista  
-imperer - imperator  
-in - wnętrze (środek)  
-ine - wewnętrzny  
-intre - wewnętrzny  
+• imperia - imperium  
+• imperisme - imperializm  
+• imperiste - imperialista  
+• imperer - imperator  
+in - w  
+• inaje - wnętrze (środek)  
+• inike - wewnętrzny  
 intromun - wejście  
 Indonesia - Indonezja  
 inxala - nadzieja, życzenie  
@@ -1234,6 +1230,7 @@ jele - uwięzić, więzić, pozbawić wolności
 • jelokan - więzienie, zakład karny  
 • jeler - strażnik więzienny  
 jenisme - dźinizm, dżinizm  
+no jen - nikt, żadna osoba  
 jeng - walka, wojna  
 jenge - militarny, wojskowy, wojenny  
 • jenger - wojownik, bojownik  
@@ -1255,11 +1252,9 @@ jude - sądzić (osądzić; wyrok)
 • juder - sędzia  
 judau - judo  
 jul - dżul (J)  
-jupe - spódnica  
 jupiter - Jowisz  
 jus - sok  
-juste - precyzyjny, dokładny  
-justo - dokładnie (precyzyjnie, tylko)  
+juste - precyzyjny (dokładny)  
 justopaver - snajper (strzelec wyborowy)  
 
 ## K  
@@ -1536,7 +1531,10 @@ krake - pęknięcie
 kran - kran (zawór)  
 kratia - rządzić, władać  
 krede - wierzyć  
+krede - ufać (wierzyć, liczyć, polegać)  
 • krediste - wierzący (osoba religijna)  
+bekredable - lojalny (wierny)  
+bekredablia - lojalność (wierność)  
 • ankrediste - niewierny  
 krede karte - karta kredytowa  
 krem - krem  
@@ -2728,6 +2726,7 @@ sate - czas
 sate di - chwilowy  
 satodone - dedykować (poświęcać, poświęcić)  
 satodonia - dedykacja (poświęcenie)  
+no sate - nigdy  
 Saturne - Saturn  
 save - wiedza  
 save - wiedzieć  
@@ -2857,12 +2856,13 @@ six - sześć (6)
 sixofase - sześcian (kostka)  
 sixogon - sześciokąt (sześciobok)  
 skale - schody (drabina)  
-skale - wspinać się (wspiąć się)  
+• askale - wspinać się (wspiąć się)  
 • deskale - zejść (schodzić, zstąpić, zstępować)  
 skalotan - pnącz  
 Skandia - Skandynawia  
 skandium - skand  
 oskandinavia - Skandynawia  
+skerte - spódnica  
 Skotia - Szkocja  
 skulte - rzeźbić (rzeźba)  
 • skultia - rzeźbiarstwo  
@@ -3187,7 +3187,6 @@ unomaro - raz (jeden raz)
 unomene - jednoznaczny  
 unorange - jednokolorowy (monochromatyczny)  
 volfe - wilk  
-ure - wiwatować; hura  
 Uran - Uran  
 uranium - uran  
 urde - urdu  
@@ -3330,6 +3329,7 @@ xatanisme - satanizm
 xataniste - satanista  
 xatrange - szachy  
 xaxa - szeleścić  
+no xe - nic, żadna rzecz  
 xefe - szef, kierownik  
 xefe minister - premier  
 xefe di - główny  
@@ -3396,19 +3396,14 @@ yang - rodzaj, typ, styl
 yasen - jesion  
 yatim - sierota  
 yatimokan - sierociniec, dom dziecka  
-yau - potrzeba  
-yavu - potrzebować  
-yavan - potrzebny  
-yausine - ufać (wierzyć, liczyć, polegać)  
-yausinable - lojalny (wierny)  
-yausinablia - lojalność (wierność)  
-anyave - niepotrzebny  
+yau - potrzeba (potrzebować)  
+• beyau - potrzebny  
+• anbeyau - niepotrzebny  
 ye - on, ona, ono  
 yemon - oni  
 yege - polować (łowić)  
 • yeger - łowca (myśliwy)  
 yege pexe - łapać rybę  
-yei - jej  
 Yemen - Jemen  
 jen - osoba  
 jensen - żeń-szeń  

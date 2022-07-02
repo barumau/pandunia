@@ -39,6 +39,7 @@ Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kann
 ## A  
 
 a - luona (-lla, -ssa)  
+a intre - sisällä (sisäpuolella)  
 a ke - missä?  
 a le - siellä (tuolla)  
 a long - pitkästi (kauas)  
@@ -128,12 +129,10 @@ amir - käsky (komento)
 amirhake - käskyvalta  
 amper - ampeeri  
 ampul - ampulli  
-anjen - ei kukaan  
-ansate - ei koskaan (ei kertaakaan)  
-ansei - ei mitään  
 ancovi - sardelli (anjovis)  
 Andes - Andit  
 Andora - Andorra  
+ange - raaja  
 angar - ankkuri  
 angil - viesti  
 • angiler - viestintuoja (airut)  
@@ -1253,7 +1252,7 @@ hamile - raskaana (odottava)
 hamir - hiiva  
 hande - käsi  
 hande - käsi-  
-handoxake - käsivarsi  
+handange - käsivarsi  
 haos - kaaos  
 hape - sovittaa (mukauttaa)  
 hape - sopiva (passeli)  
@@ -1352,7 +1351,7 @@ huidarte - podsoli
 huirange - harmaa  
 huke - koukku (haka)  
 hukokrus - hakaristi (svastika)  
-hulei - kettu  
+huli - kettu  
 hume - multa (humus)  
 • human - ihminen  
 • humane - inhimillinen  
@@ -1364,51 +1363,44 @@ hume - multa (humus)
 • inhume - haudata multaan  
 human hake - ihmisoikeudet  
 humor - huumori  
-humore - koominen (hauska)  
-humoriste - humoristi  
+• humorike - koominen (hauska)  
+• humoriste - humoristi  
 humus - kikherne  
 humusosaus - hummus  
-hure - vapauttaa  
 hure - vapaa  
-huria - vapaus  
+• huria - vapaus  
+• hurife - vapauttaa  
+• hurisme - liberalismi  
+• huriste - liberalisti  
+• huristike - liberaali (vapaamielinen)  
 hurargente - elohopea  
-hurisme - liberalismi  
-huriste - liberalisti  
-huriste - liberaali (vapaamielinen)  
-huse - mukava (kiva, miellyttävä)  
+hura - hurraa (hurrata)  
+hux - mukava (kiva, miellyttävä)  
 
 ## I  
 
 –i - pääte: adjektiivi tai adverbi  
 –ia - ajattelun, olemisen tai ihmisten ala tai alue  
 ibre - heprea  
-ice - tahto  
-ice - tahtoa  
+ice - tahtoa (tahto)  
 anice - vastahakoinen (haluton)  
 ide - käsite (idea)  
+• ideike - käsitteellinen  
 ideograf - ideogrammi  
-ide - käsitteellinen  
-idiote - typerys (idiootti)  
-idiote - tyhmä (hölmö)  
-idiotia - tyhmyys (typeryys)  
+idiote - typerys (idiootti, tyhmä, hölmö)  
+• idiotia - tyhmyys (typeryys)  
 ike - -llinen (kantasanalle ominaispiirteinen)  
 impere - hallita yksinvaltaisesti  
-imperia - keisarikunta  
-imperisme - imperialismi  
-imperiste - imperialisti  
-imperer - keisari  
-in - sisus (sisäpuoli)  
-ine - sisä- (sisäinen)  
-intre - sisäpuoli  
-intre - sisä- (sisäinen)  
-intre - panna sisään  
-intre - sisäinen  
-intro - sisällä (sisäpuolella)  
-intru - mennä sisään  
+• imperia - keisarikunta  
+• imperisme - imperialismi  
+• imperiste - imperialisti  
+• imperer - keisari  
+in - sisällä (-ssa, -ssä)  
+• inaje - sisus (sisäpuoli)  
+• inike - sisä- (sisäinen)  
+• intre - mennä sisään  
 intromun - sisäänkäynti  
 intraje - sisälmykset  
-introspete - introspektio  
-introverse - sisäänpäinsuuntautunut (introvertti)  
 Indonesia - Indonesia  
 intelige - äly  
 • inteligable - älyttävä (ymmärrettävä)  
@@ -1460,6 +1452,7 @@ jele - vangita
 • jelokan - vankila  
 • jeler - vanginvartija  
 jenisme - jainalaisuus  
+no jen - ei kukaan  
 jeng - taistelu (sota)  
 jenge - sotilaallinen  
 • jenger - soturi (taistelija)  
@@ -1480,6 +1473,7 @@ joke - vitsi
 joker - vitsiniekka  
 jongle - jongleerata  
 • jongler - jonglööri  
+jube - kaapu  
 jude - tuomita (tuomio, oikeus; oikeudellinen)  
 • judokan - tuomioistuin (oikeus)  
 • juder - tuomari  
@@ -1490,11 +1484,9 @@ junte - liitos (nivel)
 • juntion - liittäminen  
 • junture - risteys (liittymä)  
 juntolexe - konjunktio (sidesana)  
-jupe - hame  
 jupiter - Jupiter  
 jus - mehu  
-juste - tarkka (täsmällinen)  
-justo - juuri (just, täsmälleen)  
+juste - tarkka (täsmällinen; juuri, just,täsmälleen)  
 
 ## K  
 
@@ -3040,6 +3032,7 @@ saroste - pääkallo
 sartunge - pääkipu (päänsärky)  
 sate - kellonaika (ajankohta)  
 sate di - hetkellinen  
+no sate - ei koskaan (ei kertaakaan)  
 Saturne - Saturnus  
 save - tieto (tietämys)  
 save - tietää (tuntea)  
@@ -3159,13 +3152,14 @@ six - kuusi (6)
 • sixime - kuudes (6.)  
 sixofase - kuutio (kuusitahokas)  
 sixogon - kuusikulmio  
-skale - portaat (rappuset, tikkaat)  
-skale - nousta (kiivetä)  
+skale - portaikko (rappuset, tikkaat; skaala)  
+• askale - nousta (kiivetä)  
 • deskale - laskeutua  
 skalotan - köynnös  
 Skandia - Skandinavia  
 skandium - skandium  
 oskandinavia - Skandinavia  
+skerte - hame  
 Skotia - Skotlanti  
 skulte - veistää (veistos, patsas)  
 • skultia - kuvanveisto  
@@ -3205,6 +3199,7 @@ song - mänty
 sose - yhteiskunnallinen (sosiaalinen)  
 sosis - makkara  
 Soto - Lesoto  
+• introspete - introspektio  
 sponge - sienieläin  
 sporte - urheilu  
 • sportokan - liikuntasali  
@@ -3490,7 +3485,6 @@ tuze - jänis
 
 ## U  
 
-• unoverse - universaali  
 Ukraina - Ukraina  
 ulul - ulvonta  
 ulule - ulvoa  
@@ -3513,7 +3507,6 @@ unomene - yksimerkityksinen
 unoki lense - monokkeli  
 unorange - yksivärinen  
 volfe - susi (hukka)  
-ure - hurraa (hurrata)  
 Uran - Uranus  
 uranium - uraani  
 urde - urdu  
@@ -3590,6 +3583,7 @@ verse - kohti (päin)
 • kontroverse - vastakohtaisuus  
 • perverse - kiero (perverssi)  
 • reverse - taaksepäin  
+• unoverse - universaali  
 veruke - syylä  
 vespe - mehiläinen tai ampiainen  
 veste - länsi  
@@ -3680,6 +3674,7 @@ xatanisme - satanismi (paholaisenpalvonta)
 xataniste - satanisti  
 xatrange - šakki  
 xaxa - kahista  
+no xe - ei mitään  
 xefe - päällikkö (pomo)  
 xefe minister - pääministeri (suurvisiiri)  
 xefe di - pää-  
@@ -3747,18 +3742,16 @@ yamyau - nälkä
 yang - laji (tyyppi, tyyli)  
 yatim - orpo  
 yatimokan - orpokoti  
-yau - tarve (puute)  
-yave - puutteenalainen  
-yavu - tarvita  
-yavan - tarpeellinen  
-anyave - tarpeeton  
+yau - tarvita (tarve, puute)  
+• yavike - puutteenalainen  
+• beyau - tarpeellinen  
+• anbeyau - tarpeeton  
 ye - hän (se)  
 yemon - he  
 yemon su - heidän  
 ye su - hänen (sen)  
 yege - pyytää (metsästää, kalastaa)  
 • yeger - pyytäjä (metsästäjä, kalastaja)  
-yei - jee! (hurraa!)  
 Yemen - Jemen  
 jen - henkilö  
 • dusojen - vihollinen  

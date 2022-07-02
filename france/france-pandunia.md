@@ -176,7 +176,6 @@ aventurier - venturer
 avis (opinion) - rai  
 avocat - avakate  
 avoine - aven  
-avoir besoin de - yavu  
 avoir tendance à - ive  
 axe - axe  
 Azerbaijan - Azerbaizan  
@@ -234,7 +233,7 @@ belligérant - belente
 belliqueux - belike  
 bengali - bangle  
 berkélium - berkelium  
-besoin - yau  
+besoin (avoir besoin de) - yau  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukarbete  
 bibliothèque - kitabokan  
@@ -271,7 +270,7 @@ bouteille - botel
 bouton - buton  
 boxe - bokse  
 boxeur - bokser  
-bras - handoxake  
+bras - handange  
 brave - brave  
 bravo! - bravo  
 brigand (bandit) - luter  
@@ -601,6 +600,7 @@ elfe - elfe
 empreinte de pied - futomarke  
 empreinte digitale - angulmarke  
 empruntre - jekocepe  
+en - in  
 en arrière - retro  
 en avant - pro  
 en ligne - a line  
@@ -614,7 +614,7 @@ enseigner - xulane
 ensommeillé (somnolent) - somive  
 ensuite (après, plus tard, ir a, en el futuro) - poso  
 entonnoir - darotube  
-entrer - intru  
+entrer - intre  
 entrer en éruption - exrute  
 envelopper (emballer) - lifafe  
 erbium - erbium  
@@ -673,7 +673,7 @@ feu - hoge
 feu d’artifice - hogotehne  
 fibre - linem  
 ficher (fixer) - fixe  
-fier - yausine  
+fier - krede  
 fil de fer - metallin  
 fil de trame - veilin  
 fils ou fille - ben  
@@ -799,7 +799,7 @@ honneur - onor
 honorer - onore  
 horloge - horloger  
 houe - cope  
-hourra - ure  
+hourra - hura  
 huile (pétrole) - nefte  
 huit (8) - bate  
 hum - hem  
@@ -821,6 +821,8 @@ hôtel - hotel
 
 ## I  
 
+il ou elle - ye  
+ils ou elles - yemon  
 imitateur (mime) - mimer  
 imiter - mime  
 immigrant - inmigrer  
@@ -856,8 +858,7 @@ interracial - rasmede
 interrompre - interrute  
 intestin (entrailles, ventre, boyau) - intraje  
 introverti - introverse  
-introverti - introverse  
-inutile - anyave  
+inutile - anbeyau  
 inverse (négatif, in-) - an-  
 iode - yodium  
 iridium - iridium  
@@ -885,6 +886,7 @@ jour (24 heures) - den
 jour - yom  
 juje - juder  
 jungle - jangle van  
+jupe - skerte  
 Jupiter - jupiter  
 jus - jus  
 jusque (jusqu’à) - hate  
@@ -1135,8 +1137,8 @@ nouveauté - novia
 nuage - nepe  
 nudisme - nudisme  
 nylon - nilon  
-nécessaire - yavan  
-nécessiteux (dans le besoin) - yave  
+nécessaire - beyau  
+nécessiteux (dans le besoin) - yavike  
 nécrologie - nekrologe  
 nécrophilie - nekrofilisme  
 néodyme - neodimium  
@@ -1437,7 +1439,7 @@ recycler - risikle
 rein - nefre  
 religion - din  
 remplir - pure  
-renard - hulei  
+renard - huli  
 reporter (rapporteur) - reporter  
 repos - repause  
 repose en paix (REP) - repause in pace (RIP)  
@@ -1458,6 +1460,7 @@ ring (manège) - ringar
 rire - hahe  
 rivière (fleuve) - riu  
 riz - ris  
+robe - jube  
 robot - robote  
 roche (pierre) - petre  
 rocher - dayite  

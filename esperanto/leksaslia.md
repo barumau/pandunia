@@ -36,6 +36,7 @@
 **an-** *mala* ← greka:ἀν- (an-), angla:un-, hindia:अन- (an-), franca:hispana:portugala:in-  
 **ancovi** *sardelo (anĉovo)* ← angla:anchovy, franca:anchois, hispana:anchoa, portugala:anchova, rusa:анчоус (ančous), japana:アンチョビ (anchobi), hindia:ऐन्चोवी (enchovi)  
 **angar** *ankro* ← angla:anchor, franca:ancre, portugala:âncora, malaja:jangkar, rusa:якорь, araba:(ʾanjar), hindia:लंगर (laṅgar), urdua:(laṅgar), teluga:లంగరు (laṅgaru), svahila:nanga  
+**ange** ** ← hindia:अंग (aṅg), bengala:অঙ্গ (ôṅg), panĝaba:ਅੰਗ (aṅga), teluga:అంగము (aṅgamu), kmera: អង្គ (ʔɑŋ), taja: องค์ (ong)  
 **angil** *mesaĝo* ← greka:ἀγγελία (angelía), araba:(ʾinjīl), svahila:injili, malaja:injil, turka:incil, hindia:इंजील (iñjīl) + angla:angel, franca:ange, hispana:ángel, portugala:anjo, rusa:ангел (angel), mandarena:安琪儿 (ānqí'ér)  
 **angul** *fingro* ← hindia:अंगुलि (aṅgulī), bengala:আঙুল (aṅgul)  
 **anime** *kartuno* ← angla:franca:animation, hispana:animación, portugala:animação, rusa:анимация, japana:アニメ (anime), turka:malaja:anime, araba:أنمي m (ʾanimī), hindia:ऐनिमे (ainime), korea:아니메 (anime)  
@@ -490,7 +491,7 @@
 **hamar** *martelo* ← angla:hammer, deu:Hammer, japana:ハンマー (hanmā), haŭsa:hamā̀  
 **hamile** *graveda* ← araba:(ḥāmil), malaja:hamil, svahila:himila, turka:hamile, urdua:(hāmila), persa:(hâmele)  
 **hamir** *feĉo* ← araba:(xamīra), hindia:ख़मीर (xamīr), turka:hamur, svahila:hamira, persa:(moxammer), + korea:효모 (hyomo)  
-**hande** *mano* ← hindia:हाथ (hāth), bengala:হাত (hat), angla:hand  
+**hande** *mano* ← hindia:हाथ (hāth), bengala:হাত (hat) + angla:hand  
 **haos** *kaoso (malordo)* ← angla:franca:chaos, hispana:portugala:caos, rusa:хаос (haos), japana:カオス (kaosu)  
 **hape** *taŭga* ← mandarena:合 (hé), kantona:合 (hap6), korea:합 (hap), vjetnama:hợp + angla:apt, franca:apte, hispana:portugala:apto  
 **harabe** *ruinigita* ← araba:persa:urdua:(xarāb), turka:harap, hindia:ख़राब (xarāb), bengala:খারাপ (kharap), svahila:-haribu  
@@ -532,18 +533,18 @@
 **hotel** *hotelo* ← angla:deu:hispana:portugala:malaja:hotel, franca:hôtel, hindia:होटल (hoṭal), bengala:হোটেল (hoṭel), japana:ホテル (hoteru), korea:호텔 (hotel), rusa:отель (otel)  
 **hui** ** ← mandarena:灰 (huĭ), kantona:灰 (fui), japana:灰 (hai), + korea:회색 (hoesaeg)  
 **huke** *hoko* ← angla:hook, deu:Haken, rusa: гак (gak), polona:hak, hindia:हुक (huk), bengala:হুক (huk), malaja:hak  
-**hulei** *vulpo* ← mandarena:狐狸 (húlí), kantona:狐狸 (wu4 lei4-2), vua:狐狸 (hhu li3), korea:호리 (hori), vjetnama:hồ li  
+**huli** *vulpo* ← mandarena:狐狸 (húlí), kantona:狐狸 (wu4 lei4-2), vua:狐狸 (hhu li3), korea:호리 (hori), vjetnama:hồ li  
 **humor** *humuro* ← rusa:юмор (yumor), hispana:angla:humor, franca:humour, japana:ユーモア (yūmoa), korea:유머 (yumeo), mandarena:幽默 (yōumò)  
 **humus** ** ← araba:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), angla:hispana:malaja:hummus, portugala:húmus, rusa:хумус (humus), turka:humus, hindia:marataja:हुम्मुस (hummus), japana:フムス (fumusu)  
+**hura** ** ← angla:hurrah, deu:hispana:hurra, franca:hourra, rusa:ура (ura), malaja:hore, persa:(hurâ)  
 **hurargente** ** ← svahila:hidrajiri  
 **hure** *libera* ← araba: حر (ḥurr), turka:hür, svahila:huru, hispana:horro, portugala:forro  
-**huse** *agrabla* ← persa: خوش‎ (xoš), hindia:ख़ुश (xuś), bengala:খুশি (khuśi), turka:hoş, angla:cushy  
+**hux** *agrabla* ← persa: خوش‎ (xoš), hindia:ख़ुश (xuś), bengala:খুশি (khuśi), turka:hoş, angla:cushy  
 **ice** *volo* ← vjetnama:ý chí, mandarena:意志 (yìzhì), korea:(uiji), japana:(ishi), + hindia:इच्छा (icchā), teluga:ఇచ్చ (icca)  
 **ide** *ideo* ← franca:idée, deu:Idee, hat:malaja:ide, persa:(ide), portugala:ideia, rusa:идея (ideya), vjetnama:ý định  
 **idiote** ** ← angla:deu:franca:malaja:idiot, hispana:portugala:idiota, rusa:идиот (idiot)  
 **ifrite** ** ← araba:عِفْرِيت‎ (ʿifrīt), angla:hispana:portugala:franca:turka:malaja:ifrit, deu:Ifrit, rusa:ифрит (ifrit), japana:イフリート (ifuriito)  
 **ike** ** ← angla:-ic, franca:-ique, hispana:portugala:-ico, hindia:-इक (-ika)  
-**imperia** ** ← angla:empire, hispana:imperio, portugala:império, rusa:империя (imperiya), araba:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), persa:امپراطوری‎ (emperâturi), malaja:empayar  
 **in** *eno* ← angla:in, franca:hispana:en, portugala:em + mandarena:内 (nèi), japana:内 (nai), korea:내 (nae), vjetnama:nội, taja:ใน (nai)  
 **intraje** ** ← hindia:आंत्र (åntra), bengala:অন্ত্র (antra), pan:ਆਂਦਰਾਂ (āndarā̃) + franca:entrailles, angla:entrails, hispana:entrañas, portugala:entranhas  
 **inxala** *esperi* ← araba:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), persa:ان‌شاءالله (enšâ'allâh), turka:inşallah, malaja:insya allah, hispana:ojalá, portugala:oxalá, angla:inshallah, rusa:иншаллах (inšallax), bengala:ইনশাআল্লাহ্ (inśaallah), mandarena:印沙安拉 (yìnshā'ānlā)  
@@ -575,10 +576,10 @@
 **jinje** *zingibro* ← tamila:இஞ்சி (inji), angla:ginger, araba:(zanjabīl), turka:zencefil, franca:gingembre  
 **joke** ** ← angla:franca:joke, persa:جوک‎ (jok), japana:ジョーク (jōku) + mandarena:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jongle** *ĵongli* ← franca:jongler, angla:juggle, rusa:жонглировать (žonglirovat’), japana:ジャグリング (jaguringu)  
+**jube** *robo* ← araba: جُبَّة (jubba), svahila:juba, malaja:jubah, hispana:aljuba  
 **junte** ** ← angla:joint, franca:jonction, hispana:portugala:junta, deu:junktion  
-**jupe** *jupo* ← franca:jupe, araba:(jūb), rusa:юбка (yubka)  
 **jus** *suko* ← angla:juice, svahila:jusi, tamila:ஜூஸ் (jūs), japana:ジュース (jūsu), korea:주스 (juseu)  
-**juste** *preciza (ekzakta)* ← angla:just, franca:juste, hispana:justo, itala:giusto, japana:ジャスト (jasto)  
+**juste** *preciza (ekzakta; ĝuste )* ← angla:just, franca:juste, hispana:justo, itala:giusto, japana:ジャスト (jasto)  
 **kababe** ** ← araba:persa:urdua: كباب (kabāb), turka:malaja:angla:hispana:kebab, rusa:кебаб (kebab), hindia:कबाब (kabāb), bengala:কাবাব (kabab), svahila:kababu  
 **kabau** ** ← hispana:carabao, malaja:kerbau, jav:kebo, kmera:ក្របី (krɑbəy)  
 **kabin** ** ← angla:cabin, hispana:cabaña, portugala:cabana, franca:cabane, bengala:কেবিন (kebin)  
@@ -1271,8 +1272,9 @@
 **sivile** ** ← angla:civil, portugala:civil, hindia:सिविल (sivil), malaja:sipil  
 **six** *sis* ← angla:franca:six, hispana:portugala:seis, deu:sechs, rusa:шесть (shest’) + araba:ستة‎ (sitta)  
 **siyahe** *nigra* ← persa:سیاه‎ (siyâh), hindia:सियाह (siyāh), urdua:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), turka:siyah  
-**skale** ** ← hispana:portugala:escalar + franca:escalier + angla:scale, deu:Skale, rusa:шкала (škala)   
+**skale** *ŝtuparo* ← hispana:portugala:escalar + franca:escalier + angla:scale, deu:Skale, rusa:шкала (škala)   
 **skandium** *skandio* ← angla:scandium, franca:scandium, hispana:escandio, portugala:escândio, rusa:скандий, mandarena:钪 (kàng), japana:スカンジウム, korea:스칸듐, vjetnama:scandi, hindia:स्काण्डियम, bengala:স্ক্যান্ডিয়াম, malaja:skandium, svahila:skandi, araba: سكانديوم  
+**skerte** *jupo* ← angla:skirt, hindia:स्कर्ट (skarṭ), bengala:স্কার্ট (śkarṭ), japana:スカート (sukāto), korea:스커트 (seukeoteu), svahila:sketi, haŭsa:siket  
 **sofa** *sofo* ← angla:franca:sofa, hispana:portugala:sofá, rusa:софа (sofa), mandarena:沙发 (shāfā), japana:ソファ (sofa), korea:소파 (sopa), vjetnama:xô pha, hindia:सोफ़ा (sofā)  
 **soge** *serĉi* ← mandarena:搜 (sōu), kantona:索 (sok3), vua:搜 (seu1), japana:捜索 (sōsaku) + angla:seek, deu:suchen, polona:szukać, ukr:шукати (šukati) + rusa:искать (iskat’)  
 **soi** *sojo* ← angla:soy, franca:hispana:portugala:soja, rusa:соя (soya), araba: صُويَا‎ (ṣūyā), hindia:सोया (soyā), malaja:turka:soya + japana:醤油 (shōyu)  
@@ -1408,7 +1410,6 @@
 **un** *unu (1)* ← franca:un, hispana:uno, portugala:um, una, angla:one  
 **unale** *unu la alian (reciproke)* ← angla:one another, itala:l’una, l’altra, franca: l'un l'autre, hispana:el uno al otro, portugala:um ao outro, turka:birbirine, mandarena:彼此 (bǐcǐ)  
 **uranium** *uranio* ← angla:uranium, franca:uranium, hispana:uranio, portugala:urânio, rusa:уран, japana:ウラン, korea:우라늄, vjetnama:urani (uran), hindia:युरेनियम, bengala:ইউরেনিয়াম, malaja:uranium, svahila:urani, araba: يورانيوم  
-**ure** ** ← rusa:ура (ura), itala:urrà, deu:hispana:hurra, franca:hourra, angla:hurrah, malaja:hore, persa:(hurâ)  
 **urse** *urso* ← franca:ours, portugala:urso, hispana:oso, persa:(xers)  
 **uze** *uzi* ← angla:use, franca:user, hispana:portugala:usar, polona:używać  
 **va** *ŭaŭ!* ← angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah  
@@ -1511,9 +1512,9 @@
 **yang** *speco (tipo, stilo)* ← mandarena:样 (yàng), taja:อย่าง (yàang), kmera:យ៉ាង (yaang)  
 **yasen** ** ← rusa:ясень (yasen’), polona:jesion  
 **yatim** ** ← araba:persa:(yatim), turka:yetim, svahila:yatima, hindia:यतीम (yatīm)  
-**yau** ** ← mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu  
+**yau** *bezoni* ← mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu  
+**ye** *li aŭ ŝi aŭ ĝi* ← hindia:यह (yeh) + svahila:yeye, zulua:yena, lingala:ye + rusa:е- (ye-) + malaja:ia + mandarena:伊 (yī), vjetnama:y  
 **yege** *ĉasi* ← deu:jagen + angla:jaeger, rusa:егерь (jeger’)  
-**yei** ** ← angla:yay, polona:jej, japana:イエイ (iei)  
 **yeze** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
 **yodium** *jodo* ← angla:iodine, franca:iode, hispana:yodo (iodo), portugala:iodo, rusa:йод, japana:ヨウ素, korea:요오드, vjetnama:iot, hindia:आयोडिन, bengala:আয়োডিন, malaja:yodium, svahila:iodini, araba: يود  
 **yoge** *jogo* ← hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)  
@@ -1571,6 +1572,7 @@
 **• fizikia** *fiziko* ← angla:physics, hispana:portugala:física, rusa:физика (fizika), turka:malaja:fizik, araba:فِيزِيقَا‎ (fīzīqā), svahila:fizikia, hindia:फ़िज़िक्स (fiziks)  
 **• fobia** *fobio* ← angla:-phobia, hispana:portugala:malaja:-fobia, franca:deu:-phobie, rusa:-фобия (-fobiya), turka:-fobi  
 **• historia** *historio (studo de historio)* ← angla:history, hispana:svahila:historia, portugala:história, franca:histoire, rusa:история (istoriya)  
+**• imperia** ** ← angla:empire, hispana:imperio, portugala:império, rusa:империя (imperiya), araba:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), persa:امپراطوری‎ (emperâturi), malaja:empayar  
 **• infetion** *infekto* ← angla:franca:infection, deu:Infektion, hispana:infección, portugala:infecção, rusa:инфекция (infektsiya), turka:enfeksiyon, malaja:infeksi  
 **• jamia** ** ← araba:(jamʿiyya), haŭsa:jam'iyya, svahila:jamii, turka:camia  
 **• juder** *juĝisto* ← angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji + rusa:суд (sud)  
