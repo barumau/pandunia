@@ -739,7 +739,7 @@ cola (refresco de cola) - kole
 colaborar - konkare  
 colarse - siro motu  
 colchón - matras  
-colección (grupo, conjunto, montón) - jamia  
+colección - jamaje  
 colgante (pendiente) - pendaje  
 colgar - pende  
 colgar - pende  
@@ -810,6 +810,7 @@ Confucio - Kongfuze
 confundir (desconcertar, perplejo) - ruhmixe  
 conjugar (conjugación) - konyuge  
 conjunción - juntolexe  
+conjunto (grupo, montón) - jamia  
 cono - konus  
 conocido - save  
 consecuencia (siguiente) - pos  
@@ -1208,7 +1209,6 @@ en el sentido del las agujas del reloj - rotoraito
 en línea - a line  
 encanto - carme  
 encarcelar (aprisionar) - jele  
-encontrar - mite  
 encurtido - acari  
 encurtir - acara  
 endónimo - inonam  
@@ -1590,7 +1590,6 @@ guarda (preservador, conservador) - hafizer
 guarda-barros (aleta) - fangodefoban  
 Guatemala - Guatemala  
 guau (vaya) - va  
-guau (vaya) - vah  
 Guernesey - Gerneze  
 guerra - gere  
 guerrero - gerer  
@@ -1906,6 +1905,7 @@ jugo (zumo) - jus
 julio - lun ceti  
 jungla - jangle van  
 junio - lun luka  
+juntar (junta) - junte  
 juntos - kono  
 juntura (conexión, enlace) - linke  
 juntura - junture  
@@ -3068,7 +3068,7 @@ responder (contestar; repuesta) - gavabe
 restaurante - restorante  
 resto (demás, residuo) - livaje  
 retículo - krusolin  
-reunión (junta, mitin) - mite  
+reunión (junta, mitin) - ajame  
 Reunión - Reunion  
 reventar - parcokayu  
 revisar (chequear) - ceke  
@@ -3600,12 +3600,11 @@ vacío (desocupado) - kale
 vagina - vagine  
 vaginitis - vaginitis  
 vainilla - vanil  
-valer - valu  
 valiente (heroico) - vire  
 valla (cerca) - kenarbaryer  
 valle - vade  
-valor - val  
-valorar - vale  
+valor (valer; valorar) - vale  
+valor - valure  
 vals - valse  
 vamos a - haide  
 vampiro - vampir  

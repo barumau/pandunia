@@ -1553,9 +1553,7 @@ vaf - собака
 vafle - вафля  
 vagine - влагалище (вагина)  
 vaginitis - вагинит  
-vah - вау!  
-val - ценность  
-vale - оценивать  
+vale - ценность (оценивать)  
 valse - вальс  
 vampir - вампир (упырь)  
 vampirbalsenter - адский вампир  

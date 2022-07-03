@@ -1759,8 +1759,7 @@ vaf - hundo
 vafle - vaflo  
 vagine - vagino  
 vaginitis - vaginito  
-vah - ŭaŭ!  
-val - valoro  
+vale - valoro  
 van: - arbaro  
 varkolate - paĝo  
 vase - oazo  

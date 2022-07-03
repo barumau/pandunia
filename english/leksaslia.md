@@ -557,6 +557,7 @@
 **ivia** *tendency (inclination)* ← English:-ive, deu:-iv, French:-if, -ive, Portuguese:Spanish:-ivo, Russian:-ивный (-ivnyj)  
 **jake** *jacket* ← English:jacket, Mandarin:夹克 (jiākè), Russian:жакет (žaket), deu:Jacke, Portuguese:jaqueta  
 **jambul** *jamul (jambul, rose apple)* ← Hindi:जामुन (jāmun), English:jambul, Portuguese:jambolão, Arabic:جَمُّون (jammūn), Swahili:zambarau  
+**jame** *collect (gather, bring together, assemble)* ← Arabic: جَمَعَ‎ (jamaʿa), Hindi:जमात (jamāt), Swahili:jamaa,jamii, Hausa:jam'iyya,jàma'à, Yoruba:jànmọ́ọ̀, Turkish:camia  
 **jampe** *jump* ← English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **janel** *window* ← Portuguese:janela, Bengali:জানালা (janala), Malay:jendela + Tamil:சன்னல் (sannal), nya:zenera, Kongo:nêla  
 **jangle** *wild (feral, savage)* ← English:French:jungle, Spanish:jungla, Portuguese:jângal, Russian:джунгли (džungli), Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Malay:jenggela, Japanese:ジャングル (janguru), Korean:정글 (jeonggeul), Turkish:cengel + Swahili:jangwa  
@@ -906,7 +907,6 @@
 **mise** *send (emit, transmit)* ← English:emit, Spanish:remitir, Portuguese:emitir, French:émettre  
 **miskine** *poor (miserable)* ← Arabic:مِسْكِين (miskīn), Persian:مسکین‎ (meskin), Turkish:Malay:miskin, Swahili:maskini, Hindi:, Bengali:মিসকিন (miśkin), French:miskine, Spanish:mezquino, Portuguese:mesquinho  
 **Misria** *Egypt* ← Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr)  
-**mite** *meeting (gathering)* ← English:meet, French:meeting, Spanish:mitin, Japanese:ミーティング (mītingu), Hindi:मीटिंग (mīṭiṅg)  
 **mitre** *meter (100 cm)* ← English:Turkish:metre, deu:Malay:meter, French:mètre, Spanish:Portuguese:metro, Russian:метр (metr), Arabic: متر‎ (mitr), Mandarin:米 (mǐ), Japanese:メートル (mētoru), Korean:미터 (miteo), Vietnamese:mét, Hindi:मीटर (mīṭar), Bengali:মিটার (miṭar), Swahili:mita  
 **mixe** *mix (blend)* ← deu:mischen, Russian:мешать (měšat'), Polish:mieszać, English:mix, Italian:miscelare, + Hindi:मिश्रण (miśrān)  
 **mode** *way (manner, mode)* ← French:English:mode, Spanish:Portuguese:modo  
@@ -1007,7 +1007,7 @@
 **okeye** *okay (acceptable)* ← English:okay, Spanish:Turkish:Malay:okey, Portuguese:OK, Russian:окей (okej), Arabic:أُوكِي‎‎‎ (ʾokey), Hindi:ओके (oke), Mandarin:OK (ōukèi), Japanese:オーケー (ōkē)  
 **okosui** *tear drop* ← Tamil:கண்ணீர் (kaṇṇīr), Malayalam:കണ്ണുനീർ (kaṇṇunīr), Telugu:(kannīru), Korean:눈물 (nunmul), Vietnamese:nước mắt, Malay:air mata, Thai:น้ำตา  
 **onde** *wave* ← Spanish:Portuguese:Italian:onda, French:onde, Malay:ombak  
-**onor** *respect (honor, esteem)* ← English:Polish:Spanish:honor, French:honneur, Portuguese:honra, Turkish:onur  
+**onor** *respect (honor, esteem)* ← English:Polish:Spanish:honor, French:honneur, Portuguese:honra, Russian:гонор (gonor), Turkish:onur  
 **or** *ear* ← Mandarin:耳 (ěr), English:ear, deu:Ohr, French:oreille, Portuguese:orelha, Spanish:oreja  
 **orange** *orange (fruit)* ← English:orange, Spanish:naranja, Portuguese:laranja, Hindi:नारंगी (narangi), Japanese:(orenji), + French:orange, Russian:оранжевый (oranževiy)  
 **orgazme** *orgasm* ← English:orgasm, Spanish:Portuguese:orgasmo, French:Malay:orgasme, Russian:оргазм (orgazm), Turkish:orgazm, Hindi:ओगाज़्म (ogāzma), Japanese:オーガズム (ōgazumu), Korean:오르가슴 (oreugaseum)  
@@ -1418,9 +1418,8 @@
 **vaf** *dog* ← English:woof, French:ouaf, Russian:гав (gav), Turkish:hav, Mandarin:汪 (wāng), Japanese:ワン (wan)  
 **vafle** *waffle* ← English:waffle, deu:Waffel, Russian:вафля (vaflya), Mandarin:窝夫 (wōfū), Japanese:ワッフル (waffuru), Korean:와플 (wapeul)  
 **vagine** *vagina* ← English:French:vagina, Portuguese:Spanish:vagina, Russian:вагина (vagina), Japanese:ワギナ (wagina), Korean:바기나 (bagina), Turkish:vajina, Malay:vagina  
-**vah** *wow! (gee!)* ← English:wow, French:ouah, Mandarin:哇 (wā), Japanese:わあ (wā), Korean:와 (wa), Hindi:वाह (vāh), Malay:wah  
-**vakil** *representative (proxy, agent)* ← Arabic:وكيل‎ (wakīl), Swahili:wakili, Persian:وکیل‎ (vakil), Hindi:वकील (vakīl), Bengali:উকিল (ukil)  
-**val** *value (worth)* ← English:value, Spanish:Portuguese:valor, French:valeur  
+**vakile** *represent* ← Arabic: وكيل‎ (wakīl), Hindi:वकील (vakīl), Bengali:উকিল (ukil), Swahili:wakili, Persian: وکیل‎ (vakil)  
+**vale** *value (worth; evaluate)* ← English:value, Spanish:Portuguese:valor, French:valeur  
 **valse** *waltz* ← English:waltz, French:valse, Spanish:Portuguese:valsa, Russian:вальс (val’s), Mandarin:华尔兹 (huá'ěrzī), Japanese:ワルツ (warutsu), Korean:왈츠 (walcheu)  
 **vampir** *vampire* ← deu:Vampir, English:French:vampire, Spanish:Portuguese:vampiro, Russian:вампир (vampir) Bengali:ভ্যাম্পায়ার (bhêmpayar), Malay:vampir, Japanese:ヴァンパイア (vanpaia)  
 **van:** *forest (woods)* ← Hindi:वन (van), Bengali:বন (bôn), Malay:jav:wana, Punjabi:ਵਣ (vaṇ), Tamil:வனம் (vaṉam), Kannada:ವನ (vana)  
@@ -1574,7 +1573,6 @@
 **• historia** *history (study of history)* ← English:history, Spanish:Swahili:historia, Portuguese:história, French:histoire, Russian:история (istoriya)  
 **• imperia** *empire* ← English:empire, Spanish:imperio, Portuguese:império, Russian:империя (imperiya), Arabic:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), Persian:امپراطوری‎ (emperâturi), Malay:empayar  
 **• infetion** *infection* ← English:French:infection, deu:Infektion, Spanish:infección, Portuguese:infecção, Russian:инфекция (infektsiya), Turkish:enfeksiyon, Malay:infeksi  
-**• jamia** *collection (congregation, assembly)* ← Arabic:(jamʿiyya), Hausa:jam'iyya, Swahili:jamii, Turkish:camia  
 **• juder** *judge (referee)* ← English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji + Russian:суд (sud)  
 **• konmisia** *commission (committee)* ← Russian:комиссия (komissiya), Polish:komisja, English:French:commission, deu:Kommission, Spanish:comisión, Portuguese:comissão, Turkish:komisyon, Hindi:कमीशन (kamīśan), Bengali:কমিশন (kômiśôn), Malay:komisi  
 **• konputer** *computer* ← English:computer, Spanish:computadora, Portuguese:computador, Russian:компьютер (komp’uter), Arabic:كَمْبْيُوتَر‎ (kambyūtar), Swahili:kompyuta, Hindi:कंप्यूटर (kampyūṭar), Bengali:কম্পিউটার (kômpiuṭar), Malay:komputer, Japanese:コンピューター (konpyūtā)  

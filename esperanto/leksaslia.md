@@ -557,6 +557,7 @@
 **ivia** *emo (inklino, tendenco)* ← angla:-ive, deu:-iv, franca:-if, -ive, portugala:hispana:-ivo, rusa:-ивный (-ivnyj)  
 **jake** *jako* ← angla:jacket, mandarena:夹克 (jiākè), rusa:жакет (žaket), deu:Jacke, portugala:jaqueta  
 **jambul** ** ← hindia:जामुन (jāmun), angla:jambul, portugala:jambolão, araba:جَمُّون (jammūn), svahila:zambarau  
+**jame** *kolekti (kunigi)* ← araba: جَمَعَ‎ (jamaʿa), hindia:जमात (jamāt), svahila:jamaa,jamii, haŭsa:jam'iyya,jàma'à, joruba:jànmọ́ọ̀, turka:camia  
 **jampe** *salti* ← angla:jump, japana:ジャンプ (janpu), korea:점프 (jŏmp), bengala:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **janel** *fenestro* ← portugala:janela, bengala:জানালা (janala), malaja:jendela + tamila:சன்னல் (sannal), nya:zenera, konga:nêla  
 **jangle** ** ← angla:franca:jungle, hispana:jungla, portugala:jângal, rusa:джунгли (džungli), hindia:जंगल (jangal), bengala:জঙ্গল (jônggôl), malaja:jenggela, japana:ジャングル (janguru), korea:정글 (jeonggeul), turka:cengel + svahila:jangwa  
@@ -906,7 +907,6 @@
 **mise** ** ← angla:emit, hispana:remitir, portugala:emitir, franca:émettre  
 **miskine** *mizera* ← araba:مِسْكِين (miskīn), persa:مسکین‎ (meskin), turka:malaja:miskin, svahila:maskini, hindia:, bengala:মিসকিন (miśkin), franca:miskine, hispana:mezquino, portugala:mesquinho  
 **Misria** *Egipto* ← araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr)  
-**mite** ** ← angla:meet, franca:meeting, hispana:mitin, japana:ミーティング (mītingu), hindia:मीटिंग (mīṭiṅg)  
 **mitre** *metro* ← angla:turka:metre, deu:malaja:meter, franca:mètre, hispana:portugala:metro, rusa:метр (metr), araba: متر‎ (mitr), mandarena:米 (mǐ), japana:メートル (mētoru), korea:미터 (miteo), vjetnama:mét, hindia:मीटर (mīṭar), bengala:মিটার (miṭar), svahila:mita  
 **mixe** *miksi* ← deu:mischen, rusa:мешать (měšat'), polona:mieszać, angla:mix, itala:miscelare, + hindia:मिश्रण (miśrān)  
 **mode** ** ← franca:angla:mode, hispana:portugala:modo  
@@ -1007,7 +1007,7 @@
 **okeye** *akceptebla (okej)* ← angla:okay, hispana:turka:malaja:okey, portugala:OK, rusa:окей (okej), araba:أُوكِي‎‎‎ (ʾokey), hindia:ओके (oke), mandarena:OK (ōukèi), japana:オーケー (ōkē)  
 **okosui** ** ← tamila:கண்ணீர் (kaṇṇīr), malajala:കണ്ണുനീർ (kaṇṇunīr), teluga:(kannīru), korea:눈물 (nunmul), vjetnama:nước mắt, malaja:air mata, taja:น้ำตา  
 **onde** *ondo* ← hispana:portugala:itala:onda, franca:onde, malaja:ombak  
-**onor** *honoro (respekto)* ← angla:polona:hispana:honor, franca:honneur, portugala:honra, turka:onur  
+**onor** *honoro (respekto)* ← angla:polona:hispana:honor, franca:honneur, portugala:honra, rusa:гонор (gonor), turka:onur  
 **or** *orelo* ← mandarena:耳 (ěr), angla:ear, deu:Ohr, franca:oreille, portugala:orelha, hispana:oreja  
 **orange** *oranĝo* ← angla:orange, hispana:naranja, portugala:laranja, hindia:नारंगी (narangi), japana:(orenji), + franca:orange, rusa:оранжевый (oranževiy)  
 **orgazme** ** ← angla:orgasm, hispana:portugala:orgasmo, franca:malaja:orgasme, rusa:оргазм (orgazm), turka:orgazm, hindia:ओगाज़्म (ogāzma), japana:オーガズム (ōgazumu), korea:오르가슴 (oreugaseum)  
@@ -1418,9 +1418,8 @@
 **vaf** *hundo* ← angla:woof, franca:ouaf, rusa:гав (gav), turka:hav, mandarena:汪 (wāng), japana:ワン (wan)  
 **vafle** *vaflo* ← angla:waffle, deu:Waffel, rusa:вафля (vaflya), mandarena:窝夫 (wōfū), japana:ワッフル (waffuru), korea:와플 (wapeul)  
 **vagine** *vagino* ← angla:franca:vagina, portugala:hispana:vagina, rusa:вагина (vagina), japana:ワギナ (wagina), korea:바기나 (bagina), turka:vajina, malaja:vagina  
-**vah** *ŭaŭ!* ← angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah  
-**vakil** ** ← araba:وكيل‎ (wakīl), svahila:wakili, persa:وکیل‎ (vakil), hindia:वकील (vakīl), bengala:উকিল (ukil)  
-**val** *valoro* ← angla:value, hispana:portugala:valor, franca:valeur  
+**vakile** ** ← araba: وكيل‎ (wakīl), hindia:वकील (vakīl), bengala:উকিল (ukil), svahila:wakili, persa: وکیل‎ (vakil)  
+**vale** *valoro* ← angla:value, hispana:portugala:valor, franca:valeur  
 **valse** ** ← angla:waltz, franca:valse, hispana:portugala:valsa, rusa:вальс (val’s), mandarena:华尔兹 (huá'ěrzī), japana:ワルツ (warutsu), korea:왈츠 (walcheu)  
 **vampir** ** ← deu:Vampir, angla:franca:vampire, hispana:portugala:vampiro, rusa:вампир (vampir) bengala:ভ্যাম্পায়ার (bhêmpayar), malaja:vampir, japana:ヴァンパイア (vanpaia)  
 **van:** *arbaro* ← hindia:वन (van), bengala:বন (bôn), malaja:jav:wana, panĝaba:ਵਣ (vaṇ), tamila:வனம் (vaṉam), kanara:ವನ (vana)  
@@ -1574,7 +1573,6 @@
 **• historia** *historio (studo de historio)* ← angla:history, hispana:svahila:historia, portugala:história, franca:histoire, rusa:история (istoriya)  
 **• imperia** ** ← angla:empire, hispana:imperio, portugala:império, rusa:империя (imperiya), araba:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), persa:امپراطوری‎ (emperâturi), malaja:empayar  
 **• infetion** *infekto* ← angla:franca:infection, deu:Infektion, hispana:infección, portugala:infecção, rusa:инфекция (infektsiya), turka:enfeksiyon, malaja:infeksi  
-**• jamia** ** ← araba:(jamʿiyya), haŭsa:jam'iyya, svahila:jamii, turka:camia  
 **• juder** *juĝisto* ← angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji + rusa:суд (sud)  
 **• konmisia** *komisiono (komitea)* ← rusa:комиссия (komissiya), polona:komisja, angla:franca:commission, deu:Kommission, hispana:comisión, portugala:comissão, turka:komisyon, hindia:कमीशन (kamīśan), bengala:কমিশন (kômiśôn), malaja:komisi  
 **• konputer** *komputero* ← angla:computer, hispana:computadora, portugala:computador, rusa:компьютер (komp’uter), araba:كَمْبْيُوتَر‎ (kambyūtar), svahila:kompyuta, hindia:कंप्यूटर (kampyūṭar), bengala:কম্পিউটার (kômpiuṭar), malaja:komputer, japana:コンピューター (konpyūtā)  

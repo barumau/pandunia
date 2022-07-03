@@ -495,7 +495,7 @@ emoçao - emos
 emprestar (pedir emprestado) - jeke  
 emprestar - jekodone  
 encarar (afrontar; vérsus) - verse  
-encontrar - mite  
+encontrar - ajame  
 endereço - adres  
 endógeno - ingene  
 enganar - truke  
@@ -1524,7 +1524,6 @@ túlio - tulium
 ## U  
 
 uau - va  
-uau - vah  
 um (1) - un  
 um ao outro - semon  
 uma vez - unomaro  
@@ -1538,9 +1537,8 @@ usar - uze
 vagina - vagine  
 vaginite - vaginitis  
 vale (uadi) - vade  
-valer - valu  
-valor (valia) - val  
-valorar - vale  
+valor (valia; valer; valorar) - vale  
+valor - valure  
 valsa - valse  
 vampiro - vampir  
 vanádio - vanadium  

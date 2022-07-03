@@ -1728,9 +1728,8 @@ vaf - chien
 vafle - gaufre  
 vagine - vagine  
 vaginitis - vaginite  
-vah - ouah  
-val - valeur  
-vale - évaluer  
+vale - valeur (évaluer)  
+• valure - valeur  
 valse - valse  
 vampir - vampire  
 vampirbalsenter - vampire des abysses  

@@ -2387,7 +2387,7 @@ religia, wyznanie - din
 relikwia - cenaje  
 ren - renium  
 reporter - reporter  
-reprezentant (przedstawiciel) - vakil  
+reprezentant (przedstawiciel) - vakiler  
 reprezentować - vakile  
 republika - komunkratia  
 Republika Czeska, Czechy - Cehia  
@@ -2641,8 +2641,7 @@ spokojny - xante
 sporokarp - fungopal  
 sport, lekkoatletyka - sporte  
 sposób (metoda, tryb) - mode  
-spotkanie, zebranie - mite  
-spotkać - mite  
+spotkanie, zebranie - ajame  
 społeczeństwo, system społeczny - socia  
 społeczny - sose  
 sprawdzić, sprawdzać, skontrolować - ceke  
@@ -3043,7 +3042,7 @@ warcaby - dama gem
 warga - labe  
 warstwa (poziom, piętro, kondygnacja) - ceng  
 warsztat szewski - sapatokan  
-wartość - val  
+wartość - vale  
 warzywo - yamfite  
 Waszyngton D.C - Vaxington DC  
 wat - vat  
@@ -3164,8 +3163,7 @@ wolof - Volof
 wolt (V) - volte  
 wosk - mum  
 wosko lądowe (armia) - geogunia  
-wow!, łoł!, jej! - va  
-wow!, łoł!, jej! - vah  
+wow! (łoł!, jej!) - va  
 wołowina - muhmanse  
 wrzesień - lun luka  
 wróg (nieprzyjaciel) - andoste  

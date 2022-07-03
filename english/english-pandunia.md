@@ -348,7 +348,6 @@ be - si
 be about (discuss as a subject) - teme  
 be beside (accompany) - late  
 be called (be named) - name  
-be worth - valu  
 beacon (lighthouse) - fotominar  
 bean or pea (legume) - dou  
 bear - urse  
@@ -795,7 +794,7 @@ collaborate (work together) - konkare
 collapse - parcotalu  
 collect (gather, bring together, assemble) - jame  
 collect fees or taxes - taxe  
-collection (congregation, assembly) - jamia  
+collection - jamaje  
 Colombia - Kolombia  
 colonialism - kolonisme  
 colonialist - koloniste  
@@ -1278,6 +1277,7 @@ English oak - europobalute
 enough (sufficient) - bas  
 enter (get in; insert, put in) - intre  
 entrance - intromun  
+entrust (assign, authorize, delegate) - vakilize  
 envelope (enfold) - invelaje  
 environment (nature) - ekia  
 environmental (natural) - eke  
@@ -1581,6 +1581,7 @@ garlic - lasun
 gas (gaseous; gasify) - gas  
 gasoline (petrol) - benzin  
 gate (portal) - daimun  
+gathering (congregation, assembly) - jamia  
 Gaul - Galia  
 gauze - gaze  
 gay (homosexual) - gei  
@@ -1824,7 +1825,7 @@ hobby - hobe
 hobbyist - hobiste  
 hockey - hoke  
 hoe - cope  
-hold together - jamohafize  
+hold together - jamokape  
 hole - kong  
 holiday - festoden  
 holism - holisme  
@@ -2421,8 +2422,7 @@ meditate (ponder) - medite
 Mediterranean - Geomedi Hai  
 medium (intermediate, mean) - midi  
 medium (media) - midia  
-meet - mite  
-meeting (gathering) - mite  
+meet (get together; meeting, gathering) - ajame  
 megawat (MW) - megavate  
 meh - me  
 meitnerium - maitnerium  
@@ -2488,7 +2488,7 @@ mint - minte
 minute - minute  
 miracle - mirokle  
 mirage - miraje  
-Miranda - Mirande  
+Miranda - Miranda  
 mirror - miror  
 misdeed (sin, vice) - dusate  
 misdeed (sin, vice) - duskar  
@@ -3337,7 +3337,7 @@ report - reporte
 report - reporte  
 reporter - reporter  
 represent - vakile  
-representative (proxy, agent) - vakil  
+representative (agent, proxy, attorney) - vakiler  
 repress (push back) - represe  
 republic - komunkratia  
 Republic of North Macedonia - Nordi Makedonia  
@@ -3547,7 +3547,6 @@ sememe - sememe
 seminal - semenike  
 senator - senater  
 send (emit, transmit) - mise  
-send - mise  
 sender (transmitter) - miser  
 Senegal - Senegal  
 sense (method of perception) - sense  
@@ -4200,8 +4199,9 @@ vacuum cleaner - funcuper
 vagina - vagine  
 vaginitis - vaginitis  
 valley - vade  
-value (evaluate) - vale  
-value (worth) - val  
+valuables - valaje  
+value (evaluation) - valure  
+value (worth; evaluate) - vale  
 valve (tap, faucet) - kran  
 vampire - vampir  
 vampire squid - vampirbalsenter  
@@ -4386,7 +4386,6 @@ worm - verme
 worship (reveration) - puze  
 worship (revere) - puze  
 wow! (gee!) - va  
-wow! (gee!) - vah  
 wrap (wrapping, envelope, covering) - lifafe  
 write (writing) - kitabe  
 

@@ -557,6 +557,7 @@
 **ivia** *tendencja* ← eng:-ive, deu:-iv, fra:-if, -ive, por:spa:-ivo, rus:-ивный (-ivnyj)  
 **jake** *kurtka* ← eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta  
 **jambul** *czapetka kuminowa* ← hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau  
+**jame** *kolekcjonować, zebrać, zbierać* ← ara: جَمَعَ‎ (jamaʿa), hin:जमात (jamāt), swa:jamaa,jamii, hau:jam'iyya,jàma'à, yor:jànmọ́ọ̀, tur:camia  
 **jampe** *skoczyć, skakać* ← eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **janel** *okno* ← por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla  
 **jangle** *dziki* ← eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel + swa:jangwa  
@@ -906,7 +907,6 @@
 **mise** *wysłać (wyemitować)* ← eng:emit, spa:remitir, por:emitir, fra:émettre  
 **miskine** *biedny, mizerny* ← ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho  
 **Misria** *Egipt* ← ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)  
-**mite** *spotkanie, zebranie* ← eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)  
 **mitre** *metr* ← eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita  
 **mixe** *miksować, mieszać* ← deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)  
 **mode** *sposób (metoda, tryb)* ← fra:eng:mode, spa:por:modo  
@@ -1007,7 +1007,7 @@
 **okeye** *okej, spoko, akceptowalny* ← eng:okay, spa:tur:may:okey, por:OK, rus:окей (okej), ara:أُوكِي‎‎‎ (ʾokey), hin:ओके (oke), zho:OK (ōukèi), jpn:オーケー (ōkē)  
 **okosui** *łza* ← tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา  
 **onde** *fala* ← spa:por:ita:onda, fra:onde, may:ombak  
-**onor** *respekt, honor, szacunek, poważanie* ← eng:pol:spa:honor, fra:honneur, por:honra, tur:onur  
+**onor** *respekt, honor, szacunek, poważanie* ← eng:pol:spa:honor, fra:honneur, por:honra, rus:гонор (gonor), tur:onur  
 **or** *ucho* ← zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja  
 **orange** *pomarańcza* ← eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)  
 **orgazme** *orgazm* ← eng:orgasm, spa:por:orgasmo, fra:may:orgasme, rus:оргазм (orgazm), tur:orgazm, hin:ओगाज़्म (ogāzma), jpn:オーガズム (ōgazumu), kor:오르가슴 (oreugaseum)  
@@ -1412,15 +1412,14 @@
 **uranium** *uran* ← eng:uranium, fra:uranium, spa:uranio, por:urânio, rus:уран, jpn:ウラン, kor:우라늄, vie:urani (uran), hin:युरेनियम, ben:ইউরেনিয়াম, may:uranium, swa:urani, ara: يورانيوم  
 **urse** *niedźwiedź* ← fra:ours, por:urso, spa:oso, fas:(xers)  
 **uze** *użyć, używać, zatrudnić, stosować* ← eng:use, fra:user, spa:por:usar, pol:używać  
-**va** *wow!, łoł!, jej!* ← eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah  
+**va** *wow! (łoł!, jej!)* ← eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah  
 **vacin** *szczepionka* ← eng:vaccine, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin  
 **vade** *dolina* ← eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi  
 **vaf** *pies* ← eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)  
 **vafle** ** ← eng:waffle, deu:Waffel, rus:вафля (vaflya), zho:窝夫 (wōfū), jpn:ワッフル (waffuru), kor:와플 (wapeul)  
 **vagine** *wagina* ← eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina  
-**vah** *wow!, łoł!, jej!* ← eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah  
-**vakil** *reprezentant (przedstawiciel)* ← ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)  
-**val** *wartość* ← eng:value, spa:por:valor, fra:valeur  
+**vakile** *reprezentować* ← ara: وكيل‎ (wakīl), hin:वकील (vakīl), ben:উকিল (ukil), swa:wakili, fas: وکیل‎ (vakil)  
+**vale** *wartość* ← eng:value, spa:por:valor, fra:valeur  
 **valse** *walc* ← eng:waltz, fra:valse, spa:por:valsa, rus:вальс (val’s), zho:华尔兹 (huá'ěrzī), jpn:ワルツ (warutsu), kor:왈츠 (walcheu)  
 **vampir** *wampir* ← deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)  
 **van:** *las (zagajnik)* ← hin:वन (van), ben:বন (bôn), may:jav:wana, pnb:ਵਣ (vaṇ), tam:வனம் (vaṉam), kan:ವನ (vana)  
@@ -1574,7 +1573,6 @@
 **• historia** *historia, badanie historii* ← eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)  
 **• imperia** *imperium* ← eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar  
 **• infetion** *infekcja (zakażenie)* ← eng:fra:infection, deu:Infektion, spa:infección, por:infecção, rus:инфекция (infektsiya), tur:enfeksiyon, may:infeksi  
-**• jamia** *kolekcja, zbiór; zgromadzenie, zebranie* ← ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia  
 **• juder** *sędzia* ← eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:суд (sud)  
 **• konmisia** *komisja (komitet)* ← rus:комиссия (komissiya), pol:komisja, eng:fra:commission, deu:Kommission, spa:comisión, por:comissão, tur:komisyon, hin:कमीशन (kamīśan), ben:কমিশন (kômiśôn), may:komisi  
 **• konputer** *komputer* ← eng:computer, spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)  

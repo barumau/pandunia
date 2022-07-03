@@ -1434,7 +1434,9 @@ ivia - taipumus
 jake - pikkutakki (jakku)  
 jame - koota (kerätä)  
 • jamia - yhteisö (kokoontuminen, kollektiivi)  
-jamohafize - pitää yhdessä  
+• jamaje - kokoelma  
+• ajame - tapaaminen (kokoontuminen, kokous)  
+jamokape - pitää yhdessä  
 jamokarde - keräilykortti  
 Jamaika - Jamaika  
 jambul - jambolaani  
@@ -2202,7 +2204,6 @@ mire - heijastaa (peilata)
 • amire - ihailla  
 mirsonde - kaiku  
 mise - lähettää  
-mise - lähettää  
 • misia - lähetys  
 • misaje - viesti  
 • mision - lähetys  
@@ -2218,8 +2219,6 @@ misalo - esimerkiksi
 miskine - kurja (raukka)  
 misre - egyptiläinen  
 Misria - Egypti  
-mite - tapaaminen (kokous)  
-mite - tavata  
 mitre - metri  
 mixe - sekoittaa  
 mixer - sekoitin  
@@ -3515,7 +3514,7 @@ urse - karhu
 Uruguai - Uruguai  
 USA - yhdysvaltalainen (ns. Amerikkalainen)  
 uze - käyttää  
-uzer - käyttäjä  
+• uzer - käyttäjä  
 Uzbekia - Uzbekistan  
 va - oho (vau)  
 vacin - rokote  
@@ -3524,11 +3523,11 @@ vaf - koira
 vafle - vohveli  
 vagine - emätin (vagina)  
 vaginitis - emätintulehdus  
-vah - oho (vau)  
 vakile - edustaa  
-val - arvo  
-vale - arvottaa  
-valu - olla jkn arvoinen  
+• vakiler - edustaja (asianajaja)  
+vale - arvo (arvottaa)  
+• valaje - arvotavarat  
+• valure - arvotus  
 valse - valssi  
 van: - metsä  
 vanadium - vanadiini  

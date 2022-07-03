@@ -1560,9 +1560,11 @@ iv:ia|ivia|||eng:-ive, deu:-iv, fra:-if, -ive, por:spa:-ivo, rus:-ивный (-i
 j|J||||J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J|J
 jak:|jake|||eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta|jacket||chaqueta|||||||||||||jako|pikkutakki (jakku)|kurtka
 jakarta:|Jakarta|xefsite|||Jakarta||||||||||||Jakarta|||||Dżakarta
-jam:|jame||||collect (gather, bring together, assemble)||recoger (juntar, reunir, acumular, recolectar, montar)|||||||||||||kolekti (kunigi)|koota (kerätä)|kolekcjonować, zebrać, zbierać
-jam:ia|• jamia|||ara:(jamʿiyya), hau:jam'iyya, swa:jamii, tur:camia|collection (congregation, assembly)||colección (grupo, conjunto, montón)||||||||||||||yhteisö (kokoontuminen, kollektiivi)|kolekcja, zbiór; zgromadzenie, zebranie
-jam~hafiz:|jamohafize||||hold together||||||||||||||||pitää yhdessä|
+jam:|jame|||ara: جَمَعَ‎ (jamaʿa), hin:जमात (jamāt), swa:jamaa,jamii, hau:jam'iyya,jàma'à, yor:jànmọ́ọ̀, tur:camia|collect (gather, bring together, assemble)||recoger (juntar, reunir, acumular, recolectar, montar)|||||||||||||kolekti (kunigi)|koota (kerätä)|kolekcjonować, zebrać, zbierać
+jam:ia|• jamia||||gathering (congregation, assembly)||conjunto (grupo, montón)||||||||||||||yhteisö (kokoontuminen, kollektiivi)|kolekcja, zbiór; zgromadzenie, zebranie
+jam.aj:|• jamaje||||collection||colección||||||||||||||kokoelma|
+jam<a:|• ajame||||meet (get together; meeting, gathering)||reunión (junta, mitin)|encontrar|||会议|会合 (会議, ミーティング)|회합 (회의)||बैठक (सभा, मीटिंग)||||||tapaaminen (kokoontuminen, kokous)|spotkanie, zebranie
+jam~kap:|jamokape||||hold together||||||||||||||||pitää yhdessä|
 jam~kard:|jamokarde||||trading card|carte à collectionner|cromo|cromo|||||||||||||keräilykortti|
 jamaika:|Jamaika|gogia|JM||Jamaica||Jamaica|||||||||||||Jamajko|Jamaika|Jamajka
 jambul:|jambul|biu|Syzygium|hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau|jamul (jambul, rose apple)|prune de Java||jambolão (jambo)|джамболан||閻浮樹|フトモモ|||जामुन|||zambarau|||jambolaani|czapetka kuminowa
@@ -1618,7 +1620,7 @@ jud.r:|• juder|||eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), be
 jud<ex:|• exjude||||extrajudicial|extrajudiciaire|extrajudicial|extrajudicial|внесудебный|||||||||||senjuĝa|mielivaltainen (ilman tuomiota)|
 judau:|judau||||judo||yudo|||||||||||||ĵudo|judo|judo
 jul:|jul|unomete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
-junt:|junte|||eng:joint, fra:jonction, spa:por:junta, deu:junktion|joint (join)||||||||||||||||liitos (nivel)|
+junt:|junte|||eng:joint, fra:jonction, spa:por:junta, deu:junktion|joint (join)||juntar (junta)||||||||||||||liitos (nivel)|
 junt.ion:|• juntion||||junction|jonction||junção|соединение||||||||||||liittäminen|
 junt.ur:|• junture||||juncture (junction, intersection)||juntura|juntura||||||||জংশন|||||risteys (liittymä)|
 junt~lex:|juntolexe||||conjunction|conjonction|conjunción|conjunção|||连接词|接続詞|||||kata penghubung||||konjunktio (sidesana)|
@@ -2472,11 +2474,10 @@ mir.kl:|• mirokle||||miracle|miracle|milagro|milagre|чудо||||||||||||ihme|
 mir.or:|• miror||||mirror|miroir|espejo (retrovisor)|espelho|зеркало|مرآة|镜子|鏡|거울|gương|दर्पण (आईना)|আয়না|cermin|kioo|ayna (mirat)|spegulo|peili|lustro
 mir<a:|• amire||||admire||admirar|admirar|||||||||||||ihailla|
 mir~sond:|mirsonde||||echo||eco|||||||||||||eĥo|kaiku|echo
-miranda:|Mirande|planete 7 lun 1|||Miranda|||||||||||||||||
+miranda:|Miranda|planete 7 lun 1|||Miranda|||||||||||||||||
 mird:i|mirde|||eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yue:微 (mei4)|faint (depending on context: soft, dull, mild, weak, slow, subtle)|faible|ligero (leve, vago, débil, borroso)|fraco|слабый||微弱的|微か||||||||||nikły
 mird:u|mirdu||||fade|||||||||||||||||niknąć (blaknąć, gasnąć, słabnąć)
-mis:|mise||||send||||||||||||||||lähettää|
-mis:a|mise|||eng:emit, spa:remitir, por:emitir, fra:émettre|send (emit, transmit)||enviar (transmitar)||||||||||||||lähettää|wysłać (wyemitować)
+mis:|mise|||eng:emit, spa:remitir, por:emitir, fra:émettre|send (emit, transmit)||enviar (transmitar)||||||||||||||lähettää|wysłać (wyemitować)
 mis:ia|• misia||||mission (transmission, emission)||emisión||||||||||||||lähetys|misja
 mis.ag:|• misaje|||eng:deu:fra:message, spa:mensaje, por:mensagem, tur:mesaj, jpn:メッセージ (messēji), kor:메시지 (mesiji), rus:месседж (messedzh), may:mesej|message|message|mensaje|mensagem|месседж|رِسالة‎|信息|伝言 (メッセージ)|소식 (메시지)|tin nhắn|सन्देश (रिसाला)||pesan (mesej)|||mesaĝo|viesti|wiadomość
 mis.ion|• mision||||mission (sending)|mission|misión|missão|миссия||||||||misi||||lähetys|
@@ -2494,8 +2495,6 @@ misal:o|misalo||||for example|par exemple|por ejemplo|por exemplo|наприме
 miskin:i|miskine|||ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho|poor (miserable)||pobre (miserable)|||||||||||||mizera|kurja (raukka)|biedny, mizerny
 misr:i|misre||||Egyptian||egipcio|||||||||||||egipta|egyptiläinen|egipski
 misr:ia|Misria|gogia|EG|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|Egypt|Égypte|Egipto|Egipto (Egito)|Египет||埃及|エジプト|이집트|Ai Cập|मिस्र|মিশর|Mesir|Misri|Mısır|Egipto|Egypti|Egipt
-mit:|mite|||eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)|meeting (gathering)||reunión (junta, mitin)||||会议|会合 (会議, ミーティング)|회합 (회의)||बैठक (सभा, मीटिंग)||||||tapaaminen (kokous)|spotkanie, zebranie
-mit:a|mite||||meet||encontrar|encontrar|||聚会|会う|||मिलना||||||tavata|spotkać
 mitr:|mitre|||eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|meter (100 cm)|mètre|metro|metro|метр|متر‎|米 (公尺)|メートル|미터|mét|मीटर|মিটার|meter|mita|metre|metro|metri|metr
 mix:a|mixe|||deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|mix (blend)||mezclar||мешать|||||||||||miksi|sekoittaa|miksować, mieszać
 mix:i alkol:|mixi alkol||||cocktail||cóctel||коктейль|||カクテル (混合酒)||||||||||koktajl
@@ -4027,11 +4026,11 @@ uruguai:|Uruguai|gogia|UY||Uruguay||Uruguay||||||||||||||Uruguai|Urugwaj
 urusalem:|Urusalem|xefsite|||Jerusalem|||||القُدس‎||||||||||||Jerozolima
 usa:|USA||||American (US)||estadounidense||||||||||||||yhdysvaltalainen (ns. Amerikkalainen)|amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)
 uz:|uze|||eng:use, fra:user, spa:por:usar, pol:używać|use (employ, apply)|user|usar (aplicar)|usar||||||||||||uzi|käyttää|użyć, używać, zatrudnić, stosować
-uz.abl:i|uzable||||usable (available)||utilizable (disponible)|||||使用可能||||||||||
-uz.r:|uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
-uz.r.nam:|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
+uz.abl:i|• uzable||||usable (available)||utilizable (disponible)|||||使用可能||||||||||
+uz.r:|• uzer||||user||usuario||||||||||||||käyttäjä|użytkownik
+uz~r.nam:|uzernam||||username||nombre de usuario|||||||||||||||nazwa użytkownika
 uzbek:ia|Uzbekia|gogia|UZ||Uzbekistan||Uzbekistán||||||||||||||Uzbekistan|Uzbekistan
-va:|va|modive||eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|wow! (gee!)|ouah|guau (vaya)|uau|вау!||哇|わあ|와||वाह||wah|||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
+va:|va|modive||eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|wow! (gee!)|ouah|guau (vaya)|uau|вау!||哇|わあ|와||वाह||wah|||ŭaŭ!|oho (vau)|wow! (łoł!, jej!)
 vacin:|vacin|||eng:vaccine, por:vacina, rus:вакцина (vakcina), hin:वैक्सीन (vaiksīn), jpn:ワクチン (wakuchin), may:vaksin|vaccine||vacuna||||||||||||||rokote|szczepionka
 vad:|vade|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley|vallée (oued)|valle|vale (uadi)||وَادٍ‎|山谷|谷|골짜기|thung lũng|घाटी (वादी)|উপত্যকা|lembah (wadi)|bonde|vadi|valo|laakso|dolina
 vad.susan:|vadosusan|biu|Convallaria majalis||lily of the valley||convalaria (lirio de los valles)|lírio-do-vale|ландыш||鈴蘭|キミカゲソウ (スズラン)||||||||||konwalia majowa
@@ -4039,12 +4038,12 @@ vaf:|vaf|biu||eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jp
 vafl:|vafle|yam||eng:waffle, deu:Waffel, rus:вафля (vaflya), zho:窝夫 (wōfū), jpn:ワッフル (waffuru), kor:와플 (wapeul)|waffle|gaufre|gofre|waffle|вафля||窝夫|ワッフル|와플|||||||vaflo|vohveli|
 vagin:|vagine|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
 vagin.itis:|vaginitis||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy
-vah:|vah|||eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|wow! (gee!)|ouah|guau (vaya)|uau|вау!||哇|わあ|와||वाह||wah|||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
-vakil:|vakil|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil)|representative (proxy, agent)|||||||||||||||||reprezentant (przedstawiciel)
-vakil:a|vakile||||represent||representar||||||||||||||edustaa|reprezentować
-val:|val|||eng:value, spa:por:valor, fra:valeur|value (worth)|valeur|valor|valor (valia)|ценность|قِيمَة‎|价值|価値|가치|giá trị|मूल्य (क़ीमत)|মূল্য|nilai|thamani|değer (kıymet)|valoro|arvo|wartość
-val:a|vale||||value (evaluate)|évaluer|valorar|valorar|оценивать||||||||||||arvottaa|
-val:u|valu||||be worth||valer|valer|||||||||||||olla jkn arvoinen|
+vakil:|vakile|||ara: وكيل‎ (wakīl), hin:वकील (vakīl), ben:উকিল (ukil), swa:wakili, fas: وکیل‎ (vakil)|represent||representar||||||||||||||edustaa|reprezentować
+vakil.er:|• vakiler||||representative (agent, proxy, attorney)||||||||||||||||edustaja (asianajaja)|reprezentant (przedstawiciel)
+vakil.iz:|• vakilize||||entrust (assign, authorize, delegate)|||||||||||||||||
+val:|vale|||eng:value, spa:por:valor, fra:valeur|value (worth; evaluate)|valeur (évaluer)|valor (valer; valorar)|valor (valia; valer; valorar)|ценность (оценивать)|قِيمَة‎|价值|価値|가치|giá trị|मूल्य (क़ीमत)|মূল্য|nilai|thamani|değer (kıymet)|valoro|arvo (arvottaa)|wartość
+val.aj:|• valaje||||valuables||||||||귀중품||||||||arvotavarat|
+val.ur:|• valure||||value (evaluation)|valeur|valor|valor|||||||||||||arvotus|
 valis: e: futuna: nes:ia|Valis e Futuna nesia|gogia|WF||Wallis and Futuna Islands||Wallis y Futuna|||||||||||||||Saint Vincent i Grenadyny
 vals:|valse|||eng:waltz, fra:valse, spa:por:valsa, rus:вальс (val’s), zho:华尔兹 (huá'ěrzī), jpn:ワルツ (warutsu), kor:왈츠 (walcheu)|waltz|valse|vals|valsa|вальс||华尔兹|ワルツ (円舞曲)|왈츠||||||||valssi|walc
 vampir:|vampir|||deu:Vampir, eng:fra:vampire, spa:por:vampiro, rus:вампир (vampir) ben:ভ্যাম্পায়ার (bhêmpayar), may:vampir, jpn:ヴァンパイア (vanpaia)|vampire|vampire|vampiro|vampiro|вампир (упырь)||吸血鬼|吸血鬼|흡혈귀|ma cà rồng|पिशाच|||||||wampir

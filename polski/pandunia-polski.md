@@ -1212,6 +1212,7 @@ jake - kurtka
 Jakarta - Dżakarta  
 jame - kolekcjonować, zebrać, zbierać  
 • jamia - kolekcja, zbiór; zgromadzenie, zebranie  
+• ajame - spotkanie, zebranie  
 Jamaika - Jamajka  
 jambul - czapetka kuminowa  
 jampe - skoczyć, skakać  
@@ -1981,8 +1982,6 @@ misalo - na przykład
 miskine - biedny, mizerny  
 misre - egipski  
 Misria - Egipt  
-mite - spotkanie, zebranie  
-mite - spotkać  
 mitre - metr  
 mixe - miksować, mieszać  
 mixi alkol - koktajl  
@@ -3196,20 +3195,19 @@ Uruguai - Urugwaj
 Urusalem - Jerozolima  
 USA - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
 uze - użyć, używać, zatrudnić, stosować  
-uzer - użytkownik  
+• uzer - użytkownik  
 uzernam - nazwa użytkownika  
 Uzbekia - Uzbekistan  
-va - wow!, łoł!, jej!  
+va - wow! (łoł!, jej!)  
 vacin - szczepionka  
 vade - dolina  
 vadosusan - konwalia majowa  
 vaf - pies  
 vagine - wagina  
 vaginitis - zapalenie pochwy  
-vah - wow!, łoł!, jej!  
-vakil - reprezentant (przedstawiciel)  
 vakile - reprezentować  
-val - wartość  
+• vakiler - reprezentant (przedstawiciel)  
+vale - wartość  
 Valis e Futuna nesia - Saint Vincent i Grenadyny  
 valse - walc  
 vampir - wampir  

@@ -1334,7 +1334,9 @@ ivia - tendencia
 
 jake - chaqueta  
 jame - recoger (juntar, reunir, acumular, recolectar, montar)  
-• jamia - colección (grupo, conjunto, montón)  
+• jamia - conjunto (grupo, montón)  
+• jamaje - colección  
+• ajame - reunión (junta, mitin)  
 jamokarde - cromo  
 Jamaika - Jamaica  
 jampe - saltar (brincar)  
@@ -1379,6 +1381,7 @@ jude - juzgar (fallo, juicio, criterio)
 • exjude - extrajudicial  
 judau - yudo  
 jul - joule (J)  
+junte - juntar (junta)  
 • junture - juntura  
 juntolexe - conjunción  
 jupiter - Jupiter  
@@ -2133,8 +2136,6 @@ misalo - por ejemplo
 miskine - pobre (miserable)  
 misre - egipcio  
 Misria - Egipto  
-mite - reunión (junta, mitin)  
-mite - encontrar  
 mitre - metro  
 mixe - mezclar  
 mixi alkol - cóctel  
@@ -3452,8 +3453,8 @@ urse - oso
 Uruguai - Uruguay  
 USA - estadounidense  
 uze - usar (aplicar)  
-uzable - utilizable (disponible)  
-uzer - usuario  
+• uzable - utilizable (disponible)  
+• uzer - usuario  
 uzernam - nombre de usuario  
 Uzbekia - Uzbekistán  
 va - guau (vaya)  
@@ -3464,11 +3465,9 @@ vaf - perro
 vafle - gofre  
 vagine - vagina  
 vaginitis - vaginitis  
-vah - guau (vaya)  
 vakile - representar  
-val - valor  
-vale - valorar  
-valu - valer  
+vale - valor (valer; valorar)  
+• valure - valor  
 Valis e Futuna nesia - Wallis y Futuna  
 valse - vals  
 vampir - vampiro  

@@ -594,6 +594,7 @@ ivia - tendência
 
 ## J  
 
+• ajame - encontrar  
 jamokarde - cromo  
 jambul - jambolão (jambo)  
 janel - janela  
@@ -948,7 +949,6 @@ mirde - fraco
 • tranmisor - transmissor  
 misalo - por exemplo  
 Misria - Egipto (Egito)  
-mite - encontrar  
 mitre - metro  
 mode - modo (maneira, jeito)  
 moke - árvore  
@@ -1486,10 +1486,8 @@ vaf - cão (cachorro)
 vafle - waffle  
 vagine - vagina  
 vaginitis - vaginite  
-vah - uau  
-val - valor (valia)  
-vale - valorar  
-valu - valer  
+vale - valor (valia; valer; valorar)  
+• valure - valor  
 valse - valsa  
 vampir - vampiro  
 van: - selva (floresta)  

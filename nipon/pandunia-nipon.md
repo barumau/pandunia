@@ -536,6 +536,7 @@ ivia - 傾向
 
 ## J  
 
+• ajame - 会合 (会議, ミーティング)  
 jambul - フトモモ  
 janel - 窓  
 janelovel - カーテン  
@@ -862,8 +863,6 @@ mirde - 微か
 • konmisia - 委員会  
 misalo - 例えば  
 Misria - エジプト  
-mite - 会合 (会議, ミーティング)  
-mite - 会う  
 mitre - メートル  
 mixi alkol - カクテル (混合酒)  
 moke - 木  
@@ -1347,15 +1346,14 @@ un - 一 (1)
 • unike - 唯一の  
 • uniko - だけ  
 uranium - ウラン  
-uzable - 使用可能  
+• uzable - 使用可能  
 va - わあ  
 vade - 谷  
 vadosusan - キミカゲソウ (スズラン)  
 vaf - 犬 (狗)  
 vafle - ワッフル  
 vagine - 膣 (ワギナ)  
-vah - わあ  
-val - 価値  
+vale - 価値  
 valse - ワルツ (円舞曲)  
 vampir - 吸血鬼  
 vampirbalsenter - コウモリダコ  

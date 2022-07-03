@@ -557,6 +557,7 @@
 **ivia** *taipumus* ← englanti:-ive, deu:-iv, ranska:-if, -ive, portugali:espanja:-ivo, venäjä:-ивный (-ivnyj)  
 **jake** *pikkutakki (jakku)* ← englanti:jacket, yleiskiina:夹克 (jiākè), venäjä:жакет (žaket), deu:Jacke, portugali:jaqueta  
 **jambul** *jambolaani* ← hindi:जामुन (jāmun), englanti:jambul, portugali:jambolão, arabia:جَمُّون (jammūn), suahili:zambarau  
+**jame** *koota (kerätä)* ← arabia: جَمَعَ‎ (jamaʿa), hindi:जमात (jamāt), suahili:jamaa,jamii, hausa:jam'iyya,jàma'à, yoruba:jànmọ́ọ̀, turkki:camia  
 **jampe** *hypätä (hyppiä)* ← englanti:jump, japani:ジャンプ (janpu), korea:점프 (jŏmp), bangla:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **janel** *ikkuna* ← portugali:janela, bangla:জানালা (janala), malaiji:jendela + tamili:சன்னல் (sannal), nya:zenera, Kongo:nêla  
 **jangle** *villi (kesytön)* ← englanti:ranska:jungle, espanja:jungla, portugali:jângal, venäjä:джунгли (džungli), hindi:जंगल (jangal), bangla:জঙ্গল (jônggôl), malaiji:jenggela, japani:ジャングル (janguru), korea:정글 (jeonggeul), turkki:cengel + suahili:jangwa  
@@ -906,7 +907,6 @@
 **mise** *lähettää* ← englanti:emit, espanja:remitir, portugali:emitir, ranska:émettre  
 **miskine** *kurja (raukka)* ← arabia:مِسْكِين (miskīn), persia:مسکین‎ (meskin), turkki:malaiji:miskin, suahili:maskini, hindi:, bangla:মিসকিন (miśkin), ranska:miskine, espanja:mezquino, portugali:mesquinho  
 **Misria** *Egypti* ← arabia:(miṣr), turkki:Mısır, suahili:Misri, hindi:मिस्र (misra), bangla:মিশর (miśôr)  
-**mite** *tapaaminen (kokous)* ← englanti:meet, ranska:meeting, espanja:mitin, japani:ミーティング (mītingu), hindi:मीटिंग (mīṭiṅg)  
 **mitre** *metri* ← englanti:turkki:metre, deu:malaiji:meter, ranska:mètre, espanja:portugali:metro, venäjä:метр (metr), arabia: متر‎ (mitr), yleiskiina:米 (mǐ), japani:メートル (mētoru), korea:미터 (miteo), vietnami:mét, hindi:मीटर (mīṭar), bangla:মিটার (miṭar), suahili:mita  
 **mixe** *sekoittaa* ← deu:mischen, venäjä:мешать (měšat'), puola:mieszać, englanti:mix, italia:miscelare, + hindi:मिश्रण (miśrān)  
 **mode** *tapa* ← ranska:englanti:mode, espanja:portugali:modo  
@@ -1007,7 +1007,7 @@
 **okeye** *kelpo (okei)* ← englanti:okay, espanja:turkki:malaiji:okey, portugali:OK, venäjä:окей (okej), arabia:أُوكِي‎‎‎ (ʾokey), hindi:ओके (oke), yleiskiina:OK (ōukèi), japani:オーケー (ōkē)  
 **okosui** *kyynel* ← tamili:கண்ணீர் (kaṇṇīr), malayalam:കണ്ണുനീർ (kaṇṇunīr), telugu:(kannīru), korea:눈물 (nunmul), vietnami:nước mắt, malaiji:air mata, thai:น้ำตา  
 **onde** *aalto (laine)* ← espanja:portugali:italia:onda, ranska:onde, malaiji:ombak  
-**onor** *kunnioitus (arvostus)* ← englanti:puola:espanja:honor, ranska:honneur, portugali:honra, turkki:onur  
+**onor** *kunnioitus (arvostus)* ← englanti:puola:espanja:honor, ranska:honneur, portugali:honra, venäjä:гонор (gonor), turkki:onur  
 **or** *korva* ← yleiskiina:耳 (ěr), englanti:ear, deu:Ohr, ranska:oreille, portugali:orelha, espanja:oreja  
 **orange** *appelsiini* ← englanti:orange, espanja:naranja, portugali:laranja, hindi:नारंगी (narangi), japani:(orenji), + ranska:orange, venäjä:оранжевый (oranževiy)  
 **orgazme** *orgasmi* ← englanti:orgasm, espanja:portugali:orgasmo, ranska:malaiji:orgasme, venäjä:оргазм (orgazm), turkki:orgazm, hindi:ओगाज़्म (ogāzma), japani:オーガズム (ōgazumu), korea:오르가슴 (oreugaseum)  
@@ -1418,9 +1418,8 @@
 **vaf** *koira* ← englanti:woof, ranska:ouaf, venäjä:гав (gav), turkki:hav, yleiskiina:汪 (wāng), japani:ワン (wan)  
 **vafle** *vohveli* ← englanti:waffle, deu:Waffel, venäjä:вафля (vaflya), yleiskiina:窝夫 (wōfū), japani:ワッフル (waffuru), korea:와플 (wapeul)  
 **vagine** *emätin (vagina)* ← englanti:ranska:vagina, portugali:espanja:vagina, venäjä:вагина (vagina), japani:ワギナ (wagina), korea:바기나 (bagina), turkki:vajina, malaiji:vagina  
-**vah** *oho (vau)* ← englanti:wow, ranska:ouah, yleiskiina:哇 (wā), japani:わあ (wā), korea:와 (wa), hindi:वाह (vāh), malaiji:wah  
-**vakil** ** ← arabia:وكيل‎ (wakīl), suahili:wakili, persia:وکیل‎ (vakil), hindi:वकील (vakīl), bangla:উকিল (ukil)  
-**val** *arvo* ← englanti:value, espanja:portugali:valor, ranska:valeur  
+**vakile** *edustaa* ← arabia: وكيل‎ (wakīl), hindi:वकील (vakīl), bangla:উকিল (ukil), suahili:wakili, persia: وکیل‎ (vakil)  
+**vale** *arvo (arvottaa)* ← englanti:value, espanja:portugali:valor, ranska:valeur  
 **valse** *valssi* ← englanti:waltz, ranska:valse, espanja:portugali:valsa, venäjä:вальс (val’s), yleiskiina:华尔兹 (huá'ěrzī), japani:ワルツ (warutsu), korea:왈츠 (walcheu)  
 **vampir** ** ← deu:Vampir, englanti:ranska:vampire, espanja:portugali:vampiro, venäjä:вампир (vampir) bangla:ভ্যাম্পায়ার (bhêmpayar), malaiji:vampir, japani:ヴァンパイア (vanpaia)  
 **van:** *metsä* ← hindi:वन (van), bangla:বন (bôn), malaiji:jav:wana, pandzabi:ਵਣ (vaṇ), tamili:வனம் (vaṉam), kannada:ವನ (vana)  
@@ -1574,7 +1573,6 @@
 **• historia** *historia (oppiaine)* ← englanti:history, espanja:suahili:historia, portugali:história, ranska:histoire, venäjä:история (istoriya)  
 **• imperia** *keisarikunta* ← englanti:empire, espanja:imperio, portugali:império, venäjä:империя (imperiya), arabia:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), persia:امپراطوری‎ (emperâturi), malaiji:empayar  
 **• infetion** *infektio (tartunta)* ← englanti:ranska:infection, deu:Infektion, espanja:infección, portugali:infecção, venäjä:инфекция (infektsiya), turkki:enfeksiyon, malaiji:infeksi  
-**• jamia** *yhteisö (kokoontuminen, kollektiivi)* ← arabia:(jamʿiyya), hausa:jam'iyya, suahili:jamii, turkki:camia  
 **• juder** *tuomari* ← englanti:judge, ranska:juge, espanja:juez, portugali:juiz, hindi:जज (jaj), bangla:জজ (jôj), suahili:jaji + venäjä:суд (sud)  
 **• konmisia** *komission (komitea)* ← venäjä:комиссия (komissiya), puola:komisja, englanti:ranska:commission, deu:Kommission, espanja:comisión, portugali:comissão, turkki:komisyon, hindi:कमीशन (kamīśan), bangla:কমিশন (kômiśôn), malaiji:komisi  
 **• konputer** *tietokone* ← englanti:computer, espanja:computadora, portugali:computador, venäjä:компьютер (komp’uter), arabia:كَمْبْيُوتَر‎ (kambyūtar), suahili:kompyuta, hindi:कंप्यूटर (kampyūṭar), bangla:কম্পিউটার (kômpiuṭar), malaiji:komputer, japani:コンピューター (konpyūtā)  

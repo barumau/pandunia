@@ -162,9 +162,10 @@ Aruba - Aruba
 arvio (arvostelu, kritiikki) - krite  
 arvioida (arvostella, kritisoida) - krita  
 arvioida - yagife  
-arvo - val  
+arvo (arvottaa) - vale  
 arvostelija (kriitikko) - kriter  
-arvottaa - vale  
+arvotavarat - valaje  
+arvotus - valure  
 ase - arme  
 aseksuaali - ansexe  
 asema (satama, lentokenttä) - porte  
@@ -342,6 +343,7 @@ edetä (päästä eteenpäin) - procese
 edistyä (edetä, harppoa eteenpäin) - progrese  
 edistää - progresion  
 edustaa - vakile  
+edustaja (asianajaja) - vakiler  
 Egypti - Misria  
 egyptiläinen - misre  
 ehdottaa (ehdotus) - propoze  
@@ -1254,6 +1256,7 @@ koivu - berze
 kokata (laittaa ruokaa) - kuke  
 kokki - kuker  
 koko (kokonainen) - hole  
+kokoelma - jamaje  
 kokonaisuus - holia  
 kokonaisvaltainen (holistinen) - holike  
 kolera - holera  
@@ -1690,7 +1693,6 @@ lähetti (lähetyssaarnaaja) - misioner
 lähettiläs - dayangiler  
 lähettäjä (lähetin) - miser  
 lähettää - mise  
-lähettää - mise  
 lähettää - exmise  
 lähetys - misia  
 lähetys - mision  
@@ -2103,7 +2105,6 @@ ohjaaja (pilotti, luotsi) - piloter
 ohjelma - program  
 ohjelmoija - programer  
 oho (vau) - va  
-oho (vau) - vah  
 ohra - jau  
 oikea (paikkansapitävä; korjata oikeaksi) - sahe  
 oikea puoli - raite  
@@ -2121,7 +2122,6 @@ olkapää (hartia) - kante
 olla - si  
 olla edessä (olla haittona) - prevene  
 olla eri mieltä - aloraye  
-olla jkn arvoinen - valu  
 olla jtkn mieltä (pitää jnkn) - raye  
 olla nimeltään - name  
 olla olemassa - zay  
@@ -2398,7 +2398,7 @@ pitäisi - selu
 pitää (tykätä, olla tyytyväinen jstkn) - suku  
 pitää jnkn (suhtautua) - fere  
 pitää parempana (pitää etusijalla) - prefere  
-pitää yhdessä - jamohafize  
+pitää yhdessä - jamokape  
 planeetta - planete  
 plastinen (muovailtava) - plaste  
 platina - platinium  
@@ -3140,7 +3140,7 @@ tapa (perinne; tavanomainen, perinteinen) - rite
 tapa (rutiini) - rutin  
 tapa (tavallinen) - ade  
 tapa - mode  
-tapaaminen (kokous) - mite  
+tapaaminen (kokoontuminen, kokous) - ajame  
 tapaus (seikka) - kas  
 tapetti - murkaguze  
 tappaa - mortife  
@@ -3168,7 +3168,6 @@ taulukoida - tablate
 taulutietokone (tabletti) - table konputer  
 taulutietokone (tabletti) - tablete konputer  
 tauti - pate  
-tavata - mite  
 te - tumon  
 tee - cai  
 teehuone (kahvila) - caikan  

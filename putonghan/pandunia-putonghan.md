@@ -555,6 +555,7 @@ ivia - 趋势
 
 ## J  
 
+• ajame - 会议  
 jambul - 閻浮樹  
 janel - 窗戶  
 janelfrem - 窗框  
@@ -865,8 +866,6 @@ mirde - 微弱的
 • konmisia - 委员会  
 misalo - 比如  
 Misria - 埃及  
-mite - 会议  
-mite - 聚会  
 mitre - 米 (公尺)  
 moke - 树木  
 mokoban - 木板  
@@ -1340,8 +1339,7 @@ vadosusan - 鈴蘭
 vaf - 狗  
 vafle - 窝夫  
 vagine - 阴道  
-vah - 哇  
-val - 价值  
+vale - 价值  
 valse - 华尔兹  
 vampir - 吸血鬼  
 van: - 森林  

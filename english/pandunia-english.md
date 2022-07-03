@@ -1614,8 +1614,10 @@ ivia - tendency (inclination)
 jake - jacket  
 Jakarta - Jakarta  
 jame - collect (gather, bring together, assemble)  
-• jamia - collection (congregation, assembly)  
-jamohafize - hold together  
+• jamia - gathering (congregation, assembly)  
+• jamaje - collection  
+• ajame - meet (get together; meeting, gathering)  
+jamokape - hold together  
 jamokarde - trading card  
 Jamaika - Jamaica  
 jambul - jamul (jambul, rose apple)  
@@ -2528,10 +2530,9 @@ mire - reflect
 • miror - mirror  
 • amire - admire  
 mirsonde - echo  
-Mirande - Miranda  
+Miranda - Miranda  
 mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
 mirdu - fade  
-mise - send  
 mise - send (emit, transmit)  
 • misia - mission (transmission, emission)  
 • misaje - message  
@@ -2550,8 +2551,6 @@ misalo - for example
 miskine - poor (miserable)  
 misre - Egyptian  
 Misria - Egypt  
-mite - meeting (gathering)  
-mite - meet  
 mitre - meter (100 cm)  
 mixe - mix (blend)  
 mixi alkol - cocktail  
@@ -4096,8 +4095,8 @@ Uruguai - Uruguay
 Urusalem - Jerusalem  
 USA - American (US)  
 uze - use (employ, apply)  
-uzable - usable (available)  
-uzer - user  
+• uzable - usable (available)  
+• uzer - user  
 uzernam - username  
 Uzbekia - Uzbekistan  
 va - wow! (gee!)  
@@ -4108,12 +4107,12 @@ vaf - dog
 vafle - waffle  
 vagine - vagina  
 vaginitis - vaginitis  
-vah - wow! (gee!)  
-vakil - representative (proxy, agent)  
 vakile - represent  
-val - value (worth)  
-vale - value (evaluate)  
-valu - be worth  
+• vakiler - representative (agent, proxy, attorney)  
+• vakilize - entrust (assign, authorize, delegate)  
+vale - value (worth; evaluate)  
+• valaje - valuables  
+• valure - value (evaluation)  
 Valis e Futuna nesia - Wallis and Futuna Islands  
 valse - waltz  
 vampir - vampire  

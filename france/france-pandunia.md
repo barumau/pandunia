@@ -1196,7 +1196,6 @@ osmium - osmium
 otite - oritis  
 ou - o  
 ouah - va  
-ouah - vah  
 oublier - dememe  
 oubliette (cul de basse-fosse) - geonici prizon  
 oui - ya  
@@ -1743,7 +1742,8 @@ user - uze
 vagine - vagine  
 vaginite - vaginitis  
 vaisseau spatial - kosmonau  
-valeur - val  
+valeur (évaluer) - vale  
+valeur - valure  
 vallée (oued) - vade  
 valse - valse  
 vampire - vampir  
@@ -1881,7 +1881,6 @@ zèbre - zebra
 étudier (étude) - stude  
 étymologie - logaslia  
 été - garmomosim  
-évaluer - vale  
 évangile - evangil  
 éveillé - desome  
 éventail - sanze  
