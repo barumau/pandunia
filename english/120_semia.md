@@ -65,7 +65,7 @@ The base word is some other type of concrete object.
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **dobe**   | 'brick'      | 'made of brick'  | 'to build with bricks' |
+| **ite**    | 'brick'      | 'made of brick'  | 'to build with bricks' |
 | **aure**   | 'gold'       | 'golden'         | 'to gild, to cover with gold' |
 
 ### Words for people
@@ -230,7 +230,7 @@ If you are in a situation where you can apply freedom to an object,
 you can probably guess that the object is likely a human object or an animate object,
 and then you can imagine what freedom does to them.
 
-**mi hure yemon.**
+**mi hure yamen.**
 – I free them. ~ I liberate them.
 
 The thing called *mother* is not any different.

@@ -1,4 +1,5 @@
 # english–pandunia
+"one (people, ""you"")" - men  
 's (attributive postposition) - su  
 -ic (a person or thing with specific character) - ike  
 @ symbol - adresoharfe  
@@ -1768,7 +1769,7 @@ Hawaii - Havai
 Hawaiian archipelago - Havai nesia  
 hay - gancau  
 hazard (chance; random) - zar  
-he or she or it - ye  
+he or she or it - ya  
 head - sar  
 headache - sartunge  
 headmaster (principal) - xulxefe  
@@ -2024,7 +2025,7 @@ ism (doctrine, ideology, religion, etc) - isme
 Israel - Israel  
 issue (affair, concern) - sualoteme  
 Italy - Italia  
-its (his, her) - ye su  
+its (his, her) - ya su  
 ivory - gaja dante  
 
 ## J  
@@ -2409,11 +2410,9 @@ Maya - mayan
 maybe (perhaps, possibly) - ablo  
 Mayotte - Mayote  
 mean (cruel) - zalime  
-mean (signify) - mene  
 mean (signify) - seme  
-meaning (signification) - men  
-measure (take measurements) - metre  
-measurement - metre  
+mean (signify; meaning, signification) - mene  
+measure (measurement) - metre  
 meat (flesh) - manse  
 Mecca - Makah  
 medallion (medal) - medal  
@@ -2813,7 +2812,7 @@ otter - lontre
 Ottoman - osman  
 Ottoman Empire - Osmani Imperia  
 ouch (ow, alas) - ai  
-our - mimon  
+our - mimen su  
 outcast (pariah) - paraye  
 outlook (view, philosophy) - filsof  
 output - expute  
@@ -3877,7 +3876,7 @@ systemic - sisteme
 
 ## T  
 
-table - meze  
+table - meza  
 table of contents (inventory) - inliste  
 tablecloth - mezatexe  
 tablette computer - table konputer  
@@ -3970,7 +3969,7 @@ thanks to - a xukre de
 that is (in other words, i.e., alias) - alonamo  
 the - la  
 the Grenadines - Grenadin nesia  
-their - yemon su  
+their - yamen su  
 theism - devisme  
 theist - deviste  
 theocracy - deukratia  
@@ -3979,7 +3978,7 @@ theory - teoria
 theosophy - deusofia  
 there - a le  
 thermometer - termometrer  
-they - yemon  
+they - yamen  
 thick - grose  
 thickness - grosia  
 thief - corer  
@@ -4162,7 +4161,7 @@ understand (realize) - ahe
 unexpected - anprevide  
 unfinished (infinite) - anfinite  
 union - unia  
-unit (measurement) - metrun  
+unit (measurement) - metrune  
 unite - una  
 united - unite  
 United Arab Emirates - Uni Arabi Amiria (UAA)  
@@ -4302,7 +4301,7 @@ wax - mum
 wax seal - mumcape  
 way (manner, mode) - mode  
 way (road) - dau  
-we - mimon su  
+we - mimen  
 weak (feeble) - anbale  
 wealth (fortune) - ricia  
 weapon (arms) - arme  
@@ -4402,7 +4401,7 @@ yeast - hamir
 yellow - limonrange  
 yellow starthistle - solocentaur  
 Yemen - Yemen  
-yes - ya  
+yes - ye  
 yesterday - cendeno  
 yoga - yoge  
 yogi - yogiste  
@@ -4411,10 +4410,10 @@ yoke - yuge
 Yoruba (language and people) - yoruba  
 yotta- - yota  
 you (singular) - tu  
-you all - tumon  
+you all - tumen  
 young (juvenile) - yune  
 your - tu su  
-your - tumon su  
+your - tumen su  
 youth (young age) - yunia  
 youth (young person) - yunike  
 ytterbium - yterbium  

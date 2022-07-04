@@ -839,12 +839,12 @@ metal - 金属
 metalbede - 金敷き (鉄床)  
 metallin - 線 (針金)  
 metal tul - 金物  
-meze - 机 (テーブル)  
+meza - 机 (テーブル)  
 mezastan - 台地 (高地)  
 mezatexe - テーブル掛け  
 mi - 私  
-mimon su - 私たち  
 mi su - 私の  
+mimen - 私たち  
 mien - ヌードル  
 • inmigre - 移住する (移民する)  
 • inmigrer - 移民 (移住者)  
@@ -1328,8 +1328,8 @@ tripike - 三つまた (トライデント)
 truke - 悪戯 (詐欺)  
 truke - 騙す  
 tu - あなた  
-tumon - あなたたち  
 tu su - あなたの  
+tumen - あなたたち  
 tulium - ツリウム  
 tune - 鮪 (ツナ)  
 tunge - 痛み  
@@ -1433,7 +1433,6 @@ xure - 開始
 
 ##   
 
-ya - はい  
 yahve - ヤハウェ (エホバ)  
 yam - 食べ物 (食事)  
 yame - 食べる  
@@ -1444,6 +1443,7 @@ yasen - 秦皮
 yau - 必要  
 • beyau - 必要  
 • anbeyau - 不要  
+ye - はい  
 yege - 狩り (狩猟)  
 jen - 人  
 • dusojen - 敵  

@@ -531,13 +531,13 @@ The auxiliary verb **be** is used when the object of the action comes first in t
 but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ye no bil be yam.
+    Pandunia:  ya no bil be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi cing ye yam kafe.
+    Pandunia:  mi cing ya yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
@@ -551,7 +551,7 @@ _am, is, are, was, were..._
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  yemon si aple.
+    Pandunia:  yamen si aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
  

@@ -942,11 +942,11 @@ mester - мастер
 metalbede - наковальня  
 metrograf - карта  
 metrografia - картография  
-meze - стол  
+meza - стол  
 mezatexe - скатерть  
 mi - я  
-mimon - наш  
-mimon su - мы  
+mimen - мы  
+mimen su - наш  
 midi - средний  
 migre - миграция (переезжать)  
 • inmigre - иммигрировать  
@@ -1527,7 +1527,7 @@ tripike - трезубец
 truke - обман  
 truke - обмануть  
 tu - ты  
-tumon su - ваш  
+tumen su - ваш  
 tulium - тулий  
 tune - тунец  
 tundromonte - фьельды  
@@ -1655,7 +1655,7 @@ xure - начало
 
 ##   
 
-ya - да  
+yamen su - их  
 yahve - Яхве (Иегова)  
 yamfite - овощ  
 yamyau - голод  
@@ -1664,7 +1664,7 @@ yasen - ясень
 yatimokan - детский дом  
 yau - нуждаться (нужда)  
 • beyau - нужный  
-yemon su - их  
+ye - да  
 yege - охотиться  
 • yeger - егерь  
 Yemen - Йемен  

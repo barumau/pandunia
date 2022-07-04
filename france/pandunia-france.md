@@ -1083,11 +1083,11 @@ metalbede - enclume
 metallin - fil de fer  
 metrograf - carte  
 metrografia - cartographie  
-meze - table  
+meza - table  
 mezatexe - nappe  
 mi - je (me)  
-mimon - notre  
-mimon su - nous  
+mimen - nous  
+mimen su - notre  
 midi - medio  
 migre - migration (s'installer, déménager)  
 • inmigre - immigrer  
@@ -1699,7 +1699,7 @@ tri - trois (3)
 truke - ruse  
 truke - escroquer  
 tu - tu  
-tumon su - votre  
+tumen su - votre  
 tulium - thulium  
 tune - thon  
 Tunisia - Tunisie  
@@ -1833,7 +1833,9 @@ xure - début (commencement)
 
 ##   
 
-ya - oui  
+ya - il ou elle  
+yamen - ils ou elles  
+yamen su - leur  
 yahve - Yahweh (Jéhovah)  
 yamfite - légume  
 yamyau - faim  
@@ -1844,9 +1846,7 @@ yau - besoin (avoir besoin de)
 • yavike - nécessiteux (dans le besoin)  
 • beyau - nécessaire  
 • anbeyau - inutile  
-ye - il ou elle  
-yemon - ils ou elles  
-yemon su - leur  
+ye - oui  
 yege - chasser  
 jen - personne  
 • dusojen - ennemi  

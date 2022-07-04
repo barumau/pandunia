@@ -2393,8 +2393,8 @@ mem.not:|memnote||||memorandum (memo)||memorándum (nota)||меморандум|
 mem<de:|• dememe||||forget|oublier|olvidar|esquecer|забывать|نَسِيَ|忘记|忘れる|잊다|quên|भूलना|ভুলে যাওয়া|lupa|kusahau|unutmak|forgesi|unohtaa|zapominać (zapomnieć)
 memb:a|membe||||belong (be a member)||pertenecer (ser miembro de)||||||||||||||kuulua (olla jäsenenä)|należeć (być członkiem)
 memb.r:|member|||eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|member (component)||miembro (componente)|||||||||||||membro|jäsen (osatekijä, komponentti)|członek
-men:|men|||ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung|meaning (signification)||significado (acepción)||||意义|||||||||signifo|merkitys|znaczenie
-men:a|mene||||mean (signify)||significar||||||||||||||merkitä (tarkoittaa)|znaczyć
+men|men|||eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen|"one (people, ""you"")"||||||||||||||||ihmiset (passiivin pronomini)|
+men:|mene|||eng:mean, deu:Meinung + ara:(maʿnā), hin:मअनी (maani), fas:urd:(ma'ni), swa:maana, haw:manaʻo|mean (signify; meaning, signification)||significar (significado, acepción)||||意义|||||||||signifo|merkitä (tarkoittaa; merkitys)|znaczyć (znaczenie)
 mendeleu.ium:|mendelevium|kimium 101|Md|eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم|mendelevium|mendélévium|mendelevio|mendelévio|менделевий|مندلفيوم|钔|メンデレビウム|멘델레븀|menđelevi|मेण्डेलीवियम|মেন্ডেলিভিয়াম|mendelevium|mendelevi|mendelevyum||mendelevium|
 mening:|meninge|||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)|méninge|meninge|meninge|||脑脊膜||||||||||aivokalvo|opona mózgowa
 mening.itis:|meningitis||||meningitis||meningitis||||||||||||||aivokalvontulehdus|zapalenie opon mózgowych
@@ -2412,19 +2412,18 @@ metal.lin:|metallin||||wire|fil de fer|alambre (hilo)|arame|||线 (铁丝)|線 (
 metal.zang.r:|metalzanger||||blacksmith (iron forger)||herrero||||铁匠||||||||||seppä|kowal
 metal~tul:|metal tul||||hardware (ironware, equipment)||ferretería|||||金物||||||||||
 metod:|metode|||eng:method, spa:por:método, fra:méthode, rus:ме́тод (métod), tur:metod, may:metode|method (means)||método|||||||||||||metodo|keino (menetelmä, metodi)|metoda, sposób
-metr:|metre|||eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|measurement||medida|||||||||||||mezuro|mitta (koko, määrä)|miara
-metr:a|metre||||measure (take measurements)||medir (tomar las medidas)|||||||||||||mezuri|mitata|zmierzyć
-metr.graf:|metrograf|||hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ|map (chart)|carte|mapa|carta geográfica|карта||地图||||नक़्शा (मानचित्र)||peta (map)||harita||kartta|mapa
-metr.graf:ia|metrografia||||cartography|cartographie|cartografía|cartografia|картография||地图学||||||||||kartogratia|kartografia
-metr.un:|metrun||||unit (measurement)||unidad (medida)|||||||||||||||jednostka miary
+metr:|metre|||eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|measure (measurement)||medir (medida)|||||||||||||mezuri|mitata (mitta, koko, määrä)|miara (zmierzyć)
 metr<para:|• parametre||||parameter||||||||||||||||parametri (oheisarvo)|
-meza:|meze|||por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|table|table|mesa|mesa|стол|طَاوِلَة|桌子|机 (テーブル)|||मेज़||meja|meza|masa|tablo|pöytä|stół
+metr~graf:|metrograf|||hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ|map (chart)|carte|mapa|carta geográfica|карта||地图||||नक़्शा (मानचित्र)||peta (map)||harita||kartta|mapa
+metr~graf:ia|metrografia||||cartography|cartographie|cartografía|cartografia|картография||地图学||||||||||kartogratia|kartografia
+metr~un:|metrune||||unit (measurement)||unidad (medida)|||||||||||||||jednostka miary
+meza:|meza|||por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|table|table|mesa|mesa|стол|طَاوِلَة|桌子|机 (テーブル)|||मेज़||meja|meza|masa|tablo|pöytä|stół
 meza.stan:|mezastan||||plateau (tableland)||meseta|||||台地 (高地)||||||||||płaskowyż (plateau)
 meza.tex:|mezatexe||||tablecloth|nappe|mantel|toalha de mesa|скатерть|غِطَاء اَلْمَائِدَة‎|桌布|テーブル掛け|식탁보|khăn trải bàn|मेज़पोश|টেবিলক্লথ|alas meja||masa örtüsü|tablotuko|pöytäliina|obrus
 mi:|mi|bine|pron.|eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|I (me)|je (me)|yo|eu (me)|я|أَنَا‎|我|私|||मैं||saya (aku)|mimi||mi|minä|ja, mnie
-mi.mon:|mimon|bine|poss.pron.||our|notre|nuestro|nosso|наш||我们的||||हमारा|আমাদের|||bizim|nia|meidän|
-mi.mon~ su:|mimon su|bine|pron.||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
-mi~ su:|mi su|bine|poss.pron.||my||mi|||||私の||||||||mia|minun|mój
+mi: su:|mi su|bine|poss.pron.||my||mi|||||私の||||||||mia|minun|mój
+mi.men:|mimen|bine|pron.||we|nous|nosotros|nós|мы|نَحْنُ|我们|私たち|||हम|আমরা|kami (kita)|||ni|me|my
+mi.men: su:|mimen su|bine|poss.pron.||our|notre|nuestro|nosso|наш||我们的||||हमारा|আমাদের|||bizim|nia|meidän|
 mianma:|Myanma|gogia|MM||Myanmar (Burma)||Myanmar (Birmania)|||||||||||||Birmo|Myanmar (Burma)|Mjanma, Birma
 mid:|mide||||middle (the part in between)||medio|meio (metade)|||||||||||||väli|środek
 mid:i|midi|||spa:medio, eng:medium, hin:माद्धयम (mādhyam)|medium (intermediate, mean)|medio|medio (mediano)|moyen|средний|مُتَوَسِّط|中型|||||||||mezo|keskiverto (keski-)|średni
@@ -3966,9 +3965,9 @@ triton:|Triton|planete 8 lun 1|||Triton|||||||||||||||||
 truk:|truke|||eng:trick, deu:Trick, fra:truc, spa:truco, por:truque, hun:trükk, rus:трюк (tr’uk)|trick (ruse, fraud)|ruse|truco|truque (fraude)|обман||伎俩|悪戯 (詐欺)||||||||||sztuczka (podstęp, oszustwo)
 truk:a|truke||||trick (cheat, deceive)|escroquer|engañar|enganar|обмануть||耍花招|騙す||||||||||oszukać (oszukiwać
 tu:|tu|bine|pron.|fra:por:spa:tu, hin:तू (tū), rus:ты (ty)|you (singular)|tu|tú (usted)|tu|ты||你|あなた||||||||vi (ci)|sinä|ty, ciebie
-tu.mon:|tumon|bine|pron.||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
-tu.mon~ su:|tumon su|bine|poss.pron.||your|votre|vuestro|vosso|ваш||你们的|||||||||via|teidän|
-tu~ su:|tu su|bine|poss.pron.||your||tu|||||あなたの||||||||via (cia)|sinun|twój
+tu: su:|tu su|bine|poss.pron.||your||tu|||||あなたの||||||||via (cia)|sinun|twój
+tu.men:|tumen|bine|pron.||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
+tu.men: su:|tumen su|bine|poss.pron.||your|votre|vuestro|vosso|ваш||你们的|||||||||via|teidän|
 tualet:|tualete|||fra:toilettes, eng:may:toilet, por:toalete, rus:туалет (tualet), tur:tuvalet, fas:توالت‎ (tuâlet), hin:टॉयलेट (ṭŏyaleṭ), jpn:トイレ (toire)|toilet (WC)||inodoro (wáter, retrete)||||||||||||||vessa|taleta, WC
 tub:|tube|||spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu|tube (pipe)||tubo|||||||||||||tubo|putki (tuubi)|tuba, rura
 tuh:a|tuhe|||hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek|spit||escupir (bufar)|||||||||||||sputi|sylkeä|pluć
@@ -4266,7 +4265,10 @@ xur:|xure|||ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शु
 xut:|xute|||zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)|skill (art, craft)||dotes (arte, habilidad)||||技术||||||||||taito|umiejętność (kompetencja)
 xut.ik:|• xutike||||skillful (crafty)||hábil||||熟练||||||||||taitava|umiejętny (wprawny)
 y|Y||||Y|||||||||||||||||
-ya:|ya|||eng:yeah, deu:ja, may:ya + zho:呀 (ya)|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
+ya:|ya|bine|pron.|hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y|he or she or it|il ou elle|él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
+ya: su:|ya su|bine|poss.pron.||its (his, her)||||||||||||||||hänen (sen)|
+ya.men:|yamen|bine|pron.||they|ils ou elles|ellos o ellas||||他们|||||||||ili|he|oni
+ya.men: su:|yamen su|bine|poss.pron.||their|leur|||их||他们的||||उनका|||||ilia|heidän|
 yag:|yage|||kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), zho:约 (yuē) + tur:yaklaşık|about (approximately, nearly, almost)||aproximadamente||||||||||||||noin (arviolta, suunnilleen)|około; przybliżony
 yag.if:|yagife||||estimate (approximate)||estimar (apriximarse a)||||||||||||||arvioida|oszacować, szacować, przybliżyć, przybliżać
 yag~nes:|yagones||||peninsula||península|||||||||||||||półwysep
@@ -4292,10 +4294,7 @@ yau:|yau|||zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yê
 yau.ik:|• yavike||||needy (lacking)|nécessiteux (dans le besoin)|necesitado|necessitado|||||||||||||puutteenalainen|
 yau<be:|• beyau||||necessary (needed)|nécessaire|necesario|necessário|нужный|ضَرُورِيّ‎|必要的|必要|필요하다||ज़रूरी||||||tarpeellinen|potrzebny
 yau<be<n:|• anbeyau||||unnecessary (extraneous, unneeded)|inutile|innecesario|||||不要|||||||||tarpeeton|niepotrzebny
-ye:|ye|bine|pron.|hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y|he or she or it|il ou elle|él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
-ye.mon:|yemon|bine|pron.||they|ils ou elles|ellos o ellas||||他们|||||||||ili|he|oni
-ye.mon~ su:|yemon su|bine|poss.pron.||their|leur|||их||他们的||||उनका|||||ilia|heidän|
-ye~ su|ye su|bine|poss.pron.||its (his, her)||||||||||||||||hänen (sen)|
+ye:|ye|||eng:yeah + may:ya + kor:예 (ye)|yes|oui|sí|sim|да||对 (是)|はい|네 (예)||हाँ||ya||evet|jes|kyllä|tak
 yeg:|yege|||deu:jagen + eng:jaeger, rus:егерь (jeger’)|hunting (fishing)|chasser|cazar (pescar)|caçar|охотиться||狩猎|狩り (狩猟)||||||||ĉasi|pyytää (metsästää, kalastaa)|polować (łowić)
 yeg.r:|• yeger||||hunter (chasseur)||cazador||егерь|صياد‎|狩人|||||||||ĉasisto|pyytäjä (metsästäjä, kalastaja)|łowca (myśliwy)
 yeg~pex:|yege pexe||||catch fish||pescar|||||||||||||||łapać rybę

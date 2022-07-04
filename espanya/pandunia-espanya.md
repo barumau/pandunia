@@ -2052,8 +2052,7 @@ memnote - memorándum (nota)
 • dememe - olvidar  
 membe - pertenecer (ser miembro de)  
 member - miembro (componente)  
-men - significado (acepción)  
-mene - significar  
+mene - significar (significado, acepción)  
 mendelevium - mendelevio  
 meninge - meninge  
 meningitis - meningitis  
@@ -2068,18 +2067,17 @@ metallin - alambre (hilo)
 metalzanger - herrero  
 metal tul - ferretería  
 metode - método  
-metre - medida  
-metre - medir (tomar las medidas)  
+metre - medir (medida)  
 metrograf - mapa  
 metrografia - cartografía  
-metrun - unidad (medida)  
-meze - mesa  
+metrune - unidad (medida)  
+meza - mesa  
 mezastan - meseta  
 mezatexe - mantel  
 mi - yo  
-mimon - nuestro  
-mimon su - nosotros  
 mi su - mi  
+mimen - nosotros  
+mimen su - nuestro  
 Myanma - Myanmar (Birmania)  
 mide - medio  
 midi - medio (mediano)  
@@ -3394,9 +3392,9 @@ Trinidade e Tobago - Trinidad y Tobago
 truke - truco  
 truke - engañar  
 tu - tú (usted)  
-tumon - ustedes  
-tumon su - vuestro  
 tu su - tu  
+tumen - ustedes  
+tumen su - vuestro  
 tualete - inodoro (wáter, retrete)  
 tube - tubo  
 tuhe - escupir (bufar)  
@@ -3645,7 +3643,8 @@ xute - dotes (arte, habilidad)
 
 ##   
 
-ya - sí  
+ya - él o ella  
+yamen - ellos o ellas  
 yage - aproximadamente  
 yagife - estimar (apriximarse a)  
 yagones - península  
@@ -3669,8 +3668,7 @@ yau - necesitar (necesidad)
 • yavike - necesitado  
 • beyau - necesario  
 • anbeyau - innecesario  
-ye - él o ella  
-yemon - ellos o ellas  
+ye - sí  
 yege - cazar (pescar)  
 • yeger - cazador  
 yege pexe - pescar  

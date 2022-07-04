@@ -1108,19 +1108,18 @@ mem - memoro
 meme - memori  
 • dememe - forgesi  
 member - membro  
-men - signifo  
+mene - signifo  
 Merkur - Merkuro  
 metal - metalo  
 metallin - drato  
 metode - metodo  
-metre - mezuro  
 metre - mezuri  
-meze - tablo  
+meza - tablo  
 mezatexe - tablotuko  
 mi - mi  
-mimon - nia  
-mimon su - ni  
 mi su - mia  
+mimen - ni  
+mimen su - nia  
 Myanma - Birmo  
 midi - mezo  
 mien - nudelo  
@@ -1724,9 +1723,9 @@ trendau - fervojo
 tri - tri (3)  
 tribe - tribo  
 tu - vi (ci)  
-tumon - vi ĉiu  
-tumon su - via  
 tu su - via (cia)  
+tumen - vi ĉiu  
+tumen su - via  
 tube - tubo  
 tuhe - sputi  
 tul - ilo  
@@ -1851,7 +1850,9 @@ xure - komenci
 
 ##   
 
-ya - jes  
+ya - li aŭ ŝi aŭ ĝi  
+yamen - ili  
+yamen su - ilia  
 yahve - Javeo (Jehovo)  
 yale - rapidigi  
 yame - manĝi (trinki)  
@@ -1860,9 +1861,7 @@ yamkamar - manĝoĉambro
 yamyau - malsato  
 yang - speco (tipo, stilo)  
 yau - bezoni  
-ye - li aŭ ŝi aŭ ĝi  
-yemon - ili  
-yemon su - ilia  
+ye - jes  
 yege - ĉasi  
 • yeger - ĉasisto  
 Yemen - Jemeno  

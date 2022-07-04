@@ -6,11 +6,11 @@ Pronouns can substitute nouns and noun phrases.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi**      | **mimon**    |
+| **mi**      | **mimen**    |
 | I, me       | we           |
-| **tu**      | **tumon**    |
+| **tu**      | **tumen**    |
 | you         | you all      |
-| **ye**      | **yemon**    |
+| **ya**      | **yamen**    |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
@@ -20,11 +20,11 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **mimon su** |
+| **mi su**   | **mimen su** |
 | my          | our          |
-| **tu su**   | **tumon su** |
+| **tu su**   | **tumen su** |
 | your        | your         |
-| **ye su**   | **yemon su** |
+| **ya su**   | **yamen su** |
 | his or her  | their        |
 
 
@@ -40,19 +40,19 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 
 **mi vide se**
 – I see myself.  
-**ye vide se**
+**ya vide se**
 – She sees herself. / He sees himself. / It sees itself.  
-**mimon vide se.**
+**mimen vide se.**
 – We see ourselves.
 
-The expression **semon** is used as the reciprocal pronoun.
+The expression **semen** is used as the reciprocal pronoun.
 
-**semon**
+**semen**
 – each other, one another
 
-**mi e tu vide semon.**
+**mi e tu vide semen.**
 – Me and you see each other.  
-**mimon vide semon.**
+**mimen vide semen.**
 – We see each other.
 
 
@@ -106,10 +106,10 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ni si mau. ye vol yam go muxu.**
+**ni si mau. ya vol yam go muxu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ten un mau e un vaf. la vaf si dai. ye yam poli yam.**
+**mi ten un mau e un vaf. la vaf si dai. ya yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 

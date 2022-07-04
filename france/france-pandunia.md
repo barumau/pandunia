@@ -821,8 +821,8 @@ hôtel - hotel
 
 ## I  
 
-il ou elle - ye  
-ils ou elles - yemon  
+il ou elle - ya  
+ils ou elles - yamen  
 imitateur (mime) - mimer  
 imiter - mime  
 immigrant - inmigrer  
@@ -934,7 +934,7 @@ le (la) - la
 lent - lente  
 lentille - lense  
 Lettonie - Latvia  
-leur - yemon su  
+leur - yamen su  
 lexical - lexike  
 leçon - xul  
 libellule - libele  
@@ -1129,8 +1129,8 @@ nord - norde
 norme (normal) - norme  
 nostalgie - nostalgia  
 note - note  
-notre - mimon  
-nous - mimon su  
+notre - mimen su  
+nous - mimen  
 nouveau - nove  
 nouveau-né - novojene  
 nouveauté - novia  
@@ -1198,7 +1198,7 @@ ou - o
 ouah - va  
 oublier - dememe  
 oubliette (cul de basse-fosse) - geonici prizon  
-oui - ya  
+oui - ye  
 ours - urse  
 ovale - ovoide  
 oxyde - oxide  
@@ -1629,7 +1629,7 @@ s’accroupir - inside
 
 ## T  
 
-table - meze  
+table - meza  
 tableau (panneau) - ban  
 tablette de chocolat - coklatobaton  
 tabula rasa - razi table  
@@ -1794,7 +1794,7 @@ voir - vide
 voire (même) - hato  
 volcan - hogosan  
 voler (vol) - fei  
-votre - tumon su  
+votre - tumen su  
 vouloir - vol  
 voyelle - zungofon  
 voyelle - vokal son  

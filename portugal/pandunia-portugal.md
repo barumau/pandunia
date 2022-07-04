@@ -913,11 +913,11 @@ metalbede - bigorna
 metallin - arame  
 metrograf - carta geográfica  
 metrografia - cartografia  
-meze - mesa  
+meza - mesa  
 mezatexe - toalha de mesa  
 mi - eu (me)  
-mimon - nosso  
-mimon su - nós  
+mimen - nós  
+mimen su - nosso  
 mide - meio (metade)  
 midi - moyen  
 migre - migração (mudar-se)  
@@ -1459,7 +1459,7 @@ tri - três (3)
 truke - truque (fraude)  
 truke - enganar  
 tu - tu  
-tumon su - vosso  
+tumen su - vosso  
 tulium - túlio  
 turbe - molestar (perturber)  
 • turbin - turbina  
@@ -1580,7 +1580,6 @@ xure - começo (início, princípio)
 
 ##   
 
-ya - sim  
 yahve - Javé (Jeová)  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
@@ -1590,6 +1589,7 @@ yatimokan - orfanato
 yau - necessitar (necessidade)  
 • yavike - necessitado  
 • beyau - necessário  
+ye - sim  
 yege - caçar  
 jen - pessoa  
 • dusojen - inimigo  

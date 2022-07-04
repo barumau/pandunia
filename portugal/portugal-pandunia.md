@@ -923,7 +923,7 @@ mercado (bazar) - bazar
 mercúrio - hurargente  
 Mercúrio - Merkur  
 merda - xite  
-mesa - meze  
+mesa - meza  
 mestre - master  
 mestre - mester  
 meta (gol) - gol  
@@ -1013,7 +1013,7 @@ noite - noce
 noitinha - suar  
 norma (normal) - norme  
 norte - norde  
-nosso - mimon  
+nosso - mimen su  
 nostalgia (saudade) - nostalgia  
 nota - note  
 novato (neófito) - novike  
@@ -1027,7 +1027,7 @@ náusea - retroguli sense
 não - no  
 néon - neon  
 níquel - nikel  
-nós - mimon su  
+nós - mimen  
 núcleo (cerne) - kore  
 número (contagem; contar) - nume  
 o (a) - la  
@@ -1398,7 +1398,7 @@ significar (querer dizer) - seme
 silencioso - tixe  
 silêncio - tixia  
 silício - silike  
-sim - ya  
+sim - ye  
 simetria - sammetria  
 simulação - samsifia  
 simétrico - sammetre  
@@ -1580,7 +1580,7 @@ voar (voo) - fei
 vocabulário - lexia  
 vogal - zungofon  
 vogal - vokal son  
-vosso - tumon su  
+vosso - tumen su  
 voto (votar) - vote  
 vulcão - hogosan  
 vulva - vulve  

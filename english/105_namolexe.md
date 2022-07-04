@@ -56,15 +56,16 @@ It is done simply by inserting a number or a quantity word before the noun.
 – many chairs
 
 It is possible to specify plurality also by reduplication, by saying the noun two times.
-It is enough to use reduplication only.
-Therefore a quantity word should not be used at the same time.
 
 **ite ite**
 – stones and stones, a variety of stones  
 **buke buke**
-– books and books, a variety of books  
-✗ **poli buke buke**
-– (incorrect phrase)
+– books and books, a variety of books
+
+Quantity words should not be used together with reduplication.
+Therefore, a phrase like
+**poli buke buke**
+is wrong.
 
 ### Proper names
 

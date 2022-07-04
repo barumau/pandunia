@@ -876,8 +876,9 @@
 **melon** *melão* ← eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)  
 **mem** *memória* ← eng:memory, fra:mémoire, spa:memoria, por:memória  
 **member** ** ← eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)  
-**men** ** ← ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung  
+**men** ** ← eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen  
 **mendelevium** *mendelévio* ← eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم  
+**mene** ** ← eng:mean, deu:Meinung + ara:(maʿnā), hin:मअनी (maani), fas:urd:(ma'ni), swa:maana, haw:manaʻo  
 **meninge** *meninge* ← eng:meninx, spa:por:meninge, fra:méninge  
 **mente** ** ← eng:mind, spa:por:mente, hin:मन (man), ben:মন (môn)  
 **menter** ** ← san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)  
@@ -888,7 +889,7 @@
 **metode** ** ← eng:method, spa:por:método, fra:méthode, rus:ме́тод (métod), tur:metod, may:metode  
 **metre** ** ← eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra  
 **metrograf** *carta geográfica* ← hin:मानचित्र (māncitra), ben:মানচিত্র (mancitr) + zho:地图 (dìtú), yue:地圖 (dei6 tou4), jpn:地図 (chizu), kor:지도 (jido), vie:địa đồ  
-**meze** *mesa* ← por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa  
+**meza** *mesa* ← por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa  
 **mi** *eu (me)* ← eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi  
 **midi** *moyen* ← spa:medio, eng:medium, hin:माद्धयम (mādhyam)  
 **mien** ** ← zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)  
@@ -1504,7 +1505,7 @@
 **xulkan** *escola (colégio)* ← zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), hin:स्कूल (skūl), ben:স্কুল (śkul), may:sekolah  
 **xure** *começo (início, princípio)* ← ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)  
 **xute** ** ← zho:术 (shù), yue:術 (seot6), jpn:術 (jutsu), kor:술 (sul)  
-**ya** *sim* ← eng:yeah, deu:ja, may:ya + zho:呀 (ya)  
+**ya** ** ← hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y  
 **yage** ** ← kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), zho:约 (yuē) + tur:yaklaşık  
 **yake** ** ← eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)  
 **yame** ** ← khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam  
@@ -1512,7 +1513,7 @@
 **yasen** *freixo* ← rus:ясень (yasen’), pol:jesion  
 **yatim** ** ← ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)  
 **yau** *necessitar (necessidade)* ← zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu  
-**ye** ** ← hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y  
+**ye** *sim* ← eng:yeah + may:ya + kor:예 (ye)  
 **yege** *caçar* ← deu:jagen + eng:jaeger, rus:егерь (jeger’)  
 **yeze** ** ← zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)  
 **yodium** *iodo* ← eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود  

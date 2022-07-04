@@ -15,13 +15,13 @@ For example, the verb
 – I am a friend.  
 **_tu_ si doste.**
 – You are a friend.  
-**_ye_ si doste.**
+**_ya_ si doste.**
 – He or she is a friend.  
-**_mimon_ si doste.**
+**_mimen_ si doste.**
 – We are friends.  
-**_tumon_ si doste.**
+**_tumen_ si doste.**
 – You are friends.  
-**_yemon_ si doste.**
+**_yemen_ si doste.**
 – They are friends.
 
 Also a noun can serve as subject.
@@ -35,14 +35,14 @@ It is particularly helpful when the subject and the verb are content words
 that could serve as both.
 The marker is typically a particle or an auxiliary verb.
 One of the many suitable markers is
-**ya**
+**ye**
 ('yes'),
 which adds no content to the sentence
 but helps to clarify its structure.
 
 **pexe si mau yam.**
 – Fish is cat food.  
-**mau _ya_ yam yo pexe.**
+**mau _ye_ yam yo pexe.**
 – The cat eats some fish.
 
 Other suitable markers include auxiliaries of time and mood,
@@ -59,7 +59,7 @@ indicates beginning of an action or transition to a new situation.
 
 **mi xure fuke la kote.**
 – I start wearing the coat. = I put the coat on.  
-**kaguje ya xure hoge.**
+**kaguje ye xure hoge.**
 – Paper starts to burn.  
 **tu xure yam.**
 – You start to eat.
@@ -68,9 +68,9 @@ indicates beginning of an action or transition to a new situation.
 ('end, cease, quit, stop')
 conveys the idea of "to stop doing something".
 
-**yemon fin haha.**
+**yamen fin haha.**
 – They stopped laughing.  
-**kaguje ya fin hoge.**
+**kaguje ye fin hoge.**
 – Paper ceased to burn.  
 **tu fin yam.**
 – You stop eating.
@@ -119,15 +119,15 @@ indicates that an action is done regularly.
 indicates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_). 
 
-**ye _le_ si guru.**
+**ya _le_ si guru.**
 – He or she has been a teacher (and still is).  
 **mi no _le_ gul yo alkohol.**
 – I haven't drank alcohol.  
 **mi _le_ no gul yo alkohol.**
 – I have reached not drinking alcohol.  
-**mi _le_ don la buke do yemon.**
+**mi _le_ don la buke do yamen.**
 – I have given the book to them. (So I don't have it.)  
-**yemon no _le_ don ye re do mi.**
+**yamen no _le_ don ya re do mi.**
 – They haven't given it back to me.  
 **mi _le_ lai do siti.**
 – I have come to the city.
@@ -137,7 +137,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**mi pas don la buke do yemon.**
+**mi pas don la buke do yamen.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas keka la France.**
 – I have visited France.  
@@ -150,7 +150,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 ('will, shall')
 indicates that the event will take place later or in the future.
 
-**ye _xa_ si guru.**
+**ya _xa_ si guru.**
 – He or she shall be a teacher.  
 **mi no _xa_ gul un bir.**
 – I will not drink a beer.
@@ -189,11 +189,12 @@ They always take an object.
 **vise**
 – instead of
 
-**ye go in la dome.**
+**ya go in la dome.**
 – He/she went into the house.  
-**ye go ex la dome.**
+**ya go ex la dome.**
 – He/she went out of the house.  
-**ye lai re la dome.**
+**ya lai re la dome.**
 – He/she came back to the house.  
-**ye loge kon la xefe.**
+**ya loge kon la xefe.**
 – He/she speaks with the boss.
+

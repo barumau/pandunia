@@ -7,31 +7,31 @@ Each dictionary entry consists of a word or compound word in Pandunia and its tr
 There is only one translation
 when the meaning of the word and the meaning of its English translation are almost or completely the same.
 
-> aple - apple  
-> arane - spider
+> **aple** - apple  
+> **arane** - spider
 
 When the Pandunia word can be translated in more than one way,
 the most common translation is first
 and it is followed by more specific translations inside parenthesis.
 
-> chira - tear (rip, split)
+> **cire** - tear (rip, split)
 
 If there is more than one meaning,
 they are separated by the semicolon.
 
-> ching - ask (request, beg, plead; please)
+> **ching** - ask (request, beg, plead; please)
 
 Sometimes there are two entries of the same word.
 
-> **huru** - free (unbound)  
-> **fa huru** - free (liberate)
+> **hure** - free (unbound)  
+> **fa hure** - free (liberate)
 
 The entry with **fa** is there only for including the verbal translation in English.
 Pandunia words are multipurpose words that can be used as verbs, adjectives, nouns and adverbs.
 Therefore it is normally enough to use only the main word of the dictionary entry in sentence contexts
 and the auxiliary verb **fa** can be left out.
-For example, **mi huru yemon** is the proper way to say 'I free them' or 'I liberate them'.
-The sentence **mi fa huru yemon** would mean the same thing but it would include the superfluous word **fa**.
+For example, **mi hure yamen** is the proper way to say 'I free them' or 'I liberate them'.
+The sentence **mi fa hure yamen** would mean the same thing but it would include the superfluous word **fa**.
 
 ---
 
@@ -2449,8 +2449,8 @@ memnote - memorandum (memo)
 • dememe - forget  
 membe - belong (be a member)  
 member - member (component)  
-men - meaning (signification)  
-mene - mean (signify)  
+men - "one (people, ""you"")"  
+mene - mean (signify; meaning, signification)  
 mendelevium - mendelevium  
 meninge - meninx (meninges)  
 meningitis - meningitis  
@@ -2468,19 +2468,18 @@ metallin - wire
 metalzanger - blacksmith (iron forger)  
 metal tul - hardware (ironware, equipment)  
 metode - method (means)  
-metre - measurement  
-metre - measure (take measurements)  
+metre - measure (measurement)  
+• parametre - parameter  
 metrograf - map (chart)  
 metrografia - cartography  
-metrun - unit (measurement)  
-• parametre - parameter  
-meze - table  
+metrune - unit (measurement)  
+meza - table  
 mezastan - plateau (tableland)  
 mezatexe - tablecloth  
 mi - I (me)  
-mimon - our  
-mimon su - we  
 mi su - my  
+mimen - we  
+mimen su - our  
 Myanma - Myanmar (Burma)  
 mide - middle (the part in between)  
 midi - medium (intermediate, mean)  
@@ -4033,9 +4032,9 @@ Triton - Triton
 truke - trick (ruse, fraud)  
 truke - trick (cheat, deceive)  
 tu - you (singular)  
-tumon - you all  
-tumon su - your  
 tu su - your  
+tumen - you all  
+tumen su - your  
 tualete - toilet (WC)  
 tube - tube (pipe)  
 tuhe - spit  
@@ -4339,7 +4338,10 @@ xute - skill (art, craft)
 
 ## Y  
 
-ya - yes  
+ya - he or she or it  
+ya su - its (his, her)  
+yamen - they  
+yamen su - their  
 yage - about (approximately, nearly, almost)  
 yagife - estimate (approximate)  
 yagones - peninsula  
@@ -4365,10 +4367,7 @@ yau - need (lack; shortage)
 • yavike - needy (lacking)  
 • beyau - necessary (needed)  
 • anbeyau - unnecessary (extraneous, unneeded)  
-ye - he or she or it  
-yemon - they  
-yemon su - their  
-ye su - its (his, her)  
+ye - yes  
 yege - hunting (fishing)  
 • yeger - hunter (chasseur)  
 yege pexe - catch fish  

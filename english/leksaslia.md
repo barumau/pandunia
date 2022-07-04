@@ -876,8 +876,9 @@
 **melon** *muskmelon* ← English:French:melon, Spanish:melón, Portuguese:melão, Japanese:メロン (meron), Korean:멜론 (mellon)  
 **mem** *memory (recollection)* ← English:memory, French:mémoire, Spanish:memoria, Portuguese:memória  
 **member** *member (component)* ← English:member, Spanish:miembro, Portuguese:membro, French:membre, Japanese:メンバー (menbā)  
-**men** *meaning (signification)* ← Arabic:(maʿnā), Persian:Urdu:(ma'ni), Hindi:मअनी (maani), Swahili:maana, haw:manaʻo, English:meaning, deu:Meinung  
+**men** *"one (people, ""you"")"* ← English:men, deu:man + Mandarin:们 (men), Cantonese:們 (mun4) + (tumen) Hindi:तुम (tum), rom:tumen  
 **mendelevium** *mendelevium* ← English:mendelevium, French:mendélévium, Spanish:mendelevio, Portuguese:mendelévio, Russian:менделевий, Mandarin:钔 (mén), Japanese:メンデレビウム, Korean:멘델레븀, Vietnamese:menđelevi, Hindi:मेण्डेलीवियम, Bengali:মেন্ডেলিভিয়াম, Malay:mendelevium, Swahili:mendelevi, Arabic: مندلفيوم  
+**mene** *mean (signify; meaning, signification)* ← English:mean, deu:Meinung + Arabic:(maʿnā), Hindi:मअनी (maani), Persian:Urdu:(ma'ni), Swahili:maana, haw:manaʻo  
 **meninge** *meninx (meninges)* ← English:meninx, Spanish:Portuguese:meninge, French:méninge  
 **mente** *mind (ability for consciousness, perception and thinking)* ← English:mind, Spanish:Portuguese:mente, Hindi:मन (man), Bengali:মন (môn)  
 **menter** *advisor (counselor, mentor)* ← Sanskrit:मन्त्रिन् (mantrin), Hindi:मंत्री (mantrī), Thai:มนตรี (mon-tri), Malay:menteri, English:deu:French:Portuguese:Spanish:mentor, Japanese:メンター (mentā), Korean:멘토 (mento), Russian:ментор (mentor)  
@@ -886,9 +887,9 @@
 **mester** *master (expert)* ← Portuguese:mestre, French:maître, Polish:mistrz, English:master, Russian:мастер (master), Spanish:maestro, deu:Meister, Hindi:(mistrī)  
 **metal** *metal* ← English:Spanish:Portuguese:Turkish:metal, French:métal, deu:Metall, Russian:мета́лл (metáll)  
 **metode** *method (means)* ← English:method, Spanish:Portuguese:método, French:méthode, Russian:ме́тод (métod), Turkish:metod, Malay:metode  
-**metre** *measurement* ← English:meter, Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra  
+**metre** *measure (measurement)* ← English:meter, Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra  
 **metrograf** *map (chart)* ← Hindi:मानचित्र (māncitra), Bengali:মানচিত্র (mancitr) + Mandarin:地图 (dìtú), Cantonese:地圖 (dei6 tou4), Japanese:地図 (chizu), Korean:지도 (jido), Vietnamese:địa đồ  
-**meze** *table* ← Portuguese:Spanish:mesa, Hindi:मेज़ (mez), Swahili:meza, Malay:meja, Tamil:மேசை (mesei), Persian: میز‏‎ (miz), Turkish:masa  
+**meza** *table* ← Portuguese:Spanish:mesa, Hindi:मेज़ (mez), Swahili:meza, Malay:meja, Tamil:மேசை (mesei), Persian: میز‏‎ (miz), Turkish:masa  
 **mi** *I (me)* ← English:me, French:Portuguese:Spanish:me, hindi:मैं (mẽ), Swahili:mimi  
 **midi** *medium (intermediate, mean)* ← Spanish:medio, English:medium, Hindi:माद्धयम (mādhyam)  
 **mien** *noodle* ← Mandarin:面 (miàn), Malay:mie, Japanese:麺 (men), Thai:หมี่ (mii), Khmer:មី (mi)  
@@ -1504,7 +1505,7 @@
 **xulkan** *school (institution)* ← Mandarin:学 (xué) + deu:Schule, Swahili:shule + English:school, French:école, Spanish:escuela, Portuguese:escola, Russian:школа (škola), Hindi:स्कूल (skūl), Bengali:স্কুল (śkul), Malay:sekolah  
 **xure** *begin (start, commence, initiate)* ← Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)  
 **xute** *skill (art, craft)* ← Mandarin:术 (shù), Cantonese:術 (seot6), Japanese:術 (jutsu), Korean:술 (sul)  
-**ya** *yes* ← English:yeah, deu:ja, Malay:ya + Mandarin:呀 (ya)  
+**ya** *he or she or it* ← Hindi:यह (yeh) + Swahili:yeye, Zulu:yena, Lingala:ye + Russian:е- (ye-) + Malay:ia + Mandarin:伊 (yī), Vietnamese:y  
 **yage** *about (approximately, nearly, almost)* ← Korean:약 (yag), Japanese:約 (yaku), Cantonese:約 (yœk), Mandarin:约 (yuē) + Turkish:yaklaşık  
 **yake** *yak* ← English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)  
 **yame** *consume (eat or drink)* ← Khmer:ញ៉ាំ (nyam), Fulani:nyami, + Spanish:ñam, Russian:ням (nyam), Italian:gnam, English:yum, Korean:냠냠 (nyamnyam), Hungarian:nyam  
@@ -1512,7 +1513,7 @@
 **yasen** *ash tree* ← Russian:ясень (yasen’), Polish:jesion  
 **yatim** *orphan* ← Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)  
 **yau** *need (lack; shortage)* ← Mandarin:要 (yāo), Cantonese:要 (jiu1), Wu-Chinese:要 (yo1), Japanese:要 (yō), Vietnamese:yêu  
-**ye** *he or she or it* ← Hindi:यह (yeh) + Swahili:yeye, Zulu:yena, Lingala:ye + Russian:е- (ye-) + Malay:ia + Mandarin:伊 (yī), Vietnamese:y  
+**ye** *yes* ← English:yeah + Malay:ya + Korean:예 (ye)  
 **yege** *hunting (fishing)* ← deu:jagen + English:jaeger, Russian:егерь (jeger’)  
 **yeze** *coconut tree* ← Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)  
 **yodium** *iodine* ← English:iodine, French:iode, Spanish:yodo (iodo), Portuguese:iodo, Russian:йод, Japanese:ヨウ素, Korean:요오드, Vietnamese:iot, Hindi:आयोडिन, Bengali:আয়োডিন, Malay:yodium, Swahili:iodini, Arabic: يود  

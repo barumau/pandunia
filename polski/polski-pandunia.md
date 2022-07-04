@@ -962,7 +962,7 @@ jebać, kopulować - code
 jeden (1) - un  
 jednoczyć - una  
 jednokolorowy (monochromatyczny) - unorange  
-jednostka miary - metrun  
+jednostka miary - metrune  
 jednoznaczny - unomene  
 jednoznaczny - unoseme  
 jedwab - silke  
@@ -1476,7 +1476,7 @@ metal ciężki - veze metal
 metoda, sposób - metode  
 metr - mitre  
 metro - tuneltren  
-miara - metre  
+miara (zmierzyć) - metre  
 miast, miasteczko - site  
 miasto - nagre  
 miecz - katane  
@@ -1595,7 +1595,7 @@ muzułman, muzułmanin - islamiste
 muzyk - muziker  
 muzyka - muzike  
 muł - gadogude  
-my - mimon su  
+my - mimen  
 mydło - sabun  
 mylić (gmatwać, zmieszać, konsternować; smieszany, skonfudowany) - ruhmixe  
 mysz - mus  
@@ -1828,8 +1828,8 @@ okrągły - sirke
 olej - nefte  
 oliwka - zaitun  
 Oman - Oman  
-on, ona, ono - ye  
-oni - yemon  
+on, ona, ono - ya  
+oni - yamen  
 online (na linii, w sieci) - a line  
 opaska do włosów - kexbende  
 opcja (wybór) - cuzable  
@@ -2704,7 +2704,7 @@ strzępić (drzeć) - circire
 student - studer  
 studio (pracownia) - studia  
 styczeń - lun un  
-stół - meze  
+stół - meza  
 stłuc się (rozpaść się na kawałki) - parce  
 stłuczony (pęknięty) - parce  
 suahili - suahili  
@@ -2822,7 +2822,7 @@ Tajlandia - Tai dexia
 Tajpej - Taibei  
 tajski - Tai  
 Tajwan, Republika Chińska - Taivan  
-tak - ya  
+tak - ye  
 taki sam - same  
 taksometr - taxi metrer  
 taktyka, strategia - tatike  
@@ -3189,7 +3189,7 @@ wszyscy, wszystkie, wszystko; każdy - pan (pani)
 wszystko - pan sei  
 wtorek - den du  
 wulkan - hogosan  
-wy, was - tumon  
+wy, was - tumen  
 wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja) - cuze  
 wybrzeże (plaża) - haitate  
 Wybrzeże Kości Słowniowej - Kote Da Ivar  
@@ -3367,15 +3367,13 @@ zjednoczony - unite
 zmaksymalizować - maximife  
 zmiana klimatu - klimomute  
 zmienić, zmieniać - mute  
-zmierzyć - metre  
 zmniejszyć o jeden - minodarge  
 zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać - muse  
 zmysł - sense  
 zmęczenie (wyczerpanie; męczyć się, nużyć się) - fatige  
 znaczek pocztowy - postocape  
-znaczenie - men  
 znaczyć (liczyć się, być ważnym) - si ham  
-znaczyć - mene  
+znaczyć (znaczenie) - mene  
 znaczyć - seme  
 znak, sygnał - sinye  
 znak, trop - marke  

@@ -1177,7 +1177,7 @@ elegir (escoger, seleccionar; elección) - cuze
 elemento (unidad fundamental) - em  
 elemento químico - kimium  
 elfo - elfe  
-ellos o ellas - yemon  
+ellos o ellas - yamen  
 elogiar (alabar, exaltar) - halele  
 elogio - euloge  
 elástico (flexible) - laste  
@@ -2191,12 +2191,11 @@ mañana - sube
 mear - pise  
 medallón - medal  
 medicina - medikia  
-medida - metre  
 medio (mediano) - midi  
 medio - mide  
 medio - midia  
 medioambiente (naturaleza) - ekia  
-medir (tomar las medidas) - metre  
+medir (medida) - metre  
 meditar (reflexionar) - medite  
 Mediterráneo - Geomedi Hai  
 medusa - haigel  
@@ -2228,7 +2227,7 @@ menú (catálogo) - cuzoliste
 mercado (bazar) - bazar  
 mercurio - hurargente  
 Mercurio - Merkur  
-mesa - meze  
+mesa - meza  
 meseta - mezastan  
 mesiánico - kriste  
 meta (gol, destinación; destinar) - gol  
@@ -2442,7 +2441,7 @@ norte (norteño) - norde
 Norteamérica - Nordi Amerike  
 Noruega - Norge  
 noruego - norge  
-nosotros - mimon su  
+nosotros - mimen  
 nostalgia - nostalgia  
 nostálgico - nostalgike  
 notar (observar; nota) - note  
@@ -2454,7 +2453,7 @@ nube - nepe
 nudismo - nudisme  
 nudista - nudiste  
 nudo (hacer un nudo) - node  
-nuestro - mimon  
+nuestro - mimen su  
 Nueva Caledonia - Nove Kaledonia  
 nueva línea - linparce  
 Nueva Zelanda - Nove Zelandia  
@@ -3254,9 +3253,8 @@ sierra - xere
 Sierra Leona - Sera Leone  
 siete (7) - cete  
 sigilo - siri mote  
-significado (acepción) - men  
 significar (querer decir) - seme  
-significar - mene  
+significar (significado, acepción) - mene  
 siguiente (trasero) - pose  
 sij - sikiste  
 sijismo - sikisme  
@@ -3352,7 +3350,7 @@ susurrar (curjir) - xaxa
 Svalbard - Svalbarde  
 sábado - den luka  
 sándwich (sánduche) - sanduice  
-sí - ya  
+sí - ye  
 sólido - gatomate  
 
 ## T  
@@ -3572,7 +3570,7 @@ túnica - tunike
 Ucrania - Ukraina  
 Uganda - Ganda  
 una vez - unomaro  
-unidad (medida) - metrun  
+unidad (medida) - metrune  
 unido - unite  
 unir - una  
 universal - unoverse  
@@ -3588,7 +3586,7 @@ urdu - urde
 Uruguay - Uruguai  
 usar (aplicar) - uze  
 uso (utilidad, beneficio; útil (beneficioso) - faide  
-ustedes - tumon  
+ustedes - tumen  
 usuario - uzer  
 utilizable (disponible) - uzable  
 uva - putau  
@@ -3699,7 +3697,7 @@ voluntad (querer, disponer) - ice
 voto (votar) - vote  
 vudú - vodun  
 vuelta (volver, retornar) - retre  
-vuestro - tumon su  
+vuestro - tumen su  
 vulva - vulve  
 válvula (llave, canilla) - kran  
 vía férrea - trendau  
@@ -3758,7 +3756,7 @@ zulú - Zulu
 áspero (basto) - karse  
 ástato - astatium  
 átomo - atom  
-él o ella - ye  
+él o ella - ya  
 éste - dong  
 ética (filosofía moral) - dekolojia  
 índice de contenidos - inliste  

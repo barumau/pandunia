@@ -835,7 +835,7 @@ melon - 厚皮甜瓜 (蜜瓜)
 mem - 记忆 (记性)  
 meme - 记得 (回忆)  
 • dememe - 忘记  
-men - 意义  
+mene - 意义  
 mendelevium - 钔  
 meninge - 脑脊膜  
 menu - 菜单  
@@ -844,11 +844,11 @@ metallin - 线 (铁丝)
 metalzanger - 铁匠  
 metrograf - 地图  
 metrografia - 地图学  
-meze - 桌子  
+meza - 桌子  
 mezatexe - 桌布  
 mi - 我  
-mimon - 我们的  
-mimon su - 我们  
+mimen - 我们  
+mimen su - 我们的  
 midi - 中型  
 • inmigre - 移民 (移居)  
 • inmigrer - 移民者  
@@ -1316,8 +1316,8 @@ tripike - 三叉戟
 truke - 伎俩  
 truke - 耍花招  
 tu - 你  
-tumon - 你们  
-tumon su - 你们的  
+tumen - 你们  
+tumen su - 你们的  
 tulium - 铥  
 tune - 金枪鱼  
 tunge - 疼痛  
@@ -1422,7 +1422,9 @@ xute - 技术
 
 ##   
 
-ya - 对 (是)  
+ya - 他，她，它  
+yamen - 他们  
+yamen su - 他们的  
 yahve - 耶和华 (雅威)  
 yamfite - 蔬菜  
 yamyau - 饥饿  
@@ -1431,9 +1433,7 @@ yasen - 白蜡树
 yatimokan - 孤儿院  
 yau - 需要  
 • beyau - 必要的  
-ye - 他，她，它  
-yemon - 他们  
-yemon su - 他们的  
+ye - 对 (是)  
 yege - 狩猎  
 • yeger - 狩人  
 jen - 人  

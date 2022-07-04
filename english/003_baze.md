@@ -42,23 +42,23 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 |                   |              |
 |:-----------------:|:------------:|
-| **mi**            | **mimon**    |
+| **mi**            | **mimen**    |
 | _I, me_           | _we, us_     |
-| **tu**            | **tumon**    |
+| **tu**            | **tumen**    |
 | _you_             | _you all_    |
-| **ye**            | **yemon**    |
+| **ya**            | **yamen**    |
 | _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
 
-The particle **ya** 'yes' separates the subject and the verb.
+The particle **ye** 'yes' separates the subject and the verb.
 
-**mau ya yam.**
+**mau ye yam.**
 – The cat eats.  
-**jen ya some.**
+**jen ye some.**
 – The person sleeps.
 
-If the subject is a personal pronoun, the **ya** is left out.
+If the subject is a personal pronoun, the **ye** is left out.
 
 **mi yam.**
 – I eat.  
@@ -103,12 +103,12 @@ It can be left out in very simple sentences.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**ye ame mau.**
+**ya ame mau.**
 – He loves cats. / She loved a cat. / He or she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau e un vaf. mi max ha un fem ben. ye ame mau!**
+**pre tri nen, mi ha du mau e un vaf. mi max ha un fem ben. ya ame mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -156,7 +156,7 @@ The adverb can be tagged with **di**.
 
 **mi bon vide tu.**
 – I see you well.  
-**tu vide di ame ye.**
+**tu vide di ame ya.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -186,9 +186,9 @@ To ask a content question, write a normal sentence and replace the word in quest
 – Who do you love?  
 **tu ame ke man?**
 – Which man do you love?  
-**ke man ya ame tu?**
+**ke man ye ame tu?**
 – Which man loves you?  
-**tu ame ye ke poli?**
+**tu ame ya ke poli?**
 – How much do you love him?
 
 ### Commands

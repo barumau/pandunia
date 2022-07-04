@@ -20,16 +20,16 @@
 **mi si Yusef. tu si ke?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi si Sara. ye si ke?**
+**mi si Sara. ya si ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**ye si mi su doste.**
+**ya si mi su doste.**
 = That is my friend.  
 <big>☺</big>
-**ye su nam si ke?**
+**ya su nam si ke?**
 = What's her name?  
 <big>☻</big>
-**ye su nam si Maria.**
+**ya su nam si Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -37,8 +37,8 @@
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**ye si mi su doste**
-the topic is the pronoun **ye** (he, she, it), which is followed by the comment
+**ya si mi su doste**
+the topic is the pronoun **ya** (he, she, it), which is followed by the comment
 **si mi su doste**
 (is my friend).
 
@@ -46,9 +46,9 @@ In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put **no** before it.
 
-**ye si Sara.**
+**ya si Sara.**
 = She is Sarah.  
-**ye no si Sara.**
+**ya no si Sara.**
 = She is not Sarah.
 
 **mau si zoe.**
@@ -93,9 +93,9 @@ my
 you  
 **tu su**
 your  
-**ye**
+**ya**
 he, she or it  
-**ye su**
+**ya su**
 his, her, its  
 **ke**
 who or what  
@@ -123,7 +123,7 @@ animal
 1. tu si ke?
 2. mi si tomas.
 3. tu su doste si ke?
-4. ye si Sara.
+4. ya si Sara.
 5. tu su nam si ke?
 6. mi su nam si ........... 
 
@@ -177,7 +177,7 @@ in Pandunia.
 > Word order in active sentence: Subject + Verb + Object
 
 Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**ye** = he, she, it. Note that the pronouns stayed the same in the
+**ya** = he, she, it. Note that the pronouns stayed the same in the
 previous example sentences. Words never change in Pandunia. They
 always stay the same regardless of their position in sentence.
 
@@ -239,7 +239,7 @@ chief, boss
 
 ### Answers to the Exercises
 
-1. tu salam ye.
+1. tu salam ya.
 2. mama salam papa.
 3. salam mama!
 4. salam!
@@ -278,7 +278,7 @@ chief, boss
 **bon. cing salam tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi salam ye. salam live!**
+**mi salam ya. salam live!**
 = I will. Bye!  
 <big>☺</big>
 **salam ga!**
@@ -288,12 +288,12 @@ chief, boss
 ### Grammar
 
 Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**ye** = he, she, it. Pandunia is a gender-neutral language. It
+**ya** = he, she, it. Pandunia is a gender-neutral language. It
 doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**mi cing tu salam ye.**
+**mi cing tu salam ya.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
@@ -306,7 +306,7 @@ as its object. At the same time
 serves also as the subject of the second verb,
 **salam**
 ('to greet'), whose object is
-**ye**.
+**ya**.
 So
 **tu**
 has a double role:
@@ -323,9 +323,9 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi cing tu salam ye.**
+**mi cing tu salam ya.**
 = I ask you to say hello to him/her.  
-**cing salam ye.**
+**cing salam ya.**
 = Please say hello to him/her.
 
 See how the translation of
@@ -338,7 +338,7 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**cing salam ye**
+**cing salam ya**
 has a useful pattern that can be used for making polite requests.
 
 **cing side.**
@@ -364,7 +364,7 @@ Commands are introduced with
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safe ye!**
+**safe ya!**
 = Clean it!
 
 
@@ -421,8 +421,8 @@ some, a(n)
 
 ### Answers to the Exercises
 
-1. ye yam cai.
-2. la xefe cing ye side.
+1. ya yam cai.
+2. la xefe cing ya side.
 3. cing yam kafe o cai.
 4. mama cing mi safe kamar.
 5. xefe side e yam kafe.
@@ -451,19 +451,19 @@ some, a(n)
 **mi no baxe pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**maf! sual ye yam cai?**
+**maf! sual ya yam cai?**
 = Pardon! Will he have tea?  
 <big>☻</big>
-**no. ye no yam cai. ye yam kafe.**
+**no. ya no yam cai. ya yam kafe.**
 = No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supe?**
 = Would you like to have soup?  
 <big>☻</big>
-**ya.**
+**ye.**
 = Yes.  
 <big>☺</big>
-**sual ye yam supe?**
+**sual ya yam supe?**
 = Would he like to have soup?  
 <big>☻</big>
 **no yam.**
@@ -491,11 +491,11 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual ye yam cai?**
+**sual ya yam cai?**
 = Does he or she drink tea?  
 **sual tu yam supe?**
 = Do you eat soup?  
-**sual mimon yam sui?**
+**sual mimen yam sui?**
 = Do we drink water?
 
 Of course common and proper nouns can also be used.
@@ -510,13 +510,13 @@ Of course common and proper nouns can also be used.
 
 ### Giving answers
 
-Yes/no questions can be answered with **ya** = yes, and **no** = no.
+Yes/no questions can be answered with **ye** = yes, and **no** = no.
 
 – **sual tu yam supe?**
 = Do you eat soup?  
-– **ya.**
+– **ye.**
 = Yes.  
-– **sual ye yam supe?**
+– **sual ya yam supe?**
 = Does she eat soup?  
 – **no.**
 = No.
@@ -525,11 +525,11 @@ Also more complete answers can be given.
 
 – **sual tu yam kafe?**
 = Do you drink coffee?  
-– **ya. mi yam kafe.**
+– **ye. mi yam kafe.**
 = Yes, I drink coffee.  
-– **sual ye yam kafe?**
+– **sual ya yam kafe?**
 = Does he drink coffee?  
-– **no. ye no yam kafe.**
+– **no. ya no yam kafe.**
 = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
@@ -573,25 +573,25 @@ one (1)
 ten  
 **sual**
 to ask a question  
-**ya**
+**ye**
 yes
 
 
 ### Answers to the Exercises
 
 1. sual tu baxe pandunia?
-2. ya. mi baxe pandunia.
+2. ye. mi baxe pandunia.
 3. sual mama yam kafe?
-4. no. ye no yam kafe.
-5. sual ye yam supe?
-6. (ye) no yam.
+4. no. ya no yam kafe.
+5. sual ya yam supe?
+6. (ya) no yam.
 
 
 --------------------------------------------------------------------------------
 
 ## Saying no
 
-In the previous lesson you learned to answer **ya** and **no** to questions.
+In the previous lesson you learned to answer **ye** and **no** to questions.
 The word **no** is used for denying something.
 Adding **no** in front of the verb turns an affirmative sentence to negative.
 
@@ -619,11 +619,11 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**ye no ten mau.**
+**ya no ten mau.**
 = She doesn't have a cat.  
-**ye ten no mau, ama vaf.**
+**ya ten no mau, ama vaf.**
 = She has no cats but dogs.  
-**no ye, ama mi ten mau.**
+**no ya, ama mi ten mau.**
 = Not she but I have cats.  
 **mi ten no un, ama du mau.**
 = I have not one but two cats.
@@ -664,10 +664,10 @@ but
 
 ### Answers to the Exercises
 
-1. ye no safe kamar.
+1. ya no safe kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. ye no ten vaf e mau. / ye ten no vaf e no mau.
+4. ya no ten vaf e mau. / ya ten no vaf e no mau.
 5. xefe yam cai ama no kafe.
 6. mama ten no vaf ama du mau.
 
@@ -681,11 +681,11 @@ _when_, the interrogative pronoun **ke** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**ye si ke?**
+**ya si ke?**
 = What is that? / Who is (s)he?  
-**ye si ke jen?**
+**ya si ke jen?**
 = Who is he/she?  
-**ye si ke xe?**
+**ya si ke xe?**
 = What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  
@@ -706,13 +706,13 @@ before the cause or reason.
 
 **ke sababe tu suka mau?**
 = Why do you like cats?  
-**de sababe yemon si kavai.**
+**de sababe yamen si kavai.**
 = Because they are cute.
 
 Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau ze sabu yemon si kavai**
+**mi suka mau ze sabu yamen si kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -748,10 +748,10 @@ period of time
 
 1. ke jen suka supe?
 2. papa suka.
-3. ke zaman ye lai?
+3. ke zaman ya lai?
 4. pos des minute.
-5. ke sababe ye no yam?
-6. de sababe ye no suka kafe e supe.
+5. ke sababe ya no yam?
+6. de sababe ya no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -764,7 +764,7 @@ There are no verb conjugations in Pandunia. All verbs have only one
 form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
-**mi darba ye.**
+**mi darba ya.**
 = I hit it.
 
 In Pandunia all verbs are like that! For example,
@@ -795,20 +795,20 @@ They can be used for modifying nouns.
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi pas darba ye.**
+**mi pas darba ya.**
 = I hit it (in the past).  
-**mi zai darba ye.**
+**mi zai darba ya.**
 = I am hitting it (currently).  
-**mi xa darba ye.**
+**mi xa darba ya.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
 
-**mi darba ye na pas.**
+**mi darba ya na pas.**
 = I hit it in the past.  
-**mi darba ye na zai.**
+**mi darba ya na zai.**
 = I hit it at present.  
-**mi darba ye na xa.**
+**mi darba ya na xa.**
 = I hit it in the future.
 
 
@@ -820,7 +820,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi pas ten un mau.**
 = I had a cat in the past.  
-**ye si bon mau.**
+**ya si bon mau.**
 = It was a good cat.  
 **mi ten un vaf a zai.**
 = I have a dog now.
@@ -830,7 +830,7 @@ time expression is present, other markers are not needed.
 
 **mi be jene a nen 2003.**
 = I was born in 2003.  
-**ye safe la kamar a pos den.**
+**ya safe la kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -873,7 +873,7 @@ milk
 1. mi su xefe festa na xa.
 2. mi ten du vaf na pas.
 3. tu yam supe na zai.
-4. ye safe kamar a pre den.
+4. ya safe kamar a pre den.
 5. mau yam milke na pos den.
 6. tu su mama festa a prenoce.
 

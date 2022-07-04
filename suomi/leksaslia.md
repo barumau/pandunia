@@ -876,8 +876,9 @@
 **melon** ** ← englanti:ranska:melon, espanja:melón, portugali:melão, japani:メロン (meron), korea:멜론 (mellon)  
 **mem** *muisti* ← englanti:memory, ranska:mémoire, espanja:memoria, portugali:memória  
 **member** *jäsen (osatekijä, komponentti)* ← englanti:member, espanja:miembro, portugali:membro, ranska:membre, japani:メンバー (menbā)  
-**men** *merkitys* ← arabia:(maʿnā), persia:urdu:(ma'ni), hindi:मअनी (maani), suahili:maana, haw:manaʻo, englanti:meaning, deu:Meinung  
+**men** *ihmiset (passiivin pronomini)* ← englanti:men, deu:man + yleiskiina:们 (men), kantoninkiina:們 (mun4) + (tumen) hindi:तुम (tum), rom:tumen  
 **mendelevium** *mendelevium* ← englanti:mendelevium, ranska:mendélévium, espanja:mendelevio, portugali:mendelévio, venäjä:менделевий, yleiskiina:钔 (mén), japani:メンデレビウム, korea:멘델레븀, vietnami:menđelevi, hindi:मेण्डेलीवियम, bangla:মেন্ডেলিভিয়াম, malaiji:mendelevium, suahili:mendelevi, arabia: مندلفيوم  
+**mene** *merkitä (tarkoittaa; merkitys)* ← englanti:mean, deu:Meinung + arabia:(maʿnā), hindi:मअनी (maani), persia:urdu:(ma'ni), suahili:maana, haw:manaʻo  
 **meninge** *aivokalvo* ← englanti:meninx, espanja:portugali:meninge, ranska:méninge  
 **mente** ** ← englanti:mind, espanja:portugali:mente, hindi:मन (man), bangla:মন (môn)  
 **menter** *neuvontantaja (mentori)* ← sanskriitti:मन्त्रिन् (mantrin), hindi:मंत्री (mantrī), thai:มนตรี (mon-tri), malaiji:menteri, englanti:deu:ranska:portugali:espanja:mentor, japani:メンター (mentā), korea:멘토 (mento), venäjä:ментор (mentor)  
@@ -886,9 +887,9 @@
 **mester** *mestari (asiantuntija)* ← portugali:mestre, ranska:maître, puola:mistrz, englanti:master, venäjä:мастер (master), espanja:maestro, deu:Meister, hindi:(mistrī)  
 **metal** *metalli* ← englanti:espanja:portugali:turkki:metal, ranska:métal, deu:Metall, venäjä:мета́лл (metáll)  
 **metode** *keino (menetelmä, metodi)* ← englanti:method, espanja:portugali:método, ranska:méthode, venäjä:ме́тод (métod), turkki:metod, malaiji:metode  
-**metre** *mitta (koko, määrä)* ← englanti:meter, hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra  
+**metre** *mitata (mitta, koko, määrä)* ← englanti:meter, hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra  
 **metrograf** *kartta* ← hindi:मानचित्र (māncitra), bangla:মানচিত্র (mancitr) + yleiskiina:地图 (dìtú), kantoninkiina:地圖 (dei6 tou4), japani:地図 (chizu), korea:지도 (jido), vietnami:địa đồ  
-**meze** *pöytä* ← portugali:espanja:mesa, hindi:मेज़ (mez), suahili:meza, malaiji:meja, tamili:மேசை (mesei), persia: میز‏‎ (miz), turkki:masa  
+**meza** *pöytä* ← portugali:espanja:mesa, hindi:मेज़ (mez), suahili:meza, malaiji:meja, tamili:மேசை (mesei), persia: میز‏‎ (miz), turkki:masa  
 **mi** *minä* ← englanti:me, ranska:portugali:espanja:me, hindi:मैं (mẽ), suahili:mimi  
 **midi** *keskiverto (keski-)* ← espanja:medio, englanti:medium, hindi:माद्धयम (mādhyam)  
 **mien** *nuudeli* ← yleiskiina:面 (miàn), malaiji:mie, japani:麺 (men), thai:หมี่ (mii), khmer:មី (mi)  
@@ -1504,7 +1505,7 @@
 **xulkan** *koulu (opisto)* ← yleiskiina:学 (xué) + deu:Schule, suahili:shule + englanti:school, ranska:école, espanja:escuela, portugali:escola, venäjä:школа (škola), hindi:स्कूल (skūl), bangla:স্কুল (śkul), malaiji:sekolah  
 **xure** *alku (alkaa; aloittaa)* ← arabia: شُرُوع‎ (šurūʿ), persia: شروع (šoru') , hindi:शुरू (śurū), bangla:শুরু (śuru) + yleiskiina:始 (shǐ), japani:始 (kaishi), korea:시 (shi)  
 **xute** *taito* ← yleiskiina:术 (shù), kantoninkiina:術 (seot6), japani:術 (jutsu), korea:술 (sul)  
-**ya** *kyllä* ← englanti:yeah, deu:ja, malaiji:ya + yleiskiina:呀 (ya)  
+**ya** *hän (se)* ← hindi:यह (yeh) + suahili:yeye, zulu:yena, lingala:ye + venäjä:е- (ye-) + malaiji:ia + yleiskiina:伊 (yī), vietnami:y  
 **yage** *noin (arviolta, suunnilleen)* ← korea:약 (yag), japani:約 (yaku), kantoninkiina:約 (yœk), yleiskiina:约 (yuē) + turkki:yaklaşık  
 **yake** *jakki* ← englanti:deu:ranska:espanja:turkki:yak, portugali:iaque, hindi:याक (yāk)  
 **yame** *nauttia (syödä, juoda)* ← khmer:ញ៉ាំ (nyam), fulani:nyami, + espanja:ñam, venäjä:ням (nyam), italia:gnam, englanti:yum, korea:냠냠 (nyamnyam), unkari:nyam  
@@ -1512,7 +1513,7 @@
 **yasen** ** ← venäjä:ясень (yasen’), puola:jesion  
 **yatim** *orpo* ← arabia:persia:(yatim), turkki:yetim, suahili:yatima, hindi:यतीम (yatīm)  
 **yau** *tarvita (tarve, puute)* ← yleiskiina:要 (yāo), kantoninkiina:要 (jiu1), wu-kiina:要 (yo1), japani:要 (yō), vietnami:yêu  
-**ye** *hän (se)* ← hindi:यह (yeh) + suahili:yeye, zulu:yena, lingala:ye + venäjä:е- (ye-) + malaiji:ia + yleiskiina:伊 (yī), vietnami:y  
+**ye** *kyllä* ← englanti:yeah + malaiji:ya + korea:예 (ye)  
 **yege** *pyytää (metsästää, kalastaa)* ← deu:jagen + englanti:jaeger, venäjä:егерь (jeger’)  
 **yeze** *kookos* ← yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)  
 **yodium** *jodi* ← englanti:iodine, ranska:iode, espanja:yodo (iodo), portugali:iodo, venäjä:йод, japani:ヨウ素, korea:요오드, vietnami:iot, hindi:आयोडिन, bangla:আয়োডিন, malaiji:yodium, suahili:iodini, arabia: يود  

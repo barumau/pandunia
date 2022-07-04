@@ -876,8 +876,9 @@
 **melon** ** ← angla:franca:melon, hispana:melón, portugala:melão, japana:メロン (meron), korea:멜론 (mellon)  
 **mem** *memoro* ← angla:memory, franca:mémoire, hispana:memoria, portugala:memória  
 **member** *membro* ← angla:member, hispana:miembro, portugala:membro, franca:membre, japana:メンバー (menbā)  
-**men** *signifo* ← araba:(maʿnā), persa:urdua:(ma'ni), hindia:मअनी (maani), svahila:maana, haw:manaʻo, angla:meaning, deu:Meinung  
+**men** ** ← angla:men, deu:man + mandarena:们 (men), kantona:們 (mun4) + (tumen) hindia:तुम (tum), rom:tumen  
 **mendelevium** ** ← angla:mendelevium, franca:mendélévium, hispana:mendelevio, portugala:mendelévio, rusa:менделевий, mandarena:钔 (mén), japana:メンデレビウム, korea:멘델레븀, vjetnama:menđelevi, hindia:मेण्डेलीवियम, bengala:মেন্ডেলিভিয়াম, malaja:mendelevium, svahila:mendelevi, araba: مندلفيوم  
+**mene** *signifo* ← angla:mean, deu:Meinung + araba:(maʿnā), hindia:मअनी (maani), persa:urdua:(ma'ni), svahila:maana, haw:manaʻo  
 **meninge** ** ← angla:meninx, hispana:portugala:meninge, franca:méninge  
 **mente** ** ← angla:mind, hispana:portugala:mente, hindia:मन (man), bengala:মন (môn)  
 **menter** ** ← sanskrita:मन्त्रिन् (mantrin), hindia:मंत्री (mantrī), taja:มนตรี (mon-tri), malaja:menteri, angla:deu:franca:portugala:hispana:mentor, japana:メンター (mentā), korea:멘토 (mento), rusa:ментор (mentor)  
@@ -886,9 +887,9 @@
 **mester** ** ← portugala:mestre, franca:maître, polona:mistrz, angla:master, rusa:мастер (master), hispana:maestro, deu:Meister, hindia:(mistrī)  
 **metal** *metalo* ← angla:hispana:portugala:turka:metal, franca:métal, deu:Metall, rusa:мета́лл (metáll)  
 **metode** *metodo* ← angla:method, hispana:portugala:método, franca:méthode, rusa:ме́тод (métod), turka:metod, malaja:metode  
-**metre** *mezuro* ← angla:meter, hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra  
+**metre** *mezuri* ← angla:meter, hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra  
 **metrograf** ** ← hindia:मानचित्र (māncitra), bengala:মানচিত্র (mancitr) + mandarena:地图 (dìtú), kantona:地圖 (dei6 tou4), japana:地図 (chizu), korea:지도 (jido), vjetnama:địa đồ  
-**meze** *tablo* ← portugala:hispana:mesa, hindia:मेज़ (mez), svahila:meza, malaja:meja, tamila:மேசை (mesei), persa: میز‏‎ (miz), turka:masa  
+**meza** *tablo* ← portugala:hispana:mesa, hindia:मेज़ (mez), svahila:meza, malaja:meja, tamila:மேசை (mesei), persa: میز‏‎ (miz), turka:masa  
 **mi** *mi* ← angla:me, franca:portugala:hispana:me, hindi:मैं (mẽ), svahila:mimi  
 **midi** *mezo* ← hispana:medio, angla:medium, hindia:माद्धयम (mādhyam)  
 **mien** *nudelo* ← mandarena:面 (miàn), malaja:mie, japana:麺 (men), taja:หมี่ (mii), kmera:មី (mi)  
@@ -1504,7 +1505,7 @@
 **xulkan** *lernejo* ← mandarena:学 (xué) + deu:Schule, svahila:shule + angla:school, franca:école, hispana:escuela, portugala:escola, rusa:школа (škola), hindia:स्कूल (skūl), bengala:স্কুল (śkul), malaja:sekolah  
 **xure** *komenci* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
 **xute** ** ← mandarena:术 (shù), kantona:術 (seot6), japana:術 (jutsu), korea:술 (sul)  
-**ya** *jes* ← angla:yeah, deu:ja, malaja:ya + mandarena:呀 (ya)  
+**ya** *li aŭ ŝi aŭ ĝi* ← hindia:यह (yeh) + svahila:yeye, zulua:yena, lingala:ye + rusa:е- (ye-) + malaja:ia + mandarena:伊 (yī), vjetnama:y  
 **yage** ** ← korea:약 (yag), japana:約 (yaku), kantona:約 (yœk), mandarena:约 (yuē) + turka:yaklaşık  
 **yake** ** ← angla:deu:franca:hispana:turka:yak, portugala:iaque, hindia:याक (yāk)  
 **yame** *manĝi (trinki)* ← kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam  
@@ -1512,7 +1513,7 @@
 **yasen** ** ← rusa:ясень (yasen’), polona:jesion  
 **yatim** ** ← araba:persa:(yatim), turka:yetim, svahila:yatima, hindia:यतीम (yatīm)  
 **yau** *bezoni* ← mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu  
-**ye** *li aŭ ŝi aŭ ĝi* ← hindia:यह (yeh) + svahila:yeye, zulua:yena, lingala:ye + rusa:е- (ye-) + malaja:ia + mandarena:伊 (yī), vjetnama:y  
+**ye** *jes* ← angla:yeah + malaja:ya + korea:예 (ye)  
 **yege** *ĉasi* ← deu:jagen + angla:jaeger, rusa:егерь (jeger’)  
 **yeze** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
 **yodium** *jodo* ← angla:iodine, franca:iode, hispana:yodo (iodo), portugala:iodo, rusa:йод, japana:ヨウ素, korea:요오드, vjetnama:iot, hindia:आयोडिन, bengala:আয়োডিন, malaja:yodium, svahila:iodini, araba: يود  

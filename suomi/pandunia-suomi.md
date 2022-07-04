@@ -2137,8 +2137,8 @@ memnote - muistio (muistiinmerkintä)
 • dememe - unohtaa  
 membe - kuulua (olla jäsenenä)  
 member - jäsen (osatekijä, komponentti)  
-men - merkitys  
-mene - merkitä (tarkoittaa)  
+men - ihmiset (passiivin pronomini)  
+mene - merkitä (tarkoittaa; merkitys)  
 mendelevium - mendelevium  
 meninge - aivokalvo  
 meningitis - aivokalvontulehdus  
@@ -2151,17 +2151,16 @@ metal - metalli
 metallin - vaijeri (metallilanka)  
 metalzanger - seppä  
 metode - keino (menetelmä, metodi)  
-metre - mitta (koko, määrä)  
-metre - mitata  
+metre - mitata (mitta, koko, määrä)  
+• parametre - parametri (oheisarvo)  
 metrograf - kartta  
 metrografia - kartogratia  
-• parametre - parametri (oheisarvo)  
-meze - pöytä  
+meza - pöytä  
 mezatexe - pöytäliina  
 mi - minä  
-mimon - meidän  
-mimon su - me  
 mi su - minun  
+mimen - me  
+mimen su - meidän  
 Myanma - Myanmar (Burma)  
 mide - väli  
 midia - media  
@@ -3453,9 +3452,9 @@ trigone - kolmio
 tribe - heimo  
 Trinidade e Tobago - Trinidad ja Tobago  
 tu - sinä  
-tumon - te  
-tumon su - teidän  
 tu su - sinun  
+tumen - te  
+tumen su - teidän  
 tualete - vessa  
 tube - putki (tuubi)  
 tuhe - sylkeä  
@@ -3723,7 +3722,10 @@ xute - taito
 
 ##   
 
-ya - kyllä  
+ya - hän (se)  
+ya su - hänen (sen)  
+yamen - he  
+yamen su - heidän  
 yage - noin (arviolta, suunnilleen)  
 yagife - arvioida  
 yahve - Jahve (Jehova)  
@@ -3745,10 +3747,7 @@ yau - tarvita (tarve, puute)
 • yavike - puutteenalainen  
 • beyau - tarpeellinen  
 • anbeyau - tarpeeton  
-ye - hän (se)  
-yemon - he  
-yemon su - heidän  
-ye su - hänen (sen)  
+ye - kyllä  
 yege - pyytää (metsästää, kalastaa)  
 • yeger - pyytäjä (metsästäjä, kalastaja)  
 Yemen - Jemen  

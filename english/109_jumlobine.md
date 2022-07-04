@@ -19,9 +19,9 @@ In the simplest sentences, the subject is a pronoun and the predicate is an adje
 
 **mi bon.**
 – I am good.  
-**ye nove.**
+**ya nove.**
 – It is new.  
-**ye Sara.**
+**ya Sara.**
 – She is Sara.
 
 When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
@@ -41,9 +41,9 @@ Then the verb **si** is not needed.
 |------------------|--------------------|
 | **mi bon.**      | **mi no bon.**     |
 | I am good.       | I am not good.     |
-| **ye nove.**     | **ye no nove.**    |
+| **ya nove.**     | **ya no nove.**    |
 | It is new.       | It is not new.     |
-| **ye Sara.**     | **ye no Sara.**    |
+| **ya Sara.**     | **ya no Sara.**    |
 | She is Sarah.    | She is not Sarah.  |
 | **Sara si bon.** | **Sara no bon.**   |
 | Sarah is good.   | Sarah is not good. |
@@ -51,7 +51,7 @@ Then the verb **si** is not needed.
 
 Also two personal pronouns can be combined with **si** and **no**.
 
-**mi si ye.**
+**mi si ya.**
 – I am he/she.  
 **mi no tu.**
 – I'm not you.
@@ -78,14 +78,14 @@ These come after the predicate.
 – I walk.  
 **tu yam yo apel.**
 – You eat some apples.  
-**mimon dona ye yo pesa.**
+**mimen dona ya yo pesa.**
 – We give her some money.
 
 Sometimes, the subjet of one sentence can become the object of another.
 
-**la fuke ya gan.**
+**la fuke ye gan.**
 – The clothes dry.  
-**la sol ya gan la fuke.**
+**la sol ye gan la fuke.**
 – The sun dries the clothes.
 
 To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
@@ -209,14 +209,14 @@ The easiest way to form a yes-no question in Pandunia is to simply attach the pa
 It is also possible to use
 **no**
 ('no', 'not') or
-**ya**
+**ye**
 ('yes') instead of
 **he**
 to suggest the expected answer.
 
 **tu yam un piza, no?**
 – You eat a pizza, don't you?  
-**tu yam un piza, ya?**
+**tu yam un piza, ye?**
 – You eat a pizza, right?
 
 The third way to ask a yes-no question is to contradict the verb
@@ -235,27 +235,27 @@ Finally, you can emphasize the question by using **sual**.
 – Do you eat a pizza?
 
 Yes-no questions are answered with
-**ya**
+**ye**
 ('yes') and
 **no**
 ('no').
 
 **tu vide mi, he?**
 – Do you see me?  
-**ya. (mi ya vide tu.)**
+**ye. (mi ye vide tu.)**
 – Yes. (I _do_ see you.)  
 **no. (mi no vide tu.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ya**
+**ye**
 and
 **no**
 apply to the verb, not the whole question.
 
 **tu no vide mi, he?**
 – Don't you see me?  
-**ya. (mi vide tu.)**
+**ye. (mi vide tu.)**
 – Yes. (I see you.)  
 **no. (mi no vide tu.)**
 – No. (I don't see you.)
@@ -293,9 +293,9 @@ However, unlike in English, the word order may also be left alone.
 – What are you eating?  
 **tu zai yam ke?**
 – You are eating what?  
-**ye lai a ke sate?**
+**ya lai a ke sate?**
 – When does he arrive?  
-**tumon keka a ke jen su dom?**
+**tumen keka a ke jen su dom?**
 – Whose house did you all visit?
 
 
@@ -356,7 +356,7 @@ In Pandunia they are typically introduced with the conjunction
 
 **mi sabe ki tu si doste.**
 – I know that you are a friend.  
-**yemon fikir ki mimon le cuti.**
+**yamen fikir ki mimen le cuti.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -366,7 +366,7 @@ points to the following content clause and
 **la**
 points to the previous one.
 
-**go si bari, ki mi le no vide yemon.**
+**go si bari, ki mi le no vide yamen.**
 – _It_ is important _that I haven't seen them_.  
 **ki pan jen be sana ka par, la si klar.**
 – _That all people are created as equals_; _it_ is clear.
@@ -391,7 +391,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 The word **gar** means 'to suppose',
 and in conditional sentences, it works in the same way as English 'if'.
 
-**mi no yam ye gar mi si tu.**
+**mi no yam ya gar mi si tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
@@ -432,25 +432,25 @@ Expressions are affirmative by default.
 
 **mi si xefe.**
 – I am the boss.  
-**ye si nove meza.**
+**ya si nove meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
-**ya**
+**ye**
 ('yes indeed').
 
-**mi ya si xefe.**
+**mi ye si xefe.**
 – I indeed am the boss.  
-**ye ya si nove meza.**
+**ya ye si nove meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**ye no si xefe.**
+**ya no si xefe.**
 – He is not the boss.  
-**ye no si nove meza.**
+**ya no si nove meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -461,7 +461,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **mi no vide tu.**
 – I don't see you.  
-**mi vide no tu a yemon.**
+**mi vide no tu a yamen.**
 – I see, not you, but them.
 
 **mi cing tu safe la kamar.**
@@ -542,13 +542,13 @@ The same particle is used with with personal pronouns too.
 – my house  
 **tu su dom**
 – your house  
-**ye su dom**
+**ya su dom**
 – his or her house  
-**mimon su dom**
+**mimen su dom**
 – our house  
-**tumon su dom**
+**tumen su dom**
 – your house  
-**yemon su dom**
+**yamen su dom**
 – their house
 
 
@@ -600,7 +600,7 @@ indicates a suggestion or a command.
 indicates disdainment, disrespect or contempt.
 It translates as *bah*, *fie*.
 
-**tu fete ye, fi.**
+**tu fete ya, fi.**
 – You did it, bah.  
 **fi! piza! mi no vole.**
 – Bah! Pizza! I don't want (it).
@@ -616,7 +616,7 @@ It translates as *eh?* or *huh?*.
 **me**
 indicates indifference, boredom or lack of excitement.
 
-**me. ye no nove.**
+**me. ya no nove.**
 – Meh. It's not new.
 
 **ne**
@@ -628,7 +628,7 @@ One uses it at the end of sentence if one is not completely sure about something
 
 **tu ame kafe, ne? cepe un kupe ba!**
 – You love coffee, right? Grab a cup!  
-**ye nove, ne?**
+**ya nove, ne?**
 – It is new, isn't it?
 
 **na**
@@ -636,16 +636,16 @@ is used to introduce a statement.
 It can fill a pause, particularly at the beginning of a response to a question.
 It can also introduce a statement that may be contrary to expectations.
 
-**tu kitabe ye, he? – na, no le.**
+**tu kitabe ya, he? – na, no le.**
 – Did you write it? – Well, not yet.  
-**ye bon, ne? – na, ya.**
+**ya bon, ne? – na, ye.**
 – It's good, isn't it? – Well, yes.
 
 **o**
 indicates that the speaker is uncertain of the matter.
 It roughly translates as *or...?*.
 
-**ye okei a tu, o...**
+**ya okei a tu, o...**
 – It is okay for you, or...
 
 **va**
@@ -654,21 +654,21 @@ It can be used on its own or at the start or end of a sentence to express how am
 
 **va!**
 Wow!  
-**va, ye dai!**
+**va, ya dai!**
 – Wow, it's big!  
-**ye dai, va!**
+**ya dai, va!**
 – It's so big!
 
-**ya**
+**ye**
 reinforces the meaning of the sentence
 or indicates agreement.
 The speaker is absolutely sure of what they are saying.
 It can be translated as *indeed* or *truly*.
 
-**mi le vide tu ya.**
+**mi le vide tu ye.**
 – I truly saw you.  
-**ye ver, ya.**
+**ya ver, ye.**
 – It is true indeed.  
-**ye nove, ne? – ye nove, ya.**
+**ya nove, ne? – ya nove, ye.**
 – It is new, right? – It's new indeed.
 

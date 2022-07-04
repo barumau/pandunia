@@ -46,7 +46,7 @@ is placed immediately before the verb.
 
 **tu _rapide_ loga.**
 – You talk _fast_.  
-**yemon _bon_ kitabe.**
+**yamen _bon_ kitabe.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -56,7 +56,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _sundar di_ kitabe.**
 – You write _beautifully_.  
-**yemon _rapide di_ marce.**
+**yamen _rapide di_ marce.**
 – They walk _fast_.
 
 

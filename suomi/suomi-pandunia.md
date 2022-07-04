@@ -600,11 +600,11 @@ hautakivi - gabrite
 hautausmaa - gabrostan  
 Havaiji - Havai  
 Havaijin saaret - Havai nesia  
-he - yemon  
+he - yamen  
 hedelmä - pal  
 hei (haloo) - halou  
 hei - hei  
-heidän - yemon su  
+heidän - yamen su  
 heijastaa (peilata) - mire  
 heijastaa (taittaa takaisin) - reflexe  
 heijastaa kuvia (projisoida; projektio) - jetografe  
@@ -751,8 +751,8 @@ hämmentää (sekoittaa; hämmennys, turbulenssi) - disturbe
 hämmästys (ihmetys) - ajibia  
 hämähäkinverkko - aranonete  
 hämähäkki - arane  
-hän (se) - ye  
-hänen (sen) - ye su  
+hän (se) - ya  
+hänen (sen) - ya su  
 häntä - vei  
 häpeä - xarme  
 häpy (ulkosynnyttimet) - vulve  
@@ -775,6 +775,7 @@ ihme - mirokle
 ihmetellä - mire  
 ihmeteltävä - mirable  
 ihminen - human  
+ihmiset (passiivin pronomini) - men  
 ihmiskunta - humania  
 ihmisoikeudet - human hake  
 ikkuna - janel  
@@ -1444,7 +1445,7 @@ kuvaruutu - ekran
 kuvitella (kuvittelu, mielikuvitus, fantasia) - fantas  
 Kuwait - Kuvaitia  
 kykenevä (voiva) - ablan  
-kyllä - ya  
+kyllä - ye  
 kylmä - lenge  
 kylpy (kylpeä) - banya  
 kylpyhuone - banyakamar  
@@ -1812,13 +1813,13 @@ Mauritius - Maurisia
 mauste - masale  
 maya (mayaintiaani) - mayan  
 Mayotte - Mayote  
-me - mimon su  
+me - mimen  
 media - midia  
 megawatti (MW) - megavate  
 mehiläinen - maduvespe  
 mehiläinen tai ampiainen - vespe  
 mehu - jus  
-meidän - mimon  
+meidän - mimen su  
 meitnerium - maitnerium  
 mekko (tunika) - tunike  
 Meksiko - Mehiko  
@@ -1838,11 +1839,10 @@ meri - hai
 meri- (merellinen) - hai  
 merirosvo (piraatti, kaappari) - pirater  
 merivoimat (sotalaivasto) - haigun  
-merkitys - men  
 merkitysoppi (semantiikka) - semolojia  
 merkitä (jättää jälki) - marke  
-merkitä (tarkoittaa) - mene  
 merkitä (tarkoittaa) - seme  
+merkitä (tarkoittaa; merkitys) - mene  
 merkitä jlkn - asinye  
 merkki (jälki) - marke  
 merkki (signaali) - sinye  
@@ -1885,9 +1885,8 @@ minuutti - minute
 minä - mi  
 missä? - a ke  
 mitali - medal  
-mitata - metre  
+mitata (mitta, koko, määrä) - metre  
 miten? - ke mode  
-mitta (koko, määrä) - metre  
 Moldova - Moldove  
 molybdeeni - molidenium  
 Monaco - Monako  
@@ -2569,7 +2568,7 @@ pääte: adjektiivi tai adverbi - –i
 päätyä johtopäätökseen - infere  
 pöly (tomu) - fun  
 pölynimuri - funcuper  
-pöytä - meze  
+pöytä - meza  
 pöytäliina - mezatexe  
 Qatar - Katar  
 
@@ -3168,7 +3167,7 @@ taulukoida - tablate
 taulutietokone (tabletti) - table konputer  
 taulutietokone (tabletti) - tablete konputer  
 tauti - pate  
-te - tumon  
+te - tumen  
 tee - cai  
 teehuone (kahvila) - caikan  
 teekuppi - caikupe  
@@ -3186,7 +3185,7 @@ tehdä uudestaan (toistaa) - rifete
 tehdä yhteistyötä - konkare  
 tehkäämme - haide  
 tehokas (tehoava, vaikuttava) - exfetive  
-teidän - tumon su  
+teidän - tumen su  
 teippi (nauha) - tepe  
 teismi (jumalusko) - devisme  
 teisti - deviste  
