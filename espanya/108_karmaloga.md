@@ -11,22 +11,22 @@ Por ejemplo, el verbo
 **si**
 (»ser>>) tiene la misma forma para todas las personas.
 
-**_mi_ si dosti.**
+**_mi_ si doste.**
 – Yo soy una amiga.  
-**_tu_ si dosti.**
+**_tu_ si doste.**
 – Tú eres un amigo.  
-**_ye_ si dosti.**
+**_ya_ si doste.**
 – Éla es amiga de alguien.  
-**_mimon_ si dosti.**
+**_mimen_ si doste.**
 – Nosotros somos unos amigos de alguien.  
-**_tumon_ si dosti.**
+**_tumen_ si doste.**
 – Ustedes son unas amigas de alguien.  
-**_yemon_ si dosti.**
+**_yemen_ si doste.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
-**mau si zou.**
+**mau si zoe.**
 – El gato es animal.
 
 Frecuentamente hay indicador entre el sujeto y el verbo
@@ -35,15 +35,15 @@ Es particularmente útil cuando el sujeto y el verbo son palabras de contenido
 que pueden servir de los dos.
 El indicador es tipicalmente una partícula o un verbo auxiliar.
 Un de los indicadores más adecuado es
-**ya**
+**ye**
 (»sí>>),
 que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
 **karote si uma yam.**
-– Pez es comida para gatos.  
-**uma _ya_ yam la karote.**
-– El gato come el pez.
+– Zanahoria es comida para caballos.  
+**uma _ye_ yam karote.**
+– El caballo come zanahorias.
 
 Otros indicadores adecuado son verbos auxiliares de tiempo y modo,
 que se introducen suguiente.
@@ -53,24 +53,24 @@ que se introducen suguiente.
 
 La relación de un acción, evento, o estado a tiempo se indica con verbos auxiliares.
 
-**xuru**
+**xure**
 (»empezar>>, »comenzar>>)
 indica el comienzo de una acción o transición a una situación nueva.
 
-**mi xuru fuku la kote.**
+**mi xure fuke la kote.**
 – Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-**kaguji ya xuru hogo.**
+**kaguje ye xure hoge.**
 – Papel empieza a quemar.  
-**tu xuru yam.**
+**tu xure yam.**
 – Empiezas a comer.
 
 **fin**
 (»dejar>>, »terminar>>)
 indica el fin de una acción o situación.
 
-**yemon fin haha.**
+**yamen fin haha.**
 – Dejan de reírse.  
-**kaguji ya fin hoge.**
+**kaguje ye fin hoge.**
 – Papel deja de quemar.
 
 **pul**
@@ -93,14 +93,14 @@ indica que una situación es actual.
 (»seguir>>, »continuar>>)
 indica que una situación está continuando o en progreso.
 
-**mi dur yam un pizza.**
-– Sigo comiendo una pizza.
+**mi dur yam la piza.**
+– Sigo comiendo la pizza.
 
-**ada**
+**ade**
 (»habitual>>, »acostumbrado>>)
 indica que una acción ocurre frecuentamente.
 
-**mi ada gul yo bir.**
+**mi ade gul yo bir.**
 – Tengo la costumbre de bebir cerveza.
 
 **le**
@@ -108,17 +108,17 @@ indica que una acción ocurre frecuentamente.
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.
 
-**ye _le_ si guru.**
+**ya _le_ si guru.**
 – Se ha hecho docente.  
 **mi _le_ no gul yo alkohol.**
 – Ya no bebir alcohol.  
 **mi no _le_ gul yo alkohol.**
 – No he bebido alcohol.  
-**mi _le_ don la buku do yemon.**
+**mi _le_ don la buke do yamen.**
 – Los he dado el libro. (Todavía lo tienen y yo no.)  
-**yemon no _le_ don ye re do mi.**
+**yamen no _le_ ridone ya do mi.**
 – No me lo han devuelvo.  
-**mi le do siti.**
+**mi _le_ lai do site.**
 – He venido a la ciudad.
 
 **pas**
@@ -126,9 +126,9 @@ Preste atención a la consecuencia de una acción pasada a la situación actual.
 indica que una situación terminó
 y es pertinente solo como una experiencia.
 
-**mi pas don la buku do yemon.**
+**mi pas done la buke do yamen.**
 – Los di el libro. (Tal vez no todavía lo tienen, o lo devolvieron.)  
-**mi pas keka la France.**
+**mi pas vizite Franse.**
 – Visité Francia.  
 **mi pas ada gul yo bir.**
 – Yo solía bebir cerveza. / Tení la costumbre de bebir cerveza.
@@ -137,7 +137,7 @@ y es pertinente solo como una experiencia.
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-**ye _xa_ si guru.**
+**ya _xa_ si guru.**
 – Será docente.  
 **mi no _xa_ gul yo bir.**
 – No voy a bebir una cerveza.

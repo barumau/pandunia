@@ -8,7 +8,7 @@ Entonces la misma forma se usa en singular y plural, en definido e indefinido, e
 
 **ite**
 – una piedra, unas piedras, la piedra, o las piedras  
-**moka**
+**moke**
 – un árbol, unos árboles, el álbol, o los árboles  
 **kursi**
 – una silla, unas sillas, la silla, o las sillas  
@@ -83,8 +83,8 @@ y las palabras que preceden a ella solo modifica el significado.
 
 **sol fote**
 – luz solar  
-**luna fote**
+**lun fote**
 – luz lunar  
-**luna ite**
+**lun ite**
 – roca lunar
 

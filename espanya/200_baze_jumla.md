@@ -76,22 +76,22 @@ indonesio: selamat.</small>
 
 ### shukur <small>gracias</small>
 
-**xukur!**
+**xukre!**
 ¡Gracias!
 
-**xukur tu.**
+**xukre tu.**
 Gracias. (a ti.)
 
-**mi xukur tu.**
+**mi xukre tu.**
 Te agradezco.
 
-**mi xukur tu mede mi.**
+**mi xukre tu mede mi.**
 Te agradezco por ayudarme.
 
-**xukur tu mede mi.**
+**xukre tu mede mi.**
 Gracias por ayudarme.
 
-**no yau xukur.**
+**no yau xukre.**
 De nada. No hay de qué.
 
 
@@ -112,7 +112,7 @@ Yo saludo a papá.
 La palabra **salam** es un sustantivo y un verbo.
 El orden básico de las palabras en pandunia es sujeto–verbo–objeto.
 
-**Sara ya salam Tomas.**
+**Sara ye salam Tomas.**
 Sara saluda a Tomás.
 
 **salam mama!**
@@ -144,24 +144,24 @@ Te amo. (Yo ama ti)
 <small>Etimología. **tu** viene del espanñol: tú, russo:  ты (ty), italiano: tu, francés: tu.</small>
 
 
-### ye <small>él, ella o eso</small>
+### ya <small>él, ella o eso</small>
 
-**ye si man.**
+**ya si man.**
 Él es un hombre.
 
-**ye si fem.**
+**ya si fem.**
 Ella es una mujer.
 
-**ye si aple.**
+**ya si aple.**
 Eso es una manzana.
 
-**ye** es un pronombre personal de tercera persona general. Es usado en
+**ya** es un pronombre personal de tercera persona general. Es usado en
 personas (sin importar su género) y en cosas.
 
-**mi salam ye.**
+**mi salam ya.**
 Yo lo/la saludo.
 
-<small>Etimología. **ye** viene del hindi: यह (yeh), suajili: yeye, malayo: ia, mandarín: 伊 (yī)</small>
+<small>Etimología. **ya** viene del hindi: यह (yeh), suajili: yeye, malayo: ia, mandarín: 伊 (yī)</small>
 
 
 ### sual <small>se utiliza para preguntar</small>
@@ -188,18 +188,18 @@ No estoy bien.
 
 
 
-### ya <small>sí</small>
+### ye <small>sí</small>
 
 **sual tu si Tomas?**
 ¿Eres Tomás?.
 
-**ya, mi si Tomas.**
+**ye, mi si Tomas.**
 Sí, soy Tomás.
 
-**sual ye si dava ja?**
+**sual ya si dava ja?**
 ¿Él/ella es doctor/a?
 
-**ya, ye si dava ja.**
+**ye, ya si dava ja.**
 Sí, él/ella es doctor/a.
 
 
@@ -213,7 +213,7 @@ No soy doctor/a.
 
 **sual tu bon?**
 ¿Estás bien?  
-**ya. mi bon.**
+**ye. mi bon.**
 Sí, estoy bien.
 
 **sual tu bon?**
@@ -224,7 +224,7 @@ No, no estoy bien.
 Puedes usar **no** para negar cualquier cosa. Se coloca antes de la cosa que se
 va a negar.
 
-**ye no salam mi.**
+**ya no salam mi.**
 Él/ella no me saluda.
 
 <small>Etimología. **no**
@@ -235,33 +235,33 @@ viene del español: no, inglés: nofrancés: non.</small>
 
 **mi**
 (yo) →
-**mimon**
+**mimen**
 (nosotros)  
 **tu**
 (tú) →
-**tumon**
+**tumen**
 (vosotros)  
-**ye**
+**ya**
 (él, ella) →
-**yemon**
+**yamen**
 (ellos, ellas)
 
-**mimon salam tumon.**
+**mimen salam tumen.**
 Nosotros los saludamos a ustedes. 
 
-**tumon salam yemon.**
+**tumen salam yamen.**
 Ustedes los saludan a ellos.
 
-**yemon salam mimon!**
+**yamen salam mimen!**
 ¡Ellos nos saludan!
 
-**mimon si fem.**
+**mimen si fem.**
 Nosotras somos mujeres.
 
-**tumon si man.**
+**tumen si man.**
 Ustedes son hombres.
 
-**yemon si aple.**
+**yamen si aple.**
 Esas son manzanas.
 
 
@@ -275,15 +275,15 @@ Esas son manzanas.
 **mi si Tomas.**
 Soy Tomás.
 
-**ye si ke?**
+**ya si ke?**
 ¿Quién es él/ella?  
-**ye si Sara.**
+**ya si Sara.**
 Ella es Sara.
 
-**tumon si ke?**
+**tumen si ke?**
 ¿Quiénes son ustedes?
 
-**yemon si ke?**
+**yamen si ke?**
 ¿Quiénes son ellos/as?
 
 <small>Etimología. **ke** viene del español: qué, portugués: que, italiano:
@@ -312,13 +312,13 @@ Esta manzana es roja.
 **ni si rubi.**
 Esta es roja.
 
-**yemon na ke?**
+**yamen na ke?**
 ¿Dónde están?
 
-**yemon na ni.**
+**yamen na ni.**
 Están aquí.
 
-**yemon na go.**
+**yamen na go.**
 Están allá.
 
 ### la <small>él, la, los, las</small>
@@ -340,22 +340,22 @@ Quiero la manzana roja.
 **ni si ke?**
 ¿Qué es esto?
 
-**ye si mi su tele fon gi.**
+**ya si mi su tele fon gi.**
 Es mi teléfono.
 
 **ni si ke su?**
 ¿De quién es esto?
 
-**ye si mi su.**
+**ya si mi su.**
 Es mío.
 
 Nota: La partícula posesiva **su** se pone entre el poseedor y la cosa poseída.
 Así **mi su** significa "mi/mío", **tu su** significa "tu/tuyo", y así.
 
-**ye si ke?**
+**ya si ke?**
 ¿Quién es él/ella?
 
-**ye si mi su dosti.**
+**ya si mi su dosti.**
 Él/ella es mi amigo/a.
 
 **mi si Sara su doste.**
@@ -373,10 +373,10 @@ español: su, portugués: seu, francés: son, inglés: ’s.</small>
 **mi su nam si Tomas.**
 Mi nombre es Tomás.
 
-**ye su nam si ke?**
+**ya su nam si ke?**
 ¿Cómo se llama (el/ella/eso)?
 
-**ye su nam si Sara.**
+**ya su nam si Sara.**
 Ella se llama Sara.
 
 <small>Etimología. **nam** viene del hindi: नाम  "nām", farsi: نام‏‎
@@ -389,10 +389,10 @@ Name, inglés: name.</small>
 **mi ten un bon dom.**
 Tengo una buena casa.
 
-**ye no ten pesa.**
+**ya no ten pesa.**
 Él/ella no tiene dinero.
 
-**mi vol ten un nove tele fon gi.**
+**mi vol ten un nove telefon.**
 Yo quiero tener un teléfono nuevo.
 
 **sual tu ten ben?**
@@ -403,22 +403,22 @@ Tengo dos niños.
 
 ### sabe <small>saber, conocer</small>
 
-**mi sabe ye.**
+**mi sabe ya.**
 Yo lo/a conozco a él/ella.
 
 **sual tu sabe go jen?**
 ¿Conoces esa persona?
 
-**sual tumon sabe semon?**
+**sual tumen sabe semen?**
 ¿Ustedes se conocen (entre ustedes)?
 
-**mimon sabe semon ze long.**
+**mimen sabe semon ze long.**
 Nosotros nos conocemos (entre nosotros) hace tiempo.
 
 
 ### mede <small>ayudar, ayuda</small>
 
-**mi yau mede.**
+**mi yau yo mede.**
 Necesito ayuda.
 
 **sual tu bil mede mi?**
@@ -437,10 +437,10 @@ Quiero ayudarte
 **sual tu vol yam yo?**
 ¿Te gustaría comer algo?
 
-**ye yam un aple.**
+**ya yam un aple.**
 Él/ella come una manzana.
 
-**yemon yam ba aple.**
+**yamen yam ba aple.**
 Ellos/as comen manzanas.
 
 Nota: A diferencia del español, pandunia no tiene formas separadas de singular y plural.
@@ -449,7 +449,7 @@ Por lo tanto una palabra como **aple** puede referirse a una o más manzanas.
 **sual tu yam kafe?**
 ¿Bebes café?
 
-**ya. mi yam kafe.**
+**ye. mi yam kafe.**
 Sí, yo bebo café.
 
 Ayuda: El significado de **yam** cubre tanto comer y beber. Puede parecer
@@ -511,15 +511,15 @@ Por favor, ven/vengan a casa.
 Por favor, ayúdame/ayúdenme.
 
 
-### haide <small>vamos</small>
+### haida <small>vamos</small>
 
-**haide yam!**
+**haida yam!**
 Comamos. (Literalmente: _Vamos, comamos_.)
 
-**haide ga yam!**
+**haida ga yam!**
 Vamos a comer.
 
-**haide ga dom.**
+**haida ga dom.**
 Vamos a casa.
 
 
@@ -572,14 +572,14 @@ No entiendo nada.
 
 ### bil <small>poder</small>
 
-**mi bil xofer gar.**
+**mi bil xofe un kar.**
 Puedo conducir un auto.
 
-**ye no bil xofer gar.**
+**ya no bil xofe un kar.**
 Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
-**sual tu bil xuli ye?**
+**sual tu bil xuli ya?**
 ¿Puedes arreglarlo?
 
 **sual tu bil pandunia?**
@@ -594,46 +594,46 @@ Puedo hablar un poco de pandunia.
 **mi no bil englix.**
 No puedo hablar inglés.
 
-**maf. mi no bil tu su bax.**
+**maf. mi no bil tu su baxe.**
 Lo siento. No puedo hablar tu idioma.
 
 
-### loga <small>decir, hablar</small>
+### loge <small>decir, hablar</small>
 
-**tu loga ke?**
+**tu loge ke?**
 ¿Qué dijiste?
 
-**mi loga do tu.**
+**mi loge do tu.**
 Te hablé.
 
-**mimon loga do semon.**
+**mimen loge do semen.**
 Hablamos entre nosotros.
 
-**mon loga «gato» na ke yang na pandunia?**
+**mon loge «gato» a ke yang a pandunia?**
 ¿Cómo se dice "gato" en pandunia?
 
-**«gato» si ke na pandunia?**
+**«gato» si ke a pandunia?**
 ¿Qué es "gato" en pandunia?
 
-**mau loga "miau".**
+**mau loge "miau".**
 El gato dice «miau».
 
 
-### audi <small>escuchar, oír</small>
+### aude <small>escuchar, oír</small>
 
-**audi mi!**
+**aude mi!**
 ¡Escúchame!
 
-**mi no bil audi tu.**
+**mi no bil aude tu.**
 No puedo oírte.
 
-**cing loga mas lika.**
+**cing loge max like.**
 Por favor, hablar más fuerte.
 
-**mi audi muzika.**
+**mi aude muzike.**
 Escucho música.
 
-**tu audi ke yang di muzike?**
+**tu aude ke yang di muzike?**
 ¿Qué clase de música escuchas?
 
 
@@ -645,25 +645,25 @@ Encantado de verte.
 **vide tu re!**
 ¡Hasta luego! (Literalmente: _¡Hasta que te vea de nuevo!_)
 
-**vide tu na pos den!**
+**vide tu a posden!**
 ¡Te veo mañana!
 
-**mi vide ye na cen den.**
+**mi vide ya a preden.**
 Lo/a vi a él/ella ayer.
 
 
-### mana <small>significar</small>
+### seme <small>significar</small>
 
-**ni loga mana ke?**
+**ni lexe ye seme ke?**
 ¿Qué significa esta palabra?
 
-**"mau" mana ke?**
+**"mau" ye seme ke?**
 ¿Qué significa "maw"?
 
-**ye mana un yang da zou.**
+**ya seme un yang de zoe.**
 Significa una clase de animal.
 
-**mi no aha ye mana ke.**
+**mi no aha ya seme ke.**
 No entiendo qué significa.
 
 
@@ -672,31 +672,31 @@ No entiendo qué significa.
 **cing kitabu tu su adres.**
 Por favor, escribe tu dirección.
 
-**cing kitabu ye na ni.**
+**cing kitabu ya na ni.**
 Por favor, escríbelo aquí.
 
 
-### basha <small>hablar un idioma, comunicar</small>
+### baxe <small>hablar un idioma, comunicar</small>
 
-**sual tumon baxa pandunia?**
+**sual tumen baxe pandunia?**
 ¿Hablas pandunia?
 
-**mimon baxa pandunia.**
+**mimen baxe pandunia.**
 Nosotros hablamos pandunia.
 
-**sual tu bil baxa englix?**
+**sual tu bil baxe englix?**
 ¿Puedes hablar inglés?
 
-**france, espanya, portugal, rus**
+**franse, espanya, portugal, rus**
 Francés, español, portugués, ruso
 
-**putong han, nipon, indonesia**
+**putong han, nipon, malayu**
 Chino, japonés, indonesio
 
 **arabi, turki, farsi, urdu, hindi**
 Árabe. turco, farsi, urdu, hindi
 
-**suahili, hausa, yoruba, amara**
+**suahili, hausa, yoruba, amare**
 Suajili, hausa, yoruba, amhárico
 
 
@@ -707,7 +707,7 @@ Suajili, hausa, yoruba, amhárico
 **tu ga ke?**
 ¿A dónde vas?
 
-**mi ga do dom.**
+**mi ga la dom.**
 Voy a casa.
 
 **mi mus ga ke?**
@@ -716,7 +716,7 @@ Voy a casa.
 **mi mus ga do ke jen?**
 ¿A quién debería ir?
 
-**haide ga!**
+**haida ga!**
 ¡Vamos! (a algún lugar)
 
 **haide ga na fute**
@@ -743,7 +743,7 @@ Vendré a casa mañana.
 **sual tu safar na tren?**
 ¿Viajas en tren?
 
-**mimon safar ze London do Paris.**
+**mimen safar ze London do Paris.**
 Nosotros viajamos de Londres a París.
 
 **safar tre long.**
@@ -752,28 +752,28 @@ El viaje es muy largo.
 
 ### na <small>en, estar en (lugar)</small>
 
-**hotel na ke?**
+**hotel a ke?**
 ¿Dónde está el hotel?
 
-**hotel na go dau.**
+**hotel a go dau.**
 El hotel está por ese camino.
 
-**tu na ke?**
+**tu a ke?**
 ¿Dónde estás?
 
-**mi na dom.**
+**mi a dom.**
 Estoy en casa.
 
-**ye na ke?**
+**ya a ke?**
 ¿Dónde está él/ella?
 
-**ye side na la kamar.**
+**ya side a kamar.**
 Él/ella se sienta en la habitación.
 
 Ayuda: Puedes usar **na**
 como una preposición o como un verbo por aparte.
 
-**mi gong na...**
+**mi gong a...**
 Trabajo en...
 
 
@@ -801,10 +801,10 @@ es necesario.
 **dele mi!**
 ¡Espérame!
 
-**yemon dele mimon.**
+**yamen dele mimen.**
 Ellos/as nos esperan.
 
-**mi dele tu na la hotel.**
+**mi dele tu a hotel.**
 Te espero en el hotel.
 
 ## Parte 5: Negocios
@@ -820,10 +820,10 @@ Por favor dame eso.
 **mi don ni xe do tu.**
 Te doy esto.
 
-**mi don un buku do yemon.**
+**mi don un buke do yamen.**
 Le doy un libro a ellos/as.
 
-**ye no vol don ye do mi.**
+**ya no vol don ya do mi.**
 Él/ella no quiere darme eso.
 
 
@@ -844,9 +844,9 @@ Voy a tomar una cerveza.
 
 ### kira <small>renta, alquiler</small>
 
-**mi vol kira kape un gare.**
+**mi vol kirokape un gare.**
 Quiero rentar un auto.
 
-**ye kira don la kamar do safar ja.**
+**ya kirodone la kamar do safarer.**
 Él/ella vende las habitaciones a los viajeros.
 

@@ -24,7 +24,7 @@ They are described in more detail later in this document.
       **mimen su** _our_, **tumen su** _your_, **yamen su** _their_.
      - The interrogative pronouns are: **ke** _what_ or _who_, **ke su** _whose_.
      - The impersonal pronoun is
-       **mon**
+       **men**
        (_one_, _you_, _they_)
 5. **Nouns:**
    Nouns have only one form, always the same.
@@ -39,7 +39,7 @@ They are described in more detail later in this document.
        - Tens: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
        - Hundreds: 100 **un sente**, 200 **du sente**, 300 **tri sente**, etc.
        - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
-       - The ordinal numbers use the suffix **me**: **un me** (first), **du me** (second), **tri me** (third), etc.
+       - The ordinal numbers use the suffix **-ime**: **unime** (first), **duime** (second), **trime** (third), etc.
 7. **Modifiers:**
    The adjective and the adverb have the same form.
    The adjective modifier is before the noun that it modifies,
@@ -62,15 +62,15 @@ They are described in more detail later in this document.
       A similar effect can be also reached with the impersonal pronoun **mon**.
         - **pandunia be loge.**
           – Pandunia is spoken.
-        - **mon loge la pandunia.**
+        - **men loge pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi cing tu loge la pandunia.**
+        - **mi cing tu loge pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ cing _tu_ loge la pandunia.**
-          → **cing loga la pandunia.**
+        - **_mi_ cing _tu_ loge pandunia.**
+          → **cing loge pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
    In Pandunia, words change only when their actual meaning changes.

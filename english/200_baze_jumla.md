@@ -617,16 +617,16 @@ Sorry. I don't understand you.
 **mi no bas aha tu.**
 I didn't quite understand you.
 
-**mi aha nol.**
+**mi aha siro xe.**
 I don't understand at all.
 
 
 ### bil <small>can</small>
 
-**mi bil xofer un kar.**
+**mi bil xofe un kar.**
 I can drive a car.
 
-**ya no bil xofer un kar.**
+**ya no bil xofe un kar.**
 He/she doesn't know how to drive a car.
 
 **sual tu bil xuli ya?**
@@ -644,7 +644,7 @@ I can speak a little Pandunia.
 **mi no bil englix.**
 I can't speak English.
 
-**maf. mi no bil tu su baxa.**
+**maf. mi no bil tu su baxe.**
 Sorry, I can't speak your language.
 
 
@@ -695,7 +695,7 @@ Pleased to see you!
 **vide tu re!**
 See you again!
 
-**vide tu a pos den!**
+**vide tu a posden!**
 See you tomorrow!
 
 **mi vide ya a preden.**
@@ -710,7 +710,7 @@ What does this word mean?
 **"mau" ye seme ke?**
 What does "mau" mean?
 
-**ya seme un yang de zou.**
+**ya seme un yang de zoe.**
 It means a kind of animal.
 
 **mi no aha ya seme ke.**
@@ -802,10 +802,10 @@ The voyage is very long.
 
 ### a <small>in, on, at</small>
 
-**la hotel a ke?**
+**hotel a ke?**
 Where is the hotel?
 
-**la hotel a go dau.**
+**hotel a go dau.**
 The hotel is on that road.
 
 **tu a ke?**
@@ -830,13 +830,13 @@ I work at ...
 
 ### dom <small>to live, reside</small>
 
-**tu dom a ke?**
+**tu dom ke?**
 Where do you live?
 
-**mi dom a Singapur.**
+**mi dom Singapur.**
 I live in Singapore.
 
-**sual tu dom a ni hotel?**
+**sual tu dom ni hotel?**
 Do you live in this hotel?
 
 
@@ -845,10 +845,10 @@ Do you live in this hotel?
 **cing dele!**
 Please wait!
 
-**dele do mi!**
+**dele mi!**
 Wait for me!
 
-**yamen dele do mimen.**
+**yamen dele mimen.**
 They wait for us.
 
 **mi dele do tu a hotel.**

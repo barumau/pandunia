@@ -76,16 +76,16 @@ These come after the predicate.
 
 **mi marce.**
 – I walk.  
-**tu yam yo apel.**
+**tu yam yo aple.**
 – You eat some apples.  
-**mimen dona ya yo pesa.**
+**mimen done ya yo pesa.**
 – We give her some money.
 
 Sometimes, the subjet of one sentence can become the object of another.
 
 **la fuke ye gan.**
 – The clothes dry.  
-**la sol ye gan la fuke.**
+**sol ye gan la fuke.**
 – The sun dries the clothes.
 
 To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
@@ -110,7 +110,7 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**mi vol tu yam ba fite.**
+**mi vol tu yam yo fite.**
 – I want you to eat vegetables.
 
 In the example above,
@@ -130,17 +130,17 @@ The second verb in a pivot structure is the main verb.
 The first verb is a modal verb,
 which indicates a modality such as desire, permission or obligation.
 
-**mi vol tu yam ba fite.**
+**mi vol tu yam fite.**
 – I want you to eat vegetables. (desire)  
-**mi sel tu yam ba fite.**
+**mi sel tu yam fite.**
 – I advise you to eat vegetables. (advice)  
-**mi halal tu yam ba fite.**
+**mi halal tu yam fite.**
 – I allow you to eat vegetables. (permission)  
-**mi bil tu yam ba fite.**
+**mi bil tu yam fite.**
 – I enable you to eat vegetables. (ability)  
-**mi mus tu yam ba fite.**
+**mi mus tu yam fite.**
 – I compel you to eat vegetables. (obligation)  
-**mi rai tu yam ba fite.**
+**mi rai tu yam fite.**
 – I think you eat vegetables. (opinion)
 
 
@@ -295,7 +295,7 @@ However, unlike in English, the word order may also be left alone.
 – You are eating what?  
 **ya lai a ke sate?**
 – When does he arrive?  
-**tumen keka a ke jen su dom?**
+**tumen vizite a ke jen su dom?**
 – Whose house did you all visit?
 
 

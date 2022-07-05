@@ -40,10 +40,10 @@ One of the many suitable markers is
 which adds no content to the sentence
 but helps to clarify its structure.
 
-**pexe si mau yam.**
-– Fish is cat food.  
-**mau _ye_ yam yo pexe.**
-– The cat eats some fish.
+**karote si uma yam.**
+– Carrot is horse food.  
+**uma _ye_ yam karote.**
+– The horse eats carrots.
 
 Other suitable markers include auxiliaries of time and mood,
 which are introduced next.
@@ -127,9 +127,9 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 – I have reached not drinking alcohol.  
 **mi _le_ don la buke do yamen.**
 – I have given the book to them. (So I don't have it.)  
-**yamen no _le_ don ya re do mi.**
+**yamen no _le_ ridone ya do mi.**
 – They haven't given it back to me.  
-**mi _le_ lai do siti.**
+**mi _le_ lai do site.**
 – I have come to the city.
 
 **pas**
@@ -137,13 +137,13 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**mi pas don la buke do yamen.**
+**mi pas done la buke do yamen.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
-**mi pas keka la France.**
+**mi pas vizite Franse.**
 – I have visited France.  
 **mi pas ada gul yo bir.**
 – I used to drink beer. / I had a habit of drinking beer.  
-**mi pas lai do siti.**
+**mi pas lai do site.**
 – I came to the city.
 
 **xa**

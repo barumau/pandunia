@@ -6,11 +6,11 @@ Pronombres pueden mantenerse en pie para sustantivos y frases nominales.
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi**      | **mimon**    |
+| **mi**      | **mimen**    |
 | yo          | nosotros     |
-| **tu**      | **tumon**    |
+| **tu**      | **tumen**    |
 | tú, usted   | ustedes      |
-| **ye**      | **yemon**    |
+| **ya**      | **yamen**    |
 | él, ella    | ellos, ellas |
 
 Todos los pronombres pueden usarse para todos los géneros.
@@ -20,11 +20,11 @@ Los pronombres posesivos consisten en el pronombre personal y la partícula pose
 
 | Singular    | Plural       |
 |:------------|:-------------|
-| **mi su**   | **mimon su** |
+| **mi su**   | **mimen su** |
 | mio         | nuestro      |
-| **tu su**   | **tumon su** |
+| **tu su**   | **tumen su** |
 | tuyo        | de ustedes   |
-| **ye su**   | **yemon su** |
+| **ya su**   | **yamen su** |
 | suyo        | de ellos     |
 
 
@@ -41,12 +41,12 @@ El pronombre reflexivo se usa cuando el objeto de una oración es la misma como 
 
 La expresión **semon** se usa cuando dos o más personas performan la acción el uno al otro.
 
-**semon**
+**semen**
 – el uno al otro
 
-**mi e tu vide semon.**
+**mi e tu vide semen.**
 – Yo y tú miramos el uno al otros.  
-**mimon vide semon.**
+**mimen vide semen.**
 – Nos miramos.
 
 
