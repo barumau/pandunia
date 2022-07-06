@@ -658,7 +658,7 @@ Germânia - Germania
 germânio - germanium  
 gilete - razor  
 ginásio - sportokan  
-girafa - ziraf  
+girafa - jiraf  
 girassol - soloful  
 glote - sonomun  
 golfinho (delfim) - dolfin  
@@ -912,7 +912,7 @@ melancia - arbuze
 meloa (cantalupo) - kantalupomelon  
 melão - melon  
 melão coreano - aromomelon  
-memória - mem  
+memória - meme  
 mendelévio - mendelevium  
 meninge - meninge  
 menosprezar (subestimar) - minrai  
@@ -1564,7 +1564,7 @@ verão - garmomosim
 vestir - fuke  
 vez - mar  
 vice-rei - visoreger  
-vida - zive  
+vida - jive  
 vidro - kance  
 violinista - violiste  
 violino - viole  
@@ -1573,7 +1573,7 @@ vir - lai
 virgem - virge  
 vitamina - vitamin  
 vivisecção - zivotome  
-vivo - zivi  
+vivo - jive  
 Vixnu - Vixnu  
 viúvo - vidou  
 voar (voo) - fei  

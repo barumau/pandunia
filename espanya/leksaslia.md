@@ -299,7 +299,7 @@
 **duman** *humo* ← hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)  
 **duna** *duna* ← eng:fra:dune, spa:por:duna, rus:дюна (diuna) + vie:đụn, kor:둔(덕) (dun(deok))  
 **dungia aventur** *juego de mazmorras* ← eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)  
-**dunia** *mundo* ← ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya  
+**dunia** *mundo* ← ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), ben:দুনিয়া (duniya), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya  
 **dur** *durar (llevar tiempo, transcurrir; duración)* ← eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)  
 **dus** *malo (difícil, duro)* ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
 **duse** *malo (difícil, duro)* ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
@@ -530,8 +530,8 @@
 **hor** *hora* ← fra:heure, eng:hour, spa:por:hora  
 **horloger** *reloj* ← lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:relógio, may:arloji  
 **hormon** *hormona* ← eng:fra:hormone, spa:hormona, rus:гормон (gormon), tur:may:hormon, ara:هُرْمُون‎ (hurmūn), hin:हॉर्मोन (hŏrmon), zho:荷尔蒙 (hé'ěrméng), jpn:ホルモン (horumon)  
-**hotel** *hotel (albergue)* ← eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)  
-**hui** *ceniza* ← zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)  
+**hotel** *hotel (albergue)* ← eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel), swa:hoteli  
+**hui** *ceniza* ← zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai) + kor:회색 (hoesaeg)  
 **huke** *gancho (anzuelo, alcayata)* ← eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak  
 **huli** *zorro* ← zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li  
 **humor** *humor (gracia)* ← rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)  
@@ -575,6 +575,8 @@
 **jete** ** ← fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje  
 **jin** ** ← zho:真 (zhēn), yue:真 (zan1), jpn:真 (shin), kor:진 (jin), tha:จริง (jing), kyr:tat:чын (çın) + eng:genuine  
 **jinje** *gengibre* ← tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre  
+**jiraf** *jirafa* ← ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf), may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)  
+**jive** *vida* ← hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy  
 **joke** *broma (chiste)* ← eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jongle** *hacer malabarismos* ← fra:jongler, eng:juggle, rus:жонглировать (žonglirovat’), jpn:ジャグリング (jaguringu)  
 **jube** *bata (aljuba)* ← ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba  
@@ -874,8 +876,7 @@
 **mei** *hermoso (bello, lindo)* ← zho:美 (měi), yue:美 (mei5), jpn:美 (mi), kor:미 (mi), vie:mĩ, mỹ  
 **melodia** *melodía* ← eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)  
 **melon** *melón* ← eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)  
-**mem** *memoria* ← eng:memory, fra:mémoire, spa:memoria, por:memória  
-**member** *miembro (componente)* ← eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)  
+**meme** *memoria* ← eng:memory, fra:mémoire, spa:memoria, por:memória  
 **men** ** ← eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen  
 **mendelevium** *mendelevio* ← eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم  
 **mene** *significar (significado, acepción)* ← eng:mean, deu:Meinung + ara:(maʿnā), hin:मअनी (maani), fas:urd:(ma'ni), swa:maana, haw:manaʻo  
@@ -1542,10 +1543,8 @@
 **zine** *adulterio* ← ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)  
 **zinke** *cinc* ← eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki  
 **zipe** *cerrar con cremallera* ← eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)  
-**ziraf** *jirafa* ← ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf), may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)  
-**zire** *comino* ← ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera  
+**zira** *comino* ← ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera  
 **zirkonium** *circonio* ← eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم  
-**zive** *vida* ← hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy  
 **zize** *chisporrotear* ← zho:zizi eng:sizzle  
 **zoe** *animal (bestia)* ← eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)  
 **zombi** *zombi* ← kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)  
@@ -1583,6 +1582,7 @@
 **• lojia** *ciencia (estudia, investigación)* ← eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji  
 **• mamal** *mamífero* ← eng:mammal, spa:por:mamífero, fra:mammifère, tur:memeli, may:mamalia  
 **• manter** *ministro* ← hin:मंत्री (mantrī), ben:মন্ত্রী (môntri), may:menteri, por:mandarim, eng:fra:spa:mandarin, rus:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), jpn:メンター (mentā), kor:멘토 (mento)  
+**• member** *miembro (componente)* ← eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)  
 **• minime** *mínimo (lo menos)* ← eng:fra:minimum, spa:por:mínimo, deu:Minimum, rus:ми́нимум (mínimum)  
 **• misaje** *mensaje* ← eng:deu:fra:message, spa:mensaje, por:mensagem, tur:mesaj, jpn:メッセージ (messēji), kor:메시지 (mesiji), rus:месседж (messedzh), may:mesej  
 **• misioner** *misionero* ← eng:missionary, deu:Missionar, fra:missionnaire, spa:misionero, por:misionário, rus:миссионер (missioner), may:misioinaris, swa:mmisionari, tur:misyoner  

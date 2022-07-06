@@ -797,6 +797,9 @@ jenge - milita
 jenju - perlo  
 jin - vera  
 jinje - zingibro  
+jiraf - ĝirafo  
+jive - vivo  
+jive - viva  
 jongle - ĵongli  
 • jongler - ĵonglisto  
 jube - robo  
@@ -1104,10 +1107,10 @@ meh - ŝafo
 Mehiko - Meksikio  
 mei - bela  
 melodia - melodio  
-mem - memoro  
+meme - memoro  
 meme - memori  
 • dememe - forgesi  
-member - membro  
+• member - membro  
 mene - signifo  
 Merkur - Merkuro  
 metal - metalo  
@@ -1908,11 +1911,8 @@ zebra - zebro
 • rezerve - rezervo  
 zine - malfideleco  
 zinke - zinko  
-zire - kumino  
-ziraf - ĝirafo  
+zira - kumino  
 zirkonium - zirkonio  
-zive - vivo  
-• zivi - viva  
 zoe - besto  
 • zoolojia - zoologio  
 • zoolojike - zoologia  

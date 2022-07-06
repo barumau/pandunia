@@ -644,6 +644,9 @@ jenju - жемчуг
 • projete - проект  
 • projetaje - проект  
 jinje - имбирь  
+jiraf - жираф  
+jive - жизнь  
+jive - живой  
 jongle - жонглировать  
 • jongler - жонглёр  
 jube - халат  
@@ -931,10 +934,10 @@ mediker - врач (медик, лекарь, доктор)
 medikosui - зелье  
 mei - красивый  
 melon - дыня  
-mem - память  
+meme - память  
 meme - помнить  
-memnote - меморандум  
 • dememe - забывать  
+memonote - меморандум  
 mendelevium - менделевий  
 menu - меню  
 Merkur - Меркурий  
@@ -1696,12 +1699,9 @@ zebra - зебра
 zeze - двукрылое  
 Zimbabve - Зимбабве  
 zinke - цинк  
-zire - тмин  
-ziraf - жираф  
+zira - тмин  
 zirkon - циркон  
 zirkonium - цирконий  
-zive - жизнь  
-• zivi - живой  
 zoe - животное  
 • zoolojia - зоология  
 • zoolojike - зоологический  

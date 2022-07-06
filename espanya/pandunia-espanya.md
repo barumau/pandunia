@@ -1370,6 +1370,9 @@ injete - inyectar
 jetografor - proyector  
 jetografe - proyectar (proyección)  
 jinje - gengibre  
+jiraf - jirafa  
+jive - vida  
+jive - vivo (lleno de vida)  
 joke - broma (chiste)  
 joker - bromista (chistoso)  
 jongle - hacer malabarismos  
@@ -2045,13 +2048,13 @@ mei - hermoso (bello, lindo)
 melodi - melodioso  
 melodia - melodía  
 melon - melón  
-mem - memoria  
+meme - memoria  
 meme - acordarse  
-membin - monumento  
-memnote - memorándum (nota)  
 • dememe - olvidar  
+memobine - monumento  
+memonote - memorándum (nota)  
 membe - pertenecer (ser miembro de)  
-member - miembro (componente)  
+• member - miembro (componente)  
 mene - significar (significado, acepción)  
 mendelevium - mendelevio  
 meninge - meninge  
@@ -3738,12 +3741,9 @@ zine - adulterio
 zinke - cinc  
 zipe - cerrar con cremallera  
 • ziper - cremallera  
-zire - comino  
-ziraf - jirafa  
+zira - comino  
 zirkon - circón  
 zirkonium - circonio  
-zive - vida  
-• zivi - vivo (lleno de vida)  
 zize - chisporrotear  
 zoe - animal (bestia)  
 • zoolojia - zoología  

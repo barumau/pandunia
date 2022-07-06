@@ -970,7 +970,7 @@ cuckoo - kuku
 cucumber - hiyar  
 cultivate (farm) - agre  
 culture - kultur  
-cumin (jeera) - zire  
+cumin (jeera) - zira  
 cumulus cloud - kumulonepe  
 cupboard (closet, cabinet, wardrobe) - almari  
 curium - kurium  
@@ -1631,7 +1631,7 @@ gift (present) - donaje
 gift certificate (gift card) - donajoceke  
 ginger - jinje  
 ginseng - jensen  
-giraffe - ziraf  
+giraffe - jiraf  
 girl - yune fem  
 give - done  
 give consultation - konsele  
@@ -2245,8 +2245,8 @@ Lithuanian - lietuva base
 litre (liter) - litre  
 little (few, not many) - save  
 little (small; a little, somewhat) - lile  
-live (life) - zive  
-live (living) - zivi  
+live (life) - jive  
+live (living) - jive  
 liver - hepate  
 livermorium - livermorium  
 lizard - saure  
@@ -2430,8 +2430,9 @@ melodrama - melodrame
 melody - melodia  
 melt (liquify) - fuze  
 member (component) - member  
-memorandum (memo) - memnote  
-memory (recollection) - mem  
+memorandum (memo) - memonote  
+memory (recollection) - meme  
+memory (remembrance) - memure  
 mendelevium - mendelevium  
 meningitis - meningitis  
 meninx (meninges) - meninge  
@@ -2457,7 +2458,6 @@ microorganism (microbe) - mikrobia
 microscope - mikroskope  
 middle (center) - zung  
 middle (the part in between) - mide  
-Midi Pandunia - Midi Pandunia  
 Midsummer Day - garmomosimmedi den  
 military (martial, warlike) - jenge  
 milk (draw milk) - tira milke  
@@ -2532,7 +2532,7 @@ monotheism - unodevisme
 monster - monster  
 Montenegro - Cernagore  
 month - lun  
-monument (memorial) - membin  
+monument (memorial) - memobine  
 mood (emotional state) - emoshal  
 moon - lun  
 mooncake - lunokeke  

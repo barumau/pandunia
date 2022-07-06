@@ -1258,7 +1258,7 @@ kuloodporny - danosekure
 kult ognia - hogopuzia  
 kultura - kultur  
 kulturystyka - muskulbin  
-kumin (kmin) - zire  
+kumin (kmin) - zira  
 kumkwat - kankuate  
 kupić (zakupy, sprawunki, shopping) - xope  
 kupon - kupon  
@@ -1741,7 +1741,7 @@ nosić ubrania - fuku
 nosorożec - kornonos  
 nostalgia (tęsknota) - nostalgia  
 nostalgiczny - nostalgike  
-notatka, memo - memnote  
+notatka, memo - memonote  
 notatnik - notobuke  
 Nowa Kaledonia - Nove Kaledonia  
 Nowa Zelandia - Nove Zelandia  
@@ -1897,7 +1897,7 @@ palec - angul
 pallad - paladium  
 palma, drzewo palmowe - palme  
 pamiętać - meme  
-pamięć - mem  
+pamięć - meme  
 panafrykański - panafrike  
 Panama - Panama  
 panamerykański - panamerike  
@@ -2095,7 +2095,7 @@ pomarańcza - orange
 pomarańcza słodka (pomarańcza chińska) - sukarorange  
 pomarańczowy - orangi  
 pomidor - tomate  
-pomnik (memoriał) - membin  
+pomnik (memoriał) - memobine  
 pompować - pompe  
 pomóc (pomagać, asystować; pomoc, wsparcie) - mede  
 poniedziałek - den un  
@@ -3484,11 +3484,11 @@ zły, zrujnowany, zepsuty - harabe
 żołnierz - gunjen  
 żołądź - balutopal  
 żwir - grave  
-życie - zive  
+życie - jive  
 życie organiczne - bie  
 żydowski - yahude  
-żyrafa - ziraf  
+żyrafa - jiraf  
 żywica - rezin  
-żyć (żywy, żyjący) - zivi  
+żyć (żywy, żyjący) - jive  
 żółty - limonrange  
 żółw - tortuge  

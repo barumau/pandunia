@@ -572,6 +572,8 @@ jenju - 珍珠
 jetografe - 投射 (投影)  
 jin - 真  
 jinje - 姜  
+jiraf - 长颈鹿  
+jive - 生命  
 jongle - 变戏法  
 jube - 长袍  
 • judokan - 法庭  
@@ -832,7 +834,7 @@ mega - 百万 (兆)
 mei - 漂亮 (美)  
 mei jen - 美人  
 melon - 厚皮甜瓜 (蜜瓜)  
-mem - 记忆 (记性)  
+meme - 记忆 (记性)  
 meme - 记得 (回忆)  
 • dememe - 忘记  
 mene - 意义  
@@ -1456,10 +1458,8 @@ zay zaman su - нынешний
 zebra - 斑马  
 zeze - 双翅目  
 zinke - 锌  
-zire - 孜然  
-ziraf - 长颈鹿  
+zira - 孜然  
 zirkonium - 锆  
-zive - 生命  
 zoe - 动物  
 • zoolojia - 动物学  
 zooparke - 动物园  

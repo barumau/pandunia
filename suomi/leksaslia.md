@@ -299,7 +299,7 @@
 **duman** *savu* ← hindi:धूआँ (dhuã), turkki:duman, venäjä:дым (dym), kannada:(dhūma), bangla:ধোঁয়া (dhõẇa)  
 **duna** *dyyni (kinos)* ← englanti:ranska:dune, espanja:portugali:duna, venäjä:дюна (diuna) + vietnami:đụn, korea:둔(덕) (dun(deok))  
 **dungia aventur** *luolaseikkailu* ← englanti:dungeon, ranska:donjon, japani:ダンジョン (danjon)  
-**dunia** *maailma* ← arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), malaiji:suahili:dunia, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya  
+**dunia** *maailma* ← arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), bangla:দুনিয়া (duniya), malaiji:suahili:dunia, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya  
 **dur** *kestää (kulua, viedä aikaa; kestoaika, kesto, aika)* ← englanti:duration, ranska:durée, espanja:portugali:durar + bangla:ধরে (dhôre), hindi:दौरान (daurān)  
 **dus** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
 **duse** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
@@ -530,8 +530,8 @@
 **hor** *tunti* ← ranska:heure, englanti:hour, espanja:portugali:hora  
 **horloger** *kello (ajannäyttäjä)* ← lat:horologium, ranska:horloge, italia:orologio, espanja:reloj, portugali:relógio, malaiji:arloji  
 **hormon** *hormoni* ← englanti:ranska:hormone, espanja:hormona, venäjä:гормон (gormon), turkki:malaiji:hormon, arabia:هُرْمُون‎ (hurmūn), hindi:हॉर्मोन (hŏrmon), yleiskiina:荷尔蒙 (hé'ěrméng), japani:ホルモン (horumon)  
-**hotel** *hotelli* ← englanti:deu:espanja:portugali:malaiji:hotel, ranska:hôtel, hindi:होटल (hoṭal), bangla:হোটেল (hoṭel), japani:ホテル (hoteru), korea:호텔 (hotel), venäjä:отель (otel)  
-**hui** *tuhka* ← yleiskiina:灰 (huĭ), kantoninkiina:灰 (fui), japani:灰 (hai), + korea:회색 (hoesaeg)  
+**hotel** *hotelli* ← englanti:deu:espanja:portugali:malaiji:hotel, ranska:hôtel, hindi:होटल (hoṭal), bangla:হোটেল (hoṭel), japani:ホテル (hoteru), korea:호텔 (hotel), venäjä:отель (otel), suahili:hoteli  
+**hui** *tuhka* ← yleiskiina:灰 (huĭ), kantoninkiina:灰 (fui), japani:灰 (hai) + korea:회색 (hoesaeg)  
 **huke** *koukku (haka)* ← englanti:hook, deu:Haken, venäjä: гак (gak), puola:hak, hindi:हुक (huk), bangla:হুক (huk), malaiji:hak  
 **huli** *kettu* ← yleiskiina:狐狸 (húlí), kantoninkiina:狐狸 (wu4 lei4-2), wu-kiina:狐狸 (hhu li3), korea:호리 (hori), vietnami:hồ li  
 **humor** *huumori* ← venäjä:юмор (yumor), espanja:englanti:humor, ranska:humour, japani:ユーモア (yūmoa), korea:유머 (yumeo), yleiskiina:幽默 (yōumò)  
@@ -575,6 +575,8 @@
 **jete** ** ← ranska:projet, portugali:projeto, englanti:project, espanja:proyecto, venäjä:проект (proyekt), hindi:प्रोजैक्ट (projaikṭ), bangla:প্রজেক্ট (prôjekṭ), japani:プロジェクト (purojekuto), korea:프로젝트 (peurojekteu), turkki:proje  
 **jin** *aito* ← yleiskiina:真 (zhēn), kantoninkiina:真 (zan1), japani:真 (shin), korea:진 (jin), thai:จริง (jing), kyr:tat:чын (çın) + englanti:genuine  
 **jinje** *inkivääri* ← tamili:இஞ்சி (inji), englanti:ginger, arabia:(zanjabīl), turkki:zencefil, ranska:gingembre  
+**jiraf** *kirahvi* ← arabia:(zarāfa), englanti:ranska:giraffe, portugali:girafa, espanja:jirafa, venäjä:жираф (žiraf), malaiji:jerapah, turkki:zürafa, korea:지라프 (jirapeu), hindi: जिराफ़ (jirāf), bangla:জরৈফ (jôrôph)  
+**jive** *elää (elämä)* ← hindi:marathi:जीव (jīv), bangla:জীউ (jiu), telugu:జీవము (jīvamu), malaiji:jiwa, thai:ชีวิต  (chiwit), burma:ဇီဝ (jiwa), khmer:ជីវិត (jĭvit), venäjä:живой (živoy), puola:żywy  
 **joke** *vitsi* ← englanti:ranska:joke, persia:جوک‎ (jok), japani:ジョーク (jōku) + yleiskiina:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jongle** *jongleerata* ← ranska:jongler, englanti:juggle, venäjä:жонглировать (žonglirovat’), japani:ジャグリング (jaguringu)  
 **jube** *kaapu* ← arabia: جُبَّة (jubba), suahili:juba, malaiji:jubah, espanja:aljuba  
@@ -874,8 +876,7 @@
 **mei** *kaunis (komea, sievä)* ← yleiskiina:美 (měi), kantoninkiina:美 (mei5), japani:美 (mi), korea:미 (mi), vietnami:mĩ, mỹ  
 **melodia** *melodia (sävelmä)* ← englanti:melody, espanja:melodía, portugali:melodia, venäjä:мело́дия (melódija), turkki:malaiji:melodi, persia:ملودی‎ (melodi), japani:メロディー (merodī)  
 **melon** ** ← englanti:ranska:melon, espanja:melón, portugali:melão, japani:メロン (meron), korea:멜론 (mellon)  
-**mem** *muisti* ← englanti:memory, ranska:mémoire, espanja:memoria, portugali:memória  
-**member** *jäsen (osatekijä, komponentti)* ← englanti:member, espanja:miembro, portugali:membro, ranska:membre, japani:メンバー (menbā)  
+**meme** *muisti* ← englanti:memory, ranska:mémoire, espanja:memoria, portugali:memória  
 **men** *ihmiset (passiivin pronomini)* ← englanti:men, deu:man + yleiskiina:们 (men), kantoninkiina:們 (mun4) + (tumen) hindi:तुम (tum), rom:tumen  
 **mendelevium** *mendelevium* ← englanti:mendelevium, ranska:mendélévium, espanja:mendelevio, portugali:mendelévio, venäjä:менделевий, yleiskiina:钔 (mén), japani:メンデレビウム, korea:멘델레븀, vietnami:menđelevi, hindi:मेण्डेलीवियम, bangla:মেন্ডেলিভিয়াম, malaiji:mendelevium, suahili:mendelevi, arabia: مندلفيوم  
 **mene** *merkitä (tarkoittaa; merkitys)* ← englanti:mean, deu:Meinung + arabia:(maʿnā), hindi:मअनी (maani), persia:urdu:(ma'ni), suahili:maana, haw:manaʻo  
@@ -1542,10 +1543,8 @@
 **zine** *haureus (uskottomuus)* ← arabia:(zināʾ), malaiji:turkki:zina, suahili:zinaa, urdu:(zinā), persia:(zenā)  
 **zinke** *sinkki* ← englanti:zinc, ranska:zinc, espanja:cinc, portugali:zinco, venäjä:цинк, yleiskiina:锌 (xīn), bangla:জিঙ্ক, malaiji:seng, suahili:zinki  
 **zipe** *sulkea vetoketjulla* ← englanti:zipper, bangla:জিপার (jipar), hindi:ज़िपर (zipar), japani:ジッパー (jippā), korea:지퍼 (jipeo), thai:ซิป (síp), persia:urdu:(zip)  
-**ziraf** *kirahvi* ← arabia:(zarāfa), englanti:ranska:giraffe, portugali:girafa, espanja:jirafa, venäjä:жираф (žiraf), malaiji:jerapah, turkki:zürafa, korea:지라프 (jirapeu), hindi: जिराफ़ (jirāf), bangla:জরৈফ (jôrôph)  
-**zire** *juustokumina (jeera)* ← bangla:জিরা (zīra), hindi:ज़ीरा (zīrā), tamili:சீரகம் (sīrakam), suahili:mjira, persia:(zire), yleiskiina:孜然 (zīrán), englanti:jeera  
+**zira** *juustokumina (jeera)* ← bangla:জিরা (zīra), hindi:ज़ीरा (zīrā), tamili:சீரகம் (sīrakam), suahili:mjira, persia:(zire), yleiskiina:孜然 (zīrán), englanti:jeera  
 **zirkonium** *zirkonium* ← englanti:zirconium, ranska:zirconium, espanja:circonio, portugali:zircónio, venäjä:цирконий, japani:ジルコニウム, korea:지르코늄, vietnami:ziriconi, hindi:जर्कोनियम, bangla:জিরকোনিয়াম, malaiji:zirkonium, suahili:zirikoni, arabia: زيركونيوم  
-**zive** *elää (elämä)* ← hindi:marathi:जीव (jīv), bangla:জীউ (jiu), telugu:జీవము (jīvamu), malaiji:jiwa, thai:ชีวิต  (chiwit), burma:ဇီဝ (jiwa), khmer:ជីវិត (jĭvit), venäjä:живой (živoy), puola:żywy  
 **zize** *sihistä* ← yleiskiina:zizi englanti:sizzle  
 **zoe** *eläin* ← englanti:ranska:espanja:portugali:malaiji:turkki:zoo-, venäjä:зоо- (zoo-)  
 **zombi** *zombi* ← Kongo:nzambi, englanti:zombie, espanja:turkki:zombi, portugali:zumbi, venäjä:зомби (zombi), arabia:زُومْبِي‎ (zūmbī), hindi:ज़ोंबी (zombī), japani:ゾンビ (zonbi), korea:좀비 (jombi)  
@@ -1583,6 +1582,7 @@
 **• lojia** *tiede (tutkimus)* ← englanti:-ology, espanja:-ología, ranska:-ologie, venäjä:ология (-ologiya), turkki:-loji  
 **• mamal** *nisäkäs* ← englanti:mammal, espanja:portugali:mamífero, ranska:mammifère, turkki:memeli, malaiji:mamalia  
 **• manter** *neuvonantaja (ministeri, mentori)* ← hindi:मंत्री (mantrī), bangla:মন্ত্রী (môntri), malaiji:menteri, portugali:mandarim, englanti:ranska:espanja:mandarin, venäjä:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), japani:メンター (mentā), korea:멘토 (mento)  
+**• member** *jäsen (osatekijä, komponentti)* ← englanti:member, espanja:miembro, portugali:membro, ranska:membre, japani:メンバー (menbā)  
 **• minime** *vähiten* ← englanti:ranska:minimum, espanja:portugali:mínimo, deu:Minimum, venäjä:ми́нимум (mínimum)  
 **• misaje** *viesti* ← englanti:deu:ranska:message, espanja:mensaje, portugali:mensagem, turkki:mesaj, japani:メッセージ (messēji), korea:메시지 (mesiji), venäjä:месседж (messedzh), malaiji:mesej  
 **• misioner** *lähetti (lähetyssaarnaaja)* ← englanti:missionary, deu:Missionar, ranska:missionnaire, espanja:misionero, portugali:misionário, venäjä:миссионер (missioner), malaiji:misioinaris, suahili:mmisionari, turkki:misyoner  

@@ -1246,6 +1246,9 @@ jetografor - projektor (rzutnik)
 jetografe - wyświetlać (rzut, projekcja)  
 jin - prawdziwy (rzeczywisty, szczery)  
 jinje - imbir  
+jiraf - żyrafa  
+jive - życie  
+jive - żyć (żywy, żyjący)  
 joke - żart  
 joker - żartowniś, dowcipniś  
 jude - sądzić (osądzić; wyrok)  
@@ -1904,13 +1907,13 @@ mei - piękny, przystojny
 melodi - melodyczny  
 melodia - melodia  
 melon - ogórek melon  
-mem - pamięć  
+meme - pamięć  
 meme - pamiętać  
-membin - pomnik (memoriał)  
-memnote - notatka, memo  
 • dememe - zapominać (zapomnieć)  
+memobine - pomnik (memoriał)  
+memonote - notatka, memo  
 membe - należeć (być członkiem)  
-member - członek  
+• member - członek  
 mene - znaczyć (znaczenie)  
 meninge - opona mózgowa  
 meningitis - zapalenie opon mózgowych  
@@ -3466,11 +3469,8 @@ zine - zdrada małżeńska, cudzołóstwo
 zinke - cynk  
 zipe - zamknąć zamkiem błyskawicznym  
 • ziper - zamek błyskawiczny  
-zire - kumin (kmin)  
-ziraf - żyrafa  
+zira - kumin (kmin)  
 zirkonium - cyrkon  
-zive - życie  
-• zivi - żyć (żywy, żyjący)  
 zize - skwierczeć  
 zoe - animal  
 • zoolojia - zoologia  

@@ -1661,6 +1661,9 @@ jetografor - image projector
 jetografe - project (cast; projection image)  
 jin - real (authentic, genuine)  
 jinje - ginger  
+jiraf - giraffe  
+jive - live (life)  
+jive - live (living)  
 jo - which (who, that)  
 joke - joke  
 joker - joker  
@@ -2442,13 +2445,14 @@ melodrame - melodrama
 melodi - melodious (melodic)  
 melodia - melody  
 melon - muskmelon  
-mem - memory (recollection)  
+meme - memory (recollection)  
 meme - remember (recall)  
-membin - monument (memorial)  
-memnote - memorandum (memo)  
+• memure - memory (remembrance)  
 • dememe - forget  
+memobine - monument (memorial)  
+memonote - memorandum (memo)  
 membe - belong (be a member)  
-member - member (component)  
+• member - member (component)  
 men - "one (people, ""you"")"  
 mene - mean (signify; meaning, signification)  
 mendelevium - mendelevium  
@@ -2485,7 +2489,6 @@ mide - middle (the part in between)
 midi - medium (intermediate, mean)  
 midia - medium (media)  
 midofas - interface  
-Midi Pandunia - Midi Pandunia  
 mien - noodle  
 migre - move (migrate, relocate)  
 • exmigre - emigrate (move out)  
@@ -4444,12 +4447,9 @@ zine - adultery (infidelity)
 zinke - zinc  
 zipe - zip up  
 • ziper - zipper  
-zire - cumin (jeera)  
-ziraf - giraffe  
+zira - cumin (jeera)  
 zirkon - zircon  
 zirkonium - zirconium  
-zive - live (life)  
-• zivi - live (living)  
 zize - sizzle  
 zoe - animal  
 • zoofilia - zoophily  

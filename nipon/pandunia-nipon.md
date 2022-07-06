@@ -552,6 +552,8 @@ jenju - 真珠
 • jetaje - 飛翔体 (矢玉)  
 • projetaje - プロジェクト  
 jetografe - 映す (投影する, 投影)  
+jiraf - 麒麟  
+jive - 命 (生命)  
 jongle - ジャグリング  
 • jongler - ジャグラー  
 jul - ジュール (J)  
@@ -829,10 +831,10 @@ mega - １００万 (メガ)
 mei - 美しい  
 mei jen - 美人  
 melon - マスクメロン  
-mem - 記憶  
+meme - 記憶  
 meme - 思い出す  
-membin - 追悼塔 (碑)  
 • dememe - 忘れる  
+memobine - 追悼塔 (碑)  
 mendelevium - メンデレビウム  
 menu - メニュー  
 metal - 金属  
@@ -1470,10 +1472,8 @@ zay - ある (いる)
 zay zaman - 今 (現在)  
 zeze - ハエ目 (双翅目)  
 zinke - 亜鉛  
-zire - クミン  
-ziraf - 麒麟  
+zira - クミン  
 zirkonium - ジルコニウム  
-zive - 命 (生命)  
 zoe - 動物  
 • zoolojia - 動物学  
 • zoolojike - 動物学の  

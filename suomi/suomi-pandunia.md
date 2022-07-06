@@ -380,8 +380,8 @@ eläinrata - zoosikle
 eläintarha - zooparke  
 eläintiede (zoologia) - zoolojia  
 eläintieteellinen - zoolojike  
-elävä - zivi  
-elää (elämä) - zive  
+elävä - jive  
+elää (elämä) - jive  
 emiiri - amirer  
 emiirikunta - amiria  
 emämaa (synnyinmaa) - matria  
@@ -952,7 +952,7 @@ juuri - mul
 juuri - radike  
 juurtua - inradike  
 juusto - kize  
-juustokumina (jeera) - zire  
+juustokumina (jeera) - zira  
 juutalainen - yahude  
 juutalaisuus - yahudisme  
 jyrinä (ukkonen) - grom  
@@ -1221,7 +1221,7 @@ Kinshasa - Kinsasa
 Kinshasan Kongo - Kinsasa Kongo  
 kioski - kioske  
 kipu (kärsimys, tuska) - tunge  
-kirahvi - ziraf  
+kirahvi - jiraf  
 kireä (tiukka, jännittynyt; kiristää, jännittää) - tense  
 Kirgistan (Kirgisia) - Kirgizia  
 Kiribati - Kiribati  
@@ -1856,7 +1856,6 @@ meteli - kelele
 metri - mitre  
 metrojuna (maanalainen) - tuneltren  
 metsä - van:  
-midi-pandunia - Midi Pandunia  
 miekka - katane  
 mielipide (näkemys) - rai  
 mielivaltainen (ilman tuomiota) - exjude  
@@ -1924,9 +1923,11 @@ moscovium - moskovium
 Moskova - Moskove  
 muinainen Egypti - Kemia  
 muistaa - meme  
-muisti - mem  
+muisti - meme  
 muistikirja - notobuke  
-muistio (muistiinmerkintä) - memnote  
+muistio (muistiinmerkintä) - memonote  
+muisto - memure  
+muistomerkki - memobine  
 muistosanat (muistopuhe, muistokirjoitus) - nekrologe  
 mukaan lukien - inkluze da  
 mukava (kiva, miellyttävä) - hux  

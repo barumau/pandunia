@@ -772,6 +772,9 @@ jenju - perle
 • subjete - sujet  
 jetografe - projeter (image projection)  
 jinje - gingembre  
+jiraf - giraffe  
+jive - vie  
+jive - vivant  
 jongle - jongler  
 • jongler - jongleur  
 jube - robe  
@@ -1071,7 +1074,7 @@ medenpapil - coquelicot
 medikosui - pocion  
 mehi kex - laine  
 mei - beau  
-mem - mémoire  
+meme - mémoire  
 meme - se rappeler (se remémorer)  
 • dememe - oublier  
 mendelevium - mendélévium  
@@ -1873,10 +1876,7 @@ zay - être présent
 Zayeria - Algérie  
 zebra - zèbre  
 zinke - zinc  
-ziraf - giraffe  
 zirkonium - zirconium  
-zive - vie  
-• zivi - vivant  
 zoe - animal (bête)  
 • zoolojia - zoologie  
 • zoolojike - zoologique  

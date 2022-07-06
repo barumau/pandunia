@@ -13,7 +13,7 @@
 | malayu | 566 | 35% |
 | arabi | 431 | 27% |
 | chosen | 412 | 26% |
-| suahili | 405 | 25% |
+| suahili | 406 | 25% |
 | putonghan | 403 | 25% |
-| bangla | 379 | 24% |
+| bangla | 380 | 24% |
 | viet | 270 | 17% |

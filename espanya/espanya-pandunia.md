@@ -763,7 +763,7 @@ comercio (comerciar) - vendoxope
 comida - yam  
 comienzo (inicio, principio; comenzar, iniciar, empezar) - xure  
 comilla - citomarke  
-comino - zire  
+comino - zira  
 comisión (comité) - konmisia  
 Comoros - Komoro nesia  
 comparar (equiparar) - konpare  
@@ -1887,7 +1887,7 @@ jefe - xefe
 Jersey - Jerzi  
 Jesús - yesus  
 jira (pícnic) - exyam  
-jirafa - ziraf  
+jirafa - jiraf  
 joder (coger, copular) - code  
 Jordania - Urdun  
 joule (J) - jul  
@@ -2209,8 +2209,8 @@ melón amargo - alkalomelon
 melón cantalupo - kantalupomelon  
 melón coreano - aromomelon  
 melón verde - lugomelon  
-memoria - mem  
-memorándum (nota) - memnote  
+memoria - meme  
+memorándum (nota) - memonote  
 mendelevio - mendelevium  
 meninge - meninge  
 meningitis - meningitis  
@@ -2306,7 +2306,7 @@ monstro - monster
 montaña (colina) - san  
 montaña (monte) - monte  
 Montenegro - Cernagore  
-monumento - membin  
+monumento - memobine  
 monóculo - unoki lense  
 monólogo - autologe  
 morado (púrpura) - violete  
@@ -3653,7 +3653,7 @@ vice- (alternativa, sustituto) - vise
 vicepresidente - visopresidante  
 vicepresidente - visopresidente  
 victoria - seng  
-vida - zive  
+vida - jive  
 vida orgánica - bie  
 vidriado (esmalte) - kancodake  
 vidriar (glasear) - kancodake  
@@ -3686,7 +3686,7 @@ vista - vidaje
 vitamina - vitamin  
 viudo - vidou  
 vivisección - zivotome  
-vivo (lleno de vida) - zivi  
+vivo (lleno de vida) - jive  
 vocabulario (léxico) - lexia  
 vocal - zungofon  
 vocal - vokal son  

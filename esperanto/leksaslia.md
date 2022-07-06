@@ -299,7 +299,7 @@
 **duman** *fumo* ← hindia:धूआँ (dhuã), turka:duman, rusa:дым (dym), kanara:(dhūma), bengala:ধোঁয়া (dhõẇa)  
 **duna** ** ← angla:franca:dune, hispana:portugala:duna, rusa:дюна (diuna) + vjetnama:đụn, korea:둔(덕) (dun(deok))  
 **dungia aventur** ** ← angla:dungeon, franca:donjon, japana:ダンジョン (danjon)  
-**dunia** *mondo* ← araba: دُنْيَا‎ (dunyā), hindia:दुनिया (duniyā), malaja:svahila:dunia, persa: دنیا (donya), urdua: دنیا (duniyā), haŭsa:duniya  
+**dunia** *mondo* ← araba: دُنْيَا‎ (dunyā), hindia:दुनिया (duniyā), bengala:দুনিয়া (duniya), malaja:svahila:dunia, persa: دنیا (donya), urdua: دنیا (duniyā), haŭsa:duniya  
 **dur** *daŭri* ← angla:duration, franca:durée, hispana:portugala:durar + bengala:ধরে (dhôre), hindia:दौरान (daurān)  
 **dus** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
 **duse** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
@@ -530,8 +530,8 @@
 **hor** *horo* ← franca:heure, angla:hour, hispana:portugala:hora  
 **horloger** *horloĝo* ← lat:horologium, franca:horloge, itala:orologio, hispana:reloj, portugala:relógio, malaja:arloji  
 **hormon** *hormono* ← angla:franca:hormone, hispana:hormona, rusa:гормон (gormon), turka:malaja:hormon, araba:هُرْمُون‎ (hurmūn), hindia:हॉर्मोन (hŏrmon), mandarena:荷尔蒙 (hé'ěrméng), japana:ホルモン (horumon)  
-**hotel** *hotelo* ← angla:deu:hispana:portugala:malaja:hotel, franca:hôtel, hindia:होटल (hoṭal), bengala:হোটেল (hoṭel), japana:ホテル (hoteru), korea:호텔 (hotel), rusa:отель (otel)  
-**hui** ** ← mandarena:灰 (huĭ), kantona:灰 (fui), japana:灰 (hai), + korea:회색 (hoesaeg)  
+**hotel** *hotelo* ← angla:deu:hispana:portugala:malaja:hotel, franca:hôtel, hindia:होटल (hoṭal), bengala:হোটেল (hoṭel), japana:ホテル (hoteru), korea:호텔 (hotel), rusa:отель (otel), svahila:hoteli  
+**hui** ** ← mandarena:灰 (huĭ), kantona:灰 (fui), japana:灰 (hai) + korea:회색 (hoesaeg)  
 **huke** *hoko* ← angla:hook, deu:Haken, rusa: гак (gak), polona:hak, hindia:हुक (huk), bengala:হুক (huk), malaja:hak  
 **huli** *vulpo* ← mandarena:狐狸 (húlí), kantona:狐狸 (wu4 lei4-2), vua:狐狸 (hhu li3), korea:호리 (hori), vjetnama:hồ li  
 **humor** *humuro* ← rusa:юмор (yumor), hispana:angla:humor, franca:humour, japana:ユーモア (yūmoa), korea:유머 (yumeo), mandarena:幽默 (yōumò)  
@@ -575,6 +575,8 @@
 **jete** ** ← franca:projet, portugala:projeto, angla:project, hispana:proyecto, rusa:проект (proyekt), hindia:प्रोजैक्ट (projaikṭ), bengala:প্রজেক্ট (prôjekṭ), japana:プロジェクト (purojekuto), korea:프로젝트 (peurojekteu), turka:proje  
 **jin** *vera* ← mandarena:真 (zhēn), kantona:真 (zan1), japana:真 (shin), korea:진 (jin), taja:จริง (jing), kyr:tat:чын (çın) + angla:genuine  
 **jinje** *zingibro* ← tamila:இஞ்சி (inji), angla:ginger, araba:(zanjabīl), turka:zencefil, franca:gingembre  
+**jiraf** *ĝirafo* ← araba:(zarāfa), angla:franca:giraffe, portugala:girafa, hispana:jirafa, rusa:жираф (žiraf), malaja:jerapah, turka:zürafa, korea:지라프 (jirapeu), hindia: जिराफ़ (jirāf), bengala:জরৈফ (jôrôph)  
+**jive** *vivo* ← hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy  
 **joke** ** ← angla:franca:joke, persa:جوک‎ (jok), japana:ジョーク (jōku) + mandarena:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jongle** *ĵongli* ← franca:jongler, angla:juggle, rusa:жонглировать (žonglirovat’), japana:ジャグリング (jaguringu)  
 **jube** *robo* ← araba: جُبَّة (jubba), svahila:juba, malaja:jubah, hispana:aljuba  
@@ -874,8 +876,7 @@
 **mei** *bela* ← mandarena:美 (měi), kantona:美 (mei5), japana:美 (mi), korea:미 (mi), vjetnama:mĩ, mỹ  
 **melodia** *melodio* ← angla:melody, hispana:melodía, portugala:melodia, rusa:мело́дия (melódija), turka:malaja:melodi, persa:ملودی‎ (melodi), japana:メロディー (merodī)  
 **melon** ** ← angla:franca:melon, hispana:melón, portugala:melão, japana:メロン (meron), korea:멜론 (mellon)  
-**mem** *memoro* ← angla:memory, franca:mémoire, hispana:memoria, portugala:memória  
-**member** *membro* ← angla:member, hispana:miembro, portugala:membro, franca:membre, japana:メンバー (menbā)  
+**meme** *memoro* ← angla:memory, franca:mémoire, hispana:memoria, portugala:memória  
 **men** ** ← angla:men, deu:man + mandarena:们 (men), kantona:們 (mun4) + (tumen) hindia:तुम (tum), rom:tumen  
 **mendelevium** ** ← angla:mendelevium, franca:mendélévium, hispana:mendelevio, portugala:mendelévio, rusa:менделевий, mandarena:钔 (mén), japana:メンデレビウム, korea:멘델레븀, vjetnama:menđelevi, hindia:मेण्डेलीवियम, bengala:মেন্ডেলিভিয়াম, malaja:mendelevium, svahila:mendelevi, araba: مندلفيوم  
 **mene** *signifo* ← angla:mean, deu:Meinung + araba:(maʿnā), hindia:मअनी (maani), persa:urdua:(ma'ni), svahila:maana, haw:manaʻo  
@@ -1542,10 +1543,8 @@
 **zine** *malfideleco* ← araba:(zināʾ), malaja:turka:zina, svahila:zinaa, urdua:(zinā), persa:(zenā)  
 **zinke** *zinko* ← angla:zinc, franca:zinc, hispana:cinc, portugala:zinco, rusa:цинк, mandarena:锌 (xīn), bengala:জিঙ্ক, malaja:seng, svahila:zinki  
 **zipe** ** ← angla:zipper, bengala:জিপার (jipar), hindia:ज़िपर (zipar), japana:ジッパー (jippā), korea:지퍼 (jipeo), taja:ซิป (síp), persa:urdua:(zip)  
-**ziraf** *ĝirafo* ← araba:(zarāfa), angla:franca:giraffe, portugala:girafa, hispana:jirafa, rusa:жираф (žiraf), malaja:jerapah, turka:zürafa, korea:지라프 (jirapeu), hindia: जिराफ़ (jirāf), bengala:জরৈফ (jôrôph)  
-**zire** *kumino* ← bengala:জিরা (zīra), hindia:ज़ीरा (zīrā), tamila:சீரகம் (sīrakam), svahila:mjira, persa:(zire), mandarena:孜然 (zīrán), angla:jeera  
+**zira** *kumino* ← bengala:জিরা (zīra), hindia:ज़ीरा (zīrā), tamila:சீரகம் (sīrakam), svahila:mjira, persa:(zire), mandarena:孜然 (zīrán), angla:jeera  
 **zirkonium** *zirkonio* ← angla:zirconium, franca:zirconium, hispana:circonio, portugala:zircónio, rusa:цирконий, japana:ジルコニウム, korea:지르코늄, vjetnama:ziriconi, hindia:जर्कोनियम, bengala:জিরকোনিয়াম, malaja:zirkonium, svahila:zirikoni, araba: زيركونيوم  
-**zive** *vivo* ← hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy  
 **zize** ** ← mandarena:zizi angla:sizzle  
 **zoe** *besto* ← angla:franca:hispana:portugala:malaja:turka:zoo-, rusa:зоо- (zoo-)  
 **zombi** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  
@@ -1583,6 +1582,7 @@
 **• lojia** *scienco* ← angla:-ology, hispana:-ología, franca:-ologie, rusa:ология (-ologiya), turka:-loji  
 **• mamal** ** ← angla:mammal, hispana:portugala:mamífero, franca:mammifère, turka:memeli, malaja:mamalia  
 **• manter** *ministro* ← hindia:मंत्री (mantrī), bengala:মন্ত্রী (môntri), malaja:menteri, portugala:mandarim, angla:franca:hispana:mandarin, rusa:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), japana:メンター (mentā), korea:멘토 (mento)  
+**• member** *membro* ← angla:member, hispana:miembro, portugala:membro, franca:membre, japana:メンバー (menbā)  
 **• minime** *malplej* ← angla:franca:minimum, hispana:portugala:mínimo, deu:Minimum, rusa:ми́нимум (mínimum)  
 **• misaje** *mesaĝo* ← angla:deu:franca:message, hispana:mensaje, portugala:mensagem, turka:mesaj, japana:メッセージ (messēji), korea:메시지 (mesiji), rusa:месседж (messedzh), malaja:mesej  
 **• misioner** *misiisto* ← angla:missionary, deu:Missionar, franca:missionnaire, hispana:misionero, portugala:misionário, rusa:миссионер (missioner), malaja:misioinaris, svahila:mmisionari, turka:misyoner  

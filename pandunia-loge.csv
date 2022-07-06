@@ -791,7 +791,7 @@ dubn.ium:|dubnium|kimium 105|Db|eng:dubnium, fra:dubnium, spa:dubnio, por:dúbni
 dug:|duge|||zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|read|lire|leer|ler|читать||读 (看)|読む|읽다|đọc|पढ़ना|পড়া|baca|kusoma|okumak|legi|lukea|czytać
 duk:|duke|||hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|grief (sorrow, sadness; sad; grieve)||triste (pena, tristeza)|||||||||||||malĝoja|suru (murhe; surullinen; surra, murehtia)|żal, smutek
 duman:|duman|||hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|smoke||humo|||||||||||||fumo|savu|dym
-dun:ia|dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
+dun:ia|dunia|||ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), ben:দুনিয়া (duniya), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|world|monde|mundo|mundo|мир (свет)|دنيا|世界|世界|||दुनिया||dunia|dunia||mondo|maailma|świat
 dun~ia lingu:|dunia lingue||||world language||lengua mundial|||||||||||||mondlingvo|maailmankieli|język świata, język ogólnoświatowy
 duna:|duna|||eng:fra:dune, spa:por:duna, rus:дюна (diuna) + vie:đụn, kor:둔(덕) (dun(deok))|dune|dune|duna|duna (бархан)|дюна||||||||||||dyyni (kinos)|
 dung:ia: auentur:|dungia aventur|||eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|dungeon crawl||juego de mazmorras|||||ダンジョンアドベンチャー|||||||||luolaseikkailu|przygoda w lochu
@@ -1472,8 +1472,8 @@ hor.log.r:|horloger|||lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:
 hor.log.r.minar:|horlogerminar||||clocktower||torre del reloj||||||||||||||kellotorni|wieża zegarowa
 hormon:|hormon|||eng:fra:hormone, spa:hormona, rus:гормон (gormon), tur:may:hormon, ara:هُرْمُون‎ (hurmūn), hin:हॉर्मोन (hŏrmon), zho:荷尔蒙 (hé'ěrméng), jpn:ホルモン (horumon)|hormone||hormona|||||||||||||hormono|hormoni|hormon
 horuat:ia|Horvatia|gogia|HR||Croatia||Croacia|||||||||||||Kroatio|Kroatia|Chorwacja
-hotel:|hotel|||eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|hotel|hôtel|hotel (albergue)|hotel|гостиница (отель)||旅馆|ホテル (旅館)|호텔 (여관)|khách sạn (lữ quán)|होटल|হোটেল|hotel|hoteli|otel|hotelo|hotelli|hotel
-hui:|hui|||zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|ash (ashes)||ceniza||||||||||||||tuhka|popiół
+hotel:|hotel|||eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel), swa:hoteli|hotel|hôtel|hotel (albergue)|hotel|гостиница (отель)||旅馆|ホテル (旅館)|호텔 (여관)|khách sạn (lữ quán)|होटल|হোটেল|hotel|hoteli|otel|hotelo|hotelli|hotel
+hui:|hui|||zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai) + kor:회색 (hoesaeg)|ash (ashes)||ceniza||||||||||||||tuhka|popiół
 hui.dart:|huidarte||||podzol|podzol|podsol|espodossolo|подзол||灰化土|ポドゾル|||||||||podsoli|gleba bielicoziemna
 hui.rang:i|huirange|rang|||grey (gray, ashy)||gris||||||||||||||harmaa|szary
 huk:|huke|||eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|hook|crochet|gancho (anzuelo, alcayata)|gancho|крюк (гак)||钩|掛 (針, 鉤)|갈고리|móc|अंकुश (आंकड़ा)|অঙ্কুশ (হুক)|hak (gancu)||kanca|hoko|koukku (haka)|hak
@@ -1608,6 +1608,9 @@ jet~gra.or:|jetografor||||image projector||proyector||||||||||||||projektori (vi
 jet~graf:|jetografe||||project (cast; projection image)|projeter (image projection)|proyectar (proyección)|projeção|||投射 (投影)|映す (投影する, 投影)|||||||||heijastaa kuvia (projisoida; projektio)|wyświetlać (rzut, projekcja)
 jin:|jin|||zho:真 (zhēn), yue:真 (zan1), jpn:真 (shin), kor:진 (jin), tha:จริง (jing), kyr:tat:чын (çın) + eng:genuine|real (authentic, genuine)||||||真|||||||||vera|aito|prawdziwy (rzeczywisty, szczery)
 jinj:|jinje|||tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|ginger|gingembre|gengibre|jengibre|имбирь||姜||||अदरक||jahe||zencefil|zingibro|inkivääri|imbir
+jiraf:|jiraf|biu||ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf), may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|giraffe|giraffe|jirafa|girafa|жираф|زَرَافَة|长颈鹿|麒麟|지라프 (기린)|hươu cao cổ|जिराफ़|জরৈফ|jerapah|twiga|zürafa|ĝirafo|kirahvi|żyrafa
+jiu:|jive|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|live (life)|vie|vida|vida|жизнь|حَيَاة|生命|命 (生命)|||ज़िंदगी (जीवन, हयात)||hidup (hayat)|uhai||vivo|elää (elämä)|życie
+jiu:|jive||||live (living)|vivant|vivo (lleno de vida)|vivo|живой||||||जीवित|জীবন্ত||||viva|elävä|żyć (żywy, żyjący)
 jo:|jo|bine|relative||which (who, that)||||||||||||||||joka (mikä)|
 jok:|joke|||eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|joke||broma (chiste)||||||||||||||vitsi|żart
 jok.r:|joker||||joker||bromista (chistoso)||||||||||||||vitsiniekka|żartowniś, dowcipniś
@@ -2386,13 +2389,14 @@ mel~dram:|melodrame||||melodrama||||||||||||||||melodraama|
 mel~od:i|melodi||||melodious (melodic)||melodioso||||||||||||||melodinen (sointuisa)|melodyczny
 mel~od:ia|melodia|||eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)|melody||melodía|||||||||||||melodio|melodia (sävelmä)|melodia
 melon:|melon|biu|Cucumis melo|eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)|muskmelon||melón|melão|дыня||厚皮甜瓜 (蜜瓜)|マスクメロン||||||||||ogórek melon
-mem:|mem|||eng:memory, fra:mémoire, spa:memoria, por:memória|memory (recollection)|mémoire|memoria|memória|память|ذَاكِرَة|记忆 (记性)|記憶|기억|trí nhớ (ký ức)|याद|স্মৃতি|ingatan|kumbukumbu|hafıza|memoro|muisti|pamięć
-mem:a|meme||||remember (recall)|se rappeler (se remémorer)|acordarse|lembrar-se (recordar-se)|помнить|تَذَكَّرَ|记得 (回忆)|思い出す|기억하다|nhớ|याद करना|মনে রাখা|ingat||hatırlamak|memori|muistaa|pamiętać
-mem.bin:|membin||||monument (memorial)||monumento|||||追悼塔 (碑)||||||||||pomnik (memoriał)
-mem.not:|memnote||||memorandum (memo)||memorándum (nota)||меморандум||||||||||||muistio (muistiinmerkintä)|notatka, memo
+mem:|meme|||eng:memory, fra:mémoire, spa:memoria, por:memória|memory (recollection)|mémoire|memoria|memória|память|ذَاكِرَة|记忆 (记性)|記憶|기억|trí nhớ (ký ức)|याद|স্মৃতি|ingatan|kumbukumbu|hafıza|memoro|muisti|pamięć
+mem:|meme||||remember (recall)|se rappeler (se remémorer)|acordarse|lembrar-se (recordar-se)|помнить|تَذَكَّرَ|记得 (回忆)|思い出す|기억하다|nhớ|याद करना|মনে রাখা|ingat||hatırlamak|memori|muistaa|pamiętać
+mem.ur:|• memure||||memory (remembrance)||||||||||||||||muisto|
 mem<de:|• dememe||||forget|oublier|olvidar|esquecer|забывать|نَسِيَ|忘记|忘れる|잊다|quên|भूलना|ভুলে যাওয়া|lupa|kusahau|unutmak|forgesi|unohtaa|zapominać (zapomnieć)
-memb:a|membe||||belong (be a member)||pertenecer (ser miembro de)||||||||||||||kuulua (olla jäsenenä)|należeć (być członkiem)
-memb.r:|member|||eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|member (component)||miembro (componente)|||||||||||||membro|jäsen (osatekijä, komponentti)|członek
+mem~bin:|memobine||||monument (memorial)||monumento|||||追悼塔 (碑)|||||||||muistomerkki|pomnik (memoriał)
+mem~not:|memonote||||memorandum (memo)||memorándum (nota)||меморандум||||||||||||muistio (muistiinmerkintä)|notatka, memo
+memb:|membe||||belong (be a member)||pertenecer (ser miembro de)||||||||||||||kuulua (olla jäsenenä)|należeć (być członkiem)
+memb.r:|• member|||eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|member (component)||miembro (componente)|||||||||||||membro|jäsen (osatekijä, komponentti)|członek
 men|men|||eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen|"one (people, ""you"")"||||||||||||||||ihmiset (passiivin pronomini)|
 men:|mene|||eng:mean, deu:Meinung + ara:(maʿnā), hin:मअनी (maani), fas:urd:(ma'ni), swa:maana, haw:manaʻo|mean (signify; meaning, signification)||significar (significado, acepción)||||意义|||||||||signifo|merkitä (tarkoittaa; merkitys)|znaczyć (znaczenie)
 mendeleu.ium:|mendelevium|kimium 101|Md|eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم|mendelevium|mendélévium|mendelevio|mendelévio|менделевий|مندلفيوم|钔|メンデレビウム|멘델레븀|menđelevi|मेण्डेलीवियम|মেন্ডেলিভিয়াম|mendelevium|mendelevi|mendelevyum||mendelevium|
@@ -2429,7 +2433,6 @@ mid:|mide||||middle (the part in between)||medio|meio (metade)|||||||||||||väli
 mid:i|midi|||spa:medio, eng:medium, hin:माद्धयम (mādhyam)|medium (intermediate, mean)|medio|medio (mediano)|moyen|средний|مُتَوَسِّط|中型|||||||||mezo|keskiverto (keski-)|średni
 mid:ia|midia||||medium (media)||medio||||||||||||||media|media
 mid.fas:|midofas||||interface|||||||||||||||||interfejs
-mid~i pan.dun:ia|Midi Pandunia||||Midi Pandunia||||||||||||||||midi-pandunia|
 mien:|mien|||zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)|noodle||fideo (tallarín)|||||ヌードル||||||||nudelo|nuudeli|makaron
 migr:|migre|||fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)|move (migrate, relocate)|migration (s'installer, déménager)|migración (migrarse, mudarse, trasladarse)|migração (mudar-se)|миграция (переезжать)|||||||||||migrado|muutto (migraatio)|migracja
 migr<ex:|• exmigre||||emigrate (move out)||||||||||||||||muuttaa pois (emigroitua)|
@@ -4369,12 +4372,9 @@ zin:|zine|||ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|adu
 zink:|zinke|kimium 030|Zn|eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki|zinc|zinc|cinc|zinco|цинк|خارصين|锌|亜鉛|아연|kẽm|जस्ता|জিঙ্ক|seng|zinki (bati)|çinko|zinko|sinkki|cynk
 zip:a|zipe|||eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|zip up||cerrar con cremallera||||||||||||||sulkea vetoketjulla|zamknąć zamkiem błyskawicznym
 zip.r:|• ziper||||zipper||cremallera||||||||||||||vetoketju|zamek błyskawiczny
-zir:|zire|biu|Cuminum cyminum|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera|cumin (jeera)||comino||тмин||孜然|クミン|커민||ज़ीरा|জিরা||mjira|kimyon|kumino|juustokumina (jeera)|kumin (kmin)
-ziraf:|ziraf|biu||ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf), may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|giraffe|giraffe|jirafa|girafa|жираф|زَرَافَة|长颈鹿|麒麟|지라프 (기린)|hươu cao cổ|जिराफ़|জরৈফ|jerapah|twiga|zürafa|ĝirafo|kirahvi|żyrafa
+zira:|zira|biu|Cuminum cyminum|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera|cumin (jeera)||comino||тмин||孜然|クミン|커민||ज़ीरा|জিরা||mjira|kimyon|kumino|juustokumina (jeera)|kumin (kmin)
 zirkon:|zirkon||||zircon||circón||циркон|||||||||||||
 zirkon.ium:|zirkonium|kimium 040|Zr|eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم|zirconium|zirconium|circonio|zircónio|цирконий|زيركونيوم|锆|ジルコニウム|지르코늄|ziriconi|जर्कोनियम|জিরকোনিয়াম|zirkonium|zirikoni|zirkonyum|zirkonio|zirkonium|cyrkon
-ziu:|zive|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|live (life)|vie|vida|vida|жизнь|حَيَاة|生命|命 (生命)|||ज़िंदगी (जीवन, हयात)||hidup (hayat)|uhai||vivo|elää (elämä)|życie
-ziu:i|• zivi||||live (living)|vivant|vivo (lleno de vida)|vivo|живой||||||जीवित|জীবন্ত||||viva|elävä|żyć (żywy, żyjący)
 ziz:a|zize|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
 zo:|zoe|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
 zo.fil:ia|• zoofilia||||zoophily||||||||||||||||eläinrakkaus|

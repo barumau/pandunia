@@ -299,7 +299,7 @@
 **duman** *smoke* ← Hindi:धूआँ (dhuã), Turkish:duman, Russian:дым (dym), Kannada:(dhūma), Bengali:ধোঁয়া (dhõẇa)  
 **duna** *dune* ← English:French:dune, Spanish:Portuguese:duna, Russian:дюна (diuna) + Vietnamese:đụn, Korean:둔(덕) (dun(deok))  
 **dungia aventur** *dungeon crawl* ← English:dungeon, French:donjon, Japanese:ダンジョン (danjon)  
-**dunia** *world* ← Arabic: دُنْيَا‎ (dunyā), Hindi:दुनिया (duniyā), Malay:Swahili:dunia, Persian: دنیا (donya), Urdu: دنیا (duniyā), Hausa:duniya  
+**dunia** *world* ← Arabic: دُنْيَا‎ (dunyā), Hindi:दुनिया (duniyā), Bengali:দুনিয়া (duniya), Malay:Swahili:dunia, Persian: دنیا (donya), Urdu: دنیا (duniyā), Hausa:duniya  
 **dur** *last (take time; elapse, pass by, go by; during; duration, time interval)* ← English:duration, French:durée, Spanish:Portuguese:durar + Bengali:ধরে (dhôre), Hindi:दौरान (daurān)  
 **dus** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
 **duse** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
@@ -530,8 +530,8 @@
 **hor** *hour* ← French:heure, English:hour, Spanish:Portuguese:hora  
 **horloger** *clock (watch)* ← lat:horologium, French:horloge, Italian:orologio, Spanish:reloj, Portuguese:relógio, Malay:arloji  
 **hormon** *hormone* ← English:French:hormone, Spanish:hormona, Russian:гормон (gormon), Turkish:Malay:hormon, Arabic:هُرْمُون‎ (hurmūn), Hindi:हॉर्मोन (hŏrmon), Mandarin:荷尔蒙 (hé'ěrméng), Japanese:ホルモン (horumon)  
-**hotel** *hotel* ← English:deu:Spanish:Portuguese:Malay:hotel, French:hôtel, Hindi:होटल (hoṭal), Bengali:হোটেল (hoṭel), Japanese:ホテル (hoteru), Korean:호텔 (hotel), Russian:отель (otel)  
-**hui** *ash (ashes)* ← Mandarin:灰 (huĭ), Cantonese:灰 (fui), Japanese:灰 (hai), + Korean:회색 (hoesaeg)  
+**hotel** *hotel* ← English:deu:Spanish:Portuguese:Malay:hotel, French:hôtel, Hindi:होटल (hoṭal), Bengali:হোটেল (hoṭel), Japanese:ホテル (hoteru), Korean:호텔 (hotel), Russian:отель (otel), Swahili:hoteli  
+**hui** *ash (ashes)* ← Mandarin:灰 (huĭ), Cantonese:灰 (fui), Japanese:灰 (hai) + Korean:회색 (hoesaeg)  
 **huke** *hook* ← English:hook, deu:Haken, Russian: гак (gak), Polish:hak, Hindi:हुक (huk), Bengali:হুক (huk), Malay:hak  
 **huli** *fox* ← Mandarin:狐狸 (húlí), Cantonese:狐狸 (wu4 lei4-2), Wu-Chinese:狐狸 (hhu li3), Korean:호리 (hori), Vietnamese:hồ li  
 **humor** *humor* ← Russian:юмор (yumor), Spanish:English:humor, French:humour, Japanese:ユーモア (yūmoa), Korean:유머 (yumeo), Mandarin:幽默 (yōumò)  
@@ -575,6 +575,8 @@
 **jete** *thrust (throw, cast)* ← French:projet, Portuguese:projeto, English:project, Spanish:proyecto, Russian:проект (proyekt), Hindi:प्रोजैक्ट (projaikṭ), Bengali:প্রজেক্ট (prôjekṭ), Japanese:プロジェクト (purojekuto), Korean:프로젝트 (peurojekteu), Turkish:proje  
 **jin** *real (authentic, genuine)* ← Mandarin:真 (zhēn), Cantonese:真 (zan1), Japanese:真 (shin), Korean:진 (jin), Thai:จริง (jing), kyr:tat:чын (çın) + English:genuine  
 **jinje** *ginger* ← Tamil:இஞ்சி (inji), English:ginger, Arabic:(zanjabīl), Turkish:zencefil, French:gingembre  
+**jiraf** *giraffe* ← Arabic:(zarāfa), English:French:giraffe, Portuguese:girafa, Spanish:jirafa, Russian:жираф (žiraf), Malay:jerapah, Turkish:zürafa, Korean:지라프 (jirapeu), Hindi: जिराफ़ (jirāf), Bengali:জরৈফ (jôrôph)  
+**jive** *live (life)* ← Hindi:Marathi:जीव (jīv), Bengali:জীউ (jiu), Telugu:జీవము (jīvamu), Malay:jiwa, Thai:ชีวิต  (chiwit), Burmese:ဇီဝ (jiwa), Khmer:ជីវិត (jĭvit), Russian:живой (živoy), Polish:żywy  
 **joke** *joke* ← English:French:joke, Persian:جوک‎ (jok), Japanese:ジョーク (jōku) + Mandarin:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jongle** *juggle* ← French:jongler, English:juggle, Russian:жонглировать (žonglirovat’), Japanese:ジャグリング (jaguringu)  
 **jube** *robe (jubbah)* ← Arabic: جُبَّة (jubba), Swahili:juba, Malay:jubah, Spanish:aljuba  
@@ -874,8 +876,7 @@
 **mei** *beautiful (handsome, pretty)* ← Mandarin:美 (měi), Cantonese:美 (mei5), Japanese:美 (mi), Korean:미 (mi), Vietnamese:mĩ, mỹ  
 **melodia** *melody* ← English:melody, Spanish:melodía, Portuguese:melodia, Russian:мело́дия (melódija), Turkish:Malay:melodi, Persian:ملودی‎ (melodi), Japanese:メロディー (merodī)  
 **melon** *muskmelon* ← English:French:melon, Spanish:melón, Portuguese:melão, Japanese:メロン (meron), Korean:멜론 (mellon)  
-**mem** *memory (recollection)* ← English:memory, French:mémoire, Spanish:memoria, Portuguese:memória  
-**member** *member (component)* ← English:member, Spanish:miembro, Portuguese:membro, French:membre, Japanese:メンバー (menbā)  
+**meme** *memory (recollection)* ← English:memory, French:mémoire, Spanish:memoria, Portuguese:memória  
 **men** *"one (people, ""you"")"* ← English:men, deu:man + Mandarin:们 (men), Cantonese:們 (mun4) + (tumen) Hindi:तुम (tum), rom:tumen  
 **mendelevium** *mendelevium* ← English:mendelevium, French:mendélévium, Spanish:mendelevio, Portuguese:mendelévio, Russian:менделевий, Mandarin:钔 (mén), Japanese:メンデレビウム, Korean:멘델레븀, Vietnamese:menđelevi, Hindi:मेण्डेलीवियम, Bengali:মেন্ডেলিভিয়াম, Malay:mendelevium, Swahili:mendelevi, Arabic: مندلفيوم  
 **mene** *mean (signify; meaning, signification)* ← English:mean, deu:Meinung + Arabic:(maʿnā), Hindi:मअनी (maani), Persian:Urdu:(ma'ni), Swahili:maana, haw:manaʻo  
@@ -1542,10 +1543,8 @@
 **zine** *adultery (infidelity)* ← Arabic:(zināʾ), Malay:Turkish:zina, Swahili:zinaa, Urdu:(zinā), Persian:(zenā)  
 **zinke** *zinc* ← English:zinc, French:zinc, Spanish:cinc, Portuguese:zinco, Russian:цинк, Mandarin:锌 (xīn), Bengali:জিঙ্ক, Malay:seng, Swahili:zinki  
 **zipe** *zip up* ← English:zipper, Bengali:জিপার (jipar), Hindi:ज़िपर (zipar), Japanese:ジッパー (jippā), Korean:지퍼 (jipeo), Thai:ซิป (síp), Persian:Urdu:(zip)  
-**ziraf** *giraffe* ← Arabic:(zarāfa), English:French:giraffe, Portuguese:girafa, Spanish:jirafa, Russian:жираф (žiraf), Malay:jerapah, Turkish:zürafa, Korean:지라프 (jirapeu), Hindi: जिराफ़ (jirāf), Bengali:জরৈফ (jôrôph)  
-**zire** *cumin (jeera)* ← Bengali:জিরা (zīra), Hindi:ज़ीरा (zīrā), Tamil:சீரகம் (sīrakam), Swahili:mjira, Persian:(zire), Mandarin:孜然 (zīrán), English:jeera  
+**zira** *cumin (jeera)* ← Bengali:জিরা (zīra), Hindi:ज़ीरा (zīrā), Tamil:சீரகம் (sīrakam), Swahili:mjira, Persian:(zire), Mandarin:孜然 (zīrán), English:jeera  
 **zirkonium** *zirconium* ← English:zirconium, French:zirconium, Spanish:circonio, Portuguese:zircónio, Russian:цирконий, Japanese:ジルコニウム, Korean:지르코늄, Vietnamese:ziriconi, Hindi:जर्कोनियम, Bengali:জিরকোনিয়াম, Malay:zirkonium, Swahili:zirikoni, Arabic: زيركونيوم  
-**zive** *live (life)* ← Hindi:Marathi:जीव (jīv), Bengali:জীউ (jiu), Telugu:జీవము (jīvamu), Malay:jiwa, Thai:ชีวิต  (chiwit), Burmese:ဇီဝ (jiwa), Khmer:ជីវិត (jĭvit), Russian:живой (živoy), Polish:żywy  
 **zize** *sizzle* ← Mandarin:zizi English:sizzle  
 **zoe** *animal* ← English:French:Spanish:Portuguese:Malay:Turkish:zoo-, Russian:зоо- (zoo-)  
 **zombi** *zombie* ← Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)  
@@ -1583,6 +1582,7 @@
 **• lojia** *science (study, research)* ← English:-ology, Spanish:-ología, French:-ologie, Russian:ология (-ologiya), Turkish:-loji  
 **• mamal** *mammal* ← English:mammal, Spanish:Portuguese:mamífero, French:mammifère, Turkish:memeli, Malay:mamalia  
 **• manter** *public officer (mandarin, minister)* ← Hindi:मंत्री (mantrī), Bengali:মন্ত্রী (môntri), Malay:menteri, Portuguese:mandarim, English:French:Spanish:mandarin, Russian:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), Japanese:メンター (mentā), Korean:멘토 (mento)  
+**• member** *member (component)* ← English:member, Spanish:miembro, Portuguese:membro, French:membre, Japanese:メンバー (menbā)  
 **• minime** *least (minimal)* ← English:French:minimum, Spanish:Portuguese:mínimo, deu:Minimum, Russian:ми́нимум (mínimum)  
 **• misaje** *message* ← English:deu:French:message, Spanish:mensaje, Portuguese:mensagem, Turkish:mesaj, Japanese:メッセージ (messēji), Korean:메시지 (mesiji), Russian:месседж (messedzh), Malay:mesej  
 **• misioner** *missionary* ← English:missionary, deu:Missionar, French:missionnaire, Spanish:misionero, Portuguese:misionário, Russian:миссионер (missioner), Malay:misioinaris, Swahili:mmisionari, Turkish:misyoner  

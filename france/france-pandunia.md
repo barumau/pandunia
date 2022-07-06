@@ -730,7 +730,7 @@ geographie - geografia
 Germanie - Germania  
 germanium - germanium  
 gingembre - jinje  
-giraffe - ziraf  
+giraffe - jiraf  
 glace (glacé, glacial, gelé) - ais  
 gland - balutopal  
 glisser - glise  
@@ -1093,7 +1093,7 @@ mètre - mitre
 méduse - haigel  
 méfait (péché) - dusate  
 méfait (péché) - duskar  
-mémoire - mem  
+mémoire - meme  
 méninge - meninge  
 métaux lourds - veze metal  
 
@@ -1767,7 +1767,7 @@ vert - luge
 veuve - vidou  
 viande - manse  
 vice-roi - visoreger  
-vie - zive  
+vie - jive  
 vierge - virge  
 vieux (ancien) - cenike  
 vieux (âgé, ancien) - lave  
@@ -1785,7 +1785,7 @@ viser (direction, cible; objectif) - dike
 Vishnou - Vixnu  
 vitamine - vitamin  
 vite (rapide) - suge  
-vivant - zivi  
+vivant - jive  
 vivisection - zivotome  
 vocabulaire (lexique) - lexia  
 voile - higabe  

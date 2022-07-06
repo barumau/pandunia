@@ -1470,6 +1470,9 @@ jetografor - projektori (videotykki, piirtoheitin)
 jetografe - heijastaa kuvia (projisoida; projektio)  
 jin - aito  
 jinje - inkivääri  
+jiraf - kirahvi  
+jive - elää (elämä)  
+jive - elävä  
 jo - joka (mikä)  
 joke - vitsi  
 joker - vitsiniekka  
@@ -2131,12 +2134,14 @@ mei jen - kaunistus (kaunis ihminen)
 melodrame - melodraama  
 melodi - melodinen (sointuisa)  
 melodia - melodia (sävelmä)  
-mem - muisti  
+meme - muisti  
 meme - muistaa  
-memnote - muistio (muistiinmerkintä)  
+• memure - muisto  
 • dememe - unohtaa  
+memobine - muistomerkki  
+memonote - muistio (muistiinmerkintä)  
 membe - kuulua (olla jäsenenä)  
-member - jäsen (osatekijä, komponentti)  
+• member - jäsen (osatekijä, komponentti)  
 men - ihmiset (passiivin pronomini)  
 mene - merkitä (tarkoittaa; merkitys)  
 mendelevium - mendelevium  
@@ -2164,7 +2169,6 @@ mimen su - meidän
 Myanma - Myanmar (Burma)  
 mide - väli  
 midia - media  
-Midi Pandunia - midi-pandunia  
 mien - nuudeli  
 migre - muutto (migraatio)  
 • exmigre - muuttaa pois (emigroitua)  
@@ -3817,11 +3821,8 @@ zine - haureus (uskottomuus)
 zinke - sinkki  
 zipe - sulkea vetoketjulla  
 • ziper - vetoketju  
-zire - juustokumina (jeera)  
-ziraf - kirahvi  
+zira - juustokumina (jeera)  
 zirkonium - zirkonium  
-zive - elää (elämä)  
-• zivi - elävä  
 zize - sihistä  
 zoe - eläin  
 • zoofilia - eläinrakkaus  

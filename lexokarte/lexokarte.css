@@ -1,0 +1,123 @@
+p {
+    background-color: white;
+    padding: 2px;
+}
+
+/* kontener intene image i kitabe */
+.kontener {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.eng {
+  position: absolute;
+  left: 120px;
+  top: 90px;
+  border: 1px solid brown;
+}
+
+.fra {
+  position: absolute;
+  left: 415px;
+  top: 100px;
+  border: 1px solid green;
+}
+
+.spa {
+  position: absolute;
+  left: 120px;
+  top: 205px;
+  border: 1px solid blue;
+}
+
+.por {
+  position: absolute;
+  left: 280px;
+  top: 305px;
+  border: 1px solid green;
+}
+
+.rus {
+  position: absolute;
+  left: 560px;
+  top: 55px;
+  border: 1px solid violet;
+}
+
+.ara {
+  position: absolute;
+  left: 495px;
+  top: 155px;
+  border: 1px solid orange;
+}
+
+.zho {
+  position: absolute;
+  left: 730px;
+  top: 140px;
+  border: 1px solid red;
+}
+
+.yue {
+  position: absolute;
+  left: 805px;
+  top: 170px;
+  border: 1px solid red;
+}
+
+.jpn {
+  position: absolute;
+  left: 890px;
+  top: 135px;
+  border: 1px solid red;
+}
+
+.kor {
+  position: absolute;
+  left: 830px;
+  top: 105px;
+  border: 1px solid red;
+}
+
+.vie {
+  position: absolute;
+  left: 780px;
+  top: 230px;
+  border: 1px solid red;
+}
+
+.hin {
+  position: absolute;
+  left: 670px;
+  top: 170px;
+  border: 1px solid red;
+}
+
+.ben {
+  position: absolute;
+  left: 736px;
+  top: 195px;
+  border: 1px solid red;
+}
+
+.may {
+  position: absolute;
+  left: 780px;
+  top: 280px;
+  border: 1px solid red;
+}
+
+.swa {
+  position: absolute;
+  left: 540px;
+  top: 280px;
+  border: 1px solid yellow;
+}
+
+.hau {
+  position: absolute;
+  left: 460px;
+  top: 220px;
+  border: 1px solid yellow;
+}

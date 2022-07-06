@@ -611,6 +611,9 @@ jenju - pérola
 • projetaje - projeto  
 jetografe - projeção  
 jinje - jengibre  
+jiraf - girafa  
+jive - vida  
+jive - vivo  
 jongle - fazer malabarismo  
 • jongler - malabarista  
 jube - manto  
@@ -900,7 +903,7 @@ meden - praça
 medenpapil - papoila  
 mei - belo (lindo)  
 melon - melão  
-mem - memória  
+meme - memória  
 meme - lembrar-se (recordar-se)  
 • dememe - esquecer  
 mendelevium - mendelévio  
@@ -1610,10 +1613,7 @@ zay zaman su - actuel (courant)
 zebra - zebra  
 • rezerve - reserva  
 zinke - zinco  
-ziraf - girafa  
 zirkonium - zircónio  
-zive - vida  
-• zivi - vivo  
 zoe - animal (besta, bicho)  
 • zoolojia - zoologia  
 • zoolojike - zoológico  

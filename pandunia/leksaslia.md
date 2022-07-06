@@ -335,7 +335,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**duge**|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
 |**duke**|hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|
 |**duman**|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
-|**dunia**|ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|
+|**dunia**|ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), ben:দুনিয়া (duniya), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|
 |**duna**|eng:fra:dune, spa:por:duna, rus:дюна (diuna) + vie:đụn, kor:둔(덕) (dun(deok))|
 |**dungia aventur**|eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|
 |**dur**|eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|
@@ -576,8 +576,8 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**hor**|fra:heure, eng:hour, spa:por:hora|
 |**horloger**|lat:horologium, fra:horloge, ita:orologio, spa:reloj, por:relógio, may:arloji|
 |**hormon**|eng:fra:hormone, spa:hormona, rus:гормон (gormon), tur:may:hormon, ara:هُرْمُون‎ (hurmūn), hin:हॉर्मोन (hŏrmon), zho:荷尔蒙 (hé'ěrméng), jpn:ホルモン (horumon)|
-|**hotel**|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|
-|**hui**|zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|
+|**hotel**|eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel), swa:hoteli|
+|**hui**|zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai) + kor:회색 (hoesaeg)|
 |**huke**|eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|
 |**huli**|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|
 |**humor**|rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
@@ -622,6 +622,8 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**jete**|fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|
 |**jin**|zho:真 (zhēn), yue:真 (zan1), jpn:真 (shin), kor:진 (jin), tha:จริง (jing), kyr:tat:чын (çın) + eng:genuine|
 |**jinje**|tam:இஞ்சி (inji), eng:ginger, ara:(zanjabīl), tur:zencefil, fra:gingembre|
+|**jiraf**|ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf), may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
+|**jive**|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
 |**joke**|eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**jongle**|fra:jongler, eng:juggle, rus:жонглировать (žonglirovat’), jpn:ジャグリング (jaguringu)|
 |**jube**|ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba|
@@ -928,8 +930,8 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**mei**|zho:美 (měi), yue:美 (mei5), jpn:美 (mi), kor:미 (mi), vie:mĩ, mỹ|
 |**melodia**|eng:melody, spa:melodía, por:melodia, rus:мело́дия (melódija), tur:may:melodi, fas:ملودی‎ (melodi), jpn:メロディー (merodī)|
 |**melon**|eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)|
-|**mem**|eng:memory, fra:mémoire, spa:memoria, por:memória|
-|**member**|eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|
+|**meme**|eng:memory, fra:mémoire, spa:memoria, por:memória|
+|**• member**|eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|
 |**men**|eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen|
 |**mene**|eng:mean, deu:Meinung + ara:(maʿnā), hin:मअनी (maani), fas:urd:(ma'ni), swa:maana, haw:manaʻo|
 |**mendelevium**|eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم|
@@ -1628,10 +1630,8 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**zine**|ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|
 |**zinke**|eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki|
 |**zipe**|eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|
-|**zire**|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera|
-|**ziraf**|ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf), may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|
+|**zira**|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera|
 |**zirkonium**|eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم|
-|**zive**|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
 |**zize**|zho:zizi eng:sizzle|
 |**zoe**|eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|
 |**zombi**|kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|
