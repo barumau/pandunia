@@ -1,4 +1,4 @@
-# pandunia–
+# pandunia–português
 
 ## A  
 
@@ -15,7 +15,7 @@ adal - justo
 adalia - justiça  
 adamas - diamante  
 adres - endereço  
-afgani - afegão  
+afgan - afegão  
 Afgania - Afeganistão  
 agile - ágil  
 agre - cultivar  
@@ -1260,6 +1260,7 @@ roze - rosa
 rozosalmon - salmão-rosa  
 rubidium - rubídio  
 ruhmixe - perplexo (confuso)  
+ruse - russo  
 • ruture - rutura (ruptura)  
 • exrute - erupcionar  
 • interrute - interromper  
@@ -1327,11 +1328,9 @@ serame - cerâmico
 sexolojia - sexologia  
 sexolojia - sexologia  
 si - ser (estar)  
-sibaya tene - perder  
-sibayer - perdedor  
 siborgium - seabórgio  
 • inside - agacharse  
-sifloge - adjetivo  
+sifolexe - adjetivo  
 sigar - cigarro  
 siyahe - preto  
 sikliste - ciclista  
@@ -1498,7 +1497,7 @@ vanadium - vanádio
 vare - vários  
 varkalge - kelp  
 varkolate - página  
-vase - oasis  
+vase - oásis  
 vate - item  
 vava - chorar  
 vava bebe - chorão  
@@ -1548,7 +1547,7 @@ vulve - vulva
 ## X  
 
 xampan - Champagne  
-xampan vin - champaña  
+xampan vin - champanhe  
 • xankable - dúbio (duvidoso)  
 xante - tranquilo (calmo)  
 xarke - tubarão  
@@ -1562,6 +1561,8 @@ xenon - xénon
 xere - serra  
 xerofun - serragem  
 xerokan - serraría  
+xibayer - perdedor  
+• dexibai - perder  
 xingofote - cintilar  
 xipe - molhar (molhado)  
 • xipete - úmido  
@@ -1609,7 +1610,7 @@ yune - jovem
 
 zaman - tempo  
 zarkube - dado  
-zay zaman su - actuel (courant)  
+zay zaman su - corrente (atual)  
 zebra - zebra  
 • rezerve - reserva  
 zinke - zinco  

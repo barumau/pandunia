@@ -1,4 +1,4 @@
-# –pandunia
+# polski–pandunia
 -owy (-ny, okazujący cechę) - ike  
 
 ## A  
@@ -11,7 +11,7 @@ aborygeński - aslaustrale
 admirał - haiamirer  
 adres - adres  
 Afganistan - Afgania  
-afgański - afgani  
+afgański - afgan  
 afrofil - afrikofiliste  
 Afryka - Afrike  
 afrykański, Afrykanin - Afrikan  
@@ -286,7 +286,6 @@ całus - cum
 cały - hole  
 cebula - piaze  
 cecha, atrybut, własność; -ość - bonsifia  
-cecha, właściwość, parametr - sif  
 cegła - binite  
 cel (celować; kierunek) - dike  
 cel - gol  
@@ -1835,8 +1834,8 @@ opaska do włosów - kexbende
 opcja (wybór) - cuzable  
 opinia, pogląd - rai  
 opis (rzedstawienie; wykres; obrazowy, graficzny) - grafe  
-opisać (zakwalifikować) - sife  
-opisowy - sife  
+opisać (zakwalifikować; cecha, właściwość, parametr) - sife  
+opisowy - sifive  
 opona mózgowa - meninge  
 opowiadanie (opowieść, legenda, saga; opowiedzieć, opowiadać) - sage  
 oprócz, minus - minus  
@@ -2111,7 +2110,7 @@ popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać - yale
 popłoch pospolity - pinkardon  
 por - porei  
 pora roku - mosim  
-porażka (niepowodzenie, klapa, przegrana, strata, porażka) - sibai  
+porażka (niepowodzenie, klapa, przegrana, strata, porażka) - xibai  
 porcja, dawka - doze  
 porno, film erotyczny - porne  
 pornografia - pornografia  
@@ -2167,7 +2166,7 @@ położyć - kuse
 południe - sude  
 południk - veisirke  
 Południowa Afryka - Sudafrike  
-południowy - sude  
+południowy - sudike  
 połączenie, złącze, styk - linke  
 pośladki, pupa, tyłek, zadek - pige  
 pośmiertny - posmortal  
@@ -2247,9 +2246,9 @@ przedpołudnie - suboden
 przedrostek (prefiks) - prefixe  
 przedstawić (przedłożyć, przedstawić, złożyć, składać) - karmise  
 przedłużyć, przedłużać - longife  
-przegrana (strata, porażka) - sibai  
-przegrany, pokonany - sibayer  
-przegrać, przegrywać - sibaye  
+przegrana (strata, porażka) - xibai  
+przegrany, pokonany - xibayer  
+przegrać, przegrywać - xibai  
 przejazd, przewóz, tranzyt - transe  
 przejść w poprzek - krusu  
 przejść, przechodzić, przejechać, przejeżdżać - transe  
@@ -2284,7 +2283,7 @@ przyjęcie (święto, festiwal) - feste
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - lai  
 przykryć (przykrywać, ukryć, ukrywać; pokrycie; pokrywa, wieko, dekiel; pokład) - dake  
 przykład - misal  
-przymiotnik - sifloge  
+przymiotnik - sifolexe  
 przymus - mus  
 przyprawa - masale  
 przyrostek (sufiks) - posfixe  
@@ -2363,7 +2362,7 @@ rama - frem
 Ramadan - ramazan  
 ramię (kończyna górna) - handange  
 rampa - rampe  
-ranek, rano, poranek - sube  
+ranek, rano, poranek - suba  
 raport - reporte  
 raport - reporte  
 raport - reporte  
@@ -2526,7 +2525,6 @@ samobieżny - automote
 samochód (automobil) - motogar  
 samogłoska - zungofon  
 samolot - viman  
-samppanja - xampan vin  
 San Marino - Sante Marino  
 sardela - ancovi  
 sarkazm - logironia  
@@ -2634,7 +2632,7 @@ spać (sen) - some
 specjalny, wyraźny, wyrazisty - hase  
 spis treści (tabela zawartości) - inliste  
 spisek (konspiracja) - sirplan  
-spocony - suede  
+spocony - suedos  
 spoczywaj w pokoju - repause in pace (RIP)  
 spodnie (pantalony, portki) - pante  
 spokojny - xante  
@@ -2691,7 +2689,7 @@ storczyk (orchidea) - orkide
 stosować (zastosować; zastosowanie, aplikacja) - aplike  
 stowarzyszać się (zrzeszać się) - alige  
 strach, fobia - fobia  
-stracić (utracić, tracić, zgubuć, gubić) - sibaya tene  
+stracić (utracić, tracić, zgubuć, gubić) - dexibai  
 strażnik więzienny - jeler  
 strażnik, ochroniarz - garder  
 strona (bok) - late  

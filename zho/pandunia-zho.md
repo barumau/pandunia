@@ -1,4 +1,4 @@
-# pandunia–
+# pandunia–putong
 
 ## A  
 
@@ -1191,12 +1191,9 @@ serame - 陶瓷
 sexolojia - 性学  
 sexolojia - 性学  
 si - 对  
-sibai - 失败 (击败)  
-sibaye - 输  
-sibaya tene - 亏损 (失去)  
 side - 座部 (马鞍)  
 • inside - 蹲  
-sifloge - 形容词  
+sifolexe - 形容词  
 sigar - 香烟  
 siyahe - 黑色  
 sikliste - 骑自行车的人  
@@ -1347,7 +1344,6 @@ vampir - 吸血鬼
 van: - 森林  
 vanadium - 钒  
 vare - 各种各样  
-vase - оазис  
 vate - 物体 (物品)  
 vaxurse - 浣熊  
 vei - 尾巴 (尾部)  
@@ -1396,6 +1392,9 @@ xeihal - 事态
 xenon - 氙  
 xere - 锯子  
 xerofun - 锯末  
+xibai - 失败 (击败)  
+xibai - 输  
+• dexibai - 亏损 (失去)  
 xim - 心  
 xingofote - 闪烁  
 xipe - 湿 (弄湿)  
@@ -1454,7 +1453,7 @@ yuge - 轭
 zaman - 时间  
 zanger - 工匠 (匠人)  
 zarkube - 骰子 (色子)  
-zay zaman su - нынешний  
+zay zaman su - 现在的  
 zebra - 斑马  
 zeze - 双翅目  
 zinke - 锌  

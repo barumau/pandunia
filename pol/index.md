@@ -25,8 +25,8 @@ Niektóre zauważalne cechy Panduni:
 - [Gramatyka](100_baze_kanun.md)
 
 - [Słownik z możliwością wyszukiwania](tiddly.html)
-- słownik [polski-Pandunia](polski-pandunia.md)
-- słownik [Pandunia-polski](pandunia-polski.md)
+- słownik [polski-Pandunia](pol-pandunia.md)
+- słownik [Pandunia-polski](pandunia-pol.md)
 - [Etymologia](leksaslia.md)
 
 ## Artykuły
@@ -34,7 +34,6 @@ Niektóre zauważalne cechy Panduni:
 - [Pandunia - nowy międzynarodowy język](001_dunia_basha.md)
 - [Prezentacja w formacie PDF (ang.)](http://www.pandunia.info/engli/Pandunia-presentation.pdf)
 - [Pandunia, globalny język kontaktowy (ang.)](http://www.pandunia.info/makal/Pandunia_in_Interlinguistica_Tartuensis_10.pdf) (artykuł w Interlinguistica Tartuensis 10)
-- [Dlaczego lubię Pandunię (ang.)](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinie uczących się
 
 ## Dołącz do innych
 

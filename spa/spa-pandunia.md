@@ -1,4 +1,4 @@
-# –pandunia
+# español–pandunia
 a (hacia) - ta  
 
 ## A  
@@ -57,7 +57,7 @@ además - a max
 adhesivo - glutograf  
 adicional (extra) - maxaje  
 adiós - salam cute  
-adjetivo - sifloge  
+adjetivo - sifolexe  
 administrador - politer  
 admirar - amire  
 adoquín - sirkite  
@@ -73,7 +73,7 @@ aeropuerto - airoporte
 aeróbico - airobike  
 afecto (emoción) - emos  
 Afganistán - Afgania  
-afgano - afgani  
+afgano - afgan  
 afinar - atone  
 africano - Afrikan  
 agacharse - inside  
@@ -647,8 +647,8 @@ cesio - cesium
 cesta (canasta, barquilla, aro) - baske  
 chacal - xakal  
 Chad - Cadia  
-champagne - xampan vin  
 Champaña - xampan  
+champaña - xampan vin  
 champiñón (seta) - fungopal  
 champú - kexosabun  
 chamán (brujo, hechicero) - xaman  
@@ -916,7 +916,6 @@ crítico - kriter
 crónico - durike  
 cuaderno (libreta) - notobuke  
 cuadro - cargon  
-cualidad (atributo, descripción) - sif  
 cuarzo - kuarze  
 cuatro (4) - care  
 Cuba - Kuba  
@@ -997,7 +996,7 @@ dedo - angul
 defecar - defeke  
 defender (defensa) - defe  
 defensor - defer  
-definir - sife  
+definir (cualidad, atributo, descripción) - sife  
 degradar - dusdarge  
 dejar - laxe  
 dejar - live  
@@ -1023,7 +1022,7 @@ derecho - raite
 derechos de autor (copyright) - kopohake  
 derechos humanos - human hake  
 derretirse - fuze  
-derrota (fracaso) - sibai  
+derrota (fracaso) - xibai  
 desactivado - anative  
 desacuerdo - alorayia  
 desarrollo - dargomute  
@@ -1032,7 +1031,7 @@ desayuno - subyam
 descargar - netogete  
 descase en paz - repause in pace (RIP)  
 desconectar - dekonnete  
-descriptivo - sife  
+descriptivo - sifive  
 desfigurar - dusforme  
 desierto - sablostan  
 designar - desinye  
@@ -2187,7 +2186,7 @@ mazmorra - geonici prizon
 maíz - mais  
 mañana (antes mediodía) - suboden  
 mañana - posdeno  
-mañana - sube  
+mañana - suba  
 mear - pise  
 medallón - medal  
 medicina - medikia  
@@ -2687,9 +2686,9 @@ pepino - hiyar
 pepita - semendan  
 pequeño - lile  
 pera - leze  
-perdedor - sibayer  
-perder (fallar) - sibaye  
-perder - sibaya tene  
+perdedor - xibayer  
+perder (fallar) - xibai  
+perder - dexibai  
 perdonar (disculpar) - mafe  
 perdurable (longevo, prolongado) - longodure  
 perdón - maf  
@@ -3319,7 +3318,7 @@ subterráneo - geonice
 sucio (corrompido) - nagise  
 Sudamérica - Sudi Amerike  
 sudor - suede  
-sudoroso (sudado) - suede  
+sudoroso (sudado) - suedos  
 Sudáfrica - Sudafrike  
 Sudán - Sudan  
 Sudán del Sur - Sudi Sudan  
@@ -3340,7 +3339,7 @@ sumisión (rendición; someterse, rendirse, ceder) - islam
 superficial (poco profundo) - fasotelia  
 superior (más alto) - supre  
 sur - sude  
-sureño - sude  
+sureño - sudike  
 Surinam - Surinam  
 sushi - suxi  
 sustancia (materia) - mate  

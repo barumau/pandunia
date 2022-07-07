@@ -1251,10 +1251,9 @@
 **sesam** ** ← angla:sesame, rusa:сезам (sezam), hispana:sésamo, araba:(simsim), svahila:simsim, turka:susam  
 **sexe** *sekso* ← angla:sex, franca:sexe, hispana:portugala:sexo, rusa:секс (seks), turka:seks, hindia:सेक्स (seks), japana:セックス (sekkusu), korea:섹스 (sekseu)  
 **siane** ** ← angla:cyan, hispana:cian, rusa:циан (tsian), araba:سيان (sayan), hindia:क्यान (kyāna), japana:シアン (shian), malaja:sian  
-**sibai** *malsukceso* ← mandarena:失败 (shībài), japana:失敗 (shippai), korea:실패 (šilpæ), vjetnama:thất bại  
 **siborgium** *seborgio* ← angla:seaborgium, franca:seaborgium, hispana:seaborgio, portugala:seabórgio, rusa:сиборгий, mandarena: (xǐ), japana:シーボーギウム, korea:새보쥼, vjetnama:seaborgi, hindia:सीबोर्गियम, bengala:সিওবোর্গিয়াম, malaja:seaborgium, svahila:seaborgi, araba: سيبورجيوم  
 **side** *sidi* ← rusa:сидеть (sidet'), angla:sit, deu:sitzen, itala:sedere  
-**sif** ** ← hindia:गुण (guṇ), bengala:গুণ (guṇ), teluga:గుణము (guṇamu), birma:ဂုဏ် (gun), malaja:guna, taja:คุณ (kun), kmera:គុណ (kun)  
+**sife** ** ← hindia:गुण (guṇ), bengala:গুণ (guṇ), teluga:గుణము (guṇamu), birma:ဂုဏ် (gun), malaja:guna, taja:คุณ (kun), kmera:គុណ (kun)  
 **sigar** *cigaredo* ← angla:franca:cigarette, hispana:cigarillo, portugala:cigarro, rusa:сигарета (sigarteta), araba:(sījāra), mandarena:雪茄 (xǔejiā), vua:雪茄 (xi'gá), hindia:सिगरेट (sigreṭ), bengala:সিগারেট (śigareṭ), svahila:turka:sigara, amhara:ሲጃራ (siǧara)  
 **sike** ** ← angla:franca:hispana:chic, portugala:chique, rusa:шикарный (shikarnyy), turka:şık, persa:شیک‎  (šik), japana:シック (shikku)  
 **sikle** ** ← angla:bicycle, franca:bicyclette, turka:bisiklet, hispana:bicicleta, filipina:bisikleta, bengala:সাইকেল (saikel), hindia:साइकिल (sāikil)  
@@ -1297,13 +1296,13 @@
 **strute** ** ← angla:franca:structure, hispana:estructure, portugala:estrutura, rusa:структура (struktura), malaja:(infra)struktur, japana:(インフラ)ストラクチャ ((infura)sutorakucha), korea:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** ** ← angla:study, franca:étudier, hispana:estudiar, portugala:estudar + rusa:студент (student), hindia:स्टूडेंट (sṭūḍeṇṭ)  
 **su** *propra (partiklo de posedo)* ← angla:'s, hispana:su, portugala:seu,sua  
-**su-** ** ← scr:hindia: सु- (su-), bengala:সু- (śu-) + latina:angla:franca:su-  
 **sual** *demandi* ← araba: سؤال (su'āl), hindia:सवाल (savāl), malaja:soal, svahila:swali  
 **suane** *acida* ← mandarena:酸 (suān), kantona:酸 (syun1), vua:酸 (soe1), japana:酸 (san), korea:산 (san), vjetnama:toan  
 **suar** *vespero* ← franca:soir, angla:soiree, rusa:суаре (suare), turka:suare + malaja:sore  
-**sube** ** ← bengala:নিচে (nice), hindia:नीचे (nīce), urdua:(nīce), rusa:ниже (niže)  
-**sube** *mateno* ← araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba  
-**sude** *sudo* ← hispana:sur, portugala:sul, franca:sud  
+**suba** *mateno* ← araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba  
+**sube** ** ← angla:franca:hispana:portugala:malaja:sub-, rusa:суб- (sub-)  
+**sude** *sudo* ← angla:south, hispana:sur, portugala:sul, franca:sud, deu:Süden, rusa:зюйд (zyuyd)  
+**sue** ** ← scr:hindia: सु- (su-), bengala:সু- (śu-) + latina:angla:franca:su-  
 **suede** ** ← angla:sweat, hispana:sudor, portugala:suor, franca:sueur, sanskrita:स्वेद (sveda)  
 **suge** *rapida* ← mandarena:速 (sù), kantona:速 (cuk4)), japana:速 (soku), korea:속 (sok), vjetnama:tốc  
 **sui** *akvo* ← mandarena:水 (shuǐ), japana:水 (sui), korea:수 (su), vjetnama:thuỷ + turka:su  
@@ -1491,6 +1490,7 @@
 **xenon** *ksenono* ← angla:xenon, franca:xénon, hispana:xenón, portugala:xénon, rusa:ксенон, mandarena:氙 (xiān), japana:キセノン, korea:크세논, vjetnama:xenon, hindia:ज़ेनान, bengala:জেনন, malaja:xenon, svahila:zenoni, araba: إكسينون  
 **xenseng** ** ← mandarena:先生 (xiānshēng), kantona:先生 (sin1saang1), japana:先生 (sensei), korea:선생 (seonsaeng), vjetnama:tiên sinh, malaja:sinse, taja:ซินแส (sin-see), angla:sensei  
 **xere** *segilo* ← alb:sharrë + hispana:sierra, portugala:serra + आरा (ārā) + araba: مِنْشَار‎ (minšār), persa: منشار‎ (menšâr)  
+**xibai** *malsukceso* ← mandarena:失败 (shībài), japana:失敗 (shippai), korea:실패 (šilpæ), vjetnama:thất bại  
 **xim** *koro* ← korea: 심 (shim), mandarena:心 (xīn), japana:心 (shin), kantona:心 (sam1), hakaa:心 (sîm), vjetnama:tim  
 **xin** *kredo* ← mandarena:信 (xìn), kantona:信 (seon3), japana:信 (shin), vjetnama:tin  
 **xindavisme** ** ← japana:神道 (shintō), korea:신도 (sindo), mandarena:神道 (shéndào)  

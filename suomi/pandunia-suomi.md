@@ -1,4 +1,40 @@
-# pandunia–
+# Pandunia–suomi-sanasto
+
+Tämä sanasto sisältää panduniain sanoja ja niiden käännöksiä suomen kielelle.
+Sanasto on järjestetty aakkosjärjestykseen panduniain sanojen mukaan.
+
+Jokainen hakusana koostuu panduniain sanasta tai yhdyssanasta ja sen suomennoksesta.
+Yhtä suomennosta käytetään silloin,
+kun sanojen merkitykset ovat lähellä toisiaan tai täsmälleen samoja kummassakin kielessä.
+
+> aple - omena  
+> arane - hämähäkki
+
+Kun hakusanalle on useampia käännöksiä,
+yleisin käännös on ensimmäisenä
+ja sen perässä on sulkeiden sisällä pääkäännöksen merkitystä laajentavia tai tarkentavia käännöksiä.
+
+> chira - repiä (raastaa)
+
+Jos hakusanalla on useampia merkityksiä,
+niiden käännökset erotetaan puolipisteellä.
+
+> ching - pyytää (anoa; ole hyvä)
+
+Toisinaan samasta sanasta on kaksi lähes samanlaista hakusanaa.
+
+> **huru** - free (unbound)  
+> **fa huru** - free (liberate)
+
+Näistä **fa**-alkuisen hakusanan kohdalla on varsinaisen pääsanan suomennos verbinä.
+Pandunian sanat voivat toimia sekä substantiivina, adjektiivina että verbinä.
+Sen vuoksi lauseyhteydessä riittää yleensä pelkän pääsanan käyttäminen
+ja apuverbin **fa** voi jättää pois.
+Esimerkiksi **mi huru yemon** on riittävä tapa sanoa 'Minä vapautan heidät'.
+Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kannalta ylimääräinen **fa**-sana.
+
+---
+
 
 ## A  
 
@@ -26,8 +62,8 @@ adal - oikeudenmukainen
 adalia - oikeus  
 adamas - timantti  
 adres - osoite  
-adresoharfe - @-merkki  
-afgani - afgaani  
+adresoharfe - at-merkki (@, kissanhäntä)  
+afgan - afgaani  
 Afgania - Afganistan  
 Afrike - Afrikka  
 Afrikan - afrikkalainen  
@@ -3071,18 +3107,14 @@ Sexel nesia - Seychellit
 si - olla  
 si ham - olla väliä (olla tärkeä)  
 siane - syaani  
-sibai - epäonnistuminen  
-sibaye - hävitä (kärsiä tappio)  
-sibayer - häviäjä  
 Sibiria - Siperia  
 siborgium - seaborgium  
 side - istua  
 • presidente - presidentti  
 • visopresidente - varapresidentti  
-sif - laatu (ominaisuus, ominaispiirre, määrite)  
-sife - määritellä (luonnehtia)  
-sife - kuvaileva (määrittelevä)  
-sifloge - adjektiivi (laatusana)  
+sife - määritellä (luonnehtia; laatu, ominaisuus, ominaispiirre, määrite)  
+• sifive - kuvaileva (määrittelevä)  
+sifolexe - adjektiivi (laatusana)  
 sigar - savuke tai sikari  
 siyahe - musta  
 sike - elegantti  
@@ -3203,10 +3235,11 @@ suarden - iltapäivä
 suaryam - illallinen  
 Suati - Swazimaa  
 sube - alapuoli  
-sube - aamu  
 • subike - ala-  
 subyam - aamiainen  
+suba - aamu  
 sude - etelä  
+• sudike - eteläinen  
 Sudi Amerike - Etelä-Amerikka  
 Sudi Cosen - Etelä-Korea  
 Sudi Iria (Alonia) - Etelä-Ossetia  
@@ -3214,7 +3247,7 @@ Sudi Sudan - Etelä-Sudan
 Sudafrike - Etelä-Afrikka  
 Sudan - Sudan  
 suede - hiki  
-suede - hikinen  
+• suedos - hikinen  
 Suenia - Ruotsi  
 suge - nopea (pikainen, vauhdikas)  
 sugometrer - nopeusmittari  
@@ -3625,7 +3658,7 @@ xake - oksa (haara)
 xakal - šakaali  
 xal - huivi (šaali)  
 xaman - šamaani  
-xampan vin - ĉampano  
+xampan vin - samppanja  
 xanke - epäilys  
 • xankable - epäilyttävä  
 xante - rauhallinen (levollinen, tyyni)  
@@ -3650,6 +3683,9 @@ xenon - ksenon
 xere - saha  
 xerofun - sahanpuru (sahajauho)  
 xerokan - sahalaitos  
+xibai - epäonnistuminen  
+xibai - hävitä (kärsiä tappio)  
+xibayer - häviäjä  
 xim - sydän  
 xin - usko (luottamus)  
 xine - uskoa (luottaa)  

@@ -16,13 +16,13 @@ Cette documentation n'est pas à jour avec la version finale de pandunia. Voir l
 
 ## Ressources pour apprendre
 
-- [L'essentiel](baze.md) en une seule page
-- [Leçon en dialogues](201_shula.md)
+- [L'essentiel](003_baze.md) en une seule page
+- [Leçon en dialogues](201_xule.md)
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
 - [Petits cours en images](http://www.pandunia.info/pandunia/mini_shula.html)
 - [Recueil d’expressions](200_baze_jumla.md)
-- Dictionnaire [français → pandunia](france-pandunia.md)
-- Dictionnaire [pandunia → français](pandunia-france.md)
+- Dictionnaire [français → pandunia](fra-pandunia.md)
+- Dictionnaire [pandunia → français](pandunia-fra.md)
 - Dictionnaire [étymologique](leksaslia.md) - (consulter la [liste des codes des langues](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes))
 - Dictionnaire [dynamique](http://www.pandunia.info/fransi/tiddly.html)
 

@@ -12,7 +12,7 @@ nav:
     - 'Introduction': 001_ration.md
     - 'Grammar and Rules':
         - 'The basic rules': 100_baze_kanun.md
-        - 'World words': 101_dunia_loga.md
+        - 'World words': 101_dunia_lexe.md
         - 'Spelling and pronunciation': 102_ABC.md
         - 'Word classes': 103_lexotipe.md
         - 'Pronouns': 104_viselexe.md
@@ -32,7 +32,7 @@ nav:
         - 'Search': tiddly.html
     - 'Appendix':
         - History: 401_histori.md
-        - 'Questions & Answers': 402_sual_e_javabu.md
+        - 'Questions & Answers': 402_sual_e_javabe.md
         - 'Adapting foreign words' : 403_loga_hapu.md
         - 'Translate this site': tarja_netoloke.md
 

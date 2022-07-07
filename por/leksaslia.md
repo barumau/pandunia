@@ -1251,10 +1251,9 @@
 **sesam** ** ← eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam  
 **sexe** ** ← eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)  
 **siane** ** ← eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian  
-**sibai** ** ← zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại  
 **siborgium** *seabórgio* ← eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم  
 **side** ** ← rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere  
-**sif** ** ← hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)  
+**sife** ** ← hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)  
 **sigar** *cigarro* ← eng:fra:cigarette, spa:cigarillo, por:cigarro, rus:сигарета (sigarteta), ara:(sījāra), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá), hin:सिगरेट (sigreṭ), ben:সিগারেট (śigareṭ), swa:tur:sigara, amh:ሲጃራ (siǧara)  
 **sike** ** ← eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)  
 **sikle** ** ← eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)  
@@ -1297,13 +1296,13 @@
 **strute** ** ← eng:fra:structure, spa:estructure, por:estrutura, rus:структура (struktura), may:(infra)struktur, jpn:(インフラ)ストラクチャ ((infura)sutorakucha), kor:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *estudar (examinar)* ← eng:study, fra:étudier, spa:estudiar, por:estudar + rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)  
 **su** ** ← eng:'s, spa:su, por:seu,sua  
-**su-** ** ← scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-  
 **sual** *perguntar (pergunta, questão)* ← ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali  
 **suane** ** ← zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan  
 **suar** *noitinha* ← fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore  
-**sube** ** ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
-**sube** ** ← ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)  
-**sude** ** ← spa:sur, por:sul, fra:sud  
+**suba** ** ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
+**sube** ** ← eng:fra:spa:por:may:sub-, rus:суб- (sub-)  
+**sude** ** ← eng:south, spa:sur, por:sul, fra:sud, deu:Süden, rus:зюйд (zyuyd)  
+**sue** ** ← scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-  
 **suede** *suor* ← eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)  
 **suge** *rápido* ← zho:速 (sù), yue:速 (cuk4)), jpn:速 (soku), kor:속 (sok), vie:tốc  
 **sui** *água* ← zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su  
@@ -1430,7 +1429,7 @@
 **vare** *vários* ← eng:various, spa:vario, por:vário  
 **varis** ** ← may:waris, ara:(wariþ), swa:urithi, tur:varis, miras  
 **varke** ** ← ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)  
-**vase** *oasis* ← ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)  
+**vase** *oásis* ← ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)  
 **vate** *item* ← hin:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu), mya:ဝတ္ထု (wathtu), khm:វត្ថុ (vŏəttho) + vie:vật, wuu:物 (veq5), zho:物 (wù), yue:物 (mat6), jpn:物 (butsu)  
 **vava** *chorar* ← eng:wah-wah, fra:ouin ouin, spa:por:buá buá, ben:ওয়া ওয়া (oā-oā), zho:哇哇 (wāwā), yue:哇哇 (waa1waa1), vie:oa oa, may:owe-owe  
 **vaxe** ** ← eng:wash, deu:waschen, zho:洗 (xǐ)  
@@ -1491,6 +1490,7 @@
 **xenon** *xénon* ← eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون  
 **xenseng** ** ← zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生 (sensei), kor:선생 (seonsaeng), vie:tiên sinh, may:sinse, tha:ซินแส (sin-see), eng:sensei  
 **xere** *serra* ← alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)  
+**xibai** ** ← zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại  
 **xim** ** ← kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim  
 **xin** ** ← zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin  
 **xindavisme** ** ← jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)  

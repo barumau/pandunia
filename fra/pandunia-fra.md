@@ -1,4 +1,4 @@
-# pandunia–
+# pandunia–français
 
 ## A  
 
@@ -21,7 +21,7 @@ adalia - justice
 adamas - diamant  
 adres - adresse  
 adresoharfe - arobase (@)  
-afgani - afghan  
+afgan - afghan  
 Afgania - Afghanistan  
 Afrike - Afrique  
 Afrikan - africain  
@@ -1077,6 +1077,7 @@ mei - beau
 meme - mémoire  
 meme - se rappeler (se remémorer)  
 • dememe - oublier  
+men - on  
 mendelevium - mendélévium  
 meninge - méninge  
 menu - menu (carte)  
@@ -1467,6 +1468,8 @@ rubidium - rubidium
 ruh - psyché  
 ruhlojia - psychologie  
 ruhmixe - perplexe (désorienté)  
+ruse - russe  
+Rusia - Russie  
 • ruture - rupture  
 • exrute - entrer en éruption  
 • interrute - interrompre  
@@ -1536,12 +1539,9 @@ sexolojia - sexologie
 sexolojia - sexologie  
 • ansexe - asexué  
 si - être  
-sibai - échec  
-sibaya tene - perder  
-sibayer - perdant  
 siborgium - seaborgium  
 • inside - s’accroupir  
-sifloge - adjectif  
+sifolexe - adjectif  
 sigar - cigarette  
 siyahe - noir  
 sikle - bicyclette  
@@ -1741,6 +1741,7 @@ vanadium - vanadium
 vare - divers (plusieurs)  
 varkalge - varech  
 varkolate - page  
+vase - oasis  
 vate - objet (article)  
 vava bebe - pleurnicheur (pleurnichard)  
 vaxurse - raton laveur  
@@ -1798,7 +1799,7 @@ vulve - vulve
 ## X  
 
 xampan - Champagne  
-xampan vin - Champagner  
+xampan vin - champagne  
 • xankable - douteux (dubitatif)  
 xante - calme (tranquille)  
 xarke - requin  
@@ -1813,6 +1814,9 @@ xenon - xénon
 xere - scie  
 xerofun - sciure  
 xerokan - scierie  
+xibai - échec  
+xibayer - perdant  
+• dexibai - perder  
 xing - étoile  
 xingofote - étinceler  
 xipe - mouiller (mouillé)  
@@ -1873,6 +1877,7 @@ Zardux - Zoroastre
 zarduxisme - zoroastrisme  
 zarduxiste - zoroastrien  
 zay - être présent  
+zay zaman su - actuel (courant)  
 Zayeria - Algérie  
 zebra - zèbre  
 zinke - zinc  

@@ -1,4 +1,4 @@
-# –pandunia
+# suomi–pandunia
 -llinen (kantasanalle ominaispiirteinen) - ike  
 -n (oma) - su  
 
@@ -7,7 +7,7 @@
 aakkoset (ABC) - harfia  
 aalto (laine) - onde  
 aamiainen - subyam  
-aamu - sube  
+aamu - suba  
 aarre (arvokas) - bau  
 aasi - gade  
 Aasia - Asia  
@@ -22,10 +22,10 @@ aboriginaali (Australian alkuperäisasukas) - aslaustrale
 abyssinia - Habasia  
 abyssinialainen - habase  
 adessiivi - aesive  
-adjektiivi (laatusana) - sifloge  
+adjektiivi (laatusana) - sifolexe  
 adverbi - modologe  
 aerobinen - airobike  
-afgaani - afgani  
+afgaani - afgan  
 Afganistan - Afgania  
 Afrikka - Afrike  
 afrikkalainen - Afrikan  
@@ -189,6 +189,7 @@ astrobiologia - kosmobiolojia
 astronautti (tähtimatkaaja) - astronaver  
 asua (asunto, koti) - dom  
 asuttaa - domane  
+at-merkki (@, kissanhäntä) - adresoharfe  
 Ateena - Athina  
 ateisti (jumalankieltäjä) - andeviste  
 ateljee (studio) - studia  
@@ -411,7 +412,7 @@ epäilyttävä - xankable
 epänormaali - annorme  
 epäonni - dusi zar  
 epäonni - dusozar  
-epäonnistuminen - sibai  
+epäonnistuminen - xibai  
 epätodellinen (epäaito) - anrel  
 epäystävällinen - andoste  
 erbium - erbium  
@@ -443,6 +444,7 @@ Etelä-Amerikka - Sudi Amerike
 Etelä-Korea - Sudi Cosen  
 Etelä-Ossetia - Sudi Iria (Alonia)  
 Etelä-Sudan - Sudi Sudan  
+eteläinen - sudike  
 Eteläinen Jäämeri - Antartiki Hai  
 etiikka (moraalioppi) - dekolojia  
 etiketti (protokolla) - burorite  
@@ -652,7 +654,7 @@ hiilidioksidi - karboduloxide
 hiiri - mus  
 hiiva - hamir  
 hiki - suede  
-hikinen - suede  
+hikinen - suedos  
 hiljaa (hys, shhh) - tix  
 hiljainen - tixe  
 hiljaisuus - tixia  
@@ -758,8 +760,8 @@ häpeä - xarme
 häpy (ulkosynnyttimet) - vulve  
 hätä (paniikki) - panike  
 hävittää maan tasalle (ajaa parta pois) - raze  
-hävitä (kärsiä tappio) - sibaye  
-häviäjä - sibayer  
+hävitä (kärsiä tappio) - xibai  
+häviäjä - xibayer  
 hölmö (narri) - bufon  
 höylä - rande  
 höylätä - rande  
@@ -1436,7 +1438,7 @@ kuusi (metsäkuusi) - picea
 kuusikulmio - sixogon  
 kuutio (kuusitahokas) - sixofase  
 kuutio - kube  
-kuvaileva (määrittelevä) - sife  
+kuvaileva (määrittelevä) - sifive  
 kuvakirja - grafobuke  
 kuvankäsittely - grafoprocese  
 kuvanveisto - skultia  
@@ -1502,7 +1504,6 @@ laatikko - kapse
 laatikko - sanduke  
 laatta (levy, taulu) - table  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsifia  
-laatu (ominaisuus, ominaispiirre, määrite) - sif  
 Lagos - Lagos  
 lahja - donaje  
 lahjakortti - donajoceke  
@@ -1985,7 +1986,7 @@ mädäntyä (mädätä) - pudu
 mänty - song  
 märkä (kastaa; kastella) - xipe  
 mätä - pude  
-määritellä (luonnehtia) - sife  
+määritellä (luonnehtia; laatu, ominaisuus, ominaispiirre, määrite) - sife  
 määritetyn määritteeseen liittävä partikkeli - de  
 määrä (päämäärä, kohtalo) - nasibe  
 
@@ -2759,6 +2760,7 @@ samarium - samarium
 Sambia - Zambia  
 sammal - mos  
 Samoa - Samoa  
+samppanja - xampan vin  
 San Marino - Sante Marino  
 sana - lexe  
 sanaluettelo (sanalista, sanasto) - lexoliste  
@@ -3820,7 +3822,6 @@ zulu - Zulu
 äänne (fooni) - fone  
 ääntää (lausua) - fonologe  
 äärettömyys (rajattomuus) - anlimitia  
-ĉampano - xampan vin  
 Šiva - Xiva  
 šakaali - xakal  
 šakki - xatrange  

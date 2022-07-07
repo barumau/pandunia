@@ -1,4 +1,4 @@
-# pandunia–
+# pandunia–polski
 
 ## A  
 
@@ -24,7 +24,7 @@ adalia - sprawiedliwość
 adamas - diament  
 adres - adres  
 adresoharfe - małpa (znak na  
-afgani - afgański  
+afgan - afgański  
 Afgania - Afganistan  
 Afrike - Afryka  
 Afrikan - afrykański, Afrykanin  
@@ -2799,11 +2799,6 @@ Sexel nesia - Seszele
 si - być  
 si ham - znaczyć (liczyć się, być ważnym)  
 siane - niebieskozielony (cyjan)  
-sibai - porażka (niepowodzenie, klapa, przegrana, strata, porażka)  
-sibai - przegrana (strata, porażka)  
-sibaye - przegrać, przegrywać  
-sibaya tene - stracić (utracić, tracić, zgubuć, gubić)  
-sibayer - przegrany, pokonany  
 Sibiria - Syberia  
 siborgium - seaborg  
 side - siedzenie (siodło)  
@@ -2812,10 +2807,9 @@ sidu - usiąść
 • inside - kucać (kucnąć)  
 • presidente - prezydent  
 • visopresidente - wiceprezydent  
-sif - cecha, właściwość, parametr  
-sife - opisać (zakwalifikować)  
-sife - opisowy  
-sifloge - przymiotnik  
+sife - opisać (zakwalifikować; cecha, właściwość, parametr)  
+• sifive - opisowy  
+sifolexe - przymiotnik  
 sigar - papieros (cygar)  
 siyahe - czarny  
 sike - elegancki, szykowny  
@@ -2930,12 +2924,12 @@ suarden - popołudnie
 suaryam - kolacja  
 Suati - Suazi  
 sube - spód  
-sube - ranek, rano, poranek  
 • subike - poniższy  
 suboden - przedpołudnie  
 subyam - śniadanie  
+suba - ranek, rano, poranek  
 sude - południe  
-sude - południowy  
+• sudike - południowy  
 Sudi Amerike - Ameryka Południowa  
 Sudi Cosen - Korea Południowa  
 Sudi Georgia e Sudi Sanduice nesia - Wyspy Georgia Południowa i Sandwich Południowy  
@@ -2944,7 +2938,7 @@ Sudi Sudan - Sudan Południowy
 Sudafrike - Południowa Afryka  
 Sudan - Sudan  
 suede - pot  
-suede - spocony  
+• suedos - spocony  
 Suenia - Szwecja  
 suge - szybki, prędki  
 sugometrer - prędkościomierz  
@@ -3311,7 +3305,6 @@ xakal - szakal
 xal - szal, szalik  
 xaman - szaman  
 xampan - Champagne  
-xampan vin - samppanja  
 Xanghai - Szanghaj  
 xanke - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 • xankable - wątpliwy (niewiarygodny, podejrzany)  
@@ -3339,6 +3332,11 @@ xenon - ksenon
 xenseng - mistrz (sensei)  
 xere - piła  
 xerokan - tartak  
+xibai - porażka (niepowodzenie, klapa, przegrana, strata, porażka)  
+xibai - przegrana (strata, porażka)  
+xibai - przegrać, przegrywać  
+xibayer - przegrany, pokonany  
+• dexibai - stracić (utracić, tracić, zgubuć, gubić)  
 xim - serce  
 xin - wiara, wierzenie, kredo  
 xine - wierzyć  

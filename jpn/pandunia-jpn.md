@@ -1,4 +1,4 @@
-# pandunia–
+# pandunia–nipon
 
 ## A  
 
@@ -1195,14 +1195,11 @@ servor - サーバ
 sexolojia - 性科学  
 sexolojia - 性科学  
 siane - シアン  
-sibai - 失敗 (負け)  
-sibaye - 負ける  
-sibaya tene - 失う (無くす, 落とす)  
 siborgium - シーボーギウム  
 side - 座席 (鞍)  
 sidu - 座る  
 • inside - しゃがむ (蹲る)  
-sifloge - 形容詞  
+sifolexe - 形容詞  
 sigar - タバコ  
 siyahe - 黒い  
 sikliste - チャリダー  
@@ -1251,8 +1248,8 @@ sualdokum - アンケート (質問用紙)
 suar - 夕べ  
 suaryam - 夕食  
 sube - 下  
-sube - 朝  
 subyam - 朝食  
+suba - 朝  
 suge - 速い  
 sugude - 速度  
 sui - 水  
@@ -1414,6 +1411,9 @@ xeihal - 事態
 xenon - キセノン  
 xere - のこぎり  
 xerofun - 木屑  
+xibai - 失敗 (負け)  
+xibai - 負ける  
+• dexibai - 失う (無くす, 落とす)  
 xim - 心  
 xingofote - ピカピカ光る (きらきらする)  
 xipe - 湿っぽい (濡らす)  
@@ -1470,6 +1470,7 @@ zaman - 時代 (年代)
 zarkube - 賽子  
 zay - ある (いる)  
 zay zaman - 今 (現在)  
+zay zaman su - 現行  
 zeze - ハエ目 (双翅目)  
 zinke - 亜鉛  
 zira - クミン  

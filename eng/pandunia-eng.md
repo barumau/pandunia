@@ -68,8 +68,8 @@ adal - just (fair, righteous)
 adalia - justice  
 adamas - diamond  
 adres - address  
-adresoharfe - @ symbol  
-afgani - Afghan  
+adresoharfe - at sign (@)  
+afgan - Afghan  
 Afgania - Afghanistan  
 Afrike - Africa  
 Afrikan - African  
@@ -1566,7 +1566,7 @@ ideograf - ideogram
 idiote - idiot (stupid, idiotic)  
 • idiotia - idiocy (stupidity)  
 ifrite - ifrit  
-ike - -ic (a person or thing with specific character)  
+ike - a person or thing with specific character (-ic, -ian)  
 impere - reign (rule as an emperor)  
 • imperia - empire  
 • imperisme - imperialism  
@@ -2453,7 +2453,7 @@ memobine - monument (memorial)
 memonote - memorandum (memo)  
 membe - belong (be a member)  
 • member - member (component)  
-men - "one (people, ""you"")"  
+men - one (people, you)  
 mene - mean (signify; meaning, signification)  
 mendelevium - mendelevium  
 meninge - meninx (meninges)  
@@ -3605,11 +3605,6 @@ Sexel nesia - Seychelles
 si - be  
 si ham - matter (be important)  
 siane - cyan  
-sibai - failure (loss, flop, miss, defeat)  
-sibai - loss (failure, miss)  
-sibaye - lose (fail, miss, be defeated)  
-sibaya tene - lose (shed, miss, misplace)  
-sibayer - loser  
 Sibiria - Siberia  
 siborgium - seaborgium  
 side - seat (saddle)  
@@ -3618,10 +3613,9 @@ sidu - sit down
 • inside - crouch (squat)  
 • presidente - president  
 • visopresidente - vice-president  
-sif - attribute (charasteristic, quality, feature, description, property)  
-sife - qualify (describe)  
-sife - descriptive  
-sifloge - adjective  
+sife - qualify (describe; quality, attribute, description)  
+• sifive - descriptive  
+sifolexe - adjective  
 sigar - cigarette (cigar)  
 siyahe - black  
 sike - elegant (chic)  
@@ -3746,8 +3740,8 @@ stude - study (work in order to practise or demonstrate)
 • studaje - study (work made in order to practise or demonstrate)  
 • studente - learner (student)  
 • studer - student  
-su - 's (attributive postposition)  
-su- - good (well)  
+su - attributive postposition (-'s)  
+sue - good (well)  
 suahili - Swahili  
 sual - ask (inquire; question, query, inquiry)  
 • sualive - interrogative  
@@ -3762,12 +3756,12 @@ suarden - afternoon
 suaryam - dinner  
 Suati - Eswatini (Swaziland)  
 sube - underside (underneath)  
-sube - morning (dawn)  
 • subike - lower (inferior)  
 suboden - forenoon  
 subyam - breakfast  
+suba - morning (dawn)  
 sude - south  
-sude - southern  
+• sudike - southern  
 Sudi Amerike - South America  
 Sudi Cosen - South Korea (Republic of Korea)  
 Sudi Georgia e Sudi Sanduice nesia - South Georgia and the South Sandwich Islands  
@@ -3776,7 +3770,7 @@ Sudi Sudan - South Sudan
 Sudafrike - South Africa  
 Sudan - Sudan  
 suede - sweat (perspiration)  
-suede - sweaty  
+• suedos - sweaty  
 Suenia - Sweden  
 suge - fast (quick, rapid, speedy)  
 sugometrer - speedometer  
@@ -4299,6 +4293,11 @@ xenseng - master (sensei)
 xere - saw  
 xerofun - sawdust  
 xerokan - sawmill  
+xibai - failure (loss, flop, miss, defeat)  
+xibai - loss (failure, miss)  
+xibai - lose (fail, miss, be defeated)  
+xibayer - loser  
+• dexibai - lose (shed, miss, misplace)  
 xim - heart  
 xin - belief (faith, creed)  
 xine - believe  

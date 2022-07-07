@@ -1,4 +1,4 @@
-# pandunia–
+# pandunia–русский
 
 ## A  
 
@@ -15,7 +15,7 @@ adal - справедливый
 adalia - справедливость  
 adamas - алмаз (бриллиант)  
 adres - адрес  
-afgani - афганский  
+afgan - афганский  
 Afgania - Афганистан  
 agile - подвижный  
 agre - выращивать  
@@ -1291,6 +1291,8 @@ rubidium - рубидий
 ruh - душа (дух)  
 ruhmixe - озадачить  
 rukosake - рюкзак  
+ruse - русский  
+Rusia - Россия  
 • ruture - разрыв  
 • exrute - извергать  
 • interrute - прерывать  
@@ -1366,13 +1368,11 @@ sexolojia - сексология
 sexolojia - сексология  
 si - быть  
 siane - циан  
-sibaye - проиграть (провалиться)  
-sibaya tene - потерять (утратить)  
 siborgium - сиборгий  
 side - сиденье (седло)  
 side - сидеть  
 • inside - сесть на корточки  
-sifloge - прилагательное  
+sifolexe - прилагательное  
 sigar - сигарета (папироса, сигарка)  
 siyahe - чёрный  
 sikliste - велосипедист  
@@ -1403,7 +1403,6 @@ solocate - зонтик от солнца
 soloful - подсолнечный  
 some - спать  
 • somive - сонный  
-• desome - acordado  
 • ansome - бессонница (инсомния)  
 somokamar - спальня  
 somopapil - мак снотворный  
@@ -1562,7 +1561,7 @@ vampir - вампир (упырь)
 vampirbalsenter - адский вампир  
 van: - лес  
 vanadium - ванадий  
-vase - oasis  
+vase - оазис  
 vate - статья (предмет)  
 vava bebe - плакса  
 vaxe - мыть  
@@ -1622,7 +1621,7 @@ vulve - вульва
 
 xaman - шаман  
 xampan - Шампань  
-xampan vin - champanhe  
+xampan vin - шампанское  
 xante - спокойный  
 xarke - акула  
 xarnir - шарнир  
@@ -1637,6 +1636,8 @@ xenon - ксенон
 xere - пила  
 xerofun - опилки  
 xerokan - лесопилка  
+xibai - проиграть (провалиться)  
+• dexibai - потерять (утратить)  
 xingofote - сверкать (мерцать)  
 • xipete - влажный  
 xixkababe - шиш-кебаб  
@@ -1694,7 +1695,7 @@ Zambia - Замбия
 zarkube - кость (кубик)  
 Zardux - Зороастр  
 zarduxiste - зороастризм  
-zay zaman su - actual  
+zay zaman su - нынешний  
 zebra - зебра  
 zeze - двукрылое  
 Zimbabve - Зимбабве  

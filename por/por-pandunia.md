@@ -1,4 +1,4 @@
-# –pandunia
+# português–pandunia
 
 ## A  
 
@@ -17,10 +17,9 @@ acordado - desome
 acordo (tratado, contrato) - trete  
 acordo (tratado, contrato) - kontrate  
 acordo - samrayia  
-actuel (courant) - zay zaman su  
 actínio - acinium  
 adesivo - glutograf  
-adjetivo - sifloge  
+adjetivo - sifolexe  
 administrador - politer  
 admirar - amire  
 adversário - xatan  
@@ -28,7 +27,7 @@ aeite (óleo) - nefte
 aeroporto - airoporte  
 aeróbico - airobike  
 Afeganistão - Afgania  
-afegão - afgani  
+afegão - afgan  
 afinar - atone  
 agacharse - inside  
 agente - ater  
@@ -279,7 +278,7 @@ cerâmica - poteria
 cerâmico - serame  
 cevada - jau  
 Champagne - xampan  
-champaña - xampan vin  
+champanhe - xampan vin  
 chance - canse  
 charme - carme  
 chavena (tigela de chá) - caikupe  
@@ -357,6 +356,7 @@ corno - korne
 coro - cantergrupe  
 corpo - bode  
 corredor - korer  
+corrente (atual) - zay zaman su  
 correr - kore  
 correto (justo) - sahe  
 cortina - janelovel  
@@ -1035,7 +1035,6 @@ o (a) - la
 ## O  
 
 o que - ke  
-oasis - vase  
 obituário - nekrologe  
 oblíquo (torto) - terce  
 obra - ature  
@@ -1074,6 +1073,7 @@ outro (alterar) - ale
 ovo - ove  
 ovoide - ovoide  
 oxigénio - oxe  
+oásis - vase  
 
 ## P  
 
@@ -1132,8 +1132,8 @@ pepino - hiyar
 pepino-africano (kiwano) - kornomelon  
 pepino-do-mar (holotúrias) - haihiyar  
 pequeno - lile  
-perdedor - sibayer  
-perder - sibaya tene  
+perdedor - xibayer  
+perder - dexibai  
 perdoar (desculpar) - mafe  
 perguntar (pergunta, questão) - sual  
 perigo - hatre  
@@ -1326,6 +1326,7 @@ rotação - rotation
 roupa (vestidura) - fuke  
 rubi - lalobavite  
 rubídio - rubidium  
+russo - ruse  
 rutherfórdio - ruterfordium  
 rutura (ruptura) - ruture  
 ruténio - rutenium  

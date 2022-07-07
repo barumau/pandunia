@@ -14,7 +14,7 @@ nav:
     - 'Présentation': 001_ration.md
     - 'Grammaire':
         - 100_baze_kanun.md
-        - 101_dunia_loga.md
+        - 101_dunia_lexe.md
         - 102_ABC.md
         - 104_viselexe.md
         - 105_namolexe.md
@@ -32,6 +32,6 @@ nav:
         - 'Etymologie': leksaslia.md
         - 'Recherche': tiddly.html
     - 'Appendix':
-        - 'Questions et réponses': 402_sual_e_javabu.md
+        - 'Questions et réponses': 402_sual_e_javabe.md
         - 'Traduire ce site': tarja_netoloke.md
 

@@ -12,7 +12,7 @@ fata_liste_pandunia_X() {
     #Delete empty translations
     sed -i '/-...$/d' $lexoliste
     #kitabe la name e la preloge
-    headername="$2/pandunia-$2.preloge.md"
+    headername="$2/pandunia-$2.preloge.txt"
     if test -f "$headername"; then
        echo "$headername exists"
        cat $headername $lexoliste > temp/temp.txt
@@ -66,8 +66,8 @@ fata_leksasli_liste() {
 
 fata_liste() {
     echo kitabe lexoliste de $2
-    fata_liste_pandunia_X $1 $2
-    fata_liste_X_pandunia $1 $2
+    fata_liste_pandunia_X $1 $2 $3
+    fata_liste_X_pandunia $1 $2 $3
     fata_leksasli_liste $1 $2
 }
 
@@ -258,11 +258,11 @@ tarja_logaslia_pa_esperanto() {
 sed 's/\t/|/g' -i pandunia-loge.csv
 
 # english e pandunia
-fata_liste 6 eng
+fata_liste 6 eng English
 tarja_logaslia_pa_english
 
 #Tiddly dictionary
-kitabe_Tiddly eng English
+kitabe_Tiddly eng
 
 # esperanto e pandunia
 fata_liste 21 epo esperanto
@@ -279,16 +279,16 @@ fata_liste 23 pol polski
 kitabe_Tiddly pol
 
 # putonghan e pandunia
-fata_liste 12 zho 'putong han'
+fata_liste 12 zho "putong han"
 
 # nipon e pandunia
 fata_liste 13 jpn nipon
 
 # malayu e pandunia
-fata_liste 19 may 'bahasa malayu'
+fata_liste 19 may "bahasa malayu"
 
 # rusi e pandunia
-fata_liste 10 rus
+fata_liste 10 rus русский
 
 # franse e pandunia
 fata_liste 7 fra français

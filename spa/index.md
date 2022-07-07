@@ -29,7 +29,7 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 
 ## ¿Cómo aprenderlo?
 
-- [Lecciones con diálogos](201_shula.md)
+- [Lecciones con diálogos](201_xule.md)
 - [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
 - [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_shula.html)
 - [Guía de conversación](200_baze_jumla.md)

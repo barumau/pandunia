@@ -1,4 +1,4 @@
-# pandunia–
+# pandunia–esperanto
 
 ## A  
 
@@ -20,7 +20,7 @@ adal - justa
 adalia - justeco  
 adamas - diamanto  
 adres - adreso  
-afgani - afgana  
+afgan - afgana  
 Afgania - Afganujo, Afganio  
 Afrike - Afriko  
 Afrikan - afrika  
@@ -1569,11 +1569,10 @@ sexe - sekso
 • homosexe - samseksema  
 si - esti  
 si ham - gravi  
-sibai - malsukceso  
 siborgium - seborgio  
 side - sidi  
 • presidente - prezidento  
-sifloge - adjektivo  
+sifolexe - adjektivo  
 sigar - cigaredo  
 siyahe - nigra  
 sikliste - biciklisto  
@@ -1631,7 +1630,7 @@ suane - acida
 suar - vespero  
 suarden - posttagmeze  
 suaryam - vespermanĝo  
-sube - mateno  
+suba - mateno  
 sude - sudo  
 Sudi Cosen - Sudkoreio  
 suge - rapida  
@@ -1812,6 +1811,7 @@ vulve - vulvo
 xake - branĉo  
 xal - koltuko  
 xaman - ŝamano  
+xampan vin - ĉampano  
 xanke - dubo  
 xante - trankvila (serena)  
 xarme - honto  
@@ -1825,6 +1825,7 @@ xeihal - situacio (aferstato)
 xenon - ksenono  
 xere - segilo  
 xerofun - segaĵo  
+xibai - malsukceso  
 xim - koro  
 xin - kredo  
 xine - kreda  

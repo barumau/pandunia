@@ -544,7 +544,7 @@
 **ide** *idea (concept, notion)* ← French:idée, deu:Idee, hat:Malay:ide, Persian:(ide), Portuguese:ideia, Russian:идея (ideya), Vietnamese:ý định  
 **idiote** *idiot (stupid, idiotic)* ← English:deu:French:Malay:idiot, Spanish:Portuguese:idiota, Russian:идиот (idiot)  
 **ifrite** *ifrit* ← Arabic:عِفْرِيت‎ (ʿifrīt), English:Spanish:Portuguese:French:Turkish:Malay:ifrit, deu:Ifrit, Russian:ифрит (ifrit), Japanese:イフリート (ifuriito)  
-**ike** *-ic (a person or thing with specific character)* ← English:-ic, French:-ique, Spanish:Portuguese:-ico, Hindi:-इक (-ika)  
+**ike** *a person or thing with specific character (-ic, -ian)* ← English:-ic, French:-ique, Spanish:Portuguese:-ico, Hindi:-इक (-ika)  
 **in** *in* ← English:in, French:Spanish:en, Portuguese:em + Mandarin:内 (nèi), Japanese:内 (nai), Korean:내 (nae), Vietnamese:nội, Thai:ใน (nai)  
 **intraje** *intestines (entrails, guts, bowels, viscera)* ← Hindi:आंत्र (åntra), Bengali:অন্ত্র (antra), pan:ਆਂਦਰਾਂ (āndarā̃) + French:entrailles, English:entrails, Spanish:entrañas, Portuguese:entranhas  
 **inxala** *hope (wish)* ← Arabic:إِنْ شَاءَ ٱللّٰه‎ (ʾin šāʾa llāh), Persian:ان‌شاءالله (enšâ'allâh), Turkish:inşallah, Malay:insya allah, Spanish:ojalá, Portuguese:oxalá, English:inshallah, Russian:иншаллах (inšallax), Bengali:ইনশাআল্লাহ্ (inśaallah), Mandarin:印沙安拉 (yìnshā'ānlā)  
@@ -877,7 +877,7 @@
 **melodia** *melody* ← English:melody, Spanish:melodía, Portuguese:melodia, Russian:мело́дия (melódija), Turkish:Malay:melodi, Persian:ملودی‎ (melodi), Japanese:メロディー (merodī)  
 **melon** *muskmelon* ← English:French:melon, Spanish:melón, Portuguese:melão, Japanese:メロン (meron), Korean:멜론 (mellon)  
 **meme** *memory (recollection)* ← English:memory, French:mémoire, Spanish:memoria, Portuguese:memória  
-**men** *"one (people, ""you"")"* ← English:men, deu:man + Mandarin:们 (men), Cantonese:們 (mun4) + (tumen) Hindi:तुम (tum), rom:tumen  
+**men** *one (people, you)* ← English:men, deu:man + Mandarin:们 (men), Cantonese:們 (mun4) + (tumen) Hindi:तुम (tum), rom:tumen  
 **mendelevium** *mendelevium* ← English:mendelevium, French:mendélévium, Spanish:mendelevio, Portuguese:mendelévio, Russian:менделевий, Mandarin:钔 (mén), Japanese:メンデレビウム, Korean:멘델레븀, Vietnamese:menđelevi, Hindi:मेण्डेलीवियम, Bengali:মেন্ডেলিভিয়াম, Malay:mendelevium, Swahili:mendelevi, Arabic: مندلفيوم  
 **mene** *mean (signify; meaning, signification)* ← English:mean, deu:Meinung + Arabic:(maʿnā), Hindi:मअनी (maani), Persian:Urdu:(ma'ni), Swahili:maana, haw:manaʻo  
 **meninge** *meninx (meninges)* ← English:meninx, Spanish:Portuguese:meninge, French:méninge  
@@ -1251,10 +1251,9 @@
 **sesam** *sesame* ← English:sesame, Russian:сезам (sezam), Spanish:sésamo, Arabic:(simsim), Swahili:simsim, Turkish:susam  
 **sexe** *sex (sexual relation; have sex)* ← English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)  
 **siane** *cyan* ← English:cyan, Spanish:cian, Russian:циан (tsian), Arabic:سيان (sayan), Hindi:क्यान (kyāna), Japanese:シアン (shian), Malay:sian  
-**sibai** *failure (loss, flop, miss, defeat)* ← Mandarin:失败 (shībài), Japanese:失敗 (shippai), Korean:실패 (šilpæ), Vietnamese:thất bại  
 **siborgium** *seaborgium* ← English:seaborgium, French:seaborgium, Spanish:seaborgio, Portuguese:seabórgio, Russian:сиборгий, Mandarin: (xǐ), Japanese:シーボーギウム, Korean:새보쥼, Vietnamese:seaborgi, Hindi:सीबोर्गियम, Bengali:সিওবোর্গিয়াম, Malay:seaborgium, Swahili:seaborgi, Arabic: سيبورجيوم  
 **side** *sit (put down)* ← Russian:сидеть (sidet'), English:sit, deu:sitzen, Italian:sedere  
-**sif** *attribute (charasteristic, quality, feature, description, property)* ← Hindi:गुण (guṇ), Bengali:গুণ (guṇ), Telugu:గుణము (guṇamu), Burmese:ဂုဏ် (gun), Malay:guna, Thai:คุณ (kun), Khmer:គុណ (kun)  
+**sife** *qualify (describe; quality, attribute, description)* ← Hindi:गुण (guṇ), Bengali:গুণ (guṇ), Telugu:గుణము (guṇamu), Burmese:ဂုဏ် (gun), Malay:guna, Thai:คุณ (kun), Khmer:គុណ (kun)  
 **sigar** *cigarette (cigar)* ← English:French:cigarette, Spanish:cigarillo, Portuguese:cigarro, Russian:сигарета (sigarteta), Arabic:(sījāra), Mandarin:雪茄 (xǔejiā), Wu-Chinese:雪茄 (xi'gá), Hindi:सिगरेट (sigreṭ), Bengali:সিগারেট (śigareṭ), Swahili:Turkish:sigara, Amharic:ሲጃራ (siǧara)  
 **sike** *elegant (chic)* ← English:French:Spanish:chic, Portuguese:chique, Russian:шикарный (shikarnyy), Turkish:şık, Persian:شیک‎  (šik), Japanese:シック (shikku)  
 **sikle** *bike (cycle)* ← English:bicycle, French:bicyclette, Turkish:bisiklet, Spanish:bicicleta, Filipino:bisikleta, Bengali:সাইকেল (saikel), Hindi:साइकिल (sāikil)  
@@ -1296,14 +1295,14 @@
 **strontium** *strontium* ← English:strontium, French:strontium, Spanish:strontium, Portuguese:estrôncio, Russian:стронций, Mandarin:锶 (sī), Japanese:ストロンチウム, Korean:스트논듐, Vietnamese:stronti, Hindi:स्ट्रोन्सियम, Bengali:স্ট্রনসিয়াম, Malay:strontium, Swahili:stronti, Arabic: سترانشيوم  
 **strute** *building* ← English:French:structure, Spanish:estructure, Portuguese:estrutura, Russian:структура (struktura), Malay:(infra)struktur, Japanese:(インフラ)ストラクチャ ((infura)sutorakucha), Korean:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *study (work in order to practise or demonstrate)* ← English:study, French:étudier, Spanish:estudiar, Portuguese:estudar + Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)  
-**su** *'s (attributive postposition)* ← English:'s, Spanish:su, Portuguese:seu,sua  
-**su-** *good (well)* ← scr:Hindi: सु- (su-), Bengali:সু- (śu-) + Latin:English:French:su-  
+**su** *attributive postposition (-'s)* ← English:'s, Spanish:su, Portuguese:seu,sua  
 **sual** *ask (inquire; question, query, inquiry)* ← Arabic: سؤال (su'āl), Hindi:सवाल (savāl), Malay:soal, Swahili:swali  
 **suane** *sour* ← Mandarin:酸 (suān), Cantonese:酸 (syun1), Wu-Chinese:酸 (soe1), Japanese:酸 (san), Korean:산 (san), Vietnamese:toan  
 **suar** *evening* ← French:soir, English:soiree, Russian:суаре (suare), Turkish:suare + Malay:sore  
-**sube** *morning (dawn)* ← Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba  
-**sube** *underside (underneath)* ← Bengali:নিচে (nice), Hindi:नीचे (nīce), Urdu:(nīce), Russian:ниже (niže)  
-**sude** *south* ← Spanish:sur, Portuguese:sul, French:sud  
+**suba** *morning (dawn)* ← Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba  
+**sube** *underside (underneath)* ← English:French:Spanish:Portuguese:Malay:sub-, Russian:суб- (sub-)  
+**sude** *south* ← English:south, Spanish:sur, Portuguese:sul, French:sud, deu:Süden, Russian:зюйд (zyuyd)  
+**sue** *good (well)* ← scr:Hindi: सु- (su-), Bengali:সু- (śu-) + Latin:English:French:su-  
 **suede** *sweat (perspiration)* ← English:sweat, Spanish:sudor, Portuguese:suor, French:sueur, Sanskrit:स्वेद (sveda)  
 **suge** *fast (quick, rapid, speedy)* ← Mandarin:速 (sù), Cantonese:速 (cuk4)), Japanese:速 (soku), Korean:속 (sok), Vietnamese:tốc  
 **sui** *water* ← Mandarin:水 (shuǐ), Japanese:水 (sui), Korean:수 (su), Vietnamese:thuỷ + Turkish:su  
@@ -1491,6 +1490,7 @@
 **xenon** *xenon* ← English:xenon, French:xénon, Spanish:xenón, Portuguese:xénon, Russian:ксенон, Mandarin:氙 (xiān), Japanese:キセノン, Korean:크세논, Vietnamese:xenon, Hindi:ज़ेनान, Bengali:জেনন, Malay:xenon, Swahili:zenoni, Arabic: إكسينون  
 **xenseng** *master (sensei)* ← Mandarin:先生 (xiānshēng), Cantonese:先生 (sin1saang1), Japanese:先生 (sensei), Korean:선생 (seonsaeng), Vietnamese:tiên sinh, Malay:sinse, Thai:ซินแส (sin-see), English:sensei  
 **xere** *saw* ← alb:sharrë + Spanish:sierra, Portuguese:serra + आरा (ārā) + Arabic: مِنْشَار‎ (minšār), Persian: منشار‎ (menšâr)  
+**xibai** *failure (loss, flop, miss, defeat)* ← Mandarin:失败 (shībài), Japanese:失敗 (shippai), Korean:실패 (šilpæ), Vietnamese:thất bại  
 **xim** *heart* ← Korean: 심 (shim), Mandarin:心 (xīn), Japanese:心 (shin), Cantonese:心 (sam1), Hakka-Chinese:心 (sîm), Vietnamese:tim  
 **xin** *belief (faith, creed)* ← Mandarin:信 (xìn), Cantonese:信 (seon3), Japanese:信 (shin), Vietnamese:tin  
 **xindavisme** *Shintoism* ← Japanese:神道 (shintō), Korean:신도 (sindo), Mandarin:神道 (shéndào)  

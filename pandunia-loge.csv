@@ -31,8 +31,8 @@ adal:|adal|||ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत
 adal:ia|adalia||||justice|justice|justicia|justiça|справедливость||正义||||न्याय|আদালত|keadilan||adalet|justeco|oikeus|sprawiedliwość
 adamas:|adamas|||rus:алмаз (almaz), ara: أَلْمَاس‎ (ʾalmās), hin:अलमास (almās), may:almas, swa:almasi, fas: الماس‎ (almâs) + gre:ἀδάμας (adámas), eng:diamond, fra:diamant, spa:por:diamante, jpn:ダイヤモンド (daiyamondo), kor:다이아몬드 (daiamondeu)|diamond|diamant|diamante|diamante|алмаз (бриллиант)|أَلْمَاس‎|钻石|金剛石 (ダイヤモンド)|다이아몬드|kim cương|हीरा (अलमास)|হীরা|intan (almas)|almasi|elmas|diamanto|timantti|diament
 adres:|adres|||eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço|address|adresse|dirección|endereço|адрес||地址||||पता||cerah (alamat)||adres|adreso|osoite|adres
-adres.harf:|adresoharfe||||@ symbol|arobase (@)|arroba (@)||||||||||||||@-merkki|małpa (znak na
-afgan:i|afgani||||Afghan|afghan|afgano|afegão|афганский||||||अफगानी|||||afgana|afgaani|afgański
+adres.harf:|adresoharfe||||at sign (@)|arobase (@)|arroba (@)||||||||||||||at-merkki (@, kissanhäntä)|małpa (znak na
+afgan:|afgan||||Afghan|afghan|afgano|afegão|афганский||||||अफगानी|||||afgana|afgaani|afgański
 afgan:ia|Afgania|gogia|AF||Afghanistan|Afghanistan|Afganistán|Afeganistão|Афганистан||阿富汗|アフガニスタン|아프가니스탄||अफ़्ग़ानिस्तान||Afghanistan||Afganistan|Afganujo, Afganio|Afganistan|Afganistan
 afr.ik:|Afrike|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|Africa|Afrique|África|||||||||||||Afriko|Afrikka|Afryka
 afrik.an:|Afrikan||||African|africain|africano|||||||||||||afrika|afrikkalainen|afrykański, Afrykanin
@@ -1515,7 +1515,7 @@ ide~graf:|ideograf||||ideogram||ideograma||||||||||||||ideogrammi|ideogram
 idiot:|idiote|||eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)|idiot (stupid, idiotic)||idiota (imbécil; estúpido, tonto)||||||||||||||typerys (idiootti, tyhmä, hölmö)|idiota (głupi)
 idiot:ia|• idiotia||||idiocy (stupidity)||estupidez (tontería)||||||||||||||tyhmyys (typeryys)|idiotyzm (głupota)
 ifrit:|ifrite|||ara:عِفْرِيت‎ (ʿifrīt), eng:spa:por:fra:tur:may:ifrit, deu:Ifrit, rus:ифрит (ifrit), jpn:イフリート (ifuriito)|ifrit|||||||||||||||||ifrit
-ik:i|ike|||eng:-ic, fra:-ique, spa:por:-ico, hin:-इक (-ika)|-ic (a person or thing with specific character)||||||的|的|||||||||-llinen (kantasanalle ominaispiirteinen)|-owy (-ny, okazujący cechę)
+ik:|ike|||eng:-ic, fra:-ique, spa:por:-ico, hin:-इक (-ika)|a person or thing with specific character (-ic, -ian)||||||的|的|||||||||-llinen (kantasanalle ominaispiirteinen)|-owy (-ny, okazujący cechę)
 imper:a|impere||||reign (rule as an emperor)||reinar (reinar como emperador)||||||||||||||hallita yksinvaltaisesti|władać, panować, rządzić jako imperator
 imper:ia|• imperia|||eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar|empire||imperio||||||||||||||keisarikunta|imperium
 imper.ism:|• imperisme||||imperialism||imperialismo||||||||||||||imperialismi|imperializm
@@ -2397,7 +2397,7 @@ mem~bin:|memobine||||monument (memorial)||monumento|||||追悼塔 (碑)|||||||||
 mem~not:|memonote||||memorandum (memo)||memorándum (nota)||меморандум||||||||||||muistio (muistiinmerkintä)|notatka, memo
 memb:|membe||||belong (be a member)||pertenecer (ser miembro de)||||||||||||||kuulua (olla jäsenenä)|należeć (być członkiem)
 memb.r:|• member|||eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)|member (component)||miembro (componente)|||||||||||||membro|jäsen (osatekijä, komponentti)|członek
-men|men|||eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen|"one (people, ""you"")"||||||||||||||||ihmiset (passiivin pronomini)|
+men|men|||eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen|one (people, you)|on|||||||||||||||ihmiset (passiivin pronomini)|
 men:|mene|||eng:mean, deu:Meinung + ara:(maʿnā), hin:मअनी (maani), fas:urd:(ma'ni), swa:maana, haw:manaʻo|mean (signify; meaning, signification)||significar (significado, acepción)||||意义|||||||||signifo|merkitä (tarkoittaa; merkitys)|znaczyć (znaczenie)
 mendeleu.ium:|mendelevium|kimium 101|Md|eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم|mendelevium|mendélévium|mendelevio|mendelévio|менделевий|مندلفيوم|钔|メンデレビウム|멘델레븀|menđelevi|मेण्डेलीवियम|মেন্ডেলিভিয়াম|mendelevium|mendelevi|mendelevyum||mendelevium|
 mening:|meninge|||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)|méninge|meninge|meninge|||脑脊膜||||||||||aivokalvo|opona mózgowa
@@ -3358,8 +3358,8 @@ rum:|rum|||eng:rum, spa:ron, hin:रम (ram), rus:ром (rom)|rum||ron||||||
 rundi:|Rundi|gogia|BI||Burundi||Burundi||||||||||||||Burundi|Burundi
 rup:|rupe|||hin:रूप (rūp), may: rupa, tha: รูป (rūp), khm:រូប (rūp)|appearance (looks; seem)||aspecto (parecer)|||||||||||||aspekto|ilmiasu (ulkonäkö; näyttää jltkn)|wygląd (wyglądać, wydawać się)
 rup<su:|• surupe||||good-looking (handsome)||||||||||||||||hyvännäköinen|
-rus:|ruse||||Russian||ruso||||||||||||||venäläinen|rosyjski
-rus:ia|Rusia|gogia|RU||Russia||Rusia||||||||||||||Venäjä|Rosja
+rus:|ruse||||Russian|russe|ruso|russo|русский||||||||||||venäläinen|rosyjski
+rus:ia|Rusia|gogia|RU||Russia|Russie|Rusia||Россия||||||||||||Venäjä|Rosja
 rus~ krep:|rusi krepe|yam|||blini|||||||||||||||rusa krepo|blini|rosyjski naleśnik (blin)
 rut:|rute|||eng:fra:rupture, spa:rotura, por:rutura + rus:банкрот (bankrot), may:bangkrut|burst (split, break, rupture)||||||破裂|破裂|||||||||rikki (rikkoutua, puhjeta, särkyä, haljeta)|
 rut.ur:|• ruture||||rupture (break)|rupture|rotura|rutura (ruptura)|разрыв||||||||||||särö (halkeama, rikkoutuma, puhkeama)|
@@ -3540,11 +3540,6 @@ sexel~nes:ia|Sexel nesia|gogia|SC||Seychelles||Seychelles||||||||||||||Seychelli
 si:|si|bine|identity copula||be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
 si~ ham:|si ham||||matter (be important)||importar|||||||||||||gravi|olla väliä (olla tärkeä)|znaczyć (liczyć się, być ważnym)
 sian:i|siane|||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан|||シアン|||||||||syaani|niebieskozielony (cyjan)
-sibai:|sibai|||zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|failure (loss, flop, miss, defeat)|échec|derrota (fracaso)||||失败 (击败)|失敗 (負け)||||||||malsukceso|epäonnistuminen|porażka (niepowodzenie, klapa, przegrana, strata, porażka)
-sibai:|sibai||||loss (failure, miss)|||||||||||||||||przegrana (strata, porażka)
-sibai:a|sibaye||||lose (fail, miss, be defeated)||perder (fallar)||проиграть (провалиться)||输|負ける|||असफल होना||gagal (kalah dalam)|kushindwa (kufeli)|başarısız olmak||hävitä (kärsiä tappio)|przegrać, przegrywać
-sibai:a ten:a|sibaya tene||||lose (shed, miss, misplace)|perder|perder|perder|потерять (утратить)||亏损 (失去)|失う (無くす, 落とす)||||||||||stracić (utracić, tracić, zgubuć, gubić)
-sibai.r:|sibayer||||loser|perdant|perdedor|perdedor|||||||||||||häviäjä|przegrany, pokonany
 sibir:ia|Sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
 siborg.ium:|siborgium|kimium 106|Sg|eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم|seaborgium|seaborgium|seaborgio|seabórgio|сиборгий|سيبورجيوم||シーボーギウム|새보쥼|seaborgi|सीबोर्गियम|সিওবোর্গিয়াম|seaborgium|seaborgi|siborgiyum|seborgio|seaborgium|seaborg
 sid:|side||||seat (saddle)||silla (montura)||сиденье (седло)||座部 (马鞍)|座席 (鞍)||||||||||siedzenie (siodło)
@@ -3553,10 +3548,9 @@ sid:u|sidu||||sit down||sentarse|||||座る||||||||||usiąść
 sid<in:a|• inside||||crouch (squat)|s’accroupir|agacharse|agacharse|сесть на корточки||蹲|しゃがむ (蹲る)||||||||||kucać (kucnąć)
 sid<pre.ent:|• presidente|||eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden|president||presidente|||||||||||||prezidento|presidentti|prezydent
 sid<pre.ent<uis:|• visopresidente||||vice-president||vicepresidente||||||||||||||varapresidentti|wiceprezydent
-sif:|sif|||hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)|attribute (charasteristic, quality, feature, description, property)||cualidad (atributo, descripción)||||||||||||||laatu (ominaisuus, ominaispiirre, määrite)|cecha, właściwość, parametr
-sif:a|sife||||qualify (describe)||definir||||||||||||||määritellä (luonnehtia)|opisać (zakwalifikować)
-sif:i|sife||||descriptive||descriptivo||||||||||||||kuvaileva (määrittelevä)|opisowy
-sif.log:|sifloge||||adjective|adjectif|adjetivo|adjetivo|прилагательное|صفة|形容词|形容詞|형용사|tính từ (hình dung từ)|बिशेषण|বিশেষণ|kata sifat|kuvumishi (sifa)|sifat|adjektivo|adjektiivi (laatusana)|przymiotnik
+sif:|sife|||hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)|qualify (describe; quality, attribute, description)||definir (cualidad, atributo, descripción)||||||||||||||määritellä (luonnehtia; laatu, ominaisuus, ominaispiirre, määrite)|opisać (zakwalifikować; cecha, właściwość, parametr)
+sif.iv:|• sifive||||descriptive||descriptivo||||||||||||||kuvaileva (määrittelevä)|opisowy
+sif~lex:|sifolexe||||adjective|adjectif|adjetivo|adjetivo|прилагательное|صفة|形容词|形容詞|형용사|tính từ (hình dung từ)|बिशेषण|বিশেষণ|kata sifat|kuvumishi (sifa)|sifat|adjektivo|adjektiivi (laatusana)|przymiotnik
 sigar:|sigar|||eng:fra:cigarette, spa:cigarillo, por:cigarro, rus:сигарета (sigarteta), ara:(sījāra), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá), hin:सिगरेट (sigreṭ), ben:সিগারেট (śigareṭ), swa:tur:sigara, amh:ሲጃራ (siǧara)|cigarette (cigar)|cigarette|cigarro (cigarillo)|cigarro|сигарета (папироса, сигарка)||香烟|タバコ|담배 (연초)|thuốc lá|सिगरेट|সিগারেট|rokok (sigaret)|sigara|sigara|cigaredo|savuke tai sikari|papieros (cygar)
 siiah:i|siyahe|rang||fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|black|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny
 sik:i|sike|||eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|elegant (chic)||elegante (chic)||||||||||||||elegantti|elegancki, szykowny
@@ -3641,7 +3635,7 @@ sol.sistem:|solosistem||||solar system||sistema solar||||太阳系|||||||||sunsi
 solomon: nes:ia|Solomon nesia|gogia|SB||Solomon Islands||Islas Salomón||||||||||||||Salomon-saaret|Wyspy Salomona
 som:|some|||fra:sommeil, por:sono, rus:сон (son), hin:सोना (sonā), ben:শোয়া (śoya) + ara: سِنَة (sina)|sleep|dormir (sommeil)|dormir (sueño)|dormir (sono)|спать|نَوْم‎|睡觉 (困觉)|寝る|자다||नींद (सोना)|শোয়া|tidur|kulala|uyumak|dormi|nukkua (nukkuminen, uni)|spać (sen)
 som.iv:|• somive||||drowsy|ensommeillé (somnolent)|soñoliento (somnífero)|sonolento|сонный|||||||||||dormema|unelias|
-som<de:|• desome||||awake (wake up)|éveillé|despierto (despertar)|acordado|acordado|||||||||jaga||uyanık|herääminen (herättää; olla hereillä)|obudzić (budzić; przebudzony, przytomny)
+som<de:|• desome||||awake (wake up)|éveillé|despierto (despertar)|acordado||||||||||||uyanık|herääminen (herättää; olla hereillä)|obudzić (budzić; przebudzony, przytomny)
 som<n:|• ansome||||insomnia|insomnie|insomnio|insônia|бессонница (инсомния)||失眠|不眠症|불면증|mất ngủ|अनिद्रा||||uykusuzluk|sendormeco|unettomuus|
 som~kamar:|somokamar||||bedroom|chambre à coucher|dormitorio|quarto (dormitório)|спальня||卧室 (寝室)|寝室|침실|phòng ngủ|शयनकक्ष||kamar tidur|chumba cha kulala|yatak odası|dormoĉambro|makuuhuone|sypialnia
 som~papil:|somopapil|biu|Papaver somniferum|eng:poppy, spa:amapola, por:papoula, swa:mpopi, ben:পপি (papi), jpn:ポピー (popī)|opium poppy|pavot somnifère|adormidera (amapola real)|papoila-dormideira|мак снотворный||鴉片罌粟|ケシ||||||mpopi||||mak lekarski
@@ -3681,8 +3675,8 @@ stud:ia|• studia||||studio (study room, atelier)|étude|estudio||кабине�
 stud.aj:|• studaje||||study (work made in order to practise or demonstrate)|étude|||этюд||||||||||||tutkielma|
 stud.ent:|• studente||||learner (student)|étudiant|estudiante (alumno)|estudante (aluno)|студент|طالب‎|学生|学生|학생|học sinh|छात्र (स्टूडेंट, तालिब)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|lernanto (studento)|oppilas (opiskelija)|
 stud.r:|• studer||||student|étudiant|estudiante|estudante|студент||||||विद्यार्थी (स्टूडेंट)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|studento|opiskelija|student
-su:|su|bine|adp. attributive|eng:'s, spa:su, por:seu,sua|'s (attributive postposition)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
-su:|su-|||scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-|good (well)|||||||||||||||||
+su:|su|bine|adp. attributive|eng:'s, spa:su, por:seu,sua|attributive postposition (-'s)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
+su:|sue|||scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-|good (well)|||||||||||||||||
 suahil:i|suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
 sual:|sual|||ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|ask (inquire; question, query, inquiry)|demander (question)|preguntar (inquirir; pregunta)|perguntar (pergunta, questão)|спрашивать (вопрос)|سؤال|问 (问题)|聞く (質問, 問題)|묻다 (질문하다; 질문, 문제)|hỏi (câu hỏi, vấn đề)|पूछना (सवाल, प्रश्न)|পুছা (প্রশ্ন)|tanya (pertanyaan, soal)|kuuliza (kusaili; swali, suala)|sormak (soru, sual)|demandi|kysyä (kysymys)|pytać (pytanie)
 sual.iv:|• sualive||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
@@ -3696,22 +3690,22 @@ suar:|suar|||fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
 suar.den:|suarden||||afternoon||tarde (después de mediodía)|||||||||||||posttagmeze|iltapäivä|popołudnie
 suar.iam|suaryam||||dinner||cena|||||夕食||||||||vespermanĝo|illallinen|kolacja
 suat:i|Suati|gogia|SZ||Eswatini (Swaziland)||Esuatini (Suazilandia)||||||||||||||Swazimaa|Suazi
-sub:|sube|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
-sub:|sube|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
+sub:|sube|||eng:fra:spa:por:may:sub-, rus:суб- (sub-)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
 sub.ik:|• subike||||lower (inferior)||inferior||||||||||||||ala-|poniższy
 sub~den:|suboden||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
 sub~iam:|subyam||||breakfast||desayuno|||||朝食|||||||||aamiainen|śniadanie
-sud:|sude|||spa:sur, por:sul, fra:sud|south||sur|||||||||||||sudo|etelä|południe
-sud:i|sude||||southern||sureño|||||||||||||||południowy
-sud:i amerik:|Sudi Amerike||||South America||Sudamérica||||||||||||||Etelä-Amerikka|Ameryka Południowa
-sud:i cosen:|Sudi Cosen|gogia|KR||South Korea (Republic of Korea)||Corea del Sur|||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
-sud:i georg:ia e sud:i sanduic:e nes:ia|Sudi Georgia e Sudi Sanduice nesia|gogia|GS||South Georgia and the South Sandwich Islands||Georgias del Sur y Sándwich del Sur|||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
-sud:i ir:ia (alon:ia)|Sudi Iria (Alonia)|gogia|||South Ossetia (Alania)||Osetia del Sur||||||||||||||Etelä-Ossetia|Osetia Południowa
-sud:i sudan:|Sudi Sudan|gogia|SS||South Sudan||Sudán del Sur||||||||||||||Etelä-Sudan|Sudan Południowy
-sud.afrik:|Sudafrike|gogia|ZA||South Africa||Sudáfrica||||||||||||||Etelä-Afrikka|Południowa Afryka
+suba:|suba|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
+sud:|sude|||eng:south, spa:sur, por:sul, fra:sud, deu:Süden, rus:зюйд (zyuyd)|south||sur|||||||||||||sudo|etelä|południe
+sud.ik:|• sudike||||southern||sureño||||||||||||||eteläinen|południowy
+sud~ amerik:|Sudi Amerike||||South America||Sudamérica||||||||||||||Etelä-Amerikka|Ameryka Południowa
+sud~ cosen:|Sudi Cosen|gogia|KR||South Korea (Republic of Korea)||Corea del Sur|||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
+sud~ georg:ia e sud~ sanduic:e nes:ia|Sudi Georgia e Sudi Sanduice nesia|gogia|GS||South Georgia and the South Sandwich Islands||Georgias del Sur y Sándwich del Sur|||||||||||||||Wyspy Georgia Południowa i Sandwich Południowy
+sud~ ir:ia (alon:ia)|Sudi Iria (Alonia)|gogia|||South Ossetia (Alania)||Osetia del Sur||||||||||||||Etelä-Ossetia|Osetia Południowa
+sud~ sudan:|Sudi Sudan|gogia|SS||South Sudan||Sudán del Sur||||||||||||||Etelä-Sudan|Sudan Południowy
+sud~afrik:|Sudafrike|gogia|ZA||South Africa||Sudáfrica||||||||||||||Etelä-Afrikka|Południowa Afryka
 sudan:|Sudan|gogia|SD||Sudan||Sudán||||||||||||||Sudan|Sudan
 sued:|suede|||eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)|sweat (perspiration)|sueur|sudor|suor|||||||||||||hiki|pot
-sued:i|suede||||sweaty||sudoroso (sudado)||||||||||||||hikinen|spocony
+sued.os:|• suedos||||sweaty||sudoroso (sudado)||||||||||||||hikinen|spocony
 suen:ia|Suenia|gogia|SE||Sweden||Suecia||||||||||||||Ruotsi|Szwecja
 sug:|suge|||zho:速 (sù), yue:速 (cuk4)), jpn:速 (soku), kor:속 (sok), vie:tốc|fast (quick, rapid, speedy)|vite (rapide)|rápido|rápido|быстрый||快|速い|빠르다|Mau (nhanh)|तेज़ (तीव्र)||cepat|haraka|hızlı|rapida|nopea (pikainen, vauhdikas)|szybki, prędki
 sug.metr.r:|sugometrer||||speedometer||velocímetro||||||||||||||nopeusmittari|prędkościomierz
@@ -4059,7 +4053,7 @@ varis:|varis|||may:waris, ara:(wariþ), swa:urithi, tur:varis, miras|heritage (l
 vark:|varke|||ara:(waraqa), hau:warƙa, tur:varak, fas:(varaqe), taj:варақа (varaqa), swa:waraka, + mya:အရွက် (arwak)|leaf (sheet)||hoja||||||||||||||lehti (arkki, levy)|kartka (dokument)
 vark.alg:|varkalge||||kelp|varech|kelp|kelp||||コンブ|||||kelp|||||listownicowiec
 vark.lat:|varkolate||||page (side of a leaf of a book)|page|página|página||||ページ (面)||||||||paĝo|sivu (kirjassa)|strona
-vas:|vase|||ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|oasis||oasis|oasis|oasis|oásis|оазис|||オアシス|오아시스 (천지)|||||oazo|keidas|oaza
+vas:|vase|||ara:(wāḥa), tur:vaha, fas:(vāhe), eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)|oasis|oasis|oasis|oásis|оазис||||オアシス|오아시스 (천지)||||||oazo|keidas|oaza
 vat:|vate|||hin:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu), mya:ဝတ္ထု (wathtu), khm:វត្ថុ (vŏəttho) + vie:vật, wuu:物 (veq5), zho:物 (wù), yue:物 (mat6), jpn:物 (butsu)|thing (object, item, matter)|objet (article)|objeto (artículo)|item|статья (предмет)||物体 (物品)|物 (品)|||||||||esine (tavara)|przedmiot (obiekt)
 vat2|vat|unomete|W||watt||vatio|||||||||||||vato|watti|wat
 vatikan:|Vatikan|gogia|VA||Holy See (Vatican City State)||Santa Sede (Estado de la Ciudad del Vaticano)||||||||||||||Vatikaanivaltio|Watykan, Państwo Watykańskie
@@ -4199,7 +4193,7 @@ xakal:|xakal|biu||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:ш
 xal:|xal|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)||bufanda (chal)|||||||||||||koltuko|huivi (šaali)|szal, szalik
 xaman:|xaman|||eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)|shaman||chamán (brujo, hechicero)||шаман|||シャーマン|||||dukun (pawang, shaman)|||ŝamano|šamaani|szaman
 xampan:|xampan|regia|||Champagne|Champagne|Champaña|Champagne|Шампань|||香槟|シャンパーニュ|||||||||Champagne
-xampan: uin:|xampan vin|alkohol|||champagne|Champagner|champagne|champaña|champanhe|шампанское|||||||||||ĉampano|samppanja
+xampan: uin:|xampan vin|alkohol|||champagne|champagne|champaña|champanhe|шампанское|||||||||||ĉampano|samppanja|
 xanghai:|Xanghai|site|||Shanghai||||||上海|||||||||||Szanghaj
 xank:|xanke|||hin:शंका (śankā) + ara: شَكَّ‎ (šakka), swa:shaka|doubt (suspect)||duda|||||||||||shaka (kushuku)|şüphe (şek)|dubo|epäilys|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
 xank.abl:|• xankable||||dubious (suspicious)|douteux (dubitatif)|dudoso|dúbio (duvidoso)|||||||||||||epäilyttävä|wątpliwy (niewiarygodny, podejrzany)
@@ -4228,6 +4222,11 @@ xenseng:|xenseng|||zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生
 xer:|xere|||alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)|saw|scie|sierra|serra|пила|مِنْشَار|锯子|のこぎり|톱|cưa|आरा|করাত|gergaji|msumeno|testere|segilo|saha|piła
 xer.fun:|xerofun||||sawdust|sciure|serrín|serragem|опилки||锯末|木屑||mùn cưa||||||segaĵo|sahanpuru (sahajauho)|
 xer.kan:|xerokan||||sawmill|scierie|aserradero|serraría|лесопилка||||||||||||sahalaitos|tartak
+xibai:|xibai|||zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|failure (loss, flop, miss, defeat)|échec|derrota (fracaso)||||失败 (击败)|失敗 (負け)||||||||malsukceso|epäonnistuminen|porażka (niepowodzenie, klapa, przegrana, strata, porażka)
+xibai:|xibai||||loss (failure, miss)|||||||||||||||||przegrana (strata, porażka)
+xibai:|xibai||||lose (fail, miss, be defeated)||perder (fallar)||проиграть (провалиться)||输|負ける|||असफल होना||gagal (kalah dalam)|kushindwa (kufeli)|başarısız olmak||hävitä (kärsiä tappio)|przegrać, przegrywać
+xibai.r:|xibayer||||loser|perdant|perdedor|perdedor|||||||||||||häviäjä|przegrany, pokonany
+xibai<de:|• dexibai||||lose (shed, miss, misplace)|perder|perder|perder|потерять (утратить)||亏损 (失去)|失う (無くす, 落とす)||||||||||stracić (utracić, tracić, zgubuć, gubić)
 xim:|xim|||kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim|heart||corazón||||心|心||||||||koro|sydän|serce
 xin:|xin|||zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin|belief (faith, creed)||creencia (fe)|||||||||||||kredo|usko (luottamus)|wiara, wierzenie, kredo
 xin:a|xine||||believe||creer|||||||||||||kreda|uskoa (luottaa)|wierzyć
@@ -4358,7 +4357,7 @@ zay.if:|• zayife||||summon (add, spawn)||generar (añadir)|||||||||||||||wzywa
 zay<a:|• azay||||appear||aparecer|||||||||||||||pojawić się
 zay<de:|• dezay||||remove (delete, dispose, erase)||quitar (eliminar, borrar)||||||||||||||poistaa (hävittää)|usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)
 zay~zaman:|zay zaman||||present time (now)||presente|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
-zay~zaman:su:|zay zaman su||||current (contemporary, present-day)||actual|actuel (courant)|actual|corrente (atual)|нынешний||现在的|現行|현행의|||||nuna|nykyinen (tämänhetkinen)|bieżący (aktualny, obecny)
+zay~zaman:su:|zay zaman su||||current (contemporary, present-day)|actuel (courant)|actual|corrente (atual)|нынешний||现在的|現行|현행의|||||||nuna|nykyinen (tämänhetkinen)|bieżący (aktualny, obecny)
 zayer:ia|Zayeria|gogia|DZ||Algeria|Algérie|Argelia|||الجزائر‎ (الدزاير‎)|||||||||||Algeria|Algieria
 zebra:|zebra|biu|Hippotigris|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|zebra|zèbre|cebra|zebra|зебра||斑马||||ज़ीब्रा||zebra||zebra|zebro|seepra|zebra
 zel.os:|• zelose|||eng:jealous, spa:celoso, fra:jaloux|jealous||celoso (envidioso)||||||||||||||kade (kateellinen)|zazdrosny
@@ -4370,7 +4369,7 @@ zikur:|zikure|||ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|zi
 zimbabu:|Zimbabve|gogia|ZW||Zimbabwe||Zimbabue||Зимбабве||||||||||||Zimbabwe|Zimbabwe
 zin:|zine|||ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|adultery (infidelity)||adulterio|||||||||||||malfideleco|haureus (uskottomuus)|zdrada małżeńska, cudzołóstwo
 zink:|zinke|kimium 030|Zn|eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki|zinc|zinc|cinc|zinco|цинк|خارصين|锌|亜鉛|아연|kẽm|जस्ता|জিঙ্ক|seng|zinki (bati)|çinko|zinko|sinkki|cynk
-zip:a|zipe|||eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|zip up||cerrar con cremallera||||||||||||||sulkea vetoketjulla|zamknąć zamkiem błyskawicznym
+zip:|zipe|||eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|zip up||cerrar con cremallera||||||||||||||sulkea vetoketjulla|zamknąć zamkiem błyskawicznym
 zip.r:|• ziper||||zipper||cremallera||||||||||||||vetoketju|zamek błyskawiczny
 zira:|zira|biu|Cuminum cyminum|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera|cumin (jeera)||comino||тмин||孜然|クミン|커민||ज़ीरा|জিরা||mjira|kimyon|kumino|juustokumina (jeera)|kumin (kmin)
 zirkon:|zirkon||||zircon||circón||циркон|||||||||||||

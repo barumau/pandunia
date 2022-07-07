@@ -26,9 +26,9 @@
 - [フレーズ集](200_baze_jumla.md)
 - [つづり](102_ABC.md) と [文法](100_baze_kanun.md)
 
-- [検索可能な辞書](tiddly.html)
-<!-- - [日本語→パンドゥニア](nipon-pandunia.md) 辞書 -->
-- [パンドゥニア→日本語](pandunia-nipon.md) 辞書
+<!--- [検索可能な辞書](tiddly.html) -->
+<!-- - [日本語→パンドゥニア](jpn-pandunia.md) 辞書 -->
+- [パンドゥニア→日本語](pandunia-jpn.md) 辞書
 <!-- - [単語の語源一覧](leksaslia.md) ([ISO 639-2コード一覧](https://ja.wikipedia.org/wiki/ISO_639-2コード一覧)) -->
 
 
@@ -46,8 +46,8 @@
 - [Discordのチャンネル](https://discord.gg/FWavWeG)
 - QQ channel: 717549404
 - [Twitter](https://twitter.com/pandunia_) の公式アカウントもフォロー出来ます。
-  言葉を広める! <!-- The official Twitter account is not functioning. -->
-- このサイトの翻訳を[手伝ってください。](tarja_netoloke.md)
+  言葉を広める!
+<!-- - このサイトの翻訳を[手伝ってください。](tarja_netoloke.md) -->
 
 パンドゥニアの制作者である Risto Kupsala にはEメール
 [risto@pandunia.info](mailto:risto@pandunia.info) または前述のフォーラムで

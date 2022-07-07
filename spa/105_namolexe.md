@@ -1,6 +1,6 @@
-## Sustantivos
+# Sustantivos
 
-### Solo una forma
+## Solo una forma
 
 Un sustantivo es una palabra que llama una cosa.
 Como todas las palabras en Pandunia, sustantivos no cambian su forma nunca.
@@ -19,7 +19,7 @@ El número y la definitud frecuentamente se conocen porque se mencionaron previa
 Por ejemplo, normalmente la palabra **sol** refiere a _el sol_ y **luna** refiere a _la luna_, nuestro único sol y luna.
 
 
-### Indicación de número
+## Indicación de número
 
 Sustantivos de Pandunia tiene la misma forma
 en singular (cuando hay uno)
@@ -48,7 +48,7 @@ Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 – libros y libros, una gran variedad de libros
 
 
-### Nombres propios
+## Nombres propios
 
 Nombres propios son sustantivos para personal, lugares, y otras cosas individuales.
 
@@ -75,7 +75,7 @@ Un título de respeto se puede usar con el nombre de pila, el apellido, o los do
 – Sr. García Marquez
 
 
-### Palabras compuestas
+## Palabras compuestas
 
 Dos o más sustantivos pueden reunirse para hacer una palabra compuesta.
 La última palabra es la palabra más significativa,

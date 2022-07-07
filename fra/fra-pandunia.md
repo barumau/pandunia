@@ -1,4 +1,4 @@
-# –pandunia
+# français–pandunia
 a (dans, en, chez) - a  
 
 ## A  
@@ -23,13 +23,14 @@ acte - ate
 actif (activer, allumer, mettre en marche) - ative  
 actinium - acinium  
 action - ation  
+actuel (courant) - zay zaman su  
 adapter (ajuster) - hape  
-adjectif - sifloge  
+adjectif - sifolexe  
 administrateur - politer  
 adresse - adres  
 adulte - matur  
 adversaire (antagoniste, ennemi) - xatan  
-afghan - afgani  
+afghan - afgan  
 Afghanistan - Afgania  
 africain - Afrikan  
 Afrique - Afrike  
@@ -347,7 +348,7 @@ cerise - cerize
 chachlik - sismanse  
 chambre à coucher - somokamar  
 Champagne - xampan  
-Champagner - xampan vin  
+champagne - xampan vin  
 champignon - fungopal  
 chance - canse  
 changement climatique - klimomute  
@@ -1149,6 +1150,7 @@ néphologie - nepolojia
 
 ## O  
 
+oasis - vase  
 objet (article) - vate  
 oblique (de travers) - terce  
 obscur (sombre, foncé) - dam  
@@ -1168,6 +1170,7 @@ oie - ganse
 oignon - piaze  
 oiseau - pakse  
 ombrelle (parasol) - solocate  
+on - men  
 oncille - bagroselote  
 onde - onde  
 opter - ote  
@@ -1262,8 +1265,8 @@ peinture - pente
 pelle - belce  
 pendentif - pendaje  
 pender - pende  
-perdant - sibayer  
-perder - sibaya tene  
+perdant - xibayer  
+perder - dexibai  
 pere (papa) - pe  
 perfectionner (parfaire) - purbone  
 perle - jenju  
@@ -1478,6 +1481,8 @@ rubis - lalobavite
 ruche (nid d'abeille) - vesponide  
 rupture - ruture  
 ruse - truke  
+russe - ruse  
+Russie - Rusia  
 rutherfordium - ruterfordium  
 ruthénium - rutenium  
 réaction - reation  
@@ -1834,7 +1839,7 @@ zoulou - Zulu
 zèbre - zebra  
 Égypte - Misria  
 âge - sene  
-échec - sibai  
+échec - xibai  
 école (collège) - xulkan  
 école primaire - bazoxulkan  
 école secondaire - zungoxulkan  

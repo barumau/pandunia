@@ -1,4 +1,4 @@
-# pandunia–
+# pandunia–español
 
 ## A  
 
@@ -28,7 +28,7 @@ adalia - justicia
 adamas - diamante  
 adres - dirección  
 adresoharfe - arroba (@)  
-afgani - afgano  
+afgan - afgano  
 Afgania - Afganistán  
 Afrike - África  
 Afrikan - africano  
@@ -3021,10 +3021,6 @@ Sexel nesia - Seychelles
 si - ser (estar)  
 si ham - importar  
 siane - cian  
-sibai - derrota (fracaso)  
-sibaye - perder (fallar)  
-sibaya tene - perder  
-sibayer - perdedor  
 Sibiria - Siberia  
 siborgium - seaborgio  
 side - silla (montura)  
@@ -3033,10 +3029,9 @@ sidu - sentarse
 • inside - agacharse  
 • presidente - presidente  
 • visopresidente - vicepresidente  
-sif - cualidad (atributo, descripción)  
-sife - definir  
-sife - descriptivo  
-sifloge - adjetivo  
+sife - definir (cualidad, atributo, descripción)  
+• sifive - descriptivo  
+sifolexe - adjetivo  
 sigar - cigarro (cigarillo)  
 siyahe - negro  
 sike - elegante (chic)  
@@ -3161,12 +3156,12 @@ suarden - tarde (después de mediodía)
 suaryam - cena  
 Suati - Esuatini (Suazilandia)  
 sube - parte inferior  
-sube - mañana  
 • subike - inferior  
 suboden - mañana (antes mediodía)  
 subyam - desayuno  
+suba - mañana  
 sude - sur  
-sude - sureño  
+• sudike - sureño  
 Sudi Amerike - Sudamérica  
 Sudi Cosen - Corea del Sur  
 Sudi Georgia e Sudi Sanduice nesia - Georgias del Sur y Sándwich del Sur  
@@ -3175,7 +3170,7 @@ Sudi Sudan - Sudán del Sur
 Sudafrike - Sudáfrica  
 Sudan - Sudán  
 suede - sudor  
-suede - sudoroso (sudado)  
+• suedos - sudoroso (sudado)  
 Suenia - Suecia  
 suge - rápido  
 sugometrer - velocímetro  
@@ -3581,7 +3576,7 @@ xakal - chacal
 xal - bufanda (chal)  
 xaman - chamán (brujo, hechicero)  
 xampan - Champaña  
-xampan vin - champagne  
+xampan vin - champaña  
 xanke - duda  
 • xankable - dudoso  
 xante - tranquilo (calmado)  
@@ -3608,6 +3603,10 @@ xenseng - maestro (profesor)
 xere - sierra  
 xerofun - serrín  
 xerokan - aserradero  
+xibai - derrota (fracaso)  
+xibai - perder (fallar)  
+xibayer - perdedor  
+• dexibai - perder  
 xim - corazón  
 xin - creencia (fe)  
 xine - creer  

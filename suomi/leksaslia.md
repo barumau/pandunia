@@ -1251,10 +1251,9 @@
 **sesam** *seesami* ← englanti:sesame, venäjä:сезам (sezam), espanja:sésamo, arabia:(simsim), suahili:simsim, turkki:susam  
 **sexe** *seksi (sukupuolisuhde)* ← englanti:sex, ranska:sexe, espanja:portugali:sexo, venäjä:секс (seks), turkki:seks, hindi:सेक्स (seks), japani:セックス (sekkusu), korea:섹스 (sekseu)  
 **siane** *syaani* ← englanti:cyan, espanja:cian, venäjä:циан (tsian), arabia:سيان (sayan), hindi:क्यान (kyāna), japani:シアン (shian), malaiji:sian  
-**sibai** *epäonnistuminen* ← yleiskiina:失败 (shībài), japani:失敗 (shippai), korea:실패 (šilpæ), vietnami:thất bại  
 **siborgium** *seaborgium* ← englanti:seaborgium, ranska:seaborgium, espanja:seaborgio, portugali:seabórgio, venäjä:сиборгий, yleiskiina: (xǐ), japani:シーボーギウム, korea:새보쥼, vietnami:seaborgi, hindi:सीबोर्गियम, bangla:সিওবোর্গিয়াম, malaiji:seaborgium, suahili:seaborgi, arabia: سيبورجيوم  
 **side** *istua* ← venäjä:сидеть (sidet'), englanti:sit, deu:sitzen, italia:sedere  
-**sif** *laatu (ominaisuus, ominaispiirre, määrite)* ← hindi:गुण (guṇ), bangla:গুণ (guṇ), telugu:గుణము (guṇamu), burma:ဂုဏ် (gun), malaiji:guna, thai:คุณ (kun), khmer:គុណ (kun)  
+**sife** *määritellä (luonnehtia; laatu, ominaisuus, ominaispiirre, määrite)* ← hindi:गुण (guṇ), bangla:গুণ (guṇ), telugu:గుణము (guṇamu), burma:ဂုဏ် (gun), malaiji:guna, thai:คุณ (kun), khmer:គុណ (kun)  
 **sigar** *savuke tai sikari* ← englanti:ranska:cigarette, espanja:cigarillo, portugali:cigarro, venäjä:сигарета (sigarteta), arabia:(sījāra), yleiskiina:雪茄 (xǔejiā), wu-kiina:雪茄 (xi'gá), hindi:सिगरेट (sigreṭ), bangla:সিগারেট (śigareṭ), suahili:turkki:sigara, amhara:ሲጃራ (siǧara)  
 **sike** *elegantti* ← englanti:ranska:espanja:chic, portugali:chique, venäjä:шикарный (shikarnyy), turkki:şık, persia:شیک‎  (šik), japani:シック (shikku)  
 **sikle** *pyörä (polkupyörä, moottoripyörä)* ← englanti:bicycle, ranska:bicyclette, turkki:bisiklet, espanja:bicicleta, filippiini:bisikleta, bangla:সাইকেল (saikel), hindi:साइकिल (sāikil)  
@@ -1297,13 +1296,13 @@
 **strute** *rakennus* ← englanti:ranska:structure, espanja:estructure, portugali:estrutura, venäjä:структура (struktura), malaiji:(infra)struktur, japani:(インフラ)ストラクチャ ((infura)sutorakucha), korea:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *opiskella (tutkia; tutkielma)* ← englanti:study, ranska:étudier, espanja:estudiar, portugali:estudar + venäjä:студент (student), hindi:स्टूडेंट (sṭūḍeṇṭ)  
 **su** *-n (oma)* ← englanti:'s, espanja:su, portugali:seu,sua  
-**su-** ** ← scr:hindi: सु- (su-), bangla:সু- (śu-) + latina:englanti:ranska:su-  
 **sual** *kysyä (kysymys)* ← arabia: سؤال (su'āl), hindi:सवाल (savāl), malaiji:soal, suahili:swali  
 **suane** *hapan (kirpeä)* ← yleiskiina:酸 (suān), kantoninkiina:酸 (syun1), wu-kiina:酸 (soe1), japani:酸 (san), korea:산 (san), vietnami:toan  
 **suar** *ilta* ← ranska:soir, englanti:soiree, venäjä:суаре (suare), turkki:suare + malaiji:sore  
-**sube** *aamu* ← arabia:(ṣabāḥ), turkki:sabah, persia:(sobh), urdu:(subah), hindi:सुबह (subah), suahili:asubuhi, hausa:asuba  
-**sube** *alapuoli* ← bangla:নিচে (nice), hindi:नीचे (nīce), urdu:(nīce), venäjä:ниже (niže)  
-**sude** *etelä* ← espanja:sur, portugali:sul, ranska:sud  
+**suba** *aamu* ← arabia:(ṣabāḥ), turkki:sabah, persia:(sobh), urdu:(subah), hindi:सुबह (subah), suahili:asubuhi, hausa:asuba  
+**sube** *alapuoli* ← englanti:ranska:espanja:portugali:malaiji:sub-, venäjä:суб- (sub-)  
+**sude** *etelä* ← englanti:south, espanja:sur, portugali:sul, ranska:sud, deu:Süden, venäjä:зюйд (zyuyd)  
+**sue** ** ← scr:hindi: सु- (su-), bangla:সু- (śu-) + latina:englanti:ranska:su-  
 **suede** *hiki* ← englanti:sweat, espanja:sudor, portugali:suor, ranska:sueur, sanskriitti:स्वेद (sveda)  
 **suge** *nopea (pikainen, vauhdikas)* ← yleiskiina:速 (sù), kantoninkiina:速 (cuk4)), japani:速 (soku), korea:속 (sok), vietnami:tốc  
 **sui** *vesi* ← yleiskiina:水 (shuǐ), japani:水 (sui), korea:수 (su), vietnami:thuỷ + turkki:su  
@@ -1491,6 +1490,7 @@
 **xenon** *ksenon* ← englanti:xenon, ranska:xénon, espanja:xenón, portugali:xénon, venäjä:ксенон, yleiskiina:氙 (xiān), japani:キセノン, korea:크세논, vietnami:xenon, hindi:ज़ेनान, bangla:জেনন, malaiji:xenon, suahili:zenoni, arabia: إكسينون  
 **xenseng** ** ← yleiskiina:先生 (xiānshēng), kantoninkiina:先生 (sin1saang1), japani:先生 (sensei), korea:선생 (seonsaeng), vietnami:tiên sinh, malaiji:sinse, thai:ซินแส (sin-see), englanti:sensei  
 **xere** *saha* ← alb:sharrë + espanja:sierra, portugali:serra + आरा (ārā) + arabia: مِنْشَار‎ (minšār), persia: منشار‎ (menšâr)  
+**xibai** *epäonnistuminen* ← yleiskiina:失败 (shībài), japani:失敗 (shippai), korea:실패 (šilpæ), vietnami:thất bại  
 **xim** *sydän* ← korea: 심 (shim), yleiskiina:心 (xīn), japani:心 (shin), kantoninkiina:心 (sam1), hakkakiina:心 (sîm), vietnami:tim  
 **xin** *usko (luottamus)* ← yleiskiina:信 (xìn), kantoninkiina:信 (seon3), japani:信 (shin), vietnami:tin  
 **xindavisme** *sintolaisuus* ← japani:神道 (shintō), korea:신도 (sindo), yleiskiina:神道 (shéndào)  

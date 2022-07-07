@@ -1251,10 +1251,9 @@
 **sesam** *sezam* ← eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam  
 **sexe** *seks, stosunek płciowy* ← eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)  
 **siane** *niebieskozielony (cyjan)* ← eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian  
-**sibai** *porażka (niepowodzenie, klapa, przegrana, strata, porażka)* ← zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại  
 **siborgium** *seaborg* ← eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم  
 **side** *siedzieć* ← rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere  
-**sif** *cecha, właściwość, parametr* ← hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)  
+**sife** *opisać (zakwalifikować; cecha, właściwość, parametr)* ← hin:गुण (guṇ), ben:গুণ (guṇ), tel:గుణము (guṇamu), mya:ဂုဏ် (gun), may:guna, tha:คุณ (kun), khm:គុណ (kun)  
 **sigar** *papieros (cygar)* ← eng:fra:cigarette, spa:cigarillo, por:cigarro, rus:сигарета (sigarteta), ara:(sījāra), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá), hin:सिगरेट (sigreṭ), ben:সিগারেট (śigareṭ), swa:tur:sigara, amh:ሲጃራ (siǧara)  
 **sike** *elegancki, szykowny* ← eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)  
 **sikle** *rower* ← eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)  
@@ -1297,13 +1296,13 @@
 **strute** ** ← eng:fra:structure, spa:estructure, por:estrutura, rus:структура (struktura), may:(infra)struktur, jpn:(インフラ)ストラクチャ ((infura)sutorakucha), kor:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** ** ← eng:study, fra:étudier, spa:estudiar, por:estudar + rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)  
 **su** *mieć (partykuła posiadania)* ← eng:'s, spa:su, por:seu,sua  
-**su-** ** ← scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-  
 **sual** *pytać (pytanie)* ← ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali  
 **suane** *kwaśny* ← zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan  
 **suar** *wieczór* ← fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore  
-**sube** *ranek, rano, poranek* ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
-**sube** *spód* ← ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)  
-**sude** *południe* ← spa:sur, por:sul, fra:sud  
+**suba** *ranek, rano, poranek* ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
+**sube** *spód* ← eng:fra:spa:por:may:sub-, rus:суб- (sub-)  
+**sude** *południe* ← eng:south, spa:sur, por:sul, fra:sud, deu:Süden, rus:зюйд (zyuyd)  
+**sue** ** ← scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-  
 **suede** *pot* ← eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)  
 **suge** *szybki, prędki* ← zho:速 (sù), yue:速 (cuk4)), jpn:速 (soku), kor:속 (sok), vie:tốc  
 **sui** *woda* ← zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su  
@@ -1491,6 +1490,7 @@
 **xenon** *ksenon* ← eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون  
 **xenseng** *mistrz (sensei)* ← zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生 (sensei), kor:선생 (seonsaeng), vie:tiên sinh, may:sinse, tha:ซินแส (sin-see), eng:sensei  
 **xere** *piła* ← alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)  
+**xibai** *porażka (niepowodzenie, klapa, przegrana, strata, porażka)* ← zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại  
 **xim** *serce* ← kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim  
 **xin** *wiara, wierzenie, kredo* ← zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin  
 **xindavisme** *shintoizm, sintoizm* ← jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)  

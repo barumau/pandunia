@@ -1,12 +1,9 @@
-# –pandunia
-"one (people, ""you"")" - men  
-'s (attributive postposition) - su  
--ic (a person or thing with specific character) - ike  
-@ symbol - adresoharfe  
+# English–pandunia
 
 ## A  
 
 a couple of - du o tri  
+a person or thing with specific character (-ic, -ian) - ike  
 abattoir (slaughterhouse) - bucokan  
 abessive case - abesive  
 Abkhazia - Apsua  
@@ -37,7 +34,7 @@ addition (extra) - maxaje
 address - adres  
 adessive case - aesive  
 adhesive bandage (band-aid, sticking plaster) - glutobende  
-adjective - sifloge  
+adjective - sifolexe  
 adjective - ajetive  
 adjust (make exact) - ajuste  
 administer (govern) - polite  
@@ -59,7 +56,7 @@ advice (recommend) - sele
 advisor (counselor, mentor) - menter  
 aerobic - airobike  
 affix - afixe  
-Afghan - afgani  
+Afghan - afgan  
 Afghanistan - Afgania  
 Africa - Afrike  
 African - Afrikan  
@@ -243,6 +240,7 @@ astrobiology - kosmobiolojia
 astronaut - astronaver  
 astronomer - astronomer  
 astronomy - astronomia  
+at sign (@) - adresoharfe  
 atheist - andeviste  
 Athens - Athina  
 athlete (sportsman) - sporter  
@@ -255,7 +253,7 @@ atom - atom
 attack (assault, aggression, hostility) - agrese  
 attract - atrate  
 attractive - atrative  
-attribute (charasteristic, quality, feature, description, property) - sif  
+attributive postposition (-'s) - su  
 augment (increase, rise; boom, peak, apex, zenith, heyday) - auge  
 August - lun bati  
 auspicious (promising) - bonsinye  
@@ -1066,7 +1064,7 @@ dentist - dantomediker
 departure - departure  
 depress (push away) - deprese  
 depth - fasotelia  
-descriptive - sife  
+descriptive - sifive  
 desert - sablostan  
 designate (mark out) - desinye  
 desk - karmeze  
@@ -1388,7 +1386,7 @@ face powder - mukofun
 factory (plant) - feteria  
 factory - fetokan  
 fade - mirdu  
-failure (loss, flop, miss, defeat) - sibai  
+failure (loss, flop, miss, defeat) - xibai  
 faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirde  
 Falkland Islands (Malvinas) - Malvinas nesia  
 fall down (drop down) - pade  
@@ -1657,7 +1655,7 @@ gold - aure
 golem - golem  
 gone (away) - kite  
 goniometer - gonmetrer  
-good (well) - su-  
+good (well) - sue  
 good - bon  
 Good day - salam den  
 Good evening - salam suar  
@@ -2272,10 +2270,10 @@ look (see; view, vision) - vide
 loom - texomaxin  
 loose (laxe; loosen, let loose, let go) - laxe  
 lord (owner) - malike  
-lose (fail, miss, be defeated) - sibaye  
-lose (shed, miss, misplace) - sibaya tene  
-loser - sibayer  
-loss (failure, miss) - sibai  
+lose (fail, miss, be defeated) - xibai  
+lose (shed, miss, misplace) - dexibai  
+loser - xibayer  
+loss (failure, miss) - xibai  
 lot (plot of land) - geotike  
 love (liking, affection; dear, beloved) - ame  
 lover - amer  
@@ -2539,7 +2537,7 @@ mooncake - lunokeke
 moonlet (lunula) - lunule  
 morality (ethics; moral) - deke  
 more - max  
-morning (dawn) - sube  
+morning (dawn) - suba  
 Morocco - Magribia  
 morph - morfe  
 morpheme - morfem  
@@ -2763,6 +2761,7 @@ ominous (foreboding) - dusosinye
 once - unomaro  
 oncilla - bagroselote  
 one (1) - un  
+one (people, you) - men  
 one (someone) - yo  
 onion - piaze  
 online - a line  
@@ -3215,7 +3214,7 @@ put in (impose) - inpoze
 pyramid - piram  
 pyrolatry - hogopuzia  
 Qatar - Katar  
-qualify (describe) - sife  
+qualify (describe; quality, attribute, description) - sife  
 quark (paneer) - panir  
 quartz - kuarze  
 queen - femi reger  
@@ -3722,7 +3721,7 @@ South Georgia and the South Sandwich Islands - Sudi Georgia e Sudi Sanduice nesi
 South Korea (Republic of Korea) - Sudi Cosen  
 South Ossetia (Alania) - Sudi Iria (Alonia)  
 South Sudan - Sudi Sudan  
-southern - sude  
+southern - sudike  
 soy bean - soi  
 soy milk - soimilke  
 soy sauce - soisaus  
@@ -3858,7 +3857,7 @@ Swahili - suahili
 swallow - gule  
 swastika (hooked cross) - hukokrus  
 sweat (perspiration) - suede  
-sweaty - suede  
+sweaty - suedos  
 Sweden - Suenia  
 sweet orange - sukarorange  
 sweet potato - kamote  
