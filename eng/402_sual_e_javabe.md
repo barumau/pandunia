@@ -198,7 +198,7 @@ and Pandunia (a constructed helping language).
 | Changing word order e.g. in questions                   |    | One fixed word order              |
 
 
-#### Should Pandunia replace English?
+#### Should Pandunia replace English then?
 
 Pandunia is not meant to replace English or any other languages.
 People have ability to speak several languages and they speak every
@@ -220,8 +220,45 @@ spoken in the future.
 You are free to speak Pandunia, English and any other language that
 your heart desires.
 
-
 ## Spelling and pronunciation
+
+#### Is the spelling of Pandunia normal?
+
+Pandunia assigns letters to sounds in an almost universal way.
+Most letters correspond to roughly the same in Pandunia and in other languages
+that use the Latin alphabet in their spelling or as their standard method of Romanization.
+For example, 19 letters correspond to the same sounds in Pandunia and English
+and only five are used differently.
+In addition, two English letters (*w* and *q*) are not used in Pandunia.
+
+The pronunciation of Pandunia letters is compared to their pronunciation in other languages in the table below.
+
+- Letters that correspond to approximately similar sounds in Pandunia and the compared language are listed in the column "Similar".
+  For example the English *g* is considered similar to the Pandunia *g*
+  though in English there is the 'soft g' (as in _gel_) besides the more common 'hard g' (as in _get_).
+- Letters that correspond usually to different sounds in Pandunia
+  and in the compared language are listed in the column "Different".
+- Pandunia letters that are not used in the compared language are listed in the column "Not used".
+
+| Language         | Similar                                         | Different   | Not used|
+|:-----------------|-------------------------------------------------|-------------|---------|
+| Pandunia         | a b c d e f g h i j k l m n o p r s t u v x y z |             |         |
+| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v   y z |             | x       |
+| Malay            | a b c d e f g h i j k l m n o p r s t u     y z |             | v x     |
+| Hausa            | a b c d e f g h i j k l m n o p r s t u     y z |             | v x     |
+| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u   x y   | e z         | v       |
+| Swahili          | a b   d e f g h i j k l m n o p r s t u v   y z |             | c x     |
+| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u     y z | f r         | v c x   |
+| Portuguese       | a b   d e f g   i   k l m n o p r s t u v x   z | c h j       | y       |
+| English          |   b   d   f g h i j k l m n o p r s t   v   y z | a c e u x   |         |
+| French           | a b   d e f g   i   k l m n o p   s t u v   y z | c h j r x   |         |
+| Spanish          | a b   d e f g   i   k l m n o p r s t u v   y   | c h j x z   |         |
+| German           | a b   d e f g h i   k l m n o p r s t u v       | c j x y z   |         |
+| Vietnamese       | a b     e   g h i   k l m n o p r   t u v   y   | c d s x     | f j z   |
+
+In summary, most letters correspond to the same sounds in Pandunia as in other languages,
+and most differences are about letters *c*, *j*, *x*, *y* and *z*.
+Special attention needs to be given to *c* and *x*.
 
 #### Why is the letter X pronounced like SH?
 
@@ -281,6 +318,39 @@ So the letter *c* is free to be reassigned to some useful sound.
 
 ## Vocabulary
 
+#### Why Pandunia doesn't take words from all languages?
+
+About 6000-7000 languages are spoken in the world today.
+The figure below shows cumulative distribution of the number of speakers of the 50 most spoken native languages.
+The figure shows that:
+
+- 25 percent of all people speak the top-3 languages
+- 50 percent of all people speak the top-13 languages
+- 75 percent of all people speak the top-50 languages
+
+The remaining languages – remember, there are over 6000 of them! – are outside the picture.
+The curve, which is steep at the beginning, turns virtually into a flat line when it approaches the last language,
+which is spoken only by a handful of people.
+
+The figure indicates that _beyond a certain point_
+including one more language to the mix wouldn't make the interlanguage significantly more international.
+For example, if the top-50 languages were already included,
+adding the 51st language wouldn't make much of a difference,
+because it would increase the coverage from 75.07% to 75.43%.
+
+One can also question the practical implications of including 51 languages versus 50.
+The increase in population coverage would be marginal, only 0.36%,
+and it would not help the remaining 24.24% of the world who speak other, smaller languages!
+
+![](http://www.pandunia.info/grafe/kumule.png)  
+Figure. Percentage of world population by language by number of native speakers.
+
+The vocabulary of Pandunia is based on the most spoken languages.
+They cover all continents and all major modern cultures of the world.
+They also have a lot of _international words_ in common with less spoken languages.
+That's why Pandunia-like words can be found also in smaller languages.
+
+
 #### Why the last vowel of words is sometimes different in Pandunia than in language X?
 
 The main reason is that Pandunia borrows words from many languages,
@@ -307,4 +377,35 @@ means well-being in general and you can use it as a general
 expression for well-wishing in all kinds of situations, not just when
 you meet somebody. See the first lesson in the [phrasebook](200_baze_jumla.md)
 for a lot of examples!
+
+## Grammar
+
+#### How Pandunia compares to pidgins and creoles?
+
+Pidgins and creoles are _natural_ contact languages.
+Pandunia is a _constructed_ contact language.
+So the answer is no, Pandunia is not a real pidgin or a creole.
+However, it is characterized by many of the same features as pidgins and creoles.
+
+The following is a list of characteristic features of pidgins and creoles
+that apply for Pandunia too.
+
+1. Lack of grammatical complexity
+   - No definite or indefinite article
+   - Omission of the copula 'be'
+   - Tense, aspect, modality and negation are not part of the verb.
+   - Passive structures are not used.
+2. Lack of morphological complexity
+   - Nouns and pronouns are not inflected
+   - Verbs are not inflected and tense is marked by separate words
+3. Semantic transparency
+   - Meaning of a word can be determined from the meanings of the parts of which the word is built.
+4. Reduced vocabulary
+   - Multifunctional words
+   - All-purpose prepositions
+5. Simple phonology
+   - Avoid difficult sounds.
+   - Use mostly simple syllable structures.
+   - Prefer short words.
+   - Tone is not used to distinguish words.
 

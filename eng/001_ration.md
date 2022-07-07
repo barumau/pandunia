@@ -65,121 +65,32 @@ Areal linguistic characteristics, such as [Standard Average European](https://en
 are not suitable guidelines for the world language.
 Instead, the grammar should be built from things that are universally known and/or universally considered easy.
 
+Words are selected to Pandunia mostly from 20 main source languages.
+They represent a good mix of regions and cultures.
+The table below shows the number of countries by continent where the 20 source languages have an official status.
 
-### Can all languages really be included?
-
-About 6000-7000 languages are spoken in the world today.
-The figure below shows cumulative distribution of the number of speakers of the 50 most spoken native languages.
-The figure shows that:
-
-- 25 percent of all people speak the top-3 languages
-- 50 percent of all people speak the top-13 languages
-- 75 percent of all people speak the top-50 languages
-
-The remaining languages – remember, there are over 6000 of them! – are outside the picture.
-The curve, which is steep at the beginning, turns virtually into a flat line when it approaches the last language,
-which is spoken only by a handful of people.
-
-The figure indicates that _beyond a certain point_
-including one more language to the mix wouldn't make the interlanguage significantly more international.
-For example, if the top-50 languages were already included,
-adding the 51st language wouldn't make much of a difference,
-because it would increase the coverage from 75.07% to 75.43%.
-
-One can also question the practical implications of including 51 languages versus 50.
-The increase in coverage would be marginal, only 0.36%,
-and it would not help the remaining 24.24% of the world who speak other, smaller languages!
-
-![](http://www.pandunia.info/grafe/kumule.png)  
-Figure. Percentage of world population by language by number of native speakers.
-
-The vocabulary of Pandunia is based on the most spoken languages.
-They cover all continents and all major modern cultures of the world.
-They also have a lot of _international words_ in common with less spoken languages.
-That's why Pandunia-like words can be found also in smaller languages.
-
-
-## Cultures of the world
-
-Hartmut Traunmuller divided the world into four major cultural spheres in his article
-[A Universal Interlanguage: Some Basic Considerations](http://www.ling.su.se/staff/hartmut/UIL.pdf).
-The languages within a certain cultural sphere share words (loan words and translated loan words) and cultural concepts.
-
-1. The Western (or the European) cultural sphere
-    - This sphere covers all of Europe, Americas, Australia and various smaller regions.
-    - Languages of the West have been influenced greatly by Greek and Latin and in modern times by French and English.
-2. The Afro-Asian (or the Islamic) cultural sphere
-    - This group includes languages of areas where Islam is the main religion.
-    - It spans from the Atlantic coast of Africa to the islands in the Pacific of Indonesia and the Philippines.
-    - The languages of this cultural sphere are influenced by Persian and especially Arabic, which is the language of Quran, the holy book of Islam.
-3. The South Asian (or the Indian) cultural sphere
-    - This sphere covers the very populous subcontinent of India, Indochina and more
-    - The classical language of this group are Sanskrit, Tamil and Pāli
-    - The Indian vocabulary has been spread by Hinduism and especially Buddhism in all directions in Asia and elsewhere.
-4. The East Asian (or the Chinese) cultural sphere
-    - This culturel sphere grew around ancient China, the Middle Kingdom
-    - All languages of East Asia are saturated by loan words from Chinese.
-    - The biggest modern Chinese language, Mandarin, competes for the title of the most spoken language in the world today.
-
-The cultural spheres are roughly outlined in the picture below.
-
-![](http://www.pandunia.info/grafe/linguisticspheres.gif "Map of cultural spheres")
-
-
-## Languages of the world and world languages
-
-It is estimated that over 6000 different languages are spoken in the world.
-Some languages are spoken by many while others are spoken by only a few.
-Native and non-native speakers of the five most widely spoken languages together
-add up to more than half of the total population of the world.
-It is impossible to include all languages into the construction of a world language because of their great number.
-The number of source languages should be manageable for one person to work with.
-
-So, which languages should be taken in?
-
-[Power Language Index](http://www.kailchan.ca/wp-content/uploads/2016/12/Kai-Chan_Power-Language-Index-full-report_2016_v2.pdf)
-(PLI) provides an answer to this question.
-It is a tool for comparing efficacy of languages that has been created by Ph.D. Kai L. Chan.
-It compares languages on how well they provide to a speaker the following five opportunities:
-
-1. Geography: The ability to travel
-2. Economy: The ability to participate in economic activities
-3. Communication: The ability to participate in dialogue
-4. Knowledge and media: The ability to consume knowledge and media
-5. Diplomacy: The ability to engage in international relations
-
-Chan builds a ranking of languages based on a combination of the above-listed opportunities.
-This ranking is used as a reference in Pandunia.
-
-### The main source languages for Pandunia
-
-Most Pandunia words are borrowed from the following 14 widely spoken languages.
-The languages are selected so that they represent different language families,
-different geographical regions and different cultures.
-
-The following table is ordered by the rank in the Power Language Index.
-The numbers of speakers are from the Power Language Index and the Wikipedia.
-
-| Language         | Native speakers | Non-native speakers | PLI ranking | Cultural sphere |
-|:-----------------|----------------:|--------------------:|:--:|:--------------------|
-| English          |     446 million |  510 million        |  1 | Western             |
-| Mandarin Chinese |     960 million |  178 million        |  2 | East Asian          |
-| French           |      80 million |  192 million        |  3 | Western             |
-| Spanish          |     470 million |   70 million        |  4 | Western             |
-| Arabic           |     295 million |  132 million        |  5 | Afro-Asian          |
-| Russian          |     150 million |  115 million        |  6 | Western             |
-| Hindi-Urdu       |     442 million |  214 million        |  8 | Indian & Afro-Asian |
-| Japanese         |     125 million |    1 million        |  9 | East Asian          |
-| Portuguese       |     215 million |   32 million        | 10 | Western             |
-| Malay            |      77 million |  204 million        | 14 | Indian & Afro-Asian |
-| Korean           |      80 million |    1 million        | 16 | East Asian          |
-| Bengali          |     210 million |   19 million        | 30 | Indian & Afro-Asian |
-| Swahili          |      20 million |   80 million        | 37 | Afro-Asian          |
-
-The numbers make it clear that Mandarin Chinese is by far the largest language by number of native speakers,
-while English is the language with the greatest number of second language speakers.
-Both of them are spoken by over one billion speakers in total.
-However they are followed by languages, whose speakers are also counted in hundreds of millions.
+| Language   | America  | Europe   | Africa   | Asia     | Oceania  |
+|------------|----------|----------|----------|----------|----------|
+| English    |    14    |    3     |   23     |    5     |    14    |
+| French     |     2    |    5     |   21     |          |     1    |
+| Spanish    |    18    |    1     |    1     |          |          |
+| Portuguese |     1    |    1     |    6     |    1     |          |
+| Russian    |          |    2     |          |    3     |          |
+| German     |          |    6     |          |          |          |
+| Arabic     |          |          |   11     |   12     |          |
+| Swahili    |          |          |    5     |          |          |
+| Hausa      |          |          |    2     |          |          |
+| Turkish    |          |    1     |          |    1     |          |
+| Persian    |          |          |          |    3     |          |
+| Hindi-Urdu |          |          |          |    2     |          |
+| Bengali    |          |          |          |    2     |          |
+| Tamil      |          |          |          |    3     |          |
+| Malay      |          |          |          |    4     |          |
+| Mandarin   |          |          |          |    3     |          |
+| Cantonese  |          |          |          |   (1)    |          |
+| Japanese   |          |          |          |    1     |          |
+| Korean     |          |          |          |    2     |          |
+| Vietnamese |          |          |          |    1     |          |
 
 
 ## Spelling and pronunciation
@@ -244,44 +155,6 @@ Sounds that are present in English or Mandarin but not in Pandunia are inside pa
 | Fricatives | f h         | f h (v th th) | f h             |
 | Affricates | c j         | ch j          | c j (ch zh q)   |
 
-
-### Almost universal letter-to-sound correspondence
-
-Pandunia's assigns letters to sounds in an almost universal way.
-Most letters correspond to roughly the same in Pandunia and in other languages
-that use the Latin alphabet in their spelling or as their standard method of Romanization.
-For example, 19 letters correspond to the same sounds in Pandunia and English
-and only five are used differently.
-In addition, two English letters (*w* and *q*) are not used in Pandunia.
-
-The pronunciation of Pandunia letters is compared to their pronunciation in other languages in the table below.
-
-- Letters that correspond to approximately similar sounds in Pandunia and the compared language are listed in the column "Similar".
-  For example the English *g* is considered similar to the Pandunia *g*
-  though in English there is the 'soft g' (as in _gel_) besides the more common 'hard g' (as in _get_).
-- Letters that correspond usually to different sounds in Pandunia
-  and in the compared language are listed in the column "Different".
-- Pandunia letters that are not used in the compared language are listed in the column "Not used".
-
-| Language         | Similar                                         | Different   | Not used|
-|:-----------------|-------------------------------------------------|-------------|---------|
-| Pandunia         | a b c d e f g h i j k l m n o p r s t u v x y z |             |         |
-| Indian Romaniz.  | a b c d e f g h i j k l m n o p r s t u v   y z |             | x       |
-| Malay            | a b c d e f g h i j k l m n o p r s t u     y z |             | v x     |
-| Hausa            | a b c d e f g h i j k l m n o p r s t u     y z |             | v x     |
-| Chinese Pinyin   | a b c d   f g h i j k l m n o p r s t u   x y   | e z         | v       |
-| Swahili          | a b   d e f g h i j k l m n o p r s t u v   y z |             | c x     |
-| Japanese Romaji  | a b   d e   g h i j k l m n o p   s t u     y z | f r         | v c x   |
-| Portuguese       | a b   d e f g   i   k l m n o p r s t u v x   z | c h j       | y       |
-| English          |   b   d   f g h i j k l m n o p r s t   v   y z | a c e u x   |         |
-| French           | a b   d e f g   i   k l m n o p   s t u v   y z | c h j r x   |         |
-| Spanish          | a b   d e f g   i   k l m n o p r s t u v   y   | c h j x z   |         |
-| German           | a b   d e f g h i   k l m n o p r s t u v       | c j x y z   |         |
-| Vietnamese       | a b     e   g h i   k l m n o p r   t u v   y   | c d s x     | f j z   |
-
-In summary, most letters correspond to the same sounds in Pandunia as in other languages,
-and most differences are about letters *c*, *j*, *x*, *y* and *z*.
-Special attention needs to be given to *c* and *x*.
 
 
 ### Easy syllable structure
@@ -378,7 +251,7 @@ The widely spoken languages can be categorized into four types according to thes
 2. Analytic fusional languages – Words are made of few, fused parts.
     - English
 3. Agglutinative languages – Words are made of many, distinct parts.
-    - Japanese, Malay-Indonesian, Telugu
+    - Japanese, Malay, Tamil, Swahili
 4. Synthetic fusional languages – Words are made of many, fused parts.
     - Spanish, Portuguese, French
     - German, Russian
@@ -477,35 +350,76 @@ adjective before the noun,
 relative clause after the noun
 and prepositions.
 
+## World words
 
-#### How Pandunia compares to pidgins and creoles?
+Pandunia's words are international words
+that are already known by millions or even billions of people in one or many continents.
 
-Pidgins and creoles are _natural_ contact languages.
-Pandunia is a _constructed_ contact language.
-So the answer is no, Pandunia is not a real pidgin or a creole.
-However, it is characterized by many of the same features as pidgins and creoles.
+However, all words can't be very international.
+The most frequent and at the same time the most basic words,
+like _me_, _you_, _one_, _two_, _be_ and _do_,
+are typically the oldest words in languages.
+They tend to be different from language to language except in closely related languages.
 
-The following is a list of characteristic features of pidgins and creoles
-that apply for Pandunia too.
+Therefore it's almost impossible to find international words,
+that are in common to unrelated languages in Africa, the Americas, Asia and Europe,
+for the most basic ideas.
+Still, we have tried.
 
-1. Lack of grammatical complexity
-   - No definite or indefinite article
-   - Omission of the copula 'be'
-   - Tense, aspect, modality and negation are not part of the verb.
-   - Passive structures are not used.
-2. Lack of morphological complexity
-   - Nouns and pronouns are not inflected
-   - Verbs are not inflected and tense is marked by separate words
-3. Semantic transparency
-   - Meaning of a word can be determined from the meanings of the parts of which the word is built.
-4. Reduced vocabulary
-   - Multifunctional words
-   - All-purpose prepositions
-5. Simple phonology
-   - Avoid difficult sounds.
-   - Use mostly simple syllable structures.
-   - Prefer short words.
-   - Tone is not used to distinguish words.
+The personal pronouns are among the most frequently occuring words.
+
+The first-person pronoun often begins with *m-* even in unrelated languages,
+for example English _me_, French _moi_, Spanish _me_, Hindi _main_, Finnish _minä_, Igbo _mụ_, Kongo _mu_, Swahili _mimi_, and Zulu _mina_.
+In Pandunia it is **mi** (_I_, _me_).
+
+The second-person pronoun
+**tu**
+comes from the Indo-European family of languages,
+including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
+In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
+
+The third-person pronoun in Pandunia is **ya**.
+It is inspired by many languages, including
+Malay _ia_, Hindi यह (yah), Swahili _yeye_ and Nigerian Igbo _ya_.
+It has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
+So it covers the English third-person pronouns _he_, _she_ and _it_, all at once.
+
+The plural and possessive pronouns follow the super simple patterns of Standard Chinese.
+
+Add **men** to form the plural:
+
+| English    | Pandunia   | Chinese    |
+|------------|------------|------------|
+| I          | mi         | wǒ         |
+| you        | tu         | nǐ         |
+| he or she  | ya         | tā         |
+| we         | mimon      | wǒmen      |
+| you all    | tumon      | nǐmen      |
+| they       | yamon      | tāmen      |
+
+Add **su** to form the possessive:
+
+| English    | Pandunia   | Chinese    |
+|------------|------------|------------|
+| my         | mi su      | wǒ de      |
+| your       | tu su      | nǐ de      |
+| his/her    | ya su      | tā de      |
+| our        | mimon su   | wǒmen de   |
+| your       | tumon su   | nǐmen de   |
+| their      | yamon su   | tāmen de   |
+
+By a fortunate coincidence, the second person plural pronoun is identical to Romani (Gypsy) *tumen*
+and not far from Hindi-Urdu *tum*.
+
+The personal pronouns in Pandunia attain three important goals.
+
+1. The basic pronouns
+   (**mi**, **tu**, **ye**)
+   look and sound distinct.
+2. The plural and possessive pronouns are built in a systematic way.
+   They are not only a bunch of random words.
+3. The words are international
+   and come from many different language families.
 
 
 ## Easy sentences

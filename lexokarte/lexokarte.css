@@ -1,8 +1,3 @@
-p {
-    background-color: white;
-    padding: 2px;
-}
-
 /* kontener intene image i kitabe */
 .kontener {
   position: relative;
@@ -121,3 +116,32 @@ p {
   top: 220px;
   border: 1px solid yellow;
 }
+
+.tur {
+  position: absolute;
+  left: 525px;
+  top: 140px;
+  border: 1px solid violet;
+}
+
+.tam {
+  position: absolute;
+  left: 670px;
+  top: 240px;
+  border: 1px solid yellow;
+}
+
+.deu {
+  position: absolute;
+  left: 465px;
+  top: 95px;
+  border: 1px solid yellow;
+}
+
+.fas {
+  position: absolute;
+  left: 590px;
+  top: 160px;
+  border: 1px solid yellow;
+}
+
