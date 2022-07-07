@@ -46,6 +46,8 @@ html_karte = '''
 
 html_tail = '''
 </div>
+
+<p><a href="index.html">🡨</a></p>
 </body>
 </html>
 '''

@@ -299,7 +299,7 @@
 **duman** *savu* ← hindi:धूआँ (dhuã), turkki:duman, venäjä:дым (dym), kannada:(dhūma), bangla:ধোঁয়া (dhõẇa)  
 **duna** *dyyni (kinos)* ← englanti:ranska:dune, espanja:portugali:duna, venäjä:дюна (diuna) + vietnami:đụn, korea:둔(덕) (dun(deok))  
 **dungia aventur** *luolaseikkailu* ← englanti:dungeon, ranska:donjon, japani:ダンジョン (danjon)  
-**dunia** *maailma* ← arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), bangla:দুনিয়া (duniya), malaiji:suahili:dunia, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya  
+**dunia** *maailma* ← arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), bangla:দুনিয়া (duniya), malaiji:suahili:dunia, turkki:dünya, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya  
 **dur** *kestää (kulua, viedä aikaa; kestoaika, kesto, aika)* ← englanti:duration, ranska:durée, espanja:portugali:durar + bangla:ধরে (dhôre), hindi:दौरान (daurān)  
 **dus** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
 **duse** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  

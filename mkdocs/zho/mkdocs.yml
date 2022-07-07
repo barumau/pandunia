@@ -1,0 +1,13 @@
+site_name: 泛世界语
+site_url: http://www.pandunia.info/zho
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../zho
+site_dir: ../../html/zho
+theme: cerulean
+nav:
+    - Home: 'index.md'
+    - '字母表': abc.md
+    - '短语集': fraze.md
+    - '词典': pandunia-zho.md
+    - '语源': leksaslia.md
+

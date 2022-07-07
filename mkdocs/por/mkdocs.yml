@@ -1,0 +1,14 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/por
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../por
+site_dir: ../../html/por
+theme: readthedocs
+nav:
+    - Inicio: 'index.md'
+    - 'Ortografía': abc.md
+    - 'Dicionarios':
+        - 'Pandunia-Português': pandunia-por.md
+        - 'Português-Pandunia': por-pandunia.md
+        - 'Dicionario etimologico': leksaslia.md
+

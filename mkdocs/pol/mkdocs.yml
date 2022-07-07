@@ -1,0 +1,31 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/pol
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../pol
+site_dir: ../../html/pol
+theme:
+  name: readthedocs
+  language: pl
+nav:
+    - Główna: 'index.md'
+    - 'Info':
+        - 'Wprowadzenie': 001_dunia_basha.md
+        - 'Założenia': 002_filsofi.md
+    - 'Gramatyka':
+        - 100_baze_kanun.md
+        - 'Dźwięki i litery': 102_ABC.md
+        - 104_viseloga.md
+        - 105_namloga.md
+        - 106_nomer.md
+        - 107_modeloga.md
+        - 109_jumla_bina.md
+        - 110_loga_bina.md
+    - 'Nauka':
+        - 'Rozmówki': 200_baze_jumla.md
+        - 'Kurs': 201_shula.md
+    - 'Słownik':
+        - 'Pandunia-polski': pandunia-pol.md
+        - 'Polski-pandunia': pol-pandunia.md
+        - 'Etymologia': leksaslia.md
+        - 'Wyszukaj': tiddly.html
+

@@ -335,7 +335,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**duge**|zho:读 (dú), yue:讀 (duk6), vie:đọc, zha:dog, jpn:(doku-)|
 |**duke**|hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha|
 |**duman**|hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)|
-|**dunia**|ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), ben:দুনিয়া (duniya), may:swa:dunia, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|
+|**dunia**|ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), ben:দুনিয়া (duniya), may:swa:dunia, tur:dünya, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya|
 |**duna**|eng:fra:dune, spa:por:duna, rus:дюна (diuna) + vie:đụn, kor:둔(덕) (dun(deok))|
 |**dungia aventur**|eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|
 |**dur**|eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)|

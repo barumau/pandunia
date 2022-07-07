@@ -1,4 +1,4 @@
-# suomi–pandunia
+# –pandunia
 -llinen (kantasanalle ominaispiirteinen) - ike  
 -n (oma) - su  
 

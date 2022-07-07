@@ -17,10 +17,10 @@ fa_pan_md() {
     cd ..
 }
 
-fa_pan_md english
-fa_pandoc english
-fa_pan_md espanya
-fa_pandoc espanya
+fa_pan_md eng
+fa_pandoc eng
+fa_pan_md spa
+fa_pandoc spa
 
 # uze la pake:
 #sudo apt install pandoc

@@ -1,0 +1,18 @@
+site_name: パンドゥニア
+site_url: http://www.pandunia.info/jpn
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../jpn
+site_dir: ../../html/jpn
+theme:
+  name: cerulean
+  language: ja
+nav:
+    - 'ホームページ': 'index.md'
+    - '基本': baze.md
+    - 'つづり': 102_ABC.md
+    - '文法': 100_baze_kanun.md
+    - 'フレーズ集': 200_baze_jumla.md
+    - '対話形式のレッスン': 201_shula.md
+    - '辞典': pandunia-jpn.md
+    - 'よくある質問': 402_sual_e_javabu.md
+

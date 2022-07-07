@@ -1,0 +1,37 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/fra
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../fra
+site_dir: ../../html/fra
+theme: material
+extra_css:
+  - stile.css
+plugins:
+    - search:
+        lang: fr
+nav:
+    - Accueil: 'index.md'
+    - 'Présentation': 001_ration.md
+    - 'Grammaire':
+        - 100_baze_kanun.md
+        - 101_dunia_loga.md
+        - 102_ABC.md
+        - 104_viselexe.md
+        - 105_namolexe.md
+        - 106_nume.md
+        - 107_modolexe.md
+        - 108_karmaloga.md
+        - 109_jumlobine.md
+        - 110_lexobine.md
+    - 'Leçons':
+        - 'Phrases courantes': 200_baze_jumla.md
+        - 'Leçons': 201_xule.md
+    - 'Vocabulaire':
+        - 'Pandunia → français': pandunia-fra.md
+        - 'Français → pandunia': fra-pandunia.md
+        - 'Etymologie': leksaslia.md
+        - 'Recherche': tiddly.html
+    - 'Appendix':
+        - 'Questions et réponses': 402_sual_e_javabu.md
+        - 'Traduire ce site': tarja_netoloke.md
+

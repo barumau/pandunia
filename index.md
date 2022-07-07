@@ -1,29 +1,29 @@
 
-![](http://www.pandunia.info/bandir/bandir.png "bandir da pandunia")
+![](http://www.pandunia.info/bandir/bandir.png "banir de pandunia")
 
 #pandunia - dunia lingue
 
 #### [pandunia](pandunia/index.md)
 
-#### [cini – 中文](putonghan/index.md)
+#### [putong han – 中文](zho/index.md)
 
-#### [engli – English](english/index.md)
+#### [englix – English](eng/index.md)
 
-#### [espani – español](espanya/index.md)
+#### [espan – español](spa/index.md)
 
-#### [esperanti – esperanto](esperanto/index.md)
+#### [esperante – esperanto](epo/index.md)
 
-#### [fransi – français](france/index.md)
+#### [franse – français](fra/index.md)
 
-#### [malayi – bahasa Melayu](malayu/index.md)
+#### [malayu – bahasa Melayu](may/index.md)
 
-#### [niponi – 日本語](nipon/index.md)
+#### [nipon – 日本語](jpn/index.md)
 
-#### [polski – polski](polski/index.md)
+#### [polske – polski](pol/index.md)
 
-#### [portugali – português](portugal/index.md)
+#### [portugal – português](por/index.md)
 
-#### [rusi – русский](rus/index.md)
+#### [rus – русский](rus/index.md)
 
 #### [suomi – suomi](suomi/index.md)
 

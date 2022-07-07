@@ -1,0 +1,38 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/eng
+repo_url: https://github.com/barumau/pandunia/
+site_author: Risto Kupsala
+docs_dir: ../../eng
+site_dir: ../../html/eng
+use_directory_urls: false
+theme: material
+extra_css:
+  - stile.css
+nav:
+    - 'Introduction': 001_ration.md
+    - 'Grammar and Rules':
+        - 'The basic rules': 100_baze_kanun.md
+        - 'World words': 101_dunia_loga.md
+        - 'Spelling and pronunciation': 102_ABC.md
+        - 'Word classes': 103_lexotipe.md
+        - 'Pronouns': 104_viselexe.md
+        - 'Nouns': 105_namolexe.md
+        - 'Numerals': 106_nume.md
+        - 'Modifiers': 107_modolexe.md
+        - 'Verbs': 108_karmaloga.md
+        - 'Sentences': 109_jumlobine.md
+        - 'Word building': 110_lexobine.md
+    - 'Lessons':
+        - 'Basic Phrases': 200_baze_jumla.md
+        - 'Course': 201_xule.md
+    - 'Words':
+        - 'Pandunia-English': pandunia-eng.md
+        - 'English-Pandunia': eng-pandunia.md
+        - 'Origins of words': leksaslia.md
+        - 'Search': tiddly.html
+    - 'Appendix':
+        - History: 401_histori.md
+        - 'Questions & Answers': 402_sual_e_javabu.md
+        - 'Adapting foreign words' : 403_loga_hapu.md
+        - 'Translate this site': tarja_netoloke.md
+

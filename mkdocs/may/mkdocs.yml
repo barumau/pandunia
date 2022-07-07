@@ -1,0 +1,13 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/may
+repo_url: https://github.com/barumau/pandunia/
+docs_dir: ../../may
+site_dir: ../../html/may
+theme: readthedocs
+nav:
+    - Home: 'index.md'
+    - 'Kalimat': fraze.md
+    - 'Kamus':
+        - 'Pandunia–Melayu': pandunia-may.md
+        - 'Melayu–Pandunia': may-pandunia.md
+

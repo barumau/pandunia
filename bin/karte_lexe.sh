@@ -13,6 +13,7 @@ prepare() {
     sed -i 's/• //' $lexoliste
 }
 
+echo poze la lexe a dunia karte
 prepare
 python3 bin/fate_lexokarte.py
 

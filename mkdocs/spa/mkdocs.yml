@@ -1,0 +1,30 @@
+site_name: Pandunia
+site_url: http://www.pandunia.info/spa
+repo_url: https://github.com/barumau/pandunia/
+site_author: Risto Kupsala
+docs_dir: ../../spa
+site_dir: ../../html/spa
+theme:
+    name: readthedocs
+    language: es
+nav:
+    - Inicio: 'index.md'
+    - 'Info':
+        - 002_filsofi.md
+    - 'Gramatica':
+        - 102_ABC.md
+        - 103_lexotipe.md
+        - 104_viselexe.md
+        - 105_namolexe.md
+        - 106_nume.md
+        - 107_modolexe.md
+        - 108_karmaloga.md
+        - 109_jumlobine.md
+        - 110_lexobine.md
+    - 'Lecciones':
+        - 'Frases básicas': 200_baze_jumla.md
+        - 'Curso': 201_xule.md
+    - 'Diccionarios':
+        - 'Pandunia-Español': pandunia-spa.md
+        - 'Español-Pandunia': spa-pandunia.md
+        - 'Diccionario etimológico': leksaslia.md
