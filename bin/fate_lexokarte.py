@@ -18,12 +18,25 @@ index_tail = '''
 def kitabe_index(csvreader):
     with open('lexokarte/index.html', 'w', encoding = 'utf-8') as dataje:
         dataje.write(index_head)
+        abc = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'V', 'X', 'Y', 'Z']
+        first = True
         i = 0
         for row in csvreader:
-            if i > 0:
+            if first == True:
+                dataje.write('<h2>%s</h2>\n' % abc[i])
+                dataje.write('<p>')
+                first = False
+            else:
+                if row[0][0].upper() != abc[i]:
+                    i = i + 1;
+                    print(abc[i])
+                    print(row[0])
+                    dataje.write('</p>\n')
+                    dataje.write('<h2>%s</h2>\n' % abc[i])
+                    dataje.write('<p>')
                 dataje.write('<a href="%s.html">' % row[0])
                 dataje.write('%s</a>\n' % row[0])
-            i = 1
+        dataje.write('</p>\n')
         dataje.write(index_tail)
 
 
