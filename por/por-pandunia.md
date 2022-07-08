@@ -471,7 +471,7 @@ dúbnio - dubnium
 
 ## E  
 
-e - e  
+e - i  
 economia - malonomia  
 educação - xulia  
 educação cívica - civopedia  
@@ -1385,7 +1385,7 @@ semântica - semolojia
 senador - senater  
 sentido - sense  
 sepultura (túmulo; enterrar) - gabre  
-ser (estar) - si  
+ser (estar) - e  
 ser humano - human  
 serra - xere  
 serragem - xerofun  

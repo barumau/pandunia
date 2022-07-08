@@ -316,7 +316,7 @@ duxe - 淋浴
 
 ## E  
 
-e - 和  
+e - 对  
 ekore - 松鼠  
 • eletrolojia - 电子学  
 eletrorade - 闪电  
@@ -543,6 +543,7 @@ hura - 好哇
 
 ## I  
 
+i - 和  
 ike - 的  
 in - 内  
 intraje - 肠子  
@@ -1190,7 +1191,6 @@ serlinke - 连结
 serame - 陶瓷  
 sexolojia - 性学  
 sexolojia - 性学  
-si - 对  
 side - 座部 (马鞍)  
 • inside - 蹲  
 sifolexe - 形容词  

@@ -304,7 +304,7 @@
 **dus** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
 **duse** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
 **duxe** *shower* ← French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş  
-**e** *and* ← French:et, Portuguese:e, Spanish:y;e, Mandarin:和 (hé)  
+**e** *be* ← French:est (ɛ), Portuguese:é, Persian: است (ast/e), Hindi:है (ɦɛ:), Italian:è, ukr:є (ye) + Filipino:ay (ay/e)  
 **eglis** *church* ← English:ecclesia-, French:église, Spanish:iglesia, Portuguese:igreja, Hindi:गिरजा (girjā), Malay:gereja, Arabic:(kanisā), Swahili:kanisa, Turkish:kilise  
 **ekia** *environment (nature)* ← English:Spanish:Portuguese:eco-, French:éco-, deu:öko-, Russian:эко-, Turkish:Malay:eko-  
 **ekolojia** *ecology (study of environment)* ← deu:Ökologie, English:ecology, French:écologie, Russian:экология (ekologiya), Malay:ekologi, Turkish:ekoloji, Swahili:ikolojia  
@@ -540,6 +540,7 @@
 **hurargente** *mercury (quicksilver)* ← Swahili:hidrajiri  
 **hure** *free (unchained)* ← Arabic: حر (ḥurr), Turkish:hür, Swahili:huru, Spanish:horro, Portuguese:forro  
 **hux** *nice (pleasant, comfortable, cushy)* ← Persian: خوش‎ (xoš), Hindi:ख़ुश (xuś), Bengali:খুশি (khuśi), Turkish:hoş, English:cushy  
+**i** *and* ← Spanish:y, Portuguese:e, Russian:и (i)  
 **ice** *will (volition, desire)* ← Vietnamese:ý chí, Mandarin:意志 (yìzhì), Korean:(uiji), Japanese:(ishi), + Hindi:इच्छा (icchā), Telugu:ఇచ్చ (icca)  
 **ide** *idea (concept, notion)* ← French:idée, deu:Idee, hat:Malay:ide, Persian:(ide), Portuguese:ideia, Russian:идея (ideya), Vietnamese:ý định  
 **idiote** *idiot (stupid, idiotic)* ← English:deu:French:Malay:idiot, Spanish:Portuguese:idiota, Russian:идиот (idiot)  
@@ -1490,6 +1491,7 @@
 **xenon** *xenon* ← English:xenon, French:xénon, Spanish:xenón, Portuguese:xénon, Russian:ксенон, Mandarin:氙 (xiān), Japanese:キセノン, Korean:크세논, Vietnamese:xenon, Hindi:ज़ेनान, Bengali:জেনন, Malay:xenon, Swahili:zenoni, Arabic: إكسينون  
 **xenseng** *master (sensei)* ← Mandarin:先生 (xiānshēng), Cantonese:先生 (sin1saang1), Japanese:先生 (sensei), Korean:선생 (seonsaeng), Vietnamese:tiên sinh, Malay:sinse, Thai:ซินแส (sin-see), English:sensei  
 **xere** *saw* ← alb:sharrë + Spanish:sierra, Portuguese:serra + आरा (ārā) + Arabic: مِنْشَار‎ (minšār), Persian: منشار‎ (menšâr)  
+**xi** *Mx. (Mr. or Ms.)* ← Mandarin:氏 (shì), Cantonese:氏 (si6), Japanese:氏 (-shi), Korean:씨 (ssi) + Malay:si + Hindi:श्री (śrī), Bengali:শ্রী  (śri)  
 **xibai** *failure (loss, flop, miss, defeat)* ← Mandarin:失败 (shībài), Japanese:失敗 (shippai), Korean:실패 (šilpæ), Vietnamese:thất bại  
 **xim** *heart* ← Korean: 심 (shim), Mandarin:心 (xīn), Japanese:心 (shin), Cantonese:心 (sam1), Hakka-Chinese:心 (sîm), Vietnamese:tim  
 **xin** *belief (faith, creed)* ← Mandarin:信 (xìn), Cantonese:信 (seon3), Japanese:信 (shin), Vietnamese:tin  

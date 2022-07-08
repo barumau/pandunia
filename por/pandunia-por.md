@@ -344,7 +344,7 @@ duxe - ducha
 
 ## E  
 
-e - e  
+e - ser (estar)  
 ekore - esquilo  
 eletre - eletricidade  
 • eletrolojia - eletrônica  
@@ -579,6 +579,7 @@ hura - urra
 
 ## I  
 
+i - e  
 • intre - entrar  
 intraje - intestino (entranhas, tripa)  
 intelige - inteligência (intelecto)  
@@ -1327,7 +1328,6 @@ serlinke - elo
 serame - cerâmico  
 sexolojia - sexologia  
 sexolojia - sexologia  
-si - ser (estar)  
 siborgium - seabórgio  
 • inside - agacharse  
 sifolexe - adjetivo  

@@ -1411,6 +1411,7 @@ xeihal - 事態
 xenon - キセノン  
 xere - のこぎり  
 xerofun - 木屑  
+xi - さん (氏)  
 xibai - 失敗 (負け)  
 xibai - 負ける  
 • dexibai - 失う (無くす, 落とす)  

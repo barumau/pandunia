@@ -368,6 +368,7 @@ duxe - душ
 
 ## E  
 
+e - быть  
 ekogene - дикий  
 ekore - белка  
 • eletrolojia - электроника  
@@ -1366,7 +1367,6 @@ servor - сервер
 sesam - сезам  
 sexolojia - сексология  
 sexolojia - сексология  
-si - быть  
 siane - циан  
 siborgium - сиборгий  
 side - сиденье (седло)  

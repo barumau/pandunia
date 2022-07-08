@@ -637,6 +637,7 @@ hermo - neure
 hermomyrkky - neurotoxe  
 hermosairaus (neuropatia) - neuropatia  
 hermosolu (neuroni) - neurocel  
+herra tai rouva - xi  
 hertsi (Hz) - herze  
 herääminen (herättää; olla hereillä) - desome  
 Hessen - Hesia  
@@ -875,7 +876,7 @@ iäkäs - sene
 
 ## J  
 
-ja (sekä) - e  
+ja (sekä) - i  
 jade - giuke  
 Jahve (Jehova) - yahve  
 jainalaisuus - jenisme  
@@ -2120,7 +2121,7 @@ oksidi - oxide
 olento (olio) - eser  
 oliivi - zaitun  
 olkapää (hartia) - kante  
-olla - si  
+olla - e  
 olla edessä (olla haittona) - prevene  
 olla eri mieltä - aloraye  
 olla jtkn mieltä (pitää jnkn) - raye  

@@ -865,7 +865,8 @@ duxe - shower
 
 ## E  
 
-e - and  
+e - be  
+si ham - matter (be important)  
 eglis - church  
 Eire - Ireland  
 eke - environmental (natural)  
@@ -1555,6 +1556,7 @@ hux - nice (pleasant, comfortable, cushy)
 
 ## I  
 
+i - and  
 –i - suffix for adjectives  
 –ia - area of thinking or being  
 ibre - Hebrew  
@@ -3602,8 +3604,6 @@ sexolojia - sexology
 • homosexe - homosexual  
 • pansexe - pansexual  
 Sexel nesia - Seychelles  
-si - be  
-si ham - matter (be important)  
 siane - cyan  
 Sibiria - Siberia  
 siborgium - seaborgium  
@@ -4293,6 +4293,7 @@ xenseng - master (sensei)
 xere - saw  
 xerofun - sawdust  
 xerokan - sawmill  
+xi - Mx. (Mr. or Ms.)  
 xibai - failure (loss, flop, miss, defeat)  
 xibai - loss (failure, miss)  
 xibai - lose (fail, miss, be defeated)  

@@ -711,7 +711,8 @@ duxe - ducha
 
 ## E  
 
-e - y  
+e - ser (estar)  
+si ham - importar  
 eglis - iglesia  
 Eire - Irlanda  
 eke - ambiental (ecológico, natural)  
@@ -1281,6 +1282,7 @@ hux - cómodo (lujoso)
 
 ## I  
 
+i - y  
 –i - sufijo para adjetivos  
 –ia - sufijo para regiónes y sustantivos abstractos  
 ibre - hebreo  
@@ -3018,8 +3020,6 @@ sexolojia - sexología
 • homosexe - homosexual  
 • pansexe - pansexual  
 Sexel nesia - Seychelles  
-si - ser (estar)  
-si ham - importar  
 siane - cian  
 Sibiria - Siberia  
 siborgium - seaborgio  

@@ -3219,7 +3219,7 @@ sentido - sense
 sentir (detectar) - sense  
 sentir - emosu  
 septiembre - lun nuve  
-ser (estar) - si  
+ser (estar) - e  
 ser - eser  
 ser de - be male  
 ser humano - human  
@@ -3706,7 +3706,7 @@ wiki - viki
 ## X  
 
 xenón - xenon  
-y - e  
+y - i  
 yac - yake  
 Yahvé (Jehová) - yahve  
 yema del dedo - angulpike  

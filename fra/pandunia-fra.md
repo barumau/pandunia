@@ -457,7 +457,7 @@ duxe - douche
 
 ## E  
 
-e - et  
+e - être  
 Eire - Irland  
 ekogene - sauvage  
 ekore - écureuil  
@@ -734,6 +734,7 @@ hura - hourra
 
 ## I  
 
+i - et  
 –i - suffixe pour l'adjectif  
 in - en  
 • intre - entrer  
@@ -1538,7 +1539,6 @@ serlinke - maillon (chaînon)
 sexolojia - sexologie  
 sexolojia - sexologie  
 • ansexe - asexué  
-si - être  
 siborgium - seaborgium  
 • inside - s’accroupir  
 sifolexe - adjectif  

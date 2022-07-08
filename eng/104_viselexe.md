@@ -50,7 +50,7 @@ The expression **semen** is used as the reciprocal pronoun.
 **semen**
 – each other, one another
 
-**mi e tu vide semen.**
+**mi i tu vide semen.**
 – Me and you see each other.  
 **mimen vide semen.**
 – We see each other.
@@ -81,9 +81,9 @@ points to things that are far from the speaker.
 – No, I want this book, not that.
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**ni si bon.**
+**ni e bon.**
 – This is good.  
-**go si dus.**
+**go e dus.**
 – That is bad.  
 **tu vol ni, he?**
 – Do you want this?  
@@ -97,7 +97,7 @@ between the subject and the verb.
 
 **mi vide du jen.**
 – I see two persons.  
-**ni ya cante e go no cante.**
+**ni ya cante i go no cante.**
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
@@ -106,10 +106,10 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ni si mau. ya vol yam go muxu.**
+**ni e mau. ya vol yam go muxu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ten un mau e un vaf. la vaf si dai. ya yam poli yam.**
+**mi ten un mau i un vaf. la vaf e dai. ya yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -121,7 +121,7 @@ Then they refer to abstract entities of discourse, not concrete objects.
 **ni** refers to things currently being spoken,
 and **go** refers to things about to be spoken.
 
-**ni jumle si korte.**
+**ni jumle e korte.**
 – This sentence is short.
 
 In the above, **ni jumle** (_this sentence_) refers to the sentence being spoken.

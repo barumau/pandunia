@@ -14,22 +14,22 @@
 **salam!**
 = Hello!  
 <big>☺</big>
-**tu si ke?**
+**tu e ke?**
 = Who are you?  
 <big>☻</big>
-**mi si Yusef. tu si ke?**
+**mi e Yusef. tu e ke?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi si Sara. ya si ke?**
+**mi e Sara. ya e ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**ya si mi su doste.**
+**ya e mi su doste.**
 = That is my friend.  
 <big>☺</big>
-**ya su nam si ke?**
+**ya su nam e ke?**
 = What's her name?  
 <big>☻</big>
-**ya su nam si Maria.**
+**ya su nam e Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -37,36 +37,36 @@
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**ya si mi su doste**
+**ya e mi su doste**
 the topic is the pronoun **ya** (he, she, it), which is followed by the comment
-**si mi su doste**
+**e mi su doste**
 (is my friend).
 
-In Pandunia, the word **si** functions like _to be_ in English.
+In Pandunia, the word **e** functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put **no** before it.
 
-**ya si Sara.**
+**ya e Sara.**
 = She is Sarah.  
-**ya no si Sara.**
+**ya no e Sara.**
 = She is not Sarah.
 
-**mau si zoe.**
+**mau e zoe.**
 = The cat is an animal.  
-**dom no si zoe.**
+**dom no e zoe.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
-**mi si**
+**mi e**
 and a word that describes you.
 
-**mi si bon.**
+**mi e bon.**
 = I'm good.  
-**mi si man.**
+**mi e man.**
 = I'm a man.  
-**mi si fem.**
+**mi e fem.**
 = I'm a woman.  
-**mi si nobi.**
+**mi e nobi.**
 = I'm non-binary.
 
 
@@ -99,7 +99,7 @@ he, she or it
 his, her, its  
 **ke**
 who or what  
-**si**
+**e**
 to be  
 **no**
 no; not  
@@ -120,12 +120,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu si ke?
-2. mi si tomas.
-3. tu su doste si ke?
-4. ya si Sara.
-5. tu su nam si ke?
-6. mi su nam si ........... 
+1. tu e ke?
+2. mi e tomas.
+3. tu su doste e ke?
+4. ya e Sara.
+5. tu su nam e ke?
+6. mi su nam e ........... 
 
 
 --------------------------------------------------------------------------------
@@ -252,7 +252,7 @@ chief, boss
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/laupapa.png "cin pa e bacha")  
+![](http://www.pandunia.info/grafe/laupapa.png "cin pa i bacha")  
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
@@ -391,7 +391,7 @@ grandfather
 to ask; please  
 **don**
 to give  
-**e**
+**i**
 and  
 **ga**
 to go  
@@ -425,7 +425,7 @@ some, a(n)
 2. la xefe cing ya side.
 3. cing yam kafe o cai.
 4. mama cing mi safe kamar.
-5. xefe side e yam kafe.
+5. xefe side i yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -445,7 +445,7 @@ some, a(n)
 **cai.**
 = Tea.  
 <big>☺</big>
-**e tu?**
+**tu ne?**
 = And you?  
 <big>☹</big>
 **mi no baxe pandunia...**
@@ -469,7 +469,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**xukre. mi don un cai e un kafe e un supe pos des minute.**
+**xukre. mi don un cai i un kafe i un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -563,6 +563,8 @@ pardon, sorry
 minute  
 **baxe**
 speak a language  
+**ne**
+sentence-ending tag for asking the other's point of view  
 **sui**
 water  
 **supe**
@@ -667,7 +669,7 @@ but
 1. ya no safe kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. ya no ten vaf e mau. / ya ten no vaf e no mau.
+4. ya no ten vaf i mau. / ya ten no vaf i no mau.
 5. xefe yam cai ama no kafe.
 6. mama ten no vaf ama du mau.
 
@@ -681,11 +683,11 @@ _when_, the interrogative pronoun **ke** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**ya si ke?**
+**ya e ke?**
 = What is that? / Who is (s)he?  
-**ya si ke jen?**
+**ya e ke jen?**
 = Who is he/she?  
-**ya si ke xe?**
+**ya e ke xe?**
 = What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  
@@ -706,13 +708,13 @@ before the cause or reason.
 
 **ke sababe tu suka mau?**
 = Why do you like cats?  
-**de sababe yamen si kavai.**
+**de sababe yamen e kavai.**
 = Because they are cute.
 
 Of course **sababe** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sababe yamen si kavai**
+**mi suka mau de sababe yamen e kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -751,7 +753,7 @@ period of time
 3. ke zaman ya lai?
 4. pos des minute.
 5. ke sababe ya no yam?
-6. de sababe ya no suka kafe e supe.
+6. de sababe ya no suka kafe i supe.
 
 
 --------------------------------------------------------------------------------
@@ -785,11 +787,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara si mi su pas xefe.**
+**Sara e mi su pas xefe.**
 = Sarah is my former boss.  
-**Yusef si mi su zai xefe.**
+**Yusef e mi su zai xefe.**
 = Yusef is my current boss.  
-**Maria si mi su xa xefe.**
+**Maria e mi su xa xefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -820,7 +822,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi pas ten un mau.**
 = I had a cat in the past.  
-**ya si bon mau.**
+**ya e bon mau.**
 = It was a good cat.  
 **mi ten un vaf a zai.**
 = I have a dog now.

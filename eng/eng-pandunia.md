@@ -131,7 +131,7 @@ analyse (dissect; analysis, dissection) - fenkate
 anchor - angar  
 anchovy - ancovi  
 Ancient Egypt (Kemet) - Kemia  
-and - e  
+and - i  
 Andes - Andes  
 andesite - andesite  
 Andorra - Andora  
@@ -343,7 +343,7 @@ bathe (bath) - banya
 bathroom - banyakamar  
 battery - batre  
 bay (gulf) - bai  
-be - si  
+be - e  
 be about (discuss as a subject) - teme  
 be beside (accompany) - late  
 be called (be named) - name  
@@ -2593,6 +2593,7 @@ muskmelon - melon
 muslim (moslem) - islaman  
 muslim (moslem) - islamiste  
 must - debu  
+Mx. (Mr. or Ms.) - xi  
 my - mi su  
 Myanmar (Burma) - Myanma  
 mycelium - fungonete  

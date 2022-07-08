@@ -304,7 +304,7 @@
 **dus** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
 **duse** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
 **duxe** *suihku* ← ranska:douche, espanja:portugali:ducha, deu:Dusche, venäjä:душ (duš), arabia: دوش (dūš), malaiji:dus, turkki:duş  
-**e** *ja (sekä)* ← ranska:et, portugali:e, espanja:y;e, yleiskiina:和 (hé)  
+**e** *olla* ← ranska:est (ɛ), portugali:é, persia: است (ast/e), hindi:है (ɦɛ:), italia:è, ukr:є (ye) + filippiini:ay (ay/e)  
 **eglis** *kirkko* ← englanti:ecclesia-, ranska:église, espanja:iglesia, portugali:igreja, hindi:गिरजा (girjā), malaiji:gereja, arabia:(kanisā), suahili:kanisa, turkki:kilise  
 **ekia** *luonto* ← englanti:espanja:portugali:eco-, ranska:éco-, deu:öko-, venäjä:эко-, turkki:malaiji:eko-  
 **ekolojia** *ekologia (ympäristötiede)* ← deu:Ökologie, englanti:ecology, ranska:écologie, venäjä:экология (ekologiya), malaiji:ekologi, turkki:ekoloji, suahili:ikolojia  
@@ -540,6 +540,7 @@
 **hurargente** *elohopea* ← suahili:hidrajiri  
 **hure** *vapaa* ← arabia: حر (ḥurr), turkki:hür, suahili:huru, espanja:horro, portugali:forro  
 **hux** *mukava (kiva, miellyttävä)* ← persia: خوش‎ (xoš), hindi:ख़ुश (xuś), bangla:খুশি (khuśi), turkki:hoş, englanti:cushy  
+**i** *ja (sekä)* ← espanja:y, portugali:e, venäjä:и (i)  
 **ice** *tahtoa (tahto)* ← vietnami:ý chí, yleiskiina:意志 (yìzhì), korea:(uiji), japani:(ishi), + hindi:इच्छा (icchā), telugu:ఇచ్చ (icca)  
 **ide** *käsite (idea)* ← ranska:idée, deu:Idee, hat:malaiji:ide, persia:(ide), portugali:ideia, venäjä:идея (ideya), vietnami:ý định  
 **idiote** *typerys (idiootti, tyhmä, hölmö)* ← englanti:deu:ranska:malaiji:idiot, espanja:portugali:idiota, venäjä:идиот (idiot)  
@@ -1490,6 +1491,7 @@
 **xenon** *ksenon* ← englanti:xenon, ranska:xénon, espanja:xenón, portugali:xénon, venäjä:ксенон, yleiskiina:氙 (xiān), japani:キセノン, korea:크세논, vietnami:xenon, hindi:ज़ेनान, bangla:জেনন, malaiji:xenon, suahili:zenoni, arabia: إكسينون  
 **xenseng** ** ← yleiskiina:先生 (xiānshēng), kantoninkiina:先生 (sin1saang1), japani:先生 (sensei), korea:선생 (seonsaeng), vietnami:tiên sinh, malaiji:sinse, thai:ซินแส (sin-see), englanti:sensei  
 **xere** *saha* ← alb:sharrë + espanja:sierra, portugali:serra + आरा (ārā) + arabia: مِنْشَار‎ (minšār), persia: منشار‎ (menšâr)  
+**xi** *herra tai rouva* ← yleiskiina:氏 (shì), kantoninkiina:氏 (si6), japani:氏 (-shi), korea:씨 (ssi) + malaiji:si + hindi:श्री (śrī), bangla:শ্রী  (śri)  
 **xibai** *epäonnistuminen* ← yleiskiina:失败 (shībài), japani:失敗 (shippai), korea:실패 (šilpæ), vietnami:thất bại  
 **xim** *sydän* ← korea: 심 (shim), yleiskiina:心 (xīn), japani:心 (shin), kantoninkiina:心 (sam1), hakkakiina:心 (sîm), vietnami:tim  
 **xin** *usko (luottamus)* ← yleiskiina:信 (xìn), kantoninkiina:信 (seon3), japani:信 (shin), vietnami:tin  

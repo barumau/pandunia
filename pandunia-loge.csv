@@ -821,7 +821,8 @@ dut<pro<pos:|• posprodute||||post-production|post-production|posproducción|p�
 dut<re:|• redute||||reduce (lead back, take back)|||||||||||||||||
 dux:|duxe|||fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|shower|douche|ducha|ducha|душ|دوش|淋浴|シャワー|샤워|vòi hoa sen|शावर||dus|shawaa|duş|duŝo|suihku|prysznic
 e|E||||E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E
-e:|e|||fra:et, por:e, spa:y;e, zho:和 (hé)|and|et|y|e|||和|||||||||kaj|ja (sekä)|i, oraz
+e:|e|bine|identity copula|fra:est (ɛ), por:é, fas: است (ast/e), hin:है (ɦɛ:), ita:è, ukr:є (ye) + tgl:ay (ay/e)|be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
+e~ ham:|si ham||||matter (be important)||importar|||||||||||||gravi|olla väliä (olla tärkeä)|znaczyć (liczyć się, być ważnym)
 eglis:|eglis|||eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise|church||iglesia|||||||||||||preĝejo|kirkko|kościół
 eire:|Eire|gogia|IE||Ireland|Irland|Irlanda||||||||||||||Irlanti|Irlandia
 ek:i|eke||||environmental (natural)||ambiental (ecológico, natural)||||||||||||||ympäristö- (luonto-)|środowiskowy, naturalny
@@ -1504,6 +1505,7 @@ hur~argent:|hurargente|kimium 080|Hg|swa:hidrajiri|mercury (quicksilver)|mercure
 hura:|hura|||eng:hurrah, deu:spa:hurra, fra:hourra, rus:ура (ura), may:hore, fas:(hurâ)|cheer (hurrah, hooray, yay)|hourra|hurra (yupi)|urra|ура||好哇||||जय हो||||||hurraa (hurrata)|wiwatować (hura, jej)
 hux:|hux|||fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy|nice (pleasant, comfortable, cushy)||cómodo (lujoso)||||||||ख़ुश|খুশি|||hoş|agrabla|mukava (kiva, miellyttävä)|miły, przyjemny, uroczy
 i|I||||I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I
+i:|i|||spa:y, por:e, rus:и (i)|and|et|y|e|||和|||||||||kaj|ja (sekä)|i, oraz
 i1|–i|||ara:(-i), fas:(-i), hin:-ई (-ī), ben:-ই (-i), eng:-y, jpn:-い (-i), hun:-i|suffix for adjectives|suffixe pour l'adjectif|sufijo para adjetivos|||||||||||||-a (-e)|pääte: adjektiivi tai adverbi|przyrostek dla przymiotnika
 ia|–ia|||spa:por:eng:-ia, rus:-ия (-iya), ara: ية (-iya), jpn:屋 (-ya)|area of thinking or being||sufijo para regiónes y sustantivos abstractos|||||||||||||ejo (ujo, io)|ajattelun, olemisen tai ihmisten ala tai alue|przyrostek dla miejsca
 ibr:i|ibre||||Hebrew||hebreo|||||||||||||Hebrea|heprea|hebrajski
@@ -3537,8 +3539,6 @@ sex<du:|• dusexe||||bisexual||bisexual||||||||||||||biseksuaali|biseksualny
 sex<hom:|• homosexe||||homosexual||homosexual|||||||||||||samseksema|homoseksuaali|homoseksualny
 sex<pan:|• pansexe||||pansexual||pansexual|||||||||||||||panseksualny
 sexel~nes:ia|Sexel nesia|gogia|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
-si:|si|bine|identity copula||be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
-si~ ham:|si ham||||matter (be important)||importar|||||||||||||gravi|olla väliä (olla tärkeä)|znaczyć (liczyć się, być ważnym)
 sian:i|siane|||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан|||シアン|||||||||syaani|niebieskozielony (cyjan)
 sibir:ia|Sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
 siborg.ium:|siborgium|kimium 106|Sg|eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم|seaborgium|seaborgium|seaborgio|seabórgio|сиборгий|سيبورجيوم||シーボーギウム|새보쥼|seaborgi|सीबोर्गियम|সিওবোর্গিয়াম|seaborgium|seaborgi|siborgiyum|seborgio|seaborgium|seaborg
@@ -4222,6 +4222,7 @@ xenseng:|xenseng|||zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生
 xer:|xere|||alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)|saw|scie|sierra|serra|пила|مِنْشَار|锯子|のこぎり|톱|cưa|आरा|করাত|gergaji|msumeno|testere|segilo|saha|piła
 xer.fun:|xerofun||||sawdust|sciure|serrín|serragem|опилки||锯末|木屑||mùn cưa||||||segaĵo|sahanpuru (sahajauho)|
 xer.kan:|xerokan||||sawmill|scierie|aserradero|serraría|лесопилка||||||||||||sahalaitos|tartak
+xi:|xi|||zho:氏 (shì), yue:氏 (si6), jpn:氏 (-shi), kor:씨 (ssi) + may:si + hin:श्री (śrī), ben:শ্রী  (śri)|Mx. (Mr. or Ms.)|||||||さん (氏)|||श्री|শ্রী|||||herra tai rouva|
 xibai:|xibai|||zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại|failure (loss, flop, miss, defeat)|échec|derrota (fracaso)||||失败 (击败)|失敗 (負け)||||||||malsukceso|epäonnistuminen|porażka (niepowodzenie, klapa, przegrana, strata, porażka)
 xibai:|xibai||||loss (failure, miss)|||||||||||||||||przegrana (strata, porażka)
 xibai:|xibai||||lose (fail, miss, be defeated)||perder (fallar)||проиграть (провалиться)||输|負ける|||असफल होना||gagal (kalah dalam)|kushindwa (kufeli)|başarısız olmak||hävitä (kärsiä tappio)|przegrać, przegrywać

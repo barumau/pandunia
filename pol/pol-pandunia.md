@@ -259,7 +259,7 @@ but - sapate
 butelka - botel  
 Bułgaria - Bolgaria  
 bułka gotowana na parze - mantu  
-być - si  
+być - e  
 być mistrzem (być ekspertem) - meste  
 być o; dyskutować o - teme  
 być obok - late  
@@ -867,7 +867,7 @@ hę?, co?, pardon? - he
 
 ## I  
 
-i, oraz - e  
+i, oraz - i  
 idea, pomysł - ide  
 ideogram - ideograf  
 idiota (głupi) - idiote  

@@ -643,7 +643,8 @@ duxe - prysznic
 
 ## E  
 
-e - i, oraz  
+e - być  
+si ham - znaczyć (liczyć się, być ważnym)  
 eglis - kościół  
 Eire - Irlandia  
 eke - środowiskowy, naturalny  
@@ -1159,6 +1160,7 @@ hux - miły, przyjemny, uroczy
 
 ## I  
 
+i - i, oraz  
 –i - przyrostek dla przymiotnika  
 –ia - przyrostek dla miejsca  
 ibre - hebrajski  
@@ -2796,8 +2798,6 @@ sexolojia - seksuologia
 • homosexe - homoseksualny  
 • pansexe - panseksualny  
 Sexel nesia - Seszele  
-si - być  
-si ham - znaczyć (liczyć się, być ważnym)  
 siane - niebieskozielony (cyjan)  
 Sibiria - Syberia  
 siborgium - seaborg  

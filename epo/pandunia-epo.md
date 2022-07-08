@@ -423,7 +423,8 @@ duxe - duŝo
 
 ## E  
 
-e - kaj  
+e - esti  
+si ham - gravi  
 eglis - preĝejo  
 ekia - naturo  
 ekore - sciuro  
@@ -753,6 +754,7 @@ hux - agrabla
 
 ## I  
 
+i - kaj  
 –i - -a (-e)  
 –ia - ejo (ujo, io)  
 ibre - Hebrea  
@@ -1567,8 +1569,6 @@ serebre - cerbo
 serpe - serpento  
 sexe - sekso  
 • homosexe - samseksema  
-si - esti  
-si ham - gravi  
 siborgium - seborgio  
 side - sidi  
 • presidente - prezidento  

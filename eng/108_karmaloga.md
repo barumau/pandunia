@@ -8,25 +8,25 @@ not by changing the form of verbs as in English and other languages.
 
 Person and number are indicated by the subject.
 For example, the verb
-**si**
+**e**
 ('to be') has the same form for all persons.
 
-**_mi_ si doste.**
+**_mi_ e doste.**
 – I am a friend.  
-**_tu_ si doste.**
+**_tu_ e doste.**
 – You are a friend.  
-**_ya_ si doste.**
+**_ya_ e doste.**
 – He or she is a friend.  
-**_mimen_ si doste.**
+**_mimen_ e doste.**
 – We are friends.  
-**_tumen_ si doste.**
+**_tumen_ e doste.**
 – You are friends.  
-**_yemen_ si doste.**
+**_yemen_ e doste.**
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau si zoe.**
+**mau e zoe.**
 – The cat is an animal.
 
 Frequently there is a marker between the subject and the verb
@@ -40,7 +40,7 @@ One of the many suitable markers is
 which adds no content to the sentence
 but helps to clarify its structure.
 
-**karote si uma yam.**
+**karote e uma yam.**
 – Carrot is horse food.  
 **uma _ye_ yam karote.**
 – The horse eats carrots.
@@ -119,7 +119,7 @@ indicates that an action is done regularly.
 indicates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_). 
 
-**ya _le_ si guru.**
+**ya _le_ e guru.**
 – He or she has been a teacher (and still is).  
 **mi no _le_ gul yo alkohol.**
 – I haven't drank alcohol.  
@@ -150,7 +150,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 ('will, shall')
 indicates that the event will take place later or in the future.
 
-**ya _xa_ si guru.**
+**ya _xa_ e guru.**
 – He or she shall be a teacher.  
 **mi no _xa_ gul un bir.**
 – I will not drink a beer.

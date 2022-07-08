@@ -108,30 +108,30 @@ Thanks for helping me.
 You're welcome. (Literally: _No need to thank._)
 
 
-### si <small>to be</small>
+### e <small>to be</small>
 
-The word **si** can be used also for stating something as a fact.
+The word **e** can be used also for stating something as a fact.
 
-**mi si Tomas.**
+**mi e Tomas.**
 I am Thomas.
 
-**tu si Sara.**
+**tu e Sara.**
 You are Sarah.
 
-**aple si frute.**
+**aple e frute.**
 The apple is a fruit.
 
-<small>Etimology. **si** is from
+<small>Etimology. **e** is from
 Mandarin: 是 "shì",
 Shanghainese: 是 "sí".</small>
 
 
 ### mi <small>I, me</small>
 
-**mi si Sara.**
+**mi e Sara.**
 I'm Sarah.
 
-**mi si Tomas.**
+**mi e Tomas.**
 I'm Thomas.
 
 **mi salam mama.**
@@ -160,7 +160,7 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me, Swahili:
 
 ### tu <small>you</small>
 
-**tu si Tomas.**
+**tu e Tomas.**
 You are Thomas.
 
 **mi salam tu.**
@@ -185,13 +185,13 @@ I love you.
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**ya si man.**
+**ya e man.**
 He is a man.
 
-**ya si fem.**
+**ya e fem.**
 She is a woman.
 
-**ya si aple.**
+**ya e aple.**
 It is an apple.
 
 **ya**
@@ -206,10 +206,10 @@ I greet him/her.
 
 ### sual <small>to ask a question</small>
 
-**sual tu si Tomas?**
+**sual tu e Tomas?**
 Are you Thomas?
 
-**sual tu si dava ja?**
+**sual tu e dava ja?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **sual**.
@@ -236,25 +236,25 @@ Swahili _swali_.</small>
 
 ### ye <small>yes</small>
 
-**sual tu si Tomas?**
+**sual tu e Tomas?**
 Are you Thomas.
 
-**ye, mi si Tomas.**
+**ye, mi e Tomas.**
 Yes, I am Thomas.
 
-**sual ya si dava ja?**
+**sual ya e dava ja?**
 Is he/she a doctor?
 
-**ye, ya si dava ja.**
+**ye, ya e dava ja.**
 Yes, he is a doctor.
 
 
 ### no <small>no, not</small>
 
-**mi no si Sara.**
+**mi no e Sara.**
 I'm not Sarah.
 
-**mi no si dava ja.**
+**mi no e dava ja.**
 I'm not a doctor.
 
 **sual tu bon?**
@@ -302,13 +302,13 @@ You greet them.
 **yamen salam mimen!**
 They greet us.
 
-**mimen si fem.**
+**mimen e fem.**
 We are women.
 
-**tumen si man.**
+**tumen e man.**
 You are men.
 
-**yamen si aple.**
+**yamen e aple.**
 They are apples.
 
 
@@ -317,47 +317,47 @@ They are apples.
 **ke?**
 What?
 
-**tu si ke?**
+**tu e ke?**
 Who are you?  
-**mi si Tomas.**
+**mi e Tomas.**
 I'm Thomas.
 
-**ya si ke?**
+**ya e ke?**
 Who is he/she?  
-**ya si Sara.**
+**ya e Sara.**
 She is Sarah.
 
-**tumen si ke?**
+**tumen e ke?**
 Who are you people?
 
-**yamen si ke?**
+**yamen e ke?**
 Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
 Bengali: কী "ke".</small>
 
 
-### ni e go <small>this and that</small>
+### ni i go <small>this and that</small>
 
-**ni si ke?**
+**ni e ke?**
 What's this?
 
-**ni si aple.**
+**ni e aple.**
 This is an apple.
 
-**go si ke?**
+**go e ke?**
 What is that?
 
-**go si oranje.**
+**go e oranje.**
 That is an orange.
 
-**ni si rubi aple.**
+**ni e rubi aple.**
 This is a red apple.
 
-**ni aple si rubi.**
+**ni aple e rubi.**
 This apple is red.
 
-**ni si rubi.**
+**ni e rubi.**
 This is red.
 
 **yamen a ke?**
@@ -373,16 +373,16 @@ They are there.
 
 ### su <small>'s (possessive particle)</small>
 
-**ni si ke?**
+**ni e ke?**
 What's this?
 
-**ya si mi su telefon.**
+**ya e mi su telefon.**
 It's my telephone.
 
-**ni si ke su?**
+**ni e ke su?**
 Whose is this?
 
-**ya si mi su.**
+**ya e mi su.**
 It's mine.
 
 Note: Possessive particle
@@ -393,13 +393,13 @@ means "my",
 **tu su**
 means "your" and so on.
 
-**ya si ke?**
+**ya e ke?**
 Who's he/she?
 
-**ya si mi su doste.**
+**ya e mi su doste.**
 He/she is my friend.
 
-**mi si Sara su doste.**
+**mi e Sara su doste.**
 I am Sarah's friend.
 
 <small>Etymology. **su**
@@ -408,16 +408,16 @@ English _'s_, Afrikaans _se_, Spanish _su_.</small>
 
 ### nam <small>name</small>
 
-**tu su nam si ke?**
+**tu su nam e ke?**
 What's your name?
 
-**mi su nam si Tomas.**
+**mi su nam e Tomas.**
 My name is Thomas.
 
-**ya su nam si ke?**
+**ya su nam e ke?**
 What is his/her name?
 
-**ya su nam si Sara.**
+**ya su nam e Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from
@@ -507,7 +507,7 @@ covers both eating and drinking.
 It can feel odd at first but soon you will see that it is quite handy!
 Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi yam kafe e pang.**
+**mi yam kafe i pang.**
 I'm having coffee and bread.
 
 
@@ -596,10 +596,10 @@ Are you thirsty?
 **maf! mi no aha.**
 Sorry, I don't understand.
 
-**maf! ni si ke?**
+**maf! ni e ke?**
 Excuse me, what's this?
 
-**maf. tu su nam si ke?**
+**maf. tu su nam e ke?**
 Excuse me, what's your name?
 
 
@@ -662,7 +662,7 @@ We talk to each other.
 **mon loge "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" si ke a pandunia?**
+**"cat" e ke a pandunia?**
 What is "cat" in Pandunia?
 
 **mau loge miau.**
@@ -865,7 +865,7 @@ I am greeting your friend.
 **la man ye zai vide un filme.**  
 The man is watching a film.
 
-**ya zai si xefe.**  
+**ya zai e xefe.**  
 He or she is currently the chief.
 
 **ya zai a dom.**  
@@ -880,7 +880,7 @@ I greeted your friend.
 **la man ye pas vide un filme fem.**  
 The man watched a film.
 
-**ya pas si xefe.**  
+**ya pas e xefe.**  
 He or she was the chief.
 
 **ya pas a dom.**  
@@ -895,7 +895,7 @@ I have greeted your friend.
 **la man le vide un filme.**  
 The man has watched a film.
 
-**ya le si xefe.**  
+**ya le e xefe.**  
 He or she has been the chief.
 
 **ya le a la dom.**  
@@ -910,7 +910,7 @@ I will greet your friend.
 **la man xa vide la filme.**  
 The man will watch the film.
 
-**ya xa si xefe.**  
+**ya xa e xefe.**  
 He or she will be the chief.
 
 **ya xa a dom.**  
@@ -956,7 +956,7 @@ I will take a beer.
 
 ### kire <small>rent, lease, hire</small>
 
-**kire si 500 dolar a lun.**  
+**kire e 500 dolar a lun.**  
 The rent is 500 dollars in a month.
 
 **ya no bil pei la kire.**  
@@ -988,16 +988,16 @@ I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
 
-**ya si ke yang?**
+**ya e ke yang?**
 What is it like?
 
-**sual ya si nove?**
+**sual ya e nove?**
 Is it new?
 
-**ke si max boni?**
+**ke e max boni?**
 Which is better?
 
-**ni si maxim bon (de pan).**
+**ni e maxim bon (de pan).**
 This is the best (of all).
 
 **ya kosta ke?**
@@ -1036,7 +1036,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**pan si okey.**
+**pan e okey.**
 Everything is alright.
 
 ****

@@ -304,7 +304,7 @@
 **dus** *malo (difícil, duro)* ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
 **duse** *malo (difícil, duro)* ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
 **duxe** *ducha* ← fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş  
-**e** *y* ← fra:et, por:e, spa:y;e, zho:和 (hé)  
+**e** *ser (estar)* ← fra:est (ɛ), por:é, fas: است (ast/e), hin:है (ɦɛ:), ita:è, ukr:є (ye) + tgl:ay (ay/e)  
 **eglis** *iglesia* ← eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise  
 **ekia** *medioambiente (naturaleza)* ← eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-  
 **ekolojia** *ecología* ← deu:Ökologie, eng:ecology, fra:écologie, rus:экология (ekologiya), may:ekologi, tur:ekoloji, swa:ikolojia  
@@ -540,6 +540,7 @@
 **hurargente** *mercurio* ← swa:hidrajiri  
 **hure** *libre (horro)* ← ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro  
 **hux** *cómodo (lujoso)* ← fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy  
+**i** *y* ← spa:y, por:e, rus:и (i)  
 **ice** *voluntad (querer, disponer)* ← vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)  
 **ide** *idea (noción, concepto)* ← fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định  
 **idiote** *idiota (imbécil; estúpido, tonto)* ← eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)  
@@ -1490,6 +1491,7 @@
 **xenon** *xenón* ← eng:xenon, fra:xénon, spa:xenón, por:xénon, rus:ксенон, zho:氙 (xiān), jpn:キセノン, kor:크세논, vie:xenon, hin:ज़ेनान, ben:জেনন, may:xenon, swa:zenoni, ara: إكسينون  
 **xenseng** *maestro (profesor)* ← zho:先生 (xiānshēng), yue:先生 (sin1saang1), jpn:先生 (sensei), kor:선생 (seonsaeng), vie:tiên sinh, may:sinse, tha:ซินแส (sin-see), eng:sensei  
 **xere** *sierra* ← alb:sharrë + spa:sierra, por:serra + आरा (ārā) + ara: مِنْشَار‎ (minšār), fas: منشار‎ (menšâr)  
+**xi** ** ← zho:氏 (shì), yue:氏 (si6), jpn:氏 (-shi), kor:씨 (ssi) + may:si + hin:श्री (śrī), ben:শ্রী  (śri)  
 **xibai** *derrota (fracaso)* ← zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (šilpæ), vie:thất bại  
 **xim** *corazón* ← kor: 심 (shim), zho:心 (xīn), jpn:心 (shin), yue:心 (sam1), hak:心 (sîm), vie:tim  
 **xin** *creencia (fe)* ← zho:信 (xìn), yue:信 (seon3), jpn:信 (shin), vie:tin  

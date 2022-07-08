@@ -782,7 +782,8 @@ duxe - suihku
 
 ## E  
 
-e - ja (sekä)  
+e - olla  
+si ham - olla väliä (olla tärkeä)  
 eglis - kirkko  
 Eire - Irlanti  
 ekia - luonto  
@@ -1379,6 +1380,7 @@ hux - mukava (kiva, miellyttävä)
 
 ## I  
 
+i - ja (sekä)  
 –i - pääte: adjektiivi tai adverbi  
 –ia - ajattelun, olemisen tai ihmisten ala tai alue  
 ibre - heprea  
@@ -3104,8 +3106,6 @@ sexolojia - seksologia
 • dusexe - biseksuaali  
 • homosexe - homoseksuaali  
 Sexel nesia - Seychellit  
-si - olla  
-si ham - olla väliä (olla tärkeä)  
 siane - syaani  
 Sibiria - Siperia  
 siborgium - seaborgium  
@@ -3683,6 +3683,7 @@ xenon - ksenon
 xere - saha  
 xerofun - sahanpuru (sahajauho)  
 xerokan - sahalaitos  
+xi - herra tai rouva  
 xibai - epäonnistuminen  
 xibai - hävitä (kärsiä tappio)  
 xibayer - häviäjä  

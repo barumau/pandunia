@@ -141,7 +141,7 @@ In the following examples, the agent is marked with superscript A and the patien
 The person opens the door on purpose.
 The door undergoes a change of state from closed to opened.
 
-**jenᴬ vide e arome orangeᴾ.**
+**jenᴬ vide i arome orangeᴾ.**
 – The personᴬ sees and smells an orangeᴾ.
 
 The person can perceive the orange with their senses.

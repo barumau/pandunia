@@ -24,18 +24,18 @@ In the simplest sentences, the subject is a pronoun and the predicate is an adje
 **ya Sara.**
 – She is Sara.
 
-When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
+When the subject is a noun, the connecting verb **e** (_to be_) is necessary.
 
 
-**Sara si bon.**
+**Sara e bon.**
 – Sara is good.  
-**ite si dai.**
+**ite e dai.**
 – Stones are big.  
-**meza si nove.**
+**meza e nove.**
 – The table is new.
 
 The word **no** is added to form the negative.
-Then the verb **si** is not needed.
+Then the verb **e** is not needed.
 
 | Positive         | Negative           |
 |------------------|--------------------|
@@ -45,15 +45,15 @@ Then the verb **si** is not needed.
 | It is new.       | It is not new.     |
 | **ya Sara.**     | **ya no Sara.**    |
 | She is Sarah.    | She is not Sarah.  |
-| **Sara si bon.** | **Sara no bon.**   |
+| **Sara e bon.** | **Sara no bon.**   |
 | Sarah is good.   | Sarah is not good. |
 
 
-Also two personal pronouns can be combined with **si** and **no**.
+Also two personal pronouns can be combined with **e** and **no**.
 
-**mi si ya.**
+**mi e ya.**
 – I am he/she.  
-**mi no tu.**
+**mi no (e) tu.**
 – I'm not you.
 
 
@@ -61,11 +61,11 @@ Also two personal pronouns can be combined with **si** and **no**.
 
 The same rule applies also for two adjectives, or a verb and an adjective.
 
-**jovan si sundar.**
+**jovan e sundar.**
 – Young is beautiful.  
 **nove no lau.**
 – New is not old.  
-**cante si bon.**
+**cante e bon.**
 – Singing is good.
 
 
@@ -283,7 +283,7 @@ The question is answered by repeating the chosen alternative.
 Open questions, or _wh-_ questions, ask for more information.
 In Pandunia they use the word **ke**.
 
-**piza si ke?**
+**piza e ke?**
 – What is pizza?
 
 The question word may be moved to the front of the sentence for emphasis.
@@ -354,7 +354,7 @@ A content clause is a subordinate clause that provides content that is commented
 In Pandunia they are typically introduced with the conjunction
 **ki**.
 
-**mi sabe ki tu si doste.**
+**mi sabe ki tu e doste.**
 – I know that you are a friend.  
 **yamen fikir ki mimen le cuti.**
 – They think that we have left.
@@ -366,9 +366,9 @@ points to the following content clause and
 **la**
 points to the previous one.
 
-**go si bari, ki mi le no vide yamen.**
+**go e bari, ki mi le no vide yamen.**
 – _It_ is important _that I haven't seen them_.  
-**ki pan jen be sana ka par, la si klar.**
+**ki pan jen be sana ka par, la e klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
@@ -391,7 +391,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 The word **gar** means 'to suppose',
 and in conditional sentences, it works in the same way as English 'if'.
 
-**mi no yam ya gar mi si tu.**
+**mi no yam ya gar mi e tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
@@ -404,14 +404,14 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 ## Combining phrases with conjunctions
 
-**e**
+**i**
 – and (connects two similar words or phrases)  
 **o**
 – or (connects two alternative words or phrases)  
 **ama**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 – I like cats and dogs.  
 **mi suka mau o vaf.**
 – I like cats or dogs.  
@@ -430,27 +430,27 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 Expressions are affirmative by default.
 
-**mi si xefe.**
+**mi e xefe.**
 – I am the boss.  
-**ya si nove meza.**
+**ya e nove meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
 **ye**
 ('yes indeed').
 
-**mi ye si xefe.**
+**mi ye e xefe.**
 – I indeed am the boss.  
-**ya ye si nove meza.**
+**ya ye e nove meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**ya no si xefe.**
+**ya no e xefe.**
 – He is not the boss.  
-**ya no si nove meza.**
+**ya no e nove meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.

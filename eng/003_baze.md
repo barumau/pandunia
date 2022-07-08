@@ -89,15 +89,20 @@ To negate a word, add **no** before it.
 
 ### To be
 
-The verb **si** means 'to be'.
+The verb **e** means 'to be'.
 It can be left out in very simple sentences.
 
-**mi un jen.**
-– I'm a person.  
-**mi si un jen.**
+**mi e jen.**
 – I am a person.  
-**mi vol si un mau.**
-– I want to be a cat.
+**mi jen.**
+– I'm a person.
+
+It can't be left out when it is part of a serial verb.
+
+**mi vol e mau.**
+– I want to be a cat.  
+**mi vol mau!**
+– I want a cat!
 
 ### Multi-purpose words
 
@@ -108,7 +113,7 @@ Pandunia words can be ambiguous because they often have more meanings compared t
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau e un vaf. mi max ha un fem ben. ya ame mau!**
+**pre tri nen, mi ha du mau i un vaf. mi max ha un fem ben. ya ame mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -164,9 +169,9 @@ Modifiers are compared with
 **min** 'less', **minim** 'least' and **par** 'equally, as'.
 The point of comparison is introduced with **ka** 'than, as'.
 
-**tu si max lau ka mi.**
+**tu e max lau ka mi.**
 – You are older than me.  
-**tu si maxim lau.**
+**tu e maxim lau.**
 – You are the oldest.
 
 ### Questions

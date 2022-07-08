@@ -623,7 +623,7 @@ escroquer - truke
 espace (zone, région) - aria  
 espace - kali harfe  
 estrade - tai  
-et - e  
+et - i  
 ethnie (ethnique) - zuke  
 Europe - Europe  
 europium - europium  
@@ -1891,7 +1891,7 @@ zèbre - zebra
 éventail - sanze  
 évident - exvidable  
 évident - exvide  
-être - si  
+être - e  
 être couché - kusu  
 être humain - human  
 être présent - zay  

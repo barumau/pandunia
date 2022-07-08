@@ -304,7 +304,7 @@
 **dus** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
 **duse** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
 **duxe** *duŝo* ← franca:douche, hispana:portugala:ducha, deu:Dusche, rusa:душ (duš), araba: دوش (dūš), malaja:dus, turka:duş  
-**e** *kaj* ← franca:et, portugala:e, hispana:y;e, mandarena:和 (hé)  
+**e** *esti* ← franca:est (ɛ), portugala:é, persa: است (ast/e), hindia:है (ɦɛ:), itala:è, ukr:є (ye) + filipina:ay (ay/e)  
 **eglis** *preĝejo* ← angla:ecclesia-, franca:église, hispana:iglesia, portugala:igreja, hindia:गिरजा (girjā), malaja:gereja, araba:(kanisā), svahila:kanisa, turka:kilise  
 **ekia** *naturo* ← angla:hispana:portugala:eco-, franca:éco-, deu:öko-, rusa:эко-, turka:malaja:eko-  
 **ekolojia** ** ← deu:Ökologie, angla:ecology, franca:écologie, rusa:экология (ekologiya), malaja:ekologi, turka:ekoloji, svahila:ikolojia  
@@ -540,6 +540,7 @@
 **hurargente** ** ← svahila:hidrajiri  
 **hure** *libera* ← araba: حر (ḥurr), turka:hür, svahila:huru, hispana:horro, portugala:forro  
 **hux** *agrabla* ← persa: خوش‎ (xoš), hindia:ख़ुश (xuś), bengala:খুশি (khuśi), turka:hoş, angla:cushy  
+**i** *kaj* ← hispana:y, portugala:e, rusa:и (i)  
 **ice** *volo* ← vjetnama:ý chí, mandarena:意志 (yìzhì), korea:(uiji), japana:(ishi), + hindia:इच्छा (icchā), teluga:ఇచ్చ (icca)  
 **ide** *ideo* ← franca:idée, deu:Idee, hat:malaja:ide, persa:(ide), portugala:ideia, rusa:идея (ideya), vjetnama:ý định  
 **idiote** ** ← angla:deu:franca:malaja:idiot, hispana:portugala:idiota, rusa:идиот (idiot)  
@@ -1490,6 +1491,7 @@
 **xenon** *ksenono* ← angla:xenon, franca:xénon, hispana:xenón, portugala:xénon, rusa:ксенон, mandarena:氙 (xiān), japana:キセノン, korea:크세논, vjetnama:xenon, hindia:ज़ेनान, bengala:জেনন, malaja:xenon, svahila:zenoni, araba: إكسينون  
 **xenseng** ** ← mandarena:先生 (xiānshēng), kantona:先生 (sin1saang1), japana:先生 (sensei), korea:선생 (seonsaeng), vjetnama:tiên sinh, malaja:sinse, taja:ซินแส (sin-see), angla:sensei  
 **xere** *segilo* ← alb:sharrë + hispana:sierra, portugala:serra + आरा (ārā) + araba: مِنْشَار‎ (minšār), persa: منشار‎ (menšâr)  
+**xi** ** ← mandarena:氏 (shì), kantona:氏 (si6), japana:氏 (-shi), korea:씨 (ssi) + malaja:si + hindia:श्री (śrī), bengala:শ্রী  (śri)  
 **xibai** *malsukceso* ← mandarena:失败 (shībài), japana:失敗 (shippai), korea:실패 (šilpæ), vjetnama:thất bại  
 **xim** *koro* ← korea: 심 (shim), mandarena:心 (xīn), japana:心 (shin), kantona:心 (sam1), hakaa:心 (sîm), vjetnama:tim  
 **xin** *kredo* ← mandarena:信 (xìn), kantona:信 (seon3), japana:信 (shin), vjetnama:tin  
