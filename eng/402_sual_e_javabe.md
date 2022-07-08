@@ -318,6 +318,21 @@ So the letter *c* is free to be reassigned to some useful sound.
 
 ## Vocabulary
 
+#### Where Pandunia's words come from?
+
+Pandunia's words come from all parts of the world.
+
+In our opinion the world language should be a mix of all languages in the world.
+That's why Pandunia has at least a few words in common with almost all languages of the world,
+because every language has borrowed at least some international words from the major languages
+from where Pandunia words are borrowed too.
+
+![](http://www.pandunia.info/grafe/logasle.png "Bar chart depicting lexical similarity")  
+Figure. Bar chart showing the percentage of words similar in the source languages and Pandunia.
+
+![](http://www.pandunia.info/grafe/logasar.png "Pie chart depicting influence distribution")  
+Figure. Pie chart showing distribution of influence from the main source languages to Pandunia.
+
 #### Why Pandunia doesn't take words from all languages?
 
 About 6000-7000 languages are spoken in the world today.
