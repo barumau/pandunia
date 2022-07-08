@@ -98,10 +98,31 @@ The numbers of speakers are from the Power Language Index and the Wikipedia.
 | Vietnamese       |      76 million |    1 million        | 43 | East Asian          | Austroasiatic        |
 | Hausa            |      51 million |   26 million        |114 | Afro-Asian          | Afro-Asiatic         |
 
-The numbers make it clear that Mandarin Chinese is by far the largest language by number of native speakers,
-while English is the language with the greatest number of second language speakers.
-Both of them are spoken by over one billion speakers in total.
-However they are followed by languages, whose speakers are also counted in hundreds of millions.
+They represent also a good mix of cultures and regions of the world.
+The table below shows the number of countries by continent where the 20 source languages have an official status.
+
+| Language   | America  | Europe   | Africa   | Asia     | Oceania  |
+|------------|----------|----------|----------|----------|----------|
+| English    |    14    |    3     |   23     |    5     |    14    |
+| French     |     2    |    5     |   21     |          |     1    |
+| Spanish    |    18    |    1     |    1     |          |          |
+| Portuguese |     1    |    1     |    6     |    1     |          |
+| Russian    |          |    2     |          |    3     |          |
+| German     |          |    6     |          |          |          |
+| Arabic     |          |          |   11     |   12     |          |
+| Swahili    |          |          |    5     |          |          |
+| Hausa      |          |          |    2     |          |          |
+| Turkish    |          |    1     |          |    1     |          |
+| Persian    |          |          |          |    3     |          |
+| Hindi-Urdu |          |          |          |    2     |          |
+| Bengali    |          |          |          |    2     |          |
+| Tamil      |          |          |          |    3     |          |
+| Malay      |          |          |          |    4     |          |
+| Mandarin   |          |          |          |    3     |          |
+| Cantonese  |          |          |          |   (1)    |          |
+| Japanese   |          |          |          |    1     |          |
+| Korean     |          |          |          |    2     |          |
+| Vietnamese |          |          |          |    1     |          |
 
 
 ## Word selection method
@@ -175,6 +196,66 @@ They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
 So the Pandunia word for language becomes **baxe**.
 
+### Western words
+ 
+Typically Western words have this structure: prefix + root +
+suffixes. Usually the root ends in a consonant.
+
+For example in Spanish, the root cort- (short) can be combined with
+affixes to produce different kinds of words.
+
+- Adjectives: corto (masc.), corta (fem.)
+- Noun: cortedad
+- Verb: acortar
+
+Also English uses comparable affixes.
+
+- Adjectives: short, shorter, shortest
+- Nouns: shortness, shorty
+- Verb: shorten
+
+Pandunia borrows the roots of Western words. The goal is to select a
+form that sounds familiar to speakers of as many languages as possible.
+
+| Pandunia word | English    | Portuguese | Spanish    | French     | German     | Russian    |
+|---------------|------------|------------|------------|------------|------------|------------|
+| **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
+| **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
+| **marce**     | march      | marcha     | marcha     | marche     | Marsch     | marš       |
+| **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
+
+
+### Sinitic words
+
+Sinitic words are words from Middle Chinese that are used today in
+languages of East Asia, including Chinese languages, Japanese, Korean
+and Vietnamese. Sinitic words are single-syllable words or compounds
+of syllabic elements.
+
+Middle Chinese had lexical tone. Today Chinese languages and
+Vietnamese have tones but they are not the same as in Middle Chinese.
+Japanese and Korean are not tonal languages so they have ignored the
+tones. Also Pandunia ignores the tones. (To ignore the tones is about
+the same as to ignore the stress accent or pitch accent of other
+source languages.)
+
+Middle Chinese had unreleased stop consonants, which are usually
+written -p, -t and -k. Cantonese, Vietnamese and Korean keep them
+mostly as they were. Mandarin has deleted them. Japanese has added a
+vowel to ease pronunciation. Pandunia keeps the final stops and adds
+a normal PoS suffix.
+ 
+| 字 | Pandunia root | Cantonese  | Mandarin   | Japanese   | Korean     | Vietnamese |
+|----|---------------|------------|------------|------------|------------|------------|
+| 水 | **sui**       | sui        | shuǐ       | sui        | su         | thuỷ       |
+| 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
+| 心 | **xim**       | sam        | xīn        | shin       | sim        | tâm        |
+| 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
+| 讀 | **duge**      | duk        | dú         | doku       | dok        | đọc        |
+| 出 | **cute**      | cœt        | chū        | shutsu     | chul       | xuất       |
+
+Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, but it is nothing new
+– Sinitic words are already inflected in Korean!
 
 ### Examples of global words
 

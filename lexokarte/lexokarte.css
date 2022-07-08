@@ -1,3 +1,8 @@
+p {
+    background-color: white;
+    padding: 2px;
+}
+
 /* kontener intene image i kitabe */
 .kontener {
   position: relative;
@@ -7,15 +12,15 @@
 
 .eng {
   position: absolute;
-  left: 120px;
-  top: 90px;
+  left: 180px;
+  top: 110px;
   border: 1px solid brown;
 }
 
 .fra {
   position: absolute;
-  left: 415px;
-  top: 100px;
+  left: 400px;
+  top: 105px;
   border: 1px solid green;
 }
 
@@ -36,7 +41,7 @@
 .rus {
   position: absolute;
   left: 560px;
-  top: 55px;
+  top: 45px;
   border: 1px solid violet;
 }
 
@@ -92,7 +97,7 @@
 .ben {
   position: absolute;
   left: 736px;
-  top: 195px;
+  top: 200px;
   border: 1px solid red;
 }
 
@@ -120,28 +125,28 @@
 .tur {
   position: absolute;
   left: 525px;
-  top: 140px;
+  top: 120px;
   border: 1px solid violet;
 }
 
 .tam {
   position: absolute;
   left: 670px;
-  top: 240px;
-  border: 1px solid yellow;
+  top: 230px;
+  border: 1px solid red;
 }
 
 .deu {
   position: absolute;
   left: 465px;
-  top: 95px;
-  border: 1px solid yellow;
+  top: 75px;
+  border: 1px solid blue;
 }
 
 .fas {
   position: absolute;
   left: 590px;
   top: 160px;
-  border: 1px solid yellow;
+  border: 1px solid red;
 }
 
