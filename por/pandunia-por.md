@@ -27,7 +27,7 @@ air - ar
 airobike - aeróbico  
 anairobike - anaeróbico  
 airogun - força aérea  
-airoporte - aeroporto  
+airoporta - aeroporto  
 ais - gelar  
 aishoke - hóquei no gelo  
 aiskrem - sorvete (gelado)  
@@ -217,7 +217,6 @@ buton - botão
 
 ## C  
 
-ce - que (como)  
 cai - chá  
 caikupe - chavena (tigela de chá)  
 caipote - bule  
@@ -256,9 +255,6 @@ cini manter - mandarim
 cinoniponi - sino-japonês  
 cinovieti - sino-vietnamita  
 cire - rasgar  
-• civike - cívico  
-• civile - civil  
-• civopedia - educação cívica  
 coi - verdura  
 coklate - chocolate  
 coklatobaton - barra de chocolate  
@@ -479,9 +475,7 @@ Germania - Germânia
 germanium - germânio  
 gestolingue - linguagem de sinais  
 gide - guiar  
-gider - guia  
-gihade - luta  
-• gihadiste - jihadista  
+• gider - guia  
 gitar - guitarra  
 giuke - jade  
 glise - deslizar  
@@ -519,7 +513,7 @@ haicau - erva marinha
 haigel - medusa  
 haigun - marinha  
 haihiyar - pepino-do-mar (holotúrias)  
-haiporte - porto marítimo  
+haiporta - porto marítimo  
 haitate - costa  
 hake - direito  
 hal - estado  
@@ -552,6 +546,7 @@ Hinde riu - Indo
 hindium - índio  
 hisabe - calcular  
 • hisabolojia - matemática  
+• historia - história  
 hoge - fogo  
 hoge - queimar  
 hogu - queimarse  
@@ -606,18 +601,22 @@ jau - cevada
 jeke - emprestar (pedir emprestado)  
 jekocepe - pedir emprestado  
 jekodone - emprestar  
+jen - pessoa  
+• dusojen - inimigo  
 jenju - pérola  
 • jetaje - projétil  
 • projete - projeto  
 • projetaje - projeto  
 jetografe - projeção  
+jihade - luta  
+• jihadiste - jihadista  
 jinje - jengibre  
 jiraf - girafa  
 jive - vida  
 jive - vivo  
 jongle - fazer malabarismo  
 • jongler - malabarista  
-jube - manto  
+juba - manto  
 • judokan - tribunal  
 • juder - juiz  
 • exjude - extrajudicial  
@@ -631,6 +630,7 @@ juste - exato (preciso)
 
 ## K  
 
+ka - que (como)  
 kable - corda (cabo)  
 kaboge - abóbora (jerimun)  
 kadium - cádmio  
@@ -735,7 +735,7 @@ kopernikium - copernício
 kore - núcleo (cerne)  
 kore - correr  
 korer - corredor  
-biu - коралл  
+koral - coral  
 korne - corno  
 kornomelon - pepino-africano (kiwano)  
 kortokrokodil - aligátor (jacaré)  
@@ -855,7 +855,7 @@ lutetium - lutécio
 
 ## M  
 
-me - mãe  
+ma - mãe  
 • matre - mãe  
 • matria - pátria-mãe  
 mace - partida  
@@ -1077,7 +1077,7 @@ oxide - óxide
 
 ## P  
 
-pe - pai  
+pa - pai  
 • patria - pátria  
 • expatrian - expatriado  
 • konpatrian - compatriota (compatrício)  
@@ -1120,8 +1120,6 @@ patolojia - patologia
 patomis - infecção (contágio)  
 patomise - infectar (contagiar)  
 pau - arma de fogo  
-• repause - repouso  
-• repause in pace (RIP) - descanse em paz  
 pauze - pausa  
 peikar - profissão  
 peikari ziu - carreira  
@@ -1170,7 +1168,7 @@ inplozu - implodir
 plum - ameixa  
 plumbe - chumbo  
 plutonium - plutónio  
-bio - вошь  
+poyu - piolho  
 Polinesia - Polinésia  
 polite - governo  
 politomode - regime  
@@ -1179,10 +1177,10 @@ polskium - polónio
 pore - poro  
 • porosi - poroso  
 porei - alho-porro  
-porte - porto  
 porte - portar  
 • reporte - relato  
 • reporter - repórter  
+porta - porto  
 portorike - porto-riquenho  
 Portoriko - Porto Rico  
 postre - posterior  
@@ -1205,6 +1203,8 @@ protacinium - protacnídio
 proxe - próximo  
 • aproxe - aproximar  
 pudu - apodrecer-se  
+pujokan - templo  
+pujomeza - altar  
 pul - ponte  
 pure - cheio  
 purbone - aperfeiçoar  
@@ -1213,8 +1213,6 @@ purfitoyamiste - vegetalista
 pursipe - ensopar (encharcar, marinar)  
 • konputer - computador  
 putavorange - toranja  
-puzokan - templo  
-puzomeze - altar  
 
 ## R  
 
@@ -1235,12 +1233,15 @@ ratibe - ordem
 razi table - tábula rasa  
 retre - retornar (voltar)  
 retroguli sense - náusea  
+reje - reinar  
 rel - real  
 • relia - realidade  
 • relize - realizar (concretizar)  
 rel televizion - televisão de realidade  
 renium - rénio  
 rentogenium - roentgênio  
+reste - repouso  
+reste in pace (RIP) - descanse em paz  
 ri- - repetição  
 rim - rima  
 ring - anel  
@@ -1330,6 +1331,7 @@ sexolojia - sexologia
 sexolojia - sexologia  
 siborgium - seabórgio  
 • inside - agacharse  
+• presidente - presidente  
 sifolexe - adjetivo  
 sigar - cigarro  
 siyahe - preto  
@@ -1342,6 +1344,9 @@ silke - seda
 sire - ocultar (esconder)  
 sirplan - complô (conspiração)  
 site - cidade  
+• sivike - cívico  
+• sivile - civil  
+• sivopedia - educação cívica  
 six - seis (6)  
 • askale - escalar  
 skandium - escândio  
@@ -1567,19 +1572,20 @@ xingofote - cintilar
 xipe - molhar (molhado)  
 • xipete - úmido  
 xipostan - brejo (paul)  
+• xiria - poesia  
 xite - merda  
 Xiva - Xiva  
 xofe - conduzir  
 • xofer - condutor (chofer, motorista)  
 xope - comprar (compras)  
 xukre - obrigado  
-xul - lição  
 xule - aprender  
-xulia - educação  
-xulane - ensinar (lecionar)  
-xulaner - professor (docente)  
-xulkan - escola (colégio)  
-xulxefe - diretor  
+• xulia - educação  
+• xulaje - lição  
+• xulize - ensinar (lecionar)  
+• xulizer - professor (docente)  
+• xulokan - escola (colégio)  
+xuloxefe - diretor  
 xure - começo (início, princípio)  
 
 ##   
@@ -1595,8 +1601,6 @@ yau - necessitar (necessidade)
 • beyau - necessário  
 ye - sim  
 yege - caçar  
-jen - pessoa  
-• dusojen - inimigo  
 yodium - iodo  
 • yogiste - iogui  
 yogur - iogurte  

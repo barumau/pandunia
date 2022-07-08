@@ -92,7 +92,7 @@ airbarmetrer - barometer
 airobike - aerobic  
 anairobike - anaerobic  
 airogun - airforce  
-airoporte - airport (aeroport)  
+airoporta - airport (aeroport)  
 ais - ice (freeze; icy, frozen)  
 aishoke - ice hockey  
 aiskrem - ice cream  
@@ -501,7 +501,6 @@ buze - goat
 
 ## C  
 
-ce - than (as, compared to)  
 cabe - key  
 Cadia - Chad  
 cai - tea  
@@ -602,13 +601,6 @@ circire - tear up (tatter, shred)
 cirtexe - rag (tattered cloth)  
 cite - quote (cite)  
 citomarke - quotation mark  
-cive - citizen  
-• civike - civic  
-• civile - civil  
-• civilade - civilized (civil)  
-• civilia - civilization  
-• civilian - civilian  
-• civopedia - civics  
 code - fuck (copulate)  
 • codokan - whorehouse  
 coi - greens  
@@ -1290,11 +1282,8 @@ gestolingue - sign language
 Gibraltar - Gibraltar  
 Gibuti - Djibouti  
 gide - guide (lead, show the way)  
+• gider - guide  
 gidobuke - guide book  
-gider - guide  
-gihade - struggle (strife)  
-• gihadisme - jihadism  
-• gihadiste - jihadist (mujahid)  
 ginge - longitudinal (vertical)  
 gingolin - warp  
 gitar - guitar  
@@ -1396,7 +1385,7 @@ haigel - jellyfish (seajelly)
 haigun - sea force (navy)  
 haihiyar - sea cucumber  
 hainile - aqua (teal)  
-haiporte - harbor (seaport)  
+haiporta - harbor (seaport)  
 haitate - coast (beach)  
 haide - let's  
 Haiti - Haiti  
@@ -1557,8 +1546,7 @@ hux - nice (pleasant, comfortable, cushy)
 ## I  
 
 i - and  
-–i - suffix for adjectives  
-–ia - area of thinking or being  
+ia - area of thinking or being  
 ibre - Hebrew  
 ice - will (volition, desire)  
 anice - reluctant  
@@ -1640,13 +1628,16 @@ jekolexe - loanword
 jele - imprison (jail)  
 • jelokan - prison  
 • jeler - jailer (imprisoner)  
+jen - person (individual)  
 jenisme - Jainism  
+• dusojen - enemy (foe, villain)  
 no jen - nobody (no-one)  
 jeng - fight (war, battle, combat)  
 jenge - military (martial, warlike)  
 • jenger - warrior (fighter)  
 jengoxute - martial art  
 jenju - pearl  
+jensen - ginseng  
 Jerzi - Jersey  
 jete - thrust (throw, cast)  
 • jetaje - projectile (missile)  
@@ -1661,6 +1652,9 @@ injete - inject
 • subjete - subject  
 jetografor - image projector  
 jetografe - project (cast; projection image)  
+jihade - struggle (strife)  
+• jihadisme - jihadism  
+• jihadiste - jihadist (mujahid)  
 jin - real (authentic, genuine)  
 jinje - ginger  
 jiraf - giraffe  
@@ -1671,7 +1665,7 @@ joke - joke
 joker - joker  
 jongle - juggle  
 • jongler - juggler  
-jube - robe (jubbah)  
+juba - robe (jubbah)  
 jude - judge (judgment, sentence; judicial)  
 • judokan - court of law (court of law)  
 • juder - judge (referee)  
@@ -1690,6 +1684,7 @@ justopaver - sniper (sharpshooter)
 
 ## K  
 
+ka - than (as, compared to)  
 kababe - barbecue (grill)  
 kababe manse - grilled meat (kebab)  
 kabau - water buffalo  
@@ -1974,15 +1969,15 @@ kope - copy (replicate)
 kopohake - copyright  
 kopernikium - copernicium  
 kore - core (heart, nucleus, kernel)  
-kori fenia - nuclear fission  
-kori fizikia - nuclear physics  
+kore fenia - nuclear fission  
+kore fizikia - nuclear physics  
 kore - run  
 kori arme - nuclear weapon (nuke)  
 kori energia - nuclear energy  
 • koraje - guts (courage)  
 korer - runner  
 korofuzion - nuclear fusion  
-biu - corail  
+koral - coral  
 korne - horn  
 kornomelon - horned melon (kiwano)  
 kornonos - rhinoceros  
@@ -2290,11 +2285,11 @@ Luxemburge - Luxembourg
 
 ## M  
 
-me - mom (mama)  
-mame - maternal grandmother  
-mape - maternal grandfather  
+ma - mom (mama)  
 • matre - mother  
 • matria - motherland  
+mamatre - maternal grandmother  
+mapatre - maternal grandfather  
 mace - compete (match, contest)  
 madu - honey  
 maduvespe - honeybee  
@@ -2694,6 +2689,7 @@ nasmede - international
 • polinase - multinational  
 • polinasike - multinational  
 nasibe - destiny (fate)  
+nate - birth  
 • nature - nature  
 • innate - innate (endogenous, indigenous, inborn)  
 • posnatal - postnatal  
@@ -2899,14 +2895,14 @@ oze - functional disease or disorder
 
 ## P  
 
-pe - dad (papa)  
-pame - paternal grandmother  
-pape - paternal grandfather  
+pa - dad (papa)  
 • patre - father  
 • patria - fatherland  
 • expatrian - expatriate  
 • konpatrian - compatriot (fellow citizen)  
 • repatriate - repatriate  
+pamatre - paternal grandmother  
+papatre - paternal grandfather  
 pace - peace  
 • pacisme - pacifism  
 • paciste - pacifist  
@@ -2972,6 +2968,7 @@ paru - equal
 • paran - peer  
 • parike - peer  
 • konpare - compare  
+• prepare - ready (prepared; prepare)  
 • repare - repair (restore to equal condition)  
 parline - parallel (longitudinal)  
 parlinu - align (go along)  
@@ -3020,10 +3017,7 @@ patate - potato
 pau - gun (firearm)  
 pave - shoot (fire)  
 paunde - pound (£)  
-• repause - rest (repose)  
-• repause in pace (RIP) - rest in peace (RIP)  
-pauze - pause (break, interruption)  
-pauze - pause (interrupt)  
+pauze - pause (break, interrupt; interruption)  
 pede - bring up (educate, raise)  
 • pedia - education (upbringing)  
 • pedocentriste - pedocentrist  
@@ -3145,7 +3139,7 @@ plum - plum (prune)
 plumbe - lead  
 Pluton - Pluto (dwarf planet)  
 plutonium - plutonium  
-bio - pou  
+poyu - louse  
 poke - poker  
 polfas - polyhedron  
 polmene - ambiguous  
@@ -3175,7 +3169,6 @@ pore - pore
 porei - leek  
 porne - porn  
 pornografia - pornography  
-porte - port (station)  
 porte - carry (bear)  
 • exporte - export  
 • reporte - report (bring back news)  
@@ -3185,6 +3178,7 @@ reporte - report (recount, relate)
 • reporter - reporter  
 • suporte - support (carry from below)  
 • trasporte - transport  
+porta - port (station)  
 portorike - Puerto Rican  
 Portoriko - Puerto Rico  
 Portugal - Portugal  
@@ -3231,7 +3225,6 @@ prese - press (pressure)
 • konprese - compress (squeeze, squish)  
 • represe - repress (push back)  
 • suboprese - suppress (press down)  
-prezidente - president  
 pro - forward  
 • pro- - forward (to the front)  
 problem - problem (issue)  
@@ -3250,6 +3243,11 @@ proxe - close (near)
 pude - rotten  
 pudu - decay (rot, deteriorate)  
 puding - pudding  
+puje - worship (reveration)  
+puje - worship (revere)  
+pujokan - temple (place of worship)  
+pujomeza - altar  
+pujorite - ritual (ceremony, religious custom)  
 pul - bridge  
 pulmon - lung  
 puma - cougar (puma, mountain lion)  
@@ -3278,16 +3276,9 @@ putau - grape
 putavorange - grapefruit  
 Putong Cini - Mandarin Chinese (Putonghua)  
 putonge - common (general)  
-puze - worship (reveration)  
-puze - worship (revere)  
-puzokan - temple (place of worship)  
-puzomeze - altar  
-puzorite - ritual (ceremony, religious custom)  
 
 ## R  
 
-–r - doer (agent, actor)  
-ria - field (art, workforce)  
 rade - ray  
 rade - radiate  
 radi geter - radio receiver  
@@ -3344,11 +3335,11 @@ retrogule - throw up (vomit, regurgitate)
 retroguli sense - nausea (motion sickness)  
 Rea - Rhea  
 • realaje - thing (matter, topic)  
-rede - ready (prepared; prepare)  
-rege - royal  
-• regia - kingdom  
-• regoben - prince or princess  
-• reger - king or queen  
+reje - reign  
+• rejia - kingdom  
+• rejoben - prince or princess  
+• rejike - royal  
+• rejer - king or queen  
 rel - real (genuine)  
 • relia - reality  
 • relisme - realism  
@@ -3360,6 +3351,8 @@ renium - rhenium
 rentogenium - roentgenium  
 resete - instructions (recipe)  
 reside - receipt (acknowledgement; acknowledge)  
+reste - rest (repose)  
+reste in pace (RIP) - rest in peace (RIP)  
 restorante - restaurant  
 Reunion - Réunion  
 rezin - resin  
@@ -3655,8 +3648,13 @@ sismolojia - seismology
 sistem - system  
 sisteme - systemic  
 site - city (town)  
-sivile - civilized (civil)  
-sivilia - civilization  
+sive - citizen  
+• sivike - civic  
+• sivile - civil  
+• sivile - civilized (civil)  
+• sivilia - civilization  
+• sivilian - civilian  
+• sivopedia - civics  
 six - six (6)  
 • sixime - sixth  
 sixofase - hexahedron (cube)  
@@ -3944,8 +3942,8 @@ texte - text
 • kontexte - context  
 • kontexti - contextual  
 ticin - bow instrument (violin, etc.)  
-tike - piece (nugget, tikka)  
-• tikete - ticket  
+tike - slice  
+• tikete - ticket (slip)  
 • retrotikete - return ticket  
 tim - team  
 Timor - Timor  
@@ -4081,10 +4079,9 @@ unomaro - once
 unomene - unambiguous  
 unoki lense - monocle  
 unorange - monochrome  
-volfe - wolf  
 Uran - Uranus  
 uranium - uranium  
-urde - Urdu  
+urdu - Urdu  
 Urdun - Jordan  
 urse - bear  
 Uruguai - Uruguay  
@@ -4250,6 +4247,7 @@ voke - call (voice; summon)
 • provoke - provoke  
 • revoke - revoke (call back)  
 vol - want (desire, wish; longing)  
+volfe - wolf  
 volfram - tungsten (wolfram)  
 Volof - Wolof (language and people)  
 volte - volt (V)  
@@ -4310,14 +4308,15 @@ xipe - wet
 • perxipe - soak (drench)  
 xipostan - wetland  
 xir - poem  
+• xiria - poetry  
 • xirer - poet  
 xirope - syrup  
 xixkababe - shish kebab  
 xite - shit (poop, feces)  
 Xiva - Shiva  
 xixe - impale (stab, skewer)  
-sis - skewer  
-sismanse - shashlik  
+xix - skewer  
+xixomanse - shashlik  
 xofe - drive (steer)  
 • xofer - chauffeur (driver)  
 xoke - shock (collision)  
@@ -4326,15 +4325,15 @@ xoper - buyer
 xou - show (display; exhibition)  
 xukre - thank (thanks, thank you)  
 xukria - gratitude (thankfulness)  
-xul - lesson (teaching)  
 xule - learn (study)  
-xulia - education (schooling)  
-xulane - teach (educate, instruct)  
-xulaner - teacher  
-xulkamar - classroom  
-xulkan - school (institution)  
-xuler - student (pupil, learner)  
-xulxefe - headmaster (principal)  
+• xulia - education (schooling)  
+• xulaje - lesson (teaching)  
+• xulize - teach (educate, instruct)  
+• xulizer - teacher  
+• xulokan - school (institution)  
+• xuler - student (pupil, learner)  
+xulokamar - classroom  
+xuloxefe - headmaster (principal)  
 xure - begin (start, commence, initiate)  
 xute - skill (art, craft)  
 • xutike - skillful (crafty)  
@@ -4375,9 +4374,6 @@ yege - hunting (fishing)
 • yeger - hunter (chasseur)  
 yege pexe - catch fish  
 Yemen - Yemen  
-jen - person (individual)  
-• dusojen - enemy (foe, villain)  
-jensen - ginseng  
 yesus - Jesus  
 yeze - coconut tree  
 yo - one (someone)  
@@ -4436,7 +4432,9 @@ zay zaman - present time (now)
 zay zaman su - current (contemporary, present-day)  
 Zayeria - Algeria  
 zebra - zebra  
+zele - zeal  
 • zelose - jealous  
+zerve - reserve (store)  
 • rezerve - reserve (book; reservation, booking, withholding)  
 zeta - zetta-  
 zeze - fly  

@@ -67,7 +67,7 @@ ajaa takaisin - repele
 ajaa ulos - expele  
 ajaa yhteen - konpele  
 ajatella (miettiä; ajatus) - fikre  
-ajattelun, olemisen tai ihmisten ala tai alue - –ia  
+ajattelun, olemisen tai ihmisten ala tai alue - ia  
 akaasia - babul  
 akku (paristo) - batre  
 akseli - axe  
@@ -97,7 +97,7 @@ allas - basen
 allatiivi - alative  
 allofoni (vaihtoehtoinen ääntämys) - alofon  
 alpakka - alpaka  
-alttari - puzomeze  
+alttari - pujomeza  
 alue (seutu) - aria  
 alue (seutu) - stan  
 alumiini - aluminium  
@@ -168,7 +168,7 @@ arvotavarat - valaje
 arvotus - valure  
 ase - arme  
 aseksuaali - ansexe  
-asema (satama, lentokenttä) - porte  
+asema (satama, lentokenttä) - porta  
 asema (sijainti) - pozia  
 asema - statia  
 asento - asan  
@@ -562,6 +562,7 @@ hallinto (hallinnointi) - nomia
 hallinto - polite  
 hallintomuoto - politomode  
 hallita (hallinnoida) - polite  
+hallita kuninkaana - reje  
 hallita yksinvaltaisesti - impere  
 hallitseva - dominente  
 haltia (tonttu) - elfe  
@@ -837,7 +838,7 @@ Iran - Iran
 iridium - iridium  
 Irlanti - Eire  
 irvistys - grimas  
-isi - pe  
+isi - pa  
 isku (šokki) - xoke  
 islam - islamia  
 islam - islamisme  
@@ -852,12 +853,12 @@ isoäiti - cinmai
 Israel - Israel  
 istua - side  
 isä - patre  
-isänisä - pape  
+isänisä - papatre  
 isänmaa - patria  
 isännöidä (hallita, dominoida) - domine  
 isäntä (pomo) - malike  
 isäntä - dominer  
-isänäiti - pame  
+isänäiti - pamatre  
 isäpuoli (äidin puoliso) - visopatre  
 Italia - Italia  
 itkeä - vava  
@@ -902,8 +903,8 @@ jazz (jatsi) - jaze
 Jeesus - yesus  
 Jemen - Yemen  
 Jersey - Jerzi  
-jihadismi - gihadisme  
-jihadisti - gihadiste  
+jihadismi - jihadisme  
+jihadisti - jihadiste  
 jodi - yodium  
 jogurtti - yogur  
 johanneksenleipäpuu - karube  
@@ -986,7 +987,7 @@ kaaos - haos
 kaapeli (johto) - kable  
 kaappaus (merirosvous) - piratia  
 kaappi - almari  
-kaapu - jube  
+kaapu - juba  
 kaari - arke  
 kaasu - gas  
 kade (kateellinen) - zelose  
@@ -1031,7 +1032,7 @@ Kamerun - Kamerun
 kammo (fobia) - fobia  
 kamomilla - kamil  
 kampa - kang  
-kamppailu (taistelu) - gihade  
+kamppailu (taistelu) - jihade  
 kamppailulaji - jengoxute  
 kana - kokode  
 Kanada - Kanade  
@@ -1048,7 +1049,7 @@ kansa - nasian
 kansainvälinen - nasmede  
 kansakunta - nasia  
 kansalainen (valtion asukas) - gogian  
-kansalaistaito - civopedia  
+kansalaistaito - sivopedia  
 kansallinen - nase  
 kansallissosialismi - nasi sosisme  
 kansallisuusaate (nationalismi) - nasisme  
@@ -1154,7 +1155,6 @@ kerta (vuoro) - mar
 kertomus (tarina, saaga) - sage  
 kerubi - kerube  
 keräilykortti - jamokarde  
-keskeyttää (tauottaa) - pauze  
 Keski-Afrikan Tasavalta - Zungafrike  
 keskittyminen (keskittymä) - fokus  
 keskittää - fokuse  
@@ -1309,7 +1309,7 @@ kopioida (jäljentää) - kope
 kopiointioikeus (tekijänoikeus) - kopohake  
 koppi (maja) - kabin  
 koraani - kuran  
-koral - biu  
+koralli - koral  
 Korea - Cosen  
 kori - baske  
 koripallo - baske bol  
@@ -1341,7 +1341,7 @@ koti- (kotoinen) - domike
 kotiinpaluu - noste  
 kotouttaa (palauttaa isänmaahan) - repatriate  
 koukku (haka) - huke  
-koulu (opisto) - xulkan  
+koulu (opisto) - xulokan  
 koulutus - xulia  
 kova - gate  
 Kreikka - Helenia  
@@ -1360,7 +1360,7 @@ kruunu - koron
 krypton - kriton  
 ksenon - xenon  
 kude - veilin  
-kuin (verrattuna) - ce  
+kuin (verrattuna) - ka  
 kuisti (terassi, veranta, parveke) - beranda  
 kuitti (kuittaus) - reside  
 kuiva (kuivata, kuivua) - gane  
@@ -1390,9 +1390,9 @@ kumpupilvi - kumulonepe
 Kungfutse - Kongfuze  
 Kungfutselaisuus - kongfuzisme  
 kuningas - mani reger  
-kuningaskunta - regia  
+kuningaskunta - rejia  
 kuningatar - femi reger  
-kuninkaallinen - rege  
+kuninkaallinen - rejike  
 kunnianarvoisa - onore  
 kunnioittaa - onore  
 kunnioitus (arvostus) - onor  
@@ -1563,13 +1563,13 @@ leirintäalue - kampostan
 lekseemi - lexeme  
 lempi (romanssi, rakkaus) - romante  
 lento (lentää) - fei  
-lentoasema (lentokenttä) - airoporte  
+lentoasema (lentokenttä) - airoporta  
 lentokone - viman  
 lentokonekaappari - vimankaper  
 lentokonekaappaus - airopiratia  
 lepakko - feimus  
-lepo - repause  
-lepää rauhassa (RIP) - repause in pace (RIP)  
+lepo - reste  
+lepää rauhassa (RIP) - reste in pace (RIP)  
 leski - vidou  
 Lesoto - Soto  
 leveyspiiri - veisirke  
@@ -1618,7 +1618,7 @@ linna (linnake, linnoitus) - burge
 linssi - lense  
 lintu - pakse  
 liota - perxipe  
-lippu (piletti) - tikete  
+lippu (lappu, piletti) - tikete  
 lippu - bandir  
 lisko - saure  
 lista (luettelo) - liste  
@@ -1659,7 +1659,7 @@ lumme - nenufar
 luodinkestävä - danosekure  
 luokitella (kategorisoida) - klase  
 luokka (kategoria) - klas  
-luokkahuone - xulkamar  
+luokkahuone - xulokamar  
 luokse (tykö, kohti, asti) - ta  
 luola - guhe  
 luolaseikkailu - dungia aventur  
@@ -1891,7 +1891,7 @@ miten? - ke mode
 Moldova - Moldove  
 molybdeeni - molidenium  
 Monaco - Monako  
-monarkki (kuningas, kuningatar) - reger  
+monarkki (kuningas, kuningatar) - rejer  
 monenlainen - vare  
 mongoli - mongole  
 Mongolia - Mongolia  
@@ -2149,12 +2149,12 @@ onomatopoeia (ääntä jäljittelevä sana) - fonomime
 oodi (värssy) - ode  
 opas (tiennäyttäjä) - gider  
 opastaa (ohjata) - gide  
-opettaa - xulane  
-opettaja - xulaner  
+opettaa - xulize  
+opettaja - xulizer  
 opiskelija - studer  
 opiskella (tutkia; tutkielma) - stude  
 oppi (doktriini) - dokaje  
-oppi (opetus) - xul  
+oppi (opetus) - xulaje  
 oppia (opiskella) - xule  
 oppilas (opiskelija) - studente  
 oppilas - xuler  
@@ -2235,7 +2235,6 @@ pakko - mus
 pakottaa - muse  
 paksu - grose  
 paksuus - grosia  
-pala - tike  
 palaa - hogu  
 palanen (murunen, riekale, sirpale) - parce  
 palatsi - daidom  
@@ -2255,8 +2254,8 @@ palvella (tarjoilla) - serve
 palvelu (palvelus) - serve  
 palvoa (fanata) - fanate  
 palvoa (fanata; fani) - fan  
-palvoa - puze  
-palvonta - puze  
+palvoa - puje  
+palvonta - puje  
 panaasialainen - panase  
 panafrikkalainen - panafrike  
 Panama - Panama  
@@ -2464,9 +2463,8 @@ potkuri (propelli) - propelor
 povi - buste  
 praseodyymi - prasedium  
 prepositio - prepoze  
-presidentti - prezidente  
 presidentti - presidente  
-prinssi tai prinsessa - regoben  
+prinssi tai prinsessa - rejoben  
 profeetta - naber  
 profeetta Mani - Manihai  
 professori - profeser  
@@ -2567,7 +2565,6 @@ päärynä - leze
 pääsiäinen - paske  
 päästä (mennä läpi) - cese  
 päästä pois (nukkua pois; edesmennyt) - decese  
-pääte: adjektiivi tai adverbi - –i  
 päätyä johtopäätökseen - infere  
 pöly (tomu) - fun  
 pölynimuri - funcuper  
@@ -2627,7 +2624,7 @@ reagoida - reate
 reaktio (vastaliike) - reation  
 realismi - relisme  
 realisti - reliste  
-rehtori - xulxefe  
+rehtori - xuloxefe  
 reikä - kong  
 rekisteri (tili) - lugia  
 rengas (kehä) - ring  
@@ -2664,7 +2661,7 @@ risteytys (hybridi) - hibride
 risti - krus  
 ristiinnaulita - krusofixe  
 ristikko - krusolin  
-rituaali (seremonia, riitti) - puzorite  
+rituaali (seremonia, riitti) - pujorite  
 rivinvaihto - linparce  
 robotti - robote  
 rodium - rodium  
@@ -2692,6 +2689,7 @@ ruma (pahannäköinen) - dusvide
 rumpu - gum  
 runo - xir  
 runoilija - xirer  
+runous - xiria  
 runsas - luxe  
 ruoho (hasis) - hasis  
 ruoho - cau  
@@ -2783,11 +2781,11 @@ sarja - seria
 sarjakuva - grafosage  
 sarvi - korne  
 sarvikuono - kornonos  
-saslik - sismanse  
+saslik - xixomanse  
 sata (100) - cente  
 sata tuhatta - deskilo  
 satakieli - bulbul  
-satama - haiporte  
+satama - haiporta  
 satanismi (paholaisenpalvonta) - xatanisme  
 satanisti - xataniste  
 sateenvarjo - barsocate  
@@ -2916,10 +2914,9 @@ sisäsyntyinen - innate
 sisäänkäynti - intromun  
 sisäänpäinsuuntautunut (introvertti) - introverse  
 sitruuna - limon  
-siviili (kansalais-) - civile  
+siviili (kansalais-) - sivile  
 sivilisaatio - sivilia  
 sivistynyt - sivile  
-sivistynyt - civilade  
 sivu (kirjassa) - varkolate  
 sivu (kylki, puoli) - late  
 sivu- - late  
@@ -2987,6 +2984,7 @@ sudenkorento - libele
 suhde (yhteys) - guanse  
 suihku - duxe  
 suihkumoottori (suihkuturbiini) - turbojeter  
+suikale (siivu) - tike  
 sukka - maze  
 suklaa - coklate  
 suklaapatukka - coklatobaton  
@@ -3053,6 +3051,7 @@ syntymän jälkeinen - posnatal
 syntymäpaikka - genoloke  
 syntymäpäivä - genoden  
 syntymää edeltävä - prenatal  
+syntyä (synty, syntymä) - nate  
 syreeni - lilake  
 syvyys - fasotelia  
 syvä - fasotele  
@@ -3193,7 +3192,6 @@ teidän - tumen su
 teippi (nauha) - tepe  
 teismi (jumalusko) - devisme  
 teisti - deviste  
-tekijä (aikaansaaja) - –r  
 tekijä (luoja) - gener  
 tekijä (toimija) - ater  
 tekijä (toimija) - feter  
@@ -3209,7 +3207,7 @@ televisio - televide
 telluuri - telurium  
 teltta - hemah  
 telugu (eräs intialainen kieli) - teluge  
-temppeli - puzokan  
+temppeli - pujokan  
 tennessine - tenesium  
 tennis - tenis  
 teokratia - deukratia  
@@ -3445,7 +3443,7 @@ upea (mahtava) - supere
 uraani - uranium  
 Uranus - Uran  
 urbaani (kaupunkilais-) - nagre  
-urdu - urde  
+urdu - urdu  
 urhea (sankarillinen) - vire  
 urheilija - sporter  
 urheilu - sporte  
@@ -3498,7 +3496,7 @@ valkoinen (valkea) - bake
 valkosipuli - lasun  
 Valkovenäjä - Belarus  
 valkuaisaine (proteiini) - proten  
-valmis (valmistautua) - rede  
+valmis (valmistautua) - prepare  
 valo - fote  
 valokuitu (valokaapeli) - fotokable  
 valokuva (foto) - fotograf  
@@ -3529,7 +3527,7 @@ varas - corer
 varastaa (varkaus) - core  
 varaus (ennakkovaraus) - rezerve  
 varjo - saye  
-varras - sis  
+varras - xix  
 varraskebab - xixkababe  
 vartalo (varsi, torso) - torse  
 vartija (vahti) - garder  
@@ -3731,9 +3729,9 @@ wolofin kansa ja kieli - Volof
 ydin (sydän) - kore  
 ydinase - kori arme  
 ydinenergia - kori energia  
-ydinfissio - kori fenia  
+ydinfissio - kore fenia  
 ydinfuusio - korofuzion  
-ydinfysiikka - kori fizikia  
+ydinfysiikka - kore fizikia  
 yhdeksän - nof  
 yhdessä - kono  
 Yhdistyneet Arabiemiirikunnat - Uni Arabi Amiria (UAA)  
@@ -3802,11 +3800,11 @@ Zimbabwe - Zimbabve
 zirkonium - zirkonium  
 zombi - zombi  
 zulu - Zulu  
-äidinisä - mape  
+äidinisä - mapatre  
 äidinkieli - genobase  
-äidinäiti - mame  
+äidinäiti - mamatre  
+äiti (emä) - ma  
 äiti (emä) - mai  
-äiti (emä) - me  
 äiti - matre  
 äitipuoli (isän puoliso) - visomatre  
 äly - intelige  

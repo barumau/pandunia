@@ -24,7 +24,7 @@ ainstainium - 锿
 air - 空气  
 anairobike - 厌氧的  
 airogun - 空军  
-airoporte - 飞机场  
+airoporta - 飞机场  
 ais - 冰 (结冰)  
 aishoke - 冰球  
 aiskrem - 冰淇淋  
@@ -206,7 +206,6 @@ buze - 山羊
 
 ## C  
 
-ce - 比  
 cai - 茶  
 caikan - 茶馆  
 caikupe - 茶碗  
@@ -437,8 +436,8 @@ gensolojia - 性别研究
 germanium - 锗  
 gestolingue - 手语  
 gide - 导游  
+• gider - 导游  
 gidobuke - 指南  
-gider - 导游  
 gingolin - 經紗  
 gitar - 吉他  
 giuke - 玉  
@@ -483,7 +482,7 @@ haiful - 海葵
 haigel - 海蜇  
 haigun - 海军  
 haihiyar - 海參  
-haiporte - 海港  
+haiporta - 海港  
 haitate - 海岸  
 hake - 权利  
 hal - 状态  
@@ -568,6 +567,8 @@ jeke - 借
 jekocepe - 借入  
 jekodone - 借出  
 • jelokan - 监狱 (监牢)  
+jen - 人  
+• dusojen - 敌人  
 jenju - 珍珠  
 • jetaje - 投掷物  
 jetografe - 投射 (投影)  
@@ -576,7 +577,7 @@ jinje - 姜
 jiraf - 长颈鹿  
 jive - 生命  
 jongle - 变戏法  
-jube - 长袍  
+juba - 长袍  
 • judokan - 法庭  
 jul - 焦耳 (J)  
 juntolexe - 连接词  
@@ -585,6 +586,7 @@ jus - 汁
 
 ## K  
 
+ka - 比  
 kable - 电缆 (电线)  
 kaboge - 南瓜  
 kade - 鱈  
@@ -685,7 +687,7 @@ kope - 摹本 (拷貝)
 kore - 核心  
 kore - 跑步  
 korer - 跑步者  
-biu - 珊瑚  
+koral - 珊瑚  
 kornomelon - 刺角瓜  
 kortokrokodil - 短吻鳄  
 kosme - 宇宙的  
@@ -793,10 +795,10 @@ lutetium - 镥
 
 ## M  
 
-me - 妈妈  
-mame - 外婆 (外祖母)  
-mape - 外公 (外祖父)  
+ma - 妈妈  
 • matre - 母亲  
+mamatre - 外婆 (外祖母)  
+mapatre - 外公 (外祖父)  
 mace - 比赛  
 maduvesposanduke - 蜂箱  
 magesium - 镁  
@@ -980,10 +982,10 @@ oxide - 氧化物
 
 ## P  
 
-pe - 爸爸  
-pame - 奶奶 (祖母)  
-pape - 爷爷 (祖父)  
+pa - 爸爸  
 • patre - 父亲  
+pamatre - 奶奶 (祖母)  
+papatre - 爷爷 (祖父)  
 pace - 和平  
 • pacisme - 和平主义  
 • paciste - 和平主义者  
@@ -1018,8 +1020,6 @@ patike - 患者 (病患)
 patolojia - 病理学  
 patomis - 传染  
 pau - 手枪  
-• repause - 休息  
-• repause in pace (RIP) - 安息  
 peikar - 职业  
 • propelor - 螺旋桨  
 pelmen - 饺子  
@@ -1056,7 +1056,7 @@ platinium - 铂
 plum - 李子  
 plumbe - 铅  
 plutonium - 钚  
-bio - シラミ  
+poyu - 虱子  
 poke - 扑克  
 poli mar - 经常  
 Polinesia - 波利尼西亚  
@@ -1066,8 +1066,8 @@ polskium - 钋
 pontopin - 指南针  
 • porosi - 多孔的  
 porei - 韭葱  
-porte - 港  
 • reporter - 记者  
+porta - 港  
 pospor - 磷  
 pote - 罐 (瓶)  
 poter - 陶瓷工  
@@ -1081,6 +1081,8 @@ proten - 蛋白质
 protacinium - 镤  
 pudu - 腐烂  
 puding - 布丁  
+pujokan - 寺庙  
+pujomeza - 圣坛  
 pul - 桥  
 puma - 美洲獅 (山狮)  
 purfine - 完成  
@@ -1089,8 +1091,6 @@ pursipe - 浸泡
 • konputer - 计算机  
 putavorange - 葡萄柚  
 putonge - 普通  
-puzokan - 寺庙  
-puzomeze - 圣坛  
 
 ## R  
 
@@ -1113,6 +1113,8 @@ retroguli sense - 恶心
 • relia - 现实  
 rel televizion - 真人秀  
 renium - 铼  
+reste - 休息  
+reste in pace (RIP) - 安息  
 ring - 环 (轮)  
 ringar - 擂台  
 ris - 米  
@@ -1401,22 +1403,23 @@ xipe - 湿 (弄湿)
 • perxipe - 湿透  
 xipostan - 湿地  
 xir - 诗  
+• xiria - 诗歌  
 xite - 粪 (屎)  
 Xiva - 湿婆  
-sis - 扦子  
-sismanse - 串烧  
+xix - 扦子  
+xixomanse - 串烧  
 xofe - 开车  
 • xofer - 司机  
 xope - 买 (购物, 血拼)  
 xukre - 谢谢  
-xul - 课  
 xule - 学习  
-xulia - 教育  
-xulane - 教学  
-xulaner - 教师 (老师)  
-xulkan - 学校  
-xuler - 学生  
-xulxefe - 校长  
+• xulia - 教育  
+• xulaje - 课  
+• xulize - 教学  
+• xulizer - 教师 (老师)  
+• xulokan - 学校  
+• xuler - 学生  
+xuloxefe - 校长  
 xure - 开始  
 xute - 技术  
 • xutike - 熟练  
@@ -1437,8 +1440,6 @@ yau - 需要
 ye - 对 (是)  
 yege - 狩猎  
 • yeger - 狩人  
-jen - 人  
-• dusojen - 敌人  
 yodium - 碘  
 yoge - 瑜伽功  
 • yogiste - 瑜伽士  

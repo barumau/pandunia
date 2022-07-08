@@ -42,7 +42,7 @@ air - powietrze
 airbaria - ciśnienie atmosferyczne  
 airbarmetrer - barometr  
 airogun - siły powietrzne  
-airoporte - lotnisko (port lotniczy)  
+airoporta - lotnisko (port lotniczy)  
 ais - lód (marznąć, zamarznąć)  
 aishoke - hokej na lodzie  
 aiskrem - lody  
@@ -376,7 +376,6 @@ buze - koza
 
 ## C  
 
-ce - jak, niż, od  
 cabe - klucz  
 Cadia - Czad  
 cai - herbata  
@@ -447,8 +446,6 @@ cire - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)
 circire - strzępić (drzeć)  
 cite - cytować  
 citomarke - cudzysłów  
-• civile - cywilny  
-• civilade - cywilizowany (ucywilizowany)  
 code - jebać, kopulować  
 coi - zielenina  
 coklate - czekolada  
@@ -940,8 +937,8 @@ geste - gest
 Gibraltar - Gibraltar  
 Gibuti - Dżibuti  
 gide - prowadzić (wskazać drogę)  
+• gider - przewodnik  
 gidobuke - przewodnik  
-gider - przewodnik  
 gige - bilion, giga-  
 gitar - gitara  
 giuke - żad  
@@ -1031,7 +1028,7 @@ haigel - meduza
 haigun - marynarka (flota)  
 haihiyar - strzykwa  
 hainile - morskoniebieski  
-haiporte - port morski (przystań)  
+haiporta - port morski (przystań)  
 haitate - wybrzeże (plaża)  
 haide - niech my, hajda  
 Haiti - Haiti  
@@ -1161,8 +1158,7 @@ hux - miły, przyjemny, uroczy
 ## I  
 
 i - i, oraz  
-–i - przyrostek dla przymiotnika  
-–ia - przyrostek dla miejsca  
+ia - przyrostek dla miejsca  
 ibre - hebrajski  
 ice - wola (chęć; chcieć, pragnąć)  
 anice - niechętny  
@@ -1232,6 +1228,7 @@ jekolexe - zapożyczenie (wyraz obcy)
 jele - uwięzić, więzić, pozbawić wolności  
 • jelokan - więzienie, zakład karny  
 • jeler - strażnik więzienny  
+jen - osoba  
 jenisme - dźinizm, dżinizm  
 no jen - nikt, żadna osoba  
 jeng - walka, wojna  
@@ -1239,6 +1236,7 @@ jenge - militarny, wojskowy, wojenny
 • jenger - wojownik, bojownik  
 jengoxute - sztuka walki  
 jenju - perła  
+jensen - żeń-szeń  
 Jerzi - Jersey  
 • jetaje - pocisk  
 • injete - zastrzyk  
@@ -1265,6 +1263,7 @@ justopaver - snajper (strzelec wyborowy)
 
 ## K  
 
+ka - jak, niż, od  
 kababe - grillować  
 kababe manse - kebab  
 kabau - bawół domowy  
@@ -1506,12 +1505,13 @@ kope - kopiować, replikować
 kopohake - prawa autorskie  
 kopernikium - kopernik  
 kore - rdzeń (jądro, pestka)  
-kori fenia - rozszczepienie jądra atomowego  
-kori fizikia - fizyka nuklearna  
+kore fenia - rozszczepienie jądra atomowego  
+kore fizikia - fizyka nuklearna  
 kore - biec (biegać, pędzić)  
 kori arme - broń nuklearna  
 kori energia - energia nuklearna  
 korofuzion - fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)  
+koral - koral  
 korne - róg  
 kornomelon - ogórek kiwano  
 kornonos - nosorożec  
@@ -1773,7 +1773,7 @@ Luxemburge - Luksemburg
 
 ## M  
 
-me - mama  
+ma - mama  
 • matre - matka  
 • matria - macierz  
 mace - konkurować (rywalizować; odbyć mecz; mecz, rywalizacja)  
@@ -2263,7 +2263,7 @@ oxide - tlenek
 
 ## P  
 
-pe - ojciec  
+pa - ojciec  
 • patria - ojczyzna  
 • konpatrian - kompatriota  
 pace - pokój  
@@ -2320,6 +2320,7 @@ Papua Novi Ginia - Papua Nowa Gwinea
 pare - równy  
 • paran - równy  
 • parike - równy  
+• prepare - gotowy (przygotować, przygotowywać)  
 parline - równoległy (podłużny)  
 parlinu - iść wzdłuż (pójść wzdłuż)  
 parvezia - równowaga  
@@ -2357,10 +2358,7 @@ patate - ziemniak
 pau - pistolet, strzelba, ręczna broń palna  
 pave - strzelać (strzelić)  
 paunde - funt (£)  
-• repause - zostawić, zostawiać  
-• repause in pace (RIP) - spoczywaj w pokoju  
-pauze - pauza (przerwa)  
-pauze - przerwać, przerywać  
+pauze - przerwać (przerywać; pauza, przerwa)  
 pedal - pedał  
 pedalsikle - rower z pedałami  
 pei - zapłata, opłata  
@@ -2464,13 +2462,13 @@ ponter - wskaźnik
 porei - por  
 porne - porno, film erotyczny  
 pornografia - pornografia  
-porte - port  
 • exporte - eksportować (wyeksportować)  
 • reporte - raport  
 • reporte - raport  
 reporte - raport  
 reporte - raportować, relacjonować, opowiadać  
 • reporter - reporter  
+porta - port  
 Portoriko - Portoryko (Puerto Rico)  
 Portugal - Portugalia  
 pos - konsekwencja, skutek  
@@ -2494,7 +2492,6 @@ prate - praktyka, aktualność
 prate - practyczny, pragmatyczny  
 • prime - pierwszy, początkowy  
 • konprese - ścisnąć (sciskać, wycisnąć)  
-prezidente - prezydent  
 pro - naprzód  
 problem - problem  
 • problemike - problematyczny  
@@ -2508,6 +2505,11 @@ protacinium - protaktyn
 pude - zgniły  
 pudu - rozłożyć się (rozkładać się, gnić, psuć się)  
 puding - puding  
+puje - cześć, szacunek  
+puje - czcić, szanować  
+pujokan - świątynia  
+pujomeza - ołtarz  
+pujorite - rytuał, ceremonia, ryt  
 pul - most  
 pulmon - płuco  
 puma - puma (kuguar)  
@@ -2531,15 +2533,9 @@ putau - winogrono
 putavorange - grejpfrut  
 Putong Cini - mandaryński chiński, Putonghua  
 putonge - powszechny, uniwersalny  
-puze - cześć, szacunek  
-puze - czcić, szanować  
-puzokan - świątynia  
-puzomeze - ołtarz  
-puzorite - rytuał, ceremonia, ryt  
 
 ## R  
 
-–r - przyrostek dla wykonawcy  
 rade - promień  
 rade - promieniować  
 radi geter - radio  
@@ -2583,15 +2579,16 @@ retre - powrót (wrócić, wracać, wycofać się, wycofywać się)
 retro - wstecz  
 retrogule - wymiotować (zwrócić)  
 retroguli sense - nudności (choroba lokomocyjna)  
-rede - gotowy (przygotować, przygotowywać)  
-rege - królewski  
-• regia - królestwo  
-• reger - król lub królowa  
+• rejia - królestwo  
+• rejike - królewski  
+• rejer - król lub królowa  
 • relia - rzeczywistość (realność)  
 renium - ren  
 rentogenium - roentgen  
 resete - recepta, receptura, przepis  
 reside - paragon, pokwitowanie  
+reste - zostawić, zostawiać  
+reste in pace (RIP) - spoczywaj w pokoju  
 restorante - restauracja  
 Reunion - Reunion  
 rezin - żywica  
@@ -2844,8 +2841,9 @@ sismolojia - sejsmologia
 sistem - system  
 sisteme - systemowy  
 site - miast, miasteczko  
-sivile - cywilizowany (ucywilizowany)  
-sivilia - cywilizacja  
+• sivile - cywilny  
+• sivile - cywilizowany (ucywilizowany)  
+• sivilia - cywilizacja  
 six - sześć (6)  
 sixofase - sześcian (kostka)  
 sixogon - sześciokąt (sześciobok)  
@@ -3079,7 +3077,6 @@ texe - tkać (pleść)
 texomaxin - krosno  
 texte - tekst  
 ticin - chordofon, instrument strunowy  
-tike - tikka  
 • tikete - bilet  
 • retrotikete - bilet powrotny  
 tim - drużyna  
@@ -3180,10 +3177,9 @@ Uni Arabi Amiria (UAA) - Zjednoczone Emiraty Arabskie
 unomaro - raz (jeden raz)  
 unomene - jednoznaczny  
 unorange - jednokolorowy (monochromatyczny)  
-volfe - wilk  
 Uran - Uran  
 uranium - uran  
-urde - urdu  
+urdu - urdu  
 Urdun - Jordan  
 urse - niedźwiedź  
 Uruguai - Urugwaj  
@@ -3291,6 +3287,7 @@ vizin - glutaminian sodu
 vode - obiecać, angażować się  
 vodun - voodoo  
 vol - chcieć ( pragnąć; wola, chęć, pragnienie)  
+volfe - wilk  
 volfram - wolfram  
 Volof - wolof  
 volte - wolt (V)  
@@ -3346,14 +3343,15 @@ xingofote - mruganie (błysk)
 xipe - mokry (wilgotny; moczyć, zmoczyć)  
 xipostan - mokradło  
 xir - poemat  
+• xiria - poezja  
 • xirer - poeta  
 xirope - syrop  
 xixkababe - szisz kebab  
 xite - gówno  
 Xiva - Śiwa  
 xixe - nabić (przebić, dźgnąć)  
-sis - rożen (szpikulec)  
-sismanse - szaszłyk  
+xix - rożen (szpikulec)  
+xixomanse - szaszłyk  
 xofe - prowadzić pojazd  
 • xofer - szofer (kierowca)  
 xoke - szokwstrząs; kolizja  
@@ -3361,12 +3359,12 @@ xope - kupić (zakupy, sprawunki, shopping)
 xoper - nabywca (kupiec)  
 xou - pokazać (pokazywać, wystawić, wystawiać; pokaz, ekspozycja, wystawa)  
 xukre - dziękować (dzięki)  
-xul - lekcja  
 xule - nauczyć się, uczyć się, studiować  
-xulaner - nauczyciel  
-xulkan - szkoła (instytucja)  
-xuler - uczeń, student  
-xulxefe - dyrektor szkoły  
+• xulaje - lekcja  
+• xulizer - nauczyciel  
+• xulokan - szkoła (instytucja)  
+• xuler - uczeń, student  
+xuloxefe - dyrektor szkoły  
 xure - zaczyna (początek; zacząć, rozpoczynać, rozpocząć)  
 xute - umiejętność (kompetencja)  
 • xutike - umiejętny (wprawny)  
@@ -3402,8 +3400,6 @@ yege - polować (łowić)
 • yeger - łowca (myśliwy)  
 yege pexe - łapać rybę  
 Yemen - Jemen  
-jen - osoba  
-jensen - żeń-szeń  
 yesus - Jezus  
 yeze - kokos  
 yo - jakiś  

@@ -138,7 +138,11 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 **kluze**
 'close'
 → **ankluze**
-'unclose, open'
+'unclose, open'  
+**uzable**
+'usable'
+→ **anuzable**
+'unusable'
 
 **be-**
 'the passive recipient of an action, -ed, -ee' :  
@@ -202,14 +206,6 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 'structure'
 → **konstrute**
 'construct, put together'
-
-Since this prefix consists of one consonant only,
-its alternative form **ən-** is used before roots that begin with a vowel.
-
-**uzable**
-'usable'
-→ **ənuzable**
-'unusable'
 
 **per-**
 'thoroughly, completely' :

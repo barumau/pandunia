@@ -24,7 +24,7 @@ administrador - politer
 admirar - amire  
 adversário - xatan  
 aeite (óleo) - nefte  
-aeroporto - airoporte  
+aeroporto - airoporta  
 aeróbico - airobike  
 Afeganistão - Afgania  
 afegão - afgan  
@@ -54,7 +54,7 @@ aligátor (jacaré) - kortokrokodil
 almirante - haiamirer  
 almofada (coxim) - kusen  
 alpinista (montanhista) - montaner  
-altar - puzomeze  
+altar - pujomeza  
 alumínio - aluminium  
 alô - halou  
 amador - amater  
@@ -304,7 +304,7 @@ cinco (5) - lime
 cintilar - xingofote  
 cinéfilo - kinofilike  
 citologia - celolojia  
-civil - civile  
+civil - sivile  
 claro - klare  
 cliente - klien  
 cloro - klorium  
@@ -351,6 +351,7 @@ contêiner - kontener
 copernício - kopernikium  
 copo (taça) - kupe  
 cor - rang  
+coral - koral  
 corda (cabo) - kable  
 corno - korne  
 coro - cantergrupe  
@@ -390,7 +391,7 @@ cão (cachorro) - vaf
 cério - ceresium  
 césio - cesium  
 céu - ten  
-cívico - civike  
+cívico - sivike  
 cópia - kope  
 cósmico - kosme  
 cômico - komi  
@@ -414,7 +415,7 @@ deixar - laxe
 deixar - live  
 dente-de-leão (taráxaco) - makanful  
 derretre - fuze  
-descanse em paz - repause in pace (RIP)  
+descanse em paz - reste in pace (RIP)  
 desconectar - dekonnete  
 desenvolvimento - dargomute  
 deserto - sablostan  
@@ -439,7 +440,7 @@ diorito - diorite
 directionar (apontar, mirar; direção; objetivo) - dike  
 direito - hake  
 direitos humanos - human hake  
-diretor - xulxefe  
+diretor - xuloxefe  
 disco - diske  
 discordar - aloraye  
 disprósio - disprosium  
@@ -474,7 +475,7 @@ dúbnio - dubnium
 e - i  
 economia - malonomia  
 educação - xulia  
-educação cívica - civopedia  
+educação cívica - sivopedia  
 efeito - exfete  
 efeito colateral - parafete  
 efetuar (efeito) - asar  
@@ -499,7 +500,7 @@ encontrar - ajame
 endereço - adres  
 endógeno - ingene  
 enganar - truke  
-ensinar (lecionar) - xulane  
+ensinar (lecionar) - xulize  
 ensino primário - bazoxulkan  
 ensino secundário - zungoxulkan  
 ensopar (encharcar, marinar) - pursipe  
@@ -513,7 +514,7 @@ erupcionar - exrute
 erva marinha - haicau  
 erva-mate - mate  
 escalar - askale  
-escola (colégio) - xulkan  
+escola (colégio) - xulokan  
 escovinha (centáurea) - nilcentaur  
 escrever (escrita) - kitabe  
 escritório (birô) - bure  
@@ -691,6 +692,7 @@ hemoglobina - hemoglobin
 Hesse (Héssia) - Hesia  
 hidrogéno - hidre  
 higiene - salsafia  
+história - historia  
 hmm - hem  
 holismo - holisme  
 honra - onor  
@@ -778,7 +780,7 @@ Japão - Nipon
 jarra (jarro) - pote  
 Javé (Jeová) - yahve  
 jengibre - jinje  
-jihadista - gihadiste  
+jihadista - jihadiste  
 joelho - gute  
 jogo de tabuleiro - banogem  
 joule (J) - jul  
@@ -835,14 +837,14 @@ litro - litre
 livermório - livermorium  
 livre (forro) - hure  
 livro - buke  
-lição - xul  
+lição - xulaje  
 local - lokike  
 longo - longe  
 lontra - lontre  
 lua - lun  
 lugar (local; colocar, pôr) - loke  
 lula (calamar) - kalmar  
-luta - gihade  
+luta - jihade  
 luteranismo - martinluterisme  
 luterano - martinluteriste  
 lutécio - lutetium  
@@ -880,7 +882,7 @@ mandarim - cini manter
 manga - kamisi xake  
 manganésio - mangan  
 maniqueísmo - manihaiisme  
-manto - jube  
+manto - juba  
 mantra - mantre  
 mar - hai  
 maravilha - ajibe  
@@ -972,8 +974,8 @@ máquina de escrever - kitabomaxin
 mármore - kalsokristal  
 máscara - maske  
 máximo - maximaje  
+mãe - ma  
 mãe - mai  
-mãe - me  
 mãe - matre  
 mão - hande  
 mês - lun  
@@ -1083,7 +1085,7 @@ pacote - pake
 pacto - kontrete  
 padeiro - beker  
 padrasto - visopatre  
-pai - pe  
+pai - pa  
 painel - ban  
 palato (céu da boca) - bokacate  
 palavra (vocábulo) - lexe  
@@ -1154,6 +1156,7 @@ pincel - pentobrose
 pingente - pendaje  
 pinheiro - song  
 pintura - pente  
+piolho - poyu  
 piquenique - exyam  
 pirataria - piratia  
 pirâmida - piram  
@@ -1163,6 +1166,7 @@ planta (vegetal) - fite
 platina - platinium  
 plutónio - plutonium  
 plástico - plaste  
+poesia - xiria  
 Polinésia - Polinesia  
 poluição - nagis  
 polvo - batosenter  
@@ -1177,8 +1181,8 @@ por muito tempo - a longe dure
 poro - pore  
 poroso - porosi  
 portar - porte  
-porto - porte  
-porto marítimo - haiporte  
+porto - porta  
+porto marítimo - haiporta  
 Porto Rico - Portoriko  
 porto-riquenho - portorike  
 possível - able  
@@ -1198,13 +1202,14 @@ preferir - prefere
 preferir - profile  
 prensa - preser  
 presente (prenda) - donaje  
+presidente - presidente  
 pressão - prese  
 preto - siyahe  
 prever (anticipar) - previde  
 primo - cinbrusben  
 problema - problem  
 processamento de imagem - grafoprocese  
-professor (docente) - xulaner  
+professor (docente) - xulizer  
 profissão - peikar  
 profundo - fasotele  
 programa - program  
@@ -1244,7 +1249,7 @@ quarta-feira - den tri
 quarto (dormitório) - somokamar  
 quartzo - kuarze  
 quatro (4) - care  
-que (como) - ce  
+que (como) - ka  
 queijo - kize  
 queijo fresco - panir  
 queimar - hoge  
@@ -1288,6 +1293,7 @@ referir - refere
 refugo (escória) - laze  
 regenerar - rigenerate  
 regime - politomode  
+reinar - reje  
 relato - reporte  
 relier (connecter) - linke  
 religião - din  
@@ -1298,7 +1304,7 @@ reparar - ribone
 reparar - repare  
 repetir - rifete  
 repetição - ri-  
-repouso - repause  
+repouso - reste  
 repórter - reporter  
 reserva - rezerve  
 resfiado (gripe) - zukam  
@@ -1449,7 +1455,7 @@ televisão de realidade - rel televizion
 telúrio - telurium  
 temer (assustar) - fobe  
 tempero - masale  
-templo - puzokan  
+templo - pujokan  
 tempo - zaman  
 tender - ive  
 tendência - ivia  
@@ -1623,7 +1629,5 @@ zumbi - zombi
 óxide - oxide  
 úmido - xipete  
 único (só) - unike  
-вошь - bio  
-коралл - biu  
 паранормальный - paranorme  
 торговать - vendoxope  

@@ -25,7 +25,7 @@ ainstainium - эйнштейний
 air - воздух  
 airobike - аэробный  
 airogun - военно-воздушные силы  
-airoporte - аэропорт  
+airoporta - аэропорт  
 aishoke - хокке́й с ша́йбой  
 aiskrem - мороженое  
 akare - клещ (лепта)  
@@ -231,7 +231,6 @@ buton - пуговица
 
 ## C  
 
-ce - чем  
 cai - чай  
 caikan - чайная (чайхана)  
 caikupe - чайная чашка  
@@ -272,8 +271,6 @@ cinovieti - китайско-вьетнамский
 cing - просить  
 cire - рвать  
 circire - изорвать  
-• civile - гражданский  
-• civopedia - граждановедение  
 coi - зелень  
 coklate - шоколад  
 cope - мотыга  
@@ -508,10 +505,8 @@ gere - война
 • gerer - воин (боец, солдат)  
 germanium - германий  
 gestolingue - язык жестов  
+• gider - гид  
 gidobuke - путеводитель  
-gider - гид  
-gihade - борьба (бой)  
-• gihadiste - моджахед  
 gitar - гитара  
 giuke - нефрит (жад)  
 glise - задвигаться (скользи́ть)  
@@ -592,6 +587,7 @@ Hindia - Индостан
 hindium - индий  
 hisabe - вычислять  
 • hisabolojia - математика  
+• historia - история  
 hoge - огонь  
 hoge - жечь (палить)  
 hogosan - вулкан  
@@ -640,17 +636,20 @@ janelovel - штора (гардина)
 jangle - дикий  
 jangle van - джунгли  
 jau - ячмень  
+• dusojen - враг (противник)  
 jenju - жемчуг  
 • jetaje - снаряд  
 • projete - проект  
 • projetaje - проект  
+jihade - борьба (бой)  
+• jihadiste - моджахед  
 jinje - имбирь  
 jiraf - жираф  
 jive - жизнь  
 jive - живой  
 jongle - жонглировать  
 • jongler - жонглёр  
-jube - халат  
+juba - халат  
 • judokan - суд (трибунал)  
 • juder - судья  
 • exjude - внесудебный  
@@ -663,6 +662,7 @@ justopaver - снайпер
 
 ## K  
 
+ka - чем  
 kababe manse - кебаб  
 kable - провод (кабель)  
 kaboge - тыква  
@@ -769,6 +769,7 @@ kope - копия
 kopernikium - коперниций  
 kore - бегать (бежать)  
 korer - бегун  
+koral - коралл  
 kornomelon - кивано (рогатая дыня)  
 kornonos - носорог  
 koron - корона  
@@ -885,7 +886,7 @@ lutetium - лютеций
 
 ## M  
 
-me - мама  
+ma - мама  
 • matre - мать  
 • matria - родина  
 mace - матч  
@@ -1102,7 +1103,7 @@ oxide - окись (оксид)
 
 ## P  
 
-pe - папа  
+pa - папа  
 • patre - отец  
 • patria - отечество  
 • expatrian - экспатриант  
@@ -1147,8 +1148,6 @@ patolojia - патология
 patomis - инфекция (заразная болезнь)  
 pau - пистолет  
 pave - стрелять  
-• repause - отдых  
-• repause in pace (RIP) - покойся с миром  
 pauze - пауза  
 peikar - профессия  
 peikare - профессиона́льный  
@@ -1197,6 +1196,7 @@ inplozu - взрываться вовнутрь
 plum - слива  
 plumbe - свинец  
 plutonium - плутоний  
+poyu - вошь  
 polau - плов  
 poli mar - часто  
 Polinesia - Полинезия  
@@ -1206,10 +1206,10 @@ pontopin - компас
 pore - пора  
 • porosi - пористый  
 porei - лук-порей  
-porte - порт  
 porte - носить  
 • reporte - репортаж  
 • reporter - репортёр  
+porta - порт  
 portorike - пуэрториканец  
 Portoriko - Пуэрто-Рико  
 poso - после  
@@ -1229,6 +1229,8 @@ prometium - прометий
 proten - белок (протеин)  
 protacinium - протактиний  
 pudu - гнить (портиться)  
+pujokan - храм (место богослужения)  
+pujomeza - алтарь  
 puma - пума (кугуар)  
 puntonumbe - оценка  
 pure - заполнять  
@@ -1237,8 +1239,6 @@ purfitoyamiste - веган
 pursipe - мариновать  
 • konputer - компьютер  
 putavorange - грейпфрут  
-puzokan - храм (место богослужения)  
-puzomeze - алтарь  
 
 ## R  
 
@@ -1265,6 +1265,8 @@ rel - реальный (истинный, действительный)
 rel televizion - реалити-телевидение  
 renium - рений  
 rentogenium - рентгений  
+reste - отдых  
+reste in pace (RIP) - покойся с миром  
 ri- - повторение  
 rim - рифма  
 ringar - ринг (манеж)  
@@ -1384,6 +1386,8 @@ sinaplate - нагрудник
 sire - скрывать  
 sirplan - заговор (сговор)  
 sirkite - булыжник  
+• sivile - гражданский  
+• sivopedia - граждановедение  
 six - шесть (6)  
 • askale - подниматься  
 skandium - скандий  
@@ -1640,21 +1644,22 @@ xibai - проиграть (провалиться)
 • dexibai - потерять (утратить)  
 xingofote - сверкать (мерцать)  
 • xipete - влажный  
+• xiria - поэзия  
 xixkababe - шиш-кебаб  
 xite - говно (дерьмо)  
 Xiva - Шива  
-sismanse - шашлык  
+xixomanse - шашлык  
 • xofer - шофёр  
 xope - покупать (купить; покупка, шоппинг)  
 xou - доказать (демонстрировать)  
 xukre - спасибо  
-xul - урок (учение)  
 xule - учиться  
-xulia - образование  
-xulane - учить (преподавать)  
-xulaner - учитель  
-xulkan - школа   
-xulxefe - директор (ректор)  
+• xulia - образование  
+• xulaje - урок (учение)  
+• xulize - учить (преподавать)  
+• xulizer - учитель  
+• xulokan - школа   
+xuloxefe - директор (ректор)  
 xure - начало  
 
 ##   
@@ -1672,7 +1677,6 @@ ye - да
 yege - охотиться  
 • yeger - егерь  
 Yemen - Йемен  
-• dusojen - враг (противник)  
 yesus - Иисус  
 yodium - йод  
 yoge - йога  

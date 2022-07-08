@@ -85,7 +85,7 @@ airbarmetrer - ilmapuntari (ilmanpainemittari, barometri)
 airobike - aerobinen  
 anairobike - anaerobinen  
 airogun - ilmavoimat  
-airoporte - lentoasema (lentokenttä)  
+airoporta - lentoasema (lentokenttä)  
 ais - jää  
 aishoke - jääkiekko  
 aiskrem - jäätelö  
@@ -460,7 +460,6 @@ buze - vuohi
 
 ## C  
 
-ce - kuin (verrattuna)  
 cabe - avain  
 Cadia - Tšad  
 cai - tee  
@@ -554,8 +553,6 @@ cire - repiä
 circire - raastaa (repiä riekaleiksi)  
 cite - lainata (siteerata)  
 citomarke - lainausmerkki  
-• civilade - sivistynyt  
-• civopedia - kansalaistaito  
 code - nussia (panna)  
 • codokan - ilotalo  
 coi - vihannes  
@@ -1142,11 +1139,8 @@ gestolingue - viittomakieli
 Gibraltar - Gibraltar  
 Gibuti - Djiboutia  
 gide - opastaa (ohjata)  
+• gider - opas (tiennäyttäjä)  
 gidobuke - matkaopas (opaskirja)  
-gider - opas (tiennäyttäjä)  
-gihade - kamppailu (taistelu)  
-• gihadisme - jihadismi  
-• gihadiste - jihadisti  
 ginge - pitkittäinen  
 gingolin - loimi  
 gitar - kitara  
@@ -1234,7 +1228,7 @@ hai - meri
 hai - meri- (merellinen)  
 haiamirer - amiraali  
 haigun - merivoimat (sotalaivasto)  
-haiporte - satama  
+haiporta - satama  
 haide - tehkäämme  
 Haiti - Haiti  
 hake - oikeus (oikeutus)  
@@ -1381,8 +1375,7 @@ hux - mukava (kiva, miellyttävä)
 ## I  
 
 i - ja (sekä)  
-–i - pääte: adjektiivi tai adverbi  
-–ia - ajattelun, olemisen tai ihmisten ala tai alue  
+ia - ajattelun, olemisen tai ihmisten ala tai alue  
 ibre - heprea  
 ice - tahtoa (tahto)  
 anice - vastahakoinen (haluton)  
@@ -1455,13 +1448,16 @@ jebe - tasku
 jele - vangita  
 • jelokan - vankila  
 • jeler - vanginvartija  
+jen - henkilö  
 jenisme - jainalaisuus  
+• dusojen - vihollinen  
 no jen - ei kukaan  
 jeng - taistelu (sota)  
 jenge - sotilaallinen  
 • jenger - soturi (taistelija)  
 jengoxute - kamppailulaji  
 jenju - helmi  
+jensen - ginseng  
 Jerzi - Jersey  
 • jetaje - ammus  
 • injete - ruiske (injektio)  
@@ -1470,6 +1466,9 @@ injete - ruiskuttaa
 • projetaje - hanke (projekti)  
 jetografor - projektori (videotykki, piirtoheitin)  
 jetografe - heijastaa kuvia (projisoida; projektio)  
+jihade - kamppailu (taistelu)  
+• jihadisme - jihadismi  
+• jihadiste - jihadisti  
 jin - aito  
 jinje - inkivääri  
 jiraf - kirahvi  
@@ -1480,7 +1479,7 @@ joke - vitsi
 joker - vitsiniekka  
 jongle - jongleerata  
 • jongler - jonglööri  
-jube - kaapu  
+juba - kaapu  
 jude - tuomita (tuomio, oikeus; oikeudellinen)  
 • judokan - tuomioistuin (oikeus)  
 • juder - tuomari  
@@ -1497,6 +1496,7 @@ juste - tarkka (täsmällinen; juuri, just,täsmälleen)
 
 ## K  
 
+ka - kuin (verrattuna)  
 kababe - grillata (kärventää)  
 kababe manse - kebab (grilliliha)  
 kabau - vesipuhveli  
@@ -1741,15 +1741,15 @@ kope - kopioida (jäljentää)
 kopohake - kopiointioikeus (tekijänoikeus)  
 kopernikium - copernicium  
 kore - ydin (sydän)  
-kori fenia - ydinfissio  
-kori fizikia - ydinfysiikka  
+kore fenia - ydinfissio  
+kore fizikia - ydinfysiikka  
 kore - juosta  
 kori arme - ydinase  
 kori energia - ydinenergia  
 • koraje - sisu  
 korer - juoksija  
 korofuzion - ydinfuusio  
-biu - koral  
+koral - koralli  
 korne - sarvi  
 kornonos - sarvikuono  
 koron - kruunu  
@@ -2006,11 +2006,11 @@ Luxemburge - Luxemburg
 
 ## M  
 
-me - äiti (emä)  
-mame - äidinäiti  
-mape - äidinisä  
+ma - äiti (emä)  
 • matre - äiti  
 • matria - emämaa (synnyinmaa)  
+mamatre - äidinäiti  
+mapatre - äidinisä  
 mace - otella (ottelu, matsi)  
 madu - hunaja  
 maduvespe - mehiläinen  
@@ -2342,6 +2342,7 @@ nasmede - kansainvälinen
 • polinase - monikansallinen  
 • polinasike - monikansallinen  
 nasibe - määrä (päämäärä, kohtalo)  
+nate - syntyä (synty, syntymä)  
 • nature - luonto  
 • innate - sisäsyntyinen  
 • posnatal - syntymän jälkeinen  
@@ -2514,14 +2515,14 @@ oxide - oksidi
 
 ## P  
 
-pe - isi  
-pame - isänäiti  
-pape - isänisä  
+pa - isi  
 • patre - isä  
 • patria - isänmaa  
 • expatrian - ekspatriaatti (maastamuuttaja)  
 • konpatrian - maanmies  
 • repatriate - kotouttaa (palauttaa isänmaahan)  
+pamatre - isänäiti  
+papatre - isänisä  
 pace - rauha  
 • pacisme - rauhanaate (pasifismi)  
 • paciste - pasifisti  
@@ -2579,6 +2580,7 @@ paru - olla yhtä kuin
 • paran - vertainen  
 • parike - vertainen  
 • konpare - verrata (vertailla)  
+• prepare - valmis (valmistautua)  
 • repare - korjata (ennallistaa)  
 parvezia - tasapaino  
 Paraguai - Paraguai  
@@ -2616,10 +2618,7 @@ patomis - infektio (tartunta)
 patate - peruna (potaatti)  
 pau - pyssy  
 paunde - punta  
-• repause - lepo  
-• repause in pace (RIP) - lepää rauhassa (RIP)  
 pauze - tauko (keskeytys, paussi)  
-pauze - keskeyttää (tauottaa)  
 pede - kasvattaa lapsia  
 • pedia - kasvatus (lasten~)  
 • pedocentriste - kasvatuskeskeinen  
@@ -2744,7 +2743,6 @@ pore - huokonen
 • porosi - huokoinen  
 porne - porno  
 pornografia - pornografia  
-porte - asema (satama, lentokenttä)  
 porte - kantaa  
 • exporte - viedä pois (viedä maasta)  
 • reporte - raportti (selostus, selonteko)  
@@ -2753,6 +2751,7 @@ reporte - raportti (selostus, selonteko)
 reporte - raportoida (selostaa)  
 • reporter - reportteri  
 • suporte - kannatella  
+porta - asema (satama, lentokenttä)  
 portorike - puertoricolainen  
 Portoriko - Puerto Rico  
 Portugal - Portugali  
@@ -2793,7 +2792,6 @@ prese - puristaaa (puristus, paine)
 • preser - puristin  
 • konprese - pusertaa  
 • represe - puskea takaisin (alistaa)  
-prezidente - presidentti  
 pro - eteen päin  
 problem - ongelma  
 • problemike - ongelmallinen  
@@ -2810,6 +2808,11 @@ proxe - läheinen
 pude - mätä  
 pudu - mädäntyä (mädätä)  
 puding - vanukas  
+puje - palvonta  
+puje - palvoa  
+pujokan - temppeli  
+pujomeza - alttari  
+pujorite - rituaali (seremonia, riitti)  
 pul - silta  
 pulmon - keuhko  
 punte - piste (täplä)  
@@ -2827,15 +2830,9 @@ puse - työntää (puskea)
 putau - viinirypäle  
 Putong Cini - yleiskiina (mandariinikiina)  
 putonge - yleinen (universaali)  
-puze - palvonta  
-puze - palvoa  
-puzokan - temppeli  
-puzomeze - alttari  
-puzorite - rituaali (seremonia, riitti)  
 
 ## R  
 
-–r - tekijä (aikaansaaja)  
 rade - säde  
 rade - säteillä  
 radi geter - radiovastaanotin  
@@ -2880,11 +2877,11 @@ raze - hävittää maan tasalle (ajaa parta pois)
 razi table - tyhjä taulu (tabula rasa)  
 retre - paluu (palata; palauttaa)  
 • realaje - asia  
-rede - valmis (valmistautua)  
-rege - kuninkaallinen  
-• regia - kuningaskunta  
-• regoben - prinssi tai prinsessa  
-• reger - monarkki (kuningas, kuningatar)  
+reje - hallita kuninkaana  
+• rejia - kuningaskunta  
+• rejoben - prinssi tai prinsessa  
+• rejike - kuninkaallinen  
+• rejer - monarkki (kuningas, kuningatar)  
 rel - todellinen (aito)  
 • relia - todellisuus  
 • relisme - realismi  
@@ -2896,6 +2893,8 @@ renium - renium
 rentogenium - roentgenium  
 resete - resepti (ohje)  
 reside - kuitti (kuittaus)  
+reste - lepo  
+reste in pace (RIP) - lepää rauhassa (RIP)  
 restorante - ravintola  
 Reunion - Reunion  
 rezin - pihka (hartsi)  
@@ -3144,8 +3143,9 @@ siro - nolla (ei yhtään)
 sismolojia - seismologia  
 sistem - järjestelmä (systeemi)  
 site - kaupunki  
-sivile - sivistynyt  
-sivilia - sivilisaatio  
+• sivile - sivistynyt  
+• sivilia - sivilisaatio  
+• sivopedia - kansalaistaito  
 six - kuusi (6)  
 • sixime - kuudes (6.)  
 sixofase - kuutio (kuusitahokas)  
@@ -3383,8 +3383,8 @@ texte - teksti
 • kontexte - konteksti (asiayhteys)  
 • kontexti - kontekstuaalinen  
 ticin - jousisoitin  
-tike - pala  
-• tikete - lippu (piletti)  
+tike - suikale (siivu)  
+• tikete - lippu (lappu, piletti)  
 • retrotikete - menopaluulippu  
 tim - joukkue (tiimi)  
 Timor - Timor  
@@ -3505,10 +3505,9 @@ unomaro - kerran
 unomene - yksimerkityksinen  
 unoki lense - monokkeli  
 unorange - yksivärinen  
-volfe - susi (hukka)  
 Uran - Uranus  
 uranium - uraani  
-urde - urdu  
+urdu - urdu  
 Urdun - Jordania  
 urse - karhu  
 Uruguai - Uruguai  
@@ -3645,6 +3644,7 @@ voke - kutsua (kuuluttaa; manata)
 • provoke - kutsua esiin (peräänkuuluttaa)  
 • revoke - kutsua takaisin  
 vol - halu (toive; haluta)  
+volfe - susi (hukka)  
 volfram - volframi  
 Volof - wolofin kansa ja kieli  
 volte - voltti (V)  
@@ -3697,13 +3697,14 @@ xipe - märkä (kastaa; kastella)
 • perxipe - liota  
 xipostan - kosteikko  
 xir - runo  
+• xiria - runous  
 • xirer - runoilija  
 xirope - siirappi  
 xixkababe - varraskebab  
 xite - paska (sonta)  
 Xiva - Šiva  
-sis - varras  
-sismanse - saslik  
+xix - varras  
+xixomanse - saslik  
 xofe - ajaa (kuskata)  
 • xofer - kuski (ajuri, ajaja)  
 xoke - isku (šokki)  
@@ -3712,15 +3713,15 @@ xoper - ostaja
 xou - näyttää (esittää; näytös, esitys, show)  
 xukre - kiittää (kiitos)  
 xukria - kiitollisuus  
-xul - oppi (opetus)  
 xule - oppia (opiskella)  
-xulia - koulutus  
-xulane - opettaa  
-xulaner - opettaja  
-xulkamar - luokkahuone  
-xulkan - koulu (opisto)  
-xuler - oppilas  
-xulxefe - rehtori  
+• xulia - koulutus  
+• xulaje - oppi (opetus)  
+• xulize - opettaa  
+• xulizer - opettaja  
+• xulokan - koulu (opisto)  
+• xuler - oppilas  
+xulokamar - luokkahuone  
+xuloxefe - rehtori  
 xure - alku (alkaa; aloittaa)  
 xute - taito  
 • xutike - taitava  
@@ -3756,9 +3757,6 @@ ye - kyllä
 yege - pyytää (metsästää, kalastaa)  
 • yeger - pyytäjä (metsästäjä, kalastaja)  
 Yemen - Jemen  
-jen - henkilö  
-• dusojen - vihollinen  
-jensen - ginseng  
 yesus - Jeesus  
 yeze - kookos  
 yo - joku (jokin)  

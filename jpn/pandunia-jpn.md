@@ -19,7 +19,7 @@ air - 空気
 airobike - 好気性  
 anairobike - 嫌気性  
 airogun - 空軍  
-airoporte - 空港  
+airoporta - 空港  
 ais - 氷 (アイス; 凍る)  
 aishoke - アイスホッケー  
 aiskrem - アイスクリーム  
@@ -174,7 +174,6 @@ bute - ブーツ
 
 ## C  
 
-ce - より  
 cai - 茶  
 caikan - 茶店 (茶館)  
 caikupe - 茶碗  
@@ -426,9 +425,8 @@ gensolojia - ジェンダー研究
 • gerer - 戦士 (武士)  
 germanium - ゲルマニウム  
 gestolingue - 手話  
+• gider - 案内人 (ガイド)  
 gidobuke - ガイドブック  
-gider - 案内人 (ガイド)  
-• gihadiste - ムジャーヒディーン  
 gingolin - 縦糸  
 gitar - ギター  
 glise - 滑る  
@@ -468,7 +466,7 @@ haigel - 海月
 haigun - 海軍  
 haihiyar - 海鼠  
 hainile - 水色  
-haiporte - 海港  
+haiporta - 海港  
 haitate - 海岸  
 hake - 権利  
 hal - 状態  
@@ -547,11 +545,14 @@ jeke - 借用
 jekocepe - 借りる  
 jekodone - 貸す  
 • jelokan - 監獄  
+jen - 人  
+• dusojen - 敵  
 jeng - 戦闘 (格闘)  
 jenju - 真珠  
 • jetaje - 飛翔体 (矢玉)  
 • projetaje - プロジェクト  
 jetografe - 映す (投影する, 投影)  
+• jihadiste - ムジャーヒディーン  
 jiraf - 麒麟  
 jive - 命 (生命)  
 jongle - ジャグリング  
@@ -564,6 +565,7 @@ justopaver - 狙撃兵
 
 ## K  
 
+ka - より  
 kable - 電線  
 kaboge - カボチャ  
 kade - 鱈  
@@ -668,7 +670,7 @@ kope - コピー
 kopernikium - コペルニシウム  
 kore - 核  
 kore - 走る (疾走する)  
-biu - 산호  
+koral - 珊瑚  
 kornomelon - ツノニガウリ  
 kortokrokodil - アリゲーター  
 kosmonau - 宇宙船  
@@ -789,7 +791,7 @@ lutetium - ルテニウム
 
 ## M  
 
-me - お母さん (母, ママ)  
+ma - お母さん (母, ママ)  
 mace - 試合 (競技)  
 maduvesponide - 蜂の巣 (ハニカム)  
 maduvesposanduke - 養蜂箱  
@@ -973,7 +975,7 @@ oxe - 酸素
 
 ## P  
 
-pe - お父さん (父, パパ)  
+pa - お父さん (父, パパ)  
 pacehaikade - マダラ  
 • depade - 逸れる  
 padomun - 落とし戸  
@@ -1007,7 +1009,6 @@ patike - 患者
 patomis - 伝染  
 pau - 銃  
 pave - 撃つ  
-• repause in pace (RIP) - 安らかに眠れ  
 • prepede - 調製用  
 peikar - 職業  
 peikare - プロフェッショナル  
@@ -1045,6 +1046,7 @@ platinium - 白金
 plum - セイヨウスモモ (プラム)  
 plumbe - 鉛  
 plutonium - プルトニウム  
+poyu - シラミ  
 poke - ポーカー  
 poli - たくさん  
 poli mar - よく (屡々)  
@@ -1074,6 +1076,7 @@ prometium - プロメチウム
 proten - 蛋白質 (プロテイン)  
 protacinium - プロトアクチニウム  
 pudu - 腐敗  
+pujokan - 神殿  
 puma - ピューマ (クーガー)  
 puntoban - スコアボード  
 puntonumbe - 得点 (点数)  
@@ -1082,7 +1085,6 @@ purfitoyamiste - 絶対菜食主義者 (ヴィーガン)
 pursipe - 漬ける (締める)  
 • konputer - コンピュータ  
 putavorange - グレープフルーツ  
-puzokan - 神殿  
 
 ## R  
 
@@ -1105,12 +1107,13 @@ ratibe - 整然
 razi table - 白紙状態  
 retrogule - 戻す (吐く)  
 retroguli sense - 吐き気 (嘔気)  
-• reger - 国王  
+• rejer - 国王  
 • relia - 実在 (現実)  
 • relize - 実現する  
 rel televizion - リアリティ番組  
 renium - レニウム  
 rentogenium - レントゲニウム  
+reste in pace (RIP) - 安らかに眠れ  
 ri- - 繰り返し  
 ring - 輪  
 ringar - リング  
@@ -1420,6 +1423,7 @@ xingofote - ピカピカ光る (きらきらする)
 xipe - 湿っぽい (濡らす)  
 xipostan - 湿地  
 xir - 詩  
+• xiria - 詩歌  
 xite - 糞 (屎)  
 Xiva - シヴァ  
 xixe - 刺す  
@@ -1427,11 +1431,11 @@ xope - 買う
 xou - 見せる (示す, デモる)  
 xukre - ありがとう (どうも)  
 xule - 学ぶ  
-xulane - 教える  
-xulaner - 先生 (教師)  
-xulkan - 学校  
-xuler - 学生  
-xulxefe - 校長  
+• xulize - 教える  
+• xulizer - 先生 (教師)  
+• xulokan - 学校  
+• xuler - 学生  
+xuloxefe - 校長  
 xure - 開始  
 
 ##   
@@ -1448,8 +1452,6 @@ yau - 必要
 • anbeyau - 不要  
 ye - はい  
 yege - 狩り (狩猟)  
-jen - 人  
-• dusojen - 敵  
 yo - 何分の  
 yodium - ヨウ素  
 • yogiste - ヨギ  

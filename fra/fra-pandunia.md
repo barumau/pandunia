@@ -163,7 +163,7 @@ aubergine - bedinge
 augmenter - auge  
 Australie - Australia  
 Austronésie - Austronesia  
-autel - puzomeze  
+autel - pujomeza  
 auteur - auter  
 autocollant - glutograf  
 automatique - automatike  
@@ -183,7 +183,7 @@ Azerbaijan - Azerbaizan
 azote - nitre  
 azur - lazure  
 aérobique - airobike  
-aéroport - airoporte  
+aéroport - airoporta  
 aïe! - ai  
 
 ## B  
@@ -276,7 +276,7 @@ brave - brave
 bravo! - bravo  
 brigand (bandit) - luter  
 brique - binite  
-brochette - sis  
+brochette - xix  
 brome - bromium  
 brun (marron) - brune  
 brûler - hoge  
@@ -345,7 +345,7 @@ Centaurée bleuet - nilcentaur
 Centaurée du solstice - solocentaur  
 centre - zung  
 cerise - cerize  
-chachlik - sismanse  
+chachlik - xixomanse  
 chambre à coucher - somokamar  
 Champagne - xampan  
 champagne - xampan vin  
@@ -398,8 +398,8 @@ cirse commun - perokardon
 citron - limon  
 citronnade - limon jus  
 citrouille - kaboge  
-civil - civile  
-civique - civike  
+civil - sivile  
+civique - sivike  
 clair - klare  
 client - klien  
 cloche - danger  
@@ -451,7 +451,7 @@ convention (alliance, pacte) - kontrete
 copernicium - kopernikium  
 copie - kope  
 coquelicot - medenpapil  
-coral - biu  
+corail - koral  
 corne - korne  
 corps - bode  
 correct (juste) - sahe  
@@ -540,7 +540,7 @@ dinde (dindon) - dinde
 diorite - diorite  
 dioxyde de carbone - karboduloxide  
 diplôme de master - master  
-directeur (principal) - xulxefe  
+directeur (principal) - xuloxefe  
 dirigeant (leader) - lider  
 disque - diske  
 distinct (numérique) - feni  
@@ -611,7 +611,7 @@ endogène - ingene
 enfant - bace  
 ennemi - anamike  
 ennemi - dusojen  
-enseigner - xulane  
+enseigner - xulize  
 ensommeillé (somnolent) - somive  
 ensuite (après, plus tard, ir a, en el futuro) - poso  
 entonnoir - darotube  
@@ -789,6 +789,8 @@ heure - hor
 heureux - suke  
 hier - cendeno  
 Hindustan - Hindia  
+histoire - histore  
+histoire - historia  
 hiver - lengomosim  
 hivernal (hibernal) - lengomosime  
 hockey - hoke  
@@ -937,7 +939,7 @@ lentille - lense
 Lettonie - Latvia  
 leur - yamen su  
 lexical - lexike  
-leçon - xul  
+leçon - xulaje  
 libellule - libele  
 libre - hure  
 lichen - algafung  
@@ -970,7 +972,7 @@ lundi - den un
 lune - lun  
 luthéranisme - martinluterisme  
 luthérien - martinluteriste  
-lutte - gihade  
+lutte - jihade  
 lutécium - lutetium  
 luxure - luxure  
 lynx - lince  
@@ -994,7 +996,7 @@ majeur - maxure
 majorité - maxuria  
 mal de tête - sartunge  
 malédiction - dusdua  
-maman - me  
+maman - ma  
 manche - kamisi xake  
 mandarin - cini manter  
 mandarine - lalorange  
@@ -1075,7 +1077,7 @@ mot - lexe
 mot de passe - pasloge  
 moteur - moter  
 mouche - domzeze  
-moudjahid (djihadiste) - gihadiste  
+moudjahid (djihadiste) - jihadiste  
 moudre - mole  
 mouiller (mouillé) - xipe  
 moulin - molia  
@@ -1267,7 +1269,7 @@ pendentif - pendaje
 pender - pende  
 perdant - xibayer  
 perder - dexibai  
-pere (papa) - pe  
+pere (papa) - pa  
 perfectionner (parfaire) - purbone  
 perle - jenju  
 perplexe (désorienté) - ruhmixe  
@@ -1294,7 +1296,6 @@ pile (batterie) - batre
 piment - cili  
 pinceau - pentobrose  
 pioche - pincope  
-piojo - bio  
 piquant - pinane  
 piquenique - exyam  
 piraterie - piratia  
@@ -1336,7 +1337,7 @@ pomme - aple
 pont - pul  
 pore - pore  
 poreux - porosi  
-porte - porte  
+porte - porta  
 porte-bloc (planchette à pince) - pinsoban  
 porter (s’habiller) - fuku  
 porter - porte  
@@ -1353,6 +1354,7 @@ pot de fleur - fulpote
 potassium - kalium  
 poterie - poteria  
 potier - poter  
+pou - poyu  
 poudre à canon - barude  
 Poulpe (pieuvre) - batosenter  
 poupée - pupe  
@@ -1361,6 +1363,7 @@ pourri - pude
 pourrir (se décomposer) - pudu  
 pousse - yune moke  
 pouvoir (être capable; possible) - able  
+poésie - xiria  
 praséodyme - prasedium  
 presse-papier - katoglutoban  
 pression - prese  
@@ -1372,7 +1375,7 @@ problème - problem
 problématique - problemike  
 proche - proxe  
 proclamer - proklame  
-professeur (enseignant) - xulaner  
+professeur (enseignant) - xulizer  
 profession (métier) - peikar  
 profond - fasotele  
 programme - program  
@@ -1414,7 +1417,7 @@ pêcheur - pesosaider
 quand - ke sate  
 quartz - kuarze  
 quatre (4) - care  
-que (comme) - ce  
+que (comme) - ka  
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
 qui - ke jen  
@@ -1443,8 +1446,8 @@ religion - din
 remplir - pure  
 renard - huli  
 reporter (rapporteur) - reporter  
-repos - repause  
-repose en paix (REP) - repause in pace (RIP)  
+repos - reste  
+repose en paix (REP) - reste in pace (RIP)  
 repport (reportage) - reporte  
 reprendre - redure  
 requin - xarke  
@@ -1462,7 +1465,7 @@ ring (manège) - ringar
 rire - hahe  
 rivière (fleuve) - riu  
 riz - ris  
-robe - jube  
+robe - juba  
 robot - robote  
 roche (pierre) - petre  
 rocher - dayite  
@@ -1494,6 +1497,7 @@ réception - recepion
 réel - rel  
 référer - refere  
 réglisse - sus  
+régner - reje  
 régénérer - rigenerate  
 réparateur - riboner  
 réparer - ribone  
@@ -1517,7 +1521,7 @@ sain - sale
 saintes écritures  - sante kanon  
 saison - mosim  
 salle de bains - banyakamar  
-salle de classe - xulkamar  
+salle de classe - xulokamar  
 salle de gymnastique - sportokan  
 salle de muscu - balokan  
 salut (salam) - salam  
@@ -1610,7 +1614,6 @@ substance - kime
 sucre - sukar  
 sueur - suede  
 suffixe - posfixe  
-suffixe pour l'adjectif - –i  
 suivre - pose  
 sujet (thème) - tem  
 sujet - subjete  
@@ -1649,7 +1652,7 @@ technologie - tehnolojia
 technétium - tehnium  
 tectonique des plaques - plati geokaskia  
 tellure - telurium  
-temple - puzokan  
+temple - pujokan  
 temps - zaman  
 tendance - ivia  
 tender - tirlonge  
@@ -1840,7 +1843,7 @@ zèbre - zebra
 Égypte - Misria  
 âge - sene  
 échec - xibai  
-école (collège) - xulkan  
+école (collège) - xulokan  
 école primaire - bazoxulkan  
 école secondaire - zungoxulkan  
 économie - malonomia  
@@ -1848,7 +1851,7 @@ zèbre - zebra
 écrire (écriture) - kitabe  
 écureuil - ekore  
 éducation - xulia  
-éducation civique - civopedia  
+éducation civique - sivopedia  
 égal (même) - same  
 électricité - eletre  
 électronique - eletrolojia  
@@ -1880,9 +1883,9 @@ zèbre - zebra
 étude - studaje  
 étude - studia  
 études de genre - gensolojia  
-étudiant - xuler  
 étudiant - studente  
 étudiant - studer  
+étudiant - xuler  
 étudier (étude) - stude  
 étymologie - logaslia  
 été - garmomosim  

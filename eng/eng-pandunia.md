@@ -84,7 +84,7 @@ air - air
 air piracy (skyjacking) - airopiratia  
 airforce - airogun  
 airplane - viman  
-airport (aeroport) - airoporte  
+airport (aeroport) - airoporta  
 Aland Islands - Olandi nesia  
 Alaska - Alaska  
 Albania - Cipia  
@@ -103,7 +103,7 @@ almond - badam
 alpaca - alpaka  
 alphabet - harfia  
 also (too, in addition) - a max  
-altar - puzomeze  
+altar - pujomeza  
 alum - aluminmate  
 alumina (aluminum oxide) - aluminoxide  
 aluminium - aluminium  
@@ -192,7 +192,7 @@ Arctic - Artike
 Arctic Ocean - Artiki Hai  
 area (extent of surface) - ar  
 area (region) - aria  
-area of thinking or being - –ia  
+area of thinking or being - ia  
 Argentina - Argentin  
 argon - argon  
 argue (claim) - tese  
@@ -424,6 +424,7 @@ birch tree - berze
 bird - pakse  
 biromantic - duromanse  
 birth (beget, create, breed, generate, produce) - gene  
+birth - nate  
 birthday - genoden  
 birthplace - genoloke  
 biscuit (cookie) - biskute  
@@ -721,24 +722,22 @@ cinematic - kinografe
 cinematography - kinografia  
 cinephile (filmaholic) - kinofilike  
 circle (round) - sirke  
-citizen - cive  
+citizen - sive  
 citizen - gogian  
 citrus fruit - limonike  
 city (town) - site  
-civic - civike  
-civics - civopedia  
-civil - civile  
-civilian - civilian  
+civic - sivike  
+civics - sivopedia  
+civil - sivile  
+civilian - sivilian  
 civilization - sivilia  
-civilization - civilia  
 civilized (civil) - sivile  
-civilized (civil) - civilade  
 clap - ploze  
 clarify (clear up) - klarife  
 class (category) - klas  
 classic (classical) - cenyange  
 classify (categorize) - klase  
-classroom - xulkamar  
+classroom - xulokamar  
 clay - glutofan  
 clean (pure; purify) - safe  
 cleaner - safer  
@@ -902,7 +901,7 @@ copper - kupre
 copy (duplicate, replica) - kope  
 copy (replicate) - kope  
 copyright - kopohake  
-corail - biu  
+coral - koral  
 core (heart, nucleus, kernel) - kore  
 corn (maize) - mais  
 corn poppy - medenpapil  
@@ -992,7 +991,7 @@ Côte d’Ivoire (Ivory Coast) - Kote Da Ivar
 
 ## D  
 
-dad (papa) - pe  
+dad (papa) - pa  
 dagger - kanzar  
 daily - denike  
 daimyo oak - dantobalute  
@@ -1136,7 +1135,6 @@ document (paper used as a proof) - dokomen
 document (paper) - papir  
 document (record, file) - dokum  
 documentary film - dokumfilme  
-doer (agent, actor) - –r  
 dog - vaf  
 doll (puppet) - pupe  
 dollar - dolar  
@@ -1438,7 +1436,6 @@ fermium - fermium
 fern - parne  
 fertilizer - canivaje  
 fibre - linem  
-field (art, workforce) - ria  
 field (square, plaza, maidan) - meden  
 fiery - hoge  
 fiever - febre  
@@ -1749,7 +1746,7 @@ Han Chinese - cine
 hand - hande  
 hang (dangle) - pende  
 hang (dangle) - pende  
-harbor (seaport) - haiporte  
+harbor (seaport) - haiporta  
 hard (tough) - gate  
 hardship (difficulty, challenge) - dushal  
 hardware (ironware, equipment) - metal tul  
@@ -1770,7 +1767,7 @@ hazard (chance; random) - zar
 he or she or it - ya  
 head - sar  
 headache - sartunge  
-headmaster (principal) - xulxefe  
+headmaster (principal) - xuloxefe  
 heal (cure, remedy) - medike  
 health - salia  
 healthy - sale  
@@ -2048,8 +2045,8 @@ Jerusalem - Urusalem
 Jerusalem artichoke (sunroot) - masmulsolful  
 Jesus - yesus  
 Jewish - yahude  
-jihadism - gihadisme  
-jihadist (mujahid) - gihadiste  
+jihadism - jihadisme  
+jihadist (mujahid) - jihadiste  
 joint (join) - junte  
 joint (link) - linke  
 jointly - sin-  
@@ -2106,8 +2103,8 @@ kimono - kimono
 kind (style, sort, type) - yang  
 kinetic - kine  
 king - mani reger  
-king or queen - reger  
-kingdom - regia  
+king or queen - rejer  
+kingdom - rejia  
 Kinshasa - Kinsasa  
 kiosk - kioske  
 Kiribati - Kiribati  
@@ -2187,7 +2184,7 @@ lengthen (prolong) - longife
 lens - lense  
 Lesotho - Soto  
 less - min  
-lesson (teaching) - xul  
+lesson (teaching) - xulaje  
 let's - haide  
 letter (character, written symbol) - harfe  
 lettuce - letis  
@@ -2275,6 +2272,7 @@ lose (shed, miss, misplace) - dexibai
 loser - xibayer  
 loss (failure, miss) - xibai  
 lot (plot of land) - geotike  
+louse - poyu  
 love (liking, affection; dear, beloved) - ame  
 lover - amer  
 low (short) - tale  
@@ -2389,8 +2387,8 @@ Master of Technology - master da tehnolojia (MT)
 match (fit, suit, go well together) - konbone  
 material (resource) - faidaje  
 material - mate  
-maternal grandfather - mape  
-maternal grandmother - mame  
+maternal grandfather - mapatre  
+maternal grandmother - mamatre  
 mathematician - hisabolojer  
 mathematics (math) - hisabolojia  
 matter (be important) - si ham  
@@ -2510,7 +2508,7 @@ mole (unit) - mole
 molecule - molekul  
 mollusk - moluske  
 molybdenum - molidenium  
-mom (mama) - me  
+mom (mama) - ma  
 momentary - sate di  
 Monaco - Monako  
 Monday - den un  
@@ -2709,9 +2707,9 @@ novelty (new product) - novaje
 November - lun des un  
 novice (newbie) - novike  
 nuclear energy - kori energia  
-nuclear fission - kori fenia  
+nuclear fission - kore fenia  
 nuclear fusion - korofuzion  
-nuclear physics - kori fizikia  
+nuclear physics - kore fizikia  
 nuclear weapon (nuke) - kori arme  
 nudism - nudisme  
 nudist - nudiste  
@@ -2916,13 +2914,12 @@ password - pasloge
 past (bygone) - pase  
 past times - cenzam  
 paste (dough) - paste  
-paternal grandfather - pape  
-paternal grandmother - pame  
+paternal grandfather - papatre  
+paternal grandmother - pamatre  
 pathogen - patogener  
 pathology - patolojia  
 patient (subject of medical treatment) - patike  
-pause (break, interruption) - pauze  
-pause (interrupt) - pauze  
+pause (break, interrupt; interruption) - pauze  
 pay - peye  
 payment - pei  
 peace - pace  
@@ -2993,7 +2990,6 @@ picture book - grafobuke
 pidgin (contact language) - pijin  
 pie (pastry) - pai  
 piece (fragment, shred, morsel, crumb, shard) - parce  
-piece (nugget, tikka) - tike  
 pierce (perforate, bore) - konge  
 pig - gurube  
 pilaf (pulao) - polau  
@@ -3056,6 +3052,7 @@ pocket - jebe
 podzol - huidarte  
 poem - xir  
 poet - xirer  
+poetry - xiria  
 point (period, full stop) - punte  
 point (tip, cusp, peak) - pike  
 point at (indicate) - ponte  
@@ -3092,7 +3089,7 @@ porn - porne
 pornography - pornografia  
 porous - porosi  
 port (left side of a ship) - naulefte  
-port (station) - porte  
+port (station) - porta  
 portion (dose) - doze  
 Portugal - Portugal  
 pose (position) - poze  
@@ -3113,7 +3110,6 @@ potato - patate
 potion - medikosui  
 potter - poter  
 pottery - poteria  
-pou - bio  
 pound (£) - paunde  
 power (authority, rule) - sultia  
 practical (pragmatic) - prate  
@@ -3138,7 +3134,6 @@ presence (existence) - zayia
 present (here, now, current situation) - zayaje  
 present time (now) - zay zaman  
 presenty (currently, now) - a zay  
-president - prezidente  
 president - presidente  
 press (pressure) - prese  
 press device - preser  
@@ -3147,7 +3142,7 @@ prick (sting) - pine
 priest (cleric) - dinoguru  
 primary school (elementary school, gradeschool) - bazoxulkan  
 prime minister - xefe minister  
-prince or princess - regoben  
+prince or princess - rejoben  
 print (stamp, press) - cape  
 prison - jelokan  
 privateer (buccaneer) - naukaper  
@@ -3267,7 +3262,7 @@ reach (arrive) - pervene
 react - reate  
 reaction - reation  
 read - duge  
-ready (prepared; prepare) - rede  
+ready (prepared; prepare) - prepare  
 real (authentic, genuine) - jin  
 real (genuine) - rel  
 realism - relisme  
@@ -3308,6 +3303,7 @@ register (record, log) - luge
 registry (account) - lugia  
 regress (fall back) - regrese  
 reign (rule as an emperor) - impere  
+reign - reje  
 reinforce (replenish) - maxobale  
 reinforcements - maxobalaje  
 reject (throw back) - rejete  
@@ -3342,12 +3338,13 @@ republic - komunkratia
 Republic of North Macedonia - Nordi Makedonia  
 research (to study) - loje  
 reserve (book; reservation, booking, withholding) - rezerve  
+reserve (store) - zerve  
 resin - rezin  
 respect (honor, esteem) - onor  
 respect (honor, think highly of) - onore  
 rest (remainder) - livaje  
-rest (repose) - repause  
-rest in peace (RIP) - repause in pace (RIP)  
+rest (repose) - reste  
+rest in peace (RIP) - reste in pace (RIP)  
 restaurant - restorante  
 retain (hold back) - retene  
 return (put back) - retre  
@@ -3382,13 +3379,13 @@ ring - ring
 rip current - tiroriu  
 rise (go up) - gavu  
 risk - riske  
-ritual (ceremony, religious custom) - puzorite  
+ritual (ceremony, religious custom) - pujorite  
 river (stream) - riu  
 road sign - dauban  
 roast - roste  
 rob (loot, plunder, pillage, ransack) - lute  
 robber (plunderer) - luter  
-robe (jubbah) - jube  
+robe (jubbah) - juba  
 robot (bot) - robote  
 rock (sway, tilt) - roke  
 rock - petre  
@@ -3418,7 +3415,7 @@ rough (coarse) - karse
 roulette - rulete  
 round (circular) - sirke  
 routine (habit) - rutin  
-royal - rege  
+royal - rejike  
 rub (scrape, scrub) - frike  
 rubber (latex, eraser) - gom  
 rubidium - rubidium  
@@ -3499,7 +3496,7 @@ scarcity - savia
 scarf (shawl) - xal  
 scary (frightening) - fobante  
 scent (odor, fragrance, aroma) - gande  
-school (institution) - xulkan  
+school (institution) - xulokan  
 science (study, research) - lojia  
 scissors (shears) - makas  
 scoot (ride a scooter, move while sitting) - skute  
@@ -3586,7 +3583,7 @@ share - komune
 shari'a - islam xaria  
 shark - xarke  
 sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.) - tiz:  
-shashlik - sismanse  
+shashlik - xixomanse  
 shatter (break into pieces) - parce  
 shave (scrape, raze) - raze  
 shea (vitellaria) - karite  
@@ -3650,7 +3647,7 @@ sixth - sixime
 size - dayia  
 sizzle - zize  
 skeleton (frame) - ostogamia  
-skewer - sis  
+skewer - xix  
 skill (art, craft) - xute  
 skillful (crafty) - xutike  
 skin (peel, bark, leather) - pil  
@@ -3661,6 +3658,7 @@ slab (slate, tablet, board) - table
 Slavic - slave  
 sleep - some  
 sleeve - kamisi xake  
+slice - tike  
 slide (slip, glide, skate) - glise  
 slipper - babuce  
 Slovakia - Slovakia  
@@ -3806,7 +3804,7 @@ strip (peel) - tira pil
 strong - bale  
 strontium - strontium  
 structure - struture  
-struggle (strife) - gihade  
+struggle (strife) - jihade  
 student (pupil, learner) - xuler  
 student - studer  
 studio (study room, atelier) - studia  
@@ -3821,7 +3819,6 @@ succeed (go well, prosper) - sucese
 suck (absorb) - cupe  
 Sudan - Sudan  
 suffix (postfix) - posfixe  
-suffix for adjectives - –i  
 sugar - sukar  
 sugar beet - sukarbete  
 sugar-apple (sweetsop) - ata  
@@ -3912,8 +3909,8 @@ taximeter - taxi metrer
 tea - cai  
 tea cup - caikupe  
 tea house - caikan  
-teach (educate, instruct) - xulane  
-teacher - xulaner  
+teach (educate, instruct) - xulize  
+teacher - xulizer  
 teacher’s pointer - dikobaton  
 team - tim  
 teapot - caipote  
@@ -3935,7 +3932,7 @@ television - televide
 tellurium - telurium  
 Telugu - teluge  
 temperature - terme  
-temple (place of worship) - puzokan  
+temple (place of worship) - pujokan  
 tempt (entice) - tente  
 ten (10) - des  
 ten thousand - deskilo  
@@ -3963,7 +3960,7 @@ text - texte
 Thai - Tai  
 Thailand - Tai dexia  
 thallium - talium  
-than (as, compared to) - ce  
+than (as, compared to) - ka  
 thank (thanks, thank you) - xukre  
 thanks to - a xukre de  
 that is (in other words, i.e., alias) - alonamo  
@@ -4002,7 +3999,7 @@ thunderstorm - gromtafun
 Thursday - den nelu  
 Tibet - Botia  
 tick (mite) - akare  
-ticket - tikete  
+ticket (slip) - tikete  
 tie (make knot; knot, node) - node  
 tiger - bagre  
 tight (tense; tighten) - tense  
@@ -4184,7 +4181,7 @@ upper - supre
 uranium - uranium  
 Uranus - Uran  
 urban - nagre  
-Urdu - urde  
+Urdu - urdu  
 Uruguay - Uruguai  
 usable (available) - uzable  
 use (employ, apply) - uze  
@@ -4382,8 +4379,8 @@ workshop - karokan
 world - dunia  
 world language - dunia lingue  
 worm - verme  
-worship (reveration) - puze  
-worship (revere) - puze  
+worship (reveration) - puje  
+worship (revere) - puje  
 wow! (gee!) - va  
 wrap (wrapping, envelope, covering) - lifafe  
 write (writing) - kitabe  
@@ -4422,6 +4419,7 @@ yttrium - ytrium
 ## Z  
 
 Zambia - Zambia  
+zeal - zele  
 zebra - zebra  
 zero (none) - siro  
 zetta- - zeta  

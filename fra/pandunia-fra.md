@@ -40,7 +40,7 @@ airbarmetrer - baromètre
 airobike - aérobique  
 anairobike - anaérobique  
 airogun - armée de l'ai  
-airoporte - aéroport  
+airoporta - aéroport  
 ais - glace (glacé, glacial, gelé)  
 aishoke - hockey sur glace  
 aiskrem - crème glacée  
@@ -318,7 +318,6 @@ buton - bouton
 
 ## C  
 
-ce - que (comme)  
 cai - thé  
 caikupe - tasse à thé  
 caipote - théière  
@@ -357,9 +356,6 @@ cinmai - grand-mère
 cinpai - grand-père  
 cini manter - mandarin  
 cire - déchirer  
-• civike - civique  
-• civile - civil  
-• civopedia - éducation civique  
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
 cope - houe  
@@ -623,10 +619,8 @@ Germania - Germanie
 germanium - germanium  
 gestolingue - langue des signes  
 gide - guider  
+• gider - guide  
 gidobuke - guide touristique  
-gider - guide  
-gihade - lutte  
-• gihadiste - moudjahid (djihadiste)  
 gitar - guitare  
 giuke - jade  
 glise - glisser  
@@ -707,6 +701,8 @@ Hindia - Hindustan
 hindium - indium  
 hisabe - calculer  
 • hisabolojia - mathématiques  
+histore - histoire  
+• historia - histoire  
 hoge - feu  
 hoge - brûler  
 hogosan - volcan  
@@ -735,7 +731,6 @@ hura - hourra
 ## I  
 
 i - et  
-–i - suffixe pour l'adjectif  
 in - en  
 • intre - entrer  
 intraje - intestin (entrailles, ventre, boyau)  
@@ -765,20 +760,24 @@ jeke - prêter (empruntre)
 jekocepe - empruntre  
 jekodone - prêter  
 • jelokan - prison (geôle)  
+jen - personne  
 jenisme - jaïnisme  
+• dusojen - ennemi  
 jenju - perle  
 • jetaje - projectile  
 • projete - projet  
 • projetaje - projet  
 • subjete - sujet  
 jetografe - projeter (image projection)  
+jihade - lutte  
+• jihadiste - moudjahid (djihadiste)  
 jinje - gingembre  
 jiraf - giraffe  
 jive - vie  
 jive - vivant  
 jongle - jongler  
 • jongler - jongleur  
-jube - robe  
+juba - robe  
 • judokan - tribunal (cour de justice)  
 • juder - juje  
 • exjude - extrajudiciaire  
@@ -791,6 +790,7 @@ juste - exact (précis)
 
 ## K  
 
+ka - que (comme)  
 kable - câble (corde)  
 kaboge - citrouille  
 kade - morue  
@@ -899,7 +899,7 @@ kopernikium - copernicium
 kore - coeur  
 kore - courir  
 korer - coureur  
-biu - coral  
+koral - corail  
 korne - corne  
 koron - couronne  
 kortokrokodil - alligator  
@@ -1022,7 +1022,7 @@ lutetium - lutécium
 
 ## M  
 
-me - maman  
+ma - maman  
 • matre - mère  
 mace - match  
 madu - miel  
@@ -1254,7 +1254,7 @@ oxide - oxyde
 
 ## P  
 
-pe - pere (papa)  
+pa - pere (papa)  
 • patria - patrie  
 • expatrian - expatrié  
 • konpatrian - compatriote  
@@ -1304,8 +1304,6 @@ patolojia - pathologie
 patomis - infection (contagion)  
 patomise - infecter  
 pau - pistolet  
-• repause - repos  
-• repause in pace (RIP) - repose en paix (REP)  
 pauze - pause  
 • prepede - propédeutique (préparatoire)  
 peikar - profession (métier)  
@@ -1358,7 +1356,7 @@ inplozu - imploser
 plum - prune  
 plumbe - plomb  
 plutonium - plutonium  
-bio - piojo  
+poyu - pou  
 Polinesia - Polynesie  
 polite - gouvernement  
 politer - administrateur  
@@ -1366,10 +1364,10 @@ polskium - polonium
 pore - pore  
 • porosi - poreux  
 porei - poireau  
-porte - porte  
 porte - porter  
 • reporte - repport (reportage)  
 • reporter - reporter (rapporteur)  
+porta - porte  
 portorike - Portoricain  
 Portoriko - Porto Rico  
 pose - suivre  
@@ -1399,6 +1397,8 @@ proxe - proche
 • aproxe - approcher  
 pude - pourri  
 pudu - pourrir (se décomposer)  
+pujokan - temple  
+pujomeza - autel  
 pul - pont  
 puma - couguar (puma)  
 pupe - poupée  
@@ -1409,8 +1409,6 @@ purfine - accomplir (terminer)
 pursipe - tremper (faire mariner)  
 • konputer - ordinateur  
 putavorange - pamplemousse  
-puzokan - temple  
-puzomeze - autel  
 
 ## R  
 
@@ -1434,12 +1432,15 @@ razi table - tabula rasa
 retre - retour (retourner, revenir; remettre)  
 retro - en arrière  
 retroguli sense - nausée  
+reje - régner  
 rel - réel  
 • relia - réalité  
 • relize - réaliser  
 rel televizion - téléréalité  
 renium - rhénium  
 rentogenium - roentgenium  
+reste - repos  
+reste in pace (RIP) - repose en paix (REP)  
 ri- - répétition  
 rice - riche  
 rim - rime  
@@ -1555,6 +1556,9 @@ siri mote - célérité
 sirplan - complot (conspiration)  
 sirkite - pavé  
 site - ville  
+• sivike - civique  
+• sivile - civil  
+• sivopedia - éducation civique  
 six - six (6)  
 skalotan - vigne  
 Skandia - Scandinavie  
@@ -1720,7 +1724,6 @@ un - un (1)
 • uniko - uniquement  
 unomaro - une fois  
 unoki lense - monocle  
-volfe - loup  
 Uran - Uranus  
 uranium - uranium  
 urse - ours  
@@ -1792,6 +1795,7 @@ Vixnu - Vishnou
 vode - promettre (vœu , promesse)  
 • vokal son - voyelle  
 vol - vouloir  
+volfe - loup  
 volfram - tungstène  
 Volof - wolof  
 vulve - vulve  
@@ -1821,21 +1825,22 @@ xing - étoile
 xingofote - étinceler  
 xipe - mouiller (mouillé)  
 • xipete - humide  
+• xiria - poésie  
 xite - merde  
 Xiva - Shiva  
-sis - brochette  
-sismanse - chachlik  
+xix - brochette  
+xixomanse - chachlik  
 xope - acheter (shopping)  
 xukre - merci  
-xul - leçon  
 xule - apprendre (étudier)  
-xulia - éducation  
-xulane - enseigner  
-xulaner - professeur (enseignant)  
-xulkamar - salle de classe  
-xulkan - école (collège)  
-xuler - étudiant  
-xulxefe - directeur (principal)  
+• xulia - éducation  
+• xulaje - leçon  
+• xulize - enseigner  
+• xulizer - professeur (enseignant)  
+• xulokan - école (collège)  
+• xuler - étudiant  
+xulokamar - salle de classe  
+xuloxefe - directeur (principal)  
 xure - début (commencement)  
 
 ##   
@@ -1855,8 +1860,6 @@ yau - besoin (avoir besoin de)
 • anbeyau - inutile  
 ye - oui  
 yege - chasser  
-jen - personne  
-• dusojen - ennemi  
 yesus - Jésus  
 yodium - iode  
 • yogiste - yogi  

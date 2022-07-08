@@ -61,15 +61,15 @@ adjetivo - sifolexe
 administrador - politer  
 admirar - amire  
 adoquín - sirkite  
-adoración (veneración, culto) - puze  
-adorar (venerar) - puze  
+adoración (veneración, culto) - puje  
+adorar (venerar) - puje  
 adormidera (amapola real) - somopapil  
 adulterio - zine  
 adulto - matur  
 adverbo - modologe  
 adversario (oponente) - xatan  
 aeroplano - viman  
-aeropuerto - airoporte  
+aeropuerto - airoporta  
 aeróbico - airobike  
 afecto (emoción) - emos  
 Afganistán - Afgania  
@@ -140,7 +140,7 @@ alpinista (montañista) - montaner
 alquilar (arrendar, dar en arriendo) - kirodone  
 alquilar (arrendar, tomar en arriendo) - kirogete  
 alquiler (arriendo) - kire  
-altar - puzomeze  
+altar - pujomeza  
 alternar (interactuar) - soce  
 alto (parte de arriba) - gau  
 alto - gave  
@@ -255,7 +255,6 @@ arroz - ris
 arruinado (devastado, asolado) - harabe  
 arruinar (destruir, devastar, asolar) - harabe  
 arsénico - arsene  
-arte (campo) - ria  
 arte - arte  
 arte marcial - jengoxute  
 artefacto - artofete  
@@ -381,7 +380,7 @@ base (básico; fundar, basar) - baze
 base (álcali; alcalino) - alkale  
 bastante - bas  
 basura (desechos) - laze  
-bata (aljuba) - jube  
+bata (aljuba) - juba  
 batidora (licuadora, mezcladora) - mixer  
 baya - beri  
 bañarse (baño) - banya  
@@ -451,7 +450,7 @@ bravo! - bravo
 brazo - handange  
 Brazzaville - Brazavil  
 brillante (luminoso) - ming  
-brocheta - sis  
+brocheta - xix  
 broma (chiste) - joke  
 bromista (chistoso) - joker  
 bromo - bromium  
@@ -699,10 +698,9 @@ citología - celolojia
 ciudad - site  
 Ciudad de México - Mehiko site  
 ciudadano - gogian  
-civil - civile  
+civil - sivile  
 civilización - sivilia  
 civilizado - sivile  
-civilizado - civilade  
 ciénaga (pantano) - fangostan  
 claro - klare  
 clarín (corneta) - buge  
@@ -844,7 +842,7 @@ copia (réplica) - kope
 copia de seguridad - sekurokope  
 copiar - kope  
 copérnico - kopernikium  
-coral - biu  
+coral - koral  
 corazón (núcleo) - kore  
 corazón - xim  
 Corea - Cosen  
@@ -952,7 +950,7 @@ célula - cel
 césped (hierba) - cau  
 círculo - sirke  
 cítrico - limonike  
-cívico - civike  
+cívico - sivike  
 cóctel - mixi alkol  
 código (cifra) - kode  
 cólera - holera  
@@ -1029,7 +1027,7 @@ desarrollo - dargomute
 desatascar - detape  
 desayuno - subyam  
 descargar - netogete  
-descase en paz - repause in pace (RIP)  
+descase en paz - reste in pace (RIP)  
 desconectar - dekonnete  
 descriptivo - sifive  
 desfigurar - dusforme  
@@ -1073,7 +1071,7 @@ diorita - diorite
 dios - deu  
 dirección - adres  
 dirección de IP - IP adres  
-director de colegio - xulxefe  
+director de colegio - xuloxefe  
 dirigente (líder) - lider  
 dirigir (mandar, conducir, capitanear) - lide  
 disco - diske  
@@ -1150,7 +1148,7 @@ Ecuador - Ekuador
 ecuador - geoparlin  
 edad - sene  
 educación - xulia  
-educación cívica - civopedia  
+educación cívica - sivopedia  
 educado - keci  
 efecto - exfete  
 efecto secundario - parafete  
@@ -1224,7 +1222,7 @@ enredadera - skalotan
 ensalada - salade  
 ensayo (ejercitio) - lense  
 ensayo (redacción) - esei  
-enseñar - xulane  
+enseñar - xulize  
 entender (comprender) - ahe  
 entero (todo) - hole  
 entrada - intromun  
@@ -1265,7 +1263,7 @@ escribir (escritura) - kitabe
 escritorio (mesa de trabajo) - karmeze  
 escuchar (oír) - ore  
 escudo - defoban  
-escuela (colegio, institución) - xulkan  
+escuela (colegio, institución) - xulokan  
 escuela primaria - bazoxulkan  
 escuela secundaria - zungoxulkan  
 esculpir (escultura, estatua) - skulte  
@@ -1320,8 +1318,8 @@ estornudar (achís) - aci
 estrella - xing  
 estribor - nauraite  
 estudiante (alumno) - studente  
-estudiante - xuler  
 estudiante - studer  
+estudiante - xuler  
 estudiar (examinar) - stude  
 estudiar (investigar) - loje  
 estudio - studia  
@@ -1419,7 +1417,7 @@ finés - suome
 fiordo - fiorde  
 firmar - namkitabe  
 fisicoculturismo (culturismo, musculación) - muskulbin  
-fisión nuclear - kori fenia  
+fisión nuclear - kore fenia  
 flecha - flece  
 flerovio - flerovium  
 flor - ful  
@@ -1471,7 +1469,7 @@ fácil - fasile
 fácil acceso (accesibilidad) - fasilia da acese  
 física - fizike  
 física - fizikia  
-física nuclear - kori fizikia  
+física nuclear - kore fizikia  
 físico (científico) - fiziker  
 fósforo - pospor  
 fútbol - futobol  
@@ -1617,7 +1615,6 @@ género social - soce ginse
 habitación (cuarto, sala, pieza) - kamar  
 hablador (locuaz) - logive  
 hablante de Pandunia - panduniste  
-hacedor (perpetrador) - –r  
 hacer (hecho) - fete  
 hacer - fete  
 hacer malabarismos - jongle  
@@ -1966,7 +1963,7 @@ lavadora - vaxomaxin
 lavar - vaxe  
 leal (fiel) - bekredable  
 lealtad (fidelidad) - bekredablia  
-lección - xul  
+lección - xulaje  
 leche - milke  
 leche de soja - soimilke  
 lecho de roca - bazopetre  
@@ -2027,7 +2024,7 @@ lirio (azucena) - susan
 lista - liste  
 lista blanca - halaloliste  
 lista negra - haramliste  
-listo (preparado; preparar) - rede  
+listo (preparado; preparar) - prepare  
 literatura - kitabia  
 litio - litium  
 litro - litre  
@@ -2053,7 +2050,7 @@ logical - ratolojike
 longitud - vestodongia  
 loro (papagayo) - papagai  
 lote (grupo) - lote  
-lucha - gihade  
+lucha - jihade  
 luchador (guerrero) - jenger  
 lugar (colocar, poner) - loke  
 lugar de nacimiento - genoloke  
@@ -2091,7 +2088,7 @@ maduro (adulto, curado) - mature
 maestro (experto) - mester  
 maestro (gurú, profesor) - guru  
 maestro (profesor) - xenseng  
-maestro (profesor, docente) - xulaner  
+maestro (profesor, docente) - xulizer  
 magenta (fucsia) - magente  
 magia - magia  
 magical - mage  
@@ -2114,7 +2111,7 @@ malinterpretar - mesbude
 malo (difícil, duro) - dus  
 malo (difícil, duro) - duse  
 Malta - Malte  
-mamá - me  
+mamá - ma  
 mamífero - mamal  
 mamífero - mamal  
 mancha - nagisbinde  
@@ -2348,7 +2345,7 @@ muro (muralha) - mur
 musgo - mos  
 musulmán - islaman  
 musulmán - islamiste  
-muyahid (yihadista) - gihadiste  
+muyahid (yihadista) - jihadiste  
 Myanmar (Birmania) - Myanma  
 máquina - maxin  
 máquina de escribir - kitabomaxin  
@@ -2604,14 +2601,14 @@ papaya - papai
 papel - kaguje  
 papel - rol  
 papel tapiz - murkaguze  
-papá - pe  
+papá - pa  
 Papúa Nueva Guinea - Papua Novi Ginia  
 parada (alto) - ting  
 Paraguay - Paraguai  
 paralelo - parline  
 paranormal - paranorme  
 parar (detener) - tinge  
-parar - pauze  
+parar (pausa) - pauze  
 pararse (detenerse) - state  
 pararse (detenerse) - tingu  
 parasol - barsocate  
@@ -2649,7 +2646,6 @@ patología - patolojia
 patria - patria  
 patrimonio (herencia, legado) - varis  
 patógeno - patogener  
-pausa - pauze  
 pavo (guajalote) - dinde  
 payaso (clown) - payace  
 paz - pace  
@@ -2661,7 +2657,6 @@ pecado - duskar
 pecho (busto) - buste  
 pecho (seno, tórax) - sina  
 pedal - pedal  
-pedazo - tike  
 pedernal (sílex) - hogite  
 pedir (invitar; por favor) - cing  
 pedir prestado - jekocepe  
@@ -2740,7 +2735,7 @@ pino - song
 pintar - pente  
 pintor - penter  
 pintura - pente  
-piolho - bio  
+piojo - poyu  
 piperita - piprominte  
 pirata - pirater  
 piratería - piratia  
@@ -2787,6 +2782,7 @@ poder (posible) - able
 podrido (cariado) - pude  
 podsol - huidarte  
 poema - xir  
+poesía - xiria  
 poeta - xirer  
 polaco - polske  
 policía - polis  
@@ -2813,7 +2809,7 @@ poro - pore
 poroso - porosi  
 porque - a sababe de  
 portapapeles - katoglutoban  
-porto - porte  
+porto - porta  
 Portugal - Portugal  
 pose (postura) - poze  
 poseer (tener, ser dueño de; propiedad) - male  
@@ -2840,7 +2836,6 @@ prenatal - prenatal
 prensa - preser  
 presencia (existencia) - zayia  
 presente - zay zaman  
-presidente - prezidente  
 presidente - presidente  
 presión - prese  
 presión atmosférica - airbaria  
@@ -2912,7 +2907,7 @@ pueblo - nagre
 puente - pul  
 puerro (cebolla larga) - porei  
 puerta - mun  
-puerto marítimo - haiporte  
+puerto marítimo - haiporta  
 Puerto Rico - Portoriko  
 puertorriqueño - portorike  
 pulir (lustrar) - fotofrike  
@@ -2935,7 +2930,7 @@ píxel - grafeme
 pólvora - barude  
 póquer - poke  
 qualquier (arbitrario) - no ham di  
-que (como) - ce  
+que (como) - ka  
 quemar - hoge  
 quemarse - hogu  
 querer (desear; deseo) - vol  
@@ -2993,7 +2988,7 @@ raíz - mul
 raíz - radike  
 reaccionar - reate  
 reacción - reation  
-real (de realtad) - rege  
+real (de realtad) - rejike  
 real - rel  
 realidad - relia  
 realizar - relize  
@@ -3026,7 +3021,8 @@ regresar (restablecer, restaurar, recuperar, reanudar) - fuge
 reina - femi reger  
 reinar (gobernar) - sulte  
 reinar (reinar como emperador) - impere  
-reino - regia  
+reinar - reje  
+reino - rejia  
 Reino Unido - Britania  
 relación (asociación, conexión) - guanse  
 religión - din  
@@ -3047,7 +3043,7 @@ repetición - ri-
 repetir - rifete  
 reportar - reporte  
 reportero - reporter  
-reposo - repause  
+reposo - reste  
 representación (figura) - figur  
 representar - vakile  
 Republica Dominicana - Dominiki Komunkratia  
@@ -3072,7 +3068,7 @@ reventar - parcokayu
 revisar (chequear) - ceke  
 revista (periódico, gaceta) - gazete  
 rey - mani reger  
-rey o reina - reger  
+rey o reina - rejer  
 rezar (orar; rezo, oración) - dua  
 reír - hahe  
 rico - rice  
@@ -3083,7 +3079,7 @@ ring - ringar
 rinoceronte - kornonos  
 rio - riu  
 ritmo - ritim  
-rito (ceremonia) - puzorite  
+rito (ceremonia) - pujorite  
 riñon - nefre  
 robar (hurtar; robo, hurto) - core  
 roble - balute  
@@ -3326,8 +3322,7 @@ Suecia - Suenia
 suegra - gamoma  
 suegro - gamopa  
 sufijo - posfixe  
-sufijo para adjetivos - –i  
-sufijo para regiónes y sustantivos abstractos - –ia  
+sufijo para regiónes y sustantivos abstractos - ia  
 sufragio (derecho al voto) - votohake  
 sufrir (verbo pasivo) - be  
 Suiza - Suisia  
@@ -3410,7 +3405,7 @@ televisión - televide
 telurio - telurium  
 tema - tem  
 temperatura - terme  
-templo - puzokan  
+templo - pujokan  
 tendencia - ivia  
 tender - ive  
 tenedor - forke  
@@ -3581,7 +3576,7 @@ unshu mikan - venzovorange
 uranio - uranium  
 Urano - Uran  
 urbano - nagre  
-urdu - urde  
+urdu - urdu  
 Uruguay - Uruguai  
 usar (aplicar) - uze  
 uso (utilidad, beneficio; útil (beneficioso) - faide  

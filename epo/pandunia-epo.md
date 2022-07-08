@@ -34,7 +34,7 @@ ai - aj (alas)
 ainstainium - ejnŝtejnio  
 air - aero  
 airogun - aerarmeo  
-airoporte - flughaveno  
+airoporta - flughaveno  
 ais - glacio (frosto)  
 aiskrem - glaciaĵo  
 ale - alia (aliigi, ŝanĝi)  
@@ -260,7 +260,6 @@ buze - kapro
 
 ## C  
 
-ce - ol (kiel)  
 cabe - ŝlosilo  
 cai - teo  
 caipote - teujo  
@@ -667,7 +666,7 @@ hai - maro
 hai - mara  
 haiamirer - admiralo (ŝiparestro)  
 haigun - mararmeo  
-haiporte - haveno  
+haiporta - haveno  
 haide - ni faru...  
 Haiti - Haitio  
 hake - rajto  
@@ -755,8 +754,7 @@ hux - agrabla
 ## I  
 
 i - kaj  
-–i - -a (-e)  
-–ia - ejo (ujo, io)  
+ia - ejo (ujo, io)  
 ibre - Hebrea  
 ice - volo  
 ide - ideo  
@@ -793,7 +791,9 @@ jau - hordeo
 jebe - poŝo  
 jele - malliberigi  
 • jelokan - malliberejo  
+jen - persono  
 jenisme - Ĝajnismo  
+• dusojen - malamiko  
 jeng - milito (batalo)  
 jenge - milita  
 jenju - perlo  
@@ -804,7 +804,7 @@ jive - vivo
 jive - viva  
 jongle - ĵongli  
 • jongler - ĵonglisto  
-jube - robo  
+juba - robo  
 jude - juĝo  
 • juder - juĝisto  
 • exjude - senjuĝa  
@@ -815,6 +815,7 @@ juste - preciza (ekzakta; ĝuste )
 
 ## K  
 
+ka - ol (kiel)  
 kadium - kadmio  
 kafe - kafo  
 kafe kan - kafejo  
@@ -937,12 +938,12 @@ kope - kopio
 kope - kopii  
 kopernikium - kopernicio  
 kore - kerno (koro)  
-kori fizikia - kernfiziko  
+kore fizikia - kernfiziko  
 kore - kuri  
 kori arme - kernarmilo  
 kori energia - kernenergio  
 korer - kuristo  
-biu - koralli  
+koral - koralo  
 korne - korno  
 kornonos - rinocero  
 koron - krono  
@@ -1058,7 +1059,7 @@ lutetium - lutecio
 
 ## M  
 
-me - patrino  
+ma - patrino  
 madu - mielo  
 maf - pardono  
 mafe - pardoni  
@@ -1292,7 +1293,7 @@ oxide - oksido
 
 ## P  
 
-pe - paĉjo  
+pa - paĉjo  
 • patre - patro  
 • patria - patrujo  
 • konpatrian - samlandano  
@@ -1325,6 +1326,7 @@ papagai - papago
 papai - papajo  
 par - nivelo  
 pari numbe - para nombro  
+• prepare - preta  
 parvezia - ekvilibro  
 parce - ero  
 parke - parko (ĝardeno)  
@@ -1339,8 +1341,6 @@ patolojia - patologio
 patomis - infekto  
 patate - terpomo  
 pau - fusilo  
-• repause - ripozo  
-• repause in pace (RIP) - ripozu pace  
 • prepede - propedeŭtiko  
 pedal - pedalo  
 peikar - metiero  
@@ -1396,7 +1396,7 @@ politike - politika
 polskium - polonio  
 ponte - montri  
 pore - poro  
-porte - haveno  
+porta - haveno  
 Portoriko - Portoriko  
 pos - sekvo  
 pose - sekvi  
@@ -1410,13 +1410,14 @@ postomarke - poŝtmarko
 pote - kruĉo  
 prese - premo  
 • preser - premilo  
-prezidente - prezidento  
 problem - problemo  
 profeser - profesoro  
 program - programo  
 prometium - prometio  
 protacinium - protaktinio  
 proxe - proksima  
+pujokan - templo  
+pujomeza - altaro  
 pul - ponto  
 pulmon - pulmo  
 punte - punkto  
@@ -1428,12 +1429,9 @@ purfine - kompleti
 putau - vinbero  
 Putong Cini - mandarinĉina  
 putonge - generala  
-puzokan - templo  
-puzomeze - altaro  
 
 ## R  
 
-–r - isto (anto)  
 radi geter - radio  
 radium - radiumo  
 radon - radono  
@@ -1452,8 +1450,7 @@ rastu - kreski
 • ratolojike - logika  
 retre - reiri  
 • realaje - afero (realaĵo)  
-rede - preta  
-• reger - reĝo aŭ reĝino  
+• rejer - reĝo aŭ reĝino  
 rel - reala  
 • relia - realeco  
 • relisme - realismo  
@@ -1462,6 +1459,8 @@ rel - reala
 • anrel - nereala  
 renium - renio  
 rentogenium - rentgenio  
+reste - ripozo  
+reste in pace (RIP) - ripozu pace  
 restorante - restaŭracio  
 rezin - rezino  
 ri- - ripetado  
@@ -1750,7 +1749,6 @@ unale - unu la alian (reciproke)
 unemisme - monismo  
 unomaro - unufoje  
 unoki lense - monoklo  
-volfe - lupo  
 uranium - uranio  
 urse - urso  
 uze - uzi  
@@ -1804,6 +1802,7 @@ Vixnu - Viŝnuo
 vode - promesi  
 • vokal son - vokalo  
 vol - voli  
+volfe - lupo  
 vulve - vulvo  
 
 ## X  
@@ -1833,23 +1832,24 @@ xing - stelo
 xipe - malseka  
 • xipete - humida  
 xir - poemo  
+• xiria - poezio  
 xirope - siropo  
 xite - merdo  
 Xiva - Ŝivo  
-sismanse - ŝaŝliko  
+xixomanse - ŝaŝliko  
 xofe - konduki  
 • xofer - ŝoforo (kondukisto)  
 xope - aĉeti  
 xoper - aĉetanto (aĉetisto)  
 xou - montri (ekspozicii)  
 xukre - danki (dankon)  
-xul - leciono  
 xule - lerni (studi)  
-xulane - instrui  
-xulaner - instruisto  
-xulkan - lernejo  
-xuler - studento (lernanto)  
-xulxefe - lernejestro  
+• xulaje - leciono  
+• xulize - instrui  
+• xulizer - instruisto  
+• xulokan - lernejo  
+• xuler - studento (lernanto)  
+xuloxefe - lernejestro  
 xure - komenci  
 
 ##   
@@ -1869,8 +1869,6 @@ ye - jes
 yege - ĉasi  
 • yeger - ĉasisto  
 Yemen - Jemeno  
-jen - persono  
-• dusojen - malamiko  
 yesus - Jesuo  
 yeze - kokoso  
 yo - iu  

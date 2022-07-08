@@ -370,8 +370,7 @@ cytować - cite
 cytryna - limon  
 cywilizacja - sivilia  
 cywilizowany (ucywilizowany) - sivile  
-cywilizowany (ucywilizowany) - civilade  
-cywilny - civile  
+cywilny - sivile  
 Czad - Cadia  
 czajnik - ketle  
 czapetka kuminowa - jambul  
@@ -384,14 +383,14 @@ czas - sate
 czas; okazja - mar  
 czasownik - karloge  
 czaszka - saroste  
-czcić, szanować - puze  
+czcić, szanować - puje  
 czek - ceke  
 czekać - denge  
 czekolada - coklate  
 czempion - campion  
 czerwiec - lun tri  
 czerwony - lale  
-cześć, szacunek - puze  
+cześć, szacunek - puje  
 czosnek olbrzymi - dailasun  
 cztery (4) - care  
 czuć (poczuć, postrzegać, wykrywać) - sense  
@@ -509,7 +508,7 @@ dyktatura - ditateria
 dyktować - dite  
 dym - duman  
 dynamit - dinamite  
-dyrektor szkoły - xulxefe  
+dyrektor szkoły - xuloxefe  
 dysk - diske  
 dyskretny (cyfrowy, kwantowy) - feni  
 dyskusja, debata, dyskurs - lon  
@@ -646,7 +645,7 @@ firma, kompania, korporacja - kompania
 fizyk - fizikia  
 fizyka - fizike  
 fizyka - fiziker  
-fizyka nuklearna - kori fizikia  
+fizyka nuklearna - kore fizikia  
 fiński - suome  
 flaga, sztandar - bandir  
 flerow - flerovium  
@@ -724,7 +723,7 @@ gorzka pomarańcza - alkalorange
 gorzki - alkaloguste  
 gorączka - febre  
 gotować, szykować jedzenie - kuke  
-gotowy (przygotować, przygotowywać) - rede  
+gotowy (przygotować, przygotowywać) - prepare  
 gra (grać w grę) - gem  
 gra planszowa - banogem  
 gracki, helleński; Grek - helene  
@@ -940,7 +939,7 @@ jadalnia - yamkamar
 jagoda - beri  
 jajko (jajo) - ove  
 jak (zwierzę) - yake  
-jak, niż, od - ce  
+jak, niż, od - ka  
 jak? - ke xei  
 jaki? - ke yange  
 jakikolwiek, którykolwiek - no ham di  
@@ -1169,6 +1168,7 @@ kopernik - kopernikium
 kopia, replika - kope  
 kopiować, replikować - kope  
 kopuła - kupocate  
+koral - koral  
 Koran - kuran  
 Korea - Cosen  
 Korea Południowa - Sudi Cosen  
@@ -1231,9 +1231,9 @@ krzyknąć, krzyczeć - klame
 krzywdzący (szkodliwy) - avaran  
 krzyż - krus  
 król - mani reger  
-król lub królowa - reger  
-królestwo - regia  
-królewski - rege  
+król lub królowa - rejer  
+królestwo - rejia  
+królewski - rejike  
 królik, zając - tuze  
 królowa - femi reger  
 krótki - korte  
@@ -1303,7 +1303,7 @@ laudacja - euloge
 lawa - fuzopetre  
 lazania - lazanya  
 lejek - darotube  
-lekcja - xul  
+lekcja - xulaje  
 lekki - lege  
 lepić (kleić; klej) - glute  
 Lesotho - Soto  
@@ -1354,7 +1354,7 @@ lojalny (wierny) - bekredable
 Londyn - London  
 lorens - laurensium  
 lot (latać, lecieć) - fei  
-lotnisko (port lotniczy) - airoporte  
+lotnisko (port lotniczy) - airoporta  
 lub, albo - o  
 lubić (zamiłowanie, -filia) - file  
 lubić, cieszyć się - suku  
@@ -1406,7 +1406,7 @@ Malediwy (Republika Malediwów) - Divehia
 Malezja - Malaisia  
 Mali - Male  
 Malta - Malte  
-mama - me  
+mama - ma  
 mandarynka - lalorange  
 mandarynka Satsuma (pomarańcza Satsuma) - venzovorange  
 mandaryński chiński, Putonghua - Putong Cini  
@@ -1658,7 +1658,7 @@ nasienny - semenike
 następny (następujący) - pose  
 natura - nature  
 natura, środowisko - ekia  
-nauczyciel - xulaner  
+nauczyciel - xulizer  
 nauczyć się, uczyć się, studiować - xule  
 nauka, badanie, studiowanie - lojia  
 Nauru - Nauru  
@@ -1817,7 +1817,7 @@ ogr (trol, goblin) - gui
 ogórek - hiyar  
 ogórek kiwano - kornomelon  
 ogórek melon - melon  
-ojciec - pe  
+ojciec - pa  
 ojczyzna - patria  
 okej, spoko, akceptowalny - okeye  
 okno - janel  
@@ -1874,7 +1874,7 @@ owad - koncung
 owca - meh  
 owoc - pal  
 owoc kiwi - kivi  
-ołtarz - puzomeze  
+ołtarz - pujomeza  
 ołów - plumbe  
 oś - axe  
 ośmiornica - batosenter  
@@ -1946,7 +1946,6 @@ patelnia - tave
 patogen - patogener  
 patologia - patolojia  
 patrzeć (oglądać) - oke  
-pauza (przerwa) - pauze  
 paznokieć - nahun  
 pałac - daidom  
 paść (padać, upaść, upadać) - pade  
@@ -2064,6 +2063,7 @@ podążać - pose
 podłoga - kamartal  
 poemat - xir  
 poeta - xirer  
+poezja - xiria  
 pogoda - tenhal  
 pogrubiona litera - grosi harfe  
 poinformować, informować, zakomunikować, komunikować - konsavane  
@@ -2117,8 +2117,8 @@ pornografia - pornografia
 porost - algafung  
 porozumienie - samrayia  
 porozumienie - trete  
-port - porte  
-port morski (przystań) - haiporte  
+port - porta  
+port morski (przystań) - haiporta  
 Portoryko (Puerto Rico) - Portoriko  
 Portugalia - Portugal  
 porywacz pociągu - trenkaper  
@@ -2199,7 +2199,6 @@ precyzyjny (dokładny) - juste
 preferować (woleć) - profile  
 prekursor - prekurser  
 premier - xefe minister  
-prezydent - prezidente  
 prezydent - presidente  
 problem - problem  
 problematyczny - problemike  
@@ -2258,7 +2257,7 @@ przekątny - transogone
 przepołowić (podzielić przez dwa) - dufene  
 przepraszam! - maf  
 przepękla ogórkowata (balsamka ogórkowata) - alkalomelon  
-przerwać, przerywać - pauze  
+przerwać (przerywać; pauza, przerwa) - pauze  
 przesilenie - solestas  
 przesilenie letnie (dzień srodka lata) - garmomosimmedi den  
 przestępstwo - krim  
@@ -2267,8 +2266,8 @@ przeszłość - cenzam
 przeszły, miniony - pase  
 przetwarzać - risikle  
 przewidzieć (spodziewać się) - cenvide  
-przewodnik - gider  
 przewodnik - gidobuke  
+przewodnik - gider  
 przewód (kanał) - kanaler  
 przeziębienie, katar - zukam  
 przeznaczenie, los - nasibe  
@@ -2288,10 +2287,8 @@ przymus - mus
 przyprawa - masale  
 przyrostek (sufiks) - posfixe  
 przyrostek dla ideologii - isme  
-przyrostek dla miejsca - –ia  
-przyrostek dla przymiotnika - –i  
+przyrostek dla miejsca - ia  
 przyrostek dla wsperającego ideę - iste  
-przyrostek dla wykonawcy - –r  
 przystojny, atrakcyjny, ładny - bonvide  
 przyszłość - posozam  
 przysłówek - modologe  
@@ -2431,13 +2428,13 @@ rozmiar - dayia
 rozmnażać - genite  
 rozmowny - logive  
 rozróżniać (rozróżnić) - hase  
-rozszczepienie jądra atomowego - kori fenia  
+rozszczepienie jądra atomowego - kore fenia  
 rozum, rozsądek - ration  
 rozumieć, pojmować - ahe  
 rozwój - dargomute  
 rozłożyć się (rozkładać się, gnić, psuć się) - pudu  
 roślina, sadzonka - fite  
-rożen (szpikulec) - sis  
+rożen (szpikulec) - xix  
 rtęć - hurargente  
 rubid - rubidium  
 rubin - lalobavite  
@@ -2462,7 +2459,7 @@ rym (wers) - rim
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
-rytuał, ceremonia, ryt - puzorite  
+rytuał, ceremonia, ryt - pujorite  
 ryzyko - riske  
 ryś - lince  
 ryś rudy - lalolince  
@@ -2633,7 +2630,7 @@ specjalny, wyraźny, wyrazisty - hase
 spis treści (tabela zawartości) - inliste  
 spisek (konspiracja) - sirplan  
 spocony - suedos  
-spoczywaj w pokoju - repause in pace (RIP)  
+spoczywaj w pokoju - reste in pace (RIP)  
 spodnie (pantalony, portki) - pante  
 spokojny - xante  
 sporokarp - fungopal  
@@ -2737,7 +2734,7 @@ Szanghaj - Xanghai
 szansa - canse  
 szariat - islam xaria  
 szary - huirange  
-szaszłyk - sismanse  
+szaszłyk - xixomanse  
 szczepionka - vacin  
 szczoteczka do zębów - dantobros  
 szczotka - bros  
@@ -2756,7 +2753,7 @@ szisz kebab - xixkababe
 szkielet - ostogamia  
 szklić (glazurować) - kancodake  
 Szkocja - Skotia  
-szkoła (instytucja) - xulkan  
+szkoła (instytucja) - xulokan  
 szkoła podstawowa - bazoxulkan  
 szkło - kance  
 szkło wulkaniczne - hogosani kance  
@@ -2877,7 +2874,6 @@ terroryzm - terurisme
 Terytorium Palestyńskie - Filistin  
 tesla (T) - tesle  
 test, wyzwanie, próba - teste  
-tikka - tike  
 tikka masala - masali tike  
 Timor - Timor  
 Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dongi Timor  
@@ -2996,7 +2992,7 @@ uprawić, uprawiać - agre
 uprzejmy - keci  
 Uran - Uran  
 uran - uranium  
-urdu - urde  
+urdu - urdu  
 uroczy, słodki - kavai  
 urodziny - genoden  
 Urugwaj - Uruguai  
@@ -3383,7 +3379,7 @@ zombie, zombi - zombi
 zoo (ogród zoologiczny) - zooparke  
 zoologia - zoolojia  
 zoologiczny - zoolojike  
-zostawić, zostawiać - repause  
+zostawić, zostawiać - reste  
 zrobić (czyn, uczynek) - fete  
 zrobić (stworzyć, wykreować) - fete  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - can  
@@ -3463,7 +3459,7 @@ zły, zrujnowany, zepsuty - harabe
 świetny - kule  
 świeży - taze  
 świnia - gurube  
-świątynia - puzokan  
+świątynia - pujokan  
 święto - festoden  
 święty - sante  
 źle zrozumieć - mesbude  

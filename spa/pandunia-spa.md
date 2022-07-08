@@ -47,7 +47,7 @@ airbarmetrer - barómetro
 airobike - aeróbico  
 anairobike - anaeróbico  
 airogun - fuerza aérea  
-airoporte - aeropuerto  
+airoporta - aeropuerto  
 ais - hielo (congelarse, helarse)  
 aishoke - hockey sobre hielo  
 aiskrem - helado  
@@ -421,7 +421,6 @@ buze - cabra
 
 ## C  
 
-ce - que (como)  
 cabe - llave  
 Cadia - Chad  
 cai - té  
@@ -499,10 +498,6 @@ Cipia - Albania
 cire - rasgar (romper)  
 cite - citar  
 citomarke - comilla  
-• civike - cívico  
-• civile - civil  
-• civilade - civilizado  
-• civopedia - educación cívica  
 code - joder (coger, copular)  
 coi - verduras  
 coklate - chocolate  
@@ -1047,11 +1042,9 @@ gestolingue - lenguaje de signos (lenguaje de señas)
 Gibraltar - Gibraltar  
 Gibuti - Yibuti  
 gide - guiar  
+• gider - guía  
 gidobuke - guía de viaje  
-gider - guía  
 gige - giga-  
-gihade - lucha  
-• gihadiste - muyahid (yihadista)  
 gitar - guitarra  
 giuke - jade  
 glise - deslizar  
@@ -1141,7 +1134,7 @@ haiful - actinia (anémonas de mar)
 haigel - medusa  
 haigun - marina (armada)  
 haihiyar - holoturia (pepino de mar)  
-haiporte - puerto marítimo  
+haiporta - puerto marítimo  
 haitate - costa  
 haide - vamos a  
 Haiti - Haití  
@@ -1283,8 +1276,7 @@ hux - cómodo (lujoso)
 ## I  
 
 i - y  
-–i - sufijo para adjetivos  
-–ia - sufijo para regiónes y sustantivos abstractos  
+ia - sufijo para regiónes y sustantivos abstractos  
 ibre - hebreo  
 ice - voluntad (querer, disponer)  
 ide - idea (noción, concepto)  
@@ -1356,13 +1348,16 @@ jekolexe - préstamo lingüístico
 jele - encarcelar (aprisionar)  
 • jelokan - cárcel  
 • jeler - carcelero  
+jen - persona  
 jenisme - jainismo  
+• dusojen - enemigo  
 no jen - ningunos  
 jeng - pelea (guerra, batalla)  
 jenge - macrial (militar)  
 • jenger - luchador (guerrero)  
 jengoxute - arte marcial  
 jenju - perla  
+jensen - ginseng  
 Jerzi - Jersey  
 • jetaje - proyectil (misil)  
 • injete - inyección  
@@ -1371,6 +1366,8 @@ injete - inyectar
 • projetaje - proyecto  
 jetografor - proyector  
 jetografe - proyectar (proyección)  
+jihade - lucha  
+• jihadiste - muyahid (yihadista)  
 jinje - gengibre  
 jiraf - jirafa  
 jive - vida  
@@ -1379,7 +1376,7 @@ joke - broma (chiste)
 joker - bromista (chistoso)  
 jongle - hacer malabarismos  
 • jongler - malabarista  
-jube - bata (aljuba)  
+juba - bata (aljuba)  
 jude - juzgar (fallo, juicio, criterio)  
 • judokan - tribunal de justicia  
 • juder - juez (árbitro, réferi)  
@@ -1396,6 +1393,7 @@ justopaver - francotirador
 
 ## K  
 
+ka - que (como)  
 kababe - asar  
 kabau - búbalo (arni)  
 kabin - cabaña  
@@ -1648,14 +1646,14 @@ kope - copiar
 kopohake - derechos de autor (copyright)  
 kopernikium - copérnico  
 kore - corazón (núcleo)  
-kori fenia - fisión nuclear  
-kori fizikia - física nuclear  
+kore fenia - fisión nuclear  
+kore fizikia - física nuclear  
 kore - correr  
 kori arme - arma nuclear  
 kori energia - energía nuclear  
 korer - corredor  
 korofuzion - fusión nuclear  
-biu - coral  
+koral - coral  
 korne - cuerno  
 kornonos - rinoceronte  
 koron - corona  
@@ -1917,7 +1915,7 @@ Luxemburge - Luxemburgo
 
 ## M  
 
-me - mamá  
+ma - mamá  
 • matre - madre  
 mace - competir (partido)  
 madu - miel  
@@ -2437,7 +2435,7 @@ oxide - óxide
 
 ## P  
 
-pe - papá  
+pa - papá  
 • patre - padre  
 • patria - patria  
 • expatrian - expatriado  
@@ -2498,6 +2496,7 @@ pari numbe - número par
 • paran - equilibrado (par)  
 • parike - equilibrado (par)  
 • konpare - comparar (equiparar)  
+• prepare - listo (preparado; preparar)  
 • repare - reparar  
 parline - paralelo  
 parlinu - alinear  
@@ -2536,10 +2535,7 @@ patate - papa
 pau - pistola (rifle)  
 pave - disparar  
 paunde - libra (£)  
-• repause - reposo  
-• repause in pace (RIP) - descase en paz  
-pauze - pausa  
-pauze - parar  
+pauze - parar (pausa)  
 pedal - pedal  
 pedalsikle - bicicleta  
 pei - pago  
@@ -2628,7 +2624,7 @@ plum - ciruela
 plumbe - plomo  
 Pluton - Plutón  
 plutonium - plutonio  
-bio - piolho  
+poyu - piojo  
 poke - póquer  
 polfas - poliedro  
 polmene - ambiguo  
@@ -2658,13 +2654,13 @@ pore - poro
 porei - puerro (cebolla larga)  
 porne - porno  
 pornografia - pornografía  
-porte - porto  
 • exporte - exportar  
 • reporte - informe (reporte, noticia)  
 • reporte - informe (reporte, noticia)  
 reporte - informe (reporte, noticia)  
 reporte - reportar  
 • reporter - reportero  
+porta - porto  
 portorike - puertorriqueño  
 Portoriko - Puerto Rico  
 Portugal - Portugal  
@@ -2696,7 +2692,6 @@ prate - práctico
 • prime - primer (inicial, inaugural)  
 prese - presión  
 • preser - prensa  
-prezidente - presidente  
 pro - adelante  
 problem - problema  
 • problemike - problemático  
@@ -2713,6 +2708,11 @@ proxe - próximo
 pude - podrido (cariado)  
 pudu - pudrirse (cariarse, descomponerse)  
 puding - pudín  
+puje - adoración (veneración, culto)  
+puje - adorar (venerar)  
+pujokan - templo  
+pujomeza - altar  
+pujorite - rito (ceremonia)  
 pul - puente  
 pulmon - pulmón  
 puma - puma  
@@ -2735,16 +2735,9 @@ putau - uva
 putavorange - pomelo (toronja)  
 Putong Cini - chino mandarín  
 putonge - general (common)  
-puze - adoración (veneración, culto)  
-puze - adorar (venerar)  
-puzokan - templo  
-puzomeze - altar  
-puzorite - rito (ceremonia)  
 
 ## R  
 
-–r - hacedor (perpetrador)  
-ria - arte (campo)  
 rade - rayo  
 rade - radiar (emitir)  
 radi geter - receptor de radio  
@@ -2790,10 +2783,10 @@ retre - vuelta (volver, retornar)
 retro - al revés  
 retrogule - devolver (vomitar)  
 retroguli sense - náusea  
-rede - listo (preparado; preparar)  
-rege - real (de realtad)  
-• regia - reino  
-• reger - rey o reina  
+reje - reinar  
+• rejia - reino  
+• rejike - real (de realtad)  
+• rejer - rey o reina  
 rel - real  
 • relia - realidad  
 • relize - realizar  
@@ -2802,6 +2795,8 @@ renium - renio
 rentogenium - roentgenio  
 resete - instrucciones (receta)  
 reside - reconocimiento (recibo; reconocer)  
+reste - reposo  
+reste in pace (RIP) - descase en paz  
 restorante - restaurante  
 Reunion - Reunión  
 rezin - resina  
@@ -3068,8 +3063,11 @@ sismolojia - sismología
 sistem - sistema  
 sisteme - sistémico  
 site - ciudad  
-sivile - civilizado  
-sivilia - civilización  
+• sivike - cívico  
+• sivile - civil  
+• sivile - civilizado  
+• sivilia - civilización  
+• sivopedia - educación cívica  
 six - seis (6)  
 • sixime - sixième  
 sixofase - hexaedro (cubo)  
@@ -3323,7 +3321,6 @@ texe - tejer
 texomaxin - telar  
 texte - texto  
 ticin - instrumento de arco  
-tike - pedazo  
 • tikete - boleto  
 • retrotikete - billete de ida y vuelta  
 tim - equipo  
@@ -3440,10 +3437,9 @@ unomaro - una vez
 unomene - inequívoco  
 unoki lense - monóculo  
 unorange - monocromático  
-volfe - lobo  
 Uran - Urano  
 uranium - uranio  
-urde - urdu  
+urdu - urdu  
 Urdun - Jordania  
 urse - oso  
 Uruguai - Uruguay  
@@ -3563,6 +3559,7 @@ vode - prometer (promesa, voto)
 vodun - vudú  
 • vokal son - vocal  
 vol - querer (desear; deseo)  
+volfe - lobo  
 volfram - tungsteno (wolframio)  
 volte - voltio (V)  
 vote - voto (votar)  
@@ -3618,12 +3615,13 @@ xipe - mojar (mojado)
 • perxipe - remojar (empapar)  
 xipostan - humedal  
 xir - poema  
+• xiria - poesía  
 • xirer - poeta  
 xirope - jarabe (sirope)  
 xite - mierda  
 Xiva - Shiva  
 xixe - atravesar  
-sis - brocheta  
+xix - brocheta  
 xofe - conducir  
 • xofer - conductor (chofer)  
 xoke - choque (sacudida)  
@@ -3631,14 +3629,14 @@ xope - comprar (compras, shopping)
 xoper - comprador  
 xou - mostrar (exposición, espectáculo)  
 xukre - agradecer (gracias)  
-xul - lección  
 xule - aprender (estudiar)  
-xulia - educación  
-xulane - enseñar  
-xulaner - maestro (profesor, docente)  
-xulkan - escuela (colegio, institución)  
-xuler - estudiante  
-xulxefe - director de colegio  
+• xulia - educación  
+• xulaje - lección  
+• xulize - enseñar  
+• xulizer - maestro (profesor, docente)  
+• xulokan - escuela (colegio, institución)  
+• xuler - estudiante  
+xuloxefe - director de colegio  
 xure - comienzo (inicio, principio; comenzar, iniciar, empezar)  
 xute - dotes (arte, habilidad)  
 • xutike - hábil  
@@ -3675,9 +3673,6 @@ yege - cazar (pescar)
 • yeger - cazador  
 yege pexe - pescar  
 Yemen - Yemen  
-jen - persona  
-• dusojen - enemigo  
-jensen - ginseng  
 yesus - Jesús  
 yeze - coco  
 yo - algún  
