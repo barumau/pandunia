@@ -4,6 +4,9 @@ Pronouns can substitute nouns and noun phrases.
 
 ## Personal pronouns
 
+Personal pronouns refer to people.
+They are used as substitutes for a person's name.
+
 | Singular    | Plural       |
 |:------------|:-------------|
 | **mi**      | **mimen**    |
@@ -14,6 +17,22 @@ Pronouns can substitute nouns and noun phrases.
 | he or she   | they         |
 
 All pronouns can be used for all genders.
+In Pandunia, personal pronouns do not specify whether the person discussed is a woman or a man.
+For example, in the third person, one word –
+**ya**
+– refers to women, men and people of other genders alike.
+It a gender-neutral personal pronoun and it treats everyone equally.
+
+There are three first-person plural pronouns.
+**tumimen**
+is the inclusive *we* that includes the audience: 'you, I and other people'.
+**yamimen**
+is the exclusive *we* that excludes the audience: 'I and other people only'.
+Finally,
+**mimen**
+is the neutral *we* that can be both inclusive and exclusive.
+It is also the most common first-person plural pronoun,
+and the other two are used only occasionally.
 
 The possessive pronouns consists of the personal pronoun and the possessive particle
 **su**.

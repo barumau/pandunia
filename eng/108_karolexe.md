@@ -9,7 +9,7 @@ not by changing the form of verbs as in English and other languages.
 Person and number are indicated by the subject.
 For example, the verb
 **e**
-('to be') has the same form for all persons.
+('to be') has the same form in all persons.
 
 **_mi_ e doste.**
 – I am a friend.  
@@ -21,7 +21,7 @@ For example, the verb
 – We are friends.  
 **_tumen_ e doste.**
 – You are friends.  
-**_yemen_ e doste.**
+**_yamen_ e doste.**
 – They are friends.
 
 Also a noun can serve as subject.
@@ -114,23 +114,24 @@ indicates that an action is done regularly.
 **mi ade gul yo bir.**
 – I have a habit of drinking beer.
 
-**le**
-('attain, accomplish, reach')
+**liu**
+('attain, accomplish, reach; already')
 indicates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
-You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_). 
+It is best translated by *already* or *(not) yet*.
+You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
 
-**ya _le_ e guru.**
-– He or she has been a teacher (and still is).  
-**mi no _le_ gul yo alkohol.**
-– I haven't drank alcohol.  
-**mi _le_ no gul yo alkohol.**
-– I have reached not drinking alcohol.  
-**mi _le_ don la buke do yamen.**
-– I have given the book to them. (So I don't have it.)  
-**yamen no _le_ ridone ya do mi.**
-– They haven't given it back to me.  
-**mi _le_ lai do site.**
-– I have come to the city.
+**ya _liu_ e guru.**
+– He or she is already a teacher.  
+**mi no _liu_ gul yo alkohol.**
+– I haven't drank alcohol yet.  
+**mi _liu_ no gul yo alkohol.**
+– I am already not drinking alcohol.  
+**mi _liu_ don la buke do yamen.**
+– I have given the book to them. Or: I already gave the book to them.  
+**yamen no _liu_ ridone ya do mi.**
+– They haven't given it back to me. Or: They didn't give it back to me yet.  
+**mi _liu_ lai do site.**
+– I have come to the city. Or: I already came to the city.
 
 **pas**
 ('pass, go past, go through')
