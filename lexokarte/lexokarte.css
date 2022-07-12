@@ -47,8 +47,8 @@ p {
 
 .ara {
   position: absolute;
-  left: 495px;
-  top: 155px;
+  left: 475px;
+  top: 170px;
   border: 1px solid orange;
 }
 
@@ -146,7 +146,7 @@ p {
 .fas {
   position: absolute;
   left: 590px;
-  top: 160px;
+  top: 145px;
   border: 1px solid red;
 }
 

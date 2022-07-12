@@ -430,8 +430,7 @@ decy-, dziesiąta część - deci
 decybel - decibel  
 dedykacja (poświęcenie) - satodonia  
 dedykować (poświęcać, poświęcić) - satodone  
-dekoracja (ornament) - sundardake  
-dekorować - sundardake  
+dekorować (dekoracja, ornament) - meyize  
 delfin - dolfin  
 delikatny, cienki, lekki - faine  
 demografia - demografia  
@@ -656,7 +655,7 @@ fonologia - fonolojia
 fontanna (studnia, źródło) - fonte  
 forma (kształt; ukształtować, kształtować, urzeźbić, rzeźbić) - forme  
 formatowanie - kitaboforme  
-formularz (kwestionariusz) - sualdokum  
+formularz (kwestionariusz) - sualodokum  
 forum - forum  
 fosfor - pospor  
 fotograf - fotografer  
@@ -2014,7 +2013,7 @@ pióro, długopis - kalam
 piątek - den lima  
 pięciokąt (pentagon) - limgon  
 pięciościan (pryzmat) - limfas  
-piękno - sundaria  
+piękno - meyia  
 piękny, przystojny - mei  
 pięć (5) - lime  
 piła - xere  

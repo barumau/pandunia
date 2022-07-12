@@ -1319,7 +1319,7 @@
 **strute** ** ← angla:franca:structure, hispana:estructure, portugala:estrutura, rusa:структура (struktura), malaja:(infra)struktur, japana:(インフラ)ストラクチャ ((infura)sutorakucha), korea:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** ** ← angla:study, franca:étudier, hispana:estudiar, portugala:estudar + rusa:студент (student), hindia:स्टूडेंट (sṭūḍeṇṭ)  
 **su** *propra (partiklo de posedo)* ← angla:'s, hispana:su, portugala:seu,sua  
-**sual** *demandi* ← araba: سؤال (su'āl), hindia:सवाल (savāl), malaja:soal, svahila:swali  
+**sual** *demandi* ← araba: سؤال (su'āl), persa: سؤال‎ (so'âl), hindia:सवाल (savāl), bengala:সওয়াল (śôwal), malaja:soal, svahila:swali, turka:sual + kmera:សួរ (suə)  
 **suane** *acida* ← mandarena:酸 (suān), kantona:酸 (syun1), vua:酸 (soe1), japana:酸 (san), korea:산 (san), vjetnama:toan  
 **suar** *vespero* ← franca:soir, angla:soiree, rusa:суаре (suare), turka:suare + malaja:sore  
 **suba** *mateno* ← araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba  

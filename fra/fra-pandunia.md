@@ -227,7 +227,7 @@ bassin - basen
 bateau - nau  
 beau - mei  
 beau-père - gamopa  
-beauté - sundaria  
+beauté - meyia  
 belle-mère - gamoma  
 bellicisme - belikisme  
 belligérant - belente  

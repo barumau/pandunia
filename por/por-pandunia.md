@@ -165,7 +165,7 @@ basketball - baske bol
 bastante (suficiente) - bas  
 baía - bai  
 bebê - bebe  
-beleza - sundaria  
+beleza - meyia  
 beligerante - belente  
 belo (lindo) - mei  
 bem-estar - salamia  

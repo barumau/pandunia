@@ -2132,6 +2132,8 @@ megavate - megawatti (MW)
 meh - lammas  
 Mehiko - Meksiko  
 mei - kaunis (komea, sievä)  
+• meyia - kauneus  
+• meyize - kaunistaa (koristella; koriste)  
 mei jen - kaunistus (kaunis ihminen)  
 melodrame - melodraama  
 melodi - melodinen (sointuisa)  
@@ -3225,7 +3227,7 @@ su - -n (oma)
 suahili - suahili  
 sual - kysyä (kysymys)  
 • sualive - kysyvä  
-sualdokum - kyselylomake  
+sualodokum - kyselylomake  
 sualoteme - asia (juttu)  
 Svalbarde - Svalbard  
 suan - happo  
@@ -3269,7 +3271,6 @@ sulfe - rikki
 sum - summa  
 sume - ynnätä (summata)  
 suno - pian  
-sundaria - kauneus  
 suome - suomalainen  
 Suomia - Suomi  
 supe - keitto (soppa)  

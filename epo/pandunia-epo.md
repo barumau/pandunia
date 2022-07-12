@@ -1109,6 +1109,7 @@ mega - miliono
 meh - ŝafo  
 Mehiko - Meksikio  
 mei - bela  
+• meyia - beleco  
 melodia - melodio  
 meme - memoro  
 meme - memori  
@@ -1644,7 +1645,6 @@ suku - ŝati
 sukar - sukero  
 sulfe - sulfuro  
 sum - sumo  
-sundaria - beleco  
 suome - finna  
 Suomia - Finnlando  
 supe - supo  

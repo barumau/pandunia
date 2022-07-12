@@ -391,7 +391,7 @@ Belice - Belize
 belicismo - belikisme  
 beligerante - belente  
 belio - bel  
-belleza (hermosura) - sundaria  
+belleza (hermosura) - meyia  
 bellota - balutopal  
 beneficioso (bueno) - eve  
 bengalí - bangle  
@@ -987,8 +987,7 @@ decibelio - decibel
 deciembre - lun des du  
 decir (hablar; habla) - loge  
 declamar - deklame  
-decoración (adorno) - sundardake  
-decorar (adornar) - sundardake  
+decorar (adornar; decoración, adorno) - meyize  
 dedicar - satodone  
 dedo - angul  
 defecar - defeke  
@@ -1432,7 +1431,7 @@ fono (segmento acústico) - fone
 fonología - fonolojia  
 forma (figura; formar) - forme  
 formateo - kitaboforme  
-formulario - sualdokum  
+formulario - sualodokum  
 foro (espacio público) - forum  
 fosa - kavaje  
 foto (fotografía) - fotograf  

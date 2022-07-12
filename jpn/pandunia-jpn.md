@@ -831,6 +831,8 @@ mediker - 医者
 medikosui - ポーション (水薬)  
 mega - １００万 (メガ)  
 mei - 美しい  
+• meyia - 美しさ  
+• meyize - 飾る (装飾)  
 mei jen - 美人  
 melon - マスクメロン  
 meme - 記憶  
@@ -1247,7 +1249,7 @@ stibium - アンチモン
 strontium - ストロンチウム  
 • studente - 学生  
 sual - 聞く (質問, 問題)  
-sualdokum - アンケート (質問用紙)  
+sualodokum - アンケート (質問用紙)  
 suar - 夕べ  
 suaryam - 夕食  
 sube - 下  
@@ -1266,9 +1268,6 @@ sukarbete - テンサイ (サトウダイコン)
 sukarorange - オレンジ (アマダイダイ)  
 sukar gana - サトウキビ  
 sulfe - 硫黄  
-sundaria - 美しさ  
-sundardake - 装飾  
-sundardake - 飾る  
 supre - 上  
 sus - 甘草 (蕗草)  
 

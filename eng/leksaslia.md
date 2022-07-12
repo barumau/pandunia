@@ -1319,7 +1319,7 @@
 **strute** *building* ← English:French:structure, Spanish:estructure, Portuguese:estrutura, Russian:структура (struktura), Malay:(infra)struktur, Japanese:(インフラ)ストラクチャ ((infura)sutorakucha), Korean:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *study (work in order to practise or demonstrate)* ← English:study, French:étudier, Spanish:estudiar, Portuguese:estudar + Russian:студент (student), Hindi:स्टूडेंट (sṭūḍeṇṭ)  
 **su** *attributive postposition (-'s)* ← English:'s, Spanish:su, Portuguese:seu,sua  
-**sual** *ask (inquire; question, query, inquiry)* ← Arabic: سؤال (su'āl), Hindi:सवाल (savāl), Malay:soal, Swahili:swali  
+**sual** *ask (inquire; question, query, inquiry)* ← Arabic: سؤال (su'āl), Persian: سؤال‎ (so'âl), Hindi:सवाल (savāl), Bengali:সওয়াল (śôwal), Malay:soal, Swahili:swali, Turkish:sual + Khmer:សួរ (suə)  
 **suane** *sour* ← Mandarin:酸 (suān), Cantonese:酸 (syun1), Wu-Chinese:酸 (soe1), Japanese:酸 (san), Korean:산 (san), Vietnamese:toan  
 **suar** *evening* ← French:soir, English:soiree, Russian:суаре (suare), Turkish:suare + Malay:sore  
 **suba** *morning (dawn)* ← Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba  

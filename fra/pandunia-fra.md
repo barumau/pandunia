@@ -1075,6 +1075,7 @@ medenpapil - coquelicot
 medikosui - pocion  
 mehi kex - laine  
 mei - beau  
+• meyia - beauté  
 meme - mémoire  
 meme - se rappeler (se remémorer)  
 • dememe - oublier  
@@ -1621,7 +1622,6 @@ sukarbete - betterave à sucre (betterave sucrière)
 sukarorange - orange douce  
 sukar gana - canne à sucre  
 sulfe - soufre  
-sundaria - beauté  
 sus - réglisse  
 susan - lys  
 

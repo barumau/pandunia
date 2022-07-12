@@ -2437,6 +2437,8 @@ mehi kex - wool (fleece)
 Mehiko - Mexico  
 Mehiko site - Mexico City  
 mei - beautiful (handsome, pretty)  
+• meyia - beauty  
+• meyize - decorate (embellish; decoration, ornament)  
 mei jen - beauty (beautiful person)  
 melodrame - melodrama  
 melodi - melodious (melodic)  
@@ -3743,7 +3745,7 @@ sue - good (well)
 suahili - Swahili  
 sual - ask (inquire; question, query, inquiry)  
 • sualive - interrogative  
-sualdokum - form (questionaire)  
+sualodokum - form (questionaire)  
 sualoteme - issue (affair, concern)  
 Svalbarde - Svalbard  
 suan - acid  
@@ -3799,9 +3801,6 @@ sultania - sultanate
 sum - sum (total)  
 sume - sum up (add together)  
 suno - soon  
-sundaria - beauty  
-sundardake - decoration (ornament)  
-sundardake - decorate (embellish)  
 suome - Finnish  
 Suomia - Finland  
 supe - soup (stew)  

@@ -1106,10 +1106,11 @@ kauhu (terrori) - terure
 kaukainen - tele  
 Kaukasia - Kaukasia  
 kaukoputki (teleskooppi) - teleskope  
-kauneus - sundaria  
+kauneus - meyia  
 kaunis (komea, sievä) - mei  
 kaunishiuksinen - sukexe  
 kauniskasvoinen - sumuke  
+kaunistaa (koristella; koriste) - meyize  
 kaunistus (kaunis ihminen) - mei jen  
 kaupunki - nagre  
 kaupunki - site  
@@ -1461,7 +1462,7 @@ Kypros - Kipris
 kypsä (aikuinen) - mature  
 kypärä - sarkaske  
 kyrilliset aakkoset - kiril harfia  
-kyselylomake - sualdokum  
+kyselylomake - sualodokum  
 kysyvä - sualive  
 kysyä (kysymys) - sual  
 kyynel - okosui  

@@ -61,7 +61,7 @@ Also two personal pronouns can be combined with **e** and **no**.
 
 The same rule applies also for two adjectives, or a verb and an adjective.
 
-**jovan e sundar.**
+**jovan e mei.**
 – Young is beautiful.  
 **nove no lau.**
 – New is not old.  
@@ -503,15 +503,15 @@ The particles help in creating measure words too.
 – one sack of potatoes  
 **du sake di patate**
 – two sacks of potatoes  
-**mas sake di patate**
+**max sake di patate**
 – more sacks of potatoes
 
 Note that **di** and **de** connect phrases together.
 So a modifier phrase with and without **de** can mean a different thing.
 
-**mas sundar hua**
+**max mei hua**
 – more beautiful flowers  
-**mas di sundar hua**
+**max di mei hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases

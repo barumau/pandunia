@@ -935,6 +935,8 @@ medike - лечить
 mediker - врач (медик, лекарь, доктор)  
 medikosui - зелье  
 mei - красивый  
+• meyia - красота  
+• meyize - украсить (украшение)  
 melon - дыня  
 meme - память  
 meme - помнить  
@@ -1430,7 +1432,7 @@ stude - изучать (этюд)
 • studente - студент  
 • studer - студент  
 sual - спрашивать (вопрос)  
-sualdokum - анкета  
+sualodokum - анкета  
 suar - вечер  
 suge - быстрый  
 sui - вода  
@@ -1445,9 +1447,6 @@ sukarbete - сахарная свёкла
 sukarorange - апельсин  
 sukar gana - сахарный тростник  
 sulfe - сера  
-sundaria - красота  
-sundardake - украшение  
-sundardake - украсить  
 sus - солодка (лакрица)  
 susan - лилия  
 

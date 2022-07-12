@@ -2381,6 +2381,8 @@ meh:i kex:|mehi kex||||wool (fleece)|laine||||||||||||||||wełna (runo owcze)
 mehiko:|Mehiko|gogia|MX||Mexico||México|||||||||||||Meksikio|Meksiko|Meksyk
 mehiko: sit:|Mehiko site|xefsite|||Mexico City||Ciudad de México|||||||||||||||Meksyk
 mei:|mei|||zho:美 (měi), yue:美 (mei5), jpn:美 (mi), kor:미 (mi), vie:mĩ, mỹ|beautiful (handsome, pretty)|beau|hermoso (bello, lindo)|belo (lindo)|красивый|جَمِيل|漂亮 (美)|美しい|아름답다|đẹp|सुन्दर (ख़ूबसूरत)|সুন্দর|indah (cantik)|zuri|güzel|bela|kaunis (komea, sievä)|piękny, przystojny
+mei:ia|• meyia||||beauty|beauté|belleza (hermosura)|beleza|красота|جَمَال|美丽|美しさ|아름다움||सौन्दर्य|||uzuri (jamala, urembo)|güzellik|beleco|kauneus|piękno
+mei.iz:|• meyize||||decorate (embellish; decoration, ornament)||decorar (adornar; decoración, adorno)||украсить (украшение)||装饰|飾る (装飾)|||||||||kaunistaa (koristella; koriste)|dekorować (dekoracja, ornament)
 mei~jen:|mei jen||||beauty (beautiful person)||||||美人|美人|미인|mỹ nhân|||||||kaunistus (kaunis ihminen)|
 mel~dram:|melodrame||||melodrama||||||||||||||||melodraama|
 mel~od:i|melodi||||melodious (melodic)||melodioso||||||||||||||melodinen (sointuisa)|melodyczny
@@ -3673,12 +3675,12 @@ stud:ia|• studia||||studio (study room, atelier)|étude|estudio||кабине�
 stud.aj:|• studaje||||study (work made in order to practise or demonstrate)|étude|||этюд||||||||||||tutkielma|
 stud.ent:|• studente||||learner (student)|étudiant|estudiante (alumno)|estudante (aluno)|студент|طالب‎|学生|学生|학생|học sinh|छात्र (स्टूडेंट, तालिब)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|lernanto (studento)|oppilas (opiskelija)|
 stud.r:|• studer||||student|étudiant|estudiante|estudante|студент||||||विद्यार्थी (स्टूडेंट)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|studento|opiskelija|student
-su:|su|bine|adp. attributive|eng:'s, spa:su, por:seu,sua|attributive postposition (-'s)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
+su;|su|bine|adp. attributive|eng:'s, spa:su, por:seu,sua|attributive postposition (-'s)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
 su:|sue|||scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-|good (well)|||||||||||||||||
 suahil:i|suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
-sual:|sual|||ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|ask (inquire; question, query, inquiry)|demander (question)|preguntar (inquirir; pregunta)|perguntar (pergunta, questão)|спрашивать (вопрос)|سؤال|问 (问题)|聞く (質問, 問題)|묻다 (질문하다; 질문, 문제)|hỏi (câu hỏi, vấn đề)|पूछना (सवाल, प्रश्न)|পুছা (প্রশ্ন)|tanya (pertanyaan, soal)|kuuliza (kusaili; swali, suala)|sormak (soru, sual)|demandi|kysyä (kysymys)|pytać (pytanie)
+sual:|sual|||ara: سؤال (su'āl), fas: سؤال‎ (so'âl), hin:सवाल (savāl), ben:সওয়াল (śôwal), may:soal, swa:swali, tur:sual + khm:សួរ (suə)|ask (inquire; question, query, inquiry)|demander (question)|preguntar (inquirir; pregunta)|perguntar (pergunta, questão)|спрашивать (вопрос)|سؤال|问 (问题)|聞く (質問, 問題)|묻다 (질문하다; 질문, 문제)|hỏi (câu hỏi, vấn đề)|पूछना (सवाल, प्रश्न)|পুছা (প্রশ্ন)|tanya (pertanyaan, soal)|kuuliza (kusaili; swali, suala)|sormak (soru, sual)|demandi|kysyä (kysymys)|pytać (pytanie)
 sual.iv:|• sualive||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
-sual~dokum:|sualdokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
+sual~dokum:|sualodokum||||form (questionaire)||formulario||анкета|||アンケート (質問用紙)|||||||||kyselylomake|formularz (kwestionariusz)
 sual~tem:|sualoteme||||issue (affair, concern)||asunto (caso)||||||||||||||asia (juttu)|kwestia, problem
 sualbard:|Svalbarde|gogia|||Svalbard||Svalbard||||||||||||||Svalbard|Swalbard
 suan:|suan||||acid|||||||||||||||acido|happo|
@@ -3734,9 +3736,6 @@ sult.an:ia|sultania||||sultanate||sultanato|||||||||||||||
 sum:|sum|||eng:sum, spa:suma, por:soma, fra:somme, deu:Summe, rus:сумма (summa)|sum (total)||suma (total)|||||||||||||sumo|summa|suma
 sum:a|sume||||sum up (add together)||sumar||||||||||||||ynnätä (summata)|zsumować, sumować, dodać, dodawać
 sun:o|suno|||eng:soon|soon||pronto||||||||||||||pian|wkrótce
-sundar:ia|sundaria||||beauty|beauté|belleza (hermosura)|beleza|красота|جَمَال|美丽|美しさ|아름다움||सौन्दर्य|||uzuri (jamala, urembo)|güzellik|beleco|kauneus|piękno
-sundar.dak:|sundardake||||decoration (ornament)||decoración (adorno)||украшение||装饰|装飾||||||||||dekoracja (ornament)
-sundar.dak:a|sundardake||||decorate (embellish)||decorar (adornar)||украсить|||飾る||||||||||dekorować
 suom:i|suome||||Finnish||finés|||||||||||||finna|suomalainen|fiński
 suom:ia|Suomia|gogia|FI||Finland||Finlandia|||||||||||||Finnlando|Suomi|Finlandia
 sup:|supe|||spa:sopa, eng: soup, fra: soupe, deu: Suppe, swa: supu, rus:суп (sup), may:sup, jpn:スープ (sūpu)|soup (stew)||sopa|||||||||||||supo|keitto (soppa)|zupa

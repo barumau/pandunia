@@ -1353,7 +1353,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**stude**|eng:study, fra:étudier, spa:estudiar, por:estudar + rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**su**|eng:'s, spa:su, por:seu,sua|
 |**sue**|scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-|
-|**sual**|ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali|
+|**sual**|ara: سؤال (su'āl), fas: سؤال‎ (so'âl), hin:सवाल (savāl), ben:সওয়াল (śôwal), may:soal, swa:swali, tur:sual + khm:សួរ (suə)|
 |**suane**|zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|
 |**suar**|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
 |**sube**|eng:fra:spa:por:may:sub-, rus:суб- (sub-)|

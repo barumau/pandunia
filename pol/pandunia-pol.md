@@ -1906,6 +1906,8 @@ mehi kex - wełna (runo owcze)
 Mehiko - Meksyk  
 Mehiko site - Meksyk  
 mei - piękny, przystojny  
+• meyia - piękno  
+• meyize - dekorować (dekoracja, ornament)  
 melodi - melodyczny  
 melodia - melodia  
 melon - ogórek melon  
@@ -2912,7 +2914,7 @@ su - mieć (partykuła posiadania)
 suahili - suahili  
 sual - pytać (pytanie)  
 • sualive - pytajny, związany z pytaniem  
-sualdokum - formularz (kwestionariusz)  
+sualodokum - formularz (kwestionariusz)  
 sualoteme - kwestia, problem  
 Svalbarde - Swalbard  
 suane - kwaśny  
@@ -2966,9 +2968,6 @@ sultan - władca
 sum - suma  
 sume - zsumować, sumować, dodać, dodawać  
 suno - wkrótce  
-sundaria - piękno  
-sundardake - dekoracja (ornament)  
-sundardake - dekorować  
 suome - fiński  
 Suomia - Finlandia  
 supe - zupa  

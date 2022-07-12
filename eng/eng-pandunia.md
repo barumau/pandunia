@@ -355,7 +355,7 @@ beautiful (handsome, good-looking) - bonvide
 beautiful (handsome, pretty) - mei  
 beautiful-faced - sumuke  
 beauty (beautiful person) - mei jen  
-beauty - sundaria  
+beauty - meyia  
 beaver - kastor  
 because - a sababe de  
 bed - bede  
@@ -1027,8 +1027,7 @@ deci- - deci
 decibel - decibel  
 declaim (protest, object vociferously) - deklame  
 decode (decrypt) - dekode  
-decorate (embellish) - sundardake  
-decoration (ornament) - sundardake  
+decorate (embellish; decoration, ornament) - meyize  
 decrease (lessen) - minife  
 decrement - minodarge  
 dedicate (devote) - satodone  
@@ -1513,7 +1512,7 @@ forest (woods) - van:
 forget - dememe  
 forgive (pardon) - mafe  
 fork - forke  
-form (questionaire) - sualdokum  
+form (questionaire) - sualodokum  
 form (shape) - forme  
 format (formation) - formaje  
 formatting - kitaboforme  

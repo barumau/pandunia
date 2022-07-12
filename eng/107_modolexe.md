@@ -7,14 +7,14 @@ The same word can modify nouns and verbs,
 whereas in English only _adjectives_ can modify nouns
 and only _adverbs_ can modify verbs.
 For example, the word
-**sundar**
+**mei**
 ('beautiful' or 'beautifully')
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **go e un _sundar_ kitabe.**
+A. **go e _mei_ kitabe.**
 – That is a beautiful writing.  
-B. **tu _sundar_ di kitabe.**
+B. **tu _mei_ di kitabe.**
 – You write _beautifully_.
 
 
@@ -54,7 +54,7 @@ It is common to put the modifying particle
 between the modifier and the verb.
 It makes the structure of the verb phrase clearer.
 
-**tu _sundar di_ kitabe.**
+**tu _mei di_ kitabe.**
 – You write _beautifully_.  
 **yamen _rapide di_ marce.**
 – They walk _fast_.
@@ -68,7 +68,7 @@ is used also when a modifier modifies another one.
 
 **un _surpris di_ bon buke**
 – a _surprisingly_ good book  
-**ba _lika di_ ama ja jen**
+**ba _bale di_ ama ja jen**
 – _strongly_ loving people
 
 

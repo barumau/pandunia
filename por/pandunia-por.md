@@ -903,6 +903,7 @@ me - nhé
 meden - praça  
 medenpapil - papoila  
 mei - belo (lindo)  
+• meyia - beleza  
 melon - melão  
 meme - memória  
 meme - lembrar-se (recordar-se)  
@@ -1398,7 +1399,6 @@ suke - feliz
 sukar - açúcar  
 sukar gana - cana-de-açúcar  
 sulfe - enxofre  
-sundaria - beleza  
 sus - alcaçuz (regaliz)  
 susan - lírio  
 

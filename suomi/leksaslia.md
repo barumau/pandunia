@@ -1319,7 +1319,7 @@
 **strute** *rakennus* ← englanti:ranska:structure, espanja:estructure, portugali:estrutura, venäjä:структура (struktura), malaiji:(infra)struktur, japani:(インフラ)ストラクチャ ((infura)sutorakucha), korea:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *opiskella (tutkia; tutkielma)* ← englanti:study, ranska:étudier, espanja:estudiar, portugali:estudar + venäjä:студент (student), hindi:स्टूडेंट (sṭūḍeṇṭ)  
 **su** *-n (oma)* ← englanti:'s, espanja:su, portugali:seu,sua  
-**sual** *kysyä (kysymys)* ← arabia: سؤال (su'āl), hindi:सवाल (savāl), malaiji:soal, suahili:swali  
+**sual** *kysyä (kysymys)* ← arabia: سؤال (su'āl), persia: سؤال‎ (so'âl), hindi:सवाल (savāl), bangla:সওয়াল (śôwal), malaiji:soal, suahili:swali, turkki:sual + khmer:សួរ (suə)  
 **suane** *hapan (kirpeä)* ← yleiskiina:酸 (suān), kantoninkiina:酸 (syun1), wu-kiina:酸 (soe1), japani:酸 (san), korea:산 (san), vietnami:toan  
 **suar** *ilta* ← ranska:soir, englanti:soiree, venäjä:суаре (suare), turkki:suare + malaiji:sore  
 **suba** *aamu* ← arabia:(ṣabāḥ), turkki:sabah, persia:(sobh), urdu:(subah), hindi:सुबह (subah), suahili:asubuhi, hausa:asuba  

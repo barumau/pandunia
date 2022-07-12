@@ -2045,6 +2045,8 @@ meh - oveja
 Mehiko - México  
 Mehiko site - Ciudad de México  
 mei - hermoso (bello, lindo)  
+• meyia - belleza (hermosura)  
+• meyize - decorar (adornar; decoración, adorno)  
 melodi - melodioso  
 melodia - melodía  
 melon - melón  
@@ -3144,7 +3146,7 @@ su - de (posposición de posesión)
 suahili - suajili  
 sual - preguntar (inquirir; pregunta)  
 • sualive - interrogativa  
-sualdokum - formulario  
+sualodokum - formulario  
 sualoteme - asunto (caso)  
 Svalbarde - Svalbard  
 suane - agrio (ácido)  
@@ -3198,9 +3200,6 @@ sultania - sultanato
 sum - suma (total)  
 sume - sumar  
 suno - pronto  
-sundaria - belleza (hermosura)  
-sundardake - decoración (adorno)  
-sundardake - decorar (adornar)  
 suome - finés  
 Suomia - Finlandia  
 supe - sopa  

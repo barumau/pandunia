@@ -835,6 +835,8 @@ medenpapil - 虞美人 (雛罌粟)
 medikosui - 药水  
 mega - 百万 (兆)  
 mei - 漂亮 (美)  
+• meyia - 美丽  
+• meyize - 装饰  
 mei jen - 美人  
 melon - 厚皮甜瓜 (蜜瓜)  
 meme - 记忆 (记性)  
@@ -1248,8 +1250,6 @@ suke - 高兴
 sukar - 糖  
 sukar gana - 甘蔗  
 sulfe - 硫  
-sundaria - 美丽  
-sundardake - 装饰  
 suprize - 惊奇  
 sus - 甘草 (国老)  
 susan - 百合花  

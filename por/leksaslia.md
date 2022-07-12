@@ -1319,7 +1319,7 @@
 **strute** ** ← eng:fra:structure, spa:estructure, por:estrutura, rus:структура (struktura), may:(infra)struktur, jpn:(インフラ)ストラクチャ ((infura)sutorakucha), kor:(인프라)스트럭처 ((inpeura)seuteureokcheo)  
 **stude** *estudar (examinar)* ← eng:study, fra:étudier, spa:estudiar, por:estudar + rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)  
 **su** ** ← eng:'s, spa:su, por:seu,sua  
-**sual** *perguntar (pergunta, questão)* ← ara: سؤال (su'āl), hin:सवाल (savāl), may:soal, swa:swali  
+**sual** *perguntar (pergunta, questão)* ← ara: سؤال (su'āl), fas: سؤال‎ (so'âl), hin:सवाल (savāl), ben:সওয়াল (śôwal), may:soal, swa:swali, tur:sual + khm:សួរ (suə)  
 **suane** ** ← zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan  
 **suar** *noitinha* ← fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore  
 **suba** ** ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
