@@ -7,6 +7,7 @@ index_head = '''
 </head>
 <body>
 <h1>pandunia lexe a dunia karte</h1>
+<p><img src="http://www.pandunia.info/grafe/pandunia_karte.png"></p>
 '''
 
 index_tail = '''
