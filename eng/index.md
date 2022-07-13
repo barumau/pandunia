@@ -35,6 +35,10 @@ It includes simpler grammar, more international word forms, and many new words.
 
 - [Searchable dictionary](tiddly.html)
 - [Origins of words](leksaslia.md)
+- Go to the
+  [Pandunia lexe a dunia karte](http://www.pandunia.info/lexokarte/index.html)
+  web pages to see where every Pandunia word is from on a world map.
+
 
 
 ## Texts

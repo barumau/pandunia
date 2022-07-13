@@ -102,6 +102,7 @@ ally - alige
 almond - badam  
 alpaca - alpaka  
 alphabet - harfia  
+already (yet) - liu  
 also (too, in addition) - a max  
 altar - pujomeza  
 alum - aluminmate  
@@ -4297,6 +4298,8 @@ wax - mum
 wax seal - mumcape  
 way (manner, mode) - mode  
 way (road) - dau  
+we (exlusive we) - yamimen  
+we (inclusive we) - tumimen  
 we - mimen  
 weak (feeble) - anbale  
 wealth (fortune) - ricia  
@@ -4345,6 +4348,7 @@ wikipedia - vikipedia
 wild (feral, savage) - jangle  
 wild (savage) - ekogene  
 wilderness - janglia  
+will (future aspect marker) - xa  
 will (volition, desire) - ice  
 win (triumph, succeed, accomplish) - senge  
 window - janel  

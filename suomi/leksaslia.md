@@ -809,6 +809,7 @@
 **liste** *lista (luettelo)* ← englanti:list, espanja:portugali:lista, venäjä:лист (list), deu:ranska:liste, persia:(list), hindi:लिस्ट (lisṭ), urdu:(lisṭ), japani:リスト (risuto)  
 **litium** *litium* ← englanti:lithium, ranska:lithium, espanja:litio, portugali:lítio, venäjä:литий, yleiskiina:锂 (lǐ), japani:リチウム, korea:리튬, vietnami:suahili:lithi, hindi:लिथियम, bangla:লিথিয়াম, malaiji:litium, swa:lithi, arabia: ليثيوم  
 **litre** *litra* ← englanti:ranska:turkki:litre, deu:malaiji:liter, espanja:portugali:litro, venäjä:литр (litr), puola:litr, arabia: لتر‎(litr), hindi:लीटर (līṭar), bangla:লিটার (liṭar), japani:リットル (rittoru), korea:리터 (riteo), vietnami:lít, suahili:lita  
+**liu** *jo* ← yleiskiina:了 (liǎo), kantoninkiina:了 (liu5), thai:แล้ว (lɛw) + japani:了 (ryō)  
 **live** *jäädä (jättää)* ← englanti:leave + yleiskiina:留 (liú), japani:留 (ryū), korea:류 (ryu), vietnami:lưu  
 **livermorium** *livermorium* ← englanti:ranska:livermorium, espanja:livermorio, portugali:livermório, venäjä:ливерморий, yleiskiina: (lì), japani:リバモリウム, korea:리버모륨, vietnami:livermori, malaiji:livermorium, suahili:livermori  
 **lobake** *retikka (retiisi)* ← yleiskiina:萝卜 (luóbo), kantoninkiina:蘿蔔 (lobaak), malaiji:lobak  
@@ -1325,7 +1326,7 @@
 **suba** *aamu* ← arabia:(ṣabāḥ), turkki:sabah, persia:(sobh), urdu:(subah), hindi:सुबह (subah), suahili:asubuhi, hausa:asuba  
 **sube** *alapuoli* ← englanti:ranska:espanja:portugali:malaiji:sub-, venäjä:суб- (sub-)  
 **sude** *etelä* ← englanti:south, espanja:sur, portugali:sul, ranska:sud, deu:Süden, venäjä:зюйд (zyuyd)  
-**sue** ** ← scr:hindi: सु- (su-), bangla:সু- (śu-) + latina:englanti:ranska:su-  
+**sue** ** ← scr:hindi: सु- (su-), bangla:সু- (śu-) + latina:englanti:ranska:su- + min-kiina:媠 (súi)  
 **suede** *hiki* ← englanti:sweat, espanja:sudor, portugali:suor, ranska:sueur, sanskriitti:स्वेद (sveda)  
 **suge** *nopea (pikainen, vauhdikas)* ← yleiskiina:速 (sù), kantoninkiina:速 (cuk4)), japani:速 (soku), korea:속 (sok), vietnami:tốc  
 **sui** *vesi* ← yleiskiina:水 (shuǐ), japani:水 (sui), korea:수 (su), vietnami:thuỷ + turkki:su  
@@ -1496,6 +1497,7 @@
 **volfram** *volframi* ← englanti:wolfram, espanja:wolframio, venäjä:вольфрам, yleiskiina:钨 (wū), vietnami:vonfam, malaiji:wolfram, suahili:wolframi  
 **vote** *ääni (äänestää)* ← englanti:vote, espanja:portugali:voto, hindi:वोट (voṭ), venäjä:вотум (votum)  
 **vulve** *häpy (ulkosynnyttimet)* ← ranska:vulve, englanti:portugali:espanja:turkki:vulva, venäjä:вульва (vul’va)  
+**xa** *tulevan ajan merkitsijä* ← vietnami:sẽ  
 **xakal** *šakaali* ← persia:شغال‎ (šağâl), englanti:jackal, espanja:portugali:chacal, venäjä:шака́л (šakál), turkki:çakal, bangla:শৃগাল (śrigal), malaiji:jakal, thai:แจ็กคัล (jɛ̀k-kal), japani:ジャッカル (jakkaru)  
 **xake** *oksa (haara)* ← bangla:শাখা (śakha), hindi:शाखा (śākhā), urdu:(śāx), persia:(šax)  
 **xal** *huivi (šaali)* ← ranska:châle, venäjä:шаль (šal), portugali:xaile, englanti:shawl, turkki:şal  

@@ -2220,6 +2220,7 @@ inliste - table of contents (inventory)
 litium - lithium  
 litre - litre (liter)  
 live - stay behind (remain, linger; leave behind)  
+liu - already (yet)  
 • livaje - rest (remainder)  
 livermorium - livermorium  
 lobake - radish  
@@ -4029,6 +4030,7 @@ tu - you (singular)
 tu su - your  
 tumen - you all  
 tumen su - your  
+tumimen - we (inclusive we)  
 tualete - toilet (WC)  
 tube - tube (pipe)  
 tuhe - spit  
@@ -4256,6 +4258,7 @@ vulve - vulva
 
 ## X  
 
+xa - will (future aspect marker)  
 xake - branch (bough)  
 xakal - jackal  
 xal - scarf (shawl)  
@@ -4343,6 +4346,7 @@ ya - he or she or it
 ya su - its (his, her)  
 yamen - they  
 yamen su - their  
+yamimen - we (exlusive we)  
 yage - about (approximately, nearly, almost)  
 yagife - estimate (approximate)  
 yagones - peninsula  

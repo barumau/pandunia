@@ -905,6 +905,7 @@ Jemen - Yemen
 Jersey - Jerzi  
 jihadismi - jihadisme  
 jihadisti - jihadiste  
+jo - liu  
 jodi - yodium  
 jogurtti - yogur  
 johanneksenleipäpuu - karube  
@@ -1817,6 +1818,8 @@ mauste - masale
 maya (mayaintiaani) - mayan  
 Mayotte - Mayote  
 me - mimen  
+me ja sinä - tumimen  
+me mutta et sinä - yamimen  
 media - midia  
 megawatti (MW) - megavate  
 mehiläinen - maduvespe  
@@ -3316,6 +3319,7 @@ tuhota - destrute
 tukko (tulppa, tappi, korkki; tukkia) - tape  
 tulehdus - itis  
 tulevaisuus - posozam  
+tulevan ajan merkitsijä - xa  
 tuli - hoge  
 tulinen - hoge  
 tulium - tulium  

@@ -6,7 +6,7 @@ index_head = '''
     <title>pandunia lexokarte</title>
 </head>
 <body>
-<h1>pandunia lexokarte</h1>
+<h1>pandunia lexe a dunia karte</h1>
 '''
 
 index_tail = '''

@@ -777,6 +777,7 @@ liste - 单子
 litium - 锂  
 litre - 升  
 live - 落 (留下)  
+liu - 了  
 • livaje - 其余  
 loge - 说话 (讲, 语言)  
 loke - 地方 (放置)  
@@ -1319,6 +1320,7 @@ truke - 耍花招
 tu - 你  
 tumen - 你们  
 tumen su - 你们的  
+tumimen - 咱们  
 tulium - 铥  
 tune - 金枪鱼  
 tunge - 疼痛  
@@ -1385,6 +1387,7 @@ vulve - 外阴 (陰门)
 
 ## X  
 
+xa - 了  
 Xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
@@ -1429,6 +1432,7 @@ xute - 技术
 ya - 他，她，它  
 yamen - 他们  
 yamen su - 他们的  
+yamimen - 我们  
 yahve - 耶和华 (雅威)  
 yamfite - 蔬菜  
 yamyau - 饥饿  

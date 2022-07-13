@@ -809,6 +809,7 @@
 **liste** *lista, spis, wykaz* ← eng:list, spa:por:lista, rus:лист (list), deu:fra:liste, fas:(list), hin:लिस्ट (lisṭ), urd:(lisṭ), jpn:リスト (risuto)  
 **litium** *lit* ← eng:lithium, fra:lithium, spa:litio, por:lítio, rus:литий, zho:锂 (lǐ), jpn:リチウム, kor:리튬, vie:swa:lithi, hin:लिथियम, ben:লিথিয়াম, may:litium, swa:lithi, ara: ليثيوم  
 **litre** *litr* ← eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita  
+**liu** ** ← zho:了 (liǎo), yue:了 (liu5), tha:แล้ว (lɛw) + jpn:了 (ryō)  
 **live** *pozostawiać (pozostawić, zostać, zostawać)* ← eng:leave + zho:留 (liú), jpn:留 (ryū), kor:류 (ryu), vie:lưu  
 **livermorium** *liwermor* ← eng:fra:livermorium, spa:livermorio, por:livermório, rus:ливерморий, zho: (lì), jpn:リバモリウム, kor:리버모륨, vie:livermori, may:livermorium, swa:livermori  
 **lobake** *rzodkiewka* ← zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak  
@@ -1325,7 +1326,7 @@
 **suba** *ranek, rano, poranek* ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
 **sube** *spód* ← eng:fra:spa:por:may:sub-, rus:суб- (sub-)  
 **sude** *południe* ← eng:south, spa:sur, por:sul, fra:sud, deu:Süden, rus:зюйд (zyuyd)  
-**sue** ** ← scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-  
+**sue** ** ← scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su- + min:媠 (súi)  
 **suede** *pot* ← eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)  
 **suge** *szybki, prędki* ← zho:速 (sù), yue:速 (cuk4)), jpn:速 (soku), kor:속 (sok), vie:tốc  
 **sui** *woda* ← zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su  
@@ -1496,6 +1497,7 @@
 **volfram** *wolfram* ← eng:wolfram, spa:wolframio, rus:вольфрам, zho:钨 (wū), vie:vonfam, may:wolfram, swa:wolframi  
 **vote** *głos (głosować)* ← eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)  
 **vulve** *srom* ← fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)  
+**xa** ** ← vie:sẽ  
 **xakal** *szakal* ← fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)  
 **xake** *gałąź, konar* ← ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)  
 **xal** *szal, szalik* ← fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal  

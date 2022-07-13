@@ -1727,6 +1727,7 @@ tu - vi (ci)
 tu su - via (cia)  
 tumen - vi ĉiu  
 tumen su - via  
+tumimen - ni ĉiuj  
 tube - tubo  
 tuhe - sputi  
 tul - ilo  
@@ -1857,6 +1858,7 @@ xure - komenci
 ya - li aŭ ŝi aŭ ĝi  
 yamen - ili  
 yamen su - ilia  
+yamimen - ni sen ne vi  
 yahve - Javeo (Jehovo)  
 yale - rapidigi  
 yame - manĝi (trinki)  

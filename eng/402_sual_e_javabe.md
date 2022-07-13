@@ -321,6 +321,9 @@ So the letter *c* is free to be reassigned to some useful sound.
 #### Where Pandunia's words come from?
 
 Pandunia's words come from all parts of the world.
+Go to the
+[Pandunia lexe a dunia karte](http://www.pandunia.info/lexokarte/index.html)
+web pages to see where every Pandunia word is from on a world map.
 
 In our opinion the world language should be a mix of all languages in the world.
 That's why Pandunia has at least a few words in common with almost all languages of the world,

@@ -1948,6 +1948,7 @@ inliste - sisällysluettelo
 litium - litium  
 litre - litra  
 live - jäädä (jättää)  
+liu - jo  
 • livaje - jäännös (loput)  
 livermorium - livermorium  
 lobake - retikka (retiisi)  
@@ -3457,6 +3458,7 @@ tu - sinä
 tu su - sinun  
 tumen - te  
 tumen su - teidän  
+tumimen - me ja sinä  
 tualete - vessa  
 tube - putki (tuubi)  
 tuhe - sylkeä  
@@ -3655,6 +3657,7 @@ vulve - häpy (ulkosynnyttimet)
 
 ## X  
 
+xa - tulevan ajan merkitsijä  
 xake - oksa (haara)  
 xakal - šakaali  
 xal - huivi (šaali)  
@@ -3733,6 +3736,7 @@ ya - hän (se)
 ya su - hänen (sen)  
 yamen - he  
 yamen su - heidän  
+yamimen - me mutta et sinä  
 yage - noin (arviolta, suunnilleen)  
 yagife - arvioida  
 yahve - Jahve (Jehova)  

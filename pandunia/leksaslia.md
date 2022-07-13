@@ -843,6 +843,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**litium**|eng:lithium, fra:lithium, spa:litio, por:lítio, rus:литий, zho:锂 (lǐ), jpn:リチウム, kor:리튬, vie:swa:lithi, hin:लिथियम, ben:লিথিয়াম, may:litium, swa:lithi, ara: ليثيوم|
 |**litre**|eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|
 |**live**|eng:leave + zho:留 (liú), jpn:留 (ryū), kor:류 (ryu), vie:lưu|
+|**liu**|zho:了 (liǎo), yue:了 (liu5), tha:แล้ว (lɛw) + jpn:了 (ryō)|
 |**livermorium**|eng:fra:livermorium, spa:livermorio, por:livermório, rus:ливерморий, zho: (lì), jpn:リバモリウム, kor:리버모륨, vie:livermori, may:livermorium, swa:livermori|
 |**lobake**|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|
 |**loge**|ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log) + ara:(luğa), hin:लुग़त (luġat), swa:lugha, may:logat, tur:lügat, fas:(loğat)|
@@ -1352,7 +1353,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**strute**|eng:fra:structure, spa:estructure, por:estrutura, rus:структура (struktura), may:(infra)struktur, jpn:(インフラ)ストラクチャ ((infura)sutorakucha), kor:(인프라)스트럭처 ((inpeura)seuteureokcheo)|
 |**stude**|eng:study, fra:étudier, spa:estudiar, por:estudar + rus:студент (student), hin:स्टूडेंट (sṭūḍeṇṭ)|
 |**su**|eng:'s, spa:su, por:seu,sua|
-|**sue**|scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su-|
+|**sue**|scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su- + min:媠 (súi)|
 |**sual**|ara: سؤال (su'āl), fas: سؤال‎ (so'âl), hin:सवाल (savāl), ben:সওয়াল (śôwal), may:soal, swa:swali, tur:sual + khm:សួរ (suə)|
 |**suane**|zho:酸 (suān), yue:酸 (syun1), wuu:酸 (soe1), jpn:酸 (san), kor:산 (san), vie:toan|
 |**suar**|fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore|
@@ -1529,6 +1530,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**volfram**|eng:wolfram, spa:wolframio, rus:вольфрам, zho:钨 (wū), vie:vonfam, may:wolfram, swa:wolframi|
 |**vote**|eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|
 |**vulve**|fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|
+|**xa**|vie:sẽ|
 |**xake**|ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|
 |**xakal**|fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|
 |**xal**|fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|

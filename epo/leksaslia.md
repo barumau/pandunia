@@ -809,6 +809,7 @@
 **liste** *listo* ← angla:list, hispana:portugala:lista, rusa:лист (list), deu:franca:liste, persa:(list), hindia:लिस्ट (lisṭ), urdua:(lisṭ), japana:リスト (risuto)  
 **litium** *litio* ← angla:lithium, franca:lithium, hispana:litio, portugala:lítio, rusa:литий, mandarena:锂 (lǐ), japana:リチウム, korea:리튬, vjetnama:svahila:lithi, hindia:लिथियम, bengala:লিথিয়াম, malaja:litium, swa:lithi, araba: ليثيوم  
 **litre** *litro* ← angla:franca:turka:litre, deu:malaja:liter, hispana:portugala:litro, rusa:литр (litr), polona:litr, araba: لتر‎(litr), hindia:लीटर (līṭar), bengala:লিটার (liṭar), japana:リットル (rittoru), korea:리터 (riteo), vjetnama:lít, svahila:lita  
+**liu** ** ← mandarena:了 (liǎo), kantona:了 (liu5), taja:แล้ว (lɛw) + japana:了 (ryō)  
 **live** *lasi* ← angla:leave + mandarena:留 (liú), japana:留 (ryū), korea:류 (ryu), vjetnama:lưu  
 **livermorium** ** ← angla:franca:livermorium, hispana:livermorio, portugala:livermório, rusa:ливерморий, mandarena: (lì), japana:リバモリウム, korea:리버모륨, vjetnama:livermori, malaja:livermorium, svahila:livermori  
 **lobake** *rafaneto* ← mandarena:萝卜 (luóbo), kantona:蘿蔔 (lobaak), malaja:lobak  
@@ -1325,7 +1326,7 @@
 **suba** *mateno* ← araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba  
 **sube** ** ← angla:franca:hispana:portugala:malaja:sub-, rusa:суб- (sub-)  
 **sude** *sudo* ← angla:south, hispana:sur, portugala:sul, franca:sud, deu:Süden, rusa:зюйд (zyuyd)  
-**sue** ** ← scr:hindia: सु- (su-), bengala:সু- (śu-) + latina:angla:franca:su-  
+**sue** ** ← scr:hindia: सु- (su-), bengala:সু- (śu-) + latina:angla:franca:su- + mina:媠 (súi)  
 **suede** ** ← angla:sweat, hispana:sudor, portugala:suor, franca:sueur, sanskrita:स्वेद (sveda)  
 **suge** *rapida* ← mandarena:速 (sù), kantona:速 (cuk4)), japana:速 (soku), korea:속 (sok), vjetnama:tốc  
 **sui** *akvo* ← mandarena:水 (shuǐ), japana:水 (sui), korea:수 (su), vjetnama:thuỷ + turka:su  
@@ -1496,6 +1497,7 @@
 **volfram** ** ← angla:wolfram, hispana:wolframio, rusa:вольфрам, mandarena:钨 (wū), vjetnama:vonfam, malaja:wolfram, svahila:wolframi  
 **vote** ** ← angla:vote, hispana:portugala:voto, hindia:वोट (voṭ), rusa:вотум (votum)  
 **vulve** *vulvo* ← franca:vulve, angla:portugala:hispana:turka:vulva, rusa:вульва (vul’va)  
+**xa** ** ← vjetnama:sẽ  
 **xakal** ** ← persa:شغال‎ (šağâl), angla:jackal, hispana:portugala:chacal, rusa:шака́л (šakál), turka:çakal, bengala:শৃগাল (śrigal), malaja:jakal, taja:แจ็กคัล (jɛ̀k-kal), japana:ジャッカル (jakkaru)  
 **xake** *branĉo* ← bengala:শাখা (śakha), hindia:शाखा (śākhā), urdua:(śāx), persa:(šax)  
 **xal** *koltuko* ← franca:châle, rusa:шаль (šal), portugala:xaile, angla:shawl, turka:şal  

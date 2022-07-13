@@ -809,6 +809,7 @@
 **liste** *list (listing, catalogue)* ← English:list, Spanish:Portuguese:lista, Russian:лист (list), deu:French:liste, Persian:(list), Hindi:लिस्ट (lisṭ), Urdu:(lisṭ), Japanese:リスト (risuto)  
 **litium** *lithium* ← English:lithium, French:lithium, Spanish:litio, Portuguese:lítio, Russian:литий, Mandarin:锂 (lǐ), Japanese:リチウム, Korean:리튬, Vietnamese:Swahili:lithi, Hindi:लिथियम, Bengali:লিথিয়াম, Malay:litium, swa:lithi, Arabic: ليثيوم  
 **litre** *litre (liter)* ← English:French:Turkish:litre, deu:Malay:liter, Spanish:Portuguese:litro, Russian:литр (litr), Polish:litr, Arabic: لتر‎(litr), Hindi:लीटर (līṭar), Bengali:লিটার (liṭar), Japanese:リットル (rittoru), Korean:리터 (riteo), Vietnamese:lít, Swahili:lita  
+**liu** *already (yet)* ← Mandarin:了 (liǎo), Cantonese:了 (liu5), Thai:แล้ว (lɛw) + Japanese:了 (ryō)  
 **live** *stay behind (remain, linger; leave behind)* ← English:leave + Mandarin:留 (liú), Japanese:留 (ryū), Korean:류 (ryu), Vietnamese:lưu  
 **livermorium** *livermorium* ← English:French:livermorium, Spanish:livermorio, Portuguese:livermório, Russian:ливерморий, Mandarin: (lì), Japanese:リバモリウム, Korean:리버모륨, Vietnamese:livermori, Malay:livermorium, Swahili:livermori  
 **lobake** *radish* ← Mandarin:萝卜 (luóbo), Cantonese:蘿蔔 (lobaak), Malay:lobak  
@@ -1325,7 +1326,7 @@
 **suba** *morning (dawn)* ← Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba  
 **sube** *underside (underneath)* ← English:French:Spanish:Portuguese:Malay:sub-, Russian:суб- (sub-)  
 **sude** *south* ← English:south, Spanish:sur, Portuguese:sul, French:sud, deu:Süden, Russian:зюйд (zyuyd)  
-**sue** *good (well)* ← scr:Hindi: सु- (su-), Bengali:সু- (śu-) + Latin:English:French:su-  
+**sue** *good (well)* ← scr:Hindi: सु- (su-), Bengali:সু- (śu-) + Latin:English:French:su- + Min-Chinese:媠 (súi)  
 **suede** *sweat (perspiration)* ← English:sweat, Spanish:sudor, Portuguese:suor, French:sueur, Sanskrit:स्वेद (sveda)  
 **suge** *fast (quick, rapid, speedy)* ← Mandarin:速 (sù), Cantonese:速 (cuk4)), Japanese:速 (soku), Korean:속 (sok), Vietnamese:tốc  
 **sui** *water* ← Mandarin:水 (shuǐ), Japanese:水 (sui), Korean:수 (su), Vietnamese:thuỷ + Turkish:su  
@@ -1496,6 +1497,7 @@
 **volfram** *tungsten (wolfram)* ← English:wolfram, Spanish:wolframio, Russian:вольфрам, Mandarin:钨 (wū), Vietnamese:vonfam, Malay:wolfram, Swahili:wolframi  
 **vote** *vote (ballot)* ← English:vote, Spanish:Portuguese:voto, Hindi:वोट (voṭ), Russian:вотум (votum)  
 **vulve** *vulva* ← French:vulve, English:Portuguese:Spanish:Turkish:vulva, Russian:вульва (vul’va)  
+**xa** *will (future aspect marker)* ← Vietnamese:sẽ  
 **xakal** *jackal* ← Persian:شغال‎ (šağâl), English:jackal, Spanish:Portuguese:chacal, Russian:шака́л (šakál), Turkish:çakal, Bengali:শৃগাল (śrigal), Malay:jakal, Thai:แจ็กคัล (jɛ̀k-kal), Japanese:ジャッカル (jakkaru)  
 **xake** *branch (bough)* ← Bengali:শাখা (śakha), Hindi:शाखा (śākhā), Urdu:(śāx), Persian:(šax)  
 **xal** *scarf (shawl)* ← French:châle, Russian:шаль (šal), Portuguese:xaile, English:shawl, Turkish:şal  
