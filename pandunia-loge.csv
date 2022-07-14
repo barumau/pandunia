@@ -495,8 +495,6 @@ cel.loj:ia|celolojia||||cytology|cytologie|citología|citologia|цитологи
 celsius: darg:|celsius darge|unomete|°C||degree Celsius||grado Celsius||||||||||||||celsiusaste|stopień Celsjusza
 cen:|cene|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|before (previous, fore, past)|avant|previo (anterior; antes; preceder, anteceder)||раньше||以前|以前 (前に)|전에|||||||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin; aikaisempi, edellinen)|poprzedni
 cen.ag:a|cenage||||assume (presuppose)||presuponer||||||||||||||edellyttää|zakładać (założyć)
-cen.aj:|• cenaje||||relic||reliquia|||||||||||||||relikwia
-cen.den:o|cendeno||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
 cen.iang:i|cenyange||||classic (classical)||clásico|||||古典的||||||||||klasyczny
 cen.ik:i|• cenike||||old (ancient, former)|vieux (ancien)|viejo (antiguo)|velho (antigo)|старый (древний)||古老 (以前)|古い|||पुराना|পুৰণা|||eski (kadim)|malnova|vanha (muinainen)|stary, starożytny
 cen.uid:|cenvide||||expect (anticipate, predict, forsee)||prever (esperar, pensar)|||||待ち受ける (見込む)|||||||||ennustaa (nähdä ennalta)|przewidzieć (spodziewać się)
@@ -583,8 +581,9 @@ cuz.abl:|• cuzable||||option (choice)|option|opción|opção|||选择 (买卖�
 cuz<pre:|• precuze||||default (preset, predecided)||predeterminado||по умолчанию|||既定 (デフォルト)||||||||||
 cuz~list:|cuzoliste||||menu (catalog)||menú (catálogo)|||||品書き (メニュー)|||||menu (daftar)|||||
 d|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
-dai:|dai|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai, tai), kor:대— (dae-)|big (great, large; get bigger, grow in size)||grande (crecer, aumentar)|||||大きい||||||||granda|iso (suuri; suurentua, kasvaa kokoa)|duży
-dai:ia|• dayia||||size||tamaño||||||||||||||suuruus (koko)|rozmiar
+dai:|dai|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai, tai), kor:대— (dae-)|big (great, large)||grande (crecer, aumentar)|||||大きい||||||||granda|iso (suuri; suurentua, kasvaa kokoa)|duży
+dai:ia|• dayia||||greatness (largeness)||||||||||||||||suuruus|
+dai.ud:|• dayude||||size||tamaño||||||||||||||koko|rozmiar
 dai~angil.kan:|dayangilkan||||embassy||embajada|||||||||||||ambasado|lähetystö|ambasada
 dai~angil.r:|dayangiler||||ambassador||embajador|||||||||||||ambasadoro|lähettiläs|ambasador
 dai~darg:|daidarge||||amplify (scale)||||||||||||||||korottaa|wzmacniać (wzmocnić)
@@ -1349,7 +1348,7 @@ halal.list:|halaloliste||||whitelist||lista blanca|||||ホワイトリスト||||
 halel:a|halele|||heb:(hal'lu yah), eng:hallelujah, zho:哈利路亚 (hālìlùyà), ara:(hallilūyā), por:fra:alléluia, rus:аллилуйя (alliluyya), spa:aleluya, swa:may:haleluya, tgl:aleluya, jpn:ハレルヤ (hareruya), kor:할렐루야 (hallelluya)|praise (commend, exalt)||elogiar (alabar, exaltar)||||||||||||||ylistää|chwalić (wychwalać)
 halif:|halif||||caliph||califa|||||||||||||kalifo|kalifi|kalif
 halif:ia|halifia||||caliphate||califato||||||||||||||kalifaatti|kalifat
-halou:|halou|||eng:hello, zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|hello (hi)|allô|aló|alô|алло||哈啰 (哈喽)||||हेलो||||alo|saluton!|hei (haloo)|halo, cześć
+halo:|halo|||eng:hello, zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo|hello (hi)|allô|aló|alô|алло||哈啰 (哈喽)||||हेलो||||alo|saluton!|hei (haloo)|halo, cześć
 ham:|ham|||ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), swa:muhimu, tur:mühim, fas:(mohemm)|important|important|importante|importante|важный (значимый)||重要||||महत्वपूर्ण (अहम)||penting||önemli (mühim)|grava|tärkeä|ważny
 hamak:|hamake|||eng:hammock, spa:hamaca, fra:hamac, rus:гамак (gamak), tur:hamak, jpn:ハンモック (hanmokku)|hammock||hamaca|||||||||||||hamako|riippumatto|hamak
 hamar:|hamar|||eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀|hammer||martillo (mazo)|||||||||||||martelo|vasara|młot, młotek
@@ -2064,6 +2063,7 @@ lat:a|late||||be beside (accompany)||estar al lado de|||||||||||||||być obok
 lat:i|late||||lateral (horizontal)|latéral|lateral (horizontal)|lateral|боковой (латеральный)|||||||||||flanka (latera)|sivu-|poziomy (horyzontalny, boczny)
 lat:o|lato||||sideways (laterally)||de lado|||||||||||||||z boku (na bok)
 lat.ien:|latojen||||companion (partner, sidekick)||compañero (compinche)|||||||||||||||towarzysz (partner, kumpel)
+lat.ud:|latude||||latitude||latitud||||纬度|緯度|위도|vĩ độ|||||||leveyspiiri|południk
 lat<a.iu:|• alative|gram.|||allative case||||||||||||||||allatiivi|
 lat<ab.iu:|• abolative|gram.|||ablative case||||||||||||||||ablatiivi|
 lat<ex.iu:|• exlative|gram.|||elative case||||||||||||||||elatiivi|
@@ -2189,6 +2189,7 @@ london:|London||||London|||||||||||||||||Londyn
 long:|longe|||eng:fra:long, deu:lang, por:longo|long (lengthy)|long|largo|longo|||长|長い|길다|dài|लम्बा|দীর্ঘ (লম্বা)|panjang||uzun|longa|pitkä|długi
 long:ia|• longia||||length||largo (longitud)||||||||||||||pituus|długość
 long.if:|• longife||||lengthen (prolong)||alargar|||||||||||||longigi|pidentää|przedłużyć, przedłużać
+long.ud:|longude||||longitude||longitud|||||||||||||||długość geograficzna
 long~dur:|longodure||||long (long-lasting, prolonged)|prolongé|perdurable (longevo, prolongado)|prolongado|долгий (длительный)||||||||||||pitkäaikainen (pitkäkestoinen)|
 long~krokodil:|longokrokodil|biu|Crocodylidae||crocodile|crocodile|cocodrilo|crocodilo||||クロコダイル||||||||||krokodyl
 long~pipr:|longopipre|biu|Piper longum||long pepper (pipli)|poivre long|||перец длинный||荜拔|畢撥|필발||पिप्पली|পিঁপুল|||||pitkäpippuri|pieprz długi
@@ -2201,6 +2202,9 @@ lug:i|luge|rang||zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok)
 lug:ia|• lugia||||registry (account)||registro (cuenta)|||||||||||||registro (konto)|rekisteri (tili)|register
 lug.melon:|lugomelon|biu|Cucumis melo, Inodorus||honeydew (green melon)||melón verde|||||ハネデューメロン||||||||||melon miodowy
 lug~buk:|lugobuke||||logbook||diario||||||||||||||lokikirja|dziennik pokładowy (notatnik)
+lum:|lume|||ara: لَمَعَ‎ (lamaʿa) + spa:lumbre, por:lume, fra:lumineux, eng:luminous + rus:люмен (lyumen),zho:流明 (liúmíng),  jpn:ルーメン (rūmen), kor:루멘 (rumen), may:lumen|shine||||||||||||||||loistaa (loiste)|
+lum.iv:|• lumive||||luminous (shining)|lumineux|lumbroso (luminoso)|luminoso|светящийся||||||||||||loistava|
+lum~en:|lumen|unomete|lm||lumen|lumen|lumen|lúmen|люмен|لُومِن‎|流明|ルーメン|루멘||||lumen||||luumen|lumen
 lun:|lun|planete 3 lun 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|lune|luna|lua|луна|||||||||||luno|kuu|księżyc
 lun.ul:|• lunule||||moonlet (lunula)|||||||||||||||||
 lun~|lun||||month|mois|mez|mês|месяц|||月間||||মাস||mwezi||monato|kuukausi|miesiąc
@@ -2463,8 +2467,7 @@ min.us:|• minus||||except (minus)||excepto (menos)|||||||||||||escepte|paitsi 
 min~ ka bas:|min ka bas||||too little||demasiado poco|||||||||||||maltro|liian vähän|zbyt mało
 min~darg:|minodarge||||decrement|||||||||||||||||zmniejszyć o jeden
 min~rai:|minrai||||underestimate|sous-estimer|subestimar|menosprezar (subestimar)|недооценить||||||||||||aliarvioida|
-minar:|minar|||swa: mnara, tur: minare, + eng:minaret|tower||torre|||||||||||||turo|torni|wieża
-ming:|ming|||zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)|bright (brilliant, luminous, shining; shine)||brillante (luminoso)||||||||||||||kirkas (selkeä)|jasny, czysty
+ming:|ming|||zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)|bright (brilliant)||brillante (luminoso)||||||||||||||kirkas (selkeä)|jasny, czysty
 ming<trans:|transming||||translucent|||||||||||||||||
 mint:|minte|biu|Mentha|eng:mint, spa:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)|mint|menthe|menta|hortelã|мята||薄荷|ハッカ|||pudinaa||pudina|mnanaa||||mięta
 minut:|minute|||eng:minute, spa:por:minuto, rus:минута (minuta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit|minute||minuto|||||||||||||minuto|minuutti|minuta
@@ -2760,7 +2763,7 @@ nov~fit:|novofite||||neophyte plant||planta neófita||||||||||||||tulokaskasvi (
 nov~gen:|novojene||||newborn|nouveau-né|neonato (recién nacido)|recém-nascido|новорождённый|||||||||||novnaskita|vastasyntynyt|
 nov~iang:i|novoyange||||modern||moderno|||||近代的||||||||||nowoczesne
 nov~log:|novologe||||neologism|néologisme|neologismo|neologismo|неологизм||新词|新語 (新造語)|신어 (신조어)||||||yenici deyim|neologismo|uudissana|neologizm
-nud:i|nude|||eng:nude, spa:desnudo, por:fra:nu + rus:нудизм (nudizm), jpn:ヌーディズム (nūdizumu)|naked (bare, nude)||desnudo||||||||||||||alaston (paljas, naku)|nagi (goły, obnażony)
+nud:|nude|||eng:nude, spa:desnudo, por:fra:nu + rus:нудизм (nudizm), jpn:ヌーディズム (nūdizumu)|naked (bare, nude)||desnudo||||||||||||||alaston (paljas, naku)|nagi (goły, obnażony)
 nud.ism:|• nudisme||||nudism|nudisme|nudismo|nudismo|нудизм||裸体主义|ヌーディズム||||নগ্নতাবাদ|||||nudismi|nudyzm
 nud.ist:|• nudiste||||nudist||nudista||||||||||||||nudisti|nudysta
 nuk:|nuke|||eng:neck, spa:por:nuca, fra:nuque, spa:por:nuca + ara:عُنُق‎ (ʿunuq)|neck (nape)|cou (encolure, nuque)|cuello (nuca, pescuezo)|pescoço (nuca, gargalo)|шея|عُنُق‎|颈|首|||गरदन (ग्रीवा, गला)|গর্দান (গ্রীবা)|leher|shingo|boyun|||
@@ -2868,9 +2871,9 @@ palab:|palabe|||eng:palaver, krio:plabah, kon:palaba|conflict (argument, dispute
 palad.ium:|paladium|kimium 046|Pd|eng:palladium, fra:palladium, spa:paladio, por:paládio, rus:палладий, zho:钯 (bǎ), jpn:パラジウム, kor:팔라듐, vie:palađi, hin:पलाडियम, ben:প্যালাডিয়াম, may:paladium, swa:paladi, ara: بلاديوم|palladium|palladium|paladio|paládio|палладий|بلاديوم|钯|パラジウム|팔라듐|palađi|पलाडियम|প্যালাডিয়াম|paladium|paladi|palladyum|paladio|palladium|pallad
 palau:|Palau|gogia|PW||Palau||Palaos||||||||||||||Palau|Palau
 palm:|palme|||deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)|palm tree||palmera|||||||||||||palmo|palmu|palma, drzewo palmowe
-pan: (pan:i)|pan (pani)|||eng:spa:por:deu:may:pan-, rus:пан- (pan-) + zho:泛 (fàn), jpn:汎 (han-)|all||todo|||||全ての||||||||ĉiu|kaikki|wszyscy, wszystkie, wszystko; każdy
+pan:|pan|||eng:spa:por:deu:may:pan-, rus:пан- (pan-) + zho:泛 (fàn), jpn:汎 (han-)|all||todo|||||全ての||||||||ĉiu|kaikki|wszyscy, wszystkie, wszystko; każdy
 pan: ien:|pan jen||||everybody (everyone)||todas las personas||||||||||||||jokainen ihminen|każdy człowiek, wszyscy
-pan: sei:|pan sei||||everything||todas las cosas||||||||||||||jokainen asia|wszystko
+pan: xe:|pan xe||||everything||todas las cosas||||||||||||||jokainen asia|wszystko
 pan.afrik:i|panafrike||||pan-African||panafricano||||||||||||||panafrikkalainen|panafrykański
 pan.amerik:i|panamerike||||pan-American||panamericano||||||||||||||panamerikkalainen|panamerykański
 pan.as:i|panase||||pan-Asian||panasiano||||||||||||||panaasialainen|panazjatycki
@@ -3129,9 +3132,9 @@ pos|pos|||eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-)|consequenc
 pos:a|pose||||follow (come after)|suivre|seguir|||||||||||||sekvi|seurata (tulla perässä, tulla jäljessä)|podążać
 pos:i|pose||||next (following, back)||siguiente (trasero)|||||||||||||sekva|seuraava|następny (następujący)
 pos:o|poso||||later (after, will, in the future)|ensuite (après, plus tard, ir a, en el futuro)|más tarde||после|||||||||||estonte|myöhemmin (tuleva)|później (w przyszłości)
-pos.den:o|posdeno||||tomorrow|demain|mañana|||||明日||||||||morgaŭ|huominen|jutro
 pos.tr:i|postre||||backward (posterior)|postérieur|posterior|posterior|||||||||||||myöhempi (takainen)|
 pos.zam:|posozam||||future time||futuro|||||||||||||estonoteco|tulevaisuus|przyszłość
+pos~den:|posden||||tomorrow|demain|mañana|||||明日||||||||morgaŭ|huominen|jutro
 pospor:|pospor|kimium 015|P|eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور|phosphorus|phosphore|fósforo|fósforo|фосфор|فوسفور|磷|リン|인|photpho|फास्फोरस|ফসফরাস|fosfor|posfori|fosfor|fosforo|fosfori|fosfor
 post:|poste|||eng:post, por:postagem, fra:poste, rus:почта (pochta), ara:بوسطة‎ (busṭa), swa:posta, may:pos|mail||correo||||||||||pos|posta|||posti (postilähetys)|poczta
 post:a|poste||||mail (send by mail)||eviar por correo|||||||||||kuposti|||postittaa|nadać, wysłać pocztą
@@ -3159,7 +3162,9 @@ poz<sub:|• subopoze||||suppose (put under)|||||||||||||||||
 prased.ium:|prasedium|kimium 059|Pr|eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم|praseodymium|praséodyme|praseodimio|praseodímio|празеодим|براسوديميوم|镨|プラセオジム|프라세오디뮴|prazeođim|प्रासियोडाइमियम|প্র্যাসেওডিমিয়াম|praseodinium|praseodimi|praseodim||praseodyymi|prazeodym
 prat:|prate|||eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)|practice (actuality)||práctica||||||||||||||käytäntö (pragmatia)|praktyka, aktualność
 prat:i|prate||||practical (pragmatic)||práctico||||||||||||||käytännöllinen (pragmaattinen)|practyczny, pragmatyczny
+pre.aj:|• cenaje||||relic||reliquia|||||||||||||||relikwia
 pre.im:|• prime||||initial (first; prime)||primer (inicial, inaugural)||||||||||||||ensimmäinen (alku-)|pierwszy, początkowy
+pre~den:|preden||||yesterday|hier|ayer|ontem|вчера|أمس|昨日|昨日|어제 (작일)|hôm qua|कल||kemarin|jana|dün|hieraū|eilen|wczoraj
 pres:|prese|||fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)|press (pressure)|pression|presión|pressão|давление (нажим)||压力|圧力|압력|áp lực|दाब|চাপ|tekanan||basınç|premo|puristaaa (puristus, paine)|
 pres.r:|• preser||||press device|pressoir|prensa|prensa|пресс|||圧搾機||||||||premilo|puristin|
 pres<de:|• deprese||||depress (push away)|||||||||||||||||
@@ -3392,18 +3397,21 @@ sah:i|sahe|||hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ)
 sahar:ia|Saharia|gogia|||Sahrawi Arab Democratic Republic||República Árabe Saharaui Democrática|||||||||||||||Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)
 sai:|saye|||fas:(sāye), urd:(sāyā), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|shadow||sombra||||||||छाया (साया)|ছায়া||||ombro|varjo|cień
 sak:|sake|||deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|bag (sack)|sac|saco|saco|||||||||||||pussi (säkki, kassi, laukku)|torba, wór, worek, torba, sakwa
-sal:|sale|||fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|zdrowy
-sal:ia|salia||||health|santé|salud|saúde|||健康|健康||||||siha|||terveys|zdrowie
-sal.am:|salam|||ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|greet (wish well; greeting; wellfare)|salut (salam)|saludar (saludo)|saudação|приветствие|سَلَام|迎接|挨拶|인사|lời chào|सलाम|সালাম|selamat|salaam (salamu)|selam|saluti (saluton)|tervehtiä (tervehdys; terve!)|pozdrowienie (pozdrowić, pozdrawiać)
-sal.am: cut:|salam cute||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
-sal.am: den:|salam den||||Good day||buenas tardes|||||||||||||Bonan tagon|päivää!|dzień dobry
-sal.am: iam:|salam yam||||bon appetit!||buen provecho|||||||||||||bonan apetiton!|hyvää ruokahalua!|smacznego
-sal.am: lai:|salam lai||||welcome!||bienvenido|||||||||||||bonvenon!|tervetuloa!|witaj, dobre przybycie
-sal.am: suar:|salam suar||||Good evening||buenas noches|||||||||||||Bonan vesperon|Hyvää iltaa|dobry wieczór
-sal.am: sub:|salam sube||||Good morning||buenos días|||||||||||||Bonan matenon!|Huomenta!|dobry ranek
-sal.am:ia|salamia||||well-being (prosperity)|bien-être|bienestar|bem-estar|благосостояние||福利 (福祉)|福利 (福祉)|복리 (복지)||||||||hyvinvointi|
-sal.saf:|salsafe||||cleanly (hygienic, sanitary)||||||||||||||||hygieeninen|czysty (higieniczny, sanitarny)
-sal.saf:ia|salsafia||||hygiene (cleanliness)|hygiène|higiene|higiene|гигиена||||||||||hijyen||hygienia (puhtaus)|higiena
+sal;|sal|||ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সালাম (salam), may:selamat, swa:salamu, tur:selam + eng:salute, fra:salut, spa:salude, por:saúde + kor:잘 (jal)|hello (hi)|||||سَلَام|你好||||हेलो||selamat|jambo (salamu)|alo|saluton!|terve (hei)|cześć
+sal:|sale||||healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|zdrowy
+sal.es:|• sales||||health (state of wellbeing)|santé|sanidad||||||||||||||terveys (hyvinvointi)|zdrowie
+sal.ud:|• salude||||health (condition, level of health)|santé|salud|saúde|||健康|健康||||||siha||saneco|terveys (kunto)|
+sal~ cut:|sal cute||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
+sal~ den:|sal den||||good day||buenas tardes|||||||||||||Bonan tagon|päivää!|dzień dobry
+sal~ lai:|sal lai||||welcome!||bienvenido|||||||||||||bonvenon!|tervetuloa!|witaj, dobre przybycie
+sal~ noc:|sal noce||||good night||||||||||||||||hyvää yötä|
+sal~ suar:|sal suar||||good evening||buenas noches|||||||||||||Bonan vesperon|hyvää iltaa|dobry wieczór
+sal~ suba:|sal suba||||good morning||buenos días|||||||||||||Bonan matenon!|huomenta|dobry ranek
+sal~ yam:|sal yam||||bon appetit!||buen provecho|||||||||||||bonan apetiton!|hyvää ruokahalua!|smacznego
+sal~am:|salam||||greet (wish well; greeting; wellfare)|salut (salam)|saludar (saludo)|saudação|приветствие|سَلَام|迎接|挨拶|인사|lời chào|सलाम|সালাম|selamat|salaam (salamu)|selam|saluti (saluton)|tervehtiä (tervehdys; terve!)|pozdrowienie (pozdrowić, pozdrawiać)
+sal~am:ia|salamia||||well-being (prosperity)|bien-être|bienestar|bem-estar|благосостояние||福利 (福祉)|福利 (福祉)|복리 (복지)||||||||hyvinvointi|
+sal~saf:|salsafe||||cleanly (hygienic, sanitary)||||||||||||||||hygieeninen|czysty (higieniczny, sanitarny)
+sal~saf:ia|salsafia||||hygiene (cleanliness)|hygiène|higiene|higiene|гигиена||||||||||hijyen||hygienia (puhtaus)|higiena
 salad:|salade|||fra:salade, may:salad, rus:салат (salat), hin:सलाद (salād), yue:沙律 (saa1 leot62), zho:沙拉 (shālā), por:salada, spa:ensalado, jpn:サラダ (sarada), kor:샐러드 (saelleodeu), vie:xà lách|salad||ensalada|salada|салат||沙拉|サラダ|샐러드|xà lách|सलाद||||||salaatti|sałatka
 salmon:|salmon|biu||eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|salmon (trout)|truite|salmón (trucha)|||||鮭鱒|||||ikan salmon (ikan trout)|samoni||||łosoś (pstrąg)
 salt:|salte|||eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|salt|sel|sal|sal|соль||盐|塩|소금 (염)|muối (diêm)|नमक|নুন|garam||tuz|salo|suola|sól
@@ -3678,6 +3686,7 @@ stud.ent:|• studente||||learner (student)|étudiant|estudiante (alumno)|estuda
 stud.r:|• studer||||student|étudiant|estudiante|estudante|студент||||||विद्यार्थी (स्टूडेंट)|ছাত্র (তালিব)|pelajar (murid)|mwanafunzi|öğrenci|studento|opiskelija|student
 su;|su|bine|adp. attributive|eng:'s, spa:su, por:seu,sua|attributive postposition (-'s)||de (posposición de posesión)|||||||||||||propra (partiklo de posedo)|-n (oma)|mieć (partykuła posiadania)
 su:|sue|||scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su- + min:媠 (súi)|good (well)|||||||||||||||||
+su~es.ik:|suesike||||swastika|svastika|suástica|suástica|свастика||||만자문||स्वस्तिक|স্বস্তিক|||svastika||svastika|
 suahil:i|suahili|nas|||Swahili||suajili|||||||||||||sŭahili|suahili|suahili
 sual:|sual|||ara: سؤال (su'āl), fas: سؤال‎ (so'âl), hin:सवाल (savāl), ben:সওয়াল (śôwal), may:soal, swa:swali, tur:sual + khm:សួរ (suə)|ask (inquire; question, query, inquiry)|demander (question)|preguntar (inquirir; pregunta)|perguntar (pergunta, questão)|спрашивать (вопрос)|سؤال|问 (问题)|聞く (質問, 問題)|묻다 (질문하다; 질문, 문제)|hỏi (câu hỏi, vấn đề)|पूछना (सवाल, प्रश्न)|পুছা (প্রশ্ন)|tanya (pertanyaan, soal)|kuuliza (kusaili; swali, suala)|sormak (soru, sual)|demandi|kysyä (kysymys)|pytać (pytanie)
 sual.iv:|• sualive||||interrogative||interrogativa|||||||||||||demandanta|kysyvä|pytajny, związany z pytaniem
@@ -3696,7 +3705,7 @@ sub.ik:|• subike||||lower (inferior)||inferior||||||||||||||ala-|poniższy
 sub~den:|suboden||||forenoon||mañana (antes mediodía)|||||||||||||||przedpołudnie
 sub~iam:|subyam||||breakfast||desayuno|||||朝食|||||||||aamiainen|śniadanie
 suba:|suba|||ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba|morning (dawn)||mañana|||||朝||||||||mateno|aamu|ranek, rano, poranek
-sud:|sude|||eng:south, spa:sur, por:sul, fra:sud, deu:Süden, rus:зюйд (zyuyd)|south||sur|||||||||||||sudo|etelä|południe
+sud:|sude|||deu:Süden, fra:sud, spa:sur, por:sul, eng:south, rus:зюйд (zyuyd)|south|sud|sur|sul|юг (зюйд)|||||||||||sudo|etelä|południe
 sud.ik:|• sudike||||southern||sureño||||||||||||||eteläinen|południowy
 sud~ amerik:|Sudi Amerike||||South America||Sudamérica||||||||||||||Etelä-Amerikka|Ameryka Południowa
 sud~ cosen:|Sudi Cosen|gogia|KR||South Korea (Republic of Korea)||Corea del Sur|||||||||||||Sudkoreio|Etelä-Korea|Korea Południowa
@@ -3923,6 +3932,8 @@ top.graf:|topografe||||topography|topographie|topografía|topografia|топог�
 top.graf:ia|• topografia||||topography|topographie|topografía|topografia|топография||地形|地勢|||||topografi||topografi||topografia|
 top<dus:ia|• dustopia||||dystopia||||||||||||||||dystopia|
 top<eu:ia|• eutopia||||utopia||||||||||||||||utopia|
+tor:|tore|||eng:tower, fra:tour, spa:por:torre, hin:टावर (ṭāvar) + jpn:塔 (tō), zho:塔 (tǎ)|tower|tour|torre||||塔 (塔楼)|塔|탑 (타워)|tháp|टावर|মিনার|menara|mnara|kale|turo|torni|wieża
+tor.et:|• torete||||turret|tourelle||torreta|башенка (турель)|||||||||||||
 tor.ium:|torium|kimium 090|Th|eng:thorium, fra:thorium, spa:torio, por:tório, rus:торий, zho:钍 (tǔ), jpn:トリウム, kor:토륨, vie:thori, hin:थोरियम, ben:থোরিয়াম, may:torium, swa:thori, ara: ثوريوم|thorium|thorium|torio|tório|торий|ثوريوم|钍|トリウム|토륨|thori|थोरियम|থোরিয়াম|torium|thori|toryum|torio|torium|tor
 tors:|torse|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
 tortug:|tortuge|biu|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw
@@ -3990,6 +4001,7 @@ turk~men:ia|Turkomenia|gogia|TM||Turkmenistan||Turkmenistán||||||||||||||Turkme
 tuualu:|Tuvalu|gogia|TV||Tuvalu||Tuvalu||||||||||||||Tuvalu|Tuwalu
 tuz:|tuze|biu|Lagomorpha|zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)|rabbit (hare)|lapin (lièvre)|conejo (liebre)|coelho (lebre)|кролик (заяц)||兔子|うさぎ|||खरगोश (शशक, सुस्सा)||arnab (kelinci)|sungura|tavşan||jänis|królik, zając
 u|U||||U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U|U
+ud:|ude|||zho: 度 (dù), wuu:度 (du3), jpn:度 (do), kor:도 (do), vie:độ + eng:fra:por:-itude; -idão, spa:-itud|degree (measurable level)||||||度|度|||||||||aste (mitattava taso)|
 ukraina:|Ukraina|gogia|UA||Ukraine||Ucrania||||||||||||||Ukraina|Ukraina
 ulul:|ulul||||howling||aullido||||||||||||||ulvonta|wycie, skowyt
 ulul:a|ulule|||deu:Heulen, ita:ululato, tur:uluma, tgl:aulong, |howl||aullar||||||||||||||ulvoa|wyć
@@ -4064,7 +4076,6 @@ vaxington: dc:|Vaxington DC|xefsite|US||Washington DC||||||||||||||||Washington 
 vei:|vei|||zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)|tail||cola (rabo)||хвост||尾巴 (尾部)|尾 (尾翼)|||पूंछ (दुम)|লেজ|ekor (kotek, basian)|mkia|kuyruk|vosto|häntä|ogon
 vei:i|veye|||zho:纬度 (wěi), kor:위 (wi), vie:vĩ|traverse (horizontal)||||||||||||||||poikittainen (vaaka)|
 vei.lin:|veilin||||weft|fil de trame|||уток||緯紗|横糸|||||||||kude|
-vei.sirk:|veisirke||||latitude||latitud||||纬度|緯度|위도|vĩ độ|||||||leveyspiiri|południk
 vel:|vele|||eng:veil, fra:voile, spa:velo, por:véu, jpn:ベール (bêru), kor:베일 (beil), swa:veli|veil|voile|velo|véu|||||베일|||||veli (shela)|||verho (peite)|
 vel<de:|• devele||AWL||unveil (reveal, uncover)|dévoiler (révéler)|develar (revelar)|revelar|||||||||||||paljastaa|
 vel<in:|• invelaje||||envelope (enfold)|||||||||||||||||
@@ -4108,8 +4119,7 @@ vers<un:|• unoverse||||universal|universel|universal|universal|||||||||||||uni
 veruk:|veruke|||eng:verruca, fra:verrue, spa:por:verruga|wart (verruca)|verrue|verruga|verruga|бородавка||疣|疣|||मस्सा||kutil|||veruko|syylä|brodawka
 vesp:|vespe|biu||spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|bee or wasp|abeille ou guêpe|abeja o avispa|abelha ou vespa|||蜂|蜂||||||||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
 vesp~nid:|vesponide||||bee nest (beehive, wasp's nest)|ruche (nid d'abeille)|avispero (colmena)|||||蜂の巣||||||||||ul (gniazdo pszczół lub os)
-vest:|veste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west (western)||oeste (occidental)||||||||||||||länsi|zachód (zachodni)
-vest.dong:ia|vestodongia||||longitude||longitud|||||||||||||||długość geograficzna
+vest:|veste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west (western)|ouest|oeste (occidental)|oeste|запад (вест)||西|西|서 (서쪽)|tây|पश्चिम|পশ্চিম|barat||||länsi|zachód (zachodni)
 vest.goril:|vestogoril||||western gorilla||gorila occidental||западная горилла|||ニシゴリラ||||||||||goryl zachodni
 vez:i|veze||||heavy|lourd|pesado|pesado|тяжёлый||重型的||||भारी||berat||ağır|peza|painava|ciężki (masywny)
 vez:ia|vezia|||ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso|weight (heft, gravity)|poids (lourdeur, gravité)|peso (gravedad)||||||||भार (वज़न)|ওজন|uzani||ağırlık|pezo|paino|waga (ciężkość)

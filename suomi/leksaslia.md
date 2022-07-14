@@ -490,7 +490,7 @@
 **hal** *tila (tilanne, seikka)* ← arabia:(ḥāla), hindi:हालत (hālat), suahili:hali, turkki:hâl  
 **halale** *sallittu (hyväksytty)* ← arabia:(ḥalāl), persia:urdu:(halāl), englanti:espanja:ranska:portugali:malaiji:halal, turkki:helal, venäjä:халяльный (xaljalʹniy), hindi:हलाल (halāl), suahili:halali, korea:할랄 (hallal)  
 **halele** *ylistää* ← heb:(hal'lu yah), englanti:hallelujah, yleiskiina:哈利路亚 (hālìlùyà), arabia:(hallilūyā), portugali:ranska:alléluia, venäjä:аллилуйя (alliluyya), espanja:aleluya, suahili:malaiji:haleluya, filippiini:aleluya, japani:ハレルヤ (hareruya), korea:할렐루야 (hallelluya)  
-**halou** *hei (haloo)* ← englanti:hello, yleiskiina:哈喽 (hālóu), hindi:हेलो (helo), bangla:হ্যালো  (hyalo), malaiji:halo + ranska:allô, espanja:aló, portugali:alô, venäjä:алло (allo), arabia: آلُو‎ (ʾālū), turkki:alo  
+**halo** *hei (haloo)* ← englanti:hello, yleiskiina:哈喽 (hālóu), hindi:हेलो (helo), bangla:হ্যালো  (hyalo), malaiji:halo + ranska:allô, espanja:aló, portugali:alô, venäjä:алло (allo), arabia: آلُو‎ (ʾālū), turkki:alo  
 **ham** *tärkeä* ← arabia: هَامّ (hāmm), hindi:अहम (aham), urdu: اہم (aham), suahili:muhimu, turkki:mühim, persia:(mohemm)  
 **hamake** *riippumatto* ← englanti:hammock, espanja:hamaca, ranska:hamac, venäjä:гамак (gamak), turkki:hamak, japani:ハンモック (hanmokku)  
 **hamar** *vasara* ← englanti:hammer, deu:Hammer, japani:ハンマー (hanmā), hausa:hamā̀  
@@ -823,6 +823,7 @@
 **love** *vuotaa* ← yleiskiina:漏 (lòu), kantoninkiina:漏 (lau6), japani:漏 (rō), 루 (ru)  
 **luge** *tallenne (rekisteri; tallentaa, rekisteröidä, kirjata)* ← englanti:log + yleiskiina:录 (lù), kantoninkiina:錄 (luk6), japani:録 (roku), korea:록 (rok), vietnami:lục  
 **luge** *vihreä* ← yleiskiina:绿 (lǜ), kantoninkiina:綠 (luk6), vietnami:lục, korea:록/녹 (rok/nok), japani: 緑色 (ryokushoku)  
+**lume** *loistaa (loiste)* ← arabia: لَمَعَ‎ (lamaʿa) + espanja:lumbre, portugali:lume, ranska:lumineux, englanti:luminous + venäjä:люмен (lyumen),yleiskiina:流明 (liúmíng),  japani:ルーメン (rūmen), korea:루멘 (rumen), malaiji:lumen  
 **lun** *kuu* ← ranska:lune, espanja:luna, englanti:lunar, venäjä:луна (luná)  
 **lung** *itämainen lohikäärme* ← yleiskiina:龙 (lóng), kantoninkiina:龍 (lung4), vietnami:rồng, long, korea:용 (yong), 룡 (ryong), jon:竜 (ryū)  
 **lusun** *parsa* ← yleiskiina:芦笋 (lúsǔn), kantoninkiina:蘆筍 (lou4 seon2)  
@@ -916,7 +917,6 @@
 **milke** *maito* ← englanti:milk, deu:Milch, japani:ミルク  (miruku), korea:밀크 (milkeu), lingala:míliki, venäjä:молоко (moloko)  
 **mime** *matkia (imitoida)* ← englanti:ranska:mime, portugali:mímico, venäjä:мим (mim)  
 **min** *vähemmän* ← espanja:portugali:menos, ranska:moins, venäjä:менее (méneje), englanti:min- + deu:Minimum  
-**minar** *torni* ← suahili: mnara, turkki: minare, + englanti:minaret  
 **ming** *kirkas (selkeä)* ← yleiskiina:wu-kiina:明 (míng), kantoninkiina:明 (ming4), vietnami:minh, korea:명 (myeong)  
 **minte** ** ← englanti:mint, espanja:menta, ranska:menthe, venäjä:мята (m’ata), japani:ミント (minto)  
 **minute** *minuutti* ← englanti:minute, espanja:portugali:minuto, venäjä:минута (minuta), hindi:मिनट (minaṭ), bangla:মিনিট (miniṭ), malaiji:minit  
@@ -1055,7 +1055,7 @@
 **palabe** *riita (kiista)* ← englanti:palaver, krio:plabah, Kongo:palaba  
 **paladium** *palladium* ← englanti:palladium, ranska:palladium, espanja:paladio, portugali:paládio, venäjä:палладий, yleiskiina:钯 (bǎ), japani:パラジウム, korea:팔라듐, vietnami:palađi, hindi:पलाडियम, bangla:প্যালাডিয়াম, malaiji:paladium, suahili:paladi, arabia: بلاديوم  
 **palme** *palmu* ← deu:Palme, englanti:palm, portugali:espanja:palma, venäjä:пальма (palma), turkki:palmiye, malaiji:palem, thai:ปาล์ม (pām)  
-**pan (pani)** *kaikki* ← englanti:espanja:portugali:deu:malaiji:pan-, venäjä:пан- (pan-) + yleiskiina:泛 (fàn), japani:汎 (han-)  
+**pan** *kaikki* ← englanti:espanja:portugali:deu:malaiji:pan-, venäjä:пан- (pan-) + yleiskiina:泛 (fàn), japani:汎 (han-)  
 **panda** *panda* ← englanti:espanja:portugali:ranska:malaiji:panda, venäjä:панда (panda), hindi:पांडा (pāṇḍā), japani:パンダ (panda)  
 **pang** *leipä* ← thai:ปัง (pang), korea:빵 (ppang), khmer:នំប៉័ង (numpang), japani:パン (pan), portugali:pão, espanja:pan, ranska:pain  
 **panike** *hätä (paniikki)* ← englanti:panic, espanja:pánico, portugali:pânico, ranska:panique, venäjä:паника (panika), persia:پانیک‎ (pânik), japani:パニック (panikku)  
@@ -1228,9 +1228,8 @@
 **sagu** *saagopalmu* ← englanti:sago, ranska:sagou, espanja:sagú, portugali:malaiji:sagu, venäjä:саго (sago), arabia: سَاغُو‎ (sāḡū), yleiskiina:西谷米 (xīgúmǐ), japani:サゴ (sago), hindi:सागू (sāgū)  
 **sahe** *oikea (paikkansapitävä; korjata oikeaksi)* ← hindi:सही (sahī), urdu:(sahī), persia:(sahih), arabia:(ṣaḥīḥ), suahili:sahihi  
 **sake** *pussi (säkki, kassi, laukku)* ← deu:englanti:sack, ranska:sac, espanja:portugali:saco, malaiji:Kongo:saku  
+**sal** *terve (hei)* ← arabia:persia: سلام‎ (salâm), hindi:सलाम (salām), bangla: সালাম (salam), malaiji:selamat, suahili:salamu, turkki:selam + englanti:salute, ranska:salut, espanja:salude, portugali:saúde + korea:잘 (jal)  
 **salade** *salaatti* ← ranska:salade, malaiji:salad, venäjä:салат (salat), hindi:सलाद (salād), kantoninkiina:沙律 (saa1 leot62), yleiskiina:沙拉 (shālā), portugali:salada, espanja:ensalado, japani:サラダ (sarada), korea:샐러드 (saelleodeu), vietnami:xà lách  
-**salam** *tervehtiä (tervehdys; terve!)* ← arabia:(salām), suahili:salamu, malaiji:selamat, hindi:सलाम (salām), bangla: সালাম (salam), yleiskiina:萨拉姆 (sàlāmǔ), japani:サラーム (sarāmu), korea:살람 (sallam), vietnami:xa lam, venäjä:салям (salyam)  
-**sale** *terve* ← ranska:espanja:portugali:salubre + arabia: سَلَامَة‎ (salāma) + turkki:sağlık  
 **salmon** ** ← englanti:malaiji:salmon, espanja:salmón, portugali:salmão, ranska:saumon, suahili:samoni, japani:サーモン (sāmon)  
 **salte** *suola* ← englanti:salt, ranska:sel, espanja:portugali:sal, venäjä:соль (solʹ)  
 **salve** *pelastaa* ← englanti:save, salvage, ranska:sauver, espanja:portugali:salvar  
@@ -1325,7 +1324,7 @@
 **suar** *ilta* ← ranska:soir, englanti:soiree, venäjä:суаре (suare), turkki:suare + malaiji:sore  
 **suba** *aamu* ← arabia:(ṣabāḥ), turkki:sabah, persia:(sobh), urdu:(subah), hindi:सुबह (subah), suahili:asubuhi, hausa:asuba  
 **sube** *alapuoli* ← englanti:ranska:espanja:portugali:malaiji:sub-, venäjä:суб- (sub-)  
-**sude** *etelä* ← englanti:south, espanja:sur, portugali:sul, ranska:sud, deu:Süden, venäjä:зюйд (zyuyd)  
+**sude** *etelä* ← deu:Süden, ranska:sud, espanja:sur, portugali:sul, englanti:south, venäjä:зюйд (zyuyd)  
 **sue** ** ← scr:hindi: सु- (su-), bangla:সু- (śu-) + latina:englanti:ranska:su- + min-kiina:媠 (súi)  
 **suede** *hiki* ← englanti:sweat, espanja:sudor, portugali:suor, ranska:sueur, sanskriitti:स्वेद (sveda)  
 **suge** *nopea (pikainen, vauhdikas)* ← yleiskiina:速 (sù), kantoninkiina:速 (cuk4)), japani:速 (soku), korea:속 (sok), vietnami:tốc  
@@ -1403,6 +1402,7 @@
 **tomate** *tomaatti* ← englanti:tomato, portugali:espanja:tomate, venäjä:томат (tomat), malaiji:tomat, hindi:टमाटर (ṭamāṭar)  
 **tone** *sävel (sävy)* ← englanti:tone, suahili:kitone, venäjä:тон (ton), deu:Ton, espanja:tono  
 **tong** *tynnyri (tölkki)* ← yleiskiina:桶 (tǒng), korea:통 (tong), vietnami:thùng, malaiji:tong, khmer:តុង (tong), thai:ถัง (tǎng), persia: تنگ‎ (tong) + ranska:tonneau, espanja:tonel, ned:ton  
+**tore** *torni* ← englanti:tower, ranska:tour, espanja:portugali:torre, hindi:टावर (ṭāvar) + japani:塔 (tō), yleiskiina:塔 (tǎ)  
 **torium** *torium* ← englanti:thorium, ranska:thorium, espanja:torio, portugali:tório, venäjä:торий, yleiskiina:钍 (tǔ), japani:トリウム, korea:토륨, vietnami:thori, hindi:थोरियम, bangla:থোরিয়াম, malaiji:torium, suahili:thori, arabia: ثوريوم  
 **torse** *vartalo (varsi, torso)* ← ranska:torse, venäjä:торс (tors), deu:englanti:espanja:malaiji:torso  
 **tortuge** *kilpikonna* ← englanti:tortoise, espanja:tortuga, portugali:tartaruga, ranska:tortue  
@@ -1431,6 +1431,7 @@
 **turbe** *kieppua (sekoittaa; häiritä)* ← englanti:turbid + venäjä:турбина (turbina), japani:タービン (tābin), korea:터빈 (teobin) + eng:disturb, ranska:perturber, espanja:portugali:perturbar  
 **turfe** *turve* ← englanti:turf, ranska:tourbe, espanja:turkki:turba, portugali:turfa, venäjä:торф (torf)  
 **tuze** *jänis* ← yleiskiina:兔子 (tùzi), kantoninkiina:兔仔 (tou3zai2), korea:토끼 (tokki), vietnami:thỏ, thai:เถาะ (tho)  
+**ude** *aste (mitattava taso)* ← yleiskiina: 度 (dù), wu-kiina:度 (du3), japani:度 (do), korea:도 (do), vietnami:độ + englanti:ranska:portugali:-itude; -idão, espanja:-itud  
 **ulule** *ulvoa* ← deu:Heulen, italia:ululato, turkki:uluma, filippiini:aulong,   
 **umame** *umami (ruokaisanmakuinen)* ← japani:旨味 (umami), korea:우마미 (umami), englanti:ranska:portugali:espanja:malaiji:umami, venäjä:умами (umami)  
 **un** *yksi (1)* ← ranska:un, espanja:uno, portugali:um, una, englanti:one  

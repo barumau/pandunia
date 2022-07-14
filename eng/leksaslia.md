@@ -240,7 +240,7 @@
 **cute** *leave (go out, exit)* ← Mandarin:出 (chū), Hakka-Chinese:(chut), Korean:출 (chul), Hindi:छूटना (chūtnā) + Turkish:çıkmak  
 **cuve** *chew* ← English:chew + French:chewing-gum, Hindi:चूइंग गम (cūiṅg gam), Bengali:চ্যুইং গাম (cyuiṅ gam), Japanese:チューインガム (chūingamu), Korean:츄잉껌 (chu'ingkkeom)  
 **cuze** *choose (elect, select, pick; choice, election, selection))* ← English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn  
-**dai** *big (great, large; get bigger, grow in size)* ← Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai, tai), Korean:대— (dae-)  
+**dai** *big (great, large)* ← Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai, tai), Korean:대— (dae-)  
 **daihai** *ocean* ← Mandarin:大海 (dàhǎi), Japanese:大海 (taikai), Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)  
 **dake** *cover (conceal; lid, cap, deck)* ← Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck  
 **dalil** *proof (evidence, proof, demonstration, testimony)* ← Arabic:(dalil), Bengali:দলিল (dôlil), Swahili:dalili, Turkish:delil  
@@ -490,7 +490,7 @@
 **hal** *state (condition, status, situation)* ← Arabic:(ḥāla), Hindi:हालत (hālat), Swahili:hali, Turkish:hâl  
 **halale** *permissible (allowed, halal)* ← Arabic:(ḥalāl), Persian:Urdu:(halāl), English:Spanish:French:Portuguese:Malay:halal, Turkish:helal, Russian:халяльный (xaljalʹniy), Hindi:हलाल (halāl), Swahili:halali, Korean:할랄 (hallal)  
 **halele** *praise (commend, exalt)* ← heb:(hal'lu yah), English:hallelujah, Mandarin:哈利路亚 (hālìlùyà), Arabic:(hallilūyā), Portuguese:French:alléluia, Russian:аллилуйя (alliluyya), Spanish:aleluya, Swahili:Malay:haleluya, Filipino:aleluya, Japanese:ハレルヤ (hareruya), Korean:할렐루야 (hallelluya)  
-**halou** *hello (hi)* ← English:hello, Mandarin:哈喽 (hālóu), Hindi:हेलो (helo), Bengali:হ্যালো  (hyalo), Malay:halo + French:allô, Spanish:aló, Portuguese:alô, Russian:алло (allo), Arabic: آلُو‎ (ʾālū), Turkish:alo  
+**halo** *hello (hi)* ← English:hello, Mandarin:哈喽 (hālóu), Hindi:हेलो (helo), Bengali:হ্যালো  (hyalo), Malay:halo + French:allô, Spanish:aló, Portuguese:alô, Russian:алло (allo), Arabic: آلُو‎ (ʾālū), Turkish:alo  
 **ham** *important* ← Arabic: هَامّ (hāmm), Hindi:अहम (aham), Urdu: اہم (aham), Swahili:muhimu, Turkish:mühim, Persian:(mohemm)  
 **hamake** *hammock* ← English:hammock, Spanish:hamaca, French:hamac, Russian:гамак (gamak), Turkish:hamak, Japanese:ハンモック (hanmokku)  
 **hamar** *hammer* ← English:hammer, deu:Hammer, Japanese:ハンマー (hanmā), Hausa:hamā̀  
@@ -823,6 +823,7 @@
 **love** *leak* ← Mandarin:漏 (lòu), Cantonese:漏 (lau6), Japanese:漏 (rō), 루 (ru)  
 **luge** *green* ← Mandarin:绿 (lǜ), Cantonese:綠 (luk6), Vietnamese:lục, Korean:록/녹 (rok/nok), Japanese: 緑色 (ryokushoku)  
 **luge** *register (record, log)* ← English:log + Mandarin:录 (lù), Cantonese:錄 (luk6), Japanese:録 (roku), Korean:록 (rok), Vietnamese:lục  
+**lume** *shine* ← Arabic: لَمَعَ‎ (lamaʿa) + Spanish:lumbre, Portuguese:lume, French:lumineux, English:luminous + Russian:люмен (lyumen),Mandarin:流明 (liúmíng),  Japanese:ルーメン (rūmen), Korean:루멘 (rumen), Malay:lumen  
 **lun** *moon* ← French:lune, Spanish:luna, English:lunar, Russian:луна (luná)  
 **lung** *dragon* ← Mandarin:龙 (lóng), Cantonese:龍 (lung4), Vietnamese:rồng, long, Korean:용 (yong), 룡 (ryong), jon:竜 (ryū)  
 **lusun** *asparagus* ← Mandarin:芦笋 (lúsǔn), Cantonese:蘆筍 (lou4 seon2)  
@@ -916,8 +917,7 @@
 **milke** *milk* ← English:milk, deu:Milch, Japanese:ミルク  (miruku), Korean:밀크 (milkeu), Lingala:míliki, Russian:молоко (moloko)  
 **mime** *mimic (imitate)* ← English:French:mime, Portuguese:mímico, Russian:мим (mim)  
 **min** *less* ← Spanish:Portuguese:menos, French:moins, Russian:менее (méneje), English:min- + deu:Minimum  
-**minar** *tower* ← Swahili: mnara, Turkish: minare, + English:minaret  
-**ming** *bright (brilliant, luminous, shining; shine)* ← Mandarin:Wu-Chinese:明 (míng), Cantonese:明 (ming4), Vietnamese:minh, Korean:명 (myeong)  
+**ming** *bright (brilliant)* ← Mandarin:Wu-Chinese:明 (míng), Cantonese:明 (ming4), Vietnamese:minh, Korean:명 (myeong)  
 **minte** *mint* ← English:mint, Spanish:menta, French:menthe, Russian:мята (m’ata), Japanese:ミント (minto)  
 **minute** *minute* ← English:minute, Spanish:Portuguese:minuto, Russian:минута (minuta), Hindi:मिनट (minaṭ), Bengali:মিনিট (miniṭ), Malay:minit  
 **mirde** *faint (depending on context: soft, dull, mild, weak, slow, subtle)* ← English:mild, Polish:mierny, Hindi:मृदु (mridu), Wu-Chinese:微 (mi3), Cantonese:微 (mei4)  
@@ -1055,7 +1055,7 @@
 **palabe** *conflict (argument, dispute, quarrel)* ← English:palaver, krio:plabah, Kongo:palaba  
 **paladium** *palladium* ← English:palladium, French:palladium, Spanish:paladio, Portuguese:paládio, Russian:палладий, Mandarin:钯 (bǎ), Japanese:パラジウム, Korean:팔라듐, Vietnamese:palađi, Hindi:पलाडियम, Bengali:প্যালাডিয়াম, Malay:paladium, Swahili:paladi, Arabic: بلاديوم  
 **palme** *palm tree* ← deu:Palme, English:palm, Portuguese:Spanish:palma, Russian:пальма (palma), Turkish:palmiye, Malay:palem, Thai:ปาล์ม (pām)  
-**pan (pani)** *all* ← English:Spanish:Portuguese:deu:Malay:pan-, Russian:пан- (pan-) + Mandarin:泛 (fàn), Japanese:汎 (han-)  
+**pan** *all* ← English:Spanish:Portuguese:deu:Malay:pan-, Russian:пан- (pan-) + Mandarin:泛 (fàn), Japanese:汎 (han-)  
 **panda** *panda* ← English:Spanish:Portuguese:French:Malay:panda, Russian:панда (panda), Hindi:पांडा (pāṇḍā), Japanese:パンダ (panda)  
 **pang** *bread* ← Thai:ปัง (pang), Korean:빵 (ppang), Khmer:នំប៉័ង (numpang), Japanese:パン (pan), Portuguese:pão, Spanish:pan, French:pain  
 **panike** *panic* ← English:panic, Spanish:pánico, Portuguese:pânico, French:panique, Russian:паника (panika), Persian:پانیک‎ (pânik), Japanese:パニック (panikku)  
@@ -1228,9 +1228,8 @@
 **sagu** *sago palm* ← English:sago, French:sagou, Spanish:sagú, Portuguese:Malay:sagu, Russian:саго (sago), Arabic: سَاغُو‎ (sāḡū), Mandarin:西谷米 (xīgúmǐ), Japanese:サゴ (sago), Hindi:सागू (sāgū)  
 **sahe** *right (correct, accurate)* ← Hindi:सही (sahī), Urdu:(sahī), Persian:(sahih), Arabic:(ṣaḥīḥ), Swahili:sahihi  
 **sake** *bag (sack)* ← deu:English:sack, French:sac, Spanish:Portuguese:saco, Malay:Kongo:saku  
+**sal** *hello (hi)* ← Arabic:Persian: سلام‎ (salâm), Hindi:सलाम (salām), Bengali: সালাম (salam), Malay:selamat, Swahili:salamu, Turkish:selam + English:salute, French:salut, Spanish:salude, Portuguese:saúde + Korean:잘 (jal)  
 **salade** *salad* ← French:salade, Malay:salad, Russian:салат (salat), Hindi:सलाद (salād), Cantonese:沙律 (saa1 leot62), Mandarin:沙拉 (shālā), Portuguese:salada, Spanish:ensalado, Japanese:サラダ (sarada), Korean:샐러드 (saelleodeu), Vietnamese:xà lách  
-**salam** *greet (wish well; greeting; wellfare)* ← Arabic:(salām), Swahili:salamu, Malay:selamat, Hindi:सलाम (salām), Bengali: সালাম (salam), Mandarin:萨拉姆 (sàlāmǔ), Japanese:サラーム (sarāmu), Korean:살람 (sallam), Vietnamese:xa lam, Russian:салям (salyam)  
-**sale** *healthy* ← French:Spanish:Portuguese:salubre + Arabic: سَلَامَة‎ (salāma) + Turkish:sağlık  
 **salmon** *salmon (trout)* ← English:Malay:salmon, Spanish:salmón, Portuguese:salmão, French:saumon, Swahili:samoni, Japanese:サーモン (sāmon)  
 **salte** *salt* ← English:salt, French:sel, Spanish:Portuguese:sal, Russian:соль (solʹ)  
 **salve** *save (rescue, salvage)* ← English:save, salvage, French:sauver, Spanish:Portuguese:salvar  
@@ -1325,7 +1324,7 @@
 **suar** *evening* ← French:soir, English:soiree, Russian:суаре (suare), Turkish:suare + Malay:sore  
 **suba** *morning (dawn)* ← Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba  
 **sube** *underside (underneath)* ← English:French:Spanish:Portuguese:Malay:sub-, Russian:суб- (sub-)  
-**sude** *south* ← English:south, Spanish:sur, Portuguese:sul, French:sud, deu:Süden, Russian:зюйд (zyuyd)  
+**sude** *south* ← deu:Süden, French:sud, Spanish:sur, Portuguese:sul, English:south, Russian:зюйд (zyuyd)  
 **sue** *good (well)* ← scr:Hindi: सु- (su-), Bengali:সু- (śu-) + Latin:English:French:su- + Min-Chinese:媠 (súi)  
 **suede** *sweat (perspiration)* ← English:sweat, Spanish:sudor, Portuguese:suor, French:sueur, Sanskrit:स्वेद (sveda)  
 **suge** *fast (quick, rapid, speedy)* ← Mandarin:速 (sù), Cantonese:速 (cuk4)), Japanese:速 (soku), Korean:속 (sok), Vietnamese:tốc  
@@ -1403,6 +1402,7 @@
 **tomate** *tomato* ← English:tomato, Portuguese:Spanish:tomate, Russian:томат (tomat), Malay:tomat, Hindi:टमाटर (ṭamāṭar)  
 **tone** *tone (note, pitch)* ← English:tone, Swahili:kitone, Russian:тон (ton), deu:Ton, Spanish:tono  
 **tong** *barrel (can, cask)* ← Mandarin:桶 (tǒng), Korean:통 (tong), Vietnamese:thùng, Malay:tong, Khmer:តុង (tong), Thai:ถัง (tǎng), Persian: تنگ‎ (tong) + French:tonneau, Spanish:tonel, ned:ton  
+**tore** *tower* ← English:tower, French:tour, Spanish:Portuguese:torre, Hindi:टावर (ṭāvar) + Japanese:塔 (tō), Mandarin:塔 (tǎ)  
 **torium** *thorium* ← English:thorium, French:thorium, Spanish:torio, Portuguese:tório, Russian:торий, Mandarin:钍 (tǔ), Japanese:トリウム, Korean:토륨, Vietnamese:thori, Hindi:थोरियम, Bengali:থোরিয়াম, Malay:torium, Swahili:thori, Arabic: ثوريوم  
 **torse** *trunk (torso)* ← French:torse, Russian:торс (tors), deu:English:Spanish:Malay:torso  
 **tortuge** *turtle (tortoise)* ← English:tortoise, Spanish:tortuga, Portuguese:tartaruga, French:tortue  
@@ -1431,6 +1431,7 @@
 **turbe** *whirl (dizz; disorientate, trouble, disturb, bother, annoy)* ← English:turbid + Russian:турбина (turbina), Japanese:タービン (tābin), Korean:터빈 (teobin) + eng:disturb, French:perturber, Spanish:Portuguese:perturbar  
 **turfe** *peat* ← English:turf, French:tourbe, Spanish:Turkish:turba, Portuguese:turfa, Russian:торф (torf)  
 **tuze** *rabbit (hare)* ← Mandarin:兔子 (tùzi), Cantonese:兔仔 (tou3zai2), Korean:토끼 (tokki), Vietnamese:thỏ, Thai:เถาะ (tho)  
+**ude** *degree (measurable level)* ← Mandarin: 度 (dù), Wu-Chinese:度 (du3), Japanese:度 (do), Korean:도 (do), Vietnamese:độ + English:French:Portuguese:-itude; -idão, Spanish:-itud  
 **ulule** *howl* ← deu:Heulen, Italian:ululato, Turkish:uluma, Filipino:aulong,   
 **umame** *savory (umami)* ← Japanese:旨味 (umami), Korean:우마미 (umami), English:French:Portuguese:Spanish:Malay:umami, Russian:умами (umami)  
 **un** *one (1)* ← French:un, Spanish:uno, Portuguese:um, una, English:one  

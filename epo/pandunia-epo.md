@@ -280,7 +280,6 @@ ceke - kontroli
 cel - ĉelo  
 celolojia - citologio  
 cene - antaŭe (pasinte)  
-cendeno - hieraū  
 • cenike - malnova  
 cenzam - pasinteco  
 cente - cent  
@@ -672,7 +671,7 @@ Haiti - Haitio
 hake - rajto  
 hal - stato  
 halif - kalifo  
-halou - saluton!  
+halo - saluton!  
 ham - grava  
 hamake - hamako  
 hamar - martelo  
@@ -1142,7 +1141,6 @@ min - malpli
 • minime - malplej  
 • minus - escepte  
 min ka bas - maltro  
-minar - turo  
 minute - minuto  
 mire - speguli  
 • miror - spegulo  
@@ -1311,7 +1309,7 @@ pakse - birdo
 pal - frukto  
 paladium - paladio  
 palme - palmo  
-pan (pani) - ĉiu  
+pan - ĉiu  
 pandemi patia - pandemio  
 pandune - tuttera  
 pandunia - pandunia  
@@ -1403,12 +1401,13 @@ pos - sekvo
 pose - sekvi  
 pose - sekva  
 poso - estonte  
-posdeno - morgaŭ  
 posozam - estonoteco  
+posden - morgaŭ  
 pospor - fosforo  
 postokan - poŝtejo  
 postomarke - poŝtmarko  
 pote - kruĉo  
+preden - hieraū  
 prese - premo  
 • preser - premilo  
 problem - problemo  
@@ -1505,14 +1504,16 @@ safran - safrano
 sage - rakonto  
 sahe - ĝusta (prava)  
 saye - ombro  
+sal - saluton!  
 sale - sana  
+• salude - saneco  
+sal cute - bonan vojaĝon  
+sal den - Bonan tagon  
+sal lai - bonvenon!  
+sal suar - Bonan vesperon  
+sal suba - Bonan matenon!  
+sal yam - bonan apetiton!  
 salam - saluti (saluton)  
-salam cute - bonan vojaĝon  
-salam den - Bonan tagon  
-salam yam - bonan apetiton!  
-salam lai - bonvenon!  
-salam suar - Bonan vesperon  
-salam sube - Bonan matenon!  
 salte - salo  
 salve - savi  
 same - sama  
@@ -1715,6 +1716,7 @@ Togo - Toglando
 tomate - tomato  
 tone - tono  
 tope - regiono  
+tore - turo  
 torium - torio  
 torse - torso  
 trate - treni  

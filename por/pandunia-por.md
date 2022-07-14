@@ -229,7 +229,6 @@ care - quatro (4)
 carme - charme  
 ceke - cheque  
 celolojia - citologia  
-cendeno - ontem  
 • cenike - velho (antigo)  
 cente - cem (100)  
 • pro cente - por cento  
@@ -517,7 +516,7 @@ haiporta - porto marítimo
 haitate - costa  
 hake - direito  
 hal - estado  
-halou - alô  
+halo - alô  
 ham - importante  
 hamile - grávida (prenhe)  
 hande - mão  
@@ -845,6 +844,8 @@ longokrokodil - crocodilo
 lontre - lontra  
 love - vazar  
 luge - verde  
+• lumive - luminoso  
+lumen - lúmen  
 lun - lua  
 lun - mês  
 lunokeke - bolo lunar  
@@ -1193,6 +1194,7 @@ poteria - cerâmica
 • expoze - expor (revelar)  
 • expoze - expor (revelar)  
 prasedium - praseodímio  
+preden - ontem  
 prese - pressão  
 • preser - prensa  
 problem - problema  
@@ -1280,7 +1282,7 @@ sagu - sagu
 sahe - correto (justo)  
 sake - saco  
 sale - saudável (saudio)  
-salia - saúde  
+• salude - saúde  
 salam - saudação  
 salamia - bem-estar  
 salsafia - higiene  
@@ -1386,8 +1388,10 @@ strontium - estrôncio
 stude - estudar (examinar)  
 • studente - estudante (aluno)  
 • studer - estudante  
+suesike - suástica  
 sual - perguntar (pergunta, questão)  
 suar - noitinha  
+sude - sul  
 suede - suor  
 suge - rápido  
 sui - água  
@@ -1451,6 +1455,7 @@ tomate - tomate
 • sintonor - sintonizador  
 topografe - topografia  
 • topografia - topografia  
+• torete - torreta  
 torium - tório  
 toxolojia - toxicologia  
 tragi - trágico  
@@ -1522,6 +1527,7 @@ verse - encarar (afrontar; vérsus)
 • unoverse - universal  
 veruke - verruga  
 vespe - abelha ou vespa  
+veste - oeste  
 veze - pesado  
 vezu - pesar  
 vide - ver  

@@ -218,7 +218,6 @@ care - 四 (4)
 ceke - 支票  
 celolojia - 细胞学  
 cene - 以前  
-cendeno - 昨日  
 • cenike - 古老 (以前)  
 ceng - 层  
 cente - सौ  
@@ -486,7 +485,7 @@ haiporta - 海港
 haitate - 海岸  
 hake - 权利  
 hal - 状态  
-halou - 哈啰 (哈喽)  
+halo - 哈啰 (哈喽)  
 ham - 重要  
 hamile - 怀孕  
 hande - 手  
@@ -737,6 +736,7 @@ lampe - 灯
 lantanium - 镧  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
+latude - 纬度  
 Latvia - 拉脱维亚  
 lave - 老 (老年, 年歲大)  
 laurensium - 铹  
@@ -788,6 +788,7 @@ lontre - 獭
 love - 漏  
 luge - 录  
 luge - 绿色  
+lumen - 流明  
 lunokeke - 月饼  
 lung - 龙  
 lute - 掠夺  
@@ -1076,6 +1077,7 @@ pote - 罐 (瓶)
 poter - 陶瓷工  
 poteria - 陶器制造  
 prasedium - 镨  
+preden - 昨日  
 prese - 压力  
 problem - 问题 (难题)  
 program - 计划  
@@ -1151,8 +1153,9 @@ safar - 旅行
 safaroceke - 旅行支票  
 sagu - 西谷米  
 sahe - 正确  
+sal - 你好  
 sale - 健康  
-salia - 健康  
+• salude - 健康  
 salam - 迎接  
 salamia - 福利 (福祉)  
 salade - 沙拉  
@@ -1307,6 +1310,7 @@ toce - 接触
 tomate - 西红柿  
 topografe - 地形  
 • topografia - 地形  
+tore - 塔 (塔楼)  
 torium - 钍  
 toxolojia - 毒物学  
 tragodia - 悲剧  
@@ -1330,6 +1334,7 @@ tuze - 兔子
 
 ## U  
 
+ude - 度  
 umame - 鲜味  
 un - 一 (1)  
 • unike - 唯一 (独)  
@@ -1352,7 +1357,6 @@ vate - 物体 (物品)
 vaxurse - 浣熊  
 vei - 尾巴 (尾部)  
 veilin - 緯紗  
-veisirke - 纬度  
 vende - 卖  
 vendoxope - 贸易  
 ventur - 冒险  
@@ -1366,6 +1370,7 @@ verme - 蠕虫
 • introverse - 内向的  
 veruke - 疣  
 vespe - 蜂  
+veste - 西  
 veze - 重型的  
 vide - 看  
 • dusvide - 难看  

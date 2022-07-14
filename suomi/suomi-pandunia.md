@@ -182,6 +182,7 @@ aspiriini - aspirin
 Assur - Asur  
 Assyria - Asuria  
 astatiini - astatium  
+aste (mitattava taso) - ude  
 asti (saakka) - hate  
 astia (kulho) - tas  
 astma - asma  
@@ -353,7 +354,7 @@ ei - no
 ei koskaan (ei kertaakaan) - no sate  
 ei kukaan - no jen  
 ei mitään - no xe  
-eilen - cendeno  
+eilen - preden  
 einsteinium - ainstainium  
 ekologia (ympäristötiede) - ekolojia  
 eksa- - exa  
@@ -605,7 +606,7 @@ Havaiji - Havai
 Havaijin saaret - Havai nesia  
 he - yamen  
 hedelmä - pal  
-hei (haloo) - halou  
+hei (haloo) - halo  
 hei - hei  
 heidän - yamen su  
 heijastaa (peilata) - mire  
@@ -709,8 +710,8 @@ huokoinen - porosi
 huokonen - pore  
 huomauttaa - notife  
 huomautus - notize  
-Huomenta! - salam sube  
-huominen - posdeno  
+huomenta - sal suba  
+huominen - posden  
 huomio (kommentti, merkintä; huomata, hoksata)) - note  
 huone - kamar  
 hurma (lumo, tenho) - fasin  
@@ -741,9 +742,10 @@ hyväksyä - okeye
 hyvännäköinen (kaunis, komea) - bonvide  
 hyvännäköinen - surupe  
 hyväntekeväisyys (almujen anto) - sudone  
-Hyvää iltaa - salam suar  
-hyvää matkaa - salam cute  
-hyvää ruokahalua! - salam yam  
+hyvää iltaa - sal suar  
+hyvää matkaa - sal cute  
+hyvää ruokahalua! - sal yam  
+hyvää yötä - sal noce  
 hyytelö (geeli) - gele  
 hyöky (vyöry) - dairive  
 hyönteinen (ötökkä) - koncung  
@@ -913,7 +915,7 @@ johtaa (ohjata) - lide
 johtaja (pomo) - lider  
 joka (jokainen) - panun  
 joka (mikä) - jo  
-jokainen asia - pan sei  
+jokainen asia - pan xe  
 jokainen ihminen - pan jen  
 joki (virta) - riu  
 jokin - yo xei  
@@ -1002,7 +1004,7 @@ kahvikuppi - kafe kupe
 kahvila - kafe kan  
 kahvipannu - kafe pote  
 kaide (reelinki) - langan  
-kaikki - pan (pani)  
+kaikki - pan  
 kaiku - mirsonde  
 kaipuu (ikävä, nostalgia) - nostalgia  
 kaivaa - kave  
@@ -1262,6 +1264,7 @@ koivu - berze
 kokata (laittaa ruokaa) - kuke  
 kokki - kuker  
 koko (kokonainen) - hole  
+koko - dayude  
 kokoelma - jamaje  
 kokonaisuus - holia  
 kokonaisvaltainen (holistinen) - holike  
@@ -1574,7 +1577,7 @@ lepo - reste
 lepää rauhassa (RIP) - reste in pace (RIP)  
 leski - vidou  
 Lesoto - Soto  
-leveyspiiri - veisirke  
+leveyspiiri - latude  
 leveä - kuane  
 levottomuus (konflikti) - depace  
 levä - alga  
@@ -1639,6 +1642,8 @@ logofiili - logofiliste
 logəfiliə - logofilia  
 lohkare (järkäle) - dayite  
 loimi - gingolin  
+loistaa (loiste) - lume  
+loistava - lumive  
 lokakuu - lun des  
 lokasuoja - fangodefoban  
 lokikirja - lugobuke  
@@ -1677,6 +1682,7 @@ luterilainen - martinluteriste
 luterilaisuus - martinluterisme  
 lutetium - lutetium  
 luu - oste  
+luumen - lumen  
 luumu - plum  
 luvata (vannoa; lupaus, vala) - vode  
 Luxemburg - Luxemburge  
@@ -2556,7 +2562,7 @@ päivämäärä (vuosi, kuu ja päivä) - nen lun den
 päivänseisaus - solestas  
 päiväntasaaja - geoparlin  
 Päiväntasaajan Guinea - Geoparlini Ginia  
-päivää! - salam den  
+päivää! - sal den  
 pää - sar  
 pää- - xefe di  
 pääkallo - saroste  
@@ -3034,10 +3040,11 @@ suunnitella - plane
 suunnitelma - plan  
 suunnitelmakieli - planolingue  
 suurkaupunki - daisite  
-suuruus (koko) - dayia  
+suuruus - dayia  
 suutari - sapater  
 suutarin paja - sapatokan  
 Svalbard - Svalbarde  
+svastika - suesike  
 Sveitsi - Suisia  
 Swazimaa - Suati  
 syaani - siane  
@@ -3223,10 +3230,12 @@ tera- - tera
 terbium - terbium  
 terrorismi - terurisme  
 terroristi - teruriste  
+terve (hei) - sal  
 terve - sale  
 tervehtiä (tervehdys; terve!) - salam  
-tervetuloa! - salam lai  
-terveys - salia  
+tervetuloa! - sal lai  
+terveys (hyvinvointi) - sales  
+terveys (kunto) - salude  
 terävä (kimeä, nokkela, napakka, jne) - tiz:  
 tesla (T) - tesle  
 Tethys - Tetis  
@@ -3293,7 +3302,7 @@ topografia - topografe
 topografia - topografia  
 tori (basaari) - bazar  
 torium - torium  
-torni - minar  
+torni - tore  
 torstai - den nelu  
 torvi (torvisoitin) - buge  
 tosi (aito) - vere  

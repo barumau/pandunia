@@ -56,7 +56,7 @@ adelante - pro
 además - a max  
 adhesivo - glutograf  
 adicional (extra) - maxaje  
-adiós - salam cute  
+adiós - sal cute  
 adjetivo - sifolexe  
 administrador - politer  
 admirar - amire  
@@ -147,7 +147,7 @@ alto - gave
 altura (altitud) - gavia  
 alumbre - aluminmate  
 aluminio - aluminium  
-aló - halou  
+aló - halo  
 alófono - alofon  
 alúmina - aluminoxide  
 amado (cariño) - amike  
@@ -317,7 +317,7 @@ aviso (notificación) - notize
 avispero (colmena) - vesponide  
 axproximarse - karibu  
 ay! - ai  
-ayer - cendeno  
+ayer - preden  
 ayudar (asistar; ayuda, asistencia) - mede  
 azada - cope  
 azafrán - safran  
@@ -408,7 +408,7 @@ bicicleta - pedalsikle
 bicicleta - sikle  
 bien (aceptable) - okeye  
 bienestar - salamia  
-bienvenido - salam lai  
+bienvenido - sal lai  
 bilingüe - duolinguike  
 billete de ida y vuelta - retrotikete  
 bilogía - duologia  
@@ -459,12 +459,12 @@ brújula - pontopin
 Buda - Buda  
 budismo - budisme  
 budista - budiste  
-buen provecho - salam yam  
+buen provecho - sal yam  
 buena suerte - boni zar  
-buenas noches - salam suar  
-buenas tardes - salam den  
+buenas noches - sal suar  
+buenas tardes - sal den  
 bueno - bon  
-buenos días - salam sube  
+buenos días - sal suba  
 bufanda (chal) - xal  
 bufé - bufete  
 bufón - bufon  
@@ -1955,7 +1955,7 @@ largo - longe
 larva - larve  
 lasaña - lazanya  
 lateral (horizontal) - late  
-latitud - veisirke  
+latitud - latude  
 laurencio - laurensium  
 lava - fuzopetre  
 lavadora - vaxomaxin  
@@ -2046,7 +2046,7 @@ lobo - volfe
 local - lokike  
 lodo (barro, fango) - fange  
 logical - ratolojike  
-longitud - vestodongia  
+longitud - longude  
 loro (papagayo) - papagai  
 lote (grupo) - lote  
 lucha - jihade  
@@ -2055,6 +2055,8 @@ lugar (colocar, poner) - loke
 lugar de nacimiento - genoloke  
 lujuria (deseo) - kamia  
 lujuria - luxuria  
+lumbroso (luminoso) - lumive  
+lumen - lumen  
 luna - lun  
 lunes - den un  
 lutecio - lutetium  
@@ -2181,7 +2183,7 @@ Mayotte (Mahoré) - Mayote
 mazmorra - geonici prizon  
 maíz - mais  
 mañana (antes mediodía) - suboden  
-mañana - posdeno  
+mañana - posden  
 mañana - suba  
 mear - pise  
 medallón - medal  
@@ -3151,7 +3153,7 @@ salmón rosado - rozosalmon
 salsa - saus  
 salsa de soja - soisaus  
 saltar (brincar) - jampe  
-salud - salia  
+salud - salude  
 saludable - sale  
 saludar (saludo) - salam  
 salvador - salver  
@@ -3170,6 +3172,7 @@ sandía (patilla) - arbuze
 sangrar - lova sang  
 sangre - heme  
 sangre - heme  
+sanidad - sales  
 Santa Lucía - Sante Lucia  
 Santa Sede (Estado de la Ciudad del Vaticano) - Vatikan  
 Santo Tomé y Príncipe - Sante Tome e Principe  
@@ -3340,6 +3343,7 @@ sustancia (materia) - mate
 sustancia - kime  
 sustantivo - namloge  
 susurrar (curjir) - xaxa  
+suástica - suesike  
 Svalbard - Svalbarde  
 sábado - den luka  
 sándwich (sánduche) - sanduice  
@@ -3365,7 +3369,7 @@ taladrar (perforar) - fore
 Taliban - Talban  
 talio - talium  
 tallo - tan  
-tamaño - dayia  
+tamaño - dayude  
 tambor - gum  
 tamil - Tamil  
 Tanaj (Biblia hebrea) - tanah  
@@ -3461,10 +3465,10 @@ toalla - gantexe
 tocar (rozar) - toce  
 tocar (tacto) - tate  
 tocar música - muzike  
-todas las cosas - pan sei  
+todas las cosas - pan xe  
 todas las personas - pan jen  
 todavía (aún) - duro  
-todo - pan (pani)  
+todo - pan  
 Togo - Togo  
 tolerar - tolere  
 tomate - tomate  
@@ -3479,7 +3483,7 @@ torio - torium
 tormenta (tempestad) - tafun  
 tormenta - gromtafun  
 tornillo - vite  
-torre - minar  
+torre - tore  
 torre del reloj - horlogerminar  
 torso - torse  
 tortuga - tortuge  

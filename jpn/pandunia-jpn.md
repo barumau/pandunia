@@ -186,7 +186,6 @@ cau - 草
 caustan - 草地  
 ceke - 小切手 (チェック)  
 cene - 以前 (前に)  
-cendeno - 昨日  
 cenyange - 古典的  
 • cenike - 古い  
 cenvide - 待ち受ける (見込む)  
@@ -722,6 +721,7 @@ LAN (loke aria nete) - LAN
 lantanium - ランタン  
 lasun - 大蒜  
 late - 側 (脇)  
+latude - 緯度  
 Latvia - ラトビア  
 lave - 年配  
 laurensium - ローレンシウム  
@@ -772,6 +772,7 @@ love - 漏る
 luge - 録  
 luge - 緑 (緑色)  
 lugomelon - ハネデューメロン  
+lumen - ルーメン  
 lun - 月間  
 lun un - １月  
 lun du - ２月  
@@ -983,7 +984,7 @@ pacehaikade - マダラ
 padomun - 落とし戸  
 payace - ピエロ (道化師)  
 paladium - パラジウム  
-pan (pani) - 全ての  
+pan - 全ての  
 pandemi patia - パンデミック  
 pandunia - パンドゥニア  
 panmime - パントマイム   
@@ -1063,12 +1064,13 @@ pore - 線
 porei - リーキ  
 • reporter - 記者  
 pos - 後 (後ろ)  
-posdeno - 明日  
+posden - 明日  
 pospor - リン  
 poter - 陶工  
 poteria - 陶芸  
 poze - 植える  
 prasedium - プラセオジム  
+preden - 昨日  
 prese - 圧力  
 • preser - 圧搾機  
 problem - 問題  
@@ -1152,7 +1154,7 @@ sagu - サゴ
 sagu fun - サゴ澱粉  
 sahe - 正しい  
 sale - 元気 (丈夫)  
-salia - 健康  
+• salude - 健康  
 salam - 挨拶  
 salamia - 福利 (福祉)  
 salade - サラダ  
@@ -1318,6 +1320,7 @@ Tokyo - 東京
 • zivotome - 生体解剖  
 topografe - 地勢  
 • topografia - 地勢  
+tore - 塔  
 torium - トリウム  
 toxe - 毒  
 tragodia - 悲劇  
@@ -1342,6 +1345,7 @@ tuze - うさぎ
 
 ## U  
 
+ude - 度  
 umame - 旨味  
 un - 一 (1)  
 • unike - 唯一の  
@@ -1367,7 +1371,6 @@ vate - 物 (品)
 vaxurse - 狸 (ラクーン, 洗い熊)  
 vei - 尾 (尾翼)  
 veilin - 横糸  
-veisirke - 緯度  
 vende - 売る  
 vendoxope - 売買する (交易, 売買)  
 venzovorange - ウンシュウミカン  
@@ -1380,6 +1383,7 @@ verme - 蠕虫
 veruke - 疣  
 vespe - 蜂  
 vesponide - 蜂の巣  
+veste - 西  
 vestogoril - ニシゴリラ  
 vidopunte - 遠近法 (見通し, 観点)  
 • vider - 見物人  

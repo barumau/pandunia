@@ -56,7 +56,7 @@ almofada (coxim) - kusen
 alpinista (montanhista) - montaner  
 altar - pujomeza  
 alumínio - aluminium  
-alô - halou  
+alô - halo  
 amador - amater  
 amante - amer  
 amargo - alkaloguste  
@@ -844,6 +844,7 @@ lontra - lontre
 lua - lun  
 lugar (local; colocar, pôr) - loke  
 lula (calamar) - kalmar  
+luminoso - lumive  
 luta - jihade  
 luteranismo - martinluterisme  
 luterano - martinluteriste  
@@ -863,6 +864,7 @@ lírio - susan
 lírio-do-vale - vadosusan  
 lítio - litium  
 lógica - ratolojia  
+lúmen - lumen  
 
 ## M  
 
@@ -1047,13 +1049,14 @@ ocular - oke
 ocultar (esconder) - sire  
 ocupado (atarefado) - mange  
 ode - ode  
+oeste - veste  
 oito (8) - bate  
 oleiro - poter  
 olho - oke  
 onda - onde  
 onde - a ke  
 online - a line  
-ontem - cendeno  
+ontem - preden  
 opinião - rai  
 opor - xate  
 optar - ote  
@@ -1371,7 +1374,7 @@ Satanás - xatan (ruhoxatan)
 Saturno - Saturne  
 saudação - salam  
 saudável (saudio) - sale  
-saúde - salia  
+saúde - salude  
 se - gar  
 se - se  
 seabórgio - siborgium  
@@ -1428,9 +1431,11 @@ sonolento - somive
 sorvete (gelado) - aiskrem  
 substância - kime  
 suco (sumo) - jus  
+sul - sude  
 suor - suede  
 superestimar (sobrestimar) - maxorai  
 suástica (cruz gamada) - hukokrus  
+suástica - suesike  
 sábado - den luka  
 São Paulo - Sante Paulo  
 série (sequência) - sere  
@@ -1486,6 +1491,7 @@ topografia - topografe
 topografia - topografia  
 tora - mokotan  
 toranja - putavorange  
+torreta - torete  
 torta - pai  
 toupeira - krote  
 toxicologia - toxolojia  

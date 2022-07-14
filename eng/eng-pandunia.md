@@ -93,7 +93,7 @@ alga - alga
 algebra - gebria  
 Algeria - Zayeria  
 align (go along) - parlinu  
-all - pan (pani)  
+all - pan  
 allative case - alative  
 alligator - kortokrokodil  
 allophone - alofon  
@@ -411,7 +411,7 @@ Bhutan - Drugia
 Bible - biblia  
 Biblical - bible  
 bicycle (pedal bike) - pedalsikle  
-big (great, large; get bigger, grow in size) - dai  
+big (great, large) - dai  
 big city - daisite  
 bike (cycle) - sikle  
 bilingual - duolinguike  
@@ -464,7 +464,7 @@ bold letter - grosi harfe
 Bolivia - Bolivia  
 bolt - bolte  
 bomb - bombe  
-bon appetit! - salam yam  
+bon appetit! - sal yam  
 bone - oste  
 bonus - maxbone  
 book - buke  
@@ -504,7 +504,7 @@ breath - nafas
 breed - genite  
 brick - binite  
 bridge - pul  
-bright (brilliant, luminous, shining; shine) - ming  
+bright (brilliant) - ming  
 bring - laiane  
 bring up (educate, raise) - pede  
 broken (shattered) - parce  
@@ -1046,6 +1046,7 @@ defender - defer
 deflect (bend away) - deflexe  
 deform - deforme  
 defunct (out of use) - defunse  
+degree (measurable level) - ude  
 degree Celsius - celsius darge  
 Deimos - Deimos  
 delicious (yummy) - yami  
@@ -1324,7 +1325,7 @@ evening - suar
 event (case, instance) - kas  
 every (each) - panun  
 everybody (everyone) - pan jen  
-everything - pan sei  
+everything - pan xe  
 evident (apparent, obvious) - exvide  
 evoke (call out) - exvoke  
 exa- - exa  
@@ -1396,7 +1397,7 @@ fan (ventilator) - fentopanke
 fan (ventilator) - sanze  
 fanatic (enthusiast(ic)) - fanatike  
 far (distant) - tele  
-farewell - salam cute  
+farewell - sal cute  
 farmer - agrer  
 farmhouse (villa) - vile  
 fart (flatulence) - perde  
@@ -1654,10 +1655,11 @@ gone (away) - kite
 goniometer - gonmetrer  
 good (well) - sue  
 good - bon  
-Good day - salam den  
-Good evening - salam suar  
+good day - sal den  
+good evening - sal suar  
 good luck - boni zar  
-Good morning - salam sube  
+good morning - sal suba  
+good night - sal noce  
 good-haired - sukexe  
 good-looking (handsome) - surupe  
 goose - ganse  
@@ -1685,6 +1687,7 @@ gratitude (thankfulness) - xukria
 grave (tomb; bury) - gabre  
 gravel - grave  
 graveyard (cemetery, burial ground) - gabrostan  
+greatness (largeness) - dayia  
 Greece - Helenia  
 greedy - tame  
 Greek (Hellenic) - helene  
@@ -1769,7 +1772,8 @@ head - sar
 headache - sartunge  
 headmaster (principal) - xuloxefe  
 heal (cure, remedy) - medike  
-health - salia  
+health (condition, level of health) - salude  
+health (state of wellbeing) - sales  
 healthy - sale  
 heap (hillock, accumulation; heap up, accumulate) - kumule  
 hear (listen) - aude  
@@ -1781,7 +1785,8 @@ height (altitude) - gavia
 helicopter - helisviman  
 helium - helium  
 hell - narake  
-hello (hi) - halou  
+hello (hi) - halo  
+hello (hi) - sal  
 helmet - sarkaske  
 help (aid, assist) - mede  
 Helsinki - Helsinki  
@@ -2149,7 +2154,7 @@ last (take time; elapse, pass by, go by; during; duration, time interval) - dur
 later (after, will, in the future) - poso  
 lateral (horizontal) - late  
 Latin alphabet - latini harfia  
-latitude - veisirke  
+latitude - latude  
 Latvia - Latvia  
 lauan tree (meranti, balau) - merante  
 laugh - hahe  
@@ -2261,7 +2266,7 @@ long (lengthy) - longe
 long (long-lasting, prolonged) - longodure  
 long (over a gread distance) - a long  
 long pepper (pipli) - longopipre  
-longitude - vestodongia  
+longitude - longude  
 longitudinal (vertical) - ginge  
 look (see; view, vision) - vide  
 loom - texomaxin  
@@ -2281,6 +2286,8 @@ lower (put down) - tale
 loyal (faithful, trustworthy) - bekredable  
 loyalty (faithfulness) - bekredablia  
 luggage (baggage) - bagaje  
+lumen - lumen  
+luminous (shining) - lumive  
 lump (nodule) - nodule  
 lunch - yomyam  
 lung - pulmon  
@@ -3591,6 +3598,7 @@ sheep - meh
 shelf (bookshelf) - liboban  
 shell (crust, carapace) - kaske  
 shield - defoban  
+shine - lume  
 Shintoism - xindavisme  
 shirt - kamis  
 shish kebab - xixkababe  
@@ -3644,7 +3652,7 @@ situation (circumstances, state of affairs) - xeihal
 situational irony - xeihalironia  
 six (6) - six  
 sixth - sixime  
-size - dayia  
+size - dayude  
 sizzle - zize  
 skeleton (frame) - ostogamia  
 skewer - xix  
@@ -3854,6 +3862,7 @@ Svalbard - Svalbarde
 Swahili - suahili  
 swallow - gule  
 swastika (hooked cross) - hukokrus  
+swastika - suesike  
 sweat (perspiration) - suede  
 sweaty - suedos  
 Sweden - Suenia  
@@ -4029,7 +4038,7 @@ tomato - tomate
 tombstone (gravestone) - gabrite  
 tomogram - tomografe  
 tomography - tomografia  
-tomorrow - posdeno  
+tomorrow - posden  
 tone (note, pitch) - tone  
 Tonga - Tonga  
 tongue - lisan  
@@ -4052,7 +4061,7 @@ touch - toce
 tourism - safarisme  
 tourist - safariste  
 towel - gantexe  
-tower - minar  
+tower - tore  
 town - nagre  
 toxicology - toxolojia  
 toxin - biotoxe  
@@ -4125,6 +4134,7 @@ Turkish - turke
 Turkmenistan - Turkomenia  
 turn toward (direct, flip; versus) - verse  
 turquoise gem - firuze  
+turret - torete  
 turtle (tortoise) - tortuge  
 Tuvalu - Tuvalu  
 twice - du mar  
@@ -4314,7 +4324,7 @@ weep (cry) - vava
 weft - veilin  
 weigh (have weight) - vezu  
 weight (heft, gravity) - vezia  
-welcome! - salam lai  
+welcome! - sal lai  
 well-being (prosperity) - salamia  
 Welsh - kamre  
 Wenzhou - Venzou  
@@ -4402,7 +4412,7 @@ yellow - limonrange
 yellow starthistle - solocentaur  
 Yemen - Yemen  
 yes - ye  
-yesterday - cendeno  
+yesterday - preden  
 yoga - yoge  
 yogi - yogiste  
 yogurt - yogur  

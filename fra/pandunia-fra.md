@@ -332,7 +332,6 @@ carme - charme
 ceke - chèque  
 celolojia - cytologie  
 cene - avant  
-cendeno - hier  
 • cenike - vieux (ancien)  
 cente - cent (100)  
 • pro cente - pour cent  
@@ -665,7 +664,7 @@ haitate - côte
 Haiti - Haïti  
 hake - droit  
 hal - état  
-halou - allô  
+halo - allô  
 ham - important  
 hande - main  
 handange - bras  
@@ -1011,6 +1010,8 @@ longokrokodil - crocodile
 longopipre - poivre long  
 lontre - loutre  
 luge - vert  
+• lumive - lumineux  
+lumen - lumen  
 lun - lune  
 lun - mois  
 lun bati - août  
@@ -1373,8 +1374,8 @@ portorike - Portoricain
 Portoriko - Porto Rico  
 pose - suivre  
 poso - ensuite (après, plus tard, ir a, en el futuro)  
-posdeno - demain  
 postre - postérieur  
+posden - demain  
 pospor - phosphore  
 postomarke - cachet de la poste  
 pote - pot (vase, jarre, carafe, cruche)  
@@ -1384,6 +1385,7 @@ poze - planter
 • expoze - exposer  
 • expoze - exposer  
 prasedium - praséodyme  
+preden - hier  
 prese - pression  
 • preser - pressoir  
 pro - en avant  
@@ -1491,7 +1493,8 @@ sagu - sagoutier
 sahe - correct (juste)  
 sake - sac  
 sale - sain  
-salia - santé  
+• sales - santé  
+• salude - santé  
 salam - salut (salam)  
 salamia - bien-être  
 salsafia - hygiène  
@@ -1603,10 +1606,12 @@ stude - étudier (étude)
 • studaje - étude  
 • studente - étudiant  
 • studer - étudiant  
+suesike - svastika  
 sual - demander (question)  
 suanpursipi hiyar - concombre confit (cornichon)  
 suar - soir (soirée)  
 sube - dessous  
+sude - sud  
 suede - sueur  
 suge - vite (rapide)  
 sui - eau  
@@ -1690,6 +1695,8 @@ tomate - tomate
 • sintonor - syntoniseur  
 topografe - topographie  
 • topografia - topographie  
+tore - tour  
+• torete - tourelle  
 torium - thorium  
 toxolojia - toxicologie  
 tragi - tragique  
@@ -1771,6 +1778,7 @@ verse - verser (face á)
 veruke - verrue  
 vespe - abeille ou guêpe  
 vesponide - ruche (nid d'abeille)  
+veste - ouest  
 veze - lourd  
 vezia - poids (lourdeur, gravité)  
 vezu - peser  

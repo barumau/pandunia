@@ -490,7 +490,7 @@
 **hal** *stato* ← araba:(ḥāla), hindia:हालत (hālat), svahila:hali, turka:hâl  
 **halale** ** ← araba:(ḥalāl), persa:urdua:(halāl), angla:hispana:franca:portugala:malaja:halal, turka:helal, rusa:халяльный (xaljalʹniy), hindia:हलाल (halāl), svahila:halali, korea:할랄 (hallal)  
 **halele** ** ← heb:(hal'lu yah), angla:hallelujah, mandarena:哈利路亚 (hālìlùyà), araba:(hallilūyā), portugala:franca:alléluia, rusa:аллилуйя (alliluyya), hispana:aleluya, svahila:malaja:haleluya, filipina:aleluya, japana:ハレルヤ (hareruya), korea:할렐루야 (hallelluya)  
-**halou** *saluton!* ← angla:hello, mandarena:哈喽 (hālóu), hindia:हेलो (helo), bengala:হ্যালো  (hyalo), malaja:halo + franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), araba: آلُو‎ (ʾālū), turka:alo  
+**halo** *saluton!* ← angla:hello, mandarena:哈喽 (hālóu), hindia:हेलो (helo), bengala:হ্যালো  (hyalo), malaja:halo + franca:allô, hispana:aló, portugala:alô, rusa:алло (allo), araba: آلُو‎ (ʾālū), turka:alo  
 **ham** *grava* ← araba: هَامّ (hāmm), hindia:अहम (aham), urdua: اہم (aham), svahila:muhimu, turka:mühim, persa:(mohemm)  
 **hamake** *hamako* ← angla:hammock, hispana:hamaca, franca:hamac, rusa:гамак (gamak), turka:hamak, japana:ハンモック (hanmokku)  
 **hamar** *martelo* ← angla:hammer, deu:Hammer, japana:ハンマー (hanmā), haŭsa:hamā̀  
@@ -823,6 +823,7 @@
 **love** *liki* ← mandarena:漏 (lòu), kantona:漏 (lau6), japana:漏 (rō), 루 (ru)  
 **luge** *registri* ← angla:log + mandarena:录 (lù), kantona:錄 (luk6), japana:録 (roku), korea:록 (rok), vjetnama:lục  
 **luge** *verda* ← mandarena:绿 (lǜ), kantona:綠 (luk6), vjetnama:lục, korea:록/녹 (rok/nok), japana: 緑色 (ryokushoku)  
+**lume** ** ← araba: لَمَعَ‎ (lamaʿa) + hispana:lumbre, portugala:lume, franca:lumineux, angla:luminous + rusa:люмен (lyumen),mandarena:流明 (liúmíng),  japana:ルーメン (rūmen), korea:루멘 (rumen), malaja:lumen  
 **lun** *luno* ← franca:lune, hispana:luna, angla:lunar, rusa:луна (luná)  
 **lung** ** ← mandarena:龙 (lóng), kantona:龍 (lung4), vjetnama:rồng, long, korea:용 (yong), 룡 (ryong), jon:竜 (ryū)  
 **lusun** ** ← mandarena:芦笋 (lúsǔn), kantona:蘆筍 (lou4 seon2)  
@@ -916,7 +917,6 @@
 **milke** *lakto* ← angla:milk, deu:Milch, japana:ミルク  (miruku), korea:밀크 (milkeu), lingala:míliki, rusa:молоко (moloko)  
 **mime** ** ← angla:franca:mime, portugala:mímico, rusa:мим (mim)  
 **min** *malpli* ← hispana:portugala:menos, franca:moins, rusa:менее (méneje), angla:min- + deu:Minimum  
-**minar** *turo* ← svahila: mnara, turka: minare, + angla:minaret  
 **ming** ** ← mandarena:vua:明 (míng), kantona:明 (ming4), vjetnama:minh, korea:명 (myeong)  
 **minte** ** ← angla:mint, hispana:menta, franca:menthe, rusa:мята (m’ata), japana:ミント (minto)  
 **minute** *minuto* ← angla:minute, hispana:portugala:minuto, rusa:минута (minuta), hindia:मिनट (minaṭ), bengala:মিনিট (miniṭ), malaja:minit  
@@ -1055,7 +1055,7 @@
 **palabe** ** ← angla:palaver, krio:plabah, konga:palaba  
 **paladium** *paladio* ← angla:palladium, franca:palladium, hispana:paladio, portugala:paládio, rusa:палладий, mandarena:钯 (bǎ), japana:パラジウム, korea:팔라듐, vjetnama:palađi, hindia:पलाडियम, bengala:প্যালাডিয়াম, malaja:paladium, svahila:paladi, araba: بلاديوم  
 **palme** *palmo* ← deu:Palme, angla:palm, portugala:hispana:palma, rusa:пальма (palma), turka:palmiye, malaja:palem, taja:ปาล์ม (pām)  
-**pan (pani)** *ĉiu* ← angla:hispana:portugala:deu:malaja:pan-, rusa:пан- (pan-) + mandarena:泛 (fàn), japana:汎 (han-)  
+**pan** *ĉiu* ← angla:hispana:portugala:deu:malaja:pan-, rusa:пан- (pan-) + mandarena:泛 (fàn), japana:汎 (han-)  
 **panda** *pando* ← angla:hispana:portugala:franca:malaja:panda, rusa:панда (panda), hindia:पांडा (pāṇḍā), japana:パンダ (panda)  
 **pang** *pano* ← taja:ปัง (pang), korea:빵 (ppang), kmera:នំប៉័ង (numpang), japana:パン (pan), portugala:pão, hispana:pan, franca:pain  
 **panike** *paniko* ← angla:panic, hispana:pánico, portugala:pânico, franca:panique, rusa:паника (panika), persa:پانیک‎ (pânik), japana:パニック (panikku)  
@@ -1228,9 +1228,8 @@
 **sagu** ** ← angla:sago, franca:sagou, hispana:sagú, portugala:malaja:sagu, rusa:саго (sago), araba: سَاغُو‎ (sāḡū), mandarena:西谷米 (xīgúmǐ), japana:サゴ (sago), hindia:सागू (sāgū)  
 **sahe** *ĝusta (prava)* ← hindia:सही (sahī), urdua:(sahī), persa:(sahih), araba:(ṣaḥīḥ), svahila:sahihi  
 **sake** ** ← deu:angla:sack, franca:sac, hispana:portugala:saco, malaja:konga:saku  
+**sal** *saluton!* ← araba:persa: سلام‎ (salâm), hindia:सलाम (salām), bengala: সালাম (salam), malaja:selamat, svahila:salamu, turka:selam + angla:salute, franca:salut, hispana:salude, portugala:saúde + korea:잘 (jal)  
 **salade** ** ← franca:salade, malaja:salad, rusa:салат (salat), hindia:सलाद (salād), kantona:沙律 (saa1 leot62), mandarena:沙拉 (shālā), portugala:salada, hispana:ensalado, japana:サラダ (sarada), korea:샐러드 (saelleodeu), vjetnama:xà lách  
-**salam** *saluti (saluton)* ← araba:(salām), svahila:salamu, malaja:selamat, hindia:सलाम (salām), bengala: সালাম (salam), mandarena:萨拉姆 (sàlāmǔ), japana:サラーム (sarāmu), korea:살람 (sallam), vjetnama:xa lam, rusa:салям (salyam)  
-**sale** *sana* ← franca:hispana:portugala:salubre + araba: سَلَامَة‎ (salāma) + turka:sağlık  
 **salmon** ** ← angla:malaja:salmon, hispana:salmón, portugala:salmão, franca:saumon, svahila:samoni, japana:サーモン (sāmon)  
 **salte** *salo* ← angla:salt, franca:sel, hispana:portugala:sal, rusa:соль (solʹ)  
 **salve** *savi* ← angla:save, salvage, franca:sauver, hispana:portugala:salvar  
@@ -1325,7 +1324,7 @@
 **suar** *vespero* ← franca:soir, angla:soiree, rusa:суаре (suare), turka:suare + malaja:sore  
 **suba** *mateno* ← araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba  
 **sube** ** ← angla:franca:hispana:portugala:malaja:sub-, rusa:суб- (sub-)  
-**sude** *sudo* ← angla:south, hispana:sur, portugala:sul, franca:sud, deu:Süden, rusa:зюйд (zyuyd)  
+**sude** *sudo* ← deu:Süden, franca:sud, hispana:sur, portugala:sul, angla:south, rusa:зюйд (zyuyd)  
 **sue** ** ← scr:hindia: सु- (su-), bengala:সু- (śu-) + latina:angla:franca:su- + mina:媠 (súi)  
 **suede** ** ← angla:sweat, hispana:sudor, portugala:suor, franca:sueur, sanskrita:स्वेद (sveda)  
 **suge** *rapida* ← mandarena:速 (sù), kantona:速 (cuk4)), japana:速 (soku), korea:속 (sok), vjetnama:tốc  
@@ -1403,6 +1402,7 @@
 **tomate** *tomato* ← angla:tomato, portugala:hispana:tomate, rusa:томат (tomat), malaja:tomat, hindia:टमाटर (ṭamāṭar)  
 **tone** *tono* ← angla:tone, svahila:kitone, rusa:тон (ton), deu:Ton, hispana:tono  
 **tong** ** ← mandarena:桶 (tǒng), korea:통 (tong), vjetnama:thùng, malaja:tong, kmera:តុង (tong), taja:ถัง (tǎng), persa: تنگ‎ (tong) + franca:tonneau, hispana:tonel, ned:ton  
+**tore** *turo* ← angla:tower, franca:tour, hispana:portugala:torre, hindia:टावर (ṭāvar) + japana:塔 (tō), mandarena:塔 (tǎ)  
 **torium** *torio* ← angla:thorium, franca:thorium, hispana:torio, portugala:tório, rusa:торий, mandarena:钍 (tǔ), japana:トリウム, korea:토륨, vjetnama:thori, hindia:थोरियम, bengala:থোরিয়াম, malaja:torium, svahila:thori, araba: ثوريوم  
 **torse** *torso* ← franca:torse, rusa:торс (tors), deu:angla:hispana:malaja:torso  
 **tortuge** ** ← angla:tortoise, hispana:tortuga, portugala:tartaruga, franca:tortue  
@@ -1431,6 +1431,7 @@
 **turbe** ** ← angla:turbid + rusa:турбина (turbina), japana:タービン (tābin), korea:터빈 (teobin) + eng:disturb, franca:perturber, hispana:portugala:perturbar  
 **turfe** *torfo* ← angla:turf, franca:tourbe, hispana:turka:turba, portugala:turfa, rusa:торф (torf)  
 **tuze** ** ← mandarena:兔子 (tùzi), kantona:兔仔 (tou3zai2), korea:토끼 (tokki), vjetnama:thỏ, taja:เถาะ (tho)  
+**ude** ** ← mandarena: 度 (dù), vua:度 (du3), japana:度 (do), korea:도 (do), vjetnama:độ + angla:franca:portugala:-itude; -idão, hispana:-itud  
 **ulule** ** ← deu:Heulen, itala:ululato, turka:uluma, filipina:aulong,   
 **umame** ** ← japana:旨味 (umami), korea:우마미 (umami), angla:franca:portugala:hispana:malaja:umami, rusa:умами (umami)  
 **un** *unu (1)* ← franca:un, hispana:uno, portugala:um, una, angla:one  

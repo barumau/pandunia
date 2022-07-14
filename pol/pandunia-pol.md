@@ -409,8 +409,6 @@ celolojia - cytologia
 celsius darge - stopień Celsjusza  
 cene - poprzedni  
 cenage - zakładać (założyć)  
-• cenaje - relikwia  
-cendeno - wczoraj  
 cenyange - klasyczny  
 • cenike - stary, starożytny  
 cenvide - przewidzieć (spodziewać się)  
@@ -466,7 +464,7 @@ cuze - wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)
 ## D  
 
 dai - duży  
-• dayia - rozmiar  
+• dayude - rozmiar  
 dayangilkan - ambasada  
 dayangiler - ambasador  
 daidarge - wzmacniać (wzmocnić)  
@@ -1040,7 +1038,7 @@ halale - dozwolony (dopuszczalny, zezwolony, halal)
 halele - chwalić (wychwalać)  
 halif - kalif  
 halifia - kalifat  
-halou - halo, cześć  
+halo - halo, cześć  
 ham - ważny  
 hamake - hamak  
 hamar - młot, młotek  
@@ -1632,6 +1630,7 @@ late - być obok
 late - poziomy (horyzontalny, boczny)  
 lato - z boku (na bok)  
 latojen - towarzysz (partner, kumpel)  
+latude - południk  
 latini harfia - alfabet łaciński, łacinka, alfabet rzymski  
 latinkitabe - zromanizować  
 Latvia - Łotwa  
@@ -1739,6 +1738,7 @@ London - Londyn
 longe - długi  
 • longia - długość  
 • longife - przedłużyć, przedłużać  
+longude - długość geograficzna  
 longokrokodil - krokodyl  
 longopipre - pieprz długi  
 lontre - wydra  
@@ -1750,6 +1750,7 @@ luge - zielony
 • lugia - register  
 lugomelon - melon miodowy  
 lugobuke - dziennik pokładowy (notatnik)  
+lumen - lumen  
 lun - księżyc  
 lun - miesiąc  
 lun un - styczeń  
@@ -1965,7 +1966,6 @@ min - mniej
 • minus - oprócz, minus  
 min ka bas - zbyt mało  
 minodarge - zmniejszyć o jeden  
-minar - wieża  
 ming - jasny, czysty  
 minte - mięta  
 minute - minuta  
@@ -2288,9 +2288,9 @@ pal - owoc
 paladium - pallad  
 Palau - Palau  
 palme - palma, drzewo palmowe  
-pan (pani) - wszyscy, wszystkie, wszystko; każdy  
+pan - wszyscy, wszystkie, wszystko; każdy  
 pan jen - każdy człowiek, wszyscy  
-pan sei - wszystko  
+pan xe - wszystko  
 panafrike - panafrykański  
 panamerike - panamerykański  
 panase - panazjatycki  
@@ -2477,8 +2477,8 @@ pos - konsekwencja, skutek
 pose - podążać  
 pose - następny (następujący)  
 poso - później (w przyszłości)  
-posdeno - jutro  
 posozam - przyszłość  
+posden - jutro  
 pospor - fosfor  
 poste - poczta  
 poste - nadać, wysłać pocztą  
@@ -2492,7 +2492,9 @@ poze - pozować, ustawiać się
 prasedium - prazeodym  
 prate - praktyka, aktualność  
 prate - practyczny, pragmatyczny  
+• cenaje - relikwia  
 • prime - pierwszy, początkowy  
+preden - wczoraj  
 • konprese - ścisnąć (sciskać, wycisnąć)  
 pro - naprzód  
 problem - problem  
@@ -2674,15 +2676,16 @@ sahe - właściwy (poprawny; poprawić, poprawiać, prostować, korygować)
 Saharia - Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna)  
 saye - cień  
 sake - torba, wór, worek, torba, sakwa  
+sal - cześć  
 sale - zdrowy  
-salia - zdrowie  
+• sales - zdrowie  
+sal cute - żegnaj, dobre odejście  
+sal den - dzień dobry  
+sal lai - witaj, dobre przybycie  
+sal suar - dobry wieczór  
+sal suba - dobry ranek  
+sal yam - smacznego  
 salam - pozdrowienie (pozdrowić, pozdrawiać)  
-salam cute - żegnaj, dobre odejście  
-salam den - dzień dobry  
-salam yam - smacznego  
-salam lai - witaj, dobre przybycie  
-salam suar - dobry wieczór  
-salam sube - dobry ranek  
 salsafe - czysty (higieniczny, sanitarny)  
 salsafia - higiena  
 salade - sałatka  
@@ -3108,6 +3111,7 @@ tone - ton, dźwięk, nuta, tonacja
 tong - beczka  
 Tonga - Tonga  
 tope - region  
+tore - wieża  
 torium - tor  
 torse - tułów  
 tortuge - żółw  
@@ -3222,7 +3226,6 @@ vaxomaxin - pralka
 vaxurse - szop pracz  
 Vaxington DC - Waszyngton D.C  
 vei - ogon  
-veisirke - południk  
 vende - sprzedać (sprzedawać)  
 vendoxope - handel (handlować)  
 vendoxoper - handlarz (kupiec)  
@@ -3240,7 +3243,6 @@ veruke - brodawka
 vespe - pszczoła lub osa  
 vesponide - ul (gniazdo pszczół lub os)  
 veste - zachód (zachodni)  
-vestodongia - długość geograficzna  
 vestogoril - goryl zachodni  
 veze - ciężki (masywny)  
 vezia - waga (ciężkość)  

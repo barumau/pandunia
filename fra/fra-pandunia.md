@@ -59,7 +59,7 @@ aller (quitter) - kite
 aller-retour - retrotikete  
 alligator - kortokrokodil  
 allophone - alofon  
-allô - halou  
+allô - halo  
 alphabet - harfia  
 alpiniste - montaner  
 alumine (oxyde d'aluminium) - aluminoxide  
@@ -518,7 +518,7 @@ darmstadtium - darmositium
 dauphin - dolfin  
 de - de  
 de luxe - deluxe  
-demain - posdeno  
+demain - posden  
 demander (question) - sual  
 dent - dante  
 dessous - sube  
@@ -787,7 +787,7 @@ Hesse - Hesia
 heure (heure du jour, momente) - sate  
 heure - hor  
 heureux - suke  
-hier - cendeno  
+hier - preden  
 Hindustan - Hindia  
 histoire - histore  
 histoire - historia  
@@ -967,6 +967,8 @@ loquace - logive
 loup - volfe  
 lourd - veze  
 loutre - lontre  
+lumen - lumen  
+lumineux - lumive  
 lumière - fote  
 lundi - den un  
 lune - lun  
@@ -1203,6 +1205,7 @@ ou - o
 ouah - va  
 oublier - dememe  
 oubliette (cul de basse-fosse) - geonici prizon  
+ouest - veste  
 oui - ye  
 ours - urse  
 ovale - ovoide  
@@ -1531,7 +1534,8 @@ Samoa américaines - Amerikan Samoa
 sandwich - sanduice  
 sang - heme  
 sang - heme  
-santé - salia  
+santé - sales  
+santé - salude  
 sapin - abete  
 Satan - xatan (ruhoxatan)  
 Saturne - Saturne  
@@ -1612,6 +1616,7 @@ strontium - strontium
 stylo-plume - fontokalam  
 substance - kime  
 sucre - sukar  
+sud - sude  
 sueur - suede  
 suffixe - posfixe  
 suivre - pose  
@@ -1620,6 +1625,7 @@ sujet - subjete
 supplémentaire - extre  
 surestimer - maxorai  
 svastika (croix gammée) - hukokrus  
+svastika - suesike  
 symétrie - sammetria  
 symétrique - sammetre  
 syntoniseur - sintonor  
@@ -1693,7 +1699,9 @@ topographie - topografia
 toucher (tact) - tate  
 toucher - toce  
 toupie - rototope  
+tour - tore  
 tourbe - turfe  
+tourelle - torete  
 touriste - safariste  
 tourner (rotationner) - rotate  
 Tournesol - soloful  

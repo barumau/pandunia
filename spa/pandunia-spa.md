@@ -452,8 +452,6 @@ celolojia - citología
 celsius darge - grado Celsius  
 cene - previo (anterior; antes; preceder, anteceder)  
 cenage - presuponer  
-• cenaje - reliquia  
-cendeno - ayer  
 cenyange - clásico  
 • cenike - viejo (antiguo)  
 cenvide - prever (esperar, pensar)  
@@ -520,7 +518,7 @@ cuzoliste - menú (catálogo)
 ## D  
 
 dai - grande (crecer, aumentar)  
-• dayia - tamaño  
+• dayude - tamaño  
 dayangilkan - embajada  
 dayangiler - embajador  
 daidom - palacio (mansión)  
@@ -1147,7 +1145,7 @@ halaloliste - lista blanca
 halele - elogiar (alabar, exaltar)  
 halif - califa  
 halifia - califato  
-halou - aló  
+halo - aló  
 ham - importante  
 hamake - hamaca  
 hamar - martillo (mazo)  
@@ -1773,6 +1771,7 @@ late - estar al lado de
 late - lateral (horizontal)  
 lato - de lado  
 latojen - compañero (compinche)  
+latude - latitud  
 latini harfia - alfabeto latino  
 latinkitabe - romanizar  
 Latvia - Letonia  
@@ -1878,6 +1877,7 @@ lona biznes - negociar
 longe - largo  
 • longia - largo (longitud)  
 • longife - alargar  
+longude - longitud  
 longodure - perdurable (longevo, prolongado)  
 longokrokodil - cocodrilo  
 lontre - nutria  
@@ -1889,6 +1889,8 @@ luge - verde
 • lugia - registro (cuenta)  
 lugomelon - melón verde  
 lugobuke - diario  
+• lumive - lumbroso (luminoso)  
+lumen - lumen  
 lun - luna  
 lun - mez  
 lun un - enero  
@@ -2111,7 +2113,6 @@ min - menos
 • minus - excepto (menos)  
 min ka bas - demasiado poco  
 minrai - subestimar  
-minar - torre  
 ming - brillante (luminoso)  
 minte - menta  
 minute - minuto  
@@ -2460,9 +2461,9 @@ pal - fruta
 paladium - paladio  
 Palau - Palaos  
 palme - palmera  
-pan (pani) - todo  
+pan - todo  
 pan jen - todas las personas  
-pan sei - todas las cosas  
+pan xe - todas las cosas  
 panafrike - panafricano  
 panamerike - panamericano  
 panase - panasiano  
@@ -2670,9 +2671,9 @@ pos - consecuencia (siguiente)
 pose - seguir  
 pose - siguiente (trasero)  
 poso - más tarde  
-posdeno - mañana  
 postre - posterior  
 posozam - futuro  
+posden - mañana  
 pospor - fósforo  
 poste - correo  
 poste - eviar por correo  
@@ -2691,7 +2692,9 @@ poze - hacer posar (plantar)
 prasedium - praseodimio  
 prate - práctica  
 prate - práctico  
+• cenaje - reliquia  
 • prime - primer (inicial, inaugural)  
+preden - ayer  
 prese - presión  
 • preser - prensa  
 pro - adelante  
@@ -2887,14 +2890,15 @@ Saharia - República Árabe Saharaui Democrática
 saye - sombra  
 sake - saco  
 sale - saludable  
-salia - salud  
+• sales - sanidad  
+• salude - salud  
+sal cute - adiós  
+sal den - buenas tardes  
+sal lai - bienvenido  
+sal suar - buenas noches  
+sal suba - buenos días  
+sal yam - buen provecho  
 salam - saludar (saludo)  
-salam cute - adiós  
-salam den - buenas tardes  
-salam yam - buen provecho  
-salam lai - bienvenido  
-salam suar - buenas noches  
-salam sube - buenos días  
 salamia - bienestar  
 salsafia - higiene  
 salade - ensalada  
@@ -3143,6 +3147,7 @@ stude - estudiar (examinar)
 • studente - estudiante (alumno)  
 • studer - estudiante  
 su - de (posposición de posesión)  
+suesike - suástica  
 suahili - suajili  
 sual - preguntar (inquirir; pregunta)  
 • sualive - interrogativa  
@@ -3356,6 +3361,7 @@ Tonga - Tonga
 tope - región (zona)  
 topografe - topografía  
 • topografia - topografía  
+tore - torre  
 torium - torio  
 torse - torso  
 tortuge - tortuga  
@@ -3482,7 +3488,6 @@ vaxe - lavar
 vaxomaxin - lavadora  
 vaxurse - mapache  
 vei - cola (rabo)  
-veisirke - latitud  
 vele - velo  
 • devele - develar (revelar)  
 vende - vender  
@@ -3506,7 +3511,6 @@ veruke - verruga
 vespe - abeja o avispa  
 vesponide - avispero (colmena)  
 veste - oeste (occidental)  
-vestodongia - longitud  
 vestogoril - gorila occidental  
 veze - pesado  
 vezia - peso (gravedad)  

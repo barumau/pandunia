@@ -535,8 +535,6 @@ celolojia - cytology
 celsius darge - degree Celsius  
 cene - before (previous, fore, past)  
 cenage - assume (presuppose)  
-• cenaje - relic  
-cendeno - yesterday  
 cenyange - classic (classical)  
 • cenike - old (ancient, former)  
 cenvide - expect (anticipate, predict, forsee)  
@@ -625,8 +623,9 @@ cuzoliste - menu (catalog)
 
 ## D  
 
-dai - big (great, large; get bigger, grow in size)  
-• dayia - size  
+dai - big (great, large)  
+• dayia - greatness (largeness)  
+• dayude - size  
 dayangilkan - embassy  
 dayangiler - ambassador  
 daidarge - amplify (scale)  
@@ -1398,7 +1397,7 @@ halaloliste - whitelist
 halele - praise (commend, exalt)  
 halif - caliph  
 halifia - caliphate  
-halou - hello (hi)  
+halo - hello (hi)  
 ham - important  
 hamake - hammock  
 hamar - hammer  
@@ -2119,6 +2118,7 @@ late - be beside (accompany)
 late - lateral (horizontal)  
 lato - sideways (laterally)  
 latojen - companion (partner, sidekick)  
+latude - latitude  
 • alative - allative case  
 • abolative - ablative case  
 • exlative - elative case  
@@ -2244,6 +2244,7 @@ London - London
 longe - long (lengthy)  
 • longia - length  
 • longife - lengthen (prolong)  
+longude - longitude  
 longodure - long (long-lasting, prolonged)  
 longokrokodil - crocodile  
 longopipre - long pepper (pipli)  
@@ -2256,6 +2257,9 @@ luge - green
 • lugia - registry (account)  
 lugomelon - honeydew (green melon)  
 lugobuke - logbook  
+lume - shine  
+• lumive - luminous (shining)  
+lumen - lumen  
 lun - moon  
 • lunule - moonlet (lunula)  
 lun - month  
@@ -2519,8 +2523,7 @@ min - less
 min ka bas - too little  
 minodarge - decrement  
 minrai - underestimate  
-minar - tower  
-ming - bright (brilliant, luminous, shining; shine)  
+ming - bright (brilliant)  
 transming - translucent  
 minte - mint  
 minute - minute  
@@ -2930,9 +2933,9 @@ palabe - conflict (argument, dispute, quarrel)
 paladium - palladium  
 Palau - Palau  
 palme - palm tree  
-pan (pani) - all  
+pan - all  
 pan jen - everybody (everyone)  
-pan sei - everything  
+pan xe - everything  
 panafrike - pan-African  
 panamerike - pan-American  
 panase - pan-Asian  
@@ -3190,9 +3193,9 @@ pos - consequence (back, follow-up)
 pose - follow (come after)  
 pose - next (following, back)  
 poso - later (after, will, in the future)  
-posdeno - tomorrow  
 postre - backward (posterior)  
 posozam - future time  
+posden - tomorrow  
 pospor - phosphorus  
 poste - mail  
 poste - mail (send by mail)  
@@ -3220,7 +3223,9 @@ poze - pose (set, plant)
 prasedium - praseodymium  
 prate - practice (actuality)  
 prate - practical (pragmatic)  
+• cenaje - relic  
 • prime - initial (first; prime)  
+preden - yesterday  
 prese - press (pressure)  
 • preser - press device  
 • deprese - depress (push away)  
@@ -3457,15 +3462,18 @@ sahe - right (correct, accurate)
 Saharia - Sahrawi Arab Democratic Republic  
 saye - shadow  
 sake - bag (sack)  
+sal - hello (hi)  
 sale - healthy  
-salia - health  
+• sales - health (state of wellbeing)  
+• salude - health (condition, level of health)  
+sal cute - farewell  
+sal den - good day  
+sal lai - welcome!  
+sal noce - good night  
+sal suar - good evening  
+sal suba - good morning  
+sal yam - bon appetit!  
 salam - greet (wish well; greeting; wellfare)  
-salam cute - farewell  
-salam den - Good day  
-salam yam - bon appetit!  
-salam lai - welcome!  
-salam suar - Good evening  
-salam sube - Good morning  
 salamia - well-being (prosperity)  
 salsafe - cleanly (hygienic, sanitary)  
 salsafia - hygiene (cleanliness)  
@@ -3743,6 +3751,7 @@ stude - study (work in order to practise or demonstrate)
 • studer - student  
 su - attributive postposition (-'s)  
 sue - good (well)  
+suesike - swastika  
 suahili - Swahili  
 sual - ask (inquire; question, query, inquiry)  
 • sualive - interrogative  
@@ -3990,6 +3999,8 @@ topografe - topography
 • topografia - topography  
 • dustopia - dystopia  
 • eutopia - utopia  
+tore - tower  
+• torete - turret  
 torium - thorium  
 torse - trunk (torso)  
 tortuge - turtle (tortoise)  
@@ -4059,6 +4070,7 @@ tuze - rabbit (hare)
 
 ## U  
 
+ude - degree (measurable level)  
 Ukraina - Ukraine  
 ulul - howling  
 ulule - howl  
@@ -4133,7 +4145,6 @@ Vaxington DC - Washington DC
 vei - tail  
 veye - traverse (horizontal)  
 veilin - weft  
-veisirke - latitude  
 vele - veil  
 • devele - unveil (reveal, uncover)  
 • invelaje - envelope (enfold)  
@@ -4178,7 +4189,6 @@ veruke - wart (verruca)
 vespe - bee or wasp  
 vesponide - bee nest (beehive, wasp's nest)  
 veste - west (western)  
-vestodongia - longitude  
 vestogoril - western gorilla  
 veze - heavy  
 vezia - weight (heft, gravity)  

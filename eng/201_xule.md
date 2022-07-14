@@ -8,7 +8,7 @@
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 <big>☺</big>
-**halo!**
+**sal!**
 = Hello!  
 <big>☻</big>
 **salam!**
@@ -133,28 +133,35 @@ animal
 
 ## Saying hello
 
-**salam**
+**sal**
 = Hello!
 
 This is how people often greet each other in Pandunia.
-They say **salam**.
+They say **sal**.
 It is used for saying both hello and goodbye.
 
-**salam**
+**sal**
 = Bye!
 
 The word
-**salam**
-means "greeting".
-It is originally a Middle Eastern word for wishing well-being, health and safety.
-It appears as "shlaam" in Aramaic, the language that Jesus of Nazareth spoke,
-in Hebrew it is "shalom",
-and in Arabic it is "salaam".
-Today it is a common greeting in hundreds of languages in Africa, Asia and Europe.
-Pandunia is a constructed world language
-that borrows international words from all parts of the world.
+**sal**
+means 'hello' or 'hi'.
 
-The word **salam** is also a verb, which means "to greet".
+It has two origins.
+On one hand, it comes from Latin *salve* and related greetings like French *salut*.
+Also English *salute* and Spanish *saludo* are related to it.
+On the other hand, it comes from a common Middle Eastern word for wishing well-being, health and safety.
+It appears as *shlaam* in Aramaic, the language that Jesus of Nazareth spoke.
+In Hebrew it is *shalom*,
+and in Arabic it is *salaam*.
+Today it is a common greeting in hundreds of languages in Africa, Asia and Europe.
+
+Pandunia is a constructed world language
+that borrows and blends together international words from all parts of the world.
+
+The word
+**salam**
+means *greeting* or *to greet*.
 
 **mi salam tu.**
 = I greet you.  
@@ -225,8 +232,12 @@ answers are after the word list.
 
 ### Word List
 
-**salam, halo**
-greeting, hello, hi, salaam, ciao, etc.  
+**sal**
+hello, hi, salaam, ciao  
+**halo**
+hello (said especially on the phone)  
+**salam**
+greeting(s), to greet.  
 **salam**
 to greet  
 **mama**
@@ -242,7 +253,7 @@ chief, boss
 1. tu salam ya.
 2. mama salam papa.
 3. salam mama!
-4. salam!
+4. sal!
 
 
 --------------------------------------------------------------------------------
@@ -278,10 +289,10 @@ chief, boss
 **bon. cing salam tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi salam ya. salam live!**
+**mi salam ya. sal live!**
 = I will. Bye!  
 <big>☺</big>
-**salam ga!**
+**sal ga!**
 = Bye!
 
 
@@ -439,7 +450,7 @@ some, a(n)
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
-**salam! sual tu yam kafe o cai?**
+**sal! sual tu yam kafe o cai?**
 = Hello! Would you like to have coffee or tea?  
 <big>☻</big>
 **cai.**

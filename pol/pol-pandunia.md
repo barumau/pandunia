@@ -390,6 +390,7 @@ czekolada - coklate
 czempion - campion  
 czerwiec - lun tri  
 czerwony - lale  
+cześć - sal  
 cześć, szacunek - puje  
 czosnek olbrzymi - dailasun  
 cztery (4) - care  
@@ -453,8 +454,8 @@ dioryt - diorite
 do, dopóki, dla - ta  
 dobry - bon  
 dobry los, szczęście - boni zar  
-dobry ranek - salam sube  
-dobry wieczór - salam suar  
+dobry ranek - sal suba  
+dobry wieczór - sal suar  
 dodatkowy - maxbone  
 dodatkowy - maxaje  
 doktor (uczony, który osiągnął doktorat) - dotor  
@@ -531,7 +532,7 @@ dziesięć tysięcy - deskilo
 dziewczyna - yune fem  
 dziewięć (9) - nof  
 dzień - yom  
-dzień dobry - salam den  
+dzień dobry - sal den  
 dzień świętego Jana - yohan feste  
 dziki - ekogene  
 dziki - jangle  
@@ -551,7 +552,7 @@ dąb szypułkowy - europobalute
 dąb zębaty - dantobalute  
 długi - longe  
 długość - longia  
-długość geograficzna - vestodongia  
+długość geograficzna - longude  
 dźinizm, dżinizm - jenisme  
 dźwignia - tirbaton  
 dźwięk (brzmienie; brzmieć, wydać dźwięk, wydawać dźwięk) - son  
@@ -795,7 +796,7 @@ haczyk - pesohuke
 hafn - hafnium  
 Haiti - Haiti  
 hak - huke  
-halo, cześć - halou  
+halo, cześć - halo  
 hamak - hamake  
 han chiński - cine  
 handel (handlować) - vendoxope  
@@ -985,7 +986,7 @@ Joruba - yoruba
 Jowisz - jupiter  
 judaizm - yahudisme  
 judo - judau  
-jutro - posdeno  
+jutro - posden  
 jęczmień - jau  
 język - lingue  
 język - lisan  
@@ -1364,6 +1365,7 @@ ludzki - humane
 ludzkość, rodzaj ludzki - humania  
 lukrecja - sus  
 Luksemburg - Luxemburge  
+lumen - lumen  
 lustro - miror  
 luteranizm - martinluterisme  
 luterański - martinluteriste  
@@ -2163,7 +2165,7 @@ pozwolić, pozwalać, zezwolić, zezwalać - halale
 połknąć (połykać) - gule  
 położyć - kuse  
 południe - sude  
-południk - veisirke  
+południk - latude  
 Południowa Afryka - Sudafrike  
 południowy - sudike  
 połączenie, złącze, styk - linke  
@@ -2423,7 +2425,7 @@ rozciągać (rozciągnąć) - tirlonge
 rozdział, sekcja - babu  
 rozkaz, komenda - amir  
 rozluźnić (poluzować) - laxe  
-rozmiar - dayia  
+rozmiar - dayude  
 rozmnażać - genite  
 rozmowny - logive  
 rozróżniać (rozróżnić) - hase  
@@ -2601,7 +2603,7 @@ skupić, się, skoncentrować się - fokuse
 skwer, plac - meden  
 skwierczeć - zize  
 skóra - pil  
-smacznego - salam yam  
+smacznego - sal yam  
 smak - guste  
 smok - lung  
 smycz (cugiel, lejc, wodza) - lidolin  
@@ -3044,7 +3046,7 @@ ważka - libele
 ważny - ham  
 ważyć - vezu  
 wciąż, nadal - duro  
-wczoraj - cendeno  
+wczoraj - preden  
 wdowa - vidou  
 według ruchu wskazówek zegara - rotoraito  
 weganin (weganka) - purfitoyamiste  
@@ -3109,7 +3111,7 @@ wietnamski - viete
 wiewiórka - ekore  
 wieś, tereny wiejskie - agrostan  
 wieś, wioska - vilaje  
-wieża - minar  
+wieża - tore  
 wieża zegarowa - horlogerminar  
 wiki - viki  
 wilk - volfe  
@@ -3124,7 +3126,7 @@ wiosna - fulmosim
 wirus - virus  
 wirusologia - viruslojia  
 Wisznu - Vixnu  
-witaj, dobre przybycie - salam lai  
+witaj, dobre przybycie - sal lai  
 witamina - vitamin  
 witraż - rangi kance  
 witryna internetowa (portal internetowy) - netoloke  
@@ -3178,8 +3180,8 @@ współpracować (kolaborować) - konkare
 wstecz - retro  
 wstrzyknąć, wstrzykiwać - injete  
 wstyd (hańba, kompromitacja) - xarme  
-wszyscy, wszystkie, wszystko; każdy - pan (pani)  
-wszystko - pan sei  
+wszyscy, wszystkie, wszystko; każdy - pan  
+wszystko - pan xe  
 wtorek - den du  
 wulkan - hogosan  
 wy, was - tumen  
@@ -3332,7 +3334,7 @@ zdanie (fraza) - gumle
 zdeaktywowany (wyłączony, zatrzymany) - anative  
 zdjęcie (fotografia) - fotograf  
 zdrada małżeńska, cudzołóstwo - zine  
-zdrowie - salia  
+zdrowie - sales  
 zdrowy - sale  
 zebra - zebra  
 zegar (zegarek) - horloger  
@@ -3470,7 +3472,7 @@ zły, zrujnowany, zepsuty - harabe
 żartowniś, dowcipniś - joker  
 żeglarz (marynarz) - naver  
 żeglować (płynąć) - nave  
-żegnaj, dobre odejście - salam cute  
+żegnaj, dobre odejście - sal cute  
 żel, galareta - gele  
 żelazo - fer  
 żeń-szeń - jensen  

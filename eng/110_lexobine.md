@@ -275,7 +275,7 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 
 ### Suffixes
 
-**-abl-**
+**-able**
 'that can be done' :  
 **vide**
 'see, view'
@@ -286,7 +286,7 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 → **uzable**
 'one that can be used, usable'
 
-**-aj-**
+**-aje**
 'thing made of or consisting of' :  
 **bage**
 'bag'
@@ -340,14 +340,14 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 → **human**
 'earthling' and, _by extension_, 'human being'
 
-**-at-**
+**-ate**
 'doing, action' :  
 **rote**
 'wheel'
 → **rotate**
 'rotate, turn like a wheel'
 
-**-em-**
+**-eme**
 'distinct meaningful element' :  
 **fone**
 'speech sound'
@@ -402,7 +402,19 @@ but some are true prefixes or suffixes and can be used only as such, not as sepa
 **enjener**
 'engineer'
 → **enjeneria**
-'engineering'  
+'engineering'
+
+**-es**
+'-ness, state of being' :  
+**dai**
+'big, great'
+→ **dayes**
+'greatness'  
+**long**
+'long'
+→ **longes**
+'length'
+
 
 **-ia**
 'collection of, aggregation of' :  
@@ -457,7 +469,7 @@ There are also a lot of country names that do not end in **-ia**.
 → **huria**
 'freedom'
 
-**-ik-**
+**-ike**
 'of the style or manner of, -ish, -esque' :  
 **un**
 'one'
@@ -472,7 +484,7 @@ There are also a lot of country names that do not end in **-ia**.
 → → **novike**
 'novice, newbie'
 
-**-im-**
+**-ime**
 'the most, superlative' :  
 **pre**
 'fore, front'
@@ -483,7 +495,7 @@ There are also a lot of country names that do not end in **-ia**.
 → **extrime**
 'outermost, extreme'
 
-**-ion-**
+**-ion**
 'action, process' :  
 **dite**
 'say'
@@ -494,21 +506,21 @@ There are also a lot of country names that do not end in **-ia**.
 → **rotation**
 'rotation, turning'
 
-**-ist-**
+**-iste**
 'person who tends to behave or think in a certain way, adherent of an ideology or religion' :  
 **deu**
 'god'
 → **deviste**
 'theist, one who believes in existence of a god or gods'
 
-**-ism-**
+**-isme**
 'ideology, way of thinking, way of living, ism' :  
 **deu**
 'god'
 → **devisme**
 'theism'
 
-**-iv-**
+**-ive**
 'inclined to' :  
 **ate**
 'act, perform'
@@ -519,7 +531,7 @@ There are also a lot of country names that do not end in **-ia**.
 → **explozive**
 'explosive'
 
-**-or-**
+**-or**
 'apparatus, device, machine' :  
 **trate**
 'drag, haul'
@@ -529,6 +541,17 @@ There are also a lot of country names that do not end in **-ia**.
 'photograph'
 → **fotografor**
 'photograph apparatus, camera'
+
+**-ude**
+'measure or degree' :  
+**dai**
+'big, great'
+→ **dayude**
+'size'  
+**kurve**
+'curve, bend'
+→ **kurvude**
+'curvature'
 
 **-ul-**
 'diminutive, indicating small size or youth' :  

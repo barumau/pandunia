@@ -494,7 +494,6 @@ celolojia - soluoppi (sytologia)
 celsius darge - celsiusaste  
 cene - ennen (aikaisemmin, aiemmin; aikaisempi, edellinen)  
 cenage - edellyttää  
-cendeno - eilen  
 • cenike - vanha (muinainen)  
 cenvide - ennustaa (nähdä ennalta)  
 cenzam - menneisyys  
@@ -576,7 +575,8 @@ cuze - valita (valinta, vaali)
 ## D  
 
 dai - iso (suuri; suurentua, kasvaa kokoa)  
-• dayia - suuruus (koko)  
+• dayia - suuruus  
+• dayude - koko  
 dayangilkan - lähetystö  
 dayangiler - lähettiläs  
 daidarge - korottaa  
@@ -1239,7 +1239,7 @@ halale - sallittu (hyväksytty)
 halele - ylistää  
 halif - kalifi  
 halifia - kalifaatti  
-halou - hei (haloo)  
+halo - hei (haloo)  
 ham - tärkeä  
 hamake - riippumatto  
 hamar - vasara  
@@ -1860,6 +1860,7 @@ laste - joustava (elastinen)
 lasun - valkosipuli  
 late - sivu (kylki, puoli)  
 late - sivu-  
+latude - leveyspiiri  
 • alative - allatiivi  
 • abolative - ablatiivi  
 • exlative - elatiivi  
@@ -1978,6 +1979,9 @@ luge - tallenne (rekisteri; tallentaa, rekisteröidä, kirjata)
 luge - vihreä  
 • lugia - rekisteri (tili)  
 lugobuke - lokikirja  
+lume - loistaa (loiste)  
+• lumive - loistava  
+lumen - luumen  
 lun - kuu  
 lun - kuukausi  
 lun un - tammikuu  
@@ -2200,7 +2204,6 @@ min - vähemmän
 • minus - paitsi (miinus)  
 min ka bas - liian vähän  
 minrai - aliarvioida  
-minar - torni  
 ming - kirkas (selkeä)  
 minute - minuutti  
 mire - ihmetellä  
@@ -2545,9 +2548,9 @@ palabe - riita (kiista)
 paladium - palladium  
 Palau - Palau  
 palme - palmu  
-pan (pani) - kaikki  
+pan - kaikki  
 pan jen - jokainen ihminen  
-pan sei - jokainen asia  
+pan xe - jokainen asia  
 panafrike - panafrikkalainen  
 panamerike - panamerikkalainen  
 panase - panaasialainen  
@@ -2763,9 +2766,9 @@ pos - seuraus
 pose - seurata (tulla perässä, tulla jäljessä)  
 pose - seuraava  
 poso - myöhemmin (tuleva)  
-posdeno - huominen  
 postre - myöhempi (takainen)  
 posozam - tulevaisuus  
+posden - huominen  
 pospor - fosfori  
 poste - posti (postilähetys)  
 poste - postittaa  
@@ -2791,6 +2794,7 @@ poze - panna (asettaa)
 prasedium - praseodyymi  
 prate - käytäntö (pragmatia)  
 prate - käytännöllinen (pragmaattinen)  
+preden - eilen  
 prese - puristaaa (puristus, paine)  
 • preser - puristin  
 • konprese - pusertaa  
@@ -2990,15 +2994,18 @@ sagu fun - saagotärkkelys
 sahe - oikea (paikkansapitävä; korjata oikeaksi)  
 saye - varjo  
 sake - pussi (säkki, kassi, laukku)  
+sal - terve (hei)  
 sale - terve  
-salia - terveys  
+• sales - terveys (hyvinvointi)  
+• salude - terveys (kunto)  
+sal cute - hyvää matkaa  
+sal den - päivää!  
+sal lai - tervetuloa!  
+sal noce - hyvää yötä  
+sal suar - hyvää iltaa  
+sal suba - huomenta  
+sal yam - hyvää ruokahalua!  
 salam - tervehtiä (tervehdys; terve!)  
-salam cute - hyvää matkaa  
-salam den - päivää!  
-salam yam - hyvää ruokahalua!  
-salam lai - tervetuloa!  
-salam suar - Hyvää iltaa  
-salam sube - Huomenta!  
 salamia - hyvinvointi  
 salsafe - hygieeninen  
 salsafia - hygienia (puhtaus)  
@@ -3225,6 +3232,7 @@ stude - opiskella (tutkia; tutkielma)
 • studente - oppilas (opiskelija)  
 • studer - opiskelija  
 su - -n (oma)  
+suesike - svastika  
 suahili - suahili  
 sual - kysyä (kysymys)  
 • sualive - kysyvä  
@@ -3423,6 +3431,7 @@ topografe - topografia
 • topografia - topografia  
 • dustopia - dystopia  
 • eutopia - utopia  
+tore - torni  
 torium - torium  
 torse - vartalo (varsi, torso)  
 tortuge - kilpikonna  
@@ -3487,6 +3496,7 @@ tuze - jänis
 
 ## U  
 
+ude - aste (mitattava taso)  
 Ukraina - Ukraina  
 ulul - ulvonta  
 ulule - ulvoa  
@@ -3551,7 +3561,6 @@ Vaxington DC - Washington DC
 vei - häntä  
 veye - poikittainen (vaaka)  
 veilin - kude  
-veisirke - leveyspiiri  
 vele - verho (peite)  
 • devele - paljastaa  
 • cirkovene - mennä ympäri  

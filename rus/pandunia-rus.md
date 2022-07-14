@@ -245,7 +245,6 @@ carme - шарм
 ceke - чек  
 celolojia - цитология  
 cene - раньше  
-cendeno - вчера  
 • cenike - старый (древний)  
 cente - сто  
 • pro cente - процент  
@@ -555,7 +554,7 @@ haiful - морские анемоны
 haigun - военно-морской флот  
 haihiyar - голотурия (морские огурц)  
 hal - состояние (статус)  
-halou - алло  
+halo - алло  
 ham - важный (значимый)  
 hamile - беременный  
 hande - рука  
@@ -878,6 +877,8 @@ longopipre - перец длинный
 lontre - выдра  
 love - протекать (просочиться)  
 luge - зелёный  
+• lumive - светящийся  
+lumen - люмен  
 lun - луна  
 lun - месяц  
 lunokeke - лунный пирог  
@@ -1221,6 +1222,7 @@ pote - кувшин (графин)
 poter - гончар  
 poteria - гончарное дело  
 prasedium - празеодим  
+preden - вчера  
 prese - давление (нажим)  
 • preser - пресс  
 problem - проблема  
@@ -1431,9 +1433,11 @@ stude - изучать (этюд)
 • studaje - этюд  
 • studente - студент  
 • studer - студент  
+suesike - свастика  
 sual - спрашивать (вопрос)  
 sualodokum - анкета  
 suar - вечер  
+sude - юг (зюйд)  
 suge - быстрый  
 sui - вода  
 suigas - пар  
@@ -1518,6 +1522,7 @@ toce - касаться
 tomate - помидор (томат)  
 topografe - топография  
 • topografia - топография  
+• torete - башенка (турель)  
 torium - торий  
 toxolojia - токсикология  
 tragi - трагический  
@@ -1586,6 +1591,7 @@ vermute - вермут
 • extroverse - экстраверт  
 • introverse - интроверт  
 veruke - бородавка  
+veste - запад (вест)  
 vestogoril - западная горилла  
 veze - тяжёлый  
 vezu - весить  

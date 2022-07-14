@@ -490,7 +490,7 @@
 **hal** *état* ← ara:(ḥāla), hin:हालत (hālat), swa:hali, tur:hâl  
 **halale** ** ← ara:(ḥalāl), fas:urd:(halāl), eng:spa:fra:por:may:halal, tur:helal, rus:халяльный (xaljalʹniy), hin:हलाल (halāl), swa:halali, kor:할랄 (hallal)  
 **halele** ** ← heb:(hal'lu yah), eng:hallelujah, zho:哈利路亚 (hālìlùyà), ara:(hallilūyā), por:fra:alléluia, rus:аллилуйя (alliluyya), spa:aleluya, swa:may:haleluya, tgl:aleluya, jpn:ハレルヤ (hareruya), kor:할렐루야 (hallelluya)  
-**halou** *allô* ← eng:hello, zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo  
+**halo** *allô* ← eng:hello, zho:哈喽 (hālóu), hin:हेलो (helo), ben:হ্যালো  (hyalo), may:halo + fra:allô, spa:aló, por:alô, rus:алло (allo), ara: آلُو‎ (ʾālū), tur:alo  
 **ham** *important* ← ara: هَامّ (hāmm), hin:अहम (aham), urd: اہم (aham), swa:muhimu, tur:mühim, fas:(mohemm)  
 **hamake** ** ← eng:hammock, spa:hamaca, fra:hamac, rus:гамак (gamak), tur:hamak, jpn:ハンモック (hanmokku)  
 **hamar** ** ← eng:hammer, deu:Hammer, jpn:ハンマー (hanmā), hau:hamā̀  
@@ -823,6 +823,7 @@
 **love** ** ← zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)  
 **luge** ** ← eng:log + zho:录 (lù), yue:錄 (luk6), jpn:録 (roku), kor:록 (rok), vie:lục  
 **luge** *vert* ← zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)  
+**lume** ** ← ara: لَمَعَ‎ (lamaʿa) + spa:lumbre, por:lume, fra:lumineux, eng:luminous + rus:люмен (lyumen),zho:流明 (liúmíng),  jpn:ルーメン (rūmen), kor:루멘 (rumen), may:lumen  
 **lun** *lune* ← fra:lune, spa:luna, eng:lunar, rus:луна (luná)  
 **lung** ** ← zho:龙 (lóng), yue:龍 (lung4), vie:rồng, long, kor:용 (yong), 룡 (ryong), jon:竜 (ryū)  
 **lusun** ** ← zho:芦笋 (lúsǔn), yue:蘆筍 (lou4 seon2)  
@@ -916,7 +917,6 @@
 **milke** *lait* ← eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)  
 **mime** *imiter* ← eng:fra:mime, por:mímico, rus:мим (mim)  
 **min** ** ← spa:por:menos, fra:moins, rus:менее (méneje), eng:min- + deu:Minimum  
-**minar** ** ← swa: mnara, tur: minare, + eng:minaret  
 **ming** ** ← zho:wuu:明 (míng), yue:明 (ming4), vie:minh, kor:명 (myeong)  
 **minte** *menthe* ← eng:mint, spa:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)  
 **minute** ** ← eng:minute, spa:por:minuto, rus:минута (minuta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit  
@@ -1055,7 +1055,7 @@
 **palabe** *querelle (dispute, palabre)* ← eng:palaver, krio:plabah, kon:palaba  
 **paladium** *palladium* ← eng:palladium, fra:palladium, spa:paladio, por:paládio, rus:палладий, zho:钯 (bǎ), jpn:パラジウム, kor:팔라듐, vie:palađi, hin:पलाडियम, ben:প্যালাডিয়াম, may:paladium, swa:paladi, ara: بلاديوم  
 **palme** ** ← deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)  
-**pan (pani)** ** ← eng:spa:por:deu:may:pan-, rus:пан- (pan-) + zho:泛 (fàn), jpn:汎 (han-)  
+**pan** ** ← eng:spa:por:deu:may:pan-, rus:пан- (pan-) + zho:泛 (fàn), jpn:汎 (han-)  
 **panda** *panda* ← eng:spa:por:fra:may:panda, rus:панда (panda), hin:पांडा (pāṇḍā), jpn:パンダ (panda)  
 **pang** *pain* ← tha:ปัง (pang), kor:빵 (ppang), khm:នំប៉័ង (numpang), jpn:パン (pan), por:pão, spa:pan, fra:pain  
 **panike** ** ← eng:panic, spa:pánico, por:pânico, fra:panique, rus:паника (panika), fas:پانیک‎ (pânik), jpn:パニック (panikku)  
@@ -1228,9 +1228,8 @@
 **sagu** *sagoutier* ← eng:sago, fra:sagou, spa:sagú, por:may:sagu, rus:саго (sago), ara: سَاغُو‎ (sāḡū), zho:西谷米 (xīgúmǐ), jpn:サゴ (sago), hin:सागू (sāgū)  
 **sahe** *correct (juste)* ← hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi  
 **sake** *sac* ← deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku  
+**sal** ** ← ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সালাম (salam), may:selamat, swa:salamu, tur:selam + eng:salute, fra:salut, spa:salude, por:saúde + kor:잘 (jal)  
 **salade** ** ← fra:salade, may:salad, rus:салат (salat), hin:सलाद (salād), yue:沙律 (saa1 leot62), zho:沙拉 (shālā), por:salada, spa:ensalado, jpn:サラダ (sarada), kor:샐러드 (saelleodeu), vie:xà lách  
-**salam** *salut (salam)* ← ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)  
-**sale** *sain* ← fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık  
 **salmon** *truite* ← eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)  
 **salte** *sel* ← eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)  
 **salve** *sauver (secourir)* ← eng:save, salvage, fra:sauver, spa:por:salvar  
@@ -1325,7 +1324,7 @@
 **suar** *soir (soirée)* ← fra:soir, eng:soiree, rus:суаре (suare), tur:suare + may:sore  
 **suba** ** ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
 **sube** *dessous* ← eng:fra:spa:por:may:sub-, rus:суб- (sub-)  
-**sude** ** ← eng:south, spa:sur, por:sul, fra:sud, deu:Süden, rus:зюйд (zyuyd)  
+**sude** *sud* ← deu:Süden, fra:sud, spa:sur, por:sul, eng:south, rus:зюйд (zyuyd)  
 **sue** ** ← scr:hin: सु- (su-), ben:সু- (śu-) + ltn:eng:fra:su- + min:媠 (súi)  
 **suede** *sueur* ← eng:sweat, spa:sudor, por:suor, fra:sueur, san:स्वेद (sveda)  
 **suge** *vite (rapide)* ← zho:速 (sù), yue:速 (cuk4)), jpn:速 (soku), kor:속 (sok), vie:tốc  
@@ -1403,6 +1402,7 @@
 **tomate** *tomate* ← eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)  
 **tone** ** ← eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono  
 **tong** ** ← zho:桶 (tǒng), kor:통 (tong), vie:thùng, may:tong, khm:តុង (tong), tha:ถัง (tǎng), fas: تنگ‎ (tong) + fra:tonneau, spa:tonel, ned:ton  
+**tore** *tour* ← eng:tower, fra:tour, spa:por:torre, hin:टावर (ṭāvar) + jpn:塔 (tō), zho:塔 (tǎ)  
 **torium** *thorium* ← eng:thorium, fra:thorium, spa:torio, por:tório, rus:торий, zho:钍 (tǔ), jpn:トリウム, kor:토륨, vie:thori, hin:थोरियम, ben:থোরিয়াম, may:torium, swa:thori, ara: ثوريوم  
 **torse** ** ← fra:torse, rus:торс (tors), deu:eng:spa:may:torso  
 **tortuge** ** ← eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue  
@@ -1431,6 +1431,7 @@
 **turbe** *gêner (déranger, perturber)* ← eng:turbid + rus:турбина (turbina), jpn:タービン (tābin), kor:터빈 (teobin) + eng:disturb, fra:perturber, spa:por:perturbar  
 **turfe** *tourbe* ← eng:turf, fra:tourbe, spa:tur:turba, por:turfa, rus:торф (torf)  
 **tuze** *lapin (lièvre)* ← zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)  
+**ude** ** ← zho: 度 (dù), wuu:度 (du3), jpn:度 (do), kor:도 (do), vie:độ + eng:fra:por:-itude; -idão, spa:-itud  
 **ulule** ** ← deu:Heulen, ita:ululato, tur:uluma, tgl:aulong,   
 **umame** ** ← jpn:旨味 (umami), kor:우마미 (umami), eng:fra:por:spa:may:umami, rus:умами (umami)  
 **un** *un (1)* ← fra:un, spa:uno, por:um, una, eng:one  
@@ -1468,7 +1469,7 @@
 **verse** *verser (face á)* ← eng:versus, fra:verse, spa:por:versar + rus:версия (versiya), may:versi  
 **veruke** *verrue* ← eng:verruca, fra:verrue, spa:por:verruga  
 **vespe** *abeille ou guêpe* ← spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe  
-**veste** ** ← eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)  
+**veste** *ouest* ← eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)  
 **veye** ** ← zho:纬度 (wěi), kor:위 (wi), vie:vĩ  
 **vezia** *poids (lourdeur, gravité)* ← ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso  
 **vide** *voir* ← rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide  

@@ -30,50 +30,61 @@ language. You can just speak Pandunia!
 
 ## Part 1: Greeting and basics
 
-### salam <small>greet, greeting</small>
+### sal <small>greet, greeting</small>
 
 <p style="font-size:5em;">🙋‍</p>
 
-**salam**
+**sal**
 Hello!
 
-**salam suba!**
+**sal suba!**
 Good morning!
 
-**salam den!**
+**sal den!**
 Good day!
 
-**salam xam!**
+**sal xam!**
 Good evening!
 
-**salam noce!**
+**sal noce!**
 Good night!
 
-**salam yam!**
+**sal yam!**
 Bon appetit!
 
-**salam lai!**
+**sal lai!**
 Welcome!
 
-**salam ga!**
+**sal ga!**
 Goodbye!
 
-**salam safar!**
+**sal safar!**
 Have a safe journey!
 
-**salam some!**
+**sal some!**
 Sleep well!
 
 As you can see from the range of expressions,
+**sal**
+is a general word for well-wishing.
+Use it any time!
+You can also say
+**halo**
+'hello, hi'
+or
 **salam**
-is a general word for well-wishing. Use it any time!
+'greetings'
+when you greet someone.
 
-**Salam**
-is a popular greeting that is used by both religious and non-religious people in many different countries around the world.
-
-<small>Etymology. **salam** is from Arabic: سَلَام‏ "salām", Hebrew:
-שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam,
-Indonesian: selamat.</small>
+<small>Etymology. **sal** is from
+French *salut*,
+Arabic سَلَام‏ *salām*,
+Hebrew
+שָׁלוֹם‏ *šalom*,
+Turkish *selam*,
+Hindi सलाम *salām*,
+Swahili *salaam*,
+Indonesian *selamat*.</small>
 
 
 ### xukre <small>thanks</small>
