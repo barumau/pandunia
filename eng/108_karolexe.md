@@ -185,8 +185,8 @@ They always take an object.
 – for, forth, forward  
 **re**
 – back, back to  
-**tras**
-– beyond  
+**tra**
+– through, beyond  
 **vise**
 – instead of
 
