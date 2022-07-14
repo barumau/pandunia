@@ -157,6 +157,53 @@ indicates that the event will take place later or in the future.
 – I will not drink a beer.
 
 
+## Transitivity
+
+In general, there are three types of verbs.
+
+1. Transitive verbs need a direct object, which is the target of the action.
+2. Intransitive verbs don't accept an object. Then the action is directed to the subject.
+3. Ambitransitive verbs can be both transitive and intransitive.
+
+Pandunia verbs are typically ambitransitive
+i.e. they may or may not require an object depending on the sentence structure.
+When there is an object, the verb is transtive,
+and when there isn't an object, the verb is intransitive.
+
+**mi bule sui.**
+– I boil water. (transitive sentence)  
+**sui bule.**
+– Water boils. (intransitive sentence)  
+**beker beke pang.**
+– The baker bakes bread. (transitive sentence)  
+**pang beke a tanur.**
+– Bread bakes in the oven. (intransitive sentence)
+
+Serial verb construction is a string of verbs that share the same subject,
+which is before the verbs.
+In serial verb constructions the verbs are interpreted so that
+the first verb (an auxiliary verb) is something that the subject possesses
+and the second verb is something that the subject does (when there is an object in the end)
+or experiences (when there is no object).
+
+**mi bil kitabe la javabe.**  
+≈ *I have the ability to write the answer.*  
+– I can write the answer.  
+**mi halal kitabe la javabe.**  
+≈ *I have the permission to write the answer.*  
+– I may write the answer.  
+**mi mus kitabe la javabe.**  
+≈ *I have the compulsion to write the answer.*  
+– I must write the answer.
+
+Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
+
+**guru halal mi kitabe la javabe.**
+– The teacher permits me to write the answer.  
+**guru mus mi kitabe la javabe.**
+– The teacher compels me to write the answer.
+
+
 
 ## Prepositions
 

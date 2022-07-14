@@ -543,7 +543,7 @@ There are also a lot of country names that do not end in **-ia**.
 'photograph apparatus, camera'
 
 **-ude**
-'measure or degree' :  
+'level or degree' :  
 **dai**
 'big, great'
 → **dayude**
