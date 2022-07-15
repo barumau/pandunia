@@ -74,7 +74,7 @@ akaasia - babul
 akku (paristo) - batre  
 akseli - axe  
 aktinium - acinium  
-akvaario - pestanke  
+akvaario - pexotanke  
 ala (pinta-ala) - ar  
 ala- - subike  
 ala-aste - bazoxulkan  
@@ -175,6 +175,7 @@ asema (satama, lentokenttä) - porta
 asema (sijainti) - pozia  
 asema - statia  
 asento - asan  
+asevoimat (armeija) - armia  
 asia (juttu) - sualoteme  
 asia - xei  
 asia - relaje  
@@ -767,7 +768,7 @@ hyönteinen (ötökkä) - koncung
 hyöty (hyödyllisyys, etu; hyödyllinen) - faide  
 hyötyaines - faidaje  
 häh? - he  
-häkki - batonkapse  
+häkki - batonkase  
 hämmentää (sekoittaa; hämmennys, turbulenssi) - disturbe  
 hämmästys (ihmetys) - ajibia  
 hämähäkinverkko - aranonete  
@@ -1030,7 +1031,6 @@ kaksikielinen - duolinguike
 kaksimielinen (kaksimerkityksinen) - duplomene  
 kaksisiipinen - zeze  
 kaktus - katus  
-kalastaja - pesosaider  
 kalenteri - kalende  
 kalifaatti - halifia  
 kalifi - halif  
@@ -1080,6 +1080,7 @@ kantaa - porte
 kapinallinen - rebeler  
 kapinoida (kapina) - rebele  
 kapinointi (kapina) - rebelion  
+kapseli - kasule  
 kapteeni - nauxefe  
 karaatti - kirate  
 karaoke - karaoke  
@@ -1096,7 +1097,7 @@ kartta - karte
 karttakeppi - dikobaton  
 kasa (kasautua, kumuloitua) - kumule  
 kaseiini - kizoproten  
-kassa - kas  
+kassa (rahalipas) - kase (de mone)  
 kassanhoitaja - kaser  
 kassava (maniokki) - manioke  
 kastanja - kastan  
@@ -1277,7 +1278,6 @@ kloonata (monistaa) - klone
 klooni (identtinen kopio) - klon  
 kloori - klorium  
 koboltti - kobalte  
-koe (testi, yritys) - teste  
 kohdata (tulla yhteen) - konvene  
 kohtelias (kiltti) - keci  
 kohti (päin) - verse  
@@ -1291,7 +1291,7 @@ kokoelma - jamaje
 kokonaisuus - holia  
 kokonaisvaltainen (holistinen) - holike  
 kolera - holera  
-kolikko - pesodiske  
+kolikko - monete  
 kolmas (3.) - trime  
 kolme (3) - tri  
 kolmijako - tritome  
@@ -1528,14 +1528,14 @@ köynnös - skalotan
 laadukas (hyvä) - bonsife  
 laakso - vade  
 laastari - glutobende  
-laatikko - kapse  
+laatikko (lipas) - kase  
 laatikko - sanduke  
 laatta (levy, taulu) - table  
 laatu (laadukkuus, erinomaisuus, hyvyys) - bonsifia  
 Lagos - Lagos  
 lahja - donaje  
 lahjakortti - donajoceke  
-lahti - bai  
+lahti - haisake  
 lainata (siteerata) - cite  
 lainausmerkki - citomarke  
 laivakaappari - naukaper  
@@ -2180,7 +2180,7 @@ omistaja (pitäjä, hallussapitäjä) - maler
 ommella - sute  
 ongelma - problem  
 ongelmallinen - problemike  
-ongenkoukku - pesohuke  
+ongenkoukku - pexohuke  
 onnistua (mennä hyvin, menestyä) - sucese  
 onnitella (siunata) - barke  
 onomatopoeia (ääntä jäljittelevä sana) - fonomime  
@@ -2621,7 +2621,7 @@ radiolähetin - radi miser
 radiovastaanotin - radi geter  
 radium - radium  
 radon - radon  
-raha - pese  
+raha - mone  
 rahka - panir  
 raiskaus - zorsexe  
 raja - lime  
@@ -2642,6 +2642,7 @@ ranskankielinen maailma - Fransofonia
 raportoida (selostaa; raportti, selostus, selonteko) - reporte  
 rapsodia - rapsodia  
 rapu (taskurapu) - krabe  
+rasia (aski; kasetti) - kasete  
 rasismi (rotuoppi) - rasisme  
 rasisti - rasiste  
 raskaana (odottava) - hamile  
@@ -3188,7 +3189,6 @@ tapa (rutiini) - rutin
 tapa (tavallinen) - ade  
 tapa - mode  
 tapaaminen (kokoontuminen, kokous) - ajame  
-tapaus (seikka) - kas  
 tapetti - murkaguze  
 tappaa - mortife  
 tappaja - morter  
@@ -3273,7 +3273,7 @@ tervetuloa! - sal lai
 terveys (hyvinvointi) - sales  
 terveys (kunto) - salude  
 terävä (kimeä, nokkela, napakka, jne) - tiz:  
-tesla (T) - tesle  
+tesla (T) - tesla  
 Tethys - Tetis  
 teurastaa (lahdata) - buce  
 teurastaja - bucer  
@@ -3310,6 +3310,7 @@ todellinen (aito) - rel
 todellinen (aito) - rel  
 todellisuus - relia  
 todellisuus - relia  
+todistaa (testata) - teste  
 todistaa - dalile  
 todistaa - provere  
 todiste (todistus, osoitus, demonstraatio) - dalil  
@@ -3344,7 +3345,7 @@ tori (basaari) - bazar
 torium - torium  
 torni - tore  
 torstai - den nelu  
-torvi (torvisoitin) - buge  
+torvi (torvisoitin) - trompe  
 tosi (aito) - vere  
 tosi-TV - rel televizion  
 tosi-TV - rel televizion  
@@ -3363,6 +3364,7 @@ Trinidad ja Tobago - Trinidade e Tobago
 tripla (kolminkertainen) - triple  
 trooppinen - garmozonike  
 tropiikki - garmozone  
+trumpetti - trompete  
 tsetta- - zeta  
 tuhat (kilo-) - kilo  
 tuhka - hui  
@@ -3568,7 +3570,7 @@ vanginvartija - jeler
 vangita - jele  
 vanha (muinainen) - senike  
 vanhempi (isä tai äiti) - cin  
-vanilja - vanil  
+vanilja - vanila  
 vankila - jelokan  
 Vanuatu - Vanuatu  
 vanukas - puding  
@@ -3757,9 +3759,8 @@ vähentää - minife
 vähiten - minime  
 vähäinen - minure  
 vähän - xau  
-väite (teesi) - tese  
 väittely (debatti) - lon  
-väittää - tese  
+väittää (väite, teesi) - teze  
 väkivalta (pakko) - zor  
 väli - mide  
 Välimeri - Geomede Hai  
@@ -3837,7 +3838,7 @@ ymmärtää väärin - mesbude
 ympäristö- (luonto-) - eke  
 ympäröidä (piirittää) - sirke  
 ynnätä (summata) - sume  
-yrittää (kokeilla) - teste  
+yrittää (kokeilla, koettaa; koe, kokeilu) - probe  
 yritys (yhtiö) - kompania  
 yskä - kose  
 ystävyys - dostia  

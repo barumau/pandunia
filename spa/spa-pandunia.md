@@ -33,7 +33,6 @@ aceptable - okeyable
 aceptar - acepe  
 aciano (azulejo) - nilcentaur  
 aclarar (clarificar) - klarife  
-acontecimiento (caso, suceso, evento) - kas  
 acordar - samraye  
 acordarse - meme  
 acortar (abreviar) - korte  
@@ -48,7 +47,7 @@ actual - zay zaman su
 actualidad - zayaje  
 actuar (hacer un papel) - role  
 acuarela - suirang  
-acuario (pecera) - pestanke  
+acuario (pecera) - pexotanke  
 acuerdo - samrayia  
 acumular - kume  
 acuoso - suye  
@@ -234,7 +233,6 @@ arena - sable
 arenas movedizas - movosable  
 Argelia - Zayeria  
 Argentina - Argentin  
-argumentar (alegar) - tese  
 argumento - argum  
 argón - argon  
 aritmética (cálculos) - hisabia  
@@ -342,7 +340,7 @@ bah - fi
 Bahamas - Bahama  
 bahaísmo (fe bahá'i) - bahaisme  
 bahá'í - bahaiste  
-bahía - bai  
+bahía (golfo) - haisake  
 baile (danza) - danse  
 bajar - tale  
 bajo - tale  
@@ -511,7 +509,8 @@ café (cafetería) - kafe kan
 café - kafe  
 caimán (aligátor, yacaré) - kortokrokodil  
 caja (baúl, cofre, estuche) - sanduke  
-caja (caja registradora) - kas  
+caja - kase  
+caja registradora - kase (de mone)  
 caja torácica - sinakapse  
 cajero - kaser  
 cajón (gaveta) - tirsanduke  
@@ -599,6 +598,7 @@ casa (hogar, residencia; vivir, residir) - dom
 casamiento - gamia  
 casar - game  
 casco (yelmo) - sarkaske  
+casete - kasete  
 caseína - kizoproten  
 casi (aproximadamente) - a proxe  
 casta - genoklas  
@@ -710,7 +710,7 @@ civilización - sivilia
 civilizado - sivile  
 ciénaga (pantano) - fangostan  
 claro - klare  
-clarín (corneta) - buge  
+clarín (corneta) - trompe  
 clase (categoría) - klas  
 clasificar - klase  
 clavo (pincho, punta) - ding  
@@ -953,6 +953,7 @@ cuándo - ke sate
 cuántos - ke multe  
 cálculo - kalkulia  
 cámara - fotografomaxin  
+cápsula - kasule  
 cárcel - jelokan  
 Cáucaso - Kaukasia  
 célula - cel  
@@ -1075,7 +1076,7 @@ diferente - alosife
 dificultad (apuro, privación) - dushal  
 Dinamarca - Dania  
 dinamita - dinamite  
-dinero (plata) - pese  
+dinero (plata) - mone  
 diorita - diorite  
 dios - deu  
 dirección - adres  
@@ -1636,7 +1637,7 @@ Haití - Haiti
 halo (aureola) - fotosirke  
 hamaca - hamake  
 hambre - yamyau  
-hamo (anzuelo) - pesohuke  
+hamo (anzuelo) - pexohuke  
 hasio - hesium  
 hasta (también) - hato  
 hasta - hate  
@@ -1817,7 +1818,7 @@ inteligencia (intelecto) - intelige
 inteligencia artificial - artofete intelige (AI)  
 inteligible - inteligable  
 intenso (brusco, ácido, fuerte, afilado, rápido) - tiz:  
-intentar (probar) - teste  
+intentar (probar) - probe  
 intercambiar (canjear) - badle  
 interceptar - intercepe  
 interesado (curioso) - sabovole  
@@ -1888,7 +1889,7 @@ Japón - Nipon
 jarabe (sirope) - xirope  
 jarra - pote  
 Jartum - Hartum  
-jaula (caja) - batonkapse  
+jaula (caja) - batonkase  
 jazmín - malike  
 jazz - jaze  
 jefe - xefe  
@@ -2309,7 +2310,7 @@ molécula - molekul
 momentáneo - sate di  
 momia - mumjen  
 momia - mumike  
-moneda - pesodiske  
+moneda - monete  
 mongol - mongole  
 Mongolia - Mongolia  
 monismo - unemisme  
@@ -2727,7 +2728,6 @@ Perú - Peru
 pesa (báscula, balanza) - vezometrer  
 pesado - veze  
 pesar - vezu  
-pescador - pesosaider  
 pescar - kapa pes  
 pescar - yege pexe  
 peso (gravedad) - vezia  
@@ -3459,8 +3459,8 @@ terreno - geoforme
 terror - terure  
 terrorismo - terurisme  
 terrorista - teruriste  
-tesis - tese  
-tesla (T) - tesle  
+tesis - teze  
+tesla (T) - tesla  
 tesoro (precioso) - bau  
 tetera - caipote  
 texto - texte  
@@ -3545,6 +3545,7 @@ triple - triple
 triste (pena, tristeza) - duke  
 triste (trágico) - trage  
 triángulo - trigone  
+trompeta - trompete  
 trompo - rototope  
 trucha arcoíris - rangarkosalmon  
 trucha marrón - brunsalmon  
@@ -3616,7 +3617,7 @@ vacuna - vacin
 vacío (desocupado) - kale  
 vagina - vagine  
 vaginitis - vaginitis  
-vainilla - vanil  
+vainilla - vanila  
 valiente (heroico) - vire  
 valla (cerca) - kenarbaryer  
 valle - vade  

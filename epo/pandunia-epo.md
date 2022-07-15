@@ -172,7 +172,7 @@ bate - bati
 bate - ok (8)  
 bata - anaso  
 baton - stango  
-batonkapse - kaĝo  
+batonkase - kaĝo  
 batre - baterio (pilo)  
 bau - trezoro  
 bavite - juvelo  
@@ -669,6 +669,7 @@ hai - mara
 haiamirer - admiralo (ŝiparestro)  
 haigun - mararmeo  
 haiporta - haveno  
+haisake - golfo  
 haide - ni faru...  
 haima - tendo  
 Haiti - Haitio  
@@ -856,7 +857,7 @@ kanun - lego
 kanzar - ponardo  
 kape - kapti  
 • karaje - laboro  
-karokan - laborejo  
+• karokan - laborejo  
 • karer - laboristo  
 • konkare - kunlabori  
 karolexe - verbo  
@@ -1168,6 +1169,8 @@ mokomate - ligno
 mokozongoparke - arboĝardeno  
 molidenium - molibdeno  
 moluske - molusko  
+mone - mono  
+• monete - monero  
 mongole - mongola  
 Mongolia - Mongolio  
 monster - monstro  
@@ -1364,13 +1367,10 @@ pente - pentri
 pentobrox - peniko  
 pere - plumo  
 perde - furzo  
-pese - mono  
-pesodiske - monero  
-pesohuke - fiŝhoko  
-pesosaider - fiŝkaptisto  
 pete - ventro  
 peta - peta-  
 petre - roko  
+pexohuke - fiŝhoko  
 piano - piano  
 piaze - cepo  
 pige - kulo  

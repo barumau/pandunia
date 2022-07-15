@@ -222,7 +222,6 @@ bahaisme - bahaísmo (fe bahá'i)
 bahaiste - bahá'í  
 Bahama - Bahamas  
 Bahrain - baréin  
-bai - bahía  
 bake - blanco  
 bakocoi - col china  
 bakomargarite - margarita  
@@ -281,7 +280,7 @@ bata - pato
 batakrote - ornitorrinco  
 baton - barra (vara, palo)  
 baton - poste (estaca, palo)  
-batonkapse - jaula (caja)  
+batonkase - jaula (caja)  
 batonpang - baguette  
 batre - pila (batería)  
 bau - tesoro (precioso)  
@@ -414,7 +413,6 @@ bude - comprensión (entendimiento; concienciado, iluminado))
 Buda - Buda  
 bufete - bufé  
 bufon - bufón  
-buge - clarín (corneta)  
 bugete - presupuesto  
 buyu - baobab  
 buke - libro  
@@ -1144,6 +1142,7 @@ haigun - marina (armada)
 haihiyar - holoturia (pepino de mar)  
 haiporta - puerto marítimo  
 haitate - costa  
+haisake - bahía (golfo)  
 haide - vamos a  
 haima - carpa (toldo)  
 Haiti - Haití  
@@ -1508,9 +1507,11 @@ kartografia - cartografía
 Kartul - Georgia (República de Georgia)  
 karvan - caravana  
 karube - algarrobo  
-kas - acontecimiento (caso, suceso, evento)  
-kas - caja (caja registradora)  
-kaser - cajero  
+kase - caja  
+• kase (de mone) - caja registradora  
+• kasete - casete  
+• kaser - cajero  
+• kasule - cápsula  
 kaske - carapacho (cáscara, concha, corteza, capa)  
 kastan - castaña  
 kastor - castor  
@@ -2172,6 +2173,8 @@ mole - mol
 molekul - molécula  
 molidenium - molibdeno  
 moluske - molusco  
+mone - dinero (plata)  
+• monete - moneda  
 Monako - Mónaco  
 mongole - mongol  
 Mongolia - Mongolia  
@@ -2583,15 +2586,12 @@ pere - pluma
 perokardon - cardo burral  
 perde - pedo (peer)  
 Peru - Perú  
-pese - dinero (plata)  
-pesodiske - moneda  
-pesohuke - hamo (anzuelo)  
-pesosaider - pescador  
-pestanke - acuario (pecera)  
 pete - barriga (vientre, panza)  
 petre - roca (piedra)  
 • petrolojia - petrología  
 petronefte - petróleo  
+pexohuke - hamo (anzuelo)  
+pexotanke - acuario (pecera)  
 piano - piano  
 piaze - cebolla  
 picea - pícea  
@@ -2715,6 +2715,7 @@ preden - ayer
 prese - presión  
 • preser - prensa  
 pro - adelante  
+probe - intentar (probar)  
 problem - problema  
 • problemike - problemático  
 profeser - profesor  
@@ -3340,15 +3341,13 @@ terce - inclinar
 terce - oblicuo (torcido)  
 terme - temperatura  
 termometrer - termómetro  
-tese - tesis  
-tese - argumentar (alegar)  
-tesle - tesla (T)  
+tesla - tesla (T)  
 teste - prueba  
-teste - intentar (probar)  
 texe - tela (paño, tejido)  
 texe - tejer  
 texomaxin - telar  
 texte - texto  
+teze - tesis  
 ticin - instrumento de arco  
 • tikete - boleto  
 • retrotikete - billete de ida y vuelta  
@@ -3408,6 +3407,8 @@ trigone - triángulo
 tripike - tridente  
 tribe - tribu  
 Trinidade e Tobago - Trinidad y Tobago  
+trompe - clarín (corneta)  
+trompete - trompeta  
 truke - truco  
 truke - engañar  
 tu - tú (usted)  
@@ -3490,7 +3491,7 @@ vampir - vampiro
 vampirbalsenter - calamar vampiro  
 van: - bosque (selva)  
 vanadium - vanadio  
-vanil - vainilla  
+vanila - vainilla  
 Vanuatu - Vanuatu  
 vare - distintos (diversos)  
 varis - patrimonio (herencia, legado)  

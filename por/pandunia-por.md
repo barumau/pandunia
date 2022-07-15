@@ -118,7 +118,6 @@ badam - amêndoa
 bagaje - bagagem  
 bagre - tigre  
 bagroselote - gato-do-mato (gato-maracajá-mirim)  
-bai - baía  
 bake - branco  
 bakomargarite - margarita-maior  
 bakosalmon - salmão-cão (salmão-keta)  
@@ -156,7 +155,7 @@ batosenter - polvo
 bata - pato  
 baton - vara (bastão)  
 baton - poste (estaca)  
-batonkapse - gaiola (jaula)  
+batonkase - gaiola (jaula)  
 batre - pilha (bateria)  
 bau - precioso  
 bavite - pedra preciosa (gema)  
@@ -531,6 +530,7 @@ haigun - marinha
 haihiyar - pepino-do-mar (holotúrias)  
 haiporta - porto marítimo  
 haitate - costa  
+haisake - baía (golfo)  
 hake - direito  
 hal - estado  
 halo - alô  
@@ -704,6 +704,9 @@ karsolimon - combava
 karte - carta geográfica  
 kartografia - cartografia  
 karube - alfarroba  
+kase - caixa  
+• kasete - cassete  
+• kasule - cápsula  
 kaske - casca (concha)  
 katoglutoban - área de transferência  
 katane - espada  
@@ -991,6 +994,8 @@ mole - moer
 molite - mó  
 mole - mol  
 molidenium - molibdénio  
+mone - dinheiro  
+• monete - moeda  
 monte - montanha (monte)  
 • montaner - alpinista (montanhista)  
 mos - musgo  
@@ -1174,13 +1179,10 @@ pente - pintura
 pentobrox - pincel  
 perokardon - cardo-roxo  
 perde - peido (peidar)  
-pese - dinheiro  
-pesodiske - moeda  
-pesohuke - anzol  
-pesosaider - pescador  
 petre - rocha (pedra)  
 • petrolojia - petrologia  
 petronefte - petróleo  
+pexohuke - anzol  
 piaze - cebola  
 picea - pícea (espruce)  
 pike - ponta (pico, bico)  
@@ -1235,6 +1237,7 @@ prasedium - praseodímio
 preden - ontem  
 prese - pressão  
 • preser - prensa  
+probe - tentar (provar)  
 problem - problema  
 program - programa  
 projete - projeto  
@@ -1481,10 +1484,10 @@ tense - tenso
 terbium - térbio  
 terce - oblíquo (torto)  
 teste - teste  
-teste - tentar (provar)  
 texe - fazenda (tecido)  
 texomaxin - tear  
 texte - texto  
+teze - tese  
 • tikete - bilhete  
 • retrotikete - passagem de volta  
 tirlonge - estirar  
@@ -1514,6 +1517,7 @@ trete - acordo (tratado, contrato)
 • kontrete - pacto  
 tri - três (3)  
 • triple - triplo  
+trompete - trompete  
 truke - truque (fraude)  
 truke - enganar  
 tu - tu  

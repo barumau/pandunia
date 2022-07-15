@@ -112,7 +112,7 @@ bate - 八 (8)
 batosenter - タコ  
 bata - 鴨  
 baton - 杭  
-batonkapse - 檻 (篭, ケージ)  
+batonkase - 檻 (篭, ケージ)  
 batre - バッテリー  
 bavite - 宝石  
 baze bol - 野球  
@@ -894,6 +894,7 @@ mokotan - 丸木
 mole - モル  
 molekul - 分子  
 molidenium - モリブデン  
+mone - 金  
 mos - 苔  
 mosim - 季節  
 moskovium - モスコビウム  
@@ -1046,11 +1047,9 @@ pente - 絵の具 (ペンキ)
 pentobrox - 絵筆  
 perokardon - アメリカオニアザミ  
 perde - 屁  
-pese - 金  
-pesohuke - 釣り針  
-pesosaider - 漁師  
 • petrolojia - 岩石学  
 petronefte - 石油  
+pexohuke - 釣り針  
 piaze - 玉葱  
 picea - トウヒ  
 pike - 先  
@@ -1330,6 +1329,7 @@ terbium - テルビウム
 terce - 斜め  
 texe - 布  
 texomaxin - 織機  
+teze - 論題  (テーゼ)  
 tipe - 種類  
 tira pil - はがす (剥ぐ)  
 tirbaton - レバー (てこ)  
@@ -1354,6 +1354,8 @@ tren - 電車 (列車)
 trete - 合意  
 tri - 三 (3)  
 tripike - 三つまた (トライデント)  
+trompe - 喇叭  
+trompete - ランペット  
 truke - 悪戯 (詐欺)  
 truke - 騙す  
 tu - あなた  

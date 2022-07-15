@@ -149,7 +149,7 @@ bate - 八 (8)
 batosenter - 章鱼  
 bata - 鸭  
 baton - 桩  
-batonkapse - 笼  
+batonkase - 笼  
 batre - 电池  
 bau - 宝 (宝贵)  
 bavite - 宝石  
@@ -492,6 +492,7 @@ haigun - 海军
 haihiyar - 海參  
 haiporta - 海港  
 haitate - 海岸  
+haisake - 海湾  
 haima - 帐篷  
 hake - 权利  
 hal - 状态  
@@ -634,7 +635,7 @@ kantalupomelon - 鈔皮瓜
 kapotruke - 陷阱  
 kare - 工作  
 • karaje - 工作  
-karokan - 工厂  
+• karokan - 工厂  
 • karer - 工人 (工作者)  
 • konkare - 合作  
 karolexe - 动词  
@@ -901,6 +902,8 @@ molite - 磨石
 mole - 摩尔 (单位)  
 molekul - 分子  
 molidenium - 钼  
+mone - 钱  
+• monete - 硬币  
 monte - 山  
 mos - 苔藓  
 mosim - 季  
@@ -1055,12 +1058,9 @@ pente - 油漆 (颜料)
 pentobrox - 画笔  
 perokardon - 翼蓟  
 perde - 屁 (放屁)  
-pese - 钱  
-pesodiske - 硬币  
-pesohuke - 鱼钩  
-pesosaider - 鱼夫  
 • petrolojia - 岩石学  
 petronefte - 石油  
+pexohuke - 鱼钩  
 piaze - 洋葱  
 picea - 云杉  
 pike - 尖顶  
@@ -1317,9 +1317,9 @@ tenkenar - 地平线
 • terurisme - 恐怖行为  
 terbium - 铽  
 terce - 斜的  
-tese - 论据  
 teste - 化验  
 texe - 布料  
+teze - 论题   
 • tikete - 票  
 • retrotikete - 往返票  
 tim - 队  
@@ -1346,6 +1346,7 @@ trete - 合同 (合约)
 • kontrete - 公約  
 tri - 三 (3)  
 tripike - 三叉戟  
+trompe - 喇叭  
 truke - 伎俩  
 truke - 耍花招  
 tu - 你  
@@ -1379,6 +1380,7 @@ valse - 华尔兹
 vampir - 吸血鬼  
 van: - 森林  
 vanadium - 钒  
+vanila - 香草  
 vare - 各种各样  
 vate - 物体 (物品)  
 vaxurse - 浣熊  

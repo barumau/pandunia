@@ -161,7 +161,7 @@ bate - восемь (8)
 batosenter - спрут (осьминог)  
 baton - штанга  
 baton - кол  
-batonkapse - клетка  
+batonkase - клетка  
 batre - батарея  
 bau - сокровище (казна; драгоценный)  
 bavite - драгоценный камень  
@@ -566,6 +566,7 @@ haicau - морские травы
 haiful - морские анемоны  
 haigun - военно-морской флот  
 haihiyar - голотурия (морские огурц)  
+haisake - залив  
 haima - палатка (шатёр)  
 hal - состояние (статус)  
 halo - алло  
@@ -734,6 +735,8 @@ karsolimon - лима (каффир-лайм)
 karte - карта  
 kartografia - картография  
 karube - рожковое дерево  
+• kasete - кассета  
+• kasule - капсула  
 kaske - оболочка (кора, панцирь)  
 katoglutoban - буфер обмена  
 katane - меч  
@@ -1014,6 +1017,8 @@ mole - молоть
 molite - жёрнов  
 molidenium - молибден  
 moluske - моллюск  
+mone - деньги  
+• monete - монета  
 • montaner - альпинист (скалолаз)  
 • posmortal - после смерти  
 mos - мох  
@@ -1199,12 +1204,9 @@ pentobrox - кисть
 pere - перо  
 perokardon - бодяк обыкновенный  
 perde - пердение (пердеть)  
-pese - деньги  
-pesodiske - монета  
-pesohuke - крючок  
-pesosaider - рыбак (рыболов)  
 petre - горная порода  
 petronefte - нефть  
+pexohuke - крючок  
 piaze - лук  
 picea - ель  
 pike - кончик (остриё, пик)  
@@ -1259,6 +1261,7 @@ pre - раньше
 preden - вчера  
 prese - давление (нажим)  
 • preser - пресс  
+probe - пытаться (пробовать; проба)  
 problem - проблема  
 • problemike - проблематичный  
 program - программа  
@@ -1539,10 +1542,10 @@ tepe - лента
 • terurisme - терроризм  
 terbium - тербий  
 terce - косой  
-tese - довод  
 teste - проба (тест)  
 texe - ткань  
 texomaxin - ткацкий станок  
+teze - тезис (положение)  
 • tikete - билет  
 tim - команда  
 tira milke - тянуть  
@@ -1574,6 +1577,7 @@ trete - договор
 • kontrete - контракт  
 tri - три (3)  
 tripike - трезубец  
+trompete - труба  
 truke - обман  
 truke - обмануть  
 tu - ты  
@@ -1609,6 +1613,7 @@ vampir - вампир (упырь)
 vampirbalsenter - адский вампир  
 van: - лес  
 vanadium - ванадий  
+vanila - ваниль  
 vase - оазис  
 vate - статья (предмет)  
 vava bebe - плакса  

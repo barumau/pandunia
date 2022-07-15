@@ -194,6 +194,7 @@ arker - archer
 arkeria - archery  
 arkocate - vault (arched ceiling or roof)  
 arme - weapon (arms)  
+armia - armed forces (army)  
 arome - flavor (aroma)  
 aromu - smell (reek)  
 aromomelon - Korean melon  
@@ -287,7 +288,6 @@ bahaisme - Baha'ism
 bahaiste - Baha'ist  
 Bahama - Bahamas  
 Bahrain - Bahrain  
-bai - bay (gulf)  
 bake - white  
 bakocoi - bok choy  
 bakomargarite - oxeye daisy  
@@ -350,7 +350,7 @@ bata - duck
 batakrote - platypus  
 baton - bar (pole, rod, shaft, staff, stick)  
 baton - post (stake, peg, skewer)  
-batonkapse - cage  
+batonkase - cage  
 batonpang - baguette  
 batre - battery  
 bau - treasure (valuables; precious)  
@@ -496,7 +496,6 @@ Buda - Buddha
 Budapext - Budapest  
 bufete - buffet (smorgasbord)  
 bufon - fool (buffoon)  
-buge - bugle (horn instrument)  
 bugete - budget  
 buyu - baobab  
 buke - book  
@@ -1411,6 +1410,7 @@ haihiyar - sea cucumber
 hainile - aqua (teal)  
 haiporta - harbor (seaport)  
 haitate - coast (beach)  
+haisake - bay (gulf, bight)  
 haide - let's  
 haima - tent  
 Haiti - Haiti  
@@ -1769,7 +1769,7 @@ kamre - Welsh
 Kamria - Wales (Cambria)  
 kan - shop (store or workshop)  
 Kanade - Canada  
-kanal - channel  
+kanal - channel (canal)  
 kanale - channel (conduct)  
 kanaler - conduit (channel)  
 kanape - sofa (couch)  
@@ -1791,10 +1791,9 @@ kanzar - dagger
 kape - catch (capture, seize, snatch, intercept)  
 kapa pes - catch fish  
 kapotruke - trap (snare)  
-kapse - box (container)  
 kare - work  
 • karaje - work (job, task)  
-karokan - workshop  
+• karokan - workshop  
 • karer - worker  
 • duskar - misdeed (sin, vice)  
 • konkare - collaborate (work together)  
@@ -1830,9 +1829,11 @@ kartografia - cartography
 Kartul - Georgia (Republic of Georgia)  
 karvan - caravan (convoy)  
 karube - carob (St. John's bread)  
-kas - event (case, instance)  
-kas - cash box  
-kaser - cashier  
+kase - box (container, case)  
+• kase (de mone) - cash box  
+• kasete - cassette  
+• kaser - cashier  
+• kasule - capsule  
 kaske - shell (crust, carapace)  
 kastan - chestnut  
 kastor - beaver  
@@ -2614,6 +2615,8 @@ mole - mole (unit)
 molekul - molecule  
 molidenium - molybdenum  
 moluske - mollusk  
+mone - money  
+• monete - coin  
 Monako - Monaco  
 mongole - Mongol  
 Mongolia - Mongolia  
@@ -3107,16 +3110,13 @@ pere - feather
 perokardon - spear thistle  
 perde - fart (flatulence)  
 Peru - Peru  
-pese - money  
-pesodiske - coin  
-pesohuke - fishhook  
-pesosaider - fisher  
-pestanke - fish tank  
 pete - belly (stomach, abdomen)  
 peta - peta-  
 petre - rock  
 • petrolojia - petrology  
 petronefte - petroleum  
+pexohuke - fishhook  
+pexotanke - fish tank  
 piano - piano  
 piaze - onion  
 picea - spruce tree  
@@ -3270,6 +3270,7 @@ prese - press (pressure)
 • suboprese - suppress (press down)  
 pro - forward  
 • pro- - forward (to the front)  
+probe - try (attempt, test, give a go, check out, probe)  
 problem - problem (issue)  
 • problemike - problematic  
 profeser - professor  
@@ -3988,12 +3989,9 @@ terce - tilt (skew)
 terce - oblique (askew, tilted)  
 terme - temperature  
 termometrer - thermometer  
-tese - argument (thesis)  
-tese - argue (claim)  
-• sintese - synthesis (joint thesis)  
-tesle - tesla (T)  
-teste - test (try, attempt)  
-teste - try (attempt)  
+• sinteze - synthesis (joint thesis)  
+tesla - tesla (T)  
+teste - prove (test, witness)  
 Tetis - Tethys  
 texe - cloth (fabric, textile)  
 texe - weave  
@@ -4002,6 +4000,7 @@ texte - text
 • intertexte - intertextual  
 • kontexte - context  
 • kontexti - contextual  
+teze - claim (thesis, statement)  
 ticin - bow instrument (violin, etc.)  
 tike - slice  
 • tikete - ticket (slip)  
@@ -4082,6 +4081,8 @@ tripike - trident
 tribe - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
 Triton - Triton  
+trompe - bugle (horn instrument)  
+trompete - trumpet  
 truke - trick (ruse, fraud)  
 truke - trick (cheat, deceive)  
 tu - you (singular)  
@@ -4172,7 +4173,7 @@ vampir - vampire
 vampirbalsenter - vampire squid  
 van: - forest (woods)  
 vanadium - vanadium  
-vanil - vanilla  
+vanila - vanilla  
 Vanuatu - Vanuatu  
 vare - various (diverse, miscellaneous)  
 varis - heritage (legacy, bequest)  
@@ -4275,7 +4276,7 @@ viole - violin (fiddle)
 violete - purple (violet)  
 vir - hero  
 vire - heroic  
-virge - virgin (pristine, virginal)  
+virge - virgin (pristine, virginal; Virgo)  
 Virgin nesia - Virgin Islands, US  
 virus - virus  
 viruslojia - virology  

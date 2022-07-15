@@ -194,7 +194,6 @@ bagaje - bagage
 bagre - tigre  
 bagroselote - oncille  
 bah - bah  
-bai - baie (golf)  
 bake - blanc  
 bakomargarite - marguerite  
 bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)  
@@ -251,7 +250,7 @@ bate - huit (8)
 batosenter - Poulpe (pieuvre)  
 baton - bâton (canne, tige)  
 baton - pieu (poteau)  
-batonkapse - cage  
+batonkase - cage  
 batre - pile (batterie)  
 bau - précieux  
 bavite - pierre précieuse (joyau)  
@@ -678,6 +677,7 @@ haigel - méduse
 haigun - force navale (marine)  
 haihiyar - concombre de mer  
 haitate - côte  
+haisake - baie (golf)  
 haima - tente  
 Haiti - Haïti  
 hake - droit  
@@ -869,6 +869,8 @@ karsolimon - combava
 karte - carte  
 kartografia - cartographie  
 karube - caroube  
+• kasete - cassette  
+• kasule - capsule  
 kaske - carapace (coquille, coquillage, croûte)  
 katoglutoban - presse-papier  
 katane - épée  
@@ -1164,6 +1166,8 @@ mole - moudre
 molite - meule  
 mole - mole (unité)  
 molidenium - molybdène  
+mone - argent  
+• monete - monnaie (pièce)  
 • montaner - alpiniste  
 mos - mousse  
 mosim - saison  
@@ -1362,13 +1366,10 @@ pente - peindre
 pentobrox - pinceau  
 perokardon - cirse commun  
 perde - pet (vesse; péter)  
-pese - argent  
-pesodiske - monnaie (pièce)  
-pesohuke - hameçon  
-pesosaider - pêcheur  
 petre - roche (pierre)  
 • petrolojia - pétrologie  
 petronefte - pétrole (essence)  
+pexohuke - hameçon  
 piaze - oignon  
 picea - épicéa  
 pike - bout (pointe, pic)  
@@ -1717,7 +1718,6 @@ tepe - ruban (bande)
 • terurisme - terrorisme  
 terbium - terbium  
 terce - oblique (de travers)  
-tese - argument  
 teste - épreuve (test)  
 texe - tissu  
 texte - texte  
@@ -1757,6 +1757,7 @@ trete - contract (traité)
 • kontrete - convention (alliance, pacte)  
 tri - trois (3)  
 • triple - triple  
+trompete - trompette  
 truke - ruse  
 truke - escroquer  
 tu - tu  
@@ -1795,6 +1796,7 @@ vampir - vampire
 vampirbalsenter - vampire des abysses  
 van: - forêt  
 vanadium - vanadium  
+vanila - vanille  
 vare - divers (plusieurs)  
 varkalge - varech  
 varkolate - page  

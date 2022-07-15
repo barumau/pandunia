@@ -200,12 +200,11 @@ area (region) - aria
 area of thinking or being - ia  
 Argentina - Argentin  
 argon - argon  
-argue (claim) - tese  
 argument (rationale, grounds) - argum  
-argument (thesis) - tese  
 Ariel - Ariel  
 arithmetics - hisabia  
 arm - handange  
+armed forces (army) - armia  
 Armenia - Hayastan  
 armor (shielding) - defkaske  
 army - gun  
@@ -350,7 +349,7 @@ bathroom - banyakamar
 battalion - batalon  
 battery - batre  
 battle - batal  
-bay (gulf) - bai  
+bay (gulf, bight) - haisake  
 be - e  
 be about (discuss as a subject) - teme  
 be beside (accompany) - late  
@@ -495,7 +494,7 @@ bounce - boing
 bow (arch, arc) - arke  
 bow instrument (violin, etc.) - ticin  
 box (chest) - sanduke  
-box (container) - kapse  
+box (container, case) - kase  
 boxer - bokser  
 boxer shorts (boxers) - bokserpante  
 boxing - bokse  
@@ -534,7 +533,7 @@ Buddhism - budisme
 Buddhist - budiste  
 budget - bugete  
 buffet (smorgasbord) - bufete  
-bugle (horn instrument) - buge  
+bugle (horn instrument) - trompe  
 build (building) - bine  
 build in (instruct) - instrute  
 building - strute  
@@ -575,7 +574,7 @@ cactus - katus
 cadmium - kadium  
 caesium - cesium  
 cafe (coffee shop) - kafe kan  
-cage - batonkapse  
+cage - batonkase  
 cake (cookie) - keke  
 calabash - suikaboge  
 calcite - kalsite  
@@ -613,6 +612,7 @@ Cantalupo in Sabina - Kantalupo va Sabine
 canter and gallop - galope  
 canyon (ravine, gorge, gully) - kanyon  
 cape (cloak, mantle) - mantol  
+capsule - kasule  
 captain - nauxefe  
 capture (seizure) - cepure  
 car (cart, carriage, wagon, automobile) - gar  
@@ -635,9 +635,10 @@ carrot - karote
 carry (bear) - porte  
 cartography - kartografia  
 casein - kizoproten  
-cash box - kas  
+cash box - kase (de mone)  
 cashier - kaser  
 cassava (manioc) - manioke  
+cassette - kasete  
 caste - genoklas  
 castle (fortress, stronghold) - burge  
 cat - mau  
@@ -678,8 +679,8 @@ Champagne - xampan
 champagne - xampan vin  
 champion - campion  
 change (alter, convert) - mute  
+channel (canal) - kanal  
 channel (conduct) - kanale  
-channel - kanal  
 chant - mantre  
 chaos (disorder, turmoil) - haos  
 chapter (section) - babu  
@@ -745,6 +746,7 @@ civil - sivile
 civilian - sivilian  
 civilization - sivilia  
 civilized (civil) - sivile  
+claim (thesis, statement) - teze  
 clairvoyance - klarvide  
 clairvoyant - klarvider  
 clap - ploze  
@@ -799,7 +801,7 @@ coffee - kafe
 coffee cup - kafe kupe  
 coffeepot - kafe pote  
 cognition - konnosion  
-coin - pesodiske  
+coin - monete  
 cola - kola jus  
 cola - kole  
 cold (common cold) - zukam  
@@ -1346,7 +1348,6 @@ even (implying extreme example) - hato
 even (level, peer, equal) - pare  
 even number - pari numbe  
 evening - suar  
-event (case, instance) - kas  
 every (each) - panun  
 everybody (everyone) - pan jen  
 everything - pan xe  
@@ -1482,9 +1483,8 @@ fire (burning) - hoge
 fireworks (pyrotechnics) - hogotehne  
 firm (steady) - firme  
 first (number one) - unime  
-fish tank - pestanke  
-fisher - pesosaider  
-fishhook - pesohuke  
+fish tank - pexotanke  
+fishhook - pexohuke  
 fit (adapt, adjust, make suitable) - hape  
 fit (suit, be suitable) - hapu  
 five (5) - lime  
@@ -2558,7 +2558,7 @@ mom (mama) - ma
 momentary - sate di  
 Monaco - Monako  
 Monday - den un  
-money - pese  
+money - mone  
 Mongol - mongole  
 Mongolia - Mongolia  
 mongoose - mungus  
@@ -3237,6 +3237,7 @@ protactinium - protacinium
 protein - proten  
 prove (demonstrate, show, instruct) - doke  
 prove (demonstrate, testify) - dalile  
+prove (test, witness) - teste  
 prove (verify, authenticate) - provere  
 provoke - provoke  
 proximity - proxia  
@@ -3920,7 +3921,7 @@ symmetrical - sammetre
 symmetry - sammetria  
 symphony - sinfone  
 synchretism - sinkredisme  
-synthesis (joint thesis) - sintese  
+synthesis (joint thesis) - sinteze  
 Syria - Suria  
 syrup - xirope  
 system - sistem  
@@ -4008,8 +4009,7 @@ terrify - terife
 terror - terure  
 terrorism - terurisme  
 terrorist - teruriste  
-tesla (T) - tesle  
-test (try, attempt) - teste  
+tesla (T) - tesla  
 Tethys - Tetis  
 text - texte  
 Thai - Tai  
@@ -4152,11 +4152,12 @@ tropical - garmozonike
 tropics - garmozone  
 true (real, genuine) - vere  
 truly (indeed, very) - a vere  
+trumpet - trompete  
 trunk (torso) - torse  
 trust (rely) - krede  
 trust (surely, verily, amen) - amen  
 trustee - bekrede  
-try (attempt) - teste  
+try (attempt, test, give a go, check out, probe) - probe  
 tube (pipe) - tube  
 tuber (bulb) - masmul  
 Tuesday - den du  
@@ -4258,7 +4259,7 @@ valve (tap, faucet) - kran
 vampire - vampir  
 vampire squid - vampirbalsenter  
 vanadium - vanadium  
-vanilla - vanil  
+vanilla - vanila  
 Vanuatu - Vanuatu  
 various (diverse, miscellaneous) - vare  
 vault (arched ceiling or roof) - arkocate  
@@ -4293,7 +4294,7 @@ vinegar - vinsuan
 vinyl - vinil  
 violin (fiddle) - viole  
 violinist - violiste  
-virgin (pristine, virginal) - virge  
+virgin (pristine, virginal; Virgo) - virge  
 Virgin Islands, US - Virgin nesia  
 virology - viruslojia  
 virtue (morals) - bondeke  

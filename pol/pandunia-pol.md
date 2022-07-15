@@ -190,7 +190,6 @@ bahaisme - bahaizm
 bahaiste - bahaista  
 Bahama - Bahamy  
 Bahrain - Bahrajn  
-bai - zatoka  
 bake - biały  
 bakocoi - kapusta pekińska  
 bakomargarite - jastrun właściwy  
@@ -246,7 +245,7 @@ bata - kaczka
 batakrote - dziobak  
 baton - pręt, kij  
 baton - słup (pal, kołek)  
-batonkapse - klatka  
+batonkase - klatka  
 batonpang - bagietka  
 batre - bateria  
 bau - skarb (skrabiec; cenny)  
@@ -365,7 +364,6 @@ bude - uświadomienie, świadomość; oświecenie, bodhi
 Buda - Budda  
 bufete - bufet (szwedzki stół)  
 bufon - głupiec, bufon  
-buge - róg  
 bugete - budżet  
 buyu - baobab  
 buke - książka  
@@ -1031,6 +1029,7 @@ haihiyar - strzykwa
 hainile - morskoniebieski  
 haiporta - port morski (przystań)  
 haitate - wybrzeże (plaża)  
+haisake - zatoka  
 haide - niech my, hajda  
 haima - namiot  
 Haiti - Haiti  
@@ -1374,9 +1373,8 @@ karte - mapa
 kartografia - kartografia  
 Kartul - Gruzja (Republika Gruzji)  
 karvan - karawana  
-kas - wydarzenie, przypadek, sytuacja  
-kas - pudełko, skrzynia  
-kaser - kasjer  
+• kase (de mone) - pudełko, skrzynia  
+• kaser - kasjer  
 kaske - skorupa (pancerz, muszla)  
 kastan - kasztan  
 kastor - bóbr  
@@ -2010,6 +2008,8 @@ mole - mol
 molekul - molekuła (cząsteczka)  
 molidenium - molibden  
 moluske - mięczak (morski bezkręgowiec)  
+mone - pieniądze  
+• monete - moneta  
 Monako - Monako  
 mongole - Mongolski  
 Mongolia - Mongolia  
@@ -2381,14 +2381,11 @@ pere - pióro
 perokardon - ostrożeń lancetowaty  
 perde - pierdnięcie (pierdzieć)  
 Peru - Peru  
-pese - pieniądze  
-pesodiske - moneta  
-pesohuke - haczyk  
-pesosaider - rybak  
-pestanke - akwarium  
 pete - brzuch  
 petre - skała  
 petronefte - ropa naftowa  
+pexohuke - haczyk  
+pexotanke - akwarium  
 piano - pianino  
 piaze - cebula  
 picea - świerk  
@@ -2497,6 +2494,7 @@ pre - poprzedni
 preden - wczoraj  
 • konprese - ścisnąć (sciskać, wycisnąć)  
 pro - naprzód  
+probe - spróbować, próbować  
 problem - problem  
 • problemike - problematyczny  
 profeser - profesor  
@@ -3072,15 +3070,13 @@ terce - przechylać (przechylić, wychylać, wychylić)
 terce - skośny (ukośny, pochyły)  
 terme - temperatura  
 termometrer - termometr  
-tese - argument, teza  
-tese - dyskutoać, twierdzić  
-tesle - tesla (T)  
+tesla - tesla (T)  
 teste - test, wyzwanie, próba  
-teste - spróbować, próbować  
 texe - tkanina (materiał, sukno)  
 texe - tkać (pleść)  
 texomaxin - krosno  
 texte - tekst  
+teze - dyskutovać (twierdzić; argument, teza)  
 ticin - chordofon, instrument strunowy  
 • tikete - bilet  
 • retrotikete - bilet powrotny  
@@ -3129,6 +3125,7 @@ trigone - trójkąt
 tripike - trójząb  
 tribe - plemię  
 Trinidade e Tobago - Trynidad i Tobago  
+trompe - róg  
 truke - sztuczka (podstęp, oszustwo)  
 truke - oszukać (oszukiwać  
 tu - ty, ciebie  
@@ -3205,7 +3202,7 @@ vampir - wampir
 vampirbalsenter - wampirzyca piekielna (wampirnica)  
 van: - las (zagajnik)  
 vanadium - wanad  
-vanil - wanilia  
+vanila - wanilia  
 Vanuatu - Vanuatu  
 vare - różny (różnorodny)  
 varis - spadek, dziedzictwo, spuścizna, zapis  

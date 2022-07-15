@@ -30,7 +30,7 @@ aktualizować (zaktualizować, ulepszać, ulepszyć) - bondarge
 aktyn - acinium  
 aktywować (włączyć, uruchomić) - ative  
 akwarela (farba wodna) - suirang  
-akwarium - pestanke  
+akwarium - pexotanke  
 Alaska - Alaska  
 Albania - Cipia  
 ale, lecz - ama  
@@ -88,7 +88,6 @@ architektura - binoplania
 Argentyna - Argentin  
 argon - argon  
 argument - argum  
-argument, teza - tese  
 Arktyka - Artike  
 Armenia - Hayastan  
 armia - gun  
@@ -518,7 +517,7 @@ dyrektor szkoły - xuloxefe
 dysk - diske  
 dyskretny (cyfrowy, kwantowy) - feni  
 dyskusja, debata, dyskurs - lon  
-dyskutoać, twierdzić - tese  
+dyskutovać (twierdzić; argument, teza) - teze  
 dysproz - disprosium  
 dystans - tel  
 dystans - telia  
@@ -800,7 +799,7 @@ głębokość - fasotelia
 
 ## H  
 
-haczyk - pesohuke  
+haczyk - pexohuke  
 hafn - hafnium  
 Haiti - Haiti  
 hak - huke  
@@ -1097,7 +1096,7 @@ kiur - kurium
 klapa - padomun  
 klasa, kategoria - klas  
 klasyfikować, kategoryzować - klase  
-klatka - batonkapse  
+klatka - batonkase  
 klatka piersiowa - sinakapse  
 klaun - payace  
 klawiatura - butonban  
@@ -1563,7 +1562,7 @@ molekuła (cząsteczka) - molekul
 molibden - molidenium  
 Monako - Monako  
 monarchia - autokratia  
-moneta - pesodiske  
+moneta - monete  
 Mongolia - Mongolia  
 Mongolski - mongole  
 monizm - unemisme  
@@ -1987,7 +1986,7 @@ piekarnia - bekokan
 piekarz - beker  
 piekło - narake  
 pielęgnować, leczyć - kure  
-pieniądze - pese  
+pieniądze - mone  
 pieprz - pipre  
 pieprz długi - longopipre  
 pierdnięcie (pierdzieć) - perde  
@@ -2312,7 +2311,7 @@ pszczoła miodna - maduvespe
 pszenica - ganum  
 ptak - pakse  
 puder - mukofun  
-pudełko, skrzynia - kas  
+pudełko, skrzynia - kase (de mone)  
 puding - puding  
 pudło, skrzynia - sanduke  
 puma (kuguar) - puma  
@@ -2459,7 +2458,6 @@ rutherford - ruterfordium
 rutyna, nawyk, zwyczaj - rutin  
 Rwanda - Ruanda  
 ryba rozdymkowata - balonpes  
-rybak - pesosaider  
 rym (wers) - rim  
 rynek, bazar - bazar  
 rysunek, obraz - desen  
@@ -2489,8 +2487,8 @@ rządzić - polite
 rządzić, władać - kratia  
 rządzić, władać - sulte  
 rzęsa - okokex  
-róg - buge  
 róg - korne  
+róg - trompe  
 równik - geoparline  
 równina (plaskowyż, plateau) - platostan  
 równoległy (podłużny) - parline  
@@ -2652,7 +2650,7 @@ sprawiedliwy - adal
 sprzeciwiać się (opierać się) - xate  
 sprzedać (sprzedawać) - vende  
 sprzątacz, sprzątacz - safer  
-spróbować, próbować - teste  
+spróbować, próbować - probe  
 spód - sube  
 spódnica - skerte  
 spółgłoska - kenarfon  
@@ -2878,7 +2876,7 @@ terror - terure
 terrorysta - teruriste  
 terroryzm - terurisme  
 Terytorium Palestyńskie - Filistin  
-tesla (T) - tesle  
+tesla (T) - tesla  
 test, wyzwanie, próba - teste  
 tikka masala - masali tike  
 Timor - Timor  
@@ -3034,7 +3032,7 @@ walka, wojna - jeng
 wampir - vampir  
 wampirzyca piekielna (wampirnica) - vampirbalsenter  
 wanad - vanadium  
-wanilia - vanil  
+wanilia - vanila  
 wapień - kalsopetre  
 wapno - kalsomate  
 wapń - kalsium  
@@ -3195,7 +3193,6 @@ Wybrzeże Kości Słowniowej - Kote Da Ivar
 wybuch (eksplodować, wybuchnąć, wybuchać) - bum  
 wybuch (eksplozja) - exploze  
 wycie, skowyt - ulul  
-wydarzenie, przypadek, sytuacja - kas  
 wydoić, doić - tira milke  
 wydra - lontre  
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurve  
@@ -3314,7 +3311,7 @@ zaskoczenie - suprize
 zastosowanie (zasób; użyteczny, pomocny, przydatny, pożyteczny, korzystny) - faide  
 zastrzyk - injete  
 zasłona, kurtyna - janelovel  
-zatoka - bai  
+zatoka - haisake  
 zatrzymać (stop, przerwa, zatrzymanie) - halte  
 zatyczka (korek, szpunt; zatkać, ztykać, blokować, hamować) - tape  
 zawias, oś - xarnir  

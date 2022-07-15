@@ -78,7 +78,7 @@ anis - anis
 anormal - annorme  
 antibélico - antigere  
 antimónio - stibium  
-anzol - pesohuke  
+anzol - pexohuke  
 análise - fenkate  
 aperfeiçoar - purbone  
 apodrecer-se - pudu  
@@ -172,7 +172,7 @@ basketball - baske bol
 bastante (suficiente) - bas  
 batalha - batal  
 batalhão - batalon  
-baía - bai  
+baía (golfo) - haisake  
 bebê - bebe  
 beleza - meyia  
 beligerante - belente  
@@ -229,6 +229,7 @@ cacto - katus
 cafeteira - kafe pote  
 café - kafe  
 café - kafe kan  
+caixa - kase  
 cal - kalsomate  
 calcita - kalsite  
 calcular - hisabe  
@@ -275,6 +276,7 @@ casa (lar) - dom
 casa de campo (vila) - vile  
 casca (concha) - kaske  
 cascalho - grave  
+cassete - kasete  
 castanho (marrom) - brune  
 catchup - kecape  
 cavar (escavar) - kave  
@@ -405,6 +407,7 @@ curry - kari
 cádmio - kadium  
 cálcio - kalsium  
 cápsico - cili  
+cápsula - kasule  
 cão (cachorro) - vaf  
 célula sanguínea - hemocel  
 cério - ceresium  
@@ -456,7 +459,7 @@ dicotomia - duotome
 dicção - dition  
 digital - feni  
 dinamite - dinamite  
-dinheiro - pese  
+dinheiro - mone  
 diorito - diorite  
 directionar (apontar, mirar; direção; objetivo) - dike  
 direito - hake  
@@ -655,7 +658,7 @@ fósforo - pospor
 ## G  
 
 gadolínio - gadolinium  
-gaiola (jaula) - batonkapse  
+gaiola (jaula) - batonkase  
 galope - galope  
 galáxia - galaxia  
 gamão - narde  
@@ -978,7 +981,7 @@ miragem - miraje
 missionário - misioner  
 missão - mision  
 modo (maneira, jeito) - mode  
-moeda - pesodiske  
+moeda - monete  
 moenda (moinho) - molokan  
 moer - mole  
 mol - mole  
@@ -1185,7 +1188,6 @@ perturbar (turbulência) - disturbe
 peru - dinde  
 pesado - veze  
 pesar - vezu  
-pescador - pesosaider  
 pescoço (nuca, gargalo) - nuke  
 pessoa - jen  
 petrologia - petrolojia  
@@ -1513,7 +1515,7 @@ tender - ive
 tendência - ivia  
 tennessine - tenesium  
 tenso - tense  
-tentar (provar) - teste  
+tentar (provar) - probe  
 tentáculo - senter  
 teosofia - deusofia  
 ter (achar, receber) - dege  
@@ -1524,6 +1526,7 @@ terracota - bekofan
 terraplanista - platogeiste  
 terreno - geoforme  
 terça-feira - den du  
+tese - teze  
 teste - teste  
 texto - texte  
 tigre - bagre  
@@ -1557,6 +1560,7 @@ trazer - laiane
 tribunal - judokan  
 trigo - ganum  
 triplo - triple  
+trompete - trompete  
 truque (fraude) - truke  
 truta-arco-íris - rangarkosalmon  
 truta-marrom - brunsalmon  

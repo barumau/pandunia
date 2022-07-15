@@ -177,6 +177,7 @@ arker - jousiampuja
 arkeria - jousiammunta  
 arkocate - holvikatto  
 arme - ase  
+armia - asevoimat (armeija)  
 aromu - haista  
 arsene - arseeni  
 arte - taide  
@@ -261,7 +262,6 @@ bahaisme - bahailaisuus
 bahaiste - bahailainen  
 Bahama - Bahama-saaret  
 Bahrain - Bahrain  
-bai - lahti  
 bake - valkoinen (valkea)  
 bale - voimakas (vahva)  
 • balia - voima  
@@ -316,7 +316,7 @@ batosenter - mustekala
 bata - sorsa (ankka)  
 batakrote - vesinokkaeläin  
 baton - tanko (sauva, patukka)  
-batonkapse - häkki  
+batonkase - häkki  
 batonpang - patonki (ranskanleipä)  
 batre - akku (paristo)  
 bau - aarre (arvokas)  
@@ -453,7 +453,6 @@ Buda - Buddha
 Budapext - Budapest  
 bufete - noutopöytä (buffetti)  
 bufon - hölmö (narri)  
-buge - torvi (torvisoitin)  
 bugete - budjetti  
 buyu - apinanleipäpuu (baobab)  
 buke - kirja  
@@ -1245,6 +1244,7 @@ hai - meri- (merellinen)
 haiamirer - amiraali  
 haigun - merivoimat (sotalaivasto)  
 haiporta - satama  
+haisake - lahti  
 haide - tehkäämme  
 haima - teltta  
 Haiti - Haiti  
@@ -1579,10 +1579,9 @@ kante - olkapää (hartia)
 kanun - laki  
 kanzar - tikari  
 kape - ottaa kiinni (napata, kaapata)  
-kapse - laatikko  
 kare - työskennellä  
 • karaje - työ (tehtävä)  
-karokan - paja (työpaja)  
+• karokan - paja (työpaja)  
 • karer - työntekijä (työläinen)  
 • duskar - synti (paha teko)  
 • konkare - tehdä yhteistyötä  
@@ -1610,9 +1609,11 @@ kartografia - kartogratia
 Kartul - Georgia  
 karvan - karavaani (saattue)  
 karube - johanneksenleipäpuu  
-kas - tapaus (seikka)  
-kas - kassa  
-kaser - kassanhoitaja  
+kase - laatikko (lipas)  
+• kase (de mone) - kassa (rahalipas)  
+• kasete - rasia (aski; kasetti)  
+• kaser - kassanhoitaja  
+• kasule - kapseli  
 kaske - kuori (suojakuori)  
 kastan - kastanja  
 kastor - majava  
@@ -2273,6 +2274,8 @@ molite - myllynkivi
 Moldove - Moldova  
 molidenium - molybdeeni  
 moluske - nilviäinen  
+mone - raha  
+• monete - kolikko  
 Monako - Monaco  
 mongole - mongoli  
 Mongolia - Mongolia  
@@ -2696,15 +2699,12 @@ pentobrox - pensseli (sivellin)
 pere - sulka  
 perde - pieru (pierrä, pieraista)  
 Peru - Peru  
-pese - raha  
-pesodiske - kolikko  
-pesohuke - ongenkoukku  
-pesosaider - kalastaja  
-pestanke - akvaario  
 pete - maha (vatsa)  
 peta - peta-  
 petre - kallio (kivi)  
 • petrolojia - petrologia  
+pexohuke - ongenkoukku  
+pexotanke - akvaario  
 piano - piano  
 piaze - sipuli  
 picea - kuusi (metsäkuusi)  
@@ -2828,6 +2828,7 @@ prese - puristaaa (puristus, paine)
 • konprese - pusertaa  
 • represe - puskea takaisin (alistaa)  
 pro - eteen päin  
+probe - yrittää (kokeilla, koettaa; koe, kokeilu)  
 problem - ongelma  
 • problemike - ongelmallinen  
 profeser - professori  
@@ -3424,11 +3425,8 @@ tera - tera-
 terbium - terbium  
 terme - lämpötila  
 termometrer - lämpömittari  
-tese - väite (teesi)  
-tese - väittää  
-tesle - tesla (T)  
-teste - koe (testi, yritys)  
-teste - yrittää (kokeilla)  
+tesla - tesla (T)  
+teste - todistaa (testata)  
 Tetis - Tethys  
 texe - kangas  
 texe - kutoa kangasta  
@@ -3437,6 +3435,7 @@ texte - teksti
 • intertexte - intertekstuaalinen  
 • kontexte - konteksti (asiayhteys)  
 • kontexti - kontekstuaalinen  
+teze - väittää (väite, teesi)  
 ticin - jousisoitin  
 tike - suikale (siivu)  
 • tikete - lippu (lappu, piletti)  
@@ -3504,6 +3503,8 @@ trigone - kolmio
 • trigonometria - trigonometria  
 tribe - heimo  
 Trinidade e Tobago - Trinidad ja Tobago  
+trompe - torvi (torvisoitin)  
+trompete - trumpetti  
 tu - sinä  
 tu su - sinun  
 tumen - te  
@@ -3584,7 +3585,7 @@ vale - arvo (arvottaa)
 valse - valssi  
 van: - metsä  
 vanadium - vanadiini  
-vanil - vanilja  
+vanila - vanilja  
 Vanuatu - Vanuatu  
 vare - monenlainen  
 varis - perintö  

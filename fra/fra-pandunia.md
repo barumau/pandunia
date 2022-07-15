@@ -128,12 +128,11 @@ architecte - binoplaner
 architecture - binoplania  
 arctique - Artike  
 argent - argente  
-argent - pese  
+argent - mone  
 Argentine - Argentin  
 argile - glutofan  
 argon - argon  
 argument - argum  
-argument - tese  
 arme - arme  
 armure - defkaske  
 armée - gun  
@@ -204,7 +203,7 @@ bagage - bagaje
 baguette - dikobaton  
 bah - bah  
 bah! (fi!) - fi  
-baie (golf) - bai  
+baie (golf) - haisake  
 baie - beri  
 bain (bagner) - banya  
 baisser - tale  
@@ -318,7 +317,7 @@ cadre - frem
 cafetière - kafe pote  
 café - kafe  
 café - kafe kan  
-cage - batonkapse  
+cage - batonkase  
 caillou - lilite  
 calcaire - kalsopetre  
 calcite - kalsite  
@@ -341,6 +340,7 @@ canoë - kano
 Cantalupo in Sabina - Kantalupo va Sabine  
 canyon (ravin) - kanyon  
 cape - mantol  
+capsule - kasule  
 carapace (coquille, coquillage, croûte) - kaske  
 Caraïbes - Karibia  
 carbone - karbe  
@@ -355,6 +355,7 @@ carte de crédit - kredokarde
 carte à collectionner - jamokarde  
 cartographie - kartografia  
 cascade (chute d'eau) - suipade  
+cassette - kasete  
 caséine - kizoproten  
 cauri - kauri  
 cellule sanguine (globule) - hemocel  
@@ -805,7 +806,7 @@ hache - futau
 hafnium - hafnium  
 haine - hen  
 halte - halte  
-hameçon - pesohuke  
+hameçon - pexohuke  
 haschich - hasis  
 hassium - hesium  
 haut - gau  
@@ -1105,7 +1106,7 @@ molybdène - molidenium
 momentané - sate di  
 momie - mumike  
 monde - dunia  
-monnaie (pièce) - pesodiske  
+monnaie (pièce) - monete  
 monocle - unoki lense  
 monologue - autologe  
 mordre - danta  
@@ -1456,7 +1457,6 @@ pâte - paste
 pâte à modeler - plastopaste  
 pétrole (essence) - petronefte  
 pétrologie - petrolojia  
-pêcheur - pesosaider  
 quand - ke sate  
 quartz - kuarze  
 quatre (4) - car  
@@ -1772,6 +1772,7 @@ tribunal (cour de justice) - judokan
 trichotomie - tritome  
 triple - triple  
 trois (3) - tri  
+trompette - trompete  
 tropique - garmozone  
 trottinette - skuter  
 truite - salmon  
@@ -1812,6 +1813,7 @@ valse - valse
 vampire - vampir  
 vampire des abysses - vampirbalsenter  
 vanadium - vanadium  
+vanille - vanila  
 vapeur d’eau - suigas  
 varech - varkalge  
 vendre - vende  
