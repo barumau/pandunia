@@ -59,7 +59,7 @@ They are described in more detail later in this document.
     - The word order is subject–verb–object.
       The same order is used in declarations and questions.
     - A passive sentence is created with the help of the passive auxiliary verb **be**.
-      A similar effect can be also reached with the impersonal pronoun **mon**.
+      A similar effect can be also reached with the impersonal pronoun **men**.
         - **pandunia be loge.**
           – Pandunia is spoken.
         - **men loge pandunia.**

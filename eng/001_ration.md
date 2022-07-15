@@ -395,9 +395,9 @@ Add **men** to form the plural:
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
 | he or she  | ya         | tā         |
-| we         | mimon      | wǒmen      |
-| you all    | tumon      | nǐmen      |
-| they       | yamon      | tāmen      |
+| we         | mimen      | wǒmen      |
+| you all    | tumen      | nǐmen      |
+| they       | yamen      | tāmen      |
 
 Add **su** to form the possessive:
 
@@ -406,9 +406,9 @@ Add **su** to form the possessive:
 | my         | mi su      | wǒ de      |
 | your       | tu su      | nǐ de      |
 | his/her    | ya su      | tā de      |
-| our        | mimon su   | wǒmen de   |
-| your       | tumon su   | nǐmen de   |
-| their      | yamon su   | tāmen de   |
+| our        | mimen su   | wǒmen de   |
+| your       | tumen su   | nǐmen de   |
+| their      | yamen su   | tāmen de   |
 
 By a fortunate coincidence, the second person plural pronoun is identical to Romani (Gypsy) *tumen*
 and not far from Hindi-Urdu *tum*.

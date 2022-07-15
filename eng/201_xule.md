@@ -704,7 +704,7 @@ manner or thing if needed.
 = Who is coming? (**jen** = person)  
 **tu yam na ke zaman?**
 = When do you eat? (**zaman** = time)  
-**mon danse a ke yang?**
+**men danse a ke yang?**
 = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using

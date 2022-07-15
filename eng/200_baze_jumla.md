@@ -670,7 +670,7 @@ I talk to you.
 **mimen loge do semen.**
 We talk to each other.
 
-**mon loge "cat" a ke yang a pandunia?**
+**men loge "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" e ke a pandunia?**
