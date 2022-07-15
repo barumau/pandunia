@@ -24,6 +24,7 @@ ais - 氷 (アイス; 凍る)
 aishoke - アイスホッケー  
 aiskrem - アイスクリーム  
 akare - 壁蝨  
+akrabe - 蠍 (天蝎宮)  
 ale - 他の (変える)  
 algafung - 地衣類 (苔癬)  
 algajangle - 藻場  
@@ -32,6 +33,7 @@ alkaloguste - 苦い
 alkalomelon - ツルレイシ (ニガウリ)  
 alkalorange - ダイダイ  
 alkol - アルコール  
+• alkoliste - 飲兵衛  (アルコール中毒者)  
 alpaka - アルパカ  
 aluminium - アルミニウム  
 ame - 愛  
@@ -59,6 +61,7 @@ arsene - ヒ素
 • artofete intelige (AI) - 人工知能  
 asar - 効果  
 asle - 起源  
+asparge - アスパラガス  
 astatium - アスタチン  
 astre - 天体   
 astronomia - 天文学  
@@ -71,15 +74,16 @@ ate - 行為
 • reate - 反応する  
 • reation - 反応  
 Athina - アテネ  
-atlantokade - タイセイヨウダラ  
+atlantobakalau - タイセイヨウダラ  
 atlantosalmon - タイセイヨウサケ  
-aven - 烏麦  
+ave - 烏麦  
 aure - 金  
 Austronesia - オーストロネシア  
 aute - 自己  
 autokratia - 君主制  
 autologe - 独白 (独話)  
 automatike - 自動な  
+autoreje - 独立した  
 
 ## B  
 
@@ -89,16 +93,17 @@ bagroselote - ジャガーネコ
 bake - 白い  
 bakomargarite - フランスギク  
 bakosalmon - シロザケ  
+bakalau - 鱈  
 • anbale - 弱い (脆弱)  
 balde - バケツ  
 balonpes - フグ  
 balute - ナラ  
 balutopal - ドングリ  
+bambu - 竹  
 bamia - オクラ  
 ban - 板  
 banogem - ボードゲーム  
 bankorutia - 破産  
-banse - 竹  
 barium - バリウム  
 barse - 雨 (雨が降る)  
 barsomosim - 雨季  
@@ -125,11 +130,12 @@ beranda - ベランダ (バルコニー, 縁側)
 beri - 漿果 (ベリー )  
 berilium - ベリリウム  
 berkelium - バークリウム  
-berze - 樺  
 bete - テーブルビート  
+betula - 樺  
 bie - 生物  
 biocaniver - 堆肥  
 bioginse - 生物学の性  
+biokimia - 生化学  
 biolojia - 生物学  
 biomute - 熟成する (発酵する)  
 biosistem - 生物群系  
@@ -159,9 +165,11 @@ botel - 瓶
 brauze - 探る, 探検する  
 brauzer - 探検家 (ブラウザ)  
 bromium - 臭素  
+broxokalam - 筆 (毛筆)  
 brune - 茶色  
 brunalge - 褐藻  
 brunsalmon - ブラウントラウト  
+bu! - ばあ  
 • bucokan - 屠畜場  
 • bucer - 肉屋  
 Buda - 仏陀  
@@ -170,6 +178,7 @@ buke - 本 (書物)
 bum - 爆発  
 • burokratia - 官僚制  
 burorite - 公式 (礼法, プロトコル)  
+bus halte - バス停  
 bute - ブーツ  
 
 ## C  
@@ -181,14 +190,10 @@ caipote - 急須
 cakre - 車輪  
 camaca - スプーン  
 cantergrupe - 合唱団  
-care - 四 (4)  
+car - 四 (4)  
 cau - 草  
 caustan - 草地  
 ceke - 小切手 (チェック)  
-cene - 以前 (前に)  
-cenyange - 古典的  
-• cenike - 古い  
-cenvide - 待ち受ける (見込む)  
 cente - 百 (１００)  
 • pro cente - パーセント  
 • excepe - 追出 (退ける, 除いて)  
@@ -217,6 +222,7 @@ cuzoliste - 品書き (メニュー)
 
 ## D  
 
+dadaisme - ダダイスム  
 dai - 大きい  
 daidom - 宮殿 (邸宅)  
 daihai - 大洋 (大海)  
@@ -233,6 +239,8 @@ dargomute - 発展 (開発)
 darmositium - ダームスタチウム  
 darte - 土  
 datofenkate - データ解析  
+datoprocese - データ処理  
+datoprocesolojia - 計算機科学  
 datotable - 表  
 dau - 道  
 de - -から  
@@ -303,7 +311,7 @@ eletre - 電気
 • eletrolojia - 電子工学  
 eletrorade - 雷 (稲妻)  
 elfe - 妖精 (エルフ)  
-emoze - 絵文字  
+emotikon - 絵文字  
 englomargarite - ヒナギク  
 erbium - エルビウム  
 europobalute - ヨーロッパナラ  
@@ -326,6 +334,7 @@ fasile - 易しい
 fasilia da acese - アクセシビリティ  
 fatige - 疲労 (疲れる, 疲労する)  
 • faxisme - 法西斯主义  
+fe - する  
 fei - 飛ぶ  
 feimus - こうもり (飛鼠)  
 fem - 女  
@@ -335,7 +344,6 @@ fenkate - 分析 (解析)
 fente - 風  
 fer - 鉄  
 fermium - フェルミウム  
-fete - する  
 fete - する (事実)  
 • fetokan - 工場 (製造所)  
 • exfete - 効果  
@@ -358,6 +366,7 @@ fotofrike - 光沢
 fotograf - 写真  
 fotominar - 狼煙 (ビーコン)  
 fransium - フランシウム  
+frasen - 秦皮  
 frem - 額  
 frike - 擦る (擦り傷する)  
 fuke - 服  
@@ -395,38 +404,37 @@ gande - 嗅ぐ
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
 gar - もし  
+gar - 車  
 garme - 暖かい (熱い)  
 garmomosim - 夏  
-garmozon - 熱帯  
+garmozone - 熱帯  
 garmozone caustan - サバンナ  
 gate - 硬い  
 gatomate - 固体  
 gave - 高い  
 gautalu - 浮き沈みする  
 gautehnia - ハイテク  
-gavabe - 答え (回答)  
 gaze - ガーゼ  
 gazel - ガゼル  
 gee - 地  
+• abogee - 遠地点  
 geoforme - 地形  
 geolojia - 地質学  
 geometria - 幾何学  
-geonice - 地中  
-geonici prizon - 地下牢 (ダンジョン)  
-• abogee - 遠地点  
+geosube - 地中  
+geosube jelokan - 地下牢 (ダンジョン)  
 • genite - 湧かす  
 • genolojia - 系譜学  
 genoloke - 出生地  
 genotipe - 遺伝子型  
-gense - 性別 (ジェンダー)  
-gensolojia - ジェンダー研究  
 • geriler - ゲリラ  
 • gerer - 戦士 (武士)  
+• antigere - 反戦  
 germanium - ゲルマニウム  
 gestolingue - 手話  
 • gider - 案内人 (ガイド)  
 gidobuke - ガイドブック  
-gingolin - 縦糸  
+gingoline - 縦糸  
 gitar - ギター  
 glise - 滑る  
 glute - 張る (付く)  
@@ -437,15 +445,16 @@ gogia - 国 (国家)
 • gogian - 市民  
 gol - 目的 (行き先, ゴール)  
 gom - ゴム (消しゴム)  
-• diagone - 筋交い (対角)  
+• tragone - 筋交い (対角)  
 gorile - ゴリラ  
 • grafeme - 画素 (ピクセル)  
-grafokarte - グラフィックカード  
+grafokarde - グラフィックカード  
 grafoprocese - 画像処理  
 grafosage - 漫画  
 granite - 花崗岩  
 grave - 砂利  
 gui - 鬼  
+guimuke - しかめっ面  
 guipapil - オニゲシ  
 guke - キク  
 gunjen - 軍人  
@@ -470,6 +479,7 @@ haitate - 海岸
 hake - 権利  
 hal - 状態  
 halaloliste - ホワイトリスト  
+halte - 止まる  
 hande - 手  
 handange - 腕  
 hape - 適応する  
@@ -481,8 +491,7 @@ hei - おい
 helium - ヘリウム  
 helisviman - ヘリコプター  
 heme - 血  
-heme - 血  
-heme - 考える  
+hemocel - 血球  
 hemoglobin - 血色素 (ヘモグロビン)  
 hepate - 肝臓  
 hepatitis - 肝炎  
@@ -540,6 +549,8 @@ janelovel - カーテン
 jangle - 野生の  
 jangle van - ジャングル  
 jau - 大麦  
+javabe - 答え (回答)  
+jebocaku - ポケットナイフ  
 jeke - 借用  
 jekocepe - 借りる  
 jekodone - 貸す  
@@ -548,6 +559,8 @@ jen - 人
 • dusojen - 敵  
 jeng - 戦闘 (格闘)  
 jenju - 真珠  
+jense - 性別 (ジェンダー)  
+jensolojia - ジェンダー研究  
 • jetaje - 飛翔体 (矢玉)  
 • projetaje - プロジェクト  
 jetografe - 映す (投影する, 投影)  
@@ -567,7 +580,6 @@ justopaver - 狙撃兵
 ka - より  
 kable - 電線  
 kaboge - カボチャ  
-kade - 鱈  
 kadium - カドミウム  
 kafe - コーヒー  
 kafe kan - カフェ (コーヒー店)  
@@ -584,6 +596,7 @@ kalmar - イカ
 kalsium - カルシウム  
 kalsokristal - 大理石  
 kalsomate - 石灰  
+kame - 色欲  
 kamar - 部屋  
 kamil - カモミール (カミツレ)  
 kamis - シャツ  
@@ -597,28 +610,31 @@ kankuate - キンカン (キンキツ)
 kano - カヌー  
 kantalupomelon - カンタロープ  
 kapotruke - 罠  
-kar - 車  
 kare - 働く  
-karloge - 動詞  
-karmise - 提出  
-karer - 労働者  
+• karaje - 労働  
+• karer - 労働者  
 • duskar - 悪事  
+• konkare - 共同して働  
+karolexe - 動詞  
+• karateiste - 空手家  
 karbe - 炭素  
 karbosui - 炭水化物  
 karcof - アーティチョーク  
 karde - カルタ  
 kardon - アザミ  
 kardonkarcof - カルドン  
-karme - 労働  
+kari - カレー  
 karote - ニンジン  
 karse - 荒い  
 karsolimon - コブミカン (スワンギ, プルット)  
+karte - 地図  
 karube - 蝗豆  
 kaske - 殻 (皮)  
 katoglutoban - クリップボード  
 katane - 刀 (剣)  
 katus - サボテン  
 kave - 掘る  
+kauri - 宝貝  
 ke - 何 (どの)  
 ke yange - どんな  
 ke jen - 誰  
@@ -630,7 +646,7 @@ keger - 客人
 kenarbaryer - 柵 (垣)  
 kex - 毛  
 kexofentor - ヘアドライヤー (ブロードライヤー)  
-kile - 千 (１０００)  
+kilo - 千 (１０００)  
 kime - 物質  
 • kimium - 元素  
 • kimolojia - 化学  
@@ -657,9 +673,6 @@ komodia - 喜劇 (コメディ)
 kono - 一緒に  
 konbone - 合わせる (適する)  
 konformu - 即する  
-konkare - 共同して働  
-konpatia - 同情  
-konseler - 顧問  
 koncung - 昆虫  
 konge - 染みる (貫通する)  
 Kongfuze - 孔夫子  
@@ -678,7 +691,7 @@ krede - 信頼する
 • krediste - 信徒 (信者)  
 bekredable - 忠実  
 • ankrediste - 不信者  
-krede karte - クレジットカード  
+kredokarde - クレジットカード  
 krem - クリーム  
 krepe - パンケーキ  
 krevete - 海老  
@@ -739,16 +752,16 @@ libu - 立つ
 liboban - 棚  
 libobaze - 台  
 libele - 蜻蛉  
-lidolin - リード (手綱)  
+lidoline - リード (手綱)  
 lile - 小さい  
 lilkaboge - ズッキーニ  
 lilite - 小石  
 lime - 五 (5)  
 limon - レモン  
-limonike - 柑橘  
+• limonike - 柑橘  
 limon jus - レモネード  
-lin - 糸  
-linem - 繊維  
+line - 糸  
+lineme - 繊維  
 lince - 大山猫  
 lingue - 言語  
 lingue ginse - 文法的性 (名詞クラス)  
@@ -773,6 +786,8 @@ luge - 録
 luge - 緑 (緑色)  
 lugomelon - ハネデューメロン  
 lumen - ルーメン  
+lumbe - 腰部  
+lumbalgia - 腰痛  
 lun - 月間  
 lun un - １月  
 lun du - ２月  
@@ -802,6 +817,8 @@ magesium - マグネシウム
 Magribia - モロッコ  
 mai - お母さん (母, ママ)  
 maitnerium - マイトネリウム  
+majang - 麻雀  
+Maka - メッカ  
 makanful - タンポポ  
 • malonomia - 経済学  
 man - 男  
@@ -890,7 +907,7 @@ mun - 門
 • daimun - 大門  
 mur - 壁  
 murkaguze - 壁紙  
-musle - ミューズリー  
+musli - ミューズリー  
 muze - 楽しみ (娯楽)  
 • muzante - 楽しい  
 muzike - 音楽  
@@ -904,8 +921,8 @@ nagisbinde - 染み (汚点)
 nam - 名前  
 namkitabe - 署名する (サイン)  
 narke - 麻薬  
-• narkoze - 症  
-nasmede - 国際的  
+• narkose - 症  
+nasomede - 国際的  
 nasibe - 運命 (宿命)  
 • nature - 自然  
 natrium - ナトリウム  
@@ -949,6 +966,8 @@ nome - 組織する
 norde - 北  
 norme - 標準 (普段, ノーマル)  
 • annorme - 不自然  
+• nosisme - グノーシス主義  
+• dianose - 診断  
 nostalgia - 懐古 (懐旧)  
 nove - 新しい  
 • novike - 初心者  
@@ -963,7 +982,7 @@ nume - 数える
 ode - 頌歌 (オード)  
 oke - 目  
 okosuigas - 催涙ガス  
-okeye - 大丈夫 (ＯＫ)  
+• okeyable - 大丈夫 (ＯＫ)  
 onde - 波  
 orangi - オレンジ色の  
 orkide - ラン  
@@ -1005,24 +1024,26 @@ parcokayu - 弾ける
 parne - 羊歯  
 • partaner - パートナー  
 • partaneria - パートナーシップ  
-pasloge - パスワード  
-pasporte - パスポート  
+pasolexe - パスワード  
+pasoporte - パスポート  
 pastopetre - マグマ (岩漿)  
-patike - 患者  
-patomis - 伝染  
+• patike - 患者  
+• patokan - 病院 (医院)  
+• konpatia - 同情  
+patomise - 伝染  
 pau - 銃  
 pave - 撃つ  
 • prepede - 調製用  
 peikar - 職業  
 peikare - プロフェッショナル  
-peikari ziu - キャリア  
+peikari jive - キャリア  
 peikarer - プロフェッショナル  
 • propelor - プロペラ (推進器)  
 pelpel - チョウ  
 • pendaje - ペンダント  
 pente - 絵の具 (ペンキ)  
-pentobrose - 絵筆  
 • penter - 画家 (絵かき)  
+pentobrox - 絵筆  
 perokardon - アメリカオニアザミ  
 perde - 屁  
 pese - 金  
@@ -1070,6 +1091,7 @@ poter - 陶工
 poteria - 陶芸  
 poze - 植える  
 prasedium - プラセオジム  
+pre - 以前 (前に)  
 preden - 昨日  
 prese - 圧力  
 • preser - 圧搾機  
@@ -1080,7 +1102,7 @@ prometium - プロメチウム
 proten - 蛋白質 (プロテイン)  
 protacinium - プロトアクチニウム  
 pudu - 腐敗  
-pujokan - 神殿  
+• pujokan - 神殿  
 puma - ピューマ (クーガー)  
 puntoban - スコアボード  
 puntonumbe - 得点 (点数)  
@@ -1101,7 +1123,7 @@ rangarkosalmon - ニジマス
 rangomate - 染め粉  
 rapsodia - 狂詩曲 (ラプソディ)  
 rare - 稀 (疎ら)  
-ras - 人種  
+rase - 人種  
 • ration - 推論  
 • ratolojia - 論理  
 ratibe - 順  
@@ -1113,6 +1135,9 @@ retrogule - 戻す (吐く)
 retroguli sense - 吐き気 (嘔気)  
 • rejer - 国王  
 • relia - 実在 (現実)  
+• relia - 実在 (現実)  
+• rel televizion - リアリティ番組  
+• relize - 実現する  
 • relize - 実現する  
 rel televizion - リアリティ番組  
 renium - レニウム  
@@ -1145,6 +1170,11 @@ ruterfordium - ラザホージウム
 
 ## S  
 
+sabe - 知る  
+sabovol - 興味 (好奇心)  
+sabovolu - 訝る (-かしら)  
+sabovolane - 知りたがる  
+sabovolite - 面白い  
 sable - 砂  
 • movosable - 流砂  
 sablopetre - 砂岩  
@@ -1175,22 +1205,18 @@ sar - 頭
 sartunge - 頭痛  
 sate - 瞬間  
 Saturne - 土星  
-save - 知る  
-save - 少ない  
-savovol - 興味 (好奇心)  
-savovolu - 訝る (-かしら)  
-savovolane - 知りたがる  
-savovolite - 面白い  
 saure - 蜥蜴  
 saus - ソース  
 sekurokope - バックアップ (控え)  
 sekuronumbe - 暗証番号  
+• konseler - 顧問  
 selenium - セレン  
 selge - フダンソウ (スイスチャード)  
 • semolojia - 意味論  
 semendan - 種  
 sene - 年齢  
 senater - 上院議員  
+• senike - 古い  
 sense - 感覚  
 senter - 触手  
 sere - 系列  
@@ -1213,7 +1239,7 @@ sikliste - チャリダー
 risikle - 再生する (リサイクルする)  
 silike - ヶィ素  
 silke - 絹  
-• dusosinye - 不吉 (縁起の悪い)  
+• dusosine - 不吉 (縁起の悪い)  
 sire - 隠す  
 siri mote - 忍び  
 sirplan - 陰謀  
@@ -1304,7 +1330,6 @@ terbium - テルビウム
 terce - 斜め  
 texe - 布  
 texomaxin - 織機  
-tingu - 止まる  
 tipe - 種類  
 tira pil - はがす (剥ぐ)  
 tirbaton - レバー (てこ)  
@@ -1324,7 +1349,7 @@ tore - 塔
 torium - トリウム  
 toxe - 毒  
 tragodia - 悲劇  
-• trator - トラクター  
+• trater - トラクター  
 tren - 電車 (列車)  
 trete - 合意  
 tri - 三 (3)  
@@ -1335,7 +1360,7 @@ tu - あなた
 tu su - あなたの  
 tumen - あなたたち  
 tulium - ツリウム  
-tune - 鮪 (ツナ)  
+tuna - 鮪 (ツナ)  
 tunge - 痛み  
 turbe - 悩む (わざわざする)  
 • turbin - タービン  
@@ -1388,16 +1413,16 @@ vestogoril - ニシゴリラ
 vidopunte - 遠近法 (見通し, 観点)  
 • vider - 見物人  
 • dusvide - 見苦しい  
-antransvidable - 不透明  
-• antrasvidable - 不透明  
+• provide - 待ち受ける (見込む)  
+• antravidable - 不透明  
 vidou - 寡婦  
 • vilaje - 村  
 • vineria - ワイナリー (酒造場)  
 viole - 小提琴 (バイオリン)  
 • daiviole - チェロ (ヴィオロンチェロ)  
 violete - 紫色 (パープル)  
-visomatre - 継母  
-visopatre - 継父  
+visematre - 継母  
+visepatre - 継父  
 vitamin - ビタミン  
 Vixnu - ヴィシュヌ  
 vode - 約束  
@@ -1412,6 +1437,7 @@ xampan - 香槟
 xarke - サメ  
 xatan - 敵 (相手)  
 xatan (ruhoxatan) - 悪魔  
+xau - 少ない  
 xei - 事 (物)  
 xeihal - 事態  
 xenon - キセノン  
@@ -1449,7 +1475,6 @@ yame - 食べる
 yami - 美味しい  
 yamyau - 飢え  
 yang - タイプ  
-yasen - 秦皮  
 yau - 必要  
 • beyau - 必要  
 • anbeyau - 不要  

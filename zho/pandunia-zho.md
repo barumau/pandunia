@@ -29,6 +29,7 @@ ais - 冰 (结冰)
 aishoke - 冰球  
 aiskrem - 冰淇淋  
 akare - 蜱 (螨)  
+akrabe - 蝎子 (天蝎座)  
 ale - 另一 (改變)  
 aloraye - 不同意  
 alga - 藻类  
@@ -38,6 +39,7 @@ alkale - 碱性
 alkaloguste - 苦的  
 alkalomelon - 苦瓜  
 alkol - 酒  
+• alkoliste - 酒鬼  
 almari - 碗碟橱  
 alpaka - 无峰驼  
 aluminium - 铝  
@@ -69,6 +71,7 @@ arbuze - 西瓜
 argente - 银  
 argon - 氩  
 arke - 弓 (琴弓, 拱)  
+arkocate - 拱顶  
 arme - 武器  
 aromu - 发臭  
 aromomelon - 香瓜  
@@ -79,6 +82,7 @@ arte - 美术
 asar - 影响  
 asle - 起源 (原始)  
 asma - 气喘  
+asparge - 芦笋  
 aspirin - 阿司匹林  
 astatium - 砹  
 astre - 天体  
@@ -92,13 +96,14 @@ ate - 作为 (行为)
 • reate - 反应  
 • reation - 反应  
 Athina - 雅典  
-atlantokade - 大西洋鱈  
+atlantobakalau - 大西洋鱈  
 atlantosalmon - 大西洋鮭  
-aven - 燕麦  
+ave - 燕麦  
 aure - 金  
 Austronesia - 南岛  
 autologe - 独白  
 automatike - 自动的  
+autoreje - 独立  
 axe - 轴线  
 
 ## B  
@@ -115,11 +120,13 @@ bake - 白
 bakocoi - 白菜 (小白菜)  
 bakomargarite - 法蘭西菊  
 bakosalmon - 大麻哈鱼 (狗鮭)  
+bakalau - 鱈  
 • balokan - 体育馆  
 • anbale - 虚弱 (易坏)  
 baloton - 重音符号  
 balde - 水桶  
 balute - 橡树 (xiàng)  
+bambu - 竹子  
 bamia - 秋葵  
 ban - 板子  
 banogem - 版图游戏  
@@ -129,7 +136,6 @@ bandir - 旗
 banyakamar - 浴室  
 • bankokan - 银行  
 bankorutia - 破产  
-banse - 竹子  
 banya - 洗澡 (游泳)  
 barium - 钡  
 barkoke - 杏子  
@@ -161,10 +167,11 @@ beranda - 阳台
 beri - 浆果 (莓)  
 berilium - 铍  
 berkelium - 锫  
-berze - 桦树  
 bete - 甜菜頭  
+betula - 桦树  
 bie - 生物  
 bioginse - 生物性別  
+biokimia - 生物化学  
 biolojia - 生物学  
 biomute - 发酵  
 biosistem - 生物群系  
@@ -192,8 +199,10 @@ riboner - 修理工人
 boron - 硼  
 botel - 瓶  
 bromium - 溴  
+broxokalam - 毛笔  
 brune - 棕色 (色)  
 brunsalmon - 褐鳟  
+bubu - 魔鬼  
 • bucokan - 屠宰场  
 • bucer - 屠夫  
 Buda - 佛陀  
@@ -201,6 +210,7 @@ bufete - 自助餐
 buke - 书  
 bum - 爆炸  
 • burokratia - 官僚制  
+bus halte - 汽车站  
 buton - 扣子  
 buze - 山羊  
 
@@ -214,11 +224,9 @@ cakre - 轮子
 caku - 刀  
 camaca - 匙子  
 cantergrupe - 合唱团  
-care - 四 (4)  
+car - 四 (4)  
 ceke - 支票  
 celolojia - 细胞学  
-cene - 以前  
-• cenike - 古老 (以前)  
 ceng - 层  
 cente - सौ  
 • pro cente - 百分之  
@@ -238,7 +246,7 @@ cire - 撕裂
 circire - 撕毁  
 coklate - 巧克力  
 coklatobaton - 巧克力棒  
-Congcing - 重庆  
+Congking - 重庆  
 cope - 锄头  
 cuvogom - 口香糖  
 • cuzable - 选择 (买卖权)  
@@ -259,6 +267,8 @@ darotube - 漏斗
 dargomute - 发展 (开发)  
 date - 数据  
 datobanke - 数据库  
+datoprocese - 数据处理  
+datoprocesolojia - 计算机科学  
 datotable - 表格  
 de - 从  
 defkaske - 盔甲  
@@ -319,8 +329,8 @@ ekore - 松鼠
 • eletrolojia - 电子学  
 eletrorade - 闪电  
 elfe - 精灵  
-emoshal - 心情  
-emoze - 绘文字  
+emotohal - 心情  
+emotikon - 绘文字  
 englomargarite - 雛菊  
 erbium - 铒  
 europobalute - 夏櫟  
@@ -340,6 +350,7 @@ fasotele - 深
 fasilia da acese - 無障礙環境  
 fatige - 疲劳  
 • faxisme - فَاشِيَّة‎  
+fe - 作  
 fei - 飞  
 feke - 粪  
 fem - 女  
@@ -348,7 +359,6 @@ fenkate - 分析
 • fentor - 鼓风机 (电风扇)  
 fer - 铁  
 fermium - 镄  
-fete - 作  
 fete - 事实  
 • infetion - 传染  
 • rifete - 重复  
@@ -373,6 +383,7 @@ fotograf -  照片 (相片)
 fotokable - 光线  
 fotominar - 信号  
 fransium - 钫  
+frasen - 白蜡树  
 frem - 框  
 frike - 擦伤  
 fuke - 衣服  
@@ -409,12 +420,11 @@ ganse - 雁 (鹅)
 ganum - 麦  
 gar - 如果 (要是)  
 garmomosim - 夏季  
-garmozon - 热带  
+garmozone - 热带  
 garmozone caustan - 稀树草原  
 gate - 硬  
 gatomate - 固体  
 gautehnia - 高科技 (高技术)  
-gavabe - 回答  
 geoforme - 地势  
 geografia - 地理  
 geometria - 几何学  
@@ -426,18 +436,17 @@ gele - 啫哩
 genobase - 母语  
 genoloke - 出生地  
 genotipe - 基因型  
-gence - 检查  
-gense - 性别  
-gensolojia - 性别研究  
 • gerile - 游击  
 • geriler - 游击队员  
 • gerer - 战士 (武士)  
+• antigere - 反战  
+• posgere - 战后的  
 germanium - 锗  
 gestolingue - 手语  
 gide - 导游  
 • gider - 导游  
 gidobuke - 指南  
-gingolin - 經紗  
+gingoline - 經紗  
 gitar - 吉他  
 giuke - 玉  
 glise - 滑下  
@@ -448,7 +457,7 @@ glutograf - 贴纸
 gogia - 国家  
 • gogian - 公民  
 gol - 目的  
-• diagone - 对角  
+• tragone - 对角  
 gorile - 大猩猩  
 goton - 棉  
 grafoprocese - 影像处理  
@@ -457,8 +466,8 @@ granite - 花岗石
 grave - 砾石  
 • agrese - 攻击  
 • agreser - 侵略者  
-grimas - 鬼脸  
 Guangzou - 广州  
+guimuke - 鬼脸  
 guipapil - 鬼罂粟 (東方罌粟)  
 guke - 菊花  
 gumle - 句子  
@@ -483,6 +492,7 @@ haigun - 海军
 haihiyar - 海參  
 haiporta - 海港  
 haitate - 海岸  
+haima - 帐篷  
 hake - 权利  
 hal - 状态  
 halo - 哈啰 (哈喽)  
@@ -501,15 +511,13 @@ helium - 氦
 helis - 螺旋  
 helisviman - 直升机  
 heme - 血  
-heme - 血  
-heme - 深思 (考虑)  
+hemocel - 血球  
 hemoglobin - 血红蛋白  
-hemah - 帐篷  
 hepate - 肝脏  
 Hesia - 黑森  
 hidre - 氢  
-higabe - 面纱  
 hiyar - 黄瓜  
+hijabe - 面纱  
 Hinde riu - 印度河  
 Hindia - 印度斯坦  
 hindium - 铟  
@@ -562,17 +570,21 @@ janelovel - 窗帘
 jangle - 野生  
 jangle van - 丛林  
 jau - 大麦  
+javabe - 回答  
+jebocaku - 小刀  
 jeke - 借  
 jekocepe - 借入  
 jekodone - 借出  
 • jelokan - 监狱 (监牢)  
 jen - 人  
 • dusojen - 敌人  
+jenje - 姜  
 jenju - 珍珠  
+jense - 性别  
+jensolojia - 性别研究  
 • jetaje - 投掷物  
 jetografe - 投射 (投影)  
 jin - 真  
-jinje - 姜  
 jiraf - 长颈鹿  
 jive - 生命  
 jongle - 变戏法  
@@ -588,7 +600,6 @@ jus - 汁
 ka - 比  
 kable - 电缆 (电线)  
 kaboge - 南瓜  
-kade - 鱈  
 kadium - 镉  
 kafe - 咖啡  
 kafe kan - 咖啡馆  
@@ -606,6 +617,7 @@ kalsium - 钙
 kalsokristal - 大理石  
 kalsomate - 石灰  
 kalsopetre - 石灰岩  
+kame - 情欲  
 kamar - 房间  
 kamil - 母菊  
 kamis - 衬衫  
@@ -621,10 +633,11 @@ kankuate - 金柑
 kantalupomelon - 鈔皮瓜  
 kapotruke - 陷阱  
 kare - 工作  
+• karaje - 工作  
 karokan - 工厂  
-karloge - 动词  
-karmise - 提交  
-karer - 工人 (工作者)  
+• karer - 工人 (工作者)  
+• konkare - 合作  
+karolexe - 动词  
 karbe - 碳  
 karboduloxide - 二氧化碳  
 karcof - 菜蓟  
@@ -632,10 +645,12 @@ karde - 牌
 kardon - 蓟  
 kardonkarcof - 刺苞菜蓟  
 karge - 擔子  
-karme - 工作  
+kari - 咖喱  
 karote - 红萝卜  
 karse - 粗糙  
 karsolimon - 箭叶橙  
+karte - 地图  
+kartografia - 地图学  
 kaske - 壳 (皮)  
 kate - 切  
 katoglutoban - 剪贴板  
@@ -644,6 +659,7 @@ katus - 仙人掌
 kave - 挖  
 • kavaje - 坑 (穴)  
 Kaukasia - 高加索  
+kauri - 宝贝  
 ke - 什么  
 ke mode - 怎么  
 kecape - 番茄酱 (茄汁)  
@@ -651,6 +667,7 @@ keci - 客气
 keger - 客人  
 kenar - 边  
 kenarbaryer - 篱笆  
+kexobroxe - 发刷  
 kexofentor - 电吹风 (吹风机)  
 kime - 物质  
 • kimium - 元素  
@@ -675,9 +692,6 @@ kobalte - 钴
 komodia - 喜剧  
 kono - 共同 (一起)  
 konbone - 相配  
-konkare - 合作  
-konseler - 顾问  
-kontrete - 公約  
 koncung - 昆虫  
 Kongfuze - 孔夫子  
 konserte - 音乐会  
@@ -699,7 +713,7 @@ krede - 信赖
 • krediste - 信徒  
 bekredable - 忠实  
 • ankrediste - 不信神的  
-krede karte - 信用卡  
+kredokarde - 信用卡  
 krepe - 薄烤饼  
 krevete - 虾 (xiā)  
 kriton - 氪  
@@ -762,10 +776,10 @@ lilkaboge - 西葫芦
 lilite - 砾石  
 lime - 五 (5)  
 limon - 柠檬  
-limonike - 柑橘  
+• limonike - 柑橘  
 limon jus - 柠檬水  
-lin - 线  
-linem - 纤维  
+line - 线  
+lineme - 纤维  
 lince - 猞猁 (山貓)  
 lingue - 语言  
 lingue ginse - 文法的性  
@@ -789,6 +803,8 @@ love - 漏
 luge - 录  
 luge - 绿色  
 lumen - 流明  
+lumbe - 腰部  
+lumbalgia - 腰痛  
 lunokeke - 月饼  
 lung - 龙  
 lute - 掠夺  
@@ -806,13 +822,15 @@ maduvesposanduke - 蜂箱
 magesium - 镁  
 Magribia - 摩洛哥  
 mai - 妈妈  
+majang - 麻将  
+Maka - 麦加  
 makanful - 蒲公英  
 • malonomia - 经济学  
 • be male - 属于  
 • mamalia - 哺乳纲  
 mange - 忙  
 mangan - 锰  
-manihaiisme - 摩尼教  
+maniisme - 摩尼教  
 manir - 方式  
 manse - 肉  
 mantol - 斗篷  
@@ -844,15 +862,12 @@ melon - 厚皮甜瓜 (蜜瓜)
 meme - 记忆 (记性)  
 meme - 记得 (回忆)  
 • dememe - 忘记  
-mene - 意义  
 mendelevium - 钔  
 meninge - 脑脊膜  
 menu - 菜单  
 metalbede - 铁砧  
 metallin - 线 (铁丝)  
 metalzanger - 铁匠  
-metrograf - 地图  
-metrografia - 地图学  
 meza - 桌子  
 mezatexe - 桌布  
 mi - 我  
@@ -881,7 +896,7 @@ mokoban - 木板
 mokomate - 木材  
 mokotan - 原木  
 mokozanger - 木匠  
-molia - 磨坊  
+• molokan - 磨坊  
 molite - 磨石  
 mole - 摩尔 (单位)  
 molekul - 分子  
@@ -901,7 +916,7 @@ mur - 墙壁
 murkaguze - 壁纸 (墙纸)  
 murce - 蚂蚁  
 muskulbin - 健美运动  
-musle - 木斯里 (瑞士麦片)  
+musli - 木斯里 (瑞士麦片)  
 muze - 娱乐  
 muzike - 音乐  
 
@@ -912,8 +927,8 @@ nagis - 污染物
 nagise - 污染  
 namkitabe - 签署  
 narke - 毒品 (麻醉. 麻药 )  
-• narkoze - 症  
-nasmede - 国际  
+• narkose - 症  
+nasomede - 国际  
 nasibe - 命運  
 • nature - 自然  
 • posnatal - 产后  
@@ -954,6 +969,11 @@ noce - 夜
 nof - 九 (9)  
 nome - 组织  
 norde - 北  
+• nosisme - 诺斯底主义  
+• annosike - 无知  
+• annosisme - 不可知论  
+• dianose - 诊断  
+• pronose - 预后  
 nostalgia - 怀旧  
 note - 便条  
 nove - 新  
@@ -1016,13 +1036,14 @@ parke - 园
 parne - 蕨  
 • partaner - 伙伴  
 pase - 過  
-pasloge - 密码  
-pasporte - 护照  
+pasolexe - 密码  
+pasoporte - 护照  
 pastopetre - 岩漿  
+• patike - 患者 (病患)  
+• patokan - 医院  
 patogener - 病原体  
-patike - 患者 (病患)  
 patolojia - 病理学  
-patomis - 传染  
+patomise - 传染  
 pau - 手枪  
 peikar - 职业  
 • propelor - 螺旋桨  
@@ -1031,7 +1052,7 @@ pelpel - 蝴蝶
 • pendaje - 吊坠  
 pendokardon - 垂花飞廉  
 pente - 油漆 (颜料)  
-pentobrose - 画笔  
+pentobrox - 画笔  
 perokardon - 翼蓟  
 perde - 屁 (放屁)  
 pese - 钱  
@@ -1077,6 +1098,7 @@ pote - 罐 (瓶)
 poter - 陶瓷工  
 poteria - 陶器制造  
 prasedium - 镨  
+pre - 以前  
 preden - 昨日  
 prese - 压力  
 problem - 问题 (难题)  
@@ -1086,7 +1108,7 @@ proten - 蛋白质
 protacinium - 镤  
 pudu - 腐烂  
 puding - 布丁  
-pujokan - 寺庙  
+• pujokan - 寺庙  
 pujomeza - 圣坛  
 pul - 桥  
 puma - 美洲獅 (山狮)  
@@ -1106,7 +1128,7 @@ rangarkosalmon - 虹鱒
 rangomate - 染料  
 rapsodia - 狂想曲  
 rare - 稀有 (稀少的)  
-ras - 种族  
+rase - 种族  
 • ration - 推论  
 • ratolojia - 论理 (逻辑)  
 ratibe - 常规 (次序)  
@@ -1116,6 +1138,8 @@ retre - 返回 (回来)
 retrogule - 呕吐  
 retroguli sense - 恶心  
 • relia - 现实  
+• relia - 现实  
+• rel televizion - 真人秀  
 rel televizion - 真人秀  
 renium - 铼  
 reste - 休息  
@@ -1145,6 +1169,10 @@ rutenium - 钌
 
 ## S  
 
+sabe - 知道 (晓得)  
+sabovol - 趣  
+sabovolane - 好奇  
+sabovolite - 有趣  
 sable - 沙  
 • movosable - 流沙  
 sablostan - 沙漠  
@@ -1176,13 +1204,9 @@ sar - 头
 sartunge - 头疼 (头痛)  
 sate - 时候  
 Saturne - 土星  
-save - 知道 (晓得)  
-save - 少  
-savovol - 趣  
-savovolane - 好奇  
-savovolite - 有趣  
 saure - 蜥蜴  
 semon - 彼此  
+• konseler - 顾问  
 selenium - 硒  
 • semolojia - 语义学  
 semen - 种  
@@ -1190,6 +1214,7 @@ semendan - 种子
 • semenike - 种子的  
 sene - 年岁  
 senater - 参议员  
+• senike - 古老 (以前)  
 sense - 感觉  
 senter - 觸手  
 sere - 系列  
@@ -1208,7 +1233,7 @@ sikliste - 骑自行车的人
 risikle - 循环再造  
 silike - 硅  
 silke - 丝绸  
-• dusosinye - 不祥的  
+• dusosine - 不祥的  
 sire - 隐藏  
 sirplan - 阴谋 (密谋)  
 sirkite - 鹅卵石  
@@ -1234,6 +1259,7 @@ sonomun - 声门
 song - 松  
 sor - 锁  
 sosis - 香肠  
+• inspete - 检查  
 sponge - 海绵  
 • sportokan - 健身房  
 stanium - 锡  
@@ -1312,11 +1338,12 @@ topografe - 地形
 • topografia - 地形  
 tore - 塔 (塔楼)  
 torium - 钍  
-toxolojia - 毒物学  
+• toxolojia - 毒物学  
 tragodia - 悲剧  
 trate - 拖  
-• trator - 拖拉机 (铁牛)  
+• trater - 拖拉机 (铁牛)  
 trete - 合同 (合约)  
+• kontrete - 公約  
 tri - 三 (3)  
 tripike - 三叉戟  
 truke - 伎俩  
@@ -1326,7 +1353,7 @@ tumen - 你们
 tumen su - 你们的  
 tumimen - 咱们  
 tulium - 铥  
-tune - 金枪鱼  
+tuna - 金枪鱼  
 tunge - 疼痛  
 • turbin - 涡轮机  
 turfe - 泥炭  
@@ -1380,8 +1407,8 @@ viole - 小提琴
 • violiste - 小提琴家  
 • daiviole - 大提琴  
 virge - 处女  
-visomatre - 继母  
-visopatre - 继父  
+visematre - 继母  
+visepatre - 继父  
 vitamin - 维生素 (维他命)  
 Vixnu - 毗湿奴  
 vizin - 味精  
@@ -1397,6 +1424,7 @@ Xanghai - 上海
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
 xatan (ruhoxatan) - 撒但  
+xau - 少  
 xei - 事物 (东西)  
 xeihal - 事态  
 xenon - 氙  
@@ -1442,7 +1470,6 @@ yahve - 耶和华 (雅威)
 yamfite - 蔬菜  
 yamyau - 饥饿  
 • exyam - 野餐  
-yasen - 白蜡树  
 yatimokan - 孤儿院  
 yau - 需要  
 • beyau - 必要的  

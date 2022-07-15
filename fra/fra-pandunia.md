@@ -39,6 +39,8 @@ afrophilie - afrikofilia
 agent (faiseur) - ater  
 agent pathogène - patogener  
 agile - agile  
+agnosticisme - annosisme  
+agnostique - annosiste  
 agresseur - agreser  
 agressif - agresive  
 agression (attaque; agresser, attaquer) - agrese  
@@ -51,9 +53,11 @@ air - air
 aire (superficie) - ar  
 Alaska - Alaska  
 alcool - alkol  
+alcoolique (buveur) - alkoliste  
 algue - alga  
 algues - haialge  
 algues brunes - brunalge  
+algèbre - jebre  
 Algérie - Zayeria  
 aller (quitter) - kite  
 aller-retour - retrotikete  
@@ -94,6 +98,7 @@ anneau - ring
 anormal (inhabituel) - annorme  
 Antarctique - Antartike  
 antenne - anten  
+anti-guerre - antigere  
 Antigua - Antigua  
 Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - stibium  
@@ -110,6 +115,7 @@ apprendre (étudier) - xule
 apprivoiser (dresser, dompter, discipliner) - dosile  
 approcher - aproxe  
 approprié (adapté, convenable, opportun) - hape  
+après-guerre - posgere  
 arabe - arabe  
 arachnophobie - aranofobia  
 araignée - arane  
@@ -133,6 +139,7 @@ armure - defkaske
 armée - gun  
 armée de l'ai - airogun  
 arobase (@) - adresoharfe  
+arrêt de bus - bus halte  
 arsenic - arsene  
 art - arte  
 artefact - artofete  
@@ -144,8 +151,10 @@ ascète - askete
 asexué - ansexe  
 asiatique - ase  
 Asie - Asia  
+asperge - asparge  
 aspirine - aspirin  
 assez - bas  
+assujettir - subyuge  
 Assur - Asur  
 Assyrie - Asuria  
 astate - astatium  
@@ -159,7 +168,7 @@ astronomie - astronomia
 Athènes - Athina  
 athée - andeviste  
 atome - atom  
-aubergine - bedinge  
+aubergine - bedinje  
 augmenter - auge  
 Australie - Australia  
 Austronésie - Austronesia  
@@ -170,13 +179,14 @@ automatique - automatike
 automne - padomosim  
 autopsie - nekrotome  
 autre (changer) - ale  
-avant - cene  
+avant - pre  
+avant-guerre - pregere  
 avec (avoir) - ha  
 aventure - ventur  
 aventurier - venturer  
 avis (opinion) - rai  
 avocat - avakate  
-avoine - aven  
+avoine - ave  
 avoir tendance à - ive  
 axe - axe  
 Azerbaijan - Azerbaizan  
@@ -202,7 +212,7 @@ balance (poids) - vezometrer
 balcon - beranda  
 balle (boule) - bol  
 ballon - balon  
-bambou - banse  
+bambou - bambu  
 banane - banan  
 bande - bande  
 bande dessinée - grafosage  
@@ -215,6 +225,7 @@ barbe - barde
 Barbuda - Barbuda  
 baromètre - airbarmetrer  
 barrière - bare  
+barrière - baromur  
 baryum - barium  
 bas - tal  
 bas - tale  
@@ -224,6 +235,8 @@ base de données - datobanke
 baseball - baze bol  
 basketball - baske bol  
 bassin - basen  
+bataille (lutte) - batal  
+bataillon - batalon  
 bateau - nau  
 beau - mei  
 beau-père - gamopa  
@@ -242,6 +255,7 @@ bicyclette - sikle
 bien-être - salamia  
 bilingue - duolinguike  
 billet - tikete  
+biochimie - biokimia  
 biologie - biolojia  
 biome - biosistem  
 bismuth - bismute  
@@ -262,8 +276,9 @@ boucher - bucer
 bouclire - defoban  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - fange  
+bouh! - bu!  
 boulanger - beker  
-bouleau - berze  
+bouleau - betula  
 boulon - bolte  
 bout (pointe, pic) - pike  
 bout de doigt - angulpike  
@@ -278,6 +293,7 @@ brigand (bandit) - luter
 brique - binite  
 brochette - xix  
 brome - bromium  
+brosse à cheveux - kexobroxe  
 brun (marron) - brune  
 brûler - hoge  
 budget - bugete  
@@ -317,6 +333,7 @@ Camomille Romaine - roma kamil
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa  
+canif - jebocaku  
 canne - gana  
 canne à sucre - sukar gana  
 canon - daipau  
@@ -325,20 +342,22 @@ Cantalupo in Sabina - Kantalupo va Sabine
 canyon (ravin) - kanyon  
 cape - mantol  
 carapace (coquille, coquillage, croûte) - kaske  
-Caraïbes - Karaibia  
+Caraïbes - Karibia  
 carbone - karbe  
 cardon - kardonkarcof  
 carotte - karote  
 caroube - karube  
 carreau (tuile) - tail  
-carrière - peikari ziu  
+carrière - peikari jive  
 carte - karde  
-carte - metrograf  
-carte de crédit - krede karte  
+carte - karte  
+carte de crédit - kredokarde  
 carte à collectionner - jamokarde  
-cartographie - metrografia  
+cartographie - kartografia  
 cascade (chute d'eau) - suipade  
 caséine - kizoproten  
+cauri - kauri  
+cellule sanguine (globule) - hemocel  
 cent (100) - cente  
 Centaurée - centaure  
 Centaurée bleuet - nilcentaur  
@@ -401,6 +420,7 @@ citrouille - kaboge
 civil - sivile  
 civique - sivike  
 clair - klare  
+clairvoyant - klarvider  
 client - klien  
 cloche - danger  
 clown (paillasse) - payace  
@@ -430,11 +450,13 @@ concombre de mer - haihiyar
 Confucius - Kongfuze  
 conjonction - juntolexe  
 conjugaison - konyuge  
+connaissance - konnosion  
+connaître - nose  
+connaître - konnose  
 connecter - konnete  
 connecteur - konnetor  
 connexion - konnetion  
 conseil (conseiller) - sele  
-considérer - heme  
 construction - konstrution  
 construire - bine  
 construire - konstrute  
@@ -484,19 +506,21 @@ crocodile - longokrokodil
 crocodilien - krokodil  
 croissant - kruasante  
 croix - krus  
+croque-mitaine - bubu  
 croyant - diniste  
 croyant - krediste  
 crème - krem  
 crème glacée - aiskrem  
 crêpe - franse krepe  
 crêpe - krepe  
-crêperie - krepokan  
+crêperie - kreperia  
 cube - kube  
 cuiller - camaca  
 cuivre - kupre  
 cultiver - agre  
 culturisme (musculation) - muskulbin  
 curium - kurium  
+curry - kari  
 cycliste - sikliste  
 cytologie - celolojia  
 câble (corde) - kable  
@@ -509,6 +533,7 @@ côté - late
 
 ## D  
 
+dadaïsme - dadaisme  
 dance - danse  
 dandélion - makanful  
 danger - hatre  
@@ -525,7 +550,8 @@ dessous - sube
 destin - nasibe  
 deux (2) - du  
 devoir - debu  
-diagonale - diagone  
+diagnose (diagnostic) - dianose  
+diagonale - tragone  
 diamant - adamas  
 dichotomie - duotome  
 dictateur - ditater  
@@ -583,7 +609,7 @@ déféquer - defeke
 dénoncer (annoncer la fin d’un accord) - denunce  
 désaccord (différend) - alorayia  
 désert - sablostan  
-désigner - desinye  
+désigner - desine  
 détruire - destrute  
 dévanagari - deunagre  
 développement - dargomute  
@@ -636,7 +662,6 @@ expatrié - expatrian
 exploser (détoner; explosion) - exploze  
 explosion - bum  
 exposer - expoze  
-exposer - expoze  
 expulser - expele  
 extraire - extrate  
 extrajudiciaire - exjude  
@@ -653,7 +678,7 @@ failli - bankorute
 faillite (banqueroute) - bankorutia  
 faim - yamyau  
 faire (fait) - fete  
-faire - fete  
+faire - fe  
 faiseur (facteur) - feter  
 fait (faiture) - feture  
 fan - fan  
@@ -672,7 +697,7 @@ fermer - kluze
 fermium - fermium  
 feu - hoge  
 feu d’artifice - hogotehne  
-fibre - linem  
+fibre - lineme  
 ficher (fixer) - fixe  
 fier - krede  
 fil de fer - metallin  
@@ -707,7 +732,7 @@ francophone - fransofone
 francophonie - Fransofonia  
 fromage - kize  
 fromage blanc - panir  
-frêne - yasen  
+frêne - frasen  
 fèces - feke  
 féliciter (felicitation) - barke  
 
@@ -730,12 +755,14 @@ genre grammatical - lingue ginse
 geographie - geografia  
 Germanie - Germania  
 germanium - germanium  
-gingembre - jinje  
+gingembre - jenje  
 giraffe - jiraf  
 glace (glacé, glacial, gelé) - ais  
 gland - balutopal  
 glisser - glise  
 glotte - sonomun  
+gnosticisme - nosisme  
+gnostique - nosiste  
 gombo - bamia  
 gorille - gorile  
 goule - gulogui  
@@ -745,7 +772,7 @@ grand-père - cinpai
 granit - granite  
 gravire - grave  
 grenouille - krokroke  
-grimace - grimas  
+grimace - guimuke  
 groupe - grupe  
 grâce à - a xukre de  
 grès - sablopetre  
@@ -777,6 +804,7 @@ habiller (vêtir) - fuke
 hache - futau  
 hafnium - hafnium  
 haine - hen  
+halte - halte  
 hameçon - pesohuke  
 haschich - hasis  
 hassium - hesium  
@@ -808,7 +836,7 @@ huit (8) - bate
 hum - hem  
 humain - humane  
 humanisme - humanisme  
-humeur - emoshal  
+humeur - emotohal  
 humide - xipete  
 humus - hume  
 hydrogène - hidre  
@@ -820,10 +848,13 @@ hélium - helium
 hémoglobine - hemoglobin  
 hétéroromantique (hétéromantique) - aloromanse  
 hétérosexuel - alosexe  
+hôpital - patokan  
 hôtel - hotel  
 
 ## I  
 
+ignorant - annosike  
+ignorer - annose  
 il ou elle - ya  
 ils ou elles - yamen  
 imitateur (mime) - mimer  
@@ -841,12 +872,13 @@ indication (deixis) - dikion
 indien - barte  
 indium - hindium  
 Indus - Hinde riu  
-infecter - patomise  
-infection (contagion) - patomis  
+indépendant - autoreje  
+infecter (infection, contagion) - patomise  
 infection - infetion  
 infidèle (incroyant) - andiniste  
 infidèle (incroyant) - ankrediste  
 inflammation - itis  
+informatique - datoprocesolojia  
 infrastructure - bazostrute  
 infuser - infuze  
 inférer - infere  
@@ -856,8 +888,8 @@ intelligence - intelige
 intelligence artificielle - artofete intelige (AI)  
 intelligible - inteligable  
 intercepter - intercepe  
-international - nasmede  
-interracial - rasmede  
+international - nasomede  
+interracial - rasomede  
 interrompre - interrute  
 intestin (entrailles, ventre, boyau) - intraje  
 introverti - introverse  
@@ -900,6 +932,7 @@ Jésus - yesus
 ## K  
 
 kangourou - kangaru  
+karatéka - karateiste  
 ketchup - kecape  
 Khartoum - Hartum  
 kimono - kimono  
@@ -911,6 +944,7 @@ kumquat - kankuate
 ## L  
 
 l'un l'autre - semon  
+La Mecque - Maka  
 lac - lage  
 laid (vilain) - dusvide  
 laine - mehi kex  
@@ -946,11 +980,11 @@ lichen - algafung
 lien - linke  
 lieu (placer, mettre) - loke  
 lieu de naissance - genoloke  
-ligne (fil) - lin  
+ligne (fil) - line  
 ligne de commande (console, terminal, invite de commande) - amirlin  
 ligne téléphonique - telefonlin  
 lime (citron vert) - kagujolimon  
-limité - limite  
+limité - belime  
 lire - duge  
 liste - liste  
 lithium - litium  
@@ -961,12 +995,14 @@ livre - buke
 local - lokike  
 logique - ratolojia  
 loin - a long  
+lombes - lumbe  
 long - longe  
 longtemps - a longe dure  
 loquace - logive  
 loup - volfe  
 lourd - veze  
 loutre - lontre  
+lumbago (lombalgie) - lumbalgia  
 lumen - lumen  
 lumineux - lumive  
 lumière - fote  
@@ -976,6 +1012,7 @@ luthéranisme - martinluterisme
 luthérien - martinluteriste  
 lutte - jihade  
 lutécium - lutetium  
+luxure (libido) - kame  
 luxure - luxure  
 lynx - lince  
 lys - susan  
@@ -989,6 +1026,7 @@ lézard - saure
 machine à écrire - kitabomaxin  
 magma - pastopetre  
 magnésium - magesium  
+mah-jong - majang  
 maillon (chaînon) - ser:  
 maillon (chaînon) - serlinke  
 main - hande  
@@ -1004,7 +1042,7 @@ mandarin - cini manter
 mandarine - lalorange  
 mandarine satsuma - venzovorange  
 manganèse - mangan  
-manichéisme - manihaiisme  
+manichéisme - maniisme  
 mantra - mantre  
 marbre - kalsokristal  
 marche - marce  
@@ -1071,25 +1109,26 @@ monnaie (pièce) - pesodiske
 monocle - unoki lense  
 monologue - autologe  
 mordre - danta  
-morue - kade  
-morue de l'Atlantique - atlantokade  
+morue - bakalau  
+morue de l'Atlantique - atlantobakalau  
 morue du Pacifique - pacehaikade  
 moscovium - moskovium  
 mot - lexe  
-mot de passe - pasloge  
+mot de passe - pasolexe  
 moteur - moter  
 mouche - domzeze  
 moudjahid (djihadiste) - jihadiste  
 moudre - mole  
 mouiller (mouillé) - xipe  
-moulin - molia  
+moulin - molokan  
 mousse - mos  
 mousson - barsomosim  
 mouvoir (bouger) - kine  
 mule - gadogude  
+multiple - multeple  
 mur - mur  
 musique - muzike  
-musli - musle  
+musli - musli  
 mycélium - fungonete  
 mât - maste  
 mère (maman) - mai  
@@ -1108,6 +1147,7 @@ nappe - mezatexe
 nation - nasia  
 nature - nature  
 nature sauvage - janglia  
+naufrage - naufrage  
 nausée - retroguli sense  
 nautile - nautile  
 neige - hima  
@@ -1161,7 +1201,7 @@ obscur (sombre, foncé) - dam
 obsidienne - osidian  
 occupé - mange  
 ocelot - oselote  
-oculaire - oke  
+oculaire - okule  
 océan - daihai  
 Océan Antarctique - Antartiki Hai  
 océan Arctique - Artiki Hai  
@@ -1204,7 +1244,7 @@ otite - oritis
 ou - o  
 ouah - va  
 oublier - dememe  
-oubliette (cul de basse-fosse) - geonici prizon  
+oubliette (cul de basse-fosse) - geosube jelokan  
 ouest - veste  
 oui - ye  
 ours - urse  
@@ -1253,7 +1293,7 @@ parti - kite
 partisan (guérillero) - geriler  
 parvenir - pervene  
 passe (passage) - pasodau  
-passeport - pasporte  
+passeport - pasoporte  
 passer - pase  
 passer - durize  
 pastèque - arbuze  
@@ -1283,7 +1323,7 @@ pervers - perverse
 peser - vezu  
 pet (vesse; péter) - perde  
 petit - lile  
-peu - save  
+peu - xau  
 peur (effrayer; craindre) - fobe  
 peut-être - ablo  
 phase - faze  
@@ -1297,7 +1337,7 @@ pierre tombale - gabrite
 pieu (poteau) - baton  
 pile (batterie) - batre  
 piment - cili  
-pinceau - pentobrose  
+pinceau - pentobrox  
 pioche - pincope  
 piquant - pinane  
 piquenique - exyam  
@@ -1314,7 +1354,6 @@ plaire - suke
 plan - plan  
 planche - mokoban  
 plante (végétal) - fite  
-planter - poze  
 plaque tectonique - geokaski plate  
 platine - platinium  
 plein - pure  
@@ -1390,6 +1429,7 @@ projeter (image projection) - jetografe
 prolongé - longodure  
 promettre (vœu , promesse) - vode  
 prométhium - prometium  
+pronostic - pronose  
 propice - bonsinye  
 propriété (possession, bien) - male  
 propédeutique (préparatoire) - prepede  
@@ -1419,7 +1459,7 @@ pétrologie - petrolojia
 pêcheur - pesosaider  
 quand - ke sate  
 quartz - kuarze  
-quatre (4) - care  
+quatre (4) - car  
 que (comme) - ka  
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
@@ -1428,7 +1468,7 @@ quotidien (journalier) - denike
 
 ## R  
 
-race - ras  
+race - rase  
 racine - mul  
 radium - radium  
 radon - radon  
@@ -1441,8 +1481,10 @@ rasoir - razor
 raton laveur - vaxurse  
 rayon de miel - maduvesponide  
 rebelle - rebeler  
+rebondir - boing  
 receveur (récepteur) - receper  
 recevoir - recepe  
+reconnaître - rinose  
 recycler - risikle  
 rein - nefre  
 religion - din  
@@ -1494,9 +1536,12 @@ ruthénium - rutenium
 réaction - reation  
 réagir - reate  
 réaliser - relize  
+réaliser - relize  
+réalité - relia  
 réalité - relia  
 rébellion - rebelion  
 réception - recepion  
+réel - rel  
 réel - rel  
 référer - refere  
 réglisse - sus  
@@ -1505,7 +1550,7 @@ régénérer - rigenerate
 réparateur - riboner  
 réparer - ribone  
 réparer - repare  
-réponse - gavabe  
+réponse - javabe  
 répéter - rifete  
 répétition - ri-  
 réussir (avoir du succès, prospérer) - sucese  
@@ -1533,7 +1578,6 @@ samedi - den luka
 Samoa américaines - Amerikan Samoa  
 sandwich - sanduice  
 sang - heme  
-sang - heme  
 santé - sales  
 santé - salude  
 sapin - abete  
@@ -1551,7 +1595,7 @@ sauvage - jangle
 sauver (secourir) - salve  
 sauveur - salver  
 savane - garmozone caustan  
-savoir (connaître) - save  
+savoir (connaître) - sabe  
 Scandinavie - oskandinavia  
 Scandinavie - Skandia  
 scandium - skandium  
@@ -1559,6 +1603,7 @@ scie - xere
 scierie - xerokan  
 sciure - xerofun  
 scooter - motor skuter  
+scorpion - akrabe  
 sculpteur - skulter  
 scutelle - ostosalke  
 se - se  
@@ -1579,7 +1624,7 @@ septième - cetime
 serrure - sor  
 serviette - gantexe  
 seul (unique) - unike  
-sexe - gense  
+sexe - jense  
 sexologie - sexolojia  
 sexologie - sexolojia  
 Shiva - Xiva  
@@ -1604,10 +1649,10 @@ soleil - sol
 son (sa) - se su  
 son - son  
 soufre - sulfe  
-soumettre - karmise  
 soumission - islam  
 sous-estimer - minrai  
 souteneur (maquereau) - sutener  
+spectateur - speter  
 spectateur - speter  
 spiritueux - arake  
 sport - sporte  
@@ -1665,7 +1710,7 @@ tender - tirlonge
 tendu - tense  
 tennessine - tenesium  
 tentacule - senter  
-tente - hemah  
+tente - haima  
 terbium - terbium  
 terrain - geoforme  
 terrain de camping - kampostan  
@@ -1676,7 +1721,7 @@ terrifier - terife
 terrorisme - terurisme  
 texte - texte  
 thallium - talium  
-thon - tune  
+thon - tuna  
 thorium - torium  
 thulium - tulium  
 thé - cai  
@@ -1708,15 +1753,16 @@ Tournesol - soloful
 toxicologie - toxolojia  
 toxine - biotoxe  
 trace - marke  
-tracteur - trator  
+tracteur - trater  
 tragicomique - tragokomi  
-tragique - tragi  
+tragique - trage  
 tragédie - tragodia  
 traitement d'images - grafoprocese  
+traitement de données - datoprocese  
 transmetteur - tranmisor  
 transmettre - tranmise  
 transmission - tranmision  
-travail - karme  
+travail - karaje  
 travailler - kare  
 travailleur (ouvrier) - karer  
 traîner - trate  
@@ -1726,7 +1772,7 @@ tribunal (cour de justice) - judokan
 trichotomie - tritome  
 triple - triple  
 trois (3) - tri  
-tropique - garmozon  
+tropique - garmozone  
 trottinette - skuter  
 truite - salmon  
 truite arc-en-ciel - rangarkosalmon  
@@ -1742,6 +1788,7 @@ télescope (lunette) - teleskope
 télécharger - netogete  
 téléphone - telefon  
 téléphoner - telefone  
+téléréalité - rel televizion  
 téléréalité - rel televizion  
 téléviseur - televide  
 tête - sar  
@@ -1773,7 +1820,7 @@ Venezuela - Venezuele
 venir - lai  
 ventilateur - fentor  
 ver - verme  
-verbe - karloge  
+verbe - karolexe  
 vermouth - vermute  
 verre - kance  
 verre coloré - rangi kance  
@@ -1782,10 +1829,10 @@ verser (face á) - verse
 vert - luge  
 veuve - vidou  
 viande - manse  
-vice-roi - visoreger  
+vice-roi - visereger  
 vie - jive  
 vierge - virge  
-vieux (ancien) - cenike  
+vieux (ancien) - senike  
 vieux (âgé, ancien) - lave  
 vigne - skalotan  
 village - vilaje  
@@ -1804,7 +1851,7 @@ vite (rapide) - suge
 vivant - jive  
 vivisection - zivotome  
 vocabulaire (lexique) - lexia  
-voile - higabe  
+voile - hijabe  
 voile - vele  
 voir - vide  
 voire (même) - hato  
@@ -1814,6 +1861,7 @@ votre - tumen su
 vouloir - vol  
 voyelle - zungofon  
 voyelle - vokal son  
+voûte - arkocate  
 vrai - vere  
 vraiment - a vere  
 vulve - vulve  
@@ -1871,8 +1919,8 @@ zèbre - zebra
 émeraude - zumurude  
 émir - amirer  
 émirat - amiria  
-émoticône (emoji) - emoze  
-émotion - emos  
+émoticône (emoji) - emotikon  
+émotion - emotion  
 épices - masale  
 épicéa - picea  
 épingle - pin  
@@ -1890,7 +1938,7 @@ zèbre - zebra
 étoile - xing  
 étude - studaje  
 étude - studia  
-études de genre - gensolojia  
+études de genre - jensolojia  
 étudiant - studente  
 étudiant - studer  
 étudiant - xuler  
