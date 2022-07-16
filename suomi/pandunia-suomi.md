@@ -220,8 +220,8 @@ ate - teko (toimenpide, akti)
 • interative - vuorovaikutteinen  
 • reate - reagoida  
 • reation - reaktio (vastaliike)  
-Athina - Ateena  
-Atlanti Hai - Atlantin valtameri  
+Atina - Ateena  
+Atlante Hai - Atlantin valtameri  
 atom - atomi  
 ave - kaura  
 avakate - avokado  
@@ -252,6 +252,7 @@ babu - luku (kirjan osa)
 babuce - tohveli  
 babul - akaasia  
 bace - lapsi  
+bade - keho (ruumis)  
 badam - manteli  
 badave - beduiini  
 badle - vaihtaa  
@@ -392,7 +393,6 @@ bizneser - liikemies
 blabla - jutella (höpistä)  
 blablakan - keskusteluhuone  
 bloge - blogi (nettikolumni)  
-bode - keho (ruumis)  
 boi - kellua (kelluke, poiju)  
 boikote - boikotti  
 boing - kimmota (pomppia)  
@@ -571,6 +571,7 @@ core - varastaa (varkaus)
 • corer - varas  
 Cosen - Korea  
 Cuana - Botswana  
+cuke - koskea (koskettaa)  
 cum - suukko (pusu)  
 cupe - imeä  
 cute - poistua  
@@ -605,8 +606,9 @@ dam - tumma (hämärä, pimeä)
 dama gem - tammipeli  
 dane - tanskalainen  
 Dania - Tanska  
-dan - jyvä (luoti)  
-danosekure - luodinkestävä  
+dane - siemen  
+• danike - siemen-  
+danograne - siemenjyvä  
 dange - kilistää (soittaa kelloa)  
 danger - soittokello  
 danse - tanssi  
@@ -1219,7 +1221,7 @@ gui - peikko
 guimuke - irvistys  
 Guyana - Guyana  
 gujarate - gujarati (eräs intialainen kieli)  
-gule - niellä  
+gul - niellä  
 gulogui - ghouli  
 gum - rumpu  
 gun - armeija (sotajoukko)  
@@ -1443,6 +1445,10 @@ ivia - taipumus
 
 ## J  
 
+jai - voittaa (voitto)  
+• jai pandunia - voitto pandunialle!  
+• jayer - voittaja  
+jainisme - jainalaisuus  
 jake - pikkutakki (jakku)  
 jame - koota (kerätä)  
 • jamia - yhteisö (kokoontuminen, kollektiivi)  
@@ -1469,7 +1475,6 @@ jele - vangita
 • jelokan - vankila  
 • jeler - vanginvartija  
 jen - henkilö  
-jenisme - jainalaisuus  
 • dusojen - vihollinen  
 no jen - ei kukaan  
 jeng - taistelu (sota)  
@@ -2247,12 +2252,12 @@ mise - lähettää
 • miser - lähettäjä (lähetin)  
 • exmise - lähettää  
 • konmisia - komission (komitea)  
-• tranmise - välittää (siirtää, lähettää)  
-• tranmision - välitys (siirtäminen, lähetys)  
-• tranmisor - lähetin  
+• tramise - välittää (siirtää, lähettää)  
+• tramision - välitys (siirtäminen, lähetys)  
+• tramisor - lähetin  
 misal - esimerkki  
-misalo - esimerkiksi  
-miskine - kurja (raukka)  
+a misal - esimerkiksi  
+miskin - kurja (raukka)  
 misre - egyptiläinen  
 Misria - Egypti  
 mitre - metri  
@@ -2327,7 +2332,7 @@ muse - pakottaa
 muskete - musketti  
 musketer - musketööri  
 muskul - lihas  
-muskulbin - kehonrakennus (bodaus)  
+muskulobine - kehonrakennus (bodaus)  
 musli - mysli  
 mute - muuttaa (muuntaa)  
 muze - huvi (hauskuus, viihde; viihtyä; huvittaa, viihdyttää)  
@@ -2474,11 +2479,14 @@ nose - tuntea
 • annosike - tietämätön  
 • annosisme - agnostismi  
 • annosiste - agnostikko  
+• benose - tietty (tunnettu)  
+• anbenose - vieras (tuntematon)  
 • dianose - diagnoosi  
 • konnose - tuntea  
 • konnosion - tajunta (kognitio)  
 • pronose - ennuste (prognoosi)  
 • rinose - tunnistaa  
+nosolojia - tietoteoria (epistemologia)  
 noste - kotiinpaluu  
 nostalgia - kaipuu (ikävä, nostalgia)  
 note - huomio (kommentti, merkintä; huomata, hoksata))  
@@ -2628,19 +2636,18 @@ Paraguai - Paraguai
 paraye - hylkiö (paaria)  
 paraye - halveksia (hyljeksiä)  
 param - parametri (argumentti)  
-parce - palanen (murunen, riekale, sirpale)  
-parce - hajottaa (särkeä, repiä, sirpaloida)  
-parce - rikki (palasina)  
+parce - hajottaa (särkeä, repiä; palanen, murunen, riekale, sirpale)  
+• beparce - rikki (palasina)  
 Paris - Pariisi  
 parke - tarha (puisto)  
 parte - osallistua  
-partia - osapuoli (puolue)  
+• partia - osapuoli (puolue)  
 • partaner - partneri (kumppani, osakas)  
 • partaneria - henkilöyhtiö  
-partative - partitiivi  
+• partative - partitiivi  
 • partecepe - osallistua  
 • parteceper - osallistuja  
-parter - osallistuja  
+• parter - osallistuja  
 pase - mennä ohi tai läpi  
 • trapase - kulkea poikki, läpi tai yli  
 pasodau - sola (läpikulku)  
@@ -2776,6 +2783,7 @@ Polske - puola
 polske - puolalainen  
 polskium - polonium  
 pompe - pumppu  
+pompotape - mäntä  
 ponte - osoittaa (näyttää)  
 ponter - osoitin (viisari)  
 pore - huokonen  
@@ -2825,7 +2833,7 @@ pre - ennen (aikaisemmin, aiemmin; aikaisempi, edellinen)
 preden - eilen  
 prese - puristaaa (puristus, paine)  
 • preser - puristin  
-• konprese - pusertaa  
+• konprese - puristaa (pusertaa)  
 • represe - puskea takaisin (alistaa)  
 pro - eteen päin  
 probe - yrittää (kokeilla, koettaa; koe, kokeilu)  
@@ -2850,6 +2858,12 @@ pujomeza - alttari
 pujorite - rituaali (seremonia, riitti)  
 pul - silta  
 pulmon - keuhko  
+pulse - työntää (puskea)  
+• repulse - työntää pois  
+• repulsive - luotaantyöntävä  
+• pulsation - pulssi (syke)  
+• inpulse - työntää sisään  
+• propulse - työntää eteen päin  
 punte - piste (täplä)  
 pupe - nukke  
 pure - täyttää  
@@ -2859,7 +2873,6 @@ purbone - tehdä täydelliseksi
 purbone - täydellinen (täysin hyvä)  
 purfine - tehdä loppuun (saada valmiiksi)  
 purfitoyamiste - vegaani  
-puse - työntää (puskea)  
 • konpute - käsitellä dataa  
 • konputer - tietokone  
 putau - viinirypäle  
@@ -2916,18 +2929,12 @@ reje - hallita kuninkaana
 • rejike - kuninkaallinen  
 • rejer - monarkki (kuningas, kuningatar)  
 rel - todellinen (aito)  
-• rel - todellinen (aito)  
-• relia - todellisuus  
 • relia - todellisuus  
 • rel televizion - tosi-TV  
 • relaje - asia  
 • relisme - realismi  
-• relisme - realismi  
-• reliste - realisti  
 • reliste - realisti  
 • relize - toteuttaa (konkretisoida)  
-• relize - toteuttaa (konkretisoida)  
-• anrel - epätodellinen (epäaito)  
 • anrel - epätodellinen (epäaito)  
 rel televizion - tosi-TV  
 renium - renium  
@@ -2940,11 +2947,11 @@ restorante - ravintola
 Reunion - Reunion  
 rezin - pihka (hartsi)  
 ri- - toisto  
-• rio - taas (uudestaan)  
+• ri - taas (uudestaan)  
 rice - rikas  
 rim - säe (riimi)  
 ring - rengas (kehä)  
-ringar - kehä (ottelualue)  
+ringare - kehä (ottelualue)  
 ris - riisi  
 ris arake - arrakki  
 ris biskute - riisikakku  
@@ -3007,13 +3014,10 @@ rutin - tapa (rutiini)
 
 sabe - tietää (tuntea; tieto, tietämys)  
 • sabize - tiedottaa (informoida)  
-• besabe - tietty (tunnettu)  
-• anbesabe - vieras (tuntematon)  
 • konsabe - tieto  
-sabolojia - tietoteoria (epistemologia)  
 sabovol - kiinnostus (mielenkiinto)  
-sabovolane - utelias (tiedonhaluinen)  
-sabovolite - kiinnostava  
+sabovolive - utelias (tiedonhaluinen)  
+besabovole - kiinnostava  
 sababe - syy (aiheuttaa, olla syynä)  
 sabate - sapatti  
 sable - hiekka  
@@ -3045,8 +3049,8 @@ sal cute - hyvää matkaa
 sal den - päivää!  
 sal lai - tervetuloa!  
 sal noce - hyvää yötä  
-sal suar - hyvää iltaa  
 sal suba - huomenta  
+sal xam - hyvää iltaa  
 sal yam - hyvää ruokahalua!  
 salam - tervehtiä (tervehdys; terve!)  
 salamia - hyvinvointi  
@@ -3058,17 +3062,18 @@ Salvador - El Salvador
 salve - pelastaa  
 • salver - pelastaja  
 same - sama (yhtäläinen)  
-samdexe - samanmaalainen (maanmies)  
-samemos - myötätunto (sympatia)  
+• sames - samuus  
+• samike - samanlainen  
+samodexan - samanmaalainen (maanmies)  
+samemote - myötätunto (sympatia)  
 sammetre - symmetrinen  
 sammetria - symmetria  
-samnam - homonyymi  
-samraye - olla samaa mieltä  
-samrayia - yhteisymmärrys  
-samsife - samanlainen  
+samoname - homonyymi  
+samorai - olla samaa mieltä  
+saomrayia - yhteisymmärrys  
+samosifia - samankaltaisuus  
 samarium - samarium  
 Samoa - Samoa  
-san - vuori (mäki)  
 sanduice - voileipä  
 sanduke - laatikko  
 sante - pyhä  
@@ -3081,12 +3086,12 @@ Sante Marino - San Marino
 Sante Tome e Principe - Sao Tome ja Principe  
 sanze - viuhka (tuuletin)  
 sapate - kenkä  
-sapatokan - suutarin paja  
-sapater - suutari  
+• sapatokan - suutarin paja  
+• sapater - suutari  
 sar - pää  
-sarkaske - kypärä  
+sarokaske - kypärä  
 saroste - pääkallo  
-sartunge - pääkipu (päänsärky)  
+sarotunge - pääkipu (päänsärky)  
 sate - kellonaika (ajankohta)  
 sate di - hetkellinen  
 no sate - ei koskaan (ei kertaakaan)  
@@ -3097,13 +3102,13 @@ saure - lisko
 saus - kastike (soosi)  
 se - itse  
 se su - oma (-nsa)  
-semon - toisiaan (toinen toistaan)  
+semen - toisiaan (toinen toistaan)  
 sekreter - sihteeri  
 sekreteria - sihteeristö  
 sekunde - sekunti  
 sekure - turvallinen (varma, suojattu; turvata, suojella)  
-sele - neuvo (neuvoa, suositella)  
-• selu - pitäisi  
+sel - neuvo (neuvoa, suositella)  
+• sel - pitäisi  
 • konsele - konsultoida (antaa neuvoja)  
 • konseler - konsultti  
 selenium - seleeni  
@@ -3112,42 +3117,30 @@ seme - merkitä (tarkoittaa)
 • semolojia - merkitysoppi (semantiikka)  
 • poliseme - monimerkityksinen (polyseeminen)  
 • unoseme - yksimerkityksinen  
-semen - siemen  
-semendan - siemenjyvä  
-• semenike - siemen-  
 semente - sementti  
 sene - ikä  
-sene - iäkäs  
+• senike - iäkäs (vanhus)  
 senater - senaattori  
-• senike - vanha (muinainen)  
 Senegal - Senegal  
-seng - voitto  
-senge - voittaa (kukistaa)  
 sense - aisti  
 sense - aistia  
-• sensor - sensori (aistin)  
+• senser - sensori (aistin)  
 sente - tuntea  
 sere - sarja  
-ser: - ketjun lenkki  
-seria - sarja  
-serlinke - ketjun lenkki  
-sernete - silmukkapanssari (rengashaarniska)  
-sernete - silmukkapanssari (rengashaarniska)  
-serser - ketju  
-serser - ketju  
+• seria - sarja  
+• sereme - ketjun lenkki  
+• serser - ketju  
+seronete - silmukkapanssari (rengashaarniska)  
 Sera Leone - Sierra Leone  
 serame - savityö (keramiikka)  
 Serbia - Serbia  
 serebre - aivot  
 serpe - käärme  
-serve - palvelu (palvelus)  
-serve - palvella (tarjoilla)  
-server - palvelija (tarjoilija)  
+serve - palvella (palvelu, palvelus)  
+• servike - palvelija (tarjoilija)  
 sesam - seesami  
 sexe - seksi (sukupuolisuhde)  
-sexe - seksikäs  
 • sexike - seksikäs  
-sexolojia - seksologia  
 sexolojia - seksologia  
 • ansexe - aseksuaali  
 • dusexe - biseksuaali  
@@ -3287,9 +3280,6 @@ sualoteme - asia (juttu)
 Svalbarde - Svalbard  
 suan - happo  
 suane - hapan (kirpeä)  
-suar - ilta  
-suarden - iltapäivä  
-suaryam - illallinen  
 Suati - Swazimaa  
 sube - alapuoli  
 • subike - ala-  
@@ -3444,22 +3434,21 @@ tim - joukkue (tiimi)
 Timor - Timor  
 • tipolojia - typologia  
 tire - vetää (kiskoa)  
-tira milke - lypsää maitoa  
+tire milke - lypsää maitoa  
 tirsanduke - vetolaatikko  
 titanium - titaani  
 tix - hiljaa (hys, shhh)  
-tixe - hiljainen  
-tixia - hiljaisuus  
+• tixe - hiljainen  
+• tixia - hiljaisuus  
 tiz: - terävä (kimeä, nokkela, napakka, jne)  
-toce - koskea (koskettaa)  
 Togo - Togo  
 tolere - sallia  
 tome - jakaa (leikata)  
 • tomografe - läpileikkaus  
 • tomografia - tomografia (kerroskuvaus)  
 • duotome - kahtiajako (dikotomia)  
+• jivotome - vivisektio (elävältäleikkaus)  
 • tritome - kolmijako  
-• zivotome - vivisektio (elävältäleikkaus)  
 tomate - tomaatti  
 tone - sävel (sävy)  
 • atone - virittää soitin  
@@ -3713,6 +3702,9 @@ xa - tulevan ajan merkitsijä
 xake - oksa (haara)  
 xakal - šakaali  
 xal - huivi (šaali)  
+xam: - ilta  
+xamden - iltapäivä  
+xamyam - illallinen  
 xaman - šamaani  
 xampan vin - samppanja  
 xanke - epäilys  
@@ -3797,18 +3789,19 @@ yahude - juutalainen
 yahudisme - juutalaisuus  
 yake - jakki  
 yale - kiirehtiä  
-yam - ruoka  
-yame - nauttia (syödä, juoda)  
-yami - herkullinen (nami)  
-yamfite - kasvis  
-yamkamar - ruokasali  
-yamyau - nälkä  
+yam - nauttia (syödä, juoda)  
+• yamaje - ruoka  
+• yamize - syöttää  
+• yamyam di - herkullinen (nami)  
 • exyam - eväsretki (piknik)  
+yamfite - kasvis  
+yamokamar - ruokasali  
+yamyau - nälkä  
 yang - laji (tyyppi, tyyli)  
 yatim - orpo  
-yatimokan - orpokoti  
+• yatimokan - orpokoti  
 yau - tarvita (tarve, puute)  
-• yavike - puutteenalainen  
+• yavive - puutteenalainen  
 • beyau - tarpeellinen  
 • anbeyau - tarpeeton  
 ye - kyllä  

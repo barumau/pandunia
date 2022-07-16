@@ -48,6 +48,7 @@ a longe dure - for a long time
 a max - also (too, in addition)  
 a nove - just (recently)  
 a proxe - nearly (closely, almost)  
+a retre - backward (in reverse)  
 a sababe de - because  
 a sube - under  
 a vere - truly (indeed, very)  
@@ -242,10 +243,10 @@ ate - act (deed)
 • reate - react  
 • reation - reaction  
 ata - sugar-apple (sweetsop)  
-Athina - Athens  
-Atlanti Hai - Atlantic Ocean  
-atlantobakalau - Atlantic cod  
-atlantosalmon - Atlantic salmon  
+Atina - Athens  
+Atlante Hai - Atlantic Ocean  
+atlante bakalau - Atlantic cod  
+atlante salmon - Atlantic salmon  
 atom - atom  
 ave - oat  
 avakate - avocado  
@@ -277,6 +278,7 @@ babu - chapter (section)
 babuce - slipper  
 babul - thorn tree (acacia)  
 bace - child (minor)  
+bade - body (bodily, corporal)  
 badam - almond  
 badave - bedouin (nomadic)  
 badle - exchange (swap, replace, trade)  
@@ -432,7 +434,6 @@ bizneser - businessperson (businessman)
 blabla - chat (babble)  
 blablakan - chat room  
 bloge - blog (web log)  
-bode - body (bodily, corporal)  
 boi - float (buoy, bobber)  
 boipuntonumbe - floating point number  
 boikote - boycott  
@@ -620,6 +621,7 @@ core - steal (theft)
 • corer - thief  
 Cosen - Korea  
 Cuana - Botswana  
+cuke - touch  
 cum - kiss  
 cupe - suck (absorb)  
 cute - leave (go out, exit)  
@@ -658,8 +660,9 @@ dam - dark (dim)
 dama gem - checkers (draughts)  
 dane - Danish  
 Dania - Denmark  
-dan - particle (grain, bullet)  
-danosekure - bulletproof  
+dane - seed (semen)  
+• danike - seminal  
+danograne - seed (fertilized grain)  
 dange - ring (toll, clang)  
 danger - bell  
 danse - dance  
@@ -1375,7 +1378,7 @@ guipapil - oriental poppy
 Guyana - Guyana  
 gujarate - Gujarati  
 guke - florist's chrysanthemum  
-gule - swallow  
+gul - swallow  
 gulogui - ghoul  
 gum - drum  
 gumle - sentence (phrase)  
@@ -1528,6 +1531,7 @@ holonumbe - integer (whole number)
 holera - cholera  
 holmium - holmium  
 home - similar (alike)  
+homoromanse - homoromantic  
 homo - homo sapiens  
 Honduras - Honduras  
 Hong Gong - Hong Kong, SAR China  
@@ -1626,6 +1630,10 @@ ivia - tendency (inclination)
 
 ## J  
 
+jai - win (triumph, victory, gain, succeed)  
+• jai pandunia - victory to Pandunia!  
+• jayer - winner (victor)  
+jainisme - Jainism  
 jake - jacket  
 Jakarta - Jakarta  
 jame - collect (gather, bring together, assemble)  
@@ -1657,7 +1665,6 @@ jele - imprison (jail)
 • jelokan - prison  
 • jeler - jailer (imprisoner)  
 jen - person (individual)  
-jenisme - Jainism  
 • dusojen - enemy (foe, villain)  
 no jen - nobody (no-one)  
 jeng - fight (war, battle, combat)  
@@ -2542,6 +2549,7 @@ milimitre - millimeter
 milke - milk  
 milkokardon - milk thistle  
 mime - mimic (imitate)  
+mime - emulate (simulate, mimic, model)  
 mimer - imitator (mime)  
 Mimas - Mimas  
 min - less  
@@ -2580,12 +2588,12 @@ mise - send (emit, transmit)
 • inmise - import  
 • konmise - commit  
 • konmisia - commission (committee)  
-• tranmise - transmit   
-• tranmision - transmission  
-• tranmisor - transmitter  
+• tramise - transmit   
+• tramision - transmission  
+• tramisor - transmitter  
 misal - example (instance of)  
-misalo - for example  
-miskine - poor (miserable)  
+a misal - for example  
+miskin - poor (miserable)  
 misre - Egyptian  
 Misria - Egypt  
 mitre - meter (100 cm)  
@@ -2674,7 +2682,7 @@ muse - coerce (force, compel)
 muskete - musket  
 musketer - musketeer  
 muskul - muscle  
-muskulbin - bodybuilding  
+muskulobine - bodybuilding  
 musli - muesli  
 mute - change (alter, convert)  
 muze - have fun (enjoy; amuse, entertain; amusement, entertainment)  
@@ -2845,11 +2853,14 @@ nose - know (be acquainted or familiar with)
 • annosike - ignorant  
 • annosisme - agnosticism  
 • annosiste - agnostic  
+• benose - known  
+• anbenose - strange (unknown)  
 • dianose - diagnosis  
 • konnose - recognize (associate with)  
 • konnosion - cognition  
 • pronose - prognosis  
 • rinose - recognize (remember)  
+nosolojia - epistemology  
 noste - homecoming  
 nostalgia - nostalgia (longing)  
 nostalgike - nostalgic  
@@ -3026,23 +3037,21 @@ Paraguai - Paraguay
 paraye - outcast (pariah)  
 paraye - despise (scorn)  
 param - parameter (argument, input variable)  
-parce - piece (fragment, shred, morsel, crumb, shard)  
-parce - shatter (break into pieces)  
-parce - broken (shattered)  
-parcokayu - burst (pop)  
-parcotalu - collapse  
+parce - shatter (break; fragment, morsel, crumb, shard)  
+parcokai - burst (pop)  
+• beparce - broken (shattered)  
 Paris - Paris  
 parke - park (garden)  
 parne - fern  
 parte - participate (attend, partake, take part)  
-partia - party (group)  
+• partia - party (group)  
 • partaner - partner  
 • partaneria - partnership  
-partative - partitive case  
+• partative - partitive case  
 • partecepe - participate  
 • parteceper - participant  
 • partekul - particle  
-parter - participant  
+• parter - participant  
 • departure - departure  
 pase - pass (go across or through)  
 • pasive - passive (inactive)  
@@ -3208,6 +3217,7 @@ Polske - Poland
 polske - Polish  
 polskium - polonium  
 pompe - pump  
+pompotape - piston  
 ponte - point at (indicate)  
 pontopin - compass (magnetized needle)  
 ponter - pointer (indicator)  
@@ -3294,6 +3304,12 @@ pujomeza - altar
 pujorite - ritual (ceremony, religious custom)  
 pul - bridge  
 pulmon - lung  
+pulse - push (thrust)  
+• repulse - push away (repulse)  
+• repulsive - repulsive  
+• pulsation - pulse  
+• inpulse - push in (impulse)  
+• propulse - push forward (propulsion)  
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 puntoban - scoreboard  
@@ -3307,10 +3323,7 @@ purbone - perfect
 purfine - complete (make done)  
 purfitoyamisme - veganism  
 purfitoyamiste - vegan  
-pursipe - soak (steep, marinate)  
-puse - push  
-puser - piston  
-inpuse - squeeze (squish)  
+purxipe - soak (steep, marinate)  
 pute - put (arrange, set into a certain relation, state or condition)  
 • expute - output  
 • inpute - input   
@@ -3373,9 +3386,8 @@ raze - shave (scrape, raze)
 razi table - tabula rasa  
 re- - backwards  
 retre - return (put back)  
-retro - backward (in reverse)  
-retrogule - throw up (vomit, regurgitate)  
-retroguli sense - nausea (motion sickness)  
+retrogul - throw up (vomit, regurgitate)  
+retrogul sense - nausea (motion sickness)  
 Rea - Rhea  
 reje - reign  
 • rejia - kingdom  
@@ -3383,18 +3395,12 @@ reje - reign
 • rejike - royal  
 • rejer - king or queen  
 rel - real (genuine)  
-• rel - real (genuine)  
-• relia - reality  
 • relia - reality  
 • rel televizion - reality television  
 • relaje - thing (matter, topic)  
 • relisme - realism  
-• relisme - realism  
-• reliste - realist  
 • reliste - realist  
 • relize - realize (make real)  
-• relize - realize (make real)  
-• anrel - unreal  
 • anrel - unreal  
 rel televizion - reality television  
 renium - rhenium  
@@ -3407,12 +3413,12 @@ restorante - restaurant
 Reunion - Réunion  
 rezin - resin  
 ri- - repetition  
-• rio - again (repeatedly)  
+• ri - again (repeatedly)  
 rice - rich  
 • ricia - wealth (fortune)  
 rim - rhyme (verse)  
 ring - ring  
-ringar - ring (sports or exhibition arena)  
+ringare - ring (sports or exhibition arena)  
 ris - rice  
 ris arake - arrack  
 ris biskute - rice cake (puffed rice cake)  
@@ -3479,17 +3485,13 @@ rutin - routine (habit)
 
 ## S  
 
-sabe - know (be aware of; knowledge)  
+sabe - know (know how, savvy)  
 • sabize - communicate (inform about)  
-• besabe - known  
-• anbesabe - strange (unknown)  
 • konsabe - information (communicable knowledge)  
-sabolojia - epistemology  
 sabovol - interest (curiosity)  
 sabovole - interested (curious)  
-sabovolu - wonder (be interested in, would like to know)  
-sabovolane - interested (curious)  
-sabovolite - interesting (curious)  
+sabovolive - interested (curious)  
+besabovole - interesting (curious)  
 sababe - reason (cause)  
 sabate - Sabbath  
 sable - sand  
@@ -3523,8 +3525,8 @@ sal cute - farewell
 sal den - good day  
 sal lai - welcome!  
 sal noce - good night  
-sal suar - good evening  
 sal suba - good morning  
+sal xam - good evening  
 sal yam - bon appetit!  
 salam - greet (wish well; greeting; wellfare)  
 salamia - well-being (prosperity)  
@@ -3537,20 +3539,18 @@ Salvador - El Salvador
 salve - save (rescue, salvage)  
 • salver - savior (rescuer)  
 same - same (equal, match)  
-samdexe - compatriot  
-samemos - compassion (sympathy)  
+• sames - sameness  
+• samike - similar (analogous)  
+samodexan - compatriot  
+samemote - compassion (sympathy)  
 sammetre - symmetrical  
 sammetria - symmetry  
-samnam - homonym  
-samraye - agree (concur)  
-samrayia - agreement (consent)  
-samromanse - homoromantic  
-samsife - emulate (simulate, mimic, model)  
-samsife - similar (analogous)  
-samsifia - model (similarity, simulation)  
+samoname - homonym  
+samorai - agree (concur)  
+saomrayia - agreement (consent)  
+samosifia - model (similarity, simulation)  
 samarium - samarium  
 Samoa - Samoa  
-san - mountain (hill)  
 sanduice - sandwich  
 sanduke - box (chest)  
 sante - holy (sacred)  
@@ -3565,13 +3565,13 @@ Sante Tome e Principe - Sao Tome and Principe
 Sante Vincente - Saint Vincent  
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanze - fan (ventilator)  
-sapate - chaussure  
-sapatokan - shoemaker's shop  
-sapater - shoemaker  
+sapate - shoe  
+• sapatokan - shoemaker's shop  
+• sapater - shoemaker  
 sar - head  
-sarkaske - helmet  
+sarokaske - helmet  
 saroste - skull  
-sartunge - headache  
+sarotunge - headache  
 sate - time (clock time, moment, hour)  
 sate di - momentary  
 satodone - dedicate (devote)  
@@ -3584,18 +3584,17 @@ saure - lizard
 saus - sauce  
 se - self (reflexive pronoun)  
 se su - own  
-semon - each other (one another)  
+semen - each other (one another)  
 sekreter - secretary  
 sekreteria - secretariat  
 sekunde - second(s)  
 sekure - safe (secure; protect)  
 sekurokode - password (security code)  
 sekurokope - backup  
-sekuronumbe - personal identification number (PIN)  
-sele - advice (recommend)  
-• selu - should (ought)  
-• konsele - give consultation  
-• konsele - counsel  
+sekuronume - personal identification number (PIN)  
+sel - advice (recommend)  
+• sel - should (ought)  
+• konsele - counsel (give consultation)  
 • konseler - counselor (consultant)  
 selenium - selenium  
 selge - chard  
@@ -3605,48 +3604,33 @@ seme - mean (signify)
 • semolojia - semantics  
 • poliseme - ambiguous (polysemous)  
 • unoseme - unambiguous  
-semen - seed (semen)  
-semendan - seed (fertilized grain)  
-• semenike - seminal  
 semente - cement  
 sene - age  
-sene - aged  
+• senike - aged  
 senater - senator  
-• senike - old (ancient, former)  
 Senegal - Senegal  
-seng - victory (win)  
-senge - win (triumph, succeed, accomplish)  
 sense - sense (method of perception)  
 sense - sense (perceive, detect)  
-• sensor - sensor (detector)  
+• senser - sensor (detector)  
 sente - feel (sense by touch)  
-senter - tentacle (feeler)  
 sere - series (sequence, succession)  
-ser: - link  
 • seria - series (sequence, succession)  
-seria - series (sequence)  
-serlinke - link  
-sernete - chain mail  
-sernete - chain mail  
-serser - chain  
-serser - chain  
+• sereme - link  
+• serser - chain  
+seronete - chain mail  
 Sera Leone - Sierra Leone  
 serame - ceramic  
 seramosing - bluet  
 Serbia - Serbia  
 serebre - brain  
 serpe - snake (serpent)  
-serve - service  
-serve - serve (give service)  
-servor - server (host machine)  
-servor nam - servername (hostname)  
-server - servant  
+serve - serve (service)  
+• servike - servant  
+• server - servant (server)  
+server nam - servername (hostname)  
 sesam - sesame  
 sexe - sex (sexual relation; have sex)  
-sexe - have sex  
-sexe - sexy (sexually arousing)  
 • sexike - sexy (sexually arousing)  
-sexolojia - sexology  
 sexolojia - sexology  
 • ansexe - asexual  
 • dusexe - bisexual  
@@ -3814,9 +3798,6 @@ Svalbarde - Svalbard
 suan - acid  
 suane - sour  
 suanpursipi hiyar - gherkin (pickle)  
-suar - evening  
-suarden - afternoon  
-suaryam - dinner  
 Suati - Eswatini (Swaziland)  
 sube - underside (underneath)  
 • subike - lower (inferior)  
@@ -3991,7 +3972,7 @@ terme - temperature
 termometrer - thermometer  
 • sinteze - synthesis (joint thesis)  
 tesla - tesla (T)  
-teste - prove (test, witness)  
+teste - prove (testify, witness)  
 Tetis - Tethys  
 texe - cloth (fabric, textile)  
 texe - weave  
@@ -4010,8 +3991,8 @@ Timor - Timor
 tipe - type (kind, genre)  
 • tipolojia - typology  
 tire - pull (draw, drag)  
-tira milke - milk (draw milk)  
-tira pil - strip (peel)  
+tire milke - milk (draw milk)  
+tire pil - strip (peel)  
 tirbaton - lever  
 tirlonge - stretch (extend)  
 tiroriu - rip current  
@@ -4020,11 +4001,10 @@ Titan - Titan
 Titania - Titania  
 titanium - titanium  
 tix - hush (shh)  
-tixe - silent  
-tixia - silence  
+• tixe - silent (quiet)  
+• tixia - silence  
 tiz: - sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)  
 • tizife - intensify  
-toce - touch  
 Togo - Togo  
 Tokyo - Tokyo  
 tolere - tolerate  
@@ -4032,9 +4012,9 @@ tome - split (dissect)
 • tomografe - tomogram  
 • tomografia - tomography  
 • duotome - dichotomy  
+• jivotome - vivisection  
 • antomable - indivisible  
 • tritome - trichotomy  
-• zivotome - vivisection  
 tomate - tomato  
 tone - tone (note, pitch)  
 • atone - tune (adjust a musical instrument)  
@@ -4305,6 +4285,7 @@ voke - call (voice; summon)
 • provoke - provoke  
 • revoke - revoke (call back)  
 vol - want (desire, wish; longing)  
+vol sabe - wonder (be interested in, would like to know)  
 volfe - wolf  
 volfram - tungsten (wolfram)  
 Volof - Wolof (language and people)  
@@ -4319,6 +4300,9 @@ xa - will (future aspect marker)
 xake - branch (bough)  
 xakal - jackal  
 xal - scarf (shawl)  
+xam: - evening  
+xamden - afternoon  
+xamyam - dinner  
 xaman - shaman  
 xampan - Champagne  
 xampan vin - champagne  
@@ -4414,20 +4398,21 @@ yahude - Jewish
 yahudisme - Judaism  
 yake - yak  
 yale - hurry (hasten)  
-yam - food (meal)  
-yame - consume (eat or drink)  
-yami - delicious (yummy)  
+yam - consume (eat or drink)  
+• yamaje - food (meal)  
+• yamize - feed  
+• yamyam di - delicious (yummy)  
+• exyam - picnic  
 yamfite - vegetable  
-yamkamar - dining room  
+yamokamar - dining room  
 yamsukarcau - duruka  
 yamyau - hunger  
-• exyam - picnic  
 yang - kind (style, sort, type)  
 yapetus - Iapetus  
 yatim - orphan  
-yatimokan - orphanage  
+• yatimokan - orphanage  
 yau - need (lack; shortage)  
-• yavike - needy (lacking)  
+• yavive - needy (lacking)  
 • beyau - necessary (needed)  
 • anbeyau - unnecessary (extraneous, unneeded)  
 ye - yes  

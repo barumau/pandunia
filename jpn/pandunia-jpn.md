@@ -73,9 +73,9 @@ ate - 行為
 • dusate - 悪事  
 • reate - 反応する  
 • reation - 反応  
-Athina - アテネ  
-atlantobakalau - タイセイヨウダラ  
-atlantosalmon - タイセイヨウサケ  
+Atina - アテネ  
+atlante bakalau - タイセイヨウダラ  
+atlante salmon - タイセイヨウサケ  
 ave - 烏麦  
 aure - 金  
 Austronesia - オーストロネシア  
@@ -88,6 +88,7 @@ autoreje - 独立した
 ## B  
 
 bace - 子供 (赤ちゃん)  
+bade - 体  
 badam - アーモンド (扁桃)  
 bagroselote - ジャガーネコ  
 bake - 白い  
@@ -148,7 +149,6 @@ binoplaner - 建築家
 bir - ビール  
 bismute - ビスマス  
 biznes - 業務 (営業, ビジネス)  
-bode - 体  
 boi - フロート (ブイ)  
 boipuntonumbe - 浮動小数点数  
 bokacate - 口蓋 (上顎)  
@@ -231,6 +231,7 @@ daipau - 大砲
 daipote - 大釜 (大鍋)  
 dam - 暗い  
 dane - デンマークの  
+danograne - 種  
 danger - 鐘 (鈴)  
 • danta - 咬む  
 dantobalute - カシワ  
@@ -877,6 +878,7 @@ mikrobiolojia - 微生物学
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
 milkokardon - マリアアザミ  
+mime - シミュレートする  
 mimer - 模倣者  
 minte - ハッカ  
 • miraje - 蜃気楼  
@@ -885,7 +887,7 @@ mirde - 微か
 • misaje - 伝言 (メッセージ)  
 • misioner - 宣教師  
 • konmisia - 委員会  
-misalo - 例えば  
+a misal - 例えば  
 Misria - エジプト  
 mitre - メートル  
 mixi alkol - カクテル (混合酒)  
@@ -969,6 +971,7 @@ norme - 標準 (普段, ノーマル)
 • annorme - 不自然  
 • nosisme - グノーシス主義  
 • dianose - 診断  
+nosolojia - 認識論  
 nostalgia - 懐古 (懐旧)  
 nove - 新しい  
 • novike - 初心者  
@@ -1021,7 +1024,7 @@ pari numbe - 偶数
 parline - 並行  
 parvezia - 均衡 (平衡)  
 param - 引数 (パラメーター)  
-parcokayu - 弾ける  
+parcokai - 弾ける  
 parne - 羊歯  
 • partaner - パートナー  
 • partaneria - パートナーシップ  
@@ -1078,6 +1081,7 @@ polite - 政府
 polite - 治める (司る)  
 politomode - 政体  
 polskium - ポロニウム  
+pompotape - ピストン (活塞)  
 pontopin - 羅針盤  
 pore - 線  
 • porosi - 多孔質の  
@@ -1107,7 +1111,7 @@ puntoban - スコアボード
 puntonumbe - 得点 (点数)  
 purfitoyamisme - ヴィーガニズム  
 purfitoyamiste - 絶対菜食主義者 (ヴィーガン)  
-pursipe - 漬ける (締める)  
+purxipe - 漬ける (締める)  
 • konputer - コンピュータ  
 putavorange - グレープフルーツ  
 
@@ -1130,13 +1134,11 @@ ratibe - 揃える
 ratibe - 整然  
 • razor - 剃刀  
 razi table - 白紙状態  
-retrogule - 戻す (吐く)  
-retroguli sense - 吐き気 (嘔気)  
+retrogul - 戻す (吐く)  
+retrogul sense - 吐き気 (嘔気)  
 • rejer - 国王  
 • relia - 実在 (現実)  
-• relia - 実在 (現実)  
 • rel televizion - リアリティ番組  
-• relize - 実現する  
 • relize - 実現する  
 rel televizion - リアリティ番組  
 renium - レニウム  
@@ -1144,7 +1146,7 @@ rentogenium - レントゲニウム
 reste in pace (RIP) - 安らかに眠れ  
 ri- - 繰り返し  
 ring - 輪  
-ringar - リング  
+ringare - リング  
 ris - 米 (ご飯)  
 ritim - リズム  
 riu - 川  
@@ -1171,13 +1173,13 @@ ruterfordium - ラザホージウム
 
 sabe - 知る  
 sabovol - 興味 (好奇心)  
-sabovolu - 訝る (-かしら)  
-sabovolane - 知りたがる  
-sabovolite - 面白い  
+sabovolive - 知りたがる  
+besabovole - 面白い  
 sable - 砂  
 • movosable - 流砂  
 sablopetre - 砂岩  
 sablostan - 砂漠  
+sabun - 石鹸 (シャボン)  
 safaroceke - トラベラーズチェック  
 sagu - サゴ  
 sagu fun - サゴ澱粉  
@@ -1190,41 +1192,35 @@ salade - サラダ
 salmon - 鮭鱒  
 salte - 塩  
 • salver - 救世主  
+• samike - 同じよう (近い)  
 sammetre - 対称な  
 sammetria - 対称性  
-samsife - シミュレートする  
-samsife - 同じよう (近い)  
-samsifia - 模型 (類似, シミュレーション)  
+samosifia - 模型 (類似, シミュレーション)  
 samarium - サマリウム  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
 sanze - 扇子  
 sapate - 鞋  
 sar - 頭  
-sartunge - 頭痛  
+sarotunge - 頭痛  
 sate - 瞬間  
 Saturne - 土星  
 saure - 蜥蜴  
 saus - ソース  
 sekurokope - バックアップ (控え)  
-sekuronumbe - 暗証番号  
+sekuronume - 暗証番号  
 • konseler - 顧問  
 selenium - セレン  
 selge - フダンソウ (スイスチャード)  
 • semolojia - 意味論  
-semendan - 種  
 sene - 年齢  
 senater - 上院議員  
-• senike - 古い  
 sense - 感覚  
-senter - 触手  
 sere - 系列  
-ser: - 連結  
-seria - 系列  
-serlinke - 連結  
+• seria - 系列  
+• sereme - 連結  
 serame - 陶器  
-servor - サーバ  
-sexolojia - 性科学  
+• server - サーバ  
 sexolojia - 性科学  
 siane - シアン  
 siborgium - シーボーギウム  
@@ -1277,8 +1273,6 @@ strontium - ストロンチウム
 • studente - 学生  
 sual - 聞く (質問, 問題)  
 sualodokum - アンケート (質問用紙)  
-suar - 夕べ  
-suaryam - 夕食  
 sube - 下  
 subyam - 朝食  
 suba - 朝  
@@ -1331,18 +1325,18 @@ texe - 布
 texomaxin - 織機  
 teze - 論題  (テーゼ)  
 tipe - 種類  
-tira pil - はがす (剥ぐ)  
+tire pil - はがす (剥ぐ)  
 tirbaton - レバー (てこ)  
 tirlonge - 伸びる (張る)  
 tiroriu - 離岸流  
 titanium - チタン  
 tix - しーっ  
-tixe - 静かな (無音)  
-tixia - 静けさ (静寂, 黙秘)  
+• tixe - 静かな (無音)  
+• tixia - 静けさ (静寂, 黙秘)  
 Tokyo - 東京  
 • tomografia - トモグラフィー  
+• jivotome - 生体解剖  
 • tritome - 三分法  
-• zivotome - 生体解剖  
 topografe - 地勢  
 • topografia - 地勢  
 tore - 塔  
@@ -1429,11 +1423,14 @@ vitamin - ビタミン
 Vixnu - ヴィシュヌ  
 vode - 約束  
 vol - 欲しい  
+vol sabe - 訝る (-かしら)  
 volfram - タングステン  
 vulve - 陰門  
 
 ## X  
 
+xam: - 夕べ  
+xamyam - 夕食  
 xaman - シャーマン  
 xampan - 香槟  
 xarke - サメ  
@@ -1472,9 +1469,9 @@ xure - 開始
 ##   
 
 yahve - ヤハウェ (エホバ)  
-yam - 食べ物 (食事)  
-yame - 食べる  
-yami - 美味しい  
+yam - 食べる  
+• yamaje - 食べ物 (食事)  
+• yamyam di - 美味しい  
 yamyau - 飢え  
 yang - タイプ  
 yau - 必要  

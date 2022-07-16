@@ -11,6 +11,7 @@ a long - lejos
 a max - además  
 a nove - ahora mismo (justo)  
 a proxe - casi (aproximadamente)  
+a retre - al revés  
 a sababe de - porque  
 a sube - debajo  
 a xukre de - gracias a (merced a)  
@@ -180,10 +181,10 @@ ate - acto
 • reate - reaccionar  
 • reation - reacción  
 ata - anón (ates, saramuyo)  
-Athina - Atenas  
-Atlanti Hai - océano Atlántico  
-atlantobakalau - bacalao común  
-atlantosalmon - salmón del Atlántico  
+Atina - Atenas  
+Atlante Hai - océano Atlántico  
+atlante bakalau - bacalao común  
+atlante salmon - salmón del Atlántico  
 atom - átomo  
 ave - avena  
 avakate - aguacate  
@@ -211,6 +212,7 @@ Azerbaizan - Azerbaiyán
 babu - capítulo (sección)  
 babuce - chinelo (pantufa)  
 bace - niño o niña  
+bade - cuerpo (corporal, corpóreo)  
 badam - almendra  
 badave - nómada  
 badle - intercambiar (canjear)  
@@ -356,7 +358,6 @@ bizneser - empresario
 blabla - charlar (parlotear, chatear)  
 blablakan - sala de chat (tertuliadero)  
 bloge - blog  
-bode - cuerpo (corporal, corpóreo)  
 boi - flotar (flotador, boya)  
 boipuntonumbe - punto flotante  
 boikote - boicot  
@@ -512,6 +513,7 @@ core - robar (hurtar; robo, hurto)
 • corer - ladrón  
 Cosen - Corea  
 Cuana - Botsuana  
+cuke - tocar (rozar)  
 cum - beso  
 cupe - chupar (succionar)  
 cute - salir (irse)  
@@ -544,8 +546,9 @@ dam - oscuro
 dama gem - damas  
 dane - danés  
 Dania - Dinamarca  
-dan - partícula (grano, bala)  
-danosekure - antibalas  
+dane - semilla  
+• danike - seminal  
+danograne - pepita  
 danger - campana (cencerro)  
 danse - baile (danza)  
 dante - diente  
@@ -1083,6 +1086,7 @@ grafoprocese - procesamiento de imágenes
 grafoprojetor - proyector  
 grafosage - historieta (caricaturas)  
 gram - gramo (g)  
+grane - grano (partícula)  
 granite - granito  
 grave - grava  
 Grenada - Granada  
@@ -1109,7 +1113,7 @@ guimuke - mueca
 Guyana - Guyana  
 gujarate - gujaratí  
 guke - crisantemo  
-gule - tragar  
+gul - tragar  
 gulogui - gul  
 gum - tambor  
 gumle - oración  
@@ -1245,6 +1249,7 @@ hole - entero (todo)
 holonumbe - número entero  
 holera - cólera  
 holmium - holmio  
+homoromanse - homorromántico  
 Honduras - Honduras  
 Hong Gong - Hong Kong  
 hor - hora  
@@ -1334,6 +1339,8 @@ ivia - tendencia
 
 ## J  
 
+jai - gañar (vencer, triunfar; victoria)  
+jainisme - jainismo  
 jake - chaqueta  
 jame - recoger (juntar, reunir, acumular, recolectar, montar)  
 • jamia - conjunto (grupo, montón)  
@@ -1360,7 +1367,6 @@ jele - encarcelar (aprisionar)
 • jelokan - cárcel  
 • jeler - carcelero  
 jen - persona  
-jenisme - jainismo  
 • dusojen - enemigo  
 no jen - ningunos  
 jeng - pelea (guerra, batalla)  
@@ -2113,6 +2119,7 @@ milimitre - milimetre
 milke - leche  
 milkokardon - cardo mariano  
 mime - imitar  
+mime - simular  
 mimer - imitador  
 min - menos  
 • minime - mínimo (lo menos)  
@@ -2141,12 +2148,12 @@ mise - enviar (transmitar)
 • miser - remitente  
 • inmise - importar  
 • konmisia - comisión (comité)  
-• tranmise - transmitir  
-• tranmision - transmisión  
-• tranmisor - transmisor  
+• tramise - transmitir  
+• tramision - transmisión  
+• tramisor - transmisor  
 misal - ejemplo  
-misalo - por ejemplo  
-miskine - pobre (miserable)  
+a misal - por ejemplo  
+miskin - pobre (miserable)  
 misre - egipcio  
 Misria - Egipto  
 mitre - metro  
@@ -2223,7 +2230,7 @@ muse - coaccionar (forzar, obligar)
 muskete - mosquete  
 musketer - mosquetero  
 muskul - músculo  
-muskulbin - fisicoculturismo (culturismo, musculación)  
+muskulobine - fisicoculturismo (culturismo, musculación)  
 musli - muesli  
 mute - cambiar  
 muze - divertir (entretener; diversión)  
@@ -2376,11 +2383,13 @@ nose - conocer
 • annosike - ignorante (ignaro)  
 • annosisme - agnosticismo  
 • annosiste - agnóstico  
+• benose - conocido  
 • dianose - diagnosis (diagnóstico)  
 • konnose - conocer  
 • konnosion - cognición  
 • pronose - pronóstico  
 • rinose - reconocer  
+nosolojia - gnoseología (epistemología)  
 nostalgia - nostalgia  
 nostalgike - nostálgico  
 note - notar (observar; nota)  
@@ -2530,16 +2539,15 @@ Paraguai - Paraguay
 paraye - paria  
 paraye - despreciar (desdeñar)  
 param - parámetro  
-parce - fragmento (pedazo)  
-parce - romper (hacer pedazos)  
-parce - roto  
-parcokayu - reventar  
+parce - romper (hacer pedazos; pedazo, fragmento)  
+parcokai - reventar  
+• beparce - roto  
 parke - parque  
 parne - helecho  
 parte - participar  
-partia - partido (grupo)  
+• partia - partido (grupo)  
 • partaner - socio  
-parter - participante  
+• parter - participante  
 pase - pasar  
 • trapase - transitar (atravesar)  
 pasodau - paso (pasaje)  
@@ -2669,6 +2677,7 @@ Polske - Polonia
 polske - polaco  
 polskium - polonio  
 pompe - bombear  
+pompotape - pistón  
 ponte - apuntar (indicar)  
 pontopin - brújula  
 ponter - indicador (cursor)  
@@ -2739,6 +2748,8 @@ pujomeza - altar
 pujorite - rito (ceremonia)  
 pul - puente  
 pulmon - pulmón  
+pulse - empujar (presionar)  
+• pulsation - pulso  
 puma - puma  
 punte - punto  
 puntoban - marcador  
@@ -2751,8 +2762,7 @@ purbone - perfecto
 purfine - completar (terminar)  
 purfitoyamisme - veganismo  
 purfitoyamiste - vegano  
-pursipe - remojar (marinar, encurtir, macerar)  
-puse - empujar (presionar)  
+purxipe - remojar (marinar, encurtir, macerar)  
 • konpute - calcular (computar)  
 • konputer - computadora (ordenador)  
 putau - uva  
@@ -2803,19 +2813,15 @@ ratibe - ordenado (regular)
 raze - rasurar (afeitar)  
 • razor - razuradora (gillete)  
 retre - vuelta (volver, retornar)  
-retro - al revés  
-retrogule - devolver (vomitar)  
-retroguli sense - náusea  
+retrogul - devolver (vomitar)  
+retrogul sense - náusea  
 reje - reinar  
 • rejia - reino  
 • rejike - real (de realtad)  
 • rejer - rey o reina  
 rel - real  
-• rel - real  
-• relia - realidad  
 • relia - realidad  
 • rel televizion - telerrealidad  
-• relize - realizar  
 • relize - realizar  
 rel televizion - telerrealidad  
 renium - renio  
@@ -2828,11 +2834,11 @@ restorante - restaurante
 Reunion - Reunión  
 rezin - resina  
 ri- - repetición  
-• rio - otra vez (de nuevo)  
+• ri - otra vez (de nuevo)  
 rice - rico  
 rim - rima  
 ring - anillo  
-ringar - ring  
+ringare - ring  
 ris - arroz  
 riske - riesgo  
 rite - costumbre (tradición, convención; traditional, convencional)  
@@ -2890,16 +2896,13 @@ rutin - rutina (hábito)
 
 ## S  
 
-sabe - saber (conocer; sabiduría, conocimiento)  
+sabe - saber (sabiduría)  
 • sabize - comunicar (informar)  
-• besabe - conocido  
 • konsabe - información  
-sabolojia - epistemología  
 sabovol - interés  
 sabovole - interesado (curioso)  
-sabovolu - preguntarse  
-sabovolane - inquisitivo (curioso)  
-sabovolite - interesante (curioso)  
+sabovolive - inquisitivo (curioso)  
+besabovole - interesante (curioso)  
 sababe - razón (causa)  
 sabate - sabbat  
 sable - arena  
@@ -2927,8 +2930,8 @@ sale - saludable
 sal cute - adiós  
 sal den - buenas tardes  
 sal lai - bienvenido  
-sal suar - buenas noches  
 sal suba - buenos días  
+sal xam - buenas noches  
 sal yam - buen provecho  
 salam - saludar (saludo)  
 salamia - bienestar  
@@ -2940,20 +2943,17 @@ Salvador - El Salvador
 salve - salvar (rescatar)  
 • salver - salvador  
 same - equal (similar)  
-samdexe - compatriota  
-samemos - compasión  
+• samike - similar  
+samodexan - compatriota  
+samemote - compasión  
 sammetre - simétrico  
 sammetria - simetría  
-samnam - homónimo  
-samraye - acordar  
-samrayia - acuerdo  
-samromanse - homorromántico  
-samsife - simular  
-samsife - similar  
-samsifia - modelo (similitud, simulación)  
+samoname - homónimo  
+samorai - acordar  
+saomrayia - acuerdo  
+samosifia - modelo (similitud, simulación)  
 samarium - samario  
 Samoa - Samoa  
-san - montaña (colina)  
 sanduice - sándwich (sánduche)  
 sanduke - caja (baúl, cofre, estuche)  
 sante - sagrado (santo)  
@@ -2967,12 +2967,12 @@ Sante Vincente - Isla de San Vicente
 Sante Vincente e Grenadin - San Vicente y las Granadinas  
 sanze - abanico (ventilador)  
 sapate - zapato  
-sapatokan - zapatería  
-sapater - zapatero  
+• sapatokan - zapatería  
+• sapater - zapatero  
 sar - cabeza  
-sarkaske - casco (yelmo)  
+sarokaske - casco (yelmo)  
 saroste - cráneo (calavera)  
-sartunge - dolor de cabeza  
+sarotunge - dolor de cabeza  
 sate - hora (hora del día, momento)  
 sate di - momentáneo  
 satodone - dedicar  
@@ -2984,16 +2984,16 @@ saure - lagarto
 saus - salsa  
 se - se  
 se su - su (suyo)  
-semon - el uno al otro (mutuamente)  
+semen - el uno al otro (mutuamente)  
 sekreter - secretario  
 sekreteria - secretaría  
 sekunde - segundo  
 sekure - seguro (proteger, asegurar, guardar)  
 sekurokode - contraseña  
 sekurokope - copia de seguridad  
-sekuronumbe - número de identificación personal  
-sele - consejo (aconsejar)  
-• selu - deber (se recomienda)  
+sekuronume - número de identificación personal  
+sel - consejo (aconsejar)  
+• sel - deber (se recomienda)  
 • konseler - consultor  
 selenium - selenio  
 selge - acelga  
@@ -3001,43 +3001,30 @@ seme - significar (querer decir)
 • semoforer - semáforo  
 • semolojia - semántica  
 • unoseme - inequívoco  
-semen - semilla  
-semendan - pepita  
-• semenike - seminal  
 semente - cemento  
 sene - edad  
+• senike - viejo  
 senater - senador  
-• senike - viejo (antiguo)  
 Senegal - Senegal  
-seng - victoria  
-senge - gañar (triunfar, lograr, desrotar)  
 sense - sentido  
 sense - sentir (detectar)  
 sente - palpar (tocar)  
-senter - tentáculo  
 sere - serie  
-ser: - eslabón  
-seria - serie  
-serlinke - eslabón  
-sernete - cota de malla  
-sernete - cota de malla  
-serser - cadena  
-serser - cadena  
+• seria - serie  
+• sereme - eslabón  
+• serser - cadena  
+seronete - cota de malla  
 Sera Leone - Sierra Leona  
 serame - cerámica  
 Serbia - Serbia  
 serebre - cerebro  
 serpe - serpiente (culebra)  
-serve - servicio  
-serve - servir  
-servor - servidor  
-server - criado (sirviente)  
+serve - servir (servicio)  
+• servike - criado (sirviente)  
+• server - servidor  
 sesam - ajonjolí (sésamo)  
 sexe - sexo  
-sexe - tener sexo  
-sexe - sexy (sexual)  
 • sexike - sexy (sexual)  
-sexolojia - sexología  
 sexolojia - sexología  
 • ansexe - asexual  
 • dusexe - bisexual  
@@ -3182,9 +3169,6 @@ sualoteme - asunto (caso)
 Svalbarde - Svalbard  
 suane - agrio (ácido)  
 suanpursipi hiyar - pepinillo  
-suar - noche (tarde)  
-suarden - tarde (después de mediodía)  
-suaryam - cena  
 Suati - Esuatini (Suazilandia)  
 sube - parte inferior  
 • subike - inferior  
@@ -3355,23 +3339,22 @@ tim - equipo
 Timor - Timor  
 tipe - tipo (género)  
 tire - tirar  
-tira milke - ordeñar  
-tira pil - quitar (pelar)  
+tire milke - ordeñar  
+tire pil - quitar (pelar)  
 tirbaton - palanca  
 tirlonge - estirar (extender)  
 tiroriu - corriente de resaca  
 tirsanduke - cajón (gaveta)  
 titanium - titanio  
 tix - chito (chist)  
-tixe - silencioso  
-tixia - silencio  
+• tixe - silencioso  
+• tixia - silencio  
 tiz: - intenso (brusco, ácido, fuerte, afilado, rápido)  
-toce - tocar (rozar)  
 Togo - Togo  
 tolere - tolerar  
 • tomografia - tomografía  
 • duotome - dicotomía  
-• zivotome - vivisección  
+• jivotome - vivisección  
 tomate - tomate  
 tone - tono  
 • atone - afinar  
@@ -3582,6 +3565,7 @@ vode - prometer (promesa, voto)
 vodun - vudú  
 • vokal son - vocal  
 vol - querer (desear; deseo)  
+vol sabe - preguntarse  
 volfe - lobo  
 volfram - tungsteno (wolframio)  
 volte - voltio (V)  
@@ -3594,6 +3578,9 @@ vulve - vulva
 xake - rama  
 xakal - chacal  
 xal - bufanda (chal)  
+xam: - noche (tarde)  
+xamden - tarde (después de mediodía)  
+xamyam - cena  
 xaman - chamán (brujo, hechicero)  
 xampan - Champaña  
 xampan vin - champaña  
@@ -3678,18 +3665,18 @@ yahude - judío
 yahudisme - judaísmo  
 yake - yac  
 yale - meter prisa  
-yam - comida  
-yame - comer (bebir)  
-yami - delicioso  
-yamfite - verdura (legumbre)  
-yamkamar - comedor  
-yamyau - hambre  
+yam - comer (bebir)  
+• yamaje - comida  
+• yamyam di - delicioso  
 • exyam - jira (pícnic)  
+yamfite - verdura (legumbre)  
+yamokamar - comedor  
+yamyau - hambre  
 yang - variedad (tipo, estilo)  
 yatim - huérfano  
-yatimokan - orfanato  
+• yatimokan - orfanato  
 yau - necesitar (necesidad)  
-• yavike - necesitado  
+• yavive - necesitado  
 • beyau - necesario  
 • anbeyau - innecesario  
 ye - sí  

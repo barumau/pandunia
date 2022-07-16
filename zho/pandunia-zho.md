@@ -95,9 +95,9 @@ ate - 作为 (行为)
 • ature - 作品  
 • reate - 反应  
 • reation - 反应  
-Athina - 雅典  
-atlantobakalau - 大西洋鱈  
-atlantosalmon - 大西洋鮭  
+Atina - 雅典  
+atlante bakalau - 大西洋鱈  
+atlante salmon - 大西洋鮭  
 ave - 燕麦  
 aure - 金  
 Austronesia - 南岛  
@@ -111,6 +111,7 @@ axe - 轴线
 ba - 吧  
 babu - 章  
 bace - 小孩  
+bade - 身体  
 badam - 杏仁 (巴旦木)  
 bagaje - 行李  
 bagre - 虎  
@@ -183,7 +184,6 @@ binoplania - 建筑学
 binoplaner - 建筑师  
 bir - 啤酒  
 bismute - 铋  
-bode - 身体  
 bokacate - 上颚 (口盖)  
 bokse - 拳击  
 bokser - 拳击手  
@@ -248,6 +248,7 @@ coklate - 巧克力
 coklatobaton - 巧克力棒  
 Congking - 重庆  
 cope - 锄头  
+cuke - 接触  
 cuvogom - 口香糖  
 • cuzable - 选择 (买卖权)  
 
@@ -260,6 +261,9 @@ daipau - 大炮
 daipote - 炼药锅  
 dam - 暗 (黑暗)  
 dane - 丹麦的  
+dane - 种  
+• danike - 种子的  
+danograne - 种子  
 danger - 钟 (摇铃)  
 • danta - 咬  
 dantobalute - 槲树  
@@ -889,7 +893,7 @@ mirde - 微弱的
 • misaje - 信息  
 • misioner - 传教士  
 • konmisia - 委员会  
-misalo - 比如  
+a misal - 比如  
 Misria - 埃及  
 mitre - 米 (公尺)  
 moke - 树木  
@@ -918,7 +922,7 @@ mun - 门
 mur - 墙壁  
 murkaguze - 壁纸 (墙纸)  
 murce - 蚂蚁  
-muskulbin - 健美运动  
+muskulobine - 健美运动  
 musli - 木斯里 (瑞士麦片)  
 muze - 娱乐  
 muzike - 音乐  
@@ -977,6 +981,7 @@ norde - 北
 • annosisme - 不可知论  
 • dianose - 诊断  
 • pronose - 预后  
+nosolojia - 认识论 (知识论)  
 nostalgia - 怀旧  
 note - 便条  
 nove - 新  
@@ -1034,7 +1039,7 @@ pari numbe - 偶数
 • parike - 同辈  
 parvezia - 平衡  
 param - 参数  
-parcokayu - 爆裂  
+parcokai - 爆裂  
 parke - 园  
 parne - 蕨  
 • partaner - 伙伴  
@@ -1088,6 +1093,7 @@ Polinesia - 波利尼西亚
 polite - 政府  
 politomode - 政体  
 polskium - 钋  
+pompotape - 活塞  
 pontopin - 指南针  
 • porosi - 多孔的  
 porei - 韭葱  
@@ -1111,10 +1117,11 @@ puding - 布丁
 • pujokan - 寺庙  
 pujomeza - 圣坛  
 pul - 桥  
+• pulsation - 脉 (脉搏)  
 puma - 美洲獅 (山狮)  
 purfine - 完成  
 purfitoyamiste - 纯素食主义者  
-pursipe - 浸泡  
+purxipe - 浸泡  
 • konputer - 计算机  
 putavorange - 葡萄柚  
 putonge - 普通  
@@ -1135,9 +1142,8 @@ ratibe - 常规 (次序)
 ratibe - 整理  
 • razor - 剃刀  
 retre - 返回 (回来)  
-retrogule - 呕吐  
-retroguli sense - 恶心  
-• relia - 现实  
+retrogul - 呕吐  
+retrogul sense - 恶心  
 • relia - 现实  
 • rel televizion - 真人秀  
 rel televizion - 真人秀  
@@ -1145,7 +1151,7 @@ renium - 铼
 reste - 休息  
 reste in pace (RIP) - 安息  
 ring - 环 (轮)  
-ringar - 擂台  
+ringare - 擂台  
 ris - 米  
 ris vin - 黄酒 (米酒)  
 ritim - 节奏  
@@ -1171,8 +1177,8 @@ rutenium - 钌
 
 sabe - 知道 (晓得)  
 sabovol - 趣  
-sabovolane - 好奇  
-sabovolite - 有趣  
+sabovolive - 好奇  
+besabovole - 有趣  
 sable - 沙  
 • movosable - 流沙  
 sablostan - 沙漠  
@@ -1193,36 +1199,29 @@ salve - 拯救
 same - 一样  
 sammetre - 对称  
 sammetria - 对称性  
-samrayia - 一致  
-samsifia - 模型  
+saomrayia - 一致  
+samosifia - 模型  
 samarium - 钐  
 sanduice - 三明治 (三文治)  
 sante kanon - 圣经  
 sanze - 扇子  
 sapate - 鞋  
 sar - 头  
-sartunge - 头疼 (头痛)  
+sarotunge - 头疼 (头痛)  
 sate - 时候  
 Saturne - 土星  
 saure - 蜥蜴  
-semon - 彼此  
+semen - 彼此  
 • konseler - 顾问  
 selenium - 硒  
 • semolojia - 语义学  
-semen - 种  
-semendan - 种子  
-• semenike - 种子的  
 sene - 年岁  
 senater - 参议员  
-• senike - 古老 (以前)  
 sense - 感觉  
-senter - 觸手  
 sere - 系列  
-ser: - 连结  
-seria - 系列  
-serlinke - 连结  
+• seria - 系列  
+• sereme - 连结  
 serame - 陶瓷  
-sexolojia - 性学  
 sexolojia - 性学  
 side - 座部 (马鞍)  
 • inside - 蹲  
@@ -1267,7 +1266,6 @@ stibium - 锑
 strontium - 锶  
 • studente - 学生  
 sual - 问 (问题)  
-suar - 晚上  
 suge - 快  
 sugude - 速度  
 sui - 水  
@@ -1323,16 +1321,15 @@ teze - 论题
 • tikete - 票  
 • retrotikete - 往返票  
 tim - 队  
-tira milke - 拉  
-tira pil - 削 (刮去)  
+tire milke - 拉  
+tire pil - 削 (刮去)  
 tirbaton - 杆  
 tirlonge - 拉  
 titanium - 钛  
 tix - 噓  
-tixe - 安静  
-tixia - 沉默  
-toce - 接触  
-• zivotome - 活体解剖  
+• tixe - 安静  
+• tixia - 沉默  
+• jivotome - 活体解剖  
 tomate - 西红柿  
 topografe - 地形  
 • topografia - 地形  
@@ -1422,6 +1419,7 @@ vulve - 外阴 (陰门)
 ## X  
 
 xa - 了  
+xam: - 晚上  
 Xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
@@ -1469,10 +1467,10 @@ yamen - 他们
 yamen su - 他们的  
 yamimen - 我们  
 yahve - 耶和华 (雅威)  
+• exyam - 野餐  
 yamfite - 蔬菜  
 yamyau - 饥饿  
-• exyam - 野餐  
-yatimokan - 孤儿院  
+• yatimokan - 孤儿院  
 yau - 需要  
 • beyau - 必要的  
 ye - 对 (是)  

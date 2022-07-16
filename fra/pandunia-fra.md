@@ -7,6 +7,7 @@ a ke - où
 a line - en ligne  
 a long - loin  
 a longe dure - longtemps  
+a retre - en arrière  
 a vere - vraiment  
 a xukre de - grâce à  
 abete - sapin  
@@ -164,10 +165,10 @@ ate - acte
 • dusate - méfait (péché)  
 • reate - réagir  
 • reation - réaction  
-Athina - Athènes  
-Atlanti Hai - océan Atlantique  
-atlantobakalau - morue de l'Atlantique  
-atlantosalmon - saumon altentique  
+Atina - Athènes  
+Atlante Hai - océan Atlantique  
+atlante bakalau - morue de l'Atlantique  
+atlante salmon - saumon altentique  
 atom - atome  
 ave - avoine  
 avakate - avocat  
@@ -188,6 +189,7 @@ Azerbaizan - Azerbaijan
 babu - chapitre  
 babuce - pantoufle (babouche)  
 bace - enfant  
+bade - corps  
 badam - amande  
 badave - bédouin  
 bagaje - bagage  
@@ -290,7 +292,6 @@ binoplania - architecture
 binoplaner - architecte  
 bir - bière  
 bismute - bismuth  
-bode - corps  
 boi - flotter  
 boing - rebondir  
 bokacate - palais de la bouche  
@@ -369,6 +370,7 @@ cire - déchirer
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
 cope - houe  
+cuke - toucher  
 cuvogom - chewing-gum  
 • cuzable - option  
 
@@ -384,6 +386,8 @@ dake - couvrir
 dalil - preuve  
 dam - obscur (sombre, foncé)  
 dane - danois  
+dane - semence  
+• danike - séminal  
 danger - cloche  
 danse - dance  
 dante - dent  
@@ -764,6 +768,8 @@ ivia - tendance
 
 ## J  
 
+jai - vaincre  
+jainisme - jaïnisme  
 jamokarde - carte à collectionner  
 jambul - prune de Java  
 janel - fenêtre  
@@ -780,7 +786,6 @@ jekocepe - empruntre
 jekodone - prêter  
 • jelokan - prison (geôle)  
 jen - personne  
-jenisme - jaïnisme  
 • dusojen - ennemi  
 jenje - gingembre  
 jenju - perle  
@@ -1150,10 +1155,10 @@ mirde - faible
 • mision - mission  
 • misioner - missionnaire  
 • konmisia - commission (comité)  
-• tranmise - transmettre  
-• tranmision - transmission  
-• tranmisor - transmetteur  
-misalo - par exemple  
+• tramise - transmettre  
+• tramision - transmission  
+• tramisor - transmetteur  
+a misal - par exemple  
 Misria - Égypte  
 mitre - mètre  
 mode - mode (façon, manière)  
@@ -1181,7 +1186,7 @@ mul - racine
 mur - mur  
 murkaguze - papier peint  
 murce - fourmi  
-muskulbin - culturisme (musculation)  
+muskulobine - culturisme (musculation)  
 musli - musli  
 muze - amuser  
 muzike - musique  
@@ -1256,6 +1261,7 @@ nose - connaître
 • konnosion - connaissance  
 • pronose - pronostic  
 • rinose - reconnaître  
+nosolojia - épistémologie  
 nostalgia - nostalgie  
 note - note  
 nove - nouveau  
@@ -1333,7 +1339,7 @@ pari numbe - nombre pair
 • repare - réparer  
 parvezia - équilibre  
 param - paramètre  
-parce - fragment  
+parce - rompir (fragment)  
 Paris - Paris  
 parke - parc  
 parne - fougères  
@@ -1404,6 +1410,7 @@ Polinesia - Polynesie
 polite - gouvernement  
 politer - administrateur  
 polskium - polonium  
+pompotape - piston  
 pore - pore  
 • porosi - poreux  
 porei - poireau  
@@ -1443,13 +1450,15 @@ pudu - pourrir (se décomposer)
 • pujokan - temple  
 pujomeza - autel  
 pul - pont  
+pulse - pousser  
+• pulsation - pouls  
 puma - couguar (puma)  
 pupe - poupée  
 pure - remplir  
 pure - plein  
 purbone - perfectionner (parfaire)  
 purfine - accomplir (terminer)  
-pursipe - tremper (faire mariner)  
+purxipe - tremper (faire mariner)  
 • konputer - ordinateur  
 putavorange - pamplemousse  
 
@@ -1473,15 +1482,11 @@ raze - raser
 • razor - rasoir  
 razi table - tabula rasa  
 retre - retour (retourner, revenir; remettre)  
-retro - en arrière  
-retroguli sense - nausée  
+retrogul sense - nausée  
 reje - régner  
 rel - réel  
-• rel - réel  
-• relia - réalité  
 • relia - réalité  
 • rel televizion - téléréalité  
-• relize - réaliser  
 • relize - réaliser  
 rel televizion - téléréalité  
 renium - rhénium  
@@ -1492,7 +1497,7 @@ ri- - répétition
 rice - riche  
 rim - rime  
 ring - anneau  
-ringar - ring (manège)  
+ringare - ring (manège)  
 ris - riz  
 ris vin - vin de riz  
 ritim - rhythme  
@@ -1527,11 +1532,12 @@ ruterfordium - rutherfordium
 
 ## S  
 
-sabe - savoir (connaître)  
+sabe - savoir  
 sable - sable  
 • movosable - sables mouvants  
 sablopetre - grès  
 sablostan - désert  
+sabun - savon  
 • safariste - touriste  
 safaroceke - chèque de voyage  
 sagu - sagoutier  
@@ -1548,17 +1554,18 @@ salte - sel
 salve - sauver (secourir)  
 • salver - sauveur  
 same - égal (même)  
-samemos - compassion  
+samemote - compassion  
 sammetre - symétrique  
 sammetria - symétrie  
-samrayia - accord  
-samsifia - simulation  
+saomrayia - accord  
+samosifia - simulation  
 samarium - samarium  
 sanduice - sandwich  
 sante kanon - saintes écritures   
 sanze - éventail  
+sapate - chaussure  
 sar - tête  
-sartunge - mal de tête  
+sarotunge - mal de tête  
 sate - heure (heure du jour, momente)  
 sate di - momentané  
 Saturne - Saturne  
@@ -1566,27 +1573,22 @@ saure - lézard
 saus - sauce  
 se - se  
 se su - son (sa)  
-semon - l'un l'autre  
+semen - l'un l'autre  
 sekure - sûr  
-sele - conseil (conseiller)  
+sel - conseil (conseiller)  
 • konseler - consultant (conseiller)  
 selenium - sélénium  
 selge - blettes (bettes)  
 seme - signifier (voiloir dire)  
 • semoforer - sémaphore  
 • semolojia - sémantique  
-semen - semence  
-• semenike - séminal  
 sene - âge  
-senater - sénateur  
 • senike - vieux (ancien)  
+senater - sénateur  
 sense - sens  
-senter - tentacule  
 sere - série  
-ser: - maillon (chaînon)  
-seria - série  
-serlinke - maillon (chaînon)  
-sexolojia - sexologie  
+• seria - série  
+• sereme - maillon (chaînon)  
 sexolojia - sexologie  
 • ansexe - asexué  
 siborgium - seaborgium  
@@ -1656,7 +1658,6 @@ stude - étudier (étude)
 suesike - svastika  
 sual - demander (question)  
 suanpursipi hiyar - concombre confit (cornichon)  
-suar - soir (soirée)  
 sube - dessous  
 sude - sud  
 suede - sueur  
@@ -1724,18 +1725,17 @@ texte - texte
 • tikete - billet  
 • retrotikete - aller-retour  
 tim - équipe  
-tira milke - tirer  
-tira pil - écorce  
+tire milke - tirer  
+tire pil - écorce  
 tirlonge - tender  
 titanium - titane  
 tix - chut  
-tixe - silencieux (se taire)  
-tixia - silence  
-toce - toucher  
+• tixe - silencieux (se taire)  
+• tixia - silence  
 • tomografia - tomographie  
 • duotome - dichotomie  
+• jivotome - vivisection  
 • tritome - trichotomie  
-• zivotome - vivisection  
 tomate - tomate  
 • atone - accorder  
 • sintonor - syntoniseur  
@@ -1859,6 +1859,7 @@ vulve - vulve
 
 ## X  
 
+xam: - soir (soirée)  
 xampan - Champagne  
 xampan vin - champagne  
 • xankable - douteux (dubitatif)  
@@ -1907,12 +1908,12 @@ ya - il ou elle
 yamen - ils ou elles  
 yamen su - leur  
 yahve - Yahweh (Jéhovah)  
+• exyam - piquenique  
 yamfite - légume  
 yamyau - faim  
-• exyam - piquenique  
-yatimokan - orphelinat  
+• yatimokan - orphelinat  
 yau - besoin (avoir besoin de)  
-• yavike - nécessiteux (dans le besoin)  
+• yavive - nécessiteux (dans le besoin)  
 • beyau - nécessaire  
 • anbeyau - inutile  
 ye - oui  

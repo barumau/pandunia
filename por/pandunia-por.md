@@ -99,8 +99,8 @@ ate - ato
 • dusate - malfeitoria (pecado)  
 • reate - reagir  
 • reation - reação  
-Athina - Atenas  
-atlantobakalau - bacalhau-do-atlântico  
+Atina - Atenas  
+atlante bakalau - bacalhau-do-atlântico  
 ave - aveia  
 avar - dano (avaria)  
 auge - auge (aumentar)  
@@ -114,6 +114,7 @@ autoreje - independente
 ## B  
 
 bace - criança (menino)  
+bade - corpo  
 badam - amêndoa  
 bagaje - bagagem  
 bagre - tigre  
@@ -192,7 +193,6 @@ binoplania - arquitetura
 binoplaner - arquiteto  
 bir - cerveja  
 bismute - bismuto  
-bode - corpo  
 boi - flutuar  
 boing - rebater  
 bokacate - palato (céu da boca)  
@@ -282,6 +282,8 @@ daipau - canhǎo
 dalil - prova  
 dam - escuro  
 dane - danês  
+dane - semente  
+• danike - seminal  
 danger - sino (campainha)  
 danse - baile (danza)  
 • danta - morder  
@@ -979,10 +981,10 @@ mirde - fraco
 • mision - missão  
 • misioner - missionário  
 • konmisia - comissão (comité)  
-• tranmise - transmitir  
-• tranmision - transmissão  
-• tranmisor - transmissor  
-misalo - por exemplo  
+• tramise - transmitir  
+• tramision - transmissão  
+• tramisor - transmissor  
+a misal - por exemplo  
 Misria - Egipto (Egito)  
 mitre - metro  
 mode - modo (maneira, jeito)  
@@ -1008,7 +1010,7 @@ mul - raíz
 • mumike - múmia  
 mur - muro (muralha)  
 murkaguze - papel de parede  
-muskulbin - fisiculturismo  
+muskulobine - fisiculturismo  
 musli - muesli  
 muzike - música  
 
@@ -1079,6 +1081,7 @@ nose - conhecer
 • konnosion - cognição  
 • pronose - pronóstico (prognóstico)  
 • rinose - reconhecer  
+nosolojia - epistemologia  
 nostalgia - nostalgia (saudade)  
 note - nota  
 nove - novo  
@@ -1217,6 +1220,7 @@ polite - governo
 politomode - regime  
 politer - administrador  
 polskium - polónio  
+pompotape - pistão  
 pore - poro  
 • porosi - poroso  
 porei - alho-porro  
@@ -1250,11 +1254,13 @@ pudu - apodrecer-se
 • pujokan - templo  
 pujomeza - altar  
 pul - ponte  
+pulse - empurrar  
+• pulsation - pulso  
 pure - cheio  
 purbone - aperfeiçoar  
 purfine - terminar (acabar, concluir)  
 purfitoyamiste - vegetalista  
-pursipe - ensopar (encharcar, marinar)  
+purxipe - ensopar (encharcar, marinar)  
 • konputer - computador  
 putavorange - toranja  
 
@@ -1276,14 +1282,11 @@ ratibe - ordem
 • razor - gilete  
 razi table - tábula rasa  
 retre - retornar (voltar)  
-retroguli sense - náusea  
+retrogul sense - náusea  
 reje - reinar  
 rel - real  
-• rel - real  
-• relia - realidade  
 • relia - realidade  
 • rel televizion - televisão de realidade  
-• relize - realizar (concretizar)  
 • relize - realizar (concretizar)  
 rel televizion - televisão de realidade  
 renium - rénio  
@@ -1293,7 +1296,7 @@ reste in pace (RIP) - descanse em paz
 ri- - repetição  
 rim - rima  
 ring - anel  
-ringar - ringue  
+ringare - ringue  
 ris - arroz  
 ritim - ritmo  
 riu - rio  
@@ -1319,11 +1322,12 @@ ruterfordium - rutherfórdio
 
 ## S  
 
-sabe - saber (conhecer)  
-sabovolane - inquisitivo  
+sabe - saber  
+sabovolive - inquisitivo  
 sable - areia  
 • movosable - areia movediça  
 sablostan - deserto  
+sabun - sabão  
 safaroceke - cheque de viajante  
 sagu - sagu  
 sahe - correto (justo)  
@@ -1338,45 +1342,39 @@ salte - sal
 salve - salvar  
 • salver - salvador  
 same - igual  
-samemos - compaixão  
+samemote - compaixão  
 sammetre - simétrico  
 sammetria - simetria  
-samrayia - acordo  
-samsifia - simulação  
+saomrayia - acordo  
+samosifia - simulação  
 samarium - samário  
 sanduice - sanduíche  
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
 sanze - leque  
 sar - cabeça  
-sartunge - dor de cabeça  
+sarotunge - dor de cabeça  
 sate - hora (momento)  
 sate di - momentâneo  
 Saturne - Saturno  
 saure - lagarto  
 se - se  
-semon - um ao outro  
+semen - um ao outro  
 sekure - seguro  
-sele - conselho (aconselhar)  
+sel - conselho (aconselhar)  
 • konseler - consultor  
 selenium - selénio  
 selge - acelga  
 seme - significar (querer dizer)  
 • semolojia - semântica  
-semen - semente  
-• semenike - seminal  
 sene - idade  
-sene - idoso (sene)  
+• senike - idoso (sene)  
 senater - senador  
-• senike - velho (antigo)  
 sense - sentido  
-senter - tentáculo  
 sere - série (sequência)  
-ser: - elo  
-seria - série (sequência)  
-serlinke - elo  
+• seria - série (sequência)  
+• sereme - elo  
 serame - cerâmico  
-sexolojia - sexologia  
 sexolojia - sexologia  
 siborgium - seabórgio  
 • inside - agacharse  
@@ -1438,7 +1436,6 @@ stude - estudar (examinar)
 • studer - estudante  
 suesike - suástica  
 sual - perguntar (pergunta, questão)  
-suar - noitinha  
 sude - sul  
 suede - suor  
 suge - rápido  
@@ -1492,11 +1489,11 @@ teze - tese
 • retrotikete - passagem de volta  
 tirlonge - estirar  
 titanium - titânio  
-tixe - silencioso  
-tixia - silêncio  
+• tixe - silencioso  
+• tixia - silêncio  
 • tomografia - tomografia  
 • duotome - dicotomia  
-• zivotome - vivisecção  
+• jivotome - vivisecção  
 tomate - tomate  
 • atone - afinar  
 • sintone - sintonizar  
@@ -1607,6 +1604,7 @@ vulve - vulva
 
 ## X  
 
+xam: - noitinha  
 xampan - Champagne  
 xampan vin - champanhe  
 • xankable - dúbio (duvidoso)  
@@ -1648,12 +1646,12 @@ xure - começo (início, princípio)
 ##   
 
 yahve - Javé (Jeová)  
+• exyam - piquenique  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
-• exyam - piquenique  
-yatimokan - orfanato  
+• yatimokan - orfanato  
 yau - necessitar (necessidade)  
-• yavike - necessitado  
+• yavive - necessitado  
 • beyau - necessário  
 ye - sim  
 yege - caçar  

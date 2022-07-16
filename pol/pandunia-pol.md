@@ -8,6 +8,7 @@ a le - tu (tutaj, tam)
 a line - online (na linii, w sieci)  
 a nove - właśnie, dopiero co, ostatnio, niedawno  
 a proxe - blisko (niemal, prawie)  
+a retre - wstecz  
 a sababe de - ponieważ, bo  
 a sube - pod (poniżej)  
 a zay den - dziś, dzisiaj  
@@ -154,9 +155,9 @@ Asuria - Asyria
 • anative - zdeaktywowany (wyłączony, zatrzymany)  
 • deative - deaktywować (wyłączyć, zatrzymać)  
 ata - jabłko cukrowe  
-Atlanti Hai - Ocean Atlantycki  
-atlantobakalau - dorsz atlantycki  
-atlantosalmon - łosoś atlantycki  
+Atlante Hai - Ocean Atlantycki  
+atlante bakalau - dorsz atlantycki  
+atlante salmon - łosoś atlantycki  
 atom - atom  
 avakate - awokado  
 avar - obrażenia (rana, krzywda)  
@@ -179,6 +180,7 @@ babu - rozdział, sekcja
 babuce - kapeć (papeć, bambosz)  
 babul - akacja  
 bace - dziecko (nieletni)  
+bade - ciało  
 badam - migdał  
 badave - beduiński; nomadyczny  
 badle - wymieniać, wymienić, zamieniać, zamienić  
@@ -316,7 +318,6 @@ bizneser - osoba biznesu, biznesman
 blabla - luźna rozmowa, gadanina  
 blablakan - pokój rozmów, chat  
 bloge - blog  
-bode - ciało  
 boi - spławik (boja)  
 boikote - bojkot  
 boka - usta  
@@ -454,6 +455,7 @@ core - kraść (ukraść; kradzież)
 • corer - złodziej  
 Cosen - Korea  
 Cuana - Botswana  
+cuke - dotyczyć  
 cum - całus  
 cupe - ssać  
 cute - wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie)  
@@ -485,8 +487,9 @@ dam - ciemny, słabo oświetlony
 dama gem - warcaby  
 dane - duński  
 Dania - Dania  
-dan - cząstka (ziarno, kula, pocisk)  
-danosekure - kuloodporny  
+dane - ziarno (nasienie)  
+• danike - nasienny  
+danograne - ziarno, nasienie  
 dange - dzwonić (dźwięczeć, szczękać)  
 danger - dzwon (dzwonek)  
 danse - taniec  
@@ -968,6 +971,7 @@ grafobuke - książka z obrazkami
 grafoprojetor - projektor (rzutnik)  
 grafosage - komiks; kreskówka  
 gram - gram  
+grane - cząstka  
 granite - granit  
 grave - żwir  
 Grenada - Grenada  
@@ -994,7 +998,7 @@ guimuke - grymas
 guipapil - mak wschodni  
 Guyana - Gujana  
 gujarate - Gudżarat  
-gule - połknąć (połykać)  
+gul - połknąć (połykać)  
 gulogui - ghul  
 gum - bęben  
 gumle - zdanie (fraza)  
@@ -1121,6 +1125,7 @@ hole - cały
 • holisme - holizm  
 holera - cholera  
 holmium - holm  
+homoromanse - homoromantyczny  
 Honduras - Honduras  
 Hong Gong - Hong Kong  
 hor - godzina  
@@ -1207,6 +1212,8 @@ ivia - tendencja
 
 ## J  
 
+jai - zwyciężyć (wygrać; zwycięstwo, wygrana)  
+jainisme - dźinizm, dżinizm  
 jake - kurtka  
 Jakarta - Dżakarta  
 jame - kolekcjonować, zebrać, zbierać  
@@ -1232,7 +1239,6 @@ jele - uwięzić, więzić, pozbawić wolności
 • jelokan - więzienie, zakład karny  
 • jeler - strażnik więzienny  
 jen - osoba  
-jenisme - dźinizm, dżinizm  
 no jen - nikt, żadna osoba  
 jeng - walka, wojna  
 jenge - militarny, wojskowy, wojenny  
@@ -1955,6 +1961,7 @@ miligram - miligram
 milimitre - milimetr  
 milke - mleko  
 milkokardon - ostropest plamisty  
+mime - emulować (symulować, naśladować, modelować)  
 min - mniej  
 • minime - najmniej (minimalnie)  
 • minimisme - minimalizm  
@@ -1980,8 +1987,8 @@ mise - wysłać (wyemitować)
 • inmise - importować (zaimportować)  
 • konmisia - komisja (komitet)  
 misal - przykład  
-misalo - na przykład  
-miskine - biedny, mizerny  
+a misal - na przykład  
+miskin - biedny, mizerny  
 misre - egipski  
 Misria - Egipt  
 mitre - metr  
@@ -2060,7 +2067,7 @@ muse - zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać
 muskete - muszkiet  
 musketer - muszkieter  
 muskul - muskuł, mięsień  
-muskulbin - kulturystyka  
+muskulobine - kulturystyka  
 musli - musli  
 mute - zmienić, zmieniać  
 muze - zabawa (rozrywka; bawić, zabawiać)  
@@ -2195,6 +2202,9 @@ norme - norma (standard; normalny)
 • nosiste - gnostyk  
 • annosisme - agnostycyzm  
 • annosiste - agnostyk  
+• benose - wiadomy, znany  
+• anbenose - dziwny (nieznany)  
+nosolojia - epistemologia (gnoseologia, teoria poznania)  
 nostalgia - nostalgia (tęsknota)  
 nostalgike - nostalgiczny  
 note - uwaga (obserwacja; notować, obserwować, zauważyć, zauważać)  
@@ -2331,18 +2341,16 @@ Paraguai - Paragwaj
 paraye - wyrzutek  
 paraye - gardzić (pogardzać)  
 param - parametr (argument, wartość wejściowa)  
-parce - część (fragment, strzęp, kawałek, okruch)  
-parce - stłuc się (rozpaść się na kawałki)  
-parce - stłuczony (pęknięty)  
-parcokayu - pękać (rozrywać się)  
-parcotalu - zapaść się (zapadać się, runąć)  
+parce - stłuc się (część, strzęp, kawałek, okruch, fragment)  
+parcokai - pękać (rozrywać się)  
+• beparce - stłuczony (pęknięty)  
 Paris - Paryż  
 parke - park (ogród)  
 parne - paproć  
 parte - uczestniczyć, wziąć udział, brać udział  
-partia - partia  
+• partia - partia  
 • partaner - partner  
-parter - uczestnik  
+• parter - uczestnik  
 pase - minąć, mijać, przeminąć, przemijać  
 • pasive - pasywny (nieaktywny)  
 • trapase - przejść, przechodzić, przejechać, przejeżdżać  
@@ -2457,6 +2465,7 @@ Polske - Polska
 polske - polski  
 polskium - polon  
 pompe - pompować  
+pompotape - tłok  
 ponte - wskazać, wskazywać  
 pontopin - kompas (namagnesowana igła)  
 ponter - wskaźnik  
@@ -2516,6 +2525,7 @@ pujomeza - ołtarz
 pujorite - rytuał, ceremonia, ryt  
 pul - most  
 pulmon - płuco  
+pulse - pchnąć, pchać  
 puma - puma (kuguar)  
 punte - kropka (znak interpunkcyjny)  
 puntoban - tablica wyników  
@@ -2527,10 +2537,7 @@ puro - pełnie (całkowicie)
 purbone - doskonalić (optymalizować, ulepszać)  
 purbone - perfekcyjny  
 purfitoyamiste - weganin (weganka)  
-pursipe - namoczyć (marynować)  
-puse - pchnąć, pchać  
-puser - tłok  
-inpuse - ścisnąć (sciskać, wycisnąć)  
+purxipe - namoczyć (marynować)  
 • konpute - policzyć (przetwarzać dane)  
 • konputer - komputer  
 putau - winogrono  
@@ -2579,13 +2586,11 @@ rate - mieć sens
 ratibe - porządek  
 ratibe - porządkować, organizować  
 retre - powrót (wrócić, wracać, wycofać się, wycofywać się)  
-retro - wstecz  
-retrogule - wymiotować (zwrócić)  
-retroguli sense - nudności (choroba lokomocyjna)  
+retrogul - wymiotować (zwrócić)  
+retrogul sense - nudności (choroba lokomocyjna)  
 • rejia - królestwo  
 • rejike - królewski  
 • rejer - król lub królowa  
-• relia - rzeczywistość (realność)  
 • relia - rzeczywistość (realność)  
 renium - ren  
 rentogenium - roentgen  
@@ -2597,7 +2602,7 @@ restorante - restauracja
 Reunion - Reunion  
 rezin - żywica  
 ri- - powtarzanie, powtórka  
-• rio - znowu (ponownie)  
+• ri - znowu (ponownie)  
 rice - bogaty  
 • ricia - bogactwo (fortuna, majątek)  
 rim - rym (wers)  
@@ -2658,13 +2663,10 @@ rutin - rutyna, nawyk, zwyczaj
 
 sabe - wiedzieć (wiedza)  
 • sabize - poinformować, informować, zakomunikować, komunikować  
-• besabe - wiadomy, znany  
-• anbesabe - dziwny (nieznany)  
 • konsabe - informacja  
-sabolojia - epistemologia  
 sabovol - zainteresowanie, zaciekawienie; interesujący  
-sabovolane - ciekawy  
-sabovolite - interesujący  
+sabovolive - ciekawy  
+besabovole - interesujący  
 sababe - powód (przyczyna; spowodować, powodować)  
 sabate - szabat, szabas  
 sable - piasek, piach  
@@ -2691,8 +2693,8 @@ sale - zdrowy
 sal cute - żegnaj, dobre odejście  
 sal den - dzień dobry  
 sal lai - witaj, dobre przybycie  
-sal suar - dobry wieczór  
 sal suba - dobry ranek  
+sal xam - dobry wieczór  
 sal yam - smacznego  
 salam - pozdrowienie (pozdrowić, pozdrawiać)  
 salsafe - czysty (higieniczny, sanitarny)  
@@ -2704,18 +2706,15 @@ Salvador - Salwador
 salve - ratować  
 • salver - ratownik  
 same - taki sam  
-samdexe - rodak, ziomek, krajan  
-samemos - współczucie  
-samnam - homonim  
-samraye - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
-samrayia - porozumienie  
-samromanse - homoromantyczny  
-samsife - emulować (symulować, naśladować, modelować)  
-samsife - podobny (analogiczny)  
-samsifia - model (podobieństwo, symulować)  
+• samike - podobny (analogiczny)  
+samodexan - rodak, ziomek, krajan  
+samemote - współczucie  
+samoname - homonim  
+samorai - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
+saomrayia - porozumienie  
+samosifia - model (podobieństwo, symulować)  
 samarium - samar  
 Samoa - Samoa  
-san - góra, wzgórze  
 sanduice - kanapka  
 sanduke - pudło, skrzynia  
 sante - święty  
@@ -2729,12 +2728,12 @@ Sante Vincente - Saint Vincent
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanze - wiatrak (wentylator)  
 sapate - but  
-sapatokan - warsztat szewski  
-sapater - szewc  
+• sapatokan - warsztat szewski  
+• sapater - szewc  
 sar - głowa  
-sarkaske - hełm  
+sarokaske - hełm  
 saroste - czaszka  
-sartunge - ból głowy  
+sarotunge - ból głowy  
 sate - czas  
 sate di - chwilowy  
 satodone - dedykować (poświęcać, poświęcić)  
@@ -2751,49 +2750,36 @@ sekreteria - sekretariat
 sekunde - sekunda  
 sekure - bezpieczny (chronić, ratować)  
 sekurokode - hasło  
-sekuronumbe - osobisty numer identyfikacyjny (pin)  
-sele - rada, porada  
-• selu - powinien  
+sekuronume - osobisty numer identyfikacyjny (pin)  
+sel - rada, porada  
+• sel - powinien  
 selenium - selen  
 selge - boćwina (botwina)  
 seme - znaczyć  
 • unoseme - jednoznaczny  
-semen - ziarno (nasienie)  
-semendan - ziarno, nasienie  
-• semenike - nasienny  
 semente - cement  
 sene - wiek  
 senater - senator  
-• senike - stary, starożytny  
 Senegal - Senegal  
-seng - zwycięstwo, wygrana  
-senge - zwyciężyć, wygrać  
 sense - zmysł  
 sense - czuć (poczuć, postrzegać, wykrywać)  
-• sensor - sensor (detektor, czujka)  
+• senser - sensor (detektor, czujka)  
 sente - czuć  
-senter - macka (czułek)  
 sere - seria, szereg  
-seria - seria, szereg  
-sernete - kolczuga  
-sernete - kolczuga  
-serser - łańcuch  
-serser - łańcuch  
+• seria - seria (szereg)  
+• serser - łańcuch  
+seronete - kolczuga  
 Sera Leone - Sierra Leone  
 serame - ceramika  
 seramosing - houstonia  
 Serbia - Serbia  
 serebre - mózg  
 serpe - wąż  
-serve - służba  
-serve - służyć  
-server - sługa  
+serve - służyć (służba)  
+• servike - sługa  
 sesam - sezam  
-sexe - seks, stosunek płciowy  
-sexe - kochać się, uprawiać seks  
-sexe - seksowny, ponętny  
+sexe - seks (stosunek płciowy; kochać się, uprawiać seks)  
 • sexike - seksowny, ponętny  
-sexolojia - seksuologia  
 sexolojia - seksuologia  
 • ansexe - aseksualny  
 • dusexe - biseksualny  
@@ -2923,9 +2909,6 @@ sualoteme - kwestia, problem
 Svalbarde - Swalbard  
 suane - kwaśny  
 suanpursipi hiyar - korniszon  
-suar - wieczór  
-suarden - popołudnie  
-suaryam - kolacja  
 Suati - Suazi  
 sube - spód  
 • subike - poniższy  
@@ -3084,24 +3067,23 @@ tim - drużyna
 Timor - Timor  
 tipe - typ (rodzaj, gatunek)  
 tire - ciągnąć  
-tira milke - wydoić, doić  
-tira pil - obrać (obierać)  
+tire milke - wydoić, doić  
+tire pil - obrać (obierać)  
 tirbaton - dźwignia  
 tirlonge - rozciągać (rozciągnąć)  
 tiroriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirsanduke - szuflada  
 titanium - tytan  
 tix - ćsi  
-tixe - cichy  
+• tixe - cichy  
 tiz: - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 • tizife - wzmacniać się (wzmagać, pogłębiać się)  
-toce - dotyczyć  
 Togo - Togo  
 Tokyo - Tokio  
 tolere - tolerować  
 • tomografia - tomografia  
 • duotome - dychotomia  
-• zivotome - wiwisekcja  
+• jivotome - wiwisekcja  
 tomate - pomidor  
 tone - ton, dźwięk, nuta, tonacja  
 tong - beczka  
@@ -3296,6 +3278,9 @@ vulve - srom
 xake - gałąź, konar  
 xakal - szakal  
 xal - szal, szalik  
+xam: - wieczór  
+xamden - popołudnie  
+xamyam - kolacja  
 xaman - szaman  
 xampan - Champagne  
 Xanghai - Szanghaj  
@@ -3378,17 +3363,17 @@ yahude - żydowski
 yahudisme - judaizm  
 yake - jak (zwierzę)  
 yale - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
-yam - jedzenie, posiłek  
-yame - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
-yami - pyszny  
+yam - skonsumować, konsumować, zjeść, jeść, wypić, pić)  
+• yamaje - jedzenie, posiłek  
+• yamyam di - pyszny  
+• exyam - piknik  
 yamfite - warzywo  
-yamkamar - jadalnia  
+yamokamar - jadalnia  
 yamsukarcau - cukrowiec jadalny  
 yamyau - głód  
-• exyam - piknik  
 yang - rodzaj, typ, styl  
 yatim - sierota  
-yatimokan - sierociniec, dom dziecka  
+• yatimokan - sierociniec, dom dziecka  
 yau - potrzeba (potrzebować)  
 • beyau - potrzebny  
 • anbeyau - niepotrzebny  

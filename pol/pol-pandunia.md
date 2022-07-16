@@ -190,7 +190,7 @@ Biblia - biblia
 biblioteka - kitabokan  
 bibliotekarz - kitabominister  
 biec (biegać, pędzić) - kore  
-biedny, mizerny - miskine  
+biedny, mizerny - miskin  
 bieżący (aktualny, obecny) - zay zaman su  
 bilet - tikete  
 bilet powrotny - retrotikete  
@@ -275,7 +275,7 @@ być wezwanym, być wzywanym, być nazwanym, być nazywanym - name
 bóbr - kastor  
 bóg, bóstwo - deu  
 ból (cierpienie; cierpieć) - tunge  
-ból głowy - sartunge  
+ból głowy - sarotunge  
 bąk, bączek - rototope  
 bęben - gum  
 bławatek - nilcentaur  
@@ -336,11 +336,11 @@ chwilowy - sate di
 chór - cantergrupe  
 chłopak - yune man  
 ciasto, ciastko - keke  
-ciało - bode  
+ciało - bade  
 cichy - tixe  
 ciecierzyca - humus  
 ciecz (płyn) - riumate  
-ciekawy - sabovolane  
+ciekawy - sabovolive  
 ciemny, słabo oświetlony - dam  
 ciepły - garme  
 cieszyć, podobać się - suke  
@@ -407,10 +407,9 @@ czwartek - den nelu
 czysty (higieniczny, sanitarny) - salsafe  
 czysty (wyczyścić, czyścić) - safe  
 czytać - duge  
-cząstka (ziarno, kula, pocisk) - dan  
+cząstka - grane  
 często - poli mar  
 częstotliwość - polimaria  
-część (fragment, strzęp, kawałek, okruch) - parce  
 członek - member  
 człowiek, istota ludzka - human  
 córka - femi pute  
@@ -460,7 +459,7 @@ do, dopóki, dla - ta
 dobry - bon  
 dobry los, szczęście - boni zar  
 dobry ranek - sal suba  
-dobry wieczór - sal suar  
+dobry wieczór - sal xam  
 dodatkowy - maxbone  
 dodatkowy - maxaje  
 doktor (uczony, który osiągnął doktorat) - dotor  
@@ -475,13 +474,13 @@ domino - dominogem
 doradca (mentor) - menter  
 dorosły, dojrzały - mature  
 dorsz - bakalau  
-dorsz atlantycki - atlantobakalau  
+dorsz atlantycki - atlante bakalau  
 dorsz pacyficzny - pacehaikade  
 doskonalić (optymalizować, ulepszać) - purbone  
 dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) - fade  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - dege  
+dotyczyć - cuke  
 dotyczyć - tate  
-dotyczyć - toce  
 dowieść, dowodzić; zeznać, zeznawać - dalile  
 dowód; zeznanie - dalil  
 dowódca, kierownik - lider  
@@ -544,7 +543,7 @@ dziki - jangle
 dziobak - batakrote  
 dziura - kong  
 dziw (cudo) - ajibe  
-dziwny (nieznany) - anbesabe  
+dziwny (nieznany) - anbenose  
 dziwny - bizar  
 dziękować (dzięki) - xukre  
 dziś, dzisiaj - a zay den  
@@ -558,7 +557,7 @@ dąb zębaty - dantobalute
 długi - longe  
 długość - longes  
 długość geograficzna - longude  
-dźinizm, dżinizm - jenisme  
+dźinizm, dżinizm - jainisme  
 dźwignia - tirbaton  
 dźwięk (brzmienie; brzmieć, wydać dźwięk, wydawać dźwięk) - son  
 Dżakarta - Jakarta  
@@ -594,12 +593,12 @@ emirat - amiria
 emocja, uczucie - emotion  
 emocjonalny (uczuciowy) - emotos  
 emoji (emotkon) - emotikon  
-emulować (symulować, naśladować, modelować) - samsife  
+emulować (symulować, naśladować, modelować) - mime  
 endonim - inonam  
 energia - energe  
 energia nuklearna - kori energia  
 enzym - enzim  
-epistemologia - sabolojia  
+epistemologia (gnoseologia, teoria poznania) - nosolojia  
 erb - erbium  
 Eris (planeta karłowata) - Eris  
 Erytrea - Eritria  
@@ -779,7 +778,6 @@ Gwinea - Konakri Ginia
 Gwinea Równikowa - Geoparline Ginia  
 góra (szczyt) - gau  
 góra, wzgórze - monte  
-góra, wzgórze - san  
 górnik (kopacz) - kuanger  
 górny - supre  
 gówno - xite  
@@ -829,7 +827,7 @@ herbata - cai
 herc - herze  
 heteroromantyczny - aloromanse  
 heteroseksualny - alosexe  
-hełm - sarkaske  
+hełm - sarokaske  
 higiena - salsafia  
 Himalaje - Himalia  
 hinduistyczny - hindiste  
@@ -851,8 +849,8 @@ Holandia (Królestwo Niderlandów) - Nederlandia
 holizm - holisme  
 holm - holmium  
 hologram - holografe  
-homonim - samnam  
-homoromantyczny - samromanse  
+homonim - samoname  
+homoromantyczny - homoromanse  
 homoseksualny - homosexe  
 Honduras - Honduras  
 Hong Kong - Hong Gong  
@@ -910,7 +908,7 @@ informatyka - datoprocesolojia
 inny (zmienić, zmieniać) - ale  
 innymi słowy - alonamo  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tiz:  
-interesujący - sabovolite  
+interesujący - besabovole  
 interfejs - midofas  
 internet - internete  
 inżynier - enjener  
@@ -943,7 +941,7 @@ iść, maszerować - marce
 ja, mnie - mi  
 jabłko - aple  
 jabłko cukrowe - ata  
-jadalnia - yamkamar  
+jadalnia - yamokamar  
 jagoda - beri  
 jajko (jajo) - ove  
 jak (zwierzę) - yake  
@@ -974,7 +972,7 @@ jednoznaczny - unoseme
 jedwab - silke  
 jedynie (tylko) - uniko  
 jedyny (wyłączny) - unike  
-jedzenie, posiłek - yam  
+jedzenie, posiłek - yamaje  
 Jemen - Yemen  
 Jerozolima - Urusalem  
 Jersey - Jerzi  
@@ -1116,7 +1114,6 @@ kobalt - kobalte
 kobieta, dorosła samica - maturi fem  
 kobieta; kobiecy - fem  
 kochać (miłość, afekt) - ame  
-kochać się, uprawiać seks - sexe  
 kocioł - daipote  
 kod, szyfr - kode  
 kodować - inkode  
@@ -1126,10 +1123,9 @@ koktajl - mixi alkol
 kola (coca-cola) - koka kola  
 kola, napój gazowany - kola jus  
 kola, napój gazowany - kole  
-kolacja - suaryam  
+kolacja - xamyam  
 kolano - gute  
-kolczuga - sernete  
-kolczuga - sernete  
+kolczuga - seronete  
 kolec - ding  
 kolej - trendau  
 kolekcja, zbiór; zgromadzenie, zebranie - jamia  
@@ -1260,10 +1256,9 @@ kuchnia - kukokamar
 kukurydza - mais  
 kukułka - kuku  
 kulomb - kulombe  
-kuloodporny - danosekure  
 kult ognia - hogopuzia  
 kultura - kultur  
-kulturystyka - muskulbin  
+kulturystyka - muskulobine  
 kumin (kmin) - zira  
 kumkwat - kankuate  
 kupić (zakupy, sprawunki, shopping) - xope  
@@ -1384,7 +1379,6 @@ lód (marznąć, zamarznąć) - ais
 ## M  
 
 macierz - matria  
-macka (czułek) - senter  
 Madagaskar - Malagasia  
 madagaskarski; malagaski - malagas  
 madżong - majang  
@@ -1551,7 +1545,7 @@ mniej - min
 mniejszościowy - minure  
 mniejszość - minuria  
 moda (trend; modny, popularny) - fason  
-model (podobieństwo, symulować) - samsifia  
+model (podobieństwo, symulować) - samosifia  
 model, wzór, wzorzec, projekt - model  
 modelować (projektować, zaprojektować) - modele  
 modlitwa (pomodlić się, modlić się) - dua  
@@ -1625,7 +1619,7 @@ młynarz - moler
 
 ## N  
 
-na przykład - misalo  
+na przykład - a misal  
 nabardziej (maksymalnie) - maxime  
 nabić (przebić, dźgnąć) - xixe  
 nabywca (kupiec) - xoper  
@@ -1650,7 +1644,7 @@ namalować, malować - pente
 namalować, malować - pente  
 Namibia - Namibia  
 namiot - haima  
-namoczyć (marynować) - pursipe  
+namoczyć (marynować) - purxipe  
 nano- - nane  
 nanometr - nanomitre  
 napierśnik - sinaplate  
@@ -1663,7 +1657,7 @@ narodowy socjalizm - nasial sosisme
 narodziny - gene  
 narzędzie - tul  
 naród, narodowość - nasia  
-nasienny - semenike  
+nasienny - danike  
 następny (następujący) - pose  
 natura - nature  
 natura, środowisko - ekia  
@@ -1760,7 +1754,7 @@ nowy - nove
 Nowy Jork - Nove Yorke  
 nożyce, nożyczki - makas  
 nuda (znudzenie) - boria  
-nudności (choroba lokomocyjna) - retroguli sense  
+nudności (choroba lokomocyjna) - retrogul sense  
 nudysta - nudiste  
 nudyzm - nudisme  
 numer (liczyć) - nume  
@@ -1779,7 +1773,7 @@ obozowicz - kampe
 obrabować, splądrować - lute  
 obraza (obelga) - dusnam  
 obraza, obelga - ninde  
-obrać (obierać) - tira pil  
+obrać (obierać) - tire pil  
 obraźliwy, niemiły, obelżywy - ninde  
 obrażenia (rana, krzywda) - avar  
 obronić (chronić; obrona) - defe  
@@ -1795,7 +1789,7 @@ obóz - kamper
 ocean - daihai  
 Ocean Antarktyczny (Ocean Południowy) - Antartiki Hai  
 Ocean Arktyczny - Artiki Hai  
-Ocean Atlantycki - Atlanti Hai  
+Ocean Atlantycki - Atlante Hai  
 Ocean Indyjski - Barti Hai  
 Ocean Spokojny (Pacyfik) - Pace Hai  
 Oceania - Oceania  
@@ -1865,7 +1859,7 @@ osoba - jen
 osoba biznesu, biznesman - bizneser  
 osoba dorosła - matur  
 osoba mówiąca w Panduni - panduniste  
-osobisty numer identyfikacyjny (pin) - sekuronumbe  
+osobisty numer identyfikacyjny (pin) - sekuronume  
 ostatni, końcowy - finime  
 ostropest plamisty - milkokardon  
 ostrożeń lancetowaty - perokardon  
@@ -1958,7 +1952,7 @@ paznokieć - nahun
 pałac - daidom  
 paść (padać, upaść, upadać) - pade  
 październik - lun ceti  
-pchnąć, pchać - puse  
+pchnąć, pchać - pulse  
 pedał - pedal  
 Pekin - Beijing  
 peleryna (płaszcz, opończa) - mantol  
@@ -2060,7 +2054,7 @@ podarunek, dar, prezent - donaje
 podatek, opłata - taxe  
 poddanie się, uległość, pokora, posłuszeństwo - islam  
 podnosić (podnieść) - gave  
-podobny (analogiczny) - samsife  
+podobny (analogiczny) - samike  
 podpis (autograf) - namkitabe  
 podróż (podróżować) - safar  
 podróżnik - safarer  
@@ -2110,7 +2104,7 @@ ponieważ, bo - a sababe de
 poniższy - subike  
 popiół - hui  
 poporodowy - posnatal  
-popołudnie - suarden  
+popołudnie - xamden  
 poprawny (wykonalny) - funcable  
 poprzedni - pre  
 populacja - demomultia  
@@ -2123,7 +2117,7 @@ porcja, dawka - doze
 porno, film erotyczny - porne  
 pornografia - pornografia  
 porost - algafung  
-porozumienie - samrayia  
+porozumienie - saomrayia  
 porozumienie - trete  
 port - porta  
 port morski (przystań) - haiporta  
@@ -2146,7 +2140,7 @@ pot - suede
 potas - kalium  
 potrzeba (potrzebować) - yau  
 potrzebny - beyau  
-potwierdzić, potwierdzać, zgodzić się, zgadzać się - samraye  
+potwierdzić, potwierdzać, zgodzić się, zgadzać się - samorai  
 potwór, monstrum - monster  
 powiadomić, powiadamiać - notife  
 powierzchnia - fase  
@@ -2154,7 +2148,7 @@ powierzchnia, region, teren - aria
 powiesić, wieszać - pende  
 powiesić, wieszać - pende  
 powietrze - air  
-powinien - selu  
+powinien - sel  
 powodować (rezult, wynik) - asar  
 powojenny - posgere  
 powolny (wolny, letargiczny) - lente  
@@ -2169,7 +2163,7 @@ pozostawiać (pozostawić, zostać, zostawać) - live
 pozostałość (reszta) - livaje  
 pozować (ustawiać się; poza, pozycja) - poze  
 pozwolić, pozwalać, zezwolić, zezwalać - halale  
-połknąć (połykać) - gule  
+połknąć (połykać) - gul  
 położyć - kuse  
 południe - sude  
 południk - latude  
@@ -2320,7 +2314,7 @@ pustka - kal
 pusty - kale  
 pustynia - sablostan  
 pułapka - kapotruke  
-pyszny - yami  
+pyszny - yamyam di  
 pytajny, związany z pytaniem - sualive  
 pytać (pytanie) - sual  
 pył - fun  
@@ -2328,7 +2322,7 @@ półka (regał na książki) - liboban
 północ - norde  
 półwysep - yagones  
 później (w przyszłości) - poso  
-pękać (rozrywać się) - parcokayu  
+pękać (rozrywać się) - parcokai  
 pęknięcie - krake  
 płakać, łkać - vava  
 płaski - plate  
@@ -2355,7 +2349,7 @@ rachunek (faktura) - bil
 rachunek (formalny system obliczeń) - kalkulia  
 racjonalny, rozsądny - rationi  
 rad - radium  
-rada, porada - sele  
+rada, porada - sel  
 radio - radi geter  
 radioaktywność - yon radia  
 radioaktywny - yon rade  
@@ -2404,7 +2398,7 @@ robot - robote
 rock - roke muzike  
 rocznica - nenfeste  
 rod - rodium  
-rodak, ziomek, krajan - samdexe  
+rodak, ziomek, krajan - samodexan  
 rodzaj gramatyczny - lingue ginse  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - brus  
@@ -2473,7 +2467,6 @@ rzadko - nadir
 rzadkość - raria  
 rzecz - xei  
 rzeczownik - namloge  
-rzeczywistość (realność) - relia  
 rzeczywistość (realność) - relia  
 rzeka - riu  
 rzemieślnik - zanger  
@@ -2544,21 +2537,19 @@ sekret - sir
 sekret - sire  
 sekretariat - sekreteria  
 sekretarz - sekreter  
-seks, stosunek płciowy - sexe  
-seksowny, ponętny - sexe  
+seks (stosunek płciowy; kochać się, uprawiać seks) - sexe  
 seksowny, ponętny - sexike  
-seksuologia - sexolojia  
 seksuologia - sexolojia  
 sekunda - sekunde  
 selen - selenium  
 senator - senater  
 Senegal - Senegal  
-sensor (detektor, czujka) - sensor  
+sensor (detektor, czujka) - senser  
 ser - kize  
 Serbia - Serbia  
 serce - xim  
+seria (szereg) - seria  
 seria, szereg - sere  
-seria, szereg - seria  
 Seszele - Sexel nesia  
 sezam - sesam  
 shintoizm, sintoizm - xindavisme  
@@ -2591,7 +2582,7 @@ skarpeta, skarpetka, pończocha - maze
 skała - petre  
 skała macierzysta - bazopetre  
 skoczyć, skakać - jampe  
-skonsumować, konsumować, zjeść, jeść, wypić, pić) - yame  
+skonsumować, konsumować, zjeść, jeść, wypić, pić) - yam  
 skorpion - akrabe  
 skorupa (pancerz, muszla) - kaske  
 skończony (ograniczony) - belime  
@@ -2670,7 +2661,6 @@ Stan Nowy Jork - Nove Yorke site
 Stany Zjednoczone Ameryki - Unite State de Amerika (USA)  
 Starożytny Egipt (Kemet) - Kemia  
 stary (sędziwy, wiekowy) - lave  
-stary, starożytny - senike  
 starzec - lau  
 statyczny, stacjonarny, nieruchomy - statike  
 stać - libu  
@@ -2703,8 +2693,8 @@ student - studer
 studio (pracownia) - studia  
 styczeń - lun un  
 stół - meza  
-stłuc się (rozpaść się na kawałki) - parce  
-stłuczony (pęknięty) - parce  
+stłuc się (część, strzęp, kawałek, okruch, fragment) - parce  
+stłuczony (pęknięty) - beparce  
 suahili - suahili  
 Suazi - Suati  
 suchy (suszyć ) - gane  
@@ -2805,10 +2795,9 @@ słowo - lexe
 słoń - gaja  
 słońce - sol  
 słuchać - ore  
-sługa - server  
+sługa - servike  
 słup (pal, kołek) - baton  
-służba - serve  
-służyć - serve  
+służyć (służba) - serve  
 
 ## T  
 
@@ -2961,7 +2950,7 @@ tytan - titanium
 tytoń - tabake  
 tytuł (nagłówek) - temnam  
 tęcza - rangarke  
-tłok - puser  
+tłok - pompotape  
 
 ## U  
 
@@ -3072,7 +3061,7 @@ wiadomość - angil
 wiadomość - misaje  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - notize  
-wiadomy, znany - besabe  
+wiadomy, znany - benose  
 wiadro - balde  
 wiadukt, przejście powyżej - supre  
 wiara, wierzenie, kredo - xin  
@@ -3086,7 +3075,7 @@ wiceprezydent - visopresidente
 widelec - forke  
 widok (wzrok) - vidaje  
 widzieć (patrzeć) - vide  
-wieczór - suar  
+wieczór - xam:  
 wiedzieć (wiedza) - sabe  
 wiek - sene  
 wielbłąd, wielbłądzica - gamel  
@@ -3133,7 +3122,7 @@ witamina - vitamin
 witraż - rangi kance  
 witryna internetowa (portal internetowy) - netoloke  
 wiwatować (hura, jej) - hura  
-wiwisekcja - zivotome  
+wiwisekcja - jivotome  
 wiza - vize  
 wizyta - kege  
 wizytant (gość) - keger  
@@ -3177,9 +3166,9 @@ wspinać się (wspiąć się) - askale
 wspólny (wzajemny) - kone  
 wspólny - komune  
 wspólny język - konlingue  
-współczucie - samemos  
+współczucie - samemote  
 współpracować (kolaborować) - konkare  
-wstecz - retro  
+wstecz - a retre  
 wstrzyknąć, wstrzykiwać - injete  
 wstyd (hańba, kompromitacja) - xarme  
 wszyscy, wszystkie, wszystko; każdy - pan  
@@ -3193,7 +3182,7 @@ Wybrzeże Kości Słowniowej - Kote Da Ivar
 wybuch (eksplodować, wybuchnąć, wybuchać) - bum  
 wybuch (eksplozja) - exploze  
 wycie, skowyt - ulul  
-wydoić, doić - tira milke  
+wydoić, doić - tire milke  
 wydra - lontre  
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurve  
 wygląd (wyglądać, wydawać się) - rupe  
@@ -3203,7 +3192,7 @@ wykopać, kopać, wydobyć, wydobywać, wykopywać - kave
 wymagać (przewidywać; warunek) - xarte  
 wymawiać (wymówić) - fonologe  
 wymieniać, wymienić, zamieniać, zamienić - badle  
-wymiotować (zwrócić) - retrogule  
+wymiotować (zwrócić) - retrogul  
 wynająć, oddać w najem - kirodone  
 wynająć, oddać w najem - kirogete  
 wynająć, wynajmować, zatrudnić, zatrudniać - kire  
@@ -3294,7 +3283,6 @@ zapalenie nerek - nefritis
 zapalenie opon mózgowych - meningitis  
 zapalenie pochwy - vaginitis  
 zapalenie ucha - oritis  
-zapaść się (zapadać się, runąć) - parcotalu  
 zapominać (zapomnieć) - dememe  
 zapożyczenie (wyraz obcy) - jekolexe  
 zaprosić, zapraszać - cing lai  
@@ -3342,8 +3330,8 @@ zero, nic, żaden - siro
 zespół (drużyna, grupa) - bande  
 zgniły - pude  
 zgodzić się (umówić się) - trete  
-ziarno (nasienie) - semen  
-ziarno, nasienie - semendan  
+ziarno (nasienie) - dane  
+ziarno, nasienie - danograne  
 zielenina - coi  
 zielony - luge  
 ziemia, grunt, gleba - gee  
@@ -3370,7 +3358,7 @@ znaczyć - seme
 znak, sygnał - sine  
 znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureke  
-znowu (ponownie) - rio  
+znowu (ponownie) - ri  
 znudzony - bore  
 zodiak - zoosikle  
 zombie, zombi - zombi  
@@ -3388,8 +3376,7 @@ zupa - supe
 zwinny, sprawny - agile  
 związek, powiązanie, połączenie - guanse  
 zwiększyć o jeden - maxdarge  
-zwycięstwo, wygrana - seng  
-zwyciężyć, wygrać - senge  
+zwyciężyć (wygrać; zwycięstwo, wygrana) - jai  
 zwykły, zwyczajny, prosty - sade  
 zygzag - zigzage  
 ząb - dante  
@@ -3416,11 +3403,10 @@ zły, zrujnowany, zepsuty - harabe
 ławka - bence  
 łazienka - banyakamar  
 łańcuch - serser  
-łańcuch - serser  
 łodyga (tors, pień, trzon) - tan  
 łopata (szpadel) - belce  
 łosoś (pstrąg) - salmon  
-łosoś atlantycki - atlantosalmon  
+łosoś atlantycki - atlante salmon  
 łowca (myśliwy) - yeger  
 łucznictwo - arkeria  
 łucznik - arker  
@@ -3434,7 +3420,6 @@ zły, zrujnowany, zepsuty - harabe
 łączyć, wiązać, złączyć - linke  
 łąka - caustan  
 Śiwa - Xiva  
-ścisnąć (sciskać, wycisnąć) - inpuse  
 ścisnąć (sciskać, wycisnąć) - konprese  
 ściągać (ściągnąć, pobrać, pobierać) - netogete  
 śliwka - plum  

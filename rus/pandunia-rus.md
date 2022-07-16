@@ -101,9 +101,9 @@ ate - действие (акт)
 • ature - труд  
 • reate - реагировать  
 • reation - реакция  
-Athina - Афины  
-atlantobakalau - Атлантическая треска  
-atlantosalmon - Атлантический лосось (сёмга)  
+Atina - Афины  
+atlante bakalau - Атлантическая треска  
+atlante salmon - Атлантический лосось (сёмга)  
 ave - овёс  
 avar - повреждение (авария)  
 aure - золото  
@@ -119,6 +119,7 @@ axe - ось
 babu - глава  
 babul - акация  
 bace - ребёнок  
+bade - тело  
 badam - миндаль  
 bagaje - багаж  
 bagre - тигр  
@@ -200,7 +201,6 @@ binoplaner - архитектор
 bir - пиво  
 bismute - висмут  
 biznes - предприятие (бизнес)  
-bode - тело  
 boi - поплавок (буй)  
 bokacate - нёбо  
 bokse - бокс  
@@ -282,6 +282,7 @@ circire - изорвать
 coi - зелень  
 coklate - шоколад  
 cope - мотыга  
+cuke - касаться  
 cuvogom - жевательная резинка (жевачка)  
 • precuze - по умолчанию  
 
@@ -297,6 +298,8 @@ daipote - котёл
 dalil - доказательство  
 dam - тёмный  
 dane - датский  
+dane - семя  
+• danike - семенной  
 dange - звенеть  
 danger - звонок  
 danse - танец  
@@ -544,7 +547,7 @@ grupe - группа
 guimuke - гримаса  
 guipapil - мак восточный  
 guke - хризантема садовая  
-gule - глотать  
+gul - глотать  
 gulogui - гуль (вурдалак)  
 gumle - фраза  
 gun - армия  
@@ -642,6 +645,7 @@ ivia - тенденция
 
 ## J  
 
+jai - победить  
 jambul - джамболан  
 janel - окно  
 janelovel - штора (гардина)  
@@ -1002,9 +1006,9 @@ mirde - слабый
 • mision - миссия  
 • misioner - миссионер  
 • konmisia - комиссия (комитет)  
-• tranmision - передача  
-• tranmisor - передатчик  
-misalo - например  
+• tramision - передача  
+• tramisor - передатчик  
+a misal - например  
 Misria - Египет  
 mitre - метр  
 mixe - мешать  
@@ -1035,7 +1039,7 @@ mummelon - восковая тыква (зимняя дыня)
 mur - стена (вал)  
 murkaguze - обои  
 murce - муравей  
-muskulbin - культуризм  
+muskulobine - культуризм  
 musli - мюсли  
 muzike - музика  
 
@@ -1101,6 +1105,7 @@ norde - север (норд)
 • konnose - знать  
 • konnosion - познание  
 • pronose - прогноз  
+nosolojia - эпистемология  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
 nove - новый  
@@ -1240,6 +1245,7 @@ poli mar - часто
 Polinesia - Полинезия  
 politer - управляющий  
 polskium - полоний  
+pompotape - поршень  
 pontopin - компас  
 pore - пора  
 • porosi - пористый  
@@ -1272,12 +1278,13 @@ protacinium - протактиний
 pudu - гнить (портиться)  
 • pujokan - храм (место богослужения)  
 pujomeza - алтарь  
+• pulsation - пульс (пульсация)  
 puma - пума (кугуар)  
 puntonumbe - оценка  
 pure - заполнять  
 pure - полный  
 purfitoyamiste - веган  
-pursipe - мариновать  
+purxipe - мариновать  
 • konputer - компьютер  
 putavorange - грейпфрут  
 
@@ -1298,14 +1305,11 @@ ratibe - установка
 ratibe - организованный (порядок)  
 • razor - бритва  
 retre - возвращаться  
-retrogule - рвать (изрыга́ть)  
-retroguli sense - тошнота  
+retrogul - рвать (изрыга́ть)  
+retrogul sense - тошнота  
 rel - реальный (истинный, действительный)  
-• rel - реальный (истинный, действительный)  
-• relia - реальность (действительность)  
 • relia - реальность (действительность)  
 • rel televizion - реалити-телевидение  
-• relize - реализовывать  
 • relize - реализовывать  
 rel televizion - реалити-телевидение  
 renium - рений  
@@ -1314,7 +1318,7 @@ reste - отдых
 reste in pace (RIP) - покойся с миром  
 ri- - повторение  
 rim - рифма  
-ringar - ринг (манеж)  
+ringare - ринг (манеж)  
 ris - рис  
 ris vin - рисовое вино  
 ritim - ритм (такт)  
@@ -1352,12 +1356,12 @@ ruterfordium - резерфордий, ²курчатовий
 sabe - знать  
 sabovol - интерес (любопытство)  
 sabovole - любопытный  
-sabovolu - задуматься (думать, гадать)  
-sabovolane - любознательный  
-sabovolite - интересный  
+sabovolive - любознательный  
+besabovole - интересный  
 sable - песок  
 • movosable - зыбучие пески  
 sablostan - пустыня  
+sabun - мыло  
 safaroceke - дорожный чек  
 safran - шафран  
 sagu - саго  
@@ -1369,11 +1373,11 @@ salade - салат
 salte - соль  
 salve - спасать  
 • salver - спаситель  
-samemos - сострадание  
+samemote - сострадание  
 sammetre - симметричный  
 sammetria - симметрия  
-samrayia - согласие  
-samsifia - симуляция  
+saomrayia - согласие  
+samosifia - симуляция  
 samarium - самарий  
 sanduice - сандвич  
 sanduke - сундук  
@@ -1381,39 +1385,31 @@ sante kanon - священное писание
 sanze - веер  
 sapate - туфля  
 sar - голова  
-sartunge - головная боль  
+sarotunge - головная боль  
 sate - время (момент)  
 sate di - моментальный (минутный)  
 Saturne - Сатурн  
 saure - ящерица  
 saus - соус  
 se - себя (-ся)  
-semon - друг друга  
-sele - совет (советовать)  
+semen - друг друга  
+sel - совет (советовать)  
 • konseler - консультант (советник)  
 selenium - селен  
 selge - мангольд  
 • semoforer - семафор  
 • semolojia - семантика  
-semen - семя  
-• semenike - семенной  
 semente - цемент  
 sene - возраст  
 senater - сенатор  
-• senike - старый (древний)  
-senge - победить  
 sense - чувство  
-senter - щупальце  
 sere - серия  
-ser: - звено  
-seria - серия  
-serlinke - звено  
-sernete - кольчуга  
-sernete - кольчуга  
+• seria - серия  
+• sereme - звено  
+seronete - кольчуга  
 serame - керамика  
-servor - сервер  
+• server - сервер  
 sesam - сезам  
-sexolojia - сексология  
 sexolojia - сексология  
 siane - циан  
 siborgium - сиборгий  
@@ -1478,7 +1474,6 @@ stude - изучать (этюд)
 suesike - свастика  
 sual - спрашивать (вопрос)  
 sualodokum - анкета  
-suar - вечер  
 sude - юг (зюйд)  
 suge - быстрый  
 sui - вода  
@@ -1548,19 +1543,18 @@ texomaxin - ткацкий станок
 teze - тезис (положение)  
 • tikete - билет  
 tim - команда  
-tira milke - тянуть  
-tira pil - ободрать  
+tire milke - тянуть  
+tire pil - ободрать  
 tirbaton - рычаг  
 tirlonge - вытянуть  
 tiroriu - отбойное течение  
 titanium - титан  
-tixe - тихий  
-tixia - тишина  
-toce - касаться  
+• tixe - тихий  
+• tixia - тишина  
 • tomografia - томография  
 • duotome - дихотомия  
+• jivotome - вивисекция  
 • tritome - трихотомия  
-• zivotome - вивисекция  
 tomate - помидор (томат)  
 topografe - топография  
 • topografia - топография  
@@ -1667,11 +1661,13 @@ vize - виза
 vode - клятва (присяга, обет)  
 • vokal son - гласный  
 vol - хотеть  
+vol sabe - задуматься (думать, гадать)  
 volfram - вольфрам  
 vulve - вульва  
 
 ## X  
 
+xam: - вечер  
 xaman - шаман  
 xampan - Шампань  
 xampan vin - шампанское  
@@ -1716,10 +1712,10 @@ xure - начало
 
 yamen su - их  
 yahve - Яхве (Иегова)  
+• exyam - пикник  
 yamfite - овощ  
 yamyau - голод  
-• exyam - пикник  
-yatimokan - детский дом  
+• yatimokan - детский дом  
 yau - нуждаться (нужда)  
 • beyau - нужный  
 ye - да  

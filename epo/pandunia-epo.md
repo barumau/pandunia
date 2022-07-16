@@ -107,7 +107,7 @@ ate - ago
 • ater - aganto  
 • ature - verko (verkaĵo)  
 • reation - reakcio (reago  
-Athina - Ateno  
+Atina - Ateno  
 atom - atomo  
 ave - aveno  
 avakate - avokado  
@@ -127,6 +127,7 @@ axe - akso
 babu - ĉapitro  
 babuce - pantoflo  
 bace - infano  
+bade - korpo  
 badave - beduino (nomado)  
 badle - interŝanĝi  
 bagaje - pakaĵo  
@@ -218,7 +219,6 @@ biznes - negoco
 bizneser - komercisto  
 blabla - babili  
 blablakan - babilejo  
-bode - korpo  
 boikote - bojkoto  
 boka - buŝo  
 bokacate - palato  
@@ -313,6 +313,7 @@ coklate - ĉokolado
 coklatobaton - ĉokolado  
 core - ŝteli  
 • corer - ŝtelisto  
+cuke - tuŝi  
 cum - kiso  
 cupe - suĉi  
 cute - eliri  
@@ -336,6 +337,8 @@ daisite - urbego
 dake - kovrilo  
 dane - dana  
 Dania - Danio  
+dane - semo  
+• danike - sema  
 danse - danco  
 dante - dento  
 • danta - mordi  
@@ -648,7 +651,7 @@ guhe - kaverno
 gui - ogro (trolo)  
 guimuke - grimaco  
 Guyana - Gujano  
-gule - gluti  
+gul - gluti  
 gum - tamburo  
 gun - armeo  
 gunjen - soldato  
@@ -783,6 +786,8 @@ ivia - emo (inklino, tendenco)
 
 ## J  
 
+jai - venki  
+jainisme - Ĝajnismo  
 jake - jako  
 jame - kolekti (kunigi)  
 Jamaika - Jamajko  
@@ -796,7 +801,6 @@ jebe - poŝo
 jele - malliberigi  
 • jelokan - malliberejo  
 jen - persono  
-jenisme - Ĝajnismo  
 • dusojen - malamiko  
 jeng - milito (batalo)  
 jenge - milita  
@@ -1156,8 +1160,8 @@ mirsonde - eĥo
 • misioner - misiisto  
 • konmisia - komisiono (komitea)  
 misal - ekzemplo  
-misalo - ekzemple  
-miskine - mizera  
+a misal - ekzemple  
+miskin - mizera  
 misre - egipta  
 Misria - Egipto  
 mitre - metro  
@@ -1198,7 +1202,7 @@ mus - muso
 muse - devigi  
 muskete - muskedo  
 muskul - muskolo  
-muskulbin - korpokulturado  
+muskulobine - korpokulturado  
 musli - muslio  
 mute - aliigi  
 muze - amuzi  
@@ -1263,7 +1267,9 @@ norge - norvega
 nose - koni  
 • annosisme - agnostikismo  
 • annosiste - agnostiko  
+• anbenose - fremda (nekonata)  
 • dianose - diagnozo  
+nosolojia - sciteorio (epistemologio)  
 nostalgia - nostalgio (saudado)  
 note - noto (rimarko, komento)  
 notobuke - kajero  
@@ -1340,7 +1346,7 @@ parvezia - ekvilibro
 parce - ero  
 parke - parko (ĝardeno)  
 parte - partopreni  
-partia - partio  
+• partia - partio  
 pase - pasi  
 pasoporte - pasporto  
 pate - malsana  
@@ -1458,17 +1464,11 @@ rasomede - interrasa
 retre - reiri  
 • rejer - reĝo aŭ reĝino  
 rel - reala  
-• rel - reala  
-• relia - realeco  
 • relia - realeco  
 • relaje - afero (realaĵo)  
 • relisme - realismo  
-• relisme - realismo  
-• reliste - realisto  
 • reliste - realisto  
 • relize - realigi  
-• relize - realigi  
-• anrel - nereala  
 • anrel - nereala  
 renium - renio  
 rentogenium - rentgenio  
@@ -1477,7 +1477,7 @@ reste in pace (RIP) - ripozu pace
 restorante - restaŭracio  
 rezin - rezino  
 ri- - ripetado  
-• rio - denove (ripete)  
+• ri - denove (ripete)  
 ris - rizo  
 riske - risko  
 ritim - ritmo  
@@ -1506,11 +1506,9 @@ rutin - rutino (kutimo)
 ## S  
 
 sabe - scii (koni)  
-• anbesabe - fremda (nekonata)  
 • konsabe - informacio  
-sabolojia - sciteorio (epistemologio)  
-sabovolane - scivolema  
-sabovolite - interesa  
+sabovolive - scivolema  
+besabovole - interesa  
 sababe - kialo  
 sable - sablo  
 sablostan - dezerto  
@@ -1529,56 +1527,49 @@ sale - sana
 sal cute - bonan vojaĝon  
 sal den - Bonan tagon  
 sal lai - bonvenon!  
-sal suar - Bonan vesperon  
 sal suba - Bonan matenon!  
+sal xam - Bonan vesperon  
 sal yam - bonan apetiton!  
 salam - saluti (saluton)  
 salte - salo  
 salve - savi  
 same - sama  
-samdexe - samlandano  
-samemos - kompato  
+samodexan - samlandano  
+samemote - kompato  
 sammetre - simetria  
 sammetria - simetrio  
-samraye - samopinii (interkonsenti)  
-samrayia - interkonsento  
+samorai - samopinii (interkonsenti)  
+saomrayia - interkonsento  
 samarium - samario  
-san - monto  
 sanduke - skatolo (kesto)  
 sante - sankta  
 • santike - sanktulo  
 sanze - ventumilo  
 sapate - ŝuo  
-sapatokan - ŝuistejo  
-sapater - ŝuisto  
-sarkaske - kasko  
-sartunge - kapdoloro  
+• sapatokan - ŝuistejo  
+• sapater - ŝuisto  
+sarokaske - kasko  
+sarotunge - kapdoloro  
 sate - horo de horloĝo  
 sate di - momenta  
 sauna - saŭno  
 saure - lacerto  
 saus - saŭco  
 se - si  
-semon - unu la alian  
-• selu - devus  
+semen - unu la alian  
+• sel - devus  
 selenium - seleno  
 seme - signifi  
 • semolojia - semantiko  
-semen - semo  
-• semenike - sema  
 sene - aĝo  
+• senike - aĝulo  
 senater - senatano  
-• senike - malnova  
-seng - venko  
-senge - venki  
 sense - sentumo  
 sente - senti  
 sere - serio  
-ser: - ĉenero  
-seria - serio  
-serlinke - ĉenero  
-serser - ĉeno  
-serser - ĉeno  
+• seria - serio  
+• sereme - ĉenero  
+• serser - ĉeno  
 Serbia - Serbio  
 serebre - cerbo  
 serpe - serpento  
@@ -1645,9 +1636,6 @@ sual - demandi
 • sualive - demandanta  
 suan - acido  
 suane - acida  
-suar - vespero  
-suarden - posttagmeze  
-suaryam - vespermanĝo  
 suba - mateno  
 sude - sudo  
 Sudi Cosen - Sudkoreio  
@@ -1719,14 +1707,13 @@ terbium - terbio
 termometrer - termometro  
 teste - testo  
 tire - tiri  
-tira milke - melki  
+tire milke - melki  
 titanium - titanio  
-tixe - silenta  
-tixia - silento  
-toce - tuŝi  
+• tixe - silenta  
+• tixia - silento  
 Togo - Toglando  
 • duotome - diĥotomio  
-• zivotome - vivisekcio  
+• jivotome - vivisekcio  
 tomate - tomato  
 tone - tono  
 tope - regiono  
@@ -1826,6 +1813,9 @@ vulve - vulvo
 
 xake - branĉo  
 xal - koltuko  
+xam: - vespero  
+xamden - posttagmeze  
+xamyam - vespermanĝo  
 xaman - ŝamano  
 xampan vin - ĉampano  
 xanke - dubo  
@@ -1878,9 +1868,9 @@ yamen su - ilia
 yamimen - ni sen ne vi  
 yahve - Javeo (Jehovo)  
 yale - rapidigi  
-yame - manĝi (trinki)  
+yam - manĝi (trinki)  
 yamfite - legomo  
-yamkamar - manĝoĉambro  
+yamokamar - manĝoĉambro  
 yamyau - malsato  
 yang - speco (tipo, stilo)  
 yau - bezoni  

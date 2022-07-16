@@ -14,7 +14,7 @@ acarien - akare
 accent - baloton  
 accepter - acepe  
 accomplir (terminer) - purfine  
-accord - samrayia  
+accord - saomrayia  
 accorder - atone  
 accumuler - kume  
 accès (accéder) - acese  
@@ -164,7 +164,7 @@ astronaute - astronaver
 astronef - astronau  
 astronome - astronomer  
 astronomie - astronomia  
-Athènes - Athina  
+Athènes - Atina  
 athée - andeviste  
 atome - atom  
 aubergine - bedinje  
@@ -385,6 +385,7 @@ charnière - xarnir
 chasser - yege  
 chat - mau  
 chaudron - daipote  
+chaussure - sapate  
 chauve-souris - feimus  
 chaux - kalsomate  
 chef - xefe  
@@ -436,7 +437,7 @@ comment - ke mode
 commercer - vendoxope  
 commission (comité) - konmisia  
 comparer - konpare  
-compassion - samemos  
+compassion - samemote  
 compatriote - konpatrian  
 complot (conspiration) - sirplan  
 comportement (manière) - manir  
@@ -457,7 +458,7 @@ connaître - konnose
 connecter - konnete  
 connecteur - konnetor  
 connexion - konnetion  
-conseil (conseiller) - sele  
+conseil (conseiller) - sel  
 construction - konstrution  
 construire - bine  
 construire - konstrute  
@@ -476,7 +477,7 @@ copie - kope
 coquelicot - medenpapil  
 corail - koral  
 corne - korne  
-corps - bode  
+corps - bade  
 correct (juste) - sahe  
 cosmique - kosme  
 cosmonaute - kosmonaver  
@@ -519,7 +520,7 @@ cube - kube
 cuiller - camaca  
 cuivre - kupre  
 cultiver - agre  
-culturisme (musculation) - muskulbin  
+culturisme (musculation) - muskulobine  
 curium - kurium  
 curry - kari  
 cycliste - sikliste  
@@ -629,7 +630,7 @@ empreinte de pied - futomarke
 empreinte digitale - angulmarke  
 empruntre - jekocepe  
 en - in  
-en arrière - retro  
+en arrière - a retre  
 en avant - pro  
 en ligne - a line  
 enclume - metalbede  
@@ -726,7 +727,6 @@ forêt de kelp - algajangle
 fosse - kavaje  
 fougères - parne  
 fourmi - murce  
-fragment - parce  
 frais - taze  
 francium - fransium  
 francophone - fransofone  
@@ -908,7 +908,7 @@ ivoire - gaja dante
 
 jade - giuke  
 Japon - Nipon  
-jaïnisme - jenisme  
+jaïnisme - jainisme  
 je (me) - mi  
 jeu de société - banogem  
 jeudi - den nelu  
@@ -944,7 +944,7 @@ kumquat - kankuate
 
 ## L  
 
-l'un l'autre - semon  
+l'un l'autre - semen  
 La Mecque - Maka  
 lac - lage  
 laid (vilain) - dusvide  
@@ -1028,14 +1028,13 @@ machine à écrire - kitabomaxin
 magma - pastopetre  
 magnésium - magesium  
 mah-jong - majang  
-maillon (chaînon) - ser:  
-maillon (chaînon) - serlinke  
+maillon (chaînon) - sereme  
 main - hande  
 mais - ama  
 maison (foyer, domicile; vivre (habiter) - dom  
 majeur - maxure  
 majorité - maxuria  
-mal de tête - sartunge  
+mal de tête - sarotunge  
 malédiction - dusdua  
 maman - ma  
 manche - kamisi xake  
@@ -1111,7 +1110,7 @@ monocle - unoki lense
 monologue - autologe  
 mordre - danta  
 morue - bakalau  
-morue de l'Atlantique - atlantobakalau  
+morue de l'Atlantique - atlante bakalau  
 morue du Pacifique - pacehaikade  
 moscovium - moskovium  
 mot - lexe  
@@ -1149,7 +1148,7 @@ nation - nasia
 nature - nature  
 nature sauvage - janglia  
 naufrage - naufrage  
-nausée - retroguli sense  
+nausée - retrogul sense  
 nautile - nautile  
 neige - hima  
 Neptune - Nepotun  
@@ -1184,7 +1183,7 @@ nuage - nepe
 nudisme - nudisme  
 nylon - nilon  
 nécessaire - beyau  
-nécessiteux (dans le besoin) - yavike  
+nécessiteux (dans le besoin) - yavive  
 nécrologie - nekrologe  
 nécrophilie - nekrofilisme  
 néodyme - neodimium  
@@ -1206,7 +1205,7 @@ oculaire - okule
 océan - daihai  
 Océan Antarctique - Antartiki Hai  
 océan Arctique - Artiki Hai  
-océan Atlantique - Atlanti Hai  
+océan Atlantique - Atlante Hai  
 océan Indien - Barti Hai  
 ode - ode  
 odeur - gande  
@@ -1279,7 +1278,7 @@ papier - kaguje
 papier peint - murkaguze  
 papillon - pelpel  
 paquet - pake  
-par exemple - misalo  
+par exemple - a misal  
 parabole - parable  
 paramètre - param  
 paranormal - paranorme  
@@ -1344,6 +1343,7 @@ piquant - pinane
 piquenique - exyam  
 piraterie - piratia  
 pistolet - pau  
+piston - pompotape  
 pizza - piza  
 pizzeria - pizaria  
 pièce (chambre) - kamar  
@@ -1400,11 +1400,13 @@ potier - poter
 pou - poyu  
 poudre à canon - barude  
 Poulpe (pieuvre) - batosenter  
+pouls - pulsation  
 poupée - pupe  
 pour cent - pro cente  
 pourri - pude  
 pourrir (se décomposer) - pudu  
 pousse - yune moke  
+pousser - pulse  
 pouvoir (être capable; possible) - able  
 poésie - xiria  
 praséodyme - prasedium  
@@ -1506,7 +1508,7 @@ rhénium - renium
 riche - rice  
 rideau - janelovel  
 rime - rim  
-ring (manège) - ringar  
+ring (manège) - ringare  
 rire - hahe  
 rivière (fleuve) - riu  
 riz - ris  
@@ -1517,6 +1519,7 @@ rocher - dayite
 rock - roke muzike  
 roentgenium - rentogenium  
 Rome - Roma  
+rompir (fragment) - parce  
 rose - rode  
 rose - roze  
 rosée - rose  
@@ -1536,12 +1539,9 @@ ruthénium - rutenium
 réaction - reation  
 réagir - reate  
 réaliser - relize  
-réaliser - relize  
-réalité - relia  
 réalité - relia  
 rébellion - rebelion  
 réception - recepion  
-réel - rel  
 réel - rel  
 référer - refere  
 réglisse - sus  
@@ -1586,7 +1586,7 @@ Saturne - Saturne
 sauce - saus  
 sauce de soja - soisaus  
 saucisse - sosis  
-saumon altentique - atlantosalmon  
+saumon altentique - atlante salmon  
 saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
 saumon rose - rozosalmon  
 saumon sockeye - lalsalmon  
@@ -1595,7 +1595,8 @@ sauvage - jangle
 sauver (secourir) - salve  
 sauveur - salver  
 savane - garmozone caustan  
-savoir (connaître) - sabe  
+savoir - sabe  
+savon - sabun  
 Scandinavie - oskandinavia  
 Scandinavie - Skandia  
 scandium - skandium  
@@ -1615,7 +1616,7 @@ seau - balde
 secouer - roke  
 sein - mam  
 sel - salte  
-semence - semen  
+semence - dane  
 sens - sense  
 sentir qqch (avoir l'odeur de qqch) - aromu  
 sentir qqch - gande  
@@ -1626,7 +1627,6 @@ serviette - gantexe
 seul (unique) - unike  
 sexe - jense  
 sexologie - sexolojia  
-sexologie - sexolojia  
 Shiva - Xiva  
 si - gar  
 signer - namkitabe  
@@ -1635,14 +1635,14 @@ silence - tixia
 silencieux (se taire) - tixe  
 silex - hogite  
 silicium - silike  
-simulation - samsifia  
+simulation - samosifia  
 situation (état de choses) - xeihal  
 six (6) - six  
 société - socia  
 sodium - natrium  
 soie - silke  
 soif - suiyau  
-soir (soirée) - suar  
+soir (soirée) - xam:  
 soja - soi  
 soldat - gunjen  
 soleil - sol  
@@ -1678,7 +1678,7 @@ sèche-cheveux - kexofentor
 sélénium - selenium  
 sémantique - semolojia  
 sémaphore - semoforer  
-séminal - semenike  
+séminal - danike  
 sénateur - senater  
 série - sere  
 série - seria  
@@ -1709,7 +1709,6 @@ tendance - ivia
 tender - tirlonge  
 tendu - tense  
 tennessine - tenesium  
-tentacule - senter  
 tente - haima  
 terbium - terbium  
 terrain - geoforme  
@@ -1730,7 +1729,7 @@ théosophie - deusofia
 tige - tan  
 tigre - bagre  
 tire à l'arc - arkeria  
-tirer - tira milke  
+tirer - tire milke  
 tissu - texe  
 titane - titanium  
 titre - temnam  
@@ -1742,7 +1741,7 @@ topinambour - masmulsolful
 topographie - topografe  
 topographie - topografia  
 toucher (tact) - tate  
-toucher - toce  
+toucher - cuke  
 toupie - rototope  
 tour - tore  
 tourbe - turfe  
@@ -1759,14 +1758,14 @@ tragique - trage
 tragédie - tragodia  
 traitement d'images - grafoprocese  
 traitement de données - datoprocese  
-transmetteur - tranmisor  
-transmettre - tranmise  
-transmission - tranmision  
+transmetteur - tramisor  
+transmettre - tramise  
+transmission - tramision  
 travail - karaje  
 travailler - kare  
 travailleur (ouvrier) - karer  
 traîner - trate  
-tremper (faire mariner) - pursipe  
+tremper (faire mariner) - purxipe  
 tribord - nauraite  
 tribunal (cour de justice) - judokan  
 trichotomie - tritome  
@@ -1805,6 +1804,7 @@ Uranus - Uran
 user - uze  
 vagine - vagine  
 vaginite - vaginitis  
+vaincre - jai  
 vaisseau spatial - kosmonau  
 valeur (évaluer) - vale  
 valeur - valure  
@@ -1851,7 +1851,7 @@ Vishnou - Vixnu
 vitamine - vitamin  
 vite (rapide) - suge  
 vivant - jive  
-vivisection - zivotome  
+vivisection - jivotome  
 vocabulaire (lexique) - lexia  
 voile - hijabe  
 voile - vele  
@@ -1905,7 +1905,7 @@ zèbre - zebra
 école primaire - bazoxulkan  
 école secondaire - zungoxulkan  
 économie - malonomia  
-écorce - tira pil  
+écorce - tire pil  
 écrire (écriture) - kitabe  
 écureuil - ekore  
 éducation - xulia  
@@ -1926,6 +1926,7 @@ zèbre - zebra
 épices - masale  
 épicéa - picea  
 épingle - pin  
+épistémologie - nosolojia  
 éponge - sponge  
 époux - gamike  
 épreuve (test) - teste  

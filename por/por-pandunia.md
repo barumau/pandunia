@@ -17,7 +17,7 @@ aclamar - proklame
 acordado - desome  
 acordo (tratado, contrato) - trete  
 acordo (tratado, contrato) - kontrate  
-acordo - samrayia  
+acordo - saomrayia  
 actínio - acinium  
 adesivo - glutograf  
 adjetivo - sifolexe  
@@ -123,7 +123,7 @@ astronauta - astronaver
 astronave - astronau  
 astronomia - astronomia  
 astrónomo - astronomer  
-Atenas - Athina  
+Atenas - Atina  
 ativo - ative  
 ato - ate  
 até - hate  
@@ -145,7 +145,7 @@ açúcar - sukar
 
 ## B  
 
-bacalhau-do-atlântico - atlantobakalau  
+bacalhau-do-atlântico - atlante bakalau  
 bacia - basen  
 baga - beri  
 bagagem - bagaje  
@@ -339,7 +339,7 @@ combinar com - konbone
 começo (início, princípio) - xure  
 comissão (comité) - konmisia  
 como - ke mode  
-compaixão - samemos  
+compaixão - samemote  
 comparar - konpare  
 compatriota (compatrício) - konpatrian  
 complô (conspiração) - sirplan  
@@ -360,7 +360,7 @@ conhecer - nose
 conhecer - konnose  
 conjunção - juntolexe  
 cono - konus  
-conselho (aconselhar) - sele  
+conselho (aconselhar) - sel  
 construir - bine  
 construção - konstrution  
 consultor - konseler  
@@ -374,7 +374,7 @@ coral - koral
 corda (cabo) - kable  
 corno - korne  
 coro - cantergrupe  
-corpo - bode  
+corpo - bade  
 corredor - korer  
 corrente (atual) - zay zaman su  
 correr - kore  
@@ -482,7 +482,7 @@ dois (2) - du
 domingo - den ceti  
 doméstico - domike  
 domínio - dominia  
-dor de cabeça - sartunge  
+dor de cabeça - sarotunge  
 dormir (sono) - some  
 doutrina - dokaje  
 droga (narcótico) - narke  
@@ -511,14 +511,14 @@ elemento químico - kimium
 eletricidade - eletre  
 eletrônica - eletrolojia  
 elfo - elfe  
-elo - ser:  
-elo - serlinke  
+elo - sereme  
 elogio - euloge  
 embalar - lifafe  
 emoticon (emoji) - emotikon  
 emoçao - emotion  
 emprestar (pedir emprestado) - jeke  
 emprestar - jekodone  
+empurrar - pulse  
 encarar (afrontar; vérsus) - verse  
 encontrar - ajame  
 endereço - adres  
@@ -527,11 +527,12 @@ enganar - truke
 ensinar (lecionar) - xulize  
 ensino primário - bazoxulkan  
 ensino secundário - zungoxulkan  
-ensopar (encharcar, marinar) - pursipe  
+ensopar (encharcar, marinar) - purxipe  
 enteado - gamben  
 entrar - intre  
 enxada - cope  
 enxofre - sulfe  
+epistemologia - nosolojia  
 equilíbrio - parvezia  
 erro (falta; errôneo) - galte  
 erupcionar - exrute  
@@ -625,7 +626,7 @@ fibra - lineme
 filho ou filha - ben  
 filosofia - filsofia  
 fiorde - fiorde  
-fisiculturismo - muskulbin  
+fisiculturismo - muskulobine  
 flecha (seta) - flece  
 fleróvio - flerovium  
 flor - ful  
@@ -748,7 +749,7 @@ hóquei no gelo - aishoke
 ## I  
 
 idade - sene  
-idoso (sene) - sene  
+idoso (sene) - senike  
 idoso - lave  
 ignorante - annosike  
 ignorar - annose  
@@ -778,7 +779,7 @@ inflamaçao - itis
 informática (ciência da computação) - datoprocesolojia  
 infraestrutura - bazostrute  
 inimigo - dusojen  
-inquisitivo - sabovolane  
+inquisitivo - sabovolive  
 inseto - koncung  
 insônia - ansome  
 inteligência (intelecto) - intelige  
@@ -1031,7 +1032,7 @@ natureza - nature
 nautiloide - nautile  
 nave espacial - kosmonau  
 nação - nasia  
-necessitado - yavike  
+necessitado - yavive  
 necessitar (necessidade) - yau  
 necessário - beyau  
 necrofilia - nekrofilisme  
@@ -1052,7 +1053,7 @@ nivel - par
 nióbio - niobium  
 nobélio - nobelium  
 noite - noce  
-noitinha - suar  
+noitinha - xam:  
 norma (normal) - norme  
 norte - norde  
 nosso - mimen su  
@@ -1067,7 +1068,7 @@ noção - nosion
 nudismo - nudisme  
 nuvem - nepe  
 náufrago - naufrage  
-náusea - retroguli sense  
+náusea - retrogul sense  
 não - no  
 néon - neon  
 níquel - nikel  
@@ -1203,6 +1204,7 @@ piolho - poyu
 piquenique - exyam  
 pirataria - piratia  
 pirâmida - piram  
+pistão - pompotape  
 pizzaria - pizaria  
 plano - plan  
 planta (vegetal) - fite  
@@ -1219,7 +1221,7 @@ ponta do dedo - angulpike
 ponte - pul  
 ponteiro - dikobaton  
 por cento - pro cente  
-por exemplo - misalo  
+por exemplo - a misal  
 por muito tempo - a longe dure  
 poro - pore  
 poroso - porosi  
@@ -1276,6 +1278,7 @@ provar - provere
 proxeneta (cafetão) - sutener  
 pré-natal - prenatal  
 próximo - proxe  
+pulso - pulsation  
 purpúreo (roxo) - violete  
 purê de maçã - aplesaus  
 pá - belce  
@@ -1325,10 +1328,7 @@ raça - rase
 raíz - mul  
 reagir - reate  
 real - rel  
-real - rel  
 realidade - relia  
-realidade - relia  
-realizar (concretizar) - relize  
 realizar (concretizar) - relize  
 reação - reation  
 rebater - boing  
@@ -1366,7 +1366,7 @@ retornar (voltar) - retre
 revelar - devele  
 rim - nefre  
 rima - rim  
-ringue - ringar  
+ringue - ringare  
 rio - riu  
 rir - hahe  
 ritmo - ritim  
@@ -1397,7 +1397,8 @@ ródio - rodium
 ## S  
 
 sabedoria (sagacidade, sapiência) - sofia  
-saber (conhecer) - sabe  
+saber - sabe  
+sabão - sabun  
 sacada (varanda) - beranda  
 saco - sake  
 sagrada escritura - sante kanon  
@@ -1435,8 +1436,8 @@ seis (6) - six
 selva (floresta) - van:  
 selvagem (silvestre) - jangle  
 selénio - selenium  
-semente - semen  
-seminal - semenike  
+semente - dane  
+seminal - danike  
 semântica - semolojia  
 senador - senater  
 sentido - sense  
@@ -1449,7 +1450,6 @@ serraría - xerokan
 sete (7) - cete  
 sexo - jense  
 sexologia - sexolojia  
-sexologia - sexolojia  
 sexta-feira - den lima  
 significar (querer dizer) - seme  
 silencioso - tixe  
@@ -1457,7 +1457,7 @@ silêncio - tixia
 silício - silike  
 sim - ye  
 simetria - sammetria  
-simulação - samsifia  
+simulação - samosifia  
 simétrico - sammetre  
 sinal - sinal  
 sino (campainha) - danger  
@@ -1516,7 +1516,6 @@ tendência - ivia
 tennessine - tenesium  
 tenso - tense  
 tentar (provar) - probe  
-tentáculo - senter  
 teosofia - deusofia  
 ter (achar, receber) - dege  
 terminar (acabar, concluir) - purfine  
@@ -1552,9 +1551,9 @@ trabalho - karaje
 tragédia - tragodia  
 trajar (vestir-se) - fuku  
 tranquilo (calmo) - xante  
-transmissor - tranmisor  
-transmissão - tranmision  
-transmitir - tranmise  
+transmissor - tramisor  
+transmissão - tramision  
+transmitir - tramise  
 trator - trater  
 trazer - laiane  
 tribunal - judokan  
@@ -1589,7 +1588,7 @@ túlio - tulium
 
 uau - va  
 um (1) - un  
-um ao outro - semon  
+um ao outro - semen  
 uma vez - unomaro  
 unicamente - uniko  
 universal - unoverse  
@@ -1612,7 +1611,6 @@ vaso de flores - fulpote
 vazar - love  
 vegetalista - purfitoyamiste  
 vegetariano - fitoyamiste  
-velho (antigo) - senike  
 vender - vende  
 ver - vide  
 verbo - karolexe  
@@ -1636,7 +1634,7 @@ violoncelo - daiviole
 vir - lai  
 virgem - virge  
 vitamina - vitamin  
-vivisecção - zivotome  
+vivisecção - jivotome  
 vivo - jive  
 Vixnu - Vixnu  
 viúvo - vidou  
