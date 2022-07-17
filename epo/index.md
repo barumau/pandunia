@@ -25,7 +25,7 @@ Rimarkindaj trajtoj de pandunio estas:
 ## Lerniloj
 
 - [Bazaĵojn de Pandunia rapide](003_baze.md) en nur unu paĝo!
-- [Lecionetoj kun bildoj](http://www.pandunia.info/pandunia/mini_shula.html)
+- [Lecionetoj kun bildoj](http://www.pandunia.info/pandunia/mini_xule.html)
 
 ## Komunumo
 

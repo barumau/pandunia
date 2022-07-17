@@ -19,7 +19,7 @@ Cette documentation n'est pas à jour avec la version finale de pandunia. Voir l
 - [L'essentiel](003_baze.md) en une seule page
 - [Leçon en dialogues](201_xule.md)
 - [Flashcards et quiz](https://lingopolo.org/pandunia/) sur le site de Lingopolo (en anglais)
-- [Petits cours en images](http://www.pandunia.info/pandunia/mini_shula.html)
+- [Petits cours en images](http://www.pandunia.info/pandunia/mini_xule.html)
 - [Recueil d’expressions](200_baze_jumla.md)
 - Dictionnaire [français → pandunia](fra-pandunia.md)
 - Dictionnaire [pandunia → français](pandunia-fra.md)

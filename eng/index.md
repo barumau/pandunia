@@ -28,8 +28,7 @@ It includes simpler grammar, more international word forms, and many new words.
 
 - [The basics of Pandunia](003_baze.md) (one short page only!)
 - [Lessons with Dialogs](201_xule.md)
-- [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo
-- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_shula.html)
+- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_xule.html)
 - [Phrasebook](200_baze_jumla.md)
 - [Complete grammar of Pandunia](pan.pdf) in PDF format
 
@@ -39,6 +38,7 @@ It includes simpler grammar, more international word forms, and many new words.
   [Pandunia lexe a dunia karte](http://www.pandunia.info/lexokarte/index.html)
   web pages to see where every Pandunia word is from on a world map.
 
+<!-- - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo -->
 
 
 ## Texts

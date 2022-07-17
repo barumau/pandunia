@@ -12,7 +12,7 @@ Dokumentasi ini tidak terkini dengan versi terakhir Pandunia. Lihat versi Bahasa
 
 ## Materi pembelajaran
 
-- [Pelajaran mini](http://www.pandunia.info/pandunia/mini_shula.html)
+- [Pelajaran mini](http://www.pandunia.info/pandunia/mini_xule.html)
 
 ## Forum diskusi
 

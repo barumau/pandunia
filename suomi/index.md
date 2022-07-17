@@ -38,7 +38,7 @@ että sen voi oppia käytännön harjoitusten kautta,
 eikä kielioppia ole pakko opiskella.
 
 - [Pandunian perusteet tiivistettynä](003_baze.md) vain yhdellä sivulla!
-- [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_shula.html) - Yritä oppia pandunian alkeet pelkkien kuvien avulla!
+- [Emoji-kurssi](http://www.pandunia.info/pandunia/mini_xule.html) - Yritä oppia pandunian alkeet pelkkien kuvien avulla!
 - [Tulkkisanakirja](200_baze_jumla.md) - Käytännöllisiä lauseita panduniasta suomeksi
 - Sanastoja
     - [Pandunia-suomi](pandunia-suomi.md)
