@@ -114,23 +114,23 @@ indicates that an action is done regularly.
 **mi ade gul yo bir.**
 – I have a habit of drinking beer.
 
-**liu**
+**leu**
 ('attain, accomplish, reach; already')
 indicates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
 It is best translated by *already* or *(not) yet*.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
 
-**ya _liu_ e guru.**
+**ya _leu_ e guru.**
 – He or she is already a teacher.  
-**mi no _liu_ gul yo alkohol.**
+**mi no _leu_ gul yo alkohol.**
 – I haven't drank alcohol yet.  
-**mi _liu_ no gul yo alkohol.**
+**mi _leu_ no gul yo alkohol.**
 – I am already not drinking alcohol.  
-**mi _liu_ don la buke do yamen.**
+**mi _leu_ don la buke do yamen.**
 – I have given the book to them. Or: I already gave the book to them.  
-**yamen no _liu_ ridone ya do mi.**
+**yamen no _leu_ ridone ya do mi.**
 – They haven't given it back to me. Or: They didn't give it back to me yet.  
-**mi _liu_ lai do site.**
+**mi _leu_ lai do site.**
 – I have come to the city. Or: I already came to the city.
 
 **pas**

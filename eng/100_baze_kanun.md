@@ -33,26 +33,27 @@ They are described in more detail later in this document.
    Their role is indicated by word order or by a preposition.
 6. **Numerals:**
    The cardinal numbers are:
-       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
-         7 **ceti**, 8 **bati**, 9 **tisa**, 10 **des**.
+       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **catre**, 5 **pente**, 6 **sixe**,
+         7 **cete**, 8 **bate**, 9 **nove**, 10 **des**.
        - Greater than ten: 11 **des un**, 12 **des du**, 13 **des tri**, etc.
-       - Tens: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
+       - Tens: 20 **du des**, 30 **tri des**, 40 **catre des**, etc.
        - Hundreds: 100 **un sente**, 200 **du sente**, 300 **tri sente**, etc.
        - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
-       - The ordinal numbers use the suffix **-ime**: **unime** (first), **duime** (second), **trime** (third), etc.
+       - The ordinal numbers use the suffix **-ime**:
+         **unime** (first), **duime** (second), **trime** (third), **catrime** (fourth), etc.
 7. **Modifiers:**
    The adjective and the adverb have the same form.
    The adjective modifier is before the noun that it modifies,
    and the adverb modifier is before the verb that it modifies.
-    - **un rapide loge**
+    - **un suge loge**
       – A fast speech.
-    - **tu rapide loge.**
+    - **tu suge loge.**
       – You speak fast.
 8. **Verbs:**
    The verb does not change in person, number and tense.
    Auxiliary verbs indicate time.
     - **zai** indicates an ongoing event.
-    - **le** indicates a completed event whose results have an effect on the present situation.
+    - **leu** indicates a completed event whose results have an effect on the present situation.
     - **pas** indicates a completed event that has no connection to the present situation.
     - **xa** indicates a future event.
 9. **Word order:**

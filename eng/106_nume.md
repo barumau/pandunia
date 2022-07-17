@@ -8,24 +8,24 @@
 | 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
 | 2 du    | 12 des du    | 22 du des du     | 32 tri des du    |
 | 3 tri   | 13 des tri   | 23 du des tri    | 33 tri des tri   |
-| 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
-| 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
-| 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 ceti  | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
+| 4 catre | 14 des catre | 24 du des catre  | 34 tri des catre |
+| 5 pente | 15 des pente | 25 du des pente  | 35 tri des pente |
+| 6 sixe  | 16 des sixe  | 26 du des sixe   | 36 tri des sixe  |
+| 7 cete  | 17 des cete  | 27 du des cete   | 37 tri des cete  |
 | 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
-| 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
+| 9 nove  | 19 des nove  | 29 du des nove   | 39 tri des nove  |
 
 | Ones    |  Tens         | Hundreds        | Thousands        |
 |:--------|:-------------|:----------------|:------------------|
 | 1 un    | 10 (un) des  | 100 (un) sente  | 1000 (un) kilo    |
 | 2 du    | 20 du des    | 200 du sente    | 2000 du kilo      |
 | 3 tri   | 30 tri des   | 300 tri sente   | 3000 tri kilo     |
-| 4 nelu  | 40 nelu   des| 400 nelu sente  | 4000 nelu kilo    |
-| 5 lima  | 50 lima  des | 500 lima sente  | 5000 lima kilo    |
-| 6 luka  | 60 luka des  | 600 luka sente  | 6000 luka kilo    |
-| 7 ceti  | 70 ceti des  | 700 ceti sente  | 7000 ceti kilo    |
+| 4 catre | 40 catredes  | 400 catre sente | 4000 catre kilo   |
+| 5 pente | 50 pente des | 500 pente sente | 5000 pente kilo   |
+| 6 sixe  | 60 sixe des  | 600 sixe sente  | 6000 sixe kilo    |
+| 7 cete  | 70 cete des  | 700 cete sente  | 7000 cete kilo    |
 | 8 bati  | 80 bati des  | 800 bati sente  | 8000 bati kilo    |
-| 9 tisa  | 90 tisa des  | 900 tisa sente  | 9000 tisa kilo    |
+| 9 nove  | 90 nove des  | 900 nove sente  | 9000 nove kilo    |
 
 Greater numbers follow the same logic as above.
 
@@ -86,17 +86,17 @@ Ordinal numbers are created with the suffix **-ime**.
   – second
 - **trime**
   – third
-- **nelime**
+- **catrime**
   – fourth
-- **limime**
+- **pentime**
   – fifth
-- **lukime**
+- **sixime**
   – sixth
 - **cetime**
   – seventh
 - **batime**
   – eighth
-- **tisime**
+- **novime**
   – ninth
 - **desime**
   – tenth
@@ -178,7 +178,7 @@ which includes, among many others,
 – two bottles of wine  
 **tri sake patate**
 – two sacks of potatoes  
-**nel tin limonaje**
+**catre tin limonaje**
 – three cans of lemonade
 
 
@@ -203,9 +203,9 @@ stands for '2/3' in mathematical symbols.
 
 **un fen du**
 – a half (½)  
-**un fen nel**
+**un fen catre**
 – one fourth, one quarter (¼)  
-**tri fen nel**
+**tri fen catre**
 – three fourths, three quarters (¾)  
 **un fen sento**
 – one hundredth, one percent (1%)  
@@ -218,7 +218,7 @@ Fractions are connected to their noun head with
 
 **un fen du de hor**
 – a half (of an) hour  
-**lima des fen sente de jen**
+**pente des fen sente de jen**
 – fifty percent of people  
 **du fen tri de keke**
 – two thirds of a cake  
@@ -231,9 +231,9 @@ It uses the pattern
 
 **un de du fen**
 – one of two parts, a half (½)  
-**un de nel fen**
+**un de catre fen**
 – one of four parts, a quarter (¼)  
-**tri de nel fen**
+**tri de catre fen**
 – three of four parts, three quarters (¾)  
 **un de sente fen**
 – one of hundred parts, a percent, (1%)  
@@ -264,13 +264,13 @@ and so on.
    – Tuesday
 3. **den tri**
    – Wednesday
-4. **den nel**
+4. **den catre**
    – Thursday
-5. **den lima**
+5. **den pente**
    – Friday
-6. **den luka**
+6. **den sixe**
    – Saturday
-7. **den ceti**
+7. **den cete**
    – Sunday
 
 #### Months
@@ -286,17 +286,17 @@ but this time the word
    – February
 3. **lun tri**
    – March
-4. **lun nel**
+4. **lun catre**
   – April
-5. **lun lima**
+5. **lun pente**
   – May
-6. **lun luka**
+6. **lun sixe**
   – June
-7. **lun ceti**
+7. **lun cete**
   – July
 8. **lun bati**
   – August
-9. **lun tisa**
+9. **lun nove**
   – September
 10. **lun des**
   – October
@@ -318,5 +318,5 @@ The 24 hour clock is the standard.
 – twelve thirty, half past twelve  
 **hor du des**
 – eight PM  
-**hor du des i des lima**
+**hor du des i des pente**
 – quarter past eight PM

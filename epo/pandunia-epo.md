@@ -5,8 +5,10 @@
 a ke - kie  
 a le - tie  
 a max - ankaŭ  
-a nove - ĵus  
+a misal - ekzemple  
+a neu - ĵus  
 a sababe de - ĉar  
+a supre - super  
 a xukre de - dank’al  
 a zay den - hodiaŭ  
 abete - abio  
@@ -169,7 +171,6 @@ barude - pulvo
 bas - sufiĉa  
 basen - baseno  
 baske - korbo  
-bate - bati  
 bate - ok (8)  
 bata - anaso  
 baton - stango  
@@ -280,14 +281,12 @@ canse - ŝanco
 cante - kanto  
 cantergrupe - ĥoro  
 cape - presaĵo  
-car - kvar (4)  
 cate - tekto  
+catre - kvar (4)  
 cau - herbo  
 ceke - ĉeko  
 cel - ĉelo  
 celolojia - citologio  
-cente - cent  
-centi - centono  
 cepe - kapti  
 • acepe - akcepti  
 • excepe - escepti (krom)  
@@ -366,10 +365,10 @@ den - tago (periodo de 24 horoj)
 den un - luno  
 den du - mardo  
 den tri - merredo  
-den nelu - ĵaŭdo  
-den lima - vendredo  
-den luka - sabato  
-den ceti - dimanĉosunnuntai  
+den catre - ĵaŭdo  
+den pente - vendredo  
+den sixe - sabato  
+den cete - dimanĉosunnuntai  
 denge - atendi  
 des - dek (10)  
 deskilo - dek miloj  
@@ -622,6 +621,9 @@ germanium - germaniumo
 gide - gvidi  
 gitar - gitaro  
 giuke - jado  
+glas - vitro  
+• glasize - glazuro  
+glasokupe - glaso  
 globe - tera  
 glute - gluo  
 gluten - gluteno  
@@ -846,13 +848,12 @@ kalsokristal - marmoro
 kalsomate - kalko  
 kalsopetre - kalkoŝtono  
 kamar - ĉambro  
-Kambozia - Kamboĝo  
+Kambojia - Kamboĝo  
 kamis - ĉemizo  
 kamote - batato  
 kan - farejo  
 kanal - kanalo  
 kanape - sofo  
-kance - vitro  
 kande - bombono  
 kangaru - kangaro  
 kano - kanuo (kanoto)  
@@ -984,7 +985,7 @@ kruasante - korna bulko
 krus - kruco  
 kube - kubo  
 kuku - kukolo  
-kule - bonega (mojosa)  
+kul - bonega (mojosa)  
 kultur - kulturo  
 kupe - taso  
 kupre - kupro  
@@ -1025,7 +1026,6 @@ lile - malgranda
 lilbol - bobelo  
 lilsite - urbeto  
 lilite - ŝtoneto  
-lime - kvin (5)  
 • tralime - tro  
 limon - citrono  
 limonrange - flava  
@@ -1160,7 +1160,6 @@ mirsonde - eĥo
 • misioner - misiisto  
 • konmisia - komisiono (komitea)  
 misal - ekzemplo  
-a misal - ekzemple  
 miskin - mizera  
 misre - egipta  
 Misria - Egipto  
@@ -1241,6 +1240,12 @@ Nepotun - Neptuno
 nepotunium - neptunio  
 Nepal - Nepalo  
 • internete - Interreto  
+neu - nova  
+• nevia - noveco  
+• nevaje - novaĵo  
+• nevike - novulo  
+neugene - novnaskita  
+neuloge - neologismo  
 neure - nervo  
 neurocel - neŭrono  
 Niger - Niĝero  
@@ -1273,12 +1278,8 @@ nosolojia - sciteorio (epistemologio)
 nostalgia - nostalgio (saudado)  
 note - noto (rimarko, komento)  
 notobuke - kajero  
-nove - nova  
-• novia - noveco  
-• novaje - novaĵo  
-• novike - novulo  
-novojene - novnaskita  
-novologe - neologismo  
+nove - naŭ (9)  
+• novime - naŭa  
 nume - nombro  
 nuton - newtono (N)  
 
@@ -1368,9 +1369,11 @@ pele - peli
 pelpel - papilio  
 • pendaje - pendaĵo  
 penis - peniso  
+pente - kvin (5)  
 pente - pentri  
 pente - pentri  
 pentobrox - peniko  
+pentogone - kvinangulo (kvinlatero)  
 pere - plumo  
 perde - furzo  
 pete - ventro  
@@ -1533,7 +1536,7 @@ sal yam - bonan apetiton!
 salam - saluti (saluton)  
 salte - salo  
 salve - savi  
-same - sama  
+sam: - sama  
 samodexan - samlandano  
 samemote - kompato  
 sammetre - simetria  
@@ -1565,7 +1568,9 @@ sene - aĝo
 • senike - aĝulo  
 senater - senatano  
 sense - sentumo  
+sente - cent  
 sente - senti  
+senti- - centono  
 sere - serio  
 • seria - serio  
 • sereme - ĉenero  
@@ -1579,22 +1584,22 @@ siborgium - seborgio
 side - sidi  
 • presidente - prezidento  
 sifolexe - adjektivo  
-sigar - cigaredo  
+sigare - cigaredo  
 siyahe - nigra  
-sikliste - biciklisto  
-risikle - recikligi  
+• sikliste - biciklisto  
+• risikle - recikligi  
 silike - silicio  
 simple - simpla  
 • simplife - simpligi  
 sina - brusto  
-sinakapse - torako  
+sinakase - torako  
 sing - leono  
 Singapur - Singapuro  
-sirke - ĉirkaŭi  
+• sirkize - ĉirkaŭi  
 sismolojia - sismologio  
 sistem - sistemo  
 site - urbo  
-six - sis  
+sixe - sis  
 • sixime - sisa  
 skale - ŝtuparo  
 skandium - skandio  
@@ -1621,7 +1626,7 @@ son - sono
 song - pino  
 sosis - kolbaso  
 spete - miri (spekti)  
-speter - spektanto  
+• speter - spektanto  
 • inspete - kontroli  
 sporte - sporto  
 stadia - stadiono (areno)  
@@ -1642,21 +1647,19 @@ Sudi Cosen - Sudkoreio
 suge - rapida  
 sugude - rapideco  
 sui - akvo  
-suye - akva  
 suigas - vaporo  
 suiyau - soifo  
+• suyos - akva  
 suipade - akvofalo (kaskado)  
 suke - feliĉa  
-suku - ŝati  
 sukar - sukero  
 sulfe - sulfuro  
 sum - sumo  
 suome - finna  
 Suomia - Finnlando  
 supe - supo  
-supere - bonega  
-supre - superiri  
-supro - super  
+• super - bonega  
+supropase - superiri  
 suprize - surprizo  
 sus - lakrico  
 susan - lilio  

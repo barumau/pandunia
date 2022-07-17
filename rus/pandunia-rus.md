@@ -6,6 +6,7 @@ a - в
 a line - онлайн  
 a long - далеко  
 a longe dure - долго  
+a misal - например  
 abete - пихта  
 acari - марино́ванный  
 aci - чихать  
@@ -158,7 +159,6 @@ bas - достаточно (довольно)
 basen - бассейн  
 baske bol - баскетбол  
 bate - восемь (8)  
-• batalon - батальон  
 batosenter - спрут (осьминог)  
 baton - штанга  
 baton - кол  
@@ -166,10 +166,10 @@ batonkase - клетка
 batre - батарея  
 bau - сокровище (казна; драгоценный)  
 bavite - драгоценный камень  
-baze - основа (база, фундамент)  
+baze - основа (база, фундамент, дно, низ)  
 baze bol - бейсбол  
-bazoxulkan - семилетка  
 bazostrute - инфраструктура  
+bazoxulkan - семилетка  
 bazar - рынок (базар)  
 bebe - младенец  
 bekofan - терракота  
@@ -251,12 +251,10 @@ caku - нож
 camaca - ложка  
 canse - возможность (шанс)  
 cantergrupe - хор  
-car - четыре (4)  
 carme - шарм  
+catre - четыре (4)  
 ceke - чек  
 celolojia - цитология  
-cente - сто  
-• pro cente - процент  
 centaure - василёк  
 • excepe - выгнать (исключить, кроме)  
 • intercepe - перехватывать  
@@ -323,10 +321,10 @@ den - сутки
 den un - понедельник  
 den du - вторник  
 den tri - среда  
-den nelu - четверг  
-den lima - пятница  
-den luka - суббота  
-den ceti - воскресенье  
+den catre - четверг  
+den pente - пятница  
+den sixe - суббота  
+den cete - воскресенье  
 deu - бог  
 deunagre - деванагари  
 deusofia - теософия  
@@ -338,6 +336,7 @@ din - религия (вера)
 dinamite - динамит  
 dinde - индюк  
 diorite - диорит  
+dipe moke - куст  
 diske - диск  
 disprosium - диспрозий  
 dite - диктовать  
@@ -524,6 +523,9 @@ gestolingue - язык жестов
 gidobuke - путеводитель  
 gitar - гитара  
 giuke - нефрит (жад)  
+glas - стекло  
+• glasize - глазуровать (глазурь)  
+glasokupe - стакан  
 glise - задвигаться (скользи́ть)  
 glute - клеиться  
 glutobende - пластырь  
@@ -605,7 +607,7 @@ hisabe - вычислять
 • historia - история  
 hoge - огонь  
 hoge - жечь (палить)  
-hogosan - вулкан  
+hogoxan - вулкан  
 hogite - кремень  
 hogotehne - фейерверк  
 hoke - хоккей  
@@ -707,9 +709,6 @@ kamil - ромашка аптечная
 kamis - рубашка  
 kampostan - полевой стан  
 kanape - канапе  
-kance - стекло  
-kancodake - глазурь  
-kancodake - глазуровать  
 kangaru - кенгуру  
 kanyon - овраг (ущелье, каньон)  
 kankuate - кумкват (кинкан)  
@@ -873,7 +872,6 @@ libele - стрекоза
 lile - маленький (малый)  
 lilkaboge - цукини  
 lilite - галька  
-lime - пять (5)  
 • belime - ограниченный  
 limon - лимон  
 • limonike - цитрус  
@@ -886,8 +884,6 @@ lingue - язык
 • duolinguike - двуязычный  
 • polilinguike - многоязычный  
 lingue ginse - род в грамматике  
-linke - связь (ссылка)  
-linke - соединить (подключить)  
 lisan - язык  
 liste - список  
 litium - литий  
@@ -1008,7 +1004,6 @@ mirde - слабый
 • konmisia - комиссия (комитет)  
 • tramision - передача  
 • tramisor - передатчик  
-a misal - например  
 Misria - Египет  
 mitre - метр  
 mixe - мешать  
@@ -1076,6 +1071,12 @@ nepe - облако
 Nepotun - Нептун  
 nepotunium - нептуний  
 • konnete - связывать  
+neu - новый  
+• nevia - новизна  
+• nevaje - новинка (новь)  
+• nevike - новичок  
+neugene - новорождённый  
+neuloge - неологизм  
 neurocel - нейрон  
 nide - гнездо (улей)  
 nikel - никель  
@@ -1090,7 +1091,6 @@ nitre - азот
 no - нет (не)  
 nobelium - нобелий  
 noce - ночь  
-nof - девять (9)  
 nome - организовать  
 • nomia - организация  
 norde - север (норд)  
@@ -1108,12 +1108,8 @@ norde - север (норд)
 nosolojia - эпистемология  
 nostalgia - ностальгия (тоска)  
 note - запись (заметка)  
-nove - новый  
-• novia - новизна  
-• novaje - новинка (новь)  
-• novike - новичок  
-novojene - новорождённый  
-novologe - неологизм  
+nove - девять (9)  
+• novime - девятый  
 • nudisme - нудизм  
 nuke - шея  
 nume - число (счёт)  
@@ -1203,9 +1199,11 @@ peikarer - профессионал (профи)
 pelpel - бабочка (мотылёк)  
 • pendaje - подвеска (кулон)  
 pendokardon - чертополох поникший  
+pente - пять (5)  
 pente - картина  
 • penter - художник  
 pentobrox - кисть  
+pentogone - пятиугольник  
 pere - перо  
 perokardon - бодяк обыкновенный  
 perde - пердение (пердеть)  
@@ -1403,6 +1401,8 @@ semente - цемент
 sene - возраст  
 senater - сенатор  
 sense - чувство  
+sente - сто  
+• pro sente - процент  
 sere - серия  
 • seria - серия  
 • sereme - звено  
@@ -1413,31 +1413,30 @@ sesam - сезам
 sexolojia - сексология  
 siane - циан  
 siborgium - сиборгий  
-side - сиденье (седло)  
-side - сидеть  
+• sidel - сиденье (седло)  
 • inside - сесть на корточки  
 sifolexe - прилагательное  
-sigar - сигарета (папироса, сигарка)  
+sigare - сигарета (папироса, сигарка)  
 siyahe - чёрный  
-sikliste - велосипедист  
-risikle - рециркулировать  
+• sikliste - велосипедист  
+• risikle - рециркулировать  
 silike - кремний  
 silke - шёлк  
 • dusosine - зловещий  
 sinaplate - нагрудник  
-sire - скрывать  
-sirplan - заговор (сговор)  
+sir - скрывать  
+siroplan - заговор (сговор)  
 sirkite - булыжник  
 • sivile - гражданский  
 • sivopedia - граждановедение  
-six - шесть (6)  
+sixe - шесть (6)  
 • askale - подниматься  
 skandium - скандий  
 skerte - юбка  
 • skulter - скульптор  
 slave - славянский  
 • socia - общество (социум)  
-soce ginse - гендер  
+soce jinse - гендер  
 • sofia - мудрость  
 sofa - софа (диван, канапе)  
 soge - искать  
@@ -1454,10 +1453,10 @@ somokamar - спальня
 somopapil - мак снотворный  
 sonomun - глотка  
 song - сосна  
-sor - замок  
+sore - замок  
 sore - запереть  
 sosis - колбаса (сосиска)  
-sponge - губка  
+sponje - губка  
 sporte - спорт  
 • sportokan - спортзал  
 stanium - олово  
@@ -1485,9 +1484,10 @@ suipade - водопад
 suke - счастливый (радостный)  
 sukar - сахар  
 sukarbete - сахарная свёкла  
-sukarorange - апельсин  
 sukar gana - сахарный тростник  
+sukarorange - апельсин  
 sulfe - сера  
+sultan - султан  
 sus - солодка (лакрица)  
 susan - лилия  
 
@@ -1498,7 +1498,6 @@ tablete konputer - планшетный компьютер
 table konputer - планшетный компьютер  
 tai - сцена (подмостки, эстрада)  
 tail - черепи́ца  
-tali moke - куст  
 talium - таллий  
 taltexe - ковёр  
 Talban - Талибан  

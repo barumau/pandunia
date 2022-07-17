@@ -178,7 +178,7 @@ and it means the same as English _which_.
 
 Also adjectives are questioned with **ke**.
 
-**ke nove?**
+**ke neu?**
 – How new?  
 **ke koste?**
 – How costy?  

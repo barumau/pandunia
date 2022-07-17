@@ -151,7 +151,7 @@ The passive voice is formed with the help of the helping verb
 
 To modify a noun, put adjectives before it.
 
-**un nove ame**
+**un neu ame**
 – a new love  
 **la bon pai**
 – the good pie

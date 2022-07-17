@@ -41,16 +41,19 @@ The sentence **mi fa hure yamen** would mean the same thing but it would include
 a - by (at, in, on)  
 a intre - inside  
 a ke - where  
+a korte - soon (after a while)  
 a le - there  
 a line - online  
 a long - long (over a gread distance)  
 a longe dure - for a long time  
 a max - also (too, in addition)  
-a nove - just (recently)  
+a misal - for example  
+a neu - just (recently)  
 a proxe - nearly (closely, almost)  
 a retre - backward (in reverse)  
 a sababe de - because  
 a sube - under  
+a supre - above (over)  
 a vere - truly (indeed, very)  
 a xukre de - thanks to  
 a zay - presenty (currently, now)  
@@ -343,10 +346,7 @@ bas - enough (sufficient)
 basen - pool (basin)  
 baske - basket (basketball hoop)  
 baske bol - basket ball  
-bate - strike (punch, beat)  
 bate - eight (8)  
-• batal - battle  
-• batalon - battalion  
 batosenter - octopus  
 bata - duck  
 batakrote - platypus  
@@ -357,13 +357,14 @@ batonpang - baguette
 batre - battery  
 bau - treasure (valuables; precious)  
 bavite - gem (gemstone, jewel)  
-baze - base (foundation; basic; base on, found)  
+baze - base (foundation, bottom; basic; base on, found)  
+• bazike - basic  
+• bazer - founder  
 baze bol - baseball  
 bazokanun - consitution  
 bazopetre - bedrock  
-bazer - founder  
-bazoxulkan - primary school (elementary school, gradeschool)  
 bazostrute - intrastructure (underbuilding)  
+bazoxulkan - primary school (elementary school, gradeschool)  
 bazar - market (bazaar)  
 bazarhurisme - market liberalism  
 be - undergo (passivizing verb)  
@@ -538,11 +539,11 @@ cante - sing (song, chant)
 cantergrupe - choir (chorus)  
 cape - print (stamp, press)  
 capati - flatbread (chapati, roti)  
-car - four (4)  
-carogalope - gallop  
-carogone - square (tetragon)  
 carme - charm (attraction)  
 cate - roof  
+catre - four (4)  
+catrogalope - gallop  
+catrogone - square (tetragon)  
 cau - grass  
 caustan - grassland (prairie)  
 Cehia - Czech Republic  
@@ -553,11 +554,7 @@ celsius darge - degree Celsius
 ceng - layer (level, storey, floor, stratum)  
 cense - censor  
 • censer - censor  
-cente - hundred (100)  
-• pro cente - percent  
 centaure - centaury  
-centi - centi- (per cent)  
-centimitre - centimeter (cm)  
 cepe - catch (capture, take, seize)  
 • cepure - capture (seizure)  
 • acepe - accept (get, receive)  
@@ -720,10 +717,10 @@ den - day (24 hours)
 den un - Monday  
 den du - Tuesday  
 den tri - Wednesday  
-den nelu - Thursday  
-den lima - Friday  
-den luka - Saturday  
-den ceti - Sunday  
+den catre - Thursday  
+den pente - Friday  
+den sixe - Saturday  
+den cete - Sunday  
 denge - wait  
 des - ten (10)  
 deskilo - ten thousand  
@@ -761,6 +758,9 @@ dinde - turkey
 ding - nail (spike)  
 Dione - Dione  
 diorite - diorite  
+dipe - low (short, bottom)  
+dipe moke - bush (shrub)  
+• dipife - lower (put down)  
 dise - disperse (spread out, scatter; sparse)  
 diske - disc (disk)  
 disprosium - dysprosium  
@@ -1313,6 +1313,9 @@ ginge - longitudinal (vertical)
 gingoline - warp  
 gitar - guitar  
 giuke - jade  
+glas - glass  
+• glasize - glaze (vitrify; glazing, enamel)  
+glasokupe - glass (tumbler)  
 glise - slide (slip, glide, skate)  
 globe - global  
 glute - glue (stick, adhere, paste; adhesive)  
@@ -1515,12 +1518,12 @@ hoge - fire (burning)
 hoge - burn (cause to burn)  
 hoge - fiery  
 hogu - burn (be burned)  
-hogopuzia - pyrolatry  
-hogosan - volcano  
-hogosani kance - volcanic glass  
-hogosanduke - lantern  
+hogopujia - pyrolatry  
+hogoxan - volcano  
 hogite - flint  
+hogosanduke - lantern  
 hogotehne - fireworks (pyrotechnics)  
+hogoxan glas - volcanic glass  
 hoke - hockey  
 hole - whole (entire)  
 • holia - wholeness (integrity)  
@@ -1761,9 +1764,9 @@ kalsomate - lime
 kalsopetre - limestone  
 kame - lust (desire, libido, sexual passion)  
 kamar - room (chamber)  
+kamardipe - floor  
 kamargau - ceiling  
-kamartal - floor  
-Kambozia - Cambodia  
+Kambojia - Cambodia  
 Kamerun - Cameroon  
 kamil - German camomile  
 kamis - shirt  
@@ -1780,9 +1783,6 @@ kanal - channel (canal)
 kanale - channel (conduct)  
 kanaler - conduit (channel)  
 kanape - sofa (couch)  
-kance - glass  
-kancodake - glazing (enamel)  
-kancodake - glaze (vitrify)  
 kande - candy (sweets)  
 kandel - candela  
 kang - comb  
@@ -2099,7 +2099,7 @@ Kuke nesia - Cook Islands
 kukokamar - kitchen  
 kuker - cook (chef)  
 kuku - cuckoo  
-kule - cool  
+kul - cool  
 kulombe - coulomb (unit)  
 kultur - culture  
 • polikulture - multicultural  
@@ -2189,6 +2189,7 @@ lense - exercise
 lense - practice (to exercise)  
 lente - slow (lethargic)  
 letis - lettuce  
+leu - already (yet)  
 lexe - word  
 • lexia - vocabulary (lexicon)  
 • lexeme - lexeme  
@@ -2224,9 +2225,6 @@ lilite - pebble (gravel)
 lilake - lilac  
 lilake - lilac color  
 lime - limit (boundary)  
-lime - five (5)  
-limfas - pentahedron (prism)  
-limgon - pentagon  
 • anlimia - infinity  
 • belime - limited (finite)  
 • tralime - too much (over limit)  
@@ -2250,8 +2248,6 @@ lingue - language (tongue)
 lingue ginse - grammatical gender  
 linguokanun - grammar  
 linguolojia - linguistics  
-linke - joint (link)  
-linke - connect (join, link)  
 lise - smooth  
 lisan - tongue  
 liste - list (listing, catalogue)  
@@ -2259,7 +2255,6 @@ inliste - table of contents (inventory)
 litium - lithium  
 litre - litre (liter)  
 live - stay behind (remain, linger; leave behind)  
-liu - already (yet)  
 • livaje - rest (remainder)  
 livermorium - livermorium  
 lobake - radish  
@@ -2308,12 +2303,12 @@ lun - month
 lun un - January  
 lun du - February  
 lun tri - March  
-lun nelu - April  
-lun lima - May  
-lun luka - June  
-lun ceti - July  
-lun bati - August  
-lun nuve - September  
+lun catre - April  
+lun pente - May  
+lun sixe - June  
+lun cete - July  
+lun bate - August  
+lun nove - September  
 lun des - October  
 lun des un - November  
 lun des du - December  
@@ -2592,7 +2587,6 @@ mise - send (emit, transmit)
 • tramision - transmission  
 • tramisor - transmitter  
 misal - example (instance of)  
-a misal - for example  
 miskin - poor (miserable)  
 misre - Egyptian  
 Misria - Egypt  
@@ -2798,6 +2792,19 @@ nete - nexus (web, network)
 netodone - upload  
 netogete - download  
 netoloke - website  
+neu - new (recent)  
+• nevia - newness  
+• nevaje - novelty (new product)  
+• nevike - novice (newbie)  
+• reneve - renew (make new, renovate)  
+Neu Kaledonia - New Caledonia  
+Neu Yorke - New York  
+Neu Yorke site - New York City  
+neu Zelandia - New Zealand  
+neufite - neophyte plant  
+neugene - newborn  
+neuloge - neologism  
+neuyangike - modern  
 Nevis - Nevis  
 neure - nerve (neural)  
 neurocel - neuron  
@@ -2829,7 +2836,6 @@ noce - night
 nocomode - night mode  
 node - tie (make knot; knot, node)  
 • nodule - lump (nodule)  
-nof - nine (9)  
 nole - cancel (nullify)  
 nome - manage (organize)  
 • nomia - management (arrangement, -nomy)  
@@ -2868,19 +2874,8 @@ note - note (observation, remark, comment; notice, observe)
 • notife - notify  
 • notize - notice (notification)  
 notobuke - notebook  
-nove - new (recent)  
-Nove Zelandia - New Zealand  
-• novia - newness  
-• novaje - novelty (new product)  
-• novike - novice (newbie)  
-• renove - renew (make new, renovate)  
-Nove Kaledonia - New Caledonia  
-Nove Yorke - New York  
-Nove Yorke site - New York City  
-novofite - neophyte plant  
-novojene - newborn  
-novoyange - modern  
-novologe - neologism  
+nove - nine (9)  
+• novime - ninth  
 nude - naked (bare, nude)  
 • nudisme - nudism  
 • nudiste - nudist  
@@ -3018,7 +3013,7 @@ pante - pants (trousers)
 papagai - parrot (parakeet)  
 papai - papaya  
 papir - document (paper)  
-Papua Novi Ginia - Papua New Guinea  
+Papua Neu Ginia - Papua New Guinea  
 par - level  
 pare - equalize (balance, even out)  
 pare - even (level, peer, equal)  
@@ -3111,10 +3106,13 @@ pendokardon - musk thistle
 • apende - append (hang to)  
 • apendaje - appendix  
 penis - penis (phallus)  
+pente - five (5)  
 pente - paint  
 pente - paint (cover in paint)  
 • penter - painter  
 pentobrox - paintbrush  
+pentofase - pentahedron (prism)  
+pentogone - pentagon  
 pere - feather  
 perokardon - spear thistle  
 perde - fart (flatulence)  
@@ -3305,11 +3303,11 @@ pujorite - ritual (ceremony, religious custom)
 pul - bridge  
 pulmon - lung  
 pulse - push (thrust)  
-• repulse - push away (repulse)  
-• repulsive - repulsive  
 • pulsation - pulse  
 • inpulse - push in (impulse)  
 • propulse - push forward (propulsion)  
+• repulse - push away (repulse)  
+• repulsive - repulsive  
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
 puntoban - scoreboard  
@@ -3360,9 +3358,9 @@ rande - plane (tool for making a smooth surface)
 rande - smoothen with a plane  
 rang - color  
 range - colored  
-rangi kance - stained glass  
 rangarke - rainbow  
 rangarkosalmon - rainbow trout  
+rangoglas - stained glass  
 rangomate - dye  
 rapsodia - rhapsody  
 rare - rare (uncommon, sparse)  
@@ -3538,7 +3536,7 @@ salte - salt
 Salvador - El Salvador  
 salve - save (rescue, salvage)  
 • salver - savior (rescuer)  
-same - same (equal, match)  
+sam: - same (equal, match)  
 • sames - sameness  
 • samike - similar (analogous)  
 samodexan - compatriot  
@@ -3612,7 +3610,11 @@ Senegal - Senegal
 sense - sense (method of perception)  
 sense - sense (perceive, detect)  
 • senser - sensor (detector)  
+sente - hundred (100)  
 sente - feel (sense by touch)  
+• pro sente - percent  
+senti- - centi- (per cent)  
+sentimitre - centimeter (cm)  
 sere - series (sequence, succession)  
 • seria - series (sequence, succession)  
 • sereme - link  
@@ -3640,23 +3642,21 @@ Sexel nesia - Seychelles
 siane - cyan  
 Sibiria - Siberia  
 siborgium - seaborgium  
-side - seat (saddle)  
-side - sit (put down)  
-sidu - sit down  
+side - sit  
+• sidel - seat (saddle)  
 • inside - crouch (squat)  
 • presidente - president  
-• visopresidente - vice-president  
+• visepresidente - vice-president  
 sife - qualify (describe; quality, attribute, description)  
 • sifive - descriptive  
 sifolexe - adjective  
-sigar - cigarette (cigar)  
+sigare - cigarette (cigar)  
 siyahe - black  
-sike - elegant (chic)  
 sikisme - Sikhism  
 sikiste - Sikh  
 sikle - bike (cycle)  
-sikliste - cyclist  
-risikle - recycle  
+• sikliste - cyclist  
+• risikle - recycle  
 silike - silicon  
 silke - silk  
 simple - simple (not complicated)  
@@ -3668,19 +3668,16 @@ sine - sign (signal, indication)
 • desine - designate (mark out)  
 • dusosine - ominous (foreboding)  
 sina - chest (breast)  
-sinakapse - rib cage  
+sinakase - rib cage  
 sinaplate - breastplate  
 sing - lion  
 Singapur - Singapore  
-sir - secret (hidden)  
-sire - hide (conceal)  
-sire - secret  
-siri mote - stealth  
-siro motu - sneak  
-sirplan - conspiracy (plot)  
+sir - secret (hidden; hide, conceal)  
+siromote - stealth (sneak)  
+siroplan - conspiracy (plot)  
 sirke - circle (round)  
-sirke - surround (encircle)  
-sirke - round (circular)  
+• sirkize - surround (encircle)  
+• sirkule - circle  
 sirkite - cobblestone  
 siro - zero (none)  
 sisme - shake (jolt, earthquake)  
@@ -3691,11 +3688,11 @@ site - city (town)
 sive - citizen  
 • sivike - civic  
 • sivile - civil  
-• sivile - civilized (civil)  
 • sivilia - civilization  
 • sivilian - civilian  
+• sivilize - civilized (civil)  
 • sivopedia - civics  
-six - six (6)  
+sixe - six (6)  
 • sixime - sixth  
 sixofase - hexahedron (cube)  
 sixogon - hexagon  
@@ -3705,7 +3702,6 @@ skale - stairs (ladder; scale)
 skalotan - vine  
 Skandia - Scandinavia  
 skandium - scandium  
-oskandinavia - Scandinavia  
 skerte - skirt  
 skope - scope (viewer)  
 Skotia - Scotland  
@@ -3721,7 +3717,7 @@ soce - socialize (interact)
 • socia - society (association)  
 • socisme - socialism  
 • sociste - socialist  
-soce ginse - social gender  
+soce jinse - social gender  
 soce media - social media  
 sofe - wise  
 • sofia - wisdom  
@@ -3733,9 +3729,9 @@ soisaus - soy sauce
 sol - sun  
 solocate - parasol  
 solocentaur - yellow starthistle  
-solestas - solstice  
 soloful - sunflower  
 solosistem - solar system  
+solostate - solstice  
 Solomon nesia - Solomon Islands  
 some - sleep  
 • somive - drowsy  
@@ -3748,21 +3744,19 @@ Somaldex - Somaliland
 son - sound (audio; make a sound)  
 sonomun - glottis  
 song - pine tree  
-sor - lock (fastener)  
+sore - lock (fastener)  
 sore - lock (fasten)  
 • desore - unlock  
-sose - social  
 sosis - sausage  
 Soto - Lesotho  
 spete - watch (spectate, observe)  
-speter - spectator (observer)  
-• speter - watcher (spectator)  
+• speter - watcher (spectator, observer)  
 • aspete - aspect (viewpoint)  
 • despete - look away from (despise, disregard)  
 • inspete - inspect (check, examine, look into)  
 • introspete - introspection  
 • respete - look back at (respect)  
-sponge - sponge  
+sponje - sponge  
 sporte - sport (athletics)  
 • sportokan - gymnasium (gym)  
 • sporter - athlete (sportsman)  
@@ -3801,9 +3795,9 @@ suanpursipi hiyar - gherkin (pickle)
 Suati - Eswatini (Swaziland)  
 sube - underside (underneath)  
 • subike - lower (inferior)  
-suboden - forenoon  
-subyam - breakfast  
 suba - morning (dawn)  
+subaden - forenoon  
+subayam - breakfast  
 sude - south  
 • sudike - southern  
 Sudi Amerike - South America  
@@ -3820,39 +3814,34 @@ suge - fast (quick, rapid, speedy)
 sugometrer - speedometer  
 sugude - speed (velocity)  
 sui - water  
-suye - watery  
 suigas - steam (vapor)  
 suiyau - thirst  
 suikaboge - calabash  
 suiminte - watermint  
+• suyos - watery  
 suirang - watercolor  
 suisekure - waterproof  
 suipade - waterfall (cataract, cascade)  
 Suisia - Switzerland  
-suke - please (satisfy, delight)  
 suke - pleased (delighted, happy)  
-suku - like (enjoy, be fond of)  
+• sukife - please (satisfy, delight)  
 sukar - sugar  
-sukari - sugary (sweet)  
+• sukaros - sugary (sweet)  
 sukarbete - sugar beet  
-sukarorange - sweet orange  
 sukar gana - sugarcane  
+sukarite - rock sugar (rock candy)  
+sukarorange - sweet orange  
 sulfe - sulfur (brimstone)  
-sulte - rule (be in charge)  
-sultia - power (authority, rule)  
-sultan - ruler  
+sultan - sultan  
 sultania - sultanate  
-sum - sum (total)  
-sume - sum up (add together)  
-suno - soon  
+sum - sum (total; sum up, add together)  
 suome - Finnish  
 Suomia - Finland  
 supe - soup (stew)  
-supere - superb (wonderful, super)  
-supre - overpass  
-supre - surpass (go over)  
+• super - superb (wonderful, super)  
 supre - upper  
-supro - above (over)  
+• supraje - overpass  
+supropase - surpass (go over)  
 suprize - surprise  
 Suria - Syria  
 Surinam - Suriname  
@@ -3879,10 +3868,7 @@ Taibei - Taipei
 taige - taiga  
 tail - tile  
 Taivan - Taiwan (Republic of China)  
-tal - bottom  
-tale - lower (put down)  
-tale - low (short)  
-tali moke - bush (shrub)  
+Tajikostan - Tajikistan  
 talo dargu - level down  
 talium - thallium  
 taltexe - carpet (rug)  
@@ -3913,8 +3899,7 @@ taxe - fee (fare)
 taxe - collect fees or taxes  
 taxi gar - taxi (cab)  
 taxi metrer - taximeter  
-taze - fresh  
-Tazikia - Tajikistan  
+taze - fresh (new)  
 tehne - technique (technology)  
 tehnium - technetium  
 tehnokratia - technocracy  
@@ -4342,6 +4327,7 @@ xibai - loss (failure, miss)
 xibai - lose (fail, miss, be defeated)  
 xibayer - loser  
 • dexibai - lose (shed, miss, misplace)  
+xike - elegant (chic)  
 xim - heart  
 xin - belief (faith, creed)  
 xine - believe  

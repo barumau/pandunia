@@ -3,6 +3,7 @@
 ## A  
 
 a line - オンライン  
+a misal - 例えば  
 a zay den - 今日  
 abete - モミ  
 able - ありうる  
@@ -118,8 +119,8 @@ batre - バッテリー
 bavite - 宝石  
 baze bol - 野球  
 bazopetre - 基盤岩  
-bazoxulkan - 小学校  
 bazostrute - インフラストラクチャー  
+bazoxulkan - 小学校  
 bazar - 市場 (マーケット, バザー)  
 bebe - 赤ちゃん  
 bekofan - テラコッタ  
@@ -190,12 +191,10 @@ caipote - 急須
 cakre - 車輪  
 camaca - スプーン  
 cantergrupe - 合唱団  
-car - 四 (4)  
+catre - 四 (4)  
 cau - 草  
 caustan - 草地  
 ceke - 小切手 (チェック)  
-cente - 百 (１００)  
-• pro cente - パーセント  
 • excepe - 追出 (退ける, 除いて)  
 ceresium - セリウム  
 • acese - アクセス  
@@ -253,10 +252,10 @@ den - 日
 den un - 月曜日  
 den du - 火曜日  
 den tri - 水曜日  
-den nelu - 木曜日  
-den lima - 金曜日  
-den luka - 土曜日  
-den ceti - 日曜日  
+den catre - 木曜日  
+den pente - 金曜日  
+den sixe - 土曜日  
+den cete - 日曜日  
 des - 十 (１０)  
 deskilo - 万  
 deu - 神  
@@ -270,6 +269,8 @@ din - 宗教
 dinamite - ダイナマイト  
 dinde - 七面鳥  
 diorite - 閃緑岩  
+dipe - 低い  
+dipe moke - 灌木 (藪)  
 dise - 疎ら  
 diske - ディスク (円盤)  
 disprosium - ジスプロシウム  
@@ -437,6 +438,9 @@ gestolingue - 手話
 gidobuke - ガイドブック  
 gingoline - 縦糸  
 gitar - ギター  
+glas - ガラス  
+• glasize - 釉薬  
+glasokupe - グラス  
 glise - 滑る  
 glute - 張る (付く)  
 glutobende - 絆創膏  
@@ -508,7 +512,7 @@ hisabe - 計算する
 hoge - 火  
 hoge - 燃やす  
 hogu - 燃える  
-hogosan - 火山  
+hogoxan - 火山  
 hogite - 火打ち石 (フリント)  
 hogotehne - 花火  
 hoke - ホッケー  
@@ -603,8 +607,6 @@ kamil - カモミール (カミツレ)
 kamis - シャツ  
 kamisi xake - 袖  
 kan - 店 (館)  
-kance - ガラス  
-kancodake - 釉薬  
 kangaru - カンガルー  
 kanyon - 峡谷  
 kankuate - キンカン (キンキツ)  
@@ -710,7 +712,7 @@ kuarze - 石英
 kube - 立方体  
 kukokamar - 台所  
 kuku - 郭公  
-kule - カッコいい  
+kul - カッコいい  
 kumulonepe - 積雲  
 kupe - コップ  
 kupre - 銅  
@@ -757,7 +759,6 @@ lidoline - リード (手綱)
 lile - 小さい  
 lilkaboge - ズッキーニ  
 lilite - 小石  
-lime - 五 (5)  
 limon - レモン  
 • limonike - 柑橘  
 limon jus - レモネード  
@@ -767,8 +768,6 @@ lince - 大山猫
 lingue - 言語  
 lingue ginse - 文法的性 (名詞クラス)  
 linguolojia - 言語学  
-linke - 繋がり (リンク)  
-linke - 繋ぐ  
 lisan - 舌  
 litium - リチウム  
 litre - リットル  
@@ -793,12 +792,12 @@ lun - 月間
 lun un - １月  
 lun du - ２月  
 lun tri - ３月  
-lun nelu - ４月  
-lun lima - ５月  
-lun luka - ６月  
-lun ceti - ７月  
-lun bati - ８月  
-lun nuve - ９月  
+lun catre - ４月  
+lun pente - ５月  
+lun sixe - ６月  
+lun cete - ７月  
+lun bate - ８月  
+lun nove - ９月  
 lun des - １０月  
 lun des un - １１月  
 lun des du - １２月  
@@ -887,7 +886,6 @@ mirde - 微か
 • misaje - 伝言 (メッセージ)  
 • misioner - 宣教師  
 • konmisia - 委員会  
-a misal - 例えば  
 Misria - エジプト  
 mitre - メートル  
 mixi alkol - カクテル (混合酒)  
@@ -947,6 +945,10 @@ nepe - 雲
 nepotunium - ネプツニウム  
 • internete - インターネット  
 • konnete - 繋げる  
+neu - 新しい  
+• nevike - 初心者  
+neuloge - 新語 (新造語)  
+neuyangike - 近代的  
 neurotoxe - 神経毒  
 nide - 巣  
 nikel - ニッケル  
@@ -963,7 +965,6 @@ nitre - 窒素
 no - いいえ  
 nobelium - ノーベリウム  
 noce - 夜  
-nof - 九 (9)  
 nole - キャンセルする  
 nome - 組織する  
 norde - 北  
@@ -973,10 +974,8 @@ norme - 標準 (普段, ノーマル)
 • dianose - 診断  
 nosolojia - 認識論  
 nostalgia - 懐古 (懐旧)  
-nove - 新しい  
-• novike - 初心者  
-novoyange - 近代的  
-novologe - 新語 (新造語)  
+nove - 九 (9)  
+• novime - 九番目  
 • nudisme - ヌーディズム  
 nuke - 首  
 nume - 数える  
@@ -1045,9 +1044,11 @@ peikarer - プロフェッショナル
 • propelor - プロペラ (推進器)  
 pelpel - チョウ  
 • pendaje - ペンダント  
+pente - 五 (5)  
 pente - 絵の具 (ペンキ)  
 • penter - 画家 (絵かき)  
 pentobrox - 絵筆  
+pentogone - 五角形  
 perokardon - アメリカオニアザミ  
 perde - 屁  
 • petrolojia - 岩石学  
@@ -1216,6 +1217,8 @@ selge - フダンソウ (スイスチャード)
 sene - 年齢  
 senater - 上院議員  
 sense - 感覚  
+sente - 百 (１００)  
+• pro sente - パーセント  
 sere - 系列  
 • seria - 系列  
 • sereme - 連結  
@@ -1224,24 +1227,24 @@ serame - 陶器
 sexolojia - 性科学  
 siane - シアン  
 siborgium - シーボーギウム  
-side - 座席 (鞍)  
-sidu - 座る  
+side - 座る  
+• sidel - 座席 (鞍)  
 • inside - しゃがむ (蹲る)  
 sifolexe - 形容詞  
-sigar - タバコ  
+sigare - タバコ  
 siyahe - 黒い  
-sikliste - チャリダー  
-risikle - 再生する (リサイクルする)  
+• sikliste - チャリダー  
+• risikle - 再生する (リサイクルする)  
 silike - ヶィ素  
 silke - 絹  
 • dusosine - 不吉 (縁起の悪い)  
-sire - 隠す  
-siri mote - 忍び  
-sirplan - 陰謀  
+sir - 隠す  
+siromote - 忍び  
+siroplan - 陰謀  
 sirkite - 丸石 (玉石, 栗石)  
 siro - 零 (０)  
 sisme - 振る  
-six - 六 (6)  
+sixe - 六 (6)  
 • askale - 上る (乗る, よじ登る)  
 • deskale - 下る (降りる)  
 skalotan - 蔓草  
@@ -1249,7 +1252,7 @@ skandium - スカンジウム
 skerte - スカート  
 • skuter - スクーター  
 • socia - 社会  
-soce ginse - ジェンダー  
+soce jinse - ジェンダー  
 • sofia - 知恵  
 sofa - ソファー  
 soge - 探す (捜索する)  
@@ -1264,9 +1267,9 @@ somokamar - 寝室
 somopapil - ケシ  
 sonomun - 声門  
 song - マツ  
-sor - 錠  
+sore - 錠  
 sosis - ソーセージ  
-sponge - スポンジ (海綿)  
+sponje - スポンジ (海綿)  
 stanium - スズ  
 stibium - アンチモン  
 strontium - ストロンチウム  
@@ -1274,8 +1277,8 @@ strontium - ストロンチウム
 sual - 聞く (質問, 問題)  
 sualodokum - アンケート (質問用紙)  
 sube - 下  
-subyam - 朝食  
 suba - 朝  
+subayam - 朝食  
 suge - 速い  
 sugude - 速度  
 sui - 水  
@@ -1286,10 +1289,10 @@ suipade - 滝 (瀑布)
 suke - 幸せな  
 sukar - 砂糖  
 sukarbete - テンサイ (サトウダイコン)  
-sukarorange - オレンジ (アマダイダイ)  
 sukar gana - サトウキビ  
+sukarorange - オレンジ (アマダイダイ)  
 sulfe - 硫黄  
-supre - 上  
+• supraje - 上  
 sus - 甘草 (蕗草)  
 
 ## T  
@@ -1297,7 +1300,6 @@ sus - 甘草 (蕗草)
 tablete konputer - タブレットコンピュータ  
 table konputer - タブレットコンピュータ  
 tail - タイル (瓦)  
-tali moke - 灌木 (藪)  
 talium - タリウム  
 taltexe - 絨毯 (カーペット)  
 Talban - タリバン  

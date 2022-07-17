@@ -6,7 +6,7 @@
 
 aakkoset (ABC) - harfia  
 aalto (laine) - onde  
-aamiainen - subyam  
+aamiainen - subayam  
 aamu - suba  
 aarre (arvokas) - bau  
 aasi - gade  
@@ -373,12 +373,12 @@ ekspatriaatti (maastamuuttaja) - expatrian
 El Salvador - Salvador  
 elatiivi - exlative  
 ele - geste  
-elegantti - sike  
+elegantti - xike  
 elektroni - eletron  
 elementti (yksinkertaisin yksikkö) - em  
 eli (toisin sanoen) - alonamo  
 elohopea - hurargente  
-elokuu - lun bati  
+elokuu - lun bate  
 elokuva - kinograf  
 elokuvallinen - kinografe  
 elokuvataide - kinografia  
@@ -630,7 +630,7 @@ heijastus - reflexon
 heikko - anbale  
 heimo - tribe  
 heinä - gancau  
-heinäkuu - lun ceti  
+heinäkuu - lun cete  
 heksadesimaali - desosixike  
 helikopteri - helisviman  
 helium - helium  
@@ -709,7 +709,7 @@ hormoni - hormon
 hotelli - hotel  
 houkutella - tente  
 housut - pante  
-huhtikuu - lun nelu  
+huhtikuu - lun catre  
 huippu - gau  
 huippu - pike  
 huivi (šaali) - xal  
@@ -820,7 +820,7 @@ ilmeinen (silminnähtävä) - exvidable
 ilmeinen (silminnähtävä) - exvide  
 ilmiasu (ulkonäkö; näyttää jltkn) - rupe  
 ilmoittaa - nunce  
-ilostuttaa (tyydyttää) - suke  
+ilostuttaa (tyydyttää) - sukife  
 ilotalo - codokan  
 ilta - xam:  
 iltapäivä - xamden  
@@ -921,7 +921,7 @@ Jemen - Yemen
 Jersey - Jerzi  
 jihadismi - jihadisme  
 jihadisti - jihadiste  
-jo - liu  
+jo - leu  
 jodi - yodium  
 jogurtti - yogur  
 johanneksenleipäpuu - karube  
@@ -965,7 +965,7 @@ junakaappari - trenkaper
 junarata (rautatie) - trendau  
 juoksija - korer  
 juoksuhiekka - movosable  
-juoni (salaliitto) - sirplan  
+juoni (salaliitto) - siroplan  
 juosta - kore  
 Jupiter - jupiter  
 jutella (höpistä) - blabla  
@@ -1041,7 +1041,7 @@ kalkyyli - kalkulia
 kallio (kivi) - petre  
 kalsiitti (kalkkisälpä) - kalsite  
 kalsium - kalsium  
-Kambodja - Kambozia  
+Kambodja - Kambojia  
 kameli - gamel  
 kamera - fotografomaxin  
 Kamerun - Kamerun  
@@ -1120,7 +1120,6 @@ katsoa (tarkastella) - spete
 katsoa pois päin (halveksia) - despete  
 katsoa silmiin (arvostaa) - respete  
 katsoja (tarkkailija) - speter  
-katsoja - speter  
 kattava - inkluzive  
 kattila - ketle  
 katto (katos) - cate  
@@ -1194,7 +1193,7 @@ kestää (kulua, viedä aikaa; kestoaika, kesto, aika) - dur
 kesy - dosile  
 kesyttää - dosile  
 kesä (suvi) - garmomosim  
-kesäkuu - lun luka  
+kesäkuu - lun sixe  
 ketju - serser  
 ketjun lenkki - sereme  
 ketsuppi - kecape  
@@ -1457,7 +1456,7 @@ kuuluva - vokal
 kuume - febre  
 kuunnella - ore  
 kuura - hima rose  
-kuusi (6) - six  
+kuusi (6) - sixe  
 kuusi (metsäkuusi) - picea  
 kuusikulmio - sixogon  
 kuutio (kuusitahokas) - sixofase  
@@ -1555,7 +1554,9 @@ lapsenlapsi - benben
 lapsi (jälkeläinen) - ben  
 lapsi - bace  
 lasagne - lazanya  
-lasi - kance  
+lasi (juomalasi) - glasokupe  
+lasi (lasimateriaali) - glas  
+lasite - glasize  
 laskea (lasku, laskelma, laskutoimitus) - hisabe  
 laskea tasoa - dusdarge  
 laskeutua - deskale  
@@ -1563,9 +1564,9 @@ lasku (faktuura) - bil
 laskuoppi (aritmetiikka) - hisabia  
 latinalaiset aakkoset - latini harfia  
 latinoida - latinkitabe  
-lattia - kamartal  
+lattia - kamardipe  
 Latvia - Latvia  
-lauantai - den luka  
+lauantai - den sixe  
 laukka - galope  
 laulaa (laulu) - cante  
 lauta (paneeli) - ban  
@@ -1713,7 +1714,6 @@ lyhyt - korte
 lyijy - plumbe  
 lymfa - limfa  
 lypsää maitoa - tire milke  
-lyödä (iskeä) - bate  
 lähde (kaivo) - fonte  
 läheinen - proxe  
 lähes (melkein) - a proxe  
@@ -1826,6 +1826,7 @@ Marshall-saaret - Marxal nesia
 massa - mas  
 masto (salko) - maste  
 matala (ei syvä) - fasokaribe  
+matala - dipe  
 mate (matejuoma) - mate cai  
 matekasvi - mate  
 matemaatikko - hisabolojer  
@@ -2052,9 +2053,9 @@ nauttia (syödä, juoda) - yam
 neitsyt (neitseellinen, koskematon) - virge  
 Neitsytsaaret - Virgin nesia  
 nekrofilia - nekrofilisme  
-neli (kiitolaukka) - carogalope  
-neliö - carogone  
-neljä (4) - car  
+neli (kiitolaukka) - catrogalope  
+neliö - catrogone  
+neljä (4) - catre  
 nenä - naze  
 neodyymi - neodimium  
 neon - neon  
@@ -2069,7 +2070,7 @@ neuvontantaja (mentori) - menter
 neuvosto (raati) - ratokan  
 Nevis - Nevis  
 newton (N) - nuton  
-niedziela - den ceti  
+niedziela - den cete  
 niellä - gul  
 Niger - Niger  
 Nigeria - Nigiria  
@@ -2108,7 +2109,7 @@ nostaa tasoa - bondarge
 nousta (kiivetä) - askale  
 nousta - gavu  
 noutopöytä (buffetti) - bufete  
-noviisi (uusikko, vasta-alkaja) - novike  
+noviisi (uusikko, vasta-alkaja) - nevike  
 nudismi - nudisme  
 nudisti - nudiste  
 nuha (vilustuminen) - zukam  
@@ -2313,7 +2314,7 @@ pappi - dinoguru
 paprika - cili  
 paprikajauhe - cili fun  
 papu tai herne - dou  
-Papua Uusi-Guinea - Papua Novi Ginia  
+Papua Uusi-Guinea - Papua Neu Ginia  
 papukaija - papagai  
 Paraguai - Paraguai  
 parametri (argumentti) - param  
@@ -2360,13 +2361,13 @@ perhonen - pelpel
 perimä (genomi) - genome  
 perimä (genotyyppi) - genotipe  
 perintö - varis  
-perjantai - den lima  
+perjantai - den pente  
 persia (farsi) - farse  
 Peru - Peru  
 peruna (potaatti) - patate  
+perus- - bazike  
 peruskallio - bazopetre  
 perusrakenne (infrastruktuuri) - bazostrute  
-perusta (perustus; perustaa) - baze  
 perustaja - bazer  
 perustelu (argumentti) - argum  
 perustuslaki - bazokanun  
@@ -2376,7 +2377,7 @@ pestä - vaxe
 pesukone - vaxomaxin  
 peta- - peta  
 petrologia - petrolojia  
-pian - suno  
+pian - a korte  
 piano - piano  
 pidentää - longife  
 pieni (pienesti, vähän) - lile  
@@ -2426,7 +2427,6 @@ pitsa (pizza) - piza
 pitseria (pizzeria) - pizaria  
 pituus - longes  
 pitäisi - sel  
-pitää (tykätä, olla tyytyväinen jstkn) - suku  
 pitää jnkn (suhtautua) - fere  
 pitää parempana (pitää etusijalla) - prefere  
 pitää yhdessä - jamokape  
@@ -2440,7 +2440,7 @@ platonisti - platoniste
 Pluto (kääpiöplaneetta) - Pluton  
 plutonium - plutonium  
 podsoli - huidarte  
-pohja - tal  
+pohja (perusta, perustus; perustaa) - baze  
 pohjoinen - norde  
 Pohjois-Amerikka - Nordi Amerike  
 Pohjois-Irlanti - Nordi Eire  
@@ -2506,7 +2506,7 @@ projisoida (projisio) - projete
 prometium - prometium  
 pronomini - pronam  
 propedeuttinen (esiopetus) - prepede  
-prosentti - pro cente  
+prosentti - pro sente  
 prosessi (proseduuri) - proses  
 prosessori - procesor  
 protaktinium - protacinium  
@@ -2569,7 +2569,6 @@ pyytäjä (metsästäjä, kalastaja) - yeger
 pyytää (anoa) - cing  
 pyytää (metsästää, kalastaa) - yege  
 pyytää tulemaan - cing lai  
-pyöreä - sirke  
 pyöritellä asiaa (keskustella) - konverse  
 pyöriä - rotate  
 pyörremyrsky (hurrikaani, taifuuni, tornado) - rototafun  
@@ -2580,7 +2579,7 @@ päivittäinen - denike
 päivä - yom  
 päivämäärä (kuu ja päivä) - lun den  
 päivämäärä (vuosi, kuu ja päivä) - nen lun den  
-päivänseisaus - solestas  
+päivänseisaus - solostate  
 päiväntasaaja - geoparline  
 Päiväntasaajan Guinea - Geoparline Ginia  
 päivää! - sal den  
@@ -2685,7 +2684,7 @@ rikki - sulfe
 rikos - krim  
 rikos- (rikollinen) - krime  
 rinta - sina  
-rintakehä - sinakapse  
+rintakehä - sinakase  
 riski - riske  
 risteys (liittymä) - junture  
 risteytys (hybridi) - hibride  
@@ -2779,13 +2778,12 @@ saksalainen - doice
 sakset - makas  
 salaatti - salade  
 salainen - sir  
-salainen - sire  
 salama - eletrorade  
 sallia (antaa lupa) - halale  
 sallia - tolere  
 sallittu (hyväksytty) - halale  
 Salomon-saaret - Solomon nesia  
-sama (yhtäläinen) - same  
+sama (yhtäläinen) - sam:  
 samankaltaisuus - samosifia  
 samanlainen - samike  
 samanmaalainen (maanmies) - samodexan  
@@ -2817,7 +2815,7 @@ sarjakuva - grafosage
 sarvi - korne  
 sarvikuono - kornonos  
 saslik - xixomanse  
-sata (100) - cente  
+sata (100) - sente  
 sata tuhatta - deskilo  
 satakieli - bulbul  
 satama - haiporta  
@@ -2835,7 +2833,7 @@ savenvalaja - poter
 savi - glutofan  
 savityö (keramiikka) - serame  
 savu - duman  
-savuke tai sikari - sigar  
+savuke tai sikari - sigare  
 se (tämä tai tuo) - la  
 seaborgium - siborgium  
 seepra - zebra  
@@ -2872,8 +2870,8 @@ Senegal - Senegal
 sensori (aistin) - senser  
 sensori (sensuroija) - censer  
 sensuroida - cense  
-sentti - centi  
-senttimetri (cm) - centimitre  
+sentti - senti-  
+senttimetri (cm) - sentimitre  
 seppä - metalzanger  
 Serbia - Serbia  
 serkku - cinbrusben  
@@ -2893,7 +2891,7 @@ siemen- - danike
 siemenjyvä - danograne  
 sienen hattu - fungopal  
 sieni - funge  
-sienieläin - sponge  
+sienieläin - sponje  
 siepata välistä - intercepe  
 sieppaus - cepure  
 Sierra Leone - Sera Leone  
@@ -2948,11 +2946,10 @@ sisäänpäinsuuntautunut (introvertti) - introverse
 sitruuna - limon  
 siviili (kansalais-) - sivile  
 sivilisaatio - sivilia  
-sivistynyt - sivile  
+sivistynyt - sivilize  
 sivu (kirjassa) - varkolate  
 sivu (kylki, puoli) - late  
 sivu- - late  
-Skandinavia - oskandinavia  
 Skandinavia - Skandia  
 skandium - skandium  
 skorpioni - akrabe  
@@ -2974,7 +2971,7 @@ soittaa (musisoida) - muzike
 soittaa puhelimella - telefone  
 soittokello - danger  
 sokeri - sukar  
-sokerinen (makea) - sukari  
+sokerinen (makea) - sukaros  
 sola (läpikulku) - pasodau  
 solmia (solmu) - node  
 solu - cel  
@@ -3038,7 +3035,8 @@ sulka - pere
 sulkea - kluze  
 sulkea pois - exkluze  
 sulkea vetoketjulla - zipe  
-summa - sum  
+sulttaani - sultan  
+summa (ynnätä, summata) - sum  
 suo (räme) - fangostan  
 suodattaa - filter  
 suojakilpi - defoban  
@@ -3096,7 +3094,7 @@ syy (aiheuttaa, olla syynä) - sababe
 syyllinen - dose  
 syylä - veruke  
 Syyria - Suria  
-syyskuu - lun nuve  
+syyskuu - lun nove  
 syöttää - yamize  
 säde - rade  
 sädekehä (halo) - fotosirke  
@@ -3128,7 +3126,7 @@ taantua (mennä taaksepäin) - recese
 taantuma - recesion  
 taas (uudestaan) - ri  
 taateli - tamar  
-Tadžikistan - Tazikia  
+Tadžikistan - Tajikostan  
 tahna (tahdas) - paste  
 tahtoa (tahto) - ice  
 tai (vai) - o  
@@ -3336,7 +3334,7 @@ topografia - topografia
 tori (basaari) - bazar  
 torium - torium  
 torni - tore  
-torstai - den nelu  
+torstai - den catre  
 torvi (torvisoitin) - trompe  
 tosi (aito) - vere  
 tosi-TV - rel televizion  
@@ -3344,7 +3342,7 @@ tosi-TV - rel televizion
 toteuttaa (konkretisoida) - relize  
 toteuttaa - verife  
 toukka - larve  
-toukokuu - lun lima  
+toukokuu - lun pente  
 tragedia (murhenäytelmä) - tragodia  
 traktori - trater  
 Transdnistria - Nistria  
@@ -3372,7 +3370,7 @@ tulla perille - pervene
 tulla takaisin - revene  
 tulla ulos (ilmestyä, tapahtua) - exvene  
 tulla väliin - intervene  
-tulokaskasvi (neofyytti) - novofite  
+tulokaskasvi (neofyytti) - neufite  
 tulppaani - tulpe  
 tumma (hämärä, pimeä) - dam  
 tundra - tundre  
@@ -3491,8 +3489,8 @@ unettomuus - ansome
 universaali - unoverse  
 Unkari - Magyaria  
 unohtaa - dememe  
-upea (hieno) - kule  
-upea (mahtava) - supere  
+upea (hieno) - kul  
+upea (mahtava) - super  
 uraani - uranium  
 Uranus - Uran  
 urbaani (kaupunkilais-) - nagre  
@@ -3516,15 +3514,15 @@ uskovainen - diniste
 uskovainen - krediste  
 utelias (tiedonhaluinen) - sabovolive  
 utopia - eutopia  
-uudissana - novologe  
-uudistaa - renove  
+uudissana - neuloge  
+uudistaa - reneve  
 uuni - tanur  
-uusi - nove  
-Uusi-Kaledonia - Nove Kaledonia  
-Uusi-Seelanti - Nove Zelandia  
+uusi (vasta tehty, käyttämätön) - neu  
+Uusi-Kaledonia - Neu Kaledonia  
+Uusi-Seelanti - neu Zelandia  
 uutinen - habar  
-uutuus (uutuustuote) - novaje  
-uutuus - novia  
+uutuus (uutuustuote) - nevaje  
+uutuus - nevia  
 Uzbekistan - Uzbekia  
 vaaka (puntari) - vezometrer  
 vaaleanpunainen - rozorange  
@@ -3572,7 +3570,7 @@ vapaus - huria
 vapauttaa - hurife  
 varakuningas - visereger  
 varapresidentti - visepresidante  
-varapresidentti - visopresidente  
+varapresidentti - visepresidente  
 vararikko (konkurssi) - bankorutia  
 vararikossa - bankorute  
 varas - corer  
@@ -3595,7 +3593,7 @@ vastakohta (antonyymi) - antonam
 vastakohtainen (negatiivinen, epä-) - an-  
 vastakohtaisuus - kontroverse  
 vastapäivään - rotolefto  
-vastasyntynyt - novojene  
+vastasyntynyt - neugene  
 vastata (vastaus) - javabe  
 vastustaa - xate  
 vastustaja (vihollinen) - xatan  
@@ -3634,7 +3632,7 @@ vesiputous - suipade
 vesitiivis - suisekure  
 vesiväri (akvarelliväri) - suirang  
 vessa - tualete  
-vetinen - suye  
+vetinen - suyos  
 vetoketju - ziper  
 vetolaatikko - tirsanduke  
 vetovoima (šarmi) - carme  
@@ -3670,9 +3668,9 @@ viinipanimo - vineria
 viinirypäle - putau  
 viisas - sofe  
 viisaus - sofia  
-viisi (5) - lime  
-viisikulmio - limgon  
-viisitahokas (prisma) - limfas  
+viisi (5) - pente  
+viisikulmio - pentogone  
+viisitahokas (prisma) - pentofase  
 viisumi - vize  
 viitata jhkn - refere  
 viittomakieli - gestolingue  
@@ -3783,20 +3781,18 @@ ydinenergia - kori energia
 ydinfissio - kore fenia  
 ydinfuusio - korofuzion  
 ydinfysiikka - kore fizikia  
-yhdeksän - nof  
+yhdeksän (9) - nove  
+yhdeksäs - novime  
 yhdessä - kono  
 Yhdistyneet Arabiemiirikunnat - Uni Arabi Amiria (UAA)  
 Yhdistyneet Arabiemiirikunnat - Unite Arabe Amiria (UAA)  
-yhdistys (sidos) - linke  
 yhdistää (kytkeä) - konnete  
-yhdistää - linke  
 yhdistää - una  
 Yhdysvallat (ns. Amerikka) - Unite State de Amerika (USA)  
 yhdysvaltalainen (ns. Amerikkalainen) - USA  
 yhteinen - komune  
 yhteinen - kone  
 yhteiskieli - konlingue  
-yhteiskunnallinen (sosiaalinen) - sose  
 yhteisymmärrys - saomrayia  
 yhteisö (kokoontuminen, kollektiivi) - jamia  
 yhtenäinen - unite  
@@ -3820,17 +3816,17 @@ ylijäämä - maxolivaje
 yliopisto - daixulkan  
 ylistys (ylistää, puhua hyvää, kehua) - euloge  
 ylistää - halele  
-ylittää - supre  
-ylitys - supre  
-yllä (pääll) - supro  
+ylittää - supropase  
+ylitys - supraje  
+yllä (pääll) - a supre  
 yllätys - suprize  
 ylä- (yli-) - supre  
 yläaste ja lukio - zungoxulkan  
 ymmärrys (taju, oivallus; valaistunut) - bude  
 ymmärtää väärin - mesbude  
+ympyrä - sirkule  
 ympäristö- (luonto-) - eke  
-ympäröidä (piirittää) - sirke  
-ynnätä (summata) - sume  
+ympäröidä (piirittää) - sirkize  
 yrittää (kokeilla, koettaa; koe, kokeilu) - probe  
 yritys (yhtiö) - kompania  
 yskä - kose  
@@ -3862,7 +3858,7 @@ zulu - Zulu
 älykäs - inteligente  
 älymystö (intelligentsia) - inteligentia  
 älyttävä (ymmärrettävä) - inteligable  
-äsken (vasta, juuri) - a nove  
+äsken (vasta, juuri) - a neu  
 ääh (plääh) - me  
 ääni (äänestää) - vote  
 ääni (ääntää, päästää ääni) - son  

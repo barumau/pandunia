@@ -19,7 +19,7 @@ In the simplest sentences, the subject is a pronoun and the predicate is an adje
 
 **mi bon.**
 – I am good.  
-**ya nove.**
+**ya neu.**
 – It is new.  
 **ya Sara.**
 – She is Sara.
@@ -31,7 +31,7 @@ When the subject is a noun, the connecting verb **e** (_to be_) is necessary.
 – Sara is good.  
 **ite e dai.**
 – Stones are big.  
-**meza e nove.**
+**meza e neu.**
 – The table is new.
 
 The word **no** is added to form the negative.
@@ -41,11 +41,11 @@ Then the verb **e** is not needed.
 |------------------|--------------------|
 | **mi bon.**      | **mi no bon.**     |
 | I am good.       | I am not good.     |
-| **ya nove.**     | **ya no nove.**    |
+| **ya neu.**      | **ya no neu.**     |
 | It is new.       | It is not new.     |
 | **ya Sara.**     | **ya no Sara.**    |
 | She is Sarah.    | She is not Sarah.  |
-| **Sara e bon.** | **Sara no bon.**   |
+| **Sara e bon.**  | **Sara no bon.**   |
 | Sarah is good.   | Sarah is not good. |
 
 
@@ -63,7 +63,7 @@ The same rule applies also for two adjectives, or a verb and an adjective.
 
 **jovan e mei.**
 – Young is beautiful.  
-**nove no lau.**
+**neu no lau.**
 – New is not old.  
 **cante e bon.**
 – Singing is good.
@@ -432,7 +432,7 @@ Expressions are affirmative by default.
 
 **mi e xefe.**
 – I am the boss.  
-**ya e nove meza.**
+**ya e neu meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
@@ -441,7 +441,7 @@ Affirmation can be emphasized with the adverb
 
 **mi ye e xefe.**
 – I indeed am the boss.  
-**ya ye e nove meza.**
+**ya ye e neu meza.**
 – It indeed is a new table.
 
 #### Negative
@@ -450,7 +450,7 @@ Such sentences can be simply negated with **no**.
 
 **ya no e xefe.**
 – He is not the boss.  
-**ya no e nove meza.**
+**ya no e neu meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -616,7 +616,7 @@ It translates as *eh?* or *huh?*.
 **me**
 indicates indifference, boredom or lack of excitement.
 
-**me. ya no nove.**
+**me. ya no neu.**
 – Meh. It's not new.
 
 **ne**
@@ -628,7 +628,7 @@ One uses it at the end of sentence if one is not completely sure about something
 
 **tu ame kafe, ne? cepe un kupe ba!**
 – You love coffee, right? Grab a cup!  
-**ya nove, ne?**
+**ya neu, ne?**
 – It is new, isn't it?
 
 **na**
@@ -669,6 +669,6 @@ It can be translated as *indeed* or *truly*.
 – I truly saw you.  
 **ya ver, ye.**
 – It is true indeed.  
-**ya nove, ne? – ya nove, ye.**
+**ya neu, ne? – ya neu, ye.**
 – It is new, right? – It's new indeed.
 

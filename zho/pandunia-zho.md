@@ -5,6 +5,7 @@
 a - 在  
 a line - 在线  
 a longe dure - 久  
+a misal - 比如  
 abete - 冷杉  
 able - 会 (可能)  
 acar - 腌菜  
@@ -156,8 +157,8 @@ bau - 宝 (宝贵)
 bavite - 宝石  
 baze - 底部  
 baze bol - 棒球  
-bazoxulkan - 小学  
 bazostrute - 基础设施  
+bazoxulkan - 小学  
 bazar - 市场  
 bebe - 宝宝  
 bekofan - 陶瓦  
@@ -224,12 +225,10 @@ cakre - 轮子
 caku - 刀  
 camaca - 匙子  
 cantergrupe - 合唱团  
-car - 四 (4)  
+catre - 四 (4)  
 ceke - 支票  
 celolojia - 细胞学  
 ceng - 层  
-cente - सौ  
-• pro cente - 百分之  
 ceresium - 铈  
 • sucese - 成功  
 cesium - 铯  
@@ -282,10 +281,10 @@ den - 日
 den un - 星期一 (禮拜一)  
 den du - 星期二 (禮拜二)  
 den tri - 星期三 (禮拜三)  
-den nelu - 星期四 (禮拜四)  
-den lima - 星期五 (禮拜五)  
-den luka - 星期六 (礼拜六)  
-den ceti - 星期日 (禮拜日)  
+den catre - 星期四 (禮拜四)  
+den pente - 星期五 (禮拜五)  
+den sixe - 星期六 (礼拜六)  
+den cete - 星期日 (禮拜日)  
 deu - 神  
 deunagre - 天城文  
 dike - 方向 (目的, 目标, 瞄准)  
@@ -297,6 +296,8 @@ dinamite - 甘油炸药
 dinde - 火鸡  
 ding - 钉子  
 diorite - 闪长岩  
+dipe - 低  
+dipe moke - 灌木  
 diske - 圆盘  
 disprosium - 镝  
 • ditater - 独裁者  
@@ -453,6 +454,9 @@ gidobuke - 指南
 gingoline - 經紗  
 gitar - 吉他  
 giuke - 玉  
+glas - 玻璃  
+• glasize - 釉  
+glasokupe - 杯子  
 glise - 滑下  
 glute - 黏的  
 glutobende - 创可贴 (邦迪)  
@@ -531,7 +535,7 @@ hisabe - 计算
 hoge - 火  
 hoge - 燃烧  
 hogu - 烧  
-hogosan - 火山  
+hogoxan - 火山  
 hogite - 燧石  
 hogotehne - 烟火  
 hoke - 曲棍球  
@@ -629,8 +633,6 @@ kamis - 衬衫
 kamisi xake - 袖子  
 kan - 店 (馆)  
 kanape - 沙发  
-kance - 玻璃  
-kancodake - 釉  
 kande - 糖果  
 kangaru - 袋鼠  
 kanyon - 峡谷 (深谷)  
@@ -768,6 +770,7 @@ lengomosim - 冬天
 lense - 透镜  
 lente - 慢  
 letis - 莴苣  
+leu - 了  
 lexe - 词  
 • lexia - 词汇  
 leze - 梨  
@@ -779,7 +782,6 @@ libele - 蜻蜓
 lile - 小  
 lilkaboge - 西葫芦  
 lilite - 砾石  
-lime - 五 (5)  
 limon - 柠檬  
 • limonike - 柑橘  
 limon jus - 柠檬水  
@@ -789,14 +791,11 @@ lince - 猞猁 (山貓)
 lingue - 语言  
 lingue ginse - 文法的性  
 linguolojia - 语言学  
-linke - 联系  
-linke - 连接  
 lisan - 舌头  
 liste - 单子  
 litium - 锂  
 litre - 升  
 live - 落 (留下)  
-liu - 了  
 • livaje - 其余  
 loge - 说话 (讲, 语言)  
 loke - 地方 (放置)  
@@ -893,7 +892,6 @@ mirde - 微弱的
 • misaje - 信息  
 • misioner - 传教士  
 • konmisia - 委员会  
-a misal - 比如  
 Misria - 埃及  
 mitre - 米 (公尺)  
 moke - 树木  
@@ -959,6 +957,9 @@ nepotunium - 镎
 • internete - 网络  
 • konnete - 连接  
 • konnetor - 连接器  
+neu - 新  
+• nevike - 新手  
+neuloge - 新词  
 neurotoxe - 神经毒素  
 nide - 巢 (穴)  
 nikel - 镍  
@@ -973,7 +974,6 @@ nitre - 氮
 no - 不  
 nobelium - 锘  
 noce - 夜  
-nof - 九 (9)  
 nome - 组织  
 norde - 北  
 • nosisme - 诺斯底主义  
@@ -984,9 +984,8 @@ norde - 北
 nosolojia - 认识论 (知识论)  
 nostalgia - 怀旧  
 note - 便条  
-nove - 新  
-• novike - 新手  
-novologe - 新词  
+nove - 九 (9)  
+• novime - 第九  
 • nudisme - 裸体主义  
 nuke - 颈  
 nume - 数  
@@ -1059,8 +1058,10 @@ pelmen - 饺子
 pelpel - 蝴蝶  
 • pendaje - 吊坠  
 pendokardon - 垂花飞廉  
+pente - 五 (5)  
 pente - 油漆 (颜料)  
 pentobrox - 画笔  
+pentogone - 五角形  
 perokardon - 翼蓟  
 perde - 屁 (放屁)  
 • petrolojia - 岩石学  
@@ -1196,7 +1197,7 @@ salade - 沙拉
 salte - 盐  
 salve - 拯救  
 • salver - 救世主  
-same - 一样  
+sam: - 一样  
 sammetre - 对称  
 sammetria - 对称性  
 saomrayia - 一致  
@@ -1218,29 +1219,31 @@ selenium - 硒
 sene - 年岁  
 senater - 参议员  
 sense - 感觉  
+sente - सौ  
+• pro sente - 百分之  
 sere - 系列  
 • seria - 系列  
 • sereme - 连结  
 serame - 陶瓷  
 sexolojia - 性学  
-side - 座部 (马鞍)  
+• sidel - 座部 (马鞍)  
 • inside - 蹲  
 sifolexe - 形容词  
-sigar - 香烟  
+sigare - 香烟  
 siyahe - 黑色  
-sikliste - 骑自行车的人  
-risikle - 循环再造  
+• sikliste - 骑自行车的人  
+• risikle - 循环再造  
 silike - 硅  
 silke - 丝绸  
 • dusosine - 不祥的  
-sire - 隐藏  
-sirplan - 阴谋 (密谋)  
+sir - 隐藏  
+siroplan - 阴谋 (密谋)  
 sirkite - 鹅卵石  
-six - 六 (6)  
+sixe - 六 (6)  
 skandium - 钪  
 skerte - 裙子  
 • socia - 社会  
-soce ginse - 社會性別  
+soce jinse - 社會性別  
 • sofia - 智慧  
 sofa - 沙发  
 soge - 寻找  
@@ -1256,10 +1259,10 @@ somokamar - 卧室 (寝室)
 somopapil - 鴉片罌粟  
 sonomun - 声门  
 song - 松  
-sor - 锁  
+sore - 锁  
 sosis - 香肠  
 • inspete - 检查  
-sponge - 海绵  
+sponje - 海绵  
 • sportokan - 健身房  
 stanium - 锡  
 stibium - 锑  
@@ -1277,6 +1280,7 @@ suipade - 瀑布
 suke - 高兴  
 sukar - 糖  
 sukar gana - 甘蔗  
+sukarite - 冰糖  
 sulfe - 硫  
 suprize - 惊奇  
 sus - 甘草 (国老)  
@@ -1288,7 +1292,6 @@ ta - 到
 tablete konputer - 平板电脑  
 table konputer - 平板电脑  
 tail - 砖 (瓦)  
-tali moke - 灌木  
 talium - 铊  
 Talban - 塔利班  
 tame - 贪婪的  

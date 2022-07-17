@@ -460,9 +460,9 @@ There are also a lot of country names that do not end in **-ia**.
 
 **-ia**
 'abstract quality' :  
-**nove**
+**neu**
 'new'
-→ **novia**
+→ **nevia**
 'newness, novelty'  
 **hure**
 'free'
@@ -479,9 +479,9 @@ There are also a lot of country names that do not end in **-ia**.
 'home'
 → **domike**
 'domestic'  
-**nove**
+**neu**
 'new'
-→ → **novike**
+→ **nevike**
 'novice, newbie'
 
 **-ime**

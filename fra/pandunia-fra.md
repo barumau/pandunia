@@ -7,6 +7,7 @@ a ke - où
 a line - en ligne  
 a long - loin  
 a longe dure - longtemps  
+a misal - par exemple  
 a retre - en arrière  
 a vere - vraiment  
 a xukre de - grâce à  
@@ -247,8 +248,6 @@ basen - bassin
 baske - panier (panier de basketball)  
 baske bol - basketball  
 bate - huit (8)  
-• batal - bataille (lutte)  
-• batalon - bataillon  
 batosenter - Poulpe (pieuvre)  
 baton - bâton (canne, tige)  
 baton - pieu (poteau)  
@@ -258,8 +257,8 @@ bau - précieux
 bavite - pierre précieuse (joyau)  
 baze - base  
 baze bol - baseball  
-bazoxulkan - école primaire  
 bazostrute - infrastructure  
+bazoxulkan - école primaire  
 bazar - marché (bazar)  
 bebe - bébé  
 bedinje - aubergine  
@@ -341,12 +340,10 @@ camaca - cuiller
 canse - chance  
 cante - chanter (chanson)  
 cantergrupe - chœur  
-car - quatre (4)  
 carme - charme  
+catre - quatre (4)  
 ceke - chèque  
 celolojia - cytologie  
-cente - cent (100)  
-• pro cente - pour cent  
 centaure - Centaurée  
 • acepe - accepter  
 • intercepe - intercepter  
@@ -410,10 +407,10 @@ den - jour (24 heures)
 den un - lundi  
 den du - mardi  
 den tri - mercredi  
-den nelu - jeudi  
-den lima - vendredi  
-den luka - samedi  
-den ceti - dimanche  
+den catre - jeudi  
+den pente - vendredi  
+den sixe - samedi  
+den cete - dimanche  
 deu - dieu  
 • andeviste - athée  
 deunagre - dévanagari  
@@ -427,6 +424,9 @@ din - religion
 dinamite - dynamite  
 dinde - dinde (dindon)  
 diorite - diorite  
+dipe - bas  
+dipe moke - buisson  
+• dipife - baisser  
 diske - disque  
 disprosium - dysprosium  
 dite - dicter  
@@ -642,6 +642,9 @@ gide - guider
 gidobuke - guide touristique  
 gitar - guitare  
 giuke - jade  
+glas - verre  
+• glasize - glaçure (email)  
+glasokupe - verre  
 glise - glisser  
 glute - coller  
 glutobende - pansement (sparadrap)  
@@ -725,7 +728,7 @@ histore - histoire
 • historia - histoire  
 hoge - feu  
 hoge - brûler  
-hogosan - volcan  
+hogoxan - volcan  
 hogite - silex  
 hogotehne - feu d’artifice  
 hoke - hockey  
@@ -843,7 +846,6 @@ kamis - chemise
 kamisi xake - manche  
 kampostan - terrain de camping  
 kanape - canapé (sofa)  
-kance - verre  
 kangaru - kangourou  
 kanyon - canyon (ravin)  
 kankuate - kumquat  
@@ -1012,7 +1014,6 @@ lifafe - envelopper (emballer)
 lile - petit  
 lilkaboge - courgette  
 lilite - caillou  
-lime - cinq (5)  
 • belime - limité  
 limon - citron  
 limon jus - citronnade  
@@ -1023,7 +1024,6 @@ lingue - langage
 • duolinguike - bilingue  
 • polilinguike - plurilingue (multilingue)  
 lingue ginse - genre grammatical  
-linke - lien  
 lisan - langue  
 liste - liste  
 litium - lithium  
@@ -1049,7 +1049,7 @@ lumbe - lombes
 lumbalgia - lumbago (lombalgie)  
 lun - lune  
 lun - mois  
-lun bati - août  
+lun bate - août  
 lunokeke - gâteau de lune  
 luter - brigand (bandit)  
 lutetium - lutécium  
@@ -1158,7 +1158,6 @@ mirde - faible
 • tramise - transmettre  
 • tramision - transmission  
 • tramisor - transmetteur  
-a misal - par exemple  
 Misria - Égypte  
 mitre - mètre  
 mode - mode (façon, manière)  
@@ -1228,6 +1227,11 @@ nete - nexus (réseau)
 • konnetion - connexion  
 • konnetor - connecteur  
 netogete - télécharger  
+neu - nouveau  
+• nevia - nouveauté  
+• nevike - néophyte  
+neugene - nouveau-né  
+neuloge - néologisme  
 neurocel - neurone  
 neurotoxe - neurotoxine  
 nide - nid  
@@ -1243,7 +1247,6 @@ nitre - azote
 no - non (ne...pas)  
 nobelium - nobélium  
 noce - noit  
-nof - neuf (9)  
 nome - organiser  
 norde - nord  
 norme - norme (normal)  
@@ -1264,11 +1267,8 @@ nose - connaître
 nosolojia - épistémologie  
 nostalgia - nostalgie  
 note - note  
-nove - nouveau  
-• novia - nouveauté  
-• novike - néophyte  
-novojene - nouveau-né  
-novologe - néologisme  
+nove - neuf (9)  
+• novime - neuvième  
 • nudisme - nudisme  
 nuke - cou (encolure, nuque)  
 nume - nombre (numéro, compte; compter)  
@@ -1367,9 +1367,11 @@ pende - pender
 • pendaje - pendentif  
 pendokardon - chardon penché  
 • apende - appendre  
+pente - cinq (5)  
 pente - peinture  
 pente - peindre  
 pentobrox - pinceau  
+pentogone - pentagone  
 perokardon - cirse commun  
 perde - pet (vesse; péter)  
 petre - roche (pierre)  
@@ -1468,9 +1470,9 @@ radium - radium
 radon - radon  
 rai - avis (opinion)  
 rang - couleur  
-rangi kance - verre coloré  
 rangarke - arc-en-ciel  
 rangarkosalmon - truite arc-en-ciel  
+rangoglas - verre coloré  
 rangomate - colorant  
 rare - rare  
 rase - race  
@@ -1553,7 +1555,7 @@ salmon - truite
 salte - sel  
 salve - sauver (secourir)  
 • salver - sauveur  
-same - égal (même)  
+sam: - égal (même)  
 samemote - compassion  
 sammetre - symétrique  
 sammetria - symétrie  
@@ -1586,6 +1588,8 @@ sene - âge
 • senike - vieux (ancien)  
 senater - sénateur  
 sense - sens  
+sente - cent (100)  
+• pro sente - pour cent  
 sere - série  
 • seria - série  
 • sereme - maillon (chaînon)  
@@ -1594,27 +1598,26 @@ sexolojia - sexologie
 siborgium - seaborgium  
 • inside - s’accroupir  
 sifolexe - adjectif  
-sigar - cigarette  
+sigare - cigarette  
 siyahe - noir  
 sikle - bicyclette  
-sikliste - cycliste  
-risikle - recycler  
+• sikliste - cycliste  
+• risikle - recycler  
 silike - silicium  
 silke - soie  
 • desine - désigner  
-sire - cacher  
-siri mote - célérité  
-sirplan - complot (conspiration)  
+sir - cacher  
+siromote - célérité  
+siroplan - complot (conspiration)  
 sirkite - pavé  
 site - ville  
 • sivike - civique  
 • sivile - civil  
 • sivopedia - éducation civique  
-six - six (6)  
+sixe - six (6)  
 skalotan - vigne  
 Skandia - Scandinavie  
 skandium - scandium  
-oskandinavia - Scandinavie  
 skerte - jupe  
 • skulter - sculpteur  
 • skuter - trottinette  
@@ -1637,11 +1640,10 @@ somokamar - chambre à coucher
 somopapil - pavot somnifère  
 son - son  
 sonomun - glotte  
-sor - serrure  
+sore - serrure  
 sosis - saucisse  
-speter - spectateur  
 • speter - spectateur  
-sponge - éponge  
+sponje - éponge  
 sporte - sport  
 • sportokan - salle de gymnastique  
 stanium - étain  
@@ -1667,13 +1669,12 @@ suigas - vapeur d’eau
 suiyau - soif  
 suiminte - Menthe aquatique  
 suipade - cascade (chute d'eau)  
-suke - plaire  
 suke - heureux  
-suku - se plaire  
+• sukife - plaire  
 sukar - sucre  
 sukarbete - betterave à sucre (betterave sucrière)  
-sukarorange - orange douce  
 sukar gana - canne à sucre  
+sukarorange - orange douce  
 sulfe - soufre  
 sus - réglisse  
 susan - lys  
@@ -1684,10 +1685,6 @@ tablete konputer - ordinateur tablette
 table konputer - ordinateur tablette  
 tai - estrade  
 tail - carreau (tuile)  
-tal - bas  
-tale - baisser  
-tale - bas  
-tali moke - buisson  
 talium - thallium  
 Talban - Talibans  
 tan - tige  

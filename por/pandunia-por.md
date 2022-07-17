@@ -5,6 +5,7 @@
 a ke - onde  
 a line - online  
 a longe dure - por muito tempo  
+a misal - por exemplo  
 a xukre de - graças a  
 abete - abeto  
 able - possível  
@@ -150,8 +151,6 @@ bas - bastante (suficiente)
 basen - bacia  
 baske bol - basketball  
 bate - oito (8)  
-• batal - batalha  
-• batalon - batalhão  
 batosenter - polvo  
 bata - pato  
 baton - vara (bastão)  
@@ -162,8 +161,8 @@ bau - precioso
 bavite - pedra preciosa (gema)  
 baze - base  
 baze bol - basebol (beisebol)  
-bazoxulkan - ensino primário  
 bazostrute - infraestrutura  
+bazoxulkan - ensino primário  
 bazar - mercado (bazar)  
 bebe - bebê  
 bedinje - beringela  
@@ -237,12 +236,10 @@ caku - faca
 camaca - colher  
 canse - chance  
 cantergrupe - coro  
-car - quatro (4)  
 carme - charme  
+catre - quatro (4)  
 ceke - cheque  
 celolojia - citologia  
-cente - cem (100)  
-• pro cente - por cento  
 centaure - centáurea  
 • acepe - aceitar  
 • intercepe - interceptar  
@@ -304,10 +301,10 @@ den - dia (24 horas)
 den un - segunda-feira  
 den du - terça-feira  
 den tri - quarta-feira  
-den nelu - quinta-feira  
-den lima - sexta-feira  
-den luka - sábado  
-den ceti - domingo  
+den catre - quinta-feira  
+den pente - sexta-feira  
+den sixe - sábado  
+den cete - domingo  
 deu - deus  
 deunagre - devanágari  
 deusofia - teosofia  
@@ -320,6 +317,7 @@ din - religião
 dinamite - dinamite  
 dinde - peru  
 diorite - diorito  
+dipe moke - arbusto (mata)  
 diske - disco  
 disprosium - disprósio  
 dite - ditar  
@@ -495,6 +493,8 @@ gide - guiar
 • gider - guia  
 gitar - guitarra  
 giuke - jade  
+glas - vidro  
+glasokupe - copo  
 glise - deslizar  
 glute - colar (aderir)  
 glutobende - penso (band-aid)  
@@ -567,7 +567,7 @@ hisabe - calcular
 hoge - fogo  
 hoge - queimar  
 hogu - queimarse  
-hogosan - vulcão  
+hogoxan - vulcão  
 hogite - pederneira  
 hogotehne - fogos de artifício  
 hoke - hóquei  
@@ -676,7 +676,6 @@ kamil - camomila-vulgar
 kamis - camisa  
 kamisi xake - manga  
 kampostan - área de acampamento  
-kance - vidro  
 kangaru - canguru  
 kanyon - canhão (ravina, barranco)  
 kankuate - quincã (cunquate)  
@@ -841,7 +840,6 @@ lifafe - embalar
 lile - pequeno  
 lilkaboge - abobrinha  
 lilite - pedrinha  
-lime - cinco (5)  
 • belime - limitado  
 limon - limão  
 limon jus - limonada  
@@ -852,8 +850,6 @@ lingue - língua (idioma)
 • duolinguike - bilíngue  
 • polilinguike - multilíngue (plurilíngue)  
 lingue ginse - gênero gramatical  
-linke - conexão (vínculo, laço)  
-linke - relier (connecter)  
 lisan - língua  
 liste - lista  
 litium - lítio  
@@ -984,7 +980,6 @@ mirde - fraco
 • tramise - transmitir  
 • tramision - transmissão  
 • tramisor - transmissor  
-a misal - por exemplo  
 Misria - Egipto (Egito)  
 mitre - metro  
 mode - modo (maneira, jeito)  
@@ -1047,6 +1042,12 @@ nete - nexo (rede)
 • konnetion - conexão  
 • konnetor - conector  
 • dekonnete - desconectar  
+neu - novo  
+• nevia - novidade  
+• nevaje - novidade  
+• nevike - novato (neófito)  
+neugene - recém-nascido  
+neuloge - neologismo  
 neurocel - neurônio  
 neurotoxe - neurotoxina  
 nide - ninho (vespiero)  
@@ -1062,7 +1063,6 @@ no - não
 no ham di - arbitrário  
 nobelium - nobélio  
 noce - noite  
-nof - nove (9)  
 nome - organizar  
 norde - norte  
 norme - norma (normal)  
@@ -1084,12 +1084,8 @@ nose - conhecer
 nosolojia - epistemologia  
 nostalgia - nostalgia (saudade)  
 note - nota  
-nove - novo  
-• novia - novidade  
-• novaje - novidade  
-• novike - novato (neófito)  
-novojene - recém-nascido  
-novologe - neologismo  
+nove - nove (9)  
+• novime - nono  
 • nudisme - nudismo  
 nuke - pescoço (nuca, gargalo)  
 nume - número (contagem; contar)  
@@ -1178,8 +1174,10 @@ peikari jive - carreira
 pelpel - borboleta  
 pende - pender  
 • pendaje - pingente  
+pente - cinco (5)  
 pente - pintura  
 pentobrox - pincel  
+pentogone - pentágono  
 perokardon - cardo-roxo  
 perde - peido (peidar)  
 petre - rocha (pedra)  
@@ -1341,7 +1339,7 @@ salade - salada
 salte - sal  
 salve - salvar  
 • salver - salvador  
-same - igual  
+sam: - igual  
 samemote - compaixão  
 sammetre - simétrico  
 sammetria - simetria  
@@ -1371,6 +1369,8 @@ sene - idade
 • senike - idoso (sene)  
 senater - senador  
 sense - sentido  
+sente - cem (100)  
+• pro sente - por cento  
 sere - série (sequência)  
 • seria - série (sequência)  
 • sereme - elo  
@@ -1380,21 +1380,21 @@ siborgium - seabórgio
 • inside - agacharse  
 • presidente - presidente  
 sifolexe - adjetivo  
-sigar - cigarro  
+sigare - cigarro  
 siyahe - preto  
-sikliste - ciclista  
-risikle - reciclar  
+• sikliste - ciclista  
+• risikle - reciclar  
 silike - silício  
 silke - seda  
 • sinal - sinal  
 • desine - designar  
-sire - ocultar (esconder)  
-sirplan - complô (conspiração)  
+sir - ocultar (esconder)  
+siroplan - complô (conspiração)  
 site - cidade  
 • sivike - cívico  
 • sivile - civil  
 • sivopedia - educação cívica  
-six - seis (6)  
+sixe - seis (6)  
 • askale - escalar  
 skandium - escândio  
 skerte - saia  
@@ -1419,11 +1419,10 @@ somopapil - papoila-dormideira
 son - som  
 sonomun - glote  
 song - pinheiro  
-sor - fechadura  
+sore - fechadura  
 sosis - salsicha  
-speter - espetador  
-• speter - espectador  
-sponge - esponja  
+• speter - espetador  
+sponje - esponja  
 sporte - esporte  
 • sportokan - ginásio  
 stanium - estanho  
@@ -1448,6 +1447,7 @@ suke - feliz
 sukar - açúcar  
 sukar gana - cana-de-açúcar  
 sulfe - enxofre  
+sultan - sultán  
 sus - alcaçuz (regaliz)  
 susan - lírio  
 
@@ -1457,7 +1457,6 @@ tablete konputer - tablet
 table konputer - tablet  
 tai - estrado  
 tail - ladrilho (telha, azulejo)  
-tali moke - arbusto (mata)  
 talium - tálio  
 Talban - Talibã  
 tan - haste (talo, caule)  

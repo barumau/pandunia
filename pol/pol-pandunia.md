@@ -209,7 +209,6 @@ biuro, urząd - ofisia
 biust - buste  
 bizmut - bismute  
 biznes, interes (aktywność komercyjna) - biznes  
-bić, uderzyć, uderzać - bate  
 bliski - proxe  
 blisko (niemal, prawie) - a proxe  
 bliskość - proxia  
@@ -298,8 +297,8 @@ celownik optyczny (siatka lunety) - krusolin
 cement - semente  
 centralny (środkowy) - zungi  
 centrować, skupić, skupiać - zunga  
-centy-, procent, na sto, setna część - centi  
-centymetr - centimitre  
+centy-, procent, na sto, setna część - senti-  
+centymetr - sentimitre  
 cer - ceresium  
 ceramika - serame  
 Ceres (planeta karłowata) - Ceres  
@@ -324,7 +323,6 @@ chordofon, instrument strunowy - ticin
 choroba - patia  
 Chorwacja - Horvatia  
 chory - pate  
-chować (kryć) - sire  
 chrom - kromium  
 chroniczny - durike  
 chronić, strzec, osłaniać, bronić - garde  
@@ -343,7 +341,7 @@ ciecz (płyn) - riumate
 ciekawy - sabovolive  
 ciemny, słabo oświetlony - dam  
 ciepły - garme  
-cieszyć, podobać się - suke  
+cieszyć, podobać się - sukife  
 cień - saye  
 ciągnąć - tire  
 ciągły (analogowy) - undure  
@@ -375,7 +373,7 @@ cytologia - celolojia
 cytować - cite  
 cytryna - limon  
 cywilizacja - sivilia  
-cywilizowany (ucywilizowany) - sivile  
+cywilizowany (ucywilizowany) - sivilize  
 cywilny - sivile  
 Czad - Cadia  
 czajnik - ketle  
@@ -398,12 +396,12 @@ czerwiec - lun tri
 czerwony - lale  
 cześć - sal  
 czosnek olbrzymi - dailasun  
-cztery (4) - car  
+cztery (4) - catre  
 czuć (poczuć, postrzegać, wykrywać) - sense  
 czuć - sente  
 czuć - tatosense  
 czuć, odczuć, odczuwać - emote  
-czwartek - den nelu  
+czwartek - den catre  
 czysty (higieniczny, sanitarny) - salsafe  
 czysty (wyczyścić, czyścić) - safe  
 czytać - duge  
@@ -534,7 +532,7 @@ dziennikarz - gazeter
 dziesięć (10) - des  
 dziesięć tysięcy - deskilo  
 dziewczyna - yune fem  
-dziewięć (9) - nof  
+dziewięć (9) - nove  
 dzień - yom  
 dzień dobry - sal den  
 dzień świętego Jana - yohan feste  
@@ -550,7 +548,6 @@ dziś, dzisiaj - a zay den
 dzwon (dzwonek) - danger  
 dzwonić (dźwięczeć, szczękać) - dange  
 dół, jama, wydobycie, wykop, wykopalisko - kavaje  
-dół, spód - tal  
 dąb - balute  
 dąb szypułkowy - europobalute  
 dąb zębaty - dantobalute  
@@ -581,7 +578,7 @@ ekskrement (gówno; defekować, srać) - kaka
 eksportować (wyeksportować) - exporte  
 Ekwador - Ekuador  
 elastyczny - laste  
-elegancki, szykowny - sike  
+elegancki, szykowny - xike  
 elektron - eletron  
 elektronika - eletrolojia  
 elektryczność - eletre  
@@ -706,7 +703,6 @@ Ghana - Gana
 ghul - gulogui  
 Gibraltar - Gibraltar  
 gitara - gitar  
-glazura (emalia) - kancodake  
 gleba bielicoziemna - huidarte  
 glin (aluminium) - aluminium  
 glina - glutofan  
@@ -751,7 +747,7 @@ grillować - kababe
 grom, huk - grom  
 grubość - grosia  
 gruby - grose  
-grudzień - lun nuve  
+grudzień - lun nove  
 grunt (ziemia, próchnica; ziemny, glebowy, gruntowy)) - darte  
 grupa - grupe  
 grupa etniczna - zuke  
@@ -781,7 +777,7 @@ góra, wzgórze - monte
 górnik (kopacz) - kuanger  
 górny - supre  
 gówno - xite  
-gąbka - sponge  
+gąbka - sponje  
 gęś - ganse  
 gładki - lise  
 głaz - dayite  
@@ -1018,7 +1014,7 @@ kalif - halif
 kalifat - halifia  
 kaliforn - kalifornium  
 kalkulować - hisabe  
-Kambodża - Kambozia  
+Kambodża - Kambojia  
 kamera, aparat fotograficzny - fotografomaxin  
 Kamerun - Kamerun  
 kamieniarz - itojanger  
@@ -1095,7 +1091,7 @@ klapa - padomun
 klasa, kategoria - klas  
 klasyfikować, kategoryzować - klase  
 klatka - batonkase  
-klatka piersiowa - sinakapse  
+klatka piersiowa - sinakase  
 klaun - payace  
 klawiatura - butonban  
 klawisz, przycisk, przełącznik, guzik - buton  
@@ -1227,7 +1223,7 @@ kryształ - bilor
 krytyk - kriter  
 kryzys - krize  
 kryzysowy - krizi  
-krzak (krzew) - tali moke  
+krzak (krzew) - dipe moke  
 krzem - silike  
 krzemień - hogite  
 krzyknąć, krzyczeć - klame  
@@ -1256,7 +1252,7 @@ kuchnia - kukokamar
 kukurydza - mais  
 kukułka - kuku  
 kulomb - kulombe  
-kult ognia - hogopuzia  
+kult ognia - hogopujia  
 kultura - kultur  
 kulturystyka - muskulobine  
 kumin (kmin) - zira  
@@ -1270,7 +1266,7 @@ kusza (balista) - krusarke
 kuszetka (koja) - kusloke  
 Kuwejt - Kuvaitia  
 kuzyn - cinbrusben  
-kwadrat (czworokąt, czworobok, tetragon) - carogone  
+kwadrat (czworokąt, czworobok, tetragon) - catrogone  
 kwarc - kuarze  
 kwaśny - suane  
 kwestia, problem - sualoteme  
@@ -1334,11 +1330,11 @@ limfa - limfa
 limit, granica - lime  
 limonkowy (limonkowo zielony) - limonluge  
 linia (nić, lina, pas, pręga, smuga, dratwa) - line  
-lipiec - lun nelu  
+lipiec - lun catre  
 lis - huli  
 lista słów - lexoliste  
 lista, spis, wykaz - liste  
-listopad - lun bati  
+listopad - lun bate  
 listownicowiec - varkalge  
 lit - litium  
 litera, znak - harfe  
@@ -1359,7 +1355,6 @@ lot (latać, lecieć) - fei
 lotnisko (port lotniczy) - airoporta  
 lub, albo - o  
 lubić (zamiłowanie, -filia) - file  
-lubić, cieszyć się - suku  
 lud (społeczeństwo; publiczny) - deme  
 ludzie (lud, ludność) - nas  
 ludzie (lud, ludność) - nasian  
@@ -1626,7 +1621,7 @@ nabywca (kupiec) - xoper
 naciskać (zostawiać ślad; odcisk, ślad; stempel, pieczęć) - cape  
 nacjonalista - nasiste  
 nacjonalizm - nasisme  
-nad - supro  
+nad - a supre  
 nadajnik radiowy - radi miser  
 nadawca - miser  
 nadać, wysłać pocztą - poste  
@@ -1678,7 +1673,7 @@ negatywny (przeciwny, nie) - an-
 negocjować - lona biznes  
 nekrolog - nekrologe  
 neodym - neodimium  
-neologizm - novologe  
+neologizm - neuloge  
 neon - neon  
 Nepal - Nepal  
 Neptun - Nepotun  
@@ -1700,7 +1695,7 @@ niebieskozielony (cyjan) - siane
 niebo - ten  
 niech my, hajda - haide  
 niechętny - anice  
-niedziela - den ceti  
+niedziela - den cete  
 niedźwiedź - urse  
 nieliczność - xaves  
 Niemcy - Doice  
@@ -1727,7 +1722,7 @@ niknąć (blaknąć, gasnąć, słabnąć) - mirdu
 nikt, żadna osoba - no jen  
 nikły - mirde  
 niob - niobium  
-niski - tale  
+niski - dipe  
 nisza, alkowa - nis  
 Niue - Niue  
 niuton (N) - nuton  
@@ -1745,13 +1740,13 @@ nostalgia (tęsknota) - nostalgia
 nostalgiczny - nostalgike  
 notatka, memo - memonote  
 notatnik - notobuke  
-Nowa Kaledonia - Nove Kaledonia  
-Nowa Zelandia - Nove Zelandia  
-nowicjusz (nowa osoba) - novike  
-nowoczesne - novoyange  
-nowość - novaje  
-nowy - nove  
-Nowy Jork - Nove Yorke  
+Nowa Kaledonia - Neu Kaledonia  
+Nowa Zelandia - neu Zelandia  
+nowicjusz (nowa osoba) - nevike  
+nowoczesne - neuyangike  
+nowość - nevaje  
+nowy - neu  
+Nowy Jork - Neu Yorke  
 nożyce, nożyczki - makas  
 nuda (znudzenie) - boria  
 nudności (choroba lokomocyjna) - retrogul sense  
@@ -1768,7 +1763,7 @@ obcęgi, kleszcze, szczypce - pinser
 obiad, lunch - yomyam  
 obiecać, angażować się - vode  
 obiecujący (dobrze wróżący) - bonsinye  
-obniżać (obniżyć) - tale  
+obniżać (obniżyć) - dipife  
 obozowicz - kampe  
 obrabować, splądrować - lute  
 obraza (obelga) - dusnam  
@@ -1805,7 +1800,7 @@ oddech - nafas
 odetkać, odtykać - detape  
 odkurzacz - funcuper  
 odmówić (odrzucić) - nege  
-odnowić, odnawiać, uczynić nowym - renove  
+odnowić, odnawiać, uczynić nowym - reneve  
 odpowiedź (odzew; odpowiedzieć, odpowiadać) - javabe  
 odsłonić, odsłaniać - andake  
 Odwarzny ( - brave  
@@ -1826,7 +1821,6 @@ okej, spoko, akceptowalny - okeyable
 okno - janel  
 oko - oke  
 około; przybliżony - yage  
-okrągły - sirke  
 olej - nefte  
 oliwka - zaitun  
 Oman - Oman  
@@ -1869,7 +1863,7 @@ oswojony (potulny, posłuszny) - dosile
 oszacować, szacować, przybliżyć, przybliżać - yagife  
 oszczędzać (deponować) - banke  
 oszukać (oszukiwać - truke  
-otoczyć, otaczać - sirke  
+otoczyć, otaczać - sirkize  
 otwarty (otworzyć, otwierać) - kai  
 otwarty (przestrzenny) - medene  
 otworzyć (otwierać, odkluczyć; zakluczony)) - desore  
@@ -1920,11 +1914,11 @@ panteon - pandevia
 papaja - papai  
 papeda - karsolimon  
 papier - kaguje  
-papieros (cygar) - sigar  
+papieros (cygar) - sigare  
 paproć - parne  
 papryka - cili  
 papryka - cili fun  
-Papua Nowa Gwinea - Papua Novi Ginia  
+Papua Nowa Gwinea - Papua Neu Ginia  
 papuga - papagai  
 para wodna - suigas  
 paragon, pokwitowanie - reside  
@@ -1951,7 +1945,7 @@ patologia - patolojia
 paznokieć - nahun  
 pałac - daidom  
 paść (padać, upaść, upadać) - pade  
-październik - lun ceti  
+październik - lun cete  
 pchnąć, pchać - pulse  
 pedał - pedal  
 Pekin - Beijing  
@@ -2013,12 +2007,12 @@ pizza - piza
 pizzeria - pizaria  
 pióro - pere  
 pióro, długopis - kalam  
-piątek - den lima  
-pięciokąt (pentagon) - limgon  
-pięciościan (pryzmat) - limfas  
+piątek - den pente  
+pięciokąt (pentagon) - pentogone  
+pięciościan (pryzmat) - pentofase  
 piękno - meyia  
 piękny, przystojny - mei  
-pięć (5) - lime  
+pięć (5) - pente  
 piła - xere  
 piłka - bol  
 piłka do koszykówki (koszykówka) - baske bol  
@@ -2058,11 +2052,11 @@ podobny (analogiczny) - samike
 podpis (autograf) - namkitabe  
 podróż (podróżować) - safar  
 podróżnik - safarer  
-podstawa (baza, fundament; bazowy; zakładać (założyć, ustanowić) - baze  
+podstawa (baza, fundament, dół, spód; bazowy; zakładać, założyć, ustanowić) - baze  
 poduszka - kusen  
 podziemny - geosube  
 podążać - pose  
-podłoga - kamartal  
+podłoga - kamardipe  
 poemat - xir  
 poeta - xirer  
 poezja - xiria  
@@ -2169,7 +2163,6 @@ południe - sude
 południk - latude  
 Południowa Afryka - Sudafrike  
 południowy - sudike  
-połączenie, złącze, styk - linke  
 pośladki, pupa, tyłek, zadek - pige  
 pośmiertny - posmortal  
 pożyczać (pożyczyć) - jekocepe  
@@ -2243,7 +2236,7 @@ przeciwnie do ruchu wskazówek zegara - rotolefto
 przeciwnik (antagonista) - xatan  
 przedmiot (obiekt) - vate  
 przedporodowy - prenatal  
-przedpołudnie - suboden  
+przedpołudnie - subaden  
 przedrostek (prefiks) - prefixe  
 przedwojenny - pregere  
 przedłużyć, przedłużać - longife  
@@ -2252,14 +2245,14 @@ przegrany, pokonany - xibayer
 przegrać, przegrywać - xibai  
 przejść w poprzek - krusu  
 przejść, przechodzić, przejechać, przejeżdżać - trapase  
-przekroczyć, przekraczać, przejść nad, iść nad - supre  
+przekroczyć, przekraczać, przejść nad, iść nad - supropase  
 przekąska - lilyam  
 przekątny (diagonal) - tragone  
 przepołowić (podzielić przez dwa) - dufene  
 przepraszam! - maf  
 przepękla ogórkowata (balsamka ogórkowata) - alkalomelon  
 przerwać (przerywać; pauza, przerwa) - pauze  
-przesilenie - solestas  
+przesilenie - solostate  
 przesilenie letnie (dzień srodka lata) - garmomosimmedi den  
 przestępstwo - krim  
 przeszkodzić, przeszkadzać, robić kłopot - turbe  
@@ -2335,7 +2328,7 @@ płaszczyzna (płyta) - plate
 płciowy - jensike  
 płeć - jense  
 płeć biologiczna - bioginse  
-płeć społeczna - soce ginse  
+płeć społeczna - soce jinse  
 płot - kenarbaryer  
 płuco - pulmon  
 płyta - tail  
@@ -2478,7 +2471,6 @@ Rzym - Roma
 rząd - polite  
 rządzić - polite  
 rządzić, władać - kratia  
-rządzić, władać - sulte  
 rzęsa - okokex  
 róg - korne  
 róg - trompe  
@@ -2533,8 +2525,7 @@ schody (drabina) - skale
 seaborg - siborgium  
 sejsmologia - sismolojia  
 sekcja zwłok (obdukcja) - nekrotome  
-sekret - sir  
-sekret - sire  
+sekret (chować, kryć) - sir  
 sekretariat - sekreteria  
 sekretarz - sekreter  
 seks (stosunek płciowy; kochać się, uprawiać seks) - sexe  
@@ -2556,12 +2547,12 @@ shintoizm, sintoizm - xindavisme
 siano - gancau  
 siarka - sulfe  
 siedem (7) - cete  
-siedzenie (siodło) - side  
+siedzenie (siodło) - sidel  
 siedzieć - side  
 siekera (topór) - futau  
 sierociniec, dom dziecka - yatimokan  
 sierota - yatim  
-sierpień - lun lima  
+sierpień - lun pente  
 Sierra Leone - Sera Leone  
 sikać, szczać, oddawać mocz - pise  
 sikh - sikiste  
@@ -2572,10 +2563,8 @@ silny - bale
 Singapur - Singapur  
 się (nawzajem, wzajemnie) - unale  
 siła - balia  
-siła, autorytet, władza - sultia  
 siły powietrzne - airogun  
 skand - skandium  
-Skandynawia - oskandinavia  
 Skandynawia - Skandia  
 skarb (skrabiec; cenny) - bau  
 skarpeta, skarpetka, pończocha - maze  
@@ -2587,8 +2576,7 @@ skorpion - akrabe
 skorupa (pancerz, muszla) - kaske  
 skończony (ograniczony) - belime  
 skośny (ukośny, pochyły) - terce  
-skradanie się - siri mote  
-skradać się - siro motu  
+skradać się - siromote  
 skrzydło - panke  
 skrzypce - viole  
 skrzypek - violiste  
@@ -2603,7 +2591,7 @@ smak - guste
 smok - lung  
 smycz (cugiel, lejc, wodza) - lidoline  
 snajper (strzelec wyborowy) - justopaver  
-sobota - den luka  
+sobota - den sixe  
 socjalista - sociste  
 socjalizm - socisme  
 socjalizować się - soce  
@@ -2624,7 +2612,7 @@ spalić, palić - hoge
 spać (sen) - some  
 specjalny, wyraźny, wyrazisty - hase  
 spis treści (tabela zawartości) - inliste  
-spisek (konspiracja) - sirplan  
+spisek (konspiracja) - siroplan  
 spocony - suedos  
 spoczywaj w pokoju - reste in pace (RIP)  
 spodnie (pantalony, portki) - pante  
@@ -2634,7 +2622,6 @@ sport, lekkoatletyka - sporte
 sposób (metoda, tryb) - mode  
 spotkanie, zebranie - ajame  
 społeczeństwo, system społeczny - socia  
-społeczny - sose  
 sprawdzić (sprawdzać, skontrolować, zbadać) - inspete  
 sprawiedliwość - adalia  
 sprawiedliwy - adal  
@@ -2657,7 +2644,7 @@ ssać - cupe
 stacja - statia  
 stadion, arena - stadia  
 stan - hal  
-Stan Nowy Jork - Nove Yorke site  
+Stan Nowy Jork - Neu Yorke site  
 Stany Zjednoczone Ameryki - Unite State de Amerika (USA)  
 Starożytny Egipt (Kemet) - Kemia  
 stary (sędziwy, wiekowy) - lave  
@@ -2666,7 +2653,7 @@ statyczny, stacjonarny, nieruchomy - statike
 stać - libu  
 stały (sztywny) - gatomate  
 sterburta (prawa burta) - nauraite  
-sto (100) - cente  
+sto (100) - sente  
 stojak (wieszak) - libobaze  
 stokrotka - margarite  
 stokrotka pospolita - englomargarite  
@@ -2701,7 +2688,7 @@ suchy (suszyć ) - gane
 Sudan - Sudan  
 Sudan Południowy - Sudi Sudan  
 sufit - kamargau  
-suma - sum  
+suma (zsumować, sumować, dodać, dodawać) - sum  
 Surinam - Surinam  
 sushi - suxi  
 Swalbard - Svalbarde  
@@ -2741,15 +2728,16 @@ szewc - sapater
 sześcian (kostka) - sixofase  
 sześcian - kube  
 sześciokąt (sześciobok) - sixogon  
-sześć (6) - six  
+sześć (6) - sixe  
 szisz kebab - xixkababe  
 szkielet - ostogamia  
-szklić (glazurować) - kancodake  
+szklanka - glasokupe  
+szklić (glazurować; glazura, emalia) - glasize  
 Szkocja - Skotia  
 szkoła (instytucja) - xulokan  
 szkoła podstawowa - bazoxulkan  
-szkło - kance  
-szkło wulkaniczne - hogosani kance  
+szkło - glas  
+szkło wulkaniczne - hogoxan glas  
 szmaragd - zumurude  
 szofer (kierowca) - xofer  
 szogun - gunreger  
@@ -2782,7 +2770,7 @@ sąd (trybunał) - judokan
 sądzić (osądzić; wyrok) - jude  
 sędzia - juder  
 słaby - anbale  
-słodki - sukari  
+słodki - sukaros  
 słodki ziemniak - kamote  
 słonecznik - soloful  
 Słowacja - Slovakia  
@@ -2804,14 +2792,14 @@ służyć (służba) - serve
 tablica (deska) - ban  
 tablica wyników - puntoban  
 tablioca, macierz - datotable  
-Tadżykistan - Tazikia  
+Tadżykistan - Tajikostan  
 tajga - taige  
 Tajlandia - Tai dexia  
 Tajpej - Taibei  
 tajski - Tai  
 Tajwan, Republika Chińska - Taivan  
 tak - ye  
-taki sam - same  
+taki sam - sam:  
 taksometr - taxi metrer  
 taktyka, strategia - tatike  
 tal - talium  
@@ -2991,7 +2979,6 @@ urodziny - genoden
 Urugwaj - Uruguai  
 urząd, pozycja, stanowisko, funkcja - mante  
 urząd, pozycja, stanowisko, funkcja - ofis  
-usiąść - sidu  
 uskok - geokaski krake  
 usta - boka  
 usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - depoze  
@@ -3063,7 +3050,7 @@ wiadomość, nius - habar
 wiadomość, zawiadomienie, powiadomienie - notize  
 wiadomy, znany - benose  
 wiadro - balde  
-wiadukt, przejście powyżej - supre  
+wiadukt, przejście powyżej - supraje  
 wiara, wierzenie, kredo - xin  
 wiatr (dmuchać) - fente  
 wiatrak (wentylator) - fentopanke  
@@ -3071,7 +3058,7 @@ wiatrak (wentylator) - sanze
 wice- (alternatywa, substytut, zastępstwo) - vise  
 wicekról - visereger  
 wiceprezydent - visepresidante  
-wiceprezydent - visopresidente  
+wiceprezydent - visepresidente  
 widelec - forke  
 widok (wzrok) - vidaje  
 widzieć (patrzeć) - vide  
@@ -3119,7 +3106,7 @@ wirusologia - viruslojia
 Wisznu - Vixnu  
 witaj, dobre przybycie - sal lai  
 witamina - vitamin  
-witraż - rangi kance  
+witraż - rangoglas  
 witryna internetowa (portal internetowy) - netoloke  
 wiwatować (hura, jej) - hura  
 wiwisekcja - jivotome  
@@ -3130,12 +3117,12 @@ większościowy, wiodący, główny - maxure
 większość - maxuria  
 więzienie, zakład karny - jelokan  
 wiśnia (czereśnia) - cerize  
-wkrótce - suno  
+wkrótce - a korte  
 wnieć wkład (przyczynić się) - fendone  
 wnętrze (środek) - inaje  
 woda - sui  
 woda mineralna - kuangosui  
-wodny - suye  
+wodny - suyos  
 wodoodporny - suisekure  
 wodorosty - haialge  
 wodospad - suipade  
@@ -3151,7 +3138,7 @@ wosk - mum
 wosko lądowe (armia) - geogunia  
 wow! (łoł!, jej!) - va  
 wołowina - muhmanse  
-wrzesień - lun luka  
+wrzesień - lun sixe  
 wróg (nieprzyjaciel) - andoste  
 wsad, partia, porcja, seria - lote  
 wschodni - donge  
@@ -3160,7 +3147,7 @@ wskazać, wskazywać - ponte
 wskaźnik - dikobaton  
 wskaźnik - ponter  
 wspaniały - bonsife  
-wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - supere  
+wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super  
 wsparcie (wzmocnienie, zasilenie) - maxobalaje  
 wspinać się (wspiąć się) - askale  
 wspólny (wzajemny) - kone  
@@ -3174,7 +3161,7 @@ wstyd (hańba, kompromitacja) - xarme
 wszyscy, wszystkie, wszystko; każdy - pan  
 wszystko - pan xe  
 wtorek - den du  
-wulkan - hogosan  
+wulkan - hogoxan  
 wy, was - tumen  
 wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja) - cuze  
 wybrzeże (plaża) - haitate  
@@ -3235,10 +3222,9 @@ węgiel - karbe
 Węgry - Magyaria  
 węzeł (zupeł; zawiązywać, zawiązać węzeł) - node  
 władać, panować, rządzić jako imperator - impere  
-władca - sultan  
 właściciel (posiadacz) - maler  
 właściwy (poprawny; poprawić, poprawiać, prostować, korygować) - sahe  
-właśnie, dopiero co, ostatnio, niedawno - a nove  
+właśnie, dopiero co, ostatnio, niedawno - a neu  
 włos - kex  
 włókno - lineme  
 
@@ -3271,7 +3257,7 @@ zainteresowanie, zaciekawienie; interesujący - sabovol
 zajęty - mange  
 zaklecie - magasar  
 Zambia - Zambia  
-zamek (zapięcie) - sor  
+zamek (zapięcie) - sore  
 zamek błyskawiczny - ziper  
 zamek, forteca, twierdza - burge  
 zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć) - sore  
@@ -3370,7 +3356,6 @@ zrobić (czyn, uczynek) - fete
 zrobić (stworzyć, wykreować) - fe  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - can  
 zromanizować - latinkitabe  
-zsumować, sumować, dodać, dodawać - sume  
 zulu - Zulu  
 zupa - supe  
 zwinny, sprawny - agile  
@@ -3417,7 +3402,6 @@ zły, zrujnowany, zepsuty - harabe
 łódź, statek - nau  
 łóżko - bede  
 łączyć (złączyć) - konfuze  
-łączyć, wiązać, złączyć - linke  
 łąka - caustan  
 Śiwa - Xiva  
 ścisnąć (sciskać, wycisnąć) - konprese  
@@ -3426,7 +3410,7 @@ zły, zrujnowany, zepsuty - harabe
 ślizgać się (poślizgnąć się, jeździć na łyżwach) - glise  
 śmiać się - hahe  
 śmieć, odpadek - laze  
-śniadanie - subyam  
+śniadanie - subayam  
 śnieg (śnieżyć) - hima  
 śpiewać (piosenka, pieśń) - cante  
 średni - midi  
@@ -3439,7 +3423,7 @@ zły, zrujnowany, zepsuty - harabe
 światło (jasny, świetlny) - fote  
 świeca - mumfote  
 świerk - picea  
-świetny - kule  
+świetny - kul  
 świeży - taze  
 świnia - goro  
 świątynia - pujokan  

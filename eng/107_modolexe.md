@@ -22,7 +22,7 @@ B. **tu _mei_ di kitabe.**
 
 In Pandunia, "adjectives" are modifiers that are placed before the noun that they modify.
 
-**un _nove_ kar**
+**un _neu_ kar**
 – a _new_ car  
 **un _rapide_ kar**
 – a _fast_ car  
@@ -35,7 +35,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 Two or more modifiers can modify the same noun.
 
-**un lili nove kar**
+**un lili neu kar**
 – a little new car
 
 

@@ -105,7 +105,7 @@ antimoine - stibium
 antonyme - antinam  
 antonyme - antonam  
 anus (anal) - anus  
-août - lun bati  
+août - lun bate  
 apogée - abogee  
 appartenir à - be male  
 appendre - apende  
@@ -206,7 +206,7 @@ bah! (fi!) - fi
 baie (golf) - haisake  
 baie - beri  
 bain (bagner) - banya  
-baisser - tale  
+baisser - dipife  
 balance (poids) - vezometrer  
 balcon - beranda  
 balle (boule) - bol  
@@ -226,16 +226,13 @@ baromètre - airbarmetrer
 barrière - bare  
 barrière - baromur  
 baryum - barium  
-bas - tal  
-bas - tale  
+bas - dipe  
 base (alcali; basique) - alkale  
 base - baze  
 base de données - datobanke  
 baseball - baze bol  
 basketball - baske bol  
 bassin - basen  
-bataille (lutte) - batal  
-bataillon - batalon  
 bateau - nau  
 beau - mei  
 beau-père - gamopa  
@@ -296,7 +293,7 @@ brosse à cheveux - kexobroxe
 brun (marron) - brune  
 brûler - hoge  
 budget - bugete  
-buisson - tali moke  
+buisson - dipe moke  
 bureau (office) - bure  
 bureaucratie - burokratia  
 but (destination) - gol  
@@ -308,7 +305,7 @@ bûche - mokotan
 
 ## C  
 
-cacher - sire  
+cacher - sir  
 cachet de la poste - postomarke  
 cactus - katus  
 cadeau - donaje  
@@ -359,7 +356,7 @@ cassette - kasete
 caséine - kizoproten  
 cauri - kauri  
 cellule sanguine (globule) - hemocel  
-cent (100) - cente  
+cent (100) - sente  
 Centaurée - centaure  
 Centaurée bleuet - nilcentaur  
 Centaurée du solstice - solocentaur  
@@ -410,10 +407,10 @@ chêne - balute
 chêne pédonculé - europobalute  
 chœur - cantergrupe  
 ciel - ten  
-cigarette - sigar  
+cigarette - sigare  
 cime (pic, sommet) - pike  
 cimetière - gabrostan  
-cinq (5) - lime  
+cinq (5) - pente  
 cinéphile - kinofilike  
 cirse commun - perokardon  
 citron - limon  
@@ -439,7 +436,7 @@ commission (comité) - konmisia
 comparer - konpare  
 compassion - samemote  
 compatriote - konpatrian  
-complot (conspiration) - sirplan  
+complot (conspiration) - siroplan  
 comportement (manière) - manir  
 compost - biocaniver  
 compote de pommes - aplesaus  
@@ -526,7 +523,7 @@ curry - kari
 cycliste - sikliste  
 cytologie - celolojia  
 câble (corde) - kable  
-célérité - siri mote  
+célérité - siromote  
 cérium - ceresium  
 césium - cesium  
 cône - konus  
@@ -563,7 +560,7 @@ diction - dition
 dieu - deu  
 différence - alosifia  
 différent - alosife  
-dimanche - den ceti  
+dimanche - den cete  
 dinde (dindon) - dinde  
 diorite - diorite  
 dioxyde de carbone - karboduloxide  
@@ -760,6 +757,7 @@ gingembre - jenje
 giraffe - jiraf  
 glace (glacé, glacial, gelé) - ais  
 gland - balutopal  
+glaçure (email) - glasize  
 glisser - glise  
 glotte - sonomun  
 gnosticisme - nosisme  
@@ -911,7 +909,7 @@ Japon - Nipon
 jaïnisme - jainisme  
 je (me) - mi  
 jeu de société - banogem  
-jeudi - den nelu  
+jeudi - den catre  
 jeune (juvénile) - yune  
 jonction - juntion  
 jongler - jongle  
@@ -978,7 +976,6 @@ leçon - xulaje
 libellule - libele  
 libre - hure  
 lichen - algafung  
-lien - linke  
 lieu (placer, mettre) - loke  
 lieu de naissance - genoloke  
 ligne (fil) - line  
@@ -1153,9 +1150,10 @@ nautile - nautile
 neige - hima  
 Neptune - Nepotun  
 neptunium - nepotunium  
-neuf (9) - nof  
+neuf (9) - nove  
 neurone - neurocel  
 neurotoxine - neurotoxe  
+neuvième - novime  
 nexus (réseau) - nete  
 nez - naze  
 niche - nis  
@@ -1176,9 +1174,9 @@ nostalgie - nostalgia
 note - note  
 notre - mimen su  
 nous - mimen  
-nouveau - nove  
-nouveau-né - novojene  
-nouveauté - novia  
+nouveau - neu  
+nouveau-né - neugene  
+nouveauté - nevia  
 nuage - nepe  
 nudisme - nudisme  
 nylon - nilon  
@@ -1187,9 +1185,9 @@ nécessiteux (dans le besoin) - yavive
 nécrologie - nekrologe  
 nécrophilie - nekrofilisme  
 néodyme - neodimium  
-néologisme - novologe  
+néologisme - neuloge  
 néon - neon  
-néophyte - novike  
+néophyte - nevike  
 néphologie - nepolojia  
 
 ## O  
@@ -1310,6 +1308,7 @@ peinture - pente
 pelle - belce  
 pendentif - pendaje  
 pender - pende  
+pentagone - pentogone  
 perdant - xibayer  
 perder - dexibai  
 pere (papa) - pa  
@@ -1351,7 +1350,7 @@ piège - kapotruke
 placard - almari  
 place - meden  
 plaine - platostan  
-plaire - suke  
+plaire - sukife  
 plan - plan  
 planche - mokoban  
 plante (végétal) - fite  
@@ -1402,7 +1401,7 @@ poudre à canon - barude
 Poulpe (pieuvre) - batosenter  
 pouls - pulsation  
 poupée - pupe  
-pour cent - pro cente  
+pour cent - pro sente  
 pourri - pude  
 pourrir (se décomposer) - pudu  
 pousse - yune moke  
@@ -1461,7 +1460,7 @@ pétrole (essence) - petronefte
 pétrologie - petrolojia  
 quand - ke sate  
 quartz - kuarze  
-quatre (4) - car  
+quatre (4) - catre  
 que (comme) - ka  
 que (quoi) - ke  
 querelle (dispute, palabre) - palabe  
@@ -1574,7 +1573,7 @@ salle de gymnastique - sportokan
 salle de muscu - balokan  
 salut (salam) - salam  
 samarium - samarium  
-samedi - den luka  
+samedi - den sixe  
 Samoa américaines - Amerikan Samoa  
 sandwich - sanduice  
 sang - heme  
@@ -1597,7 +1596,6 @@ sauveur - salver
 savane - garmozone caustan  
 savoir - sabe  
 savon - sabun  
-Scandinavie - oskandinavia  
 Scandinavie - Skandia  
 scandium - skandium  
 scie - xere  
@@ -1609,7 +1607,6 @@ sculpteur - skulter
 scutelle - ostosalke  
 se - se  
 se mouvoir - kinu  
-se plaire - suku  
 se rappeler (se remémorer) - meme  
 seaborgium - siborgium  
 seau - balde  
@@ -1622,7 +1619,7 @@ sentir qqch (avoir l'odeur de qqch) - aromu
 sentir qqch - gande  
 sept (7) - cete  
 septième - cetime  
-serrure - sor  
+serrure - sore  
 serviette - gantexe  
 seul (unique) - unike  
 sexe - jense  
@@ -1637,7 +1634,7 @@ silex - hogite
 silicium - silike  
 simulation - samosifia  
 situation (état de choses) - xeihal  
-six (6) - six  
+six (6) - sixe  
 société - socia  
 sodium - natrium  
 soie - silke  
@@ -1652,7 +1649,6 @@ soufre - sulfe
 soumission - islam  
 sous-estimer - minrai  
 souteneur (maquereau) - sutener  
-spectateur - speter  
 spectateur - speter  
 spiritueux - arake  
 sport - sporte  
@@ -1817,15 +1813,16 @@ vanille - vanila
 vapeur d’eau - suigas  
 varech - varkalge  
 vendre - vende  
-vendredi - den lima  
+vendredi - den pente  
 Venezuela - Venezuele  
 venir - lai  
 ventilateur - fentor  
 ver - verme  
 verbe - karolexe  
 vermouth - vermute  
-verre - kance  
-verre coloré - rangi kance  
+verre - glas  
+verre - glasokupe  
+verre coloré - rangoglas  
 verrue - veruke  
 verser (face á) - verse  
 vert - luge  
@@ -1857,7 +1854,7 @@ voile - hijabe
 voile - vele  
 voir - vide  
 voire (même) - hato  
-volcan - hogosan  
+volcan - hogoxan  
 voler (vol) - fei  
 votre - tumen su  
 vouloir - vol  
@@ -1910,7 +1907,7 @@ zèbre - zebra
 écureuil - ekore  
 éducation - xulia  
 éducation civique - sivopedia  
-égal (même) - same  
+égal (même) - sam:  
 électricité - eletre  
 électronique - eletrolojia  
 élevage - zoagria  
@@ -1927,7 +1924,7 @@ zèbre - zebra
 épicéa - picea  
 épingle - pin  
 épistémologie - nosolojia  
-éponge - sponge  
+éponge - sponje  
 époux - gamike  
 épreuve (test) - teste  
 épée - katane  

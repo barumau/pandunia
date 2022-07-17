@@ -5,15 +5,18 @@
 a - en (a)  
 a intre - dentro  
 a ke - dónde  
+a korte - pronto  
 a le - allí (allá)  
 a line - en línea  
 a long - lejos  
 a max - además  
-a nove - ahora mismo (justo)  
+a misal - por ejemplo  
+a neu - ahora mismo (justo)  
 a proxe - casi (aproximadamente)  
 a retre - al revés  
 a sababe de - porque  
 a sube - debajo  
+a supre - sobre  
 a xukre de - gracias a (merced a)  
 a zay - ahora (actualmente)  
 a zay den - hoy  
@@ -273,10 +276,7 @@ bas - bastante
 basen - piscina (alberca, lavadero)  
 baske - cesta (canasta, barquilla, aro)  
 baske bol - baloncesto (básquetbol)  
-bate - golpear (pegar)  
 bate - ocho (8)  
-• batal - batalla (lucha)  
-• batalon - batallón  
 batosenter - pulpo  
 bata - pato  
 batakrote - ornitorrinco  
@@ -287,13 +287,13 @@ batonpang - baguette
 batre - pila (batería)  
 bau - tesoro (precioso)  
 bavite - piedra preciosa (joya, gema)  
-baze - base (básico; fundar, basar)  
+baze - base (fondo, básico; fundar, basar)  
+• bazer - fundador  
 baze bol - béisbol  
 bazokanun - constitución  
 bazopetre - lecho de roca  
-bazer - fundador  
-bazoxulkan - escuela primaria  
 bazostrute - infraestructura  
+bazoxulkan - escuela primaria  
 bazar - mercado (bazar)  
 be - sufrir (verbo pasivo)  
 bebe - bebé  
@@ -453,10 +453,10 @@ cante - cantar (canción)
 cantergrupe - coro  
 cape - grabado (sello, estampando)  
 capati - chapati (pan sin levadura)  
-car - cuatro (4)  
-carogone - cuadro  
 carme - encanto  
 cate - techo (tejado)  
+catre - cuatro (4)  
+catrogone - cuadro  
 cau - césped (hierba)  
 caustan - pradera (pastizal)  
 Cehia - República Checa  
@@ -465,10 +465,6 @@ cel - célula
 celolojia - citología  
 celsius darge - grado Celsius  
 ceng - capa (piso, planta, estrato)  
-cente - cien (100)  
-• pro cente - por ciento  
-centi - centi- (por ciento)  
-centimitre - centímetro  
 cepe - capturar (apresar)  
 • acepe - aceptar  
 • excepe - excepto (exceptuar)  
@@ -600,10 +596,10 @@ den - día (24 horas)
 den un - lunes  
 den du - martes  
 den tri - miércoles  
-den nelu - jueves  
-den lima - viernes  
-den luka - sábado  
-den ceti - domingo  
+den catre - jueves  
+den pente - viernes  
+den sixe - sábado  
+den cete - domingo  
 denge - esperar  
 des - diez (10)  
 desen - dibujo (diseño)  
@@ -634,6 +630,9 @@ dinamite - dinamita
 dinde - pavo (guajalote)  
 ding - clavo (pincho, punta)  
 diorite - diorita  
+dipe - bajo  
+dipe moke - arbusto (mata)  
+• dipife - bajar  
 dise - dispersar (esparcir, desmontar; escaso, disperso, ralo)  
 diske - disco  
 disprosium - disprosio  
@@ -1056,6 +1055,9 @@ gidobuke - guía de viaje
 giga - giga-  
 gitar - guitarra  
 giuke - jade  
+glas - vidrio (cristal)  
+• glasize - vidriar (glasear; vidriado, esmalte)  
+glasokupe - vaso  
 glise - deslizar  
 globe - global (mundial)  
 glute - pegar (pegamento, pega, goma, adhesivo)  
@@ -1236,11 +1238,11 @@ hoge - fuego
 hoge - quemar  
 hoge - ardiente (encendido)  
 hogu - quemarse  
-hogosan - volcán  
-hogosani kance - vidrio volcánico  
-hogosanduke - farol (linterna)  
+hogoxan - volcán  
 hogite - pedernal (sílex)  
+hogosanduke - farol (linterna)  
 hogotehne - dispositivo pirotécnico  
+hogoxan glas - vidrio volcánico  
 hoke - hockey  
 hole - entero (todo)  
 • holia - totalidad (integridad)  
@@ -1447,8 +1449,8 @@ kalsomate - cal
 kalsopetre - caliza  
 kame - lujuria (deseo)  
 kamar - habitación (cuarto, sala, pieza)  
-kamartal - piso (suelo)  
-Kambozia - Camboya  
+kamardipe - piso (suelo)  
+Kambojia - Camboya  
 Kamerun - Camerún  
 kamil - manzanilla de Castilla  
 kamis - camisa  
@@ -1461,9 +1463,6 @@ Kamria - Gales
 Kanade - Canadá  
 kanal - canal (cauce, acequia)  
 kanape - sofá  
-kance - vidrio (cristal)  
-kancodake - vidriado (esmalte)  
-kancodake - vidriar (glasear)  
 kande - caramelo  
 kandel - candela (unidad de intensidad luminosa)  
 kang - peine  
@@ -1738,7 +1737,7 @@ Kuke nesia - Islas Cook
 kukokamar - cocina  
 kuker - cocinero  
 kuku - cuco  
-kule - genial  
+kul - genial  
 kulombe - culombio  
 kultur - cultura  
 • polikulture - multicultural  
@@ -1844,9 +1843,6 @@ lilkaboge - calabacín
 lilake - lila  
 lilake - lila (de color lila)  
 lime - límite (frontera, linde)  
-lime - cinco (5)  
-limfas - pentaedro  
-limgon - pentágono  
 • belime - limitado  
 • tralime - demasiado  
 limfa - linfa  
@@ -1865,8 +1861,6 @@ lingue - lengua (idioma)
 lingue ginse - género gramatical  
 linguokanun - gramática  
 linguolojia - lingüística  
-linke - juntura (conexión, enlace)  
-linke - conectar (empalmar, enlazar, vincular)  
 lise - suave (liso)  
 lisan - lengua  
 liste - lista  
@@ -1913,12 +1907,12 @@ lun - mez
 lun un - enero  
 lun du - febrero  
 lun tri - marzo  
-lun nelu - abril  
-lun lima - mayo  
-lun luka - junio  
-lun ceti - julio  
-lun bati - agosto  
-lun nuve - septiembre  
+lun catre - abril  
+lun pente - mayo  
+lun sixe - junio  
+lun cete - julio  
+lun bate - agosto  
+lun nove - septiembre  
 lun des - octubre  
 lun des un - nobiembre  
 lun des du - deciembre  
@@ -2152,7 +2146,6 @@ mise - enviar (transmitar)
 • tramision - transmisión  
 • tramisor - transmisor  
 misal - ejemplo  
-a misal - por ejemplo  
 miskin - pobre (miserable)  
 misre - egipcio  
 Misria - Egipto  
@@ -2331,6 +2324,17 @@ nete - nexo (red)
 netodone - cargar (subir)  
 netogete - descargar  
 netoloke - sitio web  
+neu - nuevo  
+• nevia - novedad  
+• nevaje - novedad  
+• nevike - novato  
+• reneve - renovar  
+Neu Kaledonia - Nueva Caledonia  
+neu Zelandia - Nueva Zelanda  
+neufite - planta neófita  
+neugene - neonato (recién nacido)  
+neuloge - neologismo  
+neuyangike - moderno  
 Nevis - Nieves  
 neure - nervio (neural)  
 neurocel - neurona  
@@ -2359,7 +2363,6 @@ nobelium - nobelio
 noce - noche  
 nocomode - modo nocturno  
 node - nudo (hacer un nudo)  
-nof - nueve (9)  
 nole - cancelar  
 nome - organizar (gestionar)  
 • nomia - gerencia (dirección)  
@@ -2396,17 +2399,8 @@ note - notar (observar; nota)
 • notife - avisar (notificar)  
 • notize - aviso (notificación)  
 notobuke - cuaderno (libreta)  
-nove - nuevo  
-Nove Zelandia - Nueva Zelanda  
-• novia - novedad  
-• novaje - novedad  
-• novike - novato  
-• renove - renovar  
-Nove Kaledonia - Nueva Caledonia  
-novofite - planta neófita  
-novojene - neonato (recién nacido)  
-novoyange - moderno  
-novologe - neologismo  
+nove - nueve (9)  
+• novime - noveno (nono)  
 nude - desnudo  
 • nudisme - nudismo  
 • nudiste - nudista  
@@ -2522,7 +2516,7 @@ pante - pantalones
 papagai - loro (papagayo)  
 papai - papaya  
 papir - artículo (documento)  
-Papua Novi Ginia - Papúa Nueva Guinea  
+Papua Neu Ginia - Papúa Nueva Guinea  
 par - nivel  
 pare - equilibrado (par)  
 pari numbe - número par  
@@ -2586,10 +2580,13 @@ pende - colgar
 pende - colgar  
 • pendaje - colgante (pendiente)  
 penis - pene  
+pente - cinco (5)  
 pente - pintura  
 pente - pintar  
 • penter - pintor  
 pentobrox - pincel  
+pentofase - pentaedro  
+pentogone - pentágono  
 pere - pluma  
 perokardon - cardo burral  
 perde - pedo (peer)  
@@ -2942,7 +2939,7 @@ salte - sal
 Salvador - El Salvador  
 salve - salvar (rescatar)  
 • salver - salvador  
-same - equal (similar)  
+sam: - equal (similar)  
 • samike - similar  
 samodexan - compatriota  
 samemote - compasión  
@@ -3008,7 +3005,11 @@ senater - senador
 Senegal - Senegal  
 sense - sentido  
 sense - sentir (detectar)  
+sente - cien (100)  
 sente - palpar (tocar)  
+• pro sente - por ciento  
+senti- - centi- (por ciento)  
+sentimitre - centímetro  
 sere - serie  
 • seria - serie  
 • sereme - eslabón  
@@ -3034,23 +3035,21 @@ Sexel nesia - Seychelles
 siane - cian  
 Sibiria - Siberia  
 siborgium - seaborgio  
-side - silla (montura)  
-side - sentar  
-sidu - sentarse  
+side - sentarse  
+• sidel - silla (montura)  
 • inside - agacharse  
 • presidente - presidente  
-• visopresidente - vicepresidente  
+• visepresidente - vicepresidente  
 sife - definir (cualidad, atributo, descripción)  
 • sifive - descriptivo  
 sifolexe - adjetivo  
-sigar - cigarro (cigarillo)  
+sigare - cigarro (cigarillo)  
 siyahe - negro  
-sike - elegante (chic)  
 sikisme - sijismo  
 sikiste - sij  
 sikle - bicicleta  
-sikliste - ciclista  
-risikle - reciclar  
+• sikliste - ciclista  
+• risikle - reciclar  
 silike - silicio  
 silke - seda  
 simple - simple  
@@ -3059,19 +3058,15 @@ sine - señal (letrero, indicio)
 • desine - designar  
 • dusosine - ominoso (amenazador)  
 sina - pecho (seno, tórax)  
-sinakapse - caja torácica  
+sinakase - caja torácica  
 sinaplate - peto  
 sing - león  
 Singapur - Singapur  
-sir - secreto  
-sire - ocultar (esconder)  
-sire - secreto  
-siri mote - sigilo  
-siro motu - colarse  
-sirplan - complot (conspiración)  
+sir - secreto (ocultar, esconder)  
+siromote - sigilo (colarse)  
+siroplan - complot (conspiración)  
 sirke - círculo  
-sirke - rodear (cirundar)  
-sirke - redondo (circular)  
+• sirkize - rodear (cirundar)  
 sirkite - adoquín  
 siro - cero (ninguno)  
 sisme - agitar (sacudir)  
@@ -3081,10 +3076,10 @@ sisteme - sistémico
 site - ciudad  
 • sivike - cívico  
 • sivile - civil  
-• sivile - civilizado  
 • sivilia - civilización  
+• sivilize - civilizado  
 • sivopedia - educación cívica  
-six - seis (6)  
+sixe - seis (6)  
 • sixime - sixième  
 sixofase - hexaedro (cubo)  
 sixogon - hexágono  
@@ -3093,7 +3088,6 @@ skale - escalera
 skalotan - enredadera  
 Skandia - Escandinavia  
 skandium - escandio  
-oskandinavia - Escandinavia  
 skerte - falda  
 Skotia - Escocia  
 skulte - esculpir (escultura, estatua)  
@@ -3107,7 +3101,7 @@ soce - alternar (interactuar)
 • socia - sociedad  
 • socisme - socialismo  
 • sociste - socialista  
-soce ginse - género social  
+soce jinse - género social  
 soce media - redes sociales  
 sofe - sabio  
 • sofia - sabiduría  
@@ -3119,9 +3113,9 @@ soisaus - salsa de soja
 sol - sol  
 solocate - parasol  
 solocentaur - abrepuño  
-solestas - solsticio  
 soloful - girasol  
 solosistem - sistema solar  
+solostate - solsticio  
 Solomon nesia - Islas Salomón  
 some - dormir (sueño)  
 • somive - soñoliento (somnífero)  
@@ -3134,14 +3128,12 @@ Somaldex - Solamilandia
 son - sonido (audio; sonar)  
 sonomun - glotis  
 song - pino  
-sor - cerradura (candado)  
-sose - social  
+sore - cerradura (candado)  
 sosis - salchicha  
 Soto - Lesoto  
-speter - espectador  
 • speter - espectador  
 • inspete - inspeccionar (examinar, revisar, chequear)  
-sponge - esponja  
+sponje - esponja  
 sporte - deporte  
 • sportokan - gimnasio  
 • sporter - deportista  
@@ -3172,9 +3164,9 @@ suanpursipi hiyar - pepinillo
 Suati - Esuatini (Suazilandia)  
 sube - parte inferior  
 • subike - inferior  
-suboden - mañana (antes mediodía)  
-subyam - desayuno  
 suba - mañana  
+subaden - mañana (antes mediodía)  
+subayam - desayuno  
 sude - sur  
 • sudike - sureño  
 Sudi Amerike - Sudamérica  
@@ -3191,38 +3183,32 @@ suge - rápido
 sugometrer - velocímetro  
 sugude - rapidez (velocidad)  
 sui - agua  
-suye - acuoso  
 suigas - vapor  
 suiyau - sed  
 suikaboge - calabaza de peregrino  
 suiminte - menta acuática  
+• suyos - acuoso  
 suirang - acuarela  
 suisekure - impermeable (sumergible)  
 suipade - catarata (cascada, caída de agua)  
 Suisia - Suiza  
-suke - gustar (complacer)  
 suke - feliz  
-suku - gustarse (disfrutar)  
+• sukife - gustar (complacer)  
 sukar - azúcar  
-sukari - azucarado  
+• sukaros - azucarado  
 sukarbete - remolacha azucarera  
 sukar gana - caña de azúcar  
 sulfe - azufre  
-sulte - reinar (gobernar)  
-sultia - poder (autoridad, competencia)  
-sultan - gobernante (soberano)  
+sultan - sultán  
 sultania - sultanato  
-sum - suma (total)  
-sume - sumar  
-suno - pronto  
+sum - suma (total; sumar)  
 suome - finés  
 Suomia - Finlandia  
 supe - sopa  
-supere - maravilloso (magnífico)  
-supre - paso elevado  
-supre - sobrepasar  
+• super - maravilloso (magnífico)  
 supre - superior (más alto)  
-supro - sobre  
+• supraje - paso elevado  
+supropase - sobrepasar  
 suprize - sorpresa  
 Suria - Siria  
 Surinam - Surinam  
@@ -3249,10 +3235,7 @@ Taibei - Taipei
 taige - taiga  
 tail - baldosa (teja, azulejo)  
 Taivan - Taiwán  
-tal - fondo  
-tale - bajar  
-tale - bajo  
-tali moke - arbusto (mata)  
+Tajikostan - Tayikistán  
 talium - talio  
 taltexe - alfombra (tapete)  
 Talban - Taliban  
@@ -3279,7 +3262,6 @@ taxe - tasa (precio, cuota, tarifa)
 taxe - gravar (cobrar tasas)  
 taxi gar - taxi (cab)  
 taze - fresco  
-Tazikia - Tayikistán  
 tehne - técnica  
 tehnium - tecnetio  
 tehnokratia - tecnocracia  
@@ -3616,6 +3598,7 @@ xibai - derrota (fracaso)
 xibai - perder (fallar)  
 xibayer - perdedor  
 • dexibai - perder  
+xike - elegante (chic)  
 xim - corazón  
 xin - creencia (fe)  
 xine - creer  

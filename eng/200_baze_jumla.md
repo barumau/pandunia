@@ -449,7 +449,7 @@ I have a good house.
 **ya no ten pesa.**
 He/she doesn't have money.
 
-**mi vol ten un nove telefon.**
+**mi vol ten un neu telefon.**
 I want to have a new phone.
 
 **sual tu ten yo ben?**
@@ -1002,7 +1002,7 @@ I will buy a beer.
 **ya e ke yang?**
 What is it like?
 
-**sual ya e nove?**
+**sual ya e neu?**
 Is it new?
 
 **ke e max boni?**

@@ -90,7 +90,7 @@ ar - air
 arame - metallin  
 aranha - arane  
 arbitrário - no ham di  
-arbusto (mata) - tali moke  
+arbusto (mata) - dipe moke  
 arco - arke  
 areia - sable  
 areia movediça - movosable  
@@ -170,8 +170,6 @@ base - baze
 basebol (beisebol) - baze bol  
 basketball - baske bol  
 bastante (suficiente) - bas  
-batalha - batal  
-batalhão - batalon  
 baía (golfo) - haisake  
 bebê - bebe  
 beleza - meyia  
@@ -282,7 +280,7 @@ catchup - kecape
 cavar (escavar) - kave  
 caçar - yege  
 cebola - piaze  
-cem (100) - cente  
+cem (100) - sente  
 cemitério - gabrostan  
 cenoura - karote  
 centro - zung  
@@ -315,8 +313,8 @@ chá - cai
 chá mate - mate cai  
 ciclista - sikliste  
 cidade - site  
-cigarro - sigar  
-cinco (5) - lime  
+cigarro - sigare  
+cinco (5) - pente  
 cintilar - xingofote  
 cinéfilo - kinofilike  
 citologia - celolojia  
@@ -342,7 +340,7 @@ como - ke mode
 compaixão - samemote  
 comparar - konpare  
 compatriota (compatrício) - konpatrian  
-complô (conspiração) - sirplan  
+complô (conspiração) - siroplan  
 comportamento (conduta) - manir  
 comprar (compras) - xope  
 computador - konputer  
@@ -352,7 +350,6 @@ condutor (chofer, motorista) - xofer
 conduzir - xofe  
 conectar - konnete  
 conector - konnetor  
-conexão (vínculo, laço) - linke  
 conexão - konnetion  
 confiar (contar com) - krede  
 Confúcio - Kongfuze  
@@ -369,6 +366,7 @@ contêiner - intener
 contêiner - kontener  
 copernício - kopernikium  
 copo (taça) - kupe  
+copo - glasokupe  
 cor - rang  
 coral - koral  
 corda (cabo) - kable  
@@ -479,7 +477,7 @@ docente - dokente
 documento - dokum  
 documentário - dokumfilme  
 dois (2) - du  
-domingo - den ceti  
+domingo - den cete  
 doméstico - domike  
 domínio - dominia  
 dor de cabeça - sarotunge  
@@ -554,12 +552,11 @@ eslavo - slave
 esmeralda - zumurude  
 espada - katane  
 espaço - kali harfe  
-espectador - speter  
 espelho - miror  
 espetador - speter  
 espirrar - aci  
 espodossolo - huidarte  
-esponja - sponge  
+esponja - sponje  
 esporte - sporte  
 esposo ou esposa - gamike  
 esquecer - dememe  
@@ -614,7 +611,7 @@ fazenda (tecido) - texe
 fazer (fato, facto) - fete  
 fazer - fe  
 fazer malabarismo - jongle  
-fechadura - sor  
+fechadura - sore  
 feio - dusvide  
 feito (feitura) - feture  
 feliz - suke  
@@ -754,7 +751,7 @@ idoso - lave
 ignorante - annosike  
 ignorar - annose  
 igual (par) - pare  
-igual - same  
+igual - sam:  
 imigrante - inmigrer  
 imigrar - inmigre  
 imitar (mimetizar) - mime  
@@ -1037,7 +1034,7 @@ necessitar (necessidade) - yau
 necessário - beyau  
 necrofilia - nekrofilisme  
 neodímio - neodimium  
-neologismo - novologe  
+neologismo - neuloge  
 neptúnio - nepotunium  
 Netuno - Nepotun  
 neurotoxina - neurotoxe  
@@ -1054,16 +1051,17 @@ nióbio - niobium
 nobélio - nobelium  
 noite - noce  
 noitinha - xam:  
+nono - novime  
 norma (normal) - norme  
 norte - norde  
 nosso - mimen su  
 nostalgia (saudade) - nostalgia  
 nota - note  
-novato (neófito) - novike  
-nove (9) - nof  
-novidade - novaje  
-novidade - novia  
-novo - nove  
+novato (neófito) - nevike  
+nove (9) - nove  
+novidade - nevaje  
+novidade - nevia  
+novo - neu  
 noção - nosion  
 nudismo - nudisme  
 nuvem - nepe  
@@ -1087,7 +1085,7 @@ obrigado - xukre
 obsidiana - osidian  
 oceano - daihai  
 ocular - okule  
-ocultar (esconder) - sire  
+ocultar (esconder) - sir  
 ocupado (atarefado) - mange  
 ode - ode  
 oeste - veste  
@@ -1175,6 +1173,7 @@ peido (peidar) - perde
 pele - pil  
 pender - pende  
 penso (band-aid) - glutobende  
+pentágono - pentogone  
 pepino - hiyar  
 pepino-africano (kiwano) - kornomelon  
 pepino-do-mar (holotúrias) - haihiyar  
@@ -1220,7 +1219,7 @@ ponta (pico, bico) - pike
 ponta do dedo - angulpike  
 ponte - pul  
 ponteiro - dikobaton  
-por cento - pro cente  
+por cento - pro sente  
 por exemplo - a misal  
 por muito tempo - a longe dure  
 poro - pore  
@@ -1297,7 +1296,7 @@ quando - ke sate
 quarta-feira - den tri  
 quarto (dormitório) - somokamar  
 quartzo - kuarze  
-quatro (4) - car  
+quatro (4) - catre  
 que (como) - ka  
 queijo - kize  
 queijo fresco - panir  
@@ -1309,7 +1308,7 @@ querido - amike
 quiabo - bamia  
 quimono - kimono  
 quincã (cunquate) - kankuate  
-quinta-feira - den nelu  
+quinta-feira - den catre  
 quivi - kivi  
 química - kimolojia  
 
@@ -1339,14 +1338,13 @@ receptor - receper
 recepção - recepion  
 reciclar - risikle  
 reconhecer - rinose  
-recém-nascido - novojene  
+recém-nascido - neugene  
 referir - refere  
 refugo (escória) - laze  
 regenerar - rigenerate  
 regime - politomode  
 reinar - reje  
 relato - reporte  
-relier (connecter) - linke  
 religião - din  
 relógio - horloger  
 remover - kitane  
@@ -1432,7 +1430,7 @@ sede - suiyau
 segunda-feira - den un  
 seguro - sekure  
 seio (mama) - mam  
-seis (6) - six  
+seis (6) - sixe  
 selva (floresta) - van:  
 selvagem (silvestre) - jangle  
 selénio - selenium  
@@ -1450,7 +1448,7 @@ serraría - xerokan
 sete (7) - cete  
 sexo - jense  
 sexologia - sexolojia  
-sexta-feira - den lima  
+sexta-feira - den pente  
 significar (querer dizer) - seme  
 silencioso - tixe  
 silêncio - tixia  
@@ -1480,11 +1478,12 @@ subjugar - subyuge
 substância - kime  
 suco (sumo) - jus  
 sul - sude  
+sultán - sultan  
 suor - suede  
 superestimar (sobrestimar) - maxorai  
 suástica (cruz gamada) - hukokrus  
 suástica - suesike  
-sábado - den luka  
+sábado - den sixe  
 São Paulo - Sante Paulo  
 série (sequência) - sere  
 série (sequência) - seria  
@@ -1627,7 +1626,7 @@ vestir - fuke
 vez - mar  
 vice-rei - visereger  
 vida - jive  
-vidro - kance  
+vidro - glas  
 violinista - violiste  
 violino - viole  
 violoncelo - daiviole  
@@ -1644,7 +1643,7 @@ vogal - zungofon
 vogal - vokal son  
 vosso - tumen su  
 voto (votar) - vote  
-vulcão - hogosan  
+vulcão - hogoxan  
 vulva - vulve  
 vários - vare  
 Vénus - Venus  

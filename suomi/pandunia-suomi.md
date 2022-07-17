@@ -41,13 +41,16 @@ Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kann
 a - luona (-lla, -ssa)  
 a intre - sisällä (sisäpuolella)  
 a ke - missä?  
+a korte - pian  
 a le - siellä (tuolla)  
 a long - pitkästi (kauas)  
 a longe dure - kauan (pitkän aikaa)  
-a nove - äsken (vasta, juuri)  
+a misal - esimerkiksi  
+a neu - äsken (vasta, juuri)  
 a proxe - lähes (melkein)  
 a sababe de - koska (johdosta, takia)  
 a sube - alla  
+a supre - yllä (pääll)  
 a vere - todella  
 a xukre de - ansiosta  
 a zay den - tänään  
@@ -311,7 +314,6 @@ bas - tarpeeksi (riittävästi)
 basen - allas  
 baske - kori  
 baske bol - koripallo  
-bate - lyödä (iskeä)  
 bate - kahdeksan (8)  
 batosenter - mustekala  
 bata - sorsa (ankka)  
@@ -322,13 +324,14 @@ batonpang - patonki (ranskanleipä)
 batre - akku (paristo)  
 bau - aarre (arvokas)  
 bavite - jalokivi  
-baze - perusta (perustus; perustaa)  
+baze - pohja (perusta, perustus; perustaa)  
+• bazike - perus-  
+• bazer - perustaja  
 baze bol - baseball (amerikkalainen pesäpallo)  
 bazokanun - perustuslaki  
 bazopetre - peruskallio  
-bazer - perustaja  
-bazoxulkan - ala-aste  
 bazostrute - perusrakenne (infrastruktuuri)  
+bazoxulkan - ala-aste  
 bazar - tori (basaari)  
 bazarhurisme - markkinaliberalismi  
 be - läpikäydä (passiivin muodostava verbi)  
@@ -493,11 +496,11 @@ cante - laulaa (laulu)
 cantergrupe - kuoro  
 cape - painaa (leimata, printata; leima, painauma)  
 capati - chapati  
-car - neljä (4)  
-carogalope - neli (kiitolaukka)  
-carogone - neliö  
 carme - vetovoima (šarmi)  
 cate - katto (katos)  
+catre - neljä (4)  
+catrogalope - neli (kiitolaukka)  
+catrogone - neliö  
 cau - ruoho  
 caustan - ruohotasanko  
 Cehia - Tšekki  
@@ -508,10 +511,6 @@ celsius darge - celsiusaste
 ceng - kerros  
 cense - sensuroida  
 • censer - sensori (sensuroija)  
-cente - sata (100)  
-• pro cente - prosentti  
-centi - sentti  
-centimitre - senttimetri (cm)  
 cepe - ottaa kiinni (napata, kaapata, siepata)  
 • cepure - sieppaus  
 • acepe - ottaa vastaan  
@@ -663,10 +662,10 @@ den - vuorokausi
 den un - maanantai  
 den du - tiistai  
 den tri - keskiviikko  
-den nelu - torstai  
-den lima - perjantai  
-den luka - lauantai  
-den ceti - niedziela  
+den catre - torstai  
+den pente - perjantai  
+den sixe - lauantai  
+den cete - niedziela  
 denge - odottaa  
 des - kymmenen (10)  
 deskilo - sata tuhatta  
@@ -703,6 +702,7 @@ dinamite - dynamiitti
 dinde - kalkkuna  
 ding - naula (piikki)  
 Dione - Dione  
+dipe - matala  
 dise - hajauttaa (hajanainen; hajalla)  
 diske - kiekko (levy)  
 disprosium - dysprosium  
@@ -1161,6 +1161,9 @@ ginge - pitkittäinen
 gingoline - loimi  
 gitar - kitara  
 giuke - jade  
+glas - lasi (lasimateriaali)  
+• glasize - lasite  
+glasokupe - lasi (juomalasi)  
 glise - liukua (luistaa)  
 globe - maailman-  
 glute - liima (liimata)  
@@ -1341,8 +1344,8 @@ hoge - tuli
 hoge - polttaa  
 hoge - tulinen  
 hogu - palaa  
-hogosanduke - lyhty  
 hogite - piikivi  
+hogosanduke - lyhty  
 hoke - hockey (jääkiekko)  
 hole - koko (kokonainen)  
 • holia - kokonaisuus  
@@ -1558,8 +1561,8 @@ kalsomate - kalkki
 kalsopetre - kalkkikivi  
 kame - himo (seksuaalinen halu)  
 kamar - huone  
-kamartal - lattia  
-Kambozia - Kambodja  
+kamardipe - lattia  
+Kambojia - Kambodja  
 Kamerun - Kamerun  
 kamil - kamomilla  
 kamis - paita  
@@ -1573,7 +1576,6 @@ kan - paja (tekimö)
 Kanade - Kanada  
 kanal - kanava (kanaali)  
 kanape - sohva  
-kance - lasi  
 kande - makeinen (karkki, karamelli)  
 kandel - kandela  
 kang - kampa  
@@ -1843,7 +1845,7 @@ Kuke nesia - Cookin saaret
 kukokamar - keittiö  
 kuker - kokki  
 kuku - käki  
-kule - upea (hieno)  
+kul - upea (hieno)  
 kulombe - kulombi (mittayksikkö C)  
 kultur - kulttuuri  
 kume - kumpu (kasa, läjä)  
@@ -1916,6 +1918,7 @@ lense - harjoitus
 lense - harjoitella (treenata)  
 lente - hidas  
 letis - lehtisalaatti  
+leu - jo  
 lexe - sana  
 • lexia - sanasto  
 • lexeme - lekseemi  
@@ -1946,9 +1949,6 @@ lilite - sorakivi
 lilake - syreeni  
 lilake - violetti (liila)  
 lime - raja  
-lime - viisi (5)  
-limfas - viisitahokas (prisma)  
-limgon - viisikulmio  
 • anlimia - äärettömyys (rajattomuus)  
 • tralime - liikaa  
 limfa - lymfa  
@@ -1969,8 +1969,6 @@ lingue - kieli (kommunikaatio)
 lingue ginse - kieliopillinen suku  
 linguokanun - kielioppi  
 linguolojia - kielitiede (lingvistiikka)  
-linke - yhdistys (sidos)  
-linke - yhdistää  
 lise - sileä  
 lisan - kieli (elin)  
 liste - lista (luettelo)  
@@ -1978,7 +1976,6 @@ inliste - sisällysluettelo
 litium - litium  
 litre - litra  
 live - jäädä (jättää)  
-liu - jo  
 • livaje - jäännös (loput)  
 livermorium - livermorium  
 lobake - retikka (retiisi)  
@@ -2019,12 +2016,12 @@ lun - kuukausi
 lun un - tammikuu  
 lun du - helmikuu  
 lun tri - maaliskuu  
-lun nelu - huhtikuu  
-lun lima - toukokuu  
-lun luka - kesäkuu  
-lun ceti - heinäkuu  
-lun bati - elokuu  
-lun nuve - syyskuu  
+lun catre - huhtikuu  
+lun pente - toukokuu  
+lun sixe - kesäkuu  
+lun cete - heinäkuu  
+lun bate - elokuu  
+lun nove - syyskuu  
 lun des - lokakuu  
 lun des un - marraskuu  
 lun des du - joulukuu  
@@ -2256,7 +2253,6 @@ mise - lähettää
 • tramision - välitys (siirtäminen, lähetys)  
 • tramisor - lähetin  
 misal - esimerkki  
-a misal - esimerkiksi  
 miskin - kurja (raukka)  
 misre - egyptiläinen  
 Misria - Egypti  
@@ -2429,6 +2425,16 @@ nete - verkosto
 • konnetor - liitin  
 • dekonnete - katkaista yhteys  
 netoloke - nettisivu  
+neu - uusi (vasta tehty, käyttämätön)  
+• nevia - uutuus  
+• nevaje - uutuus (uutuustuote)  
+• nevike - noviisi (uusikko, vasta-alkaja)  
+• reneve - uudistaa  
+Neu Kaledonia - Uusi-Kaledonia  
+neu Zelandia - Uusi-Seelanti  
+neufite - tulokaskasvi (neofyytti)  
+neugene - vastasyntynyt  
+neuloge - uudissana  
 Nevis - Nevis  
 neure - hermo  
 neurocel - hermosolu (neuroni)  
@@ -2457,7 +2463,6 @@ noce - yö
 nocomode - yömoodi  
 node - solmia (solmu)  
 • nodule - myky  
-nof - yhdeksän  
 nome - järjestellä (hallinnoida, organisoida, manageroida)  
 • nomia - hallinto (hallinnointi)  
 norde - pohjoinen  
@@ -2493,16 +2498,8 @@ note - huomio (kommentti, merkintä; huomata, hoksata))
 • notife - huomauttaa  
 • notize - huomautus  
 notobuke - muistikirja  
-nove - uusi  
-Nove Zelandia - Uusi-Seelanti  
-• novia - uutuus  
-• novaje - uutuus (uutuustuote)  
-• novike - noviisi (uusikko, vasta-alkaja)  
-• renove - uudistaa  
-Nove Kaledonia - Uusi-Kaledonia  
-novofite - tulokaskasvi (neofyytti)  
-novojene - vastasyntynyt  
-novologe - uudissana  
+nove - yhdeksän (9)  
+• novime - yhdeksäs  
 nude - alaston (paljas, naku)  
 • nudisme - nudismi  
 • nudiste - nudisti  
@@ -2619,7 +2616,7 @@ panke - siipi
 pante - housut  
 papagai - papukaija  
 papai - papaija  
-Papua Novi Ginia - Papua Uusi-Guinea  
+Papua Neu Ginia - Papua Uusi-Guinea  
 par - taso  
 pare - tasoittaa (tasata)  
 pare - tasainen (tasavertainen)  
@@ -2699,10 +2696,13 @@ pende - roikuttaa
 • apende - kiinnittää oheen riippumaan  
 • apendaje - liite  
 penis - siitin (penis)  
+pente - viisi (5)  
 pente - maalata  
 pente - maalata  
 • penter - maalari  
 pentobrox - pensseli (sivellin)  
+pentofase - viisitahokas (prisma)  
+pentogone - viisikulmio  
 pere - sulka  
 perde - pieru (pierrä, pieraista)  
 Peru - Peru  
@@ -2859,11 +2859,11 @@ pujorite - rituaali (seremonia, riitti)
 pul - silta  
 pulmon - keuhko  
 pulse - työntää (puskea)  
-• repulse - työntää pois  
-• repulsive - luotaantyöntävä  
 • pulsation - pulssi (syke)  
 • inpulse - työntää sisään  
 • propulse - työntää eteen päin  
+• repulse - työntää pois  
+• repulsive - luotaantyöntävä  
 punte - piste (täplä)  
 pupe - nukke  
 pure - täyttää  
@@ -3061,7 +3061,7 @@ salte - suola
 Salvador - El Salvador  
 salve - pelastaa  
 • salver - pelastaja  
-same - sama (yhtäläinen)  
+sam: - sama (yhtäläinen)  
 • sames - samuus  
 • samike - samanlainen  
 samodexan - samanmaalainen (maanmies)  
@@ -3125,7 +3125,11 @@ Senegal - Senegal
 sense - aisti  
 sense - aistia  
 • senser - sensori (aistin)  
+sente - sata (100)  
 sente - tuntea  
+• pro sente - prosentti  
+senti- - sentti  
+sentimitre - senttimetri (cm)  
 sere - sarja  
 • seria - sarja  
 • sereme - ketjun lenkki  
@@ -3151,18 +3155,17 @@ Sibiria - Siperia
 siborgium - seaborgium  
 side - istua  
 • presidente - presidentti  
-• visopresidente - varapresidentti  
+• visepresidente - varapresidentti  
 sife - määritellä (luonnehtia; laatu, ominaisuus, ominaispiirre, määrite)  
 • sifive - kuvaileva (määrittelevä)  
 sifolexe - adjektiivi (laatusana)  
-sigar - savuke tai sikari  
+sigare - savuke tai sikari  
 siyahe - musta  
-sike - elegantti  
 sikisme - sikhiläisyys  
 sikiste - sikhi  
 sikle - pyörä (polkupyörä, moottoripyörä)  
-sikliste - pyöräilyn harrastaja  
-risikle - kierrättää  
+• sikliste - pyöräilyn harrastaja  
+• risikle - kierrättää  
 silike - pii  
 silke - silkki  
 simple - yksinkertainen (mutkaton)  
@@ -3170,24 +3173,23 @@ simple - yksinkertainen (mutkaton)
 sine - merkki (signaali)  
 • asine - merkitä jlkn  
 sina - rinta  
-sinakapse - rintakehä  
+sinakase - rintakehä  
 sing - leijona  
 Singapur - Singapore  
 sir - salainen  
-sire - salainen  
-sirplan - juoni (salaliitto)  
+siroplan - juoni (salaliitto)  
 sirke - piiri (ympyrä)  
-sirke - ympäröidä (piirittää)  
-sirke - pyöreä  
+• sirkize - ympäröidä (piirittää)  
+• sirkule - ympyrä  
 sirkite - mukulakivi  
 siro - nolla (ei yhtään)  
 sismolojia - seismologia  
 sistem - järjestelmä (systeemi)  
 site - kaupunki  
-• sivile - sivistynyt  
 • sivilia - sivilisaatio  
+• sivilize - sivistynyt  
 • sivopedia - kansalaistaito  
-six - kuusi (6)  
+sixe - kuusi (6)  
 • sixime - kuudes (6.)  
 sixofase - kuutio (kuusitahokas)  
 sixogon - kuusikulmio  
@@ -3197,7 +3199,6 @@ skale - portaikko (rappuset, tikkaat; skaala)
 skalotan - köynnös  
 Skandia - Skandinavia  
 skandium - skandium  
-oskandinavia - Skandinavia  
 skerte - hame  
 skope - katselulaite (skooppi)  
 Skotia - Skotlanti  
@@ -3222,8 +3223,8 @@ soimilke - soijamaito
 soisaus - soijakastike  
 sol - aurinko  
 solocate - aurinkovarjo  
-solestas - päivänseisaus  
 solosistem - aurinkokunta  
+solostate - päivänseisaus  
 Solomon nesia - Salomon-saaret  
 some - nukkua (nukkuminen, uni)  
 • somive - unelias  
@@ -3236,18 +3237,16 @@ son - ääni (ääntää, päästää ääni)
 sonomun - äänirako  
 song - mänty  
 • desore - avata lukko (lukitsematon)  
-sose - yhteiskunnallinen (sosiaalinen)  
 sosis - makkara  
 Soto - Lesoto  
 spete - katsoa (tarkastella)  
-speter - katsoja (tarkkailija)  
-• speter - katsoja  
+• speter - katsoja (tarkkailija)  
 • aspete - katsanto  
 • despete - katsoa pois päin (halveksia)  
 • inspete - tarkastaa (tarkistaa, tutkia, tsekata)  
 • introspete - introspektio  
 • respete - katsoa silmiin (arvostaa)  
-sponge - sienieläin  
+sponje - sienieläin  
 sporte - urheilu  
 • sportokan - liikuntasali  
 • sporter - urheilija  
@@ -3283,8 +3282,8 @@ suane - hapan (kirpeä)
 Suati - Swazimaa  
 sube - alapuoli  
 • subike - ala-  
-subyam - aamiainen  
 suba - aamu  
+subayam - aamiainen  
 sude - etelä  
 • sudike - eteläinen  
 Sudi Amerike - Etelä-Amerikka  
@@ -3300,29 +3299,26 @@ suge - nopea (pikainen, vauhdikas)
 sugometrer - nopeusmittari  
 sugude - nopeus (vauhti)  
 sui - vesi  
-suye - vetinen  
 suigas - höyry (vesihöyry)  
 suiyau - jano  
+• suyos - vetinen  
 suirang - vesiväri (akvarelliväri)  
 suisekure - vesitiivis  
 suipade - vesiputous  
 Suisia - Sveitsi  
-suke - ilostuttaa (tyydyttää)  
 suke - tyytyväinen (iloinen)  
-suku - pitää (tykätä, olla tyytyväinen jstkn)  
+• sukife - ilostuttaa (tyydyttää)  
 sukar - sokeri  
-sukari - sokerinen (makea)  
+• sukaros - sokerinen (makea)  
 sulfe - rikki  
-sum - summa  
-sume - ynnätä (summata)  
-suno - pian  
+sultan - sulttaani  
+sum - summa (ynnätä, summata)  
 suome - suomalainen  
 Suomia - Suomi  
 supe - keitto (soppa)  
-supere - upea (mahtava)  
-supre - ylitys  
-supre - ylittää  
-supro - yllä (pääll)  
+• super - upea (mahtava)  
+• supraje - ylitys  
+supropase - ylittää  
 suprize - yllätys  
 Suria - Syyria  
 Surinam - Surinam  
@@ -3348,7 +3344,7 @@ Tai dexia - Thaimaa
 Taibei - Taipei  
 taige - taiga  
 Taivan - Taiwan  
-tal - pohja  
+Tajikostan - Tadžikistan  
 talium - tallium  
 talbe - hakea (pyrkiä; hakemus, pyrkimys)  
 Talban - Taliban  
@@ -3376,7 +3372,6 @@ taxe - veloittaa (verottaa)
 taxi gar - taksi  
 taxi metrer - taksamittari  
 taze - tuore (raikas)  
-Tazikia - Tadžikistan  
 tehne - tekniikka (keino, menetelmä)  
 tehnium - teknetium  
 tehnokratia - teknokratia  
@@ -3736,6 +3731,7 @@ xi - herra tai rouva
 xibai - epäonnistuminen  
 xibai - hävitä (kärsiä tappio)  
 xibayer - häviäjä  
+xike - elegantti  
 xim - sydän  
 xin - usko (luottamus)  
 xine - uskoa (luottaa)  

@@ -4,13 +4,16 @@
 
 a - przy, z, na, w, u  
 a ke - gdzie  
+a korte - wkrótce  
 a le - tu (tutaj, tam)  
 a line - online (na linii, w sieci)  
-a nove - właśnie, dopiero co, ostatnio, niedawno  
+a misal - na przykład  
+a neu - właśnie, dopiero co, ostatnio, niedawno  
 a proxe - blisko (niemal, prawie)  
 a retre - wstecz  
 a sababe de - ponieważ, bo  
 a sube - pod (poniżej)  
+a supre - nad  
 a zay den - dziś, dzisiaj  
 abete - jodła  
 able - móc, umieć  
@@ -240,7 +243,6 @@ bas - wystarczający
 basen - basen  
 baske - kosz  
 baske bol - piłka do koszykówki (koszykówka)  
-bate - bić, uderzyć, uderzać  
 bate - osiem (8)  
 batosenter - ośmiornica  
 bata - kaczka  
@@ -252,11 +254,11 @@ batonpang - bagietka
 batre - bateria  
 bau - skarb (skrabiec; cenny)  
 bavite - klejnot  
-baze - podstawa (baza, fundament; bazowy; zakładać (założyć, ustanowić)  
+baze - podstawa (baza, fundament, dół, spód; bazowy; zakładać, założyć, ustanowić)  
+• bazer - założyciel  
 baze bol - bejsbol (baseball)  
 bazokanun - konstytucja  
 bazopetre - skała macierzysta  
-bazer - założyciel  
 bazoxulkan - szkoła podstawowa  
 bazar - rynek, bazar  
 bazarhurisme - liberalizm rynkowy  
@@ -403,10 +405,10 @@ cante - śpiewać (piosenka, pieśń)
 cantergrupe - chór  
 cape - naciskać (zostawiać ślad; odcisk, ślad; stempel, pieczęć)  
 capati - płaski chleb, ćapati  
-car - cztery (4)  
-carogone - kwadrat (czworokąt, czworobok, tetragon)  
 carme - czar (urok, wdzięk)  
 cate - dach  
+catre - cztery (4)  
+catrogone - kwadrat (czworokąt, czworobok, tetragon)  
 cau - trawa  
 caustan - łąka  
 Cehia - Republika Czeska, Czechy  
@@ -415,10 +417,7 @@ cel - komórka (biologia)
 celolojia - cytologia  
 celsius darge - stopień Celsjusza  
 ceng - warstwa (poziom, piętro, kondygnacja)  
-cente - sto (100)  
 centaure - chaber  
-centi - centy-, procent, na sto, setna część  
-centimitre - centymetr  
 cepe - złapać, łapać, schwytać, chwytać  
 • excepe - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
 Ceres - Ceres (planeta karłowata)  
@@ -537,10 +536,10 @@ demon - demon
 den un - poniedziałek  
 den du - wtorek  
 den tri - środa  
-den nelu - czwartek  
-den lima - piątek  
-den luka - sobota  
-den ceti - niedziela  
+den catre - czwartek  
+den pente - piątek  
+den sixe - sobota  
+den cete - niedziela  
 denge - czekać  
 des - dziesięć (10)  
 deskilo - dziesięć tysięcy  
@@ -570,6 +569,9 @@ dinamite - dynamit
 dinde - indyk  
 ding - kolec  
 diorite - dioryt  
+dipe - niski  
+dipe moke - krzak (krzew)  
+• dipife - obniżać (obniżyć)  
 dise - rzadki (rozproszyć, rozpraszać;  rozrzedzony, rozproszony)  
 diske - dysk  
 disprosium - dysproz  
@@ -944,6 +946,9 @@ gidobuke - przewodnik
 giga - bilion, giga-  
 gitar - gitara  
 giuke - żad  
+glas - szkło  
+• glasize - szklić (glazurować; glazura, emalia)  
+glasokupe - szklanka  
 glise - ślizgać się (poślizgnąć się, jeździć na łyżwach)  
 globe - globalny  
 glute - lepić (kleić; klej)  
@@ -1112,12 +1117,12 @@ hoge - ogień
 hoge - spalić, palić  
 hoge - ognisty  
 hogu - spłonąć, płonąć  
-hogopuzia - kult ognia  
-hogosan - wulkan  
-hogosani kance - szkło wulkaniczne  
-hogosanduke - latarnia  
+hogopujia - kult ognia  
+hogoxan - wulkan  
 hogite - krzemień  
+hogosanduke - latarnia  
 hogotehne - pirotechnika  
+hogoxan glas - szkło wulkaniczne  
 hoke - hokej  
 hole - cały  
 • holia - całość (integralność)  
@@ -1312,9 +1317,9 @@ kalsomate - wapno
 kalsopetre - wapień  
 kame - pożądanie, żadza  
 kamar - pokój, sala  
+kamardipe - podłoga  
 kamargau - sufit  
-kamartal - podłoga  
-Kambozia - Kambodża  
+Kambojia - Kambodża  
 Kamerun - Kamerun  
 kamil - rumianek pospolity  
 kamis - koszula  
@@ -1329,9 +1334,6 @@ kanal - kanał
 kanale - kierować (doprowadzać, prowadzić, służyć jako kanał)  
 kanaler - przewód (kanał)  
 kanape - sofa, kanapa  
-kance - szkło  
-kancodake - glazura (emalia)  
-kancodake - szklić (glazurować)  
 kande - cukierek, słodycze  
 kandel - kandela  
 kang - grzebień  
@@ -1592,7 +1594,7 @@ Kuke nesia - Wyspy Cooka
 kukokamar - kuchnia  
 kuker - kucharz  
 kuku - kukułka  
-kule - świetny  
+kul - świetny  
 kulombe - kulomb  
 kultur - kultura  
 • polikulture - wielokulturowy  
@@ -1694,9 +1696,6 @@ lilite - kamyk
 lilake - lilak  
 lilake - liliowy  
 lime - limit, granica  
-lime - pięć (5)  
-limfas - pięciościan (pryzmat)  
-limgon - pięciokąt (pentagon)  
 • anlimia - nieskończoność  
 • belime - skończony (ograniczony)  
 • tralime - zbyt  
@@ -1715,8 +1714,6 @@ lingue - język
 lingue ginse - rodzaj gramatyczny  
 linguokanun - gramatyka  
 linguolojia - językoznastwo  
-linke - połączenie, złącze, styk  
-linke - łączyć, wiązać, złączyć  
 lise - gładki  
 lisan - język  
 liste - lista, spis, wykaz  
@@ -1762,12 +1759,12 @@ lun - miesiąc
 lun un - styczeń  
 lun du - maj  
 lun tri - czerwiec  
-lun nelu - lipiec  
-lun lima - sierpień  
-lun luka - wrzesień  
-lun ceti - październik  
-lun bati - listopad  
-lun nuve - grudzień  
+lun catre - lipiec  
+lun pente - sierpień  
+lun sixe - wrzesień  
+lun cete - październik  
+lun bate - listopad  
+lun nove - grudzień  
 lun des - luty  
 lun des un - marzec  
 lun des du - kwiecień  
@@ -1987,7 +1984,6 @@ mise - wysłać (wyemitować)
 • inmise - importować (zaimportować)  
 • konmisia - komisja (komitet)  
 misal - przykład  
-a misal - na przykład  
 miskin - biedny, mizerny  
 misre - egipski  
 Misria - Egipt  
@@ -2156,6 +2152,16 @@ nes - wyspa
 netodone - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 netogete - ściągać (ściągnąć, pobrać, pobierać)  
 netoloke - witryna internetowa (portal internetowy)  
+neu - nowy  
+• nevaje - nowość  
+• nevike - nowicjusz (nowa osoba)  
+• reneve - odnowić, odnawiać, uczynić nowym  
+Neu Kaledonia - Nowa Kaledonia  
+Neu Yorke - Nowy Jork  
+Neu Yorke site - Stan Nowy Jork  
+neu Zelandia - Nowa Zelandia  
+neuloge - neologizm  
+neuyangike - nowoczesne  
 Nevis - Nevis  
 neure - nerw  
 neurocel - neuron  
@@ -2185,7 +2191,6 @@ nobelium - nobel
 noce - noc  
 nocomode - tryb nocny  
 node - węzeł (zupeł; zawiązywać, zawiązać węzeł)  
-nof - dziewięć (9)  
 nome - zarządzać (organizować, kierować)  
 • nomia - zarządzanie (-nomia)  
 norde - północ  
@@ -2211,16 +2216,7 @@ note - uwaga (obserwacja; notować, obserwować, zauważyć, zauważać)
 • notife - powiadomić, powiadamiać  
 • notize - wiadomość, zawiadomienie, powiadomienie  
 notobuke - notatnik  
-nove - nowy  
-Nove Zelandia - Nowa Zelandia  
-• novaje - nowość  
-• novike - nowicjusz (nowa osoba)  
-• renove - odnowić, odnawiać, uczynić nowym  
-Nove Kaledonia - Nowa Kaledonia  
-Nove Yorke - Nowy Jork  
-Nove Yorke site - Stan Nowy Jork  
-novoyange - nowoczesne  
-novologe - neologizm  
+nove - dziewięć (9)  
 nude - nagi (goły, obnażony)  
 • nudisme - nudyzm  
 • nudiste - nudysta  
@@ -2329,7 +2325,7 @@ pante - spodnie (pantalony, portki)
 papagai - papuga  
 papai - papaja  
 papir - dokument  
-Papua Novi Ginia - Papua Nowa Gwinea  
+Papua Neu Ginia - Papua Nowa Gwinea  
 pare - równy  
 • paran - równy  
 • parike - równy  
@@ -2382,9 +2378,12 @@ pende - powiesić, wieszać
 pende - powiesić, wieszać  
 pendokardon - oset zwisły  
 penis - penis  
+pente - pięć (5)  
 pente - namalować, malować  
 pente - namalować, malować  
 • penter - malarz  
+pentofase - pięciościan (pryzmat)  
+pentogone - pięciokąt (pentagon)  
 pere - pióro  
 perokardon - ostrożeń lancetowaty  
 perde - pierdnięcie (pierdzieć)  
@@ -2566,9 +2565,9 @@ rande - hebel, strug
 rande - heblować  
 rang - kolor  
 range - kolorowy  
-rangi kance - witraż  
 rangarke - tęcza  
 rangarkosalmon - pstrąg tęczowy  
+rangoglas - witraż  
 rangomate - barwnik  
 rapsodia - rapsod  
 rare - rzadki (nieczęsty)  
@@ -2705,7 +2704,7 @@ salte - sól
 Salvador - Salwador  
 salve - ratować  
 • salver - ratownik  
-same - taki sam  
+sam: - taki sam  
 • samike - podobny (analogiczny)  
 samodexan - rodak, ziomek, krajan  
 samemote - współczucie  
@@ -2764,7 +2763,10 @@ Senegal - Senegal
 sense - zmysł  
 sense - czuć (poczuć, postrzegać, wykrywać)  
 • senser - sensor (detektor, czujka)  
+sente - sto (100)  
 sente - czuć  
+senti- - centy-, procent, na sto, setna część  
+sentimitre - centymetr  
 sere - seria, szereg  
 • seria - seria (szereg)  
 • serser - łańcuch  
@@ -2789,42 +2791,36 @@ Sexel nesia - Seszele
 siane - niebieskozielony (cyjan)  
 Sibiria - Syberia  
 siborgium - seaborg  
-side - siedzenie (siodło)  
 side - siedzieć  
-sidu - usiąść  
+• sidel - siedzenie (siodło)  
 • inside - kucać (kucnąć)  
 • presidente - prezydent  
-• visopresidente - wiceprezydent  
+• visepresidente - wiceprezydent  
 sife - opisać (zakwalifikować; cecha, właściwość, parametr)  
 • sifive - opisowy  
 sifolexe - przymiotnik  
-sigar - papieros (cygar)  
+sigare - papieros (cygar)  
 siyahe - czarny  
-sike - elegancki, szykowny  
 sikisme - sikhizm  
 sikiste - sikh  
 sikle - rower  
-sikliste - rowerzysta  
-risikle - przetwarzać  
+• sikliste - rowerzysta  
+• risikle - przetwarzać  
 silike - krzem  
 silke - jedwab  
 simple - prosty, nieskomplikowany  
 sine - znak, sygnał  
 • dusosine - złowieszczy  
 sina - pierś  
-sinakapse - klatka piersiowa  
+sinakase - klatka piersiowa  
 sinaplate - napierśnik  
 sing - lew  
 Singapur - Singapur  
-sir - sekret  
-sire - chować (kryć)  
-sire - sekret  
-siri mote - skradanie się  
-siro motu - skradać się  
-sirplan - spisek (konspiracja)  
+sir - sekret (chować, kryć)  
+siromote - skradać się  
+siroplan - spisek (konspiracja)  
 sirke - koło, okrąg  
-sirke - otoczyć, otaczać  
-sirke - okrągły  
+• sirkize - otoczyć, otaczać  
 sirkite - bruk  
 siro - zero, nic, żaden  
 sisme - trząść (machać; trzęsienie, machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
@@ -2833,9 +2829,9 @@ sistem - system
 sisteme - systemowy  
 site - miast, miasteczko  
 • sivile - cywilny  
-• sivile - cywilizowany (ucywilizowany)  
 • sivilia - cywilizacja  
-six - sześć (6)  
+• sivilize - cywilizowany (ucywilizowany)  
+sixe - sześć (6)  
 sixofase - sześcian (kostka)  
 sixogon - sześciokąt (sześciobok)  
 skale - schody (drabina)  
@@ -2844,7 +2840,6 @@ skale - schody (drabina)
 skalotan - pnącz  
 Skandia - Skandynawia  
 skandium - skand  
-oskandinavia - Skandynawia  
 skerte - spódnica  
 Skotia - Szkocja  
 skulte - rzeźbić (rzeźba)  
@@ -2857,7 +2852,7 @@ soce - socjalizować się
 • socia - społeczeństwo, system społeczny  
 • socisme - socjalizm  
 • sociste - socjalista  
-soce ginse - płeć społeczna  
+soce jinse - płeć społeczna  
 soce media - media społecznościowe  
 sofe - mądry  
 • sofia - mądrość  
@@ -2868,9 +2863,9 @@ soisaus - sos sojowy
 sol - słońce  
 solocate - parasol  
 solocentaur - chaber wełnisty  
-solestas - przesilenie  
 soloful - słonecznik  
 solosistem - układ słoneczny  
+solostate - przesilenie  
 Solomon nesia - Wyspy Salomona  
 some - spać (sen)  
 • desome - obudzić (budzić; przebudzony, przytomny)  
@@ -2881,14 +2876,13 @@ Somaldex - Somaliland
 son - dźwięk (brzmienie; brzmieć, wydać dźwięk, wydawać dźwięk)  
 sonomun - głośnia  
 song - sosna  
-sor - zamek (zapięcie)  
+sore - zamek (zapięcie)  
 sore - zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)  
 • desore - otworzyć (otwierać, odkluczyć; zakluczony))  
-sose - społeczny  
 sosis - kiełbasa  
 Soto - Lesotho  
 • inspete - sprawdzić (sprawdzać, skontrolować, zbadać)  
-sponge - gąbka  
+sponje - gąbka  
 sporte - sport, lekkoatletyka  
 • sporter - hałas  
 stadia - stadion, arena  
@@ -2912,9 +2906,9 @@ suanpursipi hiyar - korniszon
 Suati - Suazi  
 sube - spód  
 • subike - poniższy  
-suboden - przedpołudnie  
-subyam - śniadanie  
 suba - ranek, rano, poranek  
+subaden - przedpołudnie  
+subayam - śniadanie  
 sude - południe  
 • sudike - południowy  
 Sudi Amerike - Ameryka Południowa  
@@ -2931,38 +2925,31 @@ suge - szybki, prędki
 sugometrer - prędkościomierz  
 sugude - prędkość (szybkość)  
 sui - woda  
-suye - wodny  
 suigas - para wodna  
 suiyau - pragnienie  
 suikaboge - tykwa pospolita (kabalasz)  
 suiminte - mięta wodna  
+• suyos - wodny  
 suirang - akwarela (farba wodna)  
 suisekure - wodoodporny  
 suipade - wodospad  
 Suisia - Szwajcaria  
-suke - cieszyć, podobać się  
 suke - wesoły, ucieszony  
-suku - lubić, cieszyć się  
+• sukife - cieszyć, podobać się  
 sukar - cukier  
-sukari - słodki  
+• sukaros - słodki  
 sukarbete - burak cukrowy  
-sukarorange - pomarańcza słodka (pomarańcza chińska)  
 sukar gana - trzcina cukrowa  
+sukarorange - pomarańcza słodka (pomarańcza chińska)  
 sulfe - siarka  
-sulte - rządzić, władać  
-sultia - siła, autorytet, władza  
-sultan - władca  
-sum - suma  
-sume - zsumować, sumować, dodać, dodawać  
-suno - wkrótce  
+sum - suma (zsumować, sumować, dodać, dodawać)  
 suome - fiński  
 Suomia - Finlandia  
 supe - zupa  
-supere - wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super  
-supre - wiadukt, przejście powyżej  
-supre - przekroczyć, przekraczać, przejść nad, iść nad  
+• super - wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super  
 supre - górny  
-supro - nad  
+• supraje - wiadukt, przejście powyżej  
+supropase - przekroczyć, przekraczać, przejść nad, iść nad  
 suprize - zaskoczenie  
 Suria - Syria  
 Surinam - Surinam  
@@ -2985,10 +2972,7 @@ Taibei - Tajpej
 taige - tajga  
 tail - płyta  
 Taivan - Tajwan, Republika Chińska  
-tal - dół, spód  
-tale - obniżać (obniżyć)  
-tale - niski  
-tali moke - krzak (krzew)  
+Tajikostan - Tadżykistan  
 talium - tal  
 taltexe - dywan  
 tame - chciwy (żądny)  
@@ -3015,7 +2999,6 @@ taxe - zbierać opłaty lub podatki (zebrać opłaty lub podatki)
 taxi gar - taxi, taksówka  
 taxi metrer - taksometr  
 taze - świeży  
-Tazikia - Tadżykistan  
 tehne - technika, technologia  
 tehnium - technet  
 tehnokratia - technokracja  
@@ -3317,6 +3300,7 @@ xibai - przegrana (strata, porażka)
 xibai - przegrać, przegrywać  
 xibayer - przegrany, pokonany  
 • dexibai - stracić (utracić, tracić, zgubuć, gubić)  
+xike - elegancki, szykowny  
 xim - serce  
 xin - wiara, wierzenie, kredo  
 xine - wierzyć  
