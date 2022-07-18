@@ -24,7 +24,7 @@ agrovilaje - 农村
 ainstainium - 锿  
 air - 空气  
 anairobike - 厌氧的  
-airogun - 空军  
+airorde - 空军  
 airoporta - 飞机场  
 ais - 冰 (结冰)  
 aishoke - 冰球  
@@ -155,6 +155,9 @@ batonkase - 笼
 batre - 电池  
 bau - 宝 (宝贵)  
 bavite - 宝石  
+baxe - 语言  
+• trabaxe - 翻译  
+baxolojia - 语言学  
 baze - 底部  
 baze bol - 棒球  
 bazostrute - 基础设施  
@@ -192,9 +195,6 @@ bokserpante - 平角褲
 bol - 球  
 bombe - 炸弹  
 bon - 好  
-bondeke - 道德  
-bonsinye - 吉利的  
-bonvide - 好看  
 ribone - 修理  
 riboner - 修理工人  
 boron - 硼  
@@ -277,6 +277,7 @@ de - 从
 defkaske - 盔甲  
 defoban - 盾牌  
 dege - 得 (获得)  
+• sudeke - 道德  
 den - 日  
 den un - 星期一 (禮拜一)  
 den du - 星期二 (禮拜二)  
@@ -447,7 +448,7 @@ genotipe - 基因型
 • antigere - 反战  
 • posgere - 战后的  
 germanium - 锗  
-gestolingue - 手语  
+gestobaxe - 手语  
 gide - 导游  
 • gider - 导游  
 gidobuke - 指南  
@@ -479,9 +480,6 @@ guimuke - 鬼脸
 guipapil - 鬼罂粟 (東方罌粟)  
 guke - 菊花  
 gumle - 句子  
-gun - 军队  
-gunjen - 军人  
-gunreger - 大元帅  
 gute - 膝  
 
 ## H  
@@ -495,12 +493,12 @@ haialge - 海藻
 haiamirer - 海军上将  
 haicau - 海草  
 haiful - 海葵  
-haigel - 海蜇  
-haigun - 海军  
+haigele - 海蜇  
 haihiyar - 海參  
+haiorde - 海军  
 haiporta - 海港  
-haitate - 海岸  
 haisake - 海湾  
+haitate - 海岸  
 haima - 帐篷  
 hake - 权利  
 hal - 状态  
@@ -510,8 +508,10 @@ hamile - 怀孕
 hande - 手  
 handange - 胳膊  
 hape - 合适  
-harfia - 字母表  
+• harfaje - 字母表  
 Hartum - 喀土穆  
+haste - 忙  
+• anhaste - 慢  
 hate - 直到  
 hato - 连  
 hatre - 危险  
@@ -768,11 +768,11 @@ lefte - 左
 lenge - 冷たい (寒い)  
 lengomosim - 冬天  
 lense - 透镜  
-lente - 慢  
 letis - 莴苣  
 leu - 了  
 lexe - 词  
 • lexia - 词汇  
+lexojinse - 文法的性  
 leze - 梨  
 liame - 大羊駝  
 liboban - 架子 (搁板)  
@@ -788,9 +788,6 @@ limon jus - 柠檬水
 line - 线  
 lineme - 纤维  
 lince - 猞猁 (山貓)  
-lingue - 语言  
-lingue ginse - 文法的性  
-linguolojia - 语言学  
 lisan - 舌头  
 liste - 单子  
 litium - 锂  
@@ -832,7 +829,6 @@ makanful - 蒲公英
 • malonomia - 经济学  
 • be male - 属于  
 • mamalia - 哺乳纲  
-mange - 忙  
 mangan - 锰  
 maniisme - 摩尼教  
 manir - 方式  
@@ -861,6 +857,7 @@ mega - 百万 (兆)
 mei - 漂亮 (美)  
 • meyia - 美丽  
 • meyize - 装饰  
+meideke - 美德  
 mei jen - 美人  
 melon - 厚皮甜瓜 (蜜瓜)  
 meme - 记忆 (记性)  
@@ -888,7 +885,6 @@ mime - 模拟  (模仿)
 minte - 薄荷  
 • miraje - 海市蜃楼  
 • miror - 镜子  
-mirde - 微弱的  
 • misaje - 信息  
 • misioner - 传教士  
 • konmisia - 委员会  
@@ -912,9 +908,9 @@ mosim - 季
 moter - 马达 (发动机)  
 mul - 根  
 • mumaje - 木蜜亚 (地蜡)  
-mumcape - 封印  
 • mumike - 木乃伊  
 mummelon - 冬瓜 (白瓜)  
+mumcape - 封印  
 mun - 门  
 • daimun - 大门  
 mur - 墙壁  
@@ -1001,6 +997,9 @@ or - 耳
 oritis - 耳炎  
 orange - 橙子  
 orangi - 橙色  
+orde - 军队  
+ordorejer - 大元帅  
+ordojen - 军人  
 orkide - 兰花  
 orte - 直  
 oselote - 虎貓  
@@ -1236,6 +1235,7 @@ siyahe - 黑色
 silike - 硅  
 silke - 丝绸  
 • dusosine - 不祥的  
+• susine - 吉利的  
 sir - 隐藏  
 siroplan - 阴谋 (密谋)  
 sirkite - 鹅卵石  
@@ -1403,6 +1403,7 @@ veste - 西
 veze - 重型的  
 vide - 看  
 • dusvide - 难看  
+• suvide - 好看  
 vidou - 寡妇  
 • vilaje - 村  
 viole - 小提琴  

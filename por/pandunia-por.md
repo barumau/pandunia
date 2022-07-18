@@ -27,12 +27,14 @@ ainstainium - einstânio
 air - ar  
 airobike - aeróbico  
 anairobike - anaeróbico  
-airogun - força aérea  
+airorde - força aérea  
 airoporta - aeroporto  
 ais - gelar  
 aishoke - hóquei no gelo  
 aiskrem - sorvete (gelado)  
 ajibe - maravilha  
+• ajibable - maravilha  
+• ajibaje - milagre  
 akare - carrapato (ácaros)  
 akrabe - escorpião (lacrau)  
 ale - outro (alterar)  
@@ -159,6 +161,10 @@ batonkase - gaiola (jaula)
 batre - pilha (bateria)  
 bau - precioso  
 bavite - pedra preciosa (gema)  
+baxe - língua (idioma)  
+• duobaxike - bilíngue  
+• polibaxike - multilíngue (plurilíngue)  
+baxolojia - linguística  
 baze - base  
 baze bol - basebol (beisebol)  
 bazostrute - infraestrutura  
@@ -292,7 +298,6 @@ datobanke - banco de dados
 datoprocese - processamento de dados  
 datoprocesolojia - informática (ciência da computação)  
 de - de  
-debu - dever  
 defkaske - armadura  
 defoban - escudo  
 dege - ter (achar, receber)  
@@ -488,7 +493,7 @@ gere - guerra
 • posgere - pós-bélico  
 Germania - Germânia  
 germanium - germânio  
-gestolingue - linguagem de sinais  
+gestobaxe - linguagem de sinais  
 gide - guiar  
 • gider - guia  
 gitar - guitarra  
@@ -513,26 +518,24 @@ grave - cascalho
 • agreser - agressor  
 grupe - grupo  
 guimuke - careta (esgar)  
-gun - exército  
-gunjen - soldado  
-gunreger - generalíssimo  
 gute - joelho  
 
 ## H  
 
+ha - ter  
 hafnium - háfnio  
 hahe - rir  
 hai - mar  
-hai - marítimo  
+• hayike - marítimo  
 haialge - macroalga  
 haiamirer - almirante  
 haicau - erva marinha  
-haigel - medusa  
-haigun - marinha  
+haigele - medusa  
 haihiyar - pepino-do-mar (holotúrias)  
+haiorde - marinha  
 haiporta - porto marítimo  
-haitate - costa  
 haisake - baía (golfo)  
+haitate - costa  
 hake - direito  
 hal - estado  
 halo - alô  
@@ -542,9 +545,11 @@ hande - mão
 handange - braço  
 hape - apropriado (apto)  
 Hartum - Cartum  
-hasis - haxixe  
+haste - ocupado (atarefado)  
+• anhaste - lento  
 hate - até  
 hatre - perigo  
+haxix - haxixe  
 hei - ei  
 helium - hélio  
 helisviman - hélicoptero  
@@ -827,11 +832,11 @@ lefte - esquerdo
 lengomosim - inverno  
 lengomosime - invernal (hibernal)  
 lense - lente  
-lente - lento  
 letis - alface  
 lexe - palavra (vocábulo)  
 • lexia - vocabulário  
 • lexike - léxico  
+lexojinse - gênero gramatical  
 liame - lhama  
 liboban - prateleira (estante)  
 libele - libélula  
@@ -846,10 +851,6 @@ limon jus - limonada
 line - linha (fio)  
 lineme - fibra  
 lince - lince  
-lingue - língua (idioma)  
-• duolinguike - bilíngue  
-• polilinguike - multilíngue (plurilíngue)  
-lingue ginse - gênero gramatical  
 lisan - língua  
 liste - lista  
 litium - lítio  
@@ -898,7 +899,6 @@ Maka - Meca
 makanful - dente-de-leão (taráxaco)  
 • malonomia - economia  
 mam - seio (mama)  
-mange - ocupado (atarefado)  
 mangan - manganésio  
 maniisme - maniqueísmo  
 manir - comportamento (conduta)  
@@ -967,12 +967,8 @@ mimer - mímico
 • minuria - minoria  
 minrai - menosprezar (subestimar)  
 minte - hortelã  
-• mirable - maravilha  
 • miraje - miragem  
-• mirokle - milagre  
 • miror - espelho  
-• amire - admirar  
-mirde - fraco  
 • misaje - mensagem  
 • mision - missão  
 • misioner - missionário  
@@ -1005,6 +1001,7 @@ mul - raíz
 • mumike - múmia  
 mur - muro (muralha)  
 murkaguze - papel de parede  
+mus - dever  
 muskulobine - fisiculturismo  
 musli - muesli  
 muzike - música  
@@ -1104,6 +1101,9 @@ or - orelha
 oritis - otite  
 orange - laranja  
 orangi - alaranjado  
+orde - exército  
+ordorejer - generalíssimo  
+ordojen - soldado  
 orkide - orquídea  
 orte - reto  
 ortogone - ortogonal  

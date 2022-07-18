@@ -12,7 +12,7 @@
 | 5 pente | 15 des pente | 25 du des pente  | 35 tri des pente |
 | 6 sixe  | 16 des sixe  | 26 du des sixe   | 36 tri des sixe  |
 | 7 cete  | 17 des cete  | 27 du des cete   | 37 tri des cete  |
-| 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
+| 8 bate  | 18 des bate  | 28 du des bate   | 38 tri des bate  |
 | 9 nove  | 19 des nove  | 29 du des nove   | 39 tri des nove  |
 
 | Ones    |  Tens         | Hundreds        | Thousands        |
@@ -24,7 +24,7 @@
 | 5 pente | 50 pente des | 500 pente sente | 5000 pente kilo   |
 | 6 sixe  | 60 sixe des  | 600 sixe sente  | 6000 sixe kilo    |
 | 7 cete  | 70 cete des  | 700 cete sente  | 7000 cete kilo    |
-| 8 bati  | 80 bati des  | 800 bati sente  | 8000 bati kilo    |
+| 8 bate  | 80 bate des  | 800 bate sente  | 8000 bate kilo    |
 | 9 nove  | 90 nove des  | 900 nove sente  | 9000 nove kilo    |
 
 Greater numbers follow the same logic as above.
@@ -294,7 +294,7 @@ but this time the word
   – June
 7. **lun cete**
   – July
-8. **lun bati**
+8. **lun bate**
   – August
 9. **lun nove**
   – September

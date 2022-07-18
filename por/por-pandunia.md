@@ -22,7 +22,6 @@ actínio - acinium
 adesivo - glutograf  
 adjetivo - sifolexe  
 administrador - politer  
-admirar - amire  
 adversário - xatan  
 aeite (óleo) - nefte  
 aeroporto - airoporta  
@@ -184,7 +183,7 @@ bicho-papão - bubu
 bigorna - metalbede  
 bilhete - tikete  
 bilogia - duologia  
-bilíngue - duolinguike  
+bilíngue - duobaxike  
 biología - biolojia  
 bioma - biosistem  
 bioquímica - biokimia  
@@ -447,7 +446,7 @@ destino - nasibe
 destruir - destrute  
 deus - deu  
 devanágari - deunagre  
-dever - debu  
+dever - mus  
 dia (24 horas) - den  
 dia - yom  
 diagnose (diagnóstico) - dianose  
@@ -594,7 +593,7 @@ exterior - exe
 extra - extre  
 extrair - extrate  
 extrajudicial - exjude  
-exército - gun  
+exército - orde  
 exógeno - exogene  
 
 ## F  
@@ -635,11 +634,10 @@ fogos de artifício - hogotehne
 fome - yamyau  
 forma (modelar) - forme  
 força - balia  
-força aérea - airogun  
+força aérea - airorde  
 foto (fotografia) - fotograf  
 fotografia - fotografia  
 fraco (débil) - anbale  
-fraco - mirde  
 fragmento - parce  
 freixo - frasen  
 frâncio - fransium  
@@ -671,7 +669,7 @@ gaze - gaze
 gelar - ais  
 gelatina - gelatine  
 genealogia - genolojia  
-generalíssimo - gunreger  
+generalíssimo - ordorejer  
 generosidade - karimia  
 generoso (dadivoso, mão-aberta) - donive  
 genético - geneti  
@@ -708,12 +706,12 @@ Gália - Galia
 gálio - galium  
 gás - gas  
 gás lacrimogéneo - okosuigas  
-gênero gramatical - lingue ginse  
+gênero gramatical - lexojinse  
 
 ## H  
 
 haste (talo, caule) - tan  
-haxixe - hasis  
+haxixe - haxix  
 hemoglobina - hemoglobin  
 Hesse (Héssia) - Hesia  
 hidrogéno - hidre  
@@ -847,7 +845,7 @@ leite - milke
 leite de soja - soimilke  
 lembrar-se (recordar-se) - meme  
 lente - lense  
-lento - lente  
+lento - anhaste  
 leque - sanze  
 ler - duge  
 Letónia - Latvia  
@@ -859,7 +857,8 @@ limitado - belime
 limonada - limon jus  
 limão - limon  
 lince - lince  
-linguagem de sinais - gestolingue  
+linguagem de sinais - gestobaxe  
+linguística - baxolojia  
 linha (fio) - line  
 lista - liste  
 literatura - kitabia  
@@ -890,7 +889,7 @@ lápis-lazúli - lazurpetre
 lâmpada (luminária) - lampe  
 léxico - lexike  
 líder (chefe) - lider  
-língua (idioma) - lingue  
+língua (idioma) - baxe  
 língua - lisan  
 língua materna - genobase  
 lírio - susan  
@@ -922,16 +921,16 @@ manto - juba
 mantra - mantre  
 mar - hai  
 maravilha - ajibe  
-maravilha - mirable  
+maravilha - ajibable  
 marcha - marce  
 marfim - gaja dante  
 margarida - margarite  
 margarida-comum - englomargarite  
 margarita-maior - bakomargarite  
-marinha - haigun  
+marinha - haiorde  
 Marrocos - Magribia  
 Marte - Marse  
-marítimo - hai  
+marítimo - hayike  
 mas - ama  
 massa - mas  
 massa de modelar (massinha) - plastopaste  
@@ -942,7 +941,7 @@ mato (jângal) - jangle van
 matéria - mate  
 maçã - aple  
 Meca - Maka  
-medusa - haigel  
+medusa - haigele  
 meia - maze  
 meio (metade) - mide  
 meitnério - maitnerium  
@@ -971,7 +970,7 @@ microbiologia - mikrobiolojia
 microscópio - mikroskope  
 micróbio - mikrobia  
 migração (mudar-se) - migre  
-milagre - mirokle  
+milagre - ajibaje  
 mina - kuangia  
 minimalismo - minimisme  
 minoria - minuria  
@@ -1003,7 +1002,7 @@ Mover-se - kinu
 moyen - midi  
 mudança climática - klimomute  
 muesli - musli  
-multilíngue (plurilíngue) - polilinguike  
+multilíngue (plurilíngue) - polibaxike  
 mundo - dunia  
 muro (muralha) - mur  
 musgo - mos  
@@ -1086,7 +1085,7 @@ obsidiana - osidian
 oceano - daihai  
 ocular - okule  
 ocultar (esconder) - sir  
-ocupado (atarefado) - mange  
+ocupado (atarefado) - haste  
 ode - ode  
 oeste - veste  
 oito (8) - bate  
@@ -1469,7 +1468,7 @@ sogra - gamoma
 sogro - gamopa  
 soja - soi  
 sol - sol  
-soldado - gunjen  
+soldado - ordojen  
 som - son  
 sombrinha - solocate  
 sonolento - somive  
@@ -1517,6 +1516,7 @@ tenso - tense
 tentar (provar) - probe  
 teosofia - deusofia  
 ter (achar, receber) - dege  
+ter - ha  
 terminar (acabar, concluir) - purfine  
 Terra - Geia  
 terra natal - genostan  

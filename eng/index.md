@@ -72,7 +72,7 @@ You can find Pandunia forums in several places:
 
 You can find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
 
-Please help to [translate this site](tarja_netoloke.md) into new languages!
+Please help to [translate this site](trabaxe_netoloke.md) into new languages!
 
 ![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>

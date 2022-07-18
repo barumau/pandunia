@@ -58,13 +58,12 @@ adicional (extra) - maxaje
 adiós - sal cute  
 adjetivo - sifolexe  
 administrador - politer  
-admirar - amire  
 adoquín - sirkite  
 adorar (venerar; adoración, veneración, culto) - puje  
 adormidera (amapola real) - somopapil  
 adulterio - zine  
 adulto - matur  
-adverbo - modologe  
+adverbo - modolexe  
 adversario (oponente) - xatan  
 aeroplano - viman  
 aeropuerto - airoporta  
@@ -113,7 +112,7 @@ alcohólico (bebedor) - alkoliste
 aldea (villa) - vilaje  
 Alemania - Doice  
 alemán - doice  
-alfabeto - harfia  
+alfabeto - harfaje  
 alfabeto cirílico - kiril harfia  
 alfabeto latino - latini harfia  
 alfarero - poter  
@@ -254,7 +253,7 @@ arruinado (devastado, asolado) - harabe
 arruinar (destruir, devastar, asolar) - harabe  
 arsénico - arsene  
 arte - arte  
-arte marcial - jengoxute  
+arte marcial - jangoxute  
 artefacto - artofete  
 artesano - zanger  
 artista - artiste  
@@ -269,7 +268,7 @@ aserradero - xerokan
 asesino - morter  
 asexual - ansexe  
 Asia - Asia  
-Asiria - Asuria  
+Asiria - Axuria  
 asiático - ase  
 asma - asma  
 asociar - alige  
@@ -277,7 +276,7 @@ asombro - ajibia
 aspecto (parecer) - rupe  
 aspiradora - funcuper  
 aspirina - aspirin  
-Assur (Ashur) - Asur  
+Assur (Ashur) - Axur  
 astrobiologia - kosmobiolojia  
 astronauta - astronaver  
 astronave (nave estelar) - astronau  
@@ -293,7 +292,7 @@ atún - tuna
 auge (aumentar) - auge  
 aullar - ulule  
 aullido - ulul  
-auspicioso (propicio) - bonsinye  
+auspicioso (propicio) - susine  
 Australia - Australia  
 Austria - Ostria  
 Austronesia - Austronesia  
@@ -407,7 +406,7 @@ bicicleta - pedalsikle
 bicicleta - sikle  
 bienestar - salamia  
 bienvenido - sal lai  
-bilingüe - duolinguike  
+bilingüe - duobaxike  
 billete de ida y vuelta - retrotikete  
 bilogía - duologia  
 biología - biolojia  
@@ -460,7 +459,7 @@ Buda - Buda
 budismo - budisme  
 budista - budiste  
 buen provecho - sal yam  
-buena suerte - boni zar  
+buena suerte - bon zar  
 buenas noches - sal xam  
 buenas tardes - sal den  
 bueno - bon  
@@ -524,7 +523,7 @@ calcular (computar) - konpute
 calcular - hisabe  
 caldero - daipote  
 calendario - kalende  
-calidad (excelencia, mérito, virtud, ventaja) - bonsifia  
+calidad (excelencia, mérito, virtud, ventaja) - susifia  
 caliente (cálido) - garme  
 califa - halif  
 califato - halifia  
@@ -671,7 +670,7 @@ chinelo (pantufa) - babuce
 chino mandarín - Putong Cini  
 chinés (de los Han) - cine  
 Chipre - Kipris  
-Chipre del Norte - Nordi Kipris  
+Chipre del Norte - Norde Kipris  
 chisporrotear - zize  
 chito (chist) - tix  
 chocolate - coklate  
@@ -718,8 +717,7 @@ clon - klone
 clonar - klon  
 cloro - klorium  
 club - klube  
-coaccionar (forzar, obligar) - muse  
-coacción - mus  
+coacción (deber, necesitar; coaccionar, forzar, obligar) - mus  
 cobalto - kobalte  
 cobre - kupre  
 coca - koka  
@@ -791,7 +789,6 @@ comunicar (informar) - sabize
 comunismo - koncanisme  
 comunista - koncaniste  
 comunitario - komune  
-con (tener) - ha  
 concentración - fokuse  
 concentrar (enfocarse) - fokus  
 conceptual - ideike  
@@ -849,7 +846,7 @@ coral - koral
 corazón (núcleo) - kore  
 corazón - xim  
 Corea - Cosen  
-Corea del Norte - Nordi Cosen  
+Corea del Norte - Norde Cosen  
 Corea del Sur - Sudi Cosen  
 coro - cantergrupe  
 corona - koron  
@@ -954,7 +951,7 @@ césped (hierba) - cau
 círculo - sirke  
 cítrico - limonike  
 cívico - sivike  
-cóctel - mixi alkol  
+cóctel - alkolomixe  
 código (cifra) - kode  
 cólera - holera  
 cómo - ke mode  
@@ -984,10 +981,9 @@ de lado - lato
 de lujo - deluxe  
 debajo - a sube  
 debatir (discutir) - lone  
-deber (necesitar) - debu  
 deber (se recomienda) - sel  
-deci- - deci  
-decibelio - decibel  
+deci- - desi-  
+decibelio - desibel  
 deciembre - lun des du  
 decir (hablar; habla) - loge  
 declamar - deklame  
@@ -1064,7 +1060,7 @@ diente - dante
 dientes de león (panaderos) - makanful  
 diez (10) - des  
 diferencia - alosifia  
-diferenciar (distinguir) - hase  
+diferenciar (distinguir) - hasife  
 diferente - alosife  
 dificultad (apuro, privación) - dushal  
 Dinamarca - Dania  
@@ -1143,7 +1139,7 @@ dónde - a ke
 
 ## E  
 
-eco - mirsonde  
+eco - miroson  
 ecología - ekolojia  
 economía - malonomia  
 econtrar (hallar) - eureke  
@@ -1162,8 +1158,8 @@ Egipto - Misria
 einsteinium - ainstainium  
 eje - axe  
 ejemplo - misal  
-ejército - geogunia  
-ejército - gun  
+ejército - georde  
+ejército - orde  
 el (la) - la  
 El Salvador - Salvador  
 el uno al otro (mutuamente) - semen  
@@ -1282,7 +1278,7 @@ espada - katane
 espalda (lomo) - ruke  
 España - Espania  
 especia - masale  
-especial (diferenciado, distinto) - hase  
+especial (diferenciado, distinto) - has  
 especialización (distinción) - hasia  
 especie - zong  
 espectador - speter  
@@ -1343,7 +1339,7 @@ eviar por correo - poste
 evidente - exvidable  
 evidente - exvide  
 exacto (preciso; justo, exactamente) - juste  
-excelente - bonsife  
+excelente - susife  
 excepto (exceptuar) - excepe  
 excepto (menos) - minus  
 excluir - exkluze  
@@ -1451,7 +1447,7 @@ fuente (manantial) - fonte
 fuera (exterior) - exe  
 fuerte - bale  
 fuerza - balia  
-fuerza aérea - airogun  
+fuerza aérea - airorde  
 funcionar - funce  
 funcionario - ofiser  
 fundador - bazer  
@@ -1507,7 +1503,7 @@ gelatina - gelatine
 genealogía - genolojia  
 generación (cohorte) - genogrupe  
 general (common) - putonge  
-generalísimo (sogún) - gunreger  
+generalísimo (sogún) - ordorejer  
 generar (añadir) - zayife  
 generosidad (caridad) - karimia  
 generoso (dadivoso) - donive  
@@ -1561,7 +1557,7 @@ gracias a (merced a) - a xukre de
 grado Celsius - celsius darge  
 grafema - kitabeme  
 gramo (g) - gram  
-gramática - linguokanun  
+gramática - baxokanun  
 Granada - Grenada  
 Granadinas - Grenadin nesia  
 grande (crecer, aumentar) - dai  
@@ -1581,7 +1577,7 @@ grueso - grose
 grupo - grupe  
 Guadalupe - Guadelupe  
 Guam - Guam  
-guapo (bien parecido) - bonvide  
+guapo (bien parecido) - suvide  
 guarda (preservador, conservador) - hafizer  
 guarda-barros (aleta) - fangodefoban  
 Guatemala - Guatemala  
@@ -1605,7 +1601,7 @@ Guyana - Guyana
 Guyana Francesa - Franse Guyana  
 guía - gider  
 guía de viaje - gidobuke  
-género gramatical - lingue ginse  
+género gramatical - lexojinse  
 género social - soce jinse  
 
 ## H  
@@ -1617,7 +1613,7 @@ hacer (hecho) - fete
 hacer - fe  
 hacer malabarismos - jongle  
 hacha - futau  
-hachís - hasis  
+hachís - haxix  
 hafnio - hafnium  
 Haití - Haiti  
 halo (aureola) - fotosirke  
@@ -1728,7 +1724,7 @@ húmedo - xipete
 idea (noción, concepto) - ide  
 ideograma - ideograf  
 ideología (doctrina, religión, -ismo) - isme  
-idioma artificial (lengua construida, conlang) - fetolingue  
+idioma artificial (lengua construida, conlang) - fetobaxe  
 idiota (imbécil; estúpido, tonto) - idiote  
 iglesia - eglis  
 ignorante (ignaro) - annosike  
@@ -1834,7 +1830,7 @@ ira (furia) - furia
 Iraq - Irakia  
 iridio - iridium  
 Irlanda - Eire  
-Irlanda del Norte - Nordi Eire  
+Irlanda del Norte - Norde Eire  
 ironía - ironia  
 Irán - Iran  
 irónico - irone  
@@ -1971,13 +1967,13 @@ leer - duge
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele  
 lejos - a long  
-lengua (idioma) - lingue  
+lengua (idioma) - baxe  
 lengua - lisan  
 lengua materna - genobase  
-lengua mundial - dunia lingue  
-lenguaje de signos (lenguaje de señas) - gestolingue  
+lengua mundial - dunia baxe  
+lenguaje de signos (lenguaje de señas) - gestobaxe  
 lente - lense  
-lento (despacio) - lente  
+lento (despacio) - anhaste  
 Lesoto - Soto  
 Letonia - Latvia  
 letra (carácter) - harfe  
@@ -2002,7 +1998,6 @@ lichi - lici
 licor - arake  
 Liechtenstein - Lihtenstain  
 liga (asociación, federación) - lige  
-ligero (leve, vago, débil, borroso) - mirde  
 ligero - lege  
 lila (de color lila) - lilake  
 lila - lilake  
@@ -2017,7 +2012,7 @@ lince rojo (gato montés) - lalolince
 lindo (precioso) - kavai  
 linea (hilo, cordel, raya) - line  
 linfa - limfa  
-lingüística - linguolojia  
+lingüística - baxolojia  
 liquen - algafung  
 lirio (azucena) - susan  
 lista - liste  
@@ -2028,7 +2023,7 @@ literatura - kitabia
 litio - litium  
 litro - litre  
 Lituania - Lietuva  
-lituano - lietuva lingue  
+lituano - lietuva baxe  
 livermorio - livermorium  
 llama - liame  
 llamar (poner) - namane  
@@ -2051,7 +2046,7 @@ longitud - longude
 loro (papagayo) - papagai  
 lote (grupo) - lote  
 lucha - jihade  
-luchador (guerrero) - jenger  
+luchador (guerrero) - janger  
 lugar (colocar, poner) - loke  
 lugar de nacimiento - genoloke  
 lujuria (deseo) - kame  
@@ -2078,9 +2073,9 @@ lógica - ratolojia
 ## M  
 
 Macao - Makau  
-Macedonia del Norte - Nordi Makedonia  
+Macedonia del Norte - Norde Makedonia  
 maceta (plantera) - fulpote  
-macrial (militar) - jenge  
+macrial (militar) - jangike  
 macroalga - haialge  
 Madagascar - Malagasia  
 madera - mokomate  
@@ -2143,7 +2138,7 @@ mar - hai
 maratí - marate  
 maratón - maraton  
 maravilla (maravilloso, asombroso) - ajibe  
-maravilla - mirable  
+maravilla - ajibable  
 maravilloso (magnífico) - super  
 marca (huella, mancha) - marke  
 marcador - puntoban  
@@ -2155,7 +2150,7 @@ margarina - margarin
 margarita - bakomargarite  
 margarita - margarite  
 margarita común (pascueta) - englomargarite  
-marina (armada) - haigun  
+marina (armada) - haiorde  
 marioneta (títere) - pupe  
 mariposa (palomilla) - pelpel  
 marmól - kalsokristal  
@@ -2165,7 +2160,7 @@ Marte - Marse
 martes - den du  
 martillo (mazo) - hamar  
 marzo - lun tri  
-marítimo - hai  
+marítimo - hayike  
 masa (trozo, pedazo) - mas  
 masaje - masaje  
 masculino (macho) - man  
@@ -2198,10 +2193,10 @@ medioambiente (naturaleza) - ekia
 medir (medida) - metre  
 meditar (reflexionar) - medite  
 Mediterráneo - Geomede Hai  
-medusa - haigel  
+medusa - haigele  
 megavatio - megavate  
 meitnerio - maitnerium  
-mejorar - bondarge  
+mejorar - sudarge  
 melodioso - melodi  
 melodía - melodia  
 melón - melon  
@@ -2254,7 +2249,7 @@ miembro (componente) - member
 mierda - xite  
 migración (migrarse, mudarse, trasladarse) - migre  
 mil (kilo-) - kilo  
-milagro - mirokle  
+milagro - ajibaje  
 mili- - mili  
 miligrama - miligram  
 milimetre - milimitre  
@@ -2311,7 +2306,6 @@ monólogo - autologe
 morado (púrpura) - violete  
 moralidad (ética) - deke  
 morder - danta  
-morfema - morfem  
 morfema - morfeme  
 morfo - morfe  
 morirse (muerte; muerto) - morte  
@@ -2338,7 +2332,7 @@ mujer (señora) - maturi fem
 mula - gadogude  
 multicultural - polikulture  
 multiculturalismo - polikulturisme  
-multilingüe (plurilingüe) - polilinguike  
+multilingüe (plurilingüe) - polibaxike  
 multinacional - polinase  
 multinacional - polinasike  
 mundo - dunia  
@@ -2363,7 +2357,7 @@ mínimo (lo menos) - minime
 Mónaco - Monako  
 múltiple - multeple  
 músculo - muskul  
-música - muzike  
+música (tocar música) - muzike  
 músico - muziker  
 
 ## N  
@@ -2439,7 +2433,7 @@ nombre - nam
 nombre de usuario - uzernam  
 norma (normal) - norme  
 norte (norteño) - norde  
-Norteamérica - Nordi Amerike  
+Norteamérica - Norde Amerike  
 Noruega - Norge  
 noruego - norge  
 nosotros - mimen  
@@ -2489,7 +2483,7 @@ ocho (8) - bate
 ocra - bamia  
 octubre - lun des  
 ocular - okule  
-ocupado (atareado) - mange  
+ocupado (atareado) - haste  
 océano - daihai  
 océano Antártico - Antartiki Hai  
 océano Atlántico - Atlante Hai  
@@ -2669,7 +2663,7 @@ pegar (pegamento, pega, goma, adhesivo) - glute
 pegar - peye  
 peine - kang  
 Pekín - Beijing  
-pelea (guerra, batalla) - jeng  
+pelea (guerra, batalla) - jang  
 peligro (peligroso) - hatre  
 pelo - kex  
 película (film, membrana) - filme  
@@ -2982,7 +2976,7 @@ raro - rare
 rasgar (romper) - cire  
 raspar (arañar) - frike  
 rasurar (afeitar) - raze  
-ratón - mus  
+ratón - mux  
 rayo - rade  
 rayo luminoso - fotorade  
 raza - rase  
@@ -3238,7 +3232,7 @@ señal - sinal
 señal de tránsito - dauban  
 sharía - islam xaria  
 Shiva - Xiva  
-shogunato - gunregia  
+shogunato - ordorejia  
 si (suponer) - gar  
 Siberia - Sibiria  
 siempre - pansato  
@@ -3289,7 +3283,7 @@ soja - soi
 sojuzgar - subyuge  
 sol - sol  
 Solamilandia - Somaldex  
-soldado - gunjen  
+soldado - ordojen  
 solsticio - solostate  
 Somalia - Somalia  
 sombra - saye  
@@ -3408,6 +3402,7 @@ templo - pujokan
 tendencia - ivia  
 tender - ive  
 tenedor - forke  
+tener - ha  
 tener sentido - rate  
 teneso - tenesium  
 Tennessee - Tenese  
@@ -3458,7 +3453,6 @@ titanio - titanium
 toalla - gantexe  
 tocar (rozar) - cuke  
 tocar (tacto) - tate  
-tocar música - muzike  
 todas las cosas - pan xe  
 todas las personas - pan jen  
 todavía (aún) - duro  
@@ -3489,6 +3483,8 @@ trabajador (obrero) - karer
 trabajar - kare  
 trabajo - karaje  
 tractor - trater  
+traducir (interpretar; tradicción, interpretación) - trabaxe  
+traductor - trabaxer  
 traer - laiane  
 tragar - gul  
 tragedia - tragodia  
@@ -3666,7 +3662,7 @@ violín - viole
 virgen (virginal) - virge  
 virología - viruslojia  
 virrey - visereger  
-virtud (moralidad) - bondeke  
+virtud (moralidad) - sudeke  
 virus - virus  
 visado - vize  
 Vishnú - Vixnu  

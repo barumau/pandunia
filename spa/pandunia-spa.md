@@ -51,13 +51,15 @@ airbaria - presión atmosférica
 airbarmetrer - barómetro  
 airobike - aeróbico  
 anairobike - anaeróbico  
-airogun - fuerza aérea  
+airorde - fuerza aérea  
 airoporta - aeropuerto  
 ais - hielo (congelarse, helarse)  
 aishoke - hockey sobre hielo  
 aiskrem - helado  
 ajibe - maravilla (maravilloso, asombroso)  
 ajibia - asombro  
+• ajibable - maravilla  
+• ajibaje - milagro  
 akare - garrapata (ácaro)  
 akrabe - escorpión (alacrán)  
 ale - otro (cambiar, demudar)  
@@ -79,6 +81,7 @@ alkalomelon - melón amargo
 alkalorange - naranjo amargo  
 alkol - alcohol  
 • alkoliste - alcohólico (bebedor)  
+alkolomixe - cóctel  
 almari - armario  
 alpaka - alpaca  
 aluminium - aluminio  
@@ -172,8 +175,6 @@ astronau - astronave (nave estelar)
 • astronaver - astronauta  
 astronomia - astronomía  
 • astronomer - astrónomo  
-Asur - Assur (Ashur)  
-Asuria - Asiria  
 ate - acto  
 • ation - acción  
 • ative - activo  
@@ -208,6 +209,8 @@ autonome - autónomo
 autonomia - autonomía  
 autoreje - independiente  
 axe - eje  
+Axur - Assur (Ashur)  
+Axuria - Asiria  
 Azerbaizan - Azerbaiyán  
 
 ## B  
@@ -287,6 +290,13 @@ batonpang - baguette
 batre - pila (batería)  
 bau - tesoro (precioso)  
 bavite - piedra preciosa (joya, gema)  
+baxe - lengua (idioma)  
+• duobaxike - bilingüe  
+• polibaxike - multilingüe (plurilingüe)  
+• trabaxe - traducir (interpretar; tradicción, interpretación)  
+• trabaxer - traductor  
+baxokanun - gramática  
+baxolojia - lingüística  
 baze - base (fondo, básico; fundar, basar)  
 • bazer - fundador  
 baze bol - béisbol  
@@ -372,13 +382,7 @@ Bolgaria - Bulgaria
 Bolivia - Bolivia  
 bombe - bomba  
 bon - bueno  
-boni zar - buena suerte  
-bondarge - mejorar  
-bondeke - virtud (moralidad)  
-bonsife - excelente  
-bonsifia - calidad (excelencia, mérito, virtud, ventaja)  
-bonsinye - auspicioso (propicio)  
-bonvide - guapo (bien parecido)  
+bon zar - buena suerte  
 ribone - reparar (arreglar)  
 riboner - reparador  
 bore - aburrido  
@@ -557,6 +561,7 @@ darotube - embudo
 darge - paso (grado, nivel, rango, calidad, categoría)  
 dargomute - desarrollo  
 • dusdarge - degradar  
+• sudarge - mejorar  
 darmositium - darmstatio  
 darte - tierra (barro; sucio)  
 darvinisme - darwinismo  
@@ -574,9 +579,6 @@ dau - camino (calle)
 dauban - señal de tránsito  
 de - de (posposición de posesión)  
 de - de (desde)  
-debu - deber (necesitar)  
-deci - deci-  
-decibel - decibelio  
 defe - defender (defensa)  
 defkaske - armadura  
 • defer - defensor  
@@ -584,7 +586,8 @@ defoban - escudo
 dege - conseguir (obtener, ganar)  
 deger - engendrador  
 deke - moralidad (ética)  
-dekolojia - ética (filosofía moral)  
+• dekolojia - ética (filosofía moral)  
+• sudeke - virtud (moralidad)  
 deme - pueblo (población; público)  
 demografia - demografía  
 demokrate - democrático  
@@ -603,6 +606,8 @@ den cete - domingo
 denge - esperar  
 des - diez (10)  
 desen - dibujo (diseño)  
+desi- - deci-  
+desibel - decibelio  
 detal - detalle  
 deu - dios  
 • deve - divino  
@@ -695,7 +700,7 @@ duge - leer
 duke - triste (pena, tristeza)  
 duman - humo  
 dunia - mundo  
-dunia lingue - lengua mundial  
+dunia baxe - lengua mundial  
 duna - duna  
 dungia aventur - juego de mazmorras  
 dur - durar (llevar tiempo, transcurrir; duración)  
@@ -833,7 +838,7 @@ fete - hacer (hecho)
 • parafete - efecto secundario  
 • perfete - perfecto  
 • rifete - repetir  
-fetolingue - idioma artificial (lengua construida, conlang)  
+fetobaxe - idioma artificial (lengua construida, conlang)  
 fi - bah  
 figur - representación (figura)  
 fikre - pensar (idea, pensamiento)  
@@ -1008,11 +1013,11 @@ gee - tierra
 geodou - maní  
 geoforme - terreno  
 geografia - geografía  
-geogunia - ejército  
 geokaski plate - placa tectónica  
 geolojia - geología  
 Geomede Hai - Mediterráneo  
 geometria - geometría  
+georde - ejército  
 geoparline - ecuador  
 Geoparline Ginia - Guinea Ecuatorial  
 geopolitike - geopolítica  
@@ -1047,7 +1052,7 @@ Germania - Germania
 germanium - germanio  
 Gerneze - Guernesey  
 geste - gesto  
-gestolingue - lenguaje de signos (lenguaje de señas)  
+gestobaxe - lenguaje de signos (lenguaje de señas)  
 Gibraltar - Gibraltar  
 gide - guiar  
 • gider - guía  
@@ -1119,17 +1124,13 @@ gul - tragar
 gulogui - gul  
 gum - tambor  
 gumle - oración  
-gun - ejército  
-gunjen - soldado  
-gunregia - shogunato  
-gunreger - generalísimo (sogún)  
 guru - maestro (gurú, profesor)  
 guste - gusto (sabor)  
 gute - rodilla  
 
 ## H  
 
-ha - con (tener)  
+ha - tener  
 habar - noticias  
 habargazete - periódico (diario)  
 habaxe - abisinio  
@@ -1139,16 +1140,16 @@ hafizer - guarda (preservador, conservador)
 hafnium - hafnio  
 hahe - reír  
 hai - mar  
-hai - marítimo  
+• hayike - marítimo  
 haialge - macroalga  
 haiamirer - almirante  
 haiful - actinia (anémonas de mar)  
-haigel - medusa  
-haigun - marina (armada)  
+haigele - medusa  
 haihiyar - holoturia (pepino de mar)  
+haiorde - marina (armada)  
 haiporta - puerto marítimo  
-haitate - costa  
 haisake - bahía (golfo)  
+haitate - costa  
 haide - vamos a  
 haima - carpa (toldo)  
 Haiti - Haití  
@@ -1180,20 +1181,22 @@ harame - prohibir
 harame - prohibido (tabú)  
 haramliste - lista negra  
 harfe - letra (carácter)  
-harfia - alfabeto  
+• harfaje - alfabeto  
 harmone - armonioso  
-harmonia - armonía  
+• harmonia - armonía  
 harnes - arnés (arreos, jaeces)  
 Hartum - Jartum  
-hase - diferenciar (distinguir)  
-hase - especial (diferenciado, distinto)  
-hasia - especialización (distinción)  
-hasis - hachís  
+has - especial (diferenciado, distinto)  
+• hasia - especialización (distinción)  
+• hasife - diferenciar (distinguir)  
+haste - ocupado (atareado)  
+• anhaste - lento (despacio)  
 hate - hasta  
 hato - hasta (también)  
 hatre - peligro (peligroso)  
 Havai - Hawái  
 Havai nesia - archipiélago de Hawái  
+haxix - hachís  
 Hayastan - Armenia  
 he - cómo? (eh?)  
 hei - oye (hey)  
@@ -1353,6 +1356,10 @@ Jamaika - Jamaica
 jampe - saltar (brincar)  
 janel - ventana  
 janelovel - cortina  
+jang - pelea (guerra, batalla)  
+• jangike - macrial (militar)  
+• janger - luchador (guerrero)  
+jangoxute - arte marcial  
 jangle - salvaje  
 jangle van - jungla  
 jau - cebada  
@@ -1371,10 +1378,6 @@ jele - encarcelar (aprisionar)
 jen - persona  
 • dusojen - enemigo  
 no jen - ningunos  
-jeng - pelea (guerra, batalla)  
-jenge - macrial (militar)  
-• jenger - luchador (guerrero)  
-jengoxute - arte marcial  
 jenje - gengibre  
 jenju - perla  
 jense - sexo (género)  
@@ -1809,11 +1812,11 @@ lengomosime - invernal
 lense - lente  
 lense - ensayo (ejercitio)  
 lense - practicar (ensayar, ejercitar)  
-lente - lento (despacio)  
 letis - lechuga  
 lexe - palabra (vocablo)  
 • lexia - vocabulario (léxico)  
 • lexike - léxico  
+lexojinse - género gramatical  
 lexoliste - disionario (lexicón)  
 leze - pera  
 liame - llama  
@@ -1831,7 +1834,7 @@ lide - dirigir (mandar, conducir, capitanear)
 • lider - dirigente (líder)  
 lidoline - correa (rein)  
 Lietuva - Lituania  
-lietuva lingue - lituano  
+lietuva baxe - lituano  
 lifafe - envolver (envoltura)  
 lige - liga (asociación, federación)  
 • alige - asociar  
@@ -1855,12 +1858,6 @@ line - linea (hilo, cordel, raya)
 lineme - hebra (fibra)  
 linoparce - nueva línea  
 lince - lince  
-lingue - lengua (idioma)  
-• duolinguike - bilingüe  
-• polilinguike - multilingüe (plurilingüe)  
-lingue ginse - género gramatical  
-linguokanun - gramática  
-linguolojia - lingüística  
 lise - suave (liso)  
 lisan - lengua  
 liste - lista  
@@ -1977,7 +1974,6 @@ mani pute - hijo
 mani reger - rey  
 manete - imán  
 manete - magnético  
-mange - ocupado (atareado)  
 mangan - manganeso  
 mango - mango  
 mangus - mangostán (jobo de la India)  
@@ -2127,13 +2123,9 @@ ming - brillante (luminoso)
 minte - menta  
 minute - minuto  
 mire - reflejar  
-• mirable - maravilla  
 • miraje - espejismo  
-• mirokle - milagro  
 • miror - espejo (retrovisor)  
-• amire - admirar  
-mirsonde - eco  
-mirde - ligero (leve, vago, débil, borroso)  
+miroson - eco  
 mise - enviar (transmitar)  
 • misia - emisión  
 • misaje - mensaje  
@@ -2151,10 +2143,9 @@ misre - egipcio
 Misria - Egipto  
 mitre - metro  
 mixe - mezclar  
-mixi alkol - cóctel  
-mixer - batidora (licuadora, mezcladora)  
+• mixer - batidora (licuadora, mezcladora)  
 mode - modo (manera, forma)  
-modologe - adverbo  
+modolexe - adverbo  
 model - modelar  
 modele - modelo  
 moge - tinta  
@@ -2182,8 +2173,7 @@ monster - monstro
 monte - montaña (monte)  
 • montaner - alpinista (montañista)  
 morfe - morfo  
-morfem - morfema  
-morfeme - morfema  
+• morfeme - morfema  
 morte - morirse (muerte; muerto)  
 • mortife - matar (morir, asesinar)  
 • morter - asesino  
@@ -2207,30 +2197,28 @@ multe - muchos
 multia - número (muchedumbre)  
 • multeple - múltiple  
 mum - cera (lacre)  
-mumfote - vela (candela, cirio)  
-mumjen - momia  
 • mumike - momia  
 mummelon - calabaza china (calabaza de la cera)  
+mumfote - vela (candela, cirio)  
+mumjen - momia  
 mun - puerta  
 mungus - mangosta  
 mur - muro (muralha)  
 murkaguze - papel tapiz  
 murce - hormigo  
 Muritania - mauritania  
-mus - coacción  
-mus - ratón  
-muse - coaccionar (forzar, obligar)  
+mus - coacción (deber, necesitar; coaccionar, forzar, obligar)  
 muskete - mosquete  
 musketer - mosquetero  
 muskul - músculo  
 muskulobine - fisicoculturismo (culturismo, musculación)  
 musli - muesli  
 mute - cambiar  
+mux - ratón  
 muze - divertir (entretener; diversión)  
 • muzante - divertido  
-muzike - música  
-muzike - tocar música  
-muziker - músico  
+muzike - música (tocar música)  
+• muziker - músico  
 
 ## N  
 
@@ -2367,11 +2355,11 @@ nole - cancelar
 nome - organizar (gestionar)  
 • nomia - gerencia (dirección)  
 norde - norte (norteño)  
-Nordi Amerike - Norteamérica  
-Nordi Cosen - Corea del Norte  
-Nordi Eire - Irlanda del Norte  
-Nordi Kipris - Chipre del Norte  
-Nordi Makedonia - Macedonia del Norte  
+Norde Amerike - Norteamérica  
+Norde Cosen - Corea del Norte  
+Norde Eire - Irlanda del Norte  
+Norde Kipris - Chipre del Norte  
+Norde Makedonia - Macedonia del Norte  
 Norfolke nes - Isla Norfolk  
 Norge - Noruega  
 norge - noruego  
@@ -2437,6 +2425,10 @@ ore - escuchar (oír)
 oritis - otitis  
 orange - naranja  
 orangi - anaranjado  
+orde - ejército  
+ordorejia - shogunato  
+ordorejer - generalísimo (sogún)  
+ordojen - soldado  
 orgazme - orgasmo  
 orkide - orquídea  
 orome - oromo  
@@ -3042,6 +3034,8 @@ side - sentarse
 • visepresidente - vicepresidente  
 sife - definir (cualidad, atributo, descripción)  
 • sifive - descriptivo  
+• susife - excelente  
+• susifia - calidad (excelencia, mérito, virtud, ventaja)  
 sifolexe - adjetivo  
 sigare - cigarro (cigarillo)  
 siyahe - negro  
@@ -3057,6 +3051,7 @@ sine - señal (letrero, indicio)
 • sinal - señal  
 • desine - designar  
 • dusosine - ominoso (amenazador)  
+• susine - auspicioso (propicio)  
 sina - pecho (seno, tórax)  
 sinakase - caja torácica  
 sinaplate - peto  
@@ -3511,6 +3506,7 @@ vidopunte - perspectiva (punto de vista)
 • exvidable - evidente  
 • previde - prever (anticipar)  
 • provide - prever (esperar, pensar)  
+• suvide - guapo (bien parecido)  
 • antravidable - opaco  
 vidomeden - campo de visión  
 vidou - viudo  

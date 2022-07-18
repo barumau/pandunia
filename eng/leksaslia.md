@@ -68,7 +68,6 @@
 **asparge** *asparagus* ← English:asparagus, French:asperge, Spanish:espárrago, Portuguese:aspargo, Russian:спаржа (sparža), Japanese:アスパラガス (asuparagasu), Korean:아스파라거스 (aseuparageoseu), Swahili:asparaga  
 **aspirin** *aspirin* ← English:aspirin, Spanish:Portuguese:aspirina, French:aspirine, Russian:аспирин (aspirin), Arabic:أسبرين‎ (ʾasbirīn), Hindi:एस्पिरिन (espirin), Mandarin:阿司匹林 (āsīpǐlín), Japanese:アスピリン (asupirin), Swahili:aspirini  
 **astatium** *astatine* ← English:astatine, French:astate, Spanish:ástato, Portuguese:astato, Russian:астат(ин), Mandarin:砹 (ài), Japanese:アスタチン, Korean:아스타틴, Vietnamese:astatin, Hindi:एस्टाटिन, Bengali:অ্যাস্টাটিন, Malay:astatin, Swahili:astatini, Arabic: استاتين  
-**Asuria** *Assyria* ← akk:(aššur), Arabic:(aššur), Hindi:अश्शूर (aśśūr), Persian:(āšūr), English:Assyria, French:Assyrie, Spanish:Asiria, Portuguese:Assíria, Russian:Ассирия (Assiriya), Mandarin:亚述 (Yàshù)  
 **ata** *sugar-apple (sweetsop)* ← French:atte, Portuguese:ata, Bengali:আতা (ata), Filipino:atis, som:aat  
 **ate** *act (deed)* ← Portuguese:ato, English:act, French:acte, Spanish:acto, Russian:акт (akt)  
 **Atlante Hai** *Atlantic Ocean* ← English:Atlantic, Spanish:Atlántico, Portuguese:Atlântico, Russian:Атлантический океан (Atlanticheskyy okean), Swahili:Atlantiki  
@@ -81,6 +80,7 @@
 **avar** *damage (injury, harm)* ← Arabic: عَوَارِيَّة‎ (ʿawāriyya), English:(nautical) average, French:avarie, Spanish:avéria, Portuguese:avaria, Russian:авария (avariya), Turkish:avarya  
 **ave** *oat* ← French:avoine, Spanish:avena, Portuguese:aveia, Russian:овёс (ovyos), Malay:haver  
 **axe** *axis (axle)* ← English:axis, French:axe, Portuguese:eixo, Hindi:अक्ष (akṣ), Telugu:అక్షము (akṣamu), Turkish:eksen  
+**Axuria** *Assyria* ← akk:(aššur), Arabic:(aššur), Hindi:अश्शूर (aśśūr), Persian:(āšūr), English:Assyria, French:Assyrie, Spanish:Asiria, Portuguese:Assíria, Russian:Ассирия (Assiriya), Mandarin:亚述 (Yàshù)  
 **ba** *sentence-ending particle for commands* ← Mandarin:吧 (ba)  
 **babu** *chapter (section)* ← Malay:bab, Arabic:Urdu:Persian:(bāb), Swahili:babu  
 **babuce** *slipper* ← Arabic: بَابُوج‎ (bābūj), Spanish:babucha, French:babouche, English:babouche  
@@ -124,6 +124,7 @@
 **baton** *bar (pole, rod, shaft, staff, stick)* ← English:cane, French:canne, Mandarin:杆 (gǎn),   
 **batre** *battery* ← English:battery, hat:batri, Persian:(bātri), Swahili:betri, Hindi:बैटरी (baiṭrī), Bengali:ব্যাটারি (byaṭari), Arabic:(baṭṭāriyya), Japanese:バッテリー (batterī), Korean:배터리 (baeteori), Russian:батарея (batareya), Spanish:Portuguese:bateria, Malay:bateri  
 **bau** *treasure (valuables; precious)* ← Mandarin:宝 (bǎo), Korean:보 (bo), Vietnamese:bảo, Japanese:宝 (hō)  
+**baxe** *language (tongue)* ← Hindi:भाषा (bhāṣā), Bengali:ভাষা (bhaṣa), Telugu:భాష (bhāṣa), Malay:bahasa, jav:basa, Thai:ภาษา (phasa)  
 **bazar** *market (bazaar)* ← Persian:Urdu: بازار (bāzār), Hindi:बाज़ार (bāzār), French:Spanish:Portuguese:bazar, English:bazaar, Russian:базар (bazar), Malay: pasar, Khmer:ផ្សារ (psar)  
 **baze** *base (foundation, bottom; basic; base on, found)* ← English:French:Portuguese:Spanish:base, deu:Basis, Russian:база (baza)  
 **be** *undergo (passivizing verb)* ← Mandarin:被 (bèi), Cantonese:被 (bei6), Wu-Chinese:被 (bé), Japanese:被- (hi-), Korean:피— (pi-), Vietnamese:bị + English:be  
@@ -258,7 +259,6 @@
 **date** *data (numeric information)* ← English:Malay:data, Vietnamese:đa ta, deu:Daten, Spanish:Filipino:datos, Portuguese:dados, Persian:(dâde-hâ), Hindi:डेटा (ḍeṭā), Urdu:(ḍeṭā), Japanese:データ (dēta)  
 **dau** *way (road)* ← Mandarin:道 (dào), Cantonese:道 (dou6), Japanese:道 (dō), Korean:도 (do), Vietnamese:đạo  
 **de** *of (attributive preposition)* ← [da] French:de, du, Portuguese:de, do, da, pas:د‎ (də), arm:דְּ‎ (də) + [du] Mandarin:的 (de), Cantonese:啲 (di1) + [de] deu:der  
-**debu** *must* ← French:devoir, Spanish:deber, Portuguese:dever  
 **defe** *defend (ward off; defense, defence)* ← Arabic: دِفَاع (difāʿ), Hindi:दफ़ा (dafā), Persian:Urdu:  دفاع  (difā'), + French:English:defense, Spanish:defensa, Portuguese:defesa, Turkish:defans  
 **dege** *get (gain, obtain, receive)* ← Mandarin:得 (dé), Cantonese:得 (dak1), Korean:득 (deuk), Vietnamese:được  
 **deke** *morality (ethics; moral)* ← Mandarin:德 (dé), Cantonese:德 (dak1), Japanese:德 (toku), Korean:덕 (deok), Vietnamese:đức  
@@ -475,7 +475,6 @@
 **gulogui** *ghoul* ← Arabic:الغول (ghūl), Persian:غول‎ (ğul), English:Portuguese:ghoul, Spanish:gul, Russian:гуль (gul′), Turkish:kulbastı, Malay:ghul, Japanese:グール (gūru)  
 **gum** *drum* ← Swahili:sna:Kongo:ngoma, nya:ng'oma, + Mandarin:鼓 (gǔ)  
 **gumle** *sentence (phrase)* ← Arabic:(jumla), Turkish:cümle, Hindi:जुमला (jumlā), Mandarin:句 (jù)  
-**gun** *army* ← Mandarin:军 (jūn), Cantonese:軍 (gwan1), Japanese:軍 (gun), Korean:군 (gun), Vietnamese:quân  
 **guru** *guru (teacher)* ← Hindi:गुरु (guru), Bengali:গুরু (guru), Gujarati:ગુરુ (guru), Punjabi:ਗੁਰੂ (gurū), Filipino:guro, Thai:ครู (gruu), Malay:English:Portuguese:guru, Spanish:gurú, Russian:гуру (guru), French:gourou, Korean:구루 (guru), Japanese:グル (guru)  
 **guste** *taste (flavor)* ← Spanish:gusto, Portuguese:gosto, French:goût  
 **gute** *knee* ← Swahili:goti, Gujarati:ઘૂંટણ (ghū̃ṭaṇ), Hindi:घुटना (ghuṭnā), Marathi:गुडघा (guḍghā)  
@@ -503,13 +502,14 @@
 **harabe** *bad (ruined, destroyed)* ← Arabic:Persian:Urdu:(xarāb), Turkish:harap, Hindi:ख़राब (xarāb), Bengali:খারাপ (kharap), Swahili:-haribu  
 **harame** *forbidden (illicit, haram, taboo)* ← Arabic:(ḥarām), Hausa:Malay:Turkish:English:deu:haram, Hindi:हराम (harām), Korean:하람 (haram), Persian:Urdu:(harām), Swahili:haramu, Mandarin:哈拉姆 (hālāmǔ), Russian:харамный (xaramniy)  
 **harfe** *letter (character, written symbol)* ← Arabic:(ḥarf), Turkish:harf, Persian:Urdu:(harf), Hausa:harafi, Swahili:herufi, Malay:huruf  
-**harmonia** *harmony* ← English:harmony, Spanish:armonía, Portuguese:harmonia, French:harmonie, Russian:гармония (garmoniya)  
+**harmone** *harmonious* ← English:harmony, Spanish:armonía, Portuguese:harmonia, French:harmonie, Russian:гармония (garmoniya)  
 **harnes** *harness* ← French:harnais, English:harness, Spanish:arnés, Portuguese:arnês  
-**hase** *special (distinct)* ← Arabic:(xāṣṣ), Persian:Urdu:(xās), Hindi:ख़ास (xās), Malay:khas, Swahili:hususa  
-**hasis** *grass (hashish)* ← Arabic: حَشِيش (ḥašīš), English:hashish, French:haschich, Portuguese:haxixe, Russian:гашиш (gašiš), Japanese:ハシシ (hashishi), Korean:해시시 (haesisi), Hindi:हशीश (haśīś), Malay:hasyis  
+**has** *special (distinct)* ← Arabic:(xāṣṣ), Persian:Urdu:(xās), Hindi:ख़ास (xās), Malay:khas, Swahili:hususa  
+**haste** *hurry (rush, haste; hasty, busy, hurried, swift, fast)* ← deu:Hast, English:haste, French:hâte + Persian:آهسته (âheste), Hindi:आहिस्ता (āhistā), Bengali:আস্তে (aste), Turkish:aheste  
 **hate** *until (til, up to)* ← Portuguese:até, Arabic:(ḥatta), Spanish:hasta, Swahili:hata + Persian: تا‎ (tâ), Hindi:तक (-tak)  
 **hatre** *danger (peril; dangerous, perilous)* ← Arabic: خطر‎ (xaṭar), Persian: خطر‎ (xatar), Urdu: خطرہ‎ (xatrā), Hindi:ख़तरा (xatrā), Swahili:hatari, Turkish:muhatara  
 **have** *atmosphere (air, wind)* ← Arabic: هَوَاء‎ (hawāʾ), Hindi:हवा (havā), Bengali:হাওয়া (haowa), Malay:hawa, Swahili:hewa, Turkish:hava  
+**haxix** *grass (hashish)* ← Arabic: حَشِيش (ḥašīš), English:hashish, French:haschich, Portuguese:haxixe, Russian:гашиш (gašiš), Japanese:ハシシ (hashishi), Korean:해시시 (haesisi), Hindi:हशीश (haśīś), Malay:hasyis  
 **he** *huh? (pardon?)* ← deu:hä, French:Portuguese:hein, Japanese:e + English:huh, Vietnamese:hả + Mandarin:啊 (à, a)  
 **hei** *hey (exclamation to get attention)* ← English:hey, French:hé, Spanish:hey, Portuguese:ei, Russian:эй (ey), Mandarin:喂 (wèi), Persian: هی‎ (hey)  
 **helis** *spiral (helix, corkscrew, twist)* ← Greek: ἕλιξ (helix), English:helix, French:Portuguese:Spanish:hélice, Polish:helisa, Arabic:(ḥalazūn), Turkish:helezon  
@@ -570,7 +570,9 @@
 **jame** *collect (gather, bring together, assemble)* ← Arabic: جَمَعَ‎ (jamaʿa), Hindi:जमात (jamāt), Swahili:jamaa,jamii, Hausa:jam'iyya,jàma'à, Yoruba:jànmọ́ọ̀, Turkish:camia  
 **jampe** *jump* ← English:jump, Japanese:ジャンプ (janpu), Korean:점프 (jŏmp), Bengali:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **janel** *window* ← Portuguese:janela, Bengali:জানালা (janala), Malay:jendela + Tamil:சன்னல் (sannal), nya:zenera, Kongo:nêla  
+**jang** *fight (war, battle, combat)* ← Persian: جنگ (jang), Hindi:जंग (jang), Bengali:জঙ্গ (jôṅg), Turkish:cenk + Mandarin:仗 (zhàng); 爭 (zhēng), Cantonese:争 (zang1), Korean:전쟁 (jeonjaeng), Vietnamese:(chiến) tranh  
 **jangle** *wild (feral, savage)* ← English:French:jungle, Spanish:jungla, Portuguese:jângal, Russian:джунгли (džungli), Hindi:जंगल (jangal), Bengali:জঙ্গল (jônggôl), Malay:jenggela, Japanese:ジャングル (janguru), Korean:정글 (jeonggeul), Turkish:cengel + Swahili:jangwa  
+**jangoxute** *martial art* ← Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art  
 **jau** *barley* ← Hindi:जौ (jau), Bengali:যব (jôb), Marathi:जव (jav), Gujarati:જવ (jav), Persian: جو‎ (jow)  
 **javabe** *answer (respond, reply; response)* ← Arabic: جَوَاب‎ (jawāb), Hindi:जवाब (javāb), Malay:jawab, Swahili:jibu, jawabu, Turkish:cevap  
 **jebe** *pocket* ← Hindi:जेब (jeb), Punjabi:ਜੇਬ (jeb), Urdu:(jeb), Telugu:(jēbu), Arabic:(jayb), Turkish:cep, Wolof:jiba  
@@ -579,8 +581,6 @@
 **jekocepe** *borrow* ← Mandarin:借 (jiè), Cantonese:借 (ze3), Japanese:借 (shaku), Korean:적 (jeok) + English:check  
 **jele** *imprison (jail)* ← English:jail, French:geôle, Hindi:जेल (jel), Bengali:জেল (jēl), Telugu:జైలు (jailu), Urdu: جیل‎ (jēl), Swahili:jela + Spanish:Portuguese:jaula  
 **jen** *person (individual)* ← Mandarin:人 (rén), wuu人 (zén), Japanese:人 (jin) + Hindi:जन (jan), Bengali:-জন (-jôn), Malay:-jana, Thai:ชน (chon), Khmer:ជន (jon) + French:gens, Portuguese:gente  
-**jeng** *fight (war, battle, combat)* ← Mandarin:爭 (zhēng), Vietnamese:tranh, Korean:전쟁 (jeonjaeng), Turkish:kur:ceng, Persian:Urdu:(jang), Hindi:जंग (jang)  
-**jengoxute** *martial art* ← Mandarin:武术 (wǔshù), Japanese:武術 (bujutsu), Vietnamese:võ thuật, Korean:무술 (musul), English:martial art  
 **jenje** *ginger* ← English:ginger, French:gingembre, Spanish:gengibre, Portuguese:jengibre, Mandarin:姜 (jiāng), Tamil:இஞ்சி (inji), Arabic: زنجبيل‎ (zanjabīl), Turkish:zencefil  
 **jenju** *pearl* ← Mandarin:珍珠 (zhēnzhū), Cantonese:珍珠 (zan1 zyu1), Japanese:真珠 (shinju), Korean:진주 (jinju), Vietnamese:trân châu, Russian:жемчуг (žemčug), Turkish:inci,incü  
 **jense** *gender (sex)* ← English:gender, Portuguese:gênero, Japanese:ジェンダー (jendā) + Arabic:Urdu:(jins), Persian:(jens), Swahili:jinsi, Turkish:cins  
@@ -782,7 +782,6 @@
 **lenge** *cold* ← Mandarin:冷 (lěng), Vietnamese:lạnh, Cantonese:冷 (laang5)  
 **lense** *exercise* ← Mandarin:练习 (liànxí), Japanese:練習 (renshū), Korean:련습 (ryeonseup)  
 **lense** *lens* ← English:lens, French:lentille, Spanish:Portuguese:lente, Russian:линза (linza), Hindi:लेंस (lens), Bengali:লেন্স (lenś), Malay:lensa, Japanese:レンズ (renzu), Korean:렌즈 (renjeu)  
-**lente** *slow (lethargic)* ← French:lent, Spanish:Portuguese:lento  
 **letis** *lettuce* ← English:lettuce, Japanese:レタス (retasu), Hausa:latas, Hindi:लेटिष (leṭiṣ), Bengali:লেটুস (leṭus), French:laitue  
 **leu** *already (yet)* ← Mandarin:了 (liǎo), Cantonese:了 (liu5), Thai:แล้ว (lɛw) + Japanese:了 (ryō)  
 **leze** *pear* ← Mandarin:梨子 (lízi), Cantonese:梨 (lei42), Vietnamese:lê,   
@@ -800,7 +799,6 @@
 **limon** *lemon* ← Persian:(limun), English:lemon, Turkish:limon, Russian:лимон (limon), Spanish:limón, Portuguese:limão, Hindi:नींबू (nīmbū), Urdu:(nībū), Mandarin:柠檬 (níngméng), Japanese:檸檬 (remon), Korean:레몬 (remon), Vietnamese:lêmon, Swahili:ndimu, limau, Bengali:লেবু (lebu)  
 **lince** *lynx* ← English:French:lynx, Spanish:Portuguese:lince, Hindi:लिंक्स (links)  
 **line** *line (thread, string)* ← English:line, French:ligne, Spanish:línea, Portuguese:linha, Russian:линия (liniya), Polish:linia  
-**lingue** *language (tongue)* ← Portuguese:língua, Spanish:lengua, French:langue + English:Malay:lingu-, Russian:лингв- (lingv-)  
 **lisan** *tongue* ← Arabic: لِسَان‎ (lisān), Hindi:लिसान (lisān), Swahili:lisani, Malay:Turkish:lisan, Amharic:ልሳን (ləsan)  
 **lise** *smooth* ← French:lisse, Spanish:Portuguese:liso, Persian:(liz), Malay:licin  
 **liste** *list (listing, catalogue)* ← English:list, Spanish:Portuguese:lista, Russian:лист (list), deu:French:liste, Persian:(list), Hindi:लिस्ट (lisṭ), Urdu:(lisṭ), Japanese:リスト (risuto)  
@@ -847,7 +845,6 @@
 **man** *male* ← English:man, deu:Mann, Hindi:मानुस (mānus), Bengali:মানুষ (manuś), pan:ਮਨੁੱਖ (manukh), Marathi:माणूस (māṇūs), Tamil:மனிதன் (maṉitaṉ) + Mandarin:男 (nán), Japanese:男 (nan)  
 **manete** *magnet* ← English:magnet, French:magnétique, Spanish:magnete, Russian:магнит (magnit), Turkish:mıknatıs, Arabic:مَغْنَاطِيس‎ (maḡnāṭīs), Malay:maknit  
 **mangan** *manganese* ← English:manganese, French:manganèse, Spanish:manganeso, Portuguese:manganésio, Russian:марганец, Mandarin:锰 (měng), Japanese:マンガン, Korean:망가니즈, Vietnamese:mangan, Hindi:मैंगनीज, Bengali:ম্যাঙ্গানিজ, Malay:manggan, Swahili:manganisi, Arabic: منجنيز  
-**mange** *busy (occupied)* ← Mandarin:忙 (máng), Cantonese:忙 (mong4), Wu-Chinese:忙 (maan), Korean:망 (mang)  
 **mango** *mango* ← Malayalam:മാങ്ങ (māṅṅa), English:Spanish:Turkish:mango, Portuguese:manga, Russian:манго (mango), Malay:mangga, Japanese:マンゴー (mangō), Korean:망고 (manggo)  
 **manioke** *cassava (manioc)* ← English:French:manioc, Spanish:Portuguese:mandioca, Russian:манио́ка (manióka)  
 **manir** *behavior (manners)* ← French:manière, English:manner, Russian:манера (manyera), Japanese:マナー (manā), Spanish:manera, Portuguese:maneira, deu:Manieren  
@@ -914,8 +911,7 @@
 **ming** *bright (brilliant)* ← Mandarin:Wu-Chinese:明 (míng), Cantonese:明 (ming4), Vietnamese:minh, Korean:명 (myeong)  
 **minte** *mint* ← English:mint, Spanish:menta, French:menthe, Russian:мята (m’ata), Japanese:ミント (minto)  
 **minute** *minute* ← English:minute, Spanish:Portuguese:minuto, Russian:минута (minuta), Hindi:मिनट (minaṭ), Bengali:মিনিট (miniṭ), Malay:minit  
-**mirde** *faint (depending on context: soft, dull, mild, weak, slow, subtle)* ← English:mild, Polish:mierny, Hindi:मृदु (mridu), Wu-Chinese:微 (mi3), Cantonese:微 (mei4)  
-**mire** *reflect* ← English:mirror, French:miroir, Arabic:mirʾāh, Turkish:mirat  
+**mire** *reflect* ← Spanish:mirar, English:admire, French:admirer + Arabic:mirʾāh, Turkish:mirat  
 **misal** *example (instance of)* ← Hindi:मिसाल (misāl), Arabic:(mithāl), Persian:(mesâl), Malay:misal, Swahili:mathalani, Turkish:mesela  
 **mise** *send (emit, transmit)* ← English:French:mission, deu:Mission, Spanish:misión, Portuguese:missão, Russian:миссия, Malay:misi, Filipino:misyon + Turkish:mesaj, Japanese:メッセージ (messēji), Korean:메시지 (mesiji)  
 **miskin** *poor (miserable)* ← Arabic:مِسْكِين (miskīn), Persian:مسکین‎ (meskin), Turkish:Malay:miskin, Swahili:maskini, Hindi:, Bengali:মিসকিন (miśkin), French:miskine, Spanish:mezquino, Portuguese:mesquinho  
@@ -952,13 +948,13 @@
 **mungus** *mongoose* ← Telugu:ముంగిస (muṅgisa), Marathi:मुंगूस (muṅgūs), English:mongoose, Spanish:mangosta, Portuguese:mangusto, French:mangouste, Russian:мангу́ст (mangúst), Japanese:マングース (mangūsu)  
 **mur** *wall (structure for delimitation)* ← French:mur, Spanish:Portuguese:muro + deu:Mauer, Polish:mur  
 **murce** *ant* ← Persian:مورچه (murče), Russian:мурашка (murashka), Greek:μυρμήγκι (myrmigki), hye:մրջիւն (mrǰiwn)  
-**mus** *mouse* ← Polish:mysz, Russian:мышь (myś), Persian:(muš)  
 **muskete** *musket* ← English:musket, Spanish:Portuguese:mosquete, French:mousquet, Russian:мушке́т (muškét), Japanese:マスケット (masuketto)  
 **muskul** *muscle* ← English:French:muscle, Spanish:Portuguese:músculo, deu:Muskel, Russian:му́скул (múskul), Swahili:msuli  
 **musli** *muesli* ← English:French:Spanish:Portuguese:muesli, Russian:мюсли (myusli), Mandarin:木斯里 (mùsīlǐ), Japanese:ミューズリー (myūzurī), Korean:뮈슬리 (mwiseulli), Turkish:müsli  
 **mute** *change (alter, convert)* ← Spanish:mudar, English:mutate, French:muter  
+**mux** *mouse* ← Polish:mysz, Russian:мышь (myś), Persian:(muš)  
 **muze** *have fun (enjoy; amuse, entertain; amusement, entertainment)* ← English:amuse, French:amuser, deu:amüsieren + Persian: مزه (maze), Hindi:मज़ा (mazā), Bengali:মজা (môja)  
-**muzike** *music* ← English:music, French:musique, Spanish:Portuguese:música, Russian:музика (muzika), Arabic:(mūsīqā), Swahili:muziki, Turkish:müzik, Malay:musik  
+**muzike** *music (play music)* ← English:music, French:musique, Spanish:Portuguese:música, Russian:музика (muzika), Arabic:(mūsīqā), Swahili:muziki, Turkish:müzik, Malay:musik  
 **naber** *prophet* ← Arabic:(nabiy), Hindi:नबी (nabī), Malay:nabi, Swahili:nabii, Hausa:annabi, Turkish:nebi  
 **nadir** *rare (scarce, uncommon; seldom, rarely)* ← Arabic: نَادِر‎ (nādir), Hindi:नादिर (nādir), Swahili:nadra, Turkish:nadir, Persian: نادر (nâder)  
 **nafas** *breath* ← Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi  
@@ -1025,6 +1021,7 @@
 **onor** *respect (honor, esteem)* ← English:Polish:Spanish:honor, French:honneur, Portuguese:honra, Turkish:onur + Russian:гонор (gonor)  
 **or** *ear* ← Mandarin:耳 (ěr), English:ear, deu:Ohr, French:oreille, Portuguese:orelha, Spanish:oreja  
 **orange** *orange (fruit)* ← English:orange, Spanish:naranja, Portuguese:laranja, Hindi:नारंगी (narangi), Japanese:(orenji), + French:orange, Russian:оранжевый (oranževiy)  
+**orde** *army* ← Turkish:ordu, Persian: اردو (ordu) + English:French:horde, Spanish:Portuguese:horda, Russian:орда (orda), Mandarin:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), Korean:오르도 (oreudo) + Arabic: عُرْضِيّ‎ (ʿurḍiyy)  
 **orgazme** *orgasm* ← English:orgasm, Spanish:Portuguese:orgasmo, French:Malay:orgasme, Russian:оргазм (orgazm), Turkish:orgazm, Hindi:ओगाज़्म (ogāzma), Japanese:オーガズム (ōgazumu), Korean:오르가슴 (oreugaseum)  
 **orkide** *orchid* ← English:orchid, Spanish:Portuguese:orquídea, Russian:орхидея (orhideya), Hindi:ऑर्किड (orkid), Bengali:অর্কিড (arkiḍa)  
 **orte** *straight* ← English:French:ortho-, Spanish:Portuguese:orto-, Russian:орто- (orto-)  
@@ -1043,7 +1040,7 @@
 **pagre** *turban* ← Hindi:Marathi:पगड़ी (pagṛī), Urdu:(pagṛī), Bengali:পাগড়ি (pagri)  
 **pai** *pie (pastry)* ← English:pie, Spanish:pay, Malay:pai, Hindi:पाई (pāī), Urdu:(pāī), Bengali:পাই (pai), Japanese:パイ (pai), Korean:파이 (pai), Mandarin:排 (pái), Cantonese:批 (pai1), Persian:(pây)  
 **pake** *pack (package)* ← English:pack, Russian:пакет (paket), Hindi:पैकेट (pækeṭ), deu:Turkish:paket, French:paquet, Spanish:paquete, Portuguese:pacote  
-**pakse** *bird* ← Hindi:Marathi:पक्षी (pakṣī), Malayalam:പക്ഷി (pakṣi), Telugu:(pakṣi), kh:បក្សី (baksəy), Thai:ปักษา (pak-sa), Bengali:পাখী (pakhī), Punjabi:ਪੰਖੀ (paṅkhī)  
+**pakse** *bird* ← Hindi:पक्षी (pakṣī), Bengali:পাখী (pakhī), Telugu:(pakṣi), Khmer:បក្សី (baksəy), Thai:ปักษา (pak-sa)  
 **pal** *fruit* ← Hindi:फल (phal), Punjabi:ਫਲ (phal), Bengali:ফল (phal), Tamil: பழம் (palam), Telugu:(phalamu), Thai:ผน-ละ- (phon-la)  
 **palabe** *conflict (argument, dispute, quarrel)* ← English:palaver, krio:plabah, Kongo:palaba  
 **paladium** *palladium* ← English:palladium, French:palladium, Spanish:paladio, Portuguese:paládio, Russian:палладий, Mandarin:钯 (bǎ), Japanese:パラジウム, Korean:팔라듐, Vietnamese:palađi, Hindi:पलाडियम, Bengali:প্যালাডিয়াম, Malay:paladium, Swahili:paladi, Arabic: بلاديوم  
@@ -1278,7 +1275,7 @@
 **sistem** *system* ← English:system, Spanish:Portuguese:sistema, French:système, Russian:система (sistema), Hindi:सिस्टम (sisṭam), Bengali:সিস্টেম (śiśṭem), Malay:sistem  
 **site** *city (town)* ← English:city, French:cité, Portuguese:cidade, Spanish:ciudad, Italian:città + Mandarin:市 (shì), Korean:시 (si), Japanese:都市 (toshi)  
 **sive** *citizen* ← English:French:Spanish:Portuguese:civil, por:civil, Hindi:सिविल (sivil), Malay:sipil  
-**sixe** *six (6)* ← English:French:six, Spanish:Portuguese:seis, deu:sechs, Russian:шесть (shest’) + Arabic:ستة‎ (sitta), Swahili:sita, Hausa:shidà  
+**sixe** *six (6)* ← English:French:six, Spanish:Portuguese:seis, deu:sechs, Russian:шесть (shest’), Persian: شِش‎ (šeš) + Arabic:ستة‎ (sitta), Swahili:sita, Hausa:shidà  
 **siyahe** *black* ← Persian:سیاه‎ (siyâh), Hindi:सियाह (siyāh), Urdu:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), Turkish:siyah  
 **skale** *stairs (ladder; scale)* ← Spanish:Portuguese:escalar + French:escalier + English:scale, deu:Skale, Russian:шкала (škala)   
 **skandium** *scandium* ← English:scandium, French:scandium, Spanish:escandio, Portuguese:escândio, Russian:скандий, Mandarin:钪 (kàng), Japanese:スカンジウム, Korean:스칸듐, Vietnamese:scandi, Hindi:स्काण्डियम, Bengali:স্ক্যান্ডিয়াম, Malay:skandium, Swahili:skandi, Arabic: سكانديوم  

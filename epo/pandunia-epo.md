@@ -35,7 +35,7 @@ ahe - kompreni
 ai - aj (alas)  
 ainstainium - ejnŝtejnio  
 air - aero  
-airogun - aerarmeo  
+airorde - aerarmeo  
 airoporta - flughaveno  
 ais - glacio (frosto)  
 aiskrem - glaciaĵo  
@@ -178,6 +178,15 @@ batonkase - kaĝo
 batre - baterio (pilo)  
 bau - trezoro  
 bavite - juvelo  
+baxe - lingvo  
+• duobaxike - dulingva  
+• konbaxe - komuna lingvo  
+• polibaxike - multlingva  
+• trabaxe - traduki  
+• trabaxer - tradukisto  
+• unobaxike - unulingva  
+baxokanun - gramatiko  
+baxolojia - lingvistiko  
 baze - bazo  
 baze bol - basbalo  
 bazoxulkan - bazlernejo  
@@ -231,8 +240,6 @@ Bolivia - Bolivio
 bolte - bolto  
 bombe - bombo  
 bon - bona  
-bonsifia - eco  
-bonvide - bonaspekta  
 ribone - ripari  
 riboner - riparisto  
 bore - enui  
@@ -351,8 +358,6 @@ datotable - tabelo
 dau - vojo  
 de - de (partiklo de posedo)  
 de - de (el, pro)  
-debu - devi  
-deci - dekono  
 defe - defendi  
 • defer - defendanto (defendisto)  
 dege - akiri (gajni, ricevi, preni)  
@@ -373,6 +378,7 @@ denge - atendi
 des - dek (10)  
 deskilo - dek miloj  
 desen - desegno  
+desi- - dekono  
 detal - detalo  
 deu - dio  
 • deve - dia  
@@ -420,7 +426,7 @@ duge - legi
 duke - malĝoja  
 duman - fumo  
 dunia - mondo  
-dunia lingue - mondlingvo  
+dunia baxe - mondlingvo  
 dur - daŭri  
 • duro - ankoraŭ  
 • durize - daŭrigi  
@@ -502,7 +508,7 @@ fete - fari (faro, fakto)
 • feteria - fabriko  
 • infetion - infekto  
 • rifete - ripeti (refari)  
-fetolingue - artefarita lingvo  
+fetobaxe - artefarita lingvo  
 fi - bah!  
 figur - figuro  
 fikre - pensi (penso)  
@@ -655,9 +661,6 @@ guimuke - grimaco
 Guyana - Gujano  
 gul - gluti  
 gum - tamburo  
-gun - armeo  
-gunjen - soldato  
-gunreger - ĉefgeneralo  
 guru - guruo (instruisto)  
 guste - gusto  
 gute - genuo  
@@ -670,9 +673,9 @@ habargazete - gazeto
 hafnium - hafnio  
 hahe - ridi  
 hai - maro  
-hai - mara  
+• hayike - mara  
 haiamirer - admiralo (ŝiparestro)  
-haigun - mararmeo  
+haiorde - mararmeo  
 haiporta - haveno  
 haisake - golfo  
 haide - ni faru...  
@@ -696,11 +699,13 @@ hape - taŭga
 hapu - taŭgi  
 harabe - ruinigita  
 harfe - litero  
-harfia - alfabeto  
+• harfaje - alfabeto  
 harmone - harmonia  
-harmonia - harmonio  
+• harmonia - harmonio  
 Hartum - Ĥartumo  
-hase - speciala  
+has - speciala  
+haste - okupata  
+• anhaste - malrapida  
 hate - ĝis  
 hato - eĉ  
 hatre - danĝero  
@@ -797,6 +802,8 @@ jampe - salti
 janel - fenestro  
 janelfrem - fenestrokadro  
 janelovel - kurteno  
+jang - milito (batalo)  
+• jangike - milita  
 jau - hordeo  
 javabe - respondi  
 jebe - poŝo  
@@ -804,8 +811,6 @@ jele - malliberigi
 • jelokan - malliberejo  
 jen - persono  
 • dusojen - malamiko  
-jeng - milito (batalo)  
-jenge - milita  
 jenje - zingibro  
 jenju - perlo  
 jense - sekso  
@@ -1013,7 +1018,6 @@ lengomosim - vintro
 lengomosime - vintra  
 lense - ekzerco  
 lense - ekzerci  
-lente - malrapida  
 letis - laktuko  
 lexe - vorto  
 • lexia - vortaro  
@@ -1033,13 +1037,6 @@ limon jus - limonado
 line - lineo (ŝnuro)  
 lineme - fibro  
 lince - linko  
-lingue - lingvo  
-• duolinguike - dulingva  
-• konlingue - komuna lingvo  
-• polilinguike - multlingva  
-• unolinguike - unulingva  
-linguokanun - gramatiko  
-linguolojia - lingvistiko  
 lise - glata  
 lisan - lango  
 liste - listo  
@@ -1088,7 +1085,6 @@ Male - Malio
 malike - jasmeno  
 mam - mamo  
 man - viro  
-mange - okupata  
 mangan - mangano  
 manir - maniero (konduto)  
 manse - viando  
@@ -1155,7 +1151,7 @@ min ka bas - maltro
 minute - minuto  
 mire - speguli  
 • miror - spegulo  
-mirsonde - eĥo  
+miroson - eĥo  
 • misaje - mesaĝo  
 • misioner - misiisto  
 • konmisia - komisiono (komitea)  
@@ -1165,7 +1161,7 @@ misre - egipta
 Misria - Egipto  
 mitre - metro  
 mixe - miksi  
-mixer - miksilo  
+• mixer - miksilo  
 moge - inko  
 moke - arbo  
 mokomate - ligno  
@@ -1189,25 +1185,24 @@ muh - bovo
 muhmanse - bovaĵo  
 muke - vizaĝo  
 mul - radiko  
+• mumike - mumio  
 mumfote - kandelo  
 mumjen - mumio  
-• mumike - mumio  
 mun - pordo  
 mur - vando  
 murkaguze - tapeto  
 murce - formiko  
-mus - devo  
-mus - muso  
-muse - devigi  
+mus - devo (devi; devigi)  
 muskete - muskedo  
 muskul - muskolo  
 muskulobine - korpokulturado  
 musli - muslio  
 mute - aliigi  
+mux - muso  
 muze - amuzi  
 • muzante - amuza  
 muzike - muziko  
-muziker - muzikisto  
+• muziker - muzikisto  
 
 ## N  
 
@@ -1297,6 +1292,9 @@ or - orelo
 oritis - otito  
 orange - oranĝo  
 orangi - oranĝa  
+orde - armeo  
+ordorejer - ĉefgeneralo  
+ordojen - soldato  
 orte - rekta  
 osmium - osmio  
 osmos - osmozo  
@@ -1583,6 +1581,7 @@ sexe - sekso
 siborgium - seborgio  
 side - sidi  
 • presidente - prezidento  
+• susifia - eco  
 sifolexe - adjektivo  
 sigare - cigaredo  
 siyahe - nigra  
@@ -1790,6 +1789,7 @@ vide - vidi (rigardi)
 • dusvide - malbonaspekta  
 • exvide - evidenta  
 • exvidable - evidenta  
+• suvide - bonaspekta  
 vidou - vidvo  
 viki - vikio  
 vikipedia - vikipedio  

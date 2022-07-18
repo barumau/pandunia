@@ -96,13 +96,15 @@ airbaria - atmospheric pressure
 airbarmetrer - barometer  
 airobike - aerobic  
 anairobike - anaerobic  
-airogun - airforce  
+airorde - airforce  
 airoporta - airport (aeroport)  
 ais - ice (freeze; icy, frozen)  
 aishoke - ice hockey  
 aiskrem - ice cream  
 ajibe - marvel (wonder; amaze, astonish)  
 ajibia - awe (wonder)  
+• ajibable - wonderful (marvel, mirable)  
+• ajibaje - miracle  
 akare - tick (mite)  
 akrabe - scorpion (Scorpio)  
 ale - other (different; differentiate, change)  
@@ -125,6 +127,7 @@ alkalomelon - bitter melon
 alkalorange - bitter orange  
 alkol - alcohol  
 • alkoliste - alcoholic (drunkard)  
+alkolomixe - cocktail  
 almari - cupboard (closet, cabinet, wardrobe)  
 alpaka - alpaca  
 aluminium - aluminium  
@@ -207,7 +210,7 @@ arte - art
 • artofete - artifact (artefact; artificial)  
 • artofete intelige (AI) - artificial intelligence (AI)  
 • artiste - artist  
-artolingue - artistic language (artlang)  
+artobaxe - artistic language (artlang)  
 Artike - Arctic  
 Artiki Hai - Arctic Ocean  
 Aruba - Aruba  
@@ -228,8 +231,6 @@ astronau - starship
 • astronaver - astronaut  
 astronomia - astronomy  
 • astronomer - astronomer  
-Asur - Assur  
-Asuria - Assyria  
 ate - act (deed)  
 • ation - action  
 • ative - active (working; activate, enable, turn on, trigger)  
@@ -272,6 +273,8 @@ autonome - autonomous
 autonomia - autonomy  
 autoreje - independent  
 axe - axis (axle)  
+Axur - Assur  
+Axuria - Assyria  
 Azerbaizan - Azerbaijan  
 
 ## B  
@@ -357,6 +360,16 @@ batonpang - baguette
 batre - battery  
 bau - treasure (valuables; precious)  
 bavite - gem (gemstone, jewel)  
+baxe - language (tongue)  
+• duobaxike - bilingual  
+• konbaxe - common language  
+• polibaxike - multilingual  
+• trabaxe - translate (interpret; translation, interpretation)  
+• trabaxer - interpreter (translator)  
+• unobaxike - monolingual  
+baxokanun - grammar  
+baxolojia - linguistics (study of language)  
+• baxolojer - linguist  
 baze - base (foundation, bottom; basic; base on, found)  
 • bazike - basic  
 • bazer - founder  
@@ -451,14 +464,7 @@ Bolivia - Bolivia
 bolte - bolt  
 bombe - bomb  
 bon - good  
-boni zar - good luck  
-bondarge - upgrade (level up)  
-bondeke - virtue (morals)  
-bonraye - approve  
-bonsife - excellent  
-bonsifia - excellence (quality, virtue)  
-bonsinye - auspicious (promising)  
-bonvide - beautiful (handsome, good-looking)  
+bon zar - good luck  
 ribone - repair (fix, mend)  
 riboner - repairer  
 bore - bored  
@@ -675,6 +681,7 @@ darge - step (degree, rank, grade, level, class)
 dargomeden - gradient (gradation, incline)  
 dargomute - development  
 • dusdarge - downgrade  
+• sudarge - upgrade (level up)  
 darmositium - darmstadtium  
 darte - soil (dirt; soily, dirty)  
 darvinisme - Darwinism  
@@ -692,9 +699,6 @@ dau - way (road)
 dauban - road sign  
 de - of (attributive preposition)  
 de - from (since, because)  
-debu - must  
-deci - deci-  
-decibel - decibel  
 defe - defend (ward off; defense, defence)  
 defkaske - armor (shielding)  
 • defer - defender  
@@ -703,7 +707,8 @@ dege - get (gain, obtain, receive)
 deger - getter (receiver, recipient)  
 Deimos - Deimos  
 deke - morality (ethics; moral)  
-dekolojia - ethics  
+• dekolojia - ethics  
+• sudeke - virtue (morals)  
 deme - people (population; public)  
 demogider - demagogue  
 demografia - demography  
@@ -726,6 +731,8 @@ des - ten (10)
 deskilo - ten thousand  
 desosixike - hexadecimal  
 desen - drawing (design)  
+desi- - deci-  
+desibel - decibel  
 detal - detail  
 deu - god (deity)  
 • deve - divine (godly)  
@@ -841,7 +848,7 @@ duge - read
 duke - grief (sorrow, sadness; sad; grieve)  
 duman - smoke  
 dunia - world  
-dunia lingue - world language  
+dunia baxe - world language  
 duna - dune  
 dungia aventur - dungeon crawl  
 dur - last (take time; elapse, pass by, go by; during; duration, time interval)  
@@ -1021,7 +1028,7 @@ fete - do (make; deed, fact)
 • parafete - side-effect  
 • perfete - perfect (complete)  
 • rifete - do again (repeat, iterate)  
-fetolingue - artificial language (conlang)  
+fetobaxe - artificial language (conlang)  
 fi - bah!  
 figur - figure (representation)  
 fikre - think (ponder; thought, idea)  
@@ -1249,12 +1256,12 @@ gee - earth (ground)
 geodou - peanut (groundnut)  
 geoforme - terrain  
 geografia - geography  
-geogunia - ground force (army)  
 geokaski krake - fault line  
 geokaski plate - tectonic plate  
 geolojia - geology  
 Geomede Hai - Mediterranean  
 geometria - geometry  
+georde - ground force (army)  
 geoparline - equator  
 Geoparline Ginia - Equatorial Guinea  
 geopolitike - geopolitics  
@@ -1304,7 +1311,7 @@ Germania - Germania
 germanium - germanium  
 Gerneze - Guernsey  
 geste - gesture  
-gestolingue - sign language  
+gestobaxe - sign language  
 Gibraltar - Gibraltar  
 gide - guide (lead, show the way)  
 • gider - guide  
@@ -1385,17 +1392,14 @@ gul - swallow
 gulogui - ghoul  
 gum - drum  
 gumle - sentence (phrase)  
-gun - army  
-gunjen - soldier  
-gunregia - shogunate  
-gunreger - generalissimo (shogun)  
 guru - guru (teacher)  
 guste - taste (flavor)  
+• suguste - delicious  
 gute - knee  
 
 ## H  
 
-ha - with (there be; have)  
+ha - have  
 habar - news  
 habargazete - newspaper (gazette)  
 habaxe - Abyssinian  
@@ -1405,18 +1409,18 @@ hafizer - keeper (preserver)
 hafnium - hafnium  
 hahe - laugh  
 hai - sea  
-hai - maritime  
+• hayike - maritime  
 haialge - seaweed (macroalgae)  
 haiamirer - admiral  
+haiblu - aqua (teal)  
 haicau - seagrass  
 haiful - sea anemone  
-haigel - jellyfish (seajelly)  
-haigun - sea force (navy)  
+haigele - jellyfish (seajelly)  
 haihiyar - sea cucumber  
-hainile - aqua (teal)  
+haiorde - sea force (navy)  
 haiporta - harbor (seaport)  
-haitate - coast (beach)  
 haisake - bay (gulf, bight)  
+haitate - coast (beach)  
 haide - let's  
 haima - tent  
 Haiti - Haiti  
@@ -1450,21 +1454,23 @@ harame - forbid (ban, disallow)
 harame - forbidden (illicit, haram, taboo)  
 haramliste - blacklist  
 harfe - letter (character, written symbol)  
-harfia - alphabet  
+• harfaje - alphabet  
 harmone - harmonious  
-harmonia - harmony  
+• harmonia - harmony  
 harnes - harness  
 Hartum - Khartoum  
-hase - distinguish  
-hase - special (distinct)  
-hasia - distinction (specialty)  
-hasis - grass (hashish)  
+has - special (distinct)  
+• hasia - distinction (specialty)  
+• hasife - distinguish (specialize)  
+haste - hurry (rush, haste; hasty, busy, hurried, swift, fast)  
+• anhaste - slow  
 hate - until (til, up to)  
 hato - even (implying extreme example)  
 hatre - danger (peril; dangerous, perilous)  
 Havai - Hawaii  
 Havai nesia - Hawaiian archipelago  
 have - atmosphere (air, wind)  
+haxix - grass (hashish)  
 Hayastan - Armenia  
 he - huh? (pardon?)  
 hei - hey (exclamation to get attention)  
@@ -1651,6 +1657,10 @@ jampe - jump
 janel - window  
 janelfrem - window frame  
 janelovel - curtain  
+jang - fight (war, battle, combat)  
+• jangike - military (martial, warlike)  
+• janger - warrior (fighter)  
+jangoxute - martial art  
 jangle - wild (feral, savage)  
 janglia - wilderness  
 jangle van - jungle  
@@ -1670,10 +1680,6 @@ jele - imprison (jail)
 jen - person (individual)  
 • dusojen - enemy (foe, villain)  
 no jen - nobody (no-one)  
-jeng - fight (war, battle, combat)  
-jenge - military (martial, warlike)  
-• jenger - warrior (fighter)  
-jengoxute - martial art  
 jenje - ginger  
 jenju - pearl  
 jense - gender (sex)  
@@ -2187,13 +2193,13 @@ lengomosime - wintry
 lense - lens  
 lense - exercise  
 lense - practice (to exercise)  
-lente - slow (lethargic)  
 letis - lettuce  
 leu - already (yet)  
 lexe - word  
 • lexia - vocabulary (lexicon)  
 • lexeme - lexeme  
 • lexike - lexical (related to words)  
+lexojinse - grammatical gender  
 lexoliste - word list (lexicon)  
 leze - pear  
 liame - llama  
@@ -2211,7 +2217,7 @@ lide - lead (direct)
 • lider - leader (director)  
 lidoline - leash (rein)  
 Lietuva - Lithuania  
-lietuva lingue - Lithuanian  
+lietuva baxe - Lithuanian  
 lifafe - wrap (wrapping, envelope, covering)  
 lige - associate (association, league)  
 • alige - ally  
@@ -2238,16 +2244,6 @@ line - line (thread, string)
 lineme - fibre  
 linoparce - line break (newline)  
 lince - lynx  
-lingue - language (tongue)  
-• linguiste - linguist  
-• linguistia - linguistics  
-• duolinguike - bilingual  
-• konlingue - common language  
-• polilinguike - multilingual  
-• unolinguike - monolingual  
-lingue ginse - grammatical gender  
-linguokanun - grammar  
-linguolojia - linguistics  
 lise - smooth  
 lisan - tongue  
 liste - list (listing, catalogue)  
@@ -2383,7 +2379,6 @@ mani pute - son
 mani reger - king  
 manete - magnet  
 manete - magnetic  
-mange - busy (occupied)  
 mangan - manganese  
 mango - mango  
 mangus - mangosteen  
@@ -2481,6 +2476,7 @@ Mehiko site - Mexico City
 mei - beautiful (handsome, pretty)  
 • meyia - beauty  
 • meyize - decorate (embellish; decoration, ornament)  
+meideke - virtue  
 mei jen - beauty (beautiful person)  
 melodrame - melodrama  
 melodi - melodious (melodic)  
@@ -2562,17 +2558,11 @@ ming - bright (brilliant)
 • traming - translucent  
 minte - mint  
 minute - minute  
-mire - wonder  
 mire - reflect  
-• mirable - wonderful (marvel, mirable)  
 • miraje - mirage  
-• mirokle - miracle  
 • miror - mirror  
-• amire - admire  
-mirsonde - echo  
+miroson - echo  
 Miranda - Miranda  
-mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
-mirdu - fade  
 mise - send (emit, transmit)  
 • misia - mission (transmission, emission)  
 • misaje - message  
@@ -2592,13 +2582,12 @@ misre - Egyptian
 Misria - Egypt  
 mitre - meter (100 cm)  
 mixe - mix (blend)  
-mixi alkol - cocktail  
-mixer - mixer (blender)  
+• mixer - mixer (blender)  
 • mixure - mixture  
 mode - way (manner, mode)  
-modologe - adverb  
 • konmode - comfortable (convenient, commodious)  
 • akonmode - accommodate   
+modolexe - adverb  
 model - model (design)  
 modele - model (design)  
 moge - ink  
@@ -2627,10 +2616,9 @@ monte - mountain (mount, hill)
 • montaner - mountaineer  
 • montete - hill  
 morfe - morph  
-morfem - morpheme  
-morfeme - morpheme  
+• morfeme - morpheme  
 morte - die (death; dead, deceased)  
-• mortal - mortal  
+• mortable - mortal  
 • mortife - kill  
 • morter - killer  
 • posmortal - post mortem  
@@ -2657,11 +2645,11 @@ multia - number (abundance)
 • multeple - multiple  
 mum - wax  
 • mumaje - mumijo (shilajit)  
+• mumike - mummy  
+mummelon - winter melon (wax gourd, ash gourd)  
 mumcape - wax seal  
 mumfote - candle  
 mumjen - mummy  
-• mumike - mummy  
-mummelon - winter melon (wax gourd, ash gourd)  
 Mumbai - Mumbai (Bombay)  
 mun - door (gate)  
 • daimun - gate (portal)  
@@ -2670,20 +2658,18 @@ mur - wall (structure for delimitation)
 murkaguze - wallpaper  
 murce - ant  
 Muritania - Mauritania  
-mus - coercion  
-mus - mouse  
-muse - coerce (force, compel)  
+mus - coercion (must; force, compel)  
 muskete - musket  
 musketer - musketeer  
 muskul - muscle  
 muskulobine - bodybuilding  
 musli - muesli  
 mute - change (alter, convert)  
+mux - mouse  
 muze - have fun (enjoy; amuse, entertain; amusement, entertainment)  
 • muzante - funny (amusing)  
-muzike - music  
-muzike - play music  
-muziker - musician  
+muzike - music (play music)  
+• muziker - musician  
 
 ## N  
 
@@ -2840,11 +2826,11 @@ nole - cancel (nullify)
 nome - manage (organize)  
 • nomia - management (arrangement, -nomy)  
 norde - north (northern)  
-Nordi Amerike - North America  
-Nordi Cosen - North Korea (Democratic People’s Republic of Korea)  
-Nordi Eire - Northern Ireland  
-Nordi Kipris - Northen Cyprus  
-Nordi Makedonia - Republic of North Macedonia  
+Norde Amerike - North America  
+Norde Cosen - North Korea (Democratic People’s Republic of Korea)  
+Norde Eire - Northern Ireland  
+Norde Kipris - Northen Cyprus  
+Norde Makedonia - Republic of North Macedonia  
 Norfolke nes - Norfolk Island  
 Norge - Norway  
 norge - Norwegian  
@@ -2917,6 +2903,10 @@ ore - listen
 oritis - otitis  
 orange - orange (fruit)  
 orangi - orange (orange-colored)  
+orde - army  
+ordorejia - shogunate  
+ordorejer - generalissimo (shogun)  
+ordojen - soldier  
 orgazme - orgasm  
 orkide - orchid  
 orome - Oromo (an Ethiopian ethnic group and language)  
@@ -3162,7 +3152,7 @@ piza - pizza
 pizaria - pizzeria  
 plan - plan  
 plane - intend (plan)  
-planolingue - planned language  
+planobaxe - planned language  
 planete - planet  
 • explanete - exoplanet  
 plasme - plasma (ionized gas)  
@@ -3349,6 +3339,7 @@ radon - radon
 rai - opinion (view)  
 raye - deem (opine, think that)  
 • dusraye - disapprove (frown upon)  
+• surai - approve  
 raite - right hand side  
 raite - right hand  
 raitiste - rightist (right-winger)  
@@ -3649,6 +3640,8 @@ side - sit
 • visepresidente - vice-president  
 sife - qualify (describe; quality, attribute, description)  
 • sifive - descriptive  
+• susife - excellent  
+• susifia - excellence (quality, virtue)  
 sifolexe - adjective  
 sigare - cigarette (cigar)  
 siyahe - black  
@@ -3667,6 +3660,7 @@ sine - sign (signal, indication)
 • asine - assign (ascribe, attribute)  
 • desine - designate (mark out)  
 • dusosine - ominous (foreboding)  
+• susine - auspicious (promising)  
 sina - chest (breast)  
 sinakase - rib cage  
 sinaplate - breastplate  
@@ -4220,6 +4214,7 @@ vidopunte - perspective (point of view)
 • anprevide - unexpected  
 • provide - expect (anticipate, predict, forsee)  
 • rivide - revise (look over again)  
+• suvide - beautiful (handsome, good-looking)  
 • antravidable - opaque (not transparent)  
 vidomeden - visual field (field of vision)  
 vidou - widow  

@@ -64,7 +64,7 @@ aller-retour - retrotikete
 alligator - kortokrokodil  
 allophone - alofon  
 allô - halo  
-alphabet - harfia  
+alphabet - harfaje  
 alpiniste - montaner  
 alumine (oxyde d'aluminium) - aluminoxide  
 aluminium - aluminium  
@@ -135,8 +135,8 @@ argon - argon
 argument - argum  
 arme - arme  
 armure - defkaske  
-armée - gun  
-armée de l'ai - airogun  
+armée - orde  
+armée de l'ai - airorde  
 arobase (@) - adresoharfe  
 arrêt de bus - bus halte  
 arsenic - arsene  
@@ -154,8 +154,8 @@ asperge - asparge
 aspirine - aspirin  
 assez - bas  
 assujettir - subyuge  
-Assur - Asur  
-Assyrie - Asuria  
+Assur - Axur  
+Assyrie - Axuria  
 astate - astatium  
 asthme - asma  
 astre (corps céleste) - astre  
@@ -180,12 +180,12 @@ autopsie - nekrotome
 autre (changer) - ale  
 avant - pre  
 avant-guerre - pregere  
-avec (avoir) - ha  
 aventure - ventur  
 aventurier - venturer  
 avis (opinion) - rai  
 avocat - avakate  
 avoine - ave  
+avoir - ha  
 avoir tendance à - ive  
 axe - axe  
 Azerbaijan - Azerbaizan  
@@ -249,7 +249,7 @@ betterave à sucre (betterave sucrière) - sukarbete
 bibliothèque - kitabokan  
 bicyclette - sikle  
 bien-être - salamia  
-bilingue - duolinguike  
+bilingue - duobaxike  
 billet - tikete  
 biochimie - biokimia  
 biologie - biolojia  
@@ -548,7 +548,7 @@ dent - dante
 dessous - sube  
 destin - nasibe  
 deux (2) - du  
-devoir - debu  
+devoir - mus  
 diagnose (diagnostic) - dianose  
 diagonale - tragone  
 diamant - adamas  
@@ -671,7 +671,6 @@ exécrer - aname
 
 face (facette) - fase  
 facile - fasile  
-faible - mirde  
 faible - anbale  
 failli - bankorute  
 faillite (banqueroute) - bankorutia  
@@ -715,7 +714,7 @@ fois - mar
 fondu - exfuze  
 football - futobol  
 force - balia  
-force navale (marine) - haigun  
+force navale (marine) - haiorde  
 forer (percer) - fore  
 forme (former) - forme  
 fort - bale  
@@ -749,7 +748,7 @@ gaze - gaze
 gazelle - gazel  
 gelée - gele  
 genou - gute  
-genre grammatical - lingue ginse  
+genre grammatical - lexojinse  
 geographie - geografia  
 Germanie - Germania  
 germanium - germanium  
@@ -786,7 +785,7 @@ gâteau de lune - lunokeke
 gélatine - gelatine  
 génotype - genotipe  
 généalogie - genolojia  
-généralissime - gunreger  
+généralissime - ordorejer  
 généreux - karime  
 généreux - donive  
 générosité (charité) - karimia  
@@ -805,7 +804,7 @@ hafnium - hafnium
 haine - hen  
 halte - halte  
 hameçon - pexohuke  
-haschich - hasis  
+haschich - haxix  
 hassium - hesium  
 haut - gau  
 hautes technologies - gautehnia  
@@ -955,9 +954,9 @@ lama (enseignant religieux du bouddhisme tibétain) - lama
 lama - liame  
 lampe - lampe  
 Lance-roquettes - roketolancer  
-langage - lingue  
+langage - baxe  
 langue - lisan  
-langue des signes - gestolingue  
+langue des signes - gestobaxe  
 langue maternelle - genobase  
 lanthane - lantanium  
 lapin (lièvre) - tuze  
@@ -967,7 +966,7 @@ latéral - late
 lave - fuzopetre  
 lawrencium - laurensium  
 le (la) - la  
-lent - lente  
+lent - anhaste  
 lentille - lense  
 Lettonie - Latvia  
 leur - yamen su  
@@ -983,6 +982,7 @@ ligne de commande (console, terminal, invite de commande) - amirlin
 ligne téléphonique - telefonlin  
 lime (citron vert) - kagujolimon  
 limité - belime  
+linguistique - baxolojia  
 lire - duge  
 liste - liste  
 lithium - litium  
@@ -1075,7 +1075,7 @@ mercure - hurargente
 Mercure - Merkur  
 merde - xite  
 merveille (éblouir, étonner, stupéfier, surprendre) - ajibe  
-merveille - mirable  
+merveille - ajibable  
 message - angil  
 message - misaje  
 messager - angiler  
@@ -1088,9 +1088,8 @@ migration (s'installer, déménager) - migre
 mine - kuangia  
 minimalisme - minimisme  
 minorité - minuria  
-miracle - mirokle  
+miracle - ajibaje  
 mirage - miraje  
-mirar - mire  
 miroir - miror  
 mission - mision  
 missionnaire - misioner  
@@ -1131,7 +1130,7 @@ mât - maste
 mère (maman) - mai  
 mère - matre  
 mètre - mitre  
-méduse - haigel  
+méduse - haigele  
 méfait (péché) - dusate  
 méfait (péché) - duskar  
 mémoire - meme  
@@ -1197,7 +1196,7 @@ objet (article) - vate
 oblique (de travers) - terce  
 obscur (sombre, foncé) - dam  
 obsidienne - osidian  
-occupé - mange  
+occupé - haste  
 ocelot - oselote  
 oculaire - okule  
 océan - daihai  
@@ -1361,7 +1360,7 @@ pleurnicheur (pleurnichard) - vava bebe
 plomb - plumbe  
 pluie - barse  
 plume - kalam  
-plurilingue (multilingue) - polilinguike  
+plurilingue (multilingue) - polibaxike  
 plus - max  
 plutonium - plutonium  
 pocion - medikosui  
@@ -1432,7 +1431,7 @@ prolongé - longodure
 promettre (vœu , promesse) - vode  
 prométhium - prometium  
 pronostic - pronose  
-propice - bonsinye  
+propice - susine  
 propriété (possession, bien) - male  
 propédeutique (préparatoire) - prepede  
 protactinium - protacinium  
@@ -1641,7 +1640,7 @@ soie - silke
 soif - suiyau  
 soir (soirée) - xam:  
 soja - soi  
-soldat - gunjen  
+soldat - ordojen  
 soleil - sol  
 son (sa) - se su  
 son - son  
@@ -1749,6 +1748,7 @@ toxicologie - toxolojia
 toxine - biotoxe  
 trace - marke  
 tracteur - trater  
+traduction - trabaxe  
 tragicomique - tragokomi  
 tragique - trage  
 tragédie - tragodia  

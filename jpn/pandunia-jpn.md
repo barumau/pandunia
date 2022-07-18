@@ -19,7 +19,7 @@ ainstainium - アインスタイニウム
 air - 空気  
 airobike - 好気性  
 anairobike - 嫌気性  
-airogun - 空軍  
+airorde - 空軍  
 airoporta - 空港  
 ais - 氷 (アイス; 凍る)  
 aishoke - アイスホッケー  
@@ -35,6 +35,7 @@ alkalomelon - ツルレイシ (ニガウリ)
 alkalorange - ダイダイ  
 alkol - アルコール  
 • alkoliste - 飲兵衛  (アルコール中毒者)  
+alkolomixe - カクテル (混合酒)  
 alpaka - アルパカ  
 aluminium - アルミニウム  
 ame - 愛  
@@ -117,6 +118,9 @@ baton - 杭
 batonkase - 檻 (篭, ケージ)  
 batre - バッテリー  
 bavite - 宝石  
+baxe - 言語  
+• trabaxe - 翻訳する  
+baxolojia - 言語学  
 baze bol - 野球  
 bazopetre - 基盤岩  
 bazostrute - インフラストラクチャー  
@@ -433,7 +437,7 @@ genotipe - 遺伝子型
 • gerer - 戦士 (武士)  
 • antigere - 反戦  
 germanium - ゲルマニウム  
-gestolingue - 手話  
+gestobaxe - 手話  
 • gider - 案内人 (ガイド)  
 gidobuke - ガイドブック  
 gingoline - 縦糸  
@@ -462,8 +466,6 @@ gui - 鬼
 guimuke - しかめっ面  
 guipapil - オニゲシ  
 guke - キク  
-gunjen - 軍人  
-gunreger - 総統 (将軍 )  
 gute - 膝  
 
 ## H  
@@ -473,12 +475,12 @@ hahe - 笑う
 hai - 海  
 haialge - 海藻  
 haiamirer - 提督 (海軍大将)   
+haiblu - 水色  
 haicau - 海草  
 haiful - イソギンチャク  
-haigel - 海月  
-haigun - 海軍  
+haigele - 海月  
 haihiyar - 海鼠  
-hainile - 水色  
+haiorde - 海軍  
 haiporta - 海港  
 haitate - 海岸  
 hake - 権利  
@@ -491,6 +493,8 @@ hape - 適応する
 hape - 適切  
 haramliste - ブラックリスト  
 Hartum - ハルツーム  
+haste - 忙しい  
+• anhaste - 遅い (ゆっくり)  
 hatre - 危険  
 hei - おい  
 helium - ヘリウム  
@@ -551,6 +555,7 @@ ivia - 傾向
 jambul - フトモモ  
 janel - 窓  
 janelovel - カーテン  
+jang - 戦闘 (格闘)  
 jangle - 野生の  
 jangle van - ジャングル  
 jau - 大麦  
@@ -562,7 +567,6 @@ jekodone - 貸す
 • jelokan - 監獄  
 jen - 人  
 • dusojen - 敵  
-jeng - 戦闘 (格闘)  
 jenju - 真珠  
 jense - 性別 (ジェンダー)  
 jensolojia - ジェンダー研究  
@@ -746,10 +750,10 @@ lazanya - ラザニア
 lazurpetre - ラピスラズリ (瑠璃)  
 lefte - 左  
 lense - レンズ  
-lente - 遅い (ゆっくり)  
 letis - レタス  
 lexe - 言葉  
 • lexia - 語彙  
+lexojinse - 文法的性 (名詞クラス)  
 liame - ラマ  
 libu - 立つ  
 liboban - 棚  
@@ -765,9 +769,6 @@ limon jus - レモネード
 line - 糸  
 lineme - 繊維  
 lince - 大山猫  
-lingue - 言語  
-lingue ginse - 文法的性 (名詞クラス)  
-linguolojia - 言語学  
 lisan - 舌  
 litium - リチウム  
 litre - リットル  
@@ -823,7 +824,6 @@ makanful - タンポポ
 • malonomia - 経済学  
 man - 男  
 mani reger - 王様  
-mange - 忙しい  
 mangan - マンガン  
 manse - 肉  
 mantol - マント (ケープ)  
@@ -851,6 +851,7 @@ mega - １００万 (メガ)
 mei - 美しい  
 • meyia - 美しさ  
 • meyize - 飾る (装飾)  
+meideke - 美徳  
 mei jen - 美人  
 melon - マスクメロン  
 meme - 記憶  
@@ -882,13 +883,11 @@ mimer - 模倣者
 minte - ハッカ  
 • miraje - 蜃気楼  
 • miror - 鏡  
-mirde - 微か  
 • misaje - 伝言 (メッセージ)  
 • misioner - 宣教師  
 • konmisia - 委員会  
 Misria - エジプト  
 mitre - メートル  
-mixi alkol - カクテル (混合酒)  
 moke - 木  
 mokotan - 丸木  
 mole - モル  
@@ -988,6 +987,8 @@ okosuigas - 催涙ガス
 • okeyable - 大丈夫 (ＯＫ)  
 onde - 波  
 orangi - オレンジ色の  
+ordorejer - 総統 (将軍 )  
+ordojen - 軍人  
 orkide - ラン  
 orte - まっすぐな  
 oselote - オセロット  

@@ -26,7 +26,7 @@ akacja - babul
 akacja arabska - arabobabul  
 akcent, nacisk - baloton  
 akt, scena - roler  
-aktualizować (zaktualizować, ulepszać, ulepszyć) - bondarge  
+aktualizować (zaktualizować, ulepszać, ulepszyć) - sudarge  
 aktyn - acinium  
 aktywować (włączyć, uruchomić) - ative  
 akwarela (farba wodna) - suirang  
@@ -35,7 +35,7 @@ Alaska - Alaska
 Albania - Cipia  
 ale, lecz - ama  
 alfabet łaciński, łacinka, alfabet rzymski - latini harfia  
-alfabet, abecadło - harfia  
+alfabet, abecadło - harfaje  
 alga (wodorost) - alga  
 algebra - jebre  
 Algieria - Zayeria  
@@ -48,7 +48,7 @@ amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki) - USA
 ameryk - amerikium  
 Ameryka (kontynent) - Amerike  
 Ameryka Południowa - Sudi Amerike  
-Ameryka Północna - Nordi Amerike  
+Ameryka Północna - Norde Amerike  
 Amerykańska Samoa - Amerikan Samoa  
 amerykański - amerikan  
 Amhara, amharski - Amare  
@@ -90,7 +90,7 @@ argon - argon
 argument - argum  
 Arktyka - Artike  
 Armenia - Hayastan  
-armia - gun  
+armia - orde  
 aromantyczny - anromante  
 arsen - arsene  
 artykuł, tekst - makal  
@@ -105,8 +105,8 @@ astma - asma
 astronauta - astronaver  
 astronom - astronomer  
 astronomia - astronomia  
-Asyria - Asuria  
-Aszur - Asur  
+Asyria - Axuria  
+Aszur - Axur  
 atak (agresja, napaść) - agrese  
 ateista - andeviste  
 atleta, sportowiec - kelele  
@@ -289,7 +289,7 @@ całość (integralność) - holia
 całus - cum  
 cały - hole  
 cebula - piaze  
-cecha, atrybut, własność; -ość - bonsifia  
+cecha, atrybut, własność; -ość - susifia  
 cegła - binite  
 cel (celować; kierunek) - dike  
 cel - gol  
@@ -351,7 +351,7 @@ ciężarny (w ciąży) - hamile
 ciężki (masywny) - veze  
 ciśnienie atmosferyczne - airbaria  
 cmentarz - gabrostan  
-cnota (moralność) - bondeke  
+cnota (moralność) - sudeke  
 co? - ke  
 co? - ke jen  
 coś - yo xei  
@@ -366,7 +366,7 @@ cwał (galop) - galope
 cynk - stanium  
 cynk - zinke  
 Cypr - Kipris  
-Cypr Północny - Nordi Kipris  
+Cypr Północny - Norde Kipris  
 cyrkon - zirkonium  
 cyrylica - kiril harfia  
 cytologia - celolojia  
@@ -430,8 +430,8 @@ dać mieszkanie (zakwaterować) - domane
 dać, dawać - done  
 deaktywować (wyłączyć, zatrzymać) - deative  
 debatować, prowadzić dyskurs - lone  
-decy-, dziesiąta część - deci  
-decybel - decibel  
+decy-, dziesiąta część - desi-  
+decybel - desibel  
 dedykacja (poświęcenie) - satodonia  
 dedykować (poświęcać, poświęcić) - satodone  
 dekorować (dekoracja, ornament) - meyize  
@@ -455,7 +455,7 @@ diament - adamas
 dioryt - diorite  
 do, dopóki, dla - ta  
 dobry - bon  
-dobry los, szczęście - boni zar  
+dobry los, szczęście - bon zar  
 dobry ranek - sal suba  
 dobry wieczór - sal xam  
 dodatkowy - maxbone  
@@ -500,7 +500,7 @@ dusza, duch, umysł - ruh
 duński - dane  
 duży - dai  
 dwa (2) - du  
-dwujęzyczny - duolinguike  
+dwujęzyczny - duobaxike  
 dwukrotnie (dwa razy) - du mar  
 dwutlenek węgla - karboduloxide  
 dwuznacznik - duplomene  
@@ -564,7 +564,7 @@ dżungla - jangle van
 
 ## E  
 
-echo - mirsonde  
+echo - miroson  
 efekt halo - fotosirke  
 egipski - misre  
 Egipt - Misria  
@@ -732,11 +732,10 @@ gracki, helleński; Grek - helene
 gracz - gemer  
 gradient (gradacja, stopniowanie) - dargomeden  
 gram - gram  
-gramatyka - linguokanun  
+gramatyka - baxokanun  
 granica, skraj, brzeg - kenar  
 granit - granite  
 gratulować (błogosławić, gratulacje) - barke  
-grać muzykę - muzike  
 grać, odgrywać rolę - role  
 Grecja - Helenia  
 grejpfrut - putavorange  
@@ -805,7 +804,7 @@ handlarz (kupiec) - vendoxoper
 harmonia - harmonia  
 harmoniczny - harmone  
 has - hesium  
-haszysz - hasis  
+haszysz - haxix  
 hasło - sekurokode  
 Hawaje (archipelag hawajski) - Havai nesia  
 Hawaje - Havai  
@@ -911,7 +910,7 @@ inżynier - enjener
 Irak - Irakia  
 Iran - Iran  
 Irlandia - Eire  
-Irlandia Północna - Nordi Eire  
+Irlandia Północna - Norde Eire  
 ironia - ironia  
 ironia dramatyczna - dramironia  
 ironia sytuacyjna - xeihalironia  
@@ -990,13 +989,13 @@ judaizm - yahudisme
 judo - judau  
 jutro - posden  
 jęczmień - jau  
-język - lingue  
+język - baxe  
 język - lisan  
 język ojczysty (język rodzimy) - genobase  
 język surinamski - surinami baxe  
-język sztuczny - fetolingue  
-język świata, język ogólnoświatowy - dunia lingue  
-językoznastwo - linguolojia  
+język sztuczny - fetobaxe  
+język świata, język ogólnoświatowy - dunia baxe  
+językoznastwo - baxolojia  
 
 ## K  
 
@@ -1115,7 +1114,7 @@ kod, szyfr - kode
 kodować - inkode  
 koka - koka  
 kokos - yeze  
-koktajl - mixi alkol  
+koktajl - alkolomixe  
 kola (coca-cola) - koka kola  
 kola, napój gazowany - kola jus  
 kola, napój gazowany - kole  
@@ -1172,7 +1171,7 @@ koral - koral
 Koran - kuran  
 Korea - Cosen  
 Korea Południowa - Sudi Cosen  
-Korea Północna (Koreańska Republika Ludowo-Demokratyczna) - Nordi Cosen  
+Korea Północna (Koreańska Republika Ludowo-Demokratyczna) - Norde Cosen  
 korniszon - suanpursipi hiyar  
 korona - koron  
 koronawirus - koronvirus  
@@ -1338,7 +1337,7 @@ listopad - lun bate
 listownicowiec - varkalge  
 lit - litium  
 litera, znak - harfe  
-litewski - lietuva lingue  
+litewski - lietuva baxe  
 litr - litre  
 Litwa - Lietuva  
 liwermor - livermorium  
@@ -1424,7 +1423,7 @@ Mariany Północne - Marian nesia
 marmur - kalsokristal  
 Maroko - Magribia  
 Mars - Marse  
-marynarka (flota) - haigun  
+marynarka (flota) - haiorde  
 marynować - acar  
 marzec - lun des un  
 masa - mas  
@@ -1454,7 +1453,7 @@ mech - mos
 medalion, medal - medal  
 media - midia  
 media społecznościowe - soce media  
-meduza - haigel  
+meduza - haigele  
 medycyna - medikia  
 medytować; dumać, rozmyślać, zastanawiać się - medite  
 megawat - megavate  
@@ -1502,7 +1501,7 @@ miligram - miligram
 milimetr - milimitre  
 milion - mega  
 milion - yota  
-militarny, wojskowy, wojenny - jenge  
+militarny, wojskowy, wojenny - jangike  
 minerał, ruda - kuang  
 minimalizm - minimisme  
 minister - manter  
@@ -1561,10 +1560,9 @@ monoteizm - unodevisme
 moralność, etyka - deke  
 morela - barkoke  
 morf - morfe  
-morfem - morfem  
 morfem - morfeme  
-morski - hai  
-morskoniebieski - hainile  
+morski - hayike  
+morskoniebieski - haiblu  
 Morze Śródziemne - Geomede Hai  
 moskovium - moskovium  
 Moskwa - Moskove  
@@ -1582,7 +1580,6 @@ mumia - mumjen
 mumia - mumike  
 mumio - mumaje  
 mur, ściana - mur  
-musieć - debu  
 muskuł, mięsień - muskul  
 musli - musli  
 muszkiet - muskete  
@@ -1590,12 +1587,12 @@ muszkieter - musketer
 muzułman, muzułmanin - islaman  
 muzułman, muzułmanin - islamiste  
 muzyk - muziker  
-muzyka - muzike  
+muzyka (grać muzykę) - muzike  
 muł - gadogude  
 my - mimen  
 mydło - sabun  
 mylić (gmatwać, zmieszać, konsternować; smieszany, skonfudowany) - ruhmixe  
-mysz - mus  
+mysz - mux  
 myśleć (dumać; myśl, pomysł) - fikre  
 móc, umieć - able  
 mój - mi su  
@@ -1718,9 +1715,7 @@ Nigeria - Nigiria
 nihonium - niponium  
 Nikaragua - Nikaragua  
 nikiel - nikel  
-niknąć (blaknąć, gasnąć, słabnąć) - mirdu  
 nikt, żadna osoba - no jen  
-nikły - mirde  
 niob - niobium  
 niski - dipe  
 nisza, alkowa - nis  
@@ -1762,7 +1757,7 @@ oaza - vase
 obcęgi, kleszcze, szczypce - pinser  
 obiad, lunch - yomyam  
 obiecać, angażować się - vode  
-obiecujący (dobrze wróżący) - bonsinye  
+obiecujący (dobrze wróżący) - susine  
 obniżać (obniżyć) - dipife  
 obozowicz - kampe  
 obrabować, splądrować - lute  
@@ -2145,7 +2140,7 @@ powietrze - air
 powinien - sel  
 powodować (rezult, wynik) - asar  
 powojenny - posgere  
-powolny (wolny, letargiczny) - lente  
+powolny (wolny, letargiczny) - anhaste  
 powrót (wrócić, wracać, wycofać się, wycofywać się) - retre  
 powszechny, uniwersalny - putonge  
 powtarzanie, powtórka - ri-  
@@ -2276,16 +2271,16 @@ przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - lai
 przykryć (przykrywać, ukryć, ukrywać; pokrycie; pokrywa, wieko, dekiel; pokład) - dake  
 przykład - misal  
 przymiotnik - sifolexe  
-przymus - mus  
+przymus (musieć; zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać) - mus  
 przyprawa - masale  
 przyrostek (sufiks) - posfixe  
 przyrostek dla ideologii - isme  
 przyrostek dla miejsca - ia  
 przyrostek dla wsperającego ideę - iste  
 przystanek autobusowy - bus halte  
-przystojny, atrakcyjny, ładny - bonvide  
+przystojny, atrakcyjny, ładny - suvide  
 przyszłość - posozam  
-przysłówek - modologe  
+przysłówek - modolexe  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tiroriu  
 prędkościomierz - sugometrer  
 prędkość (szybkość) - sugude  
@@ -2380,7 +2375,7 @@ republika - komunkratia
 Republika Czeska, Czechy - Cehia  
 Republika Dominikańska (Dominikana) - Dominiki Komunkratia  
 Republika Konga - Brazavil Kongo  
-Republika Macedonii, Macedonia - Nordi Makedonia  
+Republika Macedonii, Macedonia - Norde Makedonia  
 Republika Środkowoafrykańska - Zungafrike  
 respekt, honor, szacunek, poważanie - onor  
 restauracja - restorante  
@@ -2392,7 +2387,7 @@ rock - roke muzike
 rocznica - nenfeste  
 rod - rodium  
 rodak, ziomek, krajan - samodexan  
-rodzaj gramatyczny - lingue ginse  
+rodzaj gramatyczny - lexojinse  
 rodzaj, typ, styl - yang  
 rodzeństwo, brat lub siostra - brus  
 rodzic (matka lub ojciec) - cin  
@@ -2418,7 +2413,7 @@ rozluźnić (poluzować) - laxe
 rozmiar - dayude  
 rozmnażać - genite  
 rozmowny - logive  
-rozróżniać (rozróżnić) - hase  
+rozróżniać (rozróżnić) - hasife  
 rozszczepienie jądra atomowego - kore fenia  
 rozum, rozsądek - ration  
 rozumieć, pojmować - ahe  
@@ -2563,7 +2558,7 @@ silny - bale
 Singapur - Singapur  
 się (nawzajem, wzajemnie) - unale  
 siła - balia  
-siły powietrzne - airogun  
+siły powietrzne - airorde  
 skand - skandium  
 Skandynawia - Skandia  
 skarb (skrabiec; cenny) - bau  
@@ -2610,7 +2605,7 @@ spacja - kali harfe
 spadek, dziedzictwo, spuścizna, zapis - varis  
 spalić, palić - hoge  
 spać (sen) - some  
-specjalny, wyraźny, wyrazisty - hase  
+specjalny, wyraźny, wyrazisty - has  
 spis treści (tabela zawartości) - inliste  
 spisek (konspiracja) - siroplan  
 spocony - suedos  
@@ -2740,8 +2735,8 @@ szkło - glas
 szkło wulkaniczne - hogoxan glas  
 szmaragd - zumurude  
 szofer (kierowca) - xofer  
-szogun - gunreger  
-szogunat - gunregia  
+szogun - ordorejer  
+szogunat - ordorejia  
 szokwstrząs; kolizja - xoke  
 szop pracz - vaxurse  
 szorstki - karse  
@@ -2751,7 +2746,7 @@ szron - hima rose
 sztuczka (podstęp, oszustwo) - truke  
 sztuczna inteligencja - artofete intelige (AI)  
 sztuka - arte  
-sztuka walki - jengoxute  
+sztuka walki - jangoxute  
 sztylet (puginał) - kanzar  
 szuflada - tirsanduke  
 szukać - soge  
@@ -2939,6 +2934,8 @@ tytoń - tabake
 tytuł (nagłówek) - temnam  
 tęcza - rangarke  
 tłok - pompotape  
+tłumacz - trabaxer  
+tłumaczyć (interpretować; tłumaczenie, interpretacja) - trabaxe  
 
 ## U  
 
@@ -3004,7 +3001,7 @@ wagina - vagine
 walc - valse  
 Walia - Kamria  
 walijski - kamre  
-walka, wojna - jeng  
+walka, wojna - jang  
 wampir - vampir  
 wampirzyca piekielna (wampirnica) - vampirbalsenter  
 wanad - vanadium  
@@ -3070,7 +3067,7 @@ wiele (wielo-, poli-, multi-) - poli
 wiele - multe  
 Wielkanoc - paske  
 wielki piec - gavi tanur  
-wielojęzyczny - polilinguike  
+wielojęzyczny - polibaxike  
 wielokulturowość - polikulturisme  
 wielokulturowy - polikulture  
 wielokąt (wielościan) - poligone  
@@ -3127,7 +3124,7 @@ wodoodporny - suisekure
 wodorosty - haialge  
 wodospad - suipade  
 wodór - hidre  
-wojownik, bojownik - jenger  
+wojownik, bojownik - janger  
 wola (chęć; chcieć, pragnąć) - ice  
 wolfram - volfram  
 wolność, niepodległość, niezależność - huria  
@@ -3135,7 +3132,7 @@ wolny, niepodległy, niezależny - hure
 wolof - Volof  
 wolt (V) - volte  
 wosk - mum  
-wosko lądowe (armia) - geogunia  
+wosko lądowe (armia) - georde  
 wow! (łoł!, jej!) - va  
 wołowina - muhmanse  
 wrzesień - lun sixe  
@@ -3146,13 +3143,13 @@ wschód - dong
 wskazać, wskazywać - ponte  
 wskaźnik - dikobaton  
 wskaźnik - ponter  
-wspaniały - bonsife  
+wspaniały - susife  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super  
 wsparcie (wzmocnienie, zasilenie) - maxobalaje  
 wspinać się (wspiąć się) - askale  
 wspólny (wzajemny) - kone  
 wspólny - komune  
-wspólny język - konlingue  
+wspólny język - konbaxe  
 współczucie - samemote  
 współpracować (kolaborować) - konkare  
 wstecz - a retre  
@@ -3254,7 +3251,7 @@ zagraniczny - exgogian
 zagrożenie (niebezpieczeństwo; niebezpieczny) - hatre  
 zaimek - pronam  
 zainteresowanie, zaciekawienie; interesujący - sabovol  
-zajęty - mange  
+zajęty - haste  
 zaklecie - magasar  
 Zambia - Zambia  
 zamek (zapięcie) - sore  
@@ -3335,7 +3332,6 @@ zmaksymalizować - maximife
 zmiana klimatu - klimomute  
 zmienić, zmieniać - mute  
 zmniejszyć o jeden - minodarge  
-zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać - muse  
 zmysł - sense  
 zmęczenie (wyczerpanie; męczyć się, nużyć się) - fatige  
 znaczek pocztowy - postocape  
@@ -3442,7 +3438,7 @@ zły, zrujnowany, zepsuty - harabe
 żel, galareta - gele  
 żelazo - fer  
 żeń-szeń - jensen  
-żołnierz - gunjen  
+żołnierz - ordojen  
 żołądź - balutopal  
 żwir - grave  
 życie - jive  

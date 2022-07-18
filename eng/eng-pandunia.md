@@ -42,7 +42,6 @@ administer (govern) - polite
 administrator - politer  
 admiral - haiamirer  
 admire (adore) - fanate  
-admire - amire  
 adolescent (yong man; maiden) - kumar  
 adult - matur  
 adultery (infidelity) - zine  
@@ -51,7 +50,7 @@ advancement (milestone) - progresion
 advent - avene  
 adventure (venture) - ventur  
 adventurer - venturer  
-adverb - modologe  
+adverb - modolexe  
 adversary (antagonist, opponent) - xatan  
 advice (recommend) - sel  
 advisor (counselor, mentor) - menter  
@@ -85,7 +84,7 @@ agrobiology - agrobiolojia
 agronomy - agronomia  
 air - air  
 air piracy (skyjacking) - airopiratia  
-airforce - airogun  
+airforce - airorde  
 airplane - viman  
 airport (aeroport) - airoporta  
 Aland Islands - Olandi nesia  
@@ -105,7 +104,7 @@ allow (permit) - halale
 ally - alige  
 almond - badam  
 alpaca - alpaka  
-alphabet - harfia  
+alphabet - harfaje  
 already (yet) - leu  
 also (too, in addition) - a max  
 altar - pujomeza  
@@ -180,11 +179,11 @@ applesauce - aplesaus
 apply (put to use for a purpose; application) - aplike  
 apprentice - karoxuler  
 approach (get close, approximate) - aproxe  
-approve - bonraye  
+approve - surai  
 approximate - aproxime  
 apricot - barkoke  
 April - lun catre  
-aqua (teal) - hainile  
+aqua (teal) - haiblu  
 Arabic - arabe  
 arachnophobia - aranofobia  
 arboretum - mokozongoparke  
@@ -207,7 +206,7 @@ arm - handange
 armed forces (army) - armia  
 Armenia - Hayastan  
 armor (shielding) - defkaske  
-army - gun  
+army - orde  
 aromantic - anromante  
 arrack - ris arake  
 arrow (bolt) - flece  
@@ -217,10 +216,10 @@ artichoke thistle (cardoon) - kardonkarcof
 article (writing) - makal  
 artifact (artefact; artificial) - artofete  
 artificial intelligence (AI) - artofete intelige (AI)  
-artificial language (conlang) - fetolingue  
+artificial language (conlang) - fetobaxe  
 artisan (craftsman) - zanger  
 artist - artiste  
-artistic language (artlang) - artolingue  
+artistic language (artlang) - artobaxe  
 Artsakh - Arcah  
 Aruba - Aruba  
 ascetic - askete  
@@ -236,8 +235,8 @@ aspect (viewpoint) - aspete
 aspirin - aspirin  
 assign (ascribe, attribute) - asine  
 associate (association, league) - lige  
-Assur - Asur  
-Assyria - Asuria  
+Assur - Axur  
+Assyria - Axuria  
 astatine - astatium  
 asthma - asma  
 astrobiology - kosmobiolojia  
@@ -260,7 +259,7 @@ attractive - atrative
 attributive postposition (-'s) - su  
 augment (increase, rise; boom, peak, apex, zenith, heyday) - auge  
 August - lun bate  
-auspicious (promising) - bonsinye  
+auspicious (promising) - susine  
 Australia - Australia  
 Australian Aboriginal - aslaustrale  
 Austria - Ostria  
@@ -357,7 +356,7 @@ beacon (lighthouse) - fotominar
 bean or pea (legume) - dou  
 bear - urse  
 beard - barde  
-beautiful (handsome, good-looking) - bonvide  
+beautiful (handsome, good-looking) - suvide  
 beautiful (handsome, pretty) - mei  
 beautiful-faced - sumuke  
 beauty (beautiful person) - mei jen  
@@ -419,7 +418,7 @@ bicycle (pedal bike) - pedalsikle
 big (great, large) - dai  
 big city - daisite  
 bike (cycle) - sikle  
-bilingual - duolinguike  
+bilingual - duobaxike  
 bill (invoice) - bil  
 billion (giga-) - giga  
 bind (tie, fasten; band, bandage) - bende  
@@ -551,7 +550,6 @@ bush (shrub) - dipe moke
 business (commercial activity) - biznes  
 businessperson (businessman) - bizneser  
 bust (bosom) - buste  
-busy (occupied) - mange  
 but (rather) - ama  
 butcher (slaughter) - buce  
 butcher - bucer  
@@ -784,14 +782,13 @@ cobalt - kobalte
 cobblestone - sirkite  
 coca - koka  
 Coca-Cola - koka kola  
-cocktail - mixi alkol  
+cocktail - alkolomixe  
 cocoa - kakau  
 coconut tree - yeze  
 Cocos (Keeling) Islands - Kokos nesia  
 cod - bakalau  
 code (cipher) - kode  
-coerce (force, compel) - muse  
-coercion - mus  
+coercion (must; force, compel) - mus  
 coffee - kafe  
 coffee cup - kafe kupe  
 coffeepot - kafe pote  
@@ -831,7 +828,7 @@ commit - konmise
 common (general) - putonge  
 common (mutual) - kone  
 common (shared) - komune  
-common language - konlingue  
+common language - konbaxe  
 communicate (inform about) - sabize  
 communism - koncanisme  
 communist - koncaniste  
@@ -1040,8 +1037,8 @@ debate (discuss) - lone
 debug - degalte  
 decay (rot, deteriorate) - pudu  
 December - lun des du  
-deci- - deci  
-decibel - decibel  
+deci- - desi-  
+decibel - desibel  
 declaim (protest, object vociferously) - deklame  
 decode (decrypt) - dekode  
 decorate (embellish; decoration, ornament) - meyize  
@@ -1066,6 +1063,7 @@ degree (measurable level) - ude
 degree Celsius - celsius darge  
 Deimos - Deimos  
 delicious (yummy) - yamyam di  
+delicious - suguste  
 deluxe - deluxe  
 demagogue - demogider  
 demented (out of one’s mind) - demente  
@@ -1133,7 +1131,7 @@ disperse (spread out, scatter; sparse) - dise
 distance (far away) - tel  
 distance (length) - telia  
 distinction (specialty) - hasia  
-distinguish - hase  
+distinguish (specialize) - hasife  
 distract (pull apart) - distrate  
 distrust (disbelieve) - ankrede  
 disturb (disturbance, turbulence) - disturbe  
@@ -1233,7 +1231,7 @@ Easter - paske
 eastern - donge  
 eastern gorilla - dongogoril  
 easy - fasile  
-echo - mirsonde  
+echo - miroson  
 ecology (study of environment) - ekolojia  
 economics - malonomia  
 Ecuador - Ekuador  
@@ -1348,8 +1346,8 @@ evident (apparent, obvious) - exvide
 evoke (call out) - exvoke  
 exa- - exa  
 example (instance of) - misal  
-excellence (quality, virtue) - bonsifia  
-excellent - bonsife  
+excellence (quality, virtue) - susifia  
+excellent - susife  
 except (minus) - minus  
 except (take out; save) - excepe  
 exchange (swap, replace, trade) - badle  
@@ -1398,9 +1396,7 @@ face - muke
 face powder - mukofun  
 factory (plant) - feteria  
 factory - fetokan  
-fade - mirdu  
 failure (loss, flop, miss, defeat) - xibai  
-faint (depending on context: soft, dull, mild, weak, slow, subtle) - mirde  
 Falkland Islands (Malvinas) - Malvinas nesia  
 fall down (drop down) - pade  
 false (fake) - false  
@@ -1456,7 +1452,7 @@ field (square, plaza, maidan) - meden
 fiery - hoge  
 fiever - febre  
 fight (war) - bele  
-fight (war, battle, combat) - jeng  
+fight (war, battle, combat) - jang  
 figure (representation) - figur  
 Fiji - Fizi  
 file (record, collection of data) - dataje  
@@ -1611,7 +1607,7 @@ gender studies - jensolojia
 genderqueer (non-binary) - bis  
 gene - genete  
 genealogy (study of descent) - genolojia  
-generalissimo (shogun) - gunreger  
+generalissimo (shogun) - ordorejer  
 generate  - generate  
 generation   - generation  
 generation (cohort) - genogrupe  
@@ -1678,7 +1674,7 @@ good (well) - sue
 good - bon  
 good day - sal den  
 good evening - sal xam  
-good luck - boni zar  
+good luck - bon zar  
 good morning - sal suba  
 good night - sal noce  
 good-haired - sukexe  
@@ -1690,8 +1686,8 @@ government (administration, polity) - polite
 gradient (gradation, incline) - dargomeden  
 grain (particle) - grane  
 gram (g) - gram  
-grammar - linguokanun  
-grammatical gender - lingue ginse  
+grammar - baxokanun  
+grammatical gender - lexojinse  
 grandchild - benben  
 grandfather - cinpai  
 grandmother - cinmai  
@@ -1702,7 +1698,7 @@ grapefruit - putavorange
 grapheme - kitabeme  
 graphic (image, graph, picture) - grafe  
 graphics card (video card) - grafokarde  
-grass (hashish) - hasis  
+grass (hashish) - haxix  
 grass - cau  
 grassland (prairie) - caustan  
 gratitude (thankfulness) - xukria  
@@ -1724,7 +1720,7 @@ grilled meat (kebab) - kababe manse
 grimace - guimuke  
 grind (grind in mill) - mole  
 grindstone (millstone) - molite  
-ground force (army) - geogunia  
+ground force (army) - georde  
 group - grupe  
 growth - raste  
 Guadeloupe - Guadelupe  
@@ -1784,6 +1780,7 @@ hassium - hesium
 hat (cap) - tupe  
 hate (despise) - hene  
 hatred (hate, resentment, odium) - hen  
+have - ha  
 have fun (enjoy; amuse, entertain; amusement, entertainment) - muze  
 Hawaii - Havai  
 Hawaiian archipelago - Havai nesia  
@@ -1903,6 +1900,7 @@ hunger - yamyau
 hunter (chasseur) - yeger  
 hunting (fishing) - yege  
 hurry (hasten) - yale  
+hurry (rush, haste; hasty, busy, hurried, swift, fast) - haste  
 hurt (pain; suffer) - tunge  
 hush (shh) - tix  
 hybrid (mongrel) - hibride  
@@ -2017,6 +2015,7 @@ interethnic - zukomede
 interface - midofas  
 international - nasomede  
 internet - internete  
+interpreter (translator) - trabaxer  
 interracial - rasomede  
 interrogative - sualive  
 interrupt - interrute  
@@ -2070,7 +2069,7 @@ Japanese - nipone
 jasmine - malike  
 jazz - jaze  
 jealous - zelose  
-jellyfish (seajelly) - haigel  
+jellyfish (seajelly) - haigele  
 Jersey - Jerzi  
 Jerusalem - Urusalem  
 Jerusalem artichoke (sunroot) - masmulsolful  
@@ -2166,7 +2165,7 @@ lake - lage
 lama - lama  
 lamp - lampe  
 LAN - LAN (loke aria nete)  
-language (tongue) - lingue  
+language (tongue) - baxe  
 lantern - hogosanduke  
 lanthanum - lantanium  
 Lao (Laotian) - lave  
@@ -2252,9 +2251,8 @@ limit (boundary) - lime
 limited (finite) - belime  
 line (thread, string) - line  
 line break (newline) - linoparce  
-linguist - linguiste  
-linguistics - linguolojia  
-linguistics - linguistia  
+linguist - baxolojer  
+linguistics (study of language) - baxolojia  
 link - sereme  
 lion - sing  
 lip - labe  
@@ -2264,7 +2262,7 @@ listen - ore
 literature (body of written works) - kitabia  
 lithium - litium  
 Lithuania - Lietuva  
-Lithuanian - lietuva lingue  
+Lithuanian - lietuva baxe  
 litre (liter) - litre  
 little (few, not many) - xau  
 little (small; a little, somewhat) - lile  
@@ -2393,7 +2391,7 @@ marble - kalsokristal
 March - lun tri  
 margarine - margarin  
 margay - margai  
-maritime - hai  
+maritime - hayike  
 mark (leave a mark) - marke  
 mark (trace) - marke  
 market (bazaar) - bazar  
@@ -2403,7 +2401,7 @@ marry - game
 Mars - Marse  
 marsh (bog, swamp, morass) - fangostan  
 Marshall Islands - Marxal nesia  
-martial art - jengoxute  
+martial art - jangoxute  
 marvel (wonder; amaze, astonish) - ajibe  
 mask (camouflage) - maske  
 mason (stonemason, stonecutter) - itojanger  
@@ -2489,7 +2487,7 @@ microscope - mikroskope
 middle (center) - zung  
 middle (the part in between) - mide  
 Midsummer Day - garmomosimmedi den  
-military (martial, warlike) - jenge  
+military (martial, warlike) - jangike  
 milk (draw milk) - tire milke  
 milk - milke  
 milk thistle - milkokardon  
@@ -2515,7 +2513,7 @@ minor (not major) - minure
 minority - minuria  
 mint - minte  
 minute - minute  
-miracle - mirokle  
+miracle - ajibaje  
 mirage - miraje  
 Miranda - Miranda  
 mirror - miror  
@@ -2555,7 +2553,7 @@ monochrome - unorange
 monocle - unoki lense  
 monogamy - unogamia  
 monogenesis - unogene  
-monolingual - unolinguike  
+monolingual - unobaxike  
 monolog - autologe  
 monotheism - undevisme  
 monotheism - unodevisme  
@@ -2572,9 +2570,8 @@ more - max
 morning (dawn) - suba  
 Morocco - Magribia  
 morph - morfe  
-morpheme - morfem  
 morpheme - morfeme  
-mortal - mortal  
+mortal - mortable  
 moscovium - moskovium  
 Moscow - Moskove  
 mosquito - moskite  
@@ -2591,7 +2588,7 @@ motorcycle - motosikle
 mound (hill) - kume  
 mountain (mount, hill) - monte  
 mountaineer - montaner  
-mouse - mus  
+mouse - mux  
 mouth - boka  
 move (migrate, relocate) - migre  
 move (transfer, shift, stir, budge, rouse, motivate, inspire) - kine  
@@ -2606,7 +2603,7 @@ muesli - musli
 mule - gadogude  
 multicultural - polikulture  
 multiculturalism - polikulturisme  
-multilingual - polilinguike  
+multilingual - polibaxike  
 multinational - polinase  
 multinational - polinasike  
 multiple - multeple  
@@ -2616,7 +2613,7 @@ mummy - mumjen
 mummy - mumike  
 muscle - muskul  
 mushroom (sporocarp) - fungopal  
-music - muzike  
+music (play music) - muzike  
 musician - muziker  
 musk thistle - pendokardon  
 musket - muskete  
@@ -2624,7 +2621,6 @@ musketeer - musketer
 muskmelon - melon  
 muslim (moslem) - islaman  
 muslim (moslem) - islamiste  
-must - debu  
 Mx. (Mr. or Ms.) - xi  
 my - mi su  
 Myanmar (Burma) - Myanma  
@@ -2720,10 +2716,10 @@ noodle - mien
 Norfolk Island - Norfolke nes  
 norm (standard; normal) - norme  
 north (northern) - norde  
-North America - Nordi Amerike  
-North Korea (Democratic People’s Republic of Korea) - Nordi Cosen  
-Northen Cyprus - Nordi Kipris  
-Northern Ireland - Nordi Eire  
+North America - Norde Amerike  
+North Korea (Democratic People’s Republic of Korea) - Norde Cosen  
+Northen Cyprus - Norde Kipris  
+Northern Ireland - Norde Eire  
 Northern Mariana Islands - Marian nesia  
 Norway - Norge  
 Norwegian - norge  
@@ -3054,7 +3050,7 @@ plane (plate) - plate
 plane (tool for making a smooth surface) - rande  
 plane hijacker - vimankaper  
 planet - planete  
-planned language - planolingue  
+planned language - planobaxe  
 plant (vegetable, vegetation) - fite  
 plasma (ionized gas) - plasme  
 plastic (moldable, malleable) - plaste  
@@ -3070,7 +3066,6 @@ Platonism - platonisme
 Platonist - platoniste  
 platypus - batakrote  
 plausible (praiseworthy) - plozable  
-play music - muzike  
 playdough - plastopaste  
 player (gamer) - gemer  
 please (satisfy, delight) - sukife  
@@ -3372,7 +3367,7 @@ represent - vakile
 representative (agent, proxy, attorney) - vakiler  
 repress (push back) - represe  
 republic - komunkratia  
-Republic of North Macedonia - Nordi Makedonia  
+Republic of North Macedonia - Norde Makedonia  
 repulsive - repulsive  
 research (to study) - loje  
 reserve (book; reservation, booking, withholding) - rezerve  
@@ -3552,7 +3547,7 @@ scute - ostosalke
 sea - hai  
 sea anemone - haiful  
 sea cucumber - haihiyar  
-sea force (navy) - haigun  
+sea force (navy) - haiorde  
 seaborgium - siborgium  
 seagrass - haicau  
 search (seek, look for) - soge  
@@ -3634,7 +3629,7 @@ shock (collision) - xoke
 shoe - sapate  
 shoemaker - sapater  
 shoemaker's shop - sapatokan  
-shogunate - gunregia  
+shogunate - ordorejia  
 shoot (fire) - pave  
 shop (store or workshop) - kan  
 short (brief) - korte  
@@ -3654,7 +3649,7 @@ sideways (laterally) - lato
 Sierra Leone - Sera Leone  
 sign (autograph) - namkitabe  
 sign (signal, indication) - sine  
-sign language - gestolingue  
+sign language - gestobaxe  
 signal - sinal  
 Sikh - sikiste  
 Sikhism - sikisme  
@@ -3697,7 +3692,7 @@ slide (slip, glide, skate) - glise
 slipper - babuce  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-slow (lethargic) - lente  
+slow - anhaste  
 small town - lilsite  
 smell (reek) - aromu  
 smell (sniff) - gande  
@@ -3729,7 +3724,7 @@ sofa (couch) - sofa
 soft - komale  
 soil (dirt; soily, dirty) - darte  
 solar system - solosistem  
-soldier - gunjen  
+soldier - ordojen  
 solid - gatomate  
 Solomon Islands - Solomon nesia  
 solstice - solostate  
@@ -3762,7 +3757,7 @@ spaceship - kosmonau
 Spain - Espania  
 spear thistle - perokardon  
 spearmint - zongominte  
-special (distinct) - hase  
+special (distinct) - has  
 species - zong  
 spectator (sightseer) - vider  
 speed (velocity) - sugude  
@@ -4093,6 +4088,7 @@ tragicomic - tragokomi
 train - tren  
 train hijacker - trenkaper  
 transit (pass through or across) - trapase  
+translate (interpret; translation, interpretation) - trabaxe  
 translative case - tralative  
 translucent - traming  
 transmission - tramision  
@@ -4202,7 +4198,7 @@ unreal - anrel
 unrest - depace  
 until (til, up to) - hate  
 unveil (reveal, uncover) - devele  
-upgrade (level up) - bondarge  
+upgrade (level up) - sudarge  
 upload - netodone  
 upper - supre  
 uranium - uranium  
@@ -4267,7 +4263,8 @@ violinist - violiste
 virgin (pristine, virginal; Virgo) - virge  
 Virgin Islands, US - Virgin nesia  
 virology - viruslojia  
-virtue (morals) - bondeke  
+virtue (morals) - sudeke  
+virtue - meideke  
 virus - virus  
 visa - vize  
 Vishnu - Vixnu  
@@ -4304,7 +4301,7 @@ want (desire, wish; longing) - vol
 war - gere  
 warm (hot) - garme  
 warp - gingoline  
-warrior (fighter) - jenger  
+warrior (fighter) - janger  
 warrior (soldier) - gerer  
 wart (verruca) - veruke  
 wash - vaxe  
@@ -4392,13 +4389,11 @@ wintry - lengomosime
 wire - metallin  
 wisdom - sofia  
 wise - sofe  
-with (there be; have) - ha  
 wolf - volfe  
 Wolof (language and people) - Volof  
 woman (adult female) - maturi fem  
 wonder (be interested in, would like to know) - vol sabe  
-wonder - mire  
-wonderful (marvel, mirable) - mirable  
+wonderful (marvel, mirable) - ajibable  
 wood (timber) - mokomate  
 wood board (plank) - mokoban  
 wool (fleece) - mehi kex  
@@ -4410,7 +4405,7 @@ work - kare
 worker - karer  
 workshop - karokan  
 world - dunia  
-world language - dunia lingue  
+world language - dunia baxe  
 worm - verme  
 worship (revere; reveration) - puje  
 wow! (gee!) - va  

@@ -1,7 +1,7 @@
 
 ![](http://www.pandunia.info/bandir/bandir.png "banir de pandunia")
 
-#pandunia - dunia lingue
+#pandunia - dunia baxe
 
 #### [pandunia](pandunia/index.md)
 

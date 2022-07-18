@@ -41,12 +41,14 @@ airbaria - pression atmosphérique
 airbarmetrer - baromètre  
 airobike - aérobique  
 anairobike - anaérobique  
-airogun - armée de l'ai  
+airorde - armée de l'ai  
 airoporta - aéroport  
 ais - glace (glacé, glacial, gelé)  
 aishoke - hockey sur glace  
 aiskrem - crème glacée  
 ajibe - merveille (éblouir, étonner, stupéfier, surprendre)  
+• ajibable - merveille  
+• ajibaje - miracle  
 akare - acarien  
 akrabe - scorpion  
 ale - autre (changer)  
@@ -156,8 +158,6 @@ astronau - astronef
 • astronaver - astronaute  
 astronomia - astronomie  
 • astronomer - astronome  
-Asur - Assur  
-Asuria - Assyrie  
 ate - acte  
 • ation - action  
 • ative - actif (activer, allumer, mettre en marche)  
@@ -183,6 +183,8 @@ autologe - monologue
 automatike - automatique  
 autoreje - indépendant  
 axe - axe  
+Axur - Assur  
+Axuria - Assyrie  
 Azerbaizan - Azerbaijan  
 
 ## B  
@@ -255,6 +257,11 @@ batonkase - cage
 batre - pile (batterie)  
 bau - précieux  
 bavite - pierre précieuse (joyau)  
+baxe - langage  
+• duobaxike - bilingue  
+• polibaxike - plurilingue (multilingue)  
+• trabaxe - traduction  
+baxolojia - linguistique  
 baze - base  
 baze bol - baseball  
 bazostrute - infrastructure  
@@ -301,7 +308,6 @@ bol - balle (boule)
 bolte - boulon  
 bombe - bombe  
 bon - bon  
-bonsinye - propice  
 ribone - réparer  
 riboner - réparateur  
 borium - bohrium  
@@ -399,7 +405,6 @@ datoprocese - traitement de données
 datoprocesolojia - informatique  
 dauban - panneau de signalisation  
 de - de  
-debu - devoir  
 defkaske - armure  
 defoban - bouclire  
 den - jour (24 heures)  
@@ -636,7 +641,7 @@ gere - guerre
 • pregere - avant-guerre  
 Germania - Germanie  
 germanium - germanium  
-gestolingue - langue des signes  
+gestobaxe - langue des signes  
 gide - guider  
 • gider - guide  
 gidobuke - guide touristique  
@@ -666,25 +671,22 @@ grupe - groupe
 guimuke - grimace  
 guipapil - pavot d'Orient  
 gulogui - goule  
-gun - armée  
-gunjen - soldat  
-gunreger - généralissime  
 gute - genou  
 
 ## H  
 
-ha - avec (avoir)  
+ha - avoir  
 hafnium - hafnium  
 hahe - rire  
 hai - mer  
 haialge - algues  
 haiamirer - amiral  
 haicau - posidonie (herbiers marins)  
-haigel - méduse  
-haigun - force navale (marine)  
+haigele - méduse  
 haihiyar - concombre de mer  
-haitate - côte  
+haiorde - force navale (marine)  
 haisake - baie (golf)  
+haitate - côte  
 haima - tente  
 Haiti - Haïti  
 hake - droit  
@@ -697,12 +699,14 @@ handange - bras
 hape - adapter (ajuster)  
 hape - approprié (adapté, convenable, opportun)  
 hapu - convenir (être approprié)  
-harfia - alphabet  
+• harfaje - alphabet  
 Hartum - Khartoum  
-hasis - haschich  
+haste - occupé  
+• anhaste - lent  
 hate - jusque (jusqu’à)  
 hato - voire (même)  
 hatre - danger  
+haxix - haschich  
 hei - hé  
 helium - hélium  
 helisbabul - acacia faux-gommier  
@@ -1001,11 +1005,11 @@ lege - léger
 lengomosim - hiver  
 lengomosime - hivernal (hibernal)  
 lense - lentille  
-lente - lent  
 letis - laitue  
 lexe - mot  
 • lexia - vocabulaire (lexique)  
 • lexike - lexical  
+lexojinse - genre grammatical  
 liame - lama  
 liboban - étagère  
 libele - libellule  
@@ -1020,10 +1024,6 @@ limon jus - citronnade
 line - ligne (fil)  
 lineme - fibre  
 lince - lynx  
-lingue - langage  
-• duolinguike - bilingue  
-• polilinguike - plurilingue (multilingue)  
-lingue ginse - genre grammatical  
 lisan - langue  
 liste - liste  
 litium - lithium  
@@ -1076,7 +1076,6 @@ male - propriété (possession, bien)
 • maler - possédant (propriétaire)  
 • be male - appartenir à  
 mam - sein  
-mange - occupé  
 mangan - manganèse  
 maniisme - manichéisme  
 manir - comportement (manière)  
@@ -1145,12 +1144,8 @@ mimer - imitateur (mime)
 • minuria - minorité  
 minrai - sous-estimer  
 minte - menthe  
-mire - mirar  
-• mirable - merveille  
 • miraje - mirage  
-• mirokle - miracle  
 • miror - miroir  
-mirde - faible  
 • misaje - message  
 • mision - mission  
 • misioner - missionnaire  
@@ -1185,6 +1180,7 @@ mul - racine
 mur - mur  
 murkaguze - papier peint  
 murce - fourmi  
+mus - devoir  
 muskulobine - culturisme (musculation)  
 musli - musli  
 muze - amuser  
@@ -1288,6 +1284,9 @@ or - oreille
 oritis - otite  
 orange - orange (fruit)  
 orangi - orange (couleur)  
+orde - armée  
+ordorejer - généralissime  
+ordojen - soldat  
 orkide - orchidée  
 orte - droit (rectiligne)  
 ortogone - orthogonal  
@@ -1606,6 +1605,7 @@ sikle - bicyclette
 silike - silicium  
 silke - soie  
 • desine - désigner  
+• susine - propice  
 sir - cacher  
 siromote - célérité  
 siroplan - complot (conspiration)  
