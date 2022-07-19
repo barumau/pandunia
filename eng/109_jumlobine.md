@@ -149,11 +149,11 @@ which indicates a modality such as desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **mi ga do dom.**
+1. **mi ga ta dom.**
    – I go home.  
-2. **mi bil ga do dom.**
+2. **mi bil ga ta dom.**
    – I can go home.  
-3. **mi vol bil ga do dom.**
+3. **mi vol bil ga ta dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -185,9 +185,9 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VVO)
 
-**mi cing tu lai do dom.**
+**mi cing tu lai ta dom.**
 – I ask you to come home.  
-**cing lai do dom!**
+**cing lai ta dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -375,9 +375,9 @@ The content clause marker
 **ki**
 can be combined to the prepositions in order to construct conjunctions of cause and purpose.
 
-**do ki**
+**ta ki**
 – so that, in order that, with the result that  
-**ze ki**
+**de ki**
 – because, for the reason that
 
 **mi duku ni buke _do ki_ mi transe la teste.**

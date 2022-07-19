@@ -126,11 +126,11 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 – I haven't drank alcohol yet.  
 **mi _leu_ no gul yo alkohol.**
 – I am already not drinking alcohol.  
-**mi _leu_ don la buke do yamen.**
+**mi _leu_ don la buke ta yamen.**
 – I have given the book to them. Or: I already gave the book to them.  
-**yamen no _leu_ ridone ya do mi.**
+**yamen no _leu_ ridone ya ta mi.**
 – They haven't given it back to me. Or: They didn't give it back to me yet.  
-**mi _leu_ lai do site.**
+**mi _leu_ lai ta site.**
 – I have come to the city. Or: I already came to the city.
 
 **pas**
@@ -138,13 +138,13 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**mi pas done la buke do yamen.**
+**mi pas done la buke ta yamen.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas vizite Franse.**
 – I have visited France.  
 **mi pas ada gul yo bir.**
 – I used to drink beer. / I had a habit of drinking beer.  
-**mi pas lai do site.**
+**mi pas lai ta site.**
 – I came to the city.
 
 **xa**
@@ -216,8 +216,6 @@ They always take an object.
 – away  
 **de**
 – off, away from, from  
-**do**
-– to, until  
 **ex**
 – out of, outside  
 **in**
@@ -232,6 +230,8 @@ They always take an object.
 – for, forth, forward  
 **re**
 – back, back to  
+**ta**
+– to, until  
 **tra**
 – through, beyond  
 **vise**

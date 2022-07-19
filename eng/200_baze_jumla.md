@@ -469,7 +469,7 @@ Do you know that person?
 **sual tumen sabe semen?**
 Do you know each other?
 
-**mimen sabe semen ze long.**
+**mimen sabe semen de long.**
 We know each other for a long time.
 
 
@@ -664,10 +664,10 @@ Sorry, I can't speak your language.
 **tu loge ke?**
 What did you say?
 
-**mi loge do tu.**
+**mi loge ta tu.**
 I talk to you.
 
-**mimen loge do semen.**
+**mimen loge ta semen.**
 We talk to each other.
 
 **men loge "cat" a ke yang a pandunia?**
@@ -774,7 +774,7 @@ I'm going home.
 **mi mus ga ke?**
 Where should I go?
 
-**mi mus ga do ke jen?**
+**mi mus ga ta ke jen?**
 To whom should I go?
 
 **haida ga!**
@@ -789,10 +789,10 @@ Let's go by foot!
 **cing lai!**
 Come here!
 
-**tu lai ze ke?**
+**tu lai de ke?**
 Where do you come from?
 
-**mi lai ze Dubai.**
+**mi lai de Dubai.**
 I come from Dubai.
 
 **mi lai dom a pos den.**
@@ -804,7 +804,7 @@ I will come home tomorrow.
 **sual tu safar a tren?**
 Do you travel by train?
 
-**mimen safar ze London do Paris.**
+**mimen safar de London ta Paris.**
 We travel from London to Paris.
 
 **safar tre long.**
@@ -862,7 +862,7 @@ Wait for me!
 **yamen dele mimen.**
 They wait for us.
 
-**mi dele do tu a hotel.**
+**mi dele ta tu a hotel.**
 I wait for you in the hotel.
 
 
@@ -937,16 +937,16 @@ He or she will be at home.
 **cing don yo pesa.**
 Please give some money.
 
-**cing don ya do mi.**
+**cing don ya ta mi.**
 Please give it to me.
 
-**mi don ni do tu.**
+**mi don ni ta tu.**
 I give this to you.
 
-**mi don buke do yamen.**
+**mi don buke ta yamen.**
 I give a book to them.
 
-**ya no vol don ya do mi.**
+**ya no vol don ya ta mi.**
 He/she doesn't want to give it to me.
 
 
@@ -955,10 +955,10 @@ He/she doesn't want to give it to me.
 **mi kape un kafe.**
 I will take a coffee.
 
-**cing kape un kafe do mi.**
+**cing kape un kafe ta mi.**
 Please take one coffee for me.
 
-**tu pas kape pesa ze mi.**
+**tu pas kape pesa de mi.**
 You already got money from me before.
 
 **mi kape un bir.**
@@ -979,7 +979,7 @@ I want to take a car for rent.
 **mi vol kire kape un kar.**
 I want to rent a car.
 
-**ya kire don la kamar do safarer.**
+**ya kire don la kamar ta safarer.**
 He/she rents rooms to travelers.
 
 
@@ -1033,7 +1033,7 @@ Come here / back / to us.
 **mi xule la pandunia.**
 I study Pandunia.
 
-**xou ya do mi a logobuke!**
+**xou ya ta mi a logobuke!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.
