@@ -3,7 +3,7 @@ a (dans, en, chez) - a
 
 ## A  
 
-abattoir - bucokan  
+abattoir - bucekan  
 abattre - buce  
 abeille ou guêpe - vespe  
 Abkhazie - Apsua  
@@ -14,7 +14,7 @@ acarien - akare
 accent - baloton  
 accepter - acepe  
 accomplir (terminer) - purfine  
-accord - saomrayia  
+accord - samrayia  
 accorder - atone  
 accumuler - kume  
 accès (accéder) - acese  
@@ -170,7 +170,7 @@ aubergine - bedinje
 augmenter - auge  
 Australie - Australia  
 Austronésie - Austronesia  
-autel - pujomeza  
+autel - pujemeza  
 auteur - auter  
 autocollant - glutograf  
 automatique - automatike  
@@ -234,9 +234,9 @@ basketball - baske bol
 bassin - basen  
 bateau - nau  
 beau - mei  
-beau-père - gamopa  
+beau-père - gampa  
 beauté - meyia  
-belle-mère - gamoma  
+belle-mère - gamma  
 bellicisme - belikisme  
 belligérant - belente  
 belliqueux - belike  
@@ -245,7 +245,7 @@ berkélium - berkelium
 besoin (avoir besoin de) - yau  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukarbete  
-bibliothèque - kitabokan  
+bibliothèque - kitabekan  
 bicyclette - sikle  
 bien-être - salamia  
 bilingue - duobaxike  
@@ -283,7 +283,7 @@ boxe - bokse
 boxeur - bokser  
 bras - handange  
 brave - brave  
-bravo! - bravo  
+bravo! - brave  
 brigand (bandit) - luter  
 brique - binite  
 brochette - xix  
@@ -305,7 +305,7 @@ bûche - mokotan
 ## C  
 
 cacher - sir  
-cachet de la poste - postomarke  
+cachet de la poste - postemarke  
 cactus - katus  
 cadeau - donaje  
 cadmium - kadium  
@@ -328,12 +328,12 @@ Camomille Romaine - roma kamil
 Camomille sauvage - kamil  
 canapé (sofa) - kanape  
 canapé (sofa) - sofa  
-canif - jebocaku  
+canif - jebecaku  
 canne - gana  
 canne à sucre - sukar gana  
 canon - daipau  
-canoë - kano  
-Cantalupo in Sabina - Kantalupo va Sabine  
+canoë - kanu  
+Cantalupo in Sabina - Kantalupo i Sabina  
 canyon (ravin) - kanyon  
 cape - manto  
 capsule - kasule  
@@ -393,7 +393,7 @@ chimie - kimolojia
 Chine - Zungogia  
 chlore - klorium  
 chocolat - coklate  
-chose - xei  
+chose - xe  
 chrome - kromium  
 chronique - durike  
 chronomètre - durometrer  
@@ -762,10 +762,10 @@ gnosticisme - nosisme
 gnostique - nosiste  
 gombo - bamia  
 gorille - gorile  
-goule - gulogui  
+goule - gulgui  
 gouvernement - polite  
-grand-mère - cinmai  
-grand-père - cinpai  
+grand-mère - cinma  
+grand-père - cinpa  
 granit - granite  
 gravire - grave  
 grenouille - krokroke  
@@ -948,9 +948,10 @@ laine - mehi kex
 laisser - live  
 lait - milke  
 lait de soja - soimilke  
-laitue - letis  
+laitue - letus  
 lama (enseignant religieux du bouddhisme tibétain) - lama  
-lama - liame  
+lama - liama  
+lamaïsme - lamaisme  
 lampe - lampe  
 Lance-roquettes - roketolancer  
 langage - baxe  
@@ -994,7 +995,7 @@ logique - ratolojia
 loin - a long  
 lombes - lumbe  
 long - longe  
-longtemps - a longe dure  
+longtemps - a long dure  
 loquace - logive  
 loup - volfe  
 lourd - veze  
@@ -1020,7 +1021,7 @@ lézard - saure
 
 ## M  
 
-machine à écrire - kitabomaxin  
+machine à écrire - kitabemaxin  
 magma - pastopetre  
 magnésium - magesium  
 mah-jong - majang  
@@ -1034,7 +1035,7 @@ mal de tête - sarotunge
 malédiction - dusdua  
 maman - ma  
 manche - kamisi xake  
-mandarin - cini manter  
+mandarin - cina manter  
 mandarine - lalorange  
 mandarine satsuma - venzovorange  
 manganèse - mangan  
@@ -1079,7 +1080,7 @@ message - angil
 message - misaje  
 messager - angiler  
 meule - molite  
-microbe - mikrobia  
+microbe - mikrobie  
 microbiologie - mikrobiolojia  
 microscope - mikroskope  
 miel - madu  
@@ -1115,7 +1116,7 @@ mouche - domzeze
 moudjahid (djihadiste) - jihadiste  
 moudre - mole  
 mouiller (mouillé) - xipe  
-moulin - molokan  
+moulin - molekan  
 mousse - mos  
 mousson - barsomosim  
 mouvoir (bouger) - kine  
@@ -1200,10 +1201,10 @@ occupé - haste
 ocelot - oselote  
 oculaire - okule  
 océan - daihai  
-Océan Antarctique - Antartiki Hai  
-océan Arctique - Artiki Hai  
+Océan Antarctique - Antartike Hai  
+océan Arctique - Artike Hai  
 océan Atlantique - Atlante Hai  
-océan Indien - Barti Hai  
+océan Indien - Barte Hai  
 ode - ode  
 odeur - gande  
 oeuf - ove  
@@ -1234,14 +1235,14 @@ organiser - nome
 organisme - bie  
 orge - jau  
 origine (originel) - asle  
-orphelinat - yatimokan  
+orphelinat - yatimkan  
 orthogonal - ortogone  
 osmium - osmium  
 otite - oritis  
 ou - o  
 ouah - va  
 oublier - dememe  
-oubliette (cul de basse-fosse) - geosube jelokan  
+oubliette (cul de basse-fosse) - geosube jelekan  
 ouest - veste  
 oui - ye  
 ours - urse  
@@ -1270,7 +1271,7 @@ pansement (sparadrap) - glutobende
 pantalon - pante  
 pantomime - panmime  
 pantoufle (babouche) - babuce  
-papaye - papai  
+papaye - papaya  
 papier - kaguje  
 papier peint - murkaguze  
 papillon - pelpel  
@@ -1400,7 +1401,7 @@ poudre à canon - barude
 Poulpe (pieuvre) - batosenter  
 pouls - pulsation  
 poupée - pupe  
-pour cent - pro sente  
+pour cent - prosente  
 pourri - pude  
 pourrir (se décomposer) - pudu  
 pousse - yune moke  
@@ -1413,7 +1414,7 @@ pression - prese
 pression atmosphérique - airbaria  
 pressoir - preser  
 preuve - dalil  
-prison (geôle) - jelokan  
+prison (geôle) - jelekan  
 problème - problem  
 problématique - problemike  
 proche - proxe  
@@ -1569,8 +1570,8 @@ saintes écritures  - sante kanon
 saison - mosim  
 salle de bains - banyakamar  
 salle de classe - xulokamar  
-salle de gymnastique - sportokan  
-salle de muscu - balokan  
+salle de gymnastique - sportekan  
+salle de muscu - balekan  
 salut (salam) - salam  
 samarium - samarium  
 samedi - den sixe  
@@ -1598,9 +1599,9 @@ savoir - sabe
 savon - sabun  
 Scandinavie - Skandia  
 scandium - skandium  
-scie - xere  
-scierie - xerokan  
-sciure - xerofun  
+scie - xara  
+scierie - xarakan  
+sciure - xarafun  
 scooter - motor skuter  
 scorpion - akrabe  
 sculpteur - skulter  
@@ -1632,8 +1633,8 @@ silence - tixia
 silencieux (se taire) - tixe  
 silex - hogite  
 silicium - silike  
-simulation - samosifia  
-situation (état de choses) - xeihal  
+simulation - samsifia  
+situation (état de choses) - xehal  
 six (6) - sixe  
 société - socia  
 sodium - natrium  
@@ -1699,7 +1700,7 @@ technologie - tehnolojia
 technétium - tehnium  
 tectonique des plaques - plati geokaskia  
 tellure - telurium  
-temple - pujokan  
+temple - pujekan  
 temps - zaman  
 tendance - ivia  
 tender - tirlonge  
@@ -1764,7 +1765,7 @@ travailleur (ouvrier) - karer
 traîner - trate  
 tremper (faire mariner) - purxipe  
 tribord - nauraite  
-tribunal (cour de justice) - judokan  
+tribunal (cour de justice) - judekan  
 trichotomie - tritome  
 triple - triple  
 trois (3) - tri  
@@ -1782,7 +1783,7 @@ turban - pagre
 turbine - turbin  
 turboréacteur - turbojeter  
 télescope (lunette) - teleskope  
-télécharger - netogete  
+télécharger - netekape  
 téléphone - telefon  
 téléphoner - telefone  
 téléréalité - rel televizion  
@@ -1815,7 +1816,7 @@ vapeur d’eau - suigas
 varech - varkalge  
 vendre - vende  
 vendredi - den pente  
-Venezuela - Venezuele  
+Venezuela - Venezuela  
 venir - lai  
 ventilateur - fentor  
 ver - verme  
@@ -1900,7 +1901,7 @@ zèbre - zebra
 Égypte - Misria  
 âge - sene  
 échec - xibai  
-école (collège) - xulokan  
+école (collège) - xulekan  
 école primaire - bazoxulkan  
 école secondaire - zungoxulkan  
 économie - malonomia  

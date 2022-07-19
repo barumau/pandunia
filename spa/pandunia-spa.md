@@ -122,7 +122,7 @@ angulring - anillo (sortija)
 anime - animar (animación, dibujo animado)  
 anis - anís  
 Antartike - antartida  
-Antartiki Hai - océano Antártico  
+Antartike Hai - océano Antártico  
 anten - antena  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua y Barbuda  
@@ -157,7 +157,7 @@ arte - arte
 • artofete intelige (AI) - inteligencia artificial  
 • artiste - artista  
 Artike - Ártico  
-Artiki Hai - océano Ártico  
+Artike Hai - océano Ártico  
 Aruba - Aruba  
 ase - asiático  
 Asia - Asia  
@@ -255,7 +255,7 @@ bangle - bengalí
 Banglodex - Bangladés  
 banyakamar - baño  
 banke - ahorrar (reservar, depositar)  
-• bankokan - banco  
+• bankekan - banco  
 • banker - banquero  
 bankorutia - bancarrota (quiebra)  
 banya - bañarse (baño)  
@@ -273,7 +273,7 @@ barse - llover (lluvia)
 barsocate - parasol  
 barsokote - impermeable  
 barte - indio (hindú)  
-Barti Hai - océano Índico  
+Barte Hai - océano Índico  
 Bartia - India  
 barude - pólvora  
 bas - bastante  
@@ -314,7 +314,7 @@ bege - escaparse (evitar, huir)
 Beijing - Pekín  
 beke - hornear (cocer)  
 bekofan - terracota  
-bekokan - panadería  
+bekekan - panadería  
 beker - panadero  
 bel - belio  
 • belente - beligerante  
@@ -393,7 +393,7 @@ boron - boro
 Bosnia e Hercegovina - Bosnia y Herzegovina  
 Botia - Tíbet  
 botel - botella  
-bravo - bravo!  
+brave - bravo!  
 brauze - explorar  
 brauzer - explorador (navegador)  
 Brazavil - Brazzaville  
@@ -410,7 +410,7 @@ brus - hermano o hermana
 bu! - bu!  
 bubu - coco  
 buce - carnear (matar)  
-• bucokan - matadero  
+• bucekan - matadero  
 • bucer - carnicero  
 bude - comprensión (entendimiento; concienciado, iluminado))  
 • budisme - budismo  
@@ -491,13 +491,13 @@ Cile - Chile
 cili - chile  
 cimpanze - chimpancé  
 cin - parente (madre o padre)  
-cine - chinés (de los Han)  
 cinbrusben - primo  
-cinmai - abuela  
-cinpai - abuelo  
-cinocoseni - sinocoreano  
-cini manter - mandarin  
-cinovieti - sinovietnamita  
+cinma - abuela  
+cinpa - abuelo  
+cina - chinés (de los Han)  
+cina manter - mandarin  
+cinacosen - sinocoreano  
+cinaviete - sinovietnamita  
 cincile - chinchilla  
 cing - pedir (invitar; por favor)  
 cing lai - invitar  
@@ -763,7 +763,7 @@ Espania - España
 esperante - Esperanto  
 Estia - Estonia  
 Etiopia - Etiopía  
-eve - beneficioso (bueno)  
+eu - beneficioso (bueno)  
 eurasia - Eurasia  
 eureke - econtrar (hallar)  
 euro - euro  
@@ -830,7 +830,7 @@ fermium - fermio
 feste - celebrar (festejar; celebración, fiesta)  
 festoden - día festivo (feriado)  
 fete - hacer (hecho)  
-• fetokan - fábrica  
+• fetekan - fábrica  
 • feter - factor  
 • feteria - fábrica  
 • feture - hecho (hechura)  
@@ -965,8 +965,8 @@ game - casar
 • gamia - casamiento  
 • gamike - esposo o esposa  
 gamben - hijastro o  hijastra  
-gamoma - suegra  
-gamopa - suegro  
+gamma - suegra  
+gampa - suegro  
 Gambia - Gambia  
 gamel - camello  
 gane - seco (árido; secar)  
@@ -1016,15 +1016,15 @@ geoforme - terreno
 geografia - geografía  
 geokaski plate - placa tectónica  
 geolojia - geología  
-Geomede Hai - Mediterráneo  
 geometria - geometría  
+Geomide Hai - Mediterráneo  
 georde - ejército  
 geoparline - ecuador  
 Geoparline Ginia - Guinea Ecuatorial  
 geopolitike - geopolítica  
 geosisme - terremoto  
 geosube - subterráneo  
-geosube jelokan - mazmorra  
+geosube jelekan - mazmorra  
 geoterme - geotérmico  
 geotike - terreno (solar)  
 gei - gay (homosexual)  
@@ -1051,7 +1051,7 @@ gere - guerra
 • gerer - guerrero  
 Germania - Germania  
 germanium - germanio  
-Gerneze - Guernesey  
+Gernezi - Guernesey  
 geste - gesto  
 gestobaxe - lenguaje de signos (lenguaje de señas)  
 Gibraltar - Gibraltar  
@@ -1122,7 +1122,7 @@ Guyana - Guyana
 gujarate - gujaratí  
 guke - crisantemo  
 gul - tragar  
-gulogui - gul  
+gulgui - gul  
 gum - tambor  
 gumle - oración  
 guru - maestro (gurú, profesor)  
@@ -1367,14 +1367,14 @@ jau - cebada
 javabe - responder (contestar; repuesta)  
 jaze - jazz  
 jebe - bolsillo  
-jebocaku - navaja  
+jebecaku - navaja  
 jebre - álgebra  
 jeke - prestar (pedir prestado)  
 jekocepe - pedir prestado  
 jekodone - prestar  
 jekolexe - préstamo lingüístico  
 jele - encarcelar (aprisionar)  
-• jelokan - cárcel  
+• jelekan - cárcel  
 • jeler - carcelero  
 jen - persona  
 • dusojen - enemigo  
@@ -1403,7 +1403,7 @@ jongle - hacer malabarismos
 • jongler - malabarista  
 juba - bata (aljuba)  
 jude - juzgar (fallo, juicio, criterio)  
-• judokan - tribunal de justicia  
+• judekan - tribunal de justicia  
 • juder - juez (árbitro, réferi)  
 • exjude - extrajudicial  
 judau - yudo  
@@ -1464,7 +1464,7 @@ kampe - campamento
 kamper - campista  
 kamre - galés  
 Kamria - Gales  
-Kanade - Canadá  
+Kanada - Canadá  
 kanal - canal (cauce, acequia)  
 kanape - sofá  
 kande - caramelo  
@@ -1473,10 +1473,10 @@ kang - peine
 kangaru - canguro  
 kanyon - cañón (barranco, quebrada)  
 kankuate - kumquat (quinoto)  
-kano - canoa  
 kante - hombro  
-Kantalupo va Sabine - Cantalupo in Sabina  
+Kantalupo i Sabina - Cantalupo in Sabina  
 kantalupomelon - melón cantalupo  
+kanu - canoa  
 kanun - regla (ley)  
 kanzar - puñal (daga)  
 kape - capturar (apresar)  
@@ -1593,9 +1593,9 @@ kitabe - escribir (escritura)
 • kitabia - literatura  
 • kitabeme - grafema  
 kitaboforme - formateo  
-kitabokan - biblioteca  
-kitabomaxin - máquina de escribir  
-kitabominister - bibliotecario  
+kitabekan - biblioteca  
+kitabemaxin - máquina de escribir  
+kitabemanter - bibliotecario  
 kivi - kiwi fruta  
 kize - queso  
 kizoproten - caseína  
@@ -1625,7 +1625,7 @@ kode - código (cifra)
 koka - coca  
 kokode - pollo  
 Kokos nesia - Islas Cocos (Islas Keeling)  
-kole - cola (refresco de cola)  
+kola - cola (refresco de cola)  
 kola jus - cola (refresco de cola)  
 Kolombia - Colombia  
 kolone - colonizar  
@@ -1654,7 +1654,7 @@ kong - agujero (hueco)
 konge - perforar (agujerar)  
 Kongfuze - Confucio  
 kongfuzisme - confucianismo  
-Konkane - konkani  
+Konkani - konkani  
 konserte - concierto  
 konus - cono  
 kope - copia (réplica)  
@@ -1769,7 +1769,7 @@ labe - labio
 lage - lago  
 lai - venir  
 laiane - traer  
-lake - laca  
+laka - laca  
 lale - rojo  
 lalolince - lince rojo (gato montés)  
 lalorange - mandarina (tangerina)  
@@ -1811,16 +1811,14 @@ lenge - frío
 lengomosim - invierno  
 lengomosime - invernal  
 lense - lente  
-lense - ensayo (ejercitio)  
-lense - practicar (ensayar, ejercitar)  
-letis - lechuga  
+letus - lechuga  
 lexe - palabra (vocablo)  
 • lexia - vocabulario (léxico)  
 • lexike - léxico  
 lexojinse - género gramatical  
 lexoliste - disionario (lexicón)  
 leze - pera  
-liame - llama  
+liama - llama  
 libe - erigir (montar, armar)  
 libe - erguido  
 Libia - Libia  
@@ -1963,9 +1961,9 @@ Malaisia - Malasia
 malaria - malaria (paludismo)  
 Malavi - Malaui  
 malayu - malayo  
-Male - Mali  
-malike - jazmín  
-Malte - Malta  
+Mali - Mali  
+malika - jazmín  
+Malta - Malta  
 Malvinas nesia - Islas Malvinas  
 mam - seno (teta)  
 • mamal - mamífero  
@@ -2092,7 +2090,7 @@ migre - migración (migrarse, mudarse, trasladarse)
 • inmigre - inmigrar  
 • inmigrer - inmigrante  
 • mikro- - micro-  
-mikrobia - microbio  
+mikrobie - microbio  
 mikrobiolojia - microbiología  
 Mikronesia - Micronesia  
 mikroskope - microscopio  
@@ -2149,10 +2147,10 @@ mokotan - leño (tronca)
 mokozanger - carpintero  
 mokozongoparke - arboreto  
 mole - moler (pulverizar)  
-• molokan - molino  
+• molekan - molino  
 • moler - molinero  
 molite - muela  
-Moldove - Moldova  
+Moldova - Moldova  
 mole - mol  
 molekul - molécula  
 molidenium - molibdeno  
@@ -2230,12 +2228,12 @@ nam - nombre
 name - llamarse  
 namane - llamar (poner)  
 namkitabe - firmar  
-namelexe - sustantivo  
 • antinam - antónimo  
 • dusnam - insulto (ofensa)  
 • exonam - exónimo  
 • inonam - endónimo  
 • pronam - pronombre  
+namelexe - sustantivo  
 Namibia - Namibia  
 nane - nano-  
 nanomitre - nanometre  
@@ -2301,9 +2299,9 @@ nete - nexo (red)
 • konnetion - conexión  
 • konnetor - conector  
 • dekonnete - desconectar  
-netodone - cargar (subir)  
-netogete - descargar  
-netoloke - sitio web  
+ö - cargar (subir)  
+netekape - descargar  
+neteloke - sitio web  
 neu - nuevo  
 • nevia - novedad  
 • nevaje - novedad  
@@ -2498,7 +2496,7 @@ panjabe - punjabí
 panke - ala  
 pante - pantalones  
 papagai - loro (papagayo)  
-papai - papaya  
+papaya - papaya  
 papir - artículo (documento)  
 Papua Neu Ginia - Papúa Nueva Guinea  
 par - nivel  
@@ -2545,13 +2543,13 @@ patolojia - patología
 patomise - infectar (contagiar; infección, contagio)  
 patate - papa  
 pau - pistola (rifle)  
-pave - disparar  
+pau - disparar  
 paunde - libra (£)  
 pauze - parar (pausa)  
 pedal - pedal  
 pedalsikle - bicicleta  
 pei - pago  
-peye - pegar  
+pei - pegar  
 peikar - profesión (ocupación)  
 peikare - profesional (de carrera)  
 peikari jive - carrera  
@@ -2685,9 +2683,9 @@ posden - mañana
 pospor - fósforo  
 poste - eviar por correo  
 • postaje - correo  
-• postokan - oficina de correos  
-postocape - sello postal  
-postomarke - matasellos  
+• postekan - oficina de correos  
+postecape - sello postal  
+postemarke - matasellos  
 pote - jarra  
 poter - alfarero  
 poteria - alfarería  
@@ -2724,9 +2722,9 @@ pude - podrido (cariado)
 pudu - pudrirse (cariarse, descomponerse)  
 puding - pudín  
 puje - adorar (venerar; adoración, veneración, culto)  
-• pujokan - templo  
-pujomeza - altar  
-pujorite - rito (ceremonia)  
+• pujekan - templo  
+pujemeza - altar  
+pujerite - rito (ceremonia)  
 pul - puente  
 pulmon - pulmón  
 pulse - empujar (presionar)  
@@ -2748,7 +2746,7 @@ purxipe - remojar (marinar, encurtir, macerar)
 • konputer - computadora (ordenador)  
 putau - uva  
 putavorange - pomelo (toronja)  
-Putong Cini - chino mandarín  
+Putong Cina - chino mandarín  
 putonge - general (common)  
 
 ## R  
@@ -2763,7 +2761,7 @@ radometrer - radiómetro
 radike - raíz  
 radon - radón  
 rai - opinión (juicio, consideración)  
-raye - opinar  
+rai - opinar  
 raite - lado derecho  
 raite - derecho  
 raitiste - derechista  
@@ -2880,9 +2878,9 @@ rutin - rutina (hábito)
 sabe - saber (sabiduría)  
 • sabize - comunicar (informar)  
 • konsabe - información  
-sabovol - interés  
-sabovole - interesado (curioso)  
-sabovolive - inquisitivo (curioso)  
+sabevol - interés  
+sabevole - interesado (curioso)  
+sabevolive - inquisitivo (curioso)  
 besabovole - interesante (curioso)  
 sababe - razón (causa)  
 sabate - sabbat  
@@ -2929,10 +2927,10 @@ samodexan - compatriota
 samemote - compasión  
 sammetre - simétrico  
 sammetria - simetría  
-samoname - homónimo  
-samorai - acordar  
-saomrayia - acuerdo  
-samosifia - modelo (similitud, simulación)  
+samname - homónimo  
+samrai - acordar  
+samrayia - acuerdo  
+samsifia - modelo (similitud, simulación)  
 samarium - samario  
 Samoa - Samoa  
 sanduice - sándwich (sánduche)  
@@ -2948,7 +2946,7 @@ Sante Vincente - Isla de San Vicente
 Sante Vincente e Grenadin - San Vicente y las Granadinas  
 sanze - abanico (ventilador)  
 sapate - zapato  
-• sapatokan - zapatería  
+• sapatekan - zapatería  
 • sapater - zapatero  
 sar - cabeza  
 sarokaske - casco (yelmo)  
@@ -2991,7 +2989,7 @@ sense - sentido
 sense - sentir (detectar)  
 sente - cien (100)  
 sente - palpar (tocar)  
-• pro sente - por ciento  
+• prosente - por ciento  
 senti- - centi- (por ciento)  
 sentimitre - centímetro  
 sere - serie  
@@ -3122,7 +3120,7 @@ Soto - Lesoto
 • inspete - inspeccionar (examinar, revisar, chequear)  
 sponje - esponja  
 sporte - deporte  
-• sportokan - gimnasio  
+• sportekan - gimnasio  
 • sporter - deportista  
 stadia - estadio (arena)  
 stanium - estaño  
@@ -3219,7 +3217,7 @@ tai - escenario (podio, estrado, tarima)
 Tai - tailandés  
 Tai dexia - Tailandia  
 Taibei - Taipei  
-taige - taiga  
+taiga - taiga  
 tail - baldosa (teja, azulejo)  
 Taivan - Taiwán  
 Tajikostan - Tayikistán  
@@ -3277,7 +3275,7 @@ intene - contener
 intener - contenedor  
 • kontener - contenedor  
 • sutener - proxeneta (chulo)  
-Tenese - Tennessee  
+Tenesi - Tennessee  
 tenesium - teneso  
 tenis - tennis  
 tense - tenso  
@@ -3317,7 +3315,7 @@ tire milke - ordeñar
 tire pil - quitar (pelar)  
 tirbaton - palanca  
 tirlonge - estirar (extender)  
-tiroriu - corriente de resaca  
+tireriu - corriente de resaca  
 tirsanduke - cajón (gaveta)  
 titanium - titanio  
 tix - chito (chist)  
@@ -3469,7 +3467,7 @@ vele - velo
 • devele - develar (revelar)  
 vende - vender  
 vendoxope - comercio (comerciar)  
-Venezuele - Venezuela  
+Venezuela - Venezuela  
 ventur - aventura  
 venturer - aventurero  
 Venus - Venus  
@@ -3562,6 +3560,9 @@ xampan vin - champaña
 xanke - duda  
 • xankable - dudoso  
 xante - tranquilo (calmado)  
+xara - sierra  
+xarafun - serrín  
+xarakan - aserradero  
 xarke - tiburón  
 xarme - vergüenza (pena)  
 xarnir - bisagra (gozne)  
@@ -3576,17 +3577,14 @@ xatrange - ajedrez
 xau - poco (pocos)  
 xaves - escasez  
 xaxa - susurrar (curjir)  
+xe - cosa  
+xehal - situación  
 no xe - nada  
 xefe - jefe  
-xefe minister - primer ministro  
+xefe manter - primer ministro  
 xefe di - principal  
-xei - cosa  
-xeihal - situación  
 xenon - xenón  
 xenseng - maestro (profesor)  
-xere - sierra  
-xerofun - serrín  
-xerokan - aserradero  
 xibai - derrota (fracaso)  
 xibai - perder (fallar)  
 xibayer - perdedor  
@@ -3622,7 +3620,7 @@ xule - aprender (estudiar)
 • xulaje - lección  
 • xulize - enseñar  
 • xulizer - maestro (profesor, docente)  
-• xulokan - escuela (colegio, institución)  
+• xulekan - escuela (colegio, institución)  
 • xuler - estudiante  
 xuloxefe - director de colegio  
 xure - comienzo (inicio, principio; comenzar, iniciar, empezar)  
@@ -3650,7 +3648,7 @@ yamokamar - comedor
 yamyau - hambre  
 yang - variedad (tipo, estilo)  
 yatim - huérfano  
-• yatimokan - orfanato  
+• yatimkan - orfanato  
 yau - necesitar (necesidad)  
 • yavive - necesitado  
 • beyau - necesario  

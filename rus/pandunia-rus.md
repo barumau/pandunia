@@ -5,7 +5,7 @@
 a - в  
 a line - онлайн  
 a long - далеко  
-a longe dure - долго  
+a long dure - долго  
 a misal - например  
 abete - пихта  
 acari - марино́ванный  
@@ -144,7 +144,7 @@ banan - банан
 bande - банда  
 bandir - флаг  
 banyakamar - ванная  
-• bankokan - банк  
+• bankekan - банк  
 bankorute - банкрот  
 bankorutia - банкротство  
 banya - купание (купаться)  
@@ -180,7 +180,7 @@ bazoxulkan - семилетка
 bazar - рынок (базар)  
 bebe - младенец  
 bekofan - терракота  
-bekokan - пекарня (булочная)  
+bekekan - пекарня (булочная)  
 beker - хлебопёк (пекарь)  
 • rebelion - восстание (мятеж, бунт)  
 • rebeler - бунтовщик (повстанец, мятежник)  
@@ -222,7 +222,7 @@ riboner - ремонтник
 borium - борий  
 boron - бор  
 botel - бутылка  
-bravo - браво  
+brave - браво  
 brauze - исследовать  
 brauzer - исследователь (браузер)  
 bromium - бром  
@@ -231,7 +231,7 @@ brunalge - бурые водоросли
 brunsalmon - кумжа  
 bu! - бу  
 bubu - бука  
-• bucokan - бойня  
+• bucekan - бойня  
 • bucer - мясник  
 Buda - Будда  
 bufete - буфет  
@@ -274,12 +274,12 @@ cesium - цезий
 cete - семь (7)  
 • cetime - седьмой  
 cili - перец (паприка)  
-cine - хань  
-cinmai - бабушка  
-cinpai - дедушка  
-cini manter - мандарин  
-cinoniponi - китайско-японский  
-cinovieti - китайско-вьетнамский  
+cinma - бабушка  
+cinpa - дедушка  
+cina - хань  
+cina manter - мандарин  
+cinanipon - китайско-японский  
+cinaviete - китайско-вьетнамский  
 cing - просить  
 cire - рвать  
 circire - изорвать  
@@ -426,7 +426,7 @@ fer - железо
 • prefere - предпочитать  
 fermium - фермий  
 fete - факт  
-• fetokan - завод (фабрика)  
+• fetekan - завод (фабрика)  
 • feter - фактор  
 • exfete - эффект  
 • infetion - инфекция  
@@ -504,7 +504,7 @@ gazete - газета
 geografia - география  
 geometria - геометрия  
 geopolitike - геополитика  
-geosube jelokan - ублиет (подземная тюрьма)  
+geosube jelekan - ублиет (подземная тюрьма)  
 geoterme - геотерма́льный  
 gele - желе  
 • gemer - игрок (геймер)  
@@ -556,7 +556,7 @@ guimuke - гримаса
 guipapil - мак восточный  
 guke - хризантема садовая  
 gul - глотать  
-gulogui - гуль (вурдалак)  
+gulgui - гуль (вурдалак)  
 gumle - фраза  
 gute - колено  
 
@@ -675,7 +675,7 @@ jive - живой
 jongle - жонглировать  
 • jongler - жонглёр  
 juba - халат  
-• judokan - суд (трибунал)  
+• judekan - суд (трибунал)  
 • juder - судья  
 • exjude - внесудебный  
 jul - джоуль (J)  
@@ -716,9 +716,9 @@ kanape - канапе
 kangaru - кенгуру  
 kanyon - овраг (ущелье, каньон)  
 kankuate - кумкват (кинкан)  
-kano - каноэ  
-Kantalupo va Sabine - Канталупо-ин-Сабина  
+Kantalupo i Sabina - Канталупо-ин-Сабина  
 kantalupomelon - канталупа  
+kanu - каноэ  
 kanzar - кинжал  
 kapotruke - ловушка  
 kare - работать  
@@ -770,9 +770,9 @@ kirogete - арендовать
 kite - идти  
 kitabe - писать (письмо)  
 • kitabia - литература (словесность)  
-kitabokan - библиотека  
-kitabomaxin - пишущая машинка  
-kitabominister - библиотекарь  
+kitabekan - библиотека  
+kitabemaxin - пишущая машинка  
+kitabemanter - библиотекарь  
 kivi - киви  
 kize - сыр  
 klarvider - ясновидец  
@@ -848,6 +848,7 @@ lalorange - мандарин
 lalsalmon - нерка (красница)  
 lalobavite - рубин  
 lama - лама (религиозный учитель в тибетском буддизме)  
+• lamaisme - ламаизм  
 lampe - лампа  
 lantanium - лантан  
 lasun - чеснок  
@@ -864,13 +865,13 @@ lefte - левый
 lengomosim - зима  
 lengomosime - зимний  
 lense - линза  
-letis - салат-латук  
+letus - салат-латук  
 lexe - слово (речь)  
 • lexia - словарь  
 • lexike - лексический  
 lexojinse - род в грамматике  
 lexoliste - словник  
-liame - лама  
+liama - лама  
 liboban - полка  
 libele - стрекоза  
 • lider - руководитель (лидер)  
@@ -979,7 +980,7 @@ midi - средний
 migre - миграция (переезжать)  
 • inmigre - иммигрировать  
 • inmigrer - иммигрант  
-mikrobia - микроб  
+mikrobie - микроб  
 mikrobiolojia - микробиология  
 mikroskope - микроскоп  
 milke - молоко  
@@ -1005,7 +1006,7 @@ moke - дерево
 mokoban - доска (планка)  
 mokotan - бревно  
 mole - молоть  
-• molokan - мельница  
+• molekan - мельница  
 molite - жёрнов  
 molidenium - молибден  
 moluske - моллюск  
@@ -1159,7 +1160,7 @@ panir - творог
 panke - крыло  
 pante - брюки  
 papagai - попугай  
-papai - папайя  
+papaya - папайя  
 par - уровень  
 pare - равный  
 pari numbe - чётное число  
@@ -1184,7 +1185,7 @@ patogener - патоген
 patolojia - патология  
 patomise - инфекция (заразная болезнь)  
 pau - пистолет  
-pave - стрелять  
+pau - стрелять  
 pauze - пауза  
 peikar - профессия  
 peikare - профессиона́льный  
@@ -1251,7 +1252,7 @@ portorike - пуэрториканец
 Portoriko - Пуэрто-Рико  
 poso - после  
 pospor - фосфор  
-postomarke - почтовый штемпель  
+postemarke - почтовый штемпель  
 pote - кувшин (графин)  
 poter - гончар  
 poteria - гончарное дело  
@@ -1269,8 +1270,8 @@ prometium - прометий
 proten - белок (протеин)  
 protacinium - протактиний  
 pudu - гнить (портиться)  
-• pujokan - храм (место богослужения)  
-pujomeza - алтарь  
+• pujekan - храм (место богослужения)  
+pujemeza - алтарь  
 • pulsation - пульс (пульсация)  
 puma - пума (кугуар)  
 puntonumbe - оценка  
@@ -1347,9 +1348,9 @@ ruterfordium - резерфордий, ²курчатовий
 ## S  
 
 sabe - знать  
-sabovol - интерес (любопытство)  
-sabovole - любопытный  
-sabovolive - любознательный  
+sabevol - интерес (любопытство)  
+sabevole - любопытный  
+sabevolive - любознательный  
 besabovole - интересный  
 sable - песок  
 • movosable - зыбучие пески  
@@ -1369,8 +1370,8 @@ salve - спасать
 samemote - сострадание  
 sammetre - симметричный  
 sammetria - симметрия  
-saomrayia - согласие  
-samosifia - симуляция  
+samrayia - согласие  
+samsifia - симуляция  
 samarium - самарий  
 sanduice - сандвич  
 sanduke - сундук  
@@ -1397,7 +1398,7 @@ sene - возраст
 senater - сенатор  
 sense - чувство  
 sente - сто  
-• pro sente - процент  
+• prosente - процент  
 sere - серия  
 • seria - серия  
 • sereme - звено  
@@ -1454,7 +1455,7 @@ sore - запереть
 sosis - колбаса (сосиска)  
 sponje - губка  
 sporte - спорт  
-• sportokan - спортзал  
+• sportekan - спортзал  
 stanium - олово  
 stibium - сурьма  
 strontium - стронций  
@@ -1546,7 +1547,7 @@ tire milke - тянуть
 tire pil - ободрать  
 tirbaton - рычаг  
 tirlonge - вытянуть  
-tiroriu - отбойное течение  
+tireriu - отбойное течение  
 titanium - титан  
 • tixe - тихий  
 • tixia - тишина  
@@ -1671,6 +1672,9 @@ xaman - шаман
 xampan - Шампань  
 xampan vin - шампанское  
 xante - спокойный  
+xara - пила  
+xarafun - опилки  
+xarakan - лесопилка  
 xarke - акула  
 xarnir - шарнир  
 xate - противостоять  
@@ -1678,13 +1682,10 @@ xatan - противник
 xatan (ruhoxatan) - Сатана  
 xau - мало  
 xaxa - шурша́ть  
+xe - вещь  
+xehal - положение (ситуация)  
 xefe - шеф  
-xei - вещь  
-xeihal - положение (ситуация)  
 xenon - ксенон  
-xere - пила  
-xerofun - опилки  
-xerokan - лесопилка  
 xibai - проиграть (провалиться)  
 • dexibai - потерять (утратить)  
 xingofote - сверкать (мерцать)  
@@ -1703,7 +1704,7 @@ xule - учиться
 • xulaje - урок (учение)  
 • xulize - учить (преподавать)  
 • xulizer - учитель  
-• xulokan - школа   
+• xulekan - школа   
 xuloxefe - директор (ректор)  
 xure - начало  
 
@@ -1714,7 +1715,7 @@ yahve - Яхве (Иегова)
 • exyam - пикник  
 yamfite - овощ  
 yamyau - голод  
-• yatimokan - детский дом  
+• yatimkan - детский дом  
 yau - нуждаться (нужда)  
 • beyau - нужный  
 ye - да  

@@ -129,7 +129,7 @@ bazoxulkan - 小学校
 bazar - 市場 (マーケット, バザー)  
 bebe - 赤ちゃん  
 bekofan - テラコッタ  
-bekokan - パン屋 (ベーカリー)  
+bekekan - パン屋 (ベーカリー)  
 • rebeler - 反逆者  
 belce - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
@@ -176,7 +176,7 @@ brune - 茶色
 brunalge - 褐藻  
 brunsalmon - ブラウントラウト  
 bu! - ばあ  
-• bucokan - 屠畜場  
+• bucekan - 屠畜場  
 • bucer - 肉屋  
 Buda - 仏陀  
 bufete - ビュッフェ (バイキング)  
@@ -206,15 +206,15 @@ ceresium - セリウム
 • sucese - 成功  
 cesium - セシウム  
 cili fun - パプリカ  
-cinmai - お婆さん  
-cinocoseni - 中韓  
-cinoniponi - 日中  
-cinovieti - 漢越  
+cinma - お婆さん  
+cinacosen - 中韓  
+cinanipon - 日中  
+cinaviete - 漢越  
 cing - 請う (ーて下さい)  
 cire - 裂く  
 circire - 千切る  
 cirtexe - ボロ  
-• codokan - 娼館  
+• codekan - 娼館  
 coi - 菜  
 coklate - チョコレート  
 coklatobaton - チョコバー  
@@ -352,7 +352,7 @@ fente - 風
 fer - 鉄  
 fermium - フェルミウム  
 fete - する (事実)  
-• fetokan - 工場 (製造所)  
+• fetekan - 工場 (製造所)  
 • exfete - 効果  
 • infetion - 伝染  
 • rifete - 繰り返す  
@@ -429,7 +429,7 @@ geoforme - 地形
 geolojia - 地質学  
 geometria - 幾何学  
 geosube - 地中  
-geosube jelokan - 地下牢 (ダンジョン)  
+geosube jelekan - 地下牢 (ダンジョン)  
 • genite - 湧かす  
 • genolojia - 系譜学  
 genoloke - 出生地  
@@ -561,11 +561,11 @@ jangle - 野生の
 jangle van - ジャングル  
 jau - 大麦  
 javabe - 答え (回答)  
-jebocaku - ポケットナイフ  
+jebecaku - ポケットナイフ  
 jeke - 借用  
 jekocepe - 借りる  
 jekodone - 貸す  
-• jelokan - 監獄  
+• jelekan - 監獄  
 jen - 人  
 • dusojen - 敵  
 jenju - 真珠  
@@ -615,8 +615,8 @@ kan - 店 (館)
 kangaru - カンガルー  
 kanyon - 峡谷  
 kankuate - キンカン (キンキツ)  
-kano - カヌー  
 kantalupomelon - カンタロープ  
+kanu - カヌー  
 kapotruke - 罠  
 kare - 働く  
 • karaje - 労働  
@@ -667,8 +667,8 @@ kite - 行く
 • kitabia - 文献 (文学)  
 • kitabeme - 書記素  
 kitaboforme - 書式付け  
-kitabokan - 図書館  
-kitabominister - 図書係  
+kitabekan - 図書館  
+kitabemanter - 図書係  
 kivi - キーウィフルーツ  
 kize - チーズ  
 kizoproten - 乾酪素  
@@ -751,11 +751,11 @@ lazanya - ラザニア
 lazurpetre - ラピスラズリ (瑠璃)  
 lefte - 左  
 lense - レンズ  
-letis - レタス  
+letus - レタス  
 lexe - 言葉  
 • lexia - 語彙  
 lexojinse - 文法的性 (名詞クラス)  
-liame - ラマ  
+liama - ラマ  
 libu - 立つ  
 liboban - 棚  
 libobaze - 台  
@@ -872,7 +872,7 @@ mimen - 私たち
 mien - ヌードル  
 • inmigre - 移住する (移民する)  
 • inmigrer - 移民 (移住者)  
-mikrobia - 微生物  
+mikrobie - 微生物  
 mikrobiolojia - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
@@ -1015,7 +1015,7 @@ pang - パン
 panir - クワルク  
 panke - 翼 (羽)  
 pante - ズボン  
-papai - パパイヤ  
+papaya - パパイヤ  
 pari numbe - 偶数  
 • parable - 譬え話  
 • paran - 同輩  
@@ -1035,7 +1035,7 @@ pastopetre - マグマ (岩漿)
 • konpatia - 同情  
 patomise - 伝染  
 pau - 銃  
-pave - 撃つ  
+pau - 撃つ  
 • prepede - 調製用  
 peikar - 職業  
 peikare - プロフェッショナル  
@@ -1106,7 +1106,7 @@ prometium - プロメチウム
 proten - 蛋白質 (プロテイン)  
 protacinium - プロトアクチニウム  
 pudu - 腐敗  
-• pujokan - 神殿  
+• pujekan - 神殿  
 puma - ピューマ (クーガー)  
 puntoban - スコアボード  
 puntonumbe - 得点 (点数)  
@@ -1173,8 +1173,8 @@ ruterfordium - ラザホージウム
 ## S  
 
 sabe - 知る  
-sabovol - 興味 (好奇心)  
-sabovolive - 知りたがる  
+sabevol - 興味 (好奇心)  
+sabevolive - 知りたがる  
 besabovole - 面白い  
 sable - 砂  
 • movosable - 流砂  
@@ -1196,7 +1196,7 @@ salte - 塩
 • samike - 同じよう (近い)  
 sammetre - 対称な  
 sammetria - 対称性  
-samosifia - 模型 (類似, シミュレーション)  
+samsifia - 模型 (類似, シミュレーション)  
 samarium - サマリウム  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
@@ -1218,7 +1218,7 @@ sene - 年齢
 senater - 上院議員  
 sense - 感覚  
 sente - 百 (１００)  
-• pro sente - パーセント  
+• prosente - パーセント  
 sere - 系列  
 • seria - 系列  
 • sereme - 連結  
@@ -1333,7 +1333,7 @@ tipe - 種類
 tire pil - はがす (剥ぐ)  
 tirbaton - レバー (てこ)  
 tirlonge - 伸びる (張る)  
-tiroriu - 離岸流  
+tireriu - 離岸流  
 titanium - チタン  
 tix - しーっ  
 • tixe - 静かな (無音)  
@@ -1438,15 +1438,15 @@ xam: - 夕べ
 xamyam - 夕食  
 xaman - シャーマン  
 xampan - 香槟  
+xara - のこぎり  
+xarafun - 木屑  
 xarke - サメ  
 xatan - 敵 (相手)  
 xatan (ruhoxatan) - 悪魔  
 xau - 少ない  
-xei - 事 (物)  
-xeihal - 事態  
+xe - 事 (物)  
+xehal - 事態  
 xenon - キセノン  
-xere - のこぎり  
-xerofun - 木屑  
 xi - さん (氏)  
 xibai - 失敗 (負け)  
 xibai - 負ける  
@@ -1466,7 +1466,7 @@ xukre - ありがとう (どうも)
 xule - 学ぶ  
 • xulize - 教える  
 • xulizer - 先生 (教師)  
-• xulokan - 学校  
+• xulekan - 学校  
 • xuler - 学生  
 xuloxefe - 校長  
 xure - 開始  

@@ -104,7 +104,7 @@ angulring - pierścień, pierścionek; obrączka
 anime - animować (animacja)  
 anis - anyż  
 Antartike - Antarktyka  
-Antartiki Hai - Ocean Antarktyczny (Ocean Południowy)  
+Antartike Hai - Ocean Antarktyczny (Ocean Południowy)  
 anten - antena  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua i Barbuda  
@@ -137,7 +137,7 @@ arte - sztuka
 • artofete intelige (AI) - sztuczna inteligencja  
 • artiste - artysta  
 Artike - Arktyka  
-Artiki Hai - Ocean Arktyczny  
+Artike Hai - Ocean Arktyczny  
 Aruba - Aruba  
 ase - azjatycki  
 Asia - Azja  
@@ -221,7 +221,7 @@ bangle - banglijski
 Banglodex - Bangladesz  
 banyakamar - łazienka  
 banke - oszczędzać (deponować)  
-• bankokan - bank  
+• bankekan - bank  
 • banker - bankier  
 banya - kąpiel (kąpać się)  
 bar - bar  
@@ -238,7 +238,7 @@ barse - deszcz (padać, lać)
 barsocate - parasol  
 barsokote - płaszcz nieprzemakalny  
 barte - Indyjski  
-Barti Hai - Ocean Indyjski  
+Barte Hai - Ocean Indyjski  
 Bartia - Indie  
 barude - proch strzelniczy  
 bas - wystarczający  
@@ -280,7 +280,7 @@ bege - uciec, uciekać
 Beijing - Pekin  
 beke - piec  
 bekofan - terakota  
-bekokan - piekarnia  
+bekekan - piekarnia  
 beker - piekarz  
 bel - bel  
 • rebelion - rebelia, powstanie  
@@ -349,8 +349,8 @@ boron - bor
 Bosnia e Hercegovina - Bośnia i Harcegowina  
 Botia - Tybet  
 botel - butelka  
-brave - Odwarzny (  
-bravo - brawo (gratulacje)  
+brave - odwarzny  
+brave - brawo (gratulacje)  
 brauze - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
 brauzer - poszukiwacz (badacz, eksplorator)  
 Brazavil Kongo - Republika Konga  
@@ -436,10 +436,10 @@ cili - papryka
 cili fun - papryka  
 cimpanze - szympans  
 cin - rodzic (matka lub ojciec)  
-cine - han chiński  
 cinbrusben - kuzyn  
-cinmai - babcia (babka)  
-cinpai - dziadek (dziad)  
+cinma - babcia (babka)  
+cinpa - dziadek (dziad)  
+cina - han chiński  
 cincile - szynszyla  
 cing - prosić  
 cing lai - zaprosić, zapraszać  
@@ -689,7 +689,7 @@ Espania - Hiszpania
 esperante - Esperanto  
 Estia - Estonia  
 Etiopia - Etiopia  
-eve - korzystny (dobry)  
+eu - korzystny (dobry)  
 eurasia - Eurazja  
 eureke - znaleźć, znajdywać, odkryć, odkrywać  
 euro - euro (€)  
@@ -749,7 +749,7 @@ fermium - ferm
 feste - przyjęcie (święto, festiwal)  
 festoden - święto  
 fete - zrobić (czyn, uczynek)  
-• fetokan - fabryka, manufaktura  
+• fetekan - fabryka, manufaktura  
 • feter - twórca (czynnik)  
 • feteria - fabryka, manufaktura  
 • infetion - infekcja (zakażenie)  
@@ -901,9 +901,9 @@ gas - gaz
 gate - twardy  
 gatomate - stały (sztywny)  
 gau - góra (szczyt)  
+gau tanur - wielki piec  
 gave - podnosić (podnieść)  
 gave - wysoki  
-gavi tanur - wielki piec  
 gavia - wysokość  
 gavu - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
 gautale - pionowy  
@@ -917,13 +917,13 @@ geoforme - teren
 geokaski krake - uskok  
 geokaski plate - płyta tektoniczna  
 geolojia - geologia  
-Geomede Hai - Morze Śródziemne  
+Geomide Hai - Morze Śródziemne  
 georde - wosko lądowe (armia)  
 geoparline - równik  
 Geoparline Ginia - Gwinea Równikowa  
 geosisme - trzęsienie Ziemi  
 geosube - podziemny  
-geosube jelokan - loch  
+geosube jelekan - loch  
 geotike - działka (teren)  
 gei - gejowski (homoseksualny)  
 gele - żel, galareta  
@@ -942,7 +942,7 @@ genotipe - genotyp
 • posgere - powojenny  
 • pregere - przedwojenny  
 germanium - german  
-Gerneze - Guernsey  
+Gernezi - Guernsey  
 geste - gest  
 Gibraltar - Gibraltar  
 gide - prowadzić (wskazać drogę)  
@@ -1009,7 +1009,7 @@ guipapil - mak wschodni
 Guyana - Gujana  
 gujarate - Gudżarat  
 gul - połknąć (połykać)  
-gulogui - ghul  
+gulgui - ghul  
 gum - bęben  
 gumle - zdanie (fraza)  
 guru - guru, mistrz  
@@ -1248,7 +1248,7 @@ jekocepe - pożyczać (pożyczyć)
 jekodone - pożyczać komuś (pożyczyć komuś)  
 jekolexe - zapożyczenie (wyraz obcy)  
 jele - uwięzić, więzić, pozbawić wolności  
-• jelokan - więzienie, zakład karny  
+• jelekan - więzienie, zakład karny  
 • jeler - strażnik więzienny  
 jen - osoba  
 no jen - nikt, żadna osoba  
@@ -1272,7 +1272,7 @@ jive - żyć (żywy, żyjący)
 joke - żart  
 joker - żartowniś, dowcipniś  
 jude - sądzić (osądzić; wyrok)  
-• judokan - sąd (trybunał)  
+• judekan - sąd (trybunał)  
 • juder - sędzia  
 judau - judo  
 jul - dżul (J)  
@@ -1332,7 +1332,7 @@ kampe - obozowicz
 kamper - obóz  
 kamre - walijski  
 Kamria - Walia  
-Kanade - Kanada  
+Kanada - Kanada  
 kanal - kanał  
 kanale - kierować (doprowadzać, prowadzić, służyć jako kanał)  
 kanaler - przewód (kanał)  
@@ -1343,10 +1343,10 @@ kang - grzebień
 kangaru - kangur  
 kanyon - kanion  
 kankuate - kumkwat  
-kano - kanoe  
 kante - bark (ramię)  
-Kantalupo va Sabine - Cantalupo in Sabina  
+Kantalupo i Sabina - Cantalupo in Sabina  
 kantalupomelon - kantalupa  
+kanu - kanoe  
 kanun - prawo  
 kanzar - sztylet (puginał)  
 kape - złapać, łapać, schwytać, chwytać  
@@ -1451,9 +1451,9 @@ kiril harfia - cyrylica
 kite - iść (przemieścić się)  
 kitabe - pisać (pismo)  
 kitaboforme - formatowanie  
-kitabokan - biblioteka  
-kitabomaxin - maszyna do pisania  
-kitabominister - bibliotekarz  
+kitabekan - biblioteka  
+kitabemaxin - maszyna do pisania  
+kitabemanter - bibliotekarz  
 kivi - owoc kiwi  
 kize - ser  
 kizoproten - kazeina  
@@ -1476,7 +1476,7 @@ koka - koka
 koka kola - kola (coca-cola)  
 kokode - kura, kogut, kurczak  
 Kokos nesia - Wyspy Kokosowe  
-kole - kola, napój gazowany  
+kola - kola, napój gazowany  
 kola jus - kola, napój gazowany  
 Kolombia - Kolumbia  
 kolone - kolonizować  
@@ -1506,7 +1506,7 @@ kong - dziura
 konge - przebić (perforować, dziurawić)  
 Kongfuze - Konfucjusz  
 kongfuzisme - konfucjanizm  
-Konkane - konkani  
+Konkani - konkani  
 konserte - koncert  
 konus - szyszka  
 kope - kopia, replika  
@@ -1622,7 +1622,7 @@ Kuvaitia - Kuwejt
 labe - warga  
 lage - jezioro  
 lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
-lake - lakier  
+laka - lakier  
 lale - czerwony  
 lalolince - ryś rudy  
 lalorange - mandarynka  
@@ -1662,16 +1662,14 @@ lenge - zimny, chłodny
 lengomosim - zima  
 lengomosime - zimowy  
 lense - soczewka  
-lense - ćwiczenie  
-lense - ćwiczyć  
-letis - sałata  
+letus - sałata  
 lexe - słowo  
 • lexia - słownictwo  
 • lexike - słowny (leksykalny)  
 lexojinse - rodzaj gramatyczny  
 lexoliste - lista słów  
 leze - gruszka  
-liame - lama  
+liama - lama  
 libe - postawić (stawiać)  
 libe - postawiony (stojący)  
 Libia - Libia  
@@ -1812,9 +1810,9 @@ Malaisia - Malezja
 malaria - malaria  
 Malavi - Malawi  
 malayu - malajski  
-Male - Mali  
-malike - jaśmin  
-Malte - Malta  
+Mali - Mali  
+malika - jaśmin  
+Malta - Malta  
 Malvinas nesia - Falklandy, Malwiny  
 • mamal - ssak  
 mamal - ssak  
@@ -1938,7 +1936,7 @@ midofas - interfejs
 mien - makaron  
 migre - migracja  
 • mikro- - mikro-  
-mikrobia - mikroorganizm  (mikrob)  
+mikrobie - mikroorganizm  (mikrob)  
 mikrobiolojia - mikrobiologia  
 Mikronesia - Mikronezja  
 mikroskope - mikroskop  
@@ -1989,10 +1987,10 @@ mokotan - pień
 mokozanger - stolarz  
 mokozongoparke - arboretum  
 mole - zemleć (mleć, mielić)  
-• molokan - mielić  
+• molekan - mielić  
 • moler - młynarz  
 molite - ostrzarka (kamień młyński)  
-Moldove - Mołdawia  
+Moldova - Mołdawia  
 mole - mol  
 molekul - molekuła (cząsteczka)  
 molidenium - molibden  
@@ -2068,12 +2066,12 @@ nam - imię, nazwa
 name - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 namane - nazwać, nazywać, wezwać, wzywać  
 namkitabe - podpis (autograf)  
-namelexe - rzeczownik  
 • antinam - antonim  
 • dusnam - obraza (obelga)  
 • exonam - egzonim  
 • inonam - endonim  
 • pronam - zaimek  
+namelexe - rzeczownik  
 Namibia - Namibia  
 nane - nano-  
 nanomitre - nanometr  
@@ -2131,9 +2129,9 @@ Nepal - Nepal
 nes - wyspa  
 • nesia - archipelag  
 • internete - internet  
-netodone - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
-netogete - ściągać (ściągnąć, pobrać, pobierać)  
-netoloke - witryna internetowa (portal internetowy)  
+ö - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
+netekape - ściągać (ściągnąć, pobrać, pobierać)  
+neteloke - witryna internetowa (portal internetowy)  
 neu - nowy  
 • nevaje - nowość  
 • nevike - nowicjusz (nowa osoba)  
@@ -2309,7 +2307,7 @@ panjabe - pendżabski
 panke - skrzydło  
 pante - spodnie (pantalony, portki)  
 papagai - papuga  
-papai - papaja  
+papaya - papaja  
 papir - dokument  
 Papua Neu Ginia - Papua Nowa Gwinea  
 pare - równy  
@@ -2350,13 +2348,13 @@ patolojia - patologia
 patomise - infekcja (zakażenie)  
 patate - ziemniak  
 pau - pistolet, strzelba, ręczna broń palna  
-pave - strzelać (strzelić)  
+pau - strzelać (strzelić)  
 paunde - funt (£)  
 pauze - przerwać (przerywać; pauza, przerwa)  
 pedal - pedał  
 pedalsikle - rower z pedałami  
 pei - zapłata, opłata  
-peye - zapłacić, opłacić, płacić  
+pei - zapłacić, opłacić, płacić  
 peikar - profesja, zajęcie, zawód  
 pelmen - kluska, knedel, pieróg; ravioli, pelmeni  
 pelpel - motyl  
@@ -2473,8 +2471,8 @@ posden - jutro
 pospor - fosfor  
 poste - nadać, wysłać pocztą  
 • postaje - poczta  
-• postokan - poczta, budynek poczty  
-postocape - znaczek pocztowy  
+• postekan - poczta, budynek poczty  
+postecape - znaczek pocztowy  
 pote - dzban (dzbanek; słój, słoik; wazon)  
 poze - pozować (ustawiać się; poza, pozycja)  
 • depoze - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
@@ -2505,9 +2503,9 @@ pude - zgniły
 pudu - rozłożyć się (rozkładać się, gnić, psuć się)  
 puding - puding  
 puje - czcić (szanować; cześć, szacunek)  
-• pujokan - świątynia  
-pujomeza - ołtarz  
-pujorite - rytuał, ceremonia, ryt  
+• pujekan - świątynia  
+pujemeza - ołtarz  
+pujerite - rytuał, ceremonia, ryt  
 pul - most  
 pulmon - płuco  
 pulse - pchnąć, pchać  
@@ -2527,7 +2525,7 @@ purxipe - namoczyć (marynować)
 • konputer - komputer  
 putau - winogrono  
 putavorange - grejpfrut  
-Putong Cini - mandaryński chiński, Putonghua  
+Putong Cina - mandaryński chiński, Putonghua  
 putonge - powszechny, uniwersalny  
 
 ## R  
@@ -2541,7 +2539,7 @@ radium - rad
 radometrer - radoiometr  
 radon - radon  
 rai - opinia, pogląd  
-raye - uważać (sądzić)  
+rai - uważać (sądzić)  
 raite - prawa strona  
 raite - prawy (prawostronny, z prawej strony)  
 raitiste - prawicowiec (prawak)  
@@ -2649,8 +2647,8 @@ rutin - rutyna, nawyk, zwyczaj
 sabe - wiedzieć (wiedza)  
 • sabize - poinformować, informować, zakomunikować, komunikować  
 • konsabe - informacja  
-sabovol - zainteresowanie, zaciekawienie; interesujący  
-sabovolive - ciekawy  
+sabevol - zainteresowanie, zaciekawienie; interesujący  
+sabevolive - ciekawy  
 besabovole - interesujący  
 sababe - powód (przyczyna; spowodować, powodować)  
 sabate - szabat, szabas  
@@ -2694,10 +2692,10 @@ sam: - taki sam
 • samike - podobny (analogiczny)  
 samodexan - rodak, ziomek, krajan  
 samemote - współczucie  
-samoname - homonim  
-samorai - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
-saomrayia - porozumienie  
-samosifia - model (podobieństwo, symulować)  
+samname - homonim  
+samrai - potwierdzić, potwierdzać, zgodzić się, zgadzać się  
+samrayia - porozumienie  
+samsifia - model (podobieństwo, symulować)  
 samarium - samar  
 Samoa - Samoa  
 sanduice - kanapka  
@@ -2713,7 +2711,7 @@ Sante Vincente - Saint Vincent
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanze - wiatrak (wentylator)  
 sapate - but  
-• sapatokan - warsztat szewski  
+• sapatekan - warsztat szewski  
 • sapater - szewc  
 sar - głowa  
 sarokaske - hełm  
@@ -2958,7 +2956,7 @@ tafun - burza, sztorm, tajfun
 Tai - tajski  
 Tai dexia - Tajlandia  
 Taibei - Tajpej  
-taige - tajga  
+taiga - tajga  
 tail - płyta  
 Taivan - Tajwan, Republika Chińska  
 Tajikostan - Tadżykistan  
@@ -3047,7 +3045,7 @@ tire milke - wydoić, doić
 tire pil - obrać (obierać)  
 tirbaton - dźwignia  
 tirlonge - rozciągać (rozciągnąć)  
-tiroriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
+tireriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tirsanduke - szuflada  
 titanium - tytan  
 tix - ćsi  
@@ -3181,7 +3179,7 @@ vei - ogon
 vende - sprzedać (sprzedawać)  
 vendoxope - handel (handlować)  
 vendoxoper - handlarz (kupiec)  
-Venezuele - Wenezuela  
+Venezuela - Wenezuela  
 ventur - przygoda  
 venturer - poszukiwacz przygód (awanturnik)  
 Venus - Wenus  
@@ -3264,6 +3262,8 @@ Xanghai - Szanghaj
 xanke - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 • xankable - wątpliwy (niewiarygodny, podejrzany)  
 xante - spokojny  
+xara - piła  
+xarakan - tartak  
 xarke - rekin  
 xarme - wstyd (hańba, kompromitacja)  
 xarnir - zawias, oś  
@@ -3278,17 +3278,15 @@ xatrange - szachy
 xau - niewiele (mało)  
 xaves - nieliczność  
 xaxa - szeleścić  
+xe - rzecz  
+xehal - sytuacja (stan)  
 no xe - nic, żadna rzecz  
 xefe - szef, kierownik  
-xefe minister - premier  
+xefe manter - premier  
 xefe di - główny  
-xei - rzecz  
-xeihal - sytuacja (stan)  
 xeihalironia - ironia sytuacyjna  
 xenon - ksenon  
 xenseng - mistrz (sensei)  
-xere - piła  
-xerokan - tartak  
 xibai - porażka (niepowodzenie, klapa, przegrana, strata, porażka)  
 xibai - przegrana (strata, porażka)  
 xibai - przegrać, przegrywać  
@@ -3323,7 +3321,7 @@ xukre - dziękować (dzięki)
 xule - nauczyć się, uczyć się, studiować  
 • xulaje - lekcja  
 • xulizer - nauczyciel  
-• xulokan - szkoła (instytucja)  
+• xulekan - szkoła (instytucja)  
 • xuler - uczeń, student  
 xuloxefe - dyrektor szkoły  
 xure - zaczyna (początek; zacząć, rozpoczynać, rozpocząć)  
@@ -3351,7 +3349,7 @@ yamsukarcau - cukrowiec jadalny
 yamyau - głód  
 yang - rodzaj, typ, styl  
 yatim - sierota  
-• yatimokan - sierociniec, dom dziecka  
+• yatimkan - sierociniec, dom dziecka  
 yau - potrzeba (potrzebować)  
 • beyau - potrzebny  
 • anbeyau - niepotrzebny  

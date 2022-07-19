@@ -4,7 +4,7 @@
 
 a ke - onde  
 a line - online  
-a longe dure - por muito tempo  
+a long dure - por muito tempo  
 a misal - por exemplo  
 a xukre de - graças a  
 abete - abeto  
@@ -136,7 +136,7 @@ ban - painel
 bangem - jogo de tabuleiro  
 banan - banana  
 bande - bando  
-• bankokan - banco  
+• bankekan - banco  
 • banker - banqueiro  
 bankorute - bancarrota (falido)  
 bankorutia - bancarrota (falência)  
@@ -213,14 +213,14 @@ borium - bóhrio
 boron - boro  
 botel - garrafa (botelha)  
 brave - bravo (valente, corajoso)  
-bravo - bravo!  
+brave - bravo!  
 bromium - bromo  
 brune - castanho (marrom)  
 brunsalmon - truta-marrom  
 bu! - bu!  
 bubu - bicho-papão  
 buce - abater  
-• bucokan - matadouro  
+• bucekan - matadouro  
 • bucer - açougueiro (talhante)  
 Buda - Buda  
 buke - livro  
@@ -262,11 +262,11 @@ cete - sete (7)
 • cetime - sétimo  
 cili - cápsico  
 cinbrusben - primo  
-cinmai - avó  
-cinpai - avô  
-cini manter - mandarim  
-cinoniponi - sino-japonês  
-cinovieti - sino-vietnamita  
+cinma - avó  
+cinpa - avô  
+cina manter - mandarim  
+cinanipon - sino-japonês  
+cinaviete - sino-vietnamita  
 cire - rasgar  
 coi - verdura  
 coklate - chocolate  
@@ -456,8 +456,8 @@ galope - galope
 galte - erro (falta; errôneo)  
 • gamike - esposo ou esposa  
 gamben - enteado  
-gamoma - sogra  
-gamopa - sogro  
+gamma - sogra  
+gampa - sogro  
 gancau - feno  
 gantexe - toalha  
 gana - cana  
@@ -621,7 +621,7 @@ jangle - selvagem (silvestre)
 jangle van - mato (jângal)  
 jau - cevada  
 javabe - resposta  
-jebocaku - canivete  
+jebecaku - canivete  
 jeke - emprestar (pedir emprestado)  
 jekocepe - pedir emprestado  
 jekodone - emprestar  
@@ -642,7 +642,7 @@ jive - vivo
 jongle - fazer malabarismo  
 • jongler - malabarista  
 juba - manto  
-• judokan - tribunal  
+• judekan - tribunal  
 • juder - juiz  
 • exjude - extrajudicial  
 jul - joule (J)  
@@ -684,9 +684,9 @@ kampostan - área de acampamento
 kangaru - canguru  
 kanyon - canhão (ravina, barranco)  
 kankuate - quincã (cunquate)  
-kano - canoa  
-Kantalupo va Sabine - Cantalupo in Sabina  
+Kantalupo i Sabina - Cantalupo in Sabina  
 kantalupomelon - meloa (cantalupo)  
+kanu - canoa  
 kapotruke - armadilha  
 kare - trabalhar  
 • karaje - trabalho  
@@ -739,8 +739,8 @@ kite - ir
 kitane - remover  
 kitabe - escrever (escrita)  
 • kitabia - literatura  
-kitabokan - biblioteca  
-kitabomaxin - máquina de escrever  
+kitabekan - biblioteca  
+kitabemaxin - máquina de escrever  
 kivi - quivi  
 kize - queijo  
 • proklame - aclamar  
@@ -815,6 +815,7 @@ lalorange - tangerina (mandarim)
 lalsalmon - salmão-vermelho  
 lalobavite - rubi  
 lama - lama  
+• lamaisme - lamaísmo  
 lampe - lâmpada (luminária)  
 lantanium - lantâno  
 lasun - alho  
@@ -832,12 +833,12 @@ lefte - esquerdo
 lengomosim - inverno  
 lengomosime - invernal (hibernal)  
 lense - lente  
-letis - alface  
+letus - alface  
 lexe - palavra (vocábulo)  
 • lexia - vocabulário  
 • lexike - léxico  
 lexojinse - gênero gramatical  
-liame - lhama  
+liama - lhama  
 liboban - prateleira (estante)  
 libele - libélula  
 • lider - líder (chefe)  
@@ -956,7 +957,7 @@ midi - moyen
 migre - migração (mudar-se)  
 • inmigre - imigrar  
 • inmigrer - imigrante  
-mikrobia - micróbio  
+mikrobie - micróbio  
 mikrobiolojia - microbiologia  
 mikroskope - microscópio  
 milke - leite  
@@ -983,7 +984,7 @@ moke - árvore
 mokoban - tábua (prancha)  
 mokotan - tora  
 mole - moer  
-• molokan - moenda (moinho)  
+• molekan - moenda (moinho)  
 molite - mó  
 mole - mol  
 molidenium - molibdénio  
@@ -1141,7 +1142,7 @@ pang - pão
 panir - queijo fresco  
 panke - asa  
 pante - calças  
-papai - mamão (papaia)  
+papaya - mamão (papaia)  
 par - nivel  
 pare - igual (par)  
 • parable - parábola  
@@ -1230,7 +1231,7 @@ portorike - porto-riquenho
 Portoriko - Porto Rico  
 postre - posterior  
 pospor - fósforo  
-postomarke - carimbo  
+postemarke - carimbo  
 pote - jarra (jarro)  
 poter - oleiro  
 poteria - cerâmica  
@@ -1249,8 +1250,8 @@ protacinium - protacnídio
 proxe - próximo  
 • aproxe - aproximar  
 pudu - apodrecer-se  
-• pujokan - templo  
-pujomeza - altar  
+• pujekan - templo  
+pujemeza - altar  
 pul - ponte  
 pulse - empurrar  
 • pulsation - pulso  
@@ -1321,7 +1322,7 @@ ruterfordium - rutherfórdio
 ## S  
 
 sabe - saber  
-sabovolive - inquisitivo  
+sabevolive - inquisitivo  
 sable - areia  
 • movosable - areia movediça  
 sablostan - deserto  
@@ -1343,8 +1344,8 @@ sam: - igual
 samemote - compaixão  
 sammetre - simétrico  
 sammetria - simetria  
-saomrayia - acordo  
-samosifia - simulação  
+samrayia - acordo  
+samsifia - simulação  
 samarium - samário  
 sanduice - sanduíche  
 sante kanon - sagrada escritura  
@@ -1370,7 +1371,7 @@ sene - idade
 senater - senador  
 sense - sentido  
 sente - cem (100)  
-• pro sente - por cento  
+• prosente - por cento  
 sere - série (sequência)  
 • seria - série (sequência)  
 • sereme - elo  
@@ -1424,7 +1425,7 @@ sosis - salsicha
 • speter - espetador  
 sponje - esponja  
 sporte - esporte  
-• sportokan - ginásio  
+• sportekan - ginásio  
 stanium - estanho  
 stibium - antimónio  
 strontium - estrôncio  
@@ -1609,18 +1610,18 @@ xampan - Champagne
 xampan vin - champanhe  
 • xankable - dúbio (duvidoso)  
 xante - tranquilo (calmo)  
+xara - serra  
+xarafun - serragem  
+xarakan - serraría  
 xarke - tubarão  
 xate - opor  
 xatan - adversário  
 xatan (ruhoxatan) - Satanás  
 xau - poucos  
+xe - coisa  
+xehal - situaçao  
 xefe - chefe  
-xei - coisa  
-xeihal - situaçao  
 xenon - xénon  
-xere - serra  
-xerofun - serragem  
-xerokan - serraría  
 xibayer - perdedor  
 • dexibai - perder  
 xingofote - cintilar  
@@ -1639,7 +1640,7 @@ xule - aprender
 • xulaje - lição  
 • xulize - ensinar (lecionar)  
 • xulizer - professor (docente)  
-• xulokan - escola (colégio)  
+• xulekan - escola (colégio)  
 xuloxefe - diretor  
 xure - começo (início, princípio)  
 
@@ -1649,7 +1650,7 @@ yahve - Javé (Jeová)
 • exyam - piquenique  
 yamfite - verdura (hortaliça, legume)  
 yamyau - fome  
-• yatimokan - orfanato  
+• yatimkan - orfanato  
 yau - necessitar (necessidade)  
 • yavive - necessitado  
 • beyau - necessário  

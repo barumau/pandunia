@@ -153,7 +153,7 @@ bandir - flago
 Banglodex - Bangladeŝo  
 banyakamar - banĉambro  
 banke - banki  
-• bankokan - banko  
+• bankekan - banko  
 • banker - bankisto  
 bankorute - bankrota  
 bankorutia - bankroto  
@@ -198,7 +198,7 @@ bede - lito
 bedinje - melongeno  
 bege - fuĝi  
 beke - baki  
-bekokan - bakejo  
+bekekan - bakejo  
 beker - bakisto  
 Belarus - Belorusio  
 Belgia - Belgio  
@@ -251,14 +251,14 @@ boron - boro
 Botia - Tibeto  
 botel - botelo  
 brave - brava  
-bravo - brave!  
+brave - brave!  
 Brazil - Brazilo  
 bromium - bromo  
 brox - broso  
 brune - bruna  
 brus - gefrato  
 buce - buĉi  
-• bucokan - buĉejo  
+• bucekan - buĉejo  
 • bucer - buĉisto  
 bude - kompreni (konscii)  
 • budisme - budhismo  
@@ -308,10 +308,10 @@ cete - sep (7)
 cetoden - semajno  
 Cile - Ĉilio  
 cimpanze - ĉimpanzo  
-cine - hana  
 cinbrusben - kuzo  
-cinmai - avino  
-cinpai - avo  
+cinma - avino  
+cinpa - avo  
+cina - hana  
 cincile - ĉinĉilo  
 cing - peti (bonvolu)  
 cing lai - inviti  
@@ -505,7 +505,7 @@ fer - fero
 fermium - fermio  
 feste - festo  
 fete - fari (faro, fakto)  
-• fetokan - fabriko  
+• fetekan - fabriko  
 • feter - faristo  
 • feteria - fabriko  
 • infetion - infekto  
@@ -588,8 +588,8 @@ galeria - galerio (ekspozicio)
 galte - eraro (miso)  
 game - edzigi  
 • gamia - geedzeco  
-gamoma - bopatrino  
-gamopa - bopatro  
+gamma - bopatrino  
+gampa - bopatro  
 gamel - kamelo  
 gane - seka  
 ganputau - sekvinbero  
@@ -810,7 +810,7 @@ jau - hordeo
 javabe - respondi  
 jebe - poŝo  
 jele - malliberigi  
-• jelokan - malliberejo  
+• jelekan - malliberejo  
 jen - persono  
 • dusojen - malamiko  
 jenje - zingibro  
@@ -863,13 +863,13 @@ kanal - kanalo
 kanape - sofo  
 kande - bombono  
 kangaru - kangaro  
-kano - kanuo (kanoto)  
 kante - ŝultro  
+kanu - kanuo (kanoto)  
 kanun - lego  
 kanzar - ponardo  
 kape - kapti  
 • karaje - laboro  
-• karokan - laborejo  
+• karekan - laborejo  
 • karer - laboristo  
 • konkare - kunlabori  
 karelexe - verbo  
@@ -918,8 +918,8 @@ kinu - moviĝi
 kite - iri  
 kitabe - skribo  
 • kitabia - literaturo  
-kitabokan - librejo  
-kitabomaxin - tajpilo  
+kitabekan - librejo  
+kitabemaxin - tajpilo  
 kivi - kivo  
 kize - fromaĝo  
 • proklame - proklami  
@@ -1018,9 +1018,7 @@ laze - rubo
 lenge - malvarma  
 lengomosim - vintro  
 lengomosime - vintra  
-lense - ekzerco  
-lense - ekzerci  
-letis - laktuko  
+letus - laktuko  
 lexe - vorto  
 • lexia - vortaro  
 • lexike - vorta  
@@ -1083,8 +1081,8 @@ makas - tondilo
 • malonomia - ekonomiko  
 • maler - havanto  
 • be male - aparteni  
-Male - Malio  
-malike - jasmeno  
+Mali - Malio  
+malika - jasmeno  
 mam - mamo  
 man - viro  
 mangan - mangano  
@@ -1137,7 +1135,7 @@ midi - mezo
 mien - nudelo  
 migre - migrado  
 • mikro- - mikro-  
-mikrobia - mikrobo  
+mikrobie - mikrobo  
 mikrobiolojia - mikrobiologio  
 mikroskope - mikroskopo  
 mili - mili-  
@@ -1211,8 +1209,8 @@ nafas - spiro
 nagre - urbo  
 nagre - urba  
 nam - nomo  
-namelexe - substantivo  
 • pronam - pronomo  
+namelexe - substantivo  
 Namibia - Namibio  
 nanas - ananaso  
 narke - drogo  
@@ -1336,7 +1334,7 @@ panike - paniko
 panke - flugilo  
 pante - pantalonoj  
 papagai - papago  
-papai - papajo  
+papaya - papajo  
 par - nivelo  
 pari numbe - para nombro  
 • prepare - preta  
@@ -1417,8 +1415,8 @@ poso - estonte
 posozam - estonoteco  
 posden - morgaŭ  
 pospor - fosforo  
-• postokan - poŝtejo  
-postomarke - poŝtmarko  
+• postekan - poŝtejo  
+postemarke - poŝtmarko  
 pote - kruĉo  
 pre - antaŭe (pasinte)  
 preden - hieraū  
@@ -1430,8 +1428,8 @@ program - programo
 prometium - prometio  
 protacinium - protaktinio  
 proxe - proksima  
-• pujokan - templo  
-pujomeza - altaro  
+• pujekan - templo  
+pujemeza - altaro  
 pul - ponto  
 pulmon - pulmo  
 punte - punkto  
@@ -1441,7 +1439,7 @@ puro - plene
 purfine - kompleti  
 • konputer - komputero  
 putau - vinbero  
-Putong Cini - mandarinĉina  
+Putong Cina - mandarinĉina  
 putonge - generala  
 
 ## R  
@@ -1450,7 +1448,7 @@ radi geter - radio
 radium - radiumo  
 radon - radono  
 rai - opinio  
-raye - opinii  
+rai - opinii  
 rampe - ramplo  
 rang - koloro  
 range - kolora  
@@ -1507,7 +1505,7 @@ rutin - rutino (kutimo)
 
 sabe - scii (koni)  
 • konsabe - informacio  
-sabovolive - scivolema  
+sabevolive - scivolema  
 besabovole - interesa  
 sababe - kialo  
 sable - sablo  
@@ -1538,15 +1536,15 @@ samodexan - samlandano
 samemote - kompato  
 sammetre - simetria  
 sammetria - simetrio  
-samorai - samopinii (interkonsenti)  
-saomrayia - interkonsento  
+samrai - samopinii (interkonsenti)  
+samrayia - interkonsento  
 samarium - samario  
 sanduke - skatolo (kesto)  
 sante - sankta  
 • santike - sanktulo  
 sanze - ventumilo  
 sapate - ŝuo  
-• sapatokan - ŝuistejo  
+• sapatekan - ŝuistejo  
 • sapater - ŝuisto  
 sarokaske - kasko  
 sarotunge - kapdoloro  
@@ -1670,7 +1668,7 @@ tabake - tabako
 tafun - ŝtormo  
 Tai - tajlanda  
 Tai dexia - Tajlando  
-taige - tajgo  
+taiga - tajgo  
 talium - talio  
 tame - avida  
 tantalium - tantalo  
@@ -1824,18 +1822,18 @@ xaman - ŝamano
 xampan vin - ĉampano  
 xanke - dubo  
 xante - trankvila (serena)  
+xara - segilo  
+xarafun - segaĵo  
 xarme - honto  
 xarnir - ĉarniro (pivoto)  
 xarte - kondiĉo (postulo)  
 xatan (ruhoxatan) - diablo (Satano)  
 xatrange - ŝako  
 xau - malmulte  
+xehal - situacio (aferstato)  
 xefe - estro (ĉefulo)  
-xefe minister - ĉefministro  
-xeihal - situacio (aferstato)  
+xefe manter - ĉefministro  
 xenon - ksenono  
-xere - segilo  
-xerofun - segaĵo  
 xibai - malsukceso  
 xim - koro  
 xin - kredo  
@@ -1859,7 +1857,7 @@ xule - lerni (studi)
 • xulaje - leciono  
 • xulize - instrui  
 • xulizer - instruisto  
-• xulokan - lernejo  
+• xulekan - lernejo  
 • xuler - studento (lernanto)  
 xuloxefe - lernejestro  
 xure - komenci  

@@ -4,7 +4,7 @@
 
 a - 在  
 a line - 在线  
-a longe dure - 久  
+a long dure - 久  
 a misal - 比如  
 abete - 冷杉  
 able - 会 (可能)  
@@ -124,7 +124,7 @@ bakocoi - 白菜 (小白菜)
 bakomargarite - 法蘭西菊  
 bakosalmon - 大麻哈鱼 (狗鮭)  
 bakalau - 鱈  
-• balokan - 体育馆  
+• balekan - 体育馆  
 • anbale - 虚弱 (易坏)  
 baloton - 重音符号  
 balde - 水桶  
@@ -137,7 +137,7 @@ banan - 香蕉
 bande - 班  (一帮)  
 bandir - 旗  
 banyakamar - 浴室  
-• bankokan - 银行  
+• bankekan - 银行  
 bankorutia - 破产  
 banya - 洗澡 (游泳)  
 barium - 钡  
@@ -205,7 +205,7 @@ broxokalam - 毛笔
 brune - 棕色 (色)  
 brunsalmon - 褐鳟  
 bubu - 魔鬼  
-• bucokan - 屠宰场  
+• bucekan - 屠宰场  
 • bucer - 屠夫  
 Buda - 佛陀  
 bufete - 自助餐  
@@ -237,10 +237,10 @@ cete - 七 (7)
 cetoden - 週  
 cili - 菜椒  
 cili fun - 辣椒粉  
-cine - 汉族  
-cinocoseni - 中韩的  
-cinoniponi - 中日的 (汉日的)  
-cinovieti - 汉越  
+cina - 汉族  
+cinacosen - 中韩的  
+cinanipon - 中日的 (汉日的)  
+cinaviete - 汉越  
 cing - 请  
 cire - 撕裂  
 circire - 撕毁  
@@ -581,11 +581,11 @@ jangle - 野生
 jangle van - 丛林  
 jau - 大麦  
 javabe - 回答  
-jebocaku - 小刀  
+jebecaku - 小刀  
 jeke - 借  
 jekocepe - 借入  
 jekodone - 借出  
-• jelokan - 监狱 (监牢)  
+• jelekan - 监狱 (监牢)  
 jen - 人  
 • dusojen - 敌人  
 jenje - 姜  
@@ -599,7 +599,7 @@ jiraf - 长颈鹿
 jive - 生命  
 jongle - 变戏法  
 juba - 长袍  
-• judokan - 法庭  
+• judekan - 法庭  
 jul - 焦耳 (J)  
 juntelexe - 连接词  
 jupiter - 木星  
@@ -642,7 +642,7 @@ kantalupomelon - 鈔皮瓜
 kapotruke - 陷阱  
 kare - 工作  
 • karaje - 工作  
-• karokan - 工厂  
+• karekan - 工厂  
 • karer - 工人 (工作者)  
 • konkare - 合作  
 karelexe - 动词  
@@ -688,8 +688,8 @@ kite - 去
 kitane - 除去  
 kitabe - 写  
 • kitabia - 文学  
-kitabokan - 图书馆  
-kitabomaxin - 打字机  
+kitabekan - 图书馆  
+kitabemaxin - 打字机  
 kivi - 奇异果  
 kize - 酪 (起司)  
 klien - 顾客  
@@ -754,6 +754,7 @@ lalorange - 柑橘 (红橘)
 lalsalmon - 紅鮭  
 lalobavite - 红宝石  
 lama - 喇嘛  
+• lamaisme - 喇嘛教  
 lampe - 灯  
 lantanium - 镧  
 lasun - 大蒜 (蒜头)  
@@ -769,13 +770,13 @@ lefte - 左
 lenge - 冷たい (寒い)  
 lengomosim - 冬天  
 lense - 透镜  
-letis - 莴苣  
+letus - 莴苣  
 leu - 了  
 lexe - 词  
 • lexia - 词汇  
 lexojinse - 文法的性  
 leze - 梨  
-liame - 大羊駝  
+liama - 大羊駝  
 liboban - 架子 (搁板)  
 libobaze - 架子  
 libele - 蜻蜓  
@@ -877,7 +878,7 @@ mimen su - 我们的
 midi - 中型  
 • inmigre - 移民 (移居)  
 • inmigrer - 移民者  
-mikrobia - 微生物   
+mikrobie - 微生物   
 mikrobiolojia - 微生物学  
 mikroskope - 显微镜  
 milkokardon - 水飞蓟  
@@ -895,7 +896,7 @@ mokoban - 木板
 mokomate - 木材  
 mokotan - 原木  
 mokozanger - 木匠  
-• molokan - 磨坊  
+• molekan - 磨坊  
 molite - 磨石  
 mole - 摩尔 (单位)  
 molekul - 分子  
@@ -1030,7 +1031,7 @@ pang - 面包
 panke - 翅膀 (膀子)  
 pante - 裤子  
 papagai - 鹉鹦  
-papai - 木瓜  
+papaya - 木瓜  
 par - 水平  
 pari numbe - 偶数  
 • paran - 同辈  
@@ -1114,8 +1115,8 @@ proten - 蛋白质
 protacinium - 镤  
 pudu - 腐烂  
 puding - 布丁  
-• pujokan - 寺庙  
-pujomeza - 圣坛  
+• pujekan - 寺庙  
+pujemeza - 圣坛  
 pul - 桥  
 • pulsation - 脉 (脉搏)  
 puma - 美洲獅 (山狮)  
@@ -1176,8 +1177,8 @@ rutenium - 钌
 ## S  
 
 sabe - 知道 (晓得)  
-sabovol - 趣  
-sabovolive - 好奇  
+sabevol - 趣  
+sabevolive - 好奇  
 besabovole - 有趣  
 sable - 沙  
 • movosable - 流沙  
@@ -1199,8 +1200,8 @@ salve - 拯救
 sam: - 一样  
 sammetre - 对称  
 sammetria - 对称性  
-saomrayia - 一致  
-samosifia - 模型  
+samrayia - 一致  
+samsifia - 模型  
 samarium - 钐  
 sanduice - 三明治 (三文治)  
 sante kanon - 圣经  
@@ -1219,7 +1220,7 @@ sene - 年岁
 senater - 参议员  
 sense - 感觉  
 sente - सौ  
-• pro sente - 百分之  
+• prosente - 百分之  
 sere - 系列  
 • seria - 系列  
 • sereme - 连结  
@@ -1263,7 +1264,7 @@ sore - 锁
 sosis - 香肠  
 • inspete - 检查  
 sponje - 海绵  
-• sportokan - 健身房  
+• sportekan - 健身房  
 stanium - 锡  
 stibium - 锑  
 strontium - 锶  
@@ -1428,15 +1429,15 @@ vulve - 外阴 (陰门)
 xa - 了  
 xam: - 晚上  
 Xanghai - 上海  
+xara - 锯子  
+xarafun - 锯末  
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
 xatan (ruhoxatan) - 撒但  
 xau - 少  
-xei - 事物 (东西)  
-xeihal - 事态  
+xe - 事物 (东西)  
+xehal - 事态  
 xenon - 氙  
-xere - 锯子  
-xerofun - 锯末  
 xibai - 失败 (击败)  
 xibai - 输  
 • dexibai - 亏损 (失去)  
@@ -1460,7 +1461,7 @@ xule - 学习
 • xulaje - 课  
 • xulize - 教学  
 • xulizer - 教师 (老师)  
-• xulokan - 学校  
+• xulekan - 学校  
 • xuler - 学生  
 xuloxefe - 校长  
 xure - 开始  
@@ -1477,7 +1478,7 @@ yahve - 耶和华 (雅威)
 • exyam - 野餐  
 yamfite - 蔬菜  
 yamyau - 饥饿  
-• yatimokan - 孤儿院  
+• yatimkan - 孤儿院  
 yau - 需要  
 • beyau - 必要的  
 ye - 对 (是)  

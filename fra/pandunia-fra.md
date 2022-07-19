@@ -6,7 +6,7 @@ a - a (dans, en, chez)
 a ke - où  
 a line - en ligne  
 a long - loin  
-a longe dure - longtemps  
+a long dure - longtemps  
 a misal - par exemple  
 a retre - en arrière  
 a vere - vraiment  
@@ -105,7 +105,7 @@ anime - animer (animation)
 anis - anis  
 anis arake - raki  
 Antartike - Antarctique  
-Antartiki Hai - Océan Antarctique  
+Antartike Hai - Océan Antarctique  
 anten - antenne  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua-et-Barbuda  
@@ -139,7 +139,7 @@ arte - art
 • artofete intelige (AI) - intelligence artificielle  
 • artiste - artiste  
 Artike - arctique  
-Artiki Hai - océan Arctique  
+Artike Hai - océan Arctique  
 Aruba - Aruba  
 ase - asiatique  
 Asia - Asie  
@@ -206,7 +206,7 @@ bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)
 bakalau - morue  
 bale - fort  
 • balia - force  
-• balokan - salle de muscu  
+• balekan - salle de muscu  
 • anbale - faible  
 baloton - accent  
 balde - seau  
@@ -243,7 +243,7 @@ barsocate - parapluie
 barsokote - imperméable  
 barsomosim - mousson  
 barte - indien  
-Barti Hai - océan Indien  
+Barte Hai - océan Indien  
 Bartia - Inde  
 barude - poudre à canon  
 bas - assez  
@@ -315,7 +315,7 @@ borium - bohrium
 boron - boron  
 botel - bouteille  
 brave - brave  
-bravo - bravo!  
+brave - bravo!  
 bromium - brome  
 brune - brun (marron)  
 brunalge - algues brunes  
@@ -323,7 +323,7 @@ brunsalmon - truite brune (truite de mer)
 bu! - bouh!  
 bubu - croque-mitaine  
 buce - abattre  
-• bucokan - abattoir  
+• bucekan - abattoir  
 • bucer - boucher  
 Buda - Bouddha  
 bugete - budget  
@@ -367,9 +367,9 @@ cete - sept (7)
 • cetime - septième  
 cili - piment  
 cinbrusben - cousin  
-cinmai - grand-mère  
-cinpai - grand-père  
-cini manter - mandarin  
+cinma - grand-mère  
+cinpa - grand-père  
+cina manter - mandarin  
 cire - déchirer  
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
@@ -594,8 +594,8 @@ galte - faute (erreur; erroné)
 • degalte - déboguer (débugger)  
 • gamia - mariage  
 • gamike - époux  
-gamoma - belle-mère  
-gamopa - beau-père  
+gamma - belle-mère  
+gampa - beau-père  
 gancau - foin  
 gantexe - serviette  
 gana - canne  
@@ -621,7 +621,7 @@ geokaski plate - plaque tectonique
 geolojia - géologie  
 geometria - géométrie  
 geopolitike - géopolitique  
-geosube jelokan - oubliette (cul de basse-fosse)  
+geosube jelekan - oubliette (cul de basse-fosse)  
 geoterme - géothermique  
 gele - gelée  
 • gelatine - gélatine  
@@ -671,7 +671,7 @@ grave - gravire
 grupe - groupe  
 guimuke - grimace  
 guipapil - pavot d'Orient  
-gulogui - goule  
+gulgui - goule  
 gute - genou  
 
 ## H  
@@ -787,12 +787,12 @@ janglia - nature sauvage
 jangle van - jungle  
 jau - orge  
 javabe - réponse  
-jebocaku - canif  
+jebecaku - canif  
 jebre - algèbre  
 jeke - prêter (empruntre)  
 jekocepe - empruntre  
 jekodone - prêter  
-• jelokan - prison (geôle)  
+• jelekan - prison (geôle)  
 jen - personne  
 • dusojen - ennemi  
 jenje - gingembre  
@@ -812,7 +812,7 @@ jive - vivant
 jongle - jongler  
 • jongler - jongleur  
 juba - robe  
-• judokan - tribunal (cour de justice)  
+• judekan - tribunal (cour de justice)  
 • juder - juje  
 • exjude - extrajudiciaire  
 jul - joule (J)  
@@ -854,8 +854,8 @@ kanape - canapé (sofa)
 kangaru - kangourou  
 kanyon - canyon (ravin)  
 kankuate - kumquat  
-kano - canoë  
-Kantalupo va Sabine - Cantalupo in Sabina  
+Kantalupo i Sabina - Cantalupo in Sabina  
+kanu - canoë  
 kapotruke - piège  
 kare - travailler  
 • karaje - travail  
@@ -909,8 +909,8 @@ kite - aller (quitter)
 kite - parti  
 kitabe - écrire (écriture)  
 • kitabia - littérature  
-kitabokan - bibliothèque  
-kitabomaxin - machine à écrire  
+kitabekan - bibliothèque  
+kitabemaxin - machine à écrire  
 kivi - kiwi  
 kize - fromage  
 kizoproten - caséine  
@@ -989,6 +989,7 @@ lalorange - mandarine
 lalsalmon - saumon sockeye  
 lalobavite - rubis  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
+• lamaisme - lamaïsme  
 lampe - lampe  
 lantanium - lanthane  
 lasun - ail  
@@ -1006,12 +1007,12 @@ lege - léger
 lengomosim - hiver  
 lengomosime - hivernal (hibernal)  
 lense - lentille  
-letis - laitue  
+letus - laitue  
 lexe - mot  
 • lexia - vocabulaire (lexique)  
 • lexike - lexical  
 lexojinse - genre grammatical  
-liame - lama  
+liama - lama  
 liboban - étagère  
 libele - libellule  
 • lider - dirigeant (leader)  
@@ -1133,7 +1134,7 @@ midi - medio
 migre - migration (s'installer, déménager)  
 • inmigre - immigrer  
 • inmigrer - immigrant  
-mikrobia - microbe  
+mikrobie - microbe  
 mikrobiolojia - microbiologie  
 mikroskope - microscope  
 milke - lait  
@@ -1161,7 +1162,7 @@ mokoban - planche
 mokotan - bûche  
 mokozongoparke - arboretum, pépinière  
 mole - moudre  
-• molokan - moulin  
+• molekan - moulin  
 molite - meule  
 mole - mole (unité)  
 molidenium - molybdène  
@@ -1221,7 +1222,7 @@ nete - nexus (réseau)
 • konnete - connecter  
 • konnetion - connexion  
 • konnetor - connecteur  
-netogete - télécharger  
+netekape - télécharger  
 neu - nouveau  
 • nevia - nouveauté  
 • nevike - néophyte  
@@ -1327,7 +1328,7 @@ panir - fromage blanc
 panke - aile  
 pante - pantalon  
 papagai - perroquet  
-papai - papaye  
+papaya - papaye  
 par - niveau  
 pare - pair (pareil, egal)  
 pari numbe - nombre pair  
@@ -1425,7 +1426,7 @@ poso - ensuite (après, plus tard, ir a, en el futuro)
 postre - postérieur  
 posden - demain  
 pospor - phosphore  
-postomarke - cachet de la poste  
+postemarke - cachet de la poste  
 pote - pot (vase, jarre, carafe, cruche)  
 poter - potier  
 poteria - poterie  
@@ -1447,8 +1448,8 @@ proxe - proche
 • aproxe - approcher  
 pude - pourri  
 pudu - pourrir (se décomposer)  
-• pujokan - temple  
-pujomeza - autel  
+• pujekan - temple  
+pujemeza - autel  
 pul - pont  
 pulse - pousser  
 • pulsation - pouls  
@@ -1557,8 +1558,8 @@ sam: - égal (même)
 samemote - compassion  
 sammetre - symétrique  
 sammetria - symétrie  
-saomrayia - accord  
-samosifia - simulation  
+samrayia - accord  
+samsifia - simulation  
 samarium - samarium  
 sanduice - sandwich  
 sante kanon - saintes écritures   
@@ -1587,7 +1588,7 @@ sene - âge
 senater - sénateur  
 sense - sens  
 sente - cent (100)  
-• pro sente - pour cent  
+• prosente - pour cent  
 sere - série  
 • seria - série  
 • sereme - maillon (chaînon)  
@@ -1644,7 +1645,7 @@ sosis - saucisse
 • speter - spectateur  
 sponje - éponge  
 sporte - sport  
-• sportokan - salle de gymnastique  
+• sportekan - salle de gymnastique  
 stanium - étain  
 stibium - antimoine  
 strontium - strontium  
@@ -1809,7 +1810,7 @@ vele - voile
 • revene - revenir  
 vende - vendre  
 vendoxope - commercer  
-Venezuele - Venezuela  
+Venezuela - Venezuela  
 ventur - aventure  
 venturer - aventurier  
 Venus - Vénus  
@@ -1862,19 +1863,19 @@ xampan - Champagne
 xampan vin - champagne  
 • xankable - douteux (dubitatif)  
 xante - calme (tranquille)  
+xara - scie  
+xarafun - sciure  
+xarakan - scierie  
 xarke - requin  
 xarnir - charnière  
 xate - s'opposer à  
 xatan - adversaire (antagoniste, ennemi)  
 xatan (ruhoxatan) - Satan  
 xau - peu  
+xe - chose  
+xehal - situation (état de choses)  
 xefe - chef  
-xei - chose  
-xeihal - situation (état de choses)  
 xenon - xénon  
-xere - scie  
-xerofun - sciure  
-xerokan - scierie  
 xibai - échec  
 xibayer - perdant  
 • dexibai - perder  
@@ -1894,7 +1895,7 @@ xule - apprendre (étudier)
 • xulaje - leçon  
 • xulize - enseigner  
 • xulizer - professeur (enseignant)  
-• xulokan - école (collège)  
+• xulekan - école (collège)  
 • xuler - étudiant  
 xulokamar - salle de classe  
 xuloxefe - directeur (principal)  
@@ -1909,7 +1910,7 @@ yahve - Yahweh (Jéhovah)
 • exyam - piquenique  
 yamfite - légume  
 yamyau - faim  
-• yatimokan - orphelinat  
+• yatimkan - orphelinat  
 yau - besoin (avoir besoin de)  
 • yavive - nécessiteux (dans le besoin)  
 • beyau - nécessaire  

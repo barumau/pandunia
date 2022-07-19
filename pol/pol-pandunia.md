@@ -126,7 +126,7 @@ aż do - hate
 
 ## B  
 
-babcia (babka) - cinmai  
+babcia (babka) - cinma  
 badać, studiować - loje  
 bagaż - bagaje  
 bagietka - batonpang  
@@ -144,7 +144,7 @@ bandaż (taśma; związać, wiązać; zapiąć, zapinać) - bende
 bandaż, taśma, wstążka - faxe  
 Bangladesz - Banglodex  
 banglijski - bangle  
-bank - bankokan  
+bank - bankekan  
 bankier - banker  
 baobab - buyu  
 bar - bar  
@@ -186,8 +186,8 @@ Bhutan - Drugia
 Białoruś - Belarus  
 biały - bake  
 Biblia - biblia  
-biblioteka - kitabokan  
-bibliotekarz - kitabominister  
+biblioteka - kitabekan  
+bibliotekarz - kitabemanter  
 biec (biegać, pędzić) - kore  
 biedny, mizerny - miskin  
 bieżący (aktualny, obecny) - zay zaman su  
@@ -229,7 +229,7 @@ Botswana - Cuana
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosnia e Hercegovina  
 Boże Narodzenie - kristojen  
-brawo (gratulacje) - bravo  
+brawo (gratulacje) - brave  
 Brazyla - Brazil  
 broda - barde  
 brodawka - veruke  
@@ -283,7 +283,7 @@ błąd (pomyłka; popełnić błąd; błędny, niepoprawny) - galte
 
 ## C  
 
-Cantalupo in Sabina - Kantalupo va Sabine  
+Cantalupo in Sabina - Kantalupo i Sabina  
 całość (integralność) - holia  
 całus - cum  
 cały - hole  
@@ -337,7 +337,7 @@ ciało - bade
 cichy - tixe  
 ciecierzyca - humus  
 ciecz (płyn) - riumate  
-ciekawy - sabovolive  
+ciekawy - sabevolive  
 ciemny, słabo oświetlony - dam  
 ciepły - garme  
 cieszyć, podobać się - sukife  
@@ -519,7 +519,7 @@ dystans - tel
 dystans - telia  
 dywan - taltexe  
 dzban (dzbanek; słój, słoik; wazon) - pote  
-dziadek (dziad) - cinpai  
+dziadek (dziad) - cinpa  
 działka (teren) - geotike  
 działo - daipau  
 dziecko (nieletni) - bace  
@@ -614,8 +614,8 @@ ewangelia - evangil
 
 ## F  
 
+fabryka, manufaktura - fetekan  
 fabryka, manufaktura - feteria  
-fabryka, manufaktura - fetokan  
 fajka - pipe  
 fala - onde  
 Falklandy, Malwiny - Malvinas nesia  
@@ -699,7 +699,7 @@ geologia - geolojia
 german - germanium  
 gest - geste  
 Ghana - Gana  
-ghul - gulogui  
+ghul - gulgui  
 Gibraltar - Gibraltar  
 gitara - gitar  
 gleba bielicoziemna - huidarte  
@@ -758,7 +758,7 @@ grzybnia - fungonete
 grób (mogiła; zakopać, pochować) - gabre  
 Guam - Guam  
 Gudżarat - gujarate  
-Guernsey - Gerneze  
+Guernsey - Gernezi  
 Guinea Bissau - Bisau Ginia  
 Gujana - Guyana  
 Gujana Francuska - Franse Guyana  
@@ -797,7 +797,7 @@ Haiti - Haiti
 hak - huke  
 halo, cześć - halo  
 hamak - hamake  
-han chiński - cine  
+han chiński - cina  
 handel (handlować) - vendoxope  
 handlarz (kupiec) - vendoxoper  
 harmonia - harmonia  
@@ -843,7 +843,7 @@ Holandia (Królestwo Niderlandów) - Nederlandia
 holizm - holisme  
 holm - holmium  
 hologram - holografe  
-homonim - samoname  
+homonim - samname  
 homoromantyczny - homoromanse  
 homoseksualny - homosexe  
 Honduras - Honduras  
@@ -954,7 +954,7 @@ jasny, czysty - ming
 jastrun właściwy - bakomargarite  
 jaszczurka - saure  
 jazz, dżez - jaze  
-jaśmin - malike  
+jaśmin - malika  
 jaźń (tożsamość) - aute  
 jebać, kopulować - code  
 jeden (1) - un  
@@ -1018,14 +1018,14 @@ Kamerun - Kamerun
 kamieniarz - itojanger  
 kamień (kawał skały) - ite  
 kamyk - lilite  
-Kanada - Kanade  
+Kanada - Kanada  
 kanapka - sanduice  
 kanał - kanal  
 kandela - kandel  
 kangur - kangaru  
 kanion - kanyon  
 kannada - karnade  
-kanoe - kano  
+kanoe - kanu  
 kanonier - daipaver  
 kantalupa - kantalupomelon  
 Kanton - Guangzou  
@@ -1115,8 +1115,8 @@ koka - koka
 kokos - yeze  
 koktajl - alkolomixe  
 kola (coca-cola) - koka kola  
+kola, napój gazowany - kola  
 kola, napój gazowany - kola jus  
-kola, napój gazowany - kole  
 kolacja - xamyam  
 kolano - gute  
 kolczuga - seronete  
@@ -1152,7 +1152,7 @@ koncert - konserte
 konfucjanizm - kongfuzisme  
 Konfucjusz - Kongfuze  
 koniec (skończyć, kończyć) - fin  
-konkani - Konkane  
+konkani - Konkani  
 konkurować (rywalizować; odbyć mecz; mecz, rywalizacja) - mace  
 konopie - ganze  
 konsekwencja, skutek - pos  
@@ -1175,7 +1175,7 @@ korniszon - suanpursipi hiyar
 korona - koron  
 koronawirus - koronvirus  
 korzeń - mul  
-korzystny (dobry) - eve  
+korzystny (dobry) - eu  
 kosmiczny - kosme  
 kosmonauta - kosmonaver  
 kosmos, wszechświat - kosmia  
@@ -1278,10 +1278,10 @@ kłuć (żądlić) - pine
 
 ## L  
 
-lakier - lake  
+lakier - laka  
 lalka, kukiełka, pacynka, marionetka - pupe  
 lama - lama  
-lama - liame  
+lama - liama  
 lampa - lampe  
 lantan - lantanium  
 Laos - Lau  
@@ -1340,7 +1340,7 @@ litewski - lietuva baxe
 litr - litre  
 Litwa - Lietuva  
 liwermor - livermorium  
-loch - geosube jelokan  
+loch - geosube jelekan  
 lody - aiskrem  
 logiczny - ratolojike  
 logika, dedukcja - ratolojia  
@@ -1400,12 +1400,12 @@ malarz - penter
 Malawi - Malavi  
 Malediwy (Republika Malediwów) - Divehia  
 Malezja - Malaisia  
-Mali - Male  
-Malta - Malte  
+Mali - Mali  
+Malta - Malta  
 mama - ma  
 mandarynka - lalorange  
 mandarynka Satsuma (pomarańcza Satsuma) - venzovorange  
-mandaryński chiński, Putonghua - Putong Cini  
+mandaryński chiński, Putonghua - Putong Cina  
 mangan - mangan  
 mango - mango  
 mangostan - mangus  
@@ -1430,7 +1430,7 @@ masaż - masaje
 maska, kamuflaż - maske  
 maszt - maste  
 maszyna - maxin  
-maszyna do pisania - kitabomaxin  
+maszyna do pisania - kitabemaxin  
 masło - makan  
 masłosz Parka - karite  
 matematyk - hisabolojer  
@@ -1479,7 +1479,7 @@ miedź - kupre
 miejsce (lokacja; umieścić) - loke  
 miejscowy, lokalny - lokike  
 miejski - nagre  
-mielić - molokan  
+mielić - molekan  
 miesiąc - lun  
 mieszkać (mieszkanie, dom) - dom  
 mieć (partykuła posiadania) - su  
@@ -1491,7 +1491,7 @@ migracja - migre
 mikro- - mikro-  
 mikrobiologia - mikrobiolojia  
 Mikronezja - Mikronesia  
-mikroorganizm  (mikrob) - mikrobia  
+mikroorganizm  (mikrob) - mikrobie  
 mikroskop - mikroskope  
 mikser, blender, robot kuchenny - mixer  
 miksować, mieszać - mixe  
@@ -1538,7 +1538,7 @@ mniej - min
 mniejszościowy - minure  
 mniejszość - minuria  
 moda (trend; modny, popularny) - fason  
-model (podobieństwo, symulować) - samosifia  
+model (podobieństwo, symulować) - samsifia  
 model, wzór, wzorzec, projekt - model  
 modelować (projektować, zaprojektować) - modele  
 modlitwa (pomodlić się, modlić się) - dua  
@@ -1562,7 +1562,7 @@ morf - morfe
 morfem - morfeme  
 morski - hayike  
 morskoniebieski - haiblu  
-Morze Śródziemne - Geomede Hai  
+Morze Śródziemne - Geomide Hai  
 moskovium - moskovium  
 Moskwa - Moskove  
 most - pul  
@@ -1570,7 +1570,7 @@ motocykl (motor) - motosikle
 motyka - cope  
 motyl - pelpel  
 Mozambik - Mozambike  
-Mołdawia - Moldove  
+Mołdawia - Moldova  
 może - hai  
 mruganie (błysk) - xingofote  
 mrówka - murce  
@@ -1776,10 +1776,10 @@ obyczaj (zwyczaj, tradycja, praktyka, konwencja; konwencjonalny, zwyczajowy, tra
 obywatel - gogian  
 obóz - kamper  
 ocean - daihai  
-Ocean Antarktyczny (Ocean Południowy) - Antartiki Hai  
-Ocean Arktyczny - Artiki Hai  
+Ocean Antarktyczny (Ocean Południowy) - Antartike Hai  
+Ocean Arktyczny - Artike Hai  
 Ocean Atlantycki - Atlante Hai  
-Ocean Indyjski - Barti Hai  
+Ocean Indyjski - Barte Hai  
 Ocean Spokojny (Pacyfik) - Pace Hai  
 Oceania - Oceania  
 ocelot - oselote  
@@ -1797,7 +1797,7 @@ odmówić (odrzucić) - nege
 odnowić, odnawiać, uczynić nowym - reneve  
 odpowiedź (odzew; odpowiedzieć, odpowiadać) - javabe  
 odsłonić, odsłaniać - andake  
-Odwarzny ( - brave  
+odwarzny - brave  
 odwiedzić, odwiedzać - kege  
 oficer policji, policjant - poliser  
 oficjalny - ofise  
@@ -1865,7 +1865,7 @@ owad - koncung
 owca - meh  
 owoc - pal  
 owoc kiwi - kivi  
-ołtarz - pujomeza  
+ołtarz - pujemeza  
 ołów - plumbe  
 oś - axe  
 ośmiornica - batosenter  
@@ -1905,7 +1905,7 @@ panseksualny - pansexe
 panteizm - pandevisme  
 panteizm - pandevisme  
 panteon - pandevia  
-papaja - papai  
+papaja - papaya  
 papeda - karsolimon  
 papier - kaguje  
 papieros (cygar) - sigare  
@@ -1964,7 +1964,7 @@ piec (piekarnik) - tanur
 piec - beke  
 piec - roste  
 pieczęć woskowa - mumcape  
-piekarnia - bekokan  
+piekarnia - bekekan  
 piekarz - beker  
 piekło - narake  
 pielęgnować, leczyć - kure  
@@ -2007,7 +2007,7 @@ pięciościan (pryzmat) - pentofase
 piękno - meyia  
 piękny, przystojny - mei  
 pięć (5) - pente  
-piła - xere  
+piła - xara  
 piłka - bol  
 piłka do koszykówki (koszykówka) - baske bol  
 piłka nożna - futobol  
@@ -2036,7 +2036,7 @@ pocisk - jetaje
 pociąg - tren  
 poczta - postaje  
 poczta elektroniczna - eletroposte (e-poste)  
-poczta, budynek poczty - postokan  
+poczta, budynek poczty - postekan  
 pod (poniżej) - a sube  
 podarunek, dar, prezent - donaje  
 podatek, opłata - taxe  
@@ -2105,7 +2105,7 @@ porcja, dawka - doze
 porno, film erotyczny - porne  
 pornografia - pornografia  
 porost - algafung  
-porozumienie - saomrayia  
+porozumienie - samrayia  
 porozumienie - trete  
 port - porta  
 port morski (przystań) - haiporta  
@@ -2128,7 +2128,7 @@ pot - suede
 potas - kalium  
 potrzeba (potrzebować) - yau  
 potrzebny - beyau  
-potwierdzić, potwierdzać, zgodzić się, zgadzać się - samorai  
+potwierdzić, potwierdzać, zgodzić się, zgadzać się - samrai  
 potwór, monstrum - monster  
 powiadomić, powiadamiać - notife  
 powierzchnia - fase  
@@ -2187,7 +2187,7 @@ prać, umyć, myć - vaxe
 precyzyjny (dokładny) - juste  
 preferować (woleć) - profile  
 prekursor - prekurser  
-premier - xefe minister  
+premier - xefe manter  
 prezydent - presidente  
 problem - problem  
 problematyczny - problemike  
@@ -2280,7 +2280,7 @@ przystanek autobusowy - bus halte
 przystojny, atrakcyjny, ładny - suvide  
 przyszłość - posozam  
 przysłówek - modelexe  
-prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tiroriu  
+prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tireriu  
 prędkościomierz - sugometrer  
 prędkość (szybkość) - sugude  
 pręt, kij - baton  
@@ -2443,7 +2443,7 @@ rym (wers) - rim
 rynek, bazar - bazar  
 rysunek, obraz - desen  
 rytm, bit - ritim  
-rytuał, ceremonia, ryt - pujorite  
+rytuał, ceremonia, ryt - pujerite  
 ryzyko - riske  
 ryś - lince  
 ryś rudy - lalolince  
@@ -2452,7 +2452,7 @@ rzadki (nieczęsty) - rare
 rzadki (rozproszyć, rozpraszać;  rozrzedzony, rozproszony) - dise  
 rzadko - nadir  
 rzadkość - raria  
-rzecz - xei  
+rzecz - xe  
 rzeczownik - namelexe  
 rzeczywistość (realność) - relia  
 rzeka - riu  
@@ -2513,7 +2513,7 @@ satanizm - xatanisme
 Saturn - Saturne  
 sauna - sauna  
 sawanna - garmozone caustan  
-sałata - letis  
+sałata - letus  
 sałatka - salade  
 schody (drabina) - skale  
 seaborg - siborgium  
@@ -2544,7 +2544,7 @@ siedem (7) - cete
 siedzenie (siodło) - sidel  
 siedzieć - side  
 siekera (topór) - futau  
-sierociniec, dom dziecka - yatimokan  
+sierociniec, dom dziecka - yatimkan  
 sierota - yatim  
 sierpień - lun pente  
 Sierra Leone - Sera Leone  
@@ -2667,7 +2667,7 @@ strona (bok) - late
 strona - varkolate  
 stront - strontium  
 strzała (bełt) - flece  
-strzelać (strzelić) - pave  
+strzelać (strzelić) - pau  
 strzykwa - haihiyar  
 strzępić (drzeć) - circire  
 student - studer  
@@ -2694,7 +2694,7 @@ Syria - Suria
 syrop - xirope  
 system - sistem  
 systemowy - sisteme  
-sytuacja (stan) - xeihal  
+sytuacja (stan) - xehal  
 szabat, szabas - sabate  
 szachy - xatrange  
 szafran - safran  
@@ -2728,7 +2728,7 @@ szkielet - ostogamia
 szklanka - glasokupe  
 szklić (glazurować; glazura, emalia) - glasize  
 Szkocja - Skotia  
-szkoła (instytucja) - xulokan  
+szkoła (instytucja) - xulekan  
 szkoła podstawowa - bazoxulkan  
 szkło - glas  
 szkło wulkaniczne - hogoxan glas  
@@ -2760,7 +2760,7 @@ szyć - sute
 São Paulo - Sante Paulo  
 sód - natrium  
 sól - salte  
-sąd (trybunał) - judokan  
+sąd (trybunał) - judekan  
 sądzić (osądzić; wyrok) - jude  
 sędzia - juder  
 słaby - anbale  
@@ -2787,7 +2787,7 @@ tablica (deska) - ban
 tablica wyników - puntoban  
 tablioca, macierz - datotable  
 Tadżykistan - Tajikostan  
-tajga - taige  
+tajga - taiga  
 Tajlandia - Tai dexia  
 Tajpej - Taibei  
 tajski - Tai  
@@ -2808,7 +2808,7 @@ taoista - daviste
 taoizm - davisme  
 tapeta - murkaguze  
 tarcza - defoban  
-tartak - xerokan  
+tartak - xarakan  
 tatuaż - tatu  
 taxi, taksówka - taxi gar  
 taśma - tepe  
@@ -2981,7 +2981,7 @@ usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać si
 usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się) - dezay  
 usłyszeć, słyszeć; słuchać - aude  
 uwaga (obserwacja; notować, obserwować, zauważyć, zauważać) - note  
-uważać (sądzić) - raye  
+uważać (sądzić) - rai  
 uwięzić, więzić, pozbawić wolności - jele  
 uwolnić, uwalniać - hurife  
 Uzbekistan - Uzbekia  
@@ -3011,7 +3011,7 @@ wapń - kalsium
 warcaby - dama gem  
 warga - labe  
 warstwa (poziom, piętro, kondygnacja) - ceng  
-warsztat szewski - sapatokan  
+warsztat szewski - sapatekan  
 wartość - vale  
 warzywo - yamfite  
 Waszyngton D.C - Vaxington DC  
@@ -3028,7 +3028,7 @@ weganin (weganka) - purfitoyamiste
 wegetarianin - fitoyamiste  
 wejście - intromun  
 welon (woalka) - hijabe  
-Wenezuela - Venezuele  
+Wenezuela - Venezuela  
 Wenus - Venus  
 Wenzhou - Venzou  
 weranda, balkon, taras, ganek - beranda  
@@ -3066,7 +3066,7 @@ wielbłąd, wielbłądzica - gamel
 wiele (wielo-, poli-, multi-) - poli  
 wiele - multe  
 Wielkanoc - paske  
-wielki piec - gavi tanur  
+wielki piec - gau tanur  
 wielojęzyczny - polibaxike  
 wielokulturowość - polikulturisme  
 wielokulturowy - polikulture  
@@ -3104,7 +3104,7 @@ Wisznu - Vixnu
 witaj, dobre przybycie - sal lai  
 witamina - vitamin  
 witraż - rangoglas  
-witryna internetowa (portal internetowy) - netoloke  
+witryna internetowa (portal internetowy) - neteloke  
 wiwatować (hura, jej) - hura  
 wiwisekcja - jivotome  
 wiza - vize  
@@ -3112,7 +3112,7 @@ wizyta - kege
 wizytant (gość) - keger  
 większościowy, wiodący, główny - maxure  
 większość - maxuria  
-więzienie, zakład karny - jelokan  
+więzienie, zakład karny - jelekan  
 wiśnia (czereśnia) - cerize  
 wkrótce - a korte  
 wnieć wkład (przyczynić się) - fendone  
@@ -3199,7 +3199,7 @@ Wyspy Salomona - Solomon nesia
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verdi  
 Wyspy Świętego Tomasza i Książęca - Sante Tome e Principe  
 wystarczający - bas  
-wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - netodone  
+wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - ö  
 wysłać (wyemitować) - mise  
 wytwórca łuków i strzał - flecer  
 wyć - ulule  
@@ -3250,7 +3250,7 @@ zagranica - exgogia
 zagraniczny - exgogian  
 zagrożenie (niebezpieczeństwo; niebezpieczny) - hatre  
 zaimek - pronam  
-zainteresowanie, zaciekawienie; interesujący - sabovol  
+zainteresowanie, zaciekawienie; interesujący - sabevol  
 zajęty - haste  
 zaklecie - magasar  
 Zambia - Zambia  
@@ -3271,7 +3271,7 @@ zapożyczenie (wyraz obcy) - jekolexe
 zaprosić, zapraszać - cing lai  
 zaprzęc, zaprzęgać - harnes  
 zapytać, pytać - ke sate  
-zapłacić, opłacić, płacić - peye  
+zapłacić, opłacić, płacić - pei  
 zapłata, opłata - pei  
 zaratrustianin - zarduxiste  
 Zaratusztra - Zardux  
@@ -3333,7 +3333,7 @@ zmienić, zmieniać - mute
 zmniejszyć o jeden - minodarge  
 zmysł - sense  
 zmęczenie (wyczerpanie; męczyć się, nużyć się) - fatige  
-znaczek pocztowy - postocape  
+znaczek pocztowy - postecape  
 znaczyć (liczyć się, być ważnym) - si ham  
 znaczyć - seme  
 znak (trop; zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad) - marke  
@@ -3374,8 +3374,6 @@ zły los - dusi zar
 zły los - dusozar  
 zły, zrujnowany, zepsuty - harabe  
 ćsi - tix  
-ćwiczenie - lense  
-ćwiczyć - lense  
 Łotwa - Latvia  
 łapać rybę - kapa pes  
 łapać rybę - yege pexe  
@@ -3400,7 +3398,7 @@ zły, zrujnowany, zepsuty - harabe
 łąka - caustan  
 Śiwa - Xiva  
 ścisnąć (sciskać, wycisnąć) - konprese  
-ściągać (ściągnąć, pobrać, pobierać) - netogete  
+ściągać (ściągnąć, pobrać, pobierać) - netekape  
 śliwka - plum  
 ślizgać się (poślizgnąć się, jeździć na łyżwach) - glise  
 śmiać się - hahe  
@@ -3421,7 +3419,7 @@ zły, zrujnowany, zepsuty - harabe
 świetny - kul  
 świeży - taze  
 świnia - goro  
-świątynia - pujokan  
+świątynia - pujekan  
 święto - festoden  
 święty - sante  
 źle zrozumieć - mesbude  

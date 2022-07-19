@@ -45,7 +45,7 @@ a korte - soon (after a while)
 a le - there  
 a line - online  
 a long - long (over a gread distance)  
-a longe dure - for a long time  
+a long dure - for a long time  
 a max - also (too, in addition)  
 a mide - among (amid, between)  
 a misal - for example  
@@ -173,7 +173,7 @@ anis - anise
 anis arake - raki  
 ante - cause (make sb. do sth.)  
 Antartike - Antarctica  
-Antartiki Hai - Antarctic Ocean  
+Antartike Hai - Antarctic Ocean  
 anten - antenna (aerial)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua and Barbuda  
@@ -213,7 +213,7 @@ arte - art
 • artiste - artist  
 artobaxe - artistic language (artlang)  
 Artike - Arctic  
-Artiki Hai - Arctic Ocean  
+Artike Hai - Arctic Ocean  
 Aruba - Aruba  
 ase - Asian  
 Asia - Asia  
@@ -305,7 +305,7 @@ bakosalmon - chum salmon
 bakalau - cod  
 bale - strong  
 • balia - force (strength, power)  
-• balokan - gym (fitness center)  
+• balekan - gym (fitness center)  
 • anbale - weak (feeble)  
 baloton - accent (stress)  
 balde - bucket  
@@ -324,7 +324,7 @@ bangle - Bengali (Bangla)
 Banglodex - Bangladesh  
 banyakamar - bathroom  
 banke - bank (deposit, save)  
-• bankokan - bank (depository, cache)  
+• bankekan - bank (depository, cache)  
 • banker - banker  
 bankorute - bankrupt (insolvent)  
 bankorutia - bankruptcy (insolvency)  
@@ -344,7 +344,7 @@ barsocate - umbrella
 barsokote - raincoat  
 barsomosim - rainy season (monsoon)  
 barte - Indian  
-Barti Hai - Indian Ocean  
+Barte Hai - Indian Ocean  
 Bartia - India  
 barude - gunpowder  
 bas - enough (sufficient)  
@@ -390,7 +390,7 @@ bege - escape (flee, run away)
 Beijing - Beijing (Peking)  
 beke - bake  
 bekofan - terracotta  
-bekokan - bakery (bakehouse)  
+bekekan - bakery (bakehouse)  
 beker - baker  
 bel - bel (unit)  
 bele - fight (war)  
@@ -477,7 +477,7 @@ Bosnia e Hercegovina - Bosnia and Herzegovina
 Botia - Tibet  
 botel - bottle  
 brave - brave (gallant, valiant)  
-bravo - bravo!  
+brave - bravo!  
 brauze - explore (browse)  
 brauzer - explorer (browser)  
 Brazavil - Brazzaville  
@@ -496,7 +496,7 @@ brusben - nephew or niece
 bu! - boo!  
 bubu - bogeyman  
 buce - butcher (slaughter)  
-• bucokan - abattoir (slaughterhouse)  
+• bucekan - abattoir (slaughterhouse)  
 • bucer - butcher  
 bude - realize (realization, awareness, enlightenment, bodhi; aware, enlightened)  
 • budisme - Buddhism  
@@ -595,17 +595,17 @@ cili - pepper (capsicum)
 cili fun - paprika  
 cimpanze - chimpanzee  
 cin - parent (mother or father)  
-cine - Han Chinese  
 cinbrusben - cousin  
 cincin - grandparent  
 cingam - step-parent  
 cingamben - step-sibling  
-cinmai - grandmother  
-cinpai - grandfather  
-cinocoseni - Sino-Korean  
-cini manter - mandarin  
-cinoniponi - Sino-Japanese  
-cinovieti - Sino-Vietnamese  
+cinma - grandmother  
+cinpa - grandfather  
+cina - Han Chinese  
+cina manter - mandarin  
+cinacosen - Sino-Korean  
+cinanipon - Sino-Japanese  
+cinaviete - Sino-Vietnamese  
 cincile - chinchilla  
 cing - ask (request, beg, plead; please)  
 cing lai - invite  
@@ -616,7 +616,7 @@ cirtexe - rag (tattered cloth)
 cite - quote (cite)  
 citomarke - quotation mark  
 code - fuck (copulate)  
-• codokan - whorehouse  
+• codekan - whorehouse  
 coi - greens  
 coklate - chocolate  
 coklatobaton - chocolate bar  
@@ -731,7 +731,7 @@ den cete - Sunday
 denge - wait  
 des - ten (10)  
 deskilo - ten thousand  
-desosixike - hexadecimal  
+dessixike - hexadecimal  
 desen - drawing (design)  
 desi- - deci-  
 desibel - decibel  
@@ -936,7 +936,7 @@ espanofone - hispanophone (Spanish speaking)
 esperante - Esperanto  
 Estia - Estonia  
 Etiopia - Ethiopia  
-eve - beneficial (good)  
+eu - beneficial (good)  
 eurasia - Eurasia  
 eureke - find (discover)  
 euro - euro (€)  
@@ -1018,7 +1018,7 @@ fermium - fermium
 feste - party (celebration, festival; celebrate)  
 festoden - holiday  
 fete - do (make; deed, fact)  
-• fetokan - factory  
+• fetekan - factory  
 • feter - maker (factor, agent)  
 • feteria - factory (plant)  
 • feture - feature (product of work)  
@@ -1202,8 +1202,8 @@ game - marry
 • unogamia - monogamy  
 gamben - step-child  
 gamcin - parent-in-law  
-gamoma - mother-in-law  
-gamopa - father-in-law  
+gamma - mother-in-law  
+gampa - father-in-law  
 Gambia - Gambia  
 gamel - camel  
 gane - dry  
@@ -1238,9 +1238,9 @@ gas - gas (gaseous; gasify)
 gate - hard (tough)  
 gatomate - solid  
 gau - top  
+gau tanur - blast furnace  
 gave - raise (lift)  
 gave - high (tall)  
-gavi tanur - blast furnace  
 gavia - height (altitude)  
 gavu - rise (go up)  
 gaudarge - advanced (high-level)  
@@ -1261,15 +1261,15 @@ geografia - geography
 geokaski krake - fault line  
 geokaski plate - tectonic plate  
 geolojia - geology  
-Geomede Hai - Mediterranean  
 geometria - geometry  
+Geomide Hai - Mediterranean  
 georde - ground force (army)  
 geoparline - equator  
 Geoparline Ginia - Equatorial Guinea  
 geopolitike - geopolitics  
 geosisme - earthquake  
 geosube - underground (subterrainean)  
-geosube jelokan - dungeon (underground prison)  
+geosube jelekan - dungeon (underground prison)  
 geoterme - geothermal  
 geotike - lot (plot of land)  
 gei - gay (homosexual)  
@@ -1311,7 +1311,7 @@ gere - war
 • pregere - pre-war  
 Germania - Germania  
 germanium - germanium  
-Gerneze - Guernsey  
+Gernezi - Guernsey  
 geste - gesture  
 gestobaxe - sign language  
 Gibraltar - Gibraltar  
@@ -1391,7 +1391,7 @@ Guyana - Guyana
 gujarate - Gujarati  
 guke - florist's chrysanthemum  
 gul - swallow  
-gulogui - ghoul  
+gulgui - ghoul  
 gum - drum  
 gumle - sentence (phrase)  
 guru - guru (teacher)  
@@ -1614,6 +1614,7 @@ intelige - intelligence (intellect)
 • inteligente - intelligent (smart)  
 • inteligentia - intelligentsia  
 inxala - hope (wish)  
+Io - Io  
 IP adres - IP address  
 Irakia - Iraq  
 Iran - Iran  
@@ -1670,14 +1671,14 @@ jau - barley
 javabe - answer (respond, reply; response)  
 jaze - jazz  
 jebe - pocket  
-jebocaku - pocketknife  
+jebecaku - pocketknife  
 jebre - algebra  
 jeke - borrow (lend)  
 jekocepe - borrow  
 jekodone - lend  
 jekolexe - loanword  
 jele - imprison (jail)  
-• jelokan - prison  
+• jelekan - prison  
 • jeler - jailer (imprisoner)  
 jen - person (individual)  
 • dusojen - enemy (foe, villain)  
@@ -1717,7 +1718,7 @@ jongle - juggle
 • jongler - juggler  
 juba - robe (jubbah)  
 jude - judge (judgment, sentence; judicial)  
-• judokan - court of law (court of law)  
+• judekan - court of law (court of law)  
 • juder - judge (referee)  
 • exjude - extrajudicial  
 judau - judo  
@@ -1786,7 +1787,7 @@ kampostan - campground
 kamre - Welsh  
 Kamria - Wales (Cambria)  
 kan - shop (store or workshop)  
-Kanade - Canada  
+Kanada - Canada  
 kanal - channel (canal)  
 kanale - channel (conduct)  
 kanaler - conduit (channel)  
@@ -1797,10 +1798,10 @@ kang - comb
 kangaru - kangaroo  
 kanyon - canyon (ravine, gorge, gully)  
 kankuate - kumquat  
-kano - canoe  
 kante - shoulder  
-Kantalupo va Sabine - Cantalupo in Sabina  
+Kantalupo i Sabina - Cantalupo in Sabina  
 kantalupomelon - cantaloupe  
+kanu - canoe  
 kanun - law  
 kanzar - dagger  
 kape - catch (capture, seize, snatch, intercept)  
@@ -1808,7 +1809,7 @@ kapa pes - catch fish
 kapotruke - trap (snare)  
 kare - work  
 • karaje - work (job, task)  
-• karokan - workshop  
+• karekan - workshop  
 • karer - worker  
 • duskar - misdeed (sin, vice)  
 • konkare - collaborate (work together)  
@@ -1910,7 +1911,7 @@ kinu - move oneself
 • kinograf - movie (cinema)  
 • kinografe - cinematic  
 • kinografia - cinematography  
-• kinografokan - movie theatre  
+• kinografekan - movie theatre  
 Kinsasa - Kinshasa  
 Kinsasa Kongo - Congo Kinshasa  
 kioske - kiosk  
@@ -1929,9 +1930,9 @@ kitabe - write (writing)
 • kitabia - literature (body of written works)  
 • kitabeme - grapheme  
 kitaboforme - formatting  
-kitabokan - library  
-kitabomaxin - typewriter  
-kitabominister - librarian  
+kitabekan - library  
+kitabemaxin - typewriter  
+kitabemanter - librarian  
 kivi - kiwi fruit  
 kize - cheese  
 kizoproten - casein  
@@ -1972,7 +1973,7 @@ koka - coca
 koka kola - Coca-Cola  
 kokode - chicken  
 Kokos nesia - Cocos (Keeling) Islands  
-kole - cola  
+kola - cola  
 kola jus - cola  
 kola pal - kola nut  
 Kolombia - Colombia  
@@ -2006,7 +2007,7 @@ kong - hole
 konge - pierce (perforate, bore)  
 Kongfuze - Confucious  
 kongfuzisme - Confucianism  
-Konkane - Konkani  
+Konkani - Konkani  
 konserte - concert  
 konus - cone  
 kope - copy (duplicate, replica)  
@@ -2145,13 +2146,14 @@ lage - lake
 Lagos - Lagos  
 lai - come (arrive)  
 laiane - bring  
-lake - lacquer (varnish)  
+laka - lacquer (varnish)  
 lale - red  
 lalolince - bobcat  
 lalorange - mandarin orange (tangerine)  
 lalsalmon - sockeye salmon  
 lalobavite - ruby  
 lama - lama  
+• lamaisme - lamaism  
 lampe - lamp  
 LAN (loke aria nete) - LAN  
 langan - banister (handrail)  
@@ -2193,9 +2195,7 @@ lenge - cold
 lengomosim - winter  
 lengomosime - wintry  
 lense - lens  
-lense - exercise  
-lense - practice (to exercise)  
-letis - lettuce  
+letus - lettuce  
 leu - already (yet)  
 lexe - word  
 • lexia - vocabulary (lexicon)  
@@ -2204,7 +2204,7 @@ lexe - word
 lexojinse - grammatical gender  
 lexoliste - word list (lexicon)  
 leze - pear  
-liame - llama  
+liama - llama  
 libe - erect  
 libe - erect (standing)  
 Libia - Libya  
@@ -2368,9 +2368,9 @@ Malaisia - Malaysia
 malaria - malaria  
 Malavi - Malawi  
 malayu - Malay  
-Male - Mali  
-malike - jasmine  
-Malte - Malta  
+Mali - Mali  
+malika - jasmine  
+Malta - Malta  
 Malvinas nesia - Falkland Islands (Malvinas)  
 mam - breast (boob, tit)  
 • mamal - mammal  
@@ -2526,7 +2526,7 @@ migre - move (migrate, relocate)
 • inmigrer - immigrant  
 mikre - tiny (microscopic)  
 • mikro- - micro-  
-mikrobia - microorganism (microbe)  
+mikrobie - microorganism (microbe)  
 mikrobiolojia - microbiology  
 Mikronesia - Micronesia  
 mikroskope - microscope  
@@ -2594,10 +2594,10 @@ mokotan - log (trunk)
 mokozanger - carpenter  
 mokozongoparke - arboretum  
 mole - grind (grind in mill)  
-• molokan - mill  
+• molekan - mill  
 • moler - miller  
 molite - grindstone (millstone)  
-Moldove - Moldova  
+Moldova - Moldova  
 mole - mole (unit)  
 molekul - molecule  
 molidenium - molybdenum  
@@ -2685,12 +2685,12 @@ name - be called (be named)
 namane - call (name)  
 namative - nominative case  
 namkitabe - sign (autograph)  
-namelexe - noun  
 • antinam - antonym  
 • dusnam - insult (offense; offend, call names)  
 • exonam - exonym  
 • inonam - endonym  
 • pronam - pronoun  
+namelexe - noun  
 Namibe - Namibe desert  
 Namibia - Namibia  
 nane - nano-  
@@ -2770,9 +2770,9 @@ nete - nexus (web, network)
 • konnetion - connection  
 • konnetor - connector  
 • dekonnete - disconnect  
-netodone - upload  
-netogete - download  
-netoloke - website  
+ö - upload  
+netekape - download  
+neteloke - website  
 neu - new (recent)  
 • nevia - newness  
 • nevaje - novelty (new product)  
@@ -2996,7 +2996,7 @@ panjabe - Punjabi
 panke - wing  
 pante - pants (trousers)  
 papagai - parrot (parakeet)  
-papai - papaya  
+papaya - papaya  
 papir - document (paper)  
 Papua Neu Ginia - Papua New Guinea  
 par - level  
@@ -3028,11 +3028,11 @@ parte - participate (attend, partake, take part)
 • partaner - partner  
 • partaneria - partnership  
 • partative - partitive case  
-partecepe - participate  
-parteceper - participant  
 • partekul - particle  
 • parter - participant  
 • departure - departure  
+partecepe - participate  
+parteceper - participant  
 pas - pass (go across or through)  
 • pasive - passive (inactive)  
 • trapas - transit (pass through or across)  
@@ -3054,7 +3054,7 @@ patolojia - pathology
 patomise - infect (infection, infestation, contagion)  
 patate - potato  
 pau - gun (firearm)  
-pave - shoot (fire)  
+pau - shoot (fire)  
 paunde - pound (£)  
 pauze - pause (break, interrupt; interruption)  
 pede - bring up (educate, raise)  
@@ -3067,7 +3067,7 @@ pedogider - pedagogue
 pedal - pedal  
 pedalsikle - bicycle (pedal bike)  
 pei - payment  
-peye - pay  
+pei - pay  
 peikar - profession (job, occupation, trade, vocation)  
 peikare - professional (occupational, career)  
 peikari jive - career (professional life)  
@@ -3230,9 +3230,9 @@ posden - tomorrow
 pospor - phosphorus  
 poste - mail (send by mail)  
 • postaje - mail  
-• postokan - post office  
-postocape - postal stamp  
-postomarke - postmark (postage stamp)  
+• postekan - post office  
+postecape - postal stamp  
+postemarke - postmark (postage stamp)  
 pote - pot (vase, bin, jar, jug, pitcher, carafe, amphora)  
 poter - potter  
 poteria - pottery  
@@ -3282,9 +3282,9 @@ pude - rotten
 pudu - decay (rot, deteriorate)  
 puding - pudding  
 puje - worship (revere; reveration)  
-• pujokan - temple (place of worship)  
-pujomeza - altar  
-pujorite - ritual (ceremony, religious custom)  
+• pujekan - temple (place of worship)  
+pujemeza - altar  
+pujerite - ritual (ceremony, religious custom)  
 pul - bridge  
 pulmon - lung  
 pulse - push (thrust)  
@@ -3314,7 +3314,7 @@ pute - put (arrange, set into a certain relation, state or condition)
 • konputer - computer  
 putau - grape  
 putavorange - grapefruit  
-Putong Cini - Mandarin Chinese (Putonghua)  
+Putong Cina - Mandarin Chinese (Putonghua)  
 putonge - common (general)  
 
 ## R  
@@ -3332,8 +3332,8 @@ radike - root
 • inradike - radicate (irradicate, root deeply)  
 radon - radon  
 rai - opinion (view)  
-raye - deem (opine, think that)  
-• dusraye - disapprove (frown upon)  
+rai - deem (opine, think that)  
+• dusrai - disapprove (frown upon)  
 • surai - approve  
 raite - right hand side  
 raite - right hand  
@@ -3359,7 +3359,7 @@ raste - growth
 rate - make sense (reason)  
 • ration - reason (rational thinking)  
 • rationi - rational (reasonable)  
-• ratokan - village council  
+• ratekan - village council  
 • ratolojia - logic  
 • ratolojike - logical  
 ratibe - order (arrangement, sequence)  
@@ -3472,9 +3472,9 @@ rutin - routine (habit)
 sabe - know (know how, savvy)  
 • sabize - communicate (inform about)  
 • konsabe - information (communicable knowledge)  
-sabovol - interest (curiosity)  
-sabovole - interested (curious)  
-sabovolive - interested (curious)  
+sabevol - interest (curiosity)  
+sabevole - interested (curious)  
+sabevolive - interested (curious)  
 besabovole - interesting (curious)  
 sababe - reason (cause)  
 sabate - Sabbath  
@@ -3530,10 +3530,10 @@ samodexan - compatriot
 samemote - compassion (sympathy)  
 sammetre - symmetrical  
 sammetria - symmetry  
-samoname - homonym  
-samorai - agree (concur)  
-saomrayia - agreement (consent)  
-samosifia - model (similarity, simulation)  
+samname - homonym  
+samrai - agree (concur)  
+samrayia - agreement (consent)  
+samsifia - model (similarity, simulation)  
 samarium - samarium  
 Samoa - Samoa  
 sanduice - sandwich  
@@ -3551,7 +3551,7 @@ Sante Vincente - Saint Vincent
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanze - fan (ventilator)  
 sapate - shoe  
-• sapatokan - shoemaker's shop  
+• sapatekan - shoemaker's shop  
 • sapater - shoemaker  
 sar - head  
 sarokaske - helmet  
@@ -3599,7 +3599,7 @@ sense - sense (perceive, detect)
 • senser - sensor (detector)  
 sente - hundred (100)  
 sente - feel (sense by touch)  
-• pro sente - percent  
+• prosente - percent  
 senti- - centi- (per cent)  
 sentimitre - centimeter (cm)  
 sere - series (sequence, succession)  
@@ -3748,7 +3748,7 @@ spete - watch (spectate, observe)
 • respete - look back at (respect)  
 sponje - sponge  
 sporte - sport (athletics)  
-• sportokan - gymnasium (gym)  
+• sportekan - gymnasium (gym)  
 • sporter - athlete (sportsman)  
 stadia - stadium (arena)  
 stan - tract (land, ground, region)  
@@ -3855,7 +3855,7 @@ tai - stage (platform, pedestal, podium)
 Tai - Thai  
 Tai dexia - Thailand  
 Taibei - Taipei  
-taige - taiga  
+taiga - taiga  
 tail - tile  
 Taivan - Taiwan (Republic of China)  
 Tajikostan - Tajikistan  
@@ -3923,7 +3923,7 @@ intener - container
 • sutener - souteneur (pimp)  
 • subotene - sustain (hold from below)  
 • subotene - sustain (hold from below)  
-Tenese - Tennessee  
+Tenesi - Tennessee  
 tenesium - tennessine  
 tenis - tennis  
 tense - tight (tense; tighten)  
@@ -3977,7 +3977,7 @@ tire milke - milk (draw milk)
 tire pil - strip (peel)  
 tirbaton - lever  
 tirlonge - stretch (extend)  
-tiroriu - rip current  
+tireriu - rip current  
 tirsanduke - drawer  
 Titan - Titan  
 Titania - Titania  
@@ -4153,7 +4153,7 @@ vaxomaxin - washing machine
 vaxurse - raccoon  
 Vaxington DC - Washington DC  
 vei - tail  
-veye - traverse (horizontal)  
+vei - traverse (horizontal)  
 veilin - weft  
 vele - veil  
 • devele - unveil (reveal, uncover)  
@@ -4172,7 +4172,7 @@ ven - come
 vende - sell (vend)  
 vendoxope - trade (buy and sell; commerce)  
 vendoxoper - trader (merchant)  
-Venezuele - Venezuela  
+Venezuela - Venezuela  
 ventur - adventure (venture)  
 venturer - adventurer  
 Venus - Venus  
@@ -4293,6 +4293,9 @@ Xanghai - Shanghai
 xanke - doubt (suspect)  
 • xankable - dubious (suspicious)  
 xante - calm (peaceful, quiet)  
+xara - saw  
+xarafun - sawdust  
+xarakan - sawmill  
 xarke - shark  
 xarme - shame (disgrace)  
 xarnir - hinge (pivot)  
@@ -4307,18 +4310,15 @@ xatrange - chess
 xau - little (few, not many)  
 xaves - scarcity  
 xaxa - rustle  
+xe - thing  
+xehal - situation (circumstances, state of affairs)  
 no xe - nothing  
 xefe - chief (boss)  
-xefe minister - prime minister  
+xefe manter - prime minister  
 xefe di - main (principal)  
-xei - thing  
-xeihal - situation (circumstances, state of affairs)  
 xeihalironia - situational irony  
 xenon - xenon  
 xenseng - master (sensei)  
-xere - saw  
-xerofun - sawdust  
-xerokan - sawmill  
 xi - Mx. (Mr. or Ms.)  
 xibai - failure (loss, flop, miss, defeat)  
 xibai - loss (failure, miss)  
@@ -4359,7 +4359,7 @@ xule - learn (study)
 • xulaje - lesson (teaching)  
 • xulize - teach (educate, instruct)  
 • xulizer - teacher  
-• xulokan - school (institution)  
+• xulekan - school (institution)  
 • xuler - student (pupil, learner)  
 xulokamar - classroom  
 xuloxefe - headmaster (principal)  
@@ -4394,7 +4394,7 @@ yamyau - hunger
 yang - kind (style, sort, type)  
 yapetus - Iapetus  
 yatim - orphan  
-• yatimokan - orphanage  
+• yatimkan - orphanage  
 yau - need (lack; shortage)  
 • yavive - needy (lacking)  
 • beyau - necessary (needed)  
@@ -4407,7 +4407,6 @@ Yemen - Yemen
 yesus - Jesus  
 yeze - coconut tree  
 yo - one (someone)  
-Io - Io  
 yo jen - someone (somebody)  
 yo sate - sometime  
 yo xe - something  

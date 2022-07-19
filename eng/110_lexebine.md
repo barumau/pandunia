@@ -41,14 +41,15 @@ Compound words can be made in four ways in Pandunia.
 1. Open compounds are written as separate words. Ex.
    **tomato** 'tomato' + **sos** 'sauce** = **tomato sos** 'tomato sauce'.
 2. Closed compounds are joined to form a single word. Ex.
-   **poste** 'mail' + **kan** 'place for working, office, workshop, etc.' = **postekan** 'post office',
-   **bau** 'treasure' + **ite** 'stone' = **bavite** 'gemstone, jewel'.
+   **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office',
+   **bau** 'treasure' + **ite** 'stone' = **bavite** 'gemstone, jewel',
+   **lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'.
 3. Merged compounds are joined together so that the final vowel of the first word disappears before the beginning vowel of the second word.
    This can happen only when the first word ends in **-e** and the second word begins with a vowel. Ex.
    **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
 4. Greek compounds are compounds where the final **-e** of the first word turns into **-o-** before the second word.
    This way of compounding is applied only to a handful of words borrowed from Ancient Greek. Ex.
-   **fote** 'light' + **grafe** 'image' = **fotografe** 'photograhic image, photograph, photo'.
+   **fote** 'light' + **grafe** 'image' = **fotografe** 'photograhic image, photograph'.
 
 There is little difference between open compounds and closed compounds.
 Open compounds may be written together as closed compounds,
@@ -242,7 +243,7 @@ are not compound words in Pandunia.
 **fete**
 'make, do'
 → **perfete**
-'perfect'
+'perfect, completely done'
 
 **pos-**
 'after' :  

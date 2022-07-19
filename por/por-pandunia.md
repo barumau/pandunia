@@ -17,7 +17,7 @@ aclamar - proklame
 acordado - desome  
 acordo (tratado, contrato) - trete  
 acordo (tratado, contrato) - kontrate  
-acordo - saomrayia  
+acordo - samrayia  
 actínio - acinium  
 adesivo - glutograf  
 adjetivo - sifelexe  
@@ -46,7 +46,7 @@ alcaravia (cariz) - karave
 alcaçuz (regaliz) - sus  
 alcoólatra (bêbado) - alkoliste  
 aldeia (vila) - vilaje  
-alface - letis  
+alface - letus  
 alfarroba - karube  
 alfinete - pin  
 alga - alga  
@@ -57,7 +57,7 @@ aligátor (jacaré) - kortokrokodil
 almirante - haiamirer  
 almofada (coxim) - kusen  
 alpinista (montanhista) - montaner  
-altar - pujomeza  
+altar - pujemeza  
 alumínio - aluminium  
 alô - halo  
 amador - amater  
@@ -134,8 +134,8 @@ autor - auter
 aveia - ave  
 aventura - ventur  
 aventureiro - venturer  
-avó - cinmai  
-avô - cinpai  
+avó - cinma  
+avô - cinpa  
 azur (blau) - lazure  
 azur - nile  
 açougueiro (talhante) - bucer  
@@ -155,7 +155,7 @@ bambu - bambu
 banana - banan  
 bancarrota (falido) - bankorute  
 bancarrota (falência) - bankorutia  
-banco - bankokan  
+banco - bankekan  
 banco de dados - datobanke  
 bando - bande  
 banqueiro - banker  
@@ -178,7 +178,7 @@ bem-estar - salamia
 beringela - bedinje  
 berqueélio - berkelium  
 berílio - berilium  
-biblioteca - kitabokan  
+biblioteca - kitabekan  
 bicho-papão - bubu  
 bigorna - metalbede  
 bilhete - tikete  
@@ -202,7 +202,7 @@ boxe - bokse
 boxeador (pugilista) - bokser  
 branco - bake  
 bravo (valente, corajoso) - brave  
-bravo! - bravo  
+bravo! - brave  
 braço - handange  
 brejo (paul) - xipostan  
 bromo - bromium  
@@ -244,9 +244,9 @@ caneta de tinta permanente - fontokalam
 canguru - kangaru  
 canhão (ravina, barranco) - kanyon  
 canhǎo - daipau  
-canivete - jebocaku  
-canoa - kano  
-Cantalupo in Sabina - Kantalupo va Sabine  
+canivete - jebecaku  
+canoa - kanu  
+Cantalupo in Sabina - Kantalupo i Sabina  
 capa - manto  
 capa de chuva - barsokote  
 carbono - karbe  
@@ -257,7 +257,7 @@ cardápio (menu) - menu
 careta (esgar) - guimuke  
 Caribe - Karibia  
 caridade - sudone  
-carimbo - postomarke  
+carimbo - postemarke  
 carne - manse  
 carrapato (ácaros) - akare  
 carregar (carga, peso) - karge  
@@ -327,7 +327,7 @@ cobre - kupre
 coelho (lebre) - tuze  
 cognição - konnosion  
 cogumelo - fungopal  
-coisa - xei  
+coisa - xe  
 colaborar - konkare  
 colar (aderir) - glute  
 colher - camaca  
@@ -536,7 +536,7 @@ erupcionar - exrute
 erva marinha - haicau  
 erva-mate - mate  
 escalar - askale  
-escola (colégio) - xulokan  
+escola (colégio) - xulekan  
 escorpião (lacrau) - akrabe  
 escova de cabelo - kexobroxe  
 escovinha (centáurea) - nilcentaur  
@@ -680,7 +680,7 @@ geopolítica - geopolitike
 Germânia - Germania  
 germânio - germanium  
 gilete - razor  
-ginásio - sportokan  
+ginásio - sportekan  
 girafa - jiraf  
 girassol - soloful  
 glote - sonomun  
@@ -774,7 +774,7 @@ inflamaçao - itis
 informática (ciência da computação) - datoprocesolojia  
 infraestrutura - bazostrute  
 inimigo - dusojen  
-inquisitivo - sabovolive  
+inquisitivo - sabevolive  
 inseto - koncung  
 insônia - ansome  
 inteligência (intelecto) - intelige  
@@ -835,6 +835,7 @@ lagarto - saure
 lago - lage  
 lama (lodo) - fange  
 lama - lama  
+lamaísmo - lamaisme  
 lantâno - lantanium  
 lançador de foguetes - roketolancer  
 laranja - orange  
@@ -849,7 +850,7 @@ lento - anhaste
 leque - sanze  
 ler - duge  
 Letónia - Latvia  
-lhama - liame  
+lhama - liama  
 libélula - libele  
 licor - arake  
 lima - kagujolimon  
@@ -911,9 +912,9 @@ malabarista - jongler
 maldição - dusdua  
 malfeitoria (pecado) - dusate  
 malfeitoria (pecado) - duskar  
-mamão (papaia) - papai  
+mamão (papaia) - papaya  
 mancha (marca) - marke  
-mandarim - cini manter  
+mandarim - cina manter  
 manga - kamisi xake  
 manganésio - mangan  
 maniqueísmo - maniisme  
@@ -935,7 +936,7 @@ mas - ama
 massa - mas  
 massa de modelar (massinha) - plastopaste  
 mastro - maste  
-matadouro - bucokan  
+matadouro - bucekan  
 matemática - hisabolojia  
 mato (jângal) - jangle van  
 matéria - mate  
@@ -968,7 +969,7 @@ meta (gol) - gol
 metro - mitre  
 microbiologia - mikrobiolojia  
 microscópio - mikroskope  
-micróbio - mikrobia  
+micróbio - mikrobie  
 migração (mudar-se) - migre  
 milagre - ajibaje  
 mina - kuangia  
@@ -979,7 +980,7 @@ missionário - misioner
 missão - mision  
 modo (maneira, jeito) - mode  
 moeda - monete  
-moenda (moinho) - molokan  
+moenda (moinho) - molekan  
 moer - mole  
 mol - mole  
 moldar (modelar) - plaste  
@@ -1006,7 +1007,7 @@ multilíngue (plurilíngue) - polibaxike
 mundo - dunia  
 muro (muralha) - mur  
 musgo - mos  
-máquina de escrever - kitabomaxin  
+máquina de escrever - kitabemaxin  
 mármore - kalsokristal  
 máscara - maske  
 máximo - maximaje  
@@ -1102,7 +1103,7 @@ opção - cuzable
 opção - otion  
 ordem - ratibe  
 orelha - or  
-orfanato - yatimokan  
+orfanato - yatimkan  
 organismo - bie  
 organizar - nome  
 origem (original) - asle  
@@ -1218,9 +1219,9 @@ ponta (pico, bico) - pike
 ponta do dedo - angulpike  
 ponte - pul  
 ponteiro - dikobaton  
-por cento - pro sente  
+por cento - prosente  
 por exemplo - a misal  
-por muito tempo - a longe dure  
+por muito tempo - a long dure  
 poro - pore  
 poroso - porosi  
 portar - porte  
@@ -1442,9 +1443,9 @@ sentido - sense
 sepultura (túmulo; enterrar) - gabre  
 ser (estar) - e  
 ser humano - human  
-serra - xere  
-serragem - xerofun  
-serraría - xerokan  
+serra - xara  
+serragem - xarafun  
+serraría - xarakan  
 sete (7) - cete  
 sexo - jense  
 sexologia - sexolojia  
@@ -1455,18 +1456,18 @@ silêncio - tixia
 silício - silike  
 sim - ye  
 simetria - sammetria  
-simulação - samosifia  
+simulação - samsifia  
 simétrico - sammetre  
 sinal - sinal  
 sino (campainha) - danger  
-sino-japonês - cinoniponi  
-sino-vietnamita - cinovieti  
+sino-japonês - cinanipon  
+sino-vietnamita - cinaviete  
 sintonizador - sintonor  
 sintonizar - sintone  
-situaçao - xeihal  
+situaçao - xehal  
 sociedade - socia  
-sogra - gamoma  
-sogro - gamopa  
+sogra - gamma  
+sogro - gampa  
 soja - soi  
 sol - sol  
 soldado - ordojen  
@@ -1508,7 +1509,7 @@ televisão de realidade - rel televizion
 telúrio - telurium  
 temer (assustar) - fobe  
 tempero - masale  
-templo - pujokan  
+templo - pujekan  
 tempo - zaman  
 tender - ive  
 tendência - ivia  
@@ -1556,7 +1557,7 @@ transmissão - tramision
 transmitir - tramise  
 trator - trater  
 trazer - laiane  
-tribunal - judokan  
+tribunal - judekan  
 trigo - ganum  
 triplo - triple  
 trompete - trompete  
