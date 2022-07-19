@@ -850,19 +850,19 @@
 **manir** *zachowanie (maniery, kultura)* ← fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren  
 **manse** *mięso* ← hin:मांस (māns), urd:(māns), ben:মাংস (maŋs), tel:(māṃsamu), rus:мясо (myaso), pol:mięso  
 **mante** *urząd, pozycja, stanowisko, funkcja* ← hin:मंत्री (mantrī), ben:মন্ত্রী (môntri), may:menteri, por:mandarim, eng:fra:spa:mandarin, rus:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), jpn:メンター (mentā), kor:멘토 (mento)  
-**mantol** *peleryna (płaszcz, opończa)* ← eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel  
-**mantre** ** ← eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)  
-**mantu** *bułka gotowana na parze* ← tur:mantı, rus:манты (manty), kor:만두 (mandu), zho:馒头 (mántóu), fas:urd:(mantu)  
+**manto** *peleryna (płaszcz, opończa)* ← eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel  
+**mantra** ** ← eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)  
+**mantu** *bułka gotowana na parze* ← rus:манты (manty), zho:馒头 (mántóu), jpn;饅頭 (manjū), kor:만두 (mandu), fas:urd: منتو‎ (mantu), tur:mantı  
 **mar** *czas; okazja* ← ara: مرة (marra), swa:mara, hin:बार (bār), fas:urd: بار‎(bār), deu:Mal  
 **maraton** *maraton* ← eng:marathon, spa:maratón, por:maratona, rus:марафо́н (marafón), tur:maraton, ara:مَارَاثُون‎ (mārāṯūn), hin:मैराथन (mairāthan), ben:ম্যারাথন (mjarathôn), zho:马拉松 (mǎlāsōng), jpn:マラソン (marason)  
 **marce** *iść, maszerować* ← eng:march, fra:marche, spa:por:marcha, rus:марш (marš), hin:मार्च (mārc), tur:marş, swa:machi  
 **margai** *margaj (ocelot nadrzewny)* ← eng:margay, spa:maracayá, por:maracajá, rus:маргай (margay), ara:مارج (mārǧ), jpn:マーゲイ (māgei)  
 **margarin** *margaryna* ← eng:fra:margarine, spa:por:margarina, rus:маргари́н (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)  
 **margarite** *stokrotka* ← spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)  
-**marke** *znak, trop* ← eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)  
+**marke** *znak (trop; zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad)* ← eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)  
 **Marse** *Mars* ← eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)  
 **mas** *masa* ← eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)  
-**masaje** *masaż* ← eng:fra:massage, spa:masaje, por:massagem, rus:масса́ж (massáž), tur:masaj, ara:مَسَاج‎ (masāj), fas:ماساژ‎ (mâsâž), ben:ম্যাসেজ (mjaśej), zho:马杀鸡 (mǎshājī), jpn:マッサージ (massāji)  
+**masaje** *masaż* ← eng:fra:massage, spa:masaje, por:massagem, rus:массаж (massaž), tur:masaj, ara:مَسَاج‎ (masāj), fas:ماساژ‎ (mâsâž), ben:ম্যাসেজ (myaśej), zho:马杀鸡 (mǎshājī), jpn:マッサージ (massāji)  
 **masale** *przyprawa* ← hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), swa:masala  
 **maske** *maska, kamuflaż* ← eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske  
 **maste** *maszt* ← eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil  
@@ -877,9 +877,8 @@
 **maze** *skarpeta, skarpetka, pończocha* ← hin:मोज़ा (mozā), ben:মোজা (moja), urd: موزا‎ (mozā) + zho:袜子 (wàzi), wuu:袜子 (ma’zi), yue:襪 (mat6), kor:말 (mal)  
 **me** ** ← eng:meh  
 **medal** *medalion, medal* ← eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)  
-**mede** *pomóc (pomagać, asystować; pomoc, wsparcie)* ← ara:fas:urd: مَدَد‎ (madad), hin:मदद (madad), ben:মদদ (môdôd) + fra:m’aidez, eng:mayday, rus:мэдэ (mede), jpn:メーデー (mēdē), kor:메이데이 (meidei)  
+**mede** *pomóc (pomagać, asystować; pomoc, wsparcie)* ← ara: مَدَد‎ (madad), fas: مدد (madad), hin:मदद (madad), ben:মদদ (môdôd), tel:మద్దతు (maddatu) + fra:aider, eng:aid + rus:мэдэ (mede), jpn:メーデー (mēdē), kor:메이데이 (meidei)  
 **meden** *skwer, plac* ← ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền  
-**medike** *uleczyć, leczyć, uzdrowić, uzdrawiać* ← eng:medicine, spa:medicina, por:medicamento, fra:médicament, rus:медикамент (medikament)  
 **medite** *medytować; dumać, rozmyślać, zastanawiać się* ← eng:meditate, spa:meditar, fra:méditer, rus:медитировать (meditirovatʹ)  
 **mega** *milion* ← eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)  
 **meh** *owca* ← hin:मेष (meṣ), fas:(miš), tha:เมษ (met), + lin:kon:meme, jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee  
@@ -1371,6 +1370,7 @@
 **teste** *test, wyzwanie, próba* ← eng:fra:test, rus: тест (test), por:teste, tur:test  
 **texe** *tkać (pleść)* ← spa:tejer, por:tecer, fra:tisser, eng:textile  
 **teze** *dyskutovać (twierdzić; argument, teza)* ← eng:thesis, fra:thèse, spa:tesis, por:tese, rus:тезис (tezis), fas: تز‎ (tez), tur:tez, jpn:テーゼ (tēze), kor:테제 (teje)  
+**tibe** *uleczyć, leczyć, uzdrowić, uzdrawiać* ← ara: طِبّ‎ (ṭibb), fas: طب‎ (tebb), hin:तिब्ब (tibb), ben:তবীব (tôbīb), tur:tıp, swa:tiba; tibu  
 **ticin** *chordofon, instrument strunowy* ← zho:提琴 (tíqín), yue:提琴 (tai4 kam4), uu:提琴 (di jin3), jpn:提琴 (teikin)  
 **tike** ** ← fas: تکه (tekke), hin:टिक्का (ṭikkā) + eng:deu:ticket, may:tiket, ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)  
 **tim** *drużyna* ← eng:team, deu:Team, swa:timu, hin:टीम (ṭīm), jpn:チーム (chīmu), kor:팀 (tim)  
@@ -1562,7 +1562,7 @@
 **zira** *kumin (kmin)* ← ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera  
 **zirkonium** *cyrkon* ← eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم  
 **zize** *skwierczeć* ← zho:zizi eng:sizzle  
-**zoe** *animal* ← eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)  
+**zoe** *animal* ← eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-) + zho:兽 (shòu)  
 **zombi** *zombie, zombi* ← kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)  
 **zone** *pas, strefa* ← ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)  
 **zong** *gatunek* ← zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng  

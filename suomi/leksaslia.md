@@ -850,19 +850,19 @@
 **manir** *käytös (käyttäytyminen, tapa, tavat)* ← ranska:manière, englanti:manner, venäjä:манера (manyera), japani:マナー (manā), espanja:manera, portugali:maneira, deu:Manieren  
 **manse** *liha* ← hindi:मांस (māns), urdu:(māns), bangla:মাংস (maŋs), telugu:(māṃsamu), venäjä:мясо (myaso), puola:mięso  
 **mante** *virka (virka-asema)* ← hindi:मंत्री (mantrī), bangla:মন্ত্রী (môntri), malaiji:menteri, portugali:mandarim, englanti:ranska:espanja:mandarin, venäjä:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), japani:メンター (mentā), korea:멘토 (mento)  
-**mantol** ** ← englanti:mantle, espanja:manto, ranska:manteau, venäjä:манто (manto), japani:マント (manto), korea:망토 (mangto), malaiji:mantel  
-**mantre** *mantra* ← englanti:ranska:espanja:portugali:malaiji:mantra, venäjä:мантра (mantra), hindi:मंत्र (mantra), bangla:মন্ত্র (môntr)  
-**mantu** *täytetty pulla* ← turkki:mantı, venäjä:манты (manty), korea:만두 (mandu), yleiskiina:馒头 (mántóu), persia:urdu:(mantu)  
+**manto** ** ← englanti:mantle, espanja:manto, ranska:manteau, venäjä:манто (manto), japani:マント (manto), korea:망토 (mangto), malaiji:mantel  
+**mantra** *mantra (messuta)* ← englanti:ranska:espanja:portugali:malaiji:mantra, venäjä:мантра (mantra), hindi:मंत्र (mantra), bangla:মন্ত্র (môntr)  
+**mantu** *täytetty pulla* ← venäjä:манты (manty), yleiskiina:馒头 (mántóu), jpn;饅頭 (manjū), korea:만두 (mandu), persia:urdu: منتو‎ (mantu), turkki:mantı  
 **mar** *kerta (vuoro)* ← arabia: مرة (marra), suahili:mara, hindi:बार (bār), persia:urdu: بار‎(bār), deu:Mal  
 **maraton** *maratoni* ← englanti:marathon, espanja:maratón, portugali:maratona, venäjä:марафо́н (marafón), turkki:maraton, arabia:مَارَاثُون‎ (mārāṯūn), hindi:मैराथन (mairāthan), bangla:ম্যারাথন (mjarathôn), yleiskiina:马拉松 (mǎlāsōng), japani:マラソン (marason)  
 **marce** *kävellä (kävely, marssi)* ← englanti:march, ranska:marche, espanja:portugali:marcha, venäjä:марш (marš), hindi:मार्च (mārc), turkki:marş, suahili:machi  
 **margai** ** ← englanti:margay, espanja:maracayá, portugali:maracajá, venäjä:маргай (margay), arabia:مارج (mārǧ), japani:マーゲイ (māgei)  
 **margarin** *margariini* ← englanti:ranska:margarine, espanja:portugali:margarina, venäjä:маргари́н (margarín), turkki:margarin, hindi:मार्जरीन (mārjarīn), malaiji:marjerin, yleiskiina:麦淇淋 (màiqílín), japani:マーガリン (māgarin)  
 **margarite** ** ← espanja:portugali:margarita, ranska:marguerite, deu:Margerite, venäjä:маргаритка (margaritka)  
-**marke** *merkki (jälki)* ← englanti:mark, espanja:portugali:marca, ranska:marque, korea:마크 (makeu), japani:マーク (māku)  
+**marke** *merkitä (jättää jälki; merkki, jälki)* ← englanti:mark, espanja:portugali:marca, ranska:marque, korea:마크 (makeu), japani:マーク (māku)  
 **Marse** *Mars* ← englanti:ranska:turkki:malaiji:Mars, espanja:portugali:Marte, venäjä:Марс (Mars)  
 **mas** *massa* ← englanti:mass, deu:ranska:masse, espanja:masa, portugali:malaiji:massa, venäjä:масса (massa)  
-**masaje** *hieronta* ← englanti:ranska:massage, espanja:masaje, portugali:massagem, venäjä:масса́ж (massáž), turkki:masaj, arabia:مَسَاج‎ (masāj), persia:ماساژ‎ (mâsâž), bangla:ম্যাসেজ (mjaśej), yleiskiina:马杀鸡 (mǎshājī), japani:マッサージ (massāji)  
+**masaje** *hieroa (vaivata; hieronta)* ← englanti:ranska:massage, espanja:masaje, portugali:massagem, venäjä:массаж (massaž), turkki:masaj, arabia:مَسَاج‎ (masāj), persia:ماساژ‎ (mâsâž), bangla:ম্যাসেজ (myaśej), yleiskiina:马杀鸡 (mǎshājī), japani:マッサージ (massāji)  
 **masale** *mauste* ← hindi:मसाला (masālā), urdu:(masālā), bangla:মসলা (môsla), suahili:masala  
 **maske** *naamio (maski)* ← englanti:mask, ranska:masque, espanja:portugali:máscara, venäjä:маска (maska), hindi:मास्क (māsk), japani:マスク (masuku), korea:마스크 (maseukeu), malaiji:masker, turkki:maske  
 **maste** *masto (salko)* ← englanti:deu:mast, hindi:मस्तूल (mastūl), japani:マスト (masuto), venäjä:мачта (mačta), puola:maszt, portugali:mastro, espanja:mástil  
@@ -877,9 +877,8 @@
 **maze** *sukka* ← hindi:मोज़ा (mozā), bangla:মোজা (moja), urdu: موزا‎ (mozā) + yleiskiina:袜子 (wàzi), wu-kiina:袜子 (ma’zi), kantoninkiina:襪 (mat6), korea:말 (mal)  
 **me** *ääh (plääh)* ← englanti:meh  
 **medal** *mitali* ← englanti:medal, espanja:medalla, portugali:medalha, ranska:médaille, venäjä:меда́ль (medálʹ), hindi:मेडल (meḍal), bangla:মেডেল (meḍel), turkki:madalya, japani:メダル (medaru)  
-**mede** *apu (auttaa, avustaa)* ← arabia:persia:urdu: مَدَد‎ (madad), hindi:मदद (madad), bangla:মদদ (môdôd) + ranska:m’aidez, englanti:mayday, venäjä:мэдэ (mede), japani:メーデー (mēdē), korea:메이데이 (meidei)  
+**mede** *apu (auttaa)* ← arabia: مَدَد‎ (madad), persia: مدد (madad), hindi:मदद (madad), bangla:মদদ (môdôd), telugu:మద్దతు (maddatu) + ranska:aider, englanti:aid + venäjä:мэдэ (mede), japani:メーデー (mēdē), korea:메이데이 (meidei)  
 **meden** *kenttä (aukio)* ← arabia: مَيْدَان‎ (maydān), persia:(meydan), hindi:मैदान (maidān), bangla:ময়দান (moidan), turkki:meydan, suahili:medani, venäjä:майдан (maydan) + yleiskiina:田 (tián), japani:田 (den), korea:전 (jeon), vietnami:điền  
-**medike** *hoitaa (lääkitä)* ← englanti:medicine, espanja:medicina, portugali:medicamento, ranska:médicament, venäjä:медикамент (medikament)  
 **medite** *pohtia (meditoida)* ← englanti:meditate, espanja:meditar, ranska:méditer, venäjä:медитировать (meditirovatʹ)  
 **mega** *miljoona (mega-)* ← englanti:ranska:espanja:portugali:malaiji:turkki:mega-, venäjä:мега- (mega-), japani:メガ (mega), korea:메가- (mega-)  
 **meh** *lammas* ← hindi:मेष (meṣ), persia:(miš), thai:เมษ (met), + lingala:Kongo:meme, japani:メーメー (mē mē), portugali:meh, arabia:(maa'), turkki:mee  
@@ -1371,6 +1370,7 @@
 **teste** *todistaa (testata)* ← englanti:ranska:test, venäjä: тест (test), portugali:teste, turkki:test  
 **texe** *kutoa kangasta* ← espanja:tejer, portugali:tecer, ranska:tisser, englanti:textile  
 **teze** *väittää (väite, teesi)* ← englanti:thesis, ranska:thèse, espanja:tesis, portugali:tese, venäjä:тезис (tezis), persia: تز‎ (tez), turkki:tez, japani:テーゼ (tēze), korea:테제 (teje)  
+**tibe** *hoitaa (lääkitä)* ← arabia: طِبّ‎ (ṭibb), persia: طب‎ (tebb), hindi:तिब्ब (tibb), bangla:তবীব (tôbīb), turkki:tıp, suahili:tiba; tibu  
 **ticin** *jousisoitin* ← yleiskiina:提琴 (tíqín), kantoninkiina:提琴 (tai4 kam4), uu:提琴 (di jin3), japani:提琴 (teikin)  
 **tike** *suikale (siivu)* ← persia: تکه (tekke), hindi:टिक्का (ṭikkā) + englanti:deu:ticket, malaiji:tiket, bangla:টিকিট (ṭikiṭ), amharabia:ቲኬት (tiket), korea:티켓 (tiket), japani:チケット (chiketto)  
 **tim** *joukkue (tiimi)* ← englanti:team, deu:Team, suahili:timu, hindi:टीम (ṭīm), japani:チーム (chīmu), korea:팀 (tim)  
@@ -1562,7 +1562,7 @@
 **zira** *juustokumina (jeera)* ← bangla:জিরা (zīra), hindi:ज़ीरा (zīrā), tamili:சீரகம் (sīrakam), suahili:mjira, persia:(zire), yleiskiina:孜然 (zīrán), englanti:jeera  
 **zirkonium** *zirkonium* ← englanti:zirconium, ranska:zirconium, espanja:circonio, portugali:zircónio, venäjä:цирконий, japani:ジルコニウム, korea:지르코늄, vietnami:ziriconi, hindi:जर्कोनियम, bangla:জিরকোনিয়াম, malaiji:zirkonium, suahili:zirikoni, arabia: زيركونيوم  
 **zize** *sihistä* ← yleiskiina:zizi englanti:sizzle  
-**zoe** *eläin* ← englanti:ranska:espanja:portugali:malaiji:turkki:zoo-, venäjä:зоо- (zoo-)  
+**zoe** *eläin* ← englanti:ranska:espanja:portugali:malaiji:turkki:zoo-, venäjä:зоо- (zoo-) + yleiskiina:兽 (shòu)  
 **zombi** *zombi* ← Kongo:nzambi, englanti:zombie, espanja:turkki:zombi, portugali:zumbi, venäjä:зомби (zombi), arabia:زُومْبِي‎ (zūmbī), hindi:ज़ोंबी (zombī), japani:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zone** *vyö* ← kreikka:ζώνη (zónē), englanti:ranska:zone, espanja:portugali:zona, venäjä:зона (zona)  
 **zong** *laji* ← yleiskiina:種 (zhǒng), kantoninkiina:種 (zung2), wu-kiina:種 (tson2), japani:種 (shu), korea:종 (jong), vietnami:chủng  

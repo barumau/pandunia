@@ -47,6 +47,7 @@ a line - online
 a long - long (over a gread distance)  
 a longe dure - for a long time  
 a max - also (too, in addition)  
+a mide - among (amid, between)  
 a misal - for example  
 a neu - just (recently)  
 a proxe - nearly (closely, almost)  
@@ -674,7 +675,7 @@ dante - tooth
 dantobalute - daimyo oak  
 dantobrox - tooth brush  
 dantokume - alveolar ridge (gum ridge)  
-dantomediker - dentist  
+dantotiber - dentist  
 dare - flow (current, stream)  
 darotube - funnel  
 darge - step (degree, rank, grade, level, class)  
@@ -2378,7 +2379,7 @@ man - male
 mani pute - son  
 mani reger - king  
 manete - magnet  
-manete - magnetic  
+• manetike - magnetic  
 mangan - manganese  
 mango - mango  
 mangus - mangosteen  
@@ -2390,12 +2391,11 @@ manir - behavior (manners)
 manire - behave (act)  
 manse - meat (flesh)  
 mante - public office  
-• manti - official (pertaining to public trust)  
+• mantike - official (pertaining to public trust)  
 • manter - public officer (mandarin, minister)  
-• manteria - ministry  
-mantol - cape (cloak, mantle)  
-mantre - mantra  
-mantre - chant  
+• manteria - ministry (office, bureau)  
+manto - cape (cloak, mantle)  
+mantra - mantra (chant)  
 mantu - steamed bun (mantou, manti)  
 mar - time (instance, occasion)  
 • polimaria - frequency  
@@ -2407,7 +2407,6 @@ margarin - margarine
 margarite - daisy  
 Marian nesia - Northern Mariana Islands  
 marke - mark (trace)  
-marke - mark (leave a mark)  
 Marse - Mars  
 martinluterisme - Lutheranism  
 martinluteriste - Lutheran  
@@ -2415,10 +2414,9 @@ Marxal nesia - Marshall Islands
 mas - mass (quantity of matter)  
 masmul - tuber (bulb)  
 masmulsolful - Jerusalem artichoke (sunroot)  
-masaje - massage  
-masaje - knead (massage)  
+masaje - massage (knead, give a massage)  
 masale - spice (seasoning)  
-masali tike - tikka masala  
+masale tike - tikka masala  
 maske - mask (camouflage)  
 maste - mast  
 master - master (master’s degree)  
@@ -2455,17 +2453,14 @@ maxorai - overestimate
 maxin - machine  
 maze - sock (stocking)  
 me - meh  
-mede - help (aid, assist)  
-medu - among (amid, between)  
+mede - help (aid)  
+• medize - assist (provide help)  
+• meder - helper (aid)  
 medal - medallion (medal)  
 meden - field (square, plaza, maidan)  
 medene - open (wide, spacious)  
 medenfobia - agoraphobia  
 medenpapil - corn poppy  
-medike - heal (cure, remedy)  
-medikia - medicine (field of study)  
-mediker - doctor (medic, physician, healer)  
-medikosui - potion  
 medite - meditate (ponder)  
 megagram - tonne (metric ton)  
 megavate - megawat (MW)  
@@ -3510,6 +3505,7 @@ sal - hello (hi)
 sale - healthy  
 • sales - health (state of wellbeing)  
 • salude - health (condition, level of health)  
+• resale - recover  
 sal cute - farewell  
 sal den - good day  
 sal lai - welcome!  
@@ -3961,6 +3957,13 @@ texte - text
 • kontexte - context  
 • kontexti - contextual  
 teze - claim (thesis, statement)  
+tibe - heal (cure, remedy)  
+• tibaje - medicine (drug, medication)  
+• tibike - medical  
+• tibive - healing  
+• tibolojia - medicine (field of study)  
+• tiber - doctor (physician, healer)  
+tibesui - potion  
 ticin - bow instrument (violin, etc.)  
 tike - slice  
 • tikete - ticket (slip)  
@@ -4477,7 +4480,7 @@ zira - cumin (jeera)
 zirkon - zircon  
 zirkonium - zirconium  
 zize - sizzle  
-zoe - animal  
+zoe - animal (beast)  
 • zoofilia - zoophily  
 • zoogeografia - zoogeography  
 • zoolojia - zoology  
@@ -4485,6 +4488,7 @@ zoe - animal
 zoagria - animal husbandry  
 zooparke - zoo (zoological garden)  
 zoosikle - zodiac  
+zootiber - veterinarian  
 zootoxe - zootoxin  
 zombi - zombie  
 zone - belt (zone)  

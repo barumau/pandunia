@@ -5,6 +5,7 @@
 a ke - kie  
 a le - tie  
 a max - ankaŭ  
+a mide - inter  
 a misal - ekzemple  
 a neu - ĵus  
 a sababe de - ĉar  
@@ -349,7 +350,7 @@ danse - danco
 dante - dento  
 • danta - mordi  
 dantobrox - dentbroso  
-dantomediker - dentisto  
+dantotiber - dentisto  
 dargomute - disvolvi  
 date - datumo  
 datobanke - datumbanko  
@@ -1109,9 +1110,6 @@ max - pli
 maxin - maŝino  
 maze - ŝtrumpo  
 mede - helpo  
-medu - inter  
-medike - sanigi (kuraci)  
-mediker - kuracisto  
 mega - miliono  
 meh - ŝafo  
 Mehiko - Meksikio  
@@ -1708,6 +1706,8 @@ tepe - bendo
 terbium - terbio  
 termometrer - termometro  
 teste - testo  
+tibe - sanigi (kuraci)  
+• tiber - kuracisto  
 tire - tiri  
 tire milke - melki  
 titanium - titanio  
@@ -1929,6 +1929,7 @@ zoe - besto
 • zoolojike - zoologia  
 zooparke - zoo (bestoĝardeno)  
 zoosikle - zodiako  
+zootiber - bestkuracisto  
 zone - zono  
 zuke - etno  
 zukomede - interetna  

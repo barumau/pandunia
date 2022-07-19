@@ -826,7 +826,7 @@ man - 男
 mani reger - 王様  
 mangan - マンガン  
 manse - 肉  
-mantol - マント (ケープ)  
+manto - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
 mas - 質量  
@@ -845,8 +845,6 @@ maze - 靴下 (ソックス)
 mede - 手伝う (助ける)  
 meden - 広場  
 medenpapil - ヒナゲシ  
-mediker - 医者  
-medikosui - ポーション (水薬)  
 mega - １００万 (メガ)  
 mei - 美しい  
 • meyia - 美しさ  
@@ -1327,6 +1325,9 @@ terce - 斜め
 texe - 布  
 texomaxin - 織機  
 teze - 論題  (テーゼ)  
+• tibaje - 薬 (医薬品)  
+• tiber - 医者  
+tibesui - ポーション (水薬)  
 tipe - 種類  
 tire pil - はがす (剥ぐ)  
 tirbaton - レバー (てこ)  
@@ -1514,6 +1515,7 @@ zoe - 動物
 zoagria - 畜産  
 zooparke - 動物園  
 zoosikle - 黄道帯  
+zootiber - 獣医  
 zongominte - スペアミント  
 zuke - 民族  
 zukam - 風邪 (感冒)  

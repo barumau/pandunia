@@ -833,7 +833,7 @@ mangan - 锰
 maniisme - 摩尼教  
 manir - 方式  
 manse - 肉  
-mantol - 斗篷  
+manto - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
 mas - 质量  
@@ -852,7 +852,6 @@ maze - 袜子
 mede - 帮助  
 meden - 广场  
 medenpapil - 虞美人 (雛罌粟)  
-medikosui - 药水  
 mega - 百万 (兆)  
 mei - 漂亮 (美)  
 • meyia - 美丽  
@@ -1321,6 +1320,9 @@ terce - 斜的
 teste - 化验  
 texe - 布料  
 teze - 论题   
+• tibaje - 药物  
+• tiber - 医生 (大夫)  
+tibesui - 药水  
 • tikete - 票  
 • retrotikete - 往返票  
 tim - 队  
@@ -1504,6 +1506,7 @@ zoe - 动物
 • zoolojia - 动物学  
 zooparke - 动物园  
 zoosikle - 黄道带  
+zootiber - 兽医  
 zongominte - 留兰香  
 zuke - 民族  
 zukam - 感冒  

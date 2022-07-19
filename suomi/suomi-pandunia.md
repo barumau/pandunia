@@ -144,7 +144,8 @@ appelsiini - orange
 appi - gamopa  
 appivanhempi - gamcin  
 aprikoosi - barkoke  
-apu (auttaa, avustaa) - mede  
+apu (auttaa) - mede  
+apuri (auttaja) - meder  
 arabialainen - arabe  
 araknofobia (hämähäkkikammo) - aranofobia  
 arboretum (puulajipuisto) - mokozongoparke  
@@ -218,6 +219,7 @@ avata (aukaista; auki, avoin) - ankluze
 avata lukko (lukitsematon) - desore  
 avioliitto - gamia  
 avokado - avakate  
+avustaa (antaa apua) - medize  
 Azerbaidžan - Azerbaizan  
 
 ## B  
@@ -384,6 +386,7 @@ elokuvallinen - kinografe
 elokuvataide - kinografia  
 elokuvateatteri - kinografokan  
 eläin - zoe  
+eläinlääkäri - zootiber  
 eläinmaantiede - zoogeografia  
 eläinmyrkky (zootoksiini) - zootoxe  
 eläinrakkaus - zoofilia  
@@ -585,7 +588,7 @@ halveksia (hyljeksiä) - paraye
 hame - skerte  
 hammas - dante  
 hammasharja - dantobrox  
-hammaslääkäri - dantomediker  
+hammaslääkäri - dantotiber  
 hammasvalli - dantokume  
 han-kiinalainen - cine  
 hana (venttiili, kraana) - kran  
@@ -664,7 +667,7 @@ hidas - anhaste
 hiekka - sable  
 hiekkalinna - sabloburge  
 hieno (hienojakoinen) - faine  
-hieronta - masaje  
+hieroa (vaivata; hieronta) - masaje  
 hiili - karbe  
 hiilidioksidi - karboduloxide  
 hiiri - mux  
@@ -692,7 +695,7 @@ hiuspanta - kexbende
 hiustenkuivain (fööni) - kexofentor  
 hmm - hem  
 hockey (jääkiekko) - hoke  
-hoitaa (lääkitä) - medike  
+hoitaa (lääkitä) - tibe  
 hoitaa (pitää huolta) - kure  
 holismi - holisme  
 holmium - holmium  
@@ -1737,8 +1740,10 @@ läpileikkaus - tomografe
 läpinäkymätön - antravidable  
 läsnäolo - zayia  
 lätty (räiskäle, pannukakku) - krepe  
-lääketiede - medikia  
-lääkäri (tohtori) - mediker  
+lääke - tibaje  
+lääke- - tibike  
+lääketiede - tibolojia  
+lääkäri (tohtori) - tiber  
 löysä (löysätä, päästää menemään) - laxe  
 löytää (keksiä) - eureke  
 
@@ -1771,7 +1776,7 @@ maavoimat - georde
 Macao - Makau  
 Madagaskar - Malagasia  
 magneetti - manete  
-magneettinen - manete  
+magneettinen - manetike  
 magnesium - magesium  
 maha (vatsa) - pete  
 mahdollisuus (tilaisuus) - canse  
@@ -1811,7 +1816,7 @@ mangusti - mungus
 manikealaisuus - maniisme  
 Manin saari - Manin nes  
 manteli - badam  
-mantra - mantre  
+mantra (messuta) - mantra  
 marathi (eräs intialainen kieli) - marate  
 maratoni - maraton  
 margariini - margarin  
@@ -1873,14 +1878,12 @@ meri- (merellinen) - hayike
 merirosvo (piraatti, kaappari) - pirater  
 merivoimat (sotalaivasto) - haiorde  
 merkitysoppi (semantiikka) - semolojia  
-merkitä (jättää jälki) - marke  
+merkitä (jättää jälki; merkki, jälki) - marke  
 merkitä (tarkoittaa) - seme  
 merkitä jlkn - asine  
-merkki (jälki) - marke  
 merkki (signaali) - sine  
 Merkurius - Merkur  
 messiaaninen - kriste  
-messuta - mantre  
 mestari (asiantuntija) - mester  
 mestari (voittaja) - campion  
 metalli - metal  
@@ -2318,6 +2321,8 @@ Paraguai - Paraguai
 parametri (argumentti) - param  
 parametri (oheisarvo) - parametre  
 paranormaali (normaalista poikkeava) - paranorme  
+parantaa (parantua) - resale  
+parantava - tibive  
 parantumaton - ankurable  
 Pariisi - Paris  
 parillinen luku - pari numbe  
@@ -3287,7 +3292,7 @@ tiikeri - bagre
 tiili - binite  
 tiistai - den du  
 tikari - kanzar  
-tikka masala - masali tike  
+tikka masala - masale tike  
 tila (tilanne, seikka) - hal  
 tilanne (asiaintila) - xeihal  
 timantti - adamas  
@@ -3535,7 +3540,6 @@ vaikeus (hankaluus) - dushal
 vaikuttaa (vaikutus, tulos) - asar  
 vaikutus (teho) - exfete  
 vain (pelkästään) - sade di  
-vaivata (hieroa) - masaje  
 valinnainen (optionaalinen) - otional  
 valita (valinta, vaali) - cuze  
 valjaat - harnes  
@@ -3678,7 +3682,7 @@ villi (villinä syntynyt) - ekogene
 vinyyli - vinil  
 violetti (liila) - lilake  
 virallinen - ofise  
-virallinen - manti  
+virallinen - mantike  
 virasto (toimisto, konttori) - ofisia  
 virhe (erhe; erehtyä, tehdä virhe; väärä, virheellinen) - galte  
 viritin - sintonor  
@@ -3752,7 +3756,7 @@ väkivalta (pakko) - zor
 väli - mide  
 Välimeri - Geomede Hai  
 välipala (naposteltava) - lilyam  
-välissä - medu  
+välissä - a mide  
 välittää (siirtää, lähettää) - tramise  
 välitys (siirtäminen, lähetys) - tramision  
 väri - rang  

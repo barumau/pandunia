@@ -903,8 +903,8 @@ mangan - manganésio
 maniisme - maniqueísmo  
 manir - comportamento (conduta)  
 manse - carne  
-mantol - capa  
-mantre - mantra  
+manto - capa  
+mantra - mantra  
 mar - vez  
 marce - marcha  
 margai - gato-maracajá  
@@ -1484,6 +1484,7 @@ texe - fazenda (tecido)
 texomaxin - tear  
 texte - texto  
 teze - tese  
+• tibaje - remédio (medicamento)  
 • tikete - bilhete  
 • retrotikete - passagem de volta  
 tirlonge - estirar  
@@ -1678,6 +1679,7 @@ zoe - animal (besta, bicho)
 • zoolojike - zoológico  
 zooparke - zoológico  
 zoosikle - zodíaco  
+zootiber - veterinário  
 zombi - zumbi  
 zone - zona  
 zongominte - hortelã-verde  

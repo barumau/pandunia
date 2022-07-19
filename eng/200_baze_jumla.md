@@ -220,13 +220,13 @@ I greet him/her.
 **sual tu e Tomas?**
 Are you Thomas?
 
-**sual tu e dava ja?**
+**sual tu e tiber?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu dava ja**
+**mi sual tu tiber**
 (I ask, you doctor?) by dropping out the first word.
 
 **sual tu bon?**
@@ -253,10 +253,10 @@ Are you Thomas.
 **ye, mi e Tomas.**
 Yes, I am Thomas.
 
-**sual ya e dava ja?**
+**sual ya e tiber?**
 Is he/she a doctor?
 
-**ye, ya e dava ja.**
+**ye, ya e tiber.**
 Yes, he is a doctor.
 
 
@@ -265,7 +265,7 @@ Yes, he is a doctor.
 **mi no e Sara.**
 I'm not Sarah.
 
-**mi no e dava ja.**
+**mi no e tiber.**
 I'm not a doctor.
 
 **sual tu bon?**

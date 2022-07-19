@@ -10,6 +10,7 @@ a~ lin:|a line||||online|en ligne|en línea|online|онлайн||在线|オン�
 a~ long:|a long||||long (over a gread distance)|loin|lejos||далеко||||||||||||pitkästi (kauas)|
 a~ long~dur:|a longe dure||||for a long time|longtemps||por muito tempo|долго||久||||||||||kauan (pitkän aikaa)|
 a~ max:|a max||||also (too, in addition)||además|||||||||||||ankaŭ||
+a~ mid:|a mide||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
 a~ misal:|a misal||||for example|par exemple|por ejemplo|por exemplo|например||比如|例えば|예컨대|ví dụ|उदाहरण के लिए||cotohnya (misalnya)|kwa mfano|örneğin (mesela)|ekzemple|esimerkiksi|na przykład
 a~ neu:|a neu||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
 a~ prox:|a proxe||||nearly (closely, almost)||casi (aproximadamente)||||||||||||||lähes (melkein)|blisko (niemal, prawie)
@@ -632,7 +633,7 @@ dant:a|• danta||||bite|mordre|morder|morder|откусить|مَضَغَ‎|�
 dant~balut:|dantobalute|biu|Quercus dentata||daimyo oak||roble daimyo||дуб зубчатый||槲树|カシワ||||||||||dąb zębaty
 dant~brox:|dantobrox||||tooth brush||cepillo de dientes|||||||||||||dentbroso|hammasharja|szczoteczka do zębów
 dant~kum:|dantokume||||alveolar ridge (gum ridge)||||||||||||||||hammasvalli|
-dant~medik.r:|dantomediker||||dentist||dentista (odontólogo)|||||||||||||dentisto|hammaslääkäri|dentysta
+dant~tib.r:|dantotiber||||dentist||dentista (odontólogo)|||||||||||||dentisto|hammaslääkäri|dentysta
 dar:|dare|||hin:धारा (dhārā), tel:ధార (dhāra) + fas: دریا‎ (daryâ), hin:दर्या (daryā), ben:দরিয়া (dôriẏa), tur:derya|flow (current, stream)||fluir||||||||धारा||||||virta (virtaus)|latać (fruwać)
 dar.tub:|darotube||||funnel|entonnoir|embudo|funil|воронка||漏斗|漏斗|||||||||lappo|lejek
 darg:|darge|||ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat, + zho:阶 (jiē)|step (degree, rank, grade, level, class)||paso (grado, nivel, rango, calidad, categoría)||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
@@ -1414,7 +1415,7 @@ has:|has|||ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas, s
 has:ia|• hasia||||distinction (specialty)||especialización (distinción)||||||||||||||erikoisuus|różnica (specjalność)
 has.if:|• hasife||||distinguish (specialize)||diferenciar (distinguir)||||||||||||||erottaa (nähdä ero)|rozróżniać (rozróżnić)
 hast:|haste|||deu:Hast, eng:haste, fra:hâte + fas:آهسته (âheste), hin:आहिस्ता (āhistā), ben:আস্তে (aste), tur:aheste|hurry (rush, haste; hasty, busy, hurried, swift, fast)|occupé|ocupado (atareado)|ocupado (atarefado)|занятый||忙|忙しい|||व्यस्त||ramai (sibuk)|kushugulika|işlek|okupata|kiireinen|zajęty
-hast<an:|• anhaste||||slow (not busy)|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida|hidas (rauhallinen)|powolny (wolny, letargiczny)
+hast<an:|• anhaste||||slow|lent|lento (despacio)|lento|||慢|遅い (ゆっくり)||||||||malrapida|hidas|powolny (wolny, letargiczny)
 hat:a|hate|||por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|until (til, up to)|jusque (jusqu’à)|hasta|até|до||直到|||||||mpaka||ĝis|asti (saakka)|aż do
 hat:o|hato||||even (implying extreme example)|voire (même)|hasta (también)||||连||||और भी|||||eĉ|jopa|nawet
 hatr:|hatre|||ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara|danger (peril; dangerous, perilous)|danger|peligro (peligroso)|perigo|опасность|خطر‎|危险|危険|위험|nguy hiểm|जोखिम (ख़तरा)|বিপদ|bahaya|hatari|tehlike (muhatara)|danĝero|vaara (vaarallinen)|zagrożenie (niebezpieczeństwo; niebezpieczny)
@@ -2321,7 +2322,7 @@ man:|man|||eng:man, deu:Mann, hin:मानुस (mānus), ben:মানুষ 
 man:i put:|mani pute||||son||hijo||||||||||||||poika|syn
 man:i reg.r:|mani reger||||king||rey|||||王様|||||||||kuningas|król
 manet:|manete|||eng:magnet, fra:magnétique, spa:magnete, rus:магнит (magnit), tur:mıknatıs, ara:مَغْنَاطِيس‎ (maḡnāṭīs), may:maknit|magnet||imán|||||||||||sumaku|||magneetti|magnes
-manet:i|manete||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
+manet.ik:|• manetike||||magnetic||magnético||||||||||||||magneettinen|magnetyczny
 mangan:|mangan|kimium 025|Mn|eng:manganese, fra:manganèse, spa:manganeso, por:manganésio, rus:марганец, zho:锰 (měng), jpn:マンガン, kor:망가니즈, vie:mangan, hin:मैंगनीज, ben:ম্যাঙ্গানিজ, may:manggan, swa:manganisi, ara: منجنيز|manganese|manganèse|manganeso|manganésio|марганец|منجنيز|锰|マンガン|망간|mangan|मैंगनीज|ম্যাঙ্গানিজ|manggan|manganisi|mangan|mangano|mangaani|mangan
 mango:|mango|biu||mal:മാങ്ങ (māṅṅa), eng:spa:tur:mango, por:manga, rus:манго (mango), may:mangga, jpn:マンゴー (mangō), kor:망고 (manggo)|mango||mango||||||||||||||mango|mango
 mangus:|mangus|biu|Garcinia mangostana||mangosteen||mangostán (jobo de la India)||||||||||||||mangostani|mangostan
@@ -2333,13 +2334,12 @@ manir:|manir|||fra:manière, eng:manner, rus:манера (manyera), jpn:マナ�
 manir:a|manire||||behave (act)||comportarse (portarse)||||||||||||||käyttäytyä|zachowywać się (działać)
 mans:|manse|||hin:मांस (māns), urd:(māns), ben:মাংস (maŋs), tel:(māṃsamu), rus:мясо (myaso), pol:mięso|meat (flesh)|viande|carne|carne|мясо||肉|肉|고기|thịt|मांस|মাংস|daging|nyama|et|viando|liha|mięso
 mant:|mante|||hin:मंत्री (mantrī), ben:মন্ত্রী (môntri), may:menteri, por:mandarim, eng:fra:spa:mandarin, rus:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), jpn:メンター (mentā), kor:멘토 (mento)|public office||||||||||||||||virka (virka-asema)|urząd, pozycja, stanowisko, funkcja
-mant:i|• manti||||official (pertaining to public trust)||oficial||||||||||||||virallinen|oficjalny
+mant.ik:|• mantike||||official (pertaining to public trust)||oficial||||||||||||||virallinen|oficjalny
 mant.r:|• manter||||public officer (mandarin, minister)||ministro||||||||||menteri|||ministro|neuvonantaja (ministeri, mentori)|minister
-mant.r:ia|• manteria||||ministry||ministerio||||||||||||||ministeriö|ministry
-mantol:|mantol|||eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel|cape (cloak, mantle)|cape|capa (manto)|capa|плащ (накидка)||斗篷|マント (ケープ)||||||||||peleryna (płaszcz, opończa)
-mantr:|mantre|||eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)|mantra|mantra|mantra|mantra|мантра||||||मंत्र|মন্ত্র|mantra (mantera)||||mantra|
-mantr:a|mantre||||chant||salmodiar||||||||||||||messuta|
-mantu:|mantu|||tur:mantı, rus:манты (manty), kor:만두 (mandu), zho:馒头 (mántóu), fas:urd:(mantu)|steamed bun (mantou, manti)||panecillos al vapor (mantou)||||||||||||||täytetty pulla|bułka gotowana na parze
+mant.r:ia|• manteria||||ministry (office, bureau)||ministerio||||||||||||||ministeriö|ministry
+manto:|manto|||eng:mantle, spa:manto, fra:manteau, rus:манто (manto), jpn:マント (manto), kor:망토 (mangto), may:mantel|cape (cloak, mantle)|cape|capa (manto)|capa|плащ (накидка)||斗篷|マント (ケープ)||||||||||peleryna (płaszcz, opończa)
+mantr:|mantra|||eng:fra:spa:por:may:mantra, rus:мантра (mantra), hin:मंत्र (mantra), ben:মন্ত্র (môntr)|mantra (chant)|mantra|mantra (salmodiar)|mantra|мантра||||||मंत्र|মন্ত্র|mantra (mantera)||||mantra (messuta)|
+mantu:|mantu|||rus:манты (manty), zho:馒头 (mántóu), jpn;饅頭 (manjū), kor:만두 (mandu), fas:urd: منتو‎ (mantu), tur:mantı|steamed bun (mantou, manti)||panecillos al vapor (mantou)||||||||||||||täytetty pulla|bułka gotowana na parze
 mar:|mar|||ara: مرة (marra), swa:mara, hin:बार (bār), fas:urd: بار‎(bār), deu:Mal|time (instance, occasion)|fois|vez|vez|раз|مرة|次 (度, 遍)|回 (次, 度)|회 (번, 차)|lần|बार (दफ़ा)|||mara|kere (defa)|fojo|kerta (vuoro)|czas; okazja
 mar<poli:ia|• polimaria||||frequency||frecuencia||||||||||||||taajuus (tiheys)|częstotliwość
 marat:i|marate|nas|||Marathi||maratí||||||||||||||marathi (eräs intialainen kieli)|marathi
@@ -2349,8 +2349,7 @@ margai:|margai|biu|Leopardus wiedii|eng:margay, spa:maracayá, por:maracajá, ru
 margarin:|margarin|||eng:fra:margarine, spa:por:margarina, rus:маргари́н (margarín), tur:margarin, hin:मार्जरीन (mārjarīn), may:marjerin, zho:麦淇淋 (màiqílín), jpn:マーガリン (māgarin)|margarine||margarina|||||||||||||margarino|margariini|margaryna
 margarit:|margarite|biu||spa:por:margarita, fra:marguerite, deu:Margerite, rus:маргаритка (margaritka)|daisy||margarita|margarida|маргаритка|||||||||||||stokrotka
 marian: nes:ia|Marian nesia|gogia|MP||Northern Mariana Islands||Islas Marianas|||||||||||||||Mariany Północne
-mark:|marke|||eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|mark (trace)|trace|marca (huella, mancha)|mancha (marca)|||||||||||||merkki (jälki)|znak, trop
-mark:a|marke||||mark (leave a mark)||marcar||||||||||||||merkitä (jättää jälki)|zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad
+mark:|marke|||eng:mark, spa:por:marca, fra:marque, kor:마크 (makeu), jpn:マーク (māku)|mark (trace)|trace|marcar (marca, huella, mancha)|mancha (marca)|||||||||||||merkitä (jättää jälki; merkki, jälki)|znak (trop; zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad)
 mars:|Marse|planete 4||eng:fra:tur:may:Mars, spa:por:Marte, rus:Марс (Mars)|Mars|Mars|Marte|Marte|Марс|المريخ|||||||||Mars||Mars|Mars
 martinluter.ism:|martinluterisme||||Lutheranism|luthéranisme|luteranismo|luteranismo|лютера́нство||||||||||||luterilaisuus|luteranizm
 martinluter.ist:i|martinluteriste||||Lutheran|luthérien|luterano|luterano|лютеранский||||||||||||luterilainen|luterański
@@ -2358,10 +2357,9 @@ marxal: nes:ia|Marxal nesia|gogia|MH||Marshall Islands||Islas Marshall||||||||||
 mas:|mas|||eng:mass, deu:fra:masse, spa:masa, por:may:massa, rus:масса (massa)|mass (quantity of matter)|masse|masa (trozo, pedazo)|massa|масса|كتلة|质量|質量|질량|khối lượng|द्रव्यमान||massa||kütle|maso|massa|masa
 mas.mul:|masmul||||tuber (bulb)|tubercule|tubérculo|tubérculo|клубень|||芋 (塊茎)||||||||||bulwa
 mas.mul.sol.ful:|masmulsolful|biu|Helianthus tuberosus||Jerusalem artichoke (sunroot)|topinambour|tupinambo (pataca, alcachofa de Jerusalén)|alcachofra-girassol (tupinambo)|топинамбу́р||菊芋|キクイモ||||||||||topinambur
-masaj:|masaje|||eng:fra:massage, spa:masaje, por:massagem, rus:масса́ж (massáž), tur:masaj, ara:مَسَاج‎ (masāj), fas:ماساژ‎ (mâsâž), ben:ম্যাসেজ (mjaśej), zho:马杀鸡 (mǎshājī), jpn:マッサージ (massāji)|massage||masaje||||||||||||||hieronta|masaż
-masaj:a|masaje||||knead (massage)||amasar (masajear)||||||||||||||vaivata (hieroa)|
+masaj:|masaje|||eng:fra:massage, spa:masaje, por:massagem, rus:массаж (massaž), tur:masaj, ara:مَسَاج‎ (masāj), fas:ماساژ‎ (mâsâž), ben:ম্যাসেজ (myaśej), zho:马杀鸡 (mǎshājī), jpn:マッサージ (massāji)|massage (knead, give a massage)||masaje (amasar, masajear)||||||||||||||hieroa (vaivata; hieronta)|masaż
 masal:|masale|||hin:मसाला (masālā), urd:(masālā), ben:মসলা (môsla), swa:masala|spice (seasoning)|épices|especia|tempero|пряность|بَهَار|香料|香辛料|향신료|gia vị|मसाला|মসলা|bumbu|kiungo|baharat|spico|mauste|przyprawa
-masal:i tik:|masali tike||||tikka masala||tikka masala||||||||||||||tikka masala|tikka masala
+masal~ tik:|masale tike||||tikka masala||tikka masala||||||||||||||tikka masala|tikka masala
 mask:|maske|||eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske|mask (camouflage)|masque|máscara|máscara|маска|||仮面 (マスク)|가면  (마스크)||मास्क||topeng (masker)|barakoa|maske|masko|naamio (maski)|maska, kamuflaż
 mast:|maste|||eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil|mast|mât|mástil|mastro|мачта||桅||||मस्तूल||||direk|masto|masto (salko)|maszt
 mast.r|master|akadem.||eng:fra:master, por:mestre, rus:магистр (magistr), may:magister|master (master’s degree)|diplôme de master||mestre|магистр|||||||||||magistro|maisteri (tutkinto)|magister
@@ -2398,17 +2396,14 @@ max~rai:|maxorai||||overestimate|surestimer|sobrestimar|superestimar (sobrestima
 maxin:|maxin|||fra: machine, eng: machine, deu: Maschine, may: mesin|machine||máquina|||||||||||||maŝino|kone|maszyna
 maz:|maze|||hin:मोज़ा (mozā), ben:মোজা (moja), urd: موزا‎ (mozā) + zho:袜子 (wàzi), wuu:袜子 (ma’zi), yue:襪 (mat6), kor:말 (mal)|sock (stocking)||calcetín|meia|носок|جَوْرَب‎|袜子|靴下 (ソックス)|양말||मोज़ा|মোজা|kaus kaki (sarung kaki)|soksi|corap|ŝtrumpo|sukka|skarpeta, skarpetka, pończocha
 me:|me|modive||eng:meh|meh|bof||nhé|||||||||||||ääh (plääh)|
-med:|mede|||ara:fas:urd: مَدَد‎ (madad), hin:मदद (madad), ben:মদদ (môdôd) + fra:m’aidez, eng:mayday, rus:мэдэ (mede), jpn:メーデー (mēdē), kor:메이데이 (meidei)|help (aid, assist)||ayudar (asistar; ayuda, asistencia)||||帮助|手伝う (助ける)||||||||helpo|apu (auttaa, avustaa)|pomóc (pomagać, asystować; pomoc, wsparcie)
-med:u|medu||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
+med:|mede|||ara: مَدَد‎ (madad), fas: مدد (madad), hin:मदद (madad), ben:মদদ (môdôd), tel:మద్దతు (maddatu) + fra:aider, eng:aid + rus:мэдэ (mede), jpn:メーデー (mēdē), kor:메이데이 (meidei)|help (aid)||ayudar (asistar; ayuda, asistencia)||||帮助|手伝う (助ける)||||||||helpo|apu (auttaa)|pomóc (pomagać, asystować; pomoc, wsparcie)
+med.iz:|• medize||||assist (provide help)||||||||||||||||avustaa (antaa apua)|
+med.r:|• meder||||helper (aid)||||||||||||||||apuri (auttaja)|
 medal:|medal|||eng:medal, spa:medalla, por:medalha, fra:médaille, rus:меда́ль (medálʹ), hin:मेडल (meḍal), ben:মেডেল (meḍel), tur:madalya, jpn:メダル (medaru)|medallion (medal)||medallón||||||||||||||mitali|medalion, medal
 meden:|meden|||ara: مَيْدَان‎ (maydān), fas:(meydan), hin:मैदान (maidān), ben:ময়দান (moidan), tur:meydan, swa:medani, rus:майдан (maydan) + zho:田 (tián), jpn:田 (den), kor:전 (jeon), vie:điền|field (square, plaza, maidan)|place|plaza|praça|площадь (сквер, майдан)|مَيْدَان‎|广场|広場|광장|quảng trường|मैदान|ময়দান||medani (uwazi)|meydan||kenttä (aukio)|skwer, plac
 meden:i|medene||||open (wide, spacious)||abierto (extenso)||||||||||||||avara (aava, aukea)|otwarty (przestrzenny)
 meden.fob:ia|medenfobia||||agoraphobia||agorafobia||||||||||||||agorafobia (avaran paikan kammo)|agorafobia
 meden.papil:|medenpapil|biu|Papaver rhoeas||corn poppy|coquelicot|amapola silvestre|papoila|мак самосейка||虞美人 (雛罌粟)|ヒナゲシ||||||||||mak polny
-medik:a|medike|||eng:medicine, spa:medicina, por:medicamento, fra:médicament, rus:медикамент (medikament)|heal (cure, remedy)||curar (sanar)||лечить|||||||||||sanigi (kuraci)|hoitaa (lääkitä)|uleczyć, leczyć, uzdrowić, uzdrawiać
-medik:ia|medikia||||medicine (field of study)||medicina||||||||||||||lääketiede|medycyna
-medik.r:|mediker||||doctor (medic, physician, healer)||doctor (médico)||врач (медик, лекарь, доктор)|||医者||||||||kuracisto|lääkäri (tohtori)|doktor, lekarz, uzdrowiciel
-medik.sui:|medikosui||||potion|pocion|poción||зелье||药水|ポーション (水薬)||||||||||eliksir (magiczny napój)
 medit:a|medite|||eng:meditate, spa:meditar, fra:méditer, rus:медитировать (meditirovatʹ)|meditate (ponder)||meditar (reflexionar)||||||||||||||pohtia (meditoida)|medytować; dumać, rozmyślać, zastanawiać się
 mega:|mega|numbe||eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)|million (mega-)||millón (mega-)||||百万 (兆)|１００万 (メガ)||||||||miliono|miljoona (mega-)|milion
 mega.gram:|megagram|unomete|t, Mg||tonne (metric ton)||tonelada||||||||||||||tonni (1000 kg)|tona
@@ -3445,6 +3440,7 @@ sal;|sal|||ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সা
 sal:|sale||||healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|zdrowy
 sal.es:|• sales||||health (state of wellbeing)|santé|sanidad||||||||||||||terveys (hyvinvointi)|zdrowie
 sal.ud:|• salude||||health (condition, level of health)|santé|salud|saúde|||健康|健康||||||siha||saneco|terveys (kunto)|
+sal<re:|• resale||||recover||||||||||||||||parantaa (parantua)|
 sal~ cut:|sal cute||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
 sal~ den:|sal den||||good day||buenas tardes|||||||||||||Bonan tagon|päivää!|dzień dobry
 sal~ lai:|sal lai||||welcome!||bienvenido|||||||||||||bonvenon!|tervetuloa!|witaj, dobre przybycie
@@ -3894,6 +3890,13 @@ text<inter:|• intertexte||||intertextual||||||||||||||||intertekstuaalinen|
 text<kon:|• kontexte||||context||||||||||||||||konteksti (asiayhteys)|
 text<kon:i|• kontexti||||contextual||||||||||||||||kontekstuaalinen|
 tez:|teze|||eng:thesis, fra:thèse, spa:tesis, por:tese, rus:тезис (tezis), fas: تز‎ (tez), tur:tez, jpn:テーゼ (tēze), kor:테제 (teje)|claim (thesis, statement)||tesis|tese|тезис (положение)||论题 |論題  (テーゼ)|论题 (테제)|luận đề|||||||väittää (väite, teesi)|dyskutovać (twierdzić; argument, teza)
+tib:|tibe|||ara: طِبّ‎ (ṭibb), fas: طب‎ (tebb), hin:तिब्ब (tibb), ben:তবীব (tôbīb), tur:tıp, swa:tiba; tibu|heal (cure, remedy)||curar (sanar)||лечить|||||||||kutibu (tiba)||sanigi (kuraci)|hoitaa (lääkitä)|uleczyć, leczyć, uzdrowić, uzdrawiać
+tib.aj:|• tibaje||||medicine (drug, medication)|médicament (remède)|medicamento (medicina, remedio, fármaco)|remédio (medicamento)|лекарство|دَوَاء‎|药物|薬 (医薬品)|||औषधि (दवा, दारू)||obat|dawa|ilaç (deva)||lääke|
+tib.ik:|• tibike||||medical||||||||||||||||lääke-|
+tib.iu:|• tibive||||healing||||||||||||||||parantava|
+tib.loj:ia|• tibolojia||||medicine (field of study)||medicina||||||||||||||lääketiede|medycyna
+tib.r:|• tiber||||doctor (physician, healer)||doctor (médico)||врач (медик, лекарь, доктор)|طَبِيب‎|医生 (大夫)|医者|의사||डाक्टर (वैद्य, हकीम, तबीब)|তবীব (ডাক্তার)|dokter|mganga (daktari, tabibu)|hekim (doktor, tabip)|kuracisto|lääkäri (tohtori)|doktor, lekarz, uzdrowiciel
+tib~sui:|tibesui||||potion|pocion|poción||зелье||药水|ポーション (水薬)||||||||||eliksir (magiczny napój)
 ticin:|ticin|||zho:提琴 (tíqín), yue:提琴 (tai4 kam4), uu:提琴 (di jin3), jpn:提琴 (teikin)|bow instrument (violin, etc.)||instrumento de arco||||||||||||||jousisoitin|chordofon, instrument strunowy
 tik:|tike|||fas: تکه (tekke), hin:टिक्का (ṭikkā) + eng:deu:ticket, may:tiket, ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|slice||||||||||||||||suikale (siivu)|
 tik.et:|• tikete||||ticket (slip)|billet|boleto|bilhete|билет||票||||टिकट||tiket||bilet||lippu (lappu, piletti)|bilet
@@ -4402,7 +4405,7 @@ zira:|zira|biu|Cuminum cyminum|ben:জিরা (zīra), hin:ज़ीरा (z�
 zirkon:|zirkon||||zircon||circón||циркон|||||||||||||
 zirkon.ium:|zirkonium|kimium 040|Zr|eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم|zirconium|zirconium|circonio|zircónio|цирконий|زيركونيوم|锆|ジルコニウム|지르코늄|ziriconi|जर्कोनियम|জিরকোনিয়াম|zirkonium|zirikoni|zirkonyum|zirkonio|zirkonium|cyrkon
 ziz:a|zize|||zho:zizi eng:sizzle|sizzle||chisporrotear||||||||||||||sihistä|skwierczeć
-zo:|zoe|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-)|animal|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
+zo:|zoe|||eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-) + zho:兽 (shòu)|animal (beast)|animal (bête)|animal (bestia)|animal (besta, bicho)|животное||动物|動物|동물|thú vật (động vật)|जानवर (हैवान)|জানোয়ার|kewan|mnyama|hayvan|besto|eläin|animal
 zo.fil:ia|• zoofilia||||zoophily||||||||||||||||eläinrakkaus|
 zo.ge.graf:ia|• zoogeografia||||zoogeography||||||||||||||||eläinmaantiede|
 zo.loj:ia|• zoolojia||||zoology|zoologie|zoología|zoologia|зоология|عِلْم اَلْحَيَوَان|动物学|動物学|동물학|động vật học|प्राणि विज्ञान|প্রাণিবিজ্ঞান|zoologi (kaji haiwan)||zooloji|zoologio|eläintiede (zoologia)|zoologia
@@ -4410,6 +4413,7 @@ zo.loj.ik:|• zoolojike||||zoological|zoologique|zoológico|zoológico|зоол
 zo~agr:ia|zoagria||||animal husbandry|élevage||||||畜産|||||||||karjanhoito|hodowla zwierząt
 zo~park:|zooparke||||zoo (zoological garden)|zoo|zoo|zoológico|зоопарк||动物园|動物園|동물원|thảo cầm viên|चिड़ियाघर|চিড়িয়াখানা|kebun binatang|bustani ya wanyama|hayvanat bahçesi|zoo (bestoĝardeno)|eläintarha|zoo (ogród zoologiczny)
 zo~sikl:|zoosikle||||zodiac|zodiaque|zodíaco|zodíaco|зодиак||黄道带|黄道帯|황도대||राशिचक्र||zodiak|||zodiako|eläinrata|zodiak
+zo~tib.r:|zootiber||||veterinarian|vétérinaire|veterinario|veterinário|ветерина́р|طَبِيب بَيْطَرِيّ|兽医|獣医|수의사||||dokter hewan|mganga wa wanyama|veteriner (baytar)|bestkuracisto|eläinlääkäri|weterynarz
 zo~tox:|zootoxe||||zootoxin||||||||||||||||eläinmyrkky (zootoksiini)|
 zombi:|zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
 zon:|zone|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa

@@ -45,6 +45,7 @@ a korte - pian
 a le - siellä (tuolla)  
 a long - pitkästi (kauas)  
 a longe dure - kauan (pitkän aikaa)  
+a mide - välissä  
 a misal - esimerkiksi  
 a neu - äsken (vasta, juuri)  
 a proxe - lähes (melkein)  
@@ -620,7 +621,7 @@ dante - hammas
 • danta - purra  
 dantobrox - hammasharja  
 dantokume - hammasvalli  
-dantomediker - hammaslääkäri  
+dantotiber - hammaslääkäri  
 dare - virta (virtaus)  
 darotube - lappo  
 darge - porras (aste, taso)  
@@ -2087,7 +2088,7 @@ man - uros (mies)
 mani pute - poika  
 mani reger - kuningas  
 manete - magneetti  
-manete - magneettinen  
+• manetike - magneettinen  
 mangan - mangaani  
 mango - mango  
 mangus - mangostani  
@@ -2099,11 +2100,10 @@ manir - käytös (käyttäytyminen, tapa, tavat)
 manire - käyttäytyä  
 manse - liha  
 mante - virka (virka-asema)  
-• manti - virallinen  
+• mantike - virallinen  
 • manter - neuvonantaja (ministeri, mentori)  
 • manteria - ministeriö  
-mantre - mantra  
-mantre - messuta  
+mantra - mantra (messuta)  
 mantu - täytetty pulla  
 mar - kerta (vuoro)  
 • polimaria - taajuus (tiheys)  
@@ -2111,17 +2111,15 @@ marate - marathi (eräs intialainen kieli)
 maraton - maratoni  
 marce - kävellä (kävely, marssi)  
 margarin - margariini  
-marke - merkki (jälki)  
-marke - merkitä (jättää jälki)  
+marke - merkitä (jättää jälki; merkki, jälki)  
 Marse - Mars  
 martinluterisme - luterilaisuus  
 martinluteriste - luterilainen  
 Marxal nesia - Marshall-saaret  
 mas - massa  
-masaje - hieronta  
-masaje - vaivata (hieroa)  
+masaje - hieroa (vaivata; hieronta)  
 masale - mauste  
-masali tike - tikka masala  
+masale tike - tikka masala  
 maske - naamio (maski)  
 maste - masto (salko)  
 master - maisteri (tutkinto)  
@@ -2148,15 +2146,13 @@ maxorai - yliarvioida
 maxin - kone  
 maze - sukka  
 me - ääh (plääh)  
-mede - apu (auttaa, avustaa)  
-medu - välissä  
+mede - apu (auttaa)  
+• medize - avustaa (antaa apua)  
+• meder - apuri (auttaja)  
 medal - mitali  
 meden - kenttä (aukio)  
 medene - avara (aava, aukea)  
 medenfobia - agorafobia (avaran paikan kammo)  
-medike - hoitaa (lääkitä)  
-medikia - lääketiede  
-mediker - lääkäri (tohtori)  
 medite - pohtia (meditoida)  
 megagram - tonni (1000 kg)  
 megavate - megawatti (MW)  
@@ -3037,6 +3033,7 @@ sal - terve (hei)
 sale - terve  
 • sales - terveys (hyvinvointi)  
 • salude - terveys (kunto)  
+• resale - parantaa (parantua)  
 sal cute - hyvää matkaa  
 sal den - päivää!  
 sal lai - tervetuloa!  
@@ -3416,6 +3413,12 @@ texte - teksti
 • kontexte - konteksti (asiayhteys)  
 • kontexti - kontekstuaalinen  
 teze - väittää (väite, teesi)  
+tibe - hoitaa (lääkitä)  
+• tibaje - lääke  
+• tibike - lääke-  
+• tibive - parantava  
+• tibolojia - lääketiede  
+• tiber - lääkäri (tohtori)  
 ticin - jousisoitin  
 tike - suikale (siivu)  
 • tikete - lippu (lappu, piletti)  
@@ -3874,6 +3877,7 @@ zoe - eläin
 zoagria - karjanhoito  
 zooparke - eläintarha  
 zoosikle - eläinrata  
+zootiber - eläinlääkäri  
 zootoxe - eläinmyrkky (zootoksiini)  
 zombi - zombi  
 zone - vyö  

@@ -247,7 +247,7 @@ canhǎo - daipau
 canivete - jebocaku  
 canoa - kano  
 Cantalupo in Sabina - Kantalupo va Sabine  
-capa - mantol  
+capa - manto  
 capa de chuva - barsokote  
 carbono - karbe  
 cardo - kardon  
@@ -918,7 +918,7 @@ manga - kamisi xake
 manganésio - mangan  
 maniqueísmo - maniisme  
 manto - juba  
-mantra - mantre  
+mantra - mantra  
 mar - hai  
 maravilha - ajibe  
 maravilha - ajibable  
@@ -1347,6 +1347,7 @@ relato - reporte
 religião - din  
 relógio - horloger  
 remover - kitane  
+remédio (medicamento) - tibaje  
 reparador - riboner  
 reparar - ribone  
 reparar - repare  
@@ -1623,6 +1624,7 @@ vermute - vermute
 verruga - veruke  
 verão - garmomosim  
 vestir - fuke  
+veterinário - zootiber  
 vez - mar  
 vice-rei - visereger  
 vida - jive  

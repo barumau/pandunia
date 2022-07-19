@@ -124,7 +124,7 @@ American Samoa - Amerikan Samoa
 americium - amerikium  
 Amerindian (Native American) - aslamerike  
 Amhara (an Ethiopian ethnic group and language) - Amare  
-among (amid, between) - medu  
+among (amid, between) - a mide  
 amount (quantity) - polia  
 ampere (amp) - amper  
 amplify (scale) - daidarge  
@@ -145,7 +145,7 @@ anglophile - englofiliste
 anglophone (English speking) - englofone  
 Angola - Angola  
 angry (furious) - fure  
-animal - zoe  
+animal (beast) - zoe  
 animal husbandry - zoagria  
 animate (animation, cartoon) - anime  
 anise - anis  
@@ -234,6 +234,7 @@ asparagus - asparge
 aspect (viewpoint) - aspete  
 aspirin - aspirin  
 assign (ascribe, attribute) - asine  
+assist (provide help) - medize  
 associate (association, league) - lige  
 Assur - Axur  
 Assyria - Axuria  
@@ -606,7 +607,7 @@ cantaloupe - kantalupomelon
 Cantalupo in Sabina - Kantalupo va Sabine  
 canter and gallop - galope  
 canyon (ravine, gorge, gully) - kanyon  
-cape (cloak, mantle) - mantol  
+cape (cloak, mantle) - manto  
 capsule - kasule  
 captain - nauxefe  
 capture (seizure) - cepure  
@@ -674,7 +675,6 @@ champion - campion
 change (alter, convert) - mute  
 channel (canal) - kanal  
 channel (conduct) - kanale  
-chant - mantre  
 chaos (disorder, turmoil) - haos  
 chapter (section) - babu  
 chard - selge  
@@ -1075,7 +1075,7 @@ demon - demon
 demonstrative pronoun - dikive pronam  
 Denmark - Dania  
 denounce (announce the termination of) - denunce  
-dentist - dantomediker  
+dentist - dantotiber  
 deny (refuse, turn away) - denege  
 departure - departure  
 depress (push away) - deprese  
@@ -1143,7 +1143,7 @@ do (make) - fe
 do (make; deed, fact) - fete  
 do again (repeat, iterate) - rifete  
 docent - dokente  
-doctor (medic, physician, healer) - mediker  
+doctor (physician, healer) - tiber  
 doctor (scholar who has attained doctorate) - dotor  
 doctor - doker  
 doctorate - dotoria  
@@ -1790,7 +1790,8 @@ he or she or it - ya
 head - sar  
 headache - sarotunge  
 headmaster (principal) - xuloxefe  
-heal (cure, remedy) - medike  
+heal (cure, remedy) - tibe  
+healing - tibive  
 health (condition, level of health) - salude  
 health (state of wellbeing) - sales  
 healthy - sale  
@@ -1807,7 +1808,8 @@ hell - narake
 hello (hi) - halo  
 hello (hi) - sal  
 helmet - sarokaske  
-help (aid, assist) - mede  
+help (aid) - mede  
+helper (aid) - meder  
 Helsinki - Helsinki  
 hemoglobin - hemoglobin  
 hemophobia - hemofobia  
@@ -2141,7 +2143,6 @@ Kiribati - Kiribati
 kiss - cum  
 kitchen - kukokamar  
 kiwi fruit - kivi  
-knead (massage) - masaje  
 knee - gute  
 knife - caku  
 know (be acquainted or familiar with) - nose  
@@ -2345,7 +2346,7 @@ magician (sorcerer) - mager
 magma - pastopetre  
 magnesium - magesium  
 magnet - manete  
-magnetic - manete  
+magnetic - manetike  
 mahjong - majang  
 mail (send by mail) - poste  
 mail - postaje  
@@ -2380,7 +2381,7 @@ mango - mango
 mangosteen - mangus  
 Manichaeism - maniisme  
 mankind (humanity) - humania  
-mantra - mantre  
+mantra (chant) - mantra  
 manual - hande  
 many (much) - multe  
 many (much, more than one; poly-, multi-) - poli  
@@ -2392,7 +2393,6 @@ March - lun tri
 margarine - margarin  
 margay - margai  
 maritime - hayike  
-mark (leave a mark) - marke  
 mark (trace) - marke  
 market (bazaar) - bazar  
 market liberalism - bazarhurisme  
@@ -2406,7 +2406,7 @@ marvel (wonder; amaze, astonish) - ajibe
 mask (camouflage) - maske  
 mason (stonemason, stonecutter) - itojanger  
 mass (quantity of matter) - mas  
-massage - masaje  
+massage (knead, give a massage) - masaje  
 mast - maste  
 master (be an expert at sth) - meste  
 master (expert) - mester  
@@ -2444,7 +2444,9 @@ measure (measurement) - metre
 meat (flesh) - manse  
 Mecca - Maka  
 medallion (medal) - medal  
-medicine (field of study) - medikia  
+medical - tibike  
+medicine (drug, medication) - tibaje  
+medicine (field of study) - tibolojia  
 meditate (ponder) - medite  
 Mediterranean - Geomede Hai  
 medium (intermediate, mean) - midi  
@@ -2508,7 +2510,7 @@ mineral water - kuangosui
 mineshaft - kuangotunel  
 minimalism - minimisme  
 minimize - minimife  
-ministry - manteria  
+ministry (office, bureau) - manteria  
 minor (not major) - minure  
 minority - minuria  
 mint - minte  
@@ -2775,7 +2777,7 @@ office (position) - ofis
 office (room) - ofiskan  
 officer - ofiser  
 official (formal, bureaucratic) - bure di  
-official (pertaining to public trust) - manti  
+official (pertaining to public trust) - mantike  
 official - ofise  
 often (frequently) - poli mar  
 ogre (troll, goblin) - gui  
@@ -3134,7 +3136,7 @@ posture (asana) - asan
 pot (vase, bin, jar, jug, pitcher, carafe, amphora) - pote  
 potassium - kalium  
 potato - patate  
-potion - medikosui  
+potion - tibesui  
 potter - poter  
 pottery - poteria  
 pound (£) - paunde  
@@ -3318,6 +3320,7 @@ recession - recesion
 recharge (reload) - rikarge  
 recognize (associate with) - konnose  
 recognize (remember) - rinose  
+recover - resale  
 recur (go again) - rikurse  
 recycle - risikle  
 red - lale  
@@ -4025,7 +4028,7 @@ ticket (slip) - tikete
 tie (make knot; knot, node) - node  
 tiger - bagre  
 tight (tense; tighten) - tense  
-tikka masala - masali tike  
+tikka masala - masale tike  
 tile - tail  
 tilt (skew) - terce  
 time (age, period, era, epoch, term) - zaman  
@@ -4245,6 +4248,7 @@ verify (realize) - verife
 vermouth - vermute  
 version (variation, edition) - version  
 vertical - gautale  
+veterinarian - zootiber  
 vice (deputy, substitute, replacement) - vise  
 vice-president - visepresidante  
 vice-president - visepresidente  

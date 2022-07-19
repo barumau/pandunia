@@ -336,7 +336,7 @@ canon - daipau
 canoë - kano  
 Cantalupo in Sabina - Kantalupo va Sabine  
 canyon (ravin) - kanyon  
-cape - mantol  
+cape - manto  
 capsule - kasule  
 carapace (coquille, coquillage, croûte) - kaske  
 Caraïbes - Karibia  
@@ -1040,7 +1040,7 @@ mandarine - lalorange
 mandarine satsuma - venzovorange  
 manganèse - mangan  
 manichéisme - maniisme  
-mantra - mantre  
+mantra - mantra  
 marbre - kalsokristal  
 marche - marce  
 marché (bazar) - bazar  
@@ -1130,6 +1130,7 @@ mât - maste
 mère (maman) - mai  
 mère - matre  
 mètre - mitre  
+médicament (remède) - tibaje  
 méduse - haigele  
 méfait (péché) - dusate  
 méfait (péché) - duskar  
@@ -1363,7 +1364,7 @@ plume - kalam
 plurilingue (multilingue) - polibaxike  
 plus - max  
 plutonium - plutonium  
-pocion - medikosui  
+pocion - tibesui  
 podzol - huidarte  
 poids (lourdeur, gravité) - vezia  
 poireau - porei  
@@ -1866,6 +1867,7 @@ vraiment - a vere
 vulve - vulve  
 végétarien - fitoyamiste  
 Vénus - Venus  
+vétérinaire - zootiber  
 vêtements - fuke  
 wolof - Volof  
 

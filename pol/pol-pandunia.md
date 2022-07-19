@@ -443,7 +443,7 @@ demokrata - demokratiste
 Demokratyczna Republika Konga - Kinsasa Kongo  
 demokratyczny - demokrate  
 demon - demon  
-dentysta - dantomediker  
+dentysta - dantotiber  
 deska - mokoban  
 deszcz (padać, lać) - barse  
 detal, szczegół - detal  
@@ -461,7 +461,7 @@ dobry wieczór - sal xam
 dodatkowy - maxbone  
 dodatkowy - maxaje  
 doktor (uczony, który osiągnął doktorat) - dotor  
-doktor, lekarz, uzdrowiciel - mediker  
+doktor, lekarz, uzdrowiciel - tiber  
 doktorat - dotoria  
 dokument - dokum  
 dokument - papir  
@@ -584,7 +584,7 @@ elektronika - eletrolojia
 elektryczność - eletre  
 elektryczny - eletre  
 elektryczny - eletrike  
-eliksir (magiczny napój) - medikosui  
+eliksir (magiczny napój) - tibesui  
 emir - amirer  
 emirat - amiria  
 emocja, uczucie - emotion  
@@ -1384,7 +1384,7 @@ magik, czarownik - mager
 magister - master  
 magma - pastopetre  
 magnes - manete  
-magnetyczny - manete  
+magnetyczny - manetike  
 magnez - magesium  
 maj - lun du  
 Majotta - Mayote  
@@ -1454,7 +1454,7 @@ medalion, medal - medal
 media - midia  
 media społecznościowe - soce media  
 meduza - haigele  
-medycyna - medikia  
+medycyna - tibolojia  
 medytować; dumać, rozmyślać, zastanawiać się - medite  
 megawat - megavate  
 meitner - maitnerium  
@@ -1517,7 +1517,7 @@ mistrz (sensei) - xenseng
 mit, boska opowieść - deusage  
 miód - madu  
 mięczak (morski bezkręgowiec) - moluske  
-między (wśród, pośród) - medu  
+między (wśród, pośród) - a mide  
 międzyetniczny - zukomede  
 międzynarodowy - nasomede  
 międzyrasowy - rasomede  
@@ -1802,7 +1802,7 @@ Odwarzny ( - brave
 odwiedzić, odwiedzać - kege  
 oficer policji, policjant - poliser  
 oficjalny - ofise  
-oficjalny - manti  
+oficjalny - mantike  
 ogień - hoge  
 ognisty - hoge  
 ogon - vei  
@@ -1944,7 +1944,7 @@ październik - lun cete
 pchnąć, pchać - pulse  
 pedał - pedal  
 Pekin - Beijing  
-peleryna (płaszcz, opończa) - mantol  
+peleryna (płaszcz, opończa) - manto  
 pendżabski - panjabe  
 penis - penis  
 perfekcyjny - purbone  
@@ -2850,7 +2850,7 @@ terroryzm - terurisme
 Terytorium Palestyńskie - Filistin  
 tesla (T) - tesla  
 test, wyzwanie, próba - teste  
-tikka masala - masali tike  
+tikka masala - masale tike  
 Timor - Timor  
 Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dongi Timor  
 tkanina (materiał, sukno) - texe  
@@ -2956,7 +2956,7 @@ ukwiał - haiful
 układ słoneczny - solosistem  
 ul (gniazdo pszczół lub os) - vesponide  
 ul - maduvesposanduke  
-uleczyć, leczyć, uzdrowić, uzdrawiać - medike  
+uleczyć, leczyć, uzdrowić, uzdrawiać - tibe  
 ulubiony - profilaje  
 umiejętność (kompetencja) - xute  
 umiejętny (sprawny, zręczny) - zange  
@@ -3037,6 +3037,7 @@ wermut - vermute
 wersja (wariacja, edycja, wydanie) - version  
 wesoły, ucieszony - suke  
 wesprzeć (wzmocnić, zasilić) - maxobale  
+weterynarz - zootiber  
 wewnętrzny - ingene  
 wewnętrzny - inike  
 wewnętrzny - innate  
@@ -3290,7 +3291,6 @@ zawierać - intene
 zawijać (zawinąć; owinięcie, koperta, okładka) - lifafe  
 zawsze - pansato  
 zazdrosny - zelose  
-zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - marke  
 założyciel - bazer  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - taxe  
 zbiornik (cysterna, pojemnik, rezerwuar) - tanke  
@@ -3337,8 +3337,8 @@ zmęczenie (wyczerpanie; męczyć się, nużyć się) - fatige
 znaczek pocztowy - postocape  
 znaczyć (liczyć się, być ważnym) - si ham  
 znaczyć - seme  
+znak (trop; zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad) - marke  
 znak, sygnał - sine  
-znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureke  
 znowu (ponownie) - ri  
 znudzony - bore  

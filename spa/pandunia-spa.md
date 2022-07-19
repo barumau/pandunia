@@ -10,6 +10,7 @@ a le - allí (allá)
 a line - en línea  
 a long - lejos  
 a max - además  
+a mide - entre  
 a misal - por ejemplo  
 a neu - ahora mismo (justo)  
 a proxe - casi (aproximadamente)  
@@ -555,7 +556,7 @@ dante - diente
 • danta - morder  
 dantobalute - roble daimyo  
 dantobrox - cepillo de dientes  
-dantomediker - dentista (odontólogo)  
+dantotiber - dentista (odontólogo)  
 dare - fluir  
 darotube - embudo  
 darge - paso (grado, nivel, rango, calidad, categoría)  
@@ -1973,7 +1974,7 @@ man - masculino (macho)
 mani pute - hijo  
 mani reger - rey  
 manete - imán  
-manete - magnético  
+• manetike - magnético  
 mangan - manganeso  
 mango - mango  
 mangus - mangostán (jobo de la India)  
@@ -1984,12 +1985,11 @@ manioke - yuca (mandioca)
 manir - comportamiento (conducta)  
 manire - comportarse (portarse)  
 manse - carne  
-• manti - oficial  
+• mantike - oficial  
 • manter - ministro  
 • manteria - ministerio  
-mantol - capa (manto)  
-mantre - mantra  
-mantre - salmodiar  
+manto - capa (manto)  
+mantra - mantra (salmodiar)  
 mantu - panecillos al vapor (mantou)  
 mar - vez  
 • polimaria - frecuencia  
@@ -2000,8 +2000,7 @@ margai - gato tigre (maracayá)
 margarin - margarina  
 margarite - margarita  
 Marian nesia - Islas Marianas  
-marke - marca (huella, mancha)  
-marke - marcar  
+marke - marcar (marca, huella, mancha)  
 Marse - Marte  
 martinluterisme - luteranismo  
 martinluteriste - luterano  
@@ -2009,10 +2008,9 @@ Marxal nesia - Islas Marshall
 mas - masa (trozo, pedazo)  
 masmul - tubérculo  
 masmulsolful - tupinambo (pataca, alcachofa de Jerusalén)  
-masaje - masaje  
-masaje - amasar (masajear)  
+masaje - masaje (amasar, masajear)  
 masale - especia  
-masali tike - tikka masala  
+masale tike - tikka masala  
 maske - máscara  
 maste - mástil  
 mate - sustancia (materia)  
@@ -2038,16 +2036,11 @@ maxorai - sobrestimar
 maxin - máquina  
 maze - calcetín  
 mede - ayudar (asistar; ayuda, asistencia)  
-medu - entre  
 medal - medallón  
 meden - plaza  
 medene - abierto (extenso)  
 medenfobia - agorafobia  
 medenpapil - amapola silvestre  
-medike - curar (sanar)  
-medikia - medicina  
-mediker - doctor (médico)  
-medikosui - poción  
 medite - meditar (reflexionar)  
 megagram - tonelada  
 megavate - megavatio  
@@ -3309,6 +3302,11 @@ texe - tejer
 texomaxin - telar  
 texte - texto  
 teze - tesis  
+tibe - curar (sanar)  
+• tibaje - medicamento (medicina, remedio, fármaco)  
+• tibolojia - medicina  
+• tiber - doctor (médico)  
+tibesui - poción  
 ticin - instrumento de arco  
 • tikete - boleto  
 • retrotikete - billete de ida y vuelta  
@@ -3736,6 +3734,7 @@ zoe - animal (bestia)
 • zoolojike - zoológico  
 zooparke - zoo  
 zoosikle - zodíaco  
+zootiber - veterinario  
 zombi - zombi  
 zone - cinturón (zona)  
 zong - especie  

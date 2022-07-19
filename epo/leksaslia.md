@@ -850,9 +850,9 @@
 **manir** *maniero (konduto)* ← franca:manière, angla:manner, rusa:манера (manyera), japana:マナー (manā), hispana:manera, portugala:maneira, deu:Manieren  
 **manse** *viando* ← hindia:मांस (māns), urdua:(māns), bengala:মাংস (maŋs), teluga:(māṃsamu), rusa:мясо (myaso), polona:mięso  
 **mante** ** ← hindia:मंत्री (mantrī), bengala:মন্ত্রী (môntri), malaja:menteri, portugala:mandarim, angla:franca:hispana:mandarin, rusa:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), japana:メンター (mentā), korea:멘토 (mento)  
-**mantol** ** ← angla:mantle, hispana:manto, franca:manteau, rusa:манто (manto), japana:マント (manto), korea:망토 (mangto), malaja:mantel  
-**mantre** ** ← angla:franca:hispana:portugala:malaja:mantra, rusa:мантра (mantra), hindia:मंत्र (mantra), bengala:মন্ত্র (môntr)  
-**mantu** ** ← turka:mantı, rusa:манты (manty), korea:만두 (mandu), mandarena:馒头 (mántóu), persa:urdua:(mantu)  
+**manto** ** ← angla:mantle, hispana:manto, franca:manteau, rusa:манто (manto), japana:マント (manto), korea:망토 (mangto), malaja:mantel  
+**mantra** ** ← angla:franca:hispana:portugala:malaja:mantra, rusa:мантра (mantra), hindia:मंत्र (mantra), bengala:মন্ত্র (môntr)  
+**mantu** ** ← rusa:манты (manty), mandarena:馒头 (mántóu), jpn;饅頭 (manjū), korea:만두 (mandu), persa:urdua: منتو‎ (mantu), turka:mantı  
 **mar** *fojo* ← araba: مرة (marra), svahila:mara, hindia:बार (bār), persa:urdua: بار‎(bār), deu:Mal  
 **maraton** *maratono* ← angla:marathon, hispana:maratón, portugala:maratona, rusa:марафо́н (marafón), turka:maraton, araba:مَارَاثُون‎ (mārāṯūn), hindia:मैराथन (mairāthan), bengala:ম্যারাথন (mjarathôn), mandarena:马拉松 (mǎlāsōng), japana:マラソン (marason)  
 **marce** *promeni (marŝi)* ← angla:march, franca:marche, hispana:portugala:marcha, rusa:марш (marš), hindia:मार्च (mārc), turka:marş, svahila:machi  
@@ -862,7 +862,7 @@
 **marke** ** ← angla:mark, hispana:portugala:marca, franca:marque, korea:마크 (makeu), japana:マーク (māku)  
 **Marse** ** ← angla:franca:turka:malaja:Mars, hispana:portugala:Marte, rusa:Марс (Mars)  
 **mas** *maso* ← angla:mass, deu:franca:masse, hispana:masa, portugala:malaja:massa, rusa:масса (massa)  
-**masaje** ** ← angla:franca:massage, hispana:masaje, portugala:massagem, rusa:масса́ж (massáž), turka:masaj, araba:مَسَاج‎ (masāj), persa:ماساژ‎ (mâsâž), bengala:ম্যাসেজ (mjaśej), mandarena:马杀鸡 (mǎshājī), japana:マッサージ (massāji)  
+**masaje** ** ← angla:franca:massage, hispana:masaje, portugala:massagem, rusa:массаж (massaž), turka:masaj, araba:مَسَاج‎ (masāj), persa:ماساژ‎ (mâsâž), bengala:ম্যাসেজ (myaśej), mandarena:马杀鸡 (mǎshājī), japana:マッサージ (massāji)  
 **masale** *spico* ← hindia:मसाला (masālā), urdua:(masālā), bengala:মসলা (môsla), svahila:masala  
 **maske** *masko* ← angla:mask, franca:masque, hispana:portugala:máscara, rusa:маска (maska), hindia:मास्क (māsk), japana:マスク (masuku), korea:마스크 (maseukeu), malaja:masker, turka:maske  
 **maste** *masto* ← angla:deu:mast, hindia:मस्तूल (mastūl), japana:マスト (masuto), rusa:мачта (mačta), polona:maszt, portugala:mastro, hispana:mástil  
@@ -877,9 +877,8 @@
 **maze** *ŝtrumpo* ← hindia:मोज़ा (mozā), bengala:মোজা (moja), urdua: موزا‎ (mozā) + mandarena:袜子 (wàzi), vua:袜子 (ma’zi), kantona:襪 (mat6), korea:말 (mal)  
 **me** ** ← angla:meh  
 **medal** ** ← angla:medal, hispana:medalla, portugala:medalha, franca:médaille, rusa:меда́ль (medálʹ), hindia:मेडल (meḍal), bengala:মেডেল (meḍel), turka:madalya, japana:メダル (medaru)  
-**mede** *helpo* ← araba:persa:urdua: مَدَد‎ (madad), hindia:मदद (madad), bengala:মদদ (môdôd) + franca:m’aidez, angla:mayday, rusa:мэдэ (mede), japana:メーデー (mēdē), korea:메이데이 (meidei)  
+**mede** *helpo* ← araba: مَدَد‎ (madad), persa: مدد (madad), hindia:मदद (madad), bengala:মদদ (môdôd), teluga:మద్దతు (maddatu) + franca:aider, angla:aid + rusa:мэдэ (mede), japana:メーデー (mēdē), korea:메이데이 (meidei)  
 **meden** ** ← araba: مَيْدَان‎ (maydān), persa:(meydan), hindia:मैदान (maidān), bengala:ময়দান (moidan), turka:meydan, svahila:medani, rusa:майдан (maydan) + mandarena:田 (tián), japana:田 (den), korea:전 (jeon), vjetnama:điền  
-**medike** *sanigi (kuraci)* ← angla:medicine, hispana:medicina, portugala:medicamento, franca:médicament, rusa:медикамент (medikament)  
 **medite** ** ← angla:meditate, hispana:meditar, franca:méditer, rusa:медитировать (meditirovatʹ)  
 **mega** *miliono* ← angla:franca:hispana:portugala:malaja:turka:mega-, rusa:мега- (mega-), japana:メガ (mega), korea:메가- (mega-)  
 **meh** *ŝafo* ← hindia:मेष (meṣ), persa:(miš), taja:เมษ (met), + lingala:konga:meme, japana:メーメー (mē mē), portugala:meh, araba:(maa'), turka:mee  
@@ -1371,6 +1370,7 @@
 **teste** *testo* ← angla:franca:test, rusa: тест (test), portugala:teste, turka:test  
 **texe** ** ← hispana:tejer, portugala:tecer, franca:tisser, angla:textile  
 **teze** ** ← angla:thesis, franca:thèse, hispana:tesis, portugala:tese, rusa:тезис (tezis), persa: تز‎ (tez), turka:tez, japana:テーゼ (tēze), korea:테제 (teje)  
+**tibe** *sanigi (kuraci)* ← araba: طِبّ‎ (ṭibb), persa: طب‎ (tebb), hindia:तिब्ब (tibb), bengala:তবীব (tôbīb), turka:tıp, svahila:tiba; tibu  
 **ticin** ** ← mandarena:提琴 (tíqín), kantona:提琴 (tai4 kam4), uu:提琴 (di jin3), japana:提琴 (teikin)  
 **tike** ** ← persa: تکه (tekke), hindia:टिक्का (ṭikkā) + angla:deu:ticket, malaja:tiket, bengala:টিকিট (ṭikiṭ), amharaba:ቲኬት (tiket), korea:티켓 (tiket), japana:チケット (chiketto)  
 **tim** ** ← angla:team, deu:Team, svahila:timu, hindia:टीम (ṭīm), japana:チーム (chīmu), korea:팀 (tim)  
@@ -1562,7 +1562,7 @@
 **zira** *kumino* ← bengala:জিরা (zīra), hindia:ज़ीरा (zīrā), tamila:சீரகம் (sīrakam), svahila:mjira, persa:(zire), mandarena:孜然 (zīrán), angla:jeera  
 **zirkonium** *zirkonio* ← angla:zirconium, franca:zirconium, hispana:circonio, portugala:zircónio, rusa:цирконий, japana:ジルコニウム, korea:지르코늄, vjetnama:ziriconi, hindia:जर्कोनियम, bengala:জিরকোনিয়াম, malaja:zirkonium, svahila:zirikoni, araba: زيركونيوم  
 **zize** ** ← mandarena:zizi angla:sizzle  
-**zoe** *besto* ← angla:franca:hispana:portugala:malaja:turka:zoo-, rusa:зоо- (zoo-)  
+**zoe** *besto* ← angla:franca:hispana:portugala:malaja:turka:zoo-, rusa:зоо- (zoo-) + mandarena:兽 (shòu)  
 **zombi** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zone** *zono* ← greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)  
 **zong** ** ← mandarena:種 (zhǒng), kantona:種 (zung2), vua:種 (tson2), japana:種 (shu), korea:종 (jong), vjetnama:chủng  

@@ -931,8 +931,8 @@ mangan - марганец
 maniisme - манихейство  
 manir - поведение (манера)  
 manse - мясо  
-mantol - плащ (накидка)  
-mantre - мантра  
+manto - плащ (накидка)  
+mantra - мантра  
 mar - раз  
 marce - марш  
 margai - маргай  
@@ -957,9 +957,6 @@ maxorai - переоценить
 maze - носок  
 meden - площадь (сквер, майдан)  
 medenpapil - мак самосейка  
-medike - лечить  
-mediker - врач (медик, лекарь, доктор)  
-medikosui - зелье  
 mei - красивый  
 • meyia - красота  
 • meyize - украсить (украшение)  
@@ -1540,6 +1537,10 @@ teste - проба (тест)
 texe - ткань  
 texomaxin - ткацкий станок  
 teze - тезис (положение)  
+tibe - лечить  
+• tibaje - лекарство  
+• tiber - врач (медик, лекарь, доктор)  
+tibesui - зелье  
 • tikete - билет  
 tim - команда  
 tire milke - тянуть  
@@ -1756,6 +1757,7 @@ zoe - животное
 • zoolojike - зоологический  
 zooparke - зоопарк  
 zoosikle - зодиак  
+zootiber - ветерина́р  
 zone - пояс (зона)  
 zongominte - мята колоси́стая  
 zuke - этнос (этнический)  

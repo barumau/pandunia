@@ -7,6 +7,7 @@ a ke - gdzie
 a korte - wkrótce  
 a le - tu (tutaj, tam)  
 a line - online (na linii, w sieci)  
+a mide - między (wśród, pośród)  
 a misal - na przykład  
 a neu - właśnie, dopiero co, ostatnio, niedawno  
 a proxe - blisko (niemal, prawie)  
@@ -498,7 +499,7 @@ danse - taniec
 dante - ząb  
 dantobalute - dąb zębaty  
 dantobrox - szczoteczka do zębów  
-dantomediker - dentysta  
+dantotiber - dentysta  
 dare - latać (fruwać)  
 darotube - lejek  
 darge - stopień, poziom, ranga, klasa  
@@ -1821,7 +1822,7 @@ man - męski
 mani pute - syn  
 mani reger - król  
 manete - magnes  
-manete - magnetyczny  
+• manetike - magnetyczny  
 mangan - mangan  
 mango - mango  
 mangus - mangostan  
@@ -1833,10 +1834,10 @@ manir - zachowanie (maniery, kultura)
 manire - zachowywać się (działać)  
 manse - mięso  
 mante - urząd, pozycja, stanowisko, funkcja  
-• manti - oficjalny  
+• mantike - oficjalny  
 • manter - minister  
 • manteria - ministry  
-mantol - peleryna (płaszcz, opończa)  
+manto - peleryna (płaszcz, opończa)  
 mantu - bułka gotowana na parze  
 mar - czas; okazja  
 • polimaria - częstotliwość  
@@ -1847,8 +1848,7 @@ margai - margaj (ocelot nadrzewny)
 margarin - margaryna  
 margarite - stokrotka  
 Marian nesia - Mariany Północne  
-marke - znak, trop  
-marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
+marke - znak (trop; zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad)  
 Marse - Mars  
 martinluterisme - luteranizm  
 martinluteriste - luterański  
@@ -1858,7 +1858,7 @@ masmul - bulwa
 masmulsolful - topinambur  
 masaje - masaż  
 masale - przyprawa  
-masali tike - tikka masala  
+masale tike - tikka masala  
 maske - maska, kamuflaż  
 maste - maszt  
 master - magister  
@@ -1885,16 +1885,11 @@ maxdarge - zwiększyć o jeden
 maxin - maszyna  
 maze - skarpeta, skarpetka, pończocha  
 mede - pomóc (pomagać, asystować; pomoc, wsparcie)  
-medu - między (wśród, pośród)  
 medal - medalion, medal  
 meden - skwer, plac  
 medene - otwarty (przestrzenny)  
 medenfobia - agorafobia  
 medenpapil - mak polny  
-medike - uleczyć, leczyć, uzdrowić, uzdrawiać  
-medikia - medycyna  
-mediker - doktor, lekarz, uzdrowiciel  
-medikosui - eliksir (magiczny napój)  
 medite - medytować; dumać, rozmyślać, zastanawiać się  
 mega - milion  
 megagram - tona  
@@ -3038,6 +3033,10 @@ texe - tkać (pleść)
 texomaxin - krosno  
 texte - tekst  
 teze - dyskutovać (twierdzić; argument, teza)  
+tibe - uleczyć, leczyć, uzdrowić, uzdrawiać  
+• tibolojia - medycyna  
+• tiber - doktor, lekarz, uzdrowiciel  
+tibesui - eliksir (magiczny napój)  
 ticin - chordofon, instrument strunowy  
 • tikete - bilet  
 • retrotikete - bilet powrotny  
@@ -3435,6 +3434,7 @@ zoe - animal
 zoagria - hodowla zwierząt  
 zooparke - zoo (ogród zoologiczny)  
 zoosikle - zodiak  
+zootiber - weterynarz  
 zombi - zombie, zombi  
 zone - pas, strefa  
 zong - gatunek  

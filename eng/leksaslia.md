@@ -850,9 +850,9 @@
 **manir** *behavior (manners)* ← French:manière, English:manner, Russian:манера (manyera), Japanese:マナー (manā), Spanish:manera, Portuguese:maneira, deu:Manieren  
 **manse** *meat (flesh)* ← Hindi:मांस (māns), Urdu:(māns), Bengali:মাংস (maŋs), Telugu:(māṃsamu), Russian:мясо (myaso), Polish:mięso  
 **mante** *public office* ← Hindi:मंत्री (mantrī), Bengali:মন্ত্রী (môntri), Malay:menteri, Portuguese:mandarim, English:French:Spanish:mandarin, Russian:мандарин (mandarin) + eng:fra:spa:por:mentor, rus:ментор (mentor), Japanese:メンター (mentā), Korean:멘토 (mento)  
-**mantol** *cape (cloak, mantle)* ← English:mantle, Spanish:manto, French:manteau, Russian:манто (manto), Japanese:マント (manto), Korean:망토 (mangto), Malay:mantel  
-**mantre** *mantra* ← English:French:Spanish:Portuguese:Malay:mantra, Russian:мантра (mantra), Hindi:मंत्र (mantra), Bengali:মন্ত্র (môntr)  
-**mantu** *steamed bun (mantou, manti)* ← Turkish:mantı, Russian:манты (manty), Korean:만두 (mandu), Mandarin:馒头 (mántóu), Persian:Urdu:(mantu)  
+**manto** *cape (cloak, mantle)* ← English:mantle, Spanish:manto, French:manteau, Russian:манто (manto), Japanese:マント (manto), Korean:망토 (mangto), Malay:mantel  
+**mantra** *mantra (chant)* ← English:French:Spanish:Portuguese:Malay:mantra, Russian:мантра (mantra), Hindi:मंत्र (mantra), Bengali:মন্ত্র (môntr)  
+**mantu** *steamed bun (mantou, manti)* ← Russian:манты (manty), Mandarin:馒头 (mántóu), jpn;饅頭 (manjū), Korean:만두 (mandu), Persian:Urdu: منتو‎ (mantu), Turkish:mantı  
 **mar** *time (instance, occasion)* ← Arabic: مرة (marra), Swahili:mara, Hindi:बार (bār), Persian:Urdu: بار‎(bār), deu:Mal  
 **maraton** *marathon* ← English:marathon, Spanish:maratón, Portuguese:maratona, Russian:марафо́н (marafón), Turkish:maraton, Arabic:مَارَاثُون‎ (mārāṯūn), Hindi:मैराथन (mairāthan), Bengali:ম্যারাথন (mjarathôn), Mandarin:马拉松 (mǎlāsōng), Japanese:マラソン (marason)  
 **marce** *walk (march)* ← English:march, French:marche, Spanish:Portuguese:marcha, Russian:марш (marš), Hindi:मार्च (mārc), Turkish:marş, Swahili:machi  
@@ -862,7 +862,7 @@
 **marke** *mark (trace)* ← English:mark, Spanish:Portuguese:marca, French:marque, Korean:마크 (makeu), Japanese:マーク (māku)  
 **Marse** *Mars* ← English:French:Turkish:Malay:Mars, Spanish:Portuguese:Marte, Russian:Марс (Mars)  
 **mas** *mass (quantity of matter)* ← English:mass, deu:French:masse, Spanish:masa, Portuguese:Malay:massa, Russian:масса (massa)  
-**masaje** *massage* ← English:French:massage, Spanish:masaje, Portuguese:massagem, Russian:масса́ж (massáž), Turkish:masaj, Arabic:مَسَاج‎ (masāj), Persian:ماساژ‎ (mâsâž), Bengali:ম্যাসেজ (mjaśej), Mandarin:马杀鸡 (mǎshājī), Japanese:マッサージ (massāji)  
+**masaje** *massage (knead, give a massage)* ← English:French:massage, Spanish:masaje, Portuguese:massagem, Russian:массаж (massaž), Turkish:masaj, Arabic:مَسَاج‎ (masāj), Persian:ماساژ‎ (mâsâž), Bengali:ম্যাসেজ (myaśej), Mandarin:马杀鸡 (mǎshājī), Japanese:マッサージ (massāji)  
 **masale** *spice (seasoning)* ← Hindi:मसाला (masālā), Urdu:(masālā), Bengali:মসলা (môsla), Swahili:masala  
 **maske** *mask (camouflage)* ← English:mask, French:masque, Spanish:Portuguese:máscara, Russian:маска (maska), Hindi:मास्क (māsk), Japanese:マスク (masuku), Korean:마스크 (maseukeu), Malay:masker, Turkish:maske  
 **maste** *mast* ← English:deu:mast, Hindi:मस्तूल (mastūl), Japanese:マスト (masuto), Russian:мачта (mačta), Polish:maszt, Portuguese:mastro, Spanish:mástil  
@@ -877,9 +877,8 @@
 **maze** *sock (stocking)* ← Hindi:मोज़ा (mozā), Bengali:মোজা (moja), Urdu: موزا‎ (mozā) + Mandarin:袜子 (wàzi), Wu-Chinese:袜子 (ma’zi), Cantonese:襪 (mat6), Korean:말 (mal)  
 **me** *meh* ← English:meh  
 **medal** *medallion (medal)* ← English:medal, Spanish:medalla, Portuguese:medalha, French:médaille, Russian:меда́ль (medálʹ), Hindi:मेडल (meḍal), Bengali:মেডেল (meḍel), Turkish:madalya, Japanese:メダル (medaru)  
-**mede** *help (aid, assist)* ← Arabic:Persian:Urdu: مَدَد‎ (madad), Hindi:मदद (madad), Bengali:মদদ (môdôd) + French:m’aidez, English:mayday, Russian:мэдэ (mede), Japanese:メーデー (mēdē), Korean:메이데이 (meidei)  
+**mede** *help (aid)* ← Arabic: مَدَد‎ (madad), Persian: مدد (madad), Hindi:मदद (madad), Bengali:মদদ (môdôd), Telugu:మద్దతు (maddatu) + French:aider, English:aid + Russian:мэдэ (mede), Japanese:メーデー (mēdē), Korean:메이데이 (meidei)  
 **meden** *field (square, plaza, maidan)* ← Arabic: مَيْدَان‎ (maydān), Persian:(meydan), Hindi:मैदान (maidān), Bengali:ময়দান (moidan), Turkish:meydan, Swahili:medani, Russian:майдан (maydan) + Mandarin:田 (tián), Japanese:田 (den), Korean:전 (jeon), Vietnamese:điền  
-**medike** *heal (cure, remedy)* ← English:medicine, Spanish:medicina, Portuguese:medicamento, French:médicament, Russian:медикамент (medikament)  
 **medite** *meditate (ponder)* ← English:meditate, Spanish:meditar, French:méditer, Russian:медитировать (meditirovatʹ)  
 **mega** *million (mega-)* ← English:French:Spanish:Portuguese:Malay:Turkish:mega-, Russian:мега- (mega-), Japanese:メガ (mega), Korean:메가- (mega-)  
 **meh** *sheep* ← Hindi:मेष (meṣ), Persian:(miš), Thai:เมษ (met), + Lingala:Kongo:meme, Japanese:メーメー (mē mē), Portuguese:meh, Arabic:(maa'), Turkish:mee  
@@ -1371,6 +1370,7 @@
 **teste** *prove (testify, witness)* ← English:French:test, Russian: тест (test), Portuguese:teste, Turkish:test  
 **texe** *weave* ← Spanish:tejer, Portuguese:tecer, French:tisser, English:textile  
 **teze** *claim (thesis, statement)* ← English:thesis, French:thèse, Spanish:tesis, Portuguese:tese, Russian:тезис (tezis), Persian: تز‎ (tez), Turkish:tez, Japanese:テーゼ (tēze), Korean:테제 (teje)  
+**tibe** *heal (cure, remedy)* ← Arabic: طِبّ‎ (ṭibb), Persian: طب‎ (tebb), Hindi:तिब्ब (tibb), Bengali:তবীব (tôbīb), Turkish:tıp, Swahili:tiba; tibu  
 **ticin** *bow instrument (violin, etc.)* ← Mandarin:提琴 (tíqín), Cantonese:提琴 (tai4 kam4), uu:提琴 (di jin3), Japanese:提琴 (teikin)  
 **tike** *slice* ← Persian: تکه (tekke), Hindi:टिक्का (ṭikkā) + English:deu:ticket, Malay:tiket, Bengali:টিকিট (ṭikiṭ), Amharic:ቲኬት (tiket), Korean:티켓 (tiket), Japanese:チケット (chiketto)  
 **tim** *team* ← English:team, deu:Team, Swahili:timu, Hindi:टीम (ṭīm), Japanese:チーム (chīmu), Korean:팀 (tim)  
@@ -1562,7 +1562,7 @@
 **zira** *cumin (jeera)* ← Bengali:জিরা (zīra), Hindi:ज़ीरा (zīrā), Tamil:சீரகம் (sīrakam), Swahili:mjira, Persian:(zire), Mandarin:孜然 (zīrán), English:jeera  
 **zirkonium** *zirconium* ← English:zirconium, French:zirconium, Spanish:circonio, Portuguese:zircónio, Russian:цирконий, Japanese:ジルコニウム, Korean:지르코늄, Vietnamese:ziriconi, Hindi:जर्कोनियम, Bengali:জিরকোনিয়াম, Malay:zirkonium, Swahili:zirikoni, Arabic: زيركونيوم  
 **zize** *sizzle* ← Mandarin:zizi English:sizzle  
-**zoe** *animal* ← English:French:Spanish:Portuguese:Malay:Turkish:zoo-, Russian:зоо- (zoo-)  
+**zoe** *animal (beast)* ← English:French:Spanish:Portuguese:Malay:Turkish:zoo-, Russian:зоо- (zoo-) + Mandarin:兽 (shòu)  
 **zombi** *zombie* ← Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)  
 **zone** *belt (zone)* ← Greek:ζώνη (zónē), English:French:zone, Spanish:Portuguese:zona, Russian:зона (zona)  
 **zong** *species* ← Mandarin:種 (zhǒng), Cantonese:種 (zung2), Wu-Chinese:種 (tson2), Japanese:種 (shu), Korean:종 (jong), Vietnamese:chủng  

@@ -3,17 +3,17 @@
 | basha | nomer | fen |
 |-------|-------|-----|
 | pan | 1573 | 100% |
-| english | 1112 | 71% |
-| espanya | 1000 | 64% |
-| portugal | 952 | 61% |
-| france | 942 | 60% |
-| rus | 820 | 52% |
-| hindi | 685 | 44% |
+| english | 1111 | 71% |
+| espanya | 999 | 64% |
+| portugal | 951 | 60% |
+| france | 941 | 60% |
+| rus | 819 | 52% |
+| hindi | 686 | 44% |
 | nipon | 623 | 40% |
 | malayu | 570 | 36% |
-| arabi | 431 | 27% |
+| arabi | 432 | 27% |
 | chosen | 420 | 27% |
-| suahili | 404 | 26% |
-| putonghan | 399 | 25% |
-| bangla | 386 | 25% |
+| suahili | 405 | 26% |
+| putonghan | 400 | 25% |
+| bangla | 387 | 25% |
 | viet | 267 | 17% |

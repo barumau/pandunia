@@ -156,7 +156,6 @@ amapola silvestre - medenpapil
 amar (amor; querido) - ame  
 amargo - alkaloguste  
 amarillo - limonrange  
-amasar (masajear) - masaje  
 amateur (aficionado) - amater  
 ambiental (ecológico, natural) - eke  
 ambiguo - polmene  
@@ -556,7 +555,7 @@ Cantalupo in Sabina - Kantalupo va Sabine
 cantar (canción) - cante  
 cantidad - polia  
 caos (desorden) - haos  
-capa (manto) - mantol  
+capa (manto) - manto  
 capa (piso, planta, estrato) - ceng  
 capitán - nauxefe  
 capturar (apresar) - cepe  
@@ -933,7 +932,7 @@ cultivar - agre
 cultura - kultur  
 cumpleaños - genoden  
 cupón (vale) - kupon  
-curar (sanar) - medike  
+curar (sanar) - tibe  
 curio - kurium  
 curita (apósito) - glutobende  
 curri - kari  
@@ -1008,7 +1007,7 @@ democrático - demokrate
 demografía - demografia  
 demonio - demon  
 demócrata - demokratiste  
-dentista (odontólogo) - dantomediker  
+dentista (odontólogo) - dantotiber  
 dentro - a intre  
 deporte - sporte  
 deportista - sporter  
@@ -1092,7 +1091,7 @@ dióxido de carbono - karboduloxide
 doble - duple  
 doble sentido - duplomene  
 docente - dokente  
-doctor (médico) - mediker  
+doctor (médico) - tiber  
 doctor - dotor  
 doctorado - dotoria  
 doctrina - dokaje  
@@ -1226,7 +1225,7 @@ entender (comprender) - ahe
 entero (todo) - hole  
 entrada - intromun  
 entrar - intre  
-entre - medu  
+entre - a mide  
 enviar (transmitar) - mise  
 envolver (envoltura) - lifafe  
 enzima - enzim  
@@ -2092,7 +2091,7 @@ magia - magia
 magical - mage  
 magma - pastopetre  
 magnesio - magesium  
-magnético - manete  
+magnético - manetike  
 mago - mager  
 mahjong - majang  
 malabarista - jongler  
@@ -2126,7 +2125,7 @@ mano - hande
 manso (dócil, obediente) - dosile  
 mantel - mezatexe  
 mantequilla - makan  
-mantra - mantre  
+mantra (salmodiar) - mantra  
 manual - hande  
 manzana - aple  
 manzanilla de Castilla - kamil  
@@ -2140,9 +2139,8 @@ maratón - maraton
 maravilla (maravilloso, asombroso) - ajibe  
 maravilla - ajibable  
 maravilloso (magnífico) - super  
-marca (huella, mancha) - marke  
 marcador - puntoban  
-marcar - marke  
+marcar (marca, huella, mancha) - marke  
 marcha (caminar, marchar) - marce  
 marco - frem  
 marfil - gaja dante  
@@ -2162,7 +2160,7 @@ martillo (mazo) - hamar
 marzo - lun tri  
 marítimo - hayike  
 masa (trozo, pedazo) - mas  
-masaje - masaje  
+masaje (amasar, masajear) - masaje  
 masculino (macho) - man  
 matadero - bucokan  
 matar (morir, asesinar) - mortife  
@@ -2185,7 +2183,8 @@ mañana - posden
 mañana - suba  
 mear - pise  
 medallón - medal  
-medicina - medikia  
+medicamento (medicina, remedio, fármaco) - tibaje  
+medicina - tibolojia  
 medio (mediano) - midi  
 medio - mide  
 medio - midia  
@@ -2496,7 +2495,7 @@ odio - hen
 oeste (occidental) - veste  
 oficial (formal, protocolario) - bure di  
 oficial - ofise  
-oficial - manti  
+oficial - mantike  
 oficina - bure  
 oficina - ofiskan  
 oficina de correos - postokan  
@@ -2773,7 +2772,7 @@ Plutón - Pluton
 plástico - plastike  
 plátano (banana) - banan  
 pobre (miserable) - miskin  
-poción - medikosui  
+poción - tibesui  
 poco (pocos) - xau  
 poder (posible) - able  
 podrido (cariado) - pude  
@@ -3140,7 +3139,6 @@ sala de chat (tertuliadero) - blablakan
 salchicha - sosis  
 salida - cutomun  
 salir (irse) - cute  
-salmodiar - mantre  
 salmón (trucha) - salmon  
 salmón chum (keta) - bakosalmon  
 salmón del Atlántico - atlante salmon  
@@ -3439,7 +3437,7 @@ tierra - gee
 Tierra - Geia  
 tigre - bagre  
 tijera - makas  
-tikka masala - masali tike  
+tikka masala - masale tike  
 Timor - Timor  
 Timor Oriental - Dongi Timor  
 tinta - moge  
@@ -3634,6 +3632,7 @@ vertical - gautale
 vestido (llevando ropa) - fuke  
 vestigio (sobrante) - maxolivaje  
 vestir - fuke  
+veterinario - zootiber  
 vez - mar  
 viaje (viajar) - safar  
 viajero - safarer  

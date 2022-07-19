@@ -1080,8 +1080,8 @@ mangan - manganèse
 maniisme - manichéisme  
 manir - comportement (manière)  
 manse - viande  
-mantol - cape  
-mantre - mantra  
+manto - cape  
+mantra - mantra  
 mar - fois  
 marce - marche  
 margai - margay (chat-tigre)  
@@ -1109,7 +1109,6 @@ maxorai - surestimer
 me - bof  
 meden - place  
 medenpapil - coquelicot  
-medikosui - pocion  
 mehi kex - laine  
 mei - beau  
 • meyia - beauté  
@@ -1719,6 +1718,8 @@ terce - oblique (de travers)
 teste - épreuve (test)  
 texe - tissu  
 texte - texte  
+• tibaje - médicament (remède)  
+tibesui - pocion  
 • tikete - billet  
 • retrotikete - aller-retour  
 tim - équipe  
@@ -1947,6 +1948,7 @@ zoe - animal (bête)
 zoagria - élevage  
 zooparke - zoo  
 zoosikle - zodiaque  
+zootiber - vétérinaire  
 zombi - zombi  
 zone - zone  
 zongominte - menthe verte  
