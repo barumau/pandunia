@@ -49,6 +49,7 @@ aluminium - алюминий
 ame - любить (любовь)  
 • amater - любитель  
 • amer - любовник  
+ame letre - любовное письмо  
 ama - а (но)  
 amerikium - америций  
 amirlin - командная строка  
@@ -564,6 +565,7 @@ gute - колено
 
 ha - иметь  
 habar - новости  
+habar letre - информационный бюллетень  
 hafnium - гафний  
 hahe - смеяться  
 hai - море  
@@ -771,8 +773,8 @@ kite - идти
 kitabe - писать (письмо)  
 • kitabia - литература (словесность)  
 kitabekan - библиотека  
-kitabemaxin - пишущая машинка  
 kitabemanter - библиотекарь  
+kitabemaxin - пишущая машинка  
 kivi - киви  
 kize - сыр  
 klarvider - ясновидец  
@@ -865,6 +867,7 @@ lefte - левый
 lengomosim - зима  
 lengomosime - зимний  
 lense - линза  
+letre - письмо  
 letus - салат-латук  
 lexe - слово (речь)  
 • lexia - словарь  
@@ -1252,6 +1255,7 @@ portorike - пуэрториканец
 Portoriko - Пуэрто-Рико  
 poso - после  
 pospor - фосфор  
+poste kase - почтовый ящик  
 postemarke - почтовый штемпель  
 pote - кувшин (графин)  
 poter - гончар  
@@ -1402,6 +1406,7 @@ sente - сто
 sere - серия  
 • seria - серия  
 • sereme - звено  
+ser letre - письмо счастья  
 seronete - кольчуга  
 serame - керамика  
 • server - сервер  

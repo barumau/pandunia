@@ -126,6 +126,7 @@ ame - rakkaus (rakastaa, pitää, tykätä; armas, rakas)
 • amer - rakastaja  
 • aname - inhota  
 • anamike - inhokki (inhotus)  
+ame letre - rakkauskirje  
 ama - mutta  
 Amare - amhara (etiopialainen kansa ja kieli)  
 amen - luottamus (usko; uskottavasti, totisesti; aamen)  
@@ -1245,6 +1246,7 @@ gute - polvi
 ha - olla (omistaa)  
 habar - uutinen  
 habargazete - sanomalehti  
+habar letre - uutiskirje  
 habaxe - abyssinialainen  
 Habaxia - abyssinia  
 hafize - säilyttää (varjella, säästää)  
@@ -1925,6 +1927,7 @@ lenge - kylmä
 lengomosim - talvi  
 lengomosime - talvinen  
 lense - linssi  
+letre - kirje  
 letus - lehtisalaatti  
 leu - jo  
 lexe - sana  
@@ -2184,7 +2187,7 @@ Merkur - Merkurius
 meste - taitaa (olla mestari jskn)  
 mester - mestari (asiantuntija)  
 metal - metalli  
-metallin - vaijeri (metallilanka)  
+metalline - vaijeri (metallilanka)  
 metalzanger - seppä  
 metode - keino (menetelmä, metodi)  
 metre - mitata (mitta, koko, määrä)  
@@ -2241,6 +2244,7 @@ mise - lähettää
 • tramise - välittää (siirtää, lähettää)  
 • tramision - välitys (siirtäminen, lähetys)  
 • tramisor - lähetin  
+mise poste kase - kirjelaatikko  
 misal - esimerkki  
 miskin - kurja (raukka)  
 misre - egyptiläinen  
@@ -2800,6 +2804,7 @@ poste - postittaa
 • postaje - posti (postilähetys)  
 • postekan - postitoimisto  
 postecape - postileima  
+poste kase - postilaatikko  
 postemarke - postileima  
 pote - pata (ruukku, kannu, maljakko)  
 poter - savenvalaja  
@@ -3123,6 +3128,7 @@ sere - sarja
 • seria - sarja  
 • sereme - ketjun lenkki  
 • serser - ketju  
+ser letre - ketjukirje  
 seronete - silmukkapanssari (rengashaarniska)  
 Sera Leone - Sierra Leone  
 serame - savityö (keramiikka)  

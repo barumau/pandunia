@@ -782,6 +782,7 @@
 **lege** ** ← englanti:light, espanja:ligero, ranska:léger, venäjä:лёгкий (l’ogkiy), puola:lekki, bangla:লঘু (laghu)  
 **lenge** *kylmä* ← yleiskiina:冷 (lěng), vietnami:lạnh, kantoninkiina:冷 (laang5)  
 **lense** *linssi* ← englanti:lens, ranska:lentille, espanja:portugali:lente, venäjä:линза (linza), hindi:लेंस (lens), bangla:লেন্স (lenś), malaiji:lensa, japani:レンズ (renzu), korea:렌즈 (renjeu)  
+**letre** *kirje* ← englanti:letter, ranska:lettre, hindi:लेटर (leṭar), japani:ター (retā)  
 **letus** *lehtisalaatti* ← englanti:lettuce, japani:レタス (retasu), hausa:latas, hindi:लेटिष (leṭiṣ), bangla:লেটুস (leṭus), ranska:laitue  
 **leu** *jo* ← yleiskiina:了 (liǎo), kantoninkiina:了 (liu5), thai:แล้ว (lɛw) + japani:了 (ryō)  
 **leze** *päärynä* ← yleiskiina:梨子 (lízi), kantoninkiina:梨 (lei42), vietnami:lê,   
@@ -897,7 +898,7 @@
 **mester** *mestari (asiantuntija)* ← portugali:mestre, ranska:maître, puola:mistrz, englanti:master, venäjä:мастер (master), espanja:maestro, deu:Meister, hindi:(mistrī)  
 **metal** *metalli* ← englanti:espanja:portugali:turkki:metal, ranska:métal, deu:Metall, venäjä:мета́лл (metáll)  
 **metode** *keino (menetelmä, metodi)* ← englanti:method, espanja:portugali:método, ranska:méthode, venäjä:ме́тод (métod), turkki:metod, malaiji:metode  
-**metre** *mitata (mitta, koko, määrä)* ← englanti:meter, hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra  
+**metre** *mitata (mitta, koko, määrä)* ← englanti:-meter, ranska:-métrie, espanja:-metría, portugali:-metria, venäjä:-метрия (-metriya), hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra, turkki:-metri  
 **meza** *pöytä* ← portugali:espanja:mesa, hindi:मेज़ (mez), suahili:meza, malaiji:meja, tamili:மேசை (mesei), persia: میز‏‎ (miz), turkki:masa  
 **mi** *minä* ← englanti:me, ranska:portugali:espanja:me, hindi:मैं (mẽ), suahili:mimi  
 **midi** *keskiverto (keski-)* ← espanja:medio, englanti:medium, hindi:माद्धयम (mādhyam)  

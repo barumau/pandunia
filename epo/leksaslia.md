@@ -782,6 +782,7 @@
 **lege** ** ← angla:light, hispana:ligero, franca:léger, rusa:лёгкий (l’ogkiy), polona:lekki, bengala:লঘু (laghu)  
 **lenge** *malvarma* ← mandarena:冷 (lěng), vjetnama:lạnh, kantona:冷 (laang5)  
 **lense** ** ← angla:lens, franca:lentille, hispana:portugala:lente, rusa:линза (linza), hindia:लेंस (lens), bengala:লেন্স (lenś), malaja:lensa, japana:レンズ (renzu), korea:렌즈 (renjeu)  
+**letre** *letero* ← angla:letter, franca:lettre, hindia:लेटर (leṭar), japana:ター (retā)  
 **letus** *laktuko* ← angla:lettuce, japana:レタス (retasu), haŭsa:latas, hindia:लेटिष (leṭiṣ), bengala:লেটুস (leṭus), franca:laitue  
 **leu** ** ← mandarena:了 (liǎo), kantona:了 (liu5), taja:แล้ว (lɛw) + japana:了 (ryō)  
 **leze** *piro* ← mandarena:梨子 (lízi), kantona:梨 (lei42), vjetnama:lê,   
@@ -897,7 +898,7 @@
 **mester** ** ← portugala:mestre, franca:maître, polona:mistrz, angla:master, rusa:мастер (master), hispana:maestro, deu:Meister, hindia:(mistrī)  
 **metal** *metalo* ← angla:hispana:portugala:turka:metal, franca:métal, deu:Metall, rusa:мета́лл (metáll)  
 **metode** *metodo* ← angla:method, hispana:portugala:método, franca:méthode, rusa:ме́тод (métod), turka:metod, malaja:metode  
-**metre** *mezuri* ← angla:meter, hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra  
+**metre** *mezuri* ← angla:-meter, franca:-métrie, hispana:-metría, portugala:-metria, rusa:-метрия (-metriya), hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra, turka:-metri  
 **meza** *tablo* ← portugala:hispana:mesa, hindia:मेज़ (mez), svahila:meza, malaja:meja, tamila:மேசை (mesei), persa: میز‏‎ (miz), turka:masa  
 **mi** *mi* ← angla:me, franca:portugala:hispana:me, hindi:मैं (mẽ), svahila:mimi  
 **midi** *mezo* ← hispana:medio, angla:medium, hindia:माद्धयम (mādhyam)  

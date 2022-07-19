@@ -667,6 +667,7 @@ Ceres (dwarf planet) - Ceres
 cerium - ceresium  
 Chad - Cadia  
 chain - serser  
+chain letter - ser letre  
 chain mail - seronete  
 chair - korse  
 Champagne - xampan  
@@ -2217,6 +2218,9 @@ less - min
 lesson (teaching) - xulaje  
 let's - haide  
 letter (character, written symbol) - harfe  
+letter (written message) - letre  
+letterbox (mailbox, delivery point for mail)  - poste kase  
+letterbox (mailbox, sending point for mail) - mise poste kase  
 lettuce - letus  
 level - par  
 level down - talo dargu  
@@ -2305,6 +2309,7 @@ loss (failure, miss) - xibai
 lot (plot of land) - geotike  
 louse - poyu  
 love (liking, affection; dear, beloved) - ame  
+love letter - ame letre  
 lover - amer  
 low (short, bottom) - dipe  
 lower (inferior) - subike  
@@ -2691,6 +2696,7 @@ New Zealand - neu Zelandia
 newborn - neugene  
 newness - nevia  
 news - habar  
+newsletter - habar letre  
 newspaper (gazette) - habargazete  
 newton (N) - nuton  
 next (following, back) - pose  
@@ -4389,7 +4395,7 @@ winner (victor) - jayer
 winter - lengomosim  
 winter melon (wax gourd, ash gourd) - mummelon  
 wintry - lengomosime  
-wire - metallin  
+wire - metalline  
 wisdom - sofia  
 wise - sofe  
 wolf - volfe  

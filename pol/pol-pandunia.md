@@ -1330,6 +1330,8 @@ limonkowy (limonkowo zielony) - limonluge
 linia (nić, lina, pas, pręga, smuga, dratwa) - line  
 lipiec - lun catre  
 lis - huli  
+list - letre  
+list miłosny - ame letre  
 lista słów - lexoliste  
 lista, spis, wykaz - liste  
 listopad - lun bate  
@@ -3381,6 +3383,7 @@ zły, zrujnowany, zepsuty - harabe
 ławka - bence  
 łazienka - banyakamar  
 łańcuch - serser  
+łańcuszek - ser letre  
 łodyga (tors, pień, trzon) - tan  
 łopata (szpadel) - belce  
 łosoś (pstrąg) - salmon  

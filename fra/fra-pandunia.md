@@ -281,6 +281,7 @@ bouteille - botel
 bouton - buton  
 boxe - bokse  
 boxeur - bokser  
+boîte aux lettres - poste kase  
 bras - handange  
 brave - brave  
 bravo! - brave  
@@ -293,6 +294,7 @@ brun (marron) - brune
 brûler - hoge  
 budget - bugete  
 buisson - dipe moke  
+bulletin (infolettre) - habar letre  
 bureau (office) - bure  
 bureaucratie - burokratia  
 but (destination) - gol  
@@ -697,7 +699,7 @@ feu d’artifice - hogotehne
 fibre - lineme  
 ficher (fixer) - fixe  
 fier - krede  
-fil de fer - metallin  
+fil de fer - metalline  
 fil de trame - veilin  
 fils ou fille - ben  
 fin - fin  
@@ -969,6 +971,8 @@ le (la) - la
 lent - anhaste  
 lentille - lense  
 Lettonie - Latvia  
+lettre - letre  
+lettre d’amour (billet doux) - ame letre  
 leur - yamen su  
 lexical - lexike  
 leçon - xulaje  

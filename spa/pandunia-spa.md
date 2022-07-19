@@ -93,6 +93,7 @@ ame - amar (amor; querido)
 • amike - amado (cariño)  
 • amer - amante (enamorado)  
 • aname - detestar  
+ame letre - carta amorosa  
 ama - pero (sino)  
 Amare - amhara  
 amen - seguramente (amén)  
@@ -1134,6 +1135,7 @@ gute - rodilla
 ha - tener  
 habar - noticias  
 habargazete - periódico (diario)  
+habar letre - boletín de noticias  
 habaxe - abisinio  
 Habaxia - Abisinia  
 hafize - conservar (preservar, mantener)  
@@ -1594,8 +1596,8 @@ kitabe - escribir (escritura)
 • kitabeme - grafema  
 kitaboforme - formateo  
 kitabekan - biblioteca  
-kitabemaxin - máquina de escribir  
 kitabemanter - bibliotecario  
+kitabemaxin - máquina de escribir  
 kivi - kiwi fruta  
 kize - queso  
 kizoproten - caseína  
@@ -1811,6 +1813,7 @@ lenge - frío
 lengomosim - invierno  
 lengomosime - invernal  
 lense - lente  
+letre - carta  
 letus - lechuga  
 lexe - palabra (vocablo)  
 • lexia - vocabulario (léxico)  
@@ -2068,7 +2071,7 @@ meste - dominar
 mester - maestro (experto)  
 metal - metal  
 metalbede - yunque  
-metallin - alambre (hilo)  
+metalline - alambre (hilo)  
 metalzanger - herrero  
 metal tul - ferretería  
 metode - método  
@@ -2685,6 +2688,7 @@ poste - eviar por correo
 • postaje - correo  
 • postekan - oficina de correos  
 postecape - sello postal  
+poste kase - buzón  
 postemarke - matasellos  
 pote - jarra  
 poter - alfarero  

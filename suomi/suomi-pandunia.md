@@ -1194,6 +1194,7 @@ kesyttää - dosile
 kesä (suvi) - garmomosim  
 kesäkuu - lun sixe  
 ketju - serser  
+ketjukirje - ser letre  
 ketjun lenkki - sereme  
 ketsuppi - kecape  
 ketterä - agile  
@@ -1253,6 +1254,8 @@ kirja - buke
 kirjain - harfe  
 kirjallisuus - kitabia  
 kirjasto - kitabekan  
+kirje - letre  
+kirjelaatikko - mise poste kase  
 kirjoittaa (kirjoitus) - kitabe  
 kirjoituskone - kitabemaxin  
 kirkas (selkeä) - ming  
@@ -2487,6 +2490,7 @@ Portugali - Portugal
 portugalia puhuva - portugalfone  
 posliinikotilo - kauri  
 posti (postilähetys) - postaje  
+postilaatikko - poste kase  
 postileima - postecape  
 postileima - postemarke  
 postitoimisto - postekan  
@@ -2632,6 +2636,7 @@ rakentaminen - konstrution
 raketti - rokete  
 raki - anis arake  
 rakkaus (rakastaa, pitää, tykätä; armas, rakas) - ame  
+rakkauskirje - ame letre  
 ramadan - ramazan  
 Ranska - Fransia  
 ranskaa puhuva (frankofoni) - fransofone  
@@ -3523,6 +3528,7 @@ uusi (vasta tehty, käyttämätön) - neu
 Uusi-Kaledonia - Neu Kaledonia  
 Uusi-Seelanti - neu Zelandia  
 uutinen - habar  
+uutiskirje - habar letre  
 uutuus (uutuustuote) - nevaje  
 uutuus - nevia  
 Uzbekistan - Uzbekia  
@@ -3536,7 +3542,7 @@ vahingollinen (vaurioittava) - avarive
 vaihe (etappi) - faze  
 vaihtaa - badle  
 vaihtoehto - cuzable  
-vaijeri (metallilanka) - metallin  
+vaijeri (metallilanka) - metalline  
 vaikeus (hankaluus) - dushal  
 vaikuttaa (vaikutus, tulos) - asar  
 vaikutus (teho) - exfete  

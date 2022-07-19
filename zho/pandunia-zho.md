@@ -47,6 +47,7 @@ aluminium - 铝
 ame - 愛  
 • amater - 爱好者  
 • amer - 恋人 (情人, 爱人)  
+ame letre - 情书  
 ama - 但是 (不过)  
 amerikium - 镅  
 ancovi - 凤尾鱼  
@@ -487,6 +488,7 @@ gute - 膝
 
 ha - 有  
 habar - 消息  
+habar letre - 实事通讯  
 hafnium - 铪  
 hahe - 笑  
 hai - 海  
@@ -770,6 +772,7 @@ lefte - 左
 lenge - 冷たい (寒い)  
 lengomosim - 冬天  
 lense - 透镜  
+letre - 信 (书信)  
 letus - 莴苣  
 leu - 了  
 lexe - 词  
@@ -868,7 +871,7 @@ mendelevium - 钔
 meninge - 脑脊膜  
 menu - 菜单  
 metalbede - 铁砧  
-metallin - 线 (铁丝)  
+metalline - 线 (铁丝)  
 metalzanger - 铁匠  
 meza - 桌子  
 mezatexe - 桌布  
@@ -889,6 +892,7 @@ minte - 薄荷
 • misaje - 信息  
 • misioner - 传教士  
 • konmisia - 委员会  
+mise poste kase - 邮箱  
 Misria - 埃及  
 mitre - 米 (公尺)  
 moke - 树木  
@@ -1101,6 +1105,7 @@ porei - 韭葱
 • reporter - 记者  
 porta - 港  
 pospor - 磷  
+poste kase - 信箱  
 pote - 罐 (瓶)  
 poter - 陶瓷工  
 poteria - 陶器制造  

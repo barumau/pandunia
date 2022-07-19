@@ -78,6 +78,7 @@ ame - aimer (amour, affection; cher)
 • amer - amoureux  
 • aname - exécrer  
 • anamike - ennemi  
+ame letre - lettre d’amour (billet doux)  
 ama - mais  
 Amare - Amhara (groupe ethnique et langue éthiopienne)  
 amen - sûrement (faire confiance, espérer, croire; amen)  
@@ -677,6 +678,7 @@ gute - genou
 ## H  
 
 ha - avoir  
+habar letre - bulletin (infolettre)  
 hafnium - hafnium  
 hahe - rire  
 hai - mer  
@@ -1007,6 +1009,7 @@ lege - léger
 lengomosim - hiver  
 lengomosime - hivernal (hibernal)  
 lense - lentille  
+letre - lettre  
 letus - laitue  
 lexe - mot  
 • lexia - vocabulaire (lexique)  
@@ -1124,7 +1127,7 @@ menu - menu (carte)
 Merkur - Mercure  
 mester - maître  
 metalbede - enclume  
-metallin - fil de fer  
+metalline - fil de fer  
 meza - table  
 mezatexe - nappe  
 mi - je (me)  
@@ -1426,6 +1429,7 @@ poso - ensuite (après, plus tard, ir a, en el futuro)
 postre - postérieur  
 posden - demain  
 pospor - phosphore  
+poste kase - boîte aux lettres  
 postemarke - cachet de la poste  
 pote - pot (vase, jarre, carafe, cruche)  
 poter - potier  

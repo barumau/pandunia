@@ -86,7 +86,7 @@ aprender - xule
 apropriado (apto) - hape  
 aproximar - aproxe  
 ar - air  
-arame - metallin  
+arame - metalline  
 aranha - arane  
 arbitrário - no ham di  
 arbusto (mata) - dipe moke  
@@ -189,6 +189,7 @@ bioma - biosistem
 bioquímica - biokimia  
 bismuto - bismute  
 bola - bol  
+boletim de notícias - habar letre  
 bolo lunar - lunokeke  
 bom - bon  
 bomba - bombe  
@@ -227,6 +228,7 @@ cafeteira - kafe pote
 café - kafe  
 café - kafe kan  
 caixa - kase  
+caixa de correio - poste kase  
 cal - kalsomate  
 calcita - kalsite  
 calcular - hisabe  
@@ -263,6 +265,8 @@ carrapato (ácaros) - akare
 carregar (carga, peso) - karge  
 carreira - peikari jive  
 carta - karde  
+carta - letre  
+carta amorosa - ame letre  
 carta geográfica - karte  
 cartografia - kartografia  
 Cartum - Hartum  

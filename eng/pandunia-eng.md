@@ -140,6 +140,7 @@ ame - love (liking, affection; dear, beloved)
 • amer - lover  
 • aname - dislike (loathe)  
 • anamike - enemy  
+ame letre - love letter  
 ama - but (rather)  
 Amare - Amhara (an Ethiopian ethnic group and language)  
 amen - trust (surely, verily, amen)  
@@ -1404,6 +1405,7 @@ gute - knee
 ha - have  
 habar - news  
 habargazete - newspaper (gazette)  
+habar letre - newsletter  
 habaxe - Abyssinian  
 Habaxia - Abyssinia  
 hafize - keep (preserve, conserve, retain, spare)  
@@ -1931,8 +1933,8 @@ kitabe - write (writing)
 • kitabeme - grapheme  
 kitaboforme - formatting  
 kitabekan - library  
-kitabemaxin - typewriter  
 kitabemanter - librarian  
+kitabemaxin - typewriter  
 kivi - kiwi fruit  
 kize - cheese  
 kizoproten - casein  
@@ -2195,6 +2197,7 @@ lenge - cold
 lengomosim - winter  
 lengomosime - wintry  
 lense - lens  
+letre - letter (written message)  
 letus - lettuce  
 leu - already (yet)  
 lexe - word  
@@ -2500,7 +2503,7 @@ meste - master (be an expert at sth)
 mester - master (expert)  
 metal - metal  
 metalbede - anvil  
-metallin - wire  
+metalline - wire  
 metalzanger - blacksmith (iron forger)  
 metal tul - hardware (ironware, equipment)  
 metode - method (means)  
@@ -2572,6 +2575,7 @@ mise - send (emit, transmit)
 • tramise - transmit   
 • tramision - transmission  
 • tramisor - transmitter  
+mise poste kase - letterbox (mailbox, sending point for mail)  
 misal - example (instance of)  
 miskin - poor (miserable)  
 misre - Egyptian  
@@ -3232,6 +3236,7 @@ poste - mail (send by mail)
 • postaje - mail  
 • postekan - post office  
 postecape - postal stamp  
+poste kase - letterbox (mailbox, delivery point for mail)   
 postemarke - postmark (postage stamp)  
 pote - pot (vase, bin, jar, jug, pitcher, carafe, amphora)  
 poter - potter  
@@ -3606,6 +3611,7 @@ sere - series (sequence, succession)
 • seria - series (sequence, succession)  
 • sereme - link  
 • serser - chain  
+ser letre - chain letter  
 seronete - chain mail  
 Sera Leone - Sierra Leone  
 serame - ceramic  

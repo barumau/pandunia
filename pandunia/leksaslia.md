@@ -816,6 +816,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**lege**|eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)|
 |**lenge**|zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)|
 |**lense**|eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)|
+|**letre**|eng:letter, fra:lettre, hin:लेटर (leṭar), jpn:ター (retā)|
 |**letus**|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
 |**leu**|zho:了 (liǎo), yue:了 (liu5), tha:แล้ว (lɛw) + jpn:了 (ryō)|
 |**leze**|zho:梨子 (lízi), yue:梨 (lei42), vie:lê, |
@@ -931,7 +932,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**mester**|por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)|
 |**metal**|eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|
 |**metode**|eng:method, spa:por:método, fra:méthode, rus:ме́тод (métod), tur:metod, may:metode|
-|**metre**|eng:meter, hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra|
+|**metre**|eng:-meter, fra:-métrie, spa:-metría, por:-metria, rus:-метрия (-metriya), hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra, tur:-metri|
 |**meza**|por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa|
 |**mi**|eng:me, fra:por:spa:me, hindi:मैं (mẽ), swa:mimi|
 |**midi**|spa:medio, eng:medium, hin:माद्धयम (mādhyam)|

@@ -58,6 +58,7 @@ ame - ami (ŝati)
 • amer - amanto  
 • aname - malami  
 • anamike - malamulo  
+ame letre - amoletero  
 ama - sed  
 Amerike - Ameriko  
 amerikan - amerika  
@@ -1018,6 +1019,7 @@ laze - rubo
 lenge - malvarma  
 lengomosim - vintro  
 lengomosime - vintra  
+letre - letero  
 letus - laktuko  
 lexe - vorto  
 • lexia - vortaro  
@@ -1121,7 +1123,7 @@ meme - memori
 • member - membro  
 Merkur - Merkuro  
 metal - metalo  
-metallin - drato  
+metalline - drato  
 metode - metodo  
 metre - mezuri  
 meza - tablo  

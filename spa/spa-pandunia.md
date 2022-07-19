@@ -100,7 +100,7 @@ ajo - lasun
 ajonjolí (sésamo) - sesam  
 al revés - a retre  
 ala - panke  
-alambre (hilo) - metallin  
+alambre (hilo) - metalline  
 alargar - longife  
 Alaska - Alaska  
 Albania - Cipia  
@@ -426,6 +426,7 @@ boicot - boikote
 boina - berete  
 bola - bol  
 boleto - tikete  
+boletín de noticias - habar letre  
 Bolivia - Bolivia  
 bolsillo - jebe  
 bolígrafo - kalam  
@@ -474,6 +475,7 @@ Burundi - Rundi
 bus (autobús) - bus  
 buscar - soge  
 Bután - Drugia  
+buzón - poste kase  
 bárbaro - barbar  
 béisbol - baze bol  
 Bélgica - Belgia  
@@ -585,6 +587,8 @@ carpa (toldo) - haima
 carpeta - dokumsanduke  
 carpintero - mokozanger  
 carrera - peikari jive  
+carta - letre  
+carta amorosa - ame letre  
 cartografía - kartografia  
 carvis (alcaravea) - karave  
 casa (hogar, residencia; vivir, residir) - dom  

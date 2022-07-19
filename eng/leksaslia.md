@@ -782,6 +782,7 @@
 **lege** *light (weightless)* ← English:light, Spanish:ligero, French:léger, Russian:лёгкий (l’ogkiy), Polish:lekki, Bengali:লঘু (laghu)  
 **lenge** *cold* ← Mandarin:冷 (lěng), Vietnamese:lạnh, Cantonese:冷 (laang5)  
 **lense** *lens* ← English:lens, French:lentille, Spanish:Portuguese:lente, Russian:линза (linza), Hindi:लेंस (lens), Bengali:লেন্স (lenś), Malay:lensa, Japanese:レンズ (renzu), Korean:렌즈 (renjeu)  
+**letre** *letter (written message)* ← English:letter, French:lettre, Hindi:लेटर (leṭar), Japanese:ター (retā)  
 **letus** *lettuce* ← English:lettuce, Japanese:レタス (retasu), Hausa:latas, Hindi:लेटिष (leṭiṣ), Bengali:লেটুস (leṭus), French:laitue  
 **leu** *already (yet)* ← Mandarin:了 (liǎo), Cantonese:了 (liu5), Thai:แล้ว (lɛw) + Japanese:了 (ryō)  
 **leze** *pear* ← Mandarin:梨子 (lízi), Cantonese:梨 (lei42), Vietnamese:lê,   
@@ -897,7 +898,7 @@
 **mester** *master (expert)* ← Portuguese:mestre, French:maître, Polish:mistrz, English:master, Russian:мастер (master), Spanish:maestro, deu:Meister, Hindi:(mistrī)  
 **metal** *metal* ← English:Spanish:Portuguese:Turkish:metal, French:métal, deu:Metall, Russian:мета́лл (metáll)  
 **metode** *method (means)* ← English:method, Spanish:Portuguese:método, French:méthode, Russian:ме́тод (métod), Turkish:metod, Malay:metode  
-**metre** *measure (measurement)* ← English:meter, Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra  
+**metre** *measure (measurement)* ← English:-meter, French:-métrie, Spanish:-metría, Portuguese:-metria, Russian:-метрия (-metriya), Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra, Turkish:-metri  
 **meza** *table* ← Portuguese:Spanish:mesa, Hindi:मेज़ (mez), Swahili:meza, Malay:meja, Tamil:மேசை (mesei), Persian: میز‏‎ (miz), Turkish:masa  
 **mi** *I (me)* ← English:me, French:Portuguese:Spanish:me, hindi:मैं (mẽ), Swahili:mimi  
 **midi** *medium (intermediate, mean)* ← Spanish:medio, English:medium, Hindi:माद्धयम (mādhyam)  

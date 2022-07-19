@@ -78,6 +78,7 @@ alkolomixe - koktajl
 almari - kredens (szafa, szafka)  
 aluminium - glin (aluminium)  
 ame - kochać (miłość, afekt)  
+ame letre - list miłosny  
 ama - ale, lecz  
 Amare - Amhara, amharski  
 Amerike - Ameryka (kontynent)  
@@ -1452,8 +1453,8 @@ kite - iść (przemieścić się)
 kitabe - pisać (pismo)  
 kitaboforme - formatowanie  
 kitabekan - biblioteka  
-kitabemaxin - maszyna do pisania  
 kitabemanter - bibliotekarz  
+kitabemaxin - maszyna do pisania  
 kivi - owoc kiwi  
 kize - ser  
 kizoproten - kazeina  
@@ -1662,6 +1663,7 @@ lenge - zimny, chłodny
 lengomosim - zima  
 lengomosime - zimowy  
 lense - soczewka  
+letre - list  
 letus - sałata  
 lexe - słowo  
 • lexia - słownictwo  
@@ -2754,6 +2756,7 @@ sentimitre - centymetr
 sere - seria, szereg  
 • seria - seria (szereg)  
 • serser - łańcuch  
+ser letre - łańcuszek  
 seronete - kolczuga  
 Sera Leone - Sierra Leone  
 serame - ceramika  

@@ -51,6 +51,7 @@ ame - amor (amar; querido, caro)
 • amater - amador  
 • amike - querido  
 • amer - amante  
+ame letre - carta amorosa  
 ama - mas  
 amerikium - amerício  
 ancovi - anchova  
@@ -523,6 +524,7 @@ gute - joelho
 ## H  
 
 ha - ter  
+habar letre - boletim de notícias  
 hafnium - háfnio  
 hahe - rir  
 hai - mar  
@@ -833,6 +835,7 @@ lefte - esquerdo
 lengomosim - inverno  
 lengomosime - invernal (hibernal)  
 lense - lente  
+letre - carta  
 letus - alface  
 lexe - palavra (vocábulo)  
 • lexia - vocabulário  
@@ -946,7 +949,7 @@ merante - meranti
 Merkur - Mercúrio  
 mester - mestre  
 metalbede - bigorna  
-metallin - arame  
+metalline - arame  
 meza - mesa  
 mezatexe - toalha de mesa  
 mi - eu (me)  
@@ -1231,6 +1234,7 @@ portorike - porto-riquenho
 Portoriko - Porto Rico  
 postre - posterior  
 pospor - fósforo  
+poste kase - caixa de correio  
 postemarke - carimbo  
 pote - jarra (jarro)  
 poter - oleiro  

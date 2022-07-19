@@ -41,6 +41,7 @@ aluminium - アルミニウム
 ame - 愛  
 • amater - アマチュア  
 • amer - 恋人 (恋人)  
+ame letre - ラブレター (恋文)  
 amerikium - アメリシウム  
 amirlin - コマンド行  
 ancovi - アンチョビ  
@@ -471,6 +472,7 @@ gute - 膝
 
 ## H  
 
+habar letre - ニュースレター  
 hafnium - ハフニウム  
 hahe - 笑う  
 hai - 海  
@@ -751,6 +753,7 @@ lazanya - ラザニア
 lazurpetre - ラピスラズリ (瑠璃)  
 lefte - 左  
 lense - レンズ  
+letre - 手紙  
 letus - レタス  
 lexe - 言葉  
 • lexia - 語彙  
@@ -861,7 +864,7 @@ mendelevium - メンデレビウム
 menu - メニュー  
 metal - 金属  
 metalbede - 金敷き (鉄床)  
-metallin - 線 (針金)  
+metalline - 線 (針金)  
 metal tul - 金物  
 meza - 机 (テーブル)  
 mezastan - 台地 (高地)  
