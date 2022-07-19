@@ -56,14 +56,14 @@ además - a max
 adhesivo - glutograf  
 adicional (extra) - maxaje  
 adiós - sal cute  
-adjetivo - sifolexe  
+adjetivo - sifelexe  
 administrador - politer  
 adoquín - sirkite  
 adorar (venerar; adoración, veneración, culto) - puje  
 adormidera (amapola real) - somopapil  
 adulterio - zine  
 adulto - matur  
-adverbo - modolexe  
+adverbo - modelexe  
 adversario (oponente) - xatan  
 aeroplano - viman  
 aeropuerto - airoporta  
@@ -123,7 +123,7 @@ alga - alga
 algarrobo - karube  
 algas pardas - brunalge  
 algién - yo jen  
-algo - yo xei  
+algo - yo xe  
 algodón - goton  
 algún - yo  
 algún día (algún vez) - yo sate  
@@ -199,7 +199,6 @@ Antillas Neerlandesas - Nederlandi Antil
 antimonio - stibium  
 antorcha - fotobaton  
 antónimo - antinam  
-antónimo - antonam  
 análisis de datos - datofenkate  
 anís - anis  
 anón (ates, saramuyo) - ata  
@@ -805,7 +804,7 @@ confucianismo - kongfuzisme
 Confucio - Kongfuze  
 confundir (desconcertar, perplejo) - ruhmixe  
 conjugar (conjugación) - konyuge  
-conjunción - juntolexe  
+conjunción - juntelexe  
 conjunto (grupo, montón) - jamia  
 cono - konus  
 conocer - nose  
@@ -830,7 +829,7 @@ contener - intene
 contenido - intene  
 continuar (reanudar) - redure  
 continuo (analógico) - undure  
-contraseña - pasolexe  
+contraseña - paslexe  
 contraseña - sekurokode  
 contrato (tratado) - trete  
 contrato (tratado) - kontrate  
@@ -1271,7 +1270,7 @@ eslavo - slave
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
 esmeralda - zumurude  
-espacio (separación) - kal  
+espacio (separación) - kale  
 espacio (texto) - kali harfe  
 espada - katane  
 espalda (lomo) - ruke  
@@ -1689,7 +1688,7 @@ hormona - hormon
 hornacina - nis  
 hornear (cocer) - beke  
 horno - tanur  
-hospital - patokan  
+hospital - patekan  
 hotel (albergue) - hotel  
 hoy - a zay den  
 huella digital - angulmarke  
@@ -1887,7 +1886,7 @@ judaísmo - yahudisme
 judío - yahude  
 juego (jugar un juego) - gem  
 juego de mazmorras - dungia aventur  
-juego de mesa - banogem  
+juego de mesa - bangem  
 jueves - den catre  
 juez (árbitro, réferi) - juder  
 jugador - gemer  
@@ -2624,14 +2623,14 @@ parábola - parable
 parámetro - param  
 pasa (uva pasa) - ganputau  
 pasado - prezaman  
-pasaporte - pasoporte  
+pasaporte - pasporte  
 pasar (transcurrir) - durize  
-pasar - pase  
+pasar - pas  
 pasatiempo (hobby, afición) - hobe  
 pascal (Pa) - paskal  
 Pascua - paske  
 paso (grado, nivel, rango, calidad, categoría) - darge  
-paso (pasaje) - pasodau  
+paso (pasaje) - pasdau  
 paso elevado - supraje  
 pasta - paste  
 pastel (galleta) - keke  
@@ -3328,7 +3327,7 @@ Surinam - Surinam
 sushi - suxi  
 sustancia (materia) - mate  
 sustancia - kime  
-sustantivo - namloge  
+sustantivo - namelexe  
 susurrar (curjir) - xaxa  
 suástica - suesike  
 Svalbard - Svalbarde  
@@ -3457,7 +3456,7 @@ todavía (aún) - duro
 todo - pan  
 Togo - Togo  
 tolerar - tolere  
-tomate - tomate  
+tomate - tomato  
 tomografía - tomografia  
 tonelada - megagram  
 Tonga - Tonga  
@@ -3491,7 +3490,7 @@ trampa - kapotruke
 trampilla - padomun  
 tranquilo (calmado) - xante  
 transcurrir - trakurse  
-transitar (atravesar) - trapase  
+transitar (atravesar) - trapas  
 transmisión - tramision  
 transmisor - tramisor  
 transmitir - tramise  
@@ -3616,7 +3615,7 @@ ventilador - fentopanke
 Venus - Venus  
 ver (mirar; visión) - vide  
 verano - garmomosim  
-verbo - karolexe  
+verbo - karelexe  
 verdadero - vere  
 verde - luge  
 verde limón - limonluge  
@@ -3701,8 +3700,8 @@ yerba mate - mate
 Yibuti - Jibuti  
 yo - mi  
 yodo (iodo) - yodium  
-yoga - yoge  
-yogui - yogiste  
+yoga - yoga  
+yogui - yogaiste  
 yogur - yogur  
 yuca (mandioca) - manioke  
 yudo - judau  

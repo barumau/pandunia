@@ -25,7 +25,7 @@ actinium - acinium
 action - ation  
 actuel (courant) - zay zaman su  
 adapter (ajuster) - hape  
-adjectif - sifolexe  
+adjectif - sifelexe  
 administrateur - politer  
 adresse - adres  
 adulte - matur  
@@ -103,7 +103,6 @@ Antigua - Antigua
 Antigua-et-Barbuda - Antigua e Barbuda  
 antimoine - stibium  
 antonyme - antinam  
-antonyme - antonam  
 anus (anal) - anus  
 août - lun bate  
 apogée - abogee  
@@ -447,7 +446,7 @@ concombre - hiyar
 concombre confit (cornichon) - suanpursipi hiyar  
 concombre de mer - haihiyar  
 Confucius - Kongfuze  
-conjonction - juntolexe  
+conjonction - juntelexe  
 conjugaison - konyuge  
 connaissance - konnosion  
 connaître - nose  
@@ -846,7 +845,7 @@ hélium - helium
 hémoglobine - hemoglobin  
 hétéroromantique (hétéromantique) - aloromanse  
 hétérosexuel - alosexe  
-hôpital - patokan  
+hôpital - patekan  
 hôtel - hotel  
 
 ## I  
@@ -907,7 +906,7 @@ jade - giuke
 Japon - Nipon  
 jaïnisme - jainisme  
 je (me) - mi  
-jeu de société - banogem  
+jeu de société - bangem  
 jeudi - den catre  
 jeune (juvénile) - yune  
 jonction - juntion  
@@ -1110,7 +1109,7 @@ morue de l'Atlantique - atlante bakalau
 morue du Pacifique - pacehaikade  
 moscovium - moskovium  
 mot - lexe  
-mot de passe - pasolexe  
+mot de passe - paslexe  
 moteur - moter  
 mouche - domzeze  
 moudjahid (djihadiste) - jihadiste  
@@ -1290,9 +1289,9 @@ partenaire - partaner
 parti - kite  
 partisan (guérillero) - geriler  
 parvenir - pervene  
-passe (passage) - pasodau  
-passeport - pasoporte  
-passer - pase  
+passe (passage) - pasdau  
+passeport - pasporte  
+passer - pas  
 passer - durize  
 pastèque - arbuze  
 pathologie - patolojia  
@@ -1561,6 +1560,7 @@ rôtir - roste
 s'opposer à - xate  
 sable - sable  
 sables mouvants - movosable  
+sac - bage  
 sac - sake  
 sagesse - sofia  
 sagoutier - sagu  
@@ -1730,7 +1730,7 @@ tissu - texe
 titane - titanium  
 titre - temnam  
 toile d'araignée - aranonete  
-tomate - tomate  
+tomate - tomato  
 tombe (enterrer) - gabre  
 tomographie - tomografia  
 topinambour - masmulsolful  
@@ -1819,7 +1819,7 @@ Venezuela - Venezuele
 venir - lai  
 ventilateur - fentor  
 ver - verme  
-verbe - karolexe  
+verbe - karelexe  
 vermouth - vermute  
 verre - glas  
 verre - glasokupe  
@@ -1878,7 +1878,7 @@ y compris - inkluze da
 Yahweh (Jéhovah) - yahve  
 yaourt (yogourt) - yogur  
 yerba mate - mate  
-yogi - yogiste  
+yogi - yogaiste  
 ytterbium - yterbium  
 yttrium - ytrium  
 

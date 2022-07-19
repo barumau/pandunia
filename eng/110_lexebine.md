@@ -1,18 +1,79 @@
 # Word derivation
 
+Making new words from existing words is called word derivation.
+Often a new word is made by adding a prefix or suffix, such as _un-_ and _-ness_ in English.
+For example, _unhappy_ and _happiness_ are derived from the root word _happy_.
+
 New words can be built freely in Pandunia!
 Pandunia has a word derivation system that is regular and productive.
 
-## How to combine words?
+## Zero Derivation
 
-Pandunia words are made up of roots and suffixes.
-A root is that part of word that refers to something in the world outside the language.
-A suffix is a vowel ending that has mainly a grammatical function.
-For example, the word **zemia** 'planet Earth' consists of the root **zem-** 'earth, soil'
+Zero derivation means conversion of a word of a certain word class to a different word class without any change in form.
+This is very common in Pandunia,
+where most words don't belong to any fixed word classes.
+Instead, the word class is determined by the word's place in the sentence.
+
+For example, the word **kale** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
+
+**tu ha kale papir, he?**
+– Do you have some blank paper?  
+**don mi un hali!**
+– Give me a blank!  
+**tu mus kale go lexe.**
+– You must blank out that word.
+
+Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
+
+**mi kitabe letre.**
+– I write a letter.  
+**letre e kitabe misaje.**
+– A letter is a written message.  
+**mi ame tu su kitabe.**
+– I love your writings.
+
+
+## Compound Words
+
+A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
+Compound words can be made in four ways in Pandunia.
+
+1. Open compounds are written as separate words. Ex.
+   **tomato** 'tomato' + **sos** 'sauce** = **tomato sos** 'tomato sauce'.
+2. Closed compounds are joined to form a single word. Ex.
+   **poste** 'mail' + **kan** 'place for working, office, workshop, etc.' = **postekan** 'post office',
+   **bau** 'treasure' + **ite** 'stone' = **bavite** 'gemstone, jewel'.
+3. Merged compounds are joined together so that the final vowel of the first word disappears before the beginning vowel of the second word.
+   This can happen only when the first word ends in **-e** and the second word begins with a vowel. Ex.
+   **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
+4. Greek compounds are compounds where the final **-e** of the first word turns into **-o-** before the second word.
+   This way of compounding is applied only to a handful of words borrowed from Ancient Greek. Ex.
+   **fote** 'light' + **grafe** 'image' = **fotografe** 'photograhic image, photograph, photo'.
+
+There is little difference between open compounds and closed compounds.
+Open compounds may be written together as closed compounds,
+and closed compounds may be written separately as open compounds.
+Both ways work without problems.
+
+Merged compounds and Greek compounds are always written together as one word.
+It's possible to turn Greek compounds into closed compounds just by changing the **-o-** in the middle to **-e-**, so for example
+**fotografe**
+would turn into
+**fotegrafe**.
+Both forms are acceptable.
+Time will tell, will closed compounds become so popular that they displace Greek compounds.
+
+
+## Affixes
+
+Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
+They are joined or merged to the base word.
+
+For example, the word **zemia** 'planet Earth' consists of the base word **zeme** 'earth, soil'
 and the collective noun suffix **-ia**.
 
-           zem-      'earth, soil'
-       +   -ia       'a noun ending'
+          zeme       'earth, soil'
+       +   -ia       'collective noun suffix'
     _____________
     =     zemia      'planet Earth'
 
@@ -20,41 +81,31 @@ Two or more roots can be put together to make _compound words_.
 The last root is the most meaningful part in the compound
 and the preceding roots only modify its meaning.
 
-           pan-      'all'
-       +   dem-      'people, public'
-       +    -i       'adjective ending'
+           pan       'all'
+       +  deme       'people, public'
+       +  -ike       'adjectival suffix'
     _____________
-    =   pandemi      'pandemic'
+    = pandemike      'pandemic'
 
-Joining roots together could sometimes result into unpronounceable consonant sequences.
-For example, the consonant sequence **-tgr-** could appear when the roots **fot-** and **graf-** were put together.
-Then the connecting vowel **-o-** is inserted between the roots to make pronunciation easier.
+The connecting vowel **-o-** is inserted between words in Greek compounds.
 
-           fot-      'light'
-       +    -o-      'connecting vowel'
-       +  graf-      'picture, image'
-    _____________
-    =   fotograf     'photograph'
-
-There are two more examples below.
-
-           dem-      'people, public'
-       +    -o-      'connecting vowel'
-       +  krat-      'rule, govern'
-       +   -ia       'a noun ending'
+           deme      'people, public'
+       +    -o-      'connecting vowel for Greek compounds'
+       +  krate      'rule, govern'
+       +    -ia      'collective noun suffix'
     _____________
     = demokratia     'democracy'
 
-          term-      'temperature'
-       +    -o-      'connecting vowel'
-       +   met-      'measuring'
-       +    or-      'apparatus'
+          terme      'temperature'
+       +    -o-      'connecting vowel for Greek compounds'
+       +  metre      'measure'
+       +     -r      'agent or apparatus'
     ____________
-    = termometor     'thermometer'
+    = termometrer     'thermometer'
 
-Some roots are used frequently as prefixes but seldom as words on their own.
-These *international prefixes* include the roots **a-**, **de-**, **pro-**, **re-** and **su-** among others.
-Pandunia has adopted them in order to re-create many international words as native Pandunia words.
+Pandunia has adopted international prefixes,
+including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
+in order to re-create many international words as native Pandunia words.
 
              a-      'to, toward'
        +   ces-      'pass'
@@ -86,27 +137,6 @@ Fossilized words whose meanings are no longer the sum of their parts,
 like *evolution* (originally 'rolling out') and *revolution* (originally 'rolling back'),
 are not compound words in Pandunia.
 
-
-## Compound words – together or separately?
-
-It doesn't matter are the elements of a compound word written together or separately
-– both ways work without problems.
-So, for example, the word for 'mailbox' can be written
-**poste kase**
-or
-**postokase**
-and the word for 'democracy' can be written
-**deme kratia**
-or
-**demokratia**.
-
-
-## Affixes
-
-Prefixes and suffixes are very important and give great flexibility to the language.
-The most useful ones are listed here.
-Most of them are in fact ordinary words that are also used on their own,
-but some are true prefixes or suffixes and can be used only as such, not as separate words.
 
 ### Prefixes
 
@@ -553,7 +583,7 @@ There are also a lot of country names that do not end in **-ia**.
 → **kurvude**
 'curvature'
 
-**-ul-**
+**-ule**
 'diminutive, indicating small size or youth' :  
 **kume**
 'mound, hill'
@@ -564,7 +594,7 @@ There are also a lot of country names that do not end in **-ia**.
 → **nodule**
 'nodule, small lump'
 
-**-ur-**
+**-ure**
 'result or product' :  
 **kulte**
 'cultivate (a way of life)'

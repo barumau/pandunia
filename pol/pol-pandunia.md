@@ -71,7 +71,6 @@ antena - anten
 Antigua - Antigua  
 Antigua i Barbuda - Antigua e Barbuda  
 antonim - antinam  
-antonim - antonam  
 antychryst - antikriste  
 Antyle Holenderskie - Nederlandi Antil  
 antymon - stibium  
@@ -354,7 +353,7 @@ cmentarz - gabrostan
 cnota (moralność) - sudeke  
 co? - ke  
 co? - ke jen  
-coś - yo xei  
+coś - yo xe  
 croissant - kruasante  
 cudzysłów - citomarke  
 cukier - sukar  
@@ -385,7 +384,7 @@ czas (epoka, era) - durozam
 czas (epoka, era) - zaman  
 czas - sate  
 czas; okazja - mar  
-czasownik - karolexe  
+czasownik - karelexe  
 czaszka - saroste  
 czcić (szanować; cześć, szacunek) - puje  
 czek - ceke  
@@ -727,7 +726,7 @@ gorączka - febre
 gotować, szykować jedzenie - kuke  
 gotowy (przygotować, przygotowywać) - prepare  
 gra (grać w grę) - gem  
-gra planszowa - banogem  
+gra planszowa - bangem  
 gracki, helleński; Grek - helene  
 gracz - gemer  
 gradient (gradacja, stopniowanie) - dargomeden  
@@ -978,8 +977,8 @@ Jezus - yesus
 jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa - gar  
 jod; jodyna - yodium  
 jodła - abete  
-joga - yoge  
-jogin (joginka) - yogiste  
+joga - yoga  
+jogin (joginka) - yogaiste  
 jogurt - yogur  
 jon - yon  
 Jordan - Urdun  
@@ -1508,7 +1507,7 @@ minister - manter
 ministry - manteria  
 minuta - minute  
 minąć, mijać (czas) - durize  
-minąć, mijać, przeminąć, przemijać - pase  
+minąć, mijać, przeminąć, przemijać - pas  
 miraż (fatamorgana) - miraje  
 misja - misia  
 misjonarz - misioner  
@@ -1933,7 +1932,7 @@ paskal (Pa) - paskal
 pasować - konbone  
 pasta - paste  
 pasywny (nieaktywny) - pasive  
-paszport - pasoporte  
+paszport - pasporte  
 patelnia - tave  
 patogen - patogener  
 patologia - patolojia  
@@ -2084,7 +2083,7 @@ polski - polske
 pomarańcza - orange  
 pomarańcza słodka (pomarańcza chińska) - sukarorange  
 pomarańczowy - orangi  
-pomidor - tomate  
+pomidor - tomato  
 pomnik (memoriał) - memobine  
 pompować - pompe  
 pomóc (pomagać, asystować; pomoc, wsparcie) - mede  
@@ -2239,7 +2238,7 @@ przegrana (strata, porażka) - xibai
 przegrany, pokonany - xibayer  
 przegrać, przegrywać - xibai  
 przejść w poprzek - krusu  
-przejść, przechodzić, przejechać, przejeżdżać - trapase  
+przejść, przechodzić, przejechać, przejeżdżać - trapas  
 przekroczyć, przekraczać, przejść nad, iść nad - supropase  
 przekąska - lilyam  
 przekątny (diagonal) - tragone  
@@ -2270,7 +2269,7 @@ przyjęcie (święto, festiwal) - feste
 przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać - lai  
 przykryć (przykrywać, ukryć, ukrywać; pokrycie; pokrywa, wieko, dekiel; pokład) - dake  
 przykład - misal  
-przymiotnik - sifolexe  
+przymiotnik - sifelexe  
 przymus (musieć; zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać) - mus  
 przyprawa - masale  
 przyrostek (sufiks) - posfixe  
@@ -2280,7 +2279,7 @@ przyrostek dla wsperającego ideę - iste
 przystanek autobusowy - bus halte  
 przystojny, atrakcyjny, ładny - suvide  
 przyszłość - posozam  
-przysłówek - modolexe  
+przysłówek - modelexe  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tiroriu  
 prędkościomierz - sugometrer  
 prędkość (szybkość) - sugude  
@@ -2298,7 +2297,7 @@ puding - puding
 pudło, skrzynia - sanduke  
 puma (kuguar) - puma  
 punkt - binde  
-pustka - kal  
+pustka - kale  
 pusty - kale  
 pustynia - sablostan  
 pułapka - kapotruke  
@@ -2454,7 +2453,7 @@ rzadki (rozproszyć, rozpraszać;  rozrzedzony, rozproszony) - dise
 rzadko - nadir  
 rzadkość - raria  
 rzecz - xei  
-rzeczownik - namloge  
+rzeczownik - namelexe  
 rzeczywistość (realność) - relia  
 rzeka - riu  
 rzemieślnik - zanger  
@@ -2741,7 +2740,7 @@ szokwstrząs; kolizja - xoke
 szop pracz - vaxurse  
 szorstki - karse  
 szparag; szparagia - asparge  
-szpital - patokan  
+szpital - patekan  
 szron - hima rose  
 sztuczka (podstęp, oszustwo) - truke  
 sztuczna inteligencja - artofete intelige (AI)  

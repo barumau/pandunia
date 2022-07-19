@@ -119,7 +119,7 @@ autoreje - independente
 bace - criança (menino)  
 bade - corpo  
 badam - amêndoa  
-bagaje - bagagem  
+• bagaje - bagagem  
 bagre - tigre  
 bagroselote - gato-do-mato (gato-maracajá-mirim)  
 bake - branco  
@@ -133,7 +133,7 @@ balute - carvalho
 bambu - bambu  
 bamia - quiabo  
 ban - painel  
-banogem - jogo de tabuleiro  
+bangem - jogo de tabuleiro  
 banan - banana  
 bande - bando  
 • bankokan - banco  
@@ -648,7 +648,7 @@ juba - manto
 jul - joule (J)  
 • juntion - junção  
 • junture - juntura  
-juntolexe - conjunção  
+juntelexe - conjunção  
 jupiter - Júpiter  
 jus - suco (sumo)  
 juste - exato (preciso)  
@@ -693,7 +693,7 @@ kare - trabalhar
 • karer - trabalhador  
 • duskar - malfeitoria (pecado)  
 • konkare - colaborar  
-karolexe - verbo  
+karelexe - verbo  
 karave - alcaravia (cariz)  
 karbe - carbono  
 karboduloxide - dióxido de carbono  
@@ -1155,12 +1155,12 @@ parce - fragmento
 parke - parque  
 parne - samambaia  
 • partaner - parceiro  
-pasodau - passagem  
-pasolexe - palavra-passe (senha)  
-pasoporte - passaporte  
+pasdau - passagem  
+paslexe - palavra-passe (senha)  
+pasporte - passaporte  
 paste - pasta  
 • patike - paciente  
-• patokan - hospital  
+• patekan - hospital  
 patogener - patógeno  
 patolojia - patologia  
 patomise - infectar (contagiar; infecção, contágio)  
@@ -1379,7 +1379,7 @@ sexolojia - sexologia
 siborgium - seabórgio  
 • inside - agacharse  
 • presidente - presidente  
-sifolexe - adjetivo  
+sifelexe - adjetivo  
 sigare - cigarro  
 siyahe - preto  
 • sikliste - ciclista  
@@ -1494,7 +1494,7 @@ titanium - titânio
 • tomografia - tomografia  
 • duotome - dicotomia  
 • jivotome - vivisecção  
-tomate - tomate  
+tomato - tomate  
 • atone - afinar  
 • sintone - sintonizar  
 • sintonor - sintonizador  
@@ -1656,7 +1656,7 @@ yau - necessitar (necessidade)
 ye - sim  
 yege - caçar  
 yodium - iodo  
-• yogiste - iogui  
+• yogaiste - iogui  
 yogur - iogurte  
 yom - dia  
 yterbium - itérbio  

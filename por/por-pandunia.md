@@ -20,7 +20,7 @@ acordo (tratado, contrato) - kontrate
 acordo - saomrayia  
 actínio - acinium  
 adesivo - glutograf  
-adjetivo - sifolexe  
+adjetivo - sifelexe  
 administrador - politer  
 adversário - xatan  
 aeite (óleo) - nefte  
@@ -354,7 +354,7 @@ confiar (contar com) - krede
 Confúcio - Kongfuze  
 conhecer - nose  
 conhecer - konnose  
-conjunção - juntolexe  
+conjunção - juntelexe  
 cono - konus  
 conselho (aconselhar) - sel  
 construir - bine  
@@ -727,7 +727,7 @@ hortelã - minte
 hortelã-da-água - suiminte  
 hortelã-pimenta - piprominte  
 hortelã-verde - zongominte  
-hospital - patokan  
+hospital - patekan  
 hotel - hotel  
 humanismo - humanisme  
 humano - humane  
@@ -787,7 +787,7 @@ intestino (entranhas, tripa) - intraje
 invernal (hibernal) - lengomosime  
 inverno - lengomosim  
 iodo - yodium  
-iogui - yogiste  
+iogui - yogaiste  
 iogurte - yogur  
 ir - kite  
 ironia - ironia  
@@ -810,7 +810,7 @@ Javé (Jeová) - yahve
 jengibre - jenje  
 jihadista - jihadiste  
 joelho - gute  
-jogo de tabuleiro - banogem  
+jogo de tabuleiro - bangem  
 joule (J) - jul  
 jovem - yune  
 jugo - yuge  
@@ -1130,7 +1130,7 @@ pai - pa
 painel - ban  
 palato (céu da boca) - bokacate  
 palavra (vocábulo) - lexe  
-palavra-passe (senha) - pasolexe  
+palavra-passe (senha) - paslexe  
 palhaço - payace  
 palácio (mansão, palacete) - daidom  
 paládio - paladium  
@@ -1150,9 +1150,9 @@ parque - parke
 partida - mace  
 parábola - parable  
 parâmetro - param  
-passagem - pasodau  
+passagem - pasdau  
 passagem de volta - retrotikete  
-passaporte - pasoporte  
+passaporte - pasporte  
 pasta - paste  
 patinete (trotineta) - skuter  
 pato - bata  
@@ -1534,7 +1534,7 @@ titânio - titanium
 toalha - gantexe  
 toalha de mesa - mezatexe  
 tocar (tato) - tate  
-tomate - tomate  
+tomate - tomato  
 tomografia - tomografia  
 topografia - topografe  
 topografia - topografia  
@@ -1613,7 +1613,7 @@ vegetalista - purfitoyamiste
 vegetariano - fitoyamiste  
 vender - vende  
 ver - vide  
-verbo - karolexe  
+verbo - karelexe  
 verdadeiro - vere  
 verde - luge  
 verdura (hortaliça, legume) - yamfite  

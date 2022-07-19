@@ -189,7 +189,7 @@ bade - ciało
 badam - migdał  
 badave - beduiński; nomadyczny  
 badle - wymieniać, wymienić, zamieniać, zamienić  
-bagaje - bagaż  
+• bagaje - bagaż  
 bagre - tygrys  
 bagroselote - ocelot tygrysi  
 bah - pfuj (fuj)  
@@ -213,7 +213,7 @@ balute - dąb
 balutopal - żołądź  
 bambu - bambus  
 ban - tablica (deska)  
-banogem - gra planszowa  
+bangem - gra planszowa  
 banan - banan  
 bande - zespół (drużyna, grupa)  
 bandir - flaga, sztandar  
@@ -1303,7 +1303,7 @@ kai - otwarty (otworzyć, otwierać)
 Kaiman nesia - Kajmany  
 kaka - ekskrement (gówno; defekować, srać)  
 kakau - kakao  
-kal - pustka  
+kale - pustka  
 kale - pusty  
 kali harfe - spacja  
 kalium - potas  
@@ -1356,7 +1356,7 @@ kare - pracować
 • karaje - praca, zjęcie, zadanie  
 • karer - pracownik  
 • konkare - współpracować (kolaborować)  
-karolexe - czasownik  
+karelexe - czasownik  
 karomeza - biurko  
 karoxuler - praktykant  
 karaoke - karaoke  
@@ -1978,7 +1978,7 @@ mitre - metr
 mixe - miksować, mieszać  
 • mixer - mikser, blender, robot kuchenny  
 mode - sposób (metoda, tryb)  
-modolexe - przysłówek  
+modelexe - przysłówek  
 model - model, wzór, wzorzec, projekt  
 modele - modelować (projektować, zaprojektować)  
 moge - tusz  
@@ -2068,8 +2068,7 @@ nam - imię, nazwa
 name - być wezwanym, być wzywanym, być nazwanym, być nazywanym  
 namane - nazwać, nazywać, wezwać, wzywać  
 namkitabe - podpis (autograf)  
-namloge - rzeczownik  
-• antonam - antonim  
+namelexe - rzeczownik  
 • antinam - antonim  
 • dusnam - obraza (obelga)  
 • exonam - egzonim  
@@ -2334,10 +2333,10 @@ parte - uczestniczyć, wziąć udział, brać udział
 • partia - partia  
 • partaner - partner  
 • parter - uczestnik  
-pase - minąć, mijać, przeminąć, przemijać  
+pas - minąć, mijać, przeminąć, przemijać  
 • pasive - pasywny (nieaktywny)  
-• trapase - przejść, przechodzić, przejechać, przejeżdżać  
-pasoporte - paszport  
+• trapas - przejść, przechodzić, przejechać, przejeżdżać  
+pasporte - paszport  
 paske - Wielkanoc  
 paskal - paskal (Pa)  
 paste - pasta  
@@ -2345,7 +2344,7 @@ pastopetre - magma
 pate - chory  
 • patia - choroba  
 • patike - pacjent  
-• patokan - szpital  
+• patekan - szpital  
 patogener - patogen  
 patolojia - patologia  
 patomise - infekcja (zakażenie)  
@@ -2787,7 +2786,7 @@ sife - opisać (zakwalifikować; cecha, właściwość, parametr)
 • sifive - opisowy  
 • susife - wspaniały  
 • susifia - cecha, atrybut, własność; -ość  
-sifolexe - przymiotnik  
+sifelexe - przymiotnik  
 sigare - papieros (cygar)  
 siyahe - czarny  
 sikisme - sikhizm  
@@ -3061,7 +3060,7 @@ tolere - tolerować
 • tomografia - tomografia  
 • duotome - dychotomia  
 • jivotome - wiwisekcja  
-tomate - pomidor  
+tomato - pomidor  
 tone - ton, dźwięk, nuta, tonacja  
 tong - beczka  
 Tonga - Tonga  
@@ -3366,10 +3365,10 @@ yeze - kokos
 yo - jakiś  
 yo jen - ktoś  
 yo sate - sometime  
-yo xei - coś  
+yo xe - coś  
 yodium - jod; jodyna  
-yoge - joga  
-• yogiste - jogin (joginka)  
+yoga - joga  
+• yogaiste - jogin (joginka)  
 yogur - jogurt  
 yohan feste - dzień świętego Jana  
 yom - dzień  

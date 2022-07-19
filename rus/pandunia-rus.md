@@ -124,7 +124,7 @@ babul - акация
 bace - ребёнок  
 bade - тело  
 badam - миндаль  
-bagaje - багаж  
+• bagaje - багаж  
 bagre - тигр  
 bagroselote - онцилла  
 bake - белый  
@@ -139,7 +139,7 @@ balute - дуб
 bambu - бамбук  
 bamia - окра (бамия)  
 ban - доска (панель)  
-banogem - настольная игра  
+bangem - настольная игра  
 banan - банан  
 bande - банда  
 bandir - флаг  
@@ -725,7 +725,7 @@ kare - работать
 • karaje - работа  
 • karer - работник  
 • konkare - сотрудничать (кооперировать)  
-karolexe - глагол  
+karelexe - глагол  
 • karateiste - каратист (каратэка)  
 karbe - углерод  
 karboduloxide - двуокись углерода  
@@ -1036,7 +1036,6 @@ muzike - музика
 nadir - редкий (редко)  
 nagis - грязь (скверна)  
 namkitabe - подписать  
-• antonam - антоним  
 • antinam - антоним  
 narde - нарды (триктрак)   
 narke - наркотик  
@@ -1176,10 +1175,10 @@ parke - парк
 parne - папоротник  
 • partaner - партнёр  
 • partaneria - партнёрство  
-pasolexe - пароль  
-pasoporte - паспорт  
+paslexe - пароль  
+pasporte - паспорт  
 • patike - пациент (больной)  
-• patokan - больница (госпиталь)  
+• patekan - больница (госпиталь)  
 • konpatia - жалость (сердобольность)  
 patogener - патоген  
 patolojia - патология  
@@ -1411,7 +1410,7 @@ siane - циан
 siborgium - сиборгий  
 • sidel - сиденье (седло)  
 • inside - сесть на корточки  
-sifolexe - прилагательное  
+sifelexe - прилагательное  
 sigare - сигарета (папироса, сигарка)  
 siyahe - чёрный  
 • sikliste - велосипедист  
@@ -1555,7 +1554,7 @@ titanium - титан
 • duotome - дихотомия  
 • jivotome - вивисекция  
 • tritome - трихотомия  
-tomate - помидор (томат)  
+tomato - помидор (томат)  
 topografe - топография  
 • topografia - топография  
 • torete - башенка (турель)  
@@ -1724,8 +1723,8 @@ yege - охотиться
 Yemen - Йемен  
 yesus - Иисус  
 yodium - йод  
-yoge - йога  
-• yogiste - йог  
+yoga - йога  
+• yogaiste - йог  
 yogur - йогурт  
 yohan feste - Иванов день  
 yom - день (дневное время)  

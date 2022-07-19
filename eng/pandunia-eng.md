@@ -289,7 +289,8 @@ bade - body (bodily, corporal)
 badam - almond  
 badave - bedouin (nomadic)  
 badle - exchange (swap, replace, trade)  
-bagaje - luggage (baggage)  
+bage - bag  
+• bagaje - luggage (baggage)  
 bagre - tiger  
 bagroselote - oncilla  
 bah - bah  
@@ -315,7 +316,7 @@ balutopal - acorn
 bambu - bamboo  
 bamia - okra (okro)  
 ban - board (pane, panel)  
-banogem - board game  
+bangem - board game  
 banan - banana  
 bande - band (squad, group)  
 bandir - flag (banner)  
@@ -1724,7 +1725,7 @@ jul - joule (J)
 junte - joint (join)  
 • juntion - junction  
 • junture - juncture (junction, intersection)  
-juntolexe - conjunction  
+juntelexe - conjunction  
 jupiter - Jupiter  
 jus - juice  
 juste - precise (exact, accurate; just, exactly)  
@@ -1753,7 +1754,7 @@ kai - open (not closed)
 Kaiman nesia - Cayman Islands  
 kaka - excrement (shit; defecate)  
 kakau - cocoa  
-kal - void (empty space)  
+kale - void (empty space)  
 kale - empty (void)  
 kali harfe - space (character)  
 kalium - potassium  
@@ -1811,7 +1812,7 @@ kare - work
 • karer - worker  
 • duskar - misdeed (sin, vice)  
 • konkare - collaborate (work together)  
-karolexe - verb  
+karelexe - verb  
 karomeza - desk  
 karoxuler - apprentice  
 karaoke - karaoke  
@@ -2582,7 +2583,7 @@ mixe - mix (blend)
 mode - way (manner, mode)  
 • konmode - comfortable (convenient, commodious)  
 • akonmode - accommodate   
-modolexe - adverb  
+modelexe - adverb  
 model - model (design)  
 modele - model (design)  
 moge - ink  
@@ -2684,8 +2685,7 @@ name - be called (be named)
 namane - call (name)  
 namative - nominative case  
 namkitabe - sign (autograph)  
-namloge - noun  
-• antonam - antonym  
+namelexe - noun  
 • antinam - antonym  
 • dusnam - insult (offense; offend, call names)  
 • exonam - exonym  
@@ -3028,17 +3028,17 @@ parte - participate (attend, partake, take part)
 • partaner - partner  
 • partaneria - partnership  
 • partative - partitive case  
-• partecepe - participate  
-• parteceper - participant  
+partecepe - participate  
+parteceper - participant  
 • partekul - particle  
 • parter - participant  
 • departure - departure  
-pase - pass (go across or through)  
+pas - pass (go across or through)  
 • pasive - passive (inactive)  
-• trapase - transit (pass through or across)  
-pasodau - pass (passage)  
-pasolexe - password  
-pasoporte - passport  
+• trapas - transit (pass through or across)  
+pasdau - pass (passage)  
+paslexe - password  
+pasporte - passport  
 paske - Easter  
 paskal - pascal (Pa)  
 paste - paste (dough)  
@@ -3047,7 +3047,7 @@ pate - ill (sick)
 • patia - illness (sickness)  
 • patike - patient (subject of medical treatment)  
 • pation - disease  
-• patokan - hospital  
+• patekan - hospital  
 • konpatia - compassion  
 patogener - pathogen  
 patolojia - pathology  
@@ -3638,7 +3638,7 @@ sife - qualify (describe; quality, attribute, description)
 • sifive - descriptive  
 • susife - excellent  
 • susifia - excellence (quality, virtue)  
-sifolexe - adjective  
+sifelexe - adjective  
 sigare - cigarette (cigar)  
 siyahe - black  
 sikisme - Sikhism  
@@ -3997,7 +3997,7 @@ tome - split (dissect)
 • jivotome - vivisection  
 • antomable - indivisible  
 • tritome - trichotomy  
-tomate - tomato  
+tomato - tomato  
 tone - tone (note, pitch)  
 • atone - tune (adjust a musical instrument)  
 • sintone - tune in (radio or TV)  
@@ -4410,10 +4410,10 @@ yo - one (someone)
 Io - Io  
 yo jen - someone (somebody)  
 yo sate - sometime  
-yo xei - something  
+yo xe - something  
 yodium - iodine  
-yoge - yoga  
-• yogiste - yogi  
+yoga - yoga  
+• yogaiste - yogi  
 yogur - yogurt  
 yohan feste - Saint John's Day  
 yom - day (daytime)  

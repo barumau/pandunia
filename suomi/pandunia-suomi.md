@@ -262,7 +262,8 @@ bade - keho (ruumis)
 badam - manteli  
 badave - beduiini  
 badle - vaihtaa  
-bagaje - matkatavarat  
+bage - laukku  
+• bagaje - matkatavarat  
 bagre - tiikeri  
 bah - pah (pyh)  
 bahaisme - bahailaisuus  
@@ -282,7 +283,7 @@ balutopal - tammenterho
 bambu - bambu  
 bamia - okra  
 ban - lauta (paneeli)  
-banogem - lautapeli  
+bangem - lautapeli  
 banan - banaani  
 bande - ryhmä (työryhmä, yhtye, bändi)  
 bandir - lippu  
@@ -1529,7 +1530,7 @@ jul - joule (J)
 junte - liitos (nivel)  
 • juntion - liittäminen  
 • junture - risteys (liittymä)  
-juntolexe - konjunktio (sidesana)  
+juntelexe - konjunktio (sidesana)  
 jupiter - Jupiter  
 jus - mehu  
 juste - tarkka (täsmällinen; juuri, just,täsmälleen)  
@@ -1554,7 +1555,7 @@ kai - auki (avoin; avata, aukaista; avautua, aueta)
 Kaiman nesia - Cayman-saaret  
 kaka - uloste (kakka; ulostaa, kakata)  
 kakau - kaakao  
-kal - tyhjö  
+kale - tyhjö  
 kale - tyhjä  
 kalium - kalium  
 Kalalia - Grönlanti  
@@ -1600,7 +1601,7 @@ kare - työskennellä
 • karer - työntekijä (työläinen)  
 • duskar - synti (paha teko)  
 • konkare - tehdä yhteistyötä  
-karolexe - verbi (teonsana)  
+karelexe - verbi (teonsana)  
 karomeza - työpöytä (kirjoituspöytä)  
 karaoke - karaoke  
 karate - karate  
@@ -2248,7 +2249,7 @@ mitre - metri
 mixe - sekoittaa  
 • mixer - sekoitin  
 mode - tapa  
-modolexe - adverbi  
+modelexe - adverbi  
 model - malli  
 modele - mallintaa  
 moge - muste  
@@ -2334,8 +2335,7 @@ nam - nimi
 name - olla nimeltään  
 namane - nimittää (kutsua)  
 namative - nominatiivi  
-namloge - substantiivi (nimisana)  
-• antonam - vastakohta (antonyymi)  
+namelexe - substantiivi (nimisana)  
 • antinam - vastakohta (antonyymi)  
 • dusnam - loukkaus (herja, solvaus)  
 • exonam - eksonyymi  
@@ -2629,14 +2629,14 @@ parte - osallistua
 • partaner - partneri (kumppani, osakas)  
 • partaneria - henkilöyhtiö  
 • partative - partitiivi  
-• partecepe - osallistua  
-• parteceper - osallistuja  
+partecepe - osallistua  
+parteceper - osallistuja  
 • parter - osallistuja  
-pase - mennä ohi tai läpi  
-• trapase - kulkea poikki, läpi tai yli  
-pasodau - sola (läpikulku)  
-pasolexe - tunnussana  
-pasoporte - passi  
+pas - mennä ohi tai läpi  
+• trapas - kulkea poikki, läpi tai yli  
+pasdau - sola (läpikulku)  
+paslexe - tunnussana  
+pasporte - passi  
 paske - pääsiäinen  
 paskal - pascal (Pa)  
 paste - tahna (tahdas)  
@@ -2644,7 +2644,7 @@ pate - sairas
 • patia - sairaus  
 • patike - potilas  
 • pation - tauti  
-• patokan - sairaala  
+• patekan - sairaala  
 patogener - patogeeni  
 patolojia - patologia (tautioppi)  
 patomise - tartuntatauti (infektio)  
@@ -3149,7 +3149,7 @@ sife - määritellä (luonnehtia; laatu, ominaisuus, ominaispiirre, määrite)
 • sifive - kuvaileva (määrittelevä)  
 • susife - laadukas (hyvä)  
 • susifia - laatu (laadukkuus, erinomaisuus, hyvyys)  
-sifolexe - adjektiivi (laatusana)  
+sifelexe - adjektiivi (laatusana)  
 sigare - savuke tai sikari  
 siyahe - musta  
 sikisme - sikhiläisyys  
@@ -3442,7 +3442,7 @@ tome - jakaa (leikata)
 • duotome - kahtiajako (dikotomia)  
 • jivotome - vivisektio (elävältäleikkaus)  
 • tritome - kolmijako  
-tomate - tomaatti  
+tomato - tomaatti  
 tone - sävel (sävy)  
 • atone - virittää soitin  
 • sintone - virittää radio  
@@ -3808,10 +3808,10 @@ yeze - kookos
 yo - joku (jokin)  
 yo jen - joku  
 yo sate - joskus  
-yo xei - jokin  
+yo xe - jokin  
 yodium - jodi  
-yoge - jooga  
-• yogiste - joogi  
+yoga - jooga  
+• yogaiste - joogi  
 yogur - jogurtti  
 yohan feste - juhannus (kristillinen juhla)  
 yom - päivä  

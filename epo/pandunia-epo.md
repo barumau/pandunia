@@ -133,7 +133,8 @@ bace - infano
 bade - korpo  
 badave - beduino (nomado)  
 badle - interŝanĝi  
-bagaje - pakaĵo  
+bage - sako  
+• bagaje - pakaĵo  
 bagre - tigro  
 bahaisme - bahaismo  
 bahaiste - bahaisto  
@@ -146,7 +147,7 @@ balde - sitelo
 balon - balono  
 bambu - bambuo  
 ban - tabulo  
-banogem - tabulludo  
+bangem - tabulludo  
 banan - banano  
 bandir - flago  
 Banglodex - Bangladeŝo  
@@ -871,7 +872,7 @@ kape - kapti
 • karokan - laborejo  
 • karer - laboristo  
 • konkare - kunlabori  
-karolexe - verbo  
+karelexe - verbo  
 karate - karateo  
 karave - karvio  
 karbe - karbono  
@@ -1210,7 +1211,7 @@ nafas - spiro
 nagre - urbo  
 nagre - urba  
 nam - nomo  
-namloge - substantivo  
+namelexe - substantivo  
 • pronam - pronomo  
 Namibia - Namibio  
 nanas - ananaso  
@@ -1344,11 +1345,11 @@ parce - ero
 parke - parko (ĝardeno)  
 parte - partopreni  
 • partia - partio  
-pase - pasi  
-pasoporte - pasporto  
+pas - pasi  
+pasporte - pasporto  
 pate - malsana  
 • patike - paciento  
-• patokan - malsanulejo  
+• patekan - malsanulejo  
 patolojia - patologio  
 patomise - infekto  
 patate - terpomo  
@@ -1580,7 +1581,7 @@ siborgium - seborgio
 side - sidi  
 • presidente - prezidento  
 • susifia - eco  
-sifolexe - adjektivo  
+sifelexe - adjektivo  
 sigare - cigaredo  
 siyahe - nigra  
 • sikliste - biciklisto  
@@ -1716,7 +1717,7 @@ titanium - titanio
 Togo - Toglando  
 • duotome - diĥotomio  
 • jivotome - vivisekcio  
-tomate - tomato  
+tomato - tomato  
 tone - tono  
 tope - regiono  
 tore - turo  
@@ -1886,9 +1887,9 @@ yeze - kokoso
 yo - iu  
 yo jen - iu persono  
 yo sate - iam  
-yo xei - io  
+yo xe - io  
 yodium - jodo  
-yoge - jogo  
+yoga - jogo  
 yogur - jogurto  
 yom - tago  
 yomyam - tagmanĝo  

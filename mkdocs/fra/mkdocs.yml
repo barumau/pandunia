@@ -17,14 +17,14 @@ nav:
         - 101_dunia_lexe.md
         - 102_ABC.md
         - 104_viselexe.md
-        - 105_namolexe.md
+        - 105_namelexe.md
         - 106_nume.md
-        - 107_modolexe.md
-        - 108_karmaloga.md
-        - 109_jumlobine.md
-        - 110_lexobine.md
+        - 107_modelexe.md
+        - 108_karelexe.md
+        - 109_jumlebine.md
+        - 110_lexebine.md
     - 'Leçons':
-        - 'Phrases courantes': 200_baze_jumla.md
+        - 'Phrases courantes': 200_baze_jumle.md
         - 'Leçons': 201_xule.md
     - 'Vocabulaire':
         - 'Pandunia → français': pandunia-fra.md

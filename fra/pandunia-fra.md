@@ -195,7 +195,8 @@ bace - enfant
 bade - corps  
 badam - amande  
 badave - bédouin  
-bagaje - bagage  
+bage - sac  
+• bagaje - bagage  
 bagre - tigre  
 bagroselote - oncille  
 bah - bah  
@@ -216,7 +217,7 @@ balutopal - gland
 bambu - bambou  
 bamia - gombo  
 ban - tableau (panneau)  
-banogem - jeu de société  
+bangem - jeu de société  
 banan - banane  
 bande - bande  
 bandir - drapeau  
@@ -816,7 +817,7 @@ juba - robe
 • exjude - extrajudiciaire  
 jul - joule (J)  
 • juntion - jonction  
-juntolexe - conjonction  
+juntelexe - conjonction  
 jupiter - Jupiter  
 jus - jus  
 juste - exact (précis)  
@@ -861,7 +862,7 @@ kare - travailler
 • karer - travailleur (ouvrier)  
 • duskar - méfait (péché)  
 • konkare - collaborer  
-karolexe - verbe  
+karelexe - verbe  
 • karateiste - karatéka  
 karbe - carbone  
 karboduloxide - dioxyde de carbone  
@@ -1190,7 +1191,6 @@ muzike - musique
 nadir - rare  
 nagis - pollution  
 namkitabe - signer  
-• antonam - antonyme  
 • antinam - antonyme  
 narde - backgammon  
 narke - drogue (narcotique, dope)  
@@ -1342,14 +1342,14 @@ Paris - Paris
 parke - parc  
 parne - fougères  
 • partaner - partenaire  
-pase - passer  
-pasodau - passe (passage)  
-pasolexe - mot de passe  
-pasoporte - passeport  
+pas - passer  
+pasdau - passe (passage)  
+paslexe - mot de passe  
+pasporte - passeport  
 paste - pâte  
 pastopetre - magma  
 • patike - patient  
-• patokan - hôpital  
+• patekan - hôpital  
 patogener - agent pathogène  
 patolojia - pathologie  
 patomise - infecter (infection, contagion)  
@@ -1595,7 +1595,7 @@ sexolojia - sexologie
 • ansexe - asexué  
 siborgium - seaborgium  
 • inside - s’accroupir  
-sifolexe - adjectif  
+sifelexe - adjectif  
 sigare - cigarette  
 siyahe - noir  
 sikle - bicyclette  
@@ -1734,7 +1734,7 @@ tix - chut
 • duotome - dichotomie  
 • jivotome - vivisection  
 • tritome - trichotomie  
-tomate - tomate  
+tomato - tomate  
 • atone - accorder  
 • sintonor - syntoniseur  
 topografe - topographie  
@@ -1918,7 +1918,7 @@ ye - oui
 yege - chasser  
 yesus - Jésus  
 yodium - iode  
-• yogiste - yogi  
+• yogaiste - yogi  
 yogur - yaourt (yogourt)  
 yom - jour  
 yterbium - ytterbium  

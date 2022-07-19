@@ -22,8 +22,8 @@ aboriginaali (Australian alkuperäisasukas) - aslaustrale
 abyssinia - Habaxia  
 abyssinialainen - habaxe  
 adessiivi - aesive  
-adjektiivi (laatusana) - sifolexe  
-adverbi - modolexe  
+adjektiivi (laatusana) - sifelexe  
+adverbi - modelexe  
 aerobinen - airobike  
 afgaani - afgan  
 Afganistan - Afgania  
@@ -934,13 +934,13 @@ joka (mikä) - jo
 jokainen asia - pan xe  
 jokainen ihminen - pan jen  
 joki (virta) - riu  
-jokin - yo xei  
+jokin - yo xe  
 joku (jokin) - yo  
 joku - yo jen  
 jongleerata - jongle  
 jonglööri - jongler  
-jooga - yoge  
-joogi - yogiste  
+jooga - yoga  
+joogi - yogaiste  
 jopa - hato  
 Jordania - Urdun  
 joruban kansa ja kieli - yoruba  
@@ -1305,7 +1305,7 @@ kommunisti - koncaniste
 Komorit - Komoro nesia  
 kone - maxin  
 konjugaatio - konyuge  
-konjunktio (sidesana) - juntolexe  
+konjunktio (sidesana) - juntelexe  
 konkani (eräs intialainen kieli) - Konkane  
 konsertti - konserte  
 konsonantti - kenarfon  
@@ -1396,7 +1396,7 @@ kuljetus - traporte
 kulkea (kulku; kurssi; reitti) - kurse  
 kulkea edellä - prekurse  
 kulkea läpi (läpikulku) - trakurse  
-kulkea poikki, läpi tai yli - trapase  
+kulkea poikki, läpi tai yli - trapas  
 kulma (nurkka) - gone  
 kulmamitta (goniometri) - gonometrer  
 kulombi (mittayksikkö C) - kulombe  
@@ -1571,10 +1571,11 @@ lattia - kamardipe
 Latvia - Latvia  
 lauantai - den sixe  
 laukka - galope  
+laukku - bage  
 laulaa (laulu) - cante  
 lauta (paneeli) - ban  
 lautanen - platotas  
-lautapeli - banogem  
+lautapeli - bangem  
 lava - tai  
 lawrencium - laurensium  
 lehmän liha - muhmanse  
@@ -1868,7 +1869,7 @@ mendelevium - mendelevium
 menneisyys - prezaman  
 mennyt (poissa) - kite  
 mennä - kite  
-mennä ohi tai läpi - pase  
+mennä ohi tai läpi - pas  
 mennä sisään - intre  
 mennä vasten - kontre  
 mennä ympäri - cirkovene  
@@ -2335,7 +2336,7 @@ partneri (kumppani, osakas) - partaner
 pascal (Pa) - paskal  
 pasifisti - paciste  
 paska (sonta) - xite  
-passi - pasoporte  
+passi - pasporte  
 pata (ruukku, kannu, maljakko) - pote  
 patja - matras  
 patogeeni - patogener  
@@ -2773,7 +2774,7 @@ Saint Kitts - Sante Kitse
 Saint Kitts ja Nevis - Sante Kitse e Nevis  
 Saint Lucia - Sante Lucia  
 saippua - sabun  
-sairaala - patokan  
+sairaala - patekan  
 sairas - pate  
 sairaus - patia  
 Saksa - Doice  
@@ -2974,7 +2975,7 @@ soittaa puhelimella - telefone
 soittokello - danger  
 sokeri - sukar  
 sokerinen (makea) - sukaros  
-sola (läpikulku) - pasodau  
+sola (läpikulku) - pasdau  
 solmia (solmu) - node  
 solu - cel  
 soluoppi (sytologia) - celolojia  
@@ -3013,7 +3014,7 @@ stereofoninen - dusonike
 stereoskooppinen - dugrafe  
 strontium - strontium  
 suahili - suahili  
-substantiivi (nimisana) - namloge  
+substantiivi (nimisana) - namelexe  
 Sudan - Sudan  
 sudenkorento - libele  
 suhde (yhteys) - guanse  
@@ -3325,7 +3326,7 @@ toisto - ri-
 toivoa - inxala  
 toksiini - biotoxe  
 toksikologia (myrkkyoppi) - toxolojia  
-tomaatti - tomate  
+tomaatti - tomato  
 tomografia (kerroskuvaus) - tomografia  
 Tonga - Tonga  
 tonni (1000 kg) - megagram  
@@ -3381,7 +3382,7 @@ tunne (mielenliikutus) - emotion
 tunneli - tunel  
 tunnetila (tuuli) - emotohal  
 tunnistaa - rinose  
-tunnussana - pasolexe  
+tunnussana - paslexe  
 tuntea (kokea tunteita) - emote  
 tuntea - nose  
 tuntea - sente  
@@ -3417,7 +3418,7 @@ tuuli (puhallus; tuulla, puhaltaa) - fente
 Tuvalu - Tuvalu  
 tyhjä - kale  
 tyhjä taulu (tabula rasa) - razi table  
-tyhjö - kal  
+tyhjö - kale  
 tyhmyys (typeryys) - idiotia  
 tykki - daipau  
 tykkimies - daipaver  
@@ -3589,7 +3590,6 @@ vastaanottaja - receper
 vastaanotto - recepion  
 vastahakoinen (haluton) - anice  
 vastakohta (antonyymi) - antinam  
-vastakohta (antonyymi) - antonam  
 vastakohtainen (negatiivinen, epä-) - an-  
 vastakohtaisuus - kontroverse  
 vastapäivään - rotolefto  
@@ -3612,7 +3612,7 @@ Venezuela - Venezuele
 venyttää (pingottaa) - extense  
 Venäjä - Rusia  
 venäläinen - ruse  
-verbi (teonsana) - karolexe  
+verbi (teonsana) - karelexe  
 verho (huntu, peite) - hijabe  
 verho (peite) - vele  
 veri - heme  

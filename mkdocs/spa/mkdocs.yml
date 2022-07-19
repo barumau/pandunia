@@ -13,16 +13,16 @@ nav:
         - 002_filsofi.md
     - 'Gramatica':
         - 102_ABC.md
-        - 103_lexotipe.md
+        - 103_lexetipe.md
         - 104_viselexe.md
-        - 105_namolexe.md
+        - 105_namelexe.md
         - 106_nume.md
-        - 107_modolexe.md
-        - 108_karolexe.md
-        - 109_jumlobine.md
-        - 110_lexobine.md
+        - 107_modelexe.md
+        - 108_karelexe.md
+        - 109_jumlebine.md
+        - 110_lexebine.md
     - 'Lecciones':
-        - 'Frases básicas': 200_baze_jumla.md
+        - 'Frases básicas': 200_baze_jumle.md
         - 'Curso': 201_xule.md
     - 'Diccionarios':
         - 'Pandunia-Español': pandunia-spa.md

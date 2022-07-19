@@ -89,7 +89,7 @@
 **badam** ** ← malaja:badam, turka:badem, hindia:बादाम (bādām), bengala:বাদাম (badam), mandarena:巴旦木 (bādànmù)  
 **bade** *korpo* ← angla:body + araba:  بَدَن‎ (badan), persa: بدن‎ (badan), hindia:बदन (badan), malaja:badan, turka:beden, svahila:badani  
 **badle** *interŝanĝi* ← araba:(badala), hindia:बदला (badlā), svahila:badili, turka:bedel  
-**bagaje** *pakaĵo* ← angla:baggage, franca:bagage, portugala:bagagem, rusa:багаж (bagazh), turka:bagaj, bengala:ব্যাগেজ (bjagej), malaja:bagasi  
+**bage** *sako* ← angla:bag; baggage, hindia:बैग (bæg), japana:バッグ (baggu) + franca:bagage, portugala:bagagem, rusa:багаж (bagazh), bengala:ben:ব্যাগেজ (byagej), malaja:beg; bagasi, turka:bagaj  
 **bagre** *tigro* ← hindia:बाघ (bāgh), bengala:বাঘ (bagh), + persa:(babr), + hispana:portugala:tigre, rusa:тигр (tigr)  
 **bah** ** ← angla:hispana:itala:bah, portugala:ba  
 **bakalau** ** ← hispana:bacalao, portugala:bacalhau, franca:cabillaud, deu:Kabeljau, filipina:bakalaw  
@@ -961,7 +961,7 @@
 **nagre** *urbo* ← hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), kanara:ನಗರ (nagara), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon)  
 **nahun** ** ← persa:ناخن‎ (nâxon), hindia:नाख़ुन m (nāxun), bengala:নখ (nôkh), pan:नख (nakh), rusa:нога́ (nogá)  
 **nam** *nomo* ← hindia:नाम (nām), persa:panĝaba:urdua:(nām), taja:นาม (naam), malaja:nama, deu:angla:name, japana:名前 (namae), franca:nom  
-**namloge** *substantivo* ← mandarena:名词 (míngcí), kantona:名詞 (ming4 ci4), japana:名詞 (meishi), korea:명사 (myeongsa), hindia:नाम (nām), franca:nom, hispana:nombre, portugala:nome, rusa:имя (imya), araba:(ism), per:(esm), svahila:nomino  
+**namelexe** *substantivo* ← mandarena:名词 (míngcí), kantona:名詞 (ming4 ci4), japana:名詞 (meishi), korea:명사 (myeongsa), hindia:नाम (nām), franca:nom, hispana:nombre, portugala:nome, rusa:имя (imya), araba:(ism), per:(esm), svahila:nomino  
 **nanas** *ananaso* ← malaja:nanas, svahila:nanasi, hindia:अनन्नास (anānnas), rusa:ананас (ananas)  
 **narake** ** ← hindia:नरक (narak), bengala:নরক (nôrôk), pan:ਨਰਕ (nark), marataja:नर्क (nark), teluga:నరకము (narakamu), tamila:நரகம் (narakam), malaja:neraka, tha:นรก (ná-rók), japana:奈落 (naraku)  
 **narde** ** ← persa:urdua: نرد‎ (nard), rusa:нарды (nardy)  
@@ -1060,7 +1060,7 @@
 **pare** ** ← angla:peer, franca:pair, hispana:portugala:par, deu:Pere, hindia:बराबर (barābar), persa:urdua: برابر‎ (barâbar)  
 **parke** *parko (ĝardeno)* ← angla:deu:turka:polona:park, hispana:portugala:parque, franca:parc, rusa:парк (park), hindia:पार्क (pārk)  
 **parne** ** ← angla:fern, rusa:папоротник (paporotnik), hindia:फर्न (pharna), bengala:ফার্ন (phārna)  
-**pase** *pasi* ← angla:pass, hispana:pasar, portugala:passar, franca: passer + rusa:паспорт (pasport), hindia:पासपोर्ट (pāsporṭ), bengala:পাসপোর্ট (pasporṭ), malaja:paspor, svahila:paspoti, japana:パスポート pasupōto)  
+**pas** *pasi* ← angla:pass, hispana:pasar, portugala:passar, franca: passer + rusa:паспорт (pasport), hindia:पासपोर्ट (pāsporṭ), bengala:পাসপোর্ট (pasporṭ), malaja:paspor, svahila:paspoti, japana:パスポート pasupōto)  
 **paste** ** ← angla:deu:paste, rusa:паста (pasta), hispana:portugala:pasta  
 **patate** *terpomo* ← franca:patate, hispana:patata, portugala:batata, turka:patates, araba:(baṭāṭis), svahila:mbatata, angla:potato, filipina:patatas  
 **pate** *malsana* ← deu:angla:franca:patho-, hispana:portugala:polona:turka:malaja:pato-, rusa:пато- (pato-)  
@@ -1380,7 +1380,7 @@
 **tix** ** ← rusa:тишина (tišina) + angla:shh, franca:chut, rus:ш-ш-ш, mandarena:噓 (xū), japana:しーっ (shīt), korea:쉿 (swit), turka:sus  
 **tiz:** ** ← persa: تیز (tiz), hindia:तेज़ (tez), turka:tez  
 **tolere** ** ← angla:tolerate, hispana:portugala:tolerar, franca:tolérer, deu:tolerieren  
-**tomate** *tomato* ← angla:tomato, portugala:hispana:tomate, rusa:томат (tomat), malaja:tomat, hindia:टमाटर (ṭamāṭar)  
+**tomato** *tomato* ← angla:tomato, franca:portugala:hispana:tomate, deu:Tomate, rusa:томат (tomat), japana:トマト (tomato), korea:토마토 (tomato), hindia:टमाटर (ṭamāṭar), bengala:টম্যাটো (ṭamyāṭo), malaja:tomat, turka:domates  
 **tone** *tono* ← angla:tone, svahila:kitone, rusa:тон (ton), deu:Ton, hispana:tono  
 **tong** ** ← mandarena:桶 (tǒng), korea:통 (tong), vjetnama:thùng, malaja:tong, kmera:តុង (tong), taja:ถัง (tǎng), persa: تنگ‎ (tong) + franca:tonneau, hispana:tonel, ned:ton  
 **tore** *turo* ← angla:tower, franca:tour, hispana:portugala:torre, deu:Turm, hindia:टावर (ṭāvar) + japana:塔 (tō), mandarena:塔 (tǎ)  
@@ -1533,7 +1533,7 @@
 **yege** *ĉasi* ← deu:jagen + angla:jaeger, rusa:егерь (jeger’)  
 **yeze** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
 **yodium** *jodo* ← angla:iodine, franca:iode, hispana:yodo (iodo), portugala:iodo, rusa:йод, japana:ヨウ素, korea:요오드, vjetnama:iot, hindia:आयोडिन, bengala:আয়োডিন, malaja:yodium, svahila:iodini, araba: يود  
-**yoge** *jogo* ← hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)  
+**yoga** *jogo* ← hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)  
 **yogur** *jogurto* ← angla:malaja:yogurt, franca:yogourt, hispana:yogur, portugala:iogurte, rusa:йогурт (yogurt), mandarena:优格 (yōugé), japana:ヨーグルト (yōguruto), korea:요구르트 (yogureuteu), turka:yoğurt   
 **yom** *tago* ← araba: يَوْم‎ (yawm), hindia:यौम (yaum), malaja:yaum  
 **yon** *iono* ← angla:franca:hispana:ion, rusa:ион (ion), turka:iyon  
@@ -1562,7 +1562,7 @@
 **zira** *kumino* ← bengala:জিরা (zīra), hindia:ज़ीरा (zīrā), tamila:சீரகம் (sīrakam), svahila:mjira, persa:(zire), mandarena:孜然 (zīrán), angla:jeera  
 **zirkonium** *zirkonio* ← angla:zirconium, franca:zirconium, hispana:circonio, portugala:zircónio, rusa:цирконий, japana:ジルコニウム, korea:지르코늄, vjetnama:ziriconi, hindia:जर्कोनियम, bengala:জিরকোনিয়াম, malaja:zirkonium, svahila:zirikoni, araba: زيركونيوم  
 **zize** ** ← mandarena:zizi angla:sizzle  
-**zoe** *besto* ← angla:franca:hispana:portugala:malaja:turka:zoo-, rusa:зоо- (zoo-) + mandarena:兽 (shòu)  
+**zoe** *besto* ← angla:franca:hispana:portugala:malaja:turka:zoo-, rusa:зоо- (zoo-) + mandarena:兽 (shòu), kantona:獸 (sau3), japana:獣 (jū), korea:수 (su)  
 **zombi** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zone** *zono* ← greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)  
 **zong** ** ← mandarena:種 (zhǒng), kantona:種 (zung2), vua:種 (tson2), japana:種 (shu), korea:종 (jong), vjetnama:chủng  

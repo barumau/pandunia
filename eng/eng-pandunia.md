@@ -35,7 +35,7 @@ addition (extra) - maxaje
 address - adres  
 adessive case - aesive  
 adhesive bandage (band-aid, sticking plaster) - glutobende  
-adjective - sifolexe  
+adjective - sifelexe  
 adjective - ajetive  
 adjust (make exact) - ajuste  
 administer (govern) - polite  
@@ -50,7 +50,7 @@ advancement (milestone) - progresion
 advent - avene  
 adventure (venture) - ventur  
 adventurer - venturer  
-adverb - modolexe  
+adverb - modelexe  
 adversary (antagonist, opponent) - xatan  
 advice (recommend) - sel  
 advisor (counselor, mentor) - menter  
@@ -163,7 +163,6 @@ Antigua - Antigua
 Antigua and Barbuda - Antigua e Barbuda  
 antimony - stibium  
 antonym - antinam  
-antonym - antonam  
 anus (anal) - anus  
 anvil - metalbede  
 any (whichever; arbitrary) - no ham di  
@@ -300,6 +299,7 @@ bad (ruined, destroyed) - harabe
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dus  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - duse  
 bag (sack) - sake  
+bag - bage  
 baguette - batonpang  
 bah - bah  
 bah! - fi  
@@ -457,7 +457,7 @@ blower (fan) - fentor
 blue - nile  
 bluet - seramosing  
 board (pane, panel) - ban  
-board game - banogem  
+board game - bangem  
 boat (ship) - nau  
 bob up and down - gautalu  
 bobcat - lalolince  
@@ -875,7 +875,7 @@ Congo (Brazzaville) - Brazavil Kongo
 Congo Kinshasa - Kinsasa Kongo  
 congratulate (bless; congratulation, benediction) - barke  
 conjugation (pairing) - konyuge  
-conjunction - juntolexe  
+conjunction - juntelexe  
 connect - konnete  
 connection - konnetion  
 connector - konnetor  
@@ -1875,7 +1875,7 @@ hormone - hormon
 horn - korne  
 horned melon (kiwano) - kornomelon  
 horse - gude  
-hospital - patokan  
+hospital - patekan  
 hotel - hotel  
 hour - hor  
 housefly - domzeze  
@@ -2735,7 +2735,7 @@ nothing - no xe
 notice (notification) - notize  
 notify - notife  
 notion - nosion  
-noun - namloge  
+noun - namelexe  
 novelty (new product) - nevaje  
 November - lun des un  
 novice (newbie) - nevike  
@@ -2931,15 +2931,15 @@ partnership - partaneria
 party (celebration, festival; celebrate) - feste  
 party (group) - partia  
 pascal (Pa) - paskal  
-pass (go across or through) - pase  
+pass (go across or through) - pas  
 pass (go) - cese  
-pass (passage) - pasodau  
+pass (passage) - pasdau  
 pass (spend time, put time into) - durize  
 pass away (die; deceased) - decese  
 passive (inactive) - pasive  
-passport - pasoporte  
+passport - pasporte  
 password (security code) - sekurokode  
-password - pasolexe  
+password - paslexe  
 past times - prezaman  
 paste (dough) - paste  
 paternal grandfather - papatre  
@@ -3734,7 +3734,7 @@ solstice - solostate
 Somalia - Somalia  
 Somaliland - Somaldex  
 someone (somebody) - yo jen  
-something - yo xei  
+something - yo xe  
 sometime - yo sate  
 son - mani pute  
 soon (after a while) - a korte  
@@ -4050,7 +4050,7 @@ Togo - Togo
 toilet (WC) - tualete  
 Tokyo - Tokyo  
 tolerate - tolere  
-tomato - tomate  
+tomato - tomato  
 tombstone (gravestone) - gabrite  
 tomogram - tomografe  
 tomography - tomografia  
@@ -4090,7 +4090,7 @@ tragedy - tragodia
 tragicomic - tragokomi  
 train - tren  
 train hijacker - trenkaper  
-transit (pass through or across) - trapase  
+transit (pass through or across) - trapas  
 translate (interpret; translation, interpretation) - trabaxe  
 translative case - tralative  
 translucent - traming  
@@ -4242,7 +4242,7 @@ velum - bokavele
 Venezuela - Venezuele  
 Venus - Venus  
 veranda (balcony, terrace, porch) - beranda  
-verb - karolexe  
+verb - karelexe  
 verbal irony (sarcasm) - logironia  
 verify (realize) - verife  
 vermouth - vermute  
@@ -4284,7 +4284,7 @@ vocabulary - vokablar
 vocal - vokal  
 vocation - vokation  
 vocative case - vokative kasu  
-void (empty space) - kal  
+void (empty space) - kale  
 volcanic glass - hogoxan glas  
 volcano - hogoxan  
 volt (V) - volte  
@@ -4432,8 +4432,8 @@ yellow starthistle - solocentaur
 Yemen - Yemen  
 yes - ye  
 yesterday - preden  
-yoga - yoge  
-yogi - yogiste  
+yoga - yoga  
+yogi - yogaiste  
 yogurt - yogur  
 yoke - yuge  
 Yoruba (language and people) - yoruba  

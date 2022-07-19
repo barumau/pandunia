@@ -89,7 +89,7 @@
 **badam** *manteli* ← malaiji:badam, turkki:badem, hindi:बादाम (bādām), bangla:বাদাম (badam), yleiskiina:巴旦木 (bādànmù)  
 **bade** *keho (ruumis)* ← englanti:body + arabia:  بَدَن‎ (badan), persia: بدن‎ (badan), hindi:बदन (badan), malaiji:badan, turkki:beden, suahili:badani  
 **badle** *vaihtaa* ← arabia:(badala), hindi:बदला (badlā), suahili:badili, turkki:bedel  
-**bagaje** *matkatavarat* ← englanti:baggage, ranska:bagage, portugali:bagagem, venäjä:багаж (bagazh), turkki:bagaj, bangla:ব্যাগেজ (bjagej), malaiji:bagasi  
+**bage** *laukku* ← englanti:bag; baggage, hindi:बैग (bæg), japani:バッグ (baggu) + ranska:bagage, portugali:bagagem, venäjä:багаж (bagazh), bangla:ben:ব্যাগেজ (byagej), malaiji:beg; bagasi, turkki:bagaj  
 **bagre** *tiikeri* ← hindi:बाघ (bāgh), bangla:বাঘ (bagh), + persia:(babr), + espanja:portugali:tigre, venäjä:тигр (tigr)  
 **bah** *pah (pyh)* ← englanti:espanja:italia:bah, portugali:ba  
 **bakalau** ** ← espanja:bacalao, portugali:bacalhau, ranska:cabillaud, deu:Kabeljau, filippiini:bakalaw  
@@ -961,7 +961,7 @@
 **nagre** *kaupunki* ← hindi:नगर (nagar), bangla:নগর (nôgôr), telugu:నగరము (nagaramu), kannada:ನಗರ (nagara), tamili:நகரம் (nakaram), khmer:អង្គរ (ʾɑngkɔɔ), thai:นคร (na-khon)  
 **nahun** *kynsi* ← persia:ناخن‎ (nâxon), hindi:नाख़ुन m (nāxun), bangla:নখ (nôkh), pan:नख (nakh), venäjä:нога́ (nogá)  
 **nam** *nimi* ← hindi:नाम (nām), persia:pandzabi:urdu:(nām), thai:นาม (naam), malaiji:nama, deu:englanti:name, japani:名前 (namae), ranska:nom  
-**namloge** *substantiivi (nimisana)* ← yleiskiina:名词 (míngcí), kantoninkiina:名詞 (ming4 ci4), japani:名詞 (meishi), korea:명사 (myeongsa), hindi:नाम (nām), ranska:nom, espanja:nombre, portugali:nome, venäjä:имя (imya), arabia:(ism), per:(esm), suahili:nomino  
+**namelexe** *substantiivi (nimisana)* ← yleiskiina:名词 (míngcí), kantoninkiina:名詞 (ming4 ci4), japani:名詞 (meishi), korea:명사 (myeongsa), hindi:नाम (nām), ranska:nom, espanja:nombre, portugali:nome, venäjä:имя (imya), arabia:(ism), per:(esm), suahili:nomino  
 **nanas** *ananas* ← malaiji:nanas, suahili:nanasi, hindi:अनन्नास (anānnas), venäjä:ананас (ananas)  
 **narake** *helvetti* ← hindi:नरक (narak), bangla:নরক (nôrôk), pan:ਨਰਕ (nark), marathi:नर्क (nark), telugu:నరకము (narakamu), tamili:நரகம் (narakam), malaiji:neraka, thai:นรก (ná-rók), japani:奈落 (naraku)  
 **narde** *backgammon* ← persia:urdu: نرد‎ (nard), venäjä:нарды (nardy)  
@@ -1060,7 +1060,7 @@
 **pare** *tasainen (tasavertainen)* ← englanti:peer, ranska:pair, espanja:portugali:par, deu:Pere, hindi:बराबर (barābar), persia:urdu: برابر‎ (barâbar)  
 **parke** *tarha (puisto)* ← englanti:deu:turkki:puola:park, espanja:portugali:parque, ranska:parc, venäjä:парк (park), hindi:पार्क (pārk)  
 **parne** ** ← englanti:fern, venäjä:папоротник (paporotnik), hindi:फर्न (pharna), bangla:ফার্ন (phārna)  
-**pase** *mennä ohi tai läpi* ← englanti:pass, espanja:pasar, portugali:passar, ranska: passer + venäjä:паспорт (pasport), hindi:पासपोर्ट (pāsporṭ), bangla:পাসপোর্ট (pasporṭ), malaiji:paspor, suahili:paspoti, japani:パスポート pasupōto)  
+**pas** *mennä ohi tai läpi* ← englanti:pass, espanja:pasar, portugali:passar, ranska: passer + venäjä:паспорт (pasport), hindi:पासपोर्ट (pāsporṭ), bangla:পাসপোর্ট (pasporṭ), malaiji:paspor, suahili:paspoti, japani:パスポート pasupōto)  
 **paste** *tahna (tahdas)* ← englanti:deu:paste, venäjä:паста (pasta), espanja:portugali:pasta  
 **patate** *peruna (potaatti)* ← ranska:patate, espanja:patata, portugali:batata, turkki:patates, arabia:(baṭāṭis), suahili:mbatata, englanti:potato, filippiini:patatas  
 **pate** *sairas* ← deu:englanti:ranska:patho-, espanja:portugali:puola:turkki:malaiji:pato-, venäjä:пато- (pato-)  
@@ -1380,7 +1380,7 @@
 **tix** *hiljaa (hys, shhh)* ← venäjä:тишина (tišina) + englanti:shh, ranska:chut, rus:ш-ш-ш, yleiskiina:噓 (xū), japani:しーっ (shīt), korea:쉿 (swit), turkki:sus  
 **tiz:** *terävä (kimeä, nokkela, napakka, jne)* ← persia: تیز (tiz), hindi:तेज़ (tez), turkki:tez  
 **tolere** *sallia* ← englanti:tolerate, espanja:portugali:tolerar, ranska:tolérer, deu:tolerieren  
-**tomate** *tomaatti* ← englanti:tomato, portugali:espanja:tomate, venäjä:томат (tomat), malaiji:tomat, hindi:टमाटर (ṭamāṭar)  
+**tomato** *tomaatti* ← englanti:tomato, ranska:portugali:espanja:tomate, deu:Tomate, venäjä:томат (tomat), japani:トマト (tomato), korea:토마토 (tomato), hindi:टमाटर (ṭamāṭar), bangla:টম্যাটো (ṭamyāṭo), malaiji:tomat, turkki:domates  
 **tone** *sävel (sävy)* ← englanti:tone, suahili:kitone, venäjä:тон (ton), deu:Ton, espanja:tono  
 **tong** *tynnyri (tölkki)* ← yleiskiina:桶 (tǒng), korea:통 (tong), vietnami:thùng, malaiji:tong, khmer:តុង (tong), thai:ถัง (tǎng), persia: تنگ‎ (tong) + ranska:tonneau, espanja:tonel, ned:ton  
 **tore** *torni* ← englanti:tower, ranska:tour, espanja:portugali:torre, deu:Turm, hindi:टावर (ṭāvar) + japani:塔 (tō), yleiskiina:塔 (tǎ)  
@@ -1533,7 +1533,7 @@
 **yege** *pyytää (metsästää, kalastaa)* ← deu:jagen + englanti:jaeger, venäjä:егерь (jeger’)  
 **yeze** *kookos* ← yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)  
 **yodium** *jodi* ← englanti:iodine, ranska:iode, espanja:yodo (iodo), portugali:iodo, venäjä:йод, japani:ヨウ素, korea:요오드, vietnami:iot, hindi:आयोडिन, bangla:আয়োডিন, malaiji:yodium, suahili:iodini, arabia: يود  
-**yoge** *jooga* ← hindi:योग (yog), pandzabi:ਯੋਗ (yog), urdu:(yog), bangla:যোগ (jog), telugu:యోగా (yōgā), thai:โยคะ (yōga), englanti:espanja:malaiji:turkki:yoga, portugali:ioga, venäjä:йога (yoga), yleiskiina:瑜伽 (yújiā), japani:ヨーガ (yōga), korea:요가 (yoga)  
+**yoga** *jooga* ← hindi:योग (yog), pandzabi:ਯੋਗ (yog), urdu:(yog), bangla:যোগ (jog), telugu:యోగా (yōgā), thai:โยคะ (yōga), englanti:espanja:malaiji:turkki:yoga, portugali:ioga, venäjä:йога (yoga), yleiskiina:瑜伽 (yújiā), japani:ヨーガ (yōga), korea:요가 (yoga)  
 **yogur** *jogurtti* ← englanti:malaiji:yogurt, ranska:yogourt, espanja:yogur, portugali:iogurte, venäjä:йогурт (yogurt), yleiskiina:优格 (yōugé), japani:ヨーグルト (yōguruto), korea:요구르트 (yogureuteu), turkki:yoğurt   
 **yom** *päivä* ← arabia: يَوْم‎ (yawm), hindi:यौम (yaum), malaiji:yaum  
 **yon** *ioni* ← englanti:ranska:espanja:ion, venäjä:ион (ion), turkki:iyon  
@@ -1562,7 +1562,7 @@
 **zira** *juustokumina (jeera)* ← bangla:জিরা (zīra), hindi:ज़ीरा (zīrā), tamili:சீரகம் (sīrakam), suahili:mjira, persia:(zire), yleiskiina:孜然 (zīrán), englanti:jeera  
 **zirkonium** *zirkonium* ← englanti:zirconium, ranska:zirconium, espanja:circonio, portugali:zircónio, venäjä:цирконий, japani:ジルコニウム, korea:지르코늄, vietnami:ziriconi, hindi:जर्कोनियम, bangla:জিরকোনিয়াম, malaiji:zirkonium, suahili:zirikoni, arabia: زيركونيوم  
 **zize** *sihistä* ← yleiskiina:zizi englanti:sizzle  
-**zoe** *eläin* ← englanti:ranska:espanja:portugali:malaiji:turkki:zoo-, venäjä:зоо- (zoo-) + yleiskiina:兽 (shòu)  
+**zoe** *eläin* ← englanti:ranska:espanja:portugali:malaiji:turkki:zoo-, venäjä:зоо- (zoo-) + yleiskiina:兽 (shòu), kantoninkiina:獸 (sau3), japani:獣 (jū), korea:수 (su)  
 **zombi** *zombi* ← Kongo:nzambi, englanti:zombie, espanja:turkki:zombi, portugali:zumbi, venäjä:зомби (zombi), arabia:زُومْبِي‎ (zūmbī), hindi:ज़ोंबी (zombī), japani:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zone** *vyö* ← kreikka:ζώνη (zónē), englanti:ranska:zone, espanja:portugali:zona, venäjä:зона (zona)  
 **zong** *laji* ← yleiskiina:種 (zhǒng), kantoninkiina:種 (zung2), wu-kiina:種 (tson2), japani:種 (shu), korea:종 (jong), vietnami:chủng  

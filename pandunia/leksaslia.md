@@ -122,7 +122,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**bade**|eng:body + ara:  بَدَن‎ (badan), fas: بدن‎ (badan), hin:बदन (badan), may:badan, tur:beden, swa:badani|
 |**badam**|may:badam, tur:badem, hin:बादाम (bādām), ben:বাদাম (badam), zho:巴旦木 (bādànmù)|
 |**badle**|ara:(badala), hin:बदला (badlā), swa:badili, tur:bedel|
-|**bagaje**|eng:baggage, fra:bagage, por:bagagem, rus:багаж (bagazh), tur:bagaj, ben:ব্যাগেজ (bjagej), may:bagasi|
+|**bage**|eng:bag; baggage, hin:बैग (bæg), jpn:バッグ (baggu) + fra:bagage, por:bagagem, rus:багаж (bagazh), ben:ben:ব্যাগেজ (byagej), may:beg; bagasi, tur:bagaj|
 |**bagre**|hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:тигр (tigr)|
 |**bah**|eng:spa:ita:bah, por:ba|
 |**bake**|yue:白 (baak6), vie:bạch, zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco|
@@ -995,7 +995,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**nagre**|hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)|
 |**nahun**|fas:ناخن‎ (nâxon), hin:नाख़ुन m (nāxun), ben:নখ (nôkh), pan:नख (nakh), rus:нога́ (nogá)|
 |**nam**|hin:नाम (nām), fas:pnb:urd:(nām), tha:นาม (naam), may:nama, deu:eng:name, jpn:名前 (namae), fra:nom|
-|**namloge**|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
+|**namelexe**|zho:名词 (míngcí), yue:名詞 (ming4 ci4), jpn:名詞 (meishi), kor:명사 (myeongsa), hin:नाम (nām), fra:nom, spa:nombre, por:nome, rus:имя (imya), ara:(ism), per:(esm), swa:nomino|
 |**nanas**|may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)|
 |**narake**|hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)|
 |**narde**|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
@@ -1097,7 +1097,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**parke**|eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)|
 |**parne**|eng:fern, rus:папоротник (paporotnik), hin:फर्न (pharna), ben:ফার্ন (phārna)|
 |**• partia**|eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)|
-|**pase**|eng:pass, spa:pasar, por:passar, fra: passer + rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|
+|**pas**|eng:pass, spa:pasar, por:passar, fra: passer + rus:паспорт (pasport), hin:पासपोर्ट (pāsporṭ), ben:পাসপোর্ট (pasporṭ), may:paspor, swa:paspoti, jpn:パスポート pasupōto)|
 |**paste**|eng:deu:paste, rus:паста (pasta), spa:por:pasta|
 |**pate**|deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)|
 |**patate**|fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), swa:mbatata, eng:potato, tgl:patatas|
@@ -1416,7 +1416,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**tix**|rus:тишина (tišina) + eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|
 |**tiz:**|fas: تیز (tiz), hin:तेज़ (tez), tur:tez|
 |**tolere**|eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren|
-|**tomate**|eng:tomato, por:spa:tomate, rus:томат (tomat), may:tomat, hin:टमाटर (ṭamāṭar)|
+|**tomato**|eng:tomato, fra:por:spa:tomate, deu:Tomate, rus:томат (tomat), jpn:トマト (tomato), kor:토마토 (tomato), hin:टमाटर (ṭamāṭar), ben:টম্যাটো (ṭamyāṭo), may:tomat, tur:domates|
 |**tone**|eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|
 |**tong**|zho:桶 (tǒng), kor:통 (tong), vie:thùng, may:tong, khm:តុង (tong), tha:ถัง (tǎng), fas: تنگ‎ (tong) + fra:tonneau, spa:tonel, ned:ton|
 |**tore**|eng:tower, fra:tour, spa:por:torre, deu:Turm, hin:टावर (ṭāvar) + jpn:塔 (tō), zho:塔 (tǎ)|
@@ -1569,7 +1569,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**yege**|deu:jagen + eng:jaeger, rus:егерь (jeger’)|
 |**yeze**|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|
 |**yodium**|eng:iodine, fra:iode, spa:yodo (iodo), por:iodo, rus:йод, jpn:ヨウ素, kor:요오드, vie:iot, hin:आयोडिन, ben:আয়োডিন, may:yodium, swa:iodini, ara: يود|
-|**yoge**|hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|
+|**yoga**|hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)|
 |**yogur**|eng:may:yogurt, fra:yogourt, spa:yogur, por:iogurte, rus:йогурт (yogurt), zho:优格 (yōugé), jpn:ヨーグルト (yōguruto), kor:요구르트 (yogureuteu), tur:yoğurt |
 |**yom**|ara: يَوْم‎ (yawm), hin:यौम (yaum), may:yaum|
 |**yon**|eng:fra:spa:ion, rus:ион (ion), tur:iyon|
@@ -1598,7 +1598,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**zira**|ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán), eng:jeera|
 |**zirkonium**|eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم|
 |**zize**|zho:zizi eng:sizzle|
-|**zoe**|eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-) + zho:兽 (shòu)|
+|**zoe**|eng:fra:spa:por:may:tur:zoo-, rus:зоо- (zoo-) + zho:兽 (shòu), yue:獸 (sau3), jpn:獣 (jū), kor:수 (su)|
 |**zombi**|kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|
 |**zone**|ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|
 |**zong**|zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|

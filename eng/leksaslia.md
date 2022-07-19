@@ -89,7 +89,7 @@
 **badam** *almond* ← Malay:badam, Turkish:badem, Hindi:बादाम (bādām), Bengali:বাদাম (badam), Mandarin:巴旦木 (bādànmù)  
 **bade** *body (bodily, corporal)* ← English:body + Arabic:  بَدَن‎ (badan), Persian: بدن‎ (badan), Hindi:बदन (badan), Malay:badan, Turkish:beden, Swahili:badani  
 **badle** *exchange (swap, replace, trade)* ← Arabic:(badala), Hindi:बदला (badlā), Swahili:badili, Turkish:bedel  
-**bagaje** *luggage (baggage)* ← English:baggage, French:bagage, Portuguese:bagagem, Russian:багаж (bagazh), Turkish:bagaj, Bengali:ব্যাগেজ (bjagej), Malay:bagasi  
+**bage** *bag* ← English:bag; baggage, Hindi:बैग (bæg), Japanese:バッグ (baggu) + French:bagage, Portuguese:bagagem, Russian:багаж (bagazh), Bengali:ben:ব্যাগেজ (byagej), Malay:beg; bagasi, Turkish:bagaj  
 **bagre** *tiger* ← Hindi:बाघ (bāgh), Bengali:বাঘ (bagh), + Persian:(babr), + Spanish:Portuguese:tigre, Russian:тигр (tigr)  
 **bah** *bah* ← English:Spanish:Italian:bah, Portuguese:ba  
 **bakalau** *cod* ← Spanish:bacalao, Portuguese:bacalhau, French:cabillaud, deu:Kabeljau, Filipino:bakalaw  
@@ -961,7 +961,7 @@
 **nagre** *town* ← Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Kannada:ನಗರ (nagara), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon)  
 **nahun** *nail (fingernail)* ← Persian:ناخن‎ (nâxon), Hindi:नाख़ुन m (nāxun), Bengali:নখ (nôkh), pan:नख (nakh), Russian:нога́ (nogá)  
 **nam** *name* ← Hindi:नाम (nām), Persian:Punjabi:Urdu:(nām), Thai:นาม (naam), Malay:nama, deu:English:name, Japanese:名前 (namae), French:nom  
-**namloge** *noun* ← Mandarin:名词 (míngcí), Cantonese:名詞 (ming4 ci4), Japanese:名詞 (meishi), Korean:명사 (myeongsa), Hindi:नाम (nām), French:nom, Spanish:nombre, Portuguese:nome, Russian:имя (imya), Arabic:(ism), per:(esm), Swahili:nomino  
+**namelexe** *noun* ← Mandarin:名词 (míngcí), Cantonese:名詞 (ming4 ci4), Japanese:名詞 (meishi), Korean:명사 (myeongsa), Hindi:नाम (nām), French:nom, Spanish:nombre, Portuguese:nome, Russian:имя (imya), Arabic:(ism), per:(esm), Swahili:nomino  
 **nanas** *pineapple* ← Malay:nanas, Swahili:nanasi, Hindi:अनन्नास (anānnas), Russian:ананас (ananas)  
 **narake** *hell* ← Hindi:नरक (narak), Bengali:নরক (nôrôk), pan:ਨਰਕ (nark), Marathi:नर्क (nark), Telugu:నరకము (narakamu), Tamil:நரகம் (narakam), Malay:neraka, Thai:นรก (ná-rók), Japanese:奈落 (naraku)  
 **narde** *backgammon* ← Persian:Urdu: نرد‎ (nard), Russian:нарды (nardy)  
@@ -1060,7 +1060,7 @@
 **pare** *even (level, peer, equal)* ← English:peer, French:pair, Spanish:Portuguese:par, deu:Pere, Hindi:बराबर (barābar), Persian:Urdu: برابر‎ (barâbar)  
 **parke** *park (garden)* ← English:deu:Turkish:Polish:park, Spanish:Portuguese:parque, French:parc, Russian:парк (park), Hindi:पार्क (pārk)  
 **parne** *fern* ← English:fern, Russian:папоротник (paporotnik), Hindi:फर्न (pharna), Bengali:ফার্ন (phārna)  
-**pase** *pass (go across or through)* ← English:pass, Spanish:pasar, Portuguese:passar, French: passer + Russian:паспорт (pasport), Hindi:पासपोर्ट (pāsporṭ), Bengali:পাসপোর্ট (pasporṭ), Malay:paspor, Swahili:paspoti, Japanese:パスポート pasupōto)  
+**pas** *pass (go across or through)* ← English:pass, Spanish:pasar, Portuguese:passar, French: passer + Russian:паспорт (pasport), Hindi:पासपोर्ट (pāsporṭ), Bengali:পাসপোর্ট (pasporṭ), Malay:paspor, Swahili:paspoti, Japanese:パスポート pasupōto)  
 **paste** *paste (dough)* ← English:deu:paste, Russian:паста (pasta), Spanish:Portuguese:pasta  
 **patate** *potato* ← French:patate, Spanish:patata, Portuguese:batata, Turkish:patates, Arabic:(baṭāṭis), Swahili:mbatata, English:potato, Filipino:patatas  
 **pate** *ill (sick)* ← deu:English:French:patho-, Spanish:Portuguese:Polish:Turkish:Malay:pato-, Russian:пато- (pato-)  
@@ -1380,7 +1380,7 @@
 **tix** *hush (shh)* ← Russian:тишина (tišina) + English:shh, French:chut, rus:ш-ш-ш, Mandarin:噓 (xū), Japanese:しーっ (shīt), Korean:쉿 (swit), Turkish:sus  
 **tiz:** *sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)* ← Persian: تیز (tiz), Hindi:तेज़ (tez), Turkish:tez  
 **tolere** *tolerate* ← English:tolerate, Spanish:Portuguese:tolerar, French:tolérer, deu:tolerieren  
-**tomate** *tomato* ← English:tomato, Portuguese:Spanish:tomate, Russian:томат (tomat), Malay:tomat, Hindi:टमाटर (ṭamāṭar)  
+**tomato** *tomato* ← English:tomato, French:Portuguese:Spanish:tomate, deu:Tomate, Russian:томат (tomat), Japanese:トマト (tomato), Korean:토마토 (tomato), Hindi:टमाटर (ṭamāṭar), Bengali:টম্যাটো (ṭamyāṭo), Malay:tomat, Turkish:domates  
 **tone** *tone (note, pitch)* ← English:tone, Swahili:kitone, Russian:тон (ton), deu:Ton, Spanish:tono  
 **tong** *barrel (can, cask)* ← Mandarin:桶 (tǒng), Korean:통 (tong), Vietnamese:thùng, Malay:tong, Khmer:តុង (tong), Thai:ถัง (tǎng), Persian: تنگ‎ (tong) + French:tonneau, Spanish:tonel, ned:ton  
 **tore** *tower* ← English:tower, French:tour, Spanish:Portuguese:torre, deu:Turm, Hindi:टावर (ṭāvar) + Japanese:塔 (tō), Mandarin:塔 (tǎ)  
@@ -1533,7 +1533,7 @@
 **yege** *hunting (fishing)* ← deu:jagen + English:jaeger, Russian:егерь (jeger’)  
 **yeze** *coconut tree* ← Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)  
 **yodium** *iodine* ← English:iodine, French:iode, Spanish:yodo (iodo), Portuguese:iodo, Russian:йод, Japanese:ヨウ素, Korean:요오드, Vietnamese:iot, Hindi:आयोडिन, Bengali:আয়োডিন, Malay:yodium, Swahili:iodini, Arabic: يود  
-**yoge** *yoga* ← Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)  
+**yoga** *yoga* ← Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)  
 **yogur** *yogurt* ← English:Malay:yogurt, French:yogourt, Spanish:yogur, Portuguese:iogurte, Russian:йогурт (yogurt), Mandarin:优格 (yōugé), Japanese:ヨーグルト (yōguruto), Korean:요구르트 (yogureuteu), Turkish:yoğurt   
 **yom** *day (daytime)* ← Arabic: يَوْم‎ (yawm), Hindi:यौम (yaum), Malay:yaum  
 **yon** *ion* ← English:French:Spanish:ion, Russian:ион (ion), Turkish:iyon  
@@ -1562,7 +1562,7 @@
 **zira** *cumin (jeera)* ← Bengali:জিরা (zīra), Hindi:ज़ीरा (zīrā), Tamil:சீரகம் (sīrakam), Swahili:mjira, Persian:(zire), Mandarin:孜然 (zīrán), English:jeera  
 **zirkonium** *zirconium* ← English:zirconium, French:zirconium, Spanish:circonio, Portuguese:zircónio, Russian:цирконий, Japanese:ジルコニウム, Korean:지르코늄, Vietnamese:ziriconi, Hindi:जर्कोनियम, Bengali:জিরকোনিয়াম, Malay:zirkonium, Swahili:zirikoni, Arabic: زيركونيوم  
 **zize** *sizzle* ← Mandarin:zizi English:sizzle  
-**zoe** *animal (beast)* ← English:French:Spanish:Portuguese:Malay:Turkish:zoo-, Russian:зоо- (zoo-) + Mandarin:兽 (shòu)  
+**zoe** *animal (beast)* ← English:French:Spanish:Portuguese:Malay:Turkish:zoo-, Russian:зоо- (zoo-) + Mandarin:兽 (shòu), Cantonese:獸 (sau3), Japanese:獣 (jū), Korean:수 (su)  
 **zombi** *zombie* ← Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)  
 **zone** *belt (zone)* ← Greek:ζώνη (zónē), English:French:zone, Spanish:Portuguese:zona, Russian:зона (zona)  
 **zong** *species* ← Mandarin:種 (zhǒng), Cantonese:種 (zung2), Wu-Chinese:種 (tson2), Japanese:種 (shu), Korean:종 (jong), Vietnamese:chủng  

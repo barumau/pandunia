@@ -92,6 +92,7 @@ autoreje - 独立した
 bace - 子供 (赤ちゃん)  
 bade - 体  
 badam - アーモンド (扁桃)  
+bage -  鞄 (バッグ)  
 bagroselote - ジャガーネコ  
 bake - 白い  
 bakomargarite - フランスギク  
@@ -105,7 +106,7 @@ balutopal - ドングリ
 bambu - 竹  
 bamia - オクラ  
 ban - 板  
-banogem - ボードゲーム  
+bangem - ボードゲーム  
 bankorutia - 破産  
 barium - バリウム  
 barse - 雨 (雨が降る)  
@@ -579,7 +580,7 @@ jive - 命 (生命)
 jongle - ジャグリング  
 • jongler - ジャグラー  
 jul - ジュール (J)  
-juntolexe - 接続詞  
+juntelexe - 接続詞  
 jupiter - 木星  
 jus - ジュース  
 justopaver - 狙撃兵  
@@ -622,7 +623,7 @@ kare - 働く
 • karer - 労働者  
 • duskar - 悪事  
 • konkare - 共同して働  
-karolexe - 動詞  
+karelexe - 動詞  
 • karateiste - 空手家  
 karbe - 炭素  
 karbosui - 炭水化物  
@@ -1026,11 +1027,11 @@ parcokai - 弾ける
 parne - 羊歯  
 • partaner - パートナー  
 • partaneria - パートナーシップ  
-pasolexe - パスワード  
-pasoporte - パスポート  
+paslexe - パスワード  
+pasporte - パスポート  
 pastopetre - マグマ (岩漿)  
 • patike - 患者  
-• patokan - 病院 (医院)  
+• patekan - 病院 (医院)  
 • konpatia - 同情  
 patomise - 伝染  
 pau - 銃  
@@ -1229,7 +1230,7 @@ siborgium - シーボーギウム
 side - 座る  
 • sidel - 座席 (鞍)  
 • inside - しゃがむ (蹲る)  
-sifolexe - 形容詞  
+sifelexe - 形容詞  
 sigare - タバコ  
 siyahe - 黒い  
 • sikliste - チャリダー  
@@ -1485,7 +1486,7 @@ ye - はい
 yege - 狩り (狩猟)  
 yo - 何分の  
 yodium - ヨウ素  
-• yogiste - ヨギ  
+• yogaiste - ヨギ  
 yogur - ヨーグルト  
 yom - 昼  
 yomyam - 昼食  

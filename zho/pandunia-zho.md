@@ -114,7 +114,8 @@ babu - 章
 bace - 小孩  
 bade - 身体  
 badam - 杏仁 (巴旦木)  
-bagaje - 行李  
+bage - 包  
+• bagaje - 行李  
 bagre - 虎  
 bagroselote - 小斑虎貓  
 bah - 呸  
@@ -131,7 +132,7 @@ balute - 橡树 (xiàng)
 bambu - 竹子  
 bamia - 秋葵  
 ban - 板子  
-banogem - 版图游戏  
+bangem - 版图游戏  
 banan - 香蕉  
 bande - 班  (一帮)  
 bandir - 旗  
@@ -600,7 +601,7 @@ jongle - 变戏法
 juba - 长袍  
 • judokan - 法庭  
 jul - 焦耳 (J)  
-juntolexe - 连接词  
+juntelexe - 连接词  
 jupiter - 木星  
 jus - 汁  
 
@@ -644,7 +645,7 @@ kare - 工作
 • karokan - 工厂  
 • karer - 工人 (工作者)  
 • konkare - 合作  
-karolexe - 动词  
+karelexe - 动词  
 karbe - 碳  
 karboduloxide - 二氧化碳  
 karcof - 菜蓟  
@@ -1040,12 +1041,12 @@ parcokai - 爆裂
 parke - 园  
 parne - 蕨  
 • partaner - 伙伴  
-pase - 過  
-pasolexe - 密码  
-pasoporte - 护照  
+pas - 過  
+paslexe - 密码  
+pasporte - 护照  
 pastopetre - 岩漿  
 • patike - 患者 (病患)  
-• patokan - 医院  
+• patekan - 医院  
 patogener - 病原体  
 patolojia - 病理学  
 patomise - 传染  
@@ -1226,7 +1227,7 @@ serame - 陶瓷
 sexolojia - 性学  
 • sidel - 座部 (马鞍)  
 • inside - 蹲  
-sifolexe - 形容词  
+sifelexe - 形容词  
 sigare - 香烟  
 siyahe - 黑色  
 • sikliste - 骑自行车的人  
@@ -1335,7 +1336,7 @@ tix - 噓
 • tixe - 安静  
 • tixia - 沉默  
 • jivotome - 活体解剖  
-tomate - 西红柿  
+tomato - 西红柿  
 topografe - 地形  
 • topografia - 地形  
 tore - 塔 (塔楼)  
@@ -1483,8 +1484,8 @@ ye - 对 (是)
 yege - 狩猎  
 • yeger - 狩人  
 yodium - 碘  
-yoge - 瑜伽功  
-• yogiste - 瑜伽士  
+yoga - 瑜伽功  
+• yogaiste - 瑜伽士  
 yogur - 酸奶 (优格)  
 yom - 白天  
 yterbium - 镱  
