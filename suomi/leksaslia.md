@@ -1544,12 +1544,12 @@
 **ytrium** *yttrium* ← englanti:yttrium, ranska:yttrium, espanja:itrio, portugali:itrio, venäjä:иттрий, yleiskiina:钇 (yǐ), japani:イットリウム, korea:이트륨, vietnami:ytri, hindi:इत्रियम, bangla:ইটরিয়াম, malaiji:itrium, suahili:yitri, arabia: يتريوم  
 **yuge** *ies* ← englanti:yoke, espanja:yugo, portugali:jugo, persia:  یوغ‎ (yuğ), kantoninkiina:軛 (aak1), vietnami:ách  
 **yune** *nuori* ← englanti:young, venäjä:юный (junyj) + hindi:युवा (yuvā), telugu:యువ (yuva) + ranska:jeun, espanja:joven, portugali:jovem, fra:juvénile  
+**zai** *olla olemassa* ← yleiskiina:在 (zài), japani:在 (zai), vietnami:tại  
 **zaitun** *oliivi* ← arabia:(zaitūn), espanja:aceituna, malaiji:zaitun, suahili:zaituni, hindi:urdu:(zaitūn)  
 **zalime** *ilkeä (julma)* ← arabia:(ẓālim), turkki:zalim, urdu:hindi:(zālim), persia:(zālem), suahili:dhalimu  
 **zaman** *aika (aikakausi, kausi)* ← arabia: زَمَن‎ (zaman), suahili:zamani, malaiji:jam(an), turkki:zaman, yoruba:samaani + hindi:समय (samay), bangla:সময় (sômyô)  
 **zanger** *artesaani (käsityöläinen)* ← yleiskiina:匠 (jiàng), thai:ช่าง (jang), khmer:ជាង (ciəng)  
 **zar** *sattuma (onni; sattumanvarainen)* ← arabia: زَهْر (zahr), turkki:zar, persia: زار (zâr) + englanti:hazard, espanja:portugali:azar  
-**zay** *olla olemassa* ← yleiskiina:在 (zài), japani:在 (zai), vietnami:tại  
 **zebra** *seepra* ← englanti:portugali:turkki:zebra, espanja:cebra, venäjä:зебра (zebra), hindi:ज़ेब्रा (zebrā), japani:ゼブラ (zebura)  
 **zele** ** ← englanti:jealous, espanja:celoso, ranska:jaloux  
 **zerve** ** ← englanti:reservation, ranska:réservation, portugali:espanja:reserva, turkki:rezerve, venäjä:резервирование (rezervirovaniye)  

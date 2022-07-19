@@ -1941,8 +1941,8 @@ zarkube - dé
 Zardux - Zoroastre  
 zarduxisme - zoroastrisme  
 zarduxiste - zoroastrien  
-zay - être présent  
-zay zaman su - actuel (courant)  
+zai - être présent  
+zai zaman su - actuel (courant)  
 Zayeria - Algérie  
 zebra - zèbre  
 zinke - zinc  

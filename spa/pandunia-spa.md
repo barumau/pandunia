@@ -19,8 +19,8 @@ a sababe de - porque
 a sube - debajo  
 a supre - sobre  
 a xukre de - gracias a (merced a)  
-a zay - ahora (actualmente)  
-a zay den - hoy  
+a zai - ahora (actualmente)  
+a zai den - hoy  
 abete - abeto  
 able - poder (posible)  
 • ablo - posiblemente  
@@ -3707,14 +3707,14 @@ zarkube - dado
 Zardux - Zoroastro  
 zarduxisme - zoroastrismo  
 zarduxiste - zoroastriano  
-zay - existir (estar presente; actual)  
+zai - existir (estar presente; actual)  
 zayia - presencia (existencia)  
 • zayaje - actualidad  
 • zayife - generar (añadir)  
 • azay - aparecer  
 • dezay - quitar (eliminar, borrar)  
-zay zaman - presente  
-zay zaman su - actual  
+zai zaman - presente  
+zai zaman su - actual  
 Zayeria - Argelia  
 zebra - cebra  
 • zelose - celoso (envidioso)  

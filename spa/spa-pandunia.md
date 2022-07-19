@@ -43,7 +43,7 @@ actinio - acinium
 activo - ative  
 acto - ate  
 actor (actriz) - roler  
-actual - zay zaman su  
+actual - zai zaman su  
 actualidad - zayaje  
 actuar (hacer un papel) - role  
 acuarela - suirang  
@@ -91,7 +91,7 @@ agua - sui
 agua mineral - kuangosui  
 aguacate - avakate  
 agujero (hueco) - kong  
-ahora (actualmente) - a zay  
+ahora (actualmente) - a zai  
 ahora mismo (justo) - a neu  
 ahorrar (reservar, depositar) - banke  
 aire - air  
@@ -1345,7 +1345,7 @@ excepto (exceptuar) - excepe
 excepto (menos) - minus  
 excluir - exkluze  
 exclusivo - exkluzive  
-existir (estar presente; actual) - zay  
+existir (estar presente; actual) - zai  
 exoplaneta (planeta extrasolar) - explanete  
 expatriado - expatrian  
 expeler (expulsar) - expele  
@@ -1693,7 +1693,7 @@ hornear (cocer) - beke
 horno - tanur  
 hospital - patekan  
 hotel (albergue) - hotel  
-hoy - a zay den  
+hoy - a zai den  
 huella digital - angulmarke  
 hueso - oste  
 huevo - ove  
@@ -2832,7 +2832,7 @@ preguntarse - vol sabe
 prenatal - prenatal  
 prensa - preser  
 presencia (existencia) - zayia  
-presente - zay zaman  
+presente - zai zaman  
 presidente - presidente  
 presión - prese  
 presión atmosférica - airbaria  

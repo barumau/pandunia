@@ -1674,7 +1674,7 @@ yune - jovem
 
 zaman - tempo  
 zarkube - dado  
-zay zaman su - corrente (atual)  
+zai zaman su - corrente (atual)  
 zebra - zebra  
 • rezerve - reserva  
 zinke - zinco  

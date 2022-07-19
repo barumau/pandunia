@@ -1585,7 +1585,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**zaman**|ara: زَمَن‎ (zaman), swa:zamani, may:jam(an), tur:zaman, yor:samaani + hin:समय (samay), ben:সময় (sômyô)|
 |**zanger**|zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|
 |**zar**|ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|
-|**zay**|zho:在 (zài), jpn:在 (zai), vie:tại|
+|**zai**|zho:在 (zài), jpn:在 (zai), vie:tại|
 |**zebra**|eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)|
 |**zele**|eng:jealous, spa:celoso, fra:jaloux|
 |**zerve**|eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)|

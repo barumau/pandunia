@@ -1544,12 +1544,12 @@
 **ytrium** *itrio* ← angla:yttrium, franca:yttrium, hispana:itrio, portugala:itrio, rusa:иттрий, mandarena:钇 (yǐ), japana:イットリウム, korea:이트륨, vjetnama:ytri, hindia:इत्रियम, bengala:ইটরিয়াম, malaja:itrium, svahila:yitri, araba: يتريوم  
 **yuge** *jugo* ← angla:yoke, hispana:yugo, portugala:jugo, persa:  یوغ‎ (yuğ), kantona:軛 (aak1), vjetnama:ách  
 **yune** *juna* ← angla:young, rusa:юный (junyj) + hindia:युवा (yuvā), teluga:యువ (yuva) + franca:jeun, hispana:joven, portugala:jovem, fra:juvénile  
+**zai** *ĉeesti (ekzisti)* ← mandarena:在 (zài), japana:在 (zai), vjetnama:tại  
 **zaitun** *olivo* ← araba:(zaitūn), hispana:aceituna, malaja:zaitun, svahila:zaituni, hindia:urdua:(zaitūn)  
 **zalime** ** ← araba:(ẓālim), turka:zalim, urdua:hindia:(zālim), persa:(zālem), svahila:dhalimu  
 **zaman** *tempo* ← araba: زَمَن‎ (zaman), svahila:zamani, malaja:jam(an), turka:zaman, joruba:samaani + hindia:समय (samay), bengala:সময় (sômyô)  
 **zanger** *metiisto* ← mandarena:匠 (jiàng), taja:ช่าง (jang), kmera:ជាង (ciəng)  
 **zar** *hazardo* ← araba: زَهْر (zahr), turka:zar, persa: زار (zâr) + angla:hazard, hispana:portugala:azar  
-**zay** *ĉeesti (ekzisti)* ← mandarena:在 (zài), japana:在 (zai), vjetnama:tại  
 **zebra** *zebro* ← angla:portugala:turka:zebra, hispana:cebra, rusa:зебра (zebra), hindia:ज़ेब्रा (zebrā), japana:ゼブラ (zebura)  
 **zele** ** ← angla:jealous, hispana:celoso, franca:jaloux  
 **zerve** ** ← angla:reservation, franca:réservation, portugala:hispana:reserva, turka:rezerve, rusa:резервирование (rezervirovaniye)  

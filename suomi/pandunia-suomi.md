@@ -54,7 +54,7 @@ a sube - alla
 a supre - yllä (pääll)  
 a vere - todella  
 a xukre de - ansiosta  
-a zay den - tänään  
+a zai den - tänään  
 abe - pois  
 abete - pihta (jalokuusi)  
 able - voida (osata, pystyä)  
@@ -3854,11 +3854,11 @@ zarkube - noppa (arpakuutio)
 Zardux - Zarathustra  
 zarduxisme - zarathustralaisuus  
 zarduxiste - zarathustralainen  
-zay - olla olemassa  
+zai - olla olemassa  
 zayia - läsnäolo  
 • dezay - poistaa (hävittää)  
-zay zaman - tämä hetki (nyt)  
-zay zaman su - nykyinen (tämänhetkinen)  
+zai zaman - tämä hetki (nyt)  
+zai zaman su - nykyinen (tämänhetkinen)  
 Zayeria - Algeria  
 zebra - seepra  
 • zelose - kade (kateellinen)  

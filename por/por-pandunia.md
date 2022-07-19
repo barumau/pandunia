@@ -377,7 +377,7 @@ corno - korne
 coro - cantergrupe  
 corpo - bade  
 corredor - korer  
-corrente (atual) - zay zaman su  
+corrente (atual) - zai zaman su  
 correr - kore  
 correto (justo) - sahe  
 cortina - janelovel  

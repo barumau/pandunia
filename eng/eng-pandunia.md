@@ -983,7 +983,7 @@ cumin (jeera) - zira
 cumulus cloud - kumulonepe  
 cupboard (closet, cabinet, wardrobe) - almari  
 curium - kurium  
-current (contemporary, present-day) - zay zaman su  
+current (contemporary, present-day) - zai zaman su  
 curry - kari  
 curse (damn, malediction) - dusdua  
 curtain - janelovel  
@@ -1358,7 +1358,7 @@ excrement (shit; defecate) - kaka
 excursion - exkurse  
 exhume - exhume  
 exist (be out there) - exese  
-exist (be present) - zay  
+exist (be present) - zai  
 exist - ese  
 exit door - cutomun  
 exogeneous - exogene  
@@ -3166,8 +3166,8 @@ prenatal - prenatal
 preposition - prepoze  
 presence (existence) - zayia  
 present (here, now, current situation) - zayaje  
-present time (now) - zay zaman  
-presenty (currently, now) - a zay  
+present time (now) - zai zaman  
+presenty (currently, now) - a zai  
 president - presidente  
 press (pressure) - prese  
 press device - preser  
@@ -4049,7 +4049,7 @@ title (headline) - temnam
 to (toward, till, until, for) - ta  
 toast (toasted bread) - roste pang  
 tobacco - tabake  
-today - a zay den  
+today - a zai den  
 together (jointly, mutually) - kono  
 Togo - Togo  
 toilet (WC) - tualete  

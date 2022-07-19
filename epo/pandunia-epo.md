@@ -11,7 +11,7 @@ a neu - ĵus
 a sababe de - ĉar  
 a supre - super  
 a xukre de - dank’al  
-a zay den - hodiaŭ  
+a zai den - hodiaŭ  
 abete - abio  
 able - povi  
 • ablo - eble  
@@ -1915,10 +1915,10 @@ zarkube - ĵetkubo
 Zardux - Zoroastro  
 zarduxisme - zoroastrismo  
 zarduxiste - zoroastristo  
-zay - ĉeesti (ekzisti)  
+zai - ĉeesti (ekzisti)  
 zayia - ĉeestanteco (ekzisto)  
-zay zaman - nuno  
-zay zaman su - nuna  
+zai zaman - nuno  
+zai zaman su - nuna  
 zebra - zebro  
 • rezerve - rezervo  
 zine - malfideleco  

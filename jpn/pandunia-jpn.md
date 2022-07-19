@@ -4,7 +4,7 @@
 
 a line - オンライン  
 a misal - 例えば  
-a zay den - 今日  
+a zai den - 今日  
 abete - モミ  
 able - ありうる  
 acar - 漬物  
@@ -1506,9 +1506,9 @@ yune moke - 若木
 zalime reger - 暴君  
 zaman - 時代 (年代)  
 zarkube - 賽子  
-zay - ある (いる)  
-zay zaman - 今 (現在)  
-zay zaman su - 現行  
+zai - ある (いる)  
+zai zaman - 今 (現在)  
+zai zaman su - 現行  
 zeze - ハエ目 (双翅目)  
 zinke - 亜鉛  
 zira - クミン  

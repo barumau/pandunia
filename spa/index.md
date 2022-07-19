@@ -32,7 +32,7 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 - [Lecciones con diálogos](201_xule.md)
 - [Tarjetas y pruebas](https://lingopolo.org/pandunia/) en Lingopolo
 - [Mini lecciones con gráficos](http://www.pandunia.info/pandunia/mini_xule.html)
-- [Guía de conversación](200_baze_jumla.md)
+- [Guía de conversación](200_baze_jumle.md)
 - [Gramática de Pandunia](pan.pdf) como PDF
 - [Dicionario que permite búsquedas](http://www.pandunia.info/pandunia/logia.html)
 - [Orígenes de las palabras(etimología de Pandunia)](leksaslia.md)

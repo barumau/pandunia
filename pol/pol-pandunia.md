@@ -190,7 +190,7 @@ biblioteka - kitabekan
 bibliotekarz - kitabemanter  
 biec (biegać, pędzić) - kore  
 biedny, mizerny - miskin  
-bieżący (aktualny, obecny) - zay zaman su  
+bieżący (aktualny, obecny) - zai zaman su  
 bilet - tikete  
 bilet powrotny - retrotikete  
 bilion, giga- - giga  
@@ -543,7 +543,7 @@ dziw (cudo) - ajibe
 dziwny (nieznany) - anbenose  
 dziwny - bizar  
 dziękować (dzięki) - xukre  
-dziś, dzisiaj - a zay den  
+dziś, dzisiaj - a zai den  
 dzwon (dzwonek) - danger  
 dzwonić (dźwięczeć, szczękać) - dange  
 dół, jama, wydobycie, wykop, wykopalisko - kavaje  
@@ -920,7 +920,7 @@ Islam - islamisme
 islamofobia - islamofobia  
 islamski - islamike  
 Islandia - Islandia  
-istnieć (być obecnym) - zay  
+istnieć (być obecnym) - zai  
 Italia, Włochy - Italia  
 iterb - yterbium  
 itr - ytrium  
@@ -2840,7 +2840,7 @@ teoria - teoria
 teozofia - deusofia  
 tera- - tera  
 terakota - bekofan  
-teraźniejszość, współczesność (teraz) - zay zaman  
+teraźniejszość, współczesność (teraz) - zai zaman  
 teraźniejszość, współczesność - zayia  
 terb - terbium  
 teren - geoforme  

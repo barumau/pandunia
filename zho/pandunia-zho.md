@@ -1503,7 +1503,7 @@ yuge - 轭
 zaman - 时间  
 zanger - 工匠 (匠人)  
 zarkube - 骰子 (色子)  
-zay zaman su - 现在的  
+zai zaman su - 现在的  
 zebra - 斑马  
 zeze - 双翅目  
 zinke - 锌  

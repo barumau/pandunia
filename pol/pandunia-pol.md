@@ -15,7 +15,7 @@ a retre - wstecz
 a sababe de - ponieważ, bo  
 a sube - pod (poniżej)  
 a supre - nad  
-a zay den - dziś, dzisiaj  
+a zai den - dziś, dzisiaj  
 abete - jodła  
 able - móc, umieć  
 • ablo - prawdopodobnie (możliwie)  
@@ -3407,13 +3407,13 @@ zarkube - kość do gry
 Zardux - Zaratusztra  
 zarduxisme - zaratusztrianizm  
 zarduxiste - zaratrustianin  
-zay - istnieć (być obecnym)  
+zai - istnieć (być obecnym)  
 zayia - teraźniejszość, współczesność  
 • zayife - wzywać (wezwać, dodawać, dodać)  
 • azay - pojawić się  
 • dezay - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
-zay zaman - teraźniejszość, współczesność (teraz)  
-zay zaman su - bieżący (aktualny, obecny)  
+zai zaman - teraźniejszość, współczesność (teraz)  
+zai zaman su - bieżący (aktualny, obecny)  
 Zayeria - Algieria  
 zebra - zebra  
 • zelose - zazdrosny  

@@ -2126,7 +2126,7 @@ nuorukainen - yunike
 nuoruus - yunia  
 nussia (panna) - code  
 nuudeli - mien  
-nykyinen (tämänhetkinen) - zay zaman su  
+nykyinen (tämänhetkinen) - zai zaman su  
 nyrkkeilijä - bokser  
 nyrkkeily - bokse  
 nähdä - vide  
@@ -2168,7 +2168,7 @@ olla edessä (olla haittona) - prevene
 olla eri mieltä - aloraye  
 olla jtkn mieltä (pitää jnkn) - rai  
 olla nimeltään - name  
-olla olemassa - zay  
+olla olemassa - zai  
 olla samaa mieltä - samrai  
 olla taipuvainen - ive  
 olla vuorovaikutuksessa - interate  
@@ -3454,8 +3454,8 @@ tähti - xing
 tähtialus - astronau  
 tähtitiede (astronomia) - astronomia  
 tähtitieteilijä - astronomer  
-tämä hetki (nyt) - zay zaman  
-tänään - a zay den  
+tämä hetki (nyt) - zai zaman  
+tänään - a zai den  
 täplä (läiskä) - binde  
 tärkeä - ham  
 täydellinen (täysin hyvä) - purbone  

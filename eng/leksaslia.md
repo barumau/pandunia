@@ -1544,12 +1544,12 @@
 **ytrium** *yttrium* ← English:yttrium, French:yttrium, Spanish:itrio, Portuguese:itrio, Russian:иттрий, Mandarin:钇 (yǐ), Japanese:イットリウム, Korean:이트륨, Vietnamese:ytri, Hindi:इत्रियम, Bengali:ইটরিয়াম, Malay:itrium, Swahili:yitri, Arabic: يتريوم  
 **yuge** *yoke* ← English:yoke, Spanish:yugo, Portuguese:jugo, Persian:  یوغ‎ (yuğ), Cantonese:軛 (aak1), Vietnamese:ách  
 **yune** *young (juvenile)* ← English:young, Russian:юный (junyj) + Hindi:युवा (yuvā), Telugu:యువ (yuva) + French:jeun, Spanish:joven, Portuguese:jovem, fra:juvénile  
+**zai** *exist (be present)* ← Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại  
 **zaitun** *olive* ← Arabic:(zaitūn), Spanish:aceituna, Malay:zaitun, Swahili:zaituni, Hindi:Urdu:(zaitūn)  
 **zalime** *mean (cruel)* ← Arabic:(ẓālim), Turkish:zalim, Urdu:Hindi:(zālim), Persian:(zālem), Swahili:dhalimu  
 **zaman** *time (age, period, era, epoch, term)* ← Arabic: زَمَن‎ (zaman), Swahili:zamani, Malay:jam(an), Turkish:zaman, Yoruba:samaani + Hindi:समय (samay), Bengali:সময় (sômyô)  
 **zanger** *artisan (craftsman)* ← Mandarin:匠 (jiàng), Thai:ช่าง (jang), Khmer:ជាង (ciəng)  
 **zar** *hazard (chance; random)* ← Arabic: زَهْر (zahr), Turkish:zar, Persian: زار (zâr) + English:hazard, Spanish:Portuguese:azar  
-**zay** *exist (be present)* ← Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại  
 **zebra** *zebra* ← English:Portuguese:Turkish:zebra, Spanish:cebra, Russian:зебра (zebra), Hindi:ज़ेब्रा (zebrā), Japanese:ゼブラ (zebura)  
 **zele** *zeal* ← English:jealous, Spanish:celoso, French:jaloux  
 **zerve** *reserve (store)* ← English:reservation, French:réservation, Portuguese:Spanish:reserva, Turkish:rezerve, Russian:резервирование (rezervirovaniye)  

@@ -57,8 +57,8 @@ a sube - under
 a supre - above (over)  
 a vere - truly (indeed, very)  
 a xukre de - thanks to  
-a zay - presenty (currently, now)  
-a zay den - today  
+a zai - presenty (currently, now)  
+a zai den - today  
 abe - away  
 abete - fir tree  
 able - can (be able; ability, possibility; able, possible)  
@@ -4458,14 +4458,14 @@ zarkube - die (dice)
 Zardux - Zoroaster  
 zarduxisme - Zoroastrianism  
 zarduxiste - Zoroastrian  
-zay - exist (be present)  
+zai - exist (be present)  
 zayia - presence (existence)  
 • zayaje - present (here, now, current situation)  
 • zayife - summon (add, spawn)  
 • azay - appear  
 • dezay - remove (delete, dispose, erase)  
-zay zaman - present time (now)  
-zay zaman su - current (contemporary, present-day)  
+zai zaman - present time (now)  
+zai zaman su - current (contemporary, present-day)  
 Zayeria - Algeria  
 zebra - zebra  
 zele - zeal  

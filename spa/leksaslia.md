@@ -1544,12 +1544,12 @@
 **ytrium** *itrio* ← eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم  
 **yuge** *yugo* ← eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách  
 **yune** *joven* ← eng:young, rus:юный (junyj) + hin:युवा (yuvā), tel:యువ (yuva) + fra:jeun, spa:joven, por:jovem, fra:juvénile  
+**zai** *existir (estar presente; actual)* ← zho:在 (zài), jpn:在 (zai), vie:tại  
 **zaitun** *aceituna* ← ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)  
 **zalime** *mezquino (antipático, cruel)* ← ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu  
 **zaman** *tiempo (era, periodo, época)* ← ara: زَمَن‎ (zaman), swa:zamani, may:jam(an), tur:zaman, yor:samaani + hin:समय (samay), ben:সময় (sômyô)  
 **zanger** *artesano* ← zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)  
 **zar** *riesgo (posibilidad; azar, aleatorio)* ← ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar  
-**zay** *existir (estar presente; actual)* ← zho:在 (zài), jpn:在 (zai), vie:tại  
 **zebra** *cebra* ← eng:por:tur:zebra, spa:cebra, rus:зебра (zebra), hin:ज़ेब्रा (zebrā), jpn:ゼブラ (zebura)  
 **zele** ** ← eng:jealous, spa:celoso, fra:jaloux  
 **zerve** ** ← eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)  

@@ -38,18 +38,21 @@ Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a wr
 A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
 Compound words can be made in four ways in Pandunia.
 
-1. Open compounds are written as separate words. Ex.
-   **tomato** 'tomato' + **sos** 'sauce** = **tomato sos** 'tomato sauce'.
-2. Closed compounds are joined to form a single word. Ex.
-   **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office',
-   **bau** 'treasure' + **ite** 'stone' = **bavite** 'gemstone, jewel',
-   **lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'.
+1. Open compounds are written as separate words.
+    - **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce'
+    - **ame** 'love' + **letre** 'letter' = **ame letre** 'love letter'
+2. Closed compounds are joined to form a single word.
+    - **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'
+    - **bau** 'treasure' + **ite** 'stone' = **bavite** 'gemstone, jewel'
+    - **lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'
 3. Merged compounds are joined together so that the final vowel of the first word disappears before the beginning vowel of the second word.
-   This can happen only when the first word ends in **-e** and the second word begins with a vowel. Ex.
-   **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
+   This can happen only when the first word ends in **-e** and the second word begins with a vowel.
+    - **fone** 'sound, voice' + **eme** 'elementary unit' = **foneme** 'phoneme, unit of sound'
+    - **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'
 4. Greek compounds are compounds where the final **-e** of the first word turns into **-o-** before the second word.
-   This way of compounding is applied only to a handful of words borrowed from Ancient Greek. Ex.
-   **fote** 'light' + **grafe** 'image' = **fotografe** 'photograhic image, photograph'.
+   This way of compounding is applied only to a handful of words borrowed from Ancient Greek.
+    - **fote** 'light' + **grafe** 'image' = **fotografe** 'photograph'
+    - **deme** 'people' + **kratia** 'rule' = **demokratia** 'democracy'
 
 There is little difference between open compounds and closed compounds.
 Open compounds may be written together as closed compounds,

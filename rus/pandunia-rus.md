@@ -1749,7 +1749,7 @@ Zambia - Замбия
 zarkube - кость (кубик)  
 Zardux - Зороастр  
 zarduxiste - зороастризм  
-zay zaman su - нынешний  
+zai zaman su - нынешний  
 zebra - зебра  
 zeze - двукрылое  
 Zimbabve - Зимбабве  

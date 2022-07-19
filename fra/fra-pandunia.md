@@ -23,7 +23,7 @@ acte - ate
 actif (activer, allumer, mettre en marche) - ative  
 actinium - acinium  
 action - ation  
-actuel (courant) - zay zaman su  
+actuel (courant) - zai zaman su  
 adapter (ajuster) - hape  
 adjectif - sifelexe  
 administrateur - politer  
@@ -1960,6 +1960,6 @@ zèbre - zebra
 être - e  
 être couché - kusu  
 être humain - human  
-être présent - zay  
+être présent - zai  
 œil - oke  
 œuvre - ature  
