@@ -47,6 +47,7 @@
 **anus** *anuso* ← angla:franca:anus, portugala:ânus, hispana:ano, deu:Anus, rusa:анус (anus), turka:anüs  
 **aple** *pomo* ← angla:apple, deu:Apfel, malaja:apel, bengala:আেপল (apôl), zulua:ihhabhula  
 **aplike** ** ← angla:franca:application, hispana:aplicación, portugala:aplicação, polona:aplikacja  
+**aposum** *didelfo* ← angla:franca:opossum, rusa:опоссум (opossum), mandarena:奥珀瑟姆 (àopòsèmǔ), japana:オポッサム (opossamu), vjetnama:ô-pốt-sâm, araba: أُوبُسُوم‎ (ʾubusum)  
 **ar** *areo* ← angla:area, portugala:hispana:área, polona:areał, franca:aire  
 **arake** ** ← araba: عرق‎ ('araq), angla:arrack, franca:raki, portugala:áraque, rusa:арак (arak), mandarena:阿剌吉 (ālàjí), malaja:arak, turka:rakı, birma:အရက် (arak)  
 **arane** *araneo* ← franca:araignee, portugala:aranha, hispana:araña, angla:arachnid  
@@ -115,6 +116,7 @@
 **barkoke** *abrikoto* ← araba:(barqūq), pa:albaricoque, franca:abricot, rusa:абрикос (abrikos), filipina:albarikoke, svahila:aprikoti  
 **barse** *pluvo* ← hindia:बारिश (bāriś), bengala:বৃষ্টি (briśṭi), turka:baran  
 **barte** *Barata* ← hindia:भारतीय (bhārtīy), urdua:(bhārtīy), marataja:(bhārtīya), teluga:(bhāratīya)  
+**baru** *urso* ← deu:Bär, angla:bear + hindia:भालू (bhālū), bengala:ভালুক (bhaluk) + malaja:beruang  
 **barude** *pulvo* ← araba:persa:urdua:(bārūd), hindia:बारूद (bārūd), svahila:baruti, turka:barut  
 **bas** *sufiĉa* ← hispana:portugala:itala:basta + araba:persa:urdua:س (bas), hindia:(bas), svahila:basi  
 **basen** *baseno* ← angla:basin, franca:bassin, rusa:бассейн (basseyn), portugala:bacia  
@@ -147,6 +149,7 @@
 **bete** ** ← angla:beet, hispana:betabel, portugala:beterraba, franca:betterave, deu:Bete, japana:ビート (bīto)  
 **beton** *betono* ← franca:béton, portugala:betão, deu:Beton, rusa:бетон (beton), polona:turka:beton, persa:بتن‎ (beton)  
 **betula** ** ← hispana:abedul, portugala:bétula, araba: بَتُولَا‎ (batūlā)  
+**bibre** *kastoro* ← deu:Biber, angla:beaver, rusa:бобр (bobr), japana:ビーバー (bībā), korea:비버 (bibeo)  
 **bie** *organismo* ← angla:deu:franca:hispana:portugala:polona:malaja:svahila:turka:bio-, rusa:био- (bio-)  
 **bil** ** ← angla:bill, hindia:बिल (bil), malaja:bil  
 **bilor** ** ← araba: بِلَّوْر‎ (billawr), hindia:बिल्लौर (billaur), malaja:hablur, turka:billûr, amhara:በሉር (bälur) + hispana:abalorio  
@@ -157,6 +160,7 @@
 **bis** ** ← bug:bissu  
 **biskute** *biskvito (kuketo)* ← angla:franca:biscut, portugala:biscoito, rusa:бисквит (biskvit), turka:bisküvi, svahila:biskuti, araba:بسكويت‎ (baskawīt), hindia:बिस्कुट (biskuṭ), malaja:biskut, japana:ビスケット (bisuketto)  
 **bismute** *bismuto* ← angla:bismuth, franca:bismuth, hispana:bismuto, portugala:bismuto, rusa:висмут, mandarena:铋 (bì), japana:ビスマス, korea:비스무트, vjetnama:bitmut, bismut, hindia:बिस्मथ, bengala:বিসমাথ, malaja:bismut, svahila:bismuthi, araba: بزموث  
+**bison** *bizono* ← angla:franca:malaja:vjetnama:bison, hispana:bisonte, portugala:bisão, rusa:бизон (bizon), japana:バイソン (baison), korea:바이슨 (baiseun), araba: بِيسُون‎ (bīsūn)  
 **bizar** *stranga* ← angla:franca:bizarre, portugala:bizarro, deu:bizarr  
 **biznes** *negoco* ← angla:business, rusa:бизнес (biznes), malaja:bisnes, japana:ビジネス (bijinesu)  
 **blabla** *babili* ← franca:blablater, angla:babble, hispana:blablablá, rusa:бла-бла-бла, vjetnama:bô lô ba la  
@@ -229,6 +233,7 @@
 **cincile** *ĉinĉilo* ← angla:hispana:franca:chinchilla, portugala:chinchila, rusa:шиншилла (šinšilla), turka:çinçilya, malaja:cincila, japana:チンチラ (chinchira)  
 **cing** *peti (bonvolu)* ← mandarena:请 (qǐng), kantona:請 (cing2), korea:청 (cheong), vjetnama:thỉnh  
 **cire** ** ← hindia:marataja:चीर (chīra), bengala:চেরা (chērā), pan:ਚੀਰ (chīra) + angla:tear  
+**cita** *gepardo* ← angla:cheetah, hispana:portugala:chita, hindia:चीता (cītā), bengala:চিতা (cita), malaja:citah, japana:チーター (chītā), korea:치타 (chita), araba: شِيتَه‎ (šītah), turka:çita  
 **cite** *citi* ← angla:cite, hispana:portugala:citar, franca:citer, deu:zitieren, rusa:цитировать (citirovat’)  
 **code** *fiki* ← hindia:चोदना (codnā), bengala:চোদা (coda) + mandarena:肏 (cào)  
 **coi** ** ← mandarena:菜 (cài), kantona:菜 (coi3), angla:-choy, malaja:-coy  
@@ -643,6 +648,7 @@
 **karde** *karto* ← angla:card, franca:carte, hispana:portugala:carta, deu:Karte, rusa:карта (karta), turka:kart, svahila:kadi, hindia:कार्ड (kārḍa), bengala:কার্ড (kārḍa), malaja:kartu, mandarena:卡 (kǎ), japana:カード (kādo), korea:카드 (kadeu) deu:Karte, may:kartu, fra:carte  
 **kardon** ** ← hispana:portugala:cardo, franca:chardon, angla:cardoon, japana:カルドン (karudon)  
 **kare** ** ← persa: کار (kâr), hindia:कार (kār), कार्य (kārya), bengala:কাজ (kaj), malaja:karya,kerja + svahila:kazi  
+**kargadan:** *rinocero* ← persa: کرگدن‎ (kargadan), araba: كَرْكَدَّن‎ (karkaddan), turka:kergedan, haŭsa:karkanda, oroma:karkaarro, hindia:खड्गधेनु (khaḍgadhenu), tamila:ఖడ్గమృగం (khaḍgamr̥gaṁ), teluga:ఖడ్గమృగం (khaḍgamr̥gaṁ)  
 **karge** ** ← hispana:portugala:carga, angla:cargo, malaja:kargo  
 **kari** *kareo* ← angla:franca:portugala:curry, hispana:curri, rusa:карри (karri), mandarena:咖喱 (kālǐ), japana:カレー (karē), korea:커리 (keori), vjetnama:cà ri,hindia:करी (karī), bengala:কারি (kari), malaja:kari, araba: كَارِي‎ (kārī)  
 **karime** ** ← araba:(karīm), svahila:-karimu, turka:kerim, hispana:portugala:caritativo  
@@ -655,8 +661,7 @@
 **kase** ** ← lat:capsa, deu:Kasse, angla:franca:case, hispana:caja, portugala:caixa, rusa:касса (kassa), svahila:kasha + araba:(qafaṣ), hindia:क़फ़स (qafas), turka:kafes + mandarena:卡式 (kǎshì), japana:カセット (kasetto), korea:카세트 (kaseteu)  
 **kaske** ** ← hispana:cáscara, portugala:casca + nan:殼 (kag4), vua:殼 (khoq4), japana:殻 (kaku)  
 **kastan** *kaŝtano* ← hispana:castaňa, araba:(kastanāʾ), turka:kestane, rusa:каштан (kaštan)  
-**kastor** *kastoro* ← franca:portugala:hispana:castor, filipina:turka:kastor  
-**katane** *glavo* ← japana:刀 (katana), angla:hispana:turka:malaja:katana, rusa:катана (katana), bengala:কাতানা (kātānā)  
+**katana** *glavo* ← japana:刀 (katana), angla:hispana:turka:malaja:katana, rusa:катана (katana), bengala:কাতানা (kātānā)  
 **kate** *tranĉi* ← angla:cut, araba:(qaṭa’a), hindia:काटना (kāṭnā), bengala:কাটা (kata), svahila:kata, vjetnama:cắt, mandarena:割 (gē), kantona:割 (got3), vua:割 (ga’), japana:割 (katsu)  
 **katus** *kaktuso* ← angla:hispana:portugala:franca:cactus, rusa:кактус (kaktus), turka:kaktüs, malaja:kaktus  
 **Kaukasia** ** ← angla:Caucasia, hispana:Cáucaso, rusa:Кавказ (Kavkaz), turka:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, araba:اَلْقَوْقَاز‎ (al-qawqāz), hindia:कॉकस (kŏkas), malaja:Kaukasus, mandarena:高加索 (gāojiāsuǒ)  
@@ -693,6 +698,7 @@
 **klorium** *kloro* ← angla:chlorine, franca:chlore, hispana:cloro, portugala:cloro, rusa:хлор, vjetnama:clo, hindia:क्लोरीन, bengala:ক্লোরিন, malaja:klor, svahila:klorini, araba: كلور  
 **klube** *klubo* ← angla:hispana:franca:club, portugala:clube, rusa:клуб, turka:kulüp, svahila:klabu, hindia:क्लब (klab), malaja:kelab, mandarena:俱乐部 (jùlèbù), japana:クラブ (kurabu)  
 **kluze** *fermi* ← angla:franca:hispana:portugala:-clus- + rusa:ключить (-klyučítʹ)  
+**koala** *koalo* ← angla:franca:hispana:vjetnama:malaja:svahila:turka:koala, portugala:coala, rusa:коала (koala), mandarena:考拉 (kǎolā), japana:コアラ (koara), korea:코알라 (koalla), araba: كُوَالَا‎ (kuwalā), hindia:कोअला (koalā), bengala:কোয়ালা (koẏala),   
 **kobalte** *kobalto* ← angla:cobalt, franca:cobalt, hispana:cobalto, portugala:cobalto, rusa:кобальт, mandarena:钴 (gǔ), japana:コバルト, korea:코발트, vjetnama:coban, hindia:कोबाल्ट, bengala:কোবাল্ট, malaja:kobalt, svahila:kobalti, araba: كوبلت  
 **kode** *kodo* ← angla:code, hispana:portugala:código, ru:код, persa:کد‎ (kod), hindia:कोड (koḍ), japana:コード (kōdo)  
 **koka** ** ← hispana:angla:coca, rusa:кока (koka), turka:koka, mandarena:古柯 (gǔké)  
@@ -715,7 +721,7 @@
 **koral** *koralo* ← angla:hispana:portugala:coral, franca:corail, deu:Koralle, rusa:коралл + malaja:karang  
 **kore** *kerno (koro)* ← angla:core, franca:coeur  
 **kore** *kuri* ← franca:courir, hispana:portugala:correr  
-**korne** *korno* ← franca:corne, hispana:cuerno, portugala:corno, angla:horn, araba:(qarn)  
+**korne** *korno* ← franca:corne, hispana:cuerno, portugala:corno, angla:horn, deu:Horn + araba: قَرْن‎ (qarn)  
 **koron** *krono* ← franca:couronne, angla:crown, hispana:corona, japana:クラウン (kuraun), rusa:корона (korona), portugala:coroa  
 **korse** *seĝo* ← araba:(kursiy), hindia:कुरसी (kursī), urdua:(kursī), panĝaba:ਕੁਰਸੀ (kursī), teluga:(kurcī), malaja:som:kursi, persa:(korsi)  
 **korte** *mallonga* ← hispana:corto, rusa:короткий (korotkiy), portugala:curto, franca:court, deu:kurz, angla:short  
@@ -875,6 +881,7 @@
 **mau** *kato* ← mandarena:猫 (māo), kantona:貓 (maau), vjetnama:mèo, svahila:nyau  
 **max** *pli* ← hispana:mas, portugala:mais + angla:franca:maximum, rusa:максимум (maksimum), malaja:maksimum, persa: ماکسیمم‎ (mâksimom)  
 **maxin** *maŝino* ← franca: machine, angla: machine, deu: Maschine, malaja: mesin  
+**mayur** *pavo* ← hindia:मयूर (mayūr), bengala:ময়ূর (môyūr), tamila:மயில் (mayil) + malaja:merak  
 **maze** *ŝtrumpo* ← hindia:मोज़ा (mozā), bengala:মোজা (moja), urdua: موزا‎ (mozā) + mandarena:袜子 (wàzi), vua:袜子 (ma’zi), kantona:襪 (mat6), korea:말 (mal)  
 **me** ** ← angla:meh  
 **medal** ** ← angla:medal, hispana:medalla, portugala:medalha, franca:médaille, rusa:меда́ль (medálʹ), hindia:मेडल (meḍal), bengala:মেডেল (meḍel), turka:madalya, japana:メダル (medaru)  
@@ -1161,6 +1168,7 @@
 **radon** *radono* ← angla:radon, franca:radon, hispana:radón, portugala:rádon, rusa:радон, mandarena:氡 (dōng), japana:ラドン, korea:라돈, vjetnama:rađơn, hindia:रेडन, bengala:রেডন, malaja:radon, svahila:radoni, araba: رادون  
 **rai** *opinio* ← araba:(raʾy), svahila:rai, hindia:राय (rāy), persa:(ra'y), turka:rey  
 **raite** ** ← angla:right  
+**rakun** *lavurso (prociono)* ← angla:raccoon, araba: رَاكُون‎ m (rākūn), hindia:रैकून (raikūn), persa: راکون‎ (râkon), malaja:turka:rakun  
 **rampe** *ramplo* ← franca:rampe, angla:ramp, portugala:hispana:rampa, japana:ランプ (ranpu)  
 **rande** ** ← turka:rende, bul:ренде (rende), ron:rindea, hindia:रंदा, (randâ), persa:(rande), svahila:(randa)  
 **rang** *koloro* ← bengala:রং (rông), hindia:रंग (raṅg), urdua:(raṅg), persa:(rang), teluga:రంగు (raṅgu), svahila:rangi, lingala:lángi, turka:renk  
@@ -1267,7 +1275,7 @@
 **simple** *simpla* ← angla:hispana:franca:simple, portugala:simples, deu:simpel  
 **sina** *brusto* ← persa:(sine), turka:sine, hindia:सीना (sīnā), hispana:seno, franca:sein, latina:sinus  
 **sine** ** ← angla:sign, hispana:señal, portugala:sinal, franca:signe  
-**sing** *leono* ← malaja:singa, hindia:सिंघ (singh), bengala:সিংহ (singh), tamila:சிங்கம் (sinkam), taja:สิง (sing), mandarena:狮 (shī), japana:獅子 (shishi), + svahila:simba  
+**singa** *leono* ← malaja:singa, hindia:सिंघ (singh), bengala:সিংহ (singh), tamila:சிங்கம் (sinkam), taja:สิง (sing), mandarena:狮 (shī), japana:獅子 (shishi) + svahila:simba  
 **sir** ** ← araba: سِرّ (sirr), hindia:सेर (ser), malaja:sir, svahila:siri, haŭsa:fula:asiri, joruba:àṣírí, turka:sır, persa:(serr)  
 **sirke** ** ← angla:circle, hispana:portugala:círculo, franca:cercle  
 **siro** ** ← araba: صِفْر‎ (ṣifr), svahila:sifuri, hindia:सिफ़र (sifar), malaja:sifar, angla:portugala:zero, franca:zéro, hispana:cero, rusa:зеро (zero), japana:ゼロ (zero), korea:제로 (jero), vjetnama:zêrô  
@@ -1420,7 +1428,6 @@
 **un** *unu (1)* ← franca:un, hispana:uno, portugala:um, una, angla:one  
 **unale** *unu la alian (reciproke)* ← angla:one another, itala:l’una, l’altra, franca: l'un l'autre, hispana:el uno al otro, portugala:um ao outro, turka:birbirine, mandarena:彼此 (bǐcǐ)  
 **uranium** *uranio* ← angla:uranium, franca:uranium, hispana:uranio, portugala:urânio, rusa:уран, japana:ウラン, korea:우라늄, vjetnama:urani (uran), hindia:युरेनियम, bengala:ইউরেনিয়াম, malaja:uranium, svahila:urani, araba: يورانيوم  
-**urse** *urso* ← franca:ours, portugala:urso, hispana:oso, persa:(xers)  
 **uze** *uzi* ← angla:use, franca:user, hispana:portugala:usar, polona:używać  
 **va** *ŭaŭ!* ← angla:wow, franca:ouah, mandarena:哇 (wā), japana:わあ (wā), korea:와 (wa), hindia:वाह (vāh), malaja:wah  
 **vacin** ** ← angla:vaccine, portugala:vacina, rusa:вакцина (vakcina), hindia:वैक्सीन (vaiksīn), japana:ワクチン (wakuchin), malaja:vaksin  
@@ -1442,7 +1449,6 @@
 **vate** ** ← hindia:वस्तु (vastu), bengala:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), taja:วัสดุ (wạttu), birma:ဝတ္ထု (wathtu), kmera:វត្ថុ (vŏəttho) + vjetnama:vật, vua:物 (veq5), mandarena:物 (wù), kantona:物 (mat6), japana:物 (butsu)  
 **vava** *plori* ← angla:wah-wah, franca:ouin ouin, hispana:portugala:buá buá, bengala:ওয়া ওয়া (oā-oā), mandarena:哇哇 (wāwā), kantona:哇哇 (waa1waa1), vjetnama:oa oa, malaja:owe-owe  
 **vaxe** *lavi* ← angla:wash, deu:waschen, mandarena:洗 (xǐ)  
-**vaxurse** ** ← mandarena:浣熊, japana:洗熊, itala:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ  
 **vei** ** ← mandarena:纬度 (wěi), korea:위 (wi), vjetnama:vĩ  
 **vei** *vosto* ← mandarena:尾 (wěi), kantona:尾 (mei5), vua:尾 (vi3), nan:尾 (bé), japana:尾 (bi)  
 **vele** ** ← angla:veil, franca:voile, hispana:velo, portugala:véu, japana:ベール (bêru), korea:베일 (beil), svahila:veli  

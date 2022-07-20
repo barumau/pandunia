@@ -270,7 +270,7 @@ być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be
 być przeciw - kontre  
 być skłonnym (mieć skłonność) - ive  
 być wezwanym, być wzywanym, być nazwanym, być nazywanym - name  
-bóbr - kastor  
+bóbr - bibre  
 bóg, bóstwo - deu  
 ból (cierpienie; cierpieć) - tunge  
 ból głowy - sarotunge  
@@ -294,8 +294,7 @@ cel (celować; kierunek) - dike
 cel - gol  
 celownik optyczny (siatka lunety) - krusolin  
 cement - semente  
-centralny (środkowy) - zungi  
-centrować, skupić, skupiać - zunga  
+centrować, skupić, skupiać - zungife  
 centy-, procent, na sto, setna część - senti-  
 centymetr - sentimitre  
 cer - ceresium  
@@ -696,6 +695,7 @@ genderqueer, niebinarny - bis
 genealogia - genolojia  
 genotyp - genotipe  
 geologia - geolojia  
+gepard - cita  
 german - germanium  
 gest - geste  
 Ghana - Gana  
@@ -1104,6 +1104,7 @@ klucz - cabe
 kluska, knedel, pieróg; ravioli, pelmeni - pelmen  
 kląć (przeklinać; przekleństwo) - dusdua  
 kminek - karave  
+koala - koala  
 kobalt - kobalte  
 kobieta, dorosła samica - maturi fem  
 kobieta; kobiecy - fem  
@@ -1303,7 +1304,7 @@ lekcja - xulaje
 lekki - lege  
 lepić (kleić; klej) - glute  
 Lesotho - Soto  
-lew - sing  
+lew - singa  
 lewa strona - lefte  
 lewicowiec (lewak) - leftiste  
 lewy (lewostronny, z lewej strony) - lefte  
@@ -1476,7 +1477,7 @@ metro - tuneltren
 miara (zmierzyć) - metre  
 miast, miasteczko - site  
 miasto - nagre  
-miecz - katane  
+miecz - katana  
 miedź - kupre  
 miejsce (lokacja; umieścić) - loke  
 miejscowy, lokalny - lokike  
@@ -1694,7 +1695,7 @@ niebo - ten
 niech my, hajda - haide  
 niechętny - anice  
 niedziela - den cete  
-niedźwiedź - urse  
+niedźwiedź - baru  
 nieliczność - xaves  
 Niemcy - Doice  
 niemiecki - doice  
@@ -1731,7 +1732,7 @@ Norwegia - Norge
 norweski - norge  
 nos - naze  
 nosić ubrania - fuku  
-nosorożec - kornonos  
+nosorożec - kargadan:  
 nostalgia (tęsknota) - nostalgia  
 nostalgiczny - nostalgike  
 notatka, memo - memonote  
@@ -1809,7 +1810,7 @@ ognisty - hoge
 ogon - vei  
 ogr (trol, goblin) - gui  
 ogórek - hiyar  
-ogórek kiwano - kornomelon  
+ogórek kiwano - kornemelon  
 ogórek melon - melon  
 ojciec - pa  
 ojczyzna - patria  
@@ -1830,6 +1831,7 @@ opis (rzedstawienie; wykres; obrazowy, graficzny) - grafe
 opisać (zakwalifikować; cecha, właściwość, parametr) - sife  
 opisowy - sifive  
 opona mózgowa - meninge  
+opos - aposum  
 opowiadanie (opowieść, legenda, saga; opowiedzieć, opowiadać) - sage  
 oprócz, minus - minus  
 opłata, taryfa - tarif  
@@ -1938,6 +1940,7 @@ paszport - pasporte
 patelnia - tave  
 patogen - patogener  
 patologia - patolojia  
+paw - mayur  
 paznokieć - nahun  
 pałac - daidom  
 paść (padać, upaść, upadać) - pade  
@@ -2739,7 +2742,7 @@ szofer (kierowca) - xofer
 szogun - ordorejer  
 szogunat - ordorejia  
 szokwstrząs; kolizja - xoke  
-szop pracz - vaxurse  
+szop pracz - rakun  
 szorstki - karse  
 szparag; szparagia - asparge  
 szpital - patekan  

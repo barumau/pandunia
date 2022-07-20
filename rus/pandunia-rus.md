@@ -68,6 +68,7 @@ anten - антенна
 anus - анус  
 aple - яблоко  
 aplesaus - яблочное пюре  
+aposum - опоссум  
 Apsua - Абхазия  
 ar - площадь  
 arabobabul - акация нильская  
@@ -158,6 +159,7 @@ barse - дождь
 barsocate - зонтик  
 barsokote - плащ (дождевик)  
 barsomosim - муссон  
+baru - медведь  
 bas - достаточно (довольно)  
 basen - бассейн  
 baske bol - баскетбол  
@@ -200,6 +202,7 @@ biolojia - биология
 biomute - заквасить  
 biosistem - биом  
 biotoxe - токсин  
+bibre - бобр  
 bil - счёт  
 bilor - кристалл  
 bine - строить  
@@ -208,6 +211,7 @@ binoplania - архитектура
 binoplaner - архитектор  
 bir - пиво  
 bismute - висмут  
+bison - бизон (зубр)  
 biznes - предприятие (бизнес)  
 boi - поплавок (буй)  
 bokacate - нёбо  
@@ -284,6 +288,7 @@ cinaviete - китайско-вьетнамский
 cing - просить  
 cire - рвать  
 circire - изорвать  
+cita - гепард  
 coi - зелень  
 coklate - шоколад  
 cope - мотыга  
@@ -737,6 +742,7 @@ karde - карта
 kardon - расторопша  
 kardonkarcof - артишок испанский (кардон)  
 karge - обременять (ноша)  
+kargadan: - носорог  
 kari - карри  
 karote - морковь  
 karse - грубой  
@@ -747,8 +753,8 @@ karube - рожковое дерево
 • kasete - кассета  
 • kasule - капсула  
 kaske - оболочка (кора, панцирь)  
-katoglutoban - буфер обмена  
-katane - меч  
+kategluteban - буфер обмена  
+katana - меч  
 katus - кактус  
 kave - копать  
 • kavaje - яма  
@@ -785,6 +791,7 @@ klorium - хлор
 • exkluze - исключить  
 • exkluzive - исключительный (эксклюзивный)  
 • inkluze - включить  
+koala - коала  
 kobalte - кобальт  
 komi - комический (смешной)  
 komodia - комедия  
@@ -800,8 +807,7 @@ kopernikium - коперниций
 kore - бегать (бежать)  
 korer - бегун  
 koral - коралл  
-kornomelon - кивано (рогатая дыня)  
-kornonos - носорог  
+kornemelon - кивано (рогатая дыня)  
 koron - корона  
 kortokrokodil - аллигатор  
 kosme - космический  
@@ -958,6 +964,7 @@ mau - кошка
 • maximaje - максимум  
 maxobalaje - пополнение  
 maxorai - переоценить  
+mayur - павлин (пава)  
 maze - носок  
 meden - площадь (сквер, майдан)  
 medenpapil - мак самосейка  
@@ -1291,6 +1298,7 @@ putavorange - грейпфрут
 radium - радий  
 radon - радон  
 rai - мнение  
+rakun - енот  
 rangarke - радуга  
 rangarkosalmon - микижа (камчатская сёмга)  
 rapsodia - рапсодия  
@@ -1618,7 +1626,6 @@ vate - статья (предмет)
 vava bebe - плакса  
 vaxe - мыть  
 vaxomaxin - стиральная машина  
-vaxurse - енот  
 vei - хвост  
 veilin - уток  
 vende - продать  
@@ -1743,13 +1750,13 @@ yune moke - саженец
 
 ## Z  
 
+zai zaman su - нынешний  
 zalime reger - тиран (деспот)  
 zaman - период (эпоха)  
 Zambia - Замбия  
 zarkube - кость (кубик)  
 Zardux - Зороастр  
 zarduxiste - зороастризм  
-zai zaman su - нынешний  
 zebra - зебра  
 zeze - двукрылое  
 Zimbabve - Зимбабве  
@@ -1772,4 +1779,4 @@ zumurude - изумруд
 zung - центр  
 zungofon - гласный  
 Zungogia - Китай  
-zungoxulkan - средняя школа  
+zungxulekan - средняя школа  

@@ -66,6 +66,7 @@ anis - anis
 anis arake - áraque  
 aple - maçã  
 aplesaus - purê de maçã  
+aposum - sariguê (gambá, cuíca)  
 arake - licor  
 arane - aranha  
 arbuze - melancia  
@@ -150,6 +151,7 @@ barse - chuva
 barsocate - guarda-chuva  
 barsokote - capa de chuva  
 barsomosim - monção  
+baru - urso  
 bas - bastante (suficiente)  
 basen - bacia  
 baske bol - basketball  
@@ -199,6 +201,7 @@ binoplania - arquitetura
 binoplaner - arquiteto  
 bir - cerveja  
 bismute - bismuto  
+bison - bisão (bisonte)  
 boi - flutuar  
 boing - rebater  
 bokacate - palato (céu da boca)  
@@ -269,6 +272,7 @@ cina manter - mandarim
 cinanipon - sino-japonês  
 cinaviete - sino-vietnamita  
 cire - rasgar  
+cita - guepardo (chita)  
 coi - verdura  
 coklate - chocolate  
 coklatobaton - barra de chocolate  
@@ -716,8 +720,8 @@ kase - caixa
 • kasete - cassete  
 • kasule - cápsula  
 kaske - casca (concha)  
-katoglutoban - área de transferência  
-katane - espada  
+kategluteban - área de transferência  
+katana - espada  
 katus - cacto  
 kave - cavar (escavar)  
 • kavaje - buraco  
@@ -756,6 +760,7 @@ klorium - cloro
 • inkluze - incluir  
 • inkluze da - incluindo  
 • inkluzive - inclusivo  
+koala - coala  
 kobalte - cobalto  
 komi - cômico  
 komodia - comédia  
@@ -771,7 +776,7 @@ kore - correr
 korer - corredor  
 koral - coral  
 korne - corno  
-kornomelon - pepino-africano (kiwano)  
+kornemelon - pepino-africano (kiwano)  
 kortokrokodil - aligátor (jacaré)  
 kosme - cósmico  
 kosmia - cosmo  
@@ -932,6 +937,7 @@ max - mais
 • maximaje - máximo  
 • maxuria - maioria  
 maxorai - superestimar (sobrestimar)  
+mayur - pavão real  
 maze - meia  
 me - nhé  
 meden - praça  
@@ -1273,6 +1279,7 @@ radium - rádio
 radike - raiz  
 radon - rádon  
 rai - opinião  
+rakun - guaxinim (rato-lavadeiro)  
 rang - cor  
 rangarkosalmon - truta-arco-íris  
 rapsodia - rapsódia  
@@ -1541,7 +1548,6 @@ unomaro - uma vez
 unoki lense - monóculo  
 Uran - Urano  
 uranium - urânio  
-urse - urso  
 uze - usar  
 va - uau  
 vade - vale (uadi)  
@@ -1563,7 +1569,6 @@ vase - oásis
 vate - item  
 vava - chorar  
 vava bebe - chorão  
-vaxurse - guaxinim (rato-lavadeiro)  
 vele - véu  
 • devele - revelar  
 vende - vender  
@@ -1672,9 +1677,9 @@ yune - jovem
 
 ## Z  
 
+zai zaman su - corrente (atual)  
 zaman - tempo  
 zarkube - dado  
-zai zaman su - corrente (atual)  
 zebra - zebra  
 • rezerve - reserva  
 zinke - zinco  
@@ -1694,4 +1699,4 @@ zumurude - esmeralda
 zung - centro  
 zungofon - vogal  
 Zungogia - China  
-zungoxulkan - ensino secundário  
+zungxulekan - ensino secundário  

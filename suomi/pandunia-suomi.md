@@ -165,6 +165,7 @@ anus - peräaukko (anus; anaalinen)
 aple - omena  
 aplesaus - omenasose  
 aplike - soveltaa (sovellus)  
+aposum - pussirotta (opossumi)  
 Apsua - Abhaasia  
 ar - ala (pinta-ala)  
 aria - alue (seutu)  
@@ -314,6 +315,7 @@ barsomosim - sadekausi
 barte - intialainen  
 Barte Hai - Intian valtameri  
 Bartia - Intia  
+baru - karhu  
 barude - ruuti  
 bas - tarpeeksi (riittävästi)  
 basen - allas  
@@ -391,6 +393,7 @@ biolojia - biologia
 biotoxe - toksiini  
 bible - raamatullinen  
 biblia - Raamattu  
+bibre - majava  
 bil - lasku (faktuura)  
 bilor - kristalli  
 bine - koota (rakentaa; rakennus)  
@@ -405,6 +408,7 @@ bis - muunsukupuolinen
 Bisau Ginia - Guinea-Bissau  
 biskute - keksi (pikkuleipä)  
 bismute - vismutti  
+bison - biisoni  
 bizar - outo (kummallinen)  
 biznes - liiketoiminta (bisnes)  
 bizneser - liikemies  
@@ -567,6 +571,7 @@ cire - repiä
 circire - raastaa (repiä riekaleiksi)  
 cite - lainata (siteerata)  
 citomarke - lainausmerkki  
+cita - gepardi  
 code - nussia (panna)  
 • codekan - ilotalo  
 coi - vihannes  
@@ -1614,6 +1619,7 @@ karboduloxide - hiilidioksidi
 karbau - vesipuhveli  
 karde - kortti  
 karge - kuorma (lasti, lataus, taakka, paino)  
+kargadan: - sarvikuono  
 kari - curry (karri)  
 Karibia - Karibia  
 karime - vieraanvarainen (antelias, hyväntahtoinen)  
@@ -1634,10 +1640,9 @@ kase - laatikko (lipas)
 • kasule - kapseli  
 kaske - kuori (suojakuori)  
 kastan - kastanja  
-kastor - majava  
 kate - katkaista (leikata)  
 Katalunia - Katalonia  
-katane - miekka  
+katana - miekka  
 Katar - Qatar  
 katus - kaktus  
 kave - kaivaa  
@@ -1738,6 +1743,7 @@ kluze - sulkea
 • inkluze - sisällyttää (sulkea sisäänsä)  
 • inkluze da - mukaan lukien  
 • inkluzive - kattava  
+koala - koala  
 kobalte - koboltti  
 kode - koodi  
 • dekode - purkaa koodi (dekoodata)  
@@ -1793,7 +1799,6 @@ korer - juoksija
 korofuzion - ydinfuusio  
 koral - koralli  
 korne - sarvi  
-kornonos - sarvikuono  
 koron - kruunu  
 koronvirus - koronavirus  
 korse - tuoli  
@@ -2148,6 +2153,7 @@ max - enemmän (myös, lisäksi, plus)
 maxolivaje - ylijäämä  
 maxorai - yliarvioida  
 maxin - kone  
+mayur - riikinkana (riikinkukko)  
 maze - sukka  
 me - ääh (plääh)  
 mede - apu (auttaa)  
@@ -2891,6 +2897,7 @@ rai - olla jtkn mieltä (pitää jnkn)
 • surai - hyväksyä  
 raite - oikea puoli  
 raitiste - oikeistolainen  
+rakun - pesukarhu  
 ramazan - ramadan  
 rampe - luiska (ramppi)  
 rande - höylä  
@@ -3172,7 +3179,7 @@ sine - merkki (signaali)
 • susine - lupaava (hyvältä vaikuttava)  
 sina - rinta  
 sinakase - rintakehä  
-sing - leijona  
+singa - leijona  
 Singapur - Singapore  
 sir - salainen  
 siroplan - juoni (salaliitto)  
@@ -3552,7 +3559,6 @@ Uran - Uranus
 uranium - uraani  
 urdu - urdu  
 Urdun - Jordania  
-urse - karhu  
 Uruguai - Uruguai  
 USA - yhdysvaltalainen (ns. Amerikkalainen)  
 uze - käyttää  
@@ -3839,6 +3845,11 @@ yune man - poika (nuori mies)
 
 ## Z  
 
+zai - olla olemassa  
+zayia - läsnäolo  
+• dezay - poistaa (hävittää)  
+zai zaman - tämä hetki (nyt)  
+zai zaman su - nykyinen (tämänhetkinen)  
 zaitun - oliivi  
 zalime - ilkeä (julma)  
 • zalimia - tyrannia  
@@ -3854,11 +3865,6 @@ zarkube - noppa (arpakuutio)
 Zardux - Zarathustra  
 zarduxisme - zarathustralaisuus  
 zarduxiste - zarathustralainen  
-zai - olla olemassa  
-zayia - läsnäolo  
-• dezay - poistaa (hävittää)  
-zai zaman - tämä hetki (nyt)  
-zai zaman su - nykyinen (tämänhetkinen)  
 Zayeria - Algeria  
 zebra - seepra  
 • zelose - kade (kateellinen)  
@@ -3896,8 +3902,8 @@ zukam - nuha (vilustuminen)
 Zulu - zulu  
 zumurude - smaragdi  
 zung - keskus (keskikohta)  
-• zunga - keskittää  
+• zungife - keskittää  
 Zungafrike - Keski-Afrikan Tasavalta  
 zungofon - vokaali  
 Zungogia - Kiina  
-zungoxulkan - yläaste ja lukio  
+zungxulekan - yläaste ja lukio  

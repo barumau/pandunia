@@ -78,6 +78,7 @@ ante - igi (farigi)
 anten - anteno  
 anus - anuso  
 aple - pomo  
+aposum - didelfo  
 ar - areo  
 aria - ejo  
 arabe - araba  
@@ -170,6 +171,7 @@ barse - pluvo
 barsocate - obrelo  
 barte - Barata  
 Bartia - Baratio  
+baru - urso  
 barude - pulvo  
 bas - sufiĉa  
 basen - baseno  
@@ -219,6 +221,7 @@ biokimia - bioĥemio
 biolojia - biologio  
 bible - biblia  
 biblia - Biblio  
+bibre - kastoro  
 bine - konstrui  
 binoplania - arĥitekturo  
 binoplaner - arĥitekto  
@@ -227,6 +230,7 @@ bir - biero
 birkan - drinkejo  
 biskute - biskvito (kuketo)  
 bismute - bismuto  
+bison - bizono  
 bizar - stranga  
 biznes - negoco  
 bizneser - komercisto  
@@ -317,6 +321,7 @@ cincile - ĉinĉilo
 cing - peti (bonvolu)  
 cing lai - inviti  
 cite - citi  
+cita - gepardo  
 code - fiki  
 coklate - ĉokolado  
 coklatobaton - ĉokolado  
@@ -879,16 +884,16 @@ karave - karvio
 karbe - karbono  
 karboduloxide - karbona dioksido  
 karde - karto  
+kargadan: - rinocero  
 kari - kareo  
 Karibia - Karibio  
 karote - karoto  
 karte - mapo  
 karvan - karavano  
 kastan - kaŝtano  
-kastor - kastoro  
 kate - tranĉi  
 Katalunia - Katalunio  
-katane - glavo  
+katana - glavo  
 katus - kaktuso  
 kave - fosi  
 • kavaje - foso  
@@ -934,6 +939,7 @@ klorium - kloro
 klube - klubo  
 kluze - fermi  
 • exkluze - ekskludi  
+koala - koalo  
 kobalte - kobalto  
 kode - kodo  
 kokode - koko  
@@ -963,7 +969,6 @@ kori energia - kernenergio
 korer - kuristo  
 koral - koralo  
 korne - korno  
-kornonos - rinocero  
 koron - krono  
 koronvirus - krunviruso  
 korse - seĝo  
@@ -1109,6 +1114,7 @@ mau - kato
 max - pli  
 • maxime - plej  
 maxin - maŝino  
+mayur - pavo  
 maze - ŝtrumpo  
 mede - helpo  
 mega - miliono  
@@ -1451,6 +1457,7 @@ radium - radiumo
 radon - radono  
 rai - opinio  
 rai - opinii  
+rakun - lavurso (prociono)  
 rampe - ramplo  
 rang - koloro  
 range - kolora  
@@ -1591,7 +1598,7 @@ simple - simpla
 • simplife - simpligi  
 sina - brusto  
 sinakase - torako  
-sing - leono  
+singa - leono  
 Singapur - Singapuro  
 • sirkize - ĉirkaŭi  
 sismolojia - sismologio  
@@ -1757,7 +1764,6 @@ unemisme - monismo
 unomaro - unufoje  
 unoki lense - monoklo  
 uranium - uranio  
-urse - urso  
 uze - uzi  
 va - ŭaŭ!  
 vade - valo  
@@ -1905,6 +1911,10 @@ yune man - knabo
 
 ## Z  
 
+zai - ĉeesti (ekzisti)  
+zayia - ĉeestanteco (ekzisto)  
+zai zaman - nuno  
+zai zaman su - nuna  
 zaitun - olivo  
 zaman - tempo  
 • prezaman - pasinteco  
@@ -1915,10 +1925,6 @@ zarkube - ĵetkubo
 Zardux - Zoroastro  
 zarduxisme - zoroastrismo  
 zarduxiste - zoroastristo  
-zai - ĉeesti (ekzisti)  
-zayia - ĉeestanteco (ekzisto)  
-zai zaman - nuno  
-zai zaman su - nuna  
 zebra - zebro  
 • rezerve - rezervo  
 zine - malfideleco  
@@ -1939,4 +1945,4 @@ zumurude - smeraldo
 zung - centro  
 zungofon - vokalo  
 Zungogia - Ĉinio  
-zungoxulkan - gimnazio  
+zungxulekan - gimnazio  

@@ -355,14 +355,14 @@ be beside (accompany) - late
 be called (be named) - name  
 beacon (lighthouse) - fotominar  
 bean or pea (legume) - dou  
-bear - urse  
+bear - baru  
 beard - barde  
 beautiful (handsome, good-looking) - suvide  
 beautiful (handsome, pretty) - mei  
 beautiful-faced - sumuke  
 beauty (beautiful person) - mei jen  
 beauty - meyia  
-beaver - kastor  
+beaver - bibre  
 because - a sababe de  
 bed - bede  
 bedouin (nomadic) - badave  
@@ -438,6 +438,7 @@ biscuit (cookie) - biskute
 bisexual - dusexe  
 bisexual - dusexe  
 bismuth - bismute  
+bison - bison  
 bite - danta  
 bitter - alkaloguste  
 bitter melon - alkalomelon  
@@ -657,10 +658,9 @@ cement - semente
 censor - cense  
 censor - censer  
 centaury - centaure  
-center (concentrate) - zunga  
+center (concentrate) - zungife  
 centi- (per cent) - senti-  
 centimeter (cm) - sentimitre  
-central (middle) - zungi  
 Central African Republic - Zungafrike  
 ceramic - serame  
 Ceres (dwarf planet) - Ceres  
@@ -689,6 +689,7 @@ chauffeur (driver) - xofer
 checkers (draughts) - dama gem  
 cheer (hurrah, hooray, yay) - hura  
 cheese - kize  
+cheetah - cita  
 chemical - kimi  
 chemical element - kimium  
 chemistry - kimolojia  
@@ -760,7 +761,7 @@ climatize - klimize
 climatologist - klimolojer  
 climatology - klimolojia  
 climb (get on) - askale  
-clipboard (paste buffer) - katoglutoban  
+clipboard (paste buffer) - kategluteban  
 clipboard (physical board) - pinsoban  
 clock (watch) - horloger  
 clocktower - horlogotore  
@@ -1873,7 +1874,7 @@ hope (wish) - inxala
 horizon - tenkenar  
 hormone - hormon  
 horn - korne  
-horned melon (kiwano) - kornomelon  
+horned melon (kiwano) - kornemelon  
 horse - gude  
 hospital - patekan  
 hotel - hotel  
@@ -2148,6 +2149,7 @@ knife - caku
 know (be acquainted or familiar with) - nose  
 know (know how, savvy) - sabe  
 known - benose  
+koala - koala  
 kola nut - kola pal  
 Konkani - Konkani  
 Korea - Cosen  
@@ -2259,7 +2261,7 @@ line break (newline) - linoparce
 linguist - baxolojer  
 linguistics (study of language) - baxolojia  
 link - sereme  
-lion - sing  
+lion - singa  
 lip - labe  
 liquor - arake  
 list (listing, catalogue) - liste  
@@ -2809,6 +2811,7 @@ open (not closed) - kai
 open (wide, spacious) - medene  
 opinion (view) - rai  
 opium poppy - somopapil  
+opossum - aposum  
 opportunity (chance) - canse  
 oppose (antagonize, object, resist) - xate  
 opt (prefer, choose) - ote  
@@ -2957,6 +2960,7 @@ pause (break, interrupt; interruption) - pauze
 pay - pei  
 payment - pei  
 peace - pace  
+peafowl (peacock) - mayur  
 peanut (groundnut) - geodou  
 pear - leze  
 pearl - jenju  
@@ -3261,7 +3265,7 @@ Quran (Koran) - kuran
 ## R  
 
 rabbit (hare) - tuze  
-raccoon - vaxurse  
+raccoon - rakun  
 race (breed) - rase  
 racism - rasisme  
 racist - rasiste  
@@ -3398,7 +3402,7 @@ revoke (call back) - revoke
 rhapsody - rapsodia  
 Rhea - Rea  
 rhenium - renium  
-rhinoceros - kornonos  
+rhinoceros - kargadan:  
 rhodium - rodium  
 rhyme (verse) - rim  
 rhythm (beat) - ritim  
@@ -3564,7 +3568,7 @@ seat (saddle) - sidel
 seaweed (macroalgae) - haialge  
 second (2nd) - duime  
 second(s) - sekunde  
-secondary school - zungoxulkan  
+secondary school - zungxulekan  
 secret (hidden; hide, conceal) - sir  
 secretariat - sekreteria  
 secretary - sekreter  
@@ -3891,7 +3895,7 @@ Sweden - Suenia
 sweet orange - sukarorange  
 sweet potato - kamote  
 Switzerland - Suisia  
-sword - katane  
+sword - katana  
 symmetrical - sammetre  
 symmetry - sammetria  
 symphony - sinfone  

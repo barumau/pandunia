@@ -182,6 +182,7 @@ anus - anus (anal)
 aple - apple  
 aplesaus - applesauce  
 aplike - apply (put to use for a purpose; application)  
+aposum - opossum  
 Apsua - Abkhazia  
 ar - area (extent of surface)  
 aria - area (region)  
@@ -347,6 +348,7 @@ barsomosim - rainy season (monsoon)
 barte - Indian  
 Barte Hai - Indian Ocean  
 Bartia - India  
+baru - bear  
 barude - gunpowder  
 bas - enough (sufficient)  
 basen - pool (basin)  
@@ -431,6 +433,7 @@ biosistem - biome
 biotoxe - toxin  
 bible - Biblical  
 biblia - Bible  
+bibre - beaver  
 bil - bill (invoice)  
 bilor - crystal  
 bine - build (building)  
@@ -445,6 +448,7 @@ bis - genderqueer (non-binary)
 Bisau Ginia - Guinea-Bissau  
 biskute - biscuit (cookie)  
 bismute - bismuth  
+bison - bison  
 bizar - odd (strange, weird)  
 biznes - business (commercial activity)  
 bizneser - businessperson (businessman)  
@@ -616,6 +620,7 @@ circire - tear up (tatter, shred)
 cirtexe - rag (tattered cloth)  
 cite - quote (cite)  
 citomarke - quotation mark  
+cita - cheetah  
 code - fuck (copulate)  
 • codekan - whorehouse  
 coi - greens  
@@ -1832,6 +1837,7 @@ kardon - thistle
 kardonkarcof - artichoke thistle (cardoon)  
 karge - burden (load, weight, charge, cargo)  
 • rikarge - recharge (reload)  
+kargadan: - rhinoceros  
 kari - curry  
 Karibia - Caribbean  
 karime - charitable (gentle, kind)  
@@ -1854,11 +1860,10 @@ kase - box (container, case)
 • kasule - capsule  
 kaske - shell (crust, carapace)  
 kastan - chestnut  
-kastor - beaver  
 kate - cut  
-katoglutoban - clipboard (paste buffer)  
+kategluteban - clipboard (paste buffer)  
 Katalunia - Catalonia  
-katane - sword  
+katana - sword  
 Katar - Qatar  
 katus - cactus  
 kave - dig (excavate)  
@@ -1967,6 +1972,7 @@ kluze - close (shut)
 • inkluze da - including  
 • inkluzive - inclusive  
 • konkluze - conclude (close together)  
+koala - koala  
 kobalte - cobalt  
 kode - code (cipher)  
 • dekode - decode (decrypt)  
@@ -2028,8 +2034,7 @@ korer - runner
 korofuzion - nuclear fusion  
 koral - coral  
 korne - horn  
-kornomelon - horned melon (kiwano)  
-kornonos - rhinoceros  
+kornemelon - horned melon (kiwano)  
 koron - crown  
 koronvirus - corona virus  
 korse - chair  
@@ -2455,6 +2460,7 @@ maxdarge - increment
 maxolivaje - leftover (surplus, residue, vestige)  
 maxorai - overestimate  
 maxin - machine  
+mayur - peafowl (peacock)  
 maze - sock (stocking)  
 me - meh  
 mede - help (aid)  
@@ -3343,6 +3349,7 @@ rai - deem (opine, think that)
 raite - right hand side  
 raite - right hand  
 raitiste - rightist (right-winger)  
+rakun - raccoon  
 ramazan - Ramadan  
 rampe - ramp (incline, slope)  
 rande - plane (tool for making a smooth surface)  
@@ -3666,7 +3673,7 @@ sine - sign (signal, indication)
 sina - chest (breast)  
 sinakase - rib cage  
 sinaplate - breastplate  
-sing - lion  
+singa - lion  
 Singapur - Singapore  
 sir - secret (hidden; hide, conceal)  
 siromote - stealth (sneak)  
@@ -4112,7 +4119,6 @@ Uran - Uranus
 uranium - uranium  
 urdu - Urdu  
 Urdun - Jordan  
-urse - bear  
 Uruguai - Uruguay  
 Urusalem - Jerusalem  
 USA - American (US)  
@@ -4156,7 +4162,6 @@ vava - weep (cry)
 vava bebe - crybaby  
 vaxe - wash  
 vaxomaxin - washing machine  
-vaxurse - raccoon  
 Vaxington DC - Washington DC  
 vei - tail  
 vei - traverse (horizontal)  
@@ -4443,6 +4448,14 @@ yune moke - sapling
 
 ## Z  
 
+zai - exist (be present)  
+zayia - presence (existence)  
+• zayaje - present (here, now, current situation)  
+• zayife - summon (add, spawn)  
+• azay - appear  
+• dezay - remove (delete, dispose, erase)  
+zai zaman - present time (now)  
+zai zaman su - current (contemporary, present-day)  
 zaitun - olive  
 zalime - mean (cruel)  
 • zalimia - cruelty (tyranny, despotism)  
@@ -4458,14 +4471,6 @@ zarkube - die (dice)
 Zardux - Zoroaster  
 zarduxisme - Zoroastrianism  
 zarduxiste - Zoroastrian  
-zai - exist (be present)  
-zayia - presence (existence)  
-• zayaje - present (here, now, current situation)  
-• zayife - summon (add, spawn)  
-• azay - appear  
-• dezay - remove (delete, dispose, erase)  
-zai zaman - present time (now)  
-zai zaman su - current (contemporary, present-day)  
 Zayeria - Algeria  
 zebra - zebra  
 zele - zeal  
@@ -4507,9 +4512,8 @@ zukam - cold (common cold)
 Zulu - Zulu  
 zumurude - emerald  
 zung - middle (center)  
-• zunga - center (concentrate)  
-• zungi - central (middle)  
+• zungife - center (concentrate)  
 Zungafrike - Central African Republic  
 zungofon - vowel  
 Zungogia - China  
-zungoxulkan - secondary school  
+zungxulekan - secondary school  

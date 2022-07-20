@@ -255,6 +255,7 @@ Bermuda - Bermuda
 beryllium - berilium  
 betoni - beton  
 Bhutan - Drugia  
+biisoni - bison  
 biokemia - biokimia  
 biologia - biolojia  
 biologinen sukupuoli - bioginse  
@@ -529,6 +530,7 @@ geometria - geometria
 geopolitiikka - geopolitike  
 Georgia - Kartul  
 geoterminen (maalämpö-) - geoterme  
+gepardi - cita  
 Germania - Germania  
 germanium - germanium  
 Ghana - Gana  
@@ -1084,7 +1086,7 @@ karaoke - karaoke
 karate - karate  
 karateka (karaten harrastaja) - karateiste  
 karavaani (saattue) - karvan  
-karhu - urse  
+karhu - baru  
 Karibia - Karibia  
 karjanhoito - zoagria  
 Karnataka (Intian osavaltio) - karnadia  
@@ -1180,7 +1182,7 @@ keräilykortti - jamokarde
 Keski-Afrikan Tasavalta - Zungafrike  
 keskittyminen (keskittymä) - fokus  
 keskittää - fokuse  
-keskittää - zunga  
+keskittää - zungife  
 keskiverto (keski-) - midi  
 keskiviikko - den tri  
 keskus (keskikohta) - zung  
@@ -1274,6 +1276,7 @@ kivi (hippu) - ite
 kloonata (monistaa) - klone  
 klooni (identtinen kopio) - klon  
 kloori - klorium  
+koala - koala  
 koboltti - kobalte  
 kohdata (tulla yhteen) - konvene  
 kohtelias (kiltti) - keci  
@@ -1585,7 +1588,7 @@ lehmän liha - muhmanse
 lehti (arkki, levy) - varke  
 lehti (sanomalehti) - gazete  
 lehtisalaatti - letus  
-leijona - sing  
+leijona - singa  
 leipoa - beke  
 leipomo - bekekan  
 leipuri - beker  
@@ -1789,7 +1792,7 @@ maissi - mais
 maisteri (tutkinto) - master  
 maito - milke  
 majakka - fotominar  
-majava - kastor  
+majava - bibre  
 Makedonia - Norde Makedonia  
 makeinen (karkki, karamelli) - kande  
 makkara - sosis  
@@ -1895,7 +1898,7 @@ meteli - kelele
 metri - mitre  
 metrojuna (maanalainen) - tuneltren  
 metsä - van:  
-miekka - katane  
+miekka - katana  
 mielipide (näkemys) - rai  
 mielivaltainen (ilman tuomiota) - exjude  
 mies - maturi man  
@@ -2381,6 +2384,7 @@ perustuslaki - bazokanun
 peräaukko (anus; anaalinen) - anus  
 perääntyä - regrese  
 pestä - vaxe  
+pesukarhu - rakun  
 pesukone - vaxomaxin  
 peta- - peta  
 petrologia - petrolojia  
@@ -2554,6 +2558,7 @@ purskahtaa (purkautua) - exrute
 purukumi - cuvogom  
 puskea takaisin (alistaa) - represe  
 pussi (säkki, kassi, laukku) - sake  
+pussirotta (opossumi) - aposum  
 putki (tuubi) - tube  
 putous (pudota, tippua; pudottaa) - pade  
 puu - moke  
@@ -2678,6 +2683,7 @@ retki (ekskursio) - exkurse
 reuna (ääri) - kenar  
 reuna- - kenare  
 Reunion - Reunion  
+riikinkana (riikinkukko) - mayur  
 riippua (roikkua) - pende  
 riippumaton - autoreje  
 riippumatto - hamake  
@@ -2822,7 +2828,7 @@ sarja - sere
 sarja - seria  
 sarjakuva - grafosage  
 sarvi - korne  
-sarvikuono - kornonos  
+sarvikuono - kargadan:  
 saslik - xixomanse  
 sata (100) - sente  
 sata tuhatta - deskilo  
@@ -3827,7 +3833,7 @@ ylitys - supraje
 yllä (pääll) - a supre  
 yllätys - suprize  
 ylä- (yli-) - supre  
-yläaste ja lukio - zungoxulkan  
+yläaste ja lukio - zungxulekan  
 ymmärrys (taju, oivallus; valaistunut) - bude  
 ymmärtää väärin - mesbude  
 ympyrä - sirkule  

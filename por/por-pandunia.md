@@ -188,6 +188,7 @@ biología - biolojia
 bioma - biosistem  
 bioquímica - biokimia  
 bismuto - bismute  
+bisão (bisonte) - bison  
 bola - bol  
 boletim de notícias - habar letre  
 bolo lunar - lunokeke  
@@ -326,6 +327,7 @@ clarividente - klarvider
 claro - klare  
 cliente - klien  
 cloro - klorium  
+coala - koala  
 cobalto - kobalte  
 cobre - kupre  
 coelho (lebre) - tuze  
@@ -527,7 +529,7 @@ endógeno - ingene
 enganar - truke  
 ensinar (lecionar) - xulize  
 ensino primário - bazoxulkan  
-ensino secundário - zungoxulkan  
+ensino secundário - zungxulekan  
 ensopar (encharcar, marinar) - purxipe  
 enteado - gamben  
 entrar - intre  
@@ -553,7 +555,7 @@ escuro - dam
 escândio - skandium  
 eslavo - slave  
 esmeralda - zumurude  
-espada - katane  
+espada - katana  
 espaço - kali harfe  
 espelho - miror  
 espetador - speter  
@@ -698,7 +700,8 @@ graças a - a xukre de
 grupo - grupe  
 grávida (prenhe) - hamile  
 guarda-chuva - barsocate  
-guaxinim (rato-lavadeiro) - vaxurse  
+guaxinim (rato-lavadeiro) - rakun  
+guepardo (chita) - cita  
 guerra - gere  
 guerreiro - gerer  
 guerrilha - gerile  
@@ -1164,6 +1167,7 @@ pato - bata
 patologia - patolojia  
 patógeno - patogener  
 pausa - pauze  
+pavão real - mayur  
 paz - pace  
 país - gogia  
 pederneira - hogite  
@@ -1179,7 +1183,7 @@ pender - pende
 penso (band-aid) - glutobende  
 pentágono - pentogone  
 pepino - hiyar  
-pepino-africano (kiwano) - kornomelon  
+pepino-africano (kiwano) - kornemelon  
 pepino-do-mar (holotúrias) - haihiyar  
 pequeno - lile  
 perdedor - xibayer  
@@ -1421,6 +1425,7 @@ samba-canção - bokserpante
 samário - samarium  
 sanduíche - sanduice  
 sangue - heme  
+sariguê (gambá, cuíca) - aposum  
 Satanás - xatan (ruhoxatan)  
 Saturno - Saturne  
 saudação - salam  
@@ -1599,7 +1604,7 @@ unicamente - uniko
 universal - unoverse  
 Urano - Uran  
 urra - hura  
-urso - urse  
+urso - baru  
 urânio - uranium  
 usar - uze  
 vagina - vagine  
@@ -1679,7 +1684,7 @@ zumbi - zombi
 álcool - alkol  
 áraque - anis arake  
 área de acampamento - kampostan  
-área de transferência - katoglutoban  
+área de transferência - kategluteban  
 árvore - moke  
 áspero - karse  
 âncora - angar  

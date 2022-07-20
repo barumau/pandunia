@@ -65,6 +65,7 @@ anten - 天线
 anus - 肛门  
 aple - 苹果  
 aplike - 运用  
+aposum - 负鼠 (奥珀瑟姆)  
 ar - 面积  
 arabobabul - 阿拉伯金合欢  
 arake - 烈酒  
@@ -147,6 +148,7 @@ barse - 雨
 barsocate - 伞  
 barsokote - 雨衣  
 barsomosim - 雨季  
+baru - 熊  
 bas - 够  
 baske bol - 篮球  
 bate - 八 (8)  
@@ -183,6 +185,7 @@ biolojia - 生物学
 biomute - 发酵  
 biosistem - 生物群系  
 biotoxe - 毒素  
+bibre - 海狸 (河狸)  
 bil - 帐单  
 bine - 建设  
 binite - 砖  
@@ -190,6 +193,7 @@ binoplania - 建筑学
 binoplaner - 建筑师  
 bir - 啤酒  
 bismute - 铋  
+bison - 野牛  
 bokacate - 上颚 (口盖)  
 bokse - 拳击  
 bokser - 拳击手  
@@ -245,6 +249,7 @@ cinaviete - 汉越
 cing - 请  
 cire - 撕裂  
 circire - 撕毁  
+cita - 猎豹  
 coklate - 巧克力  
 coklatobaton - 巧克力棒  
 Congking - 重庆  
@@ -655,6 +660,7 @@ karde - 牌
 kardon - 蓟  
 kardonkarcof - 刺苞菜蓟  
 karge - 擔子  
+kargadan: - 犀牛  
 kari - 咖喱  
 karote - 红萝卜  
 karse - 粗糙  
@@ -663,8 +669,8 @@ karte - 地图
 kartografia - 地图学  
 kaske - 壳 (皮)  
 kate - 切  
-katoglutoban - 剪贴板  
-katane - 剑  
+kategluteban - 剪贴板  
+katana - 剑  
 katus - 仙人掌  
 kave - 挖  
 • kavaje - 坑 (穴)  
@@ -698,6 +704,7 @@ klien - 顾客
 klimomute - 气候变化  
 klorium - 氯  
 • inkluze - 包括  
+koala - 樹袋熊 (考拉)  
 kobalte - 钴  
 komodia - 喜剧  
 kono - 共同 (一起)  
@@ -711,7 +718,8 @@ kore - 核心
 kore - 跑步  
 korer - 跑步者  
 koral - 珊瑚  
-kornomelon - 刺角瓜  
+korne - 角  
+kornemelon - 刺角瓜  
 kortokrokodil - 短吻鳄  
 kosme - 宇宙的  
 kosmia - 宇宙  
@@ -853,6 +861,7 @@ maturi man - 男人
 mau - 猫  
 • maxime - 最  
 maxobalaje - 加固  
+mayur - 孔雀  
 maze - 袜子  
 mede - 帮助  
 meden - 广场  
@@ -1137,6 +1146,7 @@ putonge - 普通
 radium - 镭  
 radon - 氡  
 rai - 意见 (见解)  
+rakun - 浣熊  
 rangarkosalmon - 虹鱒  
 rangomate - 染料  
 rapsodia - 狂想曲  
@@ -1392,7 +1402,6 @@ vanadium - 钒
 vanila - 香草  
 vare - 各种各样  
 vate - 物体 (物品)  
-vaxurse - 浣熊  
 vei - 尾巴 (尾部)  
 veilin - 緯紗  
 vende - 卖  
@@ -1500,10 +1509,10 @@ yuge - 轭
 
 ## Z  
 
+zai zaman su - 现在的  
 zaman - 时间  
 zanger - 工匠 (匠人)  
 zarkube - 骰子 (色子)  
-zai zaman su - 现在的  
 zebra - 斑马  
 zeze - 双翅目  
 zinke - 锌  
@@ -1520,4 +1529,4 @@ zukam - 感冒
 zumurude - 绿宝石 (祖母绿)  
 zung - 中心  
 Zungogia - 中国  
-zungoxulkan - 中学  
+zungxulekan - 中学  

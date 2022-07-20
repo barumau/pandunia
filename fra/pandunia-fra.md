@@ -114,6 +114,7 @@ anus - anus (anal)
 aple - pomme  
 aplesaus - compote de pommes  
 aplike - appliquer (application)  
+aposum - sarigue (opossum)  
 Apsua - Abkhazie  
 ar - aire (superficie)  
 aria - espace (zone, région)  
@@ -246,6 +247,7 @@ barsomosim - mousson
 barte - indien  
 Barte Hai - océan Indien  
 Bartia - Inde  
+baru - ours  
 barude - poudre à canon  
 bas - assez  
 basen - bassin  
@@ -300,6 +302,7 @@ binoplania - architecture
 binoplaner - architecte  
 bir - bière  
 bismute - bismuth  
+bison - bison  
 boi - flotter  
 boing - rebondir  
 bokacate - palais de la bouche  
@@ -372,6 +375,7 @@ cinma - grand-mère
 cinpa - grand-père  
 cina manter - mandarin  
 cire - déchirer  
+cita - guépard  
 coklate - chocolat  
 coklatobaton - tablette de chocolat  
 cope - houe  
@@ -886,8 +890,8 @@ karube - caroube
 • kasete - cassette  
 • kasule - capsule  
 kaske - carapace (coquille, coquillage, croûte)  
-katoglutoban - presse-papier  
-katane - épée  
+kategluteban - presse-papier  
+katana - épée  
 katus - cactus  
 kave - creuser  
 • kavaje - fosse  
@@ -928,6 +932,7 @@ kluze - fermer
 • inkluze - inclure  
 • inkluze da - y compris  
 • inkluzive - inclusif  
+koala - koala  
 kobalte - cobalt  
 komi - comique  
 komodia - comédie  
@@ -1111,6 +1116,7 @@ max - plus
 • maxure - majeur  
 • maxuria - majorité  
 maxorai - surestimer  
+mayur - paon  
 me - bof  
 meden - place  
 medenpapil - coquelicot  
@@ -1472,6 +1478,7 @@ putavorange - pamplemousse
 radium - radium  
 radon - radon  
 rai - avis (opinion)  
+rakun - raton laveur  
 rang - couleur  
 rangarke - arc-en-ciel  
 rangarkosalmon - truite arc-en-ciel  
@@ -1784,7 +1791,6 @@ unomaro - une fois
 unoki lense - monocle  
 Uran - Uranus  
 uranium - uranium  
-urse - ours  
 uze - user  
 va - ouah  
 vade - vallée (oued)  
@@ -1806,7 +1812,6 @@ varkolate - page
 vase - oasis  
 vate - objet (article)  
 vava bebe - pleurnicheur (pleurnichard)  
-vaxurse - raton laveur  
 veilin - fil de trame  
 vele - voile  
 • devele - dévoiler (révéler)  
@@ -1936,13 +1941,13 @@ yune moke - pousse
 
 ## Z  
 
+zai - être présent  
+zai zaman su - actuel (courant)  
 zaman - temps  
 zarkube - dé  
 Zardux - Zoroastre  
 zarduxisme - zoroastrisme  
 zarduxiste - zoroastrien  
-zai - être présent  
-zai zaman su - actuel (courant)  
 Zayeria - Algérie  
 zebra - zèbre  
 zinke - zinc  
@@ -1964,4 +1969,4 @@ zumurude - émeraude
 zung - centre  
 zungofon - voyelle  
 Zungogia - Chine  
-zungoxulkan - école secondaire  
+zungxulekan - école secondaire  

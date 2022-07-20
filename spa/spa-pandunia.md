@@ -415,6 +415,7 @@ bisagra (gozne) - xarnir
 bisexual - dusexe  
 bisexual - dusexe  
 bismuto - bismute  
+bisonte - bison  
 blanco - bake  
 blando (mullido) - komale  
 blog - bloge  
@@ -601,7 +602,7 @@ casi (aproximadamente) - a proxe
 casta - genoklas  
 castaña - kastan  
 castillo (fortaleza) - burge  
-castor - kastor  
+castor - bibre  
 Cataluña - Katalunia  
 Catar (Qatar) - Katar  
 catarata (cascada, caída de agua) - suipade  
@@ -627,8 +628,7 @@ cena - xamyam
 ceniza - hui  
 centellear (titilar) - xingofote  
 centi- (por ciento) - senti-  
-central - zungi  
-centrar (concentrar) - zunga  
+centrar (concentrar) - zungife  
 centro - zung  
 centímetro - sentimitre  
 cepillar con garlopa - rande  
@@ -1263,7 +1263,7 @@ escuchar (oír) - ore
 escudo - defoban  
 escuela (colegio, institución) - xulekan  
 escuela primaria - bazoxulkan  
-escuela secundaria - zungoxulkan  
+escuela secundaria - zungxulekan  
 esculpir (escultura, estatua) - skulte  
 escultor - skulter  
 escultura (arte de escultura) - skultia  
@@ -1275,7 +1275,7 @@ Eslovenia - Slovenia
 esmeralda - zumurude  
 espacio (separación) - kale  
 espacio (texto) - kali harfe  
-espada - katane  
+espada - katana  
 espalda (lomo) - ruke  
 España - Espania  
 especia - masale  
@@ -1583,6 +1583,7 @@ guarda (preservador, conservador) - hafizer
 guarda-barros (aleta) - fangodefoban  
 Guatemala - Guatemala  
 guau (vaya) - va  
+guepardo (chita) - cita  
 Guernesey - Gernezi  
 guerra - gere  
 guerrero - gerer  
@@ -1921,6 +1922,7 @@ kilometre - kilomitre
 Kirguizistán - Kirgizia  
 Kiribati - Kiribati  
 kiwi fruta - kivi  
+koala - koala  
 konkani - Konkani  
 Kosovo - Kosovo  
 kumquat (quinoto) - kankuate  
@@ -1982,7 +1984,7 @@ letra negrita - grosi harfe
 levadura - hamir  
 levantar (elevar) - gave  
 leño (tronca) - mokotan  
-león - sing  
+león - singa  
 liberal - huristike  
 liberalismo - hurisme  
 liberalista - huriste  
@@ -2134,7 +2136,7 @@ manzanilla de Castilla - kamil
 manzanilla romana (camomila común) - roma kamil  
 maní - geodou  
 mapa (carta) - karte  
-mapache - vaxurse  
+mapache (oso lavador) - rakun  
 mar - hai  
 maratí - marate  
 maratón - maraton  
@@ -2541,7 +2543,7 @@ ortogonal - ortogone
 oscuro - dam  
 Osetia del Sur - Sudi Iria (Alonia)  
 osmio - osmium  
-oso - urse  
+oso - baru  
 otitis - oritis  
 otomana - osman  
 otoño - padomosim  
@@ -2646,6 +2648,7 @@ patria - patria
 patrimonio (herencia, legado) - varis  
 patógeno - patogener  
 pavo (guajalote) - dinde  
+pavo real - mayur  
 payaso (clown) - payace  
 paz - pace  
 país (nación, estado, terra) - gogia  
@@ -2806,7 +2809,7 @@ pornografía - pornografia
 poro - pore  
 poroso - porosi  
 porque - a sababe de  
-portapapeles - katoglutoban  
+portapapeles - kategluteban  
 porto - porta  
 Portugal - Portugal  
 posar (pose, postura) - poze  
@@ -3074,7 +3077,7 @@ riesgo (posibilidad; azar, aleatorio) - zar
 riesgo - riske  
 rima - rim  
 ring - ringare  
-rinoceronte - kornonos  
+rinoceronte - kargadan:  
 rio - riu  
 ritmo - ritim  
 rito (ceremonia) - pujerite  
@@ -3717,6 +3720,7 @@ zanahoria - karote
 zapatero - sapater  
 zapatería - sapatekan  
 zapato - sapate  
+zarigüeya - aposum  
 zigurat - zikure  
 zigzag - zigzage  
 Zimbabue - Zimbabve  

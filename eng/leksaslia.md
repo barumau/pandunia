@@ -47,6 +47,7 @@
 **anus** *anus (anal)* ← English:French:anus, Portuguese:ânus, Spanish:ano, deu:Anus, Russian:анус (anus), Turkish:anüs  
 **aple** *apple* ← English:apple, deu:Apfel, Malay:apel, Bengali:আেপল (apôl), Zulu:ihhabhula  
 **aplike** *apply (put to use for a purpose; application)* ← English:French:application, Spanish:aplicación, Portuguese:aplicação, Polish:aplikacja  
+**aposum** *opossum* ← English:French:opossum, Russian:опоссум (opossum), Mandarin:奥珀瑟姆 (àopòsèmǔ), Japanese:オポッサム (opossamu), Vietnamese:ô-pốt-sâm, Arabic: أُوبُسُوم‎ (ʾubusum)  
 **ar** *area (extent of surface)* ← English:area, Portuguese:Spanish:área, Polish:areał, French:aire  
 **arake** *liquor* ← Arabic: عرق‎ ('araq), English:arrack, French:raki, Portuguese:áraque, Russian:арак (arak), Mandarin:阿剌吉 (ālàjí), Malay:arak, Turkish:rakı, Burmese:အရက် (arak)  
 **arane** *spider* ← French:araignee, Portuguese:aranha, Spanish:araña, English:arachnid  
@@ -115,6 +116,7 @@
 **barkoke** *apricot* ← Arabic:(barqūq), pa:albaricoque, French:abricot, Russian:абрикос (abrikos), Filipino:albarikoke, Swahili:aprikoti  
 **barse** *rain (precipitation)* ← Hindi:बारिश (bāriś), Bengali:বৃষ্টি (briśṭi), Turkish:baran  
 **barte** *Indian* ← Hindi:भारतीय (bhārtīy), Urdu:(bhārtīy), Marathi:(bhārtīya), Telugu:(bhāratīya)  
+**baru** *bear* ← deu:Bär, English:bear + Hindi:भालू (bhālū), Bengali:ভালুক (bhaluk) + Malay:beruang  
 **barude** *gunpowder* ← Arabic:Persian:Urdu:(bārūd), Hindi:बारूद (bārūd), Swahili:baruti, Turkish:barut  
 **bas** *enough (sufficient)* ← Spanish:Portuguese:Italian:basta + Arabic:Persian:Urdu:س (bas), Hindi:(bas), Swahili:basi  
 **basen** *pool (basin)* ← English:basin, French:bassin, Russian:бассейн (basseyn), Portuguese:bacia  
@@ -147,6 +149,7 @@
 **bete** *beetroot* ← English:beet, Spanish:betabel, Portuguese:beterraba, French:betterave, deu:Bete, Japanese:ビート (bīto)  
 **beton** *concrete (material with cement)* ← French:béton, Portuguese:betão, deu:Beton, Russian:бетон (beton), Polish:Turkish:beton, Persian:بتن‎ (beton)  
 **betula** *birch tree* ← Spanish:abedul, Portuguese:bétula, Arabic: بَتُولَا‎ (batūlā)  
+**bibre** *beaver* ← deu:Biber, English:beaver, Russian:бобр (bobr), Japanese:ビーバー (bībā), Korean:비버 (bibeo)  
 **bie** *organism (organic life)* ← English:deu:French:Spanish:Portuguese:Polish:Malay:Swahili:Turkish:bio-, Russian:био- (bio-)  
 **bil** *bill (invoice)* ← English:bill, Hindi:बिल (bil), Malay:bil  
 **bilor** *crystal* ← Arabic: بِلَّوْر‎ (billawr), Hindi:बिल्लौर (billaur), Malay:hablur, Turkish:billûr, Amharic:በሉር (bälur) + Spanish:abalorio  
@@ -157,6 +160,7 @@
 **bis** *genderqueer (non-binary)* ← bug:bissu  
 **biskute** *biscuit (cookie)* ← English:French:biscut, Portuguese:biscoito, Russian:бисквит (biskvit), Turkish:bisküvi, Swahili:biskuti, Arabic:بسكويت‎ (baskawīt), Hindi:बिस्कुट (biskuṭ), Malay:biskut, Japanese:ビスケット (bisuketto)  
 **bismute** *bismuth* ← English:bismuth, French:bismuth, Spanish:bismuto, Portuguese:bismuto, Russian:висмут, Mandarin:铋 (bì), Japanese:ビスマス, Korean:비스무트, Vietnamese:bitmut, bismut, Hindi:बिस्मथ, Bengali:বিসমাথ, Malay:bismut, Swahili:bismuthi, Arabic: بزموث  
+**bison** *bison* ← English:French:Malay:Vietnamese:bison, Spanish:bisonte, Portuguese:bisão, Russian:бизон (bizon), Japanese:バイソン (baison), Korean:바이슨 (baiseun), Arabic: بِيسُون‎ (bīsūn)  
 **bizar** *odd (strange, weird)* ← English:French:bizarre, Portuguese:bizarro, deu:bizarr  
 **biznes** *business (commercial activity)* ← English:business, Russian:бизнес (biznes), Malay:bisnes, Japanese:ビジネス (bijinesu)  
 **blabla** *chat (babble)* ← French:blablater, English:babble, Spanish:blablablá, Russian:бла-бла-бла, Vietnamese:bô lô ba la  
@@ -229,6 +233,7 @@
 **cincile** *chinchilla* ← English:Spanish:French:chinchilla, Portuguese:chinchila, Russian:шиншилла (šinšilla), Turkish:çinçilya, Malay:cincila, Japanese:チンチラ (chinchira)  
 **cing** *ask (request, beg, plead; please)* ← Mandarin:请 (qǐng), Cantonese:請 (cing2), Korean:청 (cheong), Vietnamese:thỉnh  
 **cire** *tear (rip, split)* ← Hindi:Marathi:चीर (chīra), Bengali:চেরা (chērā), pan:ਚੀਰ (chīra) + English:tear  
+**cita** *cheetah* ← English:cheetah, Spanish:Portuguese:chita, Hindi:चीता (cītā), Bengali:চিতা (cita), Malay:citah, Japanese:チーター (chītā), Korean:치타 (chita), Arabic: شِيتَه‎ (šītah), Turkish:çita  
 **cite** *quote (cite)* ← English:cite, Spanish:Portuguese:citar, French:citer, deu:zitieren, Russian:цитировать (citirovat’)  
 **code** *fuck (copulate)* ← Hindi:चोदना (codnā), Bengali:চোদা (coda) + Mandarin:肏 (cào)  
 **coi** *greens* ← Mandarin:菜 (cài), Cantonese:菜 (coi3), English:-choy, Malay:-coy  
@@ -643,6 +648,7 @@
 **karde** *card* ← English:card, French:carte, Spanish:Portuguese:carta, deu:Karte, Russian:карта (karta), Turkish:kart, Swahili:kadi, Hindi:कार्ड (kārḍa), Bengali:কার্ড (kārḍa), Malay:kartu, Mandarin:卡 (kǎ), Japanese:カード (kādo), Korean:카드 (kadeu) deu:Karte, may:kartu, fra:carte  
 **kardon** *thistle* ← Spanish:Portuguese:cardo, French:chardon, English:cardoon, Japanese:カルドン (karudon)  
 **kare** *work* ← Persian: کار (kâr), Hindi:कार (kār), कार्य (kārya), Bengali:কাজ (kaj), Malay:karya,kerja + Swahili:kazi  
+**kargadan:** *rhinoceros* ← Persian: کرگدن‎ (kargadan), Arabic: كَرْكَدَّن‎ (karkaddan), Turkish:kergedan, Hausa:karkanda, Oromo:karkaarro, Hindi:खड्गधेनु (khaḍgadhenu), Tamil:ఖడ్గమృగం (khaḍgamr̥gaṁ), Telugu:ఖడ్గమృగం (khaḍgamr̥gaṁ)  
 **karge** *burden (load, weight, charge, cargo)* ← Spanish:Portuguese:carga, English:cargo, Malay:kargo  
 **kari** *curry* ← English:French:Portuguese:curry, Spanish:curri, Russian:карри (karri), Mandarin:咖喱 (kālǐ), Japanese:カレー (karē), Korean:커리 (keori), Vietnamese:cà ri,Hindi:करी (karī), Bengali:কারি (kari), Malay:kari, Arabic: كَارِي‎ (kārī)  
 **karime** *charitable (gentle, kind)* ← Arabic:(karīm), Swahili:-karimu, Turkish:kerim, Spanish:Portuguese:caritativo  
@@ -655,8 +661,7 @@
 **kase** *box (container, case)* ← lat:capsa, deu:Kasse, English:French:case, Spanish:caja, Portuguese:caixa, Russian:касса (kassa), Swahili:kasha + Arabic:(qafaṣ), Hindi:क़फ़स (qafas), Turkish:kafes + Mandarin:卡式 (kǎshì), Japanese:カセット (kasetto), Korean:카세트 (kaseteu)  
 **kaske** *shell (crust, carapace)* ← Spanish:cáscara, Portuguese:casca + nan:殼 (kag4), Wu-Chinese:殼 (khoq4), Japanese:殻 (kaku)  
 **kastan** *chestnut* ← Spanish:castaňa, Arabic:(kastanāʾ), Turkish:kestane, Russian:каштан (kaštan)  
-**kastor** *beaver* ← French:Portuguese:Spanish:castor, Filipino:Turkish:kastor  
-**katane** *sword* ← Japanese:刀 (katana), English:Spanish:Turkish:Malay:katana, Russian:катана (katana), Bengali:কাতানা (kātānā)  
+**katana** *sword* ← Japanese:刀 (katana), English:Spanish:Turkish:Malay:katana, Russian:катана (katana), Bengali:কাতানা (kātānā)  
 **kate** *cut* ← English:cut, Arabic:(qaṭa’a), Hindi:काटना (kāṭnā), Bengali:কাটা (kata), Swahili:kata, Vietnamese:cắt, Mandarin:割 (gē), Cantonese:割 (got3), Wu-Chinese:割 (ga’), Japanese:割 (katsu)  
 **katus** *cactus* ← English:Spanish:Portuguese:French:cactus, Russian:кактус (kaktus), Turkish:kaktüs, Malay:kaktus  
 **Kaukasia** *Caucasia* ← English:Caucasia, Spanish:Cáucaso, Russian:Кавказ (Kavkaz), Turkish:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, Arabic:اَلْقَوْقَاز‎ (al-qawqāz), Hindi:कॉकस (kŏkas), Malay:Kaukasus, Mandarin:高加索 (gāojiāsuǒ)  
@@ -693,6 +698,7 @@
 **klorium** *chlorine* ← English:chlorine, French:chlore, Spanish:cloro, Portuguese:cloro, Russian:хлор, Vietnamese:clo, Hindi:क्लोरीन, Bengali:ক্লোরিন, Malay:klor, Swahili:klorini, Arabic: كلور  
 **klube** *club* ← English:Spanish:French:club, Portuguese:clube, Russian:клуб, Turkish:kulüp, Swahili:klabu, Hindi:क्लब (klab), Malay:kelab, Mandarin:俱乐部 (jùlèbù), Japanese:クラブ (kurabu)  
 **kluze** *close (shut)* ← English:French:Spanish:Portuguese:-clus- + Russian:ключить (-klyučítʹ)  
+**koala** *koala* ← English:French:Spanish:Vietnamese:Malay:Swahili:Turkish:koala, Portuguese:coala, Russian:коала (koala), Mandarin:考拉 (kǎolā), Japanese:コアラ (koara), Korean:코알라 (koalla), Arabic: كُوَالَا‎ (kuwalā), Hindi:कोअला (koalā), Bengali:কোয়ালা (koẏala),   
 **kobalte** *cobalt* ← English:cobalt, French:cobalt, Spanish:cobalto, Portuguese:cobalto, Russian:кобальт, Mandarin:钴 (gǔ), Japanese:コバルト, Korean:코발트, Vietnamese:coban, Hindi:कोबाल्ट, Bengali:কোবাল্ট, Malay:kobalt, Swahili:kobalti, Arabic: كوبلت  
 **kode** *code (cipher)* ← English:code, Spanish:Portuguese:código, ru:код, Persian:کد‎ (kod), Hindi:कोड (koḍ), Japanese:コード (kōdo)  
 **koka** *coca* ← Spanish:English:coca, Russian:кока (koka), Turkish:koka, Mandarin:古柯 (gǔké)  
@@ -715,7 +721,7 @@
 **koral** *coral* ← English:Spanish:Portuguese:coral, French:corail, deu:Koralle, Russian:коралл + Malay:karang  
 **kore** *core (heart, nucleus, kernel)* ← English:core, French:coeur  
 **kore** *run* ← French:courir, Spanish:Portuguese:correr  
-**korne** *horn* ← French:corne, Spanish:cuerno, Portuguese:corno, English:horn, Arabic:(qarn)  
+**korne** *horn* ← French:corne, Spanish:cuerno, Portuguese:corno, English:horn, deu:Horn + Arabic: قَرْن‎ (qarn)  
 **koron** *crown* ← French:couronne, English:crown, Spanish:corona, Japanese:クラウン (kuraun), Russian:корона (korona), Portuguese:coroa  
 **korse** *chair* ← Arabic:(kursiy), Hindi:कुरसी (kursī), Urdu:(kursī), Punjabi:ਕੁਰਸੀ (kursī), Telugu:(kurcī), Malay:som:kursi, Persian:(korsi)  
 **korte** *short (brief)* ← Spanish:corto, Russian:короткий (korotkiy), Portuguese:curto, French:court, deu:kurz, English:short  
@@ -875,6 +881,7 @@
 **mau** *cat* ← Mandarin:猫 (māo), Cantonese:貓 (maau), Vietnamese:mèo, Swahili:nyau  
 **max** *more* ← Spanish:mas, Portuguese:mais + English:French:maximum, Russian:максимум (maksimum), Malay:maksimum, Persian: ماکسیمم‎ (mâksimom)  
 **maxin** *machine* ← French: machine, English: machine, deu: Maschine, Malay: mesin  
+**mayur** *peafowl (peacock)* ← Hindi:मयूर (mayūr), Bengali:ময়ূর (môyūr), Tamil:மயில் (mayil) + Malay:merak  
 **maze** *sock (stocking)* ← Hindi:मोज़ा (mozā), Bengali:মোজা (moja), Urdu: موزا‎ (mozā) + Mandarin:袜子 (wàzi), Wu-Chinese:袜子 (ma’zi), Cantonese:襪 (mat6), Korean:말 (mal)  
 **me** *meh* ← English:meh  
 **medal** *medallion (medal)* ← English:medal, Spanish:medalla, Portuguese:medalha, French:médaille, Russian:меда́ль (medálʹ), Hindi:मेडल (meḍal), Bengali:মেডেল (meḍel), Turkish:madalya, Japanese:メダル (medaru)  
@@ -1161,6 +1168,7 @@
 **radon** *radon* ← English:radon, French:radon, Spanish:radón, Portuguese:rádon, Russian:радон, Mandarin:氡 (dōng), Japanese:ラドン, Korean:라돈, Vietnamese:rađơn, Hindi:रेडन, Bengali:রেডন, Malay:radon, Swahili:radoni, Arabic: رادون  
 **rai** *opinion (view)* ← Arabic:(raʾy), Swahili:rai, Hindi:राय (rāy), Persian:(ra'y), Turkish:rey  
 **raite** *right hand side* ← English:right  
+**rakun** *raccoon* ← English:raccoon, Arabic: رَاكُون‎ m (rākūn), Hindi:रैकून (raikūn), Persian: راکون‎ (râkon), Malay:Turkish:rakun  
 **rampe** *ramp (incline, slope)* ← French:rampe, English:ramp, Portuguese:Spanish:rampa, Japanese:ランプ (ranpu)  
 **rande** *plane (tool for making a smooth surface)* ← Turkish:rende, bul:ренде (rende), ron:rindea, Hindi:रंदा, (randâ), Persian:(rande), Swahili:(randa)  
 **rang** *color* ← Bengali:রং (rông), Hindi:रंग (raṅg), Urdu:(raṅg), Persian:(rang), Telugu:రంగు (raṅgu), Swahili:rangi, Lingala:lángi, Turkish:renk  
@@ -1267,7 +1275,7 @@
 **simple** *simple (not complicated)* ← English:Spanish:French:simple, Portuguese:simples, deu:simpel  
 **sina** *chest (breast)* ← Persian:(sine), Turkish:sine, Hindi:सीना (sīnā), Spanish:seno, French:sein, Latin:sinus  
 **sine** *sign (signal, indication)* ← English:sign, Spanish:señal, Portuguese:sinal, French:signe  
-**sing** *lion* ← Malay:singa, Hindi:सिंघ (singh), Bengali:সিংহ (singh), Tamil:சிங்கம் (sinkam), Thai:สิง (sing), Mandarin:狮 (shī), Japanese:獅子 (shishi), + Swahili:simba  
+**singa** *lion* ← Malay:singa, Hindi:सिंघ (singh), Bengali:সিংহ (singh), Tamil:சிங்கம் (sinkam), Thai:สิง (sing), Mandarin:狮 (shī), Japanese:獅子 (shishi) + Swahili:simba  
 **sir** *secret (hidden; hide, conceal)* ← Arabic: سِرّ (sirr), Hindi:सेर (ser), Malay:sir, Swahili:siri, Hausa:Fulani:asiri, Yoruba:àṣírí, Turkish:sır, Persian:(serr)  
 **sirke** *circle (round)* ← English:circle, Spanish:Portuguese:círculo, French:cercle  
 **siro** *zero (none)* ← Arabic: صِفْر‎ (ṣifr), Swahili:sifuri, Hindi:सिफ़र (sifar), Malay:sifar, English:Portuguese:zero, French:zéro, Spanish:cero, Russian:зеро (zero), Japanese:ゼロ (zero), Korean:제로 (jero), Vietnamese:zêrô  
@@ -1420,7 +1428,6 @@
 **un** *one (1)* ← French:un, Spanish:uno, Portuguese:um, una, English:one  
 **unale** *each other (one another, mutually; mutual)* ← English:one another, Italian:l’una, l’altra, French: l'un l'autre, Spanish:el uno al otro, Portuguese:um ao outro, Turkish:birbirine, Mandarin:彼此 (bǐcǐ)  
 **uranium** *uranium* ← English:uranium, French:uranium, Spanish:uranio, Portuguese:urânio, Russian:уран, Japanese:ウラン, Korean:우라늄, Vietnamese:urani (uran), Hindi:युरेनियम, Bengali:ইউরেনিয়াম, Malay:uranium, Swahili:urani, Arabic: يورانيوم  
-**urse** *bear* ← French:ours, Portuguese:urso, Spanish:oso, Persian:(xers)  
 **uze** *use (employ, apply)* ← English:use, French:user, Spanish:Portuguese:usar, Polish:używać  
 **va** *wow! (gee!)* ← English:wow, French:ouah, Mandarin:哇 (wā), Japanese:わあ (wā), Korean:와 (wa), Hindi:वाह (vāh), Malay:wah  
 **vacin** *vaccine* ← English:vaccine, Portuguese:vacina, Russian:вакцина (vakcina), Hindi:वैक्सीन (vaiksīn), Japanese:ワクチン (wakuchin), Malay:vaksin  
@@ -1442,7 +1449,6 @@
 **vate** *thing (object, item, matter)* ← Hindi:वस्तु (vastu), Bengali:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), Thai:วัสดุ (wạttu), Burmese:ဝတ္ထု (wathtu), Khmer:វត្ថុ (vŏəttho) + Vietnamese:vật, Wu-Chinese:物 (veq5), Mandarin:物 (wù), Cantonese:物 (mat6), Japanese:物 (butsu)  
 **vava** *weep (cry)* ← English:wah-wah, French:ouin ouin, Spanish:Portuguese:buá buá, Bengali:ওয়া ওয়া (oā-oā), Mandarin:哇哇 (wāwā), Cantonese:哇哇 (waa1waa1), Vietnamese:oa oa, Malay:owe-owe  
 **vaxe** *wash* ← English:wash, deu:waschen, Mandarin:洗 (xǐ)  
-**vaxurse** *raccoon* ← Mandarin:浣熊, Japanese:洗熊, Italian:orsetto lavatore, deu:Waschbär, heb:דביבון רוחץ  
 **vei** *tail* ← Mandarin:尾 (wěi), Cantonese:尾 (mei5), Wu-Chinese:尾 (vi3), nan:尾 (bé), Japanese:尾 (bi)  
 **vei** *traverse (horizontal)* ← Mandarin:纬度 (wěi), Korean:위 (wi), Vietnamese:vĩ  
 **vele** *veil* ← English:veil, French:voile, Spanish:velo, Portuguese:véu, Japanese:ベール (bêru), Korean:베일 (beil), Swahili:veli  

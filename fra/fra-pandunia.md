@@ -254,6 +254,7 @@ biochimie - biokimia
 biologie - biolojia  
 biome - biosistem  
 bismuth - bismute  
+bison - bison  
 bière - bir  
 blanc - bake  
 blettes (bettes) - selge  
@@ -781,6 +782,7 @@ guide - gider
 guide touristique - gidobuke  
 guider - gide  
 guitare - gitar  
+guépard - cita  
 guérilla - gerile  
 gâteau de lune - lunokeke  
 gélatine - gelatine  
@@ -937,6 +939,7 @@ Khartoum - Hartum
 kimono - kimono  
 Kinshasa - Kinsasa  
 kiwi - kivi  
+koala - koala  
 krypton - kriton  
 kumquat - kankuate  
 
@@ -1249,7 +1252,7 @@ oublier - dememe
 oubliette (cul de basse-fosse) - geosube jelekan  
 ouest - veste  
 oui - ye  
-ours - urse  
+ours - baru  
 ovale - ovoide  
 oxyde - oxide  
 oxygène - oxe  
@@ -1275,6 +1278,7 @@ pansement (sparadrap) - glutobende
 pantalon - pante  
 pantomime - panmime  
 pantoufle (babouche) - babuce  
+paon - mayur  
 papaye - papaya  
 papier - kaguje  
 papier peint - murkaguze  
@@ -1413,7 +1417,7 @@ pousser - pulse
 pouvoir (être capable; possible) - able  
 poésie - xiria  
 praséodyme - prasedium  
-presse-papier - katoglutoban  
+presse-papier - kategluteban  
 pression - prese  
 pression atmosphérique - airbaria  
 pressoir - preser  
@@ -1483,7 +1487,7 @@ rare - nadir
 rare - rare  
 raser - raze  
 rasoir - razor  
-raton laveur - vaxurse  
+raton laveur - rakun  
 rayon de miel - maduvesponide  
 rebelle - rebeler  
 rebondir - boing  
@@ -1585,6 +1589,7 @@ sang - heme
 santé - sales  
 santé - salude  
 sapin - abete  
+sarigue (opossum) - aposum  
 Satan - xatan (ruhoxatan)  
 Saturne - Saturne  
 sauce - saus  
@@ -1907,7 +1912,7 @@ zèbre - zebra
 échec - xibai  
 école (collège) - xulekan  
 école primaire - bazoxulkan  
-école secondaire - zungoxulkan  
+école secondaire - zungxulekan  
 économie - malonomia  
 écorce - tire pil  
 écrire (écriture) - kitabe  
@@ -1934,7 +1939,7 @@ zèbre - zebra
 éponge - sponje  
 époux - gamike  
 épreuve (test) - teste  
-épée - katane  
+épée - katana  
 équilibre - parvezia  
 équipe - tim  
 étagère - liboban  

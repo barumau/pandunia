@@ -131,6 +131,7 @@ anus - ano (anal)
 aple - manzana  
 aplesaus - compota de manzanas  
 aplike - emplear (aplicar; aplicación)  
+aposum - zarigüeya  
 Apsua - abjazia  
 ar - área (superficie)  
 aria - área (zona, región)  
@@ -276,6 +277,7 @@ barsokote - impermeable
 barte - indio (hindú)  
 Barte Hai - océano Índico  
 Bartia - India  
+baru - oso  
 barude - pólvora  
 bas - bastante  
 basen - piscina (alberca, lavadero)  
@@ -350,6 +352,7 @@ biomute - fermentar
 biosistem - bioma  
 biotoxe - toxina  
 biblia - Biblia  
+bibre - castor  
 bil - cuenta (factura)  
 bilor - cristal  
 bine - construir (edificar)  
@@ -364,6 +367,7 @@ bis - no binario (género)
 Bisau Ginia - Guinea-Bisáu  
 biskute - galleta  
 bismute - bismuto  
+bison - bisonte  
 bizar - raro (extraño)  
 biznes - negocios (comercio)  
 bizneser - empresario  
@@ -506,6 +510,7 @@ Cipia - Albania
 cire - rasgar (romper)  
 cite - citar  
 citomarke - comilla  
+cita - guepardo (chita)  
 code - joder (coger, copular)  
 coi - verduras  
 coklate - chocolate  
@@ -1503,6 +1508,7 @@ karde - tarjeta (carta)
 kardon - cardo  
 karge - carga (pesa)  
 • rikarge - recargar  
+kargadan: - rinoceronte  
 kari - curri  
 Karibia - Caribe  
 karime - generoso (dadivoso, caritativo)  
@@ -1525,11 +1531,10 @@ kase - caja
 • kasule - cápsula  
 kaske - carapacho (cáscara, concha, corteza, capa)  
 kastan - castaña  
-kastor - castor  
 kate - cortar  
-katoglutoban - portapapeles  
+kategluteban - portapapeles  
 Katalunia - Cataluña  
-katane - espada  
+katana - espada  
 Katar - Catar (Qatar)  
 katus - cacto  
 kave - cavar (excavar)  
@@ -1621,6 +1626,7 @@ klube - club
 • inkluze - incluir  
 • inkluze da - incluido  
 • inkluzive - inclusivo  
+koala - koala  
 kobalte - cobalto  
 kode - código (cifra)  
 • inkode - codificar (cifrar)  
@@ -1673,7 +1679,6 @@ korer - corredor
 korofuzion - fusión nuclear  
 koral - coral  
 korne - cuerno  
-kornonos - rinoceronte  
 koron - corona  
 korse - silla  
 korte - acortar (abreviar)  
@@ -2035,6 +2040,7 @@ maxobalaje - refuerzos
 maxolivaje - vestigio (sobrante)  
 maxorai - sobrestimar  
 maxin - máquina  
+mayur - pavo real  
 maze - calcetín  
 mede - ayudar (asistar; ayuda, asistencia)  
 medal - medallón  
@@ -2769,6 +2775,7 @@ rai - opinar
 raite - lado derecho  
 raite - derecho  
 raitiste - derechista  
+rakun - mapache (oso lavador)  
 ramazan - Ramadán  
 rampe - rampa (cuesta)  
 rande - garlopa  
@@ -3049,7 +3056,7 @@ sine - señal (letrero, indicio)
 sina - pecho (seno, tórax)  
 sinakase - caja torácica  
 sinaplate - peto  
-sing - león  
+singa - león  
 Singapur - Singapur  
 sir - secreto (ocultar, esconder)  
 siromote - sigilo (colarse)  
@@ -3425,7 +3432,6 @@ Uran - Urano
 uranium - uranio  
 urdu - urdu  
 Urdun - Jordania  
-urse - oso  
 Uruguai - Uruguay  
 USA - estadounidense  
 uze - usar (aplicar)  
@@ -3465,7 +3471,6 @@ vava - llorar
 vava bebe - llóron  
 vaxe - lavar  
 vaxomaxin - lavadora  
-vaxurse - mapache  
 vei - cola (rabo)  
 vele - velo  
 • devele - develar (revelar)  
@@ -3693,6 +3698,14 @@ yune moke - pimpollo
 
 ## Z  
 
+zai - existir (estar presente; actual)  
+zayia - presencia (existencia)  
+• zayaje - actualidad  
+• zayife - generar (añadir)  
+• azay - aparecer  
+• dezay - quitar (eliminar, borrar)  
+zai zaman - presente  
+zai zaman su - actual  
 zaitun - aceituna  
 zalime - mezquino (antipático, cruel)  
 • zalimia - crueldad (tiranía)  
@@ -3707,14 +3720,6 @@ zarkube - dado
 Zardux - Zoroastro  
 zarduxisme - zoroastrismo  
 zarduxiste - zoroastriano  
-zai - existir (estar presente; actual)  
-zayia - presencia (existencia)  
-• zayaje - actualidad  
-• zayife - generar (añadir)  
-• azay - aparecer  
-• dezay - quitar (eliminar, borrar)  
-zai zaman - presente  
-zai zaman su - actual  
 Zayeria - Argelia  
 zebra - cebra  
 • zelose - celoso (envidioso)  
@@ -3746,9 +3751,8 @@ zukam - resfriado (catarro)
 Zulu - zulú  
 zumurude - esmeralda  
 zung - centro  
-• zunga - centrar (concentrar)  
-• zungi - central  
+• zungife - centrar (concentrar)  
 Zungafrike - República Centroafricana  
 zungofon - vocal  
 Zungogia - China  
-zungoxulkan - escuela secundaria  
+zungxulekan - escuela secundaria  

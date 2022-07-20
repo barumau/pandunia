@@ -113,6 +113,7 @@ anus - odbyt (analny, odbytni)
 aple - jabłko  
 aplesaus - sos jabłkowy  
 aplike - stosować (zastosować; zastosowanie, aplikacja)  
+aposum - opos  
 Apsua - Abchazja  
 ar - pole, powierzchnia  
 aria - powierzchnia, region, teren  
@@ -241,6 +242,7 @@ barsokote - płaszcz nieprzemakalny
 barte - Indyjski  
 Barte Hai - Ocean Indyjski  
 Bartia - Indie  
+baru - niedźwiedź  
 barude - proch strzelniczy  
 bas - wystarczający  
 basen - basen  
@@ -312,6 +314,7 @@ biomute - fermentować
 biosistem - biom  
 biotoxe - toksyna  
 biblia - Biblia  
+bibre - bóbr  
 bil - rachunek (faktura)  
 bilor - kryształ  
 bine - budować (zbudować, konstruować; budynek)  
@@ -449,6 +452,7 @@ cire - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)
 circire - strzępić (drzeć)  
 cite - cytować  
 citomarke - cudzysłów  
+cita - gepard  
 code - jebać, kopulować  
 coi - zielenina  
 coklate - czekolada  
@@ -1371,6 +1375,7 @@ karde - karta
 kardon - oset  
 kardonkarcof - karczoch hiszpański  
 karge - ciężar (brzemię; ładować)  
+kargadan: - nosorożec  
 kari - curry  
 Karibia - Karaiby  
 karime - hojny (szczodry)  
@@ -1389,10 +1394,9 @@ karvan - karawana
 • kaser - kasjer  
 kaske - skorupa (pancerz, muszla)  
 kastan - kasztan  
-kastor - bóbr  
 kate - ciąć  
 Katalunia - Katalonia  
-katane - miecz  
+katana - miecz  
 Katar - Katar  
 katus - kaktus  
 kave - wykopać, kopać, wydobyć, wydobywać, wykopywać  
@@ -1470,6 +1474,7 @@ klon - klon, replika
 klone - klonować, repilikować  
 klorium - chlor  
 klube - klub  
+koala - koala  
 kobalte - kobalt  
 kode - kod, szyfr  
 • inkode - kodować  
@@ -1523,8 +1528,7 @@ kori energia - energia nuklearna
 korofuzion - fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)  
 koral - koral  
 korne - róg  
-kornomelon - ogórek kiwano  
-kornonos - nosorożec  
+kornemelon - ogórek kiwano  
 koron - korona  
 koronvirus - koronawirus  
 korse - kszesło, fotel  
@@ -1883,6 +1887,7 @@ maxobalaje - wsparcie (wzmocnienie, zasilenie)
 maxbone - dodatkowy  
 maxdarge - zwiększyć o jeden  
 maxin - maszyna  
+mayur - paw  
 maze - skarpeta, skarpetka, pończocha  
 mede - pomóc (pomagać, asystować; pomoc, wsparcie)  
 medal - medalion, medal  
@@ -2545,6 +2550,7 @@ rai - uważać (sądzić)
 raite - prawa strona  
 raite - prawy (prawostronny, z prawej strony)  
 raitiste - prawicowiec (prawak)  
+rakun - szop pracz  
 ramazan - Ramadan  
 rampe - rampa  
 rande - hebel, strug  
@@ -2804,7 +2810,7 @@ sine - znak, sygnał
 sina - pierś  
 sinakase - klatka piersiowa  
 sinaplate - napierśnik  
-sing - lew  
+singa - lew  
 Singapur - Singapur  
 sir - sekret (chować, kryć)  
 siromote - skradać się  
@@ -3137,7 +3143,6 @@ Uran - Uran
 uranium - uran  
 urdu - urdu  
 Urdun - Jordan  
-urse - niedźwiedź  
 Uruguai - Urugwaj  
 Urusalem - Jerozolima  
 USA - amerkański (dotyczący USA, Stanów Zjednoczonych Ameryki)  
@@ -3176,7 +3181,6 @@ vava - płakać, łkać
 vava bebe - beksa  
 vaxe - prać, umyć, myć  
 vaxomaxin - pralka  
-vaxurse - szop pracz  
 Vaxington DC - Waszyngton D.C  
 vei - ogon  
 vende - sprzedać (sprzedawać)  
@@ -3392,6 +3396,13 @@ yune moke - młode drzewo
 
 ## Z  
 
+zai - istnieć (być obecnym)  
+zayia - teraźniejszość, współczesność  
+• zayife - wzywać (wezwać, dodawać, dodać)  
+• azay - pojawić się  
+• dezay - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
+zai zaman - teraźniejszość, współczesność (teraz)  
+zai zaman su - bieżący (aktualny, obecny)  
 zaitun - oliwka  
 zalime - złośliwy, okrutny  
 • zalimia - tyrania  
@@ -3407,13 +3418,6 @@ zarkube - kość do gry
 Zardux - Zaratusztra  
 zarduxisme - zaratusztrianizm  
 zarduxiste - zaratrustianin  
-zai - istnieć (być obecnym)  
-zayia - teraźniejszość, współczesność  
-• zayife - wzywać (wezwać, dodawać, dodać)  
-• azay - pojawić się  
-• dezay - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
-zai zaman - teraźniejszość, współczesność (teraz)  
-zai zaman su - bieżący (aktualny, obecny)  
 Zayeria - Algieria  
 zebra - zebra  
 • zelose - zazdrosny  
@@ -3445,8 +3449,7 @@ zukam - przeziębienie, katar
 Zulu - zulu  
 zumurude - szmaragd  
 zung - środkowy, centralny  
-• zunga - centrować, skupić, skupiać  
-• zungi - centralny (środkowy)  
+• zungife - centrować, skupić, skupiać  
 Zungafrike - Republika Środkowoafrykańska  
 zungofon - samogłoska  
 Zungogia - Chiny  

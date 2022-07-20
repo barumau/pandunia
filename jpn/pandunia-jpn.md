@@ -52,6 +52,7 @@ angulmarke - 指紋
 angulpike - 指先  
 anis - アニス (八角)  
 aple - 林檎  
+aposum - 袋鼠 (オポッサム)  
 aria - 辺  
 arane - オレンジ  
 argente - 銀  
@@ -112,6 +113,7 @@ bankorutia - 破産
 barium - バリウム  
 barse - 雨 (雨が降る)  
 barsomosim - 雨季  
+baru - 熊  
 bas - 十分  
 bate - 八 (8)  
 batosenter - タコ  
@@ -148,6 +150,7 @@ biolojia - 生物学
 biomute - 熟成する (発酵する)  
 biosistem - 生物群系  
 biotoxe - 毒素  
+bibre - ビーバー  
 bilor - 結晶  
 bine - 建てる  
 binite - レンガ (磚)  
@@ -155,6 +158,7 @@ binoplania - 建築学
 binoplaner - 建築家  
 bir - ビール  
 bismute - ビスマス  
+bison - 野牛 (バイソン)  
 biznes - 業務 (営業, ビジネス)  
 boi - フロート (ブイ)  
 boipuntonumbe - 浮動小数点数  
@@ -215,6 +219,7 @@ cing - 請う (ーて下さい)
 cire - 裂く  
 circire - 千切る  
 cirtexe - ボロ  
+cita - チーター  
 • codekan - 娼館  
 coi - 菜  
 coklate - チョコレート  
@@ -633,6 +638,7 @@ karcof - アーティチョーク
 karde - カルタ  
 kardon - アザミ  
 kardonkarcof - カルドン  
+kargadan: - 犀  
 kari - カレー  
 karote - ニンジン  
 karse - 荒い  
@@ -640,8 +646,8 @@ karsolimon - コブミカン (スワンギ, プルット)
 karte - 地図  
 karube - 蝗豆  
 kaske - 殻 (皮)  
-katoglutoban - クリップボード  
-katane - 刀 (剣)  
+kategluteban - クリップボード  
+katana - 刀 (剣)  
 katus - サボテン  
 kave - 掘る  
 kauri - 宝貝  
@@ -678,6 +684,7 @@ klas - 部門 (級)
 klien - 顧客 (依頼人, クライアント)  
 klimomute - 気候変動  
 klorium - 塩素  
+koala - 子守熊 (コアラ)  
 kobalte - コバルト  
 komodia - 喜劇 (コメディ)  
 kono - 一緒に  
@@ -693,7 +700,8 @@ kopernikium - コペルニシウム
 kore - 核  
 kore - 走る (疾走する)  
 koral - 珊瑚  
-kornomelon - ツノニガウリ  
+korne - 角  
+kornemelon - ツノニガウリ  
 kortokrokodil - アリゲーター  
 kosmonau - 宇宙船  
 krake - 隙間 (ひび)  
@@ -845,6 +853,7 @@ maturi fem - 女の人
 maturi man - 男の人  
 mau - 猫  
 maxobalaje - 増派 (援兵)  
+mayur - 孔雀  
 maze - 靴下 (ソックス)  
 mede - 手伝う (助ける)  
 meden - 広場  
@@ -1125,6 +1134,7 @@ radium - ラジウム
 radon - ラドン  
 rai - 意見 (見解)  
 raite - 右  
+rakun - 狸 (ラクーン, 洗い熊)  
 rangarke - 虹  
 rangarkosalmon - ニジマス  
 rangomate - 染め粉  
@@ -1397,7 +1407,6 @@ vare - 色々 (種々, 様々, 区々, とりどり, それぞれ)
 varkalge - コンブ  
 varkolate - ページ (面)  
 vate - 物 (品)  
-vaxurse - 狸 (ラクーン, 洗い熊)  
 vei - 尾 (尾翼)  
 veilin - 横糸  
 vende - 売る  
@@ -1503,12 +1512,12 @@ yune moke - 若木
 
 ## Z  
 
-zalime reger - 暴君  
-zaman - 時代 (年代)  
-zarkube - 賽子  
 zai - ある (いる)  
 zai zaman - 今 (現在)  
 zai zaman su - 現行  
+zalime reger - 暴君  
+zaman - 時代 (年代)  
+zarkube - 賽子  
 zeze - ハエ目 (双翅目)  
 zinke - 亜鉛  
 zira - クミン  
