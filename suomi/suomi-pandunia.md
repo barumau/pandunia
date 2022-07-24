@@ -14,7 +14,7 @@ Aasia - Asia
 aasialainen - ase  
 aate (ismi, ideologia, uskonto, jne) - isme  
 aatteen kannattaja - iste  
-aavikko (hiekkaerämaa) - sablostan  
+aavikko (hiekkaerämaa) - sablestan  
 abessiivi - abesive  
 Abhaasia - Apsua  
 ablatiivi - abolative  
@@ -361,7 +361,7 @@ edustaja (asianajaja) - vakiler
 Egypti - Misria  
 egyptiläinen - misre  
 ehdottaa (ehdotus) - propoze  
-ehkä (mahdollisesti) - ablo  
+ehkä (mahdollisesti) - bil e  
 ei - no  
 ei koskaan (ei kertaakaan) - no sate  
 ei kukaan - no jen  
@@ -423,7 +423,7 @@ entsyymi - enzim
 epäaktiivinen (pois toiminnasta) - anative  
 epäillä (olla uskomatta) - ankrede  
 epäilys - xanke  
-epäilyttävä - xankable  
+epäilyttävä - xankebil  
 epänormaali - annorme  
 epäonni - dusi zar  
 epäonni - dusozar  
@@ -665,7 +665,7 @@ hetkellinen - sate di
 hevonen - gude  
 hidas - anhaste  
 hiekka - sable  
-hiekkalinna - sabloburge  
+hiekkalinna - sableburge  
 hieno (hienojakoinen) - faine  
 hieroa (vaivata; hieronta) - masaje  
 hiili - karbe  
@@ -796,7 +796,7 @@ ideogrammi - ideograf
 ies - yuge  
 ihme (ihmeellinen, ällistyttävä) - ajibe  
 ihme - ajibaje  
-ihmeteltävä - ajibable  
+ihmeteltävä - ajibebil  
 ihminen - human  
 ihmiset (passiivin pronomini) - men  
 ihmiskunta - humania  
@@ -818,8 +818,8 @@ ilmastoida (ilmastointi) - klimize
 ilmastonmuutos - klimomute  
 ilmastotiede (klimatologia) - klimolojia  
 ilmavoimat - airorde  
-ilmeinen (silminnähtävä) - exvidable  
 ilmeinen (silminnähtävä) - exvide  
+ilmeinen (silminnähtävä) - exvidebil  
 ilmiasu (ulkonäkö; näyttää jltkn) - rupe  
 ilmoittaa - nunce  
 ilostuttaa (tyydyttää) - sukife  
@@ -966,7 +966,7 @@ juna - tren
 junakaappari - trenkaper  
 junarata (rautatie) - trendau  
 juoksija - korer  
-juoksuhiekka - movosable  
+juoksuhiekka - movesable  
 juoni (salaliitto) - siroplan  
 juosta - kore  
 Jupiter - jupiter  
@@ -1163,7 +1163,7 @@ kello (ajannäyttäjä) - horloger
 kellonaika (ajankohta) - sate  
 kellotorni - horlogotore  
 kellua (kelluke, poiju) - boi  
-kelpo (kohtalainen, okei) - okeyable  
+kelpo (kohtalainen, okei) - okeibil  
 keltainen - limonrange  
 kelvin (K) - kelvin  
 kemia - kimolojia  
@@ -1193,7 +1193,7 @@ keskus (keskikohta) - zung
 keskustelu (debatti) - lone  
 keskusteluhuone - blablakan  
 kestävä (krooninen) - durike  
-kestävä (luja) - durable  
+kestävä (luja) - durebil  
 kestää (kulua, viedä aikaa; kestoaika, kesto, aika) - dur  
 kesy - dosile  
 kesyttää - dosile  
@@ -1430,7 +1430,7 @@ kunnioitus (arvostus) - onor
 kuntosali (punttisali) - balekan  
 kuokka - cope  
 kuolemanjälkeinen - posmortal  
-kuolevainen - mortable  
+kuolevainen - mortebil  
 kuolinluettelo - nekroliste  
 kuolla (kuolema, kuolo; kuollut, vainaa) - morte  
 kuoppa (kolo) - kavaje  
@@ -1478,7 +1478,6 @@ kuvanveistäjä - skulter
 kuvaruutu - ekran  
 kuvitella (kuvittelu, mielikuvitus, fantasia) - fantas  
 Kuwait - Kuvaitia  
-kykenevä (voiva) - ablan  
 kyllä - ye  
 kylmä - lenge  
 kylpy (kylpeä) - banya  
@@ -1575,7 +1574,6 @@ lasite - glasize
 laskea (lasku, laskelma, laskutoimitus) - hisabe  
 laskea tasoa - dusdarge  
 laskeutua - deskale  
-lasku (faktuura) - bil  
 laskuoppi (aritmetiikka) - hisabia  
 latinalaiset aakkoset - latini harfia  
 latinoida - latinkitabe  
@@ -1753,7 +1751,7 @@ länsi - veste
 läpi - tra  
 läpikäydä (passiivin muodostava verbi) - be  
 läpileikkaus - tomografe  
-läpinäkymätön - antravidable  
+läpinäkymätön - antravidebil  
 läsnäolo - zayia  
 lätty (räiskäle, pannukakku) - krepe  
 lääke - tibaje  
@@ -2186,7 +2184,7 @@ olla samaa mieltä - samrai
 olla taipuvainen - ive  
 olla vuorovaikutuksessa - interate  
 olla väliä (olla tärkeä) - si ham  
-olla yhtä kuin - paru  
+olla yhtä kuin - bepare  
 olut (kalja) - bir  
 oma (-nsa) - se su  
 Oman - Oman  
@@ -2340,9 +2338,9 @@ parametri (oheisarvo) - parametre
 paranormaali (normaalista poikkeava) - paranorme  
 parantaa (parantua) - resale  
 parantava - tibive  
-parantumaton - ankurable  
+parantumaton - ankurebil  
 Pariisi - Paris  
-parillinen luku - pari numbe  
+parillinen luku - pare nume  
 parkkipaikka - garoparke  
 parranajoterä - razor  
 parsa - asparge  
@@ -3135,7 +3133,7 @@ sähköposti - eletroposte (e-poste)
 säie (kuitu) - lineme  
 säilyttäjä - hafizer  
 säilyttää (varjella, säästää) - hafize  
-särkyvä - fragable  
+särkyvä - fragebil  
 särö (halkeama, rikkoutuma, puhkeama) - ruture  
 säteillä - rade  
 säteily - radia  
@@ -3227,8 +3225,8 @@ tasapaino - parvezia
 tasavalta - komunkratia  
 tasku - jebe  
 taskuveitsi (linkkuveitsi) - jebecaku  
-taso - par  
-tasoittaa (tasata) - pare  
+taso - parestan  
+tasoittaa (tasata) - parife  
 tatuointi - tato  
 taulukko - datotable  
 taulukoida - tablate  
@@ -3341,7 +3339,7 @@ toimintahäiriö - dusfunce
 toimintahäiriö - dusfunse  
 toimisto (konttori, byroo) - bure  
 toimittaja (journalisti, lehtimies) - gazeter  
-toimiva - funcable  
+toimiva - funcebil  
 toinen (2.) - duime  
 toisiaan (keskenään; molemminpuolinen, keskinäinen) - unale  
 toisiaan (toinen toistaan) - semen  
@@ -3529,11 +3527,11 @@ usein - poli mar
 usko (luottamus) - xin  
 uskoa (luottaa) - krede  
 uskoa (luottaa) - xine  
-uskomaton - ankredable  
+uskomaton - ankredebil  
 uskonnoton - andiniste  
 uskonnoton - ankrediste  
 uskonto - din  
-uskottava - kredable  
+uskottava - kredebil  
 uskottu (luotettu) - bekrede  
 uskovainen - diniste  
 uskovainen - krediste  
@@ -3560,7 +3558,7 @@ vaha - mum
 vahingollinen (vaurioittava) - avarive  
 vaihe (etappi) - faze  
 vaihtaa - badle  
-vaihtoehto - cuzable  
+vaihtoehto - cuzebil  
 vaijeri (metallilanka) - metalline  
 vaikeus (hankaluus) - dushal  
 vaikuttaa (vaikutus, tulos) - asar  
@@ -3647,9 +3645,8 @@ verkosto - nete
 vermutti - vermute  
 verrata (vertailla) - konpare  
 versio (käännös, muunnelma) - version  
-vertainen - paran  
 vertainen - parike  
-vertaus (paraabeli) - parable  
+vertaus (paraabeli) - parebil  
 vesi - sui  
 vesimeloni - arbuze  
 vesinokkaeläin - batakrote  
@@ -3736,7 +3733,7 @@ vivisektio (elävältäleikkaus) - jivotome
 Višnu - Vixnu  
 vohveli - vafle  
 voi - makan  
-voida (osata, pystyä) - able  
+voida (osata, pystyä) - bil  
 voileipä - sanduice  
 voima - balia  
 voimakas (vahva) - bale  
@@ -3812,7 +3809,7 @@ ydinfuusio - korofuzion
 ydinfysiikka - kore fizikia  
 yhdeksän (9) - nove  
 yhdeksäs - novime  
-yhdessä - kono  
+yhdessä - a kon  
 Yhdistyneet Arabiemiirikunnat - Uni Arabi Amiria (UAA)  
 Yhdistyneet Arabiemiirikunnat - Unite Arabe Amiria (UAA)  
 yhdistää (kytkeä) - konnete  
@@ -3820,7 +3817,7 @@ yhdistää - una
 Yhdysvallat (ns. Amerikka) - Unite State de Amerika (USA)  
 yhdysvaltalainen (ns. Amerikkalainen) - USA  
 yhteinen - komune  
-yhteinen - kone  
+yhteinen - kon  
 yhteiskieli - konbaxe  
 yhteisymmärrys - samrayia  
 yhteisö (kokoontuminen, kollektiivi) - jamia  
@@ -3886,7 +3883,7 @@ zulu - Zulu
 äly - intelige  
 älykäs - inteligente  
 älymystö (intelligentsia) - inteligentia  
-älyttävä (ymmärrettävä) - inteligable  
+älyttävä (ymmärrettävä) - inteligebil  
 äsken (vasta, juuri) - a neu  
 ääh (plääh) - me  
 ääni (äänestää) - vote  

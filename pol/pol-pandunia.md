@@ -927,7 +927,7 @@ itr - ytrium
 Izrael - Israel  
 iść (przemieścić się) - kite  
 iść w dół (iść pod spód, iść na dno) - go sube  
-iść wzdłuż (pójść wzdłuż) - parlinu  
+iść wzdłuż (pójść wzdłuż) - parlinife  
 iść, maszerować - marce  
 
 ## J  
@@ -1142,8 +1142,8 @@ komisja (komitet) - konmisia
 Komory - Komoro nesia  
 kompas (namagnesowana igła) - pontopin  
 kompatriota - konpatrian  
-kompatybilny (pasujący) - konfuncable  
-kompatybilny (pasujący) - konfunsable  
+kompatybilny (pasujący) - konfuncebil  
+kompatybilny (pasujący) - konfunsebil  
 kompost - biocaniver  
 komputer - konputer  
 komunista - koncaniste  
@@ -1348,8 +1348,8 @@ lody - aiskrem
 logiczny - ratolojike  
 logika, dedukcja - ratolojia  
 logofil (miłośnik słów) - logofiliste  
-lojalność (wierność) - bekredablia  
-lojalny (wierny) - bekredable  
+lojalność (wierność) - bekredebilia  
+lojalny (wierny) - bekredebil  
 Londyn - London  
 lorens - laurensium  
 lot (latać, lecieć) - fei  
@@ -1596,7 +1596,7 @@ mydło - sabun
 mylić (gmatwać, zmieszać, konsternować; smieszany, skonfudowany) - ruhmixe  
 mysz - mux  
 myśleć (dumać; myśl, pomysł) - fikre  
-móc, umieć - able  
+móc, umieć - bil  
 mój - mi su  
 mówić (mowa) - loge  
 mózg - serebre  
@@ -1814,7 +1814,7 @@ ogórek kiwano - kornemelon
 ogórek melon - melon  
 ojciec - pa  
 ojczyzna - patria  
-okej, spoko, akceptowalny - okeyable  
+okej, spoko, akceptowalny - okeibil  
 okno - janel  
 oko - oke  
 około; przybliżony - yage  
@@ -1825,7 +1825,7 @@ on, ona, ono - ya
 oni - yamen  
 online (na linii, w sieci) - a line  
 opaska do włosów - kexbende  
-opcja (wybór) - cuzable  
+opcja (wybór) - cuzebil  
 opinia, pogląd - rai  
 opis (rzedstawienie; wykres; obrazowy, graficzny) - grafe  
 opisać (zakwalifikować; cecha, właściwość, parametr) - sife  
@@ -1963,7 +1963,7 @@ pełny - pure
 pfuj (fuj) - bah  
 pianino - piano  
 piasek, piach - sable  
-piaskowiec - sablopetre  
+piaskowiec - sablepetre  
 pidżin, język pomocniczy - pijin  
 piec (piekarnik) - tanur  
 piec - beke  
@@ -2098,7 +2098,7 @@ poniższy - subike
 popiół - hui  
 poporodowy - posnatal  
 popołudnie - xamden  
-poprawny (wykonalny) - funcable  
+poprawny (wykonalny) - funcebil  
 poprzedni - pre  
 populacja - demomultia  
 popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać - yale  
@@ -2179,7 +2179,7 @@ pralka - vaxomaxin
 prawa autorskie - kopohake  
 prawa człowieka - human hake  
 prawa strona - raite  
-prawdopodobnie (możliwie) - ablo  
+prawdopodobnie (możliwie) - bil e  
 prawdziwy (rzeczywisty, szczery) - jin  
 prawdziwy (rzeczywisty, szczery) - vere  
 prawicowiec (prawak) - raitiste  
@@ -2304,7 +2304,7 @@ puma (kuguar) - puma
 punkt - binde  
 pustka - kale  
 pusty - kale  
-pustynia - sablostan  
+pustynia - sablestan  
 pułapka - kapotruke  
 pyszny - yamyam di  
 pytajny, związany z pytaniem - sualive  
@@ -2337,7 +2337,6 @@ płytki - fasokaribe
 ## R  
 
 rabuś (grabieżca) - luter  
-rachunek (faktura) - bil  
 rachunek (formalny system obliczeń) - kalkulia  
 racjonalny, rozsądny - rationi  
 rad - radium  
@@ -2361,7 +2360,7 @@ rasizm - rasisme
 ratować - salve  
 ratownik - salver  
 raz (jeden raz) - unomaro  
-razem (wspólnie) - kono  
+razem (wspólnie) - a kon  
 rdzeń (jądro, pestka) - kore  
 rebelia, powstanie - rebelion  
 recepta, receptura, przepis - resete  
@@ -2479,7 +2478,6 @@ równina (plaskowyż, plateau) - platostan
 równoległy (podłużny) - parline  
 równowaga - parvezia  
 równy - pare  
-równy - paran  
 równy - parike  
 róża - rode  
 róża - roze  
@@ -2888,7 +2886,7 @@ tropiki - garmozone
 trucizna (toksyna; toksyczny, trujący) - toxe  
 trudność (trud) - dushal  
 trwać (zająć czas; przez; trwanie) - dur  
-trwały (wytrzymały, podtrzymywalny) - durable  
+trwały (wytrzymały, podtrzymywalny) - durebil  
 tryb nocny - nocomode  
 Trynidad i Tobago - Trinidade e Tobago  
 trzcina cukrowa - sukar gana  
@@ -3152,7 +3150,7 @@ wspaniały - susife
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super  
 wsparcie (wzmocnienie, zasilenie) - maxobalaje  
 wspinać się (wspiąć się) - askale  
-wspólny (wzajemny) - kone  
+wspólny (wzajemny) - kon  
 wspólny - komune  
 wspólny język - konbaxe  
 współczucie - samemote  
@@ -3218,7 +3216,7 @@ wzywać (wezwać, dodawać, dodać) - zayife
 wóz, wózek - gar  
 wąchać - gande  
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - xanke  
-wątpliwy (niewiarygodny, podejrzany) - xankable  
+wątpliwy (niewiarygodny, podejrzany) - xankebil  
 wąż - serpe  
 węgiel - karbe  
 Węgry - Magyaria  

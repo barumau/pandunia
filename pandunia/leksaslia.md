@@ -33,9 +33,9 @@ pandunia di loga ya lai ze poli basha da dunia.
 | pandunia | loga su asal |
 |----------|--------------|
 |**a**|fra:à, spa:por:a, eng:a-,ad-, rus:а-|
+|**a kon**|zho:共 (gòng), yue:共 (gung4), kor:공 (gong), vie:cộng, jpn:共 (kyō-), eng:fra:spa:por:con-|
 |**abe**|eng:fra:spa:por:ab- + rus:апо- (apo-)|
 |**abete**|spa:por:abeto|
-|**able**|tur:bilmek + fra:habile, spa:por:hábil, eng:able;ability|
 |**acar**|fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|
 |**aci**|spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), ben:আঁচে (hache), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|
 |**acinium**|eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم|
@@ -184,7 +184,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**betula**|spa:abedul, por:bétula, ara: بَتُولَا‎ (batūlā)|
 |**bie**|eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)|
 |**bibre**|deu:Biber, eng:beaver, rus:бобр (bobr), jpn:ビーバー (bībā), kor:비버 (bibeo)|
-|**bil**|eng:bill, hin:बिल (bil), may:bil|
+|**bil**|tur:bilmek + eng:-bility, fra:-bilité, spa:-bilidad, por:-bilidade|
 |**bilor**|ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio|
 |**bine**|ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)|
 |**binde**|hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)|
@@ -748,7 +748,6 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**komale**|hin:कोमल (komal), tel:కోమలము (kōmalamu), khm:កោមល (kaomɑl)|
 |**kompania**|eng:company, hin:कंपनी (kampanī), rus:компания (kompaniya), tgl:kompanya, pol:kompania|
 |**komune**|eng:common, spa:común, por:comum, fra:commun, rus:коммунальный (kommunal’nyy)|
-|**kono**|zho:共 (gòng), yue:共 (gung4), kor:공 (gong), vie:cộng, jpn:共 (kyō-), eng:fra:spa:por:con-|
 |**koncung**|zho:昆蟲 (kūnchóng), yue:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), jpn:昆蟲 (konchū)|
 |**kong**|zho:孔 (kǒng), yue:孔 (hung2), wuu:孔 (khon2), jpn:孔 (kō), kor:공 (gong), vie:hỏng|
 |**konserte**|eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)|

@@ -29,7 +29,7 @@ aceite de oliva - zaitunlipe
 aceituna - zaitun  
 acelga - selge  
 acento - baloton  
-aceptable - okeyable  
+aceptable - okeibil  
 aceptar - acepe  
 aciano (azulejo) - nilcentaur  
 aclarar (clarificar) - klarife  
@@ -128,7 +128,7 @@ algodón - goton
 algún - yo  
 algún día (algún vez) - yo sate  
 alicate - pinser  
-alinear - parlinu  
+alinear - parlinife  
 allí (allá) - a le  
 almendra - badam  
 almirante - haiamirer  
@@ -164,7 +164,6 @@ americio - amerikium
 amhara - Amare  
 amigo (simpático, amable, tierno, dulce) - doste  
 amistad (compañerismo) - dostia  
-amoldarse - konformu  
 amoldarse - konforme  
 amperio - amper  
 ampolla (vial) - ampul  
@@ -226,7 +225,7 @@ arco iris - rangarke
 ardiente (encendido) - hoge  
 ardilla - ekore  
 arena - sable  
-arenas movedizas - movosable  
+arenas movedizas - movesable  
 Argelia - Zayeria  
 Argentina - Argentin  
 argumento - argum  
@@ -774,8 +773,8 @@ comparar (equiparar) - konpare
 compartir (tener en común) - komune  
 compasión - samemote  
 compasión - konpatia  
-compatible - konfuncable  
-compatible - konfunsable  
+compatible - konfuncebil  
+compatible - konfunsebil  
 compatriota (cotérraneo) - konpatrian  
 compatriota - samodexan  
 compañero (compinche) - konjen  
@@ -926,7 +925,6 @@ cuchara - camaca
 cuchillo - caku  
 cuco - kuku  
 cuello (nuca, pescuezo) - nuke  
-cuenta (factura) - bil  
 cuerno - korne  
 cuerpo (corporal, corpóreo) - bade  
 cuerpo celeste - astre  
@@ -1035,7 +1033,7 @@ descase en paz - repauze in pace (RIP)
 desconectar - dekonnete  
 descriptivo - sifive  
 desfigurar - dusforme  
-desierto - sablostan  
+desierto - sablestan  
 designar - desine  
 deslizar - glise  
 desnudo - nude  
@@ -1128,10 +1126,10 @@ dualismo - duisme
 dubnio - dubnium  
 ducha - duxe  
 duda - xanke  
-dudoso - xankable  
+dudoso - xankebil  
 dueño - maler  
 duna - duna  
-durable - durable  
+durable - durebil  
 durar (llevar tiempo, transcurrir; duración) - dur  
 duro - gate  
 dátil - tamar  
@@ -1236,7 +1234,6 @@ envolver (envoltura) - lifafe
 enzima - enzim  
 equal (similar) - sam:  
 equilibrado (par) - pare  
-equilibrado (par) - paran  
 equilibrado (par) - parike  
 equilibrio - parvezia  
 equipaje - bagaje  
@@ -1340,8 +1337,8 @@ europio - europium
 evaluación (crítica) - krite  
 evangelio - evangil  
 eviar por correo - poste  
-evidente - exvidable  
 evidente - exvide  
+evidente - exvidebil  
 exacto (preciso; justo, exactamente) - juste  
 excelente - susife  
 excepto (exceptuar) - excepe  
@@ -1803,7 +1800,7 @@ insulto (ofensa) - dusnam
 insulto (ofensa, afrenta) - ninde  
 inteligencia (intelecto) - intelige  
 inteligencia artificial - artofete intelige (AI)  
-inteligible - inteligable  
+inteligible - inteligebil  
 intenso (brusco, ácido, fuerte, afilado, rápido) - tiz:  
 intentar (probar) - probe  
 intercambiar (canjear) - badle  
@@ -1902,7 +1899,7 @@ julio - lun cete
 jungla - jangle van  
 junio - lun sixe  
 juntar (junta) - junte  
-juntos - kono  
+juntos - a kon  
 juntura - junture  
 Jupiter - jupiter  
 justicia - adalia  
@@ -1961,8 +1958,8 @@ laurencio - laurensium
 lava - fuzopetre  
 lavadora - vaxomaxin  
 lavar - vaxe  
-leal (fiel) - bekredable  
-lealtad (fidelidad) - bekredablia  
+leal (fiel) - bekredebil  
+lealtad (fidelidad) - bekredebilia  
 lección - xulaje  
 leche - milke  
 leche de soja - soimilke  
@@ -2146,7 +2143,7 @@ mar - hai
 maratí - marate  
 maratón - maraton  
 maravilla (maravilloso, asombroso) - ajibe  
-maravilla - ajibable  
+maravilla - ajibebil  
 maravilloso (magnífico) - super  
 marcador - puntoban  
 marcar (marca, huella, mancha) - marke  
@@ -2427,7 +2424,7 @@ ningunos - no jen
 niobio - niobium  
 nitrógeno - nitre  
 Niue - Niue  
-nivel - par  
+nivel - parestan  
 niña - yune fem  
 niño - yune man  
 niño o niña - bace  
@@ -2476,7 +2473,7 @@ número (contar) - nume
 número (muchedumbre) - multia  
 número de identificación personal - sekuronume  
 número entero - holonumbe  
-número par - pari numbe  
+número par - pare nume  
 
 ## O  
 
@@ -2519,9 +2516,9 @@ olvidar - dememe
 ominoso (amenazador) - dusosine  
 Omán - Oman  
 onda - onde  
-opaco - antravidable  
+opaco - antravidebil  
 opción (alternativa) - otion  
-opción - cuzable  
+opción - cuzebil  
 opinar - rai  
 opinión (juicio, consideración) - rai  
 oponerse (resistir) - xate  
@@ -2630,7 +2627,7 @@ participar - parte
 partidario de infracción de copyright - piratiste  
 partido (grupo) - partia  
 Partido Pirata - piratisti partia  
-parábola - parable  
+parábola - parebil  
 parámetro - param  
 pasa (uva pasa) - ganputau  
 pasado - prezaman  
@@ -2789,7 +2786,7 @@ plátano (banana) - banan
 pobre (miserable) - miskin  
 poción - tibesui  
 poco (pocos) - kam  
-poder (posible) - able  
+poder (posible) - bil  
 podrido (cariado) - pude  
 podsol - huidarte  
 poema - xir  
@@ -2824,7 +2821,7 @@ porto - porta
 Portugal - Portugal  
 posar (pose, postura) - poze  
 poseer (tener, ser dueño de; propiedad) - male  
-posiblemente - ablo  
+posiblemente - bil e  
 posproducción - posprodute  
 poste (estaca, palo) - baton  
 posterior - postre  
@@ -3587,7 +3584,7 @@ usar (aplicar) - uze
 uso (utilidad, beneficio; útil (beneficioso) - faide  
 ustedes - tumen  
 usuario - uzer  
-utilizable (disponible) - uzable  
+utilizable (disponible) - uzebil  
 uva - putau  
 Uzbekistán - Uzbekia  
 uña - nahun  

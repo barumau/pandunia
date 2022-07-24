@@ -1,8 +1,8 @@
 # pandunia–fra va lexaslia
+**a kon** ** ← zho:共 (gòng), yue:共 (gung4), kor:공 (gong), vie:cộng, jpn:共 (kyō-), eng:fra:spa:por:con-  
 **a** *a (dans, en, chez)* ← fra:à, spa:por:a, eng:a-,ad-, rus:а-  
 **abe** ** ← eng:fra:spa:por:ab- + rus:апо- (apo-)  
 **abete** *sapin* ← spa:por:abeto  
-**able** *pouvoir (être capable; possible)* ← tur:bilmek + fra:habile, spa:por:hábil, eng:able;ability  
 **acar** ** ← fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar  
 **aci** *éternuer (atchoum)* ← spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), ben:আঁচে (hache), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum  
 **acinium** *actinium* ← eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم  
@@ -151,7 +151,7 @@
 **betula** *bouleau* ← spa:abedul, por:bétula, ara: بَتُولَا‎ (batūlā)  
 **bibre** ** ← deu:Biber, eng:beaver, rus:бобр (bobr), jpn:ビーバー (bībā), kor:비버 (bibeo)  
 **bie** *organisme* ← eng:deu:fra:spa:por:pol:may:swa:tur:bio-, rus:био- (bio-)  
-**bil** ** ← eng:bill, hin:बिल (bil), may:bil  
+**bil** *pouvoir (être capable; possible)* ← tur:bilmek + eng:-bility, fra:-bilité, spa:-bilidad, por:-bilidade  
 **bilor** *cristal* ← ara: بِلَّوْر‎ (billawr), hin:बिल्लौर (billaur), may:hablur, tur:billûr, amh:በሉር (bälur) + spa:abalorio  
 **binde** ** ← hin:बिंदु (bindu), tha:พินทุ (pintu), eng:bindi (holy dot), rus:бинди (bindi)  
 **bine** *construire* ← ara:(banā), hin: बनाना (banānā), urd:(banānā), fas:(banā), tur: bina, jpn:ビル (biru)  
@@ -716,7 +716,6 @@
 **komune** ** ← eng:common, spa:común, por:comum, fra:commun, rus:коммунальный (kommunal’nyy)  
 **koncung** *insecte* ← zho:昆蟲 (kūnchóng), yue:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), jpn:昆蟲 (konchū)  
 **kong** ** ← zho:孔 (kǒng), yue:孔 (hung2), wuu:孔 (khon2), jpn:孔 (kō), kor:공 (gong), vie:hỏng  
-**kono** ** ← zho:共 (gòng), yue:共 (gung4), kor:공 (gong), vie:cộng, jpn:共 (kyō-), eng:fra:spa:por:con-  
 **konserte** *concert* ← eng:fra:concert, spa:concierto, por:concerto, deu:Konzert, rus:концерт (koncert), may:tur:konser, jpn:コンサート (konsāto), kor:콘서트 (konseoteu), hin:कॉन्सर्ट (kŏnsarṭ)  
 **konus** *cône* ← eng:por:cone, fra:cône, spa:cono, rus:конус, may:kon, swa:tur:koni  
 **kope** *copie* ← eng:copy, fra:copie, spa:por:copia, rus:копия (kopiya), hin:कापी (kāpī), tur:kopya, may:kopi, zho:拷貝 (kǎobèi), jpn:コピー (kopī)  

@@ -1,8 +1,8 @@
 # pandunia–eng va lexaslia
+**a kon** *together (jointly, mutually)* ← Mandarin:共 (gòng), Cantonese:共 (gung4), Korean:공 (gong), Vietnamese:cộng, Japanese:共 (kyō-), English:French:Spanish:Portuguese:con-  
 **a** *by (at, in, on)* ← French:à, Spanish:Portuguese:a, English:a-,ad-, Russian:а-  
 **abe** *away* ← English:French:Spanish:Portuguese:ab- + Russian:апо- (apo-)  
 **abete** *fir tree* ← Spanish:Portuguese:abeto  
-**able** *can (be able; ability, possibility; able, possible)* ← Turkish:bilmek + French:habile, Spanish:Portuguese:hábil, English:able;ability  
 **acar** *pickle* ← Persian:آچار (âčâr), Hindi:अचार (acār), Arabic:اچار‎ (əčar), English:Portuguese:achar, Swahili:achari, Malay:acar  
 **aci** *sneeze (achoo)* ← Spanish:achís, Mandarin: 阿嚏 (ātì), Korean:에취 (echwi), Bengali:আঁচে (hache), Russian:апчхи, Vietnamese:hắt xì, English:achoo, French:atchoum  
 **acinium** *actinium* ← English:actinium, French:actinium, Spanish:actinio, Portuguese:actínio, Russian:актиний, Mandarin:锕 (ā), Japanese:アクチニウム, Korean:악티늄, Vietnamese:actini, Hindi:एक्टिनियम, Bengali:অ্যাক্টিনিয়াম, Malay:aktinium, Swahili:aktini, Arabic: اكتنيوم  
@@ -151,7 +151,7 @@
 **betula** *birch tree* ← Spanish:abedul, Portuguese:bétula, Arabic: بَتُولَا‎ (batūlā)  
 **bibre** *beaver* ← deu:Biber, English:beaver, Russian:бобр (bobr), Japanese:ビーバー (bībā), Korean:비버 (bibeo)  
 **bie** *organism (organic life)* ← English:deu:French:Spanish:Portuguese:Polish:Malay:Swahili:Turkish:bio-, Russian:био- (bio-)  
-**bil** *bill (invoice)* ← English:bill, Hindi:बिल (bil), Malay:bil  
+**bil** *can (be able; ability, possibility; able, possible)* ← Turkish:bilmek + English:-bility, French:-bilité, Spanish:-bilidad, Portuguese:-bilidade  
 **bilor** *crystal* ← Arabic: بِلَّوْر‎ (billawr), Hindi:बिल्लौर (billaur), Malay:hablur, Turkish:billûr, Amharic:በሉር (bälur) + Spanish:abalorio  
 **binde** *dot (spot)* ← Hindi:बिंदु (bindu), Thai:พินทุ (pintu), English:bindi (holy dot), Russian:бинди (bindi)  
 **bine** *build (building)* ← Arabic:(banā), Hindi: बनाना (banānā), Urdu:(banānā), Persian:(banā), Turkish: bina, Japanese:ビル (biru)  
@@ -716,7 +716,6 @@
 **komune** *common (shared)* ← English:common, Spanish:común, Portuguese:comum, French:commun, Russian:коммунальный (kommunal’nyy)  
 **koncung** *insect* ← Mandarin:昆蟲 (kūnchóng), Cantonese:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), Japanese:昆蟲 (konchū)  
 **kong** *hole* ← Mandarin:孔 (kǒng), Cantonese:孔 (hung2), Wu-Chinese:孔 (khon2), Japanese:孔 (kō), Korean:공 (gong), Vietnamese:hỏng  
-**kono** *together (jointly, mutually)* ← Mandarin:共 (gòng), Cantonese:共 (gung4), Korean:공 (gong), Vietnamese:cộng, Japanese:共 (kyō-), English:French:Spanish:Portuguese:con-  
 **konserte** *concert* ← English:French:concert, Spanish:concierto, Portuguese:concerto, deu:Konzert, Russian:концерт (koncert), Malay:Turkish:konser, Japanese:コンサート (konsāto), Korean:콘서트 (konseoteu), Hindi:कॉन्सर्ट (kŏnsarṭ)  
 **konus** *cone* ← English:Portuguese:cone, French:cône, Spanish:cono, Russian:конус, Malay:kon, Swahili:Turkish:koni  
 **kope** *copy (duplicate, replica)* ← English:copy, French:copie, Spanish:Portuguese:copia, Russian:копия (kopiya), Hindi:कापी (kāpī), Turkish:kopya, Malay:kopi, Mandarin:拷貝 (kǎobèi), Japanese:コピー (kopī)  

@@ -17,9 +17,8 @@ a sababe de - ponieważ, bo
 a sube - pod (poniżej)  
 a supre - nad  
 a zai den - dziś, dzisiaj  
+a kon - razem (wspólnie)  
 abete - jodła  
-able - móc, umieć  
-• ablo - prawdopodobnie (możliwie)  
 acar - marynować  
 acara - kisić (marynować)  
 acari - kiszony (marynowany)  
@@ -316,7 +315,8 @@ biosistem - biom
 biotoxe - toksyna  
 biblia - Biblia  
 bibre - bóbr  
-bil - rachunek (faktura)  
+bil - móc, umieć  
+bil e - prawdopodobnie (możliwie)  
 bilor - kryształ  
 bine - budować (zbudować, konstruować; budynek)  
 binite - cegła  
@@ -345,6 +345,7 @@ Bolivia - Boliwia
 bombe - bomba  
 bon - dobry  
 bon zar - dobry los, szczęście  
+konbone - pasować  
 ribone - naprawa (naprawić, naprawiać)  
 riboner - naprawiacz  
 bore - znudzony  
@@ -410,6 +411,8 @@ can - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
 • cania - produkcja  
 • canive - produktywny (żyzny)  
 • canivaje - nawóz  
+koncanisme - komunizm  
+koncaniste - komunista  
 canse - szansa  
 cante - śpiewać (piosenka, pieśń)  
 cantergrupe - chór  
@@ -471,7 +474,7 @@ cupe - ssać
 cute - wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie)  
 cutomun - drzwi wyjściowe  
 cuze - wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)  
-• cuzable - opcja (wybór)  
+• cuzebil - opcja (wybór)  
 
 ## D  
 
@@ -645,7 +648,7 @@ dungia aventur - przygoda w lochu
 dur - trwać (zająć czas; przez; trwanie)  
 • dura - kontynuować; wznawiać, ponawiać  
 • duro - wciąż, nadal  
-• durable - trwały (wytrzymały, podtrzymywalny)  
+• durebil - trwały (wytrzymały, podtrzymywalny)  
 • durike - chroniczny  
 • durize - minąć, mijać (czas)  
 • undure - ciągły (analogowy)  
@@ -836,13 +839,14 @@ fulmosim - wiosna
 fun - pył  
 funcuper - odkurzacz  
 funce - funkcja, stanowisko  
-• funcable - poprawny (wykonalny)  
+• funcebil - poprawny (wykonalny)  
 • dusfunce - awaria (wadliwe działanie)  
+konfuncebil - kompatybilny (pasujący)  
 funge - grzyb  
 fungonete - grzybnia  
 fungopal - sporokarp  
 • dusfunse - awaria (wadliwe działanie)  
-• konfunsable - kompatybilny (pasujący)  
+• konfunsebil - kompatybilny (pasujący)  
 fure - zły (wsciekły, gniewny)  
 furia - gniew, furia  
 furete - tchórz, fretka  
@@ -1504,12 +1508,7 @@ kompania - firma, kompania, korporacja
 komune - dzielić (współdzielić)  
 komune - wspólny  
 komunkratia - republika  
-kone - wspólny (wzajemny)  
-kono - razem (wspólnie)  
-konbone - pasować  
-koncanisme - komunizm  
-koncaniste - komunista  
-konfuncable - kompatybilny (pasujący)  
+kon - wspólny (wzajemny)  
 kontre - być przeciw  
 konjen - towarzysz (partner, kumpel)  
 Konakri Ginia - Gwinea  
@@ -1559,8 +1558,8 @@ kratia - rządzić, władać
 krede - wierzyć  
 krede - ufać (wierzyć, liczyć, polegać)  
 • krediste - wierzący (osoba religijna)  
-bekredable - lojalny (wierny)  
-bekredablia - lojalność (wierność)  
+bekredebil - lojalny (wierny)  
+bekredebilia - lojalność (wierność)  
 • ankrediste - niewierny  
 kredokarde - karta kredytowa  
 krem - krem  
@@ -2223,7 +2222,7 @@ okokex - rzęsa
 okosui - łza  
 okosuigas - gaz łzawiący  
 okei - zaakceptować, akceptować, powiedzieć okej, mówić okej  
-• okeyable - okej, spoko, akceptowalny  
+• okeibil - okej, spoko, akceptowalny  
 Olandi nesia - Wyspy Alandzkie  
 Oman - Oman  
 onde - fala  
@@ -2316,11 +2315,10 @@ papaya - papaja
 papir - dokument  
 Papua Neu Ginia - Papua Nowa Gwinea  
 pare - równy  
-• paran - równy  
 • parike - równy  
 • prepare - gotowy (przygotować, przygotowywać)  
 parline - równoległy (podłużny)  
-parlinu - iść wzdłuż (pójść wzdłuż)  
+parlinife - iść wzdłuż (pójść wzdłuż)  
 parvezia - równowaga  
 Paraguai - Paragwaj  
 paraye - wyrzutek  
@@ -2660,8 +2658,8 @@ besabovole - interesujący
 sababe - powód (przyczyna; spowodować, powodować)  
 sabate - szabat, szabas  
 sable - piasek, piach  
-sablopetre - piaskowiec  
-sablostan - pustynia  
+sablepetre - piaskowiec  
+sablestan - pustynia  
 sabun - mydło  
 sade - zwykły, zwyczajny, prosty  
 safe - czysty (wyczyścić, czyścić)  
@@ -3265,7 +3263,7 @@ xaman - szaman
 xampan - Champagne  
 Xanghai - Szanghaj  
 xanke - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
-• xankable - wątpliwy (niewiarygodny, podejrzany)  
+• xankebil - wątpliwy (niewiarygodny, podejrzany)  
 xante - spokojny  
 xara - piła  
 xarakan - tartak  

@@ -1,8 +1,8 @@
 # pandunia–epo va lexaslia
+**a kon** *kune* ← mandarena:共 (gòng), kantona:共 (gung4), korea:공 (gong), vjetnama:cộng, japana:共 (kyō-), angla:franca:hispana:portugala:con-  
 **a** ** ← franca:à, hispana:portugala:a, angla:a-,ad-, rusa:а-  
 **abe** ** ← angla:franca:hispana:portugala:ab- + rusa:апо- (apo-)  
 **abete** *abio* ← hispana:portugala:abeto  
-**able** *povi* ← turka:bilmek + franca:habile, hispana:portugala:hábil, angla:able;ability  
 **acar** ** ← persa:آچار (âčâr), hindia:अचार (acār), araba:اچار‎ (əčar), angla:portugala:achar, svahila:achari, malaja:acar  
 **aci** *terni* ← hispana:achís, mandarena: 阿嚏 (ātì), korea:에취 (echwi), bengala:আঁচে (hache), rusa:апчхи, vjetnama:hắt xì, angla:achoo, franca:atchoum  
 **acinium** *aktinio* ← angla:actinium, franca:actinium, hispana:actinio, portugala:actínio, rusa:актиний, mandarena:锕 (ā), japana:アクチニウム, korea:악티늄, vjetnama:actini, hindia:एक्टिनियम, bengala:অ্যাক্টিনিয়াম, malaja:aktinium, svahila:aktini, araba: اكتنيوم  
@@ -151,7 +151,7 @@
 **betula** ** ← hispana:abedul, portugala:bétula, araba: بَتُولَا‎ (batūlā)  
 **bibre** *kastoro* ← deu:Biber, angla:beaver, rusa:бобр (bobr), japana:ビーバー (bībā), korea:비버 (bibeo)  
 **bie** *organismo* ← angla:deu:franca:hispana:portugala:polona:malaja:svahila:turka:bio-, rusa:био- (bio-)  
-**bil** ** ← angla:bill, hindia:बिल (bil), malaja:bil  
+**bil** *povi* ← turka:bilmek + angla:-bility, franca:-bilité, hispana:-bilidad, portugala:-bilidade  
 **bilor** ** ← araba: بِلَّوْر‎ (billawr), hindia:बिल्लौर (billaur), malaja:hablur, turka:billûr, amhara:በሉር (bälur) + hispana:abalorio  
 **binde** *punkto* ← hindia:बिंदु (bindu), taja:พินทุ (pintu), angla:bindi (holy dot), rusa:бинди (bindi)  
 **bine** *konstrui* ← araba:(banā), hindia: बनाना (banānā), urdua:(banānā), persa:(banā), turka: bina, japana:ビル (biru)  
@@ -716,7 +716,6 @@
 **komune** *komuna* ← angla:common, hispana:común, portugala:comum, franca:commun, rusa:коммунальный (kommunal’nyy)  
 **koncung** ** ← mandarena:昆蟲 (kūnchóng), kantona:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), japana:昆蟲 (konchū)  
 **kong** ** ← mandarena:孔 (kǒng), kantona:孔 (hung2), vua:孔 (khon2), japana:孔 (kō), korea:공 (gong), vjetnama:hỏng  
-**kono** *kune* ← mandarena:共 (gòng), kantona:共 (gung4), korea:공 (gong), vjetnama:cộng, japana:共 (kyō-), angla:franca:hispana:portugala:con-  
 **konserte** *koncerto* ← angla:franca:concert, hispana:concierto, portugala:concerto, deu:Konzert, rusa:концерт (koncert), malaja:turka:konser, japana:コンサート (konsāto), korea:콘서트 (konseoteu), hindia:कॉन्सर्ट (kŏnsarṭ)  
 **konus** *konuso* ← angla:portugala:cone, franca:cône, hispana:cono, rusa:конус, malaja:kon, svahila:turka:koni  
 **kope** *kopio* ← angla:copy, franca:copie, hispana:portugala:copia, rusa:копия (kopiya), hindia:कापी (kāpī), turka:kopya, malaja:kopi, mandarena:拷貝 (kǎobèi), japana:コピー (kopī)  

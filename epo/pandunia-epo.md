@@ -12,10 +12,8 @@ a sababe de - ĉar
 a supre - super  
 a xukre de - dank’al  
 a zai den - hodiaŭ  
+a kon - kune  
 abete - abio  
-able - povi  
-• ablo - eble  
-• ablan - povanta  
 aci - terni  
 acinium - aktinio  
 ade - kutimo  
@@ -222,6 +220,8 @@ biolojia - biologio
 bible - biblia  
 biblia - Biblio  
 bibre - kastoro  
+bil - povi  
+bil e - eble  
 bine - konstrui  
 binoplania - arĥitekturo  
 binoplaner - arĥitekto  
@@ -247,6 +247,7 @@ Bolivia - Bolivio
 bolte - bolto  
 bombe - bombo  
 bon - bona  
+konbone - kongrui  
 ribone - ripari  
 riboner - riparisto  
 bore - enui  
@@ -292,6 +293,8 @@ cakukate - tranĉi
 camaca - kulero  
 campion - ĉampiono  
 can - produkti (fabriki)  
+koncanisme - komunismo  
+koncaniste - komunisto  
 canse - ŝanco  
 cante - kanto  
 cantergrupe - ĥoro  
@@ -955,11 +958,7 @@ komale - mola
 kompania - kompanio (firmao)  
 komune - komuna  
 komunkratia - republiko  
-kone - kuna  
-kono - kune  
-konbone - kongrui  
-koncanisme - komunismo  
-koncaniste - komunisto  
+kon - kuna  
 kontre - kontraŭi  
 Kongfuze - Konfuceo  
 konserte - koncerto  
@@ -1295,7 +1294,7 @@ o - aŭ
 Oceania - Oceanio  
 oke - okulo  
 • okule - okula  
-• okeyable - akceptebla  
+• okeibil - akceptebla  
 onde - ondo  
 onor - honoro (respekto)  
 onore - respektinda  
@@ -1349,8 +1348,8 @@ panke - flugilo
 pante - pantalonoj  
 papagai - papago  
 papaya - papajo  
-par - nivelo  
-pari numbe - para nombro  
+pare nume - para nombro  
+• parestan - nivelo  
 • prepare - preta  
 parvezia - ekvilibro  
 parce - ero  
@@ -1525,7 +1524,7 @@ sabevolive - scivolema
 besabovole - interesa  
 sababe - kialo  
 sable - sablo  
-sablostan - dezerto  
+sablestan - dezerto  
 sabun - sapo  
 safe - pura  
 • safer - purigisto  
@@ -1801,7 +1800,7 @@ veze metal - pezmetalo
 vide - vidi (rigardi)  
 • dusvide - malbonaspekta  
 • exvide - evidenta  
-• exvidable - evidenta  
+• exvidebil - evidenta  
 • suvide - bonaspekta  
 vidou - vidvo  
 viki - vikio  

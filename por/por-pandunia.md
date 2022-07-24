@@ -91,7 +91,7 @@ arbitrário - no ham di
 arbusto (mata) - dipe moke  
 arco - arke  
 areia - sable  
-areia movediça - movosable  
+areia movediça - movesable  
 argila - glutofan  
 argon - argon  
 argumento - argum  
@@ -445,7 +445,7 @@ derretre - fuze
 descanse em paz - repauze in pace (RIP)  
 desconectar - dekonnete  
 desenvolvimento - dargomute  
-deserto - sablostan  
+deserto - sablestan  
 desfigurar - dusforme  
 designar - desine  
 deslizar - glise  
@@ -495,7 +495,7 @@ duna (бархан) - duna
 durar (transcorrer; duração) - dur  
 duro - gate  
 dêixis - dikion  
-dúbio (duvidoso) - xankable  
+dúbio (duvidoso) - xankebil  
 dúbnio - dubnium  
 
 ## E  
@@ -585,8 +585,8 @@ etnia (étnico) - zuke
 eu (me) - mi  
 európio - europium  
 evangelho - evangil  
-evidente - exvidable  
 evidente - exvide  
+evidente - exvidebil  
 exato (preciso) - juste  
 excluir - exkluze  
 exclusivo - exkluzive  
@@ -787,7 +787,7 @@ inseto - koncung
 insônia - ansome  
 inteligência (intelecto) - intelige  
 inteligência artificial - artofete intelige (AI)  
-inteligível - inteligable  
+inteligível - inteligebil  
 interceptar - intercepe  
 internacional - nasomede  
 interromper - interrute  
@@ -933,7 +933,7 @@ manto - juba
 mantra - mantra  
 mar - hai  
 maravilha - ajibe  
-maravilha - ajibable  
+maravilha - ajibebil  
 marcha - marce  
 marfim - gaja dante  
 margarida - margarite  
@@ -1058,7 +1058,7 @@ nicho - nis
 nihonium - niponium  
 ninho (vespiero) - nide  
 nitrogénio - nitre  
-nivel - par  
+nivel - parestan  
 nióbio - niobium  
 nobélio - nobelium  
 noite - noce  
@@ -1111,7 +1111,7 @@ ontem - preden
 opinião - rai  
 opor - xate  
 optar - ote  
-opção - cuzable  
+opção - cuzebil  
 opção - otion  
 ordem - ratibe  
 orelha - or  
@@ -1154,14 +1154,13 @@ papel - kaguje
 papel de parede - murkaguze  
 papoila - medenpapil  
 papoila-dormideira - somopapil  
-par - paran  
 par - parike  
 para-lama - fangodefoban  
 parada de ônibus - bus halte  
 parceiro - partaner  
 parque - parke  
 partida - mace  
-parábola - parable  
+parábola - parebil  
 parâmetro - param  
 passagem - pasdau  
 passagem de volta - retrotikete  
@@ -1244,7 +1243,7 @@ porto - porta
 porto marítimo - haiporta  
 Porto Rico - Portoriko  
 porto-riquenho - portorike  
-possível - able  
+possível - bil  
 poste (estaca) - baton  
 posterior - postre  
 potássio - kalium  

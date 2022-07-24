@@ -22,9 +22,8 @@ a supre - sobre
 a xukre de - gracias a (merced a)  
 a zai - ahora (actualmente)  
 a zai den - hoy  
+a kon - juntos  
 abete - abeto  
-able - poder (posible)  
-• ablo - posiblemente  
 acara - encurtir  
 acari - encurtido  
 aci - estornudar (achís)  
@@ -60,7 +59,7 @@ aishoke - hockey sobre hielo
 aiskrem - helado  
 ajibe - maravilla (maravilloso, asombroso)  
 ajibia - asombro  
-• ajibable - maravilla  
+• ajibebil - maravilla  
 • ajibaje - milagro  
 akare - garrapata (ácaro)  
 akrabe - escorpión (alacrán)  
@@ -354,7 +353,8 @@ biosistem - bioma
 biotoxe - toxina  
 biblia - Biblia  
 bibre - castor  
-bil - cuenta (factura)  
+bil - poder (posible)  
+bil e - posiblemente  
 bilor - cristal  
 bine - construir (edificar)  
 • konbine - combinar  
@@ -390,6 +390,7 @@ Bolivia - Bolivia
 bombe - bomba  
 bon - bueno  
 bon zar - buena suerte  
+konbone - emparejar (quedar)  
 ribone - reparar (arreglar)  
 riboner - reparador  
 bore - aburrido  
@@ -460,6 +461,8 @@ camaca - cuchara
 campion - campeón  
 can - producir (hacer, preparar)  
 • cania - producción  
+koncanisme - comunismo  
+koncaniste - comunista  
 canse - oportunidad (chance)  
 cante - cantar (canción)  
 cantergrupe - coro  
@@ -528,7 +531,7 @@ cupe - chupar (succionar)
 cute - salir (irse)  
 cutomun - salida  
 cuze - elegir (escoger, seleccionar; elección)  
-• cuzable - opción  
+• cuzebil - opción  
 • precuze - predeterminado  
 cuzoliste - menú (catálogo)  
 
@@ -712,7 +715,7 @@ duna - duna
 dungia aventur - juego de mazmorras  
 dur - durar (llevar tiempo, transcurrir; duración)  
 • duro - todavía (aún)  
-• durable - durable  
+• durebil - durable  
 • durike - crónico  
 • durize - pasar (transcurrir)  
 • redure - continuar (reanudar)  
@@ -930,11 +933,12 @@ fun - polvo
 funcuper - aspiradora  
 funce - funcionar  
 • dusfunce - falla (mal funcionamiento)  
+konfuncebil - compatible  
 funge - hongo (moho)  
 fungonete - micelio  
 fungopal - champiñón (seta)  
 • dusfunse - falla (mal funcionamiento)  
-• konfunsable - compatible  
+• konfunsebil - compatible  
 fure - enojado (furioso)  
 furia - ira (furia)  
 furete - hurón  
@@ -1324,7 +1328,7 @@ intromun - entrada
 intraje - intestino (visceras, entrañas, tripas)  
 Indonesia - Indonesia  
 intelige - inteligencia (intelecto)  
-• inteligable - inteligible  
+• inteligebil - inteligible  
 inxala - esperar (desear)  
 IP adres - dirección de IP  
 Irakia - Iraq  
@@ -1657,12 +1661,6 @@ Komoro nesia - Comoros
 kompania - compañía (empresa, corporación)  
 komune - compartir (tener en común)  
 komune - comunitario  
-kono - juntos  
-konbone - emparejar (quedar)  
-koncanisme - comunismo  
-koncaniste - comunista  
-konformu - amoldarse  
-konfuncable - compatible  
 kontre - estar en contra  
 konjen - compañero (compinche)  
 Konakri Ginia - Guinea  
@@ -1711,8 +1709,8 @@ kratia - dominio (reinado)
 krede - creer  
 krede - confiar (contar con)  
 • krediste - creyente  
-bekredable - leal (fiel)  
-bekredablia - lealtad (fidelidad)  
+bekredebil - leal (fiel)  
+bekredebilia - lealtad (fidelidad)  
 • ankrediste - infiel (descreído)  
 kredokarde - tarjeta de crédito  
 krem - crema  
@@ -2417,7 +2415,7 @@ okokex - pestaña
 okosui - lágrima  
 okosuigas - gas lacrimógeno  
 okei - OK (aceptar)  
-• okeyable - aceptable  
+• okeibil - aceptable  
 Olandi nesia - islas Aland  
 Oman - Omán  
 onde - onda  
@@ -2513,17 +2511,16 @@ papagai - loro (papagayo)
 papaya - papaya  
 papir - artículo (documento)  
 Papua Neu Ginia - Papúa Nueva Guinea  
-par - nivel  
 pare - equilibrado (par)  
-pari numbe - número par  
-• parable - parábola  
-• paran - equilibrado (par)  
+pare nume - número par  
 • parike - equilibrado (par)  
+• parestan - nivel  
 • konpare - comparar (equiparar)  
 • prepare - listo (preparado; preparar)  
 • repare - reparar  
+• parebil - parábola  
 parline - paralelo  
-parlinu - alinear  
+parlinife - alinear  
 parvezia - equilibrio  
 Paraguai - Paraguay  
 paraye - paria  
@@ -2903,8 +2900,8 @@ besabovole - interesante (curioso)
 sababe - razón (causa)  
 sabate - sabbat  
 sable - arena  
-• movosable - arenas movedizas  
-sablostan - desierto  
+• movesable - arenas movedizas  
+sablestan - desierto  
 sabun - jabón  
 sade - sencillo (liso)  
 safe - limpio (limpiar)  
@@ -3442,7 +3439,7 @@ Urdun - Jordania
 Uruguai - Uruguay  
 USA - estadounidense  
 uze - usar (aplicar)  
-• uzable - utilizable (disponible)  
+• uzebil - utilizable (disponible)  
 • uzer - usuario  
 uzernam - nombre de usuario  
 Uzbekia - Uzbekistán  
@@ -3514,11 +3511,11 @@ vidopunte - perspectiva (punto de vista)
 • vider - espectador  
 • dusvide - feo  
 • exvide - evidente  
-• exvidable - evidente  
+• exvidebil - evidente  
 • previde - prever (anticipar)  
 • provide - prever (esperar, pensar)  
 • suvide - guapo (bien parecido)  
-• antravidable - opaco  
+• antravidebil - opaco  
 vidomeden - campo de visión  
 vidou - viudo  
 viete - vietnamita  
@@ -3574,7 +3571,7 @@ xaman - chamán (brujo, hechicero)
 xampan - Champaña  
 xampan vin - champaña  
 xanke - duda  
-• xankable - dudoso  
+• xankebil - dudoso  
 xante - tranquilo (calmado)  
 xara - sierra  
 xarafun - serrín  

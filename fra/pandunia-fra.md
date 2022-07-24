@@ -12,8 +12,6 @@ a retre - en arrière
 a vere - vraiment  
 a xukre de - grâce à  
 abete - sapin  
-able - pouvoir (être capable; possible)  
-• ablo - peut-être  
 acari - décapé (mariné)  
 aci - éternuer (atchoum)  
 acinium - actinium  
@@ -47,7 +45,7 @@ ais - glace (glacé, glacial, gelé)
 aishoke - hockey sur glace  
 aiskrem - crème glacée  
 ajibe - merveille (éblouir, étonner, stupéfier, surprendre)  
-• ajibable - merveille  
+• ajibebil - merveille  
 • ajibaje - miracle  
 akare - acarien  
 akrabe - scorpion  
@@ -295,6 +293,8 @@ biolojia - biologie
 biomute - fermenter  
 biosistem - biome  
 biotoxe - toxine  
+bil - pouvoir (être capable; possible)  
+bil e - peut-être  
 bilor - cristal  
 bine - construire  
 binite - brique  
@@ -380,7 +380,7 @@ coklate - chocolat
 coklatobaton - tablette de chocolat  
 cope - houe  
 cuke - toucher  
-• cuzable - option  
+• cuzebil - option  
 
 ## D  
 
@@ -768,7 +768,7 @@ in - en
 • intre - entrer  
 intraje - intestin (entrailles, ventre, boyau)  
 intelige - intelligence  
-• inteligable - intelligible  
+• inteligebil - intelligible  
 iridium - iridium  
 ironia - ironie  
 islam - soumission  
@@ -1346,13 +1346,12 @@ panke - aile
 pante - pantalon  
 papagai - perroquet  
 papaya - papaye  
-par - niveau  
 pare - pair (pareil, egal)  
-pari numbe - nombre pair  
-• parable - parabole  
-• paran - pair (pareil)  
+pare nume - nombre pair  
+• parestan - niveau  
 • konpare - comparer  
 • repare - réparer  
+• parebil - parabole  
 parvezia - équilibre  
 param - paramètre  
 parce - rompir (fragment)  
@@ -1556,9 +1555,9 @@ ruterfordium - rutherfordium
 
 sabe - savoir  
 sable - sable  
-• movosable - sables mouvants  
-sablopetre - grès  
-sablostan - désert  
+• movesable - sables mouvants  
+sablepetre - grès  
+sablestan - désert  
 sabun - savon  
 • safariste - touriste  
 safaroceke - chèque de voyage  
@@ -1854,7 +1853,7 @@ vezometrer - balance (poids)
 vide - voir  
 • dusvide - laid (vilain)  
 • exvide - évident  
-• exvidable - évident  
+• exvidebil - évident  
 • previde - prévoir (anticiper)  
 vidou - veuve  
 • vilaje - village  
@@ -1880,7 +1879,7 @@ vulve - vulve
 xam: - soir (soirée)  
 xampan - Champagne  
 xampan vin - champagne  
-• xankable - douteux (dubitatif)  
+• xankebil - douteux (dubitatif)  
 xante - calme (tranquille)  
 xara - scie  
 xarafun - sciure  

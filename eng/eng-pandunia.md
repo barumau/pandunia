@@ -8,7 +8,6 @@ abattoir (slaughterhouse) - bucekan
 abessive case - abesive  
 Abkhazia - Apsua  
 ablative case - abolative  
-able (capable) - ablan  
 abnormal - annorme  
 about (approximately, nearly, almost) - yage  
 above (over) - a supre  
@@ -17,7 +16,7 @@ Abyssinia - Habaxia
 Abyssinian - habaxe  
 accent (stress) - baloton  
 accept (get, receive) - acepe  
-acceptable - okeyable  
+acceptable - okeibil  
 access (admission; reach) - acese  
 accessibility (ease of access) - fasilia da acese  
 accommodate  - akonmode  
@@ -95,7 +94,7 @@ alcoholic (drunkard) - alkoliste
 alga - alga  
 algebra - jebre  
 Algeria - Zayeria  
-align (go along) - parlinu  
+align (go along) - parlinife  
 all - pan  
 allative case - alative  
 alligator - kortokrokodil  
@@ -421,7 +420,6 @@ big (great, large) - dai
 big city - daisite  
 bike (cycle) - sikle  
 bilingual - duobaxike  
-bill (invoice) - bil  
 billion (giga-) - giga  
 bind (tie, fasten; band, bandage) - bende  
 biochemistry - biokimia  
@@ -596,7 +594,7 @@ Cameroon - Kamerun
 camp - kampe  
 camper - kamper  
 campground - kampostan  
-can (be able; ability, possibility; able, possible) - able  
+can (be able; ability, possibility; able, possible) - bil  
 Canada - Kanada  
 cancel (nullify) - nole  
 candela - kandel  
@@ -831,7 +829,7 @@ command line (console, terminal) - amirlin
 commission (committee) - konmisia  
 commit - konmise  
 common (general) - putonge  
-common (mutual) - kone  
+common (mutual) - kon  
 common (shared) - komune  
 common language - konbaxe  
 communicate (inform about) - sabize  
@@ -844,8 +842,8 @@ compare - konpare
 compass (magnetized needle) - pontopin  
 compassion (sympathy) - samemote  
 compassion - konpatia  
-compatible (supported) - konfuncable  
-compatible (supported) - konfunsable  
+compatible (supported) - konfuncebil  
+compatible (supported) - konfunsebil  
 compatriot (fellow citizen) - konpatrian  
 compatriot - samodexan  
 compete (match, contest) - mace  
@@ -871,7 +869,6 @@ conduit (channel) - kanaler
 cone - konus  
 confirm - konfirme  
 conflict (argument, dispute, quarrel) - palabe  
-conform (fit, mold) - konformu  
 conform (fit, mold) - konforme  
 Confucianism - kongfuzisme  
 Confucious - Kongfuze  
@@ -954,7 +951,7 @@ crash (shut down, terminate) - harabu
 cream - krem  
 creamy (cream colored) - kreme  
 creator - gener  
-credible (believable) - kredable  
+credible (believable) - kredebil  
 credit card - kredokarde  
 crepe - franse krepe  
 crime - krim  
@@ -1086,7 +1083,7 @@ departure - departure
 depress (push away) - deprese  
 depth - fasotelia  
 descriptive - sifive  
-desert - sablostan  
+desert - sablestan  
 designate (mark out) - desine  
 desk - karomeza  
 despise (scorn) - paraye  
@@ -1203,7 +1200,7 @@ drum - gum
 dry - gane  
 dry season - ganmosim  
 dualism - duisme  
-dubious (suspicious) - xankable  
+dubious (suspicious) - xankebil  
 dubnium - dubnium  
 duck - bata  
 dump (junk yard) - lasastan  
@@ -1211,7 +1208,7 @@ dumpling (ravioli, pelmeni) - pelmen
 dune - duna  
 dungeon (underground prison) - geosube jelekan  
 dungeon crawl - dungia aventur  
-durable (endurable, sustainable) - durable  
+durable (endurable, sustainable) - durebil  
 duruka - yamsukarcau  
 dust (powder) - fun  
 dye - rangomate  
@@ -1303,8 +1300,8 @@ environment (nature) - ekia
 environmental (natural) - eke  
 enzyme - enzim  
 epistemology - nosolojia  
-equal - paru  
-equalize (balance, even out) - pare  
+equal - bepare  
+equalize (balance, even out) - parife  
 equator - geoparline  
 Equatorial Guinea - Geoparline Ginia  
 equilibrium (balance) - parvezia  
@@ -1342,7 +1339,7 @@ evaluate (review, criticise) - krita
 evaluation (criticism) - krite  
 even (implying extreme example) - hato  
 even (level, peer, equal) - pare  
-even number - pari numbe  
+even number - pare nume  
 evening - xam:  
 every (each) - panun  
 everybody (everyone) - pan jen  
@@ -1494,7 +1491,7 @@ flatbread (chapati, roti) - capati
 flavor (aroma) - arome  
 flerovium - flerovium  
 fletcher - flecer  
-flexible  - flexable  
+flexible  - flexebil  
 flexion (flection) - flexion  
 flint - hogite  
 float (buoy, bobber) - boi  
@@ -1545,7 +1542,7 @@ fountain pen - fontokalam
 four (4) - catre  
 fox - huli  
 fracture - fragure  
-fragile - fragable  
+fragile - fragebil  
 fragment - fragomen  
 frame - frem  
 France - Fransia  
@@ -1573,7 +1570,7 @@ full (complete, saturated) - pure
 fully (completely) - puro  
 fume - fume  
 function (work) - funce  
-functional (valid, workable) - funcable  
+functional (valid, workable) - funcebil  
 functional disease or disorder - oze  
 fungus (mushroom) - funge  
 funnel - darotube  
@@ -1959,9 +1956,9 @@ include (enclose, hold in) - inkluze
 including - inkluze da  
 inclusive - inkluzive  
 increase - maxife  
-incredible (unbelievable) - ankredable  
+incredible (unbelievable) - ankredebil  
 increment - maxdarge  
-incurable - ankurable  
+incurable - ankurebil  
 independent - autoreje  
 India - Bartia  
 Indian - barte  
@@ -1969,7 +1966,7 @@ Indian chrysanthemum - lipoguke
 Indian Ocean - Barte Hai  
 indicate (point into) - indike  
 indium - hindium  
-indivisible - antomable  
+indivisible - antomobil  
 Indo-European - hindeuropan  
 Indonesia - Indonesia  
 induce (introduce, lead in) - indute  
@@ -2009,7 +2006,7 @@ integer (whole number) - holonumbe
 intelligence (intellect) - intelige  
 intelligent (smart) - inteligente  
 intelligentsia - inteligentia  
-intelligible - inteligable  
+intelligible - inteligebil  
 intend (plan) - plane  
 intensify - tizife  
 interact - interate  
@@ -2231,7 +2228,7 @@ letter (written message) - letre
 letterbox (mailbox, delivery point for mail)  - poste kase  
 letterbox (mailbox, sending point for mail) - mise poste kase  
 lettuce - letus  
-level - par  
+level - parestan  
 level down - talo dargu  
 level up (graduate) - gaudargu  
 lever - tirbaton  
@@ -2327,8 +2324,8 @@ lover - amer
 low (short, bottom) - dipe  
 lower (inferior) - subike  
 lower (put down) - dipife  
-loyal (faithful, trustworthy) - bekredable  
-loyalty (faithfulness) - bekredablia  
+loyal (faithful, trustworthy) - bekredebil  
+loyalty (faithfulness) - bekredebilia  
 luggage (baggage) - bagaje  
 lumbago - lumbalgia  
 lumen - lumen  
@@ -2454,7 +2451,7 @@ maximize - maximife
 maximum - maximaje  
 May - lun pente  
 Maya - mayan  
-maybe (perhaps, possibly) - ablo  
+maybe (perhaps, possibly) - bil e  
 Mayotte - Mayote  
 mean (cruel) - zalime  
 mean (signify) - seme  
@@ -2591,7 +2588,7 @@ morning (dawn) - suba
 Morocco - Magribia  
 morph - morfe  
 morpheme - morfeme  
-mortal - mortable  
+mortal - mortebil  
 moscovium - moskovium  
 Moscow - Moskove  
 mosquito - moskite  
@@ -2779,7 +2776,7 @@ Oberon - Oberon
 obituary (necrology) - nekrologe  
 oblique (askew, tilted) - terce  
 obsidian - osidian  
-obvious (evident) - exvidable  
+obvious (evident) - exvidebil  
 ocean - daihai  
 Oceania - Oceania  
 ocelot - oselote  
@@ -2818,7 +2815,7 @@ online - a line
 only (single, sole, lone) - unike  
 only (solely, just) - uniko  
 onomatopoeia - fonomime  
-opaque (not transparent) - antravidable  
+opaque (not transparent) - antravidebil  
 open (not closed) - kai  
 open (wide, spacious) - medene  
 opinion (view) - rai  
@@ -2832,7 +2829,7 @@ optimal - otimal
 optimism - otimisme  
 optimist - otimiste  
 optimum - otime  
-option (choice) - cuzable  
+option (choice) - cuzebil  
 option (preference) - otion  
 optional - otional  
 or - o  
@@ -2927,7 +2924,7 @@ papaya - papaya
 paper (material) - kaguje  
 paprika - cili fun  
 Papua New Guinea - Papua Neu Ginia  
-parable - parable  
+parable - parebil  
 Paraguay - Paraguai  
 parallel (longitudinal) - parline  
 parameter (argument, input variable) - param  
@@ -2983,7 +2980,6 @@ pedal - pedal
 pedocentrist - pedocentriste  
 pedophilia - pedofilisme  
 pedophobia - pedofobisme  
-peer - paran  
 peer - parike  
 pen (writing tool) - kalam  
 pendant - pendaje  
@@ -3089,7 +3085,7 @@ Platonic - platonike
 Platonism - platonisme  
 Platonist - platoniste  
 platypus - batakrote  
-plausible (praiseworthy) - plozable  
+plausible (praiseworthy) - plozebil  
 playdough - plastopaste  
 player (gamer) - gemer  
 please (satisfy, delight) - sukife  
@@ -3269,7 +3265,7 @@ qualify (describe; quality, attribute, description) - sife
 quark (paneer) - panir  
 quartz - kuarze  
 queen - femi reger  
-quicksand - movosable  
+quicksand - movesable  
 quotation mark - citomarke  
 quote (cite) - cite  
 Quran (Koran) - kuran  
@@ -3521,8 +3517,8 @@ sameness - sames
 Samoa - Samoa  
 San Marino - Sante Marino  
 sand - sable  
-sandcastle - sabloburge  
-sandstone - sablopetre  
+sandcastle - sableburge  
+sandstone - sablepetre  
 sandwich - sanduice  
 Sao Paulo - Sante Paulo  
 Sao Tome and Principe - Sante Tome e Principe  
@@ -3943,7 +3939,7 @@ tame (docile, obedient) - dosile
 tame (train) - dosile  
 Tamil - Tamil  
 Tanakh (Jewish Bible) - tanah  
-tangible - tatable  
+tangible - tatebil  
 tank (reservoir) - tanke  
 tantalum - tantalium  
 Tanzania - Tanzania  
@@ -4068,7 +4064,7 @@ to (toward, till, until, for) - ta
 toast (toasted bread) - roste pang  
 tobacco - tabake  
 today - a zai den  
-together (jointly, mutually) - kono  
+together (jointly, mutually) - a kon  
 Togo - Togo  
 toilet (WC) - tualete  
 Tokyo - Tokyo  
@@ -4232,7 +4228,7 @@ Uranus - Uran
 urban - nagre  
 Urdu - urdu  
 Uruguay - Uruguai  
-usable (available) - uzable  
+usable (available) - uzebil  
 use (employ, apply) - uze  
 use (utility, asset, benefit, gain, advantage) - faide  
 user - uzer  
@@ -4420,7 +4416,7 @@ wolf - volfe
 Wolof (language and people) - Volof  
 woman (adult female) - maturi fem  
 wonder (be interested in, would like to know) - vol sabe  
-wonderful (marvel, mirable) - ajibable  
+wonderful (marvel, mirable) - ajibebil  
 wood (timber) - mokomate  
 wood board (plank) - mokoban  
 wool (fleece) - mehi kex  

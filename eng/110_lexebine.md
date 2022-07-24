@@ -173,9 +173,9 @@ are not compound words in Pandunia.
 'close'
 → **ankluze**
 'unclose, open'  
-**uzable**
+**uzebil**
 'usable'
-→ **anuzable**
+→ **anuzebil**
 'unusable'
 
 **be-**
@@ -309,17 +309,6 @@ are not compound words in Pandunia.
 
 ### Suffixes
 
-**-able**
-'that can be done' :  
-**vide**
-'see, view'
-→ **vidable**
-'one that can be seen, visible'  
-**uze**
-'use'
-→ **uzable**
-'one that can be used, usable'
-
 **-aje**
 'thing made of or consisting of' :  
 **bage**
@@ -380,6 +369,17 @@ are not compound words in Pandunia.
 'wheel'
 → **rotate**
 'rotate, turn like a wheel'
+
+**-bil**
+'that can be done' :  
+**vide**
+'see, view'
+→ **videbil**
+'one that can be seen, visible'  
+**uze**
+'use'
+→ **uzebil**
+'one that can be used, usable'
 
 **-eme**
 'distinct meaningful element' :  

@@ -8,7 +8,6 @@ a long dure - por muito tempo
 a misal - por exemplo  
 a xukre de - graças a  
 abete - abeto  
-able - possível  
 aci - espirrar  
 acinium - actínio  
 ade - costume (hábito)  
@@ -33,7 +32,7 @@ ais - gelar
 aishoke - hóquei no gelo  
 aiskrem - sorvete (gelado)  
 ajibe - maravilha  
-• ajibable - maravilha  
+• ajibebil - maravilha  
 • ajibaje - milagre  
 akare - carrapato (ácaros)  
 akrabe - escorpião (lacrau)  
@@ -194,6 +193,7 @@ biolojia - biología
 biomute - fermentar  
 biosistem - bioma  
 biotoxe - toxina  
+bil - possível  
 bilor - cristal  
 bine - construir  
 binite - tijolo  
@@ -211,6 +211,7 @@ bokserpante - samba-canção
 bol - bola  
 bombe - bomba  
 bon - bom  
+konbone - combinar com  
 ribone - reparar  
 riboner - reparador  
 borium - bóhrio  
@@ -277,7 +278,7 @@ coi - verdura
 coklate - chocolate  
 coklatobaton - barra de chocolate  
 cope - enxada  
-• cuzable - opção  
+• cuzebil - opção  
 
 ## D  
 
@@ -605,7 +606,7 @@ i - e
 • intre - entrar  
 intraje - intestino (entranhas, tripa)  
 intelige - inteligência (intelecto)  
-• inteligable - inteligível  
+• inteligebil - inteligível  
 iridium - irídio  
 ironia - ironia  
 • islamia - islã  
@@ -769,7 +770,6 @@ koala - coala
 kobalte - cobalto  
 komi - cômico  
 komodia - comédia  
-konbone - combinar com  
 koncung - inseto  
 Kongfuze - Confúcio  
 konserte - concerto  
@@ -1158,13 +1158,12 @@ panir - queijo fresco
 panke - asa  
 pante - calças  
 papaya - mamão (papaia)  
-par - nivel  
 pare - igual (par)  
-• parable - parábola  
-• paran - par  
 • parike - par  
+• parestan - nivel  
 • konpare - comparar  
 • repare - reparar  
+• parebil - parábola  
 parvezia - equilíbrio  
 param - parâmetro  
 parce - fragmento  
@@ -1342,8 +1341,8 @@ ruterfordium - rutherfórdio
 sabe - saber  
 sabevolive - inquisitivo  
 sable - areia  
-• movosable - areia movediça  
-sablostan - deserto  
+• movesable - areia movediça  
+sablestan - deserto  
 sabun - sabão  
 safaroceke - cheque de viajante  
 sagu - sagu  
@@ -1597,7 +1596,7 @@ vezu - pesar
 vide - ver  
 • dusvide - feio  
 • exvide - evidente  
-• exvidable - evidente  
+• exvidebil - evidente  
 • previde - prever (anticipar)  
 vidou - viúvo  
 vile - casa de campo (vila)  
@@ -1624,7 +1623,7 @@ vulve - vulva
 xam: - noitinha  
 xampan - Champagne  
 xampan vin - champanhe  
-• xankable - dúbio (duvidoso)  
+• xankebil - dúbio (duvidoso)  
 xante - tranquilo (calmo)  
 xara - serra  
 xarafun - serragem  

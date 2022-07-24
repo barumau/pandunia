@@ -1,8 +1,8 @@
 # pandunia–suomi va lexaslia
+**a kon** *yhdessä* ← yleiskiina:共 (gòng), kantoninkiina:共 (gung4), korea:공 (gong), vietnami:cộng, japani:共 (kyō-), englanti:ranska:espanja:portugali:con-  
 **a** *luona (-lla, -ssa)* ← ranska:à, espanja:portugali:a, englanti:a-,ad-, venäjä:а-  
 **abe** *pois* ← englanti:ranska:espanja:portugali:ab- + venäjä:апо- (apo-)  
 **abete** *pihta (jalokuusi)* ← espanja:portugali:abeto  
-**able** *voida (osata, pystyä)* ← turkki:bilmek + ranska:habile, espanja:portugali:hábil, englanti:able;ability  
 **acar** ** ← persia:آچار (âčâr), hindi:अचार (acār), arabia:اچار‎ (əčar), englanti:portugali:achar, suahili:achari, malaiji:acar  
 **aci** *aivastaa (atsii!)* ← espanja:achís, yleiskiina: 阿嚏 (ātì), korea:에취 (echwi), bangla:আঁচে (hache), venäjä:апчхи, vietnami:hắt xì, englanti:achoo, ranska:atchoum  
 **acinium** *aktinium* ← englanti:actinium, ranska:actinium, espanja:actinio, portugali:actínio, venäjä:актиний, yleiskiina:锕 (ā), japani:アクチニウム, korea:악티늄, vietnami:actini, hindi:एक्टिनियम, bangla:অ্যাক্টিনিয়াম, malaiji:aktinium, suahili:aktini, arabia: اكتنيوم  
@@ -151,7 +151,7 @@
 **betula** *koivu* ← espanja:abedul, portugali:bétula, arabia: بَتُولَا‎ (batūlā)  
 **bibre** *majava* ← deu:Biber, englanti:beaver, venäjä:бобр (bobr), japani:ビーバー (bībā), korea:비버 (bibeo)  
 **bie** *orgaaninen elämä* ← englanti:deu:ranska:espanja:portugali:puola:malaiji:suahili:turkki:bio-, venäjä:био- (bio-)  
-**bil** *lasku (faktuura)* ← englanti:bill, hindi:बिल (bil), malaiji:bil  
+**bil** *voida (osata, pystyä)* ← turkki:bilmek + englanti:-bility, ranska:-bilité, espanja:-bilidad, portugali:-bilidade  
 **bilor** *kristalli* ← arabia: بِلَّوْر‎ (billawr), hindi:बिल्लौर (billaur), malaiji:hablur, turkki:billûr, amhara:በሉር (bälur) + espanja:abalorio  
 **binde** *täplä (läiskä)* ← hindi:बिंदु (bindu), thai:พินทุ (pintu), englanti:bindi (holy dot), venäjä:бинди (bindi)  
 **bine** *koota (rakentaa; rakennus)* ← arabia:(banā), hindi: बनाना (banānā), urdu:(banānā), persia:(banā), turkki: bina, japani:ビル (biru)  
@@ -716,7 +716,6 @@
 **komune** *yhteinen* ← englanti:common, espanja:común, portugali:comum, ranska:commun, venäjä:коммунальный (kommunal’nyy)  
 **koncung** *hyönteinen (ötökkä)* ← yleiskiina:昆蟲 (kūnchóng), kantoninkiina:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), japani:昆蟲 (konchū)  
 **kong** *reikä* ← yleiskiina:孔 (kǒng), kantoninkiina:孔 (hung2), wu-kiina:孔 (khon2), japani:孔 (kō), korea:공 (gong), vietnami:hỏng  
-**kono** *yhdessä* ← yleiskiina:共 (gòng), kantoninkiina:共 (gung4), korea:공 (gong), vietnami:cộng, japani:共 (kyō-), englanti:ranska:espanja:portugali:con-  
 **konserte** *konsertti* ← englanti:ranska:concert, espanja:concierto, portugali:concerto, deu:Konzert, venäjä:концерт (koncert), malaiji:turkki:konser, japani:コンサート (konsāto), korea:콘서트 (konseoteu), hindi:कॉन्सर्ट (kŏnsarṭ)  
 **konus** *kartio (keila)* ← englanti:portugali:cone, ranska:cône, espanja:cono, venäjä:конус, malaiji:kon, suahili:turkki:koni  
 **kope** *kopio (jäljennös)* ← englanti:copy, ranska:copie, espanja:portugali:copia, venäjä:копия (kopiya), hindi:कापी (kāpī), turkki:kopya, malaiji:kopi, yleiskiina:拷貝 (kǎobèi), japani:コピー (kopī)  

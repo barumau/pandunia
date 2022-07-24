@@ -589,7 +589,7 @@ dormir (sommeil) - some
 dossier - dataje  
 double - duple  
 douche - duxe  
-douteux (dubitatif) - xankable  
+douteux (dubitatif) - xankebil  
 drapeau - bandir  
 drogue (narcotique, dope) - narke  
 droit (rectiligne) - orte  
@@ -611,7 +611,7 @@ défigurer - dusforme
 déféquer - defeke  
 dénoncer (annoncer la fin d’un accord) - denunce  
 désaccord (différend) - alorayia  
-désert - sablostan  
+désert - sablestan  
 désigner - desine  
 détruire - destrute  
 dévanagari - deunagre  
@@ -778,7 +778,7 @@ grenouille - krokroke
 grimace - guimuke  
 groupe - grupe  
 grâce à - a xukre de  
-grès - sablopetre  
+grès - sablepetre  
 guerre - gere  
 guerrier - gerer  
 guide - gider  
@@ -890,7 +890,7 @@ insecte - koncung
 insomnie - ansome  
 intelligence - intelige  
 intelligence artificielle - artofete intelige (AI)  
-intelligible - inteligable  
+intelligible - inteligebil  
 intercepter - intercepe  
 international - nasomede  
 interracial - rasomede  
@@ -1089,7 +1089,7 @@ mercure - hurargente
 Mercure - Merkur  
 merde - xite  
 merveille (éblouir, étonner, stupéfier, surprendre) - ajibe  
-merveille - ajibable  
+merveille - ajibebil  
 message - angil  
 message - misaje  
 messager - angiler  
@@ -1176,12 +1176,12 @@ nickel - nikel
 nid - nide  
 nihonium - niponium  
 niobium - niobium  
-niveau - par  
+niveau - parestan  
 nobélium - nobelium  
 noir - kara  
 noit - noce  
 nombre (numéro, compte; compter) - nume  
-nombre pair - pari numbe  
+nombre pair - pare nume  
 non (ne...pas) - no  
 nord - norde  
 norme (normal) - norme  
@@ -1233,7 +1233,7 @@ onde - onde
 opter - ote  
 optimal - otimal  
 option (choix) - otion  
-option - cuzable  
+option - cuzebil  
 or - aure  
 orange (couleur) - orangi  
 orange (fruit) - orange  
@@ -1271,7 +1271,6 @@ où - a ke
 pacifiste - paciste  
 page - varkolate  
 pain - pang  
-pair (pareil) - paran  
 pair (pareil, egal) - pare  
 paix - pace  
 palais (château, manoir) - daidom  
@@ -1293,7 +1292,7 @@ papier peint - murkaguze
 papillon - pelpel  
 paquet - pake  
 par exemple - a misal  
-parabole - parable  
+parabole - parebil  
 paramètre - param  
 paranormal - paranorme  
 parapluie - barsocate  
@@ -1342,7 +1341,7 @@ pet (vesse; péter) - perde
 petit - xiu  
 peu - kam  
 peur (effrayer; craindre) - fobe  
-peut-être - ablo  
+peut-être - bil e  
 phase - faze  
 philosophie - filsofia  
 phosphore - pospor  
@@ -1426,7 +1425,7 @@ pourri - pude
 pourrir (se décomposer) - pudu  
 pousse - yune moke  
 pousser - pulse  
-pouvoir (être capable; possible) - able  
+pouvoir (être capable; possible) - bil  
 poésie - xiria  
 praséodyme - prasedium  
 presse-papier - kategluteban  
@@ -1580,7 +1579,7 @@ rôtir - roste
 
 s'opposer à - xate  
 sable - sable  
-sables mouvants - movosable  
+sables mouvants - movesable  
 sac - bage  
 sac - sake  
 sagesse - sofia  
@@ -1973,8 +1972,8 @@ zèbre - zebra
 évangile - evangil  
 éveillé - desome  
 éventail - sanze  
-évident - exvidable  
 évident - exvide  
+évident - exvidebil  
 être - e  
 être couché - kusu  
 être humain - human  

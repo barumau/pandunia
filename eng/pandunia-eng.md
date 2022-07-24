@@ -60,11 +60,9 @@ a vere - truly (indeed, very)
 a xukre de - thanks to  
 a zai - presenty (currently, now)  
 a zai den - today  
+a kon - together (jointly, mutually)  
 abe - away  
 abete - fir tree  
-able - can (be able; ability, possibility; able, possible)  
-• ablo - maybe (perhaps, possibly)  
-• ablan - able (capable)  
 acar - pickle  
 acara - pickle (preserve in vinegar or brine)  
 acari - pickled  
@@ -105,7 +103,7 @@ aishoke - ice hockey
 aiskrem - ice cream  
 ajibe - marvel (wonder; amaze, astonish)  
 ajibia - awe (wonder)  
-• ajibable - wonderful (marvel, mirable)  
+• ajibebil - wonderful (marvel, mirable)  
 • ajibaje - miracle  
 akare - tick (mite)  
 akrabe - scorpion (Scorpio)  
@@ -435,7 +433,8 @@ biotoxe - toxin
 bible - Biblical  
 biblia - Bible  
 bibre - beaver  
-bil - bill (invoice)  
+bil - can (be able; ability, possibility; able, possible)  
+bil e - maybe (perhaps, possibly)  
 bilor - crystal  
 bine - build (building)  
 • konbine - combine  
@@ -473,6 +472,7 @@ bolte - bolt
 bombe - bomb  
 bon - good  
 bon zar - good luck  
+konbone - match (fit, suit, go well together)  
 ribone - repair (fix, mend)  
 riboner - repairer  
 bore - bored  
@@ -549,6 +549,8 @@ can - produce (create, make)
 • cania - production  
 • canive - productive (fertile)  
 • canivaje - fertilizer  
+koncanisme - communism  
+koncaniste - communist  
 canse - opportunity (chance)  
 cante - sing (song, chant)  
 cantergrupe - choir (chorus)  
@@ -641,7 +643,7 @@ cupe - suck (absorb)
 cute - leave (go out, exit)  
 cutomun - exit door  
 cuze - choose (elect, select, pick; choice, election, selection))  
-• cuzable - option (choice)  
+• cuzebil - option (choice)  
 • precuze - default (preset, predecided)  
 cuzoliste - menu (catalog)  
 
@@ -862,7 +864,7 @@ dungia aventur - dungeon crawl
 dur - last (take time; elapse, pass by, go by; during; duration, time interval)  
 • dura - continue (go on, keep on, carry on)  
 • duro - still (yet, continuously)  
-• durable - durable (endurable, sustainable)  
+• durebil - durable (endurable, sustainable)  
 • durike - chronic (lasting)  
 • durize - pass (spend time, put time into)  
 • redure - continue (resume)  
@@ -1078,7 +1080,7 @@ flece - arrow (bolt)
 • flecer - fletcher  
 flerovium - flerovium  
 flexe - bend (flex)  
-• flexable - flexible   
+• flexebil - flexible   
 • flexion - flexion (flection)  
 • cirkoflexe - bend around  
 • deflexe - deflect (bend away)  
@@ -1126,7 +1128,7 @@ fotominar - beacon (lighthouse)
 fotorade - ray of light  
 fotosirke - halo (aureola)  
 frage - break (fracture)  
-• fragable - fragile  
+• fragebil - fragile  
 • fragomen - fragment  
 • fragure - fracture  
 • naufrage - shipwreck  
@@ -1156,14 +1158,15 @@ fume - fume
 fun - dust (powder)  
 funcuper - vacuum cleaner  
 funce - function (work)  
-• funcable - functional (valid, workable)  
+• funcebil - functional (valid, workable)  
 • dusfunce - dysfunction (malfunction)  
+konfuncebil - compatible (supported)  
 funge - fungus (mushroom)  
 fungonete - mycelium  
 fungopal - mushroom (sporocarp)  
 • defunse - defunct (out of use)  
 • dusfunse - dysfunction (malfunction)  
-• konfunsable - compatible (supported)  
+• konfunsebil - compatible (supported)  
 fure - angry (furious)  
 furia - anger (fury, rage, wrath)  
 furete - polecat (ferret)  
@@ -1618,7 +1621,7 @@ intromun - entrance
 intraje - intestines (entrails, guts, bowels, viscera)  
 Indonesia - Indonesia  
 intelige - intelligence (intellect)  
-• inteligable - intelligible  
+• inteligebil - intelligible  
 • inteligente - intelligent (smart)  
 • inteligentia - intelligentsia  
 inxala - hope (wish)  
@@ -2010,13 +2013,7 @@ kompania - company (corporation)
 komune - share  
 komune - common (shared)  
 komunkratia - republic  
-kone - common (mutual)  
-kono - together (jointly, mutually)  
-konbone - match (fit, suit, go well together)  
-koncanisme - communism  
-koncaniste - communist  
-konformu - conform (fit, mold)  
-konfuncable - compatible (supported)  
+kon - common (mutual)  
 kontre - go against  
 konjen - companion (partner, sidekick)  
 Konakri Ginia - Guinea  
@@ -2071,13 +2068,13 @@ kran - valve (tap, faucet)
 kratia - rule (reign)  
 krede - believe (trust, credit)  
 krede - trust (rely)  
-• kredable - credible (believable)  
+• kredebil - credible (believable)  
 • krediste - believer (religious person)  
-• bekrede - trustee  
-bekredable - loyal (faithful, trustworthy)  
-bekredablia - loyalty (faithfulness)  
 • ankrede - distrust (disbelieve)  
-• ankredable - incredible (unbelievable)  
+• ankredebil - incredible (unbelievable)  
+• bekrede - trustee  
+bekredebil - loyal (faithful, trustworthy)  
+bekredebilia - loyalty (faithfulness)  
 • ankrediste - unbeliever (infidel)  
 • sinkredisme - synchretism  
 kredokarde - credit card  
@@ -2141,7 +2138,7 @@ kupon - coupon
 kupre - copper  
 kure - care (cure)  
 kurium - curium  
-• ankurable - incurable  
+• ankurebil - incurable  
 kuran - Quran (Koran)  
 kurse - go (going; course)  
 • exkurse - excursion  
@@ -2632,7 +2629,7 @@ monte - mountain (mount, hill)
 morfe - morph  
 • morfeme - morpheme  
 morte - die (death; dead, deceased)  
-• mortable - mortal  
+• mortebil - mortal  
 • mortife - kill  
 • morter - killer  
 • posmortal - post mortem  
@@ -2902,7 +2899,7 @@ okokex - eyelash
 okosui - tear drop  
 okosuigas - tear gas  
 okei - okay (acceptance; accept, say okay)  
-• okeyable - acceptable  
+• okeibil - acceptable  
 Olandi nesia - Aland Islands  
 Oman - Oman  
 onde - wave  
@@ -3015,19 +3012,18 @@ papagai - parrot (parakeet)
 papaya - papaya  
 papir - document (paper)  
 Papua Neu Ginia - Papua New Guinea  
-par - level  
-pare - equalize (balance, even out)  
 pare - even (level, peer, equal)  
-pari numbe - even number  
-paru - equal  
-• parable - parable  
-• paran - peer  
+pare nume - even number  
+• parife - equalize (balance, even out)  
 • parike - peer  
+• parestan - level  
+• bepare - equal  
 • konpare - compare  
 • prepare - ready (prepared; prepare)  
 • repare - repair (restore to equal condition)  
+• parebil - parable  
 parline - parallel (longitudinal)  
-parlinu - align (go along)  
+parlinife - align (go along)  
 parvezia - equilibrium (balance)  
 Paraguai - Paraguay  
 paraye - outcast (pariah)  
@@ -3187,7 +3183,7 @@ platonike - Platonic
 platonisme - Platonism  
 platoniste - Platonist  
 ploze - clap  
-• plozable - plausible (praiseworthy)  
+• plozebil - plausible (praiseworthy)  
 • aploze - applaude  
 • exploze - explode (blow up; explosion)  
 • explozive - explosive  
@@ -3499,10 +3495,10 @@ besabovole - interesting (curious)
 sababe - reason (cause)  
 sabate - Sabbath  
 sable - sand  
-• movosable - quicksand  
-sabloburge - sandcastle  
-sablopetre - sandstone  
-sablostan - desert  
+• movesable - quicksand  
+sableburge - sandcastle  
+sablepetre - sandstone  
+sablestan - desert  
 sabun - soap  
 sade - plain (ordinary, unadorned, simple, mere)  
 sade di - simply (merely, only)  
@@ -3900,7 +3896,7 @@ tape - stop (obsruct, block; plug, stopper, cap, peg, tap)
 tarif - tarif (tax, duty)  
 tas - dish (bowl)  
 tate - touch (tact)  
-• tatable - tangible  
+• tatebil - tangible  
 tatosense - feel (sense by touch)  
 • kontate - contact  
 tatike - tactics (strategy)  
@@ -4015,9 +4011,9 @@ tolere - tolerate
 tome - split (dissect)  
 • tomografe - tomogram  
 • tomografia - tomography  
+• antomobil - indivisible  
 • duotome - dichotomy  
 • jivotome - vivisection  
-• antomable - indivisible  
 • tritome - trichotomy  
 tomato - tomato  
 tone - tone (note, pitch)  
@@ -4132,7 +4128,7 @@ Uruguai - Uruguay
 Urusalem - Jerusalem  
 USA - American (US)  
 uze - use (employ, apply)  
-• uzable - usable (available)  
+• uzebil - usable (available)  
 • uzer - user  
 uzernam - username  
 Uzbekia - Uzbekistan  
@@ -4232,13 +4228,13 @@ vidopunte - perspective (point of view)
 • vider - spectator (sightseer)  
 • dusvide - ugly (unsightly)  
 • exvide - evident (apparent, obvious)  
-• exvidable - obvious (evident)  
+• exvidebil - obvious (evident)  
 • previde - foresee (anticipate, preview)  
 • anprevide - unexpected  
 • provide - expect (anticipate, predict, forsee)  
 • rivide - revise (look over again)  
 • suvide - beautiful (handsome, good-looking)  
-• antravidable - opaque (not transparent)  
+• antravidebil - opaque (not transparent)  
 vidomeden - visual field (field of vision)  
 vidou - widow  
 viete - Vietnamese (Viet)  
@@ -4311,7 +4307,7 @@ xampan - Champagne
 xampan vin - champagne  
 Xanghai - Shanghai  
 xanke - doubt (suspect)  
-• xankable - dubious (suspicious)  
+• xankebil - dubious (suspicious)  
 xante - calm (peaceful, quiet)  
 xara - saw  
 xarafun - sawdust  

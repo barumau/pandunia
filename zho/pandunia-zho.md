@@ -6,8 +6,8 @@ a - 在
 a line - 在线  
 a long dure - 久  
 a misal - 比如  
+a kon - 共同 (一起)  
 abete - 冷杉  
-able - 会 (可能)  
 acar - 腌菜  
 aci - 打喷嚏 (阿嚏)  
 acinium - 锕  
@@ -186,7 +186,7 @@ biomute - 发酵
 biosistem - 生物群系  
 biotoxe - 毒素  
 bibre - 海狸 (河狸)  
-bil - 帐单  
+bil - 会 (可能)  
 bine - 建设  
 binite - 砖  
 binoplania - 建筑学  
@@ -201,6 +201,7 @@ bokserpante - 平角褲
 bol - 球  
 bombe - 炸弹  
 bon - 好  
+konbone - 相配  
 ribone - 修理  
 riboner - 修理工人  
 boron - 硼  
@@ -257,7 +258,7 @@ coklatobaton - 巧克力棒
 Congking - 重庆  
 cope - 锄头  
 cuke - 接触  
-• cuzable - 选择 (买卖权)  
+• cuzebil - 选择 (买卖权)  
 
 ## D  
 
@@ -328,7 +329,7 @@ duge - 读 (看)
 dunia - 世界  
 dur - 时间  
 • duro - 还 (依然)  
-• durable - 耐用的  
+• durebil - 耐用的  
 • undure - 指针式的  
 durometrer - 秒表  
 dus - 难  
@@ -404,7 +405,7 @@ fuku - 穿
 ful - 花  
 fulopote - 花瓶  
 fulpote - 花盆  
-• funcable - 機能的  
+• funcebil - 機能的  
 fungopal - 蘑菇  
 futomarke - 脚印  
 futau - 斧头  
@@ -715,8 +716,6 @@ klorium - 氯
 koala - 樹袋熊 (考拉)  
 kobalte - 钴  
 komodia - 喜剧  
-kono - 共同 (一起)  
-konbone - 相配  
 koncung - 昆虫  
 Kongfuze - 孔夫子  
 konserte - 音乐会  
@@ -737,7 +736,7 @@ kosmonaver - 太空人
 krake - 裂缝 (缝隙)  
 krede - 信赖  
 • krediste - 信徒  
-bekredable - 忠实  
+bekredebil - 忠实  
 • ankrediste - 不信神的  
 kredokarde - 信用卡  
 krepe - 薄烤饼  
@@ -1054,10 +1053,9 @@ panke - 翅膀 (膀子)
 pante - 裤子  
 papagai - 鹉鹦  
 papaya - 木瓜  
-par - 水平  
-pari numbe - 偶数  
-• paran - 同辈  
+pare nume - 偶数  
 • parike - 同辈  
+• parestan - 水平  
 parvezia - 平衡  
 param - 参数  
 parcokai - 爆裂  
@@ -1206,8 +1204,8 @@ sabevol - 趣
 sabevolive - 好奇  
 besabovole - 有趣  
 sable - 沙  
-• movosable - 流沙  
-sablostan - 沙漠  
+• movesable - 流沙  
+sablestan - 沙漠  
 sabun - 肥皂  
 safar - 旅行  
 safaroceke - 旅行支票  

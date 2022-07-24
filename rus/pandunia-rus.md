@@ -203,7 +203,6 @@ biomute - заквасить
 biosistem - биом  
 biotoxe - токсин  
 bibre - бобр  
-bil - счёт  
 bilor - кристалл  
 bine - строить  
 binite - кирпич  
@@ -222,6 +221,7 @@ bol - шар
 bolte - болт  
 bombe - бомба  
 bon - хороший  
+konbone - соответствовать (сочетаться)  
 ribone - чинить (ремонтировать)  
 riboner - ремонтник  
 borium - борий  
@@ -381,7 +381,7 @@ dunia - мир (свет)
 duna - дюна  
 dur - длиться  
 • duro - ещё  
-• durable - долговечный  
+• durebil - долговечный  
 • durike - хронический  
 durometrer - секундомер  
 durozam - период (эпоха)  
@@ -801,8 +801,6 @@ koala - коала
 kobalte - кобальт  
 komi - комический (смешной)  
 komodia - комедия  
-konbone - соответствовать (сочетаться)  
-konformu - применяться (согласоваться)  
 koncung - насекомое  
 konge - пробиться  
 Kongfuze - Конфуций  
@@ -826,8 +824,8 @@ krake - щель (трещина)
 kran - кран  
 krede - доверять (понадеяться)  
 • krediste - верующий  
-bekredable - верный  
-bekredablia - верность  
+bekredebil - верный  
+bekredebilia - верность  
 • ankrediste - неверующий  
 kredokarde - кредитная карточка  
 krepe - блин  
@@ -1178,13 +1176,12 @@ panke - крыло
 pante - брюки  
 papagai - попугай  
 papaya - папайя  
-par - уровень  
 pare - равный  
-pari numbe - чётное число  
-• parable - притча  
-• paran - ровня  
+pare nume - чётное число  
 • parike - ровня  
+• parestan - уровень  
 • repare - починить  
+• parebil - притча  
 parline - параллельный  
 parvezia - равновесие (баланс)  
 param - параметр (аргумент)  
@@ -1373,8 +1370,8 @@ sabevole - любопытный
 sabevolive - любознательный  
 besabovole - интересный  
 sable - песок  
-• movosable - зыбучие пески  
-sablostan - пустыня  
+• movesable - зыбучие пески  
+sablestan - пустыня  
 sabun - мыло  
 safaroceke - дорожный чек  
 safran - шафран  
@@ -1661,7 +1658,7 @@ vidopunte - перспектива (точки зрения)
 • dusvide - безобразный (некрасивый)  
 • exvide - очевидный  
 • previde - предвидеть  
-• antravidable - непрозрачный  
+• antravidebil - непрозрачный  
 vidou - вдова  
 • vilaje - деревня (село)  
 • vineria - винном заводе  

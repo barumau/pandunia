@@ -5,8 +5,8 @@
 a line - オンライン  
 a misal - 例えば  
 a zai den - 今日  
+a kon - 一緒に  
 abete - モミ  
-able - ありうる  
 acar - 漬物  
 acara - 酢漬けある  
 acinium - アクチニウム  
@@ -151,6 +151,7 @@ biomute - 熟成する (発酵する)
 biosistem - 生物群系  
 biotoxe - 毒素  
 bibre - ビーバー  
+bil - ありうる  
 bilor - 結晶  
 bine - 建てる  
 binite - レンガ (磚)  
@@ -168,6 +169,7 @@ bokser - ボクサー (拳闘家)
 bol - 玉 (球)  
 bolte - ボルト  
 bon - 良い (元気, 上手)  
+konbone - 合わせる (適する)  
 ribone - 修理  
 riboner - 修理工  
 borium - ボーリウム  
@@ -226,7 +228,7 @@ coi - 菜
 coklate - チョコレート  
 coklatobaton - チョコバー  
 cope - クワ  
-• cuzable - オプション (選択)  
+• cuzebil - オプション (選択)  
 • precuze - 既定 (デフォルト)  
 cuzoliste - 品書き (メニュー)  
 
@@ -306,7 +308,7 @@ duge - 読む
 dunia - 世界  
 dungia aventur - ダンジョンアドベンチャー  
 • duro - まだ  
-• durable - 持続的  
+• durebil - 持続的  
 • redure - 再開する  
 • undure - アナログ  
 durometrer - ストップウオッチ  
@@ -695,9 +697,6 @@ klorium - 塩素
 koala - 子守熊 (コアラ)  
 kobalte - コバルト  
 komodia - 喜劇 (コメディ)  
-kono - 一緒に  
-konbone - 合わせる (適する)  
-konformu - 即する  
 koncung - 昆虫  
 konge - 染みる (貫通する)  
 Kongfuze - 孔夫子  
@@ -715,7 +714,7 @@ kosmonau - 宇宙船
 krake - 隙間 (ひび)  
 krede - 信頼する  
 • krediste - 信徒 (信者)  
-bekredable - 忠実  
+bekredebil - 忠実  
 • ankrediste - 不信者  
 kredokarde - クレジットカード  
 krem - クリーム  
@@ -1003,7 +1002,7 @@ nume - 数える
 ode - 頌歌 (オード)  
 oke - 目  
 okosuigas - 催涙ガス  
-• okeyable - 大丈夫 (ＯＫ)  
+• okeibil - 大丈夫 (ＯＫ)  
 onde - 波  
 orangi - オレンジ色の  
 ordorejer - 総統 (将軍 )  
@@ -1036,10 +1035,9 @@ panir - クワルク
 panke - 翼 (羽)  
 pante - ズボン  
 papaya - パパイヤ  
-pari numbe - 偶数  
-• parable - 譬え話  
-• paran - 同輩  
+pare nume - 偶数  
 • parike - 同輩  
+• parebil - 譬え話  
 parline - 並行  
 parvezia - 均衡 (平衡)  
 param - 引数 (パラメーター)  
@@ -1199,9 +1197,9 @@ sabevol - 興味 (好奇心)
 sabevolive - 知りたがる  
 besabovole - 面白い  
 sable - 砂  
-• movosable - 流砂  
-sablopetre - 砂岩  
-sablostan - 砂漠  
+• movesable - 流砂  
+sablepetre - 砂岩  
+sablestan - 砂漠  
 sabun - 石鹸 (シャボン)  
 safaroceke - トラベラーズチェック  
 sagu - サゴ  
@@ -1400,7 +1398,7 @@ un - 一 (1)
 • unike - 唯一の  
 • uniko - だけ  
 uranium - ウラン  
-• uzable - 使用可能  
+• uzebil - 使用可能  
 va - わあ  
 vade - 谷  
 vadosusan - キミカゲソウ (スズラン)  
@@ -1437,7 +1435,7 @@ vidopunte - 遠近法 (見通し, 観点)
 • vider - 見物人  
 • dusvide - 見苦しい  
 • provide - 待ち受ける (見込む)  
-• antravidable - 不透明  
+• antravidebil - 不透明  
 vidou - 寡婦  
 • vilaje - 村  
 • vineria - ワイナリー (酒造場)  

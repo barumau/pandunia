@@ -55,11 +55,9 @@ a supre - yllä (pääll)
 a vere - todella  
 a xukre de - ansiosta  
 a zai den - tänään  
+a kon - yhdessä  
 abe - pois  
 abete - pihta (jalokuusi)  
-able - voida (osata, pystyä)  
-• ablo - ehkä (mahdollisesti)  
-• ablan - kykenevä (voiva)  
 aci - aivastaa (atsii!)  
 acinium - aktinium  
 ade - tapa (tavallinen)  
@@ -96,7 +94,7 @@ aishoke - jääkiekko
 aiskrem - jäätelö  
 ajibe - ihme (ihmeellinen, ällistyttävä)  
 ajibia - hämmästys (ihmetys)  
-• ajibable - ihmeteltävä  
+• ajibebil - ihmeteltävä  
 • ajibaje - ihme  
 akare - punkki  
 akrabe - skorpioni  
@@ -394,7 +392,8 @@ biotoxe - toksiini
 bible - raamatullinen  
 biblia - Raamattu  
 bibre - majava  
-bil - lasku (faktuura)  
+bil - voida (osata, pystyä)  
+bil e - ehkä (mahdollisesti)  
 bilor - kristalli  
 bine - koota (rakentaa; rakennus)  
 • konbine - panna kokoon  
@@ -431,6 +430,7 @@ bolte - pultti
 bombe - pommi  
 bon - hyvä  
 bon zar - hyvä onni (tuuri, säkä, lykky)  
+konbone - sopia  
 ribone - korjata  
 riboner - korjaaja  
 bore - pitkästynyt  
@@ -504,6 +504,8 @@ can - tehdä (valmistaa)
 • cania - tuotanto  
 • canive - tuottava (tuottelias)  
 • canivaje - lannoite  
+koncanisme - kommunismi  
+koncaniste - kommunisti  
 canse - mahdollisuus (tilaisuus)  
 cante - laulaa (laulu)  
 cantergrupe - kuoro  
@@ -590,7 +592,7 @@ cupe - imeä
 cute - poistua  
 cutomun - uloskäynti  
 cuze - valita (valinta, vaali)  
-• cuzable - vaihtoehto  
+• cuzebil - vaihtoehto  
 
 ## D  
 
@@ -789,7 +791,7 @@ dungia aventur - luolaseikkailu
 dur - kestää (kulua, viedä aikaa; kestoaika, kesto, aika)  
 • dura - jatko (jatkaa; jatkua)  
 • duro - vielä (yhä, jatkuvasti)  
-• durable - kestävä (luja)  
+• durebil - kestävä (luja)  
 • durike - kestävä (krooninen)  
 • durize - kuluttaa (viettää aikaa)  
 • redure - jatkua uudestaan  
@@ -1007,7 +1009,7 @@ fotominar - majakka
 fotorade - valonsäde  
 fotosirke - sädekehä (halo)  
 frage - murtua (särkyä)  
-• fragable - särkyvä  
+• fragebil - särkyvä  
 • fragure - murtuma  
 • naufrage - haaksirikko  
 fransofone - ranskaa puhuva (frankofoni)  
@@ -1031,7 +1033,7 @@ fulpote - kukkaruukku
 fun - pöly (tomu)  
 funcuper - pölynimuri  
 funce - toiminta (funktio)  
-• funcable - toimiva  
+• funcebil - toimiva  
 • dusfunce - toimintahäiriö  
 funge - sieni  
 fungopal - sienen hattu  
@@ -1435,7 +1437,7 @@ intromun - sisäänkäynti
 intraje - sisälmykset  
 Indonesia - Indonesia  
 intelige - äly  
-• inteligable - älyttävä (ymmärrettävä)  
+• inteligebil - älyttävä (ymmärrettävä)  
 • inteligente - älykäs  
 • inteligentia - älymystö (intelligentsia)  
 inxala - toivoa  
@@ -1777,11 +1779,7 @@ kompania - yritys (yhtiö)
 komune - jakaa yhteiseksi  
 komune - yhteinen  
 komunkratia - tasavalta  
-kone - yhteinen  
-kono - yhdessä  
-konbone - sopia  
-koncanisme - kommunismi  
-koncaniste - kommunisti  
+kon - yhteinen  
 kontre - mennä vasten  
 Konakri Ginia - Guinea  
 koncung - hyönteinen (ötökkä)  
@@ -1828,11 +1826,11 @@ krabe - rapu (taskurapu)
 kran - hana (venttiili, kraana)  
 kratia - valta  
 krede - uskoa (luottaa)  
-• kredable - uskottava  
+• kredebil - uskottava  
 • krediste - uskovainen  
-• bekrede - uskottu (luotettu)  
 • ankrede - epäillä (olla uskomatta)  
-• ankredable - uskomaton  
+• ankredebil - uskomaton  
+• bekrede - uskottu (luotettu)  
 • ankrediste - uskonnoton  
 • sinkredisme - synkretismi  
 kredokarde - luottokortti  
@@ -1881,7 +1879,7 @@ kupon - kuponki
 kupre - kupari  
 kure - hoitaa (pitää huolta)  
 kurium - curium  
-• ankurable - parantumaton  
+• ankurebil - parantumaton  
 kuran - koraani  
 kurse - kulkea (kulku; kurssi; reitti)  
 • exkurse - retki (ekskursio)  
@@ -2294,7 +2292,7 @@ monte - vuori (mäki)
 morfe - morfi  
 • morfeme - morfeemi  
 morte - kuolla (kuolema, kuolo; kuollut, vainaa)  
-• mortable - kuolevainen  
+• mortebil - kuolevainen  
 • mortife - tappaa  
 • morter - tappaja  
 • posmortal - kuolemanjälkeinen  
@@ -2527,7 +2525,7 @@ oke - silmä
 okokex - silmäripsi  
 okosui - kyynel  
 okei - hyväksyä (hyväksyntä, OK)  
-• okeyable - kelpo (kohtalainen, okei)  
+• okeibil - kelpo (kohtalainen, okei)  
 Olandi nesia - Ahvenanmaa (Oolanti)  
 Oman - Oman  
 onde - aalto (laine)  
@@ -2624,17 +2622,16 @@ pante - housut
 papagai - papukaija  
 papaya - papaija  
 Papua Neu Ginia - Papua Uusi-Guinea  
-par - taso  
-pare - tasoittaa (tasata)  
 pare - tasainen (tasavertainen)  
-pari numbe - parillinen luku  
-paru - olla yhtä kuin  
-• parable - vertaus (paraabeli)  
-• paran - vertainen  
+pare nume - parillinen luku  
+• parife - tasoittaa (tasata)  
 • parike - vertainen  
+• parestan - taso  
+• bepare - olla yhtä kuin  
 • konpare - verrata (vertailla)  
 • prepare - valmis (valmistautua)  
 • repare - korjata (ennallistaa)  
+• parebil - vertaus (paraabeli)  
 parvezia - tasapaino  
 Paraguai - Paraguai  
 paraye - hylkiö (paaria)  
@@ -3033,9 +3030,9 @@ besabovole - kiinnostava
 sababe - syy (aiheuttaa, olla syynä)  
 sabate - sapatti  
 sable - hiekka  
-• movosable - juoksuhiekka  
-sabloburge - hiekkalinna  
-sablostan - aavikko (hiekkaerämaa)  
+• movesable - juoksuhiekka  
+sableburge - hiekkalinna  
+sablestan - aavikko (hiekkaerämaa)  
 sabun - saippua  
 sade - koruton (tavanomainen, pelkkä)  
 sade di - vain (pelkästään)  
@@ -3655,12 +3652,12 @@ vide - nähdä
 • vidion - näkö (näkeminen)  
 • dusvide - ruma (pahannäköinen)  
 • exvide - ilmeinen (silminnähtävä)  
-• exvidable - ilmeinen (silminnähtävä)  
+• exvidebil - ilmeinen (silminnähtävä)  
 • anprevide - ennennäkemätön  
 • provide - ennustaa (nähdä ennalta)  
 • rivide - tarkastaa uudelleen  
 • suvide - hyvännäköinen (kaunis, komea)  
-• antravidable - läpinäkymätön  
+• antravidebil - läpinäkymätön  
 vidomeden - näkökenttä  
 vidou - leski  
 viete - vietnamilainen  
@@ -3726,7 +3723,7 @@ xamyam - illallinen
 xaman - šamaani  
 xampan vin - samppanja  
 xanke - epäilys  
-• xankable - epäilyttävä  
+• xankebil - epäilyttävä  
 xante - rauhallinen (levollinen, tyyni)  
 xara - saha  
 xarafun - sahanpuru (sahajauho)  
