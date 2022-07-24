@@ -5,6 +5,7 @@
 a - przy, z, na, w, u  
 a ke - gdzie  
 a korte - wkrótce  
+a late dike - z boku (na bok)  
 a le - tu (tutaj, tam)  
 a line - online (na linii, w sieci)  
 a mide - między (wśród, pośród)  
@@ -199,11 +200,11 @@ bahaisme - bahaizm
 bahaiste - bahaista  
 Bahama - Bahamy  
 Bahrain - Bahrajn  
-bake - biały  
-bakocoi - kapusta pekińska  
-bakomargarite - jastrun właściwy  
-bakosalmon - keta  
 bakalau - dorsz  
+baku - biały  
+bakucoi - kapusta pekińska  
+bakumargarite - jastrun właściwy  
+bakusalmon - keta  
 bale - silny  
 • balia - siła  
 • anbale - słaby  
@@ -362,7 +363,7 @@ Brazil - Brazyla
 Britania - Zjednoczone Królestwo  
 bromium - brom  
 brox - szczotka  
-brune - brązowy, koloru kawy  
+brun - brązowy (koloru kawy)  
 brunalge - brunatnica  
 brunsalmon - pstrąg potokowy  
 Brunei - Brunei Darussalam  
@@ -402,6 +403,7 @@ caikupe - kubek do herbaty
 caipote - imbryk (czajnik)  
 cakre - koło  
 caku - nóż  
+cakukate - ciąć  
 camaca - łyżka  
 campion - czempion  
 can - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać  
@@ -1149,7 +1151,7 @@ Horvatia - Chorwacja
 hotel - hotel  
 hui - popiół  
 huidarte - gleba bielicoziemna  
-huirange - szary  
+huirang - szary  
 huke - hak  
 hukokrus - swastyka  
 huli - lis  
@@ -1323,7 +1325,9 @@ kalsium - wapń
 kalsokristal - marmur  
 kalsomate - wapno  
 kalsopetre - wapień  
-kame - pożądanie, żadza  
+kam - niewiele (mało)  
+• kamia - nieliczność  
+kama - pożądanie, żadza  
 kamar - pokój, sala  
 kamardipe - podłoga  
 kamargau - sufit  
@@ -1364,6 +1368,7 @@ kare - pracować
 karelexe - czasownik  
 karomeza - biurko  
 karoxuler - praktykant  
+kara - czarny  
 karaoke - karaoke  
 karate - karate  
 karave - kminek  
@@ -1394,7 +1399,7 @@ karvan - karawana
 • kaser - kasjer  
 kaske - skorupa (pancerz, muszla)  
 kastan - kasztan  
-kate - ciąć  
+• katade - żuć  
 Katalunia - Katalonia  
 katana - miecz  
 Katar - Katar  
@@ -1506,6 +1511,7 @@ koncanisme - komunizm
 koncaniste - komunista  
 konfuncable - kompatybilny (pasujący)  
 kontre - być przeciw  
+konjen - towarzysz (partner, kumpel)  
 Konakri Ginia - Gwinea  
 koncung - owad  
 kong - dziura  
@@ -1638,30 +1644,25 @@ lampe - lampa
 langan - poręcz (balustrada)  
 Lanka - Sri Lanka  
 lantanium - lantan  
+Lao - Laos  
+Lao jen - laotański  
 larve - larwa, czerw, gąsienica  
+lasa - śmieć (odpadek)  
+lasatong - śmietnik  
 laste - elastyczny  
 lasun - larwa, czerw, gąsienica  
 late - strona (bok)  
 late - być obok  
-late - poziomy (horyzontalny, boczny)  
-lato - z boku (na bok)  
-latojen - towarzysz (partner, kumpel)  
-latude - południk  
+• latude - południk  
+latedike - poziomy (horyzontalny, boczny)  
 latini harfia - alfabet łaciński, łacinka, alfabet rzymski  
 latinkitabe - zromanizować  
 Latvia - Łotwa  
-Lau - Laos  
-lau - starzec  
-lave - stary (sędziwy, wiekowy)  
-lave - laotański  
+lau - stary (sędziwy, wiekowy)  
 laurensium - lorens  
 laxe - rozluźnić (poluzować)  
-laze - śmieć, odpadek  
 lazanya - lazania  
-lazurpetre - lapis lazuli  
-lefte - lewa strona  
-lefte - lewy (lewostronny, z lewej strony)  
-leftiste - lewicowiec (lewak)  
+lazurite - lapis lazuli  
 lege - lekki  
 lenge - zimny, chłodny  
 lengomosim - zima  
@@ -1669,6 +1670,8 @@ lengomosime - zimowy
 lense - soczewka  
 letre - list  
 letus - sałata  
+leve - lewy (lewostronny, z lewej strony)  
+leviste - lewicowiec (lewak)  
 lexe - słowo  
 • lexia - słownictwo  
 • lexike - słowny (leksykalny)  
@@ -1695,13 +1698,8 @@ lifafe - zawijać (zawinąć; owinięcie, koperta, okładka)
 lige - liga (stowarzyszenie)  
 • alige - stowarzyszać się (zrzeszać się)  
 Lihtenstain - Liechtenstein  
-lile - mały; mało, trochę, nieco  
-lilbol - bańka  
-lilyam - przekąska  
-lilkaboge - cukinia  
-lilite - kamyk  
-lilake - lilak  
-lilake - liliowy  
+lila - lilak  
+lila rang - liliowy  
 lime - limit, granica  
 • anlimia - nieskończoność  
 • belime - skończony (ograniczony)  
@@ -1714,6 +1712,8 @@ line - linia (nić, lina, pas, pręga, smuga, dratwa)
 lineme - włókno  
 linoparce - złamanie lini  
 lince - ryś  
+lipe - lipid (tłuszcz, olej)  
+lipoguke - złocień indyjski  
 lise - gładki  
 lisan - język  
 liste - lista, spis, wykaz  
@@ -2102,10 +2102,10 @@ nasibe - przeznaczenie, los
 • prenatal - przedporodowy  
 natrium - sód  
 nau - łódź, statek  
-nave - żeglować (płynąć)  
+• naver - żeglarz (marynarz)  
+nauga - żeglować (płynąć)  
 naukaper - kaper (korsarz)  
-naulefte - bakburta (lewa burta)  
-naver - żeglarz (marynarz)  
+nauleve - bakburta (lewa burta)  
 nauraite - sterburta (prawa burta)  
 nauxefe - kapitan  
 navate - nahuatl  
@@ -2118,8 +2118,6 @@ Nederlandi Antil - Antyle Holenderskie
 Nederlandia - Holandia (Królestwo Niderlandów)  
 nefre - nerka  
 nefritis - zapalenie nerek  
-nefte - olej  
-neftoguke - złocień indyjski  
 nege - odmówić (odrzucić)  
 • nekrologe - nekrolog  
 • nekrotome - sekcja zwłok (obdukcja)  
@@ -2358,6 +2356,7 @@ pau - pistolet, strzelba, ręczna broń palna
 pau - strzelać (strzelić)  
 paunde - funt (£)  
 pauze - przerwać (przerywać; pauza, przerwa)  
+• repauze - zostawić, zostawiać  
 pedal - pedał  
 pedalsikle - rower z pedałami  
 pei - zapłata, opłata  
@@ -2381,9 +2380,10 @@ perde - pierdnięcie (pierdzieć)
 Peru - Peru  
 pete - brzuch  
 petre - skała  
-petronefte - ropa naftowa  
-pexohuke - haczyk  
-pexotanke - akwarium  
+petrolipe - ropa naftowa  
+pexe - ryba  
+pexehuke - haczyk  
+pexetanke - akwarium  
 piano - pianino  
 piaze - cebula  
 picea - świerk  
@@ -2585,10 +2585,9 @@ retrogul sense - nudności (choroba lokomocyjna)
 • relia - rzeczywistość (realność)  
 renium - ren  
 rentogenium - roentgen  
+repauze in pace (RIP) - spoczywaj w pokoju  
 resete - recepta, receptura, przepis  
 reside - paragon, pokwitowanie  
-reste - zostawić, zostawiać  
-reste in pace (RIP) - spoczywaj w pokoju  
 restorante - restauracja  
 Reunion - Reunion  
 rezin - żywica  
@@ -2795,7 +2794,6 @@ sife - opisać (zakwalifikować; cecha, właściwość, parametr)
 • susifia - cecha, atrybut, własność; -ość  
 sifelexe - przymiotnik  
 sigare - papieros (cygar)  
-siyahe - czarny  
 sikisme - sikhizm  
 sikiste - sikh  
 sikle - rower  
@@ -2988,7 +2986,7 @@ tate - dotyczyć
 tatosense - czuć  
 • kontate - kontakt  
 tatike - taktyka, strategia  
-tatu - tatuaż  
+tato - tatuaż  
 tave - patelnia  
 taxe - podatek, opłata  
 taxe - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
@@ -3282,8 +3280,6 @@ xatani - diabelski, szatański
 xatanisme - satanizm  
 xataniste - satanista  
 xatrange - szachy  
-xau - niewiele (mało)  
-xaves - nieliczność  
 xaxa - szeleścić  
 xe - rzecz  
 xehal - sytuacja (stan)  
@@ -3314,6 +3310,11 @@ xir - poemat
 xirope - syrop  
 xixkababe - szisz kebab  
 xite - gówno  
+xiu - mały; mało, trochę, nieco  
+xiubol - bańka  
+xiuyam - przekąska  
+xivite - kamyk  
+xiukaboge - cukinia  
 Xiva - Śiwa  
 xixe - nabić (przebić, dźgnąć)  
 xix - rożen (szpikulec)  
@@ -3404,6 +3405,7 @@ zayia - teraźniejszość, współczesność
 zai zaman - teraźniejszość, współczesność (teraz)  
 zai zaman su - bieżący (aktualny, obecny)  
 zaitun - oliwka  
+zaitunlipe - oliwa (olej oliwkowy)  
 zalime - złośliwy, okrutny  
 • zalimia - tyrania  
 zalime reger - tyran  

@@ -140,7 +140,7 @@ bage - sako
 bagre - tigro  
 bahaisme - bahaismo  
 bahaiste - bahaisto  
-bake - blanka  
+baku - blanka  
 bale - forta  
 • balia - forto  
 • anbale - malforta  
@@ -260,7 +260,7 @@ brave - brave!
 Brazil - Brazilo  
 bromium - bromo  
 brox - broso  
-brune - bruna  
+brun - bruna  
 brus - gefrato  
 buce - buĉi  
 • bucekan - buĉejo  
@@ -288,6 +288,7 @@ cai - teo
 caipote - teujo  
 cakre - rado  
 caku - tranĉilo  
+cakukate - tranĉi  
 camaca - kulero  
 campion - ĉampiono  
 can - produkti (fabriki)  
@@ -332,8 +333,6 @@ cum - kiso
 cupe - suĉi  
 cute - eliri  
 cutomun - elirejo  
-cuve - maĉi  
-cuvogom - maĉgumo  
 cuze - elekti  
 
 ## D  
@@ -355,7 +354,6 @@ dane - semo
 • danike - sema  
 danse - danco  
 dante - dento  
-• danta - mordi  
 dantobrox - dentbroso  
 dantotiber - dentisto  
 dargomute - disvolvi  
@@ -718,6 +716,7 @@ hate - ĝis
 hato - eĉ  
 hatre - danĝero  
 have - aero  
+haxi - haŝio (kvajzo)  
 he - ĉu?  
 helium - helio  
 helene - greka  
@@ -860,6 +859,9 @@ kalsium - kalcio
 kalsokristal - marmoro  
 kalsomate - kalko  
 kalsopetre - kalkoŝtono  
+kam - malmulte  
+• kamia - malmulteco  
+• kamife - malmultigi  
 kamar - ĉambro  
 Kambojia - Kamboĝo  
 kamis - ĉemizo  
@@ -879,6 +881,7 @@ kape - kapti
 • karer - laboristo  
 • konkare - kunlabori  
 karelexe - verbo  
+kara - nigra  
 karate - karateo  
 karave - karvio  
 karbe - karbono  
@@ -890,8 +893,11 @@ Karibia - Karibio
 karote - karoto  
 karte - mapo  
 karvan - karavano  
+kaslan - pigra (mallaborema)  
 kastan - kaŝtano  
-kate - tranĉi  
+kate - mordi  
+• katade - maĉi  
+kategom - maĉgumo  
 Katalunia - Katalunio  
 katana - glavo  
 katus - kaktuso  
@@ -1015,15 +1021,18 @@ lale - ruĝa
 lalorange - mandarino  
 lalobavite - rubeno  
 lampe - lampo  
+lasa - rubo  
+lasastan - rubejo  
+lasatong - rubujo  
 lasun - ajlo  
 late - flanko (latero)  
-late - flanka (latera)  
+latedike - flanka (latera)  
 Latvia - Latvio  
 laurensium - laŭrencio  
-laze - rubo  
 lenge - malvarma  
 lengomosim - vintro  
 lengomosime - vintra  
+Lesa - Lasao  
 letre - letero  
 letus - laktuko  
 lexe - vorto  
@@ -1033,10 +1042,6 @@ lexoliste - vortaro
 leze - piro  
 libele - libelo  
 • alige - aligi  
-lile - malgranda  
-lilbol - bobelo  
-lilsite - urbeto  
-lilite - ŝtoneto  
 • tralime - tro  
 limon - citrono  
 limonrange - flava  
@@ -1044,6 +1049,7 @@ limon jus - limonado
 line - lineo (ŝnuro)  
 lineme - fibro  
 lince - linko  
+lipe - lipido (graso, oleo)  
 lise - glata  
 lisan - lango  
 liste - listo  
@@ -1226,8 +1232,8 @@ nasomede - internacia
 • nature - naturo  
 natrium - natrio  
 nau - boato (ŝipo)  
-nave - boatumi  
-naulefte - babordo  
+nauga - boatumi  
+nauleve - babordo  
 nauraite - tribordo  
 navate - naūatla  
 naze - nazo  
@@ -1360,6 +1366,7 @@ patolojia - patologio
 patomise - infekto  
 patate - terpomo  
 pau - fusilo  
+• repauze - ripozo  
 • prepede - propedeŭtiko  
 pedal - pedalo  
 peikar - metiero  
@@ -1382,7 +1389,8 @@ perde - furzo
 pete - ventro  
 peta - peta-  
 petre - roko  
-pexohuke - fiŝhoko  
+pexe - fiŝo  
+pexehuke - fiŝhoko  
 piano - piano  
 piaze - cepo  
 pige - kulo  
@@ -1479,8 +1487,7 @@ rel - reala
 • anrel - nereala  
 renium - renio  
 rentogenium - rentgenio  
-reste - ripozo  
-reste in pace (RIP) - ripozu pace  
+repauze in pace (RIP) - ripozu pace  
 restorante - restaŭracio  
 rezin - rezino  
 ri- - ripetado  
@@ -1590,7 +1597,6 @@ side - sidi
 • susifia - eco  
 sifelexe - adjektivo  
 sigare - cigaredo  
-siyahe - nigra  
 • sikliste - biciklisto  
 • risikle - recikligi  
 silike - silicio  
@@ -1686,7 +1692,7 @@ Tanzania - Tanzanio
 tas - plado  
 tate - tuŝi  
 tatosense - senti  
-tatu - tatuo  
+tato - tatuo  
 tave - pato  
 taze - freŝa  
 tehne - tekniko  
@@ -1837,7 +1843,6 @@ xarnir - ĉarniro (pivoto)
 xarte - kondiĉo (postulo)  
 xatan (ruhoxatan) - diablo (Satano)  
 xatrange - ŝako  
-xau - malmulte  
 xehal - situacio (aferstato)  
 xefe - estro (ĉefulo)  
 xefe manter - ĉefministro  
@@ -1853,6 +1858,10 @@ xir - poemo
 • xiria - poezio  
 xirope - siropo  
 xite - merdo  
+xiu - malgranda  
+xiubol - bobelo  
+xivite - ŝtoneto  
+xiusite - urbeto  
 Xiva - Ŝivo  
 xixomanse - ŝaŝliko  
 xofe - konduki  
@@ -1916,6 +1925,7 @@ zayia - ĉeestanteco (ekzisto)
 zai zaman - nuno  
 zai zaman su - nuna  
 zaitun - olivo  
+zaitunlipe - olivoleo  
 zaman - tempo  
 • prezaman - pasinteco  
 Zambia - Zambio  

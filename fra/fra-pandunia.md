@@ -196,10 +196,11 @@ aïe! - ai
 
 ## B  
 
-babord - naulefte  
+babord - nauleve  
 backgammon - narde  
 bagage - bagaje  
 baguette - dikobaton  
+baguettes - haxi  
 bah - bah  
 bah! (fi!) - fi  
 baie (golf) - haisake  
@@ -256,7 +257,7 @@ biome - biosistem
 bismuth - bismute  
 bison - bison  
 bière - bir  
-blanc - bake  
+blanc - baku  
 blettes (bettes) - selge  
 bleu - nile  
 bloquer - tape  
@@ -291,7 +292,7 @@ brique - binite
 brochette - xix  
 brome - bromium  
 brosse à cheveux - kexobroxe  
-brun (marron) - brune  
+brun (marron) - brun  
 brûler - hoge  
 budget - bugete  
 buisson - dipe moke  
@@ -317,7 +318,7 @@ cafetière - kafe pote
 café - kafe  
 café - kafe kan  
 cage - batonkase  
-caillou - lilite  
+caillou - xivite  
 calcaire - kalsopetre  
 calcite - kalsite  
 calcium - kalsium  
@@ -390,7 +391,7 @@ chaux - kalsomate
 chef - xefe  
 chemise - kamis  
 chercher - soge  
-chewing-gum - cuvogom  
+chewing-gum - kategom  
 chien - vaf  
 chimie - kimolojia  
 Chine - Zungogia  
@@ -490,7 +491,7 @@ couguar (puma) - puma
 couleur - rang  
 coupe (tasse, verre) - kupe  
 coureur - korer  
-courgette - lilkaboge  
+courgette - xiukaboge  
 courir - kore  
 couronne - koron  
 cousin - cinbrusben  
@@ -604,6 +605,7 @@ dé - zarkube
 déboguer (débugger) - degalte  
 début (commencement) - xure  
 décapé (mariné) - acari  
+décharge - lasastan  
 déchirer - cire  
 défigurer - dusforme  
 déféquer - defeke  
@@ -742,6 +744,7 @@ galaxie - galaxia
 gallium - galium  
 galop - galope  
 garde-boue (aile) - fangodefoban  
+gauche - leve  
 gaufre - vafle  
 Gaule - Galia  
 gaz - gas  
@@ -806,7 +809,7 @@ hache - futau
 hafnium - hafnium  
 haine - hen  
 halte - halte  
-hameçon - pexohuke  
+hameçon - pexehuke  
 haschich - haxix  
 hassium - hesium  
 haut - gau  
@@ -832,7 +835,7 @@ honorer - onore
 horloge - horloger  
 houe - cope  
 hourra - hura  
-huile (pétrole) - nefte  
+huile d'olive - zaitunlipe  
 huit (8) - bate  
 hum - hem  
 humain - humane  
@@ -942,6 +945,7 @@ kiwi - kivi
 koala - koala  
 krypton - kriton  
 kumquat - kankuate  
+Kâmasûtra - Kama sutre  
 
 ## L  
 
@@ -965,9 +969,9 @@ langue des signes - gestobaxe
 langue maternelle - genobase  
 lanthane - lantanium  
 lapin (lièvre) - tuze  
-lapis-lazuli - lazurpetre  
+lapis-lazuli - lazurite  
 lasagne - lazanya  
-latéral - late  
+latéral - latedike  
 lave - fuzopetre  
 lawrencium - laurensium  
 le (la) - la  
@@ -979,6 +983,7 @@ lettre d’amour (billet doux) - ame letre
 leur - yamen su  
 lexical - lexike  
 leçon - xulaje  
+Lhassa - Lesa  
 libellule - libele  
 libre - hure  
 lichen - algafung  
@@ -990,6 +995,8 @@ ligne téléphonique - telefonlin
 lime (citron vert) - kagujolimon  
 limité - belime  
 linguistique - baxolojia  
+lipide (huile) - lipe  
+liposuccion - lipocupe  
 lire - duge  
 liste - liste  
 lithium - litium  
@@ -1017,7 +1024,7 @@ luthéranisme - martinluterisme
 luthérien - martinluteriste  
 lutte - jihade  
 lutécium - lutetium  
-luxure (libido) - kame  
+luxure (libido) - kama  
 luxure - luxure  
 lynx - lince  
 lys - susan  
@@ -1053,7 +1060,7 @@ marche - marce
 marché (bazar) - bazar  
 mardi - den du  
 margay (chat-tigre) - margai  
-marguerite - bakomargarite  
+marguerite - bakumargarite  
 mariage - gamia  
 Maroc - Magribia  
 Mars - Marse  
@@ -1111,7 +1118,7 @@ monde - dunia
 monnaie (pièce) - monete  
 monocle - unoki lense  
 monologue - autologe  
-mordre - danta  
+mordre - kate  
 morue - bakalau  
 morue de l'Atlantique - atlante bakalau  
 morue du Pacifique - pacehaikade  
@@ -1133,6 +1140,7 @@ mur - mur
 musique - muzike  
 musli - musli  
 mycélium - fungonete  
+mâcher (mastiquer) - katade  
 mât - maste  
 mère (maman) - mai  
 mère - matre  
@@ -1170,7 +1178,7 @@ nihonium - niponium
 niobium - niobium  
 niveau - par  
 nobélium - nobelium  
-noir - siyahe  
+noir - kara  
 noit - noce  
 nombre (numéro, compte; compter) - nume  
 nombre pair - pari numbe  
@@ -1236,7 +1244,7 @@ ordinateur - konputer
 ordinateur tablette - table konputer  
 ordinateur tablette - tablete konputer  
 ordre - ratibe  
-ordures - laze  
+ordures - lasa  
 oreille - or  
 organiser - nome  
 organisme - bie  
@@ -1291,6 +1299,8 @@ paranormal - paranorme
 parapluie - barsocate  
 parc - parke  
 pardonner - mafe  
+paresseux (aï) - peresa  
+paresseux (fainéant) - kaslan  
 parfait - perfete  
 Paris - Paris  
 parler (parole) - loge  
@@ -1329,8 +1339,8 @@ perturber (turbulence) - disturbe
 pervers - perverse  
 peser - vezu  
 pet (vesse; péter) - perde  
-petit - lile  
-peu - xau  
+petit - xiu  
+peu - kam  
 peur (effrayer; craindre) - fobe  
 peut-être - ablo  
 phase - faze  
@@ -1376,6 +1386,7 @@ pocion - tibesui
 podzol - huidarte  
 poids (lourdeur, gravité) - vezia  
 poireau - porei  
+poisson - pexe  
 poisson-globe - balonpes  
 poivre - pipre  
 poivre long - longopipre  
@@ -1405,6 +1416,7 @@ potassium - kalium
 poterie - poteria  
 potier - poter  
 pou - poyu  
+poubelle - lasatong  
 poudre à canon - barude  
 Poulpe (pieuvre) - batosenter  
 pouls - pulsation  
@@ -1464,7 +1476,7 @@ pyramide - piram
 pâquerette - englomargarite  
 pâte - paste  
 pâte à modeler - plastopaste  
-pétrole (essence) - petronefte  
+pétrole (essence) - petrolipe  
 pétrologie - petrolojia  
 quand - ke sate  
 quartz - kuarze  
@@ -1500,8 +1512,8 @@ religion - din
 remplir - pure  
 renard - huli  
 reporter (rapporteur) - reporter  
-repos - reste  
-repose en paix (REP) - reste in pace (RIP)  
+repos - repauze  
+repose en paix (REP) - repauze in pace (RIP)  
 repport (reportage) - reporte  
 reprendre - redure  
 requin - xarke  
@@ -1596,7 +1608,7 @@ sauce - saus
 sauce de soja - soisaus  
 saucisse - sosis  
 saumon altentique - atlante salmon  
-saumon du Pacifique (saumon kéta, saumon chien) - bakosalmon  
+saumon du Pacifique (saumon kéta, saumon chien) - bakusalmon  
 saumon rose - rozosalmon  
 saumon sockeye - lalsalmon  
 sauvage - ekogene  
@@ -1702,6 +1714,7 @@ Talibans - Talban
 tantale - tantalium  
 tarte - pai  
 tasse à thé - caikupe  
+tatou - tatu  
 taupe - krote  
 taximètre - taxi metrer  
 technique - tehne  
@@ -1843,7 +1856,7 @@ vice-roi - visereger
 vie - jive  
 vierge - virge  
 vieux (ancien) - senike  
-vieux (âgé, ancien) - lave  
+vieux (âgé, ancien) - lau  
 vigne - skalotan  
 village - vilaje  
 ville - site  

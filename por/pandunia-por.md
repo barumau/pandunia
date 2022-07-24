@@ -124,9 +124,9 @@ badam - amêndoa
 • bagaje - bagagem  
 bagre - tigre  
 bagroselote - gato-do-mato (gato-maracajá-mirim)  
-bake - branco  
-bakomargarite - margarita-maior  
-bakosalmon - salmão-cão (salmão-keta)  
+baku - branco  
+bakumargarite - margarita-maior  
+bakusalmon - salmão-cão (salmão-keta)  
 • balia - força  
 • anbale - fraco (débil)  
 baloton - acento  
@@ -219,7 +219,7 @@ botel - garrafa (botelha)
 brave - bravo (valente, corajoso)  
 brave - bravo!  
 bromium - bromo  
-brune - castanho (marrom)  
+brun - castanho (marrom)  
 brunsalmon - truta-marrom  
 bu! - bu!  
 bubu - bicho-papão  
@@ -277,7 +277,6 @@ coi - verdura
 coklate - chocolate  
 coklatobaton - barra de chocolate  
 cope - enxada  
-cuvogom - chiclete (goma de mascar, chuinga)  
 • cuzable - opção  
 
 ## D  
@@ -294,7 +293,6 @@ dane - semente
 • danike - seminal  
 danger - sino (campainha)  
 danse - baile (danza)  
-• danta - morder  
 darotube - funil  
 dargomute - desenvolvimento  
 darmositium - darmstádio  
@@ -555,6 +553,7 @@ haste - ocupado (atarefado)
 • anhaste - lento  
 hate - até  
 hatre - perigo  
+haxi - pauzinho (hashi)  
 haxix - haxixe  
 hei - ei  
 helium - hélio  
@@ -681,7 +680,8 @@ kalsium - cálcio
 kalsokristal - mármore  
 kalsomate - cal  
 kalsopetre - calcário  
-kame - luxúria  
+kam - poucos  
+kama - luxúria  
 kamar - sala (câmara)  
 kamil - camomila-vulgar  
 kamis - camisa  
@@ -700,6 +700,7 @@ kare - trabalhar
 • duskar - malfeitoria (pecado)  
 • konkare - colaborar  
 karelexe - verbo  
+kara - preto  
 karave - alcaravia (cariz)  
 karbe - carbono  
 karboduloxide - dióxido de carbono  
@@ -720,7 +721,11 @@ kase - caixa
 • kasete - cassete  
 • kasule - cápsula  
 kaske - casca (concha)  
+kaslan - preguiçoso  
+kate - morder  
+• katade - mastigar (mascar)  
 kategluteban - área de transferência  
+kategom - chiclete (goma de mascar, chuinga)  
 katana - espada  
 katus - cacto  
 kave - cavar (escavar)  
@@ -825,23 +830,26 @@ lama - lama
 • lamaisme - lamaísmo  
 lampe - lâmpada (luminária)  
 lantanium - lantâno  
+lasa - refugo (escória)  
+lasastan - aterro (lixão)  
+lasatong - lixeira  
 lasun - alho  
 late - lado  
-late - lateral  
+latedike - lateral  
 Latvia - Letónia  
-lave - idoso  
+lau - idoso  
 laurensium - lawrêncio  
 laxe - deixar  
-laze - refugo (escória)  
 lazanya - lasanha  
 lazure - azur (blau)  
-lazurpetre - lápis-lazúli  
-lefte - esquerdo  
+lazurite - lápis-lazúli  
 lengomosim - inverno  
 lengomosime - invernal (hibernal)  
 lense - lente  
+Lesa - Lassa  
 letre - carta  
 letus - alface  
+leve - esquerdo  
 lexe - palavra (vocábulo)  
 • lexia - vocabulário  
 • lexike - léxico  
@@ -851,15 +859,14 @@ liboban - prateleira (estante)
 libele - libélula  
 • lider - líder (chefe)  
 lifafe - embalar  
-lile - pequeno  
-lilkaboge - abobrinha  
-lilite - pedrinha  
 • belime - limitado  
 limon - limão  
 limon jus - limonada  
 line - linha (fio)  
 lineme - fibra  
 lince - lince  
+lipe - óleo (lípido, lipídio)  
+lipocupe - lipoaspiração  
 lisan - língua  
 liste - lista  
 litium - lítio  
@@ -1031,11 +1038,10 @@ nasibe - destino
 • prenatal - pré-natal  
 natrium - sódio  
 nau - barco (navio)  
-naulefte - bombordo  
+nauleve - bombordo  
 nautile - nautiloide  
 naze - nariz (nasal)  
 nefre - rim  
-nefte - aeite (óleo)  
 • nekrofilisme - necrofilia  
 • nekrologe - obituário  
 • nekrotome - autopsía  
@@ -1176,6 +1182,7 @@ patolojia - patologia
 patomise - infectar (contagiar; infecção, contágio)  
 pau - arma de fogo  
 pauze - pausa  
+• repauze - repouso  
 peikar - profissão  
 peikari jive - carreira  
 • expele - expelir  
@@ -1192,8 +1199,9 @@ perokardon - cardo-roxo
 perde - peido (peidar)  
 petre - rocha (pedra)  
 • petrolojia - petrologia  
-petronefte - petróleo  
-pexohuke - anzol  
+petrolipe - petróleo  
+pexe - peixe  
+pexehuke - anzol  
 piaze - cebola  
 picea - pícea (espruce)  
 pike - ponta (pico, bico)  
@@ -1301,8 +1309,7 @@ rel - real
 rel televizion - televisão de realidade  
 renium - rénio  
 rentogenium - roentgênio  
-reste - repouso  
-reste in pace (RIP) - descanse em paz  
+repauze in pace (RIP) - descanse em paz  
 ri- - repetição  
 rim - rima  
 ring - anel  
@@ -1393,7 +1400,6 @@ siborgium - seabórgio
 • presidente - presidente  
 sifelexe - adjetivo  
 sigare - cigarro  
-siyahe - preto  
 • sikliste - ciclista  
 • risikle - reciclar  
 silike - silício  
@@ -1475,6 +1481,7 @@ tan - haste (talo, caule)
 tantalium - tântalo  
 tate - tocar (tato)  
 • kontate - contato  
+tatu - tatu  
 taxi metrer - taxímetro  
 tehne - técnica  
 tehnium - tecnécio  
@@ -1626,7 +1633,6 @@ xarke - tubarão
 xate - opor  
 xatan - adversário  
 xatan (ruhoxatan) - Satanás  
-xau - poucos  
 xe - coisa  
 xehal - situaçao  
 xefe - chefe  
@@ -1639,6 +1645,9 @@ xipe - molhar (molhado)
 xipostan - brejo (paul)  
 • xiria - poesia  
 xite - merda  
+xiu - pequeno  
+xivite - pedrinha  
+xiukaboge - abobrinha  
 Xiva - Xiva  
 xofe - conduzir  
 • xofer - condutor (chofer, motorista)  
@@ -1678,6 +1687,7 @@ yune - jovem
 ## Z  
 
 zai zaman su - corrente (atual)  
+zaitunlipe - azeite (óleo de oliva)  
 zaman - tempo  
 zarkube - dado  
 zebra - zebra  

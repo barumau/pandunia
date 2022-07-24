@@ -173,7 +173,7 @@ and it means the same as English _which_.
 – When? (What time?)  
 **ke yang?** 
 – How? (What way?)  
-**ke sabu?**
+**ke sababe?**
 – Why? (What reason?)
 
 Also adjectives are questioned with **ke**.
@@ -184,9 +184,11 @@ Also adjectives are questioned with **ke**.
 – How costy?  
 **ke poli?**
 – How many?  
+**ke kam?**
+– How few?  
 **ke dai?**
 – How big?  
-**ke lili?**
+**ke xiu?**
 – How small?
 
 **tu ten ke dai di mau?**

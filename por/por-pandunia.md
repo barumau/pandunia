@@ -5,7 +5,7 @@
 abater - buce  
 abelha ou vespa - vespe  
 abeto - abete  
-abobrinha - lilkaboge  
+abobrinha - xiukaboge  
 abóbada - arkocate  
 abóbora (jerimun) - kaboge  
 acanto-bastardo - pinkardon  
@@ -23,7 +23,6 @@ adesivo - glutograf
 adjetivo - sifelexe  
 administrador - politer  
 adversário - xatan  
-aeite (óleo) - nefte  
 aeroporto - airoporta  
 aeróbico - airobike  
 Afeganistão - Afgania  
@@ -77,7 +76,7 @@ anis - anis
 anormal - annorme  
 antibélico - antigere  
 antimónio - stibium  
-anzol - pexohuke  
+anzol - pexehuke  
 análise - fenkate  
 aperfeiçoar - purbone  
 apodrecer-se - pudu  
@@ -123,6 +122,7 @@ astronave - astronau
 astronomia - astronomia  
 astrónomo - astronomer  
 Atenas - Atina  
+aterro (lixão) - lasastan  
 ativo - ative  
 ato - ate  
 até - hate  
@@ -136,6 +136,7 @@ aventura - ventur
 aventureiro - venturer  
 avó - cinma  
 avô - cinpa  
+azeite (óleo de oliva) - zaitunlipe  
 azur (blau) - lazure  
 azur - nile  
 açougueiro (talhante) - bucer  
@@ -194,7 +195,7 @@ boletim de notícias - habar letre
 bolo lunar - lunokeke  
 bom - bon  
 bomba - bombe  
-bombordo - naulefte  
+bombordo - nauleve  
 borboleta - pelpel  
 boro - boron  
 bota - bute  
@@ -202,7 +203,7 @@ botânica - fitolojia
 botão - buton  
 boxe - bokse  
 boxeador (pugilista) - bokser  
-branco - bake  
+branco - baku  
 bravo (valente, corajoso) - brave  
 bravo! - brave  
 braço - handange  
@@ -279,7 +280,7 @@ casa de campo (vila) - vile
 casca (concha) - kaske  
 cascalho - grave  
 cassete - kasete  
-castanho (marrom) - brune  
+castanho (marrom) - brun  
 catchup - kecape  
 cavar (escavar) - kave  
 caçar - yege  
@@ -306,7 +307,7 @@ cheirar - aromu
 cheiro - gande  
 cheque - ceke  
 cheque de viajante - safaroceke  
-chiclete (goma de mascar, chuinga) - cuvogom  
+chiclete (goma de mascar, chuinga) - kategom  
 China - Zungogia  
 chocolate - coklate  
 chorar - vava  
@@ -441,7 +442,7 @@ deixar - laxe
 deixar - live  
 dente-de-leão (taráxaco) - makanful  
 derretre - fuze  
-descanse em paz - reste in pace (RIP)  
+descanse em paz - repauze in pace (RIP)  
 desconectar - dekonnete  
 desenvolvimento - dargomute  
 deserto - sablostan  
@@ -566,7 +567,7 @@ esporte - sporte
 esposo ou esposa - gamike  
 esquecer - dememe  
 esqueleto - ostogamia  
-esquerdo - lefte  
+esquerdo - leve  
 esquilo - ekore  
 estado - hal  
 estanho - stanium  
@@ -752,7 +753,7 @@ hóquei no gelo - aishoke
 
 idade - sene  
 idoso (sene) - senike  
-idoso - lave  
+idoso - lau  
 ignorante - annosike  
 ignorar - annose  
 igual (par) - pare  
@@ -847,7 +848,8 @@ lantâno - lantanium
 lançador de foguetes - roketolancer  
 laranja - orange  
 lasanha - lazanya  
-lateral - late  
+Lassa - Lesa  
+lateral - latedike  
 lawrêncio - laurensium  
 leite - milke  
 leite de soja - soimilke  
@@ -868,12 +870,14 @@ lince - lince
 linguagem de sinais - gestobaxe  
 linguística - baxolojia  
 linha (fio) - line  
+lipoaspiração - lipocupe  
 lista - liste  
 literatura - kitabia  
 litro - litre  
 livermório - livermorium  
 livre (forro) - hure  
 livro - buke  
+lixeira - lasatong  
 lição - xulaje  
 local - lokike  
 lombo - lumbe  
@@ -888,12 +892,12 @@ luta - jihade
 luteranismo - martinluterisme  
 luterano - martinluteriste  
 lutécio - lutetium  
-luxúria - kame  
+luxúria - kama  
 luxúria - luxuria  
 luz - fote  
 lápide - gabrite  
 lápis - kalam  
-lápis-lazúli - lazurpetre  
+lápis-lazúli - lazurite  
 lâmpada (luminária) - lampe  
 léxico - lexike  
 líder (chefe) - lider  
@@ -934,7 +938,7 @@ marcha - marce
 marfim - gaja dante  
 margarida - margarite  
 margarida-comum - englomargarite  
-margarita-maior - bakomargarite  
+margarita-maior - bakumargarite  
 marinha - haiorde  
 Marrocos - Magribia  
 Marte - Marse  
@@ -942,6 +946,7 @@ marítimo - hayike
 mas - ama  
 massa - mas  
 massa de modelar (massinha) - plastopaste  
+mastigar (mascar) - katade  
 mastro - maste  
 matadouro - bucekan  
 matemática - hisabolojia  
@@ -1001,7 +1006,7 @@ montanha (monte) - monte
 monção - barsomosim  
 monóculo - unoki lense  
 monólogo - autologe  
-morder - danta  
+morder - kate  
 moscovio - moskovium  
 motoneta (lambreta) - motor skuter  
 motor - moter  
@@ -1167,6 +1172,7 @@ pato - bata
 patologia - patolojia  
 patógeno - patogener  
 pausa - pauze  
+pauzinho (hashi) - haxi  
 pavão real - mayur  
 paz - pace  
 país - gogia  
@@ -1175,9 +1181,10 @@ pedir emprestado - jekocepe
 pedra - ite  
 pedra preciosa (gema) - bavite  
 pedregulho - dayite  
-pedrinha - lilite  
+pedrinha - xivite  
 pegada - futomarke  
 peido (peidar) - perde  
+peixe - pexe  
 pele - pil  
 pender - pende  
 penso (band-aid) - glutobende  
@@ -1185,7 +1192,7 @@ pentágono - pentogone
 pepino - hiyar  
 pepino-africano (kiwano) - kornemelon  
 pepino-do-mar (holotúrias) - haihiyar  
-pequeno - lile  
+pequeno - xiu  
 perdedor - xibayer  
 perder - dexibai  
 perdoar (desculpar) - mafe  
@@ -1199,7 +1206,7 @@ pesar - vezu
 pescoço (nuca, gargalo) - nuke  
 pessoa - jen  
 petrologia - petrolojia  
-petróleo - petronefte  
+petróleo - petrolipe  
 picareta - pincope  
 pilha (bateria) - batre  
 pimenta - pipre  
@@ -1241,7 +1248,7 @@ possível - able
 poste (estaca) - baton  
 posterior - postre  
 potássio - kalium  
-poucos - xau  
+poucos - kam  
 prancheta - pinsoban  
 praseodímio - prasedium  
 prata - argente  
@@ -1252,11 +1259,12 @@ precioso - bau
 precursor - prekurser  
 preferir - prefere  
 preferir - profile  
+preguiçoso - kaslan  
 prensa - preser  
 presente (prenda) - donaje  
 presidente - presidente  
 pressão - prese  
-preto - siyahe  
+preto - kara  
 prever (anticipar) - previde  
 primo - cinbrusben  
 problema - problem  
@@ -1348,7 +1356,7 @@ reciclar - risikle
 reconhecer - rinose  
 recém-nascido - neugene  
 referir - refere  
-refugo (escória) - laze  
+refugo (escória) - lasa  
 regenerar - rigenerate  
 regime - politomode  
 reinar - reje  
@@ -1362,7 +1370,7 @@ reparar - ribone
 reparar - repare  
 repetir - rifete  
 repetição - ri-  
-repouso - reste  
+repouso - repauze  
 repórter - reporter  
 reserva - rezerve  
 resfiado (gripe) - zukam  
@@ -1414,7 +1422,7 @@ saia - skerte
 sal - salte  
 sala (câmara) - kamar  
 salada - salade  
-salmão-cão (salmão-keta) - bakosalmon  
+salmão-cão (salmão-keta) - bakusalmon  
 salmão-rosa - rozosalmon  
 salmão-vermelho - lalsalmon  
 salsicha - sosis  
@@ -1506,6 +1514,7 @@ tablet - table konputer
 tablet - tablete konputer  
 Talibã - Talban  
 tangerina (mandarim) - lalorange  
+tatu - tatu  
 taxímetro - taxi metrer  
 tear - texomaxin  
 tecnécio - tehnium  
@@ -1690,6 +1699,7 @@ zumbi - zombi
 âncora - angar  
 érbio - erbium  
 índio - hindium  
+óleo (lípido, lipídio) - lipe  
 ósmio - osmium  
 ótimo (óptimo) - otimal  
 óxide - oxide  

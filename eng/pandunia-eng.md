@@ -42,6 +42,7 @@ a - by (at, in, on)
 a intre - inside  
 a ke - where  
 a korte - soon (after a while)  
+a late dike - sideways (laterally)  
 a le - there  
 a line - online  
 a long - long (over a gread distance)  
@@ -300,11 +301,11 @@ bahaisme - Baha'ism
 bahaiste - Baha'ist  
 Bahama - Bahamas  
 Bahrain - Bahrain  
-bake - white  
-bakocoi - bok choy  
-bakomargarite - oxeye daisy  
-bakosalmon - chum salmon  
 bakalau - cod  
+baku - white  
+bakucoi - bok choy  
+bakumargarite - oxeye daisy  
+bakusalmon - chum salmon  
 bale - strong  
 • balia - force (strength, power)  
 • balekan - gym (fitness center)  
@@ -492,7 +493,7 @@ Britania - United Kingdom
 bromium - bromine  
 brox - brush  
 broxokalam - inkbrush (calligraphy brush)  
-brune - brown  
+brun - brown  
 brunalge - brown algae  
 brunsalmon - brown trout  
 Brunei - Brunei Darussalam  
@@ -541,6 +542,7 @@ caikupe - tea cup
 caipote - teapot  
 cakre - wheel  
 caku - knife  
+cakukate - cut  
 camaca - spoon  
 campion - champion  
 can - produce (create, make)  
@@ -558,6 +560,7 @@ catre - four (4)
 catrogalope - gallop  
 catrogone - square (tetragon)  
 cau - grass  
+caukitabe - grass script (calligraphic cursive writing)  
 caustan - grassland (prairie)  
 Cehia - Czech Republic  
 ceke - cheque (check)  
@@ -637,8 +640,6 @@ cum - kiss
 cupe - suck (absorb)  
 cute - leave (go out, exit)  
 cutomun - exit door  
-cuve - chew  
-cuvogom - chewing gum  
 cuze - choose (elect, select, pick; choice, election, selection))  
 • cuzable - option (choice)  
 • precuze - default (preset, predecided)  
@@ -678,7 +679,6 @@ dange - ring (toll, clang)
 danger - bell  
 danse - dance  
 dante - tooth  
-• danta - bite  
 dantobalute - daimyo oak  
 dantobrox - tooth brush  
 dantokume - alveolar ridge (gum ridge)  
@@ -1479,6 +1479,7 @@ hatre - danger (peril; dangerous, perilous)
 Havai - Hawaii  
 Havai nesia - Hawaiian archipelago  
 have - atmosphere (air, wind)  
+haxi - chopsticks  
 haxix - grass (hashish)  
 Hayastan - Armenia  
 he - huh? (pardon?)  
@@ -1561,7 +1562,7 @@ Horvatia - Croatia
 hotel - hotel  
 hui - ash (ashes)  
 huidarte - podzol  
-huirange - grey (gray, ashy)  
+huirang - grey (gray, ashy)  
 huke - hook  
 hukokrus - swastika (hooked cross)  
 huli - fox  
@@ -1778,7 +1779,11 @@ kalsium - calcium (Ca)
 kalsokristal - marble  
 kalsomate - lime  
 kalsopetre - limestone  
-kame - lust (desire, libido, sexual passion)  
+kam - little (few, not many)  
+• kamia - scarcity  
+• kamife - reduce  
+kama - lust (desire, libido, sexual passion)  
+Kama sutre - Kama Sutra  
 kamar - room (chamber)  
 kamardipe - floor  
 kamargau - ceiling  
@@ -1823,6 +1828,7 @@ kare - work
 karelexe - verb  
 karomeza - desk  
 karoxuler - apprentice  
+kara - black  
 karaoke - karaoke  
 karate - karate  
 • karateiste - karateka (practitioner of karate)  
@@ -1859,9 +1865,12 @@ kase - box (container, case)
 • kaser - cashier  
 • kasule - capsule  
 kaske - shell (crust, carapace)  
+kaslan - lazy (indolent)  
 kastan - chestnut  
-kate - cut  
+kate - bite  
+• katade - chew (masticate)  
 kategluteban - clipboard (paste buffer)  
+kategom - chewing gum  
 Katalunia - Catalonia  
 katana - sword  
 Katar - Qatar  
@@ -2009,12 +2018,14 @@ koncaniste - communist
 konformu - conform (fit, mold)  
 konfuncable - compatible (supported)  
 kontre - go against  
+konjen - companion (partner, sidekick)  
 Konakri Ginia - Guinea  
 koncung - insect  
 kong - hole  
 konge - pierce (perforate, bore)  
 Kongfuze - Confucious  
 kongfuzisme - Confucianism  
+• neu kongfuzisme - Neo-Confucianism  
 Konkani - Konkani  
 konserte - concert  
 konus - cone  
@@ -2166,45 +2177,44 @@ LAN (loke aria nete) - LAN
 langan - banister (handrail)  
 Lanka - Sri Lanka (Ceylon)  
 lantanium - lanthanum  
+Lao - Laos  
+Lao jen - Lao (Laotian)  
 larve - larva (maggot, caterpillar)  
+lasa - garbage (rubbish, trash, junk)  
+lasastan - dump (junk yard)  
+lasatong - garbage can (trash bin)  
 laste - elastic  
 lasun - garlic  
 late - side (flank)  
-late - be beside (accompany)  
-late - lateral (horizontal)  
-lato - sideways (laterally)  
-latojen - companion (partner, sidekick)  
-latude - latitude  
+late - be beside  
+• latude - latitude  
 • alative - allative case  
 • abolative - ablative case  
 • exlative - elative case  
 • inlative - illative case  
 • tralative - translative case  
+latedike - lateral (horizontal)  
 latini harfia - Latin alphabet  
 latinkitabe - romanize  
 Latvia - Latvia  
-Lau - Laos  
-lau - elder  
-lave - old (aged, elderly)  
-lave - Lao (Laotian)  
+lau - old (aged, elderly)  
 laurensium - lawrencium  
 laxe - loose (laxe; loosen, let loose, let go)  
 • relaxe - relax  
-laze - garbage (rubbish, trash)  
 lazanya - lasagna  
 lazure - azure  
-lazurpetre - lapis lazuli  
-lefte - left  
-lefte - left hand  
-leftiste - leftist (left-winger)  
+lazurite - lapis lazuli  
+le - already (yet)  
 lege - light (weightless)  
 lenge - cold  
 lengomosim - winter  
 lengomosime - wintry  
 lense - lens  
+Lesa - Lhasa  
 letre - letter (written message)  
 letus - lettuce  
-leu - already (yet)  
+leve - left  
+leviste - leftist (left-winger)  
 lexe - word  
 • lexia - vocabulary (lexicon)  
 • lexeme - lexeme  
@@ -2232,14 +2242,8 @@ lifafe - wrap (wrapping, envelope, covering)
 lige - associate (association, league)  
 • alige - ally  
 Lihtenstain - Liechtenstein  
-lile - little (small; a little, somewhat)  
-lilbol - bubble  
-lilyam - snack  
-lilkaboge - zucchini  
-lilsite - small town  
-lilite - pebble (gravel)  
-lilake - lilac  
-lilake - lilac color  
+lila - lilac  
+lila rang - lilac color  
 lime - limit (boundary)  
 • anlimia - infinity  
 • belime - limited (finite)  
@@ -2254,6 +2258,10 @@ line - line (thread, string)
 lineme - fibre  
 linoparce - line break (newline)  
 lince - lynx  
+lipe - lipid (fat, grease, oil)  
+lipocupe - liposuction  
+lipofobia - lipophobia  
+lipoguke - Indian chrysanthemum  
 lise - smooth  
 lisan - tongue  
 liste - list (listing, catalogue)  
@@ -2732,10 +2740,10 @@ nate - birth
 natre - natron  
 natrium - sodium  
 nau - boat (ship)  
-nave - sail  
+• naver - sailer  
+nauga - sail (navigate)  
 naukaper - privateer (buccaneer)  
-naulefte - port (left side of a ship)  
-naver - sailer  
+nauleve - port (left side of a ship)  
 nauraite - starboard (right side of a ship)  
 nauxefe - captain  
 navate - Nahuatl (Nahua)  
@@ -2749,8 +2757,6 @@ Nederlandi Antil - Netherlands Antilles
 Nederlandia - Netherlands  
 nefre - kidney  
 nefritis - nephritis  
-nefte - oil  
-neftoguke - Indian chrysanthemum  
 nege - refuse (deny, decline)  
 • negative - negative  
 • denege - deny (refuse, turn away)  
@@ -3066,7 +3072,8 @@ patate - potato
 pau - gun (firearm)  
 pau - shoot (fire)  
 paunde - pound (£)  
-pauze - pause (break, interrupt; interruption)  
+pauze - pause (break)  
+• repauze - rest (repose)  
 pede - bring up (educate, raise)  
 • pedia - education (upbringing)  
 • pedocentriste - pedocentrist  
@@ -3111,14 +3118,16 @@ pentogone - pentagon
 pere - feather  
 perokardon - spear thistle  
 perde - fart (flatulence)  
+peresa - sloth (slow-moving mammal)  
 Peru - Peru  
 pete - belly (stomach, abdomen)  
 peta - peta-  
 petre - rock  
 • petrolojia - petrology  
-petronefte - petroleum  
-pexohuke - fishhook  
-pexotanke - fish tank  
+petrolipe - petroleum  
+pexe - fish  
+pexehuke - fishhook  
+pexetanke - fish tank  
 piano - piano  
 piaze - onion  
 picea - spruce tree  
@@ -3401,10 +3410,9 @@ rel - real (genuine)
 rel televizion - reality television  
 renium - rhenium  
 rentogenium - roentgenium  
+repauze in pace (RIP) - rest in peace (RIP)  
 resete - instructions (recipe)  
 reside - receipt (acknowledgement; acknowledge)  
-reste - rest (repose)  
-reste in pace (RIP) - rest in peace (RIP)  
 restorante - restaurant  
 Reunion - Réunion  
 rezin - resin  
@@ -3653,7 +3661,6 @@ sife - qualify (describe; quality, attribute, description)
 • susifia - excellence (quality, virtue)  
 sifelexe - adjective  
 sigare - cigarette (cigar)  
-siyahe - black  
 sikisme - Sikhism  
 sikiste - Sikh  
 sikle - bike (cycle)  
@@ -3853,6 +3860,7 @@ sus - licorice
 susan - lily  
 sute - sew  
 • suture - suture (seam)  
+sutre - codex (ancient book, classic, sutra)  
 suxi - sushi  
 
 ## T  
@@ -3896,7 +3904,8 @@ tate - touch (tact)
 tatosense - feel (sense by touch)  
 • kontate - contact  
 tatike - tactics (strategy)  
-tatu - tattoo  
+tato - tattoo  
+tatu - armadillo  
 tave - frying pan  
 taxe - fee (fare)  
 taxe - collect fees or taxes  
@@ -4318,8 +4327,6 @@ xatani - devilish (satanic)
 xatanisme - Satanism (devil worship)  
 xataniste - Satanist  
 xatrange - chess  
-xau - little (few, not many)  
-xaves - scarcity  
 xaxa - rustle  
 xe - thing  
 xehal - situation (circumstances, state of affairs)  
@@ -4353,6 +4360,12 @@ xir - poem
 xirope - syrup  
 xixkababe - shish kebab  
 xite - shit (poop, feces)  
+xiu - little (small; a little, somewhat)  
+xiubol - bubble  
+xiuyam - snack  
+xivite - pebble (gravel)  
+xiukaboge - zucchini  
+xiusite - small town  
 Xiva - Shiva  
 xixe - impale (stab, skewer)  
 xix - skewer  
@@ -4457,6 +4470,7 @@ zayia - presence (existence)
 zai zaman - present time (now)  
 zai zaman su - current (contemporary, present-day)  
 zaitun - olive  
+zaitunlipe - olive oil  
 zalime - mean (cruel)  
 • zalimia - cruelty (tyranny, despotism)  
 zalime reger - tyrant (despot)  

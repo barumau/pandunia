@@ -121,11 +121,11 @@ bage - 包
 bagre - 虎  
 bagroselote - 小斑虎貓  
 bah - 呸  
-bake - 白  
-bakocoi - 白菜 (小白菜)  
-bakomargarite - 法蘭西菊  
-bakosalmon - 大麻哈鱼 (狗鮭)  
 bakalau - 鱈  
+baku - 白  
+bakucoi - 白菜 (小白菜)  
+bakumargarite - 法蘭西菊  
+bakusalmon - 大麻哈鱼 (狗鮭)  
 • balekan - 体育馆  
 • anbale - 虚弱 (易坏)  
 baloton - 重音符号  
@@ -207,7 +207,7 @@ boron - 硼
 botel - 瓶  
 bromium - 溴  
 broxokalam - 毛笔  
-brune - 棕色 (色)  
+brun - 棕色 (咖啡色)  
 brunsalmon - 褐鳟  
 bubu - 魔鬼  
 • bucekan - 屠宰场  
@@ -229,9 +229,11 @@ caikupe - 茶碗
 caipote - 茶壶  
 cakre - 轮子  
 caku - 刀  
+cakukate - 切  
 camaca - 匙子  
 cantergrupe - 合唱团  
 catre - 四 (4)  
+caukitabe - 草书  
 ceke - 支票  
 celolojia - 细胞学  
 ceng - 层  
@@ -255,7 +257,6 @@ coklatobaton - 巧克力棒
 Congking - 重庆  
 cope - 锄头  
 cuke - 接触  
-cuvogom - 口香糖  
 • cuzable - 选择 (买卖权)  
 
 ## D  
@@ -271,7 +272,6 @@ dane - 种
 • danike - 种子的  
 danograne - 种子  
 danger - 钟 (摇铃)  
-• danta - 咬  
 dantobalute - 槲树  
 darotube - 漏斗  
 dargomute - 发展 (开发)  
@@ -523,6 +523,7 @@ haste - 忙
 hate - 直到  
 hato - 连  
 hatre - 危险  
+haxi - 筷子 (箸)  
 hei - 喂  
 helium - 氦  
 helis - 螺旋  
@@ -584,6 +585,7 @@ jambul - 閻浮樹
 janel - 窗戶  
 janelfrem - 窗框  
 janelovel - 窗帘  
+jangoxute - 武术  
 jangle - 野生  
 jangle van - 丛林  
 jau - 大麦  
@@ -634,7 +636,9 @@ kalsium - 钙
 kalsokristal - 大理石  
 kalsomate - 石灰  
 kalsopetre - 石灰岩  
-kame - 情欲  
+kam - 少  
+kama - 情欲  
+Kama sutre - 欲经  
 kamar - 房间  
 kamil - 母菊  
 kamis - 衬衫  
@@ -653,6 +657,7 @@ kare - 工作
 • karer - 工人 (工作者)  
 • konkare - 合作  
 karelexe - 动词  
+kara - 黑色  
 karbe - 碳  
 karboduloxide - 二氧化碳  
 karcof - 菜蓟  
@@ -668,8 +673,11 @@ karsolimon - 箭叶橙
 karte - 地图  
 kartografia - 地图学  
 kaske - 壳 (皮)  
-kate - 切  
+kaslan - 懒 (懒惰)  
+kate - 咬  
+• katade - 嚼 (咀嚼)  
 kategluteban - 剪贴板  
+kategom - 口香糖  
 katana - 剑  
 katus - 仙人掌  
 kave - 挖  
@@ -767,22 +775,25 @@ lama - 喇嘛
 • lamaisme - 喇嘛教  
 lampe - 灯  
 lantanium - 镧  
+lasa - 废物 (垃圾)  
+lasastan - 垃圾场  
+lasatong - 垃圾桶  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
-latude - 纬度  
+• latude - 纬度  
 Latvia - 拉脱维亚  
-lave - 老 (老年, 年歲大)  
+lau - 老 (老年, 年歲大)  
 laurensium - 铹  
-laze - 废物 (垃圾)  
 lazanya - 千层面  
-lazurpetre - 青金岩  
-lefte - 左  
+lazurite - 青金岩  
+le - 了  
 lenge - 冷たい (寒い)  
 lengomosim - 冬天  
 lense - 透镜  
+Lesa - 拉萨  
 letre - 信 (书信)  
 letus - 莴苣  
-leu - 了  
+leve - 左  
 lexe - 词  
 • lexia - 词汇  
 lexojinse - 文法的性  
@@ -792,15 +803,15 @@ liboban - 架子 (搁板)
 libobaze - 架子  
 libele - 蜻蜓  
 • lider - 领导  
-lile - 小  
-lilkaboge - 西葫芦  
-lilite - 砾石  
 limon - 柠檬  
 • limonike - 柑橘  
 limon jus - 柠檬水  
 line - 线  
 lineme - 纤维  
 lince - 猞猁 (山貓)  
+lipe - 油  
+lipocupe - 吸脂  
+lipoguke - 野菊花  
 lisan - 舌头  
 liste - 单子  
 litium - 锂  
@@ -950,14 +961,12 @@ nasibe - 命運
 • prenatal - 产前  
 natrium - 钠  
 nau - 船 (艇)  
-naulefte - 左舷  
+nauleve - 左舷  
 nauraite - 右舷  
 nautile - 鹦鹉螺  
 naze - 鼻 (鼻子)  
 ne - 呢  
 nefre - 肾脏  
-nefte - 油  
-neftoguke - 野菊花  
 • nekrotome - 尸检  
 nen lun den - 年月日  
 neodimium - 钕  
@@ -1065,6 +1074,7 @@ patogener - 病原体
 patolojia - 病理学  
 patomise - 传染  
 pau - 手枪  
+• repauze - 休息  
 peikar - 职业  
 • propelor - 螺旋桨  
 pelmen - 饺子  
@@ -1078,8 +1088,9 @@ pentogone - 五角形
 perokardon - 翼蓟  
 perde - 屁 (放屁)  
 • petrolojia - 岩石学  
-petronefte - 石油  
-pexohuke - 鱼钩  
+petrolipe - 石油  
+pexe - 鱼  
+pexehuke - 鱼钩  
 piaze - 洋葱  
 picea - 云杉  
 pike - 尖顶  
@@ -1164,8 +1175,7 @@ retrogul sense - 恶心
 • rel televizion - 真人秀  
 rel televizion - 真人秀  
 renium - 铼  
-reste - 休息  
-reste in pace (RIP) - 安息  
+repauze in pace (RIP) - 安息  
 ring - 环 (轮)  
 ringare - 擂台  
 ris - 米  
@@ -1245,7 +1255,6 @@ sexolojia - 性学
 • inside - 蹲  
 sifelexe - 形容词  
 sigare - 香烟  
-siyahe - 黑色  
 • sikliste - 骑自行车的人  
 • risikle - 循环再造  
 silike - 硅  
@@ -1301,6 +1310,7 @@ sulfe - 硫
 suprize - 惊奇  
 sus - 甘草 (国老)  
 susan - 百合花  
+sutre - 经  
 
 ## T  
 
@@ -1315,6 +1325,8 @@ tan - 茎 (梗)
 tantalium - 钽  
 tas - 盘 (碟)  
 tate - 接触  
+tato - 纹身 (刺青)  
+tatu - 犰狳  
 taxi metrer - 计程器  
 taze - 新鲜的  
 tehne - 技术  
@@ -1448,7 +1460,6 @@ xarafun - 锯末
 xarke - 鲨鱼 (shayu)  
 xatan - 敌手  
 xatan (ruhoxatan) - 撒但  
-xau - 少  
 xe - 事物 (东西)  
 xehal - 事态  
 xenon - 氙  
@@ -1463,6 +1474,9 @@ xipostan - 湿地
 xir - 诗  
 • xiria - 诗歌  
 xite - 粪 (屎)  
+xiu - 小  
+xivite - 砾石  
+xiukaboge - 西葫芦  
 Xiva - 湿婆  
 xix - 扦子  
 xixomanse - 串烧  
@@ -1510,6 +1524,7 @@ yuge - 轭
 ## Z  
 
 zai zaman su - 现在的  
+zaitunlipe - 橄榄油  
 zaman - 时间  
 zanger - 工匠 (匠人)  
 zarkube - 骰子 (色子)  

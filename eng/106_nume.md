@@ -63,7 +63,7 @@ They are put before the word or phrase that they qualify.
 – two stars  
 **tri sing**
 – three stars  
-**xau sing**
+**kam sing**
 – few stars  
 **poli sing**
 – many stars

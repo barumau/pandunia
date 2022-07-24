@@ -94,7 +94,7 @@
 **bagre** *tigre* ← hin:बाघ (bāgh), ben:বাঘ (bagh), + fas:(babr), + spa:por:tigre, rus:тигр (tigr)  
 **bah** ** ← eng:spa:ita:bah, por:ba  
 **bakalau** ** ← spa:bacalao, por:bacalhau, fra:cabillaud, deu:Kabeljau, tgl:bakalaw  
-**bake** *branco* ← yue:白 (baak6), vie:bạch, zho:白 (bái), jpn:白 (haku), kor:백 (baek), + fra:blanc, spa:blanco, por:branco  
+**baku** *branco* ← yue:白 (baak6), vie:bạch, zho:白 (bái), jpn:白 (haku), kor:백 (baek) + fra:blanc, spa:blanco, por:branco  
 **balde** *balde* ← spa:por:tgl:balde, hin:बाल्टी (bālṭī), ben:বালতি (balti), may:baldi  
 **bale** ** ← hin:बल (bal), ben:বল (bôl), may:bala, tel:బలము (balamu), tha:พล (pon), พละ (pá-lá)  
 **balon** ** ← fra:ballon, tur:may:pol:balon, eng:balloon, tgl:balun, hau:balân  
@@ -183,7 +183,7 @@
 **brave** *bravo (valente, corajoso)* ← eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)  
 **bromium** *bromo* ← eng:bromine, fra:brome, spa:bromo, por:bromo, rus:бром, kor:브롬, vie:brom, hin:ब्रोमिन, ben:ব্রোমিন, may:brom, swa:bromi, ara: بروم  
 **brox** ** ← eng:brush, fra:brosse, ben:ব্রাশ (braś), hin:ब्रश (braś), urd:(braś), hau:swa:burashi, jpn:ブラシ (burashi), kor:브러시 (beureosi), fas:(boros), may:berus  
-**brune** *castanho (marrom)* ← fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown  
+**brun** *castanho (marrom)* ← eng:brown, fra:brun + ara: بُنِّيّ‎ (bunniyy) + hin:भूरा (bhūrā)  
 **bu!** *bu!* ← eng:boo, fra:bouh, por:spa:bu, rus:бу (bu), kor:부 (bu)  
 **buce** *abater* ← eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ) + kor:푸주한 (pujuhan)  
 **bude** ** ← san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), vie:Bụt, tha:โพธิ (potí) + rus:будить  
@@ -229,6 +229,7 @@
 **cete** *sete (7)* ← spa:siete, por:sete, fra:sept, hin:सात (sāt), ben:সাত (sat), + zho:七 (qī), yue:七 (chat1), wuu:七 (cieʔ), kor:칠 (chil), jpn:七 (shichi), tha:เจ็ด (chet) + tur:yedi  
 **cili** *cápsico* ← eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili  
 **cimpanze** ** ← eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi  
+**cin** ** ← zho:亲 (qīn), yue:親 (can1)  
 **cina** ** ← hin:चीनी (cīnī), tur:Çin, ara:(ṣiniy), spa:chino, eng:Chinese, tha:จีน (chin), zho:秦 (qín)  
 **cincile** ** ← eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šinšilla), tur:çinçilya, may:cincila, jpn:チンチラ (chinchira)  
 **cing** ** ← zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh  
@@ -243,9 +244,8 @@
 **Cosen** ** ← kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)  
 **cuke** ** ← zho: 触 (chù), yue:觸 (cuk1), jpn:触 (shoku), kor:촉 (chok) + hin: छूना (chūnā), pnb:ਛੂਹਣਾ (chūhṇā)  
 **cum** ** ← hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)  
-**cupe** ** ← spa:por:chupar, khm:ជប់ (cup)  
+**cupe** ** ← spa:por:chupar, khm:ជប់ (cup) + hin:चूसना (cūsnā)  
 **cute** ** ← zho:出 (chū), hak:(chut), kor:출 (chul), hin:छूटना (chūtnā) + tur:çıkmak  
-**cuve** ** ← eng:chew + fra:chewing-gum, hin:चूइंग गम (cūiṅg gam), ben:চ্যুইং গাম (cyuiṅ gam), jpn:チューインガム (chūingamu), kor:츄잉껌 (chu'ingkkeom)  
 **cuze** ** ← eng:choose, + hin:चुनना (cunnā), + vie:chọn  
 **dai** ** ← yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai, tai), kor:대— (dae-)  
 **daihai** *oceano* ← zho:大海 (dàhǎi), jpn:大海 (taikai), kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)  
@@ -514,6 +514,7 @@
 **hate** *até* ← por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)  
 **hatre** *perigo* ← ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara  
 **have** ** ← ara: هَوَاء‎ (hawāʾ), hin:हवा (havā), ben:হাওয়া (haowa), may:hawa, swa:hewa, tur:hava  
+**haxi** *pauzinho (hashi)* ← jpn:箸 (hashi), ben:হাশি (haśi), guj:હાશી (hāśī), por:hashi  
 **haxix** *haxixe* ← ara: حَشِيش (ḥašīš), eng:hashish, fra:haschich, por:haxixe, rus:гашиш (gašiš), jpn:ハシシ (hashishi), kor:해시시 (haesisi), hin:हशीश (haśīś), may:hasyis  
 **he** ** ← deu:hä, fra:por:hein, jpn:e + eng:huh, vie:hả + zho:啊 (à, a)  
 **hei** *ei* ← eng:hey, fra:hé, spa:hey, por:ei, rus:эй (ey), zho:喂 (wèi), fas: هی‎ (hey)  
@@ -577,7 +578,6 @@
 **janel** *janela* ← por:janela, ben:জানালা (janala), may:jendela + tam:சன்னல் (sannal), nya:zenera, kon:nêla  
 **jang** ** ← fas: جنگ (jang), hin:जंग (jang), ben:জঙ্গ (jôṅg), tur:cenk + zho:仗 (zhàng); 爭 (zhēng), yue:争 (zang1), kor:전쟁 (jeonjaeng), vie:(chiến) tranh  
 **jangle** *selvagem (silvestre)* ← eng:fra:jungle, spa:jungla, por:jângal, rus:джунгли (džungli), hin:जंगल (jangal), ben:জঙ্গল (jônggôl), may:jenggela, jpn:ジャングル (janguru), kor:정글 (jeonggeul), tur:cengel + swa:jangwa  
-**jangoxute** ** ← zho:武术 (wǔshù), jpn:武術 (bujutsu), vie:võ thuật, kor:무술 (musul), eng:martial art  
 **jau** *cevada* ← hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)  
 **javabe** *resposta* ← ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu, jawabu, tur:cevap  
 **jebe** ** ← hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba  
@@ -621,8 +621,9 @@
 **kalkulia** ** ← fra:calcul, spa:cálculo, eng:calculus, hin:कलन (kalan)  
 **kalmar** *lula (calamar)* ← ell:καλαμάρι (kalamári), spa:por:calamar, fra:calmar, ita:eng:calamari, rus:кальмар (kal’mar), tur:kalamar, ara:كلاماري‎ (klamāri)  
 **kalsium** *cálcio* ← eng:calcium (Ca), fra:calcium, spa:calcio, por:cálcio, rus:кальций, zho:钙 (gài), jpn:カルシウム, kor:칼슘, vie:canxi, hin:कैल्शियम, ben:ক্যালসিয়াম, may:kalsium, swa:kalisi, ara: كلسيوم  
+**kam** *poucos* ← deu:kaum + fas: کم‎ (kam), hin:कम (kam), ben:কম (kôm) + yue:減 (gaam2), jpn:減 (-gen), kor:감 (gam), vie:giảm  
+**kama** *luxúria* ← hin:काम (kām), ben:কাম (kam), tha:กาม (gaam), eng:kama  
 **kamar** *sala (câmara)* ← may:kamar, por:câmara, hin:कमरा, (kamrā), deu:Kammer, rus:камера (kamera)  
-**kame** *luxúria* ← hin:काम (kām), tha:กาม (gaam), eng:kama  
 **kamil** *camomila-vulgar* ← deu:Kamille, eng:camomile, por:camomila, fra:camomille, jpn:カモミール (kamomīru), may:kamomil  
 **kamis** *camisa* ← spa:por:camisa, ara:(qamīṣ), hin:क़मीज़ (kāmīz), may:kemeja + swa:kamisi  
 **kamote** ** ← spa:camote, tgl:kamote  
@@ -641,6 +642,7 @@
 **kanyon** *canhão (ravina, barranco)* ← eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon  
 **kanzar** ** ← fas:(xanjar), tur:haner, rus:кинжал (kinžal)  
 **kape** ** ← tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)  
+**kara** *preto* ← hin:काला (kālā); कारौ (kārau), ben:কালো (kalo), pnb:ਕਾਲਾ (kālā) + tam:கருப்பு (karuppu) + tur:kara, kaz:қара (qara)  
 **karave** *alcaravia (cariz)* ← ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia  
 **karbau** ** ← spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)  
 **karbe** *carbono* ← eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون  
@@ -660,9 +662,10 @@
 **karvan** ** ← fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)  
 **kase** *caixa* ← lat:capsa, deu:Kasse, eng:fra:case, spa:caja, por:caixa, rus:касса (kassa), swa:kasha + ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes + zho:卡式 (kǎshì), jpn:カセット (kasetto), kor:카세트 (kaseteu)  
 **kaske** *casca (concha)* ← spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)  
+**kaslan** *preguiçoso* ← ara: كَسْلَان‎ (kaslān) + zho:懒 (lǎn), yue:懶 (laan5) + आलसी (ālsī)  
 **kastan** ** ← spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)  
 **katana** *espada* ← jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)  
-**kate** ** ← eng:cut, ara:(qaṭa’a), hin:काटना (kāṭnā), ben:কাটা (kata), swa:kata, vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)  
+**kate** *morder* ← hin:काटना (kāṭnā), ben:কাটা (kata) + tam:கடி (kaṭi) + tha:กัด (kat) + eng:cut + ara:(qaṭa’a) + swa:-kata + vie:cắt, zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu)  
 **katus** *cacto* ← eng:spa:por:fra:cactus, rus:кактус (kaktus), tur:kaktüs, may:kaktus  
 **Kaukasia** ** ← eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)  
 **kauri** *búzio* ← eng:cowrie, fra:spa:cauri, rus:каури (kauri), hin:कौड़ी (kauṛī), swa:kauri  
@@ -775,22 +778,22 @@
 **langan** ** ← zho:栏杆 (lángān), jpn:欄干 (rankan), kor:난간 (nan-gan)  
 **lantanium** *lantâno* ← eng:lanthanum, fra:lanthane, spa:lantano, por:lantâno, rus:лантан, zho:镧 (lán), jpn:ランタン, kor:란탄, vie:lantan, hin:लाञ्थनम, ben:ল্যান্থানাম, may:lantanium, swa:lanthani, ara: لنثانوم  
 **larve** ** ← deu:fra:larve, eng:tur:larva, hin:लार्वा (lārvā), urd:(lārvā), pol:larwa  
+**lasa** *refugo (escória)* ← zho:垃圾 (lājī / lèsè), yue:垃圾 (laap6 saap3), hak:垃圾 (lá-sap), nan:垃圾 (lah-sap)  
 **laste** ** ← eng:elastic, spa:por:elástico, gla:lastaig, rus:эласти́чный (elastíčnyj), tur:may:elastik, jpn:エラスティック (erasutikku)  
 **lasun** *alho* ← hin:लहसुन (lahsun), ben:রসুন (rôśun) + zho:大蒜 (dàsuàn), yue:大蒜 (daai6 syun3), kor:대산 (daesan)  
 **late** *lado* ← spa:por:lado, ita:lato, eng:lateral, fra:latéral, rus:латеральный (lateral’nyy)  
+**lau** *idoso* ← zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão  
 **laurensium** *lawrêncio* ← eng:lawrencium, fra:lawrencium, spa:laurencio, por:lawrêncio, rus:лоуренсий, zho:铹 (láo), jpn:ローレンシウム, kor:로렌슘, vie:lorenxi, lawrenci, hin:लॉरेंशियम, ben:লরেনসিয়াম, may:lawrensium, swa:lawirensi, ara: لورنسيوم  
-**lave** *idoso* ← zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão  
 **laxe** *deixar* ← eng:(re)lax, fra:(re)lâcher, spa:(re)lajar, ita:lasciare, deu:lassen  
 **lazanya** *lasanha* ← fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)  
-**laze** *refugo (escória)* ← zho:垃圾 (lājī)  
-**lazurpetre** *lápis-lazúli* ← fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı  
-**lefte** *esquerdo* ← eng:left, rus:левый (levyy)  
+**lazurite** *lápis-lazúli* ← fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı  
+**le** ** ← zho:了 (liǎo), yue:了 (liu5), tha:แล้ว (lɛw) + jpn:了 (ryō)  
 **lege** ** ← eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)  
 **lenge** ** ← zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)  
 **lense** *lente* ← eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)  
 **letre** *carta* ← eng:letter, fra:lettre, hin:लेटर (leṭar), jpn:ター (retā)  
 **letus** *alface* ← eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue  
-**leu** ** ← zho:了 (liǎo), yue:了 (liu5), tha:แล้ว (lɛw) + jpn:了 (ryō)  
+**leve** *esquerdo* ← ltn:laevus, eng:left; levo-, fra:lévo-, spa:por:levo-, rus:левый (levyy), pol:lewy  
 **leze** ** ← zho:梨子 (lízi), yue:梨 (lei42), vie:lê,   
 **liama** *lhama* ← eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)  
 **libele** *libélula* ← spa:por:libélula, fra:libellule, deu:Libelle  
@@ -799,8 +802,7 @@
 **lide** ** ← eng:lead, spa:liderar + fra:leader, por:líder, rus:лидер (lider), tur:lider, hin:लीडर (līdar), jpn:リーダー (rīdā), kor:리더 (rideo)  
 **lifafe** *embalar* ← ara: لِفَافَة‎ (lifāfa), fas:(lefâf), hin:लिफ़ाफ़ा (lifāfā), ben:লেফাফা (lephapha)  
 **lige** ** ← fra:ligue, deu:spa:pol:por:liga, eng: league, rus: лига (liga), tur:lig, swa:ligi, jpn:リーグ (rīgu)  
-**lilake** ** ← tur:leylak, ara:(laylak), eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku)  
-**lile** *pequeno* ← eng:little  
+**lila** ** ← tur:leylak, ara:(laylak), eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku)  
 **lime** ** ← eng:limit, spa:límite, fra:por:limite, rus:лимит (limit) + hin:सीमा (sīmā)  
 **limfa** ** ← eng:lymph, spa:por:linfa, rus:лимфа (límfa), may:limfa, jpn:リンパ (rinpa), zho:淋巴 (línbā)  
 **limon** *limão* ← fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), vie:lêmon, swa:ndimu, limau, ben:লেবু (lebu)  
@@ -983,8 +985,6 @@
 **naziste** ** ← rus:нацист (natsist), jpn:ナチ (nachi), kor:나치 (nachi), por:ita:nazista  
 **ne** ** ← por:né, hin:न (na), zho:呢 (ne), jpn:ね (ne), vie:nhé  
 **nefre** *rim* ← eng:fra:nephro-, spa:por:nefro-, deu:Niere  
-**nefte** *aeite (óleo)* ← ara:نفط (nifṭ), heb:נֵּפְטְ‎ (neft), tur:aze:neft, rus:нефть (neft’), kar:ნავთი (navti) + fas:نفت (naft), eng:naphtha, spa:por:nafta, jpn:ナフサ (nafusa), kor:나프타 (napeuta), may:nafta  
-**neftoguke** ** ← zho:油菊, jpn:アブラギク  
 **nege** ** ← spa:por:negar, eng:negate  
 **nen** ** ← jpn:年 (nen), zho:年 (nián), yue:年 (nin4), kor:년 (nyeon), vie:năm, niên  
 **nenufar** ** ← eng:nenuphar, spa:por:nenúfar, fra:nénufar, rus:ненюфа́р (nenjufár), fas:نیلوفر آبی‎ (nilufar-e âbi)  
@@ -1073,7 +1073,7 @@
 **patate** ** ← fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), swa:mbatata, eng:potato, tgl:patatas  
 **pate** ** ← deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)  
 **pau** *arma de fogo* ← zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)  
-**pauze** *pausa* ← eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)  
+**pauze** *pausa* ← deu:Pause, eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)  
 **payace** *palhaço* ← ita:pagliaccio, fra:paillassa, spa:payaso, por:palhaço, rus:паяц (payac), tur:palyaço  
 **pedal** ** ← deu:eng:spa:por:tur:pedal, fra:pédale, rus:педаль (pedal'), pol:pedał, jpn:ペダル (pedaru), kor:페달 (pedal)  
 **pei** ** ← eng:pay, fra:paye, + zho:费 (fèi)  
@@ -1086,9 +1086,11 @@
 **pente** *pintura* ← eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)  
 **perde** *peido (peidar)* ← eng:fart + fra:pet, spa:pedo, por:peido, rus:пердение (perdeniye), ben:পাদ (pad), hin:पाद (pād)  
 **pere** ** ← hin:पर (par), rus:перо (pero)  
+**peresa** ** ← fra:paresseux, spa:perezoso  
 **peta** ** ← eng:fra:spa:por:may:tur:peta-, rus:пета- (peta-), jpn:ペタ (peta), kor:페타- (peta-), zho:拍它- (pāitā-)  
 **pete** ** ← ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)  
 **petre** *rocha (pedra)* ← hin:पत्थर (patthar), urd:(patthar), ita:pietra, por:pedra, spa:piedra, fra:pierre  
+**pexe** *peixe* ← por:peixe, spa:pez + deu:Fisch, eng:fish  
 **piano** ** ← eng:spa:por:fra:swa:may:piano, rus:пианино (pianino), tur:piyano, ara:بيانو‎ (biyānō), hin:पियानो (piyāno), ben:পিয়ানো (piẏano), jpn:ピアノ (piano)  
 **piaze** *cebola* ← fas:urd:پیاز (piaz), hin:प्याज (pyaz), ben:পেঁয়াজ (peadz)  
 **picea** *pícea (espruce)* ← spa:por:pícea, fra:épicéa  
@@ -1284,7 +1286,6 @@
 **site** *cidade* ← eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:都市 (toshi)  
 **sive** ** ← eng:fra:spa:por:civil, por:civil, hin:सिविल (sivil), may:sipil  
 **sixe** *seis (6)* ← eng:fra:six, spa:por:seis, deu:sechs, rus:шесть (shest’), fas: شِش‎ (šeš) + ara:ستة‎ (sitta), swa:sita, hau:shidà  
-**siyahe** *preto* ← fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah  
 **skale** ** ← spa:por:escalar + fra:escalier + eng:scale, deu:Skale, rus:шкала (škala)   
 **skandium** *escândio* ← eng:scandium, fra:scandium, spa:escandio, por:escândio, rus:скандий, zho:钪 (kàng), jpn:スカンジウム, kor:스칸듐, vie:scandi, hin:स्काण्डियम, ben:স্ক্যান্ডিয়াম, may:skandium, swa:skandi, ara: سكانديوم  
 **skerte** *saia* ← eng:skirt, hin:स्कर्ट (skarṭ), ben:স্কার্ট (śkarṭ), jpn:スカート (sukāto), kor:스커트 (seukeoteu), swa:sketi, hau:siket  
@@ -1335,6 +1336,7 @@
 **sus** *alcaçuz (regaliz)* ← ara: سُوس (sus), spa:alcazus, por:alcaçuz, swa:susi  
 **susan** *lírio* ← ara: سَوْسَن‎ (sawsan), spa:azucena + eng:Susan, por:Susana, fra:Suzanne, pol:Zuzana, rus:Сусанна (Susanna)  
 **sute** ** ← hin:सीना (sīnā), rus:шить (šit') + fra:eng:suture, por:spa:sutura  
+**sutre** ** ← hin:सूत्र (sūtra), may:sutera, eng:fra:spa:por:sutra, rus:сутра, jpn:スートラ (sūtora), kor:수트라 (suteura)  
 **suxi** ** ← jpn:寿司 (sushi), eng:spa:sushi, rus:су́ши (sushi), tur:suşi  
 **ta** ** ← eng:to + hin:-तक (-tak) + fas: تا‎ (tâ)  
 **tabake** ** ← deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, hin:तंबाकू (tambākū), may:tembakau  
@@ -1356,7 +1358,7 @@
 **tas** ** ← ara: طَاس (ṭās), swa:tasa, tur:tas, fra:tasse, spa:taza, rus:таз + hin:तश्तरी (tashtarī)  
 **tate** *tocar (tato)* ← eng:fra:tact, spa:tacto, por:tato  
 **tatike** ** ← por:tática, ita:tattica, eng:tactic, rus:тактика (taktika), deu:Taktik  
-**tatu** ** ← sam:tah:tatau, haw:kākau, may:tato, eng:tattoo, fra:tatouage, spa:tatuaje, rus:тату (tatu)  
+**tato** ** ← sam:tah:tatau, haw:kākau, may:tgl:tato, eng:tattoo, fra:tatouage, spa:tatuaje, por:tatuagem, rus:тату (tatu)  
 **tave** ** ← hin:तवा (tavā), tur:tava, fas:(tābe)  
 **taxe** ** ← eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks)  
 **taze** ** ← fas: تازه (tâze), hin:ताज़ा (tāzā), ben:তাজা (taja), tur:taze, ara: طَازَج (ṭāzaj)  
@@ -1502,7 +1504,6 @@
 **xarte** ** ← tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)  
 **xatan (ruhoxatan)** *Satanás* ← heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani  
 **xatrange** ** ← hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez  
-**xau** *poucos* ← zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)  
 **xaxa** ** ← zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha  
 **xe** *coisa* ← ara: شيء (šayʾ), tur:şey, fas: شیء‎ (šeyʼ) + zho:事 (shì), yue:事 (si6), vie:sự  
 **xefe** *chefe* ← fra:chef, por:chefe, gal:xefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)  
@@ -1520,6 +1521,7 @@
 **xir** ** ← heb:שיר (šir), ara: شِعْر‎ (šiʿr), tur:şiir, fas: شعر‎ (še'r), swa:shairi, may:syair+ zho:诗 (shī), yue:詩 (si1), jpn:詩 (shi), kor:시 (shi)  
 **xirope** ** ← ara:(šarāb), por:xarope, eng:syrup, tur:şurup, jpn:シロップ (shiroppu), swa:shira  
 **xite** *merda* ← eng:shit + zho:屎 (shǐ), yue:屎 (si2)  
+**xiu** *pequeno* ← zho:小 (xiǎo), yue:小 (siu2), jpn:小 (shō), kor:소 (so), vie:tiểu  
 **xix** ** ← tur:şiş + eng:shish-, rus:шиш- (šiš-)  
 **xofe** *conduzir* ← fra:eng:deu:chauffeur, spa:por:chofer, rus:шофёр (šofjor), pol:szofer, tha: โชเฟอร์ (chofoe), tur:şoför, fas:(šofer)  
 **xoke** ** ← eng:shock, fra:choc, spa:por:choque, rus:шок (šok), jpn:ショック (shokku), kor:쇼크 (syokeu), may:syok, tur:şok  

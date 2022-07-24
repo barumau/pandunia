@@ -649,7 +649,7 @@ Can you speak Pandunia?
 **mi bil pandunia.**
 I can speak Pandunia.
 
-**mi bil lili de pandunia.**
+**mi bil kam pandunia.**
 I can speak a little Pandunia.
 
 **mi no bil englix.**
@@ -1015,7 +1015,7 @@ This is the best (of all).
 How much does it cost?  
 **nol.**
 Nothing.  
-**ya kosta lil / poli.**
+**ya koste kam / poli.**
 It is cheap / expensive.  
 
 **men cing mimen lai.**

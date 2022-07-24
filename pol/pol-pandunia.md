@@ -30,7 +30,7 @@ aktualizować (zaktualizować, ulepszać, ulepszyć) - sudarge
 aktyn - acinium  
 aktywować (włączyć, uruchomić) - ative  
 akwarela (farba wodna) - suirang  
-akwarium - pexotanke  
+akwarium - pexetanke  
 Alaska - Alaska  
 Albania - Cipia  
 ale, lecz - ama  
@@ -135,7 +135,7 @@ bahaista - bahaiste
 bahaizm - bahaisme  
 Bahamy - Bahama  
 Bahrajn - Bahrain  
-bakburta (lewa burta) - naulefte  
+bakburta (lewa burta) - nauleve  
 bakłażan, oberżyna - bedinje  
 balon - balon  
 bambus - bambu  
@@ -165,7 +165,7 @@ baton czekoladowy - coklatobaton
 bawełna - goton  
 bawół domowy - karbau  
 baza danych (bank danych) - datobanke  
-bańka - lilbol  
+bańka - xiubol  
 beczka - tong  
 beduiński; nomadyczny - badave  
 bejsbol (baseball) - baze bol  
@@ -184,7 +184,7 @@ beton - beton
 bezpieczny (chronić, ratować) - sekure  
 Bhutan - Drugia  
 Białoruś - Belarus  
-biały - bake  
+biały - baku  
 Biblia - biblia  
 biblioteka - kitabekan  
 bibliotekarz - kitabemanter  
@@ -242,7 +242,7 @@ Brunei Darussalam - Brunei
 brzoza - betula  
 brzuch - pete  
 brzydki - dusvide  
-brązowy, koloru kawy - brune  
+brązowy (koloru kawy) - brun  
 bu! - bu!  
 Budda - Buda  
 buddysta - budiste  
@@ -343,7 +343,7 @@ cieszyć, podobać się - sukife
 cień - saye  
 ciągnąć - tire  
 ciągły (analogowy) - undure  
-ciąć - kate  
+ciąć - cakukate  
 ciężar (brzemię; ładować) - karge  
 ciężarny (w ciąży) - hamile  
 ciężki (masywny) - veze  
@@ -357,7 +357,7 @@ croissant - kruasante
 cudzysłów - citomarke  
 cukier - sukar  
 cukierek, słodycze - kande  
-cukinia - lilkaboge  
+cukinia - xiukaboge  
 cukrowiec jadalny - yamsukarcau  
 curry - kari  
 cwał (galop) - galope  
@@ -378,7 +378,7 @@ czajnik - ketle
 czapetka kuminowa - jambul  
 czar (urok, wdzięk) - carme  
 Czarnogóra - Cernagore  
-czarny - siyahe  
+czarny - kara  
 czas (epoka, era) - durozam  
 czas (epoka, era) - zaman  
 czas - sate  
@@ -791,7 +791,7 @@ głębokość - fasotelia
 
 ## H  
 
-haczyk - pexohuke  
+haczyk - pexehuke  
 hafn - hafnium  
 Haiti - Haiti  
 hak - huke  
@@ -951,7 +951,7 @@ jarzmo - yuge
 jaskinia - guhe  
 jasnoniebieski (lazurowy) - tennile  
 jasny, czysty - ming  
-jastrun właściwy - bakomargarite  
+jastrun właściwy - bakumargarite  
 jaszczurka - saure  
 jazz, dżez - jaze  
 jaśmin - malika  
@@ -1017,7 +1017,7 @@ kamera, aparat fotograficzny - fotografomaxin
 Kamerun - Kamerun  
 kamieniarz - itojanger  
 kamień (kawał skały) - ite  
-kamyk - lilite  
+kamyk - xivite  
 Kanada - Kanada  
 kanapka - sanduice  
 kanał - kanal  
@@ -1033,7 +1033,7 @@ kapelusz, czapka - tupe
 kaper (korsarz) - naukaper  
 kapeć (papeć, bambosz) - babuce  
 kapitan - nauxefe  
-kapusta pekińska - bakocoi  
+kapusta pekińska - bakucoi  
 Karaiby - Karibia  
 karaoke - karaoke  
 karat - kirate  
@@ -1065,7 +1065,7 @@ kebab - kababe manse
 keczup - kecape  
 kelwin - kelvin  
 Kenia - Kenia  
-keta - bakosalmon  
+keta - bakusalmon  
 kichać (apsik!) - aci  
 kiedy? - ke mode  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - kanale  
@@ -1285,9 +1285,9 @@ lama - lama
 lama - liama  
 lampa - lampe  
 lantan - lantanium  
-Laos - Lau  
-laotański - lave  
-lapis lazuli - lazurpetre  
+Laos - Lao  
+laotański - Lao jen  
+lapis lazuli - lazurite  
 larwa, czerw, gąsienica - larve  
 larwa, czerw, gąsienica - lasun  
 las (zagajnik) - van:  
@@ -1305,9 +1305,8 @@ lekki - lege
 lepić (kleić; klej) - glute  
 Lesotho - Soto  
 lew - singa  
-lewa strona - lefte  
-lewicowiec (lewak) - leftiste  
-lewy (lewostronny, z lewej strony) - lefte  
+lewicowiec (lewak) - leviste  
+lewy (lewostronny, z lewej strony) - leve  
 leżeć - kusu  
 Liban - Libanen  
 liberalista, wolnościowiec - huriste  
@@ -1320,15 +1319,16 @@ liczi - lici
 liczność (mnóstwo) - multia  
 Liechtenstein - Lihtenstain  
 liga (stowarzyszenie) - lige  
-lilak - lilake  
+lilak - lila  
 lilia - susan  
 lilia wodna, nenufar - nenufar  
-liliowy - lilake  
+liliowy - lila rang  
 lima (limonka) - kagujolimon  
 limfa - limfa  
 limit, granica - lime  
 limonkowy (limonkowo zielony) - limonluge  
 linia (nić, lina, pas, pręga, smuga, dratwa) - line  
+lipid (tłuszcz, olej) - lipe  
 lipiec - lun catre  
 lis - huli  
 list - letre  
@@ -1448,7 +1448,7 @@ Mauretania - Muritania
 Mauritius - Maurisia  
 Maya - mayan  
 małpa (znak na - adresoharfe  
-mały; mało, trochę, nieco - lile  
+mały; mało, trochę, nieco - xiu  
 małżeństwo, związek małżeński - gamia  
 małżonek (małżonka) - gamike  
 mech - mos  
@@ -1696,7 +1696,7 @@ niech my, hajda - haide
 niechętny - anice  
 niedziela - den cete  
 niedźwiedź - baru  
-nieliczność - xaves  
+nieliczność - kamia  
 Niemcy - Doice  
 niemiecki - doice  
 niemowlę - bebe  
@@ -1706,7 +1706,7 @@ niepotrzebny - anbeyau
 nieskończoność - anlimia  
 niespodziewany - anprevide  
 nietoperz - feimus  
-niewiele (mało) - xau  
+niewiele (mało) - kam  
 niewierny (poganin, niewierzący) - kafir  
 niewierny - andiniste  
 niewierny - ankrediste  
@@ -1818,7 +1818,7 @@ okej, spoko, akceptowalny - okeyable
 okno - janel  
 oko - oke  
 około; przybliżony - yage  
-olej - nefte  
+oliwa (olej oliwkowy) - zaitunlipe  
 oliwka - zaitun  
 Oman - Oman  
 on, ona, ono - ya  
@@ -2151,7 +2151,7 @@ powtarzanie, powtórka - ri-
 powtórzyć, powtarzać - rifete  
 powód (przyczyna; spowodować, powodować) - sababe  
 pozdrowienie (pozdrowić, pozdrawiać) - salam  
-poziomy (horyzontalny, boczny) - late  
+poziomy (horyzontalny, boczny) - latedike  
 pozostawiać (pozostawić, zostać, zostawać) - live  
 pozostałość (reszta) - livaje  
 pozować (ustawiać się; poza, pozycja) - poze  
@@ -2167,7 +2167,7 @@ pośmiertny - posmortal
 pożyczać (pożyczyć) - jekocepe  
 pożyczać komuś (pożyczyć komuś) - jekodone  
 pożyczyć - jeke  
-pożądanie, żadza - kame  
+pożądanie, żadza - kama  
 praca, zjęcie, zadanie - karaje  
 pracować - kare  
 pracownik - karer  
@@ -2245,7 +2245,7 @@ przegrać, przegrywać - xibai
 przejść w poprzek - krusu  
 przejść, przechodzić, przejechać, przejeżdżać - trapas  
 przekroczyć, przekraczać, przejść nad, iść nad - supropase  
-przekąska - lilyam  
+przekąska - xiuyam  
 przekątny (diagonal) - tragone  
 przepołowić (podzielić przez dwa) - dufene  
 przepraszam! - maf  
@@ -2401,7 +2401,7 @@ roentgen - rentogenium
 rok - nen  
 rola - rol  
 rolnik, farmer - agrer  
-ropa naftowa - petronefte  
+ropa naftowa - petrolipe  
 rosa - rose  
 Rosja - Rusia  
 rosyjski - ruse  
@@ -2443,6 +2443,7 @@ rut - rutenium
 rutherford - ruterfordium  
 rutyna, nawyk, zwyczaj - rutin  
 Rwanda - Ruanda  
+ryba - pexe  
 ryba rozdymkowata - balonpes  
 rym (wers) - rim  
 rynek, bazar - bazar  
@@ -2613,7 +2614,7 @@ specjalny, wyraźny, wyrazisty - has
 spis treści (tabela zawartości) - inliste  
 spisek (konspiracja) - siroplan  
 spocony - suedos  
-spoczywaj w pokoju - reste in pace (RIP)  
+spoczywaj w pokoju - repauze in pace (RIP)  
 spodnie (pantalony, portki) - pante  
 spokojny - xante  
 sporokarp - fungopal  
@@ -2646,8 +2647,7 @@ stan - hal
 Stan Nowy Jork - Neu Yorke site  
 Stany Zjednoczone Ameryki - Unite State de Amerika (USA)  
 Starożytny Egipt (Kemet) - Kemia  
-stary (sędziwy, wiekowy) - lave  
-starzec - lau  
+stary (sędziwy, wiekowy) - lau  
 statyczny, stacjonarny, nieruchomy - statike  
 stać - libu  
 stały (sztywny) - gatomate  
@@ -2712,7 +2712,7 @@ szampon - kexosabun
 Szanghaj - Xanghai  
 szansa - canse  
 szariat - islam xaria  
-szary - huirange  
+szary - huirang  
 szaszłyk - xixomanse  
 szczepionka - vacin  
 szczoteczka do zębów - dantobrox  
@@ -2814,7 +2814,7 @@ taoizm - davisme
 tapeta - murkaguze  
 tarcza - defoban  
 tartak - xarakan  
-tatuaż - tatu  
+tatuaż - tato  
 taxi, taksówka - taxi gar  
 taśma - tepe  
 tchórz, fretka - furete  
@@ -2876,7 +2876,7 @@ tor - torium
 torba, wór, worek, torba, sakwa - sake  
 torf - turfe  
 tost - roste pang  
-towarzysz (partner, kumpel) - latojen  
+towarzysz (partner, kumpel) - konjen  
 tragedia - tragodia  
 traktor (ciągnik) - trater  
 transport - traporte  
@@ -3237,7 +3237,7 @@ z (partykuła posiadania) - de
 
 ## Z  
 
-z boku (na bok) - lato  
+z boku (na bok) - a late dike  
 zaakceptować, akceptować, powiedzieć okej, mówić okej - okei  
 zabawa (rozrywka; bawić, zabawiać) - muze  
 zabawny - muzante  
@@ -3351,7 +3351,7 @@ zombie, zombi - zombi
 zoo (ogród zoologiczny) - zooparke  
 zoologia - zoolojia  
 zoologiczny - zoolojike  
-zostawić, zostawiać - reste  
+zostawić, zostawiać - repauze  
 zrobić (czyn, uczynek) - fete  
 zrobić (stworzyć, wykreować) - fe  
 zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać - can  
@@ -3369,7 +3369,7 @@ zęwnętrzny - exe
 złamanie lini - linoparce  
 złapać, łapać, schwytać, chwytać - cepe  
 złapać, łapać, schwytać, chwytać - kape  
-złocień indyjski - neftoguke  
+złocień indyjski - lipoguke  
 złodziej - corer  
 złoto - aure  
 złowieszczy - dusosine  
@@ -3408,7 +3408,8 @@ zły, zrujnowany, zepsuty - harabe
 śliwka - plum  
 ślizgać się (poślizgnąć się, jeździć na łyżwach) - glise  
 śmiać się - hahe  
-śmieć, odpadek - laze  
+śmietnik - lasatong  
+śmieć (odpadek) - lasa  
 śniadanie - subayam  
 śnieg (śnieżyć) - hima  
 śpiewać (piosenka, pieśń) - cante  
@@ -3436,13 +3437,14 @@ zły, zrujnowany, zepsuty - harabe
 żart - joke  
 żartowniś, dowcipniś - joker  
 żeglarz (marynarz) - naver  
-żeglować (płynąć) - nave  
+żeglować (płynąć) - nauga  
 żegnaj, dobre odejście - sal cute  
 żel, galareta - gele  
 żelazo - fer  
 żeń-szeń - jensen  
 żołnierz - ordojen  
 żołądź - balutopal  
+żuć - katade  
 żwir - grave  
 życie - jive  
 życie organiczne - bie  

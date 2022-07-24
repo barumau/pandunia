@@ -25,7 +25,7 @@ aburrimiento - boria
 acacia de copa plana - helisbabul  
 acceso (acceder) - acese  
 acción - ation  
-aceite (óleo) - nefte  
+aceite de oliva - zaitunlipe  
 aceituna - zaitun  
 acelga - selge  
 acento - baloton  
@@ -47,7 +47,7 @@ actual - zai zaman su
 actualidad - zayaje  
 actuar (hacer un papel) - role  
 acuarela - suirang  
-acuario (pecera) - pexotanke  
+acuario (pecera) - pexetanke  
 acuerdo - samrayia  
 acumular - kume  
 acuoso - suyos  
@@ -234,6 +234,7 @@ argón - argon
 aritmética (cálculos) - hisabia  
 arma - arme  
 arma nuclear - kori arme  
+armadillo (quirquincho, tatú) - tatu  
 armadura - defkaske  
 armario - almari  
 Armenia - Hayastan  
@@ -326,7 +327,7 @@ año - nen
 
 ## B  
 
-babor - naulefte  
+babor - nauleve  
 bacalao - bakalau  
 bacalao común - atlante bakalau  
 backgammon - narde  
@@ -375,7 +376,9 @@ barómetro - airbarmetrer
 base (fondo, básico; fundar, basar) - baze  
 base (álcali; alcalino) - alkale  
 bastante - bas  
-basura (desechos) - laze  
+basura (desechos) - lasa  
+basural - lasastan  
+basurero - lasatong  
 bata (aljuba) - juba  
 batidora (licuadora, mezcladora) - mixer  
 baya - beri  
@@ -416,7 +419,7 @@ bisexual - dusexe
 bisexual - dusexe  
 bismuto - bismute  
 bisonte - bison  
-blanco - bake  
+blanco - baku  
 blando (mullido) - komale  
 blog - bloge  
 bloquearse (colgarse, fallar) - harabu  
@@ -468,7 +471,7 @@ bufanda (chal) - xal
 bufé - bufete  
 bufón - bufon  
 Bulgaria - Bolgaria  
-burbuja (pompa) - lilbol  
+burbuja (pompa) - xiubol  
 Burkina Faso - Burkina Faso  
 burocracia - burokratia  
 burro (asno) - gade  
@@ -511,7 +514,7 @@ caja torácica - sinakase
 cajero - kaser  
 cajón (gaveta) - tirsanduke  
 cal - kalsomate  
-calabacín - lilkaboge  
+calabacín - xiukaboge  
 calabaza - kaboge  
 calabaza china (calabaza de la cera) - mummelon  
 calabaza de peregrino - suikaboge  
@@ -662,7 +665,7 @@ chelo (violonchelo) - daiviole
 cheque - ceke  
 cheque de viajero - safaroceke  
 cheque regalo - donajoceke  
-chicle - cuvogom  
+chicle - kategom  
 Chile - Cile  
 chile - cili  
 chimpancé - cimpanze  
@@ -734,7 +737,7 @@ codicioso (avaro) - tame
 codificar (cifrar) - inkode  
 cognición - konnosion  
 cohete (misil) - rokete  
-col china - bakocoi  
+col china - bakucoi  
 cola (rabo) - vei  
 cola (refresco de cola) - kola  
 cola (refresco de cola) - kola jus  
@@ -775,7 +778,7 @@ compatible - konfuncable
 compatible - konfunsable  
 compatriota (cotérraneo) - konpatrian  
 compatriota - samodexan  
-compañero (compinche) - latojen  
+compañero (compinche) - konjen  
 compañía (empresa, corporación) - kompania  
 competir (partido) - mace  
 completar (terminar) - purfine  
@@ -860,7 +863,7 @@ correr - kore
 corriente de resaca - tireriu  
 corromper (contaminar) - nagise  
 corsario - naukaper  
-cortar - kate  
+cortar - cakukate  
 cortina - janelovel  
 corto (breve) - korte  
 Corán - kuran  
@@ -979,7 +982,7 @@ dañino (perjudicial) - avarive
 de (desde) - de  
 de (posposición de posesión) - de  
 de (posposición de posesión) - su  
-de lado - lato  
+de lado - a late dike  
 de lujo - deluxe  
 debajo - a sube  
 debatir (discutir) - lone  
@@ -1028,7 +1031,7 @@ desarrollo - dargomute
 desatascar - detape  
 desayuno - subayam  
 descargar - netekape  
-descase en paz - reste in pace (RIP)  
+descase en paz - repauze in pace (RIP)  
 desconectar - dekonnete  
 descriptivo - sifive  
 desfigurar - dusforme  
@@ -1253,7 +1256,7 @@ Escandinavia - Skandia
 escandio - skandium  
 escaparse (evitar, huir) - bege  
 escarcha - hima rose  
-escasez - xaves  
+escasez - kamia  
 escenario (podio, estrado, tarima) - tai  
 Escocia - Skotia  
 escorpión (alacrán) - akrabe  
@@ -1569,7 +1572,7 @@ grava - grave
 gravar (cobrar tasas) - taxe  
 Grecia - Helenia  
 griego (helénico) - helene  
-gris - huirange  
+gris - huirang  
 gritar - klame  
 Groenlandia - Kalalia  
 grosero (maleducado) - ninde  
@@ -1621,7 +1624,7 @@ Haití - Haiti
 halo (aureola) - fotosirke  
 hamaca - hamake  
 hambre - yamyau  
-hamo (anzuelo) - pexohuke  
+hamo (anzuelo) - pexehuke  
 hasio - hesium  
 hasta (también) - hato  
 hasta - hate  
@@ -1859,8 +1862,8 @@ Israel - Israel
 Italia - Italia  
 iterbio - yterbium  
 itrio - ytrium  
-izquerdista - leftiste  
-izquierdo - lefte  
+izquerdista - leviste  
+izquierdo - leve  
 
 ## J  
 
@@ -1936,7 +1939,6 @@ labio - labe
 laca - laka  
 lado (flanco) - late  
 lado derecho - raite  
-lado izquerdo - lefte  
 ladrillo - binite  
 ladrón - luter  
 ladrón - corer  
@@ -1946,14 +1948,14 @@ lama - lama
 LAN (RAL) - LAN (loke aria nete)  
 lantano - lantanium  
 lanzamisiles - roketolancer  
-Laos - Lau  
-laosiano - lave  
-lapislázuli - lazurpetre  
+Laos - Lao  
+laosiano - Lao jen  
+lapislázuli - lazurite  
 largo (longitud) - longes  
 largo - longe  
 larva - larve  
 lasaña - lazanya  
-lateral (horizontal) - late  
+lateral (horizontal) - latedike  
 latitud - latude  
 laurencio - laurensium  
 lava - fuzopetre  
@@ -1985,6 +1987,7 @@ levadura - hamir
 levantar (elevar) - gave  
 leño (tronca) - mokotan  
 león - singa  
+Lhasa - Lesa  
 liberal - huristike  
 liberalismo - hurisme  
 liberalista - huriste  
@@ -2002,8 +2005,8 @@ licor - arake
 Liechtenstein - Lihtenstain  
 liga (asociación, federación) - lige  
 ligero - lege  
-lila (de color lila) - lilake  
-lila - lilake  
+lila (de color lila) - lila rang  
+lila - lila  
 limero - kagujolimon  
 limitado - belime  
 limonada - limon jus  
@@ -2016,6 +2019,7 @@ lindo (precioso) - kavai
 linea (hilo, cordel, raya) - line  
 linfa - limfa  
 lingüística - baxolojia  
+liposucción - lipocupe  
 liquen - algafung  
 lirio (azucena) - susan  
 lista - liste  
@@ -2052,7 +2056,7 @@ lucha - jihade
 luchador (guerrero) - janger  
 lugar (colocar, poner) - loke  
 lugar de nacimiento - genoloke  
-lujuria (deseo) - kame  
+lujuria (deseo) - kama  
 lujuria - luxuria  
 lumbago (lumbalgia) - lumbalgia  
 lumbroso (luminoso) - lumive  
@@ -2070,6 +2074,7 @@ lápida - gabrite
 léxico - lexike  
 Líbano - Libanen  
 límite (frontera, linde) - lime  
+lípido (graca, aceite, óleo) - lipe  
 líquido (fluido) - riumate  
 lógica - ratolojia  
 
@@ -2149,7 +2154,7 @@ marcha (caminar, marchar) - marce
 marco - frem  
 marfil - gaja dante  
 margarina - margarin  
-margarita - bakomargarite  
+margarita - bakumargarite  
 margarita - margarite  
 margarita común (pascueta) - englomargarite  
 marina (armada) - haiorde  
@@ -2157,7 +2162,7 @@ marioneta (títere) - pupe
 mariposa (palomilla) - pelpel  
 marmól - kalsokristal  
 Marruecos - Magribia  
-marrón - brune  
+marrón - brun  
 Marte - Marse  
 martes - den du  
 martillo (mazo) - hamar  
@@ -2166,6 +2171,7 @@ marítimo - hayike
 masa (trozo, pedazo) - mas  
 masaje (amasar, masajear) - masaje  
 masculino (macho) - man  
+masticar (mascar) - katade  
 matadero - bucekan  
 matar (morir, asesinar) - mortife  
 matasellos - postemarke  
@@ -2308,7 +2314,7 @@ monóculo - unoki lense
 monólogo - autologe  
 morado (púrpura) - violete  
 moralidad (ética) - deke  
-morder - danta  
+morder - kate  
 morfema - morfeme  
 morfo - morfe  
 morirse (muerte; muerto) - morte  
@@ -2383,7 +2389,7 @@ naturaleza - nature
 nautilo - nautile  
 navaja - jebecaku  
 nave espacial - kosmonau  
-navegar (ir en bote) - nave  
+navegar (ir en bote) - nauga  
 Navidad - kristojen  
 Nazi - naziste  
 nazismo - nazisme  
@@ -2397,7 +2403,7 @@ nefología - nepolojia
 nefritis - nefritis  
 negociar - lona biznes  
 negocios (comercio) - biznes  
-negro - siyahe  
+negro - kara  
 nenúfar (lirio de agua) - nenufar  
 neodimio - neodimium  
 neologismo - neuloge  
@@ -2572,6 +2578,7 @@ paladio - paladium
 palanca - tirbaton  
 Palaos - Palau  
 Palestina - Filistin  
+palillos - haxi  
 palmera - palme  
 palpar (tocar) - sente  
 palpar (tocar) - tatosense  
@@ -2611,7 +2618,6 @@ Paraguay - Paraguai
 paralelo - parline  
 paranormal - paranorme  
 parar (parada, alto) - halte  
-parar (pausa) - pauze  
 pararse (detenerse) - state  
 parasol - barsocate  
 parasol - solocate  
@@ -2647,6 +2653,7 @@ patología - patolojia
 patria - patria  
 patrimonio (herencia, legado) - varis  
 patógeno - patogener  
+pausa - pauze  
 pavo (guajalote) - dinde  
 pavo real - mayur  
 payaso (clown) - payace  
@@ -2681,7 +2688,7 @@ peonía - mudan
 pepinillo - suanpursipi hiyar  
 pepino - hiyar  
 pepita - danograne  
-pequeño - lile  
+pequeño - xiu  
 pera - leze  
 perdedor - xibayer  
 perder (fallar) - xibai  
@@ -2689,6 +2696,8 @@ perder - dexibai
 perdonar (disculpar) - mafe  
 perdurable (longevo, prolongado) - longodure  
 perdón - maf  
+perezoso (flojo) - kaslan  
+perezoso (pereza) - peresa  
 perfeccionar - purbone  
 perfecto - purbone  
 perfecto - perfete  
@@ -2715,7 +2724,8 @@ peso (gravedad) - vezia
 pestaña - okokex  
 peto - sinaplate  
 petrología - petrolojia  
-petróleo - petronefte  
+petróleo - petrolipe  
+pez (pescado) - pexe  
 pez globo - balonpes  
 peñasco (pedrusco) - dayite  
 piano - piano  
@@ -2778,7 +2788,7 @@ plástico - plastike
 plátano (banana) - banan  
 pobre (miserable) - miskin  
 poción - tibesui  
-poco (pocos) - xau  
+poco (pocos) - kam  
 poder (posible) - able  
 podrido (cariado) - pude  
 podsol - huidarte  
@@ -3045,7 +3055,7 @@ repetición - ri-
 repetir - rifete  
 reportar (informe, reporte, noticia) - reporte  
 reportero - reporter  
-reposo - reste  
+reposo - repauze  
 representación (figura) - figur  
 representar - vakile  
 Republica Dominicana - Dominiki Komunkratia  
@@ -3144,7 +3154,7 @@ salchicha - sosis
 salida - cutomun  
 salir (irse) - cute  
 salmón (trucha) - salmon  
-salmón chum (keta) - bakosalmon  
+salmón chum (keta) - bakusalmon  
 salmón del Atlántico - atlante salmon  
 salmón rojo - lalsalmon  
 salmón rosado - rozosalmon  
@@ -3374,7 +3384,7 @@ tarjeta (carta) - karde
 tarjeta de crédito - kredokarde  
 tarjeta de gráfica - grafokarde  
 tasa (precio, cuota, tarifa) - taxe  
-tatuaje - tatu  
+tatuaje - tato  
 taxi (cab) - taxi gar  
 Tayikistán - Tajikostan  
 taza de café - kafe kupe  
@@ -3411,7 +3421,7 @@ Tennessee - Tenesi
 tennis - tenis  
 tenso - tense  
 tentar (seducir) - tente  
-tentempié - lilyam  
+tentempié - xiuyam  
 teocracia - deukratia  
 teología - deulojia  
 teoría - teoria  
@@ -3649,7 +3659,6 @@ vidriar (glasear; vidriado, esmalte) - glasize
 vidrio (cristal) - glas  
 vidrio volcánico - hogoxan glas  
 viejo (anciano) - lau  
-viejo (anciano) - lave  
 viejo - senike  
 viento (soplar, echar) - fente  
 viernes - den pente  
@@ -3756,3 +3765,4 @@ zulú - Zulu
 óxide - oxide  
 únicamente (solo) - uniko  
 único (solo, soltero) - unike  
+Камасутра - Kama sutre  

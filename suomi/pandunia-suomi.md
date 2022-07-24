@@ -272,7 +272,7 @@ bahaisme - bahailaisuus
 bahaiste - bahailainen  
 Bahama - Bahama-saaret  
 Bahrain - Bahrain  
-bake - valkoinen (valkea)  
+baku - valkoinen (valkea)  
 bale - voimakas (vahva)  
 • balia - voima  
 • balekan - kuntosali (punttisali)  
@@ -451,7 +451,7 @@ Britania - Iso-Britannia (Yhdistyneet Kuningaskunnat)
 bromium - bromi  
 brox - harja  
 broxokalam - mustesivellin  
-brune - ruskea  
+brun - ruskea  
 Brunei - Brunei  
 brus - sisarus (veli tai sisko)  
 brusben - sisaruksen lapsi  
@@ -497,6 +497,7 @@ caikupe - teekuppi
 caipote - teepannu  
 cakre - ratas  
 caku - veitsi (puukko)  
+cakukate - katkaista (leikata)  
 camaca - lusikka  
 campion - mestari (voittaja)  
 can - tehdä (valmistaa)  
@@ -588,8 +589,6 @@ cum - suukko (pusu)
 cupe - imeä  
 cute - poistua  
 cutomun - uloskäynti  
-cuve - pureskella  
-cuvogom - purukumi  
 cuze - valita (valinta, vaali)  
 • cuzable - vaihtoehto  
 
@@ -625,7 +624,6 @@ dange - kilistää (soittaa kelloa)
 danger - soittokello  
 danse - tanssi  
 dante - hammas  
-• danta - purra  
 dantobrox - hammasharja  
 dantokume - hammasvalli  
 dantotiber - hammaslääkäri  
@@ -1312,6 +1310,7 @@ hatre - vaara (vaarallinen)
 Havai - Havaiji  
 Havai nesia - Havaijin saaret  
 have - ilma  
+haxi - syömäpuikot  
 haxix - ruoho (hasis)  
 Hayastan - Armenia  
 he - häh?  
@@ -1381,7 +1380,7 @@ Horvatia - Kroatia
 hotel - hotelli  
 hui - tuhka  
 huidarte - podsoli  
-huirange - harmaa  
+huirang - harmaa  
 huke - koukku (haka)  
 hukokrus - hakaristi (svastika)  
 huli - kettu  
@@ -1575,7 +1574,11 @@ kalsium - kalsium
 kalsokristal - marmori  
 kalsomate - kalkki  
 kalsopetre - kalkkikivi  
-kame - himo (seksuaalinen halu)  
+kam - vähän  
+• kamia - vähyys  
+• kamife - vähentää  
+kama - himo (seksuaalinen halu)  
+Kama sutre - Kamasutra  
 kamar - huone  
 kamardipe - lattia  
 Kambojia - Kambodja  
@@ -1610,6 +1613,7 @@ kare - työskennellä
 • konkare - tehdä yhteistyötä  
 karelexe - verbi (teonsana)  
 karomeza - työpöytä (kirjoituspöytä)  
+kara - musta  
 karaoke - karaoke  
 karate - karate  
 • karateiste - karateka (karaten harrastaja)  
@@ -1639,8 +1643,11 @@ kase - laatikko (lipas)
 • kaser - kassanhoitaja  
 • kasule - kapseli  
 kaske - kuori (suojakuori)  
+kaslan - laiska  
 kastan - kastanja  
-kate - katkaista (leikata)  
+kate - purra  
+• katade - pureskella (jauhaa)  
+kategom - purukumi  
 Katalunia - Katalonia  
 katana - miekka  
 Katar - Qatar  
@@ -1780,7 +1787,8 @@ Konakri Ginia - Guinea
 koncung - hyönteinen (ötökkä)  
 kong - reikä  
 Kongfuze - Kungfutse  
-kongfuzisme - Kungfutselaisuus  
+kongfuzisme - kungfutselaisuus  
+• neu kongfuzisme - uuskungfutselaisuus  
 Konkani - konkani (eräs intialainen kieli)  
 konserte - konsertti  
 konus - kartio (keila)  
@@ -1904,37 +1912,41 @@ LAN (loke aria nete) - lähiverkko (LAN-verkko)
 langan - kaide (reelinki)  
 Lanka - Sri Lanka  
 lantanium - lantaani  
+Lao - Laos  
+Lao jen - laoslainen  
 larve - toukka  
+lasa - roska  
+lasastan - kaatopaikka  
+lasatong - jäteastia (roskakori, roskis)  
 laste - joustava (elastinen)  
 lasun - valkosipuli  
 late - sivu (kylki, puoli)  
-late - sivu-  
-latude - leveyspiiri  
+• latude - leveyspiiri  
 • alative - allatiivi  
 • abolative - ablatiivi  
 • exlative - elatiivi  
 • inlative - illatiivi  
 • tralative - translatiivi  
+latedike - sivuttaissuuntainen  
 latini harfia - latinalaiset aakkoset  
 latinkitabe - latinoida  
 Latvia - Latvia  
-Lau - Laos  
-lave - laoslainen  
+lau - vanha (iäkäs)  
 laurensium - lawrencium  
 laxe - löysä (löysätä, päästää menemään)  
 • relaxe - rentoutua (rentouttaa)  
-laze - roska  
 lazanya - lasagne  
-lazurpetre - lapislatsuli  
-lefte - vasen  
-leftiste - vasemmistolainen  
+lazurite - lapislatsuli  
+le - jo  
 lenge - kylmä  
 lengomosim - talvi  
 lengomosime - talvinen  
 lense - linssi  
+Lesa - Lhasa  
 letre - kirje  
 letus - lehtisalaatti  
-leu - jo  
+leve - vasen  
+leviste - vasemmistolainen  
 lexe - sana  
 • lexia - sanasto  
 • lexeme - lekseemi  
@@ -1958,13 +1970,8 @@ lifafe - kääriä (kääre, kuori)
 lige - liittää (liitto, liittouma, liiga)  
 • alige - liittoutua  
 Lihtenstain - Liechtenstein  
-lile - pieni (pienesti, vähän)  
-lilbol - kupla  
-lilyam - välipala (naposteltava)  
-lilsite - pikkukaupunki  
-lilite - sorakivi  
-lilake - syreeni  
-lilake - violetti (liila)  
+lila - syreeni  
+lila rang - violetti (liila)  
 lime - raja  
 • anlimia - äärettömyys (rajattomuus)  
 • tralime - liikaa  
@@ -1976,6 +1983,9 @@ line - linja (viiva, lanka, liina, naru, köysi)
 lineme - säie (kuitu)  
 linoparce - rivinvaihto  
 lince - ilves  
+lipe - rasva (öljy)  
+lipocupe - rasvaimu  
+lipofobia - lipofobia (rasvanpelko)  
 lise - sileä  
 lisan - kieli (elin)  
 liste - lista (luettelo)  
@@ -2379,10 +2389,10 @@ nate - syntyä (synty, syntymä)
 • prenatal - syntymää edeltävä  
 natrium - natrium  
 nau - vene (laiva)  
-nave - veneillä  
+• naver - veneilijä  
+nauga - veneillä  
 naukaper - laivakaappari  
-naulefte - paapuuri  
-naver - veneilijä  
+nauleve - paapuuri  
 nauraite - tyyrpuuri  
 nauxefe - kapteeni  
 navate - nahuatli  
@@ -2661,7 +2671,8 @@ patomise - tartuntatauti (infektio)
 patate - peruna (potaatti)  
 pau - pyssy  
 paunde - punta  
-pauze - tauko (keskeytys, paussi)  
+pauze - levätä (lepo, lepotauko)  
+• repauze - levätä (lepo)  
 pede - kasvattaa lapsia  
 • pedia - kasvatus (lasten~)  
 • pedocentriste - kasvatuskeskeinen  
@@ -2702,13 +2713,15 @@ pentofase - viisitahokas (prisma)
 pentogone - viisikulmio  
 pere - sulka  
 perde - pieru (pierrä, pieraista)  
+peresa - laiskiainen  
 Peru - Peru  
 pete - maha (vatsa)  
 peta - peta-  
 petre - kallio (kivi)  
 • petrolojia - petrologia  
-pexohuke - ongenkoukku  
-pexotanke - akvaario  
+pexe - kala  
+pexehuke - ongenkoukku  
+pexetanke - akvaario  
 piano - piano  
 piaze - sipuli  
 picea - kuusi (metsäkuusi)  
@@ -2939,10 +2952,9 @@ rel - todellinen (aito)
 rel televizion - tosi-TV  
 renium - renium  
 rentogenium - roentgenium  
+repauze in pace (RIP) - lepää rauhassa (RIP)  
 resete - resepti (ohje)  
 reside - kuitti (kuittaus)  
-reste - lepo  
-reste in pace (RIP) - lepää rauhassa (RIP)  
 restorante - ravintola  
 Reunion - Reunion  
 rezin - pihka (hartsi)  
@@ -3164,7 +3176,6 @@ sife - määritellä (luonnehtia; laatu, ominaisuus, ominaispiirre, määrite)
 • susifia - laatu (laadukkuus, erinomaisuus, hyvyys)  
 sifelexe - adjektiivi (laatusana)  
 sigare - savuke tai sikari  
-siyahe - musta  
 sikisme - sikhiläisyys  
 sikiste - sikhi  
 sikle - pyörä (polkupyörä, moottoripyörä)  
@@ -3370,7 +3381,8 @@ tate - koskea (koskettaa)
 tatosense - tuntea  
 • kontate - kosketus (kontakti)  
 tatike - taktiikka  
-tatu - tatuointi  
+tato - tatuointi  
+tatu - vyötiäinen  
 tave - pannu (paistinpannu)  
 taxe - taksa (vero)  
 taxe - veloittaa (verottaa)  
@@ -3729,7 +3741,6 @@ xatani - pirullinen
 xatanisme - satanismi (paholaisenpalvonta)  
 xataniste - satanisti  
 xatrange - šakki  
-xau - vähän  
 xaxa - kahista  
 xe - asia  
 xehal - tilanne (asiaintila)  
@@ -3758,6 +3769,11 @@ xir - runo
 xirope - siirappi  
 xixkababe - varraskebab  
 xite - paska (sonta)  
+xiu - pieni  
+xiubol - kupla  
+xiuyam - välipala (naposteltava)  
+xivite - sorakivi  
+xiusite - pikkukaupunki  
 Xiva - Šiva  
 xix - varras  
 xixomanse - saslik  
@@ -3851,6 +3867,7 @@ zayia - läsnäolo
 zai zaman - tämä hetki (nyt)  
 zai zaman su - nykyinen (tämänhetkinen)  
 zaitun - oliivi  
+zaitunlipe - oliiviöljy  
 zalime - ilkeä (julma)  
 • zalimia - tyrannia  
 zalime reger - tyranni  

@@ -96,10 +96,10 @@ bade - 体
 badam - アーモンド (扁桃)  
 bage -  鞄 (バッグ)  
 bagroselote - ジャガーネコ  
-bake - 白い  
-bakomargarite - フランスギク  
-bakosalmon - シロザケ  
 bakalau - 鱈  
+baku - 白い  
+bakumargarite - フランスギク  
+bakusalmon - シロザケ  
 • anbale - 弱い (脆弱)  
 balde - バケツ  
 balonpes - フグ  
@@ -177,7 +177,7 @@ brauze - 探る, 探検する
 brauzer - 探検家 (ブラウザ)  
 bromium - 臭素  
 broxokalam - 筆 (毛筆)  
-brune - 茶色  
+brun - 茶色  
 brunalge - 褐藻  
 brunsalmon - ブラウントラウト  
 bu! - ばあ  
@@ -203,6 +203,7 @@ camaca - スプーン
 cantergrupe - 合唱団  
 catre - 四 (4)  
 cau - 草  
+caukitabe - 草書  
 caustan - 草地  
 ceke - 小切手 (チェック)  
 • excepe - 追出 (退ける, 除いて)  
@@ -225,7 +226,6 @@ coi - 菜
 coklate - チョコレート  
 coklatobaton - チョコバー  
 cope - クワ  
-cuvogom - チューインガム  
 • cuzable - オプション (選択)  
 • precuze - 既定 (デフォルト)  
 cuzoliste - 品書き (メニュー)  
@@ -243,7 +243,6 @@ dam - 暗い
 dane - デンマークの  
 danograne - 種  
 danger - 鐘 (鈴)  
-• danta - 咬む  
 dantobalute - カシワ  
 darotube - 漏斗  
 dargomute - 発展 (開発)  
@@ -504,6 +503,7 @@ Hartum - ハルツーム
 haste - 忙しい  
 • anhaste - 遅い (ゆっくり)  
 hatre - 危険  
+haxi - 箸  
 hei - おい  
 helium - ヘリウム  
 helisviman - ヘリコプター  
@@ -564,6 +564,7 @@ jambul - フトモモ
 janel - 窓  
 janelovel - カーテン  
 jang - 戦闘 (格闘)  
+jangoxute - 武術  
 jangle - 野生の  
 jangle van - ジャングル  
 jau - 大麦  
@@ -613,7 +614,9 @@ kalmar - イカ
 kalsium - カルシウム  
 kalsokristal - 大理石  
 kalsomate - 石灰  
-kame - 色欲  
+kam - 少ない  
+kama - 色欲  
+Kama sutre - カーマ・スートラ  
 kamar - 部屋  
 kamil - カモミール (カミツレ)  
 kamis - シャツ  
@@ -631,6 +634,7 @@ kare - 働く
 • duskar - 悪事  
 • konkare - 共同して働  
 karelexe - 動詞  
+kara - 黒い  
 • karateiste - 空手家  
 karbe - 炭素  
 karbosui - 炭水化物  
@@ -646,7 +650,11 @@ karsolimon - コブミカン (スワンギ, プルット)
 karte - 地図  
 karube - 蝗豆  
 kaske - 殻 (皮)  
+kaslan - ナマケモノ (怠惰な)  
+kate - 咬む  
+• katade - 咀嚼  
 kategluteban - クリップボード  
+kategom - チューインガム  
 katana - 刀 (剣)  
 katus - サボテン  
 kave - 掘る  
@@ -750,19 +758,21 @@ lama - ラマ (チベット仏教の上師)
 lampe - ランプ  
 LAN (loke aria nete) - LAN  
 lantanium - ランタン  
+lasa - ゴミ (廃棄物)  
+lasastan - ゴミ捨て場  
+lasatong - ごみ箱  
 lasun - 大蒜  
 late - 側 (脇)  
-latude - 緯度  
+• latude - 緯度  
 Latvia - ラトビア  
-lave - 年配  
+lau - 年配  
 laurensium - ローレンシウム  
-laze - ゴミ (廃棄物)  
 lazanya - ラザニア  
-lazurpetre - ラピスラズリ (瑠璃)  
-lefte - 左  
+lazurite - ラピスラズリ (瑠璃)  
 lense - レンズ  
 letre - 手紙  
 letus - レタス  
+leve - 左  
 lexe - 言葉  
 • lexia - 語彙  
 lexojinse - 文法的性 (名詞クラス)  
@@ -772,15 +782,15 @@ liboban - 棚
 libobaze - 台  
 libele - 蜻蛉  
 lidoline - リード (手綱)  
-lile - 小さい  
-lilkaboge - ズッキーニ  
-lilite - 小石  
 limon - レモン  
 • limonike - 柑橘  
 limon jus - レモネード  
 line - 糸  
 lineme - 繊維  
 lince - 大山猫  
+lipe - 油  
+lipocupe - 脂肪吸引  
+lipoguke - シマカンギク (アブラギク)  
 lisan - 舌  
 litium - リチウム  
 litre - リットル  
@@ -942,8 +952,6 @@ nautile - オウムガイ
 naze - 鼻  
 ne - ね  
 nefre - 腎臓  
-nefte - 油 (オイル)  
-neftoguke - シマカンギク (アブラギク)  
 • nekrofilisme - 屍姦 (死体性愛)  
 • nekrotome - 検視  
 nen - 年  
@@ -1064,8 +1072,9 @@ pentogone - 五角形
 perokardon - アメリカオニアザミ  
 perde - 屁  
 • petrolojia - 岩石学  
-petronefte - 石油  
-pexohuke - 釣り針  
+petrolipe - 石油  
+pexe - 魚  
+pexehuke - 釣り針  
 piaze - 玉葱  
 picea - トウヒ  
 pike - 先  
@@ -1157,7 +1166,7 @@ retrogul sense - 吐き気 (嘔気)
 rel televizion - リアリティ番組  
 renium - レニウム  
 rentogenium - レントゲニウム  
-reste in pace (RIP) - 安らかに眠れ  
+repauze in pace (RIP) - 安らかに眠れ  
 ri- - 繰り返し  
 ring - 輪  
 ringare - リング  
@@ -1245,7 +1254,6 @@ side - 座る
 • inside - しゃがむ (蹲る)  
 sifelexe - 形容詞  
 sigare - タバコ  
-siyahe - 黒い  
 • sikliste - チャリダー  
 • risikle - 再生する (リサイクルする)  
 silike - ヶィ素  
@@ -1319,6 +1327,8 @@ Talban - タリバン
 tan - 茎 (胴)  
 tantalium - タンタル  
 tas - 皿  
+tato - 入れ墨 (文身)  
+tatu - アルマジロ  
 tehne - 技術  
 tehnium - テクネチウム  
 telefon - 電話  
@@ -1455,7 +1465,6 @@ xarafun - 木屑
 xarke - サメ  
 xatan - 敵 (相手)  
 xatan (ruhoxatan) - 悪魔  
-xau - 少ない  
 xe - 事 (物)  
 xehal - 事態  
 xenon - キセノン  
@@ -1470,6 +1479,9 @@ xipostan - 湿地
 xir - 詩  
 • xiria - 詩歌  
 xite - 糞 (屎)  
+xiu - 小さい  
+xivite - 小石  
+xiukaboge - ズッキーニ  
 Xiva - シヴァ  
 xixe - 刺す  
 xope - 買う  
@@ -1515,6 +1527,7 @@ yune moke - 若木
 zai - ある (いる)  
 zai zaman - 今 (現在)  
 zai zaman su - 現行  
+zaitunlipe - オリーブ油  
 zalime reger - 暴君  
 zaman - 時代 (年代)  
 zarkube - 賽子  

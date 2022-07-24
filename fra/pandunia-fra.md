@@ -202,10 +202,10 @@ bage - sac
 bagre - tigre  
 bagroselote - oncille  
 bah - bah  
-bake - blanc  
-bakomargarite - marguerite  
-bakosalmon - saumon du Pacifique (saumon kéta, saumon chien)  
 bakalau - morue  
+baku - blanc  
+bakumargarite - marguerite  
+bakusalmon - saumon du Pacifique (saumon kéta, saumon chien)  
 bale - fort  
 • balia - force  
 • balekan - salle de muscu  
@@ -321,7 +321,7 @@ botel - bouteille
 brave - brave  
 brave - bravo!  
 bromium - brome  
-brune - brun (marron)  
+brun - brun (marron)  
 brunalge - algues brunes  
 brunsalmon - truite brune (truite de mer)  
 bu! - bouh!  
@@ -380,7 +380,6 @@ coklate - chocolat
 coklatobaton - tablette de chocolat  
 cope - houe  
 cuke - toucher  
-cuvogom - chewing-gum  
 • cuzable - option  
 
 ## D  
@@ -400,7 +399,6 @@ dane - semence
 danger - cloche  
 danse - dance  
 dante - dent  
-• danta - mordre  
 darotube - entonnoir  
 dargomute - développement  
 darmositium - darmstadtium  
@@ -713,6 +711,7 @@ haste - occupé
 hate - jusque (jusqu’à)  
 hato - voire (même)  
 hatre - danger  
+haxi - baguettes  
 haxix - haschich  
 hei - hé  
 helium - hélium  
@@ -850,7 +849,9 @@ kalsium - calcium
 kalsokristal - marbre  
 kalsomate - chaux  
 kalsopetre - calcaire  
-kame - luxure (libido)  
+kam - peu  
+kama - luxure (libido)  
+Kama sutre - Kâmasûtra  
 kamar - pièce (chambre)  
 kamil - Camomille sauvage  
 kamis - chemise  
@@ -869,6 +870,7 @@ kare - travailler
 • duskar - méfait (péché)  
 • konkare - collaborer  
 karelexe - verbe  
+kara - noir  
 • karateiste - karatéka  
 karbe - carbone  
 karboduloxide - dioxyde de carbone  
@@ -890,7 +892,11 @@ karube - caroube
 • kasete - cassette  
 • kasule - capsule  
 kaske - carapace (coquille, coquillage, croûte)  
+kaslan - paresseux (fainéant)  
+kate - mordre  
+• katade - mâcher (mastiquer)  
 kategluteban - presse-papier  
+kategom - chewing-gum  
 katana - épée  
 katus - cactus  
 kave - creuser  
@@ -999,23 +1005,27 @@ lama - lama (enseignant religieux du bouddhisme tibétain)
 • lamaisme - lamaïsme  
 lampe - lampe  
 lantanium - lanthane  
+lasa - ordures  
+lasastan - décharge  
+lasatong - poubelle  
 lasun - ail  
 late - côté  
-late - latéral  
+latedike - latéral  
 Latvia - Lettonie  
-lave - vieux (âgé, ancien)  
+lau - vieux (âgé, ancien)  
 laurensium - lawrencium  
 laxe - lâcher (laisser)  
-laze - ordures  
 lazanya - lasagne  
 lazure - azur  
-lazurpetre - lapis-lazuli  
+lazurite - lapis-lazuli  
 lege - léger  
 lengomosim - hiver  
 lengomosime - hivernal (hibernal)  
 lense - lentille  
+Lesa - Lhassa  
 letre - lettre  
 letus - laitue  
+leve - gauche  
 lexe - mot  
 • lexia - vocabulaire (lexique)  
 • lexike - lexical  
@@ -1025,15 +1035,14 @@ liboban - étagère
 libele - libellule  
 • lider - dirigeant (leader)  
 lifafe - envelopper (emballer)  
-lile - petit  
-lilkaboge - courgette  
-lilite - caillou  
 • belime - limité  
 limon - citron  
 limon jus - citronnade  
 line - ligne (fil)  
 lineme - fibre  
 lince - lynx  
+lipe - lipide (huile)  
+lipocupe - liposuccion  
 lisan - langue  
 liste - liste  
 litium - lithium  
@@ -1212,12 +1221,11 @@ nasibe - destin
 • prenatal - prénatal  
 natrium - sodium  
 nau - bateau  
-naulefte - babord  
+nauleve - babord  
 nauraite - tribord  
 nautile - nautile  
 naze - nez  
 nefre - rein  
-nefte - huile (pétrole)  
 • nekrofilisme - nécrophilie  
 • nekrologe - nécrologie  
 • nekrotome - autopsie  
@@ -1365,6 +1373,7 @@ patolojia - pathologie
 patomise - infecter (infection, contagion)  
 pau - pistolet  
 pauze - pause  
+• repauze - repos  
 • prepede - propédeutique (préparatoire)  
 peikar - profession (métier)  
 peikari jive - carrière  
@@ -1382,10 +1391,12 @@ pentobrox - pinceau
 pentogone - pentagone  
 perokardon - cirse commun  
 perde - pet (vesse; péter)  
+peresa - paresseux (aï)  
 petre - roche (pierre)  
 • petrolojia - pétrologie  
-petronefte - pétrole (essence)  
-pexohuke - hameçon  
+petrolipe - pétrole (essence)  
+pexe - poisson  
+pexehuke - hameçon  
 piaze - oignon  
 picea - épicéa  
 pike - bout (pointe, pic)  
@@ -1503,8 +1514,7 @@ rel - réel
 rel televizion - téléréalité  
 renium - rhénium  
 rentogenium - roentgenium  
-reste - repos  
-reste in pace (RIP) - repose en paix (REP)  
+repauze in pace (RIP) - repose en paix (REP)  
 ri- - répétition  
 rice - riche  
 rim - rime  
@@ -1609,7 +1619,6 @@ siborgium - seaborgium
 • inside - s’accroupir  
 sifelexe - adjectif  
 sigare - cigarette  
-siyahe - noir  
 sikle - bicyclette  
 • sikliste - cycliste  
 • risikle - recycler  
@@ -1703,6 +1712,7 @@ tantalium - tantale
 tape - bloquer  
 tate - toucher (tact)  
 • kontate - contact  
+tatu - tatou  
 taxi metrer - taximètre  
 taze - frais  
 tehne - technique  
@@ -1880,7 +1890,6 @@ xarnir - charnière
 xate - s'opposer à  
 xatan - adversaire (antagoniste, ennemi)  
 xatan (ruhoxatan) - Satan  
-xau - peu  
 xe - chose  
 xehal - situation (état de choses)  
 xefe - chef  
@@ -1894,6 +1903,9 @@ xipe - mouiller (mouillé)
 • xipete - humide  
 • xiria - poésie  
 xite - merde  
+xiu - petit  
+xivite - caillou  
+xiukaboge - courgette  
 Xiva - Shiva  
 xix - brochette  
 xixomanse - chachlik  
@@ -1943,6 +1955,7 @@ yune moke - pousse
 
 zai - être présent  
 zai zaman su - actuel (courant)  
+zaitunlipe - huile d'olive  
 zaman - temps  
 zarkube - dé  
 Zardux - Zoroastre  

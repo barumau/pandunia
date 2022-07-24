@@ -6,6 +6,7 @@ a - en (a)
 a intre - dentro  
 a ke - dónde  
 a korte - pronto  
+a late dike - de lado  
 a le - allí (allá)  
 a line - en línea  
 a long - lejos  
@@ -233,11 +234,11 @@ bahaisme - bahaísmo (fe bahá'i)
 bahaiste - bahá'í  
 Bahama - Bahamas  
 Bahrain - baréin  
-bake - blanco  
-bakocoi - col china  
-bakomargarite - margarita  
-bakosalmon - salmón chum (keta)  
 bakalau - bacalao  
+baku - blanco  
+bakucoi - col china  
+bakumargarite - margarita  
+bakusalmon - salmón chum (keta)  
 bale - fuerte  
 • balia - fuerza  
 • anbale - débil  
@@ -407,7 +408,7 @@ Brazil - Brasil
 Britania - Reino Unido  
 bromium - bromo  
 brox - cepillo (brocha)  
-brune - marrón  
+brun - marrón  
 brunalge - algas pardas  
 brunsalmon - trucha marrón  
 Brunei - Brunei  
@@ -454,6 +455,7 @@ caikupe - taza de té
 caipote - tetera  
 cakre - rueda (volante)  
 caku - cuchillo  
+cakukate - cortar  
 camaca - cuchara  
 campion - campeón  
 can - producir (hacer, preparar)  
@@ -525,7 +527,6 @@ cum - beso
 cupe - chupar (succionar)  
 cute - salir (irse)  
 cutomun - salida  
-cuvogom - chicle  
 cuze - elegir (escoger, seleccionar; elección)  
 • cuzable - opción  
 • precuze - predeterminado  
@@ -559,7 +560,6 @@ danograne - pepita
 danger - campana (cencerro)  
 danse - baile (danza)  
 dante - diente  
-• danta - morder  
 dantobalute - roble daimyo  
 dantobrox - cepillo de dientes  
 dantotiber - dentista (odontólogo)  
@@ -1204,6 +1204,7 @@ hato - hasta (también)
 hatre - peligro (peligroso)  
 Havai - Hawái  
 Havai nesia - archipiélago de Hawái  
+haxi - palillos  
 haxix - hachís  
 Hayastan - Armenia  
 he - cómo? (eh?)  
@@ -1273,7 +1274,7 @@ Horvatia - Croacia
 hotel - hotel (albergue)  
 hui - ceniza  
 huidarte - podsol  
-huirange - gris  
+huirang - gris  
 huke - gancho (anzuelo, alcayata)  
 hukokrus - esvástica (cruz gamada)  
 huli - zorro  
@@ -1458,7 +1459,10 @@ kalsium - calcio
 kalsokristal - marmól  
 kalsomate - cal  
 kalsopetre - caliza  
-kame - lujuria (deseo)  
+kam - poco (pocos)  
+• kamia - escasez  
+kama - lujuria (deseo)  
+Kama sutre - Камасутра  
 kamar - habitación (cuarto, sala, pieza)  
 kamardipe - piso (suelo)  
 Kambojia - Camboya  
@@ -1496,6 +1500,7 @@ kare - trabajar
 • konkare - colaborar  
 karelexe - verbo  
 karomeza - escritorio (mesa de trabajo)  
+kara - negro  
 karaoke - karaoke  
 karate - karate  
 karave - carvis (alcaravea)  
@@ -1530,9 +1535,12 @@ kase - caja
 • kaser - cajero  
 • kasule - cápsula  
 kaske - carapacho (cáscara, concha, corteza, capa)  
+kaslan - perezoso (flojo)  
 kastan - castaña  
-kate - cortar  
+kate - morder  
+• katade - masticar (mascar)  
 kategluteban - portapapeles  
+kategom - chicle  
 Katalunia - Cataluña  
 katana - espada  
 Katar - Catar (Qatar)  
@@ -1656,6 +1664,7 @@ koncaniste - comunista
 konformu - amoldarse  
 konfuncable - compatible  
 kontre - estar en contra  
+konjen - compañero (compinche)  
 Konakri Ginia - Guinea  
 koncung - insecto  
 kong - agujero (hueco)  
@@ -1788,38 +1797,37 @@ LAN (loke aria nete) - LAN (RAL)
 langan - barandilla (pasamanos)  
 Lanka - Sri Lanka  
 lantanium - lantano  
+Lao - Laos  
+Lao jen - laosiano  
 larve - larva  
+lasa - basura (desechos)  
+lasastan - basural  
+lasatong - basurero  
 laste - elástico (flexible)  
 lasun - ajo  
 late - lado (flanco)  
 late - estar al lado de  
-late - lateral (horizontal)  
-lato - de lado  
-latojen - compañero (compinche)  
-latude - latitud  
+• latude - latitud  
+latedike - lateral (horizontal)  
 latini harfia - alfabeto latino  
 latinkitabe - romanizar  
 Latvia - Letonia  
-Lau - Laos  
 lau - viejo (anciano)  
-lave - viejo (anciano)  
-lave - laosiano  
 laurensium - laurencio  
 laxe - dejar  
-laze - basura (desechos)  
 lazanya - lasaña  
 lazure - azur (blao)  
-lazurpetre - lapislázuli  
-lefte - lado izquerdo  
-lefte - izquierdo  
-leftiste - izquerdista  
+lazurite - lapislázuli  
 lege - ligero  
 lenge - frío  
 lengomosim - invierno  
 lengomosime - invernal  
 lense - lente  
+Lesa - Lhasa  
 letre - carta  
 letus - lechuga  
+leve - izquierdo  
+leviste - izquerdista  
 lexe - palabra (vocablo)  
 • lexia - vocabulario (léxico)  
 • lexike - léxico  
@@ -1846,12 +1854,8 @@ lifafe - envolver (envoltura)
 lige - liga (asociación, federación)  
 • alige - asociar  
 Lihtenstain - Liechtenstein  
-lile - pequeño  
-lilbol - burbuja (pompa)  
-lilyam - tentempié  
-lilkaboge - calabacín  
-lilake - lila  
-lilake - lila (de color lila)  
+lila - lila  
+lila rang - lila (de color lila)  
 lime - límite (frontera, linde)  
 • belime - limitado  
 • tralime - demasiado  
@@ -1865,6 +1869,8 @@ line - linea (hilo, cordel, raya)
 lineme - hebra (fibra)  
 linoparce - nueva línea  
 lince - lince  
+lipe - lípido (graca, aceite, óleo)  
+lipocupe - liposucción  
 lise - suave (liso)  
 lisan - lengua  
 liste - lista  
@@ -2268,10 +2274,10 @@ nasibe - destino
 natre - natrón  
 natrium - sodio  
 nau - barco (bote)  
-nave - navegar (ir en bote)  
+• naver - velero  
+nauga - navegar (ir en bote)  
 naukaper - corsario  
-naulefte - babor  
-naver - velero  
+nauleve - babor  
 nauraite - estribor  
 nauxefe - capitán  
 navate - náhuatl (nahua)  
@@ -2284,7 +2290,6 @@ Nederlandi Antil - Antillas Neerlandesas
 Nederlandia - Países Bajos  
 nefre - riñon  
 nefritis - nefritis  
-nefte - aceite (óleo)  
 nege - rechazar (negar)  
 • nekrofilisme - necrofilia  
 • nekrologe - necrología (obituario)  
@@ -2554,7 +2559,8 @@ patate - papa
 pau - pistola (rifle)  
 pau - disparar  
 paunde - libra (£)  
-pauze - parar (pausa)  
+pauze - pausa  
+• repauze - reposo  
 pedal - pedal  
 pedalsikle - bicicleta  
 pei - pago  
@@ -2581,13 +2587,15 @@ pentogone - pentágono
 pere - pluma  
 perokardon - cardo burral  
 perde - pedo (peer)  
+peresa - perezoso (pereza)  
 Peru - Perú  
 pete - barriga (vientre, panza)  
 petre - roca (piedra)  
 • petrolojia - petrología  
-petronefte - petróleo  
-pexohuke - hamo (anzuelo)  
-pexotanke - acuario (pecera)  
+petrolipe - petróleo  
+pexe - pez (pescado)  
+pexehuke - hamo (anzuelo)  
+pexetanke - acuario (pecera)  
 piano - piano  
 piaze - cebolla  
 picea - pícea  
@@ -2816,10 +2824,9 @@ rel - real
 rel televizion - telerrealidad  
 renium - renio  
 rentogenium - roentgenio  
+repauze in pace (RIP) - descase en paz  
 resete - instrucciones (receta)  
 reside - reconocimiento (recibo; reconocer)  
-reste - reposo  
-reste in pace (RIP) - descase en paz  
 restorante - restaurante  
 Reunion - Reunión  
 rezin - resina  
@@ -3039,7 +3046,6 @@ sife - definir (cualidad, atributo, descripción)
 • susifia - calidad (excelencia, mérito, virtud, ventaja)  
 sifelexe - adjetivo  
 sigare - cigarro (cigarillo)  
-siyahe - negro  
 sikisme - sijismo  
 sikiste - sij  
 sikle - bicicleta  
@@ -3252,7 +3258,8 @@ tate - tocar (tacto)
 tatosense - palpar (tocar)  
 • kontate - contacto  
 tatike - táctica (estrategia)  
-tatu - tatuaje  
+tato - tatuaje  
+tatu - armadillo (quirquincho, tatú)  
 tave - sartén  
 taxe - tasa (precio, cuota, tarifa)  
 taxe - gravar (cobrar tasas)  
@@ -3583,8 +3590,6 @@ xatani - satánico
 xatanisme - satanismo  
 xataniste - satanista  
 xatrange - ajedrez  
-xau - poco (pocos)  
-xaves - escasez  
 xaxa - susurrar (curjir)  
 xe - cosa  
 xehal - situación  
@@ -3614,6 +3619,10 @@ xir - poema
 • xirer - poeta  
 xirope - jarabe (sirope)  
 xite - mierda  
+xiu - pequeño  
+xiubol - burbuja (pompa)  
+xiuyam - tentempié  
+xiukaboge - calabacín  
 Xiva - Shiva  
 xixe - atravesar  
 xix - brocheta  
@@ -3707,6 +3716,7 @@ zayia - presencia (existencia)
 zai zaman - presente  
 zai zaman su - actual  
 zaitun - aceituna  
+zaitunlipe - aceite de oliva  
 zalime - mezquino (antipático, cruel)  
 • zalimia - crueldad (tiranía)  
 zalime reger - tirano (déspota)  
