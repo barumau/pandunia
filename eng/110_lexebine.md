@@ -36,36 +36,35 @@ Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a wr
 ## Compound Words
 
 A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
-Compound words can be made in four ways in Pandunia.
+words can be made easily in Pandunia just like in many natural languages.
 
-1. Open compounds are written as separate words.
-    - **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce'
-    - **ame** 'love' + **letre** 'letter' = **ame letre** 'love letter'
-2. Closed compounds are joined to form a single word.
-    - **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'
-    - **bau** 'treasure' + **ite** 'stone' = **bavite** 'gemstone, jewel'
-    - **lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'
-3. Merged compounds are joined together so that the final vowel of the first word disappears before the beginning vowel of the second word.
-   This can happen only when the first word ends in **-e** and the second word begins with a vowel.
-    - **fone** 'sound, voice' + **eme** 'elementary unit' = **foneme** 'phoneme, unit of sound'
-    - **kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'
-4. Greek compounds are compounds where the final **-e** of the first word turns into **-o-** before the second word.
-   This way of compounding is applied only to a handful of words borrowed from Ancient Greek.
-    - **fote** 'light' + **grafe** 'image' = **fotografe** 'photograph'
-    - **deme** 'people' + **kratia** 'rule' = **demokratia** 'democracy'
 
+Either just write the that words you want to combine next to each other,
+like **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
+or simply join them together,
+like **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'.
+
+The former is called an _open compound_ and the latter a _closed compound_.
 There is little difference between open compounds and closed compounds.
-Open compounds may be written together as closed compounds,
-and closed compounds may be written separately as open compounds.
-Both ways work without problems.
+Compound words that are stable and fixed tend to be written together,
+whereas new compound words tend to be written separately.
 
-Merged compounds and Greek compounds are always written together as one word.
-It's possible to turn Greek compounds into closed compounds just by changing the **-o-** in the middle to **-e-**, so for example
-**fotografe**
-would turn into
-**fotegrafe**.
-Both forms are acceptable.
-Time will tell, will closed compounds become so popular that they displace Greek compounds.
+When words are joined and an annoying double vowel
+that consists of **e** and another vowel (**-eV-**)
+would be created in between, they can be reduced to one, for example
+**kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
+Vowels other than **e** can't be deleted. For example, **a** remains in the following compound:
+**lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'.
+
+This is almost all you need to know to make compound words.
+Apart from these, there are a few special, internationally known compound words rooted in Greek,
+where an **-e-** sound at the end of the first word turns into **-o-** to combine it with the next word.
+For example:  
+**fote** 'light' + **grafe** 'image' = **fotografe** 'photograph'  
+**deme** 'people' + **kratia** 'rule' = **demokratia** 'democracy'  
+This kind of _Greek compounds_ could be sometimes written as normal closed compounds,
+like **fotegrafe** and **demekratia**,
+and it should not be considered an error because the difference is minimal and harmless.
 
 
 ## Affixes
