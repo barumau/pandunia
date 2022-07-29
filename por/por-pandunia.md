@@ -100,8 +100,8 @@ arma de fogo - pau
 armadilha - kapetruke  
 armadura - defkaske  
 armário - almari  
-arquiteto - binoplaner  
-arquitetura - binoplania  
+arquiteto - bineplaner  
+arquitetura - bineplania  
 arrastar - trate  
 arroz - ris  
 arsénic - arsene  
@@ -244,7 +244,7 @@ camomila-romana - roma kamil
 camomila-vulgar - kamil  
 cana - gana  
 cana-de-açúcar - sukar gana  
-caneta de tinta permanente - fontokalam  
+caneta de tinta permanente - fontekalam  
 canguru - kangaru  
 canhão (ravina, barranco) - kanyon  
 canhǎo - daipau  
@@ -256,7 +256,7 @@ capa de chuva - barxekote
 carbono - karbe  
 cardo - kardon  
 cardo-mariano - milkokardon  
-cardo-roxo - perokardon  
+cardo-roxo - penakardon  
 cardápio (menu) - menu  
 careta (esgar) - guimuke  
 Caribe - Karibia  
@@ -320,7 +320,6 @@ ciclista - sikliste
 cidade - site  
 cigarro - sigare  
 cinco (5) - pente  
-cintilar - xingofote  
 cinéfilo - kinofilike  
 citologia - celolojia  
 civil - sivile  
@@ -396,7 +395,7 @@ croassã - kruasan
 crocodiliano - krokodil  
 crocodilo - longokrokodil  
 cromo - jamekarde  
-cronómetro - durometrer  
+cronómetro - duremetrer  
 cruz - krus  
 crème - krem  
 crómo - kromium  
@@ -407,6 +406,7 @@ cultivar - agre
 cume (pico, topo) - pike  
 curry - kari  
 cádmio - kadium  
+cálamo - ganakalam  
 cálcio - kalsium  
 cápsico - cili  
 cápsula - kasule  
@@ -439,6 +439,7 @@ deitar (jazer) - kuxe
 deixar - laxe  
 deixar - live  
 dente-de-leão (taráxaco) - makanful  
+depenar - depena  
 derretre - fuze  
 descanse em paz - repauze in pace (RIP)  
 desconectar - dekonnete  
@@ -691,7 +692,7 @@ glote - sonomun
 gnosticismo - nosisme  
 gnóstico - nosiste  
 golfinho (delfim) - dolfin  
-gorila - gorile  
+gorila - gorila  
 governo - polite  
 granito - granite  
 graças a - a xukre de  
@@ -1181,6 +1182,7 @@ pegada - futemarke
 peido (peidar) - perde  
 peixe - pexe  
 pele - pil  
+pena - penakalam  
 pender - pende  
 penso (band-aid) - glutobende  
 pentágono - pentogone  
@@ -1197,7 +1199,7 @@ perplexo (confuso) - ruhmixe
 perturbar (turbulência) - disturbe  
 peru - dinde  
 pesado - veze  
-pesar - vezu  
+pesar - veze  
 pescoço (nuca, gargalo) - nuke  
 pessoa - jen  
 petrologia - petrolojia  
@@ -1218,6 +1220,7 @@ pizzaria - pizaria
 plano - plan  
 planta (vegetal) - fite  
 platina - platinium  
+pluma (pena) - pena  
 plutónio - plutonium  
 plástico - plastebil  
 poesia - xiria  
@@ -1292,7 +1295,7 @@ pulso - pulsation
 purpúreo (roxo) - violete  
 purê de maçã - aplesaus  
 pá - belce  
-página - varkolate  
+página - varkelate  
 pátria - patria  
 pátria-mãe - matria  
 pântano - fangostan  
@@ -1588,7 +1591,7 @@ tubérculo - masmul
 tungsténio - volfram  
 turbante - pagre  
 turbina - turbin  
-turbojato - turbojeter  
+turbojato - turbejeter  
 turfa - turfe  
 tábua (prancha) - mokoban  
 tábula rasa - razi table  
@@ -1606,7 +1609,7 @@ uau - va
 um (1) - un  
 um ao outro - semen  
 uma vez - unomaro  
-unicamente - uniko  
+unicamente - unike  
 universal - unoverse  
 Urano - Uran  
 urra - hura  
@@ -1703,4 +1706,4 @@ zumbi - zombi
 úmido - xipete  
 único (só) - unike  
 паранормальный - paranorme  
-торговать - vendoxope  
+торговать - vendexope  

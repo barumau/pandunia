@@ -79,7 +79,7 @@ ar - areo
 aria - ejo  
 arabe - araba  
 arane - araneo  
-aranofobia - araneofobio  
+aranefobia - araneofobio  
 arbuze - akvomelono  
 argente - arĝento  
 Argentin - Argentino  
@@ -221,8 +221,8 @@ bibre - kastoro
 bil - povi  
 bil e - eble  
 bine - konstrui  
-binoplania - arĥitekturo  
-binoplaner - arĥitekto  
+bineplania - arĥitekturo  
+bineplaner - arĥitekto  
 binde - punkto  
 bir - biero  
 birkan - drinkejo  
@@ -410,7 +410,7 @@ dokumfilme - dokumentfilmo
 dolar - dolaro  
 dolfin - delfeno  
 dom - loĝi (loĝejo, hejmo)  
-• domane - loĝigi  
+• domize - loĝigi  
 domzeze - muŝo  
 done - doni  
 • donaje - donaco  
@@ -598,6 +598,7 @@ gamel - kamelo
 gane - seka  
 ganputau - sekvinbero  
 gantexe - viŝilo  
+ganakalam - kalamo  
 Ganga - Gangoj  
 ganse - ansero  
 ganum - tritiko  
@@ -1371,6 +1372,8 @@ pele - peli
 • expele - forpeli  
 • propelor - helico  
 pelpel - papilio  
+pena - plumo  
+penakalam - anserplumo  
 • pendaje - pendaĵo  
 penis - peniso  
 pente - kvin (5)  
@@ -1378,7 +1381,6 @@ pente - pentri
 pente - pentri  
 pentobrox - peniko  
 pentogone - kvinangulo (kvinlatero)  
-pere - plumo  
 perde - furzo  
 pete - ventro  
 peta - peta-  
@@ -1747,7 +1749,7 @@ tube - tubo
 tuhe - sputi  
 tul - ilo  
 tulium - tulio  
-tundre - tundro  
+tundra - tundro  
 tunel - tunelo  
 tuneltren - metroo  
 tunike - robo  
@@ -1760,7 +1762,7 @@ Turkia - Turkio
 un - unu (1)  
 • unia - uniono  
 • unike - sola (ununura)  
-• uniko - sole (nur)  
+• unike - sole (nur)  
 unale - unu la alian (reciproke)  
 unemisme - monismo  
 unomaro - unufoje  
@@ -1775,12 +1777,12 @@ vagine - vagino
 vaginitis - vaginito  
 vale - valoro  
 van: - arbaro  
-varkolate - paĝo  
+varkelate - paĝo  
 vase - oazo  
 vat - vato  
 vava - plori  
 vaxe - lavi  
-vaxomaxin - lavmaŝino  
+vaxemaxin - lavmaŝino  
 vei - vosto  
 • revene - reveni  
 ventur - aventuro  
@@ -1859,7 +1861,7 @@ xiubol - bobelo
 xivite - ŝtoneto  
 xiusite - urbeto  
 Xiva - Ŝivo  
-xixomanse - ŝaŝliko  
+xixmanse - ŝaŝliko  
 xofe - konduki  
 • xofer - ŝoforo (kondukisto)  
 xope - aĉeti  

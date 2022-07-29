@@ -195,8 +195,8 @@ bil - possível
 bilor - cristal  
 bine - construir  
 binite - tijolo  
-binoplania - arquitetura  
-binoplaner - arquiteto  
+bineplania - arquitetura  
+bineplaner - arquiteto  
 bir - cerveja  
 bismute - bismuto  
 bison - bisão (bisonte)  
@@ -354,7 +354,7 @@ dur - durar (transcorrer; duração)
 • duro - ainda  
 • durike - crónico  
 • undure - analógico  
-durometrer - cronómetro  
+duremetrer - cronómetro  
 • posprodute - pós-produção  
 duxe - ducha  
 
@@ -418,7 +418,7 @@ flerovium - fleróvio
 flurium - flúor  
 fobe - temer (assustar)  
 • fobante - assustador  
-fontokalam - caneta de tinta permanente  
+fontekalam - caneta de tinta permanente  
 fore - furar (perfurar)  
 forme - forma (modelar)  
 • dusforme - desfigurar  
@@ -464,6 +464,7 @@ gampa - sogro
 gancau - feno  
 gantexe - toalha  
 gana - cana  
+ganakalam - cálamo  
 gande - cheiro  
 ganse - ganso  
 ganum - trigo  
@@ -511,7 +512,7 @@ glutograf - adesivo
 gogia - país  
 gol - meta (gol)  
 • tragone - diagonal  
-gorile - gorila  
+gorila - gorila  
 goton - algodão  
 grafoprocese - processamento de imagem  
 grafosage - quadrinhos (banda desenhada)  
@@ -1185,13 +1186,16 @@ peikari jive - carreira
 • inpele - impelir  
 • propelor - propulsor (hélice)  
 pelpel - borboleta  
+pena - pluma (pena)  
+• depena - depenar  
+penakalam - pena  
+penakardon - cardo-roxo  
 pende - pender  
 • pendaje - pingente  
 pente - cinco (5)  
 pente - pintura  
 pentobrox - pincel  
 pentogone - pentágono  
-perokardon - cardo-roxo  
 perde - peido (peidar)  
 petre - rocha (pedra)  
 • petrolojia - petrologia  
@@ -1539,7 +1543,7 @@ tulium - túlio
 turbe - molestar (perturber)  
 • turbin - turbina  
 • disturbe - perturbar (turbulência)  
-turbojeter - turbojato  
+turbejeter - turbojato  
 turfe - turfa  
 tuze - coelho (lebre)  
 
@@ -1547,7 +1551,7 @@ tuze - coelho (lebre)
 
 un - um (1)  
 • unike - único (só)  
-• uniko - unicamente  
+• unike - unicamente  
 unomaro - uma vez  
 unoki lense - monóculo  
 Uran - Urano  
@@ -1568,7 +1572,7 @@ van: - selva (floresta)
 vanadium - vanádio  
 vare - vários  
 varkalge - kelp  
-varkolate - página  
+varkelate - página  
 vase - oásis  
 vate - item  
 vava - chorar  
@@ -1576,7 +1580,7 @@ vava bebe - chorão
 vele - véu  
 • devele - revelar  
 vende - vender  
-vendoxope - торговать  
+vendexope - торговать  
 ventur - aventura  
 venturer - aventureiro  
 Venus - Vénus  
@@ -1590,7 +1594,7 @@ veruke - verruga
 vespe - abelha ou vespa  
 veste - oeste  
 veze - pesado  
-vezu - pesar  
+veze - pesar  
 vide - ver  
 • dusvide - feio  
 • exvide - evidente  
@@ -1636,7 +1640,6 @@ xefe - chefe
 xenon - xénon  
 xibayer - perdedor  
 • dexibai - perder  
-xingofote - cintilar  
 xipe - molhar (molhado)  
 • xipete - úmido  
 xipostan - brejo (paul)  

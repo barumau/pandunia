@@ -116,8 +116,8 @@ aria - espace (zone, région)
 arabe - arabe  
 arake - spiritueux  
 arane - araignée  
-aranofobia - arachnophobie  
-aranonete - toile d'araignée  
+aranefobia - arachnophobie  
+aranenete - toile d'araignée  
 arbuze - pastèque  
 Arcah - Artsakh  
 argente - argent  
@@ -210,7 +210,7 @@ balde - seau
 balon - ballon  
 balonpes - poisson-globe  
 balute - chêne  
-balutopal - gland  
+balutepal - gland  
 bambu - bambou  
 bamia - gombo  
 ban - tableau (panneau)  
@@ -295,8 +295,8 @@ bil e - peut-être
 bilor - cristal  
 bine - construire  
 binite - brique  
-binoplania - architecture  
-binoplaner - architecte  
+bineplania - architecture  
+bineplaner - architecte  
 bir - bière  
 bismute - bismuth  
 bison - bison  
@@ -470,7 +470,7 @@ dur - durer (se passer; durée)
 • durize - passer  
 • redure - reprendre  
 • undure - continu (analogique)  
-durometrer - chronomètre  
+duremetrer - chronomètre  
 • posprodute - post-production  
 duxe - douche  
 
@@ -547,7 +547,7 @@ flerovium - flérovium
 flurium - fluor  
 fobe - peur (effrayer; craindre)  
 • fobante - effrayant  
-fontokalam - stylo-plume  
+fontekalam - stylo-plume  
 fore - forer (percer)  
 forme - forme (former)  
 • dusforme - défigurer  
@@ -600,6 +600,7 @@ gampa - beau-père
 gancau - foin  
 gantexe - serviette  
 gana - canne  
+ganakalam - calame  
 gande - odeur  
 gande - sentir qqch  
 ganse - oie  
@@ -660,7 +661,7 @@ glutograf - autocollant
 gogia - pays  
 gol - but (destination)  
 • tragone - diagonale  
-gorile - gorille  
+gorila - gorille  
 goton - coton  
 grafoprocese - traitement d'images  
 grafosage - bande dessinée  
@@ -1376,6 +1377,10 @@ peikari jive - carrière
 • expele - expulser  
 • propelor - hélice  
 pelpel - papillon  
+pena - plume  
+• depena - plumer  
+penakalam - plume  
+penakardon - cirse commun  
 pende - pender  
 • pendaje - pendentif  
 pendokardon - chardon penché  
@@ -1385,7 +1390,6 @@ pente - peinture
 pente - peindre  
 pentobrox - pinceau  
 pentogone - pentagone  
-perokardon - cirse commun  
 perde - pet (vesse; péter)  
 peresa - paresseux (aï)  
 petre - roche (pierre)  
@@ -1785,7 +1789,7 @@ Tunisia - Tunisie
 turbe - gêner (déranger, perturber)  
 • turbin - turbine  
 • disturbe - perturber (turbulence)  
-turbojeter - turboréacteur  
+turbejeter - turboréacteur  
 turfe - tourbe  
 tuze - lapin (lièvre)  
 
@@ -1793,7 +1797,7 @@ tuze - lapin (lièvre)
 
 un - un (1)  
 • unike - seul (unique)  
-• uniko - uniquement  
+• unike - uniquement  
 unomaro - une fois  
 unoki lense - monocle  
 Uran - Uranus  
@@ -1815,7 +1819,7 @@ vanadium - vanadium
 vanila - vanille  
 vare - divers (plusieurs)  
 varkalge - varech  
-varkolate - page  
+varkelate - page  
 vase - oasis  
 vate - objet (article)  
 vava bebe - pleurnicheur (pleurnichard)  
@@ -1825,12 +1829,12 @@ vele - voile
 • pervene - parvenir  
 • revene - revenir  
 vende - vendre  
-vendoxope - commercer  
+vendexope - commercer  
 Venezuela - Venezuela  
 ventur - aventure  
 venturer - aventurier  
 Venus - Vénus  
-venzovorange - mandarine satsuma  
+Venzou oranje - mandarine satsuma  
 vere - vrai  
 • provere - prouver  
 verme - ver  
@@ -1841,13 +1845,13 @@ verse - verser (face á)
 • unoverse - universel  
 veruke - verrue  
 vespe - abeille ou guêpe  
-vesponide - ruche (nid d'abeille)  
+vespenide - ruche (nid d'abeille)  
 veste - ouest  
 veze - lourd  
+veze - peser  
 vezia - poids (lourdeur, gravité)  
-vezu - peser  
 veze metal - métaux lourds  
-vezometrer - balance (poids)  
+vezemetrer - balance (poids)  
 vide - voir  
 • dusvide - laid (vilain)  
 • exvide - évident  
@@ -1895,7 +1899,6 @@ xibai - échec
 xibayer - perdant  
 • dexibai - perder  
 xing - étoile  
-xingofote - étinceler  
 xipe - mouiller (mouillé)  
 • xipete - humide  
 • xiria - poésie  
@@ -1905,7 +1908,7 @@ xivite - caillou
 xiukaboge - courgette  
 Xiva - Shiva  
 xix - brochette  
-xixomanse - chachlik  
+xixmanse - chachlik  
 xope - acheter (shopping)  
 xukre - merci  
 xule - apprendre (étudier)  

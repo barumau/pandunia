@@ -133,7 +133,7 @@ almendra - badam
 almirante - haiamirer  
 almohada (cojín) - kuxen  
 almuerzo - yomyam  
-alojar (hospedar) - domane  
+alojar (hospedar) - domize  
 alpaca - alpaka  
 alpinista (montañista) - montaner  
 alquilar (arrendar, dar en arriendo) - kiredone  
@@ -211,7 +211,7 @@ aproximar - aproxe
 apuntar (dirección) - dike  
 apuntar (indicar) - ponte  
 Arabia Saudita - Saudi Arabia  
-aracnofobia - aranofobia  
+aracnofobia - aranefobia  
 araña - arane  
 arboreto - mokozongoparke  
 arbusto (mata) - dipe moke  
@@ -240,8 +240,8 @@ armonioso - harmone
 armonía - harmonia  
 arnés (arreos, jaeces) - harnes  
 arquero - arker  
-arquitecto - binoplaner  
-arquitectura - binoplania  
+arquitecto - bineplaner  
+arquitectura - bineplania  
 arrastrar - trate  
 arroba (@) - adresoharfe  
 arromántico - anromante  
@@ -308,7 +308,7 @@ aventura - ventur
 aventurero - venturer  
 avisar (notificar) - notife  
 aviso (notificación) - notize  
-avispero (colmena) - vesponide  
+avispero (colmena) - vespenide  
 axproximarse - aproxime  
 ay! - ai  
 ayer - preden  
@@ -389,7 +389,7 @@ belicismo - belikisme
 beligerante - belente  
 belio - bel  
 belleza (hermosura) - meyia  
-bellota - balutopal  
+bellota - balutepal  
 beneficioso (bueno) - eu  
 bengalí - bangle  
 Benín - Benin  
@@ -546,7 +546,7 @@ campana (cencerro) - danger
 campeón - campion  
 campista - kamper  
 campo (rural, rústico) - agrestan  
-campo de visión - vidomeden  
+campo de visión - videmeden  
 Canadá - Kanada  
 canal (cauce, acequia) - kanal  
 cancelar - nole  
@@ -574,7 +574,7 @@ carbón - karbe
 carcelero - jeler  
 cardo - kardon  
 cardo borriquero - pinkardon  
-cardo burral - perokardon  
+cardo burral - penakardon  
 cardo mariano - milkokardon  
 carga (pesa) - karge  
 cargar (subir) - ö  
@@ -627,7 +627,6 @@ cementerio - gabrostan
 cemento - semente  
 cena - xamyam  
 ceniza - hui  
-centellear (titilar) - xingofote  
 centi- (por ciento) - senti-  
 centrar (concentrar) - zungife  
 centro - zung  
@@ -761,7 +760,7 @@ combinar - konbine
 comedia - komodia  
 comedor - yamokamar  
 comer (bebir) - yam  
-comercio (comerciar) - vendoxope  
+comercio (comerciar) - vendexope  
 comida - yamaje  
 comienzo (inicio, principio; comenzar, iniciar, empezar) - xure  
 comilla - citomarke  
@@ -901,7 +900,7 @@ Croacia - Horvatia
 crocodilio - krokodil  
 cromo - jamekarde  
 cromo - kromium  
-cronómetro - durometrer  
+cronómetro - duremetrer  
 cruasán - kruasan  
 crucificar - krusefixe  
 crueldad (tiranía) - zalimia  
@@ -941,6 +940,7 @@ curva - kurve
 cuál cosa - ke xei  
 cuándo - ke sate  
 cuántos - ke multe  
+cálamo - ganakalam  
 cálculo - kalkulia  
 cámara - fotografomaxin  
 cápsula - kasule  
@@ -1035,6 +1035,7 @@ designar - desine
 deslizar - glise  
 desnudo - nude  
 despierto (despertar) - desome  
+desplumar - depena  
 despreciar (desdeñar) - paraye  
 destapar - andake  
 destino - nasibe  
@@ -1090,7 +1091,7 @@ divertir (entretener; diversión) - muze
 divino - deve  
 dióxido de carbono - karboduloxide  
 doble - duple  
-doble sentido - duplomene  
+doble sentido - dupleseme  
 docente - dokente  
 doctor (médico) - tiber  
 doctor - dotor  
@@ -1109,7 +1110,7 @@ domingo - den cete
 Dominica - Dominika  
 dominio (reinado) - kratia  
 dominio - dominia  
-dominó - dominogem  
+dominó - domino  
 doméstico - domike  
 dormir (sueño) - some  
 dormitorio - somokamar  
@@ -1235,7 +1236,7 @@ equilibrado (par) - parike
 equilibrio - parvezia  
 equipaje - bagaje  
 equipo - tim  
-era (periodo, época) - durozam  
+era (periodo, época) - durezam  
 erbio - erbium  
 erguido - libe  
 erigir (montar, armar) - libe  
@@ -1304,7 +1305,7 @@ estar al lado de - late
 estar de pie - libu  
 estar en contra - kontre  
 estaño - stanium  
-estilógrafo - fontokalam  
+estilógrafo - fontekalam  
 estimar (apriximarse a) - yagife  
 estirar (extender) - tirlonge  
 Estonia - Estia  
@@ -1545,11 +1546,11 @@ gobernar - polite
 gobierno - polite  
 gofre - vafle  
 goma (caucho, hule, borrador) - gom  
-goma arábiga - arabobabul  
+goma arábiga - arabebabul  
 goniómetro (medidor de ángulos) - gonometrer  
-gorila - gorile  
-gorila occidental - vestogoril  
-gorila oriental - dongogoril  
+gorila - gorila  
+gorila occidental - vestegorila  
+gorila oriental - donggorila  
 gota - yote  
 grabado (sello, estampando) - cape  
 gracias a (merced a) - a xukre de  
@@ -1772,7 +1773,7 @@ infierno - narake
 inflamación - itis  
 información - konsabe  
 informática (computación) - dateproceselojia  
-infortunio (mala suerte) - dusi zar  
+infortunio (mala suerte) - dus zar  
 infortunio (mala suerte) - dusozar  
 infraestructura - bazestrute  
 ingeniero - enjener  
@@ -1795,7 +1796,7 @@ insulto (ofensa, afrenta) - ninde
 inteligencia (intelecto) - intelige  
 inteligencia artificial - artefete intelige (AI)  
 inteligible - inteligebil  
-intenso (brusco, ácido, fuerte, afilado, rápido) - tiz:  
+intenso (brusco, ácido, fuerte, afilado, rápido) - tize  
 intentar (probar) - probe  
 intercambiar (canjear) - badle  
 interceptar - intercepe  
@@ -1950,7 +1951,7 @@ lateral (horizontal) - latedike
 latitud - latude  
 laurencio - laurensium  
 lava - fuzopetre  
-lavadora - vaxomaxin  
+lavadora - vaxemaxin  
 lavar - vaxe  
 leal (fiel) - bekredebil  
 lealtad (fidelidad) - bekredebilia  
@@ -2106,7 +2107,6 @@ malgache - malagas
 Mali - Mali  
 malinterpretar - mesbude  
 malo (difícil, duro) - dus  
-malo (difícil, duro) - duse  
 Malta - Malta  
 mamá - ma  
 mamífero - mamal  
@@ -2184,7 +2184,7 @@ mañana - suba
 mear - pise  
 medallón - medal  
 medicamento (medicina, remedio, fármaco) - tibaje  
-medicina - tibolojia  
+medicina - tibelojia  
 medio (mediano) - midi  
 medio - mide  
 medio - midia  
@@ -2524,7 +2524,7 @@ oreja - or
 orfanato - yatimkan  
 organizar (gestionar) - nome  
 orgasmo - orgazme  
-oriental - donge  
+oriental - dongike  
 origen (original) - asle  
 oriya - odise  
 ornitorrinco - batakrote  
@@ -2698,13 +2698,13 @@ permitir (dejar) - halale
 pero (sino) - ama  
 perro - vaf  
 persona - jen  
-perspectiva (punto de vista) - vidopunte  
+perspectiva (punto de vista) - videpunte  
 pertenecer (ser miembro de) - membe  
 perturbar (turbulencia) - disturbe  
 Perú - Peru  
-pesa (báscula, balanza) - vezometrer  
+pesa (báscula, balanza) - vezemetrer  
 pesado - veze  
-pesar - vezu  
+pesar - veze  
 pescar - kape pexe  
 pescar - yege pexe  
 peso (gravedad) - vezia  
@@ -2768,7 +2768,8 @@ Platón - Platon
 platónico - platonike  
 plaza - meden  
 plomo - plumbe  
-pluma - pere  
+pluma - pena  
+pluma - penakalam  
 plutonio - plutonium  
 Plutón - Pluton  
 plástico - plastike  
@@ -2918,10 +2919,10 @@ puntero - dikebaton
 puntero - diker  
 punto (lunar) - binde  
 punto - punte  
-punto flotante - boipuntonumbe  
+punto flotante - boipuntenumbe  
 puntuación (resultado) - puntonumbe  
 puñal (daga) - kanzar  
-página - varkolate  
+página - varkelate  
 pájaro (ave) - pakse  
 pánico - panike  
 pícea - picea  
@@ -3438,7 +3439,7 @@ tigre - bagre
 tijera - makas  
 tikka masala - masale tike  
 Timor - Timor  
-Timor Oriental - Dongi Timor  
+Timor Oriental - Dong Timor  
 tinta - moge  
 tinte - rangomate  
 tipo (género) - tipe  
@@ -3469,7 +3470,7 @@ tormenta (tempestad) - tafun
 tormenta - gromtafun  
 tornillo - vite  
 torre - tore  
-torre del reloj - horlogotore  
+torre del reloj - horlogetore  
 torso - torse  
 tortuga - tortuge  
 tos - kose  
@@ -3523,17 +3524,17 @@ tubérculo - masmul
 tulio - tulium  
 tulipán - tulpe  
 tumba (sepultura; enterrar) - gabre  
-tundra - tundre  
+tundra - tundra  
 tungsteno (wolframio) - volfram  
 tupinambo (pataca, alcachofa de Jerusalén) - masmulsolful  
 turba - turfe  
 turbante - pagre  
 turbina - turbin  
-turborreactor - turbojeter  
+turborreactor - turbejeter  
 turco - turke  
 turismo - safarisme  
 turista - safariste  
-Turkmenistán - Turkomenia  
+Turkmenistán - Turkemenia  
 turquesa (piedra preciosa) - firuze  
 Turquía - Turkia  
 Tuvalu - Tuvalu  
@@ -3562,7 +3563,7 @@ universidad - daixulkan
 unión - unia  
 Unión Europea - Europi Unia  
 uno (1) - un  
-unshu mikan - venzovorange  
+unshu mikan - Venzou oranje  
 uranio - uranium  
 Urano - Uran  
 urbano - nagre  
@@ -3749,6 +3750,6 @@ zulú - Zulu
 ósmosis - osmos  
 óvale - ovoide  
 óxide - oxide  
-únicamente (solo) - uniko  
+únicamente (solo) - unike  
 único (solo, soltero) - unike  
 Камасутра - Kama sutre  

@@ -64,7 +64,7 @@ aple - 苹果
 aplike - 运用  
 aposum - 负鼠 (奥珀瑟姆)  
 ar - 面积  
-arabobabul - 阿拉伯金合欢  
+arabebabul - 阿拉伯金合欢  
 arake - 烈酒  
 arane - 蜘蛛  
 arbuze - 西瓜  
@@ -186,8 +186,8 @@ bibre - 海狸 (河狸)
 bil - 会 (可能)  
 bine - 建设  
 binite - 砖  
-binoplania - 建筑学  
-binoplaner - 建筑师  
+bineplania - 建筑学  
+bineplaner - 建筑师  
 bir - 啤酒  
 bismute - 铋  
 bison - 野牛  
@@ -328,9 +328,8 @@ dur - 时间
 • duro - 还 (依然)  
 • durebil - 耐用的  
 • undure - 指针式的  
-durometrer - 秒表  
+duremetrer - 秒表  
 dus - 难  
-duse - 难  
 duxe - 淋浴  
 
 ## E  
@@ -383,7 +382,7 @@ fitolojia - 植物学
 flece - 箭  
 flurium - 氟  
 fobe - 害怕 (吓唬)  
-fontokalam - 钢笔  
+fontekalam - 钢笔  
 fore - 钻孔  
 forme - 形状 (形式)  
 • dusforme - 变丑  
@@ -425,6 +424,7 @@ galaxia - 恆星系
 galte - 错误  
 gancau - 干草  
 gana - 秆  
+ganakalam - 蘆葦筆  
 gande - 气味  
 gande - 闻到  
 ganse - 雁 (鹅)  
@@ -472,7 +472,7 @@ gogia - 国家
 • gogian - 公民  
 gol - 目的  
 • tragone - 对角  
-gorile - 大猩猩  
+gorila - 大猩猩  
 goton - 棉  
 grafoprocese - 影像处理  
 grafosage - 漫画  
@@ -1074,13 +1074,14 @@ peikar - 职业
 • propelor - 螺旋桨  
 pelmen - 饺子  
 pelpel - 蝴蝶  
+penakalam - 鹅毛笔  
+penakardon - 翼蓟  
 • pendaje - 吊坠  
 pendokardon - 垂花飞廉  
 pente - 五 (5)  
 pente - 油漆 (颜料)  
 pentobrox - 画笔  
 pentogone - 五角形  
-perokardon - 翼蓟  
 perde - 屁 (放屁)  
 • petrolojia - 岩石学  
 petrolipe - 石油  
@@ -1394,7 +1395,7 @@ ude - 度
 umame - 鲜味  
 un - 一 (1)  
 • unike - 唯一 (独)  
-• uniko - 只有 (惟独)  
+• unike - 只有 (惟独)  
 unomaro - 一次 (一遍)  
 uranium - 铀  
 va - 哇  
@@ -1414,11 +1415,11 @@ vate - 物体 (物品)
 vei - 尾巴 (尾部)  
 veilin - 緯紗  
 vende - 卖  
-vendoxope - 贸易  
+vendexope - 贸易  
 ventur - 冒险  
 venturer - 冒险者  
 Venzou - 温州  
-venzovorange - 温州蜜柑  
+Venzou oranje - 温州蜜柑  
 vere - 真  
 verme - 蠕虫  
 • exverse - 外向的  
@@ -1464,7 +1465,6 @@ xibai - 失败 (击败)
 xibai - 输  
 • dexibai - 亏损 (失去)  
 xim - 心  
-xingofote - 闪烁  
 xipe - 湿 (弄湿)  
 • perxipe - 湿透  
 xipostan - 湿地  
@@ -1476,7 +1476,7 @@ xivite - 砾石
 xiukaboge - 西葫芦  
 Xiva - 湿婆  
 xix - 扦子  
-xixomanse - 串烧  
+xixmanse - 串烧  
 xofe - 开车  
 • xofer - 司机  
 xope - 买 (购物, 血拼)  

@@ -287,7 +287,7 @@
 **dokum** *asiakirja (dokumentti, tiedosto)* ← englanti:ranska:document, espanja:portugali:documento, venäjä:документ (dokument), japani:ドキュメント (dokyumento), malaiji:dokumen, turkki:doküman  
 **dolfin** *delfiini* ← kreikka:δελφίνια (delphínia), englanti:dolphin, espanja:delfín, portugali:delfim, venäjä:дельфин (del’fin), arabia:دلفين (dulfin), japani:ドルフィン (dorufin), bangla:ডলফিন (ḍalaphina), hindi:डॉल्फ़िन (ḍŏlfin)  
 **dom** *asua (asunto, koti)* ← venäjä:дом (dom), puola:dom, latina:domus, + englanti:domestic, ranska:domestique, espanja:portugali:doméstico  
-**dominogem** *dominopeli* ← englanti:dominoes, espanja:portugali:dominó, ranska:dominos, venäjä:домино (domino), yleiskiina:多米诺 (duōmǐnuò), japani:ドミノ牌 (dominohai)  
+**domino** *dominopeli* ← englanti:dominoes, espanja:portugali:dominó, ranska:dominos, venäjä:домино (domino), yleiskiina:多米诺 (duōmǐnuò), japani:ドミノ牌 (dominohai)  
 **done** *antaa* ← ranska:donner, englanti:donate, espanja:portugali:donar  
 **dong** *itä* ← yleiskiina:东 (dōng), kantoninkiina:東 (dōng), vietnami:đông, korea:동 (dong), turkki:doğu  
 **dos** *vika (synti)* ← malaiji:dosa, hindi:दोष (doś), thai:โทษ (toot(sa))  
@@ -309,7 +309,6 @@
 **dunia** *maailma* ← arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), bangla:দুনিয়া (duniya), malaiji:suahili:dunia, turkki:dünya, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya  
 **dur** *kestää (kulua, viedä aikaa; kestoaika, kesto, aika)* ← englanti:duration, ranska:durée, espanja:portugali:durar + bangla:ধরে (dhôre), hindi:दौरान (daurān)  
 **dus** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
-**duse** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
 **duxe** *suihku* ← ranska:douche, espanja:portugali:ducha, deu:Dusche, venäjä:душ (duš), arabia: دوش (dūš), malaiji:dus, turkki:duş  
 **e** *olla* ← ranska:est (ɛ), portugali:é, persia: است (ast/e), hindi:है (ɦɛ:), italia:è, ukr:є (ye) + filippiini:ay (ay/e)  
 **eglis** *kirkko* ← englanti:ecclesia-, ranska:église, espanja:iglesia, portugali:igreja, hindi:गिरजा (girjā), malaiji:gereja, arabia:(kanisā), suahili:kanisa, turkki:kilise  
@@ -456,7 +455,7 @@
 **golem** *golem* ← heb:גולם‎ (golem), englanti:espanja:portugali:ranska:malaiji:golem, deu:Golem, venäjä:голем (golem), arabia:غولم (ghwlm) japani:ゴーレム (gōremu), korea:골렘 (gollem)  
 **gom** *kumi* ← ranska:gomme, espanja:filippiini:goma, japani:ゴム (gomu), korea:고무 (gomu) + englanti:gum + hindi:गम (gam), bangla:গাম (gam)  
 **gone** *kulma (nurkka)* ← englanti:corner, ranska:-gone, espanja:portugali:-gono, hindi:कोण (koṇ), telugu:(kōnamu), suahili:kona, hausa:kwana  
-**gorile** *gorilla* ← englanti:gorilla, ranska:gorille, espanja:portugali:malaiji:gorila, venäjä:горилла (gorilla), arabia:غوريلا (ḡūrīlā), japani:ゴリラ (gorira), korea:고릴라 (gorilla), vietnami:gôrila, hindi:गोरिल्ला (gorillā), bangla:গরিলা (gôrila)  
+**gorila** *gorilla* ← englanti:gorilla, ranska:gorille, espanja:portugali:malaiji:gorila, venäjä:горилла (gorilla), arabia:غوريلا (ḡūrīlā), japani:ゴリラ (gorira), korea:고릴라 (gorilla), vietnami:gôrila, hindi:गोरिल्ला (gorillā), bangla:গরিলা (gôrila)  
 **goro** *sika (possu)* ← suahili:guruwe zulu:ingulube, Kongo:ngulu espanja:guarro, gorrino, japani:(gorogoro) englanti:grunt  
 **goton** *puuvilla* ← arabia:(quṭun), espanja:algodón, portugali:algodão, ranska:coton, englanti:cotton  
 **grafe** *piirros (graafi, grafiikka)* ← englanti:graphic, deu:Grafik, ranska:graphique, espanja:portugali:gráfico, venäjä:графика (grafika), japani:グラフィック (gurafikku), korea:그래픽 (geuraepik)  
@@ -609,7 +608,7 @@
 **kai** *auki (avoin; avata, aukaista; avautua, aueta)* ← yleiskiina:开 (kāi), wu-kiina:開 (khe1), japani:開 (kai), korea:개 (gae), vietnami:khai, thai:ไข (kǎi), lao:ໄຂ (khai)  
 **kaka** *uloste (kakka; ulostaa, kakata)* ← espanja:portugali:ranska:caca, deu:Kacke, arabia:(kākā), turkki:kaka, venäjä:кака (kaka), persia:(kake)  
 **kakau** *kaakao* ← portugali:cacau, arabia:(kākāw), espanja:cacao, englanti:cocoa, venäjä:какао (kakao), japani:カカオ (kakao), yleiskiina:可可 (kěkě), vietnami:cacao, suahili:kakao  
-**kalam** *kynä* ← arabia:persia:urdu:(qalam), hausa:alƙalami, yoruba:suahili:kalamu, turkki:kalem, hindi:क़लम (qalam), bangla:কলম (kôlôm), espanja:portugali:cálamo  
+**kalam** *kynä* ← arabia:persia:urdu: قلم‎ (qalam), hausa:alƙalami, yoruba:suahili:kalamu, turkki:kalem, hindi:क़लम (qalam), bangla:কলম (kôlôm), espanja:portugali:cálamo  
 **kale** *tyhjä* ← bangla:খালি (khali), hindi:ख़ाली (xālī), telugu:ఖాళీ (khāḷī), tamili:(kali), urdu:(xālī), persia:خالی (xāli), arabia:خَالٍ‎ (xāliy), japani:空 (kara)  
 **kalende** *kalenteri* ← englanti:calendar, ranska:calendrier, espanja:portugali:calendario, venäjä:календарь (kalendar’), deu:malaiji:kalender, japani:カレンダー (karendā), korea:카렌더 (karendeo), hindi:कैलेण्डर (kaileṇḍar), suahili:kalenda  
 **kali** *emäs (emäksinen, alkalinen)* ← arabia: قلي (qily), suahili:-kali + englanti:alkali, ranska:alcali, espanja:portugali:álcali, japani:アルカリ (arukari), korea:알칼리 (alkalli), malaiji:alkali  
@@ -1072,13 +1071,13 @@
 **pei** *maksu* ← englanti:pay, ranska:paye, + yleiskiina:费 (fèi)  
 **pelmen** *myky (pelmeni, ravioli)* ← venäjä:пельмень (pel'men'), puola:pielmeni, englanti:pelmeni  
 **pelpel** *perhonen* ← portugali:borboleta, ranska:papillon, italia:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), suahili:kipepeo, yoruba:labalábá, filippiini:paruparo  
+**pena** *sulka* ← portugali:pena, persia: پر‎ (par), hindi:पर (par), venäjä:перо (pero) + japani:ペン (pen), korea:펜 (pen), tamili:பேனா (pēṉā)  
 **pende** *riippua (roikkua)* ← portugali:ranska:pender + englanti:pendant, japani:ペンダント (pendanto), korea:펜던트 (pendeonteu), turkki:pandantif  
 **pende** *roikuttaa* ← englanti:pendant, portugali:ranska:pender  
 **penis** *siitin (penis)* ← englanti:turkki:malaiji:penis, espanja:pene, portugali:ranska:pénis, venäjä:пенис (penis)  
 **pente** *maalata* ← englanti:paint, espanja:portugali:pintura, ranska:peinture, nld:pek, japani:ペンキ (penki), hindi:पेंट (penṭa)  
 **pente** *viisi (5)* ← persia: پنج‎ (panj), venäjä:пять (pyat'), hindi:पाँच (pā̃c), bangla:পাঁচ (pãcô) + kreikka:πέντε (pente), englanti:ranska:espanja:portugali:penta-  
 **perde** *pieru (pierrä, pieraista)* ← englanti:fart + ranska:pet, espanja:pedo, portugali:peido, venäjä:пердение (perdeniye), bangla:পাদ (pad), hindi:पाद (pād)  
-**pere** *sulka* ← hindi:पर (par), venäjä:перо (pero)  
 **peresa** *laiskiainen* ← ranska:paresseux, espanja:perezoso  
 **peta** *peta-* ← englanti:ranska:espanja:portugali:malaiji:turkki:peta-, venäjä:пета- (peta-), japani:ペタ (peta), korea:페타- (peta-), yleiskiina:拍它- (pāitā-)  
 **pete** *maha (vatsa)* ← bangla:পেট (peṭ), hindi:पेट (peṭ), malaiji:perut, arabia:(baṭn)  
@@ -1382,7 +1381,7 @@
 **tire** *vetää (kiskoa)* ← espanja:portugali:tirar, ranska:tirer, englanti:tear, turkki:tire  
 **titanium** *titaani* ← englanti:titanium, ranska:titane, espanja:titanio, portugali:titânio, venäjä:титан, yleiskiina:钛 (tài), japani:チタン, korea:타이타늄, vietnami:titan, hindi:टाइटानियम, bangla:টাইটেনিয়াম, malaiji:titanium, suahili:titani, arabia: تيتانيوم  
 **tix** *hiljaa (hys, shhh)* ← venäjä:тишина (tišina) + englanti:shh, ranska:chut, rus:ш-ш-ш, yleiskiina:噓 (xū), japani:しーっ (shīt), korea:쉿 (swit), turkki:sus  
-**tiz:** *terävä (kimeä, nokkela, napakka, jne)* ← persia: تیز (tiz), hindi:तेज़ (tez), turkki:tez  
+**tize** *terävä (kimeä, nokkela, napakka, jne)* ← persia: تیز (tiz), hindi:तेज़ (tez), turkki:tez  
 **tolere** *sallia* ← englanti:tolerate, espanja:portugali:tolerar, ranska:tolérer, deu:tolerieren  
 **tomato** *tomaatti* ← englanti:tomato, ranska:portugali:espanja:tomate, deu:Tomate, venäjä:томат (tomat), japani:トマト (tomato), korea:토마토 (tomato), hindi:टमाटर (ṭamāṭar), bangla:টম্যাটো (ṭamyāṭo), malaiji:tomat, turkki:domates  
 **tone** *sävel (sävy)* ← englanti:tone, suahili:kitone, venäjä:тон (ton), deu:Ton, espanja:tono  
@@ -1409,7 +1408,7 @@
 **tulium** *tulium* ← englanti:thulium, ranska:thulium, espanja:tulio, portugali:túlio, venäjä:тулий, yleiskiina:铥 (diū), japani:ツリウム, korea:툴륨, vietnami:tuli, hindi:थुलियम, bangla:থুলিয়াম, malaiji:tulium, suahili:thuri, arabia: ثليوم  
 **tulpe** *tulppaani* ← englanti:tulip, espanja:tulipá, portugali:túlipa, nld:tulp, venäjä:тюльпан (t’ul’pan), arabia:توليب (tūlīb), hindi:ट्यूलिप (ṭyūlip), malaiji:tulip, japani:チューリップ (chūrippu)  
 **tuna** *tonnikala* ← englanti:tuna, ranska:thon, espanja:atún, venäjä:тунец (tunec), japani:ツナ (tsuna), hindi:टूना (tuna), arabia: تُونَة (tuna)  
-**tundre** *tundra* ← englanti:espanja:portugali:turkki:tundra, venäjä:тундра (tundra), arabia:تندرا‎ (tundrā), hindi:टुंड्रा (ṭuṇḍrā), japani:ツンドラ (tsundora)  
+**tundra** *tundra* ← englanti:espanja:portugali:turkki:tundra, venäjä:тундра (tundra), arabia:تندرا‎ (tundrā), hindi:टुंड्रा (ṭuṇḍrā), japani:ツンドラ (tsundora)  
 **tunel** *tunneli* ← englanti:ranska:tunnel, espanja:portugali:túnel, venäjä:тоннель (tonnel’), turkki:tünel, japani:トンネル (tonneru), 터널 (teoneol)  
 **tunge** *kipu (kärsimys, tuska)* ← yleiskiina:痛 (tòng), kantoninkiina:痛 (tung3), korea:통 (tong)  
 **tunike** *mekko (tunika)* ← espanja:túnica, englanti:tunic, venäjä:туника (tunika)  
@@ -1445,7 +1444,6 @@
 **vava** *itkeä* ← englanti:wah-wah, ranska:ouin ouin, espanja:portugali:buá buá, bangla:ওয়া ওয়া (oā-oā), yleiskiina:哇哇 (wāwā), kantoninkiina:哇哇 (waa1waa1), vietnami:oa oa, malaiji:owe-owe  
 **vaxe** *pestä* ← englanti:wash, deu:waschen, yleiskiina:洗 (xǐ)  
 **vei** *häntä* ← yleiskiina:尾 (wěi), kantoninkiina:尾 (mei5), wu-kiina:尾 (vi3), nan:尾 (bé), japani:尾 (bi)  
-**vei** *poikittainen (vaaka)* ← yleiskiina:纬度 (wěi), korea:위 (wi), vietnami:vĩ  
 **vele** *verho (peite)* ← englanti:veil, ranska:voile, espanja:velo, portugali:véu, japani:ベール (bêru), korea:베일 (beil), suahili:veli  
 **vende** ** ← englanti:vend, espanja:portugali:vender, ranska:vendre  
 **ventur** *seikkailu* ← deu:Abenteuer, espanja:aventura, ranska:aventure, venäjä:авантюра (avantyura), turkki:avantür, englanti:adventure  

@@ -287,7 +287,7 @@
 **dokum** *document (record, file)* ← English:French:document, Spanish:Portuguese:documento, Russian:документ (dokument), Japanese:ドキュメント (dokyumento), Malay:dokumen, Turkish:doküman  
 **dolfin** *dolphin* ← Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)  
 **dom** *home (house, residence; reside, live in, inhabit)* ← Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico  
-**dominogem** *dominoes* ← English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)  
+**domino** *dominoes* ← English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)  
 **done** *give* ← French:donner, English:donate, Spanish:Portuguese:donar  
 **dong** *east (orient)* ← Mandarin:东 (dōng), Cantonese:東 (dōng), Vietnamese:đông, Korean:동 (dong), Turkish:doğu  
 **dos** *fault (sin, blame, defect, guilt)* ← Malay:dosa, Hindi:दोष (doś), Thai:โทษ (toot(sa))  
@@ -309,7 +309,6 @@
 **dunia** *world* ← Arabic: دُنْيَا‎ (dunyā), Hindi:दुनिया (duniyā), Bengali:দুনিয়া (duniya), Malay:Swahili:dunia, Turkish:dünya, Persian: دنیا (donya), Urdu: دنیا (duniyā), Hausa:duniya  
 **dur** *last (take time; elapse, pass by, go by; during; duration, time interval)* ← English:duration, French:durée, Spanish:Portuguese:durar + Bengali:ধরে (dhôre), Hindi:दौरान (daurān)  
 **dus** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
-**duse** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
 **duxe** *shower* ← French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş  
 **e** *be* ← French:est (ɛ), Portuguese:é, Persian: است (ast/e), Hindi:है (ɦɛ:), Italian:è, ukr:є (ye) + Filipino:ay (ay/e)  
 **eglis** *church* ← English:ecclesia-, French:église, Spanish:iglesia, Portuguese:igreja, Hindi:गिरजा (girjā), Malay:gereja, Arabic:(kanisā), Swahili:kanisa, Turkish:kilise  
@@ -456,7 +455,7 @@
 **golem** *golem* ← heb:גולם‎ (golem), English:Spanish:Portuguese:French:Malay:golem, deu:Golem, Russian:голем (golem), Arabic:غولم (ghwlm) Japanese:ゴーレム (gōremu), Korean:골렘 (gollem)  
 **gom** *rubber (latex, eraser)* ← French:gomme, Spanish:Filipino:goma, Japanese:ゴム (gomu), Korean:고무 (gomu) + English:gum + Hindi:गम (gam), Bengali:গাম (gam)  
 **gone** *corner (angle)* ← English:corner, French:-gone, Spanish:Portuguese:-gono, Hindi:कोण (koṇ), Telugu:(kōnamu), Swahili:kona, Hausa:kwana  
-**gorile** *gorilla* ← English:gorilla, French:gorille, Spanish:Portuguese:Malay:gorila, Russian:горилла (gorilla), Arabic:غوريلا (ḡūrīlā), Japanese:ゴリラ (gorira), Korean:고릴라 (gorilla), Vietnamese:gôrila, Hindi:गोरिल्ला (gorillā), Bengali:গরিলা (gôrila)  
+**gorila** *gorilla* ← English:gorilla, French:gorille, Spanish:Portuguese:Malay:gorila, Russian:горилла (gorilla), Arabic:غوريلا (ḡūrīlā), Japanese:ゴリラ (gorira), Korean:고릴라 (gorilla), Vietnamese:gôrila, Hindi:गोरिल्ला (gorillā), Bengali:গরিলা (gôrila)  
 **goro** *pig* ← Swahili:guruwe Zulu:ingulube, Kongo:ngulu Spanish:guarro, gorrino, Japanese:(gorogoro) English:grunt  
 **goton** *cotton* ← Arabic:(quṭun), Spanish:algodón, Portuguese:algodão, French:coton, English:cotton  
 **grafe** *graphic (image, graph, picture)* ← English:graphic, deu:Grafik, French:graphique, Spanish:Portuguese:gráfico, Russian:графика (grafika), Japanese:グラフィック (gurafikku), Korean:그래픽 (geuraepik)  
@@ -609,7 +608,7 @@
 **kai** *open (not closed)* ← Mandarin:开 (kāi), Wu-Chinese:開 (khe1), Japanese:開 (kai), Korean:개 (gae), Vietnamese:khai, Thai:ไข (kǎi), lao:ໄຂ (khai)  
 **kaka** *excrement (shit; defecate)* ← Spanish:Portuguese:French:caca, deu:Kacke, Arabic:(kākā), Turkish:kaka, Russian:кака (kaka), Persian:(kake)  
 **kakau** *cocoa* ← Portuguese:cacau, Arabic:(kākāw), Spanish:cacao, English:cocoa, Russian:какао (kakao), Japanese:カカオ (kakao), Mandarin:可可 (kěkě), Vietnamese:cacao, Swahili:kakao  
-**kalam** *pen (writing tool)* ← Arabic:Persian:Urdu:(qalam), Hausa:alƙalami, Yoruba:Swahili:kalamu, Turkish:kalem, Hindi:क़लम (qalam), Bengali:কলম (kôlôm), Spanish:Portuguese:cálamo  
+**kalam** *pen (writing tool)* ← Arabic:Persian:Urdu: قلم‎ (qalam), Hausa:alƙalami, Yoruba:Swahili:kalamu, Turkish:kalem, Hindi:क़लम (qalam), Bengali:কলম (kôlôm), Spanish:Portuguese:cálamo  
 **kale** *empty (void)* ← Bengali:খালি (khali), Hindi:ख़ाली (xālī), Telugu:ఖాళీ (khāḷī), Tamil:(kali), Urdu:(xālī), Persian:خالی (xāli), Arabic:خَالٍ‎ (xāliy), Japanese:空 (kara)  
 **kalende** *calendar* ← English:calendar, French:calendrier, Spanish:Portuguese:calendario, Russian:календарь (kalendar’), deu:Malay:kalender, Japanese:カレンダー (karendā), Korean:카렌더 (karendeo), Hindi:कैलेण्डर (kaileṇḍar), Swahili:kalenda  
 **kali** *base (alkali; alkaline)* ← Arabic: قلي (qily), Swahili:-kali + English:alkali, French:alcali, Spanish:Portuguese:álcali, Japanese:アルカリ (arukari), Korean:알칼리 (alkalli), Malay:alkali  
@@ -1072,13 +1071,13 @@
 **pei** *payment* ← English:pay, French:paye, + Mandarin:费 (fèi)  
 **pelmen** *dumpling (ravioli, pelmeni)* ← Russian:пельмень (pel'men'), Polish:pielmeni, English:pelmeni  
 **pelpel** *butterfly (moth)* ← Portuguese:borboleta, French:papillon, Italian:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), Swahili:kipepeo, Yoruba:labalábá, Filipino:paruparo  
+**pena** *feather* ← Portuguese:pena, Persian: پر‎ (par), Hindi:पर (par), Russian:перо (pero) + Japanese:ペン (pen), Korean:펜 (pen), Tamil:பேனா (pēṉā)  
 **pende** *hang (dangle)* ← English:pendant, Portuguese:French:pender  
 **pende** *hang (dangle)* ← Portuguese:French:pender + English:pendant, Japanese:ペンダント (pendanto), Korean:펜던트 (pendeonteu), Turkish:pandantif  
 **penis** *penis (phallus)* ← English:Turkish:Malay:penis, Spanish:pene, Portuguese:French:pénis, Russian:пенис (penis)  
 **pente** *five (5)* ← Persian: پنج‎ (panj), Russian:пять (pyat'), Hindi:पाँच (pā̃c), Bengali:পাঁচ (pãcô) + Greek:πέντε (pente), English:French:Spanish:Portuguese:penta-  
 **pente** *paint* ← English:paint, Spanish:Portuguese:pintura, French:peinture, nld:pek, Japanese:ペンキ (penki), Hindi:पेंट (penṭa)  
 **perde** *fart (flatulence)* ← English:fart + French:pet, Spanish:pedo, Portuguese:peido, Russian:пердение (perdeniye), Bengali:পাদ (pad), Hindi:पाद (pād)  
-**pere** *feather* ← Hindi:पर (par), Russian:перо (pero)  
 **peresa** *sloth (slow-moving mammal)* ← French:paresseux, Spanish:perezoso  
 **peta** *peta-* ← English:French:Spanish:Portuguese:Malay:Turkish:peta-, Russian:пета- (peta-), Japanese:ペタ (peta), Korean:페타- (peta-), Mandarin:拍它- (pāitā-)  
 **pete** *belly (stomach, abdomen)* ← Bengali:পেট (peṭ), Hindi:पेट (peṭ), Malay:perut, Arabic:(baṭn)  
@@ -1382,7 +1381,7 @@
 **tire** *pull (draw, drag)* ← Spanish:Portuguese:tirar, French:tirer, English:tear, Turkish:tire  
 **titanium** *titanium* ← English:titanium, French:titane, Spanish:titanio, Portuguese:titânio, Russian:титан, Mandarin:钛 (tài), Japanese:チタン, Korean:타이타늄, Vietnamese:titan, Hindi:टाइटानियम, Bengali:টাইটেনিয়াম, Malay:titanium, Swahili:titani, Arabic: تيتانيوم  
 **tix** *hush (shh)* ← Russian:тишина (tišina) + English:shh, French:chut, rus:ш-ш-ш, Mandarin:噓 (xū), Japanese:しーっ (shīt), Korean:쉿 (swit), Turkish:sus  
-**tiz:** *sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)* ← Persian: تیز (tiz), Hindi:तेज़ (tez), Turkish:tez  
+**tize** *sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)* ← Persian: تیز (tiz), Hindi:तेज़ (tez), Turkish:tez  
 **tolere** *tolerate* ← English:tolerate, Spanish:Portuguese:tolerar, French:tolérer, deu:tolerieren  
 **tomato** *tomato* ← English:tomato, French:Portuguese:Spanish:tomate, deu:Tomate, Russian:томат (tomat), Japanese:トマト (tomato), Korean:토마토 (tomato), Hindi:टमाटर (ṭamāṭar), Bengali:টম্যাটো (ṭamyāṭo), Malay:tomat, Turkish:domates  
 **tone** *tone (note, pitch)* ← English:tone, Swahili:kitone, Russian:тон (ton), deu:Ton, Spanish:tono  
@@ -1409,7 +1408,7 @@
 **tulium** *thulium* ← English:thulium, French:thulium, Spanish:tulio, Portuguese:túlio, Russian:тулий, Mandarin:铥 (diū), Japanese:ツリウム, Korean:툴륨, Vietnamese:tuli, Hindi:थुलियम, Bengali:থুলিয়াম, Malay:tulium, Swahili:thuri, Arabic: ثليوم  
 **tulpe** *tulip* ← English:tulip, Spanish:tulipá, Portuguese:túlipa, nld:tulp, Russian:тюльпан (t’ul’pan), Arabic:توليب (tūlīb), Hindi:ट्यूलिप (ṭyūlip), Malay:tulip, Japanese:チューリップ (chūrippu)  
 **tuna** *tuna* ← English:tuna, French:thon, Spanish:atún, Russian:тунец (tunec), Japanese:ツナ (tsuna), Hindi:टूना (tuna), Arabic: تُونَة (tuna)  
-**tundre** *tundra* ← English:Spanish:Portuguese:Turkish:tundra, Russian:тундра (tundra), Arabic:تندرا‎ (tundrā), Hindi:टुंड्रा (ṭuṇḍrā), Japanese:ツンドラ (tsundora)  
+**tundra** *tundra* ← English:Spanish:Portuguese:Turkish:tundra, Russian:тундра (tundra), Arabic:تندرا‎ (tundrā), Hindi:टुंड्रा (ṭuṇḍrā), Japanese:ツンドラ (tsundora)  
 **tunel** *tunnel* ← English:French:tunnel, Spanish:Portuguese:túnel, Russian:тоннель (tonnel’), Turkish:tünel, Japanese:トンネル (tonneru), 터널 (teoneol)  
 **tunge** *hurt (pain; suffer)* ← Mandarin:痛 (tòng), Cantonese:痛 (tung3), Korean:통 (tong)  
 **tunike** *tunic (gown)* ← Spanish:túnica, English:tunic, Russian:туника (tunika)  
@@ -1445,7 +1444,6 @@
 **vava** *weep (cry)* ← English:wah-wah, French:ouin ouin, Spanish:Portuguese:buá buá, Bengali:ওয়া ওয়া (oā-oā), Mandarin:哇哇 (wāwā), Cantonese:哇哇 (waa1waa1), Vietnamese:oa oa, Malay:owe-owe  
 **vaxe** *wash* ← English:wash, deu:waschen, Mandarin:洗 (xǐ)  
 **vei** *tail* ← Mandarin:尾 (wěi), Cantonese:尾 (mei5), Wu-Chinese:尾 (vi3), nan:尾 (bé), Japanese:尾 (bi)  
-**vei** *traverse (horizontal)* ← Mandarin:纬度 (wěi), Korean:위 (wi), Vietnamese:vĩ  
 **vele** *veil* ← English:veil, French:voile, Spanish:velo, Portuguese:véu, Japanese:ベール (bêru), Korean:베일 (beil), Swahili:veli  
 **vende** *sell (vend)* ← English:vend, Spanish:Portuguese:vender, French:vendre  
 **ventur** *adventure (venture)* ← deu:Abenteuer, Spanish:aventura, French:aventure, Russian:авантюра (avantyura), Turkish:avantür, English:adventure  

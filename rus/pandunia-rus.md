@@ -67,7 +67,7 @@ aplesaus - яблочное пюре
 aposum - опоссум  
 Apsua - Абхазия  
 ar - площадь  
-arabobabul - акация нильская  
+arabebabul - акация нильская  
 arane - паук  
 arbuze - арбуз  
 argente - серебро  
@@ -202,8 +202,8 @@ bibre - бобр
 bilor - кристалл  
 bine - строить  
 binite - кирпич  
-binoplania - архитектура  
-binoplaner - архитектор  
+bineplania - архитектура  
+bineplaner - архитектор  
 bir - пиво  
 bismute - висмут  
 bison - бизон (зубр)  
@@ -364,7 +364,7 @@ Dominiki Komunkratia - Доминиканская Республика
 • donive - щедрый  
 donajoceke - подарочный сертификат  
 dong - восток (ост)  
-dongogoril - восточная горилла  
+donggorila - восточная горилла  
 dosile - укрощать (приручить)  
 dosile - кроткий  
 dosilgenite - одомашнивать  
@@ -379,8 +379,8 @@ dur - длиться
 • duro - ещё  
 • durebil - долговечный  
 • durike - хронический  
-durometrer - секундомер  
-durozam - период (эпоха)  
+duremetrer - секундомер  
+durezam - период (эпоха)  
 • posprodute - завершающий этап создания  
 duxe - душ  
 
@@ -449,7 +449,7 @@ flece - стрела (стрелка)
 flerovium - флеровий  
 flurium - фтор  
 fobe - бояться (страшиться; страшить)  
-fontokalam - авторучка  
+fontekalam - авторучка  
 fore - сверлить (бурить)  
 forme - форма (фигура; формировать)  
 • dusforme - уродовать  
@@ -544,7 +544,7 @@ gogia - страна (государство)
 gol - цель  
 gom - резина (каучук, резинка, ластик)  
 • tragone - диагональный  
-gorile - горилла  
+gorila - горилла  
 goton - хлопок  
 • grafeme - пиксель  
 grafoprocese - обработка изображений  
@@ -1206,6 +1206,9 @@ peikari jive - карьера
 peikarer - профессионал (профи)  
 • propelor - пропеллер (винт)  
 pelpel - бабочка (мотылёк)  
+pena - перо  
+penakalam - перо  
+penakardon - бодяк обыкновенный  
 • pendaje - подвеска (кулон)  
 pendokardon - чертополох поникший  
 pente - пять (5)  
@@ -1213,8 +1216,6 @@ pente - картина
 • penter - художник  
 pentobrox - кисть  
 pentogone - пятиугольник  
-pere - перо  
-perokardon - бодяк обыкновенный  
 perde - пердение (пердеть)  
 petre - горная порода  
 petrolipe - нефть  
@@ -1595,11 +1596,11 @@ tu - ты
 tumen su - ваш  
 tulium - тулий  
 tuna - тунец  
-tundromonte - фьельды  
+tundramonte - фьельды  
 tunge - боль  
 turbe - утруждай  
 • turbin - турбина  
-turbojeter - турбореактивный двигатель  
+turbejeter - турбореактивный двигатель  
 turfe - торф  
 tuze - кролик (заяц)  
 
@@ -1607,7 +1608,7 @@ tuze - кролик (заяц)
 
 un - один (1)  
 • unike - единственный (уникальный)  
-• uniko - только (единственно)  
+• unike - только (единственно)  
 unomaro - один раз  
 unoki lense - монокль  
 Uran - Уран  
@@ -1629,15 +1630,15 @@ vase - оазис
 vate - статья (предмет)  
 vava bebe - плакса  
 vaxe - мыть  
-vaxomaxin - стиральная машина  
+vaxemaxin - стиральная машина  
 vei - хвост  
 veilin - уток  
 vende - продать  
-vendoxope - обмениваться  
+vendexope - обмениваться  
 ventur - авантюра  
 venturer - авантюрист  
 Venus - Венера  
-venzovorange - мандарин уншиу  
+Venzou oranje - мандарин уншиу  
 vere - верный  
 • provere - доказать (проверить)  
 verme - червь  
@@ -1647,12 +1648,12 @@ vermute - вермут
 • introverse - интроверт  
 veruke - бородавка  
 veste - запад (вест)  
-vestogoril - западная горилла  
+vestegorila - западная горилла  
 veze - тяжёлый  
-vezu - весить  
+veze - весить  
 vide - видеть  
 • vidion - видение  
-vidopunte - перспектива (точки зрения)  
+videpunte - перспектива (точки зрения)  
 • vider - зрительница  
 • dusvide - безобразный (некрасивый)  
 • exvide - очевидный  
@@ -1703,7 +1704,6 @@ xefe - шеф
 xenon - ксенон  
 xibai - проиграть (провалиться)  
 • dexibai - потерять (утратить)  
-xingofote - сверкать (мерцать)  
 • xipete - влажный  
 • xiria - поэзия  
 xixkababe - шиш-кебаб  
@@ -1712,7 +1712,7 @@ xiu - маленький (малый)
 xivite - галька  
 xiukaboge - цукини  
 Xiva - Шива  
-xixomanse - шашлык  
+xixmanse - шашлык  
 • xofer - шофёр  
 xope - покупать (купить; покупка, шоппинг)  
 xou - доказать (демонстрировать)  

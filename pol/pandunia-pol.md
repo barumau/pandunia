@@ -115,10 +115,10 @@ Apsua - Abchazja
 ar - pole, powierzchnia  
 aria - powierzchnia, region, teren  
 arabe - arabski  
-arabobabul - akacja arabska  
+arabebabul - akacja arabska  
 arane - pająk  
-aranofobia - arachnofobia  
-aranonete - pajęczyna  
+aranefobia - arachnofobia  
+aranenete - pajęczyna  
 arbuze - arbuz  
 Arcah - Abchazja  
 argente - srebro  
@@ -209,7 +209,7 @@ balde - wiadro
 balon - balon  
 balonpes - ryba rozdymkowata  
 balute - dąb  
-balutopal - żołądź  
+balutepal - żołądź  
 bambu - bambus  
 ban - tablica (deska)  
 bangem - gra planszowa  
@@ -317,8 +317,8 @@ bil e - prawdopodobnie (możliwie)
 bilor - kryształ  
 bine - budować (zbudować, konstruować; budynek)  
 binite - cegła  
-binoplania - architektura  
-binoplaner - architekt  
+bineplania - architektura  
+bineplaner - architekt  
 binde - punkt  
 bir - piwo  
 birkan - bar, knajpa  
@@ -598,17 +598,17 @@ dokumsanduke - folder (teczka)
 dolar - dolar  
 dolfin - delfin  
 dom - mieszkać (mieszkanie, dom)  
-• domane - dać mieszkanie (zakwaterować)  
-dominogem - domino  
+• domize - dać mieszkanie (zakwaterować)  
 domzeze - mucha  
 Dominiki Komunkratia - Republika Dominikańska (Dominikana)  
 Dominika - Dominika (Wspólnota Dominiki)  
+domino - domino  
 done - dać, dawać  
 • donaje - podarunek, dar, prezent  
 dong - wschód  
-donge - wschodni  
-Dongi Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
-dongogoril - goryl wschodni  
+• dongike - wschodni  
+Dong Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)  
+donggorila - goryl wschodni  
 dos - wina, grzech; defekt, wada  
 dose - winny  
 dosile - oswoić (oswajać, tresować, trenować)  
@@ -630,7 +630,7 @@ du mar - dwukrotnie (dwa razy)
 du o tri - parę  
 dufene - przepołowić (podzielić przez dwa)  
 duisme - dualizm  
-duplomene - dwuznacznik  
+dupleseme - dwuznacznik  
 duromanse - biromantyczny  
 dusexe - biseksualny  
 dua - modlitwa (pomodlić się, modlić się)  
@@ -649,9 +649,9 @@ dur - trwać (zająć czas; przez; trwanie)
 • durike - chroniczny  
 • durize - minąć, mijać (czas)  
 • undure - ciągły (analogowy)  
-durometrer - stoper (sekundomierz)  
-durozam - czas (epoka, era)  
-dusi zar - zły los  
+duremetrer - stoper (sekundomierz)  
+durezam - czas (epoka, era)  
+dus zar - zły los  
 duxe - prysznic  
 
 ## E  
@@ -977,7 +977,7 @@ gone - kąt
 • poligone - wielokąt (wielościan)  
 • tragone - przekątny (diagonal)  
 gonometrer - goniometr (kątomierz)  
-gorile - goryl  
+gorila - goryl  
 goro - świnia  
 goromanse - wieprzowina  
 goton - bawełna  
@@ -1144,7 +1144,7 @@ Honduras - Honduras
 Hong Gong - Hong Kong  
 hor - godzina  
 horloger - zegar (zegarek)  
-horlogotore - wieża zegarowa  
+horlogetore - wieża zegarowa  
 hormon - hormon  
 Horvatia - Chorwacja  
 hotel - hotel  
@@ -2354,6 +2354,8 @@ pei - zapłacić, opłacić, płacić
 peikar - profesja, zajęcie, zawód  
 pelmen - kluska, knedel, pieróg; ravioli, pelmeni  
 pelpel - motyl  
+pena - pióro  
+penakardon - ostrożeń lancetowaty  
 pende - powiesić, wieszać  
 pende - powiesić, wieszać  
 pendokardon - oset zwisły  
@@ -2364,8 +2366,6 @@ pente - namalować, malować
 • penter - malarz  
 pentofase - pięciościan (pryzmat)  
 pentogone - pięciokąt (pentagon)  
-pere - pióro  
-perokardon - ostrożeń lancetowaty  
 perde - pierdnięcie (pierdzieć)  
 Peru - Peru  
 pete - brzuch  
@@ -3028,7 +3028,7 @@ texomaxin - krosno
 texte - tekst  
 teze - dyskutovać (twierdzić; argument, teza)  
 tibe - uleczyć, leczyć, uzdrowić, uzdrawiać  
-• tibolojia - medycyna  
+• tibelojia - medycyna  
 • tiber - doktor, lekarz, uzdrowiciel  
 tibesui - eliksir (magiczny napój)  
 ticin - chordofon, instrument strunowy  
@@ -3047,7 +3047,7 @@ tirsanduke - szuflada
 titanium - tytan  
 tix - ćsi  
 • tixe - cichy  
-tiz: - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
+tize - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 • tizife - wzmacniać się (wzmagać, pogłębiać się)  
 Togo - Togo  
 Tokyo - Tokio  
@@ -3090,7 +3090,7 @@ tuhe - pluć
 tul - narzędzie  
 tulium - tul  
 tulpe - tulipan  
-tundre - tundra  
+tundra - tundra  
 tunel - tunel  
 tuneltren - metro  
 tunge - ból (cierpienie; cierpieć)  
@@ -3102,7 +3102,7 @@ turbe - przeszkodzić, przeszkadzać, robić kłopot
 turfe - torf  
 turke - turecki  
 Turkia - Turcja  
-Turkomenia - Turkmenistan  
+Turkemenia - Turkmenistan  
 Tuvalu - Tuwalu  
 tuze - królik, zając  
 
@@ -3116,7 +3116,7 @@ un - jeden (1)
 • una - jednoczyć  
 • unia - unia  
 • unike - jedyny (wyłączny)  
-• uniko - jedynie (tylko)  
+• unike - jedynie (tylko)  
 • unime - pierwszy, numer jeden  
 • unite - zjednoczony  
 Unite Arabe Amiria (UAA) - Zjednoczone Emiraty Arabskie  
@@ -3160,7 +3160,7 @@ vare - różny (różnorodny)
 varis - spadek, dziedzictwo, spuścizna, zapis  
 varke - kartka (dokument)  
 varkalge - listownicowiec  
-varkolate - strona  
+varkelate - strona  
 vase - oaza  
 vate - przedmiot (obiekt)  
 vat - wat  
@@ -3168,41 +3168,41 @@ Vatikan - Watykan, Państwo Watykańskie
 vava - płakać, łkać  
 vava bebe - beksa  
 vaxe - prać, umyć, myć  
-vaxomaxin - pralka  
+vaxemaxin - pralka  
 Vaxington DC - Waszyngton D.C  
 vei - ogon  
 vende - sprzedać (sprzedawać)  
-vendoxope - handel (handlować)  
-vendoxoper - handlarz (kupiec)  
+vendexope - handel (handlować)  
+vendexoper - handlarz (kupiec)  
 Venezuela - Wenezuela  
 ventur - przygoda  
 venturer - poszukiwacz przygód (awanturnik)  
 Venus - Wenus  
 Venzou - Wenzhou  
-venzovorange - mandarynka Satsuma (pomarańcza Satsuma)  
+Venzou oranje - mandarynka Satsuma (pomarańcza Satsuma)  
 vere - prawdziwy (rzeczywisty, szczery)  
 verme - robak  
 vermute - wermut  
 • version - wersja (wariacja, edycja, wydanie)  
 veruke - brodawka  
 vespe - pszczoła lub osa  
-vesponide - ul (gniazdo pszczół lub os)  
+vespenide - ul (gniazdo pszczół lub os)  
 veste - zachód (zachodni)  
-vestogoril - goryl zachodni  
+vestegorila - goryl zachodni  
 veze - ciężki (masywny)  
+veze - ważyć  
 vezia - waga (ciężkość)  
-vezu - ważyć  
 veze metal - metal ciężki  
-vezometrer - waga (urządzenie ważące)  
+vezemetrer - waga (urządzenie ważące)  
 vide - widzieć (patrzeć)  
 • vidaje - widok (wzrok)  
-vidopunte - perspektywa (punkt widzenia)  
+videpunte - perspektywa (punkt widzenia)  
 • vider - obserwator (widz)  
 • dusvide - brzydki  
 • anprevide - niespodziewany  
 • provide - przewidzieć (spodziewać się)  
 • suvide - przystojny, atrakcyjny, ładny  
-vidomeden - pole widzenia  
+videmeden - pole widzenia  
 vidou - wdowa  
 viete - wietnamski  
 Vietia - Wietnam  
@@ -3291,7 +3291,6 @@ xin - wiara, wierzenie, kredo
 xine - wierzyć  
 xindavisme - shintoizm, sintoizm  
 xing - gwiazda  
-xingofote - mruganie (błysk)  
 xipe - mokry (wilgotny; moczyć, zmoczyć)  
 xipostan - mokradło  
 xir - poemat  
@@ -3308,7 +3307,7 @@ xiukaboge - cukinia
 Xiva - Śiwa  
 xixe - nabić (przebić, dźgnąć)  
 xix - rożen (szpikulec)  
-xixomanse - szaszłyk  
+xixmanse - szaszłyk  
 xofe - prowadzić pojazd  
 • xofer - szofer (kierowca)  
 xoke - szokwstrząs; kolizja  

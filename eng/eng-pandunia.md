@@ -20,9 +20,9 @@ acceptable - okeibil
 access (admission; reach) - acese  
 accessibility (ease of access) - fasilia da acese  
 accommodate  - akonmode  
-accommodate - domane  
+accommodate - domize  
 acid - suan  
-acorn - balutopal  
+acorn - balutepal  
 act (deed) - ate  
 act (play a role) - role  
 actinium - acinium  
@@ -182,13 +182,13 @@ apricot - barkoke
 April - lun catre  
 aqua (teal) - haiblu  
 Arabic - arabe  
-arachnophobia - aranofobia  
+arachnophobia - aranefobia  
 arboretum - mokozongoparke  
 archer - arker  
 archery - arkeria  
 archipelago - nesia  
-architect - binoplaner  
-architecture - binoplania  
+architect - bineplaner  
+architecture - bineplania  
 Arctic - Artike  
 Arctic Ocean - Artike Hai  
 area (extent of surface) - ar  
@@ -285,7 +285,7 @@ azure bluet - nilseramsing
 
 ## B  
 
-babul tree (thorny acacia) - arabobabul  
+babul tree (thorny acacia) - arabebabul  
 baby (infant) - bebe  
 back - ruke  
 backgammon - narde  
@@ -296,7 +296,6 @@ backward (posterior) - postre
 backwards - re-  
 bad (ruined, destroyed) - harabe  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dus  
-bad (unfavorable, negative, evil, wicked, troublesome, difficult) - duse  
 bag (sack) - sake  
 bag - bage  
 baguette - batonpang  
@@ -367,7 +366,7 @@ bed - bede
 bedouin (nomadic) - badave  
 bedrock - bazepetre  
 bedroom - somokamar  
-bee nest (beehive, wasp's nest) - vesponide  
+bee nest (beehive, wasp's nest) - vespenide  
 bee or wasp - vespe  
 beef - muhmanse  
 beehive (beehouse) - maduvesposanduke  
@@ -762,7 +761,7 @@ climb (get on) - askale
 clipboard (paste buffer) - kategluteban  
 clipboard (physical board) - pinsoban  
 clock (watch) - horloger  
-clocktower - horlogotore  
+clocktower - horlogetore  
 clockwise - rotoraito  
 clone (replica) - klon  
 clone (replicate) - klone  
@@ -1166,12 +1165,12 @@ domination (dominion) - domination
 dominator - dominer  
 Dominica - Dominika  
 Dominican Republic - Dominiki Komunkratia  
-dominoes - dominogem  
+dominoes - domino  
 donkey (ass) - gade  
 door (gate) - mun  
 dot (spot) - binde  
 double (twofold) - duple  
-double entendre - duplomene  
+double entendre - dupleseme  
 doubt (suspect) - xanke  
 downgrade - dusdarge  
 download - netekape  
@@ -1226,10 +1225,10 @@ Earth (Terra) - Geia
 earthquake - geosisme  
 ease (facility) - fasilia  
 east (orient) - dong  
-East Timor (Timor-Leste) - Dongi Timor  
+East Timor (Timor-Leste) - Dong Timor  
 Easter - paske  
-eastern - donge  
-eastern gorilla - dongogoril  
+eastern - dongike  
+eastern gorilla - donggorila  
 easy - fasile  
 echo - miroson  
 ecology (study of environment) - ekolojia  
@@ -1426,7 +1425,7 @@ favoritism - profilisme
 fear (fright) - tere  
 fear (phobia) - fobia  
 fear (scare; frighten; scared, afraid) - fobe  
-feather - pere  
+feather - pena  
 feature (product of work) - feture  
 February - lun du  
 feces (shit, poop) - feke  
@@ -1435,7 +1434,7 @@ feed - yamize
 feel (emote) - emote  
 feel (sense by touch) - sente  
 feel (sense by touch) - tatosense  
-fell - tundromonte  
+fell - tundramonte  
 female - ni  
 feminism - femisme  
 feminist - femiste  
@@ -1492,7 +1491,7 @@ flexible  - flexebil
 flexion (flection) - flexion  
 flint - hogite  
 float (buoy, bobber) - boi  
-floating point number - boipuntonumbe  
+floating point number - boipuntenumbe  
 floor - kamardipe  
 florist's chrysanthemum - guke  
 flow (current, stream) - dare  
@@ -1535,7 +1534,7 @@ forward (to the front) - pro-
 forward - pro  
 founder - bazer  
 fountain (spring, well) - fonte  
-fountain pen - fontokalam  
+fountain pen - fontekalam  
 four (4) - catre  
 fox - huli  
 fracture - fragure  
@@ -1679,7 +1678,7 @@ good night - sal noce
 good-haired - sukexe  
 good-looking (handsome) - surupe  
 goose - ganse  
-gorilla - gorile  
+gorilla - gorila  
 gospel (divine message) - evangil  
 government (administration, polity) - polite  
 gradient (gradation, incline) - dargemeden  
@@ -1977,7 +1976,7 @@ inflammation (-itis) - itis
 inform (organize knowledge) - informe  
 information (communicable knowledge) - konsabe  
 information (organized knowledge) - informaje  
-infrastructure   - infrostruture  
+infrastructure   - bazestruture  
 infuse (melt in, steep in) - infuze  
 ingenerate (produce within) - ingenerate  
 initial (first; prime) - prime  
@@ -2453,7 +2452,7 @@ Mecca - Maka
 medallion (medal) - medal  
 medical - tibike  
 medicine (drug, medication) - tibaje  
-medicine (field of study) - tibolojia  
+medicine (field of study) - tibelojia  
 meditate (ponder) - medite  
 Mediterranean - Geomide Hai  
 medium (intermediate, mean) - midi  
@@ -2528,7 +2527,7 @@ Miranda - Miranda
 mirror - miror  
 misdeed (sin, vice) - dusate  
 misdeed (sin, vice) - duskar  
-misfortune (bad luck) - dusi zar  
+misfortune (bad luck) - dus zar  
 misfortune (bad luck) - dusozar  
 mission (sending) - mision  
 mission (transmission, emission) - misia  
@@ -2805,7 +2804,7 @@ one (someone) - yo
 onion - piaze  
 online - a line  
 only (single, sole, lone) - unike  
-only (solely, just) - uniko  
+only (solely, just) - unike  
 onomatopoeia - fonomime  
 opaque (not transparent) - antravidebil  
 open (not closed) - kai  
@@ -2878,7 +2877,7 @@ pack (package) - pake
 package - pakaje  
 packet - pakete  
 pact (contract, covenant, alliance) - kontrete  
-page (side of a leaf of a book) - varkolate  
+page (side of a leaf of a book) - varkelate  
 paint (cover in paint) - pente  
 paint - pente  
 paintbrush - pentobrox  
@@ -2993,13 +2992,13 @@ perfect (optimize, refine, polish) - purbone
 perfect - purbone  
 perfume - perfume  
 perfumery - perfumeria  
-period (era, epoch, term) - durozam  
+period (era, epoch, term) - durezam  
 peripheral - kenare  
 permissible (allowed, halal) - halale  
 Persian (Farsi) - farse  
 person (individual) - jen  
 personal identification number (PIN) - sekuronume  
-perspective (point of view) - vidopunte  
+perspective (point of view) - videpunte  
 Peru - Peru  
 pervert (twist; perverse) - perverse  
 peta- - peta  
@@ -3083,6 +3082,7 @@ player (gamer) - gemer
 please (satisfy, delight) - sukife  
 pleased (delighted, happy) - suke  
 pliers (pincers) - pinser  
+pluck feathers - depena  
 plum (prune) - plum  
 Pluto (dwarf planet) - Pluton  
 plutonium - plutonium  
@@ -3258,6 +3258,7 @@ quark (paneer) - panir
 quartz - kuarze  
 queen - rejeni  
 quicksand - movesable  
+quill - penakalam  
 quotation mark - citomarke  
 quote (cite) - cite  
 Quran (Koran) - kuran  
@@ -3336,6 +3337,7 @@ red - lale
 reduce (lead back, take back) - redute  
 reduce - kamife  
 reed (cane) - gana  
+reed pen - ganakalam  
 refer (point back to) - refere  
 reflect (bend back) - reflexe  
 reflect - mire  
@@ -3514,7 +3516,7 @@ sapling - yune moke
 sapphire - nilbavite  
 Satanism (devil worship) - xatanisme  
 Satanist - xataniste  
-satsuma mandarin - venzovorange  
+satsuma mandarin - Venzou oranje  
 Saturday - den sixe  
 Saturn - Saturne  
 sauce - saus  
@@ -3531,7 +3533,7 @@ sawmill - xarakan
 say (talk, speak, tell; speech) - loge  
 saying (diction) - dition  
 scaffolding (gangplank) - futeban  
-scales (weighing device) - vezometrer  
+scales (weighing device) - vezemetrer  
 Scandinavia - Skandia  
 scandium - skandium  
 scarcity - kamia  
@@ -3619,8 +3621,8 @@ Shanghai - Xanghai
 share - komune  
 shari'a - islam xaria  
 shark - xarke  
-sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.) - tiz:  
-shashlik - xixomanse  
+sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.) - tize  
+shashlik - xixmanse  
 shatter (break; fragment, morsel, crumb, shard) - parce  
 shave (scrape, raze) - raze  
 shea (vitellaria) - karite  
@@ -3765,7 +3767,7 @@ space (character) - kaleharfe
 space (cosmos, universe) - kosmia  
 spaceship - kosmonau  
 Spain - Espania  
-spear thistle - perokardon  
+spear thistle - penakardon  
 spearmint - zongominte  
 special (distinct) - has  
 species - zong  
@@ -3775,7 +3777,7 @@ speedometer - sugometrer
 spell (enchantment) - magasar  
 spice (seasoning) - masale  
 spider - arane  
-spiderweb (cobweb) - aranonete  
+spiderweb (cobweb) - aranenete  
 spiral (helix, corkscrew, twist) - helis  
 spit - tuhe  
 split (dissect) - tome  
@@ -3824,7 +3826,7 @@ still (yet, continuously) - duro
 stone (piece of rock) - ite  
 stop (halt) - halte  
 stop (obsruct, block; plug, stopper, cap, peg, tap) - tape  
-stopwatch - durometrer  
+stopwatch - duremetrer  
 storm (tempest, typhoon, hurricane, cyclone) - tafun  
 straight - orte  
 strange (foreign) - extran  
@@ -4090,8 +4092,8 @@ toxicology - toxolojia
 toxin - biotoxe  
 tract (land, ground, region) - stan  
 tractor - trater  
-trade (buy and sell; commerce) - vendoxope  
-trader (merchant) - vendoxoper  
+trade (buy and sell; commerce) - vendexope  
+trader (merchant) - vendexoper  
 trading card - jamekarde  
 tragedy - tragodia  
 tragicomic - tragokomi  
@@ -4111,7 +4113,6 @@ trapdoor - padomun
 travel (voyage, trip) - safar  
 traveler - safarer  
 traveller's cheque (traveler's check) - safaroceke  
-traverse (horizontal) - vei  
 treasure (valuables; precious) - bau  
 tree - moke  
 triangle - trigone  
@@ -4140,7 +4141,7 @@ tuber (bulb) - masmul
 Tuesday - den du  
 tulip - tulpe  
 tuna - tuna  
-tundra - tundre  
+tundra - tundra  
 tune (adjust a musical instrument) - atone  
 tune in (radio or TV) - sintone  
 tuner - sintonor  
@@ -4150,22 +4151,21 @@ Tunisia - Tunisia
 tunnel - tunel  
 turban - pagre  
 turbine - turbin  
-turbojet - turbojeter  
+turbojet - turbejeter  
 turkey - dinde  
 Turkey - Turkia  
 Turkish - turke  
-Turkmenistan - Turkomenia  
+Turkmenistan - Turkemenia  
 turn toward (direct, flip; versus) - verse  
 turquoise gem - firuze  
 turret - torete  
 turtle (tortoise) - tortuge  
 Tuvalu - Tuvalu  
 twice - du mar  
-twinkle (sparkle) - xingofote  
 two (2) - du  
 type (kind, genre) - tipe  
 typewriter - kitabemaxin  
-typology - tipolojia  
+typology - tipelojia  
 tyrant (despot) - zalime reger  
 
 ## U  
@@ -4283,7 +4283,7 @@ vision (sight) - vidion
 visit - kege  
 visitation (visit) - kege  
 visitor (guest) - keger  
-visual field (field of vision) - vidomeden  
+visual field (field of vision) - videmeden  
 vitamin - vitamin  
 vivisection - jivotome  
 vocabulary (lexicon) - lexia  
@@ -4316,7 +4316,7 @@ warrior (fighter) - janger
 warrior (soldier) - gerer  
 wart (verruca) - veruke  
 wash - vaxe  
-washing machine - vaxomaxin  
+washing machine - vaxemaxin  
 Washington DC - Vaxington DC  
 watch (spectate, observe) - spete  
 watcher (spectator, observer) - speter  
@@ -4349,14 +4349,14 @@ Wednesday - den tri
 week - cetoden  
 weep (cry) - vava  
 weft - veilin  
-weigh (have weight) - vezu  
+weigh (have weight) - veze  
 weight (heft, gravity) - vezia  
 welcome! - sal lai  
 well-being (prosperity) - salamia  
 Welsh - kamre  
 Wenzhou - Venzou  
 west (western) - veste  
-western gorilla - vestogoril  
+western gorilla - vestegorila  
 wet - xipe  
 wetland - xipostan  
 what kind of? - ke yange  

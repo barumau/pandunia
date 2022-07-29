@@ -23,7 +23,7 @@ agresywny - agresive
 agronomia - agrenomia  
 aj!, ał! - ai  
 akacja - babul  
-akacja arabska - arabobabul  
+akacja arabska - arabebabul  
 akcent, nacisk - baloton  
 akt, scena - roler  
 aktualizować (zaktualizować, ulepszać, ulepszyć) - sudarge  
@@ -78,12 +78,12 @@ antywojenny - antigere
 anyż - anis  
 Arabia Saudyjska - Saudi Arabia  
 arabski - arabe  
-arachnofobia - aranofobia  
+arachnofobia - aranefobia  
 arboretum - mokozongoparke  
 arbuz - arbuze  
 archipelag - nesia  
-architekt - binoplaner  
-architektura - binoplania  
+architekt - bineplaner  
+architektura - bineplania  
 Argentyna - Argentin  
 argon - argon  
 argument - argum  
@@ -377,7 +377,7 @@ czapetka kuminowa - jambul
 czar (urok, wdzięk) - carme  
 Czarnogóra - Cernagore  
 czarny - kara  
-czas (epoka, era) - durozam  
+czas (epoka, era) - durezam  
 czas (epoka, era) - zaman  
 czas - sate  
 czas; okazja - mar  
@@ -421,7 +421,7 @@ darmsztadt - darmositium
 darwinista - darviniste  
 darwinizm - darvinisme  
 data - nen lun den  
-dać mieszkanie (zakwaterować) - domane  
+dać mieszkanie (zakwaterować) - domize  
 dać, dawać - done  
 deaktywować (wyłączyć, zatrzymać) - deative  
 debatować, prowadzić dyskurs - lone  
@@ -463,7 +463,7 @@ dokument - papir
 dolar - dolar  
 dolina - vade  
 Dominika (Wspólnota Dominiki) - Dominika  
-domino - dominogem  
+domino - domino  
 doradca (mentor) - menter  
 dorsz - bakalau  
 dorsz atlantycki - atlante bakalau  
@@ -497,7 +497,7 @@ dwa (2) - du
 dwujęzyczny - dubaxike  
 dwukrotnie (dwa razy) - du mar  
 dwutlenek węgla - karboduloxide  
-dwuznacznik - duplomene  
+dwuznacznik - dupleseme  
 dychotomia - duotome  
 dyktator - ditater  
 dyktatura - ditateria  
@@ -712,9 +712,9 @@ godzina - hor
 golem - golem  
 goniometr (kątomierz) - gonometrer  
 gorbusza - rozosalmon  
-goryl - gorile  
-goryl wschodni - dongogoril  
-goryl zachodni - vestogoril  
+goryl - gorila  
+goryl wschodni - donggorila  
+goryl zachodni - vestegorila  
 gorzka pomarańcza - kalioranje  
 gorzki - kaliguste  
 gorączka - febre  
@@ -793,8 +793,8 @@ hak - huke
 halo, cześć - halo  
 hamak - hamake  
 han chiński - cina  
-handel (handlować) - vendoxope  
-handlarz (kupiec) - vendoxoper  
+handel (handlować) - vendexope  
+handlarz (kupiec) - vendexoper  
 harmonia - harmonia  
 harmoniczny - harmone  
 has - hesium  
@@ -895,7 +895,7 @@ informacja - konsabe
 informatyka - dateproceselojia  
 inny (zmienić, zmieniać) - ale  
 innymi słowy - alonamo  
-intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tiz:  
+intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - tize  
 interesujący - besabovole  
 interfejs - midofas  
 internet - internete  
@@ -958,7 +958,7 @@ jednostka miary - metrune
 jednoznaczny - unomene  
 jednoznaczny - unsemike  
 jedwab - silke  
-jedynie (tylko) - uniko  
+jedynie (tylko) - unike  
 jedyny (wyłączny) - unike  
 jedzenie, posiłek - yamaje  
 Jemen - Yemen  
@@ -1400,7 +1400,7 @@ Mali - Mali
 Malta - Malta  
 mama - ma  
 mandarynka - laloranje  
-mandarynka Satsuma (pomarańcza Satsuma) - venzovorange  
+mandarynka Satsuma (pomarańcza Satsuma) - Venzou oranje  
 mandaryński chiński, Putonghua - Putong Cina  
 mangan - mangan  
 mango - mango  
@@ -1449,7 +1449,7 @@ medalion, medal - medal
 media - midia  
 media społecznościowe - soce media  
 meduza - haigele  
-medycyna - tibolojia  
+medycyna - tibelojia  
 medytować; dumać, rozmyślać, zastanawiać się - medite  
 megawat - megavate  
 meitner - maitnerium  
@@ -1568,7 +1568,6 @@ motyl - pelpel
 Mozambik - Mozambike  
 Mołdawia - Moldova  
 może - hai  
-mruganie (błysk) - xingofote  
 mrówka - murce  
 mucha - domzeze  
 mumia - mumjen  
@@ -1846,7 +1845,7 @@ osoba mówiąca w Panduni - panduniste
 osobisty numer identyfikacyjny (pin) - sekuronume  
 ostatni, końcowy - finime  
 ostropest plamisty - milkokardon  
-ostrożeń lancetowaty - perokardon  
+ostrożeń lancetowaty - penakardon  
 ostrzarka (kamień młyński) - molite  
 oswoić (oswajać, tresować, trenować) - dosile  
 oswojony (potulny, posłuszny) - dosile  
@@ -1874,7 +1873,7 @@ pacjent - patike
 pacyfista - paciste  
 pacyfizm - pacisme  
 pająk - arane  
-pajęczyna - aranonete  
+pajęczyna - aranenete  
 Pakistan - Pakistan  
 pakować (paczka, paka) - pake  
 pakt (kontrakt, ugoda, umowa, konwencja) - kontrete  
@@ -1946,7 +1945,7 @@ penis - penis
 perfekcyjny - purbone  
 perfekcyjny - perfete  
 Pers; perski, farsi - farse  
-perspektywa (punkt widzenia) - vidopunte  
+perspektywa (punkt widzenia) - videpunte  
 Peru - Peru  
 peryferyjny - kenare  
 perła - jenju  
@@ -1996,7 +1995,7 @@ piwo - bir
 piwonia - mudan  
 pizza - piza  
 pizzeria - pizaria  
-pióro - pere  
+pióro - pena  
 pióro, długopis - kalam  
 piątek - den pente  
 pięciokąt (pentagon) - pentogone  
@@ -2062,7 +2061,7 @@ pokolenie (generacja) - genogrupe
 pokój - pace  
 pokój rozmów, chat - blablakan  
 pokój, sala - kamar  
-pole widzenia - vidomeden  
+pole widzenia - videmeden  
 pole, powierzchnia - ar  
 polerować (szlifować) - fotofrike  
 policja - polis  
@@ -2166,7 +2165,7 @@ practyczny, pragmatyczny - pratike
 pragnienie - suiyau  
 praktyka, aktualność - prate  
 praktykant - karexuler  
-pralka - vaxomaxin  
+pralka - vaxemaxin  
 prawa autorskie - kopohake  
 prawa człowieka - human hake  
 prawa strona - raite  
@@ -2647,7 +2646,7 @@ stokrotka - margarite
 stokrotka pospolita - englomargarite  
 stolarz - mokozanger  
 stopa - fute  
-stoper (sekundomierz) - durometrer  
+stoper (sekundomierz) - duremetrer  
 stopień Celsjusza - celsius darge  
 stopień, poziom, ranga, klasa - darge  
 storczyk (orchidea) - orkide  
@@ -2658,7 +2657,7 @@ stracić (utracić, tracić, zgubuć, gubić) - dexibai
 strażnik więzienny - jeler  
 strażnik, ochroniarz - garder  
 strona (bok) - late  
-strona - varkolate  
+strona - varkelate  
 stront - strontium  
 strzała (bełt) - flece  
 strzelać (strzelić) - pau  
@@ -2702,7 +2701,7 @@ Szanghaj - Xanghai
 szansa - canse  
 szariat - islam xaria  
 szary - huirang  
-szaszłyk - xixomanse  
+szaszłyk - xixmanse  
 szczepionka - vacin  
 szczoteczka do zębów - dantobrox  
 szczotka - brox  
@@ -2845,7 +2844,7 @@ tesla (T) - tesla
 test, wyzwanie, próba - teste  
 tikka masala - masale tike  
 Timor - Timor  
-Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dongi Timor  
+Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dong Timor  
 tkanina (materiał, sukno) - texe  
 tkać (pleść) - texe  
 tlen - oxe  
@@ -2892,7 +2891,7 @@ tu (tutaj, tam) - a le
 tuba, rura - tube  
 tul - tulium  
 tulipan - tulpe  
-tundra - tundre  
+tundra - tundra  
 tunel - tunel  
 Tunezja - Tunisia  
 tunika, toga - tunike  
@@ -2901,7 +2900,7 @@ turbina - turbin
 Turcja - Turkia  
 turecki - turke  
 Turek osmański - osman  
-Turkmenistan - Turkomenia  
+Turkmenistan - Turkemenia  
 turkus - firuze  
 turysta - safariste  
 turystyka - safarisme  
@@ -2947,7 +2946,7 @@ Ukraina - Ukraina
 ukrzyżować - krusefixe  
 ukwiał - haiful  
 układ słoneczny - solosistem  
-ul (gniazdo pszczół lub os) - vesponide  
+ul (gniazdo pszczół lub os) - vespenide  
 ul - maduvesposanduke  
 uleczyć, leczyć, uzdrowić, uzdrawiać - tibe  
 ulubiony - profilaje  
@@ -2989,7 +2988,7 @@ voodoo - vodun
 w - in  
 w innym wypadku (inaczej) - alo  
 waga (ciężkość) - vezia  
-waga (urządzenie ważące) - vezometrer  
+waga (urządzenie ważące) - vezemetrer  
 wagina - vagine  
 walc - valse  
 Walia - Kamria  
@@ -3013,7 +3012,7 @@ wat - vat
 Watykan, Państwo Watykańskie - Vatikan  
 ważka - libele  
 ważny - ham  
-ważyć - vezu  
+ważyć - veze  
 wciąż, nadal - duro  
 wczoraj - preden  
 wdowa - vidou  
@@ -3081,7 +3080,7 @@ wiewiórka - ekore
 wieś, tereny wiejskie - agrestan  
 wieś, wioska - vilaje  
 wieża - tore  
-wieża zegarowa - horlogotore  
+wieża zegarowa - horlogetore  
 wiki - viki  
 wilk - volfe  
 wina, grzech; defekt, wada - dos  
@@ -3132,7 +3131,7 @@ wołowina - muhmanse
 wrzesień - lun sixe  
 wróg (nieprzyjaciel) - andoste  
 wsad, partia, porcja, seria - lote  
-wschodni - donge  
+wschodni - dongike  
 wschód - dong  
 wskazać, wskazywać - ponte  
 wskaźnik - dikebaton  
@@ -3363,7 +3362,7 @@ złoto - aure
 złowieszczy - dusosine  
 złośliwy, okrutny - zalime  
 zły (wsciekły, gniewny) - fure  
-zły los - dusi zar  
+zły los - dus zar  
 zły los - dusozar  
 zły, zrujnowany, zepsuty - harabe  
 ćsi - tix  
@@ -3431,7 +3430,7 @@ zły, zrujnowany, zepsuty - harabe
 żelazo - fer  
 żeń-szeń - jensen  
 żołnierz - ordojen  
-żołądź - balutopal  
+żołądź - balutepal  
 żuć - katade  
 żwir - grave  
 życie - jive  

@@ -287,7 +287,7 @@
 **dokum** *dokumento* ← angla:franca:document, hispana:portugala:documento, rusa:документ (dokument), japana:ドキュメント (dokyumento), malaja:dokumen, turka:doküman  
 **dolfin** *delfeno* ← greka:δελφίνια (delphínia), angla:dolphin, hispana:delfín, portugala:delfim, rusa:дельфин (del’fin), araba:دلفين (dulfin), japana:ドルフィン (dorufin), bengala:ডলফিন (ḍalaphina), hindia:डॉल्फ़िन (ḍŏlfin)  
 **dom** *loĝi (loĝejo, hejmo)* ← rusa:дом (dom), polona:dom, latina:domus, + angla:domestic, franca:domestique, hispana:portugala:doméstico  
-**dominogem** ** ← angla:dominoes, hispana:portugala:dominó, franca:dominos, rusa:домино (domino), mandarena:多米诺 (duōmǐnuò), japana:ドミノ牌 (dominohai)  
+**domino** ** ← angla:dominoes, hispana:portugala:dominó, franca:dominos, rusa:домино (domino), mandarena:多米诺 (duōmǐnuò), japana:ドミノ牌 (dominohai)  
 **done** *doni* ← franca:donner, angla:donate, hispana:portugala:donar  
 **dong** *oriento* ← mandarena:东 (dōng), kantona:東 (dōng), vjetnama:đông, korea:동 (dong), turka:doğu  
 **dos** *kulpo* ← malaja:dosa, hindia:दोष (doś), taja:โทษ (toot(sa))  
@@ -309,7 +309,6 @@
 **dunia** *mondo* ← araba: دُنْيَا‎ (dunyā), hindia:दुनिया (duniyā), bengala:দুনিয়া (duniya), malaja:svahila:dunia, turka:dünya, persa: دنیا (donya), urdua: دنیا (duniyā), haŭsa:duniya  
 **dur** *daŭri* ← angla:duration, franca:durée, hispana:portugala:durar + bengala:ধরে (dhôre), hindia:दौरान (daurān)  
 **dus** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
-**duse** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
 **duxe** *duŝo* ← franca:douche, hispana:portugala:ducha, deu:Dusche, rusa:душ (duš), araba: دوش (dūš), malaja:dus, turka:duş  
 **e** *esti* ← franca:est (ɛ), portugala:é, persa: است (ast/e), hindia:है (ɦɛ:), itala:è, ukr:є (ye) + filipina:ay (ay/e)  
 **eglis** *preĝejo* ← angla:ecclesia-, franca:église, hispana:iglesia, portugala:igreja, hindia:गिरजा (girjā), malaja:gereja, araba:(kanisā), svahila:kanisa, turka:kilise  
@@ -456,7 +455,7 @@
 **golem** ** ← heb:גולם‎ (golem), angla:hispana:portugala:franca:malaja:golem, deu:Golem, rusa:голем (golem), araba:غولم (ghwlm) japana:ゴーレム (gōremu), korea:골렘 (gollem)  
 **gom** *kaŭĉuko* ← franca:gomme, hispana:filipina:goma, japana:ゴム (gomu), korea:고무 (gomu) + angla:gum + hindia:गम (gam), bengala:গাম (gam)  
 **gone** *angulo* ← angla:corner, franca:-gone, hispana:portugala:-gono, hindia:कोण (koṇ), teluga:(kōnamu), svahila:kona, haŭsa:kwana  
-**gorile** ** ← angla:gorilla, franca:gorille, hispana:portugala:malaja:gorila, rusa:горилла (gorilla), araba:غوريلا (ḡūrīlā), japana:ゴリラ (gorira), korea:고릴라 (gorilla), vjetnama:gôrila, hindia:गोरिल्ला (gorillā), bengala:গরিলা (gôrila)  
+**gorila** ** ← angla:gorilla, franca:gorille, hispana:portugala:malaja:gorila, rusa:горилла (gorilla), araba:غوريلا (ḡūrīlā), japana:ゴリラ (gorira), korea:고릴라 (gorilla), vjetnama:gôrila, hindia:गोरिल्ला (gorillā), bengala:গরিলা (gôrila)  
 **goro** *porko* ← svahila:guruwe zulua:ingulube, konga:ngulu hispana:guarro, gorrino, japana:(gorogoro) angla:grunt  
 **goton** *kotono* ← araba:(quṭun), hispana:algodón, portugala:algodão, franca:coton, angla:cotton  
 **grafe** *bildo (desegnaĵo, grafiko)* ← angla:graphic, deu:Grafik, franca:graphique, hispana:portugala:gráfico, rusa:графика (grafika), japana:グラフィック (gurafikku), korea:그래픽 (geuraepik)  
@@ -609,7 +608,7 @@
 **kai** *malferma* ← mandarena:开 (kāi), vua:開 (khe1), japana:開 (kai), korea:개 (gae), vjetnama:khai, taja:ไข (kǎi), lao:ໄຂ (khai)  
 **kaka** *feko* ← hispana:portugala:franca:caca, deu:Kacke, araba:(kākā), turka:kaka, rusa:кака (kaka), persa:(kake)  
 **kakau** *kakao* ← portugala:cacau, araba:(kākāw), hispana:cacao, angla:cocoa, rusa:какао (kakao), japana:カカオ (kakao), mandarena:可可 (kěkě), vjetnama:cacao, svahila:kakao  
-**kalam** *plumo* ← araba:persa:urdua:(qalam), haŭsa:alƙalami, joruba:svahila:kalamu, turka:kalem, hindia:क़लम (qalam), bengala:কলম (kôlôm), hispana:portugala:cálamo  
+**kalam** *plumo* ← araba:persa:urdua: قلم‎ (qalam), haŭsa:alƙalami, joruba:svahila:kalamu, turka:kalem, hindia:क़लम (qalam), bengala:কলম (kôlôm), hispana:portugala:cálamo  
 **kale** *malplena* ← bengala:খালি (khali), hindia:ख़ाली (xālī), teluga:ఖాళీ (khāḷī), tamila:(kali), urdua:(xālī), persa:خالی (xāli), araba:خَالٍ‎ (xāliy), japana:空 (kara)  
 **kalende** *kalendaro* ← angla:calendar, franca:calendrier, hispana:portugala:calendario, rusa:календарь (kalendar’), deu:malaja:kalender, japana:カレンダー (karendā), korea:카렌더 (karendeo), hindia:कैलेण्डर (kaileṇḍar), svahila:kalenda  
 **kali** *alkala* ← araba: قلي (qily), svahila:-kali + angla:alkali, franca:alcali, hispana:portugala:álcali, japana:アルカリ (arukari), korea:알칼리 (alkalli), malaja:alkali  
@@ -1072,13 +1071,13 @@
 **pei** ** ← angla:pay, franca:paye, + mandarena:费 (fèi)  
 **pelmen** ** ← rusa:пельмень (pel'men'), polona:pielmeni, angla:pelmeni  
 **pelpel** *papilio* ← portugala:borboleta, franca:papillon, itala:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), svahila:kipepeo, joruba:labalábá, filipina:paruparo  
+**pena** *plumo* ← portugala:pena, persa: پر‎ (par), hindia:पर (par), rusa:перо (pero) + japana:ペン (pen), korea:펜 (pen), tamila:பேனா (pēṉā)  
 **pende** ** ← angla:pendant, portugala:franca:pender  
 **pende** ** ← portugala:franca:pender + angla:pendant, japana:ペンダント (pendanto), korea:펜던트 (pendeonteu), turka:pandantif  
 **penis** *peniso* ← angla:turka:malaja:penis, hispana:pene, portugala:franca:pénis, rusa:пенис (penis)  
 **pente** *kvin (5)* ← persa: پنج‎ (panj), rusa:пять (pyat'), hindia:पाँच (pā̃c), bengala:পাঁচ (pãcô) + greka:πέντε (pente), angla:franca:hispana:portugala:penta-  
 **pente** *pentri* ← angla:paint, hispana:portugala:pintura, franca:peinture, nld:pek, japana:ペンキ (penki), hindia:पेंट (penṭa)  
 **perde** *furzo* ← angla:fart + franca:pet, hispana:pedo, portugala:peido, rusa:пердение (perdeniye), bengala:পাদ (pad), hindia:पाद (pād)  
-**pere** *plumo* ← hindia:पर (par), rusa:перо (pero)  
 **peresa** ** ← franca:paresseux, hispana:perezoso  
 **peta** *peta-* ← angla:franca:hispana:portugala:malaja:turka:peta-, rusa:пета- (peta-), japana:ペタ (peta), korea:페타- (peta-), mandarena:拍它- (pāitā-)  
 **pete** *ventro* ← bengala:পেট (peṭ), hindia:पेट (peṭ), malaja:perut, araba:(baṭn)  
@@ -1382,7 +1381,7 @@
 **tire** *tiri* ← hispana:portugala:tirar, franca:tirer, angla:tear, turka:tire  
 **titanium** *titanio* ← angla:titanium, franca:titane, hispana:titanio, portugala:titânio, rusa:титан, mandarena:钛 (tài), japana:チタン, korea:타이타늄, vjetnama:titan, hindia:टाइटानियम, bengala:টাইটেনিয়াম, malaja:titanium, svahila:titani, araba: تيتانيوم  
 **tix** ** ← rusa:тишина (tišina) + angla:shh, franca:chut, rus:ш-ш-ш, mandarena:噓 (xū), japana:しーっ (shīt), korea:쉿 (swit), turka:sus  
-**tiz:** ** ← persa: تیز (tiz), hindia:तेज़ (tez), turka:tez  
+**tize** ** ← persa: تیز (tiz), hindia:तेज़ (tez), turka:tez  
 **tolere** ** ← angla:tolerate, hispana:portugala:tolerar, franca:tolérer, deu:tolerieren  
 **tomato** *tomato* ← angla:tomato, franca:portugala:hispana:tomate, deu:Tomate, rusa:томат (tomat), japana:トマト (tomato), korea:토마토 (tomato), hindia:टमाटर (ṭamāṭar), bengala:টম্যাটো (ṭamyāṭo), malaja:tomat, turka:domates  
 **tone** *tono* ← angla:tone, svahila:kitone, rusa:тон (ton), deu:Ton, hispana:tono  
@@ -1409,7 +1408,7 @@
 **tulium** *tulio* ← angla:thulium, franca:thulium, hispana:tulio, portugala:túlio, rusa:тулий, mandarena:铥 (diū), japana:ツリウム, korea:툴륨, vjetnama:tuli, hindia:थुलियम, bengala:থুলিয়াম, malaja:tulium, svahila:thuri, araba: ثليوم  
 **tulpe** ** ← angla:tulip, hispana:tulipá, portugala:túlipa, nld:tulp, rusa:тюльпан (t’ul’pan), araba:توليب (tūlīb), hindia:ट्यूलिप (ṭyūlip), malaja:tulip, japana:チューリップ (chūrippu)  
 **tuna** ** ← angla:tuna, franca:thon, hispana:atún, rusa:тунец (tunec), japana:ツナ (tsuna), hindia:टूना (tuna), araba: تُونَة (tuna)  
-**tundre** *tundro* ← angla:hispana:portugala:turka:tundra, rusa:тундра (tundra), araba:تندرا‎ (tundrā), hindia:टुंड्रा (ṭuṇḍrā), japana:ツンドラ (tsundora)  
+**tundra** *tundro* ← angla:hispana:portugala:turka:tundra, rusa:тундра (tundra), araba:تندرا‎ (tundrā), hindia:टुंड्रा (ṭuṇḍrā), japana:ツンドラ (tsundora)  
 **tunel** *tunelo* ← angla:franca:tunnel, hispana:portugala:túnel, rusa:тоннель (tonnel’), turka:tünel, japana:トンネル (tonneru), 터널 (teoneol)  
 **tunge** ** ← mandarena:痛 (tòng), kantona:痛 (tung3), korea:통 (tong)  
 **tunike** *robo* ← hispana:túnica, angla:tunic, rusa:туника (tunika)  
@@ -1444,7 +1443,6 @@
 **vate** ** ← hindia:वस्तु (vastu), bengala:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), taja:วัสดุ (wạttu), birma:ဝတ္ထု (wathtu), kmera:វត្ថុ (vŏəttho) + vjetnama:vật, vua:物 (veq5), mandarena:物 (wù), kantona:物 (mat6), japana:物 (butsu)  
 **vava** *plori* ← angla:wah-wah, franca:ouin ouin, hispana:portugala:buá buá, bengala:ওয়া ওয়া (oā-oā), mandarena:哇哇 (wāwā), kantona:哇哇 (waa1waa1), vjetnama:oa oa, malaja:owe-owe  
 **vaxe** *lavi* ← angla:wash, deu:waschen, mandarena:洗 (xǐ)  
-**vei** ** ← mandarena:纬度 (wěi), korea:위 (wi), vjetnama:vĩ  
 **vei** *vosto* ← mandarena:尾 (wěi), kantona:尾 (mei5), vua:尾 (vi3), nan:尾 (bé), japana:尾 (bi)  
 **vele** ** ← angla:veil, franca:voile, hispana:velo, portugala:véu, japana:ベール (bêru), korea:베일 (beil), svahila:veli  
 **vende** ** ← angla:vend, hispana:portugala:vender, franca:vendre  

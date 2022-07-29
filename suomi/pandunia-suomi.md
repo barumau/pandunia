@@ -168,8 +168,8 @@ aria - alue (seutu)
 arabe - arabialainen  
 arake - viina  
 arane - hämähäkki  
-aranofobia - araknofobia (hämähäkkikammo)  
-aranonete - hämähäkinverkko  
+aranefobia - araknofobia (hämähäkkikammo)  
+aranenete - hämähäkinverkko  
 arbuze - vesimeloni  
 argente - hopea  
 Argentin - Argentiina  
@@ -277,7 +277,7 @@ baloton - painotus (aksentti)
 balde - sanko (ämpäri)  
 balon - ilmapallo  
 balute - tammi  
-balutopal - tammenterho  
+balutepal - tammenterho  
 bambu - bambu  
 bamia - okra  
 ban - lauta (paneeli)  
@@ -396,8 +396,8 @@ bilor - kristalli
 bine - koota (rakentaa; rakennus)  
 • konbine - panna kokoon  
 binite - tiili  
-binoplania - arkkitehtuuri  
-binoplaner - arkkitehti  
+bineplania - arkkitehtuuri  
+bineplaner - arkkitehti  
 binde - täplä (läiskä)  
 bir - olut (kalja)  
 birkan - baari (kapakka)  
@@ -733,25 +733,25 @@ dokumsanduke - kansio (hakemisto)
 dolar - dollari  
 dolfin - delfiini  
 dom - asua (asunto, koti)  
-• domane - asuttaa  
 • domike - koti- (kotoinen)  
 • domine - isännöidä (hallita, dominoida)  
 • domination - hallinta (dominointi)  
 • dominente - hallitseva  
-dominogem - dominopeli  
 • dominer - isäntä  
+• domize - asuttaa  
 domzeze - kärpänen  
 • dominia - hallinta-alue (hallintopiiri, dominio)  
 Dominiki Komunkratia - Dominikaaninen Tasavalta  
 Dominika - Dominika  
+domino - dominopeli  
 done - antaa  
 • donaje - lahja  
 • donive - antelias (avokätinen)  
 • sudone - hyväntekeväisyys (almujen anto)  
 donajoceke - lahjakortti  
 dong - itä  
-donge - itäinen  
-Dongi Timor - Itä-Timor  
+• dongike - itäinen  
+Dong Timor - Itä-Timor  
 dos - vika (synti)  
 dose - syyllinen  
 dosile - kesyttää  
@@ -773,7 +773,7 @@ du o tri - muutama (pari-kolme)
 dufene - puolittaa (jakaa kahdella)  
 dugrafe - stereoskooppinen  
 duisme - dualismi  
-duplomene - kaksimielinen (kaksimerkityksinen)  
+dupleseme - kaksimielinen (kaksimerkityksinen)  
 dusexe - biseksuaali  
 dusonike - stereofoninen  
 dua - rukoilla (anoa; rukous)  
@@ -794,11 +794,10 @@ dur - kestää (kulua, viedä aikaa; kestoaika, kesto, aika)
 • durize - kuluttaa (viettää aikaa)  
 • redure - jatkua uudestaan  
 • undure - yhtäjaksoinen  
-durometrer - sekuntikello  
-durozam - aikakausi  
+duremetrer - sekuntikello  
+durezam - aikakausi  
 dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
-duse - paha (epäsuotuisa, epämiellyttävä, vastustava)  
-dusi zar - epäonni  
+dus zar - epäonni  
 • posprodute - jälkituotanto  
 duxe - suihku  
 
@@ -987,7 +986,7 @@ fone - äänne (fooni)
 • fonolojia - fonologia (äänneoppi)  
 fonomime - onomatopoeia (ääntä jäljittelevä sana)  
 fonte - lähde (kaivo)  
-fontokalam - mustekynä  
+fontekalam - mustekynä  
 fore - porata  
 forke - haarukka  
 forme - muoto (muotoilla, muovata)  
@@ -1083,6 +1082,7 @@ ganputau - rusina
 gantexe - pyyheliina  
 Gana - Ghana  
 gana - ruoko  
+ganakalam - ruokokynä  
 gande - haju  
 gande - haistaa  
 Ganda - Uganda  
@@ -1195,7 +1195,7 @@ gone - kulma (nurkka)
 • poligone - monikulmio (polygoni)  
 • tragone - diagonaalinen (lävistävä)  
 gonometrer - kulmamitta (goniometri)  
-gorile - gorilla  
+gorila - gorilla  
 goro - sika (possu)  
 goromanse - sianliha  
 goton - puuvilla  
@@ -1373,7 +1373,7 @@ Honduras - Honduras
 Hong Gong - Hong Kong  
 hor - tunti  
 horloger - kello (ajannäyttäjä)  
-horlogotore - kellotorni  
+horlogetore - kellotorni  
 hormon - hormoni  
 Horvatia - Kroatia  
 hotel - hotelli  
@@ -2685,6 +2685,9 @@ pele - ajaa
 • repele - ajaa takaisin  
 pelmen - myky (pelmeni, ravioli)  
 pelpel - perhonen  
+pena - sulka  
+• depena - kyniä  
+penakalam - sulkakynä  
 pende - riippua (roikkua)  
 pende - roikuttaa  
 • pendaje - riipus  
@@ -2698,7 +2701,6 @@ pente - maalata
 pentobrox - pensseli (sivellin)  
 pentofase - viisitahokas (prisma)  
 pentogone - viisikulmio  
-pere - sulka  
 perde - pieru (pierrä, pieraista)  
 peresa - laiskiainen  
 Peru - Peru  
@@ -3262,8 +3264,8 @@ stibium - antimoni
 strontium - strontium  
 strute - rakennus  
 • struture - rakenne  
+• bazestruture - infrastruktuuri (perusrakenteet)  
 • destrute - tuhota  
-• infrostruture - infrastruktuuri (perusrakenteet)  
 • konstrute - rakentaa  
 • konstrution - rakentaminen  
 stude - opiskella (tutkia; tutkielma)  
@@ -3428,7 +3430,7 @@ tibe - hoitaa (lääkitä)
 • tibaje - lääke  
 • tibike - lääke-  
 • tibive - parantava  
-• tibolojia - lääketiede  
+• tibelojia - lääketiede  
 • tiber - lääkäri (tohtori)  
 ticin - jousisoitin  
 tike - suikale (siivu)  
@@ -3436,7 +3438,7 @@ tike - suikale (siivu)
 • retrotikete - menopaluulippu  
 tim - joukkue (tiimi)  
 Timor - Timor  
-• tipolojia - typologia  
+• tipelojia - typologia  
 tire - vetää (kiskoa)  
 tire milke - lypsää maitoa  
 tirsanduke - vetolaatikko  
@@ -3444,7 +3446,7 @@ titanium - titaani
 tix - hiljaa (hys, shhh)  
 • tixe - hiljainen  
 • tixia - hiljaisuus  
-tiz: - terävä (kimeä, nokkela, napakka, jne)  
+tize - terävä (kimeä, nokkela, napakka, jne)  
 Togo - Togo  
 tolere - sallia  
 tome - jakaa (leikata)  
@@ -3510,8 +3512,8 @@ tul - työkalu
 tulium - tulium  
 tulpe - tulppaani  
 tuna - tonnikala  
-tundre - tundra  
-tundromonte - tunturi  
+tundra - tundra  
+tundramonte - tunturi  
 tunel - tunneli  
 tuneltren - metrojuna (maanalainen)  
 tunge - kipu (kärsimys, tuska)  
@@ -3521,11 +3523,11 @@ tupe - lakki (hattu)
 turbe - kieppua (sekoittaa; häiritä)  
 • turbin - turbiini  
 • disturbe - hämmentää (sekoittaa; hämmennys, turbulenssi)  
-turbojeter - suihkumoottori (suihkuturbiini)  
+turbejeter - suihkumoottori (suihkuturbiini)  
 turfe - turve  
 turke - turkkilainen  
 Turkia - Turkki  
-Turkomenia - Turkmenistan  
+Turkemenia - Turkmenistan  
 Tuvalu - Tuvalu  
 tuze - jänis  
 
@@ -3541,7 +3543,7 @@ un - yksi (1)
 • una - yhdistää  
 • unia - liitto (unioni)  
 • unike - ainoa (ainut)  
-• uniko - ainoastaan (vain)  
+• unike - ainoastaan (vain)  
 • unime - ensimmäinen (numero yksi)  
 • unite - yhtenäinen  
 Unite Arabe Amiria (UAA) - Yhdistyneet Arabiemiirikunnat  
@@ -3582,7 +3584,7 @@ Vanuatu - Vanuatu
 vare - monenlainen  
 varis - perintö  
 varke - lehti (arkki, levy)  
-varkolate - sivu (kirjassa)  
+varkelate - sivu (kirjassa)  
 vase - keidas  
 vate - esine (tavara)  
 vat - watti  
@@ -3590,10 +3592,9 @@ Vatikan - Vatikaanivaltio
 vava - itkeä  
 vava bebe - itkupilli  
 vaxe - pestä  
-vaxomaxin - pesukone  
+vaxemaxin - pesukone  
 Vaxington DC - Washington DC  
 vei - häntä  
-vei - poikittainen (vaaka)  
 veilin - kude  
 vele - verho (peite)  
 • devele - paljastaa  
@@ -3605,12 +3606,12 @@ vele - verho (peite)
 • pervene - tulla perille  
 • prevene - olla edessä (olla haittona)  
 • revene - tulla takaisin  
-vendoxope - käydä kauppaa (kaupankäynti)  
+vendexope - käydä kauppaa (kaupankäynti)  
 Venezuela - Venezuela  
 ventur - seikkailu  
 venturer - seikkailija  
 Venzou - Wenzhou  
-venzovorange - satsuma  
+Venzou oranje - satsuma  
 vere - tosi (aito)  
 • verife - toteuttaa  
 • provere - todistaa  
@@ -3632,10 +3633,10 @@ veruke - syylä
 vespe - mehiläinen tai ampiainen  
 veste - länsi  
 veze - painava  
+veze - painaa (olla jkn painoinen)  
 vezia - paino  
-vezu - painaa (olla jkn painoinen)  
 veze metal - raskasmetalli  
-vezometrer - vaaka (puntari)  
+vezemetrer - vaaka (puntari)  
 vide - nähdä  
 • vidaje - näkymä  
 • vidion - näkö (näkeminen)  
@@ -3647,7 +3648,7 @@ vide - nähdä
 • rivide - tarkastaa uudelleen  
 • suvide - hyvännäköinen (kaunis, komea)  
 • antravidebil - läpinäkymätön  
-vidomeden - näkökenttä  
+videmeden - näkökenttä  
 vidou - leski  
 viete - vietnamilainen  
 Vietia - Vietnam  
@@ -3762,7 +3763,7 @@ xivite - sorakivi
 xiusite - pikkukaupunki  
 Xiva - Šiva  
 xix - varras  
-xixomanse - saslik  
+xixmanse - saslik  
 xofe - ajaa (kuskata)  
 • xofer - kuski (ajuri, ajaja)  
 xoke - isku (šokki)  

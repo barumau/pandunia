@@ -287,7 +287,7 @@
 **dokum** *dokument* ← eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman  
 **dolfin** *delfin* ← ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)  
 **dom** *mieszkać (mieszkanie, dom)* ← rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico  
-**dominogem** *domino* ← eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)  
+**domino** *domino* ← eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)  
 **done** *dać, dawać* ← fra:donner, eng:donate, spa:por:donar  
 **dong** *wschód* ← zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu  
 **dos** *wina, grzech; defekt, wada* ← may:dosa, hin:दोष (doś), tha:โทษ (toot(sa))  
@@ -309,7 +309,6 @@
 **dunia** *świat* ← ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), ben:দুনিয়া (duniya), may:swa:dunia, tur:dünya, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya  
 **dur** *trwać (zająć czas; przez; trwanie)* ← eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)  
 **dus** ** ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
-**duse** ** ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
 **duxe** *prysznic* ← fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş  
 **e** *być* ← fra:est (ɛ), por:é, fas: است (ast/e), hin:है (ɦɛ:), ita:è, ukr:є (ye) + tgl:ay (ay/e)  
 **eglis** *kościół* ← eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise  
@@ -456,7 +455,7 @@
 **golem** *golem* ← heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)  
 **gom** *guma* ← fra:gomme, spa:tgl:goma, jpn:ゴム (gomu), kor:고무 (gomu) + eng:gum + hin:गम (gam), ben:গাম (gam)  
 **gone** *kąt* ← eng:corner, fra:-gone, spa:por:-gono, hin:कोण (koṇ), tel:(kōnamu), swa:kona, hau:kwana  
-**gorile** *goryl* ← eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)  
+**gorila** *goryl* ← eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)  
 **goro** *świnia* ← swa:guruwe zul:ingulube, kon:ngulu spa:guarro, gorrino, jpn:(gorogoro) eng:grunt  
 **goton** *bawełna* ← ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton  
 **grafe** *opis (rzedstawienie; wykres; obrazowy, graficzny)* ← eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)  
@@ -609,7 +608,7 @@
 **kai** *otwarty (otworzyć, otwierać)* ← zho:开 (kāi), wuu:開 (khe1), jpn:開 (kai), kor:개 (gae), vie:khai, tha:ไข (kǎi), lao:ໄຂ (khai)  
 **kaka** *ekskrement (gówno; defekować, srać)* ← spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)  
 **kakau** *kakao* ← por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, rus:какао (kakao), jpn:カカオ (kakao), zho:可可 (kěkě), vie:cacao, swa:kakao  
-**kalam** *pióro, długopis* ← ara:fas:urd:(qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo  
+**kalam** *pióro, długopis* ← ara:fas:urd: قلم‎ (qalam), hau:alƙalami, yor:swa:kalamu, tur:kalem, hin:क़लम (qalam), ben:কলম (kôlôm), spa:por:cálamo  
 **kale** *pusty* ← ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī), tam:(kali), urd:(xālī), fas:خالی (xāli), ara:خَالٍ‎ (xāliy), jpn:空 (kara)  
 **kalende** *kalendarz* ← eng:calendar, fra:calendrier, spa:por:calendario, rus:календарь (kalendar’), deu:may:kalender, jpn:カレンダー (karendā), kor:카렌더 (karendeo), hin:कैलेण्डर (kaileṇḍar), swa:kalenda  
 **kali** ** ← ara: قلي (qily), swa:-kali + eng:alkali, fra:alcali, spa:por:álcali, jpn:アルカリ (arukari), kor:알칼리 (alkalli), may:alkali  
@@ -1072,13 +1071,13 @@
 **pei** *zapłata, opłata* ← eng:pay, fra:paye, + zho:费 (fèi)  
 **pelmen** *kluska, knedel, pieróg; ravioli, pelmeni* ← rus:пельмень (pel'men'), pol:pielmeni, eng:pelmeni  
 **pelpel** *motyl* ← por:borboleta, fra:papillon, ita:farfalla, bul:пеперуда (peperuda), kat:პეპელა (ṗeṗela), heb:פַּרְפַּר (parpar), swa:kipepeo, yor:labalábá, tgl:paruparo  
+**pena** *pióro* ← por:pena, fas: پر‎ (par), hin:पर (par), rus:перо (pero) + jpn:ペン (pen), kor:펜 (pen), tam:பேனா (pēṉā)  
 **pende** *powiesić, wieszać* ← eng:pendant, por:fra:pender  
 **pende** *powiesić, wieszać* ← por:fra:pender + eng:pendant, jpn:ペンダント (pendanto), kor:펜던트 (pendeonteu), tur:pandantif  
 **penis** *penis* ← eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)  
 **pente** *namalować, malować* ← eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)  
 **pente** *pięć (5)* ← fas: پنج‎ (panj), rus:пять (pyat'), hin:पाँच (pā̃c), ben:পাঁচ (pãcô) + ell:πέντε (pente), eng:fra:spa:por:penta-  
 **perde** *pierdnięcie (pierdzieć)* ← eng:fart + fra:pet, spa:pedo, por:peido, rus:пердение (perdeniye), ben:পাদ (pad), hin:पाद (pād)  
-**pere** *pióro* ← hin:पर (par), rus:перо (pero)  
 **peresa** ** ← fra:paresseux, spa:perezoso  
 **peta** ** ← eng:fra:spa:por:may:tur:peta-, rus:пета- (peta-), jpn:ペタ (peta), kor:페타- (peta-), zho:拍它- (pāitā-)  
 **pete** *brzuch* ← ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)  
@@ -1382,7 +1381,7 @@
 **tire** *ciągnąć* ← spa:por:tirar, fra:tirer, eng:tear, tur:tire  
 **titanium** *tytan* ← eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم  
 **tix** *ćsi* ← rus:тишина (tišina) + eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus  
-**tiz:** *intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)* ← fas: تیز (tiz), hin:तेज़ (tez), tur:tez  
+**tize** *intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)* ← fas: تیز (tiz), hin:तेज़ (tez), tur:tez  
 **tolere** *tolerować* ← eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren  
 **tomato** *pomidor* ← eng:tomato, fra:por:spa:tomate, deu:Tomate, rus:томат (tomat), jpn:トマト (tomato), kor:토마토 (tomato), hin:टमाटर (ṭamāṭar), ben:টম্যাটো (ṭamyāṭo), may:tomat, tur:domates  
 **tone** *ton, dźwięk, nuta, tonacja* ← eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono  
@@ -1409,7 +1408,7 @@
 **tulium** *tul* ← eng:thulium, fra:thulium, spa:tulio, por:túlio, rus:тулий, zho:铥 (diū), jpn:ツリウム, kor:툴륨, vie:tuli, hin:थुलियम, ben:থুলিয়াম, may:tulium, swa:thuri, ara: ثليوم  
 **tulpe** *tulipan* ← eng:tulip, spa:tulipá, por:túlipa, nld:tulp, rus:тюльпан (t’ul’pan), ara:توليب (tūlīb), hin:ट्यूलिप (ṭyūlip), may:tulip, jpn:チューリップ (chūrippu)  
 **tuna** ** ← eng:tuna, fra:thon, spa:atún, rus:тунец (tunec), jpn:ツナ (tsuna), hin:टूना (tuna), ara: تُونَة (tuna)  
-**tundre** *tundra* ← eng:spa:por:tur:tundra, rus:тундра (tundra), ara:تندرا‎ (tundrā), hin:टुंड्रा (ṭuṇḍrā), jpn:ツンドラ (tsundora)  
+**tundra** *tundra* ← eng:spa:por:tur:tundra, rus:тундра (tundra), ara:تندرا‎ (tundrā), hin:टुंड्रा (ṭuṇḍrā), jpn:ツンドラ (tsundora)  
 **tunel** *tunel* ← eng:fra:tunnel, spa:por:túnel, rus:тоннель (tonnel’), tur:tünel, jpn:トンネル (tonneru), 터널 (teoneol)  
 **tunge** *ból (cierpienie; cierpieć)* ← zho:痛 (tòng), yue:痛 (tung3), kor:통 (tong)  
 **tunike** *tunika, toga* ← spa:túnica, eng:tunic, rus:туника (tunika)  
@@ -1444,7 +1443,6 @@
 **vate** *przedmiot (obiekt)* ← hin:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu), mya:ဝတ္ထု (wathtu), khm:វត្ថុ (vŏəttho) + vie:vật, wuu:物 (veq5), zho:物 (wù), yue:物 (mat6), jpn:物 (butsu)  
 **vava** *płakać, łkać* ← eng:wah-wah, fra:ouin ouin, spa:por:buá buá, ben:ওয়া ওয়া (oā-oā), zho:哇哇 (wāwā), yue:哇哇 (waa1waa1), vie:oa oa, may:owe-owe  
 **vaxe** *prać, umyć, myć* ← eng:wash, deu:waschen, zho:洗 (xǐ)  
-**vei** ** ← zho:纬度 (wěi), kor:위 (wi), vie:vĩ  
 **vei** *ogon* ← zho:尾 (wěi), yue:尾 (mei5), wuu:尾 (vi3), nan:尾 (bé), jpn:尾 (bi)  
 **vele** ** ← eng:veil, fra:voile, spa:velo, por:véu, jpn:ベール (bêru), kor:베일 (beil), swa:veli  
 **vende** *sprzedać (sprzedawać)* ← eng:vend, spa:por:vender, fra:vendre  

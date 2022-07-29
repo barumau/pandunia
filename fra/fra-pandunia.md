@@ -116,15 +116,15 @@ approcher - aproxe
 approprié (adapté, convenable, opportun) - hape  
 après-guerre - posgere  
 arabe - arabe  
-arachnophobie - aranofobia  
+arachnophobie - aranefobia  
 araignée - arane  
 arboretum, pépinière - mokozongoparke  
 arbre - moke  
 arc - arke  
 arc-en-ciel - rangarke  
 archer - arker  
-architecte - binoplaner  
-architecture - binoplania  
+architecte - bineplaner  
+architecture - bineplania  
 arctique - Artike  
 argent - argente  
 argent - mone  
@@ -207,7 +207,7 @@ baie (golf) - haisake
 baie - beri  
 bain (bagner) - banya  
 baisser - dipife  
-balance (poids) - vezometrer  
+balance (poids) - vezemetrer  
 balcon - beranda  
 balle (boule) - bol  
 ballon - balon  
@@ -319,6 +319,7 @@ café - kafe
 café - kafekan  
 cage - batonkase  
 caillou - xivite  
+calame - ganakalam  
 calcaire - kalsepetre  
 calcite - kalsite  
 calcium - kalsium  
@@ -365,7 +366,7 @@ Centaurée bleuet - nilcentaur
 Centaurée du solstice - solocentaur  
 centre - zung  
 cerise - cerize  
-chachlik - xixomanse  
+chachlik - xixmanse  
 chambre à coucher - somokamar  
 Champagne - xampan  
 champagne - xampan vin  
@@ -400,7 +401,7 @@ chocolat - coklate
 chose - xe  
 chrome - kromium  
 chronique - durike  
-chronomètre - durometrer  
+chronomètre - duremetrer  
 chut - tix  
 chèque - ceke  
 chèque cadeau - donajoceke  
@@ -415,7 +416,7 @@ cime (pic, sommet) - pike
 cimetière - gabrostan  
 cinq (5) - pente  
 cinéphile - kinofilike  
-cirse commun - perokardon  
+cirse commun - penakardon  
 citron - limon  
 citronnade - limon jus  
 citrouille - kaboge  
@@ -434,7 +435,7 @@ colorant - rangomate
 combava - karsolimon  
 comique - komi  
 comment - ke mode  
-commercer - vendoxope  
+commercer - vendexope  
 commission (comité) - konmisia  
 comparer - konpare  
 compassion - samemote  
@@ -757,14 +758,14 @@ germanium - germanium
 gingembre - jenje  
 giraffe - jiraf  
 glace (glacé, glacial, gelé) - ais  
-gland - balutopal  
+gland - balutepal  
 glaçure (email) - glasize  
 glisser - glise  
 glotte - sonomun  
 gnosticisme - nosisme  
 gnostique - nosiste  
 gombo - bamia  
-gorille - gorile  
+gorille - gorila  
 goule - gulgui  
 gouvernement - polite  
 grand-mère - cinma  
@@ -1047,7 +1048,7 @@ maman - ma
 manche - kamisi xake  
 mandarin - cina manter  
 mandarine - laloranje  
-mandarine satsuma - venzovorange  
+mandarine satsuma - Venzou oranje  
 manganèse - mangan  
 manichéisme - maniisme  
 mantra - mantra  
@@ -1265,7 +1266,7 @@ où - a ke
 ## P  
 
 pacifiste - paciste  
-page - varkolate  
+page - varkelate  
 pain - pang  
 pair (pareil, egal) - pare  
 paix - pace  
@@ -1331,7 +1332,7 @@ perroquet - papagai
 personne - jen  
 perturber (turbulence) - disturbe  
 pervers - perverse  
-peser - vezu  
+peser - veze  
 pet (vesse; péter) - perde  
 petit - xiu  
 peu - kam  
@@ -1373,6 +1374,9 @@ pleurnicheur (pleurnichard) - vava bebe
 plomb - plumbe  
 pluie - barxe  
 plume - kalam  
+plume - pena  
+plume - penakalam  
+plumer - depena  
 plurilingue (multilingue) - polibaxike  
 plus - max  
 plutonium - plutonium  
@@ -1544,7 +1548,7 @@ rouge - lale
 ruban (bande) - tepe  
 rubidium - rubidium  
 rubis - lalobavite  
-ruche (nid d'abeille) - vesponide  
+ruche (nid d'abeille) - vespenide  
 rupture - ruture  
 ruse - truke  
 russe - ruse  
@@ -1673,7 +1677,7 @@ spiritueux - arake
 sport - sporte  
 squelette - ostogamia  
 strontium - strontium  
-stylo-plume - fontokalam  
+stylo-plume - fontekalam  
 substance - kime  
 sucre - sukar  
 sud - sude  
@@ -1749,7 +1753,7 @@ tirer - tire milke
 tissu - texe  
 titane - titanium  
 titre - temnam  
-toile d'araignée - aranonete  
+toile d'araignée - aranenete  
 tomate - tomato  
 tombe (enterrer) - gabre  
 tomographie - tomografia  
@@ -1800,7 +1804,7 @@ tungstène - volfram
 Tunisie - Tunisia  
 turban - pagre  
 turbine - turbin  
-turboréacteur - turbojeter  
+turboréacteur - turbejeter  
 télescope (lunette) - teleskope  
 télécharger - netekape  
 téléphone - telefon  
@@ -1814,7 +1818,7 @@ tête - sar
 
 un (1) - un  
 une fois - unomaro  
-uniquement - uniko  
+uniquement - unike  
 universel - unoverse  
 uranium - uranium  
 Uranus - Uran  
@@ -1956,7 +1960,6 @@ zèbre - zebra
 étain - stanium  
 état - hal  
 éternuer (atchoum) - aci  
-étinceler - xingofote  
 étoile - xing  
 étude - studaje  
 étude - studia  

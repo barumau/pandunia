@@ -182,11 +182,11 @@ Apsua - Abkhazia
 ar - area (extent of surface)  
 aria - area (region)  
 arabe - Arabic  
-arabobabul - babul tree (thorny acacia)  
+arabebabul - babul tree (thorny acacia)  
 arake - liquor  
 arane - spider  
-aranofobia - arachnophobia  
-aranonete - spiderweb (cobweb)  
+aranefobia - arachnophobia  
+aranenete - spiderweb (cobweb)  
 arbuze - watermelon  
 Arcah - Artsakh  
 argente - silver  
@@ -309,7 +309,7 @@ balde - bucket
 balon - balloon  
 balonpes - pufferfish  
 balute - oak tree  
-balutopal - acorn  
+balutepal - acorn  
 bambu - bamboo  
 bamia - okra (okro)  
 ban - board (pane, panel)  
@@ -435,8 +435,8 @@ bilor - crystal
 bine - build (building)  
 • konbine - combine  
 binite - brick  
-binoplania - architecture  
-binoplaner - architect  
+bineplania - architecture  
+bineplaner - architect  
 binde - dot (spot)  
 bir - beer  
 birkan - bar (pub, beer house)  
@@ -452,7 +452,7 @@ blabla - chat (babble)
 blablakan - chat room  
 bloge - blog (web log)  
 boi - float (buoy, bobber)  
-boipuntonumbe - floating point number  
+boipuntenumbe - floating point number  
 boikote - boycott  
 boing - bounce  
 boka - mouth  
@@ -799,26 +799,26 @@ dokumsanduke - folder (directory)
 dolar - dollar  
 dolfin - dolphin  
 dom - home (house, residence; reside, live in, inhabit)  
-• domane - accommodate  
 • domike - domestic  
 • domine - dominate  
 • domination - domination (dominion)  
 • dominente - dominant  
-dominogem - dominoes  
 • dominer - dominator  
+• domize - accommodate  
 domzeze - housefly  
 • dominia - domain (dominion)  
 Dominiki Komunkratia - Dominican Republic  
 Dominika - Dominica  
+domino - dominoes  
 done - give  
 • donaje - gift (present)  
 • donive - generous (open-handed)  
 • sudone - charity (alms)  
 donajoceke - gift certificate (gift card)  
 dong - east (orient)  
-donge - eastern  
-Dongi Timor - East Timor (Timor-Leste)  
-dongogoril - eastern gorilla  
+• dongike - eastern  
+Dong Timor - East Timor (Timor-Leste)  
+donggorila - eastern gorilla  
 dos - fault (sin, blame, defect, guilt)  
 dose - guilty  
 dosile - tame (train)  
@@ -843,7 +843,7 @@ du o tri - a couple of
 dufene - halve (divide by two)  
 dugrafe - anaglyphic (stereoscopic)  
 duisme - dualism  
-duplomene - double entendre  
+dupleseme - double entendre  
 duromanse - biromantic  
 dusexe - bisexual  
 dusonike - stereophonic  
@@ -865,11 +865,10 @@ dur - last (take time; elapse, pass by, go by; during; duration, time interval)
 • durize - pass (spend time, put time into)  
 • redure - continue (resume)  
 • undure - continuous (analog)  
-durometrer - stopwatch  
-durozam - period (era, epoch, term)  
+duremetrer - stopwatch  
+durezam - period (era, epoch, term)  
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
-duse - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
-dusi zar - misfortune (bad luck)  
+dus zar - misfortune (bad luck)  
 dute - lead (bring to)  
 • dedute - deduce (lead from)  
 • dedution - deduction  
@@ -1097,7 +1096,7 @@ fone - phone (speech sound)
 • sinfone - symphony  
 fonomime - onomatopoeia  
 fonte - fountain (spring, well)  
-fontokalam - fountain pen  
+fontekalam - fountain pen  
 fore - drill (bore, perforate)  
 forke - fork  
 forme - form (shape)  
@@ -1218,6 +1217,7 @@ ganputau - raisin
 gantexe - towel  
 Gana - Ghana  
 gana - reed (cane)  
+ganakalam - reed pen  
 gande - scent (odor, fragrance, aroma)  
 gande - smell (sniff)  
 Ganda - Uganda  
@@ -1349,7 +1349,7 @@ gone - corner (angle)
 • poligone - polygon  
 • tragone - diagonal  
 gonometrer - goniometer  
-gorile - gorilla  
+gorila - gorilla  
 goro - pig  
 goromanse - pork  
 goton - cotton  
@@ -1554,7 +1554,7 @@ Honduras - Honduras
 Hong Gong - Hong Kong, SAR China  
 hor - hour  
 horloger - clock (watch)  
-horlogotore - clocktower  
+horlogetore - clocktower  
 hormon - hormone  
 Horvatia - Croatia  
 hotel - hotel  
@@ -3087,6 +3087,10 @@ pele - drive
 • repele - repel (drive back)  
 pelmen - dumpling (ravioli, pelmeni)  
 pelpel - butterfly (moth)  
+pena - feather  
+• depena - pluck feathers  
+penakalam - quill  
+penakardon - spear thistle  
 pende - hang (dangle)  
 pende - hang (dangle)  
 • pendaje - pendant  
@@ -3101,8 +3105,6 @@ pente - paint (cover in paint)
 pentobrox - paintbrush  
 pentofase - pentahedron (prism)  
 pentogone - pentagon  
-pere - feather  
-perokardon - spear thistle  
 perde - fart (flatulence)  
 peresa - sloth (slow-moving mammal)  
 Peru - Peru  
@@ -3765,9 +3767,9 @@ stibium - antimony
 strontium - strontium  
 strute - building  
 • struture - structure  
+• bazestruture - infrastructure    
 • destrute - destroy (destruct)  
 • instrute - build in (instruct)  
-• infrostruture - infrastructure    
 • konstrute - construct (build)  
 • konstrution - construction  
 stude - study (work in order to practise or demonstrate)  
@@ -3968,7 +3970,7 @@ tibe - heal (cure, remedy)
 • tibaje - medicine (drug, medication)  
 • tibike - medical  
 • tibive - healing  
-• tibolojia - medicine (field of study)  
+• tibelojia - medicine (field of study)  
 • tiber - doctor (physician, healer)  
 tibesui - potion  
 ticin - bow instrument (violin, etc.)  
@@ -3978,7 +3980,7 @@ tike - slice
 tim - team  
 Timor - Timor  
 tipe - type (kind, genre)  
-• tipolojia - typology  
+• tipelojia - typology  
 tire - pull (draw, drag)  
 tire milke - milk (draw milk)  
 tire pil - strip (peel)  
@@ -3992,7 +3994,7 @@ titanium - titanium
 tix - hush (shh)  
 • tixe - silent (quiet)  
 • tixia - silence  
-tiz: - sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)  
+tize - sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)  
 • tizife - intensify  
 Togo - Togo  
 Tokyo - Tokyo  
@@ -4066,8 +4068,8 @@ tul - tool
 tulium - thulium  
 tulpe - tulip  
 tuna - tuna  
-tundre - tundra  
-tundromonte - fell  
+tundra - tundra  
+tundramonte - fell  
 tunel - tunnel  
 tuneltren - subway (metro)  
 tunge - hurt (pain; suffer)  
@@ -4077,11 +4079,11 @@ tupe - hat (cap)
 turbe - whirl (dizz; disorientate, trouble, disturb, bother, annoy)  
 • turbin - turbine  
 • disturbe - disturb (disturbance, turbulence)  
-turbojeter - turbojet  
+turbejeter - turbojet  
 turfe - peat  
 turke - Turkish  
 Turkia - Turkey  
-Turkomenia - Turkmenistan  
+Turkemenia - Turkmenistan  
 Tuvalu - Tuvalu  
 tuze - rabbit (hare)  
 
@@ -4097,7 +4099,7 @@ un - one (1)
 • una - unite  
 • unia - union  
 • unike - only (single, sole, lone)  
-• uniko - only (solely, just)  
+• unike - only (solely, just)  
 • unime - first (number one)  
 • unite - united  
 Unite Arabe Amiria (UAA) - United Arab Emirates  
@@ -4147,7 +4149,7 @@ vare - various (diverse, miscellaneous)
 varis - heritage (legacy, bequest)  
 varke - leaf (sheet)  
 varkalge - kelp  
-varkolate - page (side of a leaf of a book)  
+varkelate - page (side of a leaf of a book)  
 vase - oasis  
 vate - thing (object, item, matter)  
 vat - watt  
@@ -4155,10 +4157,9 @@ Vatikan - Holy See (Vatican City State)
 vava - weep (cry)  
 vava bebe - crybaby  
 vaxe - wash  
-vaxomaxin - washing machine  
+vaxemaxin - washing machine  
 Vaxington DC - Washington DC  
 vei - tail  
-vei - traverse (horizontal)  
 veilin - weft  
 vele - veil  
 • devele - unveil (reveal, uncover)  
@@ -4175,14 +4176,14 @@ ven - come
 • revene - come back (return)  
 • subvene - subvene  
 vende - sell (vend)  
-vendoxope - trade (buy and sell; commerce)  
-vendoxoper - trader (merchant)  
+vendexope - trade (buy and sell; commerce)  
+vendexoper - trader (merchant)  
 Venezuela - Venezuela  
 ventur - adventure (venture)  
 venturer - adventurer  
 Venus - Venus  
 Venzou - Wenzhou  
-venzovorange - satsuma mandarin  
+Venzou oranje - satsuma mandarin  
 vere - true (real, genuine)  
 • verife - verify (realize)  
 • provere - prove (verify, authenticate)  
@@ -4202,18 +4203,18 @@ verse - turn toward (direct, flip; versus)
 • unoverse - universal  
 veruke - wart (verruca)  
 vespe - bee or wasp  
-vesponide - bee nest (beehive, wasp's nest)  
+vespenide - bee nest (beehive, wasp's nest)  
 veste - west (western)  
-vestogoril - western gorilla  
+vestegorila - western gorilla  
 veze - heavy  
+veze - weigh (have weight)  
 vezia - weight (heft, gravity)  
-vezu - weigh (have weight)  
 veze metal - heavy metal  
-vezometrer - scales (weighing device)  
+vezemetrer - scales (weighing device)  
 vide - look (see; view, vision)  
 • vidaje - view  
 • vidion - vision (sight)  
-vidopunte - perspective (point of view)  
+videpunte - perspective (point of view)  
 • vider - spectator (sightseer)  
 • dusvide - ugly (unsightly)  
 • exvide - evident (apparent, obvious)  
@@ -4224,7 +4225,7 @@ vidopunte - perspective (point of view)
 • rivide - revise (look over again)  
 • suvide - beautiful (handsome, good-looking)  
 • antravidebil - opaque (not transparent)  
-vidomeden - visual field (field of vision)  
+videmeden - visual field (field of vision)  
 vidou - widow  
 viete - Vietnamese (Viet)  
 Vietia - Viet Nam  
@@ -4334,7 +4335,6 @@ xin - belief (faith, creed)
 xine - believe  
 xindavisme - Shintoism  
 xing - star  
-xingofote - twinkle (sparkle)  
 xipe - wet  
 • xipete - humid (damp, moist)  
 • perxipe - soak (drench)  
@@ -4354,7 +4354,7 @@ xiusite - small town
 Xiva - Shiva  
 xixe - impale (stab, skewer)  
 xix - skewer  
-xixomanse - shashlik  
+xixmanse - shashlik  
 xofe - drive (steer)  
 • xofer - chauffeur (driver)  
 xoke - shock (collision)  

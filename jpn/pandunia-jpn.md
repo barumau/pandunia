@@ -100,7 +100,7 @@ bakusalmon - シロザケ
 balde - バケツ  
 balonpes - フグ  
 balute - ナラ  
-balutopal - ドングリ  
+balutepal - ドングリ  
 bambu - 竹  
 bamia - オクラ  
 ban - 板  
@@ -151,14 +151,14 @@ bil - ありうる
 bilor - 結晶  
 bine - 建てる  
 binite - レンガ (磚)  
-binoplania - 建築学  
-binoplaner - 建築家  
+bineplania - 建築学  
+bineplaner - 建築家  
 bir - ビール  
 bismute - ビスマス  
 bison - 野牛 (バイソン)  
 biznes - 業務 (営業, ビジネス)  
 boi - フロート (ブイ)  
-boipuntonumbe - 浮動小数点数  
+boipuntenumbe - 浮動小数点数  
 bokacate - 口蓋 (上顎)  
 bokse - ボクシング (拳闘)  
 bokser - ボクサー (拳闘家)  
@@ -292,7 +292,7 @@ dom - 家 (住む (居住する)
 Dominiki Komunkratia - ドミニカ共和国  
 done - あげる (くれる)  
 dong - 東  
-dongogoril - ヒガシゴリラ  
+donggorila - ヒガシゴリラ  
 dosile - 馴らす  
 dosile - 温順 (素直)  
 dosilgene - 家畜  
@@ -307,10 +307,9 @@ dungia aventur - ダンジョンアドベンチャー
 • durebil - 持続的  
 • redure - 再開する  
 • undure - アナログ  
-durometrer - ストップウオッチ  
-durozam - 時代 (年代)  
+duremetrer - ストップウオッチ  
+durezam - 時代 (年代)  
 dus - 難しい  
-duse - 難しい  
 duxe - シャワー  
 
 ## E  
@@ -458,7 +457,7 @@ gogia - 国 (国家)
 gol - 目的 (行き先, ゴール)  
 gom - ゴム (消しゴム)  
 • tragone - 筋交い (対角)  
-gorile - ゴリラ  
+gorila - ゴリラ  
 • grafeme - 画素 (ピクセル)  
 grafokarde - グラフィックカード  
 grafoprocese - 画像処理  
@@ -1056,13 +1055,14 @@ peikari jive - キャリア
 peikarer - プロフェッショナル  
 • propelor - プロペラ (推進器)  
 pelpel - チョウ  
+penakalam - 羽根ペン  
+penakardon - アメリカオニアザミ  
 • pendaje - ペンダント  
 pente - 五 (5)  
 pente - 絵の具 (ペンキ)  
 • penter - 画家 (絵かき)  
 pentobrox - 絵筆  
 pentogone - 五角形  
-perokardon - アメリカオニアザミ  
 perde - 屁  
 • petrolojia - 岩石学  
 petrolipe - 石油  
@@ -1383,7 +1383,7 @@ tuna - 鮪 (ツナ)
 tunge - 痛み  
 turbe - 悩む (わざわざする)  
 • turbin - タービン  
-turbojeter - ターボジェットエンジン  
+turbejeter - ターボジェットエンジン  
 turfe - 泥炭  
 tuze - うさぎ  
 
@@ -1393,7 +1393,7 @@ ude - 度
 umame - 旨味  
 un - 一 (1)  
 • unike - 唯一の  
-• uniko - だけ  
+• unike - だけ  
 uranium - ウラン  
 • uzebil - 使用可能  
 va - わあ  
@@ -1410,13 +1410,13 @@ van: - 森 (森林)
 vanadium - バナジウム  
 vare - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 varkalge - コンブ  
-varkolate - ページ (面)  
+varkelate - ページ (面)  
 vate - 物 (品)  
 vei - 尾 (尾翼)  
 veilin - 横糸  
 vende - 売る  
-vendoxope - 売買する (交易, 売買)  
-venzovorange - ウンシュウミカン  
+vendexope - 売買する (交易, 売買)  
+Venzou oranje - ウンシュウミカン  
 • verife - ただす  
 verme - 蠕虫  
 • exverse - 外向的な  
@@ -1425,10 +1425,10 @@ verme - 蠕虫
 • reverse - 逆らう  
 veruke - 疣  
 vespe - 蜂  
-vesponide - 蜂の巣  
+vespenide - 蜂の巣  
 veste - 西  
-vestogoril - ニシゴリラ  
-vidopunte - 遠近法 (見通し, 観点)  
+vestegorila - ニシゴリラ  
+videpunte - 遠近法 (見通し, 観点)  
 • vider - 見物人  
 • dusvide - 見苦しい  
 • provide - 待ち受ける (見込む)  
@@ -1468,7 +1468,6 @@ xibai - 失敗 (負け)
 xibai - 負ける  
 • dexibai - 失う (無くす, 落とす)  
 xim - 心  
-xingofote - ピカピカ光る (きらきらする)  
 xipe - 湿っぽい (濡らす)  
 xipostan - 湿地  
 xir - 詩  

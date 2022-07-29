@@ -132,10 +132,10 @@ Apsua - abjazia
 ar - área (superficie)  
 aria - área (zona, región)  
 arabe - árabe  
-arabobabul - goma arábiga  
+arabebabul - goma arábiga  
 arake - licor  
 arane - araña  
-aranofobia - aracnofobia  
+aranefobia - aracnofobia  
 arbuze - sandía (patilla)  
 Arcah - Artsaj  
 argente - plata  
@@ -242,7 +242,7 @@ balde - balde (cubo)
 balon - globo  
 balonpes - pez globo  
 balute - roble  
-balutopal - bellota  
+balutepal - bellota  
 bambu - bambú  
 bamia - ocra  
 bangem - juego de mesa  
@@ -355,8 +355,8 @@ bilor - cristal
 bine - construir (edificar)  
 • konbine - combinar  
 binite - ladrillo  
-binoplania - arquitectura  
-binoplaner - arquitecto  
+bineplania - arquitectura  
+bineplaner - arquitecto  
 binde - punto (lunar)  
 bir - cerveza (birra)  
 birkan - bar (pub)  
@@ -372,7 +372,7 @@ blabla - charlar (parlotear, chatear)
 blablakan - sala de chat (tertuliadero)  
 bloge - blog  
 boi - flotar (flotador, boya)  
-boipuntonumbe - punto flotante  
+boipuntenumbe - punto flotante  
 boikote - boicot  
 boing - rebotar  
 boka - boca  
@@ -662,21 +662,21 @@ dokumsanduke - carpeta
 dolar - dolar  
 dolfin - delfín  
 dom - casa (hogar, residencia; vivir, residir)  
-• domane - alojar (hospedar)  
 • domike - doméstico  
-dominogem - dominó  
+• domize - alojar (hospedar)  
 domzeze - mosco  
 • dominia - dominio  
 Dominiki Komunkratia - Republica Dominicana  
 Dominika - Dominica  
+domino - dominó  
 done - dar  
 • donaje - regalo (obsequio)  
 • donive - generoso (dadivoso)  
 donajoceke - cheque regalo  
 dong - éste  
-donge - oriental  
-Dongi Timor - Timor Oriental  
-dongogoril - gorila oriental  
+• dongike - oriental  
+Dong Timor - Timor Oriental  
+donggorila - gorila oriental  
 dos - culpa (defecto, crimen)  
 dose - culpable  
 dosile - domar (amansar)  
@@ -696,7 +696,7 @@ du - dos (2)
 du mar - dos veces  
 dufene - reducir a la mitad (dividir en dos)  
 duisme - dualismo  
-duplomene - doble sentido  
+dupleseme - doble sentido  
 duromanse - birromántico  
 dusexe - bisexual  
 dua - rezar (orar; rezo, oración)  
@@ -716,11 +716,10 @@ dur - durar (llevar tiempo, transcurrir; duración)
 • durize - pasar (transcurrir)  
 • redure - continuar (reanudar)  
 • undure - continuo (analógico)  
-durometrer - cronómetro  
-durozam - era (periodo, época)  
+duremetrer - cronómetro  
+durezam - era (periodo, época)  
 dus - malo (difícil, duro)  
-duse - malo (difícil, duro)  
-dusi zar - infortunio (mala suerte)  
+dus zar - infortunio (mala suerte)  
 • posprodute - posproducción  
 duxe - ducha  
 
@@ -887,7 +886,7 @@ fone - fono (segmento acústico)
 • fonologe - pronunciar (articular)  
 • fonolojia - fonología  
 fonte - fuente (manantial)  
-fontokalam - estilógrafo  
+fontekalam - estilógrafo  
 fore - taladrar (perforar)  
 forke - tenedor  
 forme - forma (figura; formar)  
@@ -981,6 +980,7 @@ ganputau - pasa (uva pasa)
 gantexe - toalla  
 Gana - Ghana  
 gana - caña  
+ganakalam - cálamo  
 gande - olor (aroma)  
 gande - oler (olfatear)  
 Ganda - Uganda  
@@ -1086,7 +1086,7 @@ gone - esquina (rincón, ángulo)
 • poligone - polígono  
 • tragone - diagonal  
 gonometrer - goniómetro (medidor de ángulos)  
-gorile - gorila  
+gorila - gorila  
 goro - cerdo (puerco)  
 goromanse - carne de cerdo  
 goton - algodón  
@@ -1267,7 +1267,7 @@ Honduras - Honduras
 Hong Gong - Hong Kong  
 hor - hora  
 horloger - reloj  
-horlogotore - torre del reloj  
+horlogetore - torre del reloj  
 hormon - hormona  
 Horvatia - Croacia  
 hotel - hotel (albergue)  
@@ -2561,6 +2561,10 @@ peikari jive - carrera
 • propelor - propulsor (hélice)  
 pelmen - empanada (pelmeni)  
 pelpel - mariposa (palomilla)  
+pena - pluma  
+• depena - desplumar  
+penakalam - pluma  
+penakardon - cardo burral  
 pende - colgar  
 pende - colgar  
 • pendaje - colgante (pendiente)  
@@ -2572,8 +2576,6 @@ pente - pintar
 pentobrox - pincel  
 pentofase - pentaedro  
 pentogone - pentágono  
-pere - pluma  
-perokardon - cardo burral  
 perde - pedo (peer)  
 peresa - perezoso (pereza)  
 Peru - Perú  
@@ -3307,7 +3309,7 @@ texte - texto
 teze - tesis  
 tibe - curar (sanar)  
 • tibaje - medicamento (medicina, remedio, fármaco)  
-• tibolojia - medicina  
+• tibelojia - medicina  
 • tiber - doctor (médico)  
 tibesui - poción  
 ticin - instrumento de arco  
@@ -3327,7 +3329,7 @@ titanium - titanio
 tix - chito (chist)  
 • tixe - silencioso  
 • tixia - silencio  
-tiz: - intenso (brusco, ácido, fuerte, afilado, rápido)  
+tize - intenso (brusco, ácido, fuerte, afilado, rápido)  
 Togo - Togo  
 tolere - tolerar  
 • tomografia - tomografía  
@@ -3383,7 +3385,7 @@ tul - herramienta
 tulium - tulio  
 tulpe - tulipán  
 tuna - atún  
-tundre - tundra  
+tundra - tundra  
 tunel - túnel  
 tuneltren - metro  
 tunge - dolor (sufrimiento; sufrir; doler)  
@@ -3393,11 +3395,11 @@ tupe - sombrero
 turbe - molestar (perturber)  
 • turbin - turbina  
 • disturbe - perturbar (turbulencia)  
-turbojeter - turborreactor  
+turbejeter - turborreactor  
 turfe - turba  
 turke - turco  
 Turkia - Turquía  
-Turkomenia - Turkmenistán  
+Turkemenia - Turkmenistán  
 Tuvalu - Tuvalu  
 tuze - conejo (liebre)  
 
@@ -3411,7 +3413,7 @@ un - uno (1)
 • una - unir  
 • unia - unión  
 • unike - único (solo, soltero)  
-• uniko - únicamente (solo)  
+• unike - únicamente (solo)  
 • unime - primero (numbre uno)  
 • unite - unido  
 Unite Arabe Amiria (UAA) - Emiratos Árabes Unidos  
@@ -3457,7 +3459,7 @@ vare - distintos (diversos)
 varis - patrimonio (herencia, legado)  
 varke - hoja  
 varkalge - kelp  
-varkolate - página  
+varkelate - página  
 vase - oasis  
 vate - objeto (artículo)  
 vat - vatio  
@@ -3465,17 +3467,17 @@ Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)
 vava - llorar  
 vava bebe - llóron  
 vaxe - lavar  
-vaxomaxin - lavadora  
+vaxemaxin - lavadora  
 vei - cola (rabo)  
 vele - velo  
 • devele - develar (revelar)  
 vende - vender  
-vendoxope - comercio (comerciar)  
+vendexope - comercio (comerciar)  
 Venezuela - Venezuela  
 ventur - aventura  
 venturer - aventurero  
 Venus - Venus  
-venzovorange - unshu mikan  
+Venzou oranje - unshu mikan  
 vere - verdadero  
 • verife - autenticar  
 • provere - probar  
@@ -3488,17 +3490,17 @@ verse - versar (afrontar)
 • unoverse - universal  
 veruke - verruga  
 vespe - abeja o avispa  
-vesponide - avispero (colmena)  
+vespenide - avispero (colmena)  
 veste - oeste (occidental)  
-vestogoril - gorila occidental  
+vestegorila - gorila occidental  
 veze - pesado  
+veze - pesar  
 vezia - peso (gravedad)  
-vezu - pesar  
 veze metal - metal pesado  
-vezometrer - pesa (báscula, balanza)  
+vezemetrer - pesa (báscula, balanza)  
 vide - ver (mirar; visión)  
 • vidaje - vista  
-vidopunte - perspectiva (punto de vista)  
+videpunte - perspectiva (punto de vista)  
 • vider - espectador  
 • dusvide - feo  
 • exvide - evidente  
@@ -3507,7 +3509,7 @@ vidopunte - perspectiva (punto de vista)
 • provide - prever (esperar, pensar)  
 • suvide - guapo (bien parecido)  
 • antravidebil - opaco  
-vidomeden - campo de visión  
+videmeden - campo de visión  
 vidou - viudo  
 viete - vietnamita  
 Vietia - Vietnam  
@@ -3597,7 +3599,6 @@ xin - creencia (fe)
 xine - creer  
 xindavisme - sintoísmo  
 xing - estrella  
-xingofote - centellear (titilar)  
 xipe - mojar (mojado)  
 • xipete - húmedo  
 • perxipe - remojar (empapar)  
