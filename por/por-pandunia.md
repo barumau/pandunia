@@ -34,8 +34,8 @@ agnosticismo - annosisme
 agnóstico - annosiste  
 agressor - agreser  
 agressão (ataque) - agrese  
-agrobiologia - agrobiolojia  
-agronomia - agronomia  
+agrobiologia - agrebiolojia  
+agronomia - agrenomia  
 ai! - ai  
 ainda - duro  
 alaranjado - orangi  
@@ -54,14 +54,14 @@ alho - lasun
 alho-porro - porei  
 aligátor (jacaré) - kortokrokodil  
 almirante - haiamirer  
-almofada (coxim) - kusen  
+almofada (coxim) - kuxen  
 alpinista (montanhista) - montaner  
 altar - pujemeza  
 alumínio - aluminium  
 alô - halo  
 amador - amater  
 amante - amer  
-amargo - alkaloguste  
+amargo - kaliguste  
 ameixa - plum  
 amerício - amerikium  
 amor (amar; querido, caro) - ame  
@@ -97,7 +97,7 @@ argon - argon
 argumento - argum  
 arma - arme  
 arma de fogo - pau  
-armadilha - kapotruke  
+armadilha - kapetruke  
 armadura - defkaske  
 armário - almari  
 arquiteto - binoplaner  
@@ -106,7 +106,7 @@ arrastar - trate
 arroz - ris  
 arsénic - arsene  
 arte - arte  
-artefato - artofete  
+artefato - artefete  
 artista - artiste  
 asa - panke  
 asma - asma  
@@ -138,7 +138,7 @@ avó - cinma
 avô - cinpa  
 azeite (óleo de oliva) - zaitunlipe  
 azur (blau) - lazure  
-azur - nile  
+azur - nil  
 açougueiro (talhante) - bucer  
 ação - ation  
 açúcar - sukar  
@@ -157,7 +157,7 @@ banana - banan
 bancarrota (falido) - bankorute  
 bancarrota (falência) - bankorutia  
 banco - bankekan  
-banco de dados - datobanke  
+banco de dados - datebanke  
 bando - bande  
 banqueiro - banker  
 barba - barde  
@@ -165,9 +165,9 @@ barco (navio) - nau
 barra de chocolate - coklatobaton  
 barrar (barreira) - bare  
 barreira - baromur  
-base (álcali; alcalino) - alkale  
+base (álcali; alcalino) - kali  
 base - baze  
-basebol (beisebol) - baze bol  
+basebol (beisebol) - bazebol  
 basketball - baske bol  
 bastante (suficiente) - bas  
 baía (golfo) - haisake  
@@ -184,7 +184,7 @@ bicho-papão - bubu
 bigorna - metalbede  
 bilhete - tikete  
 bilogia - duologia  
-bilíngue - duobaxike  
+bilíngue - dubaxike  
 biología - biolojia  
 bioma - biosistem  
 bioquímica - biokimia  
@@ -226,15 +226,15 @@ búzio - kauri
 cabeça - sar  
 cachoeira (queda-d'água, cascata, catarata) - suipade  
 cacto - katus  
-cafeteira - kafe pote  
+cafeteira - kafepote  
 café - kafe  
-café - kafe kan  
+café - kafekan  
 caixa - kase  
 caixa de correio - poste kase  
-cal - kalsomate  
+cal - kalsemate  
 calcita - kalsite  
 calcular - hisabe  
-calcário - kalsopetre  
+calcário - kalsepetre  
 calendário - kalende  
 califórnio - kalifornium  
 calças - pante  
@@ -252,7 +252,7 @@ canivete - jebecaku
 canoa - kanu  
 Cantalupo in Sabina - Kantalupo i Sabina  
 capa - manto  
-capa de chuva - barsokote  
+capa de chuva - barxekote  
 carbono - karbe  
 cardo - kardon  
 cardo-mariano - milkokardon  
@@ -313,7 +313,7 @@ chocolate - coklate
 chorar - vava  
 chorão - vava bebe  
 chumbo - plumbe  
-chuva - barse  
+chuva - barxe  
 chá - cai  
 chá mate - mate cai  
 ciclista - sikliste  
@@ -379,9 +379,7 @@ corda (cabo) - kable
 corno - korne  
 coro - cantergrupe  
 corpo - bade  
-corredor - korer  
 corrente (atual) - zai zaman su  
-correr - kore  
 correto (justo) - sahe  
 cortina - janelovel  
 cosmo - kosmia  
@@ -394,10 +392,10 @@ crepe (panqueca) - krepe
 crepe - franse krepe  
 criança (menino) - bace  
 cristal - bilor  
-croassã - kruasante  
+croassã - kruasan  
 crocodiliano - krokodil  
 crocodilo - longokrokodil  
-cromo - jamokarde  
+cromo - jamekarde  
 cronómetro - durometrer  
 cruz - krus  
 crème - krem  
@@ -437,14 +435,14 @@ de - de
 de luxo - deluxe  
 dedo - angul  
 defecar - defeke  
-deitar - kuse  
+deitar (jazer) - kuxe  
 deixar - laxe  
 deixar - live  
 dente-de-leão (taráxaco) - makanful  
 derretre - fuze  
 descanse em paz - repauze in pace (RIP)  
 desconectar - dekonnete  
-desenvolvimento - dargomute  
+desenvolvimento - dargemute  
 deserto - sablestan  
 desfigurar - dusforme  
 designar - desine  
@@ -521,7 +519,7 @@ embalar - lifafe
 emoticon (emoji) - emotikon  
 emoçao - emotion  
 emprestar (pedir emprestado) - jeke  
-emprestar - jekodone  
+emprestar - jekedone  
 empurrar - pulse  
 encarar (afrontar; vérsus) - verse  
 encontrar - ajame  
@@ -529,7 +527,7 @@ endereço - adres
 endógeno - ingene  
 enganar - truke  
 ensinar (lecionar) - xulize  
-ensino primário - bazoxulkan  
+ensino primário - bazexulekan  
 ensino secundário - zungxulekan  
 ensopar (encharcar, marinar) - purxipe  
 enteado - gamben  
@@ -545,11 +543,11 @@ erva-mate - mate
 escalar - askale  
 escola (colégio) - xulekan  
 escorpião (lacrau) - akrabe  
-escova de cabelo - kexobroxe  
+escova de cabelo - kexebroxe  
 escovinha (centáurea) - nilcentaur  
 escrever (escrita) - kitabe  
 escritório (birô) - bure  
-escudo - defoban  
+escudo - defeban  
 escudo - ostosalke  
 escultor - skulter  
 escuro - dam  
@@ -557,7 +555,7 @@ escândio - skandium
 eslavo - slave  
 esmeralda - zumurude  
 espada - katana  
-espaço - kali harfe  
+espaço - kaleharfe  
 espelho - miror  
 espetador - speter  
 espirrar - aci  
@@ -571,7 +569,6 @@ esquerdo - leve
 esquilo - ekore  
 estado - hal  
 estanho - stanium  
-estar deitado (jazer) - kusu  
 estação (sazão) - mosim  
 este (leste) - dong  
 estirar - tirlonge  
@@ -629,7 +626,7 @@ fibra - lineme
 filho ou filha - ben  
 filosofia - filsofia  
 fiorde - fiorde  
-fisiculturismo - muskulobine  
+fisiculturismo - muskulbine  
 flecha (seta) - flece  
 fleróvio - flerovium  
 flor - ful  
@@ -651,7 +648,7 @@ frâncio - fransium
 fungo - funge  
 funil - darotube  
 furar (perfurar) - fore  
-futebol - futobol  
+futebol - futebol  
 fácil - fasile  
 fã - fan  
 férmio - fermium  
@@ -700,7 +697,7 @@ granito - granite
 graças a - a xukre de  
 grupo - grupe  
 grávida (prenhe) - hamile  
-guarda-chuva - barsocate  
+guarda-chuva - barxecate  
 guaxinim (rato-lavadeiro) - rakun  
 guepardo (chita) - cita  
 guerra - gere  
@@ -762,7 +759,6 @@ imigrante - inmigrer
 imigrar - inmigre  
 imitar (mimetizar) - mime  
 impelir - inpele  
-implodir - inplozu  
 imploção (implodir) - inploze  
 importante - ham  
 impressão digital - angulmarke  
@@ -779,25 +775,25 @@ inferir - infere
 infiel - andiniste  
 infiel - ankrediste  
 inflamaçao - itis  
-informática (ciência da computação) - datoprocesolojia  
-infraestrutura - bazostrute  
-inimigo - dusojen  
+informática (ciência da computação) - dateproceselojia  
+infraestrutura - bazestrute  
+inimigo - dusjen  
 inquisitivo - sabevolive  
 inseto - koncung  
 insônia - ansome  
 inteligência (intelecto) - intelige  
-inteligência artificial - artofete intelige (AI)  
+inteligência artificial - artefete intelige (AI)  
 inteligível - inteligebil  
 interceptar - intercepe  
 internacional - nasomede  
 interromper - interrute  
 intestino (entranhas, tripa) - intraje  
-invernal (hibernal) - lengomosime  
-inverno - lengomosim  
+invernal (hibernal) - lengemosimike  
+inverno - lengemosim  
 iodo - yodium  
 iogui - yogaiste  
 iogurte - yogur  
-ir - kite  
+ir - ga  
 ironia - ironia  
 irídio - iridium  
 islã - islamia  
@@ -862,13 +858,13 @@ Letónia - Latvia
 lhama - liama  
 libélula - libele  
 licor - arake  
-lima - kagujolimon  
+lima - kagujelimon  
 limitado - belime  
 limonada - limon jus  
 limão - limon  
 lince - lince  
 linguagem de sinais - gestobaxe  
-linguística - baxolojia  
+linguística - baxelojia  
 linha (fio) - line  
 lipoaspiração - lipocupe  
 lista - liste  
@@ -945,7 +941,7 @@ Marte - Marse
 marítimo - hayike  
 mas - ama  
 massa - mas  
-massa de modelar (massinha) - plastopaste  
+massa de modelar (massinha) - plastepaste  
 mastigar (mascar) - katade  
 mastro - maste  
 matadouro - bucekan  
@@ -962,7 +958,7 @@ mel - madu
 melancia - arbuze  
 meloa (cantalupo) - kantalupomelon  
 melão - melon  
-melão coreano - aromomelon  
+melão coreano - aromemelon  
 memória - meme  
 mendelévio - mendelevium  
 meninge - meninge  
@@ -1003,12 +999,12 @@ molho de soja - soisaus
 molibdénio - molidenium  
 momentâneo - sate di  
 montanha (monte) - monte  
-monção - barsomosim  
+monção - barxemosim  
 monóculo - unoki lense  
 monólogo - autologe  
 morder - kate  
 moscovio - moskovium  
-motoneta (lambreta) - motor skuter  
+motoneta (lambreta) - moteskuter  
 motor - moter  
 mover - kine  
 Mover-se - kinu  
@@ -1020,7 +1016,7 @@ mundo - dunia
 muro (muralha) - mur  
 musgo - mos  
 máquina de escrever - kitabemaxin  
-mármore - kalsokristal  
+mármore - kalsekristal  
 máscara - maske  
 máximo - maximaje  
 mãe - ma  
@@ -1083,7 +1079,7 @@ não - no
 néon - neon  
 níquel - nikel  
 nós - mimen  
-núcleo (cerne) - kore  
+núcleo (cerne) - kor  
 número (contagem; contar) - nume  
 o (a) - la  
 
@@ -1151,7 +1147,7 @@ panda - panda
 pandemia - pandemi patia  
 pantomima (mímica) - panmime  
 papel - kaguje  
-papel de parede - murkaguze  
+papel de parede - murkaguje  
 papoila - medenpapil  
 papoila-dormideira - somopapil  
 par - parike  
@@ -1176,12 +1172,12 @@ pavão real - mayur
 paz - pace  
 país - gogia  
 pederneira - hogite  
-pedir emprestado - jekocepe  
+pedir emprestado - jekecepe  
 pedra - ite  
 pedra preciosa (gema) - bavite  
 pedregulho - dayite  
 pedrinha - xivite  
-pegada - futomarke  
+pegada - futemarke  
 peido (peidar) - perde  
 peixe - pexe  
 pele - pil  
@@ -1223,7 +1219,7 @@ plano - plan
 planta (vegetal) - fite  
 platina - platinium  
 plutónio - plutonium  
-plástico - plaste  
+plástico - plastebil  
 poesia - xiria  
 Polinésia - Polinesia  
 poluição - nagis  
@@ -1232,7 +1228,7 @@ polónio - polskium
 ponta (pico, bico) - pike  
 ponta do dedo - angulpike  
 ponte - pul  
-ponteiro - dikobaton  
+ponteiro - dikebaton  
 por cento - prosente  
 por exemplo - a misal  
 por muito tempo - a long dure  
@@ -1251,7 +1247,7 @@ poucos - kam
 prancheta - pinsoban  
 praseodímio - prasedium  
 prata - argente  
-prateleira (estante) - liboban  
+prateleira (estante) - libeban  
 praça - meden  
 preceder (anteceder) - precese  
 precioso - bau  
@@ -1267,7 +1263,7 @@ preto - kara
 prever (anticipar) - previde  
 primo - cinbrusben  
 problema - problem  
-processamento de dados - datoprocese  
+processamento de dados - dateprocese  
 processamento de imagem - grafoprocese  
 professor (docente) - xulizer  
 profissão - peikar  
@@ -1313,7 +1309,7 @@ quarto (dormitório) - somokamar
 quartzo - kuarze  
 quatro (4) - catre  
 que (como) - ka  
-queijo - kize  
+queijo - keze  
 queijo fresco - panir  
 queimar - hoge  
 queimarse - hogu  
@@ -1325,12 +1321,13 @@ quimono - kimono
 quincã (cunquate) - kankuate  
 quinta-feira - den catre  
 quivi - kivi  
-química - kimolojia  
+química - kimia  
 
 ## R  
 
 rachadura - krake  
 racional - rationi  
+rainha - rejeni  
 raiz - radike  
 raposa - huli  
 rapsódia - rapsodia  
@@ -1358,11 +1355,11 @@ referir - refere
 refugo (escória) - lasa  
 regenerar - rigenerate  
 regime - politomode  
+rei - rejenan  
 reinar - reje  
 relato - reporte  
 religião - din  
 relógio - horloger  
-remover - kitane  
 remédio (medicamento) - tibaje  
 reparador - riboner  
 reparar - ribone  
@@ -1415,6 +1412,7 @@ saber - sabe
 sabão - sabun  
 sacada (varanda) - beranda  
 saco - sake  
+safira - nilbavite  
 sagrada escritura - sante kanon  
 sagu - sagu  
 saia - skerte  
@@ -1441,7 +1439,7 @@ saúde - salude
 se - gar  
 se - se  
 seabórgio - siborgium  
-secador de cabelo - kexofentor  
+secador de cabelo - kexefentor  
 seda - silke  
 sede - suiyau  
 segunda-feira - den un  
@@ -1453,7 +1451,7 @@ selvagem (silvestre) - jangle
 selénio - selenium  
 semente - dane  
 seminal - danike  
-semântica - semolojia  
+semântica - semelojia  
 senador - senater  
 sentido - sense  
 sepultura (túmulo; enterrar) - gabre  
@@ -1512,12 +1510,12 @@ sódio - natrium
 tablet - table konputer  
 tablet - tablete konputer  
 Talibã - Talban  
-tangerina (mandarim) - lalorange  
+tangerina (mandarim) - laloranje  
 tatu - tatu  
 taxímetro - taxi metrer  
 tear - texomaxin  
 tecnécio - tehnium  
-tectónica de placas - plati geokaskia  
+tectónica de placas - plate geokaskia  
 telefonar - telefone  
 telefonia - telefonia  
 telescópio - teleskope  
@@ -1539,8 +1537,8 @@ ter - ha
 terminar (acabar, concluir) - purfine  
 Terra - Geia  
 terra natal - genostan  
-terracota - bekofan  
-terraplanista - platogeiste  
+terracota - bekefange  
+terraplanista - plategeiste  
 terreno - geoforme  
 terça-feira - den du  
 tese - teze  
@@ -1583,7 +1581,7 @@ truta-arco-íris - rangarkosalmon
 truta-marrom - brunsalmon  
 trágico - trage  
 três (3) - tri  
-trópicos - garmozone  
+trópicos - garmezone  
 tu - tu  
 tubarão - xarke  
 tubérculo - masmul  
@@ -1626,25 +1624,25 @@ vanádio - vanadium
 vapor - suigas  
 vara (bastão) - baton  
 vaso de flores - fulpote  
-vazar - love  
+vazar - lou  
 vegetalista - purfitoyamiste  
 vegetariano - fitoyamiste  
 vender - vende  
 ver - vide  
 verbo - karelexe  
 verdadeiro - vere  
-verde - luge  
+verde - luke  
 verdura (hortaliça, legume) - yamfite  
 verdura - coi  
 verme - verme  
 vermelho - lale  
 vermute - vermute  
 verruga - veruke  
-verão - garmomosim  
+verão - garmemosim  
 vestir - fuke  
 veterinário - zootiber  
 vez - mar  
-vice-rei - visereger  
+vice-rei - viserejer  
 vida - jive  
 vidro - glas  
 violinista - violiste  

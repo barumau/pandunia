@@ -23,13 +23,13 @@ adamas - diamanto
 adres - adreso  
 afgan - afgana  
 Afgania - Afganujo, Afganio  
-Afrike - Afriko  
 Afrikan - afrika  
 afrikofilia - afrikamanteco  
 afrikofiliste - afrikamanto  
+Afrike - Afriko  
 agile - lerta  
 • agria - agrikulturo  
-agronomia - agronomio  
+agrenomia - agronomio  
 ahe - kompreni  
 ai - aj (alas)  
 ainstainium - ejnŝtejnio  
@@ -46,8 +46,6 @@ alonamo - tio estas (alivorte)
 aloraye - malkonsenti  
 alosexe - samseksema  
 alga - algo  
-alkale - alkala  
-alkaloguste - amara  
 alkol - alkoholo  
 almari - ŝranko  
 aluminium - aluminio  
@@ -90,8 +88,8 @@ arkocate - volbo
 arme - armilo  
 arsene - arseno  
 arte - arto  
-• artofete intelige (AI) - artefarita inteligenteco  
 • artiste - artisto  
+artefete intelige (AI) - artefarita inteligenteco  
 ase - azia  
 Asia - Azio  
 asan - posteno  
@@ -165,12 +163,12 @@ barbar - barbaro
 barde - barbo  
 barke - gratuli  
 barkoke - abrikoto  
-barse - pluvo  
-barsocate - obrelo  
 barte - Barata  
 Bartia - Baratio  
 baru - urso  
 barude - pulvo  
+barxe - pluvo  
+barxecate - obrelo  
 bas - sufiĉa  
 basen - baseno  
 baske - korbo  
@@ -182,17 +180,17 @@ batre - baterio (pilo)
 bau - trezoro  
 bavite - juvelo  
 baxe - lingvo  
-• duobaxike - dulingva  
+• dubaxike - dulingva  
 • konbaxe - komuna lingvo  
 • polibaxike - multlingva  
 • trabaxe - traduki  
 • trabaxer - tradukisto  
-• unobaxike - unulingva  
-baxokanun - gramatiko  
-baxolojia - lingvistiko  
+• unebaxike - unulingva  
+baxekanun - gramatiko  
+baxelojia - lingvistiko  
 baze - bazo  
-baze bol - basbalo  
-bazoxulkan - bazlernejo  
+bazebol - basbalo  
+bazexulekan - bazlernejo  
 bazar - merkato (bazaro)  
 bebe - bebo  
 bede - lito  
@@ -359,11 +357,11 @@ danse - danco
 dante - dento  
 dantobrox - dentbroso  
 dantotiber - dentisto  
-dargomute - disvolvi  
+dargemute - disvolvi  
 date - datumo  
-datobanke - datumbanko  
-datoprocesolojia - komputoscienco  
-datotable - tabelo  
+datebanke - datumbanko  
+dateproceselojia - komputoscienco  
+datetable - tabelo  
 dau - vojo  
 de - de (partiklo de posedo)  
 de - de (el, pro)  
@@ -500,8 +498,6 @@ fasin - fascinado
 fe - fari  
 febre - febro  
 fei - flugi  
-fem - ino  
-femi pute - filino  
 fen - parto (frakcio; dividi)  
 fenkate - analizo  
 fente - vento  
@@ -524,8 +520,8 @@ fikre - pensi (penso)
 • profile - preferi (pliŝati)  
 Filipin - Filipinoj  
 filme - filmo  
-filsofe - filozofia  
 • filsofia - filozofio  
+• filsofike - filozofia  
 • filsofer - filozofo  
 filter - filtri  
 fin - fino (fini, finiĝi)  
@@ -572,15 +568,16 @@ fulpote - florpoto
 fun - polvo  
 funce - funkcii  
 funge - fungo  
-furia - kolero (furiozo)  
+• furia - kolero (furiozo)  
 furete - furo  
 fute - piedo  
-futobol - piedpilko  
+futebol - piedpilko  
 futau - hakilo  
 • infuze - infuzi  
 
 ## G  
 
+ga - iri  
 gabre - tombo (enterigi)  
 gabrite - tomboŝtono  
 gabrostan - tombejo  
@@ -611,11 +608,11 @@ garante - garantio
 garde - gardi  
 garder - gardisto  
 garme - varma  
-garmomosim - somero  
+garmemosim - somero  
 gas - gaso  
 gate - malmola  
-gatomate - solido  
-gave - alta  
+gatemate - solido  
+gau - alta  
 gaze - gazo  
 gazel - gazelo  
 gazete - gazeto (revuo)  
@@ -820,7 +817,7 @@ jebe - poŝo
 jele - malliberigi  
 • jelekan - malliberejo  
 jen - persono  
-• dusojen - malamiko  
+• dusjen - malamiko  
 jenje - zingibro  
 jenju - perlo  
 jense - sekso  
@@ -845,9 +842,9 @@ juste - preciza (ekzakta; ĝuste )
 ka - ol (kiel)  
 kadium - kadmio  
 kafe - kafo  
-kafe kan - kafejo  
-kafe kupe - kaftaso  
-kafe pote - kafeujo  
+kafekan - kafejo  
+kafekupe - kaftaso  
+kafepote - kafeujo  
 kaguje - papero  
 kai - malferma  
 kaka - feko  
@@ -856,12 +853,14 @@ kale - malplena
 kalium - kalio  
 kalam - plumo  
 kalende - kalendaro  
+kali - alkala  
+kaliguste - amara  
 kalifornium - kaliforniumo  
 kalsite - kalcito  
 kalsium - kalcio  
-kalsokristal - marmoro  
-kalsomate - kalko  
-kalsopetre - kalkoŝtono  
+kalsekristal - marmoro  
+kalsemate - kalko  
+kalsepetre - kalkoŝtono  
 kam - malmulte  
 • kamia - malmulteco  
 • kamife - malmultigi  
@@ -922,21 +921,20 @@ keger - vizitanto
 keke - kuko  
 kenar - rando (orlo)  
 kex - haro  
-kexobroxe - saç fırçası  
-kexosabun - ŝampuo  
+kexebroxe - saç fırçası  
+kexesabun - ŝampuo  
+keze - fromaĝo  
 kilomitre - kilometro  
+• kimia - ĥemio (kemio)  
 • kimium - kemia elemento  
-• kimolojia - ĥemio (kemio)  
 kimono - kimono  
 kine - movi  
 kinu - moviĝi  
-kite - iri  
 kitabe - skribo  
 • kitabia - literaturo  
 kitabekan - librejo  
 kitabemaxin - tajpilo  
 kivi - kivo  
-kize - fromaĝo  
 • proklame - proklami  
 klare - klara (klare, kompreneble)  
 • klarife - klarigi  
@@ -966,12 +964,10 @@ konus - konuso
 kope - kopio  
 kope - kopii  
 kopernikium - kopernicio  
-kore - kerno (koro)  
-kore fizikia - kernfiziko  
-kore - kuri  
-kori arme - kernarmilo  
-kori energia - kernenergio  
-korer - kuristo  
+kor - kerno (koro)  
+korarme - kernarmilo  
+korenergia - kernenergio  
+korfizikia - kernfiziko  
 koral - koralo  
 korne - korno  
 koron - krono  
@@ -995,11 +991,11 @@ krepe - krepo (patkuko)
 krim - krimo  
 krime - krima  
 kriste - kristo  
-kristojen - kristnasko  
+kristejen - kristnasko  
 kriton - kriptono  
 krize - krizo  
 kromium - kromo  
-kruasante - korna bulko  
+kruasan - korna bulko  
 krus - kruco  
 kube - kubo  
 kuku - kukolo  
@@ -1009,7 +1005,7 @@ kupe - taso
 kupre - kupro  
 kurium - kuriumo  
 kurve - kurbo  
-kusu - kuŝi  
+kuxe - kuŝi  
 
 ## L  
 
@@ -1017,7 +1013,7 @@ labe - lipo
 lai - veni  
 laiane - alporti (venigi)  
 lale - ruĝa  
-lalorange - mandarino  
+laloranje - mandarino  
 lalobavite - rubeno  
 lampe - lampo  
 lasa - rubo  
@@ -1029,8 +1025,8 @@ latedike - flanka (latera)
 Latvia - Latvio  
 laurensium - laŭrencio  
 lenge - malvarma  
-lengomosim - vintro  
-lengomosime - vintra  
+lengemosim - vintro  
+lengemosimike - vintra  
 Lesa - Lasao  
 letre - letero  
 letus - laktuko  
@@ -1064,11 +1060,11 @@ loke - loko (lokigi)
 • lokike - loka  
 longe - longa  
 • longife - longigi  
-love - liki  
-lova sang - sangi  
+lou - liki  
+lou sang - sangi  
 luge - registri  
-luge - verda  
 • lugia - registro (konto)  
+luke - verda  
 lun - luno  
 lun - monato  
 lute - rabi  
@@ -1096,7 +1092,6 @@ makas - tondilo
 Mali - Malio  
 malika - jasmeno  
 mam - mamo  
-man - viro  
 mangan - mangano  
 manir - maniero (konduto)  
 manse - viando  
@@ -1112,9 +1107,6 @@ maste - masto
 master - magistro  
 mate - materio  
 matur - plenaĝa  
-mature - matura (plenkreska)  
-maturi fem - virino  
-maturi man - viro  
 mau - kato  
 max - pli  
 • maxime - plej  
@@ -1190,7 +1182,7 @@ morte - morti (morto; morta)
 mosim - sezono  
 moskovium - moskovio  
 mote - movo  
-moter - motoro  
+• moter - motoro  
 muh - bovo  
 muhmanse - bovaĵo  
 muke - vizaĝo  
@@ -1200,12 +1192,12 @@ mumfote - kandelo
 mumjen - mumio  
 mun - pordo  
 mur - vando  
-murkaguze - tapeto  
+murkaguje - tapeto  
 murce - formiko  
 mus - devo (devi; devigi)  
 muskete - muskedo  
 muskul - muskolo  
-muskulobine - korpokulturado  
+muskulbine - korpokulturado  
 musli - muslio  
 mute - aliigi  
 mux - muso  
@@ -1225,6 +1217,7 @@ nam - nomo
 • pronam - pronomo  
 namelexe - substantivo  
 Namibia - Namibio  
+nan - viro  
 nanas - ananaso  
 narke - drogo  
 nasomede - internacia  
@@ -1253,11 +1246,13 @@ neugene - novnaskita
 neuloge - neologismo  
 neure - nervo  
 neurocel - neŭrono  
+ni - ino  
 Niger - Niĝero  
 Nigiria - Niĝerio  
 Nikaragua - Nikaragvo  
 nikel - nikelo  
-nile - blua  
+nil - blua  
+nilbavite - safiro  
 nilon - nilono  
 ninde - insulto  
 niobium - niobo  
@@ -1366,7 +1361,7 @@ patomise - infekto
 patate - terpomo  
 pau - fusilo  
 • repauze - ripozo  
-• prepede - propedeŭtiko  
+• prepedike - propedeŭtiko  
 pedal - pedalo  
 peikar - metiero  
 pele - peli  
@@ -1476,6 +1471,8 @@ rasomede - interrasa
 • ratolojia - logiko  
 • ratolojike - logika  
 retre - reiri  
+• rejenan - reĝo  
+• rejeni - reĝino  
 • rejer - reĝo aŭ reĝino  
 rel - reala  
 • relia - realeco  
@@ -1573,7 +1570,7 @@ semen - unu la alian
 • sel - devus  
 selenium - seleno  
 seme - signifi  
-• semolojia - semantiko  
+• semelojia - semantiko  
 sene - aĝo  
 • senike - aĝulo  
 senater - senatano  
@@ -1914,8 +1911,6 @@ yuge - jugo
 yune - juna  
 • yunia - juneco  
 • yunike - junulo  
-yune fem - knabino  
-yune man - knabo  
 
 ## Z  
 

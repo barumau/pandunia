@@ -13,8 +13,8 @@ acinium - アクチニウム
 ade - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
 Afgania - アフガニスタン  
-agronomia - 農学  
-agrovilaje - 農村  
+agrenomia - 農学  
+agrevilaje - 農村  
 ainstainium - アインスタイニウム  
 air - 空気  
 airobike - 好気性  
@@ -29,13 +29,9 @@ akrabe - 蠍 (天蝎宮)
 ale - 他の (変える)  
 algafung - 地衣類 (苔癬)  
 algajangle - 藻場  
-alkale - 塩基  
-alkaloguste - 苦い  
-alkalomelon - ツルレイシ (ニガウリ)  
-alkalorange - ダイダイ  
 alkol - アルコール  
 • alkoliste - 飲兵衛  (アルコール中毒者)  
-alkolomixe - カクテル (混合酒)  
+alkolmixe - カクテル (混合酒)  
 alpaka - アルパカ  
 aluminium - アルミニウム  
 ame - 愛  
@@ -60,9 +56,9 @@ argon - アルゴン
 arke - 弓 (弓なり)  
 arker - 弓兵  
 aromu - 香る (匂う, 臭う)  
-aromomelon - マクワウリ  
+aromemelon - マクワウリ  
 arsene - ヒ素  
-• artofete intelige (AI) - 人工知能  
+artefete intelige (AI) - 人工知能  
 asar - 効果  
 asle - 起源  
 asparge - アスパラガス  
@@ -111,9 +107,9 @@ ban - 板
 bangem - ボードゲーム  
 bankorutia - 破産  
 barium - バリウム  
-barse - 雨 (雨が降る)  
-barsomosim - 雨季  
 baru - 熊  
+barxe - 雨 (雨が降る)  
+barxemosim - 雨季  
 bas - 十分  
 bate - 八 (8)  
 batosenter - タコ  
@@ -124,14 +120,14 @@ batre - バッテリー
 bavite - 宝石  
 baxe - 言語  
 • trabaxe - 翻訳する  
-baxolojia - 言語学  
-baze bol - 野球  
-bazopetre - 基盤岩  
-bazostrute - インフラストラクチャー  
-bazoxulkan - 小学校  
+baxelojia - 言語学  
+bazebol - 野球  
+bazepetre - 基盤岩  
+bazestrute - インフラストラクチャー  
+bazexulekan - 小学校  
 bazar - 市場 (マーケット, バザー)  
 bebe - 赤ちゃん  
-bekofan - テラコッタ  
+bekefange - テラコッタ  
 bekekan - パン屋 (ベーカリー)  
 • rebeler - 反逆者  
 belce - シャベル (スコップ)  
@@ -247,17 +243,17 @@ danograne - 種
 danger - 鐘 (鈴)  
 dantobalute - カシワ  
 darotube - 漏斗  
-dargomute - 発展 (開発)  
+dargemute - 発展 (開発)  
 darmositium - ダームスタチウム  
 darte - 土  
-datofenkate - データ解析  
-datoprocese - データ処理  
-datoprocesolojia - 計算機科学  
-datotable - 表  
+datefenkate - データ解析  
+dateprocese - データ処理  
+dateproceselojia - 計算機科学  
+datetable - 表  
 dau - 道  
 de - -から  
 defkaske - 鎧  
-defoban - 盾  
+defeban - 盾  
 dege - 受ける (もらう)  
 demon - 悪魔  
 den - 日  
@@ -274,7 +270,7 @@ deu - 神
 deunagre - デーヴァナーガリー  
 dike - 方向 (標的, ターゲット; 狙う)  
 • dikion - 直示  
-dikobaton - 指し棒  
+dikebaton - 指し棒  
 din - 宗教  
 • diniste - 信徒 (信者)  
 • andiniste - 不信者  
@@ -351,8 +347,6 @@ fatige - 疲労 (疲れる, 疲労する)
 fe - する  
 fei - 飛ぶ  
 feimus - こうもり (飛鼠)  
-fem - 女  
-femi reger - 女王  
 feni - デジタル  
 fenkate - 分析 (解析)  
 fente - 風  
@@ -390,15 +384,17 @@ fulmosim - 春
 fulpote - 植木鉢  
 fungonete - 菌糸体  
 fungopal - 茸  
-futoban - 足場  
-futobol - フットボール  
-futomarke - 足跡  
+futeban - 足場  
+futebol - フットボール  
+futemarke - 足跡  
 futau - 斧  
 fuze - 溶ける  
 fuzopetre - 溶岩  
 
 ## G  
 
+ga - 行く  
+ga gau i dipe - 浮き沈みする  
 gabre - 墓 (埋葬, 葬る)  
 gabrite - 墓石 (墓碑)  
 gabrostan - 墓 (墓地)  
@@ -420,13 +416,12 @@ ganum - 小麦
 gar - もし  
 gar - 車  
 garme - 暖かい (熱い)  
-garmomosim - 夏  
-garmozone - 熱帯  
-garmozone caustan - サバンナ  
+garmemosim - 夏  
+garmezone - 熱帯  
+garmezone caustan - サバンナ  
 gate - 硬い  
-gatomate - 固体  
-gave - 高い  
-gautalu - 浮き沈みする  
+gatemate - 固体  
+gau - 高い  
 gautehnia - ハイテク  
 gaze - ガーゼ  
 gazel - ガゼル  
@@ -566,18 +561,18 @@ jambul - フトモモ
 janel - 窓  
 janelovel - カーテン  
 jang - 戦闘 (格闘)  
-jangoxute - 武術  
+jangxute - 武術  
 jangle - 野生の  
 jangle van - ジャングル  
 jau - 大麦  
 javabe - 答え (回答)  
 jebecaku - ポケットナイフ  
 jeke - 借用  
-jekocepe - 借りる  
-jekodone - 貸す  
+jekecepe - 借りる  
+jekedone - 貸す  
 • jelekan - 監獄  
 jen - 人  
-• dusojen - 敵  
+• dusjen - 敵  
 jenju - 真珠  
 jense - 性別 (ジェンダー)  
 jensolojia - ジェンダー研究  
@@ -593,7 +588,7 @@ jul - ジュール (J)
 juntelexe - 接続詞  
 jupiter - 木星  
 jus - ジュース  
-justopaver - 狙撃兵  
+justepaver - 狙撃兵  
 
 ## K  
 
@@ -602,20 +597,24 @@ kable - 電線
 kaboge - カボチャ  
 kadium - カドミウム  
 kafe - コーヒー  
-kafe kan - カフェ (コーヒー店)  
-kafe pote - コーヒーポット  
+kafekan - カフェ (コーヒー店)  
+kafepote - コーヒーポット  
 kaguje - 紙  
-kagujolimon - メキシカンライム (マナオ)  
+kagujelimon - メキシカンライム (マナオ)  
 kale - 空  
-kali harfe - 間隔  
 kalium - カリウム  
+kaleharfe - 間隔  
 kalam - ペン  
 kalende - 暦 (カレンダー)  
+kali - 塩基  
+kaliguste - 苦い  
+kalimelon - ツルレイシ (ニガウリ)  
+kalioranje - ダイダイ  
 kalifornium - カリホルニウム  
 kalmar - イカ  
 kalsium - カルシウム  
-kalsokristal - 大理石  
-kalsomate - 石灰  
+kalsekristal - 大理石  
+kalsemate - 石灰  
 kam - 少ない  
 kama - 色欲  
 Kama sutre - カーマ・スートラ  
@@ -629,7 +628,7 @@ kanyon - 峡谷
 kankuate - キンカン (キンキツ)  
 kantalupomelon - カンタロープ  
 kanu - カヌー  
-kapotruke - 罠  
+kapetruke - 罠  
 kare - 働く  
 • karaje - 労働  
 • karer - 労働者  
@@ -671,25 +670,24 @@ kecape - ケチャップ
 keger - 客人  
 kenarbaryer - 柵 (垣)  
 kex - 毛  
-kexofentor - ヘアドライヤー (ブロードライヤー)  
+kexefentor - ヘアドライヤー (ブロードライヤー)  
+keze - チーズ  
+kezeproten - 乾酪素  
 kilo - 千 (１０００)  
 kime - 物質  
+• kimia - 化学  
 • kimium - 元素  
-• kimolojia - 化学  
 kimono - 着物  
 kine - 動かす  
 kinu - 動く  
-• kinograf - 映画  
+• kinografe - 映画  
 kire - 賃貸  
-kite - 行く  
 • kitabia - 文献 (文学)  
 • kitabeme - 書記素  
 kitaboforme - 書式付け  
 kitabekan - 図書館  
 kitabemanter - 図書係  
 kivi - キーウィフルーツ  
-kize - チーズ  
-kizoproten - 乾酪素  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
 klimomute - 気候変動  
@@ -704,8 +702,7 @@ konserte - コンサート (音楽会)
 konus - 錐  
 kope - コピー  
 kopernikium - コペルニシウム  
-kore - 核  
-kore - 走る (疾走する)  
+kor - 核  
 koral - 珊瑚  
 korne - 角  
 kornemelon - ツノニガウリ  
@@ -725,9 +722,9 @@ krokodil - ワニ
 krokroke - 蛙  
 kromium - クロム  
 krote - 田鼠  
-kruasante - クロワッサン  
+kruasan - クロワッサン  
 krusarke - クロスボウ (石弓)  
-krusolin - 十字線  
+kruseline - 十字線  
 kuangia - 鉱山  
 kuanger - 坑夫  
 kuarze - 石英  
@@ -739,9 +736,8 @@ kumulonepe - 積雲
 kupe - コップ  
 kupre - 銅  
 kurium - キュリウム  
-kuse - 横たえる  
-kusu - 寝転ぶ  
-kusen - 枕  
+kuxe - 寝転ぶ  
+kuxen - 枕  
 
 ## L  
 
@@ -749,8 +745,8 @@ lage - 湖
 lai - 来る  
 laiane - 持って来る  
 lale - 赤い  
-lalolince - ボブキャット  
-lalorange - ポンカン (マンダリン)  
+lalelince - ボブキャット  
+laloranje - ポンカン (マンダリン)  
 lalsalmon - ベニザケ  
 lalobavite - ルビー  
 lama - ラマ (チベット仏教の上師)  
@@ -777,8 +773,8 @@ lexe - 言葉
 lexojinse - 文法的性 (名詞クラス)  
 liama - ラマ  
 libu - 立つ  
-liboban - 棚  
-libobaze - 台  
+libeban - 棚  
+libebaze - 台  
 libele - 蜻蛉  
 lidoline - リード (手綱)  
 limon - レモン  
@@ -803,10 +799,10 @@ longe - 長い
 longokrokodil - クロコダイル  
 longopipre - 畢撥  
 lontre - 獺  
-love - 漏る  
+lou - 漏る  
 luge - 録  
-luge - 緑 (緑色)  
-lugomelon - ハネデューメロン  
+luke - 緑 (緑色)  
+lukemelon - ハネデューメロン  
 lumen - ルーメン  
 lumbe - 腰部  
 lumbalgia - 腰痛  
@@ -843,8 +839,6 @@ majang - 麻雀
 Maka - メッカ  
 makanful - タンポポ  
 • malonomia - 経済学  
-man - 男  
-mani reger - 王様  
 mangan - マンガン  
 manse - 肉  
 manto - マント (ケープ)  
@@ -858,8 +852,6 @@ maske - 仮面 (マスク)
 mate - 物質  
 mate cai - マテ茶  
 matur - 大人  
-maturi fem - 女の人  
-maturi man - 男の人  
 mau - 猫  
 maxobalaje - 増派 (援兵)  
 mayur - 孔雀  
@@ -917,8 +909,8 @@ mone - 金
 mos - 苔  
 mosim - 季節  
 moskovium - モスコビウム  
-moter - モーター (エンジン, 機関)  
-motosikle - オートバイ (モーターサイクル)  
+• moter - モーター (エンジン, 機関)  
+motesikle - オートバイ (モーターサイクル)  
 mul - 根  
 multe - 多い  
 • mumike - ミイラ  
@@ -926,7 +918,7 @@ mummelon - トウガン
 mun - 門  
 • daimun - 大門  
 mur - 壁  
-murkaguze - 壁紙  
+murkaguje - 壁紙  
 musli - ミューズリー  
 muze - 楽しみ (娯楽)  
 • muzante - 楽しい  
@@ -940,6 +932,7 @@ nagise - 汚い
 nagisbinde - 染み (汚点)  
 nam - 名前  
 namkitabe - 署名する (サイン)  
+nan - 男  
 narke - 麻薬  
 • narkose - 症  
 nasomede - 国際的  
@@ -967,9 +960,11 @@ neu - 新しい
 neuloge - 新語 (新造語)  
 neuyangike - 近代的  
 neurotoxe - 神経毒  
+ni - 女  
 nide - 巣  
 nikel - ニッケル  
-nile - 青い  
+nil - 青い  
+nilbavite - サファイア  
 nilcentaur - ヤグルマギク  
 nilseramsing - ヒナソウ  
 nilon - ナイロン  
@@ -1054,7 +1049,7 @@ pastopetre - マグマ (岩漿)
 patomise - 伝染  
 pau - 銃  
 pau - 撃つ  
-• prepede - 調製用  
+• prepedike - 調製用  
 peikar - 職業  
 peikare - プロフェッショナル  
 peikari jive - キャリア  
@@ -1084,9 +1079,9 @@ piprominte - ペパーミント
 piram - ピラミッド (金字塔)  
 pizaria - ピザ屋  
 • explanete - 系外惑星  
-plate - 平ら  
-plati geokaskia - プレートテクトニクス (プレート理論)  
-platostan - 草原  
+• platike - 平ら  
+plate geokaskia - プレートテクトニクス (プレート理論)  
+platestan - 草原  
 platinium - 白金  
 • exploze - 爆発  
 plum - セイヨウスモモ (プラム)  
@@ -1157,6 +1152,8 @@ ratibe - 整然
 razi table - 白紙状態  
 retrogul - 戻す (吐く)  
 retrogul sense - 吐き気 (嘔気)  
+• rejenan - 王様  
+• rejeni - 女王  
 • rejer - 国王  
 • relia - 実在 (現実)  
 • rel televizion - リアリティ番組  
@@ -1233,7 +1230,7 @@ sekuronume - 暗証番号
 • konseler - 顧問  
 selenium - セレン  
 selge - フダンソウ (スイスチャード)  
-• semolojia - 意味論  
+• semelojia - 意味論  
 sene - 年齢  
 senater - 上院議員  
 sense - 感覚  
@@ -1516,8 +1513,6 @@ yterbium - イッテルビウム
 ytrium - イットリウム  
 yuge - 軛  
 • yunike - 青少年  
-yune fem - 女の子  
-yune man - 男の子  
 yune moke - 若木  
 
 ## Z  

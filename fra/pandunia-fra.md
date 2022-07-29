@@ -23,14 +23,14 @@ adres - adresse
 adresoharfe - arobase (@)  
 afgan - afghan  
 Afgania - Afghanistan  
-Afrike - Afrique  
 Afrikan - africain  
 afrikofilia - afrophilie  
 afrikofiliste - afrophile  
+Afrike - Afrique  
 agile - agile  
 agre - cultiver  
-agrobiolojia - agrobiologie  
-agronomia - agronomie  
+agrebiolojia - agrobiologie  
+agrenomia - agronomie  
 ahe - comprendre (réaliser)  
 ai - aïe!  
 ainstainium - einsteinium  
@@ -61,9 +61,6 @@ Alaska - Alaska
 alga - algue  
 algafung - lichen  
 algajangle - forêt de kelp  
-alkale - base (alcali; basique)  
-alkaloguste - amer  
-alkalorange - orange amère  
 alkol - alcool  
 • alkoliste - alcoolique (buveur)  
 almari - placard  
@@ -135,9 +132,9 @@ arme - arme
 aromu - sentir qqch (avoir l'odeur de qqch)  
 arsene - arsenic  
 arte - art  
-• artofete - artefact  
-• artofete intelige (AI) - intelligence artificielle  
 • artiste - artiste  
+artefete - artefact  
+artefete intelige (AI) - intelligence artificielle  
 Artike - arctique  
 Artike Hai - océan Arctique  
 Aruba - Aruba  
@@ -238,15 +235,15 @@ Barbuda - Barbuda
 barde - barbe  
 barke - féliciter (felicitation)  
 barkoke - abricot  
-barse - pluie  
-barsocate - parapluie  
-barsokote - imperméable  
-barsomosim - mousson  
 barte - indien  
 Barte Hai - océan Indien  
 Bartia - Inde  
 baru - ours  
 barude - poudre à canon  
+barxe - pluie  
+barxecate - parapluie  
+barxekote - imperméable  
+barxemosim - mousson  
 bas - assez  
 basen - bassin  
 baske - panier (panier de basketball)  
@@ -260,18 +257,18 @@ batre - pile (batterie)
 bau - précieux  
 bavite - pierre précieuse (joyau)  
 baxe - langage  
-• duobaxike - bilingue  
+• dubaxike - bilingue  
 • polibaxike - plurilingue (multilingue)  
 • trabaxe - traduction  
-baxolojia - linguistique  
+baxelojia - linguistique  
 baze - base  
-baze bol - baseball  
-bazostrute - infrastructure  
-bazoxulkan - école primaire  
+bazebol - baseball  
+bazestrute - infrastructure  
+bazexulekan - école primaire  
 bazar - marché (bazar)  
 bebe - bébé  
 bedinje - aubergine  
-bekofan - terre cuite  
+bekefange - terre cuite  
 beker - boulanger  
 • belente - belligérant  
 • belike - belliqueux  
@@ -400,17 +397,17 @@ danger - cloche
 danse - dance  
 dante - dent  
 darotube - entonnoir  
-dargomute - développement  
+dargemute - développement  
 darmositium - darmstadtium  
 date - données  
 • dataje - dossier  
-datobanke - base de données  
-datoprocese - traitement de données  
-datoprocesolojia - informatique  
+datebanke - base de données  
+dateprocese - traitement de données  
+dateproceselojia - informatique  
 dauban - panneau de signalisation  
 de - de  
 defkaske - armure  
-defoban - bouclire  
+defeban - bouclire  
 den - jour (24 heures)  
 • denike - quotidien (journalier)  
 den un - lundi  
@@ -426,7 +423,7 @@ deunagre - dévanagari
 deusofia - théosophie  
 dike - viser (direction, cible; objectif)  
 • dikion - indication (deixis)  
-dikobaton - baguette  
+dikebaton - baguette  
 din - religion  
 • diniste - croyant  
 • andiniste - infidèle (incroyant)  
@@ -573,8 +570,8 @@ ful - fleur
 fulpote - pot de fleur  
 fungonete - mycélium  
 fungopal - champignon  
-futobol - football  
-futomarke - empreinte de pied  
+futebol - football  
+futemarke - empreinte de pied  
 futau - hache  
 fuze - melt  
 • exfuze - fondu  
@@ -583,6 +580,7 @@ fuzopetre - lave
 
 ## G  
 
+ga - aller (quitter)  
 gabre - tombe (enterrer)  
 gabrite - pierre tombale  
 gabrostan - cimetière  
@@ -607,12 +605,12 @@ gande - sentir qqch
 ganse - oie  
 ganum - blé  
 gar - si  
-garmomosim - été  
-garmozone - tropique  
-garmozone caustan - savane  
+garmemosim - été  
+garmezone - tropique  
+garmezone caustan - savane  
 gas - gaz  
 gate - dur  
-gau - haut  
+• gavaje - haut  
 gautehnia - hautes technologies  
 gaze - gaze  
 gazel - gazelle  
@@ -783,7 +781,7 @@ ivia - tendance
 
 jai - vaincre  
 jainisme - jaïnisme  
-jamokarde - carte à collectionner  
+jamekarde - carte à collectionner  
 jambul - prune de Java  
 janel - fenêtre  
 janelovel - rideau  
@@ -795,11 +793,11 @@ javabe - réponse
 jebecaku - canif  
 jebre - algèbre  
 jeke - prêter (empruntre)  
-jekocepe - empruntre  
-jekodone - prêter  
+jekecepe - empruntre  
+jekedone - prêter  
 • jelekan - prison (geôle)  
 jen - personne  
-• dusojen - ennemi  
+• dusjen - ennemi  
 jenje - gingembre  
 jenju - perle  
 jense - sexe  
@@ -834,21 +832,24 @@ kable - câble (corde)
 kaboge - citrouille  
 kadium - cadmium  
 kafe - café  
-kafe kan - café  
-kafe pote - cafetière  
+kafekan - café  
+kafepote - cafetière  
 kaguje - papier  
-kagujolimon - lime (citron vert)  
-kali harfe - espace  
+kagujelimon - lime (citron vert)  
 kalium - potassium  
+kaleharfe - espace  
 kalam - plume  
 kalende - calendrier  
+kali - base (alcali; basique)  
+kaliguste - amer  
+kalioranje - orange amère  
 kalifornium - californium  
 kalmar - calmar (encornet, calamar)  
 kalsite - calcite  
 kalsium - calcium  
-kalsokristal - marbre  
-kalsomate - chaux  
-kalsopetre - calcaire  
+kalsekristal - marbre  
+kalsemate - chaux  
+kalsepetre - calcaire  
 kam - peu  
 kama - luxure (libido)  
 Kama sutre - Kâmasûtra  
@@ -863,7 +864,7 @@ kanyon - canyon (ravin)
 kankuate - kumquat  
 Kantalupo i Sabina - Cantalupo in Sabina  
 kanu - canoë  
-kapotruke - piège  
+kapetruke - piège  
 kare - travailler  
 • karaje - travail  
 • karer - travailleur (ouvrier)  
@@ -907,25 +908,23 @@ ke jen - qui
 ke mode - comment  
 ke sate - quand  
 kecape - ketchup  
-kexobroxe - brosse à cheveux  
-kexofentor - sèche-cheveux  
+kexebroxe - brosse à cheveux  
+kexefentor - sèche-cheveux  
+keze - fromage  
+kezeproten - caséine  
 kime - substance  
+• kimia - chimie  
 • kimium - élément chimique  
-• kimolojia - chimie  
 kimono - kimono  
 kine - mouvoir (bouger)  
 kinu - se mouvoir  
 • kinofilike - cinéphile  
 Kinsasa - Kinshasa  
-kite - aller (quitter)  
-kite - parti  
 kitabe - écrire (écriture)  
 • kitabia - littérature  
 kitabekan - bibliothèque  
 kitabemaxin - machine à écrire  
 kivi - kiwi  
-kize - fromage  
-kizoproten - caséine  
 • proklame - proclamer  
 klare - clair  
 klarvider - clairvoyant  
@@ -948,9 +947,7 @@ konserte - concert
 konus - cône  
 kope - copie  
 kopernikium - copernicium  
-kore - coeur  
-kore - courir  
-korer - coureur  
+kor - coeur  
 koral - corail  
 korne - corne  
 koron - couronne  
@@ -975,7 +972,7 @@ krokodil - crocodilien
 krokroke - grenouille  
 kromium - chrome  
 krote - taupe  
-kruasante - croissant  
+kruasan - croissant  
 krus - croix  
 kuangia - mine  
 kuarze - quartz  
@@ -986,10 +983,9 @@ kupe - coupe (tasse, verre)
 kupre - cuivre  
 kurium - curium  
 • prekurser - précurseur  
-kuse - coucher  
-kusu - être couché  
-kusloke - couch (couchette)  
-kusen - coussin  
+kuxe - être couché (coucher)  
+kuxloke - couch (couchette)  
+kuxen - coussin  
 
 ## L  
 
@@ -998,7 +994,7 @@ lage - lac
 lai - venir  
 laiane - apporter  
 lale - rouge  
-lalorange - mandarine  
+laloranje - mandarine  
 lalsalmon - saumon sockeye  
 lalobavite - rubis  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
@@ -1019,8 +1015,8 @@ lazanya - lasagne
 lazure - azur  
 lazurite - lapis-lazuli  
 lege - léger  
-lengomosim - hiver  
-lengomosime - hivernal (hibernal)  
+lengemosim - hiver  
+lengemosimike - hivernal (hibernal)  
 lense - lentille  
 Lesa - Lhassa  
 letre - lettre  
@@ -1031,7 +1027,7 @@ lexe - mot
 • lexike - lexical  
 lexojinse - genre grammatical  
 liama - lama  
-liboban - étagère  
+libeban - étagère  
 libele - libellule  
 • lider - dirigeant (leader)  
 lifafe - envelopper (emballer)  
@@ -1061,7 +1057,7 @@ longodure - prolongé
 longokrokodil - crocodile  
 longopipre - poivre long  
 lontre - loutre  
-luge - vert  
+luke - vert  
 • lumive - lumineux  
 lumen - lumen  
 lumbe - lombes  
@@ -1190,17 +1186,17 @@ mone - argent
 mos - mousse  
 mosim - saison  
 moskovium - moscovium  
-motor skuter - scooter  
-moter - moteur  
+• moter - moteur  
+moteskuter - scooter  
 muke - visage  
 mul - racine  
 • multeple - multiple  
 • mumike - momie  
 mur - mur  
-murkaguze - papier peint  
+murkaguje - papier peint  
 murce - fourmi  
 mus - devoir  
-muskulobine - culturisme (musculation)  
+muskulbine - culturisme (musculation)  
 musli - musli  
 muze - amuser  
 muzike - musique  
@@ -1249,7 +1245,8 @@ neurocel - neurone
 neurotoxe - neurotoxine  
 nide - nid  
 nikel - nickel  
-nile - bleu  
+nil - bleu  
+nilbavite - saphir  
 nilcentaur - Centaurée bleuet  
 nilon - nylon  
 niobium - niobium  
@@ -1373,7 +1370,7 @@ patomise - infecter (infection, contagion)
 pau - pistolet  
 pauze - pause  
 • repauze - repos  
-• prepede - propédeutique (préparatoire)  
+• prepedike - propédeutique (préparatoire)  
 peikar - profession (métier)  
 peikari jive - carrière  
 • expele - expulser  
@@ -1414,14 +1411,13 @@ pizaria - pizzeria
 plan - plan  
 • explanete - exoplanète  
 plaste - modeler  
-plastopaste - pâte à modeler  
-plati geokaskia - tectonique des plaques  
-platogeiste - terreplatiste  
-platostan - plaine  
+plastepaste - pâte à modeler  
+plate geokaskia - tectonique des plaques  
+plategeiste - terreplatiste  
+platestan - plaine  
 platinium - platine  
 • exploze - exploser (détoner; explosion)  
 • inploze - imploser (implosion)  
-inplozu - imploser  
 plum - prune  
 plumbe - plomb  
 plutonium - plutonium  
@@ -1506,6 +1502,8 @@ razi table - tabula rasa
 retre - retour (retourner, revenir; remettre)  
 retrogul sense - nausée  
 reje - régner  
+• rejenan - roi  
+• rejeni - reine  
 rel - réel  
 • relia - réalité  
 • rel televizion - téléréalité  
@@ -1601,8 +1599,8 @@ sel - conseil (conseiller)
 selenium - sélénium  
 selge - blettes (bettes)  
 seme - signifier (voiloir dire)  
-• semoforer - sémaphore  
-• semolojia - sémantique  
+• semeforer - sémaphore  
+• semelojia - sémantique  
 sene - âge  
 • senike - vieux (ancien)  
 senater - sénateur  
@@ -1863,7 +1861,7 @@ viole - violon
 violete - violet (pourpre)  
 virge - vierge  
 virus - virus  
-visereger - vice-roi  
+viserejer - vice-roi  
 vitamin - vitamine  
 Vixnu - Vishnou  
 vode - promettre (vœu , promesse)  

@@ -19,8 +19,8 @@ afgan - afegão
 Afgania - Afeganistão  
 agile - ágil  
 agre - cultivar  
-agrobiolojia - agrobiologia  
-agronomia - agronomia  
+agrebiolojia - agrobiologia  
+agrenomia - agronomia  
 ai - ai!  
 ainstainium - einstânio  
 air - ar  
@@ -40,8 +40,6 @@ ale - outro (alterar)
 aloraye - discordar  
 alga - alga  
 algajangle - floresta de algas  
-alkale - base (álcali; alcalino)  
-alkaloguste - amargo  
 alkol - álcool  
 • alkoliste - alcoólatra (bêbado)  
 almari - armário  
@@ -76,12 +74,12 @@ arke - arco
 arkocate - abóbada  
 arme - arma  
 aromu - cheirar  
-aromomelon - melão coreano  
+aromemelon - melão coreano  
 arsene - arsénic  
 arte - arte  
-• artofete - artefato  
-• artofete intelige (AI) - inteligência artificial  
 • artiste - artista  
+artefete - artefato  
+artefete intelige (AI) - inteligência artificial  
 asar - efetuar (efeito)  
 asle - origem (original)  
 aslamerike - indígena (índio)  
@@ -146,11 +144,11 @@ barium - bário
 baromur - barreira  
 barde - barba  
 barkoke - damasco (abricó)  
-barse - chuva  
-barsocate - guarda-chuva  
-barsokote - capa de chuva  
-barsomosim - monção  
 baru - urso  
+barxe - chuva  
+barxecate - guarda-chuva  
+barxekote - capa de chuva  
+barxemosim - monção  
 bas - bastante (suficiente)  
 basen - bacia  
 baske bol - basketball  
@@ -164,17 +162,17 @@ batre - pilha (bateria)
 bau - precioso  
 bavite - pedra preciosa (gema)  
 baxe - língua (idioma)  
-• duobaxike - bilíngue  
+• dubaxike - bilíngue  
 • polibaxike - multilíngue (plurilíngue)  
-baxolojia - linguística  
+baxelojia - linguística  
 baze - base  
-baze bol - basebol (beisebol)  
-bazostrute - infraestrutura  
-bazoxulkan - ensino primário  
+bazebol - basebol (beisebol)  
+bazestrute - infraestrutura  
+bazexulekan - ensino primário  
 bazar - mercado (bazar)  
 bebe - bebê  
 bedinje - beringela  
-bekofan - terracota  
+bekefange - terracota  
 beker - padeiro  
 • belente - beligerante  
 • belike - bélico  
@@ -295,15 +293,15 @@ dane - semente
 danger - sino (campainha)  
 danse - baile (danza)  
 darotube - funil  
-dargomute - desenvolvimento  
+dargemute - desenvolvimento  
 darmositium - darmstádio  
 date - dados  
-datobanke - banco de dados  
-datoprocese - processamento de dados  
-datoprocesolojia - informática (ciência da computação)  
+datebanke - banco de dados  
+dateprocese - processamento de dados  
+dateproceselojia - informática (ciência da computação)  
 de - de  
 defkaske - armadura  
-defoban - escudo  
+defeban - escudo  
 dege - ter (achar, receber)  
 den - dia (24 horas)  
 • denike - diário  
@@ -319,7 +317,7 @@ deunagre - devanágari
 deusofia - teosofia  
 dike - directionar (apontar, mirar; direção; objetivo)  
 • dikion - dêixis  
-dikobaton - ponteiro  
+dikebaton - ponteiro  
 din - religião  
 • diniste - crente  
 • andiniste - infiel  
@@ -440,13 +438,14 @@ ful - flor
 fulpote - vaso de flores  
 funge - fungo  
 fungopal - cogumelo  
-futobol - futebol  
-futomarke - pegada  
+futebol - futebol  
+futemarke - pegada  
 futau - machado  
 fuze - derretre  
 
 ## G  
 
+ga - ir  
 gabre - sepultura (túmulo; enterrar)  
 gabrite - lápide  
 gabrostan - cemitério  
@@ -469,8 +468,8 @@ gande - cheiro
 ganse - ganso  
 ganum - trigo  
 gar - se  
-garmomosim - verão  
-garmozone - trópicos  
+garmemosim - verão  
+garmezone - trópicos  
 gas - gás  
 gate - duro  
 gaze - gaze  
@@ -619,7 +618,7 @@ ivia - tendência
 ## J  
 
 • ajame - encontrar  
-jamokarde - cromo  
+jamekarde - cromo  
 jambul - jambolão (jambo)  
 janel - janela  
 janelovel - cortina  
@@ -629,10 +628,10 @@ jau - cevada
 javabe - resposta  
 jebecaku - canivete  
 jeke - emprestar (pedir emprestado)  
-jekocepe - pedir emprestado  
-jekodone - emprestar  
+jekecepe - pedir emprestado  
+jekedone - emprestar  
 jen - pessoa  
-• dusojen - inimigo  
+• dusjen - inimigo  
 jenje - jengibre  
 jenju - pérola  
 jense - sexo  
@@ -666,21 +665,23 @@ kable - corda (cabo)
 kaboge - abóbora (jerimun)  
 kadium - cádmio  
 kafe - café  
-kafe kan - café  
-kafe pote - cafeteira  
+kafekan - café  
+kafepote - cafeteira  
 kaguje - papel  
-kagujolimon - lima  
-kali harfe - espaço  
+kagujelimon - lima  
 kalium - potássio  
+kaleharfe - espaço  
 kalam - lápis  
 kalende - calendário  
+kali - base (álcali; alcalino)  
+kaliguste - amargo  
 kalifornium - califórnio  
 kalmar - lula (calamar)  
 kalsite - calcita  
 kalsium - cálcio  
-kalsokristal - mármore  
-kalsomate - cal  
-kalsopetre - calcário  
+kalsekristal - mármore  
+kalsemate - cal  
+kalsepetre - calcário  
 kam - poucos  
 kama - luxúria  
 kamar - sala (câmara)  
@@ -694,7 +695,7 @@ kankuate - quincã (cunquate)
 Kantalupo i Sabina - Cantalupo in Sabina  
 kantalupomelon - meloa (cantalupo)  
 kanu - canoa  
-kapotruke - armadilha  
+kapetruke - armadilha  
 kare - trabalhar  
 • karaje - trabalho  
 • karer - trabalhador  
@@ -738,23 +739,21 @@ ke mode - como
 ke sate - quando  
 kecape - catchup  
 kenarbaryer - cerca  
-kexobroxe - escova de cabelo  
-kexofentor - secador de cabelo  
+kexebroxe - escova de cabelo  
+kexefentor - secador de cabelo  
+keze - queijo  
 kime - substância  
+• kimia - química  
 • kimium - elemento químico  
-• kimolojia - química  
 kimono - quimono  
 kine - mover  
 kinu - Mover-se  
 • kinofilike - cinéfilo  
-kite - ir  
-kitane - remover  
 kitabe - escrever (escrita)  
 • kitabia - literatura  
 kitabekan - biblioteca  
 kitabemaxin - máquina de escrever  
 kivi - quivi  
-kize - queijo  
 • proklame - aclamar  
 klare - claro  
 klarvider - clarividente  
@@ -776,9 +775,7 @@ konserte - concerto
 konus - cono  
 kope - cópia  
 kopernikium - copernício  
-kore - núcleo (cerne)  
-kore - correr  
-korer - corredor  
+kor - núcleo (cerne)  
 koral - coral  
 korne - corno  
 kornemelon - pepino-africano (kiwano)  
@@ -801,7 +798,7 @@ krokodil - crocodiliano
 krokroke - rã  
 kromium - crómo  
 krote - toupeira  
-kruasante - croassã  
+kruasan - croassã  
 krus - cruz  
 kuangia - mina  
 kuarze - quartzo  
@@ -812,9 +809,8 @@ kupe - copo (taça)
 kupre - cobre  
 kurium - cúrio  
 • prekurser - precursor  
-kuse - deitar  
-kusu - estar deitado (jazer)  
-kusen - almofada (coxim)  
+kuxe - deitar (jazer)  
+kuxen - almofada (coxim)  
 
 ## L  
 
@@ -823,7 +819,7 @@ lage - lago
 lai - vir  
 laiane - trazer  
 lale - vermelho  
-lalorange - tangerina (mandarim)  
+laloranje - tangerina (mandarim)  
 lalsalmon - salmão-vermelho  
 lalobavite - rubi  
 lama - lama  
@@ -843,8 +839,8 @@ laxe - deixar
 lazanya - lasanha  
 lazure - azur (blau)  
 lazurite - lápis-lazúli  
-lengomosim - inverno  
-lengomosime - invernal (hibernal)  
+lengemosim - inverno  
+lengemosimike - invernal (hibernal)  
 lense - lente  
 Lesa - Lassa  
 letre - carta  
@@ -855,7 +851,7 @@ lexe - palavra (vocábulo)
 • lexike - léxico  
 lexojinse - gênero gramatical  
 liama - lhama  
-liboban - prateleira (estante)  
+libeban - prateleira (estante)  
 libele - libélula  
 • lider - líder (chefe)  
 lifafe - embalar  
@@ -884,8 +880,8 @@ longe - longo
 longodure - prolongado  
 longokrokodil - crocodilo  
 lontre - lontra  
-love - vazar  
-luge - verde  
+lou - vazar  
+luke - verde  
 • lumive - luminoso  
 lumen - lúmen  
 lumbe - lombo  
@@ -1011,15 +1007,15 @@ monte - montanha (monte)
 mos - musgo  
 mosim - estação (sazão)  
 moskovium - moscovio  
-motor skuter - motoneta (lambreta)  
-moter - motor  
+• moter - motor  
+moteskuter - motoneta (lambreta)  
 mul - raíz  
 • multeple - múltiplos  
 • mumike - múmia  
 mur - muro (muralha)  
-murkaguze - papel de parede  
+murkaguje - papel de parede  
 mus - dever  
-muskulobine - fisiculturismo  
+muskulbine - fisiculturismo  
 musli - muesli  
 muzike - música  
 
@@ -1065,7 +1061,8 @@ neurocel - neurônio
 neurotoxe - neurotoxina  
 nide - ninho (vespiero)  
 nikel - níquel  
-nile - azur  
+nil - azur  
+nilbavite - safira  
 nilcentaur - escovinha (centáurea)  
 niobium - nióbio  
 Nipon - Japão  
@@ -1218,14 +1215,13 @@ pizaria - pizzaria
 plan - plano  
 • explanete - exoplaneta (planeta extrassolar)  
 plaste - moldar (modelar)  
-plaste - plástico  
-plastopaste - massa de modelar (massinha)  
-plati geokaskia - tectónica de placas  
-platogeiste - terraplanista  
+• plastebil - plástico  
+plastepaste - massa de modelar (massinha)  
+plate geokaskia - tectónica de placas  
+plategeiste - terraplanista  
 platinium - platina  
 • exploze - explosão (explodir)  
 • inploze - imploção (implodir)  
-inplozu - implodir  
 plum - ameixa  
 plumbe - chumbo  
 plutonium - plutónio  
@@ -1301,6 +1297,8 @@ razi table - tábula rasa
 retre - retornar (voltar)  
 retrogul sense - náusea  
 reje - reinar  
+• rejenan - rei  
+• rejeni - rainha  
 rel - real  
 • relia - realidade  
 • rel televizion - televisão de realidade  
@@ -1382,7 +1380,7 @@ sel - conselho (aconselhar)
 selenium - selénio  
 selge - acelga  
 seme - significar (querer dizer)  
-• semolojia - semântica  
+• semelojia - semântica  
 sene - idade  
 • senike - idoso (sene)  
 senater - senador  
@@ -1608,7 +1606,7 @@ violete - purpúreo (roxo)
 virge - virgem  
 visematre - madrasta  
 visepatre - padrasto  
-visereger - vice-rei  
+viserejer - vice-rei  
 vitamin - vitamina  
 Vixnu - Vixnu  
 vode - promessa (voto)  

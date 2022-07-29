@@ -18,9 +18,9 @@ adamas - 钻石
 adres - 地址  
 Afgania - 阿富汗  
 agile - 灵活的  
-agrobiolojia - 土壤生物学  
-agronomia - 农学  
-agrovilaje - 农村  
+agrebiolojia - 土壤生物学  
+agrenomia - 农学  
+agrevilaje - 农村  
 ainstainium - 锿  
 air - 空气  
 anairobike - 厌氧的  
@@ -36,9 +36,6 @@ aloraye - 不同意
 alga - 藻类  
 algafung - 地衣  
 algajangle - 海藻林  
-alkale - 碱性  
-alkaloguste - 苦的  
-alkalomelon - 苦瓜  
 alkol - 酒  
 • alkoliste - 酒鬼  
 almari - 碗碟橱  
@@ -77,11 +74,11 @@ arke - 弓 (琴弓, 拱)
 arkocate - 拱顶  
 arme - 武器  
 aromu - 发臭  
-aromomelon - 香瓜  
+aromemelon - 香瓜  
 arsene - 砷  
 arte - 美术  
-• artofete intelige (AI) - 人工智能  
 • artiste - 美术家  
+artefete intelige (AI) - 人工智能  
 asar - 影响  
 asle - 起源 (原始)  
 asma - 气喘  
@@ -144,11 +141,11 @@ bankorutia - 破产
 banya - 洗澡 (游泳)  
 barium - 钡  
 barkoke - 杏子  
-barse - 雨  
-barsocate - 伞  
-barsokote - 雨衣  
-barsomosim - 雨季  
 baru - 熊  
+barxe - 雨  
+barxecate - 伞  
+barxekote - 雨衣  
+barxemosim - 雨季  
 bas - 够  
 baske bol - 篮球  
 bate - 八 (8)  
@@ -161,14 +158,14 @@ bau - 宝 (宝贵)
 bavite - 宝石  
 baxe - 语言  
 • trabaxe - 翻译  
-baxolojia - 语言学  
+baxelojia - 语言学  
 baze - 底部  
-baze bol - 棒球  
-bazostrute - 基础设施  
-bazoxulkan - 小学  
+bazebol - 棒球  
+bazestrute - 基础设施  
+bazexulekan - 小学  
 bazar - 市场  
 bebe - 宝宝  
-bekofan - 陶瓦  
+bekefange - 陶瓦  
 • rebelion - 叛乱  
 • rebeler - 反叛者 (起义者)  
 belce - 铲  
@@ -275,15 +272,15 @@ danograne - 种子
 danger - 钟 (摇铃)  
 dantobalute - 槲树  
 darotube - 漏斗  
-dargomute - 发展 (开发)  
+dargemute - 发展 (开发)  
 date - 数据  
-datobanke - 数据库  
-datoprocese - 数据处理  
-datoprocesolojia - 计算机科学  
-datotable - 表格  
+datebanke - 数据库  
+dateprocese - 数据处理  
+dateproceselojia - 计算机科学  
+datetable - 表格  
 de - 从  
 defkaske - 盔甲  
-defoban - 盾牌  
+defeban - 盾牌  
 dege - 得 (获得)  
 • sudeke - 道德  
 den - 日  
@@ -297,7 +294,7 @@ den cete - 星期日 (禮拜日)
 deu - 神  
 deunagre - 天城文  
 dike - 方向 (目的, 目标, 瞄准)  
-dikobaton - 教鞭  
+dikebaton - 教鞭  
 din - 宗教  
 • diniste - 信徒  
 • andiniste - 不信神的  
@@ -367,7 +364,6 @@ fatige - 疲劳
 fe - 作  
 fei - 飞  
 feke - 粪  
-fem - 女  
 feni - 数字的  
 fenkate - 分析  
 • fentor - 鼓风机 (电风扇)  
@@ -407,7 +403,7 @@ fulopote - 花瓶
 fulpote - 花盆  
 • funcebil - 機能的  
 fungopal - 蘑菇  
-futomarke - 脚印  
+futemarke - 脚印  
 futau - 斧头  
 fuze - 融化  
 • exfuze - 熔炼  
@@ -415,6 +411,7 @@ fuzopetre - 熔岩
 
 ## G  
 
+ga - 去  
 gabre - 坟墓 (埋葬)  
 gabrite - 墓石 (墓碑)  
 gabrostan - 公墓 (墓地)  
@@ -433,11 +430,11 @@ gande - 闻到
 ganse - 雁 (鹅)  
 ganum - 麦  
 gar - 如果 (要是)  
-garmomosim - 夏季  
-garmozone - 热带  
-garmozone caustan - 稀树草原  
+garmemosim - 夏季  
+garmezone - 热带  
+garmezone caustan - 稀树草原  
 gate - 硬  
-gatomate - 固体  
+gatemate - 固体  
 gautehnia - 高科技 (高技术)  
 geoforme - 地势  
 geografia - 地理  
@@ -586,18 +583,19 @@ jambul - 閻浮樹
 janel - 窗戶  
 janelfrem - 窗框  
 janelovel - 窗帘  
-jangoxute - 武术  
+jang - 仗 (爭)  
+jangxute - 武术  
 jangle - 野生  
 jangle van - 丛林  
 jau - 大麦  
 javabe - 回答  
 jebecaku - 小刀  
 jeke - 借  
-jekocepe - 借入  
-jekodone - 借出  
+jekecepe - 借入  
+jekedone - 借出  
 • jelekan - 监狱 (监牢)  
 jen - 人  
-• dusojen - 敌人  
+• dusjen - 敌人  
 jenje - 姜  
 jenju - 珍珠  
 jense - 性别  
@@ -622,21 +620,24 @@ kable - 电缆 (电线)
 kaboge - 南瓜  
 kadium - 镉  
 kafe - 咖啡  
-kafe kan - 咖啡馆  
-kafe pote - 咖啡壶  
+kafekan - 咖啡馆  
+kafepote - 咖啡壶  
 kaguje - 纸  
-kagujolimon - 墨西哥萊檬  
-kali harfe - 空隙  
+kagujelimon - 墨西哥萊檬  
 kalium - 钾  
+kaleharfe - 空隙  
 kalam - 笔  
 kalende - 日历  
+kali - 碱性  
+kaliguste - 苦的  
+kalimelon - 苦瓜  
 kalifornium - 锎  
 kalmar - 鱿鱼  
 kalsite - 方解石  
 kalsium - 钙  
-kalsokristal - 大理石  
-kalsomate - 石灰  
-kalsopetre - 石灰岩  
+kalsekristal - 大理石  
+kalsemate - 石灰  
+kalsepetre - 石灰岩  
 kam - 少  
 kama - 情欲  
 Kama sutre - 欲经  
@@ -651,7 +652,7 @@ kangaru - 袋鼠
 kanyon - 峡谷 (深谷)  
 kankuate - 金柑  
 kantalupomelon - 鈔皮瓜  
-kapotruke - 陷阱  
+kapetruke - 陷阱  
 kare - 工作  
 • karaje - 工作  
 • karekan - 工厂  
@@ -692,23 +693,21 @@ keci - 客气
 keger - 客人  
 kenar - 边  
 kenarbaryer - 篱笆  
-kexobroxe - 发刷  
-kexofentor - 电吹风 (吹风机)  
+kexebroxe - 发刷  
+kexefentor - 电吹风 (吹风机)  
+keze - 酪 (起司)  
 kime - 物质  
+• kimia - 化学  
 • kimium - 元素  
-• kimolojia - 化学  
 kimono - 和服  
 kine - 动  
 kinu - 动  
 • kinofilike - 影迷  
-kite - 去  
-kitane - 除去  
 kitabe - 写  
 • kitabia - 文学  
 kitabekan - 图书馆  
 kitabemaxin - 打字机  
 kivi - 奇异果  
-kize - 酪 (起司)  
 klien - 顾客  
 klimomute - 气候变化  
 klorium - 氯  
@@ -721,9 +720,7 @@ Kongfuze - 孔夫子
 konserte - 音乐会  
 konus - 锥体  
 kope - 摹本 (拷貝)  
-kore - 核心  
-kore - 跑步  
-korer - 跑步者  
+kor - 核心  
 koral - 珊瑚  
 korne - 角  
 kornemelon - 刺角瓜  
@@ -746,9 +743,9 @@ krokodil - 鳄
 krokroke - 蛙  
 kromium - 铬  
 krote - 鼹鼠  
-kruasante - 牛角包  
+kruasan - 牛角包  
 krusarke - 弩 (十字弓)  
-krusolin - 十字线  
+kruseline - 十字线  
 kuangia - 矿场  
 kuarze - 石英  
 kube - 立方体  
@@ -757,8 +754,8 @@ kumulonepe - 积云
 kupe - 杯子  
 kupre - 铜  
 kurium - 锔  
-kusu - 躺  
-kusen - 墊子  
+kuxe - 躺  
+kuxen - 墊子  
 
 ## L  
 
@@ -766,8 +763,8 @@ lage - 湖
 lai - 来  
 laiane - 带来  
 lale - 红  
-lalolince - 短尾貓  
-lalorange - 柑橘 (红橘)  
+lalelince - 短尾貓  
+laloranje - 柑橘 (红橘)  
 lalsalmon - 紅鮭  
 lalobavite - 红宝石  
 lama - 喇嘛  
@@ -787,7 +784,7 @@ lazanya - 千层面
 lazurite - 青金岩  
 le - 了  
 lenge - 冷たい (寒い)  
-lengomosim - 冬天  
+lengemosim - 冬天  
 lense - 透镜  
 Lesa - 拉萨  
 letre - 信 (书信)  
@@ -798,8 +795,8 @@ lexe - 词
 lexojinse - 文法的性  
 leze - 梨  
 liama - 大羊駝  
-liboban - 架子 (搁板)  
-libobaze - 架子  
+libeban - 架子 (搁板)  
+libebaze - 架子  
 libele - 蜻蜓  
 • lider - 领导  
 limon - 柠檬  
@@ -823,9 +820,9 @@ lon - 论
 longe - 长  
 longopipre - 荜拔  
 lontre - 獭  
-love - 漏  
+lou - 漏  
 luge - 录  
-luge - 绿色  
+luke - 绿色  
 lumen - 流明  
 lumbe - 腰部  
 lumbalgia - 腰痛  
@@ -866,8 +863,6 @@ maste - 桅
 mate - 物质  
 mate cai - 马黛茶  
 matur - 成年人  
-maturi fem - 女人  
-maturi man - 男人  
 mau - 猫  
 • maxime - 最  
 maxobalaje - 加固  
@@ -929,18 +924,18 @@ mone - 钱
 monte - 山  
 mos - 苔藓  
 mosim - 季  
-moter - 马达 (发动机)  
+• moter - 马达 (发动机)  
 mul - 根  
 • mumaje - 木蜜亚 (地蜡)  
 • mumike - 木乃伊  
-mummelon - 冬瓜 (白瓜)  
 mumcape - 封印  
+mummelon - 冬瓜 (白瓜)  
 mun - 门  
 • daimun - 大门  
 mur - 墙壁  
-murkaguze - 壁纸 (墙纸)  
+murkaguje - 壁纸 (墙纸)  
 murce - 蚂蚁  
-muskulobine - 健美运动  
+muskulbine - 健美运动  
 musli - 木斯里 (瑞士麦片)  
 muze - 娱乐  
 muzike - 音乐  
@@ -979,9 +974,11 @@ neu - 新
 • nevike - 新手  
 neuloge - 新词  
 neurotoxe - 神经毒素  
+ni - 女  
 nide - 巢 (穴)  
 nikel - 镍  
-nile - 蓝色  
+nil - 蓝色  
+nilbavite - 蓝宝石  
 nilcentaur - 矢車菊  
 nilseramsing - 茜草花  
 nilon - 尼龙  
@@ -1101,8 +1098,8 @@ piprominte - 辣薄荷
 piram - 金字塔  
 pizaria - 比萨店  
 • explanete - 系外行星  
-plati geokaskia - 板块构造论  
-platostan - 平原  
+plate geokaskia - 板块构造论  
+platestan - 平原  
 platinium - 铂  
 • exploze - 爆炸  
 • inploze - 内爆  
@@ -1169,6 +1166,8 @@ ratibe - 整理
 retre - 返回 (回来)  
 retrogul - 呕吐  
 retrogul sense - 恶心  
+• rejenan - 王 (国王)  
+• rejeni - 女王  
 • relia - 现实  
 • rel televizion - 真人秀  
 rel televizion - 真人秀  
@@ -1238,7 +1237,7 @@ saure - 蜥蜴
 semen - 彼此  
 • konseler - 顾问  
 selenium - 硒  
-• semolojia - 语义学  
+• semelojia - 语义学  
 sene - 年岁  
 senater - 参议员  
 sense - 感觉  

@@ -32,15 +32,15 @@ adres - adres
 adresoharfe - małpa (znak na  
 afgan - afgański  
 Afgania - Afganistan  
-Afrike - Afryka  
 Afrikan - afrykański, Afrykanin  
 afrikofilia - afrəfiliə  
 afrikofiliste - afrofil  
+Afrike - Afryka  
 agile - zwinny, sprawny  
 agre - uprawić, uprawiać  
 • agrer - rolnik, farmer  
-agronomia - agronomia  
-agrostan - wieś, tereny wiejskie  
+agrenomia - agronomia  
+agrestan - wieś, tereny wiejskie  
 ahe - rozumieć, pojmować  
 ai - aj!, ał!  
 ainstainium - einstein  
@@ -70,11 +70,8 @@ Alaska - Alaska
 alga - alga (wodorost)  
 algafung - porost  
 algajangle - las wodorostów  
-alkaloguste - gorzki  
-alkalomelon - przepękla ogórkowata (balsamka ogórkowata)  
-alkalorange - gorzka pomarańcza  
 alkol - alkohol  
-alkolomixe - koktajl  
+alkolmixe - koktajl  
 almari - kredens (szafa, szafka)  
 aluminium - glin (aluminium)  
 ame - kochać (miłość, afekt)  
@@ -133,11 +130,11 @@ arker - łucznik
 arkeria - łucznictwo  
 arme - broń  
 aromu - pachnieć  
-aromomelon - melon koreański  
+aromemelon - melon koreański  
 arsene - arsen  
 arte - sztuka  
-• artofete intelige (AI) - sztuczna inteligencja  
 • artiste - artysta  
+artefete intelige (AI) - sztuczna inteligencja  
 Artike - Arktyka  
 Artike Hai - Ocean Arktyczny  
 Aruba - Aruba  
@@ -236,14 +233,14 @@ Barbuda - Barbuda
 barde - broda  
 barke - gratulować (błogosławić, gratulacje)  
 barkoke - morela  
-barse - deszcz (padać, lać)  
-barsocate - parasol  
-barsokote - płaszcz nieprzemakalny  
 barte - Indyjski  
 Barte Hai - Ocean Indyjski  
 Bartia - Indie  
 baru - niedźwiedź  
 barude - proch strzelniczy  
+barxe - deszcz (padać, lać)  
+barxecate - parasol  
+barxekote - płaszcz nieprzemakalny  
 bas - wystarczający  
 basen - basen  
 baske - kosz  
@@ -260,19 +257,19 @@ batre - bateria
 bau - skarb (skrabiec; cenny)  
 bavite - klejnot  
 baxe - język  
-• duobaxike - dwujęzyczny  
+• dubaxike - dwujęzyczny  
 • konbaxe - wspólny język  
 • polibaxike - wielojęzyczny  
 • trabaxe - tłumaczyć (interpretować; tłumaczenie, interpretacja)  
 • trabaxer - tłumacz  
-baxokanun - gramatyka  
-baxolojia - językoznastwo  
+baxekanun - gramatyka  
+baxelojia - językoznastwo  
 baze - podstawa (baza, fundament, dół, spód; bazowy; zakładać, założyć, ustanowić)  
 • bazer - założyciel  
-baze bol - bejsbol (baseball)  
-bazokanun - konstytucja  
-bazopetre - skała macierzysta  
-bazoxulkan - szkoła podstawowa  
+bazebol - bejsbol (baseball)  
+bazekanun - konstytucja  
+bazepetre - skała macierzysta  
+bazexulekan - szkoła podstawowa  
 bazar - rynek, bazar  
 bazarhurisme - liberalizm rynkowy  
 be - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
@@ -282,7 +279,7 @@ bedinje - bakłażan, oberżyna
 bege - uciec, uciekać  
 Beijing - Pekin  
 beke - piec  
-bekofan - terakota  
+bekefange - terakota  
 bekekan - piekarnia  
 beker - piekarz  
 bel - bel  
@@ -513,18 +510,18 @@ dantotiber - dentysta
 dare - latać (fruwać)  
 darotube - lejek  
 darge - stopień, poziom, ranga, klasa  
-dargomeden - gradient (gradacja, stopniowanie)  
-dargomute - rozwój  
 • dusdarge - dezaktualizować (pogorszyć)  
 • sudarge - aktualizować (zaktualizować, ulepszać, ulepszyć)  
+dargemeden - gradient (gradacja, stopniowanie)  
+dargemute - rozwój  
 darmositium - darmsztadt  
 darte - grunt (ziemia, próchnica; ziemny, glebowy, gruntowy))  
 darvinisme - darwinizm  
 darviniste - darwinista  
 date - dane  
-datobanke - baza danych (bank danych)  
-datoprocesolojia - informatyka  
-datotable - tablioca, macierz  
+datebanke - baza danych (bank danych)  
+dateproceselojia - informatyka  
+datetable - tablioca, macierz  
 dau - droga, szosa, ulica  
 • davisme - taoizm  
 • daviste - taoista  
@@ -533,11 +530,11 @@ de - z (od)
 defe - obronić (chronić; obrona)  
 defkaske - zbroja  
 • defer - obrońca  
-defoban - tarcza  
+defeban - tarcza  
 dege - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 deger - odbiorca  
 deke - moralność, etyka  
-• dekolojia - etyka  
+• dekelojia - etyka  
 • sudeke - cnota (moralność)  
 deme - lud (społeczeństwo; publiczny)  
 demografia - demografia  
@@ -565,7 +562,7 @@ deu - bóg, bóstwo
 • devisme - teizm  
 • pandevisme - panteizm  
 • polidevisme - politeizm  
-• unodevisme - monoteizm  
+• undevisme - monoteizm  
 • deviste - teistyczny  
 • andeviste - ateista  
 • deukratia - teokracja  
@@ -575,7 +572,7 @@ deunagre - dewanagari
 deusage - mit, boska opowieść  
 deusofia - teozofia  
 dike - cel (celować; kierunek)  
-dikobaton - wskaźnik  
+dikebaton - wskaźnik  
 din - religia, wyznanie  
 • diniste - wierzący (osoba religijna)  
 • andiniste - niewierny  
@@ -730,6 +727,7 @@ fase - powierzchnia
 fasokaribe - płytki  
 fasotele - głęboki  
 fasotelia - głębokość  
+• polifas - wielościan  
 fasile - łatwy, prosty  
 fasin - fascynacja  
 fason - moda (trend; modny, popularny)  
@@ -743,9 +741,6 @@ febre - gorączka
 fei - lot (latać, lecieć)  
 feimus - nietoperz  
 • defeke - srać (robić gówno)  
-fem - kobieta; kobiecy  
-femi pute - córka  
-femi reger - królowa  
 femisme - feminizm  
 femiste - feminista (feministka)  
 fen - dzielić (część, ułamek)  
@@ -776,8 +771,8 @@ file - lubić (zamiłowanie, -filia)
 Filipin - Filipiny  
 Filistin - Terytorium Palestyńskie  
 filme - film  
-filsofe - filozoficzny  
 • filsofia - filozofia  
+• filsofike - filozoficzny  
 • filsofer - filozof  
 filter - filtr  
 fin - koniec (skończyć, kończyć)  
@@ -848,12 +843,12 @@ fungopal - sporokarp
 • dusfunse - awaria (wadliwe działanie)  
 • konfunsebil - kompatybilny (pasujący)  
 fure - zły (wsciekły, gniewny)  
-furia - gniew, furia  
+• furia - gniew, furia  
 furete - tchórz, fretka  
 fute - stopa  
-futoban - rusztowanie (trap)  
-futobol - piłka nożna  
-futoxake - noga  
+futeban - rusztowanie (trap)  
+futebol - piłka nożna  
+futexake - noga  
 futau - siekera (topór)  
 fuze - topnieć (upłynniać się)  
 • fuzion - fuzja (amalgamowanie, łączenie)  
@@ -863,6 +858,7 @@ fuzopetre - lawa
 
 ## G  
 
+ga - iść (przemieścić się)  
 Gabon - Gabon  
 gabre - grób (mogiła; zakopać, pochować)  
 gabrite - nagrobek  
@@ -902,22 +898,21 @@ garante - gwarancja
 garde - chronić, strzec, osłaniać, bronić  
 garder - strażnik, ochroniarz  
 garme - ciepły  
-garmi masal - garam masala  
-garmomosim - lato  
-garmomosimmedi den - przesilenie letnie (dzień srodka lata)  
-garmozone - tropiki  
-garmozone caustan - sawanna  
-garmozonike - tropikalny  
+garme masal - garam masala  
+garmemosim - lato  
+garmemosimmide den - przesilenie letnie (dzień srodka lata)  
+garmezone - tropiki  
+garmezone caustan - sawanna  
+garmezonike - tropikalny  
 gas - gaz  
 gate - twardy  
-gatomate - stały (sztywny)  
-gau - góra (szczyt)  
+gatemate - stały (sztywny)  
+gau - wysoki  
+• gavia - wysokość  
+• gavaje - góra (szczyt)  
+• gavife - podnosić (podnieść)  
+gaudipike - pionowy  
 gau tanur - wielki piec  
-gave - podnosić (podnieść)  
-gave - wysoki  
-gavia - wysokość  
-gavu - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
-gautale - pionowy  
 gaze - gaza  
 gazel - gazela  
 gazete - magazyn, dziennik, gazeta  
@@ -1213,7 +1208,7 @@ ironia - ironia
 islam - poddanie się, uległość, pokora, posłuszeństwo  
 • islamia - Islam  
 • islaman - muzułman, muzułmanin  
-• islamofobia - islamofobia  
+• islamfobia - islamofobia  
 • islamike - islamski  
 • islamisme - Islam  
 • islamiste - muzułman, muzułmanin  
@@ -1246,7 +1241,7 @@ janelovel - zasłona, kurtyna
 jang - walka, wojna  
 • jangike - militarny, wojskowy, wojenny  
 • janger - wojownik, bojownik  
-jangoxute - sztuka walki  
+jangxute - sztuka walki  
 jangle - dziki  
 jangle van - dżungla  
 jau - jęczmień  
@@ -1255,9 +1250,9 @@ jaze - jazz, dżez
 jebe - kieszeń  
 jebre - algebra  
 jeke - pożyczyć  
-jekocepe - pożyczać (pożyczyć)  
-jekodone - pożyczać komuś (pożyczyć komuś)  
-jekolexe - zapożyczenie (wyraz obcy)  
+jekecepe - pożyczać (pożyczyć)  
+jekedone - pożyczać komuś (pożyczyć komuś)  
+jekelexe - zapożyczenie (wyraz obcy)  
 jele - uwięzić, więzić, pozbawić wolności  
 • jelekan - więzienie, zakład karny  
 • jeler - strażnik więzienny  
@@ -1290,7 +1285,7 @@ jul - dżul (J)
 jupiter - Jowisz  
 jus - sok  
 juste - precyzyjny (dokładny)  
-justopaver - snajper (strzelec wyborowy)  
+justepaver - snajper (strzelec wyborowy)  
 
 ## K  
 
@@ -1303,32 +1298,35 @@ kaboge - kabaczek (dynia, tykwa)
 Kabu Verdi - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
 kadium - kadm  
 kafe - kawa  
-kafe kan - kawiarnia  
-kafe kupe - filiżanka do kawy  
-kafe pote - imbryk do kawy  
+kafekan - kawiarnia  
+kafekupe - filiżanka do kawy  
+kafepote - imbryk do kawy  
 kafir - niewierny (poganin, niewierzący)  
 kaguje - papier  
-kagujolimon - lima (limonka)  
+kagujelimon - lima (limonka)  
 kai - otwarty (otworzyć, otwierać)  
 • dekai - zamknąć (zamykać; zamknięty)  
 Kaiman nesia - Kajmany  
 kaka - ekskrement (gówno; defekować, srać)  
 kakau - kakao  
-kale - pustka  
 kale - pusty  
-kali harfe - spacja  
+• kalaje - pustka  
 kalium - potas  
+kaleharfe - spacja  
 Kalalia - Grenlandia  
 kalam - pióro, długopis  
 kalende - kalendarz  
+kaliguste - gorzki  
+kalimelon - przepękla ogórkowata (balsamka ogórkowata)  
+kalioranje - gorzka pomarańcza  
 kalifornium - kaliforn  
 kalkulia - rachunek (formalny system obliczeń)  
 kalmar - kałamarnica (mątwa)  
 kalsite - kalcyt  
 kalsium - wapń  
-kalsokristal - marmur  
-kalsomate - wapno  
-kalsopetre - wapień  
+kalsekristal - marmur  
+kalsemate - wapno  
+kalsepetre - wapień  
 kam - niewiele (mało)  
 • kamia - nieliczność  
 kama - pożądanie, żadza  
@@ -1363,15 +1361,15 @@ kanu - kanoe
 kanun - prawo  
 kanzar - sztylet (puginał)  
 kape - złapać, łapać, schwytać, chwytać  
-kapa pes - łapać rybę  
-kapotruke - pułapka  
+kape pexe - łapać rybę  
+kapetruke - pułapka  
 kare - pracować  
 • karaje - praca, zjęcie, zadanie  
 • karer - pracownik  
 • konkare - współpracować (kolaborować)  
 karelexe - czasownik  
-karomeza - biurko  
-karoxuler - praktykant  
+karemeza - biurko  
+karexuler - praktykant  
 kara - czarny  
 karaoke - karaoke  
 karate - karate  
@@ -1439,38 +1437,37 @@ kerube - cherubin
 ketle - czajnik  
 kex - włos  
 kexbende - opaska do włosów  
-kexosabun - szampon  
+kexesabun - szampon  
+keze - ser  
+kezeproten - kazeina  
 kilogram - kilogram (kg)  
 kilomitre - kilometr  
-• kimi - chemiczny  
-• kimolojia - chemia  
+• kimia - chemia  
+• kimike - chemiczny  
 kimono - kimono  
 kine - ruch  
 kine - ruszać, przenościć, zmieniać miejsce, inspirować  
 kine - ruchowy, kinetyczny  
 • kinofilike - kinoman  
-• kinograf - kino  
-• kinografe - kinowy  
+• kinografe - kino  
 • kinografia - kinematografia  
+• kinografike - kinowy  
 Kinsasa Kongo - Demokratyczna Republika Konga  
 kioske - kiosk  
 Kipris - Cypr  
 kire - wynająć, wynajmować, zatrudnić, zatrudniać  
-kirodone - wynająć, oddać w najem  
-kirogete - wynająć, oddać w najem  
+kiredege - wynająć, oddać w najem  
+kiredone - wynająć, oddać w najem  
 kirate - karat  
 Kirgizia - Kirgistan  
 Kiribati - Kiribati  
 kiril harfia - cyrylica  
-kite - iść (przemieścić się)  
 kitabe - pisać (pismo)  
 kitaboforme - formatowanie  
 kitabekan - biblioteka  
 kitabemanter - bibliotekarz  
 kitabemaxin - maszyna do pisania  
 kivi - owoc kiwi  
-kize - ser  
-kizoproten - kazeina  
 klame - krzyknąć, krzyczeć  
 klare - przeźroczysty (jasny; oczywiście)  
 • klarife - wyklarować (rozjaśnić)  
@@ -1524,13 +1521,12 @@ kope - kopia, replika
 kope - kopiować, replikować  
 kopohake - prawa autorskie  
 kopernikium - kopernik  
-kore - rdzeń (jądro, pestka)  
-kore fenia - rozszczepienie jądra atomowego  
-kore fizikia - fizyka nuklearna  
-kore - biec (biegać, pędzić)  
-kori arme - broń nuklearna  
-kori energia - energia nuklearna  
-korofuzion - fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)  
+kor - rdzeń (jądro, pestka)  
+korarme - broń nuklearna  
+korenergia - energia nuklearna  
+korfenia - rozszczepienie jądra atomowego  
+korfizikia - fizyka nuklearna  
+korefuzion - fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)  
 koral - koral  
 korne - róg  
 kornemelon - ogórek kiwano  
@@ -1570,10 +1566,10 @@ krevete - krewetka
 krim - przestępstwo  
 krime - kryminalny, przestępczy  
 kriste - Chrystus, mesjasz  
-kriste - mesjański  
-kristojen - Boże Narodzenie  
-kristisme - chrześcijaństwo  
-krististe - chrześcijanin  
+• kristike - mesjański  
+• kristisme - chrześcijaństwo  
+• krististe - chrześcijanin  
+kristejen - Boże Narodzenie  
 • antikriste - antychryst  
 krite - ocena, krytyka  
 • krita - ocenić, oceniać, recenzować, komentować, krytykować  
@@ -1585,20 +1581,20 @@ krokodil - krokodyl
 krokroke - żaba  
 kromium - chrom  
 krote - kret  
-kruasante - croissant  
+kruasan - croissant  
 krus - krzyż  
-krusu - przejść w poprzek  
+krus - przejść w poprzek  
 krusarke - kusza (balista)  
-krusofixe - ukrzyżować  
-krusolin - celownik optyczny (siatka lunety)  
+krusefixe - ukrzyżować  
+kruseline - celownik optyczny (siatka lunety)  
 kuane - szeroki  
 kuania - szerokość  
 kuang - minerał, ruda  
 kuange - kopać (wydobywać)  
 kuangia - kopalnia  
 kuanger - górnik (kopacz)  
-kuangosui - woda mineralna  
-kuangotunel - szyb górniczy  
+kuangsui - woda mineralna  
+kuangtunel - szyb górniczy  
 kuarze - kwarc  
 kube - sześcian  
 Kuba - Kuba  
@@ -1613,7 +1609,7 @@ kultur - kultura
 • polikulture - wielokulturowy  
 • polikulturisme - wielokulturowość  
 kupe - kubek  
-kupocate - kopuła  
+kupecate - kopuła  
 kupon - kupon  
 kupre - miedź  
 kure - pielęgnować, leczyć  
@@ -1621,11 +1617,10 @@ kurium - kiur
 kuran - Koran  
 • prekurser - prekursor  
 kurve - wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać  
-kuse - położyć  
-kusu - leżeć  
-kusloke - kuszetka (koja)  
-kusen - poduszka  
 Kuvaitia - Kuwejt  
+kuxe - leżeć (położyć)  
+kuxloke - kuszetka (koja)  
+kuxen - poduszka  
 
 ## L  
 
@@ -1634,8 +1629,8 @@ lage - jezioro
 lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 laka - lakier  
 lale - czerwony  
-lalolince - ryś rudy  
-lalorange - mandarynka  
+lalelince - ryś rudy  
+laloranje - mandarynka  
 lalsalmon - nerka (łosoś czerwony)  
 lalobavite - rubin  
 lama - lama  
@@ -1664,8 +1659,8 @@ lazanya - lazania
 lazurite - lapis lazuli  
 lege - lekki  
 lenge - zimny, chłodny  
-lengomosim - zima  
-lengomosime - zimowy  
+lengemosim - zima  
+lengemosimike - zimowy  
 lense - soczewka  
 letre - list  
 letus - sałata  
@@ -1678,12 +1673,12 @@ lexojinse - rodzaj gramatyczny
 lexoliste - lista słów  
 leze - gruszka  
 liama - lama  
+Libia - Libia  
 libe - postawić (stawiać)  
 libe - postawiony (stojący)  
-Libia - Libia  
 libu - stać  
-liboban - półka (regał na książki)  
-libobaze - stojak (wieszak)  
+libeban - półka (regał na książki)  
+libebaze - stojak (wieszak)  
 Libanen - Liban  
 libele - ważka  
 Liberia - Liberia  
@@ -1745,13 +1740,13 @@ longokrokodil - krokodyl
 longopipre - pieprz długi  
 lontre - wydra  
 lote - wsad, partia, porcja, seria  
-love - przeciekać, ciec  
-lova sang - krwawić  
+lou - przeciekać, ciec  
+lou sang - krwawić  
 luge - rejestr (zapisać, zarejestrować)  
-luge - zielony  
 • lugia - register  
-lugomelon - melon miodowy  
-lugobuke - dziennik pokładowy (notatnik)  
+lugebuke - dziennik pokładowy (notatnik)  
+luke - zielony  
+lukemelon - melon miodowy  
 lumen - lumen  
 lun - księżyc  
 lun - miesiąc  
@@ -1821,9 +1816,6 @@ Malta - Malta
 Malvinas nesia - Falklandy, Malwiny  
 • mamal - ssak  
 mamal - ssak  
-man - męski  
-mani pute - syn  
-mani reger - król  
 manete - magnes  
 • manetike - magnetyczny  
 mangan - mangan  
@@ -1869,9 +1861,6 @@ mate - materia, substancja
 mate - materialny  
 matras - materac  
 matur - osoba dorosła  
-mature - dorosły, dojrzały  
-maturi fem - kobieta, dorosła samica  
-maturi man - mężczyzna, dorosły samiec  
 mau - kot  
 Maurisia - Mauritius  
 max - bardzie  
@@ -2020,37 +2009,37 @@ moskite - komar, moskit
 Moskove - Moskwa  
 moskovium - moskovium  
 mote - ruch  
-motogar - samochód (automobil)  
-moter - silnik  
-motosikle - motocykl (motor)  
+• moter - silnik  
+motegar - samochód (automobil)  
+motesikle - motocykl (motor)  
 Mozambike - Mozambik  
 mudan - piwonia  
 muh - krowa  
 muhmanse - wołowina  
 muke - twarz  
-mukofun - puder  
+mukefun - puder  
 mul - korzeń  
 multe - wiele  
-multia - liczność (mnóstwo)  
+• multia - liczność (mnóstwo)  
 mum - wosk  
 • mumaje - mumio  
 • mumike - mumia  
-mummelon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 mumcape - pieczęć woskowa  
 mumfote - świeca  
 mumjen - mumia  
+mummelon - beninkaza szorstka (beninkaza woskodajna, woszcza szorstka)  
 Mumbai - Bombaj (Mumbaj)  
 mun - drzwi, brama, portal  
 mungus - mangusta  
 mur - mur, ściana  
-murkaguze - tapeta  
+murkaguje - tapeta  
 murce - mrówka  
 Muritania - Mauretania  
 mus - przymus (musieć; zmusić, zmuszać, wymusić, wymuszać, przymusić, przymuszać)  
 muskete - muszkiet  
 musketer - muszkieter  
 muskul - muskuł, mięsień  
-muskulobine - kulturystyka  
+muskulbine - kulturystyka  
 musli - musli  
 mute - zmienić, zmieniać  
 mux - mysz  
@@ -2079,6 +2068,7 @@ namkitabe - podpis (autograf)
 • pronam - zaimek  
 namelexe - rzeczownik  
 Namibia - Namibia  
+nan - męski  
 nane - nano-  
 nanomitre - nanometr  
 nanas - ananans  
@@ -2150,12 +2140,14 @@ Nevis - Nevis
 neure - nerw  
 neurocel - neuron  
 neuropatia - neuropatia  
+ni - kobieta; kobiecy  
 nide - gniazdo (ul, nora, jama, barłóg, legowisko)  
 Niger - Niger  
 Nigiria - Nigeria  
 Nikaragua - Nikaragua  
 nikel - nikiel  
-nile - niebieski  
+nil - niebieski  
+nilbavite - szafir  
 nilcentaur - bławatek  
 nilseramsing - houstoia azurowa  
 nilon - nylon  
@@ -2415,29 +2407,26 @@ plane - planować
 planete - planeta  
 • explanete - egzoplaneta  
 plasme - plazma (zjonizowany gaz)  
-plastike - plastik  
+• plastike - plastik  
 plate - płaszczyzna (płyta)  
-plate - płaski  
-plati geokaskia - tektonika płyt  
-platoforme - platforma  
-platogeiste - płaskoziemca  
-platostan - równina (plaskowyż, plateau)  
-platotas - talerz  
+• platike - płaski  
+plate geokaskia - tektonika płyt  
+plateforme - platforma  
+plategeiste - płaskoziemca  
+platestan - równina (plaskowyż, plateau)  
+platetas - talerz  
 platinium - platyna  
 Platon - Platon  
-platonike - platoniczne  
-platonisme - platonizm  
-platoniste - platończyk  
+• platonike - platoniczne  
+• platonisme - platonizm  
+• platoniste - platończyk  
 • exploze - wybuch (eksplozja)  
 • inploze - implozja (implodować)  
-inplozu - implodować  
 plum - śliwka  
 plumbe - ołów  
 Pluton - Pluton (planeta karłowata)  
 plutonium - pluton  
 poke - poker  
-polfas - wielościan  
-polmene - wieloznaczny  
 polau - pilaw  
 polia - ilość  
 poli mar - często  
@@ -2579,6 +2568,8 @@ retrogul - wymiotować (zwrócić)
 retrogul sense - nudności (choroba lokomocyjna)  
 • rejia - królestwo  
 • rejike - królewski  
+• rejenan - król  
+• rejeni - królowa  
 • rejer - król lub królowa  
 • relia - rzeczywistość (realność)  
 renium - ren  
@@ -2744,7 +2735,8 @@ sel - rada, porada
 selenium - selen  
 selge - boćwina (botwina)  
 seme - znaczyć  
-• unoseme - jednoznaczny  
+• polisemike - wieloznaczny  
+• unsemike - jednoznaczny  
 semente - cement  
 sene - wiek  
 senater - senator  
@@ -3233,7 +3225,7 @@ virus - wirus
 viruslojia - wirusologia  
 vise - wice- (alternatywa, substytut, zastępstwo)  
 visepresidante - wiceprezydent  
-visereger - wicekról  
+viserejer - wicekról  
 viski - viski  
 vite - śruba, wkręt  
 vitamin - witamina  
@@ -3389,8 +3381,6 @@ yuge - jarzmo
 yune - młody  
 • yunia - młodość  
 • yunike - młodzież, młoda osoba  
-yune fem - dziewczyna  
-yune man - chłopak  
 yune moke - młode drzewo  
 
 ## Z  
