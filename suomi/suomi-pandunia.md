@@ -44,7 +44,7 @@ aihe (teema) - tem
 aiheesta (-sta) - teme  
 aika (aikakausi, kausi) - zaman  
 aikakausi - durezam  
-aikuinen - matur  
+aikuinen - sengjen  
 aina - pansato  
 aine (aines, materia) - kime  
 aine (materia) - mate  
@@ -891,7 +891,7 @@ Itä-Timor - Dong Timor
 itäinen - dongike  
 itämainen lohikäärme - lung  
 Itävalta - Ostria  
-iäkäs (vanhus) - senike  
+iäkäs - senike  
 
 ## J  
 
@@ -1075,7 +1075,7 @@ kansalaistaito - sivopedia
 kansallinen - nasial  
 kansallissosialismi - nasial sosisme  
 kansallisuusaate (nationalismi) - nasisme  
-kansanryhmien välinen - zukomede  
+kansanryhmien välinen - zukemide  
 kansanryhmä (etninen ryhmä) - zuke  
 kansio (hakemisto) - dokumsanduke  
 kantaa - porte  
@@ -1488,6 +1488,7 @@ kynsi - nahun
 kynttilä - mumfote  
 kynä - kalam  
 Kypros - Kipris  
+kypsä (aikuinen) - seng  
 kypärä - sarokaske  
 kyrilliset aakkoset - kiril harfia  
 kyselylomake - sualodokum  
@@ -1564,8 +1565,12 @@ lapio - belce
 lapislatsuli - lazurite  
 lappo - darotube  
 lapsenlapsi - benben  
+lapsi (alaikäinen) - youjen  
+lapsi (alaikäinen, epäkypsä, kasvava) - you  
 lapsi (jälkeläinen) - ben  
 lapsi - bace  
+lapsuus (epäkypsyys) - yovia  
+lapsuusvuodet - younen  
 lasagne - lazanya  
 lasi (juomalasi) - glasokupe  
 lasi (lasimateriaali) - glas  
@@ -1905,6 +1910,7 @@ metsä - van:
 miekka - katana  
 mielipide (näkemys) - rai  
 mielivaltainen (ilman tuomiota) - exjude  
+mies - cengnan  
 mikro- - mikro-  
 mikrobi - mikrobie  
 mikrobiologia - mikrobiolojia  
@@ -2044,6 +2050,7 @@ nahka (kuori, iho) - pil
 nahuatli - navate  
 naida (mennä naimisiin) - game  
 nailon - nilon  
+nainen - cengni  
 Namibia - Namibia  
 nano- - nane  
 nanometri - nanomitre  
@@ -2124,9 +2131,9 @@ nuha (vilustuminen) - zukam
 nukke - pupe  
 nukkua (nukkuminen, uni) - some  
 nuoli - flece  
-nuori - yune  
-nuorukainen - yunike  
-nuoruus - yunia  
+nuori - jun  
+nuorukainen - junjen  
+nuoruusvuodet - junnen  
 nussia (panna) - code  
 nuudeli - mien  
 nykyinen (tämänhetkinen) - zai zaman su  
@@ -2457,6 +2464,7 @@ Pohjois-Irlanti - Norde Eire
 Pohjois-Korea - Norde Cosen  
 Pohjois-Kypros - Norde Kipris  
 pohtia (meditoida) - medite  
+poika (nuori mies) - younan  
 pois - abe  
 pois käytöstä - defunse  
 poissulkeva (eksklusiivinen) - exkluzive  
@@ -3442,6 +3450,7 @@ typologia - tipelojia
 typpi - nitre  
 tyranni - zalime reger  
 tyrannia - zalimia  
+tyttö (nuori neito) - youni  
 Tyyni valtameri - Pace Hai  
 tyyny - kuxen  
 tyyrpuuri - nauraite  
@@ -3575,6 +3584,8 @@ vanginvartija - jeler
 vangita - jele  
 vanha (iäkäs) - lau  
 vanhempi (isä tai äiti) - cin  
+vanhus (seniori) - laujen  
+vanhuusvuodet - launen  
 vanilja - vanila  
 vankila - jelekan  
 Vanuatu - Vanuatu  
@@ -3731,7 +3742,7 @@ voittaa (voitto) - jai
 voittaja - jayer  
 voitto pandunialle! - jai pandunia  
 vokaali (ääntiö) - vokal son  
-vokaali - zungofon  
+vokaali - zungfone  
 vokatiivi (sijamuoto) - vokative kasu  
 volframi - volfram  
 voltti (V) - volte  

@@ -42,7 +42,7 @@ administrator - politer
 admiral - haiamirer  
 admire (adore) - fanate  
 adolescent (yong man; maiden) - kumar  
-adult - matur  
+adult - sengjen  
 adultery (infidelity) - zine  
 advanced (high-level) - gaudarge  
 advancement (milestone) - progresion  
@@ -494,6 +494,7 @@ box (container, case) - kase
 boxer - bokser  
 boxer shorts (boxers) - bokserpante  
 boxing - bokse  
+boy - younan  
 boycott - boikote  
 brain - serebre  
 branch (bough) - xake  
@@ -702,6 +703,8 @@ chickpea - humus
 chief (boss) - xefe  
 child (minor) - bace  
 child (offspring) - ben  
+childhood (immaturity) - yovia  
+childhood (years of being very young) - younen  
 Chile - Cile  
 chimpanzee - cimpanze  
 China - Zungogia  
@@ -1249,6 +1252,7 @@ eject (throw out) - exjete
 El Salvador - Salvador  
 elastic - laste  
 elative case - exlative  
+elderly (senior, old person) - laujen  
 electric - eletre  
 electric - eletrike  
 electric car - eletre kar  
@@ -1644,6 +1648,7 @@ gift certificate (gift card) - donajoceke
 ginger - jenje  
 ginseng - jensen  
 giraffe - jiraf  
+girl - youni  
 give - done  
 glass (tumbler) - glasokupe  
 glass - glas  
@@ -1966,6 +1971,8 @@ Indonesia - Indonesia
 induce (introduce, lead in) - indute  
 Indus river - Hinde riu  
 inessive case - inesive  
+infant (child) - youjen  
+infantile (juvenile, immature) - you  
 infect (infection, infestation, contagion) - patomise  
 infect - infete  
 infection - infetion  
@@ -2011,7 +2018,7 @@ interest (curiosity) - sabevol
 interested (curious) - sabevole  
 interested (curious) - sabevolive  
 interesting (curious) - besabovole  
-interethnic - zukomede  
+interethnic - zukemide  
 interface - midofas  
 international - nasomede  
 internet - internete  
@@ -2378,6 +2385,7 @@ Malta - Malta
 mammal - mamal  
 mammal - mamal  
 mammals - mamalia  
+man (adult male) - cengnan  
 manage (organize) - nome  
 management (arrangement, -nomy) - nomia  
 mandarin - cina manter  
@@ -2434,6 +2442,7 @@ mathematics (math) - hisabolojia
 matter (be important) - si ham  
 matter (substance) - mate  
 mattress - matras  
+mature (grown-up, ripe, adult) - seng  
 maté - mate  
 maté tea - mate cai  
 Mauritania - Muritania  
@@ -2792,6 +2801,7 @@ ogre (troll, goblin) - gui
 okay (acceptance; accept, say okay) - okei  
 okra (okro) - bamia  
 old (aged, elderly) - lau  
+old age - launen  
 olive - zaitun  
 olive oil - zaitunlipe  
 Oman - Oman  
@@ -3512,7 +3522,7 @@ sandstone - sablepetre
 sandwich - sanduice  
 Sao Paulo - Sante Paulo  
 Sao Tome and Principe - Sante Tome e Principe  
-sapling - yune moke  
+sapling - youmoke  
 sapphire - nilbavite  
 Satanism (devil worship) - xatanisme  
 Satanist - xataniste  
@@ -3768,7 +3778,7 @@ space (cosmos, universe) - kosmia
 spaceship - kosmonau  
 Spain - Espania  
 spear thistle - penakardon  
-spearmint - zongominte  
+spearmint - zongminte  
 special (distinct) - has  
 species - zong  
 spectator (sightseer) - vider  
@@ -4297,7 +4307,7 @@ volcano - hogoxan
 volt (V) - volte  
 voodoo - vodun  
 vote (ballot) - vote  
-vowel - zungofon  
+vowel - zungfone  
 vowel - vokal son  
 vulva - vulve  
 waffle - vafle  
@@ -4402,6 +4412,7 @@ wisdom - sofia
 wise - sofe  
 wolf - volfe  
 Wolof (language and people) - Volof  
+woman (adult female) - cengni  
 wonder (be interested in, would like to know) - vol sabe  
 wonderful (marvel, mirable) - ajibebil  
 wood (timber) - mokomate  
@@ -4446,11 +4457,11 @@ Yoruba (language and people) - yoruba
 yotta- - yota  
 you (singular) - tu  
 you all - tumen  
-young (juvenile) - yune  
+young (youthful) - jun  
 your - tu su  
 your - tumen su  
-youth (young age) - yunia  
-youth (young person) - yunike  
+youth (years in life following childhood) - junnen  
+youth (youngster, young person) - junjen  
 ytterbium - yterbium  
 yttrium - ytrium  
 

@@ -61,7 +61,7 @@ adoquín - sirkite
 adorar (venerar; adoración, veneración, culto) - puje  
 adormidera (amapola real) - somopapil  
 adulterio - zine  
-adulto - matur  
+adulto - sengjen  
 adverbo - modelexe  
 adversario (oponente) - xatan  
 aeroplano - viman  
@@ -1650,7 +1650,7 @@ hexaedro (cubo) - sixofase
 hexágono - sixogon  
 hidrógeno - hidre  
 hielo (congelarse, helarse) - ais  
-hierbabuena - zongominte  
+hierbabuena - zongminte  
 hierro - fer  
 higiene - salsafia  
 hijastro o  hijastra - gamben  
@@ -1672,6 +1672,7 @@ holismo - holisme
 holmio - holmium  
 holograma - holografe  
 holoturia (pepino de mar) - haihiyar  
+hombre (señor) - cengnan  
 hombro - kante  
 homorromántico - homoromanse  
 homosexual - homosexe  
@@ -1763,6 +1764,7 @@ Indostán - Hindia
 indígena (indio) - aslamerike  
 inequívoco - unomene  
 inequívoco - unsemike  
+infantil (inmaduro) - you  
 infección - infetion  
 infectar (contagiar; infección, contagio) - patomise  
 inferior - subike  
@@ -1811,7 +1813,7 @@ interracial - rasomede
 interrogativa - sualive  
 interrumpir - interrute  
 interés - sabevol  
-interétnica - zukomede  
+interétnica - zukemide  
 intestino (visceras, entrañas, tripas) - intraje  
 introvertido - introverse  
 invernal - lengemosimike  
@@ -1879,8 +1881,8 @@ jirafa - jiraf
 joder (coger, copular) - code  
 Jordania - Urdun  
 joule (J) - jul  
-joven - yune  
-joven - yunike  
+joven - jun  
+joven - junjen  
 judaísmo - yahudisme  
 judío - yahude  
 juego (jugar un juego) - gem  
@@ -1899,7 +1901,7 @@ juntura - junture
 Jupiter - jupiter  
 justicia - adalia  
 justo - adal  
-juventud - yunia  
+juventud - junnen  
 juzgar (fallo, juicio, criterio) - jude  
 
 ## K  
@@ -2082,6 +2084,7 @@ madera - mokomate
 madrastra - visematre  
 madre (mamá) - mai  
 madre - matre  
+maduro (adulto, curado) - seng  
 maestro (experto) - mester  
 maestro (gurú, profesor) - guru  
 maestro (profesor) - xenseng  
@@ -2327,6 +2330,7 @@ mueca - guimuke
 muela - molite  
 muesli - musli  
 mujer (hembra) - ni  
+mujer (señora) - cengni  
 mula - gadogude  
 multicultural - polikulture  
 multiculturalismo - polikulturisme  
@@ -2417,6 +2421,8 @@ niobio - niobium
 nitrógeno - nitre  
 Niue - Niue  
 nivel - parestan  
+niña - youni  
+niño - younan  
 niño o niña - bace  
 no - no  
 no binario (género) - bis  
@@ -2726,7 +2732,7 @@ pila (batería) - batre
 pilaf (pulaw) - polau  
 piloto - piloter  
 pimienta - pipre  
-pimpollo - yune moke  
+pimpollo - youmoke  
 pincel - pentobrox  
 pingüino - pinguin  
 pino - song  
@@ -3601,6 +3607,7 @@ vatio - vat
 veganismo - purfitoyamisme  
 vegano - purfitoyamiste  
 vegetariano - fitoyamiste  
+vejez (tercera edad) - launen  
 vela (candela, cirio) - mumfote  
 velero - naver  
 velo - hijabe  
@@ -3672,7 +3679,7 @@ viudo - vidou
 vivisección - jivotome  
 vivo (lleno de vida) - jive  
 vocabulario (léxico) - lexia  
-vocal - zungofon  
+vocal - zungfone  
 vocal - vokal son  
 volar (vuelo) - fei  
 volcán - hogoxan  

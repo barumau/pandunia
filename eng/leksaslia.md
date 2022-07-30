@@ -594,6 +594,7 @@
 **jongle** *juggle* ← French:jongler, English:juggle, Russian:жонглировать (žonglirovat’), Japanese:ジャグリング (jaguringu)  
 **juba** *robe (jubbah)* ← Arabic: جُبَّة (jubba), Swahili:juba, Malay:jubah, Spanish:aljuba  
 **jude** *judge (judgment, sentence; judicial)* ← English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji + Russian:суд (sud)  
+**jun** *young (youthful)* ← French:jeune, Spanish:joven, Portuguese:jovem, Persian: جوان‎ (javân), Hindi:जवान (javān) + Korean:젊다 (jeomda)  
 **junte** *joint (join)* ← English:joint, French:jonction, Spanish:Portuguese:junta, deu:junktion  
 **jus** *juice* ← English:juice, Swahili:jusi, Tamil:ஜூஸ் (jūs), Japanese:ジュース (jūsu), Korean:주스 (juseu)  
 **juste** *precise (exact, accurate; just, exactly)* ← English:just, French:juste, Spanish:justo, Italian:giusto, Japanese:ジャスト (jasto)  
@@ -1248,6 +1249,7 @@
 **selge** *chard* ← Arabic:سلق (silqa), Spanish:Portuguese:acelga  
 **semente** *cement* ← English:cement, Malay:semen, Spanish:cemento, Swahili:sementi, Turkish:çimento, Vietnamese:xi măng, Hindi:सीमेंट (siment), Russian:цемент (tsement), Arabic:(ʾasmant), Korean:시멘트 (simenteu)  
 **sene** *age* ← Arabic: سِنّ‎ (sinn), Hindi:सिन (sin) + Spanish:Portuguese:sene + Mandarin:岁 (suì), Cantonese:歲 (seoi3), Korean:세  (-se), Japanese:歳 (-sai)  
+**seng** *mature (grown-up, ripe, adult)* ← Mandarin:成 (chéng), Cantonese:成 (sing4), Japanese:成 (sei), Korean:성 (seong)  
 **sense** *sense (method of perception)* ← English:sense, Spanish:Portuguese:sentido, French:sens  
 **sente** *feel (sense by touch)* ← Spanish:Portuguese:sentir  
 **sente** *hundred (100)* ← French:cent, English:cent-, Spanish:cien, Portuguese:cem, Russian:сто (sto), Hindi:शत (śat), Bengali:শত (śôt) + Japanese:パーセント (pasēnto), Korean:퍼센트 (peosenteu), Malay:persen  
@@ -1539,10 +1541,10 @@
 **yon** *ion* ← English:French:Spanish:ion, Russian:ион (ion), Turkish:iyon  
 **yota** *yotta-* ← English:French:Spanish:Portuguese:yotta, Malay:yota-, Mandarin:尧它- (yáotā-), Japanese:ヨタ- (yota-), Korean:요타- (yota-)  
 **yote** *drop (droplet)* ← Thai:หยด (yòt), Vietnamese:giọt, + English:iota, Russian:йота (yota)  
+**you** *infantile (juvenile, immature)* ← Mandarin:幼 (yòu), Cantonese:幼 (yau3), Japanese:幼 (yõ), Korean:유 (yu) + Hindi:युवा (yuvā), Tamil:யுவன் (yuvaṉ), Telugu:యువ (yuva) + Spanish:joven, Portuguese:jovem, French:juvénile  
 **yterbium** *ytterbium* ← English:ytterbium, French:ytterbium, Spanish:iterbio, Portuguese:itérbio, Russian:иттербий, Mandarin:镱 (yì), Japanese:イッテルビウム, Korean:이테르븀, Vietnamese:ytecbi, Hindi:यिट्टरबियम, Bengali:ইটারবিয়াম, Malay:iterbium, Swahili:yitebi, Arabic: يتربيوم  
 **ytrium** *yttrium* ← English:yttrium, French:yttrium, Spanish:itrio, Portuguese:itrio, Russian:иттрий, Mandarin:钇 (yǐ), Japanese:イットリウム, Korean:이트륨, Vietnamese:ytri, Hindi:इत्रियम, Bengali:ইটরিয়াম, Malay:itrium, Swahili:yitri, Arabic: يتريوم  
 **yuge** *yoke* ← English:yoke, Spanish:yugo, Portuguese:jugo, Persian:  یوغ‎ (yuğ), Cantonese:軛 (aak1), Vietnamese:ách  
-**yune** *young (juvenile)* ← English:young, Russian:юный (junyj) + Hindi:युवा (yuvā), Telugu:యువ (yuva) + French:jeun, Spanish:joven, Portuguese:jovem, fra:juvénile  
 **zai** *exist (be present)* ← Mandarin:在 (zài), Japanese:在 (zai), Vietnamese:tại  
 **zaitun** *olive* ← Arabic:(zaitūn), Spanish:aceituna, Malay:zaitun, Swahili:zaituni, Hindi:Urdu:(zaitūn)  
 **zalime** *mean (cruel)* ← Arabic:(ẓālim), Turkish:zalim, Urdu:Hindi:(zālim), Persian:(zālem), Swahili:dhalimu  

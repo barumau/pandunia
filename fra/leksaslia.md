@@ -594,6 +594,7 @@
 **jongle** *jongler* ← fra:jongler, eng:juggle, rus:жонглировать (žonglirovat’), jpn:ジャグリング (jaguringu)  
 **juba** *robe* ← ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba  
 **jude** ** ← eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:суд (sud)  
+**jun** *jeune* ← fra:jeune, spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)  
 **junte** ** ← eng:joint, fra:jonction, spa:por:junta, deu:junktion  
 **jus** *jus* ← eng:juice, swa:jusi, tam:ஜூஸ் (jūs), jpn:ジュース (jūsu), kor:주스 (juseu)  
 **juste** *exact (précis)* ← eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)  
@@ -1248,6 +1249,7 @@
 **selge** *blettes (bettes)* ← ara:سلق (silqa), spa:por:acelga  
 **semente** ** ← eng:cement, may:semen, spa:cemento, swa:sementi, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)  
 **sene** *âge* ← ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)  
+**seng** *mûr (mature)* ← zho:成 (chéng), yue:成 (sing4), jpn:成 (sei), kor:성 (seong)  
 **sense** *sens* ← eng:sense, spa:por:sentido, fra:sens  
 **sente** ** ← spa:por:sentir  
 **sente** *cent (100)* ← fra:cent, eng:cent-, spa:cien, por:cem, rus:сто (sto), hin:शत (śat), ben:শত (śôt) + jpn:パーセント (pasēnto), kor:퍼센트 (peosenteu), may:persen  
@@ -1539,10 +1541,10 @@
 **yon** ** ← eng:fra:spa:ion, rus:ион (ion), tur:iyon  
 **yota** ** ← eng:fra:spa:por:yotta, may:yota-, zho:尧它- (yáotā-), jpn:ヨタ- (yota-), kor:요타- (yota-)  
 **yote** ** ← tha:หยด (yòt), vie:giọt, + eng:iota, rus:йота (yota)  
+**you** *infantile (immature)* ← zho:幼 (yòu), yue:幼 (yau3), jpn:幼 (yõ), kor:유 (yu) + hin:युवा (yuvā), tam:யுவன் (yuvaṉ), tel:యువ (yuva) + spa:joven, por:jovem, fra:juvénile  
 **yterbium** *ytterbium* ← eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم  
 **ytrium** *yttrium* ← eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم  
 **yuge** *joug* ← eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách  
-**yune** *jeune (juvénile)* ← eng:young, rus:юный (junyj) + hin:युवा (yuvā), tel:యువ (yuva) + fra:jeun, spa:joven, por:jovem, fra:juvénile  
 **zai** *être présent* ← zho:在 (zài), jpn:在 (zai), vie:tại  
 **zaitun** ** ← ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)  
 **zalime** ** ← ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu  

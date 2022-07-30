@@ -427,6 +427,10 @@ cel - komórka (biologia)
 celolojia - cytologia  
 celsius darge - stopień Celsjusza  
 ceng - warstwa (poziom, piętro, kondygnacja)  
+seng - dorosły, dojrzały  
+sengjen - osoba dorosła  
+cengnan - mężczyzna, dorosły samiec  
+cengni - kobieta, dorosła samica  
 centaure - chaber  
 cepe - złapać, łapać, schwytać, chwytać  
 • excepe - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
@@ -1282,6 +1286,9 @@ jude - sądzić (osądzić; wyrok)
 • juder - sędzia  
 judau - judo  
 jul - dżul (J)  
+jun - młody  
+junjen - młodzież, młoda osoba  
+junnen - młodość  
 jupiter - Jowisz  
 jus - sok  
 juste - precyzyjny (dokładny)  
@@ -1860,7 +1867,6 @@ master - magister
 mate - materia, substancja  
 mate - materialny  
 matras - materac  
-matur - osoba dorosła  
 mau - kot  
 Maurisia - Mauritius  
 max - bardzie  
@@ -3374,13 +3380,12 @@ yon radia - radioaktywność
 yoruba - Joruba  
 yote - kropla  
 yota - milion  
+youmoke - młode drzewo  
+younan - chłopak  
+youni - dziewczyna  
 yterbium - iterb  
 ytrium - itr  
 yuge - jarzmo  
-yune - młody  
-• yunia - młodość  
-• yunike - młodzież, młoda osoba  
-yune moke - młode drzewo  
 
 ## Z  
 
@@ -3431,14 +3436,14 @@ zootiber - weterynarz
 zombi - zombie, zombi  
 zone - pas, strefa  
 zong - gatunek  
-zongominte - mięta zielona (mięta kłosowa)  
+zongminte - mięta zielona (mięta kłosowa)  
 zuke - grupa etniczna  
-zukomede - międzyetniczny  
+zukemide - międzyetniczny  
 zukam - przeziębienie, katar  
 Zulu - zulu  
 zumurude - szmaragd  
 zung - środkowy, centralny  
 • zungife - centrować, skupić, skupiać  
 Zungafrike - Republika Środkowoafrykańska  
-zungofon - samogłoska  
+zungfone - samogłoska  
 Zungogia - Chiny  

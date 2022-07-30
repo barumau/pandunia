@@ -263,6 +263,7 @@ catre - четыре (4)
 caukitabe - цаошу  
 ceke - чек  
 celolojia - цитология  
+sengjen - взрослый  
 centaure - василёк  
 • excepe - выгнать (исключить, кроме)  
 • intercepe - перехватывать  
@@ -683,6 +684,8 @@ juba - халат
 • juder - судья  
 • exjude - внесудебный  
 jul - джоуль (J)  
+jun - юный  
+junjen - юнец  
 • juntion - соединение  
 jupiter - Юпитер  
 jus - сок  
@@ -868,6 +871,7 @@ late - сторона (бок)
 latedike - боковой (латеральный)  
 Latvia - Латвия  
 lau - пожилой  
+launen - старость  
 laurensium - лоуренсий  
 lazanya - лазанья  
 lazure - лазурь  
@@ -962,7 +966,6 @@ maste - мачта
 master - магистр  
 mate - материя  
 mate cai - матэ  
-matur - взрослый  
 mau - кошка  
 • maximaje - максимум  
 maxobalaje - пополнение  
@@ -1747,12 +1750,10 @@ yoga - йога
 yogur - йогурт  
 yohan feste - Иванов день  
 yom - день (дневное время)  
+youmoke - саженец  
 yterbium - иттербий  
 ytrium - иттрий  
 yuge - ярмо (иго)  
-yune - юный  
-• yunike - юнец  
-yune moke - саженец  
 
 ## Z  
 
@@ -1778,12 +1779,12 @@ zooparke - зоопарк
 zoosikle - зодиак  
 zootiber - ветерина́р  
 zone - пояс (зона)  
-zongominte - мята колоси́стая  
+zongminte - мята колоси́стая  
 zuke - этнос (этнический)  
-zukomede - межэтнический  
+zukemide - межэтнический  
 Zulu - зулус  
 zumurude - изумруд  
 zung - центр  
-zungofon - гласный  
+zungfone - гласный  
 Zungogia - Китай  
 zungxulekan - средняя школа  

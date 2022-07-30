@@ -732,7 +732,7 @@ hora - hor
 hortelã - minte  
 hortelã-da-água - suiminte  
 hortelã-pimenta - piprominte  
-hortelã-verde - zongominte  
+hortelã-verde - zongminte  
 hospital - patekan  
 hotel - hotel  
 humanismo - humanisme  
@@ -770,6 +770,7 @@ inclusivo - inkluzive
 independente - autoreje  
 Indo - Hinde riu  
 indígena (índio) - aslamerike  
+infantil (imaturo) - you  
 infectar (contagiar; infecção, contágio) - patomise  
 infecção - infetion  
 inferir - infere  
@@ -817,7 +818,7 @@ jihadista - jihadiste
 joelho - gute  
 jogo de tabuleiro - bangem  
 joule (J) - jul  
-jovem - yune  
+jovem - jun  
 jugo - yuge  
 juiz - juder  
 juntura - junture  
@@ -912,6 +913,7 @@ lúmen - lumen
 machado - futau  
 macroalga - haialge  
 madrasta - visematre  
+maduro (adulto) - seng  
 magnésio - magesium  
 mahjong - majang  
 maioria - maxuria  
@@ -1630,6 +1632,7 @@ vaso de flores - fulpote
 vazar - lou  
 vegetalista - purfitoyamiste  
 vegetariano - fitoyamiste  
+velhice - launen  
 vender - vende  
 ver - vide  
 verbo - karelexe  
@@ -1660,7 +1663,7 @@ Vixnu - Vixnu
 viúvo - vidou  
 voar (voo) - fei  
 vocabulário - lexia  
-vogal - zungofon  
+vogal - zungfone  
 vogal - vokal son  
 vosso - tumen su  
 voto (votar) - vote  

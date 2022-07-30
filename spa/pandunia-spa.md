@@ -476,6 +476,10 @@ cel - célula
 celolojia - citología  
 celsius darge - grado Celsius  
 ceng - capa (piso, planta, estrato)  
+seng - maduro (adulto, curado)  
+sengjen - adulto  
+cengnan - hombre (señor)  
+cengni - mujer (señora)  
 cepe - capturar (apresar)  
 • acepe - aceptar  
 • excepe - excepto (exceptuar)  
@@ -1415,6 +1419,9 @@ jude - juzgar (fallo, juicio, criterio)
 • exjude - extrajudicial  
 judau - yudo  
 jul - joule (J)  
+jun - joven  
+junjen - joven  
+junnen - juventud  
 junte - juntar (junta)  
 • junture - juntura  
 juntelexe - conjunción  
@@ -1805,6 +1812,7 @@ latini harfia - alfabeto latino
 latinkitabe - romanizar  
 Latvia - Letonia  
 lau - viejo (anciano)  
+launen - vejez (tercera edad)  
 laurensium - laurencio  
 laxe - dejar  
 lazanya - lasaña  
@@ -2019,7 +2027,6 @@ mate - material
 mate - yerba mate  
 mate cai - mate cocido  
 matras - colchón  
-matur - adulto  
 mau - gato  
 Maurisia - Mauricio  
 max - más  
@@ -3682,15 +3689,15 @@ yon - ion
 yon rade - radiactivo  
 yon radia - radiación ionizante  
 yote - gota  
+you - infantil (inmaduro)  
+youmoke - pimpollo  
+younan - niño  
+youni - niña  
 yterbium - iterbio  
 ytrium - itrio  
 yuge - yugo  
 • konyuge - conjugar (conjugación)  
 • subyuge - sojuzgar  
-yune - joven  
-• yunia - juventud  
-• yunike - joven  
-yune moke - pimpollo  
 
 ## Z  
 
@@ -3741,15 +3748,15 @@ zootiber - veterinario
 zombi - zombi  
 zone - cinturón (zona)  
 zong - especie  
-zongominte - hierbabuena  
+zongminte - hierbabuena  
 zuke - etnia (étnico)  
-zukomede - interétnica  
+zukemide - interétnica  
 zukam - resfriado (catarro)  
 Zulu - zulú  
 zumurude - esmeralda  
 zung - centro  
 • zungife - centrar (concentrar)  
 Zungafrike - República Centroafricana  
-zungofon - vocal  
+zungfone - vocal  
 Zungogia - China  
 zungxulekan - escuela secundaria  

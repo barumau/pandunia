@@ -566,6 +566,10 @@ cel - cell (biology)
 celolojia - cytology  
 celsius darge - degree Celsius  
 ceng - layer (level, storey, floor, stratum)  
+seng - mature (grown-up, ripe, adult)  
+sengjen - adult  
+cengnan - man (adult male)  
+cengni - woman (adult female)  
 cense - censor  
 • censer - censor  
 centaure - centaury  
@@ -1729,6 +1733,9 @@ jude - judge (judgment, sentence; judicial)
 • exjude - extrajudicial  
 judau - judo  
 jul - joule (J)  
+jun - young (youthful)  
+junjen - youth (youngster, young person)  
+junnen - youth (years in life following childhood)  
 junte - joint (join)  
 • juntion - junction  
 • junture - juncture (junction, intersection)  
@@ -2188,6 +2195,8 @@ latini harfia - Latin alphabet
 latinkitabe - romanize  
 Latvia - Latvia  
 lau - old (aged, elderly)  
+laujen - elderly (senior, old person)  
+launen - old age  
 laurensium - lawrencium  
 laxe - loose (laxe; loosen, let loose, let go)  
 • relaxe - relax  
@@ -2434,7 +2443,6 @@ mate - material
 mate - maté  
 mate cai - maté tea  
 matras - mattress  
-matur - adult  
 mau - cat  
 Maurisia - Mauritius  
 max - more  
@@ -4432,15 +4440,18 @@ yon radia - radioactivity (ionizing radiation)
 yoruba - Yoruba (language and people)  
 yote - drop (droplet)  
 yota - yotta-  
+you - infantile (juvenile, immature)  
+• yovia - childhood (immaturity)  
+youjen - infant (child)  
+youmoke - sapling  
+younan - boy  
+younen - childhood (years of being very young)  
+youni - girl  
 yterbium - ytterbium  
 ytrium - yttrium  
 yuge - yoke  
 • konyuge - conjugation (pairing)  
 • subyuge - subjugate  
-yune - young (juvenile)  
-• yunia - youth (young age)  
-• yunike - youth (young person)  
-yune moke - sapling  
 
 ## Z  
 
@@ -4500,17 +4511,17 @@ zootoxe - zootoxin
 zombi - zombie  
 zone - belt (zone)  
 zong - species  
-zongominte - spearmint  
+zongminte - spearmint  
 zor - force (violence)  
 zorsexe - rape (forced sex)  
 zuke - ethnic (ethnicity)  
-zukomede - interethnic  
+zukemide - interethnic  
 zukam - cold (common cold)  
 Zulu - Zulu  
 zumurude - emerald  
 zung - middle (center)  
 • zungife - center (concentrate)  
 Zungafrike - Central African Republic  
-zungofon - vowel  
+zungfone - vowel  
 Zungogia - China  
 zungxulekan - secondary school  

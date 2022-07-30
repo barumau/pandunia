@@ -303,6 +303,10 @@ cau - herbo
 ceke - ĉeko  
 cel - ĉelo  
 celolojia - citologio  
+seng - matura (plenkreska)  
+sengjen - plenaĝa  
+cengnan - viro  
+cengni - virino  
 cepe - kapti  
 • acepe - akcepti  
 • excepe - escepti (krom)  
@@ -835,6 +839,9 @@ jude - juĝo
 • exjude - senjuĝa  
 judau - ĵudo  
 jul - ĵulo (J)  
+jun - juna  
+junjen - junulo  
+junnen - juneco  
 jus - suko  
 juste - preciza (ekzakta; ĝuste )  
 
@@ -1107,7 +1114,6 @@ maske - masko
 maste - masto  
 master - magistro  
 mate - materio  
-matur - plenaĝa  
 mau - kato  
 max - pli  
 • maxime - plej  
@@ -1907,12 +1913,11 @@ yogur - jogurto
 yom - tago  
 yomyam - tagmanĝo  
 yon - iono  
+younan - knabo  
+youni - knabino  
 yterbium - iterbio  
 ytrium - itrio  
 yuge - jugo  
-yune - juna  
-• yunia - juneco  
-• yunike - junulo  
 
 ## Z  
 
@@ -1945,10 +1950,10 @@ zoosikle - zodiako
 zootiber - bestkuracisto  
 zone - zono  
 zuke - etno  
-zukomede - interetna  
+zukemide - interetna  
 Zulu - zuluo  
 zumurude - smeraldo  
 zung - centro  
-zungofon - vokalo  
+zungfone - vokalo  
 Zungogia - Ĉinio  
 zungxulekan - gimnazio  

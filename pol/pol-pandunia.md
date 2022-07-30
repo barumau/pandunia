@@ -329,6 +329,7 @@ chrześcijaństwo - kristisme
 chwalić (wychwalać) - halele  
 chwilowy - sate di  
 chór - cantergrupe  
+chłopak - younan  
 ciasto, ciastko - keke  
 ciało - bade  
 cichy - tixe  
@@ -465,6 +466,7 @@ dolina - vade
 Dominika (Wspólnota Dominiki) - Dominika  
 domino - domino  
 doradca (mentor) - menter  
+dorosły, dojrzały - seng  
 dorsz - bakalau  
 dorsz atlantycki - atlante bakalau  
 dorsz pacyficzny - pacehaikade  
@@ -525,6 +527,7 @@ dziennik pokładowy (notatnik) - lugebuke
 dziennikarz - gazeter  
 dziesięć (10) - des  
 dziesięć tysięcy - deskilo  
+dziewczyna - youni  
 dziewięć (9) - nove  
 dzień - yom  
 dzień dobry - sal den  
@@ -1100,6 +1103,7 @@ kląć (przeklinać; przekleństwo) - dusdua
 kminek - karave  
 koala - koala  
 kobalt - kobalte  
+kobieta, dorosła samica - cengni  
 kobieta; kobiecy - ni  
 kochać (miłość, afekt) - ame  
 kocioł - daipote  
@@ -1513,7 +1517,7 @@ mit, boska opowieść - deusage
 miód - madu  
 mięczak (morski bezkręgowiec) - moluske  
 między (wśród, pośród) - a mide  
-międzyetniczny - zukomede  
+międzyetniczny - zukemide  
 międzynarodowy - nasomede  
 międzyrasowy - rasomede  
 miękki - komale  
@@ -1522,7 +1526,7 @@ mięso - manse
 mięta - minte  
 mięta pieprzowa - piprominte  
 mięta wodna - suiminte  
-mięta zielona (mięta kłosowa) - zongominte  
+mięta zielona (mięta kłosowa) - zongminte  
 miłośnik (fan, -fil) - filike  
 miłość romantyczna - romante  
 miły, przyjemny, uroczy - hux  
@@ -1595,10 +1599,11 @@ mózg - serebre
 mądrość - sofia  
 mądry - sofe  
 męski - nan  
-młode drzewo - yune moke  
-młodość - yunia  
-młody - yune  
-młodzież, młoda osoba - yunike  
+mężczyzna, dorosły samiec - cengnan  
+młode drzewo - youmoke  
+młodość - junnen  
+młody - jun  
+młodzież, młoda osoba - junjen  
 młot, młotek - hamar  
 młynarz - moler  
 
@@ -1840,7 +1845,7 @@ osm - osmium
 osmoza - osmos  
 osoba - jen  
 osoba biznesu, biznesman - bizneser  
-osoba dorosła - matur  
+osoba dorosła - sengjen  
 osoba mówiąca w Panduni - panduniste  
 osobisty numer identyfikacyjny (pin) - sekuronume  
 ostatni, końcowy - finime  
@@ -2497,7 +2502,7 @@ samar - samarium
 Samoa - Samoa  
 samobieżny - automote  
 samochód (automobil) - motegar  
-samogłoska - zungofon  
+samogłoska - zungfone  
 samolot - viman  
 San Marino - Sante Marino  
 sardela - ancovi  

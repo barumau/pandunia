@@ -28,7 +28,7 @@ adapter (ajuster) - hape
 adjectif - sifelexe  
 administrateur - politer  
 adresse - adres  
-adulte - matur  
+adulte - sengjen  
 adversaire (antagoniste, ennemi) - xatan  
 afghan - afgan  
 Afghanistan - Afgania  
@@ -874,6 +874,7 @@ indien - barte
 indium - hindium  
 Indus - Hinde riu  
 indépendant - autoreje  
+infantile (immature) - you  
 infecter (infection, contagion) - patomise  
 infection - infetion  
 infidèle (incroyant) - andiniste  
@@ -912,7 +913,8 @@ jaïnisme - jainisme
 je (me) - mi  
 jeu de société - bangem  
 jeudi - den catre  
-jeune (juvénile) - yune  
+jeune - jun  
+jeunesse - junnen  
 jonction - juntion  
 jongler - jongle  
 jongleur - jongler  
@@ -1077,7 +1079,7 @@ mendélévium - mendelevium
 menthe - minte  
 Menthe aquatique - suiminte  
 menthe poivrée - piprominte  
-menthe verte - zongominte  
+menthe verte - zongminte  
 menu (carte) - menu  
 mer - hai  
 merci - xukre  
@@ -1149,6 +1151,7 @@ méfait (péché) - duskar
 mémoire - meme  
 méninge - meninge  
 métaux lourds - veze metal  
+mûr (mature) - seng  
 
 ## N  
 
@@ -1422,7 +1425,7 @@ poupée - pupe
 pour cent - prosente  
 pourri - pude  
 pourrir (se décomposer) - pudu  
-pousse - yune moke  
+pousse - youmoke  
 pousser - pulse  
 pouvoir (être capable; possible) - bil  
 poésie - xiria  
@@ -1855,6 +1858,7 @@ veuve - vidou
 viande - manse  
 vice-roi - viserejer  
 vie - jive  
+viellesse (troisième âge) - launen  
 vierge - virge  
 vieux (ancien) - senike  
 vieux (âgé, ancien) - lau  
@@ -1883,7 +1887,7 @@ volcan - hogoxan
 voler (vol) - fei  
 votre - tumen su  
 vouloir - vol  
-voyelle - zungofon  
+voyelle - zungfone  
 voyelle - vokal son  
 voûte - arkocate  
 vrai - vere  

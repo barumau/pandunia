@@ -352,6 +352,8 @@ carme - charme
 catre - quatre (4)  
 ceke - chèque  
 celolojia - cytologie  
+seng - mûr (mature)  
+sengjen - adulte  
 centaure - Centaurée  
 • acepe - accepter  
 • intercepe - intercepter  
@@ -820,6 +822,8 @@ juba - robe
 • juder - juje  
 • exjude - extrajudiciaire  
 jul - joule (J)  
+jun - jeune  
+junnen - jeunesse  
 • juntion - jonction  
 juntelexe - conjonction  
 jupiter - Jupiter  
@@ -1010,6 +1014,7 @@ late - côté
 latedike - latéral  
 Latvia - Lettonie  
 lau - vieux (âgé, ancien)  
+launen - viellesse (troisième âge)  
 laurensium - lawrencium  
 laxe - lâcher (laisser)  
 lazanya - lasagne  
@@ -1115,7 +1120,6 @@ master - diplôme de master
 mate - matière  
 mate - yerba mate  
 mate cai - maté  
-matur - adulte  
 mau - chat  
 max - plus  
 • maximaje - maximum  
@@ -1943,13 +1947,13 @@ yodium - iode
 • yogaiste - yogi  
 yogur - yaourt (yogourt)  
 yom - jour  
+you - infantile (immature)  
+youmoke - pousse  
 yterbium - ytterbium  
 ytrium - yttrium  
 yuge - joug  
 • konyuge - conjugaison  
 • subyuge - assujettir  
-yune - jeune (juvénile)  
-yune moke - pousse  
 
 ## Z  
 
@@ -1974,12 +1978,12 @@ zoosikle - zodiaque
 zootiber - vétérinaire  
 zombi - zombi  
 zone - zone  
-zongominte - menthe verte  
+zongminte - menthe verte  
 zuke - ethnie (ethnique)  
 zukam - rhume  
 Zulu - zoulou  
 zumurude - émeraude  
 zung - centre  
-zungofon - voyelle  
+zungfone - voyelle  
 Zungogia - Chine  
 zungxulekan - école secondaire  

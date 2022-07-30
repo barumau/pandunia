@@ -204,6 +204,9 @@ cau - 草
 caukitabe - 草書  
 caustan - 草地  
 ceke - 小切手 (チェック)  
+sengjen - 大人  
+cengnan - 男の人  
+cengni - 女の人  
 • excepe - 追出 (退ける, 除いて)  
 ceresium - セリウム  
 • acese - アクセス  
@@ -584,6 +587,8 @@ jive - 命 (生命)
 jongle - ジャグリング  
 • jongler - ジャグラー  
 jul - ジュール (J)  
+junjen - 青少年  
+junnen - 青春時代  
 juntelexe - 接続詞  
 jupiter - 木星  
 jus - ジュース  
@@ -760,6 +765,8 @@ late - 側 (脇)
 • latude - 緯度  
 Latvia - ラトビア  
 lau - 年配  
+laujen - 老人  
+launen - 老年  
 laurensium - ローレンシウム  
 lazanya - ラザニア  
 lazurite - ラピスラズリ (瑠璃)  
@@ -850,7 +857,6 @@ masale - 香辛料
 maske - 仮面 (マスク)  
 mate - 物質  
 mate cai - マテ茶  
-matur - 大人  
 mau - 猫  
 maxobalaje - 増派 (援兵)  
 mayur - 孔雀  
@@ -1508,11 +1514,14 @@ yodium - ヨウ素
 yogur - ヨーグルト  
 yom - 昼  
 yomyam - 昼食  
+youjen - 幼童  
+youmoke - 若木  
+younan - 男の子  
+younen - 幼年時代  
+youni - 女の子  
 yterbium - イッテルビウム  
 ytrium - イットリウム  
 yuge - 軛  
-• yunike - 青少年  
-yune moke - 若木  
 
 ## Z  
 
@@ -1534,7 +1543,7 @@ zoagria - 畜産
 zooparke - 動物園  
 zoosikle - 黄道帯  
 zootiber - 獣医  
-zongominte - スペアミント  
+zongminte - スペアミント  
 zuke - 民族  
 zukam - 風邪 (感冒)  
 zung - 中心  

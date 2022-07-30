@@ -594,6 +594,7 @@
 **jongle** *ĵongli* ← franca:jongler, angla:juggle, rusa:жонглировать (žonglirovat’), japana:ジャグリング (jaguringu)  
 **juba** *robo* ← araba: جُبَّة (jubba), svahila:juba, malaja:jubah, hispana:aljuba  
 **jude** *juĝo* ← angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji + rusa:суд (sud)  
+**jun** *juna* ← franca:jeune, hispana:joven, portugala:jovem, persa: جوان‎ (javân), hindia:जवान (javān) + korea:젊다 (jeomda)  
 **junte** ** ← angla:joint, franca:jonction, hispana:portugala:junta, deu:junktion  
 **jus** *suko* ← angla:juice, svahila:jusi, tamila:ஜூஸ் (jūs), japana:ジュース (jūsu), korea:주스 (juseu)  
 **juste** *preciza (ekzakta; ĝuste )* ← angla:just, franca:juste, hispana:justo, itala:giusto, japana:ジャスト (jasto)  
@@ -1248,6 +1249,7 @@
 **selge** ** ← araba:سلق (silqa), hispana:portugala:acelga  
 **semente** ** ← angla:cement, malaja:semen, hispana:cemento, svahila:sementi, turka:çimento, vjetnama:xi măng, hindia:सीमेंट (siment), rusa:цемент (tsement), araba:(ʾasmant), korea:시멘트 (simenteu)  
 **sene** *aĝo* ← araba: سِنّ‎ (sinn), hindia:सिन (sin) + hispana:portugala:sene + mandarena:岁 (suì), kantona:歲 (seoi3), korea:세  (-se), japana:歳 (-sai)  
+**seng** *matura (plenkreska)* ← mandarena:成 (chéng), kantona:成 (sing4), japana:成 (sei), korea:성 (seong)  
 **sense** *sentumo* ← angla:sense, hispana:portugala:sentido, franca:sens  
 **sente** *cent* ← franca:cent, angla:cent-, hispana:cien, portugala:cem, rusa:сто (sto), hindia:शत (śat), bengala:শত (śôt) + japana:パーセント (pasēnto), korea:퍼센트 (peosenteu), malaja:persen  
 **sente** *senti* ← hispana:portugala:sentir  
@@ -1539,10 +1541,10 @@
 **yon** *iono* ← angla:franca:hispana:ion, rusa:ион (ion), turka:iyon  
 **yota** ** ← angla:franca:hispana:portugala:yotta, malaja:yota-, mandarena:尧它- (yáotā-), japana:ヨタ- (yota-), korea:요타- (yota-)  
 **yote** ** ← taja:หยด (yòt), vjetnama:giọt, + angla:iota, rusa:йота (yota)  
+**you** ** ← mandarena:幼 (yòu), kantona:幼 (yau3), japana:幼 (yõ), korea:유 (yu) + hindia:युवा (yuvā), tamila:யுவன் (yuvaṉ), teluga:యువ (yuva) + hispana:joven, portugala:jovem, franca:juvénile  
 **yterbium** *iterbio* ← angla:ytterbium, franca:ytterbium, hispana:iterbio, portugala:itérbio, rusa:иттербий, mandarena:镱 (yì), japana:イッテルビウム, korea:이테르븀, vjetnama:ytecbi, hindia:यिट्टरबियम, bengala:ইটারবিয়াম, malaja:iterbium, svahila:yitebi, araba: يتربيوم  
 **ytrium** *itrio* ← angla:yttrium, franca:yttrium, hispana:itrio, portugala:itrio, rusa:иттрий, mandarena:钇 (yǐ), japana:イットリウム, korea:이트륨, vjetnama:ytri, hindia:इत्रियम, bengala:ইটরিয়াম, malaja:itrium, svahila:yitri, araba: يتريوم  
 **yuge** *jugo* ← angla:yoke, hispana:yugo, portugala:jugo, persa:  یوغ‎ (yuğ), kantona:軛 (aak1), vjetnama:ách  
-**yune** *juna* ← angla:young, rusa:юный (junyj) + hindia:युवा (yuvā), teluga:యువ (yuva) + franca:jeun, hispana:joven, portugala:jovem, fra:juvénile  
 **zai** *ĉeesti (ekzisti)* ← mandarena:在 (zài), japana:在 (zai), vjetnama:tại  
 **zaitun** *olivo* ← araba:(zaitūn), hispana:aceituna, malaja:zaitun, svahila:zaituni, hindia:urdua:(zaitūn)  
 **zalime** ** ← araba:(ẓālim), turka:zalim, urdua:hindia:(zālim), persa:(zālem), svahila:dhalimu  

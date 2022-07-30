@@ -522,6 +522,10 @@ cel - solu
 celolojia - soluoppi (sytologia)  
 celsius darge - celsiusaste  
 ceng - kerros  
+seng - kypsä (aikuinen)  
+sengjen - aikuinen  
+cengnan - mies  
+cengni - nainen  
 cense - sensuroida  
 • censer - sensori (sensuroija)  
 cepe - ottaa kiinni (napata, kaapata, siepata)  
@@ -1532,6 +1536,9 @@ jude - tuomita (tuomio, oikeus; oikeudellinen)
 • exjude - mielivaltainen (ilman tuomiota)  
 judau - judo  
 jul - joule (J)  
+jun - nuori  
+junjen - nuorukainen  
+junnen - nuoruusvuodet  
 junte - liitos (nivel)  
 • juntion - liittäminen  
 • junture - risteys (liittymä)  
@@ -1923,6 +1930,8 @@ latini harfia - latinalaiset aakkoset
 latinkitabe - latinoida  
 Latvia - Latvia  
 lau - vanha (iäkäs)  
+laujen - vanhus (seniori)  
+launen - vanhuusvuodet  
 laurensium - lawrencium  
 laxe - löysä (löysätä, päästää menemään)  
 • relaxe - rentoutua (rentouttaa)  
@@ -2135,7 +2144,6 @@ mate - aineellinen (materiaalinen)
 mate - matekasvi  
 mate cai - mate (matejuoma)  
 matras - patja  
-matur - aikuinen  
 mau - kissa  
 Maurisia - Mauritius  
 max - enemmän (myös, lisäksi, plus)  
@@ -3120,7 +3128,7 @@ seme - merkitä (tarkoittaa)
 • unsemike - yksimerkityksinen  
 semente - sementti  
 sene - ikä  
-• senike - iäkäs (vanhus)  
+• senike - iäkäs  
 senater - senaattori  
 Senegal - Senegal  
 sense - aisti  
@@ -3836,13 +3844,16 @@ yon rade - radioaktiivinen
 yon radia - radioaktiivisuus  
 yoruba - joruban kansa ja kieli  
 yote - pisara (tippa)  
+you - lapsi (alaikäinen, epäkypsä, kasvava)  
+• yovia - lapsuus (epäkypsyys)  
+youjen - lapsi (alaikäinen)  
+younan - poika (nuori mies)  
+younen - lapsuusvuodet  
+youni - tyttö (nuori neito)  
 yterbium - ytterbium  
 ytrium - yttrium  
 yuge - ies  
 • konyuge - konjugaatio  
-yune - nuori  
-• yunia - nuoruus  
-• yunike - nuorukainen  
 
 ## Z  
 
@@ -3899,13 +3910,13 @@ zong - laji
 zor - väkivalta (pakko)  
 zorsexe - raiskaus  
 zuke - kansanryhmä (etninen ryhmä)  
-zukomede - kansanryhmien välinen  
+zukemide - kansanryhmien välinen  
 zukam - nuha (vilustuminen)  
 Zulu - zulu  
 zumurude - smaragdi  
 zung - keskus (keskikohta)  
 • zungife - keskittää  
 Zungafrike - Keski-Afrikan Tasavalta  
-zungofon - vokaali  
+zungfone - vokaali  
 Zungogia - Kiina  
 zungxulekan - yläaste ja lukio  

@@ -526,6 +526,10 @@ cel:|cel|||may:sel, fas:sellul, tha:เซลล์ (seel), swa:seli, tgl:selula
 cel.loj:ia|celolojia||||cytology|cytologie|citología|citologia|цитология||细胞学|||||||||citologio|soluoppi (sytologia)|cytologia
 celsius: darg:|celsius darge|unomete|°C||degree Celsius||grado Celsius||||||||||||||celsiusaste|stopień Celsjusza
 ceng:|ceng|||zho:层 (céng), yue:層 (cang4), wuu:層 (zen3), kor:층 (chŭng), vie:tầng|layer (level, storey, floor, stratum)||capa (piso, planta, estrato)||||层||||||||||kerros|warstwa (poziom, piętro, kondygnacja)
+ceng:|seng|||zho:成 (chéng), yue:成 (sing4), jpn:成 (sei), kor:성 (seong)|mature (grown-up, ripe, adult)|mûr (mature)|maduro (adulto, curado)|maduro (adulto)||||||||||||matura (plenkreska)|kypsä (aikuinen)|dorosły, dojrzały
+ceng~jen:|sengjen||||adult|adulte|adulto||взрослый||成人 (成年人)|大人|성인||||dewasa|||plenaĝa|aikuinen|osoba dorosła
+ceng~nan:|cengnan||||man (adult male)||hombre (señor)||||男人|男の人||||||||viro|mies|mężczyzna, dorosły samiec
+ceng~ni:|cengni||||woman (adult female)||mujer (señora)||||女人|女の人||||||||virino|nainen|kobieta, dorosła samica
 cens:|cense||||censor||||||||||||||||sensuroida|
 cens.r:|• censer||||censor||||||||||||||||sensori (sensuroija)|
 centaur:|centaure|biu|Centaurea|eng:centaury, por:centáurea|centaury|Centaurée||centáurea|василёк|||||||||||||chaber
@@ -1676,6 +1680,9 @@ jud.r:|• juder||||judge (referee)|juje|juez (árbitro, réferi)|juiz|судь�
 jud<ex:|• exjude||||extrajudicial|extrajudiciaire|extrajudicial|extrajudicial|внесудебный|||||||||||senjuĝa|mielivaltainen (ilman tuomiota)|
 judau:|judau||||judo||yudo|||||||||||||ĵudo|judo|judo
 jul:|jul|unomete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦耳 (J)|ジュール (J)|줄 (J)||जौल (J)||joule (J)||jul (J)|ĵulo (J)|joule (J)|dżul (J)
+jun:|jun|||fra:jeune, spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)|young (youthful)|jeune|joven|jovem|юный||年轻||젊다||जवान (युवा)|||||juna|nuori|młody
+jun~jen:|junjen||||youth (youngster, young person)||joven||юнец||年轻人|青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
+jun~nen:|junnen||||youth (years in life following childhood)|jeunesse|juventud||||青年|青春時代||||||||juneco|nuoruusvuodet|młodość
 junt:|junte|||eng:joint, fra:jonction, spa:por:junta, deu:junktion|joint (join)||juntar (junta)||||||||||||||liitos (nivel)|
 junt.ion:|• juntion||||junction|jonction||junção|соединение||||||||||||liittäminen|
 junt.ur:|• junture||||juncture (junction, intersection)||juntura|juntura||||||||জংশন|||||risteys (liittymä)|
@@ -2133,6 +2140,8 @@ latin:i harf:ia|latini harfia||||Latin alphabet||alfabeto latino||||||||||||||la
 latin.kitab:a|latinkitabe||||romanize||romanizar||||||||||||||latinoida|zromanizować
 latu:ia|Latvia|gogia|LV||Latvia|Lettonie|Letonia|Letónia|Латвия||拉脱维亚|ラトビア|라트비아|Lát-vi-a|लातविया|লাতভিয়া|Latvia||Letonya|Latvio|Latvia|Łotwa
 lau:|lau|||zho:老 (lǎo), yue:老 (lau2), wuu:老 (lau3), jpn:老 (rō), vie:lão|old (aged, elderly)|vieux (âgé, ancien)|viejo (anciano)|idoso|пожилой||老 (老年, 年歲大)|年配||già (lão)|||tua (lama)||||vanha (iäkäs)|stary (sędziwy, wiekowy)
+lau~jen:|laujen||||elderly (senior, old person)|||||مُسِنّ|老人|老人|노인||बुज़ुर्ग||||||vanhus (seniori)|
+lau~nen:|launen||||old age|viellesse (troisième âge)|vejez (tercera edad)|velhice|старость||老年|老年|노년||||||||vanhuusvuodet|
 laurens.ium:|laurensium|kimium 103|Lr|eng:lawrencium, fra:lawrencium, spa:laurencio, por:lawrêncio, rus:лоуренсий, zho:铹 (láo), jpn:ローレンシウム, kor:로렌슘, vie:lorenxi, lawrenci, hin:लॉरेंशियम, ben:লরেনসিয়াম, may:lawrensium, swa:lawirensi, ara: لورنسيوم|lawrencium|lawrencium|laurencio|lawrêncio|лоуренсий|لورنسيوم|铹|ローレンシウム|로렌슘|lorenxi, lawrenci|लॉरेंशियम|লরেনসিয়াম|lawrensium|lawirensi|lawrenciyum, ²lorentiyum|laŭrencio|lawrencium|lorens
 lax:|laxe|||eng:(re)lax, fra:(re)lâcher, spa:(re)lajar, ita:lasciare, deu:lassen|loose (laxe; loosen, let loose, let go)|lâcher (laisser)|dejar|deixar|||||||||||||löysä (löysätä, päästää menemään)|rozluźnić (poluzować)
 lax<re:|• relaxe||||relax||||||||||||||||rentoutua (rentouttaa)|
@@ -2377,7 +2386,6 @@ mat:i|mate||||material||material||||||||||||||aineellinen (materiaalinen)|materi
 mate:|mate|bio|Ilex paraquariensis|eng:maté, fra:spa:por:mate, rus:матэ (mate), zho:马黛茶, jpn:マテ茶 (matecha), kor:마테차 (matecha)|maté|yerba mate|yerba mate|erva-mate|||||||||||||matekasvi|
 mate: cai:|mate cai||||maté tea|maté|mate cocido|chá mate|матэ||马黛茶|マテ茶|마테차|||মাতে|||||mate (matejuoma)|
 matras:|matras|||eng:mattress, fra:matelas, rus:матрас (matras), may:matras, jpn:マットレス (mattoresu)|mattress||colchón||||||||||||||patja|materac
-matur:|matur||||adult|adulte|adulto||взрослый||成年人|大人||||||||plenaĝa|aikuinen|osoba dorosła
 mau:|mau|biu||zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|cat|chat|gato|gato|кошка||猫|猫|고양이|mèo|बिल्ली|বেড়াল|kucing|paka (nyau)|kedi|kato|kissa|kot
 mauris:ia|Maurisia|gogia|MU||Mauritius||Mauricio||||||||||||||Mauritius|Mauritius
 max:|max|||spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)|more|plus|más|mais||||||||||||pli|enemmän (myös, lisäksi, plus)|bardzie
@@ -3533,7 +3541,7 @@ sem<poli.ik:|• polisemike||||ambiguous (polysemous)||ambiguo||||||||||||||moni
 sem<un.ik:|• unsemike||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
 sement:|semente|||eng:cement, may:semen, spa:cemento, swa:sementi, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|cement||cemento||цемент|||||||||sementi|çimento||sementti|cement
 sen:|sene|||ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)|age|âge|edad|idade|возраст|عُمْر|年岁|年齢|연세||आयु (उमर)||umur|umri||aĝo|ikä|wiek
-sen.ik:|• senike||||aged|vieux (ancien)|viejo|idoso (sene)||||||||||||aĝulo|iäkäs (vanhus)|
+sen.ik:|• senike||||aged|vieux (ancien)|viejo|idoso (sene)||||||||||||aĝulo|iäkäs|
 sen~at.r:|senater||||senator|sénateur|senador|senador|сенатор|سِنَاتُور‎|参议员|上院議員|||सीनेटर||senator||senatör|senatano|senaattori|senator
 senegal:|Senegal|gogia|SN||Senegal||Senegal||||||||||||||Senegal|Senegal
 sens:|sense|||eng:sense, spa:por:sentido, fra:sens|sense (method of perception)|sens|sentido|sentido|чувство|حاسة‎|感觉|感覚|감각|||||||sentumo|aisti|zmysł
@@ -4359,15 +4367,18 @@ yon~ rad:ia|yon radia||||radioactivity (ionizing radiation)||radiación ionizant
 yoruba:|yoruba|nas|||Yoruba (language and people)|||||||||||||kiyoruba|||joruban kansa ja kieli|Joruba
 yot:|yote|||tha:หยด (yòt), vie:giọt, + eng:iota, rus:йота (yota)|drop (droplet)||gota||||||||||||||pisara (tippa)|kropla
 yota:|yota|numbe||eng:fra:spa:por:yotta, may:yota-, zho:尧它- (yáotā-), jpn:ヨタ- (yota-), kor:요타- (yota-)|yotta-||||||||||||||||miljoona (mega-)|milion
+you:|you|||zho:幼 (yòu), yue:幼 (yau3), jpn:幼 (yõ), kor:유 (yu) + hin:युवा (yuvā), tam:யுவன் (yuvaṉ), tel:యువ (yuva) + spa:joven, por:jovem, fra:juvénile|infantile (juvenile, immature)|infantile (immature)|infantil (inmaduro)|infantil (imaturo)|||幼稚||||||||||lapsi (alaikäinen, epäkypsä, kasvava)|
+you:ia|• yovia||||childhood (immaturity)||||||||||||||||lapsuus (epäkypsyys)|
+you~jen:|youjen||||infant (child)|||||||幼童|||||||||lapsi (alaikäinen)|
+you~mok:|youmoke||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
+you~nan:|younan||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
+you~nen:|younen||||childhood (years of being very young)||||||幼年|幼年時代|유년 시대||||||||lapsuusvuodet|
+you~ni:|youni||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
 yterb.ium:|yterbium|kimium 070|Yb|eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم|ytterbium|ytterbium|iterbio|itérbio|иттербий|يتربيوم|镱|イッテルビウム|이테르븀|ytecbi|यिट्टरबियम|ইটারবিয়াম|iterbium|yitebi|i̇tterbiyum|iterbio|ytterbium|iterb
 ytr.ium:|ytrium|kimium 039|Y|eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم|yttrium|yttrium|itrio|itrio|иттрий|يتريوم|钇|イットリウム|이트륨|ytri|इत्रियम|ইটরিয়াম|itrium|yitri|i̇triyum|itrio|yttrium|itr
 yug:|yuge|||eng:yoke, spa:yugo, por:jugo, fas:  یوغ‎ (yuğ), yue:軛 (aak1), vie:ách|yoke|joug|yugo|jugo|ярмо (иго)||轭|軛||ách|जुआ|জোয়াল|||boyunduruk|jugo|ies|jarzmo
 yug<kon:|• konyuge||||conjugation (pairing)|conjugaison|conjugar (conjugación)||||||||||||||konjugaatio|
 yug<sub:|• subyuge||||subjugate|assujettir|sojuzgar|subjugar||||||||||||||
-yun:|yune|||eng:young, rus:юный (junyj) + hin:युवा (yuvā), tel:యువ (yuva) + fra:jeun, spa:joven, por:jovem, fra:juvénile|young (juvenile)|jeune (juvénile)|joven|jovem|юный||||젊다||जवान (युवा)|||||juna|nuori|młody
-yun:ia|• yunia||||youth (young age)||juventud|||||||||||||juneco|nuoruus|młodość
-yun.ik:|• yunike||||youth (young person)||joven||юнец|||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
-yun~ mok:|yune moke||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
 z|Z||||Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z|Z
 zai:|zai|||zho:在 (zài), jpn:在 (zai), vie:tại|exist (be present)|être présent|existir (estar presente; actual)|||||ある (いる)||||||||ĉeesti (ekzisti)|olla olemassa|istnieć (być obecnym)
 zai:ia|zayia||||presence (existence)||presencia (existencia)|||||||||||||ĉeestanteco (ekzisto)|läsnäolo|teraźniejszość, współczesność
@@ -4425,17 +4436,17 @@ zo~tox:|zootoxe||||zootoxin||||||||||||||||eläinmyrkky (zootoksiini)|
 zombi:|zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie|zombi|zombi|zumbi|||||||ज़ोंबी||||||zombi|zombie, zombi
 zon:|zone|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)|zone|cinturón (zona)|zona|пояс (зона)|||||||||||zono|vyö|pas, strefa
 zong:|zong|||zho:種 (zhǒng), yue:種 (zung2), wuu:種 (tson2), jpn:種 (shu), kor:종 (jong), vie:chủng|species||especie||||||||||||||laji|gatunek
-zong.mint:|zongominte|biu|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
+zong.mint:|zongminte|biu|Mentha spicata||spearmint|menthe verte|hierbabuena|hortelã-verde|мята колоси́стая||留兰香|スペアミント||||||||||mięta zielona (mięta kłosowa)
 zor:|zor|||hin:ज़ोर (zor), ben:জোর (zor), fas: زور (zur)|force (violence)||||||||||||||||väkivalta (pakko)|
 zor~sex:|zorsexe||||rape (forced sex)||||||||||||||||raiskaus|
 zuk:|zuke|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic (ethnicity)|ethnie (ethnique)|etnia (étnico)|etnia (étnico)|этнос (этнический)||民族|民族|민족|dân tộc|||||etnik|etno|kansanryhmä (etninen ryhmä)|grupa etniczna
-zuk.med:i|zukomede||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
+zuk.mid:|zukemide||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 zukam:|zukam|||ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|cold (common cold)|rhume|resfriado (catarro)|resfiado (gripe)|||感冒|風邪 (感冒)|감기|cảm|||||||nuha (vilustuminen)|przeziębienie, katar
 zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
 zumurud:|zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
 zung:|zung|||zho:中 (zhōng), yue:中 (zung), kor:중 (jung), jpn:中 (chuu-), vie:trung|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
 zung.if:|• zungife||||center (concentrate)||centrar (concentrar)||||||||||||||keskittää|centrować, skupić, skupiać
 zung~afrik:|Zungafrike|gogia|CF||Central African Republic||República Centroafricana||||||||||||||Keski-Afrikan Tasavalta|Republika Środkowoafrykańska
-zung~fon:|zungofon||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali|samogłoska
+zung~fon:|zungfone||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali|samogłoska
 zung~gog:ia|Zungogia|gogia|CN||China|Chine|China|China|Китай|اَلصِّين‎|中国|中国|중국|Trung Quốc|चीन|চীন|Cina (Tiongkok)|Uchina|Çin|Ĉinio|Kiina|Chiny
 zung~xul.kan:|zungxulekan||||secondary school|école secondaire|escuela secundaria|ensino secundário|средняя школа||中学|||trường trung học|||sekolah menengah|||gimnazio|yläaste ja lukio|

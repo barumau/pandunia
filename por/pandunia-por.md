@@ -249,6 +249,7 @@ carme - charme
 catre - quatro (4)  
 ceke - cheque  
 celolojia - citologia  
+seng - maduro (adulto)  
 centaure - centáurea  
 • acepe - aceitar  
 • intercepe - interceptar  
@@ -652,6 +653,7 @@ juba - manto
 • juder - juiz  
 • exjude - extrajudicial  
 jul - joule (J)  
+jun - jovem  
 • juntion - junção  
 • junture - juntura  
 juntelexe - conjunção  
@@ -835,6 +837,7 @@ late - lado
 latedike - lateral  
 Latvia - Letónia  
 lau - idoso  
+launen - velhice  
 laurensium - lawrêncio  
 laxe - deixar  
 lazanya - lasanha  
@@ -1678,11 +1681,11 @@ yodium - iodo
 • yogaiste - iogui  
 yogur - iogurte  
 yom - dia  
+you - infantil (imaturo)  
 yterbium - itérbio  
 ytrium - itrio  
 yuge - jugo  
 • subyuge - subjugar  
-yune - jovem  
 
 ## Z  
 
@@ -1702,11 +1705,11 @@ zoosikle - zodíaco
 zootiber - veterinário  
 zombi - zumbi  
 zone - zona  
-zongominte - hortelã-verde  
+zongminte - hortelã-verde  
 zuke - etnia (étnico)  
 zukam - resfiado (gripe)  
 zumurude - esmeralda  
 zung - centro  
-zungofon - vogal  
+zungfone - vogal  
 Zungogia - China  
 zungxulekan - ensino secundário  

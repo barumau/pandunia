@@ -235,6 +235,9 @@ caukitabe - 草书
 ceke - 支票  
 celolojia - 细胞学  
 ceng - 层  
+sengjen - 成人 (成年人)  
+cengnan - 男人  
+cengni - 女人  
 ceresium - 铈  
 • sucese - 成功  
 cesium - 铯  
@@ -609,6 +612,9 @@ jongle - 变戏法
 juba - 长袍  
 • judekan - 法庭  
 jul - 焦耳 (J)  
+jun - 年轻  
+junjen - 年轻人  
+junnen - 青年  
 juntelexe - 连接词  
 jupiter - 木星  
 jus - 汁  
@@ -779,6 +785,8 @@ late - 侧面 (旁边)
 • latude - 纬度  
 Latvia - 拉脱维亚  
 lau - 老 (老年, 年歲大)  
+laujen - 老人  
+launen - 老年  
 laurensium - 铹  
 lazanya - 千层面  
 lazurite - 青金岩  
@@ -862,7 +870,6 @@ masale - 香料
 maste - 桅  
 mate - 物质  
 mate cai - 马黛茶  
-matur - 成年人  
 mau - 猫  
 • maxime - 最  
 maxobalaje - 加固  
@@ -1514,6 +1521,8 @@ yoga - 瑜伽功
 • yogaiste - 瑜伽士  
 yogur - 酸奶 (优格)  
 yom - 白天  
+you - 幼稚  
+younen - 幼年  
 yterbium - 镱  
 ytrium - 钇  
 yuge - 轭  
@@ -1535,7 +1544,7 @@ zoe - 动物
 zooparke - 动物园  
 zoosikle - 黄道带  
 zootiber - 兽医  
-zongominte - 留兰香  
+zongminte - 留兰香  
 zuke - 民族  
 zukam - 感冒  
 zumurude - 绿宝石 (祖母绿)  

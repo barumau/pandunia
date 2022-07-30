@@ -594,6 +594,7 @@
 **jongle** *jongleerata* ← ranska:jongler, englanti:juggle, venäjä:жонглировать (žonglirovat’), japani:ジャグリング (jaguringu)  
 **juba** *kaapu* ← arabia: جُبَّة (jubba), suahili:juba, malaiji:jubah, espanja:aljuba  
 **jude** *tuomita (tuomio, oikeus; oikeudellinen)* ← englanti:judge, ranska:juge, espanja:juez, portugali:juiz, hindi:जज (jaj), bangla:জজ (jôj), suahili:jaji + venäjä:суд (sud)  
+**jun** *nuori* ← ranska:jeune, espanja:joven, portugali:jovem, persia: جوان‎ (javân), hindi:जवान (javān) + korea:젊다 (jeomda)  
 **junte** *liitos (nivel)* ← englanti:joint, ranska:jonction, espanja:portugali:junta, deu:junktion  
 **jus** *mehu* ← englanti:juice, suahili:jusi, tamili:ஜூஸ் (jūs), japani:ジュース (jūsu), korea:주스 (juseu)  
 **juste** *tarkka (täsmällinen; juuri, just,täsmälleen)* ← englanti:just, ranska:juste, espanja:justo, italia:giusto, japani:ジャスト (jasto)  
@@ -1248,6 +1249,7 @@
 **selge** ** ← arabia:سلق (silqa), espanja:portugali:acelga  
 **semente** *sementti* ← englanti:cement, malaiji:semen, espanja:cemento, suahili:sementi, turkki:çimento, vietnami:xi măng, hindi:सीमेंट (siment), venäjä:цемент (tsement), arabia:(ʾasmant), korea:시멘트 (simenteu)  
 **sene** *ikä* ← arabia: سِنّ‎ (sinn), hindi:सिन (sin) + espanja:portugali:sene + yleiskiina:岁 (suì), kantoninkiina:歲 (seoi3), korea:세  (-se), japani:歳 (-sai)  
+**seng** *kypsä (aikuinen)* ← yleiskiina:成 (chéng), kantoninkiina:成 (sing4), japani:成 (sei), korea:성 (seong)  
 **sense** *aisti* ← englanti:sense, espanja:portugali:sentido, ranska:sens  
 **sente** *sata (100)* ← ranska:cent, englanti:cent-, espanja:cien, portugali:cem, venäjä:сто (sto), hindi:शत (śat), bangla:শত (śôt) + japani:パーセント (pasēnto), korea:퍼센트 (peosenteu), malaiji:persen  
 **sente** *tuntea* ← espanja:portugali:sentir  
@@ -1539,10 +1541,10 @@
 **yon** *ioni* ← englanti:ranska:espanja:ion, venäjä:ион (ion), turkki:iyon  
 **yota** *miljoona (mega-)* ← englanti:ranska:espanja:portugali:yotta, malaiji:yota-, yleiskiina:尧它- (yáotā-), japani:ヨタ- (yota-), korea:요타- (yota-)  
 **yote** *pisara (tippa)* ← thai:หยด (yòt), vietnami:giọt, + englanti:iota, venäjä:йота (yota)  
+**you** *lapsi (alaikäinen, epäkypsä, kasvava)* ← yleiskiina:幼 (yòu), kantoninkiina:幼 (yau3), japani:幼 (yõ), korea:유 (yu) + hindi:युवा (yuvā), tamili:யுவன் (yuvaṉ), telugu:యువ (yuva) + espanja:joven, portugali:jovem, ranska:juvénile  
 **yterbium** *ytterbium* ← englanti:ytterbium, ranska:ytterbium, espanja:iterbio, portugali:itérbio, venäjä:иттербий, yleiskiina:镱 (yì), japani:イッテルビウム, korea:이테르븀, vietnami:ytecbi, hindi:यिट्टरबियम, bangla:ইটারবিয়াম, malaiji:iterbium, suahili:yitebi, arabia: يتربيوم  
 **ytrium** *yttrium* ← englanti:yttrium, ranska:yttrium, espanja:itrio, portugali:itrio, venäjä:иттрий, yleiskiina:钇 (yǐ), japani:イットリウム, korea:이트륨, vietnami:ytri, hindi:इत्रियम, bangla:ইটরিয়াম, malaiji:itrium, suahili:yitri, arabia: يتريوم  
 **yuge** *ies* ← englanti:yoke, espanja:yugo, portugali:jugo, persia:  یوغ‎ (yuğ), kantoninkiina:軛 (aak1), vietnami:ách  
-**yune** *nuori* ← englanti:young, venäjä:юный (junyj) + hindi:युवा (yuvā), telugu:యువ (yuva) + ranska:jeun, espanja:joven, portugali:jovem, fra:juvénile  
 **zai** *olla olemassa* ← yleiskiina:在 (zài), japani:在 (zai), vietnami:tại  
 **zaitun** *oliivi* ← arabia:(zaitūn), espanja:aceituna, malaiji:zaitun, suahili:zaituni, hindi:urdu:(zaitūn)  
 **zalime** *ilkeä (julma)* ← arabia:(ẓālim), turkki:zalim, urdu:hindi:(zālim), persia:(zālem), suahili:dhalimu  
