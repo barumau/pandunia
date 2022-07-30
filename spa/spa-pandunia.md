@@ -195,7 +195,7 @@ Antigua - Antigua
 Antigua y Barbuda - Antigua e Barbuda  
 Antillas Neerlandesas - Nederlandi Antil  
 antimonio - stibium  
-antorcha - fotobaton  
+antorcha - fotegana  
 antónimo - antinam  
 análisis de datos - datefenkate  
 anís - anis  
@@ -214,7 +214,7 @@ Arabia Saudita - Saudi Arabia
 aracnofobia - aranefobia  
 araña - arane  
 arboreto - mokozongoparke  
-arbusto (mata) - dipe moke  
+arbusto (mata) - dipemoke  
 archipiélago - nesia  
 archipiélago de Hawái - Havai nesia  
 archivo - dataje  
@@ -329,7 +329,7 @@ babor - nauleve
 bacalao - bakalau  
 bacalao común - atlante bakalau  
 backgammon - narde  
-baguette - batonpang  
+baguette - ganapang  
 bah - bah  
 bah - fi  
 Bahamas - Bahama  
@@ -343,16 +343,16 @@ balcón (terraza, veranda) - beranda
 balde (cubo) - balde  
 baldosa (teja, azulejo) - tail  
 ballesta - krusarke  
-baloncesto (básquetbol) - baske bol  
+baloncesto (básquetbol) - baskebol  
 bambú - bambu  
-bancarrota (quiebra) - bankorutia  
+bancarrota (quiebra) - bankerutia  
 banco (silla) - bence  
 banco - bankekan  
 banco de datos (base de datos) - datebanke  
 banda (cinta; atar, amarrar)) - bende  
 banda - bande  
 bandera - bandir  
-Bangladés - Banglodex  
+Bangladés - Bangledex  
 banquero - banker  
 baobab - buyu  
 bar (pub) - birkan  
@@ -363,10 +363,10 @@ Barbados - Barbados
 Barbuda - Barbuda  
 barco (bote) - nau  
 bario - barium  
-barra (vara, palo) - baton  
-barra de chocolate - coklatobaton  
+barra (vara, palo) - gana  
+barra de chocolate - coklategana  
 barrera (barda) - bare  
-barrera (barda) - baromur  
+barrera (barda) - baremur  
 barriga (vientre, panza) - pete  
 barril (tonel) - tong  
 baréin - Bahrain  
@@ -493,7 +493,7 @@ cabaña - kabin
 cabeza - sar  
 cable - kable  
 Cabo Verde - Kabu Verdi  
-cabra - buze  
+cabra - buzi  
 caca (defecar) - kaka  
 cacao - kakau  
 cacto - katus  
@@ -510,7 +510,7 @@ caja - kase
 caja registradora - kase (de mone)  
 caja torácica - sinakase  
 cajero - kaser  
-cajón (gaveta) - tirsanduke  
+cajón (gaveta) - tiresanduke  
 cal - kalsemate  
 calabacín - xiukaboge  
 calabaza - kaboge  
@@ -611,7 +611,7 @@ cauri - kauri
 cavar (excavar) - kave  
 cazador - yeger  
 cazar (pescar) - yege  
-caña - gana  
+caña - ganafite  
 caña de azúcar - sukar gana  
 cañonear - daipaver  
 cañón (barranco, quebrada) - kanyon  
@@ -942,7 +942,7 @@ cuándo - ke sate
 cuántos - ke multe  
 cálamo - ganakalam  
 cálculo - kalkulia  
-cámara - fotografomaxin  
+cámara - fotografemaxin  
 cápsula - kasule  
 cárcel - jelekan  
 Cáucaso - Kaukasia  
@@ -1206,8 +1206,8 @@ en el sentido del las agujas del reloj - rotoraito
 en línea - a line  
 encanto - carme  
 encarcelar (aprisionar) - jele  
-encurtido - acari  
-encurtir - acara  
+encurtido - acar di  
+encurtir - acar  
 endónimo - inonam  
 enemigo - dusjen  
 energía - energe  
@@ -1307,7 +1307,7 @@ estar en contra - kontre
 estaño - stanium  
 estilógrafo - fontekalam  
 estimar (apriximarse a) - yagife  
-estirar (extender) - tirlonge  
+estirar (extender) - tirelonge  
 Estonia - Estia  
 estornudar (achís) - aci  
 estrella - xing  
@@ -1373,7 +1373,7 @@ familia - famil
 fan (-filo) - filike  
 fan - fan  
 fantasma - fantom  
-faro (baliza, almenara) - fotominar  
+faro (baliza, almenara) - fototore  
 farol (linterna) - hogosanduke  
 farsi - farse  
 fascinación - fasin  
@@ -1427,7 +1427,7 @@ formateo - kitaboforme
 formulario - sualodokum  
 foro (espacio público) - forum  
 fosa - kavaje  
-foto (fotografía) - fotograf  
+foto (fotografía) - fotografe  
 fotografía - fotografia  
 fotógrafo - fotografer  
 fracción (parte; dividir, partir) - fen  
@@ -1637,7 +1637,6 @@ hemoglobina - hemoglobin
 heno - gancau  
 hepatitis - hepatitis  
 hercio (Hz) - herze  
-hermano o hermana - brus  
 hermoso (bello, lindo) - mei  
 herramienta - tul  
 herrero - metalzanger  
@@ -1776,7 +1775,7 @@ inflamación - itis
 información - konsabe  
 informática (computación) - dateproceselojia  
 infortunio (mala suerte) - dus zar  
-infortunio (mala suerte) - dusozar  
+infortunio (mala suerte) - dus zar  
 infraestructura - bazestrute  
 ingeniero - enjener  
 Inglaterra - Englia  
@@ -1870,7 +1869,7 @@ Japón - Nipon
 jarabe (sirope) - xirope  
 jarra - pote  
 Jartum - Hartum  
-jaula (caja) - batonkase  
+jaula (caja) - ganakase  
 jazmín - malika  
 jazz - jaze  
 jefe - xefe  
@@ -2496,10 +2495,10 @@ oda - ode
 odiar - hene  
 odio - hen  
 oeste (occidental) - veste  
-oficial (formal, protocolario) - bure di  
+oficial (formal, protocolario) - buro di  
 oficial - ofise  
 oficial - mantike  
-oficina - bure  
+oficina - buro  
 oficina - ofiskan  
 oficina de correos - postekan  
 ogro (gnomo, trol, duende, trasgo) - gui  
@@ -2568,7 +2567,7 @@ palabra (vocablo) - lexe
 palacio (mansión) - daidom  
 paladar - bokacate  
 paladio - paladium  
-palanca - tirbaton  
+palanca - tiregana  
 Palaos - Palau  
 Palestina - Filistin  
 palillos - haxi  
@@ -2820,7 +2819,7 @@ posar (pose, postura) - poze
 poseer (tener, ser dueño de; propiedad) - male  
 posiblemente - bil e  
 posproducción - posprodute  
-poste (estaca, palo) - baton  
+poste (estaca, palo) - mokegana  
 posterior - postre  
 postnatal - posnatal  
 postura (posición) - asan  
@@ -2872,7 +2871,7 @@ profesión (ocupación) - peikar
 profesor - profeser  
 profeta - naber  
 profeta Mani - Mani  
-profundo (hondo) - fasotele  
+profundo (hondo) - teledipe  
 programa - program  
 programador - programer  
 prohibido (tabú) - harame  
@@ -2921,7 +2920,7 @@ pulpo - batosenter
 pulso - pulsation  
 puma - puma  
 punjabí - panjabe  
-puntero - dikebaton  
+puntero - dikegana  
 puntero - diker  
 punto (lunar) - binde  
 punto - punte  
@@ -3136,7 +3135,7 @@ saber (sabiduría) - sabe
 sabiduría - sofia  
 sabio - sofe  
 sabroso (umami) - umame  
-sacerdote (clérigo, eclesiástico) - dinoguru  
+sacerdote (clérigo, eclesiástico) - dinguru  
 saco - sake  
 sagrada escritura - sante kanon  
 sagrado (santo) - sante  
@@ -3188,7 +3187,7 @@ scooter - moteskuter
 se - se  
 seaborgio - siborgium  
 secador de pelo - kexefentor  
-seco (árido; secar) - gane  
+seco (árido; secar) - gan  
 secretario - sekreter  
 secretaría - sekreteria  
 secreto (ocultar, esconder) - sir  
@@ -3326,7 +3325,7 @@ sultán - sultan
 suma (total; sumar) - sum  
 suministrar (dar, proveer, emitir) - fade  
 sumisión (rendición; someterse, rendirse, ceder) - islam  
-superficial (poco profundo) - fasotelia  
+superficial (poco profundo) - teledipia  
 superior (más alto) - supre  
 sur - sude  
 sureño - sudike  

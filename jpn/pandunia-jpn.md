@@ -7,8 +7,7 @@ a misal - 例えば
 a zai den - 今日  
 a kon - 一緒に  
 abete - モミ  
-acar - 漬物  
-acara - 酢漬けある  
+acar - 漬物 (酢漬けある)  
 acinium - アクチニウム  
 ade - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
@@ -105,7 +104,7 @@ bambu - 竹
 bamia - オクラ  
 ban - 板  
 bangem - ボードゲーム  
-bankorutia - 破産  
+bankerutia - 破産  
 barium - バリウム  
 baru - 熊  
 barxe - 雨 (雨が降る)  
@@ -114,8 +113,6 @@ bas - 十分
 bate - 八 (8)  
 batosenter - タコ  
 bata - 鴨  
-baton - 杭  
-batonkase - 檻 (篭, ケージ)  
 batre - バッテリー  
 bavite - 宝石  
 baxe - 言語  
@@ -166,15 +163,15 @@ bol - 玉 (球)
 bolte - ボルト  
 bon - 良い (元気, 上手)  
 konbone - 合わせる (適する)  
-ribone - 修理  
-riboner - 修理工  
+• ribone - 修理  
+• riboner - 修理工  
 borium - ボーリウム  
 boron - ホウ素  
 botel - 瓶  
 brauze - 探る, 探検する  
 brauzer - 探検家 (ブラウザ)  
 bromium - 臭素  
-broxokalam - 筆 (毛筆)  
+broxkalam - 筆 (毛筆)  
 brun - 茶色  
 brunalge - 褐藻  
 brunsalmon - ブラウントラウト  
@@ -225,7 +222,7 @@ cita - チーター
 • codekan - 娼館  
 coi - 菜  
 coklate - チョコレート  
-coklatobaton - チョコバー  
+coklategana - チョコバー  
 cope - クワ  
 • cuzebil - オプション (選択)  
 • precuze - 既定 (デフォルト)  
@@ -273,7 +270,7 @@ deu - 神
 deunagre - デーヴァナーガリー  
 dike - 方向 (標的, ターゲット; 狙う)  
 • dikion - 直示  
-dikebaton - 指し棒  
+dikegana - 指し棒  
 din - 宗教  
 • diniste - 信徒 (信者)  
 • andiniste - 不信者  
@@ -281,7 +278,7 @@ dinamite - ダイナマイト
 dinde - 七面鳥  
 diorite - 閃緑岩  
 dipe - 低い  
-dipe moke - 灌木 (藪)  
+dipemoke - 灌木 (藪)  
 dise - 疎ら  
 diske - ディスク (円盤)  
 disprosium - ジスプロシウム  
@@ -340,8 +337,6 @@ fange - 泥
 fangodefoban - フェンダー  
 fangostan - 沼地  
 fase - 面  
-fasotele - 深い  
-fasotelia - 浅い  
 fasile - 易しい  
 fasilia da acese - アクセシビリティ  
 fatige - 疲労 (疲れる, 疲労する)  
@@ -373,8 +368,8 @@ fobe - 恐れる
 • konforme - 即する  
 fote - 光  
 fotofrike - 光沢  
-fotograf - 写真  
-fotominar - 狼煙 (ビーコン)  
+fotografe - 写真  
+fototore - 狼煙 (ビーコン)  
 fransium - フランシウム  
 frasen - 秦皮  
 frem - 額  
@@ -411,6 +406,7 @@ galte - 間違い (誤り, バグ)
 • degalte - デバッグする  
 gamben - 連れ子  
 gancau - 干し草  
+ganakase - 檻 (篭, ケージ)  
 gande - 香り (匂い, 臭い)  
 gande - 嗅ぐ  
 ganse - 雁 (鵝鳥)  
@@ -907,6 +903,7 @@ Misria - エジプト
 mitre - メートル  
 moke - 木  
 mokotan - 丸木  
+mokegana - 杭  
 mole - モル  
 molekul - 分子  
 molidenium - モリブデン  
@@ -1336,6 +1333,8 @@ telefon - 電話
 telefone - 電話する  
 teleloke - 瞬間移動  
 teleskope - 望遠鏡 (テレスコープ)  
+teledipe - 深い  
+• teledipia - 浅い  
 telurium - テルル  
 temnam - 題名 (書名, タイトル)  
 ten - 空  
@@ -1355,8 +1354,8 @@ teze - 論題  (テーゼ)
 tibesui - ポーション (水薬)  
 tipe - 種類  
 tire pil - はがす (剥ぐ)  
-tirbaton - レバー (てこ)  
-tirlonge - 伸びる (張る)  
+tiregana - レバー (てこ)  
+tirelonge - 伸びる (張る)  
 tireriu - 離岸流  
 titanium - チタン  
 tix - しーっ  

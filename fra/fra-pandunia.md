@@ -199,7 +199,7 @@ aïe! - ai
 babord - nauleve  
 backgammon - narde  
 bagage - bagaje  
-baguette - dikebaton  
+baguette - dikegana  
 baguettes - haxi  
 bah - bah  
 bah! (fi!) - fi  
@@ -215,7 +215,7 @@ bambou - bambu
 banane - banan  
 bande - bande  
 bande dessinée - grafosage  
-Bangladesh - Banglodex  
+Bangladesh - Bangledex  
 banque - banke  
 banquier - banker  
 Barbade - Barbados  
@@ -224,14 +224,14 @@ barbe - barde
 Barbuda - Barbuda  
 baromètre - airbarmetrer  
 barrière - bare  
-barrière - baromur  
+barrière - baremur  
 baryum - barium  
 bas - dipe  
 base (alcali; basique) - kali  
 base - baze  
 base de données - datebanke  
 baseball - bazebol  
-basketball - baske bol  
+basketball - baskebol  
 bassin - basen  
 bateau - nau  
 beau - mei  
@@ -295,12 +295,12 @@ brosse à cheveux - kexebroxe
 brun (marron) - brun  
 brûler - hoge  
 budget - bugete  
-buisson - dipe moke  
+buisson - dipemoke  
 bulletin (infolettre) - habar letre  
-bureau (office) - bure  
+bureau (office) - buro  
 bureaucratie - burokratia  
 but (destination) - gol  
-bâton (canne, tige) - baton  
+bâton (canne, tige) - gana  
 bébé - bebe  
 bédouin - badave  
 béryllium - berilium  
@@ -317,7 +317,7 @@ cadre - frem
 cafetière - kafepote  
 café - kafe  
 café - kafekan  
-cage - batonkase  
+cage - ganakase  
 caillou - xivite  
 calame - ganakalam  
 calcaire - kalsepetre  
@@ -334,7 +334,7 @@ Camomille sauvage - kamil
 canapé (sofa) - kanape  
 canapé (sofa) - sofa  
 canif - jebecaku  
-canne - gana  
+canne - ganafite  
 canne à sucre - sukar gana  
 canon - daipau  
 canoë - kanu  
@@ -602,7 +602,7 @@ dysprosium - disprosium
 dé - zarkube  
 déboguer (débugger) - degalte  
 début (commencement) - xure  
-décapé (mariné) - acari  
+décapé (mariné) - acar di  
 décharge - lasastan  
 déchirer - cire  
 défigurer - dusforme  
@@ -674,15 +674,15 @@ exécrer - aname
 face (facette) - fase  
 facile - fasile  
 faible - anbale  
-failli - bankorute  
-faillite (banqueroute) - bankorutia  
+failli - bankerute  
+faillite (banqueroute) - bankerutia  
 faim - yamyau  
 faire (fait) - fete  
 faire - fe  
 faiseur (facteur) - feter  
 fait (faiture) - feture  
 fan - fan  
-fanal (balise) - fotominar  
+fanal (balise) - fototore  
 fanatique - fanatike  
 fascisme - faxisme  
 fatigue - fatige  
@@ -1344,12 +1344,12 @@ peut-être - bil e
 phase - faze  
 philosophie - filsofia  
 phosphore - pospor  
-photographie - fotograf  
+photographie - fotografe  
 photographie - fotografia  
 pierre - ite  
 pierre précieuse (joyau) - bavite  
 pierre tombale - gabrite  
-pieu (poteau) - baton  
+pieu (poteau) - mokegana  
 pile (batterie) - batre  
 piment - cili  
 pinceau - pentobrox  
@@ -1442,7 +1442,7 @@ proche - proxe
 proclamer - proklame  
 professeur (enseignant) - xulizer  
 profession (métier) - peikar  
-profond - fasotele  
+profond - teledipe  
 programme - program  
 projectile - jetaje  
 projet - projete  
@@ -1570,8 +1570,8 @@ réglisse - sus
 régner - reje  
 régénérer - rigenerate  
 réparateur - riboner  
-réparer - ribone  
 réparer - repare  
+réparer - ribone  
 réponse - javabe  
 répéter - rifete  
 répétition - ri-  
@@ -1712,7 +1712,7 @@ s’accroupir - inside
 
 table - meza  
 tableau (panneau) - ban  
-tablette de chocolat - coklatobaton  
+tablette de chocolat - coklategana  
 tabula rasa - razi table  
 Talibans - Talban  
 tantale - tantalium  
@@ -1729,7 +1729,7 @@ tellure - telurium
 temple - pujekan  
 temps - zaman  
 tendance - ivia  
-tender - tirlonge  
+tender - tirelonge  
 tendu - tense  
 tennessine - tenesium  
 tente - haima  

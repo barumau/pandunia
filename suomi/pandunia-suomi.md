@@ -58,6 +58,7 @@ a zai den - tänään
 a kon - yhdessä  
 abe - pois  
 abete - pihta (jalokuusi)  
+acar - säillöä (suolakurkkuja yms.)  
 aci - aivastaa (atsii!)  
 acinium - aktinium  
 ade - tapa (tavallinen)  
@@ -286,18 +287,18 @@ banan - banaani
 bande - ryhmä (työryhmä, yhtye, bändi)  
 bandir - lippu  
 bangle - bengali  
-Banglodex - Bangladesh  
+Bangledex - Bangladesh  
 banyakamar - kylpyhuone  
 banke - tallettaa (tallentaa)  
 • bankekan - pankki (talletuspaikka)  
 • banker - pankkiiri  
-bankorute - vararikossa  
-bankorutia - vararikko (konkurssi)  
+bankerute - vararikossa  
+bankerutia - vararikko (konkurssi)  
 banya - kylpy (kylpeä)  
 bar - baari (kapakka)  
 bare - este (sulku; puomi)  
 barium - barium  
-baromur - barrikadi  
+baremur - barrikadi  
 Barbados - Barbados  
 barbar - barbaari (raakalainen)  
 Barbuda - Barbuda  
@@ -316,14 +317,11 @@ barxemosim - sadekausi
 bas - tarpeeksi (riittävästi)  
 basen - allas  
 baske - kori  
-baske bol - koripallo  
+baskebol - koripallo  
 bate - kahdeksan (8)  
 batosenter - mustekala  
 bata - sorsa (ankka)  
 batakrote - vesinokkaeläin  
-baton - tanko (sauva, patukka)  
-batonkase - häkki  
-batonpang - patonki (ranskanleipä)  
 batre - akku (paristo)  
 bau - aarre (arvokas)  
 bavite - jalokivi  
@@ -429,8 +427,8 @@ bombe - pommi
 bon - hyvä  
 bon zar - hyvä onni (tuuri, säkä, lykky)  
 konbone - sopia  
-ribone - korjata  
-riboner - korjaaja  
+• ribone - korjata  
+• riboner - korjaaja  
 bore - pitkästynyt  
 boria - tylsyys (pitkästys)  
 borium - bohrium  
@@ -448,11 +446,9 @@ Brazil - Brasilia
 Britania - Iso-Britannia (Yhdistyneet Kuningaskunnat)  
 bromium - bromi  
 brox - harja  
-broxokalam - mustesivellin  
+broxkalam - mustesivellin  
 brun - ruskea  
 Brunei - Brunei  
-brus - sisarus (veli tai sisko)  
-brusben - sisaruksen lapsi  
 bu! - pöö!  
 bubu - mörkö  
 buce - teurastaa (lahdata)  
@@ -472,18 +468,18 @@ buke - kirja
 bule - kiehua (keittää)  
 bulbul - satakieli  
 bum - räjähdys (pamaus)  
-bure - toimisto (konttori, byroo)  
-• burokratia - byrokratia  
-burorite - etiketti (protokolla)  
 burge - linna (linnake, linnoitus)  
 Burkina Faso - Burkina Faso  
+buro - toimisto (konttori, byroo)  
+• burokratia - byrokratia  
+burorite - etiketti (protokolla)  
 bus - linja-auto (bussi)  
 bus halte - bussipysäkki (linja-autopysäkki)  
 buste - povi  
 bute - saapas (buutsi)  
 buton - nappi (näppäin, kytkin, nappula)  
 butonban - näppäimistö  
-buze - vuohi  
+buzi - vuohi  
 
 ## C  
 
@@ -581,7 +577,7 @@ code - nussia (panna)
 • codekan - ilotalo  
 coi - vihannes  
 coklate - suklaa  
-coklatobaton - suklaapatukka  
+coklategana - suklaapatukka  
 Congking - Chongqing  
 cope - kuokka  
 core - varastaa (varkaus)  
@@ -708,12 +704,12 @@ dike - osoittaa (tähdätä; suunta, kohde; maali)
 • dikion - osoittaminen (deiksis)  
 • diker - osoitin  
 • indike - osoittaa (näyttää)  
-dikebaton - karttakeppi  
+dikegana - karttakeppi  
 dikive pronam - demonstratiivipronomini  
 din - uskonto  
 • diniste - uskovainen  
 • andiniste - uskonnoton  
-dinoguru - pappi  
+dinguru - pappi  
 dinamite - dynamiitti  
 dinde - kalkkuna  
 ding - naula (piikki)  
@@ -888,9 +884,7 @@ fantas - kuvitella (kuvittelu, mielikuvitus, fantasia)
 fantom - kummitus (aave)  
 farse - persia (farsi)  
 fase - pinta (tahko)  
-fasokaribe - matala (ei syvä)  
-fasotele - syvä  
-fasotelia - syvyys  
+fasekaribe - matala (ei syvä)  
 • polifas - monitahokas  
 fasile - helppo  
 fasin - hurma (lumo, tenho)  
@@ -997,16 +991,16 @@ forme - muoto (muotoilla, muovata)
 • dusforme - turmella muoto (epämuodostunut)  
 forum - foorumi  
 fote - valo  
-fotobaton - soihtu  
 fotofrike - kiillottaa  
-fotograf - valokuva (foto)  
+fotegana - soihtu  
+fotografe - valokuva (foto)  
 fotografia - valokuvaus  
 fotografer - valokuvaaja  
-fotografomaxin - kamera  
+fotografemaxin - kamera  
 fotokable - valokuitu (valokaapeli)  
-fotominar - majakka  
 fotorade - valonsäde  
 fotosirke - sädekehä (halo)  
+fototore - majakka  
 frage - murtua (särkyä)  
 • fragebil - särkyvä  
 • fragure - murtuma  
@@ -1080,13 +1074,16 @@ gamma - anoppi
 gampa - appi  
 Gambia - Gambia  
 gamel - kameli  
-gane - kuiva (kuivata, kuivua)  
+gan - kuiva (kuivata, kuivua)  
 gancau - heinä  
 ganputau - rusina  
 gantexe - pyyheliina  
 Gana - Ghana  
-gana - ruoko  
+gana - tanko (sauva, patukka)  
+ganafite - ruoko  
 ganakalam - ruokokynä  
+ganakase - häkki  
+ganapang - patonki (ranskanleipä)  
 gande - haju  
 gande - haistaa  
 Ganda - Uganda  
@@ -2270,6 +2267,7 @@ moke - puu
 mokomate - puuaines  
 mokozanger - puuseppä  
 mokozongoparke - arboretum (puulajipuisto)  
+mokegana - keppi  
 mole - jauhaa  
 • molekan - mylly  
 • moler - mylläri  
@@ -3398,6 +3396,8 @@ telefonia - puhelintekniikka
 telefonlin - puhelinjohto  
 teleskope - kaukoputki (teleskooppi)  
 televide - televisio  
+teledipe - syvä  
+• teledipia - syvyys  
 telugu - telugu (eräs intialainen kieli)  
 telurium - telluuri  
 tem - aihe (teema)  
@@ -3449,7 +3449,7 @@ Timor - Timor
 • tipelojia - typologia  
 tire - vetää (kiskoa)  
 tire milke - lypsää maitoa  
-tirsanduke - vetolaatikko  
+tiresanduke - vetolaatikko  
 titanium - titaani  
 tix - hiljaa (hys, shhh)  
 • tixe - hiljainen  
@@ -3873,7 +3873,7 @@ Zambia - Sambia
 zange - kätevä  
 zanger - artesaani (käsityöläinen)  
 zar - sattuma (onni; sattumanvarainen)  
-• dusozar - epäonni  
+• dus zar - epäonni  
 zarkube - noppa (arpakuutio)  
 Zardux - Zarathustra  
 zarduxisme - zarathustralaisuus  

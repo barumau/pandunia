@@ -137,7 +137,7 @@ bande - 班  (一帮)
 bandir - 旗  
 banyakamar - 浴室  
 • bankekan - 银行  
-bankorutia - 破产  
+bankerutia - 破产  
 banya - 洗澡 (游泳)  
 barium - 钡  
 barkoke - 杏子  
@@ -147,12 +147,10 @@ barxecate - 伞
 barxekote - 雨衣  
 barxemosim - 雨季  
 bas - 够  
-baske bol - 篮球  
+baskebol - 篮球  
 bate - 八 (8)  
 batosenter - 章鱼  
 bata - 鸭  
-baton - 桩  
-batonkase - 笼  
 batre - 电池  
 bau - 宝 (宝贵)  
 bavite - 宝石  
@@ -199,12 +197,12 @@ bol - 球
 bombe - 炸弹  
 bon - 好  
 konbone - 相配  
-ribone - 修理  
-riboner - 修理工人  
+• ribone - 修理  
+• riboner - 修理工人  
 boron - 硼  
 botel - 瓶  
 bromium - 溴  
-broxokalam - 毛笔  
+broxkalam - 毛笔  
 brun - 棕色 (咖啡色)  
 brunsalmon - 褐鳟  
 bubu - 魔鬼  
@@ -217,7 +215,7 @@ bum - 爆炸
 • burokratia - 官僚制  
 bus halte - 汽车站  
 buton - 扣子  
-buze - 山羊  
+buzi - 山羊  
 
 ## C  
 
@@ -254,7 +252,7 @@ cire - 撕裂
 circire - 撕毁  
 cita - 猎豹  
 coklate - 巧克力  
-coklatobaton - 巧克力棒  
+coklategana - 巧克力棒  
 Congking - 重庆  
 cope - 锄头  
 cuke - 接触  
@@ -297,7 +295,7 @@ den cete - 星期日 (禮拜日)
 deu - 神  
 deunagre - 天城文  
 dike - 方向 (目的, 目标, 瞄准)  
-dikebaton - 教鞭  
+dikegana - 教鞭  
 din - 宗教  
 • diniste - 信徒  
 • andiniste - 不信神的  
@@ -306,7 +304,7 @@ dinde - 火鸡
 ding - 钉子  
 diorite - 闪长岩  
 dipe - 低  
-dipe moke - 灌木  
+dipemoke - 灌木  
 diske - 圆盘  
 disprosium - 镝  
 • ditater - 独裁者  
@@ -359,7 +357,6 @@ fange - 坭
 fangodefoban - 挡泥板  
 fangostan - 沼泽  
 fase - 面  
-fasotele - 深  
 fasilia da acese - 無障礙環境  
 fatige - 疲劳  
 • faxisme - فَاشِيَّة‎  
@@ -391,9 +388,9 @@ forme - 形状 (形式)
 • dusforme - 变丑  
 fote - 光  
 fotofrike - 擦亮  
-fotograf -  照片 (相片)  
+fotografe -  照片 (相片)  
 fotokable - 光线  
-fotominar - 信号  
+fototore - 信号  
 fransium - 钫  
 frasen - 白蜡树  
 frem - 框  
@@ -426,8 +423,9 @@ galium - 镓
 galaxia - 恆星系  
 galte - 错误  
 gancau - 干草  
-gana - 秆  
+ganafite - 秆  
 ganakalam - 蘆葦筆  
+ganakase - 笼  
 gande - 气味  
 gande - 闻到  
 ganse - 雁 (鹅)  
@@ -921,6 +919,7 @@ mokoban - 木板
 mokomate - 木材  
 mokotan - 原木  
 mokozanger - 木匠  
+mokegana - 桩  
 • molekan - 磨坊  
 molite - 磨石  
 mole - 摩尔 (单位)  
@@ -1342,6 +1341,7 @@ telefone - 打电话
 telefonlin - 电话线  
 teleskope - 望远镜  
 televide - 电视机  
+teledipe - 深  
 telurium - 碲  
 tem - 主题目  
 temnam - 标题  
@@ -1362,8 +1362,8 @@ tibesui - 药水
 tim - 队  
 tire milke - 拉  
 tire pil - 削 (刮去)  
-tirbaton - 杆  
-tirlonge - 拉  
+tiregana - 杆  
+tirelonge - 拉  
 titanium - 钛  
 tix - 噓  
 • tixe - 安静  

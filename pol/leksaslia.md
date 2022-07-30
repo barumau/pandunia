@@ -3,7 +3,7 @@
 **a** *przy, z, na, w, u* ← fra:à, spa:por:a, eng:a-,ad-, rus:а-  
 **abe** ** ← eng:fra:spa:por:ab- + rus:апо- (apo-)  
 **abete** *jodła* ← spa:por:abeto  
-**acar** *marynować* ← fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar  
+**acar** *kisić (marynować)* ← fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar  
 **aci** *kichać (apsik!)* ← spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), ben:আঁচে (hache), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum  
 **acinium** *aktyn* ← eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم  
 **adal** *sprawiedliwy* ← ara: عدل (’adl), may:tur:adil, swa:adili + hin:अदालत (adālat)  
@@ -112,7 +112,7 @@
 **bare** *bariera* ← eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)  
 **barium** *bar* ← eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari, ara: باريوم  
 **barke** *gratulować (błogosławić, gratulacje)* ← hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika  
-**barkoke** *morela* ← ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti  
+**barkoke** *morela* ← ara:(barqūq), eng:apricot, fra:abricot, spa:albaricoque, por:abricó, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti  
 **barte** *Indyjski* ← hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)  
 **baru** *niedźwiedź* ← deu:Bär, eng:bear + hin:भालू (bhālū), ben:ভালুক (bhaluk) + may:beruang  
 **barude** *proch strzelniczy* ← ara:fas:urd:(bārūd), hin:बारूद (bārūd), swa:baruti, tur:barut  
@@ -122,7 +122,6 @@
 **baske** *kosz* ← eng:basket, may:bakul, jpn:バスケット (basuketto)  
 **bata** *kaczka* ← ara: بَطَّة‎ (baṭṭa), hin:बत्तख (battakh), tel:బాతు (bātu), swa:bata + spa:por:pato + tha:เป็ด  (pèt)  
 **bate** *osiem (8)* ← zho:八 (bā), yue:八 (baat3), wuu:八 (baʔ), jpn:八 (hachi), kor:팔 (pal), tha:แปด (pæt) + hin:आठ (āṭh), ben:আট (aṭ)  
-**baton** *pręt, kij* ← eng:cane, fra:canne, zho:杆 (gǎn),   
 **batre** *bateria* ← eng:battery, hat:batri, fas:(bātri), swa:betri, hin:बैटरी (baiṭrī), ben:ব্যাটারি (byaṭari), ara:(baṭṭāriyya), jpn:バッテリー (batterī), kor:배터리 (baeteori), rus:батарея (batareya), spa:por:bateria, may:bateri  
 **bau** *skarb (skrabiec; cenny)* ← zho:宝 (bǎo), kor:보 (bo), vie:bảo, jpn:宝 (hō)  
 **baxe** *język* ← hin:भाषा (bhāṣā), ben:ভাষা (bhaṣa), tel:భాష (bhāṣa), may:bahasa, jav:basa, tha:ภาษา (phasa)  
@@ -167,7 +166,7 @@
 **boi** *spławik (boja)* ← eng:buoy, spa:swa:may:boya, por:boia, fra:bouée, rus:буй (buy), jpn:ブイ (bui), kor:부표 (bupyo)  
 **boikote** *bojkot* ← eng:fra:boycott, spa:boicot, por:boicote, jpn:ボイコット (boikotto), fas:بایکوت‎ (bâykot), бойкот (boykot)  
 **boing** ** ← eng:boing, jpn:ボイン (boin)  
-**boka** *usta* ← spa:por:boca  
+**boka** *usta* ← spa:por:boca + hau:baka  
 **bokse** *boks* ← eng:box, deu:Boxen, fra:por:boxe, spa:boxeo, rus:бокс (boks), jpn:ボクシング (bokushingu), kor:복싱 (boksing), hin:बॉक्सिंग (bŏksiṅg), ben:বক্সিং (bôksing), may:boksing, tur:boks  
 **bol** *piłka* ← eng:ball, spa:por:may:tgl:bola, tha:บอล (bɔl), jpn:ボール (bōru), kor:볼 (bol), khm:បាល់ (bal), ben:বল (bôl), deu:Ball, fra:boule, balle  
 **bolte** ** ← eng:bolt, fra:boulon, rus:болт (bolt), hin:बोल्ट (bolṭ), jpn:ボルト (boruto), kor:볼트 (bolteu)   
@@ -193,14 +192,14 @@
 **bulbul** *słowik* ← may:bulbul, tur:bülbül, hin:बुलबुल (bulbul), urd:(bulbul), fas:(bolbol)  
 **bule** *ugotować się, gotować się* ← eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)  
 **bum** *wybuch (eksplodować, wybuchnąć, wybuchać)* ← eng:boom, deu:Bumm, fra:boum, spa:por:bum, hin:बूम (būm), zho:砰 (pēng), kor:펑 (peong), vie:bùm  
-**bure** *biuro, urząd* ← eng:fra:bureau, spa:buro-, por:birô, rus:бюро (byuro), pol:biuro, tur:büro  
 **burge** *zamek, forteca, twierdza* ← deu:Burg, ara:urd: بُرْج‎ (burj), hin:बुर्ज (burj), ben:বুরুজ (buruj), tel:బురుజు (buruju), may:puri  
+**buro** *biuro, urząd* ← eng:fra:bureau, spa:buro-, por:birô, rus:бюро (byuro), pol:biuro, tur:büro  
 **bus** *autobus, autokar* ← deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, zho:巴士 (bāshì), vie:xe buýt  
 **buste** *biust* ← fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste  
 **bute** *but* ← eng:boot, fra:botte, spa:por:bota, ell:μπότα (bóta), rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti  
 **buton** *klawisz, przycisk, przełącznik, guzik* ← eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)  
 **buyu** *baobab* ← swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu  
-**buze** *koza* ← swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)  
+**buzi** *koza* ← swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)  
 **cabe** *klucz* ← por:chave, hin:(cābi), kon:nsapi  
 **cai** *herbata* ← zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá  
 **cakre** *koło* ← hin:चक्र (cakra), ben:চাকা (caka), pan:ਚੱਕਰ (cakkar), guj:ચક્ર (cakra), tel:చక్రము (cakramu), mar:चाक (cāk), tha:จักร (jàk), may:cakera, eng:chakram  
@@ -386,7 +385,7 @@
 **forme** *forma (kształt; ukształtować, kształtować, urzeźbić, rzeźbić)* ← eng:form, spa:por:forma, fra:forme, deu:Form, rus:форма (forma)  
 **forum** *forum* ← eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)  
 **fote** *światło (jasny, świetlny)* ← ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-  
-**fotograf** *zdjęcie (fotografia)* ← eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf  
+**fotografe** *zdjęcie (fotografia)* ← eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf  
 **fransium** *frans* ← eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم  
 **frasen** *jesion* ← fra:frêne, spa:fresno, por:freixo, ita:frassino + rus:ясень (yasen’), pol:jesion  
 **frem** *rama* ← eng:frame, ben:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), mar:फ्रेम (phrēma), swa:fremu  
@@ -415,9 +414,9 @@
 **galte** *błąd (pomyłka; popełnić błąd; błędny, niepoprawny)* ← ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),   
 **game** *ożenić się, poślubić, wyjść za mąż* ← eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (gamiya)  
 **gamel** *wielbłąd, wielbłądzica* ← ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia  
-**gana** ** ← heb: קָנֶה‎ (qané), ara: قَنَاة‎ (qanāh) + eng:cane, fra:canne, spa:caña, por:cana + zho:秆 (gǎn), yue:稈 (gon2) + (sugarcane) hin:गन्ना (gannā), pnb:ਗੰਨਾ (gannā)  
+**gan** *suchy (suszyć )* ← zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon), vie:cạn  
+**gana** *pręt, kij* ← heb: קָנֶה‎ (qané), ara: قَنَاة‎ (qanāh) + eng:cane, fra:canne, spa:caña, por:cana + zho:秆 (gǎn), yue:稈 (gon2), vie:cần, tha:คัน (khan) + (sugarcane) hin:गन्ना (gannā), pnb:ਗੰਨਾ (gannā)  
 **gande** *zapach (aromat, smród, odór)* ← hin:गंध (gandh), ben:গন্ধ (gôndh)  
-**gane** *suchy (suszyć )* ← zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon), vie:cạn  
 **ganputau** *rodzynka* ← kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)  
 **ganse** *gęś* ← spa:por:ganso, hin:हंस (hans), ben:হাঁস (hãs), may:angsa eng:goose, rus:гусь (gus’), pol:gęś + yue:雁 (ngaan6), jpn:雁 (gan), tha:ห่าน (han)  
 **ganum** *pszenica* ← fas:گندم‎(gandom), may:gandum, urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano  

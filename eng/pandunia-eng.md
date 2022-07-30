@@ -63,9 +63,8 @@ a zai den - today
 a kon - together (jointly, mutually)  
 abe - away  
 abete - fir tree  
-acar - pickle  
-acara - pickle (preserve in vinegar or brine)  
-acari - pickled  
+acar - pickle (preserve in vinegar or brine)  
+acar di - pickled  
 aci - sneeze (achoo)  
 acinium - actinium  
 ade - habit (custom; ordinary, customary, habitual, normal)  
@@ -318,18 +317,18 @@ banan - banana
 bande - band (squad, group)  
 bandir - flag (banner)  
 bangle - Bengali (Bangla)  
-Banglodex - Bangladesh  
+Bangledex - Bangladesh  
 banyakamar - bathroom  
 banke - bank (deposit, save)  
 • bankekan - bank (depository, cache)  
 • banker - banker  
-bankorute - bankrupt (insolvent)  
-bankorutia - bankruptcy (insolvency)  
+bankerute - bankrupt (insolvent)  
+bankerutia - bankruptcy (insolvency)  
 banya - bathe (bath)  
 bar - bar (public house)  
 bare - bar (barrier, fence)  
 barium - barium  
-baromur - barrier (barricade)  
+baremur - barrier (barricade)  
 Barbados - Barbados  
 barbar - barbarian  
 Barbuda - Barbuda  
@@ -348,15 +347,11 @@ barxemosim - rainy season (monsoon)
 bas - enough (sufficient)  
 basen - pool (basin)  
 baske - basket (basketball hoop)  
-baske bol - basket ball  
+baskebol - basket ball  
 bate - eight (8)  
 batosenter - octopus  
 bata - duck  
 batakrote - platypus  
-baton - bar (pole, rod, shaft, staff, stick)  
-baton - post (stake, peg, skewer)  
-batonkase - cage  
-batonpang - baguette  
 batre - battery  
 bau - treasure (valuables; precious)  
 bavite - gem (gemstone, jewel)  
@@ -469,8 +464,8 @@ bombe - bomb
 bon - good  
 bon zar - good luck  
 konbone - match (fit, suit, go well together)  
-ribone - repair (fix, mend)  
-riboner - repairer  
+• ribone - repair (fix, mend)  
+• riboner - repairer  
 bore - bored  
 boria - boredom  
 borium - bohrium  
@@ -488,13 +483,11 @@ Brazil - Brazil
 Britania - United Kingdom  
 bromium - bromine  
 brox - brush  
-broxokalam - inkbrush (calligraphy brush)  
+broxkalam - inkbrush (calligraphy brush)  
 brun - brown  
 brunalge - brown algae  
 brunsalmon - brown trout  
 Brunei - Brunei Darussalam  
-brus - sibling (brother or sister)  
-brusben - nephew or niece  
 bu! - boo!  
 bubu - bogeyman  
 buce - butcher (slaughter)  
@@ -514,19 +507,19 @@ buke - book
 bule - boil (cook)  
 bulbul - nightingale  
 bum - explosion (blast; explode, blow up)  
-bure - office (bureau)  
-• bure di - official (formal, bureaucratic)  
-• burokratia - bureaucracy  
-burorite - etiquette (protocol, procedure)  
 burge - castle (fortress, stronghold)  
 Burkina Faso - Burkina Faso  
+buro - office (bureau)  
+• buro di - official (formal, bureaucratic)  
+• burokratia - bureaucracy  
+burorite - etiquette (protocol, procedure)  
 bus - bus  
 bus halte - bus stop  
 buste - bust (bosom)  
 bute - boot  
 buton - key (push-button, switch)  
 butonban - keyboard  
-buze - goat  
+buzi - goat  
 
 ## C  
 
@@ -630,7 +623,7 @@ code - fuck (copulate)
 • codekan - whorehouse  
 coi - greens  
 coklate - chocolate  
-coklatobaton - chocolate bar  
+coklategana - chocolate bar  
 Congking - Chongqing  
 cope - hoe  
 core - steal (theft)  
@@ -764,20 +757,20 @@ dike - direct (point, aim; direction; target, objective)
 • dikion - pointing (indication, deixis)  
 • diker - pointer (director)  
 • indike - indicate (point into)  
-dikebaton - teacher’s pointer  
+dikegana - teacher’s pointer  
 dikive pronam - demonstrative pronoun  
 din - religion (worship)  
 • diniste - believer (religious person)  
 • andiniste - unbeliever (infidel)  
-dinoguru - priest (cleric)  
+dinguru - priest (cleric)  
 dinamite - dynamite  
 dinde - turkey  
 ding - nail (spike)  
 Dione - Dione  
 diorite - diorite  
 dipe - low (short, bottom)  
-dipe moke - bush (shrub)  
 • dipife - lower (put down)  
+dipemoke - bush (shrub)  
 dise - disperse (spread out, scatter; sparse)  
 diske - disc (disk)  
 disprosium - dysprosium  
@@ -983,9 +976,7 @@ fantas - imagine (fantasize; fantasy, imagination)
 fantom - ghost (phantom)  
 farse - Persian (Farsi)  
 fase - surface (face)  
-fasokaribe - shallow  
-fasotele - deep  
-fasotelia - depth  
+fasekaribe - shallow  
 • polifas - polyhedron  
 fasile - easy  
 • fasilia - ease (facility)  
@@ -1114,16 +1105,16 @@ forme - form (shape)
 • riforme - reform  
 forum - forum (public space)  
 fote - light (illumination)  
-fotobaton - torch  
 fotofrike - polish  
-fotograf - photograph  
+fotegana - torch  
+fotografe - photograph  
 fotografia - photography  
 fotografer - photographer  
-fotografomaxin - camera  
+fotografemaxin - camera  
 fotokable - optical fibre (optical cable)  
-fotominar - beacon (lighthouse)  
 fotorade - ray of light  
 fotosirke - halo (aureola)  
+fototore - beacon (lighthouse)  
 frage - break (fracture)  
 • fragebil - fragile  
 • fragomen - fragment  
@@ -1214,14 +1205,17 @@ gamma - mother-in-law
 gampa - father-in-law  
 Gambia - Gambia  
 gamel - camel  
-gane - dry  
+gan - dry  
 gancau - hay  
 ganmosim - dry season  
 ganputau - raisin  
 gantexe - towel  
 Gana - Ghana  
-gana - reed (cane)  
+gana - bar (pole, rod, shaft, staff, stick)  
+ganafite - reed (cane)  
 ganakalam - reed pen  
+ganakase - cage  
+ganapang - baguette  
 gande - scent (odor, fragrance, aroma)  
 gande - smell (sniff)  
 Ganda - Uganda  
@@ -2603,6 +2597,7 @@ mokomate - wood (timber)
 mokotan - log (trunk)  
 mokozanger - carpenter  
 mokozongoparke - arboretum  
+mokegana - post (stake, peg, skewer)  
 mole - grind (grind in mill)  
 • molekan - mill  
 • moler - miller  
@@ -3921,6 +3916,8 @@ telefonlin - telephone line
 teleloke - teleport  
 teleskope - telescope  
 televide - television  
+teledipe - deep  
+• teledipia - depth  
 telugu - Telugu  
 telurium - tellurium  
 tem - topic (subject, theme)  
@@ -3992,10 +3989,10 @@ tipe - type (kind, genre)
 tire - pull (draw, drag)  
 tire milke - milk (draw milk)  
 tire pil - strip (peel)  
-tirbaton - lever  
-tirlonge - stretch (extend)  
+tiregana - lever  
+tirelonge - stretch (extend)  
 tireriu - rip current  
-tirsanduke - drawer  
+tiresanduke - drawer  
 Titan - Titan  
 Titania - Titania  
 titanium - titanium  
@@ -4474,7 +4471,7 @@ Zambia - Zambia
 zange - crafty (dexterous)  
 zanger - artisan (craftsman)  
 zar - hazard (chance; random)  
-• dusozar - misfortune (bad luck)  
+• dus zar - misfortune (bad luck)  
 zarkube - die (dice)  
 Zardux - Zoroaster  
 zarduxisme - Zoroastrianism  

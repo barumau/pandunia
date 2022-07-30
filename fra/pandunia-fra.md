@@ -12,7 +12,7 @@ a retre - en arrière
 a vere - vraiment  
 a xukre de - grâce à  
 abete - sapin  
-acari - décapé (mariné)  
+acar di - décapé (mariné)  
 aci - éternuer (atchoum)  
 acinium - actinium  
 ade - coutume (ordinaire, habituel, normal)  
@@ -219,16 +219,16 @@ banan - banane
 bande - bande  
 bandir - drapeau  
 bangle - bengali  
-Banglodex - Bangladesh  
+Bangledex - Bangladesh  
 banyakamar - salle de bains  
 banke - banque  
 • banker - banquier  
-bankorute - failli  
-bankorutia - faillite (banqueroute)  
+bankerute - failli  
+bankerutia - faillite (banqueroute)  
 banya - bain (bagner)  
 bare - barrière  
 barium - baryum  
-baromur - barrière  
+baremur - barrière  
 Barbados - Barbade  
 barbar - barbare  
 Barbuda - Barbuda  
@@ -247,12 +247,9 @@ barxemosim - mousson
 bas - assez  
 basen - bassin  
 baske - panier (panier de basketball)  
-baske bol - basketball  
+baskebol - basketball  
 bate - huit (8)  
 batosenter - Poulpe (pieuvre)  
-baton - bâton (canne, tige)  
-baton - pieu (poteau)  
-batonkase - cage  
 batre - pile (batterie)  
 bau - précieux  
 bavite - pierre précieuse (joyau)  
@@ -310,8 +307,8 @@ bol - balle (boule)
 bolte - boulon  
 bombe - bombe  
 bon - bon  
-ribone - réparer  
-riboner - réparateur  
+• ribone - réparer  
+• riboner - réparateur  
 borium - bohrium  
 boron - boron  
 botel - bouteille  
@@ -330,7 +327,7 @@ Buda - Bouddha
 bugete - budget  
 buke - livre  
 bum - explosion  
-bure - bureau (office)  
+buro - bureau (office)  
 • burokratia - bureaucratie  
 burorite - protocole  
 bus halte - arrêt de bus  
@@ -376,7 +373,7 @@ cina manter - mandarin
 cire - déchirer  
 cita - guépard  
 coklate - chocolat  
-coklatobaton - tablette de chocolat  
+coklategana - tablette de chocolat  
 cope - houe  
 cuke - toucher  
 • cuzebil - option  
@@ -425,7 +422,7 @@ deunagre - dévanagari
 deusofia - théosophie  
 dike - viser (direction, cible; objectif)  
 • dikion - indication (deixis)  
-dikebaton - baguette  
+dikegana - baguette  
 din - religion  
 • diniste - croyant  
 • andiniste - infidèle (incroyant)  
@@ -433,8 +430,8 @@ dinamite - dynamite
 dinde - dinde (dindon)  
 diorite - diorite  
 dipe - bas  
-dipe moke - buisson  
 • dipife - baisser  
+dipemoke - buisson  
 diske - disque  
 disprosium - dysprosium  
 dite - dicter  
@@ -507,7 +504,6 @@ fange - boue (fange, bourbe, gadoue)
 fangodefoban - garde-boue (aile)  
 fangostan - marécage (marais)  
 fase - face (facette)  
-fasotele - profond  
 fasile - facile  
 fatige - fatigue  
 • faxisme - fascisme  
@@ -555,9 +551,9 @@ forme - forme (former)
 • dusforme - défigurer  
 fote - lumière  
 fotofrike - poli  
-fotograf - photographie  
+fotografe - photographie  
 fotografia - photographie  
-fotominar - fanal (balise)  
+fototore - fanal (balise)  
 • naufrage - naufrage  
 fransofone - francophone  
 Fransofonia - francophonie  
@@ -601,8 +597,10 @@ gamma - belle-mère
 gampa - beau-père  
 gancau - foin  
 gantexe - serviette  
-gana - canne  
+gana - bâton (canne, tige)  
+ganafite - canne  
 ganakalam - calame  
+ganakase - cage  
 gande - odeur  
 gande - sentir qqch  
 ganse - oie  
@@ -1180,6 +1178,7 @@ moke - arbre
 mokoban - planche  
 mokotan - bûche  
 mokozongoparke - arboretum, pépinière  
+mokegana - pieu (poteau)  
 mole - moudre  
 • molekan - moulin  
 molite - meule  
@@ -1728,6 +1727,7 @@ telefone - téléphoner
 telefonlin - ligne téléphonique  
 teleskope - télescope (lunette)  
 televide - téléviseur  
+teledipe - profond  
 telurium - tellure  
 tem - sujet (thème)  
 temnam - titre  
@@ -1752,7 +1752,7 @@ tibesui - pocion
 tim - équipe  
 tire milke - tirer  
 tire pil - écorce  
-tirlonge - tender  
+tirelonge - tender  
 titanium - titane  
 tix - chut  
 • tixe - silencieux (se taire)  

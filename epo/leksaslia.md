@@ -112,7 +112,7 @@
 **bare** *barilo* ← angla:barrier, franca:barrière, portugala:barreira, hispana:barrera, rusa:барьер (baryer), hindia:बाड़ (bāṛ), bengala:বেড়া (beṛa)  
 **barium** *bario* ← angla:barium, franca:baryum, hispana:bario, portugala:bário, rusa:барий, mandarena:钡 (bèi), japana:バリウム, korea:바륨, vjetnama:bari, hindia:बेरियम, bengala:বেরিয়াম, malaja:barium, svahila:bari, araba: باريوم  
 **barke** *gratuli* ← haŭsa:barka, malaja:berkah, turka:tebrik, persa:(tabrik), araba:urdua:(mubārak), svahila:baraka, joruba:alubarika  
-**barkoke** *abrikoto* ← araba:(barqūq), pa:albaricoque, franca:abricot, rusa:абрикос (abrikos), filipina:albarikoke, svahila:aprikoti  
+**barkoke** *abrikoto* ← araba:(barqūq), angla:apricot, franca:abricot, hispana:albaricoque, portugala:abricó, rusa:абрикос (abrikos), filipina:albarikoke, svahila:aprikoti  
 **barte** *Barata* ← hindia:भारतीय (bhārtīy), urdua:(bhārtīy), marataja:(bhārtīya), teluga:(bhāratīya)  
 **baru** *urso* ← deu:Bär, angla:bear + hindia:भालू (bhālū), bengala:ভালুক (bhaluk) + malaja:beruang  
 **barude** *pulvo* ← araba:persa:urdua:(bārūd), hindia:बारूद (bārūd), svahila:baruti, turka:barut  
@@ -122,7 +122,6 @@
 **baske** *korbo* ← angla:basket, malaja:bakul, japana:バスケット (basuketto)  
 **bata** *anaso* ← araba: بَطَّة‎ (baṭṭa), hindia:बत्तख (battakh), teluga:బాతు (bātu), svahila:bata + hispana:portugala:pato + taja:เป็ด  (pèt)  
 **bate** *ok (8)* ← mandarena:八 (bā), kantona:八 (baat3), vua:八 (baʔ), japana:八 (hachi), korea:팔 (pal), taja:แปด (pæt) + hindia:आठ (āṭh), bengala:আট (aṭ)  
-**baton** *stango* ← angla:cane, franca:canne, mandarena:杆 (gǎn),   
 **batre** *baterio (pilo)* ← angla:battery, hat:batri, persa:(bātri), svahila:betri, hindia:बैटरी (baiṭrī), bengala:ব্যাটারি (byaṭari), araba:(baṭṭāriyya), japana:バッテリー (batterī), korea:배터리 (baeteori), rusa:батарея (batareya), hispana:portugala:bateria, malaja:bateri  
 **bau** *trezoro* ← mandarena:宝 (bǎo), korea:보 (bo), vjetnama:bảo, japana:宝 (hō)  
 **baxe** *lingvo* ← hindia:भाषा (bhāṣā), bengala:ভাষা (bhaṣa), teluga:భాష (bhāṣa), malaja:bahasa, jav:basa, taja:ภาษา (phasa)  
@@ -167,7 +166,7 @@
 **boi** ** ← angla:buoy, hispana:svahila:malaja:boya, portugala:boia, franca:bouée, rusa:буй (buy), japana:ブイ (bui), korea:부표 (bupyo)  
 **boikote** *bojkoto* ← angla:franca:boycott, hispana:boicot, portugala:boicote, japana:ボイコット (boikotto), persa:بایکوت‎ (bâykot), бойкот (boykot)  
 **boing** ** ← angla:boing, japana:ボイン (boin)  
-**boka** *buŝo* ← hispana:portugala:boca  
+**boka** *buŝo* ← hispana:portugala:boca + haŭsa:baka  
 **bokse** *bokso* ← angla:box, deu:Boxen, franca:portugala:boxe, hispana:boxeo, rusa:бокс (boks), japana:ボクシング (bokushingu), korea:복싱 (boksing), hindia:बॉक्सिंग (bŏksiṅg), bengala:বক্সিং (bôksing), malaja:boksing, turka:boks  
 **bol** *pilko* ← angla:ball, hispana:portugala:malaja:filipina:bola, taja:บอล (bɔl), japana:ボール (bōru), korea:볼 (bol), kmera:បាល់ (bal), bengala:বল (bôl), deu:Ball, franca:boule, balle  
 **bolte** *bolto* ← angla:bolt, franca:boulon, rusa:болт (bolt), hindia:बोल्ट (bolṭ), japana:ボルト (boruto), korea:볼트 (bolteu)   
@@ -193,14 +192,14 @@
 **bulbul** *najtingalo* ← malaja:bulbul, turka:bülbül, hindia:बुलबुल (bulbul), urdua:(bulbul), persa:(bolbol)  
 **bule** *boli* ← angla:boil, franca:bouillir, itala:bollire, zulua:-bila, sot:-bela, hindia:उबालना (ubālnā)  
 **bum** ** ← angla:boom, deu:Bumm, franca:boum, hispana:portugala:bum, hindia:बूम (būm), mandarena:砰 (pēng), korea:펑 (peong), vjetnama:bùm  
-**bure** ** ← angla:franca:bureau, hispana:buro-, portugala:birô, rusa:бюро (byuro), polona:biuro, turka:büro  
 **burge** ** ← deu:Burg, araba:urdua: بُرْج‎ (burj), hindia:बुर्ज (burj), bengala:বুরুজ (buruj), teluga:బురుజు (buruju), malaja:puri  
+**buro** ** ← angla:franca:bureau, hispana:buro-, portugala:birô, rusa:бюро (byuro), polona:biuro, turka:büro  
 **bus** *buso* ← deu:franca:angla:hispana:bus, rusa:автобус (avtobus), hindia:बस (bas), urdua:(bas), japana:バス (basu), korea:버스 (beoseu), persa:(otobus), turka:otobüs, svahila:basi, mandarena:巴士 (bāshì), vjetnama:xe buýt  
 **buste** ** ← franca:buste, angla:bust, hispana:portugala:busto, rusa:бюст (byust), deu:Büste  
 **bute** ** ← angla:boot, franca:botte, hispana:portugala:bota, greka:μπότα (bóta), rusa:ботинок (botinok), polona:malaja:but, persa: بوت‎ (but), japana:ブーツ (būtsu), svahila:buti  
 **buton** *klavo (butono)* ← angla:button, hispana:botón, portugala:botão, franca:bouton, hindia:बटन (baṭan), bengala:বোতাম (botam), japana:ボタン (botan), korea:버튼 (beoteun)  
 **buyu** *baobabo* ← svahila:mbuyu, volofa:buy, sna:muuyu, zulua:isimuhu  
-**buze** *kapro* ← svahila:mbuzi, sna:mbudzi, zulua:imbuzi, tsw:bodi, portugala:bode, taj:буз (buz), persa:(boz)  
+**buzi** *kapro* ← svahila:mbuzi, sna:mbudzi, zulua:imbuzi, tsw:bodi, portugala:bode, taj:буз (buz), persa:(boz)  
 **cabe** *ŝlosilo* ← portugala:chave, hindia:(cābi), konga:nsapi  
 **cai** *teo* ← mandarena: 茶 (chá), japana: (cha), korea:차 (cha), vjetnama:trà, turka:çay, svahila:chai, rusa:чай (čay), hindia:चाय (cāy), araba:(šāy), portugala:chá  
 **cakre** *rado* ← hindia:चक्र (cakra), bengala:চাকা (caka), pan:ਚੱਕਰ (cakkar), guĝarata:ચક્ર (cakra), teluga:చక్రము (cakramu), marataja:चाक (cāk), tha:จักร (jàk), malaja:cakera, angla:chakram  
@@ -386,7 +385,7 @@
 **forme** *formo* ← angla:form, hispana:portugala:forma, franca:forme, deu:Form, rusa:форма (forma)  
 **forum** *forumo* ← angla:franca:forum, hispana:foro, portugala:fórum, rusa:форум (forum), japana:フォーラム (fōramu)  
 **fote** *lumo* ← greka:φωτο- (foto-), angla:franca:photo-, hispana:portugala:foto-, rusa:фото-  
-**fotograf** *foto* ← angla:photograph, franca:photographie, hispana:portugala:fotografia, rusa:фотография, hindia:फ़ोटो (foṭo), bengala:ফটো (phôṭo), malaja:foto, turka:fotoğraf  
+**fotografe** *foto* ← angla:photograph, franca:photographie, hispana:portugala:fotografia, rusa:фотография, hindia:फ़ोटो (foṭo), bengala:ফটো (phôṭo), malaja:foto, turka:fotoğraf  
 **fransium** *franciumo* ← angla:francium, franca:francium, hispana:francio, portugala:frâncio, rusa:франций, mandarena:钫 (fāng), japana:フランシウム, korea:프랑슘, vjetnama:franxi, hindia:फ्रान्सियम, bengala:ফ্রান্সিয়াম, malaja:fransium, svahila:fransi, araba: فرنسيوم  
 **frasen** ** ← franca:frêne, hispana:fresno, portugala:freixo, itala:frassino + rusa:ясень (yasen’), polona:jesion  
 **frem** *kadro* ← angla:frame, bengala:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), marataja:फ्रेम (phrēma), svahila:fremu  
@@ -415,9 +414,9 @@
 **galte** *eraro (miso)* ← araba:(ğalṭa), hindia:ग़लती (ġaltī), svahila:ghalati, turka:galat, persa:(ğalat),   
 **game** *edzigi* ← angla:-gamy, franca:-gamie, hispana:portugala:-gamia, rusa:-гамия (gamiya)  
 **gamel** *kamelo* ← araba:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) angla:camel, hispana:camello, portugala:camelo, svahila:ngamia  
-**gana** ** ← heb: קָנֶה‎ (qané), araba: قَنَاة‎ (qanāh) + angla:cane, franca:canne, hispana:caña, portugala:cana + mandarena:秆 (gǎn), kantona:稈 (gon2) + (sugarcane) hindia:गन्ना (gannā), panĝaba:ਗੰਨਾ (gannā)  
+**gan** *seka* ← mandarena:干 (gān), kantona:乾 (gon1), japana:乾 (kan), korea:건 (geon), vjetnama:cạn  
+**gana** *stango* ← heb: קָנֶה‎ (qané), araba: قَنَاة‎ (qanāh) + angla:cane, franca:canne, hispana:caña, portugala:cana + mandarena:秆 (gǎn), kantona:稈 (gon2), vjetnama:cần, taja:คัน (khan) + (sugarcane) hindia:गन्ना (gannā), panĝaba:ਗੰਨਾ (gannā)  
 **gande** ** ← hindia:गंध (gandh), bengala:গন্ধ (gôndh)  
-**gane** *seka* ← mandarena:干 (gān), kantona:乾 (gon1), japana:乾 (kan), korea:건 (geon), vjetnama:cạn  
 **ganputau** *sekvinbero* ← korea:건포도 (geonpodo), mandarena:葡萄干 (pútáogān)  
 **ganse** *ansero* ← hispana:portugala:ganso, hindia:हंस (hans), bengala:হাঁস (hãs), malaja:angsa angla:goose, rusa:гусь (gus’), polona:gęś + kantona:雁 (ngaan6), japana:雁 (gan), taja:ห่าน (han)  
 **ganum** *tritiko* ← persa:گندم‎(gandom), malaja:gandum, urdua:گندم‎(gandum), teluga:గోధుమ (gōdhuma), svahila:ngano  

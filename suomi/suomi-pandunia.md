@@ -233,12 +233,12 @@ Bahama-saaret - Bahama
 Bahrain - Bahrain  
 bambu - bambu  
 banaani - banan  
-Bangladesh - Banglodex  
+Bangladesh - Bangledex  
 barbaari (raakalainen) - barbar  
 Barbados - Barbados  
 Barbuda - Barbuda  
 barium - barium  
-barrikadi - baromur  
+barrikadi - baremur  
 baseball (amerikkalainen pesäpallo) - bazebol  
 baskeri (baretti) - berete  
 bataatti - kamote  
@@ -426,7 +426,7 @@ epäilys - xanke
 epäilyttävä - xankebil  
 epänormaali - annorme  
 epäonni - dus zar  
-epäonni - dusozar  
+epäonni - dus zar  
 epäonnistuminen - xibai  
 epätodellinen (epäaito) - anrel  
 epäystävällinen - andoste  
@@ -771,7 +771,7 @@ hyönteinen (ötökkä) - koncung
 hyöty (hyödyllisyys, etu; hyödyllinen) - faide  
 hyötyaines - faidaje  
 häh? - he  
-häkki - batonkase  
+häkki - ganakase  
 hämmentää (sekoittaa; hämmennys, turbulenssi) - disturbe  
 hämmästys (ihmetys) - ajibia  
 hämähäkinverkko - aranenete  
@@ -1048,7 +1048,7 @@ kalsium - kalsium
 Kamasutra - Kama sutre  
 Kambodja - Kambojia  
 kameli - gamel  
-kamera - fotografomaxin  
+kamera - fotografemaxin  
 Kamerun - Kamerun  
 kammo (fobia) - fobia  
 kamomilla - kamil  
@@ -1096,7 +1096,7 @@ Karnataka (Intian osavaltio) - karnadia
 kartio (keila) - konus  
 kartogratia - kartografia  
 kartta - karte  
-karttakeppi - dikebaton  
+karttakeppi - dikegana  
 kasa (kasautua, kumuloitua) - kumule  
 kaseiini - kezeproten  
 kassa (rahalipas) - kase (de mone)  
@@ -1172,6 +1172,7 @@ kenguru - kangaru
 Kenia - Kenia  
 kenkä - sapate  
 kenttä (aukio) - meden  
+keppi - mokegana  
 keramiikka - poteria  
 kerho (klubi) - klube  
 kerma - krem  
@@ -1342,7 +1343,7 @@ koraani - kuran
 koralli - koral  
 Korea - Cosen  
 kori - baske  
-koripallo - baske bol  
+koripallo - baskebol  
 korjaaja - riboner  
 korjata (ennallistaa) - repare  
 korjata - ribone  
@@ -1393,7 +1394,7 @@ kude - veilin
 kuin (verrattuna) - ka  
 kuisti (terassi, veranta, parveke) - beranda  
 kuitti (kuittaus) - reside  
-kuiva (kuivata, kuivua) - gane  
+kuiva (kuivata, kuivua) - gan  
 kuka? - ke jen  
 kukka - ful  
 kukkamaljakko - fulopote  
@@ -1801,7 +1802,7 @@ mahjong - majang
 maissi - mais  
 maisteri (tutkinto) - master  
 maito - milke  
-majakka - fotominar  
+majakka - fototore  
 majava - bibre  
 Makedonia - Norde Makedonia  
 makeinen (karkki, karamelli) - kande  
@@ -1846,7 +1847,7 @@ Mars - Marse
 Marshall-saaret - Marxal nesia  
 massa - mas  
 masto (salko) - maste  
-matala (ei syvä) - fasokaribe  
+matala (ei syvä) - fasekaribe  
 matala - dipe  
 mate (matejuoma) - mate cai  
 matekasvi - mate  
@@ -2003,7 +2004,7 @@ musta lista - haramliste
 muste - moge  
 mustekala - batosenter  
 mustekynä - fontekalam  
-mustesivellin - broxokalam  
+mustesivellin - broxkalam  
 muta (kura, lieju) - fange  
 mutka (kurvi) - kurve  
 mutta - ama  
@@ -2324,7 +2325,7 @@ pantheon - pandevia
 pantomiimi - panmime  
 papaija - papaya  
 paperi - kaguje  
-pappi - dinoguru  
+pappi - dinguru  
 paprika - cili  
 paprikajauhe - cili fun  
 papu tai herne - dou  
@@ -2353,7 +2354,7 @@ pata (ruukku, kannu, maljakko) - pote
 patja - matras  
 patogeeni - patogener  
 patologia (tautioppi) - patolojia  
-patonki (ranskanleipä) - batonpang  
+patonki (ranskanleipä) - ganapang  
 pedagogi - pedogider  
 pedofilia - pedofilia  
 pedofobia (lastenpelko) - pedofobia  
@@ -2749,7 +2750,7 @@ ruohotasanko - caustan
 ruoka - yamaje  
 ruokalista - menu  
 ruokasali - yamokamar  
-ruoko - gana  
+ruoko - ganafite  
 ruokokynä - ganakalam  
 Ruotsi - Suenia  
 rusina - ganputau  
@@ -2948,8 +2949,6 @@ sinun - tu su
 sinä - tu  
 Siperia - Sibiria  
 sipuli - piaze  
-sisaruksen lapsi - brusben  
-sisarus (veli tai sisko) - brus  
 sisaruspuoli - cingamben  
 sissi (partisaani) - geriler  
 sissisota - gerile  
@@ -2985,7 +2984,7 @@ sodanjälkeinen - posgere
 sodanvastainen - antigere  
 sohva - kanape  
 sohva - sofa  
-soihtu - fotobaton  
+soihtu - fotegana  
 soija - soi  
 soijakastike - soisaus  
 soijamaito - soimilke  
@@ -3042,7 +3041,7 @@ suihkumoottori (suihkuturbiini) - turbejeter
 suikale (siivu) - tike  
 sukka - maze  
 suklaa - coklate  
-suklaapatukka - coklatobaton  
+suklaapatukka - coklategana  
 sukunimi - familnam  
 sukupolvi - genogrupe  
 sukupuoli - jense  
@@ -3111,8 +3110,8 @@ syntymäpäivä - genoden
 syntymää edeltävä - prenatal  
 syntyä (synty, syntymä) - nate  
 syreeni - lila  
-syvyys - fasotelia  
-syvä - fasotele  
+syvyys - teledipia  
+syvä - teledipe  
 syy (aiheuttaa, olla syynä) - sababe  
 syyllinen - dose  
 syylä - veruke  
@@ -3130,6 +3129,7 @@ sähköinen - eletrike
 sähköoppi (elektroniikka) - eletrolojia  
 sähköposti - eletroposte (e-poste)  
 säie (kuitu) - lineme  
+säillöä (suolakurkkuja yms.) - acar  
 säilyttäjä - hafizer  
 säilyttää (varjella, säästää) - hafize  
 särkyvä - fragebil  
@@ -3192,7 +3192,7 @@ tammikuu - lun un
 tammipeli - dama gem  
 tanakh - tanah  
 tankki (säiliö) - tanke  
-tanko (sauva, patukka) - baton  
+tanko (sauva, patukka) - gana  
 Tansania - Tanzania  
 Tanska - Dania  
 tanskalainen - dane  
@@ -3336,7 +3336,7 @@ toiminta (funktio) - funce
 toiminta - ation  
 toimintahäiriö - dusfunce  
 toimintahäiriö - dusfunse  
-toimisto (konttori, byroo) - bure  
+toimisto (konttori, byroo) - buro  
 toimittaja (journalisti, lehtimies) - gazeter  
 toimiva - funcebil  
 toinen (2.) - duime  
@@ -3572,7 +3572,7 @@ valkuaisaine (proteiini) - proten
 valmis (valmistautua) - prepare  
 valo - fote  
 valokuitu (valokaapeli) - fotokable  
-valokuva (foto) - fotograf  
+valokuva (foto) - fotografe  
 valokuvaaja - fotografer  
 valokuvaus - fotografia  
 valonsäde - fotorade  
@@ -3596,8 +3596,8 @@ vapauttaa - hurife
 varakuningas - viserejer  
 varapresidentti - visepresidante  
 varapresidentti - visepresidente  
-vararikko (konkurssi) - bankorutia  
-vararikossa - bankorute  
+vararikko (konkurssi) - bankerutia  
+vararikossa - bankerute  
 varas - corer  
 varastaa (varkaus) - core  
 varaus (ennakkovaraus) - rezerve  
@@ -3657,7 +3657,7 @@ vesiväri (akvarelliväri) - suirang
 vessa - tualete  
 vetinen - suyos  
 vetoketju - ziper  
-vetolaatikko - tirsanduke  
+vetolaatikko - tiresanduke  
 vetovoima (šarmi) - carme  
 vety - hidre  
 vetää (kiskoa) - tire  
@@ -3749,7 +3749,7 @@ voltti (V) - volte
 voodoo - vodun  
 vuode (sänky, peti) - bede  
 vuodenaika - mosim  
-vuohi - buze  
+vuohi - buzi  
 vuokra - kire  
 vuokrata - kiredege  
 vuokrata - kiredone  

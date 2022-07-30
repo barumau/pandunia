@@ -137,11 +137,11 @@ banan - banana
 bande - bando  
 • bankekan - banco  
 • banker - banqueiro  
-bankorute - bancarrota (falido)  
-bankorutia - bancarrota (falência)  
+bankerute - bancarrota (falido)  
+bankerutia - bancarrota (falência)  
 bare - barrar (barreira)  
 barium - bário  
-baromur - barreira  
+baremur - barreira  
 barde - barba  
 barkoke - damasco (abricó)  
 baru - urso  
@@ -151,13 +151,10 @@ barxekote - capa de chuva
 barxemosim - monção  
 bas - bastante (suficiente)  
 basen - bacia  
-baske bol - basketball  
+baskebol - basketball  
 bate - oito (8)  
 batosenter - polvo  
 bata - pato  
-baton - vara (bastão)  
-baton - poste (estaca)  
-batonkase - gaiola (jaula)  
 batre - pilha (bateria)  
 bau - precioso  
 bavite - pedra preciosa (gema)  
@@ -210,8 +207,8 @@ bol - bola
 bombe - bomba  
 bon - bom  
 konbone - combinar com  
-ribone - reparar  
-riboner - reparador  
+• ribone - reparar  
+• riboner - reparador  
 borium - bóhrio  
 boron - boro  
 botel - garrafa (botelha)  
@@ -228,7 +225,7 @@ buce - abater
 Buda - Buda  
 buke - livro  
 bum - explosão  
-bure - escritório (birô)  
+buro - escritório (birô)  
 • burokratia - burocracia  
 burorite - protocolo  
 bus halte - parada de ônibus  
@@ -275,7 +272,7 @@ cire - rasgar
 cita - guepardo (chita)  
 coi - verdura  
 coklate - chocolate  
-coklatobaton - barra de chocolate  
+coklategana - barra de chocolate  
 cope - enxada  
 • cuzebil - opção  
 
@@ -318,14 +315,14 @@ deunagre - devanágari
 deusofia - teosofia  
 dike - directionar (apontar, mirar; direção; objetivo)  
 • dikion - dêixis  
-dikebaton - ponteiro  
+dikegana - ponteiro  
 din - religião  
 • diniste - crente  
 • andiniste - infiel  
 dinamite - dinamite  
 dinde - peru  
 diorite - diorito  
-dipe moke - arbusto (mata)  
+dipemoke - arbusto (mata)  
 diske - disco  
 disprosium - disprósio  
 dite - ditar  
@@ -384,7 +381,6 @@ fange - lama (lodo)
 fangodefoban - para-lama  
 fangostan - pântano  
 fase - face (faceta)  
-fasotele - profundo  
 fasile - fácil  
 fatige - fadiga  
 fe - fazer  
@@ -424,9 +420,9 @@ fore - furar (perfurar)
 forme - forma (modelar)  
 • dusforme - desfigurar  
 fote - luz  
-fotograf - foto (fotografia)  
+fotografe - foto (fotografia)  
 fotografia - fotografia  
-fotominar - farol (baliza)  
+fototore - farol (baliza)  
 • naufrage - náufrago  
 fransium - frâncio  
 franse krepe - crepe  
@@ -464,8 +460,10 @@ gamma - sogra
 gampa - sogro  
 gancau - feno  
 gantexe - toalha  
-gana - cana  
+gana - vara (bastão)  
+ganafite - cana  
 ganakalam - cálamo  
+ganakase - gaiola (jaula)  
 gande - cheiro  
 ganse - ganso  
 ganum - trigo  
@@ -999,6 +997,7 @@ mode - modo (maneira, jeito)
 moke - árvore  
 mokoban - tábua (prancha)  
 mokotan - tora  
+mokegana - poste (estaca)  
 mole - moer  
 • molekan - moenda (moinho)  
 molite - mó  
@@ -1492,6 +1491,7 @@ tehnium - tecnécio
 telefone - telefonar  
 telefonia - telefonia  
 teleskope - telescópio  
+teledipe - profundo  
 telurium - telúrio  
 temnam - título  
 ten - céu  
@@ -1510,7 +1510,7 @@ teze - tese
 • tibaje - remédio (medicamento)  
 • tikete - bilhete  
 • retrotikete - passagem de volta  
-tirlonge - estirar  
+tirelonge - estirar  
 titanium - titânio  
 • tixe - silencioso  
 • tixia - silêncio  

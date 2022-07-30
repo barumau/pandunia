@@ -129,7 +129,7 @@ aż do - hate
 babcia (babka) - cinma  
 badać, studiować - loje  
 bagaż - bagaje  
-bagietka - batonpang  
+bagietka - ganapang  
 bagno (moczary) - fangostan  
 bahaista - bahaiste  
 bahaizm - bahaisme  
@@ -142,7 +142,7 @@ bambus - bambu
 banan - banan  
 bandaż (taśma; związać, wiązać; zapiąć, zapinać) - bende  
 bandaż, taśma, wstążka - faxe  
-Bangladesz - Banglodex  
+Bangladesz - Bangledex  
 banglijski - bangle  
 bank - bankekan  
 bankier - banker  
@@ -155,13 +155,13 @@ barbarzyńca - barbar
 Barbuda - Barbuda  
 bardzie - max  
 bariera - bare  
-bariera - baromur  
+bariera - baremur  
 bark (ramię) - kante  
 barometr - airbarmetrer  
 barwnik - rangomate  
 basen - basen  
 bateria - batre  
-baton czekoladowy - coklatobaton  
+baton czekoladowy - coklategana  
 bawełna - goton  
 bawół domowy - karbau  
 baza danych (bank danych) - datebanke  
@@ -202,7 +202,7 @@ biseksualny - dusexe
 biszkopt, ciastko - biskute  
 biurko - karemeza  
 biuro (pokój) - ofiskan  
-biuro, urząd - bure  
+biuro, urząd - buro  
 biuro, urząd - ofisia  
 biust - buste  
 bizmut - bismute  
@@ -551,7 +551,7 @@ długi - longe
 długość - longes  
 długość geograficzna - longude  
 dźinizm, dżinizm - jainisme  
-dźwignia - tirbaton  
+dźwignia - tiregana  
 dźwięk (brzmienie; brzmieć, wydać dźwięk, wydawać dźwięk) - son  
 Dżakarta - Jakarta  
 Dżibuti - Jibuti  
@@ -784,8 +784,8 @@ głośnia - sonomun
 głupiec, bufon - bufon  
 głód - yamyau  
 główny - xefe di  
-głęboki - fasotele  
-głębokość - fasotelia  
+głęboki - teledipe  
+głębokość - teledipia  
 
 ## H  
 
@@ -1010,7 +1010,7 @@ kalifat - halifia
 kaliforn - kalifornium  
 kalkulować - hisabe  
 Kambodża - Kambojia  
-kamera, aparat fotograficzny - fotografomaxin  
+kamera, aparat fotograficzny - fotografemaxin  
 Kamerun - Kamerun  
 kamieniarz - itojanger  
 kamień (kawał skały) - ite  
@@ -1079,13 +1079,13 @@ kinowy - kinografike
 kiosk - kioske  
 Kirgistan - Kirgizia  
 Kiribati - Kiribati  
-kisić (marynować) - acara  
-kiszony (marynowany) - acari  
+kisić (marynować) - acar  
+kiszony (marynowany) - acar di  
 kiur - kurium  
 klapa - padomun  
 klasa, kategoria - klas  
 klasyfikować, kategoryzować - klase  
-klatka - batonkase  
+klatka - ganakase  
 klatka piersiowa - sinakase  
 klaun - payace  
 klawiatura - butonban  
@@ -1188,7 +1188,7 @@ kot - mau
 kotwica - angar  
 kowadło - metalbede  
 kowal - metalzanger  
-koza - buze  
+koza - buzi  
 koło - cakre  
 koło, okrąg - sirke  
 koń - gude  
@@ -1219,7 +1219,7 @@ kryształ - bilor
 krytyk - kriter  
 kryzys - krize  
 kryzysowy - krizi  
-krzak (krzew) - dipe moke  
+krzak (krzew) - dipemoke  
 krzem - silike  
 krzemień - hogite  
 krzyknąć, krzyczeć - klame  
@@ -1233,7 +1233,7 @@ królik, zając - tuze
 królowa - rejeni  
 krótki - korte  
 ksenon - xenon  
-ksiądz, kleryk, kaznodzieja - dinoguru  
+ksiądz, kleryk, kaznodzieja - dinguru  
 książka - buke  
 książka z obrazkami - grafobuke  
 księżyc - lun  
@@ -1290,7 +1290,7 @@ larwa, czerw, gąsienica - lasun
 las (zagajnik) - van:  
 las wodorostów - algajangle  
 latarnia - hogosanduke  
-latarnia morska - fotominar  
+latarnia morska - fototore  
 latać (fruwać) - dare  
 lato - garmemosim  
 laudacja - euloge  
@@ -1423,7 +1423,6 @@ marmur - kalsekristal
 Maroko - Magribia  
 Mars - Marse  
 marynarka (flota) - haiorde  
-marynować - acar  
 marzec - lun des un  
 masa - mas  
 masaż - masaje  
@@ -2010,7 +2009,7 @@ piękny, przystojny - mei
 pięć (5) - pente  
 piła - xara  
 piłka - bol  
-piłka do koszykówki (koszykówka) - baske bol  
+piłka do koszykówki (koszykówka) - baskebol  
 piłka nożna - futebol  
 placek, ciasto - pai  
 placy - ruke  
@@ -2032,7 +2031,7 @@ Pluton (planeta karłowata) - Pluton
 pluton - plutonium  
 pluć - tuhe  
 pnącz - skalotan  
-pochochodnia (latarka) - fotobaton  
+pochochodnia (latarka) - fotegana  
 pocisk - jetaje  
 pociąg - tren  
 poczta - postaje  
@@ -2283,7 +2282,7 @@ przysłówek - modelexe
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tireriu  
 prędkościomierz - sugometrer  
 prędkość (szybkość) - sugude  
-pręt, kij - baton  
+pręt, kij - gana  
 pstrąg potokowy - brunsalmon  
 pstrąg tęczowy - rangarkosalmon  
 psychologia - ruhlojia  
@@ -2327,7 +2326,7 @@ płot - kenarbaryer
 płuco - pulmon  
 płyta - tail  
 płyta tektoniczna - geokaski plate  
-płytki - fasokaribe  
+płytki - fasekaribe  
 
 ## R  
 
@@ -2387,7 +2386,6 @@ rod - rodium
 rodak, ziomek, krajan - samodexan  
 rodzaj gramatyczny - lexojinse  
 rodzaj, typ, styl - yang  
-rodzeństwo, brat lub siostra - brus  
 rodzic (matka lub ojciec) - cin  
 rodzina - famil  
 rodzynka - ganputau  
@@ -2404,7 +2402,7 @@ rotor, wirnik - roter
 rower - sikle  
 rower z pedałami - pedalsikle  
 rowerzysta - sikliste  
-rozciągać (rozciągnąć) - tirlonge  
+rozciągać (rozciągnąć) - tirelonge  
 rozdział, sekcja - babu  
 rozkaz, komenda - amir  
 rozluźnić (poluzować) - laxe  
@@ -2676,7 +2674,7 @@ stłuc się (część, strzęp, kawałek, okruch, fragment) - parce
 stłuczony (pęknięty) - beparce  
 suahili - suahili  
 Suazi - Suati  
-suchy (suszyć ) - gane  
+suchy (suszyć ) - gan  
 Sudan - Sudan  
 Sudan Południowy - Sudi Sudan  
 sufit - kamargau  
@@ -2745,7 +2743,7 @@ sztuczna inteligencja - artefete intelige (AI)
 sztuka - arte  
 sztuka walki - jangxute  
 sztylet (puginał) - kanzar  
-szuflada - tirsanduke  
+szuflada - tiresanduke  
 szukać - soge  
 Szwajcaria - Suisia  
 Szwecja - Suenia  
@@ -2776,7 +2774,7 @@ słoń - gaja
 słońce - sol  
 słuchać - ore  
 sługa - servike  
-słup (pal, kołek) - baton  
+słup (pal, kołek) - mokegana  
 służyć (służba) - serve  
 
 ## T  
@@ -3139,7 +3137,7 @@ wsad, partia, porcja, seria - lote
 wschodni - dongike  
 wschód - dong  
 wskazać, wskazywać - ponte  
-wskaźnik - dikebaton  
+wskaźnik - dikegana  
 wskaźnik - ponter  
 wspaniały - susife  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super  
@@ -3297,7 +3295,7 @@ zbyt mało - min ka bas
 zbłąkać się (wykoleić się) - depade  
 zdanie (fraza) - gumle  
 zdeaktywowany (wyłączony, zatrzymany) - anative  
-zdjęcie (fotografia) - fotograf  
+zdjęcie (fotografia) - fotografe  
 zdrada małżeńska, cudzołóstwo - zine  
 zdrowie - sales  
 zdrowy - sale  
@@ -3368,7 +3366,7 @@ złowieszczy - dusosine
 złośliwy, okrutny - zalime  
 zły (wsciekły, gniewny) - fure  
 zły los - dus zar  
-zły los - dusozar  
+zły los - dus zar  
 zły, zrujnowany, zepsuty - harabe  
 ćsi - tix  
 Łotwa - Latvia  

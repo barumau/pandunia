@@ -148,17 +148,17 @@ ban - tabulo
 bangem - tabulludo  
 banan - banano  
 bandir - flago  
-Banglodex - Bangladeŝo  
+Bangledex - Bangladeŝo  
 banyakamar - banĉambro  
 banke - banki  
 • bankekan - banko  
 • banker - bankisto  
-bankorute - bankrota  
-bankorutia - bankroto  
+bankerute - bankrota  
+bankerutia - bankroto  
 banya - bano  
 bare - barilo  
 barium - bario  
-baromur - barilo  
+baremur - barilo  
 barbar - barbaro  
 barde - barbo  
 barke - gratuli  
@@ -174,8 +174,6 @@ basen - baseno
 baske - korbo  
 bate - ok (8)  
 bata - anaso  
-baton - stango  
-batonkase - kaĝo  
 batre - baterio (pilo)  
 bau - trezoro  
 bavite - juvelo  
@@ -246,8 +244,8 @@ bolte - bolto
 bombe - bombo  
 bon - bona  
 konbone - kongrui  
-ribone - ripari  
-riboner - riparisto  
+• ribone - ripari  
+• riboner - riparisto  
 bore - enui  
 boria - enuo  
 borium - borio  
@@ -260,7 +258,6 @@ Brazil - Brazilo
 bromium - bromo  
 brox - broso  
 brun - bruna  
-brus - gefrato  
 buce - buĉi  
 • bucekan - buĉejo  
 • bucer - buĉisto  
@@ -278,7 +275,7 @@ bus - buso
 bus halte - bushaltejo  
 buton - klavo (butono)  
 butonban - klavaro  
-buze - kapro  
+buzi - kapro  
 
 ## C  
 
@@ -330,7 +327,7 @@ cite - citi
 cita - gepardo  
 code - fiki  
 coklate - ĉokolado  
-coklatobaton - ĉokolado  
+coklategana - ĉokolado  
 core - ŝteli  
 • corer - ŝtelisto  
 cuke - tuŝi  
@@ -401,7 +398,7 @@ dike - direkti (celi; direkto, celo)
 din - religio  
 • diniste - kredulo  
 • andiniste - malkredulo  
-dinoguru - pastro  
+dinguru - pastro  
 dinde - meleagro  
 ding - najlo  
 dise - disigi  
@@ -552,11 +549,11 @@ forke - forko
 forme - formo  
 forum - forumo  
 fote - lumo  
-fotobaton - torĉo  
-fotograf - foto  
+fotegana - torĉo  
+fotografe - foto  
 fotografia - fotografio  
 fotografer - fotisto  
-fotografomaxin - fotilo  
+fotografemaxin - fotilo  
 fotosirke - halo  
 Fransia - Francio  
 fransium - franciumo  
@@ -599,10 +596,12 @@ game - edzigi
 gamma - bopatrino  
 gampa - bopatro  
 gamel - kamelo  
-gane - seka  
+gan - seka  
 ganputau - sekvinbero  
 gantexe - viŝilo  
+gana - stango  
 ganakalam - kalamo  
+ganakase - kaĝo  
 Ganga - Gangoj  
 ganse - ansero  
 ganum - tritiko  

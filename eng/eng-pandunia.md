@@ -298,7 +298,7 @@ bad (ruined, destroyed) - harabe
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dus  
 bag (sack) - sake  
 bag - bage  
-baguette - batonpang  
+baguette - ganapang  
 bah - bah  
 bah! - fi  
 Baha'ism - bahaisme  
@@ -314,16 +314,16 @@ bamboo - bambu
 banana - banan  
 band (squad, group) - bande  
 bandage (strip, ribbon) - faxe  
-Bangladesh - Banglodex  
+Bangladesh - Bangledex  
 banister (handrail) - langan  
 bank (deposit, save) - banke  
 bank (depository, cache) - bankekan  
 banker - banker  
-bankrupt (insolvent) - bankorute  
-bankruptcy (insolvency) - bankorutia  
+bankrupt (insolvent) - bankerute  
+bankruptcy (insolvency) - bankerutia  
 baobab - buyu  
 bar (barrier, fence) - bare  
-bar (pole, rod, shaft, staff, stick) - baton  
+bar (pole, rod, shaft, staff, stick) - gana  
 bar (pub, beer house) - birkan  
 bar (public house) - bar  
 Barbados - Barbados  
@@ -334,13 +334,13 @@ barium - barium
 barley - jau  
 barometer - airbarmetrer  
 barrel (can, cask) - tong  
-barrier (barricade) - baromur  
+barrier (barricade) - baremur  
 base (alkali; alkaline) - kali  
 base (foundation, bottom; basic; base on, found) - baze  
 baseball - bazebol  
 basic - bazike  
 basket (basketball hoop) - baske  
-basket ball - baske bol  
+basket ball - baskebol  
 bat (flying mammal) - feimus  
 batch (lot) - lote  
 bathe (bath) - banya  
@@ -351,7 +351,7 @@ be - e
 be about (discuss as a subject) - teme  
 be beside - late  
 be called (be named) - name  
-beacon (lighthouse) - fotominar  
+beacon (lighthouse) - fototore  
 bean or pea (legume) - dou  
 bear - baru  
 beard - barde  
@@ -545,7 +545,7 @@ Burundi - Rundi
 bury (inter, inhume) - inhume  
 bus - bus  
 bus stop - bus halte  
-bush (shrub) - dipe moke  
+bush (shrub) - dipemoke  
 business (commercial activity) - biznes  
 businessperson (businessman) - bizneser  
 bust (bosom) - buste  
@@ -568,7 +568,7 @@ cactus - katus
 cadmium - kadium  
 caesium - cesium  
 cafe (coffee shop) - kafekan  
-cage - batonkase  
+cage - ganakase  
 cake (cookie) - keke  
 calabash - suikaboge  
 calcite - kalsite  
@@ -587,7 +587,7 @@ Callisto - Kalisto
 calm (peaceful, quiet) - xante  
 Cambodia - Kambojia  
 camel - gamel  
-camera - fotografomaxin  
+camera - fotografemaxin  
 Cameroon - Kamerun  
 camp - kampe  
 camper - kamper  
@@ -711,7 +711,7 @@ China - Zungogia
 chinchilla - cincile  
 chlorine - klorium  
 chocolate - coklate  
-chocolate bar - coklatobaton  
+chocolate bar - coklategana  
 choir (chorus) - cantergrupe  
 cholera - holera  
 Chongqing - Congking  
@@ -1051,7 +1051,7 @@ deduce (lead from) - dedute
 deduction - dedution  
 deem (consider, regard, assign some quality to) - fere  
 deem (opine, think that) - rai  
-deep - fasotele  
+deep - teledipe  
 default (preset, predecided) - precuze  
 defeat (do away with) - defete  
 defecate - defeke  
@@ -1080,7 +1080,7 @@ dentist - dantotiber
 deny (refuse, turn away) - denege  
 departure - departure  
 depress (push away) - deprese  
-depth - fasotelia  
+depth - teledipia  
 descriptive - sifive  
 desert - sablestan  
 designate (mark out) - desine  
@@ -1182,7 +1182,7 @@ dragon - lung
 dragonfly - libele  
 drama - drame  
 dramatic irony - dramironia  
-drawer - tirsanduke  
+drawer - tiresanduke  
 drawing (design) - desen  
 dress (clothe sb.) - fuke  
 drill (bore, perforate) - fore  
@@ -1196,7 +1196,7 @@ drowsy - somive
 drug (narcotic, dope, intoxicating substance) - narke  
 drug addict - narkiste  
 drum - gum  
-dry - gane  
+dry - gan  
 dry season - ganmosim  
 dualism - duisme  
 dubious (suspicious) - xankebil  
@@ -1668,7 +1668,7 @@ go or come before - prekurse
 go through (go by) - trakurse  
 go under - go sube  
 goal (destination; destine, set) - gol  
-goat - buze  
+goat - buzi  
 god (deity) - deu  
 gold - aure  
 golem - golem  
@@ -1990,7 +1990,7 @@ initial (first; prime) - prime
 inject - injete  
 injection - injete  
 ink - moge  
-inkbrush (calligraphy brush) - broxokalam  
+inkbrush (calligraphy brush) - broxkalam  
 innate (endogeneous, indigenous, inborn) - ingene  
 innate (endogenous, indigenous, inborn) - innate  
 inner (internal) - inike  
@@ -2231,7 +2231,7 @@ lettuce - letus
 level - parestan  
 level down - talo dargu  
 level up (graduate) - be gaudarge  
-lever - tirbaton  
+lever - tiregana  
 lexeme - lexeme  
 lexical (related to words) - lexike  
 Lhasa - Lesa  
@@ -2537,7 +2537,7 @@ mirror - miror
 misdeed (sin, vice) - dusate  
 misdeed (sin, vice) - duskar  
 misfortune (bad luck) - dus zar  
-misfortune (bad luck) - dusozar  
+misfortune (bad luck) - dus zar  
 mission (sending) - mision  
 mission (transmission, emission) - misia  
 missionary - misioner  
@@ -2685,7 +2685,6 @@ neologism - neuloge
 neon - neon  
 neophyte plant - neufite  
 Nepal - Nepal  
-nephew or niece - brusben  
 nephology - nepolojia  
 nephritis - nefritis  
 Neptune - Nepotun  
@@ -2788,12 +2787,12 @@ ode (verse) - ode
 Odia (Oriya) - odise  
 of (attributive preposition) - de  
 off (deactivated, disabled, inactive) - anative  
-office (bureau) - bure  
+office (bureau) - buro  
 office (bureau) - ofisia  
 office (position) - ofis  
 office (room) - ofiskan  
 officer - ofiser  
-official (formal, bureaucratic) - bure di  
+official (formal, bureaucratic) - buro di  
 official (pertaining to public trust) - mantike  
 official - ofise  
 often (frequently) - poli mar  
@@ -3023,7 +3022,7 @@ phone (speech sound) - fone
 phoneme - foneme  
 phonology - fonolojia  
 phosphorus - pospor  
-photograph - fotograf  
+photograph - fotografe  
 photographer - fotografer  
 photography - fotografia  
 physicist - fiziker  
@@ -3031,9 +3030,8 @@ physics (science) - fizikia
 physics - fizike  
 piano - piano  
 pickaxe (mattock) - pincope  
-pickle (preserve in vinegar or brine) - acara  
-pickle - acar  
-pickled - acari  
+pickle (preserve in vinegar or brine) - acar  
+pickled - acar di  
 picnic - exyam  
 picture book - grafobuke  
 pidgin (contact language) - pijin  
@@ -3142,7 +3140,7 @@ portion (dose) - doze
 Portugal - Portugal  
 pose (set; position) - poze  
 position - pozia  
-post (stake, peg, skewer) - baton  
+post (stake, peg, skewer) - mokegana  
 post mortem - posmortal  
 post office - postekan  
 post-production - posprodute  
@@ -3187,7 +3185,7 @@ press (pressure) - prese
 press device - preser  
 prevent (stop, keep from, come in the way of) - prevene  
 prick (sting) - pine  
-priest (cleric) - dinoguru  
+priest (cleric) - dinguru  
 primary school (elementary school, gradeschool) - bazexulekan  
 prime minister - xefe manter  
 prince or princess - rejeben  
@@ -3346,7 +3344,7 @@ recycle - risikle
 red - lale  
 reduce (lead back, take back) - redute  
 reduce - kamife  
-reed (cane) - gana  
+reed (cane) - ganafite  
 reed pen - ganakalam  
 refer (point back to) - refere  
 reflect (bend back) - reflexe  
@@ -3623,7 +3621,7 @@ sexy (sexually arousing) - sexike
 Seychelles - Sexel nesia  
 shadow - saye  
 shake (jolt, earthquake) - sisme  
-shallow - fasokaribe  
+shallow - fasekaribe  
 shaman - xaman  
 shame (disgrace) - xarme  
 shampoo - kexesabun  
@@ -3664,7 +3662,6 @@ show (display; exhibition) - xou
 shower - duxe  
 shrimp (prawn) - krevete  
 Siberia - Sibiria  
-sibling (brother or sister) - brus  
 side (flank) - late  
 side-effect - parafete  
 sideways (laterally) - a late dike  
@@ -3842,7 +3839,7 @@ straight - orte
 strange (foreign) - extran  
 strange (unknown) - anbenose  
 stray (deviate) - depade  
-stretch (extend) - tirlonge  
+stretch (extend) - tirelonge  
 stride - grese  
 strip (peel) - tire pil  
 strong - bale  
@@ -3956,7 +3953,7 @@ tea cup - caikupe
 tea house - caikan  
 teach (educate, instruct) - xulize  
 teacher - xulizer  
-teacher’s pointer - dikebaton  
+teacher’s pointer - dikegana  
 team - tim  
 teapot - caipote  
 tear (rip, split) - cire  
@@ -4089,7 +4086,7 @@ top - gavaje
 topic (subject, theme) - tem  
 topography - topografe  
 topography - topografia  
-torch - fotobaton  
+torch - fotegana  
 torrent - dairive  
 touch (tact) - tate  
 touch - cuke  

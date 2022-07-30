@@ -8,7 +8,7 @@ a long - далеко
 a long dure - долго  
 a misal - например  
 abete - пихта  
-acari - марино́ванный  
+acar di - марино́ванный  
 aci - чихать  
 acinium - актиний  
 ade - обычай (привычка)  
@@ -143,12 +143,12 @@ bande - банда
 bandir - флаг  
 banyakamar - ванная  
 • bankekan - банк  
-bankorute - банкрот  
-bankorutia - банкротство  
+bankerute - банкрот  
+bankerutia - банкротство  
 banya - купание (купаться)  
 bare - барьер  
 barium - барий  
-baromur - барьер  
+baremur - барьер  
 barde - борода  
 barkoke - абрикос  
 baru - медведь  
@@ -158,12 +158,9 @@ barxekote - плащ (дождевик)
 barxemosim - муссон  
 bas - достаточно (довольно)  
 basen - бассейн  
-baske bol - баскетбол  
+baskebol - баскетбол  
 bate - восемь (8)  
 batosenter - спрут (осьминог)  
-baton - штанга  
-baton - кол  
-batonkase - клетка  
 batre - батарея  
 bau - сокровище (казна; драгоценный)  
 bavite - драгоценный камень  
@@ -218,8 +215,8 @@ bolte - болт
 bombe - бомба  
 bon - хороший  
 konbone - соответствовать (сочетаться)  
-ribone - чинить (ремонтировать)  
-riboner - ремонтник  
+• ribone - чинить (ремонтировать)  
+• riboner - ремонтник  
 borium - борий  
 boron - бор  
 botel - бутылка  
@@ -239,8 +236,8 @@ bufete - буфет
 bugete - бюджет  
 buke - книга  
 bum - взрыв  
-bure - контора (бюро, офис)  
-• bure di - казённый (формальный)  
+buro - контора (бюро, офис)  
+• buro di - казённый (формальный)  
 • burokratia - бюрократия  
 burorite - этикет (протокол)  
 bus halte - автобусная остановка  
@@ -338,14 +335,14 @@ deu - бог
 deunagre - деванагари  
 deusofia - теософия  
 dike - направить (нацелить; цель)  
-dikebaton - указка  
+dikegana - указка  
 din - религия (вера)  
 • diniste - верующий  
 • andiniste - неверующий  
 dinamite - динамит  
 dinde - индюк  
 diorite - диорит  
-dipe moke - куст  
+dipemoke - куст  
 diske - диск  
 disprosium - диспрозий  
 dite - диктовать  
@@ -413,8 +410,6 @@ fan - фан (фанат)
 fange - болото  
 fangostan - болото (топь)  
 fase - грань  
-fasotele - глубокий  
-fasotelia - мелкий  
 fasile - лёгкий (простой)  
 fasilia da acese - доступность  
 fatige - усталость  
@@ -458,7 +453,7 @@ forme - форма (фигура; формировать)
 fote - свет  
 fotofrike - полировать  
 fotografia - фотография  
-fotominar - маяк  
+fototore - маяк  
 fransium - франций  
 frasen - ясень  
 frem - рама  
@@ -490,6 +485,8 @@ galium - галлий
 galaxia - галактика  
 galope - кентер и галоп  
 gancau - сено  
+gana - штанга  
+ganakase - клетка  
 gande - запах (аромат)  
 gande - понюхать  
 ganse - гусь  
@@ -1021,6 +1018,7 @@ mixe - мешать
 moke - дерево  
 mokoban - доска (планка)  
 mokotan - бревно  
+mokegana - кол  
 mole - молоть  
 • molekan - мельница  
 molite - жёрнов  
@@ -1538,6 +1536,8 @@ telefonlin - телефонная линия
 teleloke - телепортировать  
 teleskope - телескоп  
 televide - телевизор  
+teledipe - глубокий  
+• teledipia - мелкий  
 telurium - теллур  
 tem - тема  
 temnam - название (пьесы, заголовок)  
@@ -1566,8 +1566,8 @@ tibesui - зелье
 tim - команда  
 tire milke - тянуть  
 tire pil - ободрать  
-tirbaton - рычаг  
-tirlonge - вытянуть  
+tiregana - рычаг  
+tirelonge - вытянуть  
 tireriu - отбойное течение  
 titanium - титан  
 • tixe - тихий  

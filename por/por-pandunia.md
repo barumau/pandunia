@@ -88,7 +88,7 @@ ar - air
 arame - metalline  
 aranha - arane  
 arbitrário - no ham di  
-arbusto (mata) - dipe moke  
+arbusto (mata) - dipemoke  
 arco - arke  
 areia - sable  
 areia movediça - movesable  
@@ -154,21 +154,21 @@ baile (danza) - danse
 balde - balde  
 bambu - bambu  
 banana - banan  
-bancarrota (falido) - bankorute  
-bancarrota (falência) - bankorutia  
+bancarrota (falido) - bankerute  
+bancarrota (falência) - bankerutia  
 banco - bankekan  
 banco de dados - datebanke  
 bando - bande  
 banqueiro - banker  
 barba - barde  
 barco (navio) - nau  
-barra de chocolate - coklatobaton  
+barra de chocolate - coklategana  
 barrar (barreira) - bare  
-barreira - baromur  
+barreira - baremur  
 base (álcali; alcalino) - kali  
 base - baze  
 basebol (beisebol) - bazebol  
-basketball - baske bol  
+basketball - baskebol  
 bastante (suficiente) - bas  
 baía (golfo) - haisake  
 bebê - bebe  
@@ -242,7 +242,7 @@ camarão - krevete
 camisa - kamis  
 camomila-romana - roma kamil  
 camomila-vulgar - kamil  
-cana - gana  
+cana - ganafite  
 cana-de-açúcar - sukar gana  
 caneta de tinta permanente - fontekalam  
 canguru - kangaru  
@@ -547,7 +547,7 @@ escorpião (lacrau) - akrabe
 escova de cabelo - kexebroxe  
 escovinha (centáurea) - nilcentaur  
 escrever (escrita) - kitabe  
-escritório (birô) - bure  
+escritório (birô) - buro  
 escudo - defeban  
 escudo - ostosalke  
 escultor - skulter  
@@ -572,7 +572,7 @@ estado - hal
 estanho - stanium  
 estação (sazão) - mosim  
 este (leste) - dong  
-estirar - tirlonge  
+estirar - tirelonge  
 estrado - tai  
 estrôncio - strontium  
 estudante (aluno) - studente  
@@ -607,7 +607,7 @@ faca - caku
 face (faceta) - fase  
 fadiga - fatige  
 falar - loge  
-farol (baliza) - fotominar  
+farol (baliza) - fototore  
 fator (fazedor) - feter  
 favoritismo - profilisme  
 favorito (preferido) - profilaje  
@@ -640,7 +640,7 @@ fome - yamyau
 forma (modelar) - forme  
 força - balia  
 força aérea - airorde  
-foto (fotografia) - fotograf  
+foto (fotografia) - fotografe  
 fotografia - fotografia  
 fraco (débil) - anbale  
 fragmento - parce  
@@ -659,7 +659,7 @@ fósforo - pospor
 ## G  
 
 gadolínio - gadolinium  
-gaiola (jaula) - batonkase  
+gaiola (jaula) - ganakase  
 galope - galope  
 galáxia - galaxia  
 gamão - narde  
@@ -1233,7 +1233,7 @@ polónio - polskium
 ponta (pico, bico) - pike  
 ponta do dedo - angulpike  
 ponte - pul  
-ponteiro - dikebaton  
+ponteiro - dikegana  
 por cento - prosente  
 por exemplo - a misal  
 por muito tempo - a long dure  
@@ -1245,7 +1245,7 @@ porto marítimo - haiporta
 Porto Rico - Portoriko  
 porto-riquenho - portorike  
 possível - bil  
-poste (estaca) - baton  
+poste (estaca) - mokegana  
 posterior - postre  
 potássio - kalium  
 poucos - kam  
@@ -1272,7 +1272,7 @@ processamento de dados - dateprocese
 processamento de imagem - grafoprocese  
 professor (docente) - xulizer  
 profissão - peikar  
-profundo - fasotele  
+profundo - teledipe  
 programa - program  
 projeto - projete  
 projeto - projetaje  
@@ -1367,8 +1367,8 @@ religião - din
 relógio - horloger  
 remédio (medicamento) - tibaje  
 reparador - riboner  
-reparar - ribone  
 reparar - repare  
+reparar - ribone  
 repetir - rifete  
 repetição - ri-  
 repouso - repauze  
@@ -1627,7 +1627,7 @@ valsa - valse
 vampiro - vampir  
 vanádio - vanadium  
 vapor - suigas  
-vara (bastão) - baton  
+vara (bastão) - gana  
 vaso de flores - fulpote  
 vazar - lou  
 vegetalista - purfitoyamiste  

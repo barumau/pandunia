@@ -19,9 +19,8 @@ a supre - nad
 a zai den - dziś, dzisiaj  
 a kon - razem (wspólnie)  
 abete - jodła  
-acar - marynować  
-acara - kisić (marynować)  
-acari - kiszony (marynowany)  
+acar - kisić (marynować)  
+acar di - kiszony (marynowany)  
 aci - kichać (apsik!)  
 acinium - aktyn  
 ade - nawyk (przyzwyczajenie; zwyczajny, rutynowy, normalny)  
@@ -217,7 +216,7 @@ banan - banan
 bande - zespół (drużyna, grupa)  
 bandir - flaga, sztandar  
 bangle - banglijski  
-Banglodex - Bangladesz  
+Bangledex - Bangladesz  
 banyakamar - łazienka  
 banke - oszczędzać (deponować)  
 • bankekan - bank  
@@ -226,7 +225,7 @@ banya - kąpiel (kąpać się)
 bar - bar  
 bare - bariera  
 barium - bar  
-baromur - bariera  
+baremur - bariera  
 Barbados - Barbados  
 barbar - barbarzyńca  
 Barbuda - Barbuda  
@@ -244,15 +243,11 @@ barxekote - płaszcz nieprzemakalny
 bas - wystarczający  
 basen - basen  
 baske - kosz  
-baske bol - piłka do koszykówki (koszykówka)  
+baskebol - piłka do koszykówki (koszykówka)  
 bate - osiem (8)  
 batosenter - ośmiornica  
 bata - kaczka  
 batakrote - dziobak  
-baton - pręt, kij  
-baton - słup (pal, kołek)  
-batonkase - klatka  
-batonpang - bagietka  
 batre - bateria  
 bau - skarb (skrabiec; cenny)  
 bavite - klejnot  
@@ -343,8 +338,8 @@ bombe - bomba
 bon - dobry  
 bon zar - dobry los, szczęście  
 konbone - pasować  
-ribone - naprawa (naprawić, naprawiać)  
-riboner - naprawiacz  
+• ribone - naprawa (naprawić, naprawiać)  
+• riboner - naprawiacz  
 bore - znudzony  
 boria - nuda (znudzenie)  
 borium - bohr  
@@ -365,7 +360,6 @@ brun - brązowy (koloru kawy)
 brunalge - brunatnica  
 brunsalmon - pstrąg potokowy  
 Brunei - Brunei Darussalam  
-brus - rodzeństwo, brat lub siostra  
 bu! - bu!  
 bude - uświadomienie, świadomość; oświecenie, bodhi  
 • budisme - Buddyzm  
@@ -380,16 +374,16 @@ buke - książka
 bule - ugotować się, gotować się  
 bulbul - słowik  
 bum - wybuch (eksplodować, wybuchnąć, wybuchać)  
-bure - biuro, urząd  
 burge - zamek, forteca, twierdza  
 Burkina Faso - Burkina Faso  
+buro - biuro, urząd  
 bus - autobus, autokar  
 bus halte - przystanek autobusowy  
 buste - biust  
 bute - but  
 buton - klawisz, przycisk, przełącznik, guzik  
 butonban - klawiatura  
-buze - koza  
+buzi - koza  
 
 ## C  
 
@@ -462,7 +456,7 @@ cita - gepard
 code - jebać, kopulować  
 coi - zielenina  
 coklate - czekolada  
-coklatobaton - baton czekoladowy  
+coklategana - baton czekoladowy  
 Congking - Chongqing  
 cope - motyka  
 core - kraść (ukraść; kradzież)  
@@ -576,18 +570,18 @@ deunagre - dewanagari
 deusage - mit, boska opowieść  
 deusofia - teozofia  
 dike - cel (celować; kierunek)  
-dikebaton - wskaźnik  
+dikegana - wskaźnik  
 din - religia, wyznanie  
 • diniste - wierzący (osoba religijna)  
 • andiniste - niewierny  
-dinoguru - ksiądz, kleryk, kaznodzieja  
+dinguru - ksiądz, kleryk, kaznodzieja  
 dinamite - dynamit  
 dinde - indyk  
 ding - kolec  
 diorite - dioryt  
 dipe - niski  
-dipe moke - krzak (krzew)  
 • dipife - obniżać (obniżyć)  
+dipemoke - krzak (krzew)  
 dise - rzadki (rozproszyć, rozpraszać;  rozrzedzony, rozproszony)  
 diske - dysk  
 disprosium - dysproz  
@@ -728,9 +722,7 @@ fantas - fantazja (wyobrażenie; wyobrazić, wyobrażać, fantazjować)
 fantom - duch, fantom  
 farse - Pers; perski, farsi  
 fase - powierzchnia  
-fasokaribe - płytki  
-fasotele - głęboki  
-fasotelia - głębokość  
+fasekaribe - płytki  
 • polifas - wielościan  
 fasile - łatwy, prosty  
 fasin - fascynacja  
@@ -812,15 +804,15 @@ forke - widelec
 forme - forma (kształt; ukształtować, kształtować, urzeźbić, rzeźbić)  
 forum - forum  
 fote - światło (jasny, świetlny)  
-fotobaton - pochochodnia (latarka)  
 fotofrike - polerować (szlifować)  
-fotograf - zdjęcie (fotografia)  
+fotegana - pochochodnia (latarka)  
+fotografe - zdjęcie (fotografia)  
 fotografia - fotografia  
 fotografer - fotograf  
-fotografomaxin - kamera, aparat fotograficzny  
-fotominar - latarnia morska  
+fotografemaxin - kamera, aparat fotograficzny  
 fotorade - promień światła  
 fotosirke - efekt halo  
+fototore - latarnia morska  
 Fransia - Francja  
 fransium - frans  
 Franse Guyana - Gujana Francuska  
@@ -883,11 +875,14 @@ game - ożenić się, poślubić, wyjść za mąż
 • gamike - małżonek (małżonka)  
 Gambia - Gambia  
 gamel - wielbłąd, wielbłądzica  
-gane - suchy (suszyć )  
+gan - suchy (suszyć )  
 gancau - siano  
 ganputau - rodzynka  
 gantexe - ręcznik  
 Gana - Ghana  
+gana - pręt, kij  
+ganakase - klatka  
+ganapang - bagietka  
 gande - zapach (aromat, smród, odór)  
 gande - wąchać  
 Ganda - Uganda  
@@ -1987,6 +1982,7 @@ mokomate - drewno
 mokotan - pień  
 mokozanger - stolarz  
 mokozongoparke - arboretum  
+mokegana - słup (pal, kołek)  
 mole - zemleć (mleć, mielić)  
 • molekan - mielić  
 • moler - młynarz  
@@ -3000,6 +2996,8 @@ telefon - telefon
 teleloke - teleportować się  
 teleskope - teleskop  
 televide - telewizja  
+teledipe - głęboki  
+• teledipia - głębokość  
 telugu - telugu  
 telurium - tellur  
 tem - temat, motyw  
@@ -3046,10 +3044,10 @@ tipe - typ (rodzaj, gatunek)
 tire - ciągnąć  
 tire milke - wydoić, doić  
 tire pil - obrać (obierać)  
-tirbaton - dźwignia  
-tirlonge - rozciągać (rozciągnąć)  
+tiregana - dźwignia  
+tirelonge - rozciągać (rozciągnąć)  
 tireriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
-tirsanduke - szuflada  
+tiresanduke - szuflada  
 titanium - tytan  
 tix - ćsi  
 • tixe - cichy  
@@ -3407,7 +3405,7 @@ Zambia - Zambia
 zange - umiejętny (sprawny, zręczny)  
 zanger - rzemieślnik  
 zar - niebezpieczeństwo (szansa; losowy)  
-• dusozar - zły los  
+• dus zar - zły los  
 zarkube - kość do gry  
 Zardux - Zaratusztra  
 zarduxisme - zaratusztrianizm  

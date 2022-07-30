@@ -26,9 +26,8 @@ a~ zai: den:|a zai den||||today||hoy|||||今日||||||||hodiaŭ|tänään|dziś, 
 a~kon:|a kon|||zho:共 (gòng), yue:共 (gung4), kor:공 (gong), vie:cộng, jpn:共 (kyō-), eng:fra:spa:por:con-|together (jointly, mutually)||juntos||||共同 (一起)|一緒に||||||pamoja|birlikte|kune|yhdessä|razem (wspólnie)
 ab:|abe|||eng:fra:spa:por:ab- + rus:апо- (apo-)|away||||||||||||||||pois|
 abet:|abete|bio|Abies|spa:por:abeto|fir tree|sapin|abeto|abeto|пихта|شُوح‎|冷杉|モミ|전나무|linh sam|सनोबर||||göknar|abio|pihta (jalokuusi)|jodła
-acar:|acar|||fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|pickle||||||腌菜|漬物|||अचार||acar (jeruk)|||||marynować
-acar:a|acara||||pickle (preserve in vinegar or brine)||encurtir|||||酢漬けある|||||mengasamkan|||||kisić (marynować)
-acar:i|acari||||pickled|décapé (mariné)|encurtido||марино́ванный|||||||||||||kiszony (marynowany)
+acar:|acar|||fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|pickle (preserve in vinegar or brine)||encurtir||||腌菜|漬物 (酢漬けある)|||अचार||acar (jeruk; mengasamkan)||||säillöä (suolakurkkuja yms.)|kisić (marynować)
+acar: di|acar di||||pickled|décapé (mariné)|encurtido||марино́ванный|||||||||||||kiszony (marynowany)
 aci:|aci|||spa:achís, zho: 阿嚏 (ātì), kor:에취 (echwi), ben:আঁচে (hache), rus:апчхи, vie:hắt xì, eng:achoo, fra:atchoum|sneeze (achoo)|éternuer (atchoum)|estornudar (achís)|espirrar|чихать||打喷嚏 (阿嚏)|||hắt xì||আঁচে||||terni|aivastaa (atsii!)|kichać (apsik!)
 acin.ium:|acinium|kimium 089|Ac|eng:actinium, fra:actinium, spa:actinio, por:actínio, rus:актиний, zho:锕 (ā), jpn:アクチニウム, kor:악티늄, vie:actini, hin:एक्टिनियम, ben:অ্যাক্টিনিয়াম, may:aktinium, swa:aktini, ara: اكتنيوم|actinium|actinium|actinio|actínio|актиний|اكتنيوم|锕|アクチニウム|악티늄|actini|एक्टिनियम|অ্যাক্টিনিয়াম|aktinium|aktini|aktinyum|aktinio|aktinium|aktyn
 ad:|ade|||ara: عادة (ʿāda), hin:आदत (ādat), may:adat, tur:adet, swa:ada|habit (custom; ordinary, customary, habitual, normal)|coutume (ordinaire, habituel, normal)|costumbre (hábito; ordinario, habitual)|costume (hábito)|обычай (привычка)|عادة|习惯 (风俗)|習慣 (風俗)|습관 (풍속)|tập quán (phong tục)|आदत||adat|ada|adet|kutimo|tapa (tavallinen)|nawyk (przyzwyczajenie; zwyczajny, rutynowy, normalny)
@@ -280,24 +279,24 @@ banan:|banan|biu||wol:banaana, rus:банан (banan), pol:banan, fra:deu:banane
 band:|bande|||zho:班 (bān), yue:班 (baan1), vie:ban, kor:반 (ban), + eng:deu:band, fra:bande, rus:банда (banda), spa:por:tgl:pol:banda, jpn:バンド (bando)|band (squad, group)|bande|banda|bando|банда||班  (一帮)||||जमात||||çete||ryhmä (työryhmä, yhtye, bändi)|zespół (drużyna, grupa)
 bandir:|bandir|||eng:banner, fra:bannière, spa:bandera, por:bandeira, may:swa:bendera, tgl:bandila|flag (banner)|drapeau|bandera||флаг||旗|||||||||flago|lippu|flaga, sztandar
 bangl:|bangle||||Bengali (Bangla)|bengali|bengalí||||||||||||||bengali|banglijski
-bangl.dex:|Banglodex|gogia|BD||Bangladesh|Bangladesh|Bangladés|||||||||||||Bangladeŝo|Bangladesh|Bangladesz
+bangl.dex:|Bangledex|gogia|BD||Bangladesh|Bangladesh|Bangladés|||||||||||||Bangladeŝo|Bangladesh|Bangladesz
 bani.kamar:|banyakamar||||bathroom|salle de bains|baño||ванная||浴室|||||||||banĉambro|kylpyhuone|łazienka
 bank:|banke|||eng:deu:pol:may:bank, tur:banka, rus:банк (bank), fra:banque, spa:por:banco, fas:(bânk), hin:बैंक (baiṅk), urd:(baiṅk), tel:బ్యాంకు (byāṅku), tam:(vaṅki)|bank (deposit, save)|banque|ahorrar (reservar, depositar)|||||||||||||banki|tallettaa (tallentaa)|oszczędzać (deponować)
 bank.kan:|• bankekan||||bank (depository, cache)||banco|banco|банк||银行||||बैंक||bank||banka|banko|pankki (talletuspaikka)|bank
 bank.r:|• banker||||banker|banquier|banquero|banqueiro||||||||||||bankisto|pankkiiri|bankier
-bank~rut:|bankorute||||bankrupt (insolvent)|failli||bancarrota (falido)|банкрот|||||||||||bankrota|vararikossa|
-bank~rut:ia|bankorutia||||bankruptcy (insolvency)|faillite (banqueroute)|bancarrota (quiebra)|bancarrota (falência)|банкротство|إِفْلَاس|破产|破産|파산|phá sản|दिवाला||bangkrut||iflas|bankroto|vararikko (konkurssi)|
+bank~rut:|bankerute||||bankrupt (insolvent)|failli||bancarrota (falido)|банкрот|||||||||||bankrota|vararikossa|
+bank~rut:ia|bankerutia||||bankruptcy (insolvency)|faillite (banqueroute)|bancarrota (quiebra)|bancarrota (falência)|банкротство|إِفْلَاس|破产|破産|파산|phá sản|दिवाला||bangkrut||iflas|bankroto|vararikko (konkurssi)|
 banya:|banya|||spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|bathe (bath)|bain (bagner)|bañarse (baño)||купание (купаться)||洗澡 (游泳)|||||||bafu||bano|kylpy (kylpeä)|kąpiel (kąpać się)
-bar:|bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar (public house)||bar||||||||||||||baari (kapakka)|bar
+bar;|bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar (public house)||bar||||||||||||||baari (kapakka)|bar
 bar:|bare|||eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|bar (barrier, fence)|barrière|barrera (barda)|barrar (barreira)|барьер||||||बाड़ (रोक)|বেড়া||||barilo|este (sulku; puomi)|bariera
 bar.ium:|barium|kimium 056|Ba|eng:barium, fra:baryum, spa:bario, por:bário, rus:барий, zho:钡 (bèi), jpn:バリウム, kor:바륨, vie:bari, hin:बेरियम, ben:বেরিয়াম, may:barium, swa:bari, ara: باريوم|barium|baryum|bario|bário|барий|باريوم|钡|バリウム|바륨|bari|बेरियम|বেরিয়াম|barium|bari|baryum|bario|barium|bar
-bar.mur:|baromur||||barrier (barricade)|barrière|barrera (barda)|barreira|барьер||||||बाड़ (रोक)|বেড়া||||barilo|barrikadi|bariera
+bar~mur:|baremur||||barrier (barricade)|barrière|barrera (barda)|barreira|барьер||||||बाड़ (रोक)|বেড়া||||barilo|barrikadi|bariera
 barbados:|Barbados|gogia|BB||Barbados|Barbade|Barbados||||||||||||||Barbados|Barbados
 barbar:|barbar|||deu:tur:barbar, fra:barbare, fas:(barbar), spa:barbaro, eng:barbarian, rus:варвар (varvar)|barbarian|barbare|bárbaro|||||||||||||barbaro|barbaari (raakalainen)|barbarzyńca
 barbuda:|Barbuda|gogia|||Barbuda|Barbuda|Barbuda||||||||||||||Barbuda|Barbuda
 bard:|barde|||fra:barbe, spa:por:barba, deu:Bart, eng:beard, rus:борода (boroda), pol:broda|beard|barbe|barba|barba|борода|||||||||||barbo|parta|broda
 bark:|barke|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|congratulate (bless; congratulation, benediction)|féliciter (felicitation)|felicitar (felicitacion)|||||||||||baraka||gratuli|onnitella (siunata)|gratulować (błogosławić, gratulacje)
-barkok:|barkoke|pal||ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|apricot|abricot|albaricoque|damasco (abricó)|абрикос||杏子||||ख़ूबानी|খুবানি||aprikoti|kayısı (zerdali)|abrikoto|aprikoosi|morela
+barkok:|barkoke|pal||ara:(barqūq), eng:apricot, fra:abricot, spa:albaricoque, por:abricó, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|apricot|abricot|albaricoque|damasco (abricó)|абрикос||杏子||||ख़ूबानी|খুবানি||aprikoti|kayısı (zerdali)|abrikoto|aprikoosi|morela
 bart:|barte|||hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|Indian|indien|indio (hindú)|||||||||||||Barata|intialainen|Indyjski
 bart: hai:|Barte Hai||||Indian Ocean|océan Indien|océano Índico||||||||||||||Intian valtameri|Ocean Indyjski
 bart:ia|Bartia|gogia|IN||India|Inde|India|||||||||||||Baratio|Intia|Indie
@@ -310,15 +309,11 @@ barx.mosim:|barxemosim||||rainy season (monsoon)|mousson||monção|муссон|
 bas:|bas|||spa:por:ita:basta + ara:fas:urd:س (bas), hin:(bas), swa:basi|enough (sufficient)|assez|bastante|bastante (suficiente)|достаточно (довольно)||够|十分|||काफ़ी (बस)||cukup|basi||sufiĉa|tarpeeksi (riittävästi)|wystarczający
 basen:|basen|||eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|pool (basin)|bassin|piscina (alberca, lavadero)|bacia|бассейн|||||||||||baseno|allas|basen
 bask:|baske|||eng:basket, may:bakul, jpn:バスケット (basuketto)|basket (basketball hoop)|panier (panier de basketball)|cesta (canasta, barquilla, aro)|||||||||||||korbo|kori|kosz
-bask~bol:|baske bol||||basket ball|basketball|baloncesto (básquetbol)|basketball|баскетбол||篮球||||बास्केट बॉल||bola basket||basketbol||koripallo|piłka do koszykówki (koszykówka)
+bask~bol:|baskebol||||basket ball|basketball|baloncesto (básquetbol)|basketball|баскетбол||篮球||||बास्केट बॉल||bola basket||basketbol||koripallo|piłka do koszykówki (koszykówka)
 bat:|bate|numbe|8|zho:八 (bā), yue:八 (baat3), wuu:八 (baʔ), jpn:八 (hachi), kor:팔 (pal), tha:แปด (pæt) + hin:आठ (āṭh), ben:আট (aṭ)|eight (8)|huit (8)|ocho (8)|oito (8)|восемь (8)||八 (8)|八 (8)||||||||ok (8)|kahdeksan (8)|osiem (8)
 bat~sent.r:|batosenter|biu|Octopodiformes||octopus|Poulpe (pieuvre)|pulpo|polvo|спрут (осьминог)||章鱼|タコ|||||||||mustekala|ośmiornica
 bata:|bata|biu|Anatidae|ara: بَطَّة‎ (baṭṭa), hin:बत्तख (battakh), tel:బాతు (bātu), swa:bata + spa:por:pato + tha:เป็ด  (pèt)|duck||pato|pato||بَطَّة‎|鸭|鴨|오리|vịt|बत्तख|||bata||anaso|sorsa (ankka)|kaczka
 bata.krot:|batakrote|biu|Ornithorhynchus anatinus||platypus||ornitorrinco||||||||||||||vesinokkaeläin|dziobak
-baton:|baton|||eng:cane, fra:canne, zho:杆 (gǎn), |bar (pole, rod, shaft, staff, stick)|bâton (canne, tige)|barra (vara, palo)|vara (bastão)|штанга|||||||||||stango|tanko (sauva, patukka)|pręt, kij
-baton:|baton||||post (stake, peg, skewer)|pieu (poteau)|poste (estaca, palo)|poste (estaca)|кол||桩|杭||||||||||słup (pal, kołek)
-baton.kas:|batonkase||||cage|cage|jaula (caja)|gaiola (jaula)|клетка|قَفَص|笼|檻 (篭, ケージ)|우리|lồng|क़फ़स (पिंजड़ा)|খাঁচা|sangkar|tundu|kafes|kaĝo|häkki|klatka
-baton.pang:|batonpang||||baguette||baguette||||||||||||||patonki (ranskanleipä)|bagietka
 batr:|batre|||eng:battery, hat:batri, fas:(bātri), swa:betri, hin:बैटरी (baiṭrī), ben:ব্যাটারি (byaṭari), ara:(baṭṭāriyya), jpn:バッテリー (batterī), kor:배터리 (baeteori), rus:батарея (batareya), spa:por:bateria, may:bateri|battery|pile (batterie)|pila (batería)|pilha (bateria)|батарея|بَطَّارِيَّة|电池|バッテリー|전지 (배터리)|pin (bình điện)|बैटरी|ব্যাটারি|baterai (bateri)|betri|pil (akü)|baterio (pilo)|akku (paristo)|bateria
 bau:|bau|||zho:宝 (bǎo), kor:보 (bo), vie:bảo, jpn:宝 (hō)|treasure (valuables; precious)|précieux|tesoro (precioso)|precioso|сокровище (казна; драгоценный)||宝 (宝贵)||귀중한|||||||trezoro|aarre (arvokas)|skarb (skrabiec; cenny)
 bau~it:|bavite||||gem (gemstone, jewel)|pierre précieuse (joyau)|piedra preciosa (joya, gema)|pedra preciosa (gema)|драгоценный камень|جوهرة‎|宝石|宝石|보석|đá quý|मणि (रत्न)||permata (jauhar)|johari|mücevher|juvelo|jalokivi|klejnot
@@ -417,7 +412,7 @@ boi:|boi|||eng:buoy, spa:swa:may:boya, por:boia, fra:bouée, rus:буй (buy), j
 boi~punt.numb:|boipuntenumbe||||floating point number||punto flotante|||||浮動小数点数||||||||||
 boikot:|boikote|||eng:fra:boycott, spa:boicot, por:boicote, jpn:ボイコット (boikotto), fas:بایکوت‎ (bâykot), бойкот (boykot)|boycott||boicot|||||||||||||bojkoto|boikotti|bojkot
 boing:|boing|||eng:boing, jpn:ボイン (boin)|bounce|rebondir|rebotar|rebater|||||||||||||kimmota (pomppia)|
-boka:|boka|||spa:por:boca|mouth||boca|||||||||||||buŝo|suu|usta
+boka:|boka|||spa:por:boca + hau:baka|mouth||boca|||||||||||||buŝo|suu|usta
 boka~cat:|bokacate||||palate|palais de la bouche|paladar|palato (céu da boca)|нёбо||上颚 (口盖)|口蓋 (上顎)|입천장 (구개)|vòm miệng|||langit-langit (palatum)||damak|palato|suulaki (kitalaki)|
 boka~vel:|bokavele||||velum||||||||||||||||kitapurje|
 boks:|bokse|sporte||eng:box, deu:Boxen, fra:por:boxe, spa:boxeo, rus:бокс (boks), jpn:ボクシング (bokushingu), kor:복싱 (boksing), hin:बॉक्सिंग (bŏksiṅg), ben:বক্সিং (bôksing), may:boksing, tur:boks|boxing|boxe|boxeo|boxe|бокс||拳击|ボクシング (拳闘)|권투 (복싱)||बॉक्सिंग|বক্সিং|tinju (boksing)|ndondi|boks|bokso|nyrkkeily|boks
@@ -431,8 +426,8 @@ bomb:|bombe|||pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:
 bon:|bon|||fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|good|bon|bueno|bom|хороший|حَسَن|好|良い (元気, 上手)|||अच्छा||bagus|mzuri||bona|hyvä|dobry
 bon: zar:|bon zar||||good luck||buena suerte||||||||||||||hyvä onni (tuuri, säkä, lykky)|dobry los, szczęście
 bon<kon:|konbone||||match (fit, suit, go well together)||emparejar (quedar)|combinar com|соответствовать (сочетаться)||相配|合わせる (適する)||||||||kongrui|sopia|pasować
-bon<ri:|ribone||||repair (fix, mend)|réparer|reparar (arreglar)|reparar|чинить (ремонтировать)|صَلَّحَ‎|修理|修理|수리|sửa chữa|मरम्मत||||tamir etmek|ripari|korjata|naprawa (naprawić, naprawiać)
-bon<ri.r:|riboner||||repairer|réparateur|reparador|reparador|ремонтник|مُصْلِح‎|修理工人|修理工|수리공||||||tamirci|riparisto|korjaaja|naprawiacz
+bon<ri:|• ribone||||repair (fix, mend)|réparer|reparar (arreglar)|reparar|чинить (ремонтировать)|صَلَّحَ‎|修理|修理|수리|sửa chữa|मरम्मत||||tamir etmek|ripari|korjata|naprawa (naprawić, naprawiać)
+bon<ri.r:|• riboner||||repairer|réparateur|reparador|reparador|ремонтник|مُصْلِح‎|修理工人|修理工|수리공||||||tamirci|riparisto|korjaaja|naprawiacz
 bor:|bore|||eng:bored, spa:aburrido, hin:(bhorī)|bored||aburrido|||||||||||||enui|pitkästynyt|znudzony
 bor:ia|boria||27 emotions||boredom||aburrimiento||||||||बोरियत|||||enuo|tylsyys (pitkästys)|nuda (znudzenie)
 bor.ium:|borium|kimium 107|Bh|eng:bohrium, fra:bohrium, spa:bohrio, por:bóhrio, rus:борий, zho: (bō), jpn:ボーリウム, kor:보륨, vie:bohri, hin:बोरियम, ben:বোহরিয়াম, may:bohrium, swa:bohri, ara: بوريوم|bohrium|bohrium|bohrio|bóhrio|борий|بوريوم||ボーリウム|보륨|bohri|बोरियम|বোহরিয়াম|bohrium|bohri|bohriyum|borio|bohrium|bohr
@@ -450,13 +445,11 @@ brazil:|Brazil|gogia|BR||Brazil||Brasil|||||||||||||Brazilo|Brasilia|Brazyla
 britan:ia|Britania|gogia|GB||United Kingdom||Reino Unido||||||||||||||Iso-Britannia (Yhdistyneet Kuningaskunnat)|Zjednoczone Królestwo
 brom.ium:|bromium|kimium 035|Br|eng:bromine, fra:brome, spa:bromo, por:bromo, rus:бром, kor:브롬, vie:brom, hin:ब्रोमिन, ben:ব্রোমিন, may:brom, swa:bromi, ara: بروم|bromine|brome|bromo|bromo|бром|بروم|溴|臭素|브롬|brom|ब्रोमिन|ব্রোমিন|brom|bromi|brom|bromo|bromi|brom
 brox:|brox|||eng:brush, fra:brosse, ben:ব্রাশ (braś), hin:ब्रश (braś), urd:(braś), hau:swa:burashi, jpn:ブラシ (burashi), kor:브러시 (beureosi), fas:(boros), may:berus|brush||cepillo (brocha)|||||||||||||broso|harja|szczotka
-brox~kalam:|broxokalam||||inkbrush (calligraphy brush)||||||毛笔|筆 (毛筆)|||||||||mustesivellin|
+brox~kalam:|broxkalam||||inkbrush (calligraphy brush)||||||毛笔|筆 (毛筆)|||||||||mustesivellin|
 brun:|brun|rang||eng:brown, fra:brun + ara: بُنِّيّ‎ (bunniyy) + hin:भूरा (bhūrā)|brown|brun (marron)|marrón|castanho (marrom)|коричневый|بُنِّيّ|棕色 (咖啡色)|茶色|갈색|nâu|भूरा|বাদামী|cokelat|kahawia|kahverengi|bruna|ruskea|brązowy (koloru kawy)
 brun~alg:|brunalge|biu|Phaeophyceae||brown algae|algues brunes|algas pardas||бурые водоросли|||褐藻||||||||||brunatnica
 brun~salmon:|brunsalmon|biu|Salmo trutta||brown trout|truite brune (truite de mer)|trucha marrón|truta-marrom|кумжа||褐鳟|ブラウントラウト|||||trout coklat|||||pstrąg potokowy
 brunei:|Brunei|gogia|BN||Brunei Darussalam||Brunei||||||||||||||Brunei|Brunei Darussalam
-brus:|brus||||sibling (brother or sister)||hermano o hermana|||||||||||||gefrato|sisarus (veli tai sisko)|rodzeństwo, brat lub siostra
-brus.ben:|brusben||||nephew or niece||||||||||||||||sisaruksen lapsi|
 bu:|bu!|||eng:boo, fra:bouh, por:spa:bu, rus:бу (bu), kor:부 (bu)|boo!|bouh!|bu!|bu!|бу|||ばあ|부|hù!|||||||pöö!|bu!
 bu.bu:|bubu||||bogeyman|croque-mitaine|coco|bicho-papão|бука||魔鬼||||||||||mörkö|
 buc:|buce|||eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ) + kor:푸주한 (pujuhan)|butcher (slaughter)|abattre|carnear (matar)|abater||||||||||||buĉi|teurastaa (lahdata)|
@@ -476,19 +469,19 @@ buk:|buke|||eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (
 bul:|bule|||eng:boil, fra:bouillir, ita:bollire, zul:-bila, sot:-bela, hin:उबालना (ubālnā)|boil (cook)||hervir (cocer)|||||||||||||boli|kiehua (keittää)|ugotować się, gotować się
 bulbul:|bulbul|biu|Luscinia megarhynchos|may:bulbul, tur:bülbül, hin:बुलबुल (bulbul), urd:(bulbul), fas:(bolbol)|nightingale||ruiseñor|||||||||||||najtingalo|satakieli|słowik
 bum:|bum|||eng:boom, deu:Bumm, fra:boum, spa:por:bum, hin:बूम (būm), zho:砰 (pēng), kor:펑 (peong), vie:bùm|explosion (blast; explode, blow up)|explosion|explosión (estallado)|explosão|взрыв||爆炸|爆発|||||||||räjähdys (pamaus)|wybuch (eksplodować, wybuchnąć, wybuchać)
-bur:|bure|||eng:fra:bureau, spa:buro-, por:birô, rus:бюро (byuro), pol:biuro, tur:büro|office (bureau)|bureau (office)|oficina|escritório (birô)|контора (бюро, офис)||||||||||||toimisto (konttori, byroo)|biuro, urząd
-bur: di|• bure di||||official (formal, bureaucratic)||oficial (formal, protocolario)||казённый (формальный)|||||||||||||
-bur.krat:ia|• burokratia||||bureaucracy|bureaucratie|burocracia|burocracia|бюрократия||官僚制|官僚制|관료제|bọn quan liêu|अधिकारीवर्ग||||bürokrasi||byrokratia|
-bur~rit:|burorite||||etiquette (protocol, procedure)|protocole|etiqueta (protocolo)|protocolo|этикет (протокол)|||公式 (礼法, プロトコル)|||शिष्टाचार||tata tertib (protokol)|itifaki|teşrifat (protokol)||etiketti (protokolla)|
 burg:|burge|||deu:Burg, ara:urd: بُرْج‎ (burj), hin:बुर्ज (burj), ben:বুরুজ (buruj), tel:బురుజు (buruju), may:puri|castle (fortress, stronghold)||castillo (fortaleza)|||||||||||husuni|||linna (linnake, linnoitus)|zamek, forteca, twierdza
 burkina: faso:|Burkina Faso|gogia|BF||Burkina Faso||Burkina Faso||||||||||||||Burkina Faso|Burkina Faso
+buro:|buro|||eng:fra:bureau, spa:buro-, por:birô, rus:бюро (byuro), pol:biuro, tur:büro|office (bureau)|bureau (office)|oficina|escritório (birô)|контора (бюро, офис)||||||||||||toimisto (konttori, byroo)|biuro, urząd
+buro: di|• buro di||||official (formal, bureaucratic)||oficial (formal, protocolario)||казённый (формальный)|||||||||||||
+buro.krat:ia|• burokratia||||bureaucracy|bureaucratie|burocracia|burocracia|бюрократия||官僚制|官僚制|관료제|bọn quan liêu|अधिकारीवर्ग||||bürokrasi||byrokratia|
+buro~rit:|burorite||||etiquette (protocol, procedure)|protocole|etiqueta (protocolo)|protocolo|этикет (протокол)|||公式 (礼法, プロトコル)|||शिष्टाचार||tata tertib (protokol)|itifaki|teşrifat (protokol)||etiketti (protokolla)|
 bus:|bus|||deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, zho:巴士 (bāshì), vie:xe buýt|bus||bus (autobús)|||||||xe buýt||||||buso|linja-auto (bussi)|autobus, autokar
 bus~ halt:|bus halte||||bus stop|arrêt de bus|parada de autobús|parada de ônibus|автобусная остановка||汽车站|バス停|정류장|trạm xe buýt|||halte bis (perhentian bas)|||bushaltejo|bussipysäkki (linja-autopysäkki)|przystanek autobusowy
 bust:|buste|||fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|bust (bosom)||pecho (busto)||||||||||||||povi|biust
 but:|bute|||eng:boot, fra:botte, spa:por:bota, ell:μπότα (bóta), rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|boot|botte|bota|bota|ботинок|||ブーツ|||||||||saapas (buutsi)|but
 buton:|buton|||eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|key (push-button, switch)|bouton|tecla (botón)|botão|пуговица||扣子||||बटन||kancing||düğme|klavo (butono)|nappi (näppäin, kytkin, nappula)|klawisz, przycisk, przełącznik, guzik
 buton.ban:|butonban||||keyboard||teclado|||||||||||||klavaro|näppäimistö|klawiatura
-buz:|buze|biu|Capra|swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
+buzi:|buzi|biu|Capra|swa:mbuzi, sna:mbudzi, zul:imbuzi, tsw:bodi, por:bode, taj:буз (buz), fas:(boz)|goat||cabra||||山羊|||||||||kapro|vuohi|koza
 c|C||||C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C|C
 cab:|cabe|||por:chave, hin:(cābi), kon:nsapi|key||llave|||||||||||||ŝlosilo|avain|klucz
 cad:ia|Cadia|gogia|TD||Chad||Chad||||||||||||||Tšad|Czad
@@ -590,7 +583,7 @@ cod:|code|||hin:चोदना (codnā), ben:চোদা (coda) + zho:肏 (cà
 cod.kan:|• codekan||||whorehouse|||||||娼館|||चोदघर||||||ilotalo|
 coi:|coi|||zho:菜 (cài), yue:菜 (coi3), eng:-choy, may:-coy|greens||verduras|verdura|зелень|||菜|||||||||vihannes|zielenina
 coklat:|coklate|||spa:por:eng:chocolate, fra:chocolat, rus:шоколад (šokolad), zho:巧克力 (qiǎokèlì), jpn:チョコレート (chokorēto), kor:초콜렛 (chokollet), vie:sôcôla, hin:चाकलेट (cāklet), ben:চকলেট (côkleṭ), may:cokelat, swa:chokoleti, tur:çikolata|chocolate|chocolat|chocolate|chocolate|шоколад||巧克力|チョコレート|초콜렛|sô cô la|चाकलेट|চকলেট|cokelat (coklat)|chokoleti|çikolata|ĉokolado|suklaa|czekolada
-coklat.baton:|coklatobaton||||chocolate bar|tablette de chocolat|barra de chocolate|barra de chocolate|||巧克力棒|チョコバー||||||||ĉokolado|suklaapatukka|baton czekoladowy
+coklat.gana:|coklategana||||chocolate bar|tablette de chocolat|barra de chocolate|barra de chocolate|||巧克力棒|チョコバー||||||||ĉokolado|suklaapatukka|baton czekoladowy
 congking:|Congking||||Chongqing||||||重庆||||||||||Chongqing|Chongqing
 cop:|cope|||zho:锄 (chú), yue:鋤 (co4), tha:จอบ (chop), tur:çapa|hoe|houe|azada|enxada|мотыга||锄头|クワ|||||||||kuokka|motyka
 cor:|core|||hin:mar:चोरी (corī), urd:(corī), tha:โจร (chon), may:curi, ben:চুরি (curi)|steal (theft)||robar (hurtar; robo, hurto)|||||||||||||ŝteli|varastaa (varkaus)|kraść (ukraść; kradzież)
@@ -722,20 +715,20 @@ dik:|dike|||eng:indicate, fra:indiquer, spa:por:indicar + hin:mar:दिशा (
 dik.ion:|• dikion||||pointing (indication, deixis)|indication (deixis)|deíxis|dêixis||||直示|직시||||||||osoittaminen (deiksis)|
 dik.r:|• diker||||pointer (director)||puntero||||||||||||||osoitin|
 dik<in:|• indike||||indicate (point into)||||||||||||||||osoittaa (näyttää)|
-dik~baton:|dikebaton||||teacher’s pointer|baguette|puntero|ponteiro|указка||教鞭|指し棒|지시봉||||||||karttakeppi|wskaźnik
+dik~gana:|dikegana||||teacher’s pointer|baguette|puntero|ponteiro|указка||教鞭|指し棒|지시봉||||||||karttakeppi|wskaźnik
 dik~iv: nam<pro:|dikive pronam||||demonstrative pronoun||||||||||||||||demonstratiivipronomini|
 din:|din|||ara: دِين‎ (dīn), hin:दीन (dīn), ben:দীন (din), tur:may:din, swa:dini, hau:addini|religion (worship)|religion|religión|religião|религия (вера)|دين‎|宗教|宗教|종교|tôn giáo|धर्म (दीन)|ধর্ম (দীন)|agama (din)|dini|din (inanç)|religio|uskonto|religia, wyznanie
 din.ist:|• diniste||||believer (religious person)|croyant|creyente|crente|верующий|مؤمن|信徒|信徒 (信者)|신도 (신자)||आस्तिक|||muumini|mümin|kredulo|uskovainen|wierzący (osoba religijna)
 din.ist<n:|• andiniste||||unbeliever (infidel)|infidèle (incroyant)|infiel (descreído)|infiel|неверующий|كافر|不信神的|不信者|불신자||नास्तिक (काफ़िर)||||kafir|malkredulo|uskonnoton|niewierny
-din~guru:|dinoguru||||priest (cleric)||sacerdote (clérigo, eclesiástico)|||||||||||||pastro|pappi|ksiądz, kleryk, kaznodzieja
+din~guru:|dinguru||||priest (cleric)||sacerdote (clérigo, eclesiástico)|||||||||||||pastro|pappi|ksiądz, kleryk, kaznodzieja
 dinamit:|dinamite|||eng:dynamite, spa:dinamita, rus:динамит (dinamit), tur:may:dinamit, ara:ديناميت (dinamit), hin:डायनामाइट (dāyanāmait), jpn:ダイナマイト (dainamaito)|dynamite|dynamite|dinamita|dinamite|динамит||甘油炸药|ダイナマイト|||||||||dynamiitti|dynamit
 dind:|dinde|biu|Meleagris|fra:dinde, rus:индюк (indyuk), tur:hindi, ara: دِيك هِنْدِيّ‎ (dīk hindiy)|turkey|dinde (dindon)|pavo (guajalote)|peru|индюк|دِيك رُومِيّ‎|火鸡|七面鳥|칠면조|gà tây|पीरू||kalkun (ayam belanda)|bata mzinga (piru)|hindi|meleagro|kalkkuna|indyk
 ding:|ding|||zho:钉 (dīng), yue:釘 (deng1), vie:đinh|nail (spike)||clavo (pincho, punta)||||钉子|||||||||najlo|naula (piikki)|kolec
 dione:|Dione|planete 6 lun 4|||Dione||||||||||||||||Dione|
 dior~it:|diorite||||diorite|diorite|diorita|diorito|диорит||闪长岩|閃緑岩||diorit|डायोराइट||diorit||diyorit|||dioryt
 dip:|dipe|||zho:低 (dī) + vie:thấp + khm:ទាប (diəp) + tur:dip + eng:deep|low (short, bottom)|bas|bajo||||低|低い|낮다|thấp|||||||matala|niski
-dip: mok:|dipe moke||||bush (shrub)|buisson|arbusto (mata)|arbusto (mata)|куст||灌木|灌木 (藪)|||झाड़ी||alas gandar|||||krzak (krzew)
 dip.if:|• dipife||||lower (put down)|baisser|bajar|||||||||||||||obniżać (obniżyć)
+dip~mok:|dipemoke||||bush (shrub)|buisson|arbusto (mata)|arbusto (mata)|куст||灌木|灌木 (藪)|||झाड़ी||alas gandar|||||krzak (krzew)
 dis:|dise||||disperse (spread out, scatter; sparse)||dispersar (esparcir, desmontar; escaso, disperso, ralo)|||||疎ら||||||||disigi|hajauttaa (hajanainen; hajalla)|rzadki (rozproszyć, rozpraszać;  rozrzedzony, rozproszony)
 disk:|diske|||eng:tur:disk, fra:disque, spa:por:disco, rus:диск (disk), hin:डिस्क (ḍisk), ben:ডিস্ক (ḑisk), jpn:ディスク (disuku), kor:디스크 (diseukeu)|disc (disk)|disque|disco|disco|диск|قُرْص|圆盘|ディスク (円盤)|디스크 (원반)|đĩa|डिस्क|ডিস্ক|cakram||disk|disko|kiekko (levy)|dysk
 dispros.ium:|disprosium|kimium 066|Dy|eng:dysprosium, fra:dysprosium, spa:disprosio, por:disprósio, rus:диспрозий, zho:镝 (dī), jpn:ジスプロシウム, kor:디스프로슘, vie:đysprosi, hin:डिस्प्रोसियम, ben:ডিসপ্রোসিয়াম, may:disprosium, swa:disprosi, ara: ديسبروسيوم|dysprosium|dysprosium|disprosio|disprósio|диспрозий|ديسبروسيوم|镝|ジスプロシウム|디스프로슘|đysprosi, đisprozi|डिस्प्रोसियम|ডিসপ্রোসিয়াম|disprosium|disprosi|disprosyum|disprozio|dysprosium|dysproz
@@ -937,9 +930,7 @@ fantas|fantas|||eng:fra:fantasy, spa:fantasía, por:swa:fantasia, rus:фанта
 fantom:|fantom|||eng:phantom, spa:por:fantasma, fra:fantôme, rus:фантом (fantom)|ghost (phantom)||fantasma|||||||||||||fantomo|kummitus (aave)|duch, fantom
 fars:i|farse||||Persian (Farsi)||farsi|||||||||||||persa|persia (farsi)|Pers; perski, farsi
 fas:|fase|||eng:fra:por:face, spa:faz, deu:Facette|surface (face)|face (facette)|faz (faceta)|face (faceta)|грань||面|面|면|||||||surfaco|pinta (tahko)|powierzchnia
-fas.karib:|fasokaribe||||shallow||||||||||||||||matala (ei syvä)|płytki
-fas.tel:|fasotele||||deep|profond|profundo (hondo)|profundo|глубокий|eamiq|深|深い|||gaharaa|gabhiira||dalam|derin||syvä|głęboki
-fas.tel:ia|fasotelia||||depth||superficial (poco profundo)||мелкий|||浅い|||||||||syvyys|głębokość
+fas.karib:|fasekaribe||||shallow||||||||||||||||matala (ei syvä)|płytki
 fas<poli:|• polifas||||polyhedron||poliedro||||||||||||||monitahokas|wielościan
 fasil:|fasile|||eng:facility, spa:por:fácil, fra:facile|easy|facile|fácil|fácil|лёгкий (простой)|||易しい|||||mudah|||facila|helppo|łatwy, prosty
 fasil:ia|• fasilia||||ease (facility)||facilidad|||||||||||||||
@@ -1068,16 +1059,16 @@ form<kon:|• konforme||||conform (fit, mold)||amoldarse||применяться
 form<ri:|• riforme||||reform|||||||||||||||||
 forum:|forum|||eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)|forum (public space)||foro (espacio público)|||||||||||||forumo|foorumi|forum
 fot:|fote|||ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-|light (illumination)|lumière|luz (iluminación)|luz|свет|نور‎|光|光|빛 (광)|ánh sáng|प्रकाश (रौशनी)|আলো|cahaya (nur)|mwanga (nuru)|ışık|lumo|valo|światło (jasny, świetlny)
-fot~baton:|fotobaton||||torch||antorcha|||||||||||||torĉo|soihtu|pochochodnia (latarka)
 fot~frik:a|fotofrike||||polish|poli|pulir (lustrar)||полировать||擦亮|光沢|||||||||kiillottaa|polerować (szlifować)
-fot~graf:|fotograf|||eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf|photograph|photographie|foto (fotografía)|foto (fotografia)||| 照片 (相片)|写真|사진|hình|फ़ोटो|ফটো|foto||fotoğraf|foto|valokuva (foto)|zdjęcie (fotografia)
+fot~gana:|fotegana||||torch||antorcha|||||||||||||torĉo|soihtu|pochochodnia (latarka)
+fot~graf:|fotografe|||eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf|photograph|photographie|foto (fotografía)|foto (fotografia)||| 照片 (相片)|写真|사진|hình|फ़ोटो|ফটো|foto||fotoğraf|foto|valokuva (foto)|zdjęcie (fotografia)
 fot~graf:ia|fotografia||||photography|photographie|fotografía|fotografia|фотография|||||||||||fotografio|valokuvaus|fotografia
 fot~graf.r:|fotografer||||photographer||fotógrafo|||||||||||||fotisto|valokuvaaja|fotograf
-fot~graf~maxin:|fotografomaxin||||camera||cámara|||||||||||||fotilo|kamera|kamera, aparat fotograficzny
+fot~graf~maxin:|fotografemaxin||||camera||cámara|||||||||||||fotilo|kamera|kamera, aparat fotograficzny
 fot~kabl:|fotokable||||optical fibre (optical cable)||||||光线||||||||||valokuitu (valokaapeli)|
-fot~minar:|fotominar||||beacon (lighthouse)|fanal (balise)|faro (baliza, almenara)|farol (baliza)|маяк||信号|狼煙 (ビーコン)|||||||||majakka|latarnia morska
 fot~rad:|fotorade||||ray of light||rayo luminoso||||||||||||||valonsäde|promień światła
 fot~sirk:|fotosirke||||halo (aureola)||halo (aureola)|||||||||||||halo|sädekehä (halo)|efekt halo
+fot~tor:|fototore||||beacon (lighthouse)|fanal (balise)|faro (baliza, almenara)|farol (baliza)|маяк||信号|狼煙 (ビーコン)|||||||||majakka|latarnia morska
 frag:|frage||||break (fracture)||||||||||||||||murtua (särkyä)|
 frag.bil:|• fragebil||||fragile||||||||||||||||särkyvä|
 frag.men:|• fragomen||||fragment|||||||||||||||||
@@ -1166,14 +1157,17 @@ gam~ma:|gamma||||mother-in-law|belle-mère|suegra|sogra||||||||||||bopatrino|ano
 gam~pa:|gampa||||father-in-law|beau-père|suegro|sogro||||||||||||bopatro|appi|
 gamb:ia|Gambia|gogia|GM||Gambia||Gambia||||||||||||||Gambia|Gambia
 gamel:|gamel|biu||ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia|camel||camello|||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
-gan:i|gane|||zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon), vie:cạn|dry||seco (árido; secar)|||||||||||||seka|kuiva (kuivata, kuivua)|suchy (suszyć )
-gan.cau:|gancau||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
-gan.mosim:|ganmosim|mosim|||dry season||||||||||||musim kemarau|||||
-gan.putau:|ganputau|||kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|raisin||pasa (uva pasa)|||||||||||||sekvinbero|rusina|rodzynka
-gan.tex:|gantexe||||towel|serviette|toalla|toalha|||||||तौलिया|||||viŝilo|pyyheliina|ręcznik
-gana:|Gana|gogia|GH||Ghana||Ghana||||||||||||||Ghana|Ghana
-gana:|gana|||heb: קָנֶה‎ (qané), ara: قَنَاة‎ (qanāh) + eng:cane, fra:canne, spa:caña, por:cana + zho:秆 (gǎn), yue:稈 (gon2) + (sugarcane) hin:गन्ना (gannā), pnb:ਗੰਨਾ (gannā)|reed (cane)|canne|caña|cana|||秆||||||||||ruoko|
+gan:|gan|||zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon), vie:cạn|dry||seco (árido; secar)|||||||||||||seka|kuiva (kuivata, kuivua)|suchy (suszyć )
+gan~cau:|gancau||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
+gan~mosim:|ganmosim|mosim|||dry season||||||||||||musim kemarau|||||
+gan~putau:|ganputau|||kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|raisin||pasa (uva pasa)|||||||||||||sekvinbero|rusina|rodzynka
+gan~tex:|gantexe||||towel|serviette|toalla|toalha|||||||तौलिया|||||viŝilo|pyyheliina|ręcznik
+gana;|Gana|gogia|GH||Ghana||Ghana||||||||||||||Ghana|Ghana
+gana:|gana|||heb: קָנֶה‎ (qané), ara: قَنَاة‎ (qanāh) + eng:cane, fra:canne, spa:caña, por:cana + zho:秆 (gǎn), yue:稈 (gon2), vie:cần, tha:คัน (khan) + (sugarcane) hin:गन्ना (gannā), pnb:ਗੰਨਾ (gannā)|bar (pole, rod, shaft, staff, stick)|bâton (canne, tige)|barra (vara, palo)|vara (bastão)|штанга|||||||||||stango|tanko (sauva, patukka)|pręt, kij
+gana~fit:|ganafite||||reed (cane)|canne|caña|cana|||秆||||||||||ruoko|
 gana~kalam:|ganakalam||||reed pen|calame|cálamo|cálamo|||蘆葦筆||||||kalam||kamış kalem|kalamo|ruokokynä|
+gana~kas:|ganakase||||cage|cage|jaula (caja)|gaiola (jaula)|клетка|قَفَص|笼|檻 (篭, ケージ)|우리|lồng|क़फ़स (पिंजड़ा)|খাঁচা|sangkar|tundu|kafes|kaĝo|häkki|klatka
+gana~pang:|ganapang||||baguette||baguette||||||||||||||patonki (ranskanleipä)|bagietka
 gand:|gande|||hin:गंध (gandh), ben:গন্ধ (gôndh)|scent (odor, fragrance, aroma)|odeur|olor (aroma)|cheiro|запах (аромат)||气味|香り (匂い, 臭い)|||गंध (बू)|গন্ধ|bau||||haju|zapach (aromat, smród, odór)
 gand:a|gande||||smell (sniff)|sentir qqch|oler (olfatear)||понюхать||闻到|嗅ぐ|||||||||haistaa|wąchać
 ganda:|Ganda|gogia|UG||Uganda||Uganda||||||||||||||Uganda|Uganda
@@ -2547,6 +2541,7 @@ mok.mat:|mokomate||||wood (timber)||madera||||木材|||||||||ligno|puuaines|drew
 mok.tan:|mokotan||||log (trunk)|bûche|leño (tronca)|tora|бревно||原木|丸木|||बोटा (कुन्दा)||balak|kinga (gogo)||||pień
 mok.zang.r:|mokozanger||||carpenter||carpintero||||木匠||||||||||puuseppä|stolarz
 mok.zong.park:|mokozongoparke||||arboretum|arboretum, pépinière|arboreto|||||||||||||arboĝardeno|arboretum (puulajipuisto)|arboretum
+mok~gana:|mokegana||||post (stake, peg, skewer)|pieu (poteau)|poste (estaca, palo)|poste (estaca)|кол||桩|杭|||||||||keppi|słup (pal, kołek)
 mol:|mole|||zho:磨 (mò), yue:磨 (mo4) tha:โม่ (mo), fra:moulin, spa:molino, rus:молоть  (molot’)|grind (grind in mill)|moudre|moler (pulverizar)|moer|молоть||||||||||||jauhaa|zemleć (mleć, mielić)
 mol.kan:|• molekan||||mill|moulin|molino|moenda (moinho)|мельница||磨坊||||चक्की||||||mylly|mielić
 mol.r:|• moler||||miller||molinero||||||||||||||mylläri|młynarz
@@ -3854,6 +3849,8 @@ tele.fon.lin:|telefonlin||||telephone line|ligne téléphonique|||телефон
 tele.lok:|teleloke||||teleport||teletransportarse||телепортировать|||瞬間移動||||||||||teleportować się
 tele.skop:|teleskope||||telescope|télescope (lunette)|telescopio|telescópio|телескоп||望远镜|望遠鏡 (テレスコープ)|망원경|kính thiên văn|दूरबीन|দূরবীন|teleskop|darubini|teleskop|teleskopo|kaukoputki (teleskooppi)|teleskop
 tele.uid:|televide||||television|téléviseur|televisión||телевизор||电视机|||||||||televidilo|televisio|telewizja
+tele~dip:|teledipe||||deep|profond|profundo (hondo)|profundo|глубокий|eamiq|深|深い|||gaharaa|gabhiira||dalam|derin||syvä|głęboki
+tele~dip:ia|• teledipia||||depth||superficial (poco profundo)||мелкий|||浅い|||||||||syvyys|głębokość
 telugu:|telugu|nas|||Telugu||télugu||||||||||||||telugu (eräs intialainen kieli)|telugu
 telur.ium:|telurium|kimium 052|Te|eng:tellurium, fra:tellure, spa:telurio, por:telúrio, rus:теллур, zho:碲 (dì), jpn:テルル, kor:텔루르, vie:telu, hin:टेलुरियम, ben:টেলুরিয়াম, may:telurium, swa:teluri, ara: تيلوريوم|tellurium|tellure|telurio|telúrio|теллур|تيلوريوم|碲|テルル|텔루르|telua, telu|टेलुरियम|টেলুরিয়াম|telurium|teluri|tellur|teluro|telluuri|tellur
 tem:|tem|||fra: thème, spa: tema, rus: тема (tema), deu:Thema + zho:题目 (tímù)|topic (subject, theme)|sujet (thème)|tema||тема||主题目|||||||||temo|aihe (teema)|temat, motyw
@@ -3925,10 +3922,10 @@ tip.loj:ia|• tipelojia||||typology||||||||||||||||typologia|
 tir:|tire|||spa:por:tirar, fra:tirer, eng:tear, tur:tire|pull (draw, drag)||tirar|||||||||||||tiri|vetää (kiskoa)|ciągnąć
 tir: milk:|tire milke||||milk (draw milk)|tirer|ordeñar||тянуть||拉|||||||||melki|lypsää maitoa|wydoić, doić
 tir: pil:|tire pil||||strip (peel)|écorce|quitar (pelar)||ободрать||削 (刮去)|はがす (剥ぐ)||||||||||obrać (obierać)
-tir.baton:|tirbaton||||lever||palanca||рычаг||杆|レバー (てこ)||||||||||dźwignia
-tir.long:a|tirlonge||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
-tir.riu:|tireriu||||rip current||corriente de resaca||отбойное течение|||離岸流||||||||||prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)
-tir.sanduk:|tirsanduke||||drawer||cajón (gaveta)||||||||||||||vetolaatikko|szuflada
+tir~gana:|tiregana||||lever||palanca||рычаг||杆|レバー (てこ)||||||||||dźwignia
+tir~long:|tirelonge||||stretch (extend)|tender|estirar (extender)|estirar|вытянуть||拉|伸びる (張る)||||||||||rozciągać (rozciągnąć)
+tir~riu:|tireriu||||rip current||corriente de resaca||отбойное течение|||離岸流||||||||||prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)
+tir~sanduk:|tiresanduke||||drawer||cajón (gaveta)||||||||||||||vetolaatikko|szuflada
 titan:|Titan|planete 6 lun 6|||Titan|||||||||||||||||
 titan:ia|Titania|planete 7 lun 4|||Titania|||||||||||||||||
 titan.ium:|titanium|kimium 022|Ti|eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم|titanium|titane|titanio|titânio|титан|تيتانيوم|钛|チタン|타이타늄|titan|टाइटानियम|টাইটেনিয়াম|titanium|titani|titan|titanio|titaani|tytan
@@ -4399,7 +4396,7 @@ zamb:ia|Zambia|gogia|ZM||Zambia||Zambia||Замбия|||||||||||Zambio|Sambia|Za
 zang:i|zange||||crafty (dexterous)||||||||||||||||kätevä|umiejętny (sprawny, zręczny)
 zang.r:|zanger|||zho:匠 (jiàng), tha:ช่าง (jang), khm:ជាង (ciəng)|artisan (craftsman)||artesano||||工匠 (匠人)|||||||||metiisto|artesaani (käsityöläinen)|rzemieślnik
 zar:|zar|||ara: زَهْر (zahr), tur:zar, fas: زار (zâr) + eng:hazard, spa:por:azar|hazard (chance; random)||riesgo (posibilidad; azar, aleatorio)|||||||||||||hazardo|sattuma (onni; sattumanvarainen)|niebezpieczeństwo (szansa; losowy)
-zar<dus:|• dusozar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
+zar<dus:|• dus zar||||misfortune (bad luck)||infortunio (mala suerte)||||||||||||||epäonni|zły los
 zar~kub:|zarkube||||die (dice)|dé|dado|dado|кость (кубик)|زَهْر اَلطَّاوِلَة|骰子 (色子)|賽子|주사위|xúc xắc|पासा||dadu|dadu|zar|ĵetkubo|noppa (arpakuutio)|kość do gry
 zardux:|Zardux||||Zoroaster|Zoroastre|Zoroastro||Зороастр|||||||||||Zoroastro|Zarathustra|Zaratusztra
 zardux.ism:|zarduxisme||||Zoroastrianism|zoroastrisme|zoroastrismo|||||||||||||zoroastrismo|zarathustralaisuus|zaratusztrianizm

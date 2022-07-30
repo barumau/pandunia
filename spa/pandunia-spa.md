@@ -24,8 +24,8 @@ a zai - ahora (actualmente)
 a zai den - hoy  
 a kon - juntos  
 abete - abeto  
-acara - encurtir  
-acari - encurtido  
+acar - encurtir  
+acar di - encurtido  
 aci - estornudar (achís)  
 acinium - actinio  
 ade - costumbre (hábito; ordinario, habitual)  
@@ -250,17 +250,17 @@ banan - plátano (banana)
 bande - banda  
 bandir - bandera  
 bangle - bengalí  
-Banglodex - Bangladés  
+Bangledex - Bangladés  
 banyakamar - baño  
 banke - ahorrar (reservar, depositar)  
 • bankekan - banco  
 • banker - banquero  
-bankorutia - bancarrota (quiebra)  
+bankerutia - bancarrota (quiebra)  
 banya - bañarse (baño)  
 bar - bar  
 bare - barrera (barda)  
 barium - bario  
-baromur - barrera (barda)  
+baremur - barrera (barda)  
 Barbados - Barbados  
 barbar - bárbaro  
 Barbuda - Barbuda  
@@ -278,15 +278,11 @@ barxekote - impermeable
 bas - bastante  
 basen - piscina (alberca, lavadero)  
 baske - cesta (canasta, barquilla, aro)  
-baske bol - baloncesto (básquetbol)  
+baskebol - baloncesto (básquetbol)  
 bate - ocho (8)  
 batosenter - pulpo  
 bata - pato  
 batakrote - ornitorrinco  
-baton - barra (vara, palo)  
-baton - poste (estaca, palo)  
-batonkase - jaula (caja)  
-batonpang - baguette  
 batre - pila (batería)  
 bau - tesoro (precioso)  
 bavite - piedra preciosa (joya, gema)  
@@ -387,8 +383,8 @@ bombe - bomba
 bon - bueno  
 bon zar - buena suerte  
 konbone - emparejar (quedar)  
-ribone - reparar (arreglar)  
-riboner - reparador  
+• ribone - reparar (arreglar)  
+• riboner - reparador  
 bore - aburrido  
 boria - aburrimiento  
 borium - bohrio  
@@ -409,7 +405,6 @@ brun - marrón
 brunalge - algas pardas  
 brunsalmon - trucha marrón  
 Brunei - Brunei  
-brus - hermano o hermana  
 bu! - bu!  
 bubu - coco  
 buce - carnear (matar)  
@@ -428,19 +423,19 @@ buke - libro
 bule - hervir (cocer)  
 bulbul - ruiseñor  
 bum - explosión (estallado)  
-bure - oficina  
-• bure di - oficial (formal, protocolario)  
-• burokratia - burocracia  
-burorite - etiqueta (protocolo)  
 burge - castillo (fortaleza)  
 Burkina Faso - Burkina Faso  
+buro - oficina  
+• buro di - oficial (formal, protocolario)  
+• burokratia - burocracia  
+burorite - etiqueta (protocolo)  
 bus - bus (autobús)  
 bus halte - parada de autobús  
 buste - pecho (busto)  
 bute - bota  
 buton - tecla (botón)  
 butonban - teclado  
-buze - cabra  
+buzi - cabra  
 
 ## C  
 
@@ -519,7 +514,7 @@ cita - guepardo (chita)
 code - joder (coger, copular)  
 coi - verduras  
 coklate - chocolate  
-coklatobaton - barra de chocolate  
+coklategana - barra de chocolate  
 cope - azada  
 core - robar (hurtar; robo, hurto)  
 • corer - ladrón  
@@ -636,18 +631,18 @@ deusofia - teosofía
 dike - apuntar (dirección)  
 • dikion - deíxis  
 • diker - puntero  
-dikebaton - puntero  
+dikegana - puntero  
 din - religión  
 • diniste - creyente  
 • andiniste - infiel (descreído)  
-dinoguru - sacerdote (clérigo, eclesiástico)  
+dinguru - sacerdote (clérigo, eclesiástico)  
 dinamite - dinamita  
 dinde - pavo (guajalote)  
 ding - clavo (pincho, punta)  
 diorite - diorita  
 dipe - bajo  
-dipe moke - arbusto (mata)  
 • dipife - bajar  
+dipemoke - arbusto (mata)  
 dise - dispersar (esparcir, desmontar; escaso, disperso, ralo)  
 diske - disco  
 disprosium - disprosio  
@@ -800,8 +795,6 @@ fantas - imaginar (fantasear; imaginación, fantasía)
 fantom - fantasma  
 farse - farsi  
 fase - faz (faceta)  
-fasotele - profundo (hondo)  
-fasotelia - superficial (poco profundo)  
 • polifas - poliedro  
 fasile - fácil  
 • fasilia - facilidad  
@@ -898,15 +891,15 @@ forme - forma (figura; formar)
 • konforme - amoldarse  
 forum - foro (espacio público)  
 fote - luz (iluminación)  
-fotobaton - antorcha  
 fotofrike - pulir (lustrar)  
-fotograf - foto (fotografía)  
+fotegana - antorcha  
+fotografe - foto (fotografía)  
 fotografia - fotografía  
 fotografer - fotógrafo  
-fotografomaxin - cámara  
-fotominar - faro (baliza, almenara)  
+fotografemaxin - cámara  
 fotorade - rayo luminoso  
 fotosirke - halo (aureola)  
+fototore - faro (baliza, almenara)  
 • naufrage - náufrago  
 Fransia - Francia  
 fransium - francio  
@@ -978,13 +971,16 @@ gamma - suegra
 gampa - suegro  
 Gambia - Gambia  
 gamel - camello  
-gane - seco (árido; secar)  
+gan - seco (árido; secar)  
 gancau - heno  
 ganputau - pasa (uva pasa)  
 gantexe - toalla  
 Gana - Ghana  
-gana - caña  
+gana - barra (vara, palo)  
+ganafite - caña  
 ganakalam - cálamo  
+ganakase - jaula (caja)  
+ganapang - baguette  
 gande - olor (aroma)  
 gande - oler (olfatear)  
 Ganda - Uganda  
@@ -2154,6 +2150,7 @@ mokomate - madera
 mokotan - leño (tronca)  
 mokozanger - carpintero  
 mokozongoparke - arboreto  
+mokegana - poste (estaca, palo)  
 mole - moler (pulverizar)  
 • molekan - molino  
 • moler - molinero  
@@ -3275,6 +3272,8 @@ telefonia - telefonía
 teleloke - teletransportarse  
 teleskope - telescopio  
 televide - televisión  
+teledipe - profundo (hondo)  
+• teledipia - superficial (poco profundo)  
 telugu - télugu  
 telurium - telurio  
 tem - tema  
@@ -3328,10 +3327,10 @@ tipe - tipo (género)
 tire - tirar  
 tire milke - ordeñar  
 tire pil - quitar (pelar)  
-tirbaton - palanca  
-tirlonge - estirar (extender)  
+tiregana - palanca  
+tirelonge - estirar (extender)  
 tireriu - corriente de resaca  
-tirsanduke - cajón (gaveta)  
+tiresanduke - cajón (gaveta)  
 titanium - titanio  
 tix - chito (chist)  
 • tixe - silencioso  
@@ -3719,7 +3718,7 @@ zaman - tiempo (era, periodo, época)
 Zambia - Zambia  
 zanger - artesano  
 zar - riesgo (posibilidad; azar, aleatorio)  
-• dusozar - infortunio (mala suerte)  
+• dus zar - infortunio (mala suerte)  
 zarkube - dado  
 Zardux - Zoroastro  
 zarduxisme - zoroastrismo  
