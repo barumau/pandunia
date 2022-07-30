@@ -1,4 +1,4 @@
-# halo, dunia!
+# sal, dunia!
 
 Tervehdys, maailma!
 Tervetuloa tutustumaan panduniaan, koko maailman apukieleen!

@@ -1,4 +1,4 @@
-# halo, dunia!
+# sal, dunia!
 
 Saluton, mondo!
 Bonvenon al lerni pri pandunio, la egale monda helpolingvo!

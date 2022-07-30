@@ -1,4 +1,4 @@
-# halo, dunia!
+# sal, dunia!
 
 ¡Hola, mundo!
 ¡Les damos la bienvenida a Pandunia, el idioma auxiliar que es equitativo a nivel global! 
