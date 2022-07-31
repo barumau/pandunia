@@ -28,7 +28,7 @@ adapter (ajuster) - hape
 adjectif - sifelexe  
 administrateur - politer  
 adresse - adres  
-adulte - sengjen  
+adulte - cengjen  
 adversaire (antagoniste, ennemi) - xatan  
 afghan - afgan  
 Afghanistan - Afgania  
@@ -111,7 +111,6 @@ appendre - apende
 appliquer (application) - aplike  
 apporter - laiane  
 apprendre (étudier) - xule  
-apprivoiser (dresser, dompter, discipliner) - dosile  
 approcher - aproxe  
 approprié (adapté, convenable, opportun) - hape  
 après-guerre - posgere  
@@ -133,7 +132,7 @@ argile - glutofan
 argon - argon  
 argument - argum  
 arme - arme  
-armure - defkaske  
+armure - defekaske  
 armée - orde  
 armée de l'ai - airorde  
 arobase (@) - adresoharfe  
@@ -179,6 +178,7 @@ autopsie - nekrotome
 autre (changer) - ale  
 avant - pre  
 avant-guerre - pregere  
+avec (commun) - kon  
 aventure - ventur  
 aventurier - venturer  
 avis (opinion) - rai  
@@ -267,7 +267,7 @@ bohrium - borium
 bombe - bombe  
 bon - bon  
 boron - boron  
-botanique - fitolojia  
+botanique - fitelojia  
 botte - bute  
 boucher - bucer  
 bouclire - defeban  
@@ -361,16 +361,17 @@ caséine - kezeproten
 cauri - kauri  
 cellule sanguine (globule) - hemocel  
 cent (100) - sente  
-Centaurée - centaure  
-Centaurée bleuet - nilcentaur  
-Centaurée du solstice - solocentaur  
+centaure - kentaur  
+Centaurée - kentaurhua  
+Centaurée bleuet - nilkentaurhua  
+Centaurée du solstice - solkentaurhua  
 centre - zung  
-cerise - cerize  
+cerise - ceri  
 chachlik - xixmanse  
 chambre à coucher - somokamar  
 Champagne - xampan  
 champagne - xampan vin  
-champignon - fungopal  
+champignon - fungepal  
 chance - canse  
 changement climatique - klimomute  
 chanter (chanson) - cante  
@@ -387,7 +388,7 @@ chasser - yege
 chat - mau  
 chaudron - daipote  
 chaussure - sapate  
-chauve-souris - feimus  
+chauve-souris - feimux  
 chaux - kalsemate  
 chef - xefe  
 chemise - kamis  
@@ -408,11 +409,11 @@ chèque cadeau - donajoceke
 chèque de voyage - safaroceke  
 chéri - amike  
 chêne - balute  
-chêne pédonculé - europobalute  
+chêne pédonculé - europebalute  
 chœur - cantergrupe  
 ciel - ten  
 cigarette - sigare  
-cime (pic, sommet) - pike  
+cime (pic, sommet) - montepike  
 cimetière - gabrostan  
 cinq (5) - pente  
 cinéphile - kinofilike  
@@ -425,7 +426,7 @@ civique - sivike
 clair - klare  
 clairvoyant - klarvider  
 client - klien  
-cloche - danger  
+cloche - dang  
 clown (paillasse) - payace  
 cobalt - kobalte  
 coeur - kor  
@@ -433,7 +434,7 @@ collaborer - konkare
 coller - glute  
 colorant - rangomate  
 combava - karsolimon  
-comique - komi  
+comique - kome  
 comment - ke mode  
 commercer - vendexope  
 commission (comité) - konmisia  
@@ -474,7 +475,7 @@ contract (traité) - kontrate
 convenir (être approprié) - hapu  
 convention (alliance, pacte) - kontrete  
 copernicium - kopernikium  
-copie - kope  
+copie - kopiaje  
 coquelicot - medenpapil  
 corail - koral  
 corne - korne  
@@ -539,7 +540,7 @@ dandélion - makanful
 danger - hatre  
 danois - dane  
 dans le sens antihoraire - rotolefto  
-darmstadtium - darmositium  
+darmstadtium - darmesitium  
 dauphin - dolfin  
 de - de  
 de luxe - deluxe  
@@ -573,14 +574,12 @@ distinct (numérique) - feni
 distraire - distrate  
 diverger (ne pas être d'accord) - aloraye  
 divers (plusieurs) - vare  
-docile (insipide) - dosile  
+dix (10) - des  
 doctrine - dokaje  
 document - dokum  
 documentaire - dokumfilme  
 domaine - dominia  
 domestique - domike  
-domestiquer (apprivoiser) - dosilgenite  
-domestiqué (apprivoisé) - dosilgene  
 dommage - avar  
 données - date  
 dormir (sommeil) - some  
@@ -607,6 +606,7 @@ décharge - lasastan
 déchirer - cire  
 défigurer - dusforme  
 déféquer - defeke  
+délai (retard) - dele  
 dénoncer (annoncer la fin d’un accord) - denunce  
 désaccord (différend) - alorayia  
 désert - sablestan  
@@ -641,7 +641,7 @@ ennemi - dusjen
 enseigner - xulize  
 ensommeillé (somnolent) - somive  
 ensuite (après, plus tard, ir a, en el futuro) - poso  
-entonnoir - darotube  
+entonnoir - dartube  
 entrer - intre  
 entrer en éruption - exrute  
 envelopper (emballer) - lifafe  
@@ -654,7 +654,7 @@ et - i
 ethnie (ethnique) - zuke  
 Europe - Europe  
 europium - europium  
-européen - europe  
+européen - europan  
 exact (précis) - juste  
 exclure - exkluze  
 exclusif - exkluzive  
@@ -705,10 +705,10 @@ fil de trame - veilin
 fils ou fille - ben  
 fin - fin  
 fiord - fiorde  
-fleur - ful  
+fleur - hua  
 flotter - boi  
 fluor - flurium  
-flèche - flece  
+flèche - bana  
 flérovium - flerovium  
 foie - hepate  
 foin - gancau  
@@ -741,7 +741,7 @@ gadolinium - gadolinium
 galaxie - galaxia  
 gallium - galium  
 galop - galope  
-garde-boue (aile) - fangodefoban  
+garde-boue (aile) - fangedefoban  
 gauche - leve  
 gaufre - vafle  
 Gaule - Galia  
@@ -802,7 +802,7 @@ gêner (déranger, perturber) - turbe
 
 ## H  
 
-habiller (vêtir) - fuke  
+habiller (vêtir) - fukize  
 hache - futau  
 hafnium - hafnium  
 haine - hen  
@@ -971,7 +971,7 @@ lapin (lièvre) - tuze
 lapis-lazuli - lazurite  
 lasagne - lazanya  
 latéral - latedike  
-lave - fuzopetre  
+lave - fuzepetre  
 lawrencium - laurensium  
 le (la) - la  
 lent - anhaste  
@@ -1063,7 +1063,7 @@ marguerite - bakumargarite
 mariage - gamia  
 Maroc - Magribia  
 Mars - Marse  
-marécage (marais) - fangostan  
+marécage (marais) - fangestan  
 masque - maske  
 masse - mas  
 match - mace  
@@ -1138,7 +1138,7 @@ multiple - multeple
 mur - mur  
 musique - muzike  
 musli - musli  
-mycélium - fungonete  
+mycélium - fungenete  
 mâcher (mastiquer) - katade  
 mât - maste  
 mère (maman) - mai  
@@ -1151,7 +1151,7 @@ méfait (péché) - duskar
 mémoire - meme  
 méninge - meninge  
 métaux lourds - veze metal  
-mûr (mature) - seng  
+mûr (mature) - ceng  
 
 ## N  
 
@@ -1176,6 +1176,7 @@ nickel - nikel
 nid - nide  
 nihonium - niponium  
 niobium - niobium  
+niveau (étage) - cang  
 niveau - parestan  
 nobélium - nobelium  
 noir - kara  
@@ -1226,7 +1227,7 @@ oeuf - ove
 oie - ganse  
 oignon - piaze  
 oiseau - pakse  
-ombrelle (parasol) - solocate  
+ombrelle (parasol) - solcate  
 on - men  
 oncille - bagroselote  
 onde - onde  
@@ -1401,7 +1402,7 @@ pore - pore
 poreux - porosi  
 porte - porta  
 porte-bloc (planchette à pince) - pinsoban  
-porter (s’habiller) - fuku  
+porter (s’habiller) - be fuke  
 porter - porte  
 Porto Rico - Portoriko  
 Portoricain - portorike  
@@ -1412,7 +1413,7 @@ post-production - posprodute
 posture (position) - asan  
 postérieur - postre  
 pot (vase, jarre, carafe, cruche) - pote  
-pot de fleur - fulpote  
+pot de fleur - huapote  
 potassium - kalium  
 poterie - poteria  
 potier - poter  
@@ -1434,7 +1435,6 @@ presse-papier - kategluteban
 pression - prese  
 pression atmosphérique - airbaria  
 pressoir - preser  
-preuve - dalil  
 prison (geôle) - jelekan  
 problème - problem  
 problématique - problemike  
@@ -1752,7 +1752,7 @@ théosophie - deusofia
 tige - tan  
 tigre - bagre  
 tire à l'arc - arkeria  
-tirer - tire milke  
+tirer - trate milke  
 tissu - texe  
 titane - titanium  
 titre - temnam  
@@ -1771,7 +1771,7 @@ tourbe - turfe
 tourelle - torete  
 touriste - safariste  
 tourner (rotationner) - rotate  
-Tournesol - soloful  
+Tournesol - solhua  
 toxicologie - toxolojia  
 toxine - biotoxe  
 trace - marke  
@@ -1893,7 +1893,7 @@ voûte - arkocate
 vrai - vere  
 vraiment - a vere  
 vulve - vulve  
-végétarien - fitoyamiste  
+végétarien - fiteyamiste  
 Vénus - Venus  
 vétérinaire - zootiber  
 vêtements - fuke  
@@ -1932,7 +1932,7 @@ zèbre - zebra
 école primaire - bazexulekan  
 école secondaire - zungxulekan  
 économie - malonomia  
-écorce - tire pil  
+écorce - depile  
 écrire (écriture) - kitabe  
 écureuil - ekore  
 éducation - xulia  
@@ -1943,7 +1943,7 @@ zèbre - zebra
 élevage - zoagria  
 élever - genite  
 éloge - euloge  
-élément (unité fondamentale) - em  
+élément (unité fondamentale) - eme  
 élément chimique - kimium  
 émeraude - zumurude  
 émir - amirer  

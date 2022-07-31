@@ -101,6 +101,7 @@
 **bambu** *bambu* ← englanti:bamboo, ranska:bambou, espanja:portugali:bambu, venäjä:бамбук (bambuk), malaiji:bambu  
 **bamia** *okra* ← arabia: بَامْيَة‎ (bāmya), suahili:bamia, amhara:ባሚያ (bamiya), turkki:bamya, persia: بامیه‎ (bâmiye), venäjä:бамия (bamiya)  
 **ban** *lauta (paneeli)* ← yleiskiina:板 (bǎn)kantoninkiina:板 (baan2), japani:板 (ban), korea:판자 (panja), vietnami:bảng, thai:บาน (baan) + malaiji:papan + suahili:bao + englanti:espanja:panel, ranska:panneau, venäjä:панель, turkki:pano  
+**bana** *nuoli* ← hindi:बाण (bāṇ), telugu:బాణము (bāṇamu), malaiji:panah  
 **banan** *banaani* ← wolof:banaana, venäjä:банан (banan), puola:banan, ranska:deu:banane, portugali:espanja:englanti:banana, japani:バナナ (banana), korea:바나나 (banana)  
 **bande** *ryhmä (työryhmä, yhtye, bändi)* ← yleiskiina:班 (bān), kantoninkiina:班 (baan1), vietnami:ban, korea:반 (ban), + englanti:deu:band, ranska:bande, venäjä:банда (banda), espanja:portugali:filippiini:puola:banda, japani:バンド (bando)  
 **bandir** *lippu* ← englanti:banner, ranska:bannière, espanja:bandera, portugali:bandeira, malaiji:suahili:bendera, filippiini:bandila  
@@ -153,6 +154,7 @@
 **bilor** *kristalli* ← arabia: بِلَّوْر‎ (billawr), hindi:बिल्लौर (billaur), malaiji:hablur, turkki:billûr, amhara:በሉር (bälur) + espanja:abalorio  
 **binde** *täplä (läiskä)* ← hindi:बिंदु (bindu), thai:พินทุ (pintu), englanti:bindi (holy dot), venäjä:бинди (bindi)  
 **bine** *koota (rakentaa; rakennus)* ← arabia:(banā), hindi: बनाना (banānā), urdu:(banānā), persia:(banā), turkki: bina, japani:ビル (biru)  
+**bing** *kannu (maljakko)* ← yleiskiina:瓶 (píng), kantoninkiina:瓶 (ping4), wu-kiina:瓶 (bín), japani:瓶 (bin), korea:병 (byeong), vietnami:bình  
 **bir** *olut (kalja)* ← englanti:beer, turkki:bira, ranska:bière, arabia: بيرة (bīra), malaiji:bir, hindi:बियर (biyar), suahili:bia, yleiskiina:啤(酒) pí(jiǔ), japani:ビール (bīru)  
 **birkan** *baari (kapakka)* ← englanti:bar, hindi:बार (bār), espanja:bar, yleiskiina:酒吧 (jiǔbā), venäjä:бар (bar)  
 **bis** *muunsukupuolinen* ← bug:bissu  
@@ -207,6 +209,7 @@
 **camaca** *lusikka* ← persia:(čamče), pandzabi:ਚਮਚਾ (camcā), bangla:চামচ (camôc), hindi:चम्मच (cammac), kannada:ಚಮಚ (camaca), thai:ช้อน (chon)  
 **campion** *mestari (voittaja)* ← englanti:ranska:champion, espanja:campeón, portugali:campeão, venäjä:чемпион (chempion), turkki:şampiyon, japani:チャンピオン (chanpeon), korea:챔피언 (chaempieon)  
 **can** *tehdä (valmistaa)* ← yleiskiina:產 (chǎn), kantoninkiina:產 (caan2), vietnami:sản, japani:產 (san), korea:산 (-san-) + arabia:(ṣanaʿa), suahili:sanaa, turkki:sanat  
+**cang** *kerros* ← yleiskiina:层 (céng), kantoninkiina:層 (cang4), korea:층 (cheung), vietnami:tầng + min-kiina:棧 (chàn) + khmer:ជាន់ (cŏən) , thai:ชั้น (chan)  
 **canse** *mahdollisuus (tilaisuus)* ← ranska:englanti:espanja:portugali:chance, japani:チャンス (chansu), korea:찬스 (chanseu), venäjä:шанс (šans), turkki:şans, hindi:चांस (cāns)  
 **cante** *laulaa (laulu)* ← ranska:chanter, englanti:chant, portugali:espanja:cantar, + yleiskiina:唱 (chàng), kantoninkiina:唱 (coeng3), korea:창 (chang)  
 **capati** *chapati* ← hindi:चपाती (ćapātī), urdu:(ćapātī), englanti:suahili:chapati, venäjä:чапати (čapati), burma:ချပါတီ (kyapati)  
@@ -217,11 +220,10 @@
 **cau** *ruoho* ← yleiskiina:草 (cǎo), kantoninkiina:草 (cou2), wu-kiina:草 (tshau2), japani:草 (sō), vietnami:tháu  
 **ceke** *šekki* ← englanti:espanja:portugali:cheque, ranska:chèque, venäjä:чек (ček), arabia: شِيك‎ (šēk), japani:チェック (chekku), vietnami:séc, hindi:चेक (cek), bangla:চেক (cek), malaiji:cek, ind:cheki  
 **cel** *solu* ← malaiji:sel, persia:sellul, thai:เซลล์ (seel), suahili:seli, filippiini:selula, englanti:cell, ranska:cellule, espanja:célula  
-**ceng** *kerros* ← yleiskiina:层 (céng), kantoninkiina:層 (cang4), wu-kiina:層 (zen3), korea:층 (chŭng), vietnami:tầng  
-**centaure** ** ← englanti:centaury, portugali:centáurea  
+**ceng** *kypsä (aikuinen)* ← yleiskiina:成 (chéng), kantoninkiina:成 (sing4), japani:成 (sei), korea:성 (seong) + khmer:ឆ្អិន (chʼən)  
 **cepe** *ottaa kiinni (napata, kaapata, siepata)* ← englanti:reception, deu:Rezeption, ranska:réception, espanja:recepción, portugali:recepção, venäjä:рецепция (recepciya), japani:レセプション (resepushon), korea:리셉션 (risepsyeon)  
 **ceresium** *cerium* ← englanti:cerium, ranska:cérium, espanja:cerio, portugali:cério, venäjä:церий, yleiskiina:铈 (shì), japani:セリウム, korea:세륨, vietnami:xeri, hindi:सेरियम, bangla:সেরিয়াম, malaiji:serium, suahili:seri, arabia: سيريوم  
-**cerize** *kirsikka* ← englanti:cherry, ranska:cerise, espanja:cereza, portugali:cereja, venäjä:черешня (čerešnya), arabia:(karaz), turkki:kiraz, hindi:गिलास (gilās), bangla:চেরি  (ceri), malaiji:ceri, japani:チェリー (cherī), korea:체리 (cheri)  
+**ceri** *kirsikka* ← englanti:cherry, ranska:cerise, espanja:cereza, portugali:cereja, venäjä:черешня (čerešnya), arabia:(karaz), turkki:kiraz, hindi:गिलास (gilās), bangla:চেরি  (ceri), malaiji:ceri, japani:チェリー (cherī), korea:체리 (cheri)  
 **cese** *päästä (mennä läpi)* ← englanti:access, espanja:acceso, portugali:acesso, ranska:accès, malaiji:akses, japani:アクセス (akusesu)  
 **cesium** *cesium* ← englanti:caesium, ranska:césium, espanja:cesio, portugali:césio, venäjä:цезий, yleiskiina:铯 (sè), japani:セシウム, korea:세슘, vietnami:xezi, hindi:सीज़ियम, bangla:সিজিয়াম, malaiji:sesium, suahili:sizi, arabia: سيزيوم  
 **cete** *seitsemän (7)* ← espanja:siete, portugali:sete, ranska:sept, hindi:सात (sāt), bangla:সাত (sat), + yleiskiina:七 (qī), kantoninkiina:七 (chat1), wu-kiina:七 (cieʔ), korea:칠 (chil), japani:七 (shichi), thai:เจ็ด (chet) + turkki:yedi  
@@ -237,27 +239,26 @@
 **code** *nussia (panna)* ← hindi:चोदना (codnā), bangla:চোদা (coda) + yleiskiina:肏 (cào)  
 **coi** *vihannes* ← yleiskiina:菜 (cài), kantoninkiina:菜 (coi3), englanti:-choy, malaiji:-coy  
 **coklate** *suklaa* ← espanja:portugali:englanti:chocolate, ranska:chocolat, venäjä:шоколад (šokolad), yleiskiina:巧克力 (qiǎokèlì), japani:チョコレート (chokorēto), korea:초콜렛 (chokollet), vietnami:sôcôla, hindi:चाकलेट (cāklet), bangla:চকলেট (côkleṭ), malaiji:cokelat, suahili:chokoleti, turkki:çikolata  
-**cope** *kuokka* ← yleiskiina:锄 (chú), kantoninkiina:鋤 (co4), thai:จอบ (chop), turkki:çapa  
+**cope** *kuokka* ← yleiskiina:锄 (chú), kantoninkiina:鋤 (co4), thai:จอบ (chop), turkki:çapa + englanti:chop  
 **core** *varastaa (varkaus)* ← hindi:marathi:चोरी (corī), urdu:(corī), thai:โจร (chon), malaiji:curi, bangla:চুরি (curi)  
 **Cosen** *Korea* ← korea:조선 (Joseon), japani:朝鮮 (chōsen), yleiskiina:朝鲜 (zh) (Cháoxiǎn)  
 **cuke** *koskea (koskettaa)* ← yleiskiina: 触 (chù), kantoninkiina:觸 (cuk1), japani:触 (shoku), korea:촉 (chok) + hindi: छूना (chūnā), pandzabi:ਛੂਹਣਾ (chūhṇā)  
 **cum** *suukko (pusu)* ← hindi:चूमना (cūmnā), urdu:(cūmnā), malayalam:ചുംബനം (cumbanaṃ), malaiji:cium, japani:チュー (chū), thai:จูบ (cup)  
 **cupe** *imeä* ← espanja:portugali:chupar, khmer:ជប់ (cup) + hindi:चूसना (cūsnā)  
 **cute** *poistua* ← yleiskiina:出 (chū), hakkakiina:(chut), korea:출 (chul), hindi:छूटना (chūtnā) + turkki:çıkmak  
-**cuze** *valita (valinta, vaali)* ← englanti:choose, + hindi:चुनना (cunnā), + vietnami:chọn  
+**cuze** *valita (valinta, vaali)* ← englanti:choose + hindi:चुनना (cunnā), + vietnami:chọn  
 **dai** *iso (suuri; suurentua, kasvaa kokoa)* ← kantoninkiina:大 (daai), yleiskiina:大 (dá), vietnami:đại, japani:(dai, tai), korea:대— (dae-)  
 **daihai** *valtameri* ← yleiskiina:大海 (dàhǎi), japani:大海 (taikai), korea:대양 (daeyang), vietnami:đại dương, hindi:महासागर (mahāsāgar), bangla:মহাসমুদ্র (môhaśmudr), thai:มหาสมุทร (mahasamut)  
 **dake** *peittää (peite, kansi)* ← hindi:ढकना (dhaknā), bangla:ঢাকা (ḍhaka), pandzabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, englanti:deck  
-**dalil** *todiste (todistus, osoitus, demonstraatio)* ← arabia:(dalil), bangla:দলিল (dôlil), suahili:dalili, turkki:delil  
 **dam** *tumma (hämärä, pimeä)* ← yleiskiina:暗 (àn), kantoninkiina:暗 (am3), japani:暗 (an), korea:암 (am), vietnami:ám + englanti:dim  
 **dama gem** *tammipeli* ← ranska:jeu de dames, arabia:(dāmā), malaiji:dam, espanja:portugali:damas, deu:Damespiel  
 **dane** *siemen* ← persia: دانه‎ (dāna), hindi:दाना (dānā), turkki:tane + japani:種 (tane) + yleiskiina:弹 (dàn), vietnami:đạn, korea:탄알 (tanal)  
-**dange** *kilistää (soittaa kelloa)* ← englanti:dong, portugali:dlim-dlão, espanja:tilín, yleiskiina:叮 (dīng), japani:がんがん (gangan), thai:กระดิ่ง (grà-dìng)  
+**dang** *kello (soittokello; soida, kilistä)* ← englanti:dong + persia: زنگ‎ (zang), turkki:çan + yleiskiina:钟 (zhōng), kantoninkiina:鐘 (zung1), korea:종 (jong), vietnami:chuông, khmer:ចួង (cuəng) + venäjä:звон (zvon)  
 **danse** *tanssi* ← englanti:ranska:dance, espanja:danza, portugali:dança, deu:Tanz, venäjä:танец (taněc), turkki:dans, japani:ダンス (dansu), korea:댄스 (daenseu), suahili:dansi  
 **dante** *hammas* ← espanja:diente, portugali:dente, ranska:dent, englanti:dental, hindi:दाँत (dā̃t), bangla:দাঁত (dãtô), pan:ਦੰਦ (dand), malaiji:danta  
-**dare** *virta (virtaus)* ← hindi:धारा (dhārā), telugu:ధార (dhāra) + persia: دریا‎ (daryâ), hin:दर्या (daryā), bangla:দরিয়া (dôriẏa), turkki:derya  
+**dar** *virta (virtaus)* ← hindi:धारा (dhārā), telugu:ధార (dhāra) + persia: دریا‎ (daryâ), hin:दर्या (daryā), bangla:দরিয়া (dôriẏa), turkki:derya  
 **darge** *porras (aste, taso)* ← arabia:(daraja), hindi:दर्जा (darjā), suahili:daraja, turkki:derece, persia:(dareje), malaiji:derajat, + yleiskiina:阶 (jiē)  
-**darmositium** *darmstadtium* ← englanti:darmstadtium, ranska:darmstadtium, espanja:darmstatio, portugali:darmstádio, venäjä:дармштадтий, yleiskiina: (dá), japani:ダームスタチウム, korea:다름슈타튬, vietnami:darmstadti, hindi:डार्म्स्टेडशियम, bangla:ডারমস্টাডটিয়াম, malaiji:darmstadtium, suahili:darmstadti, arabia: دارمشتاتيوم  
+**darmesitium** *darmstadtium* ← englanti:darmstadtium, ranska:darmstadtium, espanja:darmstatio, portugali:darmstádio, venäjä:дармштадтий, yleiskiina: (dá), japani:ダームスタチウム, korea:다름슈타튬, vietnami:darmstadti, hindi:डार्म्स्टेडशियम, bangla:ডারমস্টাডটিয়াম, malaiji:darmstadtium, suahili:darmstadti, arabia: دارمشتاتيوم  
 **darte** *maa (multa; mutainen, likainen)* ← englanti:dirt, hindi:धरती (dhartī), urdu:(dhartī), vietnami:đất, malaiji:darat  
 **date** *data (numeerinen tieto)* ← englanti:malaiji:data, vietnami:đa ta, deu:Daten, espanja:filippiini:datos, portugali:dados, persia:(dâde-hâ), hindi:डेटा (ḍeṭā), urdu:(ḍeṭā), japani:データ (dēta)  
 **dau** *tie* ← yleiskiina:道 (dào), kantoninkiina:道 (dou6), japani:道 (dō), korea:도 (do), vietnami:đạo  
@@ -265,11 +266,11 @@
 **defe** *puolustaa (puolustus)* ← arabia: دِفَاع (difāʿ), hindi:दफ़ा (dafā), persia:urdu:  دفاع  (difā'), + ranska:englanti:defense, espanja:defensa, portugali:defesa, turkki:defans  
 **dege** *saada (hankkia, ansaita)* ← yleiskiina:得 (dé), kantoninkiina:得 (dak1), korea:득 (deuk), vietnami:được  
 **deke** *moraali* ← yleiskiina:德 (dé), kantoninkiina:德 (dak1), japani:德 (toku), korea:덕 (deok), vietnami:đức  
+**dele** *viive (odotus)* ← englanti:delay, ranska:délai + hindi:देरी (derī), urdu: دیر‎ (der)  
 **deme** *väestö (kansa; kansan-, julkinen)* ← englanti:espanja:demo-, ranska:démo-, venäjä:демо- (demo-)  
 **demokratia** *demokratia* ← englanti:democracy, venäjä:демократия (demokratiya), espanja:democracia, ranska: portugali: deu: arabia:(dīmukratiya), suahili:demokrasia  
 **demon** *demoni (piru)* ← englanti:turkki:demon, espanja:demonio, portugali:demônio, ranska:démon, deu:Dämon, venäjä:демон (demon)  
 **den** *vuorokausi* ← venäjä:день (deń), hindi:दिन (din), bangla:দিন (din) + yleiskiina:天 (tiān), kantoninkiina:天 (tin1) + espanja:día, portugali:dia  
-**denge** *odottaa* ← yleiskiina:等 (děng), kantoninkiina:等 (dang2)  
 **des** *kymmenen (10)* ← portugali:dez, espanja:diez, ranska:dix, venäjä:десять (desyat'), puola:dziesięć, hindi:दस (das), urdu:(das), bangla:দশ (dôś), + englanti:deci-, malaiji:desi-, japani:デシ- (deshi), deu:dezi-  
 **desen** *piirustus* ← englanti:design, espanja:diseño, venäjä:дизайн (dizain), turkki:desen, hindi:डिज़ाइन (ḍizāin), japani:デザイン (dezain)  
 **detal** *yksityiskohta (detalji)* ← englanti:detail, espanja:detalle, portugali:detalhe, ranska:détail, deu:Detail, venäjä:дета́ль (detal’)  
@@ -290,7 +291,6 @@
 **done** *antaa* ← ranska:donner, englanti:donate, espanja:portugali:donar  
 **dong** *itä* ← yleiskiina:东 (dōng), kantoninkiina:東 (dōng), vietnami:đông, korea:동 (dong), turkki:doğu  
 **dos** *vika (synti)* ← malaiji:dosa, hindi:दोष (doś), thai:โทษ (toot(sa))  
-**dosile** *kesy* ← englanti:ranska:italia:docile, espanja:portugali:dócil  
 **doste** *ystävä (kaveri; ystävällinen)* ← hindi:दोस्त (dost), bangla:দোস্ত (dośt), yleiskiina:朵斯提 (duǒsītí), persia: دوست (dost), turkki:dost  
 **dotor** *tohtori* ← portugali:doutor, italia:dottore, englanti:espanja:doctor, venäjä:доктор (doktor)  
 **dou** *papu tai herne* ← yleiskiina:豆 (dòu), kantoninkiina:豆 (dau6), wu-kiina:豆 (deu3), japani:豆 (tō), korea:두 (du), vietnami:đậu  
@@ -304,8 +304,8 @@
 **duke** *suru (murhe; surullinen; surra, murehtia)* ← hindi:दुःख (duḥkh), bangla:দুঃখ (dukhô), thai:ทุกข์ (tuk), malaiji:duka, englanti:dukkha  
 **duman** *savu* ← hindi:धूआँ (dhuã), turkki:duman, venäjä:дым (dym), kannada:(dhūma), bangla:ধোঁয়া (dhõẇa)  
 **duna** *dyyni (kinos)* ← englanti:ranska:dune, espanja:portugali:duna, venäjä:дюна (diuna) + vietnami:đụn, korea:둔(덕) (dun(deok))  
-**dungia aventur** *luolaseikkailu* ← englanti:dungeon, ranska:donjon, japani:ダンジョン (danjon)  
 **dunia** *maailma* ← arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), bangla:দুনিয়া (duniya), malaiji:suahili:dunia, turkki:dünya, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya  
+**dunjia aventur** *luolaseikkailu* ← englanti:dungeon, ranska:donjon, japani:ダンジョン (danjon)  
 **dur** *kestää (kulua, viedä aikaa; kestoaika, kesto, aika)* ← englanti:duration, ranska:durée, espanja:portugali:durar + bangla:ধরে (dhôre), hindi:दौरान (daurān)  
 **dus** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
 **duxe** *suihku* ← ranska:douche, espanja:portugali:ducha, deu:Dusche, venäjä:душ (duš), arabia: دوش (dūš), malaiji:dus, turkki:duş  
@@ -317,7 +317,7 @@
 **ekran** *kuvaruutu* ← ranska:écran, portugali:ecrã, venäjä:экран (ekran), puola:turkki:ekran, kat:ეკრანი (eḳrani)  
 **eletre** *sähkö* ← portugali:eletricidade, italia:elettricità, englanti:electricity, venäjä:электричество (električestvo), ranska:électricité, espanja:electricidad, turkki:elektrik  
 **elfe** *haltia (tonttu)* ← englanti:elf, espanja:portugali:elfo, ranska:elfe, venäjä:эльф (el’f), japani:エルフ (erufu), korea:엘프 (elpeu)  
-**em** *elementti (yksinkertaisin yksikkö)* ← englanti:-eme, espanja:portugali:-ema, ranska:-ème, venäjä:-ема (-ema), malaiji:-em  
+**eme** *elementti (yksinkertaisin yksikkö)* ← englanti:-eme, espanja:portugali:-ema, ranska:-ème, venäjä:-ема (-ema), malaiji:-em  
 **emote** *tuntea (kokea tunteita)* ← englanti:emotion, ranska:émotion, espanja:emoción, portugali:emoção, venäjä:эмоция (emociya), malaiji:emosi, filippiini:emosyon  
 **energe** *energia* ← englanti:energy, espanja:energía, portugali:energia, ranska:énergie, venäjä:энергия (energiya), turkki:enerji, persia:انرژی‎ (enerži), japani:エネルギー (enerugī)  
 **enjener** *insinööri* ← englanti:engineer, espanja:ingeniero, portugali:engenheiro, venäjä:инженер (inzhener), hindi:marathi:इंजीनियर (iñjīniyar), japani:エンジニア (enjinia)  
@@ -331,7 +331,6 @@
 **europium** *europium* ← englanti:europium, ranska:europium, espanja:europio, portugali:európio, venäjä:европий, japani:ユウロピウム, korea:유로퓸, vietnami:europi, hindi:युरोपियम, bangla:ইউরোপিয়াম, malaiji:europium, suahili:europi, arabia: يروبيوم  
 **exa** *eksa-* ← englanti:ranska:espanja:portugali:exa, venäjä:экза- (ekza-), malaiji:eska-, yleiskiina:艾可萨- (àikěsà-), japani:エクサ (ekusa), korea:엑사- (eksa-)  
 **exe** *ulkopuoli (ulko-; ulkoinen)* ← englanti:ranska:espanja:ex-, portugali:ex- (es-), venäjä:экзо- (ekzo-), malaiji:eks-  
-**fade** *jakaa (jaella)* ← yleiskiina:发 (fā), kantoninkiina:發 (faat3), wu-kiina:發 (faq4), japani:発 (hatsu), vietnami:phát  
 **faide** *hyöty (hyödyllisyys, etu; hyödyllinen)* ← arabia:(fāʾida), turkki:fayda, suahili:faida, hindi:फ़ायदा (fāyadā), malaiji:faedah  
 **faine** *hieno (hienojakoinen)* ← englanti:fine, espanja:portugali:fino, ranska:fin  
 **false** *väärä (epätosi, vale-)* ← englanti:false, espanja:portugali:falso, ranska:faux, deu:falsch  
@@ -369,11 +368,11 @@
 **fiorde** *vuono* ← nor:englanti:fjord, ranska:malaiji:fiord, portugali:fiorde, espanja:fiordo, venäjä:фьорд (f’ord), japani:フィヨルド (fiyorudo)  
 **firuze** *turkoosi* ← per:(firuze), turkki:firuze, arabia:(fayrūz), suahili:feruzi, hindi:फीरोज़ा (phīrozā), bangla:ফিরোজা (phiroja), malaiji:pirus, venäjä:бирюза (biryuza)  
 **fite** *kasvi* ← englanti:phyto-, -phyte, deu:ranska:phyto-, espanja:portugali:fito-, venäjä:фито- (fito-)  
-**fixe** *kiinnittää* ← englanti:fix, ranska:fixer,ficher, espanja:fijar, portugali:fixar  
+**fixe** *kiinnittää* ← englanti:fix, ranska:fixer;ficher, espanja:fijar, portugali:fixar, deu:fixieren  
 **fizike** *fysiikka* ← englanti:physics, espanja:portugali:física, venäjä:физика (fizika), turkki:malaiji:fizik, arabia:فِيزِيقَا‎ (fīzīqā), suahili:fizikia, hindi:फ़िज़िक्स (fiziks)  
 **flam** *liekki* ← englanti:flame, ranska:flamme + yleiskiina:炎 (yán), kantoninkiina:炎 (jim4), korea:염 (yeom), vietnami:viêm  
-**flece** *nuoli* ← espanja:portugali:flecha, ranska:flèche, englanti:fletch  
 **flerovium** *flerovium* ← englanti:malaiji:flerovium, ranska:flérovium, espanja:flerovio, portugali:fleróvio, venäjä:флеровий, yleiskiina: (fū), japani:フレロビウム, korea:플레로븀, vietnami:flerovi, suahili:flerovi  
+**flexe** ** ← englanti:flex, ranska:fléchir, espanja:portugali:flexionar + deu:Reflex, venäjä:рефлекс, turkki:refleks  
 **flurium** *fluori* ← englanti:fluorine, ranska:fluor, espanja:flúor, portugali:flúor, venäjä:фтор, yleiskiina:氟 (fú), japani:フッ素, korea:플루오르, vietnami:flo, hindi:फ्लोरीन, bangla:ফ্লুরিন, malaiji:fluor, suahili:florini, arabia: فلور  
 **fobe** *pelko (pelottaa; pelätä; pelokas)* ← englanti:-phobia, espanja:portugali:malaiji:-fobia, ranska:deu:-phobie, venäjä:-фобия (-fobiya), turkki:-fobi  
 **fokus** *keskittyminen (keskittymä)* ← englanti:focus, espanja:portugali:foco, deu:Fokus, venäjä:фо́кус, persia:فوکوس‎ (fokus)  
@@ -390,9 +389,7 @@
 **frasen** ** ← ranska:frêne, espanja:fresno, portugali:freixo, italia:frassino + venäjä:ясень (yasen’), puola:jesion  
 **frem** *kehys (raamit)* ← englanti:frame, bangla:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), marathi:फ्रेम (phrēma), suahili:fremu  
 **frike** *hangata* ← englanti:friction, espanja:portugali:friccionar, ranska:frictionner + arabia:فرك (farak)  
-**fuge** *palauttaa* ← yleiskiina:复 (fù), kantoninkiina:(fuk), vietnami:phục  
 **fuke** *vaate (puku)* ← yleiskiina:服 (fú), kantoninkiina:服 (fuk6), japani:服 (fuku), korea:의복 (uibok), vietnami:y phục  
-**ful** *kukka* ← hausa:fure, igbo:ifulu, lingala:folele, hindi:फूल (phul), bangla:ফুল (phul), ranska:fleur, portugali:espanja:flor, englanti:flower  
 **fun** *pöly (tomu)* ← yleiskiina:粉 (fěn), hakkakiina:粉 (fun), thai:ฝุ่น (fùn)  
 **funce** *toiminta (funktio)* ← englanti:function, espanja:portugali:funcionar, ranska:fonctionner, venäjä:функциони́ровать (funkcionirovat’), malaiji:berfungsi  
 **funcuper** *pölynimuri* ← yleiskiina:吸尘器 (xīchénqì), deu:Staubsauger  
@@ -537,6 +534,7 @@
 **horloger** *kello (ajannäyttäjä)* ← lat:horologium, ranska:horloge, italia:orologio, espanja:reloj, portugali:relógio, malaiji:arloji  
 **hormon** *hormoni* ← englanti:ranska:hormone, espanja:hormona, venäjä:гормон (gormon), turkki:malaiji:hormon, arabia:هُرْمُون‎ (hurmūn), hindi:हॉर्मोन (hŏrmon), yleiskiina:荷尔蒙 (hé'ěrméng), japani:ホルモン (horumon)  
 **hotel** *hotelli* ← englanti:deu:espanja:portugali:malaiji:hotel, ranska:hôtel, hindi:होटल (hoṭal), bangla:হোটেল (hoṭel), japani:ホテル (hoteru), korea:호텔 (hotel), venäjä:отель (otel), suahili:hoteli  
+**hua** *kukka* ← yleiskiina:花 (huā), kantoninkiina:花 (faa1), vietnami:hoa, korea:화 (hwa) + suahili:ua  
 **hui** *tuhka* ← yleiskiina:灰 (huĭ), kantoninkiina:灰 (fui), japani:灰 (hai) + korea:회색 (hoesaeg)  
 **huke** *koukku (haka)* ← englanti:hook, deu:Haken, venäjä: гак (gak), puola:hak, hindi:हुक (huk), bangla:হুক (huk), malaiji:hak  
 **huli** *kettu* ← yleiskiina:狐狸 (húlí), kantoninkiina:狐狸 (wu4 lei4-2), wu-kiina:狐狸 (hhu li3), korea:호리 (hori), vietnami:hồ li  
@@ -674,6 +672,7 @@
 **keke** *kakku (keksi)* ← englanti:cake, venäjä:кекс (keks), arabia:(kaʿka), hindi:केक (kek), japani:ケーキ (kēki), suahili:keki, turkki:kek  
 **kelele** *meteli* ← suahili:Kongo:makelele  
 **kenar** *reuna (ääri)* ← turkki:kenar, hindi:किनारा (kinārā), urdu:(kanārā)  
+**kentaur** *kentauri* ← englanti:centaur, ranska:centaure, espanja:portugali:centauro, venäjä:кентавр (kentavr), hindi:सेंटूर (seṇṭūr), arabia: قَنْطُور‎ (qanṭūr), turkki:kentaur, suahili:kentauro, japani:ケンタウロス (Kentaurosu), korea:켄타우로스 (kentauroseu)  
 **kerube** *kerubi* ← heb:כְּרוּב‎ (kerúv), englanti:cherub, espanja:querubín, portugali:querubim, ranska:chérubin, venäjä:херувим (heruvim), suahili:kerubi, malaiji:kerub, yleiskiina:基路伯 (jīlùbó)  
 **ketle** *kattila* ← englanti:kettle, venäjä:котёл (kot’ol), hindi:केतली (ketlī), bangla:কেতলি (ketli), malaiji:ketel  
 **kex** *hius (karva, tukka, hiukset)* ← japani:毛 (ke) + hindi:केश (keś), urdu:(keś), pandzabi:ਕੇਸ਼ (keś), telugu:(kēśamu)  
@@ -704,16 +703,14 @@
 **kola** *cola* ← englanti:espanja:cola, venäjä:кола (kola), hindi:कोला (kolā), japani:コラ (kora)  
 **kolonia** *kolonia (siirtomaa)* ← englanti:colony, espanja:colonia, portugali:colônia, venäjä:колония (koloniya), turkki:ma:koloni, hindi:कॉलोनी (kŏlonī), japani:コロニー  
 **kolum** *pylväs (pilari)* ← englanti:column, espanja:columna, portugali:coluna, ranska:colonne, venäjä:колонна (kolonna), puola:kolumna  
-**komale** *pehmeä* ← hindi:कोमल (komal), telugu:కోమలము (kōmalamu), khmer:កោមល (kaomɑl)  
-**kome** *pilkku* ← englanti:comma, deu:Komma, japani:コンマ (konma), korea:콤마 (komma), malaiji:koma  
-**komi** *koominen (hauska)* ← englanti:comic, ranska:comique, espanja:portugali:cómico + venäjä:комедия (komedija), japani:コメディ (komedi), korea:코미디 (komidi)  
+**koma** *pilkku* ← englanti:comma, deu:Komma, japani:コンマ (konma), korea:콤마 (komma), malaiji:koma  
+**kome** *koominen (hauska)* ← englanti:comic, ranska:comique, espanja:portugali:cómico + venäjä:комедия (komedija), japani:コメディ (komedi), korea:코미디 (komidi)  
 **kompania** *yritys (yhtiö)* ← englanti:company, hindi:कंपनी (kampanī), venäjä:компания (kompaniya), filippiini:kompanya, puola:kompania  
-**komune** *yhteinen* ← englanti:common, espanja:común, portugali:comum, ranska:commun, venäjä:коммунальный (kommunal’nyy)  
+**kon** *kanssa (yhdessä; yhteinen)* ← englanti:con-; common, ranska:con-; commun, espanja:con-; común, portugali:con-; comum, venäjä:кон- (kon-) + yleiskiina:共 (gòng), kantoninkiina:共 (gung), korea:공 (gong), vietnami:cộng  
 **koncung** *hyönteinen (ötökkä)* ← yleiskiina:昆蟲 (kūnchóng), kantoninkiina:昆蟲 (kwan1 cung4), nan:昆蟲 (khun-thiông), japani:昆蟲 (konchū)  
 **kong** *reikä* ← yleiskiina:孔 (kǒng), kantoninkiina:孔 (hung2), wu-kiina:孔 (khon2), japani:孔 (kō), korea:공 (gong), vietnami:hỏng  
 **konserte** *konsertti* ← englanti:ranska:concert, espanja:concierto, portugali:concerto, deu:Konzert, venäjä:концерт (koncert), malaiji:turkki:konser, japani:コンサート (konsāto), korea:콘서트 (konseoteu), hindi:कॉन्सर्ट (kŏnsarṭ)  
 **konus** *kartio (keila)* ← englanti:portugali:cone, ranska:cône, espanja:cono, venäjä:конус, malaiji:kon, suahili:turkki:koni  
-**kope** *kopio (jäljennös)* ← englanti:copy, ranska:copie, espanja:portugali:copia, venäjä:копия (kopiya), hindi:कापी (kāpī), turkki:kopya, malaiji:kopi, yleiskiina:拷貝 (kǎobèi), japani:コピー (kopī)  
 **kopernikium** *copernicium* ← englanti:ranska:copernicium, espanja:copérnico, portugali:copernício, venäjä:коперниций, japani:コペルニシウム, korea:코페르니슘, vietnami:copernici, malaiji:copernicium, suahili:kopernici  
 **kor** *ydin (sydän)* ← englanti:core, ranska:coeur  
 **koral** *koralli* ← englanti:espanja:portugali:coral, ranska:corail, deu:Koralle, venäjä:коралл + malaiji:karang  
@@ -967,6 +964,7 @@
 **narake** *helvetti* ← hindi:नरक (narak), bangla:নরক (nôrôk), pan:ਨਰਕ (nark), marathi:नर्क (nark), telugu:నరకము (narakamu), tamili:நரகம் (narakam), malaiji:neraka, thai:นรก (ná-rók), japani:奈落 (naraku)  
 **narde** *backgammon* ← persia:urdu: نرد‎ (nard), venäjä:нарды (nardy)  
 **narke** *huume* ← englanti:narcotic, ranska:narcotique, espanja:portugali:narcótico, venäjä:наркотик (narkotik), malaiji:narkotik  
+**narme** *pehmeä* ← persia: نرم‎ (narm), hindi:नरम (naram), bangla:নরম (nôrôm) + arabia: نَاعِم‎ (nāʿim) + thai:นุ่ม (num)  
 **nasibe** *määrä (päämäärä, kohtalo)* ← arabia:نَصِيب (naṣīb), persia:نصیب‎ (nasib), turkki:nasip, suahili:nasibu, malaiji:nasib, hindi:नसीब (nasīb), bangla:নসীব (nôśib), pan:ਕਿਸਮਤ (nasīb)  
 **nate** *syntyä (synty, syntymä)* ← englanti:ranska:nature, deu:Natur, portugali:natureza, espanja:naturaleza  
 **natrium** *natrium* ← englanti:sodium, ranska:sodium, espanja:sodio, portugali:sódio, venäjä:натрий, yleiskiina:钠 (nà), japani:ナトリウム, korea:나트륨, vietnami:natri, hindi:सोडियम, bangla:সোডিয়াম, malaiji:natrium, suahili:natiri  
@@ -1127,7 +1125,7 @@
 **pos** *seuraus* ← englanti:ranska:post-, espanja:pos, portugali:pós-, venäjä:после- (posle-)  
 **pospor** *fosfori* ← englanti:phosphorus, ranska:phosphore, espanja:fósforo, portugali:fósforo, venäjä:фосфор, vietnami:photpho, hindi:फास्फोरस, bangla:ফসফরাস, malaiji:fosfor, suahili:posfori, arabia: فوسفور  
 **poste** *postittaa* ← englanti:post, portugali:postagem, ranska:poste, venäjä:почта (pochta), arabia:بوسطة‎ (busṭa), suahili:posta, malaiji:pos  
-**pote** *pata (ruukku, kannu, maljakko)* ← englanti:ranska:pot, espanja:portugali:pote, malaiji:poci, japani:ポット (potto), korea:포트 (poteu)  
+**pote** *ruukku (pata)* ← englanti:ranska:pot, espanja:portugali:pote, malaiji:poci, japani:ポット (potto), korea:포트 (poteu)  
 **poyu** ** ← ranska:pou, portugali:piolho, espanja:piojo  
 **poze** *panna (asettaa; asetelma)* ← englanti:espanja:portugali:ranska:pose, deu:Pose, venäjä:поза (poza), japani:ポーズ (pōzu)  
 **prasedium** *praseodyymi* ← englanti:praseodymium, ranska:praséodyme, espanja:praseodimio, portugali:praseodímio, venäjä:празеодим, japani:プラセオジム, korea:프라세오디뮴, vietnami:prazeođim, hindi:प्रासियोडाइमियम, bangla:প্র্যাসেওডিমিয়াম, malaiji:praseodinium, suahili:praseodimi, arabia: براسوديميوم  
@@ -1248,7 +1246,6 @@
 **selge** ** ← arabia:سلق (silqa), espanja:portugali:acelga  
 **semente** *sementti* ← englanti:cement, malaiji:semen, espanja:cemento, suahili:sementi, turkki:çimento, vietnami:xi măng, hindi:सीमेंट (siment), venäjä:цемент (tsement), arabia:(ʾasmant), korea:시멘트 (simenteu)  
 **sene** *ikä* ← arabia: سِنّ‎ (sinn), hindi:सिन (sin) + espanja:portugali:sene + yleiskiina:岁 (suì), kantoninkiina:歲 (seoi3), korea:세  (-se), japani:歳 (-sai)  
-**seng** *kypsä (aikuinen)* ← yleiskiina:成 (chéng), kantoninkiina:成 (sing4), japani:成 (sei), korea:성 (seong)  
 **sense** *aisti* ← englanti:sense, espanja:portugali:sentido, ranska:sens  
 **sente** *sata (100)* ← ranska:cent, englanti:cent-, espanja:cien, portugali:cem, venäjä:сто (sto), hindi:शत (śat), bangla:শত (śôt) + japani:パーセント (pasēnto), korea:퍼센트 (peosenteu), malaiji:persen  
 **sente** *tuntea* ← espanja:portugali:sentir  
@@ -1379,7 +1376,7 @@
 **tike** *suikale (siivu)* ← persia: تکه (tekke), hindi:टिक्का (ṭikkā) + englanti:deu:ticket, malaiji:tiket, bangla:টিকিট (ṭikiṭ), amharabia:ቲኬት (tiket), korea:티켓 (tiket), japani:チケット (chiketto)  
 **tim** *joukkue (tiimi)* ← englanti:team, deu:Team, suahili:timu, hindi:टीम (ṭīm), japani:チーム (chīmu), korea:팀 (tim)  
 **tipe** ** ← englanti:ranska:type, espanja:portugali:tipo, ru:тип (tip), turkki:tip, japani:タイプ (taipu)  
-**tire** *vetää (kiskoa)* ← espanja:portugali:tirar, ranska:tirer, englanti:tear, turkki:tire  
+**tire** *ampua* ← ranska:tirer, espanja:portugali:tirar + persia: تیر (tir), hindi:तीर (tīr), bangla:তীর (tir)  
 **titanium** *titaani* ← englanti:titanium, ranska:titane, espanja:titanio, portugali:titânio, venäjä:титан, yleiskiina:钛 (tài), japani:チタン, korea:타이타늄, vietnami:titan, hindi:टाइटानियम, bangla:টাইটেনিয়াম, malaiji:titanium, suahili:titani, arabia: تيتانيوم  
 **tix** *hiljaa (hys, shhh)* ← venäjä:тишина (tišina) + englanti:shh, ranska:chut, rus:ш-ш-ш, yleiskiina:噓 (xū), japani:しーっ (shīt), korea:쉿 (swit), turkki:sus  
 **tize** *terävä (kimeä, nokkela, napakka, jne)* ← persia: تیز (tiz), hindi:तेज़ (tez), turkki:tez  
@@ -1574,6 +1571,8 @@
 **zung** *keskus (keskikohta)* ← yleiskiina:中 (zhōng), kantoninkiina:中 (zung), korea:중 (jung), japani:中 (chuu-), vietnami:trung  
 **• furia** *viha (suuttumus, raivo)* ← englanti:fury, espanja:puola:furia, portugali:fúria  
 **• karekan** *paja (työpaja)* ← englanti:workshop, persia:کارخانه‎ (kârxâne), hindi:कारख़ाना (kārxānā), bangla:কারখানা (karôkhana), yleiskiina:工厂 (gōngchǎng)  
+**• konike** *yhteinen* ← englanti:common, espanja:común, portugali:comum, ranska:commun, venäjä:коммунальный (kommunal’nyy)  
+**• kopiaje** *kopio (jäljennös)* ← englanti:copy, ranska:copie, espanja:portugali:copia, venäjä:копия (kopiya), hindi:कापी (kāpī), turkki:kopya, malaiji:kopi, yleiskiina:拷貝 (kǎobèi), japani:コピー (kopī)  
 **• moter** *moottori* ← englanti:espanja:portugali:turkki:malaiji:motor, fra;moteur, venäjä:мотор (motor), arabia:(mutūr), yleiskiina:摩托 (mótuō), japani:モーター (mōtā), korea:모터 (moteo), vietnami:mô-tơ, hindi:मोटर (moṭar), bangla:মোটর (moṭôr), suahili:mota  
 **• nasia** *kansakunta* ← arabia:(nās) + englanti:ranska:nation, deu:Nazion, portugali:nação, espanja:nación, puola:nacja, venäjä:нация (natsiya)  
 **• partia** *osapuoli (puolue)* ← englanti:party, deu:Partei, espanja:portugali:partido, ranska:partie, turkki:parti, puola:partia, venäjä:партия (partiya)  

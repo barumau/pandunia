@@ -283,6 +283,8 @@ bambu - bambu
 bamia - okra  
 ban - lauta (paneeli)  
 bangem - lautapeli  
+bana - nuoli  
+• banafater - nuolentekijä  
 banan - banaani  
 bande - ryhmä (työryhmä, yhtye, bändi)  
 bandir - lippu  
@@ -397,6 +399,7 @@ binite - tiili
 bineplania - arkkitehtuuri  
 bineplaner - arkkitehti  
 binde - täplä (läiskä)  
+bing - kannu (maljakko)  
 bir - olut (kalja)  
 birkan - baari (kapakka)  
 bis - muunsukupuolinen  
@@ -500,6 +503,8 @@ can - tehdä (valmistaa)
 • canivaje - lannoite  
 koncanisme - kommunismi  
 koncaniste - kommunisti  
+can hua - kukkia  
+cang - kerros  
 canse - mahdollisuus (tilaisuus)  
 cante - laulaa (laulu)  
 cantergrupe - kuoro  
@@ -517,9 +522,8 @@ ceke - šekki
 cel - solu  
 celolojia - soluoppi (sytologia)  
 celsius darge - celsiusaste  
-ceng - kerros  
-seng - kypsä (aikuinen)  
-sengjen - aikuinen  
+ceng - kypsä (aikuinen)  
+cengjen - aikuinen  
 cengnan - mies  
 cengni - nainen  
 cense - sensuroida  
@@ -534,7 +538,7 @@ cepe - ottaa kiinni (napata, kaapata, siepata)
 • receper - vastaanottaja  
 Ceres - Ceres  
 ceresium - cerium  
-cerize - kirsikka  
+ceri - kirsikka  
 Cernagore - Montenegro  
 cese - päästä (mennä läpi)  
 • acese - saavuttaa (päästä tykö)  
@@ -551,7 +555,7 @@ cete - seitsemän (7)
 cetoden - viikko  
 Cile - Chile  
 cili - paprika  
-cili fun - paprikajauhe  
+cilifun - paprikajauhe  
 cimpanze - simpanssi  
 cin - vanhempi (isä tai äiti)  
 cinbrusben - serkku  
@@ -571,7 +575,7 @@ Cipia - Albania
 cire - repiä  
 circire - raastaa (repiä riekaleiksi)  
 cite - lainata (siteerata)  
-citomarke - lainausmerkki  
+citemarke - lainausmerkki  
 cita - gepardi  
 code - nussia (panna)  
 • codekan - ilotalo  
@@ -588,7 +592,7 @@ cuke - koskea (koskettaa)
 cum - suukko (pusu)  
 cupe - imeä  
 cute - poistua  
-cutomun - uloskäynti  
+cutemun - uloskäynti  
 cuze - valita (valinta, vaali)  
 • cuzebil - vaihtoehto  
 
@@ -611,29 +615,27 @@ daisite - suurkaupunki
 daixulkan - yliopisto  
 dake - peittää (peite, kansi)  
 • andake - paljastaa  
-dalil - todiste (todistus, osoitus, demonstraatio)  
-dalile - todistaa  
 dam - tumma (hämärä, pimeä)  
 dama gem - tammipeli  
 dane - tanskalainen  
 Dania - Tanska  
 dane - siemen  
 • danike - siemen-  
-danograne - siemenjyvä  
-dange - kilistää (soittaa kelloa)  
-danger - soittokello  
+dangrane - siemenjyvä  
+dang - kello (soittokello; soida, kilistä)  
 danse - tanssi  
 dante - hammas  
-dantobrox - hammasharja  
-dantokume - hammasvalli  
-dantotiber - hammaslääkäri  
-dare - virta (virtaus)  
-darotube - lappo  
+dantebrox - hammasharja  
+dantekume - hammasvalli  
+dantetiber - hammaslääkäri  
+dar - virta (virtaus)  
+• daria - virta (suuri joki)  
+dartube - lappo  
 darge - porras (aste, taso)  
 • dusdarge - laskea tasoa  
 • sudarge - nostaa tasoa  
 dargemute - kehitys  
-darmositium - darmstadtium  
+darmesitium - darmstadtium  
 darte - maa (multa; mutainen, likainen)  
 darvinisme - darwinismi  
 darviniste - darwinisti  
@@ -650,7 +652,7 @@ dauban - liikennemerkki
 de - määritetyn määritteeseen liittävä partikkeli  
 de - luota (lähtien, -sta, -lta)  
 defe - puolustaa (puolustus)  
-defkaske - suojakypärä  
+defekaske - suojakypärä  
 • defer - puolustaja  
 defeban - suojakilpi  
 dege - saada (hankkia, ansaita)  
@@ -659,6 +661,7 @@ Deimos - Deimos
 deke - moraali  
 • dekelojia - etiikka (moraalioppi)  
 • sudeke - hyve  
+dele - viive (odotus)  
 deme - väestö (kansa; kansan-, julkinen)  
 demogider - demagogi  
 demografia - väestötiede (demografia)  
@@ -676,7 +679,6 @@ den catre - torstai
 den pente - perjantai  
 den sixe - lauantai  
 den cete - niedziela  
-denge - odottaa  
 des - kymmenen (10)  
 deskilo - sata tuhatta  
 dessixike - heksadesimaali  
@@ -737,11 +739,11 @@ dom - asua (asunto, koti)
 • domine - isännöidä (hallita, dominoida)  
 • domination - hallinta (dominointi)  
 • dominente - hallitseva  
+• dominia - hallinta-alue (hallintopiiri, dominio)  
 • dominer - isäntä  
 • domize - asuttaa  
 domzeze - kärpänen  
-• dominia - hallinta-alue (hallintopiiri, dominio)  
-Dominiki Komunkratia - Dominikaaninen Tasavalta  
+Dominikan Vakilkratia - Dominikaaninen Tasavalta  
 Dominika - Dominika  
 domino - dominopeli  
 done - antaa  
@@ -754,8 +756,6 @@ dong - itä
 Dong Timor - Itä-Timor  
 dos - vika (synti)  
 dose - syyllinen  
-dosile - kesyttää  
-dosile - kesy  
 doste - ystävä (kaveri; ystävällinen)  
 • dostia - ystävyys  
 • andoste - epäystävällinen  
@@ -785,7 +785,7 @@ duman - savu
 dunia - maailma  
 dunia baxe - maailmankieli  
 duna - dyyni (kinos)  
-dungia aventur - luolaseikkailu  
+dunjia aventur - luolaseikkailu  
 dur - kestää (kulua, viedä aikaa; kestoaika, kesto, aika)  
 • dura - jatko (jatkaa; jatkua)  
 • duro - vielä (yhä, jatkuvasti)  
@@ -814,15 +814,14 @@ ekore - orava
 ekran - kuvaruutu  
 Ekuador - Ecuador  
 eletre - sähkö  
-• eletre - sähköinen  
-• eletre kar - sähköauto  
 • eletrike - sähköinen  
 • eletrolojia - sähköoppi (elektroniikka)  
 • eletron - elektroni  
+eletregar - sähköauto  
 eletroposte (e-poste) - sähköposti  
 eletrorade - salama  
 elfe - haltia (tonttu)  
-em - elementti (yksinkertaisin yksikkö)  
+eme - elementti (yksinkertaisin yksikkö)  
 emote - tuntea (kokea tunteita)  
 • emotion - tunne (mielenliikutus)  
 emotohal - tunnetila (tuuli)  
@@ -854,8 +853,8 @@ eurasia - Euraasia
 eureke - löytää (keksiä)  
 euro - euro (€)  
 Europe - Eurooppa  
-europe - eurooppalainen  
-Europi Unia - Euroopan unioni  
+Europe Unia - Euroopan unioni  
+• europan - eurooppalainen  
 europium - europium  
 Europa - Europa-kuu  
 exe - ulkopuoli (ulko-; ulkoinen)  
@@ -867,19 +866,18 @@ exa - eksa-
 
 ## F  
 
-fade - jakaa (jaella)  
 faide - hyöty (hyödyllisyys, etu; hyödyllinen)  
 • faidaje - hyötyaines  
 faine - hieno (hienojakoinen)  
-falsvide - harhanäky (näköharha)  
+falsevide - harhanäky (näköharha)  
 famil - perhe  
 familnam - sukunimi  
 fan - palvoa (fanata; fani)  
 fanate - palvoa (fanata)  
 fanatike - fanaatikko  
 fange - muta (kura, lieju)  
-fangodefoban - lokasuoja  
-fangostan - suo (räme)  
+fangedefoban - lokasuoja  
+fangestan - suo (räme)  
 fantas - kuvitella (kuvittelu, mielikuvitus, fantasia)  
 fantom - kummitus (aave)  
 farse - persia (farsi)  
@@ -897,7 +895,7 @@ faze - vaihe (etappi)
 fe - tehdä (toimia)  
 febre - kuume  
 fei - lento (lentää)  
-feimus - lepakko  
+feimux - lepakko  
 feke - uloste (paska)  
 • defeke - ulostaa  
 femisme - feminismi  
@@ -929,7 +927,7 @@ fete - tehdä (toimia; teko, toimenpide)
 • infetion - infektio (tartunta)  
 • perfete - täydellinen  
 • rifete - tehdä uudestaan (toistaa)  
-fetobaxe - keinotekoinen kieli (tekokieli, keinokieli)  
+fetebaxe - keinotekoinen kieli (tekokieli, keinokieli)  
 fi - pah! (pyh!)  
 figur - hahmo (figuuri)  
 fikre - ajatella (miettiä; ajatus)  
@@ -952,8 +950,8 @@ fin - loppu (loppua; lopettaa)
 fiorde - vuono  
 firuze - turkoosi  
 fite - kasvi  
-fitoyamiste - kasvissyöjä  
-fitolojia - kasvitiede  
+fiteyamiste - kasvissyöjä  
+fitelojia - kasvitiede  
 fixe - kiinnittää  
 • fixation - kiinnitys (fiksaatio)  
 • afixe - liite  
@@ -964,10 +962,9 @@ fizike - fysiikka
 • fizikia - fysiikka  
 • fiziker - fyysikko  
 flam - liekki  
-flece - nuoli  
 flerovium - flerovium  
 • reflexe - heijastaa (taittaa takaisin)  
-• reflexon - heijastus  
+• reflexion - heijastus  
 • reflexor - heijastin  
 flurium - fluori  
 fobe - pelko (pelottaa; pelätä; pelokas)  
@@ -975,7 +972,6 @@ fobe - pelko (pelottaa; pelätä; pelokas)
 • fobante - pelottava  
 Fobos - Fobos  
 fokus - keskittyminen (keskittymä)  
-fokuse - keskittää  
 fole - hullu (mieletön)  
 folia - hulluus (mielettömyys)  
 fone - äänne (fooni)  
@@ -1014,24 +1010,18 @@ franse krepe - kreppi
 Franse Polinesia - Ranskan Polynesia  
 frem - kehys (raamit)  
 frike - hangata  
-fuge - palauttaa  
 fuke - vaate (puku)  
-fuke - pukea (vaatettaa)  
-fuku - pukeutua (pitää vaatetta yllään)  
-ful - kukka  
-fulopote - kukkamaljakko  
-fulu - kukkia  
-fulmosim - kevät  
-fulpote - kukkaruukku  
+• fukize - pukea (vaatettaa)  
+• be fuke - pukeutua (pitää vaatetta yllään)  
 fun - pöly (tomu)  
 funcuper - pölynimuri  
 funce - toiminta (funktio)  
 • funcebil - toimiva  
+• defunce - pois käytöstä  
 • dusfunce - toimintahäiriö  
+• konfuncebil - yhteensopiva (yhteentoimiva)  
 funge - sieni  
-fungopal - sienen hattu  
-• defunse - pois käytöstä  
-• dusfunse - toimintahäiriö  
+fungepal - sienen hattu  
 fure - vihainen (suuttunut)  
 • furia - viha (suuttumus, raivo)  
 furete - kärppä (fretti)  
@@ -1378,6 +1368,10 @@ horlogetore - kellotorni
 hormon - hormoni  
 Horvatia - Kroatia  
 hotel - hotelli  
+hua - kukka  
+huabing - kukkamaljakko  
+huamosim - kevät  
+huapote - kukkaruukku  
 hui - tuhka  
 huidarte - podsoli  
 huirang - harmaa  
@@ -1684,6 +1678,7 @@ Kenia - Kenia
 kenar - reuna (ääri)  
 kenare - reuna-  
 kenarfon - konsonantti  
+kentaur - kentauri  
 kerube - kerubi  
 ketle - kattila  
 kex - hius (karva, tukka, hiukset)  
@@ -1770,17 +1765,15 @@ kolonisme - kolonialismi
 koloniste - kolonialisti  
 koloner - kolonialisti  
 kolum - pylväs (pilari)  
-kome - pilkku  
-komi - koominen (hauska)  
-komodia - komedia (huvinäytelmä)  
-komale - pehmeä  
+kome - koominen (hauska)  
+• komodia - komedia (huvinäytelmä)  
+koma - pilkku  
 Komoro nesia - Komorit  
 kompania - yritys (yhtiö)  
-komune - jakaa yhteiseksi  
-komune - yhteinen  
-komunkratia - tasavalta  
-kon - yhteinen  
-kontre - mennä vasten  
+kon - kanssa (yhdessä; yhteinen)  
+• konife - jakaa yhteiseksi  
+• konike - yhteinen  
+• kontre - mennä vasten  
 Konakri Ginia - Guinea  
 koncung - hyönteinen (ötökkä)  
 kong - reikä  
@@ -1790,10 +1783,10 @@ kongfuzisme - kungfutselaisuus
 Konkani - konkani (eräs intialainen kieli)  
 konserte - konsertti  
 konus - kartio (keila)  
-kope - kopio (jäljennös)  
-kope - kopioida (jäljentää)  
-kopohake - kopiointioikeus (tekijänoikeus)  
 kopernikium - copernicium  
+kopi - kopioida (jäljentää)  
+• kopiaje - kopio (jäljennös)  
+kopihake - kopiointioikeus (tekijänoikeus)  
 kor - ydin (sydän)  
 • koraje - sisu  
 korarme - ydinase  
@@ -2282,6 +2275,7 @@ mongole - mongoli
 Mongolia - Mongolia  
 monster - hirviö  
 monte - vuori (mäki)  
+montepike - huippu  
 morfe - morfi  
 • morfeme - morfeemi  
 morte - kuolla (kuolema, kuolo; kuollut, vainaa)  
@@ -2363,6 +2357,7 @@ narke - huume
 • narke - huumattu (päihtynyt)  
 • narkiste - huumeriippuvainen (addikti)  
 • narkose - narkoosi  
+narme - pehmeä  
 nas - kansa  
 • nasia - kansakunta  
 • nasian - kansa  
@@ -2444,6 +2439,7 @@ Nikaragua - Nikaragua
 nikel - nikkeli  
 nil - sininen  
 nilbavite - safiiri  
+nilkentaurhua - ruiskaunokki  
 nilon - nailon  
 ninde - loukkaus (törkeys)  
 ninde - törkeä  
@@ -2723,7 +2719,6 @@ picea - kuusi (metsäkuusi)
 pige - pylly (takapuoli, pakarat)  
 pijin - kontaktikieli (pidgin)  
 pike - kärki (pää)  
-pike - huippu  
 pil - nahka (kuori, iho)  
 piloter - ohjaaja (pilotti, luotsi)  
 pin - piikki (pistin, neula)  
@@ -2817,7 +2812,7 @@ poste - postittaa
 postecape - postileima  
 poste kase - postilaatikko  
 postemarke - postileima  
-pote - pata (ruukku, kannu, maljakko)  
+pote - ruukku (pata)  
 poter - savenvalaja  
 poteria - keramiikka  
 poze - panna (asettaa; asetelma)  
@@ -3232,9 +3227,9 @@ soi - soija
 soimilke - soijamaito  
 soisaus - soijakastike  
 sol - aurinko  
-solocate - aurinkovarjo  
-solosistem - aurinkokunta  
-solostate - päivänseisaus  
+solcate - aurinkovarjo  
+solsistem - aurinkokunta  
+solestate - päivänseisaus  
 Solomon nesia - Salomon-saaret  
 some - nukkua (nukkuminen, uni)  
 • somive - unelias  
@@ -3447,8 +3442,8 @@ tike - suikale (siivu)
 tim - joukkue (tiimi)  
 Timor - Timor  
 • tipelojia - typologia  
-tire - vetää (kiskoa)  
-tire milke - lypsää maitoa  
+tire - ampua  
+• tiraje - ammus  
 tiresanduke - vetolaatikko  
 titanium - titaani  
 tix - hiljaa (hys, shhh)  
@@ -3493,6 +3488,7 @@ trate - vetää (kiskoa, raahata)
 • extrate - vetää ulos  
 • extrator - ulosvetäjä  
 • kontrate - sopimus  
+trate milke - lypsää maitoa  
 tren - juna  
 trendau - junarata (rautatie)  
 trenkaper - junakaappari  
@@ -3581,6 +3577,7 @@ vagine - emätin (vagina)
 vaginitis - emätintulehdus  
 vakile - edustaa  
 • vakiler - edustaja (asianajaja)  
+vakilkratia - tasavalta  
 vale - arvo (arvottaa)  
 • valaje - arvotavarat  
 • valure - arvotus  

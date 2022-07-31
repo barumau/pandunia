@@ -212,6 +212,8 @@ balutepal - żołądź
 bambu - bambus  
 ban - tablica (deska)  
 bangem - gra planszowa  
+bana - strzała (bełt)  
+• banafater - wytwórca łuków i strzał  
 banan - banan  
 bande - zespół (drużyna, grupa)  
 bandir - flaga, sztandar  
@@ -404,6 +406,8 @@ can - zrobić, robić, wyprodukować, produkować, wytworzyć, wytwarzać
 • canivaje - nawóz  
 koncanisme - komunizm  
 koncaniste - komunista  
+can hua - kwitnąć, rozkwitnąć, rozkwitać  
+cang - warstwa (poziom, piętro, kondygnacja)  
 canse - szansa  
 cante - śpiewać (piosenka, pieśń)  
 cantergrupe - chór  
@@ -420,24 +424,22 @@ ceke - czek
 cel - komórka (biologia)  
 celolojia - cytologia  
 celsius darge - stopień Celsjusza  
-ceng - warstwa (poziom, piętro, kondygnacja)  
-seng - dorosły, dojrzały  
-sengjen - osoba dorosła  
+ceng - dorosły, dojrzały  
+cengjen - osoba dorosła  
 cengnan - mężczyzna, dorosły samiec  
 cengni - kobieta, dorosła samica  
-centaure - chaber  
 cepe - złapać, łapać, schwytać, chwytać  
 • excepe - wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz)  
 Ceres - Ceres (planeta karłowata)  
 ceresium - cer  
-cerize - wiśnia (czereśnia)  
+ceri - wiśnia (czereśnia)  
 Cernagore - Czarnogóra  
 cesium - cez  
 cete - siedem (7)  
 cetoden - tydzień  
 Cile - Chile  
 cili - papryka  
-cili fun - papryka  
+cilifun - papryka  
 cimpanze - szympans  
 cin - rodzic (matka lub ojciec)  
 cinbrusben - kuzyn  
@@ -451,7 +453,7 @@ Cipia - Albania
 cire - drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)  
 circire - strzępić (drzeć)  
 cite - cytować  
-citomarke - cudzysłów  
+citemarke - cudzysłów  
 cita - gepard  
 code - jebać, kopulować  
 coi - zielenina  
@@ -467,7 +469,7 @@ cuke - dotyczyć
 cum - całus  
 cupe - ssać  
 cute - wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie)  
-cutomun - drzwi wyjściowe  
+cutemun - drzwi wyjściowe  
 cuze - wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)  
 • cuzebil - opcja (wybór)  
 
@@ -489,30 +491,27 @@ daipote - kocioł
 daixulkan - uniwersytet  
 dake - przykryć (przykrywać, ukryć, ukrywać; pokrycie; pokrywa, wieko, dekiel; pokład)  
 • andake - odsłonić, odsłaniać  
-dalil - dowód; zeznanie  
-dalile - dowieść, dowodzić; zeznać, zeznawać  
 dam - ciemny, słabo oświetlony  
 dama gem - warcaby  
 dane - duński  
 Dania - Dania  
 dane - ziarno (nasienie)  
 • danike - nasienny  
-danograne - ziarno, nasienie  
-dange - dzwonić (dźwięczeć, szczękać)  
-danger - dzwon (dzwonek)  
+dangrane - ziarno, nasienie  
+dang - dzwon (dzwonek; dzwonić, dźwięczeć, szczękać)  
 danse - taniec  
 dante - ząb  
-dantobalute - dąb zębaty  
-dantobrox - szczoteczka do zębów  
-dantotiber - dentysta  
-dare - latać (fruwać)  
-darotube - lejek  
+dantebalute - dąb zębaty  
+dantebrox - szczoteczka do zębów  
+dantetiber - dentysta  
+dar - latać (fruwać)  
+dartube - lejek  
 darge - stopień, poziom, ranga, klasa  
 • dusdarge - dezaktualizować (pogorszyć)  
 • sudarge - aktualizować (zaktualizować, ulepszać, ulepszyć)  
 dargemeden - gradient (gradacja, stopniowanie)  
 dargemute - rozwój  
-darmositium - darmsztadt  
+darmesitium - darmsztadt  
 darte - grunt (ziemia, próchnica; ziemny, glebowy, gruntowy))  
 darvinisme - darwinizm  
 darviniste - darwinista  
@@ -526,7 +525,7 @@ dau - droga, szosa, ulica
 de - z (partykuła posiadania)  
 de - z (od)  
 defe - obronić (chronić; obrona)  
-defkaske - zbroja  
+defekaske - zbroja  
 • defer - obrońca  
 defeban - tarcza  
 dege - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
@@ -534,6 +533,7 @@ deger - odbiorca
 deke - moralność, etyka  
 • dekelojia - etyka  
 • sudeke - cnota (moralność)  
+dele - czekać  
 deme - lud (społeczeństwo; publiczny)  
 demografia - demografia  
 demokrate - demokratyczny  
@@ -548,7 +548,6 @@ den catre - czwartek
 den pente - piątek  
 den sixe - sobota  
 den cete - niedziela  
-denge - czekać  
 des - dziesięć (10)  
 deskilo - dziesięć tysięcy  
 desen - rysunek, obraz  
@@ -598,7 +597,7 @@ dolfin - delfin
 dom - mieszkać (mieszkanie, dom)  
 • domize - dać mieszkanie (zakwaterować)  
 domzeze - mucha  
-Dominiki Komunkratia - Republika Dominikańska (Dominikana)  
+Dominikan Vakilkratia - Republika Dominikańska (Dominikana)  
 Dominika - Dominika (Wspólnota Dominiki)  
 domino - domino  
 done - dać, dawać  
@@ -609,10 +608,6 @@ Dong Timor - Timor Wschodni (Demokratyczna Republika Timoru Wschodniego)
 donggorila - goryl wschodni  
 dos - wina, grzech; defekt, wada  
 dose - winny  
-dosile - oswoić (oswajać, tresować, trenować)  
-dosile - oswojony (potulny, posłuszny)  
-dosilgene - udomowiony (domowy)  
-dosilgenite - udomowić (kultywować)  
 doste - przyjaciel  
 • dostia - przyjaźń  
 • andoste - wróg (nieprzyjaciel)  
@@ -639,7 +634,7 @@ duke - żal, smutek
 duman - dym  
 dunia - świat  
 dunia baxe - język świata, język ogólnoświatowy  
-dungia aventur - przygoda w lochu  
+dunjia aventur - przygoda w lochu  
 dur - trwać (zająć czas; przez; trwanie)  
 • dura - kontynuować; wznawiać, ponawiać  
 • duro - wciąż, nadal  
@@ -666,13 +661,12 @@ ekore - wiewiórka
 ekran - ekran  
 Ekuador - Ekwador  
 eletre - elektryczność  
-• eletre - elektryczny  
 • eletrike - elektryczny  
 • eletrolojia - elektronika  
 • eletron - elektron  
 eletroposte (e-poste) - poczta elektroniczna  
 eletrorade - piorun (grom)  
-em - pierwiastek (jednostki podstawowej)  
+eme - pierwiastek (jednostki podstawowej)  
 emote - czuć, odczuć, odczuwać  
 • emotion - emocja, uczucie  
 • emotos - emocjonalny (uczuciowy)  
@@ -699,25 +693,24 @@ eurasia - Eurazja
 eureke - znaleźć, znajdywać, odkryć, odkrywać  
 euro - euro (€)  
 Europe - Europa  
-europe - europejski  
-Europi Unia - Unia Europejska (EU)  
-europobalute - dąb szypułkowy  
+Europe Unia - Unia Europejska (EU)  
+• europan - europejski  
+europebalute - dąb szypułkowy  
 europium - europ  
 exe - zęwnętrzny  
 
 ## F  
 
-fade - dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować)  
 faide - zastosowanie (zasób; użyteczny, pomocny, przydatny, pożyteczny, korzystny)  
 • faidaje - materiał (składnik, zasób)  
 faine - delikatny, cienki, lekki  
 false - fałszywy, nieprawdziwy  
-falsvide - iluzja (halucynacja)  
+falsevide - iluzja (halucynacja)  
 famil - rodzina  
 familnam - nazwisko, imię rodziny  
 fange - błoto  
-fangodefoban - błotnik  
-fangostan - bagno (moczary)  
+fangedefoban - błotnik  
+fangestan - bagno (moczary)  
 fantas - fantazja (wyobrażenie; wyobrazić, wyobrażać, fantazjować)  
 fantom - duch, fantom  
 farse - Pers; perski, farsi  
@@ -735,7 +728,7 @@ faze - etap, faza
 fe - zrobić (stworzyć, wykreować)  
 febre - gorączka  
 fei - lot (latać, lecieć)  
-feimus - nietoperz  
+feimux - nietoperz  
 • defeke - srać (robić gówno)  
 femisme - feminizm  
 femiste - feminista (feministka)  
@@ -756,7 +749,7 @@ fete - zrobić (czyn, uczynek)
 • infetion - infekcja (zakażenie)  
 • perfete - perfekcyjny  
 • rifete - powtórzyć, powtarzać  
-fetobaxe - język sztuczny  
+fetebaxe - język sztuczny  
 fi - fu, fuj  
 figur - figura, reprezentacja  
 fikre - myśleć (dumać; myśl, pomysł)  
@@ -776,8 +769,8 @@ fin - koniec (skończyć, kończyć)
 fiorde - fiord  
 firuze - turkus  
 fite - roślina, sadzonka  
-fitoyamiste - wegetarianin  
-fitolojia - botanika  
+fiteyamiste - wegetarianin  
+fitelojia - botanika  
 fixe - przyczepić, przymocować  
 • posfixe - przyrostek (sufiks)  
 • prefixe - przedrostek (prefiks)  
@@ -785,13 +778,10 @@ Fizi - Fidżi
 fizike - fizyka  
 • fizikia - fizyk  
 • fiziker - fizyka  
-flece - strzała (bełt)  
-• flecer - wytwórca łuków i strzał  
 flerovium - flerow  
 flurium - fluor  
 • fobia - strach, fobia  
-fokus - skupienie, koncentracja  
-fokuse - skupić, się, skoncentrować się  
+fokus - skupienie (koncentracja; skupić, się, skoncentrować się)  
 fole - szalony  
 folia - szaleństwo  
 fone - głoska  
@@ -821,23 +811,17 @@ Franse Polinesia - Polinezja Francuska
 frasen - jesion  
 frem - rama  
 frike - trzeć (pocierać, obetrzeć, pucować)  
-fuge - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać  
 fuke - ubranie, ubiór, strój  
-fuku - nosić ubrania  
-ful - kwiat  
-fulu - kwitnąć, rozkwitnąć, rozkwitać  
-fulmosim - wiosna  
+• be fuke - nosić ubrania  
 fun - pył  
 funcuper - odkurzacz  
 funce - funkcja, stanowisko  
 • funcebil - poprawny (wykonalny)  
 • dusfunce - awaria (wadliwe działanie)  
-konfuncebil - kompatybilny (pasujący)  
+• konfuncebil - kompatybilny (pasujący)  
 funge - grzyb  
-fungonete - grzybnia  
-fungopal - sporokarp  
-• dusfunse - awaria (wadliwe działanie)  
-• konfunsebil - kompatybilny (pasujący)  
+fungenete - grzybnia  
+fungepal - sporokarp  
 fure - zły (wsciekły, gniewny)  
 • furia - gniew, furia  
 furete - tchórz, fretka  
@@ -850,7 +834,7 @@ fuze - topnieć (upłynniać się)
 • fuzion - fuzja (amalgamowanie, łączenie)  
 • exfuze - topić (upłynnić, upłynniać)  
 • konfuze - łączyć (złączyć)  
-fuzopetre - lawa  
+fuzepetre - lawa  
 
 ## G  
 
@@ -1147,6 +1131,8 @@ horlogetore - wieża zegarowa
 hormon - hormon  
 Horvatia - Chorwacja  
 hotel - hotel  
+hua - kwiat  
+huamosim - wiosna  
 hui - popiół  
 huidarte - gleba bielicoziemna  
 huirang - szary  
@@ -1435,6 +1421,7 @@ kenar - granica, skraj, brzeg
 kenare - peryferyjny  
 kenarbaryer - płot  
 kenarfon - spółgłoska  
+kentaurhua - chaber  
 kerube - cherubin  
 ketle - czajnik  
 kex - włos  
@@ -1499,16 +1486,14 @@ kolonisme - kolonializm
 koloniste - kolonialista  
 koloner - kolonizator  
 kolum - kolumna, filar  
-kome - przecinek  
-komodia - komedia  
-komale - miękki  
+• komodia - komedia  
+koma - przecinek  
 Komoro nesia - Komory  
 kompania - firma, kompania, korporacja  
-komune - dzielić (współdzielić)  
-komune - wspólny  
-komunkratia - republika  
 kon - wspólny (wzajemny)  
-kontre - być przeciw  
+• konife - dzielić (współdzielić)  
+• konike - wspólny  
+• kontre - być przeciw  
 konjen - towarzysz (partner, kumpel)  
 Konakri Ginia - Gwinea  
 koncung - owad  
@@ -1519,10 +1504,10 @@ kongfuzisme - konfucjanizm
 Konkani - konkani  
 konserte - koncert  
 konus - szyszka  
-kope - kopia, replika  
-kope - kopiować, replikować  
-kopohake - prawa autorskie  
 kopernikium - kopernik  
+kopi - kopiować, replikować  
+• kopiaje - kopia, replika  
+kopihake - prawa autorskie  
 kor - rdzeń (jądro, pestka)  
 korarme - broń nuklearna  
 korenergia - energia nuklearna  
@@ -1999,6 +1984,7 @@ mongole - Mongolski
 Mongolia - Mongolia  
 monster - potwór, monstrum  
 monte - góra, wzgórze  
+montepike - szczyt (wierzchołek)  
 morfe - morf  
 • morfeme - morfem  
 morte - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)  
@@ -2076,6 +2062,7 @@ nanomitre - nanometr
 nanas - ananans  
 narake - piekło  
 narke - narkotyk  
+narme - miękki  
 nas - ludzie (lud, ludność)  
 • nasia - naród, narodowość  
 • nasian - ludzie (lud, ludność)  
@@ -2150,7 +2137,7 @@ Nikaragua - Nikaragua
 nikel - nikiel  
 nil - niebieski  
 nilbavite - szafir  
-nilcentaur - bławatek  
+nilkentaurhua - bławatek  
 nilseramsing - houstoia azurowa  
 nilon - nylon  
 ninde - obraza, obelga  
@@ -2345,7 +2332,6 @@ patolojia - patologia
 patomise - infekcja (zakażenie)  
 patate - ziemniak  
 pau - pistolet, strzelba, ręczna broń palna  
-pau - strzelać (strzelić)  
 paunde - funt (£)  
 pauze - przerwać (przerywać; pauza, przerwa)  
 • repauze - zostawić, zostawiać  
@@ -2381,8 +2367,8 @@ piaze - cebula
 picea - świerk  
 pige - pośladki, pupa, tyłek, zadek  
 pijin - pidżin, język pomocniczy  
-pike - szczyt (wierzchołek)  
 pil - skóra  
+• depile - obrać (obierać)  
 piloter - pilot  
 pin - igła, szpilka  
 pine - kłuć (żądlić)  
@@ -2847,11 +2833,11 @@ soge - szukać
 soimilke - mleko sojowe  
 soisaus - sos sojowy  
 sol - słońce  
-solocate - parasol  
-solocentaur - chaber wełnisty  
-soloful - słonecznik  
-solosistem - układ słoneczny  
-solostate - przesilenie  
+solcate - parasol  
+solhua - słonecznik  
+solkentaurhua - chaber wełnisty  
+solsistem - układ słoneczny  
+solestate - przesilenie  
 Solomon nesia - Wyspy Salomona  
 some - spać (sen)  
 • desome - obudzić (budzić; przebudzony, przytomny)  
@@ -3041,9 +3027,7 @@ ticin - chordofon, instrument strunowy
 tim - drużyna  
 Timor - Timor  
 tipe - typ (rodzaj, gatunek)  
-tire - ciągnąć  
-tire milke - wydoić, doić  
-tire pil - obrać (obierać)  
+tire - strzelać (strzelić)  
 tiregana - dźwignia  
 tirelonge - rozciągać (rozciągnąć)  
 tireriu - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
@@ -3071,6 +3055,7 @@ tortuge - żółw
 toxe - trucizna (toksyna; toksyczny, trujący)  
 tragodia - tragedia  
 • trater - traktor (ciągnik)  
+trate milke - wydoić, doić  
 tren - pociąg  
 trendau - kolej  
 trenkaper - porywacz pociągu  
@@ -3151,6 +3136,7 @@ vagine - wagina
 vaginitis - zapalenie pochwy  
 vakile - reprezentować  
 • vakiler - reprezentant (przedstawiciel)  
+vakilkratia - republika  
 vale - wartość  
 Valis e Futuna nesia - Saint Vincent i Grenadyny  
 valse - walc  

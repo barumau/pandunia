@@ -300,8 +300,8 @@ cau - herbo
 ceke - ĉeko  
 cel - ĉelo  
 celolojia - citologio  
-seng - matura (plenkreska)  
-sengjen - plenaĝa  
+ceng - matura (plenkreska)  
+cengjen - plenaĝa  
 cengnan - viro  
 cengni - virino  
 cepe - kapti  
@@ -334,7 +334,7 @@ cuke - tuŝi
 cum - kiso  
 cupe - suĉi  
 cute - eliri  
-cutomun - elirejo  
+cutemun - elirejo  
 cuze - elekti  
 
 ## D  
@@ -356,8 +356,8 @@ dane - semo
 • danike - sema  
 danse - danco  
 dante - dento  
-dantobrox - dentbroso  
-dantotiber - dentisto  
+dantebrox - dentbroso  
+dantetiber - dentisto  
 dargemute - disvolvi  
 date - datumo  
 datebanke - datumbanko  
@@ -382,7 +382,6 @@ den catre - ĵaŭdo
 den pente - vendredo  
 den sixe - sabato  
 den cete - dimanĉosunnuntai  
-denge - atendi  
 des - dek (10)  
 deskilo - dek miloj  
 desen - desegno  
@@ -450,11 +449,10 @@ ekore - sciuro
 ekran - ekrano  
 Ekuador - Ekvadoro  
 eletre - elektro  
-• eletre - elektra  
 • eletrike - elektra  
 • eletrolojia - elektroniko  
 • eletron - elektrono  
-em - elemento (ero)  
+eme - elemento (ero)  
 emote - emocii  
 • emotion - emocio  
 • emotos - emocia  
@@ -472,8 +470,8 @@ eurasia - Eŭrazio
 eureke - trovi  
 euro - eŭro  
 Europe - Eŭropo  
-europe - Eŭropa  
-Europi Unia - Eŭropa Unio (EU)  
+Europe Unia - Eŭropa Unio (EU)  
+• europan - Eŭropa  
 europium - eŭropio  
 exe - ekstero  
 • extre - ekstera (ekstra, aldona)  
@@ -487,7 +485,7 @@ faine - fajna
 famil - familio  
 familnam - familinomo  
 fange - koto  
-fangostan - marĉo  
+fangestan - marĉo  
 fantas - fantazio  
 fantom - fantomo  
 farse - persa  
@@ -514,7 +512,7 @@ fete - fari (faro, fakto)
 • feteria - fabriko  
 • infetion - infekto  
 • rifete - ripeti (refari)  
-fetobaxe - artefarita lingvo  
+fetebaxe - artefarita lingvo  
 fi - bah!  
 figur - figuro  
 fikre - pensi (penso)  
@@ -531,7 +529,7 @@ fin - fino (fini, finiĝi)
 fiorde - fjordo  
 firuze - turkiso  
 fite - planto  
-fitolojia - plantscienco (botaniko)  
+fitelojia - plantscienco (botaniko)  
 fixe - fiksi  
 fizike - fiziko  
 • fizikia - fiziko  
@@ -540,8 +538,7 @@ flurium - fluoro
 fobe - timo (timi; timigi)  
 • fobia - fobio  
 • fobante - timiga  
-fokus - koncentriĝo  
-fokuse - koncentri  
+fokus - koncentri  
 fole - freneza  
 folia - frenezeco  
 fore - taladri  
@@ -560,12 +557,8 @@ fransium - franciumo
 franse krepe - franca krepo  
 frem - kadro  
 fuke - vesto  
-fuke - vestigi  
-fuku - vesti (surporti)  
-ful - floro  
-fulopote - vazo  
-fulmosim - printempo  
-fulpote - florpoto  
+• fukize - vestigi  
+• be fuke - vesti (surporti)  
 fun - polvo  
 funce - funkcii  
 funge - fungo  
@@ -759,6 +752,10 @@ horloger - horloĝo
 hormon - hormono  
 Horvatia - Kroatio  
 hotel - hotelo  
+hua - floro  
+huabing - vazo  
+huamosim - printempo  
+huapote - florpoto  
 huke - hoko  
 hukokrus - svastiko  
 huli - vulpo  
@@ -927,6 +924,7 @@ kege - vizito
 keger - vizitanto  
 keke - kuko  
 kenar - rando (orlo)  
+kentaur - centaǔro  
 kex - haro  
 kexebroxe - saç fırçası  
 kexesabun - ŝampuo  
@@ -958,19 +956,17 @@ kobalte - kobalto
 kode - kodo  
 kokode - koko  
 kolum - kolono  
-komodia - komedio  
-komale - mola  
+• komodia - komedio  
 kompania - kompanio (firmao)  
-komune - komuna  
-komunkratia - republiko  
-kon - kuna  
-kontre - kontraŭi  
+kon - kun (kuna, komuna)  
+• konike - komuna  
+• kontre - kontraŭi  
 Kongfuze - Konfuceo  
 konserte - koncerto  
 konus - konuso  
-kope - kopio  
-kope - kopii  
 kopernikium - kopernicio  
+kopi - kopii  
+• kopiaje - kopio  
 kor - kerno (koro)  
 korarme - kernarmilo  
 korenergia - kernenergio  
@@ -1182,6 +1178,7 @@ mongole - mongola
 Mongolia - Mongolio  
 monster - monstro  
 monte - monto  
+montepike - pinto  
 morte - morti (morto; morta)  
 • mortife - mortigi  
 • morter - mortigisto  
@@ -1226,6 +1223,7 @@ Namibia - Namibio
 nan - viro  
 nanas - ananaso  
 narke - drogo  
+narme - mola  
 nasomede - internacia  
 • nature - naturo  
 natrium - natrio  
@@ -1396,7 +1394,6 @@ piano - piano
 piaze - cepo  
 pige - kulo  
 pijin - piĝino  
-pike - pinto  
 pil - haŭto  
 pin - nadlo (pinglo, pikilo)  
 pine - piki  
@@ -1629,8 +1626,8 @@ soi - sojo
 soimilke - sojlakto  
 soisaus - sojsaŭco  
 sol - suno  
-solocate - sunombrelo  
-solosistem - sunsistemo  
+solcate - sunombrelo  
+solsistem - sunsistemo  
 some - dormi  
 • somive - dormema  
 • desome - uyanık  
@@ -1725,8 +1722,6 @@ termometrer - termometro
 teste - testo  
 tibe - sanigi (kuraci)  
 • tiber - kuracisto  
-tire - tiri  
-tire milke - melki  
 titanium - titanio  
 • tixe - silenta  
 • tixia - silento  
@@ -1741,6 +1736,7 @@ torium - torio
 torse - torso  
 trate - treni  
 • trater - traktoro  
+trate milke - melki  
 tren - trajno (vagonaro)  
 trendau - fervojo  
 tri - tri (3)  
@@ -1780,6 +1776,7 @@ vaf - hundo
 vafle - vaflo  
 vagine - vagino  
 vaginitis - vaginito  
+vakilkratia - republiko  
 vale - valoro  
 van: - arbaro  
 varkelate - paĝo  

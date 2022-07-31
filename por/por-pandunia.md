@@ -98,7 +98,7 @@ argumento - argum
 arma - arme  
 arma de fogo - pau  
 armadilha - kapetruke  
-armadura - defkaske  
+armadura - defekaske  
 armário - almari  
 arquiteto - bineplaner  
 arquitetura - bineplania  
@@ -199,7 +199,7 @@ bombordo - nauleve
 borboleta - pelpel  
 boro - boron  
 bota - bute  
-botânica - fitolojia  
+botânica - fitelojia  
 botão - buton  
 boxe - bokse  
 boxeador (pugilista) - bokser  
@@ -274,7 +274,7 @@ cartografia - kartografia
 Cartum - Hartum  
 cartão de crédito - kredokarde  
 carvalho - balute  
-carvalho-roble - europobalute  
+carvalho-roble - europebalute  
 casa (lar) - dom  
 casa de campo (vila) - vile  
 casca (concha) - kaske  
@@ -288,10 +288,11 @@ cebola - piaze
 cem (100) - sente  
 cemitério - gabrostan  
 cenoura - karote  
+centauro - kentaur  
 centro - zung  
-centáurea - centaure  
+centáurea - kentaurhua  
 cerca - kenarbaryer  
-cereja - cerize  
+cereja - ceri  
 cerveja - bir  
 cerâmica - poteria  
 cerâmico - serame  
@@ -332,11 +333,12 @@ cobalto - kobalte
 cobre - kupre  
 coelho (lebre) - tuze  
 cognição - konnosion  
-cogumelo - fungopal  
+cogumelo - fungepal  
 coisa - xe  
 colaborar - konkare  
 colar (aderir) - glute  
 colher - camaca  
+com (comum) - kon  
 combava - karsolimon  
 combinar com - konbone  
 começo (início, princípio) - xure  
@@ -403,7 +405,7 @@ crónico - durike
 cubo - kube  
 cuco - kuku  
 cultivar - agre  
-cume (pico, topo) - pike  
+cume (pico, topo) - montepike  
 curry - kari  
 cádmio - kadium  
 cálamo - ganakalam  
@@ -416,9 +418,9 @@ cério - ceresium
 césio - cesium  
 céu - ten  
 cívico - sivike  
-cópia - kope  
+cópia - kopiaje  
 cósmico - kosme  
-cômico - komi  
+cômico - kome  
 cúmulo - kumulonepe  
 cúrio - kurium  
 
@@ -430,7 +432,7 @@ dados - date
 damasco (abricó) - barkoke  
 dano (avaria) - avar  
 danês - dane  
-darmstádio - darmositium  
+darmstádio - darmesitium  
 de - de  
 de luxo - deluxe  
 dedo - angul  
@@ -438,6 +440,7 @@ defecar - defeke
 deitar (jazer) - kuxe  
 deixar - laxe  
 deixar - live  
+demora (atraso, espera) - dele  
 dente-de-leão (taráxaco) - makanful  
 depenar - depena  
 derretre - fuze  
@@ -509,7 +512,7 @@ efetuar (efeito) - asar
 Egipto (Egito) - Misria  
 ei - hei  
 einstânio - ainstainium  
-elemento - em  
+elemento - eme  
 elemento químico - kimium  
 eletricidade - eletre  
 eletrônica - eletrolojia  
@@ -545,7 +548,7 @@ escalar - askale
 escola (colégio) - xulekan  
 escorpião (lacrau) - akrabe  
 escova de cabelo - kexebroxe  
-escovinha (centáurea) - nilcentaur  
+escovinha (centáurea) - nilkentaurhua  
 escrever (escrita) - kitabe  
 escritório (birô) - buro  
 escudo - defeban  
@@ -628,9 +631,9 @@ filho ou filha - ben
 filosofia - filsofia  
 fiorde - fiorde  
 fisiculturismo - muskulbine  
-flecha (seta) - flece  
+flecha (seta) - bana  
 fleróvio - flerovium  
-flor - ful  
+flor - hua  
 floresta de algas - algajangle  
 flutuar - boi  
 flúor - flurium  
@@ -647,7 +650,7 @@ fragmento - parce
 freixo - frasen  
 frâncio - fransium  
 fungo - funge  
-funil - darotube  
+funil - dartube  
 furar (perfurar) - fore  
 futebol - futebol  
 fácil - fasile  
@@ -687,7 +690,7 @@ germânio - germanium
 gilete - razor  
 ginásio - sportekan  
 girafa - jiraf  
-girassol - soloful  
+girassol - solhua  
 glote - sonomun  
 gnosticismo - nosisme  
 gnóstico - nosiste  
@@ -913,7 +916,7 @@ lúmen - lumen
 machado - futau  
 macroalga - haialge  
 madrasta - visematre  
-maduro (adulto) - seng  
+maduro (adulto) - ceng  
 magnésio - magesium  
 mahjong - majang  
 maioria - maxuria  
@@ -1154,7 +1157,7 @@ papel de parede - murkaguje
 papoila - medenpapil  
 papoila-dormideira - somopapil  
 par - parike  
-para-lama - fangodefoban  
+para-lama - fangedefoban  
 parada de ônibus - bus halte  
 parceiro - partaner  
 parque - parke  
@@ -1288,7 +1291,6 @@ prosperar - sucese
 protacnídio - protacinium  
 proteína - proten  
 protocolo - burorite  
-prova - dalil  
 provar - provere  
 proxeneta (cafetão) - sutener  
 pré-natal - prenatal  
@@ -1300,7 +1302,7 @@ pá - belce
 página - varkelate  
 pátria - patria  
 pátria-mãe - matria  
-pântano - fangostan  
+pântano - fangestan  
 pão - pang  
 pérola - jenju  
 pícea (espruce) - picea  
@@ -1478,7 +1480,7 @@ simetria - sammetria
 simulação - samsifia  
 simétrico - sammetre  
 sinal - sinal  
-sino (campainha) - danger  
+sino (campainha) - dang  
 sino-japonês - cinanipon  
 sino-vietnamita - cinaviete  
 sintonizador - sintonor  
@@ -1491,7 +1493,7 @@ soja - soi
 sol - sol  
 soldado - ordojen  
 som - son  
-sombrinha - solocate  
+sombrinha - solcate  
 sonolento - somive  
 sorvete (gelado) - aiskrem  
 subjugar - subyuge  
@@ -1570,7 +1572,7 @@ trabalhador - karer
 trabalhar - kare  
 trabalho - karaje  
 tragédia - tragodia  
-trajar (vestir-se) - fuku  
+trajar (vestir-se) - be fuke  
 tranquilo (calmo) - xante  
 transmissor - tramisor  
 transmissão - tramision  
@@ -1628,10 +1630,11 @@ vampiro - vampir
 vanádio - vanadium  
 vapor - suigas  
 vara (bastão) - gana  
-vaso de flores - fulpote  
+vaso - huabing  
+vaso de flores - huapote  
 vazar - lou  
 vegetalista - purfitoyamiste  
-vegetariano - fitoyamiste  
+vegetariano - fiteyamiste  
 velhice - launen  
 vender - vende  
 ver - vide  
@@ -1645,7 +1648,7 @@ vermelho - lale
 vermute - vermute  
 verruga - veruke  
 verão - garmemosim  
-vestir - fuke  
+vestir - fukize  
 veterinário - zootiber  
 vez - mar  
 vice-rei - viserejer  

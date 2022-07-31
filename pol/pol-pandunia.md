@@ -116,7 +116,6 @@ autobus, autokar - bus
 autonomia - autonomia  
 autonomiczny - autonome  
 awaria (wadliwe działanie) - dusfunce  
-awaria (wadliwe działanie) - dusfunse  
 awokado - avakate  
 Azerbejdżan - Azerbaizan  
 Azja - Asia  
@@ -130,7 +129,7 @@ babcia (babka) - cinma
 badać, studiować - loje  
 bagaż - bagaje  
 bagietka - ganapang  
-bagno (moczary) - fangostan  
+bagno (moczary) - fangestan  
 bahaista - bahaiste  
 bahaizm - bahaisme  
 Bahamy - Bahama  
@@ -223,7 +222,7 @@ bomba - bombe
 Bombaj (Mumbaj) - Mumbai  
 bor - boron  
 boski - deve  
-botanika - fitolojia  
+botanika - fitelojia  
 Botswana - Cuana  
 boćwina (botwina) - selge  
 Bośnia i Harcegowina - Bosnia e Hercegovina  
@@ -275,8 +274,8 @@ ból (cierpienie; cierpieć) - tunge
 ból głowy - sarotunge  
 bąk, bączek - rototope  
 bęben - gum  
-bławatek - nilcentaur  
-błotnik - fangodefoban  
+bławatek - nilkentaurhua  
+błotnik - fangedefoban  
 błoto - fange  
 błąd (pomyłka; popełnić błąd; błędny, niepoprawny) - galte  
 
@@ -300,8 +299,8 @@ cer - ceresium
 ceramika - serame  
 Ceres (planeta karłowata) - Ceres  
 cez - cesium  
-chaber - centaure  
-chaber wełnisty - solocentaur  
+chaber - kentaurhua  
+chaber wełnisty - solkentaurhua  
 Champagne - xampan  
 chaos, nieporządek; wrzawa, zgiełk - haos  
 chcieć ( pragnąć; wola, chęć, pragnienie) - vol  
@@ -340,7 +339,6 @@ ciemny, słabo oświetlony - dam
 ciepły - garme  
 cieszyć, podobać się - sukife  
 cień - saye  
-ciągnąć - tire  
 ciągły (analogowy) - undure  
 ciąć - cakukate  
 ciężar (brzemię; ładować) - karge  
@@ -353,7 +351,7 @@ co? - ke
 co? - ke jen  
 coś - yo xe  
 croissant - kruasan  
-cudzysłów - citomarke  
+cudzysłów - citemarke  
 cukier - sukar  
 cukierek, słodycze - kande  
 cukinia - xiukaboge  
@@ -386,7 +384,7 @@ czasownik - karelexe
 czaszka - saroste  
 czcić (szanować; cześć, szacunek) - puje  
 czek - ceke  
-czekać - denge  
+czekać - dele  
 czekolada - coklate  
 czempion - campion  
 czerwiec - lun tri  
@@ -418,7 +416,7 @@ damarzyk (meranti) - merante
 dane - date  
 Dania - Dania  
 danie - tas  
-darmsztadt - darmositium  
+darmsztadt - darmesitium  
 darwinista - darviniste  
 darwinizm - darvinisme  
 data - nen lun den  
@@ -439,7 +437,7 @@ demokrata - demokratiste
 Demokratyczna Republika Konga - Kinsasa Kongo  
 demokratyczny - demokrate  
 demon - demon  
-dentysta - dantotiber  
+dentysta - dantetiber  
 deska - mokoban  
 deszcz (padać, lać) - barxe  
 detal, szczegół - detal  
@@ -466,17 +464,14 @@ dolina - vade
 Dominika (Wspólnota Dominiki) - Dominika  
 domino - domino  
 doradca (mentor) - menter  
-dorosły, dojrzały - seng  
+dorosły, dojrzały - ceng  
 dorsz - bakalau  
 dorsz atlantycki - atlante bakalau  
 dorsz pacyficzny - pacehaikade  
 doskonalić (optymalizować, ulepszać) - purbone  
-dostarczyć (dostarczać, doprowadzić, doprowadzać, wydać, wydawać, opublikować) - fade  
 dostać, dostawać, otrzymać, otrzymywać, wziąć, brać - dege  
 dotyczyć - cuke  
 dotyczyć - tate  
-dowieść, dowodzić; zeznać, zeznawać - dalile  
-dowód; zeznanie - dalil  
 dowódca, kierownik - lider  
 dozwolony (dopuszczalny, zezwolony, halal) - halale  
 dramat - drame  
@@ -486,7 +481,7 @@ drożdże - hamir
 drużyna - tim  
 drzewo - moke  
 drzeć (rwać, rozrywać, rozdzierać, rozszczepiać) - cire  
-drzwi wyjściowe - cutomun  
+drzwi wyjściowe - cutemun  
 drzwi, brama, portal - mun  
 dualizm - duisme  
 dubn - dubnium  
@@ -522,7 +517,7 @@ działo - daipau
 dziecko (nieletni) - bace  
 dziecko, potomek - ben  
 dzielić (część, ułamek) - fen  
-dzielić (współdzielić) - komune  
+dzielić (współdzielić) - konife  
 dziennik pokładowy (notatnik) - lugebuke  
 dziennikarz - gazeter  
 dziesięć (10) - des  
@@ -541,12 +536,11 @@ dziwny (nieznany) - anbenose
 dziwny - bizar  
 dziękować (dzięki) - xukre  
 dziś, dzisiaj - a zai den  
-dzwon (dzwonek) - danger  
-dzwonić (dźwięczeć, szczękać) - dange  
+dzwon (dzwonek; dzwonić, dźwięczeć, szczękać) - dang  
 dół, jama, wydobycie, wykop, wykopalisko - kavaje  
 dąb - balute  
-dąb szypułkowy - europobalute  
-dąb zębaty - dantobalute  
+dąb szypułkowy - europebalute  
+dąb zębaty - dantebalute  
 długi - longe  
 długość - longes  
 długość geograficzna - longude  
@@ -578,7 +572,6 @@ elegancki, szykowny - xike
 elektron - eletron  
 elektronika - eletrolojia  
 elektryczność - eletre  
-elektryczny - eletre  
 elektryczny - eletrike  
 eliksir (magiczny napój) - tibesui  
 emir - amirer  
@@ -606,7 +599,7 @@ Eurazja - eurasia
 euro (€) - euro  
 europ - europium  
 Europa - Europe  
-europejski - europe  
+europejski - europan  
 ewangelia - evangil  
 
 ## F  
@@ -752,7 +745,7 @@ Gruzja (Republika Gruzji) - Kartul
 grymas - guimuke  
 grzebień - kang  
 grzyb - funge  
-grzybnia - fungonete  
+grzybnia - fungenete  
 grób (mogiła; zakopać, pochować) - gabre  
 Guam - Guam  
 Gudżarat - gujarate  
@@ -873,7 +866,7 @@ igła, szpilka - pin
 ile? - ke multe  
 ilość - polia  
 ilustrator, grafik - grafer  
-iluzja (halucynacja) - falsvide  
+iluzja (halucynacja) - falsevide  
 imbir - jenje  
 imbryk (czajnik) - caipote  
 imbryk do kawy - kafepote  
@@ -989,7 +982,7 @@ język - baxe
 język - lisan  
 język ojczysty (język rodzimy) - genobase  
 język surinamski - surinami baxe  
-język sztuczny - fetobaxe  
+język sztuczny - fetebaxe  
 język świata, język ogólnoświatowy - dunia baxe  
 językoznastwo - baxelojia  
 
@@ -1140,7 +1133,6 @@ Komory - Komoro nesia
 kompas (namagnesowana igła) - pontopin  
 kompatriota - konpatrian  
 kompatybilny (pasujący) - konfuncebil  
-kompatybilny (pasujący) - konfunsebil  
 kompost - biocaniver  
 komputer - konputer  
 komunista - koncaniste  
@@ -1161,8 +1153,8 @@ konwalia majowa - vadosusan
 kopalnia - kuangia  
 kopać (wydobywać) - kuange  
 kopernik - kopernikium  
-kopia, replika - kope  
-kopiować, replikować - kope  
+kopia, replika - kopiaje  
+kopiować, replikować - kopi  
 kopuła - kupecate  
 koral - koral  
 Koran - kuran  
@@ -1266,9 +1258,9 @@ kwadrat (czworokąt, czworobok, tetragon) - catrogone
 kwarc - kuarze  
 kwaśny - suane  
 kwestia, problem - sualoteme  
-kwiat - ful  
+kwiat - hua  
 kwiecień - lun des du  
-kwitnąć, rozkwitnąć, rozkwitać - fulu  
+kwitnąć, rozkwitnąć, rozkwitać - can hua  
 kąpiel (kąpać się) - banya  
 kąt - gone  
 kąt prosty - ortogon  
@@ -1291,12 +1283,12 @@ las (zagajnik) - van:
 las wodorostów - algajangle  
 latarnia - hogosanduke  
 latarnia morska - fototore  
-latać (fruwać) - dare  
+latać (fruwać) - dar  
 lato - garmemosim  
 laudacja - euloge  
-lawa - fuzopetre  
+lawa - fuzepetre  
 lazania - lazanya  
-lejek - darotube  
+lejek - dartube  
 lekcja - xulaje  
 lekki - lege  
 lepić (kleić; klej) - glute  
@@ -1519,7 +1511,7 @@ między (wśród, pośród) - a mide
 międzyetniczny - zukemide  
 międzynarodowy - nasomede  
 międzyrasowy - rasomede  
-miękki - komale  
+miękki - narme  
 mięsny (umami) - umame  
 mięso - manse  
 mięta - minte  
@@ -1700,7 +1692,7 @@ niepokój - depace
 niepotrzebny - anbeyau  
 nieskończoność - anlimia  
 niespodziewany - anprevide  
-nietoperz - feimus  
+nietoperz - feimux  
 niewiele (mało) - kam  
 niewierny (poganin, niewierzący) - kafir  
 niewierny - andiniste  
@@ -1726,7 +1718,7 @@ norma (standard; normalny) - norme
 Norwegia - Norge  
 norweski - norge  
 nos - naze  
-nosić ubrania - fuku  
+nosić ubrania - be fuke  
 nosorożec - kargadan:  
 nostalgia (tęsknota) - nostalgia  
 nostalgiczny - nostalgike  
@@ -1760,7 +1752,7 @@ obozowicz - kampe
 obrabować, splądrować - lute  
 obraza (obelga) - dusnam  
 obraza, obelga - ninde  
-obrać (obierać) - tire pil  
+obrać (obierać) - depile  
 obraźliwy, niemiły, obelżywy - ninde  
 obrażenia (rana, krzywda) - avar  
 obronić (chronić; obrona) - defe  
@@ -1844,15 +1836,13 @@ osm - osmium
 osmoza - osmos  
 osoba - jen  
 osoba biznesu, biznesman - bizneser  
-osoba dorosła - sengjen  
+osoba dorosła - cengjen  
 osoba mówiąca w Panduni - panduniste  
 osobisty numer identyfikacyjny (pin) - sekuronume  
 ostatni, końcowy - finime  
 ostropest plamisty - milkokardon  
 ostrożeń lancetowaty - penakardon  
 ostrzarka (kamień młyński) - molite  
-oswoić (oswajać, tresować, trenować) - dosile  
-oswojony (potulny, posłuszny) - dosile  
 oszacować, szacować, przybliżyć, przybliżać - yagife  
 oszczędzać (deponować) - banke  
 oszukać (oszukiwać - truke  
@@ -1910,7 +1900,7 @@ papier - kaguje
 papieros (cygar) - sigare  
 paproć - parne  
 papryka - cili  
-papryka - cili fun  
+papryka - cilifun  
 Papua Nowa Gwinea - Papua Neu Ginia  
 papuga - papagai  
 para wodna - suigas  
@@ -1918,7 +1908,7 @@ paragon, pokwitowanie - reside
 Paragwaj - Paraguai  
 parametr (argument, wartość wejściowa) - param  
 parasol - barxecate  
-parasol - solocate  
+parasol - solcate  
 park (ogród) - parke  
 parking - garoparke  
 partia - partia  
@@ -1972,7 +1962,7 @@ pieniądze - mone
 pieprz - pipre  
 pieprz długi - longopipre  
 pierdnięcie (pierdzieć) - perde  
-pierwiastek (jednostki podstawowej) - em  
+pierwiastek (jednostki podstawowej) - eme  
 pierwszy, numer jeden - unime  
 pierwszy, początkowy - prime  
 pierś - sina  
@@ -2170,7 +2160,7 @@ pragnienie - suiyau
 praktyka, aktualność - prate  
 praktykant - karexuler  
 pralka - vaxemaxin  
-prawa autorskie - kopohake  
+prawa autorskie - kopihake  
 prawa człowieka - human hake  
 prawa strona - raite  
 prawdopodobnie (możliwie) - bil e  
@@ -2224,7 +2214,7 @@ przebić (perforować, dziurawić) - konge
 przechowawca, kustosz, opiekun - hafizer  
 przechylać (przechylić, wychylać, wychylić) - terce  
 przeciekać, ciec - lou  
-przecinek - kome  
+przecinek - koma  
 przeciwnie do ruchu wskazówek zegara - rotolefto  
 przeciwnik (antagonista) - xatan  
 przedmiot (obiekt) - vate  
@@ -2245,7 +2235,7 @@ przepołowić (podzielić przez dwa) - dufene
 przepraszam! - maf  
 przepękla ogórkowata (balsamka ogórkowata) - kalimelon  
 przerwać (przerywać; pauza, przerwa) - pauze  
-przesilenie - solostate  
+przesilenie - solestate  
 przesilenie letnie (dzień srodka lata) - garmemosimmide den  
 przestępstwo - krim  
 przeszkodzić, przeszkadzać, robić kłopot - turbe  
@@ -2261,7 +2251,7 @@ przeźroczysty (jasny; oczywiście) - klare
 przy, z, na, w, u - a  
 przyczepić, przymocować - fixe  
 przygoda - ventur  
-przygoda w lochu - dungia aventur  
+przygoda w lochu - dunjia aventur  
 przyjaciel - doste  
 przyjaźń - dostia  
 przyjęcie (święto, festiwal) - feste  
@@ -2368,9 +2358,9 @@ ren - renium
 reporter - reporter  
 reprezentant (przedstawiciel) - vakiler  
 reprezentować - vakile  
-republika - komunkratia  
+republika - vakilkratia  
 Republika Czeska, Czechy - Cehia  
-Republika Dominikańska (Dominikana) - Dominiki Komunkratia  
+Republika Dominikańska (Dominikana) - Dominikan Vakilkratia  
 Republika Konga - Brazavil Kongo  
 Republika Macedonii, Macedonia - Norde Makedonia  
 Republika Środkowoafrykańska - Zungafrike  
@@ -2572,8 +2562,7 @@ skrzydło - panke
 skrzypce - viole  
 skrzypek - violiste  
 skrócić, skracać - korte  
-skupienie, koncentracja - fokus  
-skupić, się, skoncentrować się - fokuse  
+skupienie (koncentracja; skupić, się, skoncentrować się) - fokus  
 skwer, plac - meden  
 skwierczeć - zize  
 skóra - pil  
@@ -2608,7 +2597,7 @@ spocony - suedos
 spoczywaj w pokoju - repauze in pace (RIP)  
 spodnie (pantalony, portki) - pante  
 spokojny - xante  
-sporokarp - fungopal  
+sporokarp - fungepal  
 sport, lekkoatletyka - sporte  
 sposób (metoda, tryb) - mode  
 spotkanie, zebranie - ajame  
@@ -2662,8 +2651,8 @@ strażnik, ochroniarz - garder
 strona (bok) - late  
 strona - varkelate  
 stront - strontium  
-strzała (bełt) - flece  
-strzelać (strzelić) - pau  
+strzała (bełt) - bana  
+strzelać (strzelić) - tire  
 strzykwa - haihiyar  
 strzępić (drzeć) - circire  
 student - studer  
@@ -2706,9 +2695,9 @@ szariat - islam xaria
 szary - huirang  
 szaszłyk - xixmanse  
 szczepionka - vacin  
-szczoteczka do zębów - dantobrox  
+szczoteczka do zębów - dantebrox  
 szczotka - brox  
-szczyt (wierzchołek) - pike  
+szczyt (wierzchołek) - montepike  
 szef, kierownik - xefe  
 szeleścić - xaxa  
 szeroki - kuane  
@@ -2762,7 +2751,7 @@ sędzia - juder
 słaby - anbale  
 słodki - sukaros  
 słodki ziemniak - kamote  
-słonecznik - soloful  
+słonecznik - solhua  
 Słowacja - Slovakia  
 Słowenia - Slovenia  
 słowiański - slave  
@@ -2940,15 +2929,13 @@ uciec, uciekać - bege
 uczestniczyć, wziąć udział, brać udział - parte  
 uczestnik - parter  
 uczeń, student - xuler  
-udomowiony (domowy) - dosilgene  
-udomowić (kultywować) - dosilgenite  
 ufać (wierzyć, liczyć, polegać) - krede  
 Uganda - Ganda  
 ugotować się, gotować się - bule  
 Ukraina - Ukraina  
 ukrzyżować - krusefixe  
 ukwiał - haiful  
-układ słoneczny - solosistem  
+układ słoneczny - solsistem  
 ul (gniazdo pszczół lub os) - vespenide  
 ul - maduvesposanduke  
 uleczyć, leczyć, uzdrowić, uzdrawiać - tibe  
@@ -2959,7 +2946,7 @@ umiejętny (wprawny) - xutike
 umrzeć (umierać; śmierć; martwy, nieżywy, zabity) - morte  
 umysłowy (psychiczny) - ruhe  
 unia - unia  
-Unia Europejska (EU) - Europi Unia  
+Unia Europejska (EU) - Europe Unia  
 uniwersytet - daixulkan  
 uprawić, uprawiać - agre  
 uprzejmy - keci  
@@ -3006,7 +2993,7 @@ wapno - kalsemate
 wapń - kalsium  
 warcaby - dama gem  
 warga - labe  
-warstwa (poziom, piętro, kondygnacja) - ceng  
+warstwa (poziom, piętro, kondygnacja) - cang  
 warsztat szewski - sapatekan  
 wartość - vale  
 warzywo - yamfite  
@@ -3021,7 +3008,7 @@ wczoraj - preden
 wdowa - vidou  
 według ruchu wskazówek zegara - rotoraito  
 weganin (weganka) - purfitoyamiste  
-wegetarianin - fitoyamiste  
+wegetarianin - fiteyamiste  
 wejście - intromun  
 welon (woalka) - hijabe  
 Wenezuela - Venezuela  
@@ -3093,7 +3080,7 @@ wino - vin
 winogrono - putau  
 winyl - vinil  
 wiolonczela - daiviole  
-wiosna - fulmosim  
+wiosna - huamosim  
 wirus - virus  
 wirusologia - viruslojia  
 Wisznu - Vixnu  
@@ -3109,7 +3096,7 @@ wizytant (gość) - keger
 większościowy, wiodący, główny - maxure  
 większość - maxuria  
 więzienie, zakład karny - jelekan  
-wiśnia (czereśnia) - cerize  
+wiśnia (czereśnia) - ceri  
 wkrótce - a korte  
 wnieć wkład (przyczynić się) - fendone  
 wnętrze (środek) - inaje  
@@ -3144,7 +3131,7 @@ wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super
 wsparcie (wzmocnienie, zasilenie) - maxobalaje  
 wspinać się (wspiąć się) - askale  
 wspólny (wzajemny) - kon  
-wspólny - komune  
+wspólny - konike  
 wspólny język - konbaxe  
 współczucie - samemote  
 współpracować (kolaborować) - konkare  
@@ -3162,7 +3149,7 @@ Wybrzeże Kości Słowniowej - Kote Da Ivar
 wybuch (eksplodować, wybuchnąć, wybuchać) - bum  
 wybuch (eksplozja) - exploze  
 wycie, skowyt - ulul  
-wydoić, doić - tire milke  
+wydoić, doić - trate milke  
 wydra - lontre  
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurve  
 wygląd (wyglądać, wydawać się) - rupe  
@@ -3197,12 +3184,11 @@ Wyspy Świętego Tomasza i Książęca - Sante Tome e Principe
 wystarczający - bas  
 wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - ö  
 wysłać (wyemitować) - mise  
-wytwórca łuków i strzał - flecer  
+wytwórca łuków i strzał - banafater  
 wyć - ulule  
 wyświetlać (rzut, projekcja) - jetografe  
 wzmacniać (wzmocnić) - daidarge  
 wzmacniać się (wzmagać, pogłębiać się) - tizife  
-wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, odnawiać - fuge  
 wzrost - raste  
 wzywać (wezwać, dodawać, dodać) - zayife  
 wóz, wózek - gar  
@@ -3289,7 +3275,7 @@ założyciel - bazer
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - taxe  
 zbiornik (cysterna, pojemnik, rezerwuar) - tanke  
 zbliżać się (zbliżyć się) - aproxe  
-zbroja - defkaske  
+zbroja - defekaske  
 zbyt - tralime  
 zbyt mało - min ka bas  
 zbłąkać się (wykoleić się) - depade  
@@ -3308,7 +3294,7 @@ zespół (drużyna, grupa) - bande
 zgniły - pude  
 zgodzić się (umówić się) - trete  
 ziarno (nasienie) - dane  
-ziarno, nasienie - danograne  
+ziarno, nasienie - dangrane  
 zielenina - coi  
 zielony - luke  
 ziemia, grunt, gleba - gee  

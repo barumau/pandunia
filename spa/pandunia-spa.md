@@ -246,6 +246,8 @@ balutepal - bellota
 bambu - bambú  
 bamia - ocra  
 bangem - juego de mesa  
+bana - flecha  
+• banafater - flechero  
 banan - plátano (banana)  
 bande - banda  
 bandir - bandera  
@@ -454,6 +456,8 @@ can - producir (hacer, preparar)
 • cania - producción  
 koncanisme - comunismo  
 koncaniste - comunista  
+can hua - florecer  
+cang - capa (piso, planta, estrato)  
 canse - oportunidad (chance)  
 cante - cantar (canción)  
 cantergrupe - coro  
@@ -470,9 +474,8 @@ ceke - cheque
 cel - célula  
 celolojia - citología  
 celsius darge - grado Celsius  
-ceng - capa (piso, planta, estrato)  
-seng - maduro (adulto, curado)  
-sengjen - adulto  
+ceng - maduro (adulto, curado)  
+cengjen - adulto  
 cengnan - hombre (señor)  
 cengni - mujer (señora)  
 cepe - capturar (apresar)  
@@ -484,7 +487,7 @@ cepe - capturar (apresar)
 • receper - receptor  
 Ceres - Ceres (planeta enano)  
 ceresium - cerio  
-cerize - cereza  
+ceri - cereza  
 Cernagore - Montenegro  
 • acese - acceso (acceder)  
 • precese - preceder (anteceder)  
@@ -509,7 +512,7 @@ cing lai - invitar
 Cipia - Albania  
 cire - rasgar (romper)  
 cite - citar  
-citomarke - comilla  
+citemarke - comilla  
 cita - guepardo (chita)  
 code - joder (coger, copular)  
 coi - verduras  
@@ -524,11 +527,11 @@ cuke - tocar (rozar)
 cum - beso  
 cupe - chupar (succionar)  
 cute - salir (irse)  
-cutomun - salida  
+cutemun - salida  
 cuze - elegir (escoger, seleccionar; elección)  
 • cuzebil - opción  
 • precuze - predeterminado  
-cuzoliste - menú (catálogo)  
+cuzeliste - menú (catálogo)  
 
 ## D  
 
@@ -546,28 +549,26 @@ daipote - caldero
 daixulkan - universidad  
 dake - cubrir (tapa, funda, cubierta)  
 • andake - destapar  
-dalil - prueba  
-dalile - probar (demonstrar, comprobar)  
 dam - oscuro  
 dama gem - damas  
 dane - danés  
 Dania - Dinamarca  
 dane - semilla  
 • danike - seminal  
-danograne - pepita  
-danger - campana (cencerro)  
+dangrane - pepita  
+dang - campana (cencerro)  
 danse - baile (danza)  
 dante - diente  
-dantobalute - roble daimyo  
-dantobrox - cepillo de dientes  
-dantotiber - dentista (odontólogo)  
-dare - fluir  
-darotube - embudo  
+dantebalute - roble daimyo  
+dantebrox - cepillo de dientes  
+dantetiber - dentista (odontólogo)  
+dar - fluir  
+dartube - embudo  
 darge - paso (grado, nivel, rango, calidad, categoría)  
 • dusdarge - degradar  
 • sudarge - mejorar  
 dargemute - desarrollo  
-darmositium - darmstatio  
+darmesitium - darmstatio  
 darte - tierra (barro; sucio)  
 darvinisme - darwinismo  
 darviniste - darwinista  
@@ -585,7 +586,7 @@ dauban - señal de tránsito
 de - de (posposición de posesión)  
 de - de (desde)  
 defe - defender (defensa)  
-defkaske - armadura  
+defekaske - armadura  
 • defer - defensor  
 defeban - escudo  
 dege - conseguir (obtener, ganar)  
@@ -593,6 +594,7 @@ deger - engendrador
 deke - moralidad (ética)  
 • dekelojia - ética (filosofía moral)  
 • sudeke - virtud (moralidad)  
+dele - demora (retraso)  
 deme - pueblo (población; público)  
 demografia - demografía  
 demokrate - democrático  
@@ -608,7 +610,6 @@ den catre - jueves
 den pente - viernes  
 den sixe - sábado  
 den cete - domingo  
-denge - esperar  
 des - diez (10)  
 desen - dibujo (diseño)  
 desi- - deci-  
@@ -662,10 +663,10 @@ dolar - dolar
 dolfin - delfín  
 dom - casa (hogar, residencia; vivir, residir)  
 • domike - doméstico  
+• dominia - dominio  
 • domize - alojar (hospedar)  
 domzeze - mosco  
-• dominia - dominio  
-Dominiki Komunkratia - Republica Dominicana  
+Dominikan Vakilkratia - Republica Dominicana  
 Dominika - Dominica  
 domino - dominó  
 done - dar  
@@ -678,10 +679,6 @@ Dong Timor - Timor Oriental
 donggorila - gorila oriental  
 dos - culpa (defecto, crimen)  
 dose - culpable  
-dosile - domar (amansar)  
-dosile - manso (dócil, obediente)  
-dosilgene - domesticado  
-dosilgenite - domesticar (cultivate)  
 doste - amigo (simpático, amable, tierno, dulce)  
 • dostia - amistad (compañerismo)  
 dotor - doctor  
@@ -707,7 +704,7 @@ duman - humo
 dunia - mundo  
 dunia baxe - lengua mundial  
 duna - duna  
-dungia aventur - juego de mazmorras  
+dunjia aventur - juego de mazmorras  
 dur - durar (llevar tiempo, transcurrir; duración)  
 • duro - todavía (aún)  
 • durebil - durable  
@@ -736,14 +733,13 @@ ekore - ardilla
 ekran - pantalla  
 Ekuador - Ecuador  
 eletre - electricidad  
-• eletre - eléctrico  
 • eletrike - eléctrico  
 • eletrolojia - electrónica  
 • eletron - electrón  
 eletroposte (e-poste) - email (correo electrónico)  
 eletrorade - relámpago  
 elfe - elfo  
-em - elemento (unidad fundamental)  
+eme - elemento (unidad fundamental)  
 emote - sentir  
 • emotion - afecto (emoción)  
 • emotos - emotivo  
@@ -771,26 +767,25 @@ eurasia - Eurasia
 eureke - econtrar (hallar)  
 euro - euro  
 Europe - Europa  
-europe - europeo  
-Europi Unia - Unión Europea  
-europobalute - roble común  
+Europe Unia - Unión Europea  
+• europan - europeo  
+europebalute - roble común  
 europium - europio  
 exe - fuera (exterior)  
 • extre - extra (adicional)  
 
 ## F  
 
-fade - suministrar (dar, proveer, emitir)  
 faide - uso (utilidad, beneficio; útil (beneficioso)  
 faine - fino (delgado, delicado)  
 false - falso  
-falsvide - ilusión  
+falsevide - ilusión  
 famil - familia  
 familnam - apellido  
 fan - fan  
 fange - lodo (barro, fango)  
-fangodefoban - guarda-barros (aleta)  
-fangostan - ciénaga (pantano)  
+fangedefoban - guarda-barros (aleta)  
+fangestan - ciénaga (pantano)  
 fantas - imaginar (fantasear; imaginación, fantasía)  
 fantom - fantasma  
 farse - farsi  
@@ -809,7 +804,7 @@ faze - etapa (fase)
 fe - hacer  
 febre - fiebrie (calentura)  
 fei - volar (vuelo)  
-feimus - murciélago  
+feimux - murciélago  
 feke - heces  
 • defeke - defecar  
 femisme - feminismo  
@@ -838,7 +833,7 @@ fete - hacer (hecho)
 • parafete - efecto secundario  
 • perfete - perfecto  
 • rifete - repetir  
-fetobaxe - idioma artificial (lengua construida, conlang)  
+fetebaxe - idioma artificial (lengua construida, conlang)  
 fi - bah  
 figur - representación (figura)  
 fikre - pensar (idea, pensamiento)  
@@ -859,8 +854,8 @@ fin - fin (terminar, acabar)
 fiorde - fiordo  
 firuze - turquesa (piedra preciosa)  
 fite - planta (vegetal, vegetación)  
-fitoyamiste - vegetariano  
-fitolojia - botánica  
+fiteyamiste - vegetariano  
+fitelojia - botánica  
 fixe - fijar (pegar, asegurar)  
 • posfixe - sufijo  
 • prefixe - prefijo  
@@ -868,14 +863,12 @@ Fizi - Fiji
 fizike - física  
 • fizikia - física  
 • fiziker - físico (científico)  
-flece - flecha  
 flerovium - flerovio  
 flurium - flúor  
 fobe - miedo (temer; asustar, atemorizar)  
 • fobia - miedo (-fobia)  
 • fobante - asustador  
-fokus - concentrar (enfocarse)  
-fokuse - concentración  
+fokus - concentrar (enfocarse; concentración)  
 fole - demente (loco, insensato)  
 folia - demencia (locura)  
 fone - fono (segmento acústico)  
@@ -909,26 +902,17 @@ Franse Polinesia - Polinesia Francesa
 frasen - fresno  
 frem - marco  
 frike - raspar (arañar)  
-fuge - regresar (restablecer, restaurar, recuperar, reanudar)  
 fuke - ropa (vestimenta)  
-fuke - vestir  
-fuke - vestido (llevando ropa)  
-fuku - llevar (verstirse)  
-ful - flor  
-fulopote - florero  
-fulu - florecer  
-fulmosim - primavera  
-fulpote - maceta (plantera)  
+• fukize - vestir  
+• be fuke - llevar (verstirse)  
 fun - polvo  
 funcuper - aspiradora  
 funce - funcionar  
 • dusfunce - falla (mal funcionamiento)  
-konfuncebil - compatible  
+• konfuncebil - compatible  
 funge - hongo (moho)  
-fungonete - micelio  
-fungopal - champiñón (seta)  
-• dusfunse - falla (mal funcionamiento)  
-• konfunsebil - compatible  
+fungenete - micelio  
+fungepal - champiñón (seta)  
 fure - enojado (furioso)  
 • furia - ira (furia)  
 furete - hurón  
@@ -940,7 +924,7 @@ futau - hacha
 fuze - derretirse  
 • fuzion - fusión  
 • konfuze - fusionar (fundir)  
-fuzopetre - lava  
+fuzepetre - lava  
 
 ## G  
 
@@ -1271,6 +1255,10 @@ horlogetore - torre del reloj
 hormon - hormona  
 Horvatia - Croacia  
 hotel - hotel (albergue)  
+hua - flor  
+huabing - florero  
+huamosim - primavera  
+huapote - maceta (plantera)  
 hui - ceniza  
 huidarte - podsol  
 huirang - gris  
@@ -1578,6 +1566,7 @@ kenar - frontera (límite, borde, periferia)
 kenare - periférico  
 kenarbaryer - valla (cerca)  
 kenarfon - consonante  
+kentaur - centauro  
 kerube - querubín  
 ketle - hervidor (tetera)  
 kex - pelo  
@@ -1654,14 +1643,14 @@ kolonisme - colonialismo
 koloniste - colonialista  
 koloner - colono  
 kolum - columna  
-kome - coma  
-komodia - comedia  
-komale - blando (mullido)  
+• komodia - comedia  
+koma - coma  
 Komoro nesia - Comoros  
 kompania - compañía (empresa, corporación)  
-komune - compartir (tener en común)  
-komune - comunitario  
-kontre - estar en contra  
+kon - con (común)  
+• konife - compartir (tener en común)  
+• konike - comunitario  
+• kontre - estar en contra  
 konjen - compañero (compinche)  
 Konakri Ginia - Guinea  
 koncung - insecto  
@@ -1672,10 +1661,10 @@ kongfuzisme - confucianismo
 Konkani - konkani  
 konserte - concierto  
 konus - cono  
-kope - copia (réplica)  
-kope - copiar  
-kopohake - derechos de autor (copyright)  
 kopernikium - copérnico  
+kopi - copiar  
+• kopiaje - copia (réplica)  
+kopihake - derechos de autor (copyright)  
 kor - corazón (núcleo)  
 korarme - arma nuclear  
 korenergia - energía nuclear  
@@ -2168,6 +2157,7 @@ Mongolia - Mongolia
 monster - monstro  
 monte - montaña (monte)  
 • montaner - alpinista (montañista)  
+montepike - cima (pico, cumbre, vértice)  
 morfe - morfo  
 • morfeme - morfema  
 morte - morirse (muerte; muerto)  
@@ -2247,6 +2237,7 @@ nanas - piña
 narake - infierno  
 narde - backgammon  
 narke - droga (narcótico)  
+narme - blando (mullido)  
 nas - gente  
 • nasia - nación  
 • nasian - gente  
@@ -2330,7 +2321,7 @@ Nikaragua - Nicaragua
 nikel - níquel  
 nil - azul  
 nilbavite - zafiro  
-nilcentaur - aciano (azulejo)  
+nilkentaurhua - aciano (azulejo)  
 nilon - nailon (nilón)  
 ninde - insulto (ofensa, afrenta)  
 ninde - grosero (maleducado)  
@@ -2549,7 +2540,6 @@ patolojia - patología
 patomise - infectar (contagiar; infección, contagio)  
 patate - papa  
 pau - pistola (rifle)  
-pau - disparar  
 paunde - libra (£)  
 pauze - pausa  
 • repauze - reposo  
@@ -2596,8 +2586,8 @@ picea - pícea
 pige - trasero (nalgas)  
 pijin - pidgin  
 pike - pico (punta)  
-pike - cima (pico, cumbre, vértice)  
 pil - piel  
+• depile - quitar (pelar)  
 piloter - piloto  
 pin - alfiler (espina, aguja)  
 pinkardon - cardo borriquero  
@@ -3107,11 +3097,11 @@ soi - soja
 soimilke - leche de soja  
 soisaus - salsa de soja  
 sol - sol  
-solocate - parasol  
-solocentaur - abrepuño  
-soloful - girasol  
-solosistem - sistema solar  
-solostate - solsticio  
+solcate - parasol  
+solhua - girasol  
+solkentaurhua - abrepuño  
+solsistem - sistema solar  
+solestate - solsticio  
 Solomon nesia - Islas Salomón  
 some - dormir (sueño)  
 • somive - soñoliento (somnífero)  
@@ -3324,9 +3314,7 @@ ticin - instrumento de arco
 tim - equipo  
 Timor - Timor  
 tipe - tipo (género)  
-tire - tirar  
-tire milke - ordeñar  
-tire pil - quitar (pelar)  
+tire - disparar  
 tiregana - palanca  
 tirelonge - estirar (extender)  
 tireriu - corriente de resaca  
@@ -3366,6 +3354,7 @@ trate - arrastrar
 • extrate - extraer  
 • extrator - extractor  
 • kontrate - contrato (tratado)  
+trate milke - ordeñar  
 tren - tren  
 trendau - vía férrea  
 trete - contrato (tratado)  

@@ -132,6 +132,7 @@ bambu - 竹子
 bamia - 秋葵  
 ban - 板子  
 bangem - 版图游戏  
+bana - 箭  
 banan - 香蕉  
 bande - 班  (一帮)  
 bandir - 旗  
@@ -227,13 +228,14 @@ cakre - 轮子
 caku - 刀  
 cakukate - 切  
 camaca - 匙子  
+koncanisme - 共产主义  
+cang - 层 (楼层)  
 cantergrupe - 合唱团  
 catre - 四 (4)  
 caukitabe - 草书  
 ceke - 支票  
 celolojia - 细胞学  
-ceng - 层  
-sengjen - 成人 (成年人)  
+cengjen - 成人 (成年人)  
 cengnan - 男人  
 cengni - 女人  
 ceresium - 铈  
@@ -242,7 +244,7 @@ cesium - 铯
 cete - 七 (7)  
 cetoden - 週  
 cili - 菜椒  
-cili fun - 辣椒粉  
+cilifun - 辣椒粉  
 cina - 汉族  
 cinacosen - 中韩的  
 cinanipon - 中日的 (汉日的)  
@@ -269,10 +271,10 @@ dam - 暗 (黑暗)
 dane - 丹麦的  
 dane - 种  
 • danike - 种子的  
-danograne - 种子  
-danger - 钟 (摇铃)  
-dantobalute - 槲树  
-darotube - 漏斗  
+dangrane - 种子  
+dang - 钟 (摇铃)  
+dantebalute - 槲树  
+dartube - 漏斗  
 dargemute - 发展 (开发)  
 date - 数据  
 datebanke - 数据库  
@@ -280,10 +282,11 @@ dateprocese - 数据处理
 dateproceselojia - 计算机科学  
 datetable - 表格  
 de - 从  
-defkaske - 盔甲  
+defekaske - 盔甲  
 defeban - 盾牌  
 dege - 得 (获得)  
 • sudeke - 道德  
+dele - 迟延  
 den - 日  
 den un - 星期一 (禮拜一)  
 den du - 星期二 (禮拜二)  
@@ -318,8 +321,6 @@ dom - 家 (房子)
 • donaje - 礼物  
 donajoceke - 礼物卡  
 dong - 东  
-dosile - 驯养  
-dosile - 驯服的  
 du - 二 (2)  
 dua - 祈祷  
 • dusdua - 诅咒  
@@ -344,7 +345,7 @@ emotohal - 心情
 emotikon - 绘文字  
 englomargarite - 雛菊  
 erbium - 铒  
-europobalute - 夏櫟  
+europebalute - 夏櫟  
 europium - 铕  
 exe - 外  
 exojen - 外人 (局外人)  
@@ -354,8 +355,8 @@ exojen - 外人 (局外人)
 faide - 效用 (好处)  
 fan - 粉丝 (fensi)  
 fange - 坭  
-fangodefoban - 挡泥板  
-fangostan - 沼泽  
+fangedefoban - 挡泥板  
+fangestan - 沼泽  
 fase - 面  
 fasilia da acese - 無障礙環境  
 fatige - 疲劳  
@@ -377,9 +378,8 @@ filme - 膜
 fiorde - 峡湾  
 firuze - 绿松石  
 fite - 植物  
-fitoyamiste - 素食主义者  
-fitolojia - 植物学  
-flece - 箭  
+fiteyamiste - 素食主义者  
+fitelojia - 植物学  
 flurium - 氟  
 fobe - 害怕 (吓唬)  
 fontekalam - 钢笔  
@@ -396,17 +396,14 @@ frasen - 白蜡树
 frem - 框  
 frike - 擦伤  
 fuke - 衣服  
-fuku - 穿  
-ful - 花  
-fulopote - 花瓶  
-fulpote - 花盆  
+• be fuke - 穿  
 • funcebil - 機能的  
-fungopal - 蘑菇  
+fungepal - 蘑菇  
 futemarke - 脚印  
 futau - 斧头  
 fuze - 融化  
 • exfuze - 熔炼  
-fuzopetre - 熔岩  
+fuzepetre - 熔岩  
 
 ## G  
 
@@ -552,6 +549,9 @@ holmium - 钬
 hor - 小时  
 horloger - 钟  
 hotel - 旅馆  
+hua - 花  
+huabing - 花瓶  
+huapote - 花盆  
 huidarte - 灰化土  
 huke - 钩  
 hukokrus - 卍 (卐)  
@@ -697,6 +697,7 @@ keci - 客气
 keger - 客人  
 kenar - 边  
 kenarbaryer - 篱笆  
+kentaur - 人马 (半人马)  
 kexebroxe - 发刷  
 kexefentor - 电吹风 (吹风机)  
 keze - 酪 (起司)  
@@ -718,12 +719,13 @@ klorium - 氯
 • inkluze - 包括  
 koala - 樹袋熊 (考拉)  
 kobalte - 钴  
-komodia - 喜剧  
+• komodia - 喜剧  
+kon - 共  
 koncung - 昆虫  
 Kongfuze - 孔夫子  
 konserte - 音乐会  
 konus - 锥体  
-kope - 摹本 (拷貝)  
+• kopiaje - 摹本 (拷貝)  
 kor - 核心  
 koral - 珊瑚  
 korne - 角  
@@ -985,7 +987,7 @@ nide - 巢 (穴)
 nikel - 镍  
 nil - 蓝色  
 nilbavite - 蓝宝石  
-nilcentaur - 矢車菊  
+nilkentaurhua - 矢車菊  
 nilseramsing - 茜草花  
 nilon - 尼龙  
 niobium - 铌  
@@ -1097,6 +1099,7 @@ piaze - 洋葱
 picea - 云杉  
 pike - 尖顶  
 pil - 皮  
+• depile - 削 (刮去)  
 pin - 别针  
 pincope - 镐  
 pinkardon - 大翅蓟  
@@ -1280,8 +1283,8 @@ soi - 大豆 (黄豆)
 soimilke - 豆浆  
 soisaus - 酱油  
 sol - 太阳  
-soloful - 向日葵  
-solosistem - 太阳系  
+solhua - 向日葵  
+solsistem - 太阳系  
 some - 睡觉 (困觉)  
 • ansome - 失眠  
 somokamar - 卧室 (寝室)  
@@ -1360,8 +1363,6 @@ tibesui - 药水
 • tikete - 票  
 • retrotikete - 往返票  
 tim - 队  
-tire milke - 拉  
-tire pil - 削 (刮去)  
 tiregana - 杆  
 tirelonge - 拉  
 titanium - 钛  
@@ -1378,6 +1379,7 @@ torium - 钍
 tragodia - 悲剧  
 trate - 拖  
 • trater - 拖拉机 (铁牛)  
+trate milke - 拉  
 trete - 合同 (合约)  
 • kontrete - 公約  
 tri - 三 (3)  

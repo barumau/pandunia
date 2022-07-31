@@ -138,6 +138,7 @@ bambu - бамбук
 bamia - окра (бамия)  
 ban - доска (панель)  
 bangem - настольная игра  
+bana - стрела (стрелка)  
 banan - банан  
 bande - банда  
 bandir - флаг  
@@ -253,6 +254,7 @@ caipote - чайник
 cakre - колесо  
 caku - нож  
 camaca - ложка  
+cang - ярус (этаж)  
 canse - возможность (шанс)  
 cantergrupe - хор  
 carme - шарм  
@@ -260,13 +262,12 @@ catre - четыре (4)
 caukitabe - цаошу  
 ceke - чек  
 celolojia - цитология  
-sengjen - взрослый  
-centaure - василёк  
+cengjen - взрослый  
 • excepe - выгнать (исключить, кроме)  
 • intercepe - перехватывать  
 • recepion - приём  
 ceresium - церий  
-cerize - черешня  
+ceri - черешня  
 • acese - доступ  
 • precese - предшествовать  
 • sucese - преуспеть  
@@ -300,18 +301,16 @@ dayite - валун
 dailasun - лук исполинский  
 daipau - пушка  
 daipote - котёл  
-dalil - доказательство  
 dam - тёмный  
 dane - датский  
 dane - семя  
 • danike - семенной  
-dange - звенеть  
-danger - звонок  
+dang - звон (звонок; звенеть)  
 danse - танец  
-dantobalute - дуб зубчатый  
-darotube - воронка  
+dantebalute - дуб зубчатый  
+dartube - воронка  
 dargemute - развитие  
-darmositium - дармштадтий  
+darmesitium - дармштадтий  
 date - данные  
 • dataje - файл  
 datebanke - база данных  
@@ -319,7 +318,7 @@ dateprocese - обработка данных
 dateproceselojia - информатика  
 dauban - табличка с названием улицы  
 de - из (от)  
-defkaske - доспехи  
+defekaske - доспехи  
 defeban - щит  
 dege - получить  
 den - сутки  
@@ -355,17 +354,14 @@ dokumfilme - документальный фильм
 dolfin - дельфин  
 dom - дом  
 • domike - домашний  
-domzeze - муха  
 • dominia - владычество (доминион)  
-Dominiki Komunkratia - Доминиканская Республика  
+domzeze - муха  
+Dominikan Vakilkratia - Доминиканская Республика  
 • donaje - подарок (дар, презент)  
 • donive - щедрый  
 donajoceke - подарочный сертификат  
 dong - восток (ост)  
 donggorila - восточная горилла  
-dosile - укрощать (приручить)  
-dosile - кроткий  
-dosilgenite - одомашнивать  
 du - два (2)  
 du o tri - пара  
 • dusdua - проклятие (анафема)  
@@ -390,14 +386,14 @@ ekore - белка
 • eletrolojia - электроника  
 eletrorade - молния  
 elfe - эльф  
-em - элемент  
+eme - элемент  
 • emotion - эмоция (чувство)  
 • emotos - эмоциональный  
 emotohal - настроение  
 emotikon - смайлик (эмодзи)  
 englomargarite - маргаритка многоле́тняя  
 erbium - эрбий  
-europobalute - дуб черешчатый  
+europebalute - дуб черешчатый  
 europium - европий  
 exe - вне  
 exojen - посторонний (аутсайдер)  
@@ -408,7 +404,7 @@ exojen - посторонний (аутсайдер)
 faide - применение (утилитарность)  
 fan - фан (фанат)  
 fange - болото  
-fangostan - болото (топь)  
+fangestan - болото (топь)  
 fase - грань  
 fasile - лёгкий (простой)  
 fasilia da acese - доступность  
@@ -417,7 +413,7 @@ fatige - усталость
 faze - фаза  
 fe - делать  
 fei - лететь (полёт)  
-feimus - летучая мышь  
+feimux - летучая мышь  
 fenkate - анализ  
 • fentor - вентилятор  
 fer - железо  
@@ -439,9 +435,8 @@ filme - плева (фильм)
 fiorde - фьорд  
 firuze - бирюза  
 fite - растение  
-fitoyamiste - вегетарианец  
-fitolojia - ботаника  
-flece - стрела (стрелка)  
+fiteyamiste - вегетарианец  
+fitelojia - ботаника  
 flerovium - флеровий  
 flurium - фтор  
 fobe - бояться (страшиться; страшить)  
@@ -459,13 +454,9 @@ frasen - ясень
 frem - рама  
 frike - царапать  
 fuke - одежда  
-fuke - одевать  
-fuke - оде́тый  
-fuku - носить (одеваться)  
-ful - цветок  
-fulmosim - весна  
-fulpote - цвето́чный горшок  
-fungopal - гриб  
+• fukize - одевать  
+• be fuke - носить (одеваться)  
+fungepal - гриб  
 futebol - футбол  
 futemarke - след ноги  
 futau - топор (колун, секира)  
@@ -623,6 +614,10 @@ holmium - гольмий
 hor - час  
 horloger - часы  
 hotel - гостиница (отель)  
+hua - цветок  
+huabing - ваза  
+huamosim - весна  
+huapote - цвето́чный горшок  
 huidarte - подзол  
 huke - крюк (гак)  
 hukokrus - свастика  
@@ -771,6 +766,8 @@ ke - что
 ke mode - как  
 kecape - кетчуп  
 kenarbaryer - забор (ограда)  
+kentaur - кентавр  
+kentaurhua - василёк  
 kexebroxe - щётка для воло́с  
 kexefentor - фен  
 keze - сыр  
@@ -799,15 +796,15 @@ klorium - хлор
 • inkluze - включить  
 koala - коала  
 kobalte - кобальт  
-komi - комический (смешной)  
-komodia - комедия  
+kome - комический (смешной)  
+• komodia - комедия  
 koncung - насекомое  
 konge - пробиться  
 Kongfuze - Конфуций  
 konserte - концерт  
 konus - конус  
-kope - копия  
 kopernikium - коперниций  
+• kopiaje - копия  
 koral - коралл  
 kornemelon - кивано (рогатая дыня)  
 koron - корона  
@@ -1027,6 +1024,7 @@ moluske - моллюск
 mone - деньги  
 • monete - монета  
 • montaner - альпинист (скалолаз)  
+montepike - вершина  
 • posmortal - после смерти  
 mos - мох  
 mosim - время года (сезон)  
@@ -1088,7 +1086,7 @@ nide - гнездо (улей)
 nikel - никель  
 nil - синий (голубой)  
 nilbavite - сапфир  
-nilcentaur - василёк синий  
+nilkentaurhua - василёк синий  
 nilon - нейлон  
 niobium - ниобий  
 Nipon - Япония  
@@ -1198,7 +1196,6 @@ patogener - патоген
 patolojia - патология  
 patomise - инфекция (заразная болезнь)  
 pau - пистолет  
-pau - стрелять  
 pauze - пауза  
 • repauze - отдых  
 peikar - профессия  
@@ -1225,7 +1222,7 @@ pexehuke - крючок
 piaze - лук  
 picea - ель  
 pike - кончик (остриё, пик)  
-pike - вершина  
+• depile - ободрать  
 pin - булавка (игла, шип)  
 pinane - пикантный  
 pincope - киркомотыга  
@@ -1459,8 +1456,8 @@ soi - соя
 soimilke - соевое молоко  
 soisaus - соевый соус  
 sol - солнце  
-solocate - зонтик от солнца  
-soloful - подсолнечный  
+solcate - зонтик от солнца  
+solhua - подсолнечный  
 some - спать  
 • somive - сонный  
 • ansome - бессонница (инсомния)  
@@ -1564,8 +1561,7 @@ tibe - лечить
 tibesui - зелье  
 • tikete - билет  
 tim - команда  
-tire milke - тянуть  
-tire pil - ободрать  
+tire - стрелять  
 tiregana - рычаг  
 tirelonge - вытянуть  
 tireriu - отбойное течение  
@@ -1588,6 +1584,7 @@ trate - волочить
 • trater - трактор  
 • extrate - извлекать  
 • kontrate - договор (контракт)  
+trate milke - тянуть  
 trete - договор  
 • kontrete - контракт  
 tri - три (3)  

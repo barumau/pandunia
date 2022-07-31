@@ -133,6 +133,7 @@ bambu - bambu
 bamia - quiabo  
 ban - painel  
 bangem - jogo de tabuleiro  
+bana - flecha (seta)  
 banan - banana  
 bande - bando  
 • bankekan - banco  
@@ -246,15 +247,14 @@ carme - charme
 catre - quatro (4)  
 ceke - cheque  
 celolojia - citologia  
-seng - maduro (adulto)  
-centaure - centáurea  
+ceng - maduro (adulto)  
 • acepe - aceitar  
 • intercepe - interceptar  
 • recepe - receber  
 • recepion - recepção  
 • receper - receptor  
 ceresium - cério  
-cerize - cereja  
+ceri - cereja  
 • acese - acesso (acceder)  
 • precese - preceder (anteceder)  
 • sucese - prosperar  
@@ -283,24 +283,24 @@ daidom - palácio (mansão, palacete)
 daihai - oceano  
 dayite - pedregulho  
 daipau - canhǎo  
-dalil - prova  
 dam - escuro  
 dane - danês  
 dane - semente  
 • danike - seminal  
-danger - sino (campainha)  
+dang - sino (campainha)  
 danse - baile (danza)  
-darotube - funil  
+dartube - funil  
 dargemute - desenvolvimento  
-darmositium - darmstádio  
+darmesitium - darmstádio  
 date - dados  
 datebanke - banco de dados  
 dateprocese - processamento de dados  
 dateproceselojia - informática (ciência da computação)  
 de - de  
-defkaske - armadura  
+defekaske - armadura  
 defeban - escudo  
 dege - ter (achar, receber)  
+dele - demora (atraso, espera)  
 den - dia (24 horas)  
 • denike - diário  
 den un - segunda-feira  
@@ -363,13 +363,13 @@ ekore - esquilo
 eletre - eletricidade  
 • eletrolojia - eletrônica  
 elfe - elfo  
-em - elemento  
+eme - elemento  
 • emotion - emoçao  
 emotohal - humor  
 emotikon - emoticon (emoji)  
 englomargarite - margarida-comum  
 erbium - érbio  
-europobalute - carvalho-roble  
+europebalute - carvalho-roble  
 europium - európio  
 exe - exterior  
 • extre - extra  
@@ -378,8 +378,8 @@ exe - exterior
 
 fan - fã  
 fange - lama (lodo)  
-fangodefoban - para-lama  
-fangostan - pântano  
+fangedefoban - para-lama  
+fangestan - pântano  
 fase - face (faceta)  
 fasile - fácil  
 fatige - fadiga  
@@ -408,9 +408,8 @@ fi - bah!
 • filsofia - filosofia  
 fiorde - fiorde  
 fite - planta (vegetal)  
-fitoyamiste - vegetariano  
-fitolojia - botânica  
-flece - flecha (seta)  
+fiteyamiste - vegetariano  
+fitelojia - botânica  
 flerovium - fleróvio  
 flurium - flúor  
 fobe - temer (assustar)  
@@ -429,12 +428,10 @@ franse krepe - crepe
 frasen - freixo  
 frem - moldura  
 fuke - roupa (vestidura)  
-fuke - vestir  
-fuku - trajar (vestir-se)  
-ful - flor  
-fulpote - vaso de flores  
+• fukize - vestir  
+• be fuke - trajar (vestir-se)  
 funge - fungo  
-fungopal - cogumelo  
+fungepal - cogumelo  
 futebol - futebol  
 futemarke - pegada  
 futau - machado  
@@ -586,6 +583,9 @@ holmium - hólmio
 hor - hora  
 horloger - relógio  
 hotel - hotel  
+hua - flor  
+huabing - vaso  
+huapote - vaso de flores  
 huidarte - espodossolo  
 huke - gancho  
 hukokrus - suástica (cruz gamada)  
@@ -740,6 +740,8 @@ ke mode - como
 ke sate - quando  
 kecape - catchup  
 kenarbaryer - cerca  
+kentaur - centauro  
+kentaurhua - centáurea  
 kexebroxe - escova de cabelo  
 kexefentor - secador de cabelo  
 keze - queijo  
@@ -768,14 +770,15 @@ klorium - cloro
 • inkluzive - inclusivo  
 koala - coala  
 kobalte - cobalto  
-komi - cômico  
-komodia - comédia  
+kome - cômico  
+• komodia - comédia  
+kon - com (comum)  
 koncung - inseto  
 Kongfuze - Confúcio  
 konserte - concerto  
 konus - cono  
-kope - cópia  
 kopernikium - copernício  
+• kopiaje - cópia  
 kor - núcleo (cerne)  
 koral - coral  
 korne - corno  
@@ -1007,6 +1010,7 @@ mone - dinheiro
 • monete - moeda  
 monte - montanha (monte)  
 • montaner - alpinista (montanhista)  
+montepike - cume (pico, topo)  
 mos - musgo  
 mosim - estação (sazão)  
 moskovium - moscovio  
@@ -1066,7 +1070,7 @@ nide - ninho (vespiero)
 nikel - níquel  
 nil - azur  
 nilbavite - safira  
-nilcentaur - escovinha (centáurea)  
+nilkentaurhua - escovinha (centáurea)  
 niobium - nióbio  
 Nipon - Japão  
 niponium - nihonium  
@@ -1207,7 +1211,6 @@ pexehuke - anzol
 piaze - cebola  
 picea - pícea (espruce)  
 pike - ponta (pico, bico)  
-pike - cume (pico, topo)  
 pil - pele  
 pin - alfinete  
 pincope - picareta  
@@ -1429,8 +1432,8 @@ soi - soja
 soimilke - leite de soja  
 soisaus - molho de soja  
 sol - sol  
-solocate - sombrinha  
-soloful - girassol  
+solcate - sombrinha  
+solhua - girassol  
 some - dormir (sono)  
 • somive - sonolento  
 • desome - acordado  

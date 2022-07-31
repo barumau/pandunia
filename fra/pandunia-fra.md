@@ -215,6 +215,7 @@ bambu - bambou
 bamia - gombo  
 ban - tableau (panneau)  
 bangem - jeu de société  
+bana - flèche  
 banan - banane  
 bande - bande  
 bandir - drapeau  
@@ -342,6 +343,7 @@ caipote - théière
 cakre - roue  
 caku - couteau  
 camaca - cuiller  
+cang - niveau (étage)  
 canse - chance  
 cante - chanter (chanson)  
 cantergrupe - chœur  
@@ -349,16 +351,15 @@ carme - charme
 catre - quatre (4)  
 ceke - chèque  
 celolojia - cytologie  
-seng - mûr (mature)  
-sengjen - adulte  
-centaure - Centaurée  
+ceng - mûr (mature)  
+cengjen - adulte  
 • acepe - accepter  
 • intercepe - intercepter  
 • recepe - recevoir  
 • recepion - réception  
 • receper - receveur (récepteur)  
 ceresium - cérium  
-cerize - cerise  
+ceri - cerise  
 • acese - accès (accéder)  
 • precese - précéder  
 • sucese - réussir (avoir du succès, prospérer)  
@@ -387,17 +388,16 @@ dayite - rocher
 daipau - canon  
 daipote - chaudron  
 dake - couvrir  
-dalil - preuve  
 dam - obscur (sombre, foncé)  
 dane - danois  
 dane - semence  
 • danike - séminal  
-danger - cloche  
+dang - cloche  
 danse - dance  
 dante - dent  
-darotube - entonnoir  
+dartube - entonnoir  
 dargemute - développement  
-darmositium - darmstadtium  
+darmesitium - darmstadtium  
 date - données  
 • dataje - dossier  
 datebanke - base de données  
@@ -405,8 +405,9 @@ dateprocese - traitement de données
 dateproceselojia - informatique  
 dauban - panneau de signalisation  
 de - de  
-defkaske - armure  
+defekaske - armure  
 defeban - bouclire  
+dele - délai (retard)  
 den - jour (24 heures)  
 • denike - quotidien (journalier)  
 den un - lundi  
@@ -416,6 +417,7 @@ den catre - jeudi
 den pente - vendredi  
 den sixe - samedi  
 den cete - dimanche  
+des - dix (10)  
 deu - dieu  
 • andeviste - athée  
 deunagre - dévanagari  
@@ -444,17 +446,13 @@ dokumfilme - documentaire
 dolfin - dauphin  
 dom - maison (foyer, domicile; vivre (habiter)  
 • domike - domestique  
-domzeze - mouche  
 • dominia - domaine  
+domzeze - mouche  
 • donaje - cadeau  
 • donive - généreux  
 • sudone - charité  
 donajoceke - chèque cadeau  
 dong - east (orient)  
-dosile - apprivoiser (dresser, dompter, discipliner)  
-dosile - docile (insipide)  
-dosilgene - domestiqué (apprivoisé)  
-dosilgenite - domestiquer (apprivoiser)  
 du - deux (2)  
 • duple - double  
 • dusdua - malédiction  
@@ -482,7 +480,7 @@ ekore - écureuil
 eletre - électricité  
 • eletrolojia - électronique  
 elfe - elfe  
-em - élément (unité fondamentale)  
+eme - élément (unité fondamentale)  
 • emotion - émotion  
 emotohal - humeur  
 emotikon - émoticône (emoji)  
@@ -490,8 +488,8 @@ englofone - anglophone
 englomargarite - pâquerette  
 erbium - erbium  
 Europe - Europe  
-europe - européen  
-europobalute - chêne pédonculé  
+• europan - européen  
+europebalute - chêne pédonculé  
 europium - europium  
 exe - extérieur  
 • extre - supplémentaire  
@@ -501,8 +499,8 @@ exe - extérieur
 fan - fan  
 fanatike - fanatique  
 fange - boue (fange, bourbe, gadoue)  
-fangodefoban - garde-boue (aile)  
-fangostan - marécage (marais)  
+fangedefoban - garde-boue (aile)  
+fangestan - marécage (marais)  
 fase - face (facette)  
 fasile - facile  
 fatige - fatigue  
@@ -510,7 +508,7 @@ fatige - fatigue
 faze - phase  
 fe - faire  
 fei - voler (vol)  
-feimus - chauve-souris  
+feimux - chauve-souris  
 feke - fèces  
 • defeke - déféquer  
 feni - distinct (numérique)  
@@ -536,11 +534,10 @@ fi - bah! (fi!)
 fin - fin  
 fiorde - fiord  
 fite - plante (végétal)  
-fitoyamiste - végétarien  
-fitolojia - botanique  
+fiteyamiste - végétarien  
+fitelojia - botanique  
 fixe - ficher (fixer)  
 • posfixe - suffixe  
-flece - flèche  
 flerovium - flérovium  
 flurium - fluor  
 fobe - peur (effrayer; craindre)  
@@ -562,19 +559,17 @@ franse krepe - crêpe
 frasen - frêne  
 frem - cadre  
 fuke - vêtements  
-fuke - habiller (vêtir)  
-fuku - porter (s’habiller)  
-ful - fleur  
-fulpote - pot de fleur  
-fungonete - mycélium  
-fungopal - champignon  
+• fukize - habiller (vêtir)  
+• be fuke - porter (s’habiller)  
+fungenete - mycélium  
+fungepal - champignon  
 futebol - football  
 futemarke - empreinte de pied  
 futau - hache  
 fuze - melt  
 • exfuze - fondu  
 • infuze - infuser  
-fuzopetre - lave  
+fuzepetre - lave  
 
 ## G  
 
@@ -747,6 +742,8 @@ holmium - holmium
 hor - heure  
 horloger - horloge  
 hotel - hôtel  
+hua - fleur  
+huapote - pot de fleur  
 huidarte - podzol  
 huke - crochet  
 hukokrus - svastika (croix gammée)  
@@ -911,6 +908,8 @@ ke jen - qui
 ke mode - comment  
 ke sate - quand  
 kecape - ketchup  
+kentaur - centaure  
+kentaurhua - Centaurée  
 kexebroxe - brosse à cheveux  
 kexefentor - sèche-cheveux  
 keze - fromage  
@@ -942,14 +941,15 @@ kluze - fermer
 • inkluzive - inclusif  
 koala - koala  
 kobalte - cobalt  
-komi - comique  
-komodia - comédie  
+kome - comique  
+• komodia - comédie  
+kon - avec (commun)  
 koncung - insecte  
 Kongfuze - Confucius  
 konserte - concert  
 konus - cône  
-kope - copie  
 kopernikium - copernicium  
+• kopiaje - copie  
 kor - coeur  
 koral - corail  
 korne - corne  
@@ -1187,6 +1187,7 @@ molidenium - molybdène
 mone - argent  
 • monete - monnaie (pièce)  
 • montaner - alpiniste  
+montepike - cime (pic, sommet)  
 mos - mousse  
 mosim - saison  
 moskovium - moscovium  
@@ -1251,7 +1252,7 @@ nide - nid
 nikel - nickel  
 nil - bleu  
 nilbavite - saphir  
-nilcentaur - Centaurée bleuet  
+nilkentaurhua - Centaurée bleuet  
 nilon - nylon  
 niobium - niobium  
 Nipon - Japon  
@@ -1403,7 +1404,7 @@ pexehuke - hameçon
 piaze - oignon  
 picea - épicéa  
 pike - bout (pointe, pic)  
-pike - cime (pic, sommet)  
+• depile - écorce  
 pin - épingle  
 pinane - piquant  
 pincope - pioche  
@@ -1653,9 +1654,9 @@ soi - soja
 soimilke - lait de soja  
 soisaus - sauce de soja  
 sol - soleil  
-solocate - ombrelle (parasol)  
-solocentaur - Centaurée du solstice  
-soloful - Tournesol  
+solcate - ombrelle (parasol)  
+solhua - Tournesol  
+solkentaurhua - Centaurée du solstice  
 some - dormir (sommeil)  
 • somive - ensommeillé (somnolent)  
 • desome - éveillé  
@@ -1750,8 +1751,6 @@ tibesui - pocion
 • tikete - billet  
 • retrotikete - aller-retour  
 tim - équipe  
-tire milke - tirer  
-tire pil - écorce  
 tirelonge - tender  
 titanium - titane  
 tix - chut  
@@ -1778,6 +1777,7 @@ trate - traîner
 • distrate - distraire  
 • extrate - extraire  
 • kontrate - contract (traité)  
+trate milke - tirer  
 trete - contract (traité)  
 • kontrete - convention (alliance, pacte)  
 tri - trois (3)  

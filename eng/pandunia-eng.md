@@ -313,6 +313,8 @@ bambu - bamboo
 bamia - okra (okro)  
 ban - board (pane, panel)  
 bangem - board game  
+bana - arrow (bolt)  
+• banafater - fletcher  
 banan - banana  
 bande - band (squad, group)  
 bandir - flag (banner)  
@@ -433,6 +435,7 @@ binite - brick
 bineplania - architecture  
 bineplaner - architect  
 binde - dot (spot)  
+bing - jar (vase)  
 bir - beer  
 birkan - bar (pub, beer house)  
 bis - genderqueer (non-binary)  
@@ -540,6 +543,8 @@ can - produce (create, make)
 • canivaje - fertilizer  
 koncanisme - communism  
 koncaniste - communist  
+can hua - blossom (bloom)  
+cang - layer (level, storey, floor, stratum, tier)  
 canse - opportunity (chance)  
 cante - sing (song, chant)  
 cantergrupe - choir (chorus)  
@@ -558,14 +563,12 @@ ceke - cheque (check)
 cel - cell (biology)  
 celolojia - cytology  
 celsius darge - degree Celsius  
-ceng - layer (level, storey, floor, stratum)  
-seng - mature (grown-up, ripe, adult)  
-sengjen - adult  
+ceng - mature (grown-up, ripe, adult)  
+cengjen - adult  
 cengnan - man (adult male)  
 cengni - woman (adult female)  
 cense - censor  
 • censer - censor  
-centaure - centaury  
 cepe - catch (capture, take, seize)  
 • cepure - capture (seizure)  
 • acepe - accept (get, receive)  
@@ -578,7 +581,7 @@ cepe - catch (capture, take, seize)
 • receper - receiver (receptor)  
 Ceres - Ceres (dwarf planet)  
 ceresium - cerium  
-cerize - cherry  
+ceri - cherry  
 Cernagore - Montenegro  
 cese - pass (go)  
 • acese - access (admission; reach)  
@@ -595,7 +598,7 @@ cete - seven (7)
 cetoden - week  
 Cile - Chile  
 cili - pepper (capsicum)  
-cili fun - paprika  
+cilifun - paprika  
 cimpanze - chimpanzee  
 cin - parent (mother or father)  
 cinbrusben - cousin  
@@ -617,7 +620,7 @@ cire - tear (rip, split)
 circire - tear up (tatter, shred)  
 cirtexe - rag (tattered cloth)  
 cite - quote (cite)  
-citomarke - quotation mark  
+citemarke - quotation mark  
 cita - cheetah  
 code - fuck (copulate)  
 • codekan - whorehouse  
@@ -625,7 +628,7 @@ coi - greens
 coklate - chocolate  
 coklategana - chocolate bar  
 Congking - Chongqing  
-cope - hoe  
+cope - hoe (hack, tool for chopping)  
 core - steal (theft)  
 • corer - thief  
 Cosen - Korea  
@@ -634,11 +637,11 @@ cuke - touch
 cum - kiss  
 cupe - suck (absorb)  
 cute - leave (go out, exit)  
-cutomun - exit door  
-cuze - choose (elect, select, pick; choice, election, selection))  
+cutemun - exit door  
+cuze - choose (elect, select, pick; choice, election, selection)  
 • cuzebil - option (choice)  
 • precuze - default (preset, predecided)  
-cuzoliste - menu (catalog)  
+cuzeliste - menu (catalog)  
 
 ## D  
 
@@ -661,31 +664,29 @@ daisite - big city
 daixulkan - university  
 dake - cover (conceal; lid, cap, deck)  
 • andake - uncover (reveal)  
-dalil - proof (evidence, proof, demonstration, testimony)  
-dalile - prove (demonstrate, testify)  
 dam - dark (dim)  
 dama gem - checkers (draughts)  
 dane - Danish  
 Dania - Denmark  
 dane - seed (semen)  
 • danike - seminal  
-danograne - seed (fertilized grain)  
-dange - ring (toll, clang)  
-danger - bell  
+dangrane - seed (fertilized grain)  
+dang - bell (ring, toll, clang)  
 danse - dance  
 dante - tooth  
-dantobalute - daimyo oak  
-dantobrox - tooth brush  
-dantokume - alveolar ridge (gum ridge)  
-dantotiber - dentist  
-dare - flow (current, stream)  
-darotube - funnel  
+dantebalute - daimyo oak  
+dantebrox - tooth brush  
+dantekume - alveolar ridge (gum ridge)  
+dantetiber - dentist  
+dar - flow (current, stream)  
+• daria - river (stream)  
+dartube - funnel  
 darge - step (degree, rank, grade, level, class)  
 • dusdarge - downgrade  
 • sudarge - upgrade (level up)  
 dargemeden - gradient (gradation, incline)  
 dargemute - development  
-darmositium - darmstadtium  
+darmesitium - darmstadtium  
 darte - soil (dirt; soily, dirty)  
 darvinisme - Darwinism  
 darviniste - Darwinist  
@@ -703,7 +704,7 @@ dauban - road sign
 de - of (attributive preposition)  
 de - from (since, because)  
 defe - defend (ward off; defense, defence)  
-defkaske - armor (shielding)  
+defekaske - armor (shielding)  
 • defer - defender  
 defeban - shield  
 dege - get (gain, obtain, receive)  
@@ -712,6 +713,7 @@ Deimos - Deimos
 deke - morality (ethics; moral)  
 • dekelojia - ethics  
 • sudeke - virtue (morals)  
+dele - wait (delay)  
 deme - people (population; public)  
 demogider - demagogue  
 demografia - demography  
@@ -729,7 +731,6 @@ den catre - Thursday
 den pente - Friday  
 den sixe - Saturday  
 den cete - Sunday  
-denge - wait  
 des - ten (10)  
 deskilo - ten thousand  
 dessixike - hexadecimal  
@@ -788,7 +789,7 @@ doice - German
 doke - prove (demonstrate, show, instruct)  
 • dokaje - doctrine (body of teachings)  
 • dokente - docent  
-• dokomen - document (paper used as a proof)  
+• dokemen - document (paper used as a proof)  
 • doker - doctor  
 dokum - document (record, file)  
 dokumfilme - documentary film  
@@ -800,11 +801,11 @@ dom - home (house, residence; reside, live in, inhabit)
 • domine - dominate  
 • domination - domination (dominion)  
 • dominente - dominant  
+• dominia - domain (dominion)  
 • dominer - dominator  
 • domize - accommodate  
 domzeze - housefly  
-• dominia - domain (dominion)  
-Dominiki Komunkratia - Dominican Republic  
+Dominikan Vakilkratia - Dominican Republic  
 Dominika - Dominica  
 domino - dominoes  
 done - give  
@@ -818,10 +819,6 @@ Dong Timor - East Timor (Timor-Leste)
 donggorila - eastern gorilla  
 dos - fault (sin, blame, defect, guilt)  
 dose - guilty  
-dosile - tame (train)  
-dosile - tame (docile, obedient)  
-dosilgene - domesticated  
-dosilgenite - domesticate (cultivate)  
 doste - friend (friendly, kind, nice, gentle)  
 • dostia - friendship  
 • andoste - enemy (unfriend; unfriendly)  
@@ -853,7 +850,7 @@ duman - smoke
 dunia - world  
 dunia baxe - world language  
 duna - dune  
-dungia aventur - dungeon crawl  
+dunjia aventur - dungeon crawl  
 dur - last (take time; elapse, pass by, go by; during; duration, time interval)  
 • dura - continue (go on, keep on, carry on)  
 • duro - still (yet, continuously)  
@@ -893,15 +890,14 @@ ekore - squirrel
 ekran - screen  
 Ekuador - Ecuador  
 eletre - electricity  
-• eletre - electric  
-• eletre kar - electric car  
 • eletrike - electric  
 • eletrolojia - electronics  
 • eletron - electron  
+eletregar - electric car  
 eletroposte (e-poste) - e-mail  
 eletrorade - lightning bolt  
 elfe - elf  
-em - element (the simplest unit)  
+eme - element (the simplest unit)  
 emote - feel (emote)  
 • emotion - emotion (feeling)  
 • emotos - emotional (emotive)  
@@ -941,9 +937,9 @@ eurasia - Eurasia
 eureke - find (discover)  
 euro - euro (€)  
 Europe - Europe  
-europe - European  
-Europi Unia - European Union (EU)  
-europobalute - English oak  
+Europe Unia - European Union (EU)  
+• europan - European  
+europebalute - English oak  
 europium - europium  
 Europa - Europa  
 exe - outside (exterior; outer, external)  
@@ -958,20 +954,19 @@ exa - exa-
 
 ## F  
 
-fade - supply (dispense, issue, put out)  
 faide - use (utility, asset, benefit, gain, advantage)  
 • faidaje - material (resource)  
 faine - fine (delicate)  
 false - false (fake)  
-falsvide - illusion (hallucination)  
+falsevide - illusion (hallucination)  
 famil - family  
 familnam - surname (family name)  
 fan - fan (be a fan, admire)  
 fanate - admire (adore)  
 fanatike - fanatic (enthusiast(ic))  
 fange - mud (mire)  
-fangodefoban - fender  
-fangostan - marsh (bog, swamp, morass)  
+fangedefoban - fender  
+fangestan - marsh (bog, swamp, morass)  
 fantas - imagine (fantasize; fantasy, imagination)  
 fantom - ghost (phantom)  
 farse - Persian (Farsi)  
@@ -992,7 +987,7 @@ faze - stage (phase)
 fe - do (make)  
 febre - fiever  
 fei - fly (flight)  
-feimus - bat (flying mammal)  
+feimux - bat (flying mammal)  
 feke - feces (shit, poop)  
 • defeke - defecate  
 femisme - feminism  
@@ -1026,7 +1021,7 @@ fete - do (make; deed, fact)
 • parafete - side-effect  
 • perfete - perfect (complete)  
 • rifete - do again (repeat, iterate)  
-fetobaxe - artificial language (conlang)  
+fetebaxe - artificial language (conlang)  
 fi - bah!  
 figur - figure (representation)  
 fikre - think (ponder; thought, idea)  
@@ -1052,8 +1047,8 @@ firme - firm (steady)
 • konfirme - confirm  
 firuze - turquoise gem  
 fite - plant (vegetable, vegetation)  
-fitoyamiste - vegetarian  
-fitolojia - botany (phytology)  
+fiteyamiste - vegetarian  
+fitelojia - botany (phytology)  
 fixe - fix (attach)  
 • fixation - fixation (attachment)  
 • afixe - affix  
@@ -1064,8 +1059,6 @@ fizike - physics
 • fizikia - physics (science)  
 • fiziker - physicist  
 flam - flame  
-flece - arrow (bolt)  
-• flecer - fletcher  
 flerovium - flerovium  
 flexe - bend (flex)  
 • flexebil - flexible   
@@ -1073,15 +1066,14 @@ flexe - bend (flex)
 • cirkoflexe - bend around  
 • deflexe - deflect (bend away)  
 • reflexe - reflect (bend back)  
-• reflexon - reflection  
+• reflexion - reflection  
 • reflexor - reflector  
 flurium - fluorine  
 fobe - fear (scare; frighten; scared, afraid)  
 • fobia - fear (phobia)  
 • fobante - scary (frightening)  
 Fobos - Phobos  
-fokus - focus (concentration)  
-fokuse - concentrate  
+fokus - focus (concentrate; concentration)  
 fole - mad (insane, crazy)  
 folia - madness (insanity)  
 fone - phone (speech sound)  
@@ -1130,16 +1122,9 @@ Franse Polinesia - French Polynesia
 frasen - ash tree  
 frem - frame  
 frike - rub (scrape, scrub)  
-fuge - return (restore, recover, resume)  
 fuke - clothing (clothes)  
-fuke - dress (clothe sb.)  
-fuke - clothed (dressed)  
-fuku - wear (dress, put on)  
-ful - flower  
-fulopote - flower vase  
-fulu - blossom (bloom)  
-fulmosim - spring (springtime)  
-fulpote - flowerpot  
+• fukize - dress (clothe sb.)  
+• be fuke - wear (dress, put on)  
 fume - fume  
 • perfume - perfume  
 • perfumeria - perfumery  
@@ -1147,14 +1132,12 @@ fun - dust (powder)
 funcuper - vacuum cleaner  
 funce - function (work)  
 • funcebil - functional (valid, workable)  
+• defunce - defunct (out of use)  
 • dusfunce - dysfunction (malfunction)  
-konfuncebil - compatible (supported)  
+• konfuncebil - compatible (supported)  
 funge - fungus (mushroom)  
-fungonete - mycelium  
-fungopal - mushroom (sporocarp)  
-• defunse - defunct (out of use)  
-• dusfunse - dysfunction (malfunction)  
-• konfunsebil - compatible (supported)  
+fungenete - mycelium  
+fungepal - mushroom (sporocarp)  
 fure - angry (furious)  
 • furia - anger (fury, rage, wrath)  
 furete - polecat (ferret)  
@@ -1170,7 +1153,7 @@ fuze - melt (liquify)
 • exfuze - smelt  
 • infuze - infuse (melt in, steep in)  
 • konfuze - merge (melt together, fuse, amalgamate)  
-fuzopetre - lava  
+fuzepetre - lava  
 
 ## G  
 
@@ -1556,6 +1539,10 @@ horlogetore - clocktower
 hormon - hormone  
 Horvatia - Croatia  
 hotel - hotel  
+hua - flower  
+huabing - vase (flower vase)  
+huamosim - spring (springtime)  
+huapote - flowerpot  
 hui - ash (ashes)  
 huidarte - podzol  
 huirang - grey (gray, ashy)  
@@ -1906,6 +1893,8 @@ kenar - border (edge, fringe, margin, rim, side, shore, periphery)
 kenare - peripheral  
 kenarbaryer - fence  
 kenarfon - consonant  
+kentaur - centaur  
+kentaurhua - centaury  
 kerube - cherub  
 ketle - kettle  
 kex - hair  
@@ -2001,17 +1990,15 @@ koloniste - colonialist
 koloner - colonist  
 • poskolonia - postcolonial  
 kolum - column (pillar, pole, post)  
-kome - comma  
-komi - comic (funny)  
-komodia - comedy  
-komale - soft  
+kome - comic (funny)  
+• komodia - comedy  
+koma - comma  
 Komoro nesia - Comoros  
 kompania - company (corporation)  
-komune - share  
-komune - common (shared)  
-komunkratia - republic  
-kon - common (mutual)  
-kontre - go against  
+kon - with (together; common)  
+• konife - share  
+• konike - common (shared)  
+• kontre - go against  
 konjen - companion (partner, sidekick)  
 Konakri Ginia - Guinea  
 koncung - insect  
@@ -2023,10 +2010,10 @@ kongfuzisme - Confucianism
 Konkani - Konkani  
 konserte - concert  
 konus - cone  
-kope - copy (duplicate, replica)  
-kope - copy (replicate)  
-kopohake - copyright  
 kopernikium - copernicium  
+kopi - copy (replicate)  
+• kopiaje - copy (duplicate, replica)  
+kopihake - copyright  
 kor - core (heart, nucleus, kernel)  
 • koraje - guts (courage)  
 • korajive - encouraging (incentive)  
@@ -2616,6 +2603,7 @@ monster - monster
 monte - mountain (mount, hill)  
 • montaner - mountaineer  
 • montete - hill  
+montepike - top (peak, pinnacle, summit, apex, vertex)  
 morfe - morph  
 • morfeme - morpheme  
 morte - die (death; dead, deceased)  
@@ -2708,6 +2696,7 @@ narke - drug (narcotic, dope, intoxicating substance)
 • narke - intoxicated (high, stoned)  
 • narkiste - drug addict  
 • narkose - narcosis  
+narme - soft  
 nas - people (folk)  
 • nasia - nation  
 • nasian - people (folk)  
@@ -2803,7 +2792,7 @@ Nikaragua - Nicaragua
 nikel - nickel  
 nil - blue  
 nilbavite - sapphire  
-nilcentaur - cornflower  
+nilkentaurhua - cornflower  
 nilseramsing - azure bluet  
 nilon - nylon  
 ninde - insult (offence)  
@@ -3059,7 +3048,6 @@ patolojia - pathology
 patomise - infect (infection, infestation, contagion)  
 patate - potato  
 pau - gun (firearm)  
-pau - shoot (fire)  
 paunde - pound (£)  
 pauze - pause (break)  
 • repauze - rest (repose)  
@@ -3125,9 +3113,9 @@ picea - spruce tree
 pige - buttocks (bum, butt, ass)  
 pijin - pidgin (contact language)  
 pike - point (tip, cusp, peak)  
-pike - top (peak, pinnacle, summit, apex, vertex)  
 pil - skin (peel, bark, leather)  
 pile - pile  
+• depile - strip (peel)  
 • konpile - compile (pile up together)  
 • konpiler - compiler  
 piloter - pilot  
@@ -3727,11 +3715,11 @@ soi - soy bean
 soimilke - soy milk  
 soisaus - soy sauce  
 sol - sun  
-solocate - parasol  
-solocentaur - yellow starthistle  
-soloful - sunflower  
-solosistem - solar system  
-solostate - solstice  
+solcate - parasol  
+solhua - sunflower  
+solkentaurhua - yellow starthistle  
+solsistem - solar system  
+solestate - solstice  
 Solomon nesia - Solomon Islands  
 some - sleep  
 • somive - drowsy  
@@ -3986,9 +3974,8 @@ tim - team
 Timor - Timor  
 tipe - type (kind, genre)  
 • tipelojia - typology  
-tire - pull (draw, drag)  
-tire milke - milk (draw milk)  
-tire pil - strip (peel)  
+tire - shoot (fire)  
+• tiraje - shot (bullet, arrow, etc)  
 tiregana - lever  
 tirelonge - stretch (extend)  
 tireriu - rip current  
@@ -4042,6 +4029,7 @@ trate - drag (haul, tow, trail)
 • extrate - extract (draw out)  
 • extrator - extractor  
 • kontrate - agreement (treaty, contract)  
+trate milke - milk (draw milk)  
 tren - train  
 trendau - rail (railway, railroad)  
 trenkaper - train hijacker  
@@ -4139,6 +4127,7 @@ vaginitis - vaginitis
 vakile - represent  
 • vakiler - representative (agent, proxy, attorney)  
 • vakilize - entrust (assign, authorize, delegate)  
+vakilkratia - republic  
 vale - value (worth; evaluate)  
 • valaje - valuables  
 • valure - value (evaluation)  

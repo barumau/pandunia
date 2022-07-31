@@ -104,6 +104,7 @@ bambu - 竹
 bamia - オクラ  
 ban - 板  
 bangem - ボードゲーム  
+bana - 矢 (矢印)  
 bankerutia - 破産  
 barium - バリウム  
 baru - 熊  
@@ -195,13 +196,14 @@ caikupe - 茶碗
 caipote - 急須  
 cakre - 車輪  
 camaca - スプーン  
+koncanisme - 共産主義  
 cantergrupe - 合唱団  
 catre - 四 (4)  
 cau - 草  
 caukitabe - 草書  
 caustan - 草地  
 ceke - 小切手 (チェック)  
-sengjen - 大人  
+cengjen - 大人  
 cengnan - 男の人  
 cengni - 女の人  
 • excepe - 追出 (退ける, 除いて)  
@@ -209,7 +211,7 @@ ceresium - セリウム
 • acese - アクセス  
 • sucese - 成功  
 cesium - セシウム  
-cili fun - パプリカ  
+cilifun - パプリカ  
 cinma - お婆さん  
 cinacosen - 中韓  
 cinanipon - 日中  
@@ -226,7 +228,7 @@ coklategana - チョコバー
 cope - クワ  
 • cuzebil - オプション (選択)  
 • precuze - 既定 (デフォルト)  
-cuzoliste - 品書き (メニュー)  
+cuzeliste - 品書き (メニュー)  
 
 ## D  
 
@@ -239,12 +241,12 @@ daipau - 大砲
 daipote - 大釜 (大鍋)  
 dam - 暗い  
 dane - デンマークの  
-danograne - 種  
-danger - 鐘 (鈴)  
-dantobalute - カシワ  
-darotube - 漏斗  
+dangrane - 種  
+dang - 鐘 (鈴)  
+dantebalute - カシワ  
+dartube - 漏斗  
 dargemute - 発展 (開発)  
-darmositium - ダームスタチウム  
+darmesitium - ダームスタチウム  
 darte - 土  
 datefenkate - データ解析  
 dateprocese - データ処理  
@@ -252,9 +254,10 @@ dateproceselojia - 計算機科学
 datetable - 表  
 dau - 道  
 de - -から  
-defkaske - 鎧  
+defekaske - 鎧  
 defeban - 盾  
 dege - 受ける (もらう)  
+dele - 遅れ (遅延)  
 demon - 悪魔  
 den - 日  
 den un - 月曜日  
@@ -289,20 +292,17 @@ dokum - 書類 (文書, ドキュメント)
 dokumfilme - ドキュメンタリー  
 dolfin - イルカ (ドルフィン)  
 dom - 家 (住む (居住する)  
-Dominiki Komunkratia - ドミニカ共和国  
+Dominikan Vakilkratia - ドミニカ共和国  
 done - あげる (くれる)  
 dong - 東  
 donggorila - ヒガシゴリラ  
-dosile - 馴らす  
-dosile - 温順 (素直)  
-dosilgene - 家畜  
 du - 二 (2)  
 dua - 祈祷  
 • dusdua - 呪い (たたり)  
 dubnium - ドブニウム  
 duge - 読む  
 dunia - 世界  
-dungia aventur - ダンジョンアドベンチャー  
+dunjia aventur - ダンジョンアドベンチャー  
 • duro - まだ  
 • durebil - 持続的  
 • redure - 再開する  
@@ -323,7 +323,7 @@ elfe - 妖精 (エルフ)
 emotikon - 絵文字  
 englomargarite - ヒナギク  
 erbium - エルビウム  
-europobalute - ヨーロッパナラ  
+europebalute - ヨーロッパナラ  
 europium - ユウロピウム  
 exe - 外  
 exojen - 部外者 (アウトサイダー)  
@@ -331,11 +331,11 @@ exojen - 部外者 (アウトサイダー)
 ## F  
 
 faide - 使用 (為, 利)  
-falsvide - 幻覚  
+falsevide - 幻覚  
 fan - ファン  
 fange - 泥  
-fangodefoban - フェンダー  
-fangostan - 沼地  
+fangedefoban - フェンダー  
+fangestan - 沼地  
 fase - 面  
 fasile - 易しい  
 fasilia da acese - アクセシビリティ  
@@ -343,7 +343,7 @@ fatige - 疲労 (疲れる, 疲労する)
 • faxisme - 法西斯主义  
 fe - する  
 fei - 飛ぶ  
-feimus - こうもり (飛鼠)  
+feimux - こうもり (飛鼠)  
 feni - デジタル  
 fenkate - 分析 (解析)  
 fente - 風  
@@ -359,8 +359,7 @@ filme - フィルム (膜)
 • filsofia - 哲学  
 fiorde - フィヨルド  
 fite - 植物  
-fitoyamiste - 菜食主義者 (ベジタリアン)  
-flece - 矢 (矢印)  
+fiteyamiste - 菜食主義者 (ベジタリアン)  
 flerovium - フレロビウム  
 flurium - フッ素  
 fobe - 恐れる  
@@ -375,18 +374,15 @@ frasen - 秦皮
 frem - 額  
 frike - 擦る (擦り傷する)  
 fuke - 服  
-fuku - 着る  
-ful - 花  
-fulmosim - 春  
-fulpote - 植木鉢  
-fungonete - 菌糸体  
-fungopal - 茸  
+• be fuke - 着る  
+fungenete - 菌糸体  
+fungepal - 茸  
 futeban - 足場  
 futebol - フットボール  
 futemarke - 足跡  
 futau - 斧  
 fuze - 溶ける  
-fuzopetre - 溶岩  
+fuzepetre - 溶岩  
 
 ## G  
 
@@ -527,6 +523,10 @@ holmium - ホルミウム
 hor - 時 (１時間)  
 horloger - 時計  
 hotel - ホテル (旅館)  
+hua - 花  
+huabing - 花瓶  
+huamosim - 春  
+huapote - 植木鉢  
 huidarte - ポドゾル  
 huke - 掛 (針, 鉤)  
 hukokrus - 卍 (卐)  
@@ -669,6 +669,7 @@ ke xei - 何事
 kecape - ケチャップ  
 keger - 客人  
 kenarbaryer - 柵 (垣)  
+kentaur - 人馬 (ケンタウロス)  
 kex - 毛  
 kexefentor - ヘアドライヤー (ブロードライヤー)  
 keze - チーズ  
@@ -694,14 +695,15 @@ klimomute - 気候変動
 klorium - 塩素  
 koala - 子守熊 (コアラ)  
 kobalte - コバルト  
-komodia - 喜劇 (コメディ)  
+• komodia - 喜劇 (コメディ)  
+kon - 共  
 koncung - 昆虫  
 konge - 染みる (貫通する)  
 Kongfuze - 孔夫子  
 konserte - コンサート (音楽会)  
 konus - 錐  
-kope - コピー  
 kopernikium - コペルニシウム  
+• kopiaje - コピー  
 kor - 核  
 koral - 珊瑚  
 korne - 角  
@@ -908,6 +910,7 @@ mole - モル
 molekul - 分子  
 molidenium - モリブデン  
 mone - 金  
+montepike - 頂点  
 mos - 苔  
 mosim - 季節  
 moskovium - モスコビウム  
@@ -967,7 +970,7 @@ nide - 巣
 nikel - ニッケル  
 nil - 青い  
 nilbavite - サファイア  
-nilcentaur - ヤグルマギク  
+nilkentaurhua - ヤグルマギク  
 nilseramsing - ヒナソウ  
 nilon - ナイロン  
 niobium - ニオブ  
@@ -1050,7 +1053,6 @@ pastopetre - マグマ (岩漿)
 • konpatia - 同情  
 patomise - 伝染  
 pau - 銃  
-pau - 撃つ  
 • prepedike - 調製用  
 peikar - 職業  
 peikare - プロフェッショナル  
@@ -1074,7 +1076,7 @@ pexehuke - 釣り針
 piaze - 玉葱  
 picea - トウヒ  
 pike - 先  
-pike - 頂点  
+• depile - はがす (剥ぐ)  
 pin - 針 (刺, ピン)  
 pinkardon - ゴロツキアザミ  
 pinsoban - 用箋挟  
@@ -1279,7 +1281,7 @@ soi - 大豆
 soimilke - 豆乳  
 soisaus - 醤油  
 sol - 太陽 (日)  
-soloful - ヒマワリ  
+solhua - ヒマワリ  
 some - 寝る  
 • ansome - 不眠症  
 somokamar - 寝室  
@@ -1353,7 +1355,7 @@ teze - 論題  (テーゼ)
 • tiber - 医者  
 tibesui - ポーション (水薬)  
 tipe - 種類  
-tire pil - はがす (剥ぐ)  
+tire - 撃つ  
 tiregana - レバー (てこ)  
 tirelonge - 伸びる (張る)  
 tireriu - 離岸流  
