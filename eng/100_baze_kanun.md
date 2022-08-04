@@ -33,27 +33,27 @@ They are described in more detail later in this document.
    Their role is indicated by word order or by a preposition.
 6. **Numerals:**
    The cardinal numbers are:
-       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **catre**, 5 **pente**, 6 **sixe**,
-         7 **cete**, 8 **bate**, 9 **nove**, 10 **des**.
+       - 0 **siro**, 1 **un**, 2 **du**, 3 **tri**, 4 **nelu**, 5 **lima**, 6 **luka**,
+         7 **ceti**, 8 **bati**, 9 **tisa**, 10 **des**.
        - Greater than ten: 11 **des un**, 12 **des du**, 13 **des tri**, etc.
-       - Tens: 20 **du des**, 30 **tri des**, 40 **catre des**, etc.
-       - Hundreds: 100 **un sente**, 200 **du sente**, 300 **tri sente**, etc.
+       - Tens: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
+       - Hundreds: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
        - Thousands: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
-       - The ordinal numbers use the suffix **-ime**:
-         **unime** (first), **duime** (second), **trime** (third), **catrime** (fourth), etc.
+       - The ordinal numbers use the suffix **me**:
+         **un me** (first), **du me** (second), **tri me** (third), etc.
 7. **Modifiers:**
    The adjective and the adverb have the same form.
    The adjective modifier is before the noun that it modifies,
    and the adverb modifier is before the verb that it modifies.
-    - **un suge loge**
+    - **un kuai loga**
       – A fast speech.
-    - **tu suge loge.**
+    - **tu kuai loga.**
       – You speak fast.
 8. **Verbs:**
    The verb does not change in person, number and tense.
    Auxiliary verbs indicate time.
     - **zai** indicates an ongoing event.
-    - **leu** indicates a completed event whose results have an effect on the present situation.
+    - **le** indicates a completed event whose results have an effect on the present situation.
     - **pas** indicates a completed event that has no connection to the present situation.
     - **xa** indicates a future event.
 9. **Word order:**
@@ -61,27 +61,27 @@ They are described in more detail later in this document.
       The same order is used in declarations and questions.
     - A passive sentence is created with the help of the passive auxiliary verb **be**.
       A similar effect can be also reached with the impersonal pronoun **men**.
-        - **pandunia be loge.**
+        - **pandunia be loga.**
           – Pandunia is spoken.
-        - **men loge pandunia.**
+        - **men loga pandunia.**
           – One speaks Pandunia.
     - In the _pivot structure_, the object of the transitive verb
       functions as the subject of the following verb.
-        - **mi cing tu loge pandunia.**
+        - **mi cing tu loga pandunia.**
           – I ask you to speak Pandunia.
     - Pronouns can be left out when they are obvious and redundant.
-        - **_mi_ cing _tu_ loge pandunia.**
-          → **cing loge pandunia.**
+        - **_mi_ cing _tu_ loga pandunia.**
+          → **cing loga pandunia.**
           – Please speak Pandunia.
 10. **Word building:**
    In Pandunia, words change only when their actual meaning changes.
    Words don't ever change only to serve in a different grammatical role.
    Compound words are made by combining the elements that form them.
    The main word stands at the end.
-    - **poste**
+    - **posta**
       ("mail") +
-      **kase**
+      **kasa**
       ("box") =
-      **poste kase**
+      **postakasa**
       ("mailbox")
 

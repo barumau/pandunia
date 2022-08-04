@@ -8,32 +8,32 @@
 | 1 un    | 11 des un    | 21 du des un     | 31 tri des un    |
 | 2 du    | 12 des du    | 22 du des du     | 32 tri des du    |
 | 3 tri   | 13 des tri   | 23 du des tri    | 33 tri des tri   |
-| 4 catre | 14 des catre | 24 du des catre  | 34 tri des catre |
-| 5 pente | 15 des pente | 25 du des pente  | 35 tri des pente |
-| 6 sixe  | 16 des sixe  | 26 du des sixe   | 36 tri des sixe  |
-| 7 cete  | 17 des cete  | 27 du des cete   | 37 tri des cete  |
-| 8 bate  | 18 des bate  | 28 du des bate   | 38 tri des bate  |
-| 9 nove  | 19 des nove  | 29 du des nove   | 39 tri des nove  |
+| 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
+| 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
+| 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
+| 7 ceti  | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
+| 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
+| 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
 | Ones    |  Tens         | Hundreds        | Thousands        |
 |:--------|:-------------|:----------------|:------------------|
-| 1 un    | 10 (un) des  | 100 (un) sente  | 1000 (un) kilo    |
-| 2 du    | 20 du des    | 200 du sente    | 2000 du kilo      |
-| 3 tri   | 30 tri des   | 300 tri sente   | 3000 tri kilo     |
-| 4 catre | 40 catredes  | 400 catre sente | 4000 catre kilo   |
-| 5 pente | 50 pente des | 500 pente sente | 5000 pente kilo   |
-| 6 sixe  | 60 sixe des  | 600 sixe sente  | 6000 sixe kilo    |
-| 7 cete  | 70 cete des  | 700 cete sente  | 7000 cete kilo    |
-| 8 bate  | 80 bate des  | 800 bate sente  | 8000 bate kilo    |
-| 9 nove  | 90 nove des  | 900 nove sente  | 9000 nove kilo    |
+| 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
+| 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
+| 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
+| 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
+| 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
+| 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
+| 7 ceti  | 70 ceti des  | 700 ceti sento  | 7000 ceti kilo    |
+| 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
+| 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
 Greater numbers follow the same logic as above.
 
 10'000 = un des kilo  
-100'000 = un sente kilo  
+100'000 = un sento kilo  
 1'000'000 = un mega  
 10'000'000 = un des mega  
-100'000'000 = un sente mega  
+100'000'000 = un sento mega  
 1'000'000'000 = un giga
 
 The numerals that are greater than one hundred are borrowed from the
@@ -47,7 +47,7 @@ They are used in scientific words in the whole world.
 | giga   | G      | 10⁹  |                     1'000'000'000 |
 | tera   | T      | 10¹² |                 1'000'000'000'000 |
 | peta   | P      | 10¹⁵ |             1'000'000'000'000'000 |
-| eksa   | E      | 10¹⁸ |         1'000'000'000'000'000'000 |
+| exa    | E      | 10¹⁸ |         1'000'000'000'000'000'000 |
 | zeta   | Z      | 10²¹ |     1'000'000'000'000'000'000'000 |
 | yota   | Y      | 10²⁴ | 1'000'000'000'000'000'000'000'000 |
 
@@ -78,55 +78,55 @@ They are put before the word or phrase that they qualify.
 
 ## Ordinal numbers
 
-Ordinal numbers are created with the suffix **-ime**.
+Ordinal numbers are created with the particle **me**.
 
-- **unime**
+- **un me**
   – first
-- **duime**
+- **du me**
   – second
-- **trime**
+- **tri me**
   – third
-- **catrime**
+- **nelu me**
   – fourth
-- **pentime**
+- **lima me**
   – fifth
-- **sixime**
+- **luka me**
   – sixth
-- **cetime**
+- **ceti me**
   – seventh
-- **batime**
+- **bati me**
   – eighth
-- **novime**
+- **tisa me**
   – ninth
-- **desime**
+- **des me**
   – tenth
 
 They are placed before the modified noun like normal adjectives.
 
-**unime fen**
+**un me fen**
 – the first part  
-**duime fen**
+**du me fen**
 – the second part  
-**trime fen**
+**tri me fen**
 – the third part
 
 Also the words for previous, next, first and last use the same suffix.
 
 **pre**
 'before, precede'
-→ **prime**
+→ **preme**
 'previous, preceding'  
 **pos**
 'after, follow'
-→ **posime**
+→ **posme**
 'next, following'  
-**xure**
+**xuru**
 'begin'
-→ **xurime**
+→ **xurume**
 'the first'  
-**fine**
+**fin**
 'end'
-→ **finime**
+→ **finme**
 'the last'
 
 ### Ordinal number after noun
@@ -178,7 +178,7 @@ which includes, among many others,
 – two bottles of wine  
 **tri sake patate**
 – two sacks of potatoes  
-**catre tin limonaje**
+**nelu tin limonjus**
 – three cans of lemonade
 
 
@@ -203,9 +203,9 @@ stands for '2/3' in mathematical symbols.
 
 **un fen du**
 – a half (½)  
-**un fen catre**
+**un fen nelu**
 – one fourth, one quarter (¼)  
-**tri fen catre**
+**tri fen nelu**
 – three fourths, three quarters (¾)  
 **un fen sento**
 – one hundredth, one percent (1%)  
@@ -218,7 +218,7 @@ Fractions are connected to their noun head with
 
 **un fen du de hor**
 – a half (of an) hour  
-**pente des fen sente de jen**
+**lima des fen sento de jen**
 – fifty percent of people  
 **du fen tri de keke**
 – two thirds of a cake  
@@ -231,11 +231,11 @@ It uses the pattern
 
 **un de du fen**
 – one of two parts, a half (½)  
-**un de catre fen**
+**un de nelu fen**
 – one of four parts, a quarter (¼)  
-**tri de catre fen**
+**tri de nelu fen**
 – three of four parts, three quarters (¾)  
-**un de sente fen**
+**un de sento fen**
 – one of hundred parts, a percent, (1%)  
 **un de kilo fen**
 – one of thousand parts, a permille, (1‰)
@@ -264,45 +264,45 @@ and so on.
    – Tuesday
 3. **den tri**
    – Wednesday
-4. **den catre**
+4. **den nelu**
    – Thursday
-5. **den pente**
+5. **den lima**
    – Friday
-6. **den sixe**
+6. **den luka**
    – Saturday
-7. **den cete**
+7. **den ceti**
    – Sunday
 
 #### Months
 
 Names of the months are composed like the names of days
 but this time the word
-**lun**
-('moon, month') is used.
+**mes**
+('month') is used.
 
-1. **lun un**
+1. **mes un**
    – January
-2. **lun du**
+2. **mes du**
    – February
-3. **lun tri**
+3. **mes tri**
    – March
-4. **lun catre**
+4. **mes nelu**
   – April
-5. **lun pente**
+5. **mes lima**
   – May
-6. **lun sixe**
+6. **mes luka**
   – June
-7. **lun cete**
+7. **mes ceti**
   – July
-8. **lun bate**
+8. **mes bati**
   – August
-9. **lun nove**
+9. **mes tisa**
   – September
-10. **lun des**
+10. **mes des**
   – October
-11. **lun des un**
+11. **mes des un**
   – November
-12. **lun des du**
+12. **mes des du**
   – December
 
 #### Telling time
@@ -318,5 +318,5 @@ The 24 hour clock is the standard.
 – twelve thirty, half past twelve  
 **hor du des**
 – eight PM  
-**hor du des i des pente**
+**hor du des i des lima**
 – quarter past eight PM

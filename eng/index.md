@@ -31,18 +31,16 @@ It includes simpler grammar, more international word forms, and many new words.
 - [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_xule.html)
 - [Phrasebook](200_baze_jumle.md)
 - [Complete grammar of Pandunia](pan.pdf) in PDF format
-
 - [Searchable dictionary](tiddly.html)
 - [Origins of words](leksaslia.md)
 - Go to the
-  [Pandunia lexe a dunia karte](http://www.pandunia.info/lexokarte/index.html)
+  [Pandunia lexi a dunia karta](http://www.pandunia.info/lexokarte/index.html)
   web pages to see where every Pandunia word is from on a world map.
 
-<!-- - [Flashcards and quizzes](https://lingopolo.org/pandunia/) in Lingopolo -->
+## Material in other sites
 
-
-## Texts
-
+- [Counting in Pandunia](https://www.languagesandnumbers.com/how-to-count-in-pandunia/en/pandunia/) in _Of Languages and Numbers_
+- [Flashcards and quizzes](https://lingopolo.org/pandunia/) in _Lingopolo_
 - [Fandom Wiki in Pandunia](https://pandunia.fandom.com/)
 
 ## Articles
