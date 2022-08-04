@@ -2,1550 +2,1660 @@
 
 ## A  
 
-a line - オンライン  
-a misal - 例えば  
-a zai den - 今日  
+a go - そこ (あそこ)  
 a kon - 一緒に  
-abete - モミ  
-acar - 漬物 (酢漬けある)  
-acinium - アクチニウム  
-ade - 習慣 (風俗)  
+a lin - オンライン  
+a ni - ここ  
+a poli mar - よく (屡々)  
+abies - モミ  
+acar - 漬物  
+acini yum - アクチニウム  
+ada - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
-Afgania - アフガニスタン  
-agrenomia - 農学  
-agrevilaje - 農村  
-ainstainium - アインスタイニウム  
+Afghan - アフガニスタン  
+agricun - 農村  
+agrinomi - 農学  
 air - 空気  
-airobike - 好気性  
-anairobike - 嫌気性  
-airorde - 空軍  
-airoporta - 空港  
-ais - 氷 (アイス; 凍る)  
-aishoke - アイスホッケー  
-aiskrem - アイスクリーム  
+air bio di - 好気性  
+• anair bio di - 嫌気性  
+air gun - 空軍  
+air porte - 空港  
+ais - 氷 (アイス)  
+ais hoki - アイスホッケー  
+ais krem - アイスクリーム  
+ajila - 急ぐ  
 akare - 壁蝨  
 akrabe - 蠍 (天蝎宮)  
-ale - 他の (変える)  
-algafung - 地衣類 (苔癬)  
-algajangle - 藻場  
-alkol - アルコール  
-• alkoliste - 飲兵衛  (アルコール中毒者)  
-alkolmixe - カクテル (混合酒)  
+alga fungu - 地衣類 (苔癬)  
+alga jangal - 藻場  
+alkasus - 甘草 (蕗草)  
+alo - 他の  
+alofa - 変える  
+alo fen di - 個別的  
 alpaka - アルパカ  
-aluminium - アルミニウム  
-ame - 愛  
-• amater - アマチュア  
-• amer - 恋人 (恋人)  
-ame letre - ラブレター (恋文)  
-amerikium - アメリシウム  
-amirlin - コマンド行  
+alumin - アルミニウム  
+ama - 愛  
+ama di - 愛しい  
+ama ja - 恋人 (恋人)  
+amen - 正直  
+amenbil - 忠実  
+amen xin - 信頼する  
+amerika yum - アメリシウム  
+amir lin - コマンド行  
 ancovi - アンチョビ  
 andesite - 安山岩  
-angil - 伝言 (メッセージ)  
 angul - 指  
-angulmarke - 指紋  
-angulpike - 指先  
+angul marke - 指紋  
+angul pike - 指先  
 anis - アニス (八角)  
+anjil - 伝言 (メッセージ)  
+antra - 腸 (臓器)  
 aple - 林檎  
 aposum - 袋鼠 (オポッサム)  
-aria - 辺  
 arane - オレンジ  
+arane nete - クモの巣  
+area - 辺  
 argente - 銀  
 argon - アルゴン  
-arke - 弓 (弓なり)  
-arker - 弓兵  
-aromu - 香る (匂う, 臭う)  
-aromemelon - マクワウリ  
-arsene - ヒ素  
+arka - 弓 (弓なり)  
+arka ja - 弓兵  
+aroma - 香り (匂い, 臭い)  
+aroma melon - マクワウリ  
+arsen yum - ヒ素  
 artefete intelige (AI) - 人工知能  
+asal - 起源  
 asar - 効果  
-asle - 起源  
 asparge - アスパラガス  
-astatium - アスタチン  
-astre - 天体   
-astronomia - 天文学  
-• astronomer - 天文学者  
-ate - 行為  
-• ation - 行動  
-• ative - 活動的  
-• ature - 作品  
-• dusate - 悪事  
-• reate - 反応する  
+astatin - アスタチン  
+astro - 天体   
+astro nomi - 天文学  
+astro nomi ja - 天文学者  
+ati - 行為  
+Athina - アテネ  
+• dusati - 悪事  
+• reati - 反応する  
 • reation - 反応  
-Atina - アテネ  
-atlante bakalau - タイセイヨウダラ  
-atlante salmon - タイセイヨウサケ  
+• ation - 行動  
+• ativi - 活動的  
+atlanti bakalau - タイセイヨウダラ  
+atlanti salmon - タイセイヨウサケ  
+auro - 金  
+Austronesi - オーストロネシア  
+auto - 自己  
+auto krati - 君主制  
+auto loga - 独白 (独話)  
 ave - 烏麦  
-aure - 金  
-Austronesia - オーストロネシア  
-aute - 自己  
-autokratia - 君主制  
-autologe - 独白 (独話)  
-automatike - 自動な  
-autoreje - 独立した  
+axa hin - 絶望した  
+ayo - 痛い  
 
 ## B  
 
-bace - 子供 (赤ちゃん)  
-bade - 体  
+baca - 子供 (赤ちゃん)  
 badam - アーモンド (扁桃)  
-bage -  鞄 (バッグ)  
-bagroselote - ジャガーネコ  
+badan - 体  
+baga -  鞄 (バッグ)  
+bagre oselote - ジャガーネコ  
+bai - 負け  
+bakakan - パン屋 (ベーカリー)  
+baka poto - テラコッタ  
 bakalau - 鱈  
 baku - 白い  
-bakumargarite - フランスギク  
-bakusalmon - シロザケ  
-• anbale - 弱い (脆弱)  
-balde - バケツ  
-balonpes - フグ  
-balute - ナラ  
-balutepal - ドングリ  
+baku margarite - フランスギク  
+baku salmon - シロザケ  
+• anbala - 弱い (脆弱)  
+balata - 力  
+balon pexe - フグ  
+baluta - ナラ  
+baluta frute - ドングリ  
 bambu - 竹  
 bamia - オクラ  
-ban - 板  
-bangem - ボードゲーム  
-bana - 矢 (矢印)  
-bankerutia - 破産  
-barium - バリウム  
+bano - 板  
+bano gem - ボードゲーム  
+bari yum - バリウム  
 baru - 熊  
-barxe - 雨 (雨が降る)  
-barxemosim - 雨季  
 bas - 十分  
-bate - 八 (8)  
-batosenter - タコ  
 bata - 鴨  
-batre - バッテリー  
-bavite - 宝石  
-baxe - 言語  
-• trabaxe - 翻訳する  
-baxelojia - 言語学  
-bazebol - 野球  
-bazepetre - 基盤岩  
+bati - 八 (8)  
+batri - バッテリー  
+bau seku - 宝石  
+baxa - 言語  
+• trabaxa - 翻訳する  
+baxa jinse - 文法的性 (名詞クラス)  
+baxalogi - 言語学  
 bazestrute - インフラストラクチャー  
-bazexulekan - 小学校  
 bazar - 市場 (マーケット, バザー)  
+baze bol - 野球  
+baze petra - 基盤岩  
+baze xulakan - 小学校  
+be ais - 凍る (凍結する)  
+be biomute - 熟成する (発酵する)  
+be boi - 泳ぐ (浮く)  
+be bum - 爆発する  
+be dai - 膨らむ  
+be dom - 住む (居住する)  
+be fatige - 疲れる (疲労する)  
+be fobi - 恐れる  
+be halte - 止まる  
+be hogo - 燃える  
+be jaga - 起きる  
+be kino - 動く  
+be kux - 寝転ぶ  
+be pute - 腐敗  
+be rute galte - 逸れる  
+be sabi vol - 訝る (-かしら)  
+be sona - 寝る  
+be tele loka - 瞬間移動  
+be turbe - 悩む (わざわざする)  
+be vanu - 遊ぶ  
 bebe - 赤ちゃん  
-bekefange - テラコッタ  
-bekekan - パン屋 (ベーカリー)  
-• rebeler - 反逆者  
-belce - シャベル (スコップ)  
+bebe bede - ベビーベッド  
+bede - 寝床 (ベッド)  
+bele - シャベル (スコップ)  
 ben - 子供 (息子か娘)  
-beranda - ベランダ (バルコニー, 縁側)  
 beri - 漿果 (ベリー )  
-berilium - ベリリウム  
-berkelium - バークリウム  
+beril yum - ベリリウム  
+berkli yum - バークリウム  
 bete - テーブルビート  
 betula - 樺  
-bie - 生物  
-biocaniver - 堆肥  
-bioginse - 生物学の性  
-biokimia - 生化学  
-biolojia - 生物学  
-biomute - 熟成する (発酵する)  
-biosistem - 生物群系  
-biotoxe - 毒素  
 bibre - ビーバー  
-bil - ありうる  
+bici - 鞭  
+bil - できる (ありうる)  
+bil ja - 有能 (上手)  
 bilor - 結晶  
-bine - 建てる  
-binite - レンガ (磚)  
-bineplania - 建築学  
-bineplaner - 建築家  
+bina - 建物 (建築物)  
+bina plan - 建築学  
+bina plan ja - 建築家  
+biojinse - 生物学の性  
+biologi - 生物学  
+biosana xe - 堆肥  
+biosistem - 生物群系  
+biotoxi - 毒素  
+bioxe - 生物  
 bir - ビール  
+biskute - ビスケット (クッキー)  
 bismute - ビスマス  
 bison - 野牛 (バイソン)  
 biznes - 業務 (営業, ビジネス)  
+boce - ボクシング (拳闘)  
+bocer - ボクサー (拳闘家)  
 boi - フロート (ブイ)  
-boipuntenumbe - 浮動小数点数  
-bokacate - 口蓋 (上顎)  
-bokse - ボクシング (拳闘)  
-bokser - ボクサー (拳闘家)  
+boi punte nume - 浮動小数点数  
+bokacati - 口蓋 (上顎)  
 bol - 玉 (球)  
+boli varis - ご飯  
 bolte - ボルト  
 bon - 良い (元気, 上手)  
-konbone - 合わせる (適する)  
-• ribone - 修理  
-• riboner - 修理工  
-borium - ボーリウム  
+bon guste di - 美味しい  
+bor yum - ボーリウム  
 boron - ホウ素  
 botel - 瓶  
-brauze - 探る, 探検する  
-brauzer - 探検家 (ブラウザ)  
-bromium - 臭素  
-broxkalam - 筆 (毛筆)  
-brun - 茶色  
-brunalge - 褐藻  
-brunsalmon - ブラウントラウト  
+Brahma - ブラフマー (梵天)  
+brauza - 探る, 探検する  
+brauza gi - ブラウザ  
+briko - アンズ (梅, モモ, プラム)  
+brom - 臭素  
+broxa kalam - 筆 (毛筆)  
+brun varis - 玄米  
 bu! - ばあ  
-• bucekan - 屠畜場  
-• bucer - 肉屋  
+buca ja - 肉屋  
+bucakan - 屠畜場  
 Buda - 仏陀  
 bufete - ビュッフェ (バイキング)  
-buke - 本 (書物)  
+buku - 本 (書物)  
 bum - 爆発  
-• burokratia - 官僚制  
-burorite - 公式 (礼法, プロトコル)  
+burge - 要塞  
+buro ja - 秘書  
+buro krati - 官僚制  
+buro riti - 公式 (礼法, プロトコル)  
 bus halte - バス停  
-bute - ブーツ  
+buta - ブーツ  
 
 ## C  
 
 cai - 茶  
+cai camaca - ティースプーン  
 caikan - 茶店 (茶館)  
-caikupe - 茶碗  
-caipote - 急須  
-cakre - 車輪  
+cai kupa - 茶碗  
+cai pote - 急須  
+cakra - 車輪  
 camaca - スプーン  
-koncanisme - 共産主義  
-cantergrupe - 合唱団  
-catre - 四 (4)  
-cau - 草  
-caukitabe - 草書  
-caustan - 草地  
+cati - 屋根  
+cavi - 鍵  
 ceke - 小切手 (チェック)  
-cengjen - 大人  
-cengnan - 男の人  
-cengni - 女の人  
+cen - 以前 (前に)  
+cen den - 昨日  
+cen ding - 既定 (デフォルト)  
+cen vide - 待ち受ける (見込む)  
+cen yang di - 古典的  
+cen zaman di - 古い  
 • excepe - 追出 (退ける, 除いて)  
-ceresium - セリウム  
+ceres yum - セリウム  
 • acese - アクセス  
 • sucese - 成功  
-cesium - セシウム  
-cilifun - パプリカ  
-cinma - お婆さん  
-cinacosen - 中韓  
-cinanipon - 日中  
-cinaviete - 漢越  
+cesi yum - セシウム  
+cili fun - パプリカ  
+cin ma - お婆さん  
 cing - 請う (ーて下さい)  
-cire - 裂く  
-circire - 千切る  
-cirtexe - ボロ  
+cini - 磁器  
+cira - 裂く  
+cira cira - 千切る  
+cira cira di - ぼろぼろ  
+cira tela - ボロ  
 cita - チーター  
-• codekan - 娼館  
+cize - チーズ  
 coi - 菜  
 coklate - チョコレート  
-coklategana - チョコバー  
-cope - クワ  
-• cuzebil - オプション (選択)  
-• precuze - 既定 (デフォルト)  
-cuzeliste - 品書き (メニュー)  
+coklatekane - チョコバー  
+copu - クワ  
+culi - 処理 (プロセス)  
+cun - 村  
+cuze liste - 品書き (メニュー)  
+cuze xe - オプション (選択)  
 
 ## D  
 
-dadaisme - ダダイスム  
+da - あげる (くれる)  
 dai - 大きい  
-daidom - 宮殿 (邸宅)  
-daihai - 大洋 (大海)  
-dayite - 大石  
-daipau - 大砲  
-daipote - 大釜 (大鍋)  
-dam - 暗い  
-dane - デンマークの  
-dangrane - 種  
-dang - 鐘 (鈴)  
-dantebalute - カシワ  
-dartube - 漏斗  
-dargemute - 発展 (開発)  
-darmesitium - ダームスタチウム  
+dai dom - 宮殿 (邸宅)  
+dai hai - 大洋 (大海)  
+dai pau - 大砲  
+dai pote - 大釜 (大鍋)  
+dai seku - 大石  
+dai zi - 大文字  
+dalil dokumen - 証明書  
+dama gem - チェッカー (西洋碁)  
+dan - 段 (等)  
+dang gi - 鐘 (鈴)  
+Danske - デンマークの  
+dante baluta - カシワ  
+dara tubo - 漏斗  
+darja mute - 発展 (開発)  
+darmestadi yum - ダームスタチウム  
 darte - 土  
-datefenkate - データ解析  
-dateprocese - データ処理  
-dateproceselojia - 計算機科学  
-datetable - 表  
+data culi - データ処理  
+data culilogi - 計算機科学  
+data fen gata - データ解析  
+data table - 表  
 dau - 道  
+dava ja - 医者  
+dava sui - ポーション (水薬)  
+dava xe - 薬 (医薬品)  
 de - -から  
-defekaske - 鎧  
-defeban - 盾  
-dege - 受ける (もらう)  
+defa bano - 盾  
+defa kaska - 鎧  
 dele - 遅れ (遅延)  
 demon - 悪魔  
 den - 日  
 den un - 月曜日  
 den du - 火曜日  
 den tri - 水曜日  
-den catre - 木曜日  
-den pente - 金曜日  
-den sixe - 土曜日  
-den cete - 日曜日  
+den nelu - 木曜日  
+den lima - 金曜日  
+den luka - 土曜日  
+den ceti - 日曜日  
+den loge - 日記  
 des - 十 (１０)  
-deskilo - 万  
+des kilo - 万  
 deu - 神  
-deunagre - デーヴァナーガリー  
-dike - 方向 (標的, ターゲット; 狙う)  
-• dikion - 直示  
-dikegana - 指し棒  
+deu kata - 神話  
+deu nagar zi - デーヴァナーガリー  
+dexa jen - 市民  
+dia - 昼  
+dia yam - 昼食  
+dika - 方向 (標的, ターゲット; 狙う)  
 din - 宗教  
-• diniste - 信徒 (信者)  
-• andiniste - 不信者  
+din ja - 信徒 (信者)  
+• andin ja - 不信者  
+din xia - 教派  
 dinamite - ダイナマイト  
 dinde - 七面鳥  
+• anding - 不定  
+dino saur - 恐竜  
 diorite - 閃緑岩  
 dipe - 低い  
-dipemoke - 灌木 (藪)  
-dise - 疎ら  
+dipe megi - 霧  
+dipe moka - 灌木 (藪)  
+dipe tela - 絨毯 (カーペット)  
 diske - ディスク (円盤)  
-disprosium - ジスプロシウム  
-• ditater - 独裁者  
-• ditateria - 独裁  
-• dokaje - 学説  
-dokum - 書類 (文書, ドキュメント)  
-dokumfilme - ドキュメンタリー  
+disprosi yum - ジスプロシウム  
+do misal - 例えば  
+dobe - レンガ (磚)  
+dokumen - 書類 (文書, ドキュメント)  
+dokumen filme - ドキュメンタリー  
 dolfin - イルカ (ドルフィン)  
-dom - 家 (住む (居住する)  
-Dominikan Vakilkratia - ドミニカ共和国  
-done - あげる (くれる)  
+dom - 家  
+dom dexa - 祖国  
+Dominika Vakilkrati - ドミニカ共和国  
 dong - 東  
-donggorila - ヒガシゴリラ  
+dong gorila - ヒガシゴリラ  
+donjon ventur - ダンジョンアドベンチャー  
+dosil - 温順 (素直)  
+dosil gene di - 家畜  
+dosti - 友達 (友人)  
+dosti di - 優しい (好ましい, 親切)  
 du - 二 (2)  
 dua - 祈祷  
 • dusdua - 呪い (たたり)  
-dubnium - ドブニウム  
-duge - 読む  
+dubna yum - ドブニウム  
+dudu - 昆虫  
+duku - 読む  
 dunia - 世界  
-dunjia aventur - ダンジョンアドベンチャー  
-• duro - まだ  
-• durebil - 持続的  
-• redure - 再開する  
-• undure - アナログ  
-duremetrer - ストップウオッチ  
-durezam - 時代 (年代)  
+durbil - 持続的  
+dur metre gi - ストップウオッチ  
+dur zaman - 時代 (年代)  
 dus - 難しい  
-duxe - シャワー  
+dus jen - 敵  
+dus karma - 悪事  
+dus sin di - 不吉 (縁起の悪い)  
+dus vide - 見苦しい  
+dux - シャワー  
 
 ## E  
 
-ekogene - 野生  
+einstein yum - アインスタイニウム  
+eko gene di - 野生  
 ekore - 栗鼠  
-eletre - 電気  
-• eletrolojia - 電子工学  
-eletrorade - 雷 (稲妻)  
+eletro - 電気  
+eletro lin - 電線  
+eletro radi - 雷 (稲妻)  
 elfe - 妖精 (エルフ)  
-emotikon - 絵文字  
-englomargarite - ヒナギク  
-erbium - エルビウム  
-europebalute - ヨーロッパナラ  
-europium - ユウロピウム  
-exe - 外  
-exojen - 部外者 (アウトサイダー)  
+englix margarita - ヒナギク  
+erbi yum - エルビウム  
+• aneskale - 下る (降りる)  
+eskale tana - 蔓草  
+eskandi yum - スカンジウム  
+esponje - スポンジ (海綿)  
+estan - スズ  
+estasi grafi - コマ  
+estibi yum - アンチモン  
+estronti yum - ストロンチウム  
+eu loga - 賛辞  
+europa baluta - ヨーロッパナラ  
+europa yum - ユウロピウム  
 
 ## F  
 
-faide - 使用 (為, 利)  
-falsevide - 幻覚  
+fa - する  
+fa acar - 酢漬けある  
+fa an galte - デバッグする  
+fa an verse - 逆らう  
+fa aroma - 嗅ぐ  
+fa aroma - 香る (匂う, 臭う)  
+fa auto - カスタマイズする  
+fa bina - 建てる  
+fa biznes lona - 話し合う (話を付ける)  
+fa culi - 扱う (処理する)  
+fa dante - 咬む  
+fa dika - 狙う  
+fa ding - 定める (決する, 決定する)  
+fa dosil - 馴らす  
+fa dus forma - 醜くする  
+fa eskale - 上る (乗る, よじ登る)  
+fa fatu - 罰する  
+fa fei - 飛ぶ  
+fa fen gata - 見つめ直す  
+fa fuku - 着る  
+fa gene - 生む  
+fa glu - 張る (付く)  
+fa gong - 働く  
+fa hapu - 適応する  
+fa hisabu - 計算する  
+fa hogo - 燃やす  
+fa jang - 戦う  
+fa jui - 戒める (諭す)  
+fa kino - 動かす  
+fa kung - 染みる (貫通する)  
+fa kux - 横たえる  
+fa lai - 持って来る  
+fa lanse grafi - 映す (投影する)  
+fa linke - 繋ぐ  
+fa loga - 話す  
+fa mede - 手伝う (助ける)  
+fa mei daka - 飾る  
+fa memo - 思い出す  
+fa miti - 会う  
+fa najis - 汚す  
+fa nume - 数える  
+fa nomi - 組織する  
+fa pede - おならをする  
+fa politi - 治める (司る)  
+fa poze - 植える  
+fa ratibu - 揃える  
+fa re - 繰り返す  
+fa safa - 掃く (精げる, 拭く)  
+fa saide - 狩る  
+fa sam sifa - シミュレートする  
+fa sing foto - ピカピカ光る (きらきらする)  
+fa sir - 隠す  
+fa siro - 消す (キャンセルする)  
+fa sual - 聞く  
+fa tele fon - 電話する  
+fa truke - 騙す  
+fa vai - 追出 (退ける, 除いて)  
+fa ver - ただす  
+fa xipi - 濡らす  
+fa xiti bai - 負ける  
+fa xopi - 買う  
+fa xou - 見せる (示す, デモる)  
+fa xula - 学ぶ  
+fa xuli - 修理する  
+faida - 使用 (為, 利)  
+false vide - 幻覚  
 fan - ファン  
-fange - 泥  
-fangedefoban - フェンダー  
-fangestan - 沼地  
 fase - 面  
-fasile - 易しい  
-fasilia da acese - アクセシビリティ  
-fatige - 疲労 (疲れる, 疲労する)  
-• faxisme - 法西斯主义  
-fe - する  
-fei - 飛ぶ  
-feimux - こうもり (飛鼠)  
-feni - デジタル  
-fenkate - 分析 (解析)  
-fente - 風  
-fer - 鉄  
-fermium - フェルミウム  
+fase tele - 深い  
+fase teleta - 浅い  
+fasil - 易しい  
+fate - 事実  
+fatige - 疲労  
+fatu - 処罰  
+fatura - 料金  
+fei muxu - こうもり (飛鼠)  
+fen - 部分  
+fen di - 部分的  
+fen gata - 分析 (解析)  
+fermi yum - フェルミウム  
+fero - 鉄  
 fete - する (事実)  
-• fetekan - 工場 (製造所)  
 • exfete - 効果  
-• infetion - 伝染  
+• infete - 伝染  
 • rifete - 繰り返す  
-• profilaje - 好き (お気に入りの)  
+fetekan - 工場 (製造所)  
 filme - フィルム (膜)  
-• filsofia - 哲学  
+filsofi - 哲学  
+fine - 狭い (薄い, 細い)  
 fiorde - フィヨルド  
-fite - 植物  
-fiteyamiste - 菜食主義者 (ベジタリアン)  
-flerovium - フレロビウム  
-flurium - フッ素  
-fobe - 恐れる  
-• dusforme - 醜くする  
-• konforme - 即する  
-fote - 光  
-fotofrike - 光沢  
-fotografe - 写真  
-fototore - 狼煙 (ビーコン)  
-fransium - フランシウム  
-frasen - 秦皮  
+fito - 植物  
+fito yam sim ja - 菜食主義者 (ベジタリアン)  
+fizika gi - ハードウェア  
+flece - 矢 (矢印)  
+flerof yum - フレロビウム  
+flur - フッ素  
+fong - 蜂  
+fong nide - 蜂の巣  
+• dusforma - 醜くする  
+• konforma - 即する  
+foto - 光  
+foto frike - 光沢  
+foto grafi - 写真  
+foto minar - 狼煙 (ビーコン)  
+foto so - 光子  
+france yum - フランシウム  
 frem - 額  
 frike - 擦る (擦り傷する)  
-fuke - 服  
-• be fuke - 着る  
-fungenete - 菌糸体  
-fungepal - 茸  
-futeban - 足場  
-futebol - フットボール  
-futemarke - 足跡  
-futau - 斧  
-fuze - 溶ける  
-fuzepetre - 溶岩  
+frute - 果実 (フルーツ)  
+frute bagi - 果樹園  
+fuku - 服  
+fuku vaxi gi - 洗濯機  
+fungu frute - 茸  
+fungu nete - 菌糸体  
+fute bano - 足場  
+fute bol - フットボール  
+fute marke - 足跡  
 
 ## G  
 
 ga - 行く  
-ga gau i dipe - 浮き沈みする  
-gabre - 墓 (埋葬, 葬る)  
-gabrite - 墓石 (墓碑)  
-gabrostan - 墓 (墓地)  
-gadogude - 騾馬  
-gadolinium - ガドリニウム  
-gaja dante - 象牙  
-gale - のど  
+gabur - 墓 (埋葬, 葬る)  
+gabur bagi - 墓 (墓地)  
+gabur seku - 墓石 (墓碑)  
+gadolin yum - ガドリニウム  
+gala - のど  
+galaxi - 銀河  
+gali yum - ガリウム  
 Galia - ガリア  
-galium - ガリウム  
-galaxia - 銀河  
 galte - 間違い (誤り, バグ)  
-• degalte - デバッグする  
-gamben - 連れ子  
-gancau - 干し草  
-ganakase - 檻 (篭, ケージ)  
-gande - 香り (匂い, 臭い)  
-gande - 嗅ぐ  
+gamba - 海老  
+gami ben - 連れ子  
+gamo zi - 絵文字  
+gan gazo - 干し草  
+ganir - 歌手  
+ganirgrupe - 合唱団  
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
 gar - もし  
-gar - 車  
-garme - 暖かい (熱い)  
-garmemosim - 夏  
-garmezone - 熱帯  
-garmezone caustan - サバンナ  
-gate - 硬い  
-gatemate - 固体  
-gau - 高い  
-gautehnia - ハイテク  
-gaze - ガーゼ  
+garma - 暖かい (熱い)  
+garma mosim - 夏  
+garma zona - 熱帯  
+garma zona gazo stan - サバンナ  
+gata a dante - 咬む  
+gata glu bano - クリップボード  
+gata ja - 鋭い  
+gati - 硬い  
+gati mate - 固体  
+gau di - 高い  
+gau dipe move - 浮き沈みする  
+gau tehni - ハイテク  
 gazel - ガゼル  
-gee - 地  
-• abogee - 遠地点  
-geoforme - 地形  
-geolojia - 地質学  
-geometria - 幾何学  
-geosube - 地中  
-geosube jelekan - 地下牢 (ダンジョン)  
-• genite - 湧かす  
-• genolojia - 系譜学  
-genoloke - 出生地  
-genotipe - 遺伝子型  
-• geriler - ゲリラ  
-• gerer - 戦士 (武士)  
-• antigere - 反戦  
-germanium - ゲルマニウム  
-gestobaxe - 手話  
-• gider - 案内人 (ガイド)  
-gidobuke - ガイドブック  
-gingoline - 縦糸  
+gazo - 草  
+gazo medan - 芝生  
+gazo stan - 草地  
+gene di - 生 (未熟)  
+genelogi - 系譜学  
+gene loka - 出生地  
+gene tipe - 遺伝子型  
+gene yo hevan - 湧かす  
+geo - 地  
+geo forme - 地形  
+geologi - 地質学  
+geo metre - 幾何学  
+geo nice di - 地中  
+geo nice jela - 地下牢 (ダンジョン)  
+german yum - ゲルマニウム  
+gi - 装置 (機, 器)  
+gida buku - ガイドブック  
+gida ja - 案内人 (ガイド)  
+ging - 並行  
+ging lin - 縦糸  
+gingam - キンカン (キンキツ)  
+gio - 教える (教義, -教)  
+gio ja - 教員  
 gitar - ギター  
-glas - ガラス  
-• glasize - 釉薬  
-glasokupe - グラス  
-glise - 滑る  
-glute - 張る (付く)  
-glutobende - 絆創膏  
-glutofan - 粘土  
-glutograf - ステッカー  
-gogia - 国 (国家)  
-• gogian - 市民  
+glis - 滑る  
+glu bande - 絆創膏  
+glu di - 粘い  
+glu grafi - ステッカー  
+glu poto - 粘土  
+go - その  
 gol - 目的 (行き先, ゴール)  
-gom - ゴム (消しゴム)  
-• tragone - 筋交い (対角)  
+gola longta - 周囲長  
+gola seku - 丸石 (玉石, 栗石)  
+gomu - ゴム (消しゴム)  
+gong - 労働  
+gong ja - 労働者  
+gongkan - 工場 (製造所)  
+gong mise - 提出  
 gorila - ゴリラ  
-• grafeme - 画素 (ピクセル)  
-grafokarde - グラフィックカード  
-grafoprocese - 画像処理  
-grafosage - 漫画  
+grafi culi - 画像処理  
+grafi fineta - 解像度  
+grafi karte - グラフィックカード  
+grafi kata - 漫画  
+grafi rapideta - フレームレート  
+grafi so - 画素 (ピクセル)  
 granite - 花崗岩  
 grave - 砂利  
+guai - 変  
+gubu - 河馬  
 gui - 鬼  
-guimuke - しかめっ面  
-guipapil - オニゲシ  
-guke - キク  
-gute - 膝  
+gui papi - オニゲシ  
+guku hua - キク  
+gun jen - 軍人  
+gun raja - 総統 (将軍 )  
+guru - 尊師 (グル, 先生)  
+guta - 膝  
+guta kaska oste - 膝蓋骨  
 
 ## H  
 
 habar letre - ニュースレター  
-hafnium - ハフニウム  
-hahe - 笑う  
+Habaxa - アビシニア  
+hafen yum - ハフニウム  
+haha - 笑う  
 hai - 海  
-haialge - 海藻  
-haiamirer - 提督 (海軍大将)   
-haiblu - 水色  
-haicau - 海草  
-haiful - イソギンチャク  
-haigele - 海月  
-haihiyar - 海鼠  
-haiorde - 海軍  
-haiporta - 海港  
-haitate - 海岸  
-hake - 権利  
+hai alga - 海藻  
+hai amir ja - 提督 (海軍大将)   
+hai gazo - 海草  
+hai gun - 海軍  
+hai hiyar - 海鼠  
+hai hua - イソギンチャク  
+hai jele - 海月  
+hai kinar - 海岸  
+hai nil - 水色  
+hai porte - 海港  
+haki - 権利  
 hal - 状態  
-halaloliste - ホワイトリスト  
-halte - 止まる  
+halal liste - ホワイトリスト  
+hali - 空  
+hali zi - 間隔  
+halifa - ハリーファ  
 hande - 手  
-handange - 腕  
-hape - 適応する  
-hape - 適切  
-haramliste - ブラックリスト  
+hande xaka - 腕  
+hapu - 適切  
+haram liste - ブラックリスト  
 Hartum - ハルツーム  
-haste - 忙しい  
-• anhaste - 遅い (ゆっくり)  
-hatre - 危険  
-haxi - 箸  
-hei - おい  
-helium - ヘリウム  
-helisviman - ヘリコプター  
-heme - 血  
-hemocel - 血球  
-hemoglobin - 血色素 (ヘモグロビン)  
+has nam - 識別名  
+hatar - 危険  
+hava - 風  
+heli yum - ヘリウム  
+helis fei gi - ヘリコプター  
+hem - 考える  
+hemi - 血  
+anhemia - 貧血  
+hemiglobin - 血色素 (ヘモグロビン)  
+hemiselu - 血球  
 hepate - 肝臓  
-hepatitis - 肝炎  
-Hesia - ヘッセン  
-hesium - ハッシウム  
-hidre - 水素  
+hepatetis - 肝炎  
+hero - 英雄 (勇者, ヒーロー)  
+Hese - ヘッセン  
+hese yum - ハッシウム  
+hevan - 動物  
+hevan agri suta - 畜産  
+hevan bagi - 動物園  
+hevanlogi - 動物学  
+hevan logi di - 動物学の  
+hidrargente - 水銀  
+hidro - 水素  
+hindi raja - ラージャー  
+Hindi rivo - インダス川  
+hindi yum - インジウム  
+hisabu loge - 口座  
+hisabulogi - 数学  
 hiyar - キュウリ  
-hima - 雪が降る  
-Hinde riu - インダス川  
-hindium - インジウム  
-hisabe - 計算する  
-• hisabolojia - 数学  
-hoge - 火  
-hoge - 燃やす  
-hogu - 燃える  
-hogoxan - 火山  
-hogite - 火打ち石 (フリント)  
-hogotehne - 花火  
-hoke - ホッケー  
-holmium - ホルミウム  
+hobi ja - アマチュア  
+hogo - 火  
+hogo san - 火山  
+hogo seku - 火打ち石 (フリント)  
+hogo tehni - 花火  
+hoki - ホッケー  
+holme yum - ホルミウム  
 hor - 時 (１時間)  
-horloger - 時計  
+hor loga gi - 時計  
 hotel - ホテル (旅館)  
 hua - 花  
-huabing - 花瓶  
-huamosim - 春  
-huapote - 植木鉢  
-huidarte - ポドゾル  
+hua mosim - 春  
+hua pote - 植木鉢  
+hui darte - ポドゾル  
 huke - 掛 (針, 鉤)  
-hukokrus - 卍 (卐)  
+huke krus - 卍 (卐)  
+huke lin kane - 釣り竿  
 huli - 狐  
-• human - 人間  
-• humanisme - ヒューマニズム (人文主義)  
-human hake - 人権  
-hure - 自由  
-hurargente - 水銀  
+huru - 自由  
 
 ## I  
 
-ike - 的  
+iha uma - 騾馬  
 in - 内  
-intraje - 腸 (臓器)  
-intelige - 知性  
+in migra - 移住する (移民する)  
+in migra ja - 移民 (移住者)  
+in tene gi - コンテナ  
+in verse jen - 内向的な人  
+insan - 人間  
+insan haki - 人権  
+insan sim - ヒューマニズム (人文主義)  
+iode - ヨウ素  
 IP adres - IPアドレス  
-iridium - イリジウム  
-irone - 反語的  
-ironia - 反語 (皮肉)  
-• islamia - イスラム教  
-• islamisme - イスラム教  
-itojanger - 石匠  
-ivia - 傾向  
+iris yum - イリジウム  
+ironi - 反語 (皮肉)  
+ironi di - 反語的  
+islam din - イスラム教  
 
 ## J  
 
-• ajame - 会合 (会議, ミーティング)  
-jambul - フトモモ  
-janel - 窓  
-janelovel - カーテン  
+ja - 者 (人, 家)  
+jaibai - 勝敗  
+• anjama - 散らす  
+• anjama di - 疎ら  
+jamul - フトモモ  
+jan buda din - 禅宗  
+janela - 窓  
 jang - 戦闘 (格闘)  
-jangxute - 武術  
-jangle - 野生の  
-jangle van - ジャングル  
+jangal - 森 (森林, ジャングル)  
+jaru - 箒  
 jau - 大麦  
-javabe - 答え (回答)  
-jebecaku - ポケットナイフ  
-jeke - 借用  
-jekecepe - 借りる  
-jekedone - 貸す  
-• jelekan - 監獄  
-jen - 人  
-• dusjen - 敵  
-jenju - 真珠  
-jense - 性別 (ジェンダー)  
-jensolojia - ジェンダー研究  
-• jetaje - 飛翔体 (矢玉)  
-• projetaje - プロジェクト  
-jetografe - 映す (投影する, 投影)  
-• jihadiste - ムジャーヒディーン  
-jiraf - 麒麟  
-jive - 命 (生命)  
-jongle - ジャグリング  
-• jongler - ジャグラー  
+javabu - 答え (回答)  
+jeka - 借用  
+jeka da - 貸す  
+jeka na - 借りる  
+jelakan - 監獄  
+jen - 人 (者, 員, 徒)  
+• projete - プロジェクト  
+jetegrafi - 映す (投影する, 投影)  
+jin lai - アクセス  
+jinse - 性別 (ジェンダー)  
+jinselogi - ジェンダー研究  
+jirafa - 麒麟  
+jiva - 命 (生命)  
+jong - 中心  
+Jongoku - 中国  
+jui - 注意  
+jui di - 気をつける (慎む)  
+jui note - 注意 (戒め, 警告)  
 jul - ジュール (J)  
+jun fem - 女の子  
+jun jen - 青少年  
 junjen - 青少年  
+jun man - 男の子  
+jun moka - 若木  
 junnen - 青春時代  
-juntelexe - 接続詞  
-jupiter - 木星  
+Jupiter - 木星  
 jus - ジュース  
-justepaver - 狙撃兵  
+juste pau ja - 狙撃兵  
 
 ## K  
 
-ka - より  
-kable - 電線  
-kaboge - カボチャ  
-kadium - カドミウム  
+ka - より (に比べ)  
+kable - 縄 (綱)  
+kaboga - カボチャ  
+kadim yum - カドミウム  
 kafe - コーヒー  
+kafe alga - 褐藻  
 kafekan - カフェ (コーヒー店)  
-kafepote - コーヒーポット  
-kaguje - 紙  
-kagujelimon - メキシカンライム (マナオ)  
-kale - 空  
-kalium - カリウム  
-kaleharfe - 間隔  
+kafe pote - コーヒーポット  
+kafe rang - 茶色  
+kafe salmon - ブラウントラウト  
+kaguji - 紙  
+kaguji limon - メキシカンライム (マナオ)  
+kala - 黒い  
 kalam - ペン  
-kalende - 暦 (カレンダー)  
+kalam sui - インク (墨)  
+kalenda - 暦 (カレンダー)  
 kali - 塩基  
-kaliguste - 苦い  
-kalimelon - ツルレイシ (ニガウリ)  
-kalioranje - ダイダイ  
-kalifornium - カリホルニウム  
+kali guste - 苦い  
+kali melon - ツルレイシ (ニガウリ)  
+kali oranje - ダイダイ  
+kali yum - カリウム  
+kaliforni yum - カリホルニウム  
 kalmar - イカ  
-kalsium - カルシウム  
-kalsekristal - 大理石  
-kalsemate - 石灰  
+kalsi bilor - 大理石  
+kalsi mate - 石灰  
+kalsi yum - カルシウム  
 kam - 少ない  
 kama - 色欲  
-Kama sutre - カーマ・スートラ  
+kama deu - カーマ  
 kamar - 部屋  
 kamil - カモミール (カミツレ)  
-kamis - シャツ  
-kamisi xake - 袖  
+kamisa - シャツ  
+kamisa xaka - 袖  
+kampe bede - 折り畳み式ベッド  
 kan - 店 (館)  
+kanal - 側溝  
+kanca - ガラス  
+kanca daka - 釉薬  
+kandi - キャンデー  
+kane kasa - 檻 (篭, ケージ)  
+kane minte - スペアミント  
+kane sor - 掛け金  
 kangaru - カンガルー  
+kano - カヌー  
+kantalupo melon - カンタロープ  
 kanyon - 峡谷  
-kankuate - キンカン (キンキツ)  
-kantalupomelon - カンタロープ  
-kanu - カヌー  
-kapetruke - 罠  
-kare - 働く  
-• karaje - 労働  
-• karer - 労働者  
-• duskar - 悪事  
-• konkare - 共同して働  
-karelexe - 動詞  
-kara - 黒い  
-• karateiste - 空手家  
-karbe - 炭素  
-karbosui - 炭水化物  
+kape truke - 罠  
+kar - 車  
+karate - 空手  
+karate ja - 空手家  
+karbon - 炭素  
+karbon kalam - 鉛筆  
+karbon sui - 炭水化物  
 karcof - アーティチョーク  
-karde - カルタ  
 kardon - アザミ  
-kardonkarcof - カルドン  
+kardon karcof - カルドン  
 kargadan: - 犀  
 kari - カレー  
+karma - 行為  
+karma ja di - 活動的  
+karma loga - 動詞  
 karote - ニンジン  
 karse - 荒い  
-karsolimon - コブミカン (スワンギ, プルット)  
-karte - 地図  
-karube - 蝗豆  
-kaske - 殻 (皮)  
-kaslan - ナマケモノ (怠惰な)  
-kate - 咬む  
-• katade - 咀嚼  
-kategluteban - クリップボード  
-kategom - チューインガム  
+karse limon - コブミカン (スワンギ, プルット)  
+karta - 地図  
+karte - カルタ  
+karuba - 蝗豆  
+kaska - 殻 (皮)  
 katana - 刀 (剣)  
 katus - サボテン  
-kave - 掘る  
 kauri - 宝貝  
-ke - 何 (どの)  
-ke yange - どんな  
+kava - 掘る  
+ke - 何  
 ke jen - 誰  
-ke mode - どのように  
-ke sate - 何時  
-ke xei - 何事  
-kecape - ケチャップ  
-keger - 客人  
-kenarbaryer - 柵 (垣)  
-kentaur - 人馬 (ケンタウロス)  
-kex - 毛  
-kexefentor - ヘアドライヤー (ブロードライヤー)  
-keze - チーズ  
-kezeproten - 乾酪素  
+ke loka - どこ  
+ke riti - どのように  
+ke sata - 何時  
+ke xe - 何事  
+ke yang - どんな  
+keka ja - 客人  
+Keme - 古代エジプト  
+kerne - 核  
+kexa - 毛  
+kexa hin - 無毛  
 kilo - 千 (１０００)  
-kime - 物質  
-• kimia - 化学  
-• kimium - 元素  
+kimi - 物質  
+kimilogi - 化学  
+kimi so - 元素  
 kimono - 着物  
-kine - 動かす  
-kinu - 動く  
-• kinografe - 映画  
-kire - 賃貸  
-• kitabia - 文献 (文学)  
-• kitabeme - 書記素  
-kitaboforme - 書式付け  
-kitabekan - 図書館  
-kitabemanter - 図書係  
+kinar - 際 (端)  
+kinar baryer - 柵 (垣)  
+kino grafi - 映画  
+kio - 橋 (橋梁)  
+kira - 賃貸  
+kisma - 運命 (宿命)  
+kitabu forma - 書式付け  
+kitabukan - 図書館  
+kitabu minister - 図書係  
+kitabu so - 書記素  
+kitabu suta - 文献 (文学, 文芸)  
 kivi - キーウィフルーツ  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
-klimomute - 気候変動  
-klorium - 塩素  
+klima mute - 気候変動  
+klin - 斜め (傾向)  
+klor - 塩素  
 koala - 子守熊 (コアラ)  
 kobalte - コバルト  
-• komodia - 喜劇 (コメディ)  
+koda - 尾 (尾翼)  
+komputa di - デジタル  
 kon - 共  
-koncung - 昆虫  
-konge - 染みる (貫通する)  
-Kongfuze - 孔夫子  
+kon bon - 合わせる (適する)  
+kon forma - 即する  
+kon gong - 共同して働  
+kon pasi - 同情  
+kon sel ja - 顧問  
+kone - 錐  
 konserte - コンサート (音楽会)  
-konus - 錐  
-kopernikium - コペルニシウム  
-• kopiaje - コピー  
-kor - 核  
+koperni yum - コペルニシウム  
+kopi - コピー  
 koral - 珊瑚  
-korne - 角  
-kornemelon - ツノニガウリ  
-kortokrokodil - アリゲーター  
-kosmonau - 宇宙船  
+kore - 走る (疾走する)  
+korne melon - ツノニガウリ  
+korte kata - 短編小説  
+korte krokodil - アリゲーター  
+kosmo nave - 宇宙船  
 krake - 隙間 (ひび)  
-krede - 信頼する  
-• krediste - 信徒 (信者)  
-bekredebil - 忠実  
-• ankrediste - 不信者  
-kredokarde - クレジットカード  
+kredi - 信頼する  
+• ankredija - 不信者  
+• bekredibil - 忠実  
+kredija - 信徒 (信者)  
+kredikarte - クレジットカード  
 krem - クリーム  
 krepe - パンケーキ  
-krevete - 海老  
 kriton - クリプトン  
 krokodil - ワニ  
-krokroke - 蛙  
-kromium - クロム  
+krokro - 蛙  
+krom yum - クロム  
 krote - 田鼠  
 kruasan - クロワッサン  
-krusarke - クロスボウ (石弓)  
-kruseline - 十字線  
-kuangia - 鉱山  
-kuanger - 坑夫  
+krus arka - クロスボウ (石弓)  
+krus lin - 十字線  
+kuanga ja - 坑夫  
+kuanga san - 鉱山  
 kuarze - 石英  
 kube - 立方体  
-kukokamar - 台所  
+kudi - 肘  
+kuke kamar - 台所  
 kuku - 郭公  
 kul - カッコいい  
-kumulonepe - 積雲  
-kupe - コップ  
+kupa - コップ  
 kupre - 銅  
-kurium - キュリウム  
-kuxe - 寝転ぶ  
-kuxen - 枕  
+kurban - 犠牲  
+kuri yum - キュリウム  
 
 ## L  
 
+la - あの  
 lage - 湖  
 lai - 来る  
-laiane - 持って来る  
-lale - 赤い  
-lalelince - ボブキャット  
-laloranje - ポンカン (マンダリン)  
-lalsalmon - ベニザケ  
-lalobavite - ルビー  
+lalabede - 揺り籠  
+lalagani - 子守歌 (ララバイ)  
 lama - ラマ (チベット仏教の上師)  
-lampe - ランプ  
-LAN (loke aria nete) - LAN  
-lantanium - ランタン  
+lampa - ランプ  
+LAN (loka area nete) - LAN  
+lanse grafi - 投影  
+lanse xe - 飛翔体 (矢玉)  
+lantan - ランタン  
 lasa - ゴミ (廃棄物)  
 lasastan - ゴミ捨て場  
 lasatong - ごみ箱  
 lasun - 大蒜  
 late - 側 (脇)  
-• latude - 緯度  
 Latvia - ラトビア  
 lau - 年配  
-laujen - 老人  
-launen - 老年  
-laurensium - ローレンシウム  
+laurence yum - ローレンシウム  
+laxe - 残す  
 lazanya - ラザニア  
-lazurite - ラピスラズリ (瑠璃)  
+lazur petra - ラピスラズリ (瑠璃)  
 lense - レンズ  
+lente - 遅い (ゆっくり)  
 letre - 手紙  
 letus - レタス  
-leve - 左  
-lexe - 言葉  
-• lexia - 語彙  
-lexojinse - 文法的性 (名詞クラス)  
+leu - 左  
 liama - ラマ  
-libu - 立つ  
-libeban - 棚  
-libebaze - 台  
 libele - 蜻蛉  
-lidoline - リード (手綱)  
+lida lin - リード (手綱)  
+liga di sanduku - 契約の箱  
+lima - 五 (5)  
 limon - レモン  
-• limonike - 柑橘  
 limon jus - レモネード  
-line - 糸  
-lineme - 繊維  
-lince - 大山猫  
-lipe - 油  
-lipocupe - 脂肪吸引  
-lipoguke - シマカンギク (アブラギク)  
+limon oranje - 柑橘  
+lin - 糸  
+lin so - 繊維  
+linke - 繋がり (リンク)  
+linse - 大山猫  
+lipa - 立つ  
+lipa bano - 棚  
+lipa baze - 台  
+lipa side - しゃがむ (蹲る)  
 lisan - 舌  
-litium - リチウム  
+lito yum - リチウム  
 litre - リットル  
-live - 残す  
-livermorium - リバモリウム  
-loge - 話す  
-• euloge - 賛辞  
-loke - 場所  
-lona biznes - 話し合う (話を付ける)  
-longe - 長い  
-longokrokodil - クロコダイル  
-longopipre - 畢撥  
-lontre - 獺  
+livermor yum - リバモリウム  
+loga - 演説  
+loga fen - 音節  
+loga jama - 語彙  
+loga so - 言葉  
+loge - 記録  
+loge buku - 日誌  
+loge cuti - ログアウト  
+loge jin - ログイン  
+logi - 研究 (科学, 学)  
+logi safar ja - 探検家  
+loka - 場所  
+loka nume - 座標  
+long - 長い  
+long kata - 小説  
+long krokodil - クロコダイル  
+long pipre - 畢撥  
+long tire - 伸びる (張る)  
+lotra - 獺  
 lou - 漏る  
-luge - 録  
-luke - 緑 (緑色)  
-lukemelon - ハネデューメロン  
-lumen - ルーメン  
-lumbe - 腰部  
-lumbalgia - 腰痛  
-lun - 月間  
-lun un - １月  
-lun du - ２月  
-lun tri - ３月  
-lun catre - ４月  
-lun pente - ５月  
-lun sixe - ６月  
-lun cete - ７月  
-lun bate - ８月  
-lun nove - ９月  
-lun des - １０月  
-lun des un - １１月  
-lun des du - １２月  
-lunokeke - 月餅  
+luka - 六 (6)  
+lulu table - 算盤  
+luna keke - 月餅  
 lung - 竜  
-lutetium - ルテニウム  
+lung dou - 四角豆  
+lutesi yum - ルテニウム  
 
 ## M  
 
 ma - お母さん (母, ママ)  
-mace - 試合 (競技)  
-maduvesponide - 蜂の巣 (ハニカム)  
-maduvesposanduke - 養蜂箱  
 maf - ごめんなさい  
-magente - マゼンタ (紅紫色)  
-magesium - マグネシウム  
-Magribia - モロッコ  
-mai - お母さん (母, ママ)  
-maitnerium - マイトネリウム  
+magen yum - マグネシウム  
+magi ja - 魔法使い  
+magi liki - 魔力  
+Magribi dexa - モロッコ  
 majang - 麻雀  
-Maka - メッカ  
-makanful - タンポポ  
-• malonomia - 経済学  
+majenta - マゼンタ (紅紫色)  
+makan hua - タンポポ  
+mal nomi - 経済学  
+mang - 忙しい  
 mangan - マンガン  
-manse - 肉  
-manto - マント (ケープ)  
+manioka - キャッサバ  
+mantol - マント (ケープ)  
 mar - 回 (次, 度)  
 margai - マーゲイ  
-mas - 質量  
-masmul - 芋 (塊茎)  
-masmulsolful - キクイモ  
-masale - 香辛料  
-maske - 仮面 (マスク)  
+masa - 質量  
+masa mula - 芋 (塊茎)  
+masa mula sol hua - キクイモ  
+masala - 香辛料  
+maska - 仮面 (マスク)  
+mata badan - 死体  
+mata badan fili - 屍姦 (死体性愛)  
 mate - 物質  
-mate cai - マテ茶  
+mate lona - 唯物論 (唯物主義)  
+matur fem - 女の人  
+matur jen - 大人  
+matur man - 男の人  
 mau - 猫  
-maxobalaje - 増派 (援兵)  
+max fili di - 好き (お気に入りの)  
+max gun - 増派 (援兵)  
 mayur - 孔雀  
 maze - 靴下 (ソックス)  
-mede - 手伝う (助ける)  
-meden - 広場  
-medenpapil - ヒナゲシ  
+me - 第  
+mece - 試合 (競技)  
+medan - 広場  
+medan papi - ヒナゲシ  
+mede - 助け  
+media - 媒体 (メディア)  
+medi dia - 正午  
+medi fase - 界面  
+medi noce - 真夜中  
+medi xe - 媒体 (バッファ)  
+medu - 蜂蜜  
+medu fong - 蜜蜂  
+medu fong nide - 蜂の巣 (ハニカム)  
+medu fong sanduku - 養蜂箱  
 mega - １００万 (メガ)  
+megi - 雲  
+megi di - 霧深い (曇っている)  
 mei - 美しい  
-• meyia - 美しさ  
-• meyize - 飾る (装飾)  
-meideke - 美徳  
-mei jen - 美人  
+mei daka - 装飾  
+mei suta - 芸術 (美術)  
+mei suta ja - 美術家  
+meita - 美しさ  
+meitner yum - マイトネリウム  
 melon - マスクメロン  
-meme - 記憶  
-meme - 思い出す  
-• dememe - 忘れる  
-memobine - 追悼塔 (碑)  
-mendelevium - メンデレビウム  
-menu - メニュー  
+memo - 記憶  
+• anmemo - 忘れる  
+memo bina - 追悼塔 (碑)  
+mena - ヌードル  
+mendelef yum - メンデレビウム  
+mes - 月間  
+mes bati - ８月  
+mes ceti - ７月  
+mes des - １０月  
+mes des du - １２月  
+mes des un - １１月  
+mes du - ２月  
+mes lima - ５月  
+mes luka - ６月  
+mes nelu - ４月  
+mes tisa - ９月  
+mes tri - ３月  
+mes un - １月  
 metal - 金属  
-metalbede - 金敷き (鉄床)  
-metalline - 線 (針金)  
+metal bede - 金敷き (鉄床)  
+metal lin - 線 (針金)  
 metal tul - 金物  
+metre - 測定  
+metre gi - 測定装置 (計)  
 meza - 机 (テーブル)  
-mezastan - 台地 (高地)  
-mezatexe - テーブル掛け  
+meza stan - 台地 (高地)  
+meza tela - テーブル掛け  
 mi - 私  
-mi su - 私の  
 mimen - 私たち  
-mien - ヌードル  
-• inmigre - 移住する (移民する)  
-• inmigrer - 移民 (移住者)  
-mikrobie - 微生物  
-mikrobiolojia - 微生物学  
+mi su - 私の  
+mikro bio - 微生物  
+mikro biologi - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
-milkokardon - マリアアザミ  
-mime - シミュレートする  
-mimer - 模倣者  
-minte - ハッカ  
-• miraje - 蜃気楼  
-• miror - 鏡  
-• misaje - 伝言 (メッセージ)  
-• misioner - 宣教師  
-• konmisia - 委員会  
-Misria - エジプト  
+milke kardon - マリアアザミ  
+mima ja - 模倣者  
+minta - ハッカ  
+mirde - 微か  
+Misri - エジプト  
+miti - 会合 (会議, ミーティング)  
 mitre - メートル  
-moke - 木  
-mokotan - 丸木  
-mokegana - 杭  
+mixe alkol - カクテル (混合酒)  
+moka - 木  
+moka kane - 杭  
+moka tana - 丸木  
 mole - モル  
 molekul - 分子  
-molidenium - モリブデン  
-mone - 金  
-montepike - 頂点  
+moli - 茉莉  
+moli hua cai - 茉莉花茶  
+moliden - モリブデン  
 mos - 苔  
+mos di - 苔状  
 mosim - 季節  
-moskovium - モスコビウム  
-• moter - モーター (エンジン, 機関)  
-motesikle - オートバイ (モーターサイクル)  
-mul - 根  
-multe - 多い  
-• mumike - ミイラ  
-mummelon - トウガン  
+moskva yum - モスコビウム  
+mostre - 怪物  (モンスター)  
+moto - モーター (エンジン, 機関)  
+moto sikle - オートバイ (モーターサイクル)  
+mula - 根  
+multi - 多い  
+mum melon - トウガン  
 mun - 門  
-• daimun - 大門  
 mur - 壁  
-murkaguje - 壁紙  
+mur kaguji - 壁紙  
 musli - ミューズリー  
-muze - 楽しみ (娯楽)  
-• muzante - 楽しい  
-muzike - 音楽  
+muxu - 鼠  
+muxu cakra - ホイールマウス  
+muzika - 音楽  
 
 ## N  
 
-nagis - 汚れ (汚染)  
-nagise - 汚す  
-nagise - 汚い  
-nagisbinde - 染み (汚点)  
+na - 受ける (もらう)  
+na xiti - 得失  
+najis - 汚れ (汚染)  
+najis bindu - 染み (汚点)  
+najis di - 汚い  
 nam - 名前  
-namkitabe - 署名する (サイン)  
+nam dokumen - 身分証明書 (ID)  
+nam hin - 名無し (無名の)  
+nam kitabu - 署名する (サイン)  
+nama - 肉  
 nan - 男  
-narke - 麻薬  
-• narkose - 症  
-nasomede - 国際的  
-nasibe - 運命 (宿命)  
-• nature - 自然  
-natrium - ナトリウム  
-nau - 舟 (ボート)  
+narko - 麻薬  
+nasi medi - 国際的  
+natri - ナトリウム  
+nau - 脳  
 nautile - オウムガイ  
-naze - 鼻  
+nave - 舟 (ボート)  
 ne - ね  
 nefre - 腎臓  
-• nekrofilisme - 屍姦 (死体性愛)  
-• nekrotome - 検視  
+nefte - 油 (オイル)  
+nefte guku - シマカンギク (アブラギク)  
+nelu - 四 (4)  
 nen - 年  
-nen lun den - 年月日  
-neodimium - ネオジム  
+nen mes den - 年月日  
+neodim yum - ネオジム  
 neon - ネオン  
-nepe - 雲  
-• nepi - 霧深い (曇っている)  
-nepotunium - ネプツニウム  
-• internete - インターネット  
-• konnete - 繋げる  
-neu - 新しい  
-• nevike - 初心者  
-neuloge - 新語 (新造語)  
-neuyangike - 近代的  
-neurotoxe - 神経毒  
+neputun yum - ネプツニウム  
+nerve toxi - 神経毒  
+nete - 網  
+neu di - 新しい  
+neu jen - 初心者  
+neu loga - 新語 (新造語)  
+neu yang di - 近代的  
 ni - 女  
+ni - この  
+nia - 意図  
+nice - 下  
+nice kitabu - 字幕  
 nide - 巣  
 nikel - ニッケル  
 nil - 青い  
-nilbavite - サファイア  
-nilkentaurhua - ヤグルマギク  
-nilseramsing - ヒナソウ  
+nilelfe - スマーフ (シュトロンフ)  
+nilsentaure - ヤグルマギク  
+nilserami sing - ヒナソウ  
 nilon - ナイロン  
-niobium - ニオブ  
+niobi yum - ニオブ  
 Nipon - 日本  
-nipone - 日本の (日本語, 日本人)  
-niponium - ニホニウム  
-nis - 壁龕  
+nipon di - 日本の (日本語, 日本人)  
+nipon yum - ニホニウム  
 nitre - 窒素  
+nix - 壁龕  
 no - いいえ  
-nobelium - ノーベリウム  
+nobel yum - ノーベリウム  
 noce - 夜  
-nole - キャンセルする  
-nome - 組織する  
+Noe di nave - ノアの箱舟  
+nume zi - 数字  
 norde - 北  
-norme - 標準 (普段, ノーマル)  
-• annorme - 不自然  
-• nosisme - グノーシス主義  
-• dianose - 診断  
-nosolojia - 認識論  
+norma - 標準  
+norma di - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
-nove - 九 (9)  
-• novime - 九番目  
-• nudisme - ヌーディズム  
-nuke - 首  
-nume - 数える  
+nuka - 首  
 
 ## O  
 
-ode - 頌歌 (オード)  
-oke - 目  
-okosuigas - 催涙ガス  
-• okeibil - 大丈夫 (ＯＫ)  
-onde - 波  
-orangi - オレンジ色の  
-ordorejer - 総統 (将軍 )  
-ordojen - 軍人  
+oganeson - オガネソン  
+ohtopus - タコ  
+okebil - 大丈夫 (ＯＫ)  
+onda - 波  
+oranje rang - オレンジ色の  
 orkide - ラン  
-orte - まっすぐな  
+orto - まっすぐな  
 oselote - オセロット  
 osidian - 黒曜石  
-osmium - オスミウム  
-ostogamia - 骨格  
-ostosalke - ぜんご  
-• ovoide - 卵形 ( たまごがた)  
-oxe - 酸素  
+osmi yum - オスミウム  
+oste jama - 骨格  
+oste xalke - ぜんご  
+oxi - 酸素  
 
 ## P  
 
 pa - お父さん (父, パパ)  
-pacehaikade - マダラ  
-• depade - 逸れる  
-padomun - 落とし戸  
-payace - ピエロ (道化師)  
-paladium - パラジウム  
+pada mun - 落とし戸  
+paladi yum - パラジウム  
 pan - 全ての  
-pandemi patia - パンデミック  
+pan demi pati - パンデミック  
+pan mima - パントマイム   
+pan un - 毎  
 pandunia - パンドゥニア  
-panmime - パントマイム   
-panun - 毎  
 pang - パン  
 panir - クワルク  
-panke - 翼 (羽)  
 pante - ズボン  
 papaya - パパイヤ  
-pare nume - 偶数  
-• parike - 同輩  
-• parebil - 譬え話  
-parline - 並行  
-parvezia - 均衡 (平衡)  
+par jen - 同輩  
+par nume - 偶数  
+par vezeta - 均衡 (平衡)  
 param - 引数 (パラメーター)  
-parcokai - 弾ける  
+parce kai - 弾ける  
+pari dexa - 仙境  
 parne - 羊歯  
-• partaner - パートナー  
-• partaneria - パートナーシップ  
-paslexe - パスワード  
+partijen - パートナー  
+pas loga - パスワード  
+pase hai bakalau - マダラ  
+pase sim - 平和主義  
+pasi - 痛み  
+pasi di - 痛い  
 pasporte - パスポート  
-pastopetre - マグマ (岩漿)  
-• patike - 患者  
-• patekan - 病院 (医院)  
-• konpatia - 同情  
-patomise - 伝染  
-pau - 銃  
-• prepedike - 調製用  
-peikar - 職業  
-peikare - プロフェッショナル  
-peikari jive - キャリア  
-peikarer - プロフェッショナル  
-• propelor - プロペラ (推進器)  
+pasta petra - マグマ (岩漿)  
+pati jen - 患者  
+patikan - 病院 (医院)  
+pati mise - 伝染  
+pau - 撃つ  
+pau gi - 銃  
+pede - 屁  
+pei gong - 職業  
+pei gong di - プロフェッショナル  
+pei gong ja - プロフェッショナル  
+pei gong jiva - キャリア  
+• propeler - プロペラ (推進器)  
 pelpel - チョウ  
 penakalam - 羽根ペン  
 penakardon - アメリカオニアザミ  
-• pendaje - ペンダント  
-pente - 五 (5)  
+pende sor - 南京錠  
 pente - 絵の具 (ペンキ)  
-• penter - 画家 (絵かき)  
-pentobrox - 絵筆  
-pentogone - 五角形  
-perde - 屁  
-• petrolojia - 岩石学  
-petrolipe - 石油  
+pente broxa - 絵筆  
+pente ja - 画家 (絵かき)  
+pera - 梨  
+pesa - 金  
+petra nefte - 石油  
 pexe - 魚  
-pexehuke - 釣り針  
+pexe huke - 釣り針  
+pexe saide ja - 漁師  
 piaze - 玉葱  
-picea - トウヒ  
 pike - 先  
-• depile - はがす (剥ぐ)  
 pin - 針 (刺, ピン)  
-pinkardon - ゴロツキアザミ  
-pinsoban - 用箋挟  
-piprominte - ペパーミント  
+pin kardon - ゴロツキアザミ  
+pinse bano - 用箋挟  
+pipre minta - ペパーミント  
 piram - ピラミッド (金字塔)  
-pizaria - ピザ屋  
-• explanete - 系外惑星  
-• platike - 平ら  
-plate geokaskia - プレートテクトニクス (プレート理論)  
-platestan - 草原  
-platinium - 白金  
-• exploze - 爆発  
-plum - セイヨウスモモ (プラム)  
+pisea - トウヒ  
+plate di - 平ら  
+plate geo kaskalogi - プレートテクトニクス (プレート理論)  
+plate stan - 草原  
+platin - 白金  
 plumbe - 鉛  
-plutonium - プルトニウム  
-poyu - シラミ  
-poke - ポーカー  
+pluton yum - プルトニウム  
 poli - たくさん  
-poli mar - よく (屡々)  
-Polinesia - ポリネシア  
-polite - 政府  
-polite - 治める (司る)  
-politomode - 政体  
-polskium - ポロニウム  
-pompotape - ピストン (活塞)  
-pontopin - 羅針盤  
-pore - 線  
-• porosi - 多孔質の  
+Polinesi - ポリネシア  
+politi - 政府  
+politi lona - 政道  
+politi mode - 政体  
+polska yum - ポロニウム  
+pompetapa - ピストン (活塞)  
+ponte pin - 羅針盤  
 porei - リーキ  
 • reporter - 記者  
 pos - 後 (後ろ)  
-posden - 明日  
+pos den - 明日  
 pospor - リン  
-poter - 陶工  
-poteria - 陶芸  
-poze - 植える  
-prasedium - プラセオジム  
-pre - 以前 (前に)  
-preden - 昨日  
+pote ja - 陶工  
+pote suta - 陶芸  
+poto - 泥  
+poto defa bano - フェンダー  
+potostan - 沼地  
+poyu - シラミ  
+prazedim yum - プラセオジム  
 prese - 圧力  
+prese - 圧力  
+prese gi - 圧搾機  
 • preser - 圧搾機  
 problem - 問題  
 program - 次第 (計画, プログラム)  
-projete - プロジェクト  
-prometium - プロメチウム  
-proten - 蛋白質 (プロテイン)  
-protacinium - プロトアクチニウム  
-pudu - 腐敗  
-• pujekan - 神殿  
+program gi - ソフトウェア  
+promete yum - プロメチウム  
+protacini yum - プロトアクチニウム  
+pujakan - 神殿 (宮, 寺, 神社)  
+pul ekran - フルスクリーン  
+pul fito yam sim - ヴィーガニズム  
+pul fito yam sim ja - 絶対菜食主義者 (ヴィーガン)  
+pul xipi - 漬ける (締める)  
+pulmon tis - 肺炎  
 puma - ピューマ (クーガー)  
-puntoban - スコアボード  
-puntonumbe - 得点 (点数)  
-purfitoyamisme - ヴィーガニズム  
-purfitoyamiste - 絶対菜食主義者 (ヴィーガン)  
-purxipe - 漬ける (締める)  
+punte bano - スコアボード  
+punte nume - 得点 (点数)  
+putau bagi - 葡萄園  
+putau oranje - グレープフルーツ  
 • konputer - コンピュータ  
-putavorange - グレープフルーツ  
+Putong Han - 普通話 (北京語)  
 
 ## R  
 
-radium - ラジウム  
+radi longta - 半径  
+radi yum - ラジウム  
 radon - ラドン  
 rai - 意見 (見解)  
 raite - 右  
+raja - 国王  
+rajanan - 王様  
+rajani - 女王  
 rakun - 狸 (ラクーン, 洗い熊)  
-rangarke - 虹  
-rangarkosalmon - ニジマス  
-rangomate - 染め粉  
-rapsodia - 狂詩曲 (ラプソディ)  
+rang arka - 虹  
+rang arka salmon - ニジマス  
+rang mate - 染め粉  
+rapide - 速い  
 rare - 稀 (疎ら)  
-rase - 人種  
-• ration - 推論  
-• ratolojia - 論理  
-ratibe - 順  
-ratibe - 揃える  
-ratibe - 整然  
-• razor - 剃刀  
-razi table - 白紙状態  
-retrogul - 戻す (吐く)  
-retrogul sense - 吐き気 (嘔気)  
-• rejenan - 王様  
-• rejeni - 女王  
-• rejer - 国王  
-• relia - 実在 (現実)  
-• rel televizion - リアリティ番組  
-• relize - 実現する  
-rel televizion - リアリティ番組  
-renium - レニウム  
-rentogenium - レントゲニウム  
-repauze in pace (RIP) - 安らかに眠れ  
-ri- - 繰り返し  
+rasa - 人種  
+ratibu - 順  
+ratibu di - 整然  
+re - 繰り返し  
+re sikle - 再生する (リサイクルする)  
+re zoku - 再開する  
+Ren - ライン川  
+ren yum - レニウム  
+rentegen yum - レントゲニウム  
+retro gula - 戻す (吐く)  
+retro gula sense - 吐き気 (嘔気)  
+retro note - フィードバック (帰還)  
 ring - 輪  
-ringare - リング  
-ris - 米 (ご飯)  
+ringar - リング  
 ritim - リズム  
-riu - 川  
+rivo - 川  
 rode - バラ  
-rodium - ロジウム  
-roke muzike - ロック  
-roketolancer - ロケット発射器  
-romante - ロマンス  
+rode salmon - カラフトマス  
+rode yum - ロジウム  
+roke kursi - 揺り椅子  
+roke muzika - ロック  
+rokete lanse gi - ロケット発射器  
 Roma - ローマ  
 roma kamil - ローマンカモミール  
-• rotation - 回転  
-rotolefto - 左回り (反時計回り)  
-rototope - 独楽  
-roze - バラ  
-rozosalmon - カラフトマス  
-rubidium - ルビジウム  
-ruhmixe - 惑わす (まごまご)  
-rukosake - リュックサック  
-rute - 破裂  
-rutenium - ルテニウム  
-ruterfordium - ラザホージウム  
+romanse - ロマンス  
+romanse di - ロマンチック  
+rota leu - 左回り (反時計回り)  
+rota vanu gi - 独楽  
+rubi - 赤い  
+rubi bau seku - ルビー  
+rubi linse - ボブキャット  
+rubi oranje - ポンカン (マンダリン)  
+rubi salmon - ベニザケ  
+rubi yum - ルビジウム  
+ruhu mixe - 惑わす  
+ruhu mixe di - まごまご  
+ruke sake - リュックサック  
+rus yum - ルテニウム  
+ruterfor yum - ラザホージウム  
 
 ## S  
 
 sabe - 知る  
-sabevol - 興味 (好奇心)  
-sabevolive - 知りたがる  
-besabovole - 面白い  
+sabe vol - 興味 (好奇心)  
+sabe vol di - 面白い  
+sabe vol ja - 知りたがる  
 sable - 砂  
-• movesable - 流砂  
-sablepetre - 砂岩  
-sablestan - 砂漠  
-sabun - 石鹸 (シャボン)  
-safaroceke - トラベラーズチェック  
+sablepetra - 砂岩  
+safa tela - ワイプ  
+safarceke - トラベラーズチェック  
 sagu - サゴ  
 sagu fun - サゴ澱粉  
-sahe - 正しい  
-sale - 元気 (丈夫)  
-• salude - 健康  
+sahi - 正しい  
+saide - 狩り (狩猟)  
+sal - 塩  
+sala - ホール  
 salam - 挨拶  
-salamia - 福利 (福祉)  
-salade - サラダ  
+salamta - 福利 (福祉)  
 salmon - 鮭鱒  
-salte - 塩  
-• salver - 救世主  
-• samike - 同じよう (近い)  
-sammetre - 対称な  
-sammetria - 対称性  
-samsifia - 模型 (類似, シミュレーション)  
-samarium - サマリウム  
+salu - 元気 (丈夫)  
+saluta - 健康  
+sam metre - 対称  
+sam sifa di - 同じよう (近い)  
+sam sifa xe - 模型 (類似, シミュレーション)  
+sama - 空  
+sama hal - 天気  
+sama kinar - 地平線 (水平線, 天際)  
+sama nil - 空色  
+samari yum - サマリウム  
+san pike - 頂点  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
-sanze - 扇子  
-sapate - 鞋  
+sapatu - 鞋  
 sar - 頭  
-sarotunge - 頭痛  
-sate - 瞬間  
+sar kexa - 髪の毛 (頭髪)  
+sata - 瞬間  
 Saturne - 土星  
-saure - 蜥蜴  
-saus - ソース  
-sekurokope - バックアップ (控え)  
-sekuronume - 暗証番号  
-• konseler - 顧問  
-selenium - セレン  
+saur - 蜥蜴  
+seku - 石 (岩)  
+seku jiang ja - 石匠  
+sekur kopi - バックアップ (控え)  
+sekur nume - 暗証番号  
+selen yum - セレン  
 selge - フダンソウ (スイスチャード)  
-• semelojia - 意味論  
+seme dana - 種  
 sene - 年齢  
-senater - 上院議員  
+seng - 生の  
+seng varis - 米  
 sense - 感覚  
-sente - 百 (１００)  
-• prosente - パーセント  
-sere - 系列  
-• seria - 系列  
-• sereme - 連結  
-serame - 陶器  
-• server - サーバ  
-sexolojia - 性科学  
-siane - シアン  
-siborgium - シーボーギウム  
+sense xaka - 触手  
+sento - 百 (１００)  
+sento nen - 世紀  
+sera - のこぎり  
+serami - 陶器  
+seri - 系列  
+seria - 系列  
+serime - 連結  
+serve gi - サーバ  
+serve ja - 使用人  
+sexelogi - 性科学  
+sian - シアン  
+siborge yum - シーボーギウム  
 side - 座る  
-• sidel - 座席 (鞍)  
-• inside - しゃがむ (蹲る)  
-sifelexe - 形容詞  
-sigare - タバコ  
-• sikliste - チャリダー  
-• risikle - 再生する (リサイクルする)  
-silike - ヶィ素  
+side loka - 座席 (鞍)  
+sifa loga - 形容詞  
+sigar - タバコ  
+sikle ja - チャリダー  
+silis - ヶィ素  
 silke - 絹  
-• dusosine - 不吉 (縁起の悪い)  
-sir - 隠す  
-siromote - 忍び  
-siroplan - 陰謀  
-sirkite - 丸石 (玉石, 栗石)  
+silke larva - 蚕 (家蚕)  
+sim - 主义  
+simbol - 象徴 (シンボル)  
+sing - 星  
+sir plan - 陰謀  
+sirta - 忍び  
 siro - 零 (０)  
-sisme - 振る  
-sixe - 六 (6)  
-• askale - 上る (乗る, よじ登る)  
-• deskale - 下る (降りる)  
-skalotan - 蔓草  
-skandium - スカンジウム  
-skerte - スカート  
-• skuter - スクーター  
-• socia - 社会  
-soce jinse - ジェンダー  
-• sofia - 知恵  
+so - 元素 (-素)  
 sofa - ソファー  
-soge - 探す (捜索する)  
+sofita - 知恵  
 soi - 大豆  
-soimilke - 豆乳  
-soisaus - 醤油  
+soi milke - 豆乳  
+soi sos - 醤油  
+soki - 探す (捜索する)  
 sol - 太陽 (日)  
-solhua - ヒマワリ  
-some - 寝る  
-• ansome - 不眠症  
-somokamar - 寝室  
-somopapil - ケシ  
-sonomun - 声門  
-song - マツ  
-sore - 錠  
+sol hua - ヒマワリ  
+• ansona - 不眠症  
+sona kamar - 寝室  
+sona papi - ケシ  
+songi - マツ  
+sos - ソース  
+sosi - 社会  
+sosi jinse - ジェンダー  
 sosis - ソーセージ  
-sponje - スポンジ (海綿)  
-stanium - スズ  
-stibium - アンチモン  
-strontium - ストロンチウム  
-• studente - 学生  
-sual - 聞く (質問, 問題)  
-sualodokum - アンケート (質問用紙)  
-sube - 下  
+sual - 質問 (問題)  
+sual dokumen - アンケート (質問用紙)  
 suba - 朝  
-subayam - 朝食  
-suge - 速い  
-sugude - 速度  
+suba yam - 朝食  
 sui - 水  
-suigas - 湯気  
-suiyau - 喉の渇き  
-suikaboge - ヒョウタン (ひさご)  
-suipade - 滝 (瀑布)  
-suke - 幸せな  
+sui gas - 湯気  
+sui kaboga - ヒョウタン (ひさご)  
+sui yau - 喉の渇き  
+Suise - スイス  
+suka - 幸せな  
 sukar - 砂糖  
-sukarbete - テンサイ (サトウダイコン)  
+sukar bete - テンサイ (サトウダイコン)  
 sukar gana - サトウキビ  
-sukarorange - オレンジ (アマダイダイ)  
-sulfe - 硫黄  
-• supraje - 上  
-sus - 甘草 (蕗草)  
+sukar oranje - オレンジ (アマダイダイ)  
+sulfu - 硫黄  
+supa - スープ (汁)  
+supa camaca - さじ (テーブルスプーン)  
+supra - 上  
+supra vakil ja - 上院議員  
+suta - 術  
 
 ## T  
 
-tablete konputer - タブレットコンピュータ  
-table konputer - タブレットコンピュータ  
+ta - さ (み, 性)  
+tabi - 性質 (性)  
+table komputa - タブレットコンピュータ  
 tail - タイル (瓦)  
-talium - タリウム  
-taltexe - 絨毯 (カーペット)  
-Talban - タリバン  
-tan - 茎 (胴)  
-tantalium - タンタル  
-tas - 皿  
-tato - 入れ墨 (文身)  
-tatu - アルマジロ  
-tehne - 技術  
-tehnium - テクネチウム  
-telefon - 電話  
-telefone - 電話する  
-teleloke - 瞬間移動  
+tala - 錠  
+tali yum - タリウム  
+tana - 茎 (胴)  
+tantal yum - タンタル  
+tasa - 皿  
+tehni - 技術  
+tehni yum - テクネチウム  
+tela - 布  
+tela gi - 織機  
+tele fon gi - 電話  
 teleskope - 望遠鏡 (テレスコープ)  
-teledipe - 深い  
-• teledipia - 浅い  
-telurium - テルル  
-temnam - 題名 (書名, タイトル)  
-ten - 空  
-tenhal - 天気  
-tenkenar - 地平線 (水平線, 天際)  
-tennile - 空色  
-intener - コンテナ  
+telu yum - テルル  
+tema nam - 題名 (書名, タイトル)  
+tene - 持つ (有する, 飼う, ある, いる)  
 • kontener - コンテナ  
-tenesium - テネシン  
-terbium - テルビウム  
-terce - 斜め  
-texe - 布  
-texomaxin - 織機  
-teze - 論題  (テーゼ)  
-• tibaje - 薬 (医薬品)  
-• tiber - 医者  
-tibesui - ポーション (水薬)  
+tenebil - とっつきやすい (アクセス可能)  
+tene fasilta - アクセシビリティ  
+tenesi yum - テネシン  
+terbi yum - テルビウム  
+terca - 斜め  
+tikete - 札  
 tipe - 種類  
-tire - 撃つ  
-tiregana - レバー (てこ)  
-tirelonge - 伸びる (張る)  
-tireriu - 離岸流  
-titanium - チタン  
-tix - しーっ  
-• tixe - 静かな (無音)  
-• tixia - 静けさ (静寂, 黙秘)  
+tire dara - 離岸流  
+tire kane - レバー (てこ)  
+tire yo pil - はがす (剥ぐ)  
+tisa - 九 (9)  
+titan yum - チタン  
 Tokyo - 東京  
-• tomografia - トモグラフィー  
-• jivotome - 生体解剖  
-• tritome - 三分法  
-topografe - 地勢  
-• topografia - 地勢  
-tore - 塔  
-torium - トリウム  
-toxe - 毒  
-tragodia - 悲劇  
-• trater - トラクター  
+• jivatomi - 生体解剖  
+• tritomi - 三分法  
+• tomigrafia - トモグラフィー  
+topo grafi - 地勢  
+tor yum - トリウム  
+toxi - 毒  
+transe longta - 直径  
+• antranse vide di - 不透明  
+transe vide di - 透明  
+trata gi - トラクター  
+trati - 合意  
+tre - とても  
 tren - 電車 (列車)  
-trete - 合意  
 tri - 三 (3)  
-tripike - 三つまた (トライデント)  
-trompe - 喇叭  
-trompete - ランペット  
+tri pike - 三つまた (トライデント)  
 truke - 悪戯 (詐欺)  
-truke - 騙す  
 tu - あなた  
-tu su - あなたの  
 tumen - あなたたち  
-tulium - ツリウム  
+tu su - あなたの  
+tule yum - ツリウム  
 tuna - 鮪 (ツナ)  
-tunge - 痛み  
-turbe - 悩む (わざわざする)  
-• turbin - タービン  
-turbejeter - ターボジェットエンジン  
-turfe - 泥炭  
-tuze - うさぎ  
+turbe posta - 迷惑メール  
+tuta - 桑  
+tuzi - うさぎ  
 
 ## U  
 
-ude - 度  
-umame - 旨味  
+umami - 旨味  
 un - 一 (1)  
-• unike - 唯一の  
-• unike - だけ  
-uranium - ウラン  
-• uzebil - 使用可能  
+un di - だけ (唯一の)  
+un sata - 一躍  
+unta - 団結 (統一)  
+un ta liga - 連合 (接合)  
+un zai di - 一人の (寂しい, ポツリ)  
+uran yum - ウラン  
+uzebil di - 使用可能  
+
+## V  
+
 va - わあ  
-vade - 谷  
-vadosusan - キミカゲソウ (スズラン)  
 vaf - 犬 (狗)  
 vafle - ワッフル  
-vagine - 膣 (ワギナ)  
-vale - 価値  
+vagina - 膣 (ワギナ)  
+vai - 外  
+vai dara - 溢れる (越流する)  
+vai jen - 部外者 (アウトサイダー)  
+vai planete - 系外惑星  
+vai verse di - 外向的な  
+vali - 谷  
+vali susan - キミカゲソウ (スズラン)  
 valse - ワルツ (円舞曲)  
+valu - 価値  
 vampir - 吸血鬼  
-vampirbalsenter - コウモリダコ  
-van: - 森 (森林)  
-vanadium - バナジウム  
-vare - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
-varkalge - コンブ  
-varkelate - ページ (面)  
-vate - 物 (品)  
-vei - 尾 (尾翼)  
-veilin - 横糸  
+vampir ohtopus - コウモリダコ  
+vanadi yum - バナジウム  
+vanu - 楽しみ (娯楽)  
+vanu di - 楽しい  
+vanu gi - おもちゃ  
+vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
+varis - 米 (ご飯)  
+vei darja - 緯度  
+vei lin - 横糸  
 vende - 売る  
-vendexope - 売買する (交易, 売買)  
-Venzou oranje - ウンシュウミカン  
-• verife - ただす  
-verme - 蠕虫  
-• exverse - 外向的な  
-• extroverse - 外向的な  
-• introverse - 内向的な人  
-• reverse - 逆らう  
-veruke - 疣  
-vespe - 蜂  
-vespenide - 蜂の巣  
-veste - 西  
-vestegorila - ニシゴリラ  
-videpunte - 遠近法 (見通し, 観点)  
-• vider - 見物人  
-• dusvide - 見苦しい  
-• provide - 待ち受ける (見込む)  
-• antravidebil - 不透明  
+vende xope - 交易 (売買)  
+venjou oranje - ウンシュウミカン  
+veranda - ベランダ (バルコニー, 縁側)  
+verde - 緑 (緑色)  
+verde melon - ハネデューメロン  
+• exversi - 外向的な  
+• extraversi - 外向的な  
+• intraversi - 内向的な人  
+• reversi - 逆らう  
+veste gorila - ニシゴリラ  
+vide ja - 見物人  
+vide punte - 遠近法 (見通し, 観点)  
 vidou - 寡婦  
-• vilaje - 村  
-• vineria - ワイナリー (酒造場)  
-viole - 小提琴 (バイオリン)  
-• daiviole - チェロ (ヴィオロンチェロ)  
-violete - 紫色 (パープル)  
-visematre - 継母  
-visepatre - 継父  
+vinkan - ワイナリー (酒造場)  
+violeta - スミレ  
+violeta nil - 紫色 (パープル)  
+vise - 代替  
+vise kitabu - 重ね書き (書き換える)  
+vise ma - 継母  
+vise pa - 継父  
 vitamin - ビタミン  
 Vixnu - ヴィシュヌ  
 vode - 約束  
 vol - 欲しい  
-vol sabe - 訝る (-かしら)  
 volfram - タングステン  
-vulve - 陰門  
+vulva - 陰門  
+vutu - 物 (品)  
 
 ## X  
 
-xam: - 夕べ  
-xamyam - 夕食  
+xalke - うろこ  
+xam - 夕べ  
+xam yam - 夕食  
 xaman - シャーマン  
 xampan - 香槟  
-xara - のこぎり  
-xarafun - 木屑  
 xarke - サメ  
-xatan - 敵 (相手)  
-xatan (ruhoxatan) - 悪魔  
+xatan ja - 悪魔  
+xau - 少ない  
+xava - 雨  
+xava mosim - 雨季  
 xe - 事 (物)  
-xehal - 事態  
+xe hal - 事態  
 xenon - キセノン  
 xi - さん (氏)  
-xibai - 失敗 (負け)  
-xibai - 負ける  
-• dexibai - 失う (無くす, 落とす)  
+xia islam din - シーア派  
+xifu - 先生  
+xikaya - 不平 (不満)  
 xim - 心  
-xipe - 湿っぽい (濡らす)  
-xipostan - 湿地  
+xipi - 湿っぽい  
 xir - 詩  
-• xiria - 詩歌  
 xite - 糞 (屎)  
+xiti - 失う (無くす, 落とす)  
+xiti bai - 失敗  
 xiu - 小さい  
-xivite - 小石  
-xiukaboge - ズッキーニ  
-Xiva - シヴァ  
-xixe - 刺す  
-xope - 買う  
-xou - 見せる (示す, デモる)  
-xukre - ありがとう (どうも)  
-xule - 学ぶ  
-• xulize - 教える  
-• xulizer - 先生 (教師)  
-• xulekan - 学校  
-• xuler - 学生  
-xuloxefe - 校長  
-xure - 開始  
+xiu kaboga - ズッキーニ  
+xiu seku - 小石  
+xiu zi - 小文字  
+xiva - シヴァ  
+xukur - ありがとう (どうも)  
+xula - 教育  
+xula guru - 先生 (教師)  
+xula ja - 学生  
+xulakan - 学校  
+xula xefe - 校長  
+xuli - 修理  
+xuli ja - 修理工  
+xuru - 開始  
+xux - しーっ  
 
-##   
+## Y  
 
-yahve - ヤハウェ (エホバ)  
+ya - はい  
+Yahve - ヤハウェ (エホバ)  
 yam - 食べる  
-• yamaje - 食べ物 (食事)  
-• yamyam di - 美味しい  
-yamyau - 飢え  
+yam liste - メニュー (献立)  
+yam xe - 食べ物 (食事)  
+yam yau - 飢え  
 yang - タイプ  
-yau - 必要  
-• beyau - 必要  
-• anbeyau - 不要  
-ye - はい  
-yege - 狩り (狩猟)  
+yasen - 秦皮  
+yau - 要る  
+• anyau di - 不要  
+yau di - 必要  
+yauta - 必要  
+yeka kanon - 易経  
+yen - 目  
+yen sui gas - 催涙ガス  
+yepa - 葉  
+yepa alga - コンブ  
+yepa late - ページ (面)  
+Yesa Mesi - イエス・キリスト  
 yo - 何分の  
-yodium - ヨウ素  
-• yogaiste - ヨギ  
+yogo - 軛  
 yogur - ヨーグルト  
-yom - 昼  
-yomyam - 昼食  
 youjen - 幼童  
 youmoke - 若木  
 younan - 男の子  
 younen - 幼年時代  
 youni - 女の子  
-yterbium - イッテルビウム  
-ytrium - イットリウム  
-yuge - 軛  
+yung - 溶ける  
+yung petra - 溶岩  
+yuter yum - イットリウム  
+yuterbi yum - イッテルビウム  
 
 ## Z  
 
 zai - ある (いる)  
+zai den - 今日  
 zai zaman - 今 (現在)  
-zai zaman su - 現行  
-zaitunlipe - オリーブ油  
-zalime reger - 暴君  
-zaman - 時代 (年代)  
-zarkube - 賽子  
+zai zaman di - 現行  
+zalim raja - 暴君  
+zaman - 時間  
+zar kube - 賽子  
+zeyil - 疣  
 zeze - ハエ目 (双翅目)  
+zi - 字  
+zi forma - フォント (字体)  
 zinke - 亜鉛  
-zira - クミン  
-zirkonium - ジルコニウム  
-zoe - 動物  
-• zoolojia - 動物学  
-• zoolojike - 動物学の  
-zoagria - 畜産  
-zooparke - 動物園  
-zoosikle - 黄道帯  
-zootiber - 獣医  
-zongminte - スペアミント  
-zuke - 民族  
-zukam - 風邪 (感冒)  
-zung - 中心  
-Zungogia - 中国  
+zirkon yum - ジルコニウム  
+zoku - まだ  
+zoku di - アナログ  
+zuku - 民族  
+zuku di - 民族の  

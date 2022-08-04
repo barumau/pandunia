@@ -3,1553 +3,1604 @@
 ## A  
 
 a - 在  
-a line - 在线  
-a long dure - 久  
-a misal - 比如  
+a go - 那里 (那儿)  
 a kon - 共同 (一起)  
-abete - 冷杉  
+a lin - 在线  
+a ni - 这里 (这儿)  
+a poli mar - 经常  
+abies - 冷杉  
 acar - 腌菜  
 aci - 打喷嚏 (阿嚏)  
-acinium - 锕  
-ade - 习惯 (风俗)  
-adal - 公正地  
-adalia - 正义  
+acini yum - 锕  
+ada - 习惯 (风俗)  
 adamas - 钻石  
+adil - 公正地  
+adilta - 正义  
 adres - 地址  
-Afgania - 阿富汗  
+Afghan - 阿富汗  
 agile - 灵活的  
-agrebiolojia - 土壤生物学  
-agrenomia - 农学  
-agrevilaje - 农村  
-ainstainium - 锿  
+agresi - 攻击  
+agresi ja - 侵略者  
+agribiologi - 土壤生物学  
+agricun - 农村  
+agrinomi - 农学  
 air - 空气  
-anairobike - 厌氧的  
-airorde - 空军  
-airoporta - 飞机场  
-ais - 冰 (结冰)  
-aishoke - 冰球  
-aiskrem - 冰淇淋  
+• anair bio di - 厌氧的  
+air gun - 空军  
+air porte - 飞机场  
+ais - 冰  
+ais hoki - 冰球  
+ais krem - 冰淇淋  
 akare - 蜱 (螨)  
 akrabe - 蝎子 (天蝎座)  
-ale - 另一 (改變)  
-aloraye - 不同意  
 alga - 藻类  
-algafung - 地衣  
-algajangle - 海藻林  
+alga fungu - 地衣  
+alga jangal - 海藻林  
+alkasus - 甘草 (国老)  
 alkol - 酒  
-• alkoliste - 酒鬼  
 almari - 碗碟橱  
+alo - 另一  
+alofa - 改變  
+alo fen di - 分开的  
 alpaka - 无峰驼  
-aluminium - 铝  
-ame - 愛  
-• amater - 爱好者  
-• amer - 恋人 (情人, 爱人)  
-ame letre - 情书  
+alumin - 铝  
 ama - 但是 (不过)  
-amerikium - 镅  
+ama - 爱  
+ama di - 亲爱的  
+ama ja - 恋人 (情人, 爱人)  
+amen - 诚实  
+amenbil - 忠实  
+amen xin - 信赖  
+amerika yum - 镅  
 ancovi - 凤尾鱼  
 andesite - 安山岩  
 angar - 锚  
-angil - 信息  
-• evangil - 福音  
 angul - 手指  
-angulmarke - 指纹 (指印)  
-angulpike - 指尖  
+angul marke - 指纹 (指印)  
+angul pike - 指尖  
 anime - 活跃  
 anis - 茴芹  
-anis arake - 阿剌吉  
-anten - 天线  
+anis araki - 阿剌吉  
+anjil - 信息  
+antena - 天线  
+antra - 肠子  
 anus - 肛门  
 aple - 苹果  
-aplike - 运用  
 aposum - 负鼠 (奥珀瑟姆)  
-ar - 面积  
-arabebabul - 阿拉伯金合欢  
-arake - 烈酒  
+arabi babul - 阿拉伯金合欢  
+araki - 烈酒  
 arane - 蜘蛛  
-arbuze - 西瓜  
+arane nete - 蜘蛛网  
+arbuza - 西瓜  
 argente - 银  
 argon - 氩  
-arke - 弓 (琴弓, 拱)  
-arkocate - 拱顶  
-arme - 武器  
-aromu - 发臭  
-aromemelon - 香瓜  
-arsene - 砷  
-arte - 美术  
-• artiste - 美术家  
+arka - 弓 (琴弓, 拱)  
+arka cati - 拱顶  
+armi - 武器  
+aroma - 气味  
+aroma melon - 香瓜  
+arsen yum - 砷  
 artefete intelige (AI) - 人工智能  
+asal - 起源  
+asal di - 原始的  
 asar - 影响  
-asle - 起源 (原始)  
 asma - 气喘  
 asparge - 芦笋  
-aspirin - 阿司匹林  
-astatium - 砹  
-astre - 天体  
-• astronaver - 宇航员  
-astronomia - 天文学  
-• astronomer - 天文学家  
-ate - 作为 (行为)  
-• ation - 行动  
-• ative - 活性  
-• ature - 作品  
-• reate - 反应  
+astatin - 砹  
+astro - 天体  
+astro nave ja - 宇航员  
+astro nomi - 天文学  
+astro nomi ja - 天文学家  
+ati - 作为 (行为)  
+Athina - 雅典  
+• reati - 反应  
 • reation - 反应  
-Atina - 雅典  
-atlante bakalau - 大西洋鱈  
-atlante salmon - 大西洋鮭  
+• ation - 行动  
+• ativi - 活性  
+atlanti bakalau - 大西洋鱈  
+atlanti salmon - 大西洋鮭  
+auro - 金  
+Austronesi - 南岛  
+auto loga - 独白  
 ave - 燕麦  
-aure - 金  
-Austronesia - 南岛  
-autologe - 独白  
-automatike - 自动的  
-autoreje - 独立  
+axa hin - 没有希望的  
 axe - 轴线  
+ayo - 哎哟  
 
 ## B  
 
-ba - 吧  
 babu - 章  
-bace - 小孩  
-bade - 身体  
+baca - 小孩  
 badam - 杏仁 (巴旦木)  
-bage - 包  
-• bagaje - 行李  
+badan - 身体  
+baga - 包  
+bagaje - 行李  
 bagre - 虎  
-bagroselote - 小斑虎貓  
+bagre oselote - 小斑虎貓  
 bah - 呸  
+bai - 击败  
+baka poto - 陶瓦  
 bakalau - 鱈  
 baku - 白  
-bakucoi - 白菜 (小白菜)  
-bakumargarite - 法蘭西菊  
-bakusalmon - 大麻哈鱼 (狗鮭)  
-• balekan - 体育馆  
-• anbale - 虚弱 (易坏)  
-baloton - 重音符号  
-balde - 水桶  
-balute - 橡树 (xiàng)  
+baku coi - 白菜 (小白菜)  
+baku margarite - 法蘭西菊  
+baku salmon - 大麻哈鱼 (狗鮭)  
+baku varis - 白米  
+• anbala - 虚弱 (易坏)  
+balakan - 体育馆  
+balata - 力  
+balaton - 重音符号  
+baluta - 橡树  
 bambu - 竹子  
 bamia - 秋葵  
-ban - 板子  
-bangem - 版图游戏  
-bana - 箭  
-banan - 香蕉  
-bande - 班  (一帮)  
-bandir - 旗  
-banyakamar - 浴室  
-• bankekan - 银行  
-bankerutia - 破产  
-banya - 洗澡 (游泳)  
-barium - 钡  
-barkoke - 杏子  
+banana - 香蕉  
+banda - 班  (一帮)  
+bandera - 旗  
+bankakan - 银行  
+bano - 板子  
+bano gem - 版图游戏  
+banya - 洗澡  
+banya kamar - 浴室  
+bari yum - 钡  
 baru - 熊  
-barxe - 雨  
-barxecate - 伞  
-barxekote - 雨衣  
-barxemosim - 雨季  
 bas - 够  
-baskebol - 篮球  
-bate - 八 (8)  
-batosenter - 章鱼  
+baske bol - 篮球  
 bata - 鸭  
-batre - 电池  
-bau - 宝 (宝贵)  
-bavite - 宝石  
-baxe - 语言  
-• trabaxe - 翻译  
-baxelojia - 语言学  
-baze - 底部  
-bazebol - 棒球  
+bati - 八 (8)  
+batri - 电池  
+bau di - 宝贵  
+bau seku - 宝石  
+baxa - 语言  
+• trabaxa - 翻译  
+baxa jinse - 文法的性  
+baxalogi - 语言学  
 bazestrute - 基础设施  
-bazexulekan - 小学  
 bazar - 市场  
-bebe - 宝宝  
-bekefange - 陶瓦  
-• rebelion - 叛乱  
-• rebeler - 反叛者 (起义者)  
-belce - 铲  
-beranda - 阳台  
+baze - 底部  
+baze bol - 棒球  
+baze xulakan - 小学  
+be ais - 结冰  
+be biomute - 发酵  
+be boi - 漂浮  
+be fatige - 疲劳  
+be fobi - 害怕  
+be hogo - 烧  
+be jaga - 睡醒  
+be kino - 动  
+be kux - 躺  
+be mal - 属于  
+be pute - 腐烂  
+be retro - 返回 (回来)  
+be sona - 睡觉 (困觉)  
+be vanu - 玩耍  
+bebe - 宝宝 (娃娃)  
+bebe bede - 娃娃床  
+bede - 床  
+behe - 山羊  
+bele - 铲  
 beri - 浆果 (莓)  
-berilium - 铍  
-berkelium - 锫  
+beril yum - 铍  
+berkli yum - 锫  
 bete - 甜菜頭  
 betula - 桦树  
-bie - 生物  
-bioginse - 生物性別  
-biokimia - 生物化学  
-biolojia - 生物学  
-biomute - 发酵  
-biosistem - 生物群系  
-biotoxe - 毒素  
 bibre - 海狸 (河狸)  
+bici - 鞭子  
 bil - 会 (可能)  
-bine - 建设  
-binite - 砖  
-bineplania - 建筑学  
-bineplaner - 建筑师  
+bil ja - 熟练  
+bil si - 也许 (或是, 可能)  
+bina - 建筑  
+bina plan - 建筑学  
+bina plan ja - 建筑师  
+biojinse - 生物性別  
+biologi - 生物学  
+biosistem - 生物群系  
+biotoxi - 毒素  
+bioxe - 生物  
 bir - 啤酒  
+biskute - 饼干 (曲奇饼)  
 bismute - 铋  
 bison - 野牛  
-bokacate - 上颚 (口盖)  
-bokse - 拳击  
-bokser - 拳击手  
-bokserpante - 平角褲  
+boce - 拳击  
+bocepante - 平角褲  
+bocer - 拳击手  
+bokacati - 上颚 (口盖)  
 bol - 球  
-bombe - 炸弹  
+boli varis - 饭 (米饭)  
+bomba - 炸弹  
 bon - 好  
-konbone - 相配  
-• ribone - 修理  
-• riboner - 修理工人  
+bon moral - 道德  
+bon sin di - 吉利的  
+bon vide di - 好看  
 boron - 硼  
 botel - 瓶  
-bromium - 溴  
-broxkalam - 毛笔  
-brun - 棕色 (咖啡色)  
-brunsalmon - 褐鳟  
+Brahma - 梵天  
+briko - 杏子 (李子)  
+brom - 溴  
+broxa - 笔  
+broxa kalam - 毛笔  
+brun varis - 糙米  
 bubu - 魔鬼  
-• bucekan - 屠宰场  
-• bucer - 屠夫  
+buca ja - 屠夫  
+bucakan - 屠宰场  
 Buda - 佛陀  
 bufete - 自助餐  
-buke - 书  
+buku - 书  
+bulbul - 夜莺  
 bum - 爆炸  
-• burokratia - 官僚制  
+burge - 要塞  
+buro ja - 秘书  
+buro krati - 官僚制  
 bus halte - 汽车站  
 buton - 扣子  
-buzi - 山羊  
 
 ## C  
 
+gata a caku - 切  
 cai - 茶  
+cai camaca - 茶匙  
 caikan - 茶馆  
-caikupe - 茶碗  
-caipote - 茶壶  
-cakre - 轮子  
-caku - 刀  
-cakukate - 切  
+cai kupa - 茶碗  
+cai pote - 茶壶  
+cakra - 轮子  
 camaca - 匙子  
-koncanisme - 共产主义  
-cang - 层 (楼层)  
-cantergrupe - 合唱团  
-catre - 四 (4)  
-caukitabe - 草书  
+cana - 刹那  
+cati - 屋顶 (房顶)  
+cavi - 钥匙 (锁匙)  
+ceke - 检查  
 ceke - 支票  
-celolojia - 细胞学  
-cengjen - 成人 (成年人)  
-cengnan - 男人  
-cengni - 女人  
-ceresium - 铈  
+cen - 以前  
+cen den - 昨日  
+cen zaman di - 古老 (以前)  
+ceng - 层  
+ceng bede - 双层床  
+ceres yum - 铈  
 • sucese - 成功  
-cesium - 铯  
-cete - 七 (7)  
-cetoden - 週  
+cesi yum - 铯  
+ceti - 七 (7)  
+cetiden - 週  
 cili - 菜椒  
-cilifun - 辣椒粉  
-cina - 汉族  
-cinacosen - 中韩的  
-cinanipon - 中日的 (汉日的)  
-cinaviete - 汉越  
+cili fun - 辣椒粉  
 cing - 请  
-cire - 撕裂  
-circire - 撕毁  
+cini - 瓷器  
+cira - 撕裂  
+cira cira - 撕毁  
+cira cira di - 褴褛的  
 cita - 猎豹  
+cize - 酪 (起司)  
 coklate - 巧克力  
-coklategana - 巧克力棒  
-Congking - 重庆  
-cope - 锄头  
-cuke - 接触  
-• cuzebil - 选择 (买卖权)  
+coklatekane - 巧克力棒  
+congcing - 重庆  
+copu - 锄头  
+culi - 处理  
+cun - 村  
+cuze xe - 选择 (买卖权)  
 
 ## D  
 
-daidom - 殿 (宫殿, 宅第)  
-daihai - 大洋 (大海)  
-dayite - 磐石  
-daipau - 大炮  
-daipote - 炼药锅  
-dam - 暗 (黑暗)  
-dane - 丹麦的  
-dane - 种  
-• danike - 种子的  
-dangrane - 种子  
-dang - 钟 (摇铃)  
-dantebalute - 槲树  
-dartube - 漏斗  
-dargemute - 发展 (开发)  
-date - 数据  
-datebanke - 数据库  
-dateprocese - 数据处理  
-dateproceselojia - 计算机科学  
-datetable - 表格  
+daxeceke - 礼物卡  
+dai dom - 殿 (宫殿, 宅第)  
+dai hai - 大洋 (大海)  
+dai pau - 大炮  
+dai pote - 炼药锅  
+dai seku - 磐石  
+dama gem - 跳棋  
+dan - 等 (段)  
+dang gi - 钟 (摇铃)  
+Danske - 丹麦的  
+dante baluta - 槲树  
+dara tubo - 漏斗  
+darja mute - 发展 (开发)  
+data - 数据  
+data banke - 数据库  
+data culi - 数据处理  
+data culilogi - 计算机科学  
+data table - 表格  
+dava sui - 药水  
+dava xe - 药物  
+dava xekan - 药店  
+dava xelogi - 药理学  
 de - 从  
-defekaske - 盔甲  
-defeban - 盾牌  
-dege - 得 (获得)  
-• sudeke - 道德  
+defa bano - 盾牌  
+defa kaska - 盔甲  
 dele - 迟延  
-den - 日  
+den - 日 (天)  
 den un - 星期一 (禮拜一)  
 den du - 星期二 (禮拜二)  
 den tri - 星期三 (禮拜三)  
-den catre - 星期四 (禮拜四)  
-den pente - 星期五 (禮拜五)  
-den sixe - 星期六 (礼拜六)  
-den cete - 星期日 (禮拜日)  
+den nelu - 星期四 (禮拜四)  
+den lima - 星期五 (禮拜五)  
+den luka - 星期六 (礼拜六)  
+den ceti - 星期日 (禮拜日)  
+den loge - 日记  
+des - 十  
 deu - 神  
-deunagre - 天城文  
-dike - 方向 (目的, 目标, 瞄准)  
-dikegana - 教鞭  
+deu kata - 神话  
+deu nagar zi - 天城文  
+dexa jen - 公民  
+dia - 白天  
+dika - 方向 (目的, 目标, 瞄准)  
 din - 宗教  
-• diniste - 信徒  
-• andiniste - 不信神的  
+din ja - 信徒  
+• andin ja - 不信神的  
+din xia - 教派  
 dinamite - 甘油炸药  
 dinde - 火鸡  
-ding - 钉子  
+dingi - 钉子  
+dino saur - 恐龙  
 diorite - 闪长岩  
 dipe - 低  
-dipemoke - 灌木  
+dipe moka - 灌木  
 diske - 圆盘  
-disprosium - 镝  
-• ditater - 独裁者  
-• ditateria - 独裁  
-• dition - 吐字  
-• dokaje - 学说  
-dokum - 文件  
-dokumfilme - 纪录片  
+disprosi yum - 镝  
+do - 到  
+do misal - 比如  
+dobe - 砖  
+dokumen - 文件  
+dokumen filme - 纪录片  
 dolfin - 海豚  
 dom - 家 (房子)  
-• donaje - 礼物  
-donajoceke - 礼物卡  
+dom dexa - 祖国  
 dong - 东  
+dosil - 驯服的  
+dosti - 朋友 (友人)  
 du - 二 (2)  
 dua - 祈祷  
 • dusdua - 诅咒  
-duge - 读 (看)  
+dudu - 昆虫  
+duku - 读 (看)  
 dunia - 世界  
 dur - 时间  
-• duro - 还 (依然)  
-• durebil - 耐用的  
-• undure - 指针式的  
-duremetrer - 秒表  
+durbil - 耐用的  
+dur metre gi - 秒表  
 dus - 难  
-duxe - 淋浴  
+dus jen - 敌人  
+dus sin di - 不祥的  
+dus vide - 难看  
+dux - 淋浴  
 
 ## E  
 
 e - 对  
+einstein yum - 锿  
 ekore - 松鼠  
-• eletrolojia - 电子学  
-eletrorade - 闪电  
+eletro lin - 电缆 (电线)  
+eletro radi - 闪电  
 elfe - 精灵  
-emotohal - 心情  
-emotikon - 绘文字  
-englomargarite - 雛菊  
-erbium - 铒  
-europebalute - 夏櫟  
-europium - 铕  
-exe - 外  
-exojen - 外人 (局外人)  
+englix margarita - 雛菊  
+erbi yum - 铒  
+eskandi yum - 钪  
+esponje - 海绵  
+estan - 锡  
+estibi yum - 锑  
+estronti yum - 锶  
+eu anjil - 福音  
+europa baluta - 夏櫟  
+europa yum - 铕  
 
 ## F  
 
-faide - 效用 (好处)  
+fa - 作  
+fa alo rai - 不同意  
+fa aplika - 运用  
+fa aroma - 闻到  
+fa aroma - 发臭  
+fa banya - 游泳  
+fa bina - 建设  
+fa culi - 处理 (对待)  
+fa dante - 咬  
+fa dika - 瞄准  
+fa ding - 决定  
+fa dosil - 驯养  
+fa dus forma - 变丑  
+fa fei - 飞  
+fa fen gata - 分析  
+fa fobi - 吓唬  
+fa for - 除去  
+fa fuku - 穿  
+fa gong - 工作  
+fa hisabu - 计算  
+fa hogo - 燃烧  
+fa in klus - 包括  
+fa kino - 动  
+fa lai - 带来  
+fa lanse grafi - 投射  
+fa linke - 连接  
+fa loga - 说话 (讲)  
+fa loka - 放置  
+fa mede - 帮助  
+fa memo - 记得 (回忆)  
+fa migra - 搬家  
+fa miti - 聚会  
+fa najis - 污染  
+fa nomi - 组织  
+fa pede - 放屁  
+fa ratibu - 整理  
+fa re - 重复  
+fa safa va tela - 擦  
+fa saide - 打猎  
+fa sing foto - 闪烁  
+fa sir - 隐藏  
+fa siro - 删除 (消除)  
+fa sual - 问  
+fa tele fon - 打电话  
+fa truke - 耍花招  
+fa vode - 许诺  
+fa xipi - 弄湿  
+fa xiti bai - 输  
+fa xofer - 开车  
+fa xopi - 买  
+fa xula - 学习  
+fa xuli - 修理  
+fa xuru - 开始  
+faida - 效用 (好处)  
 fan - 粉丝 (fensi)  
-fange - 坭  
-fangedefoban - 挡泥板  
-fangestan - 沼泽  
 fase - 面  
-fasilia da acese - 無障礙環境  
-fatige - 疲劳  
-• faxisme - فَاشِيَّة‎  
-fe - 作  
-fei - 飞  
-feke - 粪  
-feni - 数字的  
-fenkate - 分析  
-• fentor - 鼓风机 (电风扇)  
-fer - 铁  
-fermium - 镄  
+fase area - 面积  
+fase tele - 深  
+fate - 事实  
+fatu - 惩罚  
+fatura - 帐单  
+fei gi tikete - 飞机票  
+fen - 部分  
+fen gata - 分析  
+fermi yum - 镄  
+fero - 铁  
 fete - 事实  
-• infetion - 传染  
+• infete - 传染  
 • rifete - 重复  
-• profile - 比较喜欢  
 filme - 膜  
-• filsofia - 哲学  
+filsofi - 哲学  
+fin - 了  
+fine - 窄 (薄, 稀疏)  
 fiorde - 峡湾  
 firuze - 绿松石  
-fite - 植物  
-fiteyamiste - 素食主义者  
-fitelojia - 植物学  
-flurium - 氟  
-fobe - 害怕 (吓唬)  
-fontekalam - 钢笔  
-fore - 钻孔  
-forme - 形状 (形式)  
-• dusforme - 变丑  
-fote - 光  
-fotofrike - 擦亮  
-fotografe -  照片 (相片)  
-fotokable - 光线  
-fototore - 信号  
-fransium - 钫  
-frasen - 白蜡树  
+fito - 植物  
+fitologi - 植物学  
+fito yam sim ja - 素食主义者  
+fizika gi - 硬件  
+flece - 箭  
+flur - 氟  
+fong - 蜂  
+fonte kalam - 钢笔  
+fora - 钻孔  
+• dusforma - 变丑  
+foto - 光  
+foto frike - 擦亮  
+foto grafi -  照片 (相片)  
+foto lin - 光线  
+foto minar - 信号  
+foto mira di - 光泽  
+foto so - 光子  
+france yum - 钫  
 frem - 框  
 frike - 擦伤  
-fuke - 衣服  
-• be fuke - 穿  
-• funcebil - 機能的  
-fungepal - 蘑菇  
-futemarke - 脚印  
-futau - 斧头  
-fuze - 融化  
-• exfuze - 熔炼  
-fuzepetre - 熔岩  
+frute - 果  
+frute bagi - 果园  
+fufu - 富富  
+fuku - 衣服  
+fuku vaxi gi - 洗衣机  
+fungu frute - 蘑菇  
+funsibil - 機能的  
+fute marke - 脚印  
 
 ## G  
 
 ga - 去  
-gabre - 坟墓 (埋葬)  
-gabrite - 墓石 (墓碑)  
-gabrostan - 公墓 (墓地)  
-gadogude - 骡  
-gadolinium - 钆  
-gaja dante - 象牙  
-gale - 咽喉  
+gabur - 坟墓 (埋葬)  
+gabur bagi - 公墓 (墓地)  
+gabur seku - 墓石 (墓碑)  
+gadolin yum - 钆  
+gala - 咽喉  
+galaxi - 恆星系  
+gali yum - 镓  
 Galia - 高卢  
-galium - 镓  
-galaxia - 恆星系  
 galte - 错误  
-gancau - 干草  
-ganafite - 秆  
-ganakalam - 蘆葦筆  
-ganakase - 笼  
-gande - 气味  
-gande - 闻到  
+gamba - 虾  
+gamo hal - 心情  
+gamo zi - 绘文字  
+gan gazo - 干草  
+gana - 秆  
+gana kalam - 蘆葦筆  
+gani - 歌  
+ganir - 歌手  
+ganirgrupe - 合唱团  
 ganse - 雁 (鹅)  
 ganum - 麦  
 gar - 如果 (要是)  
-garmemosim - 夏季  
-garmezone - 热带  
-garmezone caustan - 稀树草原  
-gate - 硬  
-gatemate - 固体  
-gautehnia - 高科技 (高技术)  
-geoforme - 地势  
-geografia - 地理  
-geometria - 几何学  
-geopolitike - 地缘政治  
-geoterme - 地热的  
-gele - 啫哩  
-• genolojia - 系谱学  
-• ingene - 内生的  
-genobase - 母语  
-genoloke - 出生地  
-genotipe - 基因型  
-• gerile - 游击  
-• geriler - 游击队员  
-• gerer - 战士 (武士)  
-• antigere - 反战  
-• posgere - 战后的  
-germanium - 锗  
-gestobaxe - 手语  
-gide - 导游  
-• gider - 导游  
-gidobuke - 指南  
-gingoline - 經紗  
+garma mosim - 夏季  
+garma zona - 热带  
+garma zona gazo stan - 稀树草原  
+gata a dante - 咬  
+gata glu bano - 剪贴板  
+gati - 硬  
+gati mate - 固体  
+gau tehni - 高科技 (高技术)  
+gazo medan - 草地  
+gene baxa - 母语  
+gene di - 生的  
+genelogi - 系谱学  
+gene loka - 出生地  
+gene tipe - 基因型  
+geo forme - 地势  
+geo grafi - 地理  
+geo metre - 几何学  
+geo politi - 地缘政治  
+geo termo - 地热的  
+german yum - 锗  
+gida - 导游  
+gida buku - 指南  
+gida ja - 导游  
+ging lin - 經紗  
+gingam - 金柑  
+gio - 教学  
 gitar - 吉他  
-giuke - 玉  
-glas - 玻璃  
-• glasize - 釉  
-glasokupe - 杯子  
-glise - 滑下  
-glute - 黏的  
-glutobende - 创可贴 (邦迪)  
-glutofan - 黏土  
-glutograf - 贴纸  
-gogia - 国家  
-• gogian - 公民  
+giuka - 玉  
+glis - 滑下  
+glu bande - 创可贴 (邦迪)  
+glu di - 黏的  
+glu grafi - 贴纸  
+glu poto - 黏土  
+go - 那  
 gol - 目的  
-• tragone - 对角  
+gola seku - 鹅卵石  
+gong - 工作  
+gong ja - 工人 (工作者)  
+gongkan - 工厂  
+gong mise - 提交  
 gorila - 大猩猩  
 goton - 棉  
-grafoprocese - 影像处理  
-grafosage - 漫画  
+grafi culi - 影像处理  
+grafi kata - 漫画  
 granite - 花岗石  
 grave - 砾石  
-• agrese - 攻击  
-• agreser - 侵略者  
-Guangzou - 广州  
-guimuke - 鬼脸  
-guipapil - 鬼罂粟 (東方罌粟)  
-guke - 菊花  
-gumle - 句子  
-gute - 膝  
+grimas - 鬼脸  
+guai - 奇怪  
+Guangjou - 广州  
+gubu - 河马  
+gui papi - 鬼罂粟 (東方罌粟)  
+guku hua - 菊花  
+gun - 军队  
+gun jen - 军人  
+gun raja - 大元帅  
+guta - 膝  
+guta kaska oste - 膝盖骨  
 
 ## H  
 
 ha - 有  
 habar - 消息  
 habar letre - 实事通讯  
-hafnium - 铪  
-hahe - 笑  
+habarmedia - 新闻媒体  
+Habaxa - 阿比西尼亚  
+hafen yum - 铪  
+haha - 笑  
 hai - 海  
-haialge - 海藻  
-haiamirer - 海军上将  
-haicau - 海草  
-haiful - 海葵  
-haigele - 海蜇  
-haihiyar - 海參  
-haiorde - 海军  
-haiporta - 海港  
-haisake - 海湾  
-haitate - 海岸  
-haima - 帐篷  
-hake - 权利  
+hai alga - 海藻  
+hai amir ja - 海军上将  
+hai gazo - 海草  
+hai gun - 海军  
+hai hiyar - 海參  
+hai hua - 海葵  
+hai jele - 海蜇  
+hai kinar - 海岸  
+hai porte - 海港  
+haki - 权利  
 hal - 状态  
+hali - 空的  
+hali zi - 空隙  
+halifa - 哈里发  
 halo - 哈啰 (哈喽)  
-ham - 重要  
-hamile - 怀孕  
+ham di - 重要  
+hamil - 怀孕  
+Han - 汉族  
+han guan ja - 官  
 hande - 手  
-handange - 胳膊  
-hape - 合适  
-• harfaje - 字母表  
+hande xaka - 胳膊  
+hapu - 合适  
 Hartum - 喀土穆  
-haste - 忙  
-• anhaste - 慢  
-hate - 直到  
-hato - 连  
-hatre - 危险  
-haxi - 筷子 (箸)  
-hei - 喂  
-helium - 氦  
+hata - 直到  
+hata di - 连  
+hatar - 危险  
+heli yum - 氦  
 helis - 螺旋  
-helisviman - 直升机  
-heme - 血  
-hemocel - 血球  
-hemoglobin - 血红蛋白  
+helis fei gi - 直升机  
+hem - 深思 (考虑)  
+hema - 帐篷  
+hemi - 血  
+anhemia - 贫血  
+hemiglobin - 血红蛋白  
+hemiselu - 血球  
 hepate - 肝脏  
-Hesia - 黑森  
-hidre - 氢  
+hero - 英雄 (勇士)  
+Hese - 黑森  
+hevan - 动物  
+hevan bagi - 动物园  
+hevanlogi - 动物学  
+hidrargente - 汞  
+hidro - 氢  
+hijabu - 面纱  
+Hindi dexa - 印度斯坦  
+hindi raja - 拉贾  
+Hindi rivo - 印度河  
+hindi yum - 铟  
+hisabu loge - 账户  
+hisabulogi - 数学  
 hiyar - 黄瓜  
-hijabe - 面纱  
-Hinde riu - 印度河  
-Hindia - 印度斯坦  
-hindium - 铟  
-hisabe - 计算  
-• hisabolojia - 数学  
-hoge - 火  
-hoge - 燃烧  
-hogu - 烧  
-hogoxan - 火山  
-hogite - 燧石  
-hogotehne - 烟火  
-hoke - 曲棍球  
-• holike - 全面的 (全方位的)  
-holmium - 钬  
+hobi ja - 爱好者  
+hogo - 火  
+hogo san - 火山  
+hogo seku - 燧石  
+hogo tehni - 烟火  
+hoki - 曲棍球  
+holme yum - 钬  
 hor - 小时  
-horloger - 钟  
+hor loga gi - 钟  
 hotel - 旅馆  
 hua - 花  
-huabing - 花瓶  
-huapote - 花盆  
-huidarte - 灰化土  
+hua jara - 花瓶  
+hua pote - 花盆  
+hui darte - 灰化土  
 huke - 钩  
-hukokrus - 卍 (卐)  
+huke krus - 卍 (卐)  
+huke lin kane - 钓鱼竿  
 huli - 狐狸  
-• human - 人类  
-• humanisme - 人文主义  
-human hake - 人权  
-hure - 自由的  
-• huria - 自由  
-hurargente - 汞  
-hura - 好哇  
+huru - 自由的  
+huruta - 自由  
 
 ## I  
 
 i - 和  
-ike - 的  
-in - 内  
-intraje - 肠子  
-iridium - 铱  
-• islamia - 回教 (伊斯蘭教)  
-• islamisme - 回教 (伊斯蘭教)  
+iha uma - 骡  
+in bum - 内爆  
+in migra - 移民 (移居)  
+in migra ja - 移民者  
+in verse jen - 内向的  
+insan - 人类  
+insan haki - 人权  
+insan sim - 人文主义  
+iode - 碘  
+iris yum - 铱  
+islam din - 回教 (伊斯蘭教)  
 ite - 石 (岩)  
-itis - 炎症  
-ivia - 趋势  
 
 ## J  
 
-• ajame - 会议  
-jambul - 閻浮樹  
-janel - 窗戶  
-janelfrem - 窗框  
-janelovel - 窗帘  
+ja - 者 (人, 家)  
+jaibai - 勝敗  
+jamul - 閻浮樹  
+jan buda din - 禅宗  
+janela - 窗戶  
+janela frem - 窗框  
 jang - 仗 (爭)  
-jangxute - 武术  
-jangle - 野生  
-jangle van - 丛林  
+jangal - 森林  
+jara - 罐 (瓶)  
+jaru - 扫帚  
 jau - 大麦  
-javabe - 回答  
-jebecaku - 小刀  
-jeke - 借  
-jekecepe - 借入  
-jekedone - 借出  
-• jelekan - 监狱 (监牢)  
+javabu - 回答  
+jeka - 借  
+jeka da - 借出  
+jeka na - 借入  
+jelakan - 监狱 (监牢)  
 jen - 人  
-• dusjen - 敌人  
-jenje - 姜  
-jenju - 珍珠  
-jense - 性别  
-jensolojia - 性别研究  
-• jetaje - 投掷物  
-jetografe - 投射 (投影)  
-jin - 真  
-jiraf - 长颈鹿  
-jive - 生命  
-jongle - 变戏法  
+jetegrafi - 投射 (投影)  
+jiang ja - 工匠 (匠人)  
+jinse - 性别  
+jinselogi - 性别研究  
+jirafa - 长颈鹿  
+jiva - 生命  
+jong - 中心  
+jong xulakan - 中学  
+Jongoku - 中国  
 juba - 长袍  
-• judekan - 法庭  
+jui - 注意 (谨慎)  
+jui di - 谨慎的  
+jui note - 警告  
 jul - 焦耳 (J)  
+jumla - 句子  
 jun - 年轻  
 junjen - 年轻人  
 junnen - 青年  
-juntelexe - 连接词  
-jupiter - 木星  
+Jupiter - 木星  
 jus - 汁  
 
 ## K  
 
 ka - 比  
-kable - 电缆 (电线)  
-kaboge - 南瓜  
-kadium - 镉  
+kable - 绳子  
+kaboga - 南瓜  
+kadim yum - 镉  
 kafe - 咖啡  
 kafekan - 咖啡馆  
-kafepote - 咖啡壶  
-kaguje - 纸  
-kagujelimon - 墨西哥萊檬  
-kalium - 钾  
-kaleharfe - 空隙  
+kafe pote - 咖啡壶  
+kafe rang - 棕色 (色)  
+kafe salmon - 褐鳟  
+kaguji - 纸  
+kaguji limon - 墨西哥萊檬  
+kala - 黑色  
 kalam - 笔  
-kalende - 日历  
+kalam sui - 墨水  
+kalenda - 日历  
 kali - 碱性  
-kaliguste - 苦的  
-kalimelon - 苦瓜  
-kalifornium - 锎  
+kali guste - 苦的  
+kali melon - 苦瓜  
+kali yum - 钾  
+kaliforni yum - 锎  
 kalmar - 鱿鱼  
+kalsi bilor - 大理石  
+kalsi mate - 石灰  
+kalsi petra - 石灰岩  
+kalsi yum - 钙  
 kalsite - 方解石  
-kalsium - 钙  
-kalsekristal - 大理石  
-kalsemate - 石灰  
-kalsepetre - 石灰岩  
 kam - 少  
 kama - 情欲  
-Kama sutre - 欲经  
+kama kanon - 欲经  
 kamar - 房间  
 kamil - 母菊  
-kamis - 衬衫  
-kamisi xake - 袖子  
+kamisa - 衬衫  
+kamisa xaka - 袖子  
 kan - 店 (馆)  
-kanape - 沙发  
-kande - 糖果  
+kanal - 水沟  
+kanca - 玻璃  
+kanca daka - 釉  
+kandi - 糖果  
+kane kasa - 笼  
+kane minte - 留兰香  
+kane sor - 门闩  
 kangaru - 袋鼠  
+kanon - 经典  
+kantalupo melon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
-kankuate - 金柑  
-kantalupomelon - 鈔皮瓜  
-kapetruke - 陷阱  
-kare - 工作  
-• karaje - 工作  
-• karekan - 工厂  
-• karer - 工人 (工作者)  
-• konkare - 合作  
-karelexe - 动词  
-kara - 黑色  
-karbe - 碳  
-karboduloxide - 二氧化碳  
+kape truke - 陷阱  
+karate - 空手道  
+karbon - 碳  
+karbon duoxide - 二氧化碳  
+karbon kalam - 铅笔  
 karcof - 菜蓟  
-karde - 牌  
 kardon - 蓟  
-kardonkarcof - 刺苞菜蓟  
-karge - 擔子  
+kardon karcof - 刺苞菜蓟  
+karga - 擔子  
 kargadan: - 犀牛  
 kari - 咖喱  
+karma - 作为 (行为)  
+karma ja di - 活性  
+karma loga - 动词  
 karote - 红萝卜  
 karse - 粗糙  
-karsolimon - 箭叶橙  
-karte - 地图  
-kartografia - 地图学  
-kaske - 壳 (皮)  
-kaslan - 懒 (懒惰)  
-kate - 咬  
-• katade - 嚼 (咀嚼)  
-kategluteban - 剪贴板  
-kategom - 口香糖  
+karse limon - 箭叶橙  
+karta - 地图  
+kartagrafi - 地图学  
+karte - 牌  
+kaska - 壳 (皮)  
 katana - 剑  
 katus - 仙人掌  
-kave - 挖  
-• kavaje - 坑 (穴)  
-Kaukasia - 高加索  
 kauri - 宝贝  
+kava - 挖 (坑, 穴)  
 ke - 什么  
-ke mode - 怎么  
-kecape - 番茄酱 (茄汁)  
+ke riti - 怎么  
 keci - 客气  
-keger - 客人  
-kenar - 边  
-kenarbaryer - 篱笆  
-kentaur - 人马 (半人马)  
-kexebroxe - 发刷  
-kexefentor - 电吹风 (吹风机)  
-keze - 酪 (起司)  
-kime - 物质  
-• kimia - 化学  
-• kimium - 元素  
+keka ja - 客人  
+Keme - 古埃及  
+kerne - 核心  
+kexa broxa - 发刷  
+kexa hin - 无毛  
+kimi - 物质  
+kimilogi - 化学  
+kimi so - 元素  
 kimono - 和服  
-kine - 动  
-kinu - 动  
-• kinofilike - 影迷  
-kitabe - 写  
-• kitabia - 文学  
-kitabekan - 图书馆  
-kitabemaxin - 打字机  
+kinar - 边  
+kinar baryer - 篱笆  
+kio - 桥  
+kisma - 命運  
+kitabu - 写  
+kitabu culi - 文字处理 (字处理)  
+kitabu gi - 打字机  
+kitabukan - 图书馆  
+kitabu suta - 文学  
 kivi - 奇异果  
 klien - 顾客  
-klimomute - 气候变化  
-klorium - 氯  
-• inkluze - 包括  
+klima mute - 气候变化  
+klin - 趋势  
+klor - 氯  
 koala - 樹袋熊 (考拉)  
 kobalte - 钴  
-• komodia - 喜剧  
+koda - 尾巴 (尾部)  
+kolum - 柱子   
+komputa di - 数字的  
 kon - 共  
-koncung - 昆虫  
-Kongfuze - 孔夫子  
+kon bon - 相配  
+kon gong - 合作  
+kon sel ja - 顾问  
+kon trati - 公約  
+kone - 锥体  
 konserte - 音乐会  
-konus - 锥体  
-• kopiaje - 摹本 (拷貝)  
-kor - 核心  
+kopi - 摹本 (拷貝)  
 koral - 珊瑚  
-korne - 角  
-kornemelon - 刺角瓜  
-kortokrokodil - 短吻鳄  
-kosme - 宇宙的  
-kosmia - 宇宙  
-kosmobiolojia - 太空生物学  
-kosmonau - 太空船  
-kosmonaver - 太空人  
+kore - 跑步  
+kore ja - 跑步者  
+korne melon - 刺角瓜  
+korte kata - 短篇小说  
+korte krokodil - 短吻鳄  
+kosmo - 宇宙  
+kosmo biologi - 太空生物学  
+kosmo di - 宇宙的  
+kosmo nave - 太空船  
+kosmo nave ja - 太空人  
 krake - 裂缝 (缝隙)  
-krede - 信赖  
-• krediste - 信徒  
-bekredebil - 忠实  
-• ankrediste - 不信神的  
-kredokarde - 信用卡  
+kredi - 信赖  
+• ankredija - 不信神的  
+• bekredibil - 忠实  
+kredija - 信徒  
+kredikarte - 信用卡  
 krepe - 薄烤饼  
-krevete - 虾 (xiā)  
 kriton - 氪  
 krokodil - 鳄  
-krokroke - 蛙  
-kromium - 铬  
+krokro - 蛙  
+krom yum - 铬  
 krote - 鼹鼠  
 kruasan - 牛角包  
-krusarke - 弩 (十字弓)  
-kruseline - 十字线  
-kuangia - 矿场  
+krus arka - 弩 (十字弓)  
+krus lin - 十字线  
+kuanga san - 矿场  
 kuarze - 石英  
 kube - 立方体  
+kudi - 肘  
 kuku - 布谷鸟 (杜鹃)  
-kumulonepe - 积云  
-kupe - 杯子  
+kupa - 杯子  
 kupre - 铜  
-kurium - 锔  
-kuxe - 躺  
-kuxen - 墊子  
+kurban - 牺牲  
+kuri yum - 锔  
 
 ## L  
 
+la - 该 (上述的)  
 lage - 湖  
 lai - 来  
-laiane - 带来  
-lale - 红  
-lalelince - 短尾貓  
-laloranje - 柑橘 (红橘)  
-lalsalmon - 紅鮭  
-lalobavite - 红宝石  
+lalabede - 摇篮  
+lalagani - 摇篮曲  
 lama - 喇嘛  
-• lamaisme - 喇嘛教  
-lampe - 灯  
-lantanium - 镧  
+lamadin - 喇嘛教  
+lampa - 灯  
+lanse grafi - 投影  
+lanse xe - 投掷物  
+lantan - 镧  
 lasa - 废物 (垃圾)  
 lasastan - 垃圾场  
 lasatong - 垃圾桶  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
-• latude - 纬度  
 Latvia - 拉脱维亚  
 lau - 老 (老年, 年歲大)  
-laujen - 老人  
-launen - 老年  
-laurensium - 铹  
+laurence yum - 铹  
+laxe - 落 (留下)  
 lazanya - 千层面  
-lazurite - 青金岩  
+lazur petra - 青金岩  
 le - 了  
-lenge - 冷たい (寒い)  
-lengemosim - 冬天  
+leng - 冷たい (寒い)  
+leng mosim - 冬天  
 lense - 透镜  
-Lesa - 拉萨  
+lente - 慢  
 letre - 信 (书信)  
 letus - 莴苣  
-leve - 左  
-lexe - 词  
-• lexia - 词汇  
-lexojinse - 文法的性  
-leze - 梨  
+leu - 左  
 liama - 大羊駝  
-libeban - 架子 (搁板)  
-libebaze - 架子  
 libele - 蜻蜓  
-• lider - 领导  
+lida ja - 领导  
+liga di sanduku - 约柜  
+lima - 五 (5)  
 limon - 柠檬  
-• limonike - 柑橘  
 limon jus - 柠檬水  
-line - 线  
-lineme - 纤维  
-lince - 猞猁 (山貓)  
-lipe - 油  
-lipocupe - 吸脂  
-lipoguke - 野菊花  
+limon oranje - 柑橘  
+lin - 线  
+lin so - 纤维  
+linke - 联系 (关系)  
+linse - 猞猁 (山貓)  
+lipa bano - 架子 (搁板)  
+lipa baze - 架子  
+lipa side - 蹲  
 lisan - 舌头  
 liste - 单子  
-litium - 锂  
+lito yum - 锂  
 litre - 升  
-live - 落 (留下)  
-• livaje - 其余  
-loge - 说话 (讲, 语言)  
-loke - 地方 (放置)  
-lon - 论  
-longe - 长  
-longopipre - 荜拔  
-lontre - 獭  
+loga - 语言  
+loga fen - 音节  
+loga jama - 词汇  
+loga so - 词  
+loge - 纪录  
+loge buku - 航海日志  
+loka - 地方  
+loka nume - 坐标  
+lona - 论  
+long - 长  
+long dur - 久  
+long kata - 小说  
+long pipre - 荜拔  
+long tire - 拉  
+lotra - 獭  
 lou - 漏  
-luge - 录  
-luke - 绿色  
-lumen - 流明  
-lumbe - 腰部  
-lumbalgia - 腰痛  
-lunokeke - 月饼  
+luka - 六 (6)  
+lulu table - 算盘  
+luna keke - 月饼  
 lung - 龙  
-lute - 掠夺  
-luter - 强盗  
-lutetium - 镥  
+lung dou - 四棱豆  
+luta - 掠夺  
+luta ja - 强盗  
+lutesi yum - 镥  
 
 ## M  
 
 ma - 妈妈  
-• matre - 母亲  
-mamatre - 外婆 (外祖母)  
-mapatre - 外公 (外祖父)  
-mace - 比赛  
-maduvesposanduke - 蜂箱  
-magesium - 镁  
-Magribia - 摩洛哥  
-mai - 妈妈  
+ma su ma - 外婆 (外祖母)  
+ma su pa - 外公 (外祖父)  
+magen yum - 镁  
+magi ja - 魔法师  
+magi liki - 魔力  
+Magribi dexa - 摩洛哥  
 majang - 麻将  
-Maka - 麦加  
-makanful - 蒲公英  
-• malonomia - 经济学  
-• be male - 属于  
-• mamalia - 哺乳纲  
+makan hua - 蒲公英  
+mal nomi - 经济学  
+mana - 意义  
+manera - 方式  
+mang - 忙  
 mangan - 锰  
-maniisme - 摩尼教  
-manir - 方式  
-manse - 肉  
-manto - 斗篷  
+mani din - 摩尼教  
+manioka - 木薯   
+mantol - 斗篷  
 mar - 次 (度, 遍)  
 margai - 長尾虎貓  
-mas - 质量  
-masmulsolful - 菊芋  
-masale - 香料  
-maste - 桅  
+masa - 质量  
+masa mula sol hua - 菊芋  
+masala - 香料  
+masta - 桅  
+mata badan - 尸体  
+mata badan fili - 恋尸癖  
 mate - 物质  
-mate cai - 马黛茶  
+mate lona - 唯物论 (唯物主义)  
+matur fem - 女人  
+matur jen - 成年人  
+matur man - 男人  
 mau - 猫  
-• maxime - 最  
-maxobalaje - 加固  
+max fili - 比较喜欢  
+max gun - 加固  
+maxim - 最  
 mayur - 孔雀  
 maze - 袜子  
-mede - 帮助  
-meden - 广场  
-medenpapil - 虞美人 (雛罌粟)  
+mece - 比赛  
+medan - 广场  
+medan papi - 虞美人 (雛罌粟)  
+mede - 帮  
+media - 媒体  
+medi di - 中型  
+medi dia - 正午  
+medi noce - 半夜 (午夜)  
+medu - 蜜  
+medu fong - 蜜蜂  
+medu fong sanduku - 蜂箱  
 mega - 百万 (兆)  
+megi - 云  
 mei - 漂亮 (美)  
-• meyia - 美丽  
-• meyize - 装饰  
-meideke - 美德  
-mei jen - 美人  
+mei daka - 装饰  
+mei suta - 艺术 (美术)  
+mei suta ja - 美术家  
+meita - 美丽  
 melon - 厚皮甜瓜 (蜜瓜)  
-meme - 记忆 (记性)  
-meme - 记得 (回忆)  
-• dememe - 忘记  
-mendelevium - 钔  
+memo - 记忆 (记性)  
+• anmemo - 忘记  
+mendelef yum - 钔  
 meninge - 脑脊膜  
-menu - 菜单  
-metalbede - 铁砧  
-metalline - 线 (铁丝)  
-metalzanger - 铁匠  
+meranti - 娑羅屬  
+metal bede - 铁砧  
+metal jiang ja - 铁匠  
+metal lin - 线 (铁丝)  
 meza - 桌子  
-mezatexe - 桌布  
+meza tela - 桌布  
 mi - 我  
 mimen - 我们  
 mimen su - 我们的  
-midi - 中型  
-• inmigre - 移民 (移居)  
-• inmigrer - 移民者  
-mikrobie - 微生物   
-mikrobiolojia - 微生物学  
+mikro bio - 微生物   
+mikro biologi - 微生物学  
 mikroskope - 显微镜  
-milkokardon - 水飞蓟  
-mime - 模拟  (模仿)  
-minte - 薄荷  
-• miraje - 海市蜃楼  
-• miror - 镜子  
-• misaje - 信息  
-• misioner - 传教士  
-• konmisia - 委员会  
-mise poste kase - 邮箱  
-Misria - 埃及  
+milke kardon - 水飞蓟  
+mima - 模拟  (模仿)  
+minta - 薄荷  
+mirde - 微弱的  
+Misri - 埃及  
+miti - 会议  
 mitre - 米 (公尺)  
-moke - 树木  
-mokoban - 木板  
-mokomate - 木材  
-mokotan - 原木  
-mokozanger - 木匠  
-mokegana - 桩  
-• molekan - 磨坊  
-molite - 磨石  
+moka - 树木  
+moka bano - 木板  
+moka jiang ja - 木匠  
+moka mate - 木材  
+moka tana - 原木  
+molkan - 磨坊  
+mol seku - 磨石  
 mole - 摩尔 (单位)  
 molekul - 分子  
-molidenium - 钼  
-mone - 钱  
-• monete - 硬币  
-monte - 山  
+moli - 茉莉  
+moli hua cai - 茉莉花茶  
+moliden - 钼  
 mos - 苔藓  
 mosim - 季  
-• moter - 马达 (发动机)  
-mul - 根  
-• mumaje - 木蜜亚 (地蜡)  
-• mumike - 木乃伊  
-mumcape - 封印  
-mummelon - 冬瓜 (白瓜)  
-mun - 门  
-• daimun - 大门  
+mostre - 妖怪 (怪物)  
+moto - 马达 (发动机)  
+mula - 根  
+mum cape - 封印  
+mum melon - 冬瓜 (白瓜)  
 mur - 墙壁  
-murkaguje - 壁纸 (墙纸)  
+mur kaguji - 壁纸 (墙纸)  
 murce - 蚂蚁  
-muskulbine - 健美运动  
+mus - 应该 (必须)  
+muskul bina - 健美运动  
 musli - 木斯里 (瑞士麦片)  
-muze - 娱乐  
-muzike - 音乐  
+muxu - 鼠  
+muzika - 音乐  
 
 ## N  
 
-nadir - 很少  
-nagis - 污染物  
-nagise - 污染  
-namkitabe - 签署  
-narke - 毒品 (麻醉. 麻药 )  
-• narkose - 症  
-nasomede - 国际  
-nasibe - 命運  
-• nature - 自然  
+na - 拿 (得, 获得)  
+na xiti - 得失  
+nadir mar - 很少  
+najis - 污染物  
+nam - 名  
+nam hin - 无名  
+nam kitabu - 签署  
+nama - 肉  
+narko - 毒品 (麻醉. 麻药 )  
+nasi medi - 国际  
 • posnatal - 产后  
 • prenatal - 产前  
-natrium - 钠  
-nau - 船 (艇)  
-nauleve - 左舷  
-nauraite - 右舷  
+natri - 钠  
+nau - 脑  
+nau di - 大脑的  
 nautile - 鹦鹉螺  
-naze - 鼻 (鼻子)  
+nave - 船 (艇)  
+nave leu - 左舷  
+nave raite - 右舷  
 ne - 呢  
 nefre - 肾脏  
-• nekrotome - 尸检  
-nen lun den - 年月日  
-neodimium - 钕  
+nefte - 油  
+nefte guku - 野菊花  
+nelu - 四 (4)  
+nen - 年  
+nen mes den - 年月日  
+neodim yum - 钕  
 neon - 氖  
-nepe - 云  
-nepotunium - 镎  
-• internete - 网络  
-• konnete - 连接  
-• konnetor - 连接器  
-neu - 新  
-• nevike - 新手  
-neuloge - 新词  
-neurotoxe - 神经毒素  
+neputun yum - 镎  
+nerve toxi - 神经毒素  
+neu di - 新  
+neu jen - 新手  
+neu loga - 新词  
 ni - 女  
+ni - 这 (此)  
+nia - 意图  
+nice kitabu - 字幕  
 nide - 巢 (穴)  
 nikel - 镍  
 nil - 蓝色  
-nilbavite - 蓝宝石  
-nilkentaurhua - 矢車菊  
-nilseramsing - 茜草花  
+nilelfe - 蓝精灵  
+nilsentaure - 矢車菊  
+nilserami sing - 茜草花  
 nilon - 尼龙  
-niobium - 铌  
+niobi yum - 铌  
 Nipon - 日本  
-nis - 壁龛  
 nitre - 氮  
+nix - 壁龛  
 no - 不  
-nobelium - 锘  
+no a lin - 离线  
+nobel yum - 锘  
 noce - 夜  
-nome - 组织  
-norde - 北  
-• nosisme - 诺斯底主义  
-• annosike - 无知  
-• annosisme - 不可知论  
-• dianose - 诊断  
-• pronose - 预后  
-nosolojia - 认识论 (知识论)  
-nostalgia - 怀旧  
-note - 便条  
-nove - 九 (9)  
-• novime - 第九  
-• nudisme - 裸体主义  
-nuke - 颈  
+Noe - 诺亚  
+Noe di nave - 诺亚方舟  
 nume - 数  
+nume zi - 数字  
+norde - 北  
+nostalgia - 怀旧  
+note xe - 便条  
+nuka - 颈  
 
 ## O  
 
 o - 或  
-ode - 頌  
-oke - 眼睛  
-okosuigas - 催泪瓦斯  
-onde - 波浪  
-or - 耳  
-oritis - 耳炎  
-orange - 橙子  
-orangi - 橙色  
-orde - 军队  
-ordorejer - 大元帅  
-ordojen - 军人  
+ohtopus - 章鱼  
+onda - 波浪  
+oranje - 橙子  
+oranje rang - 橙色  
+ore - 耳  
+ore tis - 耳炎  
 orkide - 兰花  
-orte - 直  
+orto - 直  
 oselote - 虎貓  
 osidian - 黑曜岩  
-osmium - 锇  
-ostogamia - 骨骼  
-• ovoide - 卵形  
-oxe - 氧  
+osmi yum - 锇  
+oste jama - 骨骼  
+oxi - 氧  
 oxide - 氧化物  
 
 ## P  
 
 pa - 爸爸  
-• patre - 父亲  
-pamatre - 奶奶 (祖母)  
-papatre - 爷爷 (祖父)  
-pace - 和平  
-• pacisme - 和平主义  
-• paciste - 和平主义者  
-pagre - 包头  
+pa su ma - 奶奶 (祖母)  
+pa su pa - 爷爷 (祖父)  
+pagri - 包头  
 pai - 馅饼  
-payace - 小丑  
-paladium - 钯  
-pandemi patia - 大流行病  
-panmime - 哑剧  
-panun - 每  
+paladi yum - 钯  
+pan demi pati - 大流行病  
+pan mima - 哑剧  
+pan un - 每  
 pang - 面包  
-panke - 翅膀 (膀子)  
 pante - 裤子  
 papagai - 鹉鹦  
 papaya - 木瓜  
-pare nume - 偶数  
-• parike - 同辈  
-• parestan - 水平  
-parvezia - 平衡  
+par fase - 水平  
+par jen - 同辈  
+par nume - 偶数  
+par vezeta - 平衡  
 param - 参数  
-parcokai - 爆裂  
+parce kai - 爆裂  
+pari dexa - 仙境  
+pari kata - 童话  
 parke - 园  
 parne - 蕨  
-• partaner - 伙伴  
+partijen - 伙伴  
 pas - 過  
-paslexe - 密码  
+pas loga - 密码  
+pase - 和平  
+pase sim - 和平主义  
+pase sim ja - 和平主义者  
+pasi - 疼痛  
 pasporte - 护照  
-pastopetre - 岩漿  
-• patike - 患者 (病患)  
-• patekan - 医院  
-patogener - 病原体  
-patolojia - 病理学  
-patomise - 传染  
-pau - 手枪  
-• repauze - 休息  
-peikar - 职业  
-• propelor - 螺旋桨  
+pasta petra - 岩漿  
+pati gene xe - 病原体  
+pati jen - 患者 (病患)  
+patikan - 医院  
+patilogi - 病理学  
+pati mise - 传染  
+pau gi - 手枪  
+pede - 屁  
+pei gong - 职业  
+• propeler - 螺旋桨  
 pelmen - 饺子  
 pelpel - 蝴蝶  
 penakalam - 鹅毛笔  
 penakardon - 翼蓟  
-• pendaje - 吊坠  
-pendokardon - 垂花飞廉  
-pente - 五 (5)  
+pende kardon - 垂花飞廉  
+pende sor - 挂锁  
 pente - 油漆 (颜料)  
-pentobrox - 画笔  
-pentogone - 五角形  
-perde - 屁 (放屁)  
-• petrolojia - 岩石学  
-petrolipe - 石油  
+pente broxa - 画笔  
+pente tela - 画布  
+pera - 梨  
+pesa - 钱  
+pesa diske - 硬币  
+petra nefte - 石油  
 pexe - 鱼  
-pexehuke - 鱼钩  
+pexe huke - 鱼钩  
+pexe saide ja - 鱼夫  
 piaze - 洋葱  
-picea - 云杉  
 pike - 尖顶  
 pil - 皮  
-• depile - 削 (刮去)  
 pin - 别针  
-pincope - 镐  
-pinkardon - 大翅蓟  
+pin cope - 镐  
+pin kardon - 大翅蓟  
 pipre - 胡椒  
-piprominte - 辣薄荷  
+pipre minta - 辣薄荷  
 piram - 金字塔  
-pizaria - 比萨店  
-• explanete - 系外行星  
-plate geokaskia - 板块构造论  
-platestan - 平原  
-platinium - 铂  
-• exploze - 爆炸  
-• inploze - 内爆  
-plum - 李子  
+pisea - 云杉  
+plate geo kaskalogi - 板块构造论  
+plate stan - 平原  
+platin - 铂  
 plumbe - 铅  
-plutonium - 钚  
-poyu - 虱子  
-poke - 扑克  
-poli mar - 经常  
-Polinesia - 波利尼西亚  
-polite - 政府  
-politomode - 政体  
-polskium - 钋  
-pompotape - 活塞  
-pontopin - 指南针  
-• porosi - 多孔的  
+pluton yum - 钚  
+Polinesi - 波利尼西亚  
+politi - 政府  
+politi lona - 政治  
+politi mode - 政体  
+polska yum - 钋  
+pompetapa - 活塞  
+ponte pin - 指南针  
 porei - 韭葱  
+porte - 港  
 • reporter - 记者  
-porta - 港  
 pospor - 磷  
-poste kase - 信箱  
-pote - 罐 (瓶)  
-poter - 陶瓷工  
-poteria - 陶器制造  
-prasedium - 镨  
-pre - 以前  
-preden - 昨日  
+pote camaca - 勺 (舀)  
+pote ja - 陶瓷工  
+pote suta - 陶器制造  
+poto - 坭  
+poto defa bano - 挡泥板  
+potostan - 沼泽  
+poyu - 虱子  
+prazedim yum - 镨  
+prese - 压力  
 prese - 压力  
 problem - 问题 (难题)  
 program - 计划  
-prometium - 钷  
-proten - 蛋白质  
-protacinium - 镤  
-pudu - 腐烂  
+program gi - 软件  
+promete yum - 钷  
+protacini yum - 镤  
 puding - 布丁  
-• pujekan - 寺庙  
-pujemeza - 圣坛  
-pul - 桥  
-• pulsation - 脉 (脉搏)  
+pujakan - 寺庙  
+puja meza - 圣坛  
+pul fina - 完成  
+pul fito yam sim ja - 纯素食主义者  
+pul xipi - 浸泡  
+pulmon tis - 肺炎  
 puma - 美洲獅 (山狮)  
-purfine - 完成  
-purfitoyamiste - 纯素食主义者  
-purxipe - 浸泡  
+putau bagi - 葡萄园  
+putau oranje - 葡萄柚  
 • konputer - 计算机  
-putavorange - 葡萄柚  
-putonge - 普通  
+putong - 普通  
+Putong Han - 普通话  
 
 ## R  
 
-radium - 镭  
+radi yum - 镭  
 radon - 氡  
 rai - 意见 (见解)  
+rajanan - 王  
 rakun - 浣熊  
-rangarkosalmon - 虹鱒  
-rangomate - 染料  
-rapsodia - 狂想曲  
+rang arka salmon - 虹鱒  
+rang mate - 染料  
+rapide - 快  
 rare - 稀有 (稀少的)  
-rase - 种族  
-• ration - 推论  
-• ratolojia - 论理 (逻辑)  
-ratibe - 常规 (次序)  
-ratibe - 整理  
-• razor - 剃刀  
-retre - 返回 (回来)  
-retrogul - 呕吐  
-retrogul sense - 恶心  
-• rejenan - 王 (国王)  
-• rejeni - 女王  
-• relia - 现实  
-• rel televizion - 真人秀  
-rel televizion - 真人秀  
-renium - 铼  
-repauze in pace (RIP) - 安息  
+rasa - 种族  
+ratibu - 常规 (次序)  
+re sikle - 循环再造  
+Ren - 莱茵河  
+ren yum - 铼  
+reste - 其余  
+retro gula - 呕吐  
+retro gula sense - 恶心  
+retro note - 反馈  
+retro tikete - 往返票  
 ring - 环 (轮)  
-ringare - 擂台  
-ris - 米  
-ris vin - 黄酒 (米酒)  
+ringar - 擂台  
+riti - 方法  
 ritim - 节奏  
-riu - 河 (江)  
+rivo - 河 (江)  
 rode - 玫瑰  
-rodium - 铑  
-roke muzike - 摇滚乐  
-roketolancer - 火箭筒  
+rode salmon - 粉紅鮭  
+rode yum - 铑  
+roke kursi - 摇椅  
+roke muzika - 摇滚乐  
+rokete lanse gi - 火箭筒  
 Roma - 罗马  
 roma kamil - 果香菊  
-• rotation - 回转  
-rotolefto - 反时针方向的  
-rototafun - 飓风 (台风)  
-rototope - 陀螺  
-roze - 玫瑰  
-rozosalmon - 粉紅鮭  
-rubidium - 铷  
-ruhmixe - 困惑 (混乱)  
-rute - 破裂  
-rutenium - 钌  
+rota leu - 反时针方向的  
+rota tafun - 飓风 (台风)  
+rota vanu gi - 陀螺  
+rubi - 红  
+rubi bau seku - 红宝石  
+rubi linse - 短尾貓  
+rubi oranje - 柑橘 (红橘)  
+rubi salmon - 紅鮭  
+rubi yum - 铷  
+ruhu mixe di - 困惑 (混乱)  
+rus yum - 钌  
 
 ## S  
 
 sabe - 知道 (晓得)  
-sabevol - 趣  
-sabevolive - 好奇  
-besabovole - 有趣  
+sabe vol - 趣  
+sabe vol di - 有趣  
+sabe vol ja - 好奇  
 sable - 沙  
-• movesable - 流沙  
-sablestan - 沙漠  
 sabun - 肥皂  
 safar - 旅行  
-safaroceke - 旅行支票  
+safarceke - 旅行支票  
 sagu - 西谷米  
-sahe - 正确  
-sal - 你好  
-sale - 健康  
-• salude - 健康  
+sahi - 正确  
+saide - 狩猎  
+saide ja - 狩人  
+sal - 盐  
+sal biskute - 梳打饼  
+sala - 大厅  
 salam - 迎接  
-salamia - 福利 (福祉)  
-salade - 沙拉  
-salte - 盐  
-salve - 拯救  
-• salver - 救世主  
-sam: - 一样  
-sammetre - 对称  
-sammetria - 对称性  
-samrayia - 一致  
-samsifia - 模型  
-samarium - 钐  
+salamta - 福利 (福祉)  
+salu - 健康  
+saluta - 健康  
+sam - 一样  
+sam metre - 对称  
+sam rai - 一致  
+sam sifa xe - 模型  
+sama - 天空  
+sama hal - 天气  
+sama kinar - 地平线  
+samari yum - 钐  
 sanduice - 三明治 (三文治)  
 sante kanon - 圣经  
-sanze - 扇子  
-sapate - 鞋  
+sapatu - 鞋  
 sar - 头  
-sarotunge - 头疼 (头痛)  
-sate - 时候  
+sar hin - 无头的  
+sar kexa - 头发  
+sar kexa hin - 秃头的  
+sata - 时刻 (瞬间)  
 Saturne - 土星  
-saure - 蜥蜴  
-semen - 彼此  
-• konseler - 顾问  
-selenium - 硒  
-• semelojia - 语义学  
+saur - 蜥蜴  
+se di - 自私  
+seku - 石 (岩)  
+selen yum - 硒  
+selulogi - 细胞学  
+seme - 种  
+seme dana - 种子  
+seme di - 种子的  
+semon - 彼此  
 sene - 年岁  
-senater - 参议员  
+seng - 生的  
+seng varis - 米  
 sense - 感觉  
-sente - सौ  
-• prosente - 百分之  
-sere - 系列  
-• seria - 系列  
-• sereme - 连结  
-serame - 陶瓷  
-sexolojia - 性学  
-• sidel - 座部 (马鞍)  
-• inside - 蹲  
-sifelexe - 形容词  
-sigare - 香烟  
-• sikliste - 骑自行车的人  
-• risikle - 循环再造  
-silike - 硅  
+sense xaka - 觸手  
+sento - 百  
+sento nen - 世纪  
+sera - 锯子  
+serami - 陶瓷  
+seri - 系列  
+seria - 系列  
+serime - 连结  
+sexelogi - 性学  
+side loka - 座部 (马鞍)  
+sifa loga - 形容词  
+sigar - 香烟  
+sikle ja - 骑自行车的人  
+silis - 硅  
 silke - 丝绸  
-• dusosine - 不祥的  
-• susine - 吉利的  
-sir - 隐藏  
-siroplan - 阴谋 (密谋)  
-sirkite - 鹅卵石  
-sixe - 六 (6)  
-skandium - 钪  
-skerte - 裙子  
-• socia - 社会  
-soce jinse - 社會性別  
-• sofia - 智慧  
+silke larva - 家蚕 (蚕宝宝)  
+simbol - 象徵  
+sing - 星  
+sir plan - 阴谋 (密谋)  
+siro - 零 (〇)  
 sofa - 沙发  
-soge - 寻找  
+sofita - 智慧  
 soi - 大豆 (黄豆)  
-soimilke - 豆浆  
-soisaus - 酱油  
+soi milke - 豆浆  
+soi sos - 酱油  
+soki - 寻找  
 sol - 太阳  
-solhua - 向日葵  
-solsistem - 太阳系  
-some - 睡觉 (困觉)  
-• ansome - 失眠  
-somokamar - 卧室 (寝室)  
-somopapil - 鴉片罌粟  
-sonomun - 声门  
-song - 松  
-sore - 锁  
+sol hua - 向日葵  
+sol sistem - 太阳系  
+• ansona - 失眠  
+sona kamar - 卧室 (寝室)  
+sona papi - 鴉片罌粟  
+songi - 松  
+sosi - 社会  
+sosi jinse - 社會性別  
 sosis - 香肠  
 • inspete - 检查  
-sponje - 海绵  
-• sportekan - 健身房  
-stanium - 锡  
-stibium - 锑  
-strontium - 锶  
-• studente - 学生  
-sual - 问 (问题)  
-suge - 快  
-sugude - 速度  
+sual - 问题  
 sui - 水  
-suigas - 蒸汽  
-suiyau - 口渴  
-suikaboge - 葫芦  
-suiminte - 水薄荷  
-suipade - 瀑布  
-suke - 高兴  
+sui culi - 水处理  
+sui gas - 蒸汽  
+sui kaboga - 葫芦  
+sui minta - 水薄荷  
+sui yau - 口渴  
+Suise - 瑞士  
+suka - 高兴  
 sukar - 糖  
 sukar gana - 甘蔗  
-sukarite - 冰糖  
-sulfe - 硫  
-suprize - 惊奇  
-sus - 甘草 (国老)  
+sulfu - 硫  
+supa - 汤  
+supa camaca - 汤匙  
+supra vakil ja - 参议员  
+supriza - 惊奇  
 susan - 百合花  
-sutre - 经  
+suta - 技术  
 
 ## T  
 
-ta - 到  
-tablete konputer - 平板电脑  
-table konputer - 平板电脑  
+tabi - 特性 (生性)  
+table komputa - 平板电脑  
 tail - 砖 (瓦)  
-talium - 铊  
-Talban - 塔利班  
-tame - 贪婪的  
-tan - 茎 (梗)  
-tantalium - 钽  
-tas - 盘 (碟)  
-tate - 接触  
-tato - 纹身 (刺青)  
-tatu - 犰狳  
-taxi metrer - 计程器  
-taze - 新鲜的  
-tehne - 技术  
-tehnium - 锝  
-tehnolojia - 工艺学  
-telefon - 电话机  
-telefone - 打电话  
-telefonlin - 电话线  
+tala - 锁  
+tali yum - 铊  
+tami - 贪婪的  
+tana - 茎 (梗)  
+tantal yum - 钽  
+tasa - 盘 (碟)  
+taxi metre gi - 计程器  
+taza - 新鲜的  
+tehni - 技术  
+tehnilogi - 工艺学  
+tehni yum - 锝  
+tela - 布料  
+tela gi - 织机  
+tele fon gi - 电话机  
+tele fon lin - 电话线  
+tele vide gi - 电视机  
 teleskope - 望远镜  
-televide - 电视机  
-teledipe - 深  
-telurium - 碲  
-tem - 主题目  
-temnam - 标题  
-ten - 天空  
-tenhal - 天气  
-tenkenar - 地平线  
-• terurisme - 恐怖行为  
-terbium - 铽  
-terce - 斜的  
+telu yum - 碲  
+tema - 主题目  
+tema nam - 标题  
+tene fasilta - 無障礙環境  
+terbi yum - 铽  
+terca - 斜的  
+teror sim - 恐怖行为  
+tese - 论据  
 teste - 化验  
-texe - 布料  
-teze - 论题   
-• tibaje - 药物  
-• tiber - 医生 (大夫)  
-tibesui - 药水  
-• tikete - 票  
-• retrotikete - 往返票  
+tikete - 票  
 tim - 队  
-tiregana - 杆  
-tirelonge - 拉  
-titanium - 钛  
-tix - 噓  
-• tixe - 安静  
-• tixia - 沉默  
-• jivotome - 活体解剖  
-tomato - 西红柿  
-topografe - 地形  
-• topografia - 地形  
-tore - 塔 (塔楼)  
-torium - 钍  
-• toxolojia - 毒物学  
-tragodia - 悲剧  
+tire kane - 杆  
+tire yo milke - 拉  
+tire yo pil - 削 (刮去)  
+tis - 炎症  
+tisa - 九 (9)  
+titan yum - 钛  
+tocu - 接触  
+tomate - 西红柿  
+• jivatomi - 活体解剖  
+topo grafi - 地形  
+topo metre grafi - 地图  
+tor yum - 钍  
+toxilogi - 毒物学  
+transe vide di - 透明的  
+trata - 拖  
+trata gi - 拖拉机 (铁牛)  
 trate - 拖  
-• trater - 拖拉机 (铁牛)  
-trate milke - 拉  
-trete - 合同 (合约)  
-• kontrete - 公約  
+trati - 合同 (合约)  
+tren tikete - 火车票  
 tri - 三 (3)  
-tripike - 三叉戟  
-trompe - 喇叭  
+tri pike - 三叉戟  
 truke - 伎俩  
-truke - 耍花招  
 tu - 你  
 tumen - 你们  
 tumen su - 你们的  
-tumimen - 咱们  
-tulium - 铥  
+tule yum - 铥  
 tuna - 金枪鱼  
-tunge - 疼痛  
-• turbin - 涡轮机  
-turfe - 泥炭  
-tuze - 兔子  
+tuta - 桑树  
+tuzi - 兔子  
 
 ## U  
 
-ude - 度  
-umame - 鲜味  
+uma bici - 马鞭  
+umami - 鲜味  
 un - 一 (1)  
-• unike - 唯一 (独)  
-• unike - 只有 (惟独)  
-unomaro - 一次 (一遍)  
-uranium - 铀  
+un di - 只有 (惟独, 唯一, 独)  
+un mar - 一次 (一遍)  
+unta - 团结 (统一)  
+un ta liga - 合并  
+un zai di - 独自的 (孤单)  
+ura - 好哇  
+uran yum - 铀  
+
+## V  
+
 va - 哇  
-vade - 山谷  
-vadosusan - 鈴蘭  
 vaf - 狗  
 vafle - 窝夫  
-vagine - 阴道  
-vale - 价值  
+vagina - 阴道  
+vai - 外  
+vai dara - 溢出  
+vai jen - 外人 (局外人)  
+vai planete - 系外行星  
+vai verse di - 外向的  
+vai yam - 野餐  
+vali - 山谷  
+vali susan - 鈴蘭  
 valse - 华尔兹  
+valu - 价值  
 vampir - 吸血鬼  
-van: - 森林  
-vanadium - 钒  
-vanila - 香草  
-vare - 各种各样  
-vate - 物体 (物品)  
-vei - 尾巴 (尾部)  
-veilin - 緯紗  
+vanadi yum - 钒  
+vanu - 娱乐  
+vari - 各种各样  
+varis - 米  
+varis vin - 黄酒 (米酒)  
+vei darja - 纬度  
+vei lin - 緯紗  
 vende - 卖  
-vendexope - 贸易  
+vende xope - 贸易  
+Venjou - 温州  
+venjou oranje - 温州蜜柑  
 ventur - 冒险  
-venturer - 冒险者  
-Venzou - 温州  
-Venzou oranje - 温州蜜柑  
-vere - 真  
-verme - 蠕虫  
-• exverse - 外向的  
-• extroverse - 外向的  
-• introverse - 内向的  
-veruke - 疣  
-vespe - 蜂  
-veste - 西  
-veze - 重型的  
+ventur ja - 冒险者  
+veranda - 阳台  
+verde - 绿色  
+• exversi - 外向的  
+• extraversi - 外向的  
+• intraversi - 内向的  
+veze di - 重型的  
 vide - 看  
-• dusvide - 难看  
-• suvide - 好看  
 vidou - 寡妇  
-• vilaje - 村  
-viole - 小提琴  
-• violiste - 小提琴家  
-• daiviole - 大提琴  
-virge - 处女  
-visematre - 继母  
-visepatre - 继父  
+vijin - 味精  
+virje - 处女  
+vise kitabu - 重写  
+vise ma - 继母  
+vise pa - 继父  
 vitamin - 维生素 (维他命)  
 Vixnu - 毗湿奴  
-vizin - 味精  
-vode - 诺言 (许诺)  
+vode - 诺言  
 vol - 想要 (愿意)  
 volfram - 钨  
-vulve - 外阴 (陰门)  
+vulva - 外阴 (陰门)  
+vutu - 物体 (物品)  
 
 ## X  
 
-xa - 了  
-xam: - 晚上  
-Xanghai - 上海  
-xara - 锯子  
-xarafun - 锯末  
+xalke - 鳞  
+xam - 晚上  
+xanghai - 上海  
 xarke - 鲨鱼 (shayu)  
-xatan - 敌手  
-xatan (ruhoxatan) - 撒但  
+xatan ja - 撒但  
+xau - 少  
+xava - 雨  
+xava cati - 伞  
+xava kote - 雨衣  
+xava mosim - 雨季  
 xe - 事物 (东西)  
-xehal - 事态  
+xe hal - 事态  
 xenon - 氙  
-xibai - 失败 (击败)  
-xibai - 输  
-• dexibai - 亏损 (失去)  
+xia - 派系  
+xia islam din - 什叶派  
+xifu - 师傅  
+xikaya - 怨言  
 xim - 心  
-xipe - 湿 (弄湿)  
-• perxipe - 湿透  
-xipostan - 湿地  
+xipi - 湿  
 xir - 诗  
-• xiria - 诗歌  
 xite - 粪 (屎)  
+xiti - 亏损 (失去)  
+xiti bai - 失败  
 xiu - 小  
-xivite - 砾石  
-xiukaboge - 西葫芦  
-Xiva - 湿婆  
+xiu kaboga - 西葫芦  
+xiu seku - 砾石  
+xiva - 湿婆  
 xix - 扦子  
-xixmanse - 串烧  
-xofe - 开车  
-• xofer - 司机  
-xope - 买 (购物, 血拼)  
-xukre - 谢谢  
-xule - 学习  
-• xulia - 教育  
-• xulaje - 课  
-• xulize - 教学  
-• xulizer - 教师 (老师)  
-• xulekan - 学校  
-• xuler - 学生  
-xuloxefe - 校长  
-xure - 开始  
-xute - 技术  
-• xutike - 熟练  
+xix nama - 串烧  
+xofer ja - 司机  
+xopi - 购物 (血拼)  
+xukur - 谢谢  
+xukurta - 谢意  
+xula - 教育  
+xula guru - 教师 (老师)  
+xula ja - 学生  
+xulakan - 学校  
+xula xe - 课  
+xula xefe - 校长  
+xuli - 修理  
+xuli ja - 修理工人  
+xuru - 开始  
+xux - 噓  
 
-##   
+## Y  
 
+ya - 对 (是)  
 ya - 他，她，它  
 yamen - 他们  
 yamen su - 他们的  
-yamimen - 我们  
-yahve - 耶和华 (雅威)  
-• exyam - 野餐  
-yamfite - 蔬菜  
-yamyau - 饥饿  
-• yatimkan - 孤儿院  
-yau - 需要  
-• beyau - 必要的  
-ye - 对 (是)  
-yege - 狩猎  
-• yeger - 狩人  
-yodium - 碘  
+ya su - 他的  
+Yahve - 耶和华 (雅威)  
+yam fito - 蔬菜  
+yam liste - 菜单  
+yam yau - 饥饿  
+yasen - 白蜡树  
+yatim dom - 孤儿院  
+yau di - 必要的  
+yeka kanon - 易经 (周易)  
+yen - 眼睛  
+yen sui gas - 催泪瓦斯  
+yepa - 叶  
+Yesa - 耶稣  
+Yesa Mesi - 耶稣基督  
 yoga - 瑜伽功  
-• yogaiste - 瑜伽士  
+yogo - 轭  
 yogur - 酸奶 (优格)  
-yom - 白天  
 you - 幼稚  
 younen - 幼年  
-yterbium - 镱  
-ytrium - 钇  
-yuge - 轭  
+yung - 融化  
+yung petra - 熔岩  
+yung safa - 熔炼  
+yuter yum - 钇  
+yuterbi yum - 镱  
 
 ## Z  
 
-zai zaman su - 现在的  
-zaitunlipe - 橄榄油  
+zai zaman di - 现在的  
 zaman - 时间  
-zanger - 工匠 (匠人)  
-zarkube - 骰子 (色子)  
+zar kube - 骰子 (色子)  
 zebra - 斑马  
+zeyil - 疣  
 zeze - 双翅目  
+zi - 字  
+zi sili - 字母表  
+zinji - 姜  
 zinke - 锌  
 zira - 孜然  
-zirkonium - 锆  
-zoe - 动物  
-• zoolojia - 动物学  
-zooparke - 动物园  
-zoosikle - 黄道带  
-zootiber - 兽医  
-zongminte - 留兰香  
-zuke - 民族  
-zukam - 感冒  
-zumurude - 绿宝石 (祖母绿)  
-zung - 中心  
-Zungogia - 中国  
-zungxulekan - 中学  
+zirkon yum - 锆  
+zoku - 还 (依然)  
+zoku di - 指针式的  
+zuku - 民族  
+zumarde - 绿宝石 (祖母绿)  

@@ -3,7 +3,7 @@ import csv
 index_head = '''
 <html>
 <head>
-    <title>pandunia lexokarte</title>
+    <title>pandunia lexi a dunia karta</title>
 </head>
 <body>
 <h1>pandunia lexe a dunia karte</h1>
@@ -11,7 +11,7 @@ index_head = '''
 '''
 
 index_tail = '''
-<p>auter: Risto Kupsala, 2022</p>
+<p>autor: Risto Kupsala, 2022</p>
 </body>
 </html>
 '''

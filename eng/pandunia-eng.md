@@ -39,830 +39,914 @@ The sentence **mi fa hure yamen** would mean the same thing but it would include
 ## A  
 
 a - by (at, in, on)  
-a intre - inside  
+a go - there  
+a in - inside  
+a jong - to be centered (amid, in the middle)  
 a ke - where  
-a korte - soon (after a while)  
-a late dike - sideways (laterally)  
-a le - there  
-a line - online  
-a long - long (over a gread distance)  
-a long dure - for a long time  
-a max - also (too, in addition)  
-a mide - among (amid, between)  
-a misal - for example  
-a neu - just (recently)  
-a proxe - nearly (closely, almost)  
-a retre - backward (in reverse)  
-a sababe de - because  
-a sube - under  
-a supre - above (over)  
-a vere - truly (indeed, very)  
-a xukre de - thanks to  
-a zai - presenty (currently, now)  
-a zai den - today  
 a kon - together (jointly, mutually)  
-abe - away  
-abete - fir tree  
-acar - pickle (preserve in vinegar or brine)  
+a late - be beside (accompany)  
+a lin - online  
+a medi - among (amid, between)  
+a min de - except (minus)  
+a neu - just (recently)  
+a ni - here  
+a nice - under  
+a poli mar - often (frequently)  
+a pos - later (after)  
+a ri - again (repeatedly)  
+a sabu de - because  
+a supra - above (over)  
+a vai - outside  
+a vakil de - on behalf of  
+a xukur de - thanks to  
+abies - fir tree  
+acar - pickle  
 acar di - pickled  
+acar hiyar - gherkin (pickle)  
 aci - sneeze (achoo)  
-acinium - actinium  
-ade - habit (custom; ordinary, customary, habitual, normal)  
-adal - just (fair, righteous)  
-adalia - justice  
+acini yum - actinium  
+ada - habit (custom)  
+ada di - ordinary (customary, habitual, normal)  
 adamas - diamond  
+adil - just (fair, righteous)  
+adilkan - court of justice  
+adilta - justice  
 adres - address  
-adresoharfe - at sign (@)  
-afgan - Afghan  
-Afgania - Afghanistan  
-Afrikan - African  
-afrikofilia - Afrophilia  
-afrikofiliste - afrophile  
-Afrike - Africa  
+adres zi - @ symbol  
+Afghan - Afghanistan  
+Afrika - Africa  
 agile - agile  
-agre - cultivate (farm)  
-• agria - agriculture  
-• agrer - farmer  
-agrebiolojia - agrobiology  
-agrenomia - agronomy  
-agrestan - countryside (rural, rustic)  
-agrevilaje - rural village  
-ahe - understand (realize)  
-ai - ouch (ow, alas)  
-ainstainium - einsteinium  
+agresi - attack (assault, aggression, hostility)  
+agresi ja - aggressor  
+agresi tabi - aggressive  
+agri - cultivate (farm)  
+agribiologi - agrobiology  
+agricun - rural village  
+agri di - agricultural  
+agrija - farmer  
+agrinomi - agronomy  
+agristan - countryside  
+agristan di - rural (rustic)  
+agrisuta - agriculture  
+aha - understand (realize)  
 air - air  
-airbaria - atmospheric pressure  
-airbarmetrer - barometer  
-airobike - aerobic  
-anairobike - anaerobic  
-airorde - airforce  
-airoporta - airport (aeroport)  
-ais - ice (freeze; icy, frozen)  
-aishoke - ice hockey  
-aiskrem - ice cream  
-ajibe - marvel (wonder; amaze, astonish)  
-ajibia - awe (wonder)  
-• ajibebil - wonderful (marvel, mirable)  
-• ajibaje - miracle  
+air bio di - aerobic  
+• anair bio di - anaerobic  
+air gun - airforce  
+air porte - airport (aeroport)  
+air prese - atmospheric pressure  
+air prese metre gi - barometer  
+ais - ice  
+ais di - icy  
+ais hoki - ice hockey  
+ais krem - ice cream  
+Aiti - Haiti  
+ajabu - wonder (awe, marvel)  
+ajabu di - amazing (astonishing)  
+ajila - hurry (hasten)  
 akare - tick (mite)  
+akasia - acacia  
 akrabe - scorpion (Scorpio)  
-ale - other (different; differentiate, change)  
-• alo - otherwise (else)  
-alofon - allophone  
-alonamo - that is (in other words, i.e., alias)  
-aloraye - disagree  
-alorayia - disagreement (disconsent)  
-aloromanse - heteroromantic  
-alosexe - heterosexual  
-alosife - different  
-alosifia - difference  
 Alaska - Alaska  
 alga - alga  
-algafung - lichen  
-algajangle - kelp forest  
+alga fungu - lichen  
+alga jangal - kelp forest  
+alkasus - licorice  
 alkol - alcohol  
-• alkoliste - alcoholic (drunkard)  
-alkolmixe - cocktail  
+alkol di - alcoholic  
 almari - cupboard (closet, cabinet, wardrobe)  
+alo - other  
+alo di - otherwise (else)  
+alofa - change (make different)  
+alo fen di - discrete (distinct, separate, quantized)  
+alo fon - allophone  
+alo nam - that is (in other words, i.e., alias)  
+alo rai - disagreement (disconsent)  
+alo romanse di - heteroromantic  
+alo sexe di - heterosexual  
+alo sifa - difference  
+alo sifa di - different  
 alpaka - alpaca  
-aluminium - aluminium  
-aluminmate - alum  
-aluminoxide - alumina (aluminum oxide)  
-ame - love (liking, affection; dear, beloved)  
-• amater - amateur  
-• amike - darling (honey)  
-• amer - lover  
-• aname - dislike (loathe)  
-• anamike - enemy  
-ame letre - love letter  
+alumin - aluminium  
+alumin mate - alum  
+alumin oxide - alumina (aluminum oxide)  
 ama - but (rather)  
-Amare - Amhara (an Ethiopian ethnic group and language)  
-amen - trust (surely, verily, amen)  
-Amerike - America (continent)  
-amerikan - American  
-Amerikan Samoa - American Samoa  
-amerikium - americium  
+ama - love (liking, affection)  
+• anama - dislike (loathe)  
+ama di - dear (beloved)  
+ama ja - lover  
+ama jen - darling (honey)  
+Amara - Amhara (an Ethiopian ethnic group and language)  
+amen - honest (trustworthy, true; surely, verily, amen)  
+amenbil - loyal (faithful, trustworthy)  
+amenbilta - loyalty (faithfulness)  
+amen xin - trust (have faith, rely)  
+amen xin di - trusted  
+Amerika - America (continent)  
+Amerika di - American  
+Amerika Samoa - American Samoa  
+amerika yum - americium  
 amir - order (command)  
-• amiria - emirate  
-• amirer - emir  
-amirhake - authority (power to give orders)  
-amirlin - command line (console, terminal)  
+amir dexa - emirate  
+amir haki - authority (power to give orders)  
+amir ja - emir  
+amir lin - command line (console, terminal)  
 amper - ampere (amp)  
 ampul - ampoule (vial)  
 ancovi - anchovy  
+anda - egg  
 Andes - Andes  
 andesite - andesite  
 Andora - Andorra  
-ange - limb (member, branch)  
 angar - anchor  
-angil - message  
-• angiler - messenger  
-• evangil - gospel (divine message)  
 Angola - Angola  
 angul - finger (toe)  
-angulmarke - fingerprint  
-angulpike - fingertip  
-angulring - finger ring  
-anime - animate (animation, cartoon)  
+angul marke - fingerprint  
+angul pike - fingertip  
+angul ring - finger ring  
+anime - animation (cartoon)  
 anis - anise  
-anis arake - raki  
-ante - cause (make sb. do sth.)  
-Antartike - Antarctica  
-Antartike Hai - Antarctic Ocean  
-anten - antenna (aerial)  
+anis araki - raki  
+anjil - message  
+anjil ja - messenger  
+Antartika - Antarctica  
+Antartika Hai - Antarctic Ocean  
+antena - antenna (aerial)  
 Antigua - Antigua  
 Antigua e Barbuda - Antigua and Barbuda  
-anus - anus (anal)  
+antra - intestines (entrails, guts, bowels, viscera)  
+anus - anus  
+anus di - anal  
 aple - apple  
-aplesaus - applesauce  
-aplike - apply (put to use for a purpose; application)  
+aple sos - applesauce  
+aplika - application  
 aposum - opossum  
-Apsua - Abkhazia  
-ar - area (extent of surface)  
-aria - area (region)  
-arabe - Arabic  
-arabebabul - babul tree (thorny acacia)  
-arake - liquor  
+Apsni - Abkhazia  
+arabi - Arabic  
+arabi babul - babul tree (thorny acacia)  
+araki - liquor  
 arane - spider  
-aranefobia - arachnophobia  
-aranenete - spiderweb (cobweb)  
-arbuze - watermelon  
+arane fobi - arachnophobia  
+arane nete - spiderweb (cobweb)  
+arbuza - watermelon  
 Arcah - Artsakh  
+area - area (region)  
 argente - silver  
-Argentin - Argentina  
+Argentina - Argentina  
 argon - argon  
-argum - argument (rationale, grounds)  
+argu - argument (rationale, grounds)  
 Ariel - Ariel  
-arke - bow (arch, arc)  
-arker - archer  
-arkeria - archery  
-arkocate - vault (arched ceiling or roof)  
-arme - weapon (arms)  
+arka - bow (arch, arc)  
+arka cati - vault (arched ceiling or roof)  
+arka ja - archer  
+arka suta - archery  
 armia - armed forces (army)  
-arome - flavor (aroma)  
-aromu - smell (reek)  
-aromemelon - Korean melon  
-arsene - arsenic  
-arte - art  
-• artiste - artist  
-artebaxe - artistic language (artlang)  
+armi - weapon (arms)  
+aroma - scent (odor, fragrance, aroma)  
+aroma melon - Korean melon  
+arsen yum - arsenic  
+artebaxa - artistic language (artlang)  
 artefete - artifact (artefact; artificial)  
 artefete intelige (AI) - artificial intelligence (AI)  
-Artike - Arctic  
-Artike Hai - Arctic Ocean  
+Artika - Arctic  
+Artika Hai - Arctic Ocean  
 Aruba - Aruba  
-ase - Asian  
-Asia - Asia  
+asal - origin (source)  
+asal Amerka jen - Amerindian (Native American)  
+asal Australia jen - Australian Aboriginal  
+asal di - original (authentic)  
 asan - posture (asana)  
 asar - effect (impact, impression, result, outcome)  
+asia - Asian  
+Asia - Asia  
 askete - ascetic  
-asle - origin (source; original, authentic)  
-aslamerike - Amerindian (Native American)  
-aslaustrale - Australian Aboriginal  
 asma - asthma  
 asparge - asparagus  
-aspirin - aspirin  
-astatium - astatine  
-astre - celestial body  
-astronau - starship  
-• astronaver - astronaut  
-astronomia - astronomy  
-• astronomer - astronomer  
-ate - act (deed)  
-• ation - action  
-• ative - active (working; activate, enable, turn on, trigger)  
-• ativate - activate (turn on)  
-• anative - off (deactivated, disabled, inactive)  
-• ater - agent (doer, actor)  
-• ature - work (product)  
-• deative - deactivate (disable, turn off)  
-• deativate - deactivate (turn off)  
-• dusate - misdeed (sin, vice)  
-• intation - interaction  
-• interate - interact  
-• interative - interactive  
-• reate - react  
-• reation - reaction  
+astatin - astatine  
+astro - celestial body  
+astro nave - starship  
+astro nave ja - astronaut  
+astro nomi - astronomy  
+astro nomi ja - astronomer  
+ati - act (deed)  
 ata - sugar-apple (sweetsop)  
-Atina - Athens  
-Atlante Hai - Atlantic Ocean  
-atlante bakalau - Atlantic cod  
-atlante salmon - Atlantic salmon  
+Athina - Athens  
+• deativi - deactivate (disable, turn off)  
+• deativifa - deactivate (turn off)  
+• dusati - misdeed (sin, vice)  
+• interati - interact  
+• interativi - interactive  
+• reati - react  
+• reation - reaction  
+• ation - action  
+• atir - agent (doer, actor)  
+• ativi - active (working; activate, enable, turn on, trigger)  
+• anativi - off (deactivated, disabled, inactive)  
+• ativifa - activate (turn on)  
+atlanti bakalau - Atlantic cod  
+Atlanti Hai - Atlantic Ocean  
+atlanti salmon - Atlantic salmon  
 atom - atom  
-ave - oat  
+audi - hear (listen)  
+auro - gold  
+Australia - Australia  
+Austronesi - Austronesia  
+auto - self (identity)  
+auto krati - autocracy (monarchy)  
+auto loga - monolog  
+auto move - self-moving (automotive, automobile)  
+auto nomi - autonomy  
+auto nomi di - autonomous  
+autor - author (auteur, independent actor)  
 avakate - avocado  
 avar - damage (injury, harm)  
-• avaraje - wreckage (debris)  
-• avarive - harmful (damaging)  
-aude - hear (listen)  
-auge - augment (increase, rise; boom, peak, apex, zenith, heyday)  
-aure - gold  
-Australia - Australia  
-Austronesia - Austronesia  
-aute - self (identity; personal, intimate, private)  
-• auter - author (auteur, independent actor)  
-autokratia - autocracy (monarchy)  
-autologe - monolog  
-automate - automat  
-automatike - automatic  
-automote - self-moving (automotive, automobile)  
-autonome - autonomous  
-autonomia - autonomy  
-autoreje - independent  
+avar di - damaged (corrupt)  
+avar ja - harmful (damaging)  
+ave - oat  
+axa - hope (wish)  
+axa hin - hopeless  
 axe - axis (axle)  
 Axur - Assur  
-Axuria - Assyria  
-Azerbaizan - Azerbaijan  
+Axur dexa - Assyria  
+ayo - ouch (expressing pain, distress, shock and fear)  
+Azerbaijan - Azerbaijan  
 
 ## B  
 
-ba - sentence-ending particle for commands  
+ba - many (multiple, several)  
 babu - chapter (section)  
 babuce - slipper  
-babul - thorn tree (acacia)  
-bace - child (minor)  
-bade - body (bodily, corporal)  
+babul - thorn tree (acacia, wattle)  
+baca - child (minor)  
+badal - exchange (swap, replace, trade, switch)  
 badam - almond  
-badave - bedouin (nomadic)  
-badle - exchange (swap, replace, trade)  
-bage - bag  
-• bagaje - luggage (baggage)  
+badan - body  
+badan di - bodily (corporal)  
+badavi - bedouin (nomadic)  
+baga - bag  
+bagaje - luggage (baggage)  
+bagi - yard (garden)  
+bagi bele - spade  
 bagre - tiger  
-bagroselote - oncilla  
+bagre oselote - oncilla  
 bah - bah  
-bahaisme - Baha'ism  
-bahaiste - Baha'ist  
+baha din - Baha'ism  
+baha din ja - Baha'ist  
 Bahama - Bahamas  
 Bahrain - Bahrain  
+bai - lose (be defeated)  
+baka - bake  
+baka ja - baker  
+bakakan - bakery (bakehouse)  
+baka poto - terracotta  
 bakalau - cod  
 baku - white  
-bakucoi - bok choy  
-bakumargarite - oxeye daisy  
-bakusalmon - chum salmon  
-bale - strong  
-• balia - force (strength, power)  
-• balekan - gym (fitness center)  
-• anbale - weak (feeble)  
-baloton - accent (stress)  
-balde - bucket  
+baku coi - bok choy  
+baku margarite - oxeye daisy  
+baku salmon - chum salmon  
+baku varis - white rice  
+bala - strong  
+• anbala - weak (feeble)  
+balakan - gym (fitness center)  
+balata - force (strength, power)  
+balaton - accent (stress)  
+baldi - bucket  
 balon - balloon  
-balonpes - pufferfish  
-balute - oak tree  
-balutepal - acorn  
+balon pexe - pufferfish  
+baluta - oak tree  
+baluta frute - acorn  
 bambu - bamboo  
 bamia - okra (okro)  
-ban - board (pane, panel)  
-bangem - board game  
-bana - arrow (bolt)  
-• banafater - fletcher  
-banan - banana  
-bande - band (squad, group)  
-bandir - flag (banner)  
-bangle - Bengali (Bangla)  
-Bangledex - Bangladesh  
-banyakamar - bathroom  
-banke - bank (deposit, save)  
-• bankekan - bank (depository, cache)  
-• banker - banker  
-bankerute - bankrupt (insolvent)  
-bankerutia - bankruptcy (insolvency)  
-banya - bathe (bath)  
-bar - bar (public house)  
-bare - bar (barrier, fence)  
-barium - barium  
-baremur - barrier (barricade)  
+banana - banana  
+banda - band (squad, group)  
+bande - band (tape, bandage)  
+bandera - flag (banner)  
+bangla baxa - Bengali language (Bangla)  
+Bangla dexa - Bangladesh  
+banka - save (deposit, bank)  
+bankakan - bank (depository, cache)  
+bankar - banker  
+bankarute - bankrupt (insolvent)  
+bankaxefe - bank manager  
+bano - board (pane, panel)  
+bano gem - board game  
+banya - bath  
+banya kamar - bathroom  
+bar - bar  
+bara - bar (obstruct, block)  
+bara mur - barrier (fence)  
 Barbados - Barbados  
 barbar - barbarian  
 Barbuda - Barbuda  
 barde - beard  
-barke - congratulate (bless; congratulation, benediction)  
-barkoke - apricot  
-barte - Indian  
-Barte Hai - Indian Ocean  
-Bartia - India  
+bari - heavy (requiring much effort, hard, difficult, serious, important, etc.)  
+bari metal - heavy metal  
+bari yum - barium  
+barka - congratulations! (blessing, benediction)  
+Barti - India  
+barti - Indian  
+Barti Hai - Indian Ocean  
 baru - bear  
 barude - gunpowder  
-barxe - rain (precipitation)  
-barxecate - umbrella  
-barxekote - raincoat  
-barxemosim - rainy season (monsoon)  
 bas - enough (sufficient)  
-basen - pool (basin)  
+basen - pool (basin, bowl)  
 baske - basket (basketball hoop)  
-baskebol - basket ball  
-bate - eight (8)  
-batosenter - octopus  
+baske bol - basket ball  
 bata - duck  
-batakrote - platypus  
-batre - battery  
-bau - treasure (valuables; precious)  
-bavite - gem (gemstone, jewel)  
-baxe - language (tongue)  
-• dubaxike - bilingual  
-• konbaxe - common language  
-• polibaxike - multilingual  
-• trabaxe - translate (interpret; translation, interpretation)  
-• trabaxer - interpreter (translator)  
-• unebaxike - monolingual  
-baxekanun - grammar  
-baxelojia - linguistics (study of language)  
-• baxelojer - linguist  
-baze - base (foundation, bottom; basic; base on, found)  
-• bazike - basic  
-• bazer - founder  
-bazebol - baseball  
-bazekanun - consitution  
-bazepetre - bedrock  
+bata krote - platypus  
+bati - eight (8)  
+batri - battery  
+bau - treasure (valuables)  
+bau di - precious  
+bau seku - gem (gemstone, jewel)  
+baxa - speak (talk, language, communication)  
+• dubaxaka - bilingual  
+• konbaxa - common language  
+• polibaxaka - multilingual  
+• trabaxa - translate (interpret; translation, interpretation)  
+• trabaxar - interpreter (translator)  
+• unbaxaka - monolingual  
+baxa jinse - grammatical gender  
+baxakanun - grammar  
+baxakanun di - grammatical  
+baxalogi - linguistics  
+baya - bay (gulf)  
 bazestrute - intrastructure (underbuilding)  
-bazexulekan - primary school (elementary school, gradeschool)  
 bazar - market (bazaar)  
-bazarhurisme - market liberalism  
+bazar huru sim - market liberalism  
+baze - base (foundation)  
+baze bol - baseball  
+baze di - basic  
+baze ja - founder  
+bazekanun - consitution  
+baze petra - bedrock  
+baze xulakan - primary school (elementary school, gradeschool)  
 be - undergo (passivizing verb)  
+be ais - freeze (get frozen)  
+be ajabu - wonder (be amazed)  
+be an zai - disappear (vanish)  
+be biomute - ferment (leaven)  
+be boi - float (swim)  
+be boli - boil (be boiled)  
+be bum - explode (blow up)  
+be cen - predate (be before)  
+be dai - grow (get bigger, inflate, swell)  
+be dara - flow  
+be dom - live in (reside in, inhabit)  
+be duka - grieve  
+be dur - last (take time; during)  
+be estasi - stand still  
+be fatige - get tired (become weary)  
+be fen - split (fall apart, divide, separate)  
+be fin - end  
+be fobi - fear (be afraid)  
+be gamo - feel  
+be gas - gasify (vaporize)  
+be gau - rise (go up)  
+be gau darja - level up (graduate)  
+be gene - be born  
+be ging - align (go along)  
+be halte - stop (halt)  
+be hapu - fit (suit, be suitable)  
+be harabu - crash (shut down, terminate)  
+be hogo - burn (be burned)  
+be in - enter (get in)  
+be in bum - implode (collapse)  
+be islam - surrender (submit, yield)  
+be jaga - wake (become awake)  
+be jin - advance (progress, go forward, enter)  
+be kai - become open  
+be karibu - approach (get near)  
+be kino - move oneself  
+be krus - cross (go across)  
+be kux - lie (lie down)  
+be laxe - stay behind (linger)  
+be loka - be located (lie, be situated)  
+be mal - belong  
+be mata - die  
+be max - exceed (be greater than)  
+be migra - move (migrate, relocate oneself)  
+be min - subceed (be less than)  
+be mirde - fade  
+be nam - be called (be named)  
+be nice - go under  
+be par - equal  
+be pasi - suffer (get hurt)  
+be pute - decay (rot, deteriorate)  
+be raste - grow (grow up, expand)  
+be razon - make sense  
+be reste - remain (stay)  
+be retro - return (get back)  
+be rota - rotate (spin, turn on an axis)  
+be rupa - seem  
+be rute galte - stray (deviate)  
+be sabi vol - wonder (be interested in, would like to know)  
+be sam rupa - resemble (be like)  
+be sel - should (ought)  
+be sona - sleep  
+be suka - like (enjoy, be fond of)  
+be supra - surpass (go over)  
+be tam - covet  
+be tele loka - teleport  
+be teza - intensify  
+be turbe - be bothered by (bother to, take the trouble to)  
+be vai - exit (get out)  
+be vanu - enjoy (play)  
+be vide - be seen  
+be xuru - begin (get started)  
+be yung liga - merge (fuse)  
+be zai - appear  
 bebe - baby (infant)  
+bebe bede - crib  
 bede - bed  
-bedinje - eggplant (aubergine, brinjal)  
-bege - escape (flee, run away)  
+bedinjan - eggplant (aubergine, brinjal)  
+bega - escape (flee, run away)  
+behe - goat  
 Beijing - Beijing (Peking)  
-beke - bake  
-bekefange - terracotta  
-bekekan - bakery (bakehouse)  
-beker - baker  
 bel - bel (unit)  
-bele - fight (war)  
-• belente - belligerent (warring)  
-• belike - bellicose (warlike)  
-• belikisme - bellicism  
-• rebele - rebel  
-• rebelion - rebellion  
-• rebeler - rebel  
 Belarus - Belarus  
-belce - shovel (spade, scoop)  
-Belgia - Belgium  
+bele - shovel (spade, scoop)  
+Belgi - Belgium  
 Belize - Belize  
 ben - child (offspring)  
-benben - grandchild  
-bence - bench  
-bende - bind (tie, fasten; band, bandage)  
+ben ben - grandchild  
+bennan - son  
+benni - daughter  
+benci - bench  
 Benin - Benin  
 benzin - gasoline (petrol)  
-beranda - veranda (balcony, terrace, porch)  
-berete - beret  
+bere - beret  
 beri - berry  
-berilium - beryllium  
-berkelium - berkelium  
+beril yum - beryllium  
+berkli yum - berkelium  
 Berlin - Berlin  
 Bermuda - Bermuda  
 bete - beetroot  
 beton - concrete (material with cement)  
 betula - birch tree  
-bie - organism (organic life)  
-biocaniver - compost  
-bioginse - biological sex  
-biokimia - biochemistry  
-biolojia - biology (study of organic life)  
-biomute - ferment (leaven)  
-biosistem - biome  
-biotoxe - toxin  
-bible - Biblical  
-biblia - Bible  
+Biblia - Bible  
+Biblia di - Biblical  
 bibre - beaver  
-bil - can (be able; ability, possibility; able, possible)  
-bil e - maybe (perhaps, possibly)  
+bici - whip  
+bil - possible (able, can)  
+bil ja - capable (talent, skillful)  
+bil si - maybe (perhaps)  
+bilta - ability  
 bilor - crystal  
-bine - build (building)  
-• konbine - combine  
-binite - brick  
-bineplania - architecture  
-bineplaner - architect  
-binde - dot (spot)  
-bing - jar (vase)  
+bina - building (structure)  
+• konbina - combine  
+bina plan - architecture  
+bina plan ja - architect  
+bindu - dot (spot)  
+bio - life (organic)  
+biojinse - biological sex  
+biolaji - biowaste  
+biologi - biology (study of organic life)  
+biomute di - fermented  
+biosana xe - compost  
+biosistem - biome  
+biotoxi - toxin  
+bioxe - organism (living thing)  
 bir - beer  
 birkan - bar (pub, beer house)  
-bis - genderqueer (non-binary)  
 Bisau Ginia - Guinea-Bissau  
 biskute - biscuit (cookie)  
 bismute - bismuth  
 bison - bison  
-bizar - odd (strange, weird)  
 biznes - business (commercial activity)  
-bizneser - businessperson (businessman)  
+biznes ja - businessperson (businessman)  
 blabla - chat (babble)  
 blablakan - chat room  
 bloge - blog (web log)  
+bobo - fool (buffoon)  
+boce - boxing  
+bocepante - boxer shorts (boxers)  
+bocer - boxer  
 boi - float (buoy, bobber)  
-boipuntenumbe - floating point number  
+boi punte nume - floating point number  
 boikote - boycott  
 boing - bounce  
 boka - mouth  
-bokacate - palate  
+bokacati - palate  
 bokavele - velum  
-bokse - boxing  
-bokser - boxer  
-bokserpante - boxer shorts (boxers)  
 bol - ball  
 Bolgaria - Bulgaria  
+boli - boil (cook)  
+boli varis - cooked rice  
 Bolivia - Bolivia  
 bolte - bolt  
-bombe - bomb  
+bomba - bomb  
 bon - good  
+bon darja - upgrade (level up)  
+bon guste di - delicious (yummy)  
+bon max xe - bonus  
+bon moral - virtue (morals)  
+bon moral di - virtuous  
+bon rai - approve  
+bon sifa di - excellent  
+bon sifata - excellence (quality, virtue)  
+bon sin di - auspicious (promising)  
+bon vide di - beautiful (handsome, good-looking)  
 bon zar - good luck  
-konbone - match (fit, suit, go well together)  
-• ribone - repair (fix, mend)  
-• riboner - repairer  
-bore - bored  
-boria - boredom  
-borium - bohrium  
+bor yum - bohrium  
+bori - boredom  
+bori di - bored  
 boron - boron  
-Bosnia e Hercegovina - Bosnia and Herzegovina  
-Botia - Tibet  
+Bosna e Hercegovina - Bosnia and Herzegovina  
+Bote - Tibet  
 botel - bottle  
-brave - brave (gallant, valiant)  
-brave - bravo!  
-brauze - explore (browse)  
-brauzer - explorer (browser)  
+Brahma - Brahma  
+brauza - explore (browse)  
+brauza gi - browser  
+bravo - brave (gallant, valiant)  
+bravo - bravo!  
 Brazavil - Brazzaville  
 Brazavil Kongo - Congo (Brazzaville)  
 Brazil - Brazil  
-Britania - United Kingdom  
-bromium - bromine  
-brox - brush  
-broxkalam - inkbrush (calligraphy brush)  
-brun - brown  
-brunalge - brown algae  
-brunsalmon - brown trout  
+briko - apricot (plum, peach)  
+Britan - United Kingdom  
+brom - bromine  
+broxa - brush  
+broxa kalam - inkbrush (calligraphy brush)  
+brun varis - brown rice  
 Brunei - Brunei Darussalam  
+brus - sibling (brother or sister)  
+brusben - nephew or niece  
 bu! - boo!  
 bubu - bogeyman  
-buce - butcher (slaughter)  
-• bucekan - abattoir (slaughterhouse)  
-• bucer - butcher  
-bude - realize (realization, awareness, enlightenment, bodhi; aware, enlightened)  
-• budisme - Buddhism  
-• budiste - Buddhist  
-• mesbude - misunderstand  
+buca - butcher  
+buca ja - butcher  
+bucakan - abattoir (slaughterhouse)  
 Buda - Buddha  
-Budapext - Budapest  
+Buda din - Buddhism  
+Buda din ja - Buddhist  
+Budapexte - Budapest  
+budi - realization (awareness, enlightenment, bodhi)  
+budi di - aware (enlightened)  
 bufete - buffet (smorgasbord)  
-bufon - fool (buffoon)  
-bugete - budget  
-buyu - baobab  
-buke - book  
-bule - boil (cook)  
+bujete - budget  
+buku - book  
 bulbul - nightingale  
-bum - explosion (blast; explode, blow up)  
-burge - castle (fortress, stronghold)  
+bum - explosion (blast, eruption)  
+burge - fortress (castle, fort, stronghold)  
 Burkina Faso - Burkina Faso  
 buro - office (bureau)  
-• buro di - official (formal, bureaucratic)  
-• burokratia - bureaucracy  
-burorite - etiquette (protocol, procedure)  
+buro di - official (formal, bureaucratic)  
+buro ja - secretary (clerk)  
+buro ja grupe - secretariat  
+burokan - office (room)  
+buro krati - bureaucracy  
+buro riti - etiquette (protocol, procedure)  
 bus - bus  
 bus halte - bus stop  
 buste - bust (bosom)  
-bute - boot  
+buta - boot  
 buton - key (push-button, switch)  
-butonban - keyboard  
-buzi - goat  
+buton bano - keyboard  
+buyu - baobab  
 
 ## C  
 
-cabe - key  
-Cadia - Chad  
+gata a caku - cut with a knife  
+cade - Chad  
 cai - tea  
+cai camaca - teaspoon  
 caikan - tea house  
-caikupe - tea cup  
-caipote - teapot  
-cakre - wheel  
+cai kupa - tea cup  
+cai pote - teapot  
+cakra - wheel  
 caku - knife  
-cakukate - cut  
 camaca - spoon  
 campion - champion  
-can - produce (create, make)  
-• cania - production  
-• canive - productive (fertile)  
-• canivaje - fertilizer  
-koncanisme - communism  
-koncaniste - communist  
-can hua - blossom (bloom)  
-cang - layer (level, storey, floor, stratum, tier)  
+cana - moment (while)  
 canse - opportunity (chance)  
-cante - sing (song, chant)  
-cantergrupe - choir (chorus)  
-cape - print (stamp, press)  
 capati - flatbread (chapati, roti)  
+cape - print (stamp)  
 carme - charm (attraction)  
-cate - roof  
-catre - four (4)  
-catrogalope - gallop  
-catrogone - square (tetragon)  
-cau - grass  
-caukitabe - grass script (calligraphic cursive writing)  
-caustan - grassland (prairie)  
-Cehia - Czech Republic  
+cati - roof  
+cavi - key  
+ceke - examine (inspect, check)  
 ceke - cheque (check)  
-cel - cell (biology)  
-celolojia - cytology  
-celsius darge - degree Celsius  
-ceng - mature (grown-up, ripe, adult)  
-cengjen - adult  
-cengnan - man (adult male)  
-cengni - woman (adult female)  
-cense - censor  
-• censer - censor  
+celsius darja - degree Celsius  
+cen - earlier (before, in the past)  
+cen den - yesterday  
+cen di - previous (fore)  
+cen ding - default (preset, predecided)  
+cen fixe - prefix  
+cen gar - assume (presuppose)  
+cen vide - expect (anticipate, predict, forsee)  
+cen vide di - expected  
+• ancen vide di - unexpected  
+cen yang di - classic (classical)  
+cen zaman - past times  
+cen zaman di - old (ancient, former)  
+cen zaman xe - relic  
+ceng - layer (level, storey, floor, stratum)  
+ceng bede - bunk bed  
 cepe - catch (capture, take, seize)  
-• cepure - capture (seizure)  
 • acepe - accept (get, receive)  
 • decepe - snatch (remove)  
 • excepe - except (take out; save)  
 • intercepe - intercept (snatch)  
 • koncepe - conceive (take together; concept)  
 • recepe - take back  
-• recepion - reception  
 • receper - receiver (receptor)  
 Ceres - Ceres (dwarf planet)  
-ceresium - cerium  
+ceres yum - cerium  
 ceri - cherry  
-Cernagore - Montenegro  
+cernagora - Montenegro  
 cese - pass (go)  
 • acese - access (admission; reach)  
 • decese - pass away (die; deceased)  
 • precese - precede (pass before)  
 • procese - process (proceed, go forward)  
-• procesor - processor  
+• proceser - processor  
 • recese - recede (retreat)  
-• recesion - recession  
 • sucese - succeed (go well, prosper)  
-cesium - caesium  
-cete - seven (7)  
-• cetime - seventh  
-cetoden - week  
-Cile - Chile  
+cesi yum - caesium  
+ceska - Czech Republic  
+ceti - seven (7)  
+cetiden - week  
+cile - Chile  
 cili - pepper (capsicum)  
-cilifun - paprika  
-cimpanze - chimpanzee  
+cili fun - paprika  
+cimpanzi - chimpanzee  
 cin - parent (mother or father)  
-cinbrusben - cousin  
-cincin - grandparent  
-cingam - step-parent  
-cingamben - step-sibling  
-cinma - grandmother  
-cinpa - grandfather  
-cina - Han Chinese  
-cina manter - mandarin  
-cinacosen - Sino-Korean  
-cinanipon - Sino-Japanese  
-cinaviete - Sino-Vietnamese  
-cincile - chinchilla  
+cin brus ben - cousin  
+cin cin - grandparent  
+cin gam - step-parent  
+cin gam ben - step-sibling  
+cin ma - grandmother  
+cin pa - grandfather  
+cincila - chinchilla  
+cing - request (petition)  
 cing - ask (request, beg, plead; please)  
 cing lai - invite  
-Cipia - Albania  
-cire - tear (rip, split)  
-circire - tear up (tatter, shred)  
-cirtexe - rag (tattered cloth)  
-cite - quote (cite)  
-citemarke - quotation mark  
+cini - porcelain (chinaware)  
+cipe - Albania  
+cira - tear (rip, split)  
+cira cira - tear up (tatter, shred)  
+cira cira di - tattered (ragged, torn)  
+cira tela - rag (tattered cloth)  
 cita - cheetah  
-code - fuck (copulate)  
-• codekan - whorehouse  
+cize - cheese  
+coda - fuck (copulate)  
 coi - greens  
 coklate - chocolate  
-coklategana - chocolate bar  
-Congking - Chongqing  
-cope - hoe (hack, tool for chopping)  
-core - steal (theft)  
-• corer - thief  
-Cosen - Korea  
+coklatekane - chocolate bar  
+congcing - Chongqing  
+copu - hoe  
+cori - theft  
+cori ja - thief  
+cosen - Korea  
+cosen di - Korean  
 Cuana - Botswana  
-cuke - touch  
+culi - process (handling, treatment, procedure)  
 cum - kiss  
-cupe - suck (absorb)  
-cute - leave (go out, exit)  
-cutemun - exit door  
-cuze - choose (elect, select, pick; choice, election, selection)  
-• cuzebil - option (choice)  
-• precuze - default (preset, predecided)  
-cuzeliste - menu (catalog)  
+cun - village  
+cupu - suck (absorb)  
+cuti - exit (leaving)  
+cuti mun - exit door  
+cuze - choice (election, selection)  
+cuze liste - menu (catalog)  
+cuze xe - option (choice, preference)  
+cuze yo gol - destine (set)  
 
 ## D  
 
-dadaisme - dadaism  
+da - give  
+databi - generous (open-handed)  
+daxe - gift  
+daxeceke - gift certificate (gift card)  
 dai - big (great, large)  
-• dayia - greatness (largeness)  
-• dayude - size  
-dayangilkan - embassy  
-dayangiler - ambassador  
-daidarge - amplify (scale)  
-daidom - palace (mansion)  
-daihai - ocean  
-dayite - boulder  
-dailasun - giant onion  
-daipau - gun (cannon)  
-daipaver - cannoneer  
-daipote - cauldron  
-dairive - torrent  
-daisite - big city  
-daixulkan - university  
-dake - cover (conceal; lid, cap, deck)  
-• andake - uncover (reveal)  
-dam - dark (dim)  
+dai anjil ja - ambassador  
+dai anjilkan - embassy  
+dai dara - torrent  
+dai darja - amplify (scale)  
+dai dom - palace (mansion)  
+dai hai - ocean  
+dai lasun - giant onion  
+dai pau - gun (cannon)  
+dai pau ja - cannoneer  
+dai pote - cauldron  
+dai seku - boulder  
+dai siti - big city  
+daita - size  
+dai xulakan - university  
+dai zi - capital letter (upppercase letter)  
+daka - cover (lid, cap, deck)  
+• andaka - uncover (reveal)  
+dalil - proof (evidence, proof, demonstration, testimony)  
+dalil dokumen - certificate  
 dama gem - checkers (draughts)  
-dane - Danish  
-Dania - Denmark  
-dane - seed (semen)  
-• danike - seminal  
-dangrane - seed (fertilized grain)  
-dang - bell (ring, toll, clang)  
+dan - rank (grade, dan)  
+dana - particle (grain, bullet)  
+dana sekur - bulletproof  
+dang - ring (toll, clang)  
+dang gi - bell  
 danse - dance  
+Danske - Danish  
+Danske dexa - Denmark  
 dante - tooth  
-dantebalute - daimyo oak  
-dantebrox - tooth brush  
-dantekume - alveolar ridge (gum ridge)  
-dantetiber - dentist  
-dar - flow (current, stream)  
-• daria - river (stream)  
-dartube - funnel  
-darge - step (degree, rank, grade, level, class)  
-• dusdarge - downgrade  
-• sudarge - upgrade (level up)  
-dargemeden - gradient (gradation, incline)  
-dargemute - development  
-darmesitium - darmstadtium  
-darte - soil (dirt; soily, dirty)  
-darvinisme - Darwinism  
-darviniste - Darwinist  
-date - data (numeric information)  
-• dataje - file (record, collection of data)  
-datebanke - database (databank)  
-datefenkate - data analysis  
-dateprocese - data processing  
-dateproceselojia - computer science  
-datetable - data table (matrix)  
+dante baluta - daimyo oak  
+dante broxa - tooth brush  
+dante dava ja - dentist  
+dante hin - toothless  
+dantekumu - alveolar ridge (gum ridge)  
+dara - flow (current, stream)  
+dara mate - liquid  
+dara mate di - fluid (liquid)  
+dara tubo - funnel  
+darba - strike (punch)  
+darja - step (degree, rank, grade, level, class)  
+darja di - gradual  
+darja medan - gradient (gradation, incline)  
+darja mute - development  
+darmestadi yum - darmstadtium  
+darte - soil (dirt)  
+darte bon ja - fertilizer  
+darte di - soily (dirty)  
+darvin sim - Darwinism  
+darvin sim ja - Darwinist  
+data - data (numeric information)  
+data banke - database (databank)  
+data culi - data processing  
+data culilogi - computer science  
+data fen gata - data analysis  
+data table - data table (matrix)  
 dau - way (road)  
-• davisme - Taoism (Daoism)  
-• daviste - Taoist  
-dauban - road sign  
+dau bano - road sign  
+dau din - Taoism (Daoism)  
+dau din ja - Taoist  
+dava - heal (cure, treat, remedy)  
+dava ja - doctor (medic, physician, healer)  
+davalogi - medicine (field of study)  
+dava sui - potion  
+dava xe - medicine (drug, medication)  
+dava xekan - drugstore (pharmacy)  
+dava xelogi - pharmacology  
 de - of (attributive preposition)  
 de - from (since, because)  
-defe - defend (ward off; defense, defence)  
-defekaske - armor (shielding)  
-• defer - defender  
-defeban - shield  
-dege - get (gain, obtain, receive)  
-deger - getter (receiver, recipient)  
+defa - defense (defence)  
+defa bano - shield  
+defa ja - defender  
+defa kaska - armor (shielding)  
 Deimos - Deimos  
-deke - morality (ethics; moral)  
-• dekelojia - ethics  
-• sudeke - virtue (morals)  
 dele - wait (delay)  
-deme - people (population; public)  
-demogider - demagogue  
-demografia - demography  
-demokrate - democratic  
-demokratia - democracy  
-demokratiste - democrati  
-demomultia - population  
+dele do - wait for  
+demi - people (population)  
+demi di - public  
+demi grafi - demography  
+demi krati - democracy  
+demi krati di - democratic  
+demi krati ja - democrat  
+demi multita - population  
 demon - demon  
 den - day (24 hours)  
-• denike - daily  
 den un - Monday  
 den du - Tuesday  
 den tri - Wednesday  
-den catre - Thursday  
-den pente - Friday  
-den sixe - Saturday  
-den cete - Sunday  
-des - ten (10)  
-deskilo - ten thousand  
-dessixike - hexadecimal  
+den nelu - Thursday  
+den lima - Friday  
+den luka - Saturday  
+den ceti - Sunday  
+den loge - diary (daily log)  
+des - ten (deca-, 10)  
+des kilo - ten thousand  
 desen - drawing (design)  
-desi- - deci-  
-desibel - decibel  
+desi - deci-  
+desi bel - decibel  
 detal - detail  
 deu - god (deity)  
-• deve - divine (godly)  
-• devisme - theism  
-• dusdevisme - dystheism (maltheism)  
-• pandevisme - pantheism  
-• polidevisme - polytheism  
-• undevisme - monotheism  
-• deviste - theist  
-• andeviste - atheist  
-• deukratia - theocracy  
-• deulojia - theology  
-• eudevisme - eutheism  
-undevisme - monotheism  
-deunagre - Devanagari alphabet  
-deusage - myth (divine story)  
-deusofia - theosophy  
-dike - direct (point, aim; direction; target, objective)  
-• dikion - pointing (indication, deixis)  
-• diker - pointer (director)  
-• indike - indicate (point into)  
-dikegana - teacher’s pointer  
-dikive pronam - demonstrative pronoun  
+deu di - divine (godly)  
+deu din - theism  
+deu din ja - theist  
+deu kata - myth (divine story)  
+deu krati - theocracy  
+deulogi - theology  
+deu nagar zi - Devanagari alphabet  
+• andeu sim ja - atheist  
+deu sofi - theosophy  
+dexa - country (land, state)  
+dexa jen - citizen  
+di - attributive postposition  
+dia - day (daytime)  
+dia foto - daylight  
+dia yam - lunch  
+dika - direct (point, aim; direction; target, objective)  
+• indika - indicate (point into)  
 din - religion (worship)  
-• diniste - believer (religious person)  
-• andiniste - unbeliever (infidel)  
-dinguru - priest (cleric)  
+din di - religious  
+din guru - priest (cleric)  
+din ja - believer (religious person)  
+• andin ja - unbeliever (infidel)  
+din xia - sect (cult)  
 dinamite - dynamite  
 dinde - turkey  
-ding - nail (spike)  
+ding - determined (fixed, certain, definite, particular, specific)  
+• anding - indeterminate (uncertain, indefinite, undecided)  
+dingi - nail (spike)  
+dino saur - dinosaur  
 Dione - Dione  
 diorite - diorite  
 dipe - low (short, bottom)  
-• dipife - lower (put down)  
-dipemoke - bush (shrub)  
-dise - disperse (spread out, scatter; sparse)  
+dipe darja - level down  
+dipe megi - fog (mist, haze)  
+dipe moka - bush (shrub)  
+dipe tela - carpet (rug)  
 diske - disc (disk)  
-disprosium - dysprosium  
-dite - dictate  
-• ditater - dictator  
-• ditateria - dictatorship  
-• dition - saying (diction)  
-• ditionar - dictionary (collection of sayings)  
-• kontredite - contradict   
-• predite - predict (foretell)  
-• predition - prediction  
-Divehia - Maldives  
+disprosi yum - dysprosium  
+divan - mad (insane, crazy)  
+divanta - madness (insanity)  
+Divehi - Maldives  
+dixa - direction  
+dixa di - directly  
+do - to (toward, till, until, for)  
+do in - inward (internal)  
+do jin - forward  
+do long - long (over a gread distance)  
+do misal - for example  
+do vai - outward (external)  
+dobe - brick  
 Doice - Germany  
-doice - German  
-doke - prove (demonstrate, show, instruct)  
-• dokaje - doctrine (body of teachings)  
-• dokente - docent  
-• dokemen - document (paper used as a proof)  
-• doker - doctor  
-dokum - document (record, file)  
-dokumfilme - documentary film  
-dokumsanduke - folder (directory)  
+doice di - German  
+dokumen - document (record, file)  
+dokumen filme - documentary film  
+dokumen sanduku - folder (directory)  
 dolar - dollar  
 dolfin - dolphin  
-dom - home (house, residence; reside, live in, inhabit)  
-• domike - domestic  
-• domine - dominate  
-• domination - domination (dominion)  
-• dominente - dominant  
-• dominia - domain (dominion)  
-• dominer - dominator  
-• domize - accommodate  
-domzeze - housefly  
-Dominikan Vakilkratia - Dominican Republic  
+dom - home (house, residence)  
+dom dexa - homeland  
+dom di - domestic (tame)  
+dom zeze - housefly  
 Dominika - Dominica  
-domino - dominoes  
-done - give  
-• donaje - gift (present)  
-• donive - generous (open-handed)  
-• sudone - charity (alms)  
-donajoceke - gift certificate (gift card)  
+Dominika Vakilkrati - Dominican Republic  
+domino gem - dominoes  
 dong - east (orient)  
-• dongike - eastern  
+dong di - eastern  
+dong gorila - eastern gorilla  
 Dong Timor - East Timor (Timor-Leste)  
-donggorila - eastern gorilla  
-dos - fault (sin, blame, defect, guilt)  
-dose - guilty  
-doste - friend (friendly, kind, nice, gentle)  
-• dostia - friendship  
-• andoste - enemy (unfriend; unfriendly)  
+donjon ventur - dungeon crawl  
+dosil - tame (docile, obedient)  
+dosil gene di - domesticated  
+dosti - friend  
+• andosti - enemy (unfriend)  
+dosti di - friendly (kind, nice, gentle)  
+dosti hin - friendless  
+dostita - friendship  
 dotor - doctor (scholar who has attained doctorate)  
-dotoria - doctorate  
+dotorta - doctorate  
 dou - bean or pea (legume)  
+doxa - fault (sin, blame, defect, guilt)  
+doxa di - guilty  
 doze - portion (dose)  
-drame - drama  
-dramironia - dramatic irony  
-Drugia - Bhutan  
+drama - drama  
+drama ironi - dramatic irony  
+droge - drug (intoxicating substance)  
 du - two (2)  
-• duime - second (2nd)  
-• duple - double (twofold)  
+du baxa di - bilingual  
+du grafi di - anaglyphic (stereoscopic)  
 du mar - twice  
+dume - second (2nd)  
 du o tri - a couple of  
-dufene - halve (divide by two)  
-dugrafe - anaglyphic (stereoscopic)  
-duisme - dualism  
-dupleseme - double entendre  
-duromanse - biromantic  
-dusexe - bisexual  
-dusonike - stereophonic  
-dua - pray (beg, entreat, implore; prayer)  
+duple - double (twofold)  
+du romanse di - biromantic  
+du semi di - double entendre  
+du sexe di - bisexual  
+du soni di - stereophonic  
+du xe sim - dualism  
+dua - prayer  
 • dusdua - curse (damn, malediction)  
-dubnium - dubnium  
-duge - read  
-duke - grief (sorrow, sadness; sad; grieve)  
+dubna yum - dubnium  
+dudu - insect  
+duka - grief (sorrow)  
+duka di - sad  
+duku - read  
 duman - smoke  
-dunia - world  
-dunia baxe - world language  
 duna - dune  
-dunjia aventur - dungeon crawl  
-dur - last (take time; elapse, pass by, go by; during; duration, time interval)  
-• dura - continue (go on, keep on, carry on)  
-• duro - still (yet, continuously)  
-• durebil - durable (endurable, sustainable)  
-• durike - chronic (lasting)  
-• durize - pass (spend time, put time into)  
-• redure - continue (resume)  
-• undure - continuous (analog)  
-duremetrer - stopwatch  
-durezam - period (era, epoch, term)  
+dunia - world  
+dunia baxa - world language  
+dunia di - global  
+dur - duration (time interval)  
+durbil - durable (endurable, sustainable)  
+dur di - chronic (lasting)  
+dur metre gi - stopwatch  
+dur zaman - period (era, epoch, term)  
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
+dus darja - downgrade  
+dus deu sim - dystheism (maltheism)  
+dus forma di - malformed (deformed, disfigured)  
+dus funsi - dysfunction (malfunction)  
+dus hal - hardship (difficulty, challenge)  
+dus jen - enemy (foe, villain)  
+dus karma - misdeed (sin, vice)  
+dus nam - insult (offense)  
+dus rai - disapprove (frown upon)  
+dus sin di - ominous (foreboding)  
+dustopia - dystopia  
+dus vide - ugly (unsightly)  
 dus zar - misfortune (bad luck)  
+dute - doubt (disbelief)  
 dute - lead (bring to)  
 • dedute - deduce (lead from)  
 • dedution - deduction  
@@ -870,2202 +954,2319 @@ dute - lead (bring to)
 • kondute - conduct (lead together)  
 • konduter - conductor (director)  
 • produte - produce (lead forward)  
-• produtaje - product  
-• produter - producer  
 • posprodute - post-production  
+• produter - producer  
 • redute - reduce (lead back, take back)  
-duxe - shower  
+dutebil - dubious (suspicious, unbelievable)  
+dute ja - doubtful (suspicious, disbelieving)  
+dux - shower  
 
 ## E  
 
 e - be  
-si ham - matter (be important)  
-eglis - church  
+eja - being (entity)  
+eglisa - church  
+einstein yum - einsteinium  
 Eire - Ireland  
-eke - environmental (natural)  
-ekia - environment (nature)  
-ekogene - wild (savage)  
-ekolojia - ecology (study of environment)  
+eko - environment (nature)  
+eko di - environmental (natural)  
+eko gene di - wild (savage)  
+ekologi - ecology (study of environment)  
 ekore - squirrel  
 ekran - screen  
 Ekuador - Ecuador  
-eletre - electricity  
-• eletrike - electric  
-• eletrolojia - electronics  
-• eletron - electron  
-eletregar - electric car  
-eletroposte (e-poste) - e-mail  
-eletrorade - lightning bolt  
+elasti - elastic  
+eletro - electricity  
+eletro di - electric  
+eletro lin - cable (wire, line)  
+eletro posta (e-posta) - e-mail  
+eletro radi - lightning bolt  
+eletron - electron  
 elfe - elf  
-eme - element (the simplest unit)  
-emote - feel (emote)  
-• emotion - emotion (feeling)  
-• emotos - emotional (emotive)  
-emotohal - mood (emotional state)  
-emotikon - emoji (smiley, emoticon)  
 Enceladus - Enceladus  
-energe - energy  
-engle - English  
-Englia - England  
-englofiliste - anglophile  
-englofone - anglophone (English speking)  
-englokitabe - anglicize  
-englomargarite - English daisy  
-enjener - engineer  
+energi - energy  
+Englix - England  
+englix di - English  
+englix fili ja - anglophile  
+englix fon di - anglophone (English speking)  
+englix margarita - English daisy  
+enjenir - engineer  
 enzim - enzyme  
-erbium - erbium  
+erbi yum - erbium  
 Eris - Eris (dwarf planet)  
-Eritria - Eritrea  
-ese - exist  
-• esente - being  
-• esentia - essence  
-• esential - essential  
-esive - essive case  
-eser - being (entity)  
-• aesive - adessive case  
-• abesive - abessive case  
-• exese - exist (be out there)  
-• inesive - inessive case  
-esei - essay  
-Espania - Spain  
-espanofone - hispanophone (Spanish speaking)  
-esperante - Esperanto  
-Estia - Estonia  
+Eritra - Eritrea  
+esai - essay  
+eskale - stairs (ladder)  
+• aneskale - get off (descend)  
+eskale tana - vine  
+eskandi yum - scandium  
+Eskandinavia - Scandinavia  
+Eskote - Scotland  
+eskulte - sculpture (statue)  
+eskulte ja - sculptor  
+eskulte suta - sculpture (art of sculpting)  
+Espanya - Spain  
+espanya fon di - hispanophone (Spanish speaking)  
+esperanto - Esperanto  
+esponje - sponge  
+esporte - sport (athletics)  
+esporte ja - athlete (sportsman)  
+estadi - stadium (arena)  
+estan - tin  
+estasi - station  
+estasi di - static (stationary, still)  
+estasi grafi - film frame (still)  
+Esti - Estonia  
+estibi yum - antimony  
+estronti yum - strontium  
+estude - study (work made in order to practise or demonstrate)  
+estude ja - student  
+estudekan - studio  
 Etiopia - Ethiopia  
 eu - beneficial (good)  
-eurasia - Eurasia  
-eureke - find (discover)  
+eu anjil - gospel (divine message)  
+eu deu sim - eutheism  
+eu gene sim - eugenics  
+eu loga - praise (eulogy)  
+eutopia - utopia  
+Eurasia - Eurasia  
+eureka - find (discover)  
 euro - euro (€)  
-Europe - Europe  
-Europe Unia - European Union (EU)  
-• europan - European  
-europebalute - English oak  
-europium - europium  
-Europa - Europa  
-exe - outside (exterior; outer, external)  
-exojen - outsider  
-experaje - experience  
-• expermen - experiment  
-• extre - external (outward; extra)  
-• extro - outside  
-• extran - strange (foreign)  
-• extrime - extreme (outermost)  
+Europa - Europe  
+europa baluta - English oak  
+europa di - European  
+Europa luna - Europa  
+Europa Unta - European Union (EU)  
+europa yum - europium  
 exa - exa-  
 
 ## F  
 
-faide - use (utility, asset, benefit, gain, advantage)  
-• faidaje - material (resource)  
-faine - fine (delicate)  
+fa - do  
+fa acar - pickle (preserve in vinegar or brine)  
+fa agresi - attack (assault)  
+fa ajabu - amaze  
+fa alo rai - disagree  
+fa amen - assure (affirm, confirm)  
+fa an galte - debug  
+fa an karma - deactivate (disable, turn off)  
+fa an verse - invert (reverse)  
+fa an zai - remove (delete, dispose, erase)  
+fa anime - animate  
+fa aplika - apply (put to use for a purpose)  
+fa argu - argue (assert, prove, clarify)  
+fa aroma - smell (sniff)  
+fa aroma - smell (reek)  
+fa asar - effect (bring about)  
+fa auto - personalize (customize)  
+fa avar - harm (damage)  
+fa bande - tie (fasten, bind)  
+fa banya - bathe  
+fa barka - congratulate (bless)  
+fa baze - found  
+fa bina - build (construct)  
+fa biznes lona - negotiate (arrange)  
+fa budi - realize  
+fa cape - press (imprint)  
+fa cori - steal  
+fa culi - treat (handle, manage, process)  
+fa cuti - leave (go out, exit)  
+fa cuze - choose (elect, select, pick)  
+fa daka - cover (conceal)  
+fa dalil - prove (demonstrate, testify)  
+fa dante - bite  
+fa darte bon - fertilize  
+fa defa - defend  
+fa dika - aim (point)  
+fa ding - determine (establish, fix, decide, set, confirm, specify, resolve)  
+fa dipe - lower (put down)  
+fa dom - accommodate  
+fa dosil - tame (train)  
+fa dosil gene - domesticate (cultivate)  
+fa dua - pray (beg, entreat, implore)  
+fa duka - sadden (make sad)  
+fa dur - pass (spend time, put time into)  
+fa dus forma - disfigure  
+fa dus nam - insult (offend, call names)  
+fa englix kitabu - anglicize  
+fa eskale - climb (get on)  
+fa eskulte - sculpt (carve)  
+fa estude - study (work in order to practise or demonstrate)  
+fa eu loga - praise (eulogize)  
+fa fantazi - imagine (fantasize)  
+fa fatu - punish (penalize)  
+fa fei - fly (go through air)  
+fa fen - divide (partition, part, split, separate)  
+fa fen do du - halve (divide by two)  
+fa fen gata - analyse (dissect, parse)  
+fa festa - celebrate (party)  
+fa fikir - think (ponder, reflect)  
+fa fili - like  
+fa fin - finish (complete, end)  
+fa fixe - fix (attach)  
+fa fobi - scare (frighten)  
+fa fokus - concentrate  
+fa fon - pronounce (articulate)  
+fa for - remove (take away)  
+fa forma - shape (sculpt)  
+fa fuku - dress (clothe sb.)  
+fa fuku - wear (dress, put on)  
+fa galte - make a mistake  
+fa gami - marry  
+fa gan - dry out  
+fa gas - gasify (vaporize)  
+fa gau - raise (lift)  
+fa gem - play a game  
+fa gene - give birth (beget, generate, breed)  
+fa glu - stick (adhere, paste, glue)  
+fa gol - achieve (accomplish, arrive, reach)  
+fa gola - surround (encircle)  
+fa gong - work  
+fa grafi - draw  
+fa guste - taste (sense flavor)  
+fa halal - allow (permit)  
+fa halte - stop (halt)  
+fa hapu - fit (adapt, adjust, make suitable)  
+fa harabu - ruin (destroy, devastate, demolish)  
+fa haram - forbid (ban, disallow)  
+fa has - distinguish  
+fa hava - blow  
+fa hen - hate (detest)  
+fa hisabu - calculate  
+fa hogo - burn (cause to burn)  
+fa ici - will (want)  
+fa in - enter (insert, put in)  
+fa in klus - include (enclose, hold in)  
+fa ja - doer (agent)  
+fa jaga - wake (make awake)  
+fa jama - collect (gather, bring together, assemble, congregate)  
+fa jang - fight (do battle, make war)  
+fa javabu - respond (give an answer)  
+fa jela - imprison (jail)  
+fa jin - put forward (advance, progress)  
+fa jiva - live (be alive, living)  
+fa jong - center (concentrate)  
+fa jude - judge  
+fa jui - warn (caution, alert)  
+fa juxa - inject  
+fa kai - open  
+fa kaka - defecate (shit)  
+fa kanal - channel (conduct)  
+fa kanca dake - glaze (vitrify)  
+fa karga - charge (load)  
+fa karma - activate (enable, turn on, trigger)  
+fa kata - tell (narrate)  
+fa keka - visit  
+fa kino - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
+fa klar - clarify (clear up)  
+fa klas - classify (categorize)  
+fa klon - clone (replicate)  
+fa klus - close (shut)  
+fa kode - encode (encrypt)  
+fa koloni - colonize  
+fa komputa - compute (to process data)  
+fa komun - share  
+fa kon sabe - communicate (inform about)  
+fa kopi - copy (replicate)  
+fa koste - cost  
+fa krus fixe - crucify  
+fa kung - pierce (perforate, bore)  
+fa kux - lay (lay down)  
+fa lai - bring  
+fa lanse grafi - project (cast)  
+fa Latin kitabu - romanize  
+fa lenxi - practice (to exercise)  
+fa libu - erect  
+fa lifafa - wrap  
+fa liga - associate  
+fa lika - strengthen (reinforce)  
+fa linke - connect (join, link)  
+fa loga - say (speak, talk)  
+fa loka - put (place, set)  
+fa lona - debate (discuss)  
+fa long - lengthen (prolong)  
+fa maf - forgive (pardon)  
+fa mal - own (possess)  
+fa manera - behave (act)  
+fa mantra - chant  
+fa marce - walk (march)  
+fa marke - mark (leave a mark)  
+fa masaje - knead (massage)  
+fa mata - kill  
+fa max - increase  
+fa max lika - reinforce (replenish)  
+fa maxim - maximize  
+fa mece - compete (have a match)  
+fa mede - help (assist)  
+fa mei daka - decorate (embellish)  
+fa memo - remember (recall)  
+fa migra - move (migrate, relocate)  
+fa min - decrease (lessen)  
+fa min darja - decrement  
+fa min rai - underestimate  
+fa ming - brighten  
+fa minim - minimize  
+fa miti - meet  
+fa model - model (design)  
+fa mol - grind (grind in mill)  
+fa multi - multiply  
+fa multi do du - double (multiply by two)  
+fa muzika - play music  
+fa nafas - breathe  
+fa nahun - claw (scratch)  
+fa najis - corrupt (pollute, soil, defile, stain, taint)  
+fa nam - call (name)  
+fa neu - renew (make new, renovate)  
+fa nia - mean (intend)  
+fa node - tie a knot  
+fa nume - count (enumerate)  
+fa nomi - manage (organize)  
+fa note - notify  
+fa oke - accept (say okay)  
+fa onor - respect (honor, think highly of)  
+fa ore - listen  
+fa orto - straighten  
+fa pada - drop (let fall)  
+fa paka - coerce (use force, compel)  
+fa pake - pack  
+fa par - equalize (balance, even out)  
+fa paraya - despise (scorn)  
+fa parce - shatter (break into pieces)  
+fa parti - participate (attend, partake, take part)  
+fa pasi - hurt  
+fa pati mise - infect  
+fa pauza - pause (interrupt)  
+fa pede - fart (flatulate)  
+fa pei - pay  
+fa pente - paint (cover in paint)  
+fa pin - prick (sting)  
+fa piping - evaluate (review, criticise)  
+fa pix - piss (urinate)  
+fa plan - intend (plan)  
+fa plasti - mold (shape)  
+fa politi - administer (govern)  
+fa pos - follow (come after)  
+fa posta - mail (send by mail)  
+fa poze - pose (set, plant)  
+fa prese - press (squeeze)  
+fa pul - fill  
+fa pul bon - perfect (optimize, refine, polish)  
+fa radi - radiate  
+fa rai - deem (opine, think that)  
+fa rande - smoothen with a plane  
+fa ratibu - order (arrange)  
+fa re - repeat (iterate)  
+fa redi - prepare (make ready)  
+fa reporte - report (recount, relate)  
+fa reside - acknowledge  
+fa retro - return (put back)  
+fa rezerve - reserve (book)  
+fa rol - act (play a role)  
+fa rolo - roll (wrap in)  
+fa romanse - love romantically  
+fa rota - rotate (make spin)  
+fa sabu - cause (be the cause for)  
+fa safa - clean (purify)  
+fa safa va tela - wipe (clean with a cloth)  
+fa safar - travel  
+fa sahi - correct (make right)  
+fa saide - hunt (fish)  
+fa salam - greet  
+fa sam rai - agree (concur)  
+fa sam sifa - emulate (simulate, mimic, model)  
+fa sana - produce (create, make)  
+fa sekur - protect (secure, save)  
+fa sel - advise (recommend)  
+fa sense - sense (perceive, detect)  
+fa serve - serve (give service)  
+fa side - sit (put down)  
+fa sifa - qualify (describe)  
+fa sim - advocate (promote, support)  
+fa sina - believe  
+fa sing foto - twinkle (sparkle)  
+fa sir - hide (conceal)  
+fa siro - cancel (nullify, delete, erase)  
+fa soni - sound (make a sound)  
+fa sor - lock (fasten)  
+fa sosi - socialize (interact)  
+fa sual - ask (inquire)  
+fa suje - suggest (propose)  
+fa suka - please (satisfy, delight)  
+fa sultan - rule (be in charge)  
+fa sum - sum up (add together)  
+fa tapa - plug (stop with a plug)  
+fa tela - weave (knit)  
+fa tele fon - call on the phone  
+fa tema - be about (discuss as a subject)  
+fa tense - tighten  
+fa terca - tilt (skew)  
+fa tese - argue (claim)  
+fa teste - try (attempt)  
+fa transe - transit (pass through or across)  
+fa trati - agree (make an agreement)  
+fa truke - trick (cheat, deceive)  
+fa turbe - bother (annoy, disturb, irritate)  
+fa ulul - howl  
+fa un xe - unite (merge, integrate)  
+fa vai - oust (expel, exclude, except, save)  
+fa vai klus - exclude (keep out)  
+fa vai tense - extend (stretch out)  
+fa vai trata - extract (draw out)  
+fa valu - value (evaluate)  
+fa vanu - amuse (entertain)  
+fa ver - verify (authenticate)  
+fa verse - turn around (flip)  
+fa vise - substitute (replace)  
+fa vode - promise (pledge)  
+fa vote - vote (cast a vote)  
+fa xarti - stipulate  
+fa xipi - wet (dampen, moisten)  
+fa xite - defecate (shit)  
+fa xiti bai - lose (fail, miss, be defeated)  
+fa xofer - drive (steer)  
+fa xopi - buy (purchase)  
+fa xou - show (display, demonstrate)  
+fa xukur - thank  
+fa xula - learn (study)  
+fa xuli - repair (fix, mend)  
+fa xuru - begin (start, commence, initiate)  
+fa xux - silence (make silent)  
+fa yagu - estimate (approximate)  
+fa yen - eye (look, watch, observe, spectate)  
+fa zai - summon (add, spawn, actualize)  
+faida - use (utility, benefit, gain, advantage, asset)  
+faida di - useful (beneficial, advantageous)  
+faida xe - material (ingredient, resource)  
 false - false (fake)  
-falsevide - illusion (hallucination)  
-famil - family  
-familnam - surname (family name)  
+false vide - illusion (hallucination)  
+famili - family  
+famili nam - surname (family name)  
 fan - fan (be a fan, admire)  
-fanate - admire (adore)  
-fanatike - fanatic (enthusiast(ic))  
-fange - mud (mire)  
-fangedefoban - fender  
-fangestan - marsh (bog, swamp, morass)  
-fantas - imagine (fantasize; fantasy, imagination)  
+fanati - admire (adore)  
+fanatija - fanatic (enthusiast(ic))  
+fantazi - fantasy (imagination)  
+fantazi di - fantastic (imaginary)  
 fantom - ghost (phantom)  
-farse - Persian (Farsi)  
+farsi - Persian (Farsi)  
 fase - surface (face)  
-fasekaribe - shallow  
-• polifas - polyhedron  
-fasile - easy  
-• fasilia - ease (facility)  
-fasilia da acese - accessibility (ease of access)  
-fasin - fascination  
-fason - fashion (trend; trendy, popular)  
-fatige - fatigue (weariness; tired, weary)  
+fase area - area (extent of surface)  
+fase tele - deep  
+fase teleta - depth  
+fasil - easy  
+fasilta - ease (facility)  
+fasinta - fascination  
+fate - deed (fact)  
+fati - supply (dispense, issue, put out)  
+fatige - fatigue (weariness)  
+fatu - punishment (penalty)  
+fatu di - penal (penetenciary)  
+fatura - bill (check, invoice)  
 favor - favor (goodwill)  
-faxe - bandage (strip, ribbon)  
-• faxisme - fascism  
-• faxiste - fascist  
+faxa - bandage (strip, ribbon)  
+faxa sim - fascism  
+faxa sim ja - fascist  
+faxon - fashion (trend)  
+faxon di - popular (trendy)  
 faze - stage (phase)  
-fe - do (make)  
-febre - fiever  
-fei - fly (flight)  
-feimux - bat (flying mammal)  
-feke - feces (shit, poop)  
-• defeke - defecate  
-femisme - feminism  
-femiste - feminist  
-fen - part (fraction; divide, partition)  
-feni - discrete (digital, quantized)  
-fendone - contribute  
-fenkate - analyse (dissect; analysis, dissection)  
-fente - blow (wind)  
-• fentor - blower (fan)  
-fentopanke - fan (ventilator)  
-fer - iron  
-fere - deem (consider, regard, assign some quality to)  
-• disfere - differ (be different)  
-• infere - infer  
-• prefere - prefer (assess before)  
-• refere - refer (point back to)  
-fermium - fermium  
-feste - party (celebration, festival; celebrate)  
-festoden - holiday  
+febre - fever  
+fei - flight  
+fei gi - airplane  
+fei gi di kape ja - plane hijacker  
+fei gi tikete - plane ticket  
+fei muxu - bat (flying mammal)  
+fem sim - feminism  
+fem sim ja - feminist  
+fen - part (component, segment, fraction, distinct element of something larger)  
+fen da - contribute  
+fen di - partial  
+fen gata - analysis (dissection)  
+fermi yum - fermium  
+fero - iron  
+festa - party (celebration, festival)  
+festa den - holiday  
 fete - do (make; deed, fact)  
-• fetekan - factory  
-• feter - maker (factor, agent)  
-• feteria - factory (plant)  
-• feture - feature (product of work)  
 • defete - defeat (do away with)  
 • exfete - effect (impact, influence, affect)  
-• exfetive - effective (influential)  
-• infete - infect  
-• infetion - infection  
+• exfetevi - effective (influential)  
+• infete - infect (infection)  
 • parafete - side-effect  
 • perfete - perfect (complete)  
 • rifete - do again (repeat, iterate)  
-fetebaxe - artificial language (conlang)  
-fi - bah!  
+fetebaxa - artificial language (conlang)  
+fetekan - factory  
+feter - maker (factor, agent)  
+feteria - factory (plant)  
 figur - figure (representation)  
-fikre - think (ponder; thought, idea)  
-file - like (liking, attraction, -philia)  
-• filike - fan (-phile)  
-• profile - prefer (favor)  
-• profilaje - favorite (preferred)  
-• profilisme - favoritism  
+Fiji - Fiji  
+fikir - thought (idea)  
+fili - attraction (fascination, -philia)  
+fili ja - fan (-phile)  
 Filipin - Philippines  
 Filistin - Palestinian Territory  
 filme - film (membrane, video)  
-filsof - outlook (view, philosophy)  
-• filsofia - philosophy  
-• filsofike - philosophic  
-• filsofer - philosopher  
-filter - filter  
-fin - end (finish)  
-• finime - last (final)  
-• anfine - unfinished (infinite)  
-• befine - finished  
+filsofi - philosophy  
+filsofi di - philosophic  
+filsofi ja - philosopher  
+filtre - filter  
+fin - end (ending)  
+fin - already (completed action)  
+fin di - ended (finished)  
+finme - last (final)  
+fine - fine (thin, narrow, slender, delicate)  
 fiorde - fjord  
-firme - firm (steady)  
-• konfirme - confirm  
 firuze - turquoise gem  
-fite - plant (vegetable, vegetation)  
-fiteyamiste - vegetarian  
-fitelojia - botany (phytology)  
-fixe - fix (attach)  
-• fixation - fixation (attachment)  
-• afixe - affix  
-• posfixe - suffix (postfix)  
-• prefixe - prefix  
-Fizi - Fiji  
-fizike - physics  
-• fizikia - physics (science)  
-• fiziker - physicist  
+fito - plant (vegetable, vegetation)  
+fitologi - botany (phytology)  
+fito yam sim ja - vegetarian  
+fixe - attachment (affix)  
+fizika - physics  
+fizika di - physical  
+fizika gi - hardware (physical device)  
+fizika ja - physicist  
+fizika suta - physics (science)  
 flam - flame  
-flerovium - flerovium  
-flexe - bend (flex)  
-• flexebil - flexible   
-• flexion - flexion (flection)  
-• cirkoflexe - bend around  
-• deflexe - deflect (bend away)  
-• reflexe - reflect (bend back)  
-• reflexion - reflection  
-• reflexor - reflector  
-flurium - fluorine  
-fobe - fear (scare; frighten; scared, afraid)  
-• fobia - fear (phobia)  
-• fobante - scary (frightening)  
+flece - arrow (bolt)  
+flece ja - fletcher  
+flerof yum - flerovium  
+flexi - bend (flex)  
+• deflexi - deflect (bend away)  
+• reflexi - reflect (bend back)  
+• reflexir - reflector  
+• flexibil - flexible   
+flur - fluorine  
+fobi - fear (phobia)  
+fobi di - afraid (scared)  
+fobi ja - scary (frightening)  
 Fobos - Phobos  
-fokus - focus (concentrate; concentration)  
-fole - mad (insane, crazy)  
-folia - madness (insanity)  
-fone - phone (speech sound)  
-• foneme - phoneme  
-• fonologe - pronounce (articulate)  
-• fonolojia - phonology  
-• sinfone - symphony  
-fonomime - onomatopoeia  
+fokus - focus (concentration)  
+fon - phone (speech sound)  
+fon loga - pronounce (articulate)  
+fonlogi - phonology  
+fon so - phoneme  
+fon zi - letter (character, written symbol)  
+fong - bee or wasp  
+fong nide - bee nest (beehive, wasp's nest)  
 fonte - fountain (spring, well)  
-fontekalam - fountain pen  
-fore - drill (bore, perforate)  
+fonte kalam - fountain pen  
+for - off (away, gone, far-off)  
+fora - drill (bore, perforate)  
 forke - fork  
-forme - form (shape)  
-• formaje - format (formation)  
-• formule - formula  
-• deforme - deform  
-• dusforme - malform (disfigure; malformed, deformed, disfigured)  
-• informe - inform (organize knowledge)  
-• informaje - information (organized knowledge)  
-• konforme - conform (fit, mold)  
-• riforme - reform  
+forma - form (shape, morph)  
+• deforma - deform  
+• dusforma - malform (disfigure; malformed, deformed, disfigured)  
+• konforma - conform (fit, mold)  
+• riforma - reform  
+forma so - morpheme  
 forum - forum (public space)  
-fote - light (illumination)  
-fotofrike - polish  
-fotegana - torch  
-fotografe - photograph  
-fotografia - photography  
-fotografer - photographer  
-fotografemaxin - camera  
-fotokable - optical fibre (optical cable)  
-fotorade - ray of light  
-fotosirke - halo (aureola)  
-fototore - beacon (lighthouse)  
-frage - break (fracture)  
-• fragebil - fragile  
-• fragomen - fragment  
-• fragure - fracture  
-• naufrage - shipwreck  
-fransofone - Francophone (French speaking)  
-Fransofonia - Francophonie  
-Fransia - France  
-fransium - francium  
-Franse Guyana - French Guiana  
-franse krepe - crepe  
-Franse Polinesia - French Polynesia  
-frasen - ash tree  
+foto - light (illumination)  
+foto di - light (bright)  
+foto frike - polish  
+foto gola - halo (aureola)  
+foto grafi - photograph  
+foto grafi gi - camera  
+foto grafi ja - photographer  
+foto grafi suta - photography  
+fotokane - torch  
+foto lin - optical fibre (optical cable)  
+foto mata di - matte (opaque)  
+foto minar - beacon (lighthouse)  
+foto mira di - glossy  
+foto radi - ray of light  
+foto so - photon  
+France - France  
+france fon di - Francophone (French speaking)  
+France fon dunia - Francophonie  
+France Guyana - French Guiana  
+france krepe - crepe  
+France Polinesi - French Polynesia  
+france yum - francium  
 frem - frame  
 frike - rub (scrape, scrub)  
-fuke - clothing (clothes)  
-• fukize - dress (clothe sb.)  
-• be fuke - wear (dress, put on)  
-fume - fume  
-• perfume - perfume  
-• perfumeria - perfumery  
+frute - fruit  
+frute bagi - orchard  
+fufu - pulp (pap, mash, mush)  
+fui - bah! (yuck!)  
+fuka - return (restore, recover, resume)  
+fuku - clothing (clothes)  
+fuku di - clothed (dressed)  
+fuku vaxi gi - washing machine  
 fun - dust (powder)  
-funcuper - vacuum cleaner  
-funce - function (work)  
-• funcebil - functional (valid, workable)  
-• defunce - defunct (out of use)  
-• dusfunce - dysfunction (malfunction)  
-• konfuncebil - compatible (supported)  
-funge - fungus (mushroom)  
-fungenete - mycelium  
-fungepal - mushroom (sporocarp)  
-fure - angry (furious)  
-• furia - anger (fury, rage, wrath)  
+fun cupa gi - vacuum cleaner  
+fungu - fungus (mushroom)  
+fungu frute - mushroom (sporocarp)  
+fungu nete - mycelium  
+funsi - function (work)  
+funsibil - functional (valid, workable)  
 furete - polecat (ferret)  
-fute - foot  
-futeban - scaffolding (gangplank)  
-futebol - football (soccer)  
-futemarke - footprint  
-futexake - leg  
+furi - angry (furious)  
+furita - anger (fury, rage, wrath)  
+futa - fat (grease)  
+futa di - fatty (greasy)  
 futau - axe (hatchet)  
-fuze - melt (liquify)  
-• fuzion - fusion (amalgamation)  
-• disfuze - diffuse (melt apart)  
-• exfuze - smelt  
-• infuze - infuse (melt in, steep in)  
-• konfuze - merge (melt together, fuse, amalgamate)  
-fuzepetre - lava  
+fute - foot  
+fute bano - scaffolding (gangplank)  
+fute bol - football (soccer)  
+fute marke - footprint  
+fute xaka - leg  
 
 ## G  
 
-ga - go (move away)  
-ga gau i dipe - bob up and down  
+ga - go (move through space)  
 Gabon - Gabon  
-gabre - grave (tomb; bury)  
-gabrite - tombstone (gravestone)  
-gabrostan - graveyard (cemetery, burial ground)  
-gade - donkey (ass)  
-gadogude - mule  
-gadolinium - gadolinium  
+gabur - grave (tomb, bury)  
+gabur bagi - graveyard (cemetery, burial ground)  
+gabur seku - tombstone (gravestone)  
+gadolin yum - gadolinium  
 gaja - elephant  
-gaja dante - ivory  
-gale - throat (windpipe, gullet, pharynx)  
+gala - throat (windpipe, gullet, pharynx)  
+galaxi - galaxy  
+galeri - gallery (exhibition hall)  
+gali yum - gallium  
 Galia - Gaul  
-galium - gallium  
-galaxia - galaxy  
-galeria - gallery (exhibition hall)  
 galope - canter and gallop  
-galte - mistake (error, fault, blunder, bug; wrong, incorrect, erroneous, faulty)  
-• degalte - debug  
-game - marry  
-• gamia - marriage (matrimony)  
-• gamike - spouse (husband or wife)  
-• degame - divorce (unmarry)  
-• poligamia - polygamy  
-• unogamia - monogamy  
-gamben - step-child  
-gamcin - parent-in-law  
-gamma - mother-in-law  
-gampa - father-in-law  
+galte - mistake (error, fault, blunder, bug)  
+galte budi - misunderstand  
+galte di - wrong (incorrect, erroneous, faulty)  
+gamba - shrimp (prawn)  
 Gambia - Gambia  
 gamel - camel  
+gami - marriage (matrimony)  
+gami ben - step-child  
+gami cin - parent-in-law  
+gami di - married  
+gami jen - spouse (husband or wife)  
+gami ma - mother-in-law  
+gaminan - husband  
+gamini - wife  
+gami pa - father-in-law  
+gamo - emotion (feeling)  
+gamo di - emotional (emotive)  
+gamo hal - mood (emotional state)  
+gamo zi - emoji (smiley, emoticon)  
 gan - dry  
-gancau - hay  
-ganmosim - dry season  
-ganputau - raisin  
-gantexe - towel  
+gan gazo - hay  
+gan mosim - dry season  
+gan putau - raisin  
+gan tela - towel  
 Gana - Ghana  
-gana - bar (pole, rod, shaft, staff, stick)  
-ganafite - reed (cane)  
-ganakalam - reed pen  
-ganakase - cage  
-ganapang - baguette  
-gande - scent (odor, fragrance, aroma)  
-gande - smell (sniff)  
+gana - reed (cane)  
+gana kalam - reed pen  
 Ganda - Uganda  
 Ganga - Ganges  
+gani - sing (song, chant)  
+ganir - singer  
+ganirgrupe - choir (chorus)  
 Ganimede - Ganymede  
+ganja - cannabis (marijuana, ganja, pot, weed)  
 ganse - goose  
 ganum - wheat  
-ganze - cannabis (marijuana, ganja, pot, weed)  
+ganya - earn (gain)  
 gar - if (suppose, assume)  
-gar - car (cart, carriage, wagon, automobile)  
-garoparke - car park (parking lot)  
-garante - guarantee (warranty)  
+garanti - guarantee (warranty)  
 garde - guard (watch)  
-garder - guardian (watchman)  
-garme - warm (hot)  
-garme masal - garam masala  
-garmemosim - summer  
-garmemosimmide den - Midsummer Day  
-garmezone - tropics  
-garmezone caustan - savannah  
-garmezonike - tropical  
-gas - gas (gaseous)  
-• gasife - gasify  
-gate - hard (tough)  
-gatemate - solid  
-gau - high (tall)  
-• gavia - height (altitude)  
-• gavaje - top  
-• gavife - raise (lift)  
-gaudarge - advanced (high-level)  
-• be gaudarge - level up (graduate)  
-gaudipike - vertical  
+garde ja - guardian (watchman)  
+garma - warm (hot)  
+garma masala - garam masala  
+garma mosim - summer  
+garma mosim medi den - Midsummer Day  
+garma zona - tropics  
+garma zona di - tropical  
+garma zona gazo stan - savannah  
+gas - gas  
+gas di - gaseous  
+gata - cut (bite, incise)  
+gata a dante - bite  
+gata glu bano - clipboard (paste buffer)  
+gata ja - sharp (cutting, edged, pointed)  
+gata yepa - blade  
+gati - hard (tough)  
+gati mate - solid  
+gati mate di - rigid (solid)  
+gau - top  
+gau darja di - advanced (high-level)  
+gau di - high (tall)  
+gau dipe - vertical  
+gau dipe move - bob up and down  
+gauta - height (altitude)  
 gau tanur - blast furnace  
-gautehnia - high technology (hi-tech)  
+gau tehni - high technology (hi-tech)  
 gaze - gauze  
 gazel - gazelle  
-gazete - magazine (journal, gazette)  
-gazeter - journalist  
-gee - earth (ground)  
-• Geia - Earth (Terra)  
-• abogee - apogee  
-geodou - peanut (groundnut)  
-geoforme - terrain  
-geografia - geography  
-geokaski krake - fault line  
-geokaski plate - tectonic plate  
-geolojia - geology  
-geometria - geometry  
-Geomide Hai - Mediterranean  
-georde - ground force (army)  
-geoparline - equator  
-Geoparline Ginia - Equatorial Guinea  
-geopolitike - geopolitics  
-geosisme - earthquake  
-geosube - underground (subterrainean)  
-geosube jelekan - dungeon (underground prison)  
-geoterme - geothermal  
-geotike - lot (plot of land)  
+gazeta - magazine (journal, gazette)  
+gazeta ja - journalist  
+gazo - grass  
+gazo medan - lawn  
+gazo stan - grassland (prairie)  
 gei - gay (homosexual)  
-gele - gel (jelly)  
-• gelatine - gelatin  
-gem - game (play a game)  
-• gemer - player (gamer)  
-gene - birth (beget, create, breed, generate, produce)  
-• genese - genesis  
-• genete - gene  
-• geneti - genetic  
-• genetolojia - genetics  
-• genite - breed  
-• genolojia - genealogy (study of descent)  
-• genome - genome  
-• gener - creator  
-• generate - generate   
-• generation - generation    
-• ingenerate - ingenerate (produce within)  
-• rigenerate - regenerate (reproduce)  
-• eugenisme - eugenics  
-• exogene - exogeneous  
-• ingene - innate (endogeneous, indigenous, inborn)  
-• poligene - polygenesis  
-• unogene - monogenesis  
-genobase - native language (mother tongue)  
-genoden - birthday  
-genogrupe - generation (cohort)  
-genoklas - caste  
-genoloke - birthplace  
-genostan - region of birth  
-genotipe - genotype  
-gere - war  
-• gerile - guerrilla war  
-• geriler - guerrilla  
-• gerer - warrior (soldier)  
-• antigere - anti-war  
-• posgere - post-war  
-• pregere - pre-war  
+gem - game  
+gem ja - player (gamer)  
+gene - birth  
+gene baxa - native language (mother tongue)  
+gene den - birthday  
+gene di - raw (crude)  
+gene grupe - generation (cohort)  
+gene klas - caste  
+genelogi - genealogy (study of descent)  
+gene loka - birthplace  
+gene tipe - genotype  
+gene yo hevan - breed  
+Geo - Earth (Terra)  
+geo - earth (ground)  
+geo dou - peanut (groundnut)  
+geo elfe - gnome  
+geo forme - terrain  
+geo grafi - geography  
+geo gun - ground force (army)  
+geo kaska krake - fault line  
+geo kaska plate - tectonic plate  
+geologi - geology  
+Geo Medi Hai - Mediterranean  
+geo metre - geometry  
+geo nice di - underground (subterrainean)  
+geo nice jela - dungeon (underground prison)  
+geo par lin - equator  
+Geo Par Lin Ginia - Equatorial Guinea  
+geo politi - geopolitics  
+geo sismo - earthquake  
+geo termo - geothermal  
+geo tika - lot (plot of land)  
+german yum - germanium  
 Germania - Germania  
-germanium - germanium  
 Gernezi - Guernsey  
-geste - gesture  
-gestobaxe - sign language  
-Gibraltar - Gibraltar  
-gide - guide (lead, show the way)  
-• gider - guide  
-gidobuke - guide book  
-ginge - longitudinal (vertical)  
-gingoline - warp  
+gi - machine (device, aparatus)  
+gida - guide (lead, show the way)  
+gida buku - guide book  
+gida ja - guide  
+ging - longitudinal (parallel, vertical)  
+ging darja - longitude  
+ging gola - meridian (line of longitude)  
+ging lin - warp  
+gingam - kumquat  
+gio - teach (educate, instruct, doctrine)  
+gio ja - teacher (instructor)  
+giota - drop (droplet)  
 gitar - guitar  
-giuke - jade  
-glas - glass  
-• glasize - glaze (vitrify; glazing, enamel)  
-glasokupe - glass (tumbler)  
-glise - slide (slip, glide, skate)  
-globe - global  
-glute - glue (stick, adhere, paste; adhesive)  
-• aglutive - agglutinating  
-glutobende - adhesive bandage (band-aid, sticking plaster)  
+giuka - jade  
+glis - slide (slip, glide, skate)  
+glu - glue (adhesive)  
+glu bande - adhesive bandage (band-aid, sticking plaster)  
+glu di - sticky (ahesive)  
+glu grafi - sticker  
+glu poto - clay  
 gluten - gluten  
-glutofan - clay  
-glutograf - sticker  
-go sube - go under  
-gogia - country (land, state)  
-• exgogia - foreign country  
-• gogian - citizen  
-• exgogian - foreign  
-gol - goal (destination; destine, set)  
+go - that over there  
+gol - goal (destination)  
+gola - circle (sphere, round object)  
+gola di - round (circular)  
+gola longta - perimeter (circumference)  
+gola seku - cobblestone  
 golem - golem  
-gom - rubber (latex, eraser)  
-gone - corner (angle)  
-• poligone - polygon  
-• tragone - diagonal  
-gonometrer - goniometer  
+gomu - rubber (latex, eraser)  
+gona - corner (angle)  
+gona metre gi - goniometer  
+gong - work (labour, job)  
+gong ja - worker  
+gongkan - workshop (factory)  
+gong meza - desk  
+gong mise - submit (present)  
+gong xula ja - apprentice  
 gorila - gorilla  
 goro - pig  
-goromanse - pork  
+goro nama - pork  
 goton - cotton  
-grafe - graphic (image, graph, picture)  
-• grafeme - pixel  
-• grafer - illustrator (graphic artist)  
-grafobuke - picture book  
-grafokarde - graphics card (video card)  
-grafoprocese - image processing  
-grafoprojetor - image projector  
-grafosage - comic (cartoon)  
+grafi - drawing (graph, image)  
+grafi buku - picture book  
+grafi culi - image processing  
+grafi di - graphic (pictorial)  
+grafi fineta - image resolution  
+grafi ja - illustrator (graphic artist)  
+grafi karte - graphics card (video card)  
+grafi kata - comic (cartoon)  
+grafi lanse gi - image projector  
+grafiprojeter - image projector  
+grafi rapideta - framerate  
+grafi so - pixel  
 gram - gram (g)  
-grane - grain (particle)  
 granite - granite  
 grave - gravel  
 Grenada - Grenada  
-Grenadin nesia - the Grenadines  
-grese - stride  
-• agrese - attack (assault, aggression, hostility)  
-• agresive - aggressive  
-• agreser - aggressor  
-• progrese - progress (stride forward, advance, go forward)  
-• progresion - advancement (milestone)  
-• regrese - regress (fall back)  
+Grenadin nesi - the Grenadines  
+grimas - grimace  
 grom - thunder (roaring)  
-gromtafun - thunderstorm  
-grose - thick  
-grosi harfe - bold letter  
-grosia - thickness  
+grom tafun - thunderstorm  
+gros - thick  
+grosta - thickness  
+gros zi - bold letter  
 grupe - group  
+gua - cave  
 Guadelupe - Guadeloupe  
+guai - odd (strange, weird, peculiar, bizarre)  
 Guam - Guam  
-Guangzou - Guangzhou (Canton)  
-guanse - relationship (association, connection)  
+guan - office (position)  
+guan di - official (pertaining to public trust)  
+guan ja - officer (bureaucrat, public servant)  
+Guangjou - Guangzhou (Canton)  
 Guatemala - Guatemala  
 gubu - hippopotamus  
-gude - horse  
-guhe - cave  
 gui - ogre (troll, goblin)  
-guimuke - grimace  
-guipapil - oriental poppy  
-Guyana - Guyana  
-gujarate - Gujarati  
-guke - florist's chrysanthemum  
+gui papi - oriental poppy  
+gujarati - Gujarati  
+guku hua - florist's chrysanthemum  
 gul - swallow  
-gulgui - ghoul  
-gum - drum  
-gumle - sentence (phrase)  
-guru - guru (teacher)  
+gule - ghoul  
+guma - drum  
+gun - army  
+gun jen - soldier  
+gun raja - generalissimo (shogun)  
+gun raja dexa - shogunate  
+guru - guru (teacher, sage)  
 guste - taste (flavor)  
-• suguste - delicious  
-gute - knee  
+guste ka - taste like  
+guta - knee  
+guta kaska oste - kneecap  
+Guyana - Guyana  
 
 ## H  
 
-ha - have  
+ha - have (there be)  
 habar - news  
-habargazete - newspaper (gazette)  
+habar gazeta - newspaper (gazette)  
 habar letre - newsletter  
-habaxe - Abyssinian  
-Habaxia - Abyssinia  
-hafize - keep (preserve, conserve, retain, spare)  
-hafizer - keeper (preserver)  
-hafnium - hafnium  
-hahe - laugh  
+habarmedia - news media  
+habaxa - Abyssinian  
+Habaxa - Abyssinia  
+hafen yum - hafnium  
+hafiza - keep (preserve, conserve, retain, spare)  
+hafiza ja - keeper (preserver)  
+haha - laugh  
 hai - sea  
-• hayike - maritime  
-haialge - seaweed (macroalgae)  
-haiamirer - admiral  
-haiblu - aqua (teal)  
-haicau - seagrass  
-haiful - sea anemone  
-haigele - jellyfish (seajelly)  
-haihiyar - sea cucumber  
-haiorde - sea force (navy)  
-haiporta - harbor (seaport)  
-haisake - bay (gulf, bight)  
-haitate - coast (beach)  
+hai alga - seaweed (macroalgae)  
+hai amir ja - admiral  
+hai di - maritime  
+hai gazo - seagrass  
+hai gun - sea force (navy)  
+hai hiyar - sea cucumber  
+hai hua - sea anemone  
+hai jele - jellyfish (seajelly)  
+hai kinar - shore (coast, beach)  
+hai nil - aqua (teal)  
+hai porte - harbor (seaport)  
 haide - let's  
-haima - tent  
-Haiti - Haiti  
-hake - right (entitlement)  
+haki - right (entitlement)  
 hal - state (condition, status, situation)  
-• dushal - hardship (difficulty, challenge)  
-halale - allow (permit)  
-halale - permissible (allowed, halal)  
-halaloliste - whitelist  
-halele - praise (commend, exalt)  
-halif - caliph  
-halifia - caliphate  
+halal - permissible (allowed, halal)  
+halal liste - whitelist  
+halela - praise (commend, exalt)  
+hali - empty (void)  
+hali zi - space (character)  
+halifa - caliph  
+halifa dexa - caliphate  
 halo - hello (hi)  
 halte - stop (halt)  
-ham - important  
+ham - matter (be important)  
+ham di - important  
 hamake - hammock  
 hamar - hammer  
-hamile - pregnant  
+hamil - pregnant  
 hamir - yeast  
+Han - Han Chinese  
+han guan ja - mandarin  
+Han zi - Chinese or Japanese character (hanzi, kanji)  
 hande - hand  
-hande - manual  
-handange - arm  
+hande di - manual  
+hande xaka - arm  
 haos - chaos (disorder, turmoil)  
-hape - fit (adapt, adjust, make suitable)  
-hape - suitable (appropriate, apt, fit)  
-hapu - fit (suit, be suitable)  
-harabe - ruin (destroy, devastate, demolish)  
-harabe - bad (ruined, destroyed)  
-harabu - crash (shut down, terminate)  
-harame - forbid (ban, disallow)  
-harame - forbidden (illicit, haram, taboo)  
-haramliste - blacklist  
-harfe - letter (character, written symbol)  
-• harfaje - alphabet  
-harmone - harmonious  
-• harmonia - harmony  
+hapu - suitable (appropriate, apt, fit)  
+harabu - bad (ruined, destroyed)  
+harabu mahala - slum  
+haram - forbidden (illicit, haram, taboo)  
+haram liste - blacklist  
+harmoni - harmony  
+harmoni di - harmonious  
 harnes - harness  
 Hartum - Khartoum  
 has - special (distinct)  
-• hasia - distinction (specialty)  
-• hasife - distinguish (specialize)  
-haste - hurry (rush, haste; hasty, busy, hurried, swift, fast)  
-• anhaste - slow  
-hate - until (til, up to)  
-hato - even (implying extreme example)  
-hatre - danger (peril; dangerous, perilous)  
+has nam - identifier (ID)  
+hasta - distinction (specialty)  
+hata - until (til, up to)  
+hata di - even (implying extreme example)  
+hatar - danger (peril)  
+hatar di - dangerous (perilous)  
+hava - wind  
 Havai - Hawaii  
 Havai nesia - Hawaiian archipelago  
-have - atmosphere (air, wind)  
-haxi - chopsticks  
-haxix - grass (hashish)  
-Hayastan - Armenia  
-he - huh? (pardon?)  
-hei - hey (exclamation to get attention)  
-helium - helium  
-helene - Greek (Hellenic)  
-Helenia - Greece  
+haxix - hashish  
+Haye - Armenia  
+hazin - store (deposit)  
+• mahazin - magazine (warehouse)  
+hazinkan - storehouse (depository)  
+he - huh? (eh?, pardon?)  
+Helen - Greece  
+Helen di - Greek (Hellenic)  
+heli yum - helium  
 helis - spiral (helix, corkscrew, twist)  
-helisbabul - umbrella thorn acacia tree  
-helisviman - helicopter  
+helis babul - umbrella thorn acacia tree  
+helis fei gi - helicopter  
 Helsinki - Helsinki  
-hem - hmm  
-heme - blood  
-hemocel - blood cell (hemocyte)  
-hemofobia - hemophobia  
-hemoglobin - hemoglobin  
+hem - ponder (think, contemplate, consider, regard)  
+hem… - hmm…  
+hema - tent  
+hemi - blood  
+anhemia - anemia  
+hemifobia - hemophobia  
+hemiglobin - hemoglobin  
+hemi hin - bloodless  
+hemiselu - blood cell (hemocyte)  
 hen - hatred (hate, resentment, odium)  
-hene - hate (despise)  
 hepate - liver  
-hepatitis - hepatitis  
+hepatetis - hepatitis  
+hero - hero  
+hero di - heroic  
+hero kata - saga (heroic tale)  
 herze - hertz (Hz)  
-Hesia - Hesse  
-hesium - hassium  
+Hese - Hesse  
+hese yum - hassium  
+hevan - animal  
+hevan agri suta - animal husbandry  
+hevan bagi - zoo (zoological garden)  
+hevan fili - zoophily  
+hevan geo grafi - zoogeography  
+hevan kata - fable  
+hevanlogi - zoology  
+hevan logi di - zoological  
+hevan toxi - zootoxin  
 hibride - hybrid (mongrel)  
-hidre - hydrogen  
-hiyar - cucumber  
-hijabe - veil (cover, screen)  
-hima - snow (be snowing)  
-hima duna - snow drift  
+hidrargente - mercury (quicksilver)  
+hidro - hydrogen  
+hijabu - veil (cover, screen)  
+hima - snow  
+himaduna - snow drift  
 hima rose - frost  
-Himalia - Himalayas  
-Hinde riu - Indus river  
-hinde - Hindi (Hindustani)  
-Hindia - Hindustan  
-hindisme - Hinduism  
-hindiste - Hindu  
-hindium - indium  
-hindostane - Hindustani language  
-hindeuropan - Indo-European  
+Himalaya - Himalayas  
+hin - lack (miss, be without)  
+hin di - lacking (-less)  
+hina - henna (alcanna)  
+Hindi baxa - Hindi (Hindustani)  
+Hindi dexa - Hindustan  
+Hindi din - Hinduism  
+Hindi din ja - Hindu  
+hindi raja - rajah  
+Hindi rivo - Indus river  
+hindi yum - indium  
 Hiperion - Hyperion  
-hisabe - calculate (calculation)  
-• hisabia - arithmetics  
-• hisabolojia - mathematics (math)  
-• hisabolojer - mathematician  
-histore - history (annals)  
-• historia - history (study of history)  
-• historer - historian  
-Ho Ci Min site - Ho Chi Minh City (Saigon)  
-hobe - hobby  
-• hobiste - hobbyist  
-hoge - fire (burning)  
-hoge - burn (cause to burn)  
-hoge - fiery  
-hogu - burn (be burned)  
-hogopujia - pyrolatry  
-hogoxan - volcano  
-hogite - flint  
-hogosanduke - lantern  
-hogotehne - fireworks (pyrotechnics)  
-hogoxan glas - volcanic glass  
-hoke - hockey  
-hole - whole (entire)  
-• holia - wholeness (integrity)  
-• holografe - hologram  
-• holike - holistic (comprehensive, overall, pertaining to the whole)  
-• holisme - holism  
-holonumbe - integer (whole number)  
+hisabu - calculation  
+hisabu loge - account  
+hisabulogi - mathematics (math)  
+hisabulogi ja - mathematician  
+hisabu suta - arithmetics  
+histori - history (annals)  
+histori ja - historian  
+historilogi - history (study of history)  
+hiyar - cucumber  
+Ho ci Min site - Ho Chi Minh City (Saigon)  
+hobi - hobby  
+hobi ja - hobbyist (amateur)  
+hogo - fire (burning)  
+hogo di - fiery  
+hogo puja - pyrolatry  
+hogo san - volcano  
+hogo san kanca - volcanic glass  
+hogo sanduku - lantern  
+hogo seku - flint  
+hogo tehni - fireworks (pyrotechnics)  
+hoki - hockey  
 holera - cholera  
-holmium - holmium  
-home - similar (alike)  
-homoromanse - homoromantic  
-homo - homo sapiens  
-Honduras - Honduras  
+holme yum - holmium  
+holo - whole (entire)  
+holo grafi - hologram  
+holo nume - integer (whole number)  
+holota - wholeness (integrity)  
 Hong Gong - Hong Kong, SAR China  
 hor - hour  
-horloger - clock (watch)  
-horlogetore - clocktower  
+hor loga gi - clock (watch)  
+hor loga minar - clocktower  
 hormon - hormone  
-Horvatia - Croatia  
+Horvati - Croatia  
 hotel - hotel  
 hua - flower  
-huabing - vase (flower vase)  
-huamosim - spring (springtime)  
-huapote - flowerpot  
+hua jara - flower vase  
+hua mosim - spring (springtime)  
+hua pote - flowerpot  
+huang - yellow  
 hui - ash (ashes)  
-huidarte - podzol  
-huirang - grey (gray, ashy)  
+hui darte - podzol  
+hui rang - grey (gray, ashy)  
 huke - hook  
-hukokrus - swastika (hooked cross)  
+huke krus - swastika (hooked cross)  
+huke lin kane - fishing rod (fishing pole)  
 huli - fox  
-hume - humus (mold)  
-• human - human being  
-• humane - humane  
-• humania - mankind (humanity)  
-• humanisme - humanism  
-• humaniste - humanist  
-• humanoide - humanoid  
-• exhume - exhume  
-• inhume - bury (inter, inhume)  
-human hake - human rights  
-humor - humor  
-• humorike - humorous (comical, funny)  
-• humoriste - humorist  
 humus - chickpea  
-humusosaus - hummus  
-hure - free (unchained)  
-• huria - freedom (liberty)  
-• hurife - free (liberate)  
-• hurisme - liberalism  
-• huriste - liberalist  
-• huristike - liberal  
-hurargente - mercury (quicksilver)  
-hura - cheer (hurrah, hooray, yay)  
-hux - nice (pleasant, comfortable, cushy)  
+humus sos - hummus  
+huru - free (unchained)  
+huru di - free (liberate)  
+huru sim - liberalism  
+huru sim di - liberal  
+huru sim ja - liberalist  
+huruta - freedom (liberty)  
+huxi - nice (pleasant, comfortable, cushy)  
 
 ## I  
 
 i - and  
-ia - area of thinking or being  
-ibre - Hebrew  
-ice - will (volition, desire)  
-anice - reluctant  
-ide - idea (concept, notion)  
-• ideike - conceptual  
-ideograf - ideogram  
-idiote - idiot (stupid, idiotic)  
-• idiotia - idiocy (stupidity)  
+i max - also (too)  
+ibri - Hebrew  
+ici - will (volition, desire)  
+• anicija - reluctant  
+idea - idea (concept, notion)  
+idea di - conceptual  
+idea zi - ideogram  
+idiote - idiot  
+idiote di - stupid (idiotic)  
+idioteta - idiocy (stupidity)  
 ifrite - ifrit  
-ike - a person or thing with specific character (-ic, -ian)  
-impere - reign (rule as an emperor)  
-• imperia - empire  
-• imperisme - imperialism  
-• imperiste - imperialist  
-• imperer - emperor  
-in - in  
-• inaje - inside (interior)  
-• inike - inner (internal)  
-• intre - enter (get in; insert, put in)  
-intromun - entrance  
-intraje - intestines (entrails, guts, bowels, viscera)  
-Indonesia - Indonesia  
-intelige - intelligence (intellect)  
-• inteligebil - intelligible  
-• inteligente - intelligent (smart)  
-• inteligentia - intelligentsia  
-inxala - hope (wish)  
+iha - donkey (ass)  
+iha uma - mule  
+imperi - reign (rule as an emperor)  
+imperi dexa - empire  
+imperi ja - emperor  
+imperi sim - imperialism  
+imperi sim ja - imperialist  
+in - inside (interior)  
+in bum - implosion  
+in di - inner (internal)  
+in gene di - innate (endogenous, indigenous, inborn)  
+in klus - including  
+in klus di - inclusive  
+in liste - table of contents (inventory)  
+in migra - immigrate (move in)  
+in migra ja - immigrant  
+in mise - import  
+in nam - endonym  
+in puxe - squeeze (squish)  
+in tene - contain (include)  
+in tene gi - container  
+in verse jen - introvert  
+in vide - introspection  
+in xe - content  
+Indonesi - Indonesia  
+insan - human being  
+insan di - humane  
+insan haki - human rights  
+insan jong - mankind (humanity)  
+insan sim - humanism  
+insan sim di - humanistic  
+insan sim ja - humanist  
+insulte - insult (offence)  
+insulte di - rude (offensive)  
+internete - internet  
 Io - Io  
+iode - iodine  
+ion - ion  
+ion radi - radioactivity (ionizing radiation)  
+ion radi di - radioactive  
 IP adres - IP address  
-Irakia - Iraq  
 Iran - Iran  
-iridium - iridium  
-irone - ironic  
-ironia - irony  
-islam - surrender (submit, yield; submission)  
-• islamia - Islam  
-• islaman - muslim (moslem)  
-• islamfobia - islamophobia  
-• islamike - Islamic  
-• islamisme - Islam  
-• islamiste - muslim (moslem)  
-islam xaria - shari'a  
-Islandia - Iceland  
-isme - ism (doctrine, ideology, religion, etc)  
+Iraqi - Iraq  
+iris yum - iridium  
+ironi - irony  
+ironi di - ironic  
+islam - submission (surrender)  
+islam din - Islam  
+islam din ja - muslim (moslem)  
+islam din xaria - shari'a  
+islam fobi - islamophobia  
+Islande - Iceland  
 Israel - Israel  
-iste - proponent (supporter, activist, -ist)  
-ite - stone (piece of rock)  
-itojanger - mason (stonemason, stonecutter)  
 Italia - Italy  
-itis - inflammation (-itis)  
-ive - tend to  
-ivia - tendency (inclination)  
+ite - stone (piece of rock)  
 
 ## J  
 
+ja - doer (agent, actor, -er, -ist)  
+jaga - awake  
 jai - win (triumph, victory, gain, succeed)  
-• jai pandunia - victory to Pandunia!  
-• jayer - winner (victor)  
-jainisme - Jainism  
-jake - jacket  
+jaibai - outcome (victory or defeat)  
+jaija - winner (victor)  
+• jai pandunia! - victory to Pandunia!  
+jain din - Jainism  
 Jakarta - Jakarta  
-jame - collect (gather, bring together, assemble)  
-• jamia - gathering (congregation, assembly)  
-• jamaje - collection  
-• ajame - meet (get together; meeting, gathering)  
-jamekape - hold together  
-jamekarde - trading card  
+jake - jacket  
+jama - collection (congregation, assembly)  
+• anjama - disperse (spread out, scatter)  
+• anjama di - sparse (scattered)  
+jama di - collective  
+jama karte - trading card  
 Jamaika - Jamaica  
-jambul - jamul (jambul, rose apple)  
 jampe - jump  
-janel - window  
-janelfrem - window frame  
-janelovel - curtain  
+jamul - jamul (jambul, rose apple)  
+jan - meditate (contemplate, ponder, cogitate)  
+jan buda din - Zen Buddhism  
+janela - window  
+janela frem - window frame  
 jang - fight (war, battle, combat)  
-• jangike - military (martial, warlike)  
-• janger - warrior (fighter)  
-jangxute - martial art  
-jangle - wild (feral, savage)  
-janglia - wilderness  
-jangle van - jungle  
+jang di - military (martial, warlike)  
+jang ja - warrior (fighter)  
+jang suta - martial art  
+jangal - forest (woods, jungle)  
+jara - jar (jug, pitcher, carafe, amphora, vase)  
+jaru - broom (sweep)  
 jau - barley  
-javabe - answer (respond, reply; response)  
+javabu - answer (reply, response)  
+Jayer - Algeria  
 jaze - jazz  
 jebe - pocket  
-jebecaku - pocketknife  
-jebre - algebra  
-jeke - borrow (lend)  
-jekecepe - borrow  
-jekedone - lend  
-jekelexe - loanword  
-jele - imprison (jail)  
-• jelekan - prison  
-• jeler - jailer (imprisoner)  
-jen - person (individual)  
-• dusjen - enemy (foe, villain)  
-no jen - nobody (no-one)  
-jenje - ginger  
-jenju - pearl  
-jense - gender (sex)  
-• jensike - sexual (pertaining to gender)  
-jensolojia - gender studies  
-jensen - ginseng  
-Jerzi - Jersey  
+jebra - algebra  
+jeka - borrow (lend)  
+jeka da - lend  
+jeka loga - loanword  
+jeka na - borrow  
+jela - prison (imprisonment)  
+jela ja - jailer (imprisoner)  
+jela jen - prisoner  
+jelakan - prison (jail)  
+jele - gel (jelly)  
+jelosi - jealous  
+jen - person (individual, -ist, -er)  
+jen di - personal (intimate, private, custom)  
+jenxen - ginseng  
+Jerze - Jersey  
+jeste - gesture  
 jete - thrust (throw, cast)  
-• jetaje - projectile (missile)  
-• ajetive - adjective  
 • exjete - eject (throw out)  
-• injete - injection  
-injete - inject  
-• projete - project (forecast)  
-• projetaje - project (endeavour)  
-• projetor - projector  
+• injete - inject (injection)  
+• projete - project (forecast, endeavour)  
 • rejete - reject (throw back)  
-• subjete - subject  
-jetografor - image projector  
-jetografe - project (cast; projection image)  
+jetegrafi - project (cast; projection image)  
+jiang di - crafty (dexterous)  
+jiang ja - artisan (craftsman)  
+Jibraltar - Gibraltar  
 Jibuti - Djibouti  
 jihade - struggle (strife)  
-• jihadisme - jihadism  
-• jihadiste - jihadist (mujahid)  
-jin - real (authentic, genuine)  
-jiraf - giraffe  
-jive - live (life)  
-jive - live (living)  
+jin - advancement (milestone)  
+jin lai - access (admission, accessibility)  
+jin mun - entrance  
+jini - spirit (soul, vitality, life force)  
+jinse - gender (sex)  
+jinse di - sexual (pertaining to gender)  
+jinselogi - gender studies  
+jirafa - giraffe  
+jiva - life (existence)  
 jo - which (who, that)  
 joke - joke  
-joker - joker  
-jongle - juggle  
-• jongler - juggler  
+joke ja - joker  
+jong - middle (center)  
+Jong Afrika Vakilkrati - Central African Republic  
+jong di - central (middle)  
+jong fon - vowel  
+jong xulakan - secondary school  
+Jongoku - China  
 juba - robe (jubbah)  
-jude - judge (judgment, sentence; judicial)  
-• judekan - court of law (court of law)  
-• juder - judge (referee)  
-• exjude - extrajudicial  
 judau - judo  
+jude - judgement (sentence)  
+jude di - judicial  
+jude ja - judge (referee)  
+jui - care (caution, attention)  
+jui di - careful (cautious, attentive, alert, wary)  
+jui note - warning (advisory)  
 jul - joule (J)  
+jumla - sentence (phrase)  
 jun - young (youthful)  
+jun fem - girl  
+jun jen - youth (young person)  
 junjen - youth (youngster, young person)  
+jun man - boy  
+jun moka - sapling  
 junnen - youth (years in life following childhood)  
-junte - joint (join)  
-• juntion - junction  
-• junture - juncture (junction, intersection)  
-juntelexe - conjunction  
-jupiter - Jupiter  
+junta - youth (young age)  
+jung - species  
+jupe - skirt  
+Jupiter - Jupiter  
 jus - juice  
-juste - precise (exact, accurate; just, exactly)  
-• ajuste - adjust (make exact)  
-justepaver - sniper (sharpshooter)  
+juste - just (precise, exact, accurate)  
+juste pau ja - sniper (sharpshooter)  
+juxa - injection  
 
 ## K  
 
-ka - than (as, compared to)  
-kababe - barbecue (grill)  
-kababe manse - grilled meat (kebab)  
+ka - than (as, compared to, relative to)  
+kababu - barbecue (grill)  
+kababu nama - grilled meat (kebab)  
 kabin - cabin (booth)  
-kable - cable (wire, line)  
-kaboge - squash (pumpkin, gourd)  
-Kabu Verdi - Cabo Verde (Cape Verde)  
-kadium - cadmium  
+kable - rope (cable)  
+kaboga - squash (pumpkin, gourd)  
+Kabu Verde - Cabo Verde (Cape Verde)  
+kadim yum - cadmium  
 kafe - coffee  
+kafe alga - brown algae  
 kafekan - cafe (coffee shop)  
-kafekupe - coffee cup  
-kafepote - coffeepot  
+kafe kupa - coffee cup  
+kafe pote - coffeepot  
+kafe rang - brown  
+kafe salmon - brown trout  
 kafir - infidel (pagan, heathen, unbeliever)  
-kaguje - paper (material)  
-kagujelimon - key lime  
+kaguji - paper (material)  
+kaguji limon - key lime  
 kai - open (not closed)  
-• dekai - close (shut)  
-Kaiman nesia - Cayman Islands  
-kaka - excrement (shit; defecate)  
+Kaiman nesi - Cayman Islands  
+kaka - excrement (shit)  
 kakau - cocoa  
-kale - empty (void)  
-• kalaje - void (empty space)  
-kalium - potassium  
-kaleharfe - space (character)  
-Kalalia - Greenland  
+kala - black  
+Kalal - Greenland  
 kalam - pen (writing tool)  
-kalende - calendar  
+kalam sui - ink  
+kalenda - calendar  
 kali - base (alkali; alkaline)  
-kaliguste - bitter  
-kalimelon - bitter melon  
-kalioranje - bitter orange  
-kalifornium - californium  
+kali di - alkaline  
+kali guste - bitter  
+kali melon - bitter melon  
+kali oranje - bitter orange  
+kali yum - potassium  
+kaliforni yum - californium  
 Kalisto - Callisto  
-kalkulia - calculus (manipulation of symbolic expressions)  
+kalkul - calculus (manipulation of symbolic expressions)  
 kalmar - squid (cuttlefish)  
+kalsi bilor - marble  
+kalsi mate - lime  
+kalsi petra - limestone  
+kalsi yum - calcium (Ca)  
 kalsite - calcite  
-kalsium - calcium (Ca)  
-kalsekristal - marble  
-kalsemate - lime  
-kalsepetre - limestone  
 kam - little (few, not many)  
-• kamia - scarcity  
-• kamife - reduce  
+kamfa - reduce  
+kamta - scarcity  
 kama - lust (desire, libido, sexual passion)  
-Kama sutre - Kama Sutra  
+kama deu - god of love (Eros, Kamadeva)  
+kama kanon - Kama Sutra  
 kamar - room (chamber)  
-kamardipe - floor  
-kamargau - ceiling  
+kamar dipe - floor  
+kamar gau - ceiling  
 Kambojia - Cambodia  
 Kamerun - Cameroon  
 kamil - German camomile  
-kamis - shirt  
-kamisi xake - sleeve  
+kamisa - shirt  
+kamisa xaka - sleeve  
 kamote - sweet potato  
 kampe - camp  
-kamper - camper  
-kampostan - campground  
-kamre - Welsh  
-Kamria - Wales (Cambria)  
-kan - shop (store or workshop)  
+kampe bagi - campground  
+kampe bede - camp bed (cot)  
+kampe ja - camper  
+Kamri - Wales (Cambria)  
+kamri - Welsh  
+kan - shop (building, house, place)  
 Kanada - Canada  
-kanal - channel (canal)  
-kanale - channel (conduct)  
-kanaler - conduit (channel)  
-kanape - sofa (couch)  
-kande - candy (sweets)  
-kandel - candela  
-kang - comb  
+kanal - ditch (canal, channel, dyke, trench)  
+kanal ja - conduit (channel)  
+kanca - glass  
+kanca daka - glazing (enamel)  
+kandela - candela  
+kandi - candy (sweets)  
+kane - bar (pole, rod, shaft, staff, stick)  
+kane kasa - cage  
+kane minte - spearmint  
+kane pang - baguette  
+kane sor - latch  
+kanga - comb  
 kangaru - kangaroo  
+kanjar - dagger  
+kano - canoe  
+kanon - classic (canon)  
+kanon di - classic (authoritative, definitive)  
+kanta - shoulder  
+kantalupo melon - cantaloupe  
+Kantalupo va Sabina - Cantalupo in Sabina  
+kanun - law (rule, regulation)  
 kanyon - canyon (ravine, gorge, gully)  
-kankuate - kumquat  
-kante - shoulder  
-Kantalupo i Sabina - Cantalupo in Sabina  
-kantalupomelon - cantaloupe  
-kanu - canoe  
-kanun - law  
-kanzar - dagger  
 kape - catch (capture, seize, snatch, intercept)  
-kape pexe - catch fish  
-kapetruke - trap (snare)  
-kare - work  
-• karaje - work (job, task)  
-• karekan - workshop  
-• karer - worker  
-• duskar - misdeed (sin, vice)  
-• konkare - collaborate (work together)  
-karelexe - verb  
-karemeza - desk  
-karexuler - apprentice  
-kara - black  
+kape truke - trap (snare)  
+kape yo kuanga - mine (extract minerals)  
+kape yo pexe - catch fish  
+kape yo taxi - collect fees or taxes  
+kar - car (cart, carriage, wagon, automobile)  
+kar parke - car park (parking lot)  
 karaoke - karaoke  
 karate - karate  
-• karateiste - karateka (practitioner of karate)  
-karave - caraway  
-karbe - carbon (coal)  
-karboduloxide - carbon dioxide  
-karbosui - carbohydrate (saccharide)  
+karate ja - karateka (practitioner of karate)  
+karavi - caraway  
 karbau - water buffalo  
+karbon - carbon (coal)  
+karbon duoxide - carbon dioxide  
+karbon kalam - pencil  
+karbon sui - carbohydrate (saccharide)  
 karcof - globe artichoke  
-karde - card  
 kardon - thistle  
-kardonkarcof - artichoke thistle (cardoon)  
-karge - burden (load, weight, charge, cargo)  
-• rikarge - recharge (reload)  
+kardon karcof - artichoke thistle (cardoon)  
+karga - charge (burden, load, weight)  
 kargadan: - rhinoceros  
 kari - curry  
-Karibia - Caribbean  
-karime - charitable (gentle, kind)  
-karimia - charity  
+Karibe - Caribbean  
+karibu - near (close, almost)  
+kaributa - proximity  
+karim - charity  
+karim di - charitable (gentle, kind)  
 karite - shea (vitellaria)  
-karnade - Kannada  
-karnadia - Karnataka  
+karma - action (act, deed)  
+• ankarma ja - off (deactivated, disabled, inactive)  
+karma e asar - cause and effect  
+karma ja - doer (agent, actor, activist)  
+karma ja di - active (on, enabled)  
+karma loga - verb  
+Karnada - Karnataka  
+karnada baxa - Kannada  
 karote - carrot  
 karse - rough (coarse)  
-karsolimon - makrut lime (kaffir lime)  
-karte - map (chart)  
-kartografia - cartography  
-Kartul - Georgia (Republic of Georgia)  
+karse limon - makrut lime (kaffir lime)  
+karta - map (chart)  
+kartagrafi - cartography  
+karte - card  
+Kartuli - Georgia (Republic of Georgia)  
+karuba - carob (St. John's bread)  
 karvan - caravan (convoy)  
-karube - carob (St. John's bread)  
-kase - box (container, case)  
-• kase (de mone) - cash box  
-• kasete - cassette  
-• kaser - cashier  
-• kasule - capsule  
-kaske - shell (crust, carapace)  
-kaslan - lazy (indolent)  
-kastan - chestnut  
-kate - bite  
-• katade - chew (masticate)  
-kategluteban - clipboard (paste buffer)  
-kategom - chewing gum  
+kasa - box (container)  
+kaska - shell (crust, carapace)  
+kastana - chestnut  
+kasu - event (case, instance)  
+kata - tale (story, legend, saga)  
+kata ja - narrator  
 Katalunia - Catalonia  
 katana - sword  
-Katar - Qatar  
 katus - cactus  
-kave - dig (excavate)  
-• kavaje - pit (excavation, cavity)  
-kavai - cute (sweet)  
 Kaukasia - Caucasia  
 kauri - cowrie  
-Kazakia - Kazakhstan  
-ke - what? (who? which?)  
-ke su - whose?  
-ke yange - what kind of?  
+kava - dig (pit, cavity)  
+• exkava - excavate (dig out)  
+kavai - cute (sweet)  
+ke - what?  
 ke jen - who?  
-ke mode - how?  
-ke multe - how many?  
-ke sate - when?  
-ke xei - what thing?  
+ke loka - where?  
+ke multi di - how many?  
+ke riti - how?  
+ke sata - when?  
+ke xe - what thing?  
+ke yang - what kind of?  
 kecape - ketchup  
 keci - polite  
-kege - visitation (visit)  
-kege - visit  
-keger - visitor (guest)  
+keka - visitation (visit)  
+keka ja - visitor (guest)  
 keke - cake (cookie)  
 kelele - noise  
 kelvin - kelvin  
-Kemia - Ancient Egypt (Kemet)  
-Kenia - Kenya  
-kenar - border (edge, fringe, margin, rim, side, shore, periphery)  
-kenare - peripheral  
-kenarbaryer - fence  
-kenarfon - consonant  
-kentaur - centaur  
-kentaurhua - centaury  
-kerube - cherub  
-ketle - kettle  
-kex - hair  
-sukexe - good-haired  
-kexbende - hairband (headband)  
-kexebroxe - hairbrush  
-kexefentor - hairdryer  
-kexemode - hairstyle  
-kexesabun - shampoo  
-keze - cheese  
-kezeproten - casein  
+Keme - Ancient Egypt (Kemet)  
+Kenya - Kenya  
+kerne - core (nucleus, kernel)  
+kerne arme - nuclear weapon (nuke)  
+kerne cira - nuclear fission  
+kerne energi - nuclear energy  
+kerne fizika - nuclear physics  
+kerne unta - nuclear fusion  
+kerubi - cherub  
+ketel - kettle  
+kexa - hair  
+kexa bande - hairband (headband)  
+kexa broxa - hairbrush  
+kexa hin - hairless  
+kexa sabun - shampoo  
+ki - that (conjunction)  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
-kime - substance (physical material from which something is made)  
-• kimia - chemistry  
-• kimike - chemical  
-• kimium - chemical element  
+kimi - substance (physical material from which something is made)  
+kimi di - chemical  
+kimilogi - chemistry  
+kimi so - chemical element  
 kimono - kimono  
-kine - movement  
-kine - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
-kine - kinetic  
-kinu - move oneself  
-• kinofilike - cinephile (filmaholic)  
-• kinografe - movie (cinema)  
-• kinografia - cinematography  
-• kinografike - cinematic  
-• kinografekan - movie theatre  
-Kinsasa - Kinshasa  
-Kinsasa Kongo - Congo Kinshasa  
+kinar - border (edge, fringe, margin, rim, side, shore, periphery)  
+kinar baryer - fence  
+kinar di - peripheral  
+kinar fon - consonant  
+kino - movement  
+kino di - kinetic  
+kino grafi - movie (cinema)  
+kino grafi arte - cinematography  
+kino grafi di - cinematic  
+kino grafikan - movie theatre  
+Kinxasa - Kinshasa  
+Kinxasa Kongo - Congo Kinshasa  
+kio - bridge  
 kioske - kiosk  
 Kipris - Cyprus  
-kire - carat  
-kiredege - rent (charter, lease)  
-kiredone - rent out (let, lease)  
+kira - carat  
+kira da - rent out (let, lease)  
+kira kape - rent (charter, lease)  
 kirate - carat  
-Kirgizia - Kyrgyzstan  
+Kirgize - Kyrgyzstan  
 Kiribati - Kiribati  
-kiril harfia - Cyrillic alphabet  
-kitabe - write (writing)  
-• kitabia - literature (body of written works)  
-• kitabeme - grapheme  
-kitaboforme - formatting  
-kitabekan - library  
-kitabemanter - librarian  
-kitabemaxin - typewriter  
+Kiril zi - Cyrillic alphabet  
+kisma - destiny (fate, lot, kismet)  
+kitabu - write (text)  
+kitabu culi - word processing  
+kitabu forma - formatting  
+kitabu gi - typewriter  
+kitabukan - library  
+kitabu minister - librarian  
+kitabu so - grapheme  
+kitabu suta - literature  
 kivi - kiwi fruit  
-klame - cry (shout, scream, yell)  
-• deklame - declaim (protest, object vociferously)  
-• proklame - call out (proclaim)  
-• reklame - shout back (reclaim)  
-klare - clear (obvious; obviously, of course)  
-• klarife - clarify (clear up)  
-klarvide - clairvoyance  
-klarvider - clairvoyant  
+klar - clear (obvious)  
+klar! - of course! (obviously)  
 klas - class (category)  
-klase - classify (categorize)  
 klien - customer (client, patron)  
 klike - click (snap)  
-klim - climate  
-• klimize - climatize  
-klimolojia - climatology  
-klimolojer - climatologist  
-klimomute - climate change  
+klima - climate  
+klimalogi - climatology  
+klima mute - climate change  
+klin - slope (tilt, slant, bias, inclination, tendency)  
 klon - clone (replica)  
-klone - clone (replicate)  
-klorium - chlorine  
+klor - chlorine  
 klube - club  
-kluze - close (shut)  
-• exkluze - exclude (keep out)  
-• ankluze - unclose (open)  
-• exkluzive - exclusive  
-• inkluze - include (enclose, hold in)  
-• inkluze da - including  
-• inkluzive - inclusive  
-• konkluze - conclude (close together)  
+klus - close (shut)  
+klus di - closed  
 koala - koala  
 kobalte - cobalt  
+koda - tail (coda)  
 kode - code (cipher)  
-• dekode - decode (decrypt)  
-• inkode - encode (encrypt)  
+• ankode - decode (decrypt)  
 koka - coca  
-koka kola - Coca-Cola  
-kokode - chicken  
-Kokos nesia - Cocos (Keeling) Islands  
-kola - cola  
+Koka Kola - Coca-Cola  
+koko - chicken  
+Kokos nesi - Cocos (Keeling) Islands  
+kola - kola  
+kola frute - kola nut  
 kola jus - cola  
-kola pal - kola nut  
 Kolombia - Colombia  
-kolone - colonize  
-kolonia - colony (settlement)  
-kolonisme - colonialism  
-koloniste - colonialist  
-koloner - colonist  
-• poskolonia - postcolonial  
-kolum - column (pillar, pole, post)  
-kome - comic (funny)  
-• komodia - comedy  
+koloni - colony (settlement)  
+koloni ja - colonist  
+koloni sim - colonialism  
+koloni sim ja - colonialist  
+kolum - pillar (column, pole, post)  
 koma - comma  
-Komoro nesia - Comoros  
-kompania - company (corporation)  
+komal - soft  
+Komoro nesi - Comoros  
+kompani - company (corporation)  
+komputa di - digital  
+komputa hor loga gi - digital clock  
 kon - with (together; common)  
-• konife - share  
-• konike - common (shared)  
-• kontre - go against  
-konjen - companion (partner, sidekick)  
+kon bon - match (fit, suit, go well together)  
+kon forma - conform (fit, mold)  
+kon funsibil - compatible (supported)  
+kon gong - collaborate (work together)  
+kon pasi - compassion  
+kon sabe - information (communicable knowledge)  
+kon sana sim - communism  
+kon sana sim ja - communist  
+kon sel - give consultation  
+kon sel ja - counselor (consultant)  
+kon su - common (mutual)  
+kon trati - pact (contract, covenant, alliance)  
+konun - common (shared)  
 Konakri Ginia - Guinea  
-koncung - insect  
-kong - hole  
-konge - pierce (perforate, bore)  
-Kongfuze - Confucious  
-kongfuzisme - Confucianism  
-• neu kongfuzisme - Neo-Confucianism  
+kone - cone  
 Konkani - Konkani  
 konserte - concert  
-konus - cone  
-kopernikium - copernicium  
-kopi - copy (replicate)  
-• kopiaje - copy (duplicate, replica)  
-kopihake - copyright  
-kor - core (heart, nucleus, kernel)  
-• koraje - guts (courage)  
-• korajive - encouraging (incentive)  
-korarme - nuclear weapon (nuke)  
-korenergia - nuclear energy  
-korfenia - nuclear fission  
-korfizikia - nuclear physics  
-korefuzion - nuclear fusion  
+kontra - go against  
+koperni yum - copernicium  
+kopi - copy (duplicate, replica)  
+kopi haki - copyright  
 koral - coral  
+kore - run  
+kore ja - runner  
 korne - horn  
-kornemelon - horned melon (kiwano)  
-koron - crown  
-koronvirus - corona virus  
-korse - chair  
-korte - shorten  
+korne melon - horned melon (kiwano)  
+korona - crown  
+korona virus - corona virus  
 korte - short (brief)  
-kortokrokodil - alligator  
-kose - cough  
-kosme - cosmic  
-kosmia - space (cosmos, universe)  
-kosmobiolojia - astrobiology  
-kosmonau - spaceship  
-kosmonaver - cosmonaut  
+korte fa - shorten  
+korte kata - short story  
+korte krokodil - alligator  
+kosmo - space (cosmos, universe)  
+kosmo biologi - astrobiology  
+kosmo di - cosmic  
+kosmo nave - spaceship  
+kosmo nave ja - cosmonaut  
+koso - cough  
 Kosovo - Kosovo  
-koste - cost (price)  
-koste - cost  
-koste - expensive (costly)  
 Kosta Rika - Costa Rica  
+koste - cost (price)  
+koste di - expensive (costly)  
 kote - coat  
-Kote Da Ivar - Côte d’Ivoire (Ivory Coast)  
+Kote de Ivar - Côte d’Ivoire (Ivory Coast)  
 krabe - crab  
 krake - crack (rift)  
 kran - valve (tap, faucet)  
-kratia - rule (reign)  
-krede - believe (trust, credit)  
-krede - trust (rely)  
-• kredebil - credible (believable)  
-• krediste - believer (religious person)  
-• ankrede - distrust (disbelieve)  
-• ankredebil - incredible (unbelievable)  
-• bekrede - trustee  
-bekredebil - loyal (faithful, trustworthy)  
-bekredebilia - loyalty (faithfulness)  
-• ankrediste - unbeliever (infidel)  
-• sinkredisme - synchretism  
-kredokarde - credit card  
+krati - rule (reign, government, -ocracy, -archy)  
+kredi - believe (trust, credit, rely on)  
+• ankredi - distrust (disbelieve)  
+• ankredibil - incredible (unbelievable)  
+• ankredija - unbeliever (infidel)  
+• bekredi - trustee  
+• bekredibil - loyal (faithful, trustworthy)  
+• bekredibilta - loyalty (faithfulness)  
+• sinkredisim - synchretism  
+kredibil - credible (believable)  
+kredija - believer (religious person)  
+kredikarte - credit card  
 krem - cream  
-kreme - creamy (cream colored)  
+krem di - creamy (cream colored)  
 krepe - pancake  
-• kreperia - pancake house (crêperie)  
-krevete - shrimp (prawn)  
+krepekan - pancake house (crêperie)  
 krim - crime  
-krime - criminal  
-kriste - Christ (messiah)  
-• kristike - messianic  
-• kristisme - Christianity  
-• krististe - Christian  
-kristejen - Christmas  
-• antikriste - antichrist  
-krite - evaluation (criticism)  
-• krita - evaluate (review, criticise)  
-• kriter - critic  
+krim di - criminal  
+krita - cry (shout)  
 kriton - krypton  
-krize - crisis  
-• krizi - critical (pertaining to crisis)  
+krizi - crisis  
+krizi di - critical (pertaining to crisis)  
 krokodil - crocodillian  
-krokroke - frog  
-kromium - chromium  
+krokro - frog  
+krom yum - chromium  
 krote - mole (burrowing animal)  
 kruasan - croissant  
 krus - cross  
-krus - cross (go across)  
-krusarke - crossbow (ballista)  
-krusefixe - crucify  
-kruseline - crosshair (reticle)  
-kuane - wide (broad)  
-kuania - width (breadth)  
-kuang - mineral (ore)  
-kuange - mine (extract)  
-kuangia - mine  
-kuanger - miner  
-kuangsui - mineral water  
-kuangtunel - mineshaft  
+krus arka - crossbow (ballista)  
+krus lin - crosshair (reticle)  
+kuan - wide (broad)  
+kuanta - width (breadth)  
+kuanga - mineral (ore)  
+kuanga ja - miner  
+kuanga san - mine  
+kuanga sui - mineral water  
+kuanga tunel - mineshaft  
 kuarze - quartz  
-kube - cube  
 Kuba - Cuba  
+kube - cube  
+kudi - elbow  
+kudi metre - cubit  
 kuke - cook (prepare food)  
-Kuke nesia - Cook Islands  
-kukokamar - kitchen  
-kuker - cook (chef)  
+kuke ja - cook (chef)  
+kuke kamar - kitchen  
+Kuke nesi - Cook Islands  
 kuku - cuckoo  
 kul - cool  
 kulombe - coulomb (unit)  
 kultur - culture  
-• polikulture - multicultural  
-• polikulturisme - multiculturalism  
-kume - mound (hill)  
-• kumule - heap (hillock, accumulation; heap up, accumulate)  
-kumulonepe - cumulus cloud  
-kumar - adolescent (yong man; maiden)  
-kupe - drinking vessel (cup, glass, mug, goblet, chalice)  
-kupecate - dome  
+kumu - mound (hill)  
+kung - hole  
+Kung Fuzi - Confucious  
+kung fuzi sim - Confucianism  
+kupa - drinking vessel (cup, glass, mug, goblet, chalice)  
+kupa cati - dome  
 kupon - coupon  
 kupre - copper  
-kure - care (cure)  
-kurium - curium  
-• ankurebil - incurable  
 kuran - Quran (Koran)  
+kurban - sacrifice (offer)  
+kuri yum - curium  
 kurse - go (going; course)  
 • exkurse - excursion  
 • prekurse - go or come before  
 • prekurser - precursor (predecessor, forerunner)  
 • rikurse - recur (go again)  
 • trakurse - go through (go by)  
-kurve - curve (bend)  
-Kuvaitia - Kuwait  
-kuxe - lie (lie down; lay, lay down)  
-kuxloke - berth (couchette)  
+kursi - chair  
+kurva - curve (bend)  
+kurva di - curvy (curved)  
+Kuvaite - Kuwait  
+kux loka - berth (couchette)  
 kuxen - cushion (pillow)  
 
 ## L  
 
-la - the  
-labe - lip  
+la - the (that)  
+laba - bugle (horn instrument)  
+labi - lip  
 lage - lake  
 Lagos - Lagos  
 lai - come (arrive)  
-laiane - bring  
 laka - lacquer (varnish)  
-lale - red  
-lalelince - bobcat  
-laloranje - mandarin orange (tangerine)  
-lalsalmon - sockeye salmon  
-lalobavite - ruby  
+lala - lull  
+lalabede - cradle  
+lalagani - lullaby  
 lama - lama  
-• lamaisme - lamaism  
-lampe - lamp  
-LAN (loke aria nete) - LAN  
+lamadin - lamaism  
+lampa - lamp  
+LAN (loka area nete) - LAN  
 langan - banister (handrail)  
 Lanka - Sri Lanka (Ceylon)  
-lantanium - lanthanum  
-Lao - Laos  
-Lao jen - Lao (Laotian)  
-larve - larva (maggot, caterpillar)  
+lanse - throw (launch)  
+lanse grafi - projection (image)  
+lanse xe - projectile (missile)  
+lantan - lanthanum  
+larva - larva (maggot, caterpillar)  
 lasa - garbage (rubbish, trash, junk)  
 lasastan - dump (junk yard)  
 lasatong - garbage can (trash bin)  
-laste - elastic  
 lasun - garlic  
 late - side (flank)  
-late - be beside  
-• latude - latitude  
-• alative - allative case  
-• abolative - ablative case  
-• exlative - elative case  
-• inlative - illative case  
-• tralative - translative case  
-latedike - lateral (horizontal)  
-latini harfia - Latin alphabet  
-latinkitabe - romanize  
+late di - sideways (laterally)  
+late di - lateral (horizontal)  
+late jen - companion (partner, sidekick)  
+Latin zi - Latin alphabet  
 Latvia - Latvia  
+Lau - Laos  
 lau - old (aged, elderly)  
-laujen - elderly (senior, old person)  
-launen - old age  
-laurensium - lawrencium  
-laxe - loose (laxe; loosen, let loose, let go)  
-• relaxe - relax  
+lau di - Lao (Laotian)  
+lau jen - elder  
+laurence yum - lawrencium  
+laxe - leave behind (abandon, let go)  
+laxe xe - leftover (residue, vestige)  
 lazanya - lasagna  
-lazure - azure  
-lazurite - lapis lazuli  
-le - already (yet)  
-lege - light (weightless)  
-lenge - cold  
-lengemosim - winter  
-lengemosimike - wintry  
+lazur - azure  
+lazur petra - lapis lazuli  
+le - attain (accomplish, indicates the current position)  
+leng - cold  
+leng mosim - winter  
+leng mosim di - wintry  
 lense - lens  
-Lesa - Lhasa  
+lente - slow (lethargic)  
+lenxi - exercise  
 letre - letter (written message)  
 letus - lettuce  
-leve - left  
-leviste - leftist (left-winger)  
-lexe - word  
-• lexia - vocabulary (lexicon)  
-• lexeme - lexeme  
-• lexike - lexical (related to words)  
-lexojinse - grammatical gender  
-lexoliste - word list (lexicon)  
-leze - pear  
+leu - left  
+leu di - left hand  
+leu sim ja - leftist (left-winger)  
 liama - llama  
-Libia - Libya  
-libe - erect  
-libe - erect (standing)  
-libu - stand  
-libeban - shelf (bookshelf)  
-libebaze - stand (rack)  
 Libanen - Lebanon  
 libele - dragonfly  
 Liberia - Liberia  
+Libia - Libya  
 lici - lychee (litchi)  
-lide - lead (direct)  
-• lider - leader (director)  
-lidoline - leash (rein)  
+lida - lead (direct)  
+lida ja - leader (director)  
+lida lin - leash (rein)  
 Lietuva - Lithuania  
-lietuva baxe - Lithuanian  
-lifafe - wrap (wrapping, envelope, covering)  
-lige - associate (association, league)  
-• alige - ally  
+lietuva baxa - Lithuanian  
+lifafa - wrapping (envelope, covering)  
+liga - league (alliance)  
+liga di sanduku - Ark of the Covenant  
+ligu - light (requiring little effort, easy, soft, minute, unimportant, etc.)  
+ligu veze di - light (light-weight)  
 Lihtenstain - Liechtenstein  
 lila - lilac  
 lila rang - lilac color  
-lime - limit (boundary)  
-• anlimia - infinity  
-• belime - limited (finite)  
-• tralime - too much (over limit)  
+lima - five (5)  
+lima fase - pentahedron (prism)  
+lima gona - pentagon  
 limfa - lymph  
+limite - limit (boundary)  
+• anlimite - infinity  
+limite di - finite (limited)  
 limon - lemon  
-• limonike - citrus fruit  
-limonluge - lime green  
-limonrange - yellow  
 limon jus - lemonade  
-line - line (thread, string)  
-lineme - fibre  
-linoparce - line break (newline)  
-lince - lynx  
-lipe - lipid (fat, grease, oil)  
-lipocupe - liposuction  
-lipofobia - lipophobia  
-lipoguke - Indian chrysanthemum  
-lise - smooth  
+limon oranje - citrus fruit  
+limon verde di - lime green  
+lin - line (thread, string)  
+lin parce - line break (newline)  
+lin so - fibre  
+linke - connection, (association, joint, link, relationship)  
+linse - lynx  
+lipa - stand  
+lipa bano - shelf (bookshelf)  
+lipa baze - stand (rack)  
+lipa di - erect (standing)  
+lipa side - crouch (squat)  
+lis - smooth  
 lisan - tongue  
 liste - list (listing, catalogue)  
-inliste - table of contents (inventory)  
-litium - lithium  
+lito yum - lithium  
 litre - litre (liter)  
-live - stay behind (remain, linger; leave behind)  
-• livaje - rest (remainder)  
-livermorium - livermorium  
-lobake - radish  
-loge - say (talk, speak, tell; speech)  
-• duologia - dilogy (duology)  
-• trilogia - trilogy  
-• logofilia - logophilia  
-• logofiliste - logophile (word buff)  
-• logive - talkative  
-• euloge - praise (eulogy)  
-logaslia - etymology  
-• logografe - logogram (logo)  
-logironia - verbal irony (sarcasm)  
-loje - research (to study)  
-• lojia - science (study, research)  
-loke - place (location, situation; lie; put, set)  
-• lokike - local  
-lon - discussion (debate, discourse)  
-lone - debate (discuss)  
-lona biznes - negotiate (arrange)  
+livermor yum - livermorium  
+loba - radish  
+loga - speech (talk, words)  
+loga asal - etymology  
+loga di - spoken (lexical)  
+loga fen - syllable  
+loga fili - logophilia  
+loga fili ja - logophile (word buff)  
+loga ironi - verbal irony (sarcasm)  
+loga jama - vocabulary (lexicon)  
+loga liste - dictionary (word list)  
+loga so - word (lexeme)  
+loga tabi di - talkative  
+loge - register (record, log)  
+loge buku - logbook  
+loge cuti - log out (log off)  
+loge jin - log in (sign in)  
+logi - study (research, science, -ology)  
+logi safar ja - explorer  
+logika - logic (deduction)  
+logika di - logical  
+loka - place (location)  
+loka di - local  
+loka nume - coordinates  
+lona - discussion (debate, discourse)  
 London - London  
-longe - long (lengthy)  
-• longes - length  
-• longife - lengthen (prolong)  
-• longude - longitude  
-longodure - long (long-lasting, prolonged)  
-longokrokodil - crocodile  
-longopipre - long pepper (pipli)  
-lontre - otter  
+long - long (lengthy)  
+long dur - for a long time  
+long dur di - long (long-lasting, prolonged)  
+long kata - novel  
+long krokodil - crocodile  
+long pipre - long pepper (pipli)  
+longta - length  
+long tire - stretch (extend)  
 lote - batch (lot)  
+lotra - otter  
 lou - leak  
 lou sang - bleed  
-luge - register (record, log)  
-• lugia - registry (account)  
-lugebuke - logbook  
-luke - green  
-lukemelon - honeydew (green melon)  
-lume - shine  
-• lumive - luminous (shining)  
-lumen - lumen  
-lumbe - loin  
-lumbalgia - lumbago  
-lun - moon  
-• lunule - moonlet (lunula)  
-lun - month  
-lun un - January  
-lun du - February  
-lun tri - March  
-lun catre - April  
-lun pente - May  
-lun sixe - June  
-lun cete - July  
-lun bate - August  
-lun nove - September  
-lun des - October  
-lun des un - November  
-lun des du - December  
-lun den - date (month and day)  
-lunokeke - mooncake  
+luka - six (6)  
+luka fase - hexahedron (cube)  
+luka gona - hexagon  
+lulu - pearl  
+lulu table - abacus  
+luna - moon  
+luna keke - mooncake  
 lung - dragon  
-lute - rob (loot, plunder, pillage, ransack)  
-luter - robber (plunderer)  
-lutetium - lutetium  
-luxe - lush  
-• luxure - luxuriant (excessive)  
-• luxuria - luxury (excess)  
-• deluxe - deluxe  
+Lung Dexa - Bhutan  
+lung dou - winged bean  
+luta - rob (loot, plunder, pillage, ransack)  
+luta ja - robber (plunderer)  
+Luter din - Lutheranism  
+Luter din ja - Lutheran  
+lutesi yum - lutetium  
 Luxemburge - Luxembourg  
 
 ## M  
 
-ma - mom (mama)  
-• matre - mother  
-• matria - motherland  
-mamatre - maternal grandmother  
-mapatre - maternal grandfather  
-mace - compete (match, contest)  
-madu - honey  
-maduvespe - honeybee  
-maduvesponide - beehive (honeycomb)  
-maduvesposanduke - beehive (beehouse)  
+ma - mother (mom, mama)  
+ma di - motherly (maternal)  
+ma su ma - maternal grandmother  
+ma su pa - maternal grandfather  
+Madagasi - Madagascar  
+madagasi di - Malagasy  
 maf - pardon (forgiveness; sorry)  
-mafe - forgive (pardon)  
-mage - magical  
-magia - magic  
-magasar - spell (enchantment)  
-mager - magician (sorcerer)  
-magente - magenta (fuchsia)  
-magesium - magnesium  
-Magyaria - Hungary  
-Magribia - Morocco  
-mai - mother (mom, mama)  
-mayan - Maya  
-Mayote - Mayotte  
+magen yum - magnesium  
+magi - magic  
+magi asar - spell (enchantment)  
+magi di - magical  
+magi ja - magician (sorcerer, mage, wizard)  
+magi liki - magical power  
+Magribi dexa - Morocco  
+Magyar - Hungary  
+mahala - quarter (neighbourhood, district, locality, section of town)  
 mais - corn (maize)  
-maitnerium - meitnerium  
 majang - mahjong  
-Maka - Mecca  
-makal - article (writing)  
+majenta - magenta (fuchsia)  
+Makah - Mecca  
+makala - article (writing)  
 makan - butter  
-makanful - dandelion  
+makan hua - dandelion  
 makas - scissors (shears)  
 Makau - Macao  
-male - own (possess; property, belongings, possessions)  
-• malike - lord (owner)  
-• malonomia - economics  
-• maler - owner (proprietor, possessor)  
-• be male - belong  
-malagas - Malagasy  
-Malagasia - Madagascar  
-malayali - Malayali (Malayalam)  
+mal - property (belongings, possessions)  
+mal ja - owner (proprietor)  
+mal nomi - economics  
 Malaisia - Malaysia  
 malaria - malaria  
 Malavi - Malawi  
+malayali - Malayali (Malayalam)  
 malayu - Malay  
 Mali - Mali  
-malika - jasmine  
 Malta - Malta  
-Malvinas nesia - Falkland Islands (Malvinas)  
-mam - breast (boob, tit)  
-• mamal - mammal  
-• mamalia - mammals  
+Malvinas nesi - Falkland Islands (Malvinas)  
 mamal - mammal  
+mana - meaning (signification)  
+manera - behavior (manners)  
 manete - magnet  
-• manetike - magnetic  
+manete di - magnetic  
+mang - busy (occupied)  
 mangan - manganese  
 mango - mango  
 mangus - mangosteen  
 Mani - prophet Mani  
-maniisme - Manichaeism  
-Manin nes - Isle of Man  
-manioke - cassava (manioc)  
-manir - behavior (manners)  
-manire - behave (act)  
-manse - meat (flesh)  
-mante - public office  
-• mantike - official (pertaining to public trust)  
-• manter - public officer (mandarin, minister)  
-• manteria - ministry (office, bureau)  
-manto - cape (cloak, mantle)  
+mani din - Manichaeism  
+Manin nesi - Isle of Man  
+manioka - cassava (manioc)  
+manioka fufu - tapioca  
+mantol - cape (cloak, mantle)  
 mantra - mantra (chant)  
 mantu - steamed bun (mantou, manti)  
 mar - time (instance, occasion)  
-• polimaria - frequency  
-marate - Marathi  
+marati - Marathi  
 maraton - marathon  
 marce - walk (march)  
 margai - margay  
 margarin - margarine  
-margarite - daisy  
-Marian nesia - Northern Mariana Islands  
+margarita - daisy  
+Mariana nesi - Northern Mariana Islands  
 marke - mark (trace)  
 Marse - Mars  
-martinluterisme - Lutheranism  
-martinluteriste - Lutheran  
-Marxal nesia - Marshall Islands  
-mas - mass (quantity of matter)  
-masmul - tuber (bulb)  
-masmulsolful - Jerusalem artichoke (sunroot)  
-masaje - massage (knead, give a massage)  
-masale - spice (seasoning)  
-masale tike - tikka masala  
-maske - mask (camouflage)  
-maste - mast  
-master - master (master’s degree)  
-master da arte (MA) - Master of Arts  
-master da engenia (ME) - Master of Engineering  
-master da filsofia (MF) - Master of Philosophy  
-master da sentia (MS) - Master of Science  
-master da tehnolojia (MT) - Master of Technology  
+Marxal nesi - Marshall Islands  
+masa - mass (quantity of matter)  
+masa mula - tuber (bulb)  
+masa mula sol hua - Jerusalem artichoke (sunroot)  
+masaje - massage  
+masala - spice (seasoning)  
+masala tika - tikka masala  
+maska - mask (camouflage)  
+masta - mast  
+maste - master (be an expert at sth)  
+master - master (expert)  
+master de arte (MA) - Master of Arts  
+master de enjenia (ME) - Master of Engineering  
+master de filsofi (MF) - Master of Philosophy  
+master de ilmi (MI) - Master of Science  
+master de tehnilogi (MT) - Master of Technology  
+mata - death  
+mata badan - corpse (dead body)  
+mata badan fili - necrophilia  
+mata di - dead (deceased)  
+mata ja - killer  
 mate - matter (substance)  
-mate - material  
-mate - maté  
-mate cai - maté tea  
+mate di - material  
+mate lona - materialism  
 matras - mattress  
+matur - mature (ripe, adult)  
+matur fem - woman (adult female)  
+matur jen - adult  
+matur man - man (adult male)  
 mau - cat  
-Maurisia - Mauritius  
 max - more  
-• maxaje - addition (extra)  
-• maxife - increase  
-• maxime - most (maximally)  
-• maximife - maximize  
-• maximaje - maximum  
-• maxure - major (not minor)  
-• maxuria - majority  
-maxobale - reinforce (replenish)  
-maxobalaje - reinforcements  
-maxbone - bonus  
-maxdarge - increment  
-maxolivaje - leftover (surplus, residue, vestige)  
-maxorai - overestimate  
-maxin - machine  
+max darja - increment  
+max di - additional  
+max di fen - majority  
+max fili - prefer (favor)  
+max fili di - favorite (preferred)  
+max fili sim - favoritism  
+max gun - reinforcements  
+max ka bas - too much  
+maxim - most (maximally)  
+maxim di - maximal  
+maxim xe - maximum  
+maya - Maya  
+Mayote - Mayotte  
 mayur - peafowl (peacock)  
 maze - sock (stocking)  
-me - meh  
-mede - help (aid)  
-• medize - assist (provide help)  
-• meder - helper (aid)  
+me - -th (ordinal suffix)  
+mece - match (contest)  
 medal - medallion (medal)  
-meden - field (square, plaza, maidan)  
-medene - open (wide, spacious)  
-medenfobia - agoraphobia  
-medenpapil - corn poppy  
-medite - meditate (ponder)  
-megagram - tonne (metric ton)  
-megavate - megawat (MW)  
-meh - sheep  
-mehi kex - wool (fleece)  
+medan - field (square, plaza, maidan)  
+medan di - open (wide, spacious)  
+medan fobi - agoraphobia  
+medan papi - corn poppy  
+mede - help (aid, assistance)  
+mede ja - helper (supporter, proponent, backer)  
+medi - middle (the part in between)  
+media - medium (media, mass media)  
+medi di - medium (intermediate, mean)  
+medi dia - noon (midday)  
+medi fase - interface  
+medi gi - instrument (means)  
+medi noce - midnight  
+medi xe - medium (media, buffer)  
+medu - honey  
+medu fong - honeybee  
+medu fong nide - beehive (honeycomb)  
+medu fong sanduku - beehive (beehouse)  
+mega gram - tonne (metric ton)  
+mega vate - megawat (MW)  
+megi - cloud  
+megi di - cloudy (foggy)  
 Mehiko - Mexico  
-Mehiko site - Mexico City  
+Mehiko siti - Mexico City  
 mei - beautiful (handsome, pretty)  
-• meyia - beauty  
-• meyize - decorate (embellish; decoration, ornament)  
-meideke - virtue  
-mei jen - beauty (beautiful person)  
-melodrame - melodrama  
-melodi - melodious (melodic)  
-melodia - melody  
+mei daka - decoration (ornament)  
+mei suta - fine arts  
+mei suta ja - artist  
+meita - beauty  
+meitner yum - meitnerium  
+melodi - melody  
+melodi di - melodious (melodic)  
 melon - muskmelon  
-meme - memory (recollection)  
-meme - remember (recall)  
-• memure - memory (remembrance)  
-• dememe - forget  
-memobine - monument (memorial)  
-memonote - memorandum (memo)  
 membe - belong (be a member)  
-• member - member (component)  
+membre - member (component)  
+meme - sheep  
+meme kexa - wool (fleece)  
+memo - memory (recollection)  
+• anmemo - forget  
+memo bina - monument (memorial)  
+memo note - memorandum (memo)  
+memo tehni - mnemotechny  
 men - one (people, you)  
-mendelevium - mendelevium  
+mena - noodle  
+mendelef yum - mendelevium  
 meninge - meninx (meninges)  
-meningitis - meningitis  
-mente - mind (ability for consciousness, perception and thinking)  
-menter - advisor (counselor, mentor)  
-• demente - demented (out of one’s mind)  
-menu - menu  
-merante - lauan tree (meranti, balau)  
+meninge tis - meningitis  
+mentor - advisor (counselor, mentor)  
+meranti - lauan tree (meranti, balau)  
 Merkur - Mercury  
-meste - master (be an expert at sth)  
-mester - master (expert)  
+mes - month  
+mes bati - August  
+mes ceti - July  
+mes des - October  
+mes des du - December  
+mes des un - November  
+mes du - February  
+mes lima - May  
+mes luka - June  
+mes nelu - April  
+mes tisa - September  
+mes tri - March  
+mes un - January  
+mesi - Christ (messiah)  
+• anmesi - antichrist  
+mesi di - messianic  
+mesi din - Christianity  
+mesi din ja - Christian  
+mesi gene - Christmas  
 metal - metal  
-metalbede - anvil  
-metalline - wire  
-metalzanger - blacksmith (iron forger)  
+metal bede - anvil  
+metal jiang ja - blacksmith (iron forger)  
+metal lin - wire  
 metal tul - hardware (ironware, equipment)  
-metode - method (means)  
 metre - measure (measurement)  
-• parametre - parameter  
-metrune - unit (measurement)  
+metre gi - meter (measuring device)  
+metre unta - unit (measurement)  
 meza - table  
-mezastan - plateau (tableland)  
-mezatexe - tablecloth  
+meza stan - plateau (tableland)  
+meza tela - tablecloth  
 mi - I (me)  
-mi su - my  
 mimen - we  
 mimen su - our  
-Myanma - Myanmar (Burma)  
-mide - middle (the part in between)  
-midi - medium (intermediate, mean)  
-midia - medium (media)  
-midofas - interface  
-mien - noodle  
-migre - move (migrate, relocate)  
-• exmigre - emigrate (move out)  
-• inmigre - immigrate (move in)  
-• inmigrer - immigrant  
-mikre - tiny (microscopic)  
-• mikro- - micro-  
-mikrobie - microorganism (microbe)  
-mikrobiolojia - microbiology  
-Mikronesia - Micronesia  
+mi su - my  
+Mianma - Myanmar (Burma)  
+migra - migration (moving)  
+mikro bio - microorganism (microbe)  
+mikro biologi - microbiology  
+Mikronesi - Micronesia  
 mikroskope - microscope  
 mili - milli-  
-miligram - milligram  
-milimitre - millimeter  
+mili gram - milligram  
+mili mitre - millimeter  
 milke - milk  
-milkokardon - milk thistle  
-mime - mimic (imitate)  
-mime - emulate (simulate, mimic, model)  
-mimer - imitator (mime)  
+milke kardon - milk thistle  
+mima - mimic (imitate)  
+mima ja - imitator (mime)  
 Mimas - Mimas  
 min - less  
-• minife - decrease (lessen)  
-• minime - least (minimal)  
-• minimife - minimize  
-• minimisme - minimalism  
-• minure - minor (not major)  
-• minuria - minority  
-• minus - except (minus)  
+min di fen - minority  
 min ka bas - too little  
-minodarge - decrement  
-minrai - underestimate  
-ming - bright (brilliant)  
-• traming - translucent  
-minte - mint  
+min poli - less (fewer)  
+minare - tower  
+ming - bright (brilliant, clear)  
+minim - least (minimally)  
+minim di - minimal  
+minim sim - minimalism  
+ministre ja - minister  
+ministre ofis - ministry  
+minor - minor (not major)  
+minta - mint  
 minute - minute  
-mire - reflect  
-• miraje - mirage  
-• miror - mirror  
-miroson - echo  
+mira - reflect  
+mira plate - mirror  
+mira sonde - echo  
 Miranda - Miranda  
-mise - send (emit, transmit)  
-• misia - mission (transmission, emission)  
-• misaje - message  
-• mision - mission (sending)  
-• misioner - missionary  
-• miser - sender (transmitter)  
-• exmise - emit (send out)  
-• inmise - import  
-• konmise - commit  
-• konmisia - commission (committee)  
-• tramise - transmit   
-• tramision - transmission  
-• tramisor - transmitter  
-mise poste kase - letterbox (mailbox, sending point for mail)  
+mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
 misal - example (instance of)  
+mise - send (emit, transmit)  
+mise ja - sender (transmitter)  
+mise xe - mission (transmission, emission)  
 miskin - poor (miserable)  
-misre - Egyptian  
-Misria - Egypt  
+Misri - Egypt  
+misri di - Egyptian  
+miti - meeting (gathering)  
 mitre - meter (100 cm)  
 mixe - mix (blend)  
-• mixer - mixer (blender)  
-• mixure - mixture  
+mixe alkol - cocktail  
+mixe gi - mixer (blender)  
 mode - way (manner, mode)  
-• konmode - comfortable (convenient, commodious)  
-• akonmode - accommodate   
-modelexe - adverb  
+mode loge - adverb  
 model - model (design)  
-modele - model (design)  
-moge - ink  
-moke - tree  
-mokoban - wood board (plank)  
-mokomate - wood (timber)  
-mokotan - log (trunk)  
-mokozanger - carpenter  
-mokozongoparke - arboretum  
-mokegana - post (stake, peg, skewer)  
-mole - grind (grind in mill)  
-• molekan - mill  
-• moler - miller  
-molite - grindstone (millstone)  
+moka - tree  
+moka bano - wood board (plank)  
+moka jiang ja - carpenter  
+moka jong parke - arboretum  
+moka kane - stake (stick, peg, skewer)  
+moka mate - wood (timber)  
+moka tana - log (trunk)  
+mol ja - miller  
+molkan - mill  
+mol seku - grindstone (millstone)  
 Moldova - Moldova  
 mole - mole (unit)  
 molekul - molecule  
-molidenium - molybdenum  
+moli - jasmine  
+moli hua cai - jasmine tea  
+moliden - molybdenum  
 moluske - mollusk  
-mone - money  
-• monete - coin  
 Monako - Monaco  
-mongole - Mongol  
-Mongolia - Mongolia  
-monster - monster  
-monte - mountain (mount, hill)  
-• montaner - mountaineer  
-• montete - hill  
-montepike - top (peak, pinnacle, summit, apex, vertex)  
-morfe - morph  
-• morfeme - morpheme  
-morte - die (death; dead, deceased)  
-• mortebil - mortal  
-• mortife - kill  
-• morter - killer  
-• posmortal - post mortem  
+Mongol - Mongolia  
+mongol di - Mongolian  
+moral - morality (ethics)  
+moral di - moral  
+morallogi - ethics  
+Moris - Mauritius  
 mos - moss  
+mos di - mossy  
 mosim - season  
 moskite - mosquito  
-Moskove - Moscow  
-moskovium - moscovium  
-mote - motion (movement)  
-• moter - engine (motor)  
-motegar - motorcar (automobile)  
-motesikle - motorcycle  
-moteskuter - motor scooter  
+Moskva - Moscow  
+moskva yum - moscovium  
+mostre - monster  
+moto - engine (motor)  
+moto gar - motorcar (automobile)  
+moto sikle - motorcycle  
+move - motion (movement)  
 Mozambike - Mozambique  
 mudan - peony  
-muh - cow  
-muhmanse - beef  
-muke - face  
-• sumuke - beautiful-faced  
-mukefun - face powder  
-mul - root  
-multe - many (much)  
-• multia - number (abundance)  
-• multeple - multiple  
+muka - face  
+muka fun - face powder  
+mula - root  
+multi - many (much)  
+multiple - multiple  
+multita - number (abundance)  
 mum - wax  
-• mumaje - mumijo (shilajit)  
-• mumike - mummy  
-mumcape - wax seal  
-mumfote - candle  
-mumjen - mummy  
-mummelon - winter melon (wax gourd, ash gourd)  
+mum cape - wax seal  
+mum foto - candle  
+mum jen - mummy  
+mum melon - winter melon (wax gourd, ash gourd)  
 Mumbai - Mumbai (Bombay)  
-mun - door (gate)  
-• daimun - gate (portal)  
+mumu - cow  
+mumu nama - beef  
+mun - door (gate, portal)  
 mungus - mongoose  
 mur - wall (structure for delimitation)  
-murkaguje - wallpaper  
+mur kaguji - wallpaper  
 murce - ant  
 Muritania - Mauritania  
-mus - coercion (must; force, compel)  
+mus - must (have to, should)  
+musta - obligation (compulsion)  
 muskete - musket  
-musketer - musketeer  
+muskete ja - musketeer  
 muskul - muscle  
-muskulbine - bodybuilding  
+muskul bina - bodybuilding  
 musli - muesli  
 mute - change (alter, convert)  
-mux - mouse  
-muze - have fun (enjoy; amuse, entertain; amusement, entertainment)  
-• muzante - funny (amusing)  
-muzike - music (play music)  
-• muziker - musician  
+muxu - mouse or rat  
+muxu cakra - scroll wheel  
+muzika - music  
+muzika ja - musician  
 
 ## N  
 
-nabe - prophecy  
-naber - prophet  
-nadir - rare (scarce, uncommon; seldom, rarely)  
+na - get (obtain, take, grasp, receive)  
+na ja - getter (receiver, recipient)  
+na xiti - gains and losses (pros and cons)  
+nabi - prophecy  
+nabi ja - prophet  
+nadir - rare (scarce, uncommon)  
+nadir mar - seldom (rarely)  
 nafas - breath  
-nagis - corruption (filth, pollution, contamination, najis)  
-nagise - corrupt (pollute, soil, defile, stain, taint)  
-nagise - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
-nagisbinde - stain (spot)  
-nagre - town  
-nagre - urban  
+nagar - town  
+nagar di - urban  
 nahun - nail (fingernail)  
+Naijiria - Nigeria  
+najis - corruption (filth, pollution, contamination, najis)  
+najis bindu - stain (spot)  
+najis di - dirty (soiled, polluted, defiled, tainted, unclean, impure)  
 nam - name  
-name - be called (be named)  
-namane - call (name)  
-namative - nominative case  
-namkitabe - sign (autograph)  
-• antinam - antonym  
-• dusnam - insult (offense; offend, call names)  
-• exonam - exonym  
-• inonam - endonym  
-• pronam - pronoun  
-namelexe - noun  
-Namibe - Namibe desert  
+• annam - antonym  
+nam dokumen - identity document (identification, ID)  
+nam hin - nameless (unnamed, anonymous)  
+nam kitabu - sign (autograph)  
+nam loga - noun  
+nam tikete - nametag  
+nama - meat (flesh)  
 Namibia - Namibia  
 nan - male  
-nane - nano-  
-nanomitre - nanometer  
 nanas - pineapple  
-narake - hell  
-narde - backgammon  
-narke - drug (narcotic, dope, intoxicating substance)  
-• narke - intoxicated (high, stoned)  
-• narkiste - drug addict  
-• narkose - narcosis  
-narme - soft  
-nas - people (folk)  
-• nasia - nation  
-• nasian - people (folk)  
-• nasial - national  
-• nasisme - nationalism  
-• nasiste - nationalist  
-• polinase - multinational  
-• polinasike - multinational  
-nasial sosisme - national socialism  
-nasomede - international  
-nasibe - destiny (fate)  
-nate - birth  
-• nature - nature  
-• innate - innate (endogenous, indigenous, inborn)  
+nano - nano-  
+nano mitre - nanometer  
+naraka - hell  
+nardi - backgammon  
+narko - drug (narcotic, dope, intoxicating substance)  
+narkomanika - drug addict  
+narkosona - narcosis  
+nasi - nation  
+nasi di - national  
+nasi jen - people (folk)  
+nasi medi - international  
+nasi sim - nationalism  
+nasi sim ja - nationalist  
+nasi sosi sim - national socialism (Nazism)  
+nasi sosi sim ja - Nazi  
+nati - birth  
+• innati - innate (endogenous, indigenous, inborn)  
 • posnatal - postnatal  
 • prenatal - prenatal  
-• rinate - rebirth (renaissance)  
-natre - natron  
-natrium - sodium  
-nau - boat (ship)  
-• naver - sailer  
-nauga - sail (navigate)  
-naukaper - privateer (buccaneer)  
-nauleve - port (left side of a ship)  
-nauraite - starboard (right side of a ship)  
-nauxefe - captain  
-navate - Nahuatl (Nahua)  
+• rinati - rebirth (renaissance)  
+natia - nation  
+natre bilor - natron  
+natri - sodium  
+nau - brain  
+nau di - cerebral  
+nau hin - brainless  
 Nauru - Nauru  
 nautile - nautilus  
-naze - nose (nasal)  
-nazisme - Nazism  
-naziste - Nazi  
+nava - Nahuatl (Nahua)  
+nave - boat (ship)  
+nave ga - sail  
+nave ga ja - sailer  
+nave kape ja - privateer (buccaneer)  
+nave leu - port (left side of a ship)  
+nave raite - starboard (right side of a ship)  
+nave xefe - captain  
 ne - right? (isn't it?)  
-Nederlandi Antil - Netherlands Antilles  
-Nederlandia - Netherlands  
+Nederlande - Netherlands  
+Nederlande Antil - Netherlands Antilles  
 nefre - kidney  
-nefritis - nephritis  
-nege - refuse (deny, decline)  
-• negative - negative  
-• denege - deny (refuse, turn away)  
-nekre - dead (deceised)  
-• nekrofilisme - nechrophilia  
-• nekroliste - necrology (listing of people who have died)  
-• nekrologe - obituary (necrology)  
-• nekrotome - autopsy (necrotomy)  
+nefre tis - nephritis  
+nefte - oil  
+nefte guku - Indian chrysanthemum  
+nega - refuse (deny, decline)  
+nelu - four (4)  
+nelu di galope - gallop  
+nelu gona - square (tetragon)  
 nen - year  
-nenfeste - anniversary  
-nen lun den - date (year, month and day)  
+nen festa - anniversary  
+nen mes den - date  
 nenufar - water lily (nenuphar)  
-neodimium - neodymium  
+neodim yum - neodymium  
 neon - neon  
-nepe - cloud  
-• nepi - cloudy (foggy)  
-• nepolojia - nephology  
-Nepotun - Neptune  
-nepotunium - neptunium  
 Nepal - Nepal  
-nes - island  
-• nesia - archipelago  
-nete - nexus (web, network)  
-• anete - annex  
-• internete - internet  
-• konnete - connect  
-• konnetion - connection  
-• konnetor - connector  
-• dekonnete - disconnect  
-ö - upload  
-netekape - download  
-neteloke - website  
-neu - new (recent)  
-• nevia - newness  
-• nevaje - novelty (new product)  
-• nevike - novice (newbie)  
-• reneve - renew (make new, renovate)  
-Neu Kaledonia - New Caledonia  
-Neu Yorke - New York  
-Neu Yorke site - New York City  
-neu Zelandia - New Zealand  
-neufite - neophyte plant  
-neugene - newborn  
-neuloge - neologism  
-neuyangike - modern  
+Neputun - Neptune  
+neputun yum - neptunium  
+nerve - nerve  
+nerve di - neural  
+nerve pati - neuropathy  
+nerve selu - neuron  
+nerve toxi - neurotoxin  
+nesi - island  
+nesia - archipelago (island chain)  
+nete - net (web, mesh)  
+nete da - upload  
+nete gete - download  
+nete loka - website  
+neu - novelty (new product)  
+neu di - new (recent)  
+neu fito - neophyte plant  
+neu gene di - newborn  
+neu jen - novice (newbie)  
+neu Kaledonia - New Caledonia  
+neu loga - neologism  
+neuta - newness  
+neu yang di - modern  
+neu Yorke - New York  
+neu Yorke siti - New York City  
+neu Zelande - New Zealand  
 Nevis - Nevis  
-neure - nerve (neural)  
-neurocel - neuron  
-neuropatia - neuropathy  
-neurotoxe - neurotoxin  
 ni - female  
+ni - this  
+nia - intention (purpose)  
+nice - underside (underneath)  
+nice di - lower (inferior)  
+nice kitabu - subtitles (captions)  
 nide - nest (hive, den)  
-Niger - Niger  
-Nigiria - Nigeria  
+Nijer - Niger  
 Nikaragua - Nicaragua  
 nikel - nickel  
 nil - blue  
-nilbavite - sapphire  
-nilkentaurhua - cornflower  
-nilseramsing - azure bluet  
+nilelfe - smurf  
+nilsentaure - cornflower  
+nilserami sing - azure bluet  
 nilon - nylon  
-ninde - insult (offence)  
-ninde - rude (offensive)  
-niobium - niobium  
+niobi yum - niobium  
 Nipon - Japan  
-nipone - Japanese  
-niponium - nihonium  
-nis - niche (recess, alcove)  
-Nistria - Transnistria  
+nipon di - Japanese  
+nipon yum - nihonium  
+Nistre - Dniester  
 nitre - nitrogen  
 Niue - Niue  
+niuton - newton (N)  
+nix - niche (recess, alcove)  
 no - not (no)  
-no ham di - any (whichever; arbitrary)  
-nobelium - nobelium  
+no a lin - offline  
+nobel yum - nobelium  
+nobi - genderqueer (non-binary)  
 noce - night  
-nocomode - night mode  
-node - tie (make knot; knot, node)  
-• nodule - lump (nodule)  
-nole - cancel (nullify)  
-nome - manage (organize)  
-• nomia - management (arrangement, -nomy)  
-norde - north (northern)  
-Norde Amerike - North America  
-Norde Cosen - North Korea (Democratic People’s Republic of Korea)  
-Norde Eire - Northern Ireland  
+noce mode - night mode  
+node - knot (node)  
+Noe - Noah  
+Noe di nave - Noah’s arc  
+nume - number  
+nume zi - digit (figure, numeral)  
+nomi - management (arrangement, -nomy)  
+norde - north  
+Norde Aire - Northern Ireland  
+Norde Amerika - North America  
+Norde cosen - North Korea (Democratic People’s Republic of Korea)  
+norde di - northern  
 Norde Kipris - Northen Cyprus  
 Norde Makedonia - Republic of North Macedonia  
-Norfolke nes - Norfolk Island  
+Norfolke nesi - Norfolk Island  
 Norge - Norway  
-norge - Norwegian  
-norme - norm (standard; normal)  
-• annorme - abnormal  
-• paranorme - paranormal  
-nose - know (be acquainted or familiar with)  
-• nosion - notion  
-• nosisme - Gnosticism  
-• nosiste - Gnostic  
-• annose - ignore  
-• annosike - ignorant  
-• annosisme - agnosticism  
-• annosiste - agnostic  
-• benose - known  
-• anbenose - strange (unknown)  
-• dianose - diagnosis  
-• konnose - recognize (associate with)  
-• konnosion - cognition  
-• pronose - prognosis  
-• rinose - recognize (remember)  
-nosolojia - epistemology  
-noste - homecoming  
+norge baxa - Norwegian language  
+norma - norm (standard)  
+norma di - normal  
+nos - nose  
+nos di - nasal  
 nostalgia - nostalgia (longing)  
-nostalgike - nostalgic  
-note - note (observation, remark, comment; notice, observe)  
-• notife - notify  
-• notize - notice (notification)  
-notobuke - notebook  
-nove - nine (9)  
-• novime - ninth  
+nostalgia di - nostalgic  
+note - note (observe, notice)  
+note anjil - notice (notification)  
+note buku - notebook  
+note xe - note (observation, remark, comment)  
+nu - well (now; used to introduce a statement)  
 nude - naked (bare, nude)  
-• nudisme - nudism  
-• nudiste - nudist  
-nuke - neck (nape)  
-nume - number (count; enumerate)  
-nunce - announce (declare)  
-• denunce - denounce (announce the termination of)  
-• pronunce - pronounce (proclaim, promulgate)  
-• renunce - renounce (decline, reject)  
-nuton - newton (N)  
+nude sim - nudism  
+nude sim ja - nudist  
+nuka - neck (nape)  
 
 ## O  
 
 o - or  
 Oberon - Oberon  
 Oceania - Oceania  
-ode - ode (verse)  
-odise - Odia (Oriya)  
-ofis - office (position)  
-ofise - official  
-ofisia - office (bureau)  
-ofiskan - office (room)  
-ofiser - officer  
-oke - eye  
-• okule - ocular  
-okokex - eyelash  
-okosui - tear drop  
-okosuigas - tear gas  
-okei - okay (acceptance; accept, say okay)  
-• okeibil - acceptable  
-Olandi nesia - Aland Islands  
+Odisa - Odia (Oriya)  
+oganeson - oganesson  
+ohtopus - octopus  
+oke - okay (acceptance; accept, say okay)  
+okebil - acceptable  
+Olande nesi - Aland Islands  
 Oman - Oman  
-onde - wave  
+onda - wave  
+Onduras - Honduras  
 onor - respect (honor, esteem)  
-onore - respect (honor, think highly of)  
-onore - honorable (respectable)  
-or - ear  
-ore - listen  
-oritis - otitis  
-orange - orange (fruit)  
-orangi - orange (orange-colored)  
-orde - army  
-ordorejia - shogunate  
-ordorejer - generalissimo (shogun)  
-ordojen - soldier  
+onor di - honorable (respectable)  
+oranje - orange (fruit)  
+oranje rang - orange (orange-colored)  
+ore - ear  
+ore tis - otitis  
 orgazme - orgasm  
 orkide - orchid  
-orome - Oromo (an Ethiopian ethnic group and language)  
-Oromia - Oromia  
-orte - straight  
-ortogon - right angle  
-ortogone - orthogonal (perpendicular)  
-ose - abundant (-ous)  
+oromo - Oromo (an Ethiopian ethnic group)  
+Oromo Dexa - Oromia  
+orto - straight  
+orto gona - right angle  
+orto gona di - orthogonal (perpendicular)  
 oselote - ocelot  
 osidian - obsidian  
-osmium - osmium  
+oskope - scope (viewer)  
+oskur - dark (dim)  
 osman - Ottoman  
-Osmani Imperia - Ottoman Empire  
+Osman Imperi Dexa - Ottoman Empire  
+osmi yum - osmium  
 osmos - osmosis  
 oste - bone  
-ostogamia - skeleton (frame)  
-ostosalke - scute  
+oste jama - skeleton (frame)  
+oste xalke - scute  
 Ostria - Austria  
-ote - opt (prefer, choose)  
-• otime - optimum  
-• otimal - optimal  
-• otimisme - optimism  
-• otimiste - optimist  
-• otion - option (preference)  
-• otional - optional  
-ove - egg  
-• ovoide - oval  
-oxe - oxygen  
+oxi - oxygen  
 oxide - oxide  
-oze - functional disease or disorder  
 
 ## P  
 
-pa - dad (papa)  
-• patre - father  
-• patria - fatherland  
-• expatrian - expatriate  
-• konpatrian - compatriot (fellow citizen)  
-• repatriate - repatriate  
-pamatre - paternal grandmother  
-papatre - paternal grandfather  
-pace - peace  
-• pacisme - pacifism  
-• paciste - pacifist  
-• depace - unrest  
-Pace Hai - Pacific Ocean  
-pacehaikade - Pacific cod  
-pade - fall down (drop down)  
-• depade - stray (deviate)  
-padomosim - autumn (fall)  
-padomun - trapdoor  
-pagre - turban  
+pa - father (dad, papa)  
+pa di - fatherly (paternal)  
+pa su ma - paternal grandmother  
+pa su pa - paternal grandfather  
+pada - fall  
+pada di - fallen  
+pada mosim - autumn (fall)  
+pada mun - trapdoor  
+pagri - turban  
 pai - pie (pastry)  
-payace - clown  
+paka - coercion (force, compulsion)  
 pake - pack (package)  
-• pakaje - package  
-• pakete - packet  
-• depake - unpack  
 Pakistan - Pakistan  
-pakse - bird  
-pal - fruit  
-palabe - conflict (argument, dispute, quarrel)  
-paladium - palladium  
+paksi - bird  
+palaba - conflict (argument, dispute, quarrel)  
+paladi yum - palladium  
 Palau - Palau  
-palme - palm tree  
-pan - all  
+palma - palm tree  
+pan - every (all)  
+pan afrika di - pan-African  
+pan amerika di - pan-American  
+pan asia di - pan-Asian  
+pan demi di - pandemic  
+pan demi pati - pandemic disease  
+pan demon - pandemonium  
+pan deu - pantheon  
+pan deu sim - pantheism  
+pan dunia di - global (concerning the whole world)  
+pan europa di - pan-European  
 pan jen - everybody (everyone)  
+pan mima - pantomime  
+pan romanse di - panromantic  
+pan sata - always  
+pan sexe di - pansexual  
+pan un - every (each)  
 pan xe - everything  
-panafrike - pan-African  
-panamerike - pan-American  
-panase - pan-Asian  
-pandeme - pandemic  
-pandemi patia - pandemic disease  
-pandemonia - pandemonium  
-pandevia - pantheon  
-pandevisme - pantheism  
-pandune - global (concerning the whole world)  
-pandunia - Pandunia  
-panduniste - Pandunia speaker  
-paneurope - pan-European  
-panmime - pantomime  
-panromanse - panromantic  
-pansato - always  
-pansexe - pansexual  
-panun - every (each)  
 Panama - Panama  
 panda - panda  
+pandunia - Pandunia  
+pandunia ja - Pandunia speaker  
 pang - bread  
 panike - panic  
 panir - quark (paneer)  
-panjabe - Punjabi  
-panke - wing  
+panjabi - Punjabi  
+panka - fan (ventilator)  
 pante - pants (trousers)  
 papagai - parrot (parakeet)  
 papaya - papaya  
 papir - document (paper)  
-Papua Neu Ginia - Papua New Guinea  
-pare - even (level, peer, equal)  
-pare nume - even number  
-• parife - equalize (balance, even out)  
-• parike - peer  
-• parestan - level  
-• bepare - equal  
-• konpare - compare  
-• prepare - ready (prepared; prepare)  
-• repare - repair (restore to equal condition)  
-• parebil - parable  
-parline - parallel (longitudinal)  
-parlinife - align (go along)  
-parvezia - equilibrium (balance)  
+Papua neu Ginia - Papua New Guinea  
+par - even (level, peer, equal)  
+par fase - level  
+par jen - peer  
+par nume - even number  
+par vezeta - equilibrium (balance)  
 Paraguai - Paraguay  
-paraye - outcast (pariah)  
-paraye - despise (scorn)  
 param - parameter (argument, input variable)  
-parce - shatter (break; fragment, morsel, crumb, shard)  
-parcokai - burst (pop)  
-• beparce - broken (shattered)  
+paraya - outcast (pariah)  
+parce - piece (fragment, shred, morsel, crumb, shard)  
+parce di - broken (shattered)  
+parce dipe - collapse  
+parce kai - burst (pop)  
+parde - curtain  
+pari - fairy (faery)  
+pari dexa - fairyland (paradise)  
+pari kata - fairy tale  
 Paris - Paris  
 parke - park (garden)  
 parne - fern  
-parte - participate (attend, partake, take part)  
-• partia - party (group)  
-• partaner - partner  
-• partaneria - partnership  
-• partative - partitive case  
-• partekul - particle  
-• parter - participant  
-• departure - departure  
-partecepe - participate  
-parteceper - participant  
-pas - pass (go across or through)  
-• pasive - passive (inactive)  
-• trapas - transit (pass through or across)  
-pasdau - pass (passage)  
-paslexe - password  
-pasporte - passport  
-paske - Easter  
+parti - party (group)  
+parti - participate (attend, partake, take part)  
+partia - party (group)  
+particepe - participate  
+particeper - participant  
+parti ja - participant  
+partijen - partner  
+pas - pass (go across or through, skip)  
+pas dau - pass (passage)  
+pas di - past (bygone)  
+pas loga - password  
+pas tabi - passive (inactive)  
+pase - peace  
+• anpase - unrest  
+Pase Hai - Pacific Ocean  
+pase hai bakalau - Pacific cod  
+pase sim - pacifism  
+pase sim ja - pacifist  
+pasi - pain (suffering)  
+pasi di - painful  
+paska - Easter  
 paskal - pascal (Pa)  
-paste - paste (dough)  
-pastopetre - magma  
-pate - ill (sick)  
-• patia - illness (sickness)  
-• patike - patient (subject of medical treatment)  
-• pation - disease  
-• patekan - hospital  
-• konpatia - compassion  
-patogener - pathogen  
-patolojia - pathology  
-patomise - infect (infection, infestation, contagion)  
+pasporte - passport  
+pasta - paste (dough)  
+pasta petra - magma  
 patate - potato  
-pau - gun (firearm)  
+pati - disease (illness, sickness)  
+pati di - ill (sick)  
+pati gene xe - pathogen  
+pati jen - patient (subject of medical treatment)  
+patikan - hospital  
+patilogi - pathology  
+pati mise - infection (infestation, contagion)  
+pau - shoot (fire)  
+pau gi - gun (firearm)  
 paunde - pound (£)  
-pauze - pause (break)  
-• repauze - rest (repose)  
-pede - bring up (educate, raise)  
-• pedia - education (upbringing)  
-• pedocentriste - pedocentrist  
-• pedofilia - pedophilia  
-• pedofobia - pedophobia  
-• prepedike - propaedeutic  
-pedogider - pedagogue  
+pauza - pause (break, interruption)  
 pedal - pedal  
-pedalsikle - bicycle (pedal bike)  
+pedal sikle - bicycle (pedal bike)  
+pede - fart (flatulence)  
+pedi - bring up (educate, raise)  
+pedia - education (upbringing)  
+pedifilia - pedophilia  
+pedifobia - pedophobia  
 pei - payment  
-pei - pay  
-peikar - profession (job, occupation, trade, vocation)  
-peikare - professional (occupational, career)  
-peikari jive - career (professional life)  
-peikarer - professional (pro)  
+pei gong - profession (job, occupation, trade, vocation)  
+pei gong di - professional (occupational, career)  
+pei gong ja - professional (pro)  
+pei gong jiva - career (professional life)  
 pele - drive  
 • apele - appeal (drive to oneself)  
 • depele - drive away  
@@ -3074,7 +3275,7 @@ pele - drive
 • inpele - impel (drive into)  
 • konpele - drive together  
 • propele - propel (drive forward)  
-• propelor - propeller  
+• propeler - propeller  
 • repele - repel (drive back)  
 pelmen - dumpling (ravioli, pelmeni)  
 pelpel - butterfly (moth)  
@@ -3083,461 +3284,419 @@ pena - feather
 penakalam - quill  
 penakardon - spear thistle  
 pende - hang (dangle)  
-pende - hang (dangle)  
-• pendaje - pendant  
-pendokardon - musk thistle  
-• apende - append (hang to)  
-• apendaje - appendix  
+pende kardon - musk thistle  
+pende sor - padlock  
 penis - penis (phallus)  
-pente - five (5)  
 pente - paint  
-pente - paint (cover in paint)  
-• penter - painter  
-pentobrox - paintbrush  
-pentofase - pentahedron (prism)  
-pentogone - pentagon  
-perde - fart (flatulence)  
-peresa - sloth (slow-moving mammal)  
+pente broxa - paintbrush  
+pente ja - painter  
+pente tela - canvas  
+pera - pear  
+perixe - perish (ruin, waste away)  
+perixe di - perished (ruined, desolate, wretched, miserable)  
 Peru - Peru  
-pete - belly (stomach, abdomen)  
+pesa - money  
+pesa diske - coin  
+pesa kasa - cash box  
+pesa kasa ja - cashier  
 peta - peta-  
-petre - rock  
-• petrolojia - petrology  
-petrolipe - petroleum  
+pete - belly (stomach, abdomen)  
+petra - rock  
+petra nefte - petroleum  
 pexe - fish  
-pexehuke - fishhook  
-pexetanke - fish tank  
+pexe huke - fishhook  
+pexe saide ja - fisher  
+pexe tanke - fish tank  
 piano - piano  
 piaze - onion  
-picea - spruce tree  
-pige - buttocks (bum, butt, ass)  
+pigu - buttocks (bum, butt, ass)  
 pijin - pidgin (contact language)  
 pike - point (tip, cusp, peak)  
 pil - skin (peel, bark, leather)  
-pile - pile  
-• depile - strip (peel)  
-• konpile - compile (pile up together)  
-• konpiler - compiler  
-piloter - pilot  
+pilote - pilot  
 pin - needle (pin, splinter, prickle, thorn, stinger, spine, quill)  
-pine - prick (sting)  
-pinane - piquant  
-pincope - pickaxe (mattock)  
-pinkardon - cotton thistle  
+pin cope - pickaxe  
+pin kardon - cotton thistle  
+pin sense di - piquant  
 pinguin - penguin  
 pinse - pinch  
-pinsoban - clipboard (physical board)  
-pinser - pliers (pincers)  
+pinse bano - clipboard (physical board)  
+pinse gi - pliers (pincers)  
 pipe - pipe  
+piping - evaluation (criticism)  
+piping ja - critic  
 pipre - pepper (peppercorn)  
-piprominte - peppermint  
+pipre minta - peppermint  
 piram - pyramid  
-piratia - piracy (hijacking)  
-piratiste - pirate (one who disobeys intellectual property laws)  
-piratisti partia - Pirate Party  
-pirater - pirate (hijacker)  
-airopiratia - air piracy (skyjacking)  
-pis - piss (urine)  
-pise - piss (urinate)  
+pirate - piracy  
+pirate ja - pirate (sea robber)  
+pirate parti - Pirate Party  
+pirate sim ja - pirate (one who disobeys intellectual property laws)  
+pisea - spruce tree  
 pistol - pistol  
-Pitkerne nesia - Pitcairn Islands  
+Pitkerne nesi - Pitcairn Islands  
+pixa - piss (urine)  
 piza - pizza  
-pizaria - pizzeria  
+pizakan - pizzeria  
 plan - plan  
-plane - intend (plan)  
-planobaxe - planned language  
-planete - planet  
-• explanete - exoplanet  
-plasme - plasma (ionized gas)  
-plaste - mold (shape)  
-• plastebil - plastic (moldable, malleable)  
-• plastike - plastic  
-plastepaste - playdough  
+planeta - planet  
+plasti - plastic  
+plasti di - plastic (moldable, malleable)  
+plasti paste - playdough  
 plate - plane (plate)  
-• platike - flat (planar)  
-plate geokaskia - plate tectonics  
-plateforme - platform  
-plategeiste - flat-earther  
-platestan - plain (plateau, flat lands)  
-platetas - plate  
-platinium - platinum  
+plate di - flat (planar)  
+plate forma - platform  
+plate geo kaskalogi - plate tectonics  
+plate geo sim ja - flat-earther  
+plate stan - plain (plateau, flat lands)  
+plate tasa - plate  
+platin - platinum  
 Platon - Plato  
-• platonike - Platonic  
-• platonisme - Platonism  
-• platoniste - Platonist  
-ploze - clap  
-• plozebil - plausible (praiseworthy)  
-• aploze - applaude  
-• exploze - explode (blow up; explosion)  
-• explozive - explosive  
-• inploze - implode (collapse; implosion)  
-plum - plum (prune)  
+Platon sim - Platonism  
+Platon sim di - Platonic  
+Platon sim ja - Platonist  
+plazma - plasma (ionized gas)  
 plumbe - lead  
 Pluton - Pluto (dwarf planet)  
-plutonium - plutonium  
-poyu - louse  
-poke - poker  
+pluton yum - plutonium  
+poker - poker  
 polau - pilaf (pulao)  
-polia - amount (quantity)  
-poli mar - often (frequently)  
-Polinesia - Polynesia  
+poli - many (much, more than one)  
+poli baxa di - multilingual  
+poli deu sim - polytheism  
+poli fase - polyhedron  
+poli gona - polygon  
+poli kultur di - multicultural  
+poli kultur sim - multiculturalism  
+poli marta - frequency  
+poli nasi di - multinational  
+poli semi di - ambiguous  
+polita - amount (quantity)  
+Polinesi - Polynesia  
 polis - police  
-poliser - police officer  
-polite - government (administration, polity)  
-polite - administer (govern)  
-politia - politics  
-politike - politician (statesman)  
-politike - political  
-politolojia - politicology  
-politomode - regime  
-politer - administrator  
-Polske - Poland  
-polske - Polish  
-polskium - polonium  
+polis ja - police officer  
+poliskan - police station  
+politi - government (administration, polity, politics)  
+politi di - political  
+politi ja - politician (administrator, statesman)  
+politilogi - politicology  
+politi lona - politics (political discourse)  
+politi mode - regime  
+Polska - Poland  
+polska baxa - Polish language  
+polska yum - polonium  
 pompe - pump  
-pompotape - piston  
+pompetapa - piston  
 ponte - point at (indicate)  
-pontopin - compass (magnetized needle)  
-ponter - pointer (indicator)  
-pore - pore  
-• porosi - porous  
+ponte flece - pointer (indicator)  
+ponte pin - compass (magnetized needle)  
 porei - leek  
-porne - porn  
-pornografia - pornography  
+porno - porn  
+porno grafi - pornography  
+porte - port (station)  
 porte - carry (bear)  
 • exporte - export  
 • reporte - report (bring back news, recount, relate)  
 • reporter - reporter  
 • suporte - support  
 • traporte - transport (transportation)  
-porta - port (station)  
-portorike - Puerto Rican  
 Portoriko - Puerto Rico  
+portoriko jen - Puerto Rican  
 Portugal - Portugal  
-portugalfone - lusophone (Portuguese speaking)  
+portugal baxa - Portuguese language  
 pos - consequence (back, follow-up)  
-pose - follow (come after)  
-pose - next (following, back)  
-poso - later (after, will, in the future)  
-postre - backward (posterior)  
-posozam - future time  
-posden - tomorrow  
+pos den - tomorrow  
+pos di - next (following, back)  
+pos di - back (posterior)  
+pos fixe - suffix  
+pos poza - put back (postpone)  
+pos zaman - future time  
 pospor - phosphorus  
-poste - mail (send by mail)  
-• postaje - mail  
-• postekan - post office  
-postecape - postal stamp  
-poste kase - letterbox (mailbox, delivery point for mail)   
-postemarke - postmark (postage stamp)  
-pote - pot (vase, bin, jar, jug, pitcher, carafe, amphora)  
-poter - potter  
-poteria - pottery  
-poze - pose (set; position)  
-• pozia - position  
-• depoze - remove (delete, dispose, erase)  
-• expoze - expose (reveal)  
-• inpoze - put in (impose)  
-• konpozaje - component  
-• pospoze - put back (postpone)  
-• pospoze - postposition  
-• prepoze - preposition  
-• propoze - propose (put forth; proposal, suggestion)  
-• subopoze - suppose (put under)  
-prasedium - praseodymium  
-prate - practice (actuality)  
-• pratike - practical (pragmatic)  
-pre - before (previous, fore, past)  
-• preaje - relic  
-• prime - initial (first; prime)  
-preden - yesterday  
+posta - mail  
+posta cape - postal stamp  
+postakan - post office  
+posta marke - postmark (postage stamp)  
+pote - pot (vase, bin, jar)  
+pote camaca - ladle (dipper, scoop)  
+pote ja - potter  
+pote suta - pottery  
+poto - mud (mire)  
+poto defa bano - fender  
+poto di - muddy  
+potostan - marsh (bog, swamp, morass)  
+poyu - louse  
+poze - pose (position)  
+prati - practice (actuality)  
+prati di - practical (pragmatic)  
+prazedim yum - praseodymium  
+prese - pressure  
 prese - press (pressure)  
-• preser - press device  
 • deprese - depress (push away)  
 • exprese - express (push out)  
 • konprese - compress (squeeze, squish)  
+• niceprese - suppress (press down)  
 • represe - repress (push back)  
-• suboprese - suppress (press down)  
-pro - forward  
-• pro- - forward (to the front)  
-probe - try (attempt, test, give a go, check out, probe)  
+prese gi - press device  
+• preser - press device  
+prezidente - president  
 problem - problem (issue)  
-• problemike - problematic  
-profeser - professor  
+problem di - problematic  
+profesor - professor  
 program - program (set of structured activities)  
-programer - programmer (coder)  
-projete - project (endeavour)  
-prometium - promethium  
-proses - process (procedure)  
-proten - protein  
-protacinium - protactinium  
-proxe - close (near)  
-• proxia - proximity  
-• aproxe - approach (get close, approximate)  
-• aproxime - approximate  
-pude - rotten  
-pudu - decay (rot, deteriorate)  
+program gi - software (virtual device)  
+program ja - programmer (coder)  
+Promete - Prometheus  
+promete yum - promethium  
+protacini yum - protactinium  
 puding - pudding  
-puje - worship (revere; reveration)  
-• pujekan - temple (place of worship)  
-pujemeza - altar  
-pujerite - ritual (ceremony, religious custom)  
-pul - bridge  
+puja - worship (reveration)  
+pujakan - temple (shrine, place of worship)  
+puja meza - altar  
+puja riti - ritual (ceremony, religious custom)  
+pul - full (complete, saturated)  
+pul bon - perfect  
+pul ekran - fullscreen  
+pul fina - complete (make done)  
+pul fito yam sim - veganism  
+pul fito yam sim ja - vegan  
+pul xipi - soak (steep, marinate)  
 pulmon - lung  
-pulse - push (thrust)  
-• pulsation - pulse  
-• inpulse - push in (impulse)  
-• propulse - push forward (propulsion)  
-• repulse - push away (repulse)  
-• repulsive - repulsive  
+pulmon tis - pneumonia  
 puma - cougar (puma, mountain lion)  
 punte - point (period, full stop)  
-puntoban - scoreboard  
-puntonumbe - score (grade)  
+punte bano - scoreboard  
+punte nume - score (grade)  
 pupe - doll (puppet)  
-pure - fill  
-pure - full (complete, saturated)  
-puro - fully (completely)  
-purbone - perfect (optimize, refine, polish)  
-purbone - perfect  
-purfine - complete (make done)  
-purfitoyamisme - veganism  
-purfitoyamiste - vegan  
-purxipe - soak (steep, marinate)  
+putau - grape  
+putau bagi - vineyard  
+putau oranje - grapefruit  
+pute - rotten  
 pute - put (arrange, set into a certain relation, state or condition)  
 • expute - output  
 • inpute - input   
 • konpute - compute (put data together)  
 • konputer - computer  
-putau - grape  
-putavorange - grapefruit  
-Putong Cina - Mandarin Chinese (Putonghua)  
-putonge - common (general)  
+putong - common (general)  
+Putong Han - Mandarin Chinese (Putonghua)  
+puxa - push  
+puxa gi - piston  
+Qatar - Qatar  
+Qazaqe - Kazakhstan  
 
 ## R  
 
-rade - ray  
-rade - radiate  
-radi geter - radio receiver  
-radi miser - radiotransmitter  
-radia - radiation  
-radium - radium  
-radometrer - radiometer  
-radike - root  
-• radikal - radical (going to the roots)  
-• exradike - eradicate (uproot)  
-• inradike - radicate (irradicate, root deeply)  
+radi - ray (radiation)  
+radi longta - radius  
+radi metre gi - radiometer  
+radi yum - radium  
+radio - radio  
+radio mise gi - radiotransmitter  
+radio na gi - radio receiver  
 radon - radon  
 rai - opinion (view)  
-rai - deem (opine, think that)  
-• dusrai - disapprove (frown upon)  
-• surai - approve  
 raite - right hand side  
-raite - right hand  
-raitiste - rightist (right-winger)  
+raite di - right hand  
+raite sim ja - rightist (right-winger)  
+raja - king or queen  
+raja dexa - kingdom  
+raja di - royal  
+rajanan - king  
+rajani - queen  
 rakun - raccoon  
 ramazan - Ramadan  
 rampe - ramp (incline, slope)  
 rande - plane (tool for making a smooth surface)  
-rande - smoothen with a plane  
-rang - color  
-range - colored  
-rangarke - rainbow  
-rangarkosalmon - rainbow trout  
-rangoglas - stained glass  
-rangomate - dye  
-rapsodia - rhapsody  
+rang - color (colored)  
+rang arka - rainbow  
+rang arka salmon - rainbow trout  
+rang kanca - stained glass  
+rang mate - dye  
+rapide - fast (quick, rapid, speedy)  
+rapide metre gi - speedometer  
+rapideta - speed (velocity)  
 rare - rare (uncommon, sparse)  
-raria - rarity  
-rase - race (breed)  
-• rasisme - racism  
-• rasiste - racist  
-rasomede - interracial  
+rareta - rarity  
+rasa - race (breed)  
+rasa medi - interracial  
+rasa sim - racism  
+rasa sim ja - racist  
 raste - growth  
-rate - make sense (reason)  
-• ration - reason (rational thinking)  
-• rationi - rational (reasonable)  
-• ratekan - village council  
-• ratolojia - logic  
-• ratolojike - logical  
-ratibe - order (arrangement, sequence)  
-ratibe - order (arrange)  
-ratibe - orderly (organized, in sequence, tidy, regular)  
-raze - shave (scrape, raze)  
-• razor - razor (shaving instrument)  
-razi table - tabula rasa  
-re- - backwards  
-retre - return (put back)  
-retrogul - throw up (vomit, regurgitate)  
-retrogul sense - nausea (motion sickness)  
+ratibu - order (arrangement, sequence)  
+ratibu di - orderly (organized, in sequence, tidy, regular)  
+razon - reason (rational thinking)  
+razon di - rational (reasonable)  
+re - repetition  
+re karga - recharge (reload)  
+re sikle - recycle  
+re zoku - continue (resume)  
 Rea - Rhea  
-reje - reign  
-• rejia - kingdom  
-• rejeben - prince or princess  
-• rejike - royal  
-• rejenan - king  
-• rejeni - queen  
-• rejer - king or queen  
-rel - real (genuine)  
-• relia - reality  
-• rel televizion - reality television  
-• relaje - thing (matter, topic)  
-• relisme - realism  
-• reliste - realist  
-• relize - realize (make real)  
-• anrel - unreal  
-rel televizion - reality television  
-renium - rhenium  
-rentogenium - roentgenium  
-repauze in pace (RIP) - rest in peace (RIP)  
-resete - instructions (recipe)  
-reside - receipt (acknowledgement; acknowledge)  
+rebel - rebellion  
+redi - ready (prepared)  
+Ren - Rhine  
+ren yum - rhenium  
+rentegen yum - roentgenium  
+reporte - report  
+reseta - instructions (recipe)  
+reside - receipt (acknowledgement)  
+reste - rest (remainder)  
 restorante - restaurant  
+retro - backward (in reverse)  
+retro dau - return (way back)  
+retro gula - throw up (vomit, regurgitate)  
+retro gula sense - nausea (motion sickness)  
+retro note - feedback  
+retro tikete - return ticket  
 Reunion - Réunion  
+rezerve - reservation (booking, withholding)  
 rezin - resin  
-ri- - repetition  
-• ri - again (repeatedly)  
-rice - rich  
-• ricia - wealth (fortune)  
+rike - rich  
+riketa - wealth (fortune)  
 rim - rhyme (verse)  
 ring - ring  
-ringare - ring (sports or exhibition arena)  
-ris - rice  
-ris arake - arrack  
-ris biskute - rice cake (puffed rice cake)  
-ris vin - rice wine  
-riske - risk  
-rite - custom (tradition, practice, convention; conventional, customary, traditional)  
+ringar - ring (sports or exhibition arena)  
+risko - risk  
+risko di - risky  
+riti - way (manner, means, method, mode, procedure, rite)  
 ritim - rhythm (beat)  
-riu - river (stream)  
-riumate - fluid (liquid)  
+rivo - river (stream)  
+rivo kinar - river bank  
 robote - robot (bot)  
 rode - rose  
-rodium - rhodium  
+rode rang - pink (rosy)  
+rode salmon - pink salmon  
+rode yum - rhodium  
 roke - rock (sway, tilt)  
-roke muzike - rock music  
+roke kursi - rocking chair  
+roke muzika - rock music  
 rokete - rocket  
-roketolancer - rocket launcher  
+rokete lanse gi - rocket launcher  
 rol - role  
-role - act (play a role)  
-• roler - actor (actress)  
-romante - romance (romantic love)  
-• anromante - aromantic  
+rol ja - actor (actress)  
+rolo - roll (scroll, coil)  
+rom - rum  
 Roma - Rome  
-Roma Imperia - Roman Empire  
+Roma Imperi Dexa - Roman Empire  
 roma kamil - Roman camomile  
 Romania - Romania  
+romanse - romance (romantic love)  
+• anromanse - aromantic  
+romanse di - romantic  
 rose - dew  
 roste - roast  
 roste pang - toast (toasted bread)  
-rote - wheel  
-• rotate - rotate (spin, turn on an axis)  
-• rotation - rotation  
-• roter - rotor (rotator)  
-rotolefto - counterclockwise (anticlockwise)  
-rotoraito - clockwise  
-rototafun - cyclone (hurrican, tornado, typhoon)  
-rototope - top (spinning top)  
-roze - rose  
-rozorange - pink (rosy)  
-rozosalmon - pink salmon  
+rota leu - counterclockwise (anticlockwise)  
+rota raite - clockwise  
+rota tafun - cyclone (hurrican, tornado, typhoon)  
+rota vanu gi - top (spinning top)  
+rota xe - rotor (rotator)  
 Ruanda - Rwanda  
-rubidium - rubidium  
-ruh - soul (mind, psyche)  
-ruhe - mental (psychic)  
-ruhlojia - psychology  
-ruhmixe - confuse (perplex, bewilder, baffle)  
+rubi - red  
+rubi bau seku - ruby  
+rubi linse - bobcat  
+rubi oranje - mandarin orange (tangerine)  
+rubi salmon - sockeye salmon  
+rubi yum - rubidium  
+ruhu - soul (mind, psyche)  
+ruhu di - mental (psychic)  
+ruhulogi - psychology  
+ruhu mixe - confuse (perplex, bewilder, baffle)  
+ruhu mixe di - confused (perplexed, disoriented, bewildered)  
 ruke - back  
-rukosake - backpack (rucksack)  
-rul - roll (scroll, coil)  
-• rulete - roulette  
-rum - rum  
+ruke sake - backpack (rucksack)  
 Rundi - Burundi  
-rupe - appearance (looks; seem)  
-• surupe - good-looking (handsome)  
-ruse - Russian  
+rupa - appearance (looks)  
+rus krepe - blini  
+rus yum - ruthenium  
 Rusia - Russia  
-rusi krepe - blini  
-rute - burst (split, break, rupture)  
-• ruture - rupture (break)  
-• exrute - erupt (burst out)  
-• interrute - interrupt  
-rutenium - ruthenium  
-ruterfordium - rutherfordium  
+rusia baxa - Russian language  
+rute - route (path, trail, course, itinerary)  
+rute galte di - stray (deviant)  
+ruterfor yum - rutherfordium  
 rutin - routine (habit)  
 
 ## S  
 
-sabe - know (know how, savvy)  
-• sabize - communicate (inform about)  
-• konsabe - information (communicable knowledge)  
-sabevol - interest (curiosity)  
-sabevole - interested (curious)  
-sabevolive - interested (curious)  
-besabovole - interesting (curious)  
-sababe - reason (cause)  
 sabate - Sabbath  
+sabe - know (be aware of)  
+• ansabe di - strange (unknown)  
+sabelogi - epistemology  
+sabe vol - interest (curiosity)  
+sabe vol di - interesting (curious)  
+sabe vol ja - interested (curious)  
+sabe xe - knowledge  
 sable - sand  
-• movesable - quicksand  
 sableburge - sandcastle  
-sablepetre - sandstone  
+sablepetra - sandstone  
 sablestan - desert  
+sabu - reason (cause)  
 sabun - soap  
-sade - plain (ordinary, unadorned, simple, mere)  
-sade di - simply (merely, only)  
-safe - clean (pure; purify)  
-• safer - cleaner  
+sada - plain (ordinary, unadorned, simple, mere)  
+safa - clean (pure)  
+safa ja - cleaner  
+safa tela - wipe (rag, cleaning cloth)  
 safar - travel (voyage, trip)  
-• safarisme - tourism  
-• safariste - tourist  
-• safarer - traveler  
-safaroceke - traveller's cheque (traveler's check)  
+safarceke - traveller's cheque (traveler's check)  
+safar ja - traveler  
+safar keka - tourism  
+safar keka ja - tourist  
 safran - saffron  
-sage - tale (story, legend, saga; tell, narrate)  
 sagu - sago palm  
 sagu fun - sago  
-sahe - right (correct, accurate)  
-Saharia - Sahrawi Arab Democratic Republic  
-saye - shadow  
+Sahara Dexa - Sahrawi Arab Democratic Republic  
+sahi - right (correct, accurate)  
+saide - hunting (fishing)  
+saide ja - hunter  
+saide yo pexe - go fishing  
 sake - bag (sack)  
-sal - hello (hi)  
-sale - healthy  
-• sales - health (state of wellbeing)  
-• salude - health (condition, level of health)  
-• resale - recover  
-sal cute - farewell  
-sal den - good day  
-sal lai - welcome!  
-sal noce - good night  
-sal suba - good morning  
-sal xam - good evening  
-sal yam - bon appetit!  
-salam - greet (wish well; greeting; wellfare)  
-salamia - well-being (prosperity)  
-salsafe - cleanly (hygienic, sanitary)  
-salsafia - hygiene (cleanliness)  
+sal - salt  
+sal biskute - cracker (soda cracker)  
+sal di - salty (saline)  
+sala - hall (big room)  
 salade - salad  
+salam - greeting (hello)  
+salam cuti - farewell  
+salam di - good (prosperous; used in greetings)  
+salam dia - Good day  
+salam lai - welcome!  
+salam suba - Good morning  
+salamta - well-being (prosperity)  
+salam xam - Good evening  
+salam yam - bon appetit!  
 salmon - salmon (trout)  
-salte - salt  
+Salon - Sierra Leone  
+salu - healthy  
+salu safa di - cleanly (hygienic, sanitary)  
+salu safata - hygiene (cleanliness)  
+saluta - health  
 Salvador - El Salvador  
-salve - save (rescue, salvage)  
-• salver - savior (rescuer)  
-sam: - same (equal, match)  
-• sames - sameness  
-• samike - similar (analogous)  
-samodexan - compatriot  
-samemote - compassion (sympathy)  
-sammetre - symmetrical  
-sammetria - symmetry  
-samname - homonym  
-samrai - agree (concur)  
-samrayia - agreement (consent)  
-samsifia - model (similarity, simulation)  
-samarium - samarium  
+sam - same (equal, alike, match)  
+sam dexa jen - compatriot  
+sam emos - compassion (sympathy)  
+sam metre - symmetry (symmetrical)  
+sam nam - homonym  
+sam rai - agreement (consent)  
+sam romanse di - homoromantic  
+sam sexe di - homosexual  
+sam sifa di - similar (analogous)  
+sam sifa xe - model (simulation)  
+sama - sky (heaven)  
+sama di - celestial (heavenly)  
+sama hal - weather  
+sama kinar - horizon  
+sama nil - light blue (sky blue, azure)  
+samari yum - samarium  
 Samoa - Samoa  
+san - mountain (hill)  
+san pike - top (peak, pinnacle, summit, apex, vertex)  
+sana - manufacturing (production, industry)  
+sana baxa - artificial language (conlang)  
+sana di - artificial  
+sana ja - maker (manufacturer)  
+sana ja di - productive (fertile)  
 sanduice - sandwich  
-sanduke - box (chest)  
+sanduku - box (chest)  
 sante - holy (sacred)  
-• santike - saint  
+Sante Helena - Saint Helena  
 sante kanon - holy writ (sacred writings)  
 Sante Kitse - Saint Kitts  
 Sante Kitse e Nevis - Saint Kitts and Nevis  
@@ -3547,967 +3706,828 @@ Sante Paulo - Sao Paulo
 Sante Tome e Principe - Sao Tome and Principe  
 Sante Vincente - Saint Vincent  
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
-sanze - fan (ventilator)  
-sapate - shoe  
-• sapatekan - shoemaker's shop  
-• sapater - shoemaker  
+sapatu - chaussure  
+sapatu ja - shoemaker  
+sapatukan - shoemaker's shop  
 sar - head  
-sarokaske - helmet  
-saroste - skull  
-sarotunge - headache  
-sate - time (clock time, moment, hour)  
-sate di - momentary  
-satodone - dedicate (devote)  
-satodonia - dedication (devotion)  
-no sate - never  
+sar hin - headless  
+sar kaska - helmet  
+sar kexa - hair of the head  
+sar kexa hin - bald-headed  
+sar oste - skull  
+sata - moment (instant)  
+sata da - dedicate (devote)  
+sata data - dedication (devotion)  
+sata di - momentary  
 Saturne - Saturn  
-Saudi Arabia - Saudi Arabia  
+Saudi Arabi - Saudi Arabia  
 sauna - sauna  
-saure - lizard  
-saus - sauce  
+saur - lizard  
+saya - shadow  
 se - self (reflexive pronoun)  
+se di - selfish  
 se su - own  
-semen - each other (one another)  
-sekreter - secretary  
-sekreteria - secretariat  
+seku - stone (piece of rock)  
+seku jiang ja - mason (stonemason, stonecutter)  
 sekunde - second(s)  
-sekure - safe (secure; protect)  
-sekurokode - password (security code)  
-sekurokope - backup  
-sekuronume - personal identification number (PIN)  
-sel - advice (recommend)  
-• sel - should (ought)  
-• konsele - counsel (give consultation)  
-• konseler - counselor (consultant)  
-selenium - selenium  
+sekur - safe (secure, protected)  
+sekur kode - password (security code)  
+sekur kopi - backup  
+sekur nume - personal identification number (PIN)  
+sel - advice (counsel, recommendation)  
+selen yum - selenium  
 selge - chard  
-seme - mean (signify)  
-• sememe - sememe  
-• semeforer - semaphore  
-• semelojia - semantics  
-• polisemike - ambiguous (polysemous)  
-• unsemike - unambiguous  
+selu - cell (biology)  
+selulogi - cytology  
+seme - seed (semen)  
+seme dana - seed (fertilized grain)  
+seme di - seminal  
 semente - cement  
+semon - each other (one another, mutually)  
+semon su - mutual (each other’s)  
 sene - age  
-• senike - aged  
-senater - senator  
+sene di - aged  
 Senegal - Senegal  
+seng - raw (crude, fresh)  
+seng varis - uncooked rice  
 sense - sense (method of perception)  
-sense - sense (perceive, detect)  
-• senser - sensor (detector)  
-sente - hundred (100)  
-sente - feel (sense by touch)  
-• prosente - percent  
-senti- - centi- (per cent)  
+sense gi - sensor (detector)  
+sense ja - sensitive (perceptive)  
+sense xaka - tentacle (feeler)  
+senti - centi- (per cent)  
 sentimitre - centimeter (cm)  
-sere - series (sequence, succession)  
-• seria - series (sequence, succession)  
-• sereme - link  
-• serser - chain  
-ser letre - chain letter  
-seronete - chain mail  
-Sera Leone - Sierra Leone  
-serame - ceramic  
-seramosing - bluet  
+sento - hundred (hecto-, 100)  
+sento nen - century  
+sento nen di - centenary  
+sera - saw  
+serami - ceramic  
+serami sing - bluet  
 Serbia - Serbia  
-serebre - brain  
+seri - series (sequence, succession)  
+seria - series (sequence, succession)  
+seriletre - chain letter  
+serime - link  
+serinete - chain mail  
+seriseri - chain  
 serpe - snake (serpent)  
-serve - serve (service)  
-• servike - servant  
-• server - servant (server)  
-server nam - servername (hostname)  
+serve - service  
+serve gi - server (host machine)  
+serve ja - servant  
+serve nam - servername (hostname)  
 sesam - sesame  
-sexe - sex (sexual relation; have sex)  
-• sexike - sexy (sexually arousing)  
-sexolojia - sexology  
-• ansexe - asexual  
-• dusexe - bisexual  
-• homosexe - homosexual  
-• pansexe - pansexual  
-Sexel nesia - Seychelles  
-siane - cyan  
+sexe - sex (sexual relation)  
+• ansexe di - asexual  
+sexe di - sexy (sexually arousing)  
+sexelogi - sexology  
+Sexel nesi - Seychelles  
+sian - cyan  
 Sibiria - Siberia  
-siborgium - seaborgium  
-side - sit  
-• sidel - seat (saddle)  
-• inside - crouch (squat)  
-• presidente - president  
-• visepresidente - vice-president  
-sife - qualify (describe; quality, attribute, description)  
-• sifive - descriptive  
-• susife - excellent  
-• susifia - excellence (quality, virtue)  
-sifelexe - adjective  
-sigare - cigarette (cigar)  
-sikisme - Sikhism  
-sikiste - Sikh  
+siborge yum - seaborgium  
+side - sit down  
+side loka - seat (saddle)  
+sifa - attribute (charasteristic, quality, feature, description, property)  
+sifa di - descriptive  
+sifa loga - adjective  
+sigar - cigarette (cigar)  
+siki din - Sikhism  
+siki din ja - Sikh  
 sikle - bike (cycle)  
-• sikliste - cyclist  
-• risikle - recycle  
-silike - silicon  
+sikle ja - cyclist  
+silis - silicon  
 silke - silk  
+silke larva - silkworm  
+sim - advocacy (promotion, -ism)  
+sim ja - advocate (promoter, supporter, adherent)  
+simbol - symbol (emblem)  
 simple - simple (not complicated)  
-• simplife - simplify  
-sin- - jointly  
-sine - sign (signal, indication)  
-• sinal - signal  
-• asine - assign (ascribe, attribute)  
-• desine - designate (mark out)  
-• dusosine - ominous (foreboding)  
-• susine - auspicious (promising)  
-sina - chest (breast)  
-sinakase - rib cage  
-sinaplate - breastplate  
+sin - sign (signal)  
+sina - belief (faith, creed)  
+sine - chest (breast)  
+sine kasa - rib cage  
+sine plate - breastplate  
+sing - star  
 singa - lion  
 Singapur - Singapore  
-sir - secret (hidden; hide, conceal)  
-siromote - stealth (sneak)  
-siroplan - conspiracy (plot)  
-sirke - circle (round)  
-• sirkize - surround (encircle)  
-• sirkule - circle  
-sirkite - cobblestone  
+sir - secret (hidden)  
+sir move - sneak  
+sir plan - conspiracy (plot)  
+sirta - stealth (secrecy)  
 siro - zero (none)  
-sisme - shake (jolt, earthquake)  
-sismolojia - seismology  
+siro jen - nobody (no-one)  
+siro sata - never  
+siro xe - nothing  
+sismo - shake (jolt, earthquake)  
+sismologi - seismology  
 sistem - system  
-sisteme - systemic  
-site - city (town)  
-sive - citizen  
-• sivike - civic  
-• sivile - civil  
-• sivilia - civilization  
-• sivilian - civilian  
-• sivilize - civilized (civil)  
-• sivopedia - civics  
-sixe - six (6)  
-• sixime - sixth  
-sixofase - hexahedron (cube)  
-sixogon - hexagon  
-skale - stairs (ladder; scale)  
-• askale - climb (get on)  
-• deskale - get off (descend)  
-skalotan - vine  
-Skandia - Scandinavia  
-skandium - scandium  
-skerte - skirt  
-skope - scope (viewer)  
-Skotia - Scotland  
-skulte - sculpt  
-• skultia - sculpture (art of sculpting)  
-• skulter - sculptor  
-skute - scoot (ride a scooter, move while sitting)  
-• skuter - scooter  
-slave - Slavic  
+sistem di - systemic  
+sita - quote (cite)  
+sita marke - quotation mark  
+siti - city (town)  
+siu - sew  
+sivil - civilized (civil)  
+sivilta - civilization  
+Slave - Slavic  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-soce - socialize (interact)  
-• socia - society (association)  
-• socisme - socialism  
-• sociste - socialist  
-soce jinse - social gender  
-soce media - social media  
-sofe - wise  
-• sofia - wisdom  
+so - element (factor, the simplest unit)  
 sofa - sofa (couch)  
-soge - search (seek, look for)  
+sofi - wise  
+sofita - wisdom  
 soi - soy bean  
-soimilke - soy milk  
-soisaus - soy sauce  
+soi milke - soy milk  
+soi sos - soy sauce  
+soki - search (seek, look for)  
 sol - sun  
-solcate - parasol  
-solhua - sunflower  
-solkentaurhua - yellow starthistle  
-solsistem - solar system  
-solestate - solstice  
-Solomon nesia - Solomon Islands  
-some - sleep  
-• somive - drowsy  
-• desome - awake (wake up)  
-• ansome - insomnia  
-somokamar - bedroom  
-somopapil - opium poppy  
-Somalia - Somalia  
-Somaldex - Somaliland  
-son - sound (audio; make a sound)  
-sonomun - glottis  
-song - pine tree  
-sore - lock (fastener)  
-sore - lock (fasten)  
-• desore - unlock  
+sol cati - parasol  
+sol estasi - solstice  
+sol hua - sunflower  
+sol sentaure - yellow starthistle  
+sol sistem - solar system  
+Solomon nesi - Solomon Islands  
+Somal - Somalia  
+Somal Dexa - Somaliland  
+sona - sleep  
+• ansona - insomnia  
+sona kamar - bedroom  
+sona papi - opium poppy  
+sona tabi - drowsy  
+songi - pine tree  
+soni - sound (audio)  
+sos - sauce  
+sosi - society (association)  
+sosi di - social  
+sosi jinse - social gender  
+sosi medi gi - social media  
+sosi sim - socialism  
+sosi sim ja - socialist  
 sosis - sausage  
 Soto - Lesotho  
 spete - watch (spectate, observe)  
-• speter - watcher (spectator, observer)  
 • aspete - aspect (viewpoint)  
 • despete - look away from (despise, disregard)  
 • inspete - inspect (check, examine, look into)  
-• introspete - introspection  
+• intraspete - introspection  
 • respete - look back at (respect)  
-sponje - sponge  
-sporte - sport (athletics)  
-• sportekan - gymnasium (gym)  
-• sporter - athlete (sportsman)  
-stadia - stadium (arena)  
+• speter - watcher (spectator, observer)  
 stan - tract (land, ground, region)  
-stanium - tin  
-state - stand still  
-• statia - station  
-• statike - static (stationary)  
-stibium - antimony  
-strontium - strontium  
-strute - building  
-• struture - structure  
-• bazestruture - infrastructure    
-• destrute - destroy (destruct)  
-• instrute - build in (instruct)  
-• konstrute - construct (build)  
-• konstrution - construction  
-stude - study (work in order to practise or demonstrate)  
-• studia - studio (study room, atelier)  
-• studaje - study (work made in order to practise or demonstrate)  
-• studente - learner (student)  
-• studer - student  
-su - attributive postposition (-'s)  
-sue - good (well)  
-suesike - swastika  
+su - possessive postposition (’s)  
 suahili - Swahili  
-sual - ask (inquire; question, query, inquiry)  
-• sualive - interrogative  
-sualodokum - form (questionaire)  
-sualoteme - issue (affair, concern)  
-Svalbarde - Svalbard  
-suan - acid  
-suane - sour  
-suanpursipi hiyar - gherkin (pickle)  
+sual - question (query, inquiry)  
+sual di - interrogative  
+sual dokumen - form (questionaire)  
+sual tema - issue (affair, concern)  
+Sualbarde - Svalbard  
+suan - sour  
+suan mate - acid  
 Suati - Eswatini (Swaziland)  
-sube - underside (underneath)  
-• subike - lower (inferior)  
 suba - morning (dawn)  
-subaden - forenoon  
-subayam - breakfast  
-sude - south  
-• sudike - southern  
-Sudi Amerike - South America  
-Sudi Cosen - South Korea (Republic of Korea)  
-Sudi Georgia e Sudi Sanduice nesia - South Georgia and the South Sandwich Islands  
-Sudi Iria (Alonia) - South Ossetia (Alania)  
-Sudi Sudan - South Sudan  
-Sudafrike - South Africa  
+suba dia - forenoon  
+suba yam - breakfast  
 Sudan - Sudan  
-suede - sweat (perspiration)  
-• suedos - sweaty  
-Suenia - Sweden  
-suge - fast (quick, rapid, speedy)  
-sugometrer - speedometer  
-sugude - speed (velocity)  
+sude - south  
+Sude Afrika - South Africa  
+Sude Amerika - South America  
+Sude cosen - South Korea (Republic of Korea)  
+sude di - southern  
+Sude Iria (Alonia) - South Ossetia (Alania)  
+Sude Jorjia e Sude Sanduice nesi - South Georgia and the South Sandwich Islands  
+Sude Sudan - South Sudan  
+sueda - sweat (perspiration)  
+sueda di - sweaty  
+Suen - Sweden  
 sui - water  
-suigas - steam (vapor)  
-suiyau - thirst  
-suikaboge - calabash  
-suiminte - watermint  
-• suyos - watery  
-suirang - watercolor  
-suisekure - waterproof  
-suipade - waterfall (cataract, cascade)  
-Suisia - Switzerland  
-suke - pleased (delighted, happy)  
-• sukife - please (satisfy, delight)  
+sui culi - water treatment  
+sui di - watery  
+sui gas - steam (vapor)  
+sui kaboga - calabash  
+sui minta - watermint  
+sui rang - watercolor  
+sui sekur di - waterproof  
+sui yau - thirst  
+Suise - Switzerland  
+suje - suggestion (proposal)  
+suka - pleased (delighted, happy)  
 sukar - sugar  
-• sukaros - sugary (sweet)  
-sukarbete - sugar beet  
+sukar bete - sugar beet  
+sukar di - sugary (sweet)  
 sukar gana - sugarcane  
-sukarite - rock sugar (rock candy)  
-sukarorange - sweet orange  
-sulfe - sulfur (brimstone)  
-sultan - sultan  
-sultania - sultanate  
-sum - sum (total; sum up, add together)  
-suome - Finnish  
-Suomia - Finland  
-supe - soup (stew)  
-• super - superb (wonderful, super)  
-supre - upper  
-• supraje - overpass  
-supropase - surpass (go over)  
-suprize - surprise  
+sukar oranje - sweet orange  
+sulfu - sulfur (brimstone)  
+sultan - power (authority, rule)  
+sultan dexa - sultanate  
+sultan ja - ruler  
+sum - sum (total)  
+sun - soon  
+suna - custom (tradition, practice, convention)  
+suna di - conventional (customary, traditional)  
+suna islam din - Sunni Islam (Sunnism)  
+Suomi - Finland  
+suomi baxa - Finnish language  
+supa - soup (stew)  
+supa camaca - tablespoon  
+super - superb (wonderful, super)  
+supra - overpass  
+supra di - upper  
+supra vakil ja - senator  
+supriza - surprise  
 Suria - Syria  
 Surinam - Suriname  
-surinami baxe - Sranan Tongo  
-sus - licorice  
+surinam baxa - Sranan Tongo  
 susan - lily  
-sute - sew  
-• suture - suture (seam)  
-sutre - codex (ancient book, classic, sutra)  
+suta - skill (art, craft)  
+suta tabi - skillful (crafty)  
+sutur - suture (seam)  
 suxi - sushi  
 
 ## T  
 
-ta - to (toward, till, until, for)  
-tabake - tobacco  
+ta - -ness, (-ity)  
+tabaku - tobacco  
+tabi - nature (disposition, essence, character, -ive)  
 table - slab (slate, tablet, board)  
-• tablate - tabulate  
-tablete konputer - tablette computer  
-table konputer - tablette computer  
+table komputa - tablette computer  
+table yo data - tabulate  
 tafun - storm (tempest, typhoon, hurricane, cyclone)  
 tai - stage (platform, pedestal, podium)  
-Tai - Thai  
-Tai dexia - Thailand  
+Tai baxa - Thai language  
+Tai Dexa - Thailand  
 Taibei - Taipei  
 taiga - taiga  
 tail - tile  
 Taivan - Taiwan (Republic of China)  
-Tajikostan - Tajikistan  
-talo dargu - level down  
-talium - thallium  
-taltexe - carpet (rug)  
-talbe - seek (claim, demand, apply, pursue, request; application, petition)  
-Talban - Taliban  
-tame - greedy  
-tamu - covet  
+Tajiki - Tajikistan  
+tala - lock (fastener)  
+• detala - unlock  
+• detala di - unlocked  
+tala di - locked (secure)  
+tali yum - thallium  
 tamar - date fruit  
+tami - greedy  
 Tamil - Tamil  
-tan - stem (torso, trunk, stalk)  
+tana - stem (torso, trunk, stalk)  
 tanah - Tanakh (Jewish Bible)  
 tanke - tank (reservoir)  
-tantalium - tantalum  
+tantal yum - tantalum  
 tanur - oven (furnace)  
 Tanzania - Tanzania  
-tape - stop (obsruct, block; plug, stopper, cap, peg, tap)  
-• detape - unplug (uncork)  
+tapa - stopper (cap, peg, tap)  
+• antapa - unplug (uncork)  
 tarif - tarif (tax, duty)  
-tas - dish (bowl)  
-tate - touch (tact)  
-• tatebil - tangible  
-tatosense - feel (sense by touch)  
-• kontate - contact  
+tasa - bowl (dish)  
 tatike - tactics (strategy)  
-tato - tattoo  
-tatu - armadillo  
-tave - frying pan  
-taxe - fee (fare)  
-taxe - collect fees or taxes  
-taxi gar - taxi (cab)  
-taxi metrer - taximeter  
-taze - fresh (new)  
-tehne - technique (technology)  
-tehnium - technetium  
-tehnokratia - technocracy  
-tehnolojia - technology (study of techniques)  
-tel - distance (far away)  
-tele - far (distant)  
-telia - distance (length)  
-telefon - telephone  
-telefone - call on the phone  
-telefonia - telephony  
-telefonlin - telephone line  
-teleloke - teleport  
+tatu - tattoo  
+tava - frying pan  
+taxi - fee (fare)  
+taxi kar - taxi (cab)  
+taxi metre gi - taximeter  
+taza - fresh  
+tehni - technique (technology)  
+tehni krati - technocracy  
+tehnilogi - technology (study of techniques)  
+tehni yum - technetium  
+tela - cloth (fabric, textile)  
+tela gi - loom  
+tele - distance (far away)  
+tele di - far  
+tele fon gi - telephone  
+tele fon lin - telephone line  
+tele fon nume - telephone number  
+tele fon suta - telephony (telephone communication)  
+teleta - distance (length)  
+tele vide gi - television  
 teleskope - telescope  
-televide - television  
-teledipe - deep  
-• teledipia - depth  
-telugu - Telugu  
-telurium - tellurium  
-tem - topic (subject, theme)  
-teme - be about (discuss as a subject)  
-temnam - title (headline)  
-ten - sky (heaven)  
-tene - celestial (heavenly)  
-tenhal - weather  
-tenkenar - horizon  
-tennile - light blue (sky blue, azure)  
-intene - content  
-intene - contain (include)  
-intener - container  
+telu yum - tellurium  
+Telugu - Telugu  
+tema - topic (subject, theme)  
+tema nam - title (headline)  
+tene - hold (grasp, detain)  
+• intene - contain (include; content)  
 • kontene - contain (hold together)  
 • kontener - container  
 • retene - retain (hold back)  
+• sutene - sustain  
 • sutener - souteneur (pimp)  
-• subotene - sustain (hold from below)  
-• subotene - sustain (hold from below)  
+tenebil - accessible (within reach)  
+tene fasilta - accessibility (ease of access)  
 Tenesi - Tennessee  
-tenesium - tennessine  
+tenesi yum - tennessine  
 tenis - tennis  
-tense - tight (tense; tighten)  
-tensia - tension  
-• extense - extent  
-• extense - extend (stretch out)  
-tente - tempt (entice)  
-teoria - theory  
+tense - tight (tense)  
+tenseta - tension  
+tenta - tempt (entice)  
+teori - theory  
 tepe - tape  
-tere - fear (fright)  
-• terife - terrify  
-• terure - terror  
-• terurisme - terrorism  
-• teruriste - terrorist  
-• detere - deter (scare away)  
 tera - tera-  
-terbium - terbium  
-terce - tilt (skew)  
-terce - oblique (askew, tilted)  
-terme - temperature  
-termometrer - thermometer  
-• sinteze - synthesis (joint thesis)  
+terbi yum - terbium  
+terca - oblique (askew, tilted)  
+termo - temperature  
+termo metre gi - thermometer  
+teror - terror  
+teror sim - terrorism  
+teror sim ja - terrorist  
+tese - argument (thesis)  
 tesla - tesla (T)  
-teste - prove (testify, witness)  
+teste - test (try, attempt)  
 Tetis - Tethys  
-texe - cloth (fabric, textile)  
-texe - weave  
-texomaxin - loom  
-texte - text  
-• intertexte - intertextual  
-• kontexte - context  
-• kontexti - contextual  
-teze - claim (thesis, statement)  
-tibe - heal (cure, remedy)  
-• tibaje - medicine (drug, medication)  
-• tibike - medical  
-• tibive - healing  
-• tibelojia - medicine (field of study)  
-• tiber - doctor (physician, healer)  
-tibesui - potion  
+teza - intensive (depending on context: brisk, sharp, acrid, strong, fast, quick, loud)  
+tezata - intensity (volume)  
 ticin - bow instrument (violin, etc.)  
-tike - slice  
-• tikete - ticket (slip)  
-• retrotikete - return ticket  
+tika - piece (nugget, tikka)  
+tikete - tag (ticket, label, slip, note)  
 tim - team  
 Timor - Timor  
 tipe - type (kind, genre)  
-• tipelojia - typology  
-tire - shoot (fire)  
-• tiraje - shot (bullet, arrow, etc)  
-tiregana - lever  
-tirelonge - stretch (extend)  
-tireriu - rip current  
-tiresanduke - drawer  
+tire - pull (draw, drag)  
+tire dara - rip current  
+tire kane - lever  
+tire sanduku - drawer  
+tire yo milke - milk (draw milk)  
+tire yo pil - strip (peel)  
+tis - inflammation (-itis)  
+tisa - nine (9)  
 Titan - Titan  
+titan yum - titanium  
 Titania - Titania  
-titanium - titanium  
-tix - hush (shh)  
-• tixe - silent (quiet)  
-• tixia - silence  
-tize - sharp (brisk, sharp, acrid, shrill, swift, nimble, quick, etc.)  
-• tizife - intensify  
+titi - breast (boob, tit)  
+tocu - touch  
+tocu sense - feel (sense by touch)  
 Togo - Togo  
 Tokyo - Tokyo  
-tolere - tolerate  
-tome - split (dissect)  
-• tomografe - tomogram  
-• tomografia - tomography  
-• antomobil - indivisible  
-• duotome - dichotomy  
-• jivotome - vivisection  
-• tritome - trichotomy  
-tomato - tomato  
-tone - tone (note, pitch)  
-• atone - tune (adjust a musical instrument)  
-• sintone - tune in (radio or TV)  
-• sintonor - tuner  
+tolera - tolerate  
+tomate - tomato  
+tomi - split (dissect)  
+• antomibil - indivisible  
+• dutomi - dichotomy  
+• jivatomi - vivisection  
+• tritomi - trichotomy  
+• tomigrafi - tomogram  
+• tomigrafia - tomography  
+ton - tone (note, pitch, shade)  
 tong - barrel (can, cask)  
 Tonga - Tonga  
-tope - region  
-topografe - topography  
-• topografia - topography  
-• dustopia - dystopia  
-• eutopia - utopia  
-tore - tower  
-• torete - turret  
-torium - thorium  
-torse - trunk (torso)  
-tortuge - turtle (tortoise)  
-toxe - poison (venom; toxic, poisonous, venomous)  
-• toxolojia - toxicology  
-tra - through  
-trage - sad (tragic)  
-tragokomi - tragicomic  
-tragodia - tragedy  
+topo - region (tract, land, ground)  
+topo grafi - topography  
+topo metre grafi - map (chart, geographic map)  
+tor yum - thorium  
+torso - trunk (torso)  
+tortuga - turtle (tortoise)  
+toxi - poison (venom)  
+toxi di - toxic (poisonous, venomous)  
+toxilogi - toxicology  
+transe - transit (transport, passage)  
+transe gon di - diagonal  
+transe longta - diameter  
+Transe Nistre Dexa - Transnistria  
+• antranse vide di - opaque  
+transe vide di - transparent (see-through, clear)  
+trata - drag (haul, tow, trail)  
+trata gi - tractor  
 trate - drag (haul, tow, trail)  
-• trater - tractor  
 • atrate - attract  
-• atrative - attractive  
+• atratevi - attractive  
 • distrate - distract (pull apart)  
 • extrate - extract (draw out)  
-• extrator - extractor  
+• extrater - extractor  
 • kontrate - agreement (treaty, contract)  
-trate milke - milk (draw milk)  
+trati - agreement (treaty)  
+tre - very  
 tren - train  
-trendau - rail (railway, railroad)  
-trenkaper - train hijacker  
-trete - agreement (treaty)  
-trete - agree (make an agreement)  
-• kontrete - pact (contract, covenant, alliance)  
+tren dau - rail (railway, railroad)  
+tren kape ja - train hijacker  
+tren tikete - train ticket  
 tri - three (3)  
-• trime - third  
-• triple - triple (threefold)  
-trigone - triangle  
-• trigonometria - trigonometry  
-tripike - trident  
-tribe - tribe  
+tri gona - triangle  
+trime - third (3rd)  
+tri pike - trident  
+triple - triple (threefold)  
+tribu - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
 Triton - Triton  
-trompe - bugle (horn instrument)  
-trompete - trumpet  
 truke - trick (ruse, fraud)  
-truke - trick (cheat, deceive)  
 tu - you (singular)  
-tu su - your  
 tumen - you all  
 tumen su - your  
-tumimen - we (inclusive we)  
+tu su - your  
 tualete - toilet (WC)  
-tube - tube (pipe)  
-tuhe - spit  
+tubo - tube (pipe)  
+tuh - spit  
 tul - tool  
-tulium - thulium  
-tulpe - tulip  
+Tule - Thule  
+tule yum - thulium  
+tulpan - tulip  
 tuna - tuna  
 tundra - tundra  
-tundramonte - fell  
+tundra san - fell  
 tunel - tunnel  
-tuneltren - subway (metro)  
-tunge - hurt (pain; suffer)  
-tunike - tunic (gown)  
-Tunisia - Tunisia  
-tupe - hat (cap)  
-turbe - whirl (dizz; disorientate, trouble, disturb, bother, annoy)  
-• turbin - turbine  
-• disturbe - disturb (disturbance, turbulence)  
-turbejeter - turbojet  
-turfe - peat  
-turke - Turkish  
-Turkia - Turkey  
-Turkemenia - Turkmenistan  
+tunel tren - subway (metro)  
+tunika - tunic (gown)  
+Tunis - Tunisia  
+tupi - hat (cap)  
+turbe - trouble (disturbance, bother, annoyance)  
+turbe posta - spam mail  
+turfa - peat  
+Turki - Turkey  
+turki baxa - Turkish langage  
+Turkomen - Turkmenistan  
+tuta - mulberry  
 Tuvalu - Tuvalu  
-tuze - rabbit (hare)  
+tuzi - rabbit (hare)  
 
 ## U  
 
-ude - degree (measurable level)  
+UDA di - American (US)  
+uhu - cry (boo-hoo, alas, woe)  
 Ukraina - Ukraine  
 ulul - howling  
-ulule - howl  
-umame - savory (umami)  
+uma - horse  
+uma bici - horsewhip (riding crop)  
+umami - savory (umami)  
 Umbriel - Umbriel  
 un - one (1)  
-• una - unite  
-• unia - union  
-• unike - only (single, sole, lone)  
-• unike - only (solely, just)  
-• unime - first (number one)  
-• unite - united  
-Unite Arabe Amiria (UAA) - United Arab Emirates  
-Unite State de Amerika (USA) - United States of America (USA)  
-unale - each other (one another, mutually; mutual)  
-unemisme - monism  
-Uni Arabi Amiria (UAA) - United Arab Emirates  
-unomaro - once  
-unomene - unambiguous  
-unoki lense - monocle  
-unorange - monochrome  
+un deu sim - monotheism  
+un di - only (single, sole, lone, just)  
+un mar - once (one time)  
+un me - first (number one)  
+un rang di - monochrome  
+un sata - instantly  
+un semi di - unambiguous  
+unta - unity  
+Unta Arabi Amir Dexa (UAA) - United Arab Emirates  
+Unta Dex de Amerika (UDA) - United States of America (USA)  
+un ta di - united  
+un ta liga - union  
+un verse di - universal  
+un xe sim - monism  
+un yen di lense - monocle  
+un zai di - alone (lonely, isolated, solitary, single)  
+ura - cheer (hurrah, hooray)  
 Uran - Uranus  
-uranium - uranium  
+uran yum - uranium  
 urdu - Urdu  
 Urdun - Jordan  
 Uruguai - Uruguay  
-Urusalem - Jerusalem  
-USA - American (US)  
+Uruxalem - Jerusalem  
+Uzbeki - Uzbekistan  
 uze - use (employ, apply)  
-• uzebil - usable (available)  
-• uzer - user  
-uzernam - username  
-Uzbekia - Uzbekistan  
+uzebil di - usable (available)  
+uze ja - user  
+uze ja nam - username  
+
+## V  
+
 va - wow! (gee!)  
-vacin - vaccine  
-vade - valley  
-vadosusan - lily of the valley  
 vaf - dog  
 vafle - waffle  
-vagine - vagina  
-vaginitis - vaginitis  
-vakile - represent  
-• vakiler - representative (agent, proxy, attorney)  
-• vakilize - entrust (assign, authorize, delegate)  
-vakilkratia - republic  
-vale - value (worth; evaluate)  
-• valaje - valuables  
-• valure - value (evaluation)  
-Valis e Futuna nesia - Wallis and Futuna Islands  
+vagina - vagina  
+vagina tis - vaginitis  
+vahi - oasis  
+vai - outside (exterior)  
+vai dara - overflow (spill out)  
+vai dexa - foreign country  
+vai dexa di - foreign  
+vai di - outer (external)  
+vai gene di - exogenous  
+vai jen - outsider  
+vai klus di - exclusive  
+vai mise - export  
+vai nam - exonym  
+vai planete - exoplanet  
+vai poze - expose (reveal)  
+vai tense - extent  
+vai trata gi - extractor  
+vai verse di - extroverted (outgoing)  
+vai vide di - evident (apparent, obvious)  
+vai yam - picnic  
+vakil - represent  
+vakil ja - representative (proxy, agent)  
+vakilkrati - republic  
+vali - valley  
+vali susan - lily of the valley  
+Valis e Futuna nesi - Wallis and Futuna Islands  
 valse - waltz  
+valu - value (worth)  
 vampir - vampire  
-vampirbalsenter - vampire squid  
-van: - forest (woods)  
-vanadium - vanadium  
+vampir ohtopus - vampire squid  
+vanadi yum - vanadium  
 vanila - vanilla  
+vanu - fun (amusement)  
+vanu di - funny (amusing)  
+vanu gi - toy (plaything)  
 Vanuatu - Vanuatu  
-vare - various (diverse, miscellaneous)  
-varis - heritage (legacy, bequest)  
-varke - leaf (sheet)  
-varkalge - kelp  
-varkelate - page (side of a leaf of a book)  
-vase - oasis  
-vate - thing (object, item, matter)  
-vat - watt  
+vari - various (diverse, miscellaneous)  
+varis - rice  
+varis araki - arrack  
+varis biskute - rice cake (puffed rice cake)  
+varis vin - rice wine  
+varite - heritage (legacy, bequest)  
+vasin - vaccine  
+vate - watt  
 Vatikan - Holy See (Vatican City State)  
-vava - weep (cry)  
-vava bebe - crybaby  
-vaxe - wash  
-vaxemaxin - washing machine  
+vaxi - wash  
 Vaxington DC - Washington DC  
-vei - tail  
-veilin - weft  
-vele - veil  
-• devele - unveil (reveal, uncover)  
-• invelaje - envelope (enfold)  
-ven - come  
-• avene - advent  
-• cirkovene - get around (avoid, circumvent)  
-• exvene - come out (happen, event)  
-• invene - invent  
-• intervene - intervene (come between)  
-• konvene - convene (come together)  
-• pervene - reach (arrive)  
-• prevene - prevent (stop, keep from, come in the way of)  
-• revene - come back (return)  
-• subvene - subvene  
+vei - latitudinal (horizontal)  
+vei darja - latitude  
+vei di - traverse (horizontal)  
+vei gola - parallel (line of latitude)  
+vei lin - weft  
 vende - sell (vend)  
-vendexope - trade (buy and sell; commerce)  
-vendexoper - trader (merchant)  
+vende xope - trade (commerce, buying and selling)  
+vende xope ja - trader (merchant)  
 Venezuela - Venezuela  
+Venjou - Wenzhou  
+venjou oranje - satsuma mandarin  
 ventur - adventure (venture)  
-venturer - adventurer  
+ventur ja - adventurer  
 Venus - Venus  
-Venzou - Wenzhou  
-Venzou oranje - satsuma mandarin  
-vere - true (real, genuine)  
-• verife - verify (realize)  
-• provere - prove (verify, authenticate)  
+ver - true (real, genuine, indeed, very)  
+veranda - veranda (balcony, terrace, porch)  
+verde - green  
+verde melon - honeydew (green melon)  
 verme - worm  
 vermute - vermouth  
-verse - turn toward (direct, flip; versus)  
-• version - version (variation, edition)  
-• deverse - avert  
-• disverse - diverse  
-• exverse - extroverted (outgoing)  
-• extroverse - extrovert (outgoing)  
-• introverse - introvert  
-• konverse - converse (turn back and forth)  
-• kontroverse - controversy    
-• perverse - pervert (twist; perverse)  
-• reverse - reverse (invert, direct back; backwards)  
-• unoverse - universal  
-veruke - wart (verruca)  
-vespe - bee or wasp  
-vespenide - bee nest (beehive, wasp's nest)  
-veste - west (western)  
-vestegorila - western gorilla  
-veze - heavy  
-veze - weigh (have weight)  
-vezia - weight (heft, gravity)  
-veze metal - heavy metal  
-vezemetrer - scales (weighing device)  
-vide - look (see; view, vision)  
-• vidaje - view  
-• vidion - vision (sight)  
-videpunte - perspective (point of view)  
-• vider - spectator (sightseer)  
-• dusvide - ugly (unsightly)  
-• exvide - evident (apparent, obvious)  
-• exvidebil - obvious (evident)  
-• previde - foresee (anticipate, preview)  
-• anprevide - unexpected  
-• provide - expect (anticipate, predict, forsee)  
-• rivide - revise (look over again)  
-• suvide - beautiful (handsome, good-looking)  
-• antravidebil - opaque (not transparent)  
-videmeden - visual field (field of vision)  
+verse - face (versus)  
+versi - turn toward (direct, flip; versus)  
+• deversi - avert  
+• disversi - diverse  
+• exversi - extroverted (outgoing)  
+• extraversi - extrovert (outgoing)  
+• intraversi - introvert  
+• konversi - converse (turn back and forth)  
+• kontraversi - controversy    
+• perversi - pervert (twist; perverse)  
+• reversi - reverse (invert, direct back; backwards)  
+version - version (variation, edition)  
+version - version (variation, edition)  
+veste - west  
+veste di - western  
+veste gorila - western gorilla  
+veze - weight (heft, gravity)  
+veze di - heavy  
+veze metre gi - scales (weighing device)  
+vide - look (see)  
+vide ja - spectator (sightseer, observer)  
+vide medan - visual field (field of vision)  
+vide punte - perspective (point of view)  
+vide xe - view (vision)  
 vidou - widow  
-viete - Vietnamese (Viet)  
-Vietia - Viet Nam  
+Viete - Viet Nam  
+viete baxa - Vietnamese language (Viet)  
+vijin - MSG (monosodium glutamate)  
 viki - wiki  
+viki makala - wiki article  
 vikipedia - wikipedia  
-vile - farmhouse (villa)  
-• vilaje - village  
-viman - airplane  
-vimankaper - plane hijacker  
+vilde - wild (savage)  
 vin - wine  
-• vineria - winery  
-vinsuan - vinegar  
+vinkan - winery  
+vin suan - vinegar  
+ving - wing  
 vinil - vinyl  
-viole - violin (fiddle)  
-• violiste - violinist  
-• daiviole - cello (violoncello)  
-violete - purple (violet)  
-vir - hero  
-vire - heroic  
-virge - virgin (pristine, virginal; Virgo)  
-Virgin nesia - Virgin Islands, US  
+violeta - pansy (violet, viola)  
+violeta nil - purple (violet)  
+virje - virgin  
+virje di - pristine (virginal)  
+Virjin nesi - Virgin Islands, US  
 virus - virus  
-viruslojia - virology  
-vise - vice (deputy, substitute, replacement)  
-visematre - step-mother  
-visepatre - step-father  
-visepresidante - vice-president  
-viserejer - viceroy  
+viruslogi - virology  
+vise - vice (deputy, alternative, substitute, replacement)  
+vise kitabu - overwrite  
+vise loga - pronoun  
+vise ma - step-mother  
+vise pa - step-father  
+vise prezidente - vice-president  
+vise raja - viceroy  
 viski - whisky (whiskey)  
-vite - screw  
+vita - screw  
 vitamin - vitamin  
 Vixnu - Vishnu  
-vize - visa  
-vizin - MSG (monosodium glutamate)  
-vode - promise (vow, oath, pledge)  
+viza - visa  
+vode - promise (vow, oath)  
 vodun - voodoo  
 voke - call (voice; summon)  
-• vokable - term (vocable)  
-• vokablar - vocabulary  
-• vokal - vocal  
-• vokal son - vowel  
-• vokation - vocation  
-• vokative kasu - vocative case  
 • exvoke - evoke (call out)  
 • invoke - invoke  
 • provoke - provoke  
 • revoke - revoke (call back)  
-vol - want (desire, wish; longing)  
-vol sabe - wonder (be interested in, would like to know)  
+vokabil - term (vocable)  
+vokesoni - vowel  
+vol - want (desire, wish)  
+vol xe - want (desire, wish)  
 volfe - wolf  
 volfram - tungsten (wolfram)  
 Volof - Wolof (language and people)  
 volte - volt (V)  
 vote - vote (ballot)  
-votohake - franchise (right to vote)  
-vulve - vulva  
+vote haki - franchise (right to vote)  
+vulva - vulva  
+vutu - object (item, thing)  
 
 ## X  
 
-xa - will (future aspect marker)  
-xake - branch (bough)  
+xa - auxiliary verb that marks future tense (will, shall)  
+xaka - branch (bough)  
 xakal - jackal  
 xal - scarf (shawl)  
-xam: - evening  
-xamden - afternoon  
-xamyam - dinner  
+xalke - scale (flake)  
+xam - evening  
+xam dia - afternoon  
+xam yam - dinner  
 xaman - shaman  
 xampan - Champagne  
 xampan vin - champagne  
-Xanghai - Shanghai  
-xanke - doubt (suspect)  
-• xankebil - dubious (suspicious)  
-xante - calm (peaceful, quiet)  
-xara - saw  
-xarafun - sawdust  
-xarakan - sawmill  
+xanghai - Shanghai  
+xanti - rest (relief, repose)  
+xanti di - calm (peaceful, quiet)  
 xarke - shark  
-xarme - shame (disgrace)  
+xarma - shame (disgrace)  
 xarnir - hinge (pivot)  
-xarte - condition (requirement; require, stipulate)  
-xate - oppose (antagonize, object, resist)  
-xatan - adversary (antagonist, opponent)  
-xatan (ruhoxatan) - devil (Satan)  
-xatani - devilish (satanic)  
-xatanisme - Satanism (devil worship)  
-xataniste - Satanist  
-xatrange - chess  
+xarti - condition (requirement)  
+xatan - oppose (antagonize, object, resist)  
+xatan di - devilish (satanic)  
+xatan din - Satanism (devil worship)  
+xatan din ja - Satanist  
+xatan ja - devil (Satan)  
+xatrang - chess  
+xau - little (few, not many)  
+xauta - scarcity  
+xava - rain (precipitation)  
+xava cati - umbrella  
+xava kote - raincoat  
+xava mosim - rainy season (monsoon)  
 xaxa - rustle  
 xe - thing  
-xehal - situation (circumstances, state of affairs)  
-no xe - nothing  
+xe hal - situation (circumstances, state of affairs)  
+xe hal ironi - situational irony  
 xefe - chief (boss)  
-xefe manter - prime minister  
 xefe di - main (principal)  
-xeihalironia - situational irony  
+xefe ministre ja - prime minister  
 xenon - xenon  
-xenseng - master (sensei)  
 xi - Mx. (Mr. or Ms.)  
-xibai - failure (loss, flop, miss, defeat)  
-xibai - loss (failure, miss)  
-xibai - lose (fail, miss, be defeated)  
-xibayer - loser  
-• dexibai - lose (shed, miss, misplace)  
+xia - faction (clique)  
+xia islam din - Shia Islam (Shi’ism)  
+xifu - master (sensei, sifu)  
+xikaya - complain (lament)  
 xike - elegant (chic)  
 xim - heart  
-xin - belief (faith, creed)  
-xine - believe  
-xindavisme - Shintoism  
-xing - star  
-xipe - wet  
-• xipete - humid (damp, moist)  
-• perxipe - soak (drench)  
-xipostan - wetland  
+xindau din - Shintoism  
+xipi - wet (damp, moist)  
 xir - poem  
-• xiria - poetry  
-• xirer - poet  
+xir ja - poet  
 xirope - syrup  
-xixkababe - shish kebab  
-xite - shit (poop, feces)  
-xiu - little (small; a little, somewhat)  
-xiubol - bubble  
-xiuyam - snack  
-xivite - pebble (gravel)  
-xiukaboge - zucchini  
-xiusite - small town  
-Xiva - Shiva  
-xixe - impale (stab, skewer)  
+xite - feces (poop, shit)  
+xiti - lose (misplace, miss, shed)  
+xiti bai - failure (blunder, flop, miss, loss, defeat)  
+xiti bai ja - loser  
+xiu - little (small)  
+xiu bol - bubble  
+xiu kaboga - zucchini  
+xiu seku - pebble (gravel)  
+xiu siti - small town  
+xiu yam - snack  
+xiu zi - lowercase letter  
+xiva - Shiva  
 xix - skewer  
-xixmanse - shashlik  
-xofe - drive (steer)  
-• xofer - chauffeur (driver)  
+xix kababu - shish kebab  
+xix nama - shashlik  
+xofer ja - chauffeur (driver)  
 xoke - shock (collision)  
-xope - buy (purchase, shop; shopping)  
-xoper - buyer  
-xou - show (display; exhibition)  
-xukre - thank (thanks, thank you)  
-xukria - gratitude (thankfulness)  
-xule - learn (study)  
-• xulia - education (schooling)  
-• xulaje - lesson (teaching)  
-• xulize - teach (educate, instruct)  
-• xulizer - teacher  
-• xulekan - school (institution)  
-• xuler - student (pupil, learner)  
-xulokamar - classroom  
-xuloxefe - headmaster (principal)  
-xure - begin (start, commence, initiate)  
-xute - skill (art, craft)  
-• xutike - skillful (crafty)  
+xopi - shopping  
+xopi ja - buyer  
+xou - show (display, exhibition, demonstration, demo)  
+xukur - thanks (thank you)  
+xukurta - gratitude  
+xula - education (schooling)  
+xula guru - schoolteacher  
+xula ja - student (pupil, learner)  
+xula kamar - classroom  
+xulakan - school (institution)  
+xula xe - lesson (teaching)  
+xula xefe - headmaster (principal)  
+xuli - repair (fix)  
+xuli ja - repairer  
+xuru - beginning (start, commencement, onset)  
+xuru di - initial (first)  
+xux - hush (shh)  
+xux di - silent  
 
 ## Y  
 
+ya - yes  
 ya - he or she or it  
-ya su - its (his, her)  
 yamen - they  
 yamen su - their  
-yamimen - we (exlusive we)  
-yage - about (approximately, nearly, almost)  
-yagife - estimate (approximate)  
-yagones - peninsula  
-yahve - Yahweh (Jehovah)  
-yahude - Jewish  
-yahudisme - Judaism  
+ya su - his or her  
+Yahve - Yahweh (Jehovah)  
 yake - yak  
-yale - hurry (hasten)  
+yaki - about (approximately, nearly, almost)  
+yaki nesi - peninsula  
 yam - consume (eat or drink)  
-• yamaje - food (meal)  
-• yamize - feed  
-• yamyam di - delicious (yummy)  
-• exyam - picnic  
-yamfite - vegetable  
-yamokamar - dining room  
-yamsukarcau - duruka  
-yamyau - hunger  
+yam fito - vegetable  
+yam kamar - dining room  
+yam liste - menu (bill of fare)  
+yam sukar gana - duruka  
+yam xe - food (meal)  
+yam yau - hunger  
 yang - kind (style, sort, type)  
-yapetus - Iapetus  
+Yapetus - Iapetus  
+yasen - ash tree  
 yatim - orphan  
-• yatimkan - orphanage  
-yau - need (lack; shortage)  
-• yavive - needy (lacking)  
-• beyau - necessary (needed)  
-• anbeyau - unnecessary (extraneous, unneeded)  
-ye - yes  
-yege - hunting (fishing)  
-• yeger - hunter (chasseur)  
-yege pexe - catch fish  
+yatim dom - orphanage  
+yau - need (lack, require)  
+• anyau di - unnecessary (extraneous, unneeded)  
+yau di - necessary (needed)  
+yauta - need (shortage, lack, requirement)  
+yehudi - Jewish  
+yehudi din - Judaism  
+yei - yay! (yeah!)  
+yeka - exchange (replace, trade, swap)  
+yeka kanon - I Ching (the Book of Changes)  
 Yemen - Yemen  
-yesus - Jesus  
-yeze - coconut tree  
-yo - one (someone)  
+yen - eye  
+yen di - ocular  
+yen kexa - eyelash  
+yen sui - tear drop  
+yen sui gas - tear gas  
+yepa - leaf (sheet)  
+yepa alga - kelp  
+yepa late - page (side of a leaf of a book)  
+Yesa - Jesus  
+Yesa Mesi - Jesus Christ  
+yezi - coconut tree  
+yo - some (one)  
 yo jen - someone (somebody)  
-yo sate - sometime  
+yo sata - sometime  
 yo xe - something  
-yodium - iodine  
 yoga - yoga  
-• yogaiste - yogi  
+yoga ja - yogi  
+yogo - yoke  
 yogur - yogurt  
-yohan feste - Saint John's Day  
-yom - day (daytime)  
-yomyam - lunch  
-yon - ion  
-yon rade - radioactive  
-yon radia - radioactivity (ionizing radiation)  
-yoruba - Yoruba (language and people)  
-yote - drop (droplet)  
+Yohan festa - Saint John's Day  
+Yoruba - Yoruba (language and people)  
 yota - yotta-  
 you - infantile (juvenile, immature)  
-• yovia - childhood (immaturity)  
 youjen - infant (child)  
 youmoke - sapling  
 younan - boy  
 younen - childhood (years of being very young)  
 youni - girl  
-yterbium - ytterbium  
-ytrium - yttrium  
-yuge - yoke  
-• konyuge - conjugation (pairing)  
-• subyuge - subjugate  
+youta - childhood (immaturity)  
+yumor - humor  
+yumor di - humorous (comical, funny)  
+yumor ja - humorist  
+yung - melt  
+yung liga - fusion (amalgamation)  
+yung petra - lava  
+yung safa - smelt  
+yuter yum - yttrium  
+yuterbi yum - ytterbium  
 
 ## Z  
 
-zai - exist (be present)  
-zayia - presence (existence)  
-• zayaje - present (here, now, current situation)  
-• zayife - summon (add, spawn)  
-• azay - appear  
-• dezay - remove (delete, dispose, erase)  
+zai - exist (presently, currently)  
+zai den - today  
+zai di - present (existing)  
+zaita - presence (existence)  
 zai zaman - present time (now)  
-zai zaman su - current (contemporary, present-day)  
+zai zaman di - current (contemporary, present-day)  
 zaitun - olive  
-zaitunlipe - olive oil  
-zalime - mean (cruel)  
-• zalimia - cruelty (tyranny, despotism)  
-zalime reger - tyrant (despot)  
-zaman - time (age, period, era, epoch, term)  
-• prezaman - past times  
+zalim - mean (cruel)  
+zalim raja - tyrant (despot)  
+zalimta - cruelty (tyranny, despotism)  
+zaman - time  
 Zambia - Zambia  
-zange - crafty (dexterous)  
-zanger - artisan (craftsman)  
-zar - hazard (chance; random)  
-• dus zar - misfortune (bad luck)  
-zarkube - die (dice)  
+zar - hazard (chance)  
+zar di - random  
+zar kube - die (dice)  
 Zardux - Zoroaster  
-zarduxisme - Zoroastrianism  
-zarduxiste - Zoroastrian  
-Zayeria - Algeria  
+zardux din - Zoroastrianism  
+zardux din ja - Zoroastrian  
+zardux magi ja - magus (Zoroastrian priest)  
 zebra - zebra  
-zele - zeal  
-• zelose - jealous  
-zerve - reserve (store)  
-• rezerve - reserve (book; reservation, booking, withholding)  
 zeta - zetta-  
+zeyil - wart  
 zeze - fly  
+zi - character (written symbol)  
+zi forma - font  
+zi sili - alphabet  
 zigzage - zigzag  
-zikure - ziggurat  
-Zimbabve - Zimbabwe  
-zine - adultery (infidelity)  
+zikura - ziggurat  
+Zimbabue - Zimbabwe  
+zina - adultery (infidelity)  
+zinji - ginger  
 zinke - zinc  
-zipe - zip up  
-• ziper - zipper  
+zipa - zipper (zip)  
 zira - cumin (jeera)  
 zirkon - zircon  
-zirkonium - zirconium  
-zize - sizzle  
-zoe - animal (beast)  
-• zoofilia - zoophily  
-• zoogeografia - zoogeography  
-• zoolojia - zoology  
-• zoolojike - zoological  
-zoagria - animal husbandry  
-zooparke - zoo (zoological garden)  
-zoosikle - zodiac  
-zootiber - veterinarian  
-zootoxe - zootoxin  
+zirkon yum - zirconium  
+zizi - sizzle  
+zoku - continue (go on, keep on, carry on, proceed, still, yet)  
+zoku di - continuous (analog)  
+zoku hor loga gi - analog clock  
 zombi - zombie  
-zone - belt (zone)  
-zong - species  
-zongminte - spearmint  
-zor - force (violence)  
-zorsexe - rape (forced sex)  
-zuke - ethnic (ethnicity)  
-zukemide - interethnic  
-zukam - cold (common cold)  
+zona - belt (zone)  
+zukam - cold (illness)  
+zuku - ethnic group  
+zuku di - ethnic  
+zuku medi di - interethnic  
 Zulu - Zulu  
-zumurude - emerald  
-zung - middle (center)  
-• zungife - center (concentrate)  
-Zungafrike - Central African Republic  
-zungfone - vowel  
-Zungogia - China  
-zungxulekan - secondary school  
+zumarde - emerald  
