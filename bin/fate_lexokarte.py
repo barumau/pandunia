@@ -17,7 +17,7 @@ index_tail = '''
 '''
 
 def kitabe_index(csvreader):
-    with open('lexokarte/index.html', 'w', encoding = 'utf-8') as dataje:
+    with open('lexikarta/index.html', 'w', encoding = 'utf-8') as dataje:
         dataje.write(index_head)
         abc = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'V', 'X', 'Y', 'Z']
         first = True
@@ -48,7 +48,7 @@ html_head_1 = '''
 '''
 
 html_head_2 = '''
-  <link rel = "stylesheet" type = "text/css" href = "lexokarte.css">
+  <link rel = "stylesheet" type = "text/css" href = "lexikarta.css">
 </head>
 <body>
 '''
@@ -68,9 +68,9 @@ html_tail = '''
 
 def kitabe_dataje(row):
     #print(row[0])
-    with open('lexokarte/%s.html' % row[0], 'w', encoding = 'utf-8') as dataje:
+    with open('lexikarta/%s.html' % row[0], 'w', encoding = 'utf-8') as dataje:
         dataje.write(html_head_1)
-        dataje.write('  <title>lexokarte: %s</title>\n' % row[0])
+        dataje.write('  <title>lexikarta: %s</title>\n' % row[0])
         row.pop(0)
         dataje.write(html_head_2)
         dataje.write(html_karte)

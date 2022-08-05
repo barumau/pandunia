@@ -366,7 +366,7 @@ carte de crédit - kredikarte
 carte à collectionner - jama karte  
 cartographie - kartagrafi  
 cauri - kauri  
-ce...ci - ni  
+ce...ci - yi  
 ce...lá - go  
 cellule sanguine (globule) - hemiselu  
 cent (100) - sento  
@@ -1569,11 +1569,13 @@ salle de bains - banya kamar
 salle de classe - xula kamar  
 salle de muscu - balakan  
 salut (salam) - salam  
+salut - sal  
 samarium - samari yum  
 samedi - den luka  
 Samoa américaines - Amerika Samoa  
 sandwich - sanduice  
 sang - hemi  
+santé - saludo  
 santé - saluta  
 sapin - abies  
 sarigue (opossum) - aposum  

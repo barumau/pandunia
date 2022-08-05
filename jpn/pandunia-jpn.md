@@ -415,8 +415,8 @@ fa mei daka - 飾る
 fa memo - 思い出す  
 fa miti - 会う  
 fa najis - 汚す  
-fa nume - 数える  
 fa nomi - 組織する  
+fa nume - 数える  
 fa pede - おならをする  
 fa politi - 治める (司る)  
 fa poze - 植える  
@@ -1116,7 +1116,7 @@ neu jen - 初心者
 neu loga - 新語 (新造語)  
 neu yang di - 近代的  
 ni - 女  
-ni - この  
+yi - この  
 nia - 意図  
 nice - 下  
 nice kitabu - 字幕  
@@ -1137,12 +1137,12 @@ no - いいえ
 nobel yum - ノーベリウム  
 noce - 夜  
 Noe di nave - ノアの箱舟  
-nume zi - 数字  
 norde - 北  
 norma - 標準  
 norma di - 普段 (ノーマル)  
 nostalgia - 懐古 (懐旧)  
 nuka - 首  
+nume zi - 数字  
 
 ## O  
 
@@ -1346,6 +1346,7 @@ salam - 挨拶
 salamta - 福利 (福祉)  
 salmon - 鮭鱒  
 salu - 元気 (丈夫)  
+saludo - 健康  
 saluta - 健康  
 sam metre - 対称  
 sam sifa di - 同じよう (近い)  

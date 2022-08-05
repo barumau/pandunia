@@ -261,6 +261,7 @@ cetiden - 週
 cili - 菜椒  
 cili fun - 辣椒粉  
 cing - 请  
+cing na - 请拿好  
 cini - 瓷器  
 cira - 撕裂  
 cira cira - 撕毁  
@@ -1070,7 +1071,7 @@ neu di - 新
 neu jen - 新手  
 neu loga - 新词  
 ni - 女  
-ni - 这 (此)  
+yi - 这 (此)  
 nia - 意图  
 nice kitabu - 字幕  
 nide - 巢 (穴)  
@@ -1090,12 +1091,12 @@ nobel yum - 锘
 noce - 夜  
 Noe - 诺亚  
 Noe di nave - 诺亚方舟  
-nume - 数  
-nume zi - 数字  
 norde - 北  
 nostalgia - 怀旧  
 note xe - 便条  
 nuka - 颈  
+nume - 数  
+nume zi - 数字  
 
 ## O  
 
@@ -1290,11 +1291,13 @@ sahi - 正确
 saide - 狩猎  
 saide ja - 狩人  
 sal - 盐  
+sal - 你好  
 sal biskute - 梳打饼  
 sala - 大厅  
 salam - 迎接  
 salamta - 福利 (福祉)  
 salu - 健康  
+saludo - 健康  
 saluta - 健康  
 sam - 一样  
 sam metre - 对称  

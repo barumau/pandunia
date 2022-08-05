@@ -1035,9 +1035,9 @@ fa najis - corromper (contaminar)
 fa nam - llamar (poner)  
 fa neu - renovar  
 fa node - hacer un nudo  
-fa nume - contar  
 fa nomi - organizar (gestionar)  
 fa note - avisar (notificar)  
+fa nume - contar  
 fa oke - aceptar  
 fa onor - honrar  
 fa ore - escuchar (oír)  
@@ -2669,7 +2669,7 @@ neu yang di - moderno
 neu Zelande - Nueva Zelanda  
 Nevis - Nieves  
 ni - mujer (hembra)  
-ni - este  
+yi - este  
 nia - intención (intento)  
 nice - parte inferior  
 nice di - inferior  
@@ -2699,8 +2699,6 @@ noce mode - modo nocturno
 node - nudo  
 Noe - Noé  
 Noe di nave - arca de Noé  
-nume - número  
-nume zi - dígito (cifra)  
 nomi - gerencia (dirección)  
 norde - norte  
 Norde Aire - Irlanda del Norte  
@@ -2726,6 +2724,8 @@ nude - desnudo
 nude sim - nudismo  
 nude sim ja - nudista  
 nuka - cuello (nuca, pescuezo)  
+nume - número  
+nume zi - dígito (cifra)  
 
 ## O  
 
@@ -3211,6 +3211,13 @@ saide ja - cazador
 saide yo pexe - pescar  
 sake - saco  
 sal - sal  
+sal - hola  
+sal cuti - adiós  
+sal dia - buenas tardes  
+sal lai - bienvenido  
+sal suba - buenos días  
+sal xam - buenas noches  
+sal yam - buen provecho  
 sal di - salino  
 sala - salón  
 salade - ensalada  
@@ -3226,6 +3233,7 @@ salam yam - buen provecho
 salmon - salmón (trucha)  
 Salon - Sierra Leona  
 salu - saludable  
+saludo - salud  
 salu safata - higiene  
 saluta - salud  
 Salvador - El Salvador  

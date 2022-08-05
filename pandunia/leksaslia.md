@@ -1087,7 +1087,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**nete**|eng:net, deu:Netz, jpn:ネット (netto)|
 |**neu di**|deu:neu, eng:new; neo-, fra:nouveau; néo-, spa:nuevo; neo-, por:novo; neo-, rus:новый (novyy); нео- (neo-), hin:नव (nav), ben:নয় (nôy); নও- (nôo-), may:nawa|
 |**ni**|zho:女 (nǚ), yue:女 (neoi), kor:녀 (nyeo), vie:nữ  + hin:-नी (-ni), ben:-ণী (-ni), tam:-னி (-ṉi) + deu:-in|
-|**ni**|yue:呢 (ni1), may:ini/ni + kor:(i) + ben:এ (e), hin:यह (ye), tel:ఈ (ī)+ tam:இது (itu)|
+|**yi**|kor:이 (i) + ben:এ (e), hin:यह (ye) + tel:ఈ (ī), tam:இது (itu) + yor:yìí|
 |**nia**|ara: نِيَّة‎ (niyya), hin:नीयत (niyat), may:niat, swa:nia, tur:niyet|
 |**nice**|ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|
 |**nide**|eng:nest, spa:nido, por:ninho, fra:nid, rus:гнездо (gnezdo), hin:नीड़ (nīḍa), ben:নীড় (nīṛa)|
@@ -1102,7 +1102,6 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**nobel yum**|eng:nobelium, fra:nobélium, spa:nobelio, por:nobélio, rus:нобелий, zho:锘 (nuò), jpn:ノーベリウム, kor:노벨륨, vie:nobeli, hin:नोबेलियम, ben:নোবেলিয়াম, may:nobelium, swa:nobeli, ara: نوبليوم|
 |**noce**|spa:noche, por:noite, rus:ночь (nočʹ), pol:noc|
 |**node**|eng:node, spa:nudo, por:nó, fra:nœud|
-|**nume**|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**nomi**|eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|
 |**norde**|eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|
 |**norma**|eng:spa:por:fra:deu:normal, rus:нормальный (normalʹnyj), fas:نرمال‎ (normâl)|
@@ -1112,6 +1111,7 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**nu**|rus:ну (nu) + eng:now, deu:na, zho:那 (nà)|
 |**nude**|eng:nude, spa:desnudo, por:fra:nu|
 |**nuka**|eng:neck, spa:por:nuca, fra:nuque + ara:عُنُق‎ (ʿunuq)|
+|**nume**|eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|
 |**o**|eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|
 |**oganeson**|eng:fra:por:may:oganesson, spa:oganesón, rus:оганесон, jpn:オガネソン, kor:우누녹튬|
 |**ohtopus**|eng:octopus, deu:Oktopus, tur:ahtapot, ara:أخطبوط (ʾuḵṭubūṭ), fas:اختاپوس‎ (oxtâpus), hin:ऑक्टोपस (okṭopasa), ben:অক্টোপাস (ôkṭopaś)|
@@ -1325,9 +1325,9 @@ pandunia di loga ya lai ze poli basha da dunia.
 |**saide**|ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)|
 |**sake**|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
 |**sal**|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
+|**sal**|ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সালাম (salam), may:selamat, swa:salamu, tur:selam + eng:salute, fra:salut, spa:salude, por:saúde + kor:잘 (jal)|
 |**sala**|fra:salle, spa:salón, por:salão, deu:Saal, rus:зал (zal), hin:साल (sāl); शाला (śālā), ara: صَالَة‎ (ṣāla), tel:శాల (śāla), khm:សាលា (saalaa)|
 |**salade**|fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
-|**salam**|ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|
 |**salmon**|eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|
 |**salu**|fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|
 |**sam**|eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|

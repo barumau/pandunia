@@ -2,8 +2,6 @@ morfe|pandunia|klase||logasle|english|france|espanya|portugal|rus|arabi|putongi 
 ----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------
 A|A||||A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A
 a.|a|prep.||fra:à, spa:por:a, eng:a-;ad-, rus:а- (a-)|by (at, in, on)|a (dans, en, chez)|en (a)|em|в (на)||在|||||||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
-a. go|a go||||there|là (y)|allí (allá)|aí (lá)|там||那里 (那儿)|そこ (あそこ)|거기|đó (đằng kia)|वहाँ|ওখানে|di sana (di situ)|humo|orada|tie|tuolla|tu (tutaj, tam)
-a. in|a in||||inside||dentro||||||||||||||sisällä (sisäpuolella)|
 a. jong|a jong||||to be centered (amid, in the middle)||centrarse (en el centro de)||||||||||||||keskittyä (olla keskellä)|być wycentrowanym, być w środku
 a. ke|a ke||||where|où|dónde|onde|||||||||di mana|wapi|nerede|kie|missä?|gdzie
 a. kon|a kon||||together (jointly, mutually)||juntos||||共同 (一起)|一緒に||||||pamoja|birlikte|kune|yhdessä|razem (wspólnie)
@@ -12,7 +10,6 @@ a. lin|a lin||||online|en ligne|en línea|online|онлайн||在线|オンラ�
 a. medi|a medi||||among (amid, between)||entre|||||||||||||inter|välissä|między (wśród, pośród)
 a. min.de|a min de||||except (minus)||excepto (menos)|||||||||||||escepte|paitsi (miinus)|oprócz, minus
 a. neu|a neu||||just (recently)||ahora mismo (justo)|||||||||||||ĵus|äsken (vasta, juuri)|właśnie, dopiero co, ostatnio, niedawno
-a. ni|a ni||||here|ici|aquí (acá)|aqui|здесь (тут)||这里 (这儿)|ここ|여기|tại đây|यहाँ|এখানে|di sini|hapa|burada|ĉi tie|täällä|
 a. nice|a nice||||under||debajo||||||||||||||alla|pod (poniżej)
 a. poli.mar|a poli mar||||often (frequently)||frecuentemente||часто||经常|よく (屡々)|||अक्सर||sering kali||sık sık|ofte|usein|często
 a. pos|a pos||||later (after)|ensuite (après, plus tard, ir a, en el futuro)|más tarde||после|||||||||||estonte|myöhemmin (tuleva)|później (w przyszłości)
@@ -21,7 +18,9 @@ a. sabu. de|a sabu de||||because||porque|||||||||||||ĉar|koska (johdosta, takia
 a. supra|a supra||||above (over)||sobre|||||||||||||super|yllä (pääll)|nad
 a. vai|a vai||||outside|||||||||||||||ekster|ulkona (ulkopuolella)|
 a. vakil.de|a vakil de||||on behalf of|||||||||||||||anstataŭ|puolesta|
+a. vo|a vo||||there|là (y)|allí (allá)|aí (lá)|там||那里 (那儿)|そこ (あそこ)|거기|đó (đằng kia)|वहाँ|ওখানে|di sana (di situ)|humo|orada|tie|tuolla|tu (tutaj, tam)
 a. xukur.de|a xukur de||||thanks to|grâce à|gracias a (merced a)|graças a||||||||||||dank’al|ansiosta|
+a. yi|a yi||||here|ici|aquí (acá)|aqui|здесь (тут)||这里 (这儿)|ここ|여기|tại đây|यहाँ|এখানে|di sini|hapa|burada|ĉi tie|täällä|
 abies|abies|bio|Abies|spa:por:abeto|fir tree|sapin|abeto|abeto|пихта|شُوح‎|冷杉|モミ|전나무|linh sam|सनोबर||||göknar|abio|pihta (jalokuusi)|jodła
 acar|acar|||fas:آچار (âčâr), hin:अचार (acār), ara:اچار‎ (əčar), eng:por:achar, swa:achari, may:acar|pickle||||||腌菜|漬物|||अचार||acar (jeruk)||||säilyke (pikkelssi)|marynować
 acar.di|acar di||||pickled|décapé (mariné)|encurtido||марино́ванный||||||||||||säilötty|kiszony (marynowany)
@@ -642,6 +641,7 @@ cincila|cincila|bio||eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла
 cing|cing||||request (petition)||||||||||||||||pyyntö|
 cing|cing|||zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|ask (request, beg, plead; please)||pedir (invitar; por favor)||просить||请|請う (ーて下さい)||||||||peti (bonvolu)|pyytää (anoa)|prosić
 cing.lai|cing lai||||invite||invitar|||||||||||||inviti|pyytää tulemaan|zaprosić, zapraszać
+cing.na|cing na||||here you are||||||请拿好||||||||||ole hyvä|
 cini|cini|||zho:瓷 (cí) + eng:chinaware, hin:चीनी (cīnī), ben:চীনামাটি (cinamaṭi), ara: صِينِيَّة‎ (ṣīniyya), swa:sini|porcelain (chinaware)|porcelaine|porcelana|porcelana|фарфор|خَزَف‎|瓷器|磁器|도자기|sứ|चीनी (पॉर्सिलेन)|চীনামাটি|porselen|sini|porselen|porcelano|posliini|porcelana
 cipe|cipe|dexa|AL||Albania||Albania||||||||||||||Albania|Albania
 cira|cira|||hin:mar:चीर (chīra), ben:চেরা (chērā), pan:ਚੀਰ (chīra) + eng:tear|tear (rip, split)|déchirer|rasgar (romper)|rasgar|рвать||撕裂|裂く|||||||||repiä|drzeć (rwać, rozrywać, rozdzierać, rozszczepiać)
@@ -919,8 +919,8 @@ dute.bil|dutebil||||dubious (suspicious, unbelievable)||||||||||||||||epäilytt�
 dute.ja|dute ja||||doubtful (suspicious, disbelieving)||||||||||||||||epäilevä|niepewny (podejrzliwy, niedowierzący)
 dux|dux|||fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş|shower|douche|ducha|ducha|душ|دوش|淋浴|シャワー|샤워|vòi hoa sen|शावर||dus|shawaa|duş|duŝo|suihku|prysznic
 E|E||||E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E|E
-e.|e|bine|identity copula|fra:est (ɛ), por:é, fas: است (ast/e), hin:है (ɦɛ:), ita:è, ukr:є (ye) + tgl:ay (ay/e)|be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
-e.ja|eja||||being (entity)||ser||||||||||||||olento (olio)|
+e.|e|funsi||fra:et, por:e, spa:y;e, zho:和 (hé)|and|et|y|e|||和|||||||||kaj|ja (sekä)|i, oraz
+e.max|e max||||also (too)||además|||||||||||||ankaŭ|lisäksi (myös)|
 eglisa|eglisa|||eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise|church||iglesia|||||||||||||preĝejo|kirkko|kościół
 einstein.yum|einstein yum|yum 099|Es|eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم|einsteinium|einsteinium|einsteinium|einstânio|эйнштейний|انيشتنيوم|锿|アインスタイニウム|아인시타이늄|ensteni|आइन्स्टाइनियम|আইনস্টাইনিয়াম|einsteinium|einsteni|eınsteınyum|ejnŝtejnio|einsteinium|einstein
 Eire|Eire|dexa|IE||Ireland|Irland|Irlanda||||||||||||||Irlanti|Irlandia
@@ -1173,9 +1173,9 @@ fa.nam|fa nam||||call (name)||llamar (poner)||||||||||||||nimittää (kutsua)|na
 fa.neu|fa neu||||renew (make new, renovate)||renovar||||||||||||||uudistaa|odnowić, odnawiać, uczynić nowym
 fa.nia|fa nia||||mean (intend)|||||||||||||||celi|aikoa (meinata)|
 fa.node|fa node||||tie a knot||hacer un nudo||||||||||||||solmia (tehdä solmu)|zawiązywać (zawiązać węzeł)
-fa.nume|fa nume||||count (enumerate)||contar|||||数える|||||||||laskea (pitää lukua, numeroida)|liczyć
 fa.nomi|fa nomi||||manage (organize)|organiser|organizar (gestionar)|organizar|организовать||组织|組織する|||||||||järjestellä (hallinnoida, organisoida, manageroida)|zarządzać (organizować, kierować)
 fa.note|fa note||||notify||avisar (notificar)||||||||||||||huomauttaa|powiadomić, powiadamiać
+fa.nume|fa nume||||count (enumerate)||contar|||||数える|||||||||laskea (pitää lukua, numeroida)|liczyć
 fa.oke|fa oke||||accept (say okay)||aceptar||||||||||||||hyväksyä|zaakceptować, akceptować, powiedzieć okej, mówić okej
 fa.onor|fa onor||||respect (honor, think highly of)|honorer|honrar|honrar|чтить||||||||menghormati|kusharifu|||kunnioittaa|
 fa.ore|fa ore||||listen||escuchar (oír)||||||||||||||kuunnella|słuchać
@@ -1607,7 +1607,6 @@ glu.di|glu di||||sticky (ahesive)|adhésif (collant)|pegajoso (adhesivo)|pegajos
 glu.grafi|glu grafi||||sticker|autocollant|adhesivo|adesivo|наклейка||贴纸|ステッカー||||||||glumarko|tarra|
 glu.poto|glu poto||||clay|argile|arcilla (barro)|argila|глина||黏土|粘土|||||||||savi|glina
 gluten|gluten|||eng:spa:fra:gluten, por:glúten, rus:глюте́н (gl’uten), ara:غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)|gluten||gluten|||||||||||||gluteno|gluteeni|gluten
-go|go|dem.prn.||yue:嗰 (go2), kor:그 (geo) + ben:ও (o), hin:वह (vo), tur:o|that over there|ce...lá|ese (aquel)|esse (aquele)|тот||那|その|그|đó (kia)|वह|ওই|itu||şu|tio|tuo|tamten
 gol|gol|||por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|goal (destination)|but (destination)|meta (gol, destinación)|meta (gol)|цель||目的|目的 (行き先, ゴール)|||लक्ष्य (गोल)||||amaç (hedef, gol)|golo|maali (pelissä)|cel
 gola|gola|||hin:गोल (gol), ben:গোলক (golôk), tel:గోళము (gōḷamu) + ara: كُرَة‎ (kura), fas: کره‎ (kore), tur:küre|circle (sphere, round object)||círculo||||||||||||||piiri (ympyrä)|koło, okrąg
 gola.di|gola di||||round (circular)||redondo (circular)||||||||||||||pyöreä|okrągły
@@ -1861,8 +1860,6 @@ huru.sim.ja|huru sim ja||||liberalist||liberalista||||||||||||||liberalisti|libe
 huru.ta|huruta||||freedom (liberty)||libertad||||自由|||||||||libereco|vapaus|wolność, niepodległość, niezależność
 huxi|huxi|||fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy|nice (pleasant, comfortable, cushy)||cómodo (lujoso)||||||||ख़ुश|খুশি|||hoş|agrabla|mukava (kiva, miellyttävä)|miły, przyjemny, uroczy
 I|I||||I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I|I
-i.|i|funsi||spa:y, por:e, rus:и (i)|and|et|y|e|||和|||||||||kaj|ja (sekä)|i, oraz
-i.max|i max||||also (too)||además|||||||||||||ankaŭ|lisäksi (myös)|
 ibri|ibri||||Hebrew||hebreo|||||||||||||Hebrea|heprea|hebrajski
 ici|ici|||vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)|will (volition, desire)||voluntad|||||||||||||volo|tahto|wola, chęć
 ici.ja-an|• anicija||||reluctant||||||||||अनिच्छा||||||vastahakoinen (haluton)|niechętny
@@ -2986,7 +2983,6 @@ neu.Yorke.siti|neu Yorke siti|site|US||New York City|||||||||||||||||Stan Nowy J
 neu.Zelande|neu Zelande|dexa|NZ||New Zealand||Nueva Zelanda||||||||||||||Uusi-Seelanti|Nowa Zelandia
 Nevis|Nevis|dexa|||Nevis||Nieves||||||||||||||Nevis|Nevis
 ni|ni|||zho:女 (nǚ), yue:女 (neoi), kor:녀 (nyeo), vie:nữ  + hin:-नी (-ni), ben:-ণী (-ni), tam:-னி (-ṉi) + deu:-in|female||mujer (hembra)||||女|女||||||||ino|naaras|kobieta; kobiecy
-ni|ni|dem.prn.||yue:呢 (ni1), may:ini/ni + kor:(i) + ben:এ (e), hin:यह (ye), tel:ఈ (ī)+ tam:இது (itu)|this|ce...ci|este|este|этот||这 (此)|この|이|này|यह|এই|ini||bu|ĉi tiu|tämä|ten
 nia|nia|||ara: نِيَّة‎ (niyya), hin:नीयत (niyat), may:niat, swa:nia, tur:niyet|intention (purpose)|intention|intención (intento)|intenção|намерение|نِيَّة‎|意图|意図|의도|ý đồ|नीयत (इरादा)||niat|nia|niyet|celo|aie (aikomus, tarkoitus)|
 nice|nice|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)|dessous|parte inferior|||||下|||||||||alapuoli|spód
 nice.di|nice di||||lower (inferior)||inferior||||||||||||||ala-|poniższy
@@ -3018,8 +3014,6 @@ noce.mode|noce mode||||night mode||modo nocturno||||||||||||||yömoodi|tryb nocn
 node|node|||eng:node, spa:nudo, por:nó, fra:nœud|knot (node)||nudo|||||||||||||nodo|solmu|węzeł, zupeł
 Noe|Noe||||Noah|Noé|Noé|Noé|||诺亚|||||||||Noa|Nooa|
 Noe.di.nave|Noe di nave||||Noah’s arc|arche de Noé|arca de Noé|arca de Noé|Ноев ковчег|سَفِينَةُ نُوح‎|诺亚方舟|ノアの箱舟|노아의 방주||||Bahtera Nabi Nuh||Nuh'un gemisi|Arkeo de Noa|Nooan arkki|arka Noego
-nume|nume|||eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|number|nombre (numéro)|número|número|число||数||||संख्या (नंबर)|সংখ্যা (নম্বর )|angka (nombor)|nambari|sayı|nombro|lukumäärä (luku, numero)|numer
-nume.zi|nume zi||||digit (figure, numeral)|ciffre|dígito (cifra)|dígito|цифры|raqam|数字|数字|||अंक||angka (digit)|tarakimu||||
 nomi|nomi|||eng:-nomy, deu:fra:-nomie, spa:por:-nomia, rus:-номия (-nomiya), may:-nomi|management (arrangement, -nomy)||gerencia (dirección)||организация||||||||||||hallinto (hallinnointi)|zarządzanie (-nomia)
 norde|norde|||eng:north, spa:por:norte, deu:Nord, fra:nord, rus:норд (nord)|north|nord|norte|norte|север (норд)||北|北|북|||||||nordo|pohjoinen|północ
 Norde.Aire|Norde Aire|dexa|||Northern Ireland||Irlanda del Norte||||||||||||||Pohjois-Irlanti|Irlandia Północna
@@ -3046,6 +3040,8 @@ nude|nude|||eng:nude, spa:desnudo, por:fra:nu|naked (bare, nude)||desnudo|||||||
 nude.sim|nude sim||||nudism||nudismo||||||||||||||nudismi|nudyzm
 nude.sim.ja|nude sim ja||||nudist||nudista||||||||||||||nudisti|nudysta
 nuka|nuka|||eng:neck, spa:por:nuca, fra:nuque + ara:عُنُق‎ (ʿunuq)|neck (nape)|cou (encolure, nuque)|cuello (nuca, pescuezo)|pescoço (nuca, gargalo)|шея|عُنُق‎|颈|首|||गरदन (ग्रीवा, गला)|গর্দান (গ্রীবা)|leher|shingo|boyun|||
+nume|nume|||eng:number, fra:nombre, spa:por:número, rus:номер (nomer), deu:Nummer, jpn:ナンバー (nanbā), hin:नंबर (nambar), ben:নম্বর (nômbôr), tur:numara, may:nombor, swa:namba(ri)|number|nombre (numéro)|número|número|число||数||||संख्या (नंबर)|সংখ্যা (নম্বর )|angka (nombor)|nambari|sayı|nombro|lukumäärä (luku, numero)|numer
+nume.zi|nume zi||||digit (figure, numeral)|ciffre|dígito (cifra)|dígito|цифры|raqam|数字|数字|||अंक||angka (digit)|tarakimu||||
 O|O||||O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O|O
 o|o|funsi||eng:or, spa:tgl:o, fra:por:ou, zho:或 (huò), ara:(ʾaw)|or|ou|o|ou|или||或||||या||atau|||aŭ|tai (vai)|lub, albo
 Oberon|Oberon|planete 7 lun 5|||Oberon|||||||||||||||||
@@ -3584,11 +3580,19 @@ saide.ja|saide ja||||hunter||cazador|||صياد‎|狩人|||||||||ĉasisto|pyyt�
 saide.yo.pexe|saide yo pexe||||go fishing||pescar|||||||||||||||łapać rybę
 sake|sake|||deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|bag (sack)|sac|saco|saco|||||||||||||pussi (säkki, kassi, laukku)|torba, wór, worek, torba, sakwa
 sal|sal|||eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|salt|sel|sal|sal|соль||盐|塩|소금 (염)|muối (diêm)|नमक|নুন|garam||tuz|salo|suola|sól
+sal|sal|||ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সালাম (salam), may:selamat, swa:salamu, tur:selam + eng:salute, fra:salut, spa:salude, por:saúde + kor:잘 (jal)|hello (hi)|salut|hola|||سَلَام|你好||||हेलो||selamat|jambo (salamu)|alo|saluton!|terve (hei)|cześć
+sal. cuti|sal cuti||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
+sal. dia|sal dia||||good day||buenas tardes|||||||||||||Bonan tagon|päivää!|dzień dobry
+sal. lai|sal lai||||welcome!||bienvenido|||||||||||||bonvenon!|tervetuloa!|witaj, dobre przybycie
+sal. noc|sal noce||||good night||||||||||||||||hyvää yötä|
+sal. suba|sal suba||||good morning||buenos días|||||||||||||Bonan matenon!|huomenta|dobry ranek
+sal. xam|sal xam||||good evening||buenas noches|||||||||||||Bonan vesperon|hyvää iltaa|dobry wieczór
+sal. yam|sal yam||||bon appetit!||buen provecho|||||||||||||bonan apetiton!|hyvää ruokahalua!|smacznego
 sal.biskute|sal biskute||||cracker (soda cracker)||||||梳打饼||||||||||voileipäkeksi|
 sal.di|sal di||||salty (saline)||salino|salino||||||||||||sala|suolainen|słony
 sala|sala|||fra:salle, spa:salón, por:salão, deu:Saal, rus:зал (zal), hin:साल (sāl); शाला (śālā), ara: صَالَة‎ (ṣāla), tel:శాల (śāla), khm:សាលា (saalaa)|hall (big room)|salle|salón|salão|зал|صَالَة‎|大厅|ホール|홀||साल (शाला)||||||sali (halli)|sala
 salade|salade|||fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|salad||ensalada||||||||||||||salaatti|sałatka
-salam|salam|||ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|greeting (hello)|salut (salam)|saludo|saudação|приветствие|سَلَام|迎接|挨拶|인사|lời chào|सलाम|সালাম|selamat|salaam (salamu)|selam|saluto|tervehdys (terve!)|pozdrowienie
+salam|salam||||greeting (hello)|salut (salam)|saludo|saudação|приветствие|سَلَام|迎接|挨拶|인사|lời chào|सलाम|সালাম|selamat|salaam (salamu)|selam|saluto|tervehdys (terve!)|pozdrowienie
 salam.cuti|salam cuti||||farewell||adiós|||||||||||||bonan vojaĝon|hyvää matkaa|żegnaj, dobre odejście
 salam.di|salam di||||good (prosperous; used in greetings)||buen (hola)|||||||||||||bona (en salutoj)|hyvä (tervehdyksissä)|dobry ...
 salam.dia|salam dia||||Good day||buenas tardes|||||||||||||Bonan tagon|päivää!|dzień dobry
@@ -3600,9 +3604,10 @@ salam.yam|salam yam||||bon appetit!||buen provecho|||||||||||||bonan apetiton!|h
 salmon|salmon|bio||eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|salmon (trout)|truite|salmón (trucha)|||||鮭鱒|||||ikan salmon (ikan trout)|samoni||||łosoś (pstrąg)
 Salon|Salon|dexa|SL||Sierra Leone||Sierra Leona||||||||||||||Sierra Leone|Sierra Leone
 salu|salu|||fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık|healthy|sain|saludable|saudável (saudio)|||健康|元気 (丈夫)||||||||sana|terve|zdrowy
+salu.do|saludo||||health (condition, level of health)|santé|salud|saúde|||健康|健康||||||siha||saneco|terveys (kunto)|
 salu.safa.di|salu safa di||||cleanly (hygienic, sanitary)||||||||||||||||hygieeninen|czysty (higieniczny, sanitarny)
 salu.safa.ta|salu safata||||hygiene (cleanliness)|hygiène|higiene|higiene|гигиена||||||||||hijyen||hygienia (puhtaus)|higiena
-salu.ta|saluta||||health|santé|salud|saúde|||健康|健康||||||siha|||terveys|zdrowie
+salu.ta|saluta||||health|santé|salud|saúde|||健康|健康||||||siha|||terveys (hyvinvointi)|zdrowie
 Salvador|Salvador|dexa|SV||El Salvador||El Salvador||||||||||||||El Salvador|Salwador
 sam|sam|||eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|same (equal, alike, match)|égal (même)|equal (similar)|igual|||一样||||समान||sama|sawa|aynı|sama|sama (yhtäläinen)|taki sam
 sam.dexa.jen|sam dexa jen||||compatriot||compatriota|||||||||||||samlandano|samanmaalainen (maanmies)|rodak, ziomek, krajan
@@ -3716,6 +3721,8 @@ sexe-an.di|• ansexe di||||asexual|asexué|asexual||||||||||||||aseksuaali|asek
 sexe.di|sexe di||||sexy (sexually arousing)||sexy (sexual)||||||||||||||seksikäs|seksowny, ponętny
 sexe.logi|sexelogi||||sexology|sexologie|sexología|sexologia|сексология|طِبّ جِنْسِيّ‎|性学|性科学||tình dục học||যৌনবিদ্যা|||seksoloji||seksologia|seksuologia
 Sexel.nesi|Sexel nesi|dexa|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
+si|si|bine|identity copula|zho:是 (shì), yue:是 (si4) + spa:por:ser|be|être|ser (estar)|ser (estar)|быть||对||||होना||ialah||olmak|esti|olla|być
+si.ja|sija||||being (entity)||ser||||||||||||||olento (olio)|
 sian|sian|rang||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан|||シアン|||||||||syaani|niebieskozielony (cyjan)
 Sibiria|Sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
 siborge.yum|siborge yum|yum 106|Sg|eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم|seaborgium|seaborgium|seaborgio|seabórgio|сиборгий|سيبورجيوم||シーボーギウム|새보쥼|seaborgi|सीबोर्गियम|সিওবোর্গিয়াম|seaborgium|seaborgi|siborgiyum|seborgio|seaborgium|seaborg
@@ -4231,6 +4238,7 @@ vita|vita|||fra:vis, ita:vite, rus:винт (vint), tur:vida|screw||tornillo||||
 vitamin|vitamin|||eng:may:vitamin, fra:vitamine, spa:por:vitamina, rus:витамин (vitamin), zho:维他命 (wéitāmìng), jpn:ビタミン (bitamin), kor:비타민 (bitamin), vie:vi ta min, hin:विटामिन (viṭāmin), ben:ভিটামিন (bhiṭamin), ara: فِيتَامِين‎ (fitamīn)|vitamin|vitamine|vitamina|vitamina|витамин|فِيتَامِين‎|维生素 (维他命)|ビタミン|비타민|sinh tố (vi ta min)|विटामिन|ভিটামিন|vitamin||||vitamiini|witamina
 Vixnu|Vixnu|din|||Vishnu|Vishnou|Vishnú|Vixnu|Вишну||毗湿奴|ヴィシュヌ|비슈누||विष्णु|বিষ্ণু|Wisnu||Vişnu|Viŝnuo|Višnu|Wisznu
 viza|viza|||eng:spa:fra:may:visa, rus:виза (viza), tur:vize, swa:viza, ara:فِيزَا‎ (fīzā), fas:ویزا‎ (vizâ), hin:वीज़ा (vīzā), ben:ভিসা (bhiśa), jpn:ビザ (biza), kor:비자 (bija)|visa||visado||виза||||||वीज़ा||||||viisumi|wiza
+vo|vo|dem.prn.||ben:ও (o), hin:वह (vo), tur:o|that over there|ce...lá|ese (aquel)|esse (aquele)|тот||那|その|그|đó (kia)|वह|ওই|itu||şu|tio|tuo|tamten
 vode|vode|||fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|promise (vow, oath)|vœu (promesse)|promesa (voto)|promessa (voto)|клятва (присяга, обет)|وعد|诺言|約束|약속||वचन (वादा)||||||lupaus (vala)|
 vodun|vodun|||ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|voodoo||vudú||||||||||||||voodoo|voodoo
 vok|voke|||eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal|call (voice; summon)||||||||||||||||kutsua (kuuluttaa; manata)|
@@ -4379,6 +4387,7 @@ yepa.late|yepa late||||page (side of a leaf of a book)|page|página|página||||�
 Yesa|Yesa|din|||Jesus|Jésus|Jesús||Иисус||耶稣|||||||||Jesuo|Jeesus|Jezus
 Yesa.Mesi|Yesa Mesi||||Jesus Christ|Jésus-Christ|Jesucristo|Jesus Cristo|Иисус Христос|يَسُوع الْمَسِيح‎|耶稣基督|イエス・キリスト|예수 그리스도|Chúa Giê-su Ki-tô|ईसा मसीह|যিশু খ্রিস্ট|Yesus Kristus|Yesu Kristo|İsa Mesih|Jesuo Kristo|Jeesus Kristus|Jezus Chrystus
 yezi|yezi|bio|Cocos nucifera|zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)|coconut tree||coco|||||||||||||kokoso|kookos|kokos
+yi|yi|dem.prn.||kor:이 (i) + ben:এ (e), hin:यह (ye) + tel:ఈ (ī), tam:இது (itu) + yor:yìí|this|ce...ci|este|este|этот||这 (此)|この|이|này|यह|এই|ini||bu|ĉi tiu|tämä|ten
 yo|yo|||zho:有 (yǒu), yue:有 (jau5)|some (one)||algún|||||何分の||||||||iu|jokin (joku)|jakiś
 yo.jen|yo jen||||someone (somebody)||algién|||||||||||||iu persono|joku|ktoś
 yo.sata|yo sata||||sometime||algún día (algún vez)|||||||||||||iam|joskus|sometime

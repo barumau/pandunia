@@ -67,6 +67,7 @@ adelante - do jin
 además - i max  
 adhesivo - glu grafi  
 adicional (extra) - max di  
+adiós - sal cuti  
 adiós - salam cuti  
 adjetivo - sifa loga  
 adoquín - gola seku  
@@ -429,6 +430,7 @@ bibliotecario - kitabu minister
 bicicleta - pedal sikle  
 bicicleta - sikle  
 bienestar - salamta  
+bienvenido - sal lai  
 bienvenido - salam lai  
 bilingüe - du baxa di  
 bilingüe - dubaxaka  
@@ -483,11 +485,15 @@ budismo - Buda din
 budismo zen - jan buda din  
 budista - Buda din ja  
 buen (hola) - salam di  
+buen provecho - sal yam  
 buen provecho - salam yam  
 buena suerte - bon zar  
+buenas noches - sal xam  
 buenas noches - salam xam  
+buenas tardes - sal dia  
 buenas tardes - salam dia  
 bueno - bon  
+buenos días - sal suba  
 buenos días - salam suba  
 bufanda (chal) - xal  
 bufé - bufete  
@@ -1402,7 +1408,7 @@ estar al lado de - a late
 estar de pie - lipa  
 estar en contra - kontra  
 estaño - estan  
-este - ni  
+este - yi  
 estilógrafo - fonte kalam  
 estimar (apriximarse a) - fa yagu  
 estirar (extender) - long tire  
@@ -1793,6 +1799,7 @@ hm… - hem…
 hockey - hoki  
 hockey sobre hielo - ais hoki  
 hoja - yepa  
+hola - sal  
 holmio - holme yum  
 holograma - holo grafi  
 holoturia (pepino de mar) - hai hiyar  
@@ -3366,6 +3373,7 @@ salmón rosado - rode salmon
 salsa - sos  
 salsa de soja - soi sos  
 saltar (brincar) - jampe  
+salud - saludo  
 salud - saluta  
 saludable - salu  
 saludar - fa salam  

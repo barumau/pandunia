@@ -579,7 +579,7 @@ estanho - estan
 estar deitado (jazer) - be kux  
 estação (sazão) - mosim  
 este (leste) - dong  
-este - ni  
+este - yi  
 estirar - long tire  
 estrado - tai  
 estrela - sing  
@@ -1409,6 +1409,7 @@ Satanás - xatan ja
 Saturno - Saturne  
 saudação - salam  
 saudável (saudio) - salu  
+saúde - saludo  
 saúde - saluta  
 se - gar  
 se - se  

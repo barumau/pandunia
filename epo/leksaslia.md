@@ -1054,7 +1054,6 @@
 **nete** *reto* ← angla:net, deu:Netz, japana:ネット (netto)  
 **neu di** *nova* ← deu:neu, angla:new; neo-, franca:nouveau; néo-, hispana:nuevo; neo-, portugala:novo; neo-, rusa:новый (novyy); нео- (neo-), hindia:नव (nav), bengala:নয় (nôy); নও- (nôo-), malaja:nawa  
 **ni** *ino* ← mandarena:女 (nǚ), kantona:女 (neoi), korea:녀 (nyeo), vjetnama:nữ  + hindia:-नी (-ni), bengala:-ণী (-ni), tamila:-னி (-ṉi) + deu:-in  
-**ni** *ĉi tiu* ← kantona:呢 (ni1), malaja:ini/ni + korea:(i) + bengala:এ (e), hindia:यह (ye), teluga:ఈ (ī)+ tamila:இது (itu)  
 **nia** *celo* ← araba: نِيَّة‎ (niyya), hindia:नीयत (niyat), malaja:niat, svahila:nia, turka:niyet  
 **nice** ** ← bengala:নিচে (nice), hindia:नीचे (nīce), urdua:(nīce), rusa:ниже (niže)  
 **nide** ** ← angla:nest, hispana:nido, portugala:ninho, franca:nid, rusa:гнездо (gnezdo), hindia:नीड़ (nīḍa), bengala:নীড় (nīṛa)  
@@ -1292,9 +1291,9 @@
 **saide** *ĉasado* ← araba:(ṣayd), turka:seyd, urdua:صید‎ (said), persa:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** ** ← deu:angla:sack, franca:sac, hispana:portugala:saco, malaja:konga:saku  
 **sal** *salo* ← angla:salt, franca:sel, hispana:portugala:sal, rusa:соль (solʹ)  
+**sal** *saluton!* ← araba:persa: سلام‎ (salâm), hindia:सलाम (salām), bengala: সালাম (salam), malaja:selamat, svahila:salamu, turka:selam + angla:salute, franca:salut, hispana:salude, portugala:saúde + korea:잘 (jal)  
 **sala** ** ← franca:salle, hispana:salón, portugala:salão, deu:Saal, rusa:зал (zal), hindia:साल (sāl); शाला (śālā), araba: صَالَة‎ (ṣāla), teluga:శాల (śāla), kmera:សាលា (saalaa)  
 **salade** ** ← franca:salade, malaja:salad, deu:Salat, rusa:салат (salat), turka:salata, persa:urdua:(salād), hindia:सलाद (salād), kantona:沙律 (saa1 leot62),  mandarena:沙拉 (shālā), portugala:salada, hispana:ensalado, korea:샐러드 (saelleodeu), japana:サラダ (sarada), taja:สลัด (salat), kmera:សាលាដ (saalaat)  
-**salam** *saluto* ← araba:(salām), svahila:salamu, malaja:selamat, hindia:सलाम (salām), bengala: সালাম (salam), mandarena:萨拉姆 (sàlāmǔ), japana:サラーム (sarāmu), korea:살람 (sallam), vjetnama:xa lam, rusa:салям (salyam)  
 **salmon** ** ← angla:malaja:salmon, hispana:salmón, portugala:salmão, franca:saumon, svahila:samoni, japana:サーモン (sāmon)  
 **salu** *sana* ← franca:hispana:portugala:salubre + araba: سَلَامَة‎ (salāma) + turka:sağlık  
 **sam** *sama* ← angla:same, franca:semblable, rusa:самый (samyy), malaja:sama, hindia:सम (sam)  
@@ -1606,6 +1605,7 @@
 **yen** *okulo* ← mandarena:眼 (yǎn) + araba: عَيْن‎ (ʿayn), egipta araba: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaja:ain + franca:yeux  
 **yepa** *folio* ← mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)  
 **yezi** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
+**yi** *ĉi tiu* ← korea:이 (i) + bengala:এ (e), hindia:यह (ye) + teluga:ఈ (ī), tamila:இது (itu) + joruba:yìí  
 **yo** *iu* ← mandarena:有 (yǒu), kantona:有 (jau5)  
 **yoga** *jogo* ← hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)  
 **yogo** *jugo* ← angla:yoke, hispana:yugo, portugala:jugo, franca:joug, rusa:иго (igo), persa:  یوغ‎ (yuğ) + kantona:軛 (aak1), vjetnama:ách  

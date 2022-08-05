@@ -663,6 +663,7 @@ cincila - chinchilla
 cing - pyyntö  
 cing - pyytää (anoa)  
 cing lai - pyytää tulemaan  
+cing na - ole hyvä  
 cini - posliini  
 cipe - Albania  
 cira - repiä  
@@ -1167,9 +1168,9 @@ fa nam - nimittää (kutsua)
 fa neu - uudistaa  
 fa nia - aikoa (meinata)  
 fa node - solmia (tehdä solmu)  
-fa nume - laskea (pitää lukua, numeroida)  
 fa nomi - järjestellä (hallinnoida, organisoida, manageroida)  
 fa note - huomauttaa  
+fa nume - laskea (pitää lukua, numeroida)  
 fa oke - hyväksyä  
 fa onor - kunnioittaa  
 fa ore - kuunnella  
@@ -2788,7 +2789,7 @@ neuta - uutuus
 neu Zelande - Uusi-Seelanti  
 Nevis - Nevis  
 ni - naaras  
-ni - tämä  
+yi - tämä  
 nia - aie (aikomus, tarkoitus)  
 nice - alapuoli  
 nice di - ala-  
@@ -2816,7 +2817,6 @@ noce mode - yömoodi
 node - solmu  
 Noe - Nooa  
 Noe di nave - Nooan arkki  
-nume - lukumäärä (luku, numero)  
 nomi - hallinto (hallinnointi)  
 norde - pohjoinen  
 Norde Aire - Pohjois-Irlanti  
@@ -2841,6 +2841,7 @@ nu - no
 nude - alaston (paljas, naku)  
 nude sim - nudismi  
 nude sim ja - nudisti  
+nume - lukumäärä (luku, numero)  
 
 ## O  
 
@@ -3305,6 +3306,14 @@ saide - pyynti (metsästys, kalastus)
 saide ja - pyytäjä (metsästäjä, kalastaja)  
 sake - pussi (säkki, kassi, laukku)  
 sal - suola  
+sal - terve (hei)  
+sal cuti - hyvää matkaa  
+sal dia - päivää!  
+sal lai - tervetuloa!  
+sal noce - hyvää yötä  
+sal suba - huomenta  
+sal xam - hyvää iltaa  
+sal yam - hyvää ruokahalua!  
 sal biskute - voileipäkeksi  
 sal di - suolainen  
 sala - sali (halli)  
@@ -3320,9 +3329,10 @@ salam xam - Hyvää iltaa
 salam yam - hyvää ruokahalua!  
 Salon - Sierra Leone  
 salu - terve  
+saludo - terveys (kunto)  
 salu safa di - hygieeninen  
 salu safata - hygienia (puhtaus)  
-saluta - terveys  
+saluta - terveys (hyvinvointi)  
 Salvador - El Salvador  
 sam - sama (yhtäläinen)  
 sam dexa jen - samanmaalainen (maanmies)  

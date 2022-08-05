@@ -682,6 +682,7 @@ cincila - chinchilla
 cing - request (petition)  
 cing - ask (request, beg, plead; please)  
 cing lai - invite  
+cing na - here you are  
 cini - porcelain (chinaware)  
 cipe - Albania  
 cira - tear (rip, split)  
@@ -1219,9 +1220,9 @@ fa nam - call (name)
 fa neu - renew (make new, renovate)  
 fa nia - mean (intend)  
 fa node - tie a knot  
-fa nume - count (enumerate)  
 fa nomi - manage (organize)  
 fa note - notify  
+fa nume - count (enumerate)  
 fa oke - accept (say okay)  
 fa onor - respect (honor, think highly of)  
 fa ore - listen  
@@ -3044,7 +3045,7 @@ neu Yorke siti - New York City
 neu Zelande - New Zealand  
 Nevis - Nevis  
 ni - female  
-ni - this  
+yi - this  
 nia - intention (purpose)  
 nice - underside (underneath)  
 nice di - lower (inferior)  
@@ -3076,8 +3077,6 @@ noce mode - night mode
 node - knot (node)  
 Noe - Noah  
 Noe di nave - Noah’s arc  
-nume - number  
-nume zi - digit (figure, numeral)  
 nomi - management (arrangement, -nomy)  
 norde - north  
 Norde Aire - Northern Ireland  
@@ -3104,6 +3103,8 @@ nude - naked (bare, nude)
 nude sim - nudism  
 nude sim ja - nudist  
 nuka - neck (nape)  
+nume - number  
+nume zi - digit (figure, numeral)  
 
 ## O  
 
@@ -3649,6 +3650,14 @@ saide ja - hunter
 saide yo pexe - go fishing  
 sake - bag (sack)  
 sal - salt  
+sal - hello (hi)  
+sal cuti - farewell  
+sal dia - good day  
+sal lai - welcome!  
+sal noce - good night  
+sal suba - good morning  
+sal xam - good evening  
+sal yam - bon appetit!  
 sal biskute - cracker (soda cracker)  
 sal di - salty (saline)  
 sala - hall (big room)  
@@ -3665,6 +3674,7 @@ salam yam - bon appetit!
 salmon - salmon (trout)  
 Salon - Sierra Leone  
 salu - healthy  
+saludo - health (condition, level of health)  
 salu safa di - cleanly (hygienic, sanitary)  
 salu safata - hygiene (cleanliness)  
 saluta - health  

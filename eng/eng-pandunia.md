@@ -472,6 +472,7 @@ bold letter - gros zi
 Bolivia - Bolivia  
 bolt - bolte  
 bomb - bomba  
+bon appetit! - sal yam  
 bon appetit! - salam yam  
 bone - oste  
 bonus - bon max xe  
@@ -1409,6 +1410,7 @@ fanatic (enthusiast(ic)) - fanatija
 fantastic (imaginary) - fantazi di  
 fantasy (imagination) - fantazi  
 far - tele di  
+farewell - sal cuti  
 farewell - salam cuti  
 farmer - agrija  
 fart (flatulate) - fa pede  
@@ -1676,10 +1678,14 @@ golem - golem
 goniometer - gona metre gi  
 good (prosperous; used in greetings) - salam di  
 good - bon  
+good day - sal dia  
 Good day - salam dia  
+good evening - sal xam  
 Good evening - salam xam  
 good luck - bon zar  
+good morning - sal suba  
 Good morning - salam suba  
+good night - sal noce  
 goose - ganse  
 gorilla - gorila  
 gospel (divine message) - eu anjil  
@@ -1793,6 +1799,7 @@ head - sar
 headless - sar hin  
 headmaster (principal) - xula xefe  
 heal (cure, treat, remedy) - dava  
+health (condition, level of health) - saludo  
 health - saluta  
 healthy - salu  
 hear (listen) - audi  
@@ -1806,6 +1813,7 @@ helicopter - helis fei gi
 helium - heli yum  
 hell - naraka  
 hello (hi) - halo  
+hello (hi) - sal  
 helmet - sar kaska  
 help (aid, assistance) - mede  
 help (assist) - fa mede  
@@ -1816,6 +1824,7 @@ hemophobia - hemifobia
 henna (alcanna) - hina  
 hepatitis - hepatetis  
 here - a ni  
+here you are - cing na  
 heritage (legacy, bequest) - varite  
 hero - hero  
 heroic - hero di  
@@ -4035,7 +4044,7 @@ thing - xe
 think (ponder, reflect) - fa fikir  
 third (3rd) - trime  
 thirst - sui yau  
-this - ni  
+this - yi  
 thistle - kardon  
 thorium - tor yum  
 thorn tree (acacia, wattle) - babul  
@@ -4357,6 +4366,7 @@ Wednesday - den tri
 week - cetiden  
 weft - vei lin  
 weight (heft, gravity) - veze  
+welcome! - sal lai  
 welcome! - salam lai  
 well (now; used to introduce a statement) - nu  
 well-being (prosperity) - salamta  

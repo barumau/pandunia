@@ -945,9 +945,9 @@ fa muzika - grać muzykę
 fa nam - nazwać, nazywać, wezwać, wzywać  
 fa neu - odnowić, odnawiać, uczynić nowym  
 fa node - zawiązywać (zawiązać węzeł)  
-fa nume - liczyć  
 fa nomi - zarządzać (organizować, kierować)  
 fa note - powiadomić, powiadamiać  
+fa nume - liczyć  
 fa oke - zaakceptować, akceptować, powiedzieć okej, mówić okej  
 fa ore - słuchać  
 fa orto - wprostowywać (wyprostować)  
@@ -2469,7 +2469,7 @@ neu Yorke siti - Stan Nowy Jork
 neu Zelande - Nowa Zelandia  
 Nevis - Nevis  
 ni - kobieta; kobiecy  
-ni - ten  
+yi - ten  
 nice - spód  
 nice di - poniższy  
 nide - gniazdo (ul, nora, jama, barłóg, legowisko)  
@@ -2497,7 +2497,6 @@ noce - noc
 noce mode - tryb nocny  
 node - węzeł, zupeł  
 Noe di nave - arka Noego  
-nume - numer  
 nomi - zarządzanie (-nomia)  
 norde - północ  
 Norde Aire - Irlandia Północna  
@@ -2522,6 +2521,7 @@ note xe - uwaga, obserwacja
 nude - nagi, goły, obnażony  
 nude sim - nudyzm  
 nude sim ja - nudysta  
+nume - numer  
 
 ## O  
 
@@ -2978,6 +2978,13 @@ saide ja - łowca (myśliwy)
 saide yo pexe - łapać rybę  
 sake - torba, wór, worek, torba, sakwa  
 sal - sól  
+sal - cześć  
+sal cuti - żegnaj, dobre odejście  
+sal dia - dzień dobry  
+sal lai - witaj, dobre przybycie  
+sal suba - dobry ranek  
+sal xam - dobry wieczór  
+sal yam - smacznego  
 sal di - słony  
 sala - sala  
 salade - sałatka  

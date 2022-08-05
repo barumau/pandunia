@@ -1054,7 +1054,6 @@
 **nete** *verkko* ← englanti:net, deu:Netz, japani:ネット (netto)  
 **neu di** *uusi (vasta tehty, käyttämätön)* ← deu:neu, englanti:new; neo-, ranska:nouveau; néo-, espanja:nuevo; neo-, portugali:novo; neo-, venäjä:новый (novyy); нео- (neo-), hindi:नव (nav), bangla:নয় (nôy); নও- (nôo-), malaiji:nawa  
 **ni** *naaras* ← yleiskiina:女 (nǚ), kantoninkiina:女 (neoi), korea:녀 (nyeo), vietnami:nữ  + hindi:-नी (-ni), bangla:-ণী (-ni), tamili:-னி (-ṉi) + deu:-in  
-**ni** *tämä* ← kantoninkiina:呢 (ni1), malaiji:ini/ni + korea:(i) + bangla:এ (e), hindi:यह (ye), telugu:ఈ (ī)+ tamili:இது (itu)  
 **nia** *aie (aikomus, tarkoitus)* ← arabia: نِيَّة‎ (niyya), hindi:नीयत (niyat), malaiji:niat, suahili:nia, turkki:niyet  
 **nice** *alapuoli* ← bangla:নিচে (nice), hindi:नीचे (nīce), urdu:(nīce), venäjä:ниже (niže)  
 **nide** ** ← englanti:nest, espanja:nido, portugali:ninho, ranska:nid, venäjä:гнездо (gnezdo), hindi:नीड़ (nīḍa), bangla:নীড় (nīṛa)  
@@ -1292,9 +1291,9 @@
 **saide** *pyynti (metsästys, kalastus)* ← arabia:(ṣayd), turkki:seyd, urdu:صید‎ (said), persia:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** *pussi (säkki, kassi, laukku)* ← deu:englanti:sack, ranska:sac, espanja:portugali:saco, malaiji:Kongo:saku  
 **sal** *suola* ← englanti:salt, ranska:sel, espanja:portugali:sal, venäjä:соль (solʹ)  
+**sal** *terve (hei)* ← arabia:persia: سلام‎ (salâm), hindi:सलाम (salām), bangla: সালাম (salam), malaiji:selamat, suahili:salamu, turkki:selam + englanti:salute, ranska:salut, espanja:salude, portugali:saúde + korea:잘 (jal)  
 **sala** *sali (halli)* ← ranska:salle, espanja:salón, portugali:salão, deu:Saal, venäjä:зал (zal), hindi:साल (sāl); शाला (śālā), arabia: صَالَة‎ (ṣāla), telugu:శాల (śāla), khmer:សាលា (saalaa)  
 **salade** *salaatti* ← ranska:salade, malaiji:salad, deu:Salat, venäjä:салат (salat), turkki:salata, persia:urdu:(salād), hindi:सलाद (salād), kantoninkiina:沙律 (saa1 leot62),  yleiskiina:沙拉 (shālā), portugali:salada, espanja:ensalado, korea:샐러드 (saelleodeu), japani:サラダ (sarada), thai:สลัด (salat), khmer:សាលាដ (saalaat)  
-**salam** *tervehdys (terve!)* ← arabia:(salām), suahili:salamu, malaiji:selamat, hindi:सलाम (salām), bangla: সালাম (salam), yleiskiina:萨拉姆 (sàlāmǔ), japani:サラーム (sarāmu), korea:살람 (sallam), vietnami:xa lam, venäjä:салям (salyam)  
 **salmon** ** ← englanti:malaiji:salmon, espanja:salmón, portugali:salmão, ranska:saumon, suahili:samoni, japani:サーモン (sāmon)  
 **salu** *terve* ← ranska:espanja:portugali:salubre + arabia: سَلَامَة‎ (salāma) + turkki:sağlık  
 **sam** *sama (yhtäläinen)* ← englanti:same, ranska:semblable, venäjä:самый (samyy), malaiji:sama, hindi:सम (sam)  
@@ -1606,6 +1605,7 @@
 **yen** *silmä* ← yleiskiina:眼 (yǎn) + arabia: عَيْن‎ (ʿayn), egyptinarabia: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaiji:ain + ranska:yeux  
 **yepa** *lehti (arkki, levy)* ← yleiskiina:叶 (yè), kantoninkiina:葉 (jip6), korea:잎 (ip);엽 (yeop), vietnami:diệp, japani:葉 (yō)  
 **yezi** *kookos* ← yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)  
+**yi** *tämä* ← korea:이 (i) + bangla:এ (e), hindi:यह (ye) + telugu:ఈ (ī), tamili:இது (itu) + yoruba:yìí  
 **yo** *jokin (joku)* ← yleiskiina:有 (yǒu), kantoninkiina:有 (jau5)  
 **yoga** *jooga* ← hindi:योग (yog), pandzabi:ਯੋਗ (yog), urdu:(yog), bangla:যোগ (jog), telugu:యోగా (yōgā), thai:โยคะ (yōga), englanti:espanja:malaiji:turkki:yoga, portugali:ioga, venäjä:йога (yoga), yleiskiina:瑜伽 (yújiā), japani:ヨーガ (yōga), korea:요가 (yoga)  
 **yogo** *ies* ← englanti:yoke, espanja:yugo, portugali:jugo, ranska:joug, venäjä:иго (igo), persia:  یوغ‎ (yuğ) + kantoninkiina:軛 (aak1), vietnami:ách  

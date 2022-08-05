@@ -1115,7 +1115,7 @@ neu gene di - recém-nascido
 neu jen - novato (neófito)  
 neu loga - neologismo  
 neuta - novidade  
-ni - este  
+yi - este  
 nia - intenção  
 nide - ninho (vespiero)  
 nikel - níquel  
@@ -1133,12 +1133,12 @@ nobi - não-binário
 noce - noite  
 Noe - Noé  
 Noe di nave - arca de Noé  
-nume - número  
-nume zi - dígito  
 norde - norte  
 nostalgia - nostalgia (saudade)  
 note xe - nota  
 nuka - pescoço (nuca, gargalo)  
+nume - número  
+nume zi - dígito  
 
 ## O  
 
@@ -1357,6 +1357,7 @@ sala - salão
 salam - saudação  
 salamta - bem-estar  
 salu - saudável (saudio)  
+saludo - saúde  
 salu safata - higiene  
 saluta - saúde  
 sam - igual  

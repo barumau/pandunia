@@ -742,6 +742,7 @@ hunaja - medu
 huomata (hoksata) - note  
 huomauttaa - fa note  
 huomautus - note anjil  
+huomenta - sal suba  
 Huomenta! - salam suba  
 huominen - pos den  
 huomio (kommentti, merkintä) - note xe  
@@ -775,9 +776,13 @@ hyväksyä (hyväksyntä, OK) - oke
 hyväksyä - bon rai  
 hyväksyä - fa oke  
 hyvännäköinen (kaunis, komea) - bon vide di  
+hyvää iltaa - sal xam  
 Hyvää iltaa - salam xam  
+hyvää matkaa - sal cuti  
 hyvää matkaa - salam cuti  
+hyvää ruokahalua! - sal yam  
 hyvää ruokahalua! - salam yam  
+hyvää yötä - sal noce  
 hyytelö - jele  
 hyödyllinen - faida di  
 hyökkäys (päällekarkaus, aggressio) - agresi  
@@ -2270,6 +2275,7 @@ oja (kanava, kanaali) - kanal
 okra - bamia  
 oksa (haara) - xaka  
 oksidi - oxide  
+ole hyvä - cing na  
 olento (olio) - eja  
 oliivi - zaitun  
 olkapää (hartia) - kanta  
@@ -2730,6 +2736,7 @@ päivänseisaus - sol estasi
 päiväntasaaja - geo par lin  
 Päiväntasaajan Guinea - Geo Par Lin Ginia  
 päivänvalo - dia foto  
+päivää! - sal dia  
 päivää! - salam dia  
 pää - sar  
 pää- - xefe di  
@@ -3430,11 +3437,14 @@ terbium - terbi yum
 terrakotta - baka poto  
 terrorismi - teror sim  
 terroristi - teror sim ja  
+terve (hei) - sal  
 terve - salu  
 tervehdys (terve!) - salam  
 tervehtiä - fa salam  
+tervetuloa! - sal lai  
 tervetuloa! - salam lai  
-terveys - saluta  
+terveys (hyvinvointi) - saluta  
+terveys (kunto) - saludo  
 tesla (T) - tesla  
 Tethys - Tetis  
 teurastaa (lahdata) - buca  
@@ -3608,7 +3618,7 @@ tähti - sing
 tähtialus - astro nave  
 tähtitiede (astronomia) - astro nomi  
 tähtitieteilijä - astro nomi ja  
-tämä - ni  
+tämä - yi  
 tämä hetki (nyt) - zai zaman  
 tänään - zai den  
 täplä (läiskä) - bindu  

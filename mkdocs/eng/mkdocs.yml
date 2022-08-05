@@ -12,18 +12,18 @@ nav:
     - 'Introduction': 001_ration.md
     - 'Grammar and Rules':
         - 'The basic rules': 100_baze_kanun.md
-        - 'World words': 101_dunia_lexe.md
+        - 'World words': 101_dunia_lexi.md
         - 'Spelling and pronunciation': 102_ABC.md
-        - 'Word classes': 103_lexetipe.md
-        - 'Pronouns': 104_viselexe.md
-        - 'Nouns': 105_namelexe.md
+        - 'Word classes': 103_lexitipe.md
+        - 'Pronouns': 104_viselexi.md
+        - 'Nouns': 105_namlexi.md
         - 'Numerals': 106_nume.md
-        - 'Modifiers': 107_modelexe.md
-        - 'Verbs': 108_karelexe.md
-        - 'Sentences': 109_jumlebine.md
-        - 'Word building': 110_lexebine.md
+        - 'Modifiers': 107_modelexi.md
+        - 'Verbs': 108_karelexi.md
+        - 'Sentences': 109_jumlabina.md
+        - 'Word building': 110_lexibina.md
     - 'Lessons':
-        - 'Basic Phrases': 200_baze_jumle.md
+        - 'Basic Phrases': 200_baze_jumla.md
         - 'Course': 201_xule.md
     - 'Words':
         - 'Pandunia-English': pandunia-eng.md

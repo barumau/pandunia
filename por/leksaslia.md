@@ -1054,7 +1054,6 @@
 **nete** ** ← eng:net, deu:Netz, jpn:ネット (netto)  
 **neu di** *novo* ← deu:neu, eng:new; neo-, fra:nouveau; néo-, spa:nuevo; neo-, por:novo; neo-, rus:новый (novyy); нео- (neo-), hin:नव (nav), ben:নয় (nôy); নও- (nôo-), may:nawa  
 **ni** ** ← zho:女 (nǚ), yue:女 (neoi), kor:녀 (nyeo), vie:nữ  + hin:-नी (-ni), ben:-ণী (-ni), tam:-னி (-ṉi) + deu:-in  
-**ni** *este* ← yue:呢 (ni1), may:ini/ni + kor:(i) + ben:এ (e), hin:यह (ye), tel:ఈ (ī)+ tam:இது (itu)  
 **nia** *intenção* ← ara: نِيَّة‎ (niyya), hin:नीयत (niyat), may:niat, swa:nia, tur:niyet  
 **nice** ** ← ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)  
 **nide** *ninho (vespiero)* ← eng:nest, spa:nido, por:ninho, fra:nid, rus:гнездо (gnezdo), hin:नीड़ (nīḍa), ben:নীড় (nīṛa)  
@@ -1291,10 +1290,10 @@
 **sahi** *correto (justo)* ← hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi  
 **saide** ** ← ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** *saco* ← deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku  
+**sal** ** ← ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সালাম (salam), may:selamat, swa:salamu, tur:selam + eng:salute, fra:salut, spa:salude, por:saúde + kor:잘 (jal)  
 **sal** *sal* ← eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)  
 **sala** *salão* ← fra:salle, spa:salón, por:salão, deu:Saal, rus:зал (zal), hin:साल (sāl); शाला (śālā), ara: صَالَة‎ (ṣāla), tel:శాల (śāla), khm:សាលា (saalaa)  
 **salade** ** ← fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)  
-**salam** *saudação* ← ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)  
 **salmon** ** ← eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)  
 **salu** *saudável (saudio)* ← fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık  
 **sam** *igual* ← eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)  
@@ -1606,6 +1605,7 @@
 **yen** *olho* ← zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain + fra:yeux  
 **yepa** *folha* ← zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)  
 **yezi** ** ← zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)  
+**yi** *este* ← kor:이 (i) + ben:এ (e), hin:यह (ye) + tel:ఈ (ī), tam:இது (itu) + yor:yìí  
 **yo** ** ← zho:有 (yǒu), yue:有 (jau5)  
 **yoga** ** ← hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)  
 **yogo** *jugo* ← eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách  

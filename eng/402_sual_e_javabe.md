@@ -322,8 +322,8 @@ So the letter *c* is free to be reassigned to some useful sound.
 
 Pandunia's words come from all parts of the world.
 Go to the
-[Pandunia lexe a dunia karte](http://www.pandunia.info/lexokarte/index.html)
-web pages to see where every Pandunia word is from on a world map.
+[Pandunia lexi a dunia karte](http://www.pandunia.info/lexikarta/index.html)
+pages to see where every Pandunia word is from on a world map.
 
 In our opinion the world language should be a mix of all languages in the world.
 That's why Pandunia has at least a few words in common with almost all languages of the world,
@@ -393,7 +393,7 @@ health and well-being.
 So the meaning of **salam** is greater than the meaning of peace. It
 means well-being in general and you can use it as a general
 expression for well-wishing in all kinds of situations, not just when
-you meet somebody. See the first lesson in the [phrasebook](200_baze_jumle.md)
+you meet somebody. See the first lesson in the [phrasebook](200_baze_jumla.md)
 for a lot of examples!
 
 ## Grammar

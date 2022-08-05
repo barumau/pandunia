@@ -1314,7 +1314,7 @@ neu gene di - nouveau-né
 neu jen - néophyte  
 neu loga - néologisme  
 neuta - nouveauté  
-ni - ce...ci  
+yi - ce...ci  
 nia - intention  
 nice - dessous  
 nide - nid  
@@ -1334,12 +1334,12 @@ nobi - non-binaire
 noce - noit  
 Noe - Noé  
 Noe di nave - arche de Noé  
-nume - nombre (numéro)  
-nume zi - ciffre  
 norde - nord  
 nostalgia - nostalgie  
 note xe - note  
 nuka - cou (encolure, nuque)  
+nume - nombre (numéro)  
+nume zi - ciffre  
 
 ## O  
 
@@ -1581,11 +1581,13 @@ sagu - sagoutier
 sahi - correct (juste)  
 sake - sac  
 sal - sel  
+sal - salut  
 sala - salle  
 salam - salut (salam)  
 salamta - bien-être  
 salmon - truite  
 salu - sain  
+saludo - santé  
 salu safata - hygiène  
 saluta - santé  
 sam - égal (même)  

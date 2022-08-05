@@ -1429,7 +1429,7 @@ neu jen - novulo
 neu loga - neologismo  
 neuta - noveco  
 ni - ino  
-ni - ĉi tiu  
+yi - ĉi tiu  
 nia - celo  
 Nijer - Niĝero  
 Nikaragua - Nikaragvo  
@@ -1450,7 +1450,6 @@ noce - nokto
 node - nodo  
 Noe - Noa  
 Noe di nave - Arkeo de Noa  
-nume - nombro  
 norde - nordo  
 Norge - Norvegio  
 norge baxa - norvega  
@@ -1459,6 +1458,7 @@ note - rimarki
 note buku - kajero  
 note xe - noto (rimarko, komento)  
 nu - nu  
+nume - nombro  
 
 ## O  
 
@@ -1686,6 +1686,13 @@ sahi - ĝusta (prava)
 saide - ĉasado  
 saide ja - ĉasisto  
 sal - salo  
+sal - saluton!  
+sal cuti - bonan vojaĝon  
+sal dia - Bonan tagon  
+sal lai - bonvenon!  
+sal suba - Bonan matenon!  
+sal xam - Bonan vesperon  
+sal yam - bonan apetiton!  
 sal di - sala  
 salam - saluto  
 salam cuti - bonan vojaĝon  
@@ -1696,6 +1703,7 @@ salam suba - Bonan matenon!
 salam xam - Bonan vesperon  
 salam yam - bonan apetiton!  
 salu - sana  
+saludo - saneco  
 sam - sama  
 sam dexa jen - samlandano  
 sam emos - kompato  

@@ -1054,7 +1054,6 @@
 **nete** *net (web, mesh)* ← English:net, deu:Netz, Japanese:ネット (netto)  
 **neu di** *new (recent)* ← deu:neu, English:new; neo-, French:nouveau; néo-, Spanish:nuevo; neo-, Portuguese:novo; neo-, Russian:новый (novyy); нео- (neo-), Hindi:नव (nav), Bengali:নয় (nôy); নও- (nôo-), Malay:nawa  
 **ni** *female* ← Mandarin:女 (nǚ), Cantonese:女 (neoi), Korean:녀 (nyeo), Vietnamese:nữ  + Hindi:-नी (-ni), Bengali:-ণী (-ni), Tamil:-னி (-ṉi) + deu:-in  
-**ni** *this* ← Cantonese:呢 (ni1), Malay:ini/ni + Korean:(i) + Bengali:এ (e), Hindi:यह (ye), Telugu:ఈ (ī)+ Tamil:இது (itu)  
 **nia** *intention (purpose)* ← Arabic: نِيَّة‎ (niyya), Hindi:नीयत (niyat), Malay:niat, Swahili:nia, Turkish:niyet  
 **nice** *underside (underneath)* ← Bengali:নিচে (nice), Hindi:नीचे (nīce), Urdu:(nīce), Russian:ниже (niže)  
 **nide** *nest (hive, den)* ← English:nest, Spanish:nido, Portuguese:ninho, French:nid, Russian:гнездо (gnezdo), Hindi:नीड़ (nīḍa), Bengali:নীড় (nīṛa)  
@@ -1291,10 +1290,10 @@
 **sahi** *right (correct, accurate)* ← Hindi:सही (sahī), Urdu:(sahī), Persian:(sahih), Arabic:(ṣaḥīḥ), Swahili:sahihi  
 **saide** *hunting (fishing)* ← Arabic:(ṣayd), Turkish:seyd, Urdu:صید‎ (said), Persian:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** *bag (sack)* ← deu:English:sack, French:sac, Spanish:Portuguese:saco, Malay:Kongo:saku  
+**sal** *hello (hi)* ← Arabic:Persian: سلام‎ (salâm), Hindi:सलाम (salām), Bengali: সালাম (salam), Malay:selamat, Swahili:salamu, Turkish:selam + English:salute, French:salut, Spanish:salude, Portuguese:saúde + Korean:잘 (jal)  
 **sal** *salt* ← English:salt, French:sel, Spanish:Portuguese:sal, Russian:соль (solʹ)  
 **sala** *hall (big room)* ← French:salle, Spanish:salón, Portuguese:salão, deu:Saal, Russian:зал (zal), Hindi:साल (sāl); शाला (śālā), Arabic: صَالَة‎ (ṣāla), Telugu:శాల (śāla), Khmer:សាលា (saalaa)  
 **salade** *salad* ← French:salade, Malay:salad, deu:Salat, Russian:салат (salat), Turkish:salata, Persian:Urdu:(salād), Hindi:सलाद (salād), Cantonese:沙律 (saa1 leot62),  Mandarin:沙拉 (shālā), Portuguese:salada, Spanish:ensalado, Korean:샐러드 (saelleodeu), Japanese:サラダ (sarada), Thai:สลัด (salat), Khmer:សាលាដ (saalaat)  
-**salam** *greeting (hello)* ← Arabic:(salām), Swahili:salamu, Malay:selamat, Hindi:सलाम (salām), Bengali: সালাম (salam), Mandarin:萨拉姆 (sàlāmǔ), Japanese:サラーム (sarāmu), Korean:살람 (sallam), Vietnamese:xa lam, Russian:салям (salyam)  
 **salmon** *salmon (trout)* ← English:Malay:salmon, Spanish:salmón, Portuguese:salmão, French:saumon, Swahili:samoni, Japanese:サーモン (sāmon)  
 **salu** *healthy* ← French:Spanish:Portuguese:salubre + Arabic: سَلَامَة‎ (salāma) + Turkish:sağlık  
 **sam** *same (equal, alike, match)* ← English:same, French:semblable, Russian:самый (samyy), Malay:sama, Hindi:सम (sam)  
@@ -1606,6 +1605,7 @@
 **yen** *eye* ← Mandarin:眼 (yǎn) + Arabic: عَيْن‎ (ʿayn), Egyptian-Arabic: عين‎ (ʕēn), Amharic:ዐይን (ʿäyn), Malay:ain + French:yeux  
 **yepa** *leaf (sheet)* ← Mandarin:叶 (yè), Cantonese:葉 (jip6), Korean:잎 (ip);엽 (yeop), Vietnamese:diệp, Japanese:葉 (yō)  
 **yezi** *coconut tree* ← Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)  
+**yi** *this* ← Korean:이 (i) + Bengali:এ (e), Hindi:यह (ye) + Telugu:ఈ (ī), Tamil:இது (itu) + Yoruba:yìí  
 **yo** *some (one)* ← Mandarin:有 (yǒu), Cantonese:有 (jau5)  
 **yoga** *yoga* ← Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)  
 **yogo** *yoke* ← English:yoke, Spanish:yugo, Portuguese:jugo, French:joug, Russian:иго (igo), Persian:  یوغ‎ (yuğ) + Cantonese:軛 (aak1), Vietnamese:ách  

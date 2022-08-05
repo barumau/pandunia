@@ -7,7 +7,7 @@ fa_pan_md() {
     echo
     echo "kitabe la $1 PDF dokomen"
     cd $1
-    cat 000_dake.md 100_baze_kanun.md 102_ABC.md 103_lexetipe.md 104_viselexe.md 105_namelexe.md 106_nume.md 107_modelexe.md 108_karelexe.md 109_jumlebine.md 110_lexebine.md 201_xule.md > pan.md
+    cat 000_dake.md 100_baze_kanun.md 102_ABC.md 103_lexitipe.md 104_viselexi.md 105_namlexi.md 106_nume.md 107_modelexi.md 108_karelexi.md 109_jumlabina.md 110_lexibina.md 201_xule.md > pan.md
 
     #la sube kitabe ave 'unicode' harfe e simbol, jo 'pandoc' no bil kitabe.
     #101_dunia_loga.md 200_baze_jumla.md

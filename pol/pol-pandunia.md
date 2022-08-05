@@ -415,6 +415,7 @@ czekolada - coklate
 czempion - campion  
 czerwiec - mes tri  
 czerwony - rubi  
+cześć - sal  
 cześć, szacunek - puja  
 czosnek olbrzymi - dai lasun  
 cztery (4) - nelu  
@@ -484,7 +485,9 @@ do, dopóki, dla - do
 dobry - bon  
 dobry ... - salam di  
 dobry los, szczęście - bon zar  
+dobry ranek - sal suba  
 dobry ranek - salam suba  
+dobry wieczór - sal xam  
 dobry wieczór - salam xam  
 dodatkowy - bon max xe  
 dodatkowy - max di  
@@ -565,6 +568,7 @@ dziewczyna - jun fem
 dziewczyna - youni  
 dziewięć (9) - tisa  
 dzień - dia  
+dzień dobry - sal dia  
 dzień dobry - salam dia  
 dzień świętego Jana - Yohan festa  
 dziki - eko gene di  
@@ -2710,6 +2714,7 @@ skwer, plac - medan
 skwierczeć - zizi  
 skóra - pil  
 slums - harabu mahala  
+smacznego - sal yam  
 smacznego - salam yam  
 smak - guste  
 smakować jak - guste ka  
@@ -2980,7 +2985,7 @@ tellur - telu yum
 telugu - Telugu  
 temat, motyw - tema  
 temperatura - termo  
-ten - ni  
+ten - yi  
 tendencja (być skłonnym) - klin  
 tenesyn, tennessine - tenesi yum  
 tenis - tenis  
@@ -3272,6 +3277,7 @@ wiosna - hua mosim
 wirus - virus  
 wirusologia - viruslogi  
 Wisznu - Vixnu  
+witaj, dobre przybycie - sal lai  
 witaj, dobre przybycie - salam lai  
 witamina - vitamin  
 witraż - rang kanca  
@@ -3675,6 +3681,7 @@ zły, zrujnowany, zepsuty - harabu
 że - ki  
 żeglarz (marynarz) - nave ga ja  
 żeglować (płynąć) - nave ga  
+żegnaj, dobre odejście - sal cuti  
 żegnaj, dobre odejście - salam cuti  
 żel, galareta - jele  
 żelazo - fero  

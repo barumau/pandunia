@@ -1196,7 +1196,7 @@ neu gene di - новорождённый
 neu jen - новичок  
 neu loga - неологизм  
 neuta - новизна  
-ni - этот  
+yi - этот  
 nia - намерение  
 nice kitabu - субтитр  
 nide - гнездо (улей)  
@@ -1214,14 +1214,14 @@ no - нет (не)
 nobel yum - нобелий  
 noce - ночь  
 Noe di nave - Ноев ковчег  
-nume - число  
-nume zi - цифры  
 nomi - организация  
 norde - север (норд)  
 nostalgia - ностальгия (тоска)  
 note xe - запись (заметка)  
 nu - ну  
 nuka - шея  
+nume - число  
+nume zi - цифры  
 
 ## O  
 

@@ -1054,7 +1054,6 @@
 **nete** *sieć* ← eng:net, deu:Netz, jpn:ネット (netto)  
 **neu di** *nowy* ← deu:neu, eng:new; neo-, fra:nouveau; néo-, spa:nuevo; neo-, por:novo; neo-, rus:новый (novyy); нео- (neo-), hin:नव (nav), ben:নয় (nôy); নও- (nôo-), may:nawa  
 **ni** *kobieta; kobiecy* ← zho:女 (nǚ), yue:女 (neoi), kor:녀 (nyeo), vie:nữ  + hin:-नी (-ni), ben:-ণী (-ni), tam:-னி (-ṉi) + deu:-in  
-**ni** *ten* ← yue:呢 (ni1), may:ini/ni + kor:(i) + ben:এ (e), hin:यह (ye), tel:ఈ (ī)+ tam:இது (itu)  
 **nia** ** ← ara: نِيَّة‎ (niyya), hin:नीयत (niyat), may:niat, swa:nia, tur:niyet  
 **nice** *spód* ← ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)  
 **nide** *gniazdo (ul, nora, jama, barłóg, legowisko)* ← eng:nest, spa:nido, por:ninho, fra:nid, rus:гнездо (gnezdo), hin:नीड़ (nīḍa), ben:নীড় (nīṛa)  
@@ -1291,10 +1290,10 @@
 **sahi** *właściwy, poprawny* ← hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi  
 **saide** *polowanie (łowienie)* ← ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** *torba, wór, worek, torba, sakwa* ← deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku  
+**sal** *cześć* ← ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সালাম (salam), may:selamat, swa:salamu, tur:selam + eng:salute, fra:salut, spa:salude, por:saúde + kor:잘 (jal)  
 **sal** *sól* ← eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)  
 **sala** *sala* ← fra:salle, spa:salón, por:salão, deu:Saal, rus:зал (zal), hin:साल (sāl); शाला (śālā), ara: صَالَة‎ (ṣāla), tel:శాల (śāla), khm:សាលា (saalaa)  
 **salade** *sałatka* ← fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)  
-**salam** *pozdrowienie* ← ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)  
 **salmon** *łosoś (pstrąg)* ← eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)  
 **salu** *zdrowy* ← fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık  
 **sam** *taki sam* ← eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)  
@@ -1606,6 +1605,7 @@
 **yen** *oko* ← zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain + fra:yeux  
 **yepa** *kartka (dokument)* ← zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)  
 **yezi** *kokos* ← zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)  
+**yi** *ten* ← kor:이 (i) + ben:এ (e), hin:यह (ye) + tel:ఈ (ī), tam:இது (itu) + yor:yìí  
 **yo** *jakiś* ← zho:有 (yǒu), yue:有 (jau5)  
 **yoga** *joga* ← hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)  
 **yogo** *jarzmo* ← eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách  
