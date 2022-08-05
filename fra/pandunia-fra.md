@@ -3,12 +3,12 @@
 ## A  
 
 a - a (dans, en, chez)  
-a go - là (y)  
 a ke - où  
 a lin - en ligne  
-a ni - ici  
 a pos - ensuite (après, plus tard, ir a, en el futuro)  
+a vo - là (y)  
 a xukur de - grâce à  
+a yi - ici  
 abies - sapin  
 acar di - décapé (mariné)  
 acar hiyar - concombre confit (cornichon)  
@@ -483,7 +483,7 @@ dux - douche
 
 ## E  
 
-e - être  
+e - et  
 einstein yum - einsteinium  
 Eire - Irland  
 eko gene di - sauvage  
@@ -731,7 +731,6 @@ glu bande - pansement (sparadrap)
 glu di - adhésif (collant)  
 glu grafi - autocollant  
 glu poto - argile  
-go - ce...lá  
 gol - but (destination)  
 gola seku - pavé  
 gong - travail  
@@ -841,7 +840,6 @@ huru - libre
 
 ## I  
 
-i - et  
 iha uma - mule  
 in bum - implosion  
 in klus - y compris  
@@ -1314,7 +1312,6 @@ neu gene di - nouveau-né
 neu jen - néophyte  
 neu loga - néologisme  
 neuta - nouveauté  
-yi - ce...ci  
 nia - intention  
 nice - dessous  
 nide - nid  
@@ -1632,6 +1629,7 @@ seria - série
 serime - maillon (chaînon)  
 • ansexe di - asexué  
 sexelogi - sexologie  
+si - être  
 siborge yum - seaborgium  
 sifa loga - adjectif  
 sigar - cigarette  
@@ -1824,6 +1822,7 @@ virus - virus
 vise raja - vice-roi  
 vitamin - vitamine  
 Vixnu - Vishnou  
+vo - ce...lá  
 vode - vœu (promesse)  
 vokesoni - voyelle  
 vol - vouloir  
@@ -1903,6 +1902,7 @@ yepa alga - varech
 yepa late - page  
 Yesa - Jésus  
 Yesa Mesi - Jésus-Christ  
+yi - ce...ci  
 yogo - joug  
 yogur - yaourt (yogourt)  
 you - infantile (immature)  

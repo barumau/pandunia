@@ -367,7 +367,7 @@ carte à collectionner - jama karte
 cartographie - kartagrafi  
 cauri - kauri  
 ce...ci - yi  
-ce...lá - go  
+ce...lá - vo  
 cellule sanguine (globule) - hemiselu  
 cent (100) - sento  
 Centaurée - sentaure  
@@ -651,7 +651,7 @@ espace - hali zi
 espectador - vide ja  
 esprit (génie) - jini  
 estrade - tai  
-et - i  
+et - e  
 ethnie - zuku  
 ethnique - zuku di  
 Europe - Europa  
@@ -853,7 +853,7 @@ hôtel - hotel
 
 ## I  
 
-ici - a ni  
+ici - a yi  
 imitateur (mime) - mima ja  
 imiter - mima  
 immigrant - in migra ja  
@@ -1016,7 +1016,7 @@ lutécium - lutesi yum
 luxure (libido) - kama  
 lynx - linse  
 lys - susan  
-là (y) - a go  
+là (y) - a vo  
 léger - ligu veze di  
 légume - yam fito  
 lézard - saur  
@@ -1935,7 +1935,7 @@ zéro - siro
 évangile - eu anjil  
 éveillé - jaga  
 évident - vai vide di  
-être - e  
+être - si  
 être couché - be kux  
 être humain - insan  
 œil - yen  

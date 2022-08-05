@@ -3,8 +3,6 @@
 ## A  
 
 a - en (a)  
-a go - allí (allá)  
-a in - dentro  
 a jong - centrarse (en el centro de)  
 a ke - dónde  
 a kon - juntos  
@@ -13,14 +11,15 @@ a lin - en línea
 a medi - entre  
 a min de - excepto (menos)  
 a neu - ahora mismo (justo)  
-a ni - aquí (acá)  
 a nice - debajo  
 a poli mar - frecuentemente  
 a pos - más tarde  
 a ri - otra vez (de nuevo)  
 a sabu de - porque  
 a supra - sobre  
+a vo - allí (allá)  
 a xukur de - gracias a (merced a)  
+a yi - aquí (acá)  
 abies - abeto  
 acar di - encurtido  
 acar hiyar - pepinillo  
@@ -808,8 +807,8 @@ dux - ducha
 
 ## E  
 
-e - ser (estar)  
-eja - ser  
+e - y  
+e max - además  
 eglisa - iglesia  
 einstein yum - einsteinium  
 Eire - Irlanda  
@@ -1421,7 +1420,6 @@ glu di - pegajoso (adhesivo)
 glu grafi - adhesivo  
 glu poto - arcilla (barro)  
 gluten - gluten  
-go - ese (aquel)  
 gol - meta (gol, destinación)  
 gola - círculo  
 gola di - redondo (circular)  
@@ -1655,8 +1653,6 @@ huxi - cómodo (lujoso)
 
 ## I  
 
-i - y  
-i max - además  
 ibri - hebreo  
 ici - voluntad  
 idea - idea (noción, concepto)  
@@ -2669,7 +2665,6 @@ neu yang di - moderno
 neu Zelande - Nueva Zelanda  
 Nevis - Nieves  
 ni - mujer (hembra)  
-yi - este  
 nia - intención (intento)  
 nice - parte inferior  
 nice di - inferior  
@@ -3336,6 +3331,8 @@ sexe - sexo
 sexe di - sexy (sexual)  
 sexelogi - sexología  
 Sexel nesi - Seychelles  
+si - ser (estar)  
+sija - ser  
 sian - cian  
 Sibiria - Siberia  
 siborge yum - seaborgio  
@@ -3792,6 +3789,7 @@ vita - tornillo
 vitamin - vitamina  
 Vixnu - Vishnú  
 viza - visado  
+vo - ese (aquel)  
 vode - promesa (voto)  
 vodun - vudú  
 vokesoni - vocal  
@@ -3921,6 +3919,7 @@ yepa late - página
 Yesa - Jesús  
 Yesa Mesi - Jesucristo  
 yezi - coco  
+yi - este  
 yo - algún  
 yo jen - algién  
 yo sata - algún día (algún vez)  

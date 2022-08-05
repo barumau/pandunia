@@ -318,7 +318,7 @@
 **dus** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
 **dute** *doubt (disbelief)* ← French:doute, English:doubt, Spanish:Filipino:duda  
 **dux** *shower* ← French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş  
-**e** *be* ← French:est (ɛ), Portuguese:é, Persian: است (ast/e), Hindi:है (ɦɛ:), Italian:è, ukr:є (ye) + Filipino:ay (ay/e)  
+**e** *and* ← French:et, Portuguese:e, Spanish:y;e, Mandarin:和 (hé)  
 **eglisa** *church* ← English:ecclesia-, French:église, Spanish:iglesia, Portuguese:igreja, Hindi:गिरजा (girjā), Malay:gereja, Arabic:(kanisā), Swahili:kanisa, Turkish:kilise  
 **einstein yum** *einsteinium* ← English:einsteinium, French:einsteinium, Spanish:einsteinium, Portuguese:einstânio, Russian:эйнштейний, Mandarin:锿 (āi), Japanese:アインスタイニウム, Korean:아인시타이늄, Vietnamese:ensteni, Hindi:आइन्स्टाइनियम, Bengali:আইনস্টাইনিয়াম, Malay:einsteinium, Swahili:einsteni, Arabic: انيشتنيوم  
 **eko** *environment (nature)* ← English:Spanish:Portuguese:eco-, French:éco-, deu:öko-, Russian:эко-, Turkish:Malay:eko-  
@@ -483,7 +483,6 @@
 **glis** *slide (slip, glide, skate)* ← French:glisser, Italian:glissare + English:glacier,glissando, Spanish:Portuguese:glaciar,glisando, Russian:глиссандо (glissando), Arabic:غليساندو (ghlysandw), Japanese:グリッサンド (gurissando) + Malay:gelangsar  
 **glu** *glue (adhesive)* ← English:glue, Swahili:gluu, Malay:glu + French:glutineux  
 **gluten** *gluten* ← English:Spanish:French:gluten, Portuguese:glúten, Russian:глюте́н (gl’uten), Arabic:غْلُوتِين‎ (ḡlūtīn), Japanese:グルテン (guruten)  
-**go** *that over there* ← Cantonese:嗰 (go2), Korean:그 (geo) + Bengali:ও (o), Hindi:वह (vo), Turkish:o  
 **gol** *goal (destination)* ← Portuguese:Spanish:gol, English:goal, Japanese:ゴール (gōru), Korean:골 (gol), Hindi:गोल (gola), Telugu:గోలు (gōlu), Russian:гол (gol)  
 **gola** *circle (sphere, round object)* ← Hindi:गोल (gol), Bengali:গোলক (golôk), Telugu:గోళము (gōḷamu) + Arabic: كُرَة‎ (kura), Persian: کره‎ (kore), Turkish:küre  
 **golem** *golem* ← heb:גולם‎ (golem), English:Spanish:Portuguese:French:Malay:golem, deu:Golem, Russian:голем (golem), Arabic:غولم (ghwlm) Japanese:ゴーレム (gōremu), Korean:골렘 (gollem)  
@@ -587,7 +586,6 @@
 **humus** *chickpea* ← Arabic:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), English:Spanish:Malay:hummus, Portuguese:húmus, Russian:хумус (humus), Turkish:humus, Hindi:Marathi:हुम्मुस (hummus), Japanese:フムス (fumusu)  
 **huru** *free (unchained)* ← Arabic: حر (ḥurr), Turkish:hür, Swahili:huru, Spanish:horro, Portuguese:forro  
 **huxi** *nice (pleasant, comfortable, cushy)* ← Persian: خوش‎ (xoš), Hindi:ख़ुश (xuś), Bengali:খুশি (khuśi), Turkish:hoş, English:cushy  
-**i** *and* ← Spanish:y, Portuguese:e, Russian:и (i)  
 **ici** *will (volition, desire)* ← Vietnamese:ý chí, Mandarin:意志 (yìzhì), Korean:(uiji), Japanese:(ishi), + Hindi:इच्छा (icchā), Telugu:ఇచ్చ (icca)  
 **idea** *idea (concept, notion)* ← French:idée, deu:Idee, hat:Malay:ide, Persian:(ide), Portuguese:ideia, Russian:идея (ideya), Vietnamese:ý định  
 **idiote** *idiot* ← English:deu:French:Malay:idiot, Spanish:Portuguese:idiota, Russian:идиот (idiot)  
@@ -1331,6 +1329,7 @@
 **serve** *service* ← English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis + Hindi:सेवा (sevâ), Bengali:সেবা  (seba)  
 **sesam** *sesame* ← English:sesame, Russian:сезам (sezam), Spanish:sésamo, Arabic:(simsim), Swahili:simsim, Turkish:susam  
 **sexe** *sex (sexual relation)* ← English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)  
+**si** *be* ← Mandarin:是 (shì), Cantonese:是 (si4) + Spanish:Portuguese:ser  
 **sian** *cyan* ← English:cyan, Spanish:cian, Russian:циан (tsian), Arabic:سيان (sayan), Hindi:क्यान (kyāna), Japanese:シアン (shian), Malay:sian  
 **siborge yum** *seaborgium* ← English:seaborgium, French:seaborgium, Spanish:seaborgio, Portuguese:seabórgio, Russian:сиборгий, Mandarin: (xǐ), Japanese:シーボーギウム, Korean:새보쥼, Vietnamese:seaborgi, Hindi:सीबोर्गियम, Bengali:সিওবোর্গিয়াম, Malay:seaborgium, Swahili:seaborgi, Arabic: سيبورجيوم  
 **side** *sit down* ← Russian:сидеть (sidet'), English:sit, deu:sitzen, Italian:sedere  
@@ -1536,6 +1535,7 @@
 **vita** *screw* ← French:vis, Italian:vite, Russian:винт (vint), Turkish:vida  
 **vitamin** *vitamin* ← English:Malay:vitamin, French:vitamine, Spanish:Portuguese:vitamina, Russian:витамин (vitamin), Mandarin:维他命 (wéitāmìng), Japanese:ビタミン (bitamin), Korean:비타민 (bitamin), Vietnamese:vi ta min, Hindi:विटामिन (viṭāmin), Bengali:ভিটামিন (bhiṭamin), Arabic: فِيتَامِين‎ (fitamīn)  
 **viza** *visa* ← English:Spanish:French:Malay:visa, Russian:виза (viza), Turkish:vize, Swahili:viza, Arabic:فِيزَا‎ (fīzā), Persian:ویزا‎ (vizâ), Hindi:वीज़ा (vīzā), Bengali:ভিসা (bhiśa), Japanese:ビザ (biza), Korean:비자 (bija)  
+**vo** *that over there* ← Bengali:ও (o), Hindi:वह (vo), Turkish:o  
 **vode** *promise (vow, oath)* ← French:vœu, Spanish:Portuguese:voto, Arabic:وعد (waʿd), Hindi:वादा (vādā), Turkish:vaat, Persian:وعده (va'deh)  
 **vodun** *voodoo* ← ewe:vodun, hat:vodou, bra:vodum, English:voodoo, French:vaudou, Spanish:vudú  
 **voke** *call (voice; summon)* ← English:voke, French:-voquer, Spanish:Portuguese:-vocar + deu:Vokal  

@@ -908,7 +908,7 @@ iäkäs - sene di
 
 ## J  
 
-ja (sekä) - i  
+ja (sekä) - e  
 jade - giuka  
 Jahve (Jehova) - Yahve  
 jainalaisuus - jain din  
@@ -1732,7 +1732,7 @@ lippu - bandera
 lisko - saur  
 lista (luettelo) - liste  
 lisä- - max di  
-lisäksi (myös) - i max  
+lisäksi (myös) - e max  
 lisätä (enentää) - fa max  
 litium - lito yum  
 litra - litre  
@@ -2276,11 +2276,11 @@ okra - bamia
 oksa (haara) - xaka  
 oksidi - oxide  
 ole hyvä - cing na  
-olento (olio) - eja  
+olento (olio) - sija  
 oliivi - zaitun  
 olkapää (hartia) - kanta  
 olla (omistaa) - ha  
-olla - e  
+olla - si  
 olla eri mieltä - fa alo rai  
 olla hereillä - jaga  
 olla jtkn mieltä (pitää jnkn) - fa rai  
@@ -3092,7 +3092,6 @@ sisus (sisäpuoli) - in
 sisä- (sisäinen) - in di  
 sisällysluettelo - in liste  
 sisällyttää (sulkea sisäänsä) - fa in klus  
-sisällä (sisäpuolella) - a in  
 sisältää - in tene  
 sisältö - in xe  
 sisäsyntyinen - in gene di  
@@ -3555,11 +3554,11 @@ tuntea - tocu sense
 tunteellinen (tunne-) - gamo di  
 tunti - hor  
 tunturi - tundra san  
-tuo - go  
+tuo - vo  
 tuoda - fa lai  
 tuoda sisään - in mise  
 tuoli - kursi  
-tuolla - a go  
+tuolla - a vo  
 tuomari - jude ja  
 tuomio - jude  
 tuomita - fa jude  
@@ -3629,7 +3628,7 @@ täysi - pul
 täytetty pulla - mantu  
 täyttää - fa pul  
 täytyä (olla pakko) - mus  
-täällä - a ni  
+täällä - a yi  
 törkeä - insulte di  
 Tšad - cade  
 Tšekki - ceska  

@@ -82,7 +82,7 @@ aperfeiçoar - fa pul bon
 apodrecer-se - be pute  
 aprender - fa xula  
 apropriado (apto) - hapu  
-aqui - a ni  
+aqui - a yi  
 ar - air  
 arame - metal lin  
 aranha - arane  
@@ -145,7 +145,7 @@ azur - nil
 açougueiro (talhante) - buca ja  
 ação - ation  
 açúcar - sukar  
-aí (lá) - a go  
+aí (lá) - a vo  
 
 ## B  
 
@@ -504,7 +504,7 @@ dúbnio - dubna yum
 
 ## E  
 
-e - i  
+e - e  
 economia - mal nomi  
 educação - xula  
 efeito - asar  
@@ -572,7 +572,7 @@ esquecer - anmemo
 esqueleto - oste jama  
 esquerdo - leu  
 esquilo - ekore  
-esse (aquele) - go  
+esse (aquele) - vo  
 estaca - moka kane  
 estado - hal  
 estanho - estan  
@@ -1430,7 +1430,7 @@ seminal - seme di
 senador - supra vakil ja  
 sentido - sense  
 sepultura (túmulo, enterrar) - gabur  
-ser (estar) - e  
+ser (estar) - si  
 ser humano - insan  
 serra - sera  
 sete (7) - ceti  

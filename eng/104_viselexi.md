@@ -69,7 +69,7 @@ The expression **semen** is used as the reciprocal pronoun.
 **semen**
 – each other, one another
 
-**mi i tu vide semen.**
+**mi e tu vide semen.**
 – Me and you see each other.  
 **mimen vide semen.**
 – We see each other.
@@ -80,33 +80,33 @@ The expression **semen** is used as the reciprocal pronoun.
 Demonstrative pronouns are used with nouns to make them more specific.
 The demonstrative pronouns in Pandunia are:
 
-**ni**
+**yi**
 – this (near the speaker)  
-**go**
+**vo**
 – that (far from speaker)  
 **la**
 – the (known by both the speaker and the listener)
 
 The proximal demonstrative
-**ni**
+**yi**
 points to things that are near the speaker.
 The distal demonstrative
-**go**
+**vo**
 points to things that are far from the speaker.
 
-**tu vol go buke, he?**
+**tu vol vo buke, he?**
 – Do you want that book?  
-**no, mi vol ni buke, no go.**
+**no, mi vol yi buke, no vo.**
 – No, I want this book, not that.
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**ni e bon.**
+**yi si bon.**
 – This is good.  
-**go e dus.**
+**vo si dus.**
 – That is bad.  
-**tu vol ni, he?**
+**tu vol yi, he?**
 – Do you want this?  
-**no, mi vol go.**
+**no, mi vol vo.**
 – No, I want that.
 
 When the verb is a content word,
@@ -116,7 +116,7 @@ between the subject and the verb.
 
 **mi vide du jen.**
 – I see two persons.  
-**ni ya cante i go no cante.**
+**yi ya gani e vo no gani.**
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
@@ -125,10 +125,10 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**ni e mau. ya vol yam go muxu.**
+**yi si mau. ya vol yam vo muxu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ten un mau i un vaf. la vaf e dai. ya yam poli yam.**
+**mi ten un mau e un vaf. la vaf si dai. ya yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -137,20 +137,20 @@ and it is known by the audience or is topical within the discourse.
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
 **la** refers to things previously spoken,
-**ni** refers to things currently being spoken,
-and **go** refers to things about to be spoken.
+**yi** refers to things currently being spoken,
+and **vo** refers to things about to be spoken.
 
-**ni jumle e korte.**
+**yi jumla si korte.**
 – This sentence is short.
 
-In the above, **ni jumle** (_this sentence_) refers to the sentence being spoken.
+In the above, **yi jumla** (_this sentence_) refers to the sentence being spoken.
 
-**mi mana go: mi ama tu.**
+**mi mana vo: mi ama tu.**
 – I mean this: I love you. OR I mean that I love you.  
 **mi ama tu. mi mana la.**
 – I love you. That is what I mean.
 
-In the above, the pronoun **go** refers to the content of the next statement
+In the above, the pronoun **vo** refers to the content of the next statement
 and **la** refers to the content of the previous statement.
 
 

@@ -3,7 +3,6 @@
 ## A  
 
 a - przy, z, na, w, u  
-a go - tu (tutaj, tam)  
 a jong - być wycentrowanym, być w środku  
 a ke - gdzie  
 a kon - razem (wspólnie)  
@@ -18,6 +17,7 @@ a pos - później (w przyszłości)
 a ri - znowu (ponownie)  
 a sabu de - ponieważ, bo  
 a supra - nad  
+a vo - tu (tutaj, tam)  
 abies - jodła  
 acar - marynować  
 acar di - kiszony (marynowany)  
@@ -738,7 +738,7 @@ dux - prysznic
 
 ## E  
 
-e - być  
+e - i, oraz  
 eglisa - kościół  
 einstein yum - einstein  
 Eire - Irlandia  
@@ -1287,7 +1287,6 @@ glu - klej
 glu di - lepki (kleisty)  
 glu poto - glina  
 gluten - gluten  
-go - tamten  
 gol - cel  
 gola - koło, okrąg  
 gola di - okrągły  
@@ -1501,7 +1500,6 @@ huxi - miły, przyjemny, uroczy
 
 ## I  
 
-i - i, oraz  
 ibri - hebrajski  
 ici - wola, chęć  
 • anicija - niechętny  
@@ -2469,7 +2467,6 @@ neu Yorke siti - Stan Nowy Jork
 neu Zelande - Nowa Zelandia  
 Nevis - Nevis  
 ni - kobieta; kobiecy  
-yi - ten  
 nice - spód  
 nice di - poniższy  
 nide - gniazdo (ul, nora, jama, barłóg, legowisko)  
@@ -3101,6 +3098,7 @@ sexe - seks, stosunek płciowy
 sexe di - seksowny, ponętny  
 sexelogi - seksuologia  
 Sexel nesi - Seszele  
+si - być  
 sian - niebieskozielony (cyjan)  
 Sibiria - Syberia  
 siborge yum - seaborg  
@@ -3505,6 +3503,7 @@ vita - śruba, wkręt
 vitamin - witamina  
 Vixnu - Wisznu  
 viza - wiza  
+vo - tamten  
 vodun - voodoo  
 vol - chcieć, pragnąć  
 vol xe - wola (chęć, pragnienie)  
@@ -3630,6 +3629,7 @@ yepa late - strona
 Yesa - Jezus  
 Yesa Mesi - Jezus Chrystus  
 yezi - kokos  
+yi - ten  
 yo - jakiś  
 yo jen - ktoś  
 yo sata - sometime  

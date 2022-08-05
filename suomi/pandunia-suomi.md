@@ -39,15 +39,12 @@ Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kann
 ## A  
 
 a - luona (-lla, -ssa)  
-a go - tuolla  
-a in - sisällä (sisäpuolella)  
 a jong - keskittyä (olla keskellä)  
 a ke - missä?  
 a kon - yhdessä  
 a medi - välissä  
 a min de - paitsi (miinus)  
 a neu - äsken (vasta, juuri)  
-a ni - täällä  
 a nice - alla  
 a poli mar - usein  
 a pos - myöhemmin (tuleva)  
@@ -56,7 +53,9 @@ a sabu de - koska (johdosta, takia)
 a supra - yllä (pääll)  
 a vai - ulkona (ulkopuolella)  
 a vakil de - puolesta  
+a vo - tuolla  
 a xukur de - ansiosta  
+a yi - täällä  
 abies - pihta (jalokuusi)  
 acar - säilyke (pikkelssi)  
 acar di - säilötty  
@@ -923,8 +922,8 @@ dux - suihku
 
 ## E  
 
-e - olla  
-eja - olento (olio)  
+e - ja (sekä)  
+e max - lisäksi (myös)  
 eglisa - kirkko  
 einstein yum - einsteinium  
 Eire - Irlanti  
@@ -1578,7 +1577,6 @@ glu di - tahmainen (liimamainen)
 glu grafi - tarra  
 glu poto - savi  
 gluten - gluteeni  
-go - tuo  
 gol - maali (pelissä)  
 gola - piiri (ympyrä)  
 gola di - pyöreä  
@@ -1821,8 +1819,6 @@ huxi - mukava (kiva, miellyttävä)
 
 ## I  
 
-i - ja (sekä)  
-i max - lisäksi (myös)  
 ibri - heprea  
 ici - tahto  
 • anicija - vastahakoinen (haluton)  
@@ -2789,7 +2785,6 @@ neuta - uutuus
 neu Zelande - Uusi-Seelanti  
 Nevis - Nevis  
 ni - naaras  
-yi - tämä  
 nia - aie (aikomus, tarkoitus)  
 nice - alapuoli  
 nice di - ala-  
@@ -3422,6 +3417,8 @@ sexe - seksi (sukupuolisuhde)
 sexe di - seksikäs  
 sexelogi - seksologia  
 Sexel nesi - Seychellit  
+si - olla  
+sija - olento (olio)  
 sian - syaani  
 Sibiria - Siperia  
 siborge yum - seaborgium  
@@ -3898,6 +3895,7 @@ vita - ruuvi
 vitamin - vitamiini  
 Vixnu - Višnu  
 viza - viisumi  
+vo - tuo  
 vode - lupaus (vala)  
 vodun - voodoo  
 voke - kutsua (kuuluttaa; manata)  
@@ -4036,6 +4034,7 @@ yepa late - sivu (kirjassa)
 Yesa - Jeesus  
 Yesa Mesi - Jeesus Kristus  
 yezi - kookos  
+yi - tämä  
 yo - jokin (joku)  
 yo jen - joku  
 yo sata - joskus  

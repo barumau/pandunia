@@ -318,7 +318,7 @@
 **dus** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
 **dute** *epäilys* ← ranska:doute, englanti:doubt, espanja:filippiini:duda  
 **dux** *suihku* ← ranska:douche, espanja:portugali:ducha, deu:Dusche, venäjä:душ (duš), arabia: دوش (dūš), malaiji:dus, turkki:duş  
-**e** *olla* ← ranska:est (ɛ), portugali:é, persia: است (ast/e), hindi:है (ɦɛ:), italia:è, ukr:є (ye) + filippiini:ay (ay/e)  
+**e** *ja (sekä)* ← ranska:et, portugali:e, espanja:y;e, yleiskiina:和 (hé)  
 **eglisa** *kirkko* ← englanti:ecclesia-, ranska:église, espanja:iglesia, portugali:igreja, hindi:गिरजा (girjā), malaiji:gereja, arabia:(kanisā), suahili:kanisa, turkki:kilise  
 **einstein yum** *einsteinium* ← englanti:einsteinium, ranska:einsteinium, espanja:einsteinium, portugali:einstânio, venäjä:эйнштейний, yleiskiina:锿 (āi), japani:アインスタイニウム, korea:아인시타이늄, vietnami:ensteni, hindi:आइन्स्टाइनियम, bangla:আইনস্টাইনিয়াম, malaiji:einsteinium, suahili:einsteni, arabia: انيشتنيوم  
 **eko** *luonto* ← englanti:espanja:portugali:eco-, ranska:éco-, deu:öko-, venäjä:эко-, turkki:malaiji:eko-  
@@ -483,7 +483,6 @@
 **glis** *liukua (luistaa)* ← ranska:glisser, italia:glissare + englanti:glacier,glissando, espanja:portugali:glaciar,glisando, venäjä:глиссандо (glissando), arabia:غليساندو (ghlysandw), japani:グリッサンド (gurissando) + malaiji:gelangsar  
 **glu** *liima* ← englanti:glue, suahili:gluu, malaiji:glu + ranska:glutineux  
 **gluten** *gluteeni* ← englanti:espanja:ranska:gluten, portugali:glúten, venäjä:глюте́н (gl’uten), arabia:غْلُوتِين‎ (ḡlūtīn), japani:グルテン (guruten)  
-**go** *tuo* ← kantoninkiina:嗰 (go2), korea:그 (geo) + bangla:ও (o), hindi:वह (vo), turkki:o  
 **gol** *maali (pelissä)* ← portugali:espanja:gol, englanti:goal, japani:ゴール (gōru), korea:골 (gol), hindi:गोल (gola), telugu:గోలు (gōlu), venäjä:гол (gol)  
 **gola** *piiri (ympyrä)* ← hindi:गोल (gol), bangla:গোলক (golôk), telugu:గోళము (gōḷamu) + arabia: كُرَة‎ (kura), persia: کره‎ (kore), turkki:küre  
 **golem** *golem* ← heb:גולם‎ (golem), englanti:espanja:portugali:ranska:malaiji:golem, deu:Golem, venäjä:голем (golem), arabia:غولم (ghwlm) japani:ゴーレム (gōremu), korea:골렘 (gollem)  
@@ -587,7 +586,6 @@
 **humus** *kikherne* ← arabia:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), englanti:espanja:malaiji:hummus, portugali:húmus, venäjä:хумус (humus), turkki:humus, hindi:marathi:हुम्मुस (hummus), japani:フムス (fumusu)  
 **huru** *vapaa* ← arabia: حر (ḥurr), turkki:hür, suahili:huru, espanja:horro, portugali:forro  
 **huxi** *mukava (kiva, miellyttävä)* ← persia: خوش‎ (xoš), hindi:ख़ुश (xuś), bangla:খুশি (khuśi), turkki:hoş, englanti:cushy  
-**i** *ja (sekä)* ← espanja:y, portugali:e, venäjä:и (i)  
 **ici** *tahto* ← vietnami:ý chí, yleiskiina:意志 (yìzhì), korea:(uiji), japani:(ishi), + hindi:इच्छा (icchā), telugu:ఇచ్చ (icca)  
 **idea** *käsite (idea)* ← ranska:idée, deu:Idee, hat:malaiji:ide, persia:(ide), portugali:ideia, venäjä:идея (ideya), vietnami:ý định  
 **idiote** *typerys (idiootti)* ← englanti:deu:ranska:malaiji:idiot, espanja:portugali:idiota, venäjä:идиот (idiot)  
@@ -1331,6 +1329,7 @@
 **serve** *palvelu (palvelus)* ← englanti:ranska:service, portugali:serviço, venäjä:сервис (servis), turkki:servis + hindi:सेवा (sevâ), bangla:সেবা  (seba)  
 **sesam** *seesami* ← englanti:sesame, venäjä:сезам (sezam), espanja:sésamo, arabia:(simsim), suahili:simsim, turkki:susam  
 **sexe** *seksi (sukupuolisuhde)* ← englanti:sex, ranska:sexe, espanja:portugali:sexo, venäjä:секс (seks), turkki:seks, hindi:सेक्स (seks), japani:セックス (sekkusu), korea:섹스 (sekseu)  
+**si** *olla* ← yleiskiina:是 (shì), kantoninkiina:是 (si4) + espanja:portugali:ser  
 **sian** *syaani* ← englanti:cyan, espanja:cian, venäjä:циан (tsian), arabia:سيان (sayan), hindi:क्यान (kyāna), japani:シアン (shian), malaiji:sian  
 **siborge yum** *seaborgium* ← englanti:seaborgium, ranska:seaborgium, espanja:seaborgio, portugali:seabórgio, venäjä:сиборгий, yleiskiina: (xǐ), japani:シーボーギウム, korea:새보쥼, vietnami:seaborgi, hindi:सीबोर्गियम, bangla:সিওবোর্গিয়াম, malaiji:seaborgium, suahili:seaborgi, arabia: سيبورجيوم  
 **side** ** ← venäjä:сидеть (sidet'), englanti:sit, deu:sitzen, italia:sedere  
@@ -1536,6 +1535,7 @@
 **vita** *ruuvi* ← ranska:vis, italia:vite, venäjä:винт (vint), turkki:vida  
 **vitamin** *vitamiini* ← englanti:malaiji:vitamin, ranska:vitamine, espanja:portugali:vitamina, venäjä:витамин (vitamin), yleiskiina:维他命 (wéitāmìng), japani:ビタミン (bitamin), korea:비타민 (bitamin), vietnami:vi ta min, hindi:विटामिन (viṭāmin), bangla:ভিটামিন (bhiṭamin), arabia: فِيتَامِين‎ (fitamīn)  
 **viza** *viisumi* ← englanti:espanja:ranska:malaiji:visa, venäjä:виза (viza), turkki:vize, suahili:viza, arabia:فِيزَا‎ (fīzā), persia:ویزا‎ (vizâ), hindi:वीज़ा (vīzā), bangla:ভিসা (bhiśa), japani:ビザ (biza), korea:비자 (bija)  
+**vo** *tuo* ← bangla:ও (o), hindi:वह (vo), turkki:o  
 **vode** *lupaus (vala)* ← ranska:vœu, espanja:portugali:voto, arabia:وعد (waʿd), hindi:वादा (vādā), turkki:vaat, persia:وعده (va'deh)  
 **vodun** *voodoo* ← ewe:vodun, hat:vodou, bra:vodum, englanti:voodoo, ranska:vaudou, espanja:vudú  
 **voke** *kutsua (kuuluttaa; manata)* ← englanti:voke, ranska:-voquer, espanja:portugali:-vocar + deu:Vokal  

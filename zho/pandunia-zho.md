@@ -3,11 +3,11 @@
 ## A  
 
 a - 在  
-a go - 那里 (那儿)  
 a kon - 共同 (一起)  
 a lin - 在线  
-a ni - 这里 (这儿)  
 a poli mar - 经常  
+a vo - 那里 (那儿)  
+a yi - 这里 (这儿)  
 abies - 冷杉  
 acar - 腌菜  
 aci - 打喷嚏 (阿嚏)  
@@ -361,7 +361,7 @@ dux - 淋浴
 
 ## E  
 
-e - 对  
+e - 和  
 einstein yum - 锿  
 ekore - 松鼠  
 eletro lin - 电缆 (电线)  
@@ -541,7 +541,6 @@ glu bande - 创可贴 (邦迪)
 glu di - 黏的  
 glu grafi - 贴纸  
 glu poto - 黏土  
-go - 那  
 gol - 目的  
 gola seku - 鹅卵石  
 gong - 工作  
@@ -650,7 +649,6 @@ huruta - 自由
 
 ## I  
 
-i - 和  
 iha uma - 骡  
 in bum - 内爆  
 in migra - 移民 (移居)  
@@ -1071,7 +1069,6 @@ neu di - 新
 neu jen - 新手  
 neu loga - 新词  
 ni - 女  
-yi - 这 (此)  
 nia - 意图  
 nice kitabu - 字幕  
 nide - 巢 (穴)  
@@ -1338,6 +1335,7 @@ seri - 系列
 seria - 系列  
 serime - 连结  
 sexelogi - 性学  
+si - 对  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
 sigar - 香烟  
@@ -1506,6 +1504,7 @@ vise ma - 继母
 vise pa - 继父  
 vitamin - 维生素 (维他命)  
 Vixnu - 毗湿奴  
+vo - 那  
 vode - 诺言  
 vol - 想要 (愿意)  
 volfram - 钨  
@@ -1578,6 +1577,7 @@ yen sui gas - 催泪瓦斯
 yepa - 叶  
 Yesa - 耶稣  
 Yesa Mesi - 耶稣基督  
+yi - 这 (此)  
 yoga - 瑜伽功  
 yogo - 轭  
 yogur - 酸奶 (优格)  

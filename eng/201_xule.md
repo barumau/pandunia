@@ -14,22 +14,22 @@
 **salam!**
 = Hello!  
 <big>☺</big>
-**tu e ke?**
+**tu si ke?**
 = Who are you?  
 <big>☻</big>
-**mi e Yusef. tu e ke?**
+**mi si Yusef. tu si ke?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi e Sara. ya e ke?**
+**mi si Sara. ya si ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**ya e mi su doste.**
+**ya si mi su doste.**
 = That is my friend.  
 <big>☺</big>
-**ya su nam e ke?**
+**ya su nam si ke?**
 = What's her name?  
 <big>☻</big>
-**ya su nam e Maria.**
+**ya su nam si Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -37,36 +37,36 @@
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**ya e mi su doste**
+**ya si mi su doste**
 the topic is the pronoun **ya** (he, she, it), which is followed by the comment
-**e mi su doste**
+**si mi su doste**
 (is my friend).
 
-In Pandunia, the word **e** functions like _to be_ in English.
+In Pandunia, the word **si** functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put **no** before it.
 
-**ya e Sara.**
+**ya si Sara.**
 = She is Sarah.  
-**ya no e Sara.**
+**ya no si Sara.**
 = She is not Sarah.
 
-**mau e zoe.**
+**mau si zoe.**
 = The cat is an animal.  
-**dom no e zoe.**
+**dom no si zoe.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
-**mi e**
+**mi si**
 and a word that describes you.
 
-**mi e bon.**
+**mi si bon.**
 = I'm good.  
-**mi e man.**
+**mi si man.**
 = I'm a man.  
-**mi e fem.**
+**mi si fem.**
 = I'm a woman.  
-**mi e nobi.**
+**mi si nobi.**
 = I'm non-binary.
 
 
@@ -99,7 +99,7 @@ he, she or it
 his, her, its  
 **ke**
 who or what  
-**e**
+**si**
 to be  
 **no**
 no; not  
@@ -120,12 +120,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu e ke?
-2. mi e tomas.
-3. tu su doste e ke?
-4. ya e Sara.
-5. tu su nam e ke?
-6. mi su nam e ........... 
+1. tu si ke?
+2. mi si tomas.
+3. tu su doste si ke?
+4. ya si Sara.
+5. tu su nam si ke?
+6. mi su nam si ........... 
 
 
 --------------------------------------------------------------------------------
@@ -263,7 +263,7 @@ chief, boss
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/laupapa.png "cin pa i bacha")  
+![](http://www.pandunia.info/grafe/laupapa.png "cin pa e bacha")  
 <small>Image designed by [macrovector](https://www.freepik.com/macrovector)</small>
 
 <big>☻</big>
@@ -273,17 +273,17 @@ chief, boss
 **halo! cing side.**
 = Hello! Please sit!  
 <big>☻</big>
-**xukre.**
+**xukur.**
 = Thank you.  
 <big>☺</big>
 **cing yam kafe o cai.**
 = Please have some coffee or tea.  
 <big>☻</big>
-**a mi yam un di cai! xukre.**
+**a mi yam un di cai! xukur.**
 = But I drink only tea! Thank you.  
 ...  
 <big>☻</big>
-**cin pa, mi mus ga na zai.**
+**cin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
 **bon. cing salam tu su mama!**
@@ -402,7 +402,7 @@ grandfather
 to ask; please  
 **don**
 to give  
-**i**
+**e**
 and  
 **ga**
 to go  
@@ -418,7 +418,7 @@ must, have to
 or  
 **safe**
 to clean  
-**xukre**
+**xukur**
 thanks  
 **side**
 to sit  
@@ -436,7 +436,7 @@ some, a(n)
 2. la xefe cing ya side.
 3. cing yam kafe o cai.
 4. mama cing mi safe kamar.
-5. xefe side i yam kafe.
+5. xefe side e yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -446,7 +446,7 @@ some, a(n)
 
 ### Dialog
 
-![](http://www.pandunia.info/grafe/kafekan.png "na kafe kan")  
+![](http://www.pandunia.info/grafe/kafekan.png "a kafe kan")  
 <small>Image designed by [pikisuperstar](https://www.freepik.com/pikisuperstar)</small>
 
 <big>☺</big>
@@ -480,7 +480,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**xukre. mi don un cai i un kafe i un supe pos des minute.**
+**xukur. mi don un cai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -680,7 +680,7 @@ but
 1. ya no safe kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. ya no ten vaf i mau. / ya ten no vaf i no mau.
+4. ya no ten vaf e mau. / ya ten no vaf e no mau.
 5. xefe yam cai ama no kafe.
 6. mama ten no vaf ama du mau.
 
@@ -694,15 +694,15 @@ _when_, the interrogative pronoun **ke** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**ya e ke?**
+**ya si ke?**
 = What is that? / Who is (s)he?  
-**ya e ke jen?**
+**ya si ke jen?**
 = Who is he/she?  
-**ya e ke xe?**
+**ya si ke xe?**
 = What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  
-**tu yam na ke zaman?**
+**tu yam a ke zaman?**
 = When do you eat? (**zaman** = time)  
 **men danse a ke yang?**
 = How to dance? (**yang** = manner, style)
@@ -719,13 +719,13 @@ before the cause or reason.
 
 **ke sababe tu suka mau?**
 = Why do you like cats?  
-**de sababe yamen e kavai.**
+**de sababe yamen si kavai.**
 = Because they are cute.
 
 Of course **sababe** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sababe yamen e kavai**
+**mi suka mau de sababe yamen si kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -764,7 +764,7 @@ period of time
 3. ke zaman ya lai?
 4. pos des minute.
 5. ke sababe ya no yam?
-6. de sababe ya no suka kafe i supe.
+6. de sababe ya no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -786,7 +786,7 @@ can mean both "I eat bread" and "I ate bread",
 but usually only one or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-**mi yam pang na ni suba yam.**
+**mi yam pang a yi suba yam.**
 = I ate bread for this breakfast.
 
 There are also specific time words.
@@ -798,11 +798,11 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara e mi su pas xefe.**
+**Sara si mi su pas xefe.**
 = Sarah is my former boss.  
-**Yusef e mi su zai xefe.**
+**Yusef si mi su zai xefe.**
 = Yusef is my current boss.  
-**Maria e mi su xa xefe.**
+**Maria si mi su xa xefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
@@ -817,11 +817,11 @@ Simply put the word before the verb.
 
 It's also possible to use preposition phrases of time.
 
-**mi darba ya na pas.**
+**mi darba ya a pas.**
 = I hit it in the past.  
-**mi darba ya na zai.**
+**mi darba ya a zai.**
 = I hit it at present.  
-**mi darba ya na xa.**
+**mi darba ya a xa.**
 = I hit it in the future.
 
 
@@ -833,7 +833,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi pas ten un mau.**
 = I had a cat in the past.  
-**ya e bon mau.**
+**ya si bon mau.**
 = It was a good cat.  
 **mi ten un vaf a zai.**
 = I have a dog now.
@@ -883,10 +883,10 @@ milk
 
 ### Answers to the Exercises
 
-1. mi su xefe festa na xa.
-2. mi ten du vaf na pas.
-3. tu yam supe na zai.
+1. mi su xefe festa a xa.
+2. mi ten du vaf a pas.
+3. tu yam supe a zai.
 4. ya safe kamar a pre den.
-5. mau yam milke na pos den.
+5. mau yam milke a pos den.
 6. tu su mama festa a prenoce.
 

@@ -3,11 +3,11 @@
 ## A  
 
 a - в (на)  
-a go - там  
 a lin - онлайн  
-a ni - здесь (тут)  
 a poli mar - часто  
 a pos - после  
+a vo - там  
+a yi - здесь (тут)  
 abies - пихта  
 acar di - марино́ванный  
 aci - чихать  
@@ -406,7 +406,6 @@ dux - душ
 
 ## E  
 
-e - быть  
 einstein yum - эйнштейний  
 eko gene di - дикий  
 ekore - белка  
@@ -623,7 +622,6 @@ glu bande - пластырь
 glu di - клейкий (липкий)  
 glu grafi - наклейка  
 glu poto - глина  
-go - тот  
 gol - цель  
 gola seku - булыжник  
 gomu - резина (каучук, резинка, ластик)  
@@ -1196,7 +1194,6 @@ neu gene di - новорождённый
 neu jen - новичок  
 neu loga - неологизм  
 neuta - новизна  
-yi - этот  
 nia - намерение  
 nice kitabu - субтитр  
 nide - гнездо (улей)  
@@ -1504,6 +1501,7 @@ serve gi - сервер
 serve ja - слуга  
 sesam - сезам  
 sexelogi - сексология  
+si - быть  
 sian - циан  
 siborge yum - сиборгий  
 side loka - сиденье (седло)  
@@ -1715,6 +1713,7 @@ vise raja - вице-король
 vitamin - витамин  
 Vixnu - Вишну  
 viza - виза  
+vo - тот  
 vode - клятва (присяга, обет)  
 vokesoni - гласный  
 vol - хотеть  
@@ -1790,6 +1789,7 @@ yen sui gas - слезоточи́вый газ
 yepa - лист  
 Yesa - Иисус  
 Yesa Mesi - Иисус Христос  
+yi - этот  
 yoga - йога  
 yogo - ярмо (иго)  
 yogur - йогурт  

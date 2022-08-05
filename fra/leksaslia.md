@@ -318,7 +318,7 @@
 **dus** ** ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
 **dute** ** ← fra:doute, eng:doubt, spa:tgl:duda  
 **dux** *douche* ← fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş  
-**e** *être* ← fra:est (ɛ), por:é, fas: است (ast/e), hin:है (ɦɛ:), ita:è, ukr:є (ye) + tgl:ay (ay/e)  
+**e** *et* ← fra:et, por:e, spa:y;e, zho:和 (hé)  
 **eglisa** ** ← eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise  
 **einstein yum** *einsteinium* ← eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم  
 **eko** ** ← eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-  
@@ -483,7 +483,6 @@
 **glis** *glisser* ← fra:glisser, ita:glissare + eng:glacier,glissando, spa:por:glaciar,glisando, rus:глиссандо (glissando), ara:غليساندو (ghlysandw), jpn:グリッサンド (gurissando) + may:gelangsar  
 **glu** ** ← eng:glue, swa:gluu, may:glu + fra:glutineux  
 **gluten** ** ← eng:spa:fra:gluten, por:glúten, rus:глюте́н (gl’uten), ara:غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)  
-**go** *ce...lá* ← yue:嗰 (go2), kor:그 (geo) + ben:ও (o), hin:वह (vo), tur:o  
 **gol** *but (destination)* ← por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)  
 **gola** ** ← hin:गोल (gol), ben:গোলক (golôk), tel:గోళము (gōḷamu) + ara: كُرَة‎ (kura), fas: کره‎ (kore), tur:küre  
 **golem** ** ← heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)  
@@ -587,7 +586,6 @@
 **humus** ** ← ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)  
 **huru** *libre* ← ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro  
 **huxi** ** ← fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy  
-**i** *et* ← spa:y, por:e, rus:и (i)  
 **ici** ** ← vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)  
 **idea** ** ← fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định  
 **idiote** ** ← eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)  
@@ -1331,6 +1329,7 @@
 **serve** ** ← eng:fra:service, por:serviço, rus:сервис (servis), tur:servis + hin:सेवा (sevâ), ben:সেবা  (seba)  
 **sesam** ** ← eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam  
 **sexe** ** ← eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)  
+**si** *être* ← zho:是 (shì), yue:是 (si4) + spa:por:ser  
 **sian** ** ← eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian  
 **siborge yum** *seaborgium* ← eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم  
 **side** ** ← rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere  
@@ -1536,6 +1535,7 @@
 **vita** ** ← fra:vis, ita:vite, rus:винт (vint), tur:vida  
 **vitamin** *vitamine* ← eng:may:vitamin, fra:vitamine, spa:por:vitamina, rus:витамин (vitamin), zho:维他命 (wéitāmìng), jpn:ビタミン (bitamin), kor:비타민 (bitamin), vie:vi ta min, hin:विटामिन (viṭāmin), ben:ভিটামিন (bhiṭamin), ara: فِيتَامِين‎ (fitamīn)  
 **viza** ** ← eng:spa:fra:may:visa, rus:виза (viza), tur:vize, swa:viza, ara:فِيزَا‎ (fīzā), fas:ویزا‎ (vizâ), hin:वीज़ा (vīzā), ben:ভিসা (bhiśa), jpn:ビザ (biza), kor:비자 (bija)  
+**vo** *ce...lá* ← ben:ও (o), hin:वह (vo), tur:o  
 **vode** *vœu (promesse)* ← fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)  
 **vodun** ** ← ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú  
 **voke** ** ← eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal  

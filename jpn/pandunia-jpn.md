@@ -2,11 +2,11 @@
 
 ## A  
 
-a go - そこ (あそこ)  
 a kon - 一緒に  
 a lin - オンライン  
-a ni - ここ  
 a poli mar - よく (屡々)  
+a vo - そこ (あそこ)  
+a yi - ここ  
 abies - モミ  
 acar - 漬物  
 acini yum - アクチニウム  
@@ -556,7 +556,6 @@ glu bande - 絆創膏
 glu di - 粘い  
 glu grafi - ステッカー  
 glu poto - 粘土  
-go - その  
 gol - 目的 (行き先, ゴール)  
 gola longta - 周囲長  
 gola seku - 丸石 (玉石, 栗石)  
@@ -1116,7 +1115,6 @@ neu jen - 初心者
 neu loga - 新語 (新造語)  
 neu yang di - 近代的  
 ni - 女  
-yi - この  
 nia - 意図  
 nice - 下  
 nice kitabu - 字幕  
@@ -1560,6 +1558,7 @@ vise ma - 継母
 vise pa - 継父  
 vitamin - ビタミン  
 Vixnu - ヴィシュヌ  
+vo - その  
 vode - 約束  
 vol - 欲しい  
 volfram - タングステン  
@@ -1628,6 +1627,7 @@ yepa - 葉
 yepa alga - コンブ  
 yepa late - ページ (面)  
 Yesa Mesi - イエス・キリスト  
+yi - この  
 yo - 何分の  
 yogo - 軛  
 yogur - ヨーグルト  

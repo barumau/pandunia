@@ -3,13 +3,11 @@
 ## A  
 
 a - ĉe (en, sur)  
-a go - tie  
 a ke - kie  
 a kon - kune  
 a medi - inter  
 a min de - escepte  
 a neu - ĵus  
-a ni - ĉi tie  
 a poli mar - ofte  
 a pos - estonte  
 a ri - denove (ripete)  
@@ -17,7 +15,9 @@ a sabu de - ĉar
 a supra - super  
 a vai - ekster  
 a vakil de - anstataŭ  
+a vo - tie  
 a xukur de - dank’al  
+a yi - ĉi tie  
 abies - abio  
 aci - terni  
 acini yum - aktinio  
@@ -487,7 +487,8 @@ dux - duŝo
 
 ## E  
 
-e - esti  
+e - kaj  
+e max - ankaŭ  
 eglisa - preĝejo  
 einstein yum - ejnŝtejnio  
 eko - naturo  
@@ -784,7 +785,6 @@ giuka - jado
 glu - gluo  
 glu grafi - glumarko  
 gluten - gluteno  
-go - tio  
 gol - golo  
 gomu - kaŭĉuko  
 gona - angulo  
@@ -927,8 +927,6 @@ huxi - agrabla
 
 ## I  
 
-i - kaj  
-i max - ankaŭ  
 ibri - Hebrea  
 ici - volo  
 idea - ideo  
@@ -1429,7 +1427,6 @@ neu jen - novulo
 neu loga - neologismo  
 neuta - noveco  
 ni - ino  
-yi - ĉi tiu  
 nia - celo  
 Nijer - Niĝero  
 Nikaragua - Nikaragvo  
@@ -1752,6 +1749,7 @@ serime - ĉenero
 seriseri - ĉeno  
 serpe - serpento  
 sexe - sekso  
+si - esti  
 siborge yum - seborgio  
 sifa loga - adjektivo  
 sigar - cigaredo  
@@ -1958,6 +1956,7 @@ vise loga - pronomo
 vise ma - vicpatrino  
 vise pa - vicpatro  
 Vixnu - Viŝnuo  
+vo - tio  
 vokesoni - vokalo  
 vol - voli  
 vol xe - volo  
@@ -2038,6 +2037,7 @@ yepa late - paĝo
 Yesa - Jesuo  
 Yesa Mesi - Jesuo Kristo  
 yezi - kokoso  
+yi - ĉi tiu  
 yo - iu  
 yo jen - iu persono  
 yo sata - iam  

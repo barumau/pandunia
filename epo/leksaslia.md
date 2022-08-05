@@ -318,7 +318,7 @@
 **dus** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
 **dute** *dubo* ← franca:doute, angla:doubt, hispana:filipina:duda  
 **dux** *duŝo* ← franca:douche, hispana:portugala:ducha, deu:Dusche, rusa:душ (duš), araba: دوش (dūš), malaja:dus, turka:duş  
-**e** *esti* ← franca:est (ɛ), portugala:é, persa: است (ast/e), hindia:है (ɦɛ:), itala:è, ukr:є (ye) + filipina:ay (ay/e)  
+**e** *kaj* ← franca:et, portugala:e, hispana:y;e, mandarena:和 (hé)  
 **eglisa** *preĝejo* ← angla:ecclesia-, franca:église, hispana:iglesia, portugala:igreja, hindia:गिरजा (girjā), malaja:gereja, araba:(kanisā), svahila:kanisa, turka:kilise  
 **einstein yum** *ejnŝtejnio* ← angla:einsteinium, franca:einsteinium, hispana:einsteinium, portugala:einstânio, rusa:эйнштейний, mandarena:锿 (āi), japana:アインスタイニウム, korea:아인시타이늄, vjetnama:ensteni, hindia:आइन्स्टाइनियम, bengala:আইনস্টাইনিয়াম, malaja:einsteinium, svahila:einsteni, araba: انيشتنيوم  
 **eko** *naturo* ← angla:hispana:portugala:eco-, franca:éco-, deu:öko-, rusa:эко-, turka:malaja:eko-  
@@ -483,7 +483,6 @@
 **glis** ** ← franca:glisser, itala:glissare + angla:glacier,glissando, hispana:portugala:glaciar,glisando, rusa:глиссандо (glissando), araba:غليساندو (ghlysandw), japana:グリッサンド (gurissando) + malaja:gelangsar  
 **glu** *gluo* ← angla:glue, svahila:gluu, malaja:glu + franca:glutineux  
 **gluten** *gluteno* ← angla:hispana:franca:gluten, portugala:glúten, rusa:глюте́н (gl’uten), araba:غْلُوتِين‎ (ḡlūtīn), japana:グルテン (guruten)  
-**go** *tio* ← kantona:嗰 (go2), korea:그 (geo) + bengala:ও (o), hindia:वह (vo), turka:o  
 **gol** *golo* ← portugala:hispana:gol, angla:goal, japana:ゴール (gōru), korea:골 (gol), hindia:गोल (gola), teluga:గోలు (gōlu), rusa:гол (gol)  
 **gola** ** ← hindia:गोल (gol), bengala:গোলক (golôk), teluga:గోళము (gōḷamu) + araba: كُرَة‎ (kura), persa: کره‎ (kore), turka:küre  
 **golem** ** ← heb:גולם‎ (golem), angla:hispana:portugala:franca:malaja:golem, deu:Golem, rusa:голем (golem), araba:غولم (ghwlm) japana:ゴーレム (gōremu), korea:골렘 (gollem)  
@@ -587,7 +586,6 @@
 **humus** ** ← araba:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), angla:hispana:malaja:hummus, portugala:húmus, rusa:хумус (humus), turka:humus, hindia:marataja:हुम्मुस (hummus), japana:フムス (fumusu)  
 **huru** *libera* ← araba: حر (ḥurr), turka:hür, svahila:huru, hispana:horro, portugala:forro  
 **huxi** *agrabla* ← persa: خوش‎ (xoš), hindia:ख़ुश (xuś), bengala:খুশি (khuśi), turka:hoş, angla:cushy  
-**i** *kaj* ← hispana:y, portugala:e, rusa:и (i)  
 **ici** *volo* ← vjetnama:ý chí, mandarena:意志 (yìzhì), korea:(uiji), japana:(ishi), + hindia:इच्छा (icchā), teluga:ఇచ్చ (icca)  
 **idea** *ideo* ← franca:idée, deu:Idee, hat:malaja:ide, persa:(ide), portugala:ideia, rusa:идея (ideya), vjetnama:ý định  
 **idiote** ** ← angla:deu:franca:malaja:idiot, hispana:portugala:idiota, rusa:идиот (idiot)  
@@ -1331,6 +1329,7 @@
 **serve** ** ← angla:franca:service, portugala:serviço, rusa:сервис (servis), turka:servis + hindia:सेवा (sevâ), bengala:সেবা  (seba)  
 **sesam** ** ← angla:sesame, rusa:сезам (sezam), hispana:sésamo, araba:(simsim), svahila:simsim, turka:susam  
 **sexe** *sekso* ← angla:sex, franca:sexe, hispana:portugala:sexo, rusa:секс (seks), turka:seks, hindia:सेक्स (seks), japana:セックス (sekkusu), korea:섹스 (sekseu)  
+**si** *esti* ← mandarena:是 (shì), kantona:是 (si4) + hispana:portugala:ser  
 **sian** ** ← angla:cyan, hispana:cian, rusa:циан (tsian), araba:سيان (sayan), hindia:क्यान (kyāna), japana:シアン (shian), malaja:sian  
 **siborge yum** *seborgio* ← angla:seaborgium, franca:seaborgium, hispana:seaborgio, portugala:seabórgio, rusa:сиборгий, mandarena: (xǐ), japana:シーボーギウム, korea:새보쥼, vjetnama:seaborgi, hindia:सीबोर्गियम, bengala:সিওবোর্গিয়াম, malaja:seaborgium, svahila:seaborgi, araba: سيبورجيوم  
 **side** ** ← rusa:сидеть (sidet'), angla:sit, deu:sitzen, itala:sedere  
@@ -1536,6 +1535,7 @@
 **vita** ** ← franca:vis, itala:vite, rusa:винт (vint), turka:vida  
 **vitamin** ** ← angla:malaja:vitamin, franca:vitamine, hispana:portugala:vitamina, rusa:витамин (vitamin), mandarena:维他命 (wéitāmìng), japana:ビタミン (bitamin), korea:비타민 (bitamin), vjetnama:vi ta min, hindia:विटामिन (viṭāmin), bengala:ভিটামিন (bhiṭamin), araba: فِيتَامِين‎ (fitamīn)  
 **viza** ** ← angla:hispana:franca:malaja:visa, rusa:виза (viza), turka:vize, svahila:viza, araba:فِيزَا‎ (fīzā), persa:ویزا‎ (vizâ), hindia:वीज़ा (vīzā), bengala:ভিসা (bhiśa), japana:ビザ (biza), korea:비자 (bija)  
+**vo** *tio* ← bengala:ও (o), hindia:वह (vo), turka:o  
 **vode** ** ← franca:vœu, hispana:portugala:voto, araba:وعد (waʿd), hindia:वादा (vādā), turka:vaat, persa:وعده (va'deh)  
 **vodun** ** ← ewe:vodun, hat:vodou, bra:vodum, angla:voodoo, franca:vaudou, hispana:vudú  
 **voke** ** ← angla:voke, franca:-voquer, hispana:portugala:-vocar + deu:Vokal  

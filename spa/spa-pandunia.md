@@ -64,7 +64,7 @@ acuerdo - sam rai
 acumular - kumu  
 acuoso - sui di  
 adelante - do jin  
-además - i max  
+además - e max  
 adhesivo - glu grafi  
 adicional (extra) - max di  
 adiós - sal cuti  
@@ -139,7 +139,7 @@ algún día (algún vez) - yo sata
 alheña (henna) - hina  
 alicate - pinse gi  
 alinear - be ging  
-allí (allá) - a go  
+allí (allá) - a vo  
 almacén - mahazin  
 almendra - badam  
 almirante - hai amir ja  
@@ -230,7 +230,7 @@ aproximadamente - yaki
 apuntar (dirección) - dika  
 apuntar (indicar) - ponte  
 apuntar - fa dika  
-aquí (acá) - a ni  
+aquí (acá) - a yi  
 Arabia Saudita - Saudi Arabi  
 aracnofobia - arane fobi  
 araña - arane  
@@ -1080,7 +1080,6 @@ demora (retraso) - dele
 demostrar - fa xou  
 demócrata - demi krati ja  
 dentista (odontólogo) - dante dava ja  
-dentro - a in  
 deporte - esporte  
 deportista - esporte ja  
 depurar - fa an galte  
@@ -1365,7 +1364,7 @@ escultor - eskulte ja
 escultura (arte de escultura) - eskulte suta  
 escultura (estatua) - eskulte  
 escupir (bufar) - tuh  
-ese (aquel) - go  
+ese (aquel) - vo  
 eslabón - serime  
 eslavo - Slave  
 Eslovaquia - Slovakia  
@@ -3432,8 +3431,8 @@ sentido - sense
 sentir (detectar) - fa sense  
 sentir - be gamo  
 septiembre - mes tisa  
-ser (estar) - e  
-ser - eja  
+ser (estar) - si  
+ser - sija  
 ser de - be mal  
 ser humano - insan  
 ser visto - be vide  
@@ -3928,7 +3927,7 @@ Wallis y Futuna - Valis e Futuna nesi
 ## X  
 
 xenón - xenon  
-y - i  
+y - e  
 
 ## Y  
 

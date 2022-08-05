@@ -269,7 +269,7 @@ but - sapatu
 butelka - botel  
 Bułgaria - Bolgaria  
 bułka gotowana na parze - mantu  
-być - e  
+być - si  
 być mistrzem (być ekspertem) - maste  
 być o; dyskutować o - fa tema  
 być obok - a late  
@@ -910,7 +910,7 @@ hę?, co?, pardon? - he
 
 ## I  
 
-i, oraz - i  
+i, oraz - e  
 idea, pomysł - idea  
 ideogram - idea zi  
 idiota - idiote  
@@ -2956,7 +2956,7 @@ tal - tali yum
 talerz - plate tasa  
 taleta, WC - tualete  
 tamilski - Tamil  
-tamten - go  
+tamten - vo  
 Tanach, Biblia hebrajska - tanah  
 taniec - danse  
 tantal - tantal yum  
@@ -3054,7 +3054,7 @@ trzęsienie Ziemi - geo sismo
 trójkąt - tri gona  
 trójząb - tri pike  
 trąba powietrzna (cyklon, tornado, tajfun) - rota tafun  
-tu (tutaj, tam) - a go  
+tu (tutaj, tam) - a vo  
 tuba, rura - tubo  
 tul - tule yum  
 tulipan - tulpan  

@@ -98,9 +98,9 @@ Two or more nouns can be put together to make a compound word.
 The last word is the most meaningful word in the compound,
 and the words that come before it only modify the meaning.
 
-**sol fote**
+**sol foto**
 – sun light  
-**lun fote**
+**lun foto**
 – moon light  
 **lun ite**
 – moon stone

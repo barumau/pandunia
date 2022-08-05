@@ -8,25 +8,25 @@ not by changing the form of verbs as in English and other languages.
 
 Person and number are indicated by the subject.
 For example, the verb
-**e**
+**si**
 ('to be') has the same form in all persons.
 
-**_mi_ e doste.**
+**_mi_ si doste.**
 – I am a friend.  
-**_tu_ e doste.**
+**_tu_ si doste.**
 – You are a friend.  
-**_ya_ e doste.**
+**_ya_ si doste.**
 – He or she is a friend.  
-**_mimen_ e doste.**
+**_mimen_ si doste.**
 – We are friends.  
-**_tumen_ e doste.**
+**_tumen_ si doste.**
 – You are friends.  
-**_yamen_ e doste.**
+**_yamen_ si doste.**
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau e zoe.**
+**mau si zoe.**
 – The cat is an animal.
 
 Frequently there is a marker between the subject and the verb
@@ -40,7 +40,7 @@ One of the many suitable markers is
 which adds no content to the sentence
 but helps to clarify its structure.
 
-**karote e uma yam.**
+**karote si uma yam.**
 – Carrot is horse food.  
 **uma _ye_ yam karote.**
 – The horse eats carrots.
@@ -120,7 +120,7 @@ indicates that an action has happened in the past and is still ongoing, or is re
 It is best translated by *already* or *(not) yet*.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
 
-**ya _leu_ e guru.**
+**ya _leu_ si guru.**
 – He or she is already a teacher.  
 **mi no _leu_ gul yo alkohol.**
 – I haven't drank alcohol yet.  
@@ -151,7 +151,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 ('will, shall')
 indicates that the event will take place later or in the future.
 
-**ya _xa_ e guru.**
+**ya _xa_ si guru.**
 – He or she shall be a teacher.  
 **mi no _xa_ gul un bir.**
 – I will not drink a beer.
@@ -212,8 +212,6 @@ They always take an object.
 
 **a**
 – at, on, by, next to, on the side of  
-**abe**
-– away  
 **de**
 – off, away from, from  
 **ex**
@@ -237,12 +235,12 @@ They always take an object.
 **vise**
 – instead of
 
-**ya go in la dome.**
+**ya ga in la dome.**
 – He/she went into the house.  
-**ya go ex la dome.**
+**ya ga ex la dome.**
 – He/she went out of the house.  
 **ya lai re la dome.**
 – He/she came back to the house.  
-**ya loge kon la xefe.**
+**ya loga kon la xefe.**
 – He/she speaks with the boss.
 

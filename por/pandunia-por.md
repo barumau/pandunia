@@ -3,11 +3,11 @@
 ## A  
 
 a - em  
-a go - aí (lá)  
 a ke - onde  
 a lin - online  
-a ni - aqui  
+a vo - aí (lá)  
 a xukur de - graças a  
+a yi - aqui  
 abies - abeto  
 aci - espirrar  
 acini yum - actínio  
@@ -367,7 +367,7 @@ dux - ducha
 
 ## E  
 
-e - ser (estar)  
+e - e  
 einstein yum - einstânio  
 ekore - esquilo  
 eletro - eletricidade  
@@ -568,7 +568,6 @@ glu bande - penso (band-aid)
 glu di - pegajoso (adesivo)  
 glu grafi - adesivo  
 glu poto - argila  
-go - esse (aquele)  
 gol - meta (gol)  
 gong - trabalho  
 gong ja - trabalhador  
@@ -672,7 +671,6 @@ huru - livre (forro)
 
 ## I  
 
-i - e  
 in bum - imploção  
 in klus - incluindo  
 in klus di - inclusivo  
@@ -1115,7 +1113,6 @@ neu gene di - recém-nascido
 neu jen - novato (neófito)  
 neu loga - neologismo  
 neuta - novidade  
-yi - este  
 nia - intenção  
 nide - ninho (vespiero)  
 nikel - níquel  
@@ -1404,6 +1401,7 @@ seri - série (sequência)
 seria - série (sequência)  
 serime - elo  
 sexelogi - sexologia  
+si - ser (estar)  
 siborge yum - seabórgio  
 sifa loga - adjetivo  
 sigar - cigarro  
@@ -1568,6 +1566,7 @@ vise pa - padrasto
 vise raja - vice-rei  
 vitamin - vitamina  
 Vixnu - Vixnu  
+vo - esse (aquele)  
 vode - promessa (voto)  
 vokesoni - vogal  
 vol - querer (desejar)  
@@ -1640,6 +1639,7 @@ yepa - folha
 yepa alga - kelp  
 yepa late - página  
 Yesa Mesi - Jesus Cristo  
+yi - este  
 yogo - jugo  
 yogur - iogurte  
 you - infantil (imaturo)  

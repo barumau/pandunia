@@ -39,8 +39,6 @@ The sentence **mi fa hure yamen** would mean the same thing but it would include
 ## A  
 
 a - by (at, in, on)  
-a go - there  
-a in - inside  
 a jong - to be centered (amid, in the middle)  
 a ke - where  
 a kon - together (jointly, mutually)  
@@ -49,7 +47,6 @@ a lin - online
 a medi - among (amid, between)  
 a min de - except (minus)  
 a neu - just (recently)  
-a ni - here  
 a nice - under  
 a poli mar - often (frequently)  
 a pos - later (after)  
@@ -58,7 +55,9 @@ a sabu de - because
 a supra - above (over)  
 a vai - outside  
 a vakil de - on behalf of  
+a vo - there  
 a xukur de - thanks to  
+a yi - here  
 abies - fir tree  
 acar - pickle  
 acar di - pickled  
@@ -964,8 +963,8 @@ dux - shower
 
 ## E  
 
-e - be  
-eja - being (entity)  
+e - and  
+e max - also (too)  
 eglisa - church  
 einstein yum - einsteinium  
 Eire - Ireland  
@@ -1655,7 +1654,6 @@ glu di - sticky (ahesive)
 glu grafi - sticker  
 glu poto - clay  
 gluten - gluten  
-go - that over there  
 gol - goal (destination)  
 gola - circle (sphere, round object)  
 gola di - round (circular)  
@@ -1913,8 +1911,6 @@ huxi - nice (pleasant, comfortable, cushy)
 
 ## I  
 
-i - and  
-i max - also (too)  
 ibri - Hebrew  
 ici - will (volition, desire)  
 • anicija - reluctant  
@@ -3045,7 +3041,6 @@ neu Yorke siti - New York City
 neu Zelande - New Zealand  
 Nevis - Nevis  
 ni - female  
-yi - this  
 nia - intention (purpose)  
 nice - underside (underneath)  
 nice di - lower (inferior)  
@@ -3790,6 +3785,8 @@ sexe - sex (sexual relation)
 sexe di - sexy (sexually arousing)  
 sexelogi - sexology  
 Sexel nesi - Seychelles  
+si - be  
+sija - being (entity)  
 sian - cyan  
 Sibiria - Siberia  
 siborge yum - seaborgium  
@@ -4311,6 +4308,7 @@ vita - screw
 vitamin - vitamin  
 Vixnu - Vishnu  
 viza - visa  
+vo - that over there  
 vode - promise (vow, oath)  
 vodun - voodoo  
 voke - call (voice; summon)  
@@ -4463,6 +4461,7 @@ yepa late - page (side of a leaf of a book)
 Yesa - Jesus  
 Yesa Mesi - Jesus Christ  
 yezi - coconut tree  
+yi - this  
 yo - some (one)  
 yo jen - someone (somebody)  
 yo sata - sometime  

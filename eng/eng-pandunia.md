@@ -105,7 +105,7 @@ alone (lonely, isolated, solitary, single) - un zai di
 alpaca - alpaka  
 alphabet - zi sili  
 already (completed action) - fin  
-also (too) - i max  
+also (too) - e max  
 altar - puja meza  
 alum - alumin mate  
 alumina (aluminum oxide) - alumin oxide  
@@ -138,7 +138,7 @@ analysis (dissection) - fen gata
 anchor - angar  
 anchovy - ancovi  
 Ancient Egypt (Kemet) - Keme  
-and - i  
+and - e  
 Andes - Andes  
 andesite - andesite  
 Andorra - Andora  
@@ -348,7 +348,7 @@ bathe - fa banya
 bathroom - banya kamar  
 battery - batri  
 bay (gulf) - baya  
-be - e  
+be - si  
 be about (discuss as a subject) - fa tema  
 be beside (accompany) - a late  
 be born - be gene  
@@ -383,7 +383,7 @@ beginning (start, commencement, onset) - xuru
 behave (act) - fa manera  
 behavior (manners) - manera  
 Beijing (Peking) - Beijing  
-being (entity) - eja  
+being (entity) - sija  
 bel (unit) - bel  
 Belarus - Belarus  
 Belgium - Belgi  
@@ -1823,7 +1823,7 @@ hemoglobin - hemiglobin
 hemophobia - hemifobia  
 henna (alcanna) - hina  
 hepatitis - hepatetis  
-here - a ni  
+here - a yi  
 here you are - cing na  
 heritage (legacy, bequest) - varite  
 hero - hero  
@@ -1993,7 +1993,6 @@ inner (internal) - in di
 input  - inpute  
 insect - dudu  
 inside (interior) - in  
-inside - a in  
 insomnia - ansona  
 inspect (check, examine, look into) - inspete  
 instantly - un sata  
@@ -4023,7 +4022,7 @@ thanks (thank you) - xukur
 thanks to - a xukur de  
 that (conjunction) - ki  
 that is (in other words, i.e., alias) - alo nam  
-that over there - go  
+that over there - vo  
 the (that) - la  
 the Grenadines - Grenadin nesi  
 theft - cori  
@@ -4034,7 +4033,7 @@ theocracy - deu krati
 theology - deulogi  
 theory - teori  
 theosophy - deu sofi  
-there - a go  
+there - a vo  
 thermometer - termo metre gi  
 they - yamen  
 thick - gros  
