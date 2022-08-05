@@ -917,6 +917,7 @@ lente - lento
 letre - carta  
 letus - alface  
 leu - esquerdo  
+lexima - palavra (vocábulo)  
 liama - lhama  
 libele - libélula  
 lida ja - líder (chefe)  
@@ -943,7 +944,6 @@ loga asal - etimologia
 loga di - léxico  
 loga fen - sílaba  
 loga jama - vocabulário  
-loga so - palavra (vocábulo)  
 loge - registro  
 loge buku - diário de bordo  
 loka - lugar (local)  

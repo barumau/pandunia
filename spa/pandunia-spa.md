@@ -1227,7 +1227,7 @@ fobi ja - asustador
 fokus - concentrar (enfocarse)  
 fon - fono (segmento acústico)  
 fonlogi - fonología  
-fon so - fonema  
+fonma - fonema  
 fon zi - letra (carácter)  
 fong - abeja o avispa  
 fong nide - avispero (colmena)  
@@ -2183,6 +2183,7 @@ letus - lechuga
 leu - izquierdo  
 leu di - izquierdo  
 leu sim ja - izquerdista  
+lexima - palabra (vocablo)  
 liama - llama  
 Libanen - Líbano  
 libele - libélula  
@@ -2234,7 +2235,6 @@ loga di - léxico
 loga fen - sílaba  
 loga jama - vocabulario (léxico)  
 loga liste - disionario (lexicón)  
-loga so - palabra (vocablo)  
 loga tabi di - hablador (locuaz)  
 loge - registro (archivo, anotación)  
 loge buku - libro de registro  

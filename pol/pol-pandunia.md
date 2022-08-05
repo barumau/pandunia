@@ -689,7 +689,7 @@ flaga, sztandar - bandera
 flerow - flerof yum  
 fluor - flur  
 folder (teczka) - dokumen sanduku  
-fonem - fon so  
+fonem - fonma  
 fonologia - fonlogi  
 fontanna (studnia, źródło) - fonte  
 forma, kształt, morf - forma  
@@ -2928,7 +2928,7 @@ słowik - bulbul
 słownictwo - loga jama  
 słowny (leksykalny) - loga di  
 słowo (mowa) - loga  
-słowo - loga so  
+słowo - lexima  
 słoń - gaja  
 słońce - sol  
 słuchać - fa ore  

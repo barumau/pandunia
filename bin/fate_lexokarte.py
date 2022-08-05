@@ -6,7 +6,7 @@ index_head = '''
     <title>pandunia lexi a dunia karta</title>
 </head>
 <body>
-<h1>pandunia lexe a dunia karte</h1>
+<h1>pandunia lexi a dunia karta</h1>
 <p><img src="http://www.pandunia.info/grafe/pandunia_karte.png"></p>
 '''
 

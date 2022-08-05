@@ -1396,7 +1396,7 @@ fokus|fokus|||eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکو
 fon|fon|||eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon|phone (speech sound)||fono (segmento acústico)||||||||||||||äänne (fooni)|głoska
 fon.loga|fon loga||||pronounce (articulate)||||||||||||||||ääntää (lausua)|
 fon.logi|fonlogi||||phonology||fonología||||||||||||||fonologia (äänneoppi)|fonologia
-fon.so|fon so||||phoneme||fonema||||||||||||||äänne (foneemi)|fonem
+fon.ma|fonma||||phoneme||fonema||||||||||||||äänne (foneemi)|fonem
 fon.zi|fon zi||||letter (character, written symbol)||letra (carácter)|||||||||||herufi|harf|litero|kirjain|litera, znak
 fong|fong|bio||zho:蜂 (fēng), yue:蜂 (fung1), wuu:蜂 (fon1), kor:봉 (bong), vie:ong, tha:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)|bee or wasp|abeille ou guêpe|abeja o avispa|abelha ou vespa|||蜂|蜂||||||||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
 fong.nide|fong nide||||bee nest (beehive, wasp's nest)|ruche (nid d'abeille)|avispero (colmena)|||||蜂の巣|||||||||mehiläispesä|ul (gniazdo pszczół lub os)
@@ -2460,6 +2460,7 @@ letus|letus|bio||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेट�
 leu|leu|||ltn:laevus, eng:left; levo-, fra:lévo-, spa:por:levo-, rus:левый (levyy), pol:lewy|left|gauche|izquierdo|esquerdo|левый||左|左|||बायीं||kiri|kushoto|sol||vasen|lewy (lewostronny, z lewej strony)
 leu.di|leu di||||left hand||izquierdo|||||||||||||||lewy (lewostronny, z lewej strony)
 leu.sim.ja|leu sim ja||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
+lexi.ma|lexima||||word (lexeme)|mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
 liama|liama|bio||eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|llama|lama|llama|lhama|лама||大羊駝|ラマ||||||||||lama
 Libanen|Libanen|dexa|LB||Lebanon||Líbano||||||||||||||Libanon|Liban
 libele|libele|||spa:por:libélula, fra:libellule, deu:Libelle|dragonfly|libellule|libélula|libélula|стрекоза||蜻蜓|蜻蛉|잠자리||व्याध पतंग|ফড়িং|capung||yusufçuk|libelo|sudenkorento|ważka
@@ -2516,7 +2517,6 @@ loga.fili.ja|loga fili ja||||logophile (word buff)||||||||||||||||logofiili|logo
 loga.ironi|loga ironi||||verbal irony (sarcasm)|||||||||||||||||sarkazm
 loga.jama|loga jama||||vocabulary (lexicon)|vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||词汇|語彙|어휘|từ vựng|शब्दकोश (लुग़त)||kosa kata (logat)|msamiati|sözlük (lügat)|vortaro|sanasto|słownictwo
 loga.liste|loga liste||||dictionary (word list)||disionario (lexicón)|||||||||||||vortaro|sanaluettelo|lista słów
-loga.so|loga so||||word (lexeme)|mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||词|言葉|말|từ|बात (लुग़त)|শব্দ|kata|neno|sözcük (kelime)|vorto|sana|słowo
 loga.tabi.di|loga tabi di||||talkative|loquace|hablador (locuaz)|||||||||||||parolema|puhelias|rozmowny
 loge|loge|||eng:log + zho:录 (lù), yue:錄 (luk6), jpn:録 (roku), kor:록 (rok), vie:lục|register (record, log)|enregistrement|registro (archivo, anotación)|registro|запись||纪录|記録|기록|||||||registraĵo|tallenne (rekisteri, loki)|rejestr
 loge.buku|loge buku||||logbook|livre de bord|libro de registro|diário de bordo|судовой журнал||航海日志|日誌|||||||||lokikirja|dziennik pokładowy (notatnik)

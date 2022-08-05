@@ -1105,7 +1105,7 @@ morue (cabillaud) - bakalau
 morue de l'Atlantique - atlanti bakalau  
 morue du Pacifique - pase hai bakalau  
 moscovium - moskva yum  
-mot - loga so  
+mot - lexima  
 mot de passe - pas loga  
 moteur - moto  
 mouche - dom zeze  

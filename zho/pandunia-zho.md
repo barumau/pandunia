@@ -881,6 +881,7 @@ lente - 慢
 letre - 信 (书信)  
 letus - 莴苣  
 leu - 左  
+lexima - 词  
 liama - 大羊駝  
 libele - 蜻蜓  
 lida ja - 领导  
@@ -903,7 +904,6 @@ litre - 升
 loga - 语言  
 loga fen - 音节  
 loga jama - 词汇  
-loga so - 词  
 loge - 纪录  
 loge buku - 航海日志  
 loka - 地方  

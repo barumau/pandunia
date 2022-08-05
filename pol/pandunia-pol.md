@@ -1122,7 +1122,7 @@ fobi - strach, fobia
 fokus - skupienie, koncentracja  
 fon - głoska  
 fonlogi - fonologia  
-fon so - fonem  
+fonma - fonem  
 fon zi - litera, znak  
 fong - pszczoła lub osa  
 fong nide - ul (gniazdo pszczół lub os)  
@@ -2007,6 +2007,7 @@ letus - sałata
 leu - lewy (lewostronny, z lewej strony)  
 leu di - lewy (lewostronny, z lewej strony)  
 leu sim ja - lewicowiec (lewak)  
+lexima - słowo  
 liama - lama  
 Libanen - Liban  
 libele - ważka  
@@ -2058,7 +2059,6 @@ loga fili ja - logofil (miłośnik słów)
 loga ironi - sarkazm  
 loga jama - słownictwo  
 loga liste - lista słów  
-loga so - słowo  
 loga tabi di - rozmowny  
 loge - rejestr  
 loge buku - dziennik pokładowy (notatnik)  

@@ -1378,7 +1378,7 @@ fokus - keskittyminen (keskittymä)
 fon - äänne (fooni)  
 fon loga - ääntää (lausua)  
 fonlogi - fonologia (äänneoppi)  
-fon so - äänne (foneemi)  
+fonma - äänne (foneemi)  
 fon zi - kirjain  
 fong - mehiläinen tai ampiainen  
 fong nide - mehiläispesä  
@@ -2338,6 +2338,7 @@ letre - kirje
 letus - lehtisalaatti  
 leu - vasen  
 leu sim ja - vasemmistolainen  
+lexima - sana  
 Libanen - Libanon  
 libele - sudenkorento  
 Liberia - Liberia  
@@ -2385,7 +2386,6 @@ loga fili - logofilia
 loga fili ja - logofiili  
 loga jama - sanasto  
 loga liste - sanaluettelo  
-loga so - sana  
 loga tabi di - puhelias  
 loge - tallenne (rekisteri, loki)  
 loge buku - lokikirja  

@@ -1529,7 +1529,7 @@ florero - hua jara
 flotador (boya) - boi  
 fluir - be dara  
 flúor - flur  
-fonema - fon so  
+fonema - fonma  
 fono (segmento acústico) - fon  
 fonología - fonlogi  
 forma (figura, morfo) - forma  
@@ -2735,7 +2735,7 @@ pagano (infiel) - kafir
 pago - pei  
 Pakistán - Pakistan  
 pala - bele  
-palabra (vocablo) - loga so  
+palabra (vocablo) - lexima  
 palacio (mansión) - dai dom  
 paladar - bokacati  
 paladio - paladi yum  

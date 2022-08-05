@@ -986,6 +986,7 @@ lense - линза
 letre - письмо  
 letus - салат-латук  
 leu - левый  
+lexima - слово (речь)  
 liama - лама  
 libele - стрекоза  
 lida ja - руководитель (лидер)  
@@ -1011,7 +1012,6 @@ loga asal - этимология
 loga di - лексический  
 loga fen - слог  
 loga jama - словарь  
-loga so - слово (речь)  
 loge - запись  
 loge buku - судовой журнал  
 logi safar ja - исследователь  

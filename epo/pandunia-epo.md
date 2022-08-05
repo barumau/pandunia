@@ -1203,6 +1203,7 @@ lente - malrapida
 lenxi - ekzerco  
 letre - letero  
 letus - laktuko  
+lexima - vorto  
 libele - libelo  
 liga di sanduku - Kesto de Interligo  
 lima - kvin (5)  
@@ -1224,7 +1225,6 @@ loga di - vorta
 loga fen - silabo  
 loga jama - vortaro  
 loga liste - vortaro  
-loga so - vorto  
 loga tabi di - parolema  
 loge - registraĵo  
 logi - scienco  

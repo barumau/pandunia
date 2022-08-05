@@ -1124,7 +1124,7 @@ padrasto - vise pa
 pai - pa  
 painel - bano  
 palato (céu da boca) - bokacati  
-palavra (vocábulo) - loga so  
+palavra (vocábulo) - lexima  
 palavra-passe (senha) - pas loga  
 palácio (mansão, palacete) - dai dom  
 paládio - paladi yum  

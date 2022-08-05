@@ -1442,7 +1442,7 @@ fokus - focus (concentration)
 fon - phone (speech sound)  
 fon loga - pronounce (articulate)  
 fonlogi - phonology  
-fon so - phoneme  
+fonma - phoneme  
 fon zi - letter (character, written symbol)  
 fong - bee or wasp  
 fong nide - bee nest (beehive, wasp's nest)  
@@ -2516,6 +2516,7 @@ letus - lettuce
 leu - left  
 leu di - left hand  
 leu sim ja - leftist (left-winger)  
+lexima - word (lexeme)  
 liama - llama  
 Libanen - Lebanon  
 libele - dragonfly  
@@ -2572,7 +2573,6 @@ loga fili ja - logophile (word buff)
 loga ironi - verbal irony (sarcasm)  
 loga jama - vocabulary (lexicon)  
 loga liste - dictionary (word list)  
-loga so - word (lexeme)  
 loga tabi di - talkative  
 loge - register (record, log)  
 loge buku - logbook  

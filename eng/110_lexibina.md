@@ -14,13 +14,13 @@ This is very common in Pandunia,
 where most words don't belong to any fixed word classes.
 Instead, the word class is determined by the word's place in the sentence.
 
-For example, the word **kale** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
+For example, the word **hali** can function equally as an adjective (_blank_ or _void_), noun (_a blank_) and verb (_to make blank_ or _to get blank_).
 
-**tu ha kale papir, he?**
+**tu ha hali papir, he?**
 – Do you have some blank paper?  
 **don mi un hali!**
 – Give me a blank!  
-**tu mus kale go lexe.**
+**tu mus hali vo lexi.**
 – You must blank out that word.
 
 Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
@@ -38,33 +38,18 @@ Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a wr
 A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
 words can be made easily in Pandunia just like in many natural languages.
 
-
-Either just write the that words you want to combine next to each other,
-like **tomato** 'tomato' + **sos** 'sauce' = **tomato sos** 'tomato sauce',
-or simply join them together,
-like **poste** 'mail' + **kan** 'place for working' = **postekan** 'post office'.
-
-The former is called an _open compound_ and the latter a _closed compound_.
-There is little difference between open compounds and closed compounds.
-Compound words that are stable and fixed tend to be written together,
-whereas new compound words tend to be written separately.
-
-When words are joined and an annoying double vowel
-that consists of **e** and another vowel (**-eV-**)
-would be created in between, they can be reduced to one, for example
-**kriste** 'Christ' + **isme** 'creed' = **kristisme** 'Christianity'.
-Vowels other than **e** can't be deleted. For example, **a** remains in the following compound:
-**lama** 'lama' + **isme** 'creed' = **lamaisme** 'lamaism'.
-
-This is almost all you need to know to make compound words.
-Apart from these, there are a few special, internationally known compound words rooted in Greek,
-where an **-e-** sound at the end of the first word turns into **-o-** to combine it with the next word.
-For example:  
-**fote** 'light' + **grafe** 'image' = **fotografe** 'photograph'  
-**deme** 'people' + **kratia** 'rule' = **demokratia** 'democracy'  
-This kind of _Greek compounds_ could be sometimes written as normal closed compounds,
-like **fotegrafe** and **demekratia**,
-and it should not be considered an error because the difference is minimal and harmless.
+Two or more words can be put together to make a compound word.
+The last word is the most meaningful part in the compound
+and the words that come before it only modify its meaning.
+For example,
+**an**
+'un-, the opposite of' +
+**demi'**
+'the people' +
+**krati**
+'rule' =
+**andemikrati**
+'undemocratic'.
 
 
 ## Affixes
@@ -72,39 +57,29 @@ and it should not be considered an error because the difference is minimal and h
 Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
 They are joined or merged to the base word.
 
-For example, the word **zemia** 'planet Earth' consists of the base word **zeme** 'earth, soil'
-and the collective noun suffix **-ia**.
-
-          zeme       'earth, soil'
-       +   -ia       'collective noun suffix'
-    _____________
-    =     zemia      'planet Earth'
-
 Two or more roots can be put together to make _compound words_.
 The last root is the most meaningful part in the compound
 and the preceding roots only modify its meaning.
 
            pan       'all'
-       +  deme       'people, public'
-       +  -ike       'adjectival suffix'
+       +  demi       'people, public'
+       +   -ka       'adjectival suffix'
     _____________
-    = pandemike      'pandemic'
+    = pandimika      'pandemic'
 
 The connecting vowel **-o-** is inserted between words in Greek compounds.
 
-           deme      'people, public'
-       +    -o-      'connecting vowel for Greek compounds'
-       +  krate      'rule, govern'
-       +    -ia      'collective noun suffix'
+           demi      'people, public'
+       +  krati      'rule, govern'
+       +     -a      'collective noun suffix'
     _____________
-    = demokratia     'democracy'
+    = demikratia     'democracy'
 
-          terme      'temperature'
-       +    -o-      'connecting vowel for Greek compounds'
+          termi      'temperature'
        +  metre      'measure'
        +     -r      'agent or apparatus'
     ____________
-    = termometrer     'thermometer'
+    = termimetrer     'thermometer'
 
 Pandunia has adopted international prefixes,
 including **a-**, **de-**, **pro-**, **re-** and **su-** among others,
@@ -156,17 +131,13 @@ are not compound words in Pandunia.
 
 **an-**
 'opposite, un-, in-' :  
-**human**
-'human'
-→ **anhuman**
-'unhuman'
-**deviste**
-'theist'
-→ **andeviste**
-'atheist'  
-**tabakiste**
+**deusim**
+'theism'
+→ **andeusim**
+'atheism'  
+**tabakuja**
 'smoker'
-→ **antabakiste**
+→ **antabakuja**
 'non-smoker'  
 **kluze**
 'close'
@@ -235,10 +206,10 @@ are not compound words in Pandunia.
 
 **kon-**
 'together' :  
-**strute**
-'structure'
-→ **konstrute**
-'construct, put together'
+**bina**
+'build'
+→ **konbina**
+'assemble, combine'
 
 **per-**
 'thoroughly, completely' :
@@ -256,10 +227,10 @@ are not compound words in Pandunia.
 
 **pre-**
 'before' :  
-**dite**
-'tell'
-→ **predite**
-'foretell, predict'  
+**poze**
+'put, pose'
+→ **prepoze**
+'put before, prepend'
 **vide**
 'see'
 → **previde**
@@ -278,14 +249,14 @@ are not compound words in Pandunia.
 
 **re-**
 'back' :  
-**ate**
+**ati**
 'to act'
-→ **reate**
+→ **reati**
 'to act back, react'  
-**turne**
-'to turn'
-→ **returne**
-'to turn back'
+**pulse**
+'to push'
+→ **repulse**
+'to push back'
 
 **ri-**
 'again, repeatedly' :  
@@ -308,66 +279,28 @@ are not compound words in Pandunia.
 
 ### Suffixes
 
-**-aje**
+**-je**
 'thing made of or consisting of' :  
-**bage**
+**baga**
 'bag'
 → **bagaje**
 'baggage, luggage'  
-**forme**
+**forma**
 'form'
 → **formaje**
 'format, formation'  
 **kore**
 'core'
-**koraje**
+**koreje**
 'guts, the things in the core'  
-**mise**
+**misi**
 'send'
-→ **misaje**
+→ **misije**
 'something sent, message'  
 **fase**
 'face'
-→ **fasaje**
-'facade, frontage'  
-**limon**
-'lemon'
-→ **limonaje**
-'lemonade'
-
-**-an**
-'one who belongs to, one who has membership in' :  
-**Amerike**
-'America'
-→ **amerikan**
-'American'  
-**Italia**
-'Italy'
-→ **italian**
-'Italian'  
-**Rusia**
-'Russia'
-→ **rusian**
-'Russian'  
-**Paris**
-'the city of Paris'
-→ **parisan**
-'Parisian'  
-**kristia**
-'Christendom'
-→ **kristian**
-'Christian'  
-**hume**
-'earth, soil'
-→ **human**
-'earthling' and, _by extension_, 'human being'
-
-**-ate**
-'doing, action' :  
-**rote**
-'wheel'
-→ **rotate**
-'rotate, turn like a wheel'
+→ **faseje**
+'facade, frontage'
 
 **-bil**
 'that can be done' :  
@@ -380,49 +313,41 @@ are not compound words in Pandunia.
 → **uzebil**
 'one that can be used, usable'
 
-**-eme**
+**-ma**
 'distinct meaningful element' :  
 **fone**
 'speech sound'
-→ **foneme**
+→ **fonema**
 'phoneme, distinct speech sound'  
-**lexe**
+**lexi**
 'word'
-→ **lexeme**
+→ **lexima**
 'lexeme'
 
-**-(e)r**
+**-r**
 'doer, agent, -er' :  
-**beke**
+**baka**
 'bake'
-→ **beker**
+→ **bakar**
 'baker'  
 **lide**
 'lead'
 → **lider**
-'leader, the one who leads'  
-**filsofe**
-'think deeply'
-→ **filsofer**
-'philosopher'  
-**sapate**
-'shoe'
-→ **sapater**
-'shoemaker'  
+'leader, the one who leads'
 **muskete**
 'musket'
 → **musketer**
 'musketeer'  
-**kase**
-'cash box, cash register'
-→ **kaser**
-'cashier'
+**trate**
+'drag, haul'
+→ **trater**
+'tractor'  
 
-**-(e)ria**
+**-ria**
 'place for making, producing or selling; profession' :  
-**beker**
+**bakar**
 'baker'
-→ **bekeria**
+→ **bakaria**
 'bakery'  
 **perfume**
 'perfume'
@@ -437,29 +362,19 @@ are not compound words in Pandunia.
 → **enjeneria**
 'engineering'
 
-**-es**
+**-ta**
 '-ness, state of being' :  
 **dai**
 'big, great'
-→ **dayes**
+→ **daita**
 'greatness'  
 **long**
 'long'
-→ **longes**
+→ **longta**
 'length'
 
-
 **-ia**
-'collection of, aggregation of' :  
-**human**
-'human being'
-→ **humania**
-'humanity, mankind, all the human beings as a group'  
-**kriste**
-'Christ'
-→ **kristia**
-'Christianity, all Christians as a group'  
-**filsofe**
+**filsofi**
 'view, outlook, life wisdom'
 → **filsofia**
 'philosophy, the discipline of wisdom'
@@ -470,7 +385,7 @@ There are also a lot of country names that do not end in **-ia**.
 
 **-ia**
 'area, region, country' :  
-**arabe**
+**arabi**
 'Arab, Arabic'
 → **Arabia**
 'Arabia'  
@@ -478,11 +393,11 @@ There are also a lot of country names that do not end in **-ia**.
 'Russian, Ruski'
 → **Rusia**
 'Russia'  
-**turke**
+**turki**
 'Turk, Turkish'
 → **Turkia**
 'Turkey'  
-**itale**
+**itali**
 'Italic, Italian'
 → **Italia**
 'Italy'  
@@ -491,120 +406,32 @@ There are also a lot of country names that do not end in **-ia**.
 **Indonesia**
 'Indonesia'
 
-**-ia**
-'abstract quality' :  
-**neu**
-'new'
-→ **nevia**
-'newness, novelty'  
-**hure**
-'free'
-→ **huria**
-'freedom'
-
-**-ike**
-'of the style or manner of, -ish, -esque' :  
-**un**
-'one'
-→ **unike**
-'only, sole, single'  
-**dom**
-'home'
-→ **domike**
-'domestic'  
-**neu**
-'new'
-→ **nevike**
-'novice, newbie'
-
-**-ime**
-'the most, superlative' :  
-**pre**
-'fore, front'
-→ **prime**
-'foremost, prime'  
-**extre**
-'outside, exterior'
-→ **extrime**
-'outermost, extreme'
-
-**-ion**
-'action, process' :  
-**dite**
-'say'
-→ **dition**
-'saying, diction'  
-**rotate**
-'turn like a wheel'
-→ **rotation**
-'rotation, turning'
-
-**-iste**
-'person who tends to behave or think in a certain way, adherent of an ideology or religion' :  
-**deu**
-'god'
-→ **deviste**
-'theist, one who believes in existence of a god or gods'
-
-**-isme**
+**-sim**
 'ideology, way of thinking, way of living, ism' :  
 **deu**
 'god'
-→ **devisme**
-'theism'
+→ **deusim**
+'theism'  
+**konsana**
+'collective production'
+→ **konsanasim**
+'communism'
 
-**-ive**
+**-vi**
 'inclined to' :  
-**ate**
+**ati**
 'act, perform'
-→ **ative**
-'active, inclined to act'  
-**exploze**
-'explode'
-→ **explozive**
-'explosive'
+→ **ativi**
+'active, inclined to act'
 
-**-or**
-'apparatus, device, machine' :  
-**trate**
-'drag, haul'
-→ **trator**
-'tractor'  
-**fotografe**
-'photograph'
-→ **fotografor**
-'photograph apparatus, camera'
-
-**-ude**
+**-do**
 'level or degree' :  
 **dai**
 'big, great'
-→ **dayude**
+→ **daido**
 'size'  
-**kurve**
+**kurva**
 'curve, bend'
-→ **kurvude**
+→ **kurvado**
 'curvature'
-
-**-ule**
-'diminutive, indicating small size or youth' :  
-**kume**
-'mound, hill'
-→ **kumule**
-'hillock, heap, pile'  
-**node**
-'knot'
-→ **nodule**
-'nodule, small lump'
-
-**-ure**
-'result or product' :  
-**kulte**
-'cultivate (a way of life)'
-→ **kulture**
-'culture'  
-**mixe**
-'mix'
-→ **mixure**
-'mixture'
 

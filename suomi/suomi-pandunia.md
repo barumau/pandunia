@@ -2954,7 +2954,7 @@ Sambia - Zambia
 sammal - mos  
 Samoa - Samoa  
 San Marino - Sante Marino  
-sana - loga so  
+sana - lexima  
 sanallinen (puhuttu) - loga di  
 sanaluettelo - loga liste  
 sanasto - loga jama  
@@ -4079,7 +4079,7 @@ zulu - Zulu
 ääni (äänestyksessä) - vote  
 ääni - soni  
 äänioikeus - vote haki  
-äänne (foneemi) - fon so  
+äänne (foneemi) - fonma  
 äänne (fooni) - fon  
 ääntää (lausua) - fa fon  
 ääntää (lausua) - fon loga  

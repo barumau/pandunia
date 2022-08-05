@@ -906,6 +906,7 @@ lente - 遅い (ゆっくり)
 letre - 手紙  
 letus - レタス  
 leu - 左  
+lexima - 言葉  
 liama - ラマ  
 libele - 蜻蛉  
 lida lin - リード (手綱)  
@@ -929,7 +930,6 @@ livermor yum - リバモリウム
 loga - 演説  
 loga fen - 音節  
 loga jama - 語彙  
-loga so - 言葉  
 loge - 記録  
 loge buku - 日誌  
 loge cuti - ログアウト  

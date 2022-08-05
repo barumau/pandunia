@@ -1104,6 +1104,7 @@ lente - lent
 letre - lettre  
 letus - laitue  
 leu - gauche  
+lexima - mot  
 liama - lama  
 libele - libellule  
 lida ja - dirigeant (leader)  
@@ -1130,7 +1131,6 @@ loga asal - étymologie
 loga di - lexical  
 loga fen - syllabe  
 loga jama - vocabulaire (lexique)  
-loga so - mot  
 loga tabi di - loquace  
 loge - enregistrement  
 loge buku - livre de bord  

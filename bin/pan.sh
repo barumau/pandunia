@@ -6,4 +6,4 @@ sh bin/grafa.sh
 sh bin/karte_lexe.sh
 rm -rf ../html/pandunia
 cp html ../html/pandunia -r
-cp lexokarte ../html/pandunia -r
+cp lexikarta ../html/pandunia -r

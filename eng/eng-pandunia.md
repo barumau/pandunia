@@ -3017,7 +3017,7 @@ philosophic - filsofi di
 philosophy - filsofi  
 Phobos - Fobos  
 phone (speech sound) - fon  
-phoneme - fon so  
+phoneme - fonma  
 phonology - fonlogi  
 phosphorus - pospor  
 photograph - foto grafi  
@@ -4431,7 +4431,7 @@ wonder (be interested in, would like to know) - be sabi vol
 wood (timber) - moka mate  
 wood board (plank) - moka bano  
 wool (fleece) - meme kexa  
-word (lexeme) - loga so  
+word (lexeme) - lexima  
 word processing - kitabu culi  
 work (labour, job) - gong  
 work - fa gong  
