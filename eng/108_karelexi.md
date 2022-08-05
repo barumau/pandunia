@@ -114,23 +114,23 @@ indicates that an action is done regularly.
 **mi ade gul yo bir.**
 – I have a habit of drinking beer.
 
-**leu**
+**le**
 ('attain, accomplish, reach; already')
 indicates that an action has happened in the past and is still ongoing, or is relevant to the current situation.
 It is best translated by *already* or *(not) yet*.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
 
-**ya _leu_ si guru.**
+**ya _le_ si guru.**
 – He or she is already a teacher.  
-**mi no _leu_ gul yo alkohol.**
+**mi no _le_ gul yo alkohol.**
 – I haven't drank alcohol yet.  
-**mi _leu_ no gul yo alkohol.**
+**mi _le_ no gul yo alkohol.**
 – I am already not drinking alcohol.  
-**mi _leu_ don la buke ta yamen.**
+**mi _le_ don la buku to yamen.**
 – I have given the book to them. Or: I already gave the book to them.  
-**yamen no _leu_ ridone ya ta mi.**
+**yamen no _le_ ridone ya to mi.**
 – They haven't given it back to me. Or: They didn't give it back to me yet.  
-**mi _leu_ lai ta site.**
+**mi _le_ lai to site.**
 – I have come to the city. Or: I already came to the city.
 
 **pas**
@@ -138,13 +138,13 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**mi pas done la buke ta yamen.**
+**mi pas done la buku to yamen.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas vizite Franse.**
 – I have visited France.  
 **mi pas ada gul yo bir.**
 – I used to drink beer. / I had a habit of drinking beer.  
-**mi pas lai ta site.**
+**mi pas lai to site.**
 – I came to the city.
 
 **xa**
@@ -186,21 +186,21 @@ the first verb (an auxiliary verb) is something that the subject possesses
 and the second verb is something that the subject does (when there is an object in the end)
 or experiences (when there is no object).
 
-**mi bil kitabe la javabe.**  
+**mi bil kitabu la javabu.**  
 ≈ *I have the ability to write the answer.*  
 – I can write the answer.  
-**mi halal kitabe la javabe.**  
+**mi halal kitabu la javabu.**  
 ≈ *I have the permission to write the answer.*  
 – I may write the answer.  
-**mi mus kitabe la javabe.**  
+**mi mus kitabu la javabu.**  
 ≈ *I have the compulsion to write the answer.*  
 – I must write the answer.
 
 Note that the same auxiliary verbs can be used alone as transitive verbs in the pivot construction.
 
-**guru halal mi kitabe la javabe.**
+**guru halal mi kitabu la javabu.**
 – The teacher permits me to write the answer.  
-**guru mus mi kitabe la javabe.**
+**guru mus mi kitabu la javabu.**
 – The teacher compels me to write the answer.
 
 
@@ -228,7 +228,7 @@ They always take an object.
 – for, forth, forward  
 **re**
 – back, back to  
-**ta**
+**to**
 – to, until  
 **tra**
 – through, beyond  

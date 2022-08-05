@@ -115,6 +115,7 @@ always - pan sata
 amaze - fa ajabu  
 amazing (astonishing) - ajabu di  
 ambassador - dai anjil ja  
+ambiguous (polysemous) - polisemi di  
 ambiguous - poli semi di  
 America (continent) - Amerika  
 American (US) - UDA di  
@@ -1104,8 +1105,6 @@ dinosaur - dino saur
 Dione - Dione  
 diorite - diorite  
 direct (point, aim; direction; target, objective) - dika  
-direction - dixa  
-directly - dixa di  
 dirty (soiled, polluted, defiled, tainted, unclean, impure) - najis di  
 disagree - fa alo rai  
 disagreement (disconsent) - alo rai  
@@ -1524,7 +1523,7 @@ foot - fute
 football (soccer) - fute bol  
 footprint - fute marke  
 for a long time - long dur  
-for example - do misal  
+for example - to misal  
 forbid (ban, disallow) - fa haram  
 forbidden (illicit, haram, taboo) - haram  
 force (strength, power) - balata  
@@ -1540,7 +1539,7 @@ form (shape, morph) - forma
 formatting - kitabu forma  
 fortress (castle, fort, stronghold) - burge  
 forum (public space) - forum  
-forward - do jin  
+forward - to jin  
 found - fa baze  
 founder - baze ja  
 fountain (spring, well) - fonte  
@@ -2029,7 +2028,7 @@ introvert - intraversi
 invert (reverse) - fa an verse  
 invite - cing lai  
 invoke - invoke  
-inward (internal) - do in  
+inward (internal) - to in  
 Io - Io  
 iodine - iode  
 ion - ion  
@@ -2297,7 +2296,7 @@ logophilia - loga fili
 London - London  
 long (lengthy) - long  
 long (long-lasting, prolonged) - long dur di  
-long (over a gread distance) - do long  
+long (over a gread distance) - to long  
 long pepper (pipli) - long pipre  
 longitude - ging darja  
 longitudinal (parallel, vertical) - ging  
@@ -2453,6 +2452,7 @@ maybe (perhaps) - bil si
 Mayotte - Mayote  
 mean (cruel) - zalim  
 mean (intend) - fa nia  
+mean (signify) - semi  
 meaning (signification) - mana  
 measure (measurement) - metre  
 meat (flesh) - nama  
@@ -2861,7 +2861,7 @@ output - expute
 outside (exterior) - vai  
 outside - a vai  
 outsider - vai jen  
-outward (external) - do vai  
+outward (external) - to vai  
 oven (furnace) - tanur  
 overflow (spill out) - vai dara  
 overpass - supra  
@@ -3583,6 +3583,9 @@ self (reflexive pronoun) - se
 self-moving (automotive, automobile) - auto move  
 selfish - se di  
 sell (vend) - vende  
+semantics - semilogi  
+semaphore - semiforar  
+sememe - semima  
 seminal - seme di  
 senator - supra vakil ja  
 send (emit, transmit) - mise  
@@ -4078,7 +4081,7 @@ Titan - Titan
 Titania - Titania  
 titanium - titan yum  
 title (headline) - tema nam  
-to (toward, till, until, for) - do  
+to (toward, till, until, for) - to  
 to be centered (amid, in the middle) - a jong  
 toast (toasted bread) - roste pang  
 tobacco - tabaku  
@@ -4198,6 +4201,7 @@ umbrella - xava cati
 umbrella thorn acacia tree - helis babul  
 Umbriel - Umbriel  
 unambiguous - un semi di  
+unambiguous - unsemi di  
 unbeliever (infidel) - andin ja  
 unbeliever (infidel) - ankredija  
 uncooked rice - seng varis  

@@ -817,14 +817,6 @@ disprosi.yum|disprosi yum|yum 066|Dy|eng:dysprosium, fra:dysprosium, spa:dispros
 divan|divan|||fas: دیوانه‎ (divâne), hin:दीवाना (dīvānā), ben:দেওয়ানা (devana) + zho:癫 (diān), yue:癲 (din1), vie:điên, jpn:癲 (ten)|mad (insane, crazy)||demente (loco, insensato)|||||||||||||freneza|hullu (mieletön)|szalony
 divan.ta|divanta||||madness (insanity)||demencia (locura)|||||||||||||frenezeco|hulluus (mielettömyys)|szaleństwo
 Divehi|Divehi|dexa|MV||Maldives||Maldivas||||||||||||||Malediivit|Malediwy (Republika Malediwów)
-dixa|dixa|||hin:mar:दिशा (diśā), urd:(diśā), mal:ദിശ (diśa), khm:ទិស (tɨh), tha:ทิศทาง (tit-taang)|direction||dirección||||||||||||||suunta|kierunek
-dixa.di|dixa di||||directly||directamente||||||||||||||suoraan|wprost (bezpośrednio)
-do|do|prep.||rus:до (do) pol:do + zho:到 (dào), yue:到 (dou3)|to (toward, till, until, for)||a (hacia)||||到|||||||||al (ĝis, por)|luokse (tykö, kohti, asti)|do, dopóki, dla
-do.in|do in||||inward (internal)||||||||||||||||sisäänpäin|
-do.jin|do jin||||forward|en avant|adelante||||||||||||||eteen päin|naprzód
-do.long|do long||||long (over a gread distance)|loin|lejos||далеко||||||||||||pitkästi (kauas)|
-do.misal|do misal||||for example|par exemple|por ejemplo|por exemplo|например||比如|例えば|예컨대|ví dụ|उदाहरण के लिए||cotohnya (misalnya)|kwa mfano|örneğin (mesela)|ekzemple|esimerkiksi|na przykład
-do.vai|do vai||||outward (external)||||||||||||||||ulkoinen|
 dobe|dobe|||ara:طوبةطوبة (ṭūba), amh:ጡብ (ṭub), deu:eng:fra:spa:por:adobe|brick|brique|ladrillo|tijolo|кирпич||砖|レンガ (磚)||||||tofali|||tiili|cegła
 Doice|Doice|dexa|DE||Germany||Alemania||||||||||||||Saksa|Niemcy
 doice.di|doice di||||German||alemán||||||||||||||saksalainen|niemiecki
@@ -3683,6 +3675,12 @@ seme|seme|||fra:semence, por:semente, spa:semilla, rus:семя (semya), eng:sem
 seme.dana|seme dana||||seed (fertilized grain)||pepita||||种子|種|||||biji benih||||siemenjyvä|ziarno, nasienie
 seme.di|seme di||||seminal|séminal|seminal|seminal|семенной||种子的|||||||||sema|siemen-|nasienny
 semente|semente|||eng:cement, may:semen, spa:cemento, swa:sementi, tur:çimento, vie:xi măng, hin:सीमेंट (siment), rus:цемент (tsement), ara:(ʾasmant), kor:시멘트 (simenteu)|cement||cemento||цемент|||||||||sementi|çimento||sementti|cement
+semi|semi||||mean (signify)|signifier (voiloir dire)|significar (querer decir)|significar (querer dizer)||||||||||||signifi|merkitä (tarkoittaa)|znaczyć
+semi-poli.di|• polisemi di||||ambiguous (polysemous)||ambiguo||||||||||||||monimerkityksinen (polyseeminen)|wieloznaczny
+semi-un.di|• unsemi di||||unambiguous||inequívoco||||||||||||||yksimerkityksinen|jednoznaczny
+semi.fora.r|semiforar||||semaphore|sémaphore|semáforo||семафор|||||||||||||
+semi.logi|semilogi||||semantics|sémantique|semántica|semântica|семантика||语义学|意味論|의미론|ngữ nghĩa học|||semantik|semantiki|anlambilim|semantiko|merkitysoppi (semantiikka)|
+semi.ma|semima||||sememe||||||||||||||||semeemi|
 semon|semon||||each other (one another, mutually)|l'un l'autre|el uno al otro (mutuamente)|um ao outro|друг друга||彼此||||||||birbiri|unu la alian|toisiaan (toinen toistaan)|się (nawzajem, wzajemnie)
 semon.su|semon su||||mutual (each other’s)||mutuo (recíproco)|||||||||||||reciproka|molemminpuolinen (keskinäinen)|wzajemny
 sene|sene|||ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)|age|âge|edad|idade|возраст|عُمْر|年岁|年齢|연세||आयु (उमर)||umur|umri||aĝo|ikä|wiek
@@ -3990,6 +3988,12 @@ Titan|Titan|planete 6 lun 6|||Titan||||||||||||||||Titan|
 titan.yum|titan yum|yum 022|Ti|eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم|titanium|titane|titanio|titânio|титан|تيتانيوم|钛|チタン|타이타늄|titan|टाइटानियम|টাইটেনিয়াম|titanium|titani|titan|titanio|titaani|tytan
 Titania|Titania|planete 7 lun 4|||Titania||||||||||||||||Titania|
 titi|titi|||eng:tit, fra:tété, spa:teta, rus:титьки (tit’ki), ara:ثَدْي‎ (ṯady), swa:titi, may:tetek, jpn:乳 (chichi)|breast (boob, tit)|sein|seno (teta)|seio (mama)|||||||||payudara|titi|meme|mamo|nisä (tissi)|
+to|to|prep.||rus:до (do) pol:do + zho:到 (dào), yue:到 (dou3) + eng:to + fas: تا‎ (tâ), hin:-तक (-tak)|to (toward, till, until, for)||a (hacia)||||到|||||||||al (ĝis, por)|luokse (tykö, kohti, asti)|do, dopóki, dla
+to.in|to in||||inward (internal)||||||||||||||||sisäänpäin|
+to.jin|to jin||||forward|en avant|adelante||||||||||||||eteen päin|naprzód
+to.long|to long||||long (over a gread distance)|loin|lejos||далеко||||||||||||pitkästi (kauas)|
+to.misal|to misal||||for example|par exemple|por ejemplo|por exemplo|например||比如|例えば|예컨대|ví dụ|उदाहरण के लिए||cotohnya (misalnya)|kwa mfano|örneğin (mesela)|ekzemple|esimerkiksi|na przykład
+to.vai|to vai||||outward (external)||||||||||||||||ulkoinen|
 tocu|tocu|||eng:touch, spa: tocar, + hin: छूना (chūnā) + zho: 触 (chù), yue:觸 (cuk1), kor:촉 (chok)|touch|toucher|tocar (rozar)||касаться||接触|||||||||tuŝi|koskea (koskettaa)|dotyczyć
 tocu.sense|tocu sense||||feel (sense by touch)||palpar (tocar)|||||||||||||senti|tuntea|czuć
 Togo|Togo|dexa|TG||Togo||Togo|||||||||||||Toglando|Togo|Togo

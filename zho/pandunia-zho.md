@@ -333,8 +333,6 @@ dipe - 低
 dipe moka - 灌木  
 diske - 圆盘  
 disprosi yum - 镝  
-do - 到  
-do misal - 比如  
 dobe - 砖  
 dokumen - 文件  
 dokumen filme - 纪录片  
@@ -1321,6 +1319,7 @@ selulogi - 细胞学
 seme - 种  
 seme dana - 种子  
 seme di - 种子的  
+semilogi - 语义学  
 semon - 彼此  
 sene - 年岁  
 seng - 生的  
@@ -1422,6 +1421,8 @@ tire yo pil - 削 (刮去)
 tis - 炎症  
 tisa - 九 (9)  
 titan yum - 钛  
+to - 到  
+to misal - 比如  
 tocu - 接触  
 tomate - 西红柿  
 • jivatomi - 活体解剖  

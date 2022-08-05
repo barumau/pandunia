@@ -369,8 +369,6 @@ dipe moka - куст
 dipe tela - ковёр  
 diske - диск  
 disprosi yum - диспрозий  
-do long - далеко  
-do misal - например  
 dobe - кирпич  
 dokumen - документ  
 dokumen filme - документальный фильм  
@@ -1481,6 +1479,8 @@ selulogi - цитология
 seme - семя  
 seme di - семенной  
 semente - цемент  
+semiforar - семафор  
+semilogi - семантика  
 semon - друг друга  
 sene - возраст  
 seng - сырой  
@@ -1608,6 +1608,8 @@ tire yo pil - ободрать
 tis - воспаление  
 tisa - девять (9)  
 titan yum - титан  
+to long - далеко  
+to misal - например  
 tocu - касаться  
 tomate - помидор (томат)  
 • dutomi - дихотомия  

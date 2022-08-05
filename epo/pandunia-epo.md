@@ -444,8 +444,6 @@ diske - disko
 disprosi yum - disprozio  
 divan - freneza  
 divanta - frenezeco  
-do - al (ĝis, por)  
-do misal - ekzemple  
 dokumen - dokumento  
 dokumen filme - dokumentfilmo  
 dolar - dolaro  
@@ -1734,6 +1732,8 @@ selu - ĉelo
 selulogi - citologio  
 seme - semo  
 seme di - sema  
+semi - signifi  
+semilogi - semantiko  
 semon - unu la alian  
 semon su - reciproka  
 sene - aĝo  
@@ -1862,6 +1862,8 @@ tire - tiri
 tire yo milke - melki  
 titan yum - titanio  
 titi - mamo  
+to - al (ĝis, por)  
+to misal - ekzemple  
 tocu - tuŝi  
 tocu sense - senti  
 Togo - Toglando  

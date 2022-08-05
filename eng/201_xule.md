@@ -289,7 +289,7 @@ chief, boss
 **bon. cing salam tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi salam ya. sal live!**
+**mi salam ya. sal cuti!**
 = I will. Bye!  
 <big>☺</big>
 **sal ga!**
@@ -459,7 +459,7 @@ some, a(n)
 **tu ne?**
 = And you?  
 <big>☹</big>
-**mi no baxe pandunia...**
+**mi no baxa pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
 **maf! sual ya yam cai?**
@@ -515,7 +515,7 @@ Of course common and proper nouns can also be used.
 = Does the chief drink coffee?  
 **sual papa safe kamar?**
 = Does the father clean the room?  
-**sual niki baxe pandunia?**
+**sual niki baxa pandunia?**
 = Does Nicky speak Pandunia?
 
 
@@ -572,7 +572,7 @@ after
 pardon, sorry  
 **minute**
 minute  
-**baxe**
+**baxa**
 speak a language  
 **ne**
 sentence-ending tag for asking the other's point of view  
@@ -592,8 +592,8 @@ yes
 
 ### Answers to the Exercises
 
-1. sual tu baxe pandunia?
-2. ye. mi baxe pandunia.
+1. sual tu baxa pandunia?
+2. ye. mi baxa pandunia.
 3. sual mama yam kafe?
 4. no. ya no yam kafe.
 5. sual ya yam supe?

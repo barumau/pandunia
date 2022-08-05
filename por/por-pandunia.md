@@ -1215,7 +1215,7 @@ pomar - frute bagi
 ponta (pico, bico) - pike  
 ponta do dedo - angul pike  
 ponte - kio  
-por exemplo - do misal  
+por exemplo - to misal  
 por muito tempo - long dur  
 porcelana - cini  
 portar - porte  
@@ -1427,6 +1427,7 @@ sem - hin
 sem nome - nam hin  
 semente - seme  
 seminal - seme di  
+semântica - semilogi  
 senador - supra vakil ja  
 sentido - sense  
 sepultura (túmulo, enterrar) - gabur  
@@ -1437,6 +1438,7 @@ sete (7) - ceti
 sexo - jinse  
 sexologia - sexelogi  
 sexta-feira - den lima  
+significar (querer dizer) - semi  
 silício - silis  
 sim - ya  
 simetria - sam metre  

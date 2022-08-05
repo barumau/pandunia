@@ -630,7 +630,7 @@ empreinte de pied - fute marke
 empreinte digitale - angul marke  
 empruntre - jeka na  
 en arrière - retro  
-en avant - do jin  
+en avant - to jin  
 en ligne - a lin  
 enclume - metal bede  
 encre - kalam sui  
@@ -995,7 +995,7 @@ livre - buku
 livre de bord - loge buku  
 local - loka di  
 loin (hors, parti) - for  
-loin - do long  
+loin - to long  
 long - long  
 longtemps - long dur  
 loquace - loga tabi di  
@@ -1271,7 +1271,7 @@ papier - kaguji
 papier peint - mur kaguji  
 papillon - pelpel  
 paquet - pake  
-par exemple - do misal  
+par exemple - to misal  
 paramètre - param  
 parapluie - xava cati  
 parc - parke  
@@ -1624,6 +1624,7 @@ Shiva - xiva
 shopping - xopi  
 si - gar  
 signer - nam kitabu  
+signifier (voiloir dire) - semi  
 silex - hogo seku  
 silicium - silis  
 simulation - sam sifa xe  
@@ -1667,6 +1668,8 @@ syllabe - loga fen
 symbole - simbol  
 symétrie - sam metre  
 sélénium - selen yum  
+sémantique - semilogi  
+sémaphore - semiforar  
 séminal - seme di  
 sénateur - supra vakil ja  
 série - seri  

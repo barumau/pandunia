@@ -94,9 +94,9 @@ The distal demonstrative
 **vo**
 points to things that are far from the speaker.
 
-**tu vol vo buke, he?**
+**tu vol vo buku, he?**
 – Do you want that book?  
-**no, mi vol yi buke, no vo.**
+**no, mi vol yi buku, no vo.**
 – No, I want this book, not that.
 The demonstratives can serve as subjects and objects in the same way as nouns.
 

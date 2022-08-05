@@ -337,7 +337,6 @@ diorite - diorito
 dipe moka - arbusto (mata)  
 diske - disco  
 disprosi yum - disprósio  
-do misal - por exemplo  
 dobe - tijolo  
 dokumen - documento  
 dokumen filme - documentário  
@@ -1385,6 +1384,8 @@ selen yum - selénio
 selulogi - citologia  
 seme - semente  
 seme di - seminal  
+semi - significar (querer dizer)  
+semilogi - semântica  
 semon - um ao outro  
 sene - idade  
 sene di - idoso (sene)  
@@ -1483,6 +1484,7 @@ tis - inflamaçao
 tisa - nove (9)  
 titan yum - titânio  
 titi - seio (mama)  
+to misal - por exemplo  
 tomate - tomate  
 • dutomi - dicotomia  
 • jivatomi - vivisecção  

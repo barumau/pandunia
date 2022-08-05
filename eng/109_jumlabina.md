@@ -149,11 +149,11 @@ which indicates a modality such as desire, permission or obligation.
 There can be two, three or even more verbs in a series,
 and all of them are about the same subject.
  
-1. **mi ga ta dom.**
+1. **mi ga to dom.**
    – I go home.  
-2. **mi bil ga ta dom.**
+2. **mi bil ga to dom.**
    – I can go home.  
-3. **mi vol bil ga ta dom.**
+3. **mi vol bil ga to dom.**
    – I want to be able to go home.
    (Word for word: _I want can go home_!)
 
@@ -185,9 +185,9 @@ This is done especially in commands and requests.
 
 ### Short pivot structure (VVO)
 
-**mi cing tu lai ta dom.**
+**mi cing tu lai to dom.**
 – I ask you to come home.  
-**cing lai ta dom!**
+**cing lai to dom!**
 – Please come home!
 (Word for word: _Request come home!_)
 
@@ -311,40 +311,40 @@ and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**la buke, jo la jen fa kitabe, pade.**
+**la buku, jo la jen fa kitabu, pada.**
 – The book, which the person writes, falls.
 
 It is possible to leave also **jo** out.
 This structure is called _reduced relative clause_.
 
-**la buke, la jen fa kitabe, pade.**
+**la buku, la jen fa kitabu, pada.**
 – The book the person writes falls.
 
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**la jen, jo fa kitabe la buke, pade.**
+**la jen, jo fa kitabu la buku, pada.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**la kalam, na jo la jen fa kitabe la buke, pade.**
+**la kalam, na jo la jen fa kitabu la buku, pada.**
 – The pen, with _which_ the person writes the book, falls.  
-**la kalam, la jen fa kitabe la buke a, pade.**
+**la kalam, la jen fa kitabu la buku a, pada.**
 – The pen the person writes the book with falls.
 
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jen, mi vide jo fa kitabe la buke, pade.**
+**la jen, mi vide jo fa kitabu la buku, pada.**
 – The person, whom I see write the book, falls.  
-**la jen, mi vide fa kitabe la buke, pade.**
+**la jen, mi vide fa kitabu la buku, pada.**
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**la jen, mi fa kitabe la buke na jo su kalam, padu.**
+**la jen, mi fa kitabu la buku na jo su kalam, padu.**
 – The person whose pen I write the book with falls.
 
 
@@ -375,14 +375,14 @@ The content clause marker
 **ki**
 can be combined to the prepositions in order to construct conjunctions of cause and purpose.
 
-**ta ki**
+**to ki**
 – so that, in order that, with the result that  
 **de ki**
 – because, for the reason that
 
-**mi duku yi buke _do ki_ mi transe la teste.**
+**mi duku yi buku _do ki_ mi transe la teste.**
 – I read this book so that I will pass the test.  
-**mi le transe la teste _ze ki_ mi duku la buke.**
+**mi le transe la teste _ze ki_ mi duku la buku.**
 – I have passed the test because I read the book.
 
 
@@ -636,7 +636,7 @@ is used to introduce a statement.
 It can fill a pause, particularly at the beginning of a response to a question.
 It can also introduce a statement that may be contrary to expectations.
 
-**tu kitabe ya, he? – na, no le.**
+**tu kitabu ya, he? – na, no le.**
 – Did you write it? – Well, not yet.  
 **ya bon, ne? – na, ye.**
 – It's good, isn't it? – Well, yes.

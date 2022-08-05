@@ -288,8 +288,6 @@
 **diske** *disko* ← angla:turka:disk, franca:disque, hispana:portugala:disco, rusa:диск (disk), hindia:डिस्क (ḍisk), bengala:ডিস্ক (ḑisk), japana:ディスク (disuku), korea:디스크 (diseukeu)  
 **disprosi yum** *disprozio* ← angla:dysprosium, franca:dysprosium, hispana:disprosio, portugala:disprósio, rusa:диспрозий, mandarena:镝 (dī), japana:ジスプロシウム, korea:디스프로슘, vjetnama:đysprosi, hindia:डिस्प्रोसियम, bengala:ডিসপ্রোসিয়াম, malaja:disprosium, svahila:disprosi, araba: ديسبروسيوم  
 **divan** *freneza* ← persa: دیوانه‎ (divâne), hindia:दीवाना (dīvānā), bengala:দেওয়ানা (devana) + mandarena:癫 (diān), kantona:癲 (din1), vjetnama:điên, japana:癲 (ten)  
-**dixa** ** ← hindia:marataja:दिशा (diśā), urdua:(diśā), malajala:ദിശ (diśa), kmera:ទិស (tɨh), tha:ทิศทาง (tit-taang)  
-**do** *al (ĝis, por)* ← rusa:до (do) polona:do + mandarena:到 (dào), kantona:到 (dou3)  
 **dobe** ** ← araba:طوبةطوبة (ṭūba), amhara:ጡብ (ṭub), deu:angla:franca:hispana:portugala:adobe  
 **dokumen** *dokumento* ← angla:franca:document, hispana:portugala:documento, rusa:документ (dokument), japana:ドキュメント (dokyumento), malaja:dokumen, turka:doküman  
 **dolfin** *delfeno* ← greka:δελφίνια (delphínia), angla:dolphin, hispana:delfín, portugala:delfim, rusa:дельфин (del’fin), araba:دلفين (dulfin), japana:ドルフィン (dorufin), bengala:ডলফিন (ḍalaphina), hindia:डॉल्फ़िन (ḍŏlfin)  
@@ -1446,6 +1444,7 @@
 **tisa** ** ← araba: تِسْعَة‎ (tisʿa), svahila:tisa  
 **titan yum** *titanio* ← angla:titanium, franca:titane, hispana:titanio, portugala:titânio, rusa:титан, mandarena:钛 (tài), japana:チタン, korea:타이타늄, vjetnama:titan, hindia:टाइटानियम, bengala:টাইটেনিয়াম, malaja:titanium, svahila:titani, araba: تيتانيوم  
 **titi** *mamo* ← angla:tit, franca:tété, hispana:teta, rusa:титьки (tit’ki), araba:ثَدْي‎ (ṯady), svahila:titi, malaja:tetek, japana:乳 (chichi)  
+**to** *al (ĝis, por)* ← rusa:до (do) polona:do + mandarena:到 (dào), kantona:到 (dou3) + angla:to + persa: تا‎ (tâ), hindia:-तक (-tak)  
 **tocu** *tuŝi* ← angla:touch, hispana: tocar, + hindia: छूना (chūnā) + mandarena: 触 (chù), kantona:觸 (cuk1), korea:촉 (chok)  
 **tolera** ** ← angla:tolerate, hispana:portugala:tolerar, franca:tolérer, deu:tolerieren  
 **tomate** *tomato* ← angla:tomato, portugala:hispana:tomate, deu:Tomate, rusa:томат (tomat), turka:domates, zulua:utamatisi, malaja:tomat, hindia:टमाटर (ṭamāṭar), bengala:টম্যাটো (ṭamyāṭo), japana:トマト (tomato), korea:토마토 (tomato)  

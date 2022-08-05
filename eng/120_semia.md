@@ -104,8 +104,8 @@ The base word refers to a human-made object.
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **kitabe** | 'writing'    | 'written'        | 'to write' |
-| **fikre**  | 'thought'    | 'of thinking'    | 'to think' |
+| **kitabu** | 'writing'    | 'written'        | 'to write' |
+| **fikir**  | 'thought'    | 'of thinking'    | 'to think' |
 
 
 

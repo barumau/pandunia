@@ -1,7 +1,7 @@
 # español–pandunia
 -idad - ta  
 -ésimo - me  
-a (hacia) - do  
+a (hacia) - to  
 
 ## A  
 
@@ -63,7 +63,7 @@ acuario (pecera) - pexe tanke
 acuerdo - sam rai  
 acumular - kumu  
 acuoso - sui di  
-adelante - do jin  
+adelante - to jin  
 además - e max  
 adhesivo - glu grafi  
 adicional (extra) - max di  
@@ -170,6 +170,7 @@ amasar (masajear) - fa masaje
 amateur (aficionado) - hobi ja  
 ambiental (ecológico, natural) - eko di  
 ambiguo - poli semi di  
+ambiguo - polisemi di  
 americano - Amerika di  
 americio - amerika yum  
 amhara - Amara  
@@ -1145,9 +1146,7 @@ dinosaurio - dino saur
 diorita - diorite  
 dios - deu  
 dirección - adres  
-dirección - dixa  
 dirección de IP - IP adres  
-directamente - dixa di  
 director de colegio - xula xefe  
 dirigente (líder) - lida ja  
 dirigir (mandar, conducir, capitanear) - lida  
@@ -1907,6 +1906,7 @@ Indonesia - Indonesi
 Indostán - Hindi dexa  
 indígena (indio) - asal Amerka jen  
 inequívoco - un semi di  
+inequívoco - unsemi di  
 infantil (inmaduro) - you  
 infección (contagio) - pati mise  
 infección - infete  
@@ -2118,7 +2118,7 @@ leer - duku
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele di  
 lejos (fuera) - for  
-lejos - do long  
+lejos - to long  
 lengua (idioma, hablar, comunicación) - baxa  
 lengua - lisan  
 lengua materna - gene baxa  
@@ -2998,7 +2998,7 @@ política - politi lona
 político (administrador) - politi ja  
 político - politi di  
 pomelo (toronja) - putau oranje  
-por ejemplo - do misal  
+por ejemplo - to misal  
 porcelana - cini  
 porno - porno  
 pornografía - porno grafi  
@@ -3421,6 +3421,8 @@ sello postal - posta cape
 semana - cetiden  
 semilla - seme  
 seminal - seme di  
+semáforo - semiforar  
+semántica - semilogi  
 senador - supra vakil ja  
 sencillo (liso) - sada  
 Senegal - Senegal  
@@ -3462,6 +3464,7 @@ Sierra Leona - Salon
 siete (7) - ceti  
 sigilo - sirta  
 significado (acepción) - mana  
+significar (querer decir) - semi  
 siguiente (trasero) - pos di  
 sij - siki din ja  
 sijismo - siki din  

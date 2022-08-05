@@ -481,7 +481,7 @@ diament - adamas
 dinozaur - dino saur  
 dioryt - diorite  
 dmuchać - fa hava  
-do, dopóki, dla - do  
+do, dopóki, dla - to  
 dobry - bon  
 dobry ... - salam di  
 dobry los, szczęście - bon zar  
@@ -1005,6 +1005,7 @@ jednoczyć - fa un xe
 jednokolorowy (monochromatyczny) - un rang di  
 jednostka miary - metre unta  
 jednoznaczny - un semi di  
+jednoznaczny - unsemi di  
 jedwab - silke  
 jedzenie, posiłek - yam xe  
 jej - yei  
@@ -1113,7 +1114,6 @@ keta - baku salmon
 kichać (apsik!) - aci  
 kiedy? - ke riti  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - fa kanal  
-kierunek - dixa  
 kieszeń - jebe  
 kiełbasa - sosis  
 kilof - pin cope  
@@ -1673,7 +1673,7 @@ młynarz - mol ja
 
 ## N  
 
-na przykład - do misal  
+na przykład - to misal  
 nabardziej, maksymalnie - maxim  
 nabywca (kupiec) - xopi ja  
 naciskać, zostawiać ślad - fa cape  
@@ -1704,7 +1704,7 @@ napierśnik - sine plate
 naprawa - xuli  
 naprawiacz - xuli ja  
 naprawić, naprawiać - fa xuli  
-naprzód - do jin  
+naprzód - to jin  
 narkotyk - droge  
 narkotyk - narko  
 narodowy (ludowy) - nasi di  
@@ -3252,6 +3252,7 @@ wielokulturowy - poli kultur di
 wielokąt (wielościan) - poli gona  
 wielonarodowy - poli nasi di  
 wieloznaczny - poli semi di  
+wieloznaczny - polisemi di  
 wielościan - poli fase  
 wieprzowina - goro nama  
 wiercić, borować - fora  
@@ -3312,7 +3313,6 @@ wosk - mum
 wosko lądowe (armia) - geo gun  
 wow!, łoł!, jej! - va  
 wołowina - mumu nama  
-wprost (bezpośrednio) - dixa di  
 wprostowywać (wyprostować) - fa orto  
 wrzesień - mes luka  
 wrócić, wracać, wycofać się, wycofywać się - be retro  
@@ -3568,6 +3568,7 @@ zmęczenie (wyczerpanie) - fatige
 znaczek pocztowy - posta cape  
 znaczenie - mana  
 znaczyć (liczyć się, być ważnym) - ham  
+znaczyć - semi  
 znak, sygnał - sin  
 znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureka  

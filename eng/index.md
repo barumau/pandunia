@@ -64,7 +64,7 @@ You can find Pandunia forums in several places:
 | Discord  | [Dedicated Pandunia server](https://discord.gg/aXDk9fbk58) | Everything |
 | Discord  | [pandunia-multilingual](https://discord.gg/FWavWeG) | Discussion. It's linked to the Telegram channel below. |
 | Telegram | [multilingual channel](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) | Discussion. It's linked to the Discord channel above. |
-| Telegram | [mimen loge pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Practicing. Only Pandunia is spoken here! |
+| Telegram | [mimen loga pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Practicing. Only Pandunia is spoken here! |
 | Telegram | [pandunia esperanto grupe](https://pandunia.telegramo.org/) | Discussion in Esperanto |
 | QQ       | 717549404 | Discussion in Chinese and other languages |
 

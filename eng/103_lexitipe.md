@@ -102,8 +102,8 @@ depending on its position in the sentence.
 
 **mi _ame_ tu.**
 – I _love_ you. (verb)  
-**tu fikre mi su _ame_.**
+**tu fikir mi su _ame_.**
 – You think about my _love_. (noun)  
-**mi kitabe un _ame_ anjil.**
+**mi kitabu un _ame_ anjil.**
 – I write a _love_ letter. (adjective)
 

@@ -288,8 +288,6 @@
 **diske** *disc (disk)* ← English:Turkish:disk, French:disque, Spanish:Portuguese:disco, Russian:диск (disk), Hindi:डिस्क (ḍisk), Bengali:ডিস্ক (ḑisk), Japanese:ディスク (disuku), Korean:디스크 (diseukeu)  
 **disprosi yum** *dysprosium* ← English:dysprosium, French:dysprosium, Spanish:disprosio, Portuguese:disprósio, Russian:диспрозий, Mandarin:镝 (dī), Japanese:ジスプロシウム, Korean:디스프로슘, Vietnamese:đysprosi, Hindi:डिस्प्रोसियम, Bengali:ডিসপ্রোসিয়াম, Malay:disprosium, Swahili:disprosi, Arabic: ديسبروسيوم  
 **divan** *mad (insane, crazy)* ← Persian: دیوانه‎ (divâne), Hindi:दीवाना (dīvānā), Bengali:দেওয়ানা (devana) + Mandarin:癫 (diān), Cantonese:癲 (din1), Vietnamese:điên, Japanese:癲 (ten)  
-**dixa** *direction* ← Hindi:Marathi:दिशा (diśā), Urdu:(diśā), Malayalam:ദിശ (diśa), Khmer:ទិស (tɨh), Thai:ทิศทาง (tit-taang)  
-**do** *to (toward, till, until, for)* ← Russian:до (do) Polish:do + Mandarin:到 (dào), Cantonese:到 (dou3)  
 **dobe** *brick* ← Arabic:طوبةطوبة (ṭūba), Amharic:ጡብ (ṭub), deu:English:French:Spanish:Portuguese:adobe  
 **dokumen** *document (record, file)* ← English:French:document, Spanish:Portuguese:documento, Russian:документ (dokument), Japanese:ドキュメント (dokyumento), Malay:dokumen, Turkish:doküman  
 **dolfin** *dolphin* ← Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)  
@@ -1446,6 +1444,7 @@
 **tisa** *nine (9)* ← Arabic: تِسْعَة‎ (tisʿa), Swahili:tisa  
 **titan yum** *titanium* ← English:titanium, French:titane, Spanish:titanio, Portuguese:titânio, Russian:титан, Mandarin:钛 (tài), Japanese:チタン, Korean:타이타늄, Vietnamese:titan, Hindi:टाइटानियम, Bengali:টাইটেনিয়াম, Malay:titanium, Swahili:titani, Arabic: تيتانيوم  
 **titi** *breast (boob, tit)* ← English:tit, French:tété, Spanish:teta, Russian:титьки (tit’ki), Arabic:ثَدْي‎ (ṯady), Swahili:titi, Malay:tetek, Japanese:乳 (chichi)  
+**to** *to (toward, till, until, for)* ← Russian:до (do) Polish:do + Mandarin:到 (dào), Cantonese:到 (dou3) + English:to + Persian: تا‎ (tâ), Hindi:-तक (-tak)  
 **tocu** *touch* ← English:touch, Spanish: tocar, + Hindi: छूना (chūnā) + Mandarin: 触 (chù), Cantonese:觸 (cuk1), Korean:촉 (chok)  
 **tolera** *tolerate* ← English:tolerate, Spanish:Portuguese:tolerar, French:tolérer, deu:tolerieren  
 **tomate** *tomato* ← English:tomato, Portuguese:Spanish:tomate, deu:Tomate, Russian:томат (tomat), Turkish:domates, Zulu:utamatisi, Malay:tomat, Hindi:टमाटर (ṭamāṭar), Bengali:টম্যাটো (ṭamyāṭo), Japanese:トマト (tomato), Korean:토마토 (tomato)  

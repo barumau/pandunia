@@ -829,14 +829,6 @@ disprosi yum - dysprosium
 divan - hullu (mieletön)  
 divanta - hulluus (mielettömyys)  
 Divehi - Malediivit  
-dixa - suunta  
-dixa di - suoraan  
-do - luokse (tykö, kohti, asti)  
-do in - sisäänpäin  
-do jin - eteen päin  
-do long - pitkästi (kauas)  
-do misal - esimerkiksi  
-do vai - ulkoinen  
 dobe - tiili  
 Doice - Saksa  
 doice di - saksalainen  
@@ -3387,6 +3379,11 @@ seme - siemen
 seme dana - siemenjyvä  
 seme di - siemen-  
 semente - sementti  
+semi - merkitä (tarkoittaa)  
+• polisemi di - monimerkityksinen (polyseeminen)  
+• unsemi di - yksimerkityksinen  
+semilogi - merkitysoppi (semantiikka)  
+semima - semeemi  
 semon - toisiaan (toinen toistaan)  
 semon su - molemminpuolinen (keskinäinen)  
 sene - ikä  
@@ -3655,6 +3652,12 @@ Titan - Titan
 titan yum - titaani  
 Titania - Titania  
 titi - nisä (tissi)  
+to - luokse (tykö, kohti, asti)  
+to in - sisäänpäin  
+to jin - eteen päin  
+to long - pitkästi (kauas)  
+to misal - esimerkiksi  
+to vai - ulkoinen  
 tocu - koskea (koskettaa)  
 tocu sense - tuntea  
 Togo - Togo  

@@ -448,9 +448,6 @@ dipe - bas
 dipe moka - buisson  
 diske - disque  
 disprosi yum - dysprosium  
-do jin - en avant  
-do long - loin  
-do misal - par exemple  
 dobe - brique  
 dokumen - document (dossier)  
 dokumen filme - documentaire  
@@ -1614,6 +1611,9 @@ selge - blettes (bettes)
 selulogi - cytologie  
 seme - semence  
 seme di - séminal  
+semi - signifier (voiloir dire)  
+semiforar - sémaphore  
+semilogi - sémantique  
 semon - l'un l'autre  
 sene - âge  
 seng - cru  
@@ -1727,6 +1727,9 @@ tis - inflammation
 tisa - neuf (9)  
 titan yum - titane  
 titi - sein  
+to jin - en avant  
+to long - loin  
+to misal - par exemple  
 tocu - toucher  
 tomate - tomate  
 • dutomi - dichotomie  

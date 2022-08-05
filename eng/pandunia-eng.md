@@ -859,14 +859,6 @@ disprosi yum - dysprosium
 divan - mad (insane, crazy)  
 divanta - madness (insanity)  
 Divehi - Maldives  
-dixa - direction  
-dixa di - directly  
-do - to (toward, till, until, for)  
-do in - inward (internal)  
-do jin - forward  
-do long - long (over a gread distance)  
-do misal - for example  
-do vai - outward (external)  
 dobe - brick  
 Doice - Germany  
 doice di - German  
@@ -3748,6 +3740,12 @@ seme - seed (semen)
 seme dana - seed (fertilized grain)  
 seme di - seminal  
 semente - cement  
+semi - mean (signify)  
+• polisemi di - ambiguous (polysemous)  
+• unsemi di - unambiguous  
+semiforar - semaphore  
+semilogi - semantics  
+semima - sememe  
 semon - each other (one another, mutually)  
 semon su - mutual (each other’s)  
 sene - age  
@@ -4056,6 +4054,12 @@ Titan - Titan
 titan yum - titanium  
 Titania - Titania  
 titi - breast (boob, tit)  
+to - to (toward, till, until, for)  
+to in - inward (internal)  
+to jin - forward  
+to long - long (over a gread distance)  
+to misal - for example  
+to vai - outward (external)  
 tocu - touch  
 tocu sense - feel (sense by touch)  
 Togo - Togo  

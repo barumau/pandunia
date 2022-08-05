@@ -662,11 +662,6 @@ disprosi yum - dysproz
 divan - szalony  
 divanta - szaleństwo  
 Divehi - Malediwy (Republika Malediwów)  
-dixa - kierunek  
-dixa di - wprost (bezpośrednio)  
-do - do, dopóki, dla  
-do jin - naprzód  
-do misal - na przykład  
 dobe - cegła  
 Doice - Niemcy  
 doice di - niemiecki  
@@ -3068,6 +3063,9 @@ seme - ziarno (nasienie)
 seme dana - ziarno, nasienie  
 seme di - nasienny  
 semente - cement  
+semi - znaczyć  
+• polisemi di - wieloznaczny  
+• unsemi di - jednoznaczny  
 semon - się (nawzajem, wzajemnie)  
 semon su - wzajemny  
 sene - wiek  
@@ -3325,6 +3323,9 @@ tire yo pil - obrać (obierać)
 tis - zapalenie  
 tisa - dziewięć (9)  
 titan yum - tytan  
+to - do, dopóki, dla  
+to jin - naprzód  
+to misal - na przykład  
 tocu - dotyczyć  
 tocu sense - czuć  
 Togo - Togo  

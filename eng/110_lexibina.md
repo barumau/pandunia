@@ -23,13 +23,13 @@ For example, the word **hali** can function equally as an adjective (_blank_ or 
 **tu mus hali vo lexi.**
 – You must blank out that word.
 
-Likewise, the word **kitabe** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
+Likewise, the word **kitabu** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**mi kitabe letre.**
+**mi kitabu letre.**
 – I write a letter.  
-**letre e kitabe misaje.**
+**letre e kitabu misije.**
 – A letter is a written message.  
-**mi ame tu su kitabe.**
+**mi ame tu su kitabu.**
 – I love your writings.
 
 

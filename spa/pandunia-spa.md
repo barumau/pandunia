@@ -726,12 +726,6 @@ disprosi yum - disprosio
 divan - demente (loco, insensato)  
 divanta - demencia (locura)  
 Divehi - Maldivas  
-dixa - dirección  
-dixa di - directamente  
-do - a (hacia)  
-do jin - adelante  
-do long - lejos  
-do misal - por ejemplo  
 dobe - ladrillo  
 Doice - Alemania  
 doice di - alemán  
@@ -3301,6 +3295,11 @@ seme - semilla
 seme dana - pepita  
 seme di - seminal  
 semente - cemento  
+semi - significar (querer decir)  
+• polisemi di - ambiguo  
+• unsemi di - inequívoco  
+semiforar - semáforo  
+semilogi - semántica  
 semon - el uno al otro (mutuamente)  
 semon su - mutuo (recíproco)  
 sene - edad  
@@ -3577,6 +3576,10 @@ tis - inflamación
 tisa - nueve (9)  
 titan yum - titanio  
 titi - seno (teta)  
+to - a (hacia)  
+to jin - adelante  
+to long - lejos  
+to misal - por ejemplo  
 tocu - tocar (rozar)  
 tocu sense - palpar (tocar)  
 Togo - Togo  

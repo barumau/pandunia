@@ -194,7 +194,7 @@ As you can see, the same word is written and pronounced differently in different
 This is typical of international words.
 They get adapted in almost every language to their own spelling system.
 Likewise it is necessary to adapt this word to the spelling and pronunciation rules of Pandunia.
-So the Pandunia word for language becomes **baxe**.
+So the Pandunia word for language becomes **baxa**.
 
 ### Western words
  
@@ -220,7 +220,7 @@ form that sounds familiar to speakers of as many languages as possible.
 | Pandunia word | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
 | **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
+| **neu**       | new        | novo       | nuevo      | nouveau    | neu        | novîy      |
 | **marce**     | march      | marcha     | marcha     | marche     | Marsch     | marš       |
 | **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
@@ -252,7 +252,7 @@ a normal PoS suffix.
 | 心 | **xim**       | sam        | xīn        | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén        | mon        | mun        | (môn)      |
 | 讀 | **duge**      | duk        | dú         | doku       | dok        | đọc        |
-| 出 | **cute**      | cœt        | chū        | shutsu     | chul       | xuất       |
+| 出 | **cuti**      | cœt        | chū        | shutsu     | chul       | xuất       |
 
 Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, but it is nothing new
 – Sinitic words are already inflected in Korean!
@@ -278,7 +278,7 @@ Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, bu
 | Wu         | bi           | 啤(酒)            |
 | Mandarin   | pʰi          | 啤(酒)            |
 
-#### ca 'tea'
+#### cai 'tea'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -327,7 +327,7 @@ Applying the suffixes of Pandunia to Sinitic roots may seem unusual at first, bu
 | Kongo      | bande:la     | bandêla         |
 
 
-#### kamize 'shirt'
+#### kamiza 'shirt'
 
 | Language   | Spoken word  | Written word    |
 |------------|--------------|-----------------|
@@ -434,7 +434,7 @@ The word **jen** is combined from several unrelated sources.
     - Urdu کمرا  /kəmra:/ (room)
     - Malay "kamar" (room)
 
-#### kata 'to cut'
+#### gata 'to cut'
 
 - the West
     - English "cut" /kʌt/
@@ -442,6 +442,7 @@ The word **jen** is combined from several unrelated sources.
     - Hindi काटना /katna:/
     - Bengali কাটা /kata/
 - Africa
+    - Arabic قَطَعَ /qaṭa’a/
     - Swahili "-kata"
 - East Asia
     - Wu Chinese 隔 /kɐʔ/

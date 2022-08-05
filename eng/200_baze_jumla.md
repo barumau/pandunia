@@ -655,28 +655,28 @@ I can speak a little Pandunia.
 **mi no bil englix.**
 I can't speak English.
 
-**maf. mi no bil tu su baxe.**
+**maf. mi no bil tu su baxa.**
 Sorry, I can't speak your language.
 
 
-### loge <small>to say, speak, talk</small>
+### loga <small>to say, speak, talk</small>
 
-**tu loge ke?**
+**tu loga ke?**
 What did you say?
 
-**mi loge ta tu.**
+**mi loga to tu.**
 I talk to you.
 
-**mimen loge ta semen.**
+**mimen loga to semen.**
 We talk to each other.
 
-**men loge "cat" a ke yang a pandunia?**
+**men loga "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" si ke a pandunia?**
 What is "cat" in Pandunia?
 
-**mau loge miau.**
+**mau loga miau.**
 Cat says meow.
 
 
@@ -688,7 +688,7 @@ Listen to me!
 **mi no bil aude tu.**
 I can't hear you.
 
-**cing loge max like.**
+**cing loga max bala.**
 Please speak louder.
 
 **mi aude muzike.**
@@ -713,39 +713,39 @@ See you tomorrow!
 I saw him/her yesterday.
 
 
-### seme <small>to mean</small>
+### semi <small>to mean</small>
 
-**yi lexe ye seme ke?**
+**yi lexi ye semi ke?**
 What does this word mean?
 
-**"mau" ye seme ke?**
+**"mau" ye semi ke?**
 What does "mau" mean?
 
-**ya seme un yang de zoe.**
+**ya semi un yang de hevan.**
 It means a kind of animal.
 
-**mi no aha ya seme ke.**
+**mi no aha ya semi ke.**
 I don't understand what it means.
 
 
-### kitabe <small>write</small>
+### kitabu <small>write</small>
 
-**cing kitabe tu su adres.**
+**cing kitabu tu su adres.**
 Please, write your address.
 
-**cing kitabe ya a yi.**
+**cing kitabu ya a yi.**
 Please, write it here!
 
 
-### baxe <small>speak a language, communicate</small>
+### baxa <small>speak a language, communicate</small>
 
-**sual tumen baxe pandunia.**
+**sual tumen baxa pandunia.**
 Do you speak Pandunia?
 
-**mimen baxe pandunia.**
+**mimen baxa pandunia.**
 We speak Pandunia.
 
-**sual tu bil baxe englix?**
+**sual tu bil baxa englix?**
 Can you speak English?
 
 **franse, espanya, portugal, rus**
@@ -774,7 +774,7 @@ I'm going home.
 **mi mus ga ke?**
 Where should I go?
 
-**mi mus ga ta ke jen?**
+**mi mus ga to ke jen?**
 To whom should I go?
 
 **haida ga!**
@@ -804,7 +804,7 @@ I will come home tomorrow.
 **sual tu safar a tren?**
 Do you travel by train?
 
-**mimen safar de London ta Paris.**
+**mimen safar de London to Paris.**
 We travel from London to Paris.
 
 **safar tre long.**
@@ -862,7 +862,7 @@ Wait for me!
 **yamen dele mimen.**
 They wait for us.
 
-**mi dele ta tu a hotel.**
+**mi dele to tu a hotel.**
 I wait for you in the hotel.
 
 
@@ -937,16 +937,16 @@ He or she will be at home.
 **cing don yo pesa.**
 Please give some money.
 
-**cing don ya ta mi.**
+**cing don ya to mi.**
 Please give it to me.
 
-**mi don yi ta tu.**
+**mi don yi to tu.**
 I give this to you.
 
-**mi don buke ta yamen.**
+**mi don buke to yamen.**
 I give a book to them.
 
-**ya no vol don ya ta mi.**
+**ya no vol don ya to mi.**
 He/she doesn't want to give it to me.
 
 
@@ -955,7 +955,7 @@ He/she doesn't want to give it to me.
 **mi kape un kafe.**
 I will take a coffee.
 
-**cing kape un kafe ta mi.**
+**cing kape un kafe to mi.**
 Please take one coffee for me.
 
 **tu pas kape pesa de mi.**
@@ -979,7 +979,7 @@ I want to take a car for rent.
 **mi vol kire kape un kar.**
 I want to rent a car.
 
-**ya kire don la kamar ta safarer.**
+**ya kire don la kamar to safarer.**
 He/she rents rooms to travelers.
 
 
@@ -1033,7 +1033,7 @@ Come here / back / to us.
 **mi xule la pandunia.**
 I study Pandunia.
 
-**xou ya ta mi a logobuke!**
+**xou ya to mi a lexibuku!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.

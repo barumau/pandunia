@@ -318,7 +318,6 @@ dipe moka - 灌木 (藪)
 dipe tela - 絨毯 (カーペット)  
 diske - ディスク (円盤)  
 disprosi yum - ジスプロシウム  
-do misal - 例えば  
 dobe - レンガ (磚)  
 dokumen - 書類 (文書, ドキュメント)  
 dokumen filme - ドキュメンタリー  
@@ -1370,6 +1369,7 @@ sekur nume - 暗証番号
 selen yum - セレン  
 selge - フダンソウ (スイスチャード)  
 seme dana - 種  
+semilogi - 意味論  
 sene - 年齢  
 seng - 生の  
 seng varis - 米  
@@ -1472,6 +1472,7 @@ tire kane - レバー (てこ)
 tire yo pil - はがす (剥ぐ)  
 tisa - 九 (9)  
 titan yum - チタン  
+to misal - 例えば  
 Tokyo - 東京  
 • jivatomi - 生体解剖  
 • tritomi - 三分法  

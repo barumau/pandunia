@@ -288,8 +288,6 @@
 **diske** *kiekko (levy)* ← englanti:turkki:disk, ranska:disque, espanja:portugali:disco, venäjä:диск (disk), hindi:डिस्क (ḍisk), bangla:ডিস্ক (ḑisk), japani:ディスク (disuku), korea:디스크 (diseukeu)  
 **disprosi yum** *dysprosium* ← englanti:dysprosium, ranska:dysprosium, espanja:disprosio, portugali:disprósio, venäjä:диспрозий, yleiskiina:镝 (dī), japani:ジスプロシウム, korea:디스프로슘, vietnami:đysprosi, hindi:डिस्प्रोसियम, bangla:ডিসপ্রোসিয়াম, malaiji:disprosium, suahili:disprosi, arabia: ديسبروسيوم  
 **divan** *hullu (mieletön)* ← persia: دیوانه‎ (divâne), hindi:दीवाना (dīvānā), bangla:দেওয়ানা (devana) + yleiskiina:癫 (diān), kantoninkiina:癲 (din1), vietnami:điên, japani:癲 (ten)  
-**dixa** *suunta* ← hindi:marathi:दिशा (diśā), urdu:(diśā), malayalam:ദിശ (diśa), khmer:ទិស (tɨh), thai:ทิศทาง (tit-taang)  
-**do** *luokse (tykö, kohti, asti)* ← venäjä:до (do) puola:do + yleiskiina:到 (dào), kantoninkiina:到 (dou3)  
 **dobe** *tiili* ← arabia:طوبةطوبة (ṭūba), amhara:ጡብ (ṭub), deu:englanti:ranska:espanja:portugali:adobe  
 **dokumen** *asiakirja (dokumentti, tiedosto)* ← englanti:ranska:document, espanja:portugali:documento, venäjä:документ (dokument), japani:ドキュメント (dokyumento), malaiji:dokumen, turkki:doküman  
 **dolfin** *delfiini* ← kreikka:δελφίνια (delphínia), englanti:dolphin, espanja:delfín, portugali:delfim, venäjä:дельфин (del’fin), arabia:دلفين (dulfin), japani:ドルフィン (dorufin), bangla:ডলফিন (ḍalaphina), hindi:डॉल्फ़िन (ḍŏlfin)  
@@ -1446,6 +1444,7 @@
 **tisa** *yhdeksän* ← arabia: تِسْعَة‎ (tisʿa), suahili:tisa  
 **titan yum** *titaani* ← englanti:titanium, ranska:titane, espanja:titanio, portugali:titânio, venäjä:титан, yleiskiina:钛 (tài), japani:チタン, korea:타이타늄, vietnami:titan, hindi:टाइटानियम, bangla:টাইটেনিয়াম, malaiji:titanium, suahili:titani, arabia: تيتانيوم  
 **titi** *nisä (tissi)* ← englanti:tit, ranska:tété, espanja:teta, venäjä:титьки (tit’ki), arabia:ثَدْي‎ (ṯady), suahili:titi, malaiji:tetek, japani:乳 (chichi)  
+**to** *luokse (tykö, kohti, asti)* ← venäjä:до (do) puola:do + yleiskiina:到 (dào), kantoninkiina:到 (dou3) + englanti:to + persia: تا‎ (tâ), hindi:-तक (-tak)  
 **tocu** *koskea (koskettaa)* ← englanti:touch, espanja: tocar, + hindi: छूना (chūnā) + yleiskiina: 触 (chù), kantoninkiina:觸 (cuk1), korea:촉 (chok)  
 **tolera** *sallia* ← englanti:tolerate, espanja:portugali:tolerar, ranska:tolérer, deu:tolerieren  
 **tomate** *tomaatti* ← englanti:tomato, portugali:espanja:tomate, deu:Tomate, venäjä:томат (tomat), turkki:domates, zulu:utamatisi, malaiji:tomat, hindi:टमाटर (ṭamāṭar), bangla:টম্যাটো (ṭamyāṭo), japani:トマト (tomato), korea:토마토 (tomato)  

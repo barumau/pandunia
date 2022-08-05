@@ -448,7 +448,7 @@ Eris (kääpiöplaneetta) - Eris
 Eritrea - Eritra  
 erottaa (nähdä ero) - fa has  
 erä (satsi) - lote  
-esimerkiksi - do misal  
+esimerkiksi - to misal  
 esimerkki - misal  
 esine (tavara) - vutu  
 Espanja - Espanya  
@@ -457,7 +457,7 @@ esperanto - esperanto
 essee - esai  
 este - bara mur  
 estää kulku (tukkia tie) - bara  
-eteen päin - do jin  
+eteen päin - to jin  
 etelä - sude  
 Etelä-Afrikka - Sude Afrika  
 Etelä-Amerikka - Sude Amerika  
@@ -1774,7 +1774,7 @@ luodinkestävä - dana sekur
 luokitella (kategorisoida) - fa klas  
 luokka (kategoria) - klas  
 luokkahuone - xula kamar  
-luokse (tykö, kohti, asti) - do  
+luokse (tykö, kohti, asti) - to  
 luola - gua  
 luolaseikkailu - donjon ventur  
 luona (-lla, -ssa) - a  
@@ -1980,7 +1980,9 @@ merirosvous - pirate
 merivoimat (sotalaivasto) - hai gun  
 merivuokko - hai hua  
 merkitys - mana  
+merkitysoppi (semantiikka) - semilogi  
 merkitä (jättää jälki) - fa marke  
+merkitä (tarkoittaa) - semi  
 merkki (jälki) - marke  
 merkki (signaali) - sin  
 Merkurius - Merkur  
@@ -2037,6 +2039,7 @@ monikansallinen - poli nasi di
 monikielinen - poli baxa di  
 monikielinen - polibaxaka  
 monikulmio (polygoni) - poli gona  
+monimerkityksinen (polyseeminen) - polisemi di  
 monimerkityksinen - poli semi di  
 moninkertainen - multiple  
 monismi - un xe sim  
@@ -2554,7 +2557,7 @@ pitkittäinen - ging
 pitkä - long  
 pitkäaikainen (pitkäkestoinen) - long dur di  
 pitkäpippuri - long pipre  
-pitkästi (kauas) - do long  
+pitkästi (kauas) - to long  
 pitkästynyt - bori di  
 pitsa (pizza) - piza  
 pitseria - pizakan  
@@ -3023,6 +3026,7 @@ seleeni - selen yum
 selkeyttää (selittää) - fa klar  
 selkä - ruke  
 selvä (selkeä) - klar  
+semeemi - semima  
 sementti - semente  
 senaattori - supra vakil ja  
 Senegal - Senegal  
@@ -3097,7 +3101,7 @@ sisältö - in xe
 sisäsyntyinen - in gene di  
 sisäsyntyinen - innati  
 sisäänkäynti - jin mun  
-sisäänpäin - do in  
+sisäänpäin - to in  
 sisäänpäinsuuntautunut (introvertti) - in verse jen  
 sisäänpäinsuuntautunut (introvertti) - intraversi  
 sitoa - fa bande  
@@ -3200,7 +3204,6 @@ suolakurkku (etikkakurkku) - acar hiyar
 suomen kieli - suomi baxa  
 Suomi - Suomi  
 suora - orto  
-suoraan - dixa di  
 suorakulma (oikokulma) - orto gona  
 suorakulmainen - orto gona di  
 suoristaa (ojentaa) - fa orto  
@@ -3222,7 +3225,6 @@ suukko (pusu) - cum
 suulaki (kitalaki) - bokacati  
 suunnitella - fa plan  
 suunnitelma - plan  
-suunta - dixa  
 suurkaupunki - dai siti  
 suuruus (koko) - daita  
 suutari - sapatu ja  
@@ -3640,7 +3642,7 @@ uhri (uhraus) - kurban
 ukkosmyrsky - grom tafun  
 Ukraina - Ukraina  
 ulko- (ulkoinen) - vai di  
-ulkoinen - do vai  
+ulkoinen - to vai  
 ulkomaa - vai dexa  
 ulkomaalainen - vai dexa di  
 ulkona (ulkopuolella) - a vai  
@@ -4018,6 +4020,7 @@ ykseys - unta
 yksi (1) - un  
 yksikielinen - unbaxaka  
 yksimerkityksinen - un semi di  
+yksimerkityksinen - unsemi di  
 yksinkertainen (mutkaton) - simple  
 yksinpuhelu (monologi) - auto loga  
 yksinvaltius (autokratia, monarkia) - auto krati  
