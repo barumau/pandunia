@@ -1885,7 +1885,8 @@ xuru - début (commencement)
 
 ## Y  
 
-ya - oui  
+ya - il ou elle  
+yamen - ils ou elles  
 yamen su - leur  
 Yahve - Yahweh (Jéhovah)  
 yam fito - légume  
@@ -1896,6 +1897,7 @@ yatim dom - orphelinat
 • anyau di - inutile  
 yau di - nécessaire  
 yauta - besoin  
+ye - oui  
 yeka kanon - Yi King  
 yen - œil  
 yen di - oculaire  

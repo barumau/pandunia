@@ -1609,7 +1609,6 @@ xux - しーっ
 
 ## Y  
 
-ya - はい  
 Yahve - ヤハウェ (エホバ)  
 yam - 食べる  
 yam liste - メニュー (献立)  
@@ -1621,6 +1620,7 @@ yau - 要る
 • anyau di - 不要  
 yau di - 必要  
 yauta - 必要  
+ye - はい  
 yeka kanon - 易経  
 yen - 目  
 yen sui gas - 催涙ガス  

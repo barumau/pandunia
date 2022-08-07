@@ -4052,6 +4052,7 @@ truke|truke|||eng:trick, deu:Trick, fra:truc, spa:truco, por:truque, hun:trükk,
 tu|tu|pron.||fra:por:tu, spa:tú, rus:ты (ty), hin:तू (tū), ben:তুই (tui)|you (singular)|tu|tú (usted)|tu|ты||你|あなた||||||||vi (ci)|sinä|ty, ciebie
 tu.men|tumen|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|te|wy, was
 tu.men.su|tumen su||||your|votre|vuestro|vosso|ваш||你们的|||||||||via|teidän|
+tu.mi.men|tumimen|bine|pron.||we (inclusive we)||||||咱们||||||kita|||ni ĉiuj|me ja sinä|
 tu.su|tu su||||your||tu|||||あなたの||||||||via (cia)|sinun|twój
 tualete|tualete|||fra:toilettes, eng:may:toilet, por:toalete, rus:туалет (tualet), tur:tuvalet, fas:توالت‎ (tuâlet), hin:टॉयलेट (ṭŏyaleṭ), jpn:トイレ (toire)|toilet (WC)||inodoro (wáter, retrete)||||||||||||||vessa|taleta, WC
 tubo|tubo|||spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu, xho:íthumbu|tube (pipe)||tubo|||||||||||||tubo|putki (tuubi)|tuba, rura
@@ -4349,10 +4350,10 @@ xuru.di|xuru di||||initial (first)||primer (inicial, inaugural)||||||||||||||ens
 xux|xux|||eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|hush (shh)||chito (chist)||||噓|しーっ|쉿|suỵt|||||||hiljaa (hys, shhh)|ćsi
 xux.di|xux di||||silent||silencioso||тихий|||||||||||silenta|hiljainen|cichy
 Y|Y||||Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y
-ya|ya|||may:ya, deu:ja, eng:yeah, kor:예 (ye) + zho:呀/啊 (ya/a)|yes|oui|sí|sim|да||对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
-ya|ya|pron.||hin:यह (yeh) + swa:yeye, zul:yena, lin:ye + rus:е- (ye-) + may:ia + zho:伊 (yī), vie:y|he or she or it||él o ella||||他，她，它|||||||||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
-ya.men|yamen|pron.|||they||ellos o ellas||||他们|||||||||ili|he|oni
+ya|ya|pron.||hin:यह (yah) + may:ia + ibo:ya, kon:ya + zho:伊 (yī), vie:y|he or she or it|il ou elle|él o ella|ele ou ela|он или она||他，她，它||||||ia (dia)|yeye||li aŭ ŝi aŭ ĝi|hän (se)|on, ona, ono
+ya.men|yamen|pron.|||they|ils ou elles|ellos o ellas|eles ou elas|они||他们||||||mereka|wao||ili|he|oni
 ya.men.su|yamen su||||their|leur|||их||他们的||||उनका|||||ilia|heidän|
+ya.mi.men|yamimen|bine|pron.||we (exlusive we)||||||我们||||||kami|||ni sen ne vi|me mutta et sinä|
 ya.su|ya su||||his or her||||||他的|||||||||lia aŭ ŝia aŭ ĝia|hänen (sen)|
 Yahve|Yahve||||Yahweh (Jehovah)|Yahweh (Jéhovah)|Yahvé (Jehová)|Javé (Jeová)|Яхве (Иегова)|يَهْوَه|耶和华 (雅威)|ヤハウェ (エホバ)|야훼 (여호와)|||||Yehova||Javeo (Jehovo)|Jahve (Jehova)|
 yake|yake|||eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|yak||yac||||||||||||||jakki|jak (zwierzę)
@@ -4374,6 +4375,7 @@ yau|yau|||zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu
 yau-an.di|• anyau di||||unnecessary (extraneous, unneeded)|inutile|innecesario|||||不要|||||||||tarpeeton|niepotrzebny
 yau.di|yau di||||necessary (needed)|nécessaire|necesario|necessário|нужный|ضَرُورِيّ‎|必要的|必要|필요하다||ज़रूरी||||||tarpeellinen|potrzebny
 yau.ta|yauta||||need (shortage, lack, requirement)|besoin|necesidad|necessidade|нужда|ضَرُورَة‎||必要|필요||ज़रूरत||keperluan|haja||bezono|tarve (puute)|potrzeba
+ye|ye|||eng:yeah, deu:ja, kor:예 (ye), jpn:ええ (ē) + may:ya + ara: إِِي (ʾiī) |yes|oui|sí|sim|да|نَعَم‎|对 (是)|はい|||हाँ||ya||evet|jes|kyllä|tak
 yehudi|yehudi||||Jewish||judío||||||||||||||juutalainen|żydowski
 yehudi.din|yehudi din||||Judaism||judaísmo||||||||||||||juutalaisuus|judaizm
 yei|yei|||eng:yay, pol:jej, jpn:イエイ (iei)|yay! (yeah!)||yupi||||||||||||||jee! (hurraa!)|jej
@@ -4452,7 +4454,8 @@ Zimbabue|Zimbabue|dexa|ZW||Zimbabwe||Zimbabue||Зимбабве||||||||||||Zimba
 zina|zina|||ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|adultery (infidelity)||adulterio|||||||||||||malfideleco|haureus (uskottomuus)|zdrada małżeńska, cudzołóstwo
 zinji|zinji|||eng:ginger, fra:gingembre, spa:gengibre, por:jengibre, zho:姜 (jiāng), tam:இஞ்சி (inji), ara: زنجبيل‎ (zanjabīl), tur:zencefil|ginger|gingembre|gengibre|jengibre|имбирь||姜||||अदरक||jahe||zencefil|zingibro|inkivääri|imbir
 zinke|zinke|yum 030|Zn|eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki|zinc|zinc|cinc|zinco|цинк|خارصين|锌|亜鉛|아연|kẽm|जस्ता|জিঙ্ক|seng|zinki (bati)|çinko|zinko|sinkki|cynk
-zipa|zipa|||eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|zipper (zip)||cremallera||||||||||||||vetoketju|zamek błyskawiczny
+zipe|zipe|||eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)|zip up||cerrar con cremallera||||||||||||||sulkea vetoketjulla|zamknąć zamkiem błyskawicznym
+zipe.r|ziper||||zipper (zip)||cremallera||||||||||||||vetoketju|zamek błyskawiczny
 zira|zira|||ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)|cumin (jeera)||comino||тмин||孜然||||ज़ीरा|জিরা||mjira||kumino|juustokumina (jeera)|kumin, kmin
 zirkon|zirkon||||zircon||circón||циркон||||||||||||zirkoni|
 zirkon.yum|zirkon yum|yum 040|Zr|eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم|zirconium|zirconium|circonio|zircónio|цирконий|زيركونيوم|锆|ジルコニウム|지르코늄|ziriconi|जर्कोनियम|জিরকোনিয়াম|zirkonium|zirikoni|zirkonyum|zirkonio|zirkonium|cyrkon

@@ -4118,6 +4118,7 @@ truke - trick (ruse, fraud)
 tu - you (singular)  
 tumen - you all  
 tumen su - your  
+tumimen - we (inclusive we)  
 tu su - your  
 tualete - toilet (WC)  
 tubo - tube (pipe)  
@@ -4423,10 +4424,10 @@ xux di - silent
 
 ## Y  
 
-ya - yes  
 ya - he or she or it  
 yamen - they  
 yamen su - their  
+yamimen - we (exlusive we)  
 ya su - his or her  
 Yahve - Yahweh (Jehovah)  
 yake - yak  
@@ -4448,6 +4449,7 @@ yau - need (lack, require)
 • anyau di - unnecessary (extraneous, unneeded)  
 yau di - necessary (needed)  
 yauta - need (shortage, lack, requirement)  
+ye - yes  
 yehudi - Jewish  
 yehudi din - Judaism  
 yei - yay! (yeah!)  
@@ -4528,7 +4530,8 @@ Zimbabue - Zimbabwe
 zina - adultery (infidelity)  
 zinji - ginger  
 zinke - zinc  
-zipa - zipper (zip)  
+zipe - zip up  
+ziper - zipper (zip)  
 zira - cumin (jeera)  
 zirkon - zircon  
 zirkon yum - zirconium  

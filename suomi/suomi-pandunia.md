@@ -1524,7 +1524,7 @@ kuvitella - fa fantazi
 Kuwait - Kuvaite  
 kvadriljoona (jotta-) - yota  
 kykenevä (voiva) - bil ja  
-kyllä - ya  
+kyllä - ye  
 kylmä - leng  
 kylpeä - fa banya  
 kylpy - banya  
@@ -1945,6 +1945,8 @@ mauste - masala
 maya (mayaintiaani) - maya  
 Mayotte - Mayote  
 me - mimen  
+me ja sinä - tumimen  
+me mutta et sinä - yamimen  
 media (tiedotusvälineet) - media  
 media - medi xe  
 meduusa - hai jele  
@@ -3191,6 +3193,7 @@ sulkakynä - penakalam
 sulkea (panna kiinni) - fa klus  
 sulkea - klus  
 sulkea pois - fa vai klus  
+sulkea vetoketjulla - zipe  
 summa - sum  
 sunnalaisuus - suna islam din  
 suo (räme) - potostan  
@@ -3840,7 +3843,7 @@ vesitiivis - sui sekur di
 vesiväri (akvarelliväri) - sui rang  
 vessa - tualete  
 vetinen - sui di  
-vetoketju - zipa  
+vetoketju - ziper  
 vetolaatikko - tire sanduku  
 vetovoima (šarmi) - carme  
 vety - hidro  

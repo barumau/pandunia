@@ -694,6 +694,7 @@ cereza - ceri
 cerio - ceres yum  
 cero (ninguno) - siro  
 cerradura (candado) - tala  
+cerrar con cremallera - zipe  
 cerrar sesión - loge cuti  
 cerrojo (pestillo) - kane sor  
 certificado - dalil dokumen  
@@ -932,7 +933,7 @@ creencia (fe) - sina
 creer (confiar, contar con) - kredi  
 creer - fa sina  
 crema - krem  
-cremallera - zipa  
+cremallera - ziper  
 cremoso - krem di  
 crepa (crep, tortilla de trigo) - france krepe  
 creyente - din ja  
@@ -3566,7 +3567,7 @@ susurrar (curjir) - xaxa
 Svalbard - Sualbarde  
 sábado - den luka  
 sándwich (sánduche) - sanduice  
-sí - ya  
+sí - ye  
 sílaba - loga fen  
 símbolo - simbol  
 sólido - gati mate  

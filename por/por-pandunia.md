@@ -513,8 +513,10 @@ efeito colateral - parafete
 efetuar - fa asar  
 Egipto (Egito) - Misri  
 einstânio - einstein yum  
+ele ou ela - ya  
 elemento - so  
 elemento químico - kimi so  
+eles ou elas - yamen  
 eletricidade - eletro  
 elfo - elfe  
 elo - serime  
@@ -1440,7 +1442,7 @@ sexologia - sexelogi
 sexta-feira - den lima  
 significar (querer dizer) - semi  
 silício - silis  
-sim - ya  
+sim - ye  
 simetria - sam metre  
 simulação - sam sifa xe  
 sino (campainha) - dang gi  

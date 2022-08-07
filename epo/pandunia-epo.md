@@ -1884,6 +1884,7 @@ tribu - tribo
 tu - vi (ci)  
 tumen - vi ĉiu  
 tumen su - via  
+tumimen - ni ĉiuj  
 tu su - via (cia)  
 tubo - tubo  
 tuh - sputi  
@@ -2017,10 +2018,10 @@ xux di - silenta
 
 ## Y  
 
-ya - jes  
 ya - li aŭ ŝi aŭ ĝi  
 yamen - ili  
 yamen su - ilia  
+yamimen - ni sen ne vi  
 ya su - lia aŭ ŝia aŭ ĝia  
 Yahve - Javeo (Jehovo)  
 yam - manĝi (trinki)  
@@ -2030,6 +2031,7 @@ yam yau - malsato
 yang - speco (tipo, stilo)  
 yau - bezoni  
 yauta - bezono  
+ye - jes  
 yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 Yemen - Jemeno  
 yen - okulo  

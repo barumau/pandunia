@@ -1442,6 +1442,7 @@ truke - 伎俩
 tu - 你  
 tumen - 你们  
 tumen su - 你们的  
+tumimen - 咱们  
 tule yum - 铥  
 tuna - 金枪鱼  
 tuta - 桑树  
@@ -1560,10 +1561,10 @@ xux - 噓
 
 ## Y  
 
-ya - 对 (是)  
 ya - 他，她，它  
 yamen - 他们  
 yamen su - 他们的  
+yamimen - 我们  
 ya su - 他的  
 Yahve - 耶和华 (雅威)  
 yam fito - 蔬菜  
@@ -1572,6 +1573,7 @@ yam yau - 饥饿
 yasen - 白蜡树  
 yatim dom - 孤儿院  
 yau di - 必要的  
+ye - 对 (是)  
 yeka kanon - 易经 (周易)  
 yen - 眼睛  
 yen sui gas - 催泪瓦斯  

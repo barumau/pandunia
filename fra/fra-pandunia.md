@@ -854,6 +854,8 @@ hôtel - hotel
 ## I  
 
 ici - a yi  
+il ou elle - ya  
+ils ou elles - yamen  
 imitateur (mime) - mima ja  
 imiter - mima  
 immigrant - in migra ja  
@@ -1237,7 +1239,7 @@ ou - o
 ouah - va  
 oublier - anmemo  
 oubliette (cul de basse-fosse) - geo nice jela  
-oui - ya  
+oui - ye  
 ours - baru  
 oxyde - oxide  
 oxygène - oxi  

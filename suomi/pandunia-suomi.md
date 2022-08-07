@@ -3711,6 +3711,7 @@ truke - temppu (kepponen, jekku, huijaus)
 tu - sinä  
 tumen - te  
 tumen su - teidän  
+tumimen - me ja sinä  
 tu su - sinun  
 tualete - vessa  
 tubo - putki (tuubi)  
@@ -3998,10 +3999,10 @@ xux di - hiljainen
 
 ## Y  
 
-ya - kyllä  
 ya - hän (se)  
 yamen - he  
 yamen su - heidän  
+yamimen - me mutta et sinä  
 ya su - hänen (sen)  
 Yahve - Jahve (Jehova)  
 yake - jakki  
@@ -4022,6 +4023,7 @@ yau - tarvita
 • anyau di - tarpeeton  
 yau di - tarpeellinen  
 yauta - tarve (puute)  
+ye - kyllä  
 yehudi - juutalainen  
 yehudi din - juutalaisuus  
 yei - jee! (hurraa!)  
@@ -4095,7 +4097,8 @@ Zimbabue - Zimbabwe
 zina - haureus (uskottomuus)  
 zinji - inkivääri  
 zinke - sinkki  
-zipa - vetoketju  
+zipe - sulkea vetoketjulla  
+ziper - vetoketju  
 zira - juustokumina (jeera)  
 zirkon - zirkoni  
 zirkon yum - zirkonium  

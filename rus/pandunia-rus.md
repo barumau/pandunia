@@ -1773,7 +1773,8 @@ xux di - тихий
 
 ## Y  
 
-ya - да  
+ya - он или она  
+yamen - они  
 yamen su - их  
 Yahve - Яхве (Иегова)  
 yam fito - овощ  
@@ -1783,6 +1784,7 @@ yasen - ясень
 yatim dom - детский дом  
 yau di - нужный  
 yauta - нужда  
+ye - да  
 yeka kanon - Книга Перемен  
 Yemen - Йемен  
 yen - глаз (око)  

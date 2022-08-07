@@ -3597,7 +3597,6 @@ xux di - cichy
 
 ## Y  
 
-ya - tak  
 ya - on, ona, ono  
 yamen - oni  
 yake - jak (zwierzę)  
@@ -3616,6 +3615,7 @@ yatim dom - sierociniec, dom dziecka
 • anyau di - niepotrzebny  
 yau di - potrzebny  
 yauta - potrzeba  
+ye - tak  
 yehudi - żydowski  
 yehudi din - judaizm  
 yei - jej  
@@ -3683,7 +3683,8 @@ Zimbabue - Zimbabwe
 zina - zdrada małżeńska, cudzołóstwo  
 zinji - imbir  
 zinke - cynk  
-zipa - zamek błyskawiczny  
+zipe - zamknąć zamkiem błyskawicznym  
+ziper - zamek błyskawiczny  
 zira - kumin, kmin  
 zirkon yum - cyrkon  
 zizi - skwierczeć  

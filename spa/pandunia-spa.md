@@ -3886,7 +3886,6 @@ xux di - silencioso
 
 ## Y  
 
-ya - sí  
 ya - él o ella  
 yamen - ellos o ellas  
 Yahve - Yahvé (Jehová)  
@@ -3907,6 +3906,7 @@ yau - necesitar
 • anyau di - innecesario  
 yau di - necesario  
 yauta - necesidad  
+ye - sí  
 yehudi - judío  
 yehudi din - judaísmo  
 yei - yupi  
@@ -3977,7 +3977,8 @@ Zimbabue - Zimbabue
 zina - adulterio  
 zinji - gengibre  
 zinke - cinc  
-zipa - cremallera  
+zipe - cerrar con cremallera  
+ziper - cremallera  
 zira - comino  
 zirkon - circón  
 zirkon yum - circonio  

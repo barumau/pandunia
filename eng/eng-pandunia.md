@@ -4357,6 +4357,8 @@ wax seal - mum cape
 way (manner, means, method, mode, procedure, rite) - riti  
 way (manner, mode) - mode  
 way (road) - dau  
+we (exlusive we) - yamimen  
+we (inclusive we) - tumimen  
 we - mimen  
 weak (feeble) - anbala  
 wealth (fortune) - riketa  
@@ -4466,7 +4468,7 @@ yeast - hamir
 yellow - huang  
 yellow starthistle - sol sentaure  
 Yemen - Yemen  
-yes - ya  
+yes - ye  
 yesterday - cen den  
 yoga - yoga  
 yogi - yoga ja  
@@ -4497,7 +4499,8 @@ ziggurat - zikura
 zigzag - zigzage  
 Zimbabwe - Zimbabue  
 zinc - zinke  
-zipper (zip) - zipa  
+zip up - zipe  
+zipper (zip) - ziper  
 zircon - zirkon  
 zirconium - zirkon yum  
 zombie - zombi  

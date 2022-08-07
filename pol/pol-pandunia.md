@@ -2948,7 +2948,7 @@ Tajlandia - Tai Dexa
 Tajpej - Taibei  
 tajski - Tai baxa  
 Tajwan, Republika Chińska - Taivan  
-tak - ya  
+tak - ye  
 taki sam - sam  
 taksometr - taxi metre gi  
 taktyka, strategia - tatike  
@@ -3461,7 +3461,7 @@ zakładać (założyć) - cen gar
 zakładać (założyć, ustanowić) - fa baze  
 Zambia - Zambia  
 zamek (zapięcie) - tala  
-zamek błyskawiczny - zipa  
+zamek błyskawiczny - ziper  
 zamek, forteca, twierdza - burge  
 zamieniać się w gaz (parować) - be gas  
 zamieniać w gaz - fa gas  
@@ -3471,6 +3471,7 @@ zamknięty - klus di
 zamknięty na klucz (zakluczony) - detala di  
 zamknąć (zamykać) - fa klus  
 zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć) - fa sor  
+zamknąć zamkiem błyskawicznym - zipe  
 zapach (aromat, smród, odór) - aroma  
 zapakować, pakować - fa pake  
 zapalenie - tis  

@@ -1625,7 +1625,8 @@ xuru - começo (início, princípio)
 
 ## Y  
 
-ya - sim  
+ya - ele ou ela  
+yamen - eles ou elas  
 Yahve - Javé (Jeová)  
 yam fito - verdura (hortaliça, legume)  
 yam liste - cardápio (menu)  
@@ -1634,6 +1635,7 @@ yasen - freixo
 yatim dom - orfanato  
 yau di - necessário  
 yauta - necessidade  
+ye - sim  
 yen - olho  
 yen di - ocular  
 yen sui gas - gás lacrimogéneo  
