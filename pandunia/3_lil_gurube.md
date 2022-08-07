@@ -1,109 +1,109 @@
-# tri lili goro
+# tri xiu goro
 
-<small>"Three Little Pigs" va Pandunia basha. be kitabu **thethedorn**.</small>
+<small>"Three Little Pigs" a Pandunia baxa. be kitabu de **thethedorn**.</small>
 
 <p style="font-size:6em;text-align:center;">🐷🐷🐷</p>
 
-va telə pas, mama goro ha tri lili goro.
-a le no ha bas yam ga don ga les.
-un den va les sa bas lau, le mise les ga dunia,
-ga les soka semen du gol va jiu.
+a tele pas, mama goro ten tri xiu goro.
+ama ya no ten bas yam to don to yamen.
+un den a yamen si bas lau, ya mise yamen to dunia,
+to yamen soka semen su gol a jiu.
 
-un me goro no sukə gung.
-le pul no vol gung e binə se du dom za gan gazo.
-du me goro yo lili mas di sukə gung,
-e le binə se du dom za mokə kane.
-pos li, les chante e danse e van va pan un dia.
+un me goro no suka gung.
+ya pul no vol gung e bina se su dom de gan gazo.
+du me goro ye xiu mas di suka gung,
+e ya bina se su dom de moka kane.
+pos la, yamen cante e danse e van a pan un dia.
 
-tri me goro yo tezə gung va pan dia,
-e le binə se du dom za petrə.
-le sa likə dom,
-jo ha tanur e duman tubo.
-le rupə ka le bil likə di lipə va li maxim likə havə.
+tri me goro ye teza gung a pan dia,
+e ya bina se su dom de petra.
+ya si lika dom,
+jo ten tanur e duman tubo.
+ya rupa ka ya bil lika di lipa a la masim lika hava.
 
-va pos den, volfə move va karibə dau, va jo li tri goro yo dom.
-le vidə gan gazo di dom,
-e le aromə li goro va in da dom.
-le fikir li goro sa bon yam,
-e le du bokə yo kai sana li sui.
+a pos den, volfe move a karibu dau, a jo la tri goro ye dom.
+ya vide gan gazo di dom,
+e ya aroma la goro in la dom.
+ya fikir la goro si bon yam,
+e ya su boke ye kai sana yo sui.
 
 <p style="font-size:6em;text-align:center;">🐺</p>
 
-li volfə fa darbə li mun, e loga:
-"lili goro! lili goro! ching kai li mun! ching kai li mun!"
-a li lili goro yo vidə li volfə du dai hande va li chabi kong.
-le javabə: "no! no! no!"
-pos, li volfə fa shou se du dante e loga:
-"mi havə e mi havə e mi parchə te du dom!"
+la volfe fa darba la mun, e loga:
+"xiu goro! xiu goro! cing kai la mun! cing kai la mun!"
+ama la xiu goro ye vide la volfe su dai hande a la cavi kong.
+ya javabu: "no! no! no!"
+pos, la volfe fa xou se su dante e loga:
+"mi hava e mi hava e mi parca tu su dom!"
 
-le havə e le havə e le parchə li dom!
-li volfə fa kai se du bokə ga maxim jo le bil,
-a un me goro yo cesə,
-ga dom da du me lili goro.
+ya hava e ya hava e ya parca la dom!
+la volfe fa kai se su boke to masim jo ya bil,
+ama un me goro ye ga,
+to dom de du me xiu goro.
 
-li volfə zoku va lili dau.
-le pas du me dom, jo be sana ya mokə kane.
-le vidə li dom.
-le aromə li goro va in.
-le du bokə yo kai sana li sui,
-za sabu da le fikir les sa bon yam.
+la volfe zoku a xiu dau.
+ya pas du me dom, jo be sana va moka kane.
+ya vide la dom.
+ya aroma la goro a in.
+ya su boke ye kai sana yo sui,
+a sabu de ya fikir yamen si bon yam.
 
-le darbə li mun, e loga:
-"lili goro! lili goro! ching kai li mun! ching kai li mun!"
-a li lili goro vidə li volfə du gona ore va li chabi kong.
-les javabə: "no! no! no!"
-li volfə shou se du dante e loga:
-"mi havə e mi havə e mi parchə te du dom!"
+ya darba la mun, e loga:
+"xiu goro! xiu goro! cing kai la mun! cing kai la mun!"
+ama la xiu goro vide la volfe su gona ore a la cavi kong.
+yamen javabu: "no! no! no!"
+la volfe xou se su dante e loga:
+"mi hava e mi hava e mi parca tu su dom!"
 
 <p style="font-size:6em;text-align:center;">🌬️</p>
 
-le havə e le havə e le parchə li dom!
-volfə testə kapə li du goro va sam zaman,
-a le vol mas ka bas, e le kapə siro goro!
-le du dai bokə be klus ga siro she da air.
-li du lili goro yo cesə, maxim rapide ka les du fute bil kino les.
+ya hava e ya hava e ya parca la dom!
+volfe teste kape la du goro a sam zaman,
+ama ya vol mas ka bas, e ya kape siro goro!
+ya su dai boke be klus to siro xe de air.
+la du xiu goro ye ga, masim rapide ka yamen su fute bil kino yamen.
 
-li volfə testə kapə les va lili dau.
-le karibə kapə les,
-a les lai ga petrə dom e kelele kai li mun
-e va chen da li volfə yo bil kapə les.
+la volfe teste kape yamen a xiu dau.
+ya karibu kape yamen,
+ama yamen lai to petra dom e kelele kai la mun
+e a cen de la volfe ye bil kape yamen.
 
-li tri lili goro yo fobi.
-les sabe li volfə yo vol yam les.
-les sa poli poli fobi.
-li volfə no leu yam va pan den,
-e le du yam vol be kai no toler bil.
-le zai bil aromə li pan tri goro va dom.
-le sabe li tri lili goro sa bon yam she.
+la tri xiu goro ye fobi.
+yamen sabe la volfe ye vol yam yamen.
+yamen si poli poli fobi.
+la volfe no le yam a pan den,
+e ya su yam vol be kai no toler bil.
+ya zai bil aroma la pan tri goro a dom.
+ya sabe la tri xiu goro si bon yam xe.
 
-li volfə fa darbə li mun, e loga:
-"lili goro! lili goro! ching kai li mun! ching kai li mun!"
-a lili goro vidə li volfə du lili huang yen va chabi kong.
-les loga: "no! no! no!"
-li volfə shou se du dante e loga:
-"mi havə e mi havə e mi parchə tumon du dom!"
+la volfe fa darba la mun, e loga:
+"xiu goro! xiu goro! cing kai la mun! cing kai la mun!"
+ama xiu goro vide la volfe su xiu huang yen a cavi kong.
+yamen loga: "no! no! no!"
+la volfe xou se su dante e loga:
+"mi hava e mi hava e mi parca tumon su dom!"
 
-le havə e le havə.
-le havə e le havə.
-e le havə, e le havə, e le havə,
-a le no bil parchə go dom.
-va fin, le poli fatige di havə.
-sun le no bil mas havə.
-le ting ga shush,
-e le lili fikir.
+ya hava e ya hava.
+ya hava e ya hava.
+e ya hava, e ya hava, e ya hava,
+ama ya no bil parca vo dom.
+a fin, ya poli fatige di hava.
+sun ya no bil mas hava.
+ya ting to xux,
+e ya xiu fikir.
 
-li sa mas ka bas.
-li volfə marcha va gola va furi.
-le plan le lai pas li duman tubo e le yam lili goro ga sham yam.
-a va dur da le eskale ga dom du chati,
-li lili goro yo sana un poli garma di hogo e loka un dai sui ketel va hogo.
-va pos, va sam zaman da li volfə lai ga tal da tanur,
-li lili goro fa kai li ketel...
-ayo! volfə be padu ga in da poli garma di sui!
+la si mas ka bas.
+la volfe marca a gola a furi.
+ya plan ya lai pas la duman tubo e ya yam xiu goro to xam yam.
+ama a dur de ya eskale to dom su cati,
+la xiu goro ye sana un poli garma di hogo e loka un dai sui ketel a hogo.
+a pos, a sam zaman de la volfe lai to dipe de tanur,
+la xiu goro fa kai la ketel...
+ayo! volfe be padu to in de poli garma di sui!
 
 <p style="font-size:6em;text-align:center;">🔥</p>
 
-li lili goro fa loka un daka va li ketel.
-li volfə be boli va ketel!
-e li tri lili goro yo yam le ga sham yam.
+la xiu goro fa loka un daka a la ketel.
+la volfe be boli a ketel!
+e la tri xiu goro ye yam ya to xam yam.
 

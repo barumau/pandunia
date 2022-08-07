@@ -1,48 +1,48 @@
 # tri behe e un gui
 
-<small>tarjum da _Erjo_</small>
+<small>trabaxa de _Erjo_</small>
 
-na tele pas, un gui be dom na nicha da un kio, jo transe un rivo.
-la gui ya ten un dus rupa. ye ten yen jo dai ka tasa, e nos jo long ka bele.
+a tele pas, un gui be dom a nica de un kio, jo transe un rivo.
+la gui ye ten un dus rupa. ya ten yen jo dai ka tasa, e nos jo long ka bele.
 
-na un den, la gui ya audi un lili soni ze supra da kio.
-«ke jen ya marche na mi su kio?» la gui ya krita.
-«oh! un di zai mi, lili behe» un lili behe ya loga.
-ye dai shush di loga, e fa zoku:
-«mi marche do gazo topo na jo mi sha yam do mi si gola».
+a un den, la gui ye audi un xiu soni a supra de kio.
+«ke jen ye marce a mi su kio?» la gui ye krita.
+«oh! un di zai mi, xiu behe» un xiu behe ye loga.
+ya dai xux di loga, e fa zoku:
+«mi marce to gazo topo a jo mi xa yam to mi si gola».
 
 «zai mi kape tu!» loga la gui.
 
-«no, no!», la lili buze ya loga.
-«no kape mi, ze sabu da mi si lili lili. un di lili deng, e medi behe sha marche. ye si mas dai».
-«oke», la gui ya loga.
+«no, no!», la xiu buze ye loga.
+«no kape mi, a sabu de mi si xiu xiu. un di xiu deng, e medi behe xa marce. ya si mas dai».
+«oke», la gui ye loga.
 
-na pos da lili zaman, un soni be audi ze supra da kio.
-«ke jen marcha na mi su kio?», la gui ya krita.
-«oh! si mi, medi behe. mi move do gazo topo na jo mi sha yam do mi si gola», la medi behe ya loga.
-ye no shush di loga.
+a pos de xiu zaman, un soni be audi a supra de kio.
+«ke jen marca a mi su kio?», la gui ye krita.
+«oh! si mi, medi behe. mi move to gazo topo a jo mi xa yam to mi si gola», la medi behe ye loga.
+ya no xux di loga.
 
-«zai mi kape tu!» la gui ya loga.
+«zai mi kape tu!» la gui ye loga.
 
-«no, no! no kape mi» la medi behe ya loga.
-«lili deng, e dai behe sha marche. ye si dai dai».
+«no, no! no kape mi» la medi behe ye loga.
+«xiu deng, e dai behe xa marce. ya si dai dai».
 «oke» be loga la gui.
 
 ![](http://www.pandunia.info/grafe/behe_e_gui.png "behe e gui")  
 <small>Image designed by [Ajipebriana, brgfx, upklyak / Freepik](https://www.freepik.com)</small>
 
-na pos da lili zaman, bari kelele be audi ze supra da kio.
-«ke jen marche na mi su kio?», la gui ya krita.
-«mi, dai behe», la dai behe ya loga va dai soni.
+a pos de xiu zaman, bari kelele be audi a supra de kio.
+«ke jen marce a mi su kio?», la gui ye krita.
+«mi, dai behe», la dai behe ye loga va dai soni.
 
-«zai mi kape tu!» la gui ya loga.
+«zai mi kape tu!» la gui ye loga.
 
-«ya, ching lai! mi ten du korne, va jo mi sha harabu tu su yen.
-mi ten du dai jeng seku, va jo mi sha parcha tu su oste.»
+«ye, cing lai! mi ten du korne, va jo mi xa harabu tu su yen.
+mi ten du dai jeng seku, va jo mi xa parca tu su oste.»
 
-e pos la, la dai behe ya harabu gui su yen, e parcha la gui su oste, e lanse la gui do rivo.
-pos la, ye marcha do gazo topo.
-na gazo topo, pan behe yam do se si gola.
-yemon sun no ten la energi do fuka do dom.
-e gar yemon zoku no ga, yemon zoku si gola.
+e pos la, la dai behe ye harabu gui su yen, e parca la gui su oste, e lanse la gui to rivo.
+pos la, ya marca to gazo topo.
+a gazo topo, pan behe yam to se si gola.
+yamen sun no ten la energi to fuka to dom.
+e gar yamen zoku no ga, yamen zoku si gola.
 

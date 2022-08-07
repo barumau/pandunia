@@ -2,35 +2,29 @@
 
 ## ✝
 
-mesi saman patrə,
-santə ti namə,
-lai ti rajia,
-fetə ti volə,
-va zemə e va saman.
-
-mimon su sama pa,  
+mimen su sama pa,  
 sante tu su nam,  
-lai tu su raja desha,  
-karma tu su ichi  
-na geo e na sama.  
-ching don mimon su pan den di pang do mimon.  
-ching maf mimon su dosha,  
-ka mimon maf yemon jo dosha mimon.  
-ching no lida mimon do tenta  
-a mede mimon ze dus.  
-tu ha raja desha, lika, e onor na pan zaman.  
+lai tu su raja dexa,  
+karma tu su ici  
+a geo e a sama.  
+cing da mimen su pan den di pang to mimen.  
+cing maf mimen su doxa,  
+ka mimen maf yamen jo doxa mimen.  
+cing no lide mimen to tenta  
+a mede mimen de dus.  
+tu ha raja dexa, bala, e onor a pan zaman.  
 amen.
 
 ## ☪
 
 alo deu no zai ka deu,  
-e muhamad si ye su nabi ja.
+e muhamad si ya su nabija.
 
 ## ΑΩ
 
-insan si metre da pan she.  
-– da _Protagoras_
+insan si metre de pan xe.  
+– de _Protagoras_
 
-deu sa mati. deu restu mati. e mes avo mata le.  
-– da _Fridrih Nichə_ (Friedrich Nietzsche)
+deu si morte. deu reste morte. e mimen le morte ye.  
+– de _Fridrih Nice_ (Friedrich Nietzsche)
 

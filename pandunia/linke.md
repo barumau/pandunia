@@ -1,10 +1,10 @@
-# linke do alo nete loka
+# linke to alo nete loka
 
-## na pandunia
+## a pandunia
  
-[mas ka bas](https://maxkabas.wordpress.com/) - bloge
+[max ka bas](https://maxkabas.wordpress.com/) - bloge
 
-## na esperante
+## a esperante
 
 [Pandunia - Multkultura Lingvo](https://www.youtube.com/watch?v=oKZrX-KxXho) filme sa YouTube  
 [Kial Pandunia povas iĝi la nova facila planlingvo kun aktiva komunumo](https://medium.com/@Vanege/kial-pandunia-povas-i%C4%9Di-la-nova-facila-planlingvo-kun-aktiva-komunumo-7f967f3dc1ef)  
