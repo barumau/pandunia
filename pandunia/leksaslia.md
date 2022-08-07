@@ -1,27 +1,27 @@
-# pandunia di loga su asal
+# pandunia lexi su asal
   
-pandunia di loga ya lai ze poli basha da dunia.
+pandunia lexi ye lai de poli baxa de dunia.
   
-- afrika basha
+- afrika baxa
     - (ara) arabi 
-    - (swa) siahili 
+    - (swa) suahili 
     - (hau) hausa
     - (amh) amara
-- europa e amerika basha
-    - (eng) english
+- europa e amerika baxa
+    - (eng) englix
     - (spa) espanya
-    - (fra) france
+    - (fra) franse
     - (rus) rus
     - (por) portugal
-    - (deu) doiche
-- dong asia basha
+    - (deu) doice
+- dong asia baxa
     - (zho) putong han
     - (jpn) nipon 
-    - (wuu) shanghai han
-    - (kor) chosen
+    - (wuu) xanghai han
+    - (kor) cosen
     - (vie) viete
     - (yue) hong gong han
-- sude asia basha
+- sude asia baxa
     - (hin) hindi 
     - (ben) bangla
     - (may) malayu

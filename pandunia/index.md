@@ -15,7 +15,7 @@ tu bil xula Pandunia a uze de [mini xula](mini_xule.html).
 
 * [zi seri](abc.md)
 * kitabu
-    * [xiu baru su paxi dante](urse_dante.md)
+    * [la xiu baru su pati dante](baru_dante.md)
     * [tri xiu goro](3_lil_gurube.md)
     * [tri behe e un gui](3_buze_e_guye.md)
     * [insan di putong haki](putong_hake.md)
@@ -27,8 +27,8 @@ tu bil xula Pandunia a uze de [mini xula](mini_xule.html).
     * [alo viki de Pandunia](http://eo.pandunia.wikia.com/wiki/Ali_pandunia_wikia)
 * lexi liste
     * [pandunia lexi a dunia karta](http://www.pandunia.info/lexikarta/index.html)
-    * [dunia lexi](lekse/dunia_loge.html)
-    * [frute name](lekse/pal.html)
-    * [dexa name](desha_nam.md)
-    * [lexi asal](leksaslia.md) e [lexi nomer](loga_di_numbe.md) e [asar de mula baxa](asar_da_mulbax.md)
+    * [dunia lexi](lexi/dunia_loge.html)
+    * [frute name](lexi/pal.html)
+    * [dexa su nam](dexa_nam.md)
+    * [lexi asal](leksaslia.md) e [lexi nomer](lexi_nume.md) e [asar de mula baxa](asar_da_mulbax.md)
 

@@ -1,6 +1,6 @@
 # nomer da pandunia loga ze alo basha
 
-| basha | nomer | fen |
+| baxa  | nume  | fen |
 |-------|-------|-----|
 | pan | 1640 | 100% |
 | english | 1109 | 68% |

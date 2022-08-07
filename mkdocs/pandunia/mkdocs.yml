@@ -8,17 +8,17 @@ theme: readthedocs
 nav:
     - ABC: abc.md
     - kata:
-        - 'la lili baru su pasi dante': urse_dante.md
+        - 'la xiu baru su pati dante': urse_dante.md
         - 'tri behe e un gui': 3_buze_e_guye.md
-        - 'tri lili goro': 3_lil_gurube.md
+        - 'tri xiu goro': 3_lil_gurube.md
     - kitabu:
         - 'insan su putong haki': putong_hake.md
         - 'din kitabu': dini_kitabe.md
     - 'loga liste':
-        - 'loga buku': logia.html
-        - 'desha name': desha_nam.md
-        - 'loga asal': leksaslia.md
-        - 'loga su nomer': loga_di_numbe.md
+        - 'lexibuku': logia.html
+        - 'dexa su nam': desha_nam.md
+        - 'lexi asal': leksaslia.md
+        - 'lexi su nume': lexi_nume.md
     - filme: filme.md
     - linke: linke.md
 
