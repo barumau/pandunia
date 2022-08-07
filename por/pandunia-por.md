@@ -1347,8 +1347,6 @@ safarceke - cheque de viajante
 sagu - sagu  
 sahi - correto (justo)  
 sake - saco  
-sal - sal  
-sal di - salino  
 sala - salão  
 salam - saudação  
 salamta - bem-estar  
@@ -1636,6 +1634,8 @@ yatim dom - orfanato
 yau di - necessário  
 yauta - necessidade  
 ye - sim  
+yem - sal  
+yem di - salino  
 yen - olho  
 yen di - ocular  
 yen sui gas - gás lacrimogéneo  

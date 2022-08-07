@@ -3292,7 +3292,6 @@ sahi - oikea (paikkansapitävä)
 saide - pyynti (metsästys, kalastus)  
 saide ja - pyytäjä (metsästäjä, kalastaja)  
 sake - pussi (säkki, kassi, laukku)  
-sal - suola  
 sal - terve (hei)  
 sal cuti - hyvää matkaa  
 sal dia - päivää!  
@@ -3301,8 +3300,6 @@ sal noce - hyvää yötä
 sal suba - huomenta  
 sal xam - hyvää iltaa  
 sal yam - hyvää ruokahalua!  
-sal biskute - voileipäkeksi  
-sal di - suolainen  
 sala - sali (halli)  
 salade - salaatti  
 salam - tervehdys (terve!)  
@@ -4029,6 +4026,9 @@ yehudi din - juutalaisuus
 yei - jee! (hurraa!)  
 yeka - vaihtaa (tehdä vaihtokauppa)  
 yeka kanon - Muutosten kirja (I Ching)  
+yem - suola  
+yem biskute - voileipäkeksi  
+yem di - suolainen  
 Yemen - Jemen  
 yen - silmä  
 yen di - silmä-  

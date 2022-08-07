@@ -2969,7 +2969,6 @@ saide - polowanie (łowienie)
 saide ja - łowca (myśliwy)  
 saide yo pexe - łapać rybę  
 sake - torba, wór, worek, torba, sakwa  
-sal - sól  
 sal - cześć  
 sal cuti - żegnaj, dobre odejście  
 sal dia - dzień dobry  
@@ -2977,7 +2976,6 @@ sal lai - witaj, dobre przybycie
 sal suba - dobry ranek  
 sal xam - dobry wieczór  
 sal yam - smacznego  
-sal di - słony  
 sala - sala  
 salade - sałatka  
 salam - pozdrowienie  
@@ -3619,6 +3617,8 @@ ye - tak
 yehudi - żydowski  
 yehudi din - judaizm  
 yei - jej  
+yem - sól  
+yem di - słony  
 Yemen - Jemen  
 yen - oko  
 yen kexa - rzęsa  

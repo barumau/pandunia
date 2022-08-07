@@ -1610,7 +1610,7 @@ seau - baldi
 secouer - roke  
 secte - din xia  
 sein - titi  
-sel - sal  
+sel - yem  
 semaine - cetiden  
 semence - seme  
 sens - sense  

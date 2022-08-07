@@ -1287,7 +1287,6 @@
 **saide** *hunting (fishing)* ← Arabic:(ṣayd), Turkish:seyd, Urdu:صید‎ (said), Persian:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** *bag (sack)* ← deu:English:sack, French:sac, Spanish:Portuguese:saco, Malay:Kongo:saku  
 **sal** *hello (hi)* ← Arabic:Persian: سلام‎ (salâm), Hindi:सलाम (salām), Bengali: সালাম (salam), Malay:selamat, Swahili:salamu, Turkish:selam + English:salute, French:salut, Spanish:salude, Portuguese:saúde + Korean:잘 (jal)  
-**sal** *salt* ← English:salt, French:sel, Spanish:Portuguese:sal, Russian:соль (solʹ)  
 **sala** *hall (big room)* ← French:salle, Spanish:salón, Portuguese:salão, deu:Saal, Russian:зал (zal), Hindi:साल (sāl); शाला (śālā), Arabic: صَالَة‎ (ṣāla), Telugu:శాల (śāla), Khmer:សាលា (saalaa)  
 **salade** *salad* ← French:salade, Malay:salad, deu:Salat, Russian:салат (salat), Turkish:salata, Persian:Urdu:(salād), Hindi:सलाद (salād), Cantonese:沙律 (saa1 leot62),  Mandarin:沙拉 (shālā), Portuguese:salada, Spanish:ensalado, Korean:샐러드 (saelleodeu), Japanese:サラダ (sarada), Thai:สลัด (salat), Khmer:សាលាដ (saalaat)  
 **salmon** *salmon (trout)* ← English:Malay:salmon, Spanish:salmón, Portuguese:salmão, French:saumon, Swahili:samoni, Japanese:サーモン (sāmon)  
@@ -1600,6 +1599,7 @@
 **ye** *yes* ← English:yeah, deu:ja, Korean:예 (ye), Japanese:ええ (ē) + Malay:ya + Arabic: إِِي (ʾiī)   
 **yei** *yay! (yeah!)* ← English:yay, Polish:jej, Japanese:イエイ (iei)  
 **yeka** *exchange (replace, trade, swap)* ← Mandarin:易 (yì), Cantonese:易 (yik6), Japanese:易 (eki), Korean:역 (yeok), Vietnamese:dịch  
+**yem** *salt* ← Mandarin:盐 (yán), Cantonese:鹽 (yim4), Japanese:塩 (en), Korean:염 (yeom), Vietnamese:diêm  
 **yen sui** *tear drop* ← Tamil:கண்ணீர் (kaṇṇīr), Malayalam:കണ്ണുനീർ (kaṇṇunīr), Telugu:(kannīru), Korean:눈물 (nunmul), Vietnamese:nước mắt, Malay:air mata, Thai:น้ำตา  
 **yen** *eye* ← Mandarin:眼 (yǎn) + Arabic: عَيْن‎ (ʿayn), Egyptian-Arabic: عين‎ (ʕēn), Amharic:ዐይን (ʿäyn), Malay:ain + French:yeux  
 **yepa** *leaf (sheet)* ← Mandarin:叶 (yè), Cantonese:葉 (jip6), Korean:잎 (ip);엽 (yeop), Vietnamese:diệp, Japanese:葉 (yō)  

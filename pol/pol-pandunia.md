@@ -2913,14 +2913,14 @@ szyszka - kone
 szyć - siu  
 São Paulo - Sante Paulo  
 sód - natri  
-sól - sal  
+sól - yem  
 sądzić (osądzić) - fa jude  
 sędzia - jude ja  
 słaby - anbala  
 słodki - sukar di  
 słodki ziemniak - kamote  
 słonecznik - sol hua  
-słony - sal di  
+słony - yem di  
 Słowacja - Slovakia  
 Słowenia - Slovenia  
 słowiański - Slave  

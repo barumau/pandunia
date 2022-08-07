@@ -1680,7 +1680,6 @@ safran - safrano
 sahi - ĝusta (prava)  
 saide - ĉasado  
 saide ja - ĉasisto  
-sal - salo  
 sal - saluton!  
 sal cuti - bonan vojaĝon  
 sal dia - Bonan tagon  
@@ -1688,7 +1687,6 @@ sal lai - bonvenon!
 sal suba - Bonan matenon!  
 sal xam - Bonan vesperon  
 sal yam - bonan apetiton!  
-sal di - sala  
 salam - saluto  
 salam cuti - bonan vojaĝon  
 salam di - bona (en salutoj)  
@@ -2033,6 +2031,8 @@ yau - bezoni
 yauta - bezono  
 ye - jes  
 yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)  
+yem - salo  
+yem di - sala  
 Yemen - Jemeno  
 yen - okulo  
 yen di - okula  

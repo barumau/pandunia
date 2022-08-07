@@ -937,7 +937,7 @@ cow - mumu
 cowrie - kauri  
 crab - krabe  
 crack (rift) - krake  
-cracker (soda cracker) - sal biskute  
+cracker (soda cracker) - yem biskute  
 cradle - lalabede  
 crafty (dexterous) - jiang di  
 crash (shut down, terminate) - be harabu  
@@ -3500,8 +3500,8 @@ Saint Vincent - Sante Vincente
 Saint Vincent and Grenadines - Sante Vincente e Grenadin  
 salad - salade  
 salmon (trout) - salmon  
-salt - sal  
-salty (saline) - sal di  
+salt - yem  
+salty (saline) - yem di  
 samarium - samari yum  
 same (equal, alike, match) - sam  
 Samoa - Samoa  

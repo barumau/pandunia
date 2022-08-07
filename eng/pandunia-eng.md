@@ -3636,7 +3636,6 @@ saide - hunting (fishing)
 saide ja - hunter  
 saide yo pexe - go fishing  
 sake - bag (sack)  
-sal - salt  
 sal - hello (hi)  
 sal cuti - farewell  
 sal dia - good day  
@@ -3645,8 +3644,6 @@ sal noce - good night
 sal suba - good morning  
 sal xam - good evening  
 sal yam - bon appetit!  
-sal biskute - cracker (soda cracker)  
-sal di - salty (saline)  
 sala - hall (big room)  
 salade - salad  
 salam - greeting (hello)  
@@ -4455,6 +4452,9 @@ yehudi din - Judaism
 yei - yay! (yeah!)  
 yeka - exchange (replace, trade, swap)  
 yeka kanon - I Ching (the Book of Changes)  
+yem - salt  
+yem biskute - cracker (soda cracker)  
+yem di - salty (saline)  
 Yemen - Yemen  
 yen - eye  
 yen di - ocular  

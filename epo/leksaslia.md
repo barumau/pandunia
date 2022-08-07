@@ -1286,7 +1286,6 @@
 **sahi** *ĝusta (prava)* ← hindia:सही (sahī), urdua:(sahī), persa:(sahih), araba:(ṣaḥīḥ), svahila:sahihi  
 **saide** *ĉasado* ← araba:(ṣayd), turka:seyd, urdua:صید‎ (said), persa:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** ** ← deu:angla:sack, franca:sac, hispana:portugala:saco, malaja:konga:saku  
-**sal** *salo* ← angla:salt, franca:sel, hispana:portugala:sal, rusa:соль (solʹ)  
 **sal** *saluton!* ← araba:persa: سلام‎ (salâm), hindia:सलाम (salām), bengala: সালাম (salam), malaja:selamat, svahila:salamu, turka:selam + angla:salute, franca:salut, hispana:salude, portugala:saúde + korea:잘 (jal)  
 **sala** ** ← franca:salle, hispana:salón, portugala:salão, deu:Saal, rusa:зал (zal), hindia:साल (sāl); शाला (śālā), araba: صَالَة‎ (ṣāla), teluga:శాల (śāla), kmera:សាលា (saalaa)  
 **salade** ** ← franca:salade, malaja:salad, deu:Salat, rusa:салат (salat), turka:salata, persa:urdua:(salād), hindia:सलाद (salād), kantona:沙律 (saa1 leot62),  mandarena:沙拉 (shālā), portugala:salada, hispana:ensalado, korea:샐러드 (saelleodeu), japana:サラダ (sarada), taja:สลัด (salat), kmera:សាលាដ (saalaat)  
@@ -1600,6 +1599,7 @@
 **ye** *jes* ← angla:yeah, deu:ja, korea:예 (ye), japana:ええ (ē) + malaja:ya + araba: إِِي (ʾiī)   
 **yei** ** ← angla:yay, polona:jej, japana:イエイ (iei)  
 **yeka** ** ← mandarena:易 (yì), kantona:易 (yik6), japana:易 (eki), korea:역 (yeok), vjetnama:dịch  
+**yem** *salo* ← mandarena:盐 (yán), kantona:鹽 (yim4), japana:塩 (en), korea:염 (yeom), vjetnama:diêm  
 **yen sui** ** ← tamila:கண்ணீர் (kaṇṇīr), malajala:കണ്ണുനീർ (kaṇṇunīr), teluga:(kannīru), korea:눈물 (nunmul), vjetnama:nước mắt, malaja:air mata, taja:น้ำตา  
 **yen** *okulo* ← mandarena:眼 (yǎn) + araba: عَيْن‎ (ʿayn), egipta araba: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaja:ain + franca:yeux  
 **yepa** *folio* ← mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)  

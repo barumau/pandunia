@@ -1285,9 +1285,7 @@ sagu - 西谷米
 sahi - 正确  
 saide - 狩猎  
 saide ja - 狩人  
-sal - 盐  
 sal - 你好  
-sal biskute - 梳打饼  
 sala - 大厅  
 salam - 迎接  
 salamta - 福利 (福祉)  
@@ -1575,6 +1573,8 @@ yatim dom - 孤儿院
 yau di - 必要的  
 ye - 对 (是)  
 yeka kanon - 易经 (周易)  
+yem - 盐  
+yem biskute - 梳打饼  
 yen - 眼睛  
 yen sui gas - 催泪瓦斯  
 yepa - 叶  

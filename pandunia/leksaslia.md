@@ -1319,7 +1319,6 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**sahi**|hin:सही (sahī), urd:(sahī), fas:(sahih), ara:(ṣaḥīḥ), swa:sahihi|
 |**saide**|ara:(ṣayd), tur:seyd, urd:صید‎ (said), fas:صید‎ (seyd), heb:ציד‎ (tsayid)|
 |**sake**|deu:eng:sack, fra:sac, spa:por:saco, may:kon:saku|
-|**sal**|eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|
 |**sal**|ara:fas: سلام‎ (salâm), hin:सलाम (salām), ben: সালাম (salam), may:selamat, swa:salamu, tur:selam + eng:salute, fra:salut, spa:salude, por:saúde + kor:잘 (jal)|
 |**sala**|fra:salle, spa:salón, por:salão, deu:Saal, rus:зал (zal), hin:साल (sāl); शाला (śālā), ara: صَالَة‎ (ṣāla), tel:శాల (śāla), khm:សាលា (saalaa)|
 |**salade**|fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)|
@@ -1633,6 +1632,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**ye**|eng:yeah, deu:ja, kor:예 (ye), jpn:ええ (ē) + may:ya + ara: إِِي (ʾiī) |
 |**yei**|eng:yay, pol:jej, jpn:イエイ (iei)|
 |**yeka**|zho:易 (yì), yue:易 (yik6), jpn:易 (eki), kor:역 (yeok), vie:dịch|
+|**yem**|zho:盐 (yán), yue:鹽 (yim4), jpn:塩 (en), kor:염 (yeom), vie:diêm|
 |**yen**|zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain + fra:yeux|
 |**yen sui**|tam:கண்ணீர் (kaṇṇīr), mal:കണ്ണുനീർ (kaṇṇunīr), tel:(kannīru), kor:눈물 (nunmul), vie:nước mắt, may:air mata, tha:น้ำตา|
 |**yepa**|zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)|

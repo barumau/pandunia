@@ -1443,7 +1443,6 @@ safarceke - дорожный чек
 safran - шафран  
 sagu - саго  
 sahi - правильный  
-sal - соль  
 sala - зал  
 salam - приветствие  
 salamta - благосостояние  
@@ -1786,6 +1785,7 @@ yau di - нужный
 yauta - нужда  
 ye - да  
 yeka kanon - Книга Перемен  
+yem - соль  
 Yemen - Йемен  
 yen - глаз (око)  
 yen di - глазной  

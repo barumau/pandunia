@@ -3199,7 +3199,6 @@ sahi - correcto (justo)
 saide ja - cazador  
 saide yo pexe - pescar  
 sake - saco  
-sal - sal  
 sal - hola  
 sal cuti - adiós  
 sal dia - buenas tardes  
@@ -3207,7 +3206,6 @@ sal lai - bienvenido
 sal suba - buenos días  
 sal xam - buenas noches  
 sal yam - buen provecho  
-sal di - salino  
 sala - salón  
 salade - ensalada  
 salam - saludo  
@@ -3910,6 +3908,8 @@ ye - sí
 yehudi - judío  
 yehudi din - judaísmo  
 yei - yupi  
+yem - sal  
+yem di - salino  
 Yemen - Yemen  
 yen - ojo  
 yen di - ocular  

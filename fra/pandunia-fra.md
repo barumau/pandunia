@@ -1574,7 +1574,6 @@ safar keka ja - touriste
 sagu - sagoutier  
 sahi - correct (juste)  
 sake - sac  
-sal - sel  
 sal - salut  
 sala - salle  
 salam - salut (salam)  
@@ -1899,6 +1898,7 @@ yau di - nécessaire
 yauta - besoin  
 ye - oui  
 yeka kanon - Yi King  
+yem - sel  
 yen - œil  
 yen di - oculaire  
 yen sui gas - gaz lacrymogène  

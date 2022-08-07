@@ -3357,11 +3357,11 @@ sacrificio - kurban
 sagrada escritura - sante kanon  
 sagrado (santo) - sante  
 sagú - sagu  
-sal - sal  
+sal - yem  
 sala de chat (tertuliadero) - blablakan  
 salchicha - sosis  
 salida - cuti mun  
-salino - sal di  
+salino - yem di  
 salir (egresar) - be vai  
 salir (irse) - fa cuti  
 salmodiar - fa mantra  

@@ -1337,7 +1337,6 @@ sagu - サゴ
 sagu fun - サゴ澱粉  
 sahi - 正しい  
 saide - 狩り (狩猟)  
-sal - 塩  
 sala - ホール  
 salam - 挨拶  
 salamta - 福利 (福祉)  
@@ -1622,6 +1621,7 @@ yau di - 必要
 yauta - 必要  
 ye - はい  
 yeka kanon - 易経  
+yem - 塩  
 yen - 目  
 yen sui gas - 催涙ガス  
 yepa - 葉  

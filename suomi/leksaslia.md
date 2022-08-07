@@ -1286,7 +1286,6 @@
 **sahi** *oikea (paikkansapitävä)* ← hindi:सही (sahī), urdu:(sahī), persia:(sahih), arabia:(ṣaḥīḥ), suahili:sahihi  
 **saide** *pyynti (metsästys, kalastus)* ← arabia:(ṣayd), turkki:seyd, urdu:صید‎ (said), persia:صید‎ (seyd), heb:ציד‎ (tsayid)  
 **sake** *pussi (säkki, kassi, laukku)* ← deu:englanti:sack, ranska:sac, espanja:portugali:saco, malaiji:Kongo:saku  
-**sal** *suola* ← englanti:salt, ranska:sel, espanja:portugali:sal, venäjä:соль (solʹ)  
 **sal** *terve (hei)* ← arabia:persia: سلام‎ (salâm), hindi:सलाम (salām), bangla: সালাম (salam), malaiji:selamat, suahili:salamu, turkki:selam + englanti:salute, ranska:salut, espanja:salude, portugali:saúde + korea:잘 (jal)  
 **sala** *sali (halli)* ← ranska:salle, espanja:salón, portugali:salão, deu:Saal, venäjä:зал (zal), hindi:साल (sāl); शाला (śālā), arabia: صَالَة‎ (ṣāla), telugu:శాల (śāla), khmer:សាលា (saalaa)  
 **salade** *salaatti* ← ranska:salade, malaiji:salad, deu:Salat, venäjä:салат (salat), turkki:salata, persia:urdu:(salād), hindi:सलाद (salād), kantoninkiina:沙律 (saa1 leot62),  yleiskiina:沙拉 (shālā), portugali:salada, espanja:ensalado, korea:샐러드 (saelleodeu), japani:サラダ (sarada), thai:สลัด (salat), khmer:សាលាដ (saalaat)  
@@ -1600,6 +1599,7 @@
 **ye** *kyllä* ← englanti:yeah, deu:ja, korea:예 (ye), japani:ええ (ē) + malaiji:ya + arabia: إِِي (ʾiī)   
 **yei** *jee! (hurraa!)* ← englanti:yay, puola:jej, japani:イエイ (iei)  
 **yeka** *vaihtaa (tehdä vaihtokauppa)* ← yleiskiina:易 (yì), kantoninkiina:易 (yik6), japani:易 (eki), korea:역 (yeok), vietnami:dịch  
+**yem** *suola* ← yleiskiina:盐 (yán), kantoninkiina:鹽 (yim4), japani:塩 (en), korea:염 (yeom), vietnami:diêm  
 **yen sui** *kyynel* ← tamili:கண்ணீர் (kaṇṇīr), malayalam:കണ്ണുനീർ (kaṇṇunīr), telugu:(kannīru), korea:눈물 (nunmul), vietnami:nước mắt, malaiji:air mata, thai:น้ำตา  
 **yen** *silmä* ← yleiskiina:眼 (yǎn) + arabia: عَيْن‎ (ʿayn), egyptinarabia: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaiji:ain + ranska:yeux  
 **yepa** *lehti (arkki, levy)* ← yleiskiina:叶 (yè), kantoninkiina:葉 (jip6), korea:잎 (ip);엽 (yeop), vietnami:diệp, japani:葉 (yō)  

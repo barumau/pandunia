@@ -1393,9 +1393,9 @@ sacrifício - kurban
 sagrada escritura - sante kanon  
 sagu - sagu  
 sair - be vai  
-sal - sal  
+sal - yem  
 sala (câmara) - kamar  
-salino - sal di  
+salino - yem di  
 salmão-cão (salmão-keta) - baku salmon  
 salmão-rosa - rode salmon  
 salmão-vermelho - rubi salmon  

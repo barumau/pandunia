@@ -3201,8 +3201,8 @@ suodattaa - filtre
 suojakilpi - defa bano  
 suojakypärä - defa kaska  
 suojella (suojata, turvata) - fa sekur  
-suola - sal  
-suolainen - sal di  
+suola - yem  
+suolainen - yem di  
 suolakurkku (etikkakurkku) - acar hiyar  
 suomen kieli - suomi baxa  
 Suomi - Suomi  
@@ -3922,7 +3922,7 @@ vohveli - vafle
 voi - makan  
 voida (osata, pystyä, mahdollinen, ehkä) - bil  
 voileipä - sanduice  
-voileipäkeksi - sal biskute  
+voileipäkeksi - yem biskute  
 voima - balata  
 voimakas (vahva) - bala  
 voimistaa - fa max lika  
