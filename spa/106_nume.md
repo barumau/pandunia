@@ -11,7 +11,7 @@
 | 4 nelu   | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
 | 5 lima   | 15 des lima  | 25 du des lima   | 35 tri des lima  |
 | 6 luka   | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 cheti  | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
+| 7 ceti   | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
 | 8 bati   | 18 des bati  | 28 du des bati   | 38 tri des bati  |
 | 9 tisa   | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
@@ -23,7 +23,7 @@
 | 4 nelu   | 40 nelu des  | 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima   | 50 lima des  | 500 lima sento  | 5000 lima kilo    |
 | 6 luka   | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 cheti  | 70 cheti des | 700 cheti sento | 7000 cheti kilo   |
+| 7 ceti   | 70 ceti des  | 700 ceti sento  | 7000 ceti kilo    |
 | 8 bati   | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa   | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
@@ -47,7 +47,7 @@ Se usan en palabras científicos en todo el mundo.
 | giga    | G       | 10⁹  |                     1'000'000'000 |
 | tera    | T       | 10¹² |                 1'000'000'000'000 |
 | peta    | P       | 10¹⁵ |             1'000'000'000'000'000 |
-| eksa    | E       | 10¹⁸ |         1'000'000'000'000'000'000 |
+| exa     | E      | 10¹⁸ |         1'000'000'000'000'000'000 |
 | zeta    | Z       | 10²¹ |     1'000'000'000'000'000'000'000 |
 | yota    | Y       | 10²⁴ | 1'000'000'000'000'000'000'000'000 |
 
@@ -63,7 +63,7 @@ Ellas preceden la palabra o frase que califican.
 – dos estrellas  
 **tri sing**
 – tres estrellas  
-**xau sing**
+**kam sing**
 – pocas estrellas  
 **poli sing**
 – muchas estrellas
@@ -139,34 +139,23 @@ La manera corta es usar números ordinales.
 – tres cuartos (¾)  
 **un fen sento**
 – un centésimo (un por ciento) (1%)  
-**un da kilo fen**
+**un fen kilo**
 – un milésima (un por mil) (1‰)
 
 La manera más largo usa la pauta
-**X da Y fen**
+**X de Y fen**
 ('X de Y partes').
 
-**un da du fen**
+**un de du fen**
 – una de dos partes, una mitad (½)  
-**un da nelu fen**
+**un de nelu fen**
 – una de cuatro partes, un cuarto (¼)  
-**tri da nelu fen**
+**tri de nelu fen**
 – tres de cuatro partes, tres cuartos (¾)  
-**un da sento fen**
+**un de sento fen**
 – una de cien partes, uno por ciento (1%)  
-**un da kilo fen**
+**un de kilo fen**
 – una de miles partes, uno por mil (1‰)
-
-Fracciones se conectan al sustantivo con
-**da**
-(«de»).
-
-**un fen du da hor**
-– una mitad de una hora (una media hora)  
-**lima des fen sento da jen**
-– cincuenta por ciento de la gente  
-**du fen tri da keke**
-– dos terceras de un pastel  
 
 
 ## Fecha y tiempo
@@ -174,30 +163,30 @@ Fracciones se conectan al sustantivo con
 #### Días de la semana
 
 Días de la semana inclusan la palabra
-**var**
+**den**
 («día de la semana»).
 Se numeran desde lunes.
 lunes es
-**var un**
+**den un**
 («día de la semana primera»),
 martes es
-**var du**
+**den du**
 («día de la semana segunda»)
 y demás.
 
-1. **var un**
+1. **den un**
    – lunes
-2. **var du**
+2. **den du**
    – martes
-3. **var tri**
+3. **den tri**
    – miércoles
-4. **var nelu**
+4. **den nelu**
    – jueves
-5. **var lima**
+5. **den lima**
    – viernes
-6. **var luka**
+6. **den luka**
    – sabado
-7. **var ceti**
+7. **den ceti**
    – domingo
 
 #### Meses

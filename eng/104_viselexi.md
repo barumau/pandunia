@@ -111,12 +111,12 @@ The demonstratives can serve as subjects and objects in the same way as nouns.
 
 When the verb is a content word,
 there needs to be a modal particle,
-like **ya** or **no**,
+like **ye** or **no**,
 between the subject and the verb.
 
 **mi vide du jen.**
 – I see two persons.  
-**yi ya gani e vo no gani.**
+**yi ye gani e vo no gani.**
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
@@ -136,27 +136,36 @@ and it is known by the audience or is topical within the discourse.
 
 The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
-**la** refers to things previously spoken,
-**yi** refers to things currently being spoken,
-and **vo** refers to things about to be spoken.
+**la**
+refers to things previously spoken,
+**yi**
+refers to things currently being spoken, and
+**vo**
+refers to things about to be spoken.
 
 **yi jumla si korte.**
 – This sentence is short.
 
-In the above, **yi jumla** (_this sentence_) refers to the sentence being spoken.
+In the above,
+**yi jumla**
+(_this sentence_) refers to the sentence being spoken.
 
 **mi mana vo: mi ama tu.**
 – I mean this: I love you. OR I mean that I love you.  
-**mi ama tu. mi mana la.**
+**mi ame tu. mi mana la.**
 – I love you. That is what I mean.
 
-In the above, the pronoun **vo** refers to the content of the next statement
-and **la** refers to the content of the previous statement.
+In the above, the pronoun
+**vo**
+refers to the content of the next statement and
+**la**
+refers to the content of the previous statement.
 
 
 ## Interrogative pronouns
 
-**ke** is a general-purpose interrogative pronoun.
+**ke**
+is a general-purpose interrogative pronoun.
 It does the job of English words _who_ and _what_.
 
 **ke?**
@@ -173,7 +182,7 @@ and it means the same as English _which_.
 – When? (What time?)  
 **ke yang?** 
 – How? (What way?)  
-**ke sababe?**
+**ke sabu?**
 – Why? (What reason?)
 
 Also adjectives are questioned with **ke**.

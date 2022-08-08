@@ -37,7 +37,7 @@ Simplemente inserta un número delante del sustantivo igual.
 – dos sillas  
 **tri kursi**
 – tres sillas  
-**ba kursi**
+**poli kursi**
 – muchas sillas
 
 Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
@@ -81,9 +81,9 @@ Dos o más sustantivos pueden reunirse para hacer una palabra compuesta.
 La última palabra es la palabra más significativa,
 y las palabras que preceden a ella solo modifica el significado.
 
-**sol fote**
+**sol foto**
 – luz solar  
-**lun fote**
+**lun foto**
 – luz lunar  
 **lun ite**
 – roca lunar

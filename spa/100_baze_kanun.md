@@ -39,14 +39,15 @@ Ellas se describien en más detalle más tarde en este sitio.
        - Dieces: 20 **du des**, 30 **tri des**, 40 **nelu des**, etc.
        - Cientos: 100 **un sento**, 200 **du sento**, 300 **tri sento**, etc.
        - Miles: 1000 **un kilo**, 2000 **du kilo**, 3000 **tri kilo**, etc.
-       - Los números ordinales usan el sufijo **me**: **unime** (primer), **duime** (segundo), **trime** (tercer), etc.
+       - Los números ordinales usan el sufijo **me**:
+         **un me** (primer), **du me** (segundo), **tri me** (tercer), etc.
 7. **Modificadores:**
    Los adjetivos y adverbos tienen la misma forma.
    El adjetivo está antes del sustantivo que modifica,
    y el adverbo está antes del verbo que modifica.
-    - **un rapide loge**
+    - **un kuai loga**
       – Un habla rápida.
-    - **tu rapide loge.**
+    - **tu kuai loga.**
       – Tú hablas rápido.
 8. **Verbos:**
    Los verbos no cambian para persona, número, o tenso.
@@ -60,27 +61,27 @@ Ellas se describien en más detalle más tarde en este sitio.
       El mismo orden se usa en ambos declaraciones y preguntas.
     - Una oración pasiva se construye con la ayuda del verbo auxiliar pasivo **be**.
       Un efeto similar se puede lograr con el pronombre impersonal **mon**.
-        - **pandunia be loge.**
+        - **pandunia be loga.**
           – Pandunia es hablado.
-        - **men loge pandunia.**
+        - **men loga pandunia.**
           – Uno habla Pandunia.
     - En la _structura de eje_, el objeto del verbo transitivo
       funcciona como el subjeto del verbo siguiente.
-        - **mi cing tu loge pandunia.**
+        - **mi cing tu loga pandunia.**
           – Yo te pido a tú hablar Pandunia.
     - Pronombres se pueden omitir cuando son obvios y superfluos.
-        - **_mi_ cing _tu_ loge pandunia.**
-          → **cing loge pandunia.**
+        - **_mi_ cing _tu_ loga pandunia.**
+          → **cing loga pandunia.**
           – Por favor habla Pandunia.
 10. **Construcción de las palabras:**
    En Pandunia, palabras se cambian solo cuando su significado se cambia.
    Palabras nunca se cambian solo para serve en un rol gramático diferente.
    Palabras compuestas se hacen combinando los elementos que las construyen.
    La palabra principal está en el fin.
-    - **poste**
+    - **posta**
       ("correo") +
-      **kase**
+      **kasa**
       ("caja") =
-      **poste kase**
+      **postakasa**
       ("buzón")
 

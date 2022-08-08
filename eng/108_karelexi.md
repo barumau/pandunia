@@ -11,22 +11,22 @@ For example, the verb
 **si**
 ('to be') has the same form in all persons.
 
-**_mi_ si doste.**
+**_mi_ si dosti.**
 – I am a friend.  
-**_tu_ si doste.**
+**_tu_ si dosti.**
 – You are a friend.  
-**_ya_ si doste.**
+**_ya_ si dosti.**
 – He or she is a friend.  
-**_mimen_ si doste.**
+**_mimen_ si dosti.**
 – We are friends.  
-**_tumen_ si doste.**
+**_tumen_ si dosti.**
 – You are friends.  
-**_yamen_ si doste.**
+**_yamen_ si dosti.**
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau si zoe.**
+**mau si hevan.**
 – The cat is an animal.
 
 Frequently there is a marker between the subject and the verb
@@ -53,15 +53,15 @@ which are introduced next.
 
 The relationship of an action, event or state to time is indicated with auxiliary verbs.
 
-**xure**
+**xuru**
 ('begin, start')
 indicates beginning of an action or transition to a new situation.
 
-**mi xure fuke la kote.**
+**mi xuru fuke la kote.**
 – I start wearing the coat. = I put the coat on.  
-**kaguje ye xure hoge.**
+**kaguji ye xuru hoge.**
 – Paper starts to burn.  
-**tu xure yam.**
+**tu xuru yam.**
 – You start to eat.
 
 **fin**
@@ -70,7 +70,7 @@ conveys the idea of "to stop doing something".
 
 **yamen fin haha.**
 – They stopped laughing.  
-**kaguje ye fin hoge.**
+**kaguji ye fin hoge.**
 – Paper ceased to burn.  
 **tu fin yam.**
 – You stop eating.
@@ -126,7 +126,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 – I haven't drank alcohol yet.  
 **mi _le_ no gul yo alkohol.**
 – I am already not drinking alcohol.  
-**mi _le_ don la buku to yamen.**
+**mi _le_ da la buku to yamen.**
 – I have given the book to them. Or: I already gave the book to them.  
 **yamen no _le_ ridone ya to mi.**
 – They haven't given it back to me. Or: They didn't give it back to me yet.  
@@ -138,7 +138,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**mi pas done la buku to yamen.**
+**mi pas da la buku to yamen.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas vizite Franse.**
 – I have visited France.  

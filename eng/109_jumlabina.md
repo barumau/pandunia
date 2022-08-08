@@ -61,7 +61,7 @@ Also two personal pronouns can be combined with **si** and **no**.
 
 The same rule applies also for two adjectives, or a verb and an adjective.
 
-**jovan si mei.**
+**jun si mei.**
 – Young is beautiful.  
 **neu no lau.**
 – New is not old.  
@@ -92,11 +92,11 @@ To clarify the order or to add other objects, the auxiliary verbs **fa** and **b
 **fa** indicates that the subject is the agent or doer of the action,
 and **be** indicates that the subject is the patient, or receiver.
 
-**mi fa salam mi su doste.**
+**mi fa salam mi su dosti.**
 – I greet my friend.  
-**mi be salam mi su doste.**
+**mi be salam mi su dosti.**
 – I am greeted by my friend.  
-**pa fa mi salam mi su doste.**
+**pa fa mi salam mi su dosti.**
 – Father makes me greet my friend.
 
 
@@ -110,7 +110,7 @@ subject – verb 1 – object 1 – verb 2 – object 2.
 Object 1 has two roles.
 It is at the same time the object for the verb 1 and the subject for the verb 2.
 
-**mi vol tu yam yo fite.**
+**mi vol tu yam yo fito.**
 – I want you to eat vegetables.
 
 In the example above,
@@ -121,7 +121,7 @@ as its object.
 At the same time,
 **tu**
 functions as the subject of the following predicate,
-**yam ba fite**.
+**yam yo fito**.
 So
 **tu**
 is the _pivot_ of the entire sentence.
@@ -130,17 +130,17 @@ The second verb in a pivot structure is the main verb.
 The first verb is a modal verb,
 which indicates a modality such as desire, permission or obligation.
 
-**mi vol tu yam fite.**
+**mi vol tu yam fito.**
 – I want you to eat vegetables. (desire)  
-**mi sel tu yam fite.**
+**mi sel tu yam fito.**
 – I advise you to eat vegetables. (advice)  
-**mi halal tu yam fite.**
+**mi halal tu yam fito.**
 – I allow you to eat vegetables. (permission)  
-**mi bil tu yam fite.**
+**mi bil tu yam fito.**
 – I enable you to eat vegetables. (ability)  
-**mi mus tu yam fite.**
+**mi mus tu yam fito.**
 – I compel you to eat vegetables. (obligation)  
-**mi rai tu yam fite.**
+**mi rai tu yam fito.**
 – I think you eat vegetables. (opinion)
 
 
@@ -160,15 +160,15 @@ and all of them are about the same subject.
 The last verb in the series is the main verb.
 The verbs before it are modal verbs.
 
-**tu vol yam yo fite.**
+**tu vol yam yo fito.**
 – You want to eat vegetables. (desire)  
-**tu sel yam yo fite.**
+**tu sel yam yo fito.**
 – You had better eat vegetables. (advice)  
-**tu halal yam yo fite.**
+**tu halal yam yo fito.**
 – You may eat vegetables. (permission)  
-**tu bil yam yo fite.**
+**tu bil yam yo fito.**
 – You can eat vegetables. (ability)  
-**tu mus yam yo fite.**
+**tu mus yam yo fito.**
 – You must eat vegetables. (obligation)
 
 ## Pronoun dropping
@@ -354,7 +354,7 @@ A content clause is a subordinate clause that provides content that is commented
 In Pandunia they are typically introduced with the conjunction
 **ki**.
 
-**mi sabe ki tu si doste.**
+**mi sabe ki tu si dosti.**
 – I know that you are a friend.  
 **yamen fikir ki mimen le cuti.**
 – They think that we have left.
@@ -464,11 +464,11 @@ Different scopes of negation may result depending on the location of the negativ
 **mi vide no tu a yamen.**
 – I see, not you, but them.
 
-**mi cing tu safe la kamar.**
+**mi cing tu safi la kamar.**
 – I ask you to clean the room.  
-**mi no cing tu safe la kamar.**
+**mi no cing tu safi la kamar.**
 – I do NOT ask you to clean the room.  
-**mi cing tu no safe la kamar.**
+**mi cing tu no safi la kamar.**
 – I ask you NOT to clean the room.
 
 

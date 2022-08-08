@@ -23,7 +23,7 @@
 **mi si Sara. ya si ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**ya si mi su doste.**
+**ya si mi su dosti.**
 = That is my friend.  
 <big>☺</big>
 **ya su nam si ke?**
@@ -37,9 +37,11 @@
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**ya si mi su doste**
-the topic is the pronoun **ya** (he, she, it), which is followed by the comment
-**si mi su doste**
+**ya si mi su dosti**
+the topic is the pronoun
+**ya**
+(he, she, it), which is followed by the comment
+**si mi su dosti**
 (is my friend).
 
 In Pandunia, the word **si** functions like _to be_ in English.
@@ -51,9 +53,9 @@ And to say the opposite, simply put **no** before it.
 **ya no si Sara.**
 = She is not Sarah.
 
-**mau si zoe.**
+**mau si hevan.**
 = The cat is an animal.  
-**dom no si zoe.**
+**dom no si hevan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
@@ -105,7 +107,7 @@ to be
 no; not  
 **bon**
 good  
-**doste**
+**dosti**
 friend  
 **nam**
 name  
@@ -115,14 +117,14 @@ woman
 man  
 **mau**
 cat  
-**zoe**
+**hevan**
 animal
 
 ### Answers to the Exercises
 
 1. tu si ke?
 2. mi si tomas.
-3. tu su doste si ke?
+3. tu su dosti si ke?
 4. ya si Sara.
 5. tu su nam si ke?
 6. mi su nam si ........... 
@@ -354,13 +356,13 @@ has a useful pattern that can be used for making polite requests.
 
 **cing side.**
 = Please be seated.  
-**cing don yo kafe.**
+**cing da yo kafe.**
 = Please give me some coffee.  
-**cing don yo cai.**
+**cing da yo cai.**
 = Please give me some tea.  
 **cing yam yo cai.**
 = Please have some tea.  
-**cing safe la kamar.**
+**cing safi la kamar.**
 = Please clean the room.
 
 Commands are introduced with
@@ -368,14 +370,14 @@ Commands are introduced with
 ('to command'). They employ the same pivot structure as requests with
 **cing**.
 
-**amir don yo cai.**
+**amir da yo cai.**
 = Give (me) some tea!  
-**amir safe la kamar.**
+**amir safi la kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safe ya!**
+**safi ya!**
 = Clean it!
 
 
@@ -400,7 +402,7 @@ tea
 grandfather  
 **cing**
 to ask; please  
-**don**
+**da**
 to give  
 **e**
 and  
@@ -416,7 +418,7 @@ the
 must, have to  
 **o**
 or  
-**safe**
+**safi**
 to clean  
 **xukur**
 thanks  
@@ -435,7 +437,7 @@ some, a(n)
 1. ya yam cai.
 2. la xefe cing ya side.
 3. cing yam kafe o cai.
-4. mama cing mi safe kamar.
+4. mama cing mi safi kamar.
 5. xefe side e yam kafe.
 
 
@@ -480,7 +482,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**xukur. mi don un cai e un kafe e un supe pos des minute.**
+**xukur. mi da un cai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -513,7 +515,7 @@ Of course common and proper nouns can also be used.
 
 **sual xefe yam kafe?**
 = Does the chief drink coffee?  
-**sual papa safe kamar?**
+**sual papa safi kamar?**
 = Does the father clean the room?  
 **sual niki baxa pandunia?**
 = Does Nicky speak Pandunia?
@@ -622,11 +624,11 @@ In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi cing tu safe la kamar.**
+**mi cing tu safi la kamar.**
 = I ask you to clean the room.  
-**mi no cing tu safe la kamar.**
+**mi no cing tu safi la kamar.**
 = I do NOT ask you to clean the room.  
-**mi cing tu no safe la kamar.**
+**mi cing tu no safi la kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
@@ -677,7 +679,7 @@ but
 
 ### Answers to the Exercises
 
-1. ya no safe kamar.
+1. ya no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
 4. ya no ten vaf e mau. / ya ten no vaf e no mau.
@@ -843,7 +845,7 @@ time expression is present, other markers are not needed.
 
 **mi be jene a nen 2003.**
 = I was born in 2003.  
-**ya safe la kamar a pos den.**
+**ya safi la kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -886,7 +888,7 @@ milk
 1. mi su xefe festa a xa.
 2. mi ten du vaf a pas.
 3. tu yam supe a zai.
-4. ya safe kamar a pre den.
+4. ya safi kamar a pre den.
 5. mau yam milke a pos den.
 6. tu su mama festa a prenoce.
 

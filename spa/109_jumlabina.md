@@ -19,7 +19,7 @@ En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un 
 
 **mi bon.**
 – Yo estoy bien.  
-**ya nove.**
+**ya neu.**
 – Ello es nuevo.  
 **ya Sara.**
 – Ella es Sara.
@@ -31,7 +31,7 @@ Cuando el sujeto es un sustantivo, el verbo de conexión **si** («ser», «esta
 – Sara está bien.  
 **ite si dai.**
 – Rocas son grandes.  
-**meza si nove.**
+**meza si neu.**
 – La mesa es nueva.
 
 La palabra **no** se añade para formar el negativo.
@@ -41,11 +41,11 @@ Entonces el verbo **si** no es necesario.
 |------------------|--------------------|
 | **mi bon.**      | **mi no bon.**     |
 | Yo estoy bien.   | Yo no estoy bien.  |
-| **ya nove.**     | **ya no nove.**    |
+| **ya neu.**      | **ya no neu.**     |
 | Ello es nuevo.   | Ello no es nuevo.  |
 | **ya Sara.**     | **ya no Sara.**    |
 | Ella es Sara.    | Ella no es Sara.   |
-| **Sara si bon.** | **Sara no bon.**   |
+| **Sara si bon.**  | **Sara no bon.**   |
 | Sara está bien.  | Sara no está bien. |
 
 
@@ -53,7 +53,7 @@ Dos pronombres personales también se pueden combinar con **si** y **no**.
 
 **mi si ya.**
 – Yo soy ello.  
-**mi no tu.**
+**mi no (si) tu.**
 – Yo no soy tú.
 
 
@@ -61,11 +61,11 @@ Dos pronombres personales también se pueden combinar con **si** y **no**.
 
 La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 
-**jovan si sundar.**
+**jun si mei.**
 – Joven es lindo.  
-**nove no lau.**
+**neu no lau.**
 – Nuevo no es viejo.  
-**cante si bon.**
+**gani si bon.**
 – Cantar es bueno.
 
 
@@ -92,11 +92,11 @@ Para clarificar el orden o para añadir otros objetos, los verbos auxiliares **f
 **fa** indica que el sujeto es el agento o hacedor de la acción,
 y **be** indica que el sujeto es el paciente o recibirador.
 
-**mi fa salam mi su doste.**
+**mi fa salam mi su dosti.**
 – Yo saludo a mi amiga.  
-**mi be salam mi su doste.**
+**mi be salam mi su dosti.**
 – Yo soy saludada por mi amiga.  
-**pa fa mi salam mi su doste.**
+**pa fa mi salam mi su dosti.**
 – Mi papá me hace saludar a mi amiga.
 
 
@@ -110,28 +110,37 @@ subjeto – verbo 1 – objeto 1 – verbo 2 – objeto 2.
 Objeto 1 tiene dos papeles.
 Es al mismo tiempo el objeto del verbo 1 y el sujeto del verbo 2.
 
-**mi vol tu yam yo fite.**
+**mi vol tu yam yo fito.**
 – Yo quiero que tú comes verduras.
 
-En el ejemplo arriba, **mi vol** tiene **tu** como su objeto.
-Al mismo tiempo, **tu** funciona como el sujeto del predicado siguiente, **yam yo fito**.
-Entonces **tu** es el _eje_ de la oración entera.
+En el ejemplo arriba,
+**mi vol**
+tiene
+**tu**
+como su objeto.
+Al mismo tiempo,
+**tu**
+funciona como el sujeto del predicado siguiente,
+**yam yo fito**.
+Entonces
+**tu**
+es el _eje_ de la oración entera.
 
 El verbo segundo en una estructura de eje es el verbo principal.
 El verbo primero es un verbo modal,
 que indica una modalidad como desero, permiso, o obligación.
 
-**mi vol tu yam fite.**
+**mi vol tu yam fito.**
 – Quiero que tú comes verduras. (desero)  
-**mi sel tu yam fite.**
+**mi sel tu yam fito.**
 – Aconsejo que tú comes verduras. (consejo)  
-**mi halal tu yam fite.**
+**mi halal tu yam fito.**
 – Permito a tú comer verduras. (permiso)  
-**mi bil tu yam fite.**
+**mi bil tu yam fito.**
 – Posibilito a tú comer verduras. (habilidad)  
-**mi mus tu yam fite.**
+**mi mus tu yam fito.**
 – Obligo a tú a comer verduras. (obligación)  
-**mi rai tu yam fite.**
+**mi rai tu yam fito.**
 – Opina que tú comes verduras. (opinión)
 
 
@@ -140,26 +149,26 @@ que indica una modalidad como desero, permiso, o obligación.
 Puede haber dos, tres, o incluso más verbos en una serie,
 y todos tienen el mismo sujeto.
  
-1. **mi ga do dom.**
+1. **mi ga to dom.**
    – Me voy a casa.  
-2. **mi bil ga do dom.**
+2. **mi bil ga to dom.**
    – Me puede ir a casa.  
-3. **mi vol bil ga do dom.**
+3. **mi vol bil ga to dom.**
    – Me quiero poder ir a casa.
    (Palabra por palabra: _Yo querer poder irse a casa_!)
 
 El verbo último en la serie es el verbo principal.
 Los verbos que lo predece son verbos modales.
 
-**tu vol yam yo fite.**
+**tu vol yam yo fito.**
 – Tú quieres comer verduras. (desero)  
-**tu sel yam yo fite.**
+**tu sel yam yo fito.**
 – Tú debes comer verduras. (consejo)  
-**tu halal yam yo fite.**
+**tu halal yam yo fito.**
 – Tú puede comer verduras. (permiso)  
-**tu bil yam yo fite.**
+**tu bil yam yo fito.**
 – Tú puede comer verduras. (habilidad)  
-**tu mus yam yo fite.**
+**tu mus yam yo fito.**
 – Tú tienes que comer verduras. (obligación)
 
 ## Omitir pronombres
@@ -176,9 +185,9 @@ Esto es común especialmente en mandatos y pedidos.
 
 ### Estructura de eje corta (VVO)
 
-**mi cing tu lai do dom.**
+**mi cing tu lai to dom.**
 – Yo te pido que vienes a casa.  
-**cing lai do dom!**
+**cing lai to dom!**
 – ¡Por favor viene a casa!
 (Palabra por palabra: _¡Pedir venir a casa!_)
 
@@ -264,8 +273,6 @@ La pregunta se repuesta por repetir el alternativo elegido.
 – Comes un o dos plátanos.  
 **tu yam un o du banana, he?**
 – ¿Comes un o dos plátanos?  
-**tu yam un o du banana, he?**
-– ¿Comes un o dos plátanos?  
 **un.**
 – Un.
 
@@ -303,40 +310,40 @@ y corresponde a español _que_ o _el cual_.
 
 En Pandunia, cláusulas relativas siempre son separadadas por comas.
 
-**la buke, jo la jen fa kitabe, pade.**
+**la buku, jo la jen fa kitabu, pada.**
 – El libro, que la persona escribe, cae.
 
 Es posible omitir **jo**.
 Esta estructura se llama _cláusula relativa reducida_.
 
-**la buke, la jen fa kitabe, pade.**
+**la buku, la jen fa kitabu, pada.**
 – El libro, que la persona escribe, cae.
 
 El pronombre relative es necesario
 cuando el sustantivo relativizado es el sujeto de la cláusula relativa.
 
-**la jen, jo fa kitabe la buke, pade.**
+**la jen, jo fa kitabu la buku, pada.**
 – La persona, que escribe el libro, cae.
 
 En adición el objeto de una preposición puede ser la cabeza de la cláusula relativa.
 Es posible usar pronombres relativas o la estructura de cláusula relativa reducida.
 
-**la kalam, na jo la jen fa kitabe la buke, pade.**
+**la kalam, na jo la jen fa kitabu la buku, pada.**
 – La pluma, con que la persona escribe el libro, cae.  
-**la kalam, la jen fa kitabe la buke a, pade.**
+**la kalam, la jen fa kitabu la buku a, pada.**
 – La pluma, con que la persona escribe el libro, cae.
 
 El pronombre relativo puede ponerse en su lugar correcto en la estructura de eje
 o puede omitirse usando la estructura de cláusula relativa reducida.
 
-**la jen, mi vide jo fa kitabe la buke, pade.**
+**la jen, mi vide jo fa kitabu la buku, pada.**
 – La persona, que veo escribir el libro, cae.
-**la jen, mi vide fa kitabe la buke, pade.**
+**la jen, mi vide fa kitabu la buku, pada.**
 – La persona, que veo escribir el libro, cae.
 
 En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 
-**la jen, mi fa kitabu la buku va jo su kalam, padu.**
+**la jen, mi fa kitabu la buku na jo su kalam, padu.**
 – La persona, con cuya pluma escribo el libro, cae.
 
 
@@ -345,7 +352,7 @@ En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 Una cláusula de contenido puede ponerse antes o despues de la cláusula que habla sobre ella.
 El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 
-**go si bari, mi le no vide yamen.**
+**vo si bari, ki mi le no vide yamen.**
 – Lo siguiente es importante: resulta que no los veo.  
 **pan jen ha sam vale, la fate si klar.**
 – Todas las personas son iguales; este hecho es claro.

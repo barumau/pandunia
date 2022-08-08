@@ -9,23 +9,23 @@ Dos o más palabras se pueden armar para hacer una _palabra compuesta_.
 La palabra última es la parte más significativo en la compuesta
 y las otras palabras que la preceden solo modifican su significado.
 
-**demo**
+**demi**
 (gente) +
 **krati**
 (reinado) =
-**demo krati**
+**demikrati**
 (democracia).
 
-**an demo krati di**
+**andemikrati di**
 (antidemocrático)
 
-**termo**
+**termi**
 (temperatura) +
 **metre**
 (medida) +
-**gi**
+**-r**
 (aparato) =
-**termo metre gi**
+**termimetrer**
 (termómetro).
 
 
@@ -151,10 +151,10 @@ Este sufijo describe una persona que segue cierta ideología.
 **deu sim di** teísta  
 
 
-#### she
+#### xe
 
 Indica una cosa que mostra un atributo o sufrir una acción.
 
 **sabe** saber →
-**sabe she** sabida cosa (conocimiento)
+**sabe xe** sabida cosa (conocimiento)
 

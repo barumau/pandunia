@@ -40,7 +40,7 @@ Hello!
 **sal suba!**
 Good morning!
 
-**sal den!**
+**sal dia!**
 Good day!
 
 **sal xam!**
@@ -61,7 +61,7 @@ Goodbye!
 **sal safar!**
 Have a safe journey!
 
-**sal some!**
+**sal sona!**
 Sleep well!
 
 As you can see from the range of expressions,
@@ -186,7 +186,7 @@ That's why
 is the same in subject and object positions
 while English has two different forms, 'I' and 'me'.
 
-**mi ama tu.**
+**mi ame tu.**
 I love you.
 
 <small>Etymology. **tu** is from Spanish: tu, Russian: ты (ty), Italian: tu, French: tu.</small>
@@ -220,13 +220,13 @@ I greet him/her.
 **sual tu si Tomas?**
 Are you Thomas?
 
-**sual tu si tiber?**
+**sual tu si davar?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **sual**.
 It is just a regular verb, not a special _question tag_.
 In fact, the previous question is simply abbreviated from
-**mi sual tu tiber**
+**mi sual tu davar**
 (I ask, you doctor?) by dropping out the first word.
 
 **sual tu bon?**
@@ -253,10 +253,10 @@ Are you Thomas.
 **ye, mi si Tomas.**
 Yes, I am Thomas.
 
-**sual ya si tiber?**
+**sual ya si davar?**
 Is he/she a doctor?
 
-**ye, ya si tiber.**
+**ye, ya si davar.**
 Yes, he is a doctor.
 
 
@@ -265,7 +265,7 @@ Yes, he is a doctor.
 **mi no si Sara.**
 I'm not Sarah.
 
-**mi no si tiber.**
+**mi no si davar.**
 I'm not a doctor.
 
 **sual tu bon?**
@@ -407,10 +407,10 @@ means "your" and so on.
 **ya si ke?**
 Who's he/she?
 
-**ya si mi su doste.**
+**ya si mi su dosti.**
 He/she is my friend.
 
-**mi si Sara su doste.**
+**mi si Sara su dosti.**
 I am Sarah's friend.
 
 <small>Etymology. **su**
@@ -676,8 +676,8 @@ How do you say "cat" in Pandunia?
 **"cat" si ke a pandunia?**
 What is "cat" in Pandunia?
 
-**mau loga miau.**
-Cat says meow.
+**mau loga "miau".**
+Cat says "meow".
 
 
 ### aude <small>to listen, hear</small>
@@ -870,7 +870,7 @@ I wait for you in the hotel.
 
 ### zai <small>currently</small>
 
-**mi zai salam tu su doste.**  
+**mi zai salam tu su dosti.**  
 I am greeting your friend.
 
 **la man ye zai vide un filme.**  
@@ -885,7 +885,7 @@ He or she is currently at home.
 
 ### pas <small>in the past</small>
 
-**mi pas salam tu su doste.**  
+**mi pas salam tu su dosti.**  
 I greeted your friend.
 
 **la man ye pas vide un filme fem.**  
@@ -900,7 +900,7 @@ He or she was at home.
 
 ### le <small>already, completed</small>
 
-**mi le salam tu su doste.**  
+**mi le salam tu su dosti.**  
 I have greeted your friend.
 
 **la man le vide un filme.**  
@@ -915,7 +915,7 @@ He or she has been at home.
 
 ### xa <small>in the future</small>
 
-**mi xa salam tu su doste.**  
+**mi xa salam tu su dosti.**  
 I will greet your friend.
 
 **la man xa vide la filme.**  
@@ -932,54 +932,54 @@ He or she will be at home.
 
 ## Part 6. Doing business
 
-### don <small>give</small>
+### da <small>give</small>
 
-**cing don yo pesa.**
+**cing da yo pesa.**
 Please give some money.
 
-**cing don ya to mi.**
+**cing da ya to mi.**
 Please give it to me.
 
-**mi don yi to tu.**
+**mi da yi to tu.**
 I give this to you.
 
-**mi don buke to yamen.**
+**mi da buku to yamen.**
 I give a book to them.
 
-**ya no vol don ya to mi.**
+**ya no vol da ya to mi.**
 He/she doesn't want to give it to me.
 
 
-### kape <small>take, get</small>
+### na <small>take, get</small>
 
-**mi kape un kafe.**
+**mi na un kafe.**
 I will take a coffee.
 
-**cing kape un kafe to mi.**
+**cing na un kafe to mi.**
 Please take one coffee for me.
 
-**tu pas kape pesa de mi.**
+**tu pas na pesa de mi.**
 You already got money from me before.
 
-**mi kape un bir.**
+**mi na un bir.**
 I will take a beer.
 
 
-### kire <small>rent, lease, hire</small>
+### kira <small>rent, lease, hire</small>
 
-**kire si 500 dolar a lun.**  
+**kira si 500 dolar a lun.**  
 The rent is 500 dollars in a month.
 
-**ya no bil pei la kire.**  
+**ya no bil pei la kira.**  
 He/she can't pay the rent.
 
-**mi vol kape un gar a kire.**  
+**mi vol na un gar a kira.**  
 I want to take a car for rent.
 
-**mi vol kire kape un kar.**
+**mi vol kira na un kar.**
 I want to rent a car.
 
-**ya kire don la kamar to safarer.**
+**ya kira da la kamar to safarer.**
 He/she rents rooms to travelers.
 
 
@@ -991,7 +991,7 @@ Tip: Buying and selling a compound words: **mai dar**
 means _to sell_ and **mai kap**
 means _to buy_.
 
-**yamen mai dona pan.**
+**yamen mai da pan.**
 They sell everything.
 
 **mi mai kapa un bir.**

@@ -33,40 +33,40 @@ teoría del idioma. Puedes hablar pandunia sin más.
 
 ### salam <small>saludar, saludo</small>
 
-**salam**
+**sal**
 Hola.
 
-**salam suba!**
+**sal suba!**
 Buenos días. (Se usa por la mañana.)
 
-**salam dia!**
+**sal dia!**
 Buenos días.
 
-**salam xam!**
+**sal xam!**
 Buenas tardes.
 
-**salam noce!**
+**sal noce!**
 Buenas noches.
 
-**salam yam!**
+**sal yam!**
 Buen apetito. / Que aproveche.
 
-**salam lai!**
+**sal lai!**
 Bienvenido/s.
 
-**salam ga!**
+**sal ga!**
 Adiós.
 
-**salam safar!**
+**sal safar!**
 Buen viaje.
 
-**salam sona!**
+**sal sona!**
 Que duermas bien. / Que descanses.
 
 Como puedes ver arriba, **salam** es una palabra general para desear el bien.
 Puedes usarla cuando quieras.
 
-**Salam** es un saludo popular usado por personas, tanto religiosas como no
+**salam** es un saludo popular usado por personas, tanto religiosas como no
 religiosas, en muchos países del mundo.
 
 <small>Etimología. **salam** viene del árabe: سَلَام‏ "salām", hebreo:
@@ -74,24 +74,24 @@ religiosas, en muchos países del mundo.
 indonesio: selamat.</small>
 
 
-### shukur <small>gracias</small>
+### xukur <small>gracias</small>
 
-**xukre!**
+**xukur!**
 ¡Gracias!
 
-**xukre tu.**
+**xukur tu.**
 Gracias. (a ti.)
 
-**mi xukre tu.**
+**mi xukur tu.**
 Te agradezco.
 
-**mi xukre tu mede mi.**
+**mi xukur tu mede mi.**
 Te agradezco por ayudarme.
 
-**xukre tu mede mi.**
+**xukur tu mede mi.**
 Gracias por ayudarme.
 
-**no yau xukre.**
+**no yau xukur.**
 De nada. No hay de qué.
 
 
@@ -138,7 +138,7 @@ Los pronombres no cambian su forma en pandunia. Es por eso que **mi** es el
 mismo en las posiciones de sujeto y objeto, mientras que el español tiene
 diferentes formas, 'yo', 'me', etc.
 
-**mi ama tu.**
+**mi ame tu.**
 Te amo. (Yo ama ti)
 
 <small>Etimología. **tu** viene del espanñol: tú, russo:  ты (ty), italiano: tu, francés: tu.</small>
@@ -155,8 +155,9 @@ Ella es una mujer.
 **ya si aple.**
 Eso es una manzana.
 
-**ya** es un pronombre personal de tercera persona general. Es usado en
-personas (sin importar su género) y en cosas.
+**ya**
+es un pronombre personal de tercera persona general.
+Es usado en personas (sin importar su género) y en cosas.
 
 **mi salam ya.**
 Yo lo/la saludo.
@@ -208,7 +209,7 @@ Sí, él/ella es doctor/a.
 **mi no si Sara.**
 No soy Sara.
 
-**mi no si dava ja.**
+**mi no si davar.**
 No soy doctor/a.
 
 **sual tu bon?**
@@ -289,36 +290,36 @@ Ella es Sara.
 <small>Etimología. **ke** viene del español: qué, portugués: que, italiano:
 che, bengalí: কী (ki).</small>
 
-### ni & go <small>esto, eso, aquello</small>
+### yi & vo <small>esto, eso, aquello</small>
 
-**ni si ke?**
+**yi si ke?**
 ¿Qué es esto?
 
-**ni si aple.**
+**yi si aple.**
 Esta es una manzana.
 
-**go si ke?**
+**vo si ke?**
 ¿Qué es eso?
 
-**go si oranje.**
+**vo si oranje.**
 Esa es una naranja.
 
-**ni si rubi aple.**
+**yi si rubi aple.**
 Esa es una manzana roja.
 
-**ni aple si rubi.**
+**yi aple si rubi.**
 Esta manzana es roja.
 
-**ni si rubi.**
+**yi si rubi.**
 Esta es roja.
 
-**yamen na ke?**
+**yamen a ke?**
 ¿Dónde están?
 
-**yamen na ni.**
+**yamen a yi.**
 Están aquí.
 
-**yamen na go.**
+**yamen a vo.**
 Están allá.
 
 ### la <small>él, la, los, las</small>
@@ -337,20 +338,25 @@ Quiero la manzana roja.
 
 ### su <small>(partícula posesiva)</small>
 
-**ni si ke?**
+**yi si ke?**
 ¿Qué es esto?
 
-**ya si mi su tele fon gi.**
+**ya si mi su telefon.**
 Es mi teléfono.
 
-**ni si ke su?**
+**yi si ke su?**
 ¿De quién es esto?
 
 **ya si mi su.**
 Es mío.
 
-Nota: La partícula posesiva **su** se pone entre el poseedor y la cosa poseída.
-Así **mi su** significa "mi/mío", **tu su** significa "tu/tuyo", y así.
+Nota: La partícula posesiva
+**su**
+se pone entre el poseedor y la cosa poseída. Así
+**mi su**
+significa "mi/mío",
+**tu su**
+significa "tu/tuyo", y así.
 
 **ya si ke?**
 ¿Quién es él/ella?
@@ -358,7 +364,7 @@ Así **mi su** significa "mi/mío", **tu su** significa "tu/tuyo", y así.
 **ya si mi su dosti.**
 Él/ella es mi amigo/a.
 
-**mi si Sara su doste.**
+**mi si Sara su dosti.**
 Yo soy la amiga de Sara.
 
 <small>Etimología. **su** viene del
@@ -392,10 +398,10 @@ Tengo una buena casa.
 **ya no ten pesa.**
 Él/ella no tiene dinero.
 
-**mi vol ten un nove telefon.**
+**mi vol ten un neu telefon.**
 Yo quiero tener un teléfono nuevo.
 
-**sual tu ten ben?**
+**sual tu ten yo ben?**
 ¿Tienes niños?  
 **mi ten du ben.**
 Tengo dos niños.
@@ -406,13 +412,13 @@ Tengo dos niños.
 **mi sabe ya.**
 Yo lo/a conozco a él/ella.
 
-**sual tu sabe go jen?**
+**sual tu sabe vo jen?**
 ¿Conoces esa persona?
 
 **sual tumen sabe semen?**
 ¿Ustedes se conocen (entre ustedes)?
 
-**mimen sabe semon ze long.**
+**mimen sabe semen de long.**
 Nosotros nos conocemos (entre nosotros) hace tiempo.
 
 
@@ -444,7 +450,9 @@ Quiero ayudarte
 Ellos/as comen manzanas.
 
 Nota: A diferencia del español, pandunia no tiene formas separadas de singular y plural.
-Por lo tanto una palabra como **aple** puede referirse a una o más manzanas.
+Por lo tanto una palabra como
+**aple**
+puede referirse a una o más manzanas.
 
 **sual tu yam kafe?**
 ¿Bebes café?
@@ -452,9 +460,11 @@ Por lo tanto una palabra como **aple** puede referirse a una o más manzanas.
 **ye. mi yam kafe.**
 Sí, yo bebo café.
 
-Ayuda: El significado de **yam** cubre tanto comer y beber. Puede parecer
-raro al inicio, pero pronto verás que es bastante útil. Normalmente el
-objeto del verbo dice si se trata de comer, beber o ambos.
+Ayuda: El significado de
+**yam**
+cubre tanto comer y beber.
+Puede parecer raro al inicio, pero pronto verás que es bastante útil.
+Normalmente el objeto del verbo dice si se trata de comer, beber o ambos.
 
 **mi yam kafe e pang.**
 Estoy tomando café y pan.
@@ -481,7 +491,7 @@ No, no quiero té. Quiero café.
 
 **tu vol ke aple?**
 ¿Qué manzana quieres?  
-**ni rubi.**
+**yi rubi.**
 Esta roja.
 
 
@@ -545,7 +555,7 @@ Estoy hambriento. (Literalmente: _Necesito comer._)
 **maf! mi no aha.**
 Lo siento, no entiendo.
 
-**maf! ni si ke?**
+**maf! yi si ke?**
 Perdóname, ¿qué es eso?
 
 **maf. tu su nam si ke?**
@@ -594,28 +604,28 @@ Puedo hablar un poco de pandunia.
 **mi no bil englix.**
 No puedo hablar inglés.
 
-**maf. mi no bil tu su baxe.**
+**maf. mi no bil tu su baxa.**
 Lo siento. No puedo hablar tu idioma.
 
 
-### loge <small>decir, hablar</small>
+### loga <small>decir, hablar</small>
 
-**tu loge ke?**
+**tu loga ke?**
 ¿Qué dijiste?
 
-**mi loge do tu.**
+**mi loga to tu.**
 Te hablé.
 
 **mimen loge do semen.**
 Hablamos entre nosotros.
 
-**mon loge «gato» a ke yang a pandunia?**
+**men loga «gato» a ke yang a pandunia?**
 ¿Cómo se dice "gato" en pandunia?
 
 **«gato» si ke a pandunia?**
 ¿Qué es "gato" en pandunia?
 
-**mau loge "miau".**
+**mau loga "miau".**
 El gato dice «miau».
 
 
@@ -627,7 +637,7 @@ El gato dice «miau».
 **mi no bil aude tu.**
 No puedo oírte.
 
-**cing loge max like.**
+**cing loga max bala.**
 Por favor, hablar más fuerte.
 
 **mi aude muzike.**
@@ -652,18 +662,18 @@ Encantado de verte.
 Lo/a vi a él/ella ayer.
 
 
-### seme <small>significar</small>
+### semi <small>significar</small>
 
-**ni lexe ye seme ke?**
+**yi lexi ye semi ke?**
 ¿Qué significa esta palabra?
 
-**"mau" ye seme ke?**
+**"mau" ye semi ke?**
 ¿Qué significa "maw"?
 
-**ya seme un yang de zoe.**
+**ya semi un yang de hevan.**
 Significa una clase de animal.
 
-**mi no aha ya seme ke.**
+**mi no aha ya semi ke.**
 No entiendo qué significa.
 
 
@@ -672,19 +682,19 @@ No entiendo qué significa.
 **cing kitabu tu su adres.**
 Por favor, escribe tu dirección.
 
-**cing kitabu ya na ni.**
+**cing kitabu ya a yi.**
 Por favor, escríbelo aquí.
 
 
 ### baxe <small>hablar un idioma, comunicar</small>
 
-**sual tumen baxe pandunia?**
+**sual tumen baxa pandunia.**
 ¿Hablas pandunia?
 
-**mimen baxe pandunia.**
+**mimen baxa pandunia.**
 Nosotros hablamos pandunia.
 
-**sual tu bil baxe englix?**
+**sual tu bil baxa englix?**
 ¿Puedes hablar inglés?
 
 **franse, espanya, portugal, rus**
@@ -728,22 +738,22 @@ Vamos caminando.
 **cing lai!**
 ¡Ven aquí! ¡Vengan aquí!
 
-**tu lai ze ke?**
+**tu lai de ke?**
 ¿De dónde vienes?
 
-**mi lai ze Dubai.**
+**mi lai de Dubai.**
 Vengo de Dubái.
 
-**mi lai dom na pos den.**
+**mi lai dom a pos den.**
 Vendré a casa mañana.
 
 
 ### safar <small>viajar</small>
 
-**sual tu safar na tren?**
+**sual tu safar a tren?**
 ¿Viajas en tren?
 
-**mimen safar ze London do Paris.**
+**mimen safar de London to Paris.**
 Nosotros viajamos de Londres a París.
 
 **safar tre long.**
@@ -755,7 +765,7 @@ El viaje es muy largo.
 **hotel a ke?**
 ¿Dónde está el hotel?
 
-**hotel a go dau.**
+**hotel a vo dau.**
 El hotel está por ese camino.
 
 **tu a ke?**
@@ -785,7 +795,7 @@ Trabajo en...
 **mi dom Singapur.**
 Vivo en Singapur.
 
-**sual tu dom ni hotel?**
+**sual tu dom yi hotel?**
 ¿Vives en este hotel?
 
 Ayuda: También está bien decir "tu doma a ke?" en vez de "tu doma ke".  Sin
@@ -804,49 +814,49 @@ es necesario.
 **yamen dele mimen.**
 Ellos/as nos esperan.
 
-**mi dele tu a hotel.**
+**mi dele to tu a hotel.**
 Te espero en el hotel.
 
 ## Parte 5: Negocios
 
-### don <small>dar</small>
+### da <small>dar</small>
 
-**cing don yo pesa.**
+**cing da yo pesa.**
 Por favor da dinero.
 
-**cing don go xe do mi.**
+**cing da ya to mi.**
 Por favor dame eso.
 
-**mi don ni xe do tu.**
+**mi da yi to tu.**
 Te doy esto.
 
-**mi don un buke do yamen.**
+**mi da buku to yamen.**
 Le doy un libro a ellos/as.
 
-**ya no vol don ya do mi.**
+**ya no vol da ya to mi.**
 Él/ella no quiere darme eso.
 
 
-### kape <small>tomar (de agarrar, sujetar)</small>
+### na <small>tomar (de agarrar, sujetar)</small>
 
-**mi kape un kafe.**
+**mi na un kafe.**
 Voy a tomar un café.
 
-**cing kape un kafe do mi.**
+**cing na un kafe to mi.**
 Por favor toma un café para mí.
 
-**tu pas kape pesa ze mi.**
+**tu pas na pesa de mi.**
 Tú yu tomaste dinero de mí.
 
-**mi kape un bir.**
+**mi na un bir.**
 Voy a tomar una cerveza.
 
 
 ### kira <small>renta, alquiler</small>
 
-**mi vol kirokape un gare.**
+**mi vol kita na un kar.**
 Quiero rentar un auto.
 
-**ya kirodone la kamar do safarer.**
+**ya kira da la kamar to safarer.**
 Él/ella vende las habitaciones a los viajeros.
 

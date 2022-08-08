@@ -24,7 +24,7 @@ En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifi
 
 **un _rapide_ kar**
 – un carro _rápido_  
-**un _nove_ kar**
+**un _neu_ kar**
 – un carro _nuevo_  
 **ba _dai_ meza**
 – mesas _grandes_  
@@ -47,7 +47,7 @@ a diferencia de español, en que adjetivos cambian para acordar con el sustantiv
 
 Dos o más modificadores pueden modifican el mismo sustantivo.
 
-**un lili nove kar**
+**un xiu neu kar**
 – un carro nuevo pequeño
 
 
@@ -57,7 +57,7 @@ En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
 **tu _rapide_ loga.**
 – Usted hablas _rápido_.  
-**yemon _bon_ kitabu.**
+**yamen _bon_ kitabu.**
 – Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
@@ -65,9 +65,9 @@ Es común poner la partícula de modificación
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _sundar di_ kitabu.**
+**tu _mei di_ kitabu.**
 – Tú escribes _hermoso_.  
-**yemon _rapide di_ marce.**
+**yamen _kuai di_ marce.**
 – Ellos caminan _rápido_.
 
 
@@ -77,9 +77,9 @@ La partícula
 **di**
 también se usa cuando un modificador modifica un otro.
 
-**un _supriza di_ bon buku**
+**un _surpris di_ bon buke**
 – un _sorprendentemente_ buen libro  
-**ba _lika di_ ama ja jen**
+**poli _bala di_ ame ja jen**
 – personas _firmemente_ amorosas
 
 
@@ -89,13 +89,13 @@ Palabras de grado nos dicen sobre la intensidad de algo.
 
 **tre**
 – muy  
-**mas**
+**bas**
+– bastante  
+**max**
 – más  
 **min**
 – menos  
-**bas**
-– bastante  
-**mas ka bas**
+**max ka bas**
 – demasiado
 
 Palabras de grado preceden la palabra que modifican.
@@ -104,9 +104,9 @@ Palabras de grado preceden la palabra que modifican.
 – un hombre grande  
 **un tre dai man**
 – un hombre muy grande  
-**un mas dai man**
+**un max dai man**
 – un hombre más grande  
-**un mas dai man ka bas**
+**un max dai man ka bas**
 – un hombre demasiado grande
 
 Una palabra de grado junta con un modificador crea un _adverbo compuesto_
@@ -124,7 +124,7 @@ En adición es posible poner el adverbo compuesto en el fin de la oración,
 y entonces modifica la oración en conjunto.
 El significado es la misma como cuando el adverbo compuesto modifica el verbo principal.
 
-**mi vol loga _tre muce_.**
+**mi vol loga _tre poli_.**
 – Muchísimo quiero hablar.  
 **sual tu sona _bas bon_?**
 – ¿Sonaste bastante bien?
@@ -134,9 +134,9 @@ El significado es la misma como cuando el adverbo compuesto modifica el verbo pr
 
 Adjetivos pueden compararse con los adverbos de comparación.
 
-- **mas**
+- **max**
   (_más_) indica superioridad sobre otra cosa
-- **masim**
+- **maxim**
   (_mayor_) indica superioridad sobre un grupo entero
 - **min**
   (_menos_) indica inferioridad a otra cosa
@@ -149,7 +149,7 @@ La partícula
 **ka** (_que_)
 relaciona los adverbos de comparación al objeto de comparación.
 
-**aple si mas bon ka oranje.**
+**aple si max bon ka oranje.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
 **oranje si min bon ka aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  

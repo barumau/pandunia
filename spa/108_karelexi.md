@@ -11,22 +11,22 @@ Por ejemplo, el verbo
 **si**
 (»ser>>) tiene la misma forma para todas las personas.
 
-**_mi_ si doste.**
+**_mi_ si dosti.**
 – Yo soy una amiga.  
-**_tu_ si doste.**
+**_tu_ si dosti.**
 – Tú eres un amigo.  
-**_ya_ si doste.**
+**_ya_ si dosti.**
 – Éla es amiga de alguien.  
-**_mimen_ si doste.**
+**_mimen_ si dosti.**
 – Nosotros somos unos amigos de alguien.  
-**_tumen_ si doste.**
+**_tumen_ si dosti.**
 – Ustedes son unas amigas de alguien.  
-**_yemen_ si doste.**
+**_yamen_ si dosti.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
-**mau si zoe.**
+**mau si hevan.**
 – El gato es animal.
 
 Frecuentamente hay indicador entre el sujeto y el verbo
@@ -53,15 +53,15 @@ que se introducen suguiente.
 
 La relación de un acción, evento, o estado a tiempo se indica con verbos auxiliares.
 
-**xure**
+**xuru**
 (»empezar>>, »comenzar>>)
 indica el comienzo de una acción o transición a una situación nueva.
 
-**mi xure fuke la kote.**
+**mi xuru fuke la kote.**
 – Empiezo a llevar el abrigo. = Me pongo el abrigo.  
-**kaguje ye xure hoge.**
+**kaguji ye xuru hoge.**
 – Papel empieza a quemar.  
-**tu xure yam.**
+**tu xuru yam.**
 – Empiezas a comer.
 
 **fin**
@@ -70,7 +70,7 @@ indica el fin de una acción o situación.
 
 **yamen fin haha.**
 – Dejan de reírse.  
-**kaguje ye fin hoge.**
+**kaguji ye fin hoge.**
 – Papel deja de quemar.
 
 **pul**
@@ -114,11 +114,11 @@ Preste atención a la consecuencia de una acción pasada a la situación actual.
 – Ya no bebir alcohol.  
 **mi no _le_ gul yo alkohol.**
 – No he bebido alcohol.  
-**mi _le_ don la buke do yamen.**
+**mi _le_ da la buku to yamen.**
 – Los he dado el libro. (Todavía lo tienen y yo no.)  
 **yamen no _le_ ridone ya do mi.**
 – No me lo han devuelvo.  
-**mi _le_ lai do site.**
+**mi _le_ lai to site.**
 – He venido a la ciudad.
 
 **pas**
@@ -126,7 +126,7 @@ Preste atención a la consecuencia de una acción pasada a la situación actual.
 indica que una situación terminó
 y es pertinente solo como una experiencia.
 
-**mi pas done la buke do yamen.**
+**mi pas da la buku to yamen.**
 – Los di el libro. (Tal vez no todavía lo tienen, o lo devolvieron.)  
 **mi pas vizite Franse.**
 – Visité Francia.  

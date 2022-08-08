@@ -56,7 +56,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _mei di_ kitabu.**
 – You write _beautifully_.  
-**yamen _rapide di_ marce.**
+**yamen _kuai di_ marce.**
 – They walk _fast_.
 
 
@@ -68,7 +68,7 @@ is used also when a modifier modifies another one.
 
 **un _surpris di_ bon buke**
 – a _surprisingly_ good book  
-**ba _bale di_ ama ja jen**
+**poli _bala di_ ame ja jen**
 – _strongly_ loving people
 
 
@@ -115,7 +115,7 @@ The meaning is the same like when the compound adverb modifies the main verb.
 
 **mi vol loga _tre poli_.**
 – I want to speak very much.  
-**sual tu some _bas bon_?**
+**sual tu sona _bas bon_?**
 – Did you sleep well enough?
 
 
