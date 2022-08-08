@@ -3573,7 +3573,7 @@ tamar - taateli
 tami - ahne  
 Tamil - tamil (eräs intialainen kieli)  
 tanah - tanakh  
-tanke - tankki (säiliö)  
+tanki - tankki (säiliö)  
 tantal yum - tantaali  
 tanur - uuni  
 Tanzania - Tansania  

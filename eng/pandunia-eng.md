@@ -3968,7 +3968,7 @@ tami - greedy
 Tamil - Tamil  
 tana - stem (torso, trunk, stalk)  
 tanah - Tanakh (Jewish Bible)  
-tanke - tank (reservoir)  
+tanki - tank (reservoir)  
 tantal yum - tantalum  
 tanur - oven (furnace)  
 Tanzania - Tanzania  

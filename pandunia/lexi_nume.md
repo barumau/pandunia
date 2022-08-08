@@ -10,9 +10,9 @@
 | rus | 825 | 50% |
 | hindi | 718 | 44% |
 | nipon | 647 | 39% |
-| malayu | 581 | 35% |
+| malayu | 582 | 35% |
 | arabi | 472 | 29% |
-| chosen | 452 | 28% |
+| chosen | 453 | 28% |
 | suahili | 438 | 27% |
 | putonghan | 429 | 26% |
 | bangla | 403 | 25% |

@@ -1401,7 +1401,7 @@
 **tamar** ** ← portugala:tamara, araba:(tamar)  
 **tami** *avida* ← araba: طَمَّاع‎ (ṭammāʿ), mandarena:贪 (tān), kantona:貪 (taam1), korea:탐욕 (tamyok), vjetnama:tham  
 **tana** ** ← persa: تنه‎ (tane), hindia:तना (tanā), tamila:தண்டு (taṇṭu), vjetnama:thân, taja:ต้น (ton), malaja:tangkai  
-**tanke** ** ← angla:tank, hindia:टंकी (ṭaṅkī), svahila:tangi, hispana:tanque, japana:タンク (tanku), filipina:tangke  
+**tanki** ** ← angla:tank, deu:Tank, hispana:tanque, hindia:टंकी (ṭaṅkī), malaja:tangki, svahila:tangi, japana:タンク (tanku), korea:탱크 (taengkeu)  
 **tantal yum** *tantalo* ← angla:tantalum, franca:tantale, hispana:tántalo, portugala:tântalo, rusa:тантал, mandarena:钽 (tǎn), japana:タンタル, korea:탄탈, vjetnama:tantali, hindia:टाण्टलम, bengala:ট্যান্টালাম, malaja:tantalum, svahila:tantali, araba: تنتالم  
 **tanur** *forno* ← persa:heb:tanur, araba:(tannūr), angla:tandoor, athanor, turka:tandır, hindia:तनूर (tanūr), urdua:(tanūr), panĝaba:ਤੰਦੂਰ (tandūr), svahila:tanuri  
 **tapa** ** ← hispana:turka:tapa, portugala:tampa, greka:τάπα (tapa), bul:тапа (tapa), angla:tap  
@@ -1601,7 +1601,7 @@
 **yeka** ** ← mandarena:易 (yì), kantona:易 (yik6), japana:易 (eki), korea:역 (yeok), vjetnama:dịch  
 **yem** *salo* ← mandarena:盐 (yán), kantona:鹽 (yim4), japana:塩 (en), korea:염 (yeom), vjetnama:diêm  
 **yen sui** ** ← tamila:கண்ணீர் (kaṇṇīr), malajala:കണ്ണുനീർ (kaṇṇunīr), teluga:(kannīru), korea:눈물 (nunmul), vjetnama:nước mắt, malaja:air mata, taja:น้ำตา  
-**yen** *okulo* ← mandarena:眼 (yǎn) + araba: عَيْن‎ (ʿayn), egipta araba: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaja:ain + franca:yeux  
+**yen** *okulo* ← mandarena:眼 (yǎn) + araba: عَيْن‎ (ʿayn), egipta araba: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaja:ain, franca:yeux  
 **yepa** *folio* ← mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)  
 **yezi** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
 **yi** *ĉi tiu* ← korea:이 (i) + bengala:এ (e), hindia:यह (ye) + teluga:ఈ (ī), tamila:இது (itu) + joruba:yìí  

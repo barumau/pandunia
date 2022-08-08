@@ -1401,7 +1401,7 @@
 **tamar** *taateli* ← portugali:tamara, arabia:(tamar)  
 **tami** *ahne* ← arabia: طَمَّاع‎ (ṭammāʿ), yleiskiina:贪 (tān), kantoninkiina:貪 (taam1), korea:탐욕 (tamyok), vietnami:tham  
 **tana** ** ← persia: تنه‎ (tane), hindi:तना (tanā), tamili:தண்டு (taṇṭu), vietnami:thân, thai:ต้น (ton), malaiji:tangkai  
-**tanke** *tankki (säiliö)* ← englanti:tank, hindi:टंकी (ṭaṅkī), suahili:tangi, espanja:tanque, japani:タンク (tanku), filippiini:tangke  
+**tanki** *tankki (säiliö)* ← englanti:tank, deu:Tank, espanja:tanque, hindi:टंकी (ṭaṅkī), malaiji:tangki, suahili:tangi, japani:タンク (tanku), korea:탱크 (taengkeu)  
 **tantal yum** *tantaali* ← englanti:tantalum, ranska:tantale, espanja:tántalo, portugali:tântalo, venäjä:тантал, yleiskiina:钽 (tǎn), japani:タンタル, korea:탄탈, vietnami:tantali, hindi:टाण्टलम, bangla:ট্যান্টালাম, malaiji:tantalum, suahili:tantali, arabia: تنتالم  
 **tanur** *uuni* ← persia:heb:tanur, arabia:(tannūr), englanti:tandoor, athanor, turkki:tandır, hindi:तनूर (tanūr), urdu:(tanūr), pandzabi:ਤੰਦੂਰ (tandūr), suahili:tanuri  
 **tapa** *tulppa (tappi, korkki)* ← espanja:turkki:tapa, portugali:tampa, kreikka:τάπα (tapa), bul:тапа (tapa), englanti:tap  
@@ -1601,7 +1601,7 @@
 **yeka** *vaihtaa (tehdä vaihtokauppa)* ← yleiskiina:易 (yì), kantoninkiina:易 (yik6), japani:易 (eki), korea:역 (yeok), vietnami:dịch  
 **yem** *suola* ← yleiskiina:盐 (yán), kantoninkiina:鹽 (yim4), japani:塩 (en), korea:염 (yeom), vietnami:diêm  
 **yen sui** *kyynel* ← tamili:கண்ணீர் (kaṇṇīr), malayalam:കണ്ണുനീർ (kaṇṇunīr), telugu:(kannīru), korea:눈물 (nunmul), vietnami:nước mắt, malaiji:air mata, thai:น้ำตา  
-**yen** *silmä* ← yleiskiina:眼 (yǎn) + arabia: عَيْن‎ (ʿayn), egyptinarabia: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaiji:ain + ranska:yeux  
+**yen** *silmä* ← yleiskiina:眼 (yǎn) + arabia: عَيْن‎ (ʿayn), egyptinarabia: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaiji:ain, ranska:yeux  
 **yepa** *lehti (arkki, levy)* ← yleiskiina:叶 (yè), kantoninkiina:葉 (jip6), korea:잎 (ip);엽 (yeop), vietnami:diệp, japani:葉 (yō)  
 **yezi** *kookos* ← yleiskiina:椰子 (yēzi), kantoninkiina:椰子 (ye4zi2), korea:야자 (yaja), japani:椰子 (yashi)  
 **yi** *tämä* ← korea:이 (i) + bangla:এ (e), hindi:यह (ye) + telugu:ఈ (ī), tamili:இது (itu) + yoruba:yìí  

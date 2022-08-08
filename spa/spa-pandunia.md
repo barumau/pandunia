@@ -3592,7 +3592,7 @@ tamaño - daita
 tambor - guma  
 tamil - Tamil  
 Tanaj (Biblia hebrea) - tanah  
-tanque (cisterna) - tanke  
+tanque (cisterna) - tanki  
 Tanzania - Tanzania  
 taoísmo - dau din  
 taoísta - dau din ja  

@@ -3258,7 +3258,7 @@ tami - chciwy (żądny)
 Tamil - tamilski  
 tana - łodyga (tors, pień, trzon)  
 tanah - Tanach, Biblia hebrajska  
-tanke - zbiornik (cysterna, pojemnik, rezerwuar)  
+tanki - zbiornik (cysterna, pojemnik, rezerwuar)  
 tantal yum - tantal  
 tanur - piec (piekarnik)  
 Tanzania - Tanzania  

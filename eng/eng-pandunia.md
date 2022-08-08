@@ -3952,7 +3952,7 @@ tame (docile, obedient) - dosil
 tame (train) - fa dosil  
 Tamil - Tamil  
 Tanakh (Jewish Bible) - tanah  
-tank (reservoir) - tanke  
+tank (reservoir) - tanki  
 tantalum - tantal yum  
 Tanzania - Tanzania  
 Taoism (Daoism) - dau din  

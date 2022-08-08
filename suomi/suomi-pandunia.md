@@ -3334,7 +3334,7 @@ tammi - europa baluta
 tammikuu - mes un  
 tammipeli - dama gem  
 tanakh - tanah  
-tankki (säiliö) - tanke  
+tankki (säiliö) - tanki  
 tanko (pinna, sauva, patukka) - kane  
 Tansania - Tanzania  
 Tanska - Danske dexa  

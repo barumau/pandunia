@@ -3517,7 +3517,7 @@ zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - fa
 założyciel - baze ja  
 załącznik (przyrostek, afiks) - fixe  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - kape yo taxi  
-zbiornik (cysterna, pojemnik, rezerwuar) - tanke  
+zbiornik (cysterna, pojemnik, rezerwuar) - tanki  
 zbiorowy, zbiorczy - jama di  
 zbliżać się (zbliżyć się) - be karibu  
 zbroja - defa kaska  

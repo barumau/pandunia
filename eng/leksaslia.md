@@ -1401,7 +1401,7 @@
 **tamar** *date fruit* ← Portuguese:tamara, Arabic:(tamar)  
 **tami** *greedy* ← Arabic: طَمَّاع‎ (ṭammāʿ), Mandarin:贪 (tān), Cantonese:貪 (taam1), Korean:탐욕 (tamyok), Vietnamese:tham  
 **tana** *stem (torso, trunk, stalk)* ← Persian: تنه‎ (tane), Hindi:तना (tanā), Tamil:தண்டு (taṇṭu), Vietnamese:thân, Thai:ต้น (ton), Malay:tangkai  
-**tanke** *tank (reservoir)* ← English:tank, Hindi:टंकी (ṭaṅkī), Swahili:tangi, Spanish:tanque, Japanese:タンク (tanku), Filipino:tangke  
+**tanki** *tank (reservoir)* ← English:tank, deu:Tank, Spanish:tanque, Hindi:टंकी (ṭaṅkī), Malay:tangki, Swahili:tangi, Japanese:タンク (tanku), Korean:탱크 (taengkeu)  
 **tantal yum** *tantalum* ← English:tantalum, French:tantale, Spanish:tántalo, Portuguese:tântalo, Russian:тантал, Mandarin:钽 (tǎn), Japanese:タンタル, Korean:탄탈, Vietnamese:tantali, Hindi:टाण्टलम, Bengali:ট্যান্টালাম, Malay:tantalum, Swahili:tantali, Arabic: تنتالم  
 **tanur** *oven (furnace)* ← Persian:heb:tanur, Arabic:(tannūr), English:tandoor, athanor, Turkish:tandır, Hindi:तनूर (tanūr), Urdu:(tanūr), Punjabi:ਤੰਦੂਰ (tandūr), Swahili:tanuri  
 **tapa** *stopper (cap, peg, tap)* ← Spanish:Turkish:tapa, Portuguese:tampa, Greek:τάπα (tapa), bul:тапа (tapa), English:tap  
@@ -1601,7 +1601,7 @@
 **yeka** *exchange (replace, trade, swap)* ← Mandarin:易 (yì), Cantonese:易 (yik6), Japanese:易 (eki), Korean:역 (yeok), Vietnamese:dịch  
 **yem** *salt* ← Mandarin:盐 (yán), Cantonese:鹽 (yim4), Japanese:塩 (en), Korean:염 (yeom), Vietnamese:diêm  
 **yen sui** *tear drop* ← Tamil:கண்ணீர் (kaṇṇīr), Malayalam:കണ്ണുനീർ (kaṇṇunīr), Telugu:(kannīru), Korean:눈물 (nunmul), Vietnamese:nước mắt, Malay:air mata, Thai:น้ำตา  
-**yen** *eye* ← Mandarin:眼 (yǎn) + Arabic: عَيْن‎ (ʿayn), Egyptian-Arabic: عين‎ (ʕēn), Amharic:ዐይን (ʿäyn), Malay:ain + French:yeux  
+**yen** *eye* ← Mandarin:眼 (yǎn) + Arabic: عَيْن‎ (ʿayn), Egyptian-Arabic: عين‎ (ʕēn), Amharic:ዐይን (ʿäyn), Malay:ain, French:yeux  
 **yepa** *leaf (sheet)* ← Mandarin:叶 (yè), Cantonese:葉 (jip6), Korean:잎 (ip);엽 (yeop), Vietnamese:diệp, Japanese:葉 (yō)  
 **yezi** *coconut tree* ← Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)  
 **yi** *this* ← Korean:이 (i) + Bengali:এ (e), Hindi:यह (ye) + Telugu:ఈ (ī), Tamil:இது (itu) + Yoruba:yìí  

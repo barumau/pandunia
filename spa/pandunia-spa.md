@@ -3501,7 +3501,7 @@ tami - codicioso (avaro)
 Tamil - tamil  
 tana - tallo  
 tanah - Tanaj (Biblia hebrea)  
-tanke - tanque (cisterna)  
+tanki - tanque (cisterna)  
 tantal yum - tántalo  
 tanur - horno  
 Tanzania - Tanzania  
