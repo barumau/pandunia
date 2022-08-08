@@ -429,7 +429,6 @@ ensimmäinen (alku-) - xuru di
 ensimmäinen (numero yksi) - un me  
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anativi  
-epäaktiivinen (pois toiminnasta) - ankarma ja  
 epäilevä - dute ja  
 epäillä (olla uskomatta) - ankredi  
 epäilys - dute  
@@ -575,8 +574,8 @@ haista - fa aroma
 haistaa - fa aroma  
 Haiti - Aiti  
 hajalla - perixe di  
-hajanainen - anjama di  
-hajauttaa - anjama  
+hajanainen - anjami di  
+hajauttaa - anjami  
 hajottaa (särkeä, repiä, sirpaloida) - fa parce  
 haju - aroma  
 hakaristi (svastika) - huke krus  
@@ -680,7 +679,7 @@ hetkellinen - sata di
 hetki (kotva) - cana  
 hetki (kotva, ajankohta) - sata  
 hevonen - uma  
-hidas - lente  
+hidas - anhaste  
 hiekka - sable  
 hiekkakivi - sablepetra  
 hiekkalinna - sableburge  
@@ -692,8 +691,11 @@ hiiri tai rotta - muxu
 hiiva - hamir  
 hiki - sueda  
 hikinen - sueda di  
+hiljaa (hys, shhh) - tix  
 hiljaa (hys, shhh) - xux  
+hiljainen - tix  
 hiljainen - xux di  
+hiljaisuus - tixta  
 hiljentää - fa xux  
 Himalaja - Himalaya  
 himo (seksuaalinen halu) - kama  
@@ -1217,7 +1219,7 @@ kerta (vuoro) - mar
 kertoa - fa kata  
 kertomus (tarina, saaga) - kata  
 kerubi - kerubi  
-keräilykortti - jama karte  
+keräilykortti - jami karte  
 keskeyttää (tauottaa) - fa pauza  
 Keski-Afrikan Tasavalta - Jong Afrika Vakilkrati  
 keskipäivä (puolipäivä) - medi dia  
@@ -1265,7 +1267,7 @@ kieltää - fa haram
 kieltää - nega  
 kiero (perverssi) - perversi  
 kierre (spiraali) - helis  
-kierrättää - re sikle  
+kierrättää - resikle  
 kiihdyttää (voimistuttaa) - be teza  
 kiihkeä (väkevä, voimakas, vahva, kova) - teza  
 kiillottaa - foto frike  
@@ -1280,6 +1282,7 @@ kiinnostus (mielenkiinto) - sabe vol
 kiinteä - gati mate di  
 kiinteä aine - gati mate  
 kiirehtiä - ajila  
+kiireinen - haste  
 kiireinen - mang  
 kiitollisuus - xukurta  
 kiitos - xukur  
@@ -1318,7 +1321,6 @@ kirous - dusdua
 kirsikka - ceri  
 kirves - futau  
 kissa - mau  
-kisälli - gong xula ja  
 kitapurje - bokavele  
 kitara - gitar  
 kitkerä (karvas) - kali guste  
@@ -1348,7 +1350,7 @@ koko (kokonainen) - holo
 kokonaisuus - holota  
 kolera - holera  
 kolikko - pesa diske  
-kollektiivinen - jama di  
+kollektiivinen - jami di  
 kolmas (3.) - trime  
 kolme (3) - tri  
 kolmijako - tritomi  
@@ -1477,9 +1479,10 @@ kunnioittaa - fa onor
 kunnioitus (arvostus) - onor  
 kuntosali (punttisali) - balakan  
 kuokka - copu  
-kuolema (kuolo) - mata  
+kuolevainen - matabil  
+kuolinluettelo - nekrolista  
+kuolla (kuolema, kuolo; kuollut, vainaa) - mata  
 kuolla - be mata  
-kuollut (vainaa) - mata di  
 kuollut ruumis - mata badan  
 kuori (suojakuori) - kaska  
 kuoria - tire yo pil  
@@ -1551,7 +1554,7 @@ käki - kuku
 kärki (pää) - pike  
 kärppä (fretti) - furete  
 kärpänen - dom zeze  
-kärry (vaunu, auto, jne) - kar  
+kärry (vaunu, auto, jne) - gar  
 käsi - hande  
 käsi- - hande di  
 käsite (idea) - idea  
@@ -1939,6 +1942,7 @@ matkija (imitaattori) - mima ja
 matkustaa - fa safar  
 mato - verme  
 matta - foto mata di  
+matti (šakkimatti) - xah mata  
 Mauritania - Muritania  
 Mauritius - Moris  
 mauste - masala  
@@ -2066,6 +2070,7 @@ muisti - memo
 muistikirja - note buku  
 muistio (muistiinmerkintä) - memo note  
 muistitekniikka - memo tehni  
+muistosanat (muistopuhe, muistokirjoitus) - nekrologa  
 muistuttaa (vaikuttaa samalta) - be sam rupa  
 mukaan lukien - in klus  
 mukava (kiva, miellyttävä) - huxi  
@@ -2116,7 +2121,7 @@ myllynkivi - mol seku
 mylläri - mol ja  
 myrkky - toxi  
 myrkyllinen - toxi di  
-myrsky - tafun  
+myrsky - tufan  
 mysli - musli  
 myydä - vende  
 myöhemmin (tuleva) - a pos  
@@ -2161,7 +2166,7 @@ nauttia (syödä, juoda) - yam
 neitseellinen (koskematon) - virje di  
 neitsyt - virje  
 Neitsytsaaret - Virjin nesi  
-nekrofilia - mata badan fili  
+nekrofilia - nekrofilia  
 neli (kiitolaukka) - nelu di galope  
 neliö - nelu gona  
 neljä (4) - nelu  
@@ -2387,6 +2392,7 @@ painotus (aksentti) - balaton
 paita - kamisa  
 paitsi (miinus) - a min de  
 paja (tekimö) - kan  
+paja (työpaja) - karkan  
 pakana - kafir  
 pakata - fa pake  
 Pakistan - Pakistan  
@@ -2439,7 +2445,6 @@ panna (asettaa, sijoittaa) - fa loka
 panna jkn maate - fa kux  
 panna kokoon - konbina  
 panna sisään - fa in  
-panna toimintaan - fa karma  
 panna vinoon - fa terca  
 pannu (paistinpannu) - tava  
 pantheon - pan deu  
@@ -2456,7 +2461,7 @@ Paraguai - Paraguai
 parametri (argumentti) - param  
 Pariisi - Paris  
 parillinen luku - par nume  
-parkkipaikka - kar parke  
+parkkipaikka - garparke  
 parsa - asparge  
 parta - barde  
 partneri (kumppani, osakas) - partijen  
@@ -2593,11 +2598,11 @@ poika (nuori mies) - younan
 poika - bennan  
 poikittainen (vaaka) - vei di  
 pois (poissa) - for  
+pois käytöstä - defunsi  
 poissulkeva (eksklusiivinen) - vai klus di  
 poistaa (hävittää) - fa an zai  
 poistaa (paitsi, poislukien) - fa vai  
 poistaa (viedä) - fa for  
-poistaa toiminnasta - fa an karma  
 poistaa toiminnasta - deativi  
 poistaa virheitä (debugata) - fa an galte  
 poistua (mennä ulos) - be vai  
@@ -2730,7 +2735,7 @@ pyöreä - gola di
 pyöritellä asiaa (keskustella) - konversi  
 pyörittää - fa rota  
 pyöriä - be rota  
-pyörremyrsky (hurrikaani, taifuuni, tornado) - rota tafun  
+pyörremyrsky (hurrikaani, taifuuni, tornado) - rota tufan  
 pyörä (polkupyörä, moottoripyörä) - sikle  
 pyöräilyn harrastaja - sikle ja  
 päivä (päiväsaika) - dia  
@@ -2813,7 +2818,7 @@ rauha - pase
 rauhallinen (levollinen, tyyni) - xanti di  
 rauhanaate (pasifismi) - pase sim  
 rauta - fero  
-ravintola - restorante  
+ravintola - restoran  
 reagoida - reati  
 reaktio (vastaliike) - reation  
 rehellinen (totisesti, uskottavasti, aamen) - amen  
@@ -2902,6 +2907,8 @@ rutenium - rus yum
 rutherfordium - ruterfor yum  
 ruukku (kannu, maljakko, karahvi) - jara  
 ruumiillinen - badan di  
+ruumiinavaus (obduktio) - nekrotomi  
+ruumis (vainaja) - nekro  
 ruusu - rode  
 ruuti - barude  
 ruuvi - vita  
@@ -3242,8 +3249,8 @@ sylkeä - tuh
 symmetria - sam metre  
 synkretismi - sinkredisim  
 synnyttää - fa gene  
-synti (paha teko) - dus karma  
 synti (paha teko) - dusati  
+synti (paha teko) - duskar  
 synty (syntymä) - gene  
 syntymän jälkeinen - posnatal  
 syntymäpaikka - gene loka  
@@ -3256,7 +3263,6 @@ syreeni - lila
 syvyys - fase teleta  
 syvä - fase tele  
 syy - sabu  
-syy ja seuraus - karma e asar  
 syyllinen - doxa di  
 syylä - zeyil  
 Syyria - Suria  
@@ -3275,7 +3281,7 @@ säilyttää (varjella, säästää) - hafiza
 säilötty - acar di  
 säilöä - fa acar  
 säteillä - fa radi  
-säteily - radi karma  
+säteily - radia  
 säteilymittari - radi metre gi  
 sävel (sävy) - ton  
 sää - sama hal  
@@ -3318,7 +3324,7 @@ takki - kote
 taksa (tariffi) - tarif  
 taksa (vero) - taxi  
 taksamittari - taxi metre gi  
-taksi - taxi kar  
+taksi - taxigar  
 taktiikka - tatike  
 takuu - garanti  
 tallenne (rekisteri, loki) - loge  
@@ -3348,12 +3354,11 @@ tapa (perinne) - suna
 tapa (rutiini) - rutin  
 tapa - ada  
 tapa - mode  
-tapaaminen (kokous) - miti  
 tapaus (seikka) - kasu  
 tapetti - mur kaguji  
 tapioka - manioka fufu  
-tappaa - fa mata  
-tappaja - mata ja  
+tappaa - matafa  
+tappaja - mataja  
 tarha (piha) - bagi  
 tarha (puisto) - parke  
 tarkastaa (tarkistaa, tutkia, tsekata) - inspete  
@@ -3380,7 +3385,7 @@ taulukoida - table yo data
 taulutietokone (tabletti) - table komputa  
 tavallinen - ada di  
 tavanomainen (perinteinen) - suna di  
-tavata - fa miti  
+tavata (tapaaminen, kokous) - ajami  
 tavu - loga fen  
 te - tumen  
 tee - cai  
@@ -3388,7 +3393,6 @@ teehuone (kahvila) - caikan
 teekuppi - cai kupa  
 teelusikka (pikku lusikka) - cai camaca  
 teepannu - cai pote  
-tehdas (paja) - gongkan  
 tehdas - fetekan  
 tehdas - feteria  
 tehdä (toimia) - fa  
@@ -3400,6 +3404,7 @@ tehdä täydelliseksi - fa pul bon
 tehdä uudestaan (toistaa) - rifete  
 tehdä valmiiksi - fa redi  
 tehdä yhteistyötä - kon gong  
+tehdä yhteistyötä - konkar  
 tehkäämme - haide  
 tehokas (tehoava, vaikuttava) - exfetevi  
 teidän - tumen su  
@@ -3407,7 +3412,6 @@ teippi (nauha) - tepe
 teismi (jumalusko) - deu din  
 teisti - deu din ja  
 tekijä (aikaansaaja) - ja  
-tekijä (aikaansaaja) - karma ja  
 tekijä (toimija) - fa ja  
 tekijä (toimija) - feter  
 tekijä (toimija) - atir  
@@ -3418,7 +3422,6 @@ tekniikka (keino, menetelmä) - tehni
 tekniikka (teknologia) - tehnilogi  
 teknokratia - tehni krati  
 teko (toimenpide, akti) - ati  
-teko (toiminta, akti) - karma  
 teko - fate  
 tekoäly - artefete intelige (AI)  
 tekstin muotoilu - kitabu forma  
@@ -3492,13 +3495,13 @@ Togo - Togo
 tohtori - dotor  
 tohtorin tutkinto - dotorta  
 tohveli - babuce  
-toimelias (aktiivinen) - karma ja di  
 toimelias (aktiivinen; aktivoida, panna käyntiin tai päälle) - ativi  
 toiminta (funktio) - funsi  
 toiminta - ation  
-toimintahäiriö - dus funsi  
+toimintahäiriö - dusfunsi  
 toimisto (konttori, byroo) - buro  
 toimittaja (journalisti, lehtimies) - gazeta ja  
+toimiva - funsibil  
 toinen (2.) - dume  
 toisiaan (toinen toistaan) - semon  
 toistaa - fa re  
@@ -3612,12 +3615,12 @@ tyyny - kuxen
 tyyppi (laji, genre) - tipe  
 tyyrpuuri - nave raite  
 tyytyväinen (iloinen) - suka  
-työ - gong  
+työ (tehtävä) - karxe  
 työkalu - tul  
-työntekijä (työläinen) - gong ja  
+työntekijä (työläinen) - karja  
 työntää (puskea) - puxa  
-työpöytä (kirjoituspöytä) - gong meza  
-työskennellä - fa gong  
+työpöytä (kirjoituspöytä) - karmeza  
+työskennellä - kar  
 tähti - sing  
 tähtialus - astro nave  
 tähtitiede (astronomia) - astro nomi  
@@ -3642,7 +3645,7 @@ Tšekki - ceska
 
 Uganda - Ganda  
 uhri (uhraus) - kurban  
-ukkosmyrsky - grom tafun  
+ukkosmyrsky - grom tufan  
 Ukraina - Ukraina  
 ulko- (ulkoinen) - vai di  
 ulkoinen - to vai  
@@ -3824,7 +3827,7 @@ Venus - Venus
 venyttää (pingottaa) - fa vai tense  
 Venäjä - Rusia  
 venäläinen - rusia baxa  
-verbi (teonsana) - karma loga  
+verbi (teonsana) - karlexi  
 veretön - hemi hin  
 verho (huntu, peite) - hijabu  
 verhot - parde  
@@ -3871,7 +3874,7 @@ vihannes - coi
 vihata (inhota) - fa hen  
 vihollinen - dus jen  
 vihollinen - andosti  
-vihreä - verde  
+vihreä - luga  
 viihdyttää (huvittaa) - fa vanu  
 viikko - cetiden  
 viimeinen - finme  
@@ -4011,12 +4014,13 @@ yhdistää - fa linke
 yhdistää - fa un xe  
 Yhdysvallat (ns. Amerikka) - Unta Dex de Amerika (UDA)  
 yhdysvaltalainen (ns. Amerikkalainen) - UDA di  
+yhteensopiva (yhteentoimiva) - konfunsibil  
 yhteinen - kon su  
 yhteinen - konun  
 yhteiskieli - konbaxa  
 yhteiskunnallinen (sosiaalinen) - sosi di  
 yhteisymmärrys - sam rai  
-yhteisö (kokoontuminen, kollektiivi) - jama  
+yhteisö (kokoontuminen, kollektiivi) - jami  
 yhtenäinen - un ta di  
 yhteys (suhde, side) - linke  
 ykseys - unta  
@@ -4094,7 +4098,7 @@ zulu - Zulu
 ĉampano - xampan vin  
 Šiva - xiva  
 šakaali - xakal  
-šakki - xatrang  
+šakki - xah gem  
 šamaani - xaman  
 šampoo - kexa sabun  
 šaria - islam din xaria  

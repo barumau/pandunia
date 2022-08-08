@@ -396,7 +396,6 @@ fa fen gata - 分析
 fa fobi - 吓唬  
 fa for - 除去  
 fa fuku - 穿  
-fa gong - 工作  
 fa hisabu - 计算  
 fa hogo - 燃烧  
 fa in klus - 包括  
@@ -409,7 +408,6 @@ fa loka - 放置
 fa mede - 帮助  
 fa memo - 记得 (回忆)  
 fa migra - 搬家  
-fa miti - 聚会  
 fa najis - 污染  
 fa nomi - 组织  
 fa pede - 放屁  
@@ -541,10 +539,6 @@ glu grafi - 贴纸
 glu poto - 黏土  
 gol - 目的  
 gola seku - 鹅卵石  
-gong - 工作  
-gong ja - 工人 (工作者)  
-gongkan - 工厂  
-gong mise - 提交  
 gorila - 大猩猩  
 goton - 棉  
 grafi culi - 影像处理  
@@ -596,6 +590,8 @@ hande - 手
 hande xaka - 胳膊  
 hapu - 合适  
 Hartum - 喀土穆  
+haste - 忙  
+• anhaste - 慢  
 hata - 直到  
 hata di - 连  
 hatar - 危险  
@@ -664,6 +660,7 @@ ite - 石 (岩)
 
 ja - 者 (人, 家)  
 jaibai - 勝敗  
+• ajami - 聚会 (会议)  
 jamul - 閻浮樹  
 jan buda din - 禅宗  
 janela - 窗戶  
@@ -748,6 +745,12 @@ kanon - 经典
 kantalupo melon - 鈔皮瓜  
 kanyon - 峡谷 (深谷)  
 kape truke - 陷阱  
+kar - 工作  
+• konkar - 合作  
+karja - 工人 (工作者)  
+karkan - 工厂  
+karlexi - 动词  
+karxe - 工作  
 karate - 空手道  
 karbon - 碳  
 karbon duoxide - 二氧化碳  
@@ -758,9 +761,6 @@ kardon karcof - 刺苞菜蓟
 karga - 擔子  
 kargadan: - 犀牛  
 kari - 咖喱  
-karma - 作为 (行为)  
-karma ja di - 活性  
-karma loga - 动词  
 karote - 红萝卜  
 karse - 粗糙  
 karse limon - 箭叶橙  
@@ -875,7 +875,6 @@ le - 了
 leng - 冷たい (寒い)  
 leng mosim - 冬天  
 lense - 透镜  
-lente - 慢  
 letre - 信 (书信)  
 letus - 莴苣  
 leu - 左  
@@ -914,6 +913,7 @@ long pipre - 荜拔
 long tire - 拉  
 lotra - 獭  
 lou - 漏  
+luga - 绿色  
 luka - 六 (6)  
 lulu table - 算盘  
 luna keke - 月饼  
@@ -948,8 +948,6 @@ masa - 质量
 masa mula sol hua - 菊芋  
 masala - 香料  
 masta - 桅  
-mata badan - 尸体  
-mata badan fili - 恋尸癖  
 mate - 物质  
 mate lona - 唯物论 (唯物主义)  
 matur fem - 女人  
@@ -1001,7 +999,6 @@ mima - 模拟  (模仿)
 minta - 薄荷  
 mirde - 微弱的  
 Misri - 埃及  
-miti - 会议  
 mitre - 米 (公尺)  
 moka - 树木  
 moka bano - 木板  
@@ -1056,6 +1053,9 @@ ne - 呢
 nefre - 肾脏  
 nefte - 油  
 nefte guku - 野菊花  
+nekro - 尸体  
+nekrofilia - 恋尸癖  
+nekrotomi - 尸检  
 nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
@@ -1238,7 +1238,7 @@ rapide - 快
 rare - 稀有 (稀少的)  
 rasa - 种族  
 ratibu - 常规 (次序)  
-re sikle - 循环再造  
+resikle - 循环再造  
 Ren - 莱茵河  
 ren yum - 铼  
 reste - 其余  
@@ -1260,7 +1260,7 @@ rokete lanse gi - 火箭筒
 Roma - 罗马  
 roma kamil - 果香菊  
 rota leu - 反时针方向的  
-rota tafun - 飓风 (台风)  
+rota tufan - 飓风 (台风)  
 rota vanu gi - 陀螺  
 rubi - 红  
 rubi bau seku - 红宝石  
@@ -1419,6 +1419,9 @@ tire yo pil - 削 (刮去)
 tis - 炎症  
 tisa - 九 (9)  
 titan yum - 钛  
+tix - 噓  
+tix - 安静  
+tixta - 沉默  
 to - 到  
 to misal - 比如  
 tocu - 接触  
@@ -1490,7 +1493,6 @@ venjou oranje - 温州蜜柑
 ventur - 冒险  
 ventur ja - 冒险者  
 veranda - 阳台  
-verde - 绿色  
 • exversi - 外向的  
 • extraversi - 外向的  
 • intraversi - 内向的  
@@ -1513,6 +1515,7 @@ vutu - 物体 (物品)
 
 ## X  
 
+xah mata - 将死  
 xalke - 鳞  
 xam - 晚上  
 xanghai - 上海  

@@ -8,7 +8,7 @@ theme: readthedocs
 nav:
     - ABC: abc.md
     - kata:
-        - 'la xiu baru su pati dante': urse_dante.md
+        - 'la xiu baru su pati dante': baru_dante.md
         - 'tri behe e un gui': 3_buze_e_guye.md
         - 'tri xiu goro': 3_lil_gurube.md
     - kitabu:

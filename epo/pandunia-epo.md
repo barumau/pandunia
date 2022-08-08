@@ -590,7 +590,6 @@ fa loka - lokigi
 fa long - longigi  
 fa maf - pardoni  
 fa marce - promeni (marŝi)  
-fa mata - mortigi  
 fa memo - memori  
 fa nia - celi  
 fa parti - partopreni  
@@ -749,6 +748,7 @@ ganse - ansero
 ganum - tritiko  
 ganya - akiri (gajni)  
 gar - se  
+gar - aŭto (ĉaro)  
 garanti - garantio  
 garde - gardi  
 garde ja - gardisto  
@@ -786,9 +786,6 @@ gluten - gluteno
 gol - golo  
 gomu - kaŭĉuko  
 gona - angulo  
-gong - laboro  
-gong ja - laboristo  
-gongkan - fabriko (laborejo)  
 goro - porko  
 goro nama - porkaĵo  
 goton - kotono  
@@ -853,6 +850,8 @@ harmoni - harmonio
 harmoni di - harmonia  
 Hartum - Ĥartumo  
 has - speciala  
+haste - okupata  
+• anhaste - malrapida  
 hata - ĝis  
 hata di - eĉ  
 hatar - danĝero  
@@ -957,9 +956,9 @@ jaga - uyanık
 jai - venki  
 jain din - Ĝajnismo  
 jake - jako  
-• anjama - disigi  
-jama di - kolekta  
 Jamaika - Jamajko  
+• anjami - disigi  
+jami di - kolekta  
 jampe - salti  
 janela - fenestro  
 janela frem - fenestrokadro  
@@ -1047,7 +1046,11 @@ kano - kanuo (kanoto)
 kanta - ŝultro  
 kanun - lego  
 kape - kapti  
-kar - aŭto (ĉaro)  
+• konkar - kunlabori  
+karja - laboristo  
+karkan - laborejo  
+karlexi - verbo  
+karxe - laboro  
 karate - karateo  
 karavi - karvio  
 karbon - karbono  
@@ -1057,9 +1060,6 @@ kargadan: - rinocero
 kari - kareo  
 Karibe - Karibio  
 karibu - proksima  
-karma - ago  
-karma ja di - agema  
-karma loga - verbo  
 karote - karoto  
 karta - mapo  
 karte - karto  
@@ -1197,7 +1197,6 @@ laurence yum - laŭrencio
 leng - malvarma  
 leng mosim - vintro  
 leng mosim di - vintra  
-lente - malrapida  
 lenxi - ekzerco  
 letre - letero  
 letus - laktuko  
@@ -1234,6 +1233,7 @@ long - longa
 long kata - romano  
 lou - liki  
 lou sang - sangi  
+luga - verda  
 lulu - perlo  
 lulu table - bidkalkulilo (abako)  
 luna - luno  
@@ -1266,10 +1266,9 @@ masa - maso
 masala - spico  
 maska - masko  
 masta - masto  
-mata - morto  
-mata badan - kadavro  
-mata di - morta  
-mata ja - mortigisto  
+mata - morti (morto; morta)  
+matafa - mortigi  
+mataja - mortigisto  
 mate - materio  
 matur - matura (plenkreska)  
 matur fem - virino  
@@ -1407,6 +1406,8 @@ nave ga - boatumi
 nave leu - babordo  
 nave raite - tribordo  
 nefre - reno  
+nekro - kadavro  
+nekrotomi - obdukcio (nekropsio)  
 nelu - kvar (4)  
 nen - jaro  
 nen mes den - dato  
@@ -1625,12 +1626,12 @@ rasa medi - interrasa
 rasa sim - racismo  
 rasa sim ja - racisto  
 re - ripetado  
-re sikle - recikligi  
+resikle - recikligi  
 redi - preta  
 Ren - Rejno  
 ren yum - renio  
 rentegen yum - rentgenio  
-restorante - restaŭracio  
+restoran - restaŭracio  
 retro dau - reiro  
 rezerve - rezervo  
 rezin - rezino  
@@ -1646,7 +1647,7 @@ rol ja - aktoro (aktorino)
 Roma - Romo  
 rose - roso  
 rota leu - maldekstrume  
-rota tafun - uragano (tajfuno)  
+rota tufan - uragano (tajfuno)  
 rubi - ruĝa  
 rubi bau seku - rubeno  
 rubi oranje - mandarino  
@@ -1822,7 +1823,6 @@ suxi - suŝio
 
 tabaku - tabako  
 tabi - naturo  
-tafun - ŝtormo  
 Tai baxa - tajlanda  
 Tai Dexa - Tajlando  
 taiga - tajgo  
@@ -1860,6 +1860,8 @@ tire - tiri
 tire yo milke - melki  
 titan yum - titanio  
 titi - mamo  
+tix - silenta  
+tixta - silento  
 to - al (ĝis, por)  
 to misal - ekzemple  
 tocu - tuŝi  
@@ -1885,6 +1887,7 @@ tumen su - via
 tumimen - ni ĉiuj  
 tu su - via (cia)  
 tubo - tubo  
+tufan - ŝtormo  
 tuh - sputi  
 tul - ilo  
 Tule - Tuleo  
@@ -1937,7 +1940,6 @@ ventur - aventuro
 ventur ja - aventuristo  
 ver - vera  
 veranda - verando (balkono)  
-verde - verda  
 vermute - vermuto  
 version - versio  
 version - versio (toisinto)  
@@ -1967,6 +1969,8 @@ vulva - vulvo
 ## X  
 
 xa - –os  
+xah gem - ŝako  
+xah mata - ŝakmato  
 xaka - branĉo  
 xal - koltuko  
 xam - vespero  
@@ -1978,7 +1982,6 @@ xarma - honto
 xarnir - ĉarniro (pivoto)  
 xarti - kondiĉo (postulo)  
 xatan ja - diablo (Satano)  
-xatrang - ŝako  
 xau - malmulte  
 xava - pluvo  
 xava cati - obrelo  

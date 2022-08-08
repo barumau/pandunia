@@ -344,7 +344,6 @@ dur metre gi - ストップウオッチ
 dur zaman - 時代 (年代)  
 dus - 難しい  
 dus jen - 敵  
-dus karma - 悪事  
 dus sin di - 不吉 (縁起の悪い)  
 dus vide - 見苦しい  
 dux - シャワー  
@@ -396,7 +395,6 @@ fa fen gata - 見つめ直す
 fa fuku - 着る  
 fa gene - 生む  
 fa glu - 張る (付く)  
-fa gong - 働く  
 fa hapu - 適応する  
 fa hisabu - 計算する  
 fa hogo - 燃やす  
@@ -412,7 +410,6 @@ fa loga - 話す
 fa mede - 手伝う (助ける)  
 fa mei daka - 飾る  
 fa memo - 思い出す  
-fa miti - 会う  
 fa najis - 汚す  
 fa nomi - 組織する  
 fa nume - 数える  
@@ -513,6 +510,7 @@ ganirgrupe - 合唱団
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
 gar - もし  
+gar - 車  
 garma - 暖かい (熱い)  
 garma mosim - 夏  
 garma zona - 熱帯  
@@ -559,10 +557,6 @@ gol - 目的 (行き先, ゴール)
 gola longta - 周囲長  
 gola seku - 丸石 (玉石, 栗石)  
 gomu - ゴム (消しゴム)  
-gong - 労働  
-gong ja - 労働者  
-gongkan - 工場 (製造所)  
-gong mise - 提出  
 gorila - ゴリラ  
 grafi culi - 画像処理  
 grafi fineta - 解像度  
@@ -612,6 +606,8 @@ hapu - 適切
 haram liste - ブラックリスト  
 Hartum - ハルツーム  
 has nam - 識別名  
+haste - 忙しい  
+• anhaste - 遅い (ゆっくり)  
 hatar - 危険  
 hava - 風  
 heli yum - ヘリウム  
@@ -681,8 +677,9 @@ islam din - イスラム教
 
 ja - 者 (人, 家)  
 jaibai - 勝敗  
-• anjama - 散らす  
-• anjama di - 疎ら  
+• ajami - 会う (会合, 会議)  
+• anjami - 散らす  
+• anjami di - 疎ら  
 jamul - フトモモ  
 jan buda din - 禅宗  
 janela - 窓  
@@ -768,7 +765,12 @@ kano - カヌー
 kantalupo melon - カンタロープ  
 kanyon - 峡谷  
 kape truke - 罠  
-kar - 車  
+kar - 働く  
+• duskar - 悪事  
+• konkar - 共同して働  
+karja - 労働者  
+karlexi - 動詞  
+karxe - 労働  
 karate - 空手  
 karate ja - 空手家  
 karbon - 炭素  
@@ -779,9 +781,6 @@ kardon - アザミ
 kardon karcof - カルドン  
 kargadan: - 犀  
 kari - カレー  
-karma - 行為  
-karma ja di - 活動的  
-karma loga - 動詞  
 karote - ニンジン  
 karse - 荒い  
 karse limon - コブミカン (スワンギ, プルット)  
@@ -901,7 +900,6 @@ laxe - 残す
 lazanya - ラザニア  
 lazur petra - ラピスラズリ (瑠璃)  
 lense - レンズ  
-lente - 遅い (ゆっくり)  
 letre - 手紙  
 letus - レタス  
 leu - 左  
@@ -944,6 +942,8 @@ long pipre - 畢撥
 long tire - 伸びる (張る)  
 lotra - 獺  
 lou - 漏る  
+luga - 緑 (緑色)  
+luga melon - ハネデューメロン  
 luka - 六 (6)  
 lulu table - 算盤  
 luna keke - 月餅  
@@ -974,8 +974,6 @@ masa mula - 芋 (塊茎)
 masa mula sol hua - キクイモ  
 masala - 香辛料  
 maska - 仮面 (マスク)  
-mata badan - 死体  
-mata badan fili - 屍姦 (死体性愛)  
 mate - 物質  
 mate lona - 唯物論 (唯物主義)  
 matur fem - 女の人  
@@ -1049,7 +1047,6 @@ mima ja - 模倣者
 minta - ハッカ  
 mirde - 微か  
 Misri - エジプト  
-miti - 会合 (会議, ミーティング)  
 mitre - メートル  
 mixe alkol - カクテル (混合酒)  
 moka - 木  
@@ -1101,6 +1098,9 @@ ne - ね
 nefre - 腎臓  
 nefte - 油 (オイル)  
 nefte guku - シマカンギク (アブラギク)  
+nekro - 死体  
+nekrofilia - 屍姦 (死体性愛)  
+nekrotomi - 検視  
 nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
@@ -1287,7 +1287,7 @@ rasa - 人種
 ratibu - 順  
 ratibu di - 整然  
 re - 繰り返し  
-re sikle - 再生する (リサイクルする)  
+resikle - 再生する (リサイクルする)  
 re zoku - 再開する  
 Ren - ライン川  
 ren yum - レニウム  
@@ -1471,6 +1471,9 @@ tire kane - レバー (てこ)
 tire yo pil - はがす (剥ぐ)  
 tisa - 九 (9)  
 titan yum - チタン  
+tix - しーっ  
+tix - 静かな (無音)  
+tixta - 静けさ (静寂, 黙秘)  
 to misal - 例えば  
 Tokyo - 東京  
 • jivatomi - 生体解剖  
@@ -1539,8 +1542,6 @@ vende - 売る
 vende xope - 交易 (売買)  
 venjou oranje - ウンシュウミカン  
 veranda - ベランダ (バルコニー, 縁側)  
-verde - 緑 (緑色)  
-verde melon - ハネデューメロン  
 • exversi - 外向的な  
 • extraversi - 外向的な  
 • intraversi - 内向的な人  
@@ -1567,6 +1568,7 @@ vutu - 物 (品)
 
 ## X  
 
+xah mata - 詰み (チェックメイト)  
 xalke - うろこ  
 xam - 夕べ  
 xam yam - 夕食  

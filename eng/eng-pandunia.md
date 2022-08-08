@@ -32,11 +32,8 @@ acorn - baluta frute
 act (deed) - ati  
 act (play a role) - fa rol  
 actinium - acini yum  
-action (act, deed) - karma  
 action - ation  
-activate (enable, turn on, trigger) - fa karma  
 activate (turn on) - ativifa  
-active (on, enabled) - karma ja di  
 active (working; activate, enable, turn on, trigger) - ativi  
 actor (actress) - rol ja  
 additional - max di  
@@ -175,7 +172,7 @@ apple - aple
 applesauce - aple sos  
 application - aplika  
 apply (put to use for a purpose) - fa aplika  
-apprentice - gong xula ja  
+apprentice - karxular  
 approach (get near) - be karibu  
 approve - bon rai  
 apricot (plum, peach) - briko  
@@ -272,6 +269,7 @@ authority (power to give orders) - amir haki
 autocracy (monarchy) - auto krati  
 autonomous - auto nomi di  
 autonomy - auto nomi  
+autopsy (necrotomy) - nekrotomi  
 autumn (fall) - pada mosim  
 auxiliary verb that marks future tense (will, shall) - xa  
 avert - deversi  
@@ -623,8 +621,8 @@ capable (talent, skillful) - bil ja
 cape (cloak, mantle) - mantol  
 capital letter (upppercase letter) - dai zi  
 captain - nave xefe  
-car (cart, carriage, wagon, automobile) - kar  
-car park (parking lot) - kar parke  
+car (cart, carriage, wagon, automobile) - gar  
+car park (parking lot) - garparke  
 carat - kira  
 carat - kirate  
 caravan (convoy) - karvan  
@@ -655,7 +653,6 @@ catch fish - kape yo pexe
 Caucasia - Kaukasia  
 cauldron - dai pote  
 cause (be the cause for) - fa sabu  
-cause and effect - karma e asar  
 cave - gua  
 Cayman Islands - Kaiman nesi  
 ceiling - kamar gau  
@@ -702,6 +699,7 @@ chat room - blablakan
 chauffeur (driver) - xofer ja  
 chaussure - sapatu  
 checkers (draughts) - dama gem  
+checkmate - xah mata  
 cheer (hurrah, hooray) - ura  
 cheese - cize  
 cheetah - cita  
@@ -711,7 +709,7 @@ chemistry - kimilogi
 cheque (check) - ceke  
 cherry - ceri  
 cherub - kerubi  
-chess - xatrang  
+chess - xah gem  
 chest (breast) - sine  
 chestnut - kastana  
 chicken - koko  
@@ -807,11 +805,12 @@ cola - kola jus
 cold (illness) - zukam  
 cold - leng  
 collaborate (work together) - kon gong  
+collaborate (work together) - konkar  
 collapse - parce dipe  
 collect (gather, bring together, assemble, congregate) - fa jama  
 collect fees or taxes - kape yo taxi  
-collection (congregation, assembly) - jama  
-collective - jama di  
+collection (congregation, assembly) - jami  
+collective - jami di  
 Colombia - Kolombia  
 colonialism - koloni sim  
 colonialist - koloni sim ja  
@@ -839,6 +838,7 @@ compass (magnetized needle) - ponte pin
 compassion (sympathy) - sam emos  
 compassion - kon pasi  
 compatible (supported) - kon funsibil  
+compatible (supported) - konfunsibil  
 compatriot - sam dexa jen  
 compete (have a match) - fa mece  
 complain (lament) - xikaya  
@@ -908,7 +908,7 @@ corn poppy - medan papi
 corner (angle) - gona  
 cornflower - nilsentaure  
 corona virus - korona virus  
-corpse (dead body) - mata badan  
+corpse (dead body) - nekro  
 correct (make right) - fa sahi  
 corrupt (pollute, soil, defile, stain, taint) - fa najis  
 corruption (filth, pollution, contamination, najis) - najis  
@@ -991,7 +991,7 @@ cut with a knife - gata a caku
 cute (sweet) - kavai  
 cyan - sian  
 cyclist - sikle ja  
-cyclone (hurrican, tornado, typhoon) - rota tafun  
+cyclone (hurrican, tornado, typhoon) - rota tufan  
 Cyprus - Kipris  
 Cyrillic alphabet - Kiril zi  
 cytology - selulogi  
@@ -1026,12 +1026,10 @@ daughter - benni
 day (24 hours) - den  
 day (daytime) - dia  
 daylight - dia foto  
-deactivate (disable, turn off) - fa an karma  
 deactivate (disable, turn off) - deativi  
 deactivate (turn off) - deativifa  
-dead (deceased) - mata di  
+dead body - mata badan  
 dear (beloved) - ama di  
-death - mata  
 debate (discuss) - fa lona  
 debug - fa an galte  
 decay (rot, deteriorate) - be pute  
@@ -1059,6 +1057,7 @@ defender - defa ja
 defense (defence) - defa  
 deflect (bend away) - deflexi  
 deform - deforma  
+defunct (out of use) - defunsi  
 degree Celsius - celsius darja  
 Deimos - Deimos  
 delicious (yummy) - bon guste di  
@@ -1073,7 +1072,7 @@ depress (push away) - deprese
 depth - fase teleta  
 descriptive - sifa di  
 desert - sablestan  
-desk - gong meza  
+desk - karmeza  
 despise (scorn) - fa paraya  
 destine (set) - cuze yo gol  
 destiny (fate, lot, kismet) - kisma  
@@ -1091,6 +1090,7 @@ diamond - adamas
 diary (daily log) - den loge  
 dichotomy - dutomi  
 dictionary (word list) - loga liste  
+die (death; dead, deceased) - mata  
 die (dice) - zar kube  
 die - be mata  
 difference - alo sifa  
@@ -1117,7 +1117,7 @@ disease (illness, sickness) - pati
 disfigure - fa dus forma  
 dislike (loathe) - anama  
 dispel (disperse, drive asunder) - dispele  
-disperse (spread out, scatter) - anjama  
+disperse (spread out, scatter) - anjami  
 distance (far away) - tele  
 distance (length) - teleta  
 distinction (specialty) - hasta  
@@ -1141,7 +1141,6 @@ document (record, file) - dokumen
 documentary film - dokumen filme  
 doer (agent) - fa ja  
 doer (agent, actor, -er, -ist) - ja  
-doer (agent, actor, activist) - karma ja  
 dog - vaf  
 doll (puppet) - pupe  
 dollar - dolar  
@@ -1206,7 +1205,7 @@ duruka - yam sukar gana
 dust (powder) - fun  
 dye - rang mate  
 dynamite - dinamite  
-dysfunction (malfunction) - dus funsi  
+dysfunction (malfunction) - dusfunsi  
 dysprosium - disprosi yum  
 dystheism (maltheism) - dus deu sim  
 dystopia - dustopia  
@@ -1714,7 +1713,7 @@ graveyard (cemetery, burial ground) - gabur bagi
 Greece - Helen  
 greedy - tami  
 Greek (Hellenic) - Helen di  
-green - verde  
+green - luga  
 Greenland - Kalal  
 greens - coi  
 greet - fa salam  
@@ -1871,7 +1870,7 @@ Honduras - Onduras
 honest (trustworthy, true; surely, verily, amen) - amen  
 honey - medu  
 honeybee - medu fong  
-honeydew (green melon) - verde melon  
+honeydew (green melon) - luga melon  
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onor di  
 hook - huke  
@@ -1909,8 +1908,10 @@ hunt (fish) - fa saide
 hunter - saide ja  
 hunting (fishing) - saide  
 hurry (hasten) - ajila  
+hurry (rush, haste; hasty, busy, hurried, swift, fast) - haste  
 hurt - fa pasi  
 husband - gaminan  
+hush (shh) - tix  
 hush (shh) - xux  
 hybrid (mongrel) - hibride  
 hydrogen - hidro  
@@ -2118,8 +2119,8 @@ key lime - kaguji limon
 keyboard - buton bano  
 Khartoum - Hartum  
 kidney - nefre  
-kill - fa mata  
-killer - mata ja  
+kill - matafa  
+killer - mataja  
 kilogram (kg) - kilogram  
 kilometer (km) - kilomitre  
 kimono - kimono  
@@ -2253,7 +2254,7 @@ lilac color - lila rang
 lily - susan  
 lily of the valley - vali susan  
 lime - kalsi mate  
-lime green - limon verde di  
+lime green - limon luga di  
 limestone - kalsi petra  
 limit (boundary) - limite  
 line (thread, string) - lin  
@@ -2465,8 +2466,7 @@ Mediterranean - Geo Medi Hai
 medium (intermediate, mean) - medi di  
 medium (media, buffer) - medi xe  
 medium (media, mass media) - media  
-meet - fa miti  
-meeting (gathering) - miti  
+meet (get together; meeting, gathering) - ajami  
 megawat (MW) - mega vate  
 meitnerium - meitner yum  
 melodious (melodic) - melodi di  
@@ -2531,8 +2531,8 @@ mint - minta
 minute - minute  
 Miranda - Miranda  
 mirror - mira plate  
-misdeed (sin, vice) - dus karma  
 misdeed (sin, vice) - dusati  
+misdeed (sin, vice) - duskar  
 misfortune (bad luck) - dus zar  
 mission (transmission, emission) - mise xe  
 mistake (error, fault, blunder, bug) - galte  
@@ -2579,6 +2579,7 @@ more - max
 morning (dawn) - suba  
 Morocco - Magribi dexa  
 morpheme - forma so  
+mortal - matabil  
 moscovium - moskva yum  
 Moscow - Moskva  
 mosquito - moskite  
@@ -2665,8 +2666,9 @@ nautilus - nautile
 Nazi - nasi sosi sim ja  
 near (close, almost) - karibu  
 necessary (needed) - yau di  
+nechrophilia - nekrofilia  
 neck (nape) - nuka  
-necrophilia - mata badan fili  
+necrology (listing of people who have died) - nekrolista  
 need (lack, require) - yau  
 need (shortage, lack, requirement) - yauta  
 needle (pin, splinter, prickle, thorn, stinger, spine, quill) - pin  
@@ -2769,6 +2771,7 @@ oak tree - baluta
 oasis - vahi  
 oat - ave  
 Oberon - Oberon  
+obituary (necrology) - nekrologa  
 object (item, thing) - vutu  
 obligation (compulsion) - musta  
 oblique (askew, tilted) - terca  
@@ -2785,7 +2788,6 @@ of (attributive preposition) - de
 of course! (obviously) - klar!  
 off (away, gone, far-off) - for  
 off (deactivated, disabled, inactive) - anativi  
-off (deactivated, disabled, inactive) - ankarma ja  
 office (bureau) - buro  
 office (position) - guan  
 office (room) - burokan  
@@ -3322,9 +3324,9 @@ rebirth (renaissance) - rinati
 recede (retreat) - recese  
 receipt (acknowledgement) - reside  
 receiver (receptor) - receper  
-recharge (reload) - re karga  
+recharge (reload) - rikarga  
 recur (go again) - rikurse  
-recycle - re sikle  
+recycle - resikle  
 red - rubi  
 reduce (lead back, take back) - redute  
 reduce - kamfa  
@@ -3378,7 +3380,7 @@ respect (honor, think highly of) - fa onor
 respond (give an answer) - fa javabu  
 rest (relief, repose) - xanti  
 rest (remainder) - reste  
-restaurant - restorante  
+restaurant - restoran  
 retain (hold back) - retene  
 return (get back) - be retro  
 return (put back) - fa retro  
@@ -3665,6 +3667,8 @@ sign (signal) - sin
 Sikh - siki din ja  
 Sikhism - siki din  
 silence (make silent) - fa xux  
+silence - tixta  
+silent (quiet) - tix  
 silent - xux di  
 silicon - silis  
 silk - silke  
@@ -3700,7 +3704,7 @@ slipper - babuce
 slope (tilt, slant, bias, inclination, tendency) - klin  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-slow (lethargic) - lente  
+slow - anhaste  
 slum - harabu mahala  
 small town - xiu siti  
 smell (reek) - fa aroma  
@@ -3771,7 +3775,7 @@ spaceship - kosmo nave
 spade - bagi bele  
 Spain - Espanya  
 spam mail - turbe posta  
-sparse (scattered) - anjama di  
+sparse (scattered) - anjami di  
 speak (talk, language, communication) - baxa  
 spear thistle - penakardon  
 spearmint - kane minte  
@@ -3846,7 +3850,7 @@ stopper (cap, peg, tap) - tapa
 stopwatch - dur metre gi  
 store (deposit) - hazin  
 storehouse (depository) - hazinkan  
-storm (tempest, typhoon, hurricane, cyclone) - tafun  
+storm (tempest, typhoon, hurricane, cyclone) - tufan  
 straight - orto  
 straighten - fa orto  
 strange (unknown) - ansabe di  
@@ -3868,7 +3872,6 @@ study (work made in order to practise or demonstrate) - estude
 stupid (idiotic) - idiote di  
 subceed (be less than) - be min  
 submission (surrender) - islam  
-submit (present) - gong mise  
 substance (physical material from which something is made) - kimi  
 substitute (replace) - fa vise  
 subtitles (captions) - nice kitabu  
@@ -3965,7 +3968,7 @@ taste (sense flavor) - fa guste
 taste like - guste ka  
 tattered (ragged, torn) - cira cira di  
 tattoo - tatu  
-taxi (cab) - taxi kar  
+taxi (cab) - taxigar  
 taximeter - taxi metre gi  
 tea - cai  
 tea cup - cai kupa  
@@ -4060,7 +4063,7 @@ thrust (throw, cast) - jete
 Thule - Tule  
 thulium - tule yum  
 thunder (roaring) - grom  
-thunderstorm - grom tafun  
+thunderstorm - grom tufan  
 Thursday - den nelu  
 Tibet - Bote  
 tick (mite) - akare  
@@ -4127,7 +4130,7 @@ tract (land, ground, region) - stan
 tractor - trata gi  
 trade (commerce, buying and selling) - vende xope  
 trader (merchant) - vende xope ja  
-trading card - jama karte  
+trading card - jami karte  
 train - tren  
 train hijacker - tren kape ja  
 train ticket - tren tikete  
@@ -4272,7 +4275,7 @@ velum - bokavele
 Venezuela - Venezuela  
 Venus - Venus  
 veranda (balcony, terrace, porch) - veranda  
-verb - karma loga  
+verb - karlexi  
 verbal irony (sarcasm) - loga ironi  
 verify (authenticate) - fa ver  
 vermouth - vermute  
@@ -4439,10 +4442,10 @@ wood board (plank) - moka bano
 wool (fleece) - meme kexa  
 word (lexeme) - lexima  
 word processing - kitabu culi  
-work (labour, job) - gong  
-work - fa gong  
-worker - gong ja  
-workshop (factory) - gongkan  
+work (job, task) - karxe  
+work - kar  
+worker - karja  
+workshop - karkan  
 world - dunia  
 world language - dunia baxa  
 worm - verme  

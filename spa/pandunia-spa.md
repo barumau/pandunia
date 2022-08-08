@@ -787,10 +787,8 @@ dur metre gi - cronómetro
 dur zaman - era (periodo, época)  
 dus - malo (difícil, duro)  
 dus darja - degradar  
-dus funsi - falla (mal funcionamiento)  
 dus hal - dificultad (apuro, privación)  
 dus jen - enemigo  
-dus karma - pecado  
 dus nam - insulto (ofensa)  
 dus sin di - ominoso (amenazador)  
 dus vide - feo  
@@ -945,7 +943,6 @@ fa gene - dar a luz (enngendrar, parir, procrear)
 fa glu - pegar  
 fa gol - lograr (llegar)  
 fa gola - rodear (cirundar)  
-fa gong - trabajar  
 fa grafi - dibujar (trazar)  
 fa guste - notar el sabor  
 fa halal - permitir (dejar)  
@@ -1008,7 +1005,6 @@ fa mantra - salmodiar
 fa marce - caminar (marchar, andar)  
 fa marke - marcar  
 fa masaje - amasar (masajear)  
-fa mata - matar (morir, asesinar)  
 fa mece - competir  
 fa mede - ayudar (asistar)  
 fa mei daka - decorar (adornar)  
@@ -1016,7 +1012,6 @@ fa memo - acordarse
 fa migra - migrar (emigrar, tralsadar)  
 fa min rai - subestimar  
 fa ming - iluminar  
-fa miti - encontrar  
 fa model - modelo  
 fa mol - moler (pulverizar)  
 fa multi - multiplicar  
@@ -1270,6 +1265,8 @@ fungu - hongo (moho)
 fungu frute - champiñón (seta)  
 fungu nete - micelio  
 funsi - funcionar  
+• dusfunsi - falla (mal funcionamiento)  
+• konfunsibil - compatible  
 furete - hurón  
 furi - enojado (furioso)  
 furita - ira (furia)  
@@ -1330,6 +1327,8 @@ ganse - ganso (oca)
 ganum - trigo  
 ganya - ganar (cobrar)  
 gar - si (suponer)  
+gar - coche (carruaje, auto, vagón)  
+garparke - estacionamiento (aparcamiento)  
 garanti - garantía  
 garde - vigilar (guardar)  
 garde ja - vigilante (guardia)  
@@ -1422,11 +1421,6 @@ gola seku - adoquín
 gomu - goma (caucho, hule, borrador)  
 gona - esquina (rincón, ángulo)  
 gona metre gi - goniómetro (medidor de ángulos)  
-gong - trabajo  
-gong ja - trabajador (obrero)  
-gongkan - fábrica  
-gong meza - escritorio (mesa de trabajo)  
-gong mise - entregar (enviar)  
 gorila - gorila  
 goro - cerdo (puerco)  
 goro nama - carne de cerdo  
@@ -1450,7 +1444,7 @@ Grenada - Granada
 Grenadin nesi - Granadinas  
 grimas - mueca  
 grom - truenos (estruendo)  
-grom tafun - tormenta  
+grom tufan - tormenta  
 gros - grueso  
 grosta - grosor  
 gros zi - letra negrita  
@@ -1538,6 +1532,8 @@ Hartum - Jartum
 has - especial (diferenciado, distinto)  
 has nam - identificador  
 hasta - especialización (distinción)  
+haste - ocupado (atareado)  
+• anhaste - lento (despacio)  
 hata - hasta  
 hata di - hasta (también)  
 hatar - peligro  
@@ -1715,12 +1711,13 @@ jaga - despierto
 jai - gañar (vencer, triunfar; victoria)  
 jain din - jainismo  
 jake - chaqueta  
-jama - colección (grupo, conjunto, montón)  
-• anjama - dispersar (esparcir, desmontar)  
-• anjama di - escaso (disperso, ralo)  
-jama di - colectivo  
-jama karte - cromo  
 Jamaika - Jamaica  
+jami - colección (grupo, conjunto, montón)  
+• ajami - encontrar (reunión, junta, mitin)  
+• anjami - dispersar (esparcir, desmontar)  
+• anjami di - escaso (disperso, ralo)  
+jami di - colectivo  
+jami karte - cromo  
 jampe - saltar (brincar)  
 jan - meditar (reflexionar)  
 jan buda din - budismo zen  
@@ -1880,8 +1877,13 @@ kape - capturar (apresar)
 kape truke - trampa  
 kape yo pexe - pescar  
 kape yo taxi - gravar (cobrar tasas)  
-kar - coche (carruaje, auto, vagón)  
-kar parke - estacionamiento (aparcamiento)  
+kar - trabajar  
+• duskar - pecado  
+• konkar - colaborar  
+karja - trabajador (obrero)  
+karlexi - verbo  
+karmeza - escritorio (mesa de trabajo)  
+karxe - trabajo  
 karaoke - karaoke  
 karate - karate  
 karavi - carvis (alcaravea)  
@@ -1901,11 +1903,6 @@ kaributa - proximidad
 karim - generosidad (caridad)  
 karim di - generoso (dadivoso, caritativo)  
 karite - karité  
-karma - acto (acción)  
-• ankarma ja - desactivado  
-karma ja - actor (hacedor, perpetrador, agente)  
-karma ja di - activo  
-karma loga - verbo  
 Karnada - Karnataka  
 karnada baxa - cararés  
 karote - zanahoria  
@@ -2170,7 +2167,6 @@ leng - frío
 leng mosim - invierno  
 leng mosim di - invernal  
 lense - lente  
-lente - lento (despacio)  
 lenxi - ensayo (ejercitio)  
 letre - carta  
 letus - lechuga  
@@ -2204,8 +2200,8 @@ limfa - linfa
 limite - límite (frontera, linde)  
 limon - limón  
 limon jus - limonada  
+limon luga di - verde limón  
 limon oranje - cítrico  
-limon verde di - verde limón  
 lin - linea (hilo, cordel, raya)  
 lin parce - nueva línea  
 lin so - hebra (fibra)  
@@ -2252,6 +2248,8 @@ lote - lote (grupo)
 lotra - nutria  
 lou - chorrear  
 lou sang - sangrar  
+luga - verde  
+luga melon - melón verde  
 luka - seis (6)  
 luka fase - hexaedro (cubo)  
 luka gona - hexágono  
@@ -2339,11 +2337,9 @@ maska - máscara
 masta - mástil  
 maste - dominar  
 master - maestro (experto)  
-mata - muerte (fallecimiento)  
-mata badan - cadáver  
-mata badan fili - necrofilia  
-mata di - muerto  
-mata ja - asesino  
+mata - morirse (muerte; muerto)  
+matafa - matar (morir, asesinar)  
+mataja - asesino  
 mate - sustancia (materia)  
 mate di - material  
 mate lona - materialismo  
@@ -2487,7 +2483,6 @@ mise xe - emisión
 miskin - pobre (miserable)  
 Misri - Egipto  
 misri di - egipcio  
-miti - reunión (junta, mitin)  
 mitre - metro  
 mixe - mezclar  
 mixe alkol - cóctel  
@@ -2626,6 +2621,10 @@ nefre - riñon
 nefre tis - nefritis  
 nefte - aceite (óleo)  
 nega - rechazar (negar)  
+nekro - cadáver  
+nekrofilia - necrofilia  
+nekrologa - necrología (obituario)  
+nekrotomi - autopsia  
 nelu - cuatro (4)  
 nelu gona - cuadro  
 nen - año  
@@ -3048,7 +3047,7 @@ Qazaqe - Kazajistán (Kazakistan)
 ## R  
 
 radi - rayo  
-radi karma - radiación  
+radia - radiación  
 radi longta - radio (mitad de diámetro)  
 radi metre gi - radiómetro  
 radi yum - radio  
@@ -3087,8 +3086,7 @@ ratibu di - ordenado (regular)
 razon - razón  
 razon di - razonable  
 re - repetición  
-re karga - recargar  
-re sikle - reciclar  
+resikle - reciclar  
 re zoku - continuar (reanudar)  
 rebel - rebelión (sublevación)  
 redi - listo (preparado)  
@@ -3099,7 +3097,7 @@ reporte - informe (reporte, noticia)
 reseta - instrucciones (receta)  
 reside - reconocimiento (recibo)  
 reste - resto (demás)  
-restorante - restaurante  
+restoran - restaurante  
 retro - al revés  
 retro dau - vuelta  
 retro gula - devolver (vomitar)  
@@ -3109,6 +3107,7 @@ retro tikete - billete de ida y vuelta
 Reunion - Reunión  
 rezerve - réservation  
 rezin - resina  
+rikarga - recargar  
 rike - rico  
 rim - rima  
 ring - anillo  
@@ -3144,7 +3143,7 @@ roste - asar (tostar)
 roste pang - pan tostado  
 rota leu - en el sentido contrario al las agujas del reloj  
 rota raite - en el sentido del las agujas del reloj  
-rota tafun - huracán (tifón)  
+rota tufan - huracán (tifón)  
 rota vanu gi - trompo  
 rota xe - rotor  
 Ruanda - Ruanda  
@@ -3485,7 +3484,6 @@ tabi - disposición (naturaleza, carácter, -ivo)
 table - tabla (lámina, plancha)  
 table komputa - tablet  
 table yo data - tabular  
-tafun - tormenta (tempestad)  
 tai - escenario (podio, estrado, tarima)  
 Tai baxa - idioma tailandés  
 Tai Dexa - Tailandia  
@@ -3513,7 +3511,7 @@ tatike - táctica (estrategia)
 tatu - tatuaje  
 tava - sartén  
 taxi - tasa (precio, cuota, tarifa)  
-taxi kar - taxi (cab)  
+taxigar - taxi (cab)  
 taza - fresco  
 tehni - técnica  
 tehni krati - tecnocracia  
@@ -3574,6 +3572,9 @@ tis - inflamación
 tisa - nueve (9)  
 titan yum - titanio  
 titi - seno (teta)  
+tix - chito (chist)  
+tix - silencioso  
+tixta - silencio  
 to - a (hacia)  
 to jin - adelante  
 to long - lejos  
@@ -3628,6 +3629,7 @@ tumen su - vuestro
 tu su - tu  
 tualete - inodoro (wáter, retrete)  
 tubo - tubo  
+tufan - tormenta (tempestad)  
 tuh - escupir (bufar)  
 tul - herramienta  
 tule yum - tulio  
@@ -3740,8 +3742,6 @@ ventur ja - aventurero
 Venus - Venus  
 ver - verdadero  
 veranda - balcón (terraza, veranda)  
-verde - verde  
-verde melon - melón verde  
 verme - verme  
 vermute - vermú  
 verse - afrontar  
@@ -3806,6 +3806,8 @@ vutu - objeto (artículo)
 
 ## X  
 
+xah gem - ajedrez  
+xah mata - jaque mate  
 xaka - rama  
 xakal - chacal  
 xal - bufanda (chal)  
@@ -3827,7 +3829,6 @@ xatan di - satánico
 xatan din - satanismo  
 xatan din ja - satanista  
 xatan ja - Satanás  
-xatrang - ajedrez  
 xau - poco (pocos)  
 xauta - escasez  
 xava - lluvia  

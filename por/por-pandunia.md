@@ -29,7 +29,6 @@ aeroporto - air porte
 aeróbico - air bio di  
 Afeganistão - Afghan  
 agacharse - lipa side  
-agente - karma ja  
 agente - atir  
 agressor - agresi ja  
 agrobiologia - agribiologi  
@@ -128,12 +127,11 @@ astrónomo - astro nomi ja
 ataque - agresi  
 Atenas - Athina  
 aterro (lixão) - lasastan  
-ativo - karma ja di  
 ativo - ativi  
-ato (ação) - karma  
 ato - ati  
 até - hata  
 Austronésia - Austronesi  
+autopsía - nekrotomi  
 autor - autor  
 aveia - ave  
 aventura - ventur  
@@ -233,7 +231,7 @@ cabeça - sar
 cacto - katus  
 cadeado - pende sor  
 cadeira de balanço - roke kursi  
-cadáver - mata badan  
+cadáver - nekro  
 cafeteira - kafe pote  
 café - kafe  
 café - kafekan  
@@ -343,6 +341,7 @@ coelho (lebre) - tuzi
 cogumelo - fungu frute  
 coisa - xe  
 colaborar - kon gong  
+colaborar - konkar  
 colar (aderir) - fa glu  
 colher - camaca  
 colher de chá - cai camaca  
@@ -405,7 +404,7 @@ cristal - bilor
 croassã - kruasan  
 crocodiliano - krokodil  
 crocodilo - long krokodil  
-cromo - jama karte  
+cromo - jami karte  
 cronómetro - dur metre gi  
 cru - seng  
 cruz - krus  
@@ -529,7 +528,7 @@ emprestar (pedir emprestado) - jeka
 emprestar - jeka da  
 encarar (afrontar; vérsus) - verse  
 encarar (afrontar; vérsus) - versi  
-encontrar - fa miti  
+encontrar - ajami  
 endereço - adres  
 enganar - fa truke  
 ensinar (lecionar) - gio  
@@ -853,7 +852,7 @@ leite - milke
 leite de soja - soi milke  
 lembrar-se (recordar-se) - fa memo  
 lente - lense  
-lento - lente  
+lento - anhaste  
 ler - duku  
 Letónia - Latvia  
 leve - ligu  
@@ -914,8 +913,8 @@ mago - zardux magi ja
 mahjong - majang  
 mais - max  
 maldição - dusdua  
-malfeitoria (pecado) - dus karma  
 malfeitoria (pecado) - dusati  
+malfeitoria (pecado) - duskar  
 mamão (papaia) - papaya  
 mancha (marca) - marke  
 mandarim - han guan ja  
@@ -941,7 +940,6 @@ massa - masa
 massa de modelar (massinha) - plasti paste  
 mastro - masta  
 matadouro - bucakan  
-matar - fa mata  
 mate (opaco) - foto mata di  
 matemática - hisabulogi  
 materialismo - mate lona  
@@ -1037,7 +1035,7 @@ nação - nasi
 nação - natia  
 necessidade - yauta  
 necessário - yau di  
-necrofilia - mata badan fili  
+necrofilia - nekrofilia  
 neodímio - neodim yum  
 neologismo - neu loga  
 neptúnio - neputun yum  
@@ -1078,12 +1076,14 @@ o (a) - la
 ## O  
 
 o que - ke  
+obituário - nekrologa  
 oblíquo (torto) - terca  
 obrigado - xukur  
 obsidiana - osidian  
 oceano - dai hai  
 ocular - yen di  
 ocultar (esconder) - fa sir  
+ocupado (atarefado) - haste  
 ocupado (atarefado) - mang  
 oganesson - oganeson  
 oito (8) - bati  
@@ -1330,7 +1330,7 @@ rebater - boing
 receber - recepe  
 receita - reseta  
 receptor - receper  
-reciclar - re sikle  
+reciclar - resikle  
 recém-nascido - neu gene di  
 refugo (escória) - lasa  
 regime - politi mode  
@@ -1441,6 +1441,8 @@ sexo - jinse
 sexologia - sexelogi  
 sexta-feira - den lima  
 significar (querer dizer) - semi  
+silencioso - tix  
+silêncio - tixta  
 silício - silis  
 sim - ye  
 simetria - sam metre  
@@ -1528,9 +1530,9 @@ torta - pai
 toupeira - krote  
 toxicologia - toxilogi  
 toxina - biotoxi  
-trabalhador - gong ja  
-trabalhar - fa gong  
-trabalho - gong  
+trabalhador - karja  
+trabalhar - kar  
+trabalho - karxe  
 trajar (vestir-se) - fa fuku  
 tranca - kane sor  
 tranquilo (calmo) - xanti di  
@@ -1594,9 +1596,9 @@ vegetariano - fito yam sim ja
 velho (antigo) - cen zaman di  
 vender - vende  
 ver - vide  
-verbo - karma loga  
+verbo - karlexi  
 verdadeiro - ver  
-verde - verde  
+verde - luga  
 verdura (hortaliça, legume) - yam fito  
 verdura - coi  
 verme - verme  
@@ -1636,6 +1638,8 @@ waffle - vafle
 
 ## X  
 
+xadrez - xah gem  
+xeque-mate - xah mata  
 xiismo - xia islam din  
 Xiva - xiva  
 xénon - xenon  

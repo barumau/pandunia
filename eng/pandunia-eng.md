@@ -928,10 +928,8 @@ dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)
 dus darja - downgrade  
 dus deu sim - dystheism (maltheism)  
 dus forma di - malformed (deformed, disfigured)  
-dus funsi - dysfunction (malfunction)  
 dus hal - hardship (difficulty, challenge)  
 dus jen - enemy (foe, villain)  
-dus karma - misdeed (sin, vice)  
 dus nam - insult (offense)  
 dus rai - disapprove (frown upon)  
 dus sin di - ominous (foreboding)  
@@ -1041,7 +1039,6 @@ fa ajabu - amaze
 fa alo rai - disagree  
 fa amen - assure (affirm, confirm)  
 fa an galte - debug  
-fa an karma - deactivate (disable, turn off)  
 fa an verse - invert (reverse)  
 fa an zai - remove (delete, dispose, erase)  
 fa anime - animate  
@@ -1113,7 +1110,6 @@ fa gene - give birth (beget, generate, breed)
 fa glu - stick (adhere, paste, glue)  
 fa gol - achieve (accomplish, arrive, reach)  
 fa gola - surround (encircle)  
-fa gong - work  
 fa grafi - draw  
 fa guste - taste (sense flavor)  
 fa halal - allow (permit)  
@@ -1146,7 +1142,6 @@ fa kaka - defecate (shit)
 fa kanal - channel (conduct)  
 fa kanca dake - glaze (vitrify)  
 fa karga - charge (load)  
-fa karma - activate (enable, turn on, trigger)  
 fa kata - tell (narrate)  
 fa keka - visit  
 fa kino - move (transfer, shift, stir, budge, rouse, motivate, inspire)  
@@ -1184,7 +1179,6 @@ fa mantra - chant
 fa marce - walk (march)  
 fa marke - mark (leave a mark)  
 fa masaje - knead (massage)  
-fa mata - kill  
 fa max - increase  
 fa max lika - reinforce (replenish)  
 fa maxim - maximize  
@@ -1198,7 +1192,6 @@ fa min darja - decrement
 fa min rai - underestimate  
 fa ming - brighten  
 fa minim - minimize  
-fa miti - meet  
 fa model - model (design)  
 fa mol - grind (grind in mill)  
 fa multi - multiply  
@@ -1488,6 +1481,9 @@ fungu - fungus (mushroom)
 fungu frute - mushroom (sporocarp)  
 fungu nete - mycelium  
 funsi - function (work)  
+• defunsi - defunct (out of use)  
+• dusfunsi - dysfunction (malfunction)  
+• konfunsibil - compatible (supported)  
 funsibil - functional (valid, workable)  
 furete - polecat (ferret)  
 furi - angry (furious)  
@@ -1554,6 +1550,8 @@ ganse - goose
 ganum - wheat  
 ganya - earn (gain)  
 gar - if (suppose, assume)  
+gar - car (cart, carriage, wagon, automobile)  
+garparke - car park (parking lot)  
 garanti - guarantee (warranty)  
 garde - guard (watch)  
 garde ja - guardian (watchman)  
@@ -1655,12 +1653,6 @@ golem - golem
 gomu - rubber (latex, eraser)  
 gona - corner (angle)  
 gona metre gi - goniometer  
-gong - work (labour, job)  
-gong ja - worker  
-gongkan - workshop (factory)  
-gong meza - desk  
-gong mise - submit (present)  
-gong xula ja - apprentice  
 gorila - gorilla  
 goro - pig  
 goro nama - pork  
@@ -1684,7 +1676,7 @@ Grenada - Grenada
 Grenadin nesi - the Grenadines  
 grimas - grimace  
 grom - thunder (roaring)  
-grom tafun - thunderstorm  
+grom tufan - thunderstorm  
 gros - thick  
 grosta - thickness  
 gros zi - bold letter  
@@ -1779,6 +1771,8 @@ Hartum - Khartoum
 has - special (distinct)  
 has nam - identifier (ID)  
 hasta - distinction (specialty)  
+haste - hurry (rush, haste; hasty, busy, hurried, swift, fast)  
+• anhaste - slow  
 hata - until (til, up to)  
 hata di - even (implying extreme example)  
 hatar - danger (peril)  
@@ -1980,12 +1974,13 @@ jaija - winner (victor)
 jain din - Jainism  
 Jakarta - Jakarta  
 jake - jacket  
-jama - collection (congregation, assembly)  
-• anjama - disperse (spread out, scatter)  
-• anjama di - sparse (scattered)  
-jama di - collective  
-jama karte - trading card  
 Jamaika - Jamaica  
+jami - collection (congregation, assembly)  
+• ajami - meet (get together; meeting, gathering)  
+• anjami - disperse (spread out, scatter)  
+• anjami di - sparse (scattered)  
+jami di - collective  
+jami karte - trading card  
 jampe - jump  
 jamul - jamul (jambul, rose apple)  
 jan - meditate (contemplate, ponder, cogitate)  
@@ -2169,8 +2164,15 @@ kape truke - trap (snare)
 kape yo kuanga - mine (extract minerals)  
 kape yo pexe - catch fish  
 kape yo taxi - collect fees or taxes  
-kar - car (cart, carriage, wagon, automobile)  
-kar parke - car park (parking lot)  
+kar - work  
+• duskar - misdeed (sin, vice)  
+• konkar - collaborate (work together)  
+karja - worker  
+karkan - workshop  
+karlexi - verb  
+karmeza - desk  
+karxe - work (job, task)  
+karxular - apprentice  
 karaoke - karaoke  
 karate - karate  
 karate ja - karateka (practitioner of karate)  
@@ -2192,12 +2194,6 @@ kaributa - proximity
 karim - charity  
 karim di - charitable (gentle, kind)  
 karite - shea (vitellaria)  
-karma - action (act, deed)  
-• ankarma ja - off (deactivated, disabled, inactive)  
-karma e asar - cause and effect  
-karma ja - doer (agent, actor, activist)  
-karma ja di - active (on, enabled)  
-karma loga - verb  
 Karnada - Karnataka  
 karnada baxa - Kannada  
 karote - carrot  
@@ -2501,7 +2497,6 @@ leng - cold
 leng mosim - winter  
 leng mosim di - wintry  
 lense - lens  
-lente - slow (lethargic)  
 lenxi - exercise  
 letre - letter (written message)  
 letus - lettuce  
@@ -2537,8 +2532,8 @@ limite - limit (boundary)
 limite di - finite (limited)  
 limon - lemon  
 limon jus - lemonade  
+limon luga di - lime green  
 limon oranje - citrus fruit  
-limon verde di - lime green  
 lin - line (thread, string)  
 lin parce - line break (newline)  
 lin so - fibre  
@@ -2591,6 +2586,8 @@ lote - batch (lot)
 lotra - otter  
 lou - leak  
 lou sang - bleed  
+luga - green  
+luga melon - honeydew (green melon)  
 luka - six (6)  
 luka fase - hexahedron (cube)  
 luka gona - hexagon  
@@ -2689,11 +2686,11 @@ master de enjenia (ME) - Master of Engineering
 master de filsofi (MF) - Master of Philosophy  
 master de ilmi (MI) - Master of Science  
 master de tehnilogi (MT) - Master of Technology  
-mata - death  
-mata badan - corpse (dead body)  
-mata badan fili - necrophilia  
-mata di - dead (deceased)  
-mata ja - killer  
+mata - die (death; dead, deceased)  
+mata badan - dead body  
+matabil - mortal  
+matafa - kill  
+mataja - killer  
 mate - matter (substance)  
 mate di - material  
 mate lona - materialism  
@@ -2846,7 +2843,6 @@ mise xe - mission (transmission, emission)
 miskin - poor (miserable)  
 Misri - Egypt  
 misri di - Egyptian  
-miti - meeting (gathering)  
 mitre - meter (100 cm)  
 mixe - mix (blend)  
 mixe alkol - cocktail  
@@ -2996,6 +2992,11 @@ nefre tis - nephritis
 nefte - oil  
 nefte guku - Indian chrysanthemum  
 nega - refuse (deny, decline)  
+nekro - corpse (dead body)  
+nekrofilia - nechrophilia  
+nekrolista - necrology (listing of people who have died)  
+nekrologa - obituary (necrology)  
+nekrotomi - autopsy (necrotomy)  
 nelu - four (4)  
 nelu di galope - gallop  
 nelu gona - square (tetragon)  
@@ -3514,8 +3515,7 @@ ratibu di - orderly (organized, in sequence, tidy, regular)
 razon - reason (rational thinking)  
 razon di - rational (reasonable)  
 re - repetition  
-re karga - recharge (reload)  
-re sikle - recycle  
+resikle - recycle  
 re zoku - continue (resume)  
 Rea - Rhea  
 rebel - rebellion  
@@ -3527,7 +3527,7 @@ reporte - report
 reseta - instructions (recipe)  
 reside - receipt (acknowledgement)  
 reste - rest (remainder)  
-restorante - restaurant  
+restoran - restaurant  
 retro - backward (in reverse)  
 retro dau - return (way back)  
 retro gula - throw up (vomit, regurgitate)  
@@ -3537,6 +3537,7 @@ retro tikete - return ticket
 Reunion - Réunion  
 rezerve - reservation (booking, withholding)  
 rezin - resin  
+rikarga - recharge (reload)  
 rike - rich  
 riketa - wealth (fortune)  
 rim - rhyme (verse)  
@@ -3574,7 +3575,7 @@ roste - roast
 roste pang - toast (toasted bread)  
 rota leu - counterclockwise (anticlockwise)  
 rota raite - clockwise  
-rota tafun - cyclone (hurrican, tornado, typhoon)  
+rota tufan - cyclone (hurrican, tornado, typhoon)  
 rota vanu gi - top (spinning top)  
 rota xe - rotor (rotator)  
 Ruanda - Rwanda  
@@ -3949,7 +3950,6 @@ tabi - nature (disposition, essence, character, -ive)
 table - slab (slate, tablet, board)  
 table komputa - tablette computer  
 table yo data - tabulate  
-tafun - storm (tempest, typhoon, hurricane, cyclone)  
 tai - stage (platform, pedestal, podium)  
 Tai baxa - Thai language  
 Tai Dexa - Thailand  
@@ -3980,7 +3980,7 @@ tatike - tactics (strategy)
 tatu - tattoo  
 tava - frying pan  
 taxi - fee (fare)  
-taxi kar - taxi (cab)  
+taxigar - taxi (cab)  
 taxi metre gi - taximeter  
 taza - fresh  
 tehni - technique (technology)  
@@ -4051,6 +4051,9 @@ Titan - Titan
 titan yum - titanium  
 Titania - Titania  
 titi - breast (boob, tit)  
+tix - hush (shh)  
+tix - silent (quiet)  
+tixta - silence  
 to - to (toward, till, until, for)  
 to in - inward (internal)  
 to jin - forward  
@@ -4119,6 +4122,7 @@ tumimen - we (inclusive we)
 tu su - your  
 tualete - toilet (WC)  
 tubo - tube (pipe)  
+tufan - storm (tempest, typhoon, hurricane, cyclone)  
 tuh - spit  
 tul - tool  
 Tule - Thule  
@@ -4250,8 +4254,6 @@ ventur ja - adventurer
 Venus - Venus  
 ver - true (real, genuine, indeed, very)  
 veranda - veranda (balcony, terrace, porch)  
-verde - green  
-verde melon - honeydew (green melon)  
 verme - worm  
 vermute - vermouth  
 verse - face (versus)  
@@ -4334,6 +4336,8 @@ vutu - object (item, thing)
 ## X  
 
 xa - auxiliary verb that marks future tense (will, shall)  
+xah gem - chess  
+xah mata - checkmate  
 xaka - branch (bough)  
 xakal - jackal  
 xal - scarf (shawl)  
@@ -4356,7 +4360,6 @@ xatan di - devilish (satanic)
 xatan din - Satanism (devil worship)  
 xatan din ja - Satanist  
 xatan ja - devil (Satan)  
-xatrang - chess  
 xau - little (few, not many)  
 xauta - scarcity  
 xava - rain (precipitation)  

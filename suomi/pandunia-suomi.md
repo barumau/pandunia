@@ -896,10 +896,8 @@ dus - paha (epäsuotuisa, epämiellyttävä, vastustava)
 dus darja - laskea tasoa  
 dus deu sim - dysteismi (usko jumalan pahuuteen)  
 dus forma di - epämuodostunut  
-dus funsi - toimintahäiriö  
 dus hal - vaikeus (hankaluus)  
 dus jen - vihollinen  
-dus karma - synti (paha teko)  
 dus nam - loukkaus (herja)  
 dus rai - paheksua  
 dus sin di - pahaenteinen  
@@ -997,7 +995,6 @@ fa agresi - hyökätä (käydä päälle)
 fa ajabu - ällistyttää  
 fa alo rai - olla eri mieltä  
 fa an galte - poistaa virheitä (debugata)  
-fa an karma - poistaa toiminnasta  
 fa an zai - poistaa (hävittää)  
 fa anime - animoida  
 fa aplika - soveltaa  
@@ -1066,7 +1063,6 @@ fa gene - synnyttää
 fa glu - liimata  
 fa gol - saavuttaa  
 fa gola - ympäröidä (piirittää)  
-fa gong - työskennellä  
 fa grafi - piirtää  
 fa guste - maistaa  
 fa halal - sallia (antaa lupa)  
@@ -1097,7 +1093,6 @@ fa kaka - ulostaa (kakata)
 fa kanal - kanavoida  
 fa kanca dake - lasittaa  
 fa karga - lastata (ladata)  
-fa karma - panna toimintaan  
 fa kata - kertoa  
 fa keka - käydä (vierailla)  
 fa kino - liikuttaa (innoittaa)  
@@ -1135,7 +1130,6 @@ fa mantra - messuta
 fa marce - kävellä  
 fa marke - merkitä (jättää jälki)  
 fa masaje - vaivata (hieroa)  
-fa mata - tappaa  
 fa max - lisätä (enentää)  
 fa max lika - voimistaa  
 fa maxim - maksimoida  
@@ -1149,7 +1143,6 @@ fa min darja - alentaa tasoa
 fa min rai - aliarvioida  
 fa ming - kirkastaa (valaista)  
 fa minim - minimoida  
-fa miti - tavata  
 fa model - mallintaa  
 fa mol - jauhaa  
 fa multi do du - tuplata (kertoa kahdella)  
@@ -1421,6 +1414,10 @@ fungu - sieni
 fungu frute - sienen hattu  
 fungu nete - sienirihmasto  
 funsi - toiminta (funktio)  
+• defunsi - pois käytöstä  
+• dusfunsi - toimintahäiriö  
+• konfunsibil - yhteensopiva (yhteentoimiva)  
+funsibil - toimiva  
 furete - kärppä (fretti)  
 furi - vihainen (suuttunut)  
 furita - viha (suuttumus, raivo)  
@@ -1484,6 +1481,8 @@ ganse - hanhi
 ganum - vehnä  
 ganya - hankkia (ansaita)  
 gar - jos (olettaa)  
+gar - kärry (vaunu, auto, jne)  
+garparke - parkkipaikka  
 garanti - takuu  
 garde - vartioida (vahtia)  
 garde ja - vartija (vahti)  
@@ -1577,11 +1576,6 @@ golem - golem
 gomu - kumi  
 gona - kulma (nurkka)  
 gona metre gi - kulmamitta (goniometri)  
-gong - työ  
-gong ja - työntekijä (työläinen)  
-gongkan - tehdas (paja)  
-gong meza - työpöytä (kirjoituspöytä)  
-gong xula ja - kisälli  
 gorila - gorilla  
 goro - sika (possu)  
 goro nama - sianliha  
@@ -1601,7 +1595,7 @@ Grenada - Grenada
 Grenadin nesi - Grenadiinit  
 grimas - irvistys  
 grom - jyrinä (ukkonen)  
-grom tafun - ukkosmyrsky  
+grom tufan - ukkosmyrsky  
 gros - paksu  
 grosta - paksuus  
 gros zi - lihavoitu kirjain  
@@ -1693,6 +1687,8 @@ harnes - valjaat
 Hartum - Khartoum  
 has - erikoinen (erityinen)  
 hasta - erikoisuus  
+haste - kiireinen  
+• anhaste - hidas  
 hata - asti (saakka)  
 hata di - jopa  
 hatar - vaara  
@@ -1885,12 +1881,13 @@ jaija - voittaja
 jain din - jainalaisuus  
 Jakarta - Jakarta  
 jake - pikkutakki (jakku)  
-jama - yhteisö (kokoontuminen, kollektiivi)  
-• anjama - hajauttaa  
-• anjama di - hajanainen  
-jama di - kollektiivinen  
-jama karte - keräilykortti  
 Jamaika - Jamaika  
+jami - yhteisö (kokoontuminen, kollektiivi)  
+• ajami - tavata (tapaaminen, kokous)  
+• anjami - hajauttaa  
+• anjami di - hajanainen  
+jami di - kollektiivinen  
+jami karte - keräilykortti  
 jampe - hypätä (hyppiä)  
 jamul - jambolaani  
 jan - pohtia (meditoida)  
@@ -2038,8 +2035,14 @@ kanta - olkapää (hartia)
 kanun - laki (sääntö)  
 kape - ottaa kiinni (napata, kaapata)  
 kape yo taxi - veloittaa (verottaa)  
-kar - kärry (vaunu, auto, jne)  
-kar parke - parkkipaikka  
+kar - työskennellä  
+• duskar - synti (paha teko)  
+• konkar - tehdä yhteistyötä  
+karja - työntekijä (työläinen)  
+karkan - paja (työpaja)  
+karlexi - verbi (teonsana)  
+karmeza - työpöytä (kirjoituspöytä)  
+karxe - työ (tehtävä)  
 karaoke - karaoke  
 karate - karate  
 karate ja - karateka (karaten harrastaja)  
@@ -2056,12 +2059,6 @@ karibu - läheinen (melkein)
 karim - anteliaisuus (vieraanvaraisuus, hyväntekeväisyys)  
 karim di - vieraanvarainen (antelias, hyväntahtoinen)  
 karite - voipuu  
-karma - teko (toiminta, akti)  
-• ankarma ja - epäaktiivinen (pois toiminnasta)  
-karma e asar - syy ja seuraus  
-karma ja - tekijä (aikaansaaja)  
-karma ja di - toimelias (aktiivinen)  
-karma loga - verbi (teonsana)  
 Karnada - Karnataka (Intian osavaltio)  
 karnada baxa - kannada (eräs intialainen kieli)  
 karote - porkkana  
@@ -2324,7 +2321,6 @@ leng - kylmä
 leng mosim - talvi  
 leng mosim di - talvinen  
 lense - linssi  
-lente - hidas  
 lenxi - harjoitus  
 letre - kirje  
 letus - lehtisalaatti  
@@ -2397,6 +2393,7 @@ longta - pituus
 lote - erä (satsi)  
 lou - vuotaa  
 lou sang - vuotaa verta  
+luga - vihreä  
 luka - kuusi (6)  
 luka fase - kuutio (kuusitahokas)  
 luka gona - kuusikulmio  
@@ -2485,11 +2482,11 @@ master de enjenia (ME) - diplomi-insinööri
 master de filsofi (MF) - filosofian maisteri  
 master de ilmi (MI) - filosofian maisteri luonnontieteistä  
 master de tehnilogi (MT) - tekniikan maisteri  
-mata - kuolema (kuolo)  
+mata - kuolla (kuolema, kuolo; kuollut, vainaa)  
 mata badan - kuollut ruumis  
-mata badan fili - nekrofilia  
-mata di - kuollut (vainaa)  
-mata ja - tappaja  
+matabil - kuolevainen  
+matafa - tappaa  
+mataja - tappaja  
 mate - aine (materia)  
 mate di - aineellinen (materiaalinen)  
 mate lona - materialismi  
@@ -2618,7 +2615,6 @@ mise xe - lähetys
 miskin - kurja (raukka)  
 Misri - Egypti  
 misri di - egyptiläinen  
-miti - tapaaminen (kokous)  
 mitre - metri  
 mixe - sekoittaa  
 mixe gi - sekoitin  
@@ -2745,6 +2741,11 @@ Nederlande Antil - Alankomaiden Antillit
 nefre - munuainen  
 nefre tis - munuaistulehdus (nefriitti)  
 nega - kieltää  
+nekro - ruumis (vainaja)  
+nekrofilia - nekrofilia  
+nekrolista - kuolinluettelo  
+nekrologa - muistosanat (muistopuhe, muistokirjoitus)  
+nekrotomi - ruumiinavaus (obduktio)  
 nelu - neljä (4)  
 nelu di galope - neli (kiitolaukka)  
 nelu gona - neliö  
@@ -3157,7 +3158,7 @@ Qazaqe - Kazakstan
 ## R  
 
 radi - säde  
-radi karma - säteily  
+radia - säteily  
 radi metre gi - säteilymittari  
 radi yum - radium  
 radio mise gi - radiolähetin  
@@ -3189,7 +3190,7 @@ ratibu - järjestys
 razon - järki (järkeily, päättely)  
 razon di - järjellinen (järkiperäinen, rationaalinen)  
 re - toisto  
-re sikle - kierrättää  
+resikle - kierrättää  
 re zoku - jatkua uudestaan  
 rebel - kapina  
 redi - valmis  
@@ -3200,7 +3201,7 @@ reporte - raportti (selostus, selonteko)
 reseta - resepti (ohje)  
 reside - kuitti (kuittaus)  
 reste - jäännös (loput)  
-restorante - ravintola  
+restoran - ravintola  
 retro dau - paluu  
 retro tikete - menopaluulippu  
 Reunion - Reunion  
@@ -3238,7 +3239,7 @@ rose - kaste
 roste - paahtaa (paistaa)  
 roste pang - paahtoleipä  
 rota leu - vastapäivään  
-rota tafun - pyörremyrsky (hurrikaani, taifuuni, tornado)  
+rota tufan - pyörremyrsky (hurrikaani, taifuuni, tornado)  
 rota vanu gi - hyrrä  
 rota xe - roottori (propelli)  
 Ruanda - Ruanda  
@@ -3557,7 +3558,6 @@ tabi - luonto
 table - laatta (levy)  
 table komputa - taulutietokone (tabletti)  
 table yo data - taulukoida  
-tafun - myrsky  
 tai - lava  
 Tai baxa - thai  
 Tai Dexa - Thaimaa  
@@ -3585,7 +3585,7 @@ tatike - taktiikka
 tatu - tatuointi  
 tava - pannu (paistinpannu)  
 taxi - taksa (vero)  
-taxi kar - taksi  
+taxigar - taksi  
 taxi metre gi - taksamittari  
 taza - tuore (raikas)  
 tehni - tekniikka (keino, menetelmä)  
@@ -3649,6 +3649,9 @@ Titan - Titan
 titan yum - titaani  
 Titania - Titania  
 titi - nisä (tissi)  
+tix - hiljaa (hys, shhh)  
+tix - hiljainen  
+tixta - hiljaisuus  
 to - luokse (tykö, kohti, asti)  
 to in - sisäänpäin  
 to jin - eteen päin  
@@ -3712,6 +3715,7 @@ tumimen - me ja sinä
 tu su - sinun  
 tualete - vessa  
 tubo - putki (tuubi)  
+tufan - myrsky  
 tuh - sylkeä  
 tul - työkalu  
 Tule - Thule  
@@ -3839,7 +3843,6 @@ ventur ja - seikkailija
 Venus - Venus  
 ver - tosi (aito)  
 veranda - kuisti (terassi, veranta, parveke)  
-verde - vihreä  
 verme - mato  
 vermute - vermutti  
 verse - kohti (päin)  
@@ -3920,6 +3923,8 @@ vutu - esine (tavara)
 ## X  
 
 xa - tulevaa aikaa merkitsevä apuverbi  
+xah gem - šakki  
+xah mata - matti (šakkimatti)  
 xaka - oksa (haara)  
 xakal - šakaali  
 xal - huivi (šaali)  
@@ -3938,7 +3943,6 @@ xatan di - pirullinen
 xatan din - satanismi (paholaisenpalvonta)  
 xatan din ja - satanisti  
 xatan ja - saatana (sielunvihollinen)  
-xatrang - šakki  
 xau - vähän  
 xava - sade  
 xava cati - sateenvarjo  

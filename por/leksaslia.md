@@ -453,6 +453,7 @@
 **ganse** *ganso* ← spa:por:ganso, hin:हंस (hans), ben:হাঁস (hãs), may:angsa eng:goose, rus:гусь (gus’), pol:gęś + yue:雁 (ngaan6), jpn:雁 (gan), tha:ห่าน (han)  
 **ganum** *trigo* ← fas:گندم‎(gandom), may:gandum, urd:گندم‎(gandum), tel:గోధుమ (gōdhuma), swa:ngano  
 **ganya** ** ← fra:gagner, por:ganhar, spa:ganar, eng:gain  
+**gar** ** ← eng:car, por:spa:carro, deu:Karre, tel:కారు  (kāru), may:kereta + hin:गाड़ी (gāṛī), swa:gari, fas:(gâri)  
 **gar** *se* ← yue:假 (gaa1), wuu:假 (ga) + hin:अगर (agar), fas:urd:اگر‎‎ (agar), tur:eğer  
 **garanti** ** ← eng:guarantee, spa:garantía, por:garantia, fra:garantie, deu:Garantie, rus:гарантия (garantiya), tur:garanti  
 **garde ja** ** ← eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)  
@@ -486,8 +487,6 @@
 **golem** ** ← heb:גולם‎ (golem), eng:spa:por:fra:may:golem, deu:Golem, rus:голем (golem), ara:غولم (ghwlm) jpn:ゴーレム (gōremu), kor:골렘 (gollem)  
 **gomu** ** ← spa:tgl:goma, fra:gomme, jpn:ゴム (gomu), kor:고무 (gomu), deu:Gummi  
 **gona** ** ← hin:कोण (koṇ), tel:(kōnamu), swa:kona, eng:corner, hau:kwana, fra:-gone, spa:por:-gono  
-**gong** *trabalho* ← zho:工 (gōng), yue:工 (gung1), jpn:工 (kō), kor:공 (gong), vie:công  
-**gongkan** ** ← eng:workshop, fas:کارخانه‎ (kârxâne), hin:कारख़ाना (kārxānā), ben:কারখানা (karôkhana) + zho:工厂 (gōngchǎng), jpn:工場 (kōjō), kor:공장 (gongjang)  
 **gorila** *gorila* ← eng:gorilla, fra:gorille, spa:por:may:gorila, rus:горилла (gorilla), ara:غوريلا (ḡūrīlā), jpn:ゴリラ (gorira), kor:고릴라 (gorilla), vie:gôrila, hin:गोरिल्ला (gorillā), ben:গরিলা (gôrila)  
 **goro** ** ← swa:guruwe zul:ingulube, kon:ngulu spa:guarro,gorrino, jpn:(gorogoro) eng:grunt  
 **goton** *algodão* ← ara:(quṭun), spa:algodón, por:algodão, fra:coton, eng:cotton  
@@ -540,8 +539,9 @@
 **harmoni** ** ← eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)  
 **harnes** ** ← fra:harnais, eng:harness, spa:arnés, por:arnês  
 **has** ** ← ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas, swa:hususa  
+**haste** *ocupado (atarefado)* ← deu:Hast, eng:haste, fra:hâte + fas:آهسته (âheste), hin:आहिस्ता (āhistā), ben:আস্তে (aste), tur:aheste  
 **hata** *até* ← por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)  
-**hatar** *perigo* ← ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, tur:muhatara  
+**hatar** *perigo* ← ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, hau:hatsari, tur:muhatara  
 **hava** ** ← hin:हवा (havā), ben:হাওয়া (haowa) + ara: هَوَاء‎ (hawāʾ), tur:hava, may:hawa, swa:hewa  
 **hazin** *armazenar* ← ara: خَزَنَ‎ (xazana) + fas: خزینه‎ (xazine), hin:ख़िज़ाना (xizānā), rus:казна (kazna), swa:hazina + eng:magazine, spa:almacén, por:armazém, tur:hazine; mahzen  
 **he** ** ← eng:huh, fra:hein, por:hã, vie:hả, deu:hä + zho:何 (hé)  
@@ -604,7 +604,7 @@
 **jai** ** ← hin:जय (jay), ben:জয় (jôy), tel:జయ (jaya), may:jaya, tha:ชัย (chai), khm:ជ័យ (cɨy), mya:ဇေယျ (jeyya)  
 **jain din** ** ← hin:mar:जैन (jain), tha:เชน (chen), eng:jainism, fra:jaïnisme, rus:джайнизм (džaynizm)  
 **jake** ** ← eng:jacket, zho:夹克 (jiākè), rus:жакет (žaket), deu:Jacke, por:jaqueta  
-**jama** ** ← ara: جَمَعَ‎ (jamaʿa), swa:jamii, tur:camia, fas: جمع (jam’), hau:jam'iyya + hin:जमात (jamāt)  
+**jami** ** ← ara: جَمَعَ‎ (jamaʿa), swa:jamii, tur:camia, fas: جمع (jam’), hau:jam'iyya + hin:जमात (jamāt)  
 **jampe** ** ← eng:jump, jpn:ジャンプ (janpu), kor:점프 (jŏmp), ben:ঝাঁপ (jhãpô), ass:জাঁপ (zãp)  
 **jamul** *jambolão (jambo)* ← hin:जामुन (jāmun), eng:jambul, por:jambolão, ara:جَمُّون (jammūn), swa:zambarau  
 **jan** ** ← hin:ध्यान (dhyān), ben:ধ্যান (dhyān), jpn:禅 (zen), eng:fra:por:zen, rus:дзэн (dzen), zho:禅 (chán), kor:선 (seon), vie:thiền, mya:ဈာန် (jhan)  
@@ -688,7 +688,7 @@
 **kanun** ** ← ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)  
 **kanyon** *canhão (ravina, barranco)* ← eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon  
 **kape** ** ← tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)  
-**kar** ** ← eng:car, por:spa:carro, deu:Karre, tel:(kāru) + hin:गाड़ी (gāṛī), swa:gari, fas:(gâri)  
+**kar** *trabalhar* ← fas: کار (kâr), hin:कार (kār), कार्य (kārya), ben:কাজ (kaj), may:karya,kerja + swa:kazi  
 **karavi** *alcaravia (cariz)* ← ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia  
 **karbau** ** ← spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)  
 **karbon** *carbono* ← eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون  
@@ -700,8 +700,6 @@
 **karibu** ** ← ara:fas:urd:(qarīb), swa:karibu, tur:takribi  
 **karim di** ** ← ara:(karīm), swa:-karimu, tur:kerim, spa:por:caritativo  
 **karite** ** ← wol:kaarite, fra:spa:karité, por:carité, ful:kaare, kareje, hau:kaɗanya  
-**karma loga** *verbo* ← hin:क्रिया (kriyā), ben:ক্রিয়া (kriya), tel:క్రియ (kriya), khm:កិរិយា (keriyaa), tha:กริยา (grì-yaa), may:kata kerja  
-**karma** *ato (ação)* ← hin:कर्म (karma), urd:(karm), pnb:ਕਰਮ (karm), kan:tam:tel:(karma), may:karya, eng:deu:fra:spa:por:karma, khm:កម្ម (kam), mya:ကံ (kam), tha:กรรม (kam), rus:карма (karma)  
 **karote** *cenoura* ← eng:carrot, fra:carotte, deu:Karotte, swa:karoti, may:karot, vie:cà rốt  
 **karse** *áspero* ← eng:coarse, may:kasar, ara:خشن (khashin)  
 **karta** *carta geográfica* ← eng:chart, fra:carte, spa:por:carta, rus:карта (karta), ara: خَرِيطَة‎ (ḵarīṭa), tur:harita  
@@ -837,7 +835,6 @@
 **le** ** ← zho:了 (le, liǎo), wuu:了 (le’), yue:了 (liu), tha:แล้ว (lɛːw)  
 **leng** ** ← zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)  
 **lense** *lente* ← eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)  
-**lente** *lento* ← fra:lent, spa:por:lento  
 **lenxi** ** ← zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)  
 **letre** *carta* ← eng:letter, fra:lettre, hin:लेटर (leṭar), jpn:ター (retā)  
 **letus** *alface* ← eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue  
@@ -875,6 +872,7 @@
 **lote** ** ← por:spa:lote, eng:fra:lot  
 **lotra** *lontra* ← eng:otter + fra:loutre, spa:tgl:lutrino, por:lontra + rus:выдра (vydra)  
 **lou** *vazar* ← zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)  
+**luga** *verde* ← zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)  
 **luka** *seis (6)* ← zho:六 (liù), yue:六 (luk6), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:lục  
 **lulu** ** ← amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')  
 **luna** *lua* ← fra:lune, spa:luna, eng:lunar, rus:луна (luná)  
@@ -918,7 +916,7 @@
 **maska** *máscara* ← eng:mask, fra:masque, spa:por:máscara, rus:маска (maska), hin:मास्क (māsk), jpn:マスク (masuku), kor:마스크 (maseukeu), may:masker, tur:maske  
 **masta** *mastro* ← eng:deu:mast, hin:मस्तूल (mastūl), jpn:マスト (masuto), rus:мачта (mačta), pol:maszt, por:mastro, spa:mástil  
 **master** *mestre* ← por:mestre, fra:maître, pol:mistrz, eng:master, rus:мастер (master), spa:maestro, deu:Meister, hin:(mistrī)  
-**mata** ** ← may:mati + ara:(mawt), amh:ሞት (mot), swa:mauti + spa:por:matar  
+**mata** ** ← may:mati + ara: مَوْت‎ (mawt), amh:ሞት (mot), swa:mauti + spa:por:matar + eng:matte, fra:mat, rus:матовый (matovyj), fas: مات‎ (mât)  
 **mate** *matéria* ← eng:matter, fra:matière, spa:por:materia, rus:материя (materiya), deu:Materie, may:materi + ara: مادة (mādda), swa:maada, tur:madde + yue:物 (mat), vie:vật  
 **matras** ** ← eng:mattress, fra:matelas, rus:матрас (matras), may:matras, jpn:マットレス (mattoresu)  
 **matur** ** ← eng:fra:mature, spa:por:maduro  
@@ -975,7 +973,6 @@
 **mise** ** ← eng:emit, spa:remitir, por:emitir, fra:émettre  
 **miskin** ** ← ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho  
 **Misri** *Egipto (Egito)* ← ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)  
-**miti** ** ← eng:meet, fra:meeting, spa:mitin, jpn:ミーティング (mītingu), hin:मीटिंग (mīṭiṅg)  
 **mitre** *metro* ← eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita  
 **mixe** ** ← deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)  
 **mode** *modo (maneira, jeito)* ← fra:eng:mode, spa:por:modo  
@@ -1131,7 +1128,7 @@
 **patate** ** ← fra:patate, spa:patata, por:batata, tur:patates, ara:(baṭāṭis), swa:mbatata, eng:potato, tgl:patatas  
 **pati** ** ← deu:eng:fra:patho-, spa:por:pol:tur:may:pato-, rus:пато- (pato-)  
 **pau gi** *arma de fogo* ← zho:炮 (pâo), yue:炮 (paau3), vie:pháo, kor:포 (po), mon:буу (buu)  
-**pauza** *pausa* ← eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)  
+**pauza** *pausa* ← deu:Pause, eng:deu:fra:pause, spa:por:pausa, rus:пауза (pauza)  
 **pedal** ** ← deu:eng:spa:por:tur:pedal, fra:pédale, rus:педаль (pedal'), pol:pedał, jpn:ペダル (pedaru), kor:페달 (pedal)  
 **pede** *peido* ← ben:পাদ (pad), hin:पाद (pād), spa:pedo, por:peido, fra:pet, rus:пердение (perdeniye)  
 **pei** ** ← eng:pay, fra:paye, + zho:费 (fèi)  
@@ -1217,8 +1214,8 @@
 **pute** ** ← eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)  
 **putong** ** ← zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)  
 **puxa** ** ← eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)  
-**radi karma** ** ← eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)  
 **radi yum** *rádio* ← eng:radium, fra:radium, spa:radio, por:rádio, rus:радий, zho:镭 (léi), jpn:ラジウム, kor:라듐, vie:rađi, hin:रेडियम, ben:রেডিয়াম, may:radium, swa:radi, ara: راديوم  
+**radi** ** ← eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)  
 **radio** *radio* ← eng:fra:spa:por:radio, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)  
 **radon** *rádon* ← eng:radon, fra:radon, spa:radón, por:rádon, rus:радон, zho:氡 (dōng), jpn:ラドン, kor:라돈, vie:rađơn, hin:रेडन, ben:রেডন, may:radon, swa:radoni, ara: رادون  
 **rai** *opinião* ← ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey  
@@ -1241,7 +1238,7 @@
 **reseta** *receita* ← ita:ricetta, rus:рецепт (retsept), deu:Rezept, spa:receta, por:receita, fra:recette, may:resep, tur:reçete  
 **reside** ** ← fas:(resid), hin:रसीद (rasīd), urd:(rasīd), guj:રસીદ (rasīd), tel:రసీదు (rasīdu), + eng:receipt, swa:resiti, may:resit  
 **reste** *resto* ← fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto  
-**restorante** ** ← eng:fra:restaurant, spa:por:restaurante, rus:ресторан (restoran), tur:may:restoran, hin:रेस्तरां (restarā̃), ben:রেস্টুরেন্ট (reśṭurenṭ), jpn:レストラン (resutoran)  
+**restoran** ** ← eng:fra:restaurant, spa:por:restaurante, rus:ресторан (restoran), tur:may:restoran, hin:रेस्तरां (restarā̃), ben:রেস্টুরেন্ট (reśṭurenṭ), jpn:レストラン (resutoran)  
 **retro** ** ← eng:spa:por:retro-, fra:rétro-, rus:ретро- (retro-), jpn:レトロ (retoro)  
 **rezerve** *reserva* ← eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)  
 **rezin** ** ← eng:resin, fra:résine, fas:(rezin), por:spa:resina, tur:reçine  
@@ -1392,7 +1389,6 @@
 **tabaku** ** ← deu:Tabak, rus:табак (tabak), fra:tabac, spa:por:tabaco, jpn:タバコ (tabako), eng:tobacco, ara:تَبْغ‎ (tabḡ), fas:تنباکو‎ (tanbâku), tur:tömbeki, hin:तंबाकू (tambākū), ben:তামাকু (tāmāku), may:tembakau, swa:mtubaku  
 **tabi** ** ← ara:طبيعة (ṭabīʿa), fas:طبیعت‎ (tabi'at), hin:तबीयत (tabīyat), ben:তবিয়ত (tôbiyôt), swa:tabia tur:tabiat  
 **table** ** ← eng:table, fra:tableau, spa:tabla, rus:табличка (tablichka), may:tabel, tur:tablo  
-**tafun** ** ← zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), swa:tufani, por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)  
 **tai** *estrado* ← zho:台 (tái), yue:臺 (toi4), jpn:台 (dai), vie:đài, kor:대 (dae) + eng:dais  
 **taiga** ** ← rus:тайга (tayga), eng:spa:por:may:taiga, tur:tayga, ara:تايغا‎ (tāyḡā), zho:泰加林 (tàijiālín), jpn:タイガ (taiga)  
 **tail** *ladrilho (telha, azulejo)* ← eng:tile, por:telha, fra:tuile, nld:tegel, fin:tiili, hin:टाइल (ṭāila), ben:টালি (ṭali), jpn:タイル (tairu), kor:타일 (tail)  
@@ -1443,6 +1439,7 @@
 **tisa** *nove (9)* ← ara: تِسْعَة‎ (tisʿa), swa:tisa  
 **titan yum** *titânio* ← eng:titanium, fra:titane, spa:titanio, por:titânio, rus:титан, zho:钛 (tài), jpn:チタン, kor:타이타늄, vie:titan, hin:टाइटानियम, ben:টাইটেনিয়াম, may:titanium, swa:titani, ara: تيتانيوم  
 **titi** *seio (mama)* ← eng:tit, fra:tété, spa:teta, rus:титьки (tit’ki), ara:ثَدْي‎ (ṯady), swa:titi, may:tetek, jpn:乳 (chichi)  
+**tix** ** ← rus:тишина (tišina) + eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus  
 **to** ** ← rus:до (do) pol:do + zho:到 (dào), yue:到 (dou3) + eng:to + fas: تا‎ (tâ), hin:-तक (-tak)  
 **tocu** ** ← eng:touch, spa: tocar, + hin: छूना (chūnā) + zho: 触 (chù), yue:觸 (cuk1), kor:촉 (chok)  
 **tolera** ** ← eng:tolerate, spa:por:tolerar, fra:tolérer, deu:tolerieren  
@@ -1466,6 +1463,7 @@
 **tu** *tu* ← fra:por:tu, spa:tú, rus:ты (ty), hin:तू (tū), ben:তুই (tui)  
 **tualete** ** ← fra:toilettes, eng:may:toilet, por:toalete, rus:туалет (tualet), tur:tuvalet, fas:توالت‎ (tuâlet), hin:टॉयलेट (ṭŏyaleṭ), jpn:トイレ (toire)  
 **tubo** ** ← spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu, xho:íthumbu  
+**tufan** ** ← zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), swa:tufani, por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)  
 **tuh** ** ← hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek  
 **tul** ** ← eng: tool, kor: 툴 (tul), jpn: ツール (tsūru), Zulu: ithuluzi  
 **tule yum** *túlio* ← eng:thulium, fra:thulium, spa:tulio, por:túlio, rus:тулий, zho:铥 (diū), jpn:ツリウム, kor:툴륨, vie:tuli, hin:थुलियम, ben:থুলিয়াম, may:tulium, swa:thuri, ara: ثليوم  
@@ -1510,7 +1508,6 @@
 **ventur** *aventura* ← deu:Abenteuer, spa:aventura, fra:aventure, rus:авантюра (avantyura), tur:avantür, eng:adventure  
 **ver** *verdadeiro* ← eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai  
 **veranda** *sacada (varanda)* ← hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda), swa:varanda  
-**verde** *verde* ← spa:por:verde, fra:eng:vert  
 **verme** *verme* ← eng:worm, por:verme, fra:ver, deu:Wurm  
 **verse** *encarar (afrontar; vérsus)* ← eng:versus, fra:verse, spa:por:versar  
 **versi** *encarar (afrontar; vérsus)* ← eng:versus, fra:verse, spa:por:versar + rus:версия (versiya), may:versi  
@@ -1556,7 +1553,6 @@
 **xarnir** ** ← fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)  
 **xarti** ** ← tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)  
 **xatan ja** *Satanás* ← heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani  
-**xatrang** ** ← hin:शतरंज (śatrañj), urd:(śatrañj), fas:(šatranj), tur:satranç, ara:(šaṭranj), swa:sataranji, tel:చతురంగము (caturaṅgamu), tam:சதுரங்கம் (caturaṅkam), may:catur, khm:ចត្រង្គ (caʾtrɑng), por:xadrez  
 **xau** *poucos* ← zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)  
 **xava** *chuva* ← por:chuva + eng:shower, deu:Schauer + jpn:シャワー (shawā), hin:शावर (śāvar)  
 **xaxa** ** ← zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha  

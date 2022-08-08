@@ -720,7 +720,6 @@ dur di - chroniczny
 dur metre gi - stoper (sekundomierz)  
 dur zaman - czas (epoka, era)  
 dus darja - dezaktualizować (pogorszyć)  
-dus funsi - awaria (wadliwe działanie)  
 dus hal - trudność (trud)  
 dus nam - obraza (obelga)  
 dus sin di - złowieszczy  
@@ -804,7 +803,6 @@ fa - zrobić (stworzyć, wykreować)
 fa acar - kisić (marynować)  
 fa ajabu - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
 fa alo rai - nie zgadzać się  
-fa an karma - deaktywować (wyłączyć, zatrzymać)  
 fa an zai - usuwać (usunąć, likwidować, zlikwidować, wymazywać, wymazać, pozbywać się, pozbyć się)  
 fa anime - animować  
 fa aplika - zastosować, stosować  
@@ -862,7 +860,6 @@ fa gem - grać w grę
 fa gene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
 fa glu - lepić (kleić)  
 fa gola - otoczyć, otaczać  
-fa gong - pracować  
 fa grafi - opisywać, ilustorawć; przedstawiać  
 fa guste - smakować, próbować smaku  
 fa halal - pozwolić, pozwalać, zezwolić, zezwalać  
@@ -886,7 +883,6 @@ fa kai - otworzyć, otwierać
 fa kaka - defekować, srać  
 fa kanal - kierować (doprowadzać, prowadzić, służyć jako kanał)  
 fa kanca dake - szklić (glazurować)  
-fa karma - aktywować (włączyć, uruchomić)  
 fa kata - opowiedzieć, opowiadać  
 fa keka - odwiedzić, odwiedzać  
 fa kino - ruszać, przenościć, zmieniać miejsce, inspirować  
@@ -920,7 +916,6 @@ fa mal - mieć (posiadać)
 fa manera - zachowywać się (działać)  
 fa marce - iść, maszerować  
 fa marke - zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad  
-fa mata - zabić, zabijać  
 fa max lika - wesprzeć (wzmocnić, zasilić)  
 fa maxim - zmaksymalizować  
 fa mece - konkurować, rywalizować; odbyć mecz, odbywać mecz  
@@ -931,7 +926,6 @@ fa migra - ruszać się (migrować, poruszać się, przenieść się, przesiedla
 fa min darja - zmniejszyć o jeden  
 fa ming - rozjaśnić  
 fa minim - zminimalizować  
-fa miti - spotkać  
 fa model - modelować (projektować, zaprojektować)  
 fa mol - zemleć (mleć, mielić)  
 fa multi - podwoić  
@@ -1157,6 +1151,9 @@ fungu - grzyb
 fungu frute - sporokarp  
 fungu nete - grzybnia  
 funsi - funkcja, stanowisko  
+• dusfunsi - awaria (wadliwe działanie)  
+• konfunsibil - kompatybilny (pasujący)  
+funsibil - poprawny (wykonalny)  
 furete - tchórz, fretka  
 furi - zły (wsciekły, gniewny)  
 furita - gniew, furia  
@@ -1211,6 +1208,8 @@ ganse - gęś
 ganum - pszenica  
 ganya - zyskać, zyskiwać, zarobić, zarabiać  
 gar - jeśli, jeżeli; przypuścić, przypuszczać, złożyć, zakładać, przyjąć, przyjmowa  
+gar - wóz, wózek  
+garparke - parking  
 garanti - gwarancja  
 garde - chronić, strzec,  osłaniać, bronić  
 garde ja - strażnik, ochroniarz  
@@ -1290,12 +1289,6 @@ golem - golem
 gomu - guma  
 gona - kąt  
 gona metre gi - goniometr (kątomierz)  
-gong - praca, zjęcie, zadanie  
-gong ja - pracownik  
-gongkan - fabryka, manufaktura  
-gong meza - biurko  
-gong mise - przedstawić (przedłożyć, przedstawić, złożyć, składać)  
-gong xula ja - praktykant  
 gorila - goryl  
 goro - świnia  
 goro nama - wieprzowina  
@@ -1314,7 +1307,7 @@ Grenada - Grenada
 Grenadin nesi - Grenadyny  
 grimas - grymas  
 grom - grom, huk  
-grom tafun - burza z piorunami  
+grom tufan - burza z piorunami  
 gros - gruby  
 grosta - grubość  
 gros zi - pogrubiona litera  
@@ -1399,6 +1392,8 @@ harmoni di - harmoniczny
 harnes - zaprzęc, zaprzęgać  
 has - specjalny, wyraźny, wyrazisty  
 hasta - różnica (specjalność)  
+haste - zajęty  
+• anhaste - powolny (wolny, letargiczny)  
 hata - aż do  
 hata di - nawet  
 hatar - zagrożenie, niebezpieczeństwo  
@@ -1560,11 +1555,12 @@ jai - zwyciężyć (wygrać; zwycięstwo, wygrana)
 jain din - dźinizm, dżinizm  
 Jakarta - Dżakarta  
 jake - kurtka  
-jama - kolekcja, zbiór; zgromadzenie, zebranie  
-• anjama - rozproszyć, rozpraszać  
-• anjama di - rzadki (rozrzedzony, rozproszony)  
-jama di - zbiorowy, zbiorczy  
 Jamaika - Jamajka  
+jami - kolekcja, zbiór; zgromadzenie, zebranie  
+• ajami - spotkać (spotkanie, zebranie)  
+• anjami - rozproszyć, rozpraszać  
+• anjami di - rzadki (rozrzedzony, rozproszony)  
+jami di - zbiorowy, zbiorczy  
 jampe - skoczyć, skakać  
 jamul - czapetka kuminowa  
 jan - medytować; dumać, rozmyślać, zastanawiać się  
@@ -1716,8 +1712,13 @@ kape truke - pułapka
 kape yo kuanga - kopać (wydobywać)  
 kape yo pexe - łapać rybę  
 kape yo taxi - zbierać opłaty lub podatki (zebrać opłaty lub podatki)  
-kar - wóz, wózek  
-kar parke - parking  
+kar - pracować  
+• konkar - współpracować (kolaborować)  
+karja - pracownik  
+karlexi - czasownik  
+karmeza - biurko  
+karxe - praca, zjęcie, zadanie  
+karxular - praktykant  
 karaoke - karaoke  
 karate - karate  
 karavi - kminek  
@@ -1736,10 +1737,6 @@ kaributa - bliskość
 karim - hojność (szczodrość)  
 karim di - hojny (szczodry)  
 karite - masłosz Parka  
-• ankarma ja - zdeaktywowany (wyłączony, zatrzymany)  
-karma ja - przyrostek dla wykonawcy  
-karma ja di - aktywny (włączony, uruchomiony)  
-karma loga - czasownik  
 Karnada - Karnataka  
 karnada baxa - kannada  
 karote - marchew  
@@ -1995,7 +1992,6 @@ leng - zimny, chłodny
 leng mosim - zima  
 leng mosim di - zimowy  
 lense - soczewka  
-lente - powolny (wolny, letargiczny)  
 lenxi - ćwiczenie  
 letre - list  
 letus - sałata  
@@ -2028,7 +2024,7 @@ limite - limit, granica
 • anlimite - nieskończoność  
 limite di - skończony (ograniczony)  
 limon - cytryna  
-limon verde di - limonkowy (limonkowo zielony)  
+limon luga di - limonkowy (limonkowo zielony)  
 lin - linia (nić, lina, pas, pręga, smuga, dratwa)  
 lin parce - złamanie lini  
 lin so - włókno  
@@ -2074,6 +2070,8 @@ lote - wsad, partia, porcja, seria
 lotra - wydra  
 lou - przeciekać, ciec  
 lou sang - krwawić  
+luga - zielony  
+luga melon - melon miodowy  
 luka - sześć (6)  
 luka fase - sześcian (kostka)  
 luka gona - sześciokąt (sześciobok)  
@@ -2158,10 +2156,9 @@ maska - maska, kamuflaż
 masta - maszt  
 maste - być mistrzem (być ekspertem)  
 master - mistrz (ekspert)  
-mata - śmierć  
-mata badan - zwłoki (trup)  
-mata di - martwy, nieżywy, zabity  
-mata ja - zabójca  
+mata - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)  
+matafa - zabić, zabijać  
+mataja - zabójca  
 mate - materia, substancja  
 mate di - materialny  
 matras - materac  
@@ -2298,7 +2295,6 @@ mise xe - misja
 miskin - biedny, mizerny  
 Misri - Egipt  
 misri di - egipski  
-miti - spotkanie, zebranie  
 mitre - metr  
 mixe - miksować, mieszać  
 mixe alkol - koktajl  
@@ -2430,6 +2426,9 @@ nefre tis - zapalenie nerek
 nefte - olej  
 nefte guku - złocień indyjski  
 nega - odmówić (odrzucić)  
+nekro - zwłoki (trup)  
+nekrologa - nekrolog  
+nekrotomi - sekcja zwłok (obdukcja)  
 nelu - cztery (4)  
 nelu gona - kwadrat (czworokąt, czworobok, tetragon)  
 nen - rok  
@@ -2820,7 +2819,7 @@ Qazaqe - Kazachstan
 ## R  
 
 radi - promień  
-radi karma - promieniowanie  
+radia - promieniowanie  
 radi metre gi - radoiometr  
 radi yum - rad  
 radio - radio  
@@ -2859,7 +2858,7 @@ ratibu - porządek
 razon - rozum, rozsądek  
 razon di - racjonalny, rozsądny  
 re - powtarzanie, powtórka  
-re sikle - przetwarzać  
+resikle - przetwarzać  
 rebel - rebelia, powstanie  
 redi - gotowy  
 Ren - Ren  
@@ -2869,7 +2868,7 @@ reporte - raport
 reseta - recepta, receptura, przepis  
 reside - paragon, pokwitowanie  
 reste - pozostałość, reszta  
-restorante - restauracja  
+restoran - restauracja  
 retro - wstecz  
 retro dau - powrót  
 retro gula - wymiotować (zwrócić)  
@@ -2911,7 +2910,7 @@ roste - piec
 roste pang - tost  
 rota leu - przeciwnie do ruchu wskazówek zegara  
 rota raite - według ruchu wskazówek zegara  
-rota tafun - trąba powietrzna (cyklon, tornado, tajfun)  
+rota tufan - trąba powietrzna (cyklon, tornado, tajfun)  
 rota vanu gi - bąk, bączek  
 rota xe - rotor, wirnik  
 Ruanda - Rwanda  
@@ -3240,7 +3239,6 @@ suxi - sushi
 tabaku - tytoń  
 tabi - natura, środowisko  
 table yo data - ułożyć w trabelę  
-tafun - burza, sztorm, tajfun  
 Tai baxa - tajski  
 Tai Dexa - Tajlandia  
 Taibei - Tajpej  
@@ -3270,7 +3268,7 @@ tatike - taktyka, strategia
 tatu - tatuaż  
 tava - patelnia  
 taxi - podatek, opłata  
-taxi kar - taxi, taksówka  
+taxigar - taxi, taksówka  
 taxi metre gi - taksometr  
 taza - świeży  
 tehni - technika, technologia  
@@ -3321,6 +3319,8 @@ tire yo pil - obrać (obierać)
 tis - zapalenie  
 tisa - dziewięć (9)  
 titan yum - tytan  
+tix - ćsi  
+tix - cichy  
 to - do, dopóki, dla  
 to jin - naprzód  
 to misal - na przykład  
@@ -3361,6 +3361,7 @@ tumen - wy, was
 tu su - twój  
 tualete - taleta, WC  
 tubo - tuba, rura  
+tufan - burza, sztorm, tajfun  
 tuh - pluć  
 tul - narzędzie  
 tule yum - tul  
@@ -3462,8 +3463,6 @@ ventur ja - poszukiwacz przygód (awanturnik)
 Venus - Wenus  
 ver - prawdziwy (rzeczywisty, szczery)  
 veranda - weranda, balkon, taras, ganek  
-verde - zielony  
-verde melon - melon miodowy  
 verme - robak  
 vermute - wermut  
 version - wersja (wariacja, edycja, wydanie)  
@@ -3517,6 +3516,7 @@ vutu - przedmiot (obiekt)
 
 ## X  
 
+xah gem - szachy  
 xaka - gałąź, konar  
 xakal - szakal  
 xal - szal, szalik  
@@ -3539,7 +3539,6 @@ xatan di - diabelski, szatański
 xatan din - satanizm  
 xatan din ja - satanista  
 xatan ja - diabeł, szatan  
-xatrang - szachy  
 xau - niewiele (mało, nieliczność)  
 xava - deszcz  
 xava cati - parasol  

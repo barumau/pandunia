@@ -454,7 +454,6 @@ fa fuku - одевать
 fa fuku - носить (одеваться)  
 fa gene - родить  
 fa glu - клеиться  
-fa gong - работать  
 fa hisabu - вычислять  
 fa hogo - жечь (палить)  
 fa in klus - включить  
@@ -623,9 +622,6 @@ glu poto - глина
 gol - цель  
 gola seku - булыжник  
 gomu - резина (каучук, резинка, ластик)  
-gong - работа  
-gong ja - работник  
-gongkan - завод (фабрика)  
 gorila - горилла  
 goton - хлопок  
 grafi culi - обработка изображений  
@@ -678,6 +674,7 @@ hapu - подходящий (годный)
 harabu mahala - трущоба  
 Hartum - Хартум  
 has nam - идентификатор  
+haste - занятый  
 hata - до  
 hatar - опасность  
 heli yum - гелий  
@@ -841,6 +838,11 @@ kantalupo melon - канталупа
 Kantalupo va Sabina - Канталупо-ин-Сабина  
 kanyon - овраг (ущелье, каньон)  
 kape truke - ловушка  
+kar - работать  
+• konkar - сотрудничать (кооперировать)  
+karja - работник  
+karlexi - глагол  
+karxe - работа  
 karate - каратэ  
 karate ja - каратист (каратэка)  
 karbon - углерод  
@@ -853,10 +855,6 @@ kardon karcof - артишок испанский (кардон)
 karga - бремя (товар, груз, ноша)  
 kargadan: - носорог  
 kari - карри  
-karma - действие (акт, акция)  
-karma ja - деятель  
-karma ja di - активный (деятельный)  
-karma loga - глагол  
 karote - морковь  
 karse - грубой  
 karse limon - лима (каффир-лайм)  
@@ -1022,6 +1020,7 @@ long pipre - перец длинный
 long tire - вытянуть  
 lotra - выдра  
 lou - протекать (просочиться)  
+luga - зелёный  
 luka - шесть (6)  
 lulu table - счёты (абак)  
 luna - луна  
@@ -1063,8 +1062,6 @@ masala - пряность
 maska - маска  
 masta - мачта  
 master - мастер  
-mata badan - труп (мёртвое тело)  
-mata badan fili - некрофилия  
 mate - материя  
 mate lona - материализм  
 matur jen - взрослый  
@@ -1180,6 +1177,10 @@ nave leu - левый борт
 nave raite - правый борт  
 nefre - почка  
 nefte - масло  
+nekro - труп (мёртвое тело)  
+nekrofilia - некрофилия  
+nekrologa - некролог  
+nekrotomi - вскрытие (аутопсия)  
 nelu - четыре (4)  
 neodim yum - неодим  
 neon - неон  
@@ -1390,7 +1391,7 @@ rasa medi - межрасовый
 ratibu - установка  
 ratibu di - организованный (порядок)  
 re - повторение  
-re sikle - рециркулировать  
+resikle - рециркулировать  
 Ren - Рейн  
 ren yum - рений  
 rentegen yum - рентгений  
@@ -1607,6 +1608,8 @@ tire yo pil - ободрать
 tis - воспаление  
 tisa - девять (9)  
 titan yum - титан  
+tix - тихий  
+tixta - тишина  
 to long - далеко  
 to misal - например  
 tocu - касаться  
@@ -1692,7 +1695,6 @@ ventur ja - авантюрист
 Venus - Венера  
 ver - верный  
 veranda - балкон  
-verde - зелёный  
 vermute - вермут  
 • exversi - экстраверт  
 • extraversi - экстраверт  
@@ -1724,6 +1726,7 @@ vutu - статья (предмет)
 
 ## X  
 
+xah mata - шах и мат  
 xalke - чешуя  
 xam - вечер  
 xaman - шаман  

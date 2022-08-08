@@ -22,13 +22,10 @@ accumuler - kumu
 accès (accéder) - acese  
 accès - jin lai  
 acheter - fa xopi  
-acte (action) - karma  
 acte - ati  
 actif (activer, allumer, mettre en marche) - ativi  
-actif - karma ja di  
 actinium - acini yum  
 action - ation  
-activer (allumer, mettre en marche, déclencher) - fa karma  
 actuel (courant) - zai zaman di  
 acéphale (sans tête) - sar hin  
 adapter (ajuster) - fa hapu  
@@ -40,7 +37,6 @@ adresse - adres
 adulte - matur jen  
 Afghanistan - Afghan  
 Afrique - Afrika  
-agent (faiseur) - karma ja  
 agent (faiseur) - atir  
 agent pathogène - pati gene xe  
 agile - agile  
@@ -179,6 +175,7 @@ autel - puja meza
 auteur - autor  
 autocollant - glu grafi  
 automne - pada mosim  
+autopsie - nekrotomi  
 autre - alo  
 autrement - alo di  
 avant - cen  
@@ -316,7 +313,7 @@ bûche - moka tana
 cacher - fa sir  
 cachet de la poste - posta marke  
 cactus - katus  
-cadavre (corps) - mata badan  
+cadavre (corps) - nekro  
 cadenas - pende sor  
 cadmium - kadim yum  
 cadre - frem  
@@ -363,7 +360,7 @@ carte (plan) - topo metre grafi
 carte - karta  
 carte - karte  
 carte de crédit - kredikarte  
-carte à collectionner - jama karte  
+carte à collectionner - jami karte  
 cartographie - kartagrafi  
 cauri - kauri  
 ce...ci - yi  
@@ -418,6 +415,7 @@ chrome - krom yum
 chronique - dur di  
 chronomètre - dur metre gi  
 chu - pada di  
+chut - tix  
 chèque - ceke  
 chèque cadeau - daxeceke  
 chèque de voyage - safarceke  
@@ -443,6 +441,7 @@ clé (clef) - cavi
 cobalt - kobalte  
 coeur - kerne  
 collaborer - kon gong  
+collaborer - konkar  
 coller - fa glu  
 colorant - rang mate  
 combava - karse limon  
@@ -965,7 +964,7 @@ latéral - late di
 lave - yung petra  
 lawrencium - laurence yum  
 le (la) - la  
-lent - lente  
+lent - anhaste  
 lentille - lense  
 Lettonie - Latvia  
 lettre - letre  
@@ -1133,8 +1132,8 @@ mètre - mitre
 médias - media  
 médicament (remède) - dava xe  
 méduse - hai jele  
-méfait (péché) - dus karma  
 méfait (péché) - dusati  
+méfait (péché) - duskar  
 mémoire - memo  
 méninge - meninge  
 métaux lourds - bari metal  
@@ -1183,7 +1182,8 @@ nuage - megi
 numérique - komputa di  
 nylon - nilon  
 nécessaire - yau di  
-nécrophilie - mata badan fili  
+nécrologie - nekrologa  
+nécrophilie - nekrofilia  
 néodyme - neodim yum  
 néologisme - neu loga  
 néon - neon  
@@ -1195,6 +1195,7 @@ oasis - vahi
 objet (article) - vutu  
 oblique (de travers) - terca  
 obsidienne - osidian  
+occupé - haste  
 occupé - mang  
 ocelot - oselote  
 oculaire - yen di  
@@ -1491,7 +1492,7 @@ rebondir - boing
 recette - reseta  
 receveur (récepteur) - receper  
 recevoir - recepe  
-recycler - re sikle  
+recycler - resikle  
 rein - nefre  
 religion - din  
 remettre - fa retro  
@@ -1627,6 +1628,8 @@ shopping - xopi
 si - gar  
 signer - nam kitabu  
 signifier (voiloir dire) - semi  
+silence - tixta  
+silencieux (se taire) - tix  
 silex - hogo seku  
 silicium - silis  
 simulation - sam sifa xe  
@@ -1645,7 +1648,6 @@ sommeil - sona
 son (sa) - se su  
 son - soni  
 soufre - sulfu  
-soumettre - gong mise  
 soumission - islam  
 soupe - supa  
 souris - muxu  
@@ -1748,9 +1750,9 @@ traitement d'images - grafi culi
 traitement de données - data culi  
 traitement de texte - kitabu culi  
 traiter - fa culi  
-travail - gong  
-travailler - fa gong  
-travailleur (ouvrier) - gong ja  
+travail - karxe  
+travailler - kar  
+travailleur (ouvrier) - karja  
 traîner - trata  
 traîner - trate  
 tremper (faire mariner) - pul xipi  
@@ -1804,7 +1806,7 @@ Venezuela - Venezuela
 venir - lai  
 ver - verme  
 ver à soie - silke larva  
-verbe - karma loga  
+verbe - karlexi  
 verger - frute bagi  
 vermouth - vermute  
 verre - kanca  
@@ -1813,7 +1815,7 @@ verrue - zeyil
 verse (face á) - verse  
 verser (face á) - versi  
 verser - fa verse  
-vert - verde  
+vert - luga  
 veuve - vidou  
 viande - nama  
 vice-roi - vise raja  
@@ -1893,6 +1895,7 @@ zéro - siro
 âge - sene  
 éblouir (étonner, stupéfier, surprendre) - fa ajabu  
 échec - xiti bai  
+échec et mat - xah mata  
 échelle - xalke  
 école (collège) - xulakan  
 école primaire - baze xulakan  

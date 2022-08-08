@@ -49,12 +49,9 @@ acostar (poner) - fa kux
 acostarse (echarse, tenderse, tumbarse) - be kux  
 actinia (anémonas de mar) - hai hua  
 actinio - acini yum  
-activo - karma ja di  
 activo - ativi  
-acto (acción) - karma  
 acto - ati  
 actor (actriz) - rol ja  
-actor (hacedor, perpetrador, agente) - karma ja  
 actual (presente) - zai di  
 actual - zai zaman di  
 actuar (hacer un papel) - fa rol  
@@ -103,7 +100,7 @@ agujero (hueco) - kung
 ahora mismo (justo) - a neu  
 ahorrar (reservar, depositar) - banka  
 aire - air  
-ajedrez - xatrang  
+ajedrez - xah gem  
 ajo - lasun  
 ajonjolí (sésamo) - sesam  
 al revés - retro  
@@ -290,7 +287,7 @@ Aruba - Aruba
 asar (tostar) - roste  
 asar - kababu  
 asceta - askete  
-asesino - mata ja  
+asesino - mataja  
 asexual - ansexe di  
 Asia - Asia  
 Asiria - Axur dexa  
@@ -326,6 +323,7 @@ autocratia (monarquía) - auto krati
 automotor (automotriz) - auto move  
 automóvil (coche) - moto gar  
 autonomía - auto nomi  
+autopsia - nekrotomi  
 autor - autor  
 autónomo - auto nomi di  
 avanzar (entrar, adelantar, progresar) - be jin  
@@ -532,7 +530,7 @@ cacto - katus
 cada - pan un  
 cadena - seriseri  
 cadmio - kadim yum  
-cadáver - mata badan  
+cadáver - nekro  
 caer - pada  
 cafetera - kafe pote  
 café (cafetería) - kafekan  
@@ -727,6 +725,7 @@ chinés (de los Han) - Han
 Chipre - Kipris  
 Chipre del Norte - Norde Kipris  
 chisporrotear - zizi  
+chito (chist) - tix  
 chito (chist) - xux  
 chocolate - coklate  
 choque (sacudida) - xoke  
@@ -774,7 +773,7 @@ clásico - cen yang di
 cobalto - kobalte  
 cobre - kupre  
 coca - koka  
-coche (carruaje, auto, vagón) - kar  
+coche (carruaje, auto, vagón) - gar  
 cocina - kuke kamar  
 cocinar (preparar) - kuke  
 cocinero - kuke ja  
@@ -789,10 +788,11 @@ col china - baku coi
 cola (rabo, coda) - koda  
 cola (refresco de cola) - kola jus  
 colaborar - kon gong  
+colaborar - konkar  
 colarse - sir move  
 colchón - matras  
-colección (grupo, conjunto, montón) - jama  
-colectivo - jama di  
+colección (grupo, conjunto, montón) - jami  
+colectivo - jami di  
 colgar - pende  
 colmena (panal) - medu fong nide  
 colocar (poner, ubicar) - fa loka  
@@ -820,6 +820,7 @@ compartir (tener en común) - fa komun
 compasión - kon pasi  
 compasión - sam emos  
 compatible - kon funsibil  
+compatible - konfunsibil  
 compatriota - sam dexa jen  
 compañero (compinche) - late jen  
 compañía (empresa, corporación) - kompani  
@@ -952,7 +953,7 @@ Cristo (mesías) - mesi
 criticar (evaluar) - fa piping  
 Croacia - Horvati  
 crocodilio - krokodil  
-cromo - jama karte  
+cromo - jami karte  
 cromo - krom yum  
 cronómetro - dur metre gi  
 cruasán - kruasan  
@@ -1094,7 +1095,6 @@ derechos humanos - insan haki
 derretirse - yung  
 derrota - bai  
 desactivado - anativi  
-desactivado - ankarma ja  
 desacuerdo - alo rai  
 desaparecer - be an zai  
 desarrollo - darja mute  
@@ -1158,7 +1158,7 @@ disentir (no estar de acuerdo) - fa alo rai
 disfrutar (jugar) - be vanu  
 disionario (lexicón) - loga liste  
 disparar - pau  
-dispersar (esparcir, desmontar) - anjama  
+dispersar (esparcir, desmontar) - anjami  
 disposición (naturaleza, carácter, -ivo) - tabi  
 dispositivo pirotécnico - hogo tehni  
 disprosio - disprosi yum  
@@ -1289,7 +1289,7 @@ en el sentido del las agujas del reloj - rota raite
 en línea - a lin  
 encanto - carme  
 encarcelar (aprisionar) - fa jela  
-encontrar - fa miti  
+encontrar (reunión, junta, mitin) - ajami  
 encontrarse (estar, situarse) - be loka  
 encurtido - acar di  
 encurtir - fa acar  
@@ -1314,7 +1314,6 @@ entero (todo) - holo
 entrada - jin mun  
 entrar - be in  
 entre - a medi  
-entregar (enviar) - gong mise  
 entristecer (poner triste) - fa duka  
 enviar (transmitar) - mise  
 envoltura - lifafa  
@@ -1347,13 +1346,13 @@ escapatoria - cuti
 escarcha - hima rose  
 escasez - kamta  
 escasez - xauta  
-escaso (disperso, ralo) - anjama di  
+escaso (disperso, ralo) - anjami di  
 escenario (podio, estrado, tarima) - tai  
 escoba - jaru  
 Escocia - Eskote  
 escorpión (alacrán) - akrabe  
 escribir - kitabu  
-escritorio (mesa de trabajo) - gong meza  
+escritorio (mesa de trabajo) - karmeza  
 escuchar (oír) - fa ore  
 escudo - defa bano  
 escuela (colegio, institución) - xulakan  
@@ -1395,7 +1394,7 @@ espíritu (genio) - jini
 esqueleto (armazón) - oste jama  
 esquina (rincón, ángulo) - gona  
 estaca - moka kane  
-estacionamiento (aparcamiento) - kar parke  
+estacionamiento (aparcamiento) - garparke  
 estación (temporada) - mosim  
 estación - estasi  
 estadio (arena) - estadi  
@@ -1474,7 +1473,7 @@ facción - xia
 facilidad - fasilta  
 factor - feter  
 falda - jupe  
-falla (mal funcionamiento) - dus funsi  
+falla (mal funcionamiento) - dusfunsi  
 fallo (juicio, criterio) - jude  
 falso - false  
 faltar (sin) - hin  
@@ -1573,7 +1572,6 @@ fusta - uma bici
 futuro - pos zaman  
 fábrica - fetekan  
 fábrica - feteria  
-fábrica - gongkan  
 fábula - hevan kata  
 fácil - fasil  
 fácil acceso (accesibilidad) - tene fasilta  
@@ -1838,7 +1836,7 @@ humorista - yumor ja
 humorístico (gracioso, cómico) - yumor di  
 humus - humus sos  
 Hungría - Magyar  
-huracán (tifón) - rota tafun  
+huracán (tifón) - rota tufan  
 hurra - ura  
 hurón - furete  
 huérfano - yatim  
@@ -2017,6 +2015,7 @@ jainismo - jain din
 Jamaica - Jamaika  
 japonés - nipon di  
 Japón - Nipon  
+jaque mate - xah mata  
 jarabe (sirope) - xirope  
 jarra - jara  
 Jartum - Hartum  
@@ -2125,7 +2124,7 @@ lengua - lisan
 lengua materna - gene baxa  
 lengua mundial - dunia baxa  
 lente - lense  
-lento (despacio) - lente  
+lento (despacio) - anhaste  
 Lesoto - Soto  
 Letonia - Latvia  
 letra (carácter) - fon zi  
@@ -2318,7 +2317,7 @@ masa (trozo, pedazo) - masa
 masaje - masaje  
 masculino (macho) - nan  
 matadero - bucakan  
-matar (morir, asesinar) - fa mata  
+matar (morir, asesinar) - matafa  
 matasellos - posta marke  
 mate (opaco) - foto mata di  
 matemática - hisabulogi  
@@ -2365,7 +2364,7 @@ melón - melon
 melón amargo - kali melon  
 melón cantalupo - kantalupo melon  
 melón coreano - aroma melon  
-melón verde - verde melon  
+melón verde - luga melon  
 memoria - memo  
 memorándum (nota) - memo note  
 mendelevio - mendelef yum  
@@ -2472,6 +2471,7 @@ moralidad (ética) - moral
 morder - fa dante  
 morder - gata a dante  
 morfema - forma so  
+morirse (muerte; muerto) - mata  
 morirse - be mata  
 mosco - dom zeze  
 moscovio - moskva yum  
@@ -2490,8 +2490,6 @@ muchos - multi
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - fa kino  
 mueca - grimas  
 muela - mol seku  
-muerte (fallecimiento) - mata  
-muerto - mata di  
 muesli - musli  
 mujer (hembra) - ni  
 mujer (señora) - matur fem  
@@ -2558,7 +2556,8 @@ Naúru - Nauru
 necesario - yau di  
 necesidad - yauta  
 necesitar - yau  
-necrofilia - mata badan fili  
+necrofilia - nekrofilia  
+necrología (obituario) - nekrologa  
 nefritis - nefre tis  
 negociar - fa biznes lona  
 negocios (comercio) - biznes  
@@ -2658,6 +2657,7 @@ ocra - bamia
 octubre - mes des  
 ocular - yen di  
 ocultar (esconder) - fa sir  
+ocupado (atareado) - haste  
 ocupado (atareado) - mang  
 océano - dai hai  
 océano Antártico - Antartika Hai  
@@ -2834,8 +2834,8 @@ paz - pase
 país (nación, estado, terra) - dexa  
 país extranjero - vai dexa  
 Países Bajos - Nederlande  
-pecado - dus karma  
 pecado - dusati  
+pecado - duskar  
 pecho (busto) - buste  
 pecho (seno, tórax) - sine  
 pedal - pedal  
@@ -3165,7 +3165,7 @@ químico - kimi di
 racismo - rasa sim  
 racista - rasa sim ja  
 ración (dosis) - doze  
-radiación - radi karma  
+radiación - radia  
 radiación ionizante - ion radi  
 radiactivo - ion radi di  
 radiar (emitir) - fa radi  
@@ -3201,12 +3201,12 @@ reacción - reation
 real (de realtad) - raja di  
 rebelión (sublevación) - rebel  
 rebotar - boing  
-recargar - re karga  
+recargar - rikarga  
 receptor - receper  
 receptor de radio - radio na gi  
 rechazar (negar) - nega  
 recibir - recepe  
-reciclar - re sikle  
+reciclar - resikle  
 recoger (juntar, reunir, acumular, recolectar, montar) - fa jama  
 reconocer (admitir) - fa reside  
 reconocimiento (recibo) - reside  
@@ -3267,13 +3267,12 @@ respeto (honor) - onor
 respiración - nafas  
 respirar - fa nafas  
 responder (contestar) - fa javabu  
-restaurante - restorante  
+restaurante - restoran  
 resto (demás) - reste  
 resulta (efecto) - asar  
 retornar - fa retro  
 retroalimentación (realimentación, feedback) - retro note  
 retículo - krus lin  
-reunión (junta, mitin) - miti  
 Reunión - Reunion  
 reventar - parce kai  
 revisar (chequear, examinar, inspeccionar) - ceke  
@@ -3469,6 +3468,8 @@ significar (querer decir) - semi
 siguiente (trasero) - pos di  
 sij - siki din ja  
 sijismo - siki din  
+silencio - tixta  
+silencioso - tix  
 silencioso - xux di  
 silicio - silis  
 silla (montura) - side loka  
@@ -3607,7 +3608,7 @@ tarjeta de gráfica - grafi karte
 tasa (precio, cuota, tarifa) - taxi  
 tasa de fotogramas - grafi rapideta  
 tatuaje - tatu  
-taxi (cab) - taxi kar  
+taxi (cab) - taxigar  
 Tayikistán - Tajiki  
 taza de café - kafe kupa  
 taza de té - cai kupa  
@@ -3704,8 +3705,8 @@ tono - ton
 topo - krote  
 topografía - topo grafi  
 torio - tor yum  
-tormenta (tempestad) - tafun  
-tormenta - grom tafun  
+tormenta (tempestad) - tufan  
+tormenta - grom tufan  
 tornillo - vita  
 torre - minare  
 torre del reloj - hor loga minar  
@@ -3715,9 +3716,9 @@ tos - koso
 totalidad (integridad) - holota  
 toxicología - toxilogi  
 toxina - biotoxi  
-trabajador (obrero) - gong ja  
-trabajar - fa gong  
-trabajo - gong  
+trabajador (obrero) - karja  
+trabajar - kar  
+trabajo - karxe  
 tractor - trata gi  
 traditional (convencional) - suna di  
 traducir (interpretar; tradicción, interpretación) - trabaxa  
@@ -3849,10 +3850,10 @@ ventilador - panka
 Venus - Venus  
 ver (mirar) - vide  
 verano - garma mosim  
-verbo - karma loga  
+verbo - karlexi  
 verdadero - ver  
-verde - verde  
-verde limón - limon verde di  
+verde - luga  
+verde limón - limon luga di  
 verdura (legumbre) - yam fito  
 verduras - coi  
 vergüenza (pena) - xarma  

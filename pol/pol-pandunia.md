@@ -22,8 +22,6 @@ akcent, nacisk - balaton
 akt, scena - rol ja  
 aktualizować (zaktualizować, ulepszać, ulepszyć) - bon darja  
 aktyn - acini yum  
-aktywny (włączony, uruchomiony) - karma ja di  
-aktywować (włączyć, uruchomić) - fa karma  
 aktywować (włączyć, uruchomić) - ativi  
 akwarela (farba wodna) - sui rang  
 akwarium - pexe tanke  
@@ -117,7 +115,7 @@ Austria - Ostria
 autobus, autokar - bus  
 autonomia - auto nomi  
 autonomiczny - auto nomi di  
-awaria (wadliwe działanie) - dus funsi  
+awaria (wadliwe działanie) - dusfunsi  
 awokado - avakate  
 Azerbejdżan - Azerbaijan  
 Azja - Asia  
@@ -206,7 +204,7 @@ biom - biosistem
 biromantyczny - du romanse di  
 biseksualny - du sexe di  
 biszkopt, ciastko - biskute  
-biurko - gong meza  
+biurko - karmeza  
 biuro (pokój) - burokan  
 biuro, urząd - buro  
 biust - buste  
@@ -262,8 +260,8 @@ burak - bete
 burak cukrowy - sukar bete  
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
-burza z piorunami - grom tafun  
-burza, sztorm, tajfun - tafun  
+burza z piorunami - grom tufan  
+burza, sztorm, tajfun - tufan  
 but - buta  
 but - sapatu  
 butelka - botel  
@@ -352,6 +350,7 @@ chłopak - younan
 ciasto, ciastko - keke  
 ciało - badan  
 ciało stałe - gati mate  
+cichy - tix  
 cichy - xux di  
 ciecierzyca - humus  
 ciecz (płyn) - dara mate  
@@ -407,7 +406,7 @@ czarny - kala
 czas (epoka, era) - dur zaman  
 czas - zaman  
 czas; okazja - mar  
-czasownik - karma loga  
+czasownik - karlexi  
 czaszka - sar oste  
 czek - ceke  
 czekać - dele do  
@@ -451,7 +450,6 @@ darwinizm - darvin sim
 data - nen mes den  
 dać mieszkanie (zakwaterować) - fa dom  
 dać, dawać - da  
-deaktywować (wyłączyć, zatrzymać) - fa an karma  
 deaktywować (wyłączyć, zatrzymać) - deativi  
 debatować, prowadzić dyskurs - fa lona  
 decy-, dziesiąta część - desi  
@@ -653,7 +651,6 @@ ewangelia - eu anjil
 
 fabryka, manufaktura - fetekan  
 fabryka, manufaktura - feteria  
-fabryka, manufaktura - gongkan  
 fajka - pipe  
 fala - onda  
 Falklandy, Malwiny - Malvinas nesi  
@@ -1169,7 +1166,7 @@ kolano - guta
 kolczuga - serinete  
 kolec - dingi  
 kolej - tren dau  
-kolekcja, zbiór; zgromadzenie, zebranie - jama  
+kolekcja, zbiór; zgromadzenie, zebranie - jami  
 kolekcjonować, zebrać, zbierać - fa jama  
 kolonia, osada - koloni  
 kolonialista - koloni sim ja  
@@ -1185,6 +1182,7 @@ komiks; kreskówka - grafi kata
 Komory - Komoro nesi  
 kompas (namagnesowana igła) - ponte pin  
 kompatybilny (pasujący) - kon funsibil  
+kompatybilny (pasujący) - konfunsibil  
 kompost - biosana xe  
 komputer - konputer  
 komunista - kon sana sim ja  
@@ -1376,7 +1374,7 @@ liliowy - lila rang
 lima (limonka) - kaguji limon  
 limfa - limfa  
 limit, granica - limite  
-limonkowy (limonkowo zielony) - limon verde di  
+limonkowy (limonkowo zielony) - limon luga di  
 linia (nić, lina, pas, pręga, smuga, dratwa) - lin  
 lipiec - mes nelu  
 lis - huli  
@@ -1477,7 +1475,6 @@ marmur - kalsi bilor
 Maroko - Magribi dexa  
 Mars - Marse  
 martwić - be duka  
-martwy, nieżywy, zabity - mata di  
 marynarka (flota) - hai gun  
 marynować - acar  
 marzec - mes des un  
@@ -1522,7 +1519,7 @@ Meksyk - Mehiko siti
 melodia - melodi  
 melodyczny - melodi di  
 melon koreański - aroma melon  
-melon miodowy - verde melon  
+melon miodowy - luga melon  
 Merkury - Merkur  
 mesjański - mesi di  
 metal - metal  
@@ -1731,6 +1728,7 @@ nazwać, nazywać, wezwać, wzywać - fa nam
 nazwisko, imię rodziny - famili nam  
 negatywny (przeciwny, nie) - an-  
 negocjować - fa biznes lona  
+nekrolog - nekrologa  
 neodym - neodim yum  
 neologizm - neu loga  
 neon - neon  
@@ -2011,7 +2009,7 @@ parametr (argument, wartość wejściowa) - param
 parasol - sol cati  
 parasol - xava cati  
 park (ogród) - parke  
-parking - kar parke  
+parking - garparke  
 partia - parti  
 partia - partia  
 Partia Piratów - pirate parti  
@@ -2198,6 +2196,7 @@ popiół - hui
 poporodowy - posnatal  
 popołudnie - xam dia  
 poprawić, poprawiać, prostować, korygować - fa sahi  
+poprawny (wykonalny) - funsibil  
 poprowadzić do (doprowadzić do, powodować) - fa asar  
 poprzedni - cen di  
 poprzedzić, poprzedzać - be cen  
@@ -2244,7 +2243,7 @@ powierzchnia, region, teren - area
 powiesić, wieszać - pende  
 powietrze - air  
 powinien - be sel  
-powolny (wolny, letargiczny) - lente  
+powolny (wolny, letargiczny) - anhaste  
 powrót - retro dau  
 powszechny, uniwersalny - putong  
 powtarzanie, powtórka - re  
@@ -2275,13 +2274,13 @@ pożyczać (pożyczyć) - jeka na
 pożyczać komuś (pożyczyć komuś) - jeka da  
 pożyczyć - jeka  
 pożądanie, żadza - kama  
-praca, zjęcie, zadanie - gong  
-pracować - fa gong  
-pracownik - gong ja  
+praca, zjęcie, zadanie - karxe  
+pracować - kar  
+pracownik - karja  
 practyczny, pragmatyczny - prati di  
 pragnienie - sui yau  
 praktyka, aktualność - prati  
-praktykant - gong xula ja  
+praktykant - karxular  
 pralka - fuku vaxi gi  
 prawa autorskie - kopi haki  
 prawa człowieka - insan haki  
@@ -2313,7 +2312,7 @@ projekt, planowane przedsięwzięcie - projete
 projektor (rzutnik) - grafi lanse gi  
 projektor (rzutnik) - grafiprojeter  
 promet - promete yum  
-promieniowanie - radi karma  
+promieniowanie - radia  
 promieniować - fa radi  
 promień - radi  
 promień światła - foto radi  
@@ -2340,7 +2339,6 @@ przedmiot (obiekt) - vutu
 przedporodowy - prenatal  
 przedpołudnie - suba dia  
 przedrostek (prefiks) - cen fixe  
-przedstawić (przedłożyć, przedstawić, złożyć, składać) - gong mise  
 przedłużyć, przedłużać - fa long  
 przegrany, pokonany - xiti bai ja  
 przegrać, przegrywać - fa xiti bai  
@@ -2362,7 +2360,7 @@ przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - be 
 przeszkodzić, przeszkadzać, robić kłopot - fa turbe  
 przeszłość - cen zaman  
 przeszły, miniony - pas di  
-przetwarzać - re sikle  
+przetwarzać - resikle  
 przewidzieć (spodziewać się) - cen vide  
 przewodnik - gida buku  
 przewodnik - gida ja  
@@ -2389,7 +2387,6 @@ przyprawa - masala
 przyrostek (sufiks) - pos fixe  
 przyrostek dla wsperającego ideę - mede ja  
 przyrostek dla wykonawcy - ja  
-przyrostek dla wykonawcy - karma ja  
 przystanek autobusowy - bus halte  
 przystojny, atrakcyjny, ładny - bon vide di  
 przyszłość - pos zaman  
@@ -2494,7 +2491,7 @@ Republika Konga - Brazavil Kongo
 Republika Macedonii, Macedonia - Norde Makedonia  
 Republika Środkowoafrykańska - Jong Afrika Vakilkrati  
 respekt, honor, szacunek, poważanie - onor  
-restauracja - restorante  
+restauracja - restoran  
 Reunion - Reunion  
 rezerwacja - rezerve  
 rezerwować (zarezerwować) - fa rezerve  
@@ -2532,7 +2529,7 @@ rozkaz, komenda - amir
 rozmiar - daita  
 rozmnażać - gene yo hevan  
 rozmowny - loga tabi di  
-rozproszyć, rozpraszać - anjama  
+rozproszyć, rozpraszać - anjami  
 rozróżniać (rozróżnić) - fa has  
 rozstrzępiony (podarty) - cira cira di  
 rozszczepienie jądra atomowego - kerne cira  
@@ -2575,7 +2572,7 @@ ryś - linse
 ryś rudy - rubi linse  
 ryż - varis  
 rzadki (nieczęsty) - rare  
-rzadki (rozrzedzony, rozproszony) - anjama di  
+rzadki (rozrzedzony, rozproszony) - anjami di  
 rzadko - nadir mar  
 rzadkość - rareta  
 rzecz - xe  
@@ -2648,6 +2645,7 @@ sałatka - salade
 schody (drabina) - eskale  
 seaborg - siborge yum  
 sejsmologia - sismologi  
+sekcja zwłok (obdukcja) - nekrotomi  
 sekret - sir  
 sekretariat - buro ja grupe  
 sekretarz - buro ja  
@@ -2753,8 +2751,7 @@ spokojny - xanti di
 sporokarp - fungu frute  
 sport, lekkoatletyka - esporte  
 sposób (metoda, tryb) - mode  
-spotkanie, zebranie - miti  
-spotkać - fa miti  
+spotkać (spotkanie, zebranie) - ajami  
 spowodować, powodować - fa sabu  
 społeczeństwo, system społeczny - sosi  
 społeczny - sosi di  
@@ -2848,7 +2845,7 @@ system - sistem
 systemowy - sistem di  
 sytuacja (stan) - xe hal  
 szabat, szabas - sabate  
-szachy - xatrang  
+szachy - xah gem  
 szafran - safran  
 szakal - xakal  
 szal, szalik - xal  
@@ -2966,7 +2963,7 @@ taoizm - dau din
 tapeta - mur kaguji  
 tarcza - defa bano  
 tatuaż - tatu  
-taxi, taksówka - taxi kar  
+taxi, taksówka - taxigar  
 taśma - tepe  
 taśma; bandaż - bande  
 tchórz, fretka - furete  
@@ -3053,7 +3050,7 @@ trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi) - sismo
 trzęsienie Ziemi - geo sismo  
 trójkąt - tri gona  
 trójząb - tri pike  
-trąba powietrzna (cyklon, tornado, tajfun) - rota tafun  
+trąba powietrzna (cyklon, tornado, tajfun) - rota tufan  
 tu (tutaj, tam) - a vo  
 tuba, rura - tubo  
 tul - tule yum  
@@ -3131,6 +3128,7 @@ ulubiony - max fili di
 umiejętność (kompetencja) - suta  
 umiejętny (sprawny, zręczny) - jiang di  
 umieścić (postawić) - fa loka  
+umrzeć (umierać; śmierć; martwy, nieżywy, zabity) - mata  
 umrzeć, umierać - be mata  
 umysłowy (psychiczny) - ruhu di  
 unia - un ta liga  
@@ -3333,6 +3331,7 @@ wspólny - konun
 wspólny język - konbaxa  
 współczucie - sam emos  
 współpracować (kolaborować) - kon gong  
+współpracować (kolaborować) - konkar  
 wstecz - retro  
 wstrzyknąć, wstrzykiwać - fa juxa  
 wstyd (hańba, kompromitacja) - xarma  
@@ -3401,7 +3400,7 @@ wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odnowić, o
 wzrastać - be raste  
 wzrost - raste  
 wzywać (wezwać, dodawać, dodać) - fa zai  
-wóz, wózek - kar  
+wóz, wózek - gar  
 wąchać - fa aroma  
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - dute  
 wątpliwy (niewiarygodny, podejrzany) - dutebil  
@@ -3434,10 +3433,10 @@ zaakceptować, akceptować, powiedzieć okej, mówić okej - fa oke
 zaakceptować, akceptować, powiedzieć okej, mówić okej - oke  
 zabawa, rozrywka - vanu  
 zabawny - vanu di  
-zabić, zabijać - fa mata  
+zabić, zabijać - matafa  
 zabroniony (wzbroniony, nielegalny, haram, tabu) - haram  
 zabronić (wzbronić, zakazać) - fa haram  
-zabójca - mata ja  
+zabójca - mataja  
 zachodni - veste di  
 zachowanie (maniery, kultura) - manera  
 zachować, zakonserwować, zachować, utrzymać - hafiza  
@@ -3453,6 +3452,7 @@ zagraniczny - vai dexa di
 zagrożenie, niebezpieczeństwo - hatar  
 zaimek - vise loga  
 zainteresowanie, zaciekawienie; interesujący - sabe vol  
+zajęty - haste  
 zajęty - mang  
 zaklecie - magi asar  
 zakrzywiony - kurva di  
@@ -3518,7 +3518,7 @@ założyciel - baze ja
 załącznik (przyrostek, afiks) - fixe  
 zbierać opłaty lub podatki (zebrać opłaty lub podatki) - kape yo taxi  
 zbiornik (cysterna, pojemnik, rezerwuar) - tanki  
-zbiorowy, zbiorczy - jama di  
+zbiorowy, zbiorczy - jami di  
 zbliżać się (zbliżyć się) - be karibu  
 zbroja - defa kaska  
 zbudować, budować, konstruować - fa bina  
@@ -3528,7 +3528,6 @@ zbłąkany (dewiacyjny, wykolejony) - rute galte di
 zbłąkać się (wykoleić się) - be rute galte  
 zdanie (fraza) - jumla  
 zdeaktywowany (wyłączony, zatrzymany) - anativi  
-zdeaktywowany (wyłączony, zatrzymany) - ankarma ja  
 zdjęcie (fotografia) - foto grafi  
 zdrada małżeńska, cudzołóstwo - zina  
 zdrowie - saluta  
@@ -3545,7 +3544,7 @@ zgodzić się (umówić się) - fa trati
 ziarno (nasienie) - seme  
 ziarno, nasienie - seme dana  
 zielenina - coi  
-zielony - verde  
+zielony - luga  
 ziemia, grunt, gleba - geo  
 ziemniak - patate  
 ziemny (glebowy, gruntowy) - darte di  
@@ -3594,7 +3593,7 @@ zwiększyć o jeden - max darja
 zwyciężyć (wygrać; zwycięstwo, wygrana) - jai  
 zwyczajny (rutynowy, normalny) - ada di  
 zwykły, zwyczajny, prosty - sada  
-zwłoki (trup) - mata badan  
+zwłoki (trup) - nekro  
 zygzag - zigzage  
 zyskać, zyskiwać, zarobić, zarabiać - ganya  
 ząb - dante  
@@ -3610,6 +3609,7 @@ złośliwy, okrutny - zalim
 zły (wsciekły, gniewny) - furi  
 zły los - dus zar  
 zły, zrujnowany, zepsuty - harabu  
+ćsi - tix  
 ćsi - xux  
 ćwiczenie - lenxi  
 ćwiczyć - fa lenxi  
@@ -3648,7 +3648,6 @@ zły, zrujnowany, zepsuty - harabu
 ściągać (ściągnąć, pobrać, pobierać) - nete gete  
 ślizgać się (poślizgnąć się, jeździć na łyżwach) - glis  
 śmiać się - haha  
-śmierć - mata  
 śmietnik - lasatong  
 śmieć (odpadek) - lasa  
 śniadanie - suba yam  

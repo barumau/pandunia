@@ -473,7 +473,6 @@ dur - durée
 dur di - chronique  
 dur metre gi - chronomètre  
 dus jen - ennemi  
-dus karma - méfait (péché)  
 dus vide - laid (vilain)  
 • posprodute - post-production  
 dux - douche  
@@ -544,14 +543,12 @@ fa fuku - habiller (vêtir)
 fa fuku - porter (s’habiller)  
 fa gene - donner naissance (procréer, engendrer, accoucher)  
 fa glu - coller  
-fa gong - travailler  
 fa hapu - adapter (ajuster)  
 fa hisabu - calculer  
 fa hogo - brûler  
 fa in klus - inclure  
 fa jiva - vivant  
 fa karga - charger  
-fa karma - activer (allumer, mettre en marche, déclencher)  
 fa kino - mouvoir (bouger)  
 fa kux - coucher  
 fa lai - apporter  
@@ -730,9 +727,6 @@ glu grafi - autocollant
 glu poto - argile  
 gol - but (destination)  
 gola seku - pavé  
-gong - travail  
-gong ja - travailleur (ouvrier)  
-gong mise - soumettre  
 gorila - gorille  
 goton - coton  
 grafi culi - traitement d'images  
@@ -780,6 +774,8 @@ hande xaka - bras
 hapu - approprié (adapté, convenable, opportun)  
 harabu mahala - bidonville  
 Hartum - Khartoum  
+haste - occupé  
+• anhaste - lent  
 hata - jusque (jusqu’à)  
 hata di - voire (même)  
 hatar - danger  
@@ -861,7 +857,7 @@ ite - pierre
 jaga - éveillé  
 jai - vaincre  
 jain din - jaïnisme  
-jama karte - carte à collectionner  
+jami karte - carte à collectionner  
 jamul - prune de Java  
 jan buda din - zen  
 janela - fenêtre  
@@ -951,6 +947,12 @@ kanon - classique (canon)
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanyon - canyon (ravin)  
 kape truke - piège  
+kar - travailler  
+• duskar - méfait (péché)  
+• konkar - collaborer  
+karja - travailleur (ouvrier)  
+karlexi - verbe  
+karxe - travail  
 karate - karaté  
 karate ja - karatéka  
 karbon - carbone  
@@ -964,10 +966,6 @@ kari - curry
 Karibe - Caraïbes  
 karim - générosité (charité)  
 karim di - généreux  
-karma - acte (action)  
-karma ja - agent (faiseur)  
-karma ja di - actif  
-karma loga - verbe  
 karote - carotte  
 karse - rêche (rugueux, gros)  
 karse limon - combava  
@@ -1097,7 +1095,6 @@ lazur petra - lapis-lazuli
 leng mosim - hiver  
 leng mosim di - hivernal (hibernal)  
 lense - lentille  
-lente - lent  
 letre - lettre  
 letus - laitue  
 leu - gauche  
@@ -1141,6 +1138,7 @@ long krokodil - crocodile
 long pipre - poivre long  
 long tire - tender  
 lotra - loutre  
+luga - vert  
 luka - six (6)  
 lulu table - abaque (boulier compteur)  
 luna - lune  
@@ -1183,8 +1181,6 @@ masala - épices
 maska - masque  
 masta - mât  
 master - maître  
-mata badan - cadavre (corps)  
-mata badan fili - nécrophilie  
 mate - matière  
 mate lona - matérialisme  
 matur jen - adulte  
@@ -1295,6 +1291,10 @@ nave leu - babord
 nave raite - tribord  
 nefre - rein  
 nefte - huile (pétrole)  
+nekro - cadavre (corps)  
+nekrofilia - nécrophilie  
+nekrologa - nécrologie  
+nekrotomi - autopsie  
 nelu - quatre (4)  
 nen - an (année)  
 neodim yum - néodyme  
@@ -1521,7 +1521,7 @@ rasa - race
 rasa medi - interracial  
 ratibu - ordre  
 re - répétition  
-re sikle - recycler  
+resikle - recycler  
 re zoku - reprendre  
 Ren - Rhin  
 ren yum - rhénium  
@@ -1726,6 +1726,9 @@ tis - inflammation
 tisa - neuf (9)  
 titan yum - titane  
 titi - sein  
+tix - chut  
+tix - silencieux (se taire)  
+tixta - silence  
 to jin - en avant  
 to long - loin  
 to misal - par exemple  
@@ -1805,7 +1808,6 @@ ventur ja - aventurier
 Venus - Vénus  
 ver - vrai  
 veranda - balcon  
-verde - vert  
 verme - ver  
 vermute - vermouth  
 verse - verse (face á)  
@@ -1836,6 +1838,7 @@ vutu - objet (article)
 
 ## X  
 
+xah mata - échec et mat  
 xalke - échelle  
 xam - soir (soirée)  
 xampan - Champagne  

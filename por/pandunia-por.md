@@ -359,7 +359,6 @@ dur - duração
 dur di - crónico  
 dur metre gi - cronómetro  
 dus jen - inimigo  
-dus karma - malfeitoria (pecado)  
 dus vide - feio  
 • posprodute - pós-produção  
 dux - ducha  
@@ -408,7 +407,6 @@ fa forma - modelar
 fa fuku - vestir  
 fa fuku - trajar (vestir-se)  
 fa glu - colar (aderir)  
-fa gong - trabalhar  
 fa hisabu - calcular  
 fa hogo - queimar  
 fa in klus - incluir  
@@ -422,10 +420,8 @@ fa linke - relier (connecter)
 fa loga - falar  
 fa loka - colocar (pôr)  
 fa maf - perdoar (desculpar)  
-fa mata - matar  
 fa memo - lembrar-se (recordar-se)  
 fa min rai - menosprezar (subestimar)  
-fa miti - encontrar  
 fa mol - moer  
 fa nomi - organizar  
 fa onor - honrar  
@@ -568,8 +564,6 @@ glu di - pegajoso (adesivo)
 glu grafi - adesivo  
 glu poto - argila  
 gol - meta (gol)  
-gong - trabalho  
-gong ja - trabalhador  
 gorila - gorila  
 goton - algodão  
 grafi culi - processamento de imagem  
@@ -616,6 +610,8 @@ hande xaka - braço
 hapu - apropriado (apto)  
 harabu mahala - favela  
 Hartum - Cartum  
+haste - ocupado (atarefado)  
+• anhaste - lento  
 hata - até  
 hatar - perigo  
 hazin - armazenar  
@@ -689,7 +685,8 @@ ite - pedra
 ## J  
 
 jaga - acordado  
-jama karte - cromo  
+• ajami - encontrar  
+jami karte - cromo  
 jamul - jambolão (jambo)  
 jan buda din - budismo zen  
 janela - janela  
@@ -772,6 +769,12 @@ kantalupo melon - meloa (cantalupo)
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanyon - canhão (ravina, barranco)  
 kape truke - armadilha  
+kar - trabalhar  
+• duskar - malfeitoria (pecado)  
+• konkar - colaborar  
+karja - trabalhador  
+karlexi - verbo  
+karxe - trabalho  
 karate - caratê  
 karavi - alcaravia (cariz)  
 karbon - carbono  
@@ -783,10 +786,6 @@ karga - carga (peso)
 kari - curry  
 Karibe - Caribe  
 karim - generosidade  
-karma - ato (ação)  
-karma ja - agente  
-karma ja di - ativo  
-karma loga - verbo  
 karote - cenoura  
 karse - áspero  
 karse limon - combava  
@@ -912,7 +911,6 @@ lazur petra - lápis-lazúli
 leng mosim - inverno  
 leng mosim di - invernal (hibernal)  
 lense - lente  
-lente - lento  
 letre - carta  
 letus - alface  
 leu - esquerdo  
@@ -955,6 +953,7 @@ long krokodil - crocodilo
 long tire - estirar  
 lotra - lontra  
 lou - vazar  
+luga - verde  
 luka - seis (6)  
 lulu table - ábaco  
 luna - lua  
@@ -996,8 +995,6 @@ masala - tempero
 maska - máscara  
 masta - mastro  
 master - mestre  
-mata badan - cadáver  
-mata badan fili - necrofilia  
 mate - matéria  
 mate lona - materialismo  
 mau - gato  
@@ -1099,6 +1096,10 @@ nave - barco (navio)
 nave leu - bombordo  
 nefre - rim  
 nefte - aeite (óleo)  
+nekro - cadáver  
+nekrofilia - necrofilia  
+nekrologa - obituário  
+nekrotomi - autopsía  
 nelu - quatro (4)  
 neodim yum - neodímio  
 neon - néon  
@@ -1305,7 +1306,7 @@ rare - raro
 rasa - raça  
 ratibu - ordem  
 re - repetição  
-re sikle - reciclar  
+resikle - reciclar  
 Ren - Reno  
 ren yum - rénio  
 rentegen yum - roentgênio  
@@ -1482,6 +1483,8 @@ tis - inflamaçao
 tisa - nove (9)  
 titan yum - titânio  
 titi - seio (mama)  
+tix - silencioso  
+tixta - silêncio  
 to misal - por exemplo  
 tomate - tomate  
 • dutomi - dicotomia  
@@ -1551,7 +1554,6 @@ ventur ja - aventureiro
 Venus - Vénus  
 ver - verdadeiro  
 veranda - sacada (varanda)  
-verde - verde  
 verme - verme  
 vermute - vermute  
 verse - encarar (afrontar; vérsus)  
@@ -1578,6 +1580,8 @@ vutu - item
 
 ## X  
 
+xah gem - xadrez  
+xah mata - xeque-mate  
 xalke - escama  
 xam - noitinha  
 xampan - Champagne  
