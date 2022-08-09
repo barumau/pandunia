@@ -213,6 +213,7 @@
 **cape** *print (stamp)* ← Hindi:छाप (chāp), Bengali:ছাপ (chap), Malay:cap, English:chop  
 **carme** *charm (attraction)* ← French:Portuguese:charme, English:charm, Russian:шарм (šarm)  
 **cati** *roof* ← Hindi:छत (chat); छदि (chadi), Bengali: ছাদ (chad), Turkish:çatı, kyr:чатыр (čatyr) + Arabic: سَطْح‎ (saṭḥ)  
+**cau** *grass* ← Mandarin:草 (cǎo), Cantonese:草 (cou2), Wu-Chinese:草 (tshau2), Japanese:草 (sō), Vietnamese:tháu  
 **cavi** *key* ← Portuguese:chave, Spanish:llave, Hindi:चाबी (cābi), Bengali:চাবি (cabi), Tamil: சாவி (cāvi), Wolof:caabi, Kongo:nsapi  
 **ceke** *cheque (check)* ← English:Spanish:Portuguese:cheque, French:chèque, Russian:чек (ček), Arabic: شِيك‎ (šēk), Japanese:チェック (chekku), Vietnamese:séc, Hindi:चेक (cek), Bengali:চেক (cek), Malay:cek, ind:cheki  
 **ceke** *examine (inspect, check)* ← English:check, Spanish:chequear, Portuguese:checar, deu:chekcen, Japanese:チェックする (chekkusuru)  
@@ -249,7 +250,7 @@
 **dai hai** *ocean* ← Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)  
 **dai** *big (great, large)* ← Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai,tai), Korean:대— (dae-)  
 **dalil** *proof (evidence, proof, demonstration, testimony)* ← Arabic:(dalil), Bengali:দলিল (dôlil), Swahili:dalili, Turkish:delil  
-**dama gem** *checkers (draughts)* ← French:jeu de dames, Spanish:Portuguese:damas, Arabic: ضَامَة‎ (ḍāma), Vietnamese:cờ đam, Malay:dam, Turkish:dama, deu:Damespiel  
+**dama geme** *checkers (draughts)* ← French:jeu de dames, Spanish:Portuguese:damas, Arabic: ضَامَة‎ (ḍāma), Vietnamese:cờ đam, Malay:dam, Turkish:dama, deu:Damespiel  
 **dan** *rank (grade, dan)* ←  Japanese:段 (dan), English:French:Malay:dan + Mandarin:等 (děng),  Cantonese:等 (dang2), Korean:등 (dang), Vietnamese:đẳng  
 **dana** *particle (grain, bullet)* ← Hindi:दाना (dānā), Turkish:tane + Japanese:種 (tane);銃弾 (jūdan), Mandarin:弹 (dàn), Vietnamese:đạn, Korean:탄알 (tanal)  
 **dang** *ring (toll, clang)* ← English:dong, Portuguese:dlim-dlão, Spanish:tilín, Mandarin:叮 (dīng), Japanese:がんがん (gangan), Thai:กระดิ่ง (grà-dìng)  
@@ -292,7 +293,7 @@
 **dokumen** *document (record, file)* ← English:French:document, Spanish:Portuguese:documento, Russian:документ (dokument), Japanese:ドキュメント (dokyumento), Malay:dokumen, Turkish:doküman  
 **dolfin** *dolphin* ← Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)  
 **dom** *home (house, residence)* ← Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico  
-**domino gem** *dominoes* ← English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)  
+**domino geme** *dominoes* ← English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)  
 **dong** *east (orient)* ← Mandarin:东 (dōng), Cantonese:東 (dōng), Vietnamese:đông, Korean:동 (dong), Turkish:doğu  
 **donjon ventur** *dungeon crawl* ← English:dungeon, French:donjon, Japanese:ダンジョン (danjon)  
 **dosil** *tame (docile, obedient)* ← English:French:Italian:docile, Spanish:Portuguese:dócil  
@@ -465,10 +466,10 @@
 **gaze** *gauze* ← deu:French:Portuguese:gaze, Japanese:ガーゼ (gāze), Russian:газ (gaz), English:gauze  
 **gazel** *gazelle* ← Arabic:(ḡazāl), English:French:gazelle, Russian:газель (gazel'), Japanese:ガゼル (gazeru)  
 **gazeta** *magazine (journal, gazette)* ← English:French:gazette, Russian:газета (gazeta), Swahili:gazeri, Turkish:gazete  
-**gazo** *grass* ← French:gazon, Russian:газон (gazon) +  Hindi:घास (ghās), Bengali:ঘাস (ghaś) + English:grass  
 **gei** *gay (homosexual)* ← English:French:Spanish:gay, Portuguese:guei  
-**gem** *game* ← English:game, Thai:เกม (geem), Japanese:ゲーム (gēmu), Korean:게임 (geim)  
-**gene** *birth* ← Hindi:जन्म (janma), Malayalam:ജനനം (jananaṃ), Greek: γέννα (génna), English:genesis, French:genèse  
+**gem** *sword* ← Mandarin:剑 (jiàn), Cantonese:劍 (gim3), Japanese:剣 (ken), Korean:검 (geom), Vietnamese:gươm; kiếm  
+**geme** *game* ← English:game, Japanese:ゲーム (gēmu), Korean:게임 (geim)  
+**gene** *generate (beget, produce; production, reproduction)* ← Greek: γέννα (génna), English:genesis, French:genèse + Hindi:जन्म (janma), Malayalam:ജനനം (jananaṃ) + Japanese:源 (gen)  
 **geo** *earth (ground)* ← English:Spanish:Portuguese:geo-, French:géo-, Russian:гео- (geo-)  
 **german yum** *germanium* ← English:germanium, French:germanium, Spanish:germanio, Portuguese:germânio, Russian:германий, Japanese:ゲルマニウム, Korean:게르마늄, Vietnamese:gecmani, Hindi:जर्मेनियम, Bengali:জার্মেনিয়াম, Malay:germanium, Swahili:gerimani, Arabic: جرمانيوم  
 **gi** *machine (device, aparatus)* ← Mandarin:機 (jī), Wu-Chinese:機 (ji1), Cantonese:機 (gei1), Japanese:機 (ki), Korean:기 (gi), Thai:กี่ (gìi) + jpn:器 (ki)  
@@ -711,7 +712,7 @@
 **kastana** *chestnut* ← Spanish:castaňa, Arabic:(kastanāʾ), Turkish:kestane, Russian:каштан (kaštan)  
 **kasu** *event (case, instance)* ← English:case, French:cas, Spanish:Portuguese:caso, deu:Kasus  
 **kata** *tale (story, legend, saga)* ← Hindi:कथा (kathā), Bengali:কথা (kôtha), Tamil:கதை (katai), Telugu:కత (kata), Khmer:កថា (kaʼthaa), Filipino:katha, Malay:kata + Japanese:語る (kataru)  
-**katana** *sword* ← Japanese:刀 (katana), English:Spanish:Turkish:Malay:katana, Russian:катана (katana), Bengali:কাতানা (kātānā)  
+**katana** *katana* ← Japanese:刀 (katana), English:Spanish:Turkish:Malay:katana, Russian:катана (katana), Bengali:কাতানা (kātānā)  
 **katus** *cactus* ← English:Spanish:Portuguese:French:cactus, Russian:кактус (kaktus), Turkish:kaktüs, Malay:kaktus  
 **Kaukasia** *Caucasia* ← English:Caucasia, Spanish:Cáucaso, Russian:Кавказ (Kavkaz), Turkish:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, Arabic:اَلْقَوْقَاز‎ (al-qawqāz), Hindi:कॉकस (kŏkas), Malay:Kaukasus, Mandarin:高加索 (gāojiāsuǒ)  
 **kauri** *cowrie* ← English:cowrie, French:Spanish:cauri, Russian:каури (kauri), Hindi:कौड़ी (kauṛī), Swahili:kauri  
@@ -1024,8 +1025,7 @@
 **naraka** *hell* ← Hindi:नरक (narak), Bengali:নরক (nôrôk), pan:ਨਰਕ (nark), Marathi:नर्क (nark), Telugu:నరకము (narakamu), Tamil:நரகம் (narakam), Malay:neraka, Thai:นรก (ná-rók), Japanese:奈落 (naraku)  
 **nardi** *backgammon* ← Persian:Urdu: نرد‎ (nard), Russian:нарды (nardy)  
 **narko** *drug (narcotic, dope, intoxicating substance)* ← English:narcotic, French:narcotique, Spanish:Portuguese:narcótico, Russian:наркотик (narkotik), Malay:narkotik  
-**nasi** *nation* ← Arabic:(nās) + English:French:nation, deu:Nazion, Portuguese:nação, Spanish:nación, Polish:nacja, Russian:нация (natsiya)  
-**nati** *birth* ← English:French:nature, deu:Natur, Portuguese:natureza, Spanish:naturaleza  
+**nati** *birth* ← French:naître, Spanish:Portuguese:nato, English:-nate + deu:Nazion, Polish:nacja, Russian:нация (natsiya) + Arabic:(nās)  
 **natri** *sodium* ← English:sodium, French:sodium, Spanish:sodio, Portuguese:sódio, Russian:натрий, Mandarin:钠 (nà), Japanese:ナトリウム, Korean:나트륨, Vietnamese:natri, Hindi:सोडियम, Bengali:সোডিয়াম, Malay:natrium, Swahili:natiri  
 **nau** *brain* ← Mandarin:脑 (nǎo), Cantonese:腦 (nou5), Japanese:脳  (nō), Korean:뇌 (noe), Vietnamese:não  
 **nautile** *nautilus* ← English:nautilus, Spanish:nautilo, Portuguese:nautiloide, Russian:наутилид (nautilid), Arabic:نوتي (noti), Hindi:नौटिलस (nautilas), Turkish:notilus  

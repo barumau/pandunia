@@ -266,7 +266,7 @@ Bangla dexa - Bangladés
 banka - ahorrar (reservar, depositar)  
 bankakan - banco  
 bankar - banquero  
-bano gem - juego de mesa  
+bano geme - juego de mesa  
 banya - bañera  
 banya kamar - baño  
 bar - bar  
@@ -527,6 +527,9 @@ capati - chapati (pan sin levadura)
 cape - grabado (sello, estampando)  
 carme - encanto  
 cati - techo (tejado)  
+cau - hierba  
+caumedan - césped (pasto)  
+caustan - pradera (pastizal)  
 cavi - llave  
 ceke - revisar (chequear, examinar, inspeccionar)  
 ceke - cheque  
@@ -620,7 +623,7 @@ daka - tapa (funda, cubierta)
 • andaka - destapar  
 dalil - prueba  
 dalil dokumen - certificado  
-dama gem - damas  
+dama geme - damas  
 dana - partícula (grano, bala)  
 dana sekur - antibalas  
 dang gi - campana (cencerro)  
@@ -740,7 +743,7 @@ dom di - doméstico (domesticado)
 dom zeze - mosco  
 Dominika - Dominica  
 Dominika Vakilkrati - Republica Dominicana  
-domino gem - dominó  
+domino geme - dominó  
 dong - éste  
 dong di - oriental  
 dong gorila - gorila oriental  
@@ -938,7 +941,7 @@ fa gami - casar
 fa gan - secar  
 fa gas - gasificar  
 fa gau - levantar (elevar)  
-fa gem - jugar un juego  
+fa geme - jugar un juego  
 fa gene - dar a luz (enngendrar, parir, procrear)  
 fa glu - pegar  
 fa gol - lograr (llegar)  
@@ -1312,7 +1315,7 @@ gamo di - emotivo
 gamo hal - humor  
 gamo zi - emoticón (emoyi)  
 gan - seco (árido)  
-gan gazo - heno  
+gan cau - heno  
 gan putau - pasa (uva pasa)  
 gan tela - toalla  
 Gana - Ghana  
@@ -1337,7 +1340,7 @@ garma masala - garam masala
 garma mosim - verano  
 garma mosim medi den - Midsommar  
 garma zona - trópico  
-garma zona gazo stan - sabana  
+garma zona caustan - sabana  
 gas - gas  
 gas di - gaseoso  
 gata a dante - morder  
@@ -1355,21 +1358,18 @@ gaze - gasa
 gazel - gacela  
 gazeta - revista (periódico, gaceta)  
 gazeta ja - periodista  
-gazo - hierba  
-gazo medan - césped (pasto)  
-gazo stan - pradera (pastizal)  
 gei - gay (homosexual)  
-gem - juego  
-gem ja - jugador  
-gene - nacimiento (origen)  
-gene baxa - lengua materna  
-gene den - cumpleaños  
+gem - espada  
+gemsuta - esgrima  
+geme - juego  
+geme ja - jugador  
+• exgene - exógeno  
 gene di - crudo  
 gene grupe - generación (cohorte)  
 gene klas - casta  
-genelogi - genealogía  
-gene loka - lugar de nacimiento  
-gene tipe - genotipo  
+genelogi di - genético  
+genelogu - genealogía  
+genetipe - genotipo  
 gene yo hevan - criar  
 Geo - Tierra  
 geo - tierra  
@@ -1661,7 +1661,6 @@ imperi sim ja - imperialista
 in - interior  
 in bum - implosión  
 in di - interior (interno)  
-in gene di - innato (endógeno)  
 in klus - incluido  
 in klus di - inclusivo  
 in liste - índice de contenidos  
@@ -1919,7 +1918,7 @@ kastana - castaña
 kasu - acontecimiento (caso, suceso, evento)  
 kata - historia (cuento, relato, leyenda)  
 Katalunia - Cataluña  
-katana - espada  
+katana - katana  
 katus - cacto  
 Kaukasia - Cáucaso  
 kauri - cauri  
@@ -2588,20 +2587,23 @@ nano mitre - nanometre
 naraka - infierno  
 nardi - backgammon  
 narko - droga (narcótico)  
-nasi - nación  
-nasi di - nacional  
-nasi jen - gente  
-nasi medi - internacional  
-nasi sim - nacionalismo  
-nasi sim ja - nacionalista  
-nasi sosi sim - socialismo nacional (nazismo)  
-nasi sosi sim ja - Nazi  
+nati - nacer (nacimiento)  
 • innati - innato (endógeno)  
-• posnatal - postnatal  
-• prenatal - prenatal  
+• posnati - postnatal  
+• prenati - prenatal  
 natia - nación  
-natre bilor - natrón  
+natia di - nacional  
+natiajen - gente  
+natia medi - internacional  
+natiasim - nacionalismo  
+natiasimja - nacionalista  
+natiasosiasim - socialismo nacional (nazismo)  
+natiasosiasimja - Nazi  
+natibaxa - lengua materna  
+natiden - cumpleaños  
+natiloka - lugar de nacimiento  
 natri - sodio  
+natre bilor - natrón  
 nau - cerebro  
 nau di - cerebral  
 nau hin - descerebrado  
@@ -3806,7 +3808,7 @@ vutu - objeto (artículo)
 
 ## X  
 
-xah gem - ajedrez  
+xah geme - ajedrez  
 xah mata - jaque mate  
 xaka - rama  
 xakal - chacal  

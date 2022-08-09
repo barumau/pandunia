@@ -328,7 +328,7 @@ bankar - banker
 bankarute - bankrupt (insolvent)  
 bankaxefe - bank manager  
 bano - board (pane, panel)  
-bano gem - board game  
+bano geme - board game  
 banya - bath  
 banya kamar - bathroom  
 bar - bar  
@@ -623,6 +623,10 @@ capati - flatbread (chapati, roti)
 cape - print (stamp)  
 carme - charm (attraction)  
 cati - roof  
+cau - grass  
+caukitabu - grass script (calligraphic cursive writing)  
+caumedan - lawn  
+caustan - grassland (prairie)  
 cavi - key  
 ceke - examine (inspect, check)  
 ceke - cheque (check)  
@@ -738,7 +742,7 @@ daka - cover (lid, cap, deck)
 • andaka - uncover (reveal)  
 dalil - proof (evidence, proof, demonstration, testimony)  
 dalil dokumen - certificate  
-dama gem - checkers (draughts)  
+dama geme - checkers (draughts)  
 dan - rank (grade, dan)  
 dana - particle (grain, bullet)  
 dana sekur - bulletproof  
@@ -873,7 +877,7 @@ dom di - domestic (tame)
 dom zeze - housefly  
 Dominika - Dominica  
 Dominika Vakilkrati - Dominican Republic  
-domino gem - dominoes  
+domino geme - dominoes  
 dong - east (orient)  
 dong di - eastern  
 dong gorila - eastern gorilla  
@@ -1105,7 +1109,7 @@ fa gami - marry
 fa gan - dry out  
 fa gas - gasify (vaporize)  
 fa gau - raise (lift)  
-fa gem - play a game  
+fa geme - play a game  
 fa gene - give birth (beget, generate, breed)  
 fa glu - stick (adhere, paste, glue)  
 fa gol - achieve (accomplish, arrive, reach)  
@@ -1532,7 +1536,7 @@ gamo di - emotional (emotive)
 gamo hal - mood (emotional state)  
 gamo zi - emoji (smiley, emoticon)  
 gan - dry  
-gan gazo - hay  
+gan cau - hay  
 gan mosim - dry season  
 gan putau - raisin  
 gan tela - towel  
@@ -1560,8 +1564,8 @@ garma masala - garam masala
 garma mosim - summer  
 garma mosim medi den - Midsummer Day  
 garma zona - tropics  
+garma zona caustan - savannah  
 garma zona di - tropical  
-garma zona gazo stan - savannah  
 gas - gas  
 gas di - gaseous  
 gata - cut (bite, incise)  
@@ -1584,21 +1588,23 @@ gaze - gauze
 gazel - gazelle  
 gazeta - magazine (journal, gazette)  
 gazeta ja - journalist  
-gazo - grass  
-gazo medan - lawn  
-gazo stan - grassland (prairie)  
 gei - gay (homosexual)  
-gem - game  
-gem ja - player (gamer)  
-gene - birth  
-gene baxa - native language (mother tongue)  
-gene den - birthday  
+gem - sword  
+gemdau - kendo  
+gemsuta - fencing (art of duelling with swords)  
+geme - game  
+geme ja - player (gamer)  
+gene - generate (beget, produce; production, reproduction)  
+• exgene - exogeneous  
+• poligene - polygenesis  
+• ungene - monogenesis  
 gene di - raw (crude)  
 gene grupe - generation (cohort)  
 gene klas - caste  
-genelogi - genealogy (study of descent)  
-gene loka - birthplace  
-gene tipe - genotype  
+genelogi - genetics (study of reproduction)  
+genelogi di - genetic  
+genelogu - genealogy (recording of descents)  
+genetipe - genotype  
 gene yo hevan - breed  
 Geo - Earth (Terra)  
 geo - earth (ground)  
@@ -1725,8 +1731,8 @@ haha - laugh
 hai - sea  
 hai alga - seaweed (macroalgae)  
 hai amir ja - admiral  
+hai cau - seagrass  
 hai di - maritime  
-hai gazo - seagrass  
 hai gun - sea force (navy)  
 hai hiyar - sea cucumber  
 hai hua - sea anemone  
@@ -1917,7 +1923,6 @@ imperi sim ja - imperialist
 in - inside (interior)  
 in bum - implosion  
 in di - inner (internal)  
-in gene di - innate (endogenous, indigenous, inborn)  
 in klus - including  
 in klus di - inclusive  
 in liste - table of contents (inventory)  
@@ -2212,7 +2217,7 @@ kasu - event (case, instance)
 kata - tale (story, legend, saga)  
 kata ja - narrator  
 Katalunia - Catalonia  
-katana - sword  
+katana - katana  
 katus - cactus  
 Kaukasia - Caucasia  
 kauri - cowrie  
@@ -2955,22 +2960,25 @@ nardi - backgammon
 narko - drug (narcotic, dope, intoxicating substance)  
 narkomanika - drug addict  
 narkosona - narcosis  
-nasi - nation  
-nasi di - national  
-nasi jen - people (folk)  
-nasi medi - international  
-nasi sim - nationalism  
-nasi sim ja - nationalist  
-nasi sosi sim - national socialism (Nazism)  
-nasi sosi sim ja - Nazi  
 nati - birth  
 • innati - innate (endogenous, indigenous, inborn)  
-• posnatal - postnatal  
-• prenatal - prenatal  
+• posnati - postnatal  
+• prenati - prenatal  
 • rinati - rebirth (renaissance)  
-natia - nation  
-natre bilor - natron  
+natia - nation (country of birth)  
+natia di - national  
+natiajen - people (folk)  
+natia medi - international  
+natiasim - nationalism  
+natiasimja - nationalist  
+natiasosiasim - national socialism (Nazism)  
+natiasosiasimja - Nazi  
+natibaxa - native language (mother tongue)  
+natiden - birthday  
+natiloka - birthplace  
+natistan - region of birth  
 natri - sodium  
+natre bilor - natron  
 nau - brain  
 nau di - cerebral  
 nau hin - brainless  
@@ -4336,7 +4344,7 @@ vutu - object (item, thing)
 ## X  
 
 xa - auxiliary verb that marks future tense (will, shall)  
-xah gem - chess  
+xah geme - chess  
 xah mata - checkmate  
 xaka - branch (bough)  
 xakal - jackal  

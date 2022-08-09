@@ -100,7 +100,7 @@ agujero (hueco) - kung
 ahora mismo (justo) - a neu  
 ahorrar (reservar, depositar) - banka  
 aire - air  
-ajedrez - xah gem  
+ajedrez - xah geme  
 ajo - lasun  
 ajonjolí (sésamo) - sesam  
 al revés - retro  
@@ -999,7 +999,7 @@ culpa (defecto, crimen) - doxa
 culpable - doxa di  
 cultivar - agri  
 cultura - kultur  
-cumpleaños - gene den  
+cumpleaños - natiden  
 cuna - lalabede  
 cupón (vale) - kupon  
 curar (sanar) - dava  
@@ -1017,7 +1017,7 @@ cámara - foto grafi gi
 cárcel - jelakan  
 Cáucaso - Kaukasia  
 célula - selu  
-césped (pasto) - gazo medan  
+césped (pasto) - caumedan  
 círculo - gola  
 cítrico - limon oranje  
 cóctel - mixe alkol  
@@ -1032,7 +1032,7 @@ cúpula - kupa cati
 ## D  
 
 dado - zar kube  
-damas - dama gem  
+damas - dama geme  
 danés - Danske  
 dar - da  
 dar a luz (enngendrar, parir, procrear) - fa gene  
@@ -1193,7 +1193,7 @@ dominar - maste
 domingo - den ceti  
 Dominica - Dominika  
 dominio (reinado) - krati  
-dominó - domino gem  
+dominó - domino geme  
 doméstico (domesticado) - dom di  
 dormir - be sona  
 dormitorio - sona kamar  
@@ -1364,13 +1364,14 @@ escultura (arte de escultura) - eskulte suta
 escultura (estatua) - eskulte  
 escupir (bufar) - tuh  
 ese (aquel) - vo  
+esgrima - gemsuta  
 eslabón - serime  
 eslavo - Slave  
 Eslovaquia - Slovakia  
 Eslovenia - Slovenia  
 esmeralda - zumarde  
 espacio (texto) - hali zi  
-espada - katana  
+espada - gem  
 espalda (lomo) - ruke  
 España - Espanya  
 especia - masala  
@@ -1465,6 +1466,7 @@ extraer - fa vai trata
 extraer - extrate  
 extranjero - vai dexa di  
 exógeno - vai gene di  
+exógeno - exgene  
 exónimo - vai nam  
 
 ## F  
@@ -1620,7 +1622,7 @@ gato tigre (maracayá) - margai
 gay (homosexual) - gei  
 gañar (vencer, triunfar; victoria) - jai  
 gel (jalea, gelatina) - jele  
-genealogía - genelogi  
+genealogía - genelogu  
 generación (cohorte) - gene grupe  
 general (common) - putong  
 generalísimo (sogún) - gun raja  
@@ -1630,8 +1632,9 @@ generoso (dadivoso) - databi
 generoso (dadivoso, caritativo) - karim di  
 gengibre - zinji  
 genial - kul  
-genotipo - gene tipe  
-gente - nasi jen  
+genotipo - genetipe  
+gente - natiajen  
+genético - genelogi di  
 geografía - geo grafi  
 geología - geologi  
 geometría - geo metre  
@@ -1758,7 +1761,7 @@ helecho - parne
 helicóptero - helis fei gi  
 helio - heli yum  
 hemoglobina - hemiglobin  
-heno - gan gazo  
+heno - gan cau  
 hepatitis - hepatetis  
 hercio (Hz) - herze  
 hermano o hermana - brus  
@@ -1775,7 +1778,7 @@ hexaedro (cubo) - luka fase
 hexágono - luka gona  
 hidrógeno - hidro  
 hielo - ais  
-hierba - gazo  
+hierba - cau  
 hierbabuena - kane minte  
 hierro - fero  
 higiene - salu safata  
@@ -1926,7 +1929,6 @@ inglés - englix di
 iniciar sesión - loge jin  
 inmigrante - in migra ja  
 inmigrar - in migra  
-innato (endógeno) - in gene di  
 innato (endógeno) - innati  
 innecesario - anyau di  
 innominado - nam hin  
@@ -1953,7 +1955,7 @@ interfaz - medi fase
 interfaz de línea de comandos - amir lin  
 interior (interno) - in di  
 interior - in  
-internacional - nasi medi  
+internacional - natia medi  
 Internet - internete  
 interracial - rasa medi  
 interrogativa - sual di  
@@ -2036,13 +2038,13 @@ joven - jun jen
 joven - junjen  
 judaísmo - yehudi din  
 judío - yehudi  
-juego - gem  
+juego - geme  
 juego de mazmorras - donjon ventur  
-juego de mesa - bano gem  
+juego de mesa - bano geme  
 jueves - den nelu  
 juez (árbitro, réferi) - jude ja  
-jugador - gem ja  
-jugar un juego - fa gem  
+jugador - geme ja  
+jugar un juego - fa geme  
 jugete - vanu gi  
 jugo (zumo) - jus  
 julio - mes ceti  
@@ -2061,6 +2063,7 @@ karaoke - karaoke
 karate - karate  
 karité - karite  
 Karnataka - Karnada  
+katana - katana  
 Kazajistán (Kazakistan) - Qazaqe  
 kelp - yepa alga  
 kelvin - kelvin  
@@ -2121,7 +2124,7 @@ lejos (fuera) - for
 lejos - to long  
 lengua (idioma, hablar, comunicación) - baxa  
 lengua - lisan  
-lengua materna - gene baxa  
+lengua materna - natibaxa  
 lengua mundial - dunia baxa  
 lente - lense  
 lento (despacio) - anhaste  
@@ -2206,7 +2209,7 @@ lote (grupo) - lote
 lucha - jihade  
 luchador (guerrero) - jang ja  
 lugar - loka  
-lugar de nacimiento - gene loka  
+lugar de nacimiento - natiloka  
 lujuria (deseo) - kama  
 luna - luna  
 lunes - den un  
@@ -2528,12 +2531,11 @@ músico - muzika ja
 
 ## N  
 
+nacer (nacimiento) - nati  
 nacer - be gene  
-nacimiento (origen) - gene  
-nacional - nasi di  
-nacionalismo - nasi sim  
-nacionalista - nasi sim ja  
-nación - nasi  
+nacional - natia di  
+nacionalismo - natiasim  
+nacionalista - natiasimja  
 nación - natia  
 nada - siro xe  
 nadar (flotar) - be boi  
@@ -2551,7 +2553,7 @@ nave espacial - kosmo nave
 navegador - brauza gi  
 navegar (ir en bote) - nave ga  
 Navidad - mesi gene  
-Nazi - nasi sosi sim ja  
+Nazi - natiasosiasimja  
 Naúru - Nauru  
 necesario - yau di  
 necesidad - yauta  
@@ -3012,11 +3014,11 @@ poseer (tener, ser dueño de) - fa mal
 posproducción - posprodute  
 poste (columna) - kolum  
 posterior - pos di  
-postnatal - posnatal  
+postnatal - posnati  
 postura (posición) - asan  
 potasio - kali yum  
 practicar (ensayar, ejercitar) - fa lenxi  
-pradera (pastizal) - gazo stan  
+pradera (pastizal) - caustan  
 praseodimio - prazedim yum  
 preceder (anteceder) - be cen  
 preceder (anteceder) - precese  
@@ -3029,7 +3031,7 @@ prefijo - cen fixe
 pregunta - sual  
 preguntar (inquirir) - fa sual  
 preguntarse - be sabi vol  
-prenatal - prenatal  
+prenatal - prenati  
 prensa - prese gi  
 prensa - preser  
 prensar (oprimir) - fa prese  
@@ -3343,7 +3345,7 @@ rótula - guta kaska oste
 
 ## S  
 
-sabana - garma zona gazo stan  
+sabana - garma zona caustan  
 sabbat - sabate  
 saber (conocer) - sabe  
 sabiduría (conocimiento) - sabe xe  
@@ -3495,7 +3497,7 @@ sobreescribir - vise kitabu
 sobrepasar - be supra  
 social - sosi di  
 socialismo - sosi sim  
-socialismo nacional (nazismo) - nasi sosi sim  
+socialismo nacional (nazismo) - natiasosiasim  
 socialista - sosi sim ja  
 sociedad - sosi  
 socio - partijen  

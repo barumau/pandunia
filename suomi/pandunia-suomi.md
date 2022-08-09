@@ -316,7 +316,7 @@ bankar - pankkiiri
 bankarute - vararikossa  
 bankaxefe - pankinjohtaja  
 bano - lauta (paneeli)  
-bano gem - lautapeli  
+bano geme - lautapeli  
 banya - kylpy  
 banya kamar - kylpyhuone  
 bar - baari (kapakka)  
@@ -607,6 +607,9 @@ capati - chapati
 cape - painos (leima)  
 carme - vetovoima (šarmi)  
 cati - katto (katos)  
+cau - ruoho  
+caumedan - nurmikko (ruohikko)  
+caustan - ruohotasanko  
 cavi - avain  
 ceke - tarkistaa (tsekata, tutkia)  
 ceke - šekki  
@@ -715,7 +718,7 @@ dai xulakan - yliopisto
 daka - peite (kansi)  
 • andaka - paljastaa  
 dalil - todiste (todistus, osoitus, demonstraatio)  
-dama gem - tammipeli  
+dama geme - tammipeli  
 dan - sija (taso, ranking, dan)  
 dana - jyvä (luoti)  
 dana sekur - luodinkestävä  
@@ -843,7 +846,7 @@ dom di - koti-
 dom zeze - kärpänen  
 Dominika - Dominika  
 Dominika Vakilkrati - Dominikaaninen Tasavalta  
-domino gem - dominopeli  
+domino geme - dominopeli  
 dong - itä  
 dong di - itäinen  
 dong gorila - idängorilla  
@@ -1058,7 +1061,7 @@ fa gami - naida (mennä naimisiin)
 fa gan - kuivata (kuivattaa)  
 fa gas - kaasuttaa  
 fa gau - nostaa  
-fa gem - pelata  
+fa geme - pelata  
 fa gene - synnyttää  
 fa glu - liimata  
 fa gol - saavuttaa  
@@ -1463,7 +1466,7 @@ gamo - tunne (mielenliikutus)
 gamo hal - tunnetila (tuuli)  
 gamo zi - hymiö (emoji)  
 gan - kuiva  
-gan gazo - heinä  
+gan cau - heinä  
 gan mosim - kuivakausi  
 gan putau - rusina  
 gan tela - pyyheliina  
@@ -1491,8 +1494,8 @@ garma masala - garam masala
 garma mosim - kesä (suvi)  
 garma mosim medi den - juhannus (keskikesä, mittumaari)  
 garma zona - tropiikki  
+garma zona caustan - savanni  
 garma zona di - trooppinen  
-garma zona gazo stan - savanni  
 gas - kaasu  
 gas di - kaasumainen  
 gata - leikata (purra)  
@@ -1513,19 +1516,19 @@ gaze - harso
 gazel - gaselli  
 gazeta - lehti (sanomalehti)  
 gazeta ja - toimittaja (journalisti, lehtimies)  
-gazo - ruoho  
-gazo medan - nurmikko (ruohikko)  
-gazo stan - ruohotasanko  
 gei - homo (homoseksuaali)  
-gem - peli  
-gem ja - pelaaja  
-gene - synty (syntymä)  
-gene baxa - äidinkieli  
-gene den - syntymäpäivä  
+gem - miekka  
+gemdau - kendo  
+gemsuta - miekkailu  
+geme - peli  
+geme ja - pelaaja  
+gene - tuottaa (synnyttää)  
+• exgene - ulkosyntyinen  
 gene klas - sääty (kasti)  
-genelogi - sukututkimus  
-gene loka - syntymäpaikka  
-gene tipe - perimä (genotyyppi)  
+genelogi - genetiikka  
+genelogi di - geneettinen  
+genelogu - sukututkimus  
+genetipe - perimä (genotyyppi)  
 Geo - Maa (Tellus)  
 geo - maa (maaperä)  
 geo dou - maapähkinä  
@@ -1643,8 +1646,8 @@ haha - nauraa
 hai - meri  
 hai alga - merilevä  
 hai amir ja - amiraali  
+hai cau - meriheinä  
 hai di - meri- (merellinen)  
-hai gazo - meriheinä  
 hai gun - merivoimat (sotalaivasto)  
 hai hiyar - merimakkara  
 hai hua - merivuokko  
@@ -1826,7 +1829,6 @@ imperi sim ja - imperialisti
 in - sisus (sisäpuoli)  
 in bum - luhistuminen  
 in di - sisä- (sisäinen)  
-in gene di - sisäsyntyinen  
 in klus - mukaan lukien  
 in klus di - kattava  
 in liste - sisällysluettelo  
@@ -2074,7 +2076,7 @@ kastana - kastanja
 kasu - tapaus (seikka)  
 kata - kertomus (tarina, saaga)  
 Katalunia - Katalonia  
-katana - miekka  
+katana - katana (japanilainen miekka)  
 katus - kaktus  
 Kaukasia - Kaukasia  
 kauri - posliinikotilo  
@@ -2710,20 +2712,23 @@ nardi - backgammon
 narko - huume  
 narkomanika - narkomaani (huumeriippuvainen, addikti)  
 narkosona - narkoosi  
-nasi - kansakunta  
-nasi di - kansallinen  
-nasi jen - kansa  
-nasi medi - kansainvälinen  
-nasi sim - kansallisuusaate (nationalismi)  
-nasi sim ja - nationalisti  
-nasi sosi sim - kansallissosialismi (natsismi)  
-nasi sosi sim ja - natsi  
 nati - syntyä (synty, syntymä)  
 • innati - sisäsyntyinen  
-• posnatal - syntymän jälkeinen  
-• prenatal - syntymää edeltävä  
+• posnati - syntymän jälkeinen  
+• prenati - syntymää edeltävä  
 • rinati - syntyä uudelleen  
-natia - kansakunta  
+natia - synnyinmaa (oma maa)  
+natia di - kansallinen  
+natiajen - kansa  
+natia medi - kansainvälinen  
+natiasim - kansallisuusaate (nationalismi)  
+natiasimja - nationalisti  
+natiasosiasim - kansallissosialismi (natsismi)  
+natiasosiasimja - natsi  
+natibaxa - äidinkieli  
+natiden - syntymäpäivä  
+natiloka - syntymäpaikka  
+natistan - synnyinseutu  
 natri - natrium  
 nau - aivot  
 nau hin - aivoton  
@@ -3923,7 +3928,7 @@ vutu - esine (tavara)
 ## X  
 
 xa - tulevaa aikaa merkitsevä apuverbi  
-xah gem - šakki  
+xah geme - šakki  
 xah mata - matti (šakkimatti)  
 xaka - oksa (haara)  
 xakal - šakaali  

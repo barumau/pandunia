@@ -137,7 +137,7 @@ bankakan - banco
 bankar - banqueiro  
 bankarute - bancarrota (falido)  
 bano - painel  
-bano gem - jogo de tabuleiro  
+bano geme - jogo de tabuleiro  
 bara - barrar  
 bara mur - barreira  
 barde - barba  
@@ -248,6 +248,8 @@ camaca - colher
 canse - chance  
 carme - charme  
 cati - telhado  
+cau - grama (relva)  
+caumedan - gramado  
 cavi - chave  
 ceke - cheque  
 cen den - ontem  
@@ -290,7 +292,7 @@ dai hai - oceano
 dai pau - canhǎo  
 dai seku - pedregulho  
 dalil - prova  
-dama gem - damas  
+dama geme - damas  
 dang gi - sino (campainha)  
 danse - baile (danza)  
 Danske - danês  
@@ -525,7 +527,7 @@ gami pa - sogro
 gamo - emoçao  
 gamo hal - humor  
 gamo zi - emoticon (emoji)  
-gan gazo - feno  
+gan cau - feno  
 gan tela - toalha  
 gana - cana  
 gana kalam - cálamo  
@@ -539,12 +541,12 @@ gas - gás
 gata a dante - morder  
 gata glu bano - área de transferência  
 gati - duro  
-gazo - grama (relva)  
-gazo medan - gramado  
-gene baxa - língua materna  
-genelogi - genealogia  
-gene loka - terra natal  
-gene tipe - genótipo  
+gem - espada  
+gemsuta - esgrima  
+• exgene - exógeno  
+genelogi di - genético  
+genelogu - genealogia  
+genetipe - genótipo  
 Geo - Terra  
 geo forme - terreno  
 geo grafi - geografia  
@@ -589,8 +591,8 @@ haha - rir
 hai - mar  
 hai alga - macroalga  
 hai amir ja - almirante  
+hai cau - erva marinha  
 hai di - marítimo  
-hai gazo - erva marinha  
 hai gun - marinha  
 hai hiyar - pepino-do-mar (holotúrias)  
 hai jele - medusa  
@@ -794,7 +796,6 @@ kartagrafi - cartografia
 karte - carta  
 karuba - alfarroba  
 kaska - casca (concha)  
-katana - espada  
 katus - cacto  
 kauri - búzio  
 kava - cavar (escavar)  
@@ -1083,11 +1084,14 @@ nam kitabu - assinar
 nama - carne  
 nardi - gamão  
 narko - droga (narcótico)  
-nasi - nação  
-nasi medi - internacional  
-• posnatal - pós-natal  
-• prenatal - pré-natal  
+nati - nascer  
+• posnati - pós-natal  
+• prenati - pré-natal  
 natia - nação  
+natia medi - internacional  
+natibaxa - língua materna  
+natiloka - terra natal  
+natistan - terra natal  
 natri - sódio  
 nau - cérebro  
 nau di - cerebral  
@@ -1580,7 +1584,7 @@ vutu - item
 
 ## X  
 
-xah gem - xadrez  
+xah geme - xadrez  
 xah mata - xeque-mate  
 xalke - escama  
 xam - noitinha  

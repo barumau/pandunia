@@ -436,7 +436,7 @@ cúrio - kuri yum
 
 dado - zar kube  
 dados - data  
-damas - dama gem  
+damas - dama geme  
 damasco (abricó, ameixa) - briko  
 dano (avaria) - avar  
 danês - Danske  
@@ -542,7 +542,7 @@ enxofre - sulfu
 equilíbrio - par vezeta  
 erro (falta) - galte  
 errôneo - galte di  
-erva marinha - hai gazo  
+erva marinha - hai cau  
 escama - xalke  
 escavar - exkava  
 escola (colégio) - xulakan  
@@ -556,9 +556,10 @@ escudo - oste xalke
 escultor - eskulte ja  
 escândio - eskandi yum  
 esfarrapado - cira cira di  
+esgrima - gemsuta  
 eslavo - Slave  
 esmeralda - zumarde  
-espada - katana  
+espada - gem  
 espaço - hali zi  
 espetador - speter  
 espirrar - aci  
@@ -607,6 +608,7 @@ extrair - fa vai trata
 extrair - extrate  
 exército - gun  
 exógeno - vai gene di  
+exógeno - exgene  
 
 ## F  
 
@@ -631,7 +633,7 @@ fazer - fa
 fechadura - tala  
 feio - dus vide  
 feliz - suka  
-feno - gan gazo  
+feno - gan cau  
 fermentar - be biomute  
 ferro - fero  
 fibra - lin so  
@@ -686,11 +688,12 @@ gato - mau
 gato-do-mato (gato-maracajá-mirim) - bagre oselote  
 gato-maracajá - margai  
 gelar - be ais  
-genealogia - genelogi  
+genealogia - genelogu  
 generalíssimo - gun raja  
 generosidade - karim  
 generoso (dadivoso, mão-aberta) - databi  
-genótipo - gene tipe  
+genético - genelogi di  
+genótipo - genetipe  
 geografia - geo grafi  
 geometria - geo metre  
 geopolítica - geo politi  
@@ -701,8 +704,8 @@ girassol - sol hua
 golfinho (delfim) - dolfin  
 gorila - gorila  
 governo - politi  
-grama (relva) - gazo  
-gramado - gazo medan  
+grama (relva) - cau  
+gramado - caumedan  
 granito - granite  
 gratidão - xukurta  
 graças a - a xukur de  
@@ -790,7 +793,7 @@ insônia - ansona
 inteligência artificial - artefete intelige (AI)  
 intenção - nia  
 interceptar - intercepe  
-internacional - nasi medi  
+internacional - natia medi  
 intestino (entranhas, tripa) - antra  
 invernal (hibernal) - leng mosim di  
 inverno - leng mosim  
@@ -817,7 +820,7 @@ Javé (Jeová) - Yahve
 jengibre - zinji  
 Jesus Cristo - Yesa Mesi  
 joelho - guta  
-jogo de tabuleiro - bano gem  
+jogo de tabuleiro - bano geme  
 joule (J) - jul  
 jovem - jun  
 jugo - yogo  
@@ -898,7 +901,7 @@ léxico - loga di
 líder (chefe) - lida ja  
 língua (idioma) - baxa  
 língua - lisan  
-língua materna - gene baxa  
+língua materna - natibaxa  
 lírio - susan  
 lírio-do-vale - vali susan  
 lítio - lito yum  
@@ -1029,9 +1032,9 @@ música - muzika
 ## N  
 
 nadar (flutuar) - be boi  
+nascer - nati  
 nautiloide - nautile  
 nave espacial - kosmo nave  
-nação - nasi  
 nação - natia  
 necessidade - yauta  
 necessário - yau di  
@@ -1271,7 +1274,7 @@ protacnídio - protacini yum
 protocolo - buro riti  
 prova - dalil  
 proxeneta (cafetão) - sutener  
-pré-natal - prenatal  
+pré-natal - prenati  
 punir (castigar) - fa fatu  
 punição (castigo) - fatu  
 purpúreo (roxo) - violeta nil  
@@ -1282,7 +1285,7 @@ pátria - dom dexa
 pântano - potostan  
 pão - pang  
 pícea (espruce) - pisea  
-pós-natal - posnatal  
+pós-natal - posnati  
 pós-produção - posprodute  
 quadrinhos (banda desenhada) - grafi kata  
 quando - ke sata  
@@ -1509,7 +1512,8 @@ ter (achar, receber) - na
 ter - tene  
 terminar (acabar, concluir) - pul fina  
 Terra - Geo  
-terra natal - gene loka  
+terra natal - natiloka  
+terra natal - natistan  
 terracota - baka poto  
 terraplanista - plate geo sim ja  
 terreno - geo forme  
@@ -1638,7 +1642,7 @@ waffle - vafle
 
 ## X  
 
-xadrez - xah gem  
+xadrez - xah geme  
 xeque-mate - xah mata  
 xiismo - xia islam din  
 Xiva - xiva  

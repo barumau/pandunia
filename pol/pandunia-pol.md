@@ -233,7 +233,7 @@ banka - oszczędzać (deponować)
 bankakan - bank  
 bankar - bankier  
 bano - tablica (deska)  
-bano gem - gra planszowa  
+bano geme - gra planszowa  
 banya - kąpiel  
 banya kamar - łazienka  
 bar - bar  
@@ -477,6 +477,8 @@ capati - płaski chleb, ćapati
 cape - odcisk, ślad; stempel, pieczęć  
 carme - czar (urok, wdzięk)  
 cati - dach  
+cau - trawa  
+caustan - łąka  
 cavi - klucz  
 ceke - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
 ceke - czek  
@@ -563,7 +565,7 @@ dai xulakan - uniwersytet
 daka - pokrycie; pokrywa, wieko, dekiel; pokład  
 • andaka - odsłonić, odsłaniać  
 dalil - dowód; zeznanie  
-dama gem - warcaby  
+dama geme - warcaby  
 dana - cząstka (ziarno, kula, pocisk)  
 dana sekur - kuloodporny  
 dang - dzwonić (dźwięczeć, szczękać)  
@@ -674,7 +676,7 @@ dom di - domowy
 dom zeze - mucha  
 Dominika - Dominika (Wspólnota Dominiki)  
 Dominika Vakilkrati - Republika Dominikańska (Dominikana)  
-domino gem - domino  
+domino geme - domino  
 dong - wschód  
 dong di - wschodni  
 dong gorila - goryl wschodni  
@@ -856,7 +858,7 @@ fa gami - ożenić się, poślubić, wyjść za mąż
 fa gan - suszyć (wysuszyć)  
 fa gas - zamieniać w gaz  
 fa gau - podnosić (podnieść)  
-fa gem - grać w grę  
+fa geme - grać w grę  
 fa gene - urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić  
 fa glu - lepić (kleić)  
 fa gola - otoczyć, otaczać  
@@ -1195,7 +1197,7 @@ gamo di - emocjonalny (uczuciowy)
 gamo hal - humor (nastrój)  
 gamo zi - emoji (emotkon)  
 gan - suchy  
-gan gazo - siano  
+gan cau - siano  
 gan putau - rodzynka  
 gan tela - ręcznik  
 Gana - Ghana  
@@ -1218,8 +1220,8 @@ garma masala - garam masala
 garma mosim - lato  
 garma mosim medi den - przesilenie letnie (dzień srodka lata)  
 garma zona - tropiki  
+garma zona caustan - sawanna  
 garma zona di - tropikalny  
-garma zona gazo stan - sawanna  
 gas - gaz  
 gas di - gazowy  
 gati - twardy  
@@ -1234,19 +1236,15 @@ gaze - gaza
 gazel - gazela  
 gazeta - magazyn, dziennik, gazeta  
 gazeta ja - dziennikarz  
-gazo - trawa  
-gazo stan - łąka  
 gei - gejowski (homoseksualny)  
-gem - gra  
-gem ja - gracz  
-gene - narodziny  
-gene baxa - język ojczysty (język rodzimy)  
-gene den - urodziny  
+gem - miecz  
+geme - gra  
+geme ja - gracz  
 gene di - surowy (niedojrzały)  
 gene grupe - pokolenie (generacja)  
 gene klas - kasta  
-genelogi - genealogia  
-gene tipe - genotyp  
+genelogu - genealogia  
+genetipe - genotyp  
 gene yo hevan - rozmnażać  
 geo - ziemia, grunt, gleba  
 geo dou - orzech ziemny  
@@ -1353,8 +1351,8 @@ haha - śmiać się
 hai - może  
 hai alga - wodorosty  
 hai amir ja - admirał  
+hai cau - trawa mor  
 hai di - morski  
-hai gazo - trawa mor  
 hai gun - marynarka (flota)  
 hai hiyar - strzykwa  
 hai hua - ukwiał  
@@ -1510,7 +1508,6 @@ imperi sim ja - imperialista
 in - wnętrze (środek)  
 in bum - implozja  
 in di - wewnętrzny  
-in gene di - wewnętrzny  
 in liste - spis treści (tabela zawartości)  
 in mise - importować (zaimportować)  
 in nam - endonim  
@@ -1752,7 +1749,6 @@ kastana - kasztan
 kasu - wydarzenie, przypadek, sytuacja  
 kata - opowiadanie, opowieść, legenda, saga  
 Katalunia - Katalonia  
-katana - miecz  
 katus - kaktus  
 Kaukasia - Kaukazja  
 kauri - kauri  
@@ -2394,17 +2390,20 @@ nano - nano-
 nano mitre - nanometr  
 naraka - piekło  
 narko - narkotyk  
-nasi - naród, narodowość  
-nasi di - narodowy (ludowy)  
-nasi jen - ludzie (lud, ludność)  
-nasi medi - międzynarodowy  
-nasi sim - nacjonalizm  
-nasi sim ja - nacjonalista  
-nasi sosi sim - narodowy socjalizm (nazizm)  
-nasi sosi sim ja - nazista  
+nati - narodziny  
 • innati - wewnętrzny  
-• posnatal - poporodowy  
-• prenatal - przedporodowy  
+• posnati - poporodowy  
+• prenati - przedporodowy  
+natia - naród, narodowość  
+natia di - narodowy (ludowy)  
+natiajen - ludzie (lud, ludność)  
+natia medi - międzynarodowy  
+natiasim - nacjonalizm  
+natiasimja - nacjonalista  
+natiasosiasim - narodowy socjalizm (nazizm)  
+natiasosiasimja - nazista  
+natibaxa - język ojczysty (język rodzimy)  
+natiden - urodziny  
 natri - sód  
 nau - mózg  
 nau di - mózgowy  
@@ -3516,7 +3515,7 @@ vutu - przedmiot (obiekt)
 
 ## X  
 
-xah gem - szachy  
+xah geme - szachy  
 xaka - gałąź, konar  
 xakal - szakal  
 xal - szal, szalik  

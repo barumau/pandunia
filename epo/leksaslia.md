@@ -213,6 +213,7 @@
 **cape** *presaĵo* ← hindia:छाप (chāp), bengala:ছাপ (chap), malaja:cap, angla:chop  
 **carme** ** ← franca:portugala:charme, angla:charm, rusa:шарм (šarm)  
 **cati** *tekto* ← hindia:छत (chat); छदि (chadi), bengala: ছাদ (chad), turka:çatı, kyr:чатыр (čatyr) + araba: سَطْح‎ (saṭḥ)  
+**cau** *herbo* ← mandarena:草 (cǎo), kantona:草 (cou2), vua:草 (tshau2), japana:草 (sō), vjetnama:tháu  
 **cavi** *ŝlosilo* ← portugala:chave, hispana:llave, hindia:चाबी (cābi), bengala:চাবি (cabi), tamila: சாவி (cāvi), volofa:caabi, konga:nsapi  
 **ceke** *kontroli* ← angla:check, hispana:chequear, portugala:checar, deu:chekcen, japana:チェックする (chekkusuru)  
 **ceke** *ĉeko* ← angla:hispana:portugala:cheque, franca:chèque, rusa:чек (ček), araba: شِيك‎ (šēk), japana:チェック (chekku), vjetnama:séc, hindia:चेक (cek), bengala:চেক (cek), malaja:cek, ind:cheki  
@@ -249,7 +250,7 @@
 **dai hai** *oceano* ← mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)  
 **dai** *granda* ← kantona:大 (daai), mandarena:大 (dá), vjetnama:đại, japana:(dai,tai), korea:대— (dae-)  
 **dalil** ** ← araba:(dalil), bengala:দলিল (dôlil), svahila:dalili, turka:delil  
-**dama gem** *damludo* ← franca:jeu de dames, hispana:portugala:damas, araba: ضَامَة‎ (ḍāma), vjetnama:cờ đam, malaja:dam, turka:dama, deu:Damespiel  
+**dama geme** *damludo* ← franca:jeu de dames, hispana:portugala:damas, araba: ضَامَة‎ (ḍāma), vjetnama:cờ đam, malaja:dam, turka:dama, deu:Damespiel  
 **dan** ** ←  japana:段 (dan), angla:franca:malaja:dan + mandarena:等 (děng),  kantona:等 (dang2), korea:등 (dang), vjetnama:đẳng  
 **dana** ** ← hindia:दाना (dānā), turka:tane + japana:種 (tane);銃弾 (jūdan), mandarena:弹 (dàn), vjetnama:đạn, korea:탄알 (tanal)  
 **dang** ** ← angla:dong, portugala:dlim-dlão, hispana:tilín, mandarena:叮 (dīng), japana:がんがん (gangan), taja:กระดิ่ง (grà-dìng)  
@@ -292,7 +293,7 @@
 **dokumen** *dokumento* ← angla:franca:document, hispana:portugala:documento, rusa:документ (dokument), japana:ドキュメント (dokyumento), malaja:dokumen, turka:doküman  
 **dolfin** *delfeno* ← greka:δελφίνια (delphínia), angla:dolphin, hispana:delfín, portugala:delfim, rusa:дельфин (del’fin), araba:دلفين (dulfin), japana:ドルフィン (dorufin), bengala:ডলফিন (ḍalaphina), hindia:डॉल्फ़िन (ḍŏlfin)  
 **dom** *hejmo (loĝejo)* ← rusa:дом (dom), polona:dom, latina:domus, + angla:domestic, franca:domestique, hispana:portugala:doméstico  
-**domino gem** ** ← angla:dominoes, hispana:portugala:dominó, franca:dominos, rusa:домино (domino), mandarena:多米诺 (duōmǐnuò), japana:ドミノ牌 (dominohai)  
+**domino geme** ** ← angla:dominoes, hispana:portugala:dominó, franca:dominos, rusa:домино (domino), mandarena:多米诺 (duōmǐnuò), japana:ドミノ牌 (dominohai)  
 **dong** *oriento* ← mandarena:东 (dōng), kantona:東 (dōng), vjetnama:đông, korea:동 (dong), turka:doğu  
 **donjon ventur** ** ← angla:dungeon, franca:donjon, japana:ダンジョン (danjon)  
 **dosil** ** ← angla:franca:itala:docile, hispana:portugala:dócil  
@@ -465,10 +466,10 @@
 **gaze** *gazo* ← deu:franca:portugala:gaze, japana:ガーゼ (gāze), rusa:газ (gaz), angla:gauze  
 **gazel** *gazelo* ← araba:(ḡazāl), angla:franca:gazelle, rusa:газель (gazel'), japana:ガゼル (gazeru)  
 **gazeta** *gazeto (revuo)* ← angla:franca:gazette, rusa:газета (gazeta), svahila:gazeri, turka:gazete  
-**gazo** *herbo* ← franca:gazon, rusa:газон (gazon) +  hindia:घास (ghās), bengala:ঘাস (ghaś) + angla:grass  
 **gei** *samseksema* ← angla:franca:hispana:gay, portugala:guei  
-**gem** *ludo* ← angla:game, taja:เกม (geem), japana:ゲーム (gēmu), korea:게임 (geim)  
-**gene** *nasko* ← hindia:जन्म (janma), malajala:ജനനം (jananaṃ), greka: γέννα (génna), angla:genesis, franca:genèse  
+**gem** *glavo* ← mandarena:剑 (jiàn), kantona:劍 (gim3), japana:剣 (ken), korea:검 (geom), vjetnama:gươm; kiếm  
+**geme** *ludo* ← angla:game, japana:ゲーム (gēmu), korea:게임 (geim)  
+**gene** ** ← greka: γέννα (génna), angla:genesis, franca:genèse + hindia:जन्म (janma), malajala:ജനനം (jananaṃ) + japana:源 (gen)  
 **geo** ** ← angla:hispana:portugala:geo-, franca:géo-, rusa:гео- (geo-)  
 **german yum** *germaniumo* ← angla:germanium, franca:germanium, hispana:germanio, portugala:germânio, rusa:германий, japana:ゲルマニウム, korea:게르마늄, vjetnama:gecmani, hindia:जर्मेनियम, bengala:জার্মেনিয়াম, malaja:germanium, svahila:gerimani, araba: جرمانيوم  
 **gi** *maŝino* ← mandarena:機 (jī), vua:機 (ji1), kantona:機 (gei1), japana:機 (ki), korea:기 (gi), taja:กี่ (gìi) + jpn:器 (ki)  
@@ -711,7 +712,7 @@
 **kastana** *kaŝtano* ← hispana:castaňa, araba:(kastanāʾ), turka:kestane, rusa:каштан (kaštan)  
 **kasu** ** ← angla:case, franca:cas, hispana:portugala:caso, deu:Kasus  
 **kata** *rakonto* ← hindia:कथा (kathā), bengala:কথা (kôtha), tamila:கதை (katai), teluga:కత (kata), kmera:កថា (kaʼthaa), filipina:katha, malaja:kata + japana:語る (kataru)  
-**katana** *glavo* ← japana:刀 (katana), angla:hispana:turka:malaja:katana, rusa:катана (katana), bengala:কাতানা (kātānā)  
+**katana** ** ← japana:刀 (katana), angla:hispana:turka:malaja:katana, rusa:катана (katana), bengala:কাতানা (kātānā)  
 **katus** *kaktuso* ← angla:hispana:portugala:franca:cactus, rusa:кактус (kaktus), turka:kaktüs, malaja:kaktus  
 **Kaukasia** ** ← angla:Caucasia, hispana:Cáucaso, rusa:Кавказ (Kavkaz), turka:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, araba:اَلْقَوْقَاز‎ (al-qawqāz), hindia:कॉकस (kŏkas), malaja:Kaukasus, mandarena:高加索 (gāojiāsuǒ)  
 **kauri** ** ← angla:cowrie, franca:hispana:cauri, rusa:каури (kauri), hindia:कौड़ी (kauṛī), svahila:kauri  
@@ -1024,8 +1025,7 @@
 **naraka** ** ← hindia:नरक (narak), bengala:নরক (nôrôk), pan:ਨਰਕ (nark), marataja:नर्क (nark), teluga:నరకము (narakamu), tamila:நரகம் (narakam), malaja:neraka, tha:นรก (ná-rók), japana:奈落 (naraku)  
 **nardi** ** ← persa:urdua: نرد‎ (nard), rusa:нарды (nardy)  
 **narko** *drogo* ← angla:narcotic, franca:narcotique, hispana:portugala:narcótico, rusa:наркотик (narkotik), malaja:narkotik  
-**nasi** ** ← araba:(nās) + angla:franca:nation, deu:Nazion, portugala:nação, hispana:nación, polona:nacja, rusa:нация (natsiya)  
-**nati** ** ← angla:franca:nature, deu:Natur, portugala:natureza, hispana:naturaleza  
+**nati** *naski (nasko)* ← franca:naître, hispana:portugala:nato, angla:-nate + deu:Nazion, polona:nacja, rusa:нация (natsiya) + araba:(nās)  
 **natri** *natrio* ← angla:sodium, franca:sodium, hispana:sodio, portugala:sódio, rusa:натрий, mandarena:钠 (nà), japana:ナトリウム, korea:나트륨, vjetnama:natri, hindia:सोडियम, bengala:সোডিয়াম, malaja:natrium, svahila:natiri  
 **nau** *cerbo* ← mandarena:脑 (nǎo), kantona:腦 (nou5), japana:脳  (nō), korea:뇌 (noe), vjetnama:não  
 **nautile** ** ← angla:nautilus, hispana:nautilo, portugala:nautiloide, rusa:наутилид (nautilid), araba:نوتي (noti), hindia:नौटिलस (nautilas), turka:notilus  

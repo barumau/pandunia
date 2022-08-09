@@ -226,7 +226,7 @@ bankakan - banque
 bankar - banquier  
 bankarute - failli  
 bano - tableau (panneau)  
-bano gem - jeu de société  
+bano geme - jeu de société  
 banya - bain  
 banya kamar - salle de bains  
 bara - bloquer  
@@ -354,6 +354,8 @@ camaca - cuiller
 canse - chance  
 carme - charme  
 cati - toit  
+cau - herbe (gazon)  
+caumedan - pelouse (gazon)  
 cavi - clé (clef)  
 ceke - chèque  
 cen - avant  
@@ -398,7 +400,7 @@ dai pau - canon
 dai pote - chaudron  
 dai seku - rocher  
 dalil - preuve  
-dama gem - jeu de dames  
+dama geme - jeu de dames  
 dan - rang  
 dang gi - cloche  
 danse - dance  
@@ -675,7 +677,7 @@ gami pa - beau-père
 gamo - émotion  
 gamo hal - humeur  
 gamo zi - émoticône (emoji)  
-gan gazo - foin  
+gan cau - foin  
 gan tela - serviette  
 gana - canne  
 gana kalam - calame  
@@ -686,7 +688,7 @@ ganum - blé
 gar - si  
 garma mosim - été  
 garma zona - tropique  
-garma zona gazo stan - savane  
+garma zona caustan - savane  
 gas - gaz  
 gata a dante - mordre  
 gata glu bano - presse-papier  
@@ -694,12 +696,12 @@ gati - dur
 gau - haut  
 gau tehni - hautes technologies  
 gazel - gazelle  
-gazo - herbe (gazon)  
-gazo medan - pelouse (gazon)  
-gene baxa - langue maternelle  
-genelogi - généalogie  
-gene loka - lieu de naissance  
-gene tipe - génotype  
+gem - épée  
+gemdau - kendo  
+gemsuta - escrime  
+genelogi di - génétique  
+genelogu - généalogie  
+genetipe - génotype  
 gene yo hevan - élever  
 Geo - Terre  
 geo elfe - gnome  
@@ -755,7 +757,7 @@ haha - rire
 hai - mer  
 hai alga - algues  
 hai amir ja - amiral  
-hai gazo - posidonie (herbiers marins)  
+hai cau - posidonie (herbiers marins)  
 hai gun - force navale (marine)  
 hai hiyar - concombre de mer  
 hai jele - méduse  
@@ -974,7 +976,6 @@ kartagrafi - cartographie
 karte - carte  
 karuba - caroube  
 kaska - carapace (coquille, coquillage, croûte)  
-katana - épée  
 katus - cactus  
 kauri - cauri  
 kava - creuser (fosse)  
@@ -1277,11 +1278,13 @@ nam kitabu - signer
 nama - viande  
 nardi - backgammon  
 narko - drogue (narcotique, dope)  
-nasi - nation  
-nasi medi - international  
-• posnatal - post-natal  
-• prenatal - prénatal  
+nati - naître (naissance)  
+• posnati - post-natal  
+• prenati - prénatal  
 natia - nation  
+natia medi - international  
+natibaxa - langue maternelle  
+natiloka - lieu de naissance  
 natri - sodium  
 nau - cerveau (cervelle)  
 nau di - cérébral  

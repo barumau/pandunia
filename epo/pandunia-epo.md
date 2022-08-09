@@ -163,7 +163,7 @@ bankakan - banko
 bankar - bankisto  
 bankarute - bankrota  
 bano - tabulo  
-bano gem - tabulludo  
+bano geme - tabulludo  
 banya - bano  
 banya kamar - banĉambro  
 bara - bari  
@@ -324,6 +324,7 @@ campion - ĉampiono
 canse - ŝanco  
 cape - presaĵo  
 cati - tekto  
+cau - herbo  
 cavi - ŝlosilo  
 ceke - kontroli  
 ceke - ĉeko  
@@ -379,7 +380,7 @@ dai pau ja - kanonisto
 dai seku - ŝtonego  
 dai siti - urbego  
 daka - kovrilo  
-dama gem - damludo  
+dama geme - damludo  
 danse - danco  
 Danske - dana  
 Danske dexa - Danio  
@@ -560,7 +561,7 @@ fa forma - formigi
 fa fuku - vestigi  
 fa fuku - vesti (surporti)  
 fa gami - edzigi  
-fa gem - ludi  
+fa geme - ludi  
 fa gene - naskigi  
 fa gola - ĉirkaŭi  
 fa grafi - desegni  
@@ -762,15 +763,11 @@ gau di - alta
 gaze - gazo  
 gazel - gazelo  
 gazeta - gazeto (revuo)  
-gazo - herbo  
 gei - samseksema  
-gem - ludo  
-gem ja - ludanto  
-gene - nasko  
-gene baxa - hejmlingvo  
-gene den - naskiĝtago  
-genelogi - genealogio  
-gene loka - naskiĝejo  
+gem - glavo  
+geme - ludo  
+geme ja - ludanto  
+genelogu - genealogio  
 geo grafi - geografio  
 geo metre - geometrio  
 geo sismo - tertremo  
@@ -1067,7 +1064,6 @@ karvan - karavano
 kastana - kaŝtano  
 kata - rakonto  
 Katalunia - Katalunio  
-katana - glavo  
 katus - kaktuso  
 kava - fosi  
 kavai - ĉarma  
@@ -1395,7 +1391,11 @@ Namibia - Namibio
 nan - viro  
 nanas - ananaso  
 narko - drogo  
-nasi medi - internacia  
+nati - naski (nasko)  
+natia medi - internacia  
+natibaxa - hejmlingvo  
+natiden - naskiĝtago  
+natiloka - naskiĝejo  
 natri - natrio  
 nau - cerbo  
 nau di - cerba  
@@ -1969,7 +1969,7 @@ vulva - vulvo
 ## X  
 
 xa - –os  
-xah gem - ŝako  
+xah geme - ŝako  
 xah mata - ŝakmato  
 xaka - branĉo  
 xal - koltuko  

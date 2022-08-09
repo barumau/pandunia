@@ -498,7 +498,7 @@ dolar - dolar
 dolina - vali  
 dom, mieszkanie - dom  
 Dominika (Wspólnota Dominiki) - Dominika  
-domino - domino gem  
+domino - domino geme  
 domowy - dom di  
 doradca (mentor) - mentor  
 dorosły, dojrzały - matur  
@@ -731,8 +731,8 @@ gdzie - a ke
 gdzie? - ke loka  
 gejowski (homoseksualny) - gei  
 genderqueer, niebinarny - nobi  
-genealogia - genelogi  
-genotyp - gene tipe  
+genealogia - genelogu  
+genotyp - genetipe  
 geologia - geologi  
 gepard - cita  
 german - german yum  
@@ -763,10 +763,10 @@ gorzki - kali guste
 gorączka - febre  
 gotować, szykować jedzenie - kuke  
 gotowy - redi  
-gra - gem  
-gra planszowa - bano gem  
+gra - geme  
+gra planszowa - bano geme  
 gracki, helleński; Grek - Helen di  
-gracz - gem ja  
+gracz - geme ja  
 gradient (gradacja, stopniowanie) - darja medan  
 gram - gram  
 gramatyczny - baxakanun di  
@@ -776,7 +776,7 @@ granit - granite
 gratulacje! - barka  
 gratulować; błogosławić - fa barka  
 grać muzykę - fa muzika  
-grać w grę - fa gem  
+grać w grę - fa geme  
 grać, odgrywać rolę - fa rol  
 Grecja - Helen  
 grejpfrut - putau oranje  
@@ -1030,7 +1030,7 @@ jutro - pos den
 już (skończona czynność) - fin  
 jęczmień - jau  
 język - lisan  
-język ojczysty (język rodzimy) - gene baxa  
+język ojczysty (język rodzimy) - natibaxa  
 język surinamski - surinam baxa  
 język sztuczny - fetebaxa  
 język sztuczny - sana baxa  
@@ -1408,7 +1408,7 @@ lub, albo - o
 lubić - fa fili  
 lubić, cieszyć się - be suka  
 lud, społeczeństwo - demi  
-ludzie (lud, ludność) - nasi jen  
+ludzie (lud, ludność) - natiajen  
 ludzki - insan di  
 ludzkość, rodzaj ludzki - insan jong  
 lukrecja - alkasus  
@@ -1529,7 +1529,7 @@ metr - mitre
 metro - tunel tren  
 miast, miasteczko - siti  
 miasto - nagar  
-miecz - katana  
+miecz - gem  
 miedź - kupre  
 miejsce, lokacja - loka  
 miejscowy, lokalny - loka di  
@@ -1571,7 +1571,7 @@ miód - medu
 mięczak (morski bezkręgowiec) - moluske  
 między (wśród, pośród) - a medi  
 międzyetniczny - zuku medi di  
-międzynarodowy - nasi medi  
+międzynarodowy - natia medi  
 międzyrasowy - rasa medi  
 miękki - komal  
 mięsny (umami) - umami  
@@ -1674,8 +1674,8 @@ na przykład - to misal
 nabardziej, maksymalnie - maxim  
 nabywca (kupiec) - xopi ja  
 naciskać, zostawiać ślad - fa cape  
-nacjonalista - nasi sim ja  
-nacjonalizm - nasi sim  
+nacjonalista - natiasimja  
+nacjonalizm - natiasim  
 nad - a supra  
 nadajnik radiowy - radio mise gi  
 nadawca - mise ja  
@@ -1704,11 +1704,11 @@ naprawić, naprawiać - fa xuli
 naprzód - to jin  
 narkotyk - droge  
 narkotyk - narko  
-narodowy (ludowy) - nasi di  
-narodowy socjalizm (nazizm) - nasi sosi sim  
-narodziny - gene  
+narodowy (ludowy) - natia di  
+narodowy socjalizm (nazizm) - natiasosiasim  
+narodziny - nati  
 narzędzie - tul  
-naród, narodowość - nasi  
+naród, narodowość - natia  
 nasienny - seme di  
 następny (następujący) - pos di  
 natura, środowisko - eko  
@@ -1722,7 +1722,7 @@ nawet - hata di
 nawozić (nawieźć) - fa darte bon  
 nawyk (przyzwyczajenie) - ada  
 nawóz - darte bon ja  
-nazista - nasi sosi sim ja  
+nazista - natiasosiasimja  
 nazwa użytkownika - uze ja nam  
 nazwać, nazywać, wezwać, wzywać - fa nam  
 nazwisko, imię rodziny - famili nam  
@@ -2193,7 +2193,7 @@ ponieważ, bo - a sabu de
 poniższy - nice di  
 popełnić błąd - fa galte  
 popiół - hui  
-poporodowy - posnatal  
+poporodowy - posnati  
 popołudnie - xam dia  
 poprawić, poprawiać, prostować, korygować - fa sahi  
 poprawny (wykonalny) - funsibil  
@@ -2336,7 +2336,7 @@ przeciekać, ciec - lou
 przecinek - koma  
 przeciwnie do ruchu wskazówek zegara - rota leu  
 przedmiot (obiekt) - vutu  
-przedporodowy - prenatal  
+przedporodowy - prenati  
 przedpołudnie - suba dia  
 przedrostek (prefiks) - cen fixe  
 przedłużyć, przedłużać - fa long  
@@ -2639,7 +2639,7 @@ satanista - xatan din ja
 satanizm - xatan din  
 Saturn - Saturne  
 sauna - sauna  
-sawanna - garma zona gazo stan  
+sawanna - garma zona caustan  
 sałata - letus  
 sałatka - salade  
 schody (drabina) - eskale  
@@ -2667,7 +2667,7 @@ Seszele - Sexel nesi
 sezam - sesam  
 sfermentowany - biomute di  
 shintoizm, sintoizm - xindau din  
-siano - gan gazo  
+siano - gan cau  
 siarka - sulfu  
 siedem (7) - ceti  
 siedzenie (siodło) - side loka  
@@ -2845,7 +2845,7 @@ system - sistem
 systemowy - sistem di  
 sytuacja (stan) - xe hal  
 szabat, szabas - sabate  
-szachy - xah gem  
+szachy - xah geme  
 szafran - safran  
 szakal - xakal  
 szal, szalik - xal  
@@ -3031,8 +3031,8 @@ towarzysz (partner, kumpel) - late jen
 traktor (ciągnik) - trata gi  
 traktować - fa culi  
 transport - traporte  
-trawa - gazo  
-trawa mor - hai gazo  
+trawa - cau  
+trawa mor - hai cau  
 treść (zawartość) - in xe  
 tropikalny - garma zona di  
 tropiki - garma zona  
@@ -3142,7 +3142,7 @@ Uran - Uran
 uran - uran yum  
 urdu - urdu  
 uroczy, słodki - kavai  
-urodziny - gene den  
+urodziny - natiden  
 urodzić się, rodzić się - be gene  
 urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić - fa gene  
 urosnąć, rosnąć, wzrosnąć, wzrastać - be dai  
@@ -3185,7 +3185,7 @@ wanilia - vanila
 wapień - kalsi petra  
 wapno - kalsi mate  
 wapń - kalsi yum  
-warcaby - dama gem  
+warcaby - dama geme  
 warga - labi  
 warstwa (poziom, piętro, kondygnacja) - ceng  
 warsztat szewski - sapatukan  
@@ -3217,7 +3217,6 @@ wersja (wariacja, edycja, wydanie) - version
 wesoły, ucieszony - suka  
 wesprzeć (wzmocnić, zasilić) - fa max lika  
 wewnętrzny - in di  
-wewnętrzny - in gene di  
 wewnętrzny - innati  
 wełna (runo owcze) - meme kexa  
 wiadomość - anjil  
@@ -3639,7 +3638,7 @@ zły, zrujnowany, zepsuty - harabu
 łóżko - bede  
 łączyć (złączyć) - be yung liga  
 łączyć, wiązać, złączyć - fa linke  
-łąka - gazo stan  
+łąka - caustan  
 Śiwa - xiva  
 Święta Helena - Sante Helena  
 ścieżka (droga, szlak, kurs) - rute  

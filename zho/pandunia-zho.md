@@ -138,7 +138,7 @@ banda - 班  (一帮)
 bandera - 旗  
 bankakan - 银行  
 bano - 板子  
-bano gem - 版图游戏  
+bano geme - 版图游戏  
 banya - 洗澡  
 banya kamar - 浴室  
 bari yum - 钡  
@@ -245,6 +245,8 @@ cakra - 轮子
 camaca - 匙子  
 cana - 刹那  
 cati - 屋顶 (房顶)  
+caukitabu - 草书  
+caumedan - 草地  
 cavi - 钥匙 (锁匙)  
 ceke - 检查  
 ceke - 支票  
@@ -284,7 +286,7 @@ dai hai - 大洋 (大海)
 dai pau - 大炮  
 dai pote - 炼药锅  
 dai seku - 磐石  
-dama gem - 跳棋  
+dama geme - 跳棋  
 dan - 等 (段)  
 dang gi - 钟 (摇铃)  
 Danske - 丹麦的  
@@ -495,7 +497,7 @@ galte - 错误
 gamba - 虾  
 gamo hal - 心情  
 gamo zi - 绘文字  
-gan gazo - 干草  
+gan cau - 干草  
 gana - 秆  
 gana kalam - 蘆葦筆  
 gani - 歌  
@@ -506,18 +508,18 @@ ganum - 麦
 gar - 如果 (要是)  
 garma mosim - 夏季  
 garma zona - 热带  
-garma zona gazo stan - 稀树草原  
+garma zona caustan - 稀树草原  
 gata a dante - 咬  
 gata glu bano - 剪贴板  
 gati - 硬  
 gati mate - 固体  
 gau tehni - 高科技 (高技术)  
-gazo medan - 草地  
-gene baxa - 母语  
+gem - 剑  
+gemdau - 剑道  
+gemsuta - 击剑  
 gene di - 生的  
-genelogi - 系谱学  
-gene loka - 出生地  
-gene tipe - 基因型  
+genelogu - 系谱学  
+genetipe - 基因型  
 geo forme - 地势  
 geo grafi - 地理  
 geo metre - 几何学  
@@ -569,7 +571,7 @@ haha - 笑
 hai - 海  
 hai alga - 海藻  
 hai amir ja - 海军上将  
-hai gazo - 海草  
+hai cau - 海草  
 hai gun - 海军  
 hai hiyar - 海參  
 hai hua - 海葵  
@@ -768,7 +770,6 @@ karta - 地图
 kartagrafi - 地图学  
 karte - 牌  
 kaska - 壳 (皮)  
-katana - 剑  
 katus - 仙人掌  
 kauri - 宝贝  
 kava - 挖 (坑, 穴)  
@@ -1039,9 +1040,11 @@ nam hin - 无名
 nam kitabu - 签署  
 nama - 肉  
 narko - 毒品 (麻醉. 麻药 )  
-nasi medi - 国际  
-• posnatal - 产后  
-• prenatal - 产前  
+• posnati - 产后  
+• prenati - 产前  
+natia medi - 国际  
+natibaxa - 母语  
+natiloka - 出生地  
 natri - 钠  
 nau - 脑  
 nau di - 大脑的  

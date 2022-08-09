@@ -290,7 +290,7 @@ banka.r|bankar||||banker|banquier|banquero|banqueiro||||||||||||bankisto|pankkii
 banka.rute|bankarute||||bankrupt (insolvent)|failli||bancarrota (falido)|банкрот|||||||||||bankrota|vararikossa|
 banka.xefe|bankaxefe||||bank manager||||||||||||||||pankinjohtaja|
 bano|bano|||zho:板 (bǎn), yue:板 (baan2), jpn:板 (ban), kor:판자 (panja), vie:bảng, tha:บาน (baan) + may:papan + swa:bao + eng:spa:panel, fra:panneau, rus:панель, tur:pano|board (pane, panel)|tableau (panneau)||painel|доска (панель)||板子|板|판자||तख़्ता|তক্তা|papan|bao|tahta (pano)|tabulo|lauta (paneeli)|tablica (deska)
-bano.gem|bano gem||||board game|jeu de société|juego de mesa|jogo de tabuleiro|настольная игра||版图游戏|ボードゲーム|보드 게임|||||||tabulludo|lautapeli|gra planszowa
+bano.geme|bano geme||||board game|jeu de société|juego de mesa|jogo de tabuleiro|настольная игра||版图游戏|ボードゲーム|보드 게임|||||||tabulludo|lautapeli|gra planszowa
 banya|banya|||spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|bath|bain|bañera||купание||洗澡|||||||bafu||bano|kylpy|kąpiel
 banya.kamar|banya kamar||||bathroom|salle de bains|baño||ванная||浴室|||||||||banĉambro|kylpyhuone|łazienka
 bar|bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar||bar||||||||||||||baari (kapakka)|bar
@@ -583,6 +583,10 @@ capati|capati|||hin:चपाती (ćapātī), urd:(ćapātī), eng:swa:chapat
 cape|cape|||hin:छाप (chāp), ben:ছাপ (chap), may:cap, eng:chop|print (stamp)||grabado (sello, estampando)||||||||छाप|ছাপ||||presaĵo|painos (leima)|odcisk, ślad; stempel, pieczęć
 carme|carme|||fra:por:charme, eng:charm, rus:шарм (šarm)|charm (attraction)|charme|encanto|charme|шарм||||||||||||vetovoima (šarmi)|czar (urok, wdzięk)
 cati|cati|||hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)|roof|toit|techo (tejado)|telhado|крыша (кров)|سَطْح‎|屋顶 (房顶)|屋根|지붕|mái|छत (छदि)|ছাদ|atap|paa|çatı|tekto|katto (katos)|dach
+cau|cau|bio||zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|grass|herbe (gazon)|hierba|grama (relva)|трава|||草||||||||herbo|ruoho|trawa
+cau.kitabu|caukitabu||||grass script (calligraphic cursive writing)||||цаошу||草书|草書|초서|thảo thư||||||||
+cau.medan|caumedan||||lawn|pelouse (gazon)|césped (pasto)|gramado|газон||草地|芝生|||||||çimenlik||nurmikko (ruohikko)|
+cau.stan|caustan||||grassland (prairie)||pradera (pastizal)|||||草地|||||||||ruohotasanko|łąka
 cavi|cavi|||por:chave, spa:llave, hin:चाबी (cābi), ben:চাবি (cabi), tam: சாவி (cāvi), wol:caabi, kon:nsapi|key|clé (clef)|llave|chave|ключ|مِفْتَاح‎|钥匙 (锁匙)|鍵|열쇠|chìa khoá|ताली (चाबी, कुंजी)|চাবি|kunci|ufunguo|anahtar|ŝlosilo|avain|klucz
 ceke|ceke|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|examine (inspect, check)||revisar (chequear, examinar, inspeccionar)||||检查|||||||||kontroli|tarkistaa (tsekata, tutkia)|sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać
 ceke|ceke|||eng:spa:por:cheque, fra:chèque, rus:чек (ček), ara: شِيك‎ (šēk), jpn:チェック (chekku), vie:séc, hin:चेक (cek), ben:চেক (cek), may:cek, ind:cheki|cheque (check)|chèque|cheque|cheque|чек|شِيك‎|支票|小切手 (チェック)|수표|séc (chi phiếu)|चेक|চেক|cek|cheki|çek|ĉeko|šekki|czek
@@ -696,7 +700,7 @@ daka|daka||||cover (lid, cap, deck)||tapa (funda, cubierta)||||||||ढक्क�
 daka-an|• andaka||||uncover (reveal)||destapar||||||||||||||paljastaa|odsłonić, odsłaniać
 dalil|dalil|||ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|proof (evidence, proof, demonstration, testimony)|preuve|prueba|prova|доказательство||||||||||||todiste (todistus, osoitus, demonstraatio)|dowód; zeznanie
 dalil.dokumen|dalil dokumen||||certificate||certificado|||||証明書||||||||||
-dama.gem|dama gem|||fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel|checkers (draughts)|jeu de dames|damas|damas|шашки|ضَامَة‎|跳棋|チェッカー (西洋碁)|체커|cờ đam|चेकर्स (ड्राफ़्टस)|চেকারস|dam|drafti|dama|damludo|tammipeli|warcaby
+dama.geme|dama geme|||fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel|checkers (draughts)|jeu de dames|damas|damas|шашки|ضَامَة‎|跳棋|チェッカー (西洋碁)|체커|cờ đam|चेकर्स (ड्राफ़्टस)|চেকারস|dam|drafti|dama|damludo|tammipeli|warcaby
 dan|dan||| jpn:段 (dan), eng:fra:may:dan + zho:等 (děng),  yue:等 (dang2), kor:등 (dang), vie:đẳng|rank (grade, dan)|rang|||ранг||等 (段)|段 (等)||đẳng|||||||sija (taso, ranking, dan)|
 dana|dana|||hin:दाना (dānā), tur:tane + jpn:種 (tane);銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|particle (grain, bullet)||partícula (grano, bala)||||||||||||tane||jyvä (luoti)|cząstka (ziarno, kula, pocisk)
 dana.sekur|dana sekur||||bulletproof||antibalas||||||||||||||luodinkestävä|kuloodporny
@@ -831,7 +835,7 @@ dom.di|dom di||||domestic (tame)|domestique|doméstico (domesticado)|doméstico|
 dom.zeze|dom zeze|bio|Musca domestica||housefly|mouche|mosco||муха|||||||||||muŝo|kärpänen|mucha
 Dominika|Dominika|dexa|DM||Dominica||Dominica||||||||||||||Dominika|Dominika (Wspólnota Dominiki)
 Dominika.Vakil.krati|Dominika Vakilkrati|dexa|DO||Dominican Republic||Republica Dominicana||Доминиканская Республика|||ドミニカ共和国|||दोमिनिकन गणराज्||Republik Dominika|Jamhuri ya Dominika|Dominik Cumhuriyeti||Dominikaaninen Tasavalta|Republika Dominikańska (Dominikana)
-domino.gem|domino gem|||eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|dominoes||dominó||||||||||||||dominopeli|domino
+domino.geme|domino geme|||eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|dominoes||dominó||||||||||||||dominopeli|domino
 dong|dong|||zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|east (orient)|east (orient)|éste|este (leste)|восток (ост)||东|東|동|đông|पूर्व|পূর্ব|timur|mashariki|doğu|oriento|itä|wschód
 dong.di|dong di||||eastern||oriental||||||||||||||itäinen|wschodni
 dong.gorila|dong gorila|bio|Gorilla beringei||eastern gorilla||gorila oriental||восточная горилла|||ヒガシゴリラ|||||||||idängorilla|goryl wschodni
@@ -1059,7 +1063,7 @@ fa.gami|fa gami||||marry||casar|||||||||||||edzigi|naida (mennä naimisiin)|oże
 fa.gan|fa gan||||dry out||secar||||||||||||||kuivata (kuivattaa)|suszyć (wysuszyć)
 fa.gas|fa gas||||gasify (vaporize)||gasificar||||||||||||||kaasuttaa|zamieniać w gaz
 fa.gau|fa gau||||raise (lift)||levantar (elevar)||||||||||||||nostaa|podnosić (podnieść)
-fa.gem|fa gem||||play a game||jugar un juego|||||||||||||ludi|pelata|grać w grę
+fa.geme|fa geme||||play a game||jugar un juego|||||||||||||ludi|pelata|grać w grę
 fa.gene|fa gene||||give birth (beget, generate, breed)|donner naissance (procréer, engendrer, accoucher)|dar a luz (enngendrar, parir, procrear)||родить|||生む||||||||naskigi|synnyttää|urodzić, rodzić; rozmnożyć się, rozmnażać się, spłodzić, płodzić
 fa.glu|fa glu||||stick (adhere, paste, glue)|coller|pegar|colar (aderir)|клеиться|||張る (付く)|||||||||liimata|lepić (kleić)
 fa.gol|fa gol||||achieve (accomplish, arrive, reach)||lograr (llegar)||||||||||||||saavuttaa|
@@ -1484,7 +1488,7 @@ gamo.di|gamo di||||emotional (emotive)||emotivo||эмоциональный|||||
 gamo.hal|gamo hal||||mood (emotional state)|humeur|humor|humor|настроение||心情|||||||||animstato|tunnetila (tuuli)|humor (nastrój)
 gamo.zi|gamo zi||||emoji (smiley, emoticon)|émoticône (emoji)|emoticón (emoyi)|emoticon (emoji)|смайлик (эмодзи)||绘文字|絵文字|에모지||इमोजी||||emoji||hymiö (emoji)|emoji (emotkon)
 gan|gan|||zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon)|dry||seco (árido)|||||||||||||seka|kuiva|suchy
-gan.gazo|gan gazo||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
+gan.cau|gan cau||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
 gan.mosim|gan mosim|mosim|||dry season||||||||||||musim kemarau||||kuivakausi|
 gan.putau|gan putau|||kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|raisin||pasa (uva pasa)|||||||||||||sekvinbero|rusina|rodzynka
 gan.tela|gan tela||||towel|serviette|toalla|toalha|||||||तौलिया|||||viŝilo|pyyheliina|ręcznik
@@ -1512,8 +1516,8 @@ garma.masala|garma masala||||garam masala||garam masala||||||||||||||garam masal
 garma.mosim|garma mosim|mosim|||summer|été|verano|verão|лето||夏季|夏|||ग्रीष्म ऋतु||musim panas|kaskazi|yaz|somero|kesä (suvi)|lato
 garma.mosim.medi.den|garma mosim medi den||||Midsummer Day||Midsommar||||||||||||||juhannus (keskikesä, mittumaari)|przesilenie letnie (dzień srodka lata)
 garma.zona|garma zona||||tropics|tropique|trópico|trópicos|тропик||热带|熱帯|||||||||tropiikki|tropiki
+garma.zona.cau.stan|garma zona caustan||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
 garma.zona.di|garma zona di||||tropical||||||||||||||||trooppinen|tropikalny
-garma.zona.gazo.stan|garma zona gazo stan||||savannah|savane|sabana||||稀树草原|サバンナ|||||||||savanni|sawanna
 gas|gas|||deu:eng:spa:may:gas, por:gás, ben:গ্যাস (gyas), jpn:ガス (gasu), kor:가스 (gaseu), hin:गैस (gais), fra:tur:gaz, rus:газ (gaz), ara:(ḡāz), swa:gesi|gas|gaz|gas|gás|газ||||||गैस||gas|gesi|gaz|gaso|kaasu|gaz
 gas.di|gas di||||gaseous||gaseoso||||||||||||||kaasumainen|gazowy
 gata|gata|||ara: قَطَعَ (qaṭa’a) + zho:割 (gē), yue:割 (got3), wuu:割 (ga’), jpn:割 (katsu), vie:cắt + hin:काटना (kāṭnā), ben:কাটা (kata) + tam:கடி (kaṭi) + tha:กัด (kat) + eng:cut + swa:-kata|cut (bite, incise)|||||مَضَغَ‎||||cắt|काटना||||||leikata (purra)|
@@ -1536,21 +1540,23 @@ gaze|gaze|||deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauze
 gazel|gazel|bio||ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|gazelle|gazelle|gacela||газель|||ガゼル||||||||gazelo|gaselli|gazela
 gazeta|gazeta|||eng:fra:gazette, rus:газета (gazeta), swa:gazeri, tur:gazete|magazine (journal, gazette)||revista (periódico, gaceta)||газета|||||||||gazeti|gazete|gazeto (revuo)|lehti (sanomalehti)|magazyn, dziennik, gazeta
 gazeta.ja|gazeta ja||||journalist||periodista||||||||||||||toimittaja (journalisti, lehtimies)|dziennikarz
-gazo|gazo|bio||fra:gazon, rus:газон (gazon) +  hin:घास (ghās), ben:ঘাস (ghaś) + eng:grass|grass|herbe (gazon)|hierba|grama (relva)|трава|||草||||||||herbo|ruoho|trawa
-gazo.medan|gazo medan||||lawn|pelouse (gazon)|césped (pasto)|gramado|газон||草地|芝生|||||||çimenlik||nurmikko (ruohikko)|
-gazo.stan|gazo stan||||grassland (prairie)||pradera (pastizal)|||||草地|||||||||ruohotasanko|łąka
 gei|gei|||eng:fra:spa:gay, por:guei|gay (homosexual)||gay (homosexual)|||||||||||||samseksema|homo (homoseksuaali)|gejowski (homoseksualny)
-gem|gem|||eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|game||juego|||||||||||||ludo|peli|gra
-gem.ja|gem ja||||player (gamer)||jugador||игрок (геймер)|||||||||||ludanto|pelaaja|gracz
-gene|gene|||hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|birth||nacimiento (origen)|||||||||||||nasko|synty (syntymä)|narodziny
-gene.baxa|gene baxa||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
-gene.den|gene den||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
+gem|gem|||zho:剑 (jiàn), yue:劍 (gim3), jpn:剣 (ken), kor:검 (geom), vie:gươm; kiếm|sword|épée|espada|espada|меч||剑|剣|검||तलवार||pedang||kılıç|glavo|miekka|miecz
+gem.dau|gemdau||||kendo|kendo|||кэндо||剑道|剣道|검도||||kendo||||kendo|
+gem.suta|gemsuta||||fencing (art of duelling with swords)|escrime|esgrima|esgrima|фехтование||击剑|剣術|검술||||||||miekkailu|
+geme|geme|||eng:game, jpn:ゲーム (gēmu), kor:게임 (geim)|game||juego|||||||||||||ludo|peli|gra
+geme.ja|geme ja||||player (gamer)||jugador||игрок (геймер)|||||||||||ludanto|pelaaja|gracz
+gene|gene|||ell: γέννα (génna), eng:genesis, fra:genèse + hin:जन्म (janma), mal:ജനനം (jananaṃ) + jpn:源 (gen)|generate (beget, produce; production, reproduction)||||||||||||||||tuottaa (synnyttää)|
+gene-ex|• exgene||||exogeneous||exógeno|exógeno|экзогенный||||||||||||ulkosyntyinen|
+gene-poli|• poligene||||polygenesis|||||||||||||||||
+gene-un|• ungene||||monogenesis|||||||||||||||||
 gene.di|gene di||||raw (crude)||crudo||сырой||生的|生 (未熟)||||||||||surowy (niedojrzały)
 gene.grupe|gene grupe||||generation (cohort)||generación (cohorte)||поколение|||||||||||||pokolenie (generacja)
 gene.klas|gene klas||||caste||casta||||||||||||||sääty (kasti)|kasta
-gene.logi|genelogi||||genealogy (study of descent)|généalogie|genealogía|genealogia|генеалогия||系谱学|系譜学|계보학|gia phả học|||genealogi||soy bilimi (jeneoloji)|genealogio|sukututkimus|genealogia
-gene.loka|gene loka||||birthplace|lieu de naissance|lugar de nacimiento|terra natal|место рождения||出生地|出生地|출생지|nơi sinh (sinh quán)|जन्मस्थान||||doğum yeri|naskiĝejo|syntymäpaikka|
-gene.tipe|gene tipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
+gene.logi|genelogi||||genetics (study of reproduction)||||||||||||||||genetiikka|
+gene.logi.di|genelogi di||||genetic|génétique|genético|genético|генетический||||||||||||geneettinen|
+gene.logu|genelogu||||genealogy (recording of descents)|généalogie|genealogía|genealogia|генеалогия||系谱学|系譜学|계보학|gia phả học|||genealogi||soy bilimi (jeneoloji)|genealogio|sukututkimus|genealogia
+gene.tipe|genetipe||||genotype|génotype|genotipo|genótipo|генотип||基因型|遺伝子型|||||||||perimä (genotyyppi)|genotyp
 gene.yo.hevan|gene yo hevan||||breed|élever|criar||выращивать|||湧かす||||||||||rozmnażać
 Geo|Geo|planete 3|||Earth (Terra)|Terre|Tierra|Terra|Земля|الأرض|||||||||Yer||Maa (Tellus)|
 geo|geo|||eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|earth (ground)||tierra|||||地|||||||||maa (maaperä)|ziemia, grunt, gleba
@@ -1676,8 +1682,8 @@ haha|haha|||eng:fra:por:tur:haha, spa:jaja, rus:ха-ха (ha-ha), zho:哈哈 (h
 hai|hai|||zho:海 (hǎi), yue:海 (hoi2), jpn:海 (kai), kor:해양 (haeyang), vie:hải|sea|mer|mar|mar|море||海|海|바다 (해양)|biển (hải)|समन्दर (समुद्र)|সাগর (সমুদ্র)|laut (samudera)|bahari|deniz|maro|meri|może
 hai.alga|hai alga|bio|||seaweed (macroalgae)|algues|macroalga|macroalga|морские водоросли||海藻|海藻|||||rumpai laut||||merilevä|wodorosty
 hai.amir.ja|hai amir ja||||admiral|amiral|almirante|almirante|адмирал|أَمِيرُ البَحْر‎|海军上将|提督 (海軍大将) |제독|đô đốc|ऐडमिरल||laksamana||oramiral|admiralo (ŝiparestro)|amiraali|admirał
+hai.cau|hai cau|bio|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari|||meriheinä|trawa mor
 hai.di|hai di||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
-hai.gazo|hai gazo|bio|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari|||meriheinä|trawa mor
 hai.gun|hai gun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai.hiyar|hai hiyar|bio|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat||||merimakkara|strzykwa
 hai.hua|hai hua|bio|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran||||merivuokko|ukwiał
@@ -1866,7 +1872,6 @@ imperi.sim.ja|imperi sim ja||||imperialist||imperialista||||||||||||||imperialis
 in|in|||eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|inside (interior)||interior|||||内||||||||eno|sisus (sisäpuoli)|wnętrze (środek)
 in.bum|in bum||||implosion|implosion|implosión|imploção|имплозия||内爆||||||||||luhistuminen|implozja
 in.di|in di||||inner (internal)||interior (interno)|||||||||||||ena|sisä- (sisäinen)|wewnętrzny
-in.gene.di|in gene di||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
 in.klus|in klus||||including|y compris|incluido|incluindo|||||||||||||mukaan lukien|
 in.klus.di|in klus di||||inclusive|inclusif|inclusivo|inclusivo|||||||||||||kattava|
 in.liste|in liste||||table of contents (inventory)||índice de contenidos||||||||||||||sisällysluettelo|spis treści (tabela zawartości)
@@ -2157,7 +2162,7 @@ kasu|kasu|||eng:case, fra:cas, spa:por:caso, deu:Kasus|event (case, instance)||a
 kata|kata|||hin:कथा (kathā), ben:কথা (kôtha), tam:கதை (katai), tel:కత (kata), khm:កថា (kaʼthaa), tgl:katha, may:kata + jpn:語る (kataru)|tale (story, legend, saga)||historia (cuento, relato, leyenda)|||||||||||||rakonto|kertomus (tarina, saaga)|opowiadanie, opowieść, legenda, saga
 kata.ja|kata ja||||narrator|||||||||||||||||
 Katalunia|Katalunia||||Catalonia||Cataluña|||||||||||||Katalunio|Katalonia|Katalonia
-katana|katana|||jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)|sword|épée|espada|espada|меч||剑|刀 (剣)|||तलवार||pedang||kılıç|glavo|miekka|miecz
+katana|katana|||jpn:刀 (katana), eng:spa:tur:may:katana, rus:катана (katana), ben:কাতানা (kātānā)|katana||katana||катана|||刀|||||||||katana (japanilainen miekka)|
 katus|katus|bio|Cactaceae|eng:spa:por:fra:cactus, rus:кактус (kaktus), tur:kaktüs, may:kaktus|cactus|cactus|cacto|cacto|кактус||仙人掌|サボテン|||||kaktus||kaktüs|kaktuso|kaktus|kaktus
 Kaukasia|Kaukasia|||eng:Caucasia, spa:Cáucaso, rus:Кавказ (Kavkaz), tur:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, ara:اَلْقَوْقَاز‎ (al-qawqāz), hin:कॉकस (kŏkas), may:Kaukasus, zho:高加索 (gāojiāsuǒ)|Caucasia||Cáucaso||||||||||||||Kaukasia|Kaukazja
 kauri|kauri|bio|Cypraea|eng:cowrie, fra:spa:cauri, rus:каури (kauri), hin:कौड़ी (kauṛī), swa:kauri|cowrie|cauri|cauri|búzio|каури||宝贝|宝貝||||||kauri|||posliinikotilo|kauri
@@ -2897,22 +2902,25 @@ nardi|nardi|||fas:urd: نرد‎ (nard), rus:нарды (nardy)|backgammon|backg
 narko|narko|||eng:narcotic, fra:narcotique, spa:por:narcótico, rus:наркотик (narkotik), may:narkotik|drug (narcotic, dope, intoxicating substance)|drogue (narcotique, dope)|droga (narcótico)|droga (narcótico)|наркотик||毒品 (麻醉. 麻药 )|麻薬|마약|ma túy|मादक (नशा)|নেশা|narkotik||uyuşturucu (narkotik)|drogo|huume|narkotyk
 narko.mani.ka|narkomanika||||drug addict|||||||||||নেশাখোর|||||narkomaani (huumeriippuvainen, addikti)|
 narko.sona|narkosona||||narcosis||||||||||||||||narkoosi|
-nasi|nasi|||ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|nation|nation|nación|nação|нация||||||||||||kansakunta|naród, narodowość
-nasi.di|nasi di||||national||nacional||||||||||||||kansallinen|narodowy (ludowy)
-nasi.jen|nasi jen||||people (folk)||gente||||||||||||||kansa|ludzie (lud, ludność)
-nasi.medi|nasi medi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
-nasi.sim|nasi sim||||nationalism||nacionalismo||||||||||||||kansallisuusaate (nationalismi)|nacjonalizm
-nasi.sim.ja|nasi sim ja||||nationalist||nacionalista||||||||||||||nationalisti|nacjonalista
-nasi.sosi.sim|nasi sosi sim||||national socialism (Nazism)||socialismo nacional (nazismo)||||||||||||||kansallissosialismi (natsismi)|narodowy socjalizm (nazizm)
-nasi.sosi.sim.ja|nasi sosi sim ja||||Nazi||Nazi||||||||||||||natsi|nazista
-nati|nati|||eng:fra:nature, deu:Natur, por:natureza, spa:naturaleza|birth||||||||||||||||syntyä (synty, syntymä)|
+nati|nati|||fra:naître, spa:por:nato, eng:-nate + deu:Nazion, pol:nacja, rus:нация (natsiya) + ara:(nās)|birth|naître (naissance)|nacer (nacimiento)|nascer|родиться|||||||||||naski (nasko)|syntyä (synty, syntymä)|narodziny
 nati-in|• innati||||innate (endogenous, indigenous, inborn)||innato (endógeno)||||||||||||||sisäsyntyinen|wewnętrzny
-nati-pos.al|• posnatal||||postnatal|post-natal|postnatal|pós-natal|послеродовой||产后||||||||||syntymän jälkeinen|poporodowy
-nati-pre.al|• prenatal||||prenatal|prénatal|prenatal|pré-natal|||产前||||||||||syntymää edeltävä|przedporodowy
+nati-pos|• posnati||||postnatal|post-natal|postnatal|pós-natal|послеродовой||产后||||||||||syntymän jälkeinen|poporodowy
+nati-pre|• prenati||||prenatal|prénatal|prenatal|pré-natal|||产前||||||||||syntymää edeltävä|przedporodowy
 nati-ri|• rinati||||rebirth (renaissance)||||||||||||||||syntyä uudelleen|
-nati.a|natia||||nation|nation|nación|nação|||||||||||||kansakunta|
-natre.bilor|natre bilor||||natron||natrón||натрит (натр, натрон, кристаллическая сода)|||||||||||||
+nati.a|natia||||nation (country of birth)|nation|nación|nação|народ  (нация)||||||||||||synnyinmaa (oma maa)|naród, narodowość
+nati.a.di|natia di||||national||nacional||||||||||||||kansallinen|narodowy (ludowy)
+nati.a.jen|natiajen||||people (folk)||gente||||||||||||||kansa|ludzie (lud, ludność)
+nati.a.medi|natia medi||||international|international|internacional|internacional|междунаро́дный||国际|国際的|국제||अन्तर्राष्ट्रीय|আন্তর্জাতিক|antarabangsa|kimataifa|uluslararası (enternasyonal)|internacia|kansainvälinen|międzynarodowy
+nati.a.sim|natiasim||||nationalism||nacionalismo||||||||||||||kansallisuusaate (nationalismi)|nacjonalizm
+nati.a.sim.ja|natiasimja||||nationalist||nacionalista||||||||||||||nationalisti|nacjonalista
+nati.a.sosi.a.sim|natiasosiasim||||national socialism (Nazism)||socialismo nacional (nazismo)||||||||||||||kansallissosialismi (natsismi)|narodowy socjalizm (nazizm)
+nati.a.sosi.a.sim.ja|natiasosiasimja||||Nazi||Nazi||||||||||||||natsi|nazista
+nati.baxa|natibaxa||||native language (mother tongue)|langue maternelle|lengua materna|língua materna|родной язык||母语||||मातृभाषा|||||hejmlingvo|äidinkieli|język ojczysty (język rodzimy)
+nati.den|natiden||||birthday||cumpleaños|||||||||||||naskiĝtago|syntymäpäivä|urodziny
+nati.loka|natiloka||||birthplace|lieu de naissance|lugar de nacimiento|terra natal|место рождения||出生地|出生地|출생지|nơi sinh (sinh quán)|जन्मस्थान||||doğum yeri|naskiĝejo|syntymäpaikka|
+nati.stan|natistan||||region of birth|||terra natal|||||||||||||synnyinseutu|
 natri|natri|yum 011|Na|eng:sodium, fra:sodium, spa:sodio, por:sódio, rus:натрий, zho:钠 (nà), jpn:ナトリウム, kor:나트륨, vie:natri, hin:सोडियम, ben:সোডিয়াম, may:natrium, swa:natiri|sodium|sodium|sodio|sódio|натрий|صوديوم|钠|ナトリウム|나트륨|natri|सोडियम|সোডিয়াম|natrium|natiri|sodyum|natrio|natrium|sód
+natri.bilor|natre bilor||||natron||natrón||натрит (натр, натрон, кристаллическая сода)|||||||||||||
 nau|nau|||zho:脑 (nǎo), yue:腦 (nou5), jpn:脳  (nō), kor:뇌 (noe), vie:não|brain|cerveau (cervelle)|cerebro|cérebro|мозг|دِمَاغ‎|脑|脳|뇌|óc (não)|मस्तिष्क (दिमाग़)|মগজ|otak (benak)|ubongo|beyin|cerbo|aivot|mózg
 nau.di|nau di||||cerebral|cérébral|cerebral|cerebral|мозговой (церебральный)||大脑的||||||||beyinsel|cerba|aivoperäinen (aivo-)|mózgowy
 nau.hin|nau hin||||brainless||descerebrado||безмозглый|||||||মস্তিষ্কহীন||||sencerba|aivoton|bezmózgi
@@ -4264,7 +4272,7 @@ vulva|vulva|||fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|vulv
 vutu|vutu|||zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|object (item, thing)|objet (article)|objeto (artículo)|item|статья (предмет)||物体 (物品)|物 (品)|||||||||esine (tavara)|przedmiot (obiekt)
 X|X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
 xa|xa|||eng:shall + ara:(sa-) + vie:sẽ + sve:ska|auxiliary verb that marks future tense (will, shall)|||||||||||||||–os|tulevaa aikaa merkitsevä apuverbi|
-xah.gem|xah gem||||chess||ajedrez|xadrez|||||||शतरंज||catur|sataranji|satranç|ŝako|šakki|szachy
+xah.geme|xah geme||||chess||ajedrez|xadrez|||||||शतरंज||catur|sataranji|satranç|ŝako|šakki|szachy
 xah.mata|xah mata||||checkmate|échec et mat|jaque mate|xeque-mate|шах и мат|شَاه مَات‎|将死|詰み (チェックメイト)|체크메이트|||||||ŝakmato|matti (šakkimatti)|
 xaka|xaka|||ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)|branch (bough)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
 xakal|xakal|bio||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal

@@ -213,6 +213,7 @@
 **cape** *painos (leima)* ← hindi:छाप (chāp), bangla:ছাপ (chap), malaiji:cap, englanti:chop  
 **carme** *vetovoima (šarmi)* ← ranska:portugali:charme, englanti:charm, venäjä:шарм (šarm)  
 **cati** *katto (katos)* ← hindi:छत (chat); छदि (chadi), bangla: ছাদ (chad), turkki:çatı, kyr:чатыр (čatyr) + arabia: سَطْح‎ (saṭḥ)  
+**cau** *ruoho* ← yleiskiina:草 (cǎo), kantoninkiina:草 (cou2), wu-kiina:草 (tshau2), japani:草 (sō), vietnami:tháu  
 **cavi** *avain* ← portugali:chave, espanja:llave, hindi:चाबी (cābi), bangla:চাবি (cabi), tamili: சாவி (cāvi), wolof:caabi, Kongo:nsapi  
 **ceke** *tarkistaa (tsekata, tutkia)* ← englanti:check, espanja:chequear, portugali:checar, deu:chekcen, japani:チェックする (chekkusuru)  
 **ceke** *šekki* ← englanti:espanja:portugali:cheque, ranska:chèque, venäjä:чек (ček), arabia: شِيك‎ (šēk), japani:チェック (chekku), vietnami:séc, hindi:चेक (cek), bangla:চেক (cek), malaiji:cek, ind:cheki  
@@ -249,7 +250,7 @@
 **dai hai** *valtameri* ← yleiskiina:大海 (dàhǎi), japani:大海 (taikai),  korea:대양 (daeyang), vietnami:đại dương, hindi:महासागर (mahāsāgar), bangla:মহাসমুদ্র (môhaśmudr), thai:มหาสมุทร (mahasamut)  
 **dai** *iso (suuri)* ← kantoninkiina:大 (daai), yleiskiina:大 (dá), vietnami:đại, japani:(dai,tai), korea:대— (dae-)  
 **dalil** *todiste (todistus, osoitus, demonstraatio)* ← arabia:(dalil), bangla:দলিল (dôlil), suahili:dalili, turkki:delil  
-**dama gem** *tammipeli* ← ranska:jeu de dames, espanja:portugali:damas, arabia: ضَامَة‎ (ḍāma), vietnami:cờ đam, malaiji:dam, turkki:dama, deu:Damespiel  
+**dama geme** *tammipeli* ← ranska:jeu de dames, espanja:portugali:damas, arabia: ضَامَة‎ (ḍāma), vietnami:cờ đam, malaiji:dam, turkki:dama, deu:Damespiel  
 **dan** *sija (taso, ranking, dan)* ←  japani:段 (dan), englanti:ranska:malaiji:dan + yleiskiina:等 (děng),  kantoninkiina:等 (dang2), korea:등 (dang), vietnami:đẳng  
 **dana** *jyvä (luoti)* ← hindi:दाना (dānā), turkki:tane + japani:種 (tane);銃弾 (jūdan), yleiskiina:弹 (dàn), vietnami:đạn, korea:탄알 (tanal)  
 **dang** *kilistää (soittaa kelloa)* ← englanti:dong, portugali:dlim-dlão, espanja:tilín, yleiskiina:叮 (dīng), japani:がんがん (gangan), thai:กระดิ่ง (grà-dìng)  
@@ -292,7 +293,7 @@
 **dokumen** *asiakirja (dokumentti, tiedosto)* ← englanti:ranska:document, espanja:portugali:documento, venäjä:документ (dokument), japani:ドキュメント (dokyumento), malaiji:dokumen, turkki:doküman  
 **dolfin** *delfiini* ← kreikka:δελφίνια (delphínia), englanti:dolphin, espanja:delfín, portugali:delfim, venäjä:дельфин (del’fin), arabia:دلفين (dulfin), japani:ドルフィン (dorufin), bangla:ডলফিন (ḍalaphina), hindi:डॉल्फ़िन (ḍŏlfin)  
 **dom** *asunto (koti)* ← venäjä:дом (dom), puola:dom, latina:domus, + englanti:domestic, ranska:domestique, espanja:portugali:doméstico  
-**domino gem** *dominopeli* ← englanti:dominoes, espanja:portugali:dominó, ranska:dominos, venäjä:домино (domino), yleiskiina:多米诺 (duōmǐnuò), japani:ドミノ牌 (dominohai)  
+**domino geme** *dominopeli* ← englanti:dominoes, espanja:portugali:dominó, ranska:dominos, venäjä:домино (domino), yleiskiina:多米诺 (duōmǐnuò), japani:ドミノ牌 (dominohai)  
 **dong** *itä* ← yleiskiina:东 (dōng), kantoninkiina:東 (dōng), vietnami:đông, korea:동 (dong), turkki:doğu  
 **donjon ventur** *luolaseikkailu* ← englanti:dungeon, ranska:donjon, japani:ダンジョン (danjon)  
 **dosil** *kesy* ← englanti:ranska:italia:docile, espanja:portugali:dócil  
@@ -465,10 +466,10 @@
 **gaze** *harso* ← deu:ranska:portugali:gaze, japani:ガーゼ (gāze), venäjä:газ (gaz), englanti:gauze  
 **gazel** *gaselli* ← arabia:(ḡazāl), englanti:ranska:gazelle, venäjä:газель (gazel'), japani:ガゼル (gazeru)  
 **gazeta** *lehti (sanomalehti)* ← englanti:ranska:gazette, venäjä:газета (gazeta), suahili:gazeri, turkki:gazete  
-**gazo** *ruoho* ← ranska:gazon, venäjä:газон (gazon) +  hindi:घास (ghās), bangla:ঘাস (ghaś) + englanti:grass  
 **gei** *homo (homoseksuaali)* ← englanti:ranska:espanja:gay, portugali:guei  
-**gem** *peli* ← englanti:game, thai:เกม (geem), japani:ゲーム (gēmu), korea:게임 (geim)  
-**gene** *synty (syntymä)* ← hindi:जन्म (janma), malayalam:ജനനം (jananaṃ), kreikka: γέννα (génna), englanti:genesis, ranska:genèse  
+**gem** *miekka* ← yleiskiina:剑 (jiàn), kantoninkiina:劍 (gim3), japani:剣 (ken), korea:검 (geom), vietnami:gươm; kiếm  
+**geme** *peli* ← englanti:game, japani:ゲーム (gēmu), korea:게임 (geim)  
+**gene** *tuottaa (synnyttää)* ← kreikka: γέννα (génna), englanti:genesis, ranska:genèse + hindi:जन्म (janma), malayalam:ജനനം (jananaṃ) + japani:源 (gen)  
 **geo** *maa (maaperä)* ← englanti:espanja:portugali:geo-, ranska:géo-, venäjä:гео- (geo-)  
 **german yum** *germanium* ← englanti:germanium, ranska:germanium, espanja:germanio, portugali:germânio, venäjä:германий, japani:ゲルマニウム, korea:게르마늄, vietnami:gecmani, hindi:जर्मेनियम, bangla:জার্মেনিয়াম, malaiji:germanium, suahili:gerimani, arabia: جرمانيوم  
 **gi** *kone* ← yleiskiina:機 (jī), wu-kiina:機 (ji1), kantoninkiina:機 (gei1), japani:機 (ki), korea:기 (gi), thai:กี่ (gìi) + jpn:器 (ki)  
@@ -711,7 +712,7 @@
 **kastana** *kastanja* ← espanja:castaňa, arabia:(kastanāʾ), turkki:kestane, venäjä:каштан (kaštan)  
 **kasu** *tapaus (seikka)* ← englanti:case, ranska:cas, espanja:portugali:caso, deu:Kasus  
 **kata** *kertomus (tarina, saaga)* ← hindi:कथा (kathā), bangla:কথা (kôtha), tamili:கதை (katai), telugu:కత (kata), khmer:កថា (kaʼthaa), filippiini:katha, malaiji:kata + japani:語る (kataru)  
-**katana** *miekka* ← japani:刀 (katana), englanti:espanja:turkki:malaiji:katana, venäjä:катана (katana), bangla:কাতানা (kātānā)  
+**katana** *katana (japanilainen miekka)* ← japani:刀 (katana), englanti:espanja:turkki:malaiji:katana, venäjä:катана (katana), bangla:কাতানা (kātānā)  
 **katus** *kaktus* ← englanti:espanja:portugali:ranska:cactus, venäjä:кактус (kaktus), turkki:kaktüs, malaiji:kaktus  
 **Kaukasia** *Kaukasia* ← englanti:Caucasia, espanja:Cáucaso, venäjä:Кавказ (Kavkaz), turkki:Kafkasya, kat:კავკასია (ḳavḳasia), hye:Կովկաս (Kovkas), aze:Qafqaz, arabia:اَلْقَوْقَاز‎ (al-qawqāz), hindi:कॉकस (kŏkas), malaiji:Kaukasus, yleiskiina:高加索 (gāojiāsuǒ)  
 **kauri** *posliinikotilo* ← englanti:cowrie, ranska:espanja:cauri, venäjä:каури (kauri), hindi:कौड़ी (kauṛī), suahili:kauri  
@@ -1024,8 +1025,7 @@
 **naraka** *helvetti* ← hindi:नरक (narak), bangla:নরক (nôrôk), pan:ਨਰਕ (nark), marathi:नर्क (nark), telugu:నరకము (narakamu), tamili:நரகம் (narakam), malaiji:neraka, thai:นรก (ná-rók), japani:奈落 (naraku)  
 **nardi** *backgammon* ← persia:urdu: نرد‎ (nard), venäjä:нарды (nardy)  
 **narko** *huume* ← englanti:narcotic, ranska:narcotique, espanja:portugali:narcótico, venäjä:наркотик (narkotik), malaiji:narkotik  
-**nasi** *kansakunta* ← arabia:(nās) + englanti:ranska:nation, deu:Nazion, portugali:nação, espanja:nación, puola:nacja, venäjä:нация (natsiya)  
-**nati** *syntyä (synty, syntymä)* ← englanti:ranska:nature, deu:Natur, portugali:natureza, espanja:naturaleza  
+**nati** *syntyä (synty, syntymä)* ← ranska:naître, espanja:portugali:nato, englanti:-nate + deu:Nazion, puola:nacja, venäjä:нация (natsiya) + arabia:(nās)  
 **natri** *natrium* ← englanti:sodium, ranska:sodium, espanja:sodio, portugali:sódio, venäjä:натрий, yleiskiina:钠 (nà), japani:ナトリウム, korea:나트륨, vietnami:natri, hindi:सोडियम, bangla:সোডিয়াম, malaiji:natrium, suahili:natiri  
 **nau** *aivot* ← yleiskiina:脑 (nǎo), kantoninkiina:腦 (nou5), japani:脳  (nō), korea:뇌 (noe), vietnami:não  
 **nautile** ** ← englanti:nautilus, espanja:nautilo, portugali:nautiloide, venäjä:наутилид (nautilid), arabia:نوتي (noti), hindi:नौटिलस (nautilas), turkki:notilus  

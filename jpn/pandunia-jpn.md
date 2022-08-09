@@ -110,7 +110,7 @@ baluta frute - ドングリ
 bambu - 竹  
 bamia - オクラ  
 bano - 板  
-bano gem - ボードゲーム  
+bano geme - ボードゲーム  
 bari yum - バリウム  
 baru - 熊  
 bas - 十分  
@@ -220,6 +220,10 @@ cai pote - 急須
 cakra - 車輪  
 camaca - スプーン  
 cati - 屋根  
+cau - 草  
+caukitabu - 草書  
+caumedan - 芝生  
+caustan - 草地  
 cavi - 鍵  
 ceke - 小切手 (チェック)  
 cen - 以前 (前に)  
@@ -263,7 +267,7 @@ dai pote - 大釜 (大鍋)
 dai seku - 大石  
 dai zi - 大文字  
 dalil dokumen - 証明書  
-dama gem - チェッカー (西洋碁)  
+dama geme - チェッカー (西洋碁)  
 dan - 段 (等)  
 dang gi - 鐘 (鈴)  
 Danske - デンマークの  
@@ -504,7 +508,7 @@ galte - 間違い (誤り, バグ)
 gamba - 海老  
 gami ben - 連れ子  
 gamo zi - 絵文字  
-gan gazo - 干し草  
+gan cau - 干し草  
 ganir - 歌手  
 ganirgrupe - 合唱団  
 ganse - 雁 (鵝鳥)  
@@ -514,7 +518,7 @@ gar - 車
 garma - 暖かい (熱い)  
 garma mosim - 夏  
 garma zona - 熱帯  
-garma zona gazo stan - サバンナ  
+garma zona caustan - サバンナ  
 gata a dante - 咬む  
 gata glu bano - クリップボード  
 gata ja - 鋭い  
@@ -524,13 +528,12 @@ gau di - 高い
 gau dipe move - 浮き沈みする  
 gau tehni - ハイテク  
 gazel - ガゼル  
-gazo - 草  
-gazo medan - 芝生  
-gazo stan - 草地  
+gem - 剣  
+gemdau - 剣道  
+gemsuta - 剣術  
 gene di - 生 (未熟)  
-genelogi - 系譜学  
-gene loka - 出生地  
-gene tipe - 遺伝子型  
+genelogu - 系譜学  
+genetipe - 遺伝子型  
 gene yo hevan - 湧かす  
 geo - 地  
 geo forme - 地形  
@@ -586,7 +589,7 @@ haha - 笑う
 hai - 海  
 hai alga - 海藻  
 hai amir ja - 提督 (海軍大将)   
-hai gazo - 海草  
+hai cau - 海草  
 hai gun - 海軍  
 hai hiyar - 海鼠  
 hai hua - イソギンチャク  
@@ -788,7 +791,7 @@ karta - 地図
 karte - カルタ  
 karuba - 蝗豆  
 kaska - 殻 (皮)  
-katana - 刀 (剣)  
+katana - 刀  
 katus - サボテン  
 kauri - 宝貝  
 kava - 掘る  
@@ -1089,7 +1092,8 @@ nam kitabu - 署名する (サイン)
 nama - 肉  
 nan - 男  
 narko - 麻薬  
-nasi medi - 国際的  
+natia medi - 国際的  
+natiloka - 出生地  
 natri - ナトリウム  
 nau - 脳  
 nautile - オウムガイ  

@@ -246,6 +246,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**cape**|hin:छाप (chāp), ben:ছাপ (chap), may:cap, eng:chop|
 |**carme**|fra:por:charme, eng:charm, rus:шарм (šarm)|
 |**cati**|hin:छत (chat); छदि (chadi), ben: ছাদ (chad), tur:çatı, kyr:чатыр (čatyr) + ara: سَطْح‎ (saṭḥ)|
+|**cau**|zho:草 (cǎo), yue:草 (cou2), wuu:草 (tshau2), jpn:草 (sō), vie:tháu|
 |**cavi**|por:chave, spa:llave, hin:चाबी (cābi), ben:চাবি (cabi), tam: சாவி (cāvi), wol:caabi, kon:nsapi|
 |**ceke**|eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|
 |**ceke**|eng:spa:por:cheque, fra:chèque, rus:чек (ček), ara: شِيك‎ (šēk), jpn:チェック (chekku), vie:séc, hin:चेक (cek), ben:চেক (cek), may:cek, ind:cheki|
@@ -282,7 +283,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**dai**|yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)|
 |**dai hai**|zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|
 |**dalil**|ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil|
-|**dama gem**|fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel|
+|**dama geme**|fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel|
 |**dan**| jpn:段 (dan), eng:fra:may:dan + zho:等 (děng),  yue:等 (dang2), kor:등 (dang), vie:đẳng|
 |**dana**|hin:दाना (dānā), tur:tane + jpn:種 (tane);銃弾 (jūdan), zho:弹 (dàn), vie:đạn, kor:탄알 (tanal)|
 |**dang**|eng:dong, por:dlim-dlão, spa:tilín, zho:叮 (dīng), jpn:がんがん (gangan), tha:กระดิ่ง (grà-dìng)|
@@ -325,7 +326,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**dokumen**|eng:fra:document, spa:por:documento, rus:документ (dokument), jpn:ドキュメント (dokyumento), may:dokumen, tur:doküman|
 |**dolfin**|ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)|
 |**dom**|rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico|
-|**domino gem**|eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|
+|**domino geme**|eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)|
 |**dong**|zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu|
 |**donjon ventur**|eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)|
 |**dosil**|eng:fra:ita:docile, spa:por:dócil|
@@ -498,10 +499,10 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**gaze**|deu:fra:por:gaze, jpn:ガーゼ (gāze), rus:газ (gaz), eng:gauze|
 |**gazel**|ara:(ḡazāl), eng:fra:gazelle, rus:газель (gazel'), jpn:ガゼル (gazeru)|
 |**gazeta**|eng:fra:gazette, rus:газета (gazeta), swa:gazeri, tur:gazete|
-|**gazo**|fra:gazon, rus:газон (gazon) +  hin:घास (ghās), ben:ঘাস (ghaś) + eng:grass|
 |**gei**|eng:fra:spa:gay, por:guei|
-|**gem**|eng:game, tha:เกม (geem), jpn:ゲーム (gēmu), kor:게임 (geim)|
-|**gene**|hin:जन्म (janma), mal:ജനനം (jananaṃ), ell: γέννα (génna), eng:genesis, fra:genèse|
+|**gem**|zho:剑 (jiàn), yue:劍 (gim3), jpn:剣 (ken), kor:검 (geom), vie:gươm; kiếm|
+|**geme**|eng:game, jpn:ゲーム (gēmu), kor:게임 (geim)|
+|**gene**|ell: γέννα (génna), eng:genesis, fra:genèse + hin:जन्म (janma), mal:ജനനം (jananaṃ) + jpn:源 (gen)|
 |**geo**|eng:spa:por:geo-, fra:géo-, rus:гео- (geo-)|
 |**german yum**|eng:germanium, fra:germanium, spa:germanio, por:germânio, rus:германий, jpn:ゲルマニウム, kor:게르마늄, vie:gecmani, hin:जर्मेनियम, ben:জার্মেনিয়াম, may:germanium, swa:gerimani, ara: جرمانيوم|
 |**gi**|zho:機 (jī), wuu:機 (ji1), yue:機 (gei1), jpn:機 (ki), kor:기 (gi), tha:กี่ (gìi) + jpn:器 (ki)|
@@ -1057,8 +1058,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**naraka**|hin:नरक (narak), ben:নরক (nôrôk), pan:ਨਰਕ (nark), mar:नर्क (nark), tel:నరకము (narakamu), tam:நரகம் (narakam), may:neraka, tha:นรก (ná-rók), jpn:奈落 (naraku)|
 |**nardi**|fas:urd: نرد‎ (nard), rus:нарды (nardy)|
 |**narko**|eng:narcotic, fra:narcotique, spa:por:narcótico, rus:наркотик (narkotik), may:narkotik|
-|**nasi**|ara:(nās) + eng:fra:nation, deu:Nazion, por:nação, spa:nación, pol:nacja, rus:нация (natsiya)|
-|**nati**|eng:fra:nature, deu:Natur, por:natureza, spa:naturaleza|
+|**nati**|fra:naître, spa:por:nato, eng:-nate + deu:Nazion, pol:nacja, rus:нация (natsiya) + ara:(nās)|
 |**natri**|eng:sodium, fra:sodium, spa:sodio, por:sódio, rus:натрий, zho:钠 (nà), jpn:ナトリウム, kor:나트륨, vie:natri, hin:सोडियम, ben:সোডিয়াম, may:natrium, swa:natiri|
 |**nau**|zho:脑 (nǎo), yue:腦 (nou5), jpn:脳  (nō), kor:뇌 (noe), vie:não|
 |**nautile**|eng:nautilus, spa:nautilo, por:nautiloide, rus:наутилид (nautilid), ara:نوتي (noti), hin:नौटिलस (nautilas), tur:notilus|

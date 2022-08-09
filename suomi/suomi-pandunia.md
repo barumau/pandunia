@@ -342,7 +342,7 @@ dokumenttielokuva - dokumen filme
 dollari - dolar  
 Dominika - Dominika  
 Dominikaaninen Tasavalta - Dominika Vakilkrati  
-dominopeli - domino gem  
+dominopeli - domino geme  
 draama - drama  
 dualismi - du xe sim  
 dubnium - dubna yum  
@@ -531,6 +531,8 @@ Ganges - Ganga
 Ganymedes - Ganimede  
 garam masala - garma masala  
 gaselli - gazel  
+geneettinen - genelogi di  
+genetiikka - genelogi  
 geologia (maaperäntutkimus) - geologi  
 geometria - geo metre  
 geopolitiikka - geo politi  
@@ -640,7 +642,7 @@ heijastaa kuvia (projisoida; projektio) - jetegrafi
 heijastin - reflexir  
 heikko - anbala  
 heimo - tribu  
-heinä - gan gazo  
+heinä - gan cau  
 heinäkuu - mes ceti  
 heittää (paiskata) - lanse  
 helikopteri - helis fei gi  
@@ -1098,14 +1100,12 @@ kannattaa (tukea, edistää) - fa sim
 kannattaa - suporte  
 kannattaja (tukija, -isti) - sim ja  
 kanootti - kano  
-kansa - nasi jen  
-kansainvälinen - nasi medi  
-kansakunta - nasi  
-kansakunta - natia  
+kansa - natiajen  
+kansainvälinen - natia medi  
 kansalainen (valtion asukas) - dexa jen  
-kansallinen - nasi di  
-kansallissosialismi (natsismi) - nasi sosi sim  
-kansallisuusaate (nationalismi) - nasi sim  
+kansallinen - natia di  
+kansallissosialismi (natsismi) - natiasosiasim  
+kansallisuusaate (nationalismi) - natiasim  
 kansanryhmien välinen - zuku medi di  
 kansanryhmä (etninen ryhmä) - zuku  
 kansio (hakemisto) - dokumen sanduku  
@@ -1144,6 +1144,7 @@ kasvitiede - fitologi
 kasvot (naama) - muka  
 kasvu - raste  
 Katalonia - Katalunia  
+katana (japanilainen miekka) - katana  
 katkarapu - gamba  
 katsanto - aspete  
 katselulaite (skooppi) - oskope  
@@ -1202,6 +1203,7 @@ keltainen - huang
 kelvin (K) - kelvin  
 kemia - kimilogi  
 kemikaali - kimi di  
+kendo - gemdau  
 kenguru - kangaru  
 Kenia - Kenya  
 kenkä - sapatu  
@@ -1657,7 +1659,7 @@ laulaa (laulu) - gani
 laulaja - ganir  
 lauta (paneeli) - bano  
 lautanen - plate tasa  
-lautapeli - bano gem  
+lautapeli - bano geme  
 lava - tai  
 lawrencium - laurence yum  
 lehmän liha - mumu nama  
@@ -1978,7 +1980,7 @@ merenranta - hai kinar
 merensininen - hai nil  
 meri - hai  
 meri- (merellinen) - hai di  
-meriheinä - hai gazo  
+meriheinä - hai cau  
 merilevä - hai alga  
 merimakkara - hai hiyar  
 merirosvo (piraatti) - pirate ja  
@@ -2001,7 +2003,8 @@ meteli - kelele
 metri - mitre  
 metrojuna (maanalainen) - tunel tren  
 metsä (viidakko) - jangal  
-miekka - katana  
+miekka - gem  
+miekkailu - gemsuta  
 mielikuvituksekas (fantastinen) - fantazi di  
 mielikuvitus (fantasia) - fantazi  
 mielipide (näkemys) - rai  
@@ -2153,10 +2156,10 @@ nanometri - nano mitre
 nappi (näppäin, kytkin, nappula) - buton  
 narkomaani (huumeriippuvainen, addikti) - narkomanika  
 narkoosi - narkosona  
-nationalisti - nasi sim ja  
+nationalisti - natiasimja  
 natrium - natri  
 natriumglutamaatti - vijin  
-natsi - nasi sosi sim ja  
+natsi - natiasosiasimja  
 nauha (side) - bande  
 naula (piikki) - dingi  
 nauraa - haha  
@@ -2243,7 +2246,7 @@ nuorukainen - jun jen
 nuorukainen - junjen  
 nuoruus - junta  
 nuoruusvuodet - junnen  
-nurmikko (ruohikko) - gazo medan  
+nurmikko (ruohikko) - caumedan  
 nussia (panna) - coda  
 nuudeli - mena  
 nykyinen (tämänhetkinen) - zai zaman di  
@@ -2484,9 +2487,9 @@ peili - mira plate
 peite (kansi) - daka  
 peittää - fa daka  
 Peking (Beijing) - Beijing  
-pelaaja - gem ja  
-pelata - fa gem  
-peli - gem  
+pelaaja - geme ja  
+pelata - fa geme  
+peli - geme  
 pelokas - fobi di  
 pelottaa - fa fobi  
 pelottava - fobi ja  
@@ -2495,7 +2498,7 @@ penkki - benci
 pensseli (sivellin) - pente broxa  
 perhe - famili  
 perhonen - pelpel  
-perimä (genotyyppi) - gene tipe  
+perimä (genotyyppi) - genetipe  
 perintö - varite  
 perjantai - den lima  
 persia (farsi) - farsi  
@@ -2891,8 +2894,8 @@ ruma (pahannäköinen) - dus vide
 rumpu - guma  
 runo - xir  
 runoilija - xir ja  
-ruoho - gazo  
-ruohotasanko - gazo stan  
+ruoho - cau  
+ruohotasanko - caustan  
 ruoka - yam xe  
 ruokalista - yam liste  
 ruokalusikka - supa camaca  
@@ -3004,7 +3007,7 @@ satuttaa - fa pasi
 Saudi Arabia - Saudi Arabi  
 sauma (ommel) - sutur  
 sauna - sauna  
-savanni - garma zona gazo stan  
+savanni - garma zona caustan  
 savenvalaja - pote ja  
 savi - glu poto  
 savityö (keramiikka) - serami  
@@ -3107,7 +3110,6 @@ sisällysluettelo - in liste
 sisällyttää (sulkea sisäänsä) - fa in klus  
 sisältää - in tene  
 sisältö - in xe  
-sisäsyntyinen - in gene di  
 sisäsyntyinen - innati  
 sisäänkäynti - jin mun  
 sisäänpäin - to in  
@@ -3191,7 +3193,7 @@ sukunimi - famili nam
 sukupuoli - jinse  
 sukupuolinen - jinse di  
 sukupuolitutkimus - jinselogi  
-sukututkimus - genelogi  
+sukututkimus - genelogu  
 sulaa - yung  
 sulaa yhteen (fuusioitua) - be yung liga  
 suljettu - klus di  
@@ -3248,14 +3250,15 @@ syksy (syys) - pada mosim
 sylkeä - tuh  
 symmetria - sam metre  
 synkretismi - sinkredisim  
+synnyinmaa (oma maa) - natia  
+synnyinseutu - natistan  
 synnyttää - fa gene  
 synti (paha teko) - dusati  
 synti (paha teko) - duskar  
-synty (syntymä) - gene  
-syntymän jälkeinen - posnatal  
-syntymäpaikka - gene loka  
-syntymäpäivä - gene den  
-syntymää edeltävä - prenatal  
+syntymän jälkeinen - posnati  
+syntymäpaikka - natiloka  
+syntymäpäivä - natiden  
+syntymää edeltävä - prenati  
 syntyä (synty, syntymä) - nati  
 syntyä - be gene  
 syntyä uudelleen - rinati  
@@ -3338,7 +3341,7 @@ tammenterho - baluta frute
 tammi - baluta  
 tammi - europa baluta  
 tammikuu - mes un  
-tammipeli - dama gem  
+tammipeli - dama geme  
 tanakh - tanah  
 tankki (säiliö) - tanki  
 tanko (pinna, sauva, patukka) - kane  
@@ -3571,6 +3574,7 @@ tuomari - jude ja
 tuomio - jude  
 tuomita - fa jude  
 tuore (raikas) - taza  
+tuottaa (synnyttää) - gene  
 tuottava (tuottelias) - sana ja di  
 tupakka - tabaku  
 tupla (kaksinkertainen) - duple  
@@ -3655,6 +3659,7 @@ ulkona (ulkopuolella) - a vai
 ulkopuoli - vai  
 ulkopuolinen - vai jen  
 ulkosyntyinen - vai gene di  
+ulkosyntyinen - exgene  
 uloskäynti - cuti mun  
 ulospäinsuuntautunut (ekstrovertti) - vai verse di  
 ulospäinsuuntautunut (ekstrovertti) - extraversi  
@@ -4079,7 +4084,7 @@ zombi - zombi
 zulu - Zulu  
 äidillinen - ma di  
 äidinisä - ma su pa  
-äidinkieli - gene baxa  
+äidinkieli - natibaxa  
 äidinäiti - ma su ma  
 äiti (emä) - ma  
 äitipuoli (isän puoliso) - vise ma  
@@ -4098,7 +4103,7 @@ zulu - Zulu
 ĉampano - xampan vin  
 Šiva - xiva  
 šakaali - xakal  
-šakki - xah gem  
+šakki - xah geme  
 šamaani - xaman  
 šampoo - kexa sabun  
 šaria - islam din xaria  

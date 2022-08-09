@@ -644,6 +644,7 @@ entrer - be in
 envelopper (emballer) - fa lifafa  
 erbium - erbi yum  
 erroné - galte di  
+escrime - gemsuta  
 escroquer - fa truke  
 espace (zone, région) - area  
 espace - hali zi  
@@ -713,7 +714,7 @@ fluor - flur
 flèche - flece  
 flérovium - flerof yum  
 foie - hepate  
-foin - gan gazo  
+foin - gan cau  
 fois - mar  
 fondu - yung safa  
 football - fute bol  
@@ -789,12 +790,13 @@ guider - gida
 guitare - gitar  
 guépard - cita  
 gâteau de lune - luna keke  
-génotype - gene tipe  
-généalogie - genelogi  
+génotype - genetipe  
+généalogie - genelogu  
 généralissime - gun raja  
 généreux - databi  
 généreux - karim di  
 générosité (charité) - karim  
+génétique - genelogi di  
 géologie - geologi  
 géométrie - geo metre  
 géopolitique - geo politi  
@@ -814,7 +816,7 @@ hautes technologies - gau tehni
 Haïti - Aiti  
 hein? - he  
 henné - hina  
-herbe (gazon) - gazo  
+herbe (gazon) - cau  
 Hesse - Hese  
 heure - hor  
 heureux - suka  
@@ -884,7 +886,7 @@ insomnie - ansona
 intelligence artificielle - artefete intelige (AI)  
 intention - nia  
 intercepter - intercepe  
-international - nasi medi  
+international - natia medi  
 interracial - rasa medi  
 intestin (entrailles, ventre, boyau) - antra  
 introverti - in verse jen  
@@ -905,8 +907,8 @@ jarre (carafe, cruche) - jara
 jasmin - moli  
 jaïnisme - jain din  
 je (me) - mi  
-jeu de dames - dama gem  
-jeu de société - bano gem  
+jeu de dames - dama geme  
+jeu de société - bano geme  
 jeudi - den nelu  
 jeune - jun  
 jeunesse - junnen  
@@ -929,6 +931,7 @@ Jésus-Christ - Yesa Mesi
 kangourou - kangaru  
 karaté - karate  
 karatéka - karate ja  
+kendo - gemdau  
 Khartoum - Hartum  
 kimono - kimono  
 Kinshasa - Kinxasa  
@@ -955,7 +958,7 @@ lampe - lampa
 Lance-roquettes - rokete lanse gi  
 langue - baxa  
 langue - lisan  
-langue maternelle - gene baxa  
+langue maternelle - natibaxa  
 lanthane - lantan  
 lapin (lièvre) - tuzi  
 lapis-lazuli - lazur petra  
@@ -976,7 +979,7 @@ libre - huru
 lichen - alga fungu  
 lien - linke  
 lieu - loka  
-lieu de naissance - gene loka  
+lieu de naissance - natiloka  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amir lin  
 ligne téléphonique - tele fon lin  
@@ -1144,10 +1147,10 @@ mûrier - tuta
 
 nagar (flotter) - be boi  
 nappe - meza tela  
-nation - nasi  
 nation - natia  
 nausée - retro gula sense  
 nautile - nautile  
+naître (naissance) - nati  
 neige - hima  
 Neptune - Neputun  
 neptunium - neputun yum  
@@ -1302,7 +1305,7 @@ pays des fées (paradis) - pari dexa
 peindre - fa pente  
 peinture - pente  
 pelle - bele  
-pelouse (gazon) - gazo medan  
+pelouse (gazon) - caumedan  
 perdant - xiti bai ja  
 perder - xiti  
 pere (papa) - pa  
@@ -1389,9 +1392,9 @@ porter (s’habiller) - fa fuku
 porter - porte  
 Porto Rico - Portoriko  
 Portoricain - portoriko jen  
-posidonie (herbiers marins) - hai gazo  
+posidonie (herbiers marins) - hai cau  
 possédant (propriétaire) - mal ja  
-post-natal - posnatal  
+post-natal - posnati  
 post-production - posprodute  
 posture (position) - asan  
 postérieur - pos di  
@@ -1444,7 +1447,7 @@ précieux - bau di
 précurseur - prekurser  
 précéder - precese  
 préférer - max fili  
-prénatal - prenatal  
+prénatal - prenati  
 présent - zai di  
 prêter (empruntre) - jeka  
 prêter - jeka da  
@@ -1592,7 +1595,7 @@ saumon du Pacifique (saumon kéta, saumon chien) - baku salmon
 saumon rose - rode salmon  
 saumon sockeye - rubi salmon  
 sauvage - eko gene di  
-savane - garma zona gazo stan  
+savane - garma zona caustan  
 savoir (connaître) - sabe  
 Scandinavie - Eskandinavia  
 scandium - eskandi yum  
@@ -1923,7 +1926,7 @@ zéro - siro
 éponge - esponje  
 époux - gami jen  
 épreuve (test) - teste  
-épée - katana  
+épée - gem  
 équilibre - par vezeta  
 équipe - tim  
 étagère - lipa bano  

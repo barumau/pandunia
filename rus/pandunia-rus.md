@@ -147,7 +147,7 @@ bandera - флаг
 bankakan - банк  
 bankarute - банкрот  
 bano - доска (панель)  
-bano gem - настольная игра  
+bano geme - настольная игра  
 banya - купание  
 banya kamar - ванная  
 bara - преграждать  
@@ -270,6 +270,9 @@ camaca - ложка
 canse - возможность (шанс)  
 carme - шарм  
 cati - крыша (кров)  
+cau - трава  
+caukitabu - цаошу  
+caumedan - газон  
 cavi - ключ  
 ceke - чек  
 cen - раньше  
@@ -314,7 +317,7 @@ dai pau - пушка
 dai pote - котёл  
 dai seku - валун  
 dalil - доказательство  
-dama gem - шашки  
+dama geme - шашки  
 dan - ранг  
 dang - звенеть  
 dang gi - звонок  
@@ -576,7 +579,7 @@ gamo - эмоция (чувство)
 gamo di - эмоциональный  
 gamo hal - настроение  
 gamo zi - смайлик (эмодзи)  
-gan gazo - сено  
+gan cau - сено  
 ganirgrupe - хор  
 ganse - гусь  
 ganum - пшеница  
@@ -590,15 +593,16 @@ gati - твёрдый
 gau tehni - высокие технологии  
 gazel - газель  
 gazeta - газета  
-gazo - трава  
-gazo medan - газон  
-gem ja - игрок (геймер)  
-gene baxa - родной язык  
+gem - меч  
+gemdau - кэндо  
+gemsuta - фехтование  
+geme ja - игрок (геймер)  
+• exgene - экзогенный  
 gene di - сырой  
 gene grupe - поколение  
-genelogi - генеалогия  
-gene loka - место рождения  
-gene tipe - генотип  
+genelogi di - генетический  
+genelogu - генеалогия  
+genetipe - генотип  
 gene yo hevan - выращивать  
 Geo - Земля  
 geo grafi - география  
@@ -655,8 +659,8 @@ haha - смеяться
 hai - море  
 hai alga - морские водоросли  
 hai amir ja - адмирал  
+hai cau - морские травы  
 hai di - морской  
-hai gazo - морские травы  
 hai gun - военно-морской флот  
 hai hiyar - голотурия (морские огурц)  
 hai hua - морские анемоны  
@@ -863,7 +867,7 @@ kartagrafi - картография
 karte - карта  
 karuba - рожковое дерево  
 kaska - оболочка (кора, панцирь)  
-katana - меч  
+katana - катана  
 katus - кактус  
 kauri - каури  
 kava - копать (яма)  
@@ -1163,11 +1167,14 @@ nama - мясо
 nanas - ананас  
 nardi - нарды (триктрак)   
 narko - наркотик  
-nasi - нация  
-nasi medi - междунаро́дный  
-• posnatal - послеродовой  
-natre bilor - натрит (натр, натрон, кристаллическая сода)  
+nati - родиться  
+• posnati - послеродовой  
+natia - народ  (нация)  
+natia medi - междунаро́дный  
+natibaxa - родной язык  
+natiloka - место рождения  
 natri - натрий  
+natre bilor - натрит (натр, натрон, кристаллическая сода)  
 nau - мозг  
 nau di - мозговой (церебральный)  
 nau hin - безмозглый  

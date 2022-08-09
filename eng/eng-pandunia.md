@@ -427,10 +427,9 @@ biowaste - biolaji
 birch tree - betula  
 bird - paksi  
 biromantic - du romanse di  
-birth - gene  
 birth - nati  
-birthday - gene den  
-birthplace - gene loka  
+birthday - natiden  
+birthplace - natiloka  
 biscuit (cookie) - biskute  
 bisexual - du sexe di  
 bismuth - bismute  
@@ -455,7 +454,7 @@ blow - fa hava
 blue - nil  
 bluet - serami sing  
 board (pane, panel) - bano  
-board game - bano gem  
+board game - bano geme  
 boat (ship) - nave  
 bob up and down - gau dipe move  
 bobcat - rubi linse  
@@ -698,7 +697,7 @@ chat (babble) - blabla
 chat room - blablakan  
 chauffeur (driver) - xofer ja  
 chaussure - sapatu  
-checkers (draughts) - dama gem  
+checkers (draughts) - dama geme  
 checkmate - xah mata  
 cheer (hurrah, hooray) - ura  
 cheese - cize  
@@ -709,7 +708,7 @@ chemistry - kimilogi
 cheque (check) - ceke  
 cherry - ceri  
 cherub - kerubi  
-chess - xah gem  
+chess - xah geme  
 chest (breast) - sine  
 chestnut - kastana  
 chicken - koko  
@@ -1151,7 +1150,7 @@ domesticate (cultivate) - fa dosil gene
 domesticated - dosil gene di  
 Dominica - Dominika  
 Dominican Republic - Dominika Vakilkrati  
-dominoes - domino gem  
+dominoes - domino geme  
 donkey (ass) - iha  
 door (gate, portal) - mun  
 dot (spot) - bindu  
@@ -1353,6 +1352,7 @@ exist (presently, currently) - zai
 exit (get out) - be vai  
 exit (leaving) - cuti  
 exit door - cuti mun  
+exogeneous - exgene  
 exogenous - vai gene di  
 exonym - vai nam  
 exoplanet - vai planete  
@@ -1443,6 +1443,7 @@ female - ni
 feminism - fem sim  
 feminist - fem sim ja  
 fence - kinar baryer  
+fencing (art of duelling with swords) - gemsuta  
 fender - poto defa bano  
 ferment (leaven) - be biomute  
 fermented - biomute di  
@@ -1592,7 +1593,7 @@ gallery (exhibition hall) - galeri
 gallium - gali yum  
 gallop - nelu di galope  
 Gambia - Gambia  
-game - gem  
+game - geme  
 Ganges - Ganga  
 Ganymede - Ganimede  
 garam masala - garma masala  
@@ -1613,11 +1614,14 @@ gem (gemstone, jewel) - bau seku
 gender (sex) - jinse  
 gender studies - jinselogi  
 genderqueer (non-binary) - nobi  
-genealogy (study of descent) - genelogi  
+genealogy (recording of descents) - genelogu  
 generalissimo (shogun) - gun raja  
+generate (beget, produce; production, reproduction) - gene  
 generation (cohort) - gene grupe  
 generous (open-handed) - databi  
-genotype - gene tipe  
+genetic - genelogi di  
+genetics (study of reproduction) - genelogi  
+genotype - genetipe  
 geography - geo grafi  
 geology - geologi  
 geometry - geo metre  
@@ -1704,8 +1708,9 @@ grapefruit - putau oranje
 grapheme - kitabu so  
 graphic (pictorial) - grafi di  
 graphics card (video card) - grafi karte  
-grass - gazo  
-grassland (prairie) - gazo stan  
+grass - cau  
+grass script (calligraphic cursive writing) - caukitabu  
+grassland (prairie) - caustan  
 gratitude - xukurta  
 grave (tomb, bury) - gabur  
 gravel - grave  
@@ -1790,7 +1795,7 @@ hatred (hate, resentment, odium) - hen
 have (there be) - ha  
 Hawaii - Havai  
 Hawaiian archipelago - Havai nesia  
-hay - gan gazo  
+hay - gan cau  
 hazard (chance) - zar  
 he or she or it - ya  
 head - sar  
@@ -1987,7 +1992,6 @@ inject - fa juxa
 injection - juxa  
 ink - kalam sui  
 inkbrush (calligraphy brush) - broxa kalam  
-innate (endogenous, indigenous, inborn) - in gene di  
 innate (endogenous, indigenous, inborn) - innati  
 inner (internal) - in di  
 input  - inpute  
@@ -2015,7 +2019,7 @@ interested (curious) - sabe vol ja
 interesting (curious) - sabe vol di  
 interethnic - zuku medi di  
 interface - medi fase  
-international - nasi medi  
+international - natia medi  
 internet - internete  
 interpreter (translator) - trabaxar  
 interracial - rasa medi  
@@ -2104,12 +2108,14 @@ karaoke - karaoke
 karate - karate  
 karateka (practitioner of karate) - karate ja  
 Karnataka - Karnada  
+katana - katana  
 Kazakhstan - Qazaqe  
 keep (preserve, conserve, retain, spare) - hafiza  
 keeper (preserver) - hafiza ja  
 kelp - yepa alga  
 kelp forest - alga jangal  
 kelvin - kelvin  
+kendo - gemdau  
 Kenya - Kenya  
 ketchup - kecape  
 kettle - ketel  
@@ -2187,7 +2193,7 @@ lauan tree (meranti, balau) - meranti
 laugh - haha  
 lava - yung petra  
 law (rule, regulation) - kanun  
-lawn - gazo medan  
+lawn - caumedan  
 lawrencium - laurence yum  
 lay (lay down) - fa kux  
 layer (level, storey, floor, stratum) - ceng  
@@ -2563,6 +2569,7 @@ mongoose - mungus
 monism - un xe sim  
 monochrome - un rang di  
 monocle - un yen di lense  
+monogenesis - ungene  
 monolingual - unbaxaka  
 monolog - auto loga  
 monotheism - un deu sim  
@@ -2651,19 +2658,18 @@ nanometer - nano mitre
 narcosis - narkosona  
 narrator - kata ja  
 nasal - nos di  
-nation - nasi  
-nation - natia  
-national - nasi di  
-national socialism (Nazism) - nasi sosi sim  
-nationalism - nasi sim  
-nationalist - nasi sim ja  
-native language (mother tongue) - gene baxa  
+nation (country of birth) - natia  
+national - natia di  
+national socialism (Nazism) - natiasosiasim  
+nationalism - natiasim  
+nationalist - natiasimja  
+native language (mother tongue) - natibaxa  
 natron - natre bilor  
 nature (disposition, essence, character, -ive) - tabi  
 Nauru - Nauru  
 nausea (motion sickness) - retro gula sense  
 nautilus - nautile  
-Nazi - nasi sosi sim ja  
+Nazi - natiasosiasimja  
 near (close, almost) - karibu  
 necessary (needed) - yau di  
 nechrophilia - nekrofilia  
@@ -2988,7 +2994,7 @@ penis (phallus) - penis
 pentagon - lima gona  
 pentahedron (prism) - lima fase  
 peony - mudan  
-people (folk) - nasi jen  
+people (folk) - natiajen  
 people (population) - demi  
 pepper (capsicum) - cili  
 pepper (peppercorn) - pipre  
@@ -3089,10 +3095,10 @@ Platonic - Platon sim di
 Platonism - Platon sim  
 Platonist - Platon sim ja  
 platypus - bata krote  
-play a game - fa gem  
+play a game - fa geme  
 play music - fa muzika  
 playdough - plasti paste  
-player (gamer) - gem ja  
+player (gamer) - geme ja  
 please (satisfy, delight) - fa suka  
 pleased (delighted, happy) - suka  
 pliers (pincers) - pinse gi  
@@ -3124,6 +3130,7 @@ politician (administrator, statesman) - politi ja
 politicology - politilogi  
 politics (political discourse) - politi lona  
 polonium - polska yum  
+polygenesis - poligene  
 polygon - poli gona  
 polyhedron - poli fase  
 Polynesia - Polinesi  
@@ -3150,7 +3157,7 @@ post office - postakan
 post-production - posprodute  
 postal stamp - posta cape  
 postmark (postage stamp) - posta marke  
-postnatal - posnatal  
+postnatal - posnati  
 posture (asana) - asan  
 pot (vase, bin, jar) - pote  
 potassium - kali yum  
@@ -3176,7 +3183,7 @@ predate (be before) - be cen
 prefer (favor) - max fili  
 prefix - cen fixe  
 pregnant - hamil  
-prenatal - prenatal  
+prenatal - prenati  
 prepare (make ready) - fa redi  
 presence (existence) - zaita  
 present (existing) - zai di  
@@ -3339,6 +3346,7 @@ reform - riforma
 refuse (deny, decline) - nega  
 regime - politi mode  
 region (tract, land, ground) - topo  
+region of birth - natistan  
 register (record, log) - loge  
 reign (rule as an emperor) - imperi  
 reinforce (replenish) - fa max lika  
@@ -3525,7 +3533,7 @@ sauce - sos
 Saudi Arabia - Saudi Arabi  
 sauna - sauna  
 sausage - sosis  
-savannah - garma zona gazo stan  
+savannah - garma zona caustan  
 save (deposit, bank) - banka  
 savory (umami) - umami  
 saw - sera  
@@ -3562,7 +3570,7 @@ sea anemone - hai hua
 sea cucumber - hai hiyar  
 sea force (navy) - hai gun  
 seaborgium - siborge yum  
-seagrass - hai gazo  
+seagrass - hai cau  
 search (seek, look for) - soki  
 season - mosim  
 seat (saddle) - side loka  
@@ -3923,7 +3931,7 @@ Sweden - Suen
 sweet orange - sukar oranje  
 sweet potato - kamote  
 Switzerland - Suise  
-sword - katana  
+sword - gem  
 syllable - loga fen  
 symbol (emblem) - simbol  
 symmetry (symmetrical) - sam metre  
