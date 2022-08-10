@@ -11,8 +11,14 @@ plugins:
         lang: ru
 nav:
     - Дом: 'index.md'
-    - 'Звучание': abc.md
-    - 'Уроки': darse.md
+    - 'Звучание': 102_ABC.md
+    - 103_lexitipe.md
+    - 104_viselexi.md
+    - 105_namlexi.md
+    - 106_nume.md
+    - 109_jumlabina.md
+    - 110_lexibina.md
+    - 'Уроки': 201_xula.md
     - 'Словарь':
         - 'пандуния-русский': pandunia-rus.md
         - 'русский-пандуния': rus-pandunia.md

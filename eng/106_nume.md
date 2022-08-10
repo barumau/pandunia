@@ -129,6 +129,11 @@ Also the words for previous, next, first and last use the same suffix.
 → **finme**
 'the last'
 
+Ordinal numbers are put before cardinal numbers.
+
+**un me tri kupa kafe**
+– the first three cups of coffee
+
 ### Ordinal number after noun
 
 Another way to form ordinal numbers is to place the cardinal number after the noun.
