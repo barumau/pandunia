@@ -306,15 +306,18 @@ For example, the phrase "the person who lives there" includes the noun _person_,
 which is modified by the relative clause _who lives there_.
 
 There are different ways to build a relative clause in Pandunia.
-The relative pronoun in Pandunia is **jo**
+The relative pronoun in Pandunia is
+**ki**
 and it corresponds to English _that_, _who_ and _which_.
 
 In Pandunia, relative clauses are always set off by commas.
 
-**la buku, jo la jen fa kitabu, pada.**
+**la buku, ki la jen fa kitabu, pada.**
 – The book, which the person writes, falls.
 
-It is possible to leave also **jo** out.
+It is also possible to leave
+**ki**
+out.
 This structure is called _reduced relative clause_.
 
 **la buku, la jen fa kitabu, pada.**
@@ -323,13 +326,13 @@ This structure is called _reduced relative clause_.
 The relative pronoun is necessary
 when the relativized noun is the subject of the relative clause.
 
-**la jen, jo fa kitabu la buku, pada.**
+**la jen, ki fa kitabu la buku, pada.**
 – The person that writes the book falls.
 
 Also the object noun of a preposition can be the target of the relative clause.
 It's possible to use relative pronouns or the reduced relative clause structure.
 
-**la kalam, na jo la jen fa kitabu la buku, pada.**
+**la kalam, a ki la jen fa kitabu la buku, pada.**
 – The pen, with _which_ the person writes the book, falls.  
 **la kalam, la jen fa kitabu la buku a, pada.**
 – The pen the person writes the book with falls.
@@ -337,14 +340,14 @@ It's possible to use relative pronouns or the reduced relative clause structure.
 The relative pronoun can be put in its right place in the pivot structure
 or it can be left out by using the reduced relative clause structure.
 
-**la jen, mi vide jo fa kitabu la buku, pada.**
+**la jen, mi vide ki fa kitabu la buku, pada.**
 – The person, whom I see write the book, falls.  
 **la jen, mi vide fa kitabu la buku, pada.**
 – The person that I see write the book falls.  
 
 Also a _resumptive relative pronoun_ can be used if needed.
 
-**la jen, mi fa kitabu la buku na jo su kalam, padu.**
+**la jen, mi fa kitabu la buku na ki su kalam, padu.**
 – The person whose pen I write the book with falls.
 
 

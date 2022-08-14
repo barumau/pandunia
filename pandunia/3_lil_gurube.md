@@ -18,10 +18,10 @@ pos la, yamen cante e danse e van a pan un dia.
 tri me goro ye teza gung a pan dia,
 e ya bina se su dom de petra.
 ya si lika dom,
-jo ten tanur e duman tubo.
+ki ten tanur e duman tubo.
 ya rupa ka ya bil lika di lipa a la masim lika hava.
 
-a pos den, volfe move a karibu dau, a jo la tri goro ye dom.
+a pos den, volfe move a karibu dau, a ki la tri goro ye dom.
 ya vide gan gazo di dom,
 e ya aroma la goro in la dom.
 ya fikir la goro si bon yam,
@@ -37,12 +37,12 @@ pos, la volfe fa xou se su dante e loga:
 "mi hava e mi hava e mi parca tu su dom!"
 
 ya hava e ya hava e ya parca la dom!
-la volfe fa kai se su boke to masim jo ya bil,
+la volfe fa kai se su boke to masim, ki ya bil,
 ama un me goro ye ga,
 to dom de du me xiu goro.
 
 la volfe zoku a xiu dau.
-ya pas du me dom, jo be sana va moka kane.
+ya pas du me dom, ki be sana va moka kane.
 ya vide la dom.
 ya aroma la goro a in.
 ya su boke ye kai sana yo sui,

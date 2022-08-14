@@ -123,7 +123,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 **ya _le_ si guru.**
 – He or she is already a teacher.  
 **mi no _le_ gul yo alkohol.**
-– I haven't drank alcohol yet.  
+– I haven't drunk alcohol yet.  
 **mi _le_ no gul yo alkohol.**
 – I am already not drinking alcohol.  
 **mi _le_ da la buku to yamen.**

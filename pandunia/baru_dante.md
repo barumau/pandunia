@@ -12,7 +12,7 @@ ma baru ye loga "salam" e ya to vai.
 ![](http://www.pandunia.info/grafe/urse_dante/urse_02.png)
 
 xiu baru si un zai. ya fikir:
-"mi zai bil fa eni xe jo mi vol!"
+"mi zai bil fa eni xe, ki mi vol!"
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_03.png)
 
@@ -49,7 +49,7 @@ xiu baru ye yam pan medu.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_08.png)
 
-pos, xiu baru ye sense un sense jo no sabe a boke.
+pos, xiu baru ye sense un sense, ki ya no sabe, a boke.
 ya su dante pasi!
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_09.png)
