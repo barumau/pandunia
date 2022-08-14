@@ -92,7 +92,7 @@ alkoholi - alkol
 alkoholinen - alkol di  
 alkovi - nix  
 alku - xuru  
-alkuaine - kimi so  
+alkuaine - yum  
 alkuperä - asal  
 alkuperäinen - asal di  
 alla - a nice  
@@ -958,7 +958,7 @@ johanneksenleipäpuu - karuba
 johtaa (ohjata) - lida  
 johtaja (pomo) - lida ja  
 joka (jokainen) - pan un  
-joka (mikä) - jo  
+joka (mikä) - ki  
 jokainen asia - pan xe  
 jokainen ihminen - pan jen  
 joki (virta) - rivo  

@@ -649,7 +649,7 @@
 **juste** *ĝuste (precize, ekzakte)* ← angla:just, franca:juste, hispana:justo, itala:giusto, japana:ジャスト (jasto)  
 **juxa** ** ← mandarena:注射 (zhùshè), korea:주사 (jusa), japana:注射 (chusha)  
 **ka** *ol (kiel)* ← hispana:portugala:franca:que, svahila:kumliko, suo:kuin, lao:ກວ່າ (kuā), filipina:kaysa  
-**kababu** ** ← araba:persa:urdua: كباب (kabāb), turka:malaja:angla:hispana:kebab, rusa:кебаб (kebab), hindia:कबाब (kabāb), bengala:কাবাব (kabab), svahila:kababu  
+**kababu** ** ← araba:persa:urdua:  كباب (kabāb), turka:malaja:angla:hispana:kebab, rusa:кебаб (kebab), hindia:कबाब (kabāb), bengala:কাবাব (kabab), svahila:kababu  
 **kabin** ** ← angla:cabin, hispana:cabaña, portugala:cabana, franca:cabane, bengala:কেবিন (kebin)  
 **kable** ** ← angla:hispana:cable, portugala:cabo franca:câble, rusa:кабель (kabel'), japana:ケーブル (kēburu), korea:까벨 (kkabel), malaja:kabel, turka:kablo + araba:حَبْل‎ (ḥabl)  
 **kaboga** ** ← turka:kabak, svahila:boga, japana:カボチャ (kabocha)  

@@ -885,7 +885,6 @@ kexa hin - безволосый
 ki - что  
 kimi - вещество  
 kimilogi - химия  
-kimi so - химический элемент  
 kimono - кимоно  
 kinar - край (грань)  
 kinar baryer - забор (ограда)  
@@ -1812,6 +1811,7 @@ yogo - ярмо (иго)
 yogur - йогурт  
 Yohan festa - Иванов день  
 youmoke - саженец  
+yum - химический элемент  
 yumor - юмор  
 yuter yum - иттрий  
 yuterbi yum - иттербий  

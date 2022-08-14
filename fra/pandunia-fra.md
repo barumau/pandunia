@@ -995,7 +995,6 @@ kexa hin - glabre
 ki - que  
 kimi - substance  
 kimilogi - chimie  
-kimi so - élément chimique  
 kimono - kimono  
 kinar - bord  
 Kinxasa - Kinshasa  
@@ -1922,6 +1921,7 @@ yogo - joug
 yogur - yaourt (yogourt)  
 you - infantile (immature)  
 youmoke - pousse  
+yum - élément chimique  
 yung - melt  
 yung petra - lave  
 yung safa - fondu  

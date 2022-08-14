@@ -785,7 +785,6 @@ kexa broxa - 发刷
 kexa hin - 无毛  
 kimi - 物质  
 kimilogi - 化学  
-kimi so - 元素  
 kimono - 和服  
 kinar - 边  
 kinar baryer - 篱笆  
@@ -1595,6 +1594,7 @@ yogo - 轭
 yogur - 酸奶 (优格)  
 you - 幼稚  
 younen - 幼年  
+yum - 元素  
 yung - 融化  
 yung petra - 熔岩  
 yung safa - 熔炼  

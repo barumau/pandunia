@@ -2042,7 +2042,6 @@ jinse di - sexual (pertaining to gender)
 jinselogi - gender studies  
 jirafa - giraffe  
 jiva - life (existence)  
-jo - which (who, that)  
 joke - joke  
 joke ja - joker  
 jong - middle (center)  
@@ -2257,13 +2256,13 @@ kexa bande - hairband (headband)
 kexa broxa - hairbrush  
 kexa hin - hairless  
 kexa sabun - shampoo  
+ki - which (who, that)  
 ki - that (conjunction)  
 kilogram - kilogram (kg)  
 kilomitre - kilometer (km)  
 kimi - substance (physical material from which something is made)  
 kimi di - chemical  
 kimilogi - chemistry  
-kimi so - chemical element  
 kimono - kimono  
 kinar - border (edge, fringe, margin, rim, side, shore, periphery)  
 kinar baryer - fence  
@@ -4501,6 +4500,7 @@ younan - boy
 younen - childhood (years of being very young)  
 youni - girl  
 youta - childhood (immaturity)  
+yum - chemical element  
 yumor - humor  
 yumor di - humorous (comical, funny)  
 yumor ja - humorist  

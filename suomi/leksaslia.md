@@ -649,7 +649,7 @@
 **juste** *juuri (tarkka, täsmällinen)* ← englanti:just, ranska:juste, espanja:justo, italia:giusto, japani:ジャスト (jasto)  
 **juxa** *ruiske (injektio)* ← yleiskiina:注射 (zhùshè), korea:주사 (jusa), japani:注射 (chusha)  
 **ka** *kuin (verrattuna)* ← espanja:portugali:ranska:que, suahili:kumliko, suo:kuin, lao:ກວ່າ (kuā), filippiini:kaysa  
-**kababu** *grillata (kärventää)* ← arabia:persia:urdu: كباب (kabāb), turkki:malaiji:englanti:espanja:kebab, venäjä:кебаб (kebab), hindi:कबाब (kabāb), bangla:কাবাব (kabab), suahili:kababu  
+**kababu** *grillata (kärventää)* ← arabia:persia:urdu:  كباب (kabāb), turkki:malaiji:englanti:espanja:kebab, venäjä:кебаб (kebab), hindi:कबाब (kabāb), bangla:কাবাব (kabab), suahili:kababu  
 **kabin** *koppi (maja)* ← englanti:cabin, espanja:cabaña, portugali:cabana, ranska:cabane, bangla:কেবিন (kebin)  
 **kable** ** ← englanti:espanja:cable, portugali:cabo ranska:câble, venäjä:кабель (kabel'), japani:ケーブル (kēburu), korea:까벨 (kkabel), malaiji:kabel, turkki:kablo + arabia:حَبْل‎ (ḥabl)  
 **kaboga** ** ← turkki:kabak, suahili:boga, japani:カボチャ (kabocha)  

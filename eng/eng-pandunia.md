@@ -703,7 +703,7 @@ cheer (hurrah, hooray) - ura
 cheese - cize  
 cheetah - cita  
 chemical - kimi di  
-chemical element - kimi so  
+chemical element - yum  
 chemistry - kimilogi  
 cheque (check) - ceke  
 cherry - ceri  
@@ -4405,7 +4405,7 @@ wheel - cakra
 when? - ke sata  
 where - a ke  
 where? - ke loka  
-which (who, that) - jo  
+which (who, that) - ki  
 whip - bici  
 whisky (whiskey) - viski  
 white - baku  

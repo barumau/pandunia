@@ -514,7 +514,7 @@ Egipto (Egito) - Misri
 einstânio - einstein yum  
 ele ou ela - ya  
 elemento - so  
-elemento químico - kimi so  
+elemento químico - yum  
 eles ou elas - yamen  
 eletricidade - eletro  
 elfo - elfe  

@@ -1938,7 +1938,6 @@ jinse di - sukupuolinen
 jinselogi - sukupuolitutkimus  
 jirafa - kirahvi  
 jiva - elämä (olemassaolo)  
-jo - joka (mikä)  
 joke - vitsi  
 joke ja - vitsiniekka  
 jong - keskus (keskikohta)  
@@ -2116,13 +2115,13 @@ kexa bande - hiuspanta
 kexa broxa - hiusharja  
 kexa hin - karvaton  
 kexa sabun - šampoo  
+ki - joka (mikä)  
 ki - että  
 kilogram - kilogramma  
 kilomitre - kilometri  
 kimi - aine (aines, materia)  
 kimi di - kemikaali  
 kimilogi - kemia  
-kimi so - alkuaine  
 kimono - kimono  
 kinar - reuna (raja, ääri)  
 kinar di - reuna-  
@@ -4069,6 +4068,7 @@ younan - poika (nuori mies)
 younen - lapsuusvuodet  
 youni - tyttö (nuori neito)  
 youta - lapsuus (epäkypsyys)  
+yum - alkuaine  
 yumor - huumori  
 yumor di - koominen (hauska)  
 yumor ja - humoristi  

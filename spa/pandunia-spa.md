@@ -1964,7 +1964,6 @@ kilomitre - kilometre
 kimi - sustancia  
 kimi di - químico  
 kimilogi - química  
-kimi so - elemento químico  
 kimono - quimono  
 kinar - frontera (límite, borde, periferia)  
 kinar baryer - valla (cerca)  
@@ -3942,6 +3941,7 @@ you - infantil (inmaduro)
 youmoke - pimpollo  
 younan - niño  
 youni - niña  
+yum - elemento químico  
 yumor - humor (gracia)  
 yumor di - humorístico (gracioso, cómico)  
 yumor ja - humorista  

@@ -1919,7 +1919,7 @@ zéro - siro
 élever - gene yo hevan  
 éloge - eu loga  
 élément (unité fondamentale) - so  
-élément chimique - kimi so  
+élément chimique - yum  
 émeraude - zumarde  
 émir - amir ja  
 émirat - amir dexa  

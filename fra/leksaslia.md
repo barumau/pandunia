@@ -649,7 +649,7 @@
 **juste** *justo (exact, précis)* ← eng:just, fra:juste, spa:justo, ita:giusto, jpn:ジャスト (jasto)  
 **juxa** ** ← zho:注射 (zhùshè), kor:주사 (jusa), jpn:注射 (chusha)  
 **ka** *que (comme)* ← spa:por:fra:que, swa:kumliko, suo:kuin, lao:ກວ່າ (kuā), tgl:kaysa  
-**kababu** ** ← ara:fas:urd: كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu  
+**kababu** ** ← ara:fas:urd:  كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu  
 **kabin** ** ← eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)  
 **kable** *corde* ← eng:spa:cable, por:cabo fra:câble, rus:кабель (kabel'), jpn:ケーブル (kēburu), kor:까벨 (kkabel), may:kabel, tur:kablo + ara:حَبْل‎ (ḥabl)  
 **kaboga** *citrouille* ← tur:kabak, swa:boga, jpn:カボチャ (kabocha)  

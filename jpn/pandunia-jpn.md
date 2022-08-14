@@ -812,7 +812,6 @@ kexa hin - 無毛
 kilo - 千 (１０００)  
 kimi - 物質  
 kimilogi - 化学  
-kimi so - 元素  
 kimono - 着物  
 kinar - 際 (端)  
 kinar baryer - 柵 (垣)  
@@ -1646,6 +1645,7 @@ youmoke - 若木
 younan - 男の子  
 younen - 幼年時代  
 youni - 女の子  
+yum - 元素  
 yung - 溶ける  
 yung petra - 溶岩  
 yuter yum - イットリウム  

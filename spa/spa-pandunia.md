@@ -1257,7 +1257,7 @@ elefante - gaja
 elegante (chic) - xike  
 elegir (escoger, seleccionar) - fa cuze  
 elemento (unidad fundamental) - so  
-elemento químico - kimi so  
+elemento químico - yum  
 elfo - elfe  
 ellos o ellas - yamen  
 elogiar (alabar, exaltar) - halela  

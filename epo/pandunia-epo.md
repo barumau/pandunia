@@ -1092,7 +1092,6 @@ kexa sabun - ŝampuo
 ki - ke  
 kilomitre - kilometro  
 kimilogi - ĥemio (kemio)  
-kimi so - kemia elemento  
 kimono - kimono  
 kinar - rando (orlo)  
 kio - ponto  
@@ -2055,6 +2054,7 @@ yogo - jugo
 yogur - jogurto  
 younan - knabo  
 youni - knabino  
+yum - kemia elemento  
 yumor - humuro  
 yumor di - humura  
 yumor ja - humuristo  

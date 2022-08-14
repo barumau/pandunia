@@ -814,7 +814,6 @@ kexa hin - despelado
 ki - que  
 kimi - substância  
 kimilogi - química  
-kimi so - elemento químico  
 kimono - quimono  
 kinar - margem (borda)  
 kinar baryer - cerca  
@@ -1657,6 +1656,7 @@ yi - este
 yogo - jugo  
 yogur - iogurte  
 you - infantil (imaturo)  
+yum - elemento químico  
 yung - derretre  
 yuter yum - itrio  
 yuterbi yum - itérbio  
