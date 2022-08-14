@@ -473,6 +473,7 @@ flerof yum - フレロビウム
 flur - フッ素  
 fong - 蜂  
 fong nide - 蜂の巣  
+foni - フォニオ  
 • dusforma - 醜くする  
 • konforma - 即する  
 foto - 光  
@@ -705,6 +706,7 @@ jirafa - 麒麟
 jiva - 命 (生命)  
 jong - 中心  
 Jongoku - 中国  
+jovar - 蜀黍 (コーリャン)  
 jui - 注意  
 jui di - 気をつける (慎む)  
 jui note - 注意 (戒め, 警告)  
@@ -1453,6 +1455,7 @@ tali yum - タリウム
 tana - 茎 (胴)  
 tantal yum - タンタル  
 tasa - 皿  
+tef - テフ (穀物)  
 tehni - 技術  
 tehni yum - テクネチウム  
 tela - 布  

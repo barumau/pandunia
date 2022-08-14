@@ -288,6 +288,7 @@ dai pote - 炼药锅
 dai seku - 磐石  
 dama geme - 跳棋  
 dan - 等 (段)  
+dana.cau - 小米  
 dang gi - 钟 (摇铃)  
 Danske - 丹麦的  
 dante baluta - 槲树  
@@ -687,6 +688,7 @@ jiva - 生命
 jong - 中心  
 jong xulakan - 中学  
 Jongoku - 中国  
+jovar - 高粱  
 juba - 长袍  
 jui - 注意 (谨慎)  
 jui di - 谨慎的  
@@ -1396,6 +1398,7 @@ tantal yum - 钽
 tasa - 盘 (碟)  
 taxi metre gi - 计程器  
 taza - 新鲜的  
+tef - 苔麸  
 tehni - 技术  
 tehnilogi - 工艺学  
 tehni yum - 锝  

@@ -380,9 +380,9 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 **de ki**
 – because, for the reason that
 
-**mi duku yi buku _do ki_ mi transe la teste.**
+**mi duku yi buku _to ki_ mi trapas la teste.**
 – I read this book so that I will pass the test.  
-**mi le transe la teste _ze ki_ mi duku la buku.**
+**mi le transe la teste _de ki_ mi duku la buku.**
 – I have passed the test because I read the book.
 
 

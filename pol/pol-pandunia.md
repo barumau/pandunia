@@ -2733,6 +2733,7 @@ sok - jus
 Somalia - Somal  
 Somaliland - Somal Dexa  
 sometime - yo sata  
+sorgo - jovar  
 sos - sos  
 sos jabłkowy - aple sos  
 sos sojowy - soi sos  

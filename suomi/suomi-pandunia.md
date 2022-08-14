@@ -346,6 +346,7 @@ dominopeli - domino geme
 draama - drama  
 dualismi - du xe sim  
 dubnium - dubna yum  
+durra (kirjodurra) - jovar  
 dynamiitti - dinamite  
 dysprosium - disprosi yum  
 dysteismi (usko jumalan pahuuteen) - dus deu sim  
@@ -508,6 +509,7 @@ filosofinen - filsofi di
 flerovium - flerof yum  
 fluori - flur  
 Fobos - Fobos  
+fonio (heinäkasvi) - foni  
 fonologia (äänneoppi) - fonlogi  
 foorumi - forum  
 fosfori - pospor  
@@ -706,6 +708,7 @@ hindu - Hindi din ja
 hindulaisuus (hinduismi) - Hindi din  
 Hindustan - Hindi dexa  
 hinta (maksu) - koste  
+hirssi - dana.cau  
 hirviö - mostre  
 historia (aikakirjat) - histori  
 historia (oppiaine) - historilogi  
@@ -3396,6 +3399,7 @@ teehuone (kahvila) - caikan
 teekuppi - cai kupa  
 teelusikka (pikku lusikka) - cai camaca  
 teepannu - cai pote  
+tefheinä (röllinurmikka) - tef  
 tehdas - fetekan  
 tehdas - feteria  
 tehdä (toimia) - fa  

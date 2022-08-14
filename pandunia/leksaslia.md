@@ -439,6 +439,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**fokus**|eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)|
 |**fon**|eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon|
 |**fong**|zho:蜂 (fēng), yue:蜂 (fung1), wuu:蜂 (fon1), kor:봉 (bong), vie:ong, tha:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)|
+|**foni**|wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)|
 |**fonte**|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|
 |**for**|spa:fuera, por:fora, deu:fort + eng:far|
 |**fora**|fra:forer, por:furar, eng:perforate, spa:perforar|
@@ -669,6 +670,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**jiva**|hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|
 |**joke**|eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|
 |**jong**|zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|
+|**jovar**|fas: جواری‎ (jovâri), hin:ज्वार (jvār), ben:জোয়ার (joyār), ara: جَاوَرْس (jāwaras), eng:jawar|
 |**juba**|ara: جُبَّة (jubba), swa:juba, may:jubah, spa:aljuba|
 |**jude ja**|eng:judge, fra:juge, spa:juez, por:juiz, hin:जज (jaj), ben:জজ (jôj), swa:jaji + rus:судья (sud'ya)|
 |**jui**|zho:注意 (zhùyì), yue:注意 (zyu3 ji3), wuu:注意 (tsr i), jpn:注意 (chūi), kor:주의 (juui), vie:chú ý|
@@ -1441,6 +1443,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**tava**|hin:तवा (tavā), tur:tava, fas:(tābe)|
 |**taxi**|eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks) + fra:taxi, rus:такси (taksi), jpn:タクシー (takushī), kor:택시 (taeksi), vie:tắc xi, hin:टैक्सी (ṭaiksī), ben:ট্যাক্সি (ṭyaksi), tur:may:taksi, swa:teksi|
 |**taza**|tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|
+|**tef**|amh:ጤፍ (ṭēff), orm:xaafii, swa:mtefi, eng:teff, spa:may:tef, por:tefe, rus:теф (tef), zho:苔麸 (tái fū), jpn:テフ (tefu), kor:테프 (teipeu)|
 |**tehni**|ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|
 |**tehni yum**|eng:technetium, fra:technétium, spa:tecnetio, por:tecnécio, rus:технеций, zho:锝 (dé), jpn:テクネチウム, kor:테크네튬, vie:tecnexi, hin:टेक्निशियम, ben:টেকনিসিয়াম, may:teknetium, swa:tekineti, ara: تكنيتيوم|
 |**tela**|spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, jpn:タオル (taoru), may:tuala|
@@ -1613,7 +1616,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**xopi**|eng:fra:spa:shopping, jpn:ショッピング (shoppingu), kor:쇼핑 (syoping), tha:ชอปปิ้ง (chop-bing), rus:шоппинг (šopping), zho:血拼 (xuèpīn)|
 |**xou**|eng:deu:fra:spa:por:show, rus:шоу (šou), tur:şov, swa:shoo, tha:โชว์ (choo), kor:쇼 (syo), jpn:ショー (shō), zho:秀 (xiù)|
 |**xukur**|ara: شُكْر‎ m (šukr), hin:शुक्र (śukr), ben:শোকর (śokôr), swa:-shukuru, tur:şükür|
-|**xulakan**|zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), hin:स्कूल (skūl), ben:স্কুল (śkul), may:sekolah|
+|**xulakan**|zho:学 (xué) + deu:Schule, swa:shule + eng:school, fra:école, spa:escuela, por:escola, rus:школа (škola), ben:স্কুল (śkul), may:sekolah + hin:पाठशाला (pāṭhśālā), mar:शाळा (śāḷā), tam:பாடசாலை (pāṭasālai)|
 |**xuli**|zho:修理 (xiūlǐ), jpn:修理 (shuri), kor:수리 (suri)|
 |**xuru**|ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)|
 |**xux**|eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus|

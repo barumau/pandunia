@@ -293,6 +293,7 @@ dai pau - canhǎo
 dai seku - pedregulho  
 dalil - prova  
 dama geme - damas  
+dana.cau - milhete (painço)  
 dang gi - sino (campainha)  
 danse - baile (danza)  
 Danske - danês  
@@ -713,6 +714,7 @@ jong - centro
 jong fon - vogal  
 jong xulakan - ensino secundário  
 Jongoku - China  
+jovar - sorgo  
 juba - manto  
 jude ja - juiz  
 jul - joule (J)  

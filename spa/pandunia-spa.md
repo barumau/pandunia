@@ -625,6 +625,7 @@ dalil - prueba
 dalil dokumen - certificado  
 dama geme - damas  
 dana - partícula (grano, bala)  
+dana.cau - mijo  
 dana sekur - antibalas  
 dang gi - campana (cencerro)  
 danse - baile (danza)  
@@ -1223,6 +1224,7 @@ fonma - fonema
 fon zi - letra (carácter)  
 fong - abeja o avispa  
 fong nide - avispero (colmena)  
+foni - mijo fonio  
 fonte - fuente (manantial)  
 fonte kalam - estilógrafo  
 for - lejos (fuera)  
@@ -1770,6 +1772,7 @@ jong di - central
 jong fon - vocal  
 jong xulakan - escuela secundaria  
 Jongoku - China  
+jovar - zahína (sorgo)  
 juba - bata (aljuba)  
 judau - yudo  
 jude - fallo (juicio, criterio)  

@@ -2413,6 +2413,8 @@ mierda - xite
 migración - migra  
 migrar (emigrar, tralsadar) - fa migra  
 migrarse (mudarse, trasladarse) - be migra  
+mijo - dana.cau  
+mijo fonio - foni  
 mil (kilo-) - kilo  
 mili- - mili  
 miligrama - mili gram  
@@ -3957,6 +3959,7 @@ yupi - yei
 
 ## Z  
 
+zahína (sorgo) - jovar  
 Zambia - Zambia  
 zanahoria - karote  
 zapatero - sapatu ja  

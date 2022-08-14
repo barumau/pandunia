@@ -745,6 +745,7 @@ dalil dokumen - certificate
 dama geme - checkers (draughts)  
 dan - rank (grade, dan)  
 dana - particle (grain, bullet)  
+dana.cau - millet  
 dana sekur - bulletproof  
 dang - ring (toll, clang)  
 dang gi - bell  
@@ -1435,6 +1436,7 @@ fonma - phoneme
 fon zi - letter (character, written symbol)  
 fong - bee or wasp  
 fong nide - bee nest (beehive, wasp's nest)  
+foni - fonio millet (acha rice)  
 fonte - fountain (spring, well)  
 fonte kalam - fountain pen  
 for - off (away, gone, far-off)  
@@ -2049,6 +2051,7 @@ jong di - central (middle)
 jong fon - vowel  
 jong xulakan - secondary school  
 Jongoku - China  
+jovar - sorghum (durra, jawar, Indian millet)  
 juba - robe (jubbah)  
 judau - judo  
 jude - judgement (sentence)  
@@ -3991,6 +3994,7 @@ taxi - fee (fare)
 taxigar - taxi (cab)  
 taxi metre gi - taximeter  
 taza - fresh  
+tef - lovegrass (teff)  
 tehni - technique (technology)  
 tehni krati - technocracy  
 tehnilogi - technology (study of techniques)  

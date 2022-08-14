@@ -1607,6 +1607,7 @@ Jong Afrika Vakilkrati - Republika Środkowoafrykańska
 jong di - centralny (środkowy)  
 jong fon - samogłoska  
 Jongoku - Chiny  
+jovar - sorgo  
 judau - judo  
 jude - wyrok  
 jude ja - sędzia  

@@ -717,6 +717,7 @@ foie - hepate
 foin - gan cau  
 fois - mar  
 fondu - yung safa  
+fonio blanc - foni  
 football - fute bol  
 force - balata  
 force navale (marine) - hai gun  
@@ -1090,6 +1091,8 @@ microscope - mikroskope
 midi - medi dia  
 miel - medu  
 migration - migra  
+mil (millet) - dana.cau  
+mil éthiopien - tef  
 mine - kuanga san  
 minuit - medi noce  
 mode (façon, manière) - mode  
@@ -1650,6 +1653,7 @@ soleil - sol
 sommeil - sona  
 son (sa) - se su  
 son - soni  
+sorgho - jovar  
 soufre - sulfu  
 soumission - islam  
 soupe - supa  

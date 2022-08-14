@@ -406,6 +406,7 @@
 **fokus** *keskittyminen (keskittymä)* ← englanti:focus, espanja:portugali:foco, deu:Fokus, venäjä:фо́кус, persia:فوکوس‎ (fokus)  
 **fon** *äänne (fooni)* ← englanti:ranska:phone, espanja:fono, portugali:fone, venäjä:фона (fona), malaiji:fon  
 **fong** *mehiläinen tai ampiainen* ← yleiskiina:蜂 (fēng), kantoninkiina:蜂 (fung1), wu-kiina:蜂 (fon1), korea:봉 (bong), vietnami:ong, thai:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)  
+**foni** *fonio (heinäkasvi)* ← wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, fulani:fonnye, suahili:mfonio, englanti:ranska:espanja:malaiji:fonio, deu:Foniohirse, japani:フォニオ (fonio)  
 **fonte** *lähde (kaivo)* ← portugali:fonte, espanja:fuente, venäjä:фонтан (fontan), ranska:fontaine, englanti:fountain, japani:噴水 (funsui)  
 **for** *pois (poissa)* ← espanja:fuera, portugali:fora, deu:fort + englanti:far  
 **fora** *porata* ← ranska:forer, portugali:furar, englanti:perforate, espanja:perforar  
@@ -636,6 +637,7 @@
 **jiva** *elämä (olemassaolo)* ← hindi:marathi:जीव (jīv), bangla:জীউ (jiu), telugu:జీవము (jīvamu), malaiji:jiwa, thai:ชีวิต  (chiwit), burma:ဇီဝ (jiwa), khmer:ជីវិត (jĭvit), venäjä:живой (živoy), puola:żywy  
 **joke** *vitsi* ← englanti:ranska:joke, persia:جوک‎ (jok), japani:ジョーク (jōku) + yleiskiina:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jong** *keskus (keskikohta)* ← yleiskiina:中 (zhōng), kantoninkiina:中 (zung1), korea:중 (jung), japani:中 (chuu-), vietnami:trung  
+**jovar** *durra (kirjodurra)* ← persia: جواری‎ (jovâri), hindi:ज्वार (jvār), bangla:জোয়ার (joyār), arabia: جَاوَرْس (jāwaras), englanti:jawar  
 **juba** *kaapu* ← arabia: جُبَّة (jubba), suahili:juba, malaiji:jubah, espanja:aljuba  
 **jude ja** *tuomari* ← englanti:judge, ranska:juge, espanja:juez, portugali:juiz, hindi:जज (jaj), bangla:জজ (jôj), suahili:jaji + venäjä:судья (sud'ya)  
 **jui** ** ← yleiskiina:注意 (zhùyì), kantoninkiina:注意 (zyu3 ji3), wu-kiina:注意 (tsr i), japani:注意 (chūi), korea:주의 (juui), vietnami:chú ý  
@@ -1408,6 +1410,7 @@
 **tava** *pannu (paistinpannu)* ← hindi:तवा (tavā), turkki:tava, persia:(tābe)  
 **taxi** *taksa (vero)* ← englanti:tax, portugali:taxa, espanja:tasa, hindi:टैक्स (ṭEks) + ranska:taxi, venäjä:такси (taksi), japani:タクシー (takushī), korea:택시 (taeksi), vietnami:tắc xi, hin:टैक्सी (ṭaiksī), bangla:ট্যাক্সি (ṭyaksi), turkki:malaiji:taksi, suahili:teksi  
 **taza** *tuore (raikas)* ← turkki:taze, hindi:ताज़ा (tāzā), bangla:তাজা (taja), persia:(tâze)  
+**tef** *tefheinä (röllinurmikka)* ← amharabia:ጤፍ (ṭēff), oromo:xaafii, suahili:mtefi, englanti:teff, espanja:malaiji:tef, portugali:tefe, venäjä:теф (tef), yleiskiina:苔麸 (tái fū), japani:テフ (tefu), korea:테프 (teipeu)  
 **tehni yum** *teknetium* ← englanti:technetium, ranska:technétium, espanja:tecnetio, portugali:tecnécio, venäjä:технеций, yleiskiina:锝 (dé), japani:テクネチウム, korea:테크네튬, vietnami:tecnexi, hindi:टेक्निशियम, bangla:টেকনিসিয়াম, malaiji:teknetium, suahili:tekineti, arabia: تكنيتيوم  
 **tehni** *tekniikka (keino, menetelmä)* ← kreikka:τεχνική (tehniki), venäjä:техника (tehnika), ranska:englanti:technique, espanja:portugali:técnica, hindi:तकनीक (taknīk), malaiji:teknik  
 **tela gi** *kutomakone (kangaspuut)* ← venäjä:ткать (tkat’) + malaiji:duk + turkki:doku  
@@ -1580,7 +1583,7 @@
 **xopi** *ostokset* ← englanti:ranska:espanja:shopping, japani:ショッピング (shoppingu), korea:쇼핑 (syoping), thai:ชอปปิ้ง (chop-bing), venäjä:шоппинг (šopping), yleiskiina:血拼 (xuèpīn)  
 **xou** *näytös (esitys, show)* ← englanti:deu:ranska:espanja:portugali:show, venäjä:шоу (šou), turkki:şov, suahili:shoo, thai:โชว์ (choo), korea:쇼 (syo), japani:ショー (shō), yleiskiina:秀 (xiù)  
 **xukur** *kiitos* ← arabia: شُكْر‎ m (šukr), hindi:शुक्र (śukr), bangla:শোকর (śokôr), suahili:-shukuru, turkki:şükür  
-**xulakan** *koulu (opisto)* ← yleiskiina:学 (xué) + deu:Schule, suahili:shule + englanti:school, ranska:école, espanja:escuela, portugali:escola, venäjä:школа (škola), hindi:स्कूल (skūl), bangla:স্কুল (śkul), malaiji:sekolah  
+**xulakan** *koulu (opisto)* ← yleiskiina:学 (xué) + deu:Schule, suahili:shule + englanti:school, ranska:école, espanja:escuela, portugali:escola, venäjä:школа (škola), bangla:স্কুল (śkul), malaiji:sekolah + hindi:पाठशाला (pāṭhśālā), marathi:शाळा (śāḷā), tamili:பாடசாலை (pāṭasālai)  
 **xuli** *korjaus* ← yleiskiina:修理 (xiūlǐ), japani:修理 (shuri), korea:수리 (suri)  
 **xuru** *alku* ← arabia: شُرُوع‎ (šurūʿ), persia: شروع (šoru') , hindi:शुरू (śurū), bangla:শুরু (śuru) + yleiskiina:始 (shǐ), japani:始 (kaishi), korea:시 (shi)  
 **xux** *hiljaa (hys, shhh)* ← englanti:shh, ranska:chut, venäjä:ш-ш-ш, yleiskiina:噓 (xū), japani:しーっ (shīt), korea:쉿 (swit), turkki:sus  

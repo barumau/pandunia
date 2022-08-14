@@ -319,6 +319,7 @@ dai seku - валун
 dalil - доказательство  
 dama geme - шашки  
 dan - ранг  
+dana.cau - просо (пшено)  
 dang - звенеть  
 dang gi - звонок  
 danse - танец  
@@ -774,6 +775,7 @@ jong - центр
 jong fon - гласный  
 jong xulakan - средняя школа  
 Jongoku - Китай  
+jovar - сорго (гаолян)  
 juba - халат  
 jude ja - судья  
 jui - осторожность (опаска)  
@@ -1581,6 +1583,7 @@ tasa - блюдо (таз)
 tatu - татуировка (тату)  
 taxi metre gi - таксометр  
 taza - свежий  
+tef - теф  
 tehni - техника  
 tehnilogi - технология  
 tehni yum - технеций  

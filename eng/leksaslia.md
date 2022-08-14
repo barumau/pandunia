@@ -406,6 +406,7 @@
 **fokus** *focus (concentration)* ← English:focus, Spanish:Portuguese:foco, deu:Fokus, Russian:фо́кус, Persian:فوکوس‎ (fokus)  
 **fon** *phone (speech sound)* ← English:French:phone, Spanish:fono, Portuguese:fone, Russian:фона (fona), Malay:fon  
 **fong** *bee or wasp* ← Mandarin:蜂 (fēng), Cantonese:蜂 (fung1), Wu-Chinese:蜂 (fon1), Korean:봉 (bong), Vietnamese:ong, Thai:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)  
+**foni** *fonio millet (acha rice)* ← Wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, Fulani:fonnye, Swahili:mfonio, English:French:Spanish:Malay:fonio, deu:Foniohirse, Japanese:フォニオ (fonio)  
 **fonte** *fountain (spring, well)* ← Portuguese:fonte, Spanish:fuente, Russian:фонтан (fontan), French:fontaine, English:fountain, Japanese:噴水 (funsui)  
 **for** *off (away, gone, far-off)* ← Spanish:fuera, Portuguese:fora, deu:fort + English:far  
 **fora** *drill (bore, perforate)* ← French:forer, Portuguese:furar, English:perforate, Spanish:perforar  
@@ -636,6 +637,7 @@
 **jiva** *life (existence)* ← Hindi:Marathi:जीव (jīv), Bengali:জীউ (jiu), Telugu:జీవము (jīvamu), Malay:jiwa, Thai:ชีวิต  (chiwit), Burmese:ဇီဝ (jiwa), Khmer:ជីវិត (jĭvit), Russian:живой (živoy), Polish:żywy  
 **joke** *joke* ← English:French:joke, Persian:جوک‎ (jok), Japanese:ジョーク (jōku) + Mandarin:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jong** *middle (center)* ← Mandarin:中 (zhōng), Cantonese:中 (zung1), Korean:중 (jung), Japanese:中 (chuu-), Vietnamese:trung  
+**jovar** *sorghum (durra, jawar, Indian millet)* ← Persian: جواری‎ (jovâri), Hindi:ज्वार (jvār), Bengali:জোয়ার (joyār), Arabic: جَاوَرْس (jāwaras), English:jawar  
 **juba** *robe (jubbah)* ← Arabic: جُبَّة (jubba), Swahili:juba, Malay:jubah, Spanish:aljuba  
 **jude ja** *judge (referee)* ← English:judge, French:juge, Spanish:juez, Portuguese:juiz, Hindi:जज (jaj), Bengali:জজ (jôj), Swahili:jaji + Russian:судья (sud'ya)  
 **jui** *care (caution, attention)* ← Mandarin:注意 (zhùyì), Cantonese:注意 (zyu3 ji3), Wu-Chinese:注意 (tsr i), Japanese:注意 (chūi), Korean:주의 (juui), Vietnamese:chú ý  
@@ -1408,6 +1410,7 @@
 **tava** *frying pan* ← Hindi:तवा (tavā), Turkish:tava, Persian:(tābe)  
 **taxi** *fee (fare)* ← English:tax, Portuguese:taxa, Spanish:tasa, Hindi:टैक्स (ṭEks) + French:taxi, Russian:такси (taksi), Japanese:タクシー (takushī), Korean:택시 (taeksi), Vietnamese:tắc xi, hin:टैक्सी (ṭaiksī), Bengali:ট্যাক্সি (ṭyaksi), Turkish:Malay:taksi, Swahili:teksi  
 **taza** *fresh* ← Turkish:taze, Hindi:ताज़ा (tāzā), Bengali:তাজা (taja), Persian:(tâze)  
+**tef** *lovegrass (teff)* ← Amharic:ጤፍ (ṭēff), Oromo:xaafii, Swahili:mtefi, English:teff, Spanish:Malay:tef, Portuguese:tefe, Russian:теф (tef), Mandarin:苔麸 (tái fū), Japanese:テフ (tefu), Korean:테프 (teipeu)  
 **tehni yum** *technetium* ← English:technetium, French:technétium, Spanish:tecnetio, Portuguese:tecnécio, Russian:технеций, Mandarin:锝 (dé), Japanese:テクネチウム, Korean:테크네튬, Vietnamese:tecnexi, Hindi:टेक्निशियम, Bengali:টেকনিসিয়াম, Malay:teknetium, Swahili:tekineti, Arabic: تكنيتيوم  
 **tehni** *technique (technology)* ← Greek:τεχνική (tehniki), Russian:техника (tehnika), French:English:technique, Spanish:Portuguese:técnica, Hindi:तकनीक (taknīk), Malay:teknik  
 **tela gi** *loom* ← Russian:ткать (tkat’) + Malay:duk + Turkish:doku  
@@ -1580,7 +1583,7 @@
 **xopi** *shopping* ← English:French:Spanish:shopping, Japanese:ショッピング (shoppingu), Korean:쇼핑 (syoping), Thai:ชอปปิ้ง (chop-bing), Russian:шоппинг (šopping), Mandarin:血拼 (xuèpīn)  
 **xou** *show (display, exhibition, demonstration, demo)* ← English:deu:French:Spanish:Portuguese:show, Russian:шоу (šou), Turkish:şov, Swahili:shoo, Thai:โชว์ (choo), Korean:쇼 (syo), Japanese:ショー (shō), Mandarin:秀 (xiù)  
 **xukur** *thanks (thank you)* ← Arabic: شُكْر‎ m (šukr), Hindi:शुक्र (śukr), Bengali:শোকর (śokôr), Swahili:-shukuru, Turkish:şükür  
-**xulakan** *school (institution)* ← Mandarin:学 (xué) + deu:Schule, Swahili:shule + English:school, French:école, Spanish:escuela, Portuguese:escola, Russian:школа (škola), Hindi:स्कूल (skūl), Bengali:স্কুল (śkul), Malay:sekolah  
+**xulakan** *school (institution)* ← Mandarin:学 (xué) + deu:Schule, Swahili:shule + English:school, French:école, Spanish:escuela, Portuguese:escola, Russian:школа (škola), Bengali:স্কুল (śkul), Malay:sekolah + Hindi:पाठशाला (pāṭhśālā), Marathi:शाळा (śāḷā), Tamil:பாடசாலை (pāṭasālai)  
 **xuli** *repair (fix)* ← Mandarin:修理 (xiūlǐ), Japanese:修理 (shuri), Korean:수리 (suri)  
 **xuru** *beginning (start, commencement, onset)* ← Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)  
 **xux** *hush (shh)* ← English:shh, French:chut, Russian:ш-ш-ш, Mandarin:噓 (xū), Japanese:しーっ (shīt), Korean:쉿 (swit), Turkish:sus  

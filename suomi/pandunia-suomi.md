@@ -721,6 +721,7 @@ dalil - todiste (todistus, osoitus, demonstraatio)
 dama geme - tammipeli  
 dan - sija (taso, ranking, dan)  
 dana - jyvä (luoti)  
+dana.cau - hirssi  
 dana sekur - luodinkestävä  
 dang - kilistää (soittaa kelloa)  
 dang gi - soittokello  
@@ -1370,6 +1371,7 @@ fonma - äänne (foneemi)
 fon zi - kirjain  
 fong - mehiläinen tai ampiainen  
 fong nide - mehiläispesä  
+foni - fonio (heinäkasvi)  
 fonte - lähde (kaivo)  
 fonte kalam - mustekynä  
 for - pois (poissa)  
@@ -1944,6 +1946,7 @@ Jong Afrika Vakilkrati - Keski-Afrikan Tasavalta
 jong fon - vokaali  
 jong xulakan - yläaste ja lukio  
 Jongoku - Kiina  
+jovar - durra (kirjodurra)  
 juba - kaapu  
 judau - judo  
 jude - tuomio  
@@ -3593,6 +3596,7 @@ taxi - taksa (vero)
 taxigar - taksi  
 taxi metre gi - taksamittari  
 taza - tuore (raikas)  
+tef - tefheinä (röllinurmikka)  
 tehni - tekniikka (keino, menetelmä)  
 tehni krati - teknokratia  
 tehnilogi - tekniikka (teknologia)  

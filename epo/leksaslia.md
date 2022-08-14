@@ -406,6 +406,7 @@
 **fokus** *koncentriĝo* ← angla:focus, hispana:portugala:foco, deu:Fokus, rusa:фо́кус, persa:فوکوس‎ (fokus)  
 **fon** ** ← angla:franca:phone, hispana:fono, portugala:fone, rusa:фона (fona), malaja:fon  
 **fong** *abelo aŭ vespo* ← mandarena:蜂 (fēng), kantona:蜂 (fung1), vua:蜂 (fon1), korea:봉 (bong), vjetnama:ong, taja:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)  
+**foni** ** ← volofa:foño, bam:fini, mnk:fíndi, mku:fónĩ, fula:fonnye, svahila:mfonio, angla:franca:hispana:malaja:fonio, deu:Foniohirse, japana:フォニオ (fonio)  
 **fonte** ** ← portugala:fonte, hispana:fuente, rusa:фонтан (fontan), franca:fontaine, angla:fountain, japana:噴水 (funsui)  
 **for** ** ← hispana:fuera, portugala:fora, deu:fort + angla:far  
 **fora** *taladri* ← franca:forer, portugala:furar, angla:perforate, hispana:perforar  
@@ -636,6 +637,7 @@
 **jiva** *vivo* ← hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy  
 **joke** ** ← angla:franca:joke, persa:جوک‎ (jok), japana:ジョーク (jōku) + mandarena:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jong** *centro* ← mandarena:中 (zhōng), kantona:中 (zung1), korea:중 (jung), japana:中 (chuu-), vjetnama:trung  
+**jovar** ** ← persa: جواری‎ (jovâri), hindia:ज्वार (jvār), bengala:জোয়ার (joyār), araba: جَاوَرْس (jāwaras), angla:jawar  
 **juba** *robo* ← araba: جُبَّة (jubba), svahila:juba, malaja:jubah, hispana:aljuba  
 **jude ja** *juĝisto* ← angla:judge, franca:juge, hispana:juez, portugala:juiz, hindia:जज (jaj), bengala:জজ (jôj), svahila:jaji + rusa:судья (sud'ya)  
 **jui** ** ← mandarena:注意 (zhùyì), kantona:注意 (zyu3 ji3), vua:注意 (tsr i), japana:注意 (chūi), korea:주의 (juui), vjetnama:chú ý  
@@ -1408,6 +1410,7 @@
 **tava** *pato* ← hindia:तवा (tavā), turka:tava, persa:(tābe)  
 **taxi** ** ← angla:tax, portugala:taxa, hispana:tasa, hindia:टैक्स (ṭEks) + franca:taxi, rusa:такси (taksi), japana:タクシー (takushī), korea:택시 (taeksi), vjetnama:tắc xi, hin:टैक्सी (ṭaiksī), bengala:ট্যাক্সি (ṭyaksi), turka:malaja:taksi, svahila:teksi  
 **taza** *freŝa* ← turka:taze, hindia:ताज़ा (tāzā), bengala:তাজা (taja), persa:(tâze)  
+**tef** ** ← amharaba:ጤፍ (ṭēff), oroma:xaafii, svahila:mtefi, angla:teff, hispana:malaja:tef, portugala:tefe, rusa:теф (tef), mandarena:苔麸 (tái fū), japana:テフ (tefu), korea:테프 (teipeu)  
 **tehni yum** *teknecio* ← angla:technetium, franca:technétium, hispana:tecnetio, portugala:tecnécio, rusa:технеций, mandarena:锝 (dé), japana:テクネチウム, korea:테크네튬, vjetnama:tecnexi, hindia:टेक्निशियम, bengala:টেকনিসিয়াম, malaja:teknetium, svahila:tekineti, araba: تكنيتيوم  
 **tehni** *tekniko* ← greka:τεχνική (tehniki), rusa:техника (tehnika), franca:angla:technique, hispana:portugala:técnica, hindia:तकनीक (taknīk), malaja:teknik  
 **tela gi** ** ← rusa:ткать (tkat’) + malaja:duk + turka:doku  
@@ -1580,7 +1583,7 @@
 **xopi** ** ← angla:franca:hispana:shopping, japana:ショッピング (shoppingu), korea:쇼핑 (syoping), taja:ชอปปิ้ง (chop-bing), rusa:шоппинг (šopping), mandarena:血拼 (xuèpīn)  
 **xou** *montri (ekspozicii)* ← angla:deu:franca:hispana:portugala:show, rusa:шоу (šou), turka:şov, svahila:shoo, taja:โชว์ (choo), korea:쇼 (syo), japana:ショー (shō), mandarena:秀 (xiù)  
 **xukur** *danko* ← araba: شُكْر‎ m (šukr), hindia:शुक्र (śukr), bengala:শোকর (śokôr), svahila:-shukuru, turka:şükür  
-**xulakan** *lernejo* ← mandarena:学 (xué) + deu:Schule, svahila:shule + angla:school, franca:école, hispana:escuela, portugala:escola, rusa:школа (škola), hindia:स्कूल (skūl), bengala:স্কুল (śkul), malaja:sekolah  
+**xulakan** *lernejo* ← mandarena:学 (xué) + deu:Schule, svahila:shule + angla:school, franca:école, hispana:escuela, portugala:escola, rusa:школа (škola), bengala:স্কুল (śkul), malaja:sekolah + hindia:पाठशाला (pāṭhśālā), marataja:शाळा (śāḷā), tamila:பாடசாலை (pāṭasālai)  
 **xuli** *riparo* ← mandarena:修理 (xiūlǐ), japana:修理 (shuri), korea:수리 (suri)  
 **xuru** *komenco* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
 **xux** ** ← angla:shh, franca:chut, rusa:ш-ш-ш, mandarena:噓 (xū), japana:しーっ (shīt), korea:쉿 (swit), turka:sus  

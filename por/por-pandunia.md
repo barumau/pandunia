@@ -980,6 +980,7 @@ microbiologia - mikro biologi
 microscópio - mikroskope  
 micróbio - mikro bio  
 migração - migra  
+milhete (painço) - dana.cau  
 mina - kuanga san  
 mirar (apontar) - fa dika  
 mito - deu kata  
@@ -1463,6 +1464,7 @@ sombrinha - sol cati
 sono - sona  
 sonolento - sona tabi  
 sopa - supa  
+sorgo - jovar  
 sorvete (gelado) - ais krem  
 substância - kimi  
 suco (sumo) - jus  

@@ -381,6 +381,7 @@ dai seku - ŝtonego
 dai siti - urbego  
 daka - kovrilo  
 dama geme - damludo  
+dana.cau - milio  
 danse - danco  
 Danske - dana  
 Danske dexa - Danio  

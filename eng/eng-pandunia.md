@@ -1516,6 +1516,7 @@ focus (concentration) - fokus
 fog (mist, haze) - dipe megi  
 folder (directory) - dokumen sanduku  
 follow (come after) - fa pos  
+fonio millet (acha rice) - foni  
 font - zi forma  
 food (meal) - yam xe  
 fool (buffoon) - bobo  
@@ -2319,6 +2320,7 @@ lot (plot of land) - geo tika
 louse - poyu  
 love (liking, affection) - ama  
 love romantically - fa romanse  
+lovegrass (teff) - tef  
 lover - ama ja  
 low (short, bottom) - dipe  
 lower (inferior) - nice di  
@@ -2514,6 +2516,7 @@ milk - milke
 milk thistle - milke kardon  
 mill - molkan  
 miller - mol ja  
+millet - dana.cau  
 milli- - mili  
 milligram - mili gram  
 millimeter - mili mitre  
@@ -3760,6 +3763,7 @@ something - yo xe
 sometime - yo sata  
 son - bennan  
 soon - sun  
+sorghum (durra, jawar, Indian millet) - jovar  
 soul (mind, psyche) - ruhu  
 sound (audio) - soni  
 sound (make a sound) - fa soni  

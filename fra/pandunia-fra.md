@@ -402,6 +402,7 @@ dai seku - rocher
 dalil - preuve  
 dama geme - jeu de dames  
 dan - rang  
+dana.cau - mil (millet)  
 dang gi - cloche  
 danse - dance  
 Danske - danois  
@@ -629,6 +630,7 @@ flur - fluor
 fobi ja - effrayant  
 fong - abeille ou guêpe  
 fong nide - ruche (nid d'abeille)  
+foni - fonio blanc  
 fonte kalam - stylo-plume  
 for - loin (hors, parti)  
 fora - forer (percer)  
@@ -887,6 +889,7 @@ jong - centre
 jong fon - voyelle  
 jong xulakan - école secondaire  
 Jongoku - Chine  
+jovar - sorgho  
 juba - robe  
 jude ja - juje  
 jul - joule (J)  
@@ -1697,6 +1700,7 @@ tana - tige
 tantal yum - tantale  
 taxi metre gi - taximètre  
 taza - frais  
+tef - mil éthiopien  
 tehni - technique  
 tehnilogi - technologie  
 tehni yum - technétium  
