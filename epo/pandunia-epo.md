@@ -32,8 +32,8 @@ agile - lerta
 agresi - atako (agreso)  
 agresi tabi - agresema  
 agri di - agrikultura  
-agrinomi - agronomio  
-agrisuta - agrikulturo  
+agri nomi - agronomio  
+agri suta - agrikulturo  
 aha - kompreni  
 air - aero  
 air gun - aerarmeo  
@@ -94,7 +94,7 @@ argon - argono
 arka cati - volbo  
 armi - armilo  
 arsen yum - arseno  
-artefete intelige (AI) - artefarita inteligenteco  
+arte fete intelige (AI) - artefarita inteligenteco  
 asal - origino  
 asal Australia jen - aborigeno  
 asal di - origina  
@@ -161,7 +161,7 @@ bandera - flago
 Bangla dexa - Bangladeŝo  
 bankakan - banko  
 bankar - bankisto  
-bankarute - bankrota  
+banka rute - bankrota  
 bano - tabulo  
 bano geme - tabulludo  
 banya - bano  
@@ -191,9 +191,9 @@ baxa - lingvo (paroli, komuniki)
 • trabaxa - traduki  
 • trabaxar - tradukisto  
 • unbaxaka - unulingva  
-baxakanun - gramatiko  
-baxakanun di - gramatika  
-baxalogi - lingvistiko  
+baxa kanun - gramatiko  
+baxa kanun di - gramatika  
+baxa logi - lingvistiko  
 bazar - merkato (bazaro)  
 baze - bazo  
 baze bol - basbalo  
@@ -254,7 +254,7 @@ bina plan - arĥitekturo
 bina plan ja - arĥitekto  
 bindu - punkto  
 bio - orgaaninen (biologinen)  
-biologi - biologio  
+bio logi - biologio  
 bioxe - organismo  
 bir - biero  
 birkan - drinkejo  
@@ -270,7 +270,7 @@ boce - bokso
 bocer - boksisto  
 boikote - bojkoto  
 boka - buŝo  
-bokacati - palato  
+boka cati - palato  
 bol - pilko  
 Bolgaria - Bulgario  
 boli - boligi  
@@ -355,7 +355,7 @@ cita - gepardo
 cize - fromaĝo  
 coda - fiki  
 coklate - ĉokolado  
-coklatekane - ĉokolado  
+coklate kane - ĉokolado  
 cori - ŝtelo  
 cori ja - ŝtelisto  
 cum - kiso  
@@ -393,7 +393,7 @@ darba - bati
 darja mute - disvolvi  
 data - datumo  
 data banke - datumbanko  
-data culilogi - komputoscienco  
+data culi logi - komputoscienco  
 data table - tabelo  
 dau - vojo  
 dava - sanigi (kuraci)  
@@ -426,7 +426,7 @@ deu - dio
 deu di - dia  
 deu kata - mito  
 deu krati - teokratio  
-deulogi - teologio  
+deu logi - teologio  
 • andeu sim ja - ateisto  
 dexa - lando  
 dia - tago  
@@ -654,7 +654,7 @@ festa - festo
 fete - fari (faro, fakto)  
 • infete - infekto  
 • rifete - ripeti (refari)  
-fetebaxa - artefarita lingvo  
+fete baxa - artefarita lingvo  
 fetekan - fabriko  
 feter - faristo  
 feteria - fabriko  
@@ -744,7 +744,7 @@ gana kalam - kalamo
 Ganga - Gangoj  
 gani - kanto  
 ganir - kantisto  
-ganirgrupe - ĥoro  
+ganir grupe - ĥoro  
 ganja - kanabo  
 ganse - ansero  
 ganum - tritiko  
@@ -768,7 +768,7 @@ gei - samseksema
 gem - glavo  
 geme - ludo  
 geme ja - ludanto  
-genelogu - genealogio  
+gene logu - genealogio  
 geo grafi - geografio  
 geo metre - geometrio  
 geo sismo - tertremo  
@@ -865,7 +865,7 @@ hem… - hm…
 hema - tendo  
 hemi - sango  
 anhemia - anemio  
-hemiglobin - hemoglobino  
+hemi globin - hemoglobino  
 hemi hin - sensanga  
 hen - malamo  
 hero - heroo  
@@ -874,7 +874,7 @@ hese yum - hasio
 hevan - besto  
 hevan bagi - zoo (bestoĝardeno)  
 hevan kata - bestofabelo  
-hevanlogi - zoologio  
+hevan logi - zoologio  
 hevan logi di - zoologia  
 hibride - miksulo  
 hidro - hidrogeno  
@@ -889,11 +889,11 @@ Hindi rivo - Induso
 hindi yum - indio  
 hisabu - kalkulo  
 hisabu loge - konto  
-hisabulogi - matematiko  
-hisabulogi ja - matematikisto  
+hisabu logi - matematiko  
+hisabu logija - matematikisto  
 histori - historio  
-histori ja - historiisto  
-historilogi - historio (studo de historio)  
+historija - historiisto  
+histori logi - historio (studo de historio)  
 hiyar - kukumo  
 hobi - hobio  
 hogo - fajro  
@@ -1047,7 +1047,7 @@ kape - kapti
 • konkar - kunlabori  
 karja - laboristo  
 karkan - laborejo  
-karlexi - verbo  
+kar lexi - verbo  
 karxe - laboro  
 karate - karateo  
 karavi - karvio  
@@ -1091,7 +1091,8 @@ kexa hin - senhara
 kexa sabun - ŝampuo  
 ki - ke  
 kilomitre - kilometro  
-kimilogi - ĥemio (kemio)  
+kimi logi - ĥemio (kemio)  
+kimi so - kemia elemento  
 kimono - kimono  
 kinar - rando (orlo)  
 kio - ponto  
@@ -1104,7 +1105,7 @@ kivi - kivo
 klar - klara  
 klar! - kompreneble  
 klima - klimato  
-klimalogi - klimatscienco  
+klima logi - klimatscienco  
 klin - emo (inklino, tendenco)  
 klon - klono  
 klor - kloro  
@@ -1178,13 +1179,13 @@ la - la
 labi - lipo  
 lai - veni  
 lala - luli  
-lalabede - lulilo  
-lalagani - lulkanto  
+lala bede - lulilo  
+lala gani - lulkanto  
 lampa - lampo  
 lanse - ĵeti (lanĉi)  
 lasa - rubo  
-lasastan - rubejo  
-lasatong - rubujo  
+lasa stan - rubejo  
+lasa tong - rubujo  
 lasun - ajlo  
 late - flanko (latero)  
 late di - flanka (latera)  
@@ -1393,9 +1394,9 @@ nanas - ananaso
 narko - drogo  
 nati - naski (nasko)  
 natia medi - internacia  
-natibaxa - hejmlingvo  
-natiden - naskiĝtago  
-natiloka - naskiĝejo  
+nati baxa - hejmlingvo  
+nati den - naskiĝtago  
+nati loka - naskiĝejo  
 natri - natrio  
 nau - cerbo  
 nau di - cerba  
@@ -1407,7 +1408,7 @@ nave leu - babordo
 nave raite - tribordo  
 nefre - reno  
 nekro - kadavro  
-nekrotomi - obdukcio (nekropsio)  
+nekro tomi - obdukcio (nekropsio)  
 nelu - kvar (4)  
 nen - jaro  
 nen mes den - dato  
@@ -1522,7 +1523,7 @@ patate - terpomo
 pati di - malsana  
 pati jen - paciento  
 patikan - malsanulejo  
-patilogi - patologio  
+pati logi - patologio  
 pati mise - infekto  
 pau gi - fusilo  
 pedal - pedalo  
@@ -1536,7 +1537,7 @@ pele - peli
 • propeler - helico  
 pelpel - papilio  
 pena - plumo  
-penakalam - anserplumo  
+pena kalam - anserplumo  
 penis - peniso  
 pente - pentri  
 pente broxa - peniko  
@@ -1585,7 +1586,7 @@ postakan - poŝtejo
 posta marke - poŝtmarko  
 poto - koto  
 poto di - kota  
-potostan - marĉo  
+poto stan - marĉo  
 prese - premo  
 prese - premo  
 prese gi - premilo  
@@ -1653,7 +1654,7 @@ rubi bau seku - rubeno
 rubi oranje - mandarino  
 rubi yum - rubidio  
 ruhu - animo (psiko)  
-ruhulogi - psikologio  
+ruhu logi - psikologio  
 ruke - dorso  
 rupa - aspekto  
 rus krepe - rusa krepo  
@@ -1665,12 +1666,12 @@ rutin - rutino (kutimo)
 
 sabe - scii (koni)  
 • ansabe di - fremda (nekonata)  
-sabelogi - sciteorio (epistemologio)  
+sabe logi - sciteorio (epistemologio)  
 sabe vol di - interesa  
 sabe vol ja - scivolema  
 sabe xe - scio  
 sable - sablo  
-sablestan - dezerto  
+sable stan - dezerto  
 sabu - kialo  
 sabun - sapo  
 safa - pura  
@@ -1728,11 +1729,11 @@ se - si
 seku - ŝtono  
 selen yum - seleno  
 selu - ĉelo  
-selulogi - citologio  
+selu logi - citologio  
 seme - semo  
 seme di - sema  
 semi - signifi  
-semilogi - semantiko  
+semi logi - semantiko  
 semon - unu la alian  
 semon su - reciproka  
 sene - aĝo  
@@ -1745,7 +1746,7 @@ Serbia - Serbio
 seri - serio  
 seria - serio  
 serime - ĉenero  
-seriseri - ĉeno  
+seri seri - ĉeno  
 serpe - serpento  
 sexe - sekso  
 si - esti  
@@ -1766,7 +1767,7 @@ sing - stelo
 singa - leono  
 Singapur - Singapuro  
 siro - nul  
-sismologi - sismologio  
+sismo logi - sismologio  
 sistem - sistemo  
 sita - citi  
 siti - urbo  
@@ -1837,7 +1838,7 @@ tatu - tatuo
 tava - pato  
 taza - freŝa  
 tehni - tekniko  
-tehnilogi - teknologio  
+tehni logi - teknologio  
 tehni yum - teknecio  
 tele - malproksimeco  
 tele di - malproksima  
@@ -1928,7 +1929,7 @@ vai dexa - fremda lando
 vai di - ekstera  
 vai planete - ekzoplanedo  
 vai vide di - evidenta  
-vakilkrati - republiko  
+vakil krati - republiko  
 vali - valo  
 valu - valoro  
 vanu - amuzo  
@@ -1949,7 +1950,7 @@ vide - vidi (rigardi)
 vide ja - spektanto  
 vidou - vidvo  
 viki makala - vikia artikulo  
-vikipedia - vikipedio  
+viki pedia - vikipedio  
 vin - vino  
 vin suan - vinagro  
 virje - virgulo  
@@ -1960,7 +1961,7 @@ vise ma - vicpatrino
 vise pa - vicpatro  
 Vixnu - Viŝnuo  
 vo - tio  
-vokesoni - vokalo  
+voke soni - vokalo  
 vol - voli  
 vol xe - volo  
 volfe - lupo  
@@ -2052,9 +2053,8 @@ yo xe - io
 yoga - jogo  
 yogo - jugo  
 yogur - jogurto  
-younan - knabo  
-youni - knabino  
-yum - kemia elemento  
+you nan - knabo  
+you ni - knabino  
 yumor - humuro  
 yumor di - humura  
 yumor ja - humuristo  

@@ -566,7 +566,7 @@
 **hina** ** ← araba: حِنَّاء‎ (ḥinnāʾ), angla:henna, franca:henné, hispana:alheña, portugala:hena, rusa:хна (hna), hindia:हिना (hinā)  
 **hindi yum** *indio* ← angla:indium, franca:indium, hispana:indium, portugala:índio, rusa:индий, mandarena:铟 (yīn), japana:インジウム, korea:인듐, vjetnama:indi, hindia:इण्डियम, bengala:ইন্ডিয়াম, malaja:indium, svahila:indi, araba: انديوم  
 **hisabu** *kalkulo* ← araba: حِسَاب‎ (ḥisāb), turka:hesap, oroma:hisaaba, svahila:hisabu, hindia:हिसाब (hisāb), bengala:হিসাব (hiśab)  
-**historilogi** *historio (studo de historio)* ← angla:history, hispana:svahila:historia, portugala:história, franca:histoire, rusa:история (istoriya)  
+**histori logi** *historio (studo de historio)* ← angla:history, hispana:svahila:historia, portugala:história, franca:histoire, rusa:история (istoriya)  
 **hiyar** *kukumo* ← persa:خیار (xiyâr), turka:hıyar, araba:خيار‎ (khiyār), hindia:खीरा (khīrā), bengala:ক্ষীরা (kṣīrā)  
 **hobi** *hobio* ← angla:hispana:portugala:deu:franca:hobby, rusa:хобби (hobbi)  
 **hogo** *fajro* ← hispana:fuego, portugala:fogo + rusa:огонь (ogon’), hindia:आग (āg), bengala:অগ্নি (ôgni), pan:ਅੱਗ (ag) + mandarena:火 (huǒ), kantona:火 (fo2), vua:火 (hu2), korea:화 (hwa), vjetnama:hoả  
@@ -1265,8 +1265,8 @@
 **rota vanu gi** ** ← angla:top, franca:toupie  
 **rubi bau seku** *rubeno* ← angla:ruby, portugala:rubi, hispana:rubí, franca:rubis, deu:Rubin, rusa:рубин (rubin), japana:ルビー (rubī)  
 **rubi yum** *rubidio* ← angla:rubidium, franca:rubidium, hispana:rubidio, portugala:rubídio, rusa:рубидий, mandarena:铷 (rú), japana:ルビジウム, korea:루비듐, vjetnama:rubiđi, hindia:रुबिडियम, bengala:রুবিডিয়াম, malaja:rubidium, svahila:rubidi, araba: روبيديوم  
+**ruhu logi** *psikologio* ← turka:ruh bilimi, hindia:मनोविज्ञान (manovigyān), bengala:মনোবিজ্ঞান (mônobiggan), malaja:ilmu jiwa, araba:(ʿilm an-nafs), deu:Seelenkunde, angla:psychology, hispana:psicológia  
 **ruhu** *animo (psiko)* ← araba:(rūħ), malaja:ruh, turka:ruh, hindia:रूह (rūh), svahila:roho, haŭsa:ruhu, som:ruux, + rusa:дух (duh)  
-**ruhulogi** *psikologio* ← turka:ruh bilimi, hindia:मनोविज्ञान (manovigyān), bengala:মনোবিজ্ঞান (mônobiggan), malaja:ilmu jiwa, araba:(ʿilm an-nafs), deu:Seelenkunde, angla:psychology, hispana:psicológia  
 **ruke sake** ** ← deu:angla:rucksack, rusa:рюкзак (rjukzak), japana: リュックサック (ryukkusakku), korea:륙색 (ryuksaek)  
 **ruke** *dorso* ← deu:Rücken  
 **rupa** *aspekto* ← hindia:रूप (rūp), malaja: rupa, taja: รูป (rūp), kmera:រូប (rūp)  
@@ -1527,8 +1527,8 @@
 **vinil** ** ← angla:vinyl, hispana:vinilo, portugala:vinil, franca:vinyle, rusa:винил (vinil), japana:ビニル (viniru)  
 **violeta** ** ← angla:portugala:franca:violet, hispana:violeta, deu:violett, rusa:фиолетовый (fioletovyy), japana:バイオレット (baioretto), korea:보라 (bola)  
 **virje** *virgulo* ← angla:virgin, franca:vierge, hispana:virgen, portugala:virgem  
+**virus logi** ** ← polona:wirusologia, rusa:вирусология (virusologiya)  
 **virus** ** ← angla:hispana:franca:malaja:virus, portugala:vírus, rusa:вирус (virus), turka:virüs, hindia:वाइरस (vāirasa), japana:ウイルス (uirusu)  
-**viruslogi** ** ← polona:wirusologia, rusa:вирусология (virusologiya)  
 **vise** *vic-* ← angla:franca:hispana:portugala:vice-, rusa:вице- (vitse-), deu:vize-  
 **vita** ** ← franca:vis, itala:vite, rusa:винт (vint), turka:vida  
 **vitamin** ** ← angla:malaja:vitamin, franca:vitamine, hispana:portugala:vitamina, rusa:витамин (vitamin), mandarena:维他命 (wéitāmìng), japana:ビタミン (bitamin), korea:비타민 (bitamin), vjetnama:vi ta min, hindia:विटामिन (viṭāmin), bengala:ভিটামিন (bhiṭamin), araba: فِيتَامِين‎ (fitamīn)  

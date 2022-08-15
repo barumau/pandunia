@@ -566,7 +566,7 @@
 **hina** *hennapensas* ← arabia: حِنَّاء‎ (ḥinnāʾ), englanti:henna, ranska:henné, espanja:alheña, portugali:hena, venäjä:хна (hna), hindi:हिना (hinā)  
 **hindi yum** *indium* ← englanti:indium, ranska:indium, espanja:indium, portugali:índio, venäjä:индий, yleiskiina:铟 (yīn), japani:インジウム, korea:인듐, vietnami:indi, hindi:इण्डियम, bangla:ইন্ডিয়াম, malaiji:indium, suahili:indi, arabia: انديوم  
 **hisabu** *lasku (laskelma)* ← arabia: حِسَاب‎ (ḥisāb), turkki:hesap, oromo:hisaaba, suahili:hisabu, hindi:हिसाब (hisāb), bangla:হিসাব (hiśab)  
-**historilogi** *historia (oppiaine)* ← englanti:history, espanja:suahili:historia, portugali:história, ranska:histoire, venäjä:история (istoriya)  
+**histori logi** *historia (oppiaine)* ← englanti:history, espanja:suahili:historia, portugali:história, ranska:histoire, venäjä:история (istoriya)  
 **hiyar** *kurkku* ← persia:خیار (xiyâr), turkki:hıyar, arabia:خيار‎ (khiyār), hindi:खीरा (khīrā), bangla:ক্ষীরা (kṣīrā)  
 **hobi** *harrastus* ← englanti:espanja:portugali:deu:ranska:hobby, venäjä:хобби (hobbi)  
 **hogo** *tuli* ← espanja:fuego, portugali:fogo + venäjä:огонь (ogon’), hindi:आग (āg), bangla:অগ্নি (ôgni), pan:ਅੱਗ (ag) + yleiskiina:火 (huǒ), kantoninkiina:火 (fo2), wu-kiina:火 (hu2), korea:화 (hwa), vietnami:hoả  
@@ -1265,8 +1265,8 @@
 **rota vanu gi** *hyrrä* ← englanti:top, ranska:toupie  
 **rubi bau seku** *rubiini* ← englanti:ruby, portugali:rubi, espanja:rubí, ranska:rubis, deu:Rubin, venäjä:рубин (rubin), japani:ルビー (rubī)  
 **rubi yum** *rubidium* ← englanti:rubidium, ranska:rubidium, espanja:rubidio, portugali:rubídio, venäjä:рубидий, yleiskiina:铷 (rú), japani:ルビジウム, korea:루비듐, vietnami:rubiđi, hindi:रुबिडियम, bangla:রুবিডিয়াম, malaiji:rubidium, suahili:rubidi, arabia: روبيديوم  
+**ruhu logi** *psykologia* ← turkki:ruh bilimi, hindi:मनोविज्ञान (manovigyān), bangla:মনোবিজ্ঞান (mônobiggan), malaiji:ilmu jiwa, arabia:(ʿilm an-nafs), deu:Seelenkunde, englanti:psychology, espanja:psicológia  
 **ruhu** *henki (sielu, mieli, psyyke)* ← arabia:(rūħ), malaiji:ruh, turkki:ruh, hindi:रूह (rūh), suahili:roho, hausa:ruhu, som:ruux, + venäjä:дух (duh)  
-**ruhulogi** *psykologia* ← turkki:ruh bilimi, hindi:मनोविज्ञान (manovigyān), bangla:মনোবিজ্ঞান (mônobiggan), malaiji:ilmu jiwa, arabia:(ʿilm an-nafs), deu:Seelenkunde, englanti:psychology, espanja:psicológia  
 **ruke sake** *reppu (rinkka)* ← deu:englanti:rucksack, venäjä:рюкзак (rjukzak), japani: リュックサック (ryukkusakku), korea:륙색 (ryuksaek)  
 **ruke** *selkä* ← deu:Rücken  
 **rupa** *ilmiasu (ulkonäkö)* ← hindi:रूप (rūp), malaiji: rupa, thai: รูป (rūp), khmer:រូប (rūp)  
@@ -1527,8 +1527,8 @@
 **vinil** *vinyyli* ← englanti:vinyl, espanja:vinilo, portugali:vinil, ranska:vinyle, venäjä:винил (vinil), japani:ビニル (viniru)  
 **violeta** *orvokki* ← englanti:portugali:ranska:violet, espanja:violeta, deu:violett, venäjä:фиолетовый (fioletovyy), japani:バイオレット (baioretto), korea:보라 (bola)  
 **virje** *neitsyt* ← englanti:virgin, ranska:vierge, espanja:virgen, portugali:virgem  
+**virus logi** *virologia* ← puola:wirusologia, venäjä:вирусология (virusologiya)  
 **virus** *virus* ← englanti:espanja:ranska:malaiji:virus, portugali:vírus, venäjä:вирус (virus), turkki:virüs, hindi:वाइरस (vāirasa), japani:ウイルス (uirusu)  
-**viruslogi** *virologia* ← puola:wirusologia, venäjä:вирусология (virusologiya)  
 **vise** *vara- (korvike-)* ← englanti:ranska:espanja:portugali:vice-, venäjä:вице- (vitse-), deu:vize-  
 **vita** *ruuvi* ← ranska:vis, italia:vite, venäjä:винт (vint), turkki:vida  
 **vitamin** *vitamiini* ← englanti:malaiji:vitamin, ranska:vitamine, espanja:portugali:vitamina, venäjä:витамин (vitamin), yleiskiina:维他命 (wéitāmìng), japani:ビタミン (bitamin), korea:비타민 (bitamin), vietnami:vi ta min, hindi:विटामिन (viṭāmin), bangla:ভিটামিন (bhiṭamin), arabia: فِيتَامِين‎ (fitamīn)  

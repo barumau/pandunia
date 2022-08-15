@@ -21,9 +21,9 @@ Afghan - 阿富汗
 agile - 灵活的  
 agresi - 攻击  
 agresi ja - 侵略者  
-agribiologi - 土壤生物学  
-agricun - 农村  
-agrinomi - 农学  
+agri bio logi - 土壤生物学  
+agri cun - 农村  
+agri nomi - 农学  
 air - 空气  
 • anair bio di - 厌氧的  
 air gun - 空军  
@@ -80,7 +80,7 @@ armi - 武器
 aroma - 气味  
 aroma melon - 香瓜  
 arsen yum - 砷  
-artefete intelige (AI) - 人工智能  
+arte fete intelige (AI) - 人工智能  
 asal - 起源  
 asal di - 原始的  
 asar - 影响  
@@ -153,8 +153,8 @@ bau seku - 宝石
 baxa - 语言  
 • trabaxa - 翻译  
 baxa jinse - 文法的性  
-baxalogi - 语言学  
-bazestrute - 基础设施  
+baxa logi - 语言学  
+baze strute - 基础设施  
 bazar - 市场  
 baze - 底部  
 baze bol - 棒球  
@@ -191,19 +191,19 @@ bil si - 也许 (或是, 可能)
 bina - 建筑  
 bina plan - 建筑学  
 bina plan ja - 建筑师  
-biojinse - 生物性別  
-biologi - 生物学  
-biosistem - 生物群系  
-biotoxi - 毒素  
+bio jinse - 生物性別  
+bio logi - 生物学  
+bio sistem - 生物群系  
+bio toxi - 毒素  
 bioxe - 生物  
 bir - 啤酒  
 biskute - 饼干 (曲奇饼)  
 bismute - 铋  
 bison - 野牛  
 boce - 拳击  
-bocepante - 平角褲  
+boce pante - 平角褲  
 bocer - 拳击手  
-bokacati - 上颚 (口盖)  
+boka cati - 上颚 (口盖)  
 bol - 球  
 boli varis - 饭 (米饭)  
 bomba - 炸弹  
@@ -245,8 +245,8 @@ cakra - 轮子
 camaca - 匙子  
 cana - 刹那  
 cati - 屋顶 (房顶)  
-caukitabu - 草书  
-caumedan - 草地  
+cau kitabu - 草书  
+cau medan - 草地  
 cavi - 钥匙 (锁匙)  
 ceke - 检查  
 ceke - 支票  
@@ -271,7 +271,7 @@ cira cira di - 褴褛的
 cita - 猎豹  
 cize - 酪 (起司)  
 coklate - 巧克力  
-coklatekane - 巧克力棒  
+coklate kane - 巧克力棒  
 congcing - 重庆  
 copu - 锄头  
 culi - 处理  
@@ -297,7 +297,7 @@ darja mute - 发展 (开发)
 data - 数据  
 data banke - 数据库  
 data culi - 数据处理  
-data culilogi - 计算机科学  
+data culi logi - 计算机科学  
 data table - 表格  
 dava sui - 药水  
 dava xe - 药物  
@@ -503,7 +503,7 @@ gana - 秆
 gana kalam - 蘆葦筆  
 gani - 歌  
 ganir - 歌手  
-ganirgrupe - 合唱团  
+ganir grupe - 合唱团  
 ganse - 雁 (鹅)  
 ganum - 麦  
 gar - 如果 (要是)  
@@ -516,11 +516,11 @@ gati - 硬
 gati mate - 固体  
 gau tehni - 高科技 (高技术)  
 gem - 剑  
-gemdau - 剑道  
-gemsuta - 击剑  
+gem dau - 剑道  
+gem suta - 击剑  
 gene di - 生的  
-genelogu - 系谱学  
-genetipe - 基因型  
+gene logu - 系谱学  
+gene tipe - 基因型  
 geo forme - 地势  
 geo grafi - 地理  
 geo metre - 几何学  
@@ -565,7 +565,7 @@ guta kaska oste - 膝盖骨
 ha - 有  
 habar - 消息  
 habar letre - 实事通讯  
-habarmedia - 新闻媒体  
+habar media - 新闻媒体  
 Habaxa - 阿比西尼亚  
 hafen yum - 铪  
 haha - 笑  
@@ -605,14 +605,14 @@ hem - 深思 (考虑)
 hema - 帐篷  
 hemi - 血  
 anhemia - 贫血  
-hemiglobin - 血红蛋白  
-hemiselu - 血球  
+hemi globin - 血红蛋白  
+hemi selu - 血球  
 hepate - 肝脏  
 hero - 英雄 (勇士)  
 Hese - 黑森  
 hevan - 动物  
 hevan bagi - 动物园  
-hevanlogi - 动物学  
+hevan logi - 动物学  
 hidrargente - 汞  
 hidro - 氢  
 hijabu - 面纱  
@@ -621,7 +621,7 @@ hindi raja - 拉贾
 Hindi rivo - 印度河  
 hindi yum - 铟  
 hisabu loge - 账户  
-hisabulogi - 数学  
+hisabu logi - 数学  
 hiyar - 黄瓜  
 hobi ja - 爱好者  
 hogo - 火  
@@ -679,7 +679,7 @@ jeka da - 借出
 jeka na - 借入  
 jelakan - 监狱 (监牢)  
 jen - 人  
-jetegrafi - 投射 (投影)  
+jete grafi - 投射 (投影)  
 jiang ja - 工匠 (匠人)  
 jinse - 性别  
 jinselogi - 性别研究  
@@ -753,7 +753,7 @@ kar - 工作
 • konkar - 合作  
 karja - 工人 (工作者)  
 karkan - 工厂  
-karlexi - 动词  
+kar lexi - 动词  
 karxe - 工作  
 karate - 空手道  
 karbon - 碳  
@@ -769,7 +769,7 @@ karote - 红萝卜
 karse - 粗糙  
 karse limon - 箭叶橙  
 karta - 地图  
-kartagrafi - 地图学  
+karta grafi - 地图学  
 karte - 牌  
 kaska - 壳 (皮)  
 katus - 仙人掌  
@@ -784,7 +784,8 @@ kerne - 核心
 kexa broxa - 发刷  
 kexa hin - 无毛  
 kimi - 物质  
-kimilogi - 化学  
+kimi logi - 化学  
+kimi so - 元素  
 kimono - 和服  
 kinar - 边  
 kinar baryer - 篱笆  
@@ -854,8 +855,8 @@ kuri yum - 锔
 la - 该 (上述的)  
 lage - 湖  
 lai - 来  
-lalabede - 摇篮  
-lalagani - 摇篮曲  
+lala bede - 摇篮  
+lala gani - 摇篮曲  
 lama - 喇嘛  
 lamadin - 喇嘛教  
 lampa - 灯  
@@ -863,8 +864,8 @@ lanse grafi - 投影
 lanse xe - 投掷物  
 lantan - 镧  
 lasa - 废物 (垃圾)  
-lasastan - 垃圾场  
-lasatong - 垃圾桶  
+lasa stan - 垃圾场  
+lasa tong - 垃圾桶  
 lasun - 大蒜 (蒜头)  
 late - 侧面 (旁边)  
 Latvia - 拉脱维亚  
@@ -1044,8 +1045,8 @@ narko - 毒品 (麻醉. 麻药 )
 • posnati - 产后  
 • prenati - 产前  
 natia medi - 国际  
-natibaxa - 母语  
-natiloka - 出生地  
+nati baxa - 母语  
+nati loka - 出生地  
 natri - 钠  
 nau - 脑  
 nau di - 大脑的  
@@ -1058,8 +1059,8 @@ nefre - 肾脏
 nefte - 油  
 nefte guku - 野菊花  
 nekro - 尸体  
-nekrofilia - 恋尸癖  
-nekrotomi - 尸检  
+nekro filia - 恋尸癖  
+nekro tomi - 尸检  
 nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
@@ -1140,7 +1141,7 @@ pari dexa - 仙境
 pari kata - 童话  
 parke - 园  
 parne - 蕨  
-partijen - 伙伴  
+parti jen - 伙伴  
 pas - 過  
 pas loga - 密码  
 pase - 和平  
@@ -1152,7 +1153,7 @@ pasta petra - 岩漿
 pati gene xe - 病原体  
 pati jen - 患者 (病患)  
 patikan - 医院  
-patilogi - 病理学  
+pati logi - 病理学  
 pati mise - 传染  
 pau gi - 手枪  
 pede - 屁  
@@ -1160,8 +1161,8 @@ pei gong - 职业
 • propeler - 螺旋桨  
 pelmen - 饺子  
 pelpel - 蝴蝶  
-penakalam - 鹅毛笔  
-penakardon - 翼蓟  
+pena kalam - 鹅毛笔  
+pena kardon - 翼蓟  
 pende kardon - 垂花飞廉  
 pende sor - 挂锁  
 pente - 油漆 (颜料)  
@@ -1194,7 +1195,7 @@ politi - 政府
 politi lona - 政治  
 politi mode - 政体  
 polska yum - 钋  
-pompetapa - 活塞  
+pompe tapa - 活塞  
 ponte pin - 指南针  
 porei - 韭葱  
 porte - 港  
@@ -1205,7 +1206,7 @@ pote ja - 陶瓷工
 pote suta - 陶器制造  
 poto - 坭  
 poto defa bano - 挡泥板  
-potostan - 沼泽  
+poto stan - 沼泽  
 poyu - 虱子  
 prazedim yum - 镨  
 prese - 压力  
@@ -1284,7 +1285,7 @@ sabe vol ja - 好奇
 sable - 沙  
 sabun - 肥皂  
 safar - 旅行  
-safarceke - 旅行支票  
+safar ceke - 旅行支票  
 sagu - 西谷米  
 sahi - 正确  
 saide - 狩猎  
@@ -1317,11 +1318,11 @@ saur - 蜥蜴
 se di - 自私  
 seku - 石 (岩)  
 selen yum - 硒  
-selulogi - 细胞学  
+selu logi - 细胞学  
 seme - 种  
 seme dana - 种子  
 seme di - 种子的  
-semilogi - 语义学  
+semi logi - 语义学  
 semon - 彼此  
 sene - 年岁  
 seng - 生的  
@@ -1335,7 +1336,7 @@ serami - 陶瓷
 seri - 系列  
 seria - 系列  
 serime - 连结  
-sexelogi - 性学  
+sexe logi - 性学  
 si - 对  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
@@ -1399,7 +1400,7 @@ taxi metre gi - 计程器
 taza - 新鲜的  
 tef - 苔麸  
 tehni - 技术  
-tehnilogi - 工艺学  
+tehni logi - 工艺学  
 tehni yum - 锝  
 tela - 布料  
 tela gi - 织机  
@@ -1593,8 +1594,7 @@ yoga - 瑜伽功
 yogo - 轭  
 yogur - 酸奶 (优格)  
 you - 幼稚  
-younen - 幼年  
-yum - 元素  
+you nen - 幼年  
 yung - 融化  
 yung petra - 熔岩  
 yung safa - 熔炼  

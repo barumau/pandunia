@@ -28,9 +28,9 @@ agresi - agression (attaque)
 agresi ja - agresseur  
 agresi tabi - agressif  
 agri - cultiver  
-agribiologi - agrobiologie  
+agri bio logi - agrobiologie  
 agri di - agricole  
-agrinomi - agronomie  
+agri nomi - agronomie  
 aha - comprendre (réaliser)  
 air - air  
 air bio di - aérobique  
@@ -134,8 +134,8 @@ armia - armée
 armi - arme  
 aroma - odeur  
 arsen yum - arsenic  
-artefete - artefact  
-artefete intelige (AI) - intelligence artificielle  
+arte fete - artefact  
+arte fete intelige (AI) - intelligence artificielle  
 Artika - arctique  
 Artika Hai - océan Arctique  
 Aruba - Aruba  
@@ -224,7 +224,7 @@ bangla baxa - bengali
 Bangla dexa - Bangladesh  
 bankakan - banque  
 bankar - banquier  
-bankarute - failli  
+banka rute - failli  
 bano - tableau (panneau)  
 bano geme - jeu de société  
 banya - bain  
@@ -257,7 +257,7 @@ baxa - langue
 • trabaxa - traduction  
 baxa jinse - genre grammatical  
 baya - baie (golf)  
-bazestrute - infrastructure  
+baze strute - infrastructure  
 bazar - marché (bazar)  
 baze - base  
 baze bol - baseball  
@@ -298,20 +298,20 @@ bilor - cristal
 bina - bâtiment  
 bina plan - architecture  
 bina plan ja - architecte  
-biologi - biologie  
-biosana xe - compost  
-biosistem - biome  
-biotoxi - toxine  
+bio logi - biologie  
+bio sana xe - compost  
+bio sistem - biome  
+bio toxi - toxine  
 bioxe - organisme  
 bir - bière  
 biskute - biscuit  
 bismute - bismuth  
 bison - bison  
 boce - boxe  
-bocepante - caleçon  
+boce pante - caleçon  
 bocer - boxeur  
 boing - rebondir  
-bokacati - palais de la bouche  
+boka cati - palais de la bouche  
 bol - balle (boule)  
 bolte - boulon  
 bomba - bombe  
@@ -355,7 +355,7 @@ canse - chance
 carme - charme  
 cati - toit  
 cau - herbe (gazon)  
-caumedan - pelouse (gazon)  
+cau medan - pelouse (gazon)  
 cavi - clé (clef)  
 ceke - chèque  
 cen - avant  
@@ -383,7 +383,7 @@ cira - déchirer
 cita - guépard  
 cize - fromage  
 coklate - chocolat  
-coklatekane - tablette de chocolat  
+coklate kane - tablette de chocolat  
 copu - houe  
 culi - traitement (processe)  
 cun - village  
@@ -413,7 +413,7 @@ darmestadi yum - darmstadtium
 data - données  
 data banke - base de données  
 data culi - traitement de données  
-data culilogi - informatique  
+data culi logi - informatique  
 dau bano - panneau de signalisation  
 dava sui - pocion  
 dava xe - médicament (remède)  
@@ -684,7 +684,7 @@ gan tela - serviette
 gana - canne  
 gana kalam - calame  
 gani - chanter (chanson)  
-ganirgrupe - chœur  
+ganir grupe - chœur  
 ganse - oie  
 ganum - blé  
 gar - si  
@@ -699,18 +699,18 @@ gau - haut
 gau tehni - hautes technologies  
 gazel - gazelle  
 gem - épée  
-gemdau - kendo  
-gemsuta - escrime  
-genelogi di - génétique  
-genelogu - généalogie  
-genetipe - génotype  
+gem dau - kendo  
+gem suta - escrime  
+gene logi di - génétique  
+gene logu - généalogie  
+gene tipe - génotype  
 gene yo hevan - élever  
 Geo - Terre  
 geo elfe - gnome  
 geo forme - terrain  
 geo grafi - geographie  
 geo kaska plate - plaque tectonique  
-geologi - géologie  
+geo logi - géologie  
 geo metre - géométrie  
 geo nice jela - oubliette (cul de basse-fosse)  
 geo politi - géopolitique  
@@ -792,8 +792,8 @@ hem… - hum…
 hema - tente  
 hemi - sang  
 anhemia - anémie  
-hemiglobin - hémoglobine  
-hemiselu - cellule sanguine (globule)  
+hemi globin - hémoglobine  
+hemi selu - cellule sanguine (globule)  
 hen - haine  
 hepate - foie  
 hero - héros  
@@ -803,7 +803,7 @@ hevan - animal (bête)
 hevan agri suta - élevage  
 hevan bagi - zoo  
 hevan kata - fable  
-hevanlogi - zoologie  
+hevan logi - zoologie  
 hevan logi di - zoologique  
 hidrargente - mercure  
 hidro - hydrogène  
@@ -814,7 +814,7 @@ Hindi dexa - Hindustan
 Hindi rivo - Indus  
 hindi yum - indium  
 hisabu loge - compte  
-hisabulogi - mathématiques  
+hisabu logi - mathématiques  
 hiyar - concombre  
 hobi ja - amateur  
 hogo - feu  
@@ -877,7 +877,7 @@ jeka na - empruntre
 jelakan - prison (geôle)  
 jen - personne  
 • projete - projet  
-jetegrafi - projeter (image projection)  
+jete grafi - projeter (image projection)  
 jihade - lutte  
 jin lai - accès  
 jini - esprit (génie)  
@@ -956,10 +956,10 @@ kar - travailler
 • duskar - méfait (péché)  
 • konkar - collaborer  
 karja - travailleur (ouvrier)  
-karlexi - verbe  
+kar lexi - verbe  
 karxe - travail  
 karate - karaté  
-karate ja - karatéka  
+karateja - karatéka  
 karbon - carbone  
 karbon duoxide - dioxyde de carbone  
 karbon kalam - crayon  
@@ -975,7 +975,7 @@ karote - carotte
 karse - rêche (rugueux, gros)  
 karse limon - combava  
 karta - carte  
-kartagrafi - cartographie  
+karta grafi - cartographie  
 karte - carte  
 karuba - caroube  
 kaska - carapace (coquille, coquillage, croûte)  
@@ -994,7 +994,8 @@ kexa broxa - brosse à cheveux
 kexa hin - glabre  
 ki - que  
 kimi - substance  
-kimilogi - chimie  
+kimi logi - chimie  
+kimi so - élément chimique  
 kimono - kimono  
 kinar - bord  
 Kinxasa - Kinshasa  
@@ -1074,8 +1075,8 @@ kux loka - couch (couchette)
 la - le (la)  
 lage - lac  
 lai - venir  
-lalabede - berceau  
-lalagani - berceause  
+lala bede - berceau  
+lala gani - berceause  
 lama - lama (enseignant religieux du bouddhisme tibétain)  
 lamadin - lamaïsme  
 lampa - lampe  
@@ -1083,8 +1084,8 @@ lanse grafi - projection
 lanse xe - projectile  
 lantan - lanthane  
 lasa - ordures  
-lasastan - décharge  
-lasatong - poubelle  
+lasa stan - décharge  
+lasa tong - poubelle  
 lasun - ail  
 late - côté  
 late di - latéral  
@@ -1285,8 +1286,8 @@ nati - naître (naissance)
 • prenati - prénatal  
 natia - nation  
 natia medi - international  
-natibaxa - langue maternelle  
-natiloka - lieu de naissance  
+nati baxa - langue maternelle  
+nati loka - lieu de naissance  
 natri - sodium  
 nau - cerveau (cervelle)  
 nau di - cérébral  
@@ -1297,9 +1298,9 @@ nave raite - tribord
 nefre - rein  
 nefte - huile (pétrole)  
 nekro - cadavre (corps)  
-nekrofilia - nécrophilie  
-nekrologa - nécrologie  
-nekrotomi - autopsie  
+nekro filia - nécrophilie  
+nekro loga - nécrologie  
+nekro tomi - autopsie  
 nelu - quatre (4)  
 nen - an (année)  
 neodim yum - néodyme  
@@ -1395,7 +1396,7 @@ pari kata - conte de fées
 Paris - Paris  
 parke - parc  
 parne - fougères  
-partijen - partenaire  
+parti jen - partenaire  
 pas - passer  
 pas dau - passe (passage)  
 pas loga - mot de passe  
@@ -1409,7 +1410,7 @@ pasta petra - magma
 pati gene xe - agent pathogène  
 pati jen - patient  
 patikan - hôpital  
-patilogi - pathologie  
+pati logi - pathologie  
 pati mise - infection (contagion)  
 pau gi - pistolet  
 pauza - pause  
@@ -1421,8 +1422,8 @@ pei gong jiva - carrière
 pelpel - papillon  
 pena - plume  
 • depena - plumer  
-penakalam - plume  
-penakardon - cirse commun  
+pena kalam - plume  
+pena kardon - cirse commun  
 pende kardon - chardon penché  
 pende sor - cadenas  
 pente - peinture  
@@ -1463,7 +1464,7 @@ Polinesi - Polynesie
 politi - gouvernement  
 politi ja - administrateur  
 polska yum - polonium  
-pompetapa - piston  
+pompe tapa - piston  
 porei - poireau  
 porte - porte  
 porte - porter  
@@ -1482,7 +1483,7 @@ pote ja - potier
 pote suta - poterie  
 poto - boue (fange, bourbe, gadoue)  
 poto defa bano - garde-boue (aile)  
-potostan - marécage (marais)  
+poto stan - marécage (marais)  
 poyu - pou  
 prazedim yum - praséodyme  
 prese - pression  
@@ -1564,7 +1565,7 @@ rubi oranje - mandarine
 rubi salmon - saumon sockeye  
 rubi yum - rubidium  
 ruhu - psyché  
-ruhulogi - psychologie  
+ruhu logi - psychologie  
 ruhu mixe di - perplexe (désorienté)  
 rus yum - ruthénium  
 ruterfor yum - rutherfordium  
@@ -1573,8 +1574,8 @@ ruterfor yum - rutherfordium
 
 sabe - savoir (connaître)  
 sable - sable  
-sablepetra - grès  
-safarceke - chèque de voyage  
+sable petra - grès  
+safar ceke - chèque de voyage  
 safar keka ja - touriste  
 sagu - sagoutier  
 sahi - correct (juste)  
@@ -1612,12 +1613,12 @@ sekur - sûr
 sel - conseil  
 selen yum - sélénium  
 selge - blettes (bettes)  
-selulogi - cytologie  
+selu logi - cytologie  
 seme - semence  
 seme di - séminal  
 semi - signifier (voiloir dire)  
-semiforar - sémaphore  
-semilogi - sémantique  
+semi forar - sémaphore  
+semi logi - sémantique  
 semon - l'un l'autre  
 sene - âge  
 seng - cru  
@@ -1632,7 +1633,7 @@ seri - série
 seria - série  
 serime - maillon (chaînon)  
 • ansexe di - asexué  
-sexelogi - sexologie  
+sexe logi - sexologie  
 si - être  
 siborge yum - seaborgium  
 sifa loga - adjectif  
@@ -1701,7 +1702,7 @@ taxi metre gi - taximètre
 taza - frais  
 tef - mil éthiopien  
 tehni - technique  
-tehnilogi - technologie  
+tehni logi - technologie  
 tehni yum - technétium  
 tela - tissu  
 tela gi - métier à tisser  
@@ -1834,7 +1835,7 @@ vitamin - vitamine
 Vixnu - Vishnou  
 vo - ce...lá  
 vode - vœu (promesse)  
-vokesoni - voyelle  
+voke soni - voyelle  
 vol - vouloir  
 volfe - loup  
 volfram - tungstène  
@@ -1920,8 +1921,7 @@ yi - ce...ci
 yogo - joug  
 yogur - yaourt (yogourt)  
 you - infantile (immature)  
-youmoke - pousse  
-yum - élément chimique  
+you moke - pousse  
 yung - melt  
 yung petra - lave  
 yung safa - fondu  

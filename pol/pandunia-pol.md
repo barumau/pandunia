@@ -38,9 +38,9 @@ agresi - atak (agresja, napaść)
 agresi tabi - agresywny  
 agri - uprawić, uprawiać  
 agrija - rolnik, farmer  
-agrinomi - agronomia  
-agristan - wieś, tereny wiejskie  
-agristan di - wiejski, rustykalny  
+agri nomi - agronomia  
+agri stan - wieś, tereny wiejskie  
+agri stan di - wiejski, rustykalny  
 aha - rozumieć, pojmować  
 air - powietrze  
 air gun - siły powietrzne  
@@ -139,7 +139,7 @@ armi - broń
 aroma - zapach (aromat, smród, odór)  
 aroma melon - melon koreański  
 arsen yum - arsen  
-artefete intelige (AI) - sztuczna inteligencja  
+arte fete intelige (AI) - sztuczna inteligencja  
 Artika - Arktyka  
 Artika Hai - Ocean Arktyczny  
 Aruba - Aruba  
@@ -269,9 +269,9 @@ baxa - język; komunikacja; mówić
 • trabaxa - tłumaczyć (interpretować; tłumaczenie, interpretacja)  
 • trabaxar - tłumacz  
 baxa jinse - rodzaj gramatyczny  
-baxakanun - gramatyka  
-baxakanun di - gramatyczny  
-baxalogi - językoznastwo  
+baxa kanun - gramatyka  
+baxa kanun di - gramatyczny  
+baxa logi - językoznastwo  
 baya - zatoka  
 bazar - rynek, bazar  
 bazar huru sim - liberalizm rynkowy  
@@ -279,7 +279,7 @@ baze - podstawa, baza, fundament
 baze bol - bejsbol (baseball)  
 baze di - bazowy, podstawowy  
 baze ja - założyciel  
-bazekanun - konstytucja  
+baze kanun - konstytucja  
 baze petra - skała macierzysta  
 baze xulakan - szkoła podstawowa  
 be - być poddanym, doświadczyć, doświadczać (ubierniający czasownik)  
@@ -378,12 +378,12 @@ bina plan - architektura
 bina plan ja - architekt  
 bindu - punkt  
 bio - organiczny  
-biojinse - płeć biologiczna  
-biologi - biologia (nauka o życiu)  
-biomute di - sfermentowany  
-biosana xe - kompost  
-biosistem - biom  
-biotoxi - toksyna  
+bio jinse - płeć biologiczna  
+bio logi - biologia (nauka o życiu)  
+bio mute di - sfermentowany  
+bio sana xe - kompost  
+bio sistem - biom  
+bio toxi - toksyna  
 bioxe - życie organiczne  
 bir - piwo  
 birkan - bar, knajpa  
@@ -478,7 +478,7 @@ cape - odcisk, ślad; stempel, pieczęć
 carme - czar (urok, wdzięk)  
 cati - dach  
 cau - trawa  
-caustan - łąka  
+cau stan - łąka  
 cavi - klucz  
 ceke - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
 ceke - czek  
@@ -527,7 +527,7 @@ cize - ser
 coda - jebać, kopulować  
 coi - zielenina  
 coklate - czekolada  
-coklatekane - baton czekoladowy  
+coklate kane - baton czekoladowy  
 congcing - Chongqing  
 copu - motyka  
 cori - kradzież  
@@ -594,14 +594,14 @@ darvin sim - darwinizm
 darvin sim ja - darwinista  
 data - dane  
 data banke - baza danych (bank danych)  
-data culilogi - informatyka  
+data culi logi - informatyka  
 data table - tablioca, macierz  
 dau - droga, szosa, ulica  
 dau din - taoizm  
 dau din ja - taoista  
 dava - uleczyć, leczyć, uzdrowić, uzdrawiać  
 dava ja - doktor, lekarz, uzdrowiciel  
-davalogi - medycyna  
+dava logi - medycyna  
 dava sui - eliksir (magiczny napój)  
 de - z (partykuła posiadania)  
 de - z (od)  
@@ -637,7 +637,7 @@ deu din - teizm
 deu din ja - teistyczny  
 deu kata - mit (boska opowieść)  
 deu krati - teokracja  
-deulogi - teologia  
+deu logi - teologia  
 deu nagar zi - dewanagari  
 • andeu sim ja - ateista  
 deu sofi - teozofia  
@@ -675,7 +675,7 @@ dom - dom, mieszkanie
 dom di - domowy  
 dom zeze - mucha  
 Dominika - Dominika (Wspólnota Dominiki)  
-Dominika Vakilkrati - Republika Dominikańska (Dominikana)  
+Dominika Vakil krati - Republika Dominikańska (Dominikana)  
 domino geme - domino  
 dong - wschód  
 dong di - wschodni  
@@ -1076,7 +1076,7 @@ fete - zrobić (czyn, uczynek)
 • infete - infekcja (zakażenie)  
 • perfete - perfekcyjny  
 • rifete - powtórzyć, powtarzać  
-fetebaxa - język sztuczny  
+fete baxa - język sztuczny  
 fetekan - fabryka, manufaktura  
 feter - twórca (czynnik)  
 feteria - fabryka, manufaktura  
@@ -1190,8 +1190,8 @@ gamel - wielbłąd, wielbłądzica
 gami - małżeństwo, związek małżeński  
 gami di - ożeniony, zamężny, w związku małżeńskim  
 gami jen - małżonek (małżonka)  
-gaminan - małżonek  
-gamini - małżonka  
+gami nan - małżonek  
+gami ni - małżonka  
 gamo - emocja, uczucie  
 gamo di - emocjonalny (uczuciowy)  
 gamo hal - humor (nastrój)  
@@ -1204,7 +1204,7 @@ Gana - Ghana
 Ganda - Uganda  
 Ganga - Ganges  
 gani - śpiewać (piosenka, pieśń)  
-ganirgrupe - chór  
+ganir grupe - chór  
 ganja - konopie  
 ganse - gęś  
 ganum - pszenica  
@@ -1243,8 +1243,8 @@ geme ja - gracz
 gene di - surowy (niedojrzały)  
 gene grupe - pokolenie (generacja)  
 gene klas - kasta  
-genelogu - genealogia  
-genetipe - genotyp  
+gene logu - genealogia  
+gene tipe - genotyp  
 gene yo hevan - rozmnażać  
 geo - ziemia, grunt, gleba  
 geo dou - orzech ziemny  
@@ -1252,7 +1252,7 @@ geo forme - teren
 geo gun - wosko lądowe (armia)  
 geo kaska krake - uskok  
 geo kaska plate - płyta tektoniczna  
-geologi - geologia  
+geo logi - geologia  
 Geo Medi Hai - Morze Śródziemne  
 geo nice di - podziemny  
 geo nice jela - loch  
@@ -1297,7 +1297,7 @@ grafi di - obrazowy, graficzny; opisowy
 grafi ja - ilustrator, grafik  
 grafi kata - komiks; kreskówka  
 grafi lanse gi - projektor (rzutnik)  
-grafiprojeter - projektor (rzutnik)  
+grafi projeter - projektor (rzutnik)  
 gram - gram  
 granite - granit  
 grave - żwir  
@@ -1412,8 +1412,8 @@ hem… - hmm…
 hema - namiot  
 hemi - krew  
 anhemia - anemia  
-hemiglobin - hemoglobina  
-hemiselu - dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę  
+hemi globin - hemoglobina  
+hemi selu - dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę  
 hen - nienawidzić  
 hero - bohater, heros  
 hero di - bohaterski, heroiczny, odważny, brawurowy  
@@ -1423,7 +1423,7 @@ hevan - animal
 hevan agri suta - hodowla zwierząt  
 hevan bagi - zoo (ogród zoologiczny)  
 hevan kata - bajka  
-hevanlogi - zoologia  
+hevan logi - zoologia  
 hevan logi di - zoologiczny  
 hibride - hybryda; kundel  
 hidrargente - rtęć  
@@ -1437,12 +1437,12 @@ Hindi din - hinduizm
 Hindi din ja - hinduistyczny  
 hindi yum - ind  
 hisabu loge - konto  
-hisabulogi - matematyka  
-hisabulogi ja - matematyk  
+hisabu logi - matematyka  
+hisabu logija - matematyk  
 hisabu suta - arytmetyka  
 histori - historia; annały, roczniki  
-histori ja - historyk  
-historilogi - historia, badanie historii  
+historija - historyk  
+histori logi - historia, badanie historii  
 hiyar - ogórek  
 Ho ci Min site - Ho Chi Minh (Sajgon)  
 hobi - hobby  
@@ -1590,7 +1590,7 @@ Jerze - Jersey
 jeste - gest  
 • injete - zastrzyk (wstrzyknąć, wstrzykiwać)  
 • projete - projekt, planowane przedsięwzięcie  
-jetegrafi - wyświetlać (rzut, projekcja)  
+jete grafi - wyświetlać (rzut, projekcja)  
 jiang di - umiejętny (sprawny, zręczny)  
 jiang ja - rzemieślnik  
 Jibraltar - Gibraltar  
@@ -1713,10 +1713,10 @@ kape yo taxi - zbierać opłaty lub podatki (zebrać opłaty lub podatki)
 kar - pracować  
 • konkar - współpracować (kolaborować)  
 karja - pracownik  
-karlexi - czasownik  
-karmeza - biurko  
+kar lexi - czasownik  
+karm eza - biurko  
 karxe - praca, zjęcie, zadanie  
-karxular - praktykant  
+kar xular - praktykant  
 karaoke - karaoke  
 karate - karate  
 karavi - kminek  
@@ -1741,9 +1741,9 @@ karote - marchew
 karse - szorstki  
 karse limon - papeda  
 karta - mapa  
-kartagrafi - kartografia  
+karta grafi - kartografia  
 karte - karta  
-Kartuli - Gruzja (Republika Gruzji)  
+Kartul - Gruzja (Republika Gruzji)  
 karvan - karawana  
 kaska - skorupa (pancerz, muszla)  
 kastana - kasztan  
@@ -1787,7 +1787,7 @@ ki - że
 kilogram - kilogram (kg)  
 kilomitre - kilometr  
 kimi di - chemiczny  
-kimilogi - chemia  
+kimi logi - chemia  
 kimono - kimono  
 kinar - granica, skraj, brzeg, krawędź  
 kinar baryer - płot  
@@ -1820,7 +1820,7 @@ klar - przeźroczysty, jasny
 klar! - oczywiście  
 klas - klasa, kategoria  
 klima - klimat  
-klimalogi - klimatologia  
+klima logi - klimatologia  
 klima mute - zmiana klimatu  
 klin - tendencja (być skłonnym)  
 klon - klon, replika  
@@ -1957,7 +1957,7 @@ lage - jezioro
 lai - przyjść, przychodzić, przybyć, przybywać, przyjechać, przyjeżdżać  
 laka - lakier  
 lala - lulać  
-lalabede - kołyska (kolebka)  
+lala bede - kołyska (kolebka)  
 lama - lama  
 lampa - lampa  
 langan - poręcz (balustrada)  
@@ -1968,7 +1968,7 @@ lanse xe - pocisk
 lantan - lantan  
 larva - larwa, czerw, gąsienica  
 lasa - śmieć (odpadek)  
-lasatong - śmietnik  
+lasa tong - śmietnik  
 lasun - larwa, czerw, gąsienica  
 late - strona (bok)  
 late di - z boku (na bok)  
@@ -2320,7 +2320,7 @@ Mongol - Mongolia
 mongol di - Mongolski  
 moral - moralność, etyka  
 moral di - moralny  
-morallogi - etyka  
+moral logi - etyka  
 Moris - Mauritius  
 mos - mech  
 mos di - omszały (mszysty)  
@@ -2397,14 +2397,14 @@ nati - narodziny
 • prenati - przedporodowy  
 natia - naród, narodowość  
 natia di - narodowy (ludowy)  
-natiajen - ludzie (lud, ludność)  
+natia jen - ludzie (lud, ludność)  
 natia medi - międzynarodowy  
-natiasim - nacjonalizm  
-natiasimja - nacjonalista  
-natiasosiasim - narodowy socjalizm (nazizm)  
-natiasosiasimja - nazista  
-natibaxa - język ojczysty (język rodzimy)  
-natiden - urodziny  
+natia sim - nacjonalizm  
+natia simja - nacjonalista  
+natia sosia sim - narodowy socjalizm (nazizm)  
+natia sosia simja - nazista  
+nati baxa - język ojczysty (język rodzimy)  
+nati den - urodziny  
 natri - sód  
 nau - mózg  
 nau di - mózgowy  
@@ -2427,8 +2427,8 @@ nefte - olej
 nefte guku - złocień indyjski  
 nega - odmówić (odrzucić)  
 nekro - zwłoki (trup)  
-nekrologa - nekrolog  
-nekrotomi - sekcja zwłok (obdukcja)  
+nekro loga - nekrolog  
+nekro tomi - sekcja zwłok (obdukcja)  
 nelu - cztery (4)  
 nelu gona - kwadrat (czworokąt, czworobok, tetragon)  
 nen - rok  
@@ -2619,9 +2619,9 @@ parne - paproć
 parti - partia  
 parti - uczestniczyć, wziąć udział, brać udział  
 partia - partia  
-particeper - uczestnik  
+parti ceper - uczestnik  
 parti ja - uczestnik  
-partijen - partner  
+parti jen - partner  
 pas - minąć, mijać, przeminąć, przemijać  
 pas di - przeszły, miniony  
 pas tabi - pasywny (nieaktywny)  
@@ -2644,7 +2644,7 @@ pati di - chory
 pati gene xe - patogen  
 pati jen - pacjent  
 patikan - szpital  
-patilogi - patologia  
+pati logi - patologia  
 pati mise - infekcja (zakażenie)  
 pau - strzelać (strzelić)  
 pau gi - pistolet, strzelba, ręczna broń palna  
@@ -2658,7 +2658,7 @@ pei gong - profesja, zajęcie, zawód
 pelmen - kluska, knedel, pieróg; ravioli, pelmeni  
 pelpel - motyl  
 pena - pióro  
-penakardon - ostrożeń lancetowaty  
+pena kardon - ostrożeń lancetowaty  
 pende - powiesić, wieszać  
 pende kardon - oset zwisły  
 pende sor - kłódka  
@@ -2742,13 +2742,13 @@ polis ja - oficer policji, policjant
 politi - rząd  
 politi di - polityczny  
 politi ja - polityk  
-politilogi - politologia  
+politi logi - politologia  
 politi lona - polityka  
 Polska - Polska  
 polska baxa - polski  
 polska yum - polon  
 pompe - pompować  
-pompetapa - tłok  
+pompe tapa - tłok  
 ponte - wskazać, wskazywać  
 ponte flece - wskaźnik  
 ponte pin - kompas (namagnesowana igła)  
@@ -2774,7 +2774,7 @@ postakan - poczta, budynek poczty
 poto - błoto  
 poto defa bano - błotnik  
 poto di - błotnisty  
-potostan - bagno (moczary)  
+poto stan - bagno (moczary)  
 poze - poza, pozycja  
 prati - praktyka, aktualność  
 prati di - practyczny, pragmatyczny  
@@ -2922,7 +2922,7 @@ rubi salmon - nerka (łosoś czerwony)
 rubi yum - rubid  
 ruhu - dusza, duch, umysł  
 ruhu di - umysłowy (psychiczny)  
-ruhulogi - psychologia  
+ruhu logi - psychologia  
 ruhu mixe - mylić (gmatwać, zmieszać, konsternować)  
 ruhu mixe di - smieszany (skonfudowany)  
 ruke - placy  
@@ -2943,14 +2943,14 @@ rutin - rutyna, nawyk, zwyczaj
 sabate - szabat, szabas  
 sabe - wiedzieć  
 • ansabe di - dziwny (nieznany)  
-sabelogi - epistemologia  
+sabe logi - epistemologia  
 sabe vol - zainteresowanie, zaciekawienie; interesujący  
 sabe vol di - interesujący  
 sabe vol ja - ciekawy  
 sabe xe - wiedza  
 sable - piasek, piach  
-sablepetra - piaskowiec  
-sablestan - pustynia  
+sable petra - piaskowiec  
+sable stan - pustynia  
 sabu - powód, przyczyna  
 sabun - mydło  
 sada - zwykły, zwyczajny, prosty  
@@ -3055,14 +3055,14 @@ sel - rada, porada
 selen yum - selen  
 selge - boćwina (botwina)  
 selu - komórka (biologia)  
-selulogi - cytologia  
+selu logi - cytologia  
 seme - ziarno (nasienie)  
 seme dana - ziarno, nasienie  
 seme di - nasienny  
 semente - cement  
 semi - znaczyć  
-• polisemi di - wieloznaczny  
-• unsemi di - jednoznaczny  
+• poli semi di - wieloznaczny  
+• un semi di - jednoznaczny  
 semon - się (nawzajem, wzajemnie)  
 semon su - wzajemny  
 sene - wiek  
@@ -3081,9 +3081,9 @@ serami sing - houstonia
 Serbia - Serbia  
 seri - seria, szereg  
 seria - seria (szereg)  
-seriletre - łańcuszek  
-serinete - kolczuga  
-seriseri - łańcuch  
+seri letre - łańcuszek  
+seri nete - kolczuga  
+seri seri - łańcuch  
 serpe - wąż  
 serve - służba  
 serve ja - sługa  
@@ -3091,7 +3091,7 @@ sesam - sezam
 sexe - seks, stosunek płciowy  
 • ansexe di - aseksualny  
 sexe di - seksowny, ponętny  
-sexelogi - seksuologia  
+sexe logi - seksuologia  
 Sexel nesi - Seszele  
 si - być  
 sian - niebieskozielony (cyjan)  
@@ -3128,7 +3128,7 @@ siro jen - nikt, żadna osoba
 siro sata - nigdy  
 siro xe - nic, żadna rzecz  
 sismo - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
-sismologi - sejsmologia  
+sismo logi - sejsmologia  
 sistem - system  
 sistem di - systemowy  
 sita - cytować  
@@ -3268,12 +3268,12 @@ tatike - taktyka, strategia
 tatu - tatuaż  
 tava - patelnia  
 taxi - podatek, opłata  
-taxigar - taxi, taksówka  
+taxi gar - taxi, taksówka  
 taxi metre gi - taksometr  
 taza - świeży  
 tehni - technika, technologia  
 tehni krati - technokracja  
-tehnilogi - technologia, nauka o technikach  
+tehni logi - technologia, nauka o technikach  
 tehni yum - technet  
 tela - tkanina (materiał, sukno)  
 tela gi - krosno  
@@ -3429,7 +3429,7 @@ vai planete - egzoplaneta
 vai yam - piknik  
 vakil - reprezentować  
 vakil ja - reprezentant (przedstawiciel)  
-vakilkrati - republika  
+vakil krati - republika  
 vali - dolina  
 vali susan - konwalia majowa  
 Valis e Futuna nesi - Saint Vincent i Grenadyny  
@@ -3492,7 +3492,7 @@ vinil - winyl
 violeta nil - fioletowy  
 Virjin nesi - Wyspy Dziewicze USA  
 virus - wirus  
-viruslogi - wirusologia  
+virus logi - wirusologia  
 vise - wice- (alternatywa, substytut, zastępstwo)  
 vise loga - zaimek  
 vise prezidente - wiceprezydent  
@@ -3640,9 +3640,9 @@ yogo - jarzmo
 yogur - jogurt  
 Yohan festa - dzień świętego Jana  
 Yoruba - Joruba  
-youmoke - młode drzewo  
-younan - chłopak  
-youni - dziewczyna  
+you moke - młode drzewo  
+you nan - chłopak  
+you ni - dziewczyna  
 yumor - humor  
 yumor di - humorystyczny, śmieszny, zabawny, komiczny  
 yumor ja - komik  

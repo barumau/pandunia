@@ -31,8 +31,8 @@ Afeganistão - Afghan
 agacharse - lipa side  
 agente - atir  
 agressor - agresi ja  
-agrobiologia - agribiologi  
-agronomia - agrinomi  
+agrobiologia - agri bio logi  
+agronomia - agri nomi  
 agrícola - agri di  
 ai! - ayo  
 ainda - zoku  
@@ -110,7 +110,7 @@ arroz branco - baku varis
 arroz integral - brun varis  
 arsénic - arsen yum  
 arte - suta  
-artefato - artefete  
+artefato - arte fete  
 artista - mei suta ja  
 asma - asma  
 aspargo - asparge  
@@ -126,12 +126,12 @@ astronomia - astro nomi
 astrónomo - astro nomi ja  
 ataque - agresi  
 Atenas - Athina  
-aterro (lixão) - lasastan  
+aterro (lixão) - lasa stan  
 ativo - ativi  
 ato - ati  
 até - hata  
 Austronésia - Austronesi  
-autopsía - nekrotomi  
+autopsía - nekro tomi  
 autor - autor  
 aveia - ave  
 aventura - ventur  
@@ -155,14 +155,14 @@ bagagem - bagaje
 baile (danza) - danse  
 bambu - bambu  
 banana - banana  
-bancarrota (falido) - bankarute  
+bancarrota (falido) - banka rute  
 banco - bankakan  
 banco de dados - data banke  
 bando - banda  
 banqueiro - bankar  
 barba - barde  
 barco (navio) - nave  
-barra de chocolate - coklatekane  
+barra de chocolate - coklate kane  
 barrar - bara  
 barreira - bara mur  
 base (álcali; alcalino) - kali  
@@ -178,7 +178,7 @@ belo (lindo) - mei
 bem-estar - salamta  
 beringela - bedinjan  
 berqueélio - berkli yum  
-berço - lalabede  
+berço - lala bede  
 berílio - beril yum  
 biblioteca - kitabukan  
 bicho-da-seda (sirgo) - silke larva  
@@ -187,8 +187,8 @@ bigorna - metal bede
 bilhete - tikete  
 bilíngue - du baxa di  
 bilíngue - dubaxaka  
-biología - biologi  
-bioma - biosistem  
+biología - bio logi  
+bioma - bio sistem  
 biscoito - biskute  
 bismuto - bismute  
 bisão (bisonte) - bison  
@@ -259,7 +259,7 @@ canhão (ravina, barranco) - kanyon
 canhǎo - dai pau  
 canoa - kano  
 Cantalupo in Sabina - Kantalupo va Sabina  
-canção de ninar - lalagani  
+canção de ninar - lala gani  
 capa - mantol  
 capa de chuva - xava kote  
 caractere - zi  
@@ -267,7 +267,7 @@ caratê - karate
 carbono - karbon  
 cardo - kardon  
 cardo-mariano - milke kardon  
-cardo-roxo - penakardon  
+cardo-roxo - pena kardon  
 cardápio (menu) - yam liste  
 careta (esgar) - grimas  
 carga (peso) - karga  
@@ -281,7 +281,7 @@ carta - karte
 carta - letre  
 carta geográfica - karta  
 carta geográfica - topo metre grafi  
-cartografia - kartagrafi  
+cartografia - karta grafi  
 Cartum - Hartum  
 cartão de crédito - kredikarte  
 carvalho - baluta  
@@ -317,7 +317,7 @@ cheio - pul
 cheirar - fa aroma  
 cheiro - aroma  
 cheque - ceke  
-cheque de viajante - safarceke  
+cheque de viajante - safar ceke  
 chibata - uma bici  
 chicote - bici  
 China - Jongoku  
@@ -330,7 +330,7 @@ cidade - siti
 cigarro - sigar  
 cinco (5) - lima  
 cintilar - fa sing foto  
-citologia - selulogi  
+citologia - selu logi  
 claro - klar  
 cliente - klien  
 cloro - klor  
@@ -355,7 +355,7 @@ como - ke riti
 compaixão - sam emos  
 complô (conspiração) - sir plan  
 comportamento (conduta) - manera  
-composto - biosana xe  
+composto - bio sana xe  
 comprar - fa xopi  
 compras - xopi  
 computador - konputer  
@@ -384,7 +384,7 @@ cor - rang
 coral - koral  
 corda (cabo) - kable  
 corno - korne  
-coro - ganirgrupe  
+coro - ganir grupe  
 corpo - badan  
 corredor - kore ja  
 corrente (atual) - zai zaman di  
@@ -422,7 +422,7 @@ cálamo - gana kalam
 cálcio - kalsi yum  
 cápsico - cili  
 cão (cachorro) - vaf  
-célula sanguínea - hemiselu  
+célula sanguínea - hemi selu  
 cérebro - nau  
 cério - ceres yum  
 césio - cesi yum  
@@ -514,7 +514,7 @@ Egipto (Egito) - Misri
 einstânio - einstein yum  
 ele ou ela - ya  
 elemento - so  
-elemento químico - yum  
+elemento químico - kimi so  
 eles ou elas - yamen  
 eletricidade - eletro  
 elfo - elfe  
@@ -556,7 +556,7 @@ escudo - oste xalke
 escultor - eskulte ja  
 escândio - eskandi yum  
 esfarrapado - cira cira di  
-esgrima - gemsuta  
+esgrima - gem suta  
 eslavo - Slave  
 esmeralda - zumarde  
 espada - gem  
@@ -566,8 +566,8 @@ espirrar - aci
 espodossolo - hui darte  
 esponja - esponje  
 esporte - esporte  
-esposa - gamini  
-esposo - gaminan  
+esposa - gami ni  
+esposo - gami nan  
 esposo ou esposa - gami jen  
 espírito (gênio) - jini  
 esquecer - anmemo  
@@ -688,12 +688,12 @@ gato - mau
 gato-do-mato (gato-maracajá-mirim) - bagre oselote  
 gato-maracajá - margai  
 gelar - be ais  
-genealogia - genelogu  
+genealogia - gene logu  
 generalíssimo - gun raja  
 generosidade - karim  
 generoso (dadivoso, mão-aberta) - databi  
-genético - genelogi di  
-genótipo - genetipe  
+genético - gene logi di  
+genótipo - gene tipe  
 geografia - geo grafi  
 geometria - geo metre  
 geopolítica - geo politi  
@@ -705,7 +705,7 @@ golfinho (delfim) - dolfin
 gorila - gorila  
 governo - politi  
 grama (relva) - cau  
-gramado - caumedan  
+gramado - cau medan  
 granito - granite  
 gratidão - xukurta  
 graças a - a xukur de  
@@ -727,7 +727,7 @@ gênero gramatical - baxa jinse
 
 habilidade (capacidade) - bilta  
 haste (talo, caule) - tana  
-hemoglobina - hemiglobin  
+hemoglobina - hemi globin  
 hena - hina  
 Hesse (Héssia) - Hese  
 hidrogéno - hidro  
@@ -784,13 +784,13 @@ infecção - infete
 infiel - andin ja  
 infiel - ankredija  
 inflamaçao - tis  
-informática (ciência da computação) - data culilogi  
-infraestrutura - bazestrute  
+informática (ciência da computação) - data culi logi  
+infraestrutura - baze strute  
 inimigo - dus jen  
 inquisitivo - sabe vol ja  
 inseto - dudu  
 insônia - ansona  
-inteligência artificial - artefete intelige (AI)  
+inteligência artificial - arte fete intelige (AI)  
 intenção - nia  
 interceptar - intercepe  
 internacional - natia medi  
@@ -875,7 +875,7 @@ litro - litre
 livermório - livermor yum  
 livre (forro) - huru  
 livro - buku  
-lixeira - lasatong  
+lixeira - lasa tong  
 lição - xula xe  
 local - loka di  
 longo - long  
@@ -901,7 +901,7 @@ léxico - loga di
 líder (chefe) - lida ja  
 língua (idioma) - baxa  
 língua - lisan  
-língua materna - natibaxa  
+língua materna - nati baxa  
 lírio - susan  
 lírio-do-vale - vali susan  
 lítio - lito yum  
@@ -944,7 +944,7 @@ massa de modelar (massinha) - plasti paste
 mastro - masta  
 matadouro - bucakan  
 mate (opaco) - foto mata di  
-matemática - hisabulogi  
+matemática - hisabu logi  
 materialismo - mate lona  
 maternal - ma di  
 matéria - mate  
@@ -1039,7 +1039,7 @@ nave espacial - kosmo nave
 nação - natia  
 necessidade - yauta  
 necessário - yau di  
-necrofilia - nekrofilia  
+necrofilia - nekro filia  
 neodímio - neodim yum  
 neologismo - neu loga  
 neptúnio - neputun yum  
@@ -1080,7 +1080,7 @@ o (a) - la
 ## O  
 
 o que - ke  
-obituário - nekrologa  
+obituário - nekro loga  
 oblíquo (torto) - terca  
 obrigado - xukur  
 obsidiana - osidian  
@@ -1129,7 +1129,7 @@ padeiro - baka ja
 padrasto - vise pa  
 pai - pa  
 painel - bano  
-palato (céu da boca) - bokacati  
+palato (céu da boca) - boka cati  
 palavra (vocábulo) - lexima  
 palavra-passe (senha) - pas loga  
 palácio (mansão, palacete) - dai dom  
@@ -1145,7 +1145,7 @@ papoila-dormideira - sona papi
 par - par jen  
 para-lama - poto defa bano  
 parada de ônibus - bus halte  
-parceiro - partijen  
+parceiro - parti jen  
 parque - parke  
 parte - fen  
 partida - mece  
@@ -1156,7 +1156,7 @@ passaporte - pasporte
 pasta - pasta  
 paternal - pa di  
 pato - bata  
-patologia - patilogi  
+patologia - pati logi  
 patógeno - pati gene xe  
 pausa - pauza  
 pavão real - mayur  
@@ -1174,7 +1174,7 @@ peidar - fa pede
 peido - pede  
 peixe - pexe  
 pele - pil  
-pena - penakalam  
+pena - pena kalam  
 penal - fatu di  
 penso (band-aid) - glu bande  
 pepino - hiyar  
@@ -1205,7 +1205,7 @@ piolho - poyu
 piquenique - vai yam  
 pirataria - pirate  
 pirâmida - piram  
-pistão - pompetapa  
+pistão - pompe tapa  
 plano - plan  
 planta (vegetal) - fito  
 platina - platin  
@@ -1262,7 +1262,7 @@ profissão - pei gong
 profundo - fase tele  
 programa - program  
 projeto - projete  
-projeção - jetegrafi  
+projeção - jete grafi  
 projeção - lanse grafi  
 projétil - lanse xe  
 prolongado - long dur di  
@@ -1283,7 +1283,7 @@ purê de maçã - aple sos
 pá - bele  
 página - yepa late  
 pátria - dom dexa  
-pântano - potostan  
+pântano - poto stan  
 pão - pang  
 pícea (espruce) - pisea  
 pós-natal - posnati  
@@ -1313,7 +1313,7 @@ quimono - kimono
 quincã (cunquate) - gingam  
 quinta-feira - den nelu  
 quivi - kivi  
-química - kimilogi  
+química - kimi logi  
 
 ## R  
 
@@ -1406,7 +1406,7 @@ salmão-vermelho - rubi salmon
 salsicha - sosis  
 salão - sala  
 samambaia - parne  
-samba-canção - bocepante  
+samba-canção - boce pante  
 samário - samari yum  
 sanduíche - sanduice  
 sangue - hemi  
@@ -1433,7 +1433,7 @@ sem - hin
 sem nome - nam hin  
 semente - seme  
 seminal - seme di  
-semântica - semilogi  
+semântica - semi logi  
 senador - supra vakil ja  
 sentido - sense  
 sepultura (túmulo, enterrar) - gabur  
@@ -1442,7 +1442,7 @@ ser humano - insan
 serra - sera  
 sete (7) - ceti  
 sexo - jinse  
-sexologia - sexelogi  
+sexologia - sexe logi  
 sexta-feira - den lima  
 significar (querer dizer) - semi  
 silencioso - tix  
@@ -1514,8 +1514,8 @@ ter (achar, receber) - na
 ter - tene  
 terminar (acabar, concluir) - pul fina  
 Terra - Geo  
-terra natal - natiloka  
-terra natal - natistan  
+terra natal - nati loka  
+terra natal - nati stan  
 terracota - baka poto  
 terraplanista - plate geo sim ja  
 terreno - geo forme  
@@ -1535,7 +1535,7 @@ toranja - putau oranje
 torta - pai  
 toupeira - krote  
 toxicologia - toxilogi  
-toxina - biotoxi  
+toxina - bio toxi  
 trabalhador - karja  
 trabalhar - kar  
 trabalho - karxe  
@@ -1602,7 +1602,7 @@ vegetariano - fito yam sim ja
 velho (antigo) - cen zaman di  
 vender - vende  
 ver - vide  
-verbo - karlexi  
+verbo - kar lexi  
 verdadeiro - ver  
 verde - luga  
 verdura (hortaliça, legume) - yam fito  
@@ -1628,7 +1628,7 @@ viúvo - vidou
 voar - fa fei  
 vocabulário - loga jama  
 vogal - jong fon  
-vogal - vokesoni  
+vogal - voke soni  
 voltar (regressar) - be retro  
 vontade - vol xe  
 voo - fei  
@@ -1660,7 +1660,7 @@ zero - siro
 zinco - zinke  
 zircónio - zirkon yum  
 zona - zona  
-zoologia - hevanlogi  
+zoologia - hevan logi  
 zoológico - hevan bagi  
 zoológico - hevan logi di  
 zumbi - zombi  

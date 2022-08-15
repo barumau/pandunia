@@ -44,8 +44,8 @@ agresseur - agresi ja
 agressif - agresi tabi  
 agression (attaque) - agresi  
 agricole - agri di  
-agrobiologie - agribiologi  
-agronomie - agrinomi  
+agrobiologie - agri bio logi  
+agronomie - agri nomi  
 aide (secours) - mede  
 ail - lasun  
 air - air  
@@ -143,7 +143,7 @@ arobase (@) - adres zi
 arrêt de bus - bus halte  
 arsenic - arsen yum  
 art - suta  
-artefact - artefete  
+artefact - arte fete  
 artichaut - karcof  
 artiste - mei suta ja  
 Artsakh - Arcah  
@@ -175,7 +175,7 @@ autel - puja meza
 auteur - autor  
 autocollant - glu grafi  
 automne - pada mosim  
-autopsie - nekrotomi  
+autopsie - nekro tomi  
 autre - alo  
 autrement - alo di  
 avant - cen  
@@ -237,8 +237,8 @@ beau-père - gami pa
 beauté - meita  
 belle-mère - gami ma  
 bengali - bangla baxa  
-berceau - lalabede  
-berceause - lalagani  
+berceau - lala bede  
+berceause - lala gani  
 berkélium - berkli yum  
 besoin - yauta  
 betterave - bete  
@@ -250,8 +250,8 @@ bien-être - salamta
 bilingue - du baxa di  
 bilingue - dubaxaka  
 billet - tikete  
-biologie - biologi  
-biome - biosistem  
+biologie - bio logi  
+biome - bio sistem  
 biscuit - biskute  
 bismuth - bismute  
 bison - bison  
@@ -328,7 +328,7 @@ calcite - kalsite
 calcium - kalsi yum  
 calculer - fa hisabu  
 calendrier - kalenda  
-caleçon - bocepante  
+caleçon - boce pante  
 calife - halifa  
 californium - kaliforni yum  
 calmar (encornet, calamar) - kalmar  
@@ -361,11 +361,11 @@ carte - karta
 carte - karte  
 carte de crédit - kredikarte  
 carte à collectionner - jami karte  
-cartographie - kartagrafi  
+cartographie - karta grafi  
 cauri - kauri  
 ce...ci - yi  
 ce...lá - vo  
-cellule sanguine (globule) - hemiselu  
+cellule sanguine (globule) - hemi selu  
 cent (100) - sento  
 Centaurée - sentaure  
 Centaurée bleuet - nilsentaure  
@@ -405,7 +405,7 @@ chercher - soki
 cheveux - sar kexa  
 chien - vaf  
 chiisme - xia islam din  
-chimie - kimilogi  
+chimie - kimi logi  
 Chine - Jongoku  
 chlore - klor  
 chocolat - coklate  
@@ -418,18 +418,18 @@ chu - pada di
 chut - tix  
 chèque - ceke  
 chèque cadeau - daxeceke  
-chèque de voyage - safarceke  
+chèque de voyage - safar ceke  
 chéri - ama jen  
 chêne - baluta  
 chêne pédonculé - europa baluta  
-chœur - ganirgrupe  
+chœur - ganir grupe  
 ciel - sama  
 ciffre - nume zi  
 cigarette - sigar  
 cime (pic, sommet) - san pike  
 cimetière - gabur bagi  
 cinq (5) - lima  
-cirse commun - penakardon  
+cirse commun - pena kardon  
 citron - limon  
 citronnade - limon jus  
 citrouille - kaboga  
@@ -451,7 +451,7 @@ commun - konun
 compassion - sam emos  
 complot (conspiration) - sir plan  
 comportement (manière) - manera  
-compost - biosana xe  
+compost - bio sana xe  
 compote de pommes - aple sos  
 comprendre (réaliser) - aha  
 compte - hisabu loge  
@@ -532,7 +532,7 @@ culturisme (musculation) - muskul bina
 curium - kuri yum  
 curry - kari  
 cycliste - sikle ja  
-cytologie - selulogi  
+cytologie - selu logi  
 célérité - sirta  
 cérium - ceres yum  
 cérébral - nau di  
@@ -604,7 +604,7 @@ dé - zar kube
 déboguer (débugger) - fa an galte  
 début (commencement) - xuru  
 décapé (mariné) - acar di  
-décharge - lasastan  
+décharge - lasa stan  
 déchirer - cira  
 défigurer - fa dus forma  
 défigurer - dusforma  
@@ -644,7 +644,7 @@ entrer - be in
 envelopper (emballer) - fa lifafa  
 erbium - erbi yum  
 erroné - galte di  
-escrime - gemsuta  
+escrime - gem suta  
 escroquer - fa truke  
 espace (zone, région) - area  
 espace - hali zi  
@@ -678,7 +678,7 @@ facile - fasil
 faction (clique) - xia  
 faible - mirde  
 faible - anbala  
-failli - bankarute  
+failli - banka rute  
 faim - yam yau  
 faire (fait) - fete  
 faire - fa  
@@ -784,21 +784,21 @@ grenouille - krokro
 grimace - grimas  
 groupe - grupe  
 grâce à - a xukur de  
-grès - sablepetra  
+grès - sable petra  
 guide - gida ja  
 guide touristique - gida buku  
 guider - gida  
 guitare - gitar  
 guépard - cita  
 gâteau de lune - luna keke  
-génotype - genetipe  
-généalogie - genelogu  
+génotype - gene tipe  
+généalogie - gene logu  
 généralissime - gun raja  
 généreux - databi  
 généreux - karim di  
 générosité (charité) - karim  
-génétique - genelogi di  
-géologie - geologi  
+génétique - gene logi di  
+géologie - geo logi  
 géométrie - geo metre  
 géopolitique - geo politi  
 géothermique - geo termo  
@@ -846,7 +846,7 @@ hygiène - salu safata
 hélice - propeler  
 hélicoptère - helis fei gi  
 hélium - heli yum  
-hémoglobine - hemiglobin  
+hémoglobine - hemi globin  
 héros - hero  
 hétéroromantique (hétéromantique) - alo romanse di  
 hétérosexuel - alo sexe di  
@@ -879,12 +879,12 @@ infection - infete
 infidèle (incroyant) - andin ja  
 infidèle (incroyant) - ankredija  
 inflammation - tis  
-informatique - data culilogi  
-infrastructure - bazestrute  
+informatique - data culi logi  
+infrastructure - baze strute  
 innomé - nam hin  
 insecte - dudu  
 insomnie - ansona  
-intelligence artificielle - artefete intelige (AI)  
+intelligence artificielle - arte fete intelige (AI)  
 intention - nia  
 intercepter - intercepe  
 international - natia medi  
@@ -931,8 +931,8 @@ Jésus-Christ - Yesa Mesi
 
 kangourou - kangaru  
 karaté - karate  
-karatéka - karate ja  
-kendo - gemdau  
+karatéka - karateja  
+kendo - gem dau  
 Khartoum - Hartum  
 kimono - kimono  
 Kinshasa - Kinxasa  
@@ -959,7 +959,7 @@ lampe - lampa
 Lance-roquettes - rokete lanse gi  
 langue - baxa  
 langue - lisan  
-langue maternelle - natibaxa  
+langue maternelle - nati baxa  
 lanthane - lantan  
 lapin (lièvre) - tuzi  
 lapis-lazuli - lazur petra  
@@ -980,7 +980,7 @@ libre - huru
 lichen - alga fungu  
 lien - linke  
 lieu - loka  
-lieu de naissance - natiloka  
+lieu de naissance - nati loka  
 ligne (fil) - lin  
 ligne de commande (console, terminal, invite de commande) - amir lin  
 ligne téléphonique - tele fon lin  
@@ -1054,13 +1054,13 @@ marguerite - baku margarite
 mariage - gami  
 Maroc - Magribi dexa  
 Mars - Marse  
-marécage (marais) - potostan  
+marécage (marais) - poto stan  
 masque - maska  
 masse - masa  
 mat (opaque) - foto mata di  
 match - mece  
 maternel - ma di  
-mathématiques - hisabulogi  
+mathématiques - hisabu logi  
 matière - mate  
 matérialisme - mate lona  
 maximum - maxim xe  
@@ -1188,8 +1188,8 @@ nuage - megi
 numérique - komputa di  
 nylon - nilon  
 nécessaire - yau di  
-nécrologie - nekrologa  
-nécrophilie - nekrofilia  
+nécrologie - nekro loga  
+nécrophilie - nekro filia  
 néodyme - neodim yum  
 néologisme - neu loga  
 néon - neon  
@@ -1262,7 +1262,7 @@ pain - pang
 pair (pareil, egal) - par  
 paix - pase  
 palais (château, manoir) - dai dom  
-palais de la bouche - bokacati  
+palais de la bouche - boka cati  
 palladium - paladi yum  
 pamplemousse - putau oranje  
 panda - panda  
@@ -1290,14 +1290,14 @@ Paris - Paris
 parler - fa loga  
 parole (mots) - loga  
 part - fen  
-partenaire - partijen  
+partenaire - parti jen  
 passe (passage) - pas dau  
 passeport - pasporte  
 passer - fa dur  
 passer - pas  
 pastèque - arbuza  
 paternel - pa di  
-pathologie - patilogi  
+pathologie - pati logi  
 patient - pati jen  
 patrie - dom dexa  
 pause - pauza  
@@ -1308,7 +1308,7 @@ pays des fées (paradis) - pari dexa
 peindre - fa pente  
 peinture - pente  
 pelle - bele  
-pelouse (gazon) - caumedan  
+pelouse (gazon) - cau medan  
 perdant - xiti bai ja  
 perder - xiti  
 pere (papa) - pa  
@@ -1344,7 +1344,7 @@ piquant - pin sense di
 piquenique - vai yam  
 piraterie - pirate  
 pistolet - pau gi  
-piston - pompetapa  
+piston - pompe tapa  
 pizza - piza  
 pièce (chambre) - kamar  
 piège - kape truke  
@@ -1364,7 +1364,7 @@ plomb - plumbe
 pluie - xava  
 plume - kalam  
 plume - pena  
-plume - penakalam  
+plume - pena kalam  
 plumer - depena  
 plurilingue (multilingue) - poli baxa di  
 plurilingue (multilingue) - polibaxaka  
@@ -1407,13 +1407,13 @@ potassium - kali yum
 poterie - pote suta  
 potier - pote ja  
 pou - poyu  
-poubelle - lasatong  
+poubelle - lasa tong  
 poudre à canon - barude  
 Poulpe (pieuvre) - ohtopus  
 pourri - pute  
 pourrir (se décomposer) - be pute  
 pousse - jun moka  
-pousse - youmoke  
+pousse - you moke  
 pouvoir (possible, capacité) - bil  
 praséodyme - prazedim yum  
 presse-papier - gata glu bano  
@@ -1436,7 +1436,7 @@ projectile - lanse xe
 projection - lanse grafi  
 projet - projete  
 projeter (donner) - fa lanse grafi  
-projeter (image projection) - jetegrafi  
+projeter (image projection) - jete grafi  
 prolongé - long dur di  
 promettre - fa vode  
 prométhium - promete yum  
@@ -1454,7 +1454,7 @@ prénatal - prenati
 présent - zai di  
 prêter (empruntre) - jeka  
 prêter - jeka da  
-psychologie - ruhulogi  
+psychologie - ruhu logi  
 psyché - ruhu  
 punicion - fatu  
 punir - fa fatu  
@@ -1628,7 +1628,7 @@ serrure - tala
 serviette - gan tela  
 seul (unique) - un di  
 sexe - jinse  
-sexologie - sexelogi  
+sexologie - sexe logi  
 Shiva - xiva  
 shopping - xopi  
 si - gar  
@@ -1679,8 +1679,8 @@ syllabe - loga fen
 symbole - simbol  
 symétrie - sam metre  
 sélénium - selen yum  
-sémantique - semilogi  
-sémaphore - semiforar  
+sémantique - semi logi  
+sémaphore - semi forar  
 séminal - seme di  
 sénateur - supra vakil ja  
 série - seri  
@@ -1692,7 +1692,7 @@ s’accroupir - lipa side
 
 table - meza  
 tableau (panneau) - bano  
-tablette de chocolat - coklatekane  
+tablette de chocolat - coklate kane  
 tantale - tantal yum  
 tapioca - manioka fufu  
 tarte - pai  
@@ -1700,7 +1700,7 @@ tasse à thé - cai kupa
 taupe - krote  
 taximètre - taxi metre gi  
 technique - tehni  
-technologie - tehnilogi  
+technologie - tehni logi  
 technétium - tehni yum  
 tectonique des plaques - plate geo kaskalogi  
 tellure - telu yum  
@@ -1748,7 +1748,7 @@ toupie - rota vanu gi
 touriste - safar keka ja  
 Tournesol - sol hua  
 toxicologie - toxilogi  
-toxine - biotoxi  
+toxine - bio toxi  
 trace - marke  
 tracteur - trata gi  
 traduction - trabaxa  
@@ -1813,7 +1813,7 @@ Venezuela - Venezuela
 venir - lai  
 ver - verme  
 ver à soie - silke larva  
-verbe - karlexi  
+verbe - kar lexi  
 verger - frute bagi  
 vermouth - vermute  
 verre - kanca  
@@ -1857,7 +1857,7 @@ voler - fa fei
 votre - tumen su  
 vouloir - vol  
 voyelle - jong fon  
-voyelle - vokesoni  
+voyelle - voke soni  
 voûte - arka cati  
 vrai - ver  
 vulve - vulva  
@@ -1888,7 +1888,7 @@ zirconium - zirkon yum
 zombi - zombi  
 zone - zona  
 zoo - hevan bagi  
-zoologie - hevanlogi  
+zoologie - hevan logi  
 zoologique - hevan logi di  
 Zoroastre - Zardux  
 zoroastrien - zardux din ja  
@@ -1919,7 +1919,7 @@ zéro - siro
 élever - gene yo hevan  
 éloge - eu loga  
 élément (unité fondamentale) - so  
-élément chimique - yum  
+élément chimique - kimi so  
 émeraude - zumarde  
 émir - amir ja  
 émirat - amir dexa  

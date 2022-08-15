@@ -599,7 +599,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**hina**|ara: حِنَّاء‎ (ḥinnāʾ), eng:henna, fra:henné, spa:alheña, por:hena, rus:хна (hna), hin:हिना (hinā)|
 |**hindi yum**|eng:indium, fra:indium, spa:indium, por:índio, rus:индий, zho:铟 (yīn), jpn:インジウム, kor:인듐, vie:indi, hin:इण्डियम, ben:ইন্ডিয়াম, may:indium, swa:indi, ara: انديوم|
 |**hisabu**|ara: حِسَاب‎ (ḥisāb), tur:hesap, orm:hisaaba, swa:hisabu, hin:हिसाब (hisāb), ben:হিসাব (hiśab)|
-|**historilogi**|eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)|
+|**histori logi**|eng:history, spa:swa:historia, por:história, fra:histoire, rus:история (istoriya)|
 |**hiyar**|fas:خیار (xiyâr), tur:hıyar, ara:خيار‎ (khiyār), hin:खीरा (khīrā), ben:ক্ষীরা (kṣīrā)|
 |**hobi**|eng:spa:por:deu:fra:hobby, rus:хобби (hobbi)|
 |**hogo**|spa:fuego, por:fogo + rus:огонь (ogon’), hin:आग (āg), ben:অগ্নি (ôgni), pan:ਅੱਗ (ag) + zho:火 (huǒ), yue:火 (fo2), wuu:火 (hu2), kor:화 (hwa), vie:hoả|
@@ -1299,7 +1299,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**rubi bau seku**|eng:ruby, por:rubi, spa:rubí, fra:rubis, deu:Rubin, rus:рубин (rubin), jpn:ルビー (rubī)|
 |**rubi yum**|eng:rubidium, fra:rubidium, spa:rubidio, por:rubídio, rus:рубидий, zho:铷 (rú), jpn:ルビジウム, kor:루비듐, vie:rubiđi, hin:रुबिडियम, ben:রুবিডিয়াম, may:rubidium, swa:rubidi, ara: روبيديوم|
 |**ruhu**|ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|
-|**ruhulogi**|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
+|**ruhu logi**|tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|
 |**ruke**|deu:Rücken|
 |**ruke sake**|deu:eng:rucksack, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)|
 |**rupa**|hin:रूप (rūp), may: rupa, tha: รูป (rūp), khm:រូប (rūp)|
@@ -1561,7 +1561,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**violeta**|eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)|
 |**virje**|eng:virgin, fra:vierge, spa:virgen, por:virgem|
 |**virus**|eng:spa:fra:may:virus, por:vírus, rus:вирус (virus), tur:virüs, hin:वाइरस (vāirasa), jpn:ウイルス (uirusu)|
-|**viruslogi**|pol:wirusologia, rus:вирусология (virusologiya)|
+|**virus logi**|pol:wirusologia, rus:вирусология (virusologiya)|
 |**vise**|eng:fra:spa:por:vice-, rus:вице- (vitse-), deu:vize-|
 |**vita**|fra:vis, ita:vite, rus:винт (vint), tur:vida|
 |**vitamin**|eng:may:vitamin, fra:vitamine, spa:por:vitamina, rus:витамин (vitamin), zho:维他命 (wéitāmìng), jpn:ビタミン (bitamin), kor:비타민 (bitamin), vie:vi ta min, hin:विटामिन (viṭāmin), ben:ভিটামিন (bhiṭamin), ara: فِيتَامِين‎ (fitamīn)|

@@ -15,7 +15,7 @@ abirse - be kai
 Abisinia - Habaxa  
 abisinio - habaxa  
 abjazia - Apsni  
-abono orgánico (compost) - biosana xe  
+abono orgánico (compost) - bio sana xe  
 aborigen - asal Australia jen  
 abrepuño - sol sentaure  
 abrigo (chaqueta) - kote  
@@ -90,8 +90,8 @@ agradecer - fa xukur
 agresivo - agresi tabi  
 agresor - agresi ja  
 agrio (ácido) - suan  
-agrobiología - agribiologi  
-agronomía - agrinomi  
+agrobiología - agri bio logi  
+agronomía - agri nomi  
 agrícola - agri di  
 agua - sui  
 agua mineral - kuanga sui  
@@ -167,7 +167,7 @@ amasar (masajear) - fa masaje
 amateur (aficionado) - hobi ja  
 ambiental (ecológico, natural) - eko di  
 ambiguo - poli semi di  
-ambiguo - polisemi di  
+ambiguo - poli semi di  
 americano - Amerika di  
 americio - amerika yum  
 amhara - Amara  
@@ -276,7 +276,7 @@ arruinado (devastado, asolado) - harabu
 arruinar (destruir, devastar, asolar) - fa harabu  
 arsénico - arsen yum  
 arte marcial - jang suta  
-artefacto - artefete  
+artefacto - arte fete  
 artesano - jiang ja  
 artificial (sintético) - sana di  
 artista - mei suta ja  
@@ -323,7 +323,7 @@ autocratia (monarquía) - auto krati
 automotor (automotriz) - auto move  
 automóvil (coche) - moto gar  
 autonomía - auto nomi  
-autopsia - nekrotomi  
+autopsia - nekro tomi  
 autor - autor  
 autónomo - auto nomi di  
 avanzar (entrar, adelantar, progresar) - be jin  
@@ -388,7 +388,7 @@ Barbuda - Barbuda
 barco (bote) - nave  
 bario - bari yum  
 barra (vara, palo) - kane  
-barra de chocolate - coklatekane  
+barra de chocolate - coklate kane  
 barrar (bloquear, obstruir) - bara  
 barrera (barda) - bara mur  
 barriga (vientre, panza) - pete  
@@ -401,8 +401,8 @@ base (álcali; alcalino) - kali
 base - baze  
 bastante - bas  
 basura (desechos) - lasa  
-basural - lasastan  
-basurero - lasatong  
+basural - lasa stan  
+basurero - lasa tong  
 bata (aljuba) - juba  
 batidora (licuadora, mezcladora) - mixe gi  
 baya - beri  
@@ -434,8 +434,8 @@ bienvenido - salam lai
 bilingüe - du baxa di  
 bilingüe - dubaxaka  
 billete de ida y vuelta - retro tikete  
-biología - biologi  
-bioma - biosistem  
+biología - bio logi  
+bioma - bio sistem  
 birromántico - du romanse di  
 bisagra (gozne) - xarnir  
 bisexual - du sexe di  
@@ -511,7 +511,7 @@ básico - baze di
 béisbol - baze bol  
 Bélgica - Belgi  
 bóveda - arka cati  
-bóxer - bocepante  
+bóxer - boce pante  
 búbalo (arni) - karbau  
 
 ## C  
@@ -528,7 +528,7 @@ caca - kaka
 cacao - kakau  
 cacto - katus  
 cada - pan un  
-cadena - seriseri  
+cadena - seri seri  
 cadmio - kadim yum  
 cadáver - nekro  
 caer - pada  
@@ -580,12 +580,12 @@ campamento - kampe
 campana (cencerro) - dang gi  
 campeón - campion  
 campista - kampe ja  
-campo - agristan  
+campo - agri stan  
 campo de visión - vide medan  
 Canadá - Kanada  
 canal (cauce, acequia, foso, zanja) - kanal  
 cancelar (nulificar, borrar, eliminar) - fa siro  
-canción de cuna (nana) - lalagani  
+canción de cuna (nana) - lala gani  
 candado - pende sor  
 candela (unidad de intensidad luminosa) - kandela  
 canguro - kangaru  
@@ -613,7 +613,7 @@ carbón - karbon
 carcelero - jela ja  
 cardo - kardon  
 cardo borriquero - pin kardon  
-cardo burral - penakardon  
+cardo burral - pena kardon  
 cardo mariano - milke kardon  
 carga (pesa) - karga  
 cargar (subir) - nete da  
@@ -630,7 +630,7 @@ carpeta - dokumen sanduku
 carpintero - moka jiang ja  
 carrera - pei gong jiva  
 carta - letre  
-cartografía - kartagrafi  
+cartografía - karta grafi  
 carvis (alcaravea) - karavi  
 carácter - zi  
 casa (hogar, residencia) - dom  
@@ -711,7 +711,7 @@ chapati (pan sin levadura) - capati
 chaqueta - jake  
 charlar (parlotear, chatear) - blabla  
 cheque - ceke  
-cheque de viajero - safarceke  
+cheque de viajero - safar ceke  
 cheque regalo - daxeceke  
 chiismo (chía) - xia islam din  
 Chile - cile  
@@ -736,7 +736,7 @@ ciclista - sikle ja
 cielo - sama  
 cien (100) - sento  
 ciencia (estudiar, investigar, -ología) - logi  
-ciencia política - politilogi  
+ciencia política - politi logi  
 cigarro (cigarillo) - sigar  
 cima (pico, cumbre, vértice) - san pike  
 cinc - zinke  
@@ -748,13 +748,13 @@ cinético - kino di
 circonio - zirkon yum  
 circón - zirkon  
 citar - sita  
-citología - selulogi  
+citología - selu logi  
 ciudad - siti  
 Ciudad de México - Mehiko siti  
 ciudadano - dexa jen  
 civilización - sivilta  
 civilizado - sivil  
-ciénaga (pantano) - potostan  
+ciénaga (pantano) - poto stan  
 claro (luminoso) - foto di  
 claro - klar  
 clarín (corneta) - laba  
@@ -764,7 +764,7 @@ clavo (pincho, punta) - dingi
 cliente - klien  
 clima (tiempo) - sama hal  
 clima - klima  
-climatología - klimalogi  
+climatología - klima logi  
 clon - fa klon  
 clonar - klon  
 cloro - klor  
@@ -867,7 +867,7 @@ consejo - sel
 conservar (preservar, mantener) - hafiza  
 considerar (reflexionar, pensar en) - hem  
 consonante - kinar fon  
-constitución - bazekanun  
+constitución - baze kanun  
 construir (edificar) - fa bina  
 consultor - kon sel ja  
 contaminación (corrupción, porquería, suciedad) - najis  
@@ -898,7 +898,7 @@ Corea - cosen
 Corea del Norte - Norde cosen  
 Corea del Sur - Sude cosen  
 coreano - cosen di  
-coro - ganirgrupe  
+coro - ganir grupe  
 corona - korona  
 corporal (corpóreo) - badan di  
 correa (rein) - lida lin  
@@ -926,7 +926,7 @@ costar - fa koste
 costumbre (hábito) - ada  
 costumbre (tradición, convención) - suna  
 costura (sutura) - sutur  
-cota de malla - serinete  
+cota de malla - seri nete  
 crecemiento - raste  
 crecer (aumentar, hincharse) - be dai  
 crecer - be raste  
@@ -999,8 +999,8 @@ culpa (defecto, crimen) - doxa
 culpable - doxa di  
 cultivar - agri  
 cultura - kultur  
-cumpleaños - natiden  
-cuna - lalabede  
+cumpleaños - nati den  
+cuna - lala bede  
 cupón (vale) - kupon  
 curar (sanar) - dava  
 curio - kuri yum  
@@ -1017,7 +1017,7 @@ cámara - foto grafi gi
 cárcel - jelakan  
 Cáucaso - Kaukasia  
 célula - selu  
-césped (pasto) - caumedan  
+césped (pasto) - cau medan  
 círculo - gola  
 cítrico - limon oranje  
 cóctel - mixe alkol  
@@ -1110,7 +1110,7 @@ deseo - vol xe
 desesperado - axa hin  
 desfigurar - fa dus forma  
 desfigurar - dusforma  
-desierto - sablestan  
+desierto - sable stan  
 deslizar - glis  
 desnudo - nude  
 despertar - fa jaga  
@@ -1257,7 +1257,7 @@ elefante - gaja
 elegante (chic) - xike  
 elegir (escoger, seleccionar) - fa cuze  
 elemento (unidad fundamental) - so  
-elemento químico - yum  
+elemento químico - kimi so  
 elfo - elfe  
 ellos o ellas - yamen  
 elogiar (alabar, exaltar) - halela  
@@ -1319,7 +1319,7 @@ enviar (transmitar) - mise
 envoltura - lifafa  
 envolver - fa lifafa  
 enzima - enzim  
-epistemología - sabelogi  
+epistemología - sabe logi  
 equal (similar) - sam  
 equilibrado (par) - par  
 equilibrado (par) - par jen  
@@ -1352,7 +1352,7 @@ escoba - jaru
 Escocia - Eskote  
 escorpión (alacrán) - akrabe  
 escribir - kitabu  
-escritorio (mesa de trabajo) - karmeza  
+escritorio (mesa de trabajo) - karm eza  
 escuchar (oír) - fa ore  
 escudo - defa bano  
 escuela (colegio, institución) - xulakan  
@@ -1364,7 +1364,7 @@ escultura (arte de escultura) - eskulte suta
 escultura (estatua) - eskulte  
 escupir (bufar) - tuh  
 ese (aquel) - vo  
-esgrima - gemsuta  
+esgrima - gem suta  
 eslabón - serime  
 eslavo - Slave  
 Eslovaquia - Slovakia  
@@ -1387,8 +1387,8 @@ esperar - dele do
 espicificar (estipular) - fa xarti  
 espiral (hélice) - helis  
 esponja - esponje  
-esposa - gamini  
-esposo - gaminan  
+esposa - gami ni  
+esposo - gami nan  
 esposo o esposa - gami jen  
 espárrago - asparge  
 espíritu (genio) - jini  
@@ -1622,7 +1622,7 @@ gato tigre (maracayá) - margai
 gay (homosexual) - gei  
 gañar (vencer, triunfar; victoria) - jai  
 gel (jalea, gelatina) - jele  
-genealogía - genelogu  
+genealogía - gene logu  
 generación (cohorte) - gene grupe  
 general (common) - putong  
 generalísimo (sogún) - gun raja  
@@ -1632,14 +1632,14 @@ generoso (dadivoso) - databi
 generoso (dadivoso, caritativo) - karim di  
 gengibre - zinji  
 genial - kul  
-genotipo - genetipe  
-gente - natiajen  
-genético - genelogi di  
+genotipo - gene tipe  
+gente - natia jen  
+genético - gene logi di  
 geografía - geo grafi  
-geología - geologi  
+geología - geo logi  
 geometría - geo metre  
 geopolítica - geo politi  
-Georgia (República de Georgia) - Kartuli  
+Georgia (República de Georgia) - Kartul  
 Georgias del Sur y Sándwich del Sur - Sude Jorjia e Sude Sanduice nesi  
 geotérmico - geo termo  
 gerencia (dirección) - nomi  
@@ -1656,7 +1656,7 @@ global (de todo el mundo) - pan dunia di
 global (mundial) - dunia di  
 globo - balon  
 gluten - gluten  
-glóbulo - hemiselu  
+glóbulo - hemi selu  
 GMS - vijin  
 gobernante (soberano) - sultan ja  
 gobernar - fa politi  
@@ -1675,9 +1675,9 @@ gracias - xukur
 gracias a (merced a) - a xukur de  
 grado Celsius - celsius darja  
 grafema - kitabu so  
-gramatical - baxakanun di  
+gramatical - baxa kanun di  
 gramo (g) - gram  
-gramática - baxakanun  
+gramática - baxa kanun  
 Granada - Grenada  
 Granadinas - Grenadin nesi  
 grande - dai  
@@ -1760,7 +1760,7 @@ helado - ais krem
 helecho - parne  
 helicóptero - helis fei gi  
 helio - heli yum  
-hemoglobina - hemiglobin  
+hemoglobina - hemi globin  
 heno - gan cau  
 hepatitis - hepatetis  
 hercio (Hz) - herze  
@@ -1791,9 +1791,9 @@ hinduismo - Hindi din
 hindú - Hindi din ja  
 hipopótamo - gubu  
 historia (cuento, relato, leyenda) - kata  
-historia (estudio de sucesos del pasado) - historilogi  
+historia (estudio de sucesos del pasado) - histori logi  
 historia (pasado) - histori  
-historiador - histori ja  
+historiador - historija  
 historieta (caricaturas) - grafi kata  
 hm… - hem…  
 hockey - hoki  
@@ -1855,7 +1855,7 @@ identificación (ID) - nam dokumen
 identificador - has nam  
 ideograma - idea zi  
 ideología (doctrina, -ismo) - sim  
-idioma artificial (lengua construida, conlang) - fetebaxa  
+idioma artificial (lengua construida, conlang) - fete baxa  
 idioma artificial (lengua construida, conlang) - sana baxa  
 idioma bengalí - bangla baxa  
 idioma finés - suomi baxa  
@@ -1908,7 +1908,7 @@ Indonesia - Indonesi
 Indostán - Hindi dexa  
 indígena (indio) - asal Amerka jen  
 inequívoco - un semi di  
-inequívoco - unsemi di  
+inequívoco - un semi di  
 infantil (inmaduro) - you  
 infección (contagio) - pati mise  
 infección - infete  
@@ -1920,9 +1920,9 @@ infierno - naraka
 inflamación - tis  
 información - kon sabe  
 informe (reporte, noticia) - reporte  
-informática (computación) - data culilogi  
+informática (computación) - data culi logi  
 infortunio (mala suerte) - dus zar  
-infraestructura - bazestrute  
+infraestructura - baze strute  
 ingeniero - enjenir  
 Inglaterra - Englix  
 inglés - englix di  
@@ -1943,7 +1943,7 @@ instrumento de arco - ticin
 insultar (ofender) - fa dus nam  
 insulto (ofensa) - dus nam  
 insulto (ofensa, afrenta) - insulte  
-inteligencia artificial - artefete intelige (AI)  
+inteligencia artificial - arte fete intelige (AI)  
 intención (intento) - nia  
 intensidad (volumen) - tezata  
 intenso (brusco, ácido, fuerte, afilado, rápido) - teza  
@@ -2124,7 +2124,7 @@ lejos (fuera) - for
 lejos - to long  
 lengua (idioma, hablar, comunicación) - baxa  
 lengua - lisan  
-lengua materna - natibaxa  
+lengua materna - nati baxa  
 lengua mundial - dunia baxa  
 lente - lense  
 lento (despacio) - anhaste  
@@ -2170,7 +2170,7 @@ lince rojo (gato montés) - rubi linse
 lindo (precioso) - kavai  
 linea (hilo, cordel, raya) - lin  
 linfa - limfa  
-lingüística - baxalogi  
+lingüística - baxa logi  
 liquen - alga fungu  
 lirio - susan  
 lista - liste  
@@ -2209,7 +2209,7 @@ lote (grupo) - lote
 lucha - jihade  
 luchador (guerrero) - jang ja  
 lugar - loka  
-lugar de nacimiento - natiloka  
+lugar de nacimiento - nati loka  
 lujuria (deseo) - kama  
 luna - luna  
 lunes - den un  
@@ -2323,8 +2323,8 @@ matadero - bucakan
 matar (morir, asesinar) - matafa  
 matasellos - posta marke  
 mate (opaco) - foto mata di  
-matemática - hisabulogi  
-matemático - hisabulogi ja  
+matemática - hisabu logi  
+matemático - hisabu logija  
 material - mate di  
 materialismo - mate lona  
 maternal - ma di  
@@ -2345,7 +2345,7 @@ mecedora - roke kursi
 medallón - medal  
 medianoche - medi noce  
 medicamento (medicina, remedio, fármaco) - dava xe  
-medicina - davalogi  
+medicina - dava logi  
 medidor - metre gi  
 medio (búfer) - medi xe  
 medio (instrumento) - medi gi  
@@ -2536,8 +2536,8 @@ músico - muzika ja
 nacer (nacimiento) - nati  
 nacer - be gene  
 nacional - natia di  
-nacionalismo - natiasim  
-nacionalista - natiasimja  
+nacionalismo - natia sim  
+nacionalista - natia simja  
 nación - natia  
 nada - siro xe  
 nadar (flotar) - be boi  
@@ -2555,13 +2555,13 @@ nave espacial - kosmo nave
 navegador - brauza gi  
 navegar (ir en bote) - nave ga  
 Navidad - mesi gene  
-Nazi - natiasosiasimja  
+Nazi - natia sosia simja  
 Naúru - Nauru  
 necesario - yau di  
 necesidad - yauta  
 necesitar - yau  
-necrofilia - nekrofilia  
-necrología (obituario) - nekrologa  
+necrofilia - nekro filia  
+necrología (obituario) - nekro loga  
 nefritis - nefre tis  
 negociar - fa biznes lona  
 negocios (comercio) - biznes  
@@ -2592,9 +2592,9 @@ nitrógeno - nitre
 Niue - Niue  
 nivel - par fase  
 niña - jun fem  
-niña - youni  
+niña - you ni  
 niño - jun man  
-niño - younan  
+niño - you nan  
 niño o niña - baca  
 no - no  
 no binario (género) - nobi  
@@ -2742,7 +2742,7 @@ Pakistán - Pakistan
 pala - bele  
 palabra (vocablo) - lexima  
 palacio (mansión) - dai dom  
-paladar - bokacati  
+paladar - boka cati  
 paladio - paladi yum  
 palanca - tire kane  
 Palaos - Palau  
@@ -2798,8 +2798,8 @@ paria - paraya
 parque - parke  
 parte (fracción) - fen  
 parte inferior - nice  
+participante - parti ceper  
 participante - parti ja  
-participante - particeper  
 participar - fa parti  
 participar - parti  
 partidario de infracción de copyright - pirate sim ja  
@@ -2827,7 +2827,7 @@ pastel (pay) - pai
 pastel de luna - luna keke  
 paternal - pa di  
 pato - bata  
-patología - patilogi  
+patología - pati logi  
 patria - dom dexa  
 patrimonio (herencia, legado) - varite  
 patógeno - pati gene xe  
@@ -2927,7 +2927,7 @@ pilaf (pulaw) - polau
 piloto - pilote  
 pimienta - pipre  
 pimpollo - jun moka  
-pimpollo - youmoke  
+pimpollo - you moke  
 pincel - pente broxa  
 pingüino - pinguin  
 pino - songi  
@@ -2945,7 +2945,7 @@ piscina (alberca, lavadero) - basen
 piso (suelo) - kamar dipe  
 pistola (rifle) - pau gi  
 pistola - pistol  
-pistón - pompetapa  
+pistón - pompe tapa  
 pitufo - nilelfe  
 pizza - piza  
 pizzería - pizakan  
@@ -2971,7 +2971,7 @@ platónico - Platon sim di
 plaza - medan  
 plomo - plumbe  
 pluma - pena  
-pluma - penakalam  
+pluma - pena kalam  
 plutonio - pluton yum  
 Plutón - Pluton  
 plástico - plasti  
@@ -3020,7 +3020,7 @@ postnatal - posnati
 postura (posición) - asan  
 potasio - kali yum  
 practicar (ensayar, ejercitar) - fa lenxi  
-pradera (pastizal) - caustan  
+pradera (pastizal) - cau stan  
 praseodimio - prazedim yum  
 preceder (anteceder) - be cen  
 preceder (anteceder) - precese  
@@ -3095,18 +3095,18 @@ proteger (asegurar, guardar) - fa sekur
 proxeneta (chulo) - sutener  
 proximidad - kaributa  
 proyección - lanse grafi  
-proyectar (proyección) - jetegrafi  
+proyectar (proyección) - jete grafi  
 proyectar - fa lanse grafi  
 proyectil (misil) - lanse xe  
 proyecto - projete  
 proyector - grafi lanse gi  
-proyector - grafiprojeter  
+proyector - grafi projeter  
 prueba - dalil  
 prueba - teste  
 práctica - prati  
 práctico - prati di  
 préstamo lingüístico - jeka loga  
-psicología - ruhulogi  
+psicología - ruhu logi  
 psique - ruhu  
 puaj - fui  
 pudrirse (cariarse, descomponerse) - be pute  
@@ -3161,7 +3161,7 @@ quizás (tal vez) - bil si
 quién - ke jen  
 qué - ke  
 qué tipo de - ke yang  
-química - kimilogi  
+química - kimi logi  
 químico - kimi di  
 
 ## R  
@@ -3255,7 +3255,7 @@ reportar - fa reporte
 reportero - reporter  
 representación (figura) - figur  
 representar - vakil  
-Republica Dominicana - Dominika Vakilkrati  
+Republica Dominicana - Dominika Vakil krati  
 repuesta (contestación) - javabu  
 República Centroafricana - Jong Afrika Vakilkrati  
 República Checa - ceska  
@@ -3332,7 +3332,7 @@ rueda del mouse - muxu cakra
 ruido - kelele  
 ruiseñor - bulbul  
 Rumania - Romania  
-rural (rústico) - agristan di  
+rural (rústico) - agri stan di  
 Rusia - Rusia  
 ruta - rute  
 rutenio - rus yum  
@@ -3425,8 +3425,8 @@ sello postal - posta cape
 semana - cetiden  
 semilla - seme  
 seminal - seme di  
-semáforo - semiforar  
-semántica - semilogi  
+semáforo - semi forar  
+semántica - semi logi  
 senador - supra vakil ja  
 sencillo (liso) - sada  
 Senegal - Senegal  
@@ -3450,9 +3450,9 @@ servicio - serve
 servidor - serve gi  
 servir - fa serve  
 sexo (género) - jinse  
-sexo - biojinse  
+sexo - bio jinse  
 sexo - sexe  
-sexología - sexelogi  
+sexología - sexe logi  
 sexy (sexual) - sexe di  
 Seychelles - Sexel nesi  
 señal (letrero, indicio) - sin  
@@ -3488,7 +3488,7 @@ Singapur - Singapur
 sino - alo di  
 sintoísmo - xindau din  
 Siria - Suria  
-sismología - sismologi  
+sismología - sismo logi  
 sistema - sistem  
 sistema solar - sol sistem  
 sistémico - sistem di  
@@ -3499,10 +3499,10 @@ sobreescribir - vise kitabu
 sobrepasar - be supra  
 social - sosi di  
 socialismo - sosi sim  
-socialismo nacional (nazismo) - natiasosiasim  
+socialismo nacional (nazismo) - natia sosia sim  
 socialista - sosi sim ja  
 sociedad - sosi  
-socio - partijen  
+socio - parti jen  
 sodio - natri  
 software (soporte lógico) - program gi  
 sofá - sofa  
@@ -3612,7 +3612,7 @@ tarjeta de gráfica - grafi karte
 tasa (precio, cuota, tarifa) - taxi  
 tasa de fotogramas - grafi rapideta  
 tatuaje - tatu  
-taxi (cab) - taxigar  
+taxi (cab) - taxi gar  
 Tayikistán - Tajiki  
 taza de café - kafe kupa  
 taza de té - cai kupa  
@@ -3621,7 +3621,7 @@ tecla (botón) - buton
 teclado - buton bano  
 tecnetio - tehni yum  
 tecnocracia - tehni krati  
-tecnología - tehnilogi  
+tecnología - tehni logi  
 tectónica de placas - plate geo kaskalogi  
 tejer - fa tela  
 tela (paño, tejido) - tela  
@@ -3652,7 +3652,7 @@ tentar (seducir) - tenta
 tentempié - xiu yam  
 tentáculo - sense xaka  
 teocracia - deu krati  
-teología - deulogi  
+teología - deu logi  
 teoría - teori  
 teosofía - deu sofi  
 tera- - tera  
@@ -3719,7 +3719,7 @@ tortuga - tortuga
 tos - koso  
 totalidad (integridad) - holota  
 toxicología - toxilogi  
-toxina - biotoxi  
+toxina - bio toxi  
 trabajador (obrero) - karja  
 trabajar - kar  
 trabajo - karxe  
@@ -3854,7 +3854,7 @@ ventilador - panka
 Venus - Venus  
 ver (mirar) - vide  
 verano - garma mosim  
-verbo - karlexi  
+verbo - kar lexi  
 verdadero - ver  
 verde - luga  
 verde limón - limon luga di  
@@ -3898,7 +3898,7 @@ vino - vin
 violeta - violeta  
 virgen - virje  
 virginal - virje di  
-virología - viruslogi  
+virología - virus logi  
 virrey - vise raja  
 virtud (moralidad) - bon moral  
 virtuoso (moral) - bon moral di  
@@ -3916,7 +3916,7 @@ vivo (lleno de vida) - fa jiva
 viñedo - putau bagi  
 vocabulario (léxico) - loga jama  
 vocal - jong fon  
-vocal - vokesoni  
+vocal - voke soni  
 volar - fa fei  
 volcán - hogo san  
 voltio (V) - volte  
@@ -3971,7 +3971,7 @@ zigzag - zigzage
 Zimbabue - Zimbabue  
 zombi - zombi  
 zoo - hevan bagi  
-zoología - hevanlogi  
+zoología - hevan logi  
 zoológico - hevan logi di  
 zoroastriano - zardux din ja  
 zoroastrismo - zardux din  
@@ -3994,7 +3994,7 @@ zulú - Zulu
 átomo - atom  
 él o ella - ya  
 éste - dong  
-ética (filosofía moral) - morallogi  
+ética (filosofía moral) - moral logi  
 étnico - zuku di  
 índice de contenidos - in liste  
 ósmosis - osmos  

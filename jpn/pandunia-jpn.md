@@ -13,8 +13,8 @@ acini yum - アクチニウム
 ada - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
 Afghan - アフガニスタン  
-agricun - 農村  
-agrinomi - 農学  
+agri cun - 農村  
+agri nomi - 農学  
 air - 空気  
 air bio di - 好気性  
 • anair bio di - 嫌気性  
@@ -62,7 +62,7 @@ arka ja - 弓兵
 aroma - 香り (匂い, 臭い)  
 aroma melon - マクワウリ  
 arsen yum - ヒ素  
-artefete intelige (AI) - 人工知能  
+arte fete intelige (AI) - 人工知能  
 asal - 起源  
 asar - 効果  
 asparge - アスパラガス  
@@ -121,8 +121,8 @@ bau seku - 宝石
 baxa - 言語  
 • trabaxa - 翻訳する  
 baxa jinse - 文法的性 (名詞クラス)  
-baxalogi - 言語学  
-bazestrute - インフラストラクチャー  
+baxa logi - 言語学  
+baze strute - インフラストラクチャー  
 bazar - 市場 (マーケット, バザー)  
 baze bol - 野球  
 baze petra - 基盤岩  
@@ -165,11 +165,11 @@ bilor - 結晶
 bina - 建物 (建築物)  
 bina plan - 建築学  
 bina plan ja - 建築家  
-biojinse - 生物学の性  
-biologi - 生物学  
-biosana xe - 堆肥  
-biosistem - 生物群系  
-biotoxi - 毒素  
+bio jinse - 生物学の性  
+bio logi - 生物学  
+bio sana xe - 堆肥  
+bio sistem - 生物群系  
+bio toxi - 毒素  
 bioxe - 生物  
 bir - ビール  
 biskute - ビスケット (クッキー)  
@@ -180,7 +180,7 @@ boce - ボクシング (拳闘)
 bocer - ボクサー (拳闘家)  
 boi - フロート (ブイ)  
 boi punte nume - 浮動小数点数  
-bokacati - 口蓋 (上顎)  
+boka cati - 口蓋 (上顎)  
 bol - 玉 (球)  
 boli varis - ご飯  
 bolte - ボルト  
@@ -221,9 +221,9 @@ cakra - 車輪
 camaca - スプーン  
 cati - 屋根  
 cau - 草  
-caukitabu - 草書  
-caumedan - 芝生  
-caustan - 草地  
+cau kitabu - 草書  
+cau medan - 芝生  
+cau stan - 草地  
 cavi - 鍵  
 ceke - 小切手 (チェック)  
 cen - 以前 (前に)  
@@ -249,7 +249,7 @@ cita - チーター
 cize - チーズ  
 coi - 菜  
 coklate - チョコレート  
-coklatekane - チョコバー  
+coklate kane - チョコバー  
 copu - クワ  
 culi - 処理 (プロセス)  
 cun - 村  
@@ -277,7 +277,7 @@ darja mute - 発展 (開発)
 darmestadi yum - ダームスタチウム  
 darte - 土  
 data culi - データ処理  
-data culilogi - 計算機科学  
+data culi logi - 計算機科学  
 data fen gata - データ解析  
 data table - 表  
 dau - 道  
@@ -328,7 +328,7 @@ dokumen filme - ドキュメンタリー
 dolfin - イルカ (ドルフィン)  
 dom - 家  
 dom dexa - 祖国  
-Dominika Vakilkrati - ドミニカ共和国  
+Dominika Vakil krati - ドミニカ共和国  
 dong - 東  
 dong gorila - ヒガシゴリラ  
 donjon ventur - ダンジョンアドベンチャー  
@@ -511,7 +511,7 @@ gami ben - 連れ子
 gamo zi - 絵文字  
 gan cau - 干し草  
 ganir - 歌手  
-ganirgrupe - 合唱団  
+ganir grupe - 合唱団  
 ganse - 雁 (鵝鳥)  
 ganum - 小麦  
 gar - もし  
@@ -530,15 +530,15 @@ gau dipe move - 浮き沈みする
 gau tehni - ハイテク  
 gazel - ガゼル  
 gem - 剣  
-gemdau - 剣道  
-gemsuta - 剣術  
+gem dau - 剣道  
+gem suta - 剣術  
 gene di - 生 (未熟)  
-genelogu - 系譜学  
-genetipe - 遺伝子型  
+gene logu - 系譜学  
+gene tipe - 遺伝子型  
 gene yo hevan - 湧かす  
 geo - 地  
 geo forme - 地形  
-geologi - 地質学  
+geo logi - 地質学  
 geo metre - 幾何学  
 geo nice di - 地中  
 geo nice jela - 地下牢 (ダンジョン)  
@@ -619,8 +619,8 @@ helis fei gi - ヘリコプター
 hem - 考える  
 hemi - 血  
 anhemia - 貧血  
-hemiglobin - 血色素 (ヘモグロビン)  
-hemiselu - 血球  
+hemi globin - 血色素 (ヘモグロビン)  
+hemi selu - 血球  
 hepate - 肝臓  
 hepatetis - 肝炎  
 hero - 英雄 (勇者, ヒーロー)  
@@ -629,7 +629,7 @@ hese yum - ハッシウム
 hevan - 動物  
 hevan agri suta - 畜産  
 hevan bagi - 動物園  
-hevanlogi - 動物学  
+hevan logi - 動物学  
 hevan logi di - 動物学の  
 hidrargente - 水銀  
 hidro - 水素  
@@ -637,7 +637,7 @@ hindi raja - ラージャー
 Hindi rivo - インダス川  
 hindi yum - インジウム  
 hisabu loge - 口座  
-hisabulogi - 数学  
+hisabu logi - 数学  
 hiyar - キュウリ  
 hobi ja - アマチュア  
 hogo - 火  
@@ -698,7 +698,7 @@ jeka na - 借りる
 jelakan - 監獄  
 jen - 人 (者, 員, 徒)  
 • projete - プロジェクト  
-jetegrafi - 映す (投影する, 投影)  
+jete grafi - 映す (投影する, 投影)  
 jin lai - アクセス  
 jinse - 性別 (ジェンダー)  
 jinselogi - ジェンダー研究  
@@ -774,10 +774,10 @@ kar - 働く
 • duskar - 悪事  
 • konkar - 共同して働  
 karja - 労働者  
-karlexi - 動詞  
+kar lexi - 動詞  
 karxe - 労働  
 karate - 空手  
-karate ja - 空手家  
+karateja - 空手家  
 karbon - 炭素  
 karbon kalam - 鉛筆  
 karbon sui - 炭水化物  
@@ -811,7 +811,8 @@ kexa - 毛
 kexa hin - 無毛  
 kilo - 千 (１０００)  
 kimi - 物質  
-kimilogi - 化学  
+kimi logi - 化学  
+kimi so - 元素  
 kimono - 着物  
 kinar - 際 (端)  
 kinar baryer - 柵 (垣)  
@@ -884,8 +885,8 @@ kuri yum - キュリウム
 la - あの  
 lage - 湖  
 lai - 来る  
-lalabede - 揺り籠  
-lalagani - 子守歌 (ララバイ)  
+lala bede - 揺り籠  
+lala gani - 子守歌 (ララバイ)  
 lama - ラマ (チベット仏教の上師)  
 lampa - ランプ  
 LAN (loka area nete) - LAN  
@@ -893,8 +894,8 @@ lanse grafi - 投影
 lanse xe - 飛翔体 (矢玉)  
 lantan - ランタン  
 lasa - ゴミ (廃棄物)  
-lasastan - ゴミ捨て場  
-lasatong - ごみ箱  
+lasa stan - ゴミ捨て場  
+lasa tong - ごみ箱  
 lasun - 大蒜  
 late - 側 (脇)  
 Latvia - ラトビア  
@@ -1094,7 +1095,7 @@ nama - 肉
 nan - 男  
 narko - 麻薬  
 natia medi - 国際的  
-natiloka - 出生地  
+nati loka - 出生地  
 natri - ナトリウム  
 nau - 脳  
 nautile - オウムガイ  
@@ -1104,8 +1105,8 @@ nefre - 腎臓
 nefte - 油 (オイル)  
 nefte guku - シマカンギク (アブラギク)  
 nekro - 死体  
-nekrofilia - 屍姦 (死体性愛)  
-nekrotomi - 検視  
+nekro filia - 屍姦 (死体性愛)  
+nekro tomi - 検視  
 nelu - 四 (4)  
 nen - 年  
 nen mes den - 年月日  
@@ -1183,7 +1184,7 @@ param - 引数 (パラメーター)
 parce kai - 弾ける  
 pari dexa - 仙境  
 parne - 羊歯  
-partijen - パートナー  
+parti jen - パートナー  
 pas loga - パスワード  
 pase hai bakalau - マダラ  
 pase sim - 平和主義  
@@ -1203,8 +1204,8 @@ pei gong ja - プロフェッショナル
 pei gong jiva - キャリア  
 • propeler - プロペラ (推進器)  
 pelpel - チョウ  
-penakalam - 羽根ペン  
-penakardon - アメリカオニアザミ  
+pena kalam - 羽根ペン  
+pena kardon - アメリカオニアザミ  
 pende sor - 南京錠  
 pente - 絵の具 (ペンキ)  
 pente broxa - 絵筆  
@@ -1235,7 +1236,7 @@ politi - 政府
 politi lona - 政道  
 politi mode - 政体  
 polska yum - ポロニウム  
-pompetapa - ピストン (活塞)  
+pompe tapa - ピストン (活塞)  
 ponte pin - 羅針盤  
 porei - リーキ  
 • reporter - 記者  
@@ -1246,7 +1247,7 @@ pote ja - 陶工
 pote suta - 陶芸  
 poto - 泥  
 poto defa bano - フェンダー  
-potostan - 沼地  
+poto stan - 沼地  
 poyu - シラミ  
 prazedim yum - プラセオジム  
 prese - 圧力  
@@ -1335,9 +1336,9 @@ sabe vol - 興味 (好奇心)
 sabe vol di - 面白い  
 sabe vol ja - 知りたがる  
 sable - 砂  
-sablepetra - 砂岩  
+sable petra - 砂岩  
 safa tela - ワイプ  
-safarceke - トラベラーズチェック  
+safar ceke - トラベラーズチェック  
 sagu - サゴ  
 sagu fun - サゴ澱粉  
 sahi - 正しい  
@@ -1373,7 +1374,7 @@ sekur nume - 暗証番号
 selen yum - セレン  
 selge - フダンソウ (スイスチャード)  
 seme dana - 種  
-semilogi - 意味論  
+semi logi - 意味論  
 sene - 年齢  
 seng - 生の  
 seng varis - 米  
@@ -1388,7 +1389,7 @@ seria - 系列
 serime - 連結  
 serve gi - サーバ  
 serve ja - 使用人  
-sexelogi - 性科学  
+sexe logi - 性科学  
 sian - シアン  
 siborge yum - シーボーギウム  
 side - 座る  
@@ -1640,12 +1641,11 @@ yi - この
 yo - 何分の  
 yogo - 軛  
 yogur - ヨーグルト  
-youjen - 幼童  
-youmoke - 若木  
-younan - 男の子  
-younen - 幼年時代  
-youni - 女の子  
-yum - 元素  
+you jen - 幼童  
+you moke - 若木  
+you nan - 男の子  
+you nen - 幼年時代  
+you ni - 女の子  
 yung - 溶ける  
 yung petra - 溶岩  
 yuter yum - イットリウム  

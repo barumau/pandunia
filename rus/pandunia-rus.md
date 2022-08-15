@@ -22,9 +22,9 @@ agile - подвижный
 agresi - нападение (атака, агрессия)  
 agresi ja - агрессор  
 agri - выращивать  
-agribiologi - агробиология  
+agri bio logi - агробиология  
 agri di - аграрный  
-agrinomi - агрономия  
+agri nomi - агрономия  
 air - воздух  
 air bio di - аэробный  
 air gun - военно-воздушные силы  
@@ -85,8 +85,8 @@ arka ja - лучник
 armia - армия  
 aroma - запах (аромат)  
 arsen yum - мышьяк  
-artefete - артефакт  
-artefete intelige (AI) - искусственный интеллект  
+arte fete - артефакт  
+arte fete intelige (AI) - искусственный интеллект  
 asal - начало (причина)  
 asal Amerka jen - инде́йский  
 asan - поза  
@@ -145,7 +145,7 @@ banana - банан
 banda - банда  
 bandera - флаг  
 bankakan - банк  
-bankarute - банкрот  
+banka rute - банкрот  
 bano - доска (панель)  
 bano geme - настольная игра  
 banya - купание  
@@ -168,7 +168,7 @@ baxa - язык
 • polibaxaka - многоязычный  
 • trabaxa - перевод  
 baxa jinse - род в грамматике  
-bazestrute - инфраструктура  
+baze strute - инфраструктура  
 bazar - рынок (базар)  
 baze - основа (база,  фундамент)  
 baze bol - бейсбол  
@@ -209,11 +209,11 @@ bina - строение
 bina plan - архитектура  
 bina plan ja - архитектор  
 bio - органический  
-biojinse - биологический пол  
-biologi - биология  
-biosana xe - компост  
-biosistem - биом  
-biotoxi - токсин  
+bio jinse - биологический пол  
+bio logi - биология  
+bio sana xe - компост  
+bio sistem - биом  
+bio toxi - токсин  
 bioxe - организм  
 bir - пиво  
 biskute - печенье (бисквит)  
@@ -221,10 +221,10 @@ bismute - висмут
 bison - бизон (зубр)  
 biznes - предприятие (бизнес)  
 boce - бокс  
-bocepante - семейные  
+boce pante - семейные  
 bocer - боксёр  
 boi - поплавок (буй)  
-bokacati - нёбо  
+boka cati - нёбо  
 bol - шар  
 bolte - болт  
 bomba - бомба  
@@ -271,8 +271,8 @@ canse - возможность (шанс)
 carme - шарм  
 cati - крыша (кров)  
 cau - трава  
-caukitabu - цаошу  
-caumedan - газон  
+cau kitabu - цаошу  
+cau medan - газон  
 cavi - ключ  
 ceke - чек  
 cen - раньше  
@@ -332,7 +332,7 @@ darmestadi yum - дармштадтий
 data - данные  
 data banke - база данных  
 data culi - обработка данных  
-data culilogi - информатика  
+data culi logi - информатика  
 dau bano - табличка с названием улицы  
 dava - лечить  
 dava ja - врач (медик, лекарь, доктор)  
@@ -381,7 +381,7 @@ dom - дом
 dom dexa - родина (отечество)  
 dom di - домашний  
 dom zeze - муха  
-Dominika Vakilkrati - Доминиканская Республика  
+Dominika Vakil krati - Доминиканская Республика  
 dong - восток (ост)  
 dong gorila - восточная горилла  
 dosil - кроткий  
@@ -581,7 +581,7 @@ gamo di - эмоциональный
 gamo hal - настроение  
 gamo zi - смайлик (эмодзи)  
 gan cau - сено  
-ganirgrupe - хор  
+ganir grupe - хор  
 ganse - гусь  
 ganum - пшеница  
 gar - если  
@@ -595,15 +595,15 @@ gau tehni - высокие технологии
 gazel - газель  
 gazeta - газета  
 gem - меч  
-gemdau - кэндо  
-gemsuta - фехтование  
+gem dau - кэндо  
+gem suta - фехтование  
 geme ja - игрок (геймер)  
 • exgene - экзогенный  
 gene di - сырой  
 gene grupe - поколение  
-genelogi di - генетический  
-genelogu - генеалогия  
-genetipe - генотип  
+gene logi di - генетический  
+gene logu - генеалогия  
+gene tipe - генотип  
 gene yo hevan - выращивать  
 Geo - Земля  
 geo grafi - география  
@@ -690,9 +690,9 @@ hem… - хм…
 hema - палатка (шатёр)  
 hemi - кровь  
 anhemia - анемия (малокровие)  
-hemiglobin - гемоглобин  
+hemi globin - гемоглобин  
 hemi hin - бескровный  
-hemiselu - кровяная клетка (гематоцит)  
+hemi selu - кровяная клетка (гематоцит)  
 hepate - печень  
 hero - герой  
 Hese - Гессен  
@@ -700,7 +700,7 @@ hese yum - хассий
 hevan - животное  
 hevan bagi - зоопарк  
 hevan kata - басня  
-hevanlogi - зоология  
+hevan logi - зоология  
 hevan logi di - зоологический  
 hidrargente - ртуть  
 hidro - водород  
@@ -712,7 +712,7 @@ hindi raja - раджа
 Hindi rivo - Инд  
 hindi yum - индий  
 hisabu loge - счёт  
-hisabulogi - математика  
+hisabu logi - математика  
 hiyar - огурец  
 hobi ja - любитель  
 hogo - огонь  
@@ -847,10 +847,10 @@ kape truke - ловушка
 kar - работать  
 • konkar - сотрудничать (кооперировать)  
 karja - работник  
-karlexi - глагол  
+kar lexi - глагол  
 karxe - работа  
 karate - каратэ  
-karate ja - каратист (каратэка)  
+karateja - каратист (каратэка)  
 karbon - углерод  
 karbon duoxide - двуокись углерода  
 karbon kalam - карандаш  
@@ -865,7 +865,7 @@ karote - морковь
 karse - грубой  
 karse limon - лима (каффир-лайм)  
 karta - карта  
-kartagrafi - картография  
+karta grafi - картография  
 karte - карта  
 karuba - рожковое дерево  
 kaska - оболочка (кора, панцирь)  
@@ -884,7 +884,8 @@ kexa broxa - щётка для воло́с
 kexa hin - безволосый  
 ki - что  
 kimi - вещество  
-kimilogi - химия  
+kimi logi - химия  
+kimi so - химический элемент  
 kimono - кимоно  
 kinar - край (грань)  
 kinar baryer - забор (ограда)  
@@ -962,16 +963,16 @@ kurva - кривая
 ## L  
 
 lai - приходить  
-lalabede - колыбель (люлька)  
-lalagani - колыбельная песня  
+lala bede - колыбель (люлька)  
+lala gani - колыбельная песня  
 lama - лама (религиозный учитель в тибетском буддизме)  
 lamadin - ламаизм  
 lampa - лампа  
 lanse xe - снаряд  
 lantan - лантан  
 lasa - мусор (дрянь)  
-lasastan - свалка  
-lasatong - мусорный бак  
+lasa stan - свалка  
+lasa tong - мусорный бак  
 lasun - чеснок  
 late - сторона (бок)  
 late di - боковой (латеральный)  
@@ -1172,8 +1173,8 @@ nati - родиться
 • posnati - послеродовой  
 natia - народ  (нация)  
 natia medi - междунаро́дный  
-natibaxa - родной язык  
-natiloka - место рождения  
+nati baxa - родной язык  
+nati loka - место рождения  
 natri - натрий  
 natre bilor - натрит (натр, натрон, кристаллическая сода)  
 nau - мозг  
@@ -1186,9 +1187,9 @@ nave raite - правый борт
 nefre - почка  
 nefte - масло  
 nekro - труп (мёртвое тело)  
-nekrofilia - некрофилия  
-nekrologa - некролог  
-nekrotomi - вскрытие (аутопсия)  
+nekro filia - некрофилия  
+nekro loga - некролог  
+nekro tomi - вскрытие (аутопсия)  
 nelu - четыре (4)  
 neodim yum - неодим  
 neon - неон  
@@ -1277,7 +1278,7 @@ pari - фея
 pari kata - сказка  
 parke - парк  
 parne - папоротник  
-partijen - партнёр  
+parti jen - партнёр  
 pas loga - пароль  
 pase hai bakalau - тихоокеанская треска  
 pase sim - пацифизм  
@@ -1287,7 +1288,7 @@ pasporte - паспорт
 pati gene xe - патоген  
 pati jen - пациент (больной)  
 patikan - больница (госпиталь)  
-patilogi - патология  
+pati logi - патология  
 pati mise - инфекция (заразная болезнь)  
 pau - стрелять  
 pau gi - пистолет  
@@ -1300,8 +1301,8 @@ pei gong jiva - карьера
 • propeler - пропеллер (винт)  
 pelpel - бабочка (мотылёк)  
 pena - перо  
-penakalam - перо  
-penakardon - бодяк обыкновенный  
+pena kalam - перо  
+pena kardon - бодяк обыкновенный  
 pende kardon - чертополох поникший  
 pende sor - висячий замок  
 pente - картина  
@@ -1340,7 +1341,7 @@ poli baxa di - многоязычный
 Polinesi - Полинезия  
 politi ja - управляющий  
 polska yum - полоний  
-pompetapa - поршень  
+pompe tapa - поршень  
 ponte pin - компас  
 porei - лук-порей  
 porte - порт  
@@ -1355,7 +1356,7 @@ pote camaca - половник (черпак, ковш)
 pote ja - гончар  
 pote suta - гончарное дело  
 poto - болото  
-potostan - болото (топь)  
+poto stan - болото (топь)  
 poyu - вошь  
 prazedim yum - празеодим  
 prese - давление (нажим)  
@@ -1448,7 +1449,7 @@ sabe vol di - интересный
 sabe vol ja - любознательный  
 sable - песок  
 safa tela - тряпка  
-safarceke - дорожный чек  
+safar ceke - дорожный чек  
 safran - шафран  
 sagu - саго  
 sahi - правильный  
@@ -1483,12 +1484,12 @@ seku - камень (камешек)
 sel - совет  
 selen yum - селен  
 selge - мангольд  
-selulogi - цитология  
+selu logi - цитология  
 seme - семя  
 seme di - семенной  
 semente - цемент  
-semiforar - семафор  
-semilogi - семантика  
+semi forar - семафор  
+semi logi - семантика  
 semon - друг друга  
 sene - возраст  
 seng - сырой  
@@ -1502,13 +1503,13 @@ sera - пила
 serami - керамика  
 seri - серия  
 seria - серия  
-seriletre - письмо счастья  
+seri letre - письмо счастья  
 serime - звено  
-serinete - кольчуга  
+seri nete - кольчуга  
 serve gi - сервер  
 serve ja - слуга  
 sesam - сезам  
-sexelogi - сексология  
+sexe logi - сексология  
 si - быть  
 sian - циан  
 siborge yum - сиборгий  
@@ -1584,7 +1585,7 @@ taxi metre gi - таксометр
 taza - свежий  
 tef - теф  
 tehni - техника  
-tehnilogi - технология  
+tehni logi - технология  
 tehni yum - технеций  
 tela - ткань  
 tela gi - ткацкий станок  
@@ -1718,7 +1719,7 @@ vinkan - винном заводе
 violeta nil - фиолетовый (пурпурный)  
 virje - девственник  
 virus - вирус  
-viruslogi - вирусология  
+virus logi - вирусология  
 vise ma - мачеха  
 vise pa - отчим  
 vise raja - вице-король  
@@ -1727,7 +1728,7 @@ Vixnu - Вишну
 viza - виза  
 vo - тот  
 vode - клятва (присяга, обет)  
-vokesoni - гласный  
+voke soni - гласный  
 vol - хотеть  
 volfram - вольфрам  
 vulva - вульва  
@@ -1810,8 +1811,7 @@ yoga - йога
 yogo - ярмо (иго)  
 yogur - йогурт  
 Yohan festa - Иванов день  
-youmoke - саженец  
-yum - химический элемент  
+you moke - саженец  
 yumor - юмор  
 yuter yum - иттрий  
 yuterbi yum - иттербий  

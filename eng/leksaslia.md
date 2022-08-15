@@ -566,7 +566,7 @@
 **hina** *henna (alcanna)* ← Arabic: حِنَّاء‎ (ḥinnāʾ), English:henna, French:henné, Spanish:alheña, Portuguese:hena, Russian:хна (hna), Hindi:हिना (hinā)  
 **hindi yum** *indium* ← English:indium, French:indium, Spanish:indium, Portuguese:índio, Russian:индий, Mandarin:铟 (yīn), Japanese:インジウム, Korean:인듐, Vietnamese:indi, Hindi:इण्डियम, Bengali:ইন্ডিয়াম, Malay:indium, Swahili:indi, Arabic: انديوم  
 **hisabu** *calculation* ← Arabic: حِسَاب‎ (ḥisāb), Turkish:hesap, Oromo:hisaaba, Swahili:hisabu, Hindi:हिसाब (hisāb), Bengali:হিসাব (hiśab)  
-**historilogi** *history (study of history)* ← English:history, Spanish:Swahili:historia, Portuguese:história, French:histoire, Russian:история (istoriya)  
+**histori logi** *history (study of history)* ← English:history, Spanish:Swahili:historia, Portuguese:história, French:histoire, Russian:история (istoriya)  
 **hiyar** *cucumber* ← Persian:خیار (xiyâr), Turkish:hıyar, Arabic:خيار‎ (khiyār), Hindi:खीरा (khīrā), Bengali:ক্ষীরা (kṣīrā)  
 **hobi** *hobby* ← English:Spanish:Portuguese:deu:French:hobby, Russian:хобби (hobbi)  
 **hogo** *fire (burning)* ← Spanish:fuego, Portuguese:fogo + Russian:огонь (ogon’), Hindi:आग (āg), Bengali:অগ্নি (ôgni), pan:ਅੱਗ (ag) + Mandarin:火 (huǒ), Cantonese:火 (fo2), Wu-Chinese:火 (hu2), Korean:화 (hwa), Vietnamese:hoả  
@@ -1265,8 +1265,8 @@
 **rota vanu gi** *top (spinning top)* ← English:top, French:toupie  
 **rubi bau seku** *ruby* ← English:ruby, Portuguese:rubi, Spanish:rubí, French:rubis, deu:Rubin, Russian:рубин (rubin), Japanese:ルビー (rubī)  
 **rubi yum** *rubidium* ← English:rubidium, French:rubidium, Spanish:rubidio, Portuguese:rubídio, Russian:рубидий, Mandarin:铷 (rú), Japanese:ルビジウム, Korean:루비듐, Vietnamese:rubiđi, Hindi:रुबिडियम, Bengali:রুবিডিয়াম, Malay:rubidium, Swahili:rubidi, Arabic: روبيديوم  
+**ruhu logi** *psychology* ← Turkish:ruh bilimi, Hindi:मनोविज्ञान (manovigyān), Bengali:মনোবিজ্ঞান (mônobiggan), Malay:ilmu jiwa, Arabic:(ʿilm an-nafs), deu:Seelenkunde, English:psychology, Spanish:psicológia  
 **ruhu** *soul (mind, psyche)* ← Arabic:(rūħ), Malay:ruh, Turkish:ruh, Hindi:रूह (rūh), Swahili:roho, Hausa:ruhu, som:ruux, + Russian:дух (duh)  
-**ruhulogi** *psychology* ← Turkish:ruh bilimi, Hindi:मनोविज्ञान (manovigyān), Bengali:মনোবিজ্ঞান (mônobiggan), Malay:ilmu jiwa, Arabic:(ʿilm an-nafs), deu:Seelenkunde, English:psychology, Spanish:psicológia  
 **ruke sake** *backpack (rucksack)* ← deu:English:rucksack, Russian:рюкзак (rjukzak), Japanese: リュックサック (ryukkusakku), Korean:륙색 (ryuksaek)  
 **ruke** *back* ← deu:Rücken  
 **rupa** *appearance (looks)* ← Hindi:रूप (rūp), Malay: rupa, Thai: รูป (rūp), Khmer:រូប (rūp)  
@@ -1527,8 +1527,8 @@
 **vinil** *vinyl* ← English:vinyl, Spanish:vinilo, Portuguese:vinil, French:vinyle, Russian:винил (vinil), Japanese:ビニル (viniru)  
 **violeta** *pansy (violet, viola)* ← English:Portuguese:French:violet, Spanish:violeta, deu:violett, Russian:фиолетовый (fioletovyy), Japanese:バイオレット (baioretto), Korean:보라 (bola)  
 **virje** *virgin* ← English:virgin, French:vierge, Spanish:virgen, Portuguese:virgem  
+**virus logi** *virology* ← Polish:wirusologia, Russian:вирусология (virusologiya)  
 **virus** *virus* ← English:Spanish:French:Malay:virus, Portuguese:vírus, Russian:вирус (virus), Turkish:virüs, Hindi:वाइरस (vāirasa), Japanese:ウイルス (uirusu)  
-**viruslogi** *virology* ← Polish:wirusologia, Russian:вирусология (virusologiya)  
 **vise** *vice (deputy, alternative, substitute, replacement)* ← English:French:Spanish:Portuguese:vice-, Russian:вице- (vitse-), deu:vize-  
 **vita** *screw* ← French:vis, Italian:vite, Russian:винт (vint), Turkish:vida  
 **vitamin** *vitamin* ← English:Malay:vitamin, French:vitamine, Spanish:Portuguese:vitamina, Russian:витамин (vitamin), Mandarin:维他命 (wéitāmìng), Japanese:ビタミン (bitamin), Korean:비타민 (bitamin), Vietnamese:vi ta min, Hindi:विटामिन (viṭāmin), Bengali:ভিটামিন (bhiṭamin), Arabic: فِيتَامِين‎ (fitamīn)  
