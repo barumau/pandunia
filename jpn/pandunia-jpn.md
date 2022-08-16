@@ -200,6 +200,7 @@ bu! - ばあ
 buca ja - 肉屋  
 bucakan - 屠畜場  
 Buda - 仏陀  
+bude - ブース  
 bufete - ビュッフェ (バイキング)  
 buku - 本 (書物)  
 bum - 爆発  
@@ -576,6 +577,7 @@ gui - 鬼
 gui papi - オニゲシ  
 guku hua - キク  
 gun jen - 軍人  
+gun jen kan - 兵舎 (バラック)  
 gun raja - 総統 (将軍 )  
 guru - 尊師 (グル, 先生)  
 guta - 膝  
@@ -714,7 +716,6 @@ jui note - 注意 (戒め, 警告)
 jul - ジュール (J)  
 jun fem - 女の子  
 jun jen - 青少年  
-junjen - 青少年  
 jun man - 男の子  
 jun moka - 若木  
 junnen - 青春時代  
@@ -1467,6 +1468,7 @@ tehni - 技術
 tehni yum - テクネチウム  
 tela - 布  
 tela gi - 織機  
+tele fon bude - 電話ボックス  
 tele fon gi - 電話  
 teleskope - 望遠鏡 (テレスコープ)  
 telu yum - テルル  
@@ -1535,6 +1537,7 @@ uzebil di - 使用可能
 
 va - わあ  
 vaf - 犬 (狗)  
+vaf bude - 犬小屋  
 vafle - ワッフル  
 vagina - 膣 (ワギナ)  
 vai - 外  

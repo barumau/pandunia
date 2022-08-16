@@ -252,6 +252,7 @@ bu! - bu!
 Budda - Buda  
 buddysta - Buda din ja  
 Buddyzm - Buda din  
+budka (kabina) - bude  
 budynek (struktura) - bina  
 budżet - bujete  
 bufet (szwedzki stół) - bufete  
@@ -1042,7 +1043,6 @@ językoznastwo - baxa logi
 
 kabaczek (dynia, tykwa) - kaboga  
 kabel (linia) - eletro lin  
-kabina, budka - kabin  
 kaczka - bata  
 kadm - kadim yum  
 Kajmany - Kaiman nesi  
@@ -1225,6 +1225,7 @@ kosmos, wszechświat - kosmo
 Kosowo - Kosovo  
 Kostaryka - Kosta Rika  
 kosz - baske  
+koszary - gun jen kan  
 koszt, cena - koste  
 kosztować - fa koste  
 kosztowny (drogi) - koste di  
@@ -1663,7 +1664,6 @@ młodość - junnen
 młodość - junta  
 młody - jun  
 młodzież, młoda osoba - jun jen  
-młodzież, młoda osoba - junjen  
 młot, młotek - hamar  
 młynarz - mol ja  
 

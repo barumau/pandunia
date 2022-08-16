@@ -580,6 +580,7 @@ Buda - Buddha
 Buda din - Buddhism  
 Buda din ja - Buddhist  
 Budapexte - Budapest  
+bude - booth (cabin, stall, stand)  
 budi - realization (awareness, enlightenment, bodhi)  
 budi di - aware (enlightened)  
 bufete - buffet (smorgasbord)  
@@ -1705,6 +1706,7 @@ gule - ghoul
 guma - drum  
 gun - army  
 gun jen - soldier  
+gun jen kan - barracks  
 gun raja - generalissimo (shogun)  
 gun raja dexa - shogunate  
 guru - guru (teacher, sage)  
@@ -2060,8 +2062,7 @@ jul - joule (J)
 jumla - sentence (phrase)  
 jun - young (youthful)  
 jun fem - girl  
-jun jen - youth (young person)  
-junjen - youth (youngster, young person)  
+jun jen - youth (youngster, young person)  
 jun man - boy  
 jun moka - sapling  
 junnen - youth (years in life following childhood)  
@@ -2079,7 +2080,6 @@ juxa - injection
 ka - than (as, compared to, relative to)  
 kababu - barbecue (grill)  
 kababu nama - grilled meat (kebab)  
-kabin - cabin (booth)  
 kable - rope (cable)  
 kaboga - squash (pumpkin, gourd)  
 Kabu Verde - Cabo Verde (Cape Verde)  
@@ -2277,7 +2277,7 @@ kino grafikan - movie theatre
 Kinxasa - Kinshasa  
 Kinxasa Kongo - Congo Kinshasa  
 kio - bridge  
-kioske - kiosk  
+kioske - kiosk (pavilion)  
 Kipris - Cyprus  
 kira - carat  
 kira da - rent out (let, lease)  
@@ -4005,6 +4005,7 @@ tela - cloth (fabric, textile)
 tela gi - loom  
 tele - distance (far away)  
 tele di - far  
+tele fon bude - telephone booth  
 tele fon gi - telephone  
 tele fon lin - telephone line  
 tele fon nume - telephone number  
@@ -4208,6 +4209,8 @@ uze ja nam - username
 
 va - wow! (gee!)  
 vaf - dog  
+vaf bude - doghouse (dog shelter)  
+vaf parke - kennel (facility)  
 vafle - waffle  
 vagina - vagina  
 vagina tis - vaginitis  

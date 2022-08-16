@@ -246,6 +246,7 @@ bubu - бука
 buca ja - мясник  
 bucakan - бойня  
 Buda - Будда  
+bude - будка (кабина)  
 bufete - буфет  
 buku - книга  
 bulbul - соловей  
@@ -646,6 +647,7 @@ gul - глотать
 gule - гуль (вурдалак)  
 gun - армия  
 gun jen - солдат  
+gun jen kan - казарма (барак)  
 gun raja - генералиссимус  
 guta - колено  
 guta kaska oste - надколенник  
@@ -786,7 +788,7 @@ jui note - упреждение
 jul - джоуль (J)  
 jumla - фраза  
 jun - юный  
-junjen - юнец  
+jun jen - юнец  
 jun moka - саженец  
 Jupiter - Юпитер  
 jus - сок  
@@ -894,6 +896,7 @@ kimono - кимоно
 kinar - край (грань)  
 kinar baryer - забор (ограда)  
 kino grafi - фильм (кино)  
+kioske - киоск (павильон)  
 kira - аренда  
 kira kape - арендовать  
 kisma - судьба (кисмет)  
@@ -1597,6 +1600,7 @@ tehni logi - технология
 tehni yum - технеций  
 tela - ткань  
 tela gi - ткацкий станок  
+tele fon bude - телефонная будка  
 tele fon gi - телефон  
 tele fon lin - телефонная линия  
 tele fon suta - телефония  
@@ -1685,6 +1689,8 @@ uran yum - уран
 
 va - вау!  
 vaf - собака  
+vaf bude - конура (собачья будка)  
+vaf parke - псарня  
 vafle - вафля  
 vagina - влагалище (вагина)  
 vagina tis - вагинит  

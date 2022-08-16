@@ -566,6 +566,7 @@ Buda - Buddha
 Buda din - buddhalaisuus (buddhismi)  
 Buda din ja - buddhalainen  
 Budapexte - Budapest  
+bude - koppi (koju)  
 budi - ymmärrys (taju, oivallus)  
 budi di - valaistunut  
 bufete - noutopöytä (buffetti)  
@@ -1620,6 +1621,7 @@ gule - ghouli
 guma - rumpu  
 gun - armeija (sotajoukko)  
 gun jen - sotilas  
+gun jen kan - kasarmi  
 gun raja - sotaherra (generalissimo)  
 gun raja dexa - sotaherran maa  
 guru - guru (opettaja)  
@@ -1952,7 +1954,6 @@ jul - joule (J)
 jun - nuori  
 jun fem - tyttö (nuori neito)  
 jun jen - nuorukainen  
-junjen - nuorukainen  
 jun man - poika (nuori mies)  
 junnen - nuoruusvuodet  
 junta - nuoruus  
@@ -1968,7 +1969,6 @@ juxa - ruiske (injektio)
 ka - kuin (verrattuna)  
 kababu - grillata (kärventää)  
 kababu nama - kebab (grilliliha)  
-kabin - koppi (maja)  
 Kabu Verde - Cabo Verde  
 kadim yum - kadmium  
 kafe - kahvi  
@@ -3606,6 +3606,7 @@ tela - kangas
 tela gi - kutomakone (kangaspuut)  
 tele - etäisyys (kaukaisuus)  
 tele di - kaukainen  
+tele fon bude - puhelinkoppi  
 tele fon gi - puhelin  
 tele fon lin - puhelinjohto  
 tele fon nume - puhelinnumero  
@@ -3796,6 +3797,8 @@ uze ja nam - käyttäjänimi
 
 va - oho (vau)  
 vaf - koira  
+vaf bude - koirankoppi  
+vaf parke - koiratarha (kennel)  
 vafle - vohveli  
 vagina - emätin (vagina)  
 vagina tis - emätintulehdus  

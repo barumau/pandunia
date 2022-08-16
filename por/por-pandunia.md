@@ -229,6 +229,8 @@ búzio - kauri
 
 cabelo - sar kexa  
 cabeça - sar  
+cabine - bude  
+cabine telefônica - tele fon bude  
 cacto - katus  
 cadeado - pende sor  
 cadeira de balanço - roke kursi  
@@ -258,6 +260,7 @@ caneta de tinta permanente - fonte kalam
 canguru - kangaru  
 canhão (ravina, barranco) - kanyon  
 canhǎo - dai pau  
+canil - vaf parke  
 canoa - kano  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canção de ninar - lala gani  
@@ -291,6 +294,7 @@ carvalho-roble - europa baluta
 casa (lar) - dom  
 casca (concha) - kaska  
 cascalho - grave  
+casinha de cachorro - vaf bude  
 castanho (marrom) - kafe rang  
 cavar (escavar) - kava  
 caçar - fa saide  
@@ -1303,6 +1307,7 @@ quadrinhos (banda desenhada) - grafi kata
 quando - ke sata  
 quarta-feira - den tri  
 quarteirão - mahala  
+quartel - gun jen kan  
 quarto (dormitório) - sona kamar  
 quartzo - kuarze  
 quatro (4) - nelu  
@@ -1323,6 +1328,7 @@ quilate - kirate
 quimono - kimono  
 quincã (cunquate) - gingam  
 quinta-feira - den nelu  
+quisque (pavilhão) - kioske  
 quivi - kivi  
 química - kimi logi  
 

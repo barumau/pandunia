@@ -189,6 +189,7 @@
 **bu!** *bu!* ← eng:boo, fra:bouh, por:spa:bu, rus:бу (bu), kor:부 (bu)  
 **buca** *carnear (matar)* ← eng:butcher, fra:boucher, ita:beccaio, hin:बूचड़ (būcaṛ) + kor:푸주한 (pujuhan)  
 **bucakan** *matadero* ← fas: سلاخ خانه‎ (sallâx-xâne), hin:बूचड़खाना (būcaṛkhānā), ben:কসাইখানা (kôśaikhana)  
+**bude** *cabina (garita)* ← deu:Bude, eng:booth, rus:будка (budka), hin:बूथ (būth), ben:বুথ (buth), jpn:ブース (būsu), kor:부스 (buseu), vie:bốt  
 **budi** *comprensión (entendimiento)* ← san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), tha:โพธิ (potí)  
 **bufete** *bufé* ← fra:buffet, eng:buffet, spa:bufé, por:bufete, deu:Büfett, rus:буфет (bufet), zho:部飛 (bùfēi), jpn:ビュッフェ (byuffe), kor:뷔페 (bwipe), may:bufet, swa:bufee  
 **bujete** *presupuesto* ← eng:fra:budget, deu:Budget, rus:бюджет (b’udzhet), tur:bütçe, hin:बजट (bajaṭ), ben:বাজেট (bajeṭ), may:bajet, jpn:バジェット (bajetto)  
@@ -651,7 +652,6 @@
 **juxa** *inyección* ← zho:注射 (zhùshè), kor:주사 (jusa), jpn:注射 (chusha)  
 **ka** *que (como, en comparación con)* ← spa:por:fra:que, swa:kumliko, suo:kuin, lao:ກວ່າ (kuā), tgl:kaysa  
 **kababu** *asar* ← ara:fas:urd:  كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu  
-**kabin** *cabaña* ← eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)  
 **kable** *cable* ← eng:spa:cable, por:cabo fra:câble, rus:кабель (kabel'), jpn:ケーブル (kēburu), kor:까벨 (kkabel), may:kabel, tur:kablo + ara:حَبْل‎ (ḥabl)  
 **kaboga** *calabaza* ← tur:kabak, swa:boga, jpn:カボチャ (kabocha)  
 **kadim yum** *cadmio* ← eng:cadmium, fra:cadmium, spa:cadmio, por:cádmio, rus:кадмий, zho:镉 (gé), jpn:カドミウム, kor:카드뮴, vie:catmi, hin:काडमियम, ben:ক্যাডমিয়াম, may:kadmium, swa:kadimi, ara: كادميوم  
@@ -739,7 +739,7 @@
 **kinar** *frontera (límite, borde, periferia)* ← hin:किनारा (kinārā), ben:কিনারা (kinara), tur:kenar, fas: کنار‎ (kenâr)  
 **kino di** *cinético* ← eng:kinetic, spa:por:cinético, fra:cinétique, deu:kinetisch, rus:кинетический (kineticheskyy)  
 **kio** *puente* ← zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jío), jpn:橋 (kyō), kor:교 (...gyo), vie:cầu  
-**kioske** *quiosco (kiosco)* ← fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)  
+**kioske** *quiosco (kiosco, pabellón)* ← fas:کوشک‎ (kôšk), tur:köşk; kiosk, eng:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)  
 **kira** *alquiler (arriendo)* ← ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler  
 **kirate** *quilate* ← ara: قِيرَاط‎ (qīrāṭ), eng:fra:carat, spa:por:quilate, rus:карат (karat), zho:克拉 (kèlā), jpn:カラット (karatto), kor:캐럿 (kaereot), may:karat, swa:karati, tur:kırat  
 **kisma** *destino* ← ara: قِسْمَة‎ (qisma), hin:क़िस्मत (qismat), ben:কিসমত (kiśmôt), eng:kismet, rus:кисмет (kismet), tur:kısmet  

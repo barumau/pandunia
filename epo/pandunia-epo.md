@@ -800,6 +800,7 @@ gul - gluti
 guma - tamburo  
 gun - armeo  
 gun jen - soldato  
+gun jen kan - soldatejo (kazerno)  
 gun raja - ĉefgeneralo  
 guru - guruo (instruisto)  
 guste - gusto  
@@ -985,7 +986,6 @@ jul - ĵulo (J)
 jun - juna  
 jun fem - knabino  
 jun jen - junulo  
-junjen - junulo  
 jun man - knabo  
 junnen - juneco  
 junta - juneco  
@@ -1923,6 +1923,8 @@ uze - uzi
 
 va - ŭaŭ!  
 vaf - hundo  
+vaf bude - hundujo  
+vaf parke - hundejo  
 vafle - vaflo  
 vagina - vagino  
 vagina tis - vaginito  

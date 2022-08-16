@@ -225,6 +225,7 @@ bubu - 魔鬼
 buca ja - 屠夫  
 bucakan - 屠宰场  
 Buda - 佛陀  
+bude - 亭  
 bufete - 自助餐  
 buku - 书  
 bulbul - 夜莺  
@@ -560,6 +561,7 @@ gui papi - 鬼罂粟 (東方罌粟)
 guku hua - 菊花  
 gun - 军队  
 gun jen - 军人  
+gun jen kan - 营房  
 gun raja - 大元帅  
 guta - 膝  
 guta kaska oste - 膝盖骨  
@@ -701,7 +703,7 @@ jui note - 警告
 jul - 焦耳 (J)  
 jumla - 句子  
 jun - 年轻  
-junjen - 年轻人  
+jun jen - 年轻人  
 junnen - 青年  
 Jupiter - 木星  
 jus - 汁  
@@ -1414,6 +1416,7 @@ tehni logi - 工艺学
 tehni yum - 锝  
 tela - 布料  
 tela gi - 织机  
+tele fon bude - 电话亭  
 tele fon gi - 电话机  
 tele fon lin - 电话线  
 tele vide gi - 电视机  
@@ -1485,6 +1488,7 @@ uran yum - 铀
 
 va - 哇  
 vaf - 狗  
+vaf bude - 狗屋  
 vafle - 窝夫  
 vagina - 阴道  
 vai - 外  

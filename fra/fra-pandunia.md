@@ -310,6 +310,8 @@ bûche - moka tana
 
 ## C  
 
+cabine - bude  
+cabine téléphonique - tele fon bude  
 cacher - fa sir  
 cachet de la poste - posta marke  
 cactus - katus  
@@ -364,6 +366,7 @@ carte - karte
 carte de crédit - kredikarte  
 carte à collectionner - jami karte  
 cartographie - karta grafi  
+caserne - gun jen kan  
 cauri - kauri  
 ce...ci - yi  
 ce...lá - vo  
@@ -403,6 +406,7 @@ chauve-souris - fei muxu
 chaux - kalsi mate  
 chef - xefe  
 chemise - kamisa  
+chenil - vaf parke  
 cher - ama di  
 chercher - soki  
 cheveux - sar kexa  
@@ -1167,6 +1171,7 @@ neptunium - neputun yum
 neuf (9) - tisa  
 neurone - nerve selu  
 neurotoxine - nerve toxi  
+niche (de chien) - vaf bude  
 niche - nix  
 nickel - nikel  
 nid - nide  
@@ -1310,6 +1315,7 @@ pathologie - pati logi
 patient - pati jen  
 patrie - dom dexa  
 pause - pauza  
+pavillon - kioske  
 pavot d'Orient - gui papi  
 pavot somnifère - sona papi  
 pavé - gola seku  

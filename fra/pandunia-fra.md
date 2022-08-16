@@ -332,6 +332,7 @@ buca - abattre
 buca ja - boucher  
 bucakan - abattoir  
 Buda - Bouddha  
+bude - cabine  
 buku - livre  
 bulbul - rossignol  
 bum - explosion  
@@ -744,6 +745,7 @@ gui papi - pavot d'Orient
 gule - goule  
 gun - armée  
 gun jen - soldat  
+gun jen kan - caserne  
 gun raja - généralissime  
 guta - genou  
 guta kaska oste - rotule  
@@ -1002,6 +1004,7 @@ kimono - kimono
 kinar - bord  
 Kinxasa - Kinshasa  
 kio - pont  
+kioske - pavillon  
 kirate - carat  
 kisma - destin  
 kitabu - écrire  
@@ -1710,6 +1713,7 @@ tehni logi - technologie
 tehni yum - technétium  
 tela - tissu  
 tela gi - métier à tisser  
+tele fon bude - cabine téléphonique  
 tele fon gi - téléphone  
 tele fon lin - ligne téléphonique  
 tele vide gi - téléviseur  
@@ -1797,6 +1801,8 @@ uran yum - uranium
 
 va - ouah  
 vaf - chien  
+vaf bude - niche (de chien)  
+vaf parke - chenil  
 vafle - gaufre  
 vagina - vagine  
 vagina tis - vaginite  

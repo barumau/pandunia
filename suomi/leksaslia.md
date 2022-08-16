@@ -189,6 +189,7 @@
 **bu!** *pöö!* ← englanti:boo, ranska:bouh, portugali:espanja:bu, venäjä:бу (bu), korea:부 (bu)  
 **buca** *teurastaa (lahdata)* ← englanti:butcher, ranska:boucher, italia:beccaio, hindi:बूचड़ (būcaṛ) + korea:푸주한 (pujuhan)  
 **bucakan** *teurastamo* ← persia: سلاخ خانه‎ (sallâx-xâne), hindi:बूचड़खाना (būcaṛkhānā), bangla:কসাইখানা (kôśaikhana)  
+**bude** *koppi (koju)* ← deu:Bude, englanti:booth, venäjä:будка (budka), hindi:बूथ (būth), bangla:বুথ (buth), japani:ブース (būsu), korea:부스 (buseu), vietnami:bốt  
 **budi** *ymmärrys (taju, oivallus)* ← sanskriitti:बोधि (bodhi), hindi:बुद्धि (buddhi), japani:菩提 (bodai), yleiskiina:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), thai:โพธิ (potí)  
 **bufete** *noutopöytä (buffetti)* ← ranska:buffet, englanti:buffet, espanja:bufé, portugali:bufete, deu:Büfett, venäjä:буфет (bufet), yleiskiina:部飛 (bùfēi), japani:ビュッフェ (byuffe), korea:뷔페 (bwipe), malaiji:bufet, suahili:bufee  
 **bujete** *budjetti* ← englanti:ranska:budget, deu:Budget, venäjä:бюджет (b’udzhet), turkki:bütçe, hindi:बजट (bajaṭ), bangla:বাজেট (bajeṭ), malaiji:bajet, japani:バジェット (bajetto)  
@@ -651,7 +652,6 @@
 **juxa** *ruiske (injektio)* ← yleiskiina:注射 (zhùshè), korea:주사 (jusa), japani:注射 (chusha)  
 **ka** *kuin (verrattuna)* ← espanja:portugali:ranska:que, suahili:kumliko, suo:kuin, lao:ກວ່າ (kuā), filippiini:kaysa  
 **kababu** *grillata (kärventää)* ← arabia:persia:urdu:  كباب (kabāb), turkki:malaiji:englanti:espanja:kebab, venäjä:кебаб (kebab), hindi:कबाब (kabāb), bangla:কাবাব (kabab), suahili:kababu  
-**kabin** *koppi (maja)* ← englanti:cabin, espanja:cabaña, portugali:cabana, ranska:cabane, bangla:কেবিন (kebin)  
 **kable** ** ← englanti:espanja:cable, portugali:cabo ranska:câble, venäjä:кабель (kabel'), japani:ケーブル (kēburu), korea:까벨 (kkabel), malaiji:kabel, turkki:kablo + arabia:حَبْل‎ (ḥabl)  
 **kaboga** ** ← turkki:kabak, suahili:boga, japani:カボチャ (kabocha)  
 **kadim yum** *kadmium* ← englanti:cadmium, ranska:cadmium, espanja:cadmio, portugali:cádmio, venäjä:кадмий, yleiskiina:镉 (gé), japani:カドミウム, korea:카드뮴, vietnami:catmi, hindi:काडमियम, bangla:ক্যাডমিয়াম, malaiji:kadmium, suahili:kadimi, arabia: كادميوم  
@@ -739,7 +739,7 @@
 **kinar** *reuna (raja, ääri)* ← hindi:किनारा (kinārā), bangla:কিনারা (kinara), turkki:kenar, persia: کنار‎ (kenâr)  
 **kino di** *kineettinen (liike-)* ← englanti:kinetic, espanja:portugali:cinético, ranska:cinétique, deu:kinetisch, venäjä:кинетический (kineticheskyy)  
 **kio** *silta* ← yleiskiina:桥 (qiáo), kantoninkiina:橋 (kiu4), wu-kiina:橋 (jío), japani:橋 (kyō), korea:교 (...gyo), vietnami:cầu  
-**kioske** *kioski* ← persia:کوشک‎ (kôšk), englanti:turkki:kiosk, espanja:quiosco, portugali:quiosque, venäjä:киоск (kiosk), hindi:कीओस्क (kīosk), malaiji:kios, japani:キオスク (kiosuku)  
+**kioske** *kioski* ← persia:کوشک‎ (kôšk), turkki:köşk; kiosk, englanti:kiosk, espanja:quiosco, portugali:quiosque, venäjä:киоск (kiosk), hindi:कीओस्क (kīosk), malaiji:kios, japani:キオスク (kiosuku)  
 **kira** *vuokra* ← arabia:(kirāʾ), turkki:kira, hindi:किराया (kirāyā), urdu:(kirāyā), persia:(kerāya), espanja:alquiler  
 **kirate** *karaatti* ← arabia: قِيرَاط‎ (qīrāṭ), englanti:ranska:carat, espanja:portugali:quilate, venäjä:карат (karat), yleiskiina:克拉 (kèlā), japani:カラット (karatto), korea:캐럿 (kaereot), malaiji:karat, suahili:karati, turkki:kırat  
 **kisma** *kohtalo (määrä)* ← arabia: قِسْمَة‎ (qisma), hindi:क़िस्मत (qismat), bangla:কিসমত (kiśmôt), englanti:kismet, venäjä:кисмет (kismet), turkki:kısmet  

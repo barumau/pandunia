@@ -542,6 +542,7 @@ Buda|Buda||||Buddha|Bouddha|Buda|Buda|Будда||佛陀|仏陀|부처 (불타)|
 Buda.din|Buda din||||Buddhism||budismo||||||||बौद्ध धर्म|||||budhismo|buddhalaisuus (buddhismi)|Buddyzm
 Buda.din.ja|Buda din ja||||Buddhist||budista|||||||||||||budhisto|buddhalainen|buddysta
 Budapexte|Budapexte|xefsite|HU||Budapest||||||||||||||||Budapest|
+bude|bude|||deu:Bude, eng:booth, rus:будка (budka), hin:बूथ (būth), ben:বুথ (buth), jpn:ブース (būsu), kor:부스 (buseu), vie:bốt|booth (cabin, stall, stand)|cabine|cabina (garita)|cabine|будка (кабина)||亭|ブース|부스||बूथ|বুথ|||||koppi (koju)|budka (kabina)
 budi|budi|||san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), tha:โพธิ (potí)|realization (awareness, enlightenment, bodhi)||comprensión (entendimiento)|||||||||||||kompreno|ymmärrys (taju, oivallus)|uświadomienie, świadomość; oświecenie, bodhi
 budi.di|budi di||||aware (enlightened)||concienciado (iluminado)|||||||||||||konscia|valaistunut|świadomy; oświecony
 bufete|bufete|||fra:buffet, eng:buffet, spa:bufé, por:bufete, deu:Büfett, rus:буфет (bufet), zho:部飛 (bùfēi), jpn:ビュッフェ (byuffe), kor:뷔페 (bwipe), may:bufet, swa:bufee|buffet (smorgasbord)||bufé||буфет||自助餐|ビュッフェ (バイキング)|||||||||noutopöytä (buffetti)|bufet (szwedzki stół)
@@ -1658,6 +1659,7 @@ gule|gule|||ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul
 guma|guma|||swa:ngoma, rwa:ingoma + zho:鼓 (gǔ)|drum||tambor|||||||||||||tamburo|rumpu|bęben
 gun|gun|||zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|army|armée|ejército|exército|армия||军队||||सेना||angkatan perang||ordu|armeo|armeija (sotajoukko)|armia
 gun.jen|gun jen||||soldier|soldat|soldado|soldado|солдат||军人|軍人|군인|quân nhân|सैनिक||||asker|soldato|sotilas|żołnierz
+gun.jen.kan|gun jen kan||||barracks|caserne|cuartel (barraca)|quartel|казарма (барак)||营房|兵舎 (バラック)|병사 (바라크)|doanh trại|छावनी||berek||baraka (kışla)|soldatejo (kazerno)|kasarmi|koszary
 gun.raja|gun raja||||generalissimo (shogun)|généralissime|generalísimo (sogún)|generalíssimo|генералиссимус||大元帅|総統 (将軍 )||||||||ĉefgeneralo|sotaherra (generalissimo)|szogun
 gun.raja.dexa|gun raja dexa||||shogunate||shogunato||||||||||||||sotaherran maa|szogunat
 guru|guru|||hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|guru (teacher, sage)||maestro (gurú, sabio, profesor)|||||尊師 (グル, 先生)||||||||guruo (instruisto)|guru (opettaja)|guru, mistrz
@@ -2007,8 +2009,7 @@ jul|jul|unomete|J||joule (J)|joule (J)|joule (J)|joule (J)|джоуль (J)||焦
 jumla|jumla|||ara:(jumla), tur:cümle, hin:जुमला (jumlā), zho:句 (jù)|sentence (phrase)||oración||фраза||句子|||||||||||zdanie (fraza)
 jun|jun|||fra:jeune, spa:joven, por:jovem, fas: جوان‎ (javân), hin:जवान (javān) + kor:젊다 (jeomda)|young (youthful)|jeune|joven|jovem|юный||年轻||젊다||जवान (युवा)|||||juna|nuori|młody
 jun.fem|jun fem||||girl||niña|||||女の子||||||||knabino|tyttö (nuori neito)|dziewczyna
-jun.jen|jun jen||||youth (young person)||joven|||||青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
-jun.jen|junjen||||youth (youngster, young person)||joven||юнец||年轻人|青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
+jun.jen|jun jen||||youth (youngster, young person)||joven||юнец||年轻人|青少年||||||||junulo|nuorukainen|młodzież, młoda osoba
 jun.man|jun man||||boy||niño|||||男の子||||||||knabo|poika (nuori mies)|chłopak
 jun.moka|jun moka||||sapling|pousse|pimpollo||саженец|||若木||||||||||młode drzewo
 jun.nen|junnen||||youth (years in life following childhood)|jeunesse|juventud||||青年|青春時代||||||||juneco|nuoruusvuodet|młodość
@@ -2024,7 +2025,6 @@ K|K||||K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K|K
 ka|ka|prep.||spa:por:fra:que, swa:kumliko, suo:kuin, lao:ກວ່າ (kuā), tgl:kaysa|than (as, compared to, relative to)|que (comme)|que (como, en comparación con)|que (como)|чем||比|より (に比べ)||hơn|||daripada|kuliko|göre|ol (kiel)|kuin (verrattuna)|jak, niż, od
 kababu|kababu|||ara:fas:urd:  كباب (kabāb), tur:may:eng:spa:kebab, rus:кебаб (kebab), hin:कबाब (kabāb), ben:কাবাব (kabab), swa:kababu|barbecue (grill)||asar||||||||||||||grillata (kärventää)|grillować
 kababu.nama|kababu nama||||grilled meat (kebab)||||кебаб|كباب|||||कबाब|কাবাব|||kebap||kebab (grilliliha)|kebab
-kabin|kabin|||eng:cabin, spa:cabaña, por:cabana, fra:cabane, ben:কেবিন (kebin)|cabin (booth)||cabaña||||||||||||||koppi (maja)|kabina, budka
 kable|kable|||eng:spa:cable, por:cabo fra:câble, rus:кабель (kabel'), jpn:ケーブル (kēburu), kor:까벨 (kkabel), may:kabel, tur:kablo + ara:حَبْل‎ (ḥabl)|rope (cable)|corde|cable|corda (cabo)|верёвка (канат)|حبل|绳子|縄 (綱)|||रस्सी||tali|kamba (ugwe)|halat|||
 kaboga|kaboga|bio|Cucurbita|tur:kabak, swa:boga, jpn:カボチャ (kabocha)|squash (pumpkin, gourd)|citrouille|calabaza|abóbora (jerimun)|тыква||南瓜|カボチャ||||||||||kabaczek (dynia, tykwa)
 Kabu.Verde|Kabu Verde|dexa|CV||Cabo Verde (Cape Verde)||Cabo Verde||||||||||||||Cabo Verde|Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)
@@ -2224,7 +2224,7 @@ kino.grafi.kan|kino grafikan||||movie theatre||||||||||||||||elokuvateatteri|
 Kinxasa|Kinxasa|xefsite|CD||Kinshasa|Kinshasa|||||||||||||||Kinshasa|
 Kinxasa.Kongo|Kinxasa Kongo|dexa|CD||Congo Kinshasa||República Democrática del Congo||||||||||||||Kinshasan Kongo|Demokratyczna Republika Konga
 kio|kio|||zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jío), jpn:橋 (kyō), kor:교 (...gyo), vie:cầu|bridge|pont|puente|ponte|||桥|橋 (橋梁)||||||||ponto|silta|most
-kioske|kioske|||fas:کوشک‎ (kôšk), tur:köşk; kiosk, eng:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|kiosk (pavilion)|pavillon|quiosco (kiosco, pabellón)|quisque (pavilhão)|киоск (павильон)||||||||||||kioski (paviljonki)|kiosk
+kioske|kioske|||fas:کوشک‎ (kôšk), tur:köşk; kiosk, eng:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|kiosk (pavilion)|pavillon|quiosco (kiosco, pabellón)|quisque (pavilhão)|киоск (павильон)||||||||||||kioski|kiosk
 Kipris|Kipris|dexa|CY||Cyprus||Chipre||||||||||||||Kypros|Cypr
 kira|kira|||ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|carat||alquiler (arriendo)||аренда|||賃貸|||||||||vuokra|wynająć, wynajmować, zatrudnić, zatrudniać
 kira.da|kira da||||rent out (let, lease)||alquilar (arrendar, dar en arriendo)||||||||||||||vuokrata|wynająć, oddać w najem
@@ -3939,6 +3939,7 @@ tela|tela|||spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tau
 tela.gi|tela gi|||rus:ткать (tkat’) + may:duk + tur:doku|loom|métier à tisser|telar|tear|ткацкий станок||织机|織機|직기|khung cửi|||||dokuma tezgahı||kutomakone (kangaspuut)|krosno
 tele|tele|||eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|distance (far away)||lo lejos|||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
 tele.di|tele di||||far||lejano (lejos)|||||||||||||malproksima|kaukainen|daleki, odległy
+tele.fon.bude|tele fon bude||||telephone booth|cabine téléphonique|cabina telefónica|cabine telefônica|телефонная будка||电话亭|電話ボックス|||||||telefon kulübesi||puhelinkoppi|
 tele.fon.gi|tele fon gi||||telephone|téléphone|telefono||телефон|تِلِفُون|电话机|電話|전화||दूरभाष (टेलीफ़ोन)|দূরভাষা (টেলিফোন)|telepon|simu|telefon|telefono|puhelin|telefon
 tele.fon.lin|tele fon lin||||telephone line|ligne téléphonique|||телефонная линия||电话线||||||||||puhelinjohto|
 tele.fon.nume|tele fon nume||||telephone number||||||||||||||||puhelinnumero|
@@ -4138,6 +4139,8 @@ uze.ja.nam|uze ja nam||||username||nombre de usuario||||||||||||||käyttäjänim
 V|V||||V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V|V
 va|va|||eng:wow, fra:ouah, zho:哇 (wā), jpn:わあ (wā), kor:와 (wa), hin:वाह (vāh), may:wah|wow! (gee!)|ouah|guau (vaya)|uau|вау!||哇|わあ|와||वाह||wah|||ŭaŭ!|oho (vau)|wow!, łoł!, jej!
 vaf|vaf|bio||eng:woof, fra:ouaf, rus:гав (gav), tur:hav, zho:汪 (wāng), jpn:ワン (wan)|dog|chien|perro|cão (cachorro)|собака|كَلْب‎|狗|犬 (狗)|개|chó|कुत्ता|কুকুর|anjing (asu)|mbwa|köpek|hundo|koira|pies
+vaf.bude|vaf bude||||doghouse (dog shelter)|niche (de chien)|perrera|casinha de cachorro|конура (собачья будка)|بَيْت اَلْكَلْب‎|狗屋|犬小屋|개집||||rumah anjing||köpek kulübesi|hundujo|koirankoppi|
+vaf.parke|vaf parke||||kennel (facility)|chenil||canil|псарня|||||||||||hundejo|koiratarha (kennel)|
 vafle|vafle|yam||eng:waffle, deu:Waffel, rus:вафля (vaflya), zho:窝夫 (wōfū), jpn:ワッフル (waffuru), kor:와플 (wapeul)|waffle|gaufre|gofre|waffle|вафля||窝夫|ワッフル|와플|||||||vaflo|vohveli|
 vagina|vagina|||eng:fra:vagina, por:spa:vagina, rus:вагина (vagina), jpn:ワギナ (wagina), kor:바기나 (bagina), tur:vajina, may:vagina|vagina|vagine|vagina|vagina|влагалище (вагина)||阴道|膣 (ワギナ)|보지 (바기나)|âm đạo|योनि|যোনি|vagina|kuma|vajina (am)|vagino|emätin (vagina)|wagina
 vagina.tis|vagina tis||||vaginitis|vaginite|vaginitis|vaginite|вагинит|||||||||||vaginito|emätintulehdus|zapalenie pochwy

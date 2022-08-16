@@ -485,6 +485,7 @@ bucakan - matadero
 Buda - Buda  
 Buda din - budismo  
 Buda din ja - budista  
+bude - cabina (garita)  
 budi - comprensión (entendimiento)  
 budi di - concienciado (iluminado)  
 bufete - bufé  
@@ -1465,6 +1466,7 @@ gule - gul
 guma - tambor  
 gun - ejército  
 gun jen - soldado  
+gun jen kan - cuartel (barraca)  
 gun raja - generalísimo (sogún)  
 gun raja dexa - shogunato  
 guru - maestro (gurú, sabio, profesor)  
@@ -1782,7 +1784,6 @@ jumla - oración
 jun - joven  
 jun fem - niña  
 jun jen - joven  
-junjen - joven  
 jun man - niño  
 jun moka - pimpollo  
 junnen - juventud  
@@ -1799,7 +1800,6 @@ juxa - inyección
 
 ka - que (como, en comparación con)  
 kababu - asar  
-kabin - cabaña  
 kable - cable  
 kaboga - calabaza  
 Kabu Verde - Cabo Verde  
@@ -1973,7 +1973,7 @@ kino di - cinético
 kino grafi - película (filme)  
 Kinxasa Kongo - República Democrática del Congo  
 kio - puente  
-kioske - quiosco (kiosco)  
+kioske - quiosco (kiosco, pabellón)  
 Kipris - Chipre  
 kira - alquiler (arriendo)  
 kira da - alquilar (arrendar, dar en arriendo)  
@@ -3527,6 +3527,7 @@ tela - tela (paño, tejido)
 tela gi - telar  
 tele - lo lejos  
 tele di - lejano (lejos)  
+tele fon bude - cabina telefónica  
 tele fon gi - telefono  
 tele fon suta - telefonía  
 teleta - distancia  
@@ -3702,6 +3703,7 @@ uze ja nam - nombre de usuario
 
 va - guau (vaya)  
 vaf - perro  
+vaf bude - perrera  
 vafle - gofre  
 vagina - vagina  
 vagina tis - vaginitis  

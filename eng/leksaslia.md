@@ -189,6 +189,7 @@
 **bu!** *boo!* ← English:boo, French:bouh, Portuguese:Spanish:bu, Russian:бу (bu), Korean:부 (bu)  
 **buca** *butcher* ← English:butcher, French:boucher, Italian:beccaio, Hindi:बूचड़ (būcaṛ) + Korean:푸주한 (pujuhan)  
 **bucakan** *abattoir (slaughterhouse)* ← Persian: سلاخ خانه‎ (sallâx-xâne), Hindi:बूचड़खाना (būcaṛkhānā), Bengali:কসাইখানা (kôśaikhana)  
+**bude** *booth (cabin, stall, stand)* ← deu:Bude, English:booth, Russian:будка (budka), Hindi:बूथ (būth), Bengali:বুথ (buth), Japanese:ブース (būsu), Korean:부스 (buseu), Vietnamese:bốt  
 **budi** *realization (awareness, enlightenment, bodhi)* ← Sanskrit:बोधि (bodhi), Hindi:बुद्धि (buddhi), Japanese:菩提 (bodai), Mandarin:菩提 (pútí), mon:бодь (bodʹ), Korean:보리 (bori), Thai:โพธิ (potí)  
 **bufete** *buffet (smorgasbord)* ← French:buffet, English:buffet, Spanish:bufé, Portuguese:bufete, deu:Büfett, Russian:буфет (bufet), Mandarin:部飛 (bùfēi), Japanese:ビュッフェ (byuffe), Korean:뷔페 (bwipe), Malay:bufet, Swahili:bufee  
 **bujete** *budget* ← English:French:budget, deu:Budget, Russian:бюджет (b’udzhet), Turkish:bütçe, Hindi:बजट (bajaṭ), Bengali:বাজেট (bajeṭ), Malay:bajet, Japanese:バジェット (bajetto)  
@@ -651,7 +652,6 @@
 **juxa** *injection* ← Mandarin:注射 (zhùshè), Korean:주사 (jusa), Japanese:注射 (chusha)  
 **ka** *than (as, compared to, relative to)* ← Spanish:Portuguese:French:que, Swahili:kumliko, suo:kuin, lao:ກວ່າ (kuā), Filipino:kaysa  
 **kababu** *barbecue (grill)* ← Arabic:Persian:Urdu:  كباب (kabāb), Turkish:Malay:English:Spanish:kebab, Russian:кебаб (kebab), Hindi:कबाब (kabāb), Bengali:কাবাব (kabab), Swahili:kababu  
-**kabin** *cabin (booth)* ← English:cabin, Spanish:cabaña, Portuguese:cabana, French:cabane, Bengali:কেবিন (kebin)  
 **kable** *rope (cable)* ← English:Spanish:cable, Portuguese:cabo French:câble, Russian:кабель (kabel'), Japanese:ケーブル (kēburu), Korean:까벨 (kkabel), Malay:kabel, Turkish:kablo + Arabic:حَبْل‎ (ḥabl)  
 **kaboga** *squash (pumpkin, gourd)* ← Turkish:kabak, Swahili:boga, Japanese:カボチャ (kabocha)  
 **kadim yum** *cadmium* ← English:cadmium, French:cadmium, Spanish:cadmio, Portuguese:cádmio, Russian:кадмий, Mandarin:镉 (gé), Japanese:カドミウム, Korean:카드뮴, Vietnamese:catmi, Hindi:काडमियम, Bengali:ক্যাডমিয়াম, Malay:kadmium, Swahili:kadimi, Arabic: كادميوم  
@@ -739,7 +739,7 @@
 **kinar** *border (edge, fringe, margin, rim, side, shore, periphery)* ← Hindi:किनारा (kinārā), Bengali:কিনারা (kinara), Turkish:kenar, Persian: کنار‎ (kenâr)  
 **kino di** *kinetic* ← English:kinetic, Spanish:Portuguese:cinético, French:cinétique, deu:kinetisch, Russian:кинетический (kineticheskyy)  
 **kio** *bridge* ← Mandarin:桥 (qiáo), Cantonese:橋 (kiu4), Wu-Chinese:橋 (jío), Japanese:橋 (kyō), Korean:교 (...gyo), Vietnamese:cầu  
-**kioske** *kiosk* ← Persian:کوشک‎ (kôšk), English:Turkish:kiosk, Spanish:quiosco, Portuguese:quiosque, Russian:киоск (kiosk), Hindi:कीओस्क (kīosk), Malay:kios, Japanese:キオスク (kiosuku)  
+**kioske** *kiosk (pavilion)* ← Persian:کوشک‎ (kôšk), Turkish:köşk; kiosk, English:kiosk, Spanish:quiosco, Portuguese:quiosque, Russian:киоск (kiosk), Hindi:कीओस्क (kīosk), Malay:kios, Japanese:キオスク (kiosuku)  
 **kira** *carat* ← Arabic:(kirāʾ), Turkish:kira, Hindi:किराया (kirāyā), Urdu:(kirāyā), Persian:(kerāya), Spanish:alquiler  
 **kirate** *carat* ← Arabic: قِيرَاط‎ (qīrāṭ), English:French:carat, Spanish:Portuguese:quilate, Russian:карат (karat), Mandarin:克拉 (kèlā), Japanese:カラット (karatto), Korean:캐럿 (kaereot), Malay:karat, Swahili:karati, Turkish:kırat  
 **kisma** *destiny (fate, lot, kismet)* ← Arabic: قِسْمَة‎ (qisma), Hindi:क़िस्मत (qismat), Bengali:কিসমত (kiśmôt), English:kismet, Russian:кисмет (kismet), Turkish:kısmet  

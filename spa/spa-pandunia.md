@@ -517,9 +517,10 @@ búbalo (arni) - karbau
 ## C  
 
 caballo - uma  
-cabaña - kabin  
 cabello - sar kexa  
 cabeza - sar  
+cabina (garita) - bude  
+cabina telefónica - tele fon bude  
 cable - eletro lin  
 cable - kable  
 Cabo Verde - Kabu Verde  
@@ -972,6 +973,7 @@ crónico - dur di
 cuaderno (libreta) - note buku  
 cuadro - nelu gona  
 cualidad (atributo, descripción) - sifa  
+cuartel (barraca) - gun jen kan  
 cuarzo - kuarze  
 cuatro (4) - nelu  
 Cuba - Kuba  
@@ -2035,7 +2037,6 @@ Jordania - Urdun
 joule (J) - jul  
 joven - jun  
 joven - jun jen  
-joven - junjen  
 judaísmo - yehudi din  
 judío - yehudi  
 juego - geme  
@@ -2897,6 +2898,7 @@ perla - lulu
 permitido (admisible) - halal  
 permitir (dejar) - fa halal  
 pero (sino) - ama  
+perrera - vaf bude  
 perro - vaf  
 persona (ista, -ador) - jen  
 personal (privado, a medida) - jen di  
@@ -3156,7 +3158,7 @@ queso - cize
 queso fresco - panir  
 quilate - kirate  
 quimono - kimono  
-quiosco (kiosco) - kioske  
+quiosco (kiosco, pabellón) - kioske  
 quitar (eliminar, borrar) - fa an zai  
 quitar (pelar) - tire yo pil  
 quitar (remover) - fa for  

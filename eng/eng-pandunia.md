@@ -332,6 +332,7 @@ Barbuda - Barbuda
 barium - bari yum  
 barley - jau  
 barometer - air prese metre gi  
+barracks - gun jen kan  
 barrel (can, cask) - tong  
 barrier (fence) - bara mur  
 base (alkali; alkaline) - kali  
@@ -477,6 +478,7 @@ bonus - bon max xe
 boo! - bu!  
 book - buku  
 boot - buta  
+booth (cabin, stall, stand) - bude  
 border (edge, fringe, margin, rim, side, shore, periphery) - kinar  
 bored - bori di  
 boredom - bori  
@@ -572,7 +574,6 @@ by (at, in, on) - a
 
 ## C  
 
-cabin (booth) - kabin  
 cable (wire, line) - eletro lin  
 Cabo Verde (Cape Verde) - Kabu Verde  
 cactus - katus  
@@ -1143,6 +1144,7 @@ documentary film - dokumen filme
 doer (agent) - fa ja  
 doer (agent, actor, -er, -ist) - ja  
 dog - vaf  
+doghouse (dog shelter) - vaf bude  
 doll (puppet) - pupe  
 dollar - dolar  
 dolphin - dolfin  
@@ -2120,6 +2122,7 @@ kelp - yepa alga
 kelp forest - alga jangal  
 kelvin - kelvin  
 kendo - gem dau  
+kennel (facility) - vaf parke  
 Kenya - Kenya  
 ketchup - kecape  
 kettle - ketel  
@@ -2140,7 +2143,7 @@ king - rajanan
 king or queen - raja  
 kingdom - raja dexa  
 Kinshasa - Kinxasa  
-kiosk - kioske  
+kiosk (pavilion) - kioske  
 Kiribati - Kiribati  
 kiss - cum  
 kitchen - kuke kamar  
@@ -4004,6 +4007,7 @@ technocracy - tehni krati
 technology (study of techniques) - tehni logi  
 tectonic plate - geo kaska plate  
 telephone - tele fon gi  
+telephone booth - tele fon bude  
 telephone line - tele fon lin  
 telephone number - tele fon nume  
 telephony (telephone communication) - tele fon suta  
@@ -4505,8 +4509,7 @@ your - tu su
 your - tumen su  
 youth (years in life following childhood) - junnen  
 youth (young age) - junta  
-youth (young person) - jun jen  
-youth (youngster, young person) - junjen  
+youth (youngster, young person) - jun jen  
 ytterbium - yuterbi yum  
 yttrium - yuter yum  
 

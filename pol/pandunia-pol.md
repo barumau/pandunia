@@ -437,6 +437,7 @@ bu! - bu!
 Buda - Budda  
 Buda din - Buddyzm  
 Buda din ja - buddysta  
+bude - budka (kabina)  
 budi - uświadomienie, świadomość; oświecenie, bodhi  
 budi di - świadomy; oświecony  
 bufete - bufet (szwedzki stół)  
@@ -1324,6 +1325,7 @@ gule - ghul
 guma - bęben  
 gun - armia  
 gun jen - żołnierz  
+gun jen kan - koszary  
 gun raja - szogun  
 gun raja dexa - szogunat  
 guru - guru, mistrz  
@@ -1612,7 +1614,6 @@ jumla - zdanie (fraza)
 jun - młody  
 jun fem - dziewczyna  
 jun jen - młodzież, młoda osoba  
-junjen - młodzież, młoda osoba  
 jun man - chłopak  
 jun moka - młode drzewo  
 junnen - młodość  
@@ -1630,7 +1631,6 @@ juxa - zastrzyk
 ka - jak, niż, od  
 kababu - grillować  
 kababu nama - kebab  
-kabin - kabina, budka  
 kaboga - kabaczek (dynia, tykwa)  
 Kabu Verde - Wyspy Zielonego Przylądka (Republika Zielonego Przylądka)  
 kadim yum - kadm  

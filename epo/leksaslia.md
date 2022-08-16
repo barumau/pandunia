@@ -189,6 +189,7 @@
 **bu!** ** ← angla:boo, franca:bouh, portugala:hispana:bu, rusa:бу (bu), korea:부 (bu)  
 **buca** *buĉi* ← angla:butcher, franca:boucher, itala:beccaio, hindia:बूचड़ (būcaṛ) + korea:푸주한 (pujuhan)  
 **bucakan** *buĉejo* ← persa: سلاخ خانه‎ (sallâx-xâne), hindia:बूचड़खाना (būcaṛkhānā), bengala:কসাইখানা (kôśaikhana)  
+**bude** ** ← deu:Bude, angla:booth, rusa:будка (budka), hindia:बूथ (būth), bengala:বুথ (buth), japana:ブース (būsu), korea:부스 (buseu), vjetnama:bốt  
 **budi** *kompreno* ← sanskrita:बोधि (bodhi), hindia:बुद्धि (buddhi), japana:菩提 (bodai), mandarena:菩提 (pútí), mon:бодь (bodʹ), korea:보리 (bori), taja:โพธิ (potí)  
 **bufete** ** ← franca:buffet, angla:buffet, hispana:bufé, portugala:bufete, deu:Büfett, rusa:буфет (bufet), mandarena:部飛 (bùfēi), japana:ビュッフェ (byuffe), korea:뷔페 (bwipe), malaja:bufet, svahila:bufee  
 **bujete** *buĝeto* ← angla:franca:budget, deu:Budget, rusa:бюджет (b’udzhet), turka:bütçe, hindia:बजट (bajaṭ), bengala:বাজেট (bajeṭ), malaja:bajet, japana:バジェット (bajetto)  
@@ -651,7 +652,6 @@
 **juxa** ** ← mandarena:注射 (zhùshè), korea:주사 (jusa), japana:注射 (chusha)  
 **ka** *ol (kiel)* ← hispana:portugala:franca:que, svahila:kumliko, suo:kuin, lao:ກວ່າ (kuā), filipina:kaysa  
 **kababu** ** ← araba:persa:urdua:  كباب (kabāb), turka:malaja:angla:hispana:kebab, rusa:кебаб (kebab), hindia:कबाब (kabāb), bengala:কাবাব (kabab), svahila:kababu  
-**kabin** ** ← angla:cabin, hispana:cabaña, portugala:cabana, franca:cabane, bengala:কেবিন (kebin)  
 **kable** ** ← angla:hispana:cable, portugala:cabo franca:câble, rusa:кабель (kabel'), japana:ケーブル (kēburu), korea:까벨 (kkabel), malaja:kabel, turka:kablo + araba:حَبْل‎ (ḥabl)  
 **kaboga** ** ← turka:kabak, svahila:boga, japana:カボチャ (kabocha)  
 **kadim yum** *kadmio* ← angla:cadmium, franca:cadmium, hispana:cadmio, portugala:cádmio, rusa:кадмий, mandarena:镉 (gé), japana:カドミウム, korea:카드뮴, vjetnama:catmi, hindia:काडमियम, bengala:ক্যাডমিয়াম, malaja:kadmium, svahila:kadimi, araba: كادميوم  
@@ -739,7 +739,7 @@
 **kinar** *rando (orlo)* ← hindia:किनारा (kinārā), bengala:কিনারা (kinara), turka:kenar, persa: کنار‎ (kenâr)  
 **kino di** ** ← angla:kinetic, hispana:portugala:cinético, franca:cinétique, deu:kinetisch, rusa:кинетический (kineticheskyy)  
 **kio** *ponto* ← mandarena:桥 (qiáo), kantona:橋 (kiu4), vua:橋 (jío), japana:橋 (kyō), korea:교 (...gyo), vjetnama:cầu  
-**kioske** ** ← persa:کوشک‎ (kôšk), angla:turka:kiosk, hispana:quiosco, portugala:quiosque, rusa:киоск (kiosk), hindia:कीओस्क (kīosk), malaja:kios, japana:キオスク (kiosuku)  
+**kioske** ** ← persa:کوشک‎ (kôšk), turka:köşk; kiosk, angla:kiosk, hispana:quiosco, portugala:quiosque, rusa:киоск (kiosk), hindia:कीओस्क (kīosk), malaja:kios, japana:キオスク (kiosuku)  
 **kira** ** ← araba:(kirāʾ), turka:kira, hindia:किराया (kirāyā), urdua:(kirāyā), persa:(kerāya), hispana:alquiler  
 **kirate** ** ← araba: قِيرَاط‎ (qīrāṭ), angla:franca:carat, hispana:portugala:quilate, rusa:карат (karat), mandarena:克拉 (kèlā), japana:カラット (karatto), korea:캐럿 (kaereot), malaja:karat, svahila:karati, turka:kırat  
 **kisma** *sorto (destino)* ← araba: قِسْمَة‎ (qisma), hindia:क़िस्मत (qismat), bengala:কিসমত (kiśmôt), angla:kismet, rusa:кисмет (kismet), turka:kısmet  

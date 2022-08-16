@@ -226,6 +226,7 @@ buca - abater
 buca ja - açougueiro (talhante)  
 bucakan - matadouro  
 Buda - Buda  
+bude - cabine  
 buku - livro  
 bulbul - rouxinol  
 bum - explosão  
@@ -578,6 +579,7 @@ guai - bizarro
 gubu - hipopótamo  
 gun - exército  
 gun jen - soldado  
+gun jen kan - quartel  
 gun raja - generalíssimo  
 guta - joelho  
 guta kaska oste - rótula (patela)  
@@ -821,6 +823,7 @@ kimono - quimono
 kinar - margem (borda)  
 kinar baryer - cerca  
 kio - ponte  
+kioske - quisque (pavilhão)  
 kirate - quilate  
 kisma - destino  
 kitabu - escrevere  
@@ -1477,6 +1480,7 @@ tehni - técnica
 tehni yum - tecnécio  
 tela - fazenda (tecido)  
 tela gi - tear  
+tele fon bude - cabine telefônica  
 tele fon suta - telefonia  
 teleskope - telescópio  
 telu yum - telúrio  
@@ -1547,6 +1551,8 @@ uran yum - urânio
 
 va - uau  
 vaf - cão (cachorro)  
+vaf bude - casinha de cachorro  
+vaf parke - canil  
 vafle - waffle  
 vagina - vagina  
 vagina tis - vaginite  

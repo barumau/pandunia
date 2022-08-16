@@ -1130,6 +1130,7 @@ kartogratia - karta grafi
 kartta - karta  
 kartta - topo metre grafi  
 karvaton - kexa hin  
+kasarmi - gun jen kan  
 kassa - pesa kasa  
 kassanhoitaja - pesa kasa ja  
 kassava (maniokki) - manioka  
@@ -1350,6 +1351,8 @@ kohtelias (kiltti) - keci
 kohti (päin) - verse  
 kohti (päin) - versi  
 koira - vaf  
+koirankoppi - vaf bude  
+koiratarha (kennel) - vaf parke  
 koivu - betula  
 kokata (laittaa ruokaa) - kuke  
 kokki - kuke ja  
@@ -1396,7 +1399,7 @@ koota (kerätä) - fa jama
 kopio (jäljennös) - kopi  
 kopioida (jäljentää) - fa kopi  
 kopiointioikeus (tekijänoikeus) - kopi haki  
-koppi (maja) - kabin  
+koppi (koju) - bude  
 koraani - kuran  
 koralli - koral  
 Korea - cosen  
@@ -2250,7 +2253,6 @@ nuolentekijä - flece ja
 nuoli - flece  
 nuori - jun  
 nuorukainen - jun jen  
-nuorukainen - junjen  
 nuoruus - junta  
 nuoruusvuodet - junnen  
 nurmikko (ruohikko) - cau medan  
@@ -2679,6 +2681,7 @@ puhe (sanat) - loga
 puhelias - loga tabi di  
 puhelin - tele fon gi  
 puhelinjohto - tele fon lin  
+puhelinkoppi - tele fon bude  
 puhelinnumero - tele fon nume  
 puhelintekniikka - tele fon suta  
 puhua (kieli, kommunikaatio) - baxa  
