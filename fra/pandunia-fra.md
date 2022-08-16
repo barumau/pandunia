@@ -990,6 +990,8 @@ ke loka - où
 ke riti - comment  
 ke sata - quand  
 Keme - Égypte antique  
+kentaur - centaure  
+kentaur hua - Centaurée  
 kerne - coeur  
 kexa broxa - brosse à cheveux  
 kexa hin - glabre  
@@ -1323,8 +1325,8 @@ nice - dessous
 nide - nid  
 nikel - nickel  
 nil - bleu  
-nilelfe - schtroumpf  
-nilsentaure - Centaurée bleuet  
+nil elfe - schtroumpf  
+nil kentaur hua - Centaurée bleuet  
 nilon - nylon  
 niobi yum - niobium  
 Nipon - Japon  
@@ -1628,7 +1630,6 @@ sene - âge
 seng - cru  
 sense - sens  
 sense xaka - tentacule  
-sentaure - Centaurée  
 sento - cent (100)  
 sento nen - siècle (centennie)  
 sento nen di - centenaire  
@@ -1663,7 +1664,7 @@ soki - chercher
 sol - soleil  
 sol cati - ombrelle (parasol)  
 sol hua - Tournesol  
-sol sentaure - Centaurée du solstice  
+sol kentaur hua - Centaurée du solstice  
 sona - sommeil  
 • ansona - insomnie  
 sona kamar - chambre à coucher  

@@ -809,6 +809,8 @@ ke loka - onde
 ke riti - como  
 ke sata - quando  
 Keme - Antigo Egito  
+kentaur - centauro  
+kentaur hua - centáurea  
 kerne - núcleo (cerne)  
 kexa broxa - escova de cabelo  
 kexa hin - despelado  
@@ -1126,8 +1128,8 @@ nia - intenção
 nide - ninho (vespiero)  
 nikel - níquel  
 nil - azur  
-nilelfe - estrumpfe (smurf)  
-nilsentaure - escovinha (centáurea)  
+nil elfe - estrumpfe (smurf)  
+nil kentaur hua - escovinha (centáurea)  
 niobi yum - nióbio  
 Nipon - Japão  
 nipon yum - nihonium  
@@ -1402,7 +1404,6 @@ sene di - idoso (sene)
 seng - cru  
 sense - sentido  
 sense xaka - tentáculo  
-sentaure - centáurea  
 sento - cem (100)  
 sento nen - século  
 sento nen di - centénario  

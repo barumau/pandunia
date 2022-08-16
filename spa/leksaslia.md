@@ -728,6 +728,7 @@
 **keke** *pastel (galleta)* ← eng:cake, rus:кекс (keks), ara:(kaʿka), hin:केक (kek), jpn:ケーキ (kēki), swa:keki, tur:kek  
 **kelele** *ruido* ← swa:kon:makelele  
 **Keme** *Egipcia Antigua* ← cop:ⲕⲏⲙⲉ (kēme)  
+**kentaur** *centauro* ← eng:centaur, fra:centaure, spa:por:centauro, rus:кентавр (kentavr), hin:सेंटूर (seṇṭūr), ara: قَنْطُور‎ (qanṭūr), tur:kentaur, swa:kentauro, jpn:ケンタウロス (Kentaurosu), kor:켄타우로스 (kentauroseu)  
 **kerne** *corazón (núcleo)* ← eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)  
 **kerubi** *querubín* ← heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)  
 **ketel** *hervidor (tetera)* ← eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel  
@@ -1317,7 +1318,6 @@
 **sene** *edad* ← ara: سِنّ‎ (sinn), hin:सिन (sin) + spa:por:sene + zho:岁 (suì), yue:歲 (seoi3), kor:세  (-se), jpn:歳 (-sai)  
 **seng** *crudo* ← zho:生 (shēng), yue:生, jpn:生 (sei), kor:생 (saeng), vie:sống  
 **sense** *sentido* ← eng:sense, spa:por:sentido, fra:sens  
-**sentaure** ** ← eng:centaury, por:centáurea  
 **sento** *cien (100)* ← fra:cent, spa:cien, por:cem, ita:cento, eng:cent-, hin:शत (śat), ben:শত (śôt)  
 **sera** *sierra* ← spa:sierra, por:serra, eng:serrate  
 **serami** *cerámica* ← eng:ceramic, spa:cerámica, por:cerâmico, fra:céramique, rus:керамика (keramika), ben:সিরামিক (sirāmika), tur:mel:seramik  

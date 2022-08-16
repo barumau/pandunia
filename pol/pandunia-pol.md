@@ -1770,6 +1770,7 @@ keke - ciasto, ciastko
 kelele - atleta, sportowiec  
 kelvin - kelwin  
 Keme - Starożytny Egipt (Kemet)  
+kentaur hua - chaber  
 Kenya - Kenia  
 kerne - rdzeń (jądro, pestka)  
 kerne arme - broń nuklearna  
@@ -2467,9 +2468,9 @@ Nijer - Niger
 Nikaragua - Nikaragua  
 nikel - nikiel  
 nil - niebieski  
-nilelfe - smerf  
-nilsentaure - bławatek  
-nilserami sing - houstoia azurowa  
+nil elfe - smerf  
+nil kentaur hua - bławatek  
+nil serami sing - houstoia azurowa  
 nilon - nylon  
 niobi yum - niob  
 Nipon - Japonia  
@@ -3070,7 +3071,6 @@ Senegal - Senegal
 sense - zmysł  
 sense gi - sensor (detektor, czujka)  
 sense xaka - macka (czułek)  
-sentaure - chaber  
 senti - centy-, procent, na sto, setna część  
 sentimitre - centymetr  
 sento - sto (100)  
@@ -3151,7 +3151,7 @@ sol - słońce
 sol cati - parasol  
 sol estasi - przesilenie  
 sol hua - słonecznik  
-sol sentaure - chaber wełnisty  
+sol kentaur hua - chaber wełnisty  
 sol sistem - układ słoneczny  
 Solomon nesi - Wyspy Salomona  
 Somal - Somalia  

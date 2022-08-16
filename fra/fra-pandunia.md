@@ -369,9 +369,10 @@ ce...ci - yi
 ce...lá - vo  
 cellule sanguine (globule) - hemi selu  
 cent (100) - sento  
-Centaurée - sentaure  
-Centaurée bleuet - nilsentaure  
-Centaurée du solstice - sol sentaure  
+centaure - kentaur  
+Centaurée - kentaur hua  
+Centaurée bleuet - nil kentaur hua  
+Centaurée du solstice - sol kentaur hua  
 centenaire - sento nen di  
 centre - jong  
 cerise - ceri  
@@ -1610,7 +1611,7 @@ savane - garma zona caustan
 savoir (connaître) - sabe  
 Scandinavie - Eskandinavia  
 scandium - eskandi yum  
-schtroumpf - nilelfe  
+schtroumpf - nil elfe  
 scie - sera  
 scorpion - akrabe  
 sculpteur - eskulte ja  

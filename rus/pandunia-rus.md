@@ -882,6 +882,8 @@ ke riti - как
 ke sata - когда  
 ke yang - какой  
 Keme - Древний Египет  
+kentaur - кентавр  
+kentaur hua - василёк  
 kexa broxa - щётка для воло́с  
 kexa hin - безволосый  
 ki - что  
@@ -1212,8 +1214,8 @@ nice kitabu - субтитр
 nide - гнездо (улей)  
 nikel - никель  
 nil - синий (голубой)  
-nilelfe - смурф (штрумпф)  
-nilsentaure - василёк синий  
+nil elfe - смурф (штрумпф)  
+nil kentaur hua - василёк синий  
 nilon - нейлон  
 niobi yum - ниобий  
 Nipon - Япония  
@@ -1502,7 +1504,6 @@ sene - возраст
 seng - сырой  
 sense - чувство  
 sense xaka - щупальце  
-sentaure - василёк  
 sento - сто  
 sento nen - столетие  
 sento nen di - столетний  

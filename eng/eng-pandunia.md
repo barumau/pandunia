@@ -280,7 +280,7 @@ axe (hatchet) - futau
 axis (axle) - axe  
 Azerbaijan - Azerbaijan  
 azure - lazur  
-azure bluet - nilserami sing  
+azure bluet - nil serami sing  
 
 ## B  
 
@@ -661,6 +661,7 @@ celestial (heavenly) - sama di
 celestial body - astro  
 cell (biology) - selu  
 cement - semente  
+centaur - kentaur  
 centenary - sento nen di  
 center (concentrate) - fa jong  
 centi- (per cent) - senti  
@@ -906,7 +907,7 @@ core (nucleus, kernel) - kerne
 corn (maize) - mais  
 corn poppy - medan papi  
 corner (angle) - gona  
-cornflower - nilsentaure  
+cornflower - nil kentaur hua  
 corona virus - korona virus  
 corpse (dead body) - nekro  
 correct (make right) - fa sahi  
@@ -3727,7 +3728,7 @@ smelt - yung safa
 smoke - duman  
 smooth - lis  
 smoothen with a plane - fa rande  
-smurf - nilelfe  
+smurf - nil elfe  
 snack - xiu yam  
 snake (serpent) - serpe  
 snatch (remove) - decepe  
@@ -4486,7 +4487,7 @@ yay! (yeah!) - yei
 year - nen  
 yeast - hamir  
 yellow - huang  
-yellow starthistle - sol sentaure  
+yellow starthistle - sol kentaur hua  
 Yemen - Yemen  
 yes - ye  
 yesterday - cen den  

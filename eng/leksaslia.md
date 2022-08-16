@@ -728,6 +728,7 @@
 **keke** *cake (cookie)* ← English:cake, Russian:кекс (keks), Arabic:(kaʿka), Hindi:केक (kek), Japanese:ケーキ (kēki), Swahili:keki, Turkish:kek  
 **kelele** *noise* ← Swahili:Kongo:makelele  
 **Keme** *Ancient Egypt (Kemet)* ← cop:ⲕⲏⲙⲉ (kēme)  
+**kentaur** *centaur* ← English:centaur, French:centaure, Spanish:Portuguese:centauro, Russian:кентавр (kentavr), Hindi:सेंटूर (seṇṭūr), Arabic: قَنْطُور‎ (qanṭūr), Turkish:kentaur, Swahili:kentauro, Japanese:ケンタウロス (Kentaurosu), Korean:켄타우로스 (kentauroseu)  
 **kerne** *core (nucleus, kernel)* ← English:kernel, French:coeur, Portuguese:cerne, Hindi:केंद्र (kendr)  
 **kerubi** *cherub* ← heb:כְּרוּב‎ (kerúv), English:cherub, Spanish:querubín, Portuguese:querubim, French:chérubin, Russian:херувим (heruvim), Swahili:kerubi, Malay:kerub, Mandarin:基路伯 (jīlùbó)  
 **ketel** *kettle* ← English:kettle, Russian:котёл (kot’ol), Hindi:केतली (ketlī), Bengali:কেতলি (ketli), Malay:ketel  
@@ -1317,7 +1318,6 @@
 **sene** *age* ← Arabic: سِنّ‎ (sinn), Hindi:सिन (sin) + Spanish:Portuguese:sene + Mandarin:岁 (suì), Cantonese:歲 (seoi3), Korean:세  (-se), Japanese:歳 (-sai)  
 **seng** *raw (crude, fresh)* ← Mandarin:生 (shēng), Cantonese:生, Japanese:生 (sei), Korean:생 (saeng), Vietnamese:sống  
 **sense** *sense (method of perception)* ← English:sense, Spanish:Portuguese:sentido, French:sens  
-**sentaure** ** ← English:centaury, Portuguese:centáurea  
 **sento** *hundred (hecto-, 100)* ← French:cent, Spanish:cien, Portuguese:cem, Italian:cento, English:cent-, Hindi:शत (śat), Bengali:শত (śôt)  
 **sera** *saw* ← Spanish:sierra, Portuguese:serra, English:serrate  
 **serami** *ceramic* ← English:ceramic, Spanish:cerámica, Portuguese:cerâmico, French:céramique, Russian:керамика (keramika), Bengali:সিরামিক (sirāmika), Turkish:mel:seramik  

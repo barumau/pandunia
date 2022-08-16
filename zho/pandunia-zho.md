@@ -783,6 +783,7 @@ ke riti - 怎么
 keci - 客气  
 keka ja - 客人  
 Keme - 古埃及  
+kentaur - 人马 (半人马)  
 kerne - 核心  
 kexa broxa - 发刷  
 kexa hin - 无毛  
@@ -1082,9 +1083,9 @@ nice kitabu - 字幕
 nide - 巢 (穴)  
 nikel - 镍  
 nil - 蓝色  
-nilelfe - 蓝精灵  
-nilsentaure - 矢車菊  
-nilserami sing - 茜草花  
+nil elfe - 蓝精灵  
+nil kentaur hua - 矢車菊  
+nil serami sing - 茜草花  
 nilon - 尼龙  
 niobi yum - 铌  
 Nipon - 日本  

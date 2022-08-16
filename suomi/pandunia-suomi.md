@@ -2101,6 +2101,7 @@ keke - kakku (keksi)
 kelele - meteli  
 kelvin - kelvin (K)  
 Keme - muinainen Egypti  
+kentaur - kentauri  
 Kenya - Kenia  
 kerne - ydin (sydän)  
 kerne arme - ydinase  
@@ -2794,9 +2795,9 @@ Nijer - Niger
 Nikaragua - Nikaragua  
 nikel - nikkeli  
 nil - sininen  
-nilelfe - smurffi  
-nilsentaure - ruiskaunokki  
-nilserami sing - keijunsilmä  
+nil elfe - smurffi  
+nil kentaur hua - ruiskaunokki  
+nil serami sing - keijunsilmä  
 nilon - nailon  
 niobi yum - niobium  
 Nipon - Japani  

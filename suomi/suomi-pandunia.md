@@ -1185,7 +1185,7 @@ kehys (raamit) - frem
 kehä (ottelualue) - ringar  
 keidas - vahi  
 keiju - pari  
-keijunsilmä - nilserami sing  
+keijunsilmä - nil serami sing  
 keinotekoinen (teko-, keino-) - sana di  
 keinotekoinen kieli (tekokieli, keinokieli) - fete baxa  
 keinotekoinen kieli (tekokieli, keinokieli) - sana baxa  
@@ -1210,6 +1210,7 @@ kendo - gem dau
 kenguru - kangaru  
 Kenia - Kenya  
 kenkä - sapatu  
+kentauri - kentaur  
 kenttä (aukio) - medan  
 kenttävuode - kampe bede  
 keppi (puukeppi) - moka kane  
@@ -2890,7 +2891,7 @@ rotujen välinen - rasa medi
 Ruanda - Ruanda  
 rubidium - rubi yum  
 rubiini - rubi bau seku  
-ruiskaunokki - nilsentaure  
+ruiskaunokki - nil kentaur hua  
 ruiske (injektio) - juxa  
 ruiskuttaa (ruiske, injektio) - injete  
 ruiskuttaa - fa juxa  
@@ -3137,7 +3138,7 @@ Slovakia - Slovakia
 Slovenia - Slovenia  
 slummi - harabu mahala  
 smaragdi - zumarde  
-smurffi - nilelfe  
+smurffi - nil elfe  
 sohva - sofa  
 soihtu - fotokane  
 soija - soi  

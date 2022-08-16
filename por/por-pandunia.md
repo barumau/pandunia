@@ -298,8 +298,9 @@ cebola - piaze
 cem (100) - sento  
 cemitério - gabur bagi  
 cenoura - karote  
+centauro - kentaur  
 centro - jong  
-centáurea - sentaure  
+centáurea - kentaur hua  
 centénario - sento nen di  
 cerca - kinar baryer  
 cerebral - nau di  
@@ -551,7 +552,7 @@ escavar - exkava
 escola (colégio) - xulakan  
 escorpião (lacrau) - akrabe  
 escova de cabelo - kexa broxa  
-escovinha (centáurea) - nilsentaure  
+escovinha (centáurea) - nil kentaur hua  
 escrevere - kitabu  
 escritório (birô) - buro  
 escudo - defa bano  
@@ -588,7 +589,7 @@ este - yi
 estirar - long tire  
 estrado - tai  
 estrela - sing  
-estrumpfe (smurf) - nilelfe  
+estrumpfe (smurf) - nil elfe  
 estrôncio - estronti yum  
 estudante - estude ja  
 estudar (examinar) - fa estude  

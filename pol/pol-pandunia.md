@@ -282,7 +282,7 @@ bóbr - bibre
 bóg, bóstwo - deu  
 bąk, bączek - rota vanu gi  
 bęben - guma  
-bławatek - nilsentaure  
+bławatek - nil kentaur hua  
 błotnik - poto defa bano  
 błotnisty - poto di  
 błoto - poto  
@@ -313,8 +313,8 @@ cer - ceres yum
 ceramika - serami  
 Ceres (planeta karłowata) - Ceres  
 cez - cesi yum  
-chaber - sentaure  
-chaber wełnisty - sol sentaure  
+chaber - kentaur hua  
+chaber wełnisty - sol kentaur hua  
 Champagne - xampan  
 chaos, nieporządek; wrzawa, zgiełk - haos  
 chcieć (pragnąć) - fa ici  
@@ -893,7 +893,7 @@ honorowy - onor di
 hormon - hormon  
 horyzont - sama kinar  
 hotel - hotel  
-houstoia azurowa - nilserami sing  
+houstoia azurowa - nil serami sing  
 houstonia - serami sing  
 humanista - insan sim ja  
 humanistyczny - insan sim di  
@@ -2717,7 +2717,7 @@ smacznego - salam yam
 smak - guste  
 smakować jak - guste ka  
 smakować, próbować smaku - fa guste  
-smerf - nilelfe  
+smerf - nil elfe  
 smieszany (skonfudowany) - ruhu mixe di  
 smok - lung  
 smutny - duku di  

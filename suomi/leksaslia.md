@@ -728,6 +728,7 @@
 **keke** *kakku (keksi)* ← englanti:cake, venäjä:кекс (keks), arabia:(kaʿka), hindi:केक (kek), japani:ケーキ (kēki), suahili:keki, turkki:kek  
 **kelele** *meteli* ← suahili:Kongo:makelele  
 **Keme** *muinainen Egypti* ← cop:ⲕⲏⲙⲉ (kēme)  
+**kentaur** *kentauri* ← englanti:centaur, ranska:centaure, espanja:portugali:centauro, venäjä:кентавр (kentavr), hindi:सेंटूर (seṇṭūr), arabia: قَنْطُور‎ (qanṭūr), turkki:kentaur, suahili:kentauro, japani:ケンタウロス (Kentaurosu), korea:켄타우로스 (kentauroseu)  
 **kerne** *ydin (sydän)* ← englanti:kernel, ranska:coeur, portugali:cerne, hindi:केंद्र (kendr)  
 **kerubi** *kerubi* ← heb:כְּרוּב‎ (kerúv), englanti:cherub, espanja:querubín, portugali:querubim, ranska:chérubin, venäjä:херувим (heruvim), suahili:kerubi, malaiji:kerub, yleiskiina:基路伯 (jīlùbó)  
 **ketel** *kattila* ← englanti:kettle, venäjä:котёл (kot’ol), hindi:केतली (ketlī), bangla:কেতলি (ketli), malaiji:ketel  
@@ -1317,7 +1318,6 @@
 **sene** *ikä* ← arabia: سِنّ‎ (sinn), hindi:सिन (sin) + espanja:portugali:sene + yleiskiina:岁 (suì), kantoninkiina:歲 (seoi3), korea:세  (-se), japani:歳 (-sai)  
 **seng** *raaka (tuore)* ← yleiskiina:生 (shēng), kantoninkiina:生, japani:生 (sei), korea:생 (saeng), vietnami:sống  
 **sense** *aisti* ← englanti:sense, espanja:portugali:sentido, ranska:sens  
-**sentaure** ** ← englanti:centaury, portugali:centáurea  
 **sento** *sata (hehto-)* ← ranska:cent, espanja:cien, portugali:cem, italia:cento, englanti:cent-, hindi:शत (śat), bangla:শত (śôt)  
 **sera** ** ← espanja:sierra, portugali:serra, englanti:serrate  
 **serami** *savityö (keramiikka)* ← englanti:ceramic, espanja:cerámica, portugali:cerâmico, ranska:céramique, venäjä:керамика (keramika), bangla:সিরামিক (sirāmika), turkki:mel:seramik  

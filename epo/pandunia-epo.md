@@ -1081,6 +1081,7 @@ keci - ĝentila
 keka - viziti  
 keka ja - vizitanto  
 keke - kuko  
+kentaur - centaǔro  
 kerne - kerno (koro)  
 kerne arme - kernarmilo  
 kerne energi - kernenergio  
@@ -1433,7 +1434,7 @@ Nijer - Niĝero
 Nikaragua - Nikaragvo  
 nikel - nikelo  
 nil - blua  
-nilelfe - smurfo  
+nil elfe - smurfo  
 nilon - nilono  
 niobi yum - niobo  
 Nipon - Japanio  

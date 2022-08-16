@@ -807,6 +807,7 @@ ke xe - 何事
 ke yang - どんな  
 keka ja - 客人  
 Keme - 古代エジプト  
+kentaur - 人馬 (ケンタウロス)  
 kerne - 核  
 kexa - 毛  
 kexa hin - 無毛  
@@ -1130,9 +1131,9 @@ nice kitabu - 字幕
 nide - 巣  
 nikel - ニッケル  
 nil - 青い  
-nilelfe - スマーフ (シュトロンフ)  
-nilsentaure - ヤグルマギク  
-nilserami sing - ヒナソウ  
+nil elfe - スマーフ (シュトロンフ)  
+nil kentaur hua - ヤグルマギク  
+nil serami sing - ヒナソウ  
 nilon - ナイロン  
 niobi yum - ニオブ  
 Nipon - 日本  

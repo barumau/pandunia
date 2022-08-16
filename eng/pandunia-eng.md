@@ -2242,6 +2242,7 @@ keke - cake (cookie)
 kelele - noise  
 kelvin - kelvin  
 Keme - Ancient Egypt (Kemet)  
+kentaur - centaur  
 Kenya - Kenya  
 kerne - core (nucleus, kernel)  
 kerne arme - nuclear weapon (nuke)  
@@ -3056,9 +3057,9 @@ Nijer - Niger
 Nikaragua - Nicaragua  
 nikel - nickel  
 nil - blue  
-nilelfe - smurf  
-nilsentaure - cornflower  
-nilserami sing - azure bluet  
+nil elfe - smurf  
+nil kentaur hua - cornflower  
+nil serami sing - azure bluet  
 nilon - nylon  
 niobi yum - niobium  
 Nipon - Japan  
@@ -3858,7 +3859,7 @@ sol - sun
 sol cati - parasol  
 sol estasi - solstice  
 sol hua - sunflower  
-sol sentaure - yellow starthistle  
+sol kentaur hua - yellow starthistle  
 sol sistem - solar system  
 Solomon nesi - Solomon Islands  
 Somal - Somalia  

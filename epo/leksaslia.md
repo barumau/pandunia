@@ -728,6 +728,7 @@
 **keke** *kuko* ← angla:cake, rusa:кекс (keks), araba:(kaʿka), hindia:केक (kek), japana:ケーキ (kēki), svahila:keki, turka:kek  
 **kelele** ** ← svahila:konga:makelele  
 **Keme** ** ← cop:ⲕⲏⲙⲉ (kēme)  
+**kentaur** *centaǔro* ← angla:centaur, franca:centaure, hispana:portugala:centauro, rusa:кентавр (kentavr), hindia:सेंटूर (seṇṭūr), araba: قَنْطُور‎ (qanṭūr), turka:kentaur, svahila:kentauro, japana:ケンタウロス (Kentaurosu), korea:켄타우로스 (kentauroseu)  
 **kerne** *kerno (koro)* ← angla:kernel, franca:coeur, portugala:cerne, hindia:केंद्र (kendr)  
 **kerubi** ** ← heb:כְּרוּב‎ (kerúv), angla:cherub, hispana:querubín, portugala:querubim, franca:chérubin, rusa:херувим (heruvim), svahila:kerubi, malaja:kerub, mandarena:基路伯 (jīlùbó)  
 **ketel** ** ← angla:kettle, rusa:котёл (kot’ol), hindia:केतली (ketlī), bengala:কেতলি (ketli), malaja:ketel  
@@ -1317,7 +1318,6 @@
 **sene** *aĝo* ← araba: سِنّ‎ (sinn), hindia:सिन (sin) + hispana:portugala:sene + mandarena:岁 (suì), kantona:歲 (seoi3), korea:세  (-se), japana:歳 (-sai)  
 **seng** ** ← mandarena:生 (shēng), kantona:生, japana:生 (sei), korea:생 (saeng), vjetnama:sống  
 **sense** *sentumo* ← angla:sense, hispana:portugala:sentido, franca:sens  
-**sentaure** ** ← angla:centaury, portugala:centáurea  
 **sento** *cent* ← franca:cent, hispana:cien, portugala:cem, itala:cento, angla:cent-, hindia:शत (śat), bengala:শত (śôt)  
 **sera** ** ← hispana:sierra, portugala:serra, angla:serrate  
 **serami** ** ← angla:ceramic, hispana:cerámica, portugala:cerâmico, franca:céramique, rusa:керамика (keramika), bengala:সিরামিক (sirāmika), turka:mel:seramik  

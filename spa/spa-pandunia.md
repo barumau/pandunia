@@ -17,7 +17,7 @@ abisinio - habaxa
 abjazia - Apsni  
 abono orgánico (compost) - bio sana xe  
 aborigen - asal Australia jen  
-abrepuño - sol sentaure  
+abrepuño - sol kentaur hua  
 abrigo (chaqueta) - kote  
 abril - mes nelu  
 abrir - fa kai  
@@ -38,7 +38,7 @@ acento - balaton
 aceptable - okebil  
 aceptar - fa oke  
 aceptar - acepe  
-aciano (azulejo) - nilsentaure  
+aciano (azulejo) - nil kentaur hua  
 aclarar (clarificar) - fa klar  
 aconsejar - fa sel  
 acontecimiento (caso, suceso, evento) - kasu  
@@ -669,6 +669,7 @@ cementerio - gabur bagi
 cemento - semente  
 cena - xam yam  
 ceniza - hui  
+centauro - kentaur  
 centellear (titilar) - fa sing foto  
 centenario - sento nen di  
 centi- (por ciento) - senti  
@@ -2949,7 +2950,7 @@ piso (suelo) - kamar dipe
 pistola (rifle) - pau gi  
 pistola - pistol  
 pistón - pompe tapa  
-pitufo - nilelfe  
+pitufo - nil elfe  
 pizza - piza  
 pizzería - pizakan  
 piña - nanas  
