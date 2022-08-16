@@ -536,13 +536,12 @@ cosen di - koreański
 Cuana - Botswana  
 culi - proces, procedura  
 cum - całus  
-cun - wieś, wioska  
+cun - wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)  
+cunbil - opcja (wybór)  
+cun yo gol - przeznaczyć  
 cupu - ssać  
-cuti - wyjśćie, opuszczenie  
+cuti - wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie)  
 cuti mun - drzwi wyjściowe  
-cuze - wybór, elekcja, selekcja  
-cuze xe - opcja (wybór)  
-cuze yo gol - przeznaczyć  
 
 ## D  
 
@@ -608,6 +607,7 @@ defa - obrona
 defa bano - tarcza  
 defa ja - obrońca  
 defa kaska - zbroja  
+deha - wieś, wioska  
 dele do - czekać  
 demi - lud, społeczeństwo  
 demi di - publiczny  
@@ -820,8 +820,6 @@ fa budi - uświadomić sobie, zdać sobie sprawę, pojąć, pojmować
 fa cape - naciskać, zostawiać ślad  
 fa cori - ukraść, kraść  
 fa culi - traktować  
-fa cuti - wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać  
-fa cuze - wybrać, wybierać, selekcjonować  
 fa daka - przykryć, przykrywać, ukryć, ukrywać  
 fa dalil - dowieść, dowodzić; zeznać, zeznawać  
 fa darte bon - nawozić (nawieźć)  
@@ -1198,7 +1196,6 @@ gamo zi - emoji (emotkon)
 gan - suchy  
 gan cau - siano  
 gan putau - rodzynka  
-gan tela - ręcznik  
 Gana - Ghana  
 Ganda - Uganda  
 Ganga - Ganges  
@@ -3359,7 +3356,9 @@ truke - sztuczka (podstęp, oszustwo)
 tu - ty, ciebie  
 tumen - wy, was  
 tu su - twój  
-tualete - taleta, WC  
+tuale - ręcznik  
+tuale kaguji - papier toaletowy  
+tuale kamar - taleta, WC  
 tubo - tuba, rura  
 tufan - burza, sztorm, tajfun  
 tuh - pluć  

@@ -386,8 +386,7 @@ coklate - chocolat
 coklate kane - tablette de chocolat  
 copu - houe  
 culi - traitement (processe)  
-cun - village  
-cuze xe - option  
+cunbil - option  
 
 ## D  
 
@@ -422,6 +421,7 @@ dava xelogi - pharmacologie
 de - de  
 defa bano - bouclire  
 defa kaska - armure  
+deha - village  
 dele - délai (retard)  
 den un - lundi  
 den du - mardi  
@@ -680,7 +680,6 @@ gamo - émotion
 gamo hal - humeur  
 gamo zi - émoticône (emoji)  
 gan cau - foin  
-gan tela - serviette  
 gana - canne  
 gana kalam - calame  
 gani - chanter (chanson)  
@@ -1436,7 +1435,7 @@ pente - peinture
 pente broxa - pinceau  
 pente tela - canevas (toile)  
 pera - poire  
-perixe - périr  
+perex fa - périr  
 pesa - argent  
 pesa diske - monnaie (pièce)  
 petra - roche (pierre)  
@@ -1767,6 +1766,9 @@ triple - triple
 truke - ruse  
 tu - tu  
 tumen su - votre  
+tuale - serviette  
+tuale kaguji - papier toilette (papier hygiénique)  
+tuale kamar - toilette (cabinet, waters)  
 Tule - Thulé  
 tule yum - thulium  
 tuna - thon  
@@ -1882,6 +1884,7 @@ xiti - perder
 xiti bai - échec  
 xiti bai ja - perdant  
 xiu - petit  
+xiu deha - hameau  
 xiu kaboga - courgette  
 xiu seku - caillou  
 xiva - Shiva  

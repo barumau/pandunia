@@ -78,7 +78,7 @@ agresi ja - hyökkääjä
 agresi tabi - hyökkäävä (aggressiivinen)  
 agri - viljellä  
 agri bio logi - maatalousbiologia  
-agri cun - maalaiskylä  
+agri deha - maalaiskylä  
 agrija - maanviljelijä  
 agri nomi - agronomia (maatalous)  
 agri stan - maaseutu  
@@ -686,13 +686,12 @@ cosen di - korealainen
 Cuana - Botswana  
 culi - käsittely (prosessi)  
 cum - suukko (pusu)  
-cun - kylä  
+cun - valita (valinta)  
+cunbil - vaihtoehto  
+cun yo gol - määrätä  
 cupu - imeä  
-cuti - poistuminen  
+cuti - poistua (lähteä pois, mennä pois)  
 cuti mun - uloskäynti  
-cuze - valinta (vaali)  
-cuze xe - vaihtoehto  
-cuze yo gol - määrätä  
 
 ## D  
 
@@ -772,6 +771,7 @@ defa - puolustus
 defa bano - suojakilpi  
 defa ja - puolustaja  
 defa kaska - suojakypärä  
+deha - kylä  
 Deimos - Deimos  
 dele - viive (odotus)  
 dele do - odottaa  
@@ -1018,8 +1018,6 @@ fa budi - ymmärtää (oivaltaa)
 fa cape - painaa (leimata)  
 fa cori - varastaa  
 fa culi - käsitellä (kohdella, pidellä, prosessoida)  
-fa cuti - poistua  
-fa cuze - valita  
 fa daka - peittää  
 fa dalil - todistaa  
 fa dante - purra  
@@ -1471,7 +1469,6 @@ gan - kuiva
 gan cau - heinä  
 gan mosim - kuivakausi  
 gan putau - rusina  
-gan tela - pyyheliina  
 Gana - Ghana  
 gana - ruoko  
 gana kalam - ruokokynä  
@@ -2042,6 +2039,7 @@ kape yo taxi - veloittaa (verottaa)
 kar - työskennellä  
 • duskar - synti (paha teko)  
 • konkar - tehdä yhteistyötä  
+kar cuti - vapaa (poissaolo töistä)  
 karja - työntekijä (työläinen)  
 karkan - paja (työpaja)  
 kar lexi - verbi (teonsana)  
@@ -3008,8 +3006,8 @@ pente broxa - pensseli (sivellin)
 pente ja - maalari  
 pente tela - taulukangas  
 pera - päärynä  
-perixe - hävittää (hajottaa)  
-perixe di - hajalla  
+perex - hajalla  
+perex fa - hajottaa (hävittää, raunioittaa)  
 Peru - Peru  
 pesa - raha  
 pesa diske - kolikko  
@@ -3725,7 +3723,9 @@ tumen - te
 tumen su - teidän  
 tumimen - me ja sinä  
 tu su - sinun  
-tualete - vessa  
+tuale - pyyheliina  
+tuale kaguji - vessapaperi  
+tuale kamar - vessa  
 tubo - putki (tuubi)  
 tufan - myrsky  
 tuh - sylkeä  
@@ -3986,6 +3986,7 @@ xiti bai - epäonnistuminen
 xiti bai ja - häviäjä  
 xiu - pieni  
 xiu bol - kupla  
+xiu deha - pikkukylä  
 xiu seku - sorakivi  
 xiu siti - pikkukaupunki  
 xiu yam - välipala (naposteltava)  

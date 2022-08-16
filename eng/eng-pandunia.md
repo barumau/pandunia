@@ -728,11 +728,10 @@ Chinese or Japanese character (hanzi, kanji) - Han zi
 chlorine - klor  
 chocolate - coklate  
 chocolate bar - coklate kane  
-choice (election, selection) - cuze  
 choir (chorus) - ganir grupe  
 cholera - holera  
 Chongqing - congcing  
-choose (elect, select, pick) - fa cuze  
+choose (elect, select, pick; choice, selection) - cun  
 Christ (messiah) - mesi  
 Christian - mesi din ja  
 Christianity - mesi din  
@@ -1075,7 +1074,7 @@ descriptive - sifa di
 desert - sable stan  
 desk - karm eza  
 despise (scorn) - fa paraya  
-destine (set) - cuze yo gol  
+destine (set) - cun yo gol  
 destiny (fate, lot, kismet) - kisma  
 detail - detal  
 determine (establish, fix, decide, set, confirm, specify, resolve) - fa ding  
@@ -1354,7 +1353,6 @@ excursion - exkurse
 exercise - lenxi  
 exist (presently, currently) - zai  
 exit (get out) - be vai  
-exit (leaving) - cuti  
 exit door - cuti mun  
 exogeneous - exgene  
 exogenous - vai gene di  
@@ -2213,7 +2211,8 @@ leak - lou
 learn (study) - fa xula  
 leash (rein) - lida lin  
 least (minimally) - minim  
-leave (go out, exit) - fa cuti  
+leave (absence from work) - kar cuti  
+leave (go away, exit) - cuti  
 leave behind (abandon, let go) - laxe  
 Lebanon - Libanen  
 leek - porei  
@@ -2492,7 +2491,7 @@ meningitis - meninge tis
 meninx (meninges) - meninge  
 mental (psychic) - ruhu di  
 menu (bill of fare) - yam liste  
-menu (catalog) - cuze liste  
+menu (catalog) - cun liste  
 mercury (quicksilver) - hidrargente  
 Mercury - Merkur  
 merge (fuse) - be yung liga  
@@ -2837,7 +2836,7 @@ opossum - aposum
 opportunity (chance) - canse  
 oppose (antagonize, object, resist) - xatan  
 optical fibre (optical cable) - foto lin  
-option (choice, preference) - cuze xe  
+option (choice, preference) - cunbil  
 or - o  
 orange (fruit) - oranje  
 orange (orange-colored) - oranje rang  
@@ -3013,8 +3012,8 @@ perfect - pul bon
 perimeter (circumference) - gola longta  
 period (era, epoch, term) - dur zaman  
 peripheral - kinar di  
-perish (ruin, waste away) - perixe  
-perished (ruined, desolate, wretched, miserable) - perixe di  
+perish (ruin, dishevel, devastate, desolate) - perex fa  
+perished (ruined, devastated, wretched) - perex  
 permissible (allowed, halal) - halal  
 Persian (Farsi) - farsi  
 person (individual, -ist, -er) - jen  
@@ -3485,7 +3484,7 @@ rum - rom
 run - kore  
 runner - kore ja  
 rural (rustic) - agri stan di  
-rural village - agri cun  
+rural village - agri deha  
 Russia - Rusia  
 Russian language - rusia baxa  
 rustle - xaxa  
@@ -3722,6 +3721,7 @@ Slovenia - Slovenia
 slow - anhaste  
 slum - harabu mahala  
 small town - xiu siti  
+small village (hamlet) - xiu deha  
 smell (reek) - fa aroma  
 smell (sniff) - fa aroma  
 smelt - yung safa  
@@ -4107,7 +4107,8 @@ tobacco - tabaku
 today - zai den  
 together (jointly, mutually) - a kon  
 Togo - Togo  
-toilet (WC) - tualete  
+toilet (bathrooom, WC) - tuale kamar  
+toilet paper - tuale kaguji  
 Tokyo - Tokyo  
 tolerate - tolera  
 tomato - tomate  
@@ -4135,7 +4136,7 @@ torrent - dai dara
 touch - tocu  
 tourism - safar keka  
 tourist - safar keka ja  
-towel - gan tela  
+towel - tuale  
 tower - minare  
 town - nagar  
 toxic (poisonous, venomous) - toxi di  
@@ -4307,7 +4308,7 @@ victory to Pandunia! - jai pandunia!
 Viet Nam - Viete  
 Vietnamese language (Viet) - viete baxa  
 view (vision) - vide xe  
-village - cun  
+village - deha  
 vine - eskale tana  
 vinegar - vin suan  
 vineyard - putau bagi  

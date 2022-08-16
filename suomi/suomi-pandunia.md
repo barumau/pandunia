@@ -577,9 +577,10 @@ hahmo (figuuri) - figur
 haista - fa aroma  
 haistaa - fa aroma  
 Haiti - Aiti  
-hajalla - perixe di  
+hajalla - perex  
 hajanainen - anjami di  
 hajauttaa - anjami  
+hajottaa (hävittää, raunioittaa) - perex fa  
 hajottaa (särkeä, repiä, sirpaloida) - fa parce  
 haju - aroma  
 hakaristi (svastika) - huke krus  
@@ -812,7 +813,6 @@ häntä - koda
 häpeä - xarma  
 häpy (ulkosynnyttimet) - vulva  
 hätä (paniikki) - panike  
-hävittää (hajottaa) - perixe  
 hävitä (kärsiä tappio) - bai  
 hävitä (kärsiä tappio) - fa xiti bai  
 häviäjä - xiti bai ja  
@@ -1540,7 +1540,7 @@ kylmä - leng
 kylpeä - fa banya  
 kylpy - banya  
 kylpyhuone - banya kamar  
-kylä - cun  
+kylä - deha  
 kymmenen (10) - des  
 kyniä - depena  
 kynsi - nahun  
@@ -1855,7 +1855,7 @@ maailman- - dunia di
 maailmankieli - dunia baxa  
 maailmanlaajuinen (globaali) - pan dunia di  
 maalais- - agri stan di  
-maalaiskylä - agri cun  
+maalaiskylä - agri deha  
 maalari - pente ja  
 maalata - fa pente  
 maalata - pente  
@@ -2144,7 +2144,7 @@ märkä (kostea) - xipi
 mätä - pute  
 määritellä (luonnehtia) - fa sifa  
 määritetyn määritteeseen liittävä partikkeli - de  
-määrätä - cuze yo gol  
+määrätä - cun yo gol  
 mörkö - bubu  
 
 ## N  
@@ -2546,6 +2546,7 @@ piirtää - fa grafi
 piirustus - desen  
 piiska (ruoska) - bici  
 pikkukaupunki - xiu siti  
+pikkukylä - xiu deha  
 pikkuruinen (mikroskooppinen, mikro-) - mikro  
 pikkutakki (jakku) - jake  
 pilaantua (raunioitua) - be harabu  
@@ -2614,9 +2615,8 @@ poistaa (paitsi, poislukien) - fa vai
 poistaa (viedä) - fa for  
 poistaa toiminnasta - deativi  
 poistaa virheitä (debugata) - fa an galte  
+poistua (lähteä pois, mennä pois) - cuti  
 poistua (mennä ulos) - be vai  
-poistua - fa cuti  
-poistuminen - cuti  
 pokeri - poker  
 poliiisi (poliisimies) - polis ja  
 poliisi - polis  
@@ -2734,7 +2734,7 @@ pystysuuntainen - gau dipe
 pysähdys - halte  
 pysähtyä - be halte  
 pysäyttää - fa halte  
-pyyheliina - gan tela  
+pyyheliina - tuale  
 pyynti (metsästys, kalastus) - saide  
 pyyntö - cing  
 pyytäjä (metsästäjä, kalastaja) - saide ja  
@@ -3746,7 +3746,7 @@ vahvistaa (voimistaa) - fa lika
 vaihe (etappi) - faze  
 vaihtaa (tehdä vaihtokauppa) - yeka  
 vaihtaa - badal  
-vaihtoehto - cuze xe  
+vaihtoehto - cunbil  
 vaijeri (metallilanka) - metal lin  
 vaikeus (hankaluus) - dus hal  
 vaikuttaa - fa asar  
@@ -3758,8 +3758,7 @@ vain (ainoa, ainut) - un di
 vaivata (hieroa) - fa masaje  
 vaivautua - be turbe  
 valaistunut - budi di  
-valinta (vaali) - cuze  
-valita - fa cuze  
+valita (valinta) - cun  
 valitus (reklamaatio) - xikaya  
 valjaat - harnes  
 valkoinen (valkea) - baku  
@@ -3791,6 +3790,7 @@ vankila - jelakan
 vankityrmä - geo nice jela  
 Vanuatu - Vanuatu  
 vanukas - puding  
+vapaa (poissaolo töistä) - kar cuti  
 vapaa - huru  
 vapaus - huruta  
 vapauttaa - huru di  
@@ -3859,7 +3859,8 @@ vesinokkaeläin - bata krote
 vesipuhveli - karbau  
 vesitiivis - sui sekur di  
 vesiväri (akvarelliväri) - sui rang  
-vessa - tualete  
+vessa - tuale kamar  
+vessapaperi - tuale kaguji  
 vetinen - sui di  
 vetoketju - ziper  
 vetolaatikko - tire sanduku  

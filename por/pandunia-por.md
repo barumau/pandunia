@@ -280,8 +280,7 @@ coklate - chocolate
 coklate kane - barra de chocolate  
 copu - enxada  
 culi - processo  
-cun - aldeia (vila)  
-cuze xe - opção  
+cunbil - opção  
 
 ## D  
 
@@ -311,6 +310,7 @@ dava xelogi - farmacologia
 de - de  
 defa bano - escudo  
 defa kaska - armadura  
+deha - aldeia (vila)  
 dele - demora (atraso, espera)  
 den - dia (24 horas)  
 den un - segunda-feira  
@@ -529,7 +529,6 @@ gamo - emoçao
 gamo hal - humor  
 gamo zi - emoticon (emoji)  
 gan cau - feno  
-gan tela - toalha  
 gana - cana  
 gana kalam - cálamo  
 ganir grupe - coro  
@@ -1231,7 +1230,7 @@ pente - pintura
 pente broxa - pincel  
 pente tela - tela  
 pera - pera  
-perixe - perecer  
+perex fa - perecer  
 pesa - dinheiro  
 pesa diske - moeda  
 petra - rocha (pedra)  
@@ -1519,6 +1518,9 @@ triple - triplo
 truke - truque (fraude)  
 tu - tu  
 tumen su - vosso  
+tuale - toalha  
+tuale kaguji - papel higiênico  
+tuale kamar - lavatorio (toalete)  
 tule yum - túlio  
 turbe - molestar (perturber)  
 • disturbe - perturbar (turbulência)  

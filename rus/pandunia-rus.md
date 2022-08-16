@@ -304,7 +304,6 @@ coi - зелень
 coklate - шоколад  
 copu - мотыга  
 culi - процесс  
-cun - деревня (село)  
 
 ## D  
 
@@ -344,6 +343,7 @@ dava xelogi - фармакология
 de - из (от)  
 defa bano - щит  
 defa kaska - доспехи  
+deha - деревня (село)  
 den - день (сутки)  
 den un - понедельник  
 den du - вторник  
@@ -1654,6 +1654,8 @@ tri pike - трезубец
 truke - обман  
 tu - ты  
 tumen su - ваш  
+tuale kaguji - туалетная бумага  
+tuale kamar - туалет (уборная, клозет)  
 Tule - Туле  
 tule yum - тулий  
 tuna - тунец  
@@ -1774,6 +1776,7 @@ xikaya - жалоба
 xite - говно (дерьмо)  
 xiti - потерять (утратить)  
 xiu - маленький (малый)  
+xiu deha - деревушка  
 xiu kaboga - цукини  
 xiu seku - галька  
 xiva - Шива  

@@ -242,10 +242,9 @@
 **cosen** *Corea* ← kor:조선 (Joseon), jpn:朝鮮 (chōsen), zho:朝鲜 (zh) (Cháoxiǎn)  
 **culi** *proceso (procedimiento)* ← zho:处理 (chǔlǐ), yue:處理 (cyu2lei5), jpn:処理 (shori), kor:처리 (cheori), vie:xử lí  
 **cum** *beso* ← hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)  
-**cun** *aldea* ← zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn  
+**cun** *elegir (escoger, seleccionar)* ← hin:चुनना (cunnā) + vie:chọn + eng:choose + zho:选 (xuǎn), yue:選 (syun2)  
 **cupu** *chupar (succionar)* ← spa:por:chupar, khm:ជប់ (cup)  
-**cuti** *escapatoria* ← zho:出 (chū), yue:出 (ceot1), wuu:出 (tsheq4), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), vie:xuất, hin:छूटना (chūtnā) + tur:çıkmak  
-**cuze** *elección* ← eng:choose, + hin:चुनना (cunnā), + vie:chọn  
+**cuti** *salir (irse; escapatoria)* ← zho:出 (chū), yue:出 (ceot1), wuu:出 (ceq4), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), vie:xuất + hin:छूटना (chūtnā), may:cuti + tur:çıkmak  
 **da** *dar* ← spa:por:dar, rus:дать (dat'), fas: دادن‎ (dâdan), scr:দদাতি (dadāti), hin:देना (denā), ben:দেওয়া  (deva), tam:தா (tā)  
 **dai hai** *océano* ← zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)  
 **dai** *grande* ← yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)  
@@ -268,6 +267,7 @@
 **de** *de (desde)* ← fra:spa:por:de eng:de-  
 **de** *de (posposición de posesión)* ← fra:de,du, por:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)  
 **defa** *defensa* ← ara:(difāʿ), fas:(defâ'), hin:दफ़ा (dafā), urd:(difā'), + fra:eng:defense spa:defensa, por:defesa, tur:defans  
+**deha** *aldea* ← ara: ضَيْعَة (ḍayʿa), spa:aldea, por:aldeia + fas: ده‎ (deh), ben:দেহাত (dehat), may:desa, taj:деҳа (deha)  
 **dele** *demora (retraso)* ← eng:delay, fra:délai + hin:देरी (derī), urd: دیر‎ (der)  
 **demi** *pueblo (población)* ← eng:spa:demo-, fra:démo-, rus:демо- (demo-)  
 **demon** *demonio* ← eng:tur:demon, spa:demonio, por:demônio, fra:démon, deu:Dämon, rus:демон (demon)  
@@ -1143,7 +1143,7 @@
 **penis** *pene* ← eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)  
 **pente** *pintura* ← eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)  
 **pera** *pera* ← eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea + kor:배 (bae)  
-**perixe** *perecer* ← eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan)  
+**perex** ** ← eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan), ben:পেরেশান (pereśan)  
 **pesa** *dinero (plata)* ← hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso  
 **peta** ** ← eng:fra:spa:por:may:tur:peta-, rus:пета- (peta-), jpn:ペタ (peta), kor:페타- (peta-), zho:拍它- (pāitā-)  
 **pete** *barriga (vientre, panza)* ← ben:পেট (peṭ), hin:पेट (peṭ), may:perut, ara:(baṭn)  
@@ -1465,7 +1465,7 @@
 **tribu** *tribu* ← fra:spa:tribu, por:tgl:tribo, eng:tribe  
 **truke** *truco* ← eng:trick, deu:Trick, fra:truc, spa:truco, por:truque, hun:trükk, rus:трюк (tr’uk)  
 **tu** *tú (usted)* ← fra:por:tu, spa:tú, rus:ты (ty), hin:तू (tū), ben:তুই (tui)  
-**tualete** *inodoro (wáter, retrete)* ← fra:toilettes, eng:may:toilet, por:toalete, rus:туалет (tualet), tur:tuvalet, fas:توالت‎ (tuâlet), hin:टॉयलेट (ṭŏyaleṭ), jpn:トイレ (toire)  
+**tuale** *toalla* ← eng:towel, fra:touaille, spa:toalla, por:toalha, jpn:タオル (taoru), kor:타월 (tawol), hin:तौलिया (tauliyā), ben:তোয়ালে (toẏale), tam:துவாலை (tuvālai), may:tuala + deu:Toilette, rus:туалет (tualet), ara: تْوَالِيتّ‎ (twālitt), fas: توالت‎ (tuâlet), vie:toa-lét, tur:tuvalet  
 **tubo** *tubo* ← spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu, xho:íthumbu  
 **tufan** *tormenta (tempestad)* ← zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), swa:tufani, por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)  
 **tuh** *escupir (bufar)* ← hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek  

@@ -242,10 +242,9 @@
 **cosen** *Korea* ← Korean:조선 (Joseon), Japanese:朝鮮 (chōsen), Mandarin:朝鲜 (zh) (Cháoxiǎn)  
 **culi** *process (handling, treatment, procedure)* ← Mandarin:处理 (chǔlǐ), Cantonese:處理 (cyu2lei5), Japanese:処理 (shori), Korean:처리 (cheori), Vietnamese:xử lí  
 **cum** *kiss* ← Hindi:चूमना (cūmnā), Urdu:(cūmnā), Malayalam:ചുംബനം (cumbanaṃ), Malay:cium, Japanese:チュー (chū), Thai:จูบ (cup)  
-**cun** *village* ← Mandarin:村 (cūn), Cantonese:村 (cyun1), Japanese:村 (son), Korean:촌 (chon), Vietnamese:thôn  
+**cun** *choose (elect, select, pick; choice, selection)* ← Hindi:चुनना (cunnā) + Vietnamese:chọn + English:choose + Mandarin:选 (xuǎn), Cantonese:選 (syun2)  
 **cupu** *suck (absorb)* ← Spanish:Portuguese:chupar, Khmer:ជប់ (cup)  
-**cuti** *exit (leaving)* ← Mandarin:出 (chū), Cantonese:出 (ceot1), Wu-Chinese:出 (tsheq4), Hakka-Chinese:出 (chut), Japanese:出 (shutsu), Korean:출 (chul), Vietnamese:xuất, Hindi:छूटना (chūtnā) + Turkish:çıkmak  
-**cuze** *choice (election, selection)* ← English:choose, + Hindi:चुनना (cunnā), + Vietnamese:chọn  
+**cuti** *leave (go away, exit)* ← Mandarin:出 (chū), Cantonese:出 (ceot1), Wu-Chinese:出 (ceq4), Hakka-Chinese:出 (chut), Japanese:出 (shutsu), Korean:출 (chul), Vietnamese:xuất + Hindi:छूटना (chūtnā), Malay:cuti + Turkish:çıkmak  
 **da** *give* ← Spanish:Portuguese:dar, Russian:дать (dat'), Persian: دادن‎ (dâdan), scr:দদাতি (dadāti), Hindi:देना (denā), Bengali:দেওয়া  (deva), Tamil:தா (tā)  
 **dai hai** *ocean* ← Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)  
 **dai** *big (great, large)* ← Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai,tai), Korean:대— (dae-)  
@@ -268,6 +267,7 @@
 **de** *from (since, because)* ← French:Spanish:Portuguese:de English:de-  
 **de** *of (attributive preposition)* ← French:de,du, Portuguese:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)  
 **defa** *defense (defence)* ← Arabic:(difāʿ), Persian:(defâ'), Hindi:दफ़ा (dafā), Urdu:(difā'), + French:English:defense Spanish:defensa, Portuguese:defesa, Turkish:defans  
+**deha** *village* ← Arabic: ضَيْعَة (ḍayʿa), Spanish:aldea, Portuguese:aldeia + Persian: ده‎ (deh), Bengali:দেহাত (dehat), Malay:desa, taj:деҳа (deha)  
 **dele** *wait (delay)* ← English:delay, French:délai + Hindi:देरी (derī), Urdu: دیر‎ (der)  
 **demi** *people (population)* ← English:Spanish:demo-, French:démo-, Russian:демо- (demo-)  
 **demon** *demon* ← English:Turkish:demon, Spanish:demonio, Portuguese:demônio, French:démon, deu:Dämon, Russian:демон (demon)  
@@ -1143,7 +1143,7 @@
 **penis** *penis (phallus)* ← English:Turkish:Malay:penis, Spanish:pene, Portuguese:French:pénis, Russian:пенис (penis)  
 **pente** *paint* ← English:paint, Spanish:Portuguese:pintura, French:peinture, nld:pek, Japanese:ペンキ (penki), Hindi:पेंट (penṭa)  
 **pera** *pear* ← English:pear, French:poire, Spanish:Portuguese:pera, Malay:pir, Swahili:pea + Korean:배 (bae)  
-**perixe** *perish (ruin, waste away)* ← English:perish, French:périr, Spanish:Portuguese:perecer + Persian: پریش‎ (parêš), Turkish:perişan, Hindi:परेशान (pareśan)  
+**perex** *perished (ruined, devastated, wretched)* ← English:perish, French:périr, Spanish:Portuguese:perecer + Persian: پریش‎ (parêš), Turkish:perişan, Hindi:परेशान (pareśan), Bengali:পেরেশান (pereśan)  
 **pesa** *money* ← Hindi:पैसा (paisā), Marathi:पैसा (paisā), Punjabi:ਪੈਸਾ (pēsā), Gujarati:પૈસો (paiso), Arabic:(bēzāt), Swahili:pesa + Spanish:peso  
 **peta** *peta-* ← English:French:Spanish:Portuguese:Malay:Turkish:peta-, Russian:пета- (peta-), Japanese:ペタ (peta), Korean:페타- (peta-), Mandarin:拍它- (pāitā-)  
 **pete** *belly (stomach, abdomen)* ← Bengali:পেট (peṭ), Hindi:पेट (peṭ), Malay:perut, Arabic:(baṭn)  
@@ -1465,7 +1465,7 @@
 **tribu** *tribe* ← French:Spanish:tribu, Portuguese:Filipino:tribo, English:tribe  
 **truke** *trick (ruse, fraud)* ← English:trick, deu:Trick, French:truc, Spanish:truco, Portuguese:truque, Hungarian:trükk, Russian:трюк (tr’uk)  
 **tu** *you (singular)* ← French:Portuguese:tu, Spanish:tú, Russian:ты (ty), Hindi:तू (tū), Bengali:তুই (tui)  
-**tualete** *toilet (WC)* ← French:toilettes, English:Malay:toilet, Portuguese:toalete, Russian:туалет (tualet), Turkish:tuvalet, Persian:توالت‎ (tuâlet), Hindi:टॉयलेट (ṭŏyaleṭ), Japanese:トイレ (toire)  
+**tuale** *towel* ← English:towel, French:touaille, Spanish:toalla, Portuguese:toalha, Japanese:タオル (taoru), Korean:타월 (tawol), Hindi:तौलिया (tauliyā), Bengali:তোয়ালে (toẏale), Tamil:துவாலை (tuvālai), Malay:tuala + deu:Toilette, Russian:туалет (tualet), Arabic: تْوَالِيتّ‎ (twālitt), Persian: توالت‎ (tuâlet), Vietnamese:toa-lét, Turkish:tuvalet  
 **tubo** *tube (pipe)* ← Spanish:Portuguese:tubo, English:French:tube, Japanese:チューブ (chūbu), Zulu:ithumbu, xho:íthumbu  
 **tufan** *storm (tempest, typhoon, hurricane, cyclone)* ← Mandarin:大风 (dàfēng), Cantonese:大風 (daai6fung1), Korean:태풍 (taepung), Japanese:台風 (taifuu), Thai:ไต้ฝุ่น (taifun), Arabic:(ṭūfān), Persian:Urdu:(tufān), Hindi:तूफ़ान (tūfān), Swahili:tufani, Portuguese:tufão, Spanish:tifón, French:typhon, English:typhoon, Russian:тайфун (tayfun)  
 **tuh** *spit* ← Hindi: थूकना (thūknā), Mandarin: 吐 (tǔ), Turkish:tükürmek  

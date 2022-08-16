@@ -43,7 +43,7 @@ alcachofra-girassol (tupinambo) - masa mula sol hua
 alcalino - kali di  
 alcaravia (cariz) - karavi  
 alcaçuz (regaliz) - alkasus  
-aldeia (vila) - cun  
+aldeia (vila) - deha  
 alface - letus  
 alfarroba - karuba  
 alfinete - pin  
@@ -854,6 +854,7 @@ lançador de foguetes - rokete lanse gi
 laranja - oranje  
 lasanha - lazanya  
 lateral - late di  
+lavatorio (toalete) - tuale kamar  
 lawrêncio - laurence yum  
 leite - milke  
 leite de soja - soi milke  
@@ -1106,7 +1107,7 @@ online - a lin
 ontem - cen den  
 opinião - rai  
 opor - xatan  
-opção - cuze xe  
+opção - cunbil  
 ordem - ratibu  
 orelha - ore  
 orfanato - yatim dom  
@@ -1147,6 +1148,7 @@ pandemia - pan demi pati
 pantomima (mímica) - pan mima  
 papel - kaguji  
 papel de parede - mur kaguji  
+papel higiênico - tuale kaguji  
 papoila - medan papi  
 papoila-dormideira - sona papi  
 par - par jen  
@@ -1192,7 +1194,7 @@ pera - pera
 perdedor - xiti bai ja  
 perder - xiti  
 perdoar (desculpar) - fa maf  
-perecer - perixe  
+perecer - perex fa  
 perguntar - fa sual  
 perigo - hatar  
 perplexo (confuso) - ruhu mixe di  
@@ -1534,7 +1536,7 @@ tigre - bagre
 tijolo - dobe  
 tinta - kalam sui  
 titânio - titan yum  
-toalha - gan tela  
+toalha - tuale  
 toalha de mesa - meza tela  
 tomate - tomate  
 tomografia - tomigrafia  

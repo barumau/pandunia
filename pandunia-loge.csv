@@ -1,4 +1,4 @@
-morfe|pandunia|klase||logasle|english|france|espanya|portugal|rus|arabi|putongi han|nipon|chosen|viet|hindi|bangla|malayu|suahili|turki|esperanto|suomi|polski
+morfe|pandunia|klase||logasle|english|france|espanya|portugal|rus|arabi|putong han|nipon|chosen|viet|hindi|bangla|malayu|suahili|turki|esperanto|suomi|polski
 ----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------
 A|A||||A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A|A
 a.|a|prep.||fra:à, spa:por:a, eng:a-;ad-, rus:а- (a-)|by (at, in, on)|a (dans, en, chez)|en (a)|em|в (на)||在|||||||||ĉe (en, sur)|luona (-lla, -ssa)|przy, z, na, w, u
@@ -43,7 +43,7 @@ agresi.ja|agresi ja||||aggressor|agresseur|agresor|agressor|агрессор||�
 agresi.tabi|agresi tabi||||aggressive|agressif|agresivo|||||||||||||agresema|hyökkäävä (aggressiivinen)|agresywny
 agri|agri|||zho:农民 (nóng), yue:農民 (nung4), jpn:農 (nō), kor:농 (nong), vie:nông|cultivate (farm)|cultiver|cultivar|cultivar|выращивать||||||||||||viljellä|uprawić, uprawiać
 agri.bio.logi|agri bio logi||||agrobiology|agrobiologie|agrobiología|agrobiologia|агробиология||土壤生物学||||||||agrobiyoloji||maatalousbiologia|
-agri.cun|agri cun||||rural village||||||农村|農村|농촌|nông thôn|||||||maalaiskylä|
+agri.deha|agri deha||||rural village||||||农村|農村|농촌|nông thôn|||||||maalaiskylä|
 agri.di|agri di||||agricultural|agricole|agrícola|agrícola|аграрный|||||||||||agrikultura|maataloudellinen (agraari-)|
 agri.ja|agrija||||farmer||granjero (agricultor)||||||||||||||maanviljelijä|rolnik, farmer
 agri.nomi|agri nomi||||agronomy|agronomie|agronomía|agronomia|агрономия|عِلْم الزِرَاعَة‎|农学|農学|농학|nông học|||||agronomi|agronomio|agronomia (maatalous)|agronomia
@@ -667,14 +667,13 @@ cosen.di|cosen di||||Korean||coreano||||||||||||||korealainen|koreański
 Cuana|Cuana|dexa|BW||Botswana||Botsuana||||||||||||||Botswana|Botswana
 culi|culi|||zho:处理 (chǔlǐ), yue:處理 (cyu2lei5), jpn:処理 (shori), kor:처리 (cheori), vie:xử lí|process (handling, treatment, procedure)|traitement (processe)|proceso (procedimiento)|processo|процесс||处理|処理 (プロセス)|처리 (프로세스)||प्रबन्ध||proses||||käsittely (prosessi)|proces, procedura
 cum|cum|||hin:चूमना (cūmnā), urd:(cūmnā), mal:ചുംബനം (cumbanaṃ), may:cium, jpn:チュー (chū), tha:จูบ (cup)|kiss||beso|||||||||||||kiso|suukko (pusu)|całus
-cun|cun|||zho:村 (cūn), yue:村 (cyun1), jpn:村 (son), kor:촌 (chon), vie:thôn|village|village|aldea|aldeia (vila)|деревня (село)|قَرْيَة‎|村|村|마을 (촌락)|làng (thôn)|गांव (देहात)|গ্রাম|desa|kijiji|köy|vilaĝo|kylä|wieś, wioska
+cun|cun|||hin:चुनना (cunnā) + vie:chọn + eng:choose + zho:选 (xuǎn), yue:選 (syun2)|choose (elect, select, pick; choice, selection)||elegir (escoger, seleccionar)||||选|||chọn (lựa)||||||elekti|valita (valinta)|wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja)
+cun.bil|cunbil||||option (choice, preference)|option|opción (preferencia)|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
+cun.liste|cun liste||||menu (catalog)||menú (catálogo)|||||品書き (メニュー)|||||menu (daftar)|||||
+cun.yo.gol|cun yo gol||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
 cupu|cupu|||spa:por:chupar, khm:ជប់ (cup)|suck (absorb)||chupar (succionar)|||||||||||||suĉi|imeä|ssać
-cuti|cuti|||zho:出 (chū), yue:出 (ceot1), wuu:出 (tsheq4), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), vie:xuất, hin:छूटना (chūtnā) + tur:çıkmak|exit (leaving)||escapatoria|||||||||||||eliro|poistuminen|wyjśćie, opuszczenie
+cuti|cuti|||zho:出 (chū), yue:出 (ceot1), wuu:出 (ceq4), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), vie:xuất + hin:छूटना (chūtnā), may:cuti + tur:çıkmak|leave (go away, exit)||salir (irse; escapatoria)||||出||||निकलना (छूटना)|||||eliri|poistua (lähteä pois, mennä pois)|wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie)
 cuti.mun|cuti mun||||exit door||salida|||||||||||||elirejo|uloskäynti|drzwi wyjściowe
-cuze|cuze|||eng:choose, + hin:चुनना (cunnā), + vie:chọn|choice (election, selection)||elección|||||||||||||elekto|valinta (vaali)|wybór, elekcja, selekcja
-cuze.liste|cuze liste||||menu (catalog)||menú (catálogo)|||||品書き (メニュー)|||||menu (daftar)|||||
-cuze.xe|cuze xe||||option (choice, preference)|option|opción (preferencia)|opção|||选择 (买卖权)|オプション (選択)|||||||||vaihtoehto|opcja (wybór)
-cuze.yo.gol|cuze yo gol||||destine (set)||destinar||||||||||||||määrätä|przeznaczyć
 D|D||||D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D|D
 da|da|||spa:por:dar, rus:дать (dat'), fas: دادن‎ (dâdan), scr:দদাতি (dadāti), hin:देना (denā), ben:দেওয়া  (deva), tam:தா (tā)|give|donner|dar|dar|дать|||あげる (くれる)|||देना|দেওয়া||||doni|antaa|dać, dawać
 da.tabi|databi||||generous (open-handed)|généreux|generoso (dadivoso)|generoso (dadivoso, mão-aberta)|щедрый|كَرِيم‎||||||||karimu||malavara|antelias (avokätinen)|
@@ -754,6 +753,7 @@ defa|defa|||ara:(difāʿ), fas:(defâ'), hin:दफ़ा (dafā), urd:(difā'),
 defa.bano|defa bano||||shield|bouclire|escudo|escudo|щит||盾牌|盾|||||||||suojakilpi|tarcza
 defa.ja|defa ja||||defender||defensor|||||||||||||defendanto (defendisto)|puolustaja|obrońca
 defa.kaske|defa kaska||||armor (shielding)|armure|armadura|armadura|доспехи||盔甲|鎧|||||||||suojakypärä|zbroja
+deha|deha|||ara: ضَيْعَة (ḍayʿa), spa:aldea, por:aldeia + fas: ده‎ (deh), ben:দেহাত (dehat), may:desa, taj:деҳа (deha)|village|village|aldea|aldeia (vila)|деревня (село)|قَرْيَة‎|村|村|마을 (촌락)|làng (thôn)|गांव (देहात)|গ্রাম|desa|kijiji|köy|vilaĝo|kylä|wieś, wioska
 Deimos|Deimos|planete 4 lun 2|||Deimos||||||||||||||||Deimos|
 dele|dele|||eng:delay, fra:délai + hin:देरी (derī), urd: دیر‎ (der)|wait (delay)|délai (retard)|demora (retraso)|demora (atraso, espera)|||迟延|遅れ (遅延)|지연||||||||viive (odotus)|
 dele.do|dele do||||wait for||esperar|||||||||||||atendi|odottaa|czekać
@@ -1018,8 +1018,6 @@ fa.budi|fa budi||||realize||darse cuenta (notar)|||||||||||||kompreni|ymmärtä�
 fa.cape|fa cape||||press (imprint)||imprimir|||||||||||||presi|painaa (leimata)|naciskać, zostawiać ślad
 fa.cori|fa cori||||steal||robar (hurtar)|||||||||||||ŝteli|varastaa|ukraść, kraść
 fa.culi|fa culi||||treat (handle, manage, process)|traiter|tratar (llevar, manejar, lidiar, procesar)|tratar (lidar, procesar)|обращаться (обработать, обрабатываться, разбираться)||处理 (对待)|扱う (処理する)||xử lí|प्रबन्ध करना (पेश आना, संभालना)||perlakukanlah|kumudu|||käsitellä (kohdella, pidellä, prosessoida)|traktować
-fa.cuti|fa cuti||||leave (go out, exit)||salir (irse)|||||||||||||eliri|poistua|wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać
-fa.cuze|fa cuze||||choose (elect, select, pick)||elegir (escoger, seleccionar)|||||||||||||elekti|valita|wybrać, wybierać, selekcjonować
 fa.daka|fa daka|||hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck|cover (conceal)|couvrir|cubrir (tapar)||||||||ढकना|ঢাকা||||kovri|peittää|przykryć, przykrywać, ukryć, ukrywać
 fa.dalil|fa dalil||||prove (demonstrate, testify)||probar (demonstrar, comprobar)||||||||||||||todistaa|dowieść, dowodzić; zeznać, zeznawać
 fa.dante|fa dante||||bite|mordre|morder|morder|откусить|مَضَغَ‎|咬|咬む|물어떼다 (깨물다)|cắn|||gigit|kuuma|ısırmak|mordi|purra|
@@ -1493,7 +1491,6 @@ gan|gan|||zho:干 (gān), yue:乾 (gon1), jpn:乾 (kan), kor:건 (geon)|dry||sec
 gan.cau|gan cau||||hay|foin|heno|feno|сено||干草|干し草|||||||||heinä|siano
 gan.mosim|gan mosim|mosim|||dry season||||||||||||musim kemarau||||kuivakausi|
 gan.putau|gan putau|||kor:건포도 (geonpodo), zho:葡萄干 (pútáogān)|raisin||pasa (uva pasa)|||||||||||||sekvinbero|rusina|rodzynka
-gan.tela|gan tela||||towel|serviette|toalla|toalha|||||||तौलिया|||||viŝilo|pyyheliina|ręcznik
 Gana|Gana|dexa|GH||Ghana||Ghana||||||||||||||Ghana|Ghana
 gana|gana|||heb: קָנֶה‎ (qané), ara: قَنَاة‎ (qanāh) + eng:cane, fra:canne, spa:caña, por:cana + zho:秆 (gǎn), yue:稈 (gon2) + (sugarcane) hin:गन्ना (gannā), pnb:ਗੰਨਾ (gannā)|reed (cane)|canne|caña|cana|||秆||||||||||ruoko|
 gana.kalam|gana kalam||||reed pen|calame|cálamo|cálamo|||蘆葦筆||||||kalam||kamış kalem|kalamo|ruokokynä|
@@ -2119,6 +2116,7 @@ kape.yo.taxi|kape yo taxi||||collect fees or taxes||gravar (cobrar tasas)|||||||
 kar|kar|||fas: کار (kâr), hin:कार (kār), कार्य (kārya), ben:কাজ (kaj), may:karya,kerja + swa:kazi|work|travailler|trabajar|trabalhar|работать|عَمِلَ|工作|働く|일하다|làm việc|काम करना|কাম কৰা|bekerja|kufanya kazi|işlemek (çalışmak)||työskennellä|pracować
 kar-dus|• duskar||||misdeed (sin, vice)|méfait (péché)|pecado|malfeitoria (pecado)||||悪事|||||||||synti (paha teko)|
 kar-kon|• konkar||||collaborate (work together)|collaborer|colaborar|colaborar|сотрудничать (кооперировать)||合作|共同して働|공동으로 일하다||||kerjasama|||kunlabori|tehdä yhteistyötä|współpracować (kolaborować)
+kar.cuti|kar cuti||||leave (absence from work)||||||||||छुट्टी||cuti||||vapaa (poissaolo töistä)|
 kar.ja|karja||||worker|travailleur (ouvrier)|trabajador (obrero)|trabalhador|работник|عَامِل|工人 (工作者)|労働者|노동자|công nhân|मज़दूर (कर्मी)|কর্মী|pekerja||işçi|laboristo|työntekijä (työläinen)|pracownik
 kar.kan|karkan||||workshop||||||工厂||||कारख़ाना|কারখানা||||laborejo|paja (työpaja)|
 kar.lexi|kar lexi||||verb|verbe|verbo|verbo|глагол||动词|動詞|동사|động từ|क्रिया|ক্রিয়া|kata kerja|kitenzi|fiil|verbo|verbi (teonsana)|czasownik
@@ -2226,7 +2224,7 @@ kino.grafi.kan|kino grafikan||||movie theatre||||||||||||||||elokuvateatteri|
 Kinxasa|Kinxasa|xefsite|CD||Kinshasa|Kinshasa|||||||||||||||Kinshasa|
 Kinxasa.Kongo|Kinxasa Kongo|dexa|CD||Congo Kinshasa||República Democrática del Congo||||||||||||||Kinshasan Kongo|Demokratyczna Republika Konga
 kio|kio|||zho:桥 (qiáo), yue:橋 (kiu4), wuu:橋 (jío), jpn:橋 (kyō), kor:교 (...gyo), vie:cầu|bridge|pont|puente|ponte|||桥|橋 (橋梁)||||||||ponto|silta|most
-kioske|kioske|||fas:کوشک‎ (kôšk), eng:tur:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|kiosk||quiosco (kiosco)||||||||||||||kioski|kiosk
+kioske|kioske|||fas:کوشک‎ (kôšk), tur:köşk; kiosk, eng:kiosk, spa:quiosco, por:quiosque, rus:киоск (kiosk), hin:कीओस्क (kīosk), may:kios, jpn:キオスク (kiosuku)|kiosk (pavilion)|pavillon|quiosco (kiosco, pabellón)|quisque (pavilhão)|киоск (павильон)||||||||||||kioski (paviljonki)|kiosk
 Kipris|Kipris|dexa|CY||Cyprus||Chipre||||||||||||||Kypros|Cypr
 kira|kira|||ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler|carat||alquiler (arriendo)||аренда|||賃貸|||||||||vuokra|wynająć, wynajmować, zatrudnić, zatrudniać
 kira.da|kira da||||rent out (let, lease)||alquilar (arrendar, dar en arriendo)||||||||||||||vuokrata|wynająć, oddać w najem
@@ -3235,8 +3233,8 @@ pente.broxa|pente broxa||||paintbrush|pinceau|pincel|pincel|кисть|فُرْ�
 pente.ja|pente ja||||painter||pintor||художник|||画家 (絵かき)|||||||||maalari|malarz
 pente.tela|pente tela||||canvas|canevas (toile)|tela|tela|полотно||画布|||||||||kanvaso|taulukangas|
 pera|pera|bio||eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea + kor:배 (bae)|pear|poire|pera|pera|груша|كُمَّثْرَى‎|梨|梨|배 (서양배)|lê|नाशपाती|নাশপাতি|pir|pea|armut|piro|päärynä|gruszka
-perixe|perixe|||eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan)|perish (ruin, waste away)|périr|perecer|perecer|||||||||||||hävittää (hajottaa)|
-perixe.di|perixe di||||perished (ruined, desolate, wretched, miserable)||||||||||परेशान||||perişan||hajalla|
+perex|perex|||eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan), ben:পেরেশান (pereśan)|perished (ruined, devastated, wretched)||||||||||परेशान||||perişan||hajalla|
+perex.fa|perex fa||||perish (ruin, dishevel, devastate, desolate)|périr|perecer|perecer|||||||||||perişan etmek||hajottaa (hävittää, raunioittaa)|
 Peru|Peru|dexa|PE||Peru||Perú||||||||||||||Peru|Peru
 pesa|pesa|||hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso|money|argent|dinero (plata)|dinheiro|деньги|فُلُوس‎|钱|金|돈 (금전)|tiền|पैसा|অর্থ (টাকা)|uang (wang)|pes:a|para|mono|raha|pieniądze
 pesa.diske|pesa diske||||coin|monnaie (pièce)|moneda|moeda|монета||硬币||||सिक्का||keping||madeni para|monero|kolikko|moneta
@@ -4070,7 +4068,9 @@ tu.men|tumen|pron.|||you all||ustedes||||你们|あなたたち||||||||vi ĉiu|t
 tu.men.su|tumen su||||your|votre|vuestro|vosso|ваш||你们的|||||||||via|teidän|
 tu.mi.men|tumimen|bine|pron.||we (inclusive we)||||||咱们||||||kita|||ni ĉiuj|me ja sinä|
 tu.su|tu su||||your||tu|||||あなたの||||||||via (cia)|sinun|twój
-tualete|tualete|||fra:toilettes, eng:may:toilet, por:toalete, rus:туалет (tualet), tur:tuvalet, fas:توالت‎ (tuâlet), hin:टॉयलेट (ṭŏyaleṭ), jpn:トイレ (toire)|toilet (WC)||inodoro (wáter, retrete)||||||||||||||vessa|taleta, WC
+tuale|tuale|||eng:towel, fra:touaille, spa:toalla, por:toalha, jpn:タオル (taoru), kor:타월 (tawol), hin:तौलिया (tauliyā), ben:তোয়ালে (toẏale), tam:துவாலை (tuvālai), may:tuala + deu:Toilette, rus:туалет (tualet), ara: تْوَالِيتّ‎ (twālitt), fas: توالت‎ (tuâlet), vie:toa-lét, tur:tuvalet|towel|serviette|toalla|toalha|||||||तौलिया|||||viŝilo|pyyheliina|ręcznik
+tuale.kaguji|tuale kaguji||||toilet paper|papier toilette (papier hygiénique)|papel higiénico|papel higiênico|туалетная бумага|وَرَق اَلْمِرْحَاض‎|卫生纸|ちり紙 (トイレットペーパー)|화장지|giấy vệ sinh|टॉयलेट पेपर|টয়লেট পেপার|kertas toilet|karatasi ya choo|tuvalet kağıdı|neceseja papero|vessapaperi|papier toaletowy
+tuale.kamar|tuale kamar||||toilet (bathrooom, WC)|toilette (cabinet, waters)|inodoro (wáter, retrete)|lavatorio (toalete)|туалет (уборная, клозет)|مِرْحَاض‎|厕所|トイレ (手洗い)|뒷간|vệ sinh (toa-lét)|शौचालय |শৌচাগার (পায়খানা)|kamar kecil (bilik air, toilet)|choo|tuvalet|necesejo|vessa|taleta, WC
 tubo|tubo|||spa:por:tubo, eng:fra:tube, jpn:チューブ (chūbu), zul:ithumbu, xho:íthumbu|tube (pipe)||tubo|||||||||||||tubo|putki (tuubi)|tuba, rura
 tufan|tufan|||zho:大风 (dàfēng), yue:大風 (daai6fung1), kor:태풍 (taepung), jpn:台風 (taifuu), tha:ไต้ฝุ่น (taifun), ara:(ṭūfān), fas:urd:(tufān), hin:तूफ़ान (tūfān), swa:tufani, por:tufão, spa:tifón, fra:typhon, eng:typhoon, rus:тайфун (tayfun)|storm (tempest, typhoon, hurricane, cyclone)||tormenta (tempestad)|||||||||||tufani||ŝtormo|myrsky|burza, sztorm, tajfun
 tuh|tuh|||hin: थूकना (thūknā), zho: 吐 (tǔ), tur:tükürmek|spit||escupir (bufar)|||||||||||||sputi|sylkeä|pluć
@@ -4338,6 +4338,7 @@ xiti.bai|xiti bai|||zho:失败 (shībài), jpn:失敗 (shippai), kor:실패 (ši
 xiti.bai.ja|xiti bai ja||||loser|perdant|perdedor|perdedor|||||||||||||häviäjä|przegrany, pokonany
 xiu|xiu|||zho:小 (xiǎo), yue:小 (siu2), jpn:小 (shō), kor:소 (so), vie:tiểu|little (small)|petit|pequeño|pequeno|маленький (малый)||小|小さい|작은|nhỏ|छोटा|কম|||küçük|malgranda|pieni|mały
 xiu.bol|xiu bol||||bubble||burbuja (pompa)|||||||||||||bobelo|kupla|bańka
+xiu.deha|xiu deha||||small village (hamlet)|hameau|aldehuela||деревушка||小村|村落|촌락||||kampung|||vilaĝeto|pikkukylä|
 xiu.kaboga|xiu kaboga|bio|Cucurbita pepo||zucchini|courgette|calabacín|abobrinha|цукини||西葫芦|ズッキーニ||||||||||cukinia
 xiu.seku|xiu seku||||pebble (gravel)|caillou||pedrinha|галька||砾石|小石|자갈||||||çakıl|ŝtoneto|sorakivi|kamyk
 xiu.siti|xiu siti||||small town|||||||||||||||urbeto|pikkukaupunki|

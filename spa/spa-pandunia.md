@@ -115,7 +115,8 @@ alcachofera - karcof
 alcalino - kali di  
 alcohol - alkol  
 alcohólico - alkol di  
-aldea - cun  
+aldea - deha  
+aldehuela - xiu deha  
 Alemania - Doice  
 alemán - doice di  
 alfabeto - zi sili  
@@ -1120,7 +1121,7 @@ despierto - jaga
 desplumar - depena  
 despreciar (desdeñar) - fa paraya  
 destapar - andaka  
-destinar - cuze yo gol  
+destinar - cun yo gol  
 destino - kisma  
 detalle - detal  
 determinado (cierto, definido) - ding  
@@ -1251,12 +1252,11 @@ ejército - gun
 el (la) - la  
 El Salvador - Salvador  
 el uno al otro (mutuamente) - semon  
-elección - cuze  
 electricidad - eletro  
 electrón - eletron  
 elefante - gaja  
 elegante (chic) - xike  
-elegir (escoger, seleccionar) - fa cuze  
+elegir (escoger, seleccionar) - cun  
 elemento (unidad fundamental) - so  
 elemento químico - kimi so  
 elfo - elfe  
@@ -1344,7 +1344,6 @@ escama - xalke
 Escandinavia - Eskandinavia  
 escandio - eskandi yum  
 escaparse (evitar, huir) - bega  
-escapatoria - cuti  
 escarcha - hima rose  
 escasez - kamta  
 escasez - xauta  
@@ -1933,7 +1932,7 @@ inmigrar - in migra
 innato (endógeno) - innati  
 innecesario - anyau di  
 innominado - nam hin  
-inodoro (wáter, retrete) - tualete  
+inodoro (wáter, retrete) - tuale kamar  
 inquisitivo (curioso) - sabe vol ja  
 insecto - dudu  
 insomnio - ansona  
@@ -2382,7 +2381,7 @@ menta - minta
 menta acuática - sui minta  
 mental (psíquico) - ruhu di  
 menú (carta) - yam liste  
-menú (catálogo) - cuze liste  
+menú (catálogo) - cun liste  
 mercado (bazar) - bazar  
 mercurio - hidrargente  
 Mercurio - Merkur  
@@ -2691,7 +2690,7 @@ ominoso (amenazador) - dus sin di
 Omán - Oman  
 onda - onda  
 opaco - antranse vide di  
-opción (preferencia) - cuze xe  
+opción (preferencia) - cunbil  
 opinar - fa rai  
 opinión (juicio, consideración) - rai  
 oponerse (resistir) - xatan  
@@ -2779,6 +2778,7 @@ papa - patate
 papaya - papaya  
 papel - kaguji  
 papel - rol  
+papel higiénico - tuale kaguji  
 papel tapiz - mur kaguji  
 Papúa Nueva Guinea - Papua neu Ginia  
 paquete - pake  
@@ -2885,7 +2885,7 @@ perder - xiti
 perdonar (disculpar) - fa maf  
 perdurable (longevo, prolongado) - long dur di  
 perdón - maf  
-perecer - perixe  
+perecer - perex fa  
 perfeccionar - fa pul bon  
 perfecto - pul bon  
 perfecto - perfete  
@@ -3369,7 +3369,7 @@ salchicha - sosis
 salida - cuti mun  
 salino - yem di  
 salir (egresar) - be vai  
-salir (irse) - fa cuti  
+salir (irse; escapatoria) - cuti  
 salmodiar - fa mantra  
 salmón (trucha) - salmon  
 salmón chum (keta) - baku salmon  
@@ -3696,7 +3696,7 @@ tirar (lanzar, echar, arrojar, aventar) - lanse
 tirar - tire  
 tiro con arco - arka suta  
 titanio - titan yum  
-toalla - gan tela  
+toalla - tuale  
 tocar (rozar) - tocu  
 tocar música - fa muzika  
 todas las cosas - pan xe  

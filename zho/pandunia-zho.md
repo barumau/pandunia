@@ -22,7 +22,7 @@ agile - 灵活的
 agresi - 攻击  
 agresi ja - 侵略者  
 agri bio logi - 土壤生物学  
-agri cun - 农村  
+agri deha - 农村  
 agri nomi - 农学  
 air - 空气  
 • anair bio di - 厌氧的  
@@ -277,8 +277,9 @@ coklate kane - 巧克力棒
 congcing - 重庆  
 copu - 锄头  
 culi - 处理  
-cun - 村  
-cuze xe - 选择 (买卖权)  
+cun - 选  
+cunbil - 选择 (买卖权)  
+cuti - 出  
 
 ## D  
 
@@ -308,6 +309,7 @@ dava xelogi - 药理学
 de - 从  
 defa bano - 盾牌  
 defa kaska - 盔甲  
+deha - 村  
 dele - 迟延  
 den - 日 (天)  
 den un - 星期一 (禮拜一)  
@@ -1458,6 +1460,8 @@ tu - 你
 tumen - 你们  
 tumen su - 你们的  
 tumimen - 咱们  
+tuale kaguji - 卫生纸  
+tuale kamar - 厕所  
 tule yum - 铥  
 tuna - 金枪鱼  
 turbin - 涡轮机  
@@ -1555,6 +1559,7 @@ xite - 粪 (屎)
 xiti - 亏损 (失去)  
 xiti bai - 失败  
 xiu - 小  
+xiu deha - 小村  
 xiu kaboga - 西葫芦  
 xiu seku - 砾石  
 xiva - 湿婆  

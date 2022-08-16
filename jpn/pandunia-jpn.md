@@ -13,7 +13,7 @@ acini yum - アクチニウム
 ada - 習慣 (風俗)  
 adamas - 金剛石 (ダイヤモンド)  
 Afghan - アフガニスタン  
-agri cun - 農村  
+agri deha - 農村  
 agri nomi - 農学  
 air - 空気  
 air bio di - 好気性  
@@ -252,9 +252,8 @@ coklate - チョコレート
 coklate kane - チョコバー  
 copu - クワ  
 culi - 処理 (プロセス)  
-cun - 村  
-cuze liste - 品書き (メニュー)  
-cuze xe - オプション (選択)  
+cunbil - オプション (選択)  
+cun liste - 品書き (メニュー)  
 
 ## D  
 
@@ -287,6 +286,7 @@ dava xe - 薬 (医薬品)
 de - -から  
 defa bano - 盾  
 defa kaska - 鎧  
+deha - 村  
 dele - 遅れ (遅延)  
 demon - 悪魔  
 den - 日  
@@ -1509,6 +1509,8 @@ truke - 悪戯 (詐欺)
 tu - あなた  
 tumen - あなたたち  
 tu su - あなたの  
+tuale kaguji - ちり紙 (トイレットペーパー)  
+tuale kamar - トイレ (手洗い)  
 tule yum - ツリウム  
 tuna - 鮪 (ツナ)  
 turbe - 悩む (わざわざする)  
@@ -1609,6 +1611,7 @@ xite - 糞 (屎)
 xiti - 失う (無くす, 落とす)  
 xiti bai - 失敗  
 xiu - 小さい  
+xiu deha - 村落  
 xiu kaboga - ズッキーニ  
 xiu seku - 小石  
 xiu zi - 小文字  

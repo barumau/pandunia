@@ -1902,7 +1902,7 @@ on, ona, ono - ya
 oni - yamen  
 online (na linii, w sieci) - a lin  
 opaska do włosów - kexa bande  
-opcja (wybór) - cuze xe  
+opcja (wybór) - cunbil  
 opinia, pogląd - rai  
 opis, przedstawienie; wykres - grafi  
 opisać (zakwalifikować) - fa sifa  
@@ -1996,6 +1996,7 @@ panteon - pan deu
 papaja - papaya  
 papeda - karse limon  
 papier - kaguji  
+papier toaletowy - tuale kaguji  
 papieros (cygar) - sigar  
 paproć - parne  
 papryka - cili  
@@ -2367,7 +2368,7 @@ przewodnik - gida ja
 przewód (kanał) - kanal ja  
 przeziębienie, katar - zukam  
 przeznaczenie, los - kisma  
-przeznaczyć - cuze yo gol  
+przeznaczyć - cun yo gol  
 przeźroczysty, jasny - klar  
 przy, z, na, w, u - a  
 przyczepić, przymocować - fa fixe  
@@ -2607,7 +2608,7 @@ różnica - alo sifa
 różny (inny) - alo sifa di  
 różny (różnorodny) - vari  
 różowy, różany - rode rang  
-ręcznik - gan tela  
+ręcznik - tuale  
 ręczny - hande di  
 ręka, dłoń - hande  
 rękaw - kamisa xaka  
@@ -2953,7 +2954,7 @@ taksometr - taxi metre gi
 taktyka, strategia - tatike  
 tal - tali yum  
 talerz - plate tasa  
-taleta, WC - tualete  
+taleta, WC - tuale kamar  
 tamilski - Tamil  
 tamten - vo  
 Tanach, Biblia hebrajska - tanah  
@@ -3263,7 +3264,7 @@ Wietnam - Viete
 wietnamski - viete baxa  
 wiewiórka - ekore  
 wieś, tereny wiejskie - agri stan  
-wieś, wioska - cun  
+wieś, wioska - deha  
 wieża - minare  
 wieża zegarowa - hor loga minar  
 wilk - volfe  
@@ -3342,11 +3343,10 @@ wszystko - pan xe
 wtorek - den du  
 wulkan - hogo san  
 wy, was - tumen  
-wybrać, wybierać, selekcjonować - fa cuze  
+wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja) - cun  
 wybrzeże - hai kinar  
 Wybrzeże Kości Słowniowej - Kote de Ivar  
 wybuch (eksplozja) - bum  
-wybór, elekcja, selekcja - cuze  
 wycie, skowyt - ulul  
 wyczyścić, czyścić - fa safa  
 wydarzenie, przypadek, sytuacja - kasu  
@@ -3355,8 +3355,7 @@ wydra - lotra
 wygiąć, wyginać, zgiąć, zginać, zakrzywić, zakrzywiać - kurva  
 wygląd - rupa  
 wyglądać (wydawać się) - be rupa  
-wyjść, wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać - fa cuti  
-wyjśćie, opuszczenie - cuti  
+wyjść (wychodzić, wyjechać, wyjeżdżać, wypłynąć, wypływać; wyjśćie, opuszczenie) - cuti  
 wyklarować (rozjaśnić) - fa klar  
 wymagać, przewidywać - fa xarti  
 wymawiać (wymówić) - fa fon  

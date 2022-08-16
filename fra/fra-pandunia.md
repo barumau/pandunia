@@ -815,6 +815,7 @@ habiller (vêtir) - fa fuku
 hafnium - hafen yum  
 haine - hen  
 halte - halte  
+hameau - xiu deha  
 hameçon - pexe huke  
 hassium - hese yum  
 haut - gau  
@@ -1226,7 +1227,7 @@ ombrelle (parasol) - sol cati
 on - men  
 oncille - bagre oselote  
 onde - onda  
-option - cuze xe  
+option - cunbil  
 or - auro  
 orange (couleur) - oranje rang  
 orange (fruit) - oranje  
@@ -1285,6 +1286,7 @@ paon - mayur
 papaye - papaya  
 papier - kaguji  
 papier peint - mur kaguji  
+papier toilette (papier hygiénique) - tuale kaguji  
 papillon - pelpel  
 paquet - pake  
 par exemple - to misal  
@@ -1473,7 +1475,7 @@ pâte (pulpe, foufou) - fufu
 pâte - pasta  
 pâte à modeler - plasti paste  
 pénal - fatu di  
-périr - perixe  
+périr - perex fa  
 péter - fa pede  
 pétrole (essence) - petra nefte  
 pêcheur - pexe saide ja  
@@ -1633,7 +1635,7 @@ sentir qqch (avoir l'odeur de qqch) - fa aroma
 sentir qqch - fa aroma  
 sept (7) - ceti  
 serrure - tala  
-serviette - gan tela  
+serviette - tuale  
 seul (unique) - un di  
 sexe - jinse  
 sexologie - sexe logi  
@@ -1744,6 +1746,7 @@ tissu - tela
 titane - titan yum  
 titre - tema nam  
 toile d'araignée (arantèle) - arane nete  
+toilette (cabinet, waters) - tuale kamar  
 toit - cati  
 tomate - tomate  
 tombe (enterrer) - gabur  
@@ -1843,7 +1846,7 @@ vieux (ancien) - cen zaman di
 vieux (âgé, ancien) - lau  
 vigne - eskale tana  
 vignoble - putau bagi  
-village - cun  
+village - deha  
 ville - siti  
 vin de riz - varis vin  
 violet (pourpre) - violeta nil  

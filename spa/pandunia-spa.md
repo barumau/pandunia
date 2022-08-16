@@ -592,14 +592,13 @@ cosen di - coreano
 Cuana - Botsuana  
 culi - proceso (procedimiento)  
 cum - beso  
-cun - aldea  
+cun - elegir (escoger, seleccionar)  
+cunbil - opción (preferencia)  
+cun liste - menú (catálogo)  
+cun yo gol - destinar  
 cupu - chupar (succionar)  
-cuti - escapatoria  
+cuti - salir (irse; escapatoria)  
 cuti mun - salida  
-cuze - elección  
-cuze liste - menú (catálogo)  
-cuze xe - opción (preferencia)  
-cuze yo gol - destinar  
 
 ## D  
 
@@ -670,6 +669,7 @@ defa - defensa
 defa bano - escudo  
 defa ja - defensor  
 defa kaska - armadura  
+deha - aldea  
 dele - demora (retraso)  
 dele do - esperar  
 demi - pueblo (población)  
@@ -898,8 +898,6 @@ fa budi - darse cuenta (notar)
 fa cape - imprimir  
 fa cori - robar (hurtar)  
 fa culi - tratar (llevar, manejar, lidiar, procesar)  
-fa cuti - salir (irse)  
-fa cuze - elegir (escoger, seleccionar)  
 fa daka - cubrir (tapar)  
 fa dalil - probar (demonstrar, comprobar)  
 fa dante - morder  
@@ -1319,7 +1317,6 @@ gamo zi - emoticón (emoyi)
 gan - seco (árido)  
 gan cau - heno  
 gan putau - pasa (uva pasa)  
-gan tela - toalla  
 Gana - Ghana  
 gana - caña  
 gana kalam - cálamo  
@@ -2882,7 +2879,7 @@ pente broxa - pincel
 pente ja - pintor  
 pente tela - tela  
 pera - pera  
-perixe - perecer  
+perex fa - perecer  
 Peru - Perú  
 pesa - dinero (plata)  
 pesa diske - moneda  
@@ -3636,7 +3633,9 @@ tu - tú (usted)
 tumen - ustedes  
 tumen su - vuestro  
 tu su - tu  
-tualete - inodoro (wáter, retrete)  
+tuale - toalla  
+tuale kaguji - papel higiénico  
+tuale kamar - inodoro (wáter, retrete)  
 tubo - tubo  
 tufan - tormenta (tempestad)  
 tuh - escupir (bufar)  
@@ -3869,6 +3868,7 @@ xiti bai - fracaso
 xiti bai ja - perdedor  
 xiu - pequeño  
 xiu bol - burbuja (pompa)  
+xiu deha - aldehuela  
 xiu kaboga - calabacín  
 xiu yam - tentempié  
 xiu zi - minúscula  

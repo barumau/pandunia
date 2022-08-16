@@ -80,7 +80,7 @@ agresi ja - aggressor
 agresi tabi - aggressive  
 agri - cultivate (farm)  
 agri bio logi - agrobiology  
-agri cun - rural village  
+agri deha - rural village  
 agri di - agricultural  
 agrija - farmer  
 agri nomi - agronomy  
@@ -707,14 +707,13 @@ cosen di - Korean
 Cuana - Botswana  
 culi - process (handling, treatment, procedure)  
 cum - kiss  
-cun - village  
+cun - choose (elect, select, pick; choice, selection)  
+cunbil - option (choice, preference)  
+cun liste - menu (catalog)  
+cun yo gol - destine (set)  
 cupu - suck (absorb)  
-cuti - exit (leaving)  
+cuti - leave (go away, exit)  
 cuti mun - exit door  
-cuze - choice (election, selection)  
-cuze liste - menu (catalog)  
-cuze xe - option (choice, preference)  
-cuze yo gol - destine (set)  
 
 ## D  
 
@@ -796,6 +795,7 @@ defa - defense (defence)
 defa bano - shield  
 defa ja - defender  
 defa kaska - armor (shielding)  
+deha - village  
 Deimos - Deimos  
 dele - wait (delay)  
 dele do - wait for  
@@ -1064,8 +1064,6 @@ fa budi - realize
 fa cape - press (imprint)  
 fa cori - steal  
 fa culi - treat (handle, manage, process)  
-fa cuti - leave (go out, exit)  
-fa cuze - choose (elect, select, pick)  
 fa daka - cover (conceal)  
 fa dalil - prove (demonstrate, testify)  
 fa dante - bite  
@@ -1541,7 +1539,6 @@ gan - dry
 gan cau - hay  
 gan mosim - dry season  
 gan putau - raisin  
-gan tela - towel  
 Gana - Ghana  
 gana - reed (cane)  
 gana kalam - reed pen  
@@ -2174,6 +2171,7 @@ kape yo taxi - collect fees or taxes
 kar - work  
 • duskar - misdeed (sin, vice)  
 • konkar - collaborate (work together)  
+kar cuti - leave (absence from work)  
 karja - worker  
 karkan - workshop  
 kar lexi - verb  
@@ -3296,8 +3294,8 @@ pente broxa - paintbrush
 pente ja - painter  
 pente tela - canvas  
 pera - pear  
-perixe - perish (ruin, waste away)  
-perixe di - perished (ruined, desolate, wretched, miserable)  
+perex - perished (ruined, devastated, wretched)  
+perex fa - perish (ruin, dishevel, devastate, desolate)  
 Peru - Peru  
 pesa - money  
 pesa diske - coin  
@@ -4136,7 +4134,9 @@ tumen - you all
 tumen su - your  
 tumimen - we (inclusive we)  
 tu su - your  
-tualete - toilet (WC)  
+tuale - towel  
+tuale kaguji - toilet paper  
+tuale kamar - toilet (bathrooom, WC)  
 tubo - tube (pipe)  
 tufan - storm (tempest, typhoon, hurricane, cyclone)  
 tuh - spit  
@@ -4410,6 +4410,7 @@ xiti bai - failure (blunder, flop, miss, loss, defeat)
 xiti bai ja - loser  
 xiu - little (small)  
 xiu bol - bubble  
+xiu deha - small village (hamlet)  
 xiu kaboga - zucchini  
 xiu seku - pebble (gravel)  
 xiu siti - small town  

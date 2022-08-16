@@ -359,11 +359,10 @@ coklate kane - ĉokolado
 cori - ŝtelo  
 cori ja - ŝtelisto  
 cum - kiso  
-cun - vilaĝo  
+cun - elekti  
 cupu - suĉi  
-cuti - eliro  
+cuti - eliri  
 cuti mun - elirejo  
-cuze - elekto  
 
 ## D  
 
@@ -402,6 +401,7 @@ de - de (partiklo de posedo)
 de - de (el, pro)  
 defa - defendo  
 defa ja - defendanto (defendisto)  
+deha - vilaĝo  
 dele do - atendi  
 demi - popolo  
 demi grafi - demografio  
@@ -536,8 +536,6 @@ fa bina - konstrui
 fa budi - kompreni  
 fa cape - presi  
 fa cori - ŝteli  
-fa cuti - eliri  
-fa cuze - elekti  
 fa daka - kovri  
 fa dante - mordi  
 fa defa - defendi  
@@ -739,7 +737,6 @@ gamo di - emocia
 gamo hal - animstato  
 gan - seka  
 gan putau - sekvinbero  
-gan tela - viŝilo  
 gana kalam - kalamo  
 Ganga - Gangoj  
 gani - kanto  
@@ -1890,6 +1887,9 @@ tumen - vi ĉiu
 tumen su - via  
 tumimen - ni ĉiuj  
 tu su - via (cia)  
+tuale - viŝilo  
+tuale kaguji - neceseja papero  
+tuale kamar - necesejo  
 tubo - tubo  
 tufan - ŝtormo  
 tuh - sputi  
@@ -2002,6 +2002,7 @@ xite - merdo
 xiti bai - malsukceso  
 xiu - malgranda  
 xiu bol - bobelo  
+xiu deha - vilaĝeto  
 xiu seku - ŝtoneto  
 xiu siti - urbeto  
 xiva - Ŝivo  

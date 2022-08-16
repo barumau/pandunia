@@ -242,10 +242,9 @@
 **cosen** *Korea* ← korea:조선 (Joseon), japani:朝鮮 (chōsen), yleiskiina:朝鲜 (zh) (Cháoxiǎn)  
 **culi** *käsittely (prosessi)* ← yleiskiina:处理 (chǔlǐ), kantoninkiina:處理 (cyu2lei5), japani:処理 (shori), korea:처리 (cheori), vietnami:xử lí  
 **cum** *suukko (pusu)* ← hindi:चूमना (cūmnā), urdu:(cūmnā), malayalam:ചുംബനം (cumbanaṃ), malaiji:cium, japani:チュー (chū), thai:จูบ (cup)  
-**cun** *kylä* ← yleiskiina:村 (cūn), kantoninkiina:村 (cyun1), japani:村 (son), korea:촌 (chon), vietnami:thôn  
+**cun** *valita (valinta)* ← hindi:चुनना (cunnā) + vietnami:chọn + englanti:choose + yleiskiina:选 (xuǎn), kantoninkiina:選 (syun2)  
 **cupu** *imeä* ← espanja:portugali:chupar, khmer:ជប់ (cup)  
-**cuti** *poistuminen* ← yleiskiina:出 (chū), kantoninkiina:出 (ceot1), wu-kiina:出 (tsheq4), hakkakiina:出 (chut), japani:出 (shutsu), korea:출 (chul), vietnami:xuất, hindi:छूटना (chūtnā) + turkki:çıkmak  
-**cuze** *valinta (vaali)* ← englanti:choose, + hindi:चुनना (cunnā), + vietnami:chọn  
+**cuti** *poistua (lähteä pois, mennä pois)* ← yleiskiina:出 (chū), kantoninkiina:出 (ceot1), wu-kiina:出 (ceq4), hakkakiina:出 (chut), japani:出 (shutsu), korea:출 (chul), vietnami:xuất + hindi:छूटना (chūtnā), malaiji:cuti + turkki:çıkmak  
 **da** *antaa* ← espanja:portugali:dar, venäjä:дать (dat'), persia: دادن‎ (dâdan), scr:দদাতি (dadāti), hindi:देना (denā), bangla:দেওয়া  (deva), tamili:தா (tā)  
 **dai hai** *valtameri* ← yleiskiina:大海 (dàhǎi), japani:大海 (taikai),  korea:대양 (daeyang), vietnami:đại dương, hindi:महासागर (mahāsāgar), bangla:মহাসমুদ্র (môhaśmudr), thai:มหาสมุทร (mahasamut)  
 **dai** *iso (suuri)* ← kantoninkiina:大 (daai), yleiskiina:大 (dá), vietnami:đại, japani:(dai,tai), korea:대— (dae-)  
@@ -268,6 +267,7 @@
 **de** *luota (lähtien, -sta, -lta)* ← ranska:espanja:portugali:de englanti:de-  
 **de** *määritetyn määritteeseen liittävä partikkeli* ← ranska:de,du, portugali:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)  
 **defa** *puolustus* ← arabia:(difāʿ), persia:(defâ'), hindi:दफ़ा (dafā), urdu:(difā'), + ranska:englanti:defense espanja:defensa, portugali:defesa, turkki:defans  
+**deha** *kylä* ← arabia: ضَيْعَة (ḍayʿa), espanja:aldea, portugali:aldeia + persia: ده‎ (deh), bangla:দেহাত (dehat), malaiji:desa, taj:деҳа (deha)  
 **dele** *viive (odotus)* ← englanti:delay, ranska:délai + hindi:देरी (derī), urdu: دیر‎ (der)  
 **demi** *väestö (kansa)* ← englanti:espanja:demo-, ranska:démo-, venäjä:демо- (demo-)  
 **demon** *demoni (piru)* ← englanti:turkki:demon, espanja:demonio, portugali:demônio, ranska:démon, deu:Dämon, venäjä:демон (demon)  
@@ -1143,7 +1143,7 @@
 **penis** *siitin (penis)* ← englanti:turkki:malaiji:penis, espanja:pene, portugali:ranska:pénis, venäjä:пенис (penis)  
 **pente** *maalata* ← englanti:paint, espanja:portugali:pintura, ranska:peinture, nld:pek, japani:ペンキ (penki), hindi:पेंट (penṭa)  
 **pera** *päärynä* ← englanti:pear, ranska:poire, espanja:portugali:pera, malaiji:pir, suahili:pea + korea:배 (bae)  
-**perixe** *hävittää (hajottaa)* ← englanti:perish, ranska:périr, espanja:portugali:perecer + persia: پریش‎ (parêš), turkki:perişan, hindi:परेशान (pareśan)  
+**perex** *hajalla* ← englanti:perish, ranska:périr, espanja:portugali:perecer + persia: پریش‎ (parêš), turkki:perişan, hindi:परेशान (pareśan), bangla:পেরেশান (pereśan)  
 **pesa** *raha* ← hindi:पैसा (paisā), marathi:पैसा (paisā), pandzabi:ਪੈਸਾ (pēsā), gujarati:પૈસો (paiso), arabia:(bēzāt), suahili:pesa + espanja:peso  
 **peta** *peta-* ← englanti:ranska:espanja:portugali:malaiji:turkki:peta-, venäjä:пета- (peta-), japani:ペタ (peta), korea:페타- (peta-), yleiskiina:拍它- (pāitā-)  
 **pete** *maha (vatsa)* ← bangla:পেট (peṭ), hindi:पेट (peṭ), malaiji:perut, arabia:(baṭn)  
@@ -1465,7 +1465,7 @@
 **tribu** *heimo* ← ranska:espanja:tribu, portugali:filippiini:tribo, englanti:tribe  
 **truke** *temppu (kepponen, jekku, huijaus)* ← englanti:trick, deu:Trick, ranska:truc, espanja:truco, portugali:truque, unkari:trükk, venäjä:трюк (tr’uk)  
 **tu** *sinä* ← ranska:portugali:tu, espanja:tú, venäjä:ты (ty), hindi:तू (tū), bangla:তুই (tui)  
-**tualete** *vessa* ← ranska:toilettes, englanti:malaiji:toilet, portugali:toalete, venäjä:туалет (tualet), turkki:tuvalet, persia:توالت‎ (tuâlet), hindi:टॉयलेट (ṭŏyaleṭ), japani:トイレ (toire)  
+**tuale** *pyyheliina* ← englanti:towel, ranska:touaille, espanja:toalla, portugali:toalha, japani:タオル (taoru), korea:타월 (tawol), hindi:तौलिया (tauliyā), bangla:তোয়ালে (toẏale), tamili:துவாலை (tuvālai), malaiji:tuala + deu:Toilette, venäjä:туалет (tualet), arabia: تْوَالِيتّ‎ (twālitt), persia: توالت‎ (tuâlet), vietnami:toa-lét, turkki:tuvalet  
 **tubo** *putki (tuubi)* ← espanja:portugali:tubo, englanti:ranska:tube, japani:チューブ (chūbu), zulu:ithumbu, xho:íthumbu  
 **tufan** *myrsky* ← yleiskiina:大风 (dàfēng), kantoninkiina:大風 (daai6fung1), korea:태풍 (taepung), japani:台風 (taifuu), thai:ไต้ฝุ่น (taifun), arabia:(ṭūfān), persia:urdu:(tufān), hindi:तूफ़ान (tūfān), suahili:tufani, portugali:tufão, espanja:tifón, ranska:typhon, englanti:typhoon, venäjä:тайфун (tayfun)  
 **tuh** *sylkeä* ← hindi: थूकना (thūknā), yleiskiina: 吐 (tǔ), turkki:tükürmek  

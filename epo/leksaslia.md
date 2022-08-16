@@ -242,10 +242,9 @@
 **cosen** ** ← korea:조선 (Joseon), japana:朝鮮 (chōsen), mandarena:朝鲜 (zh) (Cháoxiǎn)  
 **culi** ** ← mandarena:处理 (chǔlǐ), kantona:處理 (cyu2lei5), japana:処理 (shori), korea:처리 (cheori), vjetnama:xử lí  
 **cum** *kiso* ← hindia:चूमना (cūmnā), urdua:(cūmnā), malajala:ചുംബനം (cumbanaṃ), malaja:cium, japana:チュー (chū), taja:จูบ (cup)  
-**cun** *vilaĝo* ← mandarena:村 (cūn), kantona:村 (cyun1), japana:村 (son), korea:촌 (chon), vjetnama:thôn  
+**cun** *elekti* ← hindia:चुनना (cunnā) + vjetnama:chọn + angla:choose + mandarena:选 (xuǎn), kantona:選 (syun2)  
 **cupu** *suĉi* ← hispana:portugala:chupar, kmera:ជប់ (cup)  
-**cuti** *eliro* ← mandarena:出 (chū), kantona:出 (ceot1), vua:出 (tsheq4), hakaa:出 (chut), japana:出 (shutsu), korea:출 (chul), vjetnama:xuất, hindia:छूटना (chūtnā) + turka:çıkmak  
-**cuze** *elekto* ← angla:choose, + hindia:चुनना (cunnā), + vjetnama:chọn  
+**cuti** *eliri* ← mandarena:出 (chū), kantona:出 (ceot1), vua:出 (ceq4), hakaa:出 (chut), japana:出 (shutsu), korea:출 (chul), vjetnama:xuất + hindia:छूटना (chūtnā), malaja:cuti + turka:çıkmak  
 **da** *doni* ← hispana:portugala:dar, rusa:дать (dat'), persa: دادن‎ (dâdan), scr:দদাতি (dadāti), hindia:देना (denā), bengala:দেওয়া  (deva), tamila:தா (tā)  
 **dai hai** *oceano* ← mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)  
 **dai** *granda* ← kantona:大 (daai), mandarena:大 (dá), vjetnama:đại, japana:(dai,tai), korea:대— (dae-)  
@@ -268,6 +267,7 @@
 **de** *de (el, pro)* ← franca:hispana:portugala:de angla:de-  
 **de** *de (partiklo de posedo)* ← franca:de,du, portugala:de,do,da, pas:د‎ (də), arm:דְּ‎ (də)  
 **defa** *defendo* ← araba:(difāʿ), persa:(defâ'), hindia:दफ़ा (dafā), urdua:(difā'), + franca:angla:defense hispana:defensa, portugala:defesa, turka:defans  
+**deha** *vilaĝo* ← araba: ضَيْعَة (ḍayʿa), hispana:aldea, portugala:aldeia + persa: ده‎ (deh), bengala:দেহাত (dehat), malaja:desa, taj:деҳа (deha)  
 **dele** ** ← angla:delay, franca:délai + hindia:देरी (derī), urdua: دیر‎ (der)  
 **demi** *popolo* ← angla:hispana:demo-, franca:démo-, rusa:демо- (demo-)  
 **demon** *demono* ← angla:turka:demon, hispana:demonio, portugala:demônio, franca:démon, deu:Dämon, rusa:демон (demon)  
@@ -1143,7 +1143,7 @@
 **penis** *peniso* ← angla:turka:malaja:penis, hispana:pene, portugala:franca:pénis, rusa:пенис (penis)  
 **pente** *pentri* ← angla:paint, hispana:portugala:pintura, franca:peinture, nld:pek, japana:ペンキ (penki), hindia:पेंट (penṭa)  
 **pera** *piro* ← angla:pear, franca:poire, hispana:portugala:pera, malaja:pir, svahila:pea + korea:배 (bae)  
-**perixe** ** ← angla:perish, franca:périr, hispana:portugala:perecer + persa: پریش‎ (parêš), turka:perişan, hindia:परेशान (pareśan)  
+**perex** ** ← angla:perish, franca:périr, hispana:portugala:perecer + persa: پریش‎ (parêš), turka:perişan, hindia:परेशान (pareśan), bengala:পেরেশান (pereśan)  
 **pesa** *mono* ← hindia:पैसा (paisā), marataja:पैसा (paisā), panĝaba:ਪੈਸਾ (pēsā), guĝarata:પૈસો (paiso), araba:(bēzāt), svahila:pesa + hispana:peso  
 **peta** *tuhat biljoonaa (peta-)* ← angla:franca:hispana:portugala:malaja:turka:peta-, rusa:пета- (peta-), japana:ペタ (peta), korea:페타- (peta-), mandarena:拍它- (pāitā-)  
 **pete** *ventro* ← bengala:পেট (peṭ), hindia:पेट (peṭ), malaja:perut, araba:(baṭn)  
@@ -1465,7 +1465,7 @@
 **tribu** *tribo* ← franca:hispana:tribu, portugala:filipina:tribo, angla:tribe  
 **truke** ** ← angla:trick, deu:Trick, franca:truc, hispana:truco, portugala:truque, hungara:trükk, rusa:трюк (tr’uk)  
 **tu** *vi (ci)* ← franca:portugala:tu, hispana:tú, rusa:ты (ty), hindia:तू (tū), bengala:তুই (tui)  
-**tualete** ** ← franca:toilettes, angla:malaja:toilet, portugala:toalete, rusa:туалет (tualet), turka:tuvalet, persa:توالت‎ (tuâlet), hindia:टॉयलेट (ṭŏyaleṭ), japana:トイレ (toire)  
+**tuale** *viŝilo* ← angla:towel, franca:touaille, hispana:toalla, portugala:toalha, japana:タオル (taoru), korea:타월 (tawol), hindia:तौलिया (tauliyā), bengala:তোয়ালে (toẏale), tamila:துவாலை (tuvālai), malaja:tuala + deu:Toilette, rusa:туалет (tualet), araba: تْوَالِيتّ‎ (twālitt), persa: توالت‎ (tuâlet), vjetnama:toa-lét, turka:tuvalet  
 **tubo** *tubo* ← hispana:portugala:tubo, angla:franca:tube, japana:チューブ (chūbu), zulua:ithumbu, xho:íthumbu  
 **tufan** *ŝtormo* ← mandarena:大风 (dàfēng), kantona:大風 (daai6fung1), korea:태풍 (taepung), japana:台風 (taifuu), taja:ไต้ฝุ่น (taifun), araba:(ṭūfān), persa:urdua:(tufān), hindia:तूफ़ान (tūfān), svahila:tufani, portugala:tufão, hispana:tifón, franca:typhon, angla:typhoon, rusa:тайфун (tayfun)  
 **tuh** *sputi* ← hindia: थूकना (thūknā), mandarena: 吐 (tǔ), turka:tükürmek  
