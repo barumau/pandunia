@@ -174,7 +174,7 @@ anus - peräaukko (anus)
 anus di - anaalinen  
 aple - omena  
 aple sos - omenasose  
-aplika - sovellus  
+aplika - soveltaa (sovellus)  
 aposum - pussirotta (opossumi)  
 Apsni - Abhaasia  
 arabi - arabialainen  
@@ -430,7 +430,6 @@ be sabi vol - kiinnostua
 be sam rupa - muistuttaa (vaikuttaa samalta)  
 be sel - pitäisi  
 be sona - nukkua  
-be suka - pitää (tykätä, olla tyytyväinen jstkn)  
 be supra - ylittää  
 be tam - ahnehtia  
 be tele loka - teleportata  
@@ -540,6 +539,7 @@ boron - boori
 Bosna e Hercegovina - Bosnia ja Hertsegovina  
 Bote - Tiibet  
 botel - pullo  
+botel tapa - pullonkorkki  
 Brahma - Brahma  
 brauza - selata  
 brauza gi - selain  
@@ -883,9 +883,9 @@ dua - rukous
 • dusdua - kirous  
 dubna yum - dubnium  
 dudu - hyönteinen (ötökkä)  
-duka - suru (murhe)  
-duka di - surullinen  
-duku - lukea  
+dugu - lukea  
+duku - suru (murhe)  
+duku di - surullinen  
 duman - savu  
 duna - dyyni (kinos)  
 dunia - maailma  
@@ -1909,8 +1909,8 @@ jau - ohra
 javabu - vastaus  
 Jayer - Algeria  
 jaze - jazz (jatsi)  
-jebe - tasku  
 jebra - algebra  
+jebu - tasku  
 jela - vankeus  
 jela ja - vanginvartija  
 jelakan - vankila  
@@ -2648,11 +2648,12 @@ moral logi - etiikka (moraalioppi)
 Moris - Mauritius  
 mos - sammal  
 mosim - vuodenaika  
-moskite - hyttynen (sääski)  
+moski - hyttynen (sääski)  
 Moskva - Moskova  
 moskva yum - moscovium  
 mostre - hirviö  
 moto - moottori  
+moto cati - konepelti  
 moto gar - auto (automobiili)  
 moto sikle - moottoripyörä  
 move - liike  
@@ -2881,6 +2882,8 @@ pa - isä
 pa di - isällinen  
 pa su ma - isänäiti  
 pa su pa - isänisä  
+paci - lintu  
+paci logi - lintutiede (ornitologia)  
 pada - pudota (tipahtaa)  
 pada di - pudonnut (tippunut)  
 pada mosim - syksy (syys)  
@@ -2889,7 +2892,6 @@ pai - piirakka (piiras)
 paka - pakko  
 pake - pakkaus (paketti)  
 Pakistan - Pakistan  
-paksi - lintu  
 palaba - riita (kiista)  
 paladi yum - palladium  
 Palau - Palau  
@@ -3533,7 +3535,7 @@ sui sekur di - vesitiivis
 sui yau - jano  
 Suise - Sveitsi  
 suje - ehdotus  
-suka - tyytyväinen (iloinen)  
+suka - tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)  
 sukar - sokeri  
 sukar di - sokerinen (makea)  
 sukar gana - sokeriruoko  
@@ -3738,7 +3740,10 @@ tunel tren - metrojuna (maanalainen)
 tunika - mekko (tunika)  
 Tunis - Tunisia  
 tupi - lakki (hattu)  
-turbe - häiriö (vaiva)  
+turbe - kieppua (sekoittaa; häiritä)  
+• disturbe - hämmentää (sekoittaa; hämmennys, turbulenssi)  
+turbejeter - suihkumoottori (suihkuturbiini)  
+turbin - turbiini  
 turfa - turve  
 Turki - Turkki  
 turki baxa - turkkilainen  

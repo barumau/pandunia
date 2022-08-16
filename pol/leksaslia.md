@@ -46,7 +46,7 @@
 **antra** ** ← hin:आंत्र (åntra), ben:অন্ত্র (antra), pan:ਆਂਦਰਾਂ (āndarā̃) + fra:entrailles, eng:entrails, spa:entrañas, por:entranhas  
 **anus** *odbyt* ← eng:fra:anus, por:ânus, spa:ano, deu:Anus, rus:анус (anus), tur:anüs  
 **aple** *jabłko* ← eng:apple, deu:Apfel, rus:яблоко (yabloko), may:apel, ben:আেপল (apôl), zul:ihhabhula  
-**aplika** *zastosowanie, aplikacja* ← eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja  
+**aplika** *stosować (zastosować; zastosowanie, aplikacja)* ← eng:fra:application, spa:aplicación, por:aplicação, pol:aplikacja  
 **aposum** *opos* ← eng:fra:opossum, rus:опоссум (opossum), zho:奥珀瑟姆 (àopòsèmǔ), jpn:オポッサム (opossamu), vie:ô-pốt-sâm, ara: أُوبُسُوم‎ (ʾubusum)  
 **araki** ** ← ara: عرق‎ ('araq), eng:arrack, fra:raki, por:áraque, rus:арак (arak), zho:阿剌吉 (ālàjí), may:arak, tur:rakı, mya:အရက် (arak)  
 **arane** *pająk* ← fra:araignee, por:aranha, spa:araña, eng:arachnid  
@@ -249,6 +249,7 @@
 **da** *dać, dawać* ← spa:por:dar, rus:дать (dat'), fas: دادن‎ (dâdan), scr:দদাতি (dadāti), hin:देना (denā), ben:দেওয়া  (deva), tam:தா (tā)  
 **dai hai** *ocean* ← zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)  
 **dai** *duży* ← yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)  
+**daka** *pokrycie; pokrywa, wieko, dekiel; pokład* ← hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck  
 **dalil** *dowód; zeznanie* ← ara:(dalil), ben:দলিল (dôlil), swa:dalili, tur:delil  
 **dama geme** *warcaby* ← fra:jeu de dames, spa:por:damas, ara: ضَامَة‎ (ḍāma), vie:cờ đam, may:dam, tur:dama, deu:Damespiel  
 **dan** ** ←  jpn:段 (dan), eng:fra:may:dan + zho:等 (děng),  yue:等 (dang2), kor:등 (dang), vie:đẳng  
@@ -308,8 +309,8 @@
 **dua** *modlitwa* ← ara: دُعَاء‏  (duʿāʾ), hin:दुआ (duā), swa:tur:dua, may:doa + zho:祈祷 (dǎo), jpn:禱 (tō), kor:도 (do)  
 **dubna yum** *dubn* ← eng:dubnium, fra:dubnium, spa:dubnio, por:dúbnio, rus:дубний, ²нильсборий, zho: (dù), jpn:ドブニウム, kor:더브늄, vie:dubni, hin:डब्नियम, ben:ডুবনিয়াম, may:dubnium, swa:dubni, ara: دبنيوم  
 **dudu** *owad* ← swa:mdudu, ara: دُود (dūd)  
-**duka** *żal, smutek* ← hin:दुःख (duḥkh), ben:দুঃখ (dukhô), tha:ทุกข์ (tuk), may:duka, eng:dukkha  
-**duku** *czytać* ← zho:读 (dú), yue:讀 (duk6), jpn:讀 (doku-), kor:독 (dok), vie:đọc  
+**dugu** *czytać* ← zho:读 (dú), yue:讀 (duk6), jpn:讀 (doku-), kor:독 (dok), vie:đọc  
+**duku** *żal, smutek* ← hin:दुःख (duḥkh), ben:দুঃখ (dukhô), may:duka, mya:ဒုက္ခ (dukhka), tha:ทุกข์ (tuk), eng:dukkha + zho: 苦痛 (kǔ), jpn:苦 (ku), vie:khổ   
 **duman** *dym* ← hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)  
 **duna** ** ← eng:fra:dune, spa:por:duna, rus:дюна (diuna) + vie:đụn, kor:둔(덕) (dun(deok))  
 **dunia** *świat* ← ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), ben:দুনিয়া (duniya), may:swa:dunia, tur:dünya, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya  
@@ -618,8 +619,8 @@
 **jaru** ** ← hin:झाड़ू (jhāṛū), ben:ঝাড়ু (jhaṛu) + kor:빗자루 (bitjaru)  
 **jau** *jęczmień* ← hin:जौ (jau), ben:যব (jôb), mar:जव (jav), guj:જવ (jav), fas: جو‎ (jow)  
 **javabu** *odpowiedź, odzew* ← ara: جَوَاب‎ (jawāb), hin:जवाब (javāb), may:jawab, swa:jibu,jawabu, tur:cevap  
-**jebe** *kieszeń* ← hin:जेब (jeb), pnb:ਜੇਬ (jeb), urd:(jeb), tel:(jēbu), ara:(jayb), tur:cep, wol:jiba  
 **jebra** *algebra* ← ara:fas:(jabr), tur:cebir, urd:(aljabrā), eng:algebra, fra:algèbre, swa:aljebra  
+**jebu** *kieszeń* ← ara: جَيْب‎ (jayb), fas: جیب‎ (jib), hin:जेब (jeb), pnb:ਜੇਬ (jeb), tel:(jēbu), tur:cep, por:algebeira, hau:aljihu, wol:jiba, amh:ጅብ (ǧəb)  
 **jeka na** *pożyczać (pożyczyć)* ← zho:借 (jiè), yue:借 (ze3), jpn:借 (shaku), kor:적 (jeok) + eng:check  
 **jeka** *pożyczyć* ← zho:借 (jiè), yue:借 (ze3), wuu:借 (jia2), jpn:借 (shaku), kor:적 (jeok) + eng:check  
 **jela** *więzienie, kara więzienia, kara pozbawienia wolności* ← eng:jail, fra:geôle, hin:जेल (jel), ben:জেল (jēl), tel:జైలు (jailu), urd: جیل‎ (jēl), swa:jela + spa:por:jaula  
@@ -989,7 +990,7 @@
 **moral** *moralność, etyka* ← eng:spa:por:may:moral, fra:morale, rus:мораль (moral’)  
 **mos** *mech* ← eng:moss, spa:por:musgo, fra:mousse, deu:Moos, rus:мох (mox), hin:मॉस (mosa)  
 **mosim** *pora roku* ← ara: موسم (mawsim), hin:मौसम (mausam), may:musim, tur:mevsim, swa:msimu + eng:monsoon, fra:mousson, por:monção, rus:муссон (musson)  
-**moskite** *komar, moskit* ← eng:spa:por:mosquito, fra:moustique, deu:Moskito, rus:моски́т (moskít), ben:মশা (môśa), kor:모기 (mogi)  
+**moski** *komar, moskit* ← eng:spa:por:mosquito, deu:Moskito, rus:москит (moskit) + hin:मशक (maśak), ben:মশা (môśa) + kor:모기 (mogi) + vie:muỗi  
 **moskva yum** *moskovium* ← eng:fra:moscovium, spa:moscovio, por:moscovio, rus:московий, jpn:モスコビウム, kor:우눈펜튬, vie:moscovi, may:moskovium, swa:moscovi  
 **mostre** *potwór, monstrum* ← ita:mostro, eng:monster, spa:por:monstro, fra:monstre, rus:монстр (monstr), jpn:モンスター (monsutā), kor:몬스터 (monseuteo)  
 **moto gar** *samochód (automobil)* ← eng:motorcar, sna:motokari, sot:motokara, swa:motokaa, zul:imoto, hau:mota  
@@ -1093,12 +1094,12 @@
 **oste** *kość* ← eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)  
 **oxi** *tlen* ← eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين  
 **pa** *ojciec* ← eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba  
+**paci** *ptak* ← hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)  
 **pada** *paść, padać, upaść, upadać* ← tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)  
 **pagri** *turban* ← hin:mar:पगड़ी (pagṛī), urd:(pagṛī), ben:পাগড়ি (pagri)  
 **pai** *placek, ciasto* ← eng:pie, spa:pay, may:pai, hin:पाई (pāī), urd:(pāī), ben:পাই (pai), jpn:パイ (pai), kor:파이 (pai), zho:排 (pái), yue:批 (pai1), fas:(pây)  
 **paka** ** ← zho:迫 (pò), yue:迫 (baak1), wuu:迫 (paq4), jpn:迫 (haku), vie:bách  
 **pake** *paczka, paka* ← eng:pack, rus:пакет (paket), hin:पैकेट (pækeṭ), deu:tur:paket, fra:paquet, spa:paquete, por:pacote  
-**paksi** *ptak* ← hin:mar:पक्षी (pakṣī), mal:പക്ഷി (pakṣi), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), ben:পাখী (pakhī), pnb:ਪੰਖੀ (paṅkhī)  
 **palaba** ** ← eng:palaver, krio:plabah, kon:palaba  
 **paladi yum** *pallad* ← eng:palladium, fra:palladium, spa:paladio, por:paládio, rus:палладий, zho:钯 (bǎ), jpn:パラジウム, kor:팔라듐, vie:palađi, hin:पलाडियम, ben:প্যালাডিয়াম, may:paladium, swa:paladi, ara: بلاديوم  
 **palma** *palma, drzewo palmowe* ← deu:Palme, eng:palm, por:spa:palma, rus:пальма (palma), tur:palmiye, may:palem, tha:ปาล์ม (pām)  
@@ -1373,7 +1374,7 @@
 **sui kaboga** *tykwa pospolita (kabalasz)* ← por:abóbora-d'água, tur:su kabağı  
 **sui** *woda* ← zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su  
 **suje** *sugestia, propozycja* ← hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugestão  
-**suka** *wesoły, ucieszony* ← hin:सुख (sukha), tha:สุข (suk), nan:舒合 (su-kah), may:suka, jpn:好く (suku)  
+**suka** *wesoły (ucieszony; cieszyć się)* ← hin:सुख (sukha), may:suka, tel:సుఖము (sukhamu), tha:สุข (suk), nan:舒合 (su-kah) + jpn:好く (suku)  
 **sukar** *cukier* ← eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)  
 **sulfu** *siarka* ← eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri  
 **sultan ja** *władca* ← ara:سلطة (sulṭa), eng:tur:may:sultan, spa:sultán, rus: султан (sultan), fas:سلطان‎ (soltân), hin:सुल्तान (sultān), ben:সুলতান (śultan), swa:sultani  
@@ -1475,7 +1476,8 @@
 **tundra** *tundra* ← eng:spa:por:tur:tundra, rus:тундра (tundra), ara:تندرا‎ (tundrā), hin:टुंड्रा (ṭuṇḍrā), jpn:ツンドラ (tsundora)  
 **tunel** *tunel* ← eng:fra:tunnel, spa:por:túnel, rus:тоннель (tonnel’), tur:tünel, jpn:トンネル (tonneru), 터널 (teoneol)  
 **tunika** *tunika, toga* ← spa:túnica, eng:tunic, rus:туника (tunika)  
-**tupi** *kapelusz, czapka* ← may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:(toppi)  
+**tupi** *kapelusz, czapka* ← may:topi, hin: टोपी (ṭopī), ben:টুপি (ṭupi), tam:தொப்பி (toppi)  
+**turbe** *przeszkodzić, przeszkadzać, robić kłopot* ← eng:turbid + rus:турбина (turbina), jpn:タービン (tābin), kor:터빈 (teobin) + eng:disturb, fra:perturber, spa:por:perturbar  
 **turfa** ** ← eng:turf, fra:tourbe, spa:tur:turba, por:turfa, rus:торф (torf)  
 **tuta** *morwa* ← rus:тута (tuta), ara: تُوت‎ (tūt), hin:तूत (tūt), tur:dut  
 **tuzi** *królik, zając* ← zho:兔子 (tùzi), yue:兔仔 (tou3zai2), kor:토끼 (tokki), vie:thỏ, tha:เถาะ (tho)  
@@ -1630,7 +1632,7 @@
 **zinji** *imbir* ← eng:ginger, fra:gingembre, spa:gengibre, por:jengibre, zho:姜 (jiāng), tam:இஞ்சி (inji), ara: زنجبيل‎ (zanjabīl), tur:zencefil  
 **zinke** *cynk* ← eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki  
 **zipe** *zamknąć zamkiem błyskawicznym* ← eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)  
-**zira** *kumin, kmin* ← ben:জিরা (zīra), hin:ज़ीरा (zīrā), tam:சீரகம் (sīrakam), swa:mjira, fas:(zire), zho:孜然 (zīrán)  
+**zira** *kumin, kmin* ← fas: زیره‎ (zire), hin:ज़ीरा (zīrā), ben:জিরা (zīra), tam:சீரகம் (sīrakam), rus:зира (zira), zho:孜然 (zīrán), swa:mjira  
 **zirkon yum** *cyrkon* ← eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم  
 **zizi** *skwierczeć* ← zho:zizi eng:sizzle  
 **zoku** *wciąż, nadal; kontynuować, wznawiać, ponawiać* ← wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục  

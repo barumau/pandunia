@@ -221,7 +221,6 @@ anón (ates, saramuyo) - ata
 aparecer - be zai  
 apartarse (desviarse) - be rute galte  
 apellido - famili nam  
-aplicación - aplika  
 aprender (estudiar) - fa xula  
 apropriado (apto, oportuno) - hapu  
 aproximadamente - yaki  
@@ -453,7 +452,7 @@ boina - bere
 bola - bol  
 boletín de noticias - habar letre  
 Bolivia - Bolivia  
-bolsillo - jebe  
+bolsillo - jebu  
 bolígrafo - kalam  
 bomba - bomba  
 bombear - pompe  
@@ -603,6 +602,7 @@ capitán - nave xefe
 capturar (apresar) - cepe  
 capturar (apresar) - kape  
 capítulo (sección) - babu  
+capó (bonete) - moto cati  
 cara (rosto) - muka  
 caramelo - kandi  
 carapacho (cáscara, concha, corteza, capa) - kaska  
@@ -906,7 +906,7 @@ correcto (justo) - sahi
 corredor - kore ja  
 corregir - fa sahi  
 correo - posta  
-correo basura - turbe posta  
+correo basura - lasa posta  
 correr - kore  
 corriente de resaca - tire dara  
 corromper (contaminar) - fa najis  
@@ -1281,6 +1281,7 @@ empanada (pelmeni) - pelmen
 emparejar (quedar) - kon bon  
 emperador - imperi ja  
 emplear (aplicar) - fa aplika  
+emplear (aplicar; aplicación) - aplika  
 empresario - biznes ja  
 empujar (presionar) - puxa  
 en (a) - a  
@@ -1499,7 +1500,7 @@ faz (faceta) - fase
 febrero - mes du  
 fecha - nen mes den  
 felicitar - fa barka  
-feliz - suka  
+feliz (gustarse, disfrutar) - suka  
 feminismo - fem sim  
 feministe - fem sim ja  
 feo - dus vide  
@@ -1716,7 +1717,6 @@ gujaratí - gujarati
 gul - gule  
 gusano de seda - silke larva  
 gustar (complacer) - fa suka  
-gustarse (disfrutar) - be suka  
 gustarse (querer) - fa fili  
 gusto (sabor) - guste  
 Guyana - Guyana  
@@ -2117,7 +2117,7 @@ leche - milke
 leche de soja - soi milke  
 lecho de roca - baze petra  
 lechuga - letus  
-leer - duku  
+leer - dugu  
 legumbre (frijol o arveja) - dou  
 lejano (lejos) - tele di  
 lejos (fuera) - for  
@@ -2448,6 +2448,7 @@ moldear (modelar) - fa plasti
 Moldova - Moldova  
 moler (pulverizar) - fa mol  
 molestar (perturber) - fa turbe  
+molestar (perturber) - turbe  
 molestar en - be turbe  
 molibdeno - moliden  
 molinero - mol ja  
@@ -2482,7 +2483,7 @@ mosco - dom zeze
 moscovio - moskva yum  
 mosquete - muskete  
 mosquetero - muskete ja  
-mosquito - moskite  
+mosquito (mosco) - moski  
 motocicleta - moto sikle  
 motor - moto  
 moverse - be kino  
@@ -2710,6 +2711,7 @@ oriental - dong di
 origen - asal  
 original - asal di  
 oriya - Odisa  
+ornitología - paci logi  
 ornitorrinco - bata krote  
 oro - auro  
 oromo - oromo  
@@ -2863,7 +2865,7 @@ peligroso - hatar di
 pelo - kexa  
 película (film, membrana) - filme  
 película (filme) - kino grafi  
-pena (tristeza) - duka  
+pena (tristeza) - duku  
 penal (penetenciario) - fatu di  
 pene - penis  
 pensar - fa fikir  
@@ -2900,6 +2902,7 @@ personal (privado, a medida) - jen di
 personalizar - fa auto  
 perspectiva (punto de vista) - vide punte  
 pertenecer (ser miembro de) - membe  
+perturbar (turbulencia) - disturbe  
 perímetro (circunferencia) - gola longta  
 Perú - Peru  
 pesa (báscula, balanza) - veze metre gi  
@@ -3060,7 +3063,6 @@ prisionero - jela jen
 prisión - jela  
 proactinio - protacini yum  
 probar (demonstrar, comprobar) - fa dalil  
-problema (disturio) - turbe  
 problema - problem  
 problemático - problem di  
 procedimiento (rito) - riti  
@@ -3132,7 +3134,7 @@ puntuación (resultado) - punte nume
 puñal (daga) - kanjar  
 página - yepa late  
 página wiki - viki makala  
-pájaro (ave) - paksi  
+pájaro (ave) - paci  
 pánico - panike  
 pícea - pisea  
 píxel - grafi so  
@@ -3604,6 +3606,7 @@ taoísta - dau din ja
 tapa (funda, cubierta) - daka  
 tapioca - manioka fufu  
 taponar - fa tapa  
+tapón (corcholata) - botel tapa  
 tapón (tapa) - tapa  
 tarde (después de mediodía) - xam dia  
 tarjeta (carta) - karte  
@@ -3748,7 +3751,7 @@ tridente - tri pike
 trigo - ganum  
 Trinidad y Tobago - Trinidade e Tobago  
 triple - triple  
-triste - duka di  
+triste - duku di  
 triángulo - tri gona  
 trompo - rota vanu gi  
 trucha arcoíris - rang arka salmon  
@@ -3768,6 +3771,8 @@ tundra - tundra
 tungsteno (wolframio) - volfram  
 tupinambo (pataca, alcachofa de Jerusalén) - masa mula sol hua  
 turbante - pagri  
+turbina - turbin  
+turborreactor - turbejeter  
 turismo - safar keka  
 turista - safar keka ja  
 Turkmenistán - Turkomen  

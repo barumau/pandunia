@@ -170,8 +170,8 @@ appear - be zai
 appearance (looks) - rupa  
 apple - aple  
 applesauce - aple sos  
-application - aplika  
 apply (put to use for a purpose) - fa aplika  
+apply (put to use for a purpose; application) - aplika  
 apprentice - kar xular  
 approach (get near) - be karibu  
 approve - bon rai  
@@ -425,7 +425,7 @@ biology (study of organic life) - bio logi
 biome - bio sistem  
 biowaste - bio lasa  
 birch tree - betula  
-bird - paksi  
+bird - paci  
 biromantic - du romanse di  
 birth - nati  
 birthday - nati den  
@@ -488,6 +488,7 @@ botany (phytology) - fitologi
 bother (annoy, disturb, irritate) - fa turbe  
 Botswana - Cuana  
 bottle - botel  
+bottle cap - botel tapa  
 boulder - dai seku  
 bounce - boing  
 bow (arch, arc) - arka  
@@ -1123,6 +1124,7 @@ distinction (specialty) - hasta
 distinguish - fa has  
 distract (pull apart) - distrate  
 distrust (disbelieve) - ankredi  
+disturb (disturbance, turbulence) - disturbe  
 ditch (canal, channel, dyke, trench) - kanal  
 diverse - disversi  
 divide (partition, part, split, separate) - fa fen  
@@ -1279,6 +1281,7 @@ England - Englix
 English - englix di  
 English daisy - englix margarita  
 English oak - europa baluta  
+enjoy (like, be happy, be fond of; pleased, delighted, happy) - suka  
 enjoy (play) - be vanu  
 enough (sufficient) - bas  
 enter (get in) - be in  
@@ -1726,7 +1729,7 @@ greet - fa salam
 greeting (hello) - salam  
 Grenada - Grenada  
 grey (gray, ashy) - hui rang  
-grief (sorrow) - duka  
+grieve (be sad; grief, sorrow) - duku  
 grieve - be duka  
 grilled meat (kebab) - kababu nama  
 grimace - grimas  
@@ -1879,6 +1882,7 @@ honeybee - medu fong
 honeydew (green melon) - luga melon  
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onor di  
+hood (bonnet, cover over the engine) - moto cati  
 hook - huke  
 hope (wish) - axa  
 hopeless - axa hin  
@@ -2254,7 +2258,6 @@ light (light-weight) - ligu veze di
 light (requiring little effort, easy, soft, minute, unimportant, etc.) - ligu  
 light blue (sky blue, azure) - sama nil  
 lightning bolt - eletro radi  
-like (enjoy, be fond of) - be suka  
 like - fa fili  
 lilac - lila  
 lilac color - lila rang  
@@ -2592,7 +2595,7 @@ morpheme - forma so
 mortal - matabil  
 moscovium - moskva yum  
 Moscow - Moskva  
-mosquito - moskite  
+mosquito - moski  
 moss - mos  
 mossy - mos di  
 most (maximally) - maxim  
@@ -2849,6 +2852,7 @@ orgasm - orgazme
 oriental poppy - gui papi  
 origin (source) - asal  
 original (authentic) - asal di  
+ornithology (birdlore) - paci logi  
 Oromia - Oromo Dexa  
 Oromo (an Ethiopian ethnic group) - oromo  
 orphan - yatim  
@@ -3103,14 +3107,13 @@ play music - fa muzika
 playdough - plasti paste  
 player (gamer) - geme ja  
 please (satisfy, delight) - fa suka  
-pleased (delighted, happy) - suka  
 pliers (pincers) - pinse gi  
 pluck feathers - depena  
 plug (stop with a plug) - fa tapa  
 Pluto (dwarf planet) - Pluton  
 plutonium - pluton yum  
 pneumonia - pulmon tis  
-pocket - jebe  
+pocket - jebu  
 podzol - hui darte  
 poem - xir  
 poet - xir ja  
@@ -3323,7 +3326,7 @@ ray (radiation) - radi
 ray of light - foto radi  
 react - reati  
 reaction - reation  
-read - duku  
+read - dugu  
 ready (prepared) - redi  
 realization (awareness, enlightenment, bodhi) - budi  
 realize - fa budi  
@@ -3494,7 +3497,7 @@ Réunion - Reunion
 
 Sabbath - sabate  
 sacrifice (offer) - kurban  
-sad - duka di  
+sad - duku di  
 sadden (make sad) - fa duka  
 safe (secure, protected) - sekur  
 saffron - safran  
@@ -3786,7 +3789,7 @@ space (cosmos, universe) - kosmo
 spaceship - kosmo nave  
 spade - bagi bele  
 Spain - Espanya  
-spam mail - turbe posta  
+spam mail - lasa posta  
 sparse (scattered) - anjami di  
 speak (talk, language, communication) - baxa  
 spear thistle - pena kardon  
@@ -3858,7 +3861,7 @@ stone (piece of rock) - seku
 stop (halt) - be halte  
 stop (halt) - fa halte  
 stop (halt) - halte  
-stopper (cap, peg, tap) - tapa  
+stopper (cap, peg, plug, tap) - tapa  
 stopwatch - dur metre gi  
 store (deposit) - hazin  
 storehouse (depository) - hazinkan  
@@ -4173,7 +4176,6 @@ triple (threefold) - triple
 Triton - Triton  
 tropical - garma zona di  
 tropics - garma zona  
-trouble (disturbance, bother, annoyance) - turbe  
 true (real, genuine, indeed, very) - ver  
 trunk (torso) - torso  
 trust (have faith, rely) - amen xin  
@@ -4191,6 +4193,8 @@ tunic (gown) - tunika
 Tunisia - Tunis  
 tunnel - tunel  
 turban - pagri  
+turbine - turbin  
+turbojet - turbejeter  
 turkey - dinde  
 Turkey - Turki  
 Turkish langage - turki baxa  
@@ -4407,6 +4411,7 @@ where - a ke
 where? - ke loka  
 which (who, that) - ki  
 whip - bici  
+whirl (dizz; disorientate, trouble, disturb, bother, annoy) - turbe  
 whisky (whiskey) - viski  
 white - baku  
 white rice - baku varis  

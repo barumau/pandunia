@@ -111,7 +111,7 @@ anus - anus
 anus di - anal  
 aple - pomme  
 aple sos - compote de pommes  
-aplika - application  
+aplika - appliquer (application)  
 aposum - sarigue (opossum)  
 Apsni - Abkhazie  
 arabi - arabe  
@@ -279,7 +279,6 @@ be migra - s'installer (déménager)
 be pute - pourrir (se décomposer)  
 be retro - retourner (revenir)  
 be sona - dormir  
-be suka - se plaire  
 bebe - bébé  
 bede - lit  
 bedinjan - aubergine  
@@ -320,6 +319,7 @@ bon sin di - propice
 bor yum - bohrium  
 boron - boron  
 botel - bouteille  
+botel tapa - capsule  
 bravo - brave  
 bravo - bravo!  
 briko - abricot (prune)  
@@ -469,7 +469,7 @@ duple - double
 • dusdua - malédiction  
 dubna yum - dubnium  
 dudu - insecte  
-duku - lire  
+dugu - lire  
 duna - dune  
 dunia - monde  
 dur - durée  
@@ -871,6 +871,7 @@ jaru - balai
 jau - orge  
 javabu - réponse  
 Jayer - Algérie  
+jebu - poche  
 jeka - prêter (empruntre)  
 jeka da - prêter  
 jeka na - empruntre  
@@ -1254,9 +1255,11 @@ moliden - molybdène
 mos - mousse  
 mos di - moussu  
 mosim - saison  
+moski - moustique  
 moskva yum - moscovium  
 mostre - monstre  
 moto - moteur  
+moto cati - capot  
 muka - visage  
 mula - racine  
 multiple - multiple  
@@ -1367,12 +1370,13 @@ oxide - oxyde
 
 pa - pere (papa)  
 pa di - paternel  
+paci - oiseau  
+paci logi - ornithologie  
 pada di - chu  
 pada mosim - automne  
 pagri - turban  
 pai - tarte  
 pake - paquet  
-paksi - oiseau  
 palaba - querelle (dispute, palabre)  
 paladi yum - palladium  
 pan demi pati - pandémie  
@@ -1677,7 +1681,7 @@ sui gas - vapeur d’eau
 sui minta - Menthe aquatique  
 sui yau - soif  
 Suise - Suisse  
-suka - heureux  
+suka - heureux (se plaire)  
 sukar - sucre  
 sukar bete - betterave à sucre (betterave sucrière)  
 sukar gana - canne à sucre  
@@ -1766,6 +1770,10 @@ Tule - Thulé
 tule yum - thulium  
 tuna - thon  
 Tunis - Tunisie  
+turbe - gêner (déranger, perturber)  
+• disturbe - perturber (turbulence)  
+turbejeter - turboréacteur  
+turbin - turbine  
 tuta - mûrier  
 tuzi - lapin (lièvre)  
 
@@ -1943,6 +1951,7 @@ zi - caractère
 zi sili - alphabet  
 zinji - gingembre  
 zinke - zinc  
+zira - cumin  
 zirkon yum - zirconium  
 zoku - continuer (poursuivre, encore)  
 zoku di - continu (analogique)  

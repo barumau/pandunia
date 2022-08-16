@@ -355,7 +355,7 @@ duple - dobro
 • dusdua - maldição  
 dubna yum - dúbnio  
 dudu - inseto  
-duku - ler  
+dugu - ler  
 duna - duna (бархан)  
 dunia - mundo  
 dur - duração  
@@ -698,6 +698,7 @@ jara - jarra (jarro)
 jaru - vassoura  
 jau - cevada  
 javabu - resposta  
+jebu - bolso (algebeira)  
 jeka - emprestar (pedir emprestado)  
 jeka da - emprestar  
 jeka na - pedir emprestado  
@@ -1062,9 +1063,11 @@ mole - mol
 moli - jasmim  
 moliden - molibdénio  
 mosim - estação (sazão)  
+moski - mosquito  
 moskva yum - moscovio  
 mostre - monstro  
 moto - motor  
+moto cati - capô  
 mula - raíz  
 multiple - múltiplos  
 mur - muro (muralha)  
@@ -1169,6 +1172,8 @@ oxide - óxide
 
 pa - pai  
 pa di - paternal  
+paci - pássaro (ave)  
+paci logi - ornitologia  
 pada mosim - outono  
 pagri - turbante  
 pai - torta  
@@ -1514,6 +1519,10 @@ truke - truque (fraude)
 tu - tu  
 tumen su - vosso  
 tule yum - túlio  
+turbe - molestar (perturber)  
+• disturbe - perturbar (turbulência)  
+turbejeter - turbojato  
+turbin - turbina  
 tuta - amoreira  
 tuzi - coelho (lebre)  
 
@@ -1672,6 +1681,7 @@ zeyil - verruga
 zi - caractere  
 zinji - jengibre  
 zinke - zinco  
+zira - cominho  
 zirkon yum - zircónio  
 zoku - ainda  
 zoku di - analógico  

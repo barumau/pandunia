@@ -196,6 +196,7 @@ bizarro - guai
 bola - bol  
 boletim de notícias - habar letre  
 bolo lunar - luna keke  
+bolso (algebeira) - jebu  
 bom - bon  
 bomba - bomba  
 bombom (doce) - kandi  
@@ -262,6 +263,7 @@ Cantalupo in Sabina - Kantalupo va Sabina
 canção de ninar - lala gani  
 capa - mantol  
 capa de chuva - xava kote  
+capô - moto cati  
 caractere - zi  
 caratê - karate  
 carbono - karbon  
@@ -351,6 +353,7 @@ com (comum) - kon
 combava - karse limon  
 combinar com - kon bon  
 começo (início, princípio) - xuru  
+cominho - zira  
 como - ke riti  
 compaixão - sam emos  
 complô (conspiração) - sir plan  
@@ -856,7 +859,7 @@ leite de soja - soi milke
 lembrar-se (recordar-se) - fa memo  
 lente - lense  
 lento - anhaste  
-ler - duku  
+ler - dugu  
 Letónia - Latvia  
 leve - ligu  
 lhama - liama  
@@ -993,6 +996,7 @@ mol - mole
 moldar (modelar) - fa plasti  
 moldura - frem  
 molestar (perturber) - fa turbe  
+molestar (perturber) - turbe  
 molhado - xipi  
 molhar - fa xipi  
 molho de soja - soi sos  
@@ -1006,6 +1010,7 @@ monólogo - auto loga
 morder - fa dante  
 morder - gata a dante  
 moscovio - moskva yum  
+mosquito - moski  
 motor - moto  
 mover - fa kino  
 Mover-se - be kino  
@@ -1108,6 +1113,7 @@ organismo - bioxe
 organizar - fa nomi  
 origem - asal  
 original - asal di  
+ornitologia - paci logi  
 orquídea - orkide  
 ortogonal - orto gona di  
 otite - ore tis  
@@ -1189,6 +1195,7 @@ perecer - perixe
 perguntar - fa sual  
 perigo - hatar  
 perplexo (confuso) - ruhu mixe di  
+perturbar (turbulência) - disturbe  
 peru - dinde  
 pesado - veze di  
 pescador - pexe saide ja  
@@ -1282,6 +1289,7 @@ purpúreo (roxo) - violeta nil
 purê de maçã - aple sos  
 pá - bele  
 página - yepa late  
+pássaro (ave) - paci  
 pátria - dom dexa  
 pântano - poto stan  
 pão - pang  
@@ -1557,6 +1565,8 @@ tubarão - xarke
 tubérculo - masa mula  
 tungsténio - volfram  
 turbante - pagri  
+turbina - turbin  
+turbojato - turbejeter  
 tábua (prancha) - moka bano  
 tálio - tali yum  
 tântalo - tantal yum  

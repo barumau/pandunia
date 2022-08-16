@@ -221,7 +221,6 @@ be raste - kreski
 be retro - reiri  
 be sel - devus  
 be sona - dormi  
-be suka - ŝati  
 be supra - superiri  
 be xuru - komenciĝi  
 bebe - bebo  
@@ -286,6 +285,7 @@ bori di - enui
 boron - boro  
 Bote - Tibeto  
 botel - botelo  
+botel tapa - botelfermilo  
 Brahma - Bramo  
 bravo - brava  
 bravo - brave!  
@@ -472,9 +472,9 @@ dume - dua
 dua - preĝo  
 dubna yum - dubnio  
 dudu - insekto  
-duka - malĝojo  
-duka di - malĝoja  
-duku - legi  
+dugu - legi  
+duku - malĝojo  
+duku di - malĝoja  
 duman - fumo  
 dunia - mondo  
 dunia baxa - mondlingvo  
@@ -967,7 +967,7 @@ jara - kruĉo
 jaru - balailo  
 jau - hordeo  
 javabu - respondo  
-jebe - poŝo  
+jebu - poŝo  
 jelakan - malliberejo  
 jele - ĝelo  
 jen - persono  
@@ -1350,6 +1350,7 @@ moluske - molusko
 Mongol - Mongolio  
 mongol di - mongola  
 mosim - sezono  
+moski - kulo (moskito)  
 moskva yum - moskovio  
 mostre - monstro  
 moto - motoro  
@@ -1481,10 +1482,11 @@ oxide - oksido
 ## P  
 
 pa - patro  
+paci - birdo  
+paci logi - ornitologio  
 pada mosim - aŭtuno  
 pai - torto  
 pake - pako  
-paksi - birdo  
 paladi yum - paladio  
 palma - palmo  
 pan - ĉiu  
@@ -1807,7 +1809,7 @@ sui di - akva
 sui gas - vaporo  
 sui yau - soifo  
 Suise - Svislando  
-suka - feliĉa  
+suka - feliĉa (ŝati)  
 sukar - sukero  
 sulfu - sulfuro  
 sum - sumo  

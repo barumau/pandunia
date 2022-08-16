@@ -249,6 +249,7 @@
 **da** *doni* ← hispana:portugala:dar, rusa:дать (dat'), persa: دادن‎ (dâdan), scr:দদাতি (dadāti), hindia:देना (denā), bengala:দেওয়া  (deva), tamila:தா (tā)  
 **dai hai** *oceano* ← mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)  
 **dai** *granda* ← kantona:大 (daai), mandarena:大 (dá), vjetnama:đại, japana:(dai,tai), korea:대— (dae-)  
+**daka** *kovrilo* ← hindia:ढकना (dhaknā), bengala:ঢাকা (ḍhaka), panĝaba:ਢੱਕਣਾ (ḍhakṇā), deu:decken, angla:deck  
 **dalil** ** ← araba:(dalil), bengala:দলিল (dôlil), svahila:dalili, turka:delil  
 **dama geme** *damludo* ← franca:jeu de dames, hispana:portugala:damas, araba: ضَامَة‎ (ḍāma), vjetnama:cờ đam, malaja:dam, turka:dama, deu:Damespiel  
 **dan** ** ←  japana:段 (dan), angla:franca:malaja:dan + mandarena:等 (děng),  kantona:等 (dang2), korea:등 (dang), vjetnama:đẳng  
@@ -308,8 +309,8 @@
 **dua** *preĝo* ← araba: دُعَاء‏  (duʿāʾ), hindia:दुआ (duā), svahila:turka:dua, malaja:doa + mandarena:祈祷 (dǎo), japana:禱 (tō), korea:도 (do)  
 **dubna yum** *dubnio* ← angla:dubnium, franca:dubnium, hispana:dubnio, portugala:dúbnio, rusa:дубний, ²нильсборий, mandarena: (dù), japana:ドブニウム, korea:더브늄, vjetnama:dubni, hindia:डब्नियम, bengala:ডুবনিয়াম, malaja:dubnium, svahila:dubni, araba: دبنيوم  
 **dudu** *insekto* ← svahila:mdudu, araba: دُود (dūd)  
-**duka** *malĝojo* ← hindia:दुःख (duḥkh), bengala:দুঃখ (dukhô), taja:ทุกข์ (tuk), malaja:duka, angla:dukkha  
-**duku** *legi* ← mandarena:读 (dú), kantona:讀 (duk6), japana:讀 (doku-), korea:독 (dok), vjetnama:đọc  
+**dugu** *legi* ← mandarena:读 (dú), kantona:讀 (duk6), japana:讀 (doku-), korea:독 (dok), vjetnama:đọc  
+**duku** *malĝojo* ← hindia:दुःख (duḥkh), bengala:দুঃখ (dukhô), malaja:duka, birma:ဒုက္ခ (dukhka), taja:ทุกข์ (tuk), angla:dukkha + mandarena: 苦痛 (kǔ), japana:苦 (ku), vjetnama:khổ   
 **duman** *fumo* ← hindia:धूआँ (dhuã), turka:duman, rusa:дым (dym), kanara:(dhūma), bengala:ধোঁয়া (dhõẇa)  
 **duna** ** ← angla:franca:dune, hispana:portugala:duna, rusa:дюна (diuna) + vjetnama:đụn, korea:둔(덕) (dun(deok))  
 **dunia** *mondo* ← araba: دُنْيَا‎ (dunyā), hindia:दुनिया (duniyā), bengala:দুনিয়া (duniya), malaja:svahila:dunia, turka:dünya, persa: دنیا (donya), urdua: دنیا (duniyā), haŭsa:duniya  
@@ -618,8 +619,8 @@
 **jaru** *balailo* ← hindia:झाड़ू (jhāṛū), bengala:ঝাড়ু (jhaṛu) + korea:빗자루 (bitjaru)  
 **jau** *hordeo* ← hindia:जौ (jau), bengala:যব (jôb), marataja:जव (jav), guĝarata:જવ (jav), persa: جو‎ (jow)  
 **javabu** *respondo* ← araba: جَوَاب‎ (jawāb), hindia:जवाब (javāb), malaja:jawab, svahila:jibu,jawabu, turka:cevap  
-**jebe** *poŝo* ← hindia:जेब (jeb), panĝaba:ਜੇਬ (jeb), urdua:(jeb), teluga:(jēbu), araba:(jayb), turka:cep, volofa:jiba  
 **jebra** ** ← araba:persa:(jabr), turka:cebir, urdua:(aljabrā), angla:algebra, franca:algèbre, svahila:aljebra  
+**jebu** *poŝo* ← araba: جَيْب‎ (jayb), persa: جیب‎ (jib), hindia:जेब (jeb), panĝaba:ਜੇਬ (jeb), teluga:(jēbu), turka:cep, portugala:algebeira, haŭsa:aljihu, volofa:jiba, amhara:ጅብ (ǧəb)  
 **jeka na** ** ← mandarena:借 (jiè), kantona:借 (ze3), japana:借 (shaku), korea:적 (jeok) + angla:check  
 **jeka** ** ← mandarena:借 (jiè), kantona:借 (ze3), vua:借 (jia2), japana:借 (shaku), korea:적 (jeok) + angla:check  
 **jela** ** ← angla:jail, franca:geôle, hindia:जेल (jel), bengala:জেল (jēl), teluga:జైలు (jailu), urdua: جیل‎ (jēl), svahila:jela + hispana:portugala:jaula  
@@ -989,7 +990,7 @@
 **moral** ** ← angla:hispana:portugala:malaja:moral, franca:morale, rusa:мораль (moral’)  
 **mos** ** ← angla:moss, hispana:portugala:musgo, franca:mousse, deu:Moos, rusa:мох (mox), hindia:मॉस (mosa)  
 **mosim** *sezono* ← araba: موسم (mawsim), hindia:मौसम (mausam), malaja:musim, turka:mevsim, svahila:msimu + angla:monsoon, franca:mousson, portugala:monção, rusa:муссон (musson)  
-**moskite** ** ← angla:hispana:portugala:mosquito, franca:moustique, deu:Moskito, rusa:моски́т (moskít), bengala:মশা (môśa), korea:모기 (mogi)  
+**moski** *kulo (moskito)* ← angla:hispana:portugala:mosquito, deu:Moskito, rusa:москит (moskit) + hindia:मशक (maśak), bengala:মশা (môśa) + korea:모기 (mogi) + vjetnama:muỗi  
 **moskva yum** *moskovio* ← angla:franca:moscovium, hispana:moscovio, portugala:moscovio, rusa:московий, japana:モスコビウム, korea:우눈펜튬, vjetnama:moscovi, malaja:moskovium, svahila:moscovi  
 **mostre** *monstro* ← itala:mostro, angla:monster, hispana:portugala:monstro, franca:monstre, rusa:монстр (monstr), japana:モンスター (monsutā), korea:몬스터 (monseuteo)  
 **moto gar** ** ← angla:motorcar, sna:motokari, sot:motokara, svahila:motokaa, zulua:imoto, haŭsa:mota  
@@ -1093,12 +1094,12 @@
 **oste** *osto* ← angla:deu:osteo-, rusa:остео- (osteo-), itala:portugala:osso, franca:os, hindia:अस्थि (asthi-)  
 **oxi** *oksigeno* ← angla:oxygen, franca:oxygène, hispana:oxígeno, portugala:oxigénio, rusa:кислород, vjetnama:oxy, oxi, hindia:ऑक्सीजन, bengala:অক্সিজেন, malaja:oksigen, svahila:oksijeni, araba: أكسجين  
 **pa** *patro* ← angla:franca:papa, hispana:papá, portugala:pai, rusa:папа (papa), araba:(bābā), mandarena:爸 (bà), japana:パパ (papa), korea:아빠 (appa), hindia:बाप (bāp),  bengala:বাবা (baba), malaja:bapa, svahila:turka:baba  
+**paci** *birdo* ← hindia:marataja:पक्षी (pakṣī), bengala:পাখী (pakhī), tamila:பட்சி (paṭci), teluga:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)  
 **pada** ** ← teluga:(paḍu), rusa:падать (padat'), hindia: पड़ना (paṛnā)  
 **pagri** ** ← hindia:marataja:पगड़ी (pagṛī), urdua:(pagṛī), bengala:পাগড়ি (pagri)  
 **pai** *torto* ← angla:pie, hispana:pay, malaja:pai, hindia:पाई (pāī), urdua:(pāī), bengala:পাই (pai), japana:パイ (pai), korea:파이 (pai), mandarena:排 (pái), kantona:批 (pai1), persa:(pây)  
 **paka** ** ← mandarena:迫 (pò), kantona:迫 (baak1), vua:迫 (paq4), japana:迫 (haku), vjetnama:bách  
 **pake** *pako* ← angla:pack, rusa:пакет (paket), hindia:पैकेट (pækeṭ), deu:turka:paket, franca:paquet, hispana:paquete, portugala:pacote  
-**paksi** *birdo* ← hindia:marataja:पक्षी (pakṣī), malajala:പക്ഷി (pakṣi), teluga:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa), bengala:পাখী (pakhī), panĝaba:ਪੰਖੀ (paṅkhī)  
 **palaba** ** ← angla:palaver, krio:plabah, konga:palaba  
 **paladi yum** *paladio* ← angla:palladium, franca:palladium, hispana:paladio, portugala:paládio, rusa:палладий, mandarena:钯 (bǎ), japana:パラジウム, korea:팔라듐, vjetnama:palađi, hindia:पलाडियम, bengala:প্যালাডিয়াম, malaja:paladium, svahila:paladi, araba: بلاديوم  
 **palma** *palmo* ← deu:Palme, angla:palm, portugala:hispana:palma, rusa:пальма (palma), turka:palmiye, malaja:palem, taja:ปาล์ม (pām)  
@@ -1373,7 +1374,7 @@
 **sui kaboga** ** ← portugala:abóbora-d'água, turka:su kabağı  
 **sui** *akvo* ← mandarena:水 (shuǐ), japana:水 (sui), korea:수 (su), vjetnama:thuỷ + turka:su  
 **suje** ** ← hindia:सुझाव (sujhāv), teluga:(sūcana), angla:suggestion, portugala:sugestão  
-**suka** *feliĉa* ← hindia:सुख (sukha), taja:สุข (suk), nan:舒合 (su-kah), malaja:suka, japana:好く (suku)  
+**suka** *feliĉa (ŝati)* ← hindia:सुख (sukha), malaja:suka, teluga:సుఖము (sukhamu), taja:สุข (suk), nan:舒合 (su-kah) + japana:好く (suku)  
 **sukar** *sukero* ← angla:sugar, franca:sucre, hispana:azúcar, portugala:açúcar, araba: سُكَّر (sukkar), hindia:शक्कर (śakkar), bengala:শর্করা (śôrkôra), malaja:sakar, svahila:sukari, turka:şeker, tamila:சக்கரை (cakkarai)  
 **sulfu** *sulfuro* ← angla:sulfur, franca:soufre, hispana:azufre, portugala:enxofre, svahila:sulfuri  
 **sultan ja** ** ← araba:سلطة (sulṭa), angla:turka:malaja:sultan, hispana:sultán, rusa: султан (sultan), persa:سلطان‎ (soltân), hindia:सुल्तान (sultān), bengala:সুলতান (śultan), svahila:sultani  
@@ -1475,7 +1476,8 @@
 **tundra** *tundro* ← angla:hispana:portugala:turka:tundra, rusa:тундра (tundra), araba:تندرا‎ (tundrā), hindia:टुंड्रा (ṭuṇḍrā), japana:ツンドラ (tsundora)  
 **tunel** *tunelo* ← angla:franca:tunnel, hispana:portugala:túnel, rusa:тоннель (tonnel’), turka:tünel, japana:トンネル (tonneru), 터널 (teoneol)  
 **tunika** *robo* ← hispana:túnica, angla:tunic, rusa:туника (tunika)  
-**tupi** *ĉapelo* ← malaja:topi, hindia: टोपी (ṭopī), bengala:টুপি (ṭupi), tamila:(toppi)  
+**tupi** *ĉapelo* ← malaja:topi, hindia: टोपी (ṭopī), bengala:টুপি (ṭupi), tamila:தொப்பி (toppi)  
+**turbe** ** ← angla:turbid + rusa:турбина (turbina), japana:タービン (tābin), korea:터빈 (teobin) + eng:disturb, franca:perturber, hispana:portugala:perturbar  
 **turfa** *torfo* ← angla:turf, franca:tourbe, hispana:turka:turba, portugala:turfa, rusa:торф (torf)  
 **tuta** *moruso* ← rusa:тута (tuta), araba: تُوت‎ (tūt), hindia:तूत (tūt), turka:dut  
 **tuzi** ** ← mandarena:兔子 (tùzi), kantona:兔仔 (tou3zai2), korea:토끼 (tokki), vjetnama:thỏ, taja:เถาะ (tho)  
@@ -1630,7 +1632,7 @@
 **zinji** *zingibro* ← angla:ginger, franca:gingembre, hispana:gengibre, portugala:jengibre, mandarena:姜 (jiāng), tamila:இஞ்சி (inji), araba: زنجبيل‎ (zanjabīl), turka:zencefil  
 **zinke** *zinko* ← angla:zinc, franca:zinc, hispana:cinc, portugala:zinco, rusa:цинк, mandarena:锌 (xīn), bengala:জিঙ্ক, malaja:seng, svahila:zinki  
 **zipe** ** ← angla:zipper, bengala:জিপার (jipar), hindia:ज़िपर (zipar), japana:ジッパー (jippā), korea:지퍼 (jipeo), taja:ซิป (síp), persa:urdua:(zip)  
-**zira** *kumino* ← bengala:জিরা (zīra), hindia:ज़ीरा (zīrā), tamila:சீரகம் (sīrakam), svahila:mjira, persa:(zire), mandarena:孜然 (zīrán)  
+**zira** *kumino* ← persa: زیره‎ (zire), hindia:ज़ीरा (zīrā), bengala:জিরা (zīra), tamila:சீரகம் (sīrakam), rusa:зира (zira), mandarena:孜然 (zīrán), svahila:mjira  
 **zirkon yum** *zirkonio* ← angla:zirconium, franca:zirconium, hispana:circonio, portugala:zircónio, rusa:цирконий, japana:ジルコニウム, korea:지르코늄, vjetnama:ziriconi, hindia:जर्कोनियम, bengala:জিরকোনিয়াম, malaja:zirkonium, svahila:zirikoni, araba: زيركونيوم  
 **zizi** ** ← mandarena:zizi angla:sizzle  
 **zoku** *ankoraŭ* ← vua:续 (zoq), kantona:續 (zuk6), japana:続 (zoku), korea:속 (sok), vjetnama:kế tục  

@@ -119,5 +119,5 @@ pan insan ten la haki de sosi e nasi medi di ratibu, a ki la haki e huruta de yi
 ## babu 30
 siro xe a yi dokumen bil don, to eni dexa o grupe o jen, eni haki de karma o parti a karma, ki dike fa harabu eni haki o huru ta, ki be kitabu a yi dokumen.
 
-[duku la loga de insan haki a alo baxa](https://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx)
+[dugu la loga de insan haki a alo baxa](https://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx)
 

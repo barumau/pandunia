@@ -61,7 +61,7 @@ angar - якорь
 angul - палец  
 angul marke - отпечаток пальца  
 angul pike - кончик пальца  
-anime - оживление  
+anime - анимация  
 anis - анис  
 anis araki - арак (ракы)  
 anjil - месседж  
@@ -233,6 +233,7 @@ bon sin di - благоприятный
 bor yum - борий  
 boron - бор  
 botel - бутылка  
+botel tapa - крышка  
 Brahma - Брахма  
 brauza - исследовать  
 brauza gi - браузер  
@@ -393,7 +394,7 @@ du o tri - пара
 • dusdua - проклятие (анафема)  
 dubna yum - дубний, ²нильсборий  
 dudu - насекомое  
-duku - читать  
+dugu - читать  
 duna - дюна  
 dunia - мир (свет)  
 durbil - долговечный  
@@ -764,6 +765,7 @@ jara - кувшин (графин)
 jaru - метла  
 jau - ячмень  
 javabu - ответ  
+jebu - карман  
 • projete - проект  
 jihade - борьба (бой)  
 jin lai - доступ  
@@ -971,6 +973,7 @@ lampa - лампа
 lanse xe - снаряд  
 lantan - лантан  
 lasa - мусор (дрянь)  
+lasa posta - спам  
 lasa stan - свалка  
 lasa tong - мусорный бак  
 lasun - чеснок  
@@ -1138,10 +1141,12 @@ moluske - моллюск
 mos - мох  
 mos di - мшистый  
 mosim - время года (сезон)  
+moski - комар (москит)  
 Moskva - Москва  
 moskva yum - московий  
 mostre - монстр  
 moto - мотор  
+moto cati - капот  
 moto sikle - мотоцикл  
 mula - корень  
 mum melon - восковая тыква (зимняя дыня)  
@@ -1252,6 +1257,8 @@ oxide - окись (оксид)
 
 pa - отец (папа)  
 pa di - отеческий  
+paci - птица  
+paci logi - орнитология  
 pada di - упавший  (падший)  
 pada mun - лаз  
 pagri - чалма  
@@ -1650,7 +1657,9 @@ Tule - Туле
 tule yum - тулий  
 tuna - тунец  
 tundra san - фьельды  
-turbe posta - спам  
+turbe - утруждай  
+turbejeter - турбореактивный двигатель  
+turbin - турбина  
 tuta - шелковица (тута)  
 tuzi - кролик (заяц)  
 
@@ -1833,7 +1842,7 @@ zi sili - алфавит
 Zimbabue - Зимбабве  
 zinji - имбирь  
 zinke - цинк  
-zira - тмин  
+zira - тмин (зира)  
 zirkon - циркон  
 zirkon yum - цирконий  
 zoku - ещё  

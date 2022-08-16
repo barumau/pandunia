@@ -66,6 +66,7 @@ antena - 天线
 antra - 肠子  
 anus - 肛门  
 aple - 苹果  
+aplika - 运用  
 aposum - 负鼠 (奥珀瑟姆)  
 arabi babul - 阿拉伯金合欢  
 araki - 烈酒  
@@ -213,6 +214,7 @@ bon sin di - 吉利的
 bon vide di - 好看  
 boron - 硼  
 botel - 瓶  
+botel tapa - 瓶盖  
 Brahma - 梵天  
 briko - 杏子 (李子)  
 brom - 溴  
@@ -349,7 +351,7 @@ du - 二 (2)
 dua - 祈祷  
 • dusdua - 诅咒  
 dudu - 昆虫  
-duku - 读 (看)  
+dugu - 读 (看)  
 dunia - 世界  
 dur - 时间  
 durbil - 耐用的  
@@ -674,6 +676,7 @@ jara - 罐 (瓶)
 jaru - 扫帚  
 jau - 大麦  
 javabu - 回答  
+jebu - 口袋 (荷包)  
 jeka - 借  
 jeka da - 借出  
 jeka na - 借入  
@@ -1017,8 +1020,10 @@ moli hua cai - 茉莉花茶
 moliden - 钼  
 mos - 苔藓  
 mosim - 季  
+moski - 蚊子  
 mostre - 妖怪 (怪物)  
 moto - 马达 (发动机)  
+moto cati - 引擎盖  
 mula - 根  
 mum cape - 封印  
 mum melon - 冬瓜 (白瓜)  
@@ -1121,6 +1126,8 @@ oxide - 氧化物
 pa - 爸爸  
 pa su ma - 奶奶 (祖母)  
 pa su pa - 爷爷 (祖父)  
+paci - 鸟 (雀)  
+paci logi - 鸟类学  
 pagri - 包头  
 pai - 馅饼  
 paladi yum - 钯  
@@ -1452,6 +1459,7 @@ tumen su - 你们的
 tumimen - 咱们  
 tule yum - 铥  
 tuna - 金枪鱼  
+turbin - 涡轮机  
 tuta - 桑树  
 tuzi - 兔子  
 

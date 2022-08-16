@@ -178,7 +178,7 @@ anus - anus
 anus di - anal  
 aple - apple  
 aple sos - applesauce  
-aplika - application  
+aplika - apply (put to use for a purpose; application)  
 aposum - opossum  
 Apsni - Abkhazia  
 arabi - Arabic  
@@ -443,7 +443,6 @@ be sabi vol - wonder (be interested in, would like to know)
 be sam rupa - resemble (be like)  
 be sel - should (ought)  
 be sona - sleep  
-be suka - like (enjoy, be fond of)  
 be supra - surpass (go over)  
 be tam - covet  
 be tele loka - teleport  
@@ -554,6 +553,7 @@ boron - boron
 Bosna e Hercegovina - Bosnia and Herzegovina  
 Bote - Tibet  
 botel - bottle  
+botel tapa - bottle cap  
 Brahma - Brahma  
 brauza - explore (browse)  
 brauza gi - browser  
@@ -916,9 +916,9 @@ dua - prayer
 • dusdua - curse (damn, malediction)  
 dubna yum - dubnium  
 dudu - insect  
-duka - grief (sorrow)  
-duka di - sad  
-duku - read  
+dugu - read  
+duku - grieve (be sad; grief, sorrow)  
+duku di - sad  
 duman - smoke  
 duna - dune  
 dunia - world  
@@ -2005,8 +2005,8 @@ jau - barley
 javabu - answer (reply, response)  
 Jayer - Algeria  
 jaze - jazz  
-jebe - pocket  
 jebra - algebra  
+jebu - pocket  
 jeka - borrow (lend)  
 jeka da - lend  
 jeka loga - loanword  
@@ -2481,6 +2481,7 @@ lanse xe - projectile (missile)
 lantan - lanthanum  
 larva - larva (maggot, caterpillar)  
 lasa - garbage (rubbish, trash, junk)  
+lasa posta - spam mail  
 lasa stan - dump (junk yard)  
 lasa tong - garbage can (trash bin)  
 lasun - garlic  
@@ -2885,11 +2886,12 @@ Moris - Mauritius
 mos - moss  
 mos di - mossy  
 mosim - season  
-moskite - mosquito  
+moski - mosquito  
 Moskva - Moscow  
 moskva yum - moscovium  
 mostre - monster  
 moto - engine (motor)  
+moto cati - hood (bonnet, cover over the engine)  
 moto gar - motorcar (automobile)  
 moto sikle - motorcycle  
 move - motion (movement)  
@@ -3153,6 +3155,8 @@ pa - father (dad, papa)
 pa di - fatherly (paternal)  
 pa su ma - paternal grandmother  
 pa su pa - paternal grandfather  
+paci - bird  
+paci logi - ornithology (birdlore)  
 pada - fall  
 pada di - fallen  
 pada mosim - autumn (fall)  
@@ -3162,7 +3166,6 @@ pai - pie (pastry)
 paka - coercion (force, compulsion)  
 pake - pack (package)  
 Pakistan - Pakistan  
-paksi - bird  
 palaba - conflict (argument, dispute, quarrel)  
 paladi yum - palladium  
 Palau - Palau  
@@ -3920,7 +3923,7 @@ sui sekur di - waterproof
 sui yau - thirst  
 Suise - Switzerland  
 suje - suggestion (proposal)  
-suka - pleased (delighted, happy)  
+suka - enjoy (like, be happy, be fond of; pleased, delighted, happy)  
 sukar - sugar  
 sukar bete - sugar beet  
 sukar di - sugary (sweet)  
@@ -3983,7 +3986,7 @@ tanki - tank (reservoir)
 tantal yum - tantalum  
 tanur - oven (furnace)  
 Tanzania - Tanzania  
-tapa - stopper (cap, peg, tap)  
+tapa - stopper (cap, peg, plug, tap)  
 • antapa - unplug (uncork)  
 tarif - tarif (tax, duty)  
 tasa - bowl (dish)  
@@ -4148,8 +4151,10 @@ tunel tren - subway (metro)
 tunika - tunic (gown)  
 Tunis - Tunisia  
 tupi - hat (cap)  
-turbe - trouble (disturbance, bother, annoyance)  
-turbe posta - spam mail  
+turbe - whirl (dizz; disorientate, trouble, disturb, bother, annoy)  
+• disturbe - disturb (disturbance, turbulence)  
+turbejeter - turbojet  
+turbin - turbine  
 turfa - peat  
 Turki - Turkey  
 turki baxa - Turkish langage  

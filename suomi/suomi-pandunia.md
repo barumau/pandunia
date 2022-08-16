@@ -770,7 +770,7 @@ hymiö (emoji) - gamo zi
 Hyperion - Hiperion  
 hypätä (hyppiä) - jampe  
 hyrrä - rota vanu gi  
-hyttynen (sääski) - moskite  
+hyttynen (sääski) - moski  
 hyve - bon moral  
 hyveellinen (hyvä) - bon moral di  
 hyvin (sangen) - tre  
@@ -802,8 +802,8 @@ hyöty (etu) - faida
 hyötyaines - faida xe  
 häh (-ko, -kö) - he  
 häiritä (vaivata) - fa turbe  
-häiriö (vaiva) - turbe  
 häkki - kane kasa  
+hämmentää (sekoittaa; hämmennys, turbulenssi) - disturbe  
 hämähäkinverkko - arane nete  
 hämähäkki - arane  
 hän (se) - ya  
@@ -1270,6 +1270,7 @@ kielletty - haram
 kielo - vali susan  
 kieltää - fa haram  
 kieltää - nega  
+kieppua (sekoittaa; häiritä) - turbe  
 kiero (perverssi) - perversi  
 kierre (spiraali) - helis  
 kierrättää - resikle  
@@ -1372,6 +1373,7 @@ kommunisti - kon sana sim ja
 Komorit - Komoro nesi  
 komposti - bio sana xe  
 kone - gi  
+konepelti - moto cati  
 konkani (eräs intialainen kieli) - Konkani  
 konsertti - konserte  
 konsonantti - kinar fon  
@@ -1734,7 +1736,8 @@ linja (viiva, lanka, liina, naru, köysi) - lin
 linja-auto (bussi) - bus  
 linna (linnake, linnoitus) - burge  
 linssi - lense  
-lintu - paksi  
+lintu - paci  
+lintutiede (ornitologia) - paci logi  
 lippu (piletti) - tikete  
 lippu - bandera  
 lisko - saur  
@@ -1769,7 +1772,7 @@ lounas - dia yam
 luhistua (sortua sisään) - be in bum  
 luhistuminen - in bum  
 luiska (ramppi) - rampe  
-lukea - duku  
+lukea - dugu  
 lukita - fa sor  
 lukitsematon - detala di  
 lukko - tala  
@@ -2579,7 +2582,6 @@ pituusaste - ging darja
 pituuspiiri - ging gola  
 pitäisi - be sel  
 pitää (pitää kiinni, pitää hallussa) - tene  
-pitää (tykätä, olla tyytyväinen jstkn) - be suka  
 pitää koossa - kontene  
 pitää sisällä (sisältää; sisältö) - intene  
 planeetta - planeta  
@@ -2682,6 +2684,7 @@ puhua (kieli, kommunikaatio) - baxa
 pukea (vaatettaa) - fa fuku  
 pukeutua (pitää vaatetta yllään) - fa fuku  
 pullo - botel  
+pullonkorkki - botel tapa  
 pultti - bolte  
 pumppu - pompe  
 punainen - rubi  
@@ -3175,7 +3178,7 @@ sotaherran maa - gun raja dexa
 sotilaallinen - jang di  
 sotilas - gun jen  
 soturi (taistelija) - jang ja  
-sovellus - aplika  
+soveltaa (sovellus) - aplika  
 soveltaa - fa aplika  
 sovittaa (mukauttaa) - fa hapu  
 sranan tongo - surinam baxa  
@@ -3189,6 +3192,7 @@ substantiivi (nimisana) - nam loga
 Sudan - Sudan  
 sudenkorento - libele  
 suihku - dux  
+suihkumoottori (suihkuturbiini) - turbejeter  
 sukka - maze  
 suklaa - coklate  
 suklaapatukka - coklate kane  
@@ -3230,8 +3234,8 @@ suosittu (trendikäs) - faxon di
 surettaa - fa duka  
 Surinam - Surinam  
 surra (murehtia) - be duka  
-suru (murhe) - duka  
-surullinen - duka di  
+suru (murhe) - duku  
+surullinen - duku di  
 sushi - suxi  
 susi (hukka) - volfe  
 sutenööri - sutener  
@@ -3380,7 +3384,7 @@ tarvita - yau
 tasainen (tasavertainen) - par  
 tasapaino - par vezeta  
 tasavalta - vakil krati  
-tasku - jebe  
+tasku - jebu  
 taso - par fase  
 tasoittaa (tasata) - fa par  
 tatuointi - tatu  
@@ -3584,6 +3588,7 @@ tupakka - tabaku
 tupla (kaksinkertainen) - duple  
 tuplata (kertoa kahdella) - fa multi do du  
 turbaani - pagri  
+turbiini - turbin  
 turismi - safar keka  
 turisti - safar keka ja  
 Turkki - Turki  
@@ -3609,6 +3614,7 @@ tykki - dai pau
 tykkimies - dai pau ja  
 tykkääminen - fili  
 tykätä (pitää) - fa fili  
+tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen) - suka  
 tylsyys (pitkästys) - bori  
 tynnyri (tölkki) - tong  
 typerys (idiootti) - idiote  
@@ -3622,7 +3628,6 @@ Tyyni valtameri - Pase Hai
 tyyny - kuxen  
 tyyppi (laji, genre) - tipe  
 tyyrpuuri - nave raite  
-tyytyväinen (iloinen) - suka  
 työ (tehtävä) - karxe  
 työkalu - tul  
 työntekijä (työläinen) - karja  

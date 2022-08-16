@@ -425,7 +425,7 @@ czwartek - den nelu
 czyn, uczynek - fate  
 czysty (higieniczny, sanitarny) - salu safa di  
 czysty - safa  
-czytać - duku  
+czytać - dugu  
 cząstka (ziarno, kula, pocisk) - dana  
 często - a poli mar  
 częstotliwość - poli marta  
@@ -1111,7 +1111,7 @@ keta - baku salmon
 kichać (apsik!) - aci  
 kiedy? - ke riti  
 kierować (doprowadzać, prowadzić, służyć jako kanał) - fa kanal  
-kieszeń - jebe  
+kieszeń - jebu  
 kiełbasa - sosis  
 kilof - pin cope  
 kilogram (kg) - kilogram  
@@ -1176,7 +1176,7 @@ kolonizować - fa koloni
 kolor - rang  
 Kolumbia - Kolombia  
 kolumna, filar - kolum  
-komar, moskit - moskite  
+komar, moskit - moski  
 komik - yumor ja  
 komiks; kreskówka - grafi kata  
 Komory - Komoro nesi  
@@ -1406,7 +1406,6 @@ lot - fei
 lotnisko (port lotniczy) - air porte  
 lub, albo - o  
 lubić - fa fili  
-lubić, cieszyć się - be suka  
 lud, społeczeństwo - demi  
 ludzie (lud, ludność) - natia jen  
 ludzki - insan di  
@@ -1918,6 +1917,7 @@ opłata, taryfa - tarif
 organiczny - bio  
 orgazm - orgazme  
 orija - Odisa  
+ornitologia - paci logi  
 Oromia - Oromo Dexa  
 oromo - oromo  
 orzech ziemny - geo dou  
@@ -2298,7 +2298,6 @@ prekursor - prekurser
 premier - xefe ministre ja  
 prezydent - prezidente  
 problem - problem  
-problem, kłopot, zakłócenie - turbe  
 problematyczny - problem di  
 proces, procedura - culi  
 proch strzelniczy - barude  
@@ -2358,6 +2357,7 @@ przesilenie letnie (dzień srodka lata) - garma mosim medi den
 przestępstwo - krim  
 przesuwać (przesunąć, poruszać, poruszyć, przesiedlać, przesiedlić) - be migra  
 przeszkodzić, przeszkadzać, robić kłopot - fa turbe  
+przeszkodzić, przeszkadzać, robić kłopot - turbe  
 przeszłość - cen zaman  
 przeszły, miniony - pas di  
 przetwarzać - resikle  
@@ -2401,7 +2401,7 @@ psychologia - ruhu logi
 pszczoła lub osa - fong  
 pszczoła miodna - medu fong  
 pszenica - ganum  
-ptak - paksi  
+ptak - paci  
 publiczny - demi di  
 puder - muka fun  
 pudełko, skrzynia - pesa kasa  
@@ -2720,7 +2720,7 @@ smakować, próbować smaku - fa guste
 smerf - nilelfe  
 smieszany (skonfudowany) - ruhu mixe di  
 smok - lung  
-smutny - duka di  
+smutny - duku di  
 smycz (cugiel, lejc, wodza) - lida lin  
 snajper (strzelec wyborowy) - juste pau ja  
 sobota - den luka  
@@ -2801,6 +2801,7 @@ stopień Celsjusza - celsius darja
 stopień, poziom, ranga, klasa - darja  
 stopniowy - darja di  
 storczyk (orchidea) - orkide  
+stosować (zastosować; zastosowanie, aplikacja) - aplika  
 stowarzyszać się (zrzeszać się) - fa liga  
 strach, fobia - fobi  
 stracić (utracić, tracić, zgubuć, gubić) - xiti  
@@ -3061,6 +3062,7 @@ tunel - tunel
 Tunezja - Tunis  
 tunika, toga - tunika  
 turban - pagri  
+turbina - turbin  
 Turcja - Turki  
 turecki - turki baxa  
 Turek osmański - osman  
@@ -3215,7 +3217,7 @@ weranda, balkon, taras, ganek - veranda
 wermut - vermute  
 wersja (wariacja, edycja, wydanie) - version  
 wersja (wariacja, edycja, wydanie) - version  
-wesoły, ucieszony - suka  
+wesoły (ucieszony; cieszyć się) - suka  
 wesprzeć (wzmocnić, zasilić) - fa max lika  
 wewnętrzny - in di  
 wewnętrzny - innati  
@@ -3496,7 +3498,6 @@ zarządzanie (-nomia) - nomi
 zarządzać (organizować, kierować) - fa nomi  
 zaskoczenie - supriza  
 zasmucić (zasmucać) - fa duka  
-zastosowanie, aplikacja - aplika  
 zastosować, stosować - fa aplika  
 zastrzyk (wstrzyknąć, wstrzykiwać) - injete  
 zastrzyk - juxa  
@@ -3676,7 +3677,7 @@ zły, zrujnowany, zepsuty - harabu
 źródłowy, początkowy, oryginalny - asal di  
 żaba - krokro  
 żad - giuka  
-żal, smutek - duka  
+żal, smutek - duku  
 żart - joke  
 żartowniś, dowcipniś - joke ja  
 że - ki  

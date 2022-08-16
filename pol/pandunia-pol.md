@@ -117,7 +117,7 @@ anus - odbyt
 anus di - analny, odbytni  
 aple - jabłko  
 aple sos - sos jabłkowy  
-aplika - zastosowanie, aplikacja  
+aplika - stosować (zastosować; zastosowanie, aplikacja)  
 aposum - opos  
 Apsni - Abchazja  
 arabi - arabski  
@@ -332,7 +332,6 @@ be rute galte - zbłąkać się (wykoleić się)
 be sam rupa - być podobnym, być jak  
 be sel - powinien  
 be sona - spać  
-be suka - lubić, cieszyć się  
 be supra - przekroczyć, przekraczać, przejść nad, iść nad  
 be tele loka - teleportować się  
 be teza - wzmacniać się (wzmagać, pogłębiać się)  
@@ -709,9 +708,9 @@ dua - modlitwa
 • dusdua - kląć (przeklinać; przekleństwo)  
 dubna yum - dubn  
 dudu - owad  
-duka - żal, smutek  
-duka di - smutny  
-duku - czytać  
+dugu - czytać  
+duku - żal, smutek  
+duku di - smutny  
 duman - dym  
 dunia - świat  
 dunia baxa - język świata, język ogólnoświatowy  
@@ -1572,8 +1571,8 @@ jau - jęczmień
 javabu - odpowiedź, odzew  
 Jayer - Algieria  
 jaze - jazz, dżez  
-jebe - kieszeń  
 jebra - algebra  
+jebu - kieszeń  
 jeka - pożyczyć  
 jeka da - pożyczać komuś (pożyczyć komuś)  
 jeka loga - zapożyczenie (wyraz obcy)  
@@ -2325,7 +2324,7 @@ Moris - Mauritius
 mos - mech  
 mos di - omszały (mszysty)  
 mosim - pora roku  
-moskite - komar, moskit  
+moski - komar, moskit  
 Moskva - Moskwa  
 moskva yum - moskovium  
 mostre - potwór, monstrum  
@@ -2557,6 +2556,8 @@ oxide - tlenek
 ## P  
 
 pa - ojciec  
+paci - ptak  
+paci logi - ornitologia  
 pada - paść, padać, upaść, upadać  
 pada di - upadły  
 pada mosim - jesień  
@@ -2565,7 +2566,6 @@ pagri - turban
 pai - placek, ciasto  
 pake - paczka, paka  
 Pakistan - Pakistan  
-paksi - ptak  
 paladi yum - pallad  
 Palau - Palau  
 palma - palma, drzewo palmowe  
@@ -3205,7 +3205,7 @@ sui sekur di - wodoodporny
 sui yau - pragnienie  
 Suise - Szwajcaria  
 suje - sugestia, propozycja  
-suka - wesoły, ucieszony  
+suka - wesoły (ucieszony; cieszyć się)  
 sukar - cukier  
 sukar bete - burak cukrowy  
 sukar di - słodki  
@@ -3372,7 +3372,8 @@ tunel tren - metro
 tunika - tunika, toga  
 Tunis - Tunezja  
 tupi - kapelusz, czapka  
-turbe - problem, kłopot, zakłócenie  
+turbe - przeszkodzić, przeszkadzać, robić kłopot  
+turbin - turbina  
 Turki - Turcja  
 turki baxa - turecki  
 Turkomen - Turkmenistan  

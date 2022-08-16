@@ -341,7 +341,7 @@ dua - 祈祷
 • dusdua - 呪い (たたり)  
 dubna yum - ドブニウム  
 dudu - 昆虫  
-duku - 読む  
+dugu - 読む  
 dunia - 世界  
 durbil - 持続的  
 dur metre gi - ストップウオッチ  
@@ -692,6 +692,7 @@ jangal - 森 (森林, ジャングル)
 jaru - 箒  
 jau - 大麦  
 javabu - 答え (回答)  
+jebu - ポケット (懐中)  
 jeka - 借用  
 jeka da - 貸す  
 jeka na - 借りる  
@@ -894,6 +895,7 @@ lanse grafi - 投影
 lanse xe - 飛翔体 (矢玉)  
 lantan - ランタン  
 lasa - ゴミ (廃棄物)  
+lasa posta - 迷惑メール  
 lasa stan - ゴミ捨て場  
 lasa tong - ごみ箱  
 lasun - 大蒜  
@@ -1065,9 +1067,11 @@ moliden - モリブデン
 mos - 苔  
 mos di - 苔状  
 mosim - 季節  
+moski - 蚊  
 moskva yum - モスコビウム  
 mostre - 怪物  (モンスター)  
 moto - モーター (エンジン, 機関)  
+moto cati - ボンネット (フード)  
 moto sikle - オートバイ (モーターサイクル)  
 mula - 根  
 multi - 多い  
@@ -1166,6 +1170,8 @@ oxi - 酸素
 ## P  
 
 pa - お父さん (父, パパ)  
+paci - 鳥 (鳥類)  
+paci logi - 鳥類学  
 pada mun - 落とし戸  
 paladi yum - パラジウム  
 pan - 全ての  
@@ -1504,7 +1510,9 @@ tumen - あなたたち
 tu su - あなたの  
 tule yum - ツリウム  
 tuna - 鮪 (ツナ)  
-turbe posta - 迷惑メール  
+turbe - 悩む (わざわざする)  
+turbejeter - ターボジェットエンジン  
+turbin - タービン  
 tuta - 桑  
 tuzi - うさぎ  
 

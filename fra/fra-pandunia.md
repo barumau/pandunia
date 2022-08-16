@@ -107,7 +107,7 @@ anus - anus
 anémie - anhemia  
 août - mes bati  
 appartenir à - be mal  
-application - aplika  
+appliquer (application) - aplika  
 appliquer - fa aplika  
 apporter - fa lai  
 apprendre (étudier) - fa xula  
@@ -346,6 +346,8 @@ Cantalupo in Sabina - Kantalupo va Sabina
 canyon (ravin) - kanyon  
 capacité (pouvoir, habileté) - bilta  
 cape - mantol  
+capot - moto cati  
+capsule - botel tapa  
 caractère - zi  
 carapace (coquille, coquillage, croûte) - kaska  
 carat - kirate  
@@ -529,6 +531,7 @@ cuillère à café (petite cuillère) - cai camaca
 cuivre - kupre  
 cultiver - agri  
 culturisme (musculation) - muskul bina  
+cumin - zira  
 curium - kuri yum  
 curry - kari  
 cycliste - sikle ja  
@@ -803,6 +806,7 @@ géométrie - geo metre
 géopolitique - geo politi  
 géothermique - geo termo  
 gêner (déranger, perturber) - fa turbe  
+gêner (déranger, perturber) - turbe  
 
 ## H  
 
@@ -820,7 +824,7 @@ henné - hina
 herbe (gazon) - cau  
 Hesse - Hese  
 heure - hor  
-heureux - suka  
+heureux (se plaire) - suka  
 hier - cen den  
 Hindustan - Hindi dexa  
 hippopotame  - gubu  
@@ -987,7 +991,7 @@ ligne téléphonique - tele fon lin
 ligue (alliance) - liga  
 lilas - lila  
 lime (citron vert) - kaguji limon  
-lire - duku  
+lire - dugu  
 liste - liste  
 lit - bede  
 lit de camp - kampe bede  
@@ -1123,6 +1127,7 @@ moulin - molkan
 mousse - mos  
 mousson - xava mosim  
 moussu - mos di  
+moustique - moski  
 mouvoir (bouger) - fa kino  
 moyen - medi di  
 mule - iha uma  
@@ -1215,7 +1220,7 @@ oeuf - anda
 oganesson - oganeson  
 oie - ganse  
 oignon - piaze  
-oiseau - paksi  
+oiseau - paci  
 ombrelle (parasol) - sol cati  
 on - men  
 oncille - bagre oselote  
@@ -1238,6 +1243,7 @@ organisme - bioxe
 orge - jau  
 origine - asal  
 originel - asal di  
+ornithologie - paci logi  
 orphelinat - yatim dom  
 orthogonal - orto gona di  
 osmium - osmi yum  
@@ -1316,6 +1322,7 @@ perfectionner (parfaire) - fa pul bon
 perplexe (désorienté) - ruhu mixe di  
 perroquet - papagai  
 personne - jen  
+perturber (turbulence) - disturbe  
 pervers - perversi  
 pet (vesse) - pede  
 petit - xiu  
@@ -1371,6 +1378,7 @@ plurilingue (multilingue) - polibaxaka
 plus - max  
 plutonium - pluton yum  
 pneumonie - pulmon tis  
+poche - jebu  
 pocion - dava sui  
 podzol - hui darte  
 poids (lourdeur, gravité) - veze  
@@ -1610,7 +1618,6 @@ scutelle - oste xalke
 se - se  
 se baigner - fa banya  
 se mouvoir - be kino  
-se plaire - be suka  
 se rappeler (se remémorer) - fa memo  
 seaborgium - siborge yum  
 seau - baldi  
@@ -1776,6 +1783,8 @@ tubercule - masa mula
 tungstène - volfram  
 Tunisie - Tunis  
 turban - pagri  
+turbine - turbin  
+turboréacteur - turbejeter  
 télescope (lunette) - teleskope  
 télécharger - nete gete  
 téléphone - tele fon gi  

@@ -132,7 +132,7 @@ anus - ano
 anus di - anal  
 aple - manzana  
 aple sos - compota de manzanas  
-aplika - aplicación  
+aplika - emplear (aplicar; aplicación)  
 aposum - zarigüeya  
 Apsni - abjazia  
 arabi - árabe  
@@ -367,7 +367,6 @@ be sabi vol - preguntarse
 be sam rupa - parecerse a  
 be sel - deber (se recomienda)  
 be sona - dormir  
-be suka - gustarse (disfrutar)  
 be supra - sobrepasar  
 be tele loka - teletransportarse  
 be turbe - molestar en  
@@ -464,6 +463,7 @@ boron - boro
 Bosna e Hercegovina - Bosnia y Herzegovina  
 Bote - Tíbet  
 botel - botella  
+botel tapa - tapón (corcholata)  
 brauza - explorar  
 brauza gi - navegador  
 bravo - bravo!  
@@ -776,9 +776,9 @@ dua - rezo (oración)
 • dusdua - maldecir (maldición)  
 dubna yum - dubnio  
 dudu - insecto  
-duka - pena (tristeza)  
-duka di - triste  
-duku - leer  
+dugu - leer  
+duku - pena (tristeza)  
+duku di - triste  
 duman - humo  
 duna - duna  
 dunia - mundo  
@@ -1734,8 +1734,8 @@ jau - cebada
 javabu - repuesta (contestación)  
 Jayer - Argelia  
 jaze - jazz  
-jebe - bolsillo  
 jebra - álgebra  
+jebu - bolsillo  
 jeka - prestar (pedir prestado)  
 jeka da - prestar  
 jeka loga - préstamo lingüístico  
@@ -2146,6 +2146,7 @@ lanse xe - proyectil (misil)
 lantan - lantano  
 larva - larva  
 lasa - basura (desechos)  
+lasa posta - correo basura  
 lasa stan - basural  
 lasa tong - basurero  
 lasun - ajo  
@@ -2518,10 +2519,11 @@ Moris - Mauricio
 mos - musgo  
 mos di - musgoso  
 mosim - estación (temporada)  
-moskite - mosquito  
+moski - mosquito (mosco)  
 moskva yum - moscovio  
 mostre - monstro  
 moto - motor  
+moto cati - capó (bonete)  
 moto gar - automóvil (coche)  
 moto sikle - motocicleta  
 move - movimiento  
@@ -2763,6 +2765,8 @@ oxide - óxide
 
 pa - padre (papá)  
 pa di - paternal  
+paci - pájaro (ave)  
+paci logi - ornitología  
 pada - caer  
 pada mosim - otoño  
 pada mun - trampilla  
@@ -2770,7 +2774,6 @@ pagri - turbante
 pai - pastel (pay)  
 pake - paquete  
 Pakistan - Pakistán  
-paksi - pájaro (ave)  
 paladi yum - paladio  
 Palau - Palaos  
 palma - palmera  
@@ -3450,7 +3453,7 @@ sui sekur di - impermeable (sumergible)
 sui yau - sed  
 Suise - Suiza  
 suje - surgéncia (propuesta)  
-suka - feliz  
+suka - feliz (gustarse, disfrutar)  
 sukar - azúcar  
 sukar bete - remolacha azucarera  
 sukar di - azucarado  
@@ -3646,8 +3649,10 @@ tunel tren - metro
 tunika - túnica  
 Tunis - Túnez  
 tupi - sombrero  
-turbe - problema (disturio)  
-turbe posta - correo basura  
+turbe - molestar (perturber)  
+• disturbe - perturbar (turbulencia)  
+turbejeter - turborreactor  
+turbin - turbina  
 Turki - Turquía  
 turki baxa - idioma turco  
 Turkomen - Turkmenistán  
