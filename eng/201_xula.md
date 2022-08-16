@@ -886,9 +886,9 @@ milk
 ### Answers to the Exercises
 
 1. mi su xefe festa a xa.
-2. mi ten du vaf a pas.
+2. mi ha du vaf a pas.
 3. tu yam supe a zai.
 4. ya safi kamar a pre den.
 5. mau yam milke a pos den.
-6. tu su mama festa a prenoce.
+6. tu su ma festa a prenoce.
 
