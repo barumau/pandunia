@@ -74,7 +74,7 @@ agree (concur) - fa sam rai
 agree (make an agreement) - fa trati  
 agreement (consent) - sam rai  
 agreement (treaty) - trati  
-agreement (treaty, contract) - kontrate  
+agreement (treaty, contract) - kontrati  
 agricultural - agri di  
 agriculture - agri suta  
 agrobiology - agri bio logi  
@@ -1085,8 +1085,8 @@ development - darja mute
 devil (Satan) - xatan ja  
 devilish (satanic) - xatan di  
 dew - rose  
-diagonal - transe gon di  
-diameter - transe longta  
+diagonal - tragona di  
+diameter - tralongta  
 diamond - adamas  
 diary (daily log) - den loge  
 dichotomy - dutomi  
@@ -1165,7 +1165,6 @@ doubt (disbelief) - dute
 doubtful (suspicious, disbelieving) - dute ja  
 downgrade - dus darja  
 download - nete gete  
-drag (haul, tow, trail) - trata  
 drag (haul, tow, trail) - trate  
 dragon - lung  
 dragonfly - libele  
@@ -2085,7 +2084,7 @@ Jesus - Yesa
 Jesus Christ - Yesa Mesi  
 Jewish - yehudi  
 joke - joke  
-joker - joke ja  
+joker - joker  
 Jordan - Urdun  
 joule (J) - jul  
 journalist - gazeta ja  
@@ -2253,7 +2252,6 @@ lichen - alga fungu
 licorice - alkasus  
 lie (lie down) - be kux  
 Liechtenstein - Lihtenstain  
-life (existence) - jiva  
 life (organic) - bio  
 light (bright) - foto di  
 light (illumination) - foto  
@@ -2288,7 +2286,7 @@ litre (liter) - litre
 little (few, not many) - kam  
 little (few, not many) - xau  
 little (small) - xiu  
-live (be alive, living) - fa jiva  
+live (be alive; living; live, existence) - jiva  
 live in (reside in, inhabit) - be dom  
 liver - hepate  
 livermorium - livermor yum  
@@ -3641,7 +3639,7 @@ Shanghai - xanghai
 shape (sculpt) - fa forma  
 share - fa komun  
 shari'a - islam din xaria  
-shark - xarke  
+shark - xayu  
 sharp (cutting, edged, pointed) - gata ja  
 shashlik - xix nama  
 shatter (break into pieces) - fa parce  
@@ -3929,6 +3927,7 @@ surpass (go over) - be supra
 surprise - supriza  
 surrender (submit, yield) - be islam  
 surround (encircle) - fa gola  
+survive (live through) - trajiva  
 sushi - suxi  
 sustain - sutene  
 suture (seam) - sutur  
@@ -4077,6 +4076,7 @@ thought (idea) - fikir
 thousand (kilo-) - kilo  
 three (3) - tri  
 throat (windpipe, gullet, pharynx) - gala  
+through - tra  
 throw (launch) - lanse  
 throw up (vomit, regurgitate) - retro gula  
 thrust (throw, cast) - jete  
@@ -4148,7 +4148,7 @@ toxicology - toxilogi
 toxin - bio toxi  
 toy (plaything) - vanu gi  
 tract (land, ground, region) - stan  
-tractor - trata gi  
+tractor - trater  
 trade (commerce, buying and selling) - vende xope  
 trader (merchant) - vende xope ja  
 trading card - jami karte  
@@ -4156,7 +4156,7 @@ train - tren
 train hijacker - tren kape ja  
 train ticket - tren tikete  
 transit (pass through or across) - fa transe  
-transit (transport, passage) - transe  
+transit (transport, passage) - trapas  
 translate (interpret; translation, interpretation) - trabaxa  
 Transnistria - Transe Nistre Dexa  
 transparent (see-through, clear) - transe vide di  

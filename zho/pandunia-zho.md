@@ -692,6 +692,7 @@ jinse - 性别
 jinselogi - 性别研究  
 jirafa - 长颈鹿  
 jiva - 生命  
+• trajiva - 生还  
 jong - 中心  
 jong xulakan - 中学  
 Jongoku - 中国  
@@ -1451,9 +1452,8 @@ topo metre grafi - 地图
 tor yum - 钍  
 toxilogi - 毒物学  
 transe vide di - 透明的  
-trata - 拖  
-trata gi - 拖拉机 (铁牛)  
 trate - 拖  
+trater - 拖拉机 (铁牛)  
 trati - 合同 (合约)  
 tren tikete - 火车票  
 tri - 三 (3)  
@@ -1542,13 +1542,13 @@ xah mata - 将死
 xalke - 鳞  
 xam - 晚上  
 xanghai - 上海  
-xarke - 鲨鱼 (shayu)  
 xatan ja - 撒但  
 xau - 少  
 xava - 雨  
 xava cati - 伞  
 xava kote - 雨衣  
 xava mosim - 雨季  
+xayu - 鲨鱼  
 xe - 事物 (东西)  
 xe hal - 事态  
 xenon - 氙  

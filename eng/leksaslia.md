@@ -636,7 +636,7 @@
 **jini** *spirit (soul, vitality, life force)* ← Hindi:जान (jān), Bengali:জান (jan), Turkish:can + Arabic: جِنّ (jinn), Swahili:jini, Russian:джинн (džinn) + English:genie, French:génie, Spanish:genio, Portuguese:gênio  
 **jinse** *gender (sex)* ← Arabic:Urdu:(jins), Persian:(jens), Swahili:jinsi, Turkish:cins, English:gender, Portuguese:gênero, Japanese:ジェンダー (jendā)  
 **jirafa** *giraffe* ← Arabic:(zarāfa), English:French:giraffe, Portuguese:girafa, Spanish:jirafa, Russian:жираф (žiraf),Malay:jerapah, Turkish:zürafa, Korean:지라프 (jirapeu), Hindi: जिराफ़ (jirāf), Bengali:জরৈফ (jôrôph)  
-**jiva** *life (existence)* ← Hindi:Marathi:जीव (jīv), Bengali:জীউ (jiu), Telugu:జీవము (jīvamu), Malay:jiwa, Thai:ชีวิต  (chiwit), Burmese:ဇီဝ (jiwa), Khmer:ជីវិត (jĭvit), Russian:живой (živoy), Polish:żywy  
+**jiva** *live (be alive; living; live, existence)* ← Hindi:Marathi:जीव (jīv), Bengali:জীউ (jiu), Telugu:జీవము (jīvamu), Malay:jiwa, Thai:ชีวิต  (chiwit), Burmese:ဇီဝ (jiwa), Khmer:ជីវិត (jĭvit), Russian:живой (živoy), Polish:żywy  
 **joke** *joke* ← English:French:joke, Persian:جوک‎ (jok), Japanese:ジョーク (jōku) + Mandarin:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jong** *middle (center)* ← Mandarin:中 (zhōng), Cantonese:中 (zung1), Korean:중 (jung), Japanese:中 (chuu-), Vietnamese:trung  
 **jovar** *sorghum (durra, jawar, Indian millet)* ← Persian: جواری‎ (jovâri), Hindi:ज्वार (jvār), Bengali:জোয়ার (joyār), Arabic: جَاوَرْس (jāwaras), English:jawar  
@@ -1292,7 +1292,7 @@
 **salade** *salad* ← French:salade, Malay:salad, deu:Salat, Russian:салат (salat), Turkish:salata, Persian:Urdu:(salād), Hindi:सलाद (salād), Cantonese:沙律 (saa1 leot62),  Mandarin:沙拉 (shālā), Portuguese:salada, Spanish:ensalado, Korean:샐러드 (saelleodeu), Japanese:サラダ (sarada), Thai:สลัด (salat), Khmer:សាលាដ (saalaat)  
 **salmon** *salmon (trout)* ← English:Malay:salmon, Spanish:salmón, Portuguese:salmão, French:saumon, Swahili:samoni, Japanese:サーモン (sāmon)  
 **salu** *healthy* ← French:Spanish:Portuguese:salubre + Arabic: سَلَامَة‎ (salāma) + Turkish:sağlık  
-**sam** *same (equal, alike, match)* ← English:same, French:semblable, Russian:самый (samyy), Malay:sama, Hindi:सम (sam)  
+**sam** *same (equal, alike, match)* ← English:same, French:semblable, Russian:самый (samyy), Persian:هم‎ (ham), Hindi:सम (sam), Malay:sama + Arabic: سَوَاء (sawāʾ), Swahili:sawa  
 **sama** *sky (heaven)* ← Arabic: سَمَاء‎ (samāʾ), Swahili:samawati, Amharic:ሰማይ (sämay), Hausa:sama, Yoruba:sanma, Turkish:sema, Oromo:samii + Hindi:आसमान (āsmān), Bengali:আসমান (aśman)  
 **samari yum** *samarium* ← English:samarium, French:samarium, Spanish:samario, Portuguese:samário, Russian:самарий, Mandarin:钐 (shān), Japanese:サマリウム, Korean:사마륨, Vietnamese:samari, Hindi:सैमरियम, Bengali:সামারিয়াম, Malay:samarium, Swahili:samari, Arabic: ساماريوم  
 **san** *mountain (hill)* ← Mandarin:山 (shān), Cantonese:山 (saan1), Japanese:山 (san), Korean:산 (san), Vietnamese:sơn  
@@ -1455,9 +1455,9 @@
 **torso** *trunk (torso)* ← French:torse, Russian:торс (tors), deu:English:Spanish:Malay:torso  
 **tortuga** *turtle (tortoise)* ← English:tortoise, Spanish:tortuga, Portuguese:tartaruga, French:tortue  
 **toxi** *poison (venom)* ← English:toxic, French:toxique, Spanish:Portuguese:tóxico, Russian:токсичний (toksicniy), Malay:toksik + Mandarin:毒 (dú), Cantonese:毒 (duk6), Wu-Chinese:毒 (do’), Japanese:毒 (doku/toku), Korean:독 (dok), Vietnamese:độc  
-**transe** *transit (transport, passage)* ← English:French:Spanish:Portuguese:deu:Malay:trans-, Russian:транс- (trans-)  
-**trata gi** *tractor* ← English:Spanish:tractor, French:tracteur, Portuguese:trator, Russian:трактор (traktor), Arabic: تَرَاكْتُور‎ (tarāktūr), Japanese:トラクター (torakutā), Korean:트랙타 (teuraekta), Hindi:ट्रैक्टर (ṭraikṭar), Bengali:ট্র্যাক্টর (ṭrækṭôr), Malay:traktor, Swahili:trekta, Turkish:traktör  
+**tra** *through* ← Italian:tra, English:through, Spanish:tras, Portuguese:(a)trás, French:deu:Malay:trans-, Russian:транс- (trans-)  
 **trate** *drag (haul, tow, trail)* ← English:Spanish:tractor, French:tracteur, Portuguese:trator, Russian:трактор (traktor), Arabic: تَرَاكْتُور‎ (tarāktūr), Japanese:トラクター (torakutā), Korean:트랙타 (teuraekta), Hindi:ट्रैक्टर (ṭraikṭar), Bengali:ট্র্যাক্টর (ṭrækṭôr), Malay:traktor, Swahili:trekta, Turkish:traktör  
+**trater** *tractor* ← English:Spanish:tractor, French:tracteur, Portuguese:trator, Russian:трактор (traktor), Arabic: تَرَاكْتُور‎ (tarāktūr), Japanese:トラクター (torakutā), Korean:트랙타 (teuraekta), Hindi:ट्रैक्टर (ṭraikṭar), Bengali:ট্র্যাক্টর (ṭrækṭôr), Malay:traktor, Swahili:trekta, Turkish:traktör  
 **trati** *agreement (treaty)* ← English:treaty, French:traité, Spanish:Portuguese:tratado, Russian:контракт (kontrakt), Turkish:kontrat, Malay:kontrak  
 **tre** *very* ← French:très  
 **tren** *train* ← English:French:train, Spanish:Turkish:tren, Hindi:ट्रेन (ṭren), Portuguese:trem  
@@ -1553,7 +1553,6 @@
 **xam** *evening* ← Hindi:शाम (śām), Bengali:শাম (śam), Turkish:akşam  
 **xaman** *shaman* ← English:shaman, French:chaman, Spanish:chamán, Russian:шаман (šaman), Turkish:şaman, Malay:shaman, Japanese:シャーマン (shāman)  
 **xanti** *rest (relief, repose)* ← Hindi:शांति (shānti), Bengali:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), Marathi:शांत (shānta), Telugu:శాంతి (shānti), Gujarati:શાંતિ (shānti), Khmer:សន្តិ (sɑnte’), English:Portuguese:shanti, Russian:шанти (shanti), Japanese:シャンティ (shanti)  
-**xarke** *shark* ← English:shark, Hindi:शार्क (shaark), pan:ਸ਼ਾਰਕ (śāraka), Marathi:शार्क (śārka)  
 **xarma** *shame (disgrace)* ← Persian:(šarm),  Urdu:(śarma), Hindi:शर्म (śarma), deu:Scham, English:shame, Russian:срам (sram)  
 **xarnir** *hinge (pivot)* ← French:charnière, Spanish:charnela, deu:Scharnier, Russian:шарнир (šarnir)  
 **xarti** *condition (requirement)* ← Turkish:şart, Arabic:Persian:(šart), Swahili:sharuti, Hindi:शर्त (śart), Bengali:শর্ত (śôrt)  
@@ -1561,6 +1560,7 @@
 **xau** *little (few, not many)* ← Mandarin:少 (shǎo), Cantonese:少 (siu2), Japanese:少 (shō), Korean:소 (so)  
 **xava** *rain (precipitation)* ← Portuguese:chuva + English:shower, deu:Schauer + Japanese:シャワー (shawā), Hindi:शावर (śāvar)  
 **xaxa** *rustle* ← Mandarin:(shasha), Russian:шуршать (shurshat’), Swahili:-chakacha  
+**xayu** *shark* ← Mandarin:鲨鱼 (shāyú), Cantonese: 鯊魚  (saa1 jyu4-2), Korean:상어 (sang'eo), Japanese:鮫 (same) + Malay:hiu; yu  
 **xe hal** *situation (circumstances, state of affairs)* ← Mandarin:事态 (shìtài), Japanese:事態 (jitai), English:state of affairs, French:état des choses  
 **xe** *thing* ← Arabic:(šayʾ), Turkish:şey, + Mandarin:事 (shì), Cantonese:事 (si6)  
 **xefe** *chief (boss)* ← French:chef, Portuguese:chefe, Spanish:jefe, Russian:шеф (šef), English:chief, Swahili:chifu, Japanese:チーフ (chīfu), + Arabic:(šeyx)  

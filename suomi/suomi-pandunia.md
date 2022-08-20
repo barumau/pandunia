@@ -402,9 +402,8 @@ eläinsatu - hevan kata
 eläintarha - hevan bagi  
 eläintiede (zoologia) - hevan logi  
 eläintieteellinen - hevan logi di  
-elämä (olemassaolo) - jiva  
-elävä (elää) - fa jiva  
 elävä (orgaaninen) - bio  
+elää (elävä; elämä, olemassaolo) - jiva  
 emiiri - amir ja  
 emiirikunta - amir dexa  
 emäksinen (alkalinen) - kali di  
@@ -574,6 +573,7 @@ Guyana - Guyana
 haarukka - forke  
 hafnium - hafen yum  
 hahmo (figuuri) - figur  
+hai - xayu  
 haista - fa aroma  
 haistaa - fa aroma  
 Haiti - Aiti  
@@ -1832,13 +1832,14 @@ lämpötila - termo
 lännengorilla - veste gorila  
 länsi - veste  
 läntinen - veste di  
-läpikulku (kuljetus) - transe  
+läpi - tra  
+läpikulku (kuljetus) - trapas  
 läpikäydä (passiivin muodostava verbi) - be  
 läpileikkaus - tomigrafi  
 läsnä oleva - zai di  
 läsnäolo - zaita  
 lätty (räiskäle, pannukakku) - krepe  
-lävistävä (diagonaalinen) - transe gon di  
+lävistävä (diagonaalinen) - tragona di  
 lääke - dava xe  
 lääkejuoma - dava sui  
 lääketiede - dava logi  
@@ -3047,6 +3048,7 @@ selata - brauza
 seleeni - selen yum  
 selkeyttää (selittää) - fa klar  
 selkä - ruke  
+selviytyä - trajiva  
 selvä (selkeä) - klar  
 semeemi - semima  
 sementti - semente  
@@ -3165,7 +3167,7 @@ sopia (passata) - be hapu
 sopia (tehdä sopimus) - fa trati  
 sopia - kon bon  
 sopimus - trati  
-sopimus - kontrate  
+sopimus - kontrati  
 sopiva (passeli) - hapu  
 sora - grave  
 sorakivi - xiu seku  
@@ -3541,7 +3543,7 @@ torvi (torvisoitin) - laba
 tosi (aito) - ver  
 toukka - larva  
 toukokuu - mes lima  
-traktori - trata gi  
+traktori - trater  
 Transdnistria - Transe Nistre Dexa  
 trendi - faxon  
 Trinidad ja Tobago - Trinidade e Tobago  
@@ -3870,7 +3872,6 @@ vetolaatikko - tire sanduku
 vetovoima (šarmi) - carme  
 vety - hidro  
 vetää (kiskoa) - tire  
-vetää (kiskoa, raahata) - trata  
 vetää (kiskoa, raahata) - trate  
 vetää hajalleen (harhauttaa) - distrate  
 vetää ulos - fa vai trata  
@@ -3936,7 +3937,7 @@ viski - viski
 vismutti - bismute  
 vitamiini - vitamin  
 vitsi - joke  
-vitsiniekka - joke ja  
+vitsiniekka - joker  
 viuhka (tuuletin) - panka  
 vivisektio (elävältäleikkaus) - jivatomi  
 Višnu - Vixnu  

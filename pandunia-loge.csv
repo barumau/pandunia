@@ -1090,7 +1090,6 @@ fa.jang|fa jang||||fight (do battle, make war)||pelear|||||戦う||||||||||
 fa.javabu|fa javabu||||respond (give an answer)||responder (contestar)|||||||||||||respondi|vastata|odpowiedzieć, odpowiadać
 fa.jela|fa jela||||imprison (jail)||encarcelar (aprisionar)|||||||||||||malliberigi|vangita|uwięzić, więzić, pozbawić wolności
 fa.jin|fa jin||||put forward (advance, progress)||||||||||||||||edistää|
-fa.jiva|fa jiva||||live (be alive, living)|vivant|vivo (lleno de vida)|vivo|живой||||||जीवित|জীবন্ত||||viva|elävä (elää)|żyć (żywy, żyjący)
 fa.jong|fa jong||||center (concentrate)||centrar (concentrar)||||||||||||||keskittää|centrować, skupić, skupiać
 fa.jude|fa jude||||judge||juzgar||||||||||||||tuomita|sądzić (osądzić)
 fa.jui|fa jui||||warn (caution, alert)||advertir||предостерегать|||戒める (諭す)|||||diperingatkan||ihtar etmek|||
@@ -1987,9 +1986,10 @@ jinse|jinse|||ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:g
 jinse.di|jinse di||||sexual (pertaining to gender)|||||||||||||||seksa|sukupuolinen|płciowy
 jinse.logi|jinselogi||||gender studies|études de genre|||гендерные исследования||性别研究|ジェンダー研究|||||||cinsellik bilimi||sukupuolitutkimus|
 jirafa|jirafa|bio||ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)|giraffe|giraffe|jirafa|girafa|жираф|زَرَافَة|长颈鹿|麒麟|지라프 (기린)|hươu cao cổ|जिराफ़|জরৈফ|jerapah|twiga|zürafa|ĝirafo|kirahvi|żyrafa
-jiva|jiva|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|life (existence)|vie|vida|vida|жизнь|حَيَاة|生命|命 (生命)|||ज़िंदगी (जीवन, हयात)||hidup (hayat)|uhai||vivo|elämä (olemassaolo)|życie
+jiva|jiva|||hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy|live (be alive; living; live, existence)|vivre (vivant; vie)|vivir (vivo; vida)|viver (vivo; vida)|живать (живой; жизнь)|حَيَاة|生命|命 (生命)|||ज़िंदगी (जीवन, हयात)|জীবন্ত|hidup (hayat)|uhai||vivi (viva; vivo)|elää (elävä; elämä, olemassaolo)|żyć (żywy, żyjący; życie)
+jiva-tra|• trajiva||||survive (live through)|survivre|sobrevivir|sobreviver|переживать||生还|||||||||travivi|selviytyä|
 joke|joke|||eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)|joke||broma (chiste)||||||||||||||vitsi|żart
-joke.ja|joke ja||||joker||bromista (chistoso)||||||||||||||vitsiniekka|żartowniś, dowcipniś
+joke.r|joker||||joker||bromista (chistoso)||||||||||||||vitsiniekka|żartowniś, dowcipniś
 jong|jong|||zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung|middle (center)|centre|centro|centro|центр|مَرْكَز|中心|中心|중심|trung tâm|केंद्र|কেন্দ্র|pusat|kati (senta)|merkez|centro|keskus (keskikohta)|środkowy, centralny
 Jong.Afrika.Vakil.krati|Jong Afrika Vakilkrati|dexa|CF||Central African Republic||República Centroafricana||||||||||||||Keski-Afrikan Tasavalta|Republika Środkowoafrykańska
 jong.di|jong di||||central (middle)||central|||||||||||||||centralny (środkowy)
@@ -3613,7 +3613,7 @@ salu.safa.di|salu safa di||||cleanly (hygienic, sanitary)||||||||||||||||hygieen
 salu.safa.ta|salu safata||||hygiene (cleanliness)|hygiène|higiene|higiene|гигиена||||||||||hijyen||hygienia (puhtaus)|higiena
 salu.ta|saluta||||health|santé|salud|saúde|||健康|健康||||||siha|||terveys (hyvinvointi)|zdrowie
 Salvador|Salvador|dexa|SV||El Salvador||El Salvador||||||||||||||El Salvador|Salwador
-sam|sam|||eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)|same (equal, alike, match)|égal (même)|equal (similar)|igual|||一样||||समान||sama|sawa|aynı|sama|sama (yhtäläinen)|taki sam
+sam|sam|||eng:same, fra:semblable, rus:самый (samyy), fas:هم‎ (ham), hin:सम (sam), may:sama + ara: سَوَاء (sawāʾ), swa:sawa|same (equal, alike, match)|égal (même)|equal (similar)|igual|||一样||||समान||sama|sawa|aynı|sama|sama (yhtäläinen)|taki sam
 sam.dexa.jen|sam dexa jen||||compatriot||compatriota|||||||||||||samlandano|samanmaalainen (maanmies)|rodak, ziomek, krajan
 sam.emos|sam emos||||compassion (sympathy)|compassion|compasión|compaixão|сострадание|||||||||||kompato|myötätunto (sympatia)|współczucie
 sam.metre|sam metre||||symmetry (symmetrical)|symétrie|simetría (simétrico)|simetria|симметрия||对称|対称|대칭성||सममिति|||||simetrio|symmetria|
@@ -4034,22 +4034,22 @@ tortuga|tortuga|bio|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tor
 toxi|toxi|||eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc|poison (venom)||veneno (toxina)|||||毒|||||||||myrkky|trucizna (toksyna)
 toxi.di|toxi di||||toxic (poisonous, venomous)||tóxico||||||||||||||myrkyllinen|toksyczny (trujący)
 toxi.logi|toxilogi||||toxicology|toxicologie|toxicología|toxicologia|токсикология||毒物学||||||||||toksikologia (myrkkyoppi)|
-transe|transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (transport, passage)||tránsito (transporte)||||||||||||||läpikulku (kuljetus)|przejazd, przewóz, tranzyt, transport
-transe.gon.di|transe gon di||||diagonal||diagonal||||||||||||||lävistävä (diagonaalinen)|przekątny
-transe.long.ta|transe longta||||diameter||diámetro|||||直径||||||||||
+tra|tra|||ita:tra, eng:through, spa:tras, por:(a)trás, fra:deu:may:trans-, rus:транс- (trans-)|through||||||||||||||||läpi|
+tra.gona.di|tragona di||||diagonal||diagonal||||||||||||||lävistävä (diagonaalinen)|przekątny
+tra.long.ta|tralongta||||diameter||diámetro|||||直径||||||||||
+tra.pas|trapas||||transit (transport, passage)||tránsito (transporte)||||||||||||||läpikulku (kuljetus)|przejazd, przewóz, tranzyt, transport
 Transe.Nistre.Dexa|Transe Nistre Dexa|dexa|||Transnistria||Transnistria (Cisdniéster)||||||||||||||Transdnistria|Naddniestrze
 transe.vide-an.di|• antranse vide di||||opaque||opaco||непрозрачный|||不透明||||||||||
 transe.vide.di|transe vide di||||transparent (see-through, clear)||transparente||прозрачный||透明的|透明|||पारदर्शी|||||||
-trata|trata||||drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
-trata.gi|trata gi|||eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|tractor|tracteur|tractor|trator|трактор|تَرَاكْتُور‎|拖拉机 (铁牛)|トラクター|트랙타|máy kéo|ट्रैक्टर|ট্র্যাক্টর|traktor|trekta|traktör|traktoro|traktori|traktor (ciągnik)
 trate|trate|||eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|drag (haul, tow, trail)|traîner|arrastrar|arrastar|волочить||拖||||||||çekmek|treni|vetää (kiskoa, raahata)|
 trate-a|• atrate||||attract||||||||||||||||viehättää (vetää puoleensa)|
 trate-a.vi|• atratevi||||attractive||||||||||||||||puoleensavetävä (viehättävä)|
 trate-dis|• distrate||||distract (pull apart)|distraire|distraer|distrair|||||||||||||vetää hajalleen (harhauttaa)|
 trate-ex|• extrate||||extract (draw out)|extraire|extraer|extrair|извлекать||||||||||||vetää ulos|
 trate-ex.r|• extrater||||extractor||extractor||||||||||||||ulosvetäjä|
-trate-kon|• kontrate||||agreement (treaty, contract)|contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор (контракт)||||||||kontrak||sözleşme (kontrat)||sopimus|
+trate.r|trater|||eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör|tractor|tracteur|tractor|trator|трактор|تَرَاكْتُور‎|拖拉机 (铁牛)|トラクター|트랙타|máy kéo|ट्रैक्टर|ট্র্যাক্টর|traktor|trekta|traktör|traktoro|traktori|traktor (ciągnik)
 trati|trati|||eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak|agreement (treaty)|contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор||合同 (合约)|合意|||||kontrak||sözleşme (kontrat)||sopimus|porozumienie
+trati-kon|• kontrati||||agreement (treaty, contract)|contract (traité)|contrato (tratado)|acordo (tratado, contrato)|договор (контракт)||||||||kontrak||sözleşme (kontrat)||sopimus|
 tre|tre|||fra:très|very||muy||очень|||とても|||||||||hyvin (sangen)|
 tren|tren|||eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem|train||tren|||||電車 (列車)||||||||trajno (vagonaro)|juna|pociąg
 tren.dau|tren dau||||rail (railway, railroad)||vía férrea|||||||||||||fervojo|junarata (rautatie)|kolej
@@ -4300,7 +4300,6 @@ xampan.vin|xampan vin|alkohol|||champagne|champagne|champaña|champanhe|шамп
 xanghai|xanghai|site|||Shanghai||||||上海|||||||||||Szanghaj
 xanti|xanti|||hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)|rest (relief, repose)|repos|descanso (alivio)|descanso (repouso)|отдых||||||||||||lepo|zostawić (zostawiać)
 xanti.di|xanti di||||calm (peaceful, quiet)|calme (tranquille)|tranquilo (calmado)|tranquilo (calmo)|спокойный||||||शांत|||||trankvila (serena)|rauhallinen (levollinen, tyyni)|spokojny
-xarke|xarke|bio|Selachimorpha|eng:shark, hin:शार्क (shaark), pan:ਸ਼ਾਰਕ (śāraka), mar:शार्क (śārka)|shark|requin|tiburón|tubarão|акула||鲨鱼 (shayu)|サメ||||||||||rekin
 xarma|xarma|||fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)|shame (disgrace)||vergüenza (pena)|||||||||||||honto|häpeä|wstyd (hańba, kompromitacja)
 xarnir|xarnir|||fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|hinge (pivot)||bisagra (gozne)|||||||||||||ĉarniro (pivoto)|sarana|zawias, oś
 xarti|xarti|||tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|condition (requirement)||condición (requisito, estipulación)|||||||||||||kondiĉo (postulo)|vaatimus (edellytys)|warunek
@@ -4316,6 +4315,7 @@ xava.cati|xava cati||||umbrella|parapluie|parasol|guarda-chuva|зонтик||伞
 xava.kote|xava kote||||raincoat|imperméable|impermeable|capa de chuva|плащ (дождевик)||雨衣||||रेनकोट||jas hujan||yağmurluk||sadetakki|płaszcz nieprzemakalny
 xava.mosim|xava mosim||||rainy season (monsoon)|mousson||monção|муссон||雨季|雨季|우기|mùa mưa|वर्षा ऋतु||musim hujan|majira ya mvua|muson||sadekausi|
 xaxa|xaxa|||zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha|rustle||susurrar (curjir)||шурша́ть|||||||||kuchakacha|||kahista|szeleścić
+xayu|xayu|bio|Selachimorpha|zho:鲨鱼 (shāyú), yue: 鯊魚  (saa1 jyu4-2), kor:상어 (sang'eo), jpn:鮫 (same) + may:hiu; yu|shark|requin|tiburón|tubarão|акула||鲨鱼|サメ|상어|cá mập (cá nhám)|हाँगर (शार्क)|হাঙ্গর|hiu (ikan yu)|papa|köpek balığı|ŝarko|hai|rekin
 xe|xe|||ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|thing|chose|cosa|coisa|вещь||事物 (东西)|事 (物)|||वस्तू (चीज़)||benda||şey||asia|rzecz
 xe.hal|xe hal|||zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses|situation (circumstances, state of affairs)|situation (état de choses)|situación|situaçao|положение (ситуация)||事态|事態||||||||situacio (aferstato)|tilanne (asiaintila)|sytuacja (stan)
 xe.hal.ironi|xe hal ironi||||situational irony|||||||||||||||||ironia sytuacyjna

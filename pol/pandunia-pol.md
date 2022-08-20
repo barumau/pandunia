@@ -875,7 +875,6 @@ fa jaga - obudzić, budzić
 fa jama - kolekcjonować, zebrać, zbierać  
 fa javabu - odpowiedzieć, odpowiadać  
 fa jela - uwięzić, więzić, pozbawić wolności  
-fa jiva - żyć (żywy, żyjący)  
 fa jong - centrować, skupić, skupiać  
 fa jude - sądzić (osądzić)  
 fa juxa - wstrzyknąć, wstrzykiwać  
@@ -1597,9 +1596,9 @@ jin mun - wejście
 jinse - płeć  
 jinse di - płciowy  
 jirafa - żyrafa  
-jiva - życie  
+jiva - żyć (żywy, żyjący; życie)  
 joke - żart  
-joke ja - żartowniś, dowcipniś  
+joker - żartowniś, dowcipniś  
 jong - środkowy, centralny  
 Jong Afrika Vakilkrati - Republika Środkowoafrykańska  
 jong di - centralny (środkowy)  
@@ -3339,10 +3338,10 @@ torso - tułów
 tortuga - żółw  
 toxi - trucizna (toksyna)  
 toxi di - toksyczny (trujący)  
-transe - przejazd, przewóz, tranzyt, transport  
-transe gon di - przekątny  
+tragona di - przekątny  
+trapas - przejazd, przewóz, tranzyt, transport  
 Transe Nistre Dexa - Naddniestrze  
-trata gi - traktor (ciągnik)  
+trater - traktor (ciągnik)  
 trati - porozumienie  
 tren - pociąg  
 tren dau - kolej  
@@ -3530,7 +3529,6 @@ xampan vin - samppanja
 xanghai - Szanghaj  
 xanti - zostawić (zostawiać)  
 xanti di - spokojny  
-xarke - rekin  
 xarma - wstyd (hańba, kompromitacja)  
 xarnir - zawias, oś  
 xarti - warunek  
@@ -3544,6 +3542,7 @@ xava - deszcz
 xava cati - parasol  
 xava kote - płaszcz nieprzemakalny  
 xaxa - szeleścić  
+xayu - rekin  
 xe - rzecz  
 xe hal - sytuacja (stan)  
 xe hal ironi - ironia sytuacyjna  

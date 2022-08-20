@@ -964,7 +964,6 @@ fa jama - recoger (juntar, reunir, acumular, recolectar, montar)
 fa jang - pelear  
 fa javabu - responder (contestar)  
 fa jela - encarcelar (aprisionar)  
-fa jiva - vivo (lleno de vida)  
 fa jong - centrar (concentrar)  
 fa jude - juzgar  
 fa jui - advertir  
@@ -1762,9 +1761,10 @@ jin mun - entrada
 jini - espíritu (genio)  
 jinse - sexo (género)  
 jirafa - jirafa  
-jiva - vida  
+jiva - vivir (vivo; vida)  
+• trajiva - sobrevivir  
 joke - broma (chiste)  
-joke ja - bromista (chistoso)  
+joker - bromista (chistoso)  
 jong - centro  
 Jong Afrika Vakilkrati - República Centroafricana  
 jong di - central  
@@ -3606,20 +3606,19 @@ tortuga - tortuga
 toxi - veneno (toxina)  
 toxi di - tóxico  
 toxilogi - toxicología  
-transe - tránsito (transporte)  
-transe gon di - diagonal  
-transe longta - diámetro  
+tragona di - diagonal  
+tralongta - diámetro  
+trapas - tránsito (transporte)  
 Transe Nistre Dexa - Transnistria (Cisdniéster)  
 • antranse vide di - opaco  
 transe vide di - transparente  
-trata - arrastrar  
-trata gi - tractor  
 trate - arrastrar  
 • distrate - distraer  
 • extrate - extraer  
 • extrater - extractor  
-• kontrate - contrato (tratado)  
+trater - tractor  
 trati - contrato (tratado)  
+• kontrati - contrato (tratado)  
 tre - muy  
 tren - tren  
 tren dau - vía férrea  
@@ -3832,7 +3831,6 @@ xampan - Champaña
 xampan vin - champaña  
 xanti - descanso (alivio)  
 xanti di - tranquilo (calmado)  
-xarke - tiburón  
 xarma - vergüenza (pena)  
 xarnir - bisagra (gozne)  
 xarti - condición (requisito, estipulación)  
@@ -3847,6 +3845,7 @@ xava - lluvia
 xava cati - parasol  
 xava kote - impermeable  
 xaxa - susurrar (curjir)  
+xayu - tiburón  
 xe - cosa  
 xe hal - situación  
 xefe - jefe  

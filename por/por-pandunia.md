@@ -17,7 +17,7 @@ acesso - jin lai
 aconselhar - fa sel  
 acordado - jaga  
 acordo (tratado, contrato) - trati  
-acordo (tratado, contrato) - kontrate  
+acordo (tratado, contrato) - kontrati  
 acordo - sam rai  
 actínio - acini yum  
 acéfalo - sar hin  
@@ -103,7 +103,6 @@ armazém - hazinkan
 armário - almari  
 arquiteto - bina plan ja  
 arquitetura - bina plan  
-arrastar - trata  
 arrastar - trate  
 arroz - varis  
 arroz branco - baku varis  
@@ -1470,6 +1469,7 @@ simetria - sam metre
 simulação - sam sifa xe  
 sino (campainha) - dang gi  
 situaçao - xe hal  
+sobreviver - trajiva  
 sociedade - sosi  
 sogra - gami ma  
 sogro - gami pa  
@@ -1560,7 +1560,7 @@ trajar (vestir-se) - fa fuku
 tranca - kane sor  
 tranquilo (calmo) - xanti di  
 tratar (lidar, procesar) - fa culi  
-trator - trata gi  
+trator - trater  
 trazer - fa lai  
 trigo - ganum  
 triplo - triple  
@@ -1570,7 +1570,7 @@ truta-marrom - kafe salmon
 três (3) - tri  
 trópicos - garma zona  
 tu - tu  
-tubarão - xarke  
+tubarão - xayu  
 tubérculo - masa mula  
 tungsténio - volfram  
 turbante - pagri  
@@ -1634,14 +1634,13 @@ verão - garma mosim
 vestir - fa fuku  
 vez - mar  
 vice-rei - vise raja  
-vida - jiva  
 vidro - kanca  
 vinhedo - putau bagi  
 vir - lai  
 virgem - virje  
 vitamina - vitamin  
+viver (vivo; vida) - jiva  
 vivisecção - jivatomi  
-vivo - fa jiva  
 Vixnu - Vixnu  
 viúvo - vidou  
 voar - fa fei  

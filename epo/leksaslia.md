@@ -636,7 +636,7 @@
 **jini** ** ← hindia:जान (jān), bengala:জান (jan), turka:can + araba: جِنّ (jinn), svahila:jini, rusa:джинн (džinn) + angla:genie, franca:génie, hispana:genio, portugala:gênio  
 **jinse** *sekso* ← araba:urdua:(jins), persa:(jens), svahila:jinsi, turka:cins, angla:gender, portugala:gênero, japana:ジェンダー (jendā)  
 **jirafa** *ĝirafo* ← araba:(zarāfa), angla:franca:giraffe, portugala:girafa, hispana:jirafa, rusa:жираф (žiraf),malaja:jerapah, turka:zürafa, korea:지라프 (jirapeu), hindia: जिराफ़ (jirāf), bengala:জরৈফ (jôrôph)  
-**jiva** *vivo* ← hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy  
+**jiva** *vivi (viva; vivo)* ← hindia:marataja:जीव (jīv), bengala:জীউ (jiu), teluga:జీవము (jīvamu), malaja:jiwa, tha:ชีวิต  (chiwit), birma:ဇီဝ (jiwa), kmera:ជីវិត (jĭvit), rusa:живой (živoy), polona:żywy  
 **joke** ** ← angla:franca:joke, persa:جوک‎ (jok), japana:ジョーク (jōku) + mandarena:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jong** *centro* ← mandarena:中 (zhōng), kantona:中 (zung1), korea:중 (jung), japana:中 (chuu-), vjetnama:trung  
 **jovar** ** ← persa: جواری‎ (jovâri), hindia:ज्वार (jvār), bengala:জোয়ার (joyār), araba: جَاوَرْس (jāwaras), angla:jawar  
@@ -1292,7 +1292,7 @@
 **salade** ** ← franca:salade, malaja:salad, deu:Salat, rusa:салат (salat), turka:salata, persa:urdua:(salād), hindia:सलाद (salād), kantona:沙律 (saa1 leot62),  mandarena:沙拉 (shālā), portugala:salada, hispana:ensalado, korea:샐러드 (saelleodeu), japana:サラダ (sarada), taja:สลัด (salat), kmera:សាលាដ (saalaat)  
 **salmon** ** ← angla:malaja:salmon, hispana:salmón, portugala:salmão, franca:saumon, svahila:samoni, japana:サーモン (sāmon)  
 **salu** *sana* ← franca:hispana:portugala:salubre + araba: سَلَامَة‎ (salāma) + turka:sağlık  
-**sam** *sama* ← angla:same, franca:semblable, rusa:самый (samyy), malaja:sama, hindia:सम (sam)  
+**sam** *sama* ← angla:same, franca:semblable, rusa:самый (samyy), persa:هم‎ (ham), hindia:सम (sam), malaja:sama + araba: سَوَاء (sawāʾ), svahila:sawa  
 **sama** *ĉielo* ← araba: سَمَاء‎ (samāʾ), svahila:samawati, amhara:ሰማይ (sämay), haŭsa:sama, joruba:sanma, turka:sema, oroma:samii + hindia:आसमान (āsmān), bengala:আসমান (aśman)  
 **samari yum** *samario* ← angla:samarium, franca:samarium, hispana:samario, portugala:samário, rusa:самарий, mandarena:钐 (shān), japana:サマリウム, korea:사마륨, vjetnama:samari, hindia:सैमरियम, bengala:সামারিয়াম, malaja:samarium, svahila:samari, araba: ساماريوم  
 **san** *monto* ← mandarena:山 (shān), kantona:山 (saan1), japana:山 (san), korea:산 (san), vjetnama:sơn  
@@ -1455,9 +1455,9 @@
 **torso** *torso* ← franca:torse, rusa:торс (tors), deu:angla:hispana:malaja:torso  
 **tortuga** ** ← angla:tortoise, hispana:tortuga, portugala:tartaruga, franca:tortue  
 **toxi** ** ← angla:toxic, franca:toxique, hispana:portugala:tóxico, rusa:токсичний (toksicniy), malaja:toksik + mandarena:毒 (dú), kantona:毒 (duk6), vua:毒 (do’), japana:毒 (doku/toku), korea:독 (dok), vjetnama:độc  
-**transe** ** ← angla:franca:hispana:portugala:deu:malaja:trans-, rusa:транс- (trans-)  
-**trata gi** *traktoro* ← angla:hispana:tractor, franca:tracteur, portugala:trator, rusa:трактор (traktor), araba: تَرَاكْتُور‎ (tarāktūr), japana:トラクター (torakutā), korea:트랙타 (teuraekta), hindia:ट्रैक्टर (ṭraikṭar), bengala:ট্র্যাক্টর (ṭrækṭôr), malaja:traktor, svahila:trekta, turka:traktör  
+**tra** ** ← itala:tra, angla:through, hispana:tras, portugala:(a)trás, franca:deu:malaja:trans-, rusa:транс- (trans-)  
 **trate** *treni* ← angla:hispana:tractor, franca:tracteur, portugala:trator, rusa:трактор (traktor), araba: تَرَاكْتُور‎ (tarāktūr), japana:トラクター (torakutā), korea:트랙타 (teuraekta), hindia:ट्रैक्टर (ṭraikṭar), bengala:ট্র্যাক্টর (ṭrækṭôr), malaja:traktor, svahila:trekta, turka:traktör  
+**trater** *traktoro* ← angla:hispana:tractor, franca:tracteur, portugala:trator, rusa:трактор (traktor), araba: تَرَاكْتُور‎ (tarāktūr), japana:トラクター (torakutā), korea:트랙타 (teuraekta), hindia:ट्रैक्टर (ṭraikṭar), bengala:ট্র্যাক্টর (ṭrækṭôr), malaja:traktor, svahila:trekta, turka:traktör  
 **trati** ** ← angla:treaty, franca:traité, hispana:portugala:tratado, rusa:контракт (kontrakt), turka:kontrat, malaja:kontrak  
 **tre** ** ← franca:très  
 **tren** *trajno (vagonaro)* ← angla:franca:train, hispana:turka:tren, hindia:ट्रेन (ṭren), portugala:trem  
@@ -1553,7 +1553,6 @@
 **xam** *vespero* ← hindia:शाम (śām), bengala:শাম (śam), turka:akşam  
 **xaman** *ŝamano* ← angla:shaman, franca:chaman, hispana:chamán, rusa:шаман (šaman), turka:şaman, malaja:shaman, japana:シャーマン (shāman)  
 **xanti** ** ← hindia:शांति (shānti), bengala:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), marataja:शांत (shānta), teluga:శాంతి (shānti), guĝarata:શાંતિ (shānti), kmera:សន្តិ (sɑnte’), angla:portugala:shanti, rusa:шанти (shanti), japana:シャンティ (shanti)  
-**xarke** ** ← angla:shark, hindia:शार्क (shaark), pan:ਸ਼ਾਰਕ (śāraka), marataja:शार्क (śārka)  
 **xarma** *honto* ← persa:(šarm),  urdua:(śarma), hindia:शर्म (śarma), deu:Scham, angla:shame, rusa:срам (sram)  
 **xarnir** *ĉarniro (pivoto)* ← franca:charnière, hispana:charnela, deu:Scharnier, rusa:шарнир (šarnir)  
 **xarti** *kondiĉo (postulo)* ← turka:şart, araba:persa:(šart), svahila:sharuti, hindia:शर्त (śart), bengala:শর্ত (śôrt)  
@@ -1561,6 +1560,7 @@
 **xau** *malmulte* ← mandarena:少 (shǎo), kantona:少 (siu2), japana:少 (shō), korea:소 (so)  
 **xava** *pluvo* ← portugala:chuva + angla:shower, deu:Schauer + japana:シャワー (shawā), hindia:शावर (śāvar)  
 **xaxa** ** ← mandarena:(shasha), rusa:шуршать (shurshat’), svahila:-chakacha  
+**xayu** *ŝarko* ← mandarena:鲨鱼 (shāyú), kantona: 鯊魚  (saa1 jyu4-2), korea:상어 (sang'eo), japana:鮫 (same) + malaja:hiu; yu  
 **xe hal** *situacio (aferstato)* ← mandarena:事态 (shìtài), japana:事態 (jitai), angla:state of affairs, franca:état des choses  
 **xe** ** ← araba:(šayʾ), turka:şey, + mandarena:事 (shì), kantona:事 (si6)  
 **xefe** *estro (ĉefulo)* ← franca:chef, portugala:chefe, hispana:jefe, rusa:шеф (šef), angla:chief, svahila:chifu, japana:チーフ (chīfu), + araba:(šeyx)  

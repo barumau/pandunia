@@ -463,7 +463,6 @@ fa glu - клеиться
 fa hisabu - вычислять  
 fa hogo - жечь (палить)  
 fa in klus - включить  
-fa jiva - живой  
 fa jui - предостерегать  
 fa kanca dake - глазуровать  
 fa karga - обременять  
@@ -774,7 +773,8 @@ jin lai - доступ
 jinse - пол  
 jinselogi - гендерные исследования  
 jirafa - жираф  
-jiva - жизнь  
+jiva - живать (живой; жизнь)  
+• trajiva - переживать  
 jong - центр  
 jong fon - гласный  
 jong xulakan - средняя школа  
@@ -1646,12 +1646,11 @@ tor yum - торий
 toxilogi - токсикология  
 • antranse vide di - непрозрачный  
 transe vide di - прозрачный  
-trata - волочить  
-trata gi - трактор  
 trate - волочить  
 • extrate - извлекать  
-• kontrate - договор (контракт)  
+trater - трактор  
 trati - договор  
+• kontrati - договор (контракт)  
 tre - очень  
 tri - три (3)  
 tri pike - трезубец  
@@ -1762,7 +1761,6 @@ xampan - Шампань
 xampan vin - шампанское  
 xanti - отдых  
 xanti di - спокойный  
-xarke - акула  
 xatan - противостоять  
 xatan ja - Сатана  
 xau - мало  
@@ -1772,6 +1770,7 @@ xava cati - зонтик
 xava kote - плащ (дождевик)  
 xava mosim - муссон  
 xaxa - шурша́ть  
+xayu - акула  
 xe - вещь  
 xe hal - положение (ситуация)  
 xefe - шеф  

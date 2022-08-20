@@ -573,7 +573,6 @@ fa ja - aganto
 fa jama - kolekti (kunigi)  
 fa javabu - respondi  
 fa jela - malliberigi  
-fa jiva - viva  
 fa kai - malfermi  
 fa karga - ŝarĝi  
 fa kata - rakonti  
@@ -973,7 +972,8 @@ jiang ja - metiisto
 jinse - sekso  
 jinse di - seksa  
 jirafa - ĝirafo  
-jiva - vivo  
+jiva - vivi (viva; vivo)  
+• trajiva - travivi  
 jong - centro  
 jong fon - vokalo  
 jong xulakan - gimnazio  
@@ -1875,9 +1875,8 @@ ton - tono
 topo - regiono  
 tor yum - torio  
 torso - torso  
-trata - treni  
-trata gi - traktoro  
 trate - treni  
+trater - traktoro  
 tren - trajno (vagonaro)  
 tren dau - fervojo  
 tri - tri (3)  
@@ -1991,6 +1990,7 @@ xatan ja - diablo (Satano)
 xau - malmulte  
 xava - pluvo  
 xava cati - obrelo  
+xayu - ŝarko  
 xe hal - situacio (aferstato)  
 xefe - estro (ĉefulo)  
 xefe ministre ja - ĉefministro  

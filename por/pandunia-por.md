@@ -414,7 +414,6 @@ fa glu - colar (aderir)
 fa hisabu - calcular  
 fa hogo - queimar  
 fa in klus - incluir  
-fa jiva - vivo  
 fa karga - carregar  
 fa kino - mover  
 fa kux - deitar  
@@ -711,7 +710,8 @@ jin lai - acesso
 jini - espírito (gênio)  
 jinse - sexo  
 jirafa - girafa  
-jiva - vida  
+jiva - viver (vivo; vida)  
+• trajiva - sobreviver  
 jong - centro  
 jong fon - vogal  
 jong xulakan - ensino secundário  
@@ -1510,13 +1510,12 @@ topo metre grafi - carta geográfica
 tor yum - tório  
 tortuga - tartaruga  
 toxilogi - toxicologia  
-trata - arrastar  
-trata gi - trator  
 trate - arrastar  
 • distrate - distrair  
 • extrate - extrair  
-• kontrate - acordo (tratado, contrato)  
+trater - trator  
 trati - acordo (tratado, contrato)  
+• kontrati - acordo (tratado, contrato)  
 tri - três (3)  
 triple - triplo  
 truke - truque (fraude)  
@@ -1612,7 +1611,6 @@ xampan - Champagne
 xampan vin - champanhe  
 xanti - descanso (repouso)  
 xanti di - tranquilo (calmo)  
-xarke - tubarão  
 xatan - opor  
 xatan ja - Satanás  
 xau - poucos  
@@ -1621,6 +1619,7 @@ xava - chuva
 xava cati - guarda-chuva  
 xava kote - capa de chuva  
 xava mosim - monção  
+xayu - tubarão  
 xe - coisa  
 xe hal - situaçao  
 xefe - chefe  

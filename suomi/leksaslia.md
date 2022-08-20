@@ -636,7 +636,7 @@
 **jini** *henki (sielu)* ← hindi:जान (jān), bangla:জান (jan), turkki:can + arabia: جِنّ (jinn), suahili:jini, venäjä:джинн (džinn) + englanti:genie, ranska:génie, espanja:genio, portugali:gênio  
 **jinse** *sukupuoli* ← arabia:urdu:(jins), persia:(jens), suahili:jinsi, turkki:cins, englanti:gender, portugali:gênero, japani:ジェンダー (jendā)  
 **jirafa** *kirahvi* ← arabia:(zarāfa), englanti:ranska:giraffe, portugali:girafa, espanja:jirafa, venäjä:жираф (žiraf),malaiji:jerapah, turkki:zürafa, korea:지라프 (jirapeu), hindi: जिराफ़ (jirāf), bangla:জরৈফ (jôrôph)  
-**jiva** *elämä (olemassaolo)* ← hindi:marathi:जीव (jīv), bangla:জীউ (jiu), telugu:జీవము (jīvamu), malaiji:jiwa, thai:ชีวิต  (chiwit), burma:ဇီဝ (jiwa), khmer:ជីវិត (jĭvit), venäjä:живой (živoy), puola:żywy  
+**jiva** *elää (elävä; elämä, olemassaolo)* ← hindi:marathi:जीव (jīv), bangla:জীউ (jiu), telugu:జీవము (jīvamu), malaiji:jiwa, thai:ชีวิต  (chiwit), burma:ဇီဝ (jiwa), khmer:ជីវិត (jĭvit), venäjä:живой (živoy), puola:żywy  
 **joke** *vitsi* ← englanti:ranska:joke, persia:جوک‎ (jok), japani:ジョーク (jōku) + yleiskiina:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jong** *keskus (keskikohta)* ← yleiskiina:中 (zhōng), kantoninkiina:中 (zung1), korea:중 (jung), japani:中 (chuu-), vietnami:trung  
 **jovar** *durra (kirjodurra)* ← persia: جواری‎ (jovâri), hindi:ज्वार (jvār), bangla:জোয়ার (joyār), arabia: جَاوَرْس (jāwaras), englanti:jawar  
@@ -1292,7 +1292,7 @@
 **salade** *salaatti* ← ranska:salade, malaiji:salad, deu:Salat, venäjä:салат (salat), turkki:salata, persia:urdu:(salād), hindi:सलाद (salād), kantoninkiina:沙律 (saa1 leot62),  yleiskiina:沙拉 (shālā), portugali:salada, espanja:ensalado, korea:샐러드 (saelleodeu), japani:サラダ (sarada), thai:สลัด (salat), khmer:សាលាដ (saalaat)  
 **salmon** ** ← englanti:malaiji:salmon, espanja:salmón, portugali:salmão, ranska:saumon, suahili:samoni, japani:サーモン (sāmon)  
 **salu** *terve* ← ranska:espanja:portugali:salubre + arabia: سَلَامَة‎ (salāma) + turkki:sağlık  
-**sam** *sama (yhtäläinen)* ← englanti:same, ranska:semblable, venäjä:самый (samyy), malaiji:sama, hindi:सम (sam)  
+**sam** *sama (yhtäläinen)* ← englanti:same, ranska:semblable, venäjä:самый (samyy), persia:هم‎ (ham), hindi:सम (sam), malaiji:sama + arabia: سَوَاء (sawāʾ), suahili:sawa  
 **sama** *taivas* ← arabia: سَمَاء‎ (samāʾ), suahili:samawati, amhara:ሰማይ (sämay), hausa:sama, yoruba:sanma, turkki:sema, oromo:samii + hindi:आसमान (āsmān), bangla:আসমান (aśman)  
 **samari yum** *samarium* ← englanti:samarium, ranska:samarium, espanja:samario, portugali:samário, venäjä:самарий, yleiskiina:钐 (shān), japani:サマリウム, korea:사마륨, vietnami:samari, hindi:सैमरियम, bangla:সামারিয়াম, malaiji:samarium, suahili:samari, arabia: ساماريوم  
 **san** *vuori (mäki)* ← yleiskiina:山 (shān), kantoninkiina:山 (saan1), japani:山 (san), korea:산 (san), vietnami:sơn  
@@ -1455,9 +1455,9 @@
 **torso** *vartalo (varsi, torso)* ← ranska:torse, venäjä:торс (tors), deu:englanti:espanja:malaiji:torso  
 **tortuga** *kilpikonna* ← englanti:tortoise, espanja:tortuga, portugali:tartaruga, ranska:tortue  
 **toxi** *myrkky* ← englanti:toxic, ranska:toxique, espanja:portugali:tóxico, venäjä:токсичний (toksicniy), malaiji:toksik + yleiskiina:毒 (dú), kantoninkiina:毒 (duk6), wu-kiina:毒 (do’), japani:毒 (doku/toku), korea:독 (dok), vietnami:độc  
-**transe** *läpikulku (kuljetus)* ← englanti:ranska:espanja:portugali:deu:malaiji:trans-, venäjä:транс- (trans-)  
-**trata gi** *traktori* ← englanti:espanja:tractor, ranska:tracteur, portugali:trator, venäjä:трактор (traktor), arabia: تَرَاكْتُور‎ (tarāktūr), japani:トラクター (torakutā), korea:트랙타 (teuraekta), hindi:ट्रैक्टर (ṭraikṭar), bangla:ট্র্যাক্টর (ṭrækṭôr), malaiji:traktor, suahili:trekta, turkki:traktör  
+**tra** *läpi* ← italia:tra, englanti:through, espanja:tras, portugali:(a)trás, ranska:deu:malaiji:trans-, venäjä:транс- (trans-)  
 **trate** *vetää (kiskoa, raahata)* ← englanti:espanja:tractor, ranska:tracteur, portugali:trator, venäjä:трактор (traktor), arabia: تَرَاكْتُور‎ (tarāktūr), japani:トラクター (torakutā), korea:트랙타 (teuraekta), hindi:ट्रैक्टर (ṭraikṭar), bangla:ট্র্যাক্টর (ṭrækṭôr), malaiji:traktor, suahili:trekta, turkki:traktör  
+**trater** *traktori* ← englanti:espanja:tractor, ranska:tracteur, portugali:trator, venäjä:трактор (traktor), arabia: تَرَاكْتُور‎ (tarāktūr), japani:トラクター (torakutā), korea:트랙타 (teuraekta), hindi:ट्रैक्टर (ṭraikṭar), bangla:ট্র্যাক্টর (ṭrækṭôr), malaiji:traktor, suahili:trekta, turkki:traktör  
 **trati** *sopimus* ← englanti:treaty, ranska:traité, espanja:portugali:tratado, venäjä:контракт (kontrakt), turkki:kontrat, malaiji:kontrak  
 **tre** *hyvin (sangen)* ← ranska:très  
 **tren** *juna* ← englanti:ranska:train, espanja:turkki:tren, hindi:ट्रेन (ṭren), portugali:trem  
@@ -1553,7 +1553,6 @@
 **xam** *ilta* ← hindi:शाम (śām), bangla:শাম (śam), turkki:akşam  
 **xaman** *šamaani* ← englanti:shaman, ranska:chaman, espanja:chamán, venäjä:шаман (šaman), turkki:şaman, malaiji:shaman, japani:シャーマン (shāman)  
 **xanti** *lepo* ← hindi:शांति (shānti), bangla:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), marathi:शांत (shānta), telugu:శాంతి (shānti), gujarati:શાંતિ (shānti), khmer:សន្តិ (sɑnte’), englanti:portugali:shanti, venäjä:шанти (shanti), japani:シャンティ (shanti)  
-**xarke** ** ← englanti:shark, hindi:शार्क (shaark), pan:ਸ਼ਾਰਕ (śāraka), marathi:शार्क (śārka)  
 **xarma** *häpeä* ← persia:(šarm),  urdu:(śarma), hindi:शर्म (śarma), deu:Scham, englanti:shame, venäjä:срам (sram)  
 **xarnir** *sarana* ← ranska:charnière, espanja:charnela, deu:Scharnier, venäjä:шарнир (šarnir)  
 **xarti** *vaatimus (edellytys)* ← turkki:şart, arabia:persia:(šart), suahili:sharuti, hindi:शर्त (śart), bangla:শর্ত (śôrt)  
@@ -1561,6 +1560,7 @@
 **xau** *vähän* ← yleiskiina:少 (shǎo), kantoninkiina:少 (siu2), japani:少 (shō), korea:소 (so)  
 **xava** *sade* ← portugali:chuva + englanti:shower, deu:Schauer + japani:シャワー (shawā), hindi:शावर (śāvar)  
 **xaxa** *kahista* ← yleiskiina:(shasha), venäjä:шуршать (shurshat’), suahili:-chakacha  
+**xayu** *hai* ← yleiskiina:鲨鱼 (shāyú), kantoninkiina: 鯊魚  (saa1 jyu4-2), korea:상어 (sang'eo), japani:鮫 (same) + malaiji:hiu; yu  
 **xe hal** *tilanne (asiaintila)* ← yleiskiina:事态 (shìtài), japani:事態 (jitai), englanti:state of affairs, ranska:état des choses  
 **xe** *asia* ← arabia:(šayʾ), turkki:şey, + yleiskiina:事 (shì), kantoninkiina:事 (si6)  
 **xefe** *päällikkö (pomo)* ← ranska:chef, portugali:chefe, espanja:jefe, venäjä:шеф (šef), englanti:chief, suahili:chifu, japani:チーフ (chīfu), + arabia:(šeyx)  

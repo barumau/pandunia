@@ -477,7 +477,7 @@ conteneur - kontener
 continu (analogique) - zoku di  
 continuer (poursuivre, encore) - zoku  
 contract (traité) - trati  
-contract (traité) - kontrate  
+contract (traité) - kontrati  
 convenir (être approprié) - be hapu  
 convention (alliance, pacte) - kon trati  
 copernicium - koperni yum  
@@ -1525,7 +1525,7 @@ reporter (rapporteur) - reporter
 repos - xanti  
 repport (reportage) - reporte  
 reprendre - re zoku  
-requin - xarke  
+requin - xayu  
 reste - reste  
 retourner (revenir) - be retro  
 Rhin - Ren  
@@ -1690,6 +1690,7 @@ Suisse - Suise
 suivre - fa pos  
 sujet (thème) - tema  
 sunnisme - suna islam din  
+survivre - trajiva  
 svastika (croix gammée) - huke krus  
 syllabe - loga fen  
 symbole - simbol  
@@ -1767,7 +1768,7 @@ Tournesol - sol hua
 toxicologie - toxilogi  
 toxine - bio toxi  
 trace - marke  
-tracteur - trata gi  
+tracteur - trater  
 traduction - trabaxa  
 traitement (processe) - culi  
 traitement d'images - grafi culi  
@@ -1777,7 +1778,6 @@ traiter - fa culi
 travail - karxe  
 travailler - kar  
 travailleur (ouvrier) - karja  
-traîner - trata  
 traîner - trate  
 tremper (faire mariner) - pul xipi  
 tribord - nave raite  
@@ -1846,7 +1846,6 @@ veuve - vidou
 viande - nama  
 vice-roi - vise raja  
 vide - hali  
-vie - jiva  
 vierge - virje  
 vieux (ancien) - cen zaman di  
 vieux (âgé, ancien) - lau  
@@ -1863,9 +1862,9 @@ viser - fa dika
 Vishnou - Vixnu  
 vitamine - vitamin  
 vite (rapide) - rapide  
-vivant - fa jiva  
 vivisection - jivatomi  
 vivre (habiter) - be dom  
+vivre (vivant; vie) - jiva  
 vocabulaire (lexique) - loga jama  
 voile - hijabu  
 voir - vide  

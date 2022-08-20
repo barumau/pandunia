@@ -551,7 +551,6 @@ fa hapu - adapter (ajuster)
 fa hisabu - calculer  
 fa hogo - brûler  
 fa in klus - inclure  
-fa jiva - vivant  
 fa karga - charger  
 fa kino - mouvoir (bouger)  
 fa kux - coucher  
@@ -886,7 +885,8 @@ jini - esprit (génie)
 jinse - sexe  
 jinselogi - études de genre  
 jirafa - giraffe  
-jiva - vie  
+jiva - vivre (vivant; vie)  
+• trajiva - survivre  
 jong - centre  
 jong fon - voyelle  
 jong xulakan - école secondaire  
@@ -1758,13 +1758,12 @@ topo metre grafi - carte (plan)
 tor yum - thorium  
 tortuga - tortue  
 toxilogi - toxicologie  
-trata - traîner  
-trata gi - tracteur  
 trate - traîner  
 • distrate - distraire  
 • extrate - extraire  
-• kontrate - contract (traité)  
+trater - tracteur  
 trati - contract (traité)  
+• kontrati - contract (traité)  
 tri - trois (3)  
 triple - triple  
 truke - ruse  
@@ -1869,7 +1868,6 @@ xampan - Champagne
 xampan vin - champagne  
 xanti - repos  
 xanti di - calme (tranquille)  
-xarke - requin  
 xatan - s'opposer à  
 xatan ja - Satan  
 xau - peu  
@@ -1877,6 +1875,7 @@ xava - pluie
 xava cati - parapluie  
 xava kote - imperméable  
 xava mosim - mousson  
+xayu - requin  
 xe - chose  
 xe hal - situation (état de choses)  
 xefe - chef  

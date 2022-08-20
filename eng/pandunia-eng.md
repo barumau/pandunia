@@ -1136,7 +1136,6 @@ fa jang - fight (do battle, make war)
 fa javabu - respond (give an answer)  
 fa jela - imprison (jail)  
 fa jin - put forward (advance, progress)  
-fa jiva - live (be alive, living)  
 fa jong - center (concentrate)  
 fa jude - judge  
 fa jui - warn (caution, alert)  
@@ -2040,9 +2039,10 @@ jinse - gender (sex)
 jinse di - sexual (pertaining to gender)  
 jinselogi - gender studies  
 jirafa - giraffe  
-jiva - life (existence)  
+jiva - live (be alive; living; live, existence)  
+• trajiva - survive (live through)  
 joke - joke  
-joke ja - joker  
+joker - joker  
 jong - middle (center)  
 Jong Afrika Vakilkrati - Central African Republic  
 jong di - central (middle)  
@@ -4100,22 +4100,22 @@ tortuga - turtle (tortoise)
 toxi - poison (venom)  
 toxi di - toxic (poisonous, venomous)  
 toxilogi - toxicology  
-transe - transit (transport, passage)  
-transe gon di - diagonal  
-transe longta - diameter  
+tra - through  
+tragona di - diagonal  
+tralongta - diameter  
+trapas - transit (transport, passage)  
 Transe Nistre Dexa - Transnistria  
 • antranse vide di - opaque  
 transe vide di - transparent (see-through, clear)  
-trata - drag (haul, tow, trail)  
-trata gi - tractor  
 trate - drag (haul, tow, trail)  
 • atrate - attract  
 • atratevi - attractive  
 • distrate - distract (pull apart)  
 • extrate - extract (draw out)  
 • extrater - extractor  
-• kontrate - agreement (treaty, contract)  
+trater - tractor  
 trati - agreement (treaty)  
+• kontrati - agreement (treaty, contract)  
 tre - very  
 tren - train  
 tren dau - rail (railway, railroad)  
@@ -4372,7 +4372,6 @@ xampan vin - champagne
 xanghai - Shanghai  
 xanti - rest (relief, repose)  
 xanti di - calm (peaceful, quiet)  
-xarke - shark  
 xarma - shame (disgrace)  
 xarnir - hinge (pivot)  
 xarti - condition (requirement)  
@@ -4388,6 +4387,7 @@ xava cati - umbrella
 xava kote - raincoat  
 xava mosim - rainy season (monsoon)  
 xaxa - rustle  
+xayu - shark  
 xe - thing  
 xe hal - situation (circumstances, state of affairs)  
 xe hal ironi - situational irony  

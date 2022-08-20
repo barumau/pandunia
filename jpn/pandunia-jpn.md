@@ -1498,10 +1498,10 @@ Tokyo - 東京
 topo grafi - 地勢  
 tor yum - トリウム  
 toxi - 毒  
-transe longta - 直径  
+tralongta - 直径  
 • antranse vide di - 不透明  
 transe vide di - 透明  
-trata gi - トラクター  
+trater - トラクター  
 trati - 合意  
 tre - とても  
 tren - 電車 (列車)  
@@ -1595,11 +1595,11 @@ xam - 夕べ
 xam yam - 夕食  
 xaman - シャーマン  
 xampan - 香槟  
-xarke - サメ  
 xatan ja - 悪魔  
 xau - 少ない  
 xava - 雨  
 xava mosim - 雨季  
+xayu - サメ  
 xe - 事 (物)  
 xe hal - 事態  
 xenon - キセノン  

@@ -1087,7 +1087,6 @@ fa jama - koota (kerätä)
 fa javabu - vastata  
 fa jela - vangita  
 fa jin - edistää  
-fa jiva - elävä (elää)  
 fa jong - keskittää  
 fa jude - tuomita  
 fa juxa - ruiskuttaa  
@@ -1936,9 +1935,10 @@ jinse - sukupuoli
 jinse di - sukupuolinen  
 jinselogi - sukupuolitutkimus  
 jirafa - kirahvi  
-jiva - elämä (olemassaolo)  
+jiva - elää (elävä; elämä, olemassaolo)  
+• trajiva - selviytyä  
 joke - vitsi  
-joke ja - vitsiniekka  
+joker - vitsiniekka  
 jong - keskus (keskikohta)  
 Jong Afrika Vakilkrati - Keski-Afrikan Tasavalta  
 jong fon - vokaali  
@@ -3693,19 +3693,19 @@ tortuga - kilpikonna
 toxi - myrkky  
 toxi di - myrkyllinen  
 toxilogi - toksikologia (myrkkyoppi)  
-transe - läpikulku (kuljetus)  
-transe gon di - lävistävä (diagonaalinen)  
+tra - läpi  
+tragona di - lävistävä (diagonaalinen)  
+trapas - läpikulku (kuljetus)  
 Transe Nistre Dexa - Transdnistria  
-trata - vetää (kiskoa, raahata)  
-trata gi - traktori  
 trate - vetää (kiskoa, raahata)  
 • atrate - viehättää (vetää puoleensa)  
 • atratevi - puoleensavetävä (viehättävä)  
 • distrate - vetää hajalleen (harhauttaa)  
 • extrate - vetää ulos  
 • extrater - ulosvetäjä  
-• kontrate - sopimus  
+trater - traktori  
 trati - sopimus  
+• kontrati - sopimus  
 tre - hyvin (sangen)  
 tren - juna  
 tren dau - junarata (rautatie)  
@@ -3967,6 +3967,7 @@ xava cati - sateenvarjo
 xava kote - sadetakki  
 xava mosim - sadekausi  
 xaxa - kahista  
+xayu - hai  
 xe - asia  
 xe hal - tilanne (asiaintila)  
 xefe - päällikkö (pomo)  

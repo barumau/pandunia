@@ -263,7 +263,6 @@ arnés (arreos, jaeces) - harnes
 arquero - arka ja  
 arquitecto - bina plan ja  
 arquitectura - bina plan  
-arrastrar - trata  
 arrastrar - trate  
 arreglo - xuli  
 arriesgado - risko di  
@@ -474,7 +473,7 @@ Brazzaville - Brazavil
 brillante (luminoso) - ming  
 brocheta - xix  
 broma (chiste) - joke  
-bromista (chistoso) - joke ja  
+bromista (chistoso) - joker  
 bromo - brom  
 Brunei - Brunei  
 brújula - ponte pin  
@@ -885,7 +884,7 @@ continuo (analógico) - zoku di
 contraseña - pas loga  
 contraseña - sekur kode  
 contrato (tratado) - trati  
-contrato (tratado) - kontrate  
+contrato (tratado) - kontrati  
 contribuir - fen da  
 convalaria (lirio de los valles) - vali susan  
 convenion (pacto) - kon trati  
@@ -1131,7 +1130,7 @@ determinar (establecer, definir) - fa ding
 detestar - anama  
 devanágari - deu nagar zi  
 devolver (vomitar) - retro gula  
-diagonal - transe gon di  
+diagonal - tragona di  
 diamante - adamas  
 diario - den loge  
 dibujar (trazar) - fa grafi  
@@ -1174,7 +1173,7 @@ divertido - vanu di
 divertir (entretener) - fa vanu  
 dividir (repartir) - fa fen  
 divino - deu di  
-diámetro - transe longta  
+diámetro - tralongta  
 dióxido de carbono - karbon duoxide  
 Dniéster - Nistre  
 doblar (multiplicar por dos) - fa multi do du  
@@ -3502,6 +3501,7 @@ situación - xe hal
 sobre - a supra  
 sobreescribir - vise kitabu  
 sobrepasar - be supra  
+sobrevivir - trajiva  
 social - sosi di  
 socialismo - sosi sim  
 socialismo nacional (nazismo) - natia sosia sim  
@@ -3679,7 +3679,7 @@ tesoro - bau
 tetera - cai pote  
 teísmo - deu din  
 teísta - deu din ja  
-tiburón - xarke  
+tiburón - xayu  
 tiempo - zaman  
 tierra (barro) - darte  
 Tierra - Geo  
@@ -3729,7 +3729,7 @@ toxina - bio toxi
 trabajador (obrero) - karja  
 trabajar - kar  
 trabajo - karxe  
-tractor - trata gi  
+tractor - trater  
 traditional (convencional) - suna di  
 traducir (interpretar; tradicción, interpretación) - trabaxa  
 traductor - trabaxar  
@@ -3761,7 +3761,7 @@ trucha arcoíris - rang arka salmon
 trucha marrón - kafe salmon  
 truco - truke  
 truenos (estruendo) - grom  
-tránsito (transporte) - transe  
+tránsito (transporte) - trapas  
 trópico - garma zona  
 tu - tu su  
 tubo (caño) - pipe  
@@ -3887,7 +3887,6 @@ viajero - safar ja
 vice- (alternativa, sustituto) - vise  
 vicepresidente - vise prezidente  
 vida (orgánico) - bio  
-vida - jiva  
 vidriado (esmalte) - kanca daka  
 vidriar (glasear) - fa kanca dake  
 vidrio (cristal) - kanca  
@@ -3919,8 +3918,8 @@ vista (visión) - vide xe
 vitamina - vitamin  
 viudo - vidou  
 vivir (residir) - be dom  
+vivir (vivo; vida) - jiva  
 vivisección - jivatomi  
-vivo (lleno de vida) - fa jiva  
 viñedo - putau bagi  
 vocabulario (léxico) - loga jama  
 vocal - jong fon  

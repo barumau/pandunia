@@ -636,7 +636,7 @@
 **jini** ** ← hin:जान (jān), ben:জান (jan), tur:can + ara: جِنّ (jinn), swa:jini, rus:джинн (džinn) + eng:genie, fra:génie, spa:genio, por:gênio  
 **jinse** *płeć* ← ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)  
 **jirafa** *żyrafa* ← ara:(zarāfa), eng:fra:giraffe, por:girafa, spa:jirafa, rus:жираф (žiraf),may:jerapah, tur:zürafa, kor:지라프 (jirapeu), hin: जिराफ़ (jirāf), ben:জরৈফ (jôrôph)  
-**jiva** *życie* ← hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy  
+**jiva** *żyć (żywy, żyjący; życie)* ← hin:mar:जीव (jīv), ben:জীউ (jiu), tel:జీవము (jīvamu), may:jiwa, tha:ชีวิต  (chiwit), mya:ဇီဝ (jiwa), khm:ជីវិត (jĭvit), rus:живой (živoy), pol:żywy  
 **joke** *żart* ← eng:fra:joke, fas:جوک‎ (jok), jpn:ジョーク (jōku) + zho:笑话 (xiàohuà), nan:笑詼 (chhiò-khoe)  
 **jong** *środkowy, centralny* ← zho:中 (zhōng), yue:中 (zung1), kor:중 (jung), jpn:中 (chuu-), vie:trung  
 **jovar** *sorgo* ← fas: جواری‎ (jovâri), hin:ज्वार (jvār), ben:জোয়ার (joyār), ara: جَاوَرْس (jāwaras), eng:jawar  
@@ -1292,7 +1292,7 @@
 **salade** *sałatka* ← fra:salade, may:salad, deu:Salat, rus:салат (salat), tur:salata, fas:urd:(salād), hin:सलाद (salād), yue:沙律 (saa1 leot62),  zho:沙拉 (shālā), por:salada, spa:ensalado, kor:샐러드 (saelleodeu), jpn:サラダ (sarada), tha:สลัด (salat), khm:សាលាដ (saalaat)  
 **salmon** *łosoś (pstrąg)* ← eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)  
 **salu** *zdrowy* ← fra:spa:por:salubre + ara: سَلَامَة‎ (salāma) + tur:sağlık  
-**sam** *taki sam* ← eng:same, fra:semblable, rus:самый (samyy), may:sama, hin:सम (sam)  
+**sam** *taki sam* ← eng:same, fra:semblable, rus:самый (samyy), fas:هم‎ (ham), hin:सम (sam), may:sama + ara: سَوَاء (sawāʾ), swa:sawa  
 **sama** *niebo* ← ara: سَمَاء‎ (samāʾ), swa:samawati, amh:ሰማይ (sämay), hau:sama, yor:sanma, tur:sema, orm:samii + hin:आसमान (āsmān), ben:আসমান (aśman)  
 **samari yum** *samar* ← eng:samarium, fra:samarium, spa:samario, por:samário, rus:самарий, zho:钐 (shān), jpn:サマリウム, kor:사마륨, vie:samari, hin:सैमरियम, ben:সামারিয়াম, may:samarium, swa:samari, ara: ساماريوم  
 **san** *góra, wzgórze* ← zho:山 (shān), yue:山 (saan1), jpn:山 (san), kor:산 (san), vie:sơn  
@@ -1455,9 +1455,9 @@
 **torso** *tułów* ← fra:torse, rus:торс (tors), deu:eng:spa:may:torso  
 **tortuga** *żółw* ← eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue  
 **toxi** *trucizna (toksyna)* ← eng:toxic, fra:toxique, spa:por:tóxico, rus:токсичний (toksicniy), may:toksik + zho:毒 (dú), yue:毒 (duk6), wuu:毒 (do’), jpn:毒 (doku/toku), kor:독 (dok), vie:độc  
-**transe** *przejazd, przewóz, tranzyt, transport* ← eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)  
-**trata gi** *traktor (ciągnik)* ← eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör  
+**tra** ** ← ita:tra, eng:through, spa:tras, por:(a)trás, fra:deu:may:trans-, rus:транс- (trans-)  
 **trate** ** ← eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör  
+**trater** *traktor (ciągnik)* ← eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör  
 **trati** *porozumienie* ← eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak  
 **tre** ** ← fra:très  
 **tren** *pociąg* ← eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem  
@@ -1553,7 +1553,6 @@
 **xam** *wieczór* ← hin:शाम (śām), ben:শাম (śam), tur:akşam  
 **xaman** *szaman* ← eng:shaman, fra:chaman, spa:chamán, rus:шаман (šaman), tur:şaman, may:shaman, jpn:シャーマン (shāman)  
 **xanti** *zostawić (zostawiać)* ← hin:शांति (shānti), ben:শান্তি (shānti), pan:ਸ਼ਾਂਤੀ (shāntī), mar:शांत (shānta), tel:శాంతి (shānti), guj:શાંતિ (shānti), khm:សន្តិ (sɑnte’), eng:por:shanti, rus:шанти (shanti), jpn:シャンティ (shanti)  
-**xarke** *rekin* ← eng:shark, hin:शार्क (shaark), pan:ਸ਼ਾਰਕ (śāraka), mar:शार्क (śārka)  
 **xarma** *wstyd (hańba, kompromitacja)* ← fas:(šarm),  urd:(śarma), hin:शर्म (śarma), deu:Scham, eng:shame, rus:срам (sram)  
 **xarnir** *zawias, oś* ← fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)  
 **xarti** *warunek* ← tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)  
@@ -1561,6 +1560,7 @@
 **xau** *niewiele (mało, nieliczność)* ← zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)  
 **xava** *deszcz* ← por:chuva + eng:shower, deu:Schauer + jpn:シャワー (shawā), hin:शावर (śāvar)  
 **xaxa** *szeleścić* ← zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha  
+**xayu** *rekin* ← zho:鲨鱼 (shāyú), yue: 鯊魚  (saa1 jyu4-2), kor:상어 (sang'eo), jpn:鮫 (same) + may:hiu; yu  
 **xe hal** *sytuacja (stan)* ← zho:事态 (shìtài), jpn:事態 (jitai), eng:state of affairs, fra:état des choses  
 **xe** *rzecz* ← ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)  
 **xefe** *szef, kierownik* ← fra:chef, por:chefe, spa:jefe, rus:шеф (šef), eng:chief, swa:chifu, jpn:チーフ (chīfu), + ara:(šeyx)  

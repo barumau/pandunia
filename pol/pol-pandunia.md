@@ -2342,13 +2342,13 @@ przedrostek (prefiks) - cen fixe
 przedłużyć, przedłużać - fa long  
 przegrany, pokonany - xiti bai ja  
 przegrać, przegrywać - fa xiti bai  
-przejazd, przewóz, tranzyt, transport - transe  
+przejazd, przewóz, tranzyt, transport - trapas  
 przejmować się (zawracać sobie głowę) - be turbe  
 przejść w poprzek - be krus  
 przejść, przechodzić, przejechać, przejeżdżać - fa transe  
 przekroczyć, przekraczać, przejść nad, iść nad - be supra  
 przekąska - xiu yam  
-przekątny - transe gon di  
+przekątny - tragona di  
 przepołowić (podzielić przez dwa) - fa fen do du  
 przepraszam! - maf  
 przepękla ogórkowata (balsamka ogórkowata) - kali melon  
@@ -2476,7 +2476,7 @@ rebelia, powstanie - rebel
 recepta, receptura, przepis - reseta  
 region - topo  
 rejestr - loge  
-rekin - xarke  
+rekin - xayu  
 religia, wyznanie - din  
 religijny - din di  
 relikwia - cen zaman xe  
@@ -3031,7 +3031,7 @@ tor - tor yum
 torba, wór, worek, torba, sakwa - sake  
 tost - roste pang  
 towarzysz (partner, kumpel) - late jen  
-traktor (ciągnik) - trata gi  
+traktor (ciągnik) - trater  
 traktować - fa culi  
 transport - traporte  
 trawa - cau  
@@ -3678,7 +3678,7 @@ zły, zrujnowany, zepsuty - harabu
 żad - giuka  
 żal, smutek - duku  
 żart - joke  
-żartowniś, dowcipniś - joke ja  
+żartowniś, dowcipniś - joker  
 że - ki  
 żeglarz (marynarz) - nave ga ja  
 żeglować (płynąć) - nave ga  
@@ -3690,11 +3690,10 @@ zły, zrujnowany, zepsuty - harabu
 żołnierz - gun jen  
 żołądź - baluta frute  
 żwir - grave  
-życie - jiva  
 życie organiczne - bioxe  
 żydowski - yehudi  
 żyrafa - jirafa  
 żywica - rezin  
-żyć (żywy, żyjący) - fa jiva  
+żyć (żywy, żyjący; życie) - jiva  
 żółty - huang  
 żółw - tortuga  
