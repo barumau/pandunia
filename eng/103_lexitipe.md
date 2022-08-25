@@ -8,9 +8,9 @@ which does not change according to number, case, gender, tense, mood or
 any of the other inflectional categories known from other languages.
 Compare, for example, what happens to the words in the following two sentences in Pandunia and English.
 
-1. *mi ame ye.*
+1. *mi ame ya.*
    – I love him.
-2. *ye ame mi.*
+2. *ya ame mi.*
    – He loves me.
 
 In Pandunia, the subject and object simply change places and that's it.
