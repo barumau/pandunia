@@ -294,6 +294,7 @@ bano.geme|bano geme||||board game|jeu de société|juego de mesa|jogo de tabulei
 banya|banya|||spa:bañera, por:banheira, ell:μπάνιο (bánio), rus:ванна (vanna), ara:بانيو‎ (banyu)|bath|bain|bañera||купание||洗澡|||||||bafu||bano|kylpy|kąpiel
 banya.kamar|banya kamar||||bathroom|salle de bains|baño||ванная||浴室|||||||||banĉambro|kylpyhuone|łazienka
 bar|bar|||eng:fra:spa:por:may:tur:bar, rus:бар (bar), zho:酒吧 (jiǔbā), jpn:バー (bā), hin:बार (bār), ben:বার (bar)|bar||bar||||||||||||||baari (kapakka)|bar
+bar.vala|bar vala||||bartender|barman|barman|barman|бармен|||バーテンダー|바텐더||||||||baarimikko|
 bara|bara|||eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|bar (obstruct, block)|bloquer|barrar (bloquear, obstruir)|barrar|преграждать||||||रोकना|||||bari|estää kulku (tukkia tie)|blokować, hamować
 bara.mur|bara mur||||barrier (fence)|barrière|barrera (barda)|barreira|барьер||||||बाड़ (रोक)|বেড়া||||barilo|este|bariera
 Barbados|Barbados|dexa|BB||Barbados|Barbade|Barbados||||||||||||||Barbados|Barbados
@@ -574,6 +575,7 @@ cai.camaca|cai camaca||||teaspoon|cuillère à café (petite cuillère)|cucharil
 cai.kan|caikan||||tea house||salón de té||чайная (чайхана)||茶馆|茶店 (茶館)||quán trà|चायख़ाना||||çayhane||teehuone (kahvila)|herbaciarnia
 cai.kupa|cai kupa||||tea cup|tasse à thé|taza de té|chavena (tigela de chá)|чайная чашка||茶碗|茶碗|||||cawan||||teekuppi|kubek do herbaty
 cai.pote|cai pote||||teapot|théière|tetera|bule|чайник|إِبْرِيق الشَّاي‎|茶壶|急須|찻주전자|ấm trà|चायदानी||teko (poci teh)||çaydanlık|teujo|teepannu|imbryk (czajnik)
+cai.vala|cai vala||||tea seller (chaiwallah)||||||||||चायवाला||||||teen myyjä|
 cakra|cakra|||hin:चक्र (cakra), ben:চাকা (caka), pan:ਚੱਕਰ (cakkar), guj:ચક્ર (cakra), tel:చక్రము (cakramu), mar:चाक (cāk), tha:จักร (jàk), may:cakera, eng:chakram|wheel|roue|rueda (volante)|roda|колесо|عجلة‎|轮子|車輪|바퀴 (차륜)|bánh xe|चक्र|চাকা|roda (setir, cakera)|gurudumu|tekerlek (çark)|rado|ratas|koło
 caku|caku|||hin:चाक़ू (cāqū), fas:(čâqu), nep:चक्कु (cakku), kan:ಚಾಕು (cāku)|knife||cuchillo|||||||||||||tranĉilo|veitsi (puukko)|nóż
 camaca|camaca|||hin:चम्मच (cammac), ben:চামচ (camôc), may:camca, kan:ಚಮಚ (camaca), fas: چمچه (čamče), tel:చెమ్చా (cemcā), pnb:ਚਮਚਾ (camcā), tur:çömçe + tha:ช้อน (chon)|spoon|cuiller|cuchara|colher|ложка||匙子|スプーン|숟가락 (스푼)||चम्मच|চামচ|sudu (sendok, camca)||kaşık|kulero|lusikka|łyżka
@@ -1691,6 +1693,7 @@ hai.jele|hai jele|bio|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||�
 hai.kinar|hai kinar||||shore (coast, beach)|côte|costa (orilla)|costa|||海岸|海岸|||तट||||||merenranta|wybrzeże
 hai.nil|hai nil||||aqua (teal)|||||||水色|||||||||merensininen|morskoniebieski
 hai.porte|hai porte||||harbor (seaport)||puerto marítimo|porto marítimo|||海港|海港||||||||haveno|satama|port morski (przystań)
+hai.vala|hai vala||||sailor (seaman, mariner)|matelot|marinero|marinheiro|моряк|مَلَّاح|水手 (海员)|船員 (水夫)|선원 (수병)||नाविक (मल्लाह)|নাবিক (মাল্লা)|kelasi (pelaut)|baharia|mellah (gemici)|maristo|merimies|
 haide|haide|||rum:háide, ell:άιντε (áinte), bul:ха́йде (hájde), rus:айда (ayda), tur:hadi, ara:هَيَّا‎ (hayyā), vie:hãy|let's||vamos a|||||||||||||ni faru...|tehkäämme|niech my, hajda
 haki|haki|||ara:(ḥaq), hin:हक़ (haq), tur:may:hak, swa:haki, hau:hakki|right (entitlement)|droit|derecho|direito|||权利|権利|권리||अधिकार (हक़)|অধিকার||||rajto|oikeus (oikeutus)|prawo, przywilej
 hal|hal|||ara:حال (ḥāl), hin:हालत (hālat), swa:hali, tur:hâl|state (condition, status, situation)|état|estado (condición)|estado|состояние (статус)||状态|状態|상태||हालत (दशा)||keadaan (kondisi)|hali|durum (hâl)|stato|tila (tilanne, seikka)|stan
@@ -2107,6 +2110,7 @@ kanta|kanta|||hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kand
 kantalupo.melon|kantalupo melon|bio|Cucumis melo var. cantalupo|eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)|cantaloupe||melón cantalupo|meloa (cantalupo)|канталупа||鈔皮瓜|カンタロープ||||||||||kantalupa
 Kantalupo.va.Sabina|Kantalupo va Sabina||||Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Канталупо-ин-Сабина|||||||||||||Cantalupo in Sabina
 kanun|kanun|||ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|law (rule, regulation)||regla (ley)|||||||||||kanuni|kanun|lego|laki (sääntö)|prawo
+kanun.vala|kanun vala||||lawyer||||||律师|弁護士|변호사|luật sư|वकील|উকিল|pengacara|wakili|avukat|advokato|lakimies (juristi)|adwokat
 kanyon|kanyon|||eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon|canyon (ravine, gorge, gully)|canyon (ravin)|cañón (barranco, quebrada)|canhão (ravina, barranco)|овраг (ущелье, каньон)||峡谷 (深谷)|峡谷||||||||||kanion
 kape|kape|||tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)|catch (capture, seize, snatch, intercept)||capturar (apresar)|||||||||||||kapti|ottaa kiinni (napata, kaapata)|złapać, łapać, schwytać, chwytać
 kape.truke|kape truke||||trap (snare)|piège|trampa|armadilha|ловушка||陷阱|罠||||||||||pułapka
@@ -3929,6 +3933,7 @@ tava|tava|||hin:तवा (tavā), tur:tava, fas:(tābe)|frying pan||sartén||||
 taxi|taxi|||eng:tax, por:taxa, spa:tasa, hin:टैक्स (ṭEks) + fra:taxi, rus:такси (taksi), jpn:タクシー (takushī), kor:택시 (taeksi), vie:tắc xi, hin:टैक्सी (ṭaiksī), ben:ট্যাক্সি (ṭyaksi), tur:may:taksi, swa:teksi|fee (fare)||tasa (precio, cuota, tarifa)||||||||||||||taksa (vero)|podatek, opłata
 taxi.gar|taxi gar||||taxi (cab)||taxi (cab)||||||||||||||taksi|taxi, taksówka
 taxi.metre.gi|taxi metre gi||||taximeter|taximètre||taxímetro|таксометр||计程器||||||||||taksamittari|taksometr
+taxi.vala|taxi vala||||taxi driver (cab driver)|chauffeur de taxi|taxista (taximetrista)|taxista|таксист|سَائِق تَاكْسِي‎|出租车司机|タクシー運転手|택시 기사|lái xe tắc xi|टैक्सी चालक||||taksici|taksiisto|taksinkuljettaja|taksówkarz
 taza|taza|||tur:taze, hin:ताज़ा (tāzā), ben:তাজা (taja), fas:(tâze)|fresh|frais|fresco||свежий||新鲜的|||||||||freŝa|tuore (raikas)|świeży
 tef|tef|bio|Eragrostis tef|amh:ጤፍ (ṭēff), orm:xaafii, swa:mtefi, eng:teff, spa:may:tef, por:tefe, rus:теф (tef), zho:苔麸 (tái fū), jpn:テフ (tefu), kor:테프 (teipeu)|lovegrass (teff)|mil éthiopien|||теф||苔麸|テフ (穀物)|테프||||tef|mtefi|||tefheinä (röllinurmikka)|
 tehni|tehni|||ell:τεχνική (tehniki), rus:техника (tehnika), fra:eng:technique, spa:por:técnica, hin:तकनीक (taknīk), may:teknik|technique (technology)|technique|técnica|técnica|техника||技术|技術|기술|kỹ thuật|||teknik||teknik|tekniko|tekniikka (keino, menetelmä)|technika, technologia
@@ -4165,6 +4170,7 @@ vai.yam|vai yam||||picnic|piquenique|jira (pícnic)|piquenique|пикник||野
 vakil|vakil|||ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil), tur:vekil|represent||representar||||||||||||||edustaa|reprezentować
 vakil.ja|vakil ja||||representative (proxy, agent)||||||||||||||||edustaja (agentti)|reprezentant (przedstawiciel)
 vakil.krati|vakil krati||||republic|||||||||||||||republiko|tasavalta|republika
+vala|vala|||hin:-वाला (-vālā), ben:-ওয়ালা (-ẇala) + ara: وَلِيّ (waliyy), fas: ولی (vali)|practicioner (person in charge or employed in an area, -person, -man)||||||||||वाला|ওয়ালা||||isto|ammatinharjoittaja (niekka)|
 vali|vali|||eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi|valley|vallée (oued)|valle|vale (uadi)||وَادٍ‎|山谷|谷|골짜기|thung lũng|घाटी (वादी)|উপত্যকা|lembah (wadi)|bonde|vadi|valo|laakso|dolina
 vali.susan|vali susan|bio|Convallaria majalis||lily of the valley||convalaria (lirio de los valles)|lírio-do-vale|ландыш||鈴蘭|キミカゲソウ (スズラン)|||||||||kielo|konwalia majowa
 Valis.e.Futuna.nesi|Valis e Futuna nesi|dexa|WF||Wallis and Futuna Islands||Wallis y Futuna||||||||||||||Wallis ja Futuna|Saint Vincent i Grenadyny

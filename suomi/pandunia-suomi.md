@@ -320,6 +320,7 @@ bano geme - lautapeli
 banya - kylpy  
 banya kamar - kylpyhuone  
 bar - baari (kapakka)  
+bar vala - baarimikko  
 bara - estää kulku (tukkia tie)  
 bara mur - este  
 Barbados - Barbados  
@@ -598,6 +599,7 @@ cai camaca - teelusikka (pikku lusikka)
 caikan - teehuone (kahvila)  
 cai kupa - teekuppi  
 cai pote - teepannu  
+cai vala - teen myyjä  
 cakra - ratas  
 caku - veitsi (puukko)  
 camaca - lusikka  
@@ -1655,6 +1657,7 @@ hai jele - meduusa
 hai kinar - merenranta  
 hai nil - merensininen  
 hai porte - satama  
+hai vala - merimies  
 haide - tehkäämme  
 haki - oikeus (oikeutus)  
 hal - tila (tilanne, seikka)  
@@ -2034,6 +2037,7 @@ kanon - klassikko
 kanon di - klassinen (kanooninen)  
 kanta - olkapää (hartia)  
 kanun - laki (sääntö)  
+kanun vala - lakimies (juristi)  
 kape - ottaa kiinni (napata, kaapata)  
 kape yo taxi - veloittaa (verottaa)  
 kar - työskennellä  
@@ -3596,6 +3600,7 @@ tava - pannu (paistinpannu)
 taxi - taksa (vero)  
 taxi gar - taksi  
 taxi metre gi - taksamittari  
+taxi vala - taksinkuljettaja  
 taza - tuore (raikas)  
 tef - tefheinä (röllinurmikka)  
 tehni - tekniikka (keino, menetelmä)  
@@ -3821,6 +3826,7 @@ vai yam - eväsretki (piknik)
 vakil - edustaa  
 vakil ja - edustaja (agentti)  
 vakil krati - tasavalta  
+vala - ammatinharjoittaja (niekka)  
 vali - laakso  
 vali susan - kielo  
 Valis e Futuna nesi - Wallis ja Futuna  

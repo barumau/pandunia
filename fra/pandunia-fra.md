@@ -229,6 +229,7 @@ bano - tableau (panneau)
 bano geme - jeu de société  
 banya - bain  
 banya kamar - salle de bains  
+bar vala - barman  
 bara - bloquer  
 bara mur - barrière  
 Barbados - Barbade  
@@ -764,6 +765,7 @@ hai gun - force navale (marine)
 hai hiyar - concombre de mer  
 hai jele - méduse  
 hai kinar - côte  
+hai vala - matelot  
 haki - droit  
 hal - état  
 hali - vide  
@@ -1706,6 +1708,7 @@ tali yum - thallium
 tana - tige  
 tantal yum - tantale  
 taxi metre gi - taximètre  
+taxi vala - chauffeur de taxi  
 taza - frais  
 tef - mil éthiopien  
 tehni - technique  

@@ -1699,6 +1699,7 @@ kanta - bark (ramię)
 kantalupo melon - kantalupa  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanun - prawo  
+kanun vala - adwokat  
 kanyon - kanion  
 kape - złapać, łapać, schwytać, chwytać  
 kape truke - pułapka  
@@ -3266,6 +3267,7 @@ tava - patelnia
 taxi - podatek, opłata  
 taxi gar - taxi, taksówka  
 taxi metre gi - taksometr  
+taxi vala - taksówkarz  
 taza - świeży  
 tehni - technika, technologia  
 tehni krati - technokracja  

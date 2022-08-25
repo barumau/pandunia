@@ -1495,6 +1495,7 @@
 **vahi** *oasis* ← cop:ⲟⲩⲁϩⲓ (ouahi), Arabic: وَاحَة‎ (wāḥa), Persian: واحه‎ (vāhe), Turkish:vaha, Malay:wahah, English:French:Spanish:Portuguese:oasis, Russian:оазис (oazis), deu:Oase, Japanese:オアシス (oashisu), Korean:오아시스 (oasiseu)  
 **vai** *outside (exterior)* ← Mandarin:外 (wài), Cantonese:外 (ngoi6), Japanese:外 (gai), Korean:외 (oe), Vietnamese:ngoại;ngoài  
 **vakil** *represent* ← Arabic:وكيل‎ (wakīl), Swahili:wakili, Persian:وکیل‎ (vakil), Hindi:वकील (vakīl), Bengali:উকিল (ukil), Turkish:vekil  
+**vala** *practicioner (person in charge or employed in an area, -person, -man)* ← Hindi:-वाला (-vālā), Bengali:-ওয়ালা (-ẇala) + Arabic: وَلِيّ (waliyy), Persian: ولی (vali)  
 **vali** *valley* ← English:valley, French:vallée, Spanish:valle, Portuguese:vale, Arabic: وَادٍ‎ (wādin), Hindi:वादी (vādī), Malay:wadi, Turkish:vadi  
 **valse** *waltz* ← English:waltz, French:valse, Spanish:Portuguese:valsa, Russian:вальс (val’s), Mandarin:华尔兹 (huá'ěrzī), Japanese:ワルツ (warutsu), Korean:왈츠 (walcheu)  
 **valu** *value (worth)* ← English:value, Spanish:Portuguese:valor, French:valeur  

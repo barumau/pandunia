@@ -161,6 +161,7 @@ bando - banda
 banqueiro - bankar  
 barba - barde  
 barco (navio) - nave  
+barman - bar vala  
 barra de chocolate - coklate kane  
 barrar - bara  
 barreira - bara mur  
@@ -943,6 +944,7 @@ margarida-comum - englix margarita
 margarita-maior - baku margarite  
 margem (borda) - kinar  
 marinha - hai gun  
+marinheiro - hai vala  
 Marrocos - Magribi dexa  
 Marte - Marse  
 marítimo - hai di  
@@ -1506,6 +1508,7 @@ talvez - bil si
 tangerina (mandarim) - rubi oranje  
 tapioca - manioka fufu  
 tartaruga - tortuga  
+taxista - taxi vala  
 taxímetro - taxi metre gi  
 tear - tela gi  
 tecnécio - tehni yum  

@@ -112,6 +112,7 @@ Amerikka - Amerika
 amerikkalainen - Amerika di  
 amhara (etiopialainen kansa ja kieli) - Amara  
 amiraali - hai amir ja  
+ammatinharjoittaja (niekka) - vala  
 ammatti - pei gong  
 ammattilainen - pei gong ja  
 ampeeri - amper  
@@ -234,6 +235,7 @@ Azerbaidžan - Azerbaijan
 
 baari (kapakka) - bar  
 baari (kapakka) - birkan  
+baarimikko - bar vala  
 backgammon - nardi  
 bahailainen - baha din ja  
 bahailaisuus - baha din  
@@ -1624,6 +1626,7 @@ laivakaappari - nave kape ja
 laji (tyyppi, tyyli) - yang  
 laji - jung  
 laki (sääntö) - kanun  
+lakimies (juristi) - kanun vala  
 lakka - laka  
 lakki (hattu) - tupi  
 lakritsi - alkasus  
@@ -1994,6 +1997,7 @@ meri- (merellinen) - hai di
 meriheinä - hai cau  
 merilevä - hai alga  
 merimakkara - hai hiyar  
+merimies - hai vala  
 merirosvo (piraatti) - pirate ja  
 merirosvous - pirate  
 merivoimat (sotalaivasto) - hai gun  
@@ -3341,6 +3345,7 @@ taksa (tariffi) - tarif
 taksa (vero) - taxi  
 taksamittari - taxi metre gi  
 taksi - taxi gar  
+taksinkuljettaja - taxi vala  
 taktiikka - tatike  
 takuu - garanti  
 tallenne (rekisteri, loki) - loge  
@@ -3408,6 +3413,7 @@ tee - cai
 teehuone (kahvila) - caikan  
 teekuppi - cai kupa  
 teelusikka (pikku lusikka) - cai camaca  
+teen myyjä - cai vala  
 teepannu - cai pote  
 tefheinä (röllinurmikka) - tef  
 tehdas - fetekan  

@@ -111,6 +111,7 @@ bambu - 竹
 bamia - オクラ  
 bano - 板  
 bano geme - ボードゲーム  
+bar vala - バーテンダー  
 bari yum - バリウム  
 baru - 熊  
 bas - 十分  
@@ -600,6 +601,7 @@ hai jele - 海月
 hai kinar - 海岸  
 hai nil - 水色  
 hai porte - 海港  
+hai vala - 船員 (水夫)  
 haki - 権利  
 hal - 状態  
 halal liste - ホワイトリスト  
@@ -770,6 +772,7 @@ kane sor - 掛け金
 kangaru - カンガルー  
 kano - カヌー  
 kantalupo melon - カンタロープ  
+kanun vala - 弁護士  
 kanyon - 峡谷  
 kape truke - 罠  
 kar - 働く  
@@ -1463,6 +1466,7 @@ tali yum - タリウム
 tana - 茎 (胴)  
 tantal yum - タンタル  
 tasa - 皿  
+taxi vala - タクシー運転手  
 tef - テフ (穀物)  
 tehni - 技術  
 tehni yum - テクネチウム  

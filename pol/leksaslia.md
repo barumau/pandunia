@@ -1495,6 +1495,7 @@
 **vahi** *oaza* ← cop:ⲟⲩⲁϩⲓ (ouahi), ara: وَاحَة‎ (wāḥa), fas: واحه‎ (vāhe), tur:vaha, may:wahah, eng:fra:spa:por:oasis, rus:оазис (oazis), deu:Oase, jpn:オアシス (oashisu), kor:오아시스 (oasiseu)  
 **vai** *zęwnętrzny* ← zho:外 (wài), yue:外 (ngoi6), jpn:外 (gai), kor:외 (oe), vie:ngoại;ngoài  
 **vakil** *reprezentować* ← ara:وكيل‎ (wakīl), swa:wakili, fas:وکیل‎ (vakil), hin:वकील (vakīl), ben:উকিল (ukil), tur:vekil  
+**vala** ** ← hin:-वाला (-vālā), ben:-ওয়ালা (-ẇala) + ara: وَلِيّ (waliyy), fas: ولی (vali)  
 **vali** *dolina* ← eng:valley, fra:vallée, spa:valle, por:vale, ara: وَادٍ‎ (wādin), hin:वादी (vādī), may:wadi, tur:vadi  
 **valse** *walc* ← eng:waltz, fra:valse, spa:por:valsa, rus:вальс (val’s), zho:华尔兹 (huá'ěrzī), jpn:ワルツ (warutsu), kor:왈츠 (walcheu)  
 **valu** *wartość* ← eng:value, spa:por:valor, fra:valeur  

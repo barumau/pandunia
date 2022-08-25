@@ -220,6 +220,7 @@ Barbade - Barbados
 barbare - barbar  
 barbe - barde  
 Barbuda - Barbuda  
+barman - bar vala  
 baromètre - air prese metre gi  
 barrière - bara mur  
 baryum - bari yum  
@@ -401,6 +402,7 @@ charme - carme
 chasser - fa saide  
 chat - mau  
 chaudron - dai pote  
+chauffeur de taxi - taxi vala  
 chauve - sar kexa hin  
 chauve-souris - fei muxu  
 chaux - kalsi mate  
@@ -1069,6 +1071,7 @@ masque - maska
 masse - masa  
 mat (opaque) - foto mata di  
 match - mece  
+matelot - hai vala  
 maternel - ma di  
 mathématiques - hisabu logi  
 matière - mate  

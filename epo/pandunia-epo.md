@@ -820,6 +820,7 @@ hai amir ja - admiralo (ŝiparestro)
 hai di - mara  
 hai gun - mararmeo  
 hai porte - haveno  
+hai vala - maristo  
 haide - ni faru...  
 haki - rajto  
 hal - stato  
@@ -1040,6 +1041,7 @@ kanjar - ponardo
 kano - kanuo (kanoto)  
 kanta - ŝultro  
 kanun - lego  
+kanun vala - advokato  
 kape - kapti  
 • konkar - kunlabori  
 karja - laboristo  
@@ -1836,6 +1838,7 @@ Tanzania - Tanzanio
 tasa - plado  
 tatu - tatuo  
 tava - pato  
+taxi vala - taksiisto  
 taza - freŝa  
 tehni - tekniko  
 tehni logi - teknologio  
@@ -1934,6 +1937,7 @@ vai di - ekstera
 vai planete - ekzoplanedo  
 vai vide di - evidenta  
 vakil krati - republiko  
+vala - isto  
 vali - valo  
 valu - valoro  
 vanu - amuzo  

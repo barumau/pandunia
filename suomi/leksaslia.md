@@ -1495,6 +1495,7 @@
 **vahi** *keidas* ← cop:ⲟⲩⲁϩⲓ (ouahi), arabia: وَاحَة‎ (wāḥa), persia: واحه‎ (vāhe), turkki:vaha, malaiji:wahah, englanti:ranska:espanja:portugali:oasis, venäjä:оазис (oazis), deu:Oase, japani:オアシス (oashisu), korea:오아시스 (oasiseu)  
 **vai** *ulkopuoli* ← yleiskiina:外 (wài), kantoninkiina:外 (ngoi6), japani:外 (gai), korea:외 (oe), vietnami:ngoại;ngoài  
 **vakil** *edustaa* ← arabia:وكيل‎ (wakīl), suahili:wakili, persia:وکیل‎ (vakil), hindi:वकील (vakīl), bangla:উকিল (ukil), turkki:vekil  
+**vala** *ammatinharjoittaja (niekka)* ← hindi:-वाला (-vālā), bangla:-ওয়ালা (-ẇala) + arabia: وَلِيّ (waliyy), persia: ولی (vali)  
 **vali** *laakso* ← englanti:valley, ranska:vallée, espanja:valle, portugali:vale, arabia: وَادٍ‎ (wādin), hindi:वादी (vādī), malaiji:wadi, turkki:vadi  
 **valse** *valssi* ← englanti:waltz, ranska:valse, espanja:portugali:valsa, venäjä:вальс (val’s), yleiskiina:华尔兹 (huá'ěrzī), japani:ワルツ (warutsu), korea:왈츠 (walcheu)  
 **valu** *arvo* ← englanti:value, espanja:portugali:valor, ranska:valeur  

@@ -270,6 +270,7 @@ bano geme - juego de mesa
 banya - bañera  
 banya kamar - baño  
 bar - bar  
+bar vala - barman  
 bara - barrar (bloquear, obstruir)  
 bara mur - barrera (barda)  
 Barbados - Barbados  
@@ -1497,6 +1498,7 @@ hai hua - actinia (anémonas de mar)
 hai jele - medusa  
 hai kinar - costa (orilla)  
 hai porte - puerto marítimo  
+hai vala - marinero  
 haide - vamos a  
 haki - derecho  
 hal - estado (condición)  
@@ -3518,6 +3520,7 @@ tatu - tatuaje
 tava - sartén  
 taxi - tasa (precio, cuota, tarifa)  
 taxi gar - taxi (cab)  
+taxi vala - taxista (taximetrista)  
 taza - fresco  
 tehni - técnica  
 tehni krati - tecnocracia  

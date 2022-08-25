@@ -335,6 +335,7 @@ barometer - air prese metre gi
 barracks - gun jen kan  
 barrel (can, cask) - tong  
 barrier (fence) - bara mur  
+bartender - bar vala  
 base (alkali; alkaline) - kali  
 base (foundation) - baze  
 baseball - baze bol  
@@ -2201,6 +2202,7 @@ lava - yung petra
 law (rule, regulation) - kanun  
 lawn - cau medan  
 lawrencium - laurence yum  
+lawyer - kanun vala  
 lay (lay down) - fa kux  
 layer (level, storey, floor, stratum) - ceng  
 lead (bring to) - dute  
@@ -3177,6 +3179,7 @@ power (authority, rule) - sultan
 practical (pragmatic) - prati di  
 practice (actuality) - prati  
 practice (to exercise) - fa lenxi  
+practicioner (person in charge or employed in an area, -person, -man) - vala  
 praise (commend, exalt) - halela  
 praise (eulogize) - fa eu loga  
 praise (eulogy) - eu loga  
@@ -3508,6 +3511,7 @@ sago palm - sagu
 Sahrawi Arab Democratic Republic - Sahara Dexa  
 sail - nave ga  
 sailer - nave ga ja  
+sailor (seaman, mariner) - hai vala  
 Saint Helena - Sante Helena  
 Saint John's Day - Yohan festa  
 Saint Kitts - Sante Kitse  
@@ -3987,10 +3991,12 @@ taste like - guste ka
 tattered (ragged, torn) - cira cira di  
 tattoo - tatu  
 taxi (cab) - taxi gar  
+taxi driver (cab driver) - taxi vala  
 taximeter - taxi metre gi  
 tea - cai  
 tea cup - cai kupa  
 tea house - caikan  
+tea seller (chaiwallah) - cai vala  
 teach (educate, instruct, doctrine) - gio  
 teacher (instructor) - gio ja  
 team - tim  

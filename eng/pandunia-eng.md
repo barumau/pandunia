@@ -332,6 +332,7 @@ bano geme - board game
 banya - bath  
 banya kamar - bathroom  
 bar - bar  
+bar vala - bartender  
 bara - bar (obstruct, block)  
 bara mur - barrier (fence)  
 Barbados - Barbados  
@@ -614,6 +615,7 @@ cai camaca - teaspoon
 caikan - tea house  
 cai kupa - tea cup  
 cai pote - teapot  
+cai vala - tea seller (chaiwallah)  
 cakra - wheel  
 caku - knife  
 camaca - spoon  
@@ -1740,6 +1742,7 @@ hai jele - jellyfish (seajelly)
 hai kinar - shore (coast, beach)  
 hai nil - aqua (teal)  
 hai porte - harbor (seaport)  
+hai vala - sailor (seaman, mariner)  
 haide - let's  
 haki - right (entitlement)  
 hal - state (condition, status, situation)  
@@ -2162,6 +2165,7 @@ kanta - shoulder
 kantalupo melon - cantaloupe  
 Kantalupo va Sabina - Cantalupo in Sabina  
 kanun - law (rule, regulation)  
+kanun vala - lawyer  
 kanyon - canyon (ravine, gorge, gully)  
 kape - catch (capture, seize, snatch, intercept)  
 kape truke - trap (snare)  
@@ -3995,6 +3999,7 @@ tava - frying pan
 taxi - fee (fare)  
 taxi gar - taxi (cab)  
 taxi metre gi - taximeter  
+taxi vala - taxi driver (cab driver)  
 taza - fresh  
 tef - lovegrass (teff)  
 tehni - technique (technology)  
@@ -4235,6 +4240,7 @@ vai yam - picnic
 vakil - represent  
 vakil ja - representative (proxy, agent)  
 vakil krati - republic  
+vala - practicioner (person in charge or employed in an area, -person, -man)  
 vali - valley  
 vali susan - lily of the valley  
 Valis e Futuna nesi - Wallis and Futuna Islands  

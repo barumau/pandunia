@@ -1495,6 +1495,7 @@
 **vahi** *oazo* ← cop:ⲟⲩⲁϩⲓ (ouahi), araba: وَاحَة‎ (wāḥa), persa: واحه‎ (vāhe), turka:vaha, malaja:wahah, angla:franca:hispana:portugala:oasis, rusa:оазис (oazis), deu:Oase, japana:オアシス (oashisu), korea:오아시스 (oasiseu)  
 **vai** *ekstero* ← mandarena:外 (wài), kantona:外 (ngoi6), japana:外 (gai), korea:외 (oe), vjetnama:ngoại;ngoài  
 **vakil** ** ← araba:وكيل‎ (wakīl), svahila:wakili, persa:وکیل‎ (vakil), hindia:वकील (vakīl), bengala:উকিল (ukil), turka:vekil  
+**vala** *isto* ← hindia:-वाला (-vālā), bengala:-ওয়ালা (-ẇala) + araba: وَلِيّ (waliyy), persa: ولی (vali)  
 **vali** *valo* ← angla:valley, franca:vallée, hispana:valle, portugala:vale, araba: وَادٍ‎ (wādin), hindia:वादी (vādī), malaja:wadi, turka:vadi  
 **valse** ** ← angla:waltz, franca:valse, hispana:portugala:valsa, rusa:вальс (val’s), mandarena:华尔兹 (huá'ěrzī), japana:ワルツ (warutsu), korea:왈츠 (walcheu)  
 **valu** *valoro* ← angla:value, hispana:portugala:valor, franca:valeur  

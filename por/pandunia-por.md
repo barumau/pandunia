@@ -138,6 +138,7 @@ bankar - banqueiro
 banka rute - bancarrota (falido)  
 bano - painel  
 bano geme - jogo de tabuleiro  
+bar vala - barman  
 bara - barrar  
 bara mur - barreira  
 barde - barba  
@@ -599,6 +600,7 @@ hai hiyar - pepino-do-mar (holotúrias)
 hai jele - medusa  
 hai kinar - costa  
 hai porte - porto marítimo  
+hai vala - marinheiro  
 haki - direito  
 hal - estado  
 hali - vazio  
@@ -1476,6 +1478,7 @@ tali yum - tálio
 tana - haste (talo, caule)  
 tantal yum - tântalo  
 taxi metre gi - taxímetro  
+taxi vala - taxista  
 tehni - técnica  
 tehni yum - tecnécio  
 tela - fazenda (tecido)  

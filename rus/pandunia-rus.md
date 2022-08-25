@@ -150,6 +150,7 @@ bano - доска (панель)
 bano geme - настольная игра  
 banya - купание  
 banya kamar - ванная  
+bar vala - бармен  
 bara - преграждать  
 bara mur - барьер  
 barde - борода  
@@ -667,6 +668,7 @@ hai di - морской
 hai gun - военно-морской флот  
 hai hiyar - голотурия (морские огурц)  
 hai hua - морские анемоны  
+hai vala - моряк  
 hal - состояние (статус)  
 hali - пустой  
 halifa - халиф  
@@ -1593,6 +1595,7 @@ tantal yum - тантал
 tasa - блюдо (таз)  
 tatu - татуировка (тату)  
 taxi metre gi - таксометр  
+taxi vala - таксист  
 taza - свежий  
 tef - теф  
 tehni - техника  

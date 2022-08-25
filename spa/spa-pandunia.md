@@ -386,6 +386,7 @@ Barbados - Barbados
 Barbuda - Barbuda  
 barco (bote) - nave  
 bario - bari yum  
+barman - bar vala  
 barra (vara, palo) - kane  
 barra de chocolate - coklate kane  
 barrar (bloquear, obstruir) - bara  
@@ -2306,6 +2307,7 @@ margarita - baku margarite
 margarita - margarita  
 margarita común (pascueta) - englix margarita  
 marina (armada) - hai gun  
+marinero - hai vala  
 marioneta (títere) - pupe  
 mariposa (palomilla) - pelpel  
 marmól - kalsi bilor  
@@ -3619,6 +3621,7 @@ tasa (precio, cuota, tarifa) - taxi
 tasa de fotogramas - grafi rapideta  
 tatuaje - tatu  
 taxi (cab) - taxi gar  
+taxista (taximetrista) - taxi vala  
 Tayikistán - Tajiki  
 taza de café - kafe kupa  
 taza de té - cai kupa  

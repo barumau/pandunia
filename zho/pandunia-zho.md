@@ -585,6 +585,7 @@ hai hua - 海葵
 hai jele - 海蜇  
 hai kinar - 海岸  
 hai porte - 海港  
+hai vala - 水手 (海员)  
 haki - 权利  
 hal - 状态  
 hali - 空的  
@@ -755,6 +756,7 @@ kane sor - 门闩
 kangaru - 袋鼠  
 kanon - 经典  
 kantalupo melon - 鈔皮瓜  
+kanun vala - 律师  
 kanyon - 峡谷 (深谷)  
 kape truke - 陷阱  
 kar - 工作  
@@ -1410,6 +1412,7 @@ tana - 茎 (梗)
 tantal yum - 钽  
 tasa - 盘 (碟)  
 taxi metre gi - 计程器  
+taxi vala - 出租车司机  
 taza - 新鲜的  
 tef - 苔麸  
 tehni - 技术  

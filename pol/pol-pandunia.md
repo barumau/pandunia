@@ -10,6 +10,7 @@ abisyński - habaxa
 aborygeński - asal Australia jen  
 admirał - hai amir ja  
 adres - adres  
+adwokat - kanun vala  
 Afganistan - Afghan  
 Afryka - Afrika  
 agorafobia - medan fobi  
@@ -2951,6 +2952,7 @@ Tajwan, Republika Chińska - Taivan
 tak - ye  
 taki sam - sam  
 taksometr - taxi metre gi  
+taksówkarz - taxi vala  
 taktyka, strategia - tatike  
 tal - tali yum  
 talerz - plate tasa  
