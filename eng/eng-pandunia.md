@@ -63,6 +63,7 @@ afraid (scared) - fobi di
 Africa - Afrika  
 afternoon - xam dia  
 again (repeatedly) - a ri  
+again (repeatedly) - ri  
 age - sene  
 aged - sene di  
 agent (doer, actor) - atir  
@@ -102,7 +103,7 @@ alone (lonely, isolated, solitary, single) - un zai di
 alpaca - alpaka  
 alphabet - zi sili  
 already (completed action) - fin  
-also (too) - e max  
+also (too, in addition) - a max  
 altar - puja meza  
 alum - alumin mate  
 alumina (aluminum oxide) - alumin oxide  
@@ -130,7 +131,7 @@ amuse (entertain) - fa vanu
 anaerobic - anair bio di  
 anaglyphic (stereoscopic) - du grafi di  
 anal - anus di  
-analog clock - zoku hor loga gi  
+analog clock - undurali hor loga gi  
 analyse (dissect, parse) - fa fen gata  
 analysis (dissection) - fen gata  
 anchor - angar  
@@ -287,11 +288,12 @@ azure bluet - nil serami sing
 babul tree (thorny acacia) - arabi babul  
 baby (infant) - bebe  
 back (posterior) - pos di  
+back (return it to previous place) - re  
 back - ruke  
 backgammon - nardi  
 backpack (rucksack) - ruke sake  
 backup - sekur kopi  
-backward (in reverse) - retro  
+backward (in reverse) - a re  
 bad (ruined, destroyed) - harabu  
 bad (unfavorable, negative, evil, wicked, troublesome, difficult) - dus  
 bag (sack) - sake  
@@ -508,7 +510,7 @@ boycott - boikote
 Brahma - Brahma  
 brain - nau  
 brainless - nau hin  
-branch (bough) - xaka  
+branch (bough, limb, arm) - xaka  
 brave (gallant, valiant) - bravo  
 bravo! - bravo  
 Brazil - Brazil  
@@ -739,7 +741,7 @@ Christian - mesi din ja
 Christianity - mesi din  
 Christmas - mesi gene  
 chromium - krom yum  
-chronic (lasting) - dur di  
+chronic (lasting) - dura di  
 chum salmon - baku salmon  
 church - eglisa  
 cigarette (cigar) - sigar  
@@ -886,8 +888,8 @@ container - in tene gi
 container - kontener  
 content - in xe  
 continue (go on, keep on, carry on, proceed, still, yet) - zoku  
-continue (resume) - re zoku  
-continuous (analog) - zoku di  
+continue (resume) - redura  
+continuous (analog) - undura  
 contribute - fen da  
 controversy   - kontraversi  
 conventional (customary, traditional) - suna di  
@@ -1162,7 +1164,7 @@ dot (spot) - bindu
 double (multiply by two) - fa multi do du  
 double (twofold) - duple  
 double entendre - du semi di  
-doubt (disbelief) - dute  
+doubt (suspect; suspicion) - xaki  
 doubtful (suspicious, disbelieving) - dute ja  
 downgrade - dus darja  
 download - nete gete  
@@ -1202,8 +1204,9 @@ dumpling (ravioli, pelmeni) - pelmen
 dune - duna  
 dungeon (underground prison) - geo nice jela  
 dungeon crawl - donjon ventur  
-durable (endurable, sustainable) - durbil  
-duration (time interval) - dur  
+durable (endurable, sustainable) - durabil  
+duration (time interval) - dura  
+during (while) - a dura de  
 duruka - yam sukar gana  
 dust (powder) - fun  
 dye - rang mate  
@@ -1527,7 +1530,7 @@ fool (buffoon) - bobo
 foot - fute  
 football (soccer) - fute bol  
 footprint - fute marke  
-for a long time - long dur  
+for a long time - long dura  
 for example - to misal  
 forbid (ban, disallow) - fa haram  
 forbidden (illicit, haram, taboo) - haram  
@@ -1663,7 +1666,7 @@ glass - kanca
 glaze (vitrify) - fa kanca dake  
 glazing (enamel) - kanca daka  
 global (concerning the whole world) - pan dunia di  
-global - dunia di  
+global - dunia li  
 globe artichoke - karcof  
 glossy - foto mira di  
 glue (adhesive) - glu  
@@ -2188,7 +2191,7 @@ lapis lazuli - lazur petra
 larva (maggot, caterpillar) - larva  
 lasagna - lazanya  
 last (final) - finme  
-last (take time; during) - be dur  
+last (take time; during) - be dura  
 latch - kane sor  
 later (after) - a pos  
 lateral (horizontal) - late di  
@@ -2262,6 +2265,7 @@ light (requiring little effort, easy, soft, minute, unimportant, etc.) - ligu
 light blue (sky blue, azure) - sama nil  
 lightning bolt - eletro radi  
 like - fa fili  
+like or characteristic of the previous word (-like, -ly, -al) - li  
 lilac - lila  
 lilac color - lila rang  
 lily - susan  
@@ -2309,7 +2313,7 @@ logophile (word buff) - loga fili ja
 logophilia - loga fili  
 London - London  
 long (lengthy) - long  
-long (long-lasting, prolonged) - long dur di  
+long (long-lasting, prolonged) - long dura di  
 long (over a gread distance) - to long  
 long pepper (pipli) - long pipre  
 longitude - ging darja  
@@ -2370,6 +2374,7 @@ magnet - manete
 magnetic - manete di  
 magus (Zoroastrian priest) - zardux magi ja  
 mahjong - majang  
+maid (nanny, ayah) - aya  
 mail (send by mail) - fa posta  
 mail - posta  
 main (principal) - xefe di  
@@ -2848,7 +2853,7 @@ orchid - orkide
 order (arrange) - fa ratibu  
 order (arrangement, sequence) - ratibu  
 order (command) - amir  
-orderly (organized, in sequence, tidy, regular) - ratibu di  
+orderly (organized, in sequence, tidy, regular) - ratibu li  
 ordinary (customary, habitual, normal) - ada di  
 organism (living thing) - bioxe  
 orgasm - orgazme  
@@ -2966,7 +2971,7 @@ pascal (Pa) - paskal
 pass (go across or through, skip) - pas  
 pass (go) - cese  
 pass (passage) - pas dau  
-pass (spend time, put time into) - fa dur  
+pass (spend time, put time into) - fa dura  
 pass away (die; deceased) - decese  
 passive (inactive) - pas tabi  
 passport - pasporte  
@@ -3013,7 +3018,7 @@ perfect (complete) - perfete
 perfect (optimize, refine, polish) - fa pul bon  
 perfect - pul bon  
 perimeter (circumference) - gola longta  
-period (era, epoch, term) - dur zaman  
+period (era, epoch, term) - dura zaman  
 peripheral - kinar di  
 perish (ruin, dishevel, devastate, desolate) - perex fa  
 perished (ruined, devastated, wretched) - perex  
@@ -3320,10 +3325,9 @@ Ramadan - ramazan
 ramp (incline, slope) - rampe  
 random - zar di  
 rank (grade, dan) - dan  
-rare (scarce, uncommon) - nadir  
-rare (uncommon, sparse) - rare  
-rarity - rareta  
-rational (reasonable) - razon di  
+rare (scarce, sparse, uncommon) - nadir  
+rarity - nadirta  
+rational (reasonable) - razon li  
 raw (crude) - gene di  
 raw (crude, fresh) - seng  
 ray (radiation) - radi  
@@ -3378,7 +3382,6 @@ repair (fix, mend) - fa xuli
 repairer - xuli ja  
 repeat (iterate) - fa re  
 repel (drive back) - repele  
-repetition - re  
 report (bring back news, recount, relate) - reporte  
 report (recount, relate) - fa reporte  
 report - reporte  
@@ -3401,6 +3404,7 @@ rest (remainder) - reste
 restaurant - restoran  
 retain (hold back) - retene  
 return (get back) - be retro  
+return (give back) - reda  
 return (put back) - fa retro  
 return (restore, recover, resume) - fuka  
 return (way back) - retro dau  
@@ -3868,7 +3872,7 @@ stop (halt) - be halte
 stop (halt) - fa halte  
 stop (halt) - halte  
 stopper (cap, peg, plug, tap) - tapa  
-stopwatch - dur metre gi  
+stopwatch - dura metre gi  
 store (deposit) - hazin  
 storehouse (depository) - hazinkan  
 storm (tempest, typhoon, hurricane, cyclone) - tufan  

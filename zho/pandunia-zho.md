@@ -3,6 +3,7 @@
 ## A  
 
 a - 在  
+a dura de - 在……期间  
 a kon - 共同 (一起)  
 a lin - 在线  
 a poli mar - 经常  
@@ -106,6 +107,7 @@ auto loga - 独白
 ave - 燕麦  
 axa hin - 没有希望的  
 axe - 轴线  
+aya - 女仆 (阿姨)  
 ayo - 哎哟  
 
 ## B  
@@ -284,6 +286,7 @@ cuti - 出
 
 ## D  
 
+• reda - 退回  
 daxeceke - 礼物卡  
 dai dom - 殿 (宫殿, 宅第)  
 dai hai - 大洋 (大海)  
@@ -356,9 +359,9 @@ dua - 祈祷
 dudu - 昆虫  
 dugu - 读 (看)  
 dunia - 世界  
-dur - 时间  
-durbil - 耐用的  
-dur metre gi - 秒表  
+dura - 时间  
+durabil - 耐用的  
+dura metre gi - 秒表  
 dus - 难  
 dus jen - 敌人  
 dus sin di - 不祥的  
@@ -921,7 +924,7 @@ loka - 地方
 loka nume - 坐标  
 lona - 论  
 long - 长  
-long dur - 久  
+long dura - 久  
 long kata - 小说  
 long pipre - 荜拔  
 long tire - 拉  
@@ -1048,6 +1051,7 @@ muzika - 音乐
 
 na - 拿 (得, 获得)  
 na xiti - 得失  
+nadir - 稀有 (稀少的)  
 nadir mar - 很少  
 najis - 污染物  
 nam - 名  
@@ -1255,10 +1259,8 @@ rakun - 浣熊
 rang arka salmon - 虹鱒  
 rang mate - 染料  
 rapide - 快  
-rare - 稀有 (稀少的)  
 rasa - 种族  
 ratibu - 常规 (次序)  
-resikle - 循环再造  
 Ren - 莱茵河  
 ren yum - 铼  
 reste - 其余  
@@ -1356,6 +1358,7 @@ si - 对
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
 sigar - 香烟  
+resikle - 循环再造  
 sikle ja - 骑自行车的人  
 silis - 硅  
 silke - 丝绸  
@@ -1480,6 +1483,7 @@ uma bici - 马鞭
 umami - 鲜味  
 un - 一 (1)  
 un di - 只有 (惟独, 唯一, 独)  
+undura - 指针式的  
 un mar - 一次 (一遍)  
 unta - 团结 (统一)  
 un ta liga - 合并  
@@ -1542,6 +1546,7 @@ vutu - 物体 (物品)
 ## X  
 
 xah mata - 将死  
+xaki - 怀疑 (疑惑)  
 xalke - 鳞  
 xam - 晚上  
 xanghai - 上海  
@@ -1637,6 +1642,5 @@ zinke - 锌
 zira - 孜然  
 zirkon yum - 锆  
 zoku - 还 (依然)  
-zoku di - 指针式的  
 zuku - 民族  
 zumarde - 绿宝石 (祖母绿)  

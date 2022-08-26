@@ -3,8 +3,10 @@
 ## A  
 
 a - ĉe (en, sur)  
+a dura de - dum  
 a ke - kie  
 a kon - kune  
+a max - ankaŭ  
 a medi - inter  
 a min de - escepte  
 a neu - ĵus  
@@ -205,7 +207,7 @@ be bum - eksplodi
 be cen - antaŭiri  
 be dom - loĝi  
 be duka - lamenti  
-be dur - daŭri (dum)  
+be dura - daŭri (dum)  
 be fin - finiĝi  
 be fobi - timi  
 be gamo - emocii  
@@ -478,17 +480,15 @@ duku di - malĝoja
 duman - fumo  
 dunia - mondo  
 dunia baxa - mondlingvo  
-dunia di - tera  
-dur - daŭro  
+dunia li - tera  
+dura - daŭro  
 dus jen - malamiko  
 dus vide - malbonaspekta  
-dute - dubo  
 dux - duŝo  
 
 ## E  
 
 e - kaj  
-e max - ankaŭ  
 eglisa - preĝejo  
 einstein yum - ejnŝtejnio  
 eko - naturo  
@@ -543,7 +543,7 @@ fa dika - celi
 fa dom - loĝigi  
 fa dua - preĝi  
 fa duka - malĝojigi  
-fa dur - daŭrigi  
+fa dura - daŭrigi  
 fa eskulte - skulti  
 fa fantazi - fantaci  
 fa fei - flugi  
@@ -1125,10 +1125,10 @@ kon sabe - informacio
 kon sana sim - komunismo  
 kon sana sim ja - komunisto  
 kon su - kuna  
+kontra - kontraŭi  
 konun - komuna  
 kone - konuso  
 konserte - koncerto  
-kontra - kontraŭi  
 koperni yum - kopernicio  
 kopi - kopio  
 koral - koralo  
@@ -1628,8 +1628,6 @@ rasa - raco
 rasa medi - interrasa  
 rasa sim - racismo  
 rasa sim ja - racisto  
-re - ripetado  
-resikle - recikligi  
 redi - preta  
 Ren - Rejno  
 ren yum - renio  
@@ -1638,6 +1636,7 @@ restoran - restaŭracio
 retro dau - reiro  
 rezerve - rezervo  
 rezin - rezino  
+ri - denove (ripete)  
 risko - risko  
 risko di - riska  
 riti - metodo  
@@ -1755,6 +1754,7 @@ si - esti
 siborge yum - seborgio  
 sifa loga - adjektivo  
 sigar - cigaredo  
+resikle - recikligi  
 sikle ja - biciklisto  
 silis - silicio  
 silke - silko  
@@ -1981,6 +1981,7 @@ xa - –os
 xah geme - ŝako  
 xah mata - ŝakmato  
 xaka - branĉo  
+xaki - dubo  
 xal - koltuko  
 xam - vespero  
 xam dia - posttagmeze  

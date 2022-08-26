@@ -3,17 +3,20 @@
 ## A  
 
 a - en (a)  
+a dura de - durante  
 a jong - centrarse (en el centro de)  
 a ke - dónde  
 a kon - juntos  
 a late - estar al lado de  
 a lin - en línea  
+a max - además  
 a medi - entre  
 a min de - excepto (menos)  
 a neu - ahora mismo (justo)  
 a nice - debajo  
 a poli mar - frecuentemente  
 a pos - más tarde  
+a re - al revés  
 a ri - otra vez (de nuevo)  
 a sabu de - porque  
 a supra - sobre  
@@ -327,7 +330,7 @@ be dai - crecer (aumentar, hincharse)
 be dara - fluir  
 be dom - vivir (residir)  
 be duka - llorar  
-be dur - durar (durante, llevar tiempo)  
+be dura - durar (durante, llevar tiempo)  
 be estasi - pararse (detenerse)  
 be fatige - cansarse (fatigar)  
 be fen - partir (dividirse)  
@@ -785,12 +788,13 @@ duman - humo
 duna - duna  
 dunia - mundo  
 dunia baxa - lengua mundial  
-dunia di - global (mundial)  
-dur - duración  
-durbil - durable  
-dur di - crónico  
-dur metre gi - cronómetro  
-dur zaman - era (periodo, época)  
+dunia li - global (mundial)  
+dura - duración  
+• redura - continuar (reanudar)  
+durabil - durable  
+dura di - crónico  
+dura metre gi - cronómetro  
+dura zaman - era (periodo, época)  
 dus - malo (difícil, duro)  
 dus darja - degradar  
 dus hal - dificultad (apuro, privación)  
@@ -799,14 +803,12 @@ dus nam - insulto (ofensa)
 dus sin di - ominoso (amenazador)  
 dus vide - feo  
 dus zar - infortunio (mala suerte)  
-dute - duda  
 • posprodute - posproducción  
 dux - ducha  
 
 ## E  
 
 e - y  
-e max - además  
 eglisa - iglesia  
 einstein yum - einsteinium  
 Eire - Irlanda  
@@ -912,7 +914,7 @@ fa dosil - domar (amansar)
 fa dosil gene - domesticar (cultivate)  
 fa dua - rezar (orar)  
 fa duka - entristecer (poner triste)  
-fa dur - pasar (transcurrir)  
+fa dura - pasar (transcurrir)  
 fa dus forma - desfigurar  
 fa dus nam - insultar (ofender)  
 fa englix kitabu - anglicanizar  
@@ -2032,13 +2034,13 @@ kon sabe - información
 kon sana sim - comunismo  
 kon sana sim ja - comunista  
 kon sel ja - consultor  
+kontra - estar en contra  
 kon trati - convenion (pacto)  
 konun - común (comunitario)  
 Konakri Ginia - Guinea  
 kone - cono  
 Konkani - konkani  
 konserte - concierto  
-kontra - estar en contra  
 koperni yum - copérnico  
 kopi - copia (réplica)  
 kopi haki - derechos de autor (copyright)  
@@ -2242,7 +2244,7 @@ loka di - local
 loka nume - coordenadas  
 lona - discusión (debate, discurso)  
 long - largo  
-long dur di - perdurable (longevo, prolongado)  
+long dura di - perdurable (longevo, prolongado)  
 long kata - novela (romance)  
 long krokodil - cocodrilo  
 longta - largo (longitud)  
@@ -3083,19 +3085,15 @@ rang mate - tinte
 rapide - rápido  
 rapide metre gi - velocímetro  
 rapideta - rapidez (velocidad)  
-rare - raro  
 rasa - raza  
 rasa medi - interracial  
 rasa sim - racismo  
 rasa sim ja - racista  
 raste - crecemiento  
 ratibu - orden  
-ratibu di - ordenado (regular)  
+ratibu li - ordenado (regular)  
 razon - razón  
-razon di - razonable  
-re - repetición  
-resikle - reciclar  
-re zoku - continuar (reanudar)  
+razon li - razonable  
 rebel - rebelión (sublevación)  
 redi - listo (preparado)  
 Ren - Rin  
@@ -3106,7 +3104,6 @@ reseta - instrucciones (receta)
 reside - reconocimiento (recibo)  
 reste - resto (demás)  
 restoran - restaurante  
-retro - al revés  
 retro dau - vuelta  
 retro gula - devolver (vomitar)  
 retro gula sense - náusea  
@@ -3115,6 +3112,7 @@ retro tikete - billete de ida y vuelta
 Reunion - Reunión  
 rezerve - réservation  
 rezin - resina  
+ri - otra vez (de nuevo)  
 rikarga - recargar  
 rike - rico  
 rim - rima  
@@ -3349,6 +3347,7 @@ sigar - cigarro (cigarillo)
 siki din - sijismo  
 siki din ja - sij  
 sikle - bicicleta  
+resikle - reciclar  
 sikle ja - ciclista  
 silis - silicio  
 silke - seda  
@@ -3675,6 +3674,7 @@ umami - sabroso (umami)
 un - uno (1)  
 un deu sim - monoteismo  
 un di - único (únicamente, solo)  
+undura - continuo (analógico)  
 un mar - una vez  
 un me - primero (numbre uno)  
 un rang di - monocromático  
@@ -3824,6 +3824,7 @@ xah geme - ajedrez
 xah mata - jaque mate  
 xaka - rama  
 xakal - chacal  
+xaki - duda  
 xal - bufanda (chal)  
 xalke - escama  
 xam - noche (tarde)  
@@ -4000,7 +4001,6 @@ zirkon - circón
 zirkon yum - circonio  
 zizi - chisporrotear  
 zoku - todavía (aún)  
-zoku di - continuo (analógico)  
 zombi - zombi  
 zona - cinturón (zona)  
 zukam - resfriado (catarro)  

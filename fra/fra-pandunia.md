@@ -267,6 +267,7 @@ bohrium - bor yum
 bombe - bomba  
 bon - bon  
 bonbon - kandi  
+bonne (domestique) - aya  
 bord - kinar  
 boron - boron  
 botanique - fitologi  
@@ -421,8 +422,8 @@ chocolat - coklate
 chose - xe  
 Christ (messie) - mesi  
 chrome - krom yum  
-chronique - dur di  
-chronomètre - dur metre gi  
+chronique - dura di  
+chronomètre - dura metre gi  
 chu - pada di  
 chut - tix  
 chèque - ceke  
@@ -476,7 +477,7 @@ consultant (conseiller) - kon sel ja
 conte de fées - pari kata  
 conteneur - in tene gi  
 conteneur - kontener  
-continu (analogique) - zoku di  
+continu (analogique) - undura  
 continuer (poursuivre, encore) - zoku  
 contract (traité) - trati  
 contract (traité) - kontrati  
@@ -598,6 +599,7 @@ données - data
 dormir - be sona  
 double - duple  
 douche - dux  
+doute - xaki  
 drapeau - bandera  
 drogue (narcotique, dope) - narko  
 droit (rectiligne) - orto  
@@ -606,8 +608,9 @@ droits de l'homme - insan haki
 dubnium - dubna yum  
 dune - duna  
 dur - gati  
-durer - be dur  
-durée - dur  
+durant - a dura de  
+durer - be dura  
+durée - dura  
 dynamite - dinamite  
 dysprosium - disprosi yum  
 dé - zar kube  
@@ -638,7 +641,7 @@ elfe - elfe
 empreinte de pied - fute marke  
 empreinte digitale - angul marke  
 empruntre - jeka na  
-en arrière - retro  
+en arrière - a re  
 en avant - to jin  
 en ligne - a lin  
 enclume - metal bede  
@@ -1014,7 +1017,7 @@ local - loka di
 loin (hors, parti) - for  
 loin - to long  
 long - long  
-longtemps - long dur  
+longtemps - long dura  
 loquace - loga tabi di  
 loquet - kane sor  
 louche (cuillère à pot) - pote camaca  
@@ -1310,7 +1313,7 @@ part - fen
 partenaire - parti jen  
 passe (passage) - pas dau  
 passeport - pasporte  
-passer - fa dur  
+passer - fa dura  
 passer - pas  
 pastèque - arbuza  
 paternel - pa di  
@@ -1457,7 +1460,7 @@ projection - lanse grafi
 projet - projete  
 projeter (donner) - fa lanse grafi  
 projeter (image projection) - jete grafi  
-prolongé - long dur di  
+prolongé - long dura di  
 promettre - fa vode  
 prométhium - promete yum  
 Prométhée - Promete  
@@ -1510,7 +1513,6 @@ radon - radon
 raki - anis araki  
 rang - dan  
 rare - nadir  
-rare - rare  
 rarement - nadir mar  
 raton laveur - rakun  
 rayon de miel - medu fong nide  
@@ -1527,7 +1529,7 @@ renard - huli
 reporter (rapporteur) - reporter  
 repos - xanti  
 repport (reportage) - reporte  
-reprendre - re zoku  
+reprendre - redura  
 requin - xayu  
 reste - reste  
 retourner (revenir) - be retro  
@@ -1575,7 +1577,6 @@ réparer - fa xuli
 réponse - javabu  
 répéter - fa re  
 répéter - rifete  
-répétition - re  
 réussir (avoir du succès, prospérer) - sucese  
 rêche (rugueux, gros) - karse  
 rôtir - roste  

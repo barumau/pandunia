@@ -14,6 +14,7 @@ a neu - właśnie, dopiero co, ostatnio, niedawno
 a nice - pod (poniżej)  
 a poli mar - często  
 a pos - później (w przyszłości)  
+a re - wstecz  
 a ri - znowu (ponownie)  
 a sabu de - ponieważ, bo  
 a supra - nad  
@@ -294,7 +295,7 @@ be dai - urosnąć, rosnąć, wzrosnąć, wzrastać
 be dara - latać (fruwać)  
 be dom - mieszkać  
 be duka - martwić  
-be dur - trwać, zająć czas; przez  
+be dura - trwać, zająć czas; przez  
 be estasi - nie ruszać się  
 be fatige - męczyć się (nużyć się)  
 be fen - pęknąć (rozpaść się)  
@@ -715,19 +716,18 @@ duku di - smutny
 duman - dym  
 dunia - świat  
 dunia baxa - język świata, język ogólnoświatowy  
-dunia di - globalny  
-dur - trwanie  
-durbil - trwały (wytrzymały, podtrzymywalny)  
-dur di - chroniczny  
-dur metre gi - stoper (sekundomierz)  
-dur zaman - czas (epoka, era)  
+dunia li - globalny  
+dura - trwanie  
+durabil - trwały (wytrzymały, podtrzymywalny)  
+dura di - chroniczny  
+dura metre gi - stoper (sekundomierz)  
+dura zaman - czas (epoka, era)  
 dus darja - dezaktualizować (pogorszyć)  
 dus hal - trudność (trud)  
 dus nam - obraza (obelga)  
 dus sin di - złowieszczy  
 dus vide - brzydki  
 dus zar - zły los  
-dute - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 dutebil - wątpliwy (niewiarygodny, podejrzany)  
 dute ja - niepewny (podejrzliwy, niedowierzący)  
 dux - prysznic  
@@ -832,7 +832,7 @@ fa dosil - oswoić (oswajać, tresować, trenować)
 fa dosil gene - udomowić (kultywować)  
 fa dua - pomodlić się, modlić się  
 fa duka - zasmucić (zasmucać)  
-fa dur - minąć, mijać (czas)  
+fa dura - minąć, mijać (czas)  
 fa dus nam - obrazić  
 fa englix kitabu - anglizować (zanglizować)  
 fa eskale - wspinać się (wspiąć się)  
@@ -1852,13 +1852,13 @@ kon sabe - informacja
 kon sana sim - komunizm  
 kon sana sim ja - komunista  
 kon su - wspólny (wzajemny)  
+kontra - być przeciw  
 kon trati - pakt (kontrakt, ugoda, umowa, konwencja)  
 konun - wspólny  
 Konakri Ginia - Gwinea  
 kone - szyszka  
 Konkani - konkani  
 konserte - koncert  
-kontra - być przeciw  
 koperni yum - kopernik  
 kopi - kopia, replika  
 kopi haki - prawa autorskie  
@@ -2370,6 +2370,7 @@ na ja - odbiorca
 nabi - proroctwo  
 nabi ja - prorok  
 nadir mar - rzadko  
+nadirta - rzadkość  
 nafas - oddech  
 nagar - miasto  
 nagar di - miejski  
@@ -2845,8 +2846,6 @@ rang mate - barwnik
 rapide - szybki, prędki  
 rapide metre gi - prędkościomierz  
 rapideta - prędkość (szybkość)  
-rare - rzadki (nieczęsty)  
-rareta - rzadkość  
 rasa - rasa  
 rasa medi - międzyrasowy  
 rasa sim - rasizm  
@@ -2854,9 +2853,7 @@ rasa sim ja - rasista
 raste - wzrost  
 ratibu - porządek  
 razon - rozum, rozsądek  
-razon di - racjonalny, rozsądny  
-re - powtarzanie, powtórka  
-resikle - przetwarzać  
+razon li - racjonalny, rozsądny  
 rebel - rebelia, powstanie  
 redi - gotowy  
 Ren - Ren  
@@ -2867,7 +2864,6 @@ reseta - recepta, receptura, przepis
 reside - paragon, pokwitowanie  
 reste - pozostałość, reszta  
 restoran - restauracja  
-retro - wstecz  
 retro dau - powrót  
 retro gula - wymiotować (zwrócić)  
 retro gula sense - nudności (choroba lokomocyjna)  
@@ -2875,6 +2871,7 @@ retro tikete - bilet powrotny
 Reunion - Reunion  
 rezerve - rezerwacja  
 rezin - żywica  
+ri - znowu (ponownie)  
 rike - bogaty  
 riketa - bogactwo (fortuna, majątek)  
 rim - rym (wers)  
@@ -3103,6 +3100,7 @@ sigar - papieros (cygar)
 siki din - sikhizm  
 siki din ja - sikh  
 sikle - rower  
+resikle - przetwarzać  
 sikle ja - rowerzysta  
 silis - krzem  
 silke - jedwab  
@@ -3392,6 +3390,7 @@ umami - mięsny (umami)
 un - jeden (1)  
 un deu sim - monoteizm  
 un di - tylko (jedyny, wyłączny)  
+undura - ciągły (analogowy)  
 un mar - raz (jeden raz)  
 un me - pierwszy, numer jeden  
 un rang di - jednokolorowy (monochromatyczny)  
@@ -3520,6 +3519,7 @@ vutu - przedmiot (obiekt)
 xah geme - szachy  
 xaka - gałąź, konar  
 xakal - szakal  
+xaki - wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność  
 xal - szal, szalik  
 xalke - szala   
 xam - wieczór  
@@ -3689,7 +3689,6 @@ zira - kumin, kmin
 zirkon yum - cyrkon  
 zizi - skwierczeć  
 zoku - wciąż, nadal; kontynuować, wznawiać, ponawiać  
-zoku di - ciągły (analogowy)  
 zombi - zombie, zombi  
 zona - pas, strefa  
 zukam - przeziębienie, katar  

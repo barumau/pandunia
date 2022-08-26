@@ -78,7 +78,8 @@
 **axa** *esperar (desear)* ← hin:आशा (āśā), may:tgl:asa, tel:ఆశ (āśa), tam:ஆசை (āsai)  
 **axe** *eje* ← eng:axis, fra:axe, hin:अक्ष (akṣ), tur:eksen  
 **Axur dexa** *Asiria* ← akk:(aššur), ara:(aššur), hin:अश्शूर (aśśūr), fas:(āšūr), eng:Assyria, fra:Assyrie, spa:Asiria, por:Assíria, rus:Ассирия (Assiriya), zho:亚述 (Yàshù)  
-**ayo** *ay!* ← fra:aïe, spa:ay, por:ai, rus:ай (ay), zho:哎哟 (āiyō), kor:아야 (aya), tel:అయ్యో (ayyō), tam:ஐயோ (aiyō)  
+**aya** ** ← por:aia, hin:आया (āyā), tel:ఆయా (āyā) + zho:阿姨 (āyí)  
+**ayo** *ay!* ← fra:aïe, spa:ay, por:ai, rus:ай (ay), fas: آی‎ (ây), zho:哎哟 (āiyō), kor:아야 (aya), tel:అయ్యో (ayyō), tam:ஐயோ (aiyō)  
 **babu** *capítulo (sección)* ← ara:fas:urd: بَاب‎ (bāb), may:bab, swa:babu  
 **babuce** *chinelo (pantufa)* ← ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche  
 **babul** ** ← hin:बबूल (babūl), ben:বাবলা (bābalā), eng:babul  
@@ -315,9 +316,8 @@
 **duman** *humo* ← hin:धूआँ (dhuã), tur:duman, rus:дым (dym), kan:(dhūma), ben:ধোঁয়া (dhõẇa)  
 **duna** *duna* ← eng:fra:dune, spa:por:duna, rus:дюна (diuna) + vie:đụn, kor:둔(덕) (dun(deok))  
 **dunia** *mundo* ← ara: دُنْيَا‎ (dunyā), hin:दुनिया (duniyā), ben:দুনিয়া (duniya), may:swa:dunia, tur:dünya, fas: دنیا (donya), urd: دنیا (duniyā), hau:duniya  
-**dur** *duración* ← eng:duration, fra:durée, spa:por:durar + ben:ধরে (dhôre), hin:दौरान (daurān)  
+**dura** *duración* ← eng:duration, fra:durée, spa:por:durar + ara: دَوْرَة (dawra), fas: دُوره (dowre), ben:ধরে (dhôre), hin:दौरान (daurān)  
 **dus** *malo (difícil, duro)* ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
-**dute** *duda* ← fra:doute, eng:doubt, spa:tgl:duda  
 **dux** *ducha* ← fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş  
 **e** *y* ← fra:et, por:e, spa:y;e, zho:和 (hé)  
 **eglisa** *iglesia* ← eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise  
@@ -844,6 +844,7 @@
 **letre** *carta* ← eng:letter, fra:lettre, hin:लेटर (leṭar), jpn:ター (retā)  
 **letus** *lechuga* ← eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue  
 **leu** *izquierdo* ← ltn:laevus, eng:left; levo-, fra:lévo-, spa:por:levo-, rus:левый (levyy), pol:lewy  
+**li** ** ← eng:-al; -ly, spa:por:-al + tur:-li; -lı; -lu; -lü  
 **liama** *llama* ← eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)  
 **libele** *libélula* ← spa:por:libélula, fra:libellule, deu:Libelle  
 **lici** *lichi* ← zho:荔枝 (lìzhī), hin:लीची (līcī), eng:lychee, rus:личи (liči), may:leci, vie:lệ chi  
@@ -1230,10 +1231,9 @@
 **rande** *garlopa* ← tur:rende, bul:ренде (rende), ron:rindea, hin:रंदा, (randâ), fas:(rande), swa:(randa)  
 **rang** *color (colorido)* ← ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk  
 **rapide** *rápido* ← spa:por:rápido, eng:rapid, fra:rapide  
-**rare** *raro* ← eng:fra:rare, spa:por:raro, jpn:レア (rea)  
 **rasa** *raza* ← eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras  
 **razon** *razón* ← eng:reason, spa:razón, por:razão, fra:raison rus:разум (razum)  
-**re** *repetición* ← eng:fra:por:spa:re-, rus:ре- (re-)  
+**re** ** ← eng:fra:spa:por:re-, rus:ретро- (retro-), jpn:レトロ (retoro) + ara: رَدَّ (radda)  
 **rebel** *rebelión (sublevación)* ← eng:rebel, spa:por:rebelde fra:rebelle  
 **redi** *listo (preparado)* ← eng:ready, deu:bereit, fra:prêt, mao:reri  
 **ren yum** *renio* ← eng:rhenium, fra:rhénium, spa:renio, por:rénio, rus:рений, zho:铼 (lái), jpn:レニウム, kor:레늄, vie:reni, hin:रेनियम, ben:রেনিয়াম, may:renium, swa:reni, ara: رنيوم  
@@ -1243,9 +1243,9 @@
 **reside** *reconocimiento (recibo)* ← fas:(resid), hin:रसीद (rasīd), urd:(rasīd), guj:રસીદ (rasīd), tel:రసీదు (rasīdu), + eng:receipt, swa:resiti, may:resit  
 **reste** *resto (demás)* ← fra:reste, eng:deu:Rest, pol:reszta, spa:por:resto  
 **restoran** *restaurante* ← eng:fra:restaurant, spa:por:restaurante, rus:ресторан (restoran), tur:may:restoran, hin:रेस्तरां (restarā̃), ben:রেস্টুরেন্ট (reśṭurenṭ), jpn:レストラン (resutoran)  
-**retro** *al revés* ← eng:spa:por:retro-, fra:rétro-, rus:ретро- (retro-), jpn:レトロ (retoro)  
 **rezerve** *réservation* ← eng:reservation, fra:réservation, por:spa:reserva, tur:rezerve, rus:резервирование (rezervirovaniye)  
 **rezin** *resina* ← eng:resin, fra:résine, fas:(rezin), por:spa:resina, tur:reçine  
+**ri** *otra vez (de nuevo)* ← eng:fra:por:spa:re-, ita:ri-, rus:ре- (re-)  
 **rike** *rico* ← deu:reich, eng:rich, fra:riche, por:spa:rico  
 **rim** *rima* ← spa:por:rima, fra:rime, eng:rhyme, pol:rym, deu:Reim  
 **ring** *anillo* ← eng:fra:spa:may:ring, por:ringue, rus:ринг (ring), hin:रिंग (rĩg), jpn:リング (ringu), kor:링 (ring)  
@@ -1547,8 +1547,9 @@
 **vulva** *vulva* ← fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)  
 **vutu** *objeto (artículo)* ← zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)  
 **xa** ** ← eng:shall + ara:(sa-) + vie:sẽ + sve:ska  
-**xaka** *rama* ← ben:শাখা (śakha), hin:शाखा (śākhā), urd:(śāx), fas:(šax)  
+**xaka** *rama* ← fas: شاخه (šâxe), hin:शाखा (śākhā), ben:শাখা (śakha), tam:சாகை (sākai), tel:శాఖ (śākha), khm:សាខា (saakhaa), tha:สาขา (sǎa-kǎa)  
 **xakal** *chacal* ← fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)  
+**xaki** *duda* ← ara: شَكَّ‎ (šakka), fas: شک‎ (šak), hin:शक (śak); शंका (śankā), may:syak, tur:şek, swa:shaka; -shuku, hau:shakka  
 **xal** *bufanda (chal)* ← fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal  
 **xalke** *escama* ← eng:scale, fra:échelle, hin:शल्क (shalka)  
 **xam** *noche (tarde)* ← hin:शाम (śām), ben:শাম (śam), tur:akşam  

@@ -66,7 +66,7 @@ amor - ama
 amoreira - tuta  
 amêndoa - badam  
 anaeróbico - anair bio di  
-analógico - zoku di  
+analógico - undura  
 anchova - ancovi  
 andesito - andesite  
 anel - ring  
@@ -413,12 +413,12 @@ croassã - kruasan
 crocodiliano - krokodil  
 crocodilo - long krokodil  
 cromo - jami karte  
-cronómetro - dur metre gi  
+cronómetro - dura metre gi  
 cru - seng  
 cruz - krus  
 crème - krem  
 crómo - krom yum  
-crónico - dur di  
+crónico - dura di  
 cubo - kube  
 cuco - kuku  
 cultivar - agri  
@@ -503,11 +503,13 @@ dormir - be sona
 droga (narcótico) - narko  
 ducha - dux  
 duna (бархан) - duna  
-durar - be dur  
-duração - dur  
+durante - a dura de  
+durar - be dura  
+duração - dura  
 duro - gati  
 dígito - nume zi  
 dúbnio - dubna yum  
+dúvida - xaki  
 
 ## E  
 
@@ -1237,7 +1239,7 @@ ponta (pico, bico) - pike
 ponta do dedo - angul pike  
 ponte - kio  
 por exemplo - to misal  
-por muito tempo - long dur  
+por muito tempo - long dura  
 porcelana - cini  
 portar - porte  
 porto - porte  
@@ -1280,7 +1282,7 @@ projeto - projete
 projeção - jete grafi  
 projeção - lanse grafi  
 projétil - lanse xe  
-prolongado - long dur di  
+prolongado - long dura di  
 promessa (voto) - vode  
 Prometeu - Promete  
 promécio - promete yum  
@@ -1341,7 +1343,6 @@ rajá - hindi raja
 raposa - huli  
 raramente - nadir mar  
 raro - nadir  
-raro - rare  
 rasgar - cira  
 rato - muxu  
 raça - rasa  
@@ -1370,7 +1371,6 @@ reparar - fa xuli
 reparo - xuli  
 repetir - fa re  
 repetir - rifete  
-repetição - re  
 repórter - reporter  
 reserva - rezerve  
 resposta - javabu  

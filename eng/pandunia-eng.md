@@ -39,17 +39,20 @@ The sentence **mi fa hure yamen** would mean the same thing but it would include
 ## A  
 
 a - by (at, in, on)  
+a dura de - during (while)  
 a jong - to be centered (amid, in the middle)  
 a ke - where  
 a kon - together (jointly, mutually)  
 a late - be beside (accompany)  
 a lin - online  
+a max - also (too, in addition)  
 a medi - among (amid, between)  
 a min de - except (minus)  
 a neu - just (recently)  
 a nice - under  
 a poli mar - often (frequently)  
 a pos - later (after)  
+a re - backward (in reverse)  
 a ri - again (repeatedly)  
 a sabu de - because  
 a supra - above (over)  
@@ -267,6 +270,7 @@ axa hin - hopeless
 axe - axis (axle)  
 Axur - Assur  
 Axur dexa - Assyria  
+aya - maid (nanny, ayah)  
 ayo - ouch (expressing pain, distress, shock and fear)  
 Azerbaijan - Azerbaijan  
 
@@ -394,7 +398,7 @@ be dai - grow (get bigger, inflate, swell)
 be dara - flow  
 be dom - live in (reside in, inhabit)  
 be duka - grieve  
-be dur - last (take time; during)  
+be dura - last (take time; during)  
 be estasi - stand still  
 be fatige - get tired (become weary)  
 be fen - split (fall apart, divide, separate)  
@@ -721,6 +725,7 @@ cuti mun - exit door
 ## D  
 
 da - give  
+• reda - return (give back)  
 databi - generous (open-handed)  
 daxe - gift  
 daxeceke - gift certificate (gift card)  
@@ -926,12 +931,13 @@ duman - smoke
 duna - dune  
 dunia - world  
 dunia baxa - world language  
-dunia di - global  
-dur - duration (time interval)  
-durbil - durable (endurable, sustainable)  
-dur di - chronic (lasting)  
-dur metre gi - stopwatch  
-dur zaman - period (era, epoch, term)  
+dunia li - global  
+dura - duration (time interval)  
+• redura - continue (resume)  
+durabil - durable (endurable, sustainable)  
+dura di - chronic (lasting)  
+dura metre gi - stopwatch  
+dura zaman - period (era, epoch, term)  
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
 dus darja - downgrade  
 dus deu sim - dystheism (maltheism)  
@@ -944,7 +950,6 @@ dus sin di - ominous (foreboding)
 dus topia - dystopia  
 dus vide - ugly (unsightly)  
 dus zar - misfortune (bad luck)  
-dute - doubt (disbelief)  
 dute - lead (bring to)  
 • dedute - deduce (lead from)  
 • dedution - deduction  
@@ -962,7 +967,6 @@ dux - shower
 ## E  
 
 e - and  
-e max - also (too)  
 eglisa - church  
 einstein yum - einsteinium  
 Eire - Ireland  
@@ -1080,7 +1084,7 @@ fa dosil - tame (train)
 fa dosil gene - domesticate (cultivate)  
 fa dua - pray (beg, entreat, implore)  
 fa duka - sadden (make sad)  
-fa dur - pass (spend time, put time into)  
+fa dura - pass (spend time, put time into)  
 fa dus forma - disfigure  
 fa dus nam - insult (offend, call names)  
 fa englix kitabu - anglicize  
@@ -2350,13 +2354,13 @@ kon sana sim ja - communist
 kon sel - give consultation  
 kon sel ja - counselor (consultant)  
 kon su - common (mutual)  
+kontra - go against  
 kon trati - pact (contract, covenant, alliance)  
 konun - common (shared)  
 Konakri Ginia - Guinea  
 kone - cone  
 Konkani - Konkani  
 konserte - concert  
-kontra - go against  
 koperni yum - copernicium  
 kopi - copy (duplicate, replica)  
 kopi haki - copyright  
@@ -2516,6 +2520,7 @@ leu - left
 leu di - left hand  
 leu sim ja - leftist (left-winger)  
 lexima - word (lexeme)  
+li - like or characteristic of the previous word (-like, -ly, -al)  
 liama - llama  
 Libanen - Lebanon  
 libele - dragonfly  
@@ -2587,8 +2592,8 @@ loka nume - coordinates
 lona - discussion (debate, discourse)  
 London - London  
 long - long (lengthy)  
-long dur - for a long time  
-long dur di - long (long-lasting, prolonged)  
+long dura - for a long time  
+long dura di - long (long-lasting, prolonged)  
 long kata - novel  
 long krokodil - crocodile  
 long pipre - long pepper (pipli)  
@@ -2940,8 +2945,9 @@ na ja - getter (receiver, recipient)
 na xiti - gains and losses (pros and cons)  
 nabi - prophecy  
 nabi ja - prophet  
-nadir - rare (scarce, uncommon)  
+nadir - rare (scarce, sparse, uncommon)  
 nadir mar - seldom (rarely)  
+nadirta - rarity  
 nafas - breath  
 nagar - town  
 nagar di - urban  
@@ -3520,20 +3526,16 @@ rang mate - dye
 rapide - fast (quick, rapid, speedy)  
 rapide metre gi - speedometer  
 rapideta - speed (velocity)  
-rare - rare (uncommon, sparse)  
-rareta - rarity  
 rasa - race (breed)  
 rasa medi - interracial  
 rasa sim - racism  
 rasa sim ja - racist  
 raste - growth  
 ratibu - order (arrangement, sequence)  
-ratibu di - orderly (organized, in sequence, tidy, regular)  
+ratibu li - orderly (organized, in sequence, tidy, regular)  
 razon - reason (rational thinking)  
-razon di - rational (reasonable)  
-re - repetition  
-resikle - recycle  
-re zoku - continue (resume)  
+razon li - rational (reasonable)  
+re - back (return it to previous place)  
 Rea - Rhea  
 rebel - rebellion  
 redi - ready (prepared)  
@@ -3545,7 +3547,6 @@ reseta - instructions (recipe)
 reside - receipt (acknowledgement)  
 reste - rest (remainder)  
 restoran - restaurant  
-retro - backward (in reverse)  
 retro dau - return (way back)  
 retro gula - throw up (vomit, regurgitate)  
 retro gula sense - nausea (motion sickness)  
@@ -3554,6 +3555,7 @@ retro tikete - return ticket
 Reunion - Réunion  
 rezerve - reservation (booking, withholding)  
 rezin - resin  
+ri - again (repeatedly)  
 rikarga - recharge (reload)  
 rike - rich  
 riketa - wealth (fortune)  
@@ -3812,6 +3814,7 @@ sigar - cigarette (cigar)
 siki din - Sikhism  
 siki din ja - Sikh  
 sikle - bike (cycle)  
+resikle - recycle  
 sikle ja - cyclist  
 silis - silicon  
 silke - silk  
@@ -4183,6 +4186,8 @@ Umbriel - Umbriel
 un - one (1)  
 un deu sim - monotheism  
 un di - only (single, sole, lone, just)  
+undura - continuous (analog)  
+undurali hor loga gi - analog clock  
 un mar - once (one time)  
 un me - first (number one)  
 un rang di - monochrome  
@@ -4365,8 +4370,9 @@ vutu - object (item, thing)
 xa - auxiliary verb that marks future tense (will, shall)  
 xah geme - chess  
 xah mata - checkmate  
-xaka - branch (bough)  
+xaka - branch (bough, limb, arm)  
 xakal - jackal  
+xaki - doubt (suspect; suspicion)  
 xal - scarf (shawl)  
 xalke - scale (flake)  
 xam - evening  
@@ -4568,8 +4574,6 @@ zirkon - zircon
 zirkon yum - zirconium  
 zizi - sizzle  
 zoku - continue (go on, keep on, carry on, proceed, still, yet)  
-zoku di - continuous (analog)  
-zoku hor loga gi - analog clock  
 zombi - zombie  
 zona - belt (zone)  
 zukam - cold (illness)  

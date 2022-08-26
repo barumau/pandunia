@@ -78,7 +78,8 @@
 **axa** *esperi* ← hindia:आशा (āśā), malaja:filipina:asa, teluga:ఆశ (āśa), tamila:ஆசை (āsai)  
 **axe** *akso* ← angla:axis, franca:axe, hindia:अक्ष (akṣ), turka:eksen  
 **Axur dexa** ** ← akk:(aššur), araba:(aššur), hindia:अश्शूर (aśśūr), persa:(āšūr), angla:Assyria, franca:Assyrie, hispana:Asiria, portugala:Assíria, rusa:Ассирия (Assiriya), mandarena:亚述 (Yàshù)  
-**ayo** *aj (alas)* ← franca:aïe, hispana:ay, portugala:ai, rusa:ай (ay), mandarena:哎哟 (āiyō), korea:아야 (aya), teluga:అయ్యో (ayyō), tamila:ஐயோ (aiyō)  
+**aya** ** ← portugala:aia, hindia:आया (āyā), teluga:ఆయా (āyā) + mandarena:阿姨 (āyí)  
+**ayo** *aj (alas)* ← franca:aïe, hispana:ay, portugala:ai, rusa:ай (ay), persa: آی‎ (ây), mandarena:哎哟 (āiyō), korea:아야 (aya), teluga:అయ్యో (ayyō), tamila:ஐயோ (aiyō)  
 **babu** *ĉapitro* ← araba:persa:urdua: بَاب‎ (bāb), malaja:bab, svahila:babu  
 **babuce** *pantoflo* ← araba: بَابُوج‎ (bābūj), hispana:babucha, franca:babouche, angla:babouche  
 **babul** ** ← hindia:बबूल (babūl), bengala:বাবলা (bābalā), angla:babul  
@@ -315,9 +316,8 @@
 **duman** *fumo* ← hindia:धूआँ (dhuã), turka:duman, rusa:дым (dym), kanara:(dhūma), bengala:ধোঁয়া (dhõẇa)  
 **duna** ** ← angla:franca:dune, hispana:portugala:duna, rusa:дюна (diuna) + vjetnama:đụn, korea:둔(덕) (dun(deok))  
 **dunia** *mondo* ← araba: دُنْيَا‎ (dunyā), hindia:दुनिया (duniyā), bengala:দুনিয়া (duniya), malaja:svahila:dunia, turka:dünya, persa: دنیا (donya), urdua: دنیا (duniyā), haŭsa:duniya  
-**dur** *daŭro* ← angla:duration, franca:durée, hispana:portugala:durar + bengala:ধরে (dhôre), hindia:दौरान (daurān)  
+**dura** *daŭro* ← angla:duration, franca:durée, hispana:portugala:durar + araba: دَوْرَة (dawra), persa: دُوره (dowre), bengala:ধরে (dhôre), hindia:दौरान (daurān)  
 **dus** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
-**dute** *dubo* ← franca:doute, angla:doubt, hispana:filipina:duda  
 **dux** *duŝo* ← franca:douche, hispana:portugala:ducha, deu:Dusche, rusa:душ (duš), araba: دوش (dūš), malaja:dus, turka:duş  
 **e** *kaj* ← franca:et, portugala:e, hispana:y;e, mandarena:和 (hé)  
 **eglisa** *preĝejo* ← angla:ecclesia-, franca:église, hispana:iglesia, portugala:igreja, hindia:गिरजा (girjā), malaja:gereja, araba:(kanisā), svahila:kanisa, turka:kilise  
@@ -844,6 +844,7 @@
 **letre** *letero* ← angla:letter, franca:lettre, hindia:लेटर (leṭar), japana:ター (retā)  
 **letus** *laktuko* ← angla:lettuce, japana:レタス (retasu), haŭsa:latas, hindia:लेटिष (leṭiṣ), bengala:লেটুস (leṭus), franca:laitue  
 **leu** ** ← latina:laevus, angla:left; levo-, franca:lévo-, hispana:portugala:levo-, rusa:левый (levyy), polona:lewy  
+**li** ** ← angla:-al; -ly, hispana:portugala:-al + turka:-li; -lı; -lu; -lü  
 **liama** ** ← angla:hispana:malaja:llama, portugala:lhama, rusa:лама (lama), turka:svahila:lama, araba:لاما (lama), hindia:लामा (lāma), japana:ラマ (rama)  
 **libele** *libelo* ← hispana:portugala:libélula, franca:libellule, deu:Libelle  
 **lici** ** ← mandarena:荔枝 (lìzhī), hindia:लीची (līcī), angla:lychee, rusa:личи (liči), malaja:leci, vjetnama:lệ chi  
@@ -1230,10 +1231,9 @@
 **rande** ** ← turka:rende, bul:ренде (rende), ron:rindea, hindia:रंदा, (randâ), persa:(rande), svahila:(randa)  
 **rang** *koloro* ← bengala:রং (rông), hindia:रंग (raṅg), urdua:(raṅg), persa:(rang), teluga:రంగు (raṅgu), svahila:rangi, lingala:lángi, turka:renk  
 **rapide** *rapida* ← hispana:portugala:rápido, angla:rapid, franca:rapide  
-**rare** ** ← angla:franca:rare, hispana:portugala:raro, japana:レア (rea)  
 **rasa** *raco* ← angla:franca:race, hispana:raza, portugala:raça, rusa:раса (rasa), malaja:ras  
 **razon** ** ← angla:reason, hispana:razón, portugala:razão, franca:raison rusa:разум (razum)  
-**re** *ripetado* ← angla:franca:portugala:hispana:re-, rusa:ре- (re-)  
+**re** ** ← angla:franca:hispana:portugala:re-, rusa:ретро- (retro-), japana:レトロ (retoro) + araba: رَدَّ (radda)  
 **rebel** ** ← angla:rebel, hispana:portugala:rebelde franca:rebelle  
 **redi** *preta* ← angla:ready, deu:bereit, franca:prêt, mao:reri  
 **ren yum** *renio* ← angla:rhenium, franca:rhénium, hispana:renio, portugala:rénio, rusa:рений, mandarena:铼 (lái), japana:レニウム, korea:레늄, vjetnama:reni, hindia:रेनियम, bengala:রেনিয়াম, malaja:renium, svahila:reni, araba: رنيوم  
@@ -1243,9 +1243,9 @@
 **reside** ** ← persa:(resid), hindia:रसीद (rasīd), urdua:(rasīd), guĝarata:રસીદ (rasīd), teluga:రసీదు (rasīdu), + angla:receipt, svahila:resiti, malaja:resit  
 **reste** ** ← franca:reste, angla:deu:Rest, polona:reszta, hispana:portugala:resto  
 **restoran** *restaŭracio* ← angla:franca:restaurant, hispana:portugala:restaurante, rusa:ресторан (restoran), turka:malaja:restoran, hindia:रेस्तरां (restarā̃), bengala:রেস্টুরেন্ট (reśṭurenṭ), japana:レストラン (resutoran)  
-**retro** ** ← angla:hispana:portugala:retro-, franca:rétro-, rusa:ретро- (retro-), japana:レトロ (retoro)  
 **rezerve** *rezervo* ← angla:reservation, franca:réservation, portugala:hispana:reserva, turka:rezerve, rusa:резервирование (rezervirovaniye)  
 **rezin** *rezino* ← angla:resin, franca:résine, persa:(rezin), portugala:hispana:resina, turka:reçine  
+**ri** *denove (ripete)* ← angla:franca:portugala:hispana:re-, itala:ri-, rusa:ре- (re-)  
 **rike** ** ← deu:reich, angla:rich, franca:riche, portugala:hispana:rico  
 **rim** ** ← hispana:portugala:rima, franca:rime, angla:rhyme, polona:rym, deu:Reim  
 **ring** ** ← angla:franca:hispana:malaja:ring, portugala:ringue, rusa:ринг (ring), hindia:रिंग (rĩg), japana:リング (ringu), korea:링 (ring)  
@@ -1547,8 +1547,9 @@
 **vulva** *vulvo* ← franca:vulve, angla:portugala:hispana:turka:vulva, rusa:вульва (vul’va)  
 **vutu** ** ← mandarena:物 (wù), vua:物 (veq5), japana:物 (butsu), vjetnama:vật + hindia:marataja:वस्तु (vastu), bengala:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)  
 **xa** *–os* ← angla:shall + araba:(sa-) + vjetnama:sẽ + sve:ska  
-**xaka** *branĉo* ← bengala:শাখা (śakha), hindia:शाखा (śākhā), urdua:(śāx), persa:(šax)  
+**xaka** *branĉo* ← persa: شاخه (šâxe), hindia:शाखा (śākhā), bengala:শাখা (śakha), tamila:சாகை (sākai), teluga:శాఖ (śākha), kmera:សាខា (saakhaa), taja:สาขา (sǎa-kǎa)  
 **xakal** ** ← persa:شغال‎ (šağâl), angla:jackal, hispana:portugala:chacal, rusa:шака́л (šakál), turka:çakal, bengala:শৃগাল (śrigal), malaja:jakal, taja:แจ็กคัล (jɛ̀k-kal), japana:ジャッカル (jakkaru)  
+**xaki** *dubo* ← araba: شَكَّ‎ (šakka), persa: شک‎ (šak), hindia:शक (śak); शंका (śankā), malaja:syak, turka:şek, svahila:shaka; -shuku, haŭsa:shakka  
 **xal** *koltuko* ← franca:châle, rusa:шаль (šal), portugala:xaile, angla:shawl, turka:şal  
 **xalke** ** ← angla:scale, franca:échelle, hindia:शल्क (shalka)  
 **xam** *vespero* ← hindia:शाम (śām), bengala:শাম (śam), turka:akşam  

@@ -61,7 +61,7 @@ acuerdo - sam rai
 acumular - kumu  
 acuoso - sui di  
 adelante - to jin  
-además - e max  
+además - a max  
 adhesivo - glu grafi  
 adicional (extra) - max di  
 adiós - sal cuti  
@@ -103,7 +103,7 @@ aire - air
 ajedrez - xah geme  
 ajo - lasun  
 ajonjolí (sésamo) - sesam  
-al revés - retro  
+al revés - a re  
 ala - ving  
 alambre (hilo) - metal lin  
 alargar - fa long  
@@ -880,8 +880,8 @@ contenedor - kontener
 contener (contenido) - intene  
 contener - in tene  
 contenido - in xe  
-continuar (reanudar) - re zoku  
-continuo (analógico) - zoku di  
+continuar (reanudar) - redura  
+continuo (analógico) - undura  
 contraseña - pas loga  
 contraseña - sekur kode  
 contrato (tratado) - trati  
@@ -958,7 +958,7 @@ Croacia - Horvati
 crocodilio - krokodil  
 cromo - jami karte  
 cromo - krom yum  
-cronómetro - dur metre gi  
+cronómetro - dura metre gi  
 cruasán - kruasan  
 crucificar - fa krus fixe  
 crudo - gene di  
@@ -969,7 +969,7 @@ cruzar - be krus
 cráneo (calavera) - sar oste  
 crítico (fundamental) - krizi di  
 crítico - piping ja  
-crónico - dur di  
+crónico - dura di  
 cuaderno (libreta) - note buku  
 cuadro - nelu gona  
 cualidad (atributo, descripción) - sifa  
@@ -1211,12 +1211,13 @@ droga (narcótico) - narko
 dualismo - du xe sim  
 dubnio - dubna yum  
 ducha - dux  
-duda - dute  
+duda - xaki  
 dueño - mal ja  
 duna - duna  
-durable - durbil  
-duración - dur  
-durar (durante, llevar tiempo) - be dur  
+durable - durabil  
+duración - dura  
+durante - a dura de  
+durar (durante, llevar tiempo) - be dura  
 duro - gati  
 dátil - tamar  
 débil - anbala  
@@ -1330,7 +1331,7 @@ equilibrado (par) - par jen
 equilibrio - par vezeta  
 equipaje - bagaje  
 equipo - tim  
-era (periodo, época) - dur zaman  
+era (periodo, época) - dura zaman  
 erbio - erbi yum  
 erguido - lipa di  
 erigir (montar, armar) - fa libu  
@@ -1656,7 +1657,7 @@ ginseng - jenxen
 girar (rotar) - be rota  
 girasol - sol hua  
 global (de todo el mundo) - pan dunia di  
-global (mundial) - dunia di  
+global (mundial) - dunia li  
 globo - balon  
 gluten - gluten  
 glóbulo - hemi selu  
@@ -2700,7 +2701,7 @@ oportunidad (chance) - canse
 oración - jumla  
 orden (mando, comando) - amir  
 orden - ratibu  
-ordenado (regular) - ratibu di  
+ordenado (regular) - ratibu li  
 ordenar (arreglar) - fa ratibu  
 ordeñar - tire yo milke  
 ordinario (habitual) - ada di  
@@ -2728,6 +2729,7 @@ otitis - ore tis
 otomana - osman  
 otoño - pada mosim  
 otra vez (de nuevo) - a ri  
+otra vez (de nuevo) - ri  
 otro - alo  
 oveja - meme  
 oxígeno - oxi  
@@ -2818,7 +2820,7 @@ parámetro - param
 pasa (uva pasa) - gan putau  
 pasado - cen zaman  
 pasaporte - pasporte  
-pasar (transcurrir) - fa dur  
+pasar (transcurrir) - fa dura  
 pasar - pas  
 pasatiempo (hobby, afición) - hobi  
 pascal (Pa) - paskal  
@@ -2885,7 +2887,7 @@ perdedor - xiti bai ja
 perder (fallar) - fa xiti bai  
 perder - xiti  
 perdonar (disculpar) - fa maf  
-perdurable (longevo, prolongado) - long dur di  
+perdurable (longevo, prolongado) - long dura di  
 perdón - maf  
 perecer - perex fa  
 perfeccionar - fa pul bon  
@@ -3195,14 +3197,13 @@ rapidez (velocidad) - rapideta
 raramente - nadir mar  
 raro (extraño) - guai  
 raro - nadir  
-raro - rare  
 rasgar (romper) - cira  
 raspar (arañar) - frike  
 ratón - muxu  
 rayo - radi  
 rayo luminoso - foto radi  
 raza - rasa  
-razonable - razon di  
+razonable - razon li  
 razón (causa) - sabu  
 razón - razon  
 raíz - mula  
@@ -3253,7 +3254,6 @@ renio - ren yum
 renovar - fa neu  
 reparador - xuli ja  
 reparar (arreglar) - fa xuli  
-repetición - re  
 repetir - fa re  
 repetir - rifete  
 reportar (informe, reporte, noticia) - reporte  

@@ -39,15 +39,18 @@ Lause **mi fa huru yemon** merkitsisi samaa, mutta siinä olisi merkityksen kann
 ## A  
 
 a - luona (-lla, -ssa)  
+a dura de - aikana (kuluessa)  
 a jong - keskittyä (olla keskellä)  
 a ke - missä?  
 a kon - yhdessä  
+a max - myös (lisäksi, -kin)  
 a medi - välissä  
 a min de - paitsi (miinus)  
 a neu - äsken (vasta, juuri)  
 a nice - alla  
 a poli mar - usein  
 a pos - myöhemmin (tuleva)  
+a re - taakse päin  
 a ri - taas (uudestaan)  
 a sabu de - koska (johdosta, takia)  
 a supra - yllä (pääll)  
@@ -257,6 +260,7 @@ axa hin - toivoton
 axe - akseli  
 Axur - Assur  
 Axur dexa - Assyria  
+aya - piika  
 ayo - oi! (ai, oijoi)  
 Azerbaijan - Azerbaidžan  
 
@@ -381,7 +385,7 @@ be dai - kasvaa (suurentua)
 be dara - virrata  
 be dom - asua  
 be duka - surra (murehtia)  
-be dur - kestää (viedä aikaa)  
+be dura - kestää (viedä aikaa)  
 be estasi - seisoa (seisahtaa)  
 be fatige - väsyä  
 be fen - jakautua (hajota)  
@@ -699,6 +703,7 @@ cuti mun - uloskäynti
 ## D  
 
 da - antaa  
+• reda - palauttaa (antaa takaisin)  
 databi - antelias (avokätinen)  
 daxe - lahja  
 daxeceke - lahjakortti  
@@ -893,12 +898,13 @@ duman - savu
 duna - dyyni (kinos)  
 dunia - maailma  
 dunia baxa - maailmankieli  
-dunia di - maailman-  
-dur - aika (kesto, kestoaika)  
-durbil - kestävä (luja)  
-dur di - kestävä (krooninen)  
-dur metre gi - sekuntikello  
-dur zaman - aikakausi  
+dunia li - maailman-  
+dura - aika (kesto, kestoaika)  
+• redura - jatkua uudestaan  
+durabil - kestävä (luja)  
+dura di - kestävä (krooninen)  
+dura metre gi - sekuntikello  
+dura zaman - aikakausi  
 dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
 dus darja - laskea tasoa  
 dus deu sim - dysteismi (usko jumalan pahuuteen)  
@@ -911,7 +917,6 @@ dus sin di - pahaenteinen
 dus topia - dystopia  
 dus vide - ruma (pahannäköinen)  
 dus zar - epäonni  
-dute - epäilys  
 • posprodute - jälkituotanto  
 dutebil - epäilyttävä  
 dute ja - epäilevä  
@@ -920,7 +925,6 @@ dux - suihku
 ## E  
 
 e - ja (sekä)  
-e max - lisäksi (myös)  
 eglisa - kirkko  
 einstein yum - einsteinium  
 Eire - Irlanti  
@@ -1033,7 +1037,7 @@ fa dosil - kesyttää
 fa dosil gene - kesyttää  
 fa dua - rukoilla (anoa)  
 fa duka - surettaa  
-fa dur - kuluttaa (viettää aikaa)  
+fa dura - kuluttaa (viettää aikaa)  
 fa dus forma - turmella ulkomuoto  
 fa dus nam - solvata (loukata)  
 fa englix kitabu - englannistaa  
@@ -2197,13 +2201,13 @@ kon sana sim ja - kommunisti
 kon sel - konsultoida (antaa neuvoja)  
 kon sel ja - konsultti  
 kon su - yhteinen  
+kontra - mennä vasten  
 kon trati - liittosopimus  
 konun - yhteinen  
 Konakri Ginia - Guinea  
 kone - kartio (keila)  
 Konkani - konkani (eräs intialainen kieli)  
 konserte - konsertti  
-kontra - mennä vasten  
 koperni yum - copernicium  
 kopi - kopio (jäljennös)  
 kopi haki - kopiointioikeus (tekijänoikeus)  
@@ -2335,6 +2339,7 @@ letus - lehtisalaatti
 leu - vasen  
 leu sim ja - vasemmistolainen  
 lexima - sana  
+li - kaltainen (-llinen)  
 Libanen - Libanon  
 libele - sudenkorento  
 Liberia - Liberia  
@@ -2393,8 +2398,8 @@ loka - paikka (sija, sijainti)
 loka di - paikallinen  
 lona - väittely (debatti)  
 long - pitkä  
-long dur - kauan (pitkän aikaa)  
-long dur di - pitkäaikainen (pitkäkestoinen)  
+long dura - kauan (pitkän aikaa)  
+long dura di - pitkäaikainen (pitkäkestoinen)  
 long kata - romaani  
 long pipre - pitkäpippuri  
 longta - pituus  
@@ -3201,10 +3206,8 @@ rasa sim ja - rasisti
 raste - kasvu  
 ratibu - järjestys  
 razon - järki (järkeily, päättely)  
-razon di - järjellinen (järkiperäinen, rationaalinen)  
-re - toisto  
-resikle - kierrättää  
-re zoku - jatkua uudestaan  
+razon li - järjellinen (järkiperäinen, rationaalinen)  
+re - takaisin  
 rebel - kapina  
 redi - valmis  
 Ren - Rein  
@@ -3220,6 +3223,7 @@ retro tikete - menopaluulippu
 Reunion - Reunion  
 rezerve - varaus (ennakkovaraus)  
 rezin - pihka (hartsi)  
+ri - taas (uudestaan)  
 rike - rikas  
 rim - säe (riimi)  
 ring - rengas (kehä)  
@@ -3437,6 +3441,7 @@ sigar - savuke tai sikari
 siki din - sikhiläisyys  
 siki din ja - sikhi  
 sikle - pyörä (polkupyörä, moottoripyörä)  
+resikle - kierrättää  
 sikle ja - pyöräilyn harrastaja  
 silis - pii  
 silke - silkki  
@@ -3772,6 +3777,7 @@ Umbriel - Umbriel
 un - yksi (1)  
 un deu sim - monoteismi (yksijumalisuus)  
 un di - vain (ainoa, ainut)  
+undura - yhtäjaksoinen  
 un mar - kerran  
 un me - ensimmäinen (numero yksi)  
 un rang di - yksivärinen  
@@ -3951,6 +3957,7 @@ xah geme - šakki
 xah mata - matti (šakkimatti)  
 xaka - oksa (haara)  
 xakal - šakaali  
+xaki - epäillä (epäilys, epäusko)  
 xal - huivi (šaali)  
 xam - ilta  
 xam dia - iltapäivä  
@@ -4134,7 +4141,6 @@ zirkon - zirkoni
 zirkon yum - zirkonium  
 zizi - sihistä  
 zoku - vielä (yhä, jatkua)  
-zoku di - jatkuva (analoginen)  
 zombi - zombi  
 zona - vyö  
 zukam - vilustuminen  

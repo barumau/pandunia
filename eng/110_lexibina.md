@@ -36,26 +36,26 @@ Likewise, the word **kitabu** can function as a verb (_to write_), a noun (_a wr
 ## Compound Words
 
 A compound word is a word that is formed of two or more simpler words in order to yield a new meaning.
-words can be made easily in Pandunia just like in many natural languages.
+Compound words can be made in two ways in Pandunia.
 
-Two or more words can be put together to make a compound word.
-The last word is the most meaningful part in the compound
-and the words that come before it only modify its meaning.
-For example,
-**an**
-'un-, the opposite of' +
-**demi'**
-'the people' +
-**krati**
-'rule' =
-**andemikrati**
-'undemocratic'.
+1. Open compounds are written as separate words. Ex.
+   **tomato** 'tomato' + **sos** 'sauce** = **tomato sos** 'tomato sauce'.
+2. Closed compounds are joined to form a single word. Ex.
+   **poste** 'mail' + **kan** 'place for working, office, workshop, etc.' = **postekan** 'post office',
+   **mei** 'beautiful' + **ta** 'quality' = **meita** 'beauty'.
+
+There is little difference between these two ways, open compounds and closed compounds.
+In principle, open compounds may be written together as closed compounds,
+and closed compounds may be written separately as open compounds.
+Both ways can work well.
+However, normally *affixes* (that are listed below) are written together into closed compounds
+and other joined words are written as open compounds.
 
 
 ## Affixes
 
 Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
-They are joined or merged to the base word.
+They are joined to the base word.
 
 Two or more roots can be put together to make _compound words_.
 The last root is the most meaningful part in the compound
@@ -63,9 +63,9 @@ and the preceding roots only modify its meaning.
 
            pan       'all'
        +  demi       'people, public'
-       +   -ka       'adjectival suffix'
+       +    li       'adjectival suffix'
     _____________
-    = pandimika      'pandemic'
+    = pandemili      'pandemic'
 
 The connecting vowel **-o-** is inserted between words in Greek compounds.
 
@@ -312,6 +312,17 @@ are not compound words in Pandunia.
 'use'
 → **uzebil**
 'one that can be used, usable'
+
+**-li**
+'like or characteristic of what is denoted by the previous word' :
+**insan**
+'human being'
+→ **insanli**
+'human, what is charasteristic of human beings'  
+**dosti**
+'friend'
+→ **dostili**
+'friendly, like a friend'
 
 **-ma**
 'distinct meaningful element' :  

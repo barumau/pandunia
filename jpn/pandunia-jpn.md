@@ -345,9 +345,10 @@ dubna yum - ドブニウム
 dudu - 昆虫  
 dugu - 読む  
 dunia - 世界  
-durbil - 持続的  
-dur metre gi - ストップウオッチ  
-dur zaman - 時代 (年代)  
+• redura - 再開する  
+durabil - 持続的  
+dura metre gi - ストップウオッチ  
+dura zaman - 時代 (年代)  
 dus - 難しい  
 dus jen - 敵  
 dus sin di - 不吉 (縁起の悪い)  
@@ -1093,6 +1094,7 @@ muzika - 音楽
 
 na - 受ける (もらう)  
 na xiti - 得失  
+nadir - 稀 (疎ら)  
 najis - 汚れ (汚染)  
 najis bindu - 染み (汚点)  
 najis di - 汚い  
@@ -1299,13 +1301,9 @@ rang arka - 虹
 rang arka salmon - ニジマス  
 rang mate - 染め粉  
 rapide - 速い  
-rare - 稀 (疎ら)  
 rasa - 人種  
 ratibu - 順  
-ratibu di - 整然  
-re - 繰り返し  
-resikle - 再生する (リサイクルする)  
-re zoku - 再開する  
+ratibu li - 整然  
 Ren - ライン川  
 ren yum - レニウム  
 rentegen yum - レントゲニウム  
@@ -1407,6 +1405,7 @@ side - 座る
 side loka - 座席 (鞍)  
 sifa loga - 形容詞  
 sigar - タバコ  
+resikle - 再生する (リサイクルする)  
 sikle ja - チャリダー  
 silis - ヶィ素  
 silke - 絹  
@@ -1530,6 +1529,7 @@ tuzi - うさぎ
 umami - 旨味  
 un - 一 (1)  
 un di - だけ (唯一の)  
+undura - アナログ  
 un sata - 一躍  
 unta - 団結 (統一)  
 un ta liga - 連合 (接合)  
@@ -1686,6 +1686,5 @@ zi forma - フォント (字体)
 zinke - 亜鉛  
 zirkon yum - ジルコニウム  
 zoku - まだ  
-zoku di - アナログ  
 zuku - 民族  
 zuku di - 民族の  

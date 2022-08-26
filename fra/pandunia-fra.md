@@ -3,9 +3,11 @@
 ## A  
 
 a - a (dans, en, chez)  
+a dura de - durant  
 a ke - où  
 a lin - en ligne  
 a pos - ensuite (après, plus tard, ir a, en el futuro)  
+a re - en arrière  
 a vo - là (y)  
 a xukur de - grâce à  
 a yi - ici  
@@ -180,6 +182,7 @@ axa hin - désespéré
 axe - axe  
 Axur - Assur  
 Axur dexa - Assyrie  
+aya - bonne (domestique)  
 ayo - aïe!  
 Azerbaijan - Azerbaijan  
 
@@ -268,7 +271,7 @@ be biomute - fermenter
 be boi - nagar (flotter)  
 be bum - exploser (détoner)  
 be dom - vivre (habiter)  
-be dur - durer  
+be dura - durer  
 be fobi - craindre (avoir peur)  
 be hapu - convenir (être approprié)  
 be in - entrer  
@@ -474,9 +477,10 @@ dudu - insecte
 dugu - lire  
 duna - dune  
 dunia - monde  
-dur - durée  
-dur di - chronique  
-dur metre gi - chronomètre  
+dura - durée  
+• redura - reprendre  
+dura di - chronique  
+dura metre gi - chronomètre  
 dus jen - ennemi  
 dus vide - laid (vilain)  
 • posprodute - post-production  
@@ -535,7 +539,7 @@ fa dika - viser
 fa dipe - baisser  
 fa dosil - apprivoiser (dresser, dompter, discipliner)  
 fa dosil gene - domestiquer (apprivoiser)  
-fa dur - passer  
+fa dura - passer  
 fa dus forma - défigurer  
 fa estude - étudier  
 fa fatu - punir  
@@ -1142,8 +1146,8 @@ loge buku - livre de bord
 loka - lieu  
 loka di - local  
 long - long  
-long dur - longtemps  
-long dur di - prolongé  
+long dura - longtemps  
+long dura di - prolongé  
 long kata - roman  
 long krokodil - crocodile  
 long pipre - poivre long  
@@ -1532,19 +1536,14 @@ rang arka salmon - truite arc-en-ciel
 rang kanca - verre coloré  
 rang mate - colorant  
 rapide - vite (rapide)  
-rare - rare  
 rasa - race  
 rasa medi - interracial  
 ratibu - ordre  
-re - répétition  
-resikle - recycler  
-re zoku - reprendre  
 Ren - Rhin  
 ren yum - rhénium  
 rentegen yum - roentgenium  
 reseta - recette  
 reste - reste  
-retro - en arrière  
 retro gula sense - nausée  
 retro tikete - aller-retour  
 rike - riche  
@@ -1648,6 +1647,7 @@ siborge yum - seaborgium
 sifa loga - adjectif  
 sigar - cigarette  
 sikle - bicyclette  
+resikle - recycler  
 sikle ja - cycliste  
 silis - silicium  
 silke - soie  
@@ -1791,6 +1791,7 @@ tuzi - lapin (lièvre)
 uma bici - cravache  
 un - un (1)  
 un di - seul (unique)  
+undura - continu (analogique)  
 un mar - une fois  
 un ta liga - union  
 un verse di - universel  
@@ -1865,6 +1866,7 @@ vutu - objet (article)
 ## X  
 
 xah mata - échec et mat  
+xaki - doute  
 xalke - échelle  
 xam - soir (soirée)  
 xampan - Champagne  
@@ -1966,7 +1968,6 @@ zinke - zinc
 zira - cumin  
 zirkon yum - zirconium  
 zoku - continuer (poursuivre, encore)  
-zoku di - continu (analogique)  
 zombi - zombi  
 zona - zone  
 zuku - ethnie  

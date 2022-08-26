@@ -78,7 +78,8 @@
 **axa** *toivoa* ← hindi:आशा (āśā), malaiji:filippiini:asa, telugu:ఆశ (āśa), tamili:ஆசை (āsai)  
 **axe** *akseli* ← englanti:axis, ranska:axe, hindi:अक्ष (akṣ), turkki:eksen  
 **Axur dexa** *Assyria* ← akk:(aššur), arabia:(aššur), hindi:अश्शूर (aśśūr), persia:(āšūr), englanti:Assyria, ranska:Assyrie, espanja:Asiria, portugali:Assíria, venäjä:Ассирия (Assiriya), yleiskiina:亚述 (Yàshù)  
-**ayo** *oi! (ai, oijoi)* ← ranska:aïe, espanja:ay, portugali:ai, venäjä:ай (ay), yleiskiina:哎哟 (āiyō), korea:아야 (aya), telugu:అయ్యో (ayyō), tamili:ஐயோ (aiyō)  
+**aya** *piika* ← portugali:aia, hindi:आया (āyā), telugu:ఆయా (āyā) + yleiskiina:阿姨 (āyí)  
+**ayo** *oi! (ai, oijoi)* ← ranska:aïe, espanja:ay, portugali:ai, venäjä:ай (ay), persia: آی‎ (ây), yleiskiina:哎哟 (āiyō), korea:아야 (aya), telugu:అయ్యో (ayyō), tamili:ஐயோ (aiyō)  
 **babu** *luku (kirjan osa)* ← arabia:persia:urdu: بَاب‎ (bāb), malaiji:bab, suahili:babu  
 **babuce** *tohveli* ← arabia: بَابُوج‎ (bābūj), espanja:babucha, ranska:babouche, englanti:babouche  
 **babul** *palloakaasia* ← hindi:बबूल (babūl), bangla:বাবলা (bābalā), englanti:babul  
@@ -315,9 +316,8 @@
 **duman** *savu* ← hindi:धूआँ (dhuã), turkki:duman, venäjä:дым (dym), kannada:(dhūma), bangla:ধোঁয়া (dhõẇa)  
 **duna** *dyyni (kinos)* ← englanti:ranska:dune, espanja:portugali:duna, venäjä:дюна (diuna) + vietnami:đụn, korea:둔(덕) (dun(deok))  
 **dunia** *maailma* ← arabia: دُنْيَا‎ (dunyā), hindi:दुनिया (duniyā), bangla:দুনিয়া (duniya), malaiji:suahili:dunia, turkki:dünya, persia: دنیا (donya), urdu: دنیا (duniyā), hausa:duniya  
-**dur** *aika (kesto, kestoaika)* ← englanti:duration, ranska:durée, espanja:portugali:durar + bangla:ধরে (dhôre), hindi:दौरान (daurān)  
+**dura** *aika (kesto, kestoaika)* ← englanti:duration, ranska:durée, espanja:portugali:durar + arabia: دَوْرَة (dawra), persia: دُوره (dowre), bangla:ধরে (dhôre), hindi:दौरान (daurān)  
 **dus** *paha (epäsuotuisa, epämiellyttävä, vastustava)* ← englanti:ranska:dys-, espanja:portugali:dis-, venäjä:дис- (dis-) + hindi:दुस्- (dus-), malaiji:dur-, turkki:düş-  
-**dute** *epäilys* ← ranska:doute, englanti:doubt, espanja:filippiini:duda  
 **dux** *suihku* ← ranska:douche, espanja:portugali:ducha, deu:Dusche, venäjä:душ (duš), arabia: دوش (dūš), malaiji:dus, turkki:duş  
 **e** *ja (sekä)* ← ranska:et, portugali:e, espanja:y;e, yleiskiina:和 (hé)  
 **eglisa** *kirkko* ← englanti:ecclesia-, ranska:église, espanja:iglesia, portugali:igreja, hindi:गिरजा (girjā), malaiji:gereja, arabia:(kanisā), suahili:kanisa, turkki:kilise  
@@ -844,6 +844,7 @@
 **letre** *kirje* ← englanti:letter, ranska:lettre, hindi:लेटर (leṭar), japani:ター (retā)  
 **letus** *lehtisalaatti* ← englanti:lettuce, japani:レタス (retasu), hausa:latas, hindi:लेटिष (leṭiṣ), bangla:লেটুস (leṭus), ranska:laitue  
 **leu** *vasen* ← latina:laevus, englanti:left; levo-, ranska:lévo-, espanja:portugali:levo-, venäjä:левый (levyy), puola:lewy  
+**li** *kaltainen (-llinen)* ← englanti:-al; -ly, espanja:portugali:-al + turkki:-li; -lı; -lu; -lü  
 **liama** ** ← englanti:espanja:malaiji:llama, portugali:lhama, venäjä:лама (lama), turkki:suahili:lama, arabia:لاما (lama), hindi:लामा (lāma), japani:ラマ (rama)  
 **libele** *sudenkorento* ← espanja:portugali:libélula, ranska:libellule, deu:Libelle  
 **lici** *litši* ← yleiskiina:荔枝 (lìzhī), hindi:लीची (līcī), englanti:lychee, venäjä:личи (liči), malaiji:leci, vietnami:lệ chi  
@@ -1230,10 +1231,9 @@
 **rande** *höylä* ← turkki:rende, bul:ренде (rende), ron:rindea, hindi:रंदा, (randâ), persia:(rande), suahili:(randa)  
 **rang** *väri* ← bangla:রং (rông), hindi:रंग (raṅg), urdu:(raṅg), persia:(rang), telugu:రంగు (raṅgu), suahili:rangi, lingala:lángi, turkki:renk  
 **rapide** *nopea (pikainen, vauhdikas)* ← espanja:portugali:rápido, englanti:rapid, ranska:rapide  
-**rare** ** ← englanti:ranska:rare, espanja:portugali:raro, japani:レア (rea)  
 **rasa** *rotu* ← englanti:ranska:race, espanja:raza, portugali:raça, venäjä:раса (rasa), malaiji:ras  
 **razon** *järki (järkeily, päättely)* ← englanti:reason, espanja:razón, portugali:razão, ranska:raison venäjä:разум (razum)  
-**re** *toisto* ← englanti:ranska:portugali:espanja:re-, venäjä:ре- (re-)  
+**re** *takaisin* ← englanti:ranska:espanja:portugali:re-, venäjä:ретро- (retro-), japani:レトロ (retoro) + arabia: رَدَّ (radda)  
 **rebel** *kapina* ← englanti:rebel, espanja:portugali:rebelde ranska:rebelle  
 **redi** *valmis* ← englanti:ready, deu:bereit, ranska:prêt, mao:reri  
 **ren yum** *renium* ← englanti:rhenium, ranska:rhénium, espanja:renio, portugali:rénio, venäjä:рений, yleiskiina:铼 (lái), japani:レニウム, korea:레늄, vietnami:reni, hindi:रेनियम, bangla:রেনিয়াম, malaiji:renium, suahili:reni, arabia: رنيوم  
@@ -1243,9 +1243,9 @@
 **reside** *kuitti (kuittaus)* ← persia:(resid), hindi:रसीद (rasīd), urdu:(rasīd), gujarati:રસીદ (rasīd), telugu:రసీదు (rasīdu), + englanti:receipt, suahili:resiti, malaiji:resit  
 **reste** *jäännös (loput)* ← ranska:reste, englanti:deu:Rest, puola:reszta, espanja:portugali:resto  
 **restoran** *ravintola* ← englanti:ranska:restaurant, espanja:portugali:restaurante, venäjä:ресторан (restoran), turkki:malaiji:restoran, hindi:रेस्तरां (restarā̃), bangla:রেস্টুরেন্ট (reśṭurenṭ), japani:レストラン (resutoran)  
-**retro** ** ← englanti:espanja:portugali:retro-, ranska:rétro-, venäjä:ретро- (retro-), japani:レトロ (retoro)  
 **rezerve** *varaus (ennakkovaraus)* ← englanti:reservation, ranska:réservation, portugali:espanja:reserva, turkki:rezerve, venäjä:резервирование (rezervirovaniye)  
 **rezin** *pihka (hartsi)* ← englanti:resin, ranska:résine, persia:(rezin), portugali:espanja:resina, turkki:reçine  
+**ri** *taas (uudestaan)* ← englanti:ranska:portugali:espanja:re-, italia:ri-, venäjä:ре- (re-)  
 **rike** *rikas* ← deu:reich, englanti:rich, ranska:riche, portugali:espanja:rico  
 **rim** *säe (riimi)* ← espanja:portugali:rima, ranska:rime, englanti:rhyme, puola:rym, deu:Reim  
 **ring** *rengas (kehä)* ← englanti:ranska:espanja:malaiji:ring, portugali:ringue, venäjä:ринг (ring), hindi:रिंग (rĩg), japani:リング (ringu), korea:링 (ring)  
@@ -1547,8 +1547,9 @@
 **vulva** *häpy (ulkosynnyttimet)* ← ranska:vulve, englanti:portugali:espanja:turkki:vulva, venäjä:вульва (vul’va)  
 **vutu** *esine (tavara)* ← yleiskiina:物 (wù), wu-kiina:物 (veq5), japani:物 (butsu), vietnami:vật + hindi:marathi:वस्तु (vastu), bangla:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), thai:วัสดุ (wạttu)  
 **xa** *tulevaa aikaa merkitsevä apuverbi* ← englanti:shall + arabia:(sa-) + vietnami:sẽ + sve:ska  
-**xaka** *oksa (haara)* ← bangla:শাখা (śakha), hindi:शाखा (śākhā), urdu:(śāx), persia:(šax)  
+**xaka** *oksa (haara)* ← persia: شاخه (šâxe), hindi:शाखा (śākhā), bangla:শাখা (śakha), tamili:சாகை (sākai), telugu:శాఖ (śākha), khmer:សាខា (saakhaa), thai:สาขา (sǎa-kǎa)  
 **xakal** *šakaali* ← persia:شغال‎ (šağâl), englanti:jackal, espanja:portugali:chacal, venäjä:шака́л (šakál), turkki:çakal, bangla:শৃগাল (śrigal), malaiji:jakal, thai:แจ็กคัล (jɛ̀k-kal), japani:ジャッカル (jakkaru)  
+**xaki** *epäillä (epäilys, epäusko)* ← arabia: شَكَّ‎ (šakka), persia: شک‎ (šak), hindi:शक (śak); शंका (śankā), malaiji:syak, turkki:şek, suahili:shaka; -shuku, hausa:shakka  
 **xal** *huivi (šaali)* ← ranska:châle, venäjä:шаль (šal), portugali:xaile, englanti:shawl, turkki:şal  
 **xalke** ** ← englanti:scale, ranska:échelle, hindi:शल्क (shalka)  
 **xam** *ilta* ← hindi:शाम (śām), bangla:শাম (śam), turkki:akşam  

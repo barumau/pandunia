@@ -35,9 +35,10 @@ aie (aikomus, tarkoitus) - nia
 aihe (teema) - tema  
 aiheesta (-sta) - fa tema  
 aiheuttaa (olla syynä) - fa sabu  
-aika (kesto, kestoaika) - dur  
+aika (kesto, kestoaika) - dura  
 aika - zaman  
-aikakausi - dur zaman  
+aikakausi - dura zaman  
+aikana (kuluessa) - a dura de  
 aikoa (meinata) - fa nia  
 aikuinen - matur jen  
 aina - pan sata  
@@ -432,8 +433,8 @@ ensimmäinen (numero yksi) - un me
 entsyymi - enzim  
 epäaktiivinen (pois toiminnasta) - anativi  
 epäilevä - dute ja  
+epäillä (epäilys, epäusko) - xaki  
 epäillä (olla uskomatta) - ankredi  
-epäilys - dute  
 epäilyttävä - dutebil  
 epämuodostunut - dus forma di  
 epäonni - dus zar  
@@ -942,8 +943,7 @@ japanilainen - nipon di
 Japetus - Yapetus  
 jasmiini - moli  
 jasmiinitee - moli hua cai  
-jatkua uudestaan - re zoku  
-jatkuva (analoginen) - zoku di  
+jatkua uudestaan - redura  
 jauhaa - fa mol  
 jazz (jatsi) - jaze  
 jee! (hurraa!) - yei  
@@ -1015,7 +1015,7 @@ jäkälä - alga fungu
 jälkituotanto - posprodute  
 jänis - tuzi  
 jännitys (jännite) - tenseta  
-järjellinen (järkiperäinen, rationaalinen) - razon di  
+järjellinen (järkiperäinen, rationaalinen) - razon li  
 järjestellä (hallinnoida, organisoida, manageroida) - fa nomi  
 järjestelmä (systeemi) - sistem  
 järjestys - ratibu  
@@ -1084,6 +1084,7 @@ kalkyyli - kalkul
 kallio (kivi) - petra  
 kalsiitti (kalkkisälpä) - kalsite  
 kalsium - kalsi yum  
+kaltainen (-llinen) - li  
 kaltevuus - darja medan  
 Kambodja - Kambojia  
 kameli - gamel  
@@ -1162,7 +1163,7 @@ katsoja (tarkkailija) - speter
 kattava - in klus di  
 kattila - ketel  
 katto (katos) - cati  
-kauan (pitkän aikaa) - long dur  
+kauan (pitkän aikaa) - long dura  
 kauha - pote camaca  
 kauhu (terrori) - teror  
 kaukainen - tele di  
@@ -1242,9 +1243,9 @@ keskiyö (puoliyö) - medi noce
 keskus (keskikohta) - jong  
 keskustelu (debatti) - fa lona  
 keskusteluhuone - blablakan  
-kestävä (krooninen) - dur di  
-kestävä (luja) - durbil  
-kestää (viedä aikaa) - be dur  
+kestävä (krooninen) - dura di  
+kestävä (luja) - durabil  
+kestää (viedä aikaa) - be dura  
 kesy - dosil  
 kesytetty - dosil gene di  
 kesyttää - fa dosil  
@@ -1475,7 +1476,7 @@ kulombi (mittayksikkö C) - kulombe
 kulta (rakas) - ama jen  
 kulta - auro  
 kulttuuri - kultur  
-kuluttaa (viettää aikaa) - fa dur  
+kuluttaa (viettää aikaa) - fa dura  
 kumi - gomu  
 kumina - karavi  
 kumkvatti - gingam  
@@ -1750,7 +1751,6 @@ lippu - bandera
 lisko - saur  
 lista (luettelo) - liste  
 lisä- - max di  
-lisäksi (myös) - e max  
 lisätä (enentää) - fa max  
 litium - lito yum  
 litra - litre  
@@ -1858,7 +1858,7 @@ maa (valtio) - dexa
 maahanmuuttaja - in migra ja  
 maahinen - geo elfe  
 maailma - dunia  
-maailman- - dunia di  
+maailman- - dunia li  
 maailmankieli - dunia baxa  
 maailmanlaajuinen (globaali) - pan dunia di  
 maalais- - agri stan di  
@@ -2144,6 +2144,7 @@ mysli - musli
 myydä - vende  
 myöhemmin (tuleva) - a pos  
 myöhempi (takainen) - pos di  
+myös (lisäksi, -kin) - a max  
 myötätunto (sympatia) - sam emos  
 mädäntyä (mädätä) - be pute  
 mänty - songi  
@@ -2425,6 +2426,7 @@ palanen (murunen, riekale, sirpale) - parce
 palata - be retro  
 palatsi - dai dom  
 Palau - Palau  
+palauttaa (antaa takaisin) - reda  
 palauttaa - fa retro  
 palauttaa - fuka  
 Palestiina - Filistin  
@@ -2542,6 +2544,7 @@ pihdit - pinse gi
 pihka (hartsi) - rezin  
 pihta (jalokuusi) - abies  
 pii - silis  
+piika - aya  
 piikivi - hogo seku  
 piikki (pistin, neula) - pin  
 piilottaa (kätkeä) - fa sir  
@@ -2580,7 +2583,7 @@ pistää (piikittää) - fa pin
 Pitcairn - Pitkerne nesi  
 pitkittäinen - ging  
 pitkä - long  
-pitkäaikainen (pitkäkestoinen) - long dur di  
+pitkäaikainen (pitkäkestoinen) - long dura di  
 pitkäpippuri - long pipre  
 pitkästi (kauas) - to long  
 pitkästynyt - bori di  
@@ -3046,7 +3049,7 @@ seksi (sukupuolisuhde) - sexe
 seksikäs - sexe di  
 seksologia - sexe logi  
 sekunti - sekunde  
-sekuntikello - dur metre gi  
+sekuntikello - dura metre gi  
 selain - brauza gi  
 selata - brauza  
 seleeni - selen yum  
@@ -3311,9 +3314,11 @@ söpö (suloinen) - kavai
 ## T  
 
 taajuus (tiheys) - poli marta  
+taakse päin - a re  
 taaksepäin - reversi  
 taantua (mennä taaksepäin) - recese  
 taas (uudestaan) - a ri  
+taas (uudestaan) - ri  
 taateli - tamar  
 Tadžikistan - Tajiki  
 tahdas - fufu  
@@ -3340,6 +3345,7 @@ taito - suta
 taivaankappale - astro  
 taivas - sama  
 Taiwan - Taivan  
+takaisin - re  
 takki - kote  
 taksa (tariffi) - tarif  
 taksa (vero) - taxi  
@@ -3528,7 +3534,6 @@ toimiva - funsibil
 toinen (2.) - dume  
 toisiaan (toinen toistaan) - semon  
 toistaa - fa re  
-toisto - re  
 toivoa - axa  
 toivoton - axa hin  
 Tokio - Tokyo  
@@ -4049,6 +4054,7 @@ yhteisymmärrys - sam rai
 yhteisö (kokoontuminen, kollektiivi) - jami  
 yhtenäinen - un ta di  
 yhteys (suhde, side) - linke  
+yhtäjaksoinen - undura  
 ykseys - unta  
 yksi (1) - un  
 yksikielinen - unbaxaka  

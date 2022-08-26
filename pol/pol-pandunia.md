@@ -338,7 +338,7 @@ Chorwacja - Horvati
 chory - pati di  
 chować (kryć) - fa sir  
 chrom - krom yum  
-chroniczny - dur di  
+chroniczny - dura di  
 chronić (ratować) - fa sekur  
 chronić, strzec,  osłaniać, bronić - garde  
 Chrystus, mesjasz - mesi  
@@ -367,7 +367,7 @@ cieszyć się (zażywać, bawić się) - be vanu
 cieszyć, podobać się - fa suka  
 cień - saya  
 ciągnąć - tire  
-ciągły (analogowy) - zoku di  
+ciągły (analogowy) - undura  
 ciąć - gata a caku  
 ciężar (brzemię) - karga  
 ciężarny (w ciąży) - hamil  
@@ -405,7 +405,7 @@ czapetka kuminowa - jamul
 czar (urok, wdzięk) - carme  
 Czarnogóra - cernagora  
 czarny - kala  
-czas (epoka, era) - dur zaman  
+czas (epoka, era) - dura zaman  
 czas - zaman  
 czas; okazja - mar  
 czasownik - kar lexi  
@@ -748,7 +748,7 @@ gleba bielicoziemna - hui darte
 glin (aluminium) - alumin  
 glina - glu poto  
 globalny (światowy) - pan dunia di  
-globalny - dunia di  
+globalny - dunia li  
 glutaminian sodu - vijin  
 gluten - gluten  
 gniazdo (ul, nora, jama, barłóg, legowisko) - nide  
@@ -1562,7 +1562,7 @@ minimalizm - minim sim
 minister - ministre ja  
 ministry - ministre ofis  
 minuta - minute  
-minąć, mijać (czas) - fa dur  
+minąć, mijać (czas) - fa dura  
 minąć, mijać, przeminąć, przemijać - pas  
 misja - mise xe  
 mistrz (ekspert) - master  
@@ -2248,7 +2248,6 @@ powinien - be sel
 powolny (wolny, letargiczny) - anhaste  
 powrót - retro dau  
 powszechny, uniwersalny - putong  
-powtarzanie, powtórka - re  
 powtórzyć, powtarzać - fa re  
 powtórzyć, powtarzać - rifete  
 powód, przyczyna - sabu  
@@ -2449,7 +2448,7 @@ płyta tektoniczna - geo kaska plate
 rabuś (grabieżca) - luta ja  
 rachunek (faktura) - fatura  
 rachunek (formalny system obliczeń) - kalkul  
-racjonalny, rozsądny - razon di  
+racjonalny, rozsądny - razon li  
 rad - radi yum  
 rada, porada - sel  
 radio - radio  
@@ -2573,10 +2572,9 @@ ryzykowny - risko di
 ryś - linse  
 ryś rudy - rubi linse  
 ryż - varis  
-rzadki (nieczęsty) - rare  
 rzadki (rozrzedzony, rozproszony) - anjami di  
 rzadko - nadir mar  
-rzadkość - rareta  
+rzadkość - nadirta  
 rzecz - xe  
 rzeczownik - nam loga  
 rzeka - rivo  
@@ -2798,7 +2796,7 @@ stokrotka pospolita - englix margarita
 stolarz - moka jiang ja  
 stop; przerwa, zatrzymanie - halte  
 stopa - fute  
-stoper (sekundomierz) - dur metre gi  
+stoper (sekundomierz) - dura metre gi  
 stopień Celsjusza - celsius darja  
 stopień, poziom, ranga, klasa - darja  
 stopniowy - darja di  
@@ -3043,9 +3041,9 @@ tropikalny - garma zona di
 tropiki - garma zona  
 trucizna (toksyna) - toxi  
 trudność (trud) - dus hal  
-trwanie - dur  
-trwać, zająć czas; przez - be dur  
-trwały (wytrzymały, podtrzymywalny) - durbil  
+trwanie - dura  
+trwać, zająć czas; przez - be dura  
+trwały (wytrzymały, podtrzymywalny) - durabil  
 tryb nocny - noce mode  
 Trynidad i Tobago - Trinidade e Tobago  
 trzcina cukrowa - sukar gana  
@@ -3337,7 +3335,7 @@ wspólny język - konbaxa
 współczucie - sam emos  
 współpracować (kolaborować) - kon gong  
 współpracować (kolaborować) - konkar  
-wstecz - retro  
+wstecz - a re  
 wstrzyknąć, wstrzykiwać - fa juxa  
 wstyd (hańba, kompromitacja) - xarma  
 wszyscy, wszystkie, wszystko; każdy - pan  
@@ -3405,7 +3403,7 @@ wzrost - raste
 wzywać (wezwać, dodawać, dodać) - fa zai  
 wóz, wózek - gar  
 wąchać - fa aroma  
-wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - dute  
+wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - xaki  
 wątpliwy (niewiarygodny, podejrzany) - dutebil  
 wąż - serpe  
 węgiel - karbon  
@@ -3575,6 +3573,7 @@ znak, sygnał - sin
 znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureka  
 znowu (ponownie) - a ri  
+znowu (ponownie) - ri  
 znudzony - bori di  
 zombie, zombi - zombi  
 zoo (ogród zoologiczny) - hevan bagi  

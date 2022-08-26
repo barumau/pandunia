@@ -3,6 +3,7 @@
 ## A  
 
 a - em  
+a dura de - durante  
 a ke - onde  
 a lin - online  
 a vo - aí (lá)  
@@ -166,7 +167,7 @@ be ais - gelar
 be biomute - fermentar  
 be boi - nadar (flutuar)  
 be bum - explodir  
-be dur - durar  
+be dura - durar  
 be fobi - temer  
 be hogo - queimarse  
 be in - entrar  
@@ -360,9 +361,9 @@ dudu - inseto
 dugu - ler  
 duna - duna (бархан)  
 dunia - mundo  
-dur - duração  
-dur di - crónico  
-dur metre gi - cronómetro  
+dura - duração  
+dura di - crónico  
+dura metre gi - cronómetro  
 dus jen - inimigo  
 dus vide - feio  
 • posprodute - pós-produção  
@@ -956,8 +957,8 @@ loge buku - diário de bordo
 loka - lugar (local)  
 loka di - local  
 long - longo  
-long dur - por muito tempo  
-long dur di - prolongado  
+long dura - por muito tempo  
+long dura di - prolongado  
 long kata - romance  
 long krokodil - crocodilo  
 long tire - estirar  
@@ -1319,11 +1320,8 @@ rakun - guaxinim (rato-lavadeiro)
 rang - cor  
 rang arka salmon - truta-arco-íris  
 rapide - rápido  
-rare - raro  
 rasa - raça  
 ratibu - ordem  
-re - repetição  
-resikle - reciclar  
 Ren - Reno  
 ren yum - rénio  
 rentegen yum - roentgênio  
@@ -1421,6 +1419,7 @@ si - ser (estar)
 siborge yum - seabórgio  
 sifa loga - adjetivo  
 sigar - cigarro  
+resikle - reciclar  
 sikle ja - ciclista  
 silis - silício  
 silke - seda  
@@ -1540,6 +1539,7 @@ tuzi - coelho (lebre)
 uma bici - chibata  
 un - um (1)  
 un di - único (só)  
+undura - analógico  
 un mar - uma vez  
 un ta liga - união  
 un verse di - universal  
@@ -1608,6 +1608,7 @@ vutu - item
 
 xah geme - xadrez  
 xah mata - xeque-mate  
+xaki - dúvida  
 xalke - escama  
 xam - noitinha  
 xampan - Champagne  
@@ -1695,7 +1696,6 @@ zinke - zinco
 zira - cominho  
 zirkon yum - zircónio  
 zoku - ainda  
-zoku di - analógico  
 zombi - zumbi  
 zona - zona  
 zuku - etnia  

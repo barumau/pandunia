@@ -177,7 +177,7 @@ baze xulakan - семилетка
 be biomute - заквасить  
 be boi - плавать  
 be bum - взрываться  
-be dur - длиться  
+be dura - длиться  
 be fatige - устать  
 be fobi - бояться (страшиться)  
 be in bum - взрываться вовнутрь  
@@ -399,10 +399,10 @@ dudu - насекомое
 dugu - читать  
 duna - дюна  
 dunia - мир (свет)  
-durbil - долговечный  
-dur di - хронический  
-dur metre gi - секундомер  
-dur zaman - период (эпоха)  
+durabil - долговечный  
+dura di - хронический  
+dura metre gi - секундомер  
+dura zaman - период (эпоха)  
 dus jen - враг (противник)  
 dus sin di - зловещий  
 dus vide - безобразный (некрасивый)  
@@ -1029,8 +1029,8 @@ loge buku - судовой журнал
 logi safar ja - исследователь  
 loka - место  
 loka nume - координаты  
-long dur - долго  
-long dur di - долгий (длительный)  
+long dura - долго  
+long dura di - долгий (длительный)  
 long kata - роман  
 long pipre - перец длинный  
 long tire - вытянуть  
@@ -1408,13 +1408,10 @@ rakun - енот
 rang arka - радуга  
 rang arka salmon - микижа (камчатская сёмга)  
 rapide - быстрый  
-rare - редкий (разбро́санный)  
 rasa - раса  
 rasa medi - межрасовый  
 ratibu - установка  
-ratibu di - организованный (порядок)  
-re - повторение  
-resikle - рециркулировать  
+ratibu li - организованный (порядок)  
 Ren - Рейн  
 ren yum - рений  
 rentegen yum - рентгений  
@@ -1529,6 +1526,7 @@ siborge yum - сиборгий
 side loka - сиденье (седло)  
 sifa loga - прилагательное  
 sigar - сигарета (папироса, сигарка)  
+resikle - рециркулировать  
 sikle ja - велосипедист  
 silis - кремний  
 silke - шёлк  
@@ -1757,6 +1755,7 @@ vutu - статья (предмет)
 ## X  
 
 xah mata - шах и мат  
+xaki - сомнение  
 xalke - чешуя  
 xam - вечер  
 xaman - шаман  

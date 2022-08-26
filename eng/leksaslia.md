@@ -78,7 +78,8 @@
 **axa** *hope (wish)* ← Hindi:आशा (āśā), Malay:Filipino:asa, Telugu:ఆశ (āśa), Tamil:ஆசை (āsai)  
 **axe** *axis (axle)* ← English:axis, French:axe, Hindi:अक्ष (akṣ), Turkish:eksen  
 **Axur dexa** *Assyria* ← akk:(aššur), Arabic:(aššur), Hindi:अश्शूर (aśśūr), Persian:(āšūr), English:Assyria, French:Assyrie, Spanish:Asiria, Portuguese:Assíria, Russian:Ассирия (Assiriya), Mandarin:亚述 (Yàshù)  
-**ayo** *ouch (expressing pain, distress, shock and fear)* ← French:aïe, Spanish:ay, Portuguese:ai, Russian:ай (ay), Mandarin:哎哟 (āiyō), Korean:아야 (aya), Telugu:అయ్యో (ayyō), Tamil:ஐயோ (aiyō)  
+**aya** *maid (nanny, ayah)* ← Portuguese:aia, Hindi:आया (āyā), Telugu:ఆయా (āyā) + Mandarin:阿姨 (āyí)  
+**ayo** *ouch (expressing pain, distress, shock and fear)* ← French:aïe, Spanish:ay, Portuguese:ai, Russian:ай (ay), Persian: آی‎ (ây), Mandarin:哎哟 (āiyō), Korean:아야 (aya), Telugu:అయ్యో (ayyō), Tamil:ஐயோ (aiyō)  
 **babu** *chapter (section)* ← Arabic:Persian:Urdu: بَاب‎ (bāb), Malay:bab, Swahili:babu  
 **babuce** *slipper* ← Arabic: بَابُوج‎ (bābūj), Spanish:babucha, French:babouche, English:babouche  
 **babul** *thorn tree (acacia, wattle)* ← Hindi:बबूल (babūl), Bengali:বাবলা (bābalā), English:babul  
@@ -315,9 +316,8 @@
 **duman** *smoke* ← Hindi:धूआँ (dhuã), Turkish:duman, Russian:дым (dym), Kannada:(dhūma), Bengali:ধোঁয়া (dhõẇa)  
 **duna** *dune* ← English:French:dune, Spanish:Portuguese:duna, Russian:дюна (diuna) + Vietnamese:đụn, Korean:둔(덕) (dun(deok))  
 **dunia** *world* ← Arabic: دُنْيَا‎ (dunyā), Hindi:दुनिया (duniyā), Bengali:দুনিয়া (duniya), Malay:Swahili:dunia, Turkish:dünya, Persian: دنیا (donya), Urdu: دنیا (duniyā), Hausa:duniya  
-**dur** *duration (time interval)* ← English:duration, French:durée, Spanish:Portuguese:durar + Bengali:ধরে (dhôre), Hindi:दौरान (daurān)  
+**dura** *duration (time interval)* ← English:duration, French:durée, Spanish:Portuguese:durar + Arabic: دَوْرَة (dawra), Persian: دُوره (dowre), Bengali:ধরে (dhôre), Hindi:दौरान (daurān)  
 **dus** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
-**dute** *doubt (disbelief)* ← French:doute, English:doubt, Spanish:Filipino:duda  
 **dux** *shower* ← French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş  
 **e** *and* ← French:et, Portuguese:e, Spanish:y;e, Mandarin:和 (hé)  
 **eglisa** *church* ← English:ecclesia-, French:église, Spanish:iglesia, Portuguese:igreja, Hindi:गिरजा (girjā), Malay:gereja, Arabic:(kanisā), Swahili:kanisa, Turkish:kilise  
@@ -844,6 +844,7 @@
 **letre** *letter (written message)* ← English:letter, French:lettre, Hindi:लेटर (leṭar), Japanese:ター (retā)  
 **letus** *lettuce* ← English:lettuce, Japanese:レタス (retasu), Hausa:latas, Hindi:लेटिष (leṭiṣ), Bengali:লেটুস (leṭus), French:laitue  
 **leu** *left* ← Latin:laevus, English:left; levo-, French:lévo-, Spanish:Portuguese:levo-, Russian:левый (levyy), Polish:lewy  
+**li** *like or characteristic of the previous word (-like, -ly, -al)* ← English:-al; -ly, Spanish:Portuguese:-al + Turkish:-li; -lı; -lu; -lü  
 **liama** *llama* ← English:Spanish:Malay:llama, Portuguese:lhama, Russian:лама (lama), Turkish:Swahili:lama, Arabic:لاما (lama), Hindi:लामा (lāma), Japanese:ラマ (rama)  
 **libele** *dragonfly* ← Spanish:Portuguese:libélula, French:libellule, deu:Libelle  
 **lici** *lychee (litchi)* ← Mandarin:荔枝 (lìzhī), Hindi:लीची (līcī), English:lychee, Russian:личи (liči), Malay:leci, Vietnamese:lệ chi  
@@ -1016,7 +1017,7 @@
 **muzika** *music* ← English:music, French:musique, Spanish:Portuguese:música, Russian:музика (muzika), Arabic:(mūsīqā), Swahili:muziki, Turkish:müzik, Malay:musik  
 **na** *get (obtain, take, grasp, receive)* ← Mandarin:拿 (ná), Cantonese:拿 (naa4) + deu:nehmen  
 **nabi ja** *prophet* ← Arabic:(nabiy), Hindi:नबी (nabī), Malay:nabi, Swahili:nabii, Hausa:annabi, Turkish:nebi  
-**nadir** *rare (scarce, uncommon)* ← Arabic: نَادِر‎ (nādir), Hindi:नादिर (nādir), Swahili:nadra, Turkish:nadir, Persian: نادر (nâder)  
+**nadir** *rare (scarce, sparse, uncommon)* ← Arabic: نَادِر‎ (nādir), Hindi:नादिर (nādir), Swahili:nadra, Turkish:nadir, Persian: نادر (nâder)  
 **nafas** *breath* ← Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi  
 **nagar** *town* ← Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Kannada:ನಗರ (nagara), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon)  
 **nahun** *nail (fingernail)* ← Persian:ناخن‎ (nâxon), Hindi:नाख़ुन m (nāxun), Bengali:নখ (nôkh), pan:नख (nakh), Russian:нога́ (nogá)  
@@ -1230,10 +1231,9 @@
 **rande** *plane (tool for making a smooth surface)* ← Turkish:rende, bul:ренде (rende), ron:rindea, Hindi:रंदा, (randâ), Persian:(rande), Swahili:(randa)  
 **rang** *color (colored)* ← Bengali:রং (rông), Hindi:रंग (raṅg), Urdu:(raṅg), Persian:(rang), Telugu:రంగు (raṅgu), Swahili:rangi, Lingala:lángi, Turkish:renk  
 **rapide** *fast (quick, rapid, speedy)* ← Spanish:Portuguese:rápido, English:rapid, French:rapide  
-**rare** *rare (uncommon, sparse)* ← English:French:rare, Spanish:Portuguese:raro, Japanese:レア (rea)  
 **rasa** *race (breed)* ← English:French:race, Spanish:raza, Portuguese:raça, Russian:раса (rasa), Malay:ras  
 **razon** *reason (rational thinking)* ← English:reason, Spanish:razón, Portuguese:razão, French:raison Russian:разум (razum)  
-**re** *repetition* ← English:French:Portuguese:Spanish:re-, Russian:ре- (re-)  
+**re** *back (return it to previous place)* ← English:French:Spanish:Portuguese:re-, Russian:ретро- (retro-), Japanese:レトロ (retoro) + Arabic: رَدَّ (radda)  
 **rebel** *rebellion* ← English:rebel, Spanish:Portuguese:rebelde French:rebelle  
 **redi** *ready (prepared)* ← English:ready, deu:bereit, French:prêt, mao:reri  
 **ren yum** *rhenium* ← English:rhenium, French:rhénium, Spanish:renio, Portuguese:rénio, Russian:рений, Mandarin:铼 (lái), Japanese:レニウム, Korean:레늄, Vietnamese:reni, Hindi:रेनियम, Bengali:রেনিয়াম, Malay:renium, Swahili:reni, Arabic: رنيوم  
@@ -1243,9 +1243,9 @@
 **reside** *receipt (acknowledgement)* ← Persian:(resid), Hindi:रसीद (rasīd), Urdu:(rasīd), Gujarati:રસીદ (rasīd), Telugu:రసీదు (rasīdu), + English:receipt, Swahili:resiti, Malay:resit  
 **reste** *rest (remainder)* ← French:reste, English:deu:Rest, Polish:reszta, Spanish:Portuguese:resto  
 **restoran** *restaurant* ← English:French:restaurant, Spanish:Portuguese:restaurante, Russian:ресторан (restoran), Turkish:Malay:restoran, Hindi:रेस्तरां (restarā̃), Bengali:রেস্টুরেন্ট (reśṭurenṭ), Japanese:レストラン (resutoran)  
-**retro** *backward (in reverse)* ← English:Spanish:Portuguese:retro-, French:rétro-, Russian:ретро- (retro-), Japanese:レトロ (retoro)  
 **rezerve** *reservation (booking, withholding)* ← English:reservation, French:réservation, Portuguese:Spanish:reserva, Turkish:rezerve, Russian:резервирование (rezervirovaniye)  
 **rezin** *resin* ← English:resin, French:résine, Persian:(rezin), Portuguese:Spanish:resina, Turkish:reçine  
+**ri** *again (repeatedly)* ← English:French:Portuguese:Spanish:re-, Italian:ri-, Russian:ре- (re-)  
 **rike** *rich* ← deu:reich, English:rich, French:riche, Portuguese:Spanish:rico  
 **rim** *rhyme (verse)* ← Spanish:Portuguese:rima, French:rime, English:rhyme, Polish:rym, deu:Reim  
 **ring** *ring* ← English:French:Spanish:Malay:ring, Portuguese:ringue, Russian:ринг (ring), Hindi:रिंग (rĩg), Japanese:リング (ringu), Korean:링 (ring)  
@@ -1547,8 +1547,9 @@
 **vulva** *vulva* ← French:vulve, English:Portuguese:Spanish:Turkish:vulva, Russian:вульва (vul’va)  
 **vutu** *object (item, thing)* ← Mandarin:物 (wù), Wu-Chinese:物 (veq5), Japanese:物 (butsu), Vietnamese:vật + Hindi:Marathi:वस्तु (vastu), Bengali:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), Thai:วัสดุ (wạttu)  
 **xa** *auxiliary verb that marks future tense (will, shall)* ← English:shall + Arabic:(sa-) + Vietnamese:sẽ + sve:ska  
-**xaka** *branch (bough)* ← Bengali:শাখা (śakha), Hindi:शाखा (śākhā), Urdu:(śāx), Persian:(šax)  
+**xaka** *branch (bough, limb, arm)* ← Persian: شاخه (šâxe), Hindi:शाखा (śākhā), Bengali:শাখা (śakha), Tamil:சாகை (sākai), Telugu:శాఖ (śākha), Khmer:សាខា (saakhaa), Thai:สาขา (sǎa-kǎa)  
 **xakal** *jackal* ← Persian:شغال‎ (šağâl), English:jackal, Spanish:Portuguese:chacal, Russian:шака́л (šakál), Turkish:çakal, Bengali:শৃগাল (śrigal), Malay:jakal, Thai:แจ็กคัล (jɛ̀k-kal), Japanese:ジャッカル (jakkaru)  
+**xaki** *doubt (suspect; suspicion)* ← Arabic: شَكَّ‎ (šakka), Persian: شک‎ (šak), Hindi:शक (śak); शंका (śankā), Malay:syak, Turkish:şek, Swahili:shaka; -shuku, Hausa:shakka  
 **xal** *scarf (shawl)* ← French:châle, Russian:шаль (šal), Portuguese:xaile, English:shawl, Turkish:şal  
 **xalke** *scale (flake)* ← English:scale, French:échelle, Hindi:शल्क (shalka)  
 **xam** *evening* ← Hindi:शाम (śām), Bengali:শাম (śam), Turkish:akşam  
