@@ -1015,7 +1015,7 @@
 **muxu** *mouse or rat* ← Russian:мышь (myś), Polish:mysz, Persian: موش‎ (muš) + Mandarin:鼠 (shǔ)  
 **muzika** *music* ← English:music, French:musique, Spanish:Portuguese:música, Russian:музика (muzika), Arabic:(mūsīqā), Swahili:muziki, Turkish:müzik, Malay:musik  
 **na** *get (obtain, take, grasp, receive)* ← Mandarin:拿 (ná), Cantonese:拿 (naa4) + deu:nehmen  
-**nabi ja** *prophet* ← Arabic:(nabiy), Hindi:नबी (nabī), Malay:nabi, Swahili:nabii, Hausa:annabi, Turkish:nebi  
+**nabi** *prophecy (prophesy, prophetize)* ← Arabic: نَبِيّ‎ (nabiy), Persian: نبی‎ (nabi), Hindi:नबी (nabī), Bengali:নবী (nôbi), Malay:nabi, Turkish:nebi, Swahili:nabii, Fulani:Hausa:annabi, Amharic:ነቢይ (näbiy), som:nebi  
 **nadir** *rare (scarce, sparse, uncommon)* ← Arabic: نَادِر‎ (nādir), Hindi:नादिर (nādir), Swahili:nadra, Turkish:nadir, Persian: نادر (nâder)  
 **nafas** *breath* ← Arabic:Persian:(nafas), Malay:napas, Turkish:nefes, Hausa:numfashi  
 **nagar** *town* ← Hindi:नगर (nagar), Bengali:নগর (nôgôr), Telugu:నగరము (nagaramu), Kannada:ನಗರ (nagara), Tamil:நகரம் (nakaram), Khmer:អង្គរ (ʾɑngkɔɔ), Thai:นคร (na-khon)  

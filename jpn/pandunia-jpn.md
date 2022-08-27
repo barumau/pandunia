@@ -1093,6 +1093,7 @@ muzika - 音楽
 
 na - 受ける (もらう)  
 na xiti - 得失  
+nabija - 預言者  
 nadir - 稀 (疎ら)  
 najis - 汚れ (汚染)  
 najis bindu - 染み (汚点)  

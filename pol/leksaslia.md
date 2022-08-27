@@ -1015,7 +1015,7 @@
 **muxu** *mysz* ← rus:мышь (myś), pol:mysz, fas: موش‎ (muš) + zho:鼠 (shǔ)  
 **muzika** *muzyka* ← eng:music, fra:musique, spa:por:música, rus:музика (muzika), ara:(mūsīqā), swa:muziki, tur:müzik, may:musik  
 **na** *dostać, dostawać, otrzymać, otrzymywać, wziąć, brać* ← zho:拿 (ná), yue:拿 (naa4) + deu:nehmen  
-**nabi ja** *prorok* ← ara:(nabiy), hin:नबी (nabī), may:nabi, swa:nabii, hau:annabi, tur:nebi  
+**nabi** *proroctwo* ← ara: نَبِيّ‎ (nabiy), fas: نبی‎ (nabi), hin:नबी (nabī), ben:নবী (nôbi), may:nabi, tur:nebi, swa:nabii, ful:hau:annabi, amh:ነቢይ (näbiy), som:nebi  
 **nadir** ** ← ara: نَادِر‎ (nādir), hin:नादिर (nādir), swa:nadra, tur:nadir, fas: نادر (nâder)  
 **nafas** *oddech* ← ara:fas:(nafas), may:napas, tur:nefes, hau:numfashi  
 **nagar** *miasto* ← hin:नगर (nagar), ben:নগর (nôgôr), tel:నగరము (nagaramu), kan:ನಗರ (nagara), tam:நகரம் (nakaram), khm:អង្គរ (ʾɑngkɔɔ), tha:นคร (na-khon)  

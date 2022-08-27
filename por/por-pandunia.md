@@ -1279,6 +1279,8 @@ processamento de dados - data culi
 processamento de imagem - grafi culi  
 processo - culi  
 professor (docente) - xula guru  
+profeta (arauto) - nabija  
+profetizar - nabi  
 profissão - pei gong  
 profundo - fase tele  
 programa - program  

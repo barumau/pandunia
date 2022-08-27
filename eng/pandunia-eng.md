@@ -2939,8 +2939,8 @@ muzika ja - musician
 na - get (obtain, take, grasp, receive)  
 na ja - getter (receiver, recipient)  
 na xiti - gains and losses (pros and cons)  
-nabi - prophecy  
-nabi ja - prophet  
+nabi - prophecy (prophesy, prophetize)  
+nabija - prophet (harbinger, herald)  
 nadir - rare (scarce, sparse, uncommon)  
 nadir mar - seldom (rarely)  
 nadirta - rarity  

@@ -2270,6 +2270,7 @@ nykyinen (tämänhetkinen) - zai zaman di
 nyrkkeilijä - bocer  
 nyrkkeily - boce  
 nähdä - vide  
+näky (profetia) - nabi  
 näkymä - vide xe  
 näkyä - be vide  
 näkökenttä - vide medan  
@@ -2667,10 +2668,9 @@ potkuri (propelli) - propeler
 povi - buste  
 praseodyymi - prazedim yum  
 presidentti - prezidente  
-profeetta - nabi ja  
+profeetta (airut, viestintuoja) - nabija  
 profeetta Mani - Mani  
 professori - profesor  
-profetia - nabi  
 projektio (diakuva) - lanse grafi  
 projektori (videotykki, piirtoheitin) - grafi lanse gi  
 projektori (videotykki, piirtoheitin) - grafi projeter  

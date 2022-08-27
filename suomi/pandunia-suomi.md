@@ -2697,8 +2697,8 @@ muzika ja - muusikko
 na - saada (ottaa, ottaa vastaan)  
 na ja - saaja (vastaanottaja)  
 na xiti - voitot ja tappiot  
-nabi - profetia  
-nabi ja - profeetta  
+nabi - näky (profetia)  
+nabija - profeetta (airut, viestintuoja)  
 nadir - harvinainen  
 nadir mar - harvoin  
 nafas - hengitys (henkäys)  

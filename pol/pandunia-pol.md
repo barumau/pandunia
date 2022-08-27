@@ -2364,7 +2364,7 @@ muzika ja - muzyk
 na - dostać, dostawać, otrzymać, otrzymywać, wziąć, brać  
 na ja - odbiorca  
 nabi - proroctwo  
-nabi ja - prorok  
+nabija - prorok  
 nadir mar - rzadko  
 nadirta - rzadkość  
 nafas - oddech  

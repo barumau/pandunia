@@ -2319,7 +2319,7 @@ promieniować - fa radi
 promień - radi  
 promień światła - foto radi  
 proroctwo - nabi  
-prorok - nabi ja  
+prorok - nabija  
 prorok Mani - Mani  
 prosić - cing  
 prostopadły - orto gona di  

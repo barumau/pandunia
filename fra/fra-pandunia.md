@@ -1469,6 +1469,8 @@ prolongé - long dura di
 promettre - fa vode  
 prométhium - promete yum  
 Prométhée - Promete  
+prophète (héraut) - nabija  
+prophétiser - nabi  
 propice - bon sin di  
 propriété (possession, bien) - mal  
 protactinium - protacini yum  

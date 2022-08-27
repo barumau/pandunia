@@ -1086,6 +1086,8 @@ muzika - música
 ## N  
 
 na - ter (achar, receber)  
+nabi - profetizar  
+nabija - profeta (arauto)  
 nadir - raro  
 nadir mar - raramente  
 najis - poluição  

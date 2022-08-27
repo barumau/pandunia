@@ -1015,7 +1015,7 @@
 **muxu** *muso aŭ rato* ← rusa:мышь (myś), polona:mysz, persa: موش‎ (muš) + mandarena:鼠 (shǔ)  
 **muzika** *muziko* ← angla:music, franca:musique, hispana:portugala:música, rusa:музика (muzika), araba:(mūsīqā), svahila:muziki, turka:müzik, malaja:musik  
 **na** ** ← mandarena:拿 (ná), kantona:拿 (naa4) + deu:nehmen  
-**nabi ja** ** ← araba:(nabiy), hindia:नबी (nabī), malaja:nabi, svahila:nabii, haŭsa:annabi, turka:nebi  
+**nabi** *profetumi* ← araba: نَبِيّ‎ (nabiy), persa: نبی‎ (nabi), hindia:नबी (nabī), bengala:নবী (nôbi), malaja:nabi, turka:nebi, svahila:nabii, fula:haŭsa:annabi, amhara:ነቢይ (näbiy), som:nebi  
 **nadir** *malofta* ← araba: نَادِر‎ (nādir), hindia:नादिर (nādir), svahila:nadra, turka:nadir, persa: نادر (nâder)  
 **nafas** *spiro* ← araba:persa:(nafas), malaja:napas, turka:nefes, haŭsa:numfashi  
 **nagar** *urbo* ← hindia:नगर (nagar), bengala:নগর (nôgôr), teluga:నగరము (nagaramu), kanara:ನಗರ (nagara), tamila:நகரம் (nakaram), kmera:អង្គរ (ʾɑngkɔɔ), taja:นคร (na-khon)  

@@ -1015,7 +1015,7 @@
 **muxu** *hiiri tai rotta* ← venäjä:мышь (myś), puola:mysz, persia: موش‎ (muš) + yleiskiina:鼠 (shǔ)  
 **muzika** *musiikki* ← englanti:music, ranska:musique, espanja:portugali:música, venäjä:музика (muzika), arabia:(mūsīqā), suahili:muziki, turkki:müzik, malaiji:musik  
 **na** *saada (ottaa, ottaa vastaan)* ← yleiskiina:拿 (ná), kantoninkiina:拿 (naa4) + deu:nehmen  
-**nabi ja** *profeetta* ← arabia:(nabiy), hindi:नबी (nabī), malaiji:nabi, suahili:nabii, hausa:annabi, turkki:nebi  
+**nabi** *näky (profetia)* ← arabia: نَبِيّ‎ (nabiy), persia: نبی‎ (nabi), hindi:नबी (nabī), bangla:নবী (nôbi), malaiji:nabi, turkki:nebi, suahili:nabii, fulani:hausa:annabi, amhara:ነቢይ (näbiy), som:nebi  
 **nadir** *harvinainen* ← arabia: نَادِر‎ (nādir), hindi:नादिर (nādir), suahili:nadra, turkki:nadir, persia: نادر (nâder)  
 **nafas** *hengitys (henkäys)* ← arabia:persia:(nafas), malaiji:napas, turkki:nefes, hausa:numfashi  
 **nagar** *kaupunki* ← hindi:नगर (nagar), bangla:নগর (nôgôr), telugu:నగరము (nagaramu), kannada:ನಗರ (nagara), tamili:நகரம் (nakaram), khmer:អង្គរ (ʾɑngkɔɔ), thai:นคร (na-khon)  

@@ -3255,8 +3255,8 @@ proof (evidence, proof, demonstration, testimony) - dalil
 propel (drive forward) - propele  
 propeller - propeler  
 property (belongings, possessions) - mal  
-prophecy - nabi  
-prophet - nabi ja  
+prophecy (prophesy, prophetize) - nabi  
+prophet (harbinger, herald) - nabija  
 prophet Mani - Mani  
 protactinium - protacini yum  
 protect (secure, save) - fa sekur  

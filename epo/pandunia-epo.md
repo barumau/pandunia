@@ -1375,7 +1375,8 @@ muzika ja - muzikisto
 
 ## N  
 
-nabi - profetaĵo  
+nabi - profetumi  
+nabija - profeto  
 nadir - malofta  
 nadir mar - malofte  
 nafas - spiro  

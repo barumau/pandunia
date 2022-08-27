@@ -1282,6 +1282,8 @@ muzika - musique
 
 ## N  
 
+nabi - prophétiser  
+nabija - prophète (héraut)  
 nadir - rare  
 nadir mar - rarement  
 najis - pollution  

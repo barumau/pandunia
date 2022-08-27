@@ -1048,6 +1048,7 @@ muzika - 音乐
 
 na - 拿 (得, 获得)  
 na xiti - 得失  
+nabija - 预言家  
 nadir - 稀有 (稀少的)  
 nadir mar - 很少  
 najis - 污染物  

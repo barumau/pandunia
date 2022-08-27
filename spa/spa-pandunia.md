@@ -3080,11 +3080,11 @@ procesamiento de imágenes - grafi culi
 proceso (procedimiento) - culi  
 producción - sana  
 producir (hacer, preparar) - fa sana  
-profecía - nabi  
+profecía (profetizar) - nabi  
 profesional (de carrera) - pei gong di  
 profesión (ocupación) - pei gong  
 profesor - profesor  
-profeta - nabi ja  
+profeta (heraldo) - nabija  
 profeta Mani - Mani  
 profundo (hondo) - fase tele  
 programa - program  

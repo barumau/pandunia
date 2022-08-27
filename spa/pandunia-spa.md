@@ -2563,8 +2563,8 @@ muzika ja - músico
 
 na - conseguir (obtener, ganar)  
 na ja - engendrador  
-nabi - profecía  
-nabi ja - profeta  
+nabi - profecía (profetizar)  
+nabija - profeta (heraldo)  
 nadir - raro  
 nadir mar - raramente  
 nafas - respiración  
