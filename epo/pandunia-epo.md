@@ -38,7 +38,7 @@ agri nomi - agronomio
 agri suta - agrikulturo  
 aha - kompreni  
 air - aero  
-air gun - aerarmeo  
+air ordu - aerarmeo  
 air porte - flughaveno  
 ais - glacio  
 ais di - glacia  
@@ -94,7 +94,6 @@ argente - arĝento
 Argentina - Argentino  
 argon - argono  
 arka cati - volbo  
-armi - armilo  
 arsen yum - arseno  
 arte fete intelige (AI) - artefarita inteligenteco  
 asal - origino  
@@ -116,6 +115,8 @@ Athina - Ateno
 • atir - aganto  
 • ativi - agema  
 atom - atomo  
+atom bomba - atombombo  
+atom kerne - atomkerno (atoma nukleo)  
 audi - aŭdi (aŭskulti)  
 auro - oro  
 Australia - Aŭstralio  
@@ -797,10 +798,6 @@ gubu - hipopotamo
 gui - ogro (trolo)  
 gul - gluti  
 guma - tamburo  
-gun - armeo  
-gun jen - soldato  
-gun jen kan - soldatejo (kazerno)  
-gun raja - ĉefgeneralo  
 guru - guruo (instruisto)  
 guste - gusto  
 guste ka - gusti kiel  
@@ -818,7 +815,7 @@ haha - ridi
 hai - maro  
 hai amir ja - admiralo (ŝiparestro)  
 hai di - mara  
-hai gun - mararmeo  
+hai ordu - mararmeo  
 hai porte - haveno  
 hai vala - maristo  
 haide - ni faru...  
@@ -1038,8 +1035,8 @@ kane kasa - kaĝo
 kane sor - riglilo  
 kangaru - kangaro  
 kanjar - ponardo  
-kano - kanuo (kanoto)  
 kanta - ŝultro  
+kanu - kanuo (kanoto)  
 kanun - lego  
 kanun vala - advokato  
 kape - kapti  
@@ -1082,9 +1079,9 @@ keka ja - vizitanto
 keke - kuko  
 kentaur - centaǔro  
 kerne - kerno (koro)  
-kerne arme - kernarmilo  
 kerne energi - kernenergio  
 kerne fizika - kernfiziko  
+kerne vuki - kernarmilo  
 kexa - haro  
 kexa broxa - saç fırçası  
 kexa hin - senhara  
@@ -1470,6 +1467,10 @@ onor - honoro (respekto)
 onor di - respektinda  
 oranje - oranĝo  
 oranje rang - oranĝa  
+ordu - armeo  
+ordu jen - soldato  
+ordu jen kan - soldatejo (kazerno)  
+ordu raja - ĉefgeneralo  
 ore - orelo  
 ore tis - otito  
 orto - rekta  
@@ -1969,10 +1970,11 @@ vise ma - vicpatrino
 vise pa - vicpatro  
 Vixnu - Viŝnuo  
 vo - tio  
-voke soni - vokalo  
+voka soni - vokalo  
 vol - voli  
 vol xe - volo  
 volfe - lupo  
+vuki - armilo  
 vulva - vulvo  
 
 ## X  
@@ -1981,6 +1983,7 @@ xa - –os
 xah geme - ŝako  
 xah mata - ŝakmato  
 xaka - branĉo  
+xakal - ŝakalo  
 xaki - dubo  
 xal - koltuko  
 xam - vespero  

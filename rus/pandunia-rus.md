@@ -27,7 +27,7 @@ agri di - аграрный
 agri nomi - агрономия  
 air - воздух  
 air bio di - аэробный  
-air gun - военно-воздушные силы  
+air ordu - военно-воздушные силы  
 air porte - аэропорт  
 ais hoki - хокке́й с ша́йбой  
 ais krem - мороженое  
@@ -82,7 +82,6 @@ argu - аргумент (обосновани)
 arka - лук (арка)  
 arka cati - свод  
 arka ja - лучник  
-armia - армия  
 aroma - запах (аромат)  
 arsen yum - мышьяк  
 arte fete - артефакт  
@@ -108,6 +107,9 @@ Athina - Афины
 • ativi - активный (деятельный)  
 atlanti bakalau - Атлантическая треска  
 atlanti salmon - Атлантический лосось (сёмга)  
+atom bomba - атомная бомба  
+atom kerne - атомное ядро  
+atom vuki - атомное оружие  
 auro - золото  
 Austronesi - Австронезия  
 auto loga - монолог  
@@ -645,10 +647,6 @@ gui papi - мак восточный
 guku hua - хризантема садовая  
 gul - глотать  
 gule - гуль (вурдалак)  
-gun - армия  
-gun jen - солдат  
-gun jen kan - казарма (барак)  
-gun raja - генералиссимус  
 guta - колено  
 guta kaska oste - надколенник  
 
@@ -665,9 +663,9 @@ hai alga - морские водоросли
 hai amir ja - адмирал  
 hai cau - морские травы  
 hai di - морской  
-hai gun - военно-морской флот  
 hai hiyar - голотурия (морские огурц)  
 hai hua - морские анемоны  
+hai ordu - военно-морской флот  
 hai vala - моряк  
 hal - состояние (статус)  
 hali - пустой  
@@ -845,9 +843,9 @@ kane minte - мята колоси́стая
 kane sor - щеколда  
 kangaru - кенгуру  
 kanjar - кинжал  
-kano - каноэ  
 kantalupo melon - канталупа  
 Kantalupo va Sabina - Канталупо-ин-Сабина  
+kanu - каноэ  
 kanyon - овраг (ущелье, каньон)  
 kape truke - ловушка  
 kar - работать  
@@ -888,6 +886,8 @@ ke yang - какой
 Keme - Древний Египет  
 kentaur - кентавр  
 kentaur hua - василёк  
+kerne - ядро  
+kerne vuki - ядерное оружие  
 kexa broxa - щётка для воло́с  
 kexa hin - безволосый  
 ki - что  
@@ -1085,7 +1085,7 @@ mau - кошка
 max fili - предпочитать  
 max fili di - любимый  
 max fili sim - фаворитизм (кумовство)  
-max gun - пополнение  
+max ordu - пополнение  
 maxim xe - максимум  
 mayur - павлин (пава)  
 maze - носок  
@@ -1248,6 +1248,10 @@ ohtopus - спрут (осьминог)
 onor - честь  
 oranje - апельсин  
 oranje rang - оранжевый  
+ordu - армия  
+ordu jen - солдат  
+ordu jen kan - казарма (барак)  
+ordu raja - генералиссимус  
 ore tis - отит  
 orkide - орхидея  
 orto - прямой  
@@ -1746,15 +1750,18 @@ Vixnu - Вишну
 viza - виза  
 vo - тот  
 vode - клятва (присяга, обет)  
-voke soni - гласный  
+voka soni - гласный  
 vol - хотеть  
 volfram - вольфрам  
+vuki - оружие  
+vuki ordu - армия  
 vulva - вульва  
 vutu - статья (предмет)  
 
 ## X  
 
 xah mata - шах и мат  
+xakal - шакал  
 xaki - сомнение  
 xalke - чешуя  
 xam - вечер  

@@ -91,7 +91,7 @@ aha - oivaltaa (tajuta)
 air - ilma  
 air bio di - aerobinen  
 • anair bio di - anaerobinen  
-air gun - ilmavoimat  
+air ordu - ilmavoimat  
 air porte - lentoasema (lentokenttä)  
 air prese - ilmanpaine  
 air prese metre gi - ilmapuntari (ilmanpainemittari, barometri)  
@@ -197,8 +197,6 @@ arka - kaari
 arka cati - holvikatto  
 arka ja - jousiampuja  
 arka suta - jousiammunta  
-armia - asevoimat (armeija)  
-armi - ase  
 aroma - haju  
 arsen yum - arseeni  
 arte baxa - taidekieli  
@@ -239,6 +237,9 @@ Athina - Ateena
 atlanti bakalau - atlantinturska  
 Atlanti Hai - Atlantin valtameri  
 atom - atomi  
+atom bomba - atomipommi  
+atom kerne - atomiydin  
+atom vuki - atomiase  
 audi - kuulla (kuunnella)  
 auro - kulta  
 Australia - Australia  
@@ -1540,13 +1541,13 @@ geo dou - maapähkinä
 geo elfe - maahinen  
 geo forme - maasto (maan muodot)  
 geo grafi - maantiede  
-geo gun - maavoimat  
 geo kaska plate - mannerlaatta  
 geo logi - geologia (maaperäntutkimus)  
 Geo Medi Hai - Välimeri  
 geo metre - geometria  
 geo nice di - maanalainen  
 geo nice jela - vankityrmä  
+geo ordu - maavoimat  
 geo par lin - päiväntasaaja  
 Geo Par Lin Ginia - Päiväntasaajan Guinea  
 geo politi - geopolitiikka  
@@ -1624,11 +1625,6 @@ gujarati - gujarati (eräs intialainen kieli)
 gul - niellä  
 gule - ghouli  
 guma - rumpu  
-gun - armeija (sotajoukko)  
-gun jen - sotilas  
-gun jen kan - kasarmi  
-gun raja - sotaherra (generalissimo)  
-gun raja dexa - sotaherran maa  
 guru - guru (opettaja)  
 guste - maku  
 guste ka - maistua  
@@ -1654,12 +1650,12 @@ hai alga - merilevä
 hai amir ja - amiraali  
 hai cau - meriheinä  
 hai di - meri- (merellinen)  
-hai gun - merivoimat (sotalaivasto)  
 hai hiyar - merimakkara  
 hai hua - merivuokko  
 hai jele - meduusa  
 hai kinar - merenranta  
 hai nil - merensininen  
+hai ordu - merivoimat (sotalaivasto)  
 hai porte - satama  
 hai vala - merimies  
 haide - tehkäämme  
@@ -2036,10 +2032,10 @@ kane sor - salpa (säppi)
 kanga - kampa  
 kangaru - kenguru  
 kanjar - tikari  
-kano - kanootti  
 kanon - klassikko  
 kanon di - klassinen (kanooninen)  
 kanta - olkapää (hartia)  
+kanu - kanootti  
 kanun - laki (sääntö)  
 kanun vala - lakimies (juristi)  
 kape - ottaa kiinni (napata, kaapata)  
@@ -2079,7 +2075,7 @@ Kartul - Georgia
 karuba - johanneksenleipäpuu  
 karvan - karavaani (saattue)  
 kasa - laatikko  
-kaska - kuori (suojakuori)  
+kaska - kuori (suojakuori, suoja)  
 kastana - kastanja  
 kasu - tapaus (seikka)  
 kata - kertomus (tarina, saaga)  
@@ -2110,11 +2106,11 @@ Keme - muinainen Egypti
 kentaur - kentauri  
 Kenya - Kenia  
 kerne - ydin (sydän)  
-kerne arme - ydinase  
 kerne cira - ydinfissio  
 kerne energi - ydinenergia  
 kerne fizika - ydinfysiikka  
 kerne unta - ydinfuusio  
+kerne vuki - ydinase  
 kerubi - kerubi  
 ketel - kattila  
 kexa - hius (karva, tukka, hiukset)  
@@ -2865,6 +2861,11 @@ onor - kunnioitus (arvostus)
 onor di - kunnianarvoisa  
 oranje - appelsiini  
 oranje rang - oranssi  
+ordu - armeija (sotajoukko)  
+ordu jen - sotilas  
+ordu jen kan - kasarmi  
+ordu raja - sotaherra (generalissimo)  
+ordu raja dexa - sotaherran maa  
 ore - korva  
 ore tis - korvatulehdus  
 orgazme - orgasmi  
@@ -3932,13 +3933,12 @@ viza - viisumi
 vo - tuo  
 vode - lupaus (vala)  
 vodun - voodoo  
-voke - kutsua (kuuluttaa; manata)  
-• exvoke - kutsua esiin (manata esiin)  
-• invoke - kutsua tykö  
-• provoke - kutsua esiin (peräänkuuluttaa)  
-• revoke - kutsua takaisin  
-vokabil - nimike (termi)  
-voke soni - vokaali (ääntiö)  
+voka - kutsua (kuuluttaa; manata)  
+• exvoka - kutsua esiin (manata esiin)  
+• invoka - kutsua tykö  
+• provoka - kutsua esiin (peräänkuuluttaa)  
+• revoka - kutsua takaisin  
+voka soni - vokaali (ääntiö)  
 vol - haluta  
 vol xe - halu (toive)  
 volfe - susi (hukka)  
@@ -3947,6 +3947,8 @@ Volof - wolofin kansa ja kieli
 volte - voltti (V)  
 vote - ääni (äänestyksessä)  
 vote haki - äänioikeus  
+vuki - ase  
+vuki ordu - asevoimat (armeija)  
 vulva - häpy (ulkosynnyttimet)  
 vutu - esine (tavara)  
 

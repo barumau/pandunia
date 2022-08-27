@@ -44,7 +44,7 @@ agri stan - wieś, tereny wiejskie
 agri stan di - wiejski, rustykalny  
 aha - rozumieć, pojmować  
 air - powietrze  
-air gun - siły powietrzne  
+air ordu - siły powietrzne  
 air porte - lotnisko (port lotniczy)  
 air prese - ciśnienie atmosferyczne  
 air prese metre gi - barometr  
@@ -136,7 +136,6 @@ argu - argument
 arka - łuk  
 arka ja - łucznik  
 arka suta - łucznictwo  
-armi - broń  
 aroma - zapach (aromat, smród, odór)  
 aroma melon - melon koreański  
 arsen yum - arsen  
@@ -167,6 +166,8 @@ atlanti bakalau - dorsz atlantycki
 Atlanti Hai - Ocean Atlantycki  
 atlanti salmon - łosoś atlantycki  
 atom - atom  
+atom bomba - bomba atomowa  
+atom kerne - jądro atomu  
 audi - usłyszeć, słyszeć; słuchać  
 auro - złoto  
 Australia - Australia  
@@ -1245,13 +1246,13 @@ gene yo hevan - rozmnażać
 geo - ziemia, grunt, gleba  
 geo dou - orzech ziemny  
 geo forme - teren  
-geo gun - wosko lądowe (armia)  
 geo kaska krake - uskok  
 geo kaska plate - płyta tektoniczna  
 geo logi - geologia  
 Geo Medi Hai - Morze Śródziemne  
 geo nice di - podziemny  
 geo nice jela - loch  
+geo ordu - wosko lądowe (armia)  
 geo par lin - równik  
 Geo Par Lin Ginia - Gwinea Równikowa  
 geo sismo - trzęsienie Ziemi  
@@ -1322,11 +1323,6 @@ gujarati - Gudżarat
 gul - połknąć (połykać)  
 gule - ghul  
 guma - bęben  
-gun - armia  
-gun jen - żołnierz  
-gun jen kan - koszary  
-gun raja - szogun  
-gun raja dexa - szogunat  
 guru - guru, mistrz  
 guste - smak  
 guste ka - smakować jak  
@@ -1350,12 +1346,12 @@ hai alga - wodorosty
 hai amir ja - admirał  
 hai cau - trawa mor  
 hai di - morski  
-hai gun - marynarka (flota)  
 hai hiyar - strzykwa  
 hai hua - ukwiał  
 hai jele - meduza  
 hai kinar - wybrzeże  
 hai nil - morskoniebieski  
+hai ordu - marynarka (flota)  
 hai porte - port morski (przystań)  
 haide - niech my, hajda  
 haki - prawo, przywilej  
@@ -1694,10 +1690,10 @@ kane pang - bagietka
 kanga - grzebień  
 kangaru - kangur  
 kanjar - sztylet (puginał)  
-kano - kanoe  
 kanta - bark (ramię)  
 kantalupo melon - kantalupa  
 Kantalupo va Sabina - Cantalupo in Sabina  
+kanu - kanoe  
 kanun - prawo  
 kanun vala - adwokat  
 kanyon - kanion  
@@ -1770,11 +1766,11 @@ Keme - Starożytny Egipt (Kemet)
 kentaur hua - chaber  
 Kenya - Kenia  
 kerne - rdzeń (jądro, pestka)  
-kerne arme - broń nuklearna  
 kerne cira - rozszczepienie jądra atomowego  
 kerne energi - energia nuklearna  
 kerne fizika - fizyka nuklearna  
 kerne unta - fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)  
+kerne vuki - broń nuklearna  
 kerubi - cherubin  
 ketel - czajnik  
 kexa - włos  
@@ -2167,8 +2163,8 @@ max di - dodatkowy
 max di fen - większość  
 max fili - preferować (woleć)  
 max fili di - ulubiony  
-max gun - wsparcie (wzmocnienie, zasilenie)  
 max ka bas - zbyt  
+max ordu - wsparcie (wzmocnienie, zasilenie)  
 maxim - nabardziej, maksymalnie  
 maxim di - maksymalny  
 maxim xe - maksimum  
@@ -2529,6 +2525,11 @@ onor - respekt, honor, szacunek, poważanie
 onor di - honorowy  
 oranje - pomarańcza  
 oranje rang - pomarańczowy  
+ordu - armia  
+ordu jen - żołnierz  
+ordu jen kan - koszary  
+ordu raja - szogun  
+ordu raja dexa - szogunat  
 ore - ucho  
 ore tis - zapalenie ucha  
 orgazme - orgazm  
@@ -3511,6 +3512,7 @@ Volof - wolof
 volte - wolt (V)  
 vote - głos  
 vote haki - prawo wyborcze  
+vuki - broń  
 vulva - srom  
 vutu - przedmiot (obiekt)  
 

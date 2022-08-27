@@ -4,31 +4,31 @@ bina_MkDocs() {
   cd ../..
 }
 
-muta_GitHub_dokumensanduke() {
+muta_GitHub_dokumesanduku() {
     grep -rl "edit\/master\/docs" html/$1 | xargs sed -i "s/edit\/master\/docs/edit\/master\/$1/g"
 }
 
-bina_netoloke() {
+bina_neteloka() {
     echo
-    echo bine netoloke do $1
+    echo bina neteloka to $1
     bina_MkDocs $1
-    muta_GitHub_dokumensanduke $1
+    muta_GitHub_dokumesanduku $1
 }
 
 bina_pan() {
-    bina_netoloke zho
-    bina_netoloke eng
-    bina_netoloke spa
-    bina_netoloke epo
-    bina_netoloke fra
-    bina_netoloke may
-    bina_netoloke jpn
-    bina_netoloke pandunia
-    bina_netoloke pol
-    bina_netoloke por
-    bina_netoloke rus
-    bina_netoloke suomi
-    bina_netoloke tai
+    bina_neteloka zho
+    bina_neteloka eng
+    bina_neteloka spa
+    bina_neteloka epo
+    bina_neteloka fra
+    bina_neteloka may
+    bina_neteloka jpn
+    bina_neteloka pandunia
+    bina_neteloka pol
+    bina_neteloka por
+    bina_neteloka rus
+    bina_neteloka suomi
+    bina_neteloka tai
 }
 
 bina_pan

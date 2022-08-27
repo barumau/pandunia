@@ -94,7 +94,7 @@ aha - understand (realize)
 air - air  
 air bio di - aerobic  
 • anair bio di - anaerobic  
-air gun - airforce  
+air ordu - airforce  
 air porte - airport (aeroport)  
 air prese - atmospheric pressure  
 air prese metre gi - barometer  
@@ -202,8 +202,6 @@ arka - bow (arch, arc)
 arka cati - vault (arched ceiling or roof)  
 arka ja - archer  
 arka suta - archery  
-armia - armed forces (army)  
-armi - weapon (arms)  
 aroma - scent (odor, fragrance, aroma)  
 aroma melon - Korean melon  
 arsen yum - arsenic  
@@ -249,6 +247,9 @@ atlanti bakalau - Atlantic cod
 Atlanti Hai - Atlantic Ocean  
 atlanti salmon - Atlantic salmon  
 atom - atom  
+atom bomba - atomic bomb  
+atom kerne - atomic nucleus  
+atom vuki - atomic weapon  
 audi - hear (listen)  
 auro - gold  
 Australia - Australia  
@@ -1617,7 +1618,6 @@ geo dou - peanut (groundnut)
 geo elfe - gnome  
 geo forme - terrain  
 geo grafi - geography  
-geo gun - ground force (army)  
 geo kaska krake - fault line  
 geo kaska plate - tectonic plate  
 geo logi - geology  
@@ -1625,6 +1625,7 @@ Geo Medi Hai - Mediterranean
 geo metre - geometry  
 geo nice di - underground (subterrainean)  
 geo nice jela - dungeon (underground prison)  
+geo ordu - ground force (army)  
 geo par lin - equator  
 Geo Par Lin Ginia - Equatorial Guinea  
 geo politi - geopolitics  
@@ -1709,11 +1710,6 @@ guku hua - florist's chrysanthemum
 gul - swallow  
 gule - ghoul  
 guma - drum  
-gun - army  
-gun jen - soldier  
-gun jen kan - barracks  
-gun raja - generalissimo (shogun)  
-gun raja dexa - shogunate  
 guru - guru (teacher, sage)  
 guste - taste (flavor)  
 guste ka - taste like  
@@ -1739,12 +1735,12 @@ hai alga - seaweed (macroalgae)
 hai amir ja - admiral  
 hai cau - seagrass  
 hai di - maritime  
-hai gun - sea force (navy)  
 hai hiyar - sea cucumber  
 hai hua - sea anemone  
 hai jele - jellyfish (seajelly)  
 hai kinar - shore (coast, beach)  
 hai nil - aqua (teal)  
+hai ordu - sea force (navy)  
 hai porte - harbor (seaport)  
 hai vala - sailor (seaman, mariner)  
 haide - let's  
@@ -2146,7 +2142,7 @@ kampe bede - camp bed (cot)
 kampe ja - camper  
 Kamri - Wales (Cambria)  
 kamri - Welsh  
-kan - shop (building, house, place)  
+kan - workshop (shop, building, house or place for doing something)  
 Kanada - Canada  
 kanal - ditch (canal, channel, dyke, trench)  
 kanal ja - conduit (channel)  
@@ -2162,12 +2158,12 @@ kane sor - latch
 kanga - comb  
 kangaru - kangaroo  
 kanjar - dagger  
-kano - canoe  
 kanon - classic (canon)  
 kanon di - classic (authoritative, definitive)  
 kanta - shoulder  
 kantalupo melon - cantaloupe  
 Kantalupo va Sabina - Cantalupo in Sabina  
+kanu - canoe  
 kanun - law (rule, regulation)  
 kanun vala - lawyer  
 kanyon - canyon (ravine, gorge, gully)  
@@ -2219,7 +2215,7 @@ Kartul - Georgia (Republic of Georgia)
 karuba - carob (St. John's bread)  
 karvan - caravan (convoy)  
 kasa - box (container)  
-kaska - shell (crust, carapace)  
+kaska - shell (crust, carapace, shield)  
 kastana - chestnut  
 kasu - event (case, instance)  
 kata - tale (story, legend, saga)  
@@ -2251,11 +2247,11 @@ Keme - Ancient Egypt (Kemet)
 kentaur - centaur  
 Kenya - Kenya  
 kerne - core (nucleus, kernel)  
-kerne arme - nuclear weapon (nuke)  
 kerne cira - nuclear fission  
 kerne energi - nuclear energy  
 kerne fizika - nuclear physics  
 kerne unta - nuclear fusion  
+kerne vuki - nuclear weapon (nuke)  
 kerubi - cherub  
 ketel - kettle  
 kexa - hair  
@@ -2724,8 +2720,8 @@ max di fen - majority
 max fili - prefer (favor)  
 max fili di - favorite (preferred)  
 max fili sim - favoritism  
-max gun - reinforcements  
 max ka bas - too much  
+max ordu - reinforcements  
 maxim - most (maximally)  
 maxim di - maximal  
 maxim xe - maximum  
@@ -3134,6 +3130,11 @@ onor - respect (honor, esteem)
 onor di - honorable (respectable)  
 oranje - orange (fruit)  
 oranje rang - orange (orange-colored)  
+ordu - army  
+ordu jen - soldier  
+ordu jen kan - barracks  
+ordu raja - generalissimo (shogun)  
+ordu raja dexa - shogunate  
 ore - ear  
 ore tis - otitis  
 orgazme - orgasm  
@@ -4347,13 +4348,12 @@ viza - visa
 vo - that over there  
 vode - promise (vow, oath)  
 vodun - voodoo  
-voke - call (voice; summon)  
-• exvoke - evoke (call out)  
-• invoke - invoke  
-• provoke - provoke  
-• revoke - revoke (call back)  
-vokabil - term (vocable)  
-voke soni - vowel  
+voka - call (voice; summon)  
+• exvoka - evoke (call out)  
+• invoka - invoke  
+• provoka - provoke  
+• revoka - revoke (call back)  
+voka soni - vowel  
 vol - want (desire, wish)  
 vol xe - want (desire, wish)  
 volfe - wolf  
@@ -4362,6 +4362,8 @@ Volof - Wolof (language and people)
 volte - volt (V)  
 vote - vote (ballot)  
 vote haki - franchise (right to vote)  
+vuki - weapon (arms)  
+vuki ordu - armed forces (army)  
 vulva - vulva  
 vutu - object (item, thing)  
 

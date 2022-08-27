@@ -90,7 +90,7 @@ argument, teza - tese
 arka Noego - Noe di nave  
 Arktyka - Artika  
 Armenia - Haye  
-armia - gun  
+armia - ordu  
 aromantyczny - anromanse  
 arsen - arsen yum  
 artykuł wiki - viki makala  
@@ -226,6 +226,7 @@ boks - boce
 bolesny - pasi di  
 Boliwia - Bolivia  
 bomba - bomba  
+bomba atomowa - atom bomba  
 Bombaj (Mumbaj) - Mumbai  
 bor - boron  
 boski - deu di  
@@ -239,8 +240,8 @@ Brazyla - Brazil
 broda - barde  
 brodawka - zeyil  
 brom - brom  
-broń - armi  
-broń nuklearna - kerne arme  
+broń - vuki  
+broń nuklearna - kerne vuki  
 bruk - gola seku  
 brunatnica - kafe alga  
 Brunei Darussalam - Brunei  
@@ -1030,6 +1031,7 @@ judaizm - yehudi din
 judo - judau  
 jutro - pos den  
 już (skończona czynność) - fin  
+jądro atomu - atom kerne  
 jęczmień - jau  
 język - lisan  
 język ojczysty (język rodzimy) - nati baxa  
@@ -1069,7 +1071,7 @@ kandela - kandela
 kangur - kangaru  
 kanion - kanyon  
 kannada - karnada baxa  
-kanoe - kano  
+kanoe - kanu  
 kanonier - dai pau ja  
 kantalupa - kantalupo melon  
 Kanton - Guangjou  
@@ -1226,7 +1228,7 @@ kosmos, wszechświat - kosmo
 Kosowo - Kosovo  
 Kostaryka - Kosta Rika  
 kosz - baske  
-koszary - gun jen kan  
+koszary - ordu jen kan  
 koszt, cena - koste  
 kosztować - fa koste  
 kosztowny (drogi) - koste di  
@@ -1476,7 +1478,7 @@ marmur - kalsi bilor
 Maroko - Magribi dexa  
 Mars - Marse  
 martwić - be duka  
-marynarka (flota) - hai gun  
+marynarka (flota) - hai ordu  
 marynować - acar  
 marzec - mes des un  
 marznąć (zamarznąć) - be ais  
@@ -2688,7 +2690,7 @@ Singapur - Singapur
 się (nawzajem, wzajemnie) - semon  
 siła - balata  
 siła, autorytet, władza - sultan  
-siły powietrzne - air gun  
+siły powietrzne - air ordu  
 skand - eskandi yum  
 Skandynawia - Eskandinavia  
 skarb; skrabiec - bau  
@@ -2885,8 +2887,8 @@ szkło - kanca
 szkło wulkaniczne - hogo san kanca  
 szmaragd - zumarde  
 szofer (kierowca) - xofer ja  
-szogun - gun raja  
-szogunat - gun raja dexa  
+szogun - ordu raja  
+szogunat - ordu raja dexa  
 szokwstrząs; kolizja - xoke  
 szop pracz - rakun  
 szorstki - karse  
@@ -3311,7 +3313,7 @@ wolny, niepodległy, niezależny - huru
 wolof - Volof  
 wolt (V) - volte  
 wosk - mum  
-wosko lądowe (armia) - geo gun  
+wosko lądowe (armia) - geo ordu  
 wow!, łoł!, jej! - va  
 wołowina - mumu nama  
 wprostowywać (wyprostować) - fa orto  
@@ -3326,7 +3328,7 @@ wskazać, wskazywać - ponte
 wskaźnik - ponte flece  
 wspaniały - bon sifa di  
 wspaniały, znakomity, cudowny, zdumiewający, zadziwiający, super - super  
-wsparcie (wzmocnienie, zasilenie) - max gun  
+wsparcie (wzmocnienie, zasilenie) - max ordu  
 wspinać się (wspiąć się) - fa eskale  
 wspólny (wzajemny) - kon  
 wspólny (wzajemny) - kon su  
@@ -3688,7 +3690,7 @@ zły, zrujnowany, zepsuty - harabu
 żel, galareta - jele  
 żelazo - fero  
 żeń-szeń - jenxen  
-żołnierz - gun jen  
+żołnierz - ordu jen  
 żołądź - baluta frute  
 żwir - grave  
 życie organiczne - bioxe  

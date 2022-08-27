@@ -54,7 +54,6 @@
 **argente** *silver* ← Portuguese:Italian:argento, French:argent, Malay:argentum, Swahili:agenti  
 **argon** *argon* ← English:argon, French:argon, Spanish:argón, Portuguese:argon, Russian:аргон, Japanese:アルゴン, Korean:아르곤, Vietnamese:agon, Hindi:ऑर्गन, Bengali:আর্গন, Malay:argon, Swahili:arigoni, Arabic: أرجون  
 **arka** *bow (arch, arc)* ← English:arch, Spanish:Portuguese:arco, French:arc, Russian:арка (arka), Malay:arka  
-**armi** *weapon (arms)* ← French:arme, English:arms, Spanish:Portuguese:arma + Russian:армия (armiya), Hindi:आर्मी (ārmī)  
 **aroma** *scent (odor, fragrance, aroma)* ← English:Spanish:Portuguese:Malay:aroma, French:arôme, deu:Aroma, Russian:аромат (aromat), Japanese:アロマ (aroma)  
 **arsen yum** *arsenic* ← English:arsenic, French:arsenic, Spanish:arsénico, Portuguese:arsénic, Mandarin:砷 (shēn), Vietnamese:asen, Hindi:आर्सेनिक, Bengali:আর্সেনিক, Malay:arsen, Swahili:aseniki, Arabic: زرنيخ  
 **asal** *origin (source)* ← Arabic:(ʾaṣl), Turkish:asl, Malay:asal, Hindi:असल (asl), Swahili:asili  
@@ -511,7 +510,6 @@
 **gul** *swallow* ← Bengali:গেলা (gela), Portuguese:engolir, Russian:глотать (glotat'), Thai:กลืน (glʉʉn), Spanish:deglutir, French:déglutir  
 **gule** *ghoul* ← Arabic:الغول (ghūl), Persian:غول‎ (ğul), English:Portuguese:ghoul, Spanish:gul, Russian:гуль (gul′), Turkish:kulbastı, Malay:ghul, Japanese:グール (gūru)  
 **guma** *drum* ← Swahili:ngoma, rwa:ingoma + Mandarin:鼓 (gǔ)  
-**gun** *army* ← Mandarin:军 (jūn), Cantonese:軍 (gwan1), Japanese:軍 (gun), Korean:군 (gun), Vietnamese:quân  
 **guru** *guru (teacher, sage)* ← Hindi:गुरु (guru), Bengali:গুরু (guru), Gujarati:ગુરુ (guru), Punjabi:ਗੁਰੂ (gurū), Filipino:guro, Thai:ครู (gruu), Malay:English:Portuguese:guru, Spanish:gurú, Russian:гуру (guru), French:gourou, Korean:구루 (guru), Japanese:グル (guru)  
 **guste** *taste (flavor)* ← Spanish:gusto, Portuguese:gosto, French:goût  
 **guta** *knee* ← Swahili:goti, Hindi:घुटना (ghuṭnā), Gujarati:ઘૂંટણ (ghū̃ṭaṇ), Punjabi:ਗੋਡਾ (goḍā), Marathi:गुडघा (guḍghā)  
@@ -677,7 +675,7 @@
 **kamisa** *shirt* ← Spanish:Portuguese:camisa, Arabic:(qamīṣ), Hindi:क़मीज़ (kāmīz), Malay:kemeja + Swahili:kamisi  
 **kamote** *sweet potato* ← Spanish:camote, Filipino:kamote  
 **kampe** *camp* ← English:camp, Spanish:campamento, Portuguese:acampamento, Turkish:kamp, Swahili:kambi, Hindi:कैंप (kaimp), Malay:kem, Japanese:キャンプ (kyanpu)  
-**kan** *shop (building, house, place)* ← Persian:خانه‎ (xâne), Russian:-хана (-hana), Hindi:ख़ाना (xānā), Bengali:খানা (khana), Turkish:hane + Mandarin:馆 (guǎn), Korean:관 (gwan), Japanese:館 (-kan), Vietnamese:quán  
+**kan** *workshop (shop, building, house or place for doing something)* ← Persian:خانه‎ (xâne), Russian:-хана (-hana), Hindi:ख़ाना (xānā), Bengali:খানা (khana), Turkish:hane + Mandarin:馆 (guǎn), Korean:관 (gwan), Japanese:館 (-kan), Vietnamese:quán  
 **kanal** *ditch (canal, channel, dyke, trench)* ← English:Spanish:Portuguese:French:canal, Russian:канал (kanal), Malay:kanal + Arabic: قَنَاة‎ (qanāh) + Bengali:খাল (khal)  
 **kanca** *glass* ← Hindi:काँच (kānc), Bengali:কাঁচ (kãcô), Marathi:काच (kāc), Malay:kaca, Telugu:గాజు (gāju)  
 **kandi** *candy (sweets)* ← English:candy, Hindi:कैंडी (kaiṇḍī), Bengali:ক্যান্ডি (kyanḍi), Japanese:キャンデー (kyandē), Filipino:kendi  
@@ -685,10 +683,10 @@
 **kanga** *comb* ← Hindi:कंघी (kaṅghī), Urdu:(kaṅghī), Bengali:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), Marathi:कंगवा (kaṅgvā), Punjabi:ਕੰਘਾ (kaṅghā) + English:French:Malay:kanga  
 **kangaru** *kangaroo* ← English:kangaroo, Spanish:canguro, Portuguese:canguru, Russian:кенгуру (kenguru), Turkish:kanguru, Swahili:kangaruu, Arabic:كَنْغَر‎ (kanḡar), Hindi:कंगारू (kaṅgārū), Malay:kanggaru, Japanese:カンガルー (kangarū)  
 **kanjar** *dagger* ← Persian:(xanjar), Turkish:haner, Russian:кинжал (kinžal)  
-**kano** *canoe* ← English:canoe, French:canoë, Spanish:Portuguese:canoa, Russian:каноэ (kanoe), Japanese:カヌー (kanū), Korean:카누 (kanu), Turkish:kano  
 **kanon** *classic (canon)* ← English:French:Spanish:canon, Portuguese:canone  
 **kanta** *shoulder* ← Hindi:कंधा (kandhā), Urdu:(kandhā), Bengali:কাঁধ (kandhô), + Japanese:肩 (kata), + Arabic:(kataf), + Min-Chinese:肩頭 (keng-thâu)  
 **kantalupo melon** *cantaloupe* ← English:cantaloupe, Spanish:Portuguese:cantalupo, French:cantaloup, deu:Cantaloup, Russian:канталупа (kantalupa), Japanese:カンタロープ (kantarōpu)  
+**kanu** *canoe* ← English:canoe, French:canoë, Spanish:Portuguese:canoa, Russian:каноэ (kanoe), Japanese:カヌー (kanū), Korean:카누 (kanu), Turkish:kano  
 **kanun** *law (rule, regulation)* ← Arabic:(qānūn), Turkish:kanun, Swahili:kanuni, Hindi:क़ानून (qānūn), + English:French:canon, Portuguese:cânone, Russian:канон (kanon)  
 **kanyon** *canyon (ravine, gorge, gully)* ← English:French:canyon, Spanish:cañón, Portuguese:canhão, Russian:каньон (kan’on), Polish:kanion, Japanese:キャニオン (kyanion), Hungarian:Turkish:Malay:Filipino:kanyon  
 **kape** *catch (capture, seize, snatch, intercept)* ← Turkish:kapmak, Hungarian:kap, sve:kapa, fin:kaapata, ned:kapen, Spanish:Portuguese:capturar, English:capture, spa:por:caber, Khmer:ចាប់ (cap)  
@@ -711,7 +709,7 @@
 **karuba** *carob (St. John's bread)* ← Arabic: خَرُّوب‎ (ḵarrūb), English:carob, French:caroube, Spanish:algarrobo, Portuguese:alfarroba  
 **karvan** *caravan (convoy)* ← Persian:Urdu:(kârvân), Turkish:kervan, Hindi:कारवाँ (kārvā̃), English:caravan, deu:Karawane, French:caraven, Spanish:Portuguese:caravana, Polish:karawana, Russian:караван (karavan), Filipino:karabana, Japanese:キャラバン (kyaraban), Korean:카라반 (karaban)  
 **kasa** *box (container)* ← lat:capsa, English:French:case, Portuguese:caixa, Spanish:caja, Russian:касса (kassa), Swahili:kasha, Arabic:(qafaṣ), Hindi:क़फ़स (qafas), Turkish:kafes  
-**kaska** *shell (crust, carapace)* ← Spanish:cáscara, Portuguese:casca + nan:殼 (kag4), Wu-Chinese:殼 (khoq4), Japanese:殻 (kaku)  
+**kaska** *shell (crust, carapace, shield)* ← Spanish:cáscara, Portuguese:casca + nan:殼 (kag4), Wu-Chinese:殼 (khoq4), Japanese:殻 (kaku)  
 **kastana** *chestnut* ← Spanish:castaňa, Arabic:(kastanāʾ), Turkish:kestane, Russian:каштан (kaštan)  
 **kasu** *event (case, instance)* ← English:case, French:cas, Spanish:Portuguese:caso, deu:Kasus  
 **kata** *tale (story, legend, saga)* ← Hindi:कथा (kathā), Bengali:কথা (kôtha), Tamil:கதை (katai), Telugu:కత (kata), Khmer:កថា (kaʼthaa), Filipino:katha, Malay:kata + Japanese:語る (kataru)  
@@ -729,7 +727,8 @@
 **kelele** *noise* ← Swahili:Kongo:makelele  
 **Keme** *Ancient Egypt (Kemet)* ← cop:ⲕⲏⲙⲉ (kēme)  
 **kentaur** *centaur* ← English:centaur, French:centaure, Spanish:Portuguese:centauro, Russian:кентавр (kentavr), Hindi:सेंटूर (seṇṭūr), Arabic: قَنْطُور‎ (qanṭūr), Turkish:kentaur, Swahili:kentauro, Japanese:ケンタウロス (Kentaurosu), Korean:켄타우로스 (kentauroseu)  
-**kerne** *core (nucleus, kernel)* ← English:kernel, French:coeur, Portuguese:cerne, Hindi:केंद्र (kendr)  
+**kerne vuki** *nuclear weapon (nuke)* ← English:nucleus, Spanish:Portuguese:núcleo, Malay:nuklir  
+**kerne** *core (nucleus, kernel)* ← deu:Kern, English:kernel, French:coeur, Portuguese:cerne + Hindi:केंद्र (kendr), Bengali:কেন্দ্ৰ (kendrô), Tamil:கேந்திரம் (kēntiram)  
 **kerubi** *cherub* ← heb:כְּרוּב‎ (kerúv), English:cherub, Spanish:querubín, Portuguese:querubim, French:chérubin, Russian:херувим (heruvim), Swahili:kerubi, Malay:kerub, Mandarin:基路伯 (jīlùbó)  
 **ketel** *kettle* ← English:kettle, Russian:котёл (kot’ol), Hindi:केतली (ketlī), Bengali:কেতলি (ketli), Malay:ketel  
 **kexa** *hair* ← Japanese:毛 (ke), Hindi:केश (keś), Urdu:(keś), Punjabi:ਕੇਸ਼ (keś), Telugu:(kēśamu), Kannada:(kēśa)  
@@ -1083,6 +1082,7 @@
 **onda** *wave* ← Spanish:Portuguese:Italian:onda, French:onde, Malay:ombak  
 **onor** *respect (honor, esteem)* ← English:Polish:Spanish:honor, French:honneur, Portuguese:honra, Turkish:onur  
 **oranje** *orange (fruit)* ← English:orange, Spanish:naranja, Portuguese:laranja, Hindi:नारंगी (narangi), Japanese:(orenji), + French:orange, Russian:оранжевый (oranževiy)  
+**ordu** *army* ← mon:ᠣᠷᠳᠤ (ordu), Turkish:ordu, Persian: اردو (ordu), Hindi:उर्दू (urdū) + English:French:horde, Spanish:Portuguese:horda, Russian:орда (orda), Mandarin:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), Korean:오르도 (oreudo) + Arabic: عُرْضِيّ‎ (ʿurḍiyy)  
 **ore** *ear* ← Mandarin:耳 (ěr), English:ear, deu:Ohr, French:oreille, Portuguese:orelha, Spanish:oreja  
 **orgazme** *orgasm* ← English:orgasm, Spanish:Portuguese:orgasmo, French:Malay:orgasme, Russian:оргазм (orgazm), Turkish:orgazm, Hindi:ओगाज़्म (ogāzma), Japanese:オーガズム (ōgazumu), Korean:오르가슴 (oreugaseum)  
 **orkide** *orchid* ← English:orchid, Spanish:Portuguese:orquídea, Russian:орхидея (orhideya), Hindi:ऑर्किड (orkid), Bengali:অর্কিড (arkiḍa)  
@@ -1539,16 +1539,17 @@
 **vo** *that over there* ← Bengali:ও (o), Hindi:वह (vo), Turkish:o  
 **vode** *promise (vow, oath)* ← French:vœu, Spanish:Portuguese:voto, Arabic:وعد (waʿd), Hindi:वादा (vādā), Turkish:vaat, Persian:وعده (va'deh)  
 **vodun** *voodoo* ← ewe:vodun, hat:vodou, bra:vodum, English:voodoo, French:vaudou, Spanish:vudú  
-**voke** *call (voice; summon)* ← English:voke, French:-voquer, Spanish:Portuguese:-vocar + deu:Vokal  
+**voka** *call (voice; summon)* ← English:voke, French:-voquer, Spanish:Portuguese:-vocar + deu:Vokal  
 **vol** *want (desire, wish)* ← French:voiloir, Italian:volere, deu:wollen, English:volition, Spanish:voluntad, Russian:воля (volya), Polish:wola  
 **volfe** *wolf* ← deu:ned:English:wolf, Russian:волк (volk)  
 **volfram** *tungsten (wolfram)* ← English:wolfram, Spanish:wolframio, Russian:вольфрам, Mandarin:钨 (wū), Vietnamese:vonfam, Malay:wolfram, Swahili:wolframi  
 **vote** *vote (ballot)* ← English:vote, Spanish:Portuguese:voto, Hindi:वोट (voṭ), Russian:вотум (votum)  
+**vuki** *weapon (arms)* ← Mandarin:武器 (wǔqì), Cantonese:武器 (mou5 hei3), Japanese:武器 (buki), Korean:무기 (mugi), Vietnamese:vũ khí  
 **vulva** *vulva* ← French:vulve, English:Portuguese:Spanish:Turkish:vulva, Russian:вульва (vul’va)  
 **vutu** *object (item, thing)* ← Mandarin:物 (wù), Wu-Chinese:物 (veq5), Japanese:物 (butsu), Vietnamese:vật + Hindi:Marathi:वस्तु (vastu), Bengali:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), Thai:วัสดุ (wạttu)  
 **xa** *auxiliary verb that marks future tense (will, shall)* ← English:shall + Arabic:(sa-) + Vietnamese:sẽ + sve:ska  
 **xaka** *branch (bough, limb, arm)* ← Persian: شاخه (šâxe), Hindi:शाखा (śākhā), Bengali:শাখা (śakha), Tamil:சாகை (sākai), Telugu:శాఖ (śākha), Khmer:សាខា (saakhaa), Thai:สาขา (sǎa-kǎa)  
-**xakal** *jackal* ← Persian:شغال‎ (šağâl), English:jackal, Spanish:Portuguese:chacal, Russian:шака́л (šakál), Turkish:çakal, Bengali:শৃগাল (śrigal), Malay:jakal, Thai:แจ็กคัล (jɛ̀k-kal), Japanese:ジャッカル (jakkaru)  
+**xakal** *jackal* ← Persian: شغال‎ (šağâl), Turkish:çakal, English:jackal, French:Spanish:Portuguese:chacal, Russian:шакал (šakal), Bengali:শৃগাল (śrigal), Malay:jakal, Japanese:ジャッカル (jakkaru), Korean:자칼 (jakal), Thai:แจ็กคัล (jɛ̀k-kal)  
 **xaki** *doubt (suspect; suspicion)* ← Arabic: شَكَّ‎ (šakka), Persian: شک‎ (šak), Hindi:शक (śak); शंका (śankā), Malay:syak, Turkish:şek, Swahili:shaka; -shuku, Hausa:shakka  
 **xal** *scarf (shawl)* ← French:châle, Russian:шаль (šal), Portuguese:xaile, English:shawl, Turkish:şal  
 **xalke** *scale (flake)* ← English:scale, French:échelle, Hindi:शल्क (shalka)  

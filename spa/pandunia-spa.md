@@ -52,7 +52,7 @@ aha - entender (comprender)
 air - aire  
 air bio di - aeróbico  
 • anair bio di - anaeróbico  
-air gun - fuerza aérea  
+air ordu - fuerza aérea  
 air porte - aeropuerto  
 air prese - presión atmosférica  
 air prese metre gi - barómetro  
@@ -155,7 +155,6 @@ arka - arco
 arka cati - bóveda  
 arka ja - arquero  
 arka suta - tiro con arco  
-armi - arma  
 aroma - olor (aroma)  
 aroma melon - melón coreano  
 arsen yum - arsénico  
@@ -195,6 +194,9 @@ atlanti bakalau - bacalao común
 Atlanti Hai - océano Atlántico  
 atlanti salmon - salmón del Atlántico  
 atom - átomo  
+atom bomba - bomba atómica  
+atom kerne - núcleo atómico  
+atom vuki - arma atómica  
 audi - oír (escuchar)  
 auro - oro  
 Australia - Australia  
@@ -1378,13 +1380,13 @@ geo - tierra
 geo dou - maní  
 geo forme - terreno  
 geo grafi - geografía  
-geo gun - ejército  
 geo kaska plate - placa tectónica  
 geo logi - geología  
 Geo Medi Hai - Mediterráneo  
 geo metre - geometría  
 geo nice di - subterráneo  
 geo nice jela - mazmorra  
+geo ordu - ejército  
 geo par lin - ecuador  
 Geo Par Lin Ginia - Guinea Ecuatorial  
 geo politi - geopolítica  
@@ -1466,11 +1468,6 @@ guku hua - crisantemo
 gul - tragar  
 gule - gul  
 guma - tambor  
-gun - ejército  
-gun jen - soldado  
-gun jen kan - cuartel (barraca)  
-gun raja - generalísimo (sogún)  
-gun raja dexa - shogunato  
 guru - maestro (gurú, sabio, profesor)  
 guste - gusto (sabor)  
 guste ka - tener gusto a  
@@ -1494,11 +1491,11 @@ hai - mar
 hai alga - macroalga  
 hai amir ja - almirante  
 hai di - marítimo  
-hai gun - marina (armada)  
 hai hiyar - holoturia (pepino de mar)  
 hai hua - actinia (anémonas de mar)  
 hai jele - medusa  
 hai kinar - costa (orilla)  
+hai ordu - marina (armada)  
 hai porte - puerto marítimo  
 hai vala - marinero  
 haide - vamos a  
@@ -1870,10 +1867,10 @@ kane sor - cerrojo (pestillo)
 kanga - peine  
 kangaru - canguro  
 kanjar - puñal (daga)  
-kano - canoa  
 kanta - hombro  
 kantalupo melon - melón cantalupo  
 Kantalupo va Sabina - Cantalupo in Sabina  
+kanu - canoa  
 kanun - regla (ley)  
 kanyon - cañón (barranco, quebrada)  
 kape - capturar (apresar)  
@@ -1948,11 +1945,11 @@ Keme - Egipcia Antigua
 kentaur - centauro  
 Kenya - Kenia  
 kerne - corazón (núcleo)  
-kerne arme - arma nuclear  
 kerne cira - fisión nuclear  
 kerne energi - energía nuclear  
 kerne fizika - física nuclear  
 kerne unta - fusión nuclear  
+kerne vuki - arma nuclear  
 kerubi - querubín  
 ketel - hervidor (tetera)  
 kexa - pelo  
@@ -2360,8 +2357,8 @@ max di fen - mayoría
 max fili - preferir (favorecer)  
 max fili di - favorito (preferido)  
 max fili sim - favoritismo  
-max gun - refuerzos  
 max ka bas - demasiado  
+max ordu - refuerzos  
 maxim - lo más  
 maxim di - máximo  
 maxim xe - máximo  
@@ -2741,6 +2738,11 @@ onor - respeto (honor)
 onor di - respetable (honorable)  
 oranje - naranja  
 oranje rang - anaranjado  
+ordu - ejército  
+ordu jen - soldado  
+ordu jen kan - cuartel (barraca)  
+ordu raja - generalísimo (sogún)  
+ordu raja dexa - shogunato  
 ore - oreja  
 ore tis - otitis  
 orgazme - orgasmo  
@@ -3807,7 +3809,7 @@ viza - visado
 vo - ese (aquel)  
 vode - promesa (voto)  
 vodun - vudú  
-voke soni - vocal  
+voka soni - vocal  
 vol - querer (desear)  
 vol xe - deseo  
 volfe - lobo  
@@ -3815,6 +3817,7 @@ volfram - tungsteno (wolframio)
 volte - voltio (V)  
 vote - voto  
 vote haki - sufragio (derecho al voto)  
+vuki - arma  
 vulva - vulva  
 vutu - objeto (artículo)  
 

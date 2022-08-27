@@ -54,7 +54,6 @@
 **argente** *hopea* ← portugali:italia:argento, ranska:argent, malaiji:argentum, suahili:agenti  
 **argon** *argon* ← englanti:argon, ranska:argon, espanja:argón, portugali:argon, venäjä:аргон, japani:アルゴン, korea:아르곤, vietnami:agon, hindi:ऑर्गन, bangla:আর্গন, malaiji:argon, suahili:arigoni, arabia: أرجون  
 **arka** *kaari* ← englanti:arch, espanja:portugali:arco, ranska:arc, venäjä:арка (arka), malaiji:arka  
-**armi** *ase* ← ranska:arme, englanti:arms, espanja:portugali:arma + venäjä:армия (armiya), hindi:आर्मी (ārmī)  
 **aroma** *haju* ← englanti:espanja:portugali:malaiji:aroma, ranska:arôme, deu:Aroma, venäjä:аромат (aromat), japani:アロマ (aroma)  
 **arsen yum** *arseeni* ← englanti:arsenic, ranska:arsenic, espanja:arsénico, portugali:arsénic, yleiskiina:砷 (shēn), vietnami:asen, hindi:आर्सेनिक, bangla:আর্সেনিক, malaiji:arsen, suahili:aseniki, arabia: زرنيخ  
 **asal** *alkuperä* ← arabia:(ʾaṣl), turkki:asl, malaiji:asal, hindi:असल (asl), suahili:asili  
@@ -511,7 +510,6 @@
 **gul** *niellä* ← bangla:গেলা (gela), portugali:engolir, venäjä:глотать (glotat'), thai:กลืน (glʉʉn), espanja:deglutir, ranska:déglutir  
 **gule** *ghouli* ← arabia:الغول (ghūl), persia:غول‎ (ğul), englanti:portugali:ghoul, espanja:gul, venäjä:гуль (gul′), turkki:kulbastı, malaiji:ghul, japani:グール (gūru)  
 **guma** *rumpu* ← suahili:ngoma, rwa:ingoma + yleiskiina:鼓 (gǔ)  
-**gun** *armeija (sotajoukko)* ← yleiskiina:军 (jūn), kantoninkiina:軍 (gwan1), japani:軍 (gun), korea:군 (gun), vietnami:quân  
 **guru** *guru (opettaja)* ← hindi:गुरु (guru), bangla:গুরু (guru), gujarati:ગુરુ (guru), pandzabi:ਗੁਰੂ (gurū), filippiini:guro, thai:ครู (gruu), malaiji:englanti:portugali:guru, espanja:gurú, venäjä:гуру (guru), ranska:gourou, korea:구루 (guru), japani:グル (guru)  
 **guste** *maku* ← espanja:gusto, portugali:gosto, ranska:goût  
 **guta** *polvi* ← suahili:goti, hindi:घुटना (ghuṭnā), gujarati:ઘૂંટણ (ghū̃ṭaṇ), pandzabi:ਗੋਡਾ (goḍā), marathi:गुडघा (guḍghā)  
@@ -685,10 +683,10 @@
 **kanga** *kampa* ← hindi:कंघी (kaṅghī), urdu:(kaṅghī), bangla:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), marathi:कंगवा (kaṅgvā), pandzabi:ਕੰਘਾ (kaṅghā) + englanti:ranska:malaiji:kanga  
 **kangaru** *kenguru* ← englanti:kangaroo, espanja:canguro, portugali:canguru, venäjä:кенгуру (kenguru), turkki:kanguru, suahili:kangaruu, arabia:كَنْغَر‎ (kanḡar), hindi:कंगारू (kaṅgārū), malaiji:kanggaru, japani:カンガルー (kangarū)  
 **kanjar** *tikari* ← persia:(xanjar), turkki:haner, venäjä:кинжал (kinžal)  
-**kano** *kanootti* ← englanti:canoe, ranska:canoë, espanja:portugali:canoa, venäjä:каноэ (kanoe), japani:カヌー (kanū), korea:카누 (kanu), turkki:kano  
 **kanon** *klassikko* ← englanti:ranska:espanja:canon, portugali:canone  
 **kanta** *olkapää (hartia)* ← hindi:कंधा (kandhā), urdu:(kandhā), bangla:কাঁধ (kandhô), + japani:肩 (kata), + arabia:(kataf), + min-kiina:肩頭 (keng-thâu)  
 **kantalupo melon** ** ← englanti:cantaloupe, espanja:portugali:cantalupo, ranska:cantaloup, deu:Cantaloup, venäjä:канталупа (kantalupa), japani:カンタロープ (kantarōpu)  
+**kanu** *kanootti* ← englanti:canoe, ranska:canoë, espanja:portugali:canoa, venäjä:каноэ (kanoe), japani:カヌー (kanū), korea:카누 (kanu), turkki:kano  
 **kanun** *laki (sääntö)* ← arabia:(qānūn), turkki:kanun, suahili:kanuni, hindi:क़ानून (qānūn), + englanti:ranska:canon, portugali:cânone, venäjä:канон (kanon)  
 **kanyon** ** ← englanti:ranska:canyon, espanja:cañón, portugali:canhão, venäjä:каньон (kan’on), puola:kanion, japani:キャニオン (kyanion), unkari:turkki:malaiji:filippiini:kanyon  
 **kape** *ottaa kiinni (napata, kaapata)* ← turkki:kapmak, unkari:kap, sve:kapa, fin:kaapata, ned:kapen, espanja:portugali:capturar, englanti:capture, spa:por:caber, khmer:ចាប់ (cap)  
@@ -711,7 +709,7 @@
 **karuba** *johanneksenleipäpuu* ← arabia: خَرُّوب‎ (ḵarrūb), englanti:carob, ranska:caroube, espanja:algarrobo, portugali:alfarroba  
 **karvan** *karavaani (saattue)* ← persia:urdu:(kârvân), turkki:kervan, hindi:कारवाँ (kārvā̃), englanti:caravan, deu:Karawane, ranska:caraven, espanja:portugali:caravana, puola:karawana, venäjä:караван (karavan), filippiini:karabana, japani:キャラバン (kyaraban), korea:카라반 (karaban)  
 **kasa** *laatikko* ← lat:capsa, englanti:ranska:case, portugali:caixa, espanja:caja, venäjä:касса (kassa), suahili:kasha, arabia:(qafaṣ), hindi:क़फ़स (qafas), turkki:kafes  
-**kaska** *kuori (suojakuori)* ← espanja:cáscara, portugali:casca + nan:殼 (kag4), wu-kiina:殼 (khoq4), japani:殻 (kaku)  
+**kaska** *kuori (suojakuori, suoja)* ← espanja:cáscara, portugali:casca + nan:殼 (kag4), wu-kiina:殼 (khoq4), japani:殻 (kaku)  
 **kastana** *kastanja* ← espanja:castaňa, arabia:(kastanāʾ), turkki:kestane, venäjä:каштан (kaštan)  
 **kasu** *tapaus (seikka)* ← englanti:case, ranska:cas, espanja:portugali:caso, deu:Kasus  
 **kata** *kertomus (tarina, saaga)* ← hindi:कथा (kathā), bangla:কথা (kôtha), tamili:கதை (katai), telugu:కత (kata), khmer:កថា (kaʼthaa), filippiini:katha, malaiji:kata + japani:語る (kataru)  
@@ -729,7 +727,8 @@
 **kelele** *meteli* ← suahili:Kongo:makelele  
 **Keme** *muinainen Egypti* ← cop:ⲕⲏⲙⲉ (kēme)  
 **kentaur** *kentauri* ← englanti:centaur, ranska:centaure, espanja:portugali:centauro, venäjä:кентавр (kentavr), hindi:सेंटूर (seṇṭūr), arabia: قَنْطُور‎ (qanṭūr), turkki:kentaur, suahili:kentauro, japani:ケンタウロス (Kentaurosu), korea:켄타우로스 (kentauroseu)  
-**kerne** *ydin (sydän)* ← englanti:kernel, ranska:coeur, portugali:cerne, hindi:केंद्र (kendr)  
+**kerne vuki** *ydinase* ← englanti:nucleus, espanja:portugali:núcleo, malaiji:nuklir  
+**kerne** *ydin (sydän)* ← deu:Kern, englanti:kernel, ranska:coeur, portugali:cerne + hindi:केंद्र (kendr), bangla:কেন্দ্ৰ (kendrô), tamili:கேந்திரம் (kēntiram)  
 **kerubi** *kerubi* ← heb:כְּרוּב‎ (kerúv), englanti:cherub, espanja:querubín, portugali:querubim, ranska:chérubin, venäjä:херувим (heruvim), suahili:kerubi, malaiji:kerub, yleiskiina:基路伯 (jīlùbó)  
 **ketel** *kattila* ← englanti:kettle, venäjä:котёл (kot’ol), hindi:केतली (ketlī), bangla:কেতলি (ketli), malaiji:ketel  
 **kexa** *hius (karva, tukka, hiukset)* ← japani:毛 (ke), hindi:केश (keś), urdu:(keś), pandzabi:ਕੇਸ਼ (keś), telugu:(kēśamu), kannada:(kēśa)  
@@ -1083,6 +1082,7 @@
 **onda** *aalto (laine)* ← espanja:portugali:italia:onda, ranska:onde, malaiji:ombak  
 **onor** *kunnioitus (arvostus)* ← englanti:puola:espanja:honor, ranska:honneur, portugali:honra, turkki:onur  
 **oranje** *appelsiini* ← englanti:orange, espanja:naranja, portugali:laranja, hindi:नारंगी (narangi), japani:(orenji), + ranska:orange, venäjä:оранжевый (oranževiy)  
+**ordu** *armeija (sotajoukko)* ← mon:ᠣᠷᠳᠤ (ordu), turkki:ordu, persia: اردو (ordu), hindi:उर्दू (urdū) + englanti:ranska:horde, espanja:portugali:horda, venäjä:орда (orda), yleiskiina:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), korea:오르도 (oreudo) + arabia: عُرْضِيّ‎ (ʿurḍiyy)  
 **ore** *korva* ← yleiskiina:耳 (ěr), englanti:ear, deu:Ohr, ranska:oreille, portugali:orelha, espanja:oreja  
 **orgazme** *orgasmi* ← englanti:orgasm, espanja:portugali:orgasmo, ranska:malaiji:orgasme, venäjä:оргазм (orgazm), turkki:orgazm, hindi:ओगाज़्म (ogāzma), japani:オーガズム (ōgazumu), korea:오르가슴 (oreugaseum)  
 **orkide** ** ← englanti:orchid, espanja:portugali:orquídea, venäjä:орхидея (orhideya), hindi:ऑर्किड (orkid), bangla:অর্কিড (arkiḍa)  
@@ -1539,16 +1539,17 @@
 **vo** *tuo* ← bangla:ও (o), hindi:वह (vo), turkki:o  
 **vode** *lupaus (vala)* ← ranska:vœu, espanja:portugali:voto, arabia:وعد (waʿd), hindi:वादा (vādā), turkki:vaat, persia:وعده (va'deh)  
 **vodun** *voodoo* ← ewe:vodun, hat:vodou, bra:vodum, englanti:voodoo, ranska:vaudou, espanja:vudú  
-**voke** *kutsua (kuuluttaa; manata)* ← englanti:voke, ranska:-voquer, espanja:portugali:-vocar + deu:Vokal  
+**voka** *kutsua (kuuluttaa; manata)* ← englanti:voke, ranska:-voquer, espanja:portugali:-vocar + deu:Vokal  
 **vol** *haluta* ← ranska:voiloir, italia:volere, deu:wollen, englanti:volition, espanja:voluntad, venäjä:воля (volya), puola:wola  
 **volfe** *susi (hukka)* ← deu:ned:englanti:wolf, venäjä:волк (volk)  
 **volfram** *volframi* ← englanti:wolfram, espanja:wolframio, venäjä:вольфрам, yleiskiina:钨 (wū), vietnami:vonfam, malaiji:wolfram, suahili:wolframi  
 **vote** *ääni (äänestyksessä)* ← englanti:vote, espanja:portugali:voto, hindi:वोट (voṭ), venäjä:вотум (votum)  
+**vuki** *ase* ← yleiskiina:武器 (wǔqì), kantoninkiina:武器 (mou5 hei3), japani:武器 (buki), korea:무기 (mugi), vietnami:vũ khí  
 **vulva** *häpy (ulkosynnyttimet)* ← ranska:vulve, englanti:portugali:espanja:turkki:vulva, venäjä:вульва (vul’va)  
 **vutu** *esine (tavara)* ← yleiskiina:物 (wù), wu-kiina:物 (veq5), japani:物 (butsu), vietnami:vật + hindi:marathi:वस्तु (vastu), bangla:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), thai:วัสดุ (wạttu)  
 **xa** *tulevaa aikaa merkitsevä apuverbi* ← englanti:shall + arabia:(sa-) + vietnami:sẽ + sve:ska  
 **xaka** *oksa (haara)* ← persia: شاخه (šâxe), hindi:शाखा (śākhā), bangla:শাখা (śakha), tamili:சாகை (sākai), telugu:శాఖ (śākha), khmer:សាខា (saakhaa), thai:สาขา (sǎa-kǎa)  
-**xakal** *šakaali* ← persia:شغال‎ (šağâl), englanti:jackal, espanja:portugali:chacal, venäjä:шака́л (šakál), turkki:çakal, bangla:শৃগাল (śrigal), malaiji:jakal, thai:แจ็กคัล (jɛ̀k-kal), japani:ジャッカル (jakkaru)  
+**xakal** *šakaali* ← persia: شغال‎ (šağâl), turkki:çakal, englanti:jackal, ranska:espanja:portugali:chacal, venäjä:шакал (šakal), bangla:শৃগাল (śrigal), malaiji:jakal, japani:ジャッカル (jakkaru), korea:자칼 (jakal), thai:แจ็กคัล (jɛ̀k-kal)  
 **xaki** *epäillä (epäilys, epäusko)* ← arabia: شَكَّ‎ (šakka), persia: شک‎ (šak), hindi:शक (śak); शंका (śankā), malaiji:syak, turkki:şek, suahili:shaka; -shuku, hausa:shakka  
 **xal** *huivi (šaali)* ← ranska:châle, venäjä:шаль (šal), portugali:xaile, englanti:shawl, turkki:şal  
 **xalke** ** ← englanti:scale, ranska:échelle, hindi:शल्क (shalka)  

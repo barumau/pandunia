@@ -54,7 +54,6 @@
 **argente** *plata* ← por:ita:argento, fra:argent, may:argentum, swa:agenti  
 **argon** *argón* ← eng:argon, fra:argon, spa:argón, por:argon, rus:аргон, jpn:アルゴン, kor:아르곤, vie:agon, hin:ऑर्गन, ben:আর্গন, may:argon, swa:arigoni, ara: أرجون  
 **arka** *arco* ← eng:arch, spa:por:arco, fra:arc, rus:арка (arka), may:arka  
-**armi** *arma* ← fra:arme, eng:arms, spa:por:arma + rus:армия (armiya), hin:आर्मी (ārmī)  
 **aroma** *olor (aroma)* ← eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat), jpn:アロマ (aroma)  
 **arsen yum** *arsénico* ← eng:arsenic, fra:arsenic, spa:arsénico, por:arsénic, zho:砷 (shēn), vie:asen, hin:आर्सेनिक, ben:আর্সেনিক, may:arsen, swa:aseniki, ara: زرنيخ  
 **asal** *origen* ← ara:(ʾaṣl), tur:asl, may:asal, hin:असल (asl), swa:asili  
@@ -511,7 +510,6 @@
 **gul** *tragar* ← ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir  
 **gule** *gul* ← ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)  
 **guma** *tambor* ← swa:ngoma, rwa:ingoma + zho:鼓 (gǔ)  
-**gun** *ejército* ← zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân  
 **guru** *maestro (gurú, sabio, profesor)* ← hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)  
 **guste** *gusto (sabor)* ← spa:gusto, por:gosto, fra:goût  
 **guta** *rodilla* ← swa:goti, hin:घुटना (ghuṭnā), guj:ઘૂંટણ (ghū̃ṭaṇ), pnb:ਗੋਡਾ (goḍā), mar:गुडघा (guḍghā)  
@@ -685,10 +683,10 @@
 **kanga** *peine* ← hin:कंघी (kaṅghī), urd:(kaṅghī), ben:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā) + eng:fra:may:kanga  
 **kangaru** *canguro* ← eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)  
 **kanjar** *puñal (daga)* ← fas:(xanjar), tur:haner, rus:кинжал (kinžal)  
-**kano** *canoa* ← eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano  
 **kanon** ** ← eng:fra:spa:canon, por:canone  
 **kanta** *hombro* ← hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)  
 **kantalupo melon** *melón cantalupo* ← eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)  
+**kanu** *canoa* ← eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano  
 **kanun** *regla (ley)* ← ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)  
 **kanyon** *cañón (barranco, quebrada)* ← eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon  
 **kape** *capturar (apresar)* ← tur:kapmak, hun:kap, sve:kapa, fin:kaapata, ned:kapen, spa:por:capturar, eng:capture, spa:por:caber, khm:ចាប់ (cap)  
@@ -729,7 +727,8 @@
 **kelele** *ruido* ← swa:kon:makelele  
 **Keme** *Egipcia Antigua* ← cop:ⲕⲏⲙⲉ (kēme)  
 **kentaur** *centauro* ← eng:centaur, fra:centaure, spa:por:centauro, rus:кентавр (kentavr), hin:सेंटूर (seṇṭūr), ara: قَنْطُور‎ (qanṭūr), tur:kentaur, swa:kentauro, jpn:ケンタウロス (Kentaurosu), kor:켄타우로스 (kentauroseu)  
-**kerne** *corazón (núcleo)* ← eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)  
+**kerne vuki** *arma nuclear* ← eng:nucleus, spa:por:núcleo, may:nuklir  
+**kerne** *corazón (núcleo)* ← deu:Kern, eng:kernel, fra:coeur, por:cerne + hin:केंद्र (kendr), ben:কেন্দ্ৰ (kendrô), tam:கேந்திரம் (kēntiram)  
 **kerubi** *querubín* ← heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)  
 **ketel** *hervidor (tetera)* ← eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel  
 **kexa** *pelo* ← jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)  
@@ -1083,6 +1082,7 @@
 **onda** *onda* ← spa:por:ita:onda, fra:onde, may:ombak  
 **onor** *respeto (honor)* ← eng:pol:spa:honor, fra:honneur, por:honra, tur:onur  
 **oranje** *naranja* ← eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)  
+**ordu** *ejército* ← mon:ᠣᠷᠳᠤ (ordu), tur:ordu, fas: اردو (ordu), hin:उर्दू (urdū) + eng:fra:horde, spa:por:horda, rus:орда (orda), zho:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), kor:오르도 (oreudo) + ara: عُرْضِيّ‎ (ʿurḍiyy)  
 **ore** *oreja* ← zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja  
 **orgazme** *orgasmo* ← eng:orgasm, spa:por:orgasmo, fra:may:orgasme, rus:оргазм (orgazm), tur:orgazm, hin:ओगाज़्म (ogāzma), jpn:オーガズム (ōgazumu), kor:오르가슴 (oreugaseum)  
 **orkide** *orquídea* ← eng:orchid, spa:por:orquídea, rus:орхидея (orhideya), hin:ऑर्किड (orkid), ben:অর্কিড (arkiḍa)  
@@ -1539,16 +1539,17 @@
 **vo** *ese (aquel)* ← ben:ও (o), hin:वह (vo), tur:o  
 **vode** *promesa (voto)* ← fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)  
 **vodun** *vudú* ← ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú  
-**voke** ** ← eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal  
+**voka** ** ← eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal  
 **vol** *querer (desear)* ← fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola  
 **volfe** *lobo* ← deu:ned:eng:wolf, rus:волк (volk)  
 **volfram** *tungsteno (wolframio)* ← eng:wolfram, spa:wolframio, rus:вольфрам, zho:钨 (wū), vie:vonfam, may:wolfram, swa:wolframi  
 **vote** *voto* ← eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)  
+**vuki** *arma* ← zho:武器 (wǔqì), yue:武器 (mou5 hei3), jpn:武器 (buki), kor:무기 (mugi), vie:vũ khí  
 **vulva** *vulva* ← fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)  
 **vutu** *objeto (artículo)* ← zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)  
 **xa** ** ← eng:shall + ara:(sa-) + vie:sẽ + sve:ska  
 **xaka** *rama* ← fas: شاخه (šâxe), hin:शाखा (śākhā), ben:শাখা (śakha), tam:சாகை (sākai), tel:శాఖ (śākha), khm:សាខា (saakhaa), tha:สาขา (sǎa-kǎa)  
-**xakal** *chacal* ← fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)  
+**xakal** *chacal* ← fas: شغال‎ (šağâl), tur:çakal, eng:jackal, fra:spa:por:chacal, rus:шакал (šakal), ben:শৃগাল (śrigal), may:jakal, jpn:ジャッカル (jakkaru), kor:자칼 (jakal), tha:แจ็กคัล (jɛ̀k-kal)  
 **xaki** *duda* ← ara: شَكَّ‎ (šakka), fas: شک‎ (šak), hin:शक (śak); शंका (śankā), may:syak, tur:şek, swa:shaka; -shuku, hau:shakka  
 **xal** *bufanda (chal)* ← fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal  
 **xalke** *escama* ← eng:scale, fra:échelle, hin:शल्क (shalka)  

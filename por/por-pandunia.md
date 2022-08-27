@@ -94,8 +94,9 @@ argila - glu poto
 argon - argon  
 arguir - fa argu  
 argumento - argu  
-arma - armi  
+arma - vuki  
 arma de fogo - pau gi  
+arma nuclear - kerne vuki  
 armadilha - kape truke  
 armadura - defa kaska  
 armazenar - hazin  
@@ -199,6 +200,7 @@ bolo lunar - luna keke
 bolso (algebeira) - jebu  
 bom - bon  
 bomba - bomba  
+bomba atômica - atom bomba  
 bombom (doce) - kandi  
 bombordo - nave leu  
 borboleta - pelpel  
@@ -261,7 +263,7 @@ canguru - kangaru
 canhão (ravina, barranco) - kanyon  
 canhǎo - dai pau  
 canil - vaf parke  
-canoa - kano  
+canoa - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canção de ninar - lala gani  
 capa - mantol  
@@ -313,6 +315,7 @@ cerveja - bir
 cerâmica - pote suta  
 cerâmico - serami  
 cevada - jau  
+chacal - xakal  
 Champagne - xampan  
 champanhe - xampan vin  
 chance - canse  
@@ -616,7 +619,7 @@ expor (revelar) - vai poze
 exterior - vai  
 extrair - fa vai trata  
 extrair - extrate  
-exército - gun  
+exército - ordu  
 exógeno - vai gene di  
 exógeno - exgene  
 
@@ -662,7 +665,7 @@ folha - yepa
 fome - yam yau  
 forte - burge  
 força - balata  
-força aérea - air gun  
+força aérea - air ordu  
 foto (fotografia) - foto grafi  
 fotografia - foto grafi suta  
 fraco (débil) - anbala  
@@ -699,7 +702,7 @@ gato-do-mato (gato-maracajá-mirim) - bagre oselote
 gato-maracajá - margai  
 gelar - be ais  
 genealogia - gene logu  
-generalíssimo - gun raja  
+generalíssimo - ordu raja  
 generosidade - karim  
 generoso (dadivoso, mão-aberta) - databi  
 genético - gene logi di  
@@ -945,7 +948,7 @@ margarida - margarita
 margarida-comum - englix margarita  
 margarita-maior - baku margarite  
 margem (borda) - kinar  
-marinha - hai gun  
+marinha - hai ordu  
 marinheiro - hai vala  
 Marrocos - Magribi dexa  
 Marte - Marse  
@@ -1088,6 +1091,7 @@ néon - neon
 níquel - nikel  
 nós - mimen  
 núcleo (cerne) - kerne  
+núcleo atómico - atom kerne  
 número - nume  
 o (a) - la  
 
@@ -1310,7 +1314,7 @@ quadrinhos (banda desenhada) - grafi kata
 quando - ke sata  
 quarta-feira - den tri  
 quarteirão - mahala  
-quartel - gun jen kan  
+quartel - ordu jen kan  
 quarto (dormitório) - sona kamar  
 quartzo - kuarze  
 quatro (4) - nelu  
@@ -1477,7 +1481,7 @@ sogra - gami ma
 sogro - gami pa  
 soja - soi  
 sol - sol  
-soldado - gun jen  
+soldado - ordu jen  
 som - soni  
 sombrinha - sol cati  
 sono - sona  
@@ -1649,7 +1653,7 @@ viúvo - vidou
 voar - fa fei  
 vocabulário - loga jama  
 vogal - jong fon  
-vogal - voke soni  
+vogal - voka soni  
 voltar (regressar) - be retro  
 vontade - vol xe  
 voo - fei  

@@ -27,7 +27,7 @@ agri deha - 农村
 agri nomi - 农学  
 air - 空气  
 • anair bio di - 厌氧的  
-air gun - 空军  
+air ordu - 空军  
 air porte - 飞机场  
 ais - 冰  
 ais hoki - 冰球  
@@ -78,7 +78,6 @@ argente - 银
 argon - 氩  
 arka - 弓 (琴弓, 拱)  
 arka cati - 拱顶  
-armi - 武器  
 aroma - 气味  
 aroma melon - 香瓜  
 arsen yum - 砷  
@@ -101,6 +100,8 @@ Athina - 雅典
 • ativi - 活性  
 atlanti bakalau - 大西洋鱈  
 atlanti salmon - 大西洋鮭  
+atom bomba - 原子爆弹  
+atom kerne - 原子核  
 auro - 金  
 Austronesi - 南岛  
 auto loga - 独白  
@@ -562,10 +563,6 @@ Guangjou - 广州
 gubu - 河马  
 gui papi - 鬼罂粟 (東方罌粟)  
 guku hua - 菊花  
-gun - 军队  
-gun jen - 军人  
-gun jen kan - 营房  
-gun raja - 大元帅  
 guta - 膝  
 guta kaska oste - 膝盖骨  
 
@@ -582,11 +579,11 @@ hai - 海
 hai alga - 海藻  
 hai amir ja - 海军上将  
 hai cau - 海草  
-hai gun - 海军  
 hai hiyar - 海參  
 hai hua - 海葵  
 hai jele - 海蜇  
 hai kinar - 海岸  
+hai ordu - 海军  
 hai porte - 海港  
 hai vala - 水手 (海员)  
 haki - 权利  
@@ -972,7 +969,7 @@ matur jen - 成年人
 matur man - 男人  
 mau - 猫  
 max fili - 比较喜欢  
-max gun - 加固  
+max ordu - 加固  
 maxim - 最  
 mayur - 孔雀  
 maze - 袜子  
@@ -1122,6 +1119,10 @@ ohtopus - 章鱼
 onda - 波浪  
 oranje - 橙子  
 oranje rang - 橙色  
+ordu - 军队  
+ordu jen - 军人  
+ordu jen kan - 营房  
+ordu raja - 大元帅  
 ore - 耳  
 ore tis - 耳炎  
 orkide - 兰花  
@@ -1540,12 +1541,14 @@ vo - 那
 vode - 诺言  
 vol - 想要 (愿意)  
 volfram - 钨  
+vuki - 武器  
 vulva - 外阴 (陰门)  
 vutu - 物体 (物品)  
 
 ## X  
 
 xah mata - 将死  
+xakal - 胡狼  
 xaki - 怀疑 (疑惑)  
 xalke - 鳞  
 xam - 晚上  

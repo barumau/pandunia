@@ -252,8 +252,9 @@ argumento - argu
 argón - argon  
 argüir - fa argu  
 aritmética (cálculos) - hisabu suta  
-arma - armi  
-arma nuclear - kerne arme  
+arma - vuki  
+arma atómica - atom vuki  
+arma nuclear - kerne vuki  
 armadura - defa kaska  
 armario - almari  
 Armenia - Haye  
@@ -456,6 +457,7 @@ Bolivia - Bolivia
 bolsillo - jebu  
 bolígrafo - kalam  
 bomba - bomba  
+bomba atómica - atom bomba  
 bombear - pompe  
 boro - boron  
 Bosnia y Herzegovina - Bosna e Hercegovina  
@@ -591,7 +593,7 @@ candado - pende sor
 candela (unidad de intensidad luminosa) - kandela  
 canguro - kangaru  
 cannabis (hachís, marihuana) - ganja  
-canoa - kano  
+canoa - kanu  
 cansarse (fatigar) - be fatige  
 Cantalupo in Sabina - Kantalupo va Sabina  
 cantar (canción) - gani  
@@ -973,7 +975,7 @@ crónico - dura di
 cuaderno (libreta) - note buku  
 cuadro - nelu gona  
 cualidad (atributo, descripción) - sifa  
-cuartel (barraca) - gun jen kan  
+cuartel (barraca) - ordu jen kan  
 cuarzo - kuarze  
 cuatro (4) - nelu  
 Cuba - Kuba  
@@ -1250,8 +1252,8 @@ Egipto - Misri
 einsteinium - einstein yum  
 eje - axe  
 ejemplo - misal  
-ejército - geo gun  
-ejército - gun  
+ejército - geo ordu  
+ejército - ordu  
 el (la) - la  
 El Salvador - Salvador  
 el uno al otro (mutuamente) - semon  
@@ -1566,7 +1568,7 @@ fuente (manantial) - fonte
 fuera (exterior) - vai  
 fuerte - bala  
 fuerza - balata  
-fuerza aérea - air gun  
+fuerza aérea - air ordu  
 funcionar - funsi  
 funcionario - guan ja  
 fundador - baze ja  
@@ -1629,7 +1631,7 @@ gel (jalea, gelatina) - jele
 genealogía - gene logu  
 generación (cohorte) - gene grupe  
 general (common) - putong  
-generalísimo (sogún) - gun raja  
+generalísimo (sogún) - ordu raja  
 generar (añadir, realizar) - fa zai  
 generosidad (caridad) - karim  
 generoso (dadivoso) - databi  
@@ -2307,7 +2309,7 @@ margarina - margarin
 margarita - baku margarite  
 margarita - margarita  
 margarita común (pascueta) - englix margarita  
-marina (armada) - hai gun  
+marina (armada) - hai ordu  
 marinero - hai vala  
 marioneta (títere) - pupe  
 mariposa (palomilla) - pelpel  
@@ -2643,6 +2645,7 @@ náusea - retro gula sense
 Níger - Nijer  
 níquel - nikel  
 nómada - badavi  
+núcleo atómico - atom kerne  
 número (muchedumbre) - multita  
 número - nume  
 número de identificación personal - sekur nume  
@@ -3227,7 +3230,7 @@ redes sociales - sosi medi gi
 redondo (circular) - gola di  
 reducir a la mitad (dividir en dos) - fa fen do du  
 reflejar - mira  
-refuerzos - max gun  
+refuerzos - max ordu  
 regaliz (alcazuz, orozuz) - alkasus  
 regalo (obsequio) - daxe  
 registro (archivo, anotación) - loge  
@@ -3465,7 +3468,7 @@ señal (letrero, indicio) - sin
 señal de tránsito - dau bano  
 sharía - islam din xaria  
 Shiva - xiva  
-shogunato - gun raja dexa  
+shogunato - ordu raja dexa  
 si (suponer) - gar  
 Siberia - Sibiria  
 siempre - pan sata  
@@ -3516,7 +3519,7 @@ sofá - sofa
 soja - soi  
 sol - sol  
 Solamilandia - Somal Dexa  
-soldado - gun jen  
+soldado - ordu jen  
 solo (aislado, solitary, soltero) - un zai di  
 solsticio - sol estasi  
 Somalia - Somal  
@@ -3926,7 +3929,7 @@ vivisección - jivatomi
 viñedo - putau bagi  
 vocabulario (léxico) - loga jama  
 vocal - jong fon  
-vocal - voke soni  
+vocal - voka soni  
 volar - fa fei  
 volcán - hogo san  
 voltio (V) - volte  

@@ -57,7 +57,7 @@ aha|aha|||rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha + ara: آه 
 air|air|||eng:fra:spa:air, por:ar, rus:аэро- (aero-)|air|air|aire|ar|воздух|هوا‎|空气|空気|공기|không khí|हवा (वायु)|বায়ু|udara (hawa)|hewa|hava|aero|ilma|powietrze
 air.bio.di|air bio di||||aerobic|aérobique|aeróbico|aeróbico|аэробный|||好気性|||||||||aerobinen|
 air.bio.di-an|• anair bio di||||anaerobic|anaérobique|anaeróbico|anaeróbico|||厌氧的|嫌気性|||||||||anaerobinen|
-air.gun|air gun||||airforce|armée de l'ai|fuerza aérea|força aérea|военно-воздушные силы||空军|空軍|공군|không quân|वायु सेना||angkatan udara||hava kuvetleri|aerarmeo|ilmavoimat|siły powietrzne
+air.ordu|air ordu||||airforce|armée de l'ai|fuerza aérea|força aérea|военно-воздушные силы||空军|空軍|공군|không quân|वायु सेना||angkatan udara||hava kuvetleri|aerarmeo|ilmavoimat|siły powietrzne
 air.porte|air porte||||airport (aeroport)|aéroport|aeropuerto|aeroporto|аэропорт||飞机场|空港|공항|sân bay|विमानतल|বিমানবন্দর|bandar udara||havalimanı|flughaveno|lentoasema (lentokenttä)|lotnisko (port lotniczy)
 air.prese|air prese||||atmospheric pressure|pression atmosphérique|presión atmosférica||||||||||||||ilmanpaine|ciśnienie atmosferyczne
 air.prese.metre.gi|air prese metre gi||||barometer|baromètre|barómetro||||||||||||||ilmapuntari (ilmanpainemittari, barometri)|barometr
@@ -166,8 +166,6 @@ arka|arka|||eng:arch, spa:por:arco, fra:arc, rus:арка (arka), may:arka|bow (
 arka.cati|arka cati||||vault (arched ceiling or roof)|voûte|bóveda|abóbada|свод||拱顶||||||||tonoz|volbo|holvikatto|
 arka.ja|arka ja||||archer|archer|arquero||лучник|||弓兵|||||||||jousiampuja|łucznik
 arka.suta|arka suta||||archery|tire à l'arc|tiro con arco||||||||||||||jousiammunta|łucznictwo
-arm:ia|armia||||armed forces (army)|armée|||армия||||||||||||asevoimat (armeija)|
-armi|armi|||fra:arme, eng:arms, spa:por:arma + rus:армия (armiya), hin:आर्मी (ārmī)|weapon (arms)|arme|arma|arma|||武器|||||||||armilo|ase|broń
 aroma|aroma|||eng:spa:por:may:aroma, fra:arôme, deu:Aroma, rus:аромат (aromat), jpn:アロマ (aroma)|scent (odor, fragrance, aroma)|odeur|olor (aroma)|cheiro|запах (аромат)||气味|香り (匂い, 臭い)|||||||||haju|zapach (aromat, smród, odór)
 aroma.melon|aroma melon|bio|Cucumis melo, Makuwa||Korean melon||melón coreano|melão coreano|||香瓜|マクワウリ||||||||||melon koreański
 arsen.yum|arsen yum|yum 033|As|eng:arsenic, fra:arsenic, spa:arsénico, por:arsénic, zho:砷 (shēn), vie:asen, hin:आर्सेनिक, ben:আর্সেনিক, may:arsen, swa:aseniki, ara: زرنيخ|arsenic|arsenic|arsénico|arsénic|мышьяк|زرنيخ|砷|ヒ素|비소|asen|आर्सेनिक|আর্সেনিক|arsen|aseniki|arsenik|arseno|arseeni|arsen
@@ -213,6 +211,9 @@ atlanti.bakalau|atlanti bakalau|bio|Gadus morhua||Atlantic cod|morue de l'Atlant
 Atlanti.Hai|Atlanti Hai|||eng:Atlantic, spa:Atlántico, por:Atlântico, rus:Атлантический океан (Atlanticheskyy okean), swa:Atlantiki|Atlantic Ocean|océan Atlantique|océano Atlántico||||||||||||||Atlantin valtameri|Ocean Atlantycki
 atlanti.salmon|atlanti salmon|bio|Salmo salar||Atlantic salmon|saumon altentique|salmón del Atlántico||Атлантический лосось (сёмга)||大西洋鮭|タイセイヨウサケ|||||salmon Atlantik|||||łosoś atlantycki
 atom|atom|||eng:tur:may:atom, spa:por:átomo, rus:атом (atom), swa:atomi, jpn:アトム (atomu)|atom|atome|átomo|||||||||||||atomo|atomi|atom
+atom.bomba|atom bomba||||atomic bomb|bombe atomique|bomba atómica|bomba atômica|атомная бомба|قُنْبُلَة ذَرِّيَّة‎|原子爆弹|原子爆弾|원자폭탄|bom nguyên tử|परमाणु बम||bom atom||atom bombası|atombombo|atomipommi|bomba atomowa
+atom.kerne|atom kerne||||atomic nucleus|noyau atomique|núcleo atómico|núcleo atómico|атомное ядро|نَوَاة الذَّرَّة‎|原子核|原子核|원자핵||नाभिक (केंद्रक)||||atom çekirdeği|atomkerno (atoma nukleo)|atomiydin|jądro atomu
+atom.vuki|atom vuki||||atomic weapon|arme atomique|arma atómica||атомное оружие||||||परमाणु हथियार||||||atomiase|
 audi|audi|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
 auro|auro|yum 079|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum, swa:auri|gold|or|oro|ouro|золото|ذهب|金|金|금|vàng|सोना|গোল্ড|emas|dhahabu (auri)|altın|oro|kulta|złoto
 Australia|Australia|dexa|AU||Australia|Australie|Australia|||||||||||||Aŭstralio|Australia|Australia
@@ -1569,7 +1570,6 @@ geo.dou|geo dou|bio|||peanut (groundnut)||maní||||||||||||||maapähkinä|orzech
 geo.elfe|geo elfe||||gnome|gnome|||||||||||||||maahinen|
 geo.forme|geo forme||||terrain|terrain|terreno|terreno|||地势|地形|||||||||maasto (maan muodot)|teren
 geo.grafi|geo grafi||||geography|geographie|geografía|geografia|география||地理|||||||jiografia||geografio|maantiede|
-geo.gun|geo gun||||ground force (army)||ejército||||||||||||||maavoimat|wosko lądowe (armia)
 geo.kaske.krake|geo kaska krake||||fault line|||||||||||||||||uskok
 geo.kaske.plate|geo kaska plate||||tectonic plate|plaque tectonique|placa tectónica||||||||||||||mannerlaatta|płyta tektoniczna
 geo.logi|geo logi||||geology|géologie|geología|||||地質学|||||||||geologia (maaperäntutkimus)|geologia
@@ -1577,6 +1577,7 @@ Geo.Medi.Hai|Geo Medi Hai||||Mediterranean||Mediterráneo||||||||||||||Välimeri
 geo.metre|geo metre||||geometry|géométrie|geometría|geometria|геометрия||几何学|幾何学|기하학|hình học|ज्यामिति|||||geometrio|geometria|
 geo.nice.di|geo nice di||||underground (subterrainean)||subterráneo|||||地中|||||||||maanalainen|podziemny
 geo.nice.jela|geo nice jela||||dungeon (underground prison)|oubliette (cul de basse-fosse)|mazmorra||ублиет (подземная тюрьма)|||地下牢 (ダンジョン)|||||||||vankityrmä|loch
+geo.ordu|geo ordu||||ground force (army)||ejército||||||||||||||maavoimat|wosko lądowe (armia)
 geo.par.lin|geo par lin||||equator||ecuador||||||||||||||päiväntasaaja|równik
 Geo.Par.Lin.Ginia|Geo Par Lin Ginia|dexa|GQ||Equatorial Guinea||Guinea Ecuatorial||||||||||||||Päiväntasaajan Guinea|Gwinea Równikowa
 geo.politi|geo politi||||geopolitics|géopolitique|geopolítica|geopolítica|геополитика||地缘政治||||भूराजनीति||||||geopolitiikka|
@@ -1662,11 +1663,6 @@ guku.hua|guku hua|bio|Chrysanthemum morifolium|zho:菊 (jú), yue:菊 (guk1), jp
 gul|gul|||ben:গেলা (gela), por:engolir, rus:глотать (glotat'), tha:กลืน (glʉʉn), spa:deglutir, fra:déglutir|swallow||tragar||глотать|||||||||||gluti|niellä|połknąć (połykać)
 gule|gule|||ara:الغول (ghūl), fas:غول‎ (ğul), eng:por:ghoul, spa:gul, rus:гуль (gul′), tur:kulbastı, may:ghul, jpn:グール (gūru)|ghoul|goule|gul||гуль (вурдалак)|غُول‎|||||||||||ghouli|ghul
 guma|guma|||swa:ngoma, rwa:ingoma + zho:鼓 (gǔ)|drum||tambor|||||||||||||tamburo|rumpu|bęben
-gun|gun|||zho:军 (jūn), yue:軍 (gwan1), jpn:軍 (gun), kor:군 (gun), vie:quân|army|armée|ejército|exército|армия||军队||||सेना||angkatan perang||ordu|armeo|armeija (sotajoukko)|armia
-gun.jen|gun jen||||soldier|soldat|soldado|soldado|солдат||军人|軍人|군인|quân nhân|सैनिक||||asker|soldato|sotilas|żołnierz
-gun.jen.kan|gun jen kan||||barracks|caserne|cuartel (barraca)|quartel|казарма (барак)||营房|兵舎 (バラック)|병사 (바라크)|doanh trại|छावनी||berek||baraka (kışla)|soldatejo (kazerno)|kasarmi|koszary
-gun.raja|gun raja||||generalissimo (shogun)|généralissime|generalísimo (sogún)|generalíssimo|генералиссимус||大元帅|総統 (将軍 )||||||||ĉefgeneralo|sotaherra (generalissimo)|szogun
-gun.raja.dexa|gun raja dexa||||shogunate||shogunato||||||||||||||sotaherran maa|szogunat
 guru|guru|||hin:गुरु (guru), ben:গুরু (guru), guj:ગુરુ (guru), pnb:ਗੁਰੂ (gurū), tgl:guro, tha:ครู (gruu), may:eng:por:guru, spa:gurú, rus:гуру (guru), fra:gourou, kor:구루 (guru), jpn:グル (guru)|guru (teacher, sage)||maestro (gurú, sabio, profesor)|||||尊師 (グル, 先生)||||||||guruo (instruisto)|guru (opettaja)|guru, mistrz
 guste|guste|||spa:gusto, por:gosto, fra:goût|taste (flavor)||gusto (sabor)|||||||||||||gusto|maku|smak
 guste.ka|guste ka||||taste like||tener gusto a|||||||||||||gusti kiel|maistua|smakować jak
@@ -1690,12 +1686,12 @@ hai.alga|hai alga|bio|||seaweed (macroalgae)|algues|macroalga|macroalga|морс
 hai.amir.ja|hai amir ja||||admiral|amiral|almirante|almirante|адмирал|أَمِيرُ البَحْر‎|海军上将|提督 (海軍大将) |제독|đô đốc|ऐडमिरल||laksamana||oramiral|admiralo (ŝiparestro)|amiraali|admirał
 hai.cau|hai cau|bio|||seagrass|posidonie (herbiers marins)||erva marinha|морские травы||海草|海草||||||nyasi-bahari|||meriheinä|trawa mor
 hai.di|hai di||||maritime||marítimo|marítimo|морской|||||||||||mara|meri- (merellinen)|morski
-hai.gun|hai gun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai.hiyar|hai hiyar|bio|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat||||merimakkara|strzykwa
 hai.hua|hai hua|bio|Actiniaria||sea anemone||actinia (anémonas de mar)||морские анемоны||海葵|イソギンチャク|||||buran||||merivuokko|ukwiał
 hai.jele|hai jele|bio|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月|||||||||meduusa|meduza
 hai.kinar|hai kinar||||shore (coast, beach)|côte|costa (orilla)|costa|||海岸|海岸|||तट||||||merenranta|wybrzeże
 hai.nil|hai nil||||aqua (teal)|||||||水色|||||||||merensininen|morskoniebieski
+hai.ordu|hai ordu||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai.porte|hai porte||||harbor (seaport)||puerto marítimo|porto marítimo|||海港|海港||||||||haveno|satama|port morski (przystań)
 hai.vala|hai vala||||sailor (seaman, mariner)|matelot|marinero|marinheiro|моряк|مَلَّاح|水手 (海员)|船員 (水夫)|선원 (수병)||नाविक (मल्लाह)|নাবিক (মাল্লা)|kelasi (pelaut)|baharia|mellah (gemici)|maristo|merimies|
 haide|haide|||rum:háide, ell:άιντε (áinte), bul:ха́йде (hájde), rus:айда (ayda), tur:hadi, ara:هَيَّا‎ (hayyā), vie:hãy|let's||vamos a|||||||||||||ni faru...|tehkäämme|niech my, hajda
@@ -2091,7 +2087,7 @@ kampe.bede|kampe bede||||camp bed (cot)|lit de camp||cama portátil|раскла
 kampe.ja|kampe ja||||camper||campista||||||||||||||retkeilijä|obóz
 Kamri|Kamri|dexa|||Wales (Cambria)||Gales||||||||||||||Wales|Walia
 kamri|kamri||||Welsh||galés||||||||||||||walesilainen|walijski
-kan|kan|||fas:خانه‎ (xâne), rus:-хана (-hana), hin:ख़ाना (xānā), ben:খানা (khana), tur:hane + zho:馆 (guǎn), kor:관 (gwan), jpn:館 (-kan), vie:quán|shop (building, house, place)||||||店 (馆)|店 (館)|관|quán|ख़ाना|খানা|||hane|farejo|paja (tekimö)|
+kan|kan|||fas:خانه‎ (xâne), rus:-хана (-hana), hin:ख़ाना (xānā), ben:খানা (khana), tur:hane + zho:馆 (guǎn), kor:관 (gwan), jpn:館 (-kan), vie:quán|workshop (shop, building, house or place for doing something)||||||店 (馆)|店 (館)|관|quán|ख़ाना|খানা|||hane|farejo|paja (tekimö)|
 Kanada|Kanada|dexa|CA||Canada||Canadá||||||||||||||Kanada|Kanada
 kanal|kanal|||eng:spa:por:fra:canal, rus:канал (kanal), may:kanal + ara: قَنَاة‎ (qanāh) + ben:খাল (khal)|ditch (canal, channel, dyke, trench)|fossé (canal, tranchée)|canal (cauce, acequia, foso, zanja)|canal (fosso, trincheira)|канава (канал)|خَنْدَق‎|水沟|側溝|||खाई (नाली)|খাল|||hendek|fluejo (kanalo)|oja (kanava, kanaali)|kanał
 kanal.ja|kanal ja||||conduit (channel)|||||||||||||||||przewód (kanał)
@@ -2107,12 +2103,12 @@ kane.sor|kane sor||||latch|loquet|cerrojo (pestillo)|tranca|щеколда||门�
 kanga|kanga|||hin:कंघी (kaṅghī), urd:(kaṅghī), ben:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), mar:कंगवा (kaṅgvā), pnb:ਕੰਘਾ (kaṅghā) + eng:fra:may:kanga|comb||peine||||||||||||||kampa|grzebień
 kangaru|kangaru|bio||eng:kangaroo, spa:canguro, por:canguru, rus:кенгуру (kenguru), tur:kanguru, swa:kangaruu, ara:كَنْغَر‎ (kanḡar), hin:कंगारू (kaṅgārū), may:kanggaru, jpn:カンガルー (kangarū)|kangaroo|kangourou|canguro|canguru|кенгуру||袋鼠|カンガルー|캥거루|canguru (chuột túi)|कंगारू|ক্যাংগারু|kanggaru|kangaruu|kanguru|kangaro|kenguru|kangur
 kanjar|kanjar|||fas:(xanjar), tur:haner, rus:кинжал (kinžal)|dagger||puñal (daga)||кинжал|||||||||||ponardo|tikari|sztylet (puginał)
-kano|kano|||eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|canoe|canoë|canoa|canoa|каноэ|||カヌー|카누||||||kano|kanuo (kanoto)|kanootti|kanoe
 kanon|kanon|||eng:fra:spa:canon, por:canone|classic (canon)|classique (canon)|||||经典|||kinh|||||||klassikko|
 kanon.di|kanon di||||classic (authoritative, definitive)|||||||||kinh điển|||||||klassinen (kanooninen)|
 kanta|kanta|||hin:कंधा (kandhā), urd:(kandhā), ben:কাঁধ (kandhô), + jpn:肩 (kata), + ara:(kataf), + min:肩頭 (keng-thâu)|shoulder||hombro|||||||||||||ŝultro|olkapää (hartia)|bark (ramię)
 kantalupo.melon|kantalupo melon|bio|Cucumis melo var. cantalupo|eng:cantaloupe, spa:por:cantalupo, fra:cantaloup, deu:Cantaloup, rus:канталупа (kantalupa), jpn:カンタロープ (kantarōpu)|cantaloupe||melón cantalupo|meloa (cantalupo)|канталупа||鈔皮瓜|カンタロープ||||||||||kantalupa
 Kantalupo.va.Sabina|Kantalupo va Sabina||||Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Cantalupo in Sabina|Канталупо-ин-Сабина|||||||||||||Cantalupo in Sabina
+kanu|kanu|||eng:canoe, fra:canoë, spa:por:canoa, rus:каноэ (kanoe), jpn:カヌー (kanū), kor:카누 (kanu), tur:kano|canoe|canoë|canoa|canoa|каноэ|||カヌー|카누||||||kano|kanuo (kanoto)|kanootti|kanoe
 kanun|kanun|||ara:(qānūn), tur:kanun, swa:kanuni, hin:क़ानून (qānūn), + eng:fra:canon, por:cânone, rus:канон (kanon)|law (rule, regulation)||regla (ley)|||||||||||kanuni|kanun|lego|laki (sääntö)|prawo
 kanun.vala|kanun vala||||lawyer||||||律师|弁護士|변호사|luật sư|वकील|উকিল|pengacara|wakili|avukat|advokato|lakimies (juristi)|adwokat
 kanyon|kanyon|||eng:fra:canyon, spa:cañón, por:canhão, rus:каньон (kan’on), pol:kanion, jpn:キャニオン (kyanion), hun:tur:may:tgl:kanyon|canyon (ravine, gorge, gully)|canyon (ravin)|cañón (barranco, quebrada)|canhão (ravina, barranco)|овраг (ущелье, каньон)||峡谷 (深谷)|峡谷||||||||||kanion
@@ -2164,7 +2160,7 @@ Kartul|Kartul|dexa|GE||Georgia (Republic of Georgia)||Georgia (República de Geo
 karuba|karuba|bio|Ceratonia siliqua|ara: خَرُّوب‎ (ḵarrūb), eng:carob, fra:caroube, spa:algarrobo, por:alfarroba|carob (St. John's bread)|caroube|algarrobo|alfarroba|рожковое дерево|||蝗豆|||||||keçiboynuzu||johanneksenleipäpuu|
 karvan|karvan|||fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā̃), eng:caravan, deu:Karawane, fra:caraven, spa:por:caravana, pol:karawana, rus:караван (karavan), tgl:karabana, jpn:キャラバン (kyaraban), kor:카라반 (karaban)|caravan (convoy)||caravana|||||||||||||karavano|karavaani (saattue)|karawana
 kasa|kasa|||lat:capsa, eng:fra:case, por:caixa, spa:caja, rus:касса (kassa), swa:kasha, ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes|box (container)||||||||||||||||laatikko|
-kaska|kaska|||spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|shell (crust, carapace)|carapace (coquille, coquillage, croûte)|carapacho (cáscara, concha, corteza, capa)|casca (concha)|оболочка (кора, панцирь)||壳 (皮)|殻 (皮)|||||||||kuori (suojakuori)|skorupa (pancerz, muszla)
+kaska|kaska|||spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|shell (crust, carapace, shield)|carapace (coquille, coquillage, croûte)|carapacho (cáscara, concha, corteza, capa)|casca (concha)|оболочка (кора, панцирь)||壳 (皮)|殻 (皮)|||||||||kuori (suojakuori, suoja)|skorupa (pancerz, muszla)
 kastana|kastana|bio|Castanea|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|chestnut||castaña|||||||||||||kaŝtano|kastanja|kasztan
 kasu|kasu|||eng:case, fra:cas, spa:por:caso, deu:Kasus|event (case, instance)||acontecimiento (caso, suceso, evento)||||||||||||||tapaus (seikka)|wydarzenie, przypadek, sytuacja
 kata|kata|||hin:कथा (kathā), ben:কথা (kôtha), tam:கதை (katai), tel:కత (kata), khm:កថា (kaʼthaa), tgl:katha, may:kata + jpn:語る (kataru)|tale (story, legend, saga)||historia (cuento, relato, leyenda)|||||||||||||rakonto|kertomus (tarina, saaga)|opowiadanie, opowieść, legenda, saga
@@ -2196,12 +2192,12 @@ Keme|Keme|dexa||cop:ⲕⲏⲙⲉ (kēme)|Ancient Egypt (Kemet)|Égypte antique|E
 kentaur|kentaur|||eng:centaur, fra:centaure, spa:por:centauro, rus:кентавр (kentavr), hin:सेंटूर (seṇṭūr), ara: قَنْطُور‎ (qanṭūr), tur:kentaur, swa:kentauro, jpn:ケンタウロス (Kentaurosu), kor:켄타우로스 (kentauroseu)|centaur|centaure|centauro|centauro|кентавр|قَنْطُور‎|人马 (半人马)|人馬 (ケンタウロス)|인마 (켄타우로스)||सेंटूर|||kentauro|kentaur|centaǔro|kentauri|
 kentaur.hua|kentaur hua|bio|Centaurea|||Centaurée||centáurea|василёк|||||||||||||chaber
 Kenya|Kenya|dexa|KE||Kenya||Kenia||||||||||||||Kenia|Kenia
-kerne|kerne|||eng:kernel, fra:coeur, por:cerne, hin:केंद्र (kendr)|core (nucleus, kernel)|coeur|corazón (núcleo)|núcleo (cerne)|||核心|核||||||||kerno (koro)|ydin (sydän)|rdzeń (jądro, pestka)
-kerne.arme|kerne arme||||nuclear weapon (nuke)||arma nuclear|||||||||||||kernarmilo|ydinase|broń nuklearna
+kerne|kerne|||deu:Kern, eng:kernel, fra:coeur, por:cerne + hin:केंद्र (kendr), ben:কেন্দ্ৰ (kendrô), tam:கேந்திரம் (kēntiram)|core (nucleus, kernel)|coeur|corazón (núcleo)|núcleo (cerne)|ядро|نَوَاة‎|核心|核 (核心)|핵심|hạt nhân|केन्द्र (केंद्र-भाग, नाभिक)|||||kerno (koro)|ydin (sydän)|rdzeń (jądro, pestka)
 kerne.cira|kerne cira||||nuclear fission||fisión nuclear||||||||||||||ydinfissio|rozszczepienie jądra atomowego
 kerne.energi|kerne energi||||nuclear energy||energía nuclear|||||||||||||kernenergio|ydinenergia|energia nuklearna
 kerne.fizika|kerne fizika||||nuclear physics||física nuclear|||||||||||||kernfiziko|ydinfysiikka|fizyka nuklearna
 kerne.unta|kerne unta||||nuclear fusion||fusión nuclear||||||||||||||ydinfuusio|fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)
+kerne.vuki|kerne vuki|||eng:nucleus, spa:por:núcleo, may:nuklir|nuclear weapon (nuke)|arme nucléaire|arma nuclear|arma nuclear|ядерное оружие|||||||||||kernarmilo|ydinase|broń nuklearna
 kerubi|kerubi|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub||querubín||||||||||||||kerubi|cherubin
 ketel|ketel|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle||hervidor (tetera)||||||||||||||kattila|czajnik
 kexa|kexa|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair||pelo|||||毛||||||||haro|hius (karva, tukka, hiukset)|włos
@@ -2667,8 +2663,8 @@ max.di.fen|max di fen|||spa:mayoría, por:maioria, eng:majority, fra:majorité|m
 max.fili|max fili||||prefer (favor)|préférer|preferir (favorecer)|preferir|предпочитать|فَضَّلَ|比较喜欢|||||||||preferi (pliŝati)|suosia (pitää parempana)|preferować (woleć)
 max.fili.di|max fili di||||favorite (preferred)|favori (préféré)|favorito (preferido)|favorito (preferido)|любимый|مُفَضَّل||好き (お気に入りの)|||||kegemaran||||suosikki (suosittu)|ulubiony
 max.fili.sim|max fili sim||||favoritism|favoritisme|favoritismo|favoritismo|фаворитизм (кумовство)||||||||||||suosinta (favoritismi)|
-max.gun|max gun||||reinforcements||refuerzos||пополнение||加固|増派 (援兵)||||||||||wsparcie (wzmocnienie, zasilenie)
 max.ka.bas|max ka bas||||too much||demasiado|||||||||||||tro|liikaa|zbyt
+max.ordu|max ordu||||reinforcements||refuerzos||пополнение||加固|増派 (援兵)||||||||||wsparcie (wzmocnienie, zasilenie)
 maxim|maxim||||most (maximally)||lo más||||最|||||||||plej|eniten|nabardziej, maksymalnie
 maxim.di|maxim di||||maximal||máximo||||||||||||||enimmäis-|maksymalny
 maxim.xe|maxim xe|||eng:fra:maximum, por:spa:máximo, rus:максимум (maksimum), may:maksimum|maximum|maximum|máximo|máximo|максимум||||||||maksimum||||maksimi (enimmäismäärä)|maksimum
@@ -3075,6 +3071,11 @@ onor|onor|||eng:pol:spa:honor, fra:honneur, por:honra, tur:onur|respect (honor, 
 onor.di|onor di||||honorable (respectable)||respetable (honorable)||||||||||mulia (yang terhormati)|||respektinda|kunnianarvoisa|honorowy
 oranje|oranje|bio||eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)|orange (fruit)|orange (fruit)|naranja|laranja|апельсин||橙子||||नारंगी||jeruk (oren)||portakal|oranĝo|appelsiini|pomarańcza
 oranje.rang|oranje rang|rang|||orange (orange-colored)|orange (couleur)|anaranjado|alaranjado|оранжевый||橙色|オレンジ色の||||||||oranĝa|oranssi|pomarańczowy
+ordu|ordu|||mon:ᠣᠷᠳᠤ (ordu), tur:ordu, fas: اردو (ordu), hin:उर्दू (urdū) + eng:fra:horde, spa:por:horda, rus:орда (orda), zho:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), kor:오르도 (oreudo) + ara: عُرْضِيّ‎ (ʿurḍiyy)|army|armée|ejército|exército|армия||军队||||सेना||angkatan perang||ordu|armeo|armeija (sotajoukko)|armia
+ordu.jen|ordu jen||||soldier|soldat|soldado|soldado|солдат||军人|軍人|군인|quân nhân|सैनिक||||asker|soldato|sotilas|żołnierz
+ordu.jen.kan|ordu jen kan||||barracks|caserne|cuartel (barraca)|quartel|казарма (барак)||营房|兵舎 (バラック)|병사 (바라크)|doanh trại|छावनी||berek||baraka (kışla)|soldatejo (kazerno)|kasarmi|koszary
+ordu.raja|ordu raja||||generalissimo (shogun)|généralissime|generalísimo (sogún)|generalíssimo|генералиссимус||大元帅|総統 (将軍 )||||||||ĉefgeneralo|sotaherra (generalissimo)|szogun
+ordu.raja.dexa|ordu raja dexa||||shogunate||shogunato||||||||||||||sotaherran maa|szogunat
 ore|ore|bode||zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja|ear|oreille|oreja|orelha|||耳|||||||||orelo|korva|ucho
 ore.tis|ore tis||||otitis|otite|otitis|otite|отит||耳炎|||||||||otito|korvatulehdus|zapalenie ucha
 orgazme|orgazme|||eng:orgasm, spa:por:orgasmo, fra:may:orgasme, rus:оргазм (orgazm), tur:orgazm, hin:ओगाज़्म (ogāzma), jpn:オーガズム (ōgazumu), kor:오르가슴 (oreugaseum)|orgasm||orgasmo||||||||||||||orgasmi|orgazm
@@ -4277,13 +4278,12 @@ viza|viza|||eng:spa:fra:may:visa, rus:виза (viza), tur:vize, swa:viza, ara:�
 vo|vo|dem.prn.||ben:ও (o), hin:वह (vo), tur:o|that over there|ce...lá|ese (aquel)|esse (aquele)|тот||那|その|그|đó (kia)|वह|ওই|itu||şu|tio|tuo|tamten
 vode|vode|||fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)|promise (vow, oath)|vœu (promesse)|promesa (voto)|promessa (voto)|клятва (присяга, обет)|وعد|诺言|約束|약속||वचन (वादा)||||||lupaus (vala)|
 vodun|vodun|||ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú|voodoo||vudú||||||||||||||voodoo|voodoo
-vok|voke|||eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal|call (voice; summon)||||||||||||||||kutsua (kuuluttaa; manata)|
-voke-ex|• exvoke||||evoke (call out)||||||||||||||||kutsua esiin (manata esiin)|
-voke-in|• invoke||||invoke||||||||||||||||kutsua tykö|
-voke-pro|• provoke||||provoke||||||||||||||||kutsua esiin (peräänkuuluttaa)|
-voke-re|• revoke||||revoke (call back)||||||||||||||||kutsua takaisin|
-voke.bil|vokabil||||term (vocable)||||||||||||||||nimike (termi)|
-voke.soni|voke soni||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali (ääntiö)|
+voka|voka|||eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal|call (voice; summon)||||||||||||||||kutsua (kuuluttaa; manata)|
+voka-ex|• exvoka||||evoke (call out)||||||||||||||||kutsua esiin (manata esiin)|
+voka-in|• invoka||||invoke||||||||||||||||kutsua tykö|
+voka-pro|• provoka||||provoke||||||||||||||||kutsua esiin (peräänkuuluttaa)|
+voka-re|• revoka||||revoke (call back)||||||||||||||||kutsua takaisin|
+voka.soni|voka soni||||vowel|voyelle|vocal|vogal|гласный||||보컬 부분||||vokal|||vokalo|vokaali (ääntiö)|
 vol|vol|||fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola|want (desire, wish)|vouloir|querer (desear)|querer (desejar)|хотеть|أَرَادَ|想要 (愿意)|欲しい|싶다 (원하다)|muốn|चाहना|চাওয়া|mau (mahu)||istemek|voli|haluta|chcieć, pragnąć
 vol.xe|vol xe||||want (desire, wish)||deseo|vontade|||||소원|||||||volo|halu (toive)|wola (chęć, pragnienie)
 volfe|volfe|||deu:ned:eng:wolf, rus:волк (volk)|wolf|loup|lobo|||||||||||||lupo|susi (hukka)|wilk
@@ -4292,6 +4292,8 @@ Volof|Volof||||Wolof (language and people)|wolof||||||||||||kiwolofu|||wolofin k
 volte|volte|unomete|V||volt (V)||voltio (V)||||||||||||||voltti (V)|wolt (V)
 vote|vote|||eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)|vote (ballot)||voto|voto|||||||||||||ääni (äänestyksessä)|głos
 vote.haki|vote haki||||franchise (right to vote)||sufragio (derecho al voto)||||||||||||||äänioikeus|prawo wyborcze
+vuki|vuki|||zho:武器 (wǔqì), yue:武器 (mou5 hei3), jpn:武器 (buki), kor:무기 (mugi), vie:vũ khí|weapon (arms)|arme|arma|arma|оружие|سِلَاح|武器|武器|무기|vũ khí|हथियार (शस्त्र)|অস্ত্র (হাতিয়ার)|senjata|silaha|silah|armilo|ase|broń
+vuki.ordu|vuki ordu||||armed forces (army)|armée|||армия||||||||||||asevoimat (armeija)|
 vulva|vulva|||fra:vulve, eng:por:spa:tur:vulva, rus:вульва (vul’va)|vulva|vulve|vulva|vulva|вульва||外阴 (陰门)|陰門|음문|âm hộ|||||vulva|vulvo|häpy (ulkosynnyttimet)|srom
 vutu|vutu|||zho:物 (wù), wuu:物 (veq5), jpn:物 (butsu), vie:vật + hin:mar:वस्तु (vastu), ben:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)|object (item, thing)|objet (article)|objeto (artículo)|item|статья (предмет)||物体 (物品)|物 (品)|||||||||esine (tavara)|przedmiot (obiekt)
 X|X||||X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X|X
@@ -4299,7 +4301,7 @@ xa|xa|||eng:shall + ara:(sa-) + vie:sẽ + sve:ska|auxiliary verb that marks fut
 xah.geme|xah geme||||chess||ajedrez|xadrez|||||||शतरंज||catur|sataranji|satranç|ŝako|šakki|szachy
 xah.mata|xah mata||||checkmate|échec et mat|jaque mate|xeque-mate|шах и мат|شَاه مَات‎|将死|詰み (チェックメイト)|체크메이트|||||||ŝakmato|matti (šakkimatti)|
 xaka|xaka|||fas: شاخه (šâxe), hin:शाखा (śākhā), ben:শাখা (śakha), tam:சாகை (sākai), tel:శాఖ (śākha), khm:សាខា (saakhaa), tha:สาขา (sǎa-kǎa)|branch (bough, limb, arm)||rama|||||||||||||branĉo|oksa (haara)|gałąź, konar
-xakal|xakal|bio||fas:شغال‎ (šağâl), eng:jackal, spa:por:chacal, rus:шака́л (šakál), tur:çakal, ben:শৃগাল (śrigal), may:jakal, tha:แจ็กคัล (jɛ̀k-kal), jpn:ジャッカル (jakkaru)|jackal||chacal||||||||||||||šakaali|szakal
+xakal|xakal|bio||fas: شغال‎ (šağâl), tur:çakal, eng:jackal, fra:spa:por:chacal, rus:шакал (šakal), ben:শৃগাল (śrigal), may:jakal, jpn:ジャッカル (jakkaru), kor:자칼 (jakal), tha:แจ็กคัล (jɛ̀k-kal)|jackal|chacal|chacal|chacal|шакал|اِبْن آوَى‎|胡狼|ジャッカル|자칼|chó rừng|सियार|শিয়াল (শৃগাল)|jakal|mbweha|çakal|ŝakalo|šakaali|szakal
 xaki|xaki|||ara: شَكَّ‎ (šakka), fas: شک‎ (šak), hin:शक (śak); शंका (śankā), may:syak, tur:şek, swa:shaka; -shuku, hau:shakka|doubt (suspect; suspicion)|doute|duda|dúvida|сомнение|: شَكَّ|怀疑 (疑惑)||의혹||संदेह (शक, शंका)|||shaka|kuşku (şüphe, şek)|dubo|epäillä (epäilys, epäusko)|wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność
 xal|xal|||fra:châle, rus:шаль (šal), por:xaile, eng:shawl, tur:şal|scarf (shawl)||bufanda (chal)|||||||||||||koltuko|huivi (šaali)|szal, szalik
 xalke|xalke|||eng:scale, fra:échelle, hin:शल्क (shalka)|scale (flake)|échelle|escama|escama|чешуя||鳞|うろこ|||शल्क||sisik|gamba||||szala 

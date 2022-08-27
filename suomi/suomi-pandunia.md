@@ -163,7 +163,7 @@ Ariel - Ariel
 arkkitehti - bina plan ja  
 arkkitehtuuri - bina plan  
 Arktis - Artika  
-armeija (sotajoukko) - gun  
+armeija (sotajoukko) - ordu  
 Armenia - Haye  
 aromanttinen - anromanse  
 arrakki - varis araki  
@@ -180,13 +180,13 @@ arvo - valu
 arvokas - bau di  
 arvostelija (kriitikko) - piping ja  
 arvottaa - fa valu  
-ase - armi  
+ase - vuki  
 aseksuaali - ansexe di  
 asema (satama, lentokenttä) - porte  
 asema - estasi  
 asento - asan  
 asetelma - poze  
-asevoimat (armeija) - armia  
+asevoimat (armeija) - vuki ordu  
 asia (juttu) - sual tema  
 asia - xe  
 asiakirja (dokumentti, tiedosto) - dokumen  
@@ -209,6 +209,9 @@ ateljee (studio) - estudekan
 Atlantin valtameri - Atlanti Hai  
 atlantinturska - atlanti bakalau  
 atomi - atom  
+atomiase - atom vuki  
+atomipommi - atom bomba  
+atomiydin - atom kerne  
 atrain - tri pike  
 aueta (avautua) - be kai  
 aukaista (avata) - fa kai  
@@ -850,7 +853,7 @@ ilmapuntari (ilmanpainemittari, barometri) - air prese metre gi
 ilmasto - klima  
 ilmastonmuutos - klima mute  
 ilmastotiede (klimatologia) - klima logi  
-ilmavoimat - air gun  
+ilmavoimat - air ordu  
 ilmeinen (silminnähtävä) - vai vide di  
 ilmestyä - be zai  
 ilmiasu (ulkonäkö) - rupa  
@@ -1105,7 +1108,7 @@ kannada (eräs intialainen kieli) - karnada baxa
 kannattaa (tukea, edistää) - fa sim  
 kannattaa - suporte  
 kannattaja (tukija, -isti) - sim ja  
-kanootti - kano  
+kanootti - kanu  
 kansa - natia jen  
 kansainvälinen - natia medi  
 kansalainen (valtion asukas) - dexa jen  
@@ -1133,7 +1136,7 @@ kartogratia - karta grafi
 kartta - karta  
 kartta - topo metre grafi  
 karvaton - kexa hin  
-kasarmi - gun jen kan  
+kasarmi - ordu jen kan  
 kassa - pesa kasa  
 kassanhoitaja - pesa kasa ja  
 kassava (maniokki) - manioka  
@@ -1498,7 +1501,7 @@ kuolinluettelo - nekro lista
 kuolla (kuolema, kuolo; kuollut, vainaa) - mata  
 kuolla - be mata  
 kuollut ruumis - mata badan  
-kuori (suojakuori) - kaska  
+kuori (suojakuori, suoja) - kaska  
 kuoria - tire yo pil  
 kuorma (lasti, taakka) - karga  
 kuoro - ganir grupe  
@@ -1512,11 +1515,11 @@ kurkku - hiyar
 kuski (ajuri, ajaja) - xofer ja  
 kutoa kangasta - fa tela  
 kutomakone (kangaspuut) - tela gi  
-kutsua (kuuluttaa; manata) - voke  
-kutsua esiin (manata esiin) - exvoke  
-kutsua esiin (peräänkuuluttaa) - provoke  
-kutsua takaisin - revoke  
-kutsua tykö - invoke  
+kutsua (kuuluttaa; manata) - voka  
+kutsua esiin (manata esiin) - exvoka  
+kutsua esiin (peräänkuuluttaa) - provoka  
+kutsua takaisin - revoka  
+kutsua tykö - invoka  
 kuu - luna  
 Kuuba - Kuba  
 kuukakku - luna keke  
@@ -1879,7 +1882,7 @@ maasto (maan muodot) - geo forme
 maata (makoilla) - be kux  
 maataloudellinen (agraari-) - agri di  
 maatalousbiologia - agri bio logi  
-maavoimat - geo gun  
+maavoimat - geo ordu  
 Macao - Makau  
 Madagaskar - Madagasi  
 madagaskarilainen (malagassi) - madagasi di  
@@ -2000,7 +2003,7 @@ merimakkara - hai hiyar
 merimies - hai vala  
 merirosvo (piraatti) - pirate ja  
 merirosvous - pirate  
-merivoimat (sotalaivasto) - hai gun  
+merivoimat (sotalaivasto) - hai ordu  
 merivuokko - hai hua  
 merkitys - mana  
 merkitysoppi (semantiikka) - semi logi  
@@ -2216,7 +2219,6 @@ nikkeli - nikel
 nilviäinen - moluske  
 nimetön - nam hin  
 nimi - nam  
-nimike (termi) - vokabil  
 nimittää (kutsua) - fa nam  
 niobium - niobi yum  
 nipistää - pinse  
@@ -3186,10 +3188,10 @@ sorsa (ankka) - bata
 sosiaalinen media - sosi medi gi  
 sosialismi - sosi sim  
 sosialisti - sosi sim ja  
-sotaherra (generalissimo) - gun raja  
-sotaherran maa - gun raja dexa  
+sotaherra (generalissimo) - ordu raja  
+sotaherran maa - ordu raja dexa  
 sotilaallinen - jang di  
-sotilas - gun jen  
+sotilas - ordu jen  
 soturi (taistelija) - jang ja  
 soveltaa (sovellus) - aplika  
 soveltaa - fa aplika  
@@ -3966,7 +3968,7 @@ voitot ja tappiot - na xiti
 voittaa (voitto) - jai  
 voittaja - jaija  
 voitto pandunialle! - jai pandunia!  
-vokaali (ääntiö) - voke soni  
+vokaali (ääntiö) - voka soni  
 vokaali - jong fon  
 volframi - volfram  
 voltti (V) - volte  
@@ -4033,7 +4035,7 @@ wolofin kansa ja kieli - Volof
 ## Y  
 
 ydin (sydän) - kerne  
-ydinase - kerne arme  
+ydinase - kerne vuki  
 ydinenergia - kerne energi  
 ydinfissio - kerne cira  
 ydinfuusio - kerne unta  

@@ -134,11 +134,13 @@ argon - argon
 arguer - fa argu  
 argument - argu  
 argument - tese  
-arme - armi  
+arme - vuki  
+arme atomique - atom vuki  
+arme nucléaire - kerne vuki  
 armure - defa kaska  
-armée - armia  
-armée - gun  
-armée de l'ai - air gun  
+armée - ordu  
+armée - vuki ordu  
+armée de l'ai - air ordu  
 arobase (@) - adres zi  
 arrêt de bus - bus halte  
 arsenic - arsen yum  
@@ -265,6 +267,7 @@ bloquer - bara
 blé - ganum  
 bohrium - bor yum  
 bombe - bomba  
+bombe atomique - atom bomba  
 bon - bon  
 bonbon - kandi  
 bonne (domestique) - aya  
@@ -345,7 +348,7 @@ canne - gana
 canne à pêche - huke lin kane  
 canne à sucre - sukar gana  
 canon - dai pau  
-canoë - kano  
+canoë - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canyon (ravin) - kanyon  
 capacité (pouvoir, habileté) - bilta  
@@ -368,7 +371,7 @@ carte - karte
 carte de crédit - kredikarte  
 carte à collectionner - jami karte  
 cartographie - karta grafi  
-caserne - gun jen kan  
+caserne - ordu jen kan  
 cauri - kauri  
 ce...ci - yi  
 ce...lá - vo  
@@ -382,6 +385,7 @@ centenaire - sento nen di
 centre - jong  
 cerise - ceri  
 cerveau (cervelle) - nau  
+chacal - xakal  
 chachlik - xix nama  
 chaise à bascule (berçante) - roke kursi  
 chambre à coucher - sona kamar  
@@ -733,7 +737,7 @@ fondu - yung safa
 fonio blanc - foni  
 football - fute bol  
 force - balata  
-force navale (marine) - hai gun  
+force navale (marine) - hai ordu  
 forer (percer) - fora  
 former - fa forma  
 fort - bala  
@@ -806,7 +810,7 @@ guépard - cita
 gâteau de lune - luna keke  
 génotype - gene tipe  
 généalogie - gene logu  
-généralissime - gun raja  
+généralissime - ordu raja  
 généreux - databi  
 généreux - karim di  
 générosité (charité) - karim  
@@ -1201,6 +1205,7 @@ nouveau - neu di
 nouveau-né - neu gene di  
 nouveauté - neuta  
 nouvelle (récit court) - korte kata  
+noyau atomique - atom kerne  
 Noé - Noe  
 nuage - megi  
 numérique - komputa di  
@@ -1668,7 +1673,7 @@ soie - silke
 soif - sui yau  
 soir (soirée) - xam  
 soja - soi  
-soldat - gun jen  
+soldat - ordu jen  
 soleil - sol  
 sommeil - sona  
 son (sa) - se su  
@@ -1879,7 +1884,7 @@ voler - fa fei
 votre - tumen su  
 vouloir - vol  
 voyelle - jong fon  
-voyelle - voke soni  
+voyelle - voka soni  
 voûte - arka cati  
 vrai - ver  
 vulve - vulva  

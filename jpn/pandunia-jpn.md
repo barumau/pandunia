@@ -18,7 +18,7 @@ agri nomi - 農学
 air - 空気  
 air bio di - 好気性  
 • anair bio di - 嫌気性  
-air gun - 空軍  
+air ordu - 空軍  
 air porte - 空港  
 ais - 氷 (アイス)  
 ais hoki - アイスホッケー  
@@ -79,6 +79,8 @@ Athina - アテネ
 • ativi - 活動的  
 atlanti bakalau - タイセイヨウダラ  
 atlanti salmon - タイセイヨウサケ  
+atom bomba - 原子爆弾  
+atom kerne - 原子核  
 auro - 金  
 Austronesi - オーストロネシア  
 auto - 自己  
@@ -578,9 +580,6 @@ gubu - 河馬
 gui - 鬼  
 gui papi - オニゲシ  
 guku hua - キク  
-gun jen - 軍人  
-gun jen kan - 兵舎 (バラック)  
-gun raja - 総統 (将軍 )  
 guru - 尊師 (グル, 先生)  
 guta - 膝  
 guta kaska oste - 膝蓋骨  
@@ -595,12 +594,12 @@ hai - 海
 hai alga - 海藻  
 hai amir ja - 提督 (海軍大将)   
 hai cau - 海草  
-hai gun - 海軍  
 hai hiyar - 海鼠  
 hai hua - イソギンチャク  
 hai jele - 海月  
 hai kinar - 海岸  
 hai nil - 水色  
+hai ordu - 海軍  
 hai porte - 海港  
 hai vala - 船員 (水夫)  
 haki - 権利  
@@ -771,8 +770,8 @@ kane kasa - 檻 (篭, ケージ)
 kane minte - スペアミント  
 kane sor - 掛け金  
 kangaru - カンガルー  
-kano - カヌー  
 kantalupo melon - カンタロープ  
+kanu - カヌー  
 kanun vala - 弁護士  
 kanyon - 峡谷  
 kape truke - 罠  
@@ -813,7 +812,7 @@ ke yang - どんな
 keka ja - 客人  
 Keme - 古代エジプト  
 kentaur - 人馬 (ケンタウロス)  
-kerne - 核  
+kerne - 核 (核心)  
 kexa - 毛  
 kexa hin - 無毛  
 kilo - 千 (１０００)  
@@ -994,7 +993,7 @@ matur jen - 大人
 matur man - 男の人  
 mau - 猫  
 max fili di - 好き (お気に入りの)  
-max gun - 増派 (援兵)  
+max ordu - 増派 (援兵)  
 mayur - 孔雀  
 maze - 靴下 (ソックス)  
 me - 第  
@@ -1165,6 +1164,9 @@ ohtopus - タコ
 okebil - 大丈夫 (ＯＫ)  
 onda - 波  
 oranje rang - オレンジ色の  
+ordu jen - 軍人  
+ordu jen kan - 兵舎 (バラック)  
+ordu raja - 総統 (将軍 )  
 orkide - ラン  
 orto - まっすぐな  
 oselote - オセロット  
@@ -1588,12 +1590,14 @@ vo - その
 vode - 約束  
 vol - 欲しい  
 volfram - タングステン  
+vuki - 武器  
 vulva - 陰門  
 vutu - 物 (品)  
 
 ## X  
 
 xah mata - 詰み (チェックメイト)  
+xakal - ジャッカル  
 xalke - うろこ  
 xam - 夕べ  
 xam yam - 夕食  

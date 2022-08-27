@@ -82,7 +82,7 @@ agrobiology - agri bio logi
 agronomy - agri nomi  
 aim (point) - fa dika  
 air - air  
-airforce - air gun  
+airforce - air ordu  
 airplane - fei gi  
 airport (aeroport) - air porte  
 Aland Islands - Olande nesi  
@@ -201,10 +201,10 @@ Ariel - Ariel
 arithmetics - hisabu suta  
 Ark of the Covenant - liga di sanduku  
 arm - hande xaka  
-armed forces (army) - armia  
+armed forces (army) - vuki ordu  
 Armenia - Haye  
 armor (shielding) - defa kaska  
-army - gun  
+army - ordu  
 aromantic - anromanse  
 arrack - varis araki  
 arrow (bolt) - flece  
@@ -250,6 +250,9 @@ Atlantic Ocean - Atlanti Hai
 Atlantic salmon - atlanti salmon  
 atmospheric pressure - air prese  
 atom - atom  
+atomic bomb - atom bomba  
+atomic nucleus - atom kerne  
+atomic weapon - atom vuki  
 attachment (affix) - fixe  
 attack (assault) - fa agresi  
 attack (assault, aggression, hostility) - agresi  
@@ -334,7 +337,7 @@ Barbuda - Barbuda
 barium - bari yum  
 barley - jau  
 barometer - air prese metre gi  
-barracks - gun jen kan  
+barracks - ordu jen kan  
 barrel (can, cask) - tong  
 barrier (fence) - bara mur  
 bartender - bar vala  
@@ -596,7 +599,7 @@ californium - kaliforni yum
 caliph - halifa  
 caliphate - halifa dexa  
 call (name) - fa nam  
-call (voice; summon) - voke  
+call (voice; summon) - voka  
 call on the phone - fa tele fon  
 Callisto - Kalisto  
 calm (peaceful, quiet) - xanti di  
@@ -615,7 +618,7 @@ candle - mum foto
 candy (sweets) - kandi  
 cannabis (marijuana, ganja, pot, weed) - ganja  
 cannoneer - dai pau ja  
-canoe - kano  
+canoe - kanu  
 cantaloupe - kantalupo melon  
 Cantalupo in Sabina - Kantalupo va Sabina  
 canter and gallop - galope  
@@ -1339,7 +1342,7 @@ every (each) - pan un
 everybody (everyone) - pan jen  
 everything - pan xe  
 evident (apparent, obvious) - vai vide di  
-evoke (call out) - exvoke  
+evoke (call out) - exvoka  
 exa- - exa  
 examine (inspect, check) - ceke  
 example (instance of) - misal  
@@ -1623,7 +1626,7 @@ gender (sex) - jinse
 gender studies - jinselogi  
 genderqueer (non-binary) - nobi  
 genealogy (recording of descents) - gene logu  
-generalissimo (shogun) - gun raja  
+generalissimo (shogun) - ordu raja  
 generate (beget, produce; production, reproduction) - gene  
 generation (cohort) - gene grupe  
 generous (open-handed) - databi  
@@ -1739,7 +1742,7 @@ grilled meat (kebab) - kababu nama
 grimace - grimas  
 grind (grind in mill) - fa mol  
 grindstone (millstone) - mol seku  
-ground force (army) - geo gun  
+ground force (army) - geo ordu  
 group - grupe  
 grow (get bigger, inflate, swell) - be dai  
 grow (grow up, expand) - be raste  
@@ -2041,7 +2044,7 @@ introvert - in verse jen
 introvert - intraversi  
 invert (reverse) - fa an verse  
 invite - cing lai  
-invoke - invoke  
+invoke - invoka  
 inward (internal) - to in  
 Io - Io  
 iodine - iode  
@@ -2778,7 +2781,7 @@ nuclear energy - kerne energi
 nuclear fission - kerne cira  
 nuclear fusion - kerne unta  
 nuclear physics - kerne fizika  
-nuclear weapon (nuke) - kerne arme  
+nuclear weapon (nuke) - kerne vuki  
 nudism - nude sim  
 nudist - nude sim ja  
 number (abundance) - multita  
@@ -3258,7 +3261,7 @@ prophet Mani - Mani
 protactinium - protacini yum  
 protect (secure, save) - fa sekur  
 prove (demonstrate, testify) - fa dalil  
-provoke - provoke  
+provoke - provoka  
 proximity - kaributa  
 psychology - ruhu logi  
 public - demi di  
@@ -3364,7 +3367,7 @@ region of birth - nati stan
 register (record, log) - loge  
 reign (rule as an emperor) - imperi  
 reinforce (replenish) - fa max lika  
-reinforcements - max gun  
+reinforcements - max ordu  
 reject (throw back) - rejete  
 relic - cen zaman xe  
 religion (worship) - din  
@@ -3411,7 +3414,7 @@ return (way back) - retro dau
 return ticket - retro tikete  
 reverse (invert, direct back; backwards) - reversi  
 reverse (negative, un-) - an-  
-revoke (call back) - revoke  
+revoke (call back) - revoka  
 Rhea - Rea  
 rhenium - ren yum  
 Rhine - Ren  
@@ -3583,7 +3586,7 @@ scute - oste xalke
 sea - hai  
 sea anemone - hai hua  
 sea cucumber - hai hiyar  
-sea force (navy) - hai gun  
+sea force (navy) - hai ordu  
 seaborgium - siborge yum  
 seagrass - hai cau  
 search (seek, look for) - soki  
@@ -3654,7 +3657,7 @@ shatter (break into pieces) - fa parce
 shea (vitellaria) - karite  
 sheep - meme  
 shelf (bookshelf) - lipa bano  
-shell (crust, carapace) - kaska  
+shell (crust, carapace, shield) - kaska  
 Shia Islam (Shi’ism) - xia islam din  
 shield - defa bano  
 Shintoism - xindau din  
@@ -3664,9 +3667,8 @@ Shiva - xiva
 shock (collision) - xoke  
 shoemaker - sapatu ja  
 shoemaker's shop - sapatukan  
-shogunate - gun raja dexa  
+shogunate - ordu raja dexa  
 shoot (fire) - pau  
-shop (building, house, place) - kan  
 shopping - xopi  
 shore (coast, beach) - hai kinar  
 short (brief) - korte  
@@ -3764,7 +3766,7 @@ software (virtual device) - program gi
 soil (dirt) - darte  
 soily (dirty) - darte di  
 solar system - sol sistem  
-soldier - gun jen  
+soldier - ordu jen  
 solid - gati mate  
 Solomon Islands - Solomon nesi  
 solstice - sol estasi  
@@ -4039,7 +4041,6 @@ tent - hema
 tentacle (feeler) - sense xaka  
 tera- - tera  
 terbium - terbi yum  
-term (vocable) - vokabil  
 terracotta - baka poto  
 terrain - geo forme  
 terror - teror  
@@ -4349,7 +4350,7 @@ voodoo - vodun
 vote (ballot) - vote  
 vote (cast a vote) - fa vote  
 vowel - jong fon  
-vowel - voke soni  
+vowel - voka soni  
 vulva - vulva  
 waffle - vafle  
 wait (delay) - dele  
@@ -4397,7 +4398,7 @@ we (inclusive we) - tumimen
 we - mimen  
 weak (feeble) - anbala  
 wealth (fortune) - riketa  
-weapon (arms) - armi  
+weapon (arms) - vuki  
 wear (dress, put on) - fa fuku  
 weather - sama hal  
 weave (knit) - fa tela  
@@ -4478,6 +4479,7 @@ word processing - kitabu culi
 work (job, task) - karxe  
 work - kar  
 worker - karja  
+workshop (shop, building, house or place for doing something) - kan  
 workshop - karkan  
 world - dunia  
 world language - dunia baxa  

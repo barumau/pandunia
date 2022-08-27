@@ -28,7 +28,7 @@ agri nomi - agronomia
 air - ar  
 air bio di - aeróbico  
 • anair bio di - anaeróbico  
-air gun - força aérea  
+air ordu - força aérea  
 air porte - aeroporto  
 ais hoki - hóquei no gelo  
 ais krem - sorvete (gelado)  
@@ -74,7 +74,6 @@ argon - argon
 argu - argumento  
 arka - arco  
 arka cati - abóbada  
-armi - arma  
 aroma - cheiro  
 aroma melon - melão coreano  
 arsen yum - arsénic  
@@ -102,6 +101,8 @@ Athina - Atenas
 • ativi - ativo  
 • anativi - inativo  
 atlanti bakalau - bacalhau-do-atlântico  
+atom bomba - bomba atômica  
+atom kerne - núcleo atómico  
 auro - ouro  
 Austronesi - Austronésia  
 auto loga - monólogo  
@@ -578,10 +579,6 @@ grimas - careta (esgar)
 grupe - grupo  
 guai - bizarro  
 gubu - hipopótamo  
-gun - exército  
-gun jen - soldado  
-gun jen kan - quartel  
-gun raja - generalíssimo  
 guta - joelho  
 guta kaska oste - rótula (patela)  
 
@@ -596,10 +593,10 @@ hai alga - macroalga
 hai amir ja - almirante  
 hai cau - erva marinha  
 hai di - marítimo  
-hai gun - marinha  
 hai hiyar - pepino-do-mar (holotúrias)  
 hai jele - medusa  
 hai kinar - costa  
+hai ordu - marinha  
 hai porte - porto marítimo  
 hai vala - marinheiro  
 haki - direito  
@@ -773,9 +770,9 @@ kane kasa - gaiola (jaula)
 kane minte - hortelã-verde  
 kane sor - tranca  
 kangaru - canguru  
-kano - canoa  
 kantalupo melon - meloa (cantalupo)  
 Kantalupo va Sabina - Cantalupo in Sabina  
+kanu - canoa  
 kanyon - canhão (ravina, barranco)  
 kape truke - armadilha  
 kar - trabalhar  
@@ -816,6 +813,7 @@ Keme - Antigo Egito
 kentaur - centauro  
 kentaur hua - centáurea  
 kerne - núcleo (cerne)  
+kerne vuki - arma nuclear  
 kexa broxa - escova de cabelo  
 kexa hin - despelado  
 ki - que  
@@ -1162,6 +1160,10 @@ onda - onda
 onor - honra  
 oranje - laranja  
 oranje rang - alaranjado  
+ordu - exército  
+ordu jen - soldado  
+ordu jen kan - quartel  
+ordu raja - generalíssimo  
 ore - orelha  
 ore tis - otite  
 orkide - orquídea  
@@ -1596,11 +1598,12 @@ vitamin - vitamina
 Vixnu - Vixnu  
 vo - esse (aquele)  
 vode - promessa (voto)  
-voke soni - vogal  
+voka soni - vogal  
 vol - querer (desejar)  
 vol xe - vontade  
 volfram - tungsténio  
 vote - voto  
+vuki - arma  
 vulva - vulva  
 vutu - item  
 
@@ -1608,6 +1611,7 @@ vutu - item
 
 xah geme - xadrez  
 xah mata - xeque-mate  
+xakal - chacal  
 xaki - dúvida  
 xalke - escama  
 xam - noitinha  

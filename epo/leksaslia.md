@@ -54,7 +54,6 @@
 **argente** *arĝento* ← portugala:itala:argento, franca:argent, malaja:argentum, svahila:agenti  
 **argon** *argono* ← angla:argon, franca:argon, hispana:argón, portugala:argon, rusa:аргон, japana:アルゴン, korea:아르곤, vjetnama:agon, hindia:ऑर्गन, bengala:আর্গন, malaja:argon, svahila:arigoni, araba: أرجون  
 **arka** ** ← angla:arch, hispana:portugala:arco, franca:arc, rusa:арка (arka), malaja:arka  
-**armi** *armilo* ← franca:arme, angla:arms, hispana:portugala:arma + rusa:армия (armiya), hindia:आर्मी (ārmī)  
 **aroma** ** ← angla:hispana:portugala:malaja:aroma, franca:arôme, deu:Aroma, rusa:аромат (aromat), japana:アロマ (aroma)  
 **arsen yum** *arseno* ← angla:arsenic, franca:arsenic, hispana:arsénico, portugala:arsénic, mandarena:砷 (shēn), vjetnama:asen, hindia:आर्सेनिक, bengala:আর্সেনিক, malaja:arsen, svahila:aseniki, araba: زرنيخ  
 **asal** *origino* ← araba:(ʾaṣl), turka:asl, malaja:asal, hindia:असल (asl), svahila:asili  
@@ -511,7 +510,6 @@
 **gul** *gluti* ← bengala:গেলা (gela), portugala:engolir, rusa:глотать (glotat'), taja:กลืน (glʉʉn), hispana:deglutir, franca:déglutir  
 **gule** ** ← araba:الغول (ghūl), persa:غول‎ (ğul), angla:portugala:ghoul, hispana:gul, rusa:гуль (gul′), turka:kulbastı, malaja:ghul, japana:グール (gūru)  
 **guma** *tamburo* ← svahila:ngoma, rwa:ingoma + mandarena:鼓 (gǔ)  
-**gun** *armeo* ← mandarena:军 (jūn), kantona:軍 (gwan1), japana:軍 (gun), korea:군 (gun), vjetnama:quân  
 **guru** *guruo (instruisto)* ← hindia:गुरु (guru), bengala:গুরু (guru), guĝarata:ગુરુ (guru), panĝaba:ਗੁਰੂ (gurū), filipina:guro, taja:ครู (gruu), malaja:angla:portugala:guru, hispana:gurú, rusa:гуру (guru), franca:gourou, korea:구루 (guru), japana:グル (guru)  
 **guste** *gusto* ← hispana:gusto, portugala:gosto, franca:goût  
 **guta** *genuo* ← svahila:goti, hindia:घुटना (ghuṭnā), guĝarata:ઘૂંટણ (ghū̃ṭaṇ), panĝaba:ਗੋਡਾ (goḍā), marataja:गुडघा (guḍghā)  
@@ -685,10 +683,10 @@
 **kanga** ** ← hindia:कंघी (kaṅghī), urdua:(kaṅghī), bengala:কঙ্কত (kaṅkata), pan:ਕੰਘਾ (kaghā), marataja:कंगवा (kaṅgvā), panĝaba:ਕੰਘਾ (kaṅghā) + angla:franca:malaja:kanga  
 **kangaru** *kangaro* ← angla:kangaroo, hispana:canguro, portugala:canguru, rusa:кенгуру (kenguru), turka:kanguru, svahila:kangaruu, araba:كَنْغَر‎ (kanḡar), hindia:कंगारू (kaṅgārū), malaja:kanggaru, japana:カンガルー (kangarū)  
 **kanjar** *ponardo* ← persa:(xanjar), turka:haner, rusa:кинжал (kinžal)  
-**kano** *kanuo (kanoto)* ← angla:canoe, franca:canoë, hispana:portugala:canoa, rusa:каноэ (kanoe), japana:カヌー (kanū), korea:카누 (kanu), turka:kano  
 **kanon** ** ← angla:franca:hispana:canon, portugala:canone  
 **kanta** *ŝultro* ← hindia:कंधा (kandhā), urdua:(kandhā), bengala:কাঁধ (kandhô), + japana:肩 (kata), + araba:(kataf), + mina:肩頭 (keng-thâu)  
 **kantalupo melon** ** ← angla:cantaloupe, hispana:portugala:cantalupo, franca:cantaloup, deu:Cantaloup, rusa:канталупа (kantalupa), japana:カンタロープ (kantarōpu)  
+**kanu** *kanuo (kanoto)* ← angla:canoe, franca:canoë, hispana:portugala:canoa, rusa:каноэ (kanoe), japana:カヌー (kanū), korea:카누 (kanu), turka:kano  
 **kanun** *lego* ← araba:(qānūn), turka:kanun, svahila:kanuni, hindia:क़ानून (qānūn), + angla:franca:canon, portugala:cânone, rusa:канон (kanon)  
 **kanyon** ** ← angla:franca:canyon, hispana:cañón, portugala:canhão, rusa:каньон (kan’on), polona:kanion, japana:キャニオン (kyanion), hungara:turka:malaja:filipina:kanyon  
 **kape** *kapti* ← turka:kapmak, hungara:kap, sve:kapa, fin:kaapata, ned:kapen, hispana:portugala:capturar, angla:capture, spa:por:caber, kmera:ចាប់ (cap)  
@@ -729,7 +727,8 @@
 **kelele** ** ← svahila:konga:makelele  
 **Keme** ** ← cop:ⲕⲏⲙⲉ (kēme)  
 **kentaur** *centaǔro* ← angla:centaur, franca:centaure, hispana:portugala:centauro, rusa:кентавр (kentavr), hindia:सेंटूर (seṇṭūr), araba: قَنْطُور‎ (qanṭūr), turka:kentaur, svahila:kentauro, japana:ケンタウロス (Kentaurosu), korea:켄타우로스 (kentauroseu)  
-**kerne** *kerno (koro)* ← angla:kernel, franca:coeur, portugala:cerne, hindia:केंद्र (kendr)  
+**kerne vuki** *kernarmilo* ← angla:nucleus, hispana:portugala:núcleo, malaja:nuklir  
+**kerne** *kerno (koro)* ← deu:Kern, angla:kernel, franca:coeur, portugala:cerne + hindia:केंद्र (kendr), bengala:কেন্দ্ৰ (kendrô), tamila:கேந்திரம் (kēntiram)  
 **kerubi** ** ← heb:כְּרוּב‎ (kerúv), angla:cherub, hispana:querubín, portugala:querubim, franca:chérubin, rusa:херувим (heruvim), svahila:kerubi, malaja:kerub, mandarena:基路伯 (jīlùbó)  
 **ketel** ** ← angla:kettle, rusa:котёл (kot’ol), hindia:केतली (ketlī), bengala:কেতলি (ketli), malaja:ketel  
 **kexa** *haro* ← japana:毛 (ke), hindia:केश (keś), urdua:(keś), panĝaba:ਕੇਸ਼ (keś), teluga:(kēśamu), kanara:(kēśa)  
@@ -1083,6 +1082,7 @@
 **onda** *ondo* ← hispana:portugala:itala:onda, franca:onde, malaja:ombak  
 **onor** *honoro (respekto)* ← angla:polona:hispana:honor, franca:honneur, portugala:honra, turka:onur  
 **oranje** *oranĝo* ← angla:orange, hispana:naranja, portugala:laranja, hindia:नारंगी (narangi), japana:(orenji), + franca:orange, rusa:оранжевый (oranževiy)  
+**ordu** *armeo* ← mon:ᠣᠷᠳᠤ (ordu), turka:ordu, persa: اردو (ordu), hindia:उर्दू (urdū) + angla:franca:horde, hispana:portugala:horda, rusa:орда (orda), mandarena:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), korea:오르도 (oreudo) + araba: عُرْضِيّ‎ (ʿurḍiyy)  
 **ore** *orelo* ← mandarena:耳 (ěr), angla:ear, deu:Ohr, franca:oreille, portugala:orelha, hispana:oreja  
 **orgazme** ** ← angla:orgasm, hispana:portugala:orgasmo, franca:malaja:orgasme, rusa:оргазм (orgazm), turka:orgazm, hindia:ओगाज़्म (ogāzma), japana:オーガズム (ōgazumu), korea:오르가슴 (oreugaseum)  
 **orkide** ** ← angla:orchid, hispana:portugala:orquídea, rusa:орхидея (orhideya), hindia:ऑर्किड (orkid), bengala:অর্কিড (arkiḍa)  
@@ -1539,16 +1539,17 @@
 **vo** *tio* ← bengala:ও (o), hindia:वह (vo), turka:o  
 **vode** ** ← franca:vœu, hispana:portugala:voto, araba:وعد (waʿd), hindia:वादा (vādā), turka:vaat, persa:وعده (va'deh)  
 **vodun** ** ← ewe:vodun, hat:vodou, bra:vodum, angla:voodoo, franca:vaudou, hispana:vudú  
-**voke** ** ← angla:voke, franca:-voquer, hispana:portugala:-vocar + deu:Vokal  
+**voka** ** ← angla:voke, franca:-voquer, hispana:portugala:-vocar + deu:Vokal  
 **vol** *voli* ← franca:voiloir, itala:volere, deu:wollen, angla:volition, hispana:voluntad, rusa:воля (volya), polona:wola  
 **volfe** *lupo* ← deu:ned:angla:wolf, rusa:волк (volk)  
 **volfram** ** ← angla:wolfram, hispana:wolframio, rusa:вольфрам, mandarena:钨 (wū), vjetnama:vonfam, malaja:wolfram, svahila:wolframi  
 **vote** ** ← angla:vote, hispana:portugala:voto, hindia:वोट (voṭ), rusa:вотум (votum)  
+**vuki** *armilo* ← mandarena:武器 (wǔqì), kantona:武器 (mou5 hei3), japana:武器 (buki), korea:무기 (mugi), vjetnama:vũ khí  
 **vulva** *vulvo* ← franca:vulve, angla:portugala:hispana:turka:vulva, rusa:вульва (vul’va)  
 **vutu** ** ← mandarena:物 (wù), vua:物 (veq5), japana:物 (butsu), vjetnama:vật + hindia:marataja:वस्तु (vastu), bengala:বস্তু (bôstu), pan:ਵਸਤੁ (vastu), tha:วัสดุ (wạttu)  
 **xa** *–os* ← angla:shall + araba:(sa-) + vjetnama:sẽ + sve:ska  
 **xaka** *branĉo* ← persa: شاخه (šâxe), hindia:शाखा (śākhā), bengala:শাখা (śakha), tamila:சாகை (sākai), teluga:శాఖ (śākha), kmera:សាខា (saakhaa), taja:สาขา (sǎa-kǎa)  
-**xakal** ** ← persa:شغال‎ (šağâl), angla:jackal, hispana:portugala:chacal, rusa:шака́л (šakál), turka:çakal, bengala:শৃগাল (śrigal), malaja:jakal, taja:แจ็กคัล (jɛ̀k-kal), japana:ジャッカル (jakkaru)  
+**xakal** *ŝakalo* ← persa: شغال‎ (šağâl), turka:çakal, angla:jackal, franca:hispana:portugala:chacal, rusa:шакал (šakal), bengala:শৃগাল (śrigal), malaja:jakal, japana:ジャッカル (jakkaru), korea:자칼 (jakal), taja:แจ็กคัล (jɛ̀k-kal)  
 **xaki** *dubo* ← araba: شَكَّ‎ (šakka), persa: شک‎ (šak), hindia:शक (śak); शंका (śankā), malaja:syak, turka:şek, svahila:shaka; -shuku, haŭsa:shakka  
 **xal** *koltuko* ← franca:châle, rusa:шаль (šal), portugala:xaile, angla:shawl, turka:şal  
 **xalke** ** ← angla:scale, franca:échelle, hindia:शल्क (shalka)  

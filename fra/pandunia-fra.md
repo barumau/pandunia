@@ -37,7 +37,7 @@ aha - comprendre (réaliser)
 air - air  
 air bio di - aérobique  
 • anair bio di - anaérobique  
-air gun - armée de l'ai  
+air ordu - armée de l'ai  
 air porte - aéroport  
 air prese - pression atmosphérique  
 air prese metre gi - baromètre  
@@ -132,8 +132,6 @@ arka - arc
 arka cati - voûte  
 arka ja - archer  
 arka suta - tire à l'arc  
-armia - armée  
-armi - arme  
 aroma - odeur  
 arsen yum - arsenic  
 arte fete - artefact  
@@ -170,6 +168,9 @@ atlanti bakalau - morue de l'Atlantique
 Atlanti Hai - océan Atlantique  
 atlanti salmon - saumon altentique  
 atom - atome  
+atom bomba - bombe atomique  
+atom kerne - noyau atomique  
+atom vuki - arme atomique  
 auro - or  
 Australia - Australie  
 Austronesi - Austronésie  
@@ -747,10 +748,6 @@ guai - bizarre
 gubu - hippopotame   
 gui papi - pavot d'Orient  
 gule - goule  
-gun - armée  
-gun jen - soldat  
-gun jen kan - caserne  
-gun raja - généralissime  
 guta - genou  
 guta kaska oste - rotule  
 
@@ -765,10 +762,10 @@ hai - mer
 hai alga - algues  
 hai amir ja - amiral  
 hai cau - posidonie (herbiers marins)  
-hai gun - force navale (marine)  
 hai hiyar - concombre de mer  
 hai jele - méduse  
 hai kinar - côte  
+hai ordu - force navale (marine)  
 hai vala - matelot  
 haki - droit  
 hal - état  
@@ -955,9 +952,9 @@ kane kasa - cage
 kane minte - menthe verte  
 kane sor - loquet  
 kangaru - kangourou  
-kano - canoë  
 kanon - classique (canon)  
 Kantalupo va Sabina - Cantalupo in Sabina  
+kanu - canoë  
 kanyon - canyon (ravin)  
 kape truke - piège  
 kar - travailler  
@@ -1000,6 +997,7 @@ Keme - Égypte antique
 kentaur - centaure  
 kentaur hua - Centaurée  
 kerne - coeur  
+kerne vuki - arme nucléaire  
 kexa broxa - brosse à cheveux  
 kexa hin - glabre  
 ki - que  
@@ -1363,6 +1361,10 @@ onda - onde
 onor - honneur  
 oranje - orange (fruit)  
 oranje rang - orange (couleur)  
+ordu - armée  
+ordu jen - soldat  
+ordu jen kan - caserne  
+ordu raja - généralissime  
 ore - oreille  
 ore tis - otite  
 orkide - orchidée  
@@ -1855,17 +1857,20 @@ vitamin - vitamine
 Vixnu - Vishnou  
 vo - ce...lá  
 vode - vœu (promesse)  
-voke soni - voyelle  
+voka soni - voyelle  
 vol - vouloir  
 volfe - loup  
 volfram - tungstène  
 Volof - wolof  
+vuki - arme  
+vuki ordu - armée  
 vulva - vulve  
 vutu - objet (article)  
 
 ## X  
 
 xah mata - échec et mat  
+xakal - chacal  
 xaki - doute  
 xalke - échelle  
 xam - soir (soirée)  
