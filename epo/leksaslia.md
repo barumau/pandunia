@@ -140,6 +140,7 @@
 **bedinjan** *melongeno* ← hindia:बैंगन (bEngān), araba:(bādinjān), portugala:berinjela, franca:aubergine, hispana:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), turka:badincan, patlıcan, rusa:баклажан (baklažan), svahila:mbilingani  
 **bega** *fuĝi* ← rusa:убегать (ubegat'), hindia:भागना (bhāgnā)  
 **behe** *kapro* ← angla:baa, portugala:bé, rusa:бэ-бэ (be-be), polona:bee  
+**bela** ** ← araba: بَلَاء (balāʾ), persa: بلا (balâ), hindia:बला (balâ), malaja:bala, turka:bela, oroma:svahila:balaa + rusa:боль (bol'); беда (beda)  
 **bele** *fosilo (ŝovelilo)* ← persa: بیل‎ (bil), turka:bel, hindia:बेलचा (belcā), bengala:বেলচা (bēlacā), svahila:beleshi + franca:pelle, kmera:ប៉ែល (pael)  
 **ben** *ido (gefilo)* ← araba: ابن (ibn, bint), heb:בן (ben), בת (bat) svahila:bin  
 **benci** *benko* ← angla:bench, svahila:benchi, hindia:बेंच (bẽc), japana:ベンチ (benchi), korea:벤치 (benchi)  
@@ -742,7 +743,7 @@
 **kira** ** ← araba:(kirāʾ), turka:kira, hindia:किराया (kirāyā), urdua:(kirāyā), persa:(kerāya), hispana:alquiler  
 **kirate** ** ← araba: قِيرَاط‎ (qīrāṭ), angla:franca:carat, hispana:portugala:quilate, rusa:карат (karat), mandarena:克拉 (kèlā), japana:カラット (karatto), korea:캐럿 (kaereot), malaja:karat, svahila:karati, turka:kırat  
 **kisma** *sorto (destino)* ← araba: قِسْمَة‎ (qisma), hindia:क़िस्मत (qismat), bengala:কিসমত (kiśmôt), angla:kismet, rusa:кисмет (kismet), turka:kısmet  
-**kitabu** *skribo* ← araba:urdua:(kitāb), persa:(ketâb), turka:kitap, malaja:kitab, svahila:kitabu, hindia:किताब (kitāb)  
+**kitaba** *skribo* ← araba:urdua:(kitāb), persa:(ketâb), turka:kitap, malaja:kitab, svahila:kitabu, hindia:किताब (kitāb)  
 **kivi** *kivo* ← angla:franca:hispana:malaja:svahila:kiwi, portugala:quivi, japana:キーウィ (kīwi), korea:키위 (kiwi), hindia:कीवी (kīvī), turka:kivi  
 **klar** *klara* ← deu:klar, hispana:portugala:claro, angla:clear, franca:clair  
 **klas** ** ← angla:class, hispana:clase, portugala:franca:classe, rusa:класс (klass), کلاس‎ (kelâs), malaja:kelas, japana:クラス (kurasu)  
@@ -1082,7 +1083,7 @@
 **onda** *ondo* ← hispana:portugala:itala:onda, franca:onde, malaja:ombak  
 **onor** *honoro (respekto)* ← angla:polona:hispana:honor, franca:honneur, portugala:honra, turka:onur  
 **oranje** *oranĝo* ← angla:orange, hispana:naranja, portugala:laranja, hindia:नारंगी (narangi), japana:(orenji), + franca:orange, rusa:оранжевый (oranževiy)  
-**ordu** *armeo* ← mon:ᠣᠷᠳᠤ (ordu), turka:ordu, persa: اردو (ordu), hindia:उर्दू (urdū) + angla:franca:horde, hispana:portugala:horda, rusa:орда (orda), mandarena:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), korea:오르도 (oreudo) + araba: عُرْضِيّ‎ (ʿurḍiyy)  
+**ordu** *armeo* ← mon:ᠣᠷᠳᠤ (ordu), turka:ordu, araba: عُرْضِيّ‎ (ʿurḍiyy), persa: اردو (ordu), hindia:उर्दू (urdū) + angla:franca:horde, hispana:portugala:horda, rusa:орда (orda), mandarena:斡耳朵 (wò'ěrduǒ), japana:オルド (orudo), korea:오르도 (oreudo)  
 **ore** *orelo* ← mandarena:耳 (ěr), angla:ear, deu:Ohr, franca:oreille, portugala:orelha, hispana:oreja  
 **orgazme** ** ← angla:orgasm, hispana:portugala:orgasmo, franca:malaja:orgasme, rusa:оргазм (orgazm), turka:orgazm, hindia:ओगाज़्म (ogāzma), japana:オーガズム (ōgazumu), korea:오르가슴 (oreugaseum)  
 **orkide** ** ← angla:orchid, hispana:portugala:orquídea, rusa:орхидея (orhideya), hindia:ऑर्किड (orkid), bengala:অর্কিড (arkiḍa)  
@@ -1110,7 +1111,7 @@
 **pang** *pano* ← taja:ปัง (pang), korea:빵 (ppang), kmera:នំប៉័ង (numpang), japana:パン (pan), portugala:pão, hispana:pan, franca:pain  
 **panike** *paniko* ← angla:panic, hispana:pánico, portugala:pânico, franca:panique, rusa:паника (panika), persa:پانیک‎ (pânik), japana:パニック (panikku)  
 **panir** ** ← hindia:पनीर (panīr), panĝaba:ਪਨੀਰ (panīr), bengala:পনির (pônir), turka:peynir, angla:paneer  
-**panka** *ventumilo* ← hindia:पंखा (paṅkhā), urdua:(pankhā), birma:ပန်ကာ (panka), persa:(panke), + angla:punkah, franca:panka, deu:Pankha  
+**panka** *flugilo* ← hindia:पंखा (paṅkhā) + (fan) birma:ပန်ကာ (panka), persa:(panke), + angla:punkah, franca:panka, deu:Pankha  
 **pante** *pantalonoj* ← angla:pants, hindia:पैंट (paiṇṭ), bengala:প্যান্ট (pyanṭ), hispana:pantalón, franca:pantalon, araba:بنطلون‎ (banṭalōn), turka:pantolon  
 **papagai** *papago* ← araba:(babbaḡāʾ), turka:papağan, hispana:papagayo, portugala:papagaio, deu:Papagei, hungara:papagáj, rusa:попугай (popugay)  
 **papaya** *papajo* ← angla:hispana:turka:papaya, franca:papaye, svahila:papai, portugala:papaia, rusa:папайя (papayya), japana:パパイヤ (papaiya), korea:파파야 (papaya), hindia:पपीता (papītā), bengala:পেঁপে (pẽpe)  
@@ -1195,7 +1196,7 @@
 **pote** ** ← angla:franca:pot, hispana:portugala:pote, malaja:poci, japana:ポット (potto), korea:포트 (poteu)  
 **poto** *koto* ← pcm:konga:lingala:poto-poto  
 **poyu** ** ← franca:pou, portugala:piolho, hispana:piojo  
-**poze** ** ← angla:hispana:portugala:franca:pose, deu:Pose, rusa:поза (poza), japana:ポーズ  
+**poze** ** ← angla:hispana:portugala:franca:pose, deu:Pose, rusa:поза (poza), japana:ポーズ (pōzu)  
 **prati** ** ← angla:practice, franca:pratique, portugala:prática, turka:pratik, polona:praktyka, hindia:प्रथा (prathā)  
 **prazedim yum** ** ← angla:praseodymium, franca:praséodyme, hispana:praseodimio, portugala:praseodímio, rusa:празеодим, japana:プラセオジム, korea:프라세오디뮴, vjetnama:prazeođim, hindia:प्रासियोडाइमियम, bengala:প্র্যাসেওডিমিয়াম, malaja:praseodinium, svahila:praseodimi, araba: براسوديميوم  
 **prese** *premo* ← franca:pression, hispana:presión, portugala:pressão, rusa:пресс (press), japana:プレス (puresu)  
@@ -1300,6 +1301,7 @@
 **sanduice** ** ← angla:franca:hispana:sandwich, portugala:sanduíche, rusa:сандвич (sandvič), araba:(sandawitš), mandarena: (sānwénzhì), japana:サンドイッチ (sandoichi), hindia:सैंडविच (saiṇḍvic), malaja:sandwic  
 **sanduku** *skatolo (kesto)* ← svahila:lingala:sanduku, turka:sandık, rusa:сундук (sunduk), araba:صُنْدُوق‎ (ṣundūq), persa:urdua:صندوق‎ (sanduq), haŭsa:sàndūƙī̀, oroma:saanduqa  
 **sante** *sankta* ← portugala:hispana:santo, angla:franca:saint, konga:santu, mandarena:圣 (shèng)  
+**sanzi** *ventumilo* ← mandarena:扇子 (shànzi), kantona:扇子 (sin3zi2), japana:扇子 (sensu), korea:선 (seon), mon:шанз (šanz)  
 **sapatu** *ŝuo* ← hispana:zapato, portugala:sapato, malaja:sepatu, svahila:sapatu  
 **sar** ** ← persa:(sar), hindia:सिर (sir) + araba:(raʾs), svahila:rasi  
 **sata** *momento* ← araba:(sāʿa), persa:(sâ'at), malaja:turka:saat, svahila:saa  
@@ -1373,7 +1375,6 @@
 **sueda** ** ← angla:sweat, hispana:sudor, portugala:suor, franca:sueur, hindia:स्वेद (sveda), teluga:స్వేదం (svēdaṃ)  
 **sui kaboga** ** ← portugala:abóbora-d'água, turka:su kabağı  
 **sui** *akvo* ← mandarena:水 (shuǐ), japana:水 (sui), korea:수 (su), vjetnama:thuỷ + turka:su  
-**suje** ** ← hindia:सुझाव (sujhāv), teluga:(sūcana), angla:suggestion, portugala:sugestão  
 **suka** *feliĉa (ŝati)* ← hindia:सुख (sukha), malaja:suka, teluga:సుఖము (sukhamu), taja:สุข (suk), nan:舒合 (su-kah) + japana:好く (suku)  
 **sukar** *sukero* ← angla:sugar, franca:sucre, hispana:azúcar, portugala:açúcar, araba: سُكَّر (sukkar), hindia:शक्कर (śakkar), bengala:শর্করা (śôrkôra), malaja:sakar, svahila:sukari, turka:şeker, tamila:சக்கரை (cakkarai)  
 **sulfu** *sulfuro* ← angla:sulfur, franca:soufre, hispana:azufre, portugala:enxofre, svahila:sulfuri  
@@ -1459,7 +1460,7 @@
 **trate** *treni* ← angla:hispana:tractor, franca:tracteur, portugala:trator, rusa:трактор (traktor), araba: تَرَاكْتُور‎ (tarāktūr), japana:トラクター (torakutā), korea:트랙타 (teuraekta), hindia:ट्रैक्टर (ṭraikṭar), bengala:ট্র্যাক্টর (ṭrækṭôr), malaja:traktor, svahila:trekta, turka:traktör  
 **trater** *traktoro* ← angla:hispana:tractor, franca:tracteur, portugala:trator, rusa:трактор (traktor), araba: تَرَاكْتُور‎ (tarāktūr), japana:トラクター (torakutā), korea:트랙타 (teuraekta), hindia:ट्रैक्टर (ṭraikṭar), bengala:ট্র্যাক্টর (ṭrækṭôr), malaja:traktor, svahila:trekta, turka:traktör  
 **trati** ** ← angla:treaty, franca:traité, hispana:portugala:tratado, rusa:контракт (kontrakt), turka:kontrat, malaja:kontrak  
-**tre** ** ← franca:très  
+**tre** *tre* ← franca:très  
 **tren** *trajno (vagonaro)* ← angla:franca:train, hispana:turka:tren, hindia:ट्रेन (ṭren), portugala:trem  
 **tri** *tri (3)* ← angla:three, franca:trois, hispana:tres, portugala:três, rusa:три (tri), hindia:त्रि-  (tri-), bengala:ত্রি- (tri-), malaja:tri-  
 **tribu** *tribo* ← franca:hispana:tribu, portugala:filipina:tribo, angla:tribe  
@@ -1526,7 +1527,6 @@
 **viki** ** ← angla:franca:hispana:portugala:malaja:wiki, turka:viki, araba:وِيكي‎ (wikī), persa:ویکی‎ (viki), hindia:विकि (viki), bengala:উইকি (uiki), mandarena:维基 (wéijī), kantona:維基 (wai4 gei1), japana:ウィキ (wiki), korea:위키 (wiki)  
 **vilde** ** ← deu:angla:ned:wild, sve:vild  
 **vin** *vino* ← franca:vin, hispana:vino, rusa:вино (vino), angla:wine, deu:Wein, hindia:वाइन (vāin), japana:ワイン (wain), svahila:mvinyo  
-**ving** ** ← angla:wing, deu:Schwinge  
 **vinil** ** ← angla:vinyl, hispana:vinilo, portugala:vinil, franca:vinyle, rusa:винил (vinil), japana:ビニル (viniru)  
 **violeta** ** ← angla:portugala:franca:violet, hispana:violeta, deu:violett, rusa:фиолетовый (fioletovyy), japana:バイオレット (baioretto), korea:보라 (bola)  
 **virje** *virgulo* ← angla:virgin, franca:vierge, hispana:virgen, portugala:virgem  
@@ -1540,6 +1540,7 @@
 **vode** ** ← franca:vœu, hispana:portugala:voto, araba:وعد (waʿd), hindia:वादा (vādā), turka:vaat, persa:وعده (va'deh)  
 **vodun** ** ← ewe:vodun, hat:vodou, bra:vodum, angla:voodoo, franca:vaudou, hispana:vudú  
 **voka** ** ← angla:voke, franca:-voquer, hispana:portugala:-vocar + deu:Vokal  
+**voku** *okazi* ← angla:occur, hispana:ocurrir, portugala:ocorrer + japana:起こる (okoru) + araba: وَقْعَة (waqʿa), persa: وقعه‎ (vaq'e), urdua: وقوع (vuqū’), hindia:वाक़या (vāqyā), bengala:অকু (ôku), turka:vaka; vakia + tamila:ஆகு (āku)  
 **vol** *voli* ← franca:voiloir, itala:volere, deu:wollen, angla:volition, hispana:voluntad, rusa:воля (volya), polona:wola  
 **volfe** *lupo* ← deu:ned:angla:wolf, rusa:волк (volk)  
 **volfram** ** ← angla:wolfram, hispana:wolframio, rusa:вольфрам, mandarena:钨 (wū), vjetnama:vonfam, malaja:wolfram, svahila:wolframi  

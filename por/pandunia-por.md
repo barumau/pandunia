@@ -827,10 +827,10 @@ kio - ponte
 kioske - quisque (pavilhão)  
 kirate - quilate  
 kisma - destino  
-kitabu - escrevere  
-kitabu gi - máquina de escrever  
-kitabukan - biblioteca  
-kitabu suta - literatura  
+kitaba - escrevere  
+kitaba gi - máquina de escrever  
+kitabakan - biblioteca  
+kitaba suta - literatura  
 kivi - quivi  
 klar - claro  
 klien - cliente  
@@ -1092,7 +1092,7 @@ nadir - raro
 nadir mar - raramente  
 najis - poluição  
 nam hin - sem nome  
-nam kitabu - assinar  
+nam kitaba - assinar  
 nama - carne  
 nardi - gamão  
 narko - droga (narcótico)  
@@ -1196,6 +1196,7 @@ pan mima - pantomima (mímica)
 panda - panda  
 pang - pão  
 panir - queijo fresco  
+panka - asa  
 pante - calças  
 papaya - mamão (papaia)  
 par - igual (par)  
@@ -1292,6 +1293,7 @@ poto - lama (lodo)
 poto defa bano - para-lama  
 poto stan - pântano  
 poyu - piolho  
+• expoze - expor (revelar)  
 prazedim yum - praseodímio  
 prese - pressão  
 prese - pressão  
@@ -1386,6 +1388,7 @@ sana ja - fator
 sanduice - sanduíche  
 sante kanon - sagrada escritura  
 Sante Paulo - São Paulo  
+sanzi - leque  
 sar - cabeça  
 sar hin - acéfalo  
 sar kexa - cabelo  
@@ -1522,6 +1525,7 @@ trate - arrastar
 trater - trator  
 trati - acordo (tratado, contrato)  
 • kontrati - acordo (tratado, contrato)  
+tre - muito  
 tri - três (3)  
 triple - triplo  
 truke - truque (fraude)  

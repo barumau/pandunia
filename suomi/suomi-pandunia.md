@@ -185,7 +185,6 @@ aseksuaali - ansexe di
 asema (satama, lentokenttä) - porte  
 asema - estasi  
 asento - asan  
-asetelma - poze  
 asevoimat (armeija) - vuki ordu  
 asia (juttu) - sual tema  
 asia - xe  
@@ -375,8 +374,7 @@ edustaa - vakil
 edustaja (agentti) - vakil ja  
 Egypti - Misri  
 egyptiläinen - misri di  
-ehdottaa - fa suje  
-ehdotus - suje  
+ehdottaa (ehdotus) - propoze  
 ehkä (voi olla) - bil si  
 ei - no  
 ei koskaan (ei kertaakaan) - siro sata  
@@ -421,7 +419,7 @@ endonyymi (omakielinen nimi) - in nam
 enemmistö - max di fen  
 enemmän (myös, lisäksi, plus) - max  
 energia - energi  
-englannistaa - fa englix kitabu  
+englannistaa - fa englix kitaba  
 Englanti - Englix  
 englanti - englix di  
 englantia puhuva (anglofoni) - englix fon di  
@@ -1322,11 +1320,11 @@ Kirgistan (Kirgisia) - Kirgize
 Kiribati - Kiribati  
 kirja - buku  
 kirjain - fon zi  
-kirjallisuus - kitabu suta  
-kirjasto - kitabukan  
+kirjallisuus - kitaba suta  
+kirjasto - kitabakan  
 kirje - letre  
-kirjoitus (teksti) - kitabu  
-kirjoituskone - kitabu gi  
+kirjoitus (teksti) - kitaba  
+kirjoituskone - kitaba gi  
 kirjoitusmerkki - zi  
 kirkas (selkeä) - ming  
 kirkastaa (valaista) - fa ming  
@@ -1381,6 +1379,7 @@ komentorivi - amir lin
 kommunismi - kon sana sim  
 kommunisti - kon sana sim ja  
 Komorit - Komoro nesi  
+komponentti (kokoonpane) - konpozeje  
 komposti - bio sana xe  
 kone - gi  
 konepelti - moto cati  
@@ -1511,6 +1510,7 @@ kupoli (holvikatto) - kupa cati
 kuponki - kupon  
 kurainen (mutainen) - poto di  
 kurja (raukka) - miskin  
+kurjuus (ahdinko, hankaluus, harmi) - bela  
 kurkku - hiyar  
 kuski (ajuri, ajaja) - xofer ja  
 kutoa kangasta - fa tela  
@@ -1665,7 +1665,7 @@ lasku (laskelma) - hisabu
 laskuoppi (aritmetiikka) - hisabu suta  
 lastata (ladata) - fa karga  
 latinalaiset aakkoset - Latin zi  
-latinoida - fa Latin kitabu  
+latinoida - fa Latin kitaba  
 lattia - kamar dipe  
 Latvia - Latvia  
 lauantai - den luka  
@@ -2388,6 +2388,7 @@ ottaa kiinni (napata, kaapata) - kape
 ottaa kiinni (napata, kaapata, siepata) - cepe  
 ottaa pois (poistaa; paitsi, poislukien) - excepe  
 ottaa takaisin - recepe  
+ottaa ulos (ottaa esiin, paljastaa) - expoze  
 ottaa vastaan - acepe  
 ottelu (matsi) - mece  
 outo (kummallinen) - guai  
@@ -2464,9 +2465,11 @@ pankki - bankakan
 pankkiiri - bankar  
 panna (asettaa) - fa poze  
 panna (asettaa, sijoittaa) - fa loka  
+panna (asettaa; asetelma) - poze  
 panna jkn maate - fa kux  
 panna kokoon - konbina  
 panna sisään - fa in  
+panna sisään - inpoze  
 panna vinoon - fa terca  
 pannu (paistinpannu) - tava  
 pantheon - pan deu  
@@ -2624,6 +2627,7 @@ pois (poissa) - for
 pois käytöstä - defunsi  
 poissulkeva (eksklusiivinen) - vai klus di  
 poistaa (hävittää) - fa an zai  
+poistaa (hävittää, panna pois) - depoze  
 poistaa (paitsi, poislukien) - fa vai  
 poistaa (viedä) - fa for  
 poistaa toiminnasta - deativi  
@@ -2663,10 +2667,12 @@ postileima - posta cape
 postileima - posta marke  
 postitoimisto - postakan  
 postittaa - fa posta  
+postpositio - pospoze  
 potilas - pati jen  
 potkuri (propelli) - propeler  
 povi - buste  
 praseodyymi - prazedim yum  
+prepositio - prepoze  
 presidentti - prezidente  
 profeetta (airut, viestintuoja) - nabija  
 profeetta Mani - Mani  
@@ -3090,10 +3096,11 @@ Sierra Leone - Salon
 sihistä - zizi  
 sihteeri - buro ja  
 sihteeristö - buro ja grupe  
-siipi - ving  
+siipi - panka  
 siipipapu - lung dou  
 siirappi - xirope  
 siirtää taakse - pos poza  
+siirtää taakse - pospoze  
 siitin (penis) - penis  
 siivooja - safa ja  
 sija (taso, ranking, dan) - dan  
@@ -3383,6 +3390,7 @@ tapa (perinne) - suna
 tapa (rutiini) - rutin  
 tapa - ada  
 tapa - mode  
+tapahtua (tapahtuma) - voku  
 tapaus (seikka) - kasu  
 tapetti - mur kaguji  
 tapioka - manioka fufu  
@@ -3455,8 +3463,8 @@ teknokratia - tehni krati
 teko (toimenpide, akti) - ati  
 teko - fate  
 tekoäly - arte fete intelige (AI)  
-tekstin muotoilu - kitabu forma  
-tekstinkäsittely - kitabu culi  
+tekstin muotoilu - kitaba forma  
+tekstinkäsittely - kitaba culi  
 teleportata - be tele loka  
 televisio - tele vide gi  
 telluuri - telu yum  
@@ -3605,7 +3613,6 @@ tuottaa (synnyttää) - gene
 tuottava (tuottelias) - sana ja di  
 tupakka - tabaku  
 tupla (kaksinkertainen) - duple  
-tuplata (kertoa kahdella) - fa multi do du  
 turbaani - pagri  
 turbiini - turbin  
 turismi - safar keka  
@@ -3951,7 +3958,7 @@ vismutti - bismute
 vitamiini - vitamin  
 vitsi - joke  
 vitsiniekka - joker  
-viuhka (tuuletin) - panka  
+viuhka (tuuletin) - sanzi  
 vivisektio (elävältäleikkaus) - jivatomi  
 Višnu - Vixnu  
 vohveli - vafle  

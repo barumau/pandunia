@@ -1094,10 +1094,10 @@ kimono - kimono
 kinar - rando (orlo)  
 kio - ponto  
 kisma - sorto (destino)  
-kitabu - skribo  
-kitabu gi - tajpilo  
-kitabukan - librejo  
-kitabu suta - literaturo  
+kitaba - skribo  
+kitaba gi - tajpilo  
+kitabakan - librejo  
+kitaba suta - literaturo  
 kivi - kivo  
 klar - klara  
 klar! - kompreneble  
@@ -1501,7 +1501,7 @@ panda - pando
 pandunia - pandunia  
 pang - pano  
 panike - paniko  
-panka - ventumilo  
+panka - flugilo  
 pante - pantalonoj  
 papagai - papago  
 papaya - papajo  
@@ -1717,6 +1717,7 @@ sana baxa - artefarita lingvo
 sana ja - fabrikisto  
 sanduku - skatolo (kesto)  
 sante - sankta  
+sanzi - ventumilo  
 sapatu - ŝuo  
 sapatu ja - ŝuisto  
 sapatukan - ŝuistejo  
@@ -1882,6 +1883,7 @@ tor yum - torio
 torso - torso  
 trate - treni  
 trater - traktoro  
+tre - tre  
 tren - trajno (vagonaro)  
 tren dau - fervojo  
 tri - tri (3)  
@@ -1972,6 +1974,7 @@ vise pa - vicpatro
 Vixnu - Viŝnuo  
 vo - tio  
 voka soni - vokalo  
+voku - okazi  
 vol - voli  
 vol xe - volo  
 volfe - lupo  

@@ -251,7 +251,7 @@ cakra - 轮子
 camaca - 匙子  
 cana - 刹那  
 cati - 屋顶 (房顶)  
-cau kitabu - 草书  
+cau kitaba - 草书  
 cau medan - 草地  
 cavi - 钥匙 (锁匙)  
 ceke - 检查  
@@ -802,11 +802,11 @@ kinar - 边
 kinar baryer - 篱笆  
 kio - 桥  
 kisma - 命運  
-kitabu - 写  
-kitabu culi - 文字处理 (字处理)  
-kitabu gi - 打字机  
-kitabukan - 图书馆  
-kitabu suta - 文学  
+kitaba - 写  
+kitaba culi - 文字处理 (字处理)  
+kitaba gi - 打字机  
+kitabakan - 图书馆  
+kitaba suta - 文学  
 kivi - 奇异果  
 klien - 顾客  
 klima mute - 气候变化  
@@ -1054,7 +1054,7 @@ nadir mar - 很少
 najis - 污染物  
 nam - 名  
 nam hin - 无名  
-nam kitabu - 签署  
+nam kitaba - 签署  
 nama - 肉  
 narko - 毒品 (麻醉. 麻药 )  
 • posnati - 产后  
@@ -1088,7 +1088,7 @@ neu jen - 新手
 neu loga - 新词  
 ni - 女  
 nia - 意图  
-nice kitabu - 字幕  
+nice kitaba - 字幕  
 nide - 巢 (穴)  
 nikel - 镍  
 nil - 蓝色  
@@ -1149,6 +1149,7 @@ pan demi pati - 大流行病
 pan mima - 哑剧  
 pan un - 每  
 pang - 面包  
+panka - 翅膀 (膀子)  
 pante - 裤子  
 papagai - 鹉鹦  
 papaya - 木瓜  
@@ -1326,6 +1327,7 @@ sama kinar - 地平线
 samari yum - 钐  
 sanduice - 三明治 (三文治)  
 sante kanon - 圣经  
+sanzi - 扇子  
 sapatu - 鞋  
 sar - 头  
 sar hin - 无头的  
@@ -1463,6 +1465,7 @@ transe vide di - 透明的
 trate - 拖  
 trater - 拖拉机 (铁牛)  
 trati - 合同 (合约)  
+tre - 很 (太)  
 tren tikete - 火车票  
 tri - 三 (3)  
 tri pike - 三叉戟  
@@ -1533,7 +1536,7 @@ vide - 看
 vidou - 寡妇  
 vijin - 味精  
 virje - 处女  
-vise kitabu - 重写  
+vise kitaba - 重写  
 vise ma - 继母  
 vise pa - 继父  
 vitamin - 维生素 (维他命)  

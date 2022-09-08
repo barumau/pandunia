@@ -140,6 +140,7 @@
 **bedinjan** *beringela* ← hin:बैंगन (bEngān), ara:(bādinjān), por:berinjela, fra:aubergine, spa:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), tur:badincan, patlıcan, rus:баклажан (baklažan), swa:mbilingani  
 **bega** ** ← rus:убегать (ubegat'), hin:भागना (bhāgnā)  
 **behe** ** ← eng:baa, por:bé, rus:бэ-бэ (be-be), pol:bee  
+**bela** ** ← ara: بَلَاء (balāʾ), fas: بلا (balâ), hin:बला (balâ), may:bala, tur:bela, orm:swa:balaa + rus:боль (bol'); беда (beda)  
 **bele** *pá* ← fas: بیل‎ (bil), tur:bel, hin:बेलचा (belcā), ben:বেলচা (bēlacā), swa:beleshi + fra:pelle, khm:ប៉ែល (pael)  
 **ben** *filho ou filha* ← ara: ابن (ibn, bint), heb:בן (ben), בת (bat) swa:bin  
 **benci** ** ← eng:bench, swa:benchi, hin:बेंच (bẽc), jpn:ベンチ (benchi), kor:벤치 (benchi)  
@@ -742,7 +743,7 @@
 **kira** ** ← ara:(kirāʾ), tur:kira, hin:किराया (kirāyā), urd:(kirāyā), fas:(kerāya), spa:alquiler  
 **kirate** *quilate* ← ara: قِيرَاط‎ (qīrāṭ), eng:fra:carat, spa:por:quilate, rus:карат (karat), zho:克拉 (kèlā), jpn:カラット (karatto), kor:캐럿 (kaereot), may:karat, swa:karati, tur:kırat  
 **kisma** *destino* ← ara: قِسْمَة‎ (qisma), hin:क़िस्मत (qismat), ben:কিসমত (kiśmôt), eng:kismet, rus:кисмет (kismet), tur:kısmet  
-**kitabu** *escrevere* ← ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)  
+**kitaba** *escrevere* ← ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)  
 **kivi** *quivi* ← eng:fra:spa:may:swa:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi  
 **klar** *claro* ← deu:klar, spa:por:claro, eng:clear, fra:clair  
 **klas** ** ← eng:class, spa:clase, por:fra:classe, rus:класс (klass), کلاس‎ (kelâs), may:kelas, jpn:クラス (kurasu)  
@@ -1082,7 +1083,7 @@
 **onda** *onda* ← spa:por:ita:onda, fra:onde, may:ombak  
 **onor** *honra* ← eng:pol:spa:honor, fra:honneur, por:honra, tur:onur  
 **oranje** *laranja* ← eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)  
-**ordu** *exército* ← mon:ᠣᠷᠳᠤ (ordu), tur:ordu, fas: اردو (ordu), hin:उर्दू (urdū) + eng:fra:horde, spa:por:horda, rus:орда (orda), zho:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), kor:오르도 (oreudo) + ara: عُرْضِيّ‎ (ʿurḍiyy)  
+**ordu** *exército* ← mon:ᠣᠷᠳᠤ (ordu), tur:ordu, ara: عُرْضِيّ‎ (ʿurḍiyy), fas: اردو (ordu), hin:उर्दू (urdū) + eng:fra:horde, spa:por:horda, rus:орда (orda), zho:斡耳朵 (wò'ěrduǒ), jpn:オルド (orudo), kor:오르도 (oreudo)  
 **ore** *orelha* ← zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja  
 **orgazme** ** ← eng:orgasm, spa:por:orgasmo, fra:may:orgasme, rus:оргазм (orgazm), tur:orgazm, hin:ओगाज़्म (ogāzma), jpn:オーガズム (ōgazumu), kor:오르가슴 (oreugaseum)  
 **orkide** *orquídea* ← eng:orchid, spa:por:orquídea, rus:орхидея (orhideya), hin:ऑर्किड (orkid), ben:অর্কিড (arkiḍa)  
@@ -1110,7 +1111,7 @@
 **pang** *pão* ← tha:ปัง (pang), kor:빵 (ppang), khm:នំប៉័ង (numpang), jpn:パン (pan), por:pão, spa:pan, fra:pain  
 **panike** ** ← eng:panic, spa:pánico, por:pânico, fra:panique, rus:паника (panika), fas:پانیک‎ (pânik), jpn:パニック (panikku)  
 **panir** *queijo fresco* ← hin:पनीर (panīr), pnb:ਪਨੀਰ (panīr), ben:পনির (pônir), tur:peynir, eng:paneer  
-**panka** ** ← hin:पंखा (paṅkhā), urd:(pankhā), mya:ပန်ကာ (panka), fas:(panke), + eng:punkah, fra:panka, deu:Pankha  
+**panka** *asa* ← hin:पंखा (paṅkhā) + (fan) mya:ပန်ကာ (panka), fas:(panke), + eng:punkah, fra:panka, deu:Pankha  
 **pante** *calças* ← eng:pants, hin:पैंट (paiṇṭ), ben:প্যান্ট (pyanṭ), spa:pantalón, fra:pantalon, ara:بنطلون‎ (banṭalōn), tur:pantolon  
 **papagai** ** ← ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)  
 **papaya** *mamão (papaia)* ← eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), hin:पपीता (papītā), ben:পেঁপে (pẽpe)  
@@ -1195,7 +1196,7 @@
 **pote** ** ← eng:fra:pot, spa:por:pote, may:poci, jpn:ポット (potto), kor:포트 (poteu)  
 **poto** *lama (lodo)* ← pcm:kon:lin:poto-poto  
 **poyu** *piolho* ← fra:pou, por:piolho, spa:piojo  
-**poze** ** ← eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ  
+**poze** ** ← eng:spa:por:fra:pose, deu:Pose, rus:поза (poza), jpn:ポーズ (pōzu)  
 **prati** ** ← eng:practice, fra:pratique, por:prática, tur:pratik, pol:praktyka, hin:प्रथा (prathā)  
 **prazedim yum** *praseodímio* ← eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم  
 **prese** *pressão* ← fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)  
@@ -1300,6 +1301,7 @@
 **sanduice** *sanduíche* ← eng:fra:spa:sandwich, por:sanduíche, rus:сандвич (sandvič), ara:(sandawitš), zho: (sānwénzhì), jpn:サンドイッチ (sandoichi), hin:सैंडविच (saiṇḍvic), may:sandwic  
 **sanduku** ** ← swa:lin:sanduku, tur:sandık, rus:сундук (sunduk), ara:صُنْدُوق‎ (ṣundūq), fas:urd:صندوق‎ (sanduq), hau:sàndūƙī̀, orm:saanduqa  
 **sante** ** ← por:spa:santo, eng:fra:saint, kon:santu, zho:圣 (shèng)  
+**sanzi** *leque* ← zho:扇子 (shànzi), yue:扇子 (sin3zi2), jpn:扇子 (sensu), kor:선 (seon), mon:шанз (šanz)  
 **sapatu** ** ← spa:zapato, por:sapato, may:sepatu, swa:sapatu  
 **sar** *cabeça* ← fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi  
 **sata** *momento (instante)* ← ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa  
@@ -1373,7 +1375,6 @@
 **sueda** *suor* ← eng:sweat, spa:sudor, por:suor, fra:sueur, hin:स्वेद (sveda), tel:స్వేదం (svēdaṃ)  
 **sui kaboga** ** ← por:abóbora-d'água, tur:su kabağı  
 **sui** *água* ← zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su  
-**suje** ** ← hin:सुझाव (sujhāv), tel:(sūcana), eng:suggestion, por:sugestão  
 **suka** *feliz* ← hin:सुख (sukha), may:suka, tel:సుఖము (sukhamu), tha:สุข (suk), nan:舒合 (su-kah) + jpn:好く (suku)  
 **sukar** *açúcar* ← eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)  
 **sulfu** *enxofre* ← eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri  
@@ -1459,7 +1460,7 @@
 **trate** *arrastar* ← eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör  
 **trater** *trator* ← eng:spa:tractor, fra:tracteur, por:trator, rus:трактор (traktor), ara: تَرَاكْتُور‎ (tarāktūr), jpn:トラクター (torakutā), kor:트랙타 (teuraekta), hin:ट्रैक्टर (ṭraikṭar), ben:ট্র্যাক্টর (ṭrækṭôr), may:traktor, swa:trekta, tur:traktör  
 **trati** *acordo (tratado, contrato)* ← eng:treaty, fra:traité, spa:por:tratado, rus:контракт (kontrakt), tur:kontrat, may:kontrak  
-**tre** ** ← fra:très  
+**tre** *muito* ← fra:très  
 **tren** ** ← eng:fra:train, spa:tur:tren, hin:ट्रेन (ṭren), por:trem  
 **tri** *três (3)* ← eng:three, fra:trois, spa:tres, por:três, rus:три (tri), hin:त्रि-  (tri-), ben:ত্রি- (tri-), may:tri-  
 **tribu** ** ← fra:spa:tribu, por:tgl:tribo, eng:tribe  
@@ -1526,7 +1527,6 @@
 **viki** ** ← eng:fra:spa:por:may:wiki, tur:viki, ara:وِيكي‎ (wikī), fas:ویکی‎ (viki), hin:विकि (viki), ben:উইকি (uiki), zho:维基 (wéijī), yue:維基 (wai4 gei1), jpn:ウィキ (wiki), kor:위키 (wiki)  
 **vilde** ** ← deu:eng:ned:wild, sve:vild  
 **vin** ** ← fra:vin, spa:vino, rus:вино (vino), eng:wine, deu:Wein, hin:वाइन (vāin), jpn:ワイン (wain), swa:mvinyo  
-**ving** ** ← eng:wing, deu:Schwinge  
 **vinil** ** ← eng:vinyl, spa:vinilo, por:vinil, fra:vinyle, rus:винил (vinil), jpn:ビニル (viniru)  
 **violeta** ** ← eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)  
 **virje** *virgem* ← eng:virgin, fra:vierge, spa:virgen, por:virgem  
@@ -1540,6 +1540,7 @@
 **vode** *promessa (voto)* ← fra:vœu, spa:por:voto, ara:وعد (waʿd), hin:वादा (vādā), tur:vaat, fas:وعده (va'deh)  
 **vodun** ** ← ewe:vodun, hat:vodou, bra:vodum, eng:voodoo, fra:vaudou, spa:vudú  
 **voka** ** ← eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal  
+**voku** ** ← eng:occur, spa:ocurrir, por:ocorrer + jpn:起こる (okoru) + ara: وَقْعَة (waqʿa), fas: وقعه‎ (vaq'e), urd: وقوع (vuqū’), hin:वाक़या (vāqyā), ben:অকু (ôku), tur:vaka; vakia + tam:ஆகு (āku)  
 **vol** *querer (desejar)* ← fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola  
 **volfe** ** ← deu:ned:eng:wolf, rus:волк (volk)  
 **volfram** *tungsténio* ← eng:wolfram, spa:wolframio, rus:вольфрам, zho:钨 (wū), vie:vonfam, may:wolfram, swa:wolframi  

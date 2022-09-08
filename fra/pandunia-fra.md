@@ -1011,11 +1011,11 @@ kio - pont
 kioske - pavillon  
 kirate - carat  
 kisma - destin  
-kitabu - écrire  
-kitabu culi - traitement de texte  
-kitabu gi - machine à écrire  
-kitabukan - bibliothèque  
-kitabu suta - littérature  
+kitaba - écrire  
+kitaba culi - traitement de texte  
+kitaba gi - machine à écrire  
+kitabakan - bibliothèque  
+kitaba suta - littérature  
 kivi - kiwi  
 klar - clair  
 klien - client  
@@ -1290,7 +1290,7 @@ najis - pollution
 nam - nom  
 • annam - antonyme  
 nam hin - innomé  
-nam kitabu - signer  
+nam kitaba - signer  
 nama - viande  
 nardi - backgammon  
 narko - drogue (narcotique, dope)  
@@ -1399,6 +1399,7 @@ pan mima - pantomime
 panda - panda  
 pang - pain  
 panir - fromage blanc  
+panka - aile  
 pante - pantalon  
 papagai - perroquet  
 papaya - papaye  
@@ -1503,6 +1504,7 @@ poto - boue (fange, bourbe, gadoue)
 poto defa bano - garde-boue (aile)  
 poto stan - marécage (marais)  
 poyu - pou  
+• expoze - exposer  
 prazedim yum - praséodyme  
 prese - pression  
 prese - pression  
@@ -1612,6 +1614,7 @@ samari yum - samarium
 san pike - cime (pic, sommet)  
 sanduice - sandwich  
 sante kanon - saintes écritures   
+sanzi - éventail  
 sar - tête  
 sar hin - acéphale (sans tête)  
 sar kexa - cheveux  
@@ -1771,6 +1774,7 @@ trate - traîner
 trater - tracteur  
 trati - contract (traité)  
 • kontrati - contract (traité)  
+tre - très  
 tri - trois (3)  
 triple - triple  
 truke - ruse  

@@ -468,6 +468,7 @@ bega - escape (flee, run away)
 behe - goat  
 Beijing - Beijing (Peking)  
 bel - bel (unit)  
+bela - misfortune (misery, affliction, calamity, catastrophe, disaster, harm)  
 Belarus - Belarus  
 bele - shovel (spade, scoop)  
 Belgi - Belgium  
@@ -632,7 +633,7 @@ cape - print (stamp)
 carme - charm (attraction)  
 cati - roof  
 cau - grass  
-cau kitabu - grass script (calligraphic cursive writing)  
+cau kitaba - grass script (calligraphic cursive writing)  
 cau medan - lawn  
 cau stan - grassland (prairie)  
 cavi - key  
@@ -915,7 +916,7 @@ du grafi di - anaglyphic (stereoscopic)
 du mar - twice  
 dume - second (2nd)  
 du o tri - a couple of  
-duple - double (twofold)  
+duple - double (twofold; multiply by two)  
 du romanse di - biromantic  
 du semi di - double entendre  
 du sexe di - bisexual  
@@ -1088,7 +1089,7 @@ fa duka - sadden (make sad)
 fa dura - pass (spend time, put time into)  
 fa dus forma - disfigure  
 fa dus nam - insult (offend, call names)  
-fa englix kitabu - anglicize  
+fa englix kitaba - anglicize  
 fa eskale - climb (get on)  
 fa eskulte - sculpt (carve)  
 fa estude - study (work in order to practise or demonstrate)  
@@ -1171,7 +1172,7 @@ fa kung - pierce (perforate, bore)
 fa kux - lay (lay down)  
 fa lai - bring  
 fa lanse grafi - project (cast)  
-fa Latin kitabu - romanize  
+fa Latin kitaba - romanize  
 fa lenxi - practice (to exercise)  
 fa libu - erect  
 fa lifafa - wrap  
@@ -1205,7 +1206,6 @@ fa minim - minimize
 fa model - model (design)  
 fa mol - grind (grind in mill)  
 fa multi - multiply  
-fa multi do du - double (multiply by two)  
 fa muzika - play music  
 fa nafas - breathe  
 fa nahun - claw (scratch)  
@@ -1285,7 +1285,6 @@ fa soni - sound (make a sound)
 fa sor - lock (fasten)  
 fa sosi - socialize (interact)  
 fa sual - ask (inquire)  
-fa suje - suggest (propose)  
 fa suka - please (satisfy, delight)  
 fa sultan - rule (be in charge)  
 fa sum - sum up (add together)  
@@ -2291,14 +2290,14 @@ Kirgize - Kyrgyzstan
 Kiribati - Kiribati  
 Kiril zi - Cyrillic alphabet  
 kisma - destiny (fate, lot, kismet)  
-kitabu - write (text)  
-kitabu culi - word processing  
-kitabu forma - formatting  
-kitabu gi - typewriter  
-kitabukan - library  
-kitabu minister - librarian  
-kitabu so - grapheme  
-kitabu suta - literature  
+kitaba - write (writing, text, script)  
+kitaba culi - word processing  
+kitaba forma - formatting  
+kitaba gi - typewriter  
+kitabakan - library  
+kitaba minister - librarian  
+kitaba so - grapheme  
+kitaba suta - literature  
 kivi - kiwi fruit  
 klar - clear (obvious)  
 klar! - of course! (obviously)  
@@ -2956,7 +2955,7 @@ nam - name
 • annam - antonym  
 nam dokumen - identity document (identification, ID)  
 nam hin - nameless (unnamed, anonymous)  
-nam kitabu - sign (autograph)  
+nam kitaba - sign (autograph)  
 nam loga - noun  
 nam tikete - nametag  
 nama - meat (flesh)  
@@ -3055,7 +3054,7 @@ ni - female
 nia - intention (purpose)  
 nice - underside (underneath)  
 nice di - lower (inferior)  
-nice kitabu - subtitles (captions)  
+nice kitaba - subtitles (captions)  
 nide - nest (hive, den)  
 Nijer - Niger  
 Nikaragua - Nicaragua  
@@ -3206,7 +3205,7 @@ pang - bread
 panike - panic  
 panir - quark (paneer)  
 panjabi - Punjabi  
-panka - fan (ventilator)  
+panka - wing  
 pante - pants (trousers)  
 papagai - parrot (parakeet)  
 papaya - papaya  
@@ -3438,7 +3437,15 @@ poto defa bano - fender
 poto di - muddy  
 poto stan - marsh (bog, swamp, morass)  
 poyu - louse  
-poze - pose (position)  
+poze - pose (set; position)  
+• depoze - remove (delete, dispose, erase)  
+• expoze - expose (reveal)  
+• inpoze - put in (impose)  
+• konpozeje - component  
+• pospoze - put back (postpone)  
+• pospoze - postposition  
+• prepoze - preposition  
+• propoze - propose (put forth; proposal, suggestion)  
 prati - practice (actuality)  
 prati di - practical (pragmatic)  
 prazedim yum - praseodymium  
@@ -3721,6 +3728,7 @@ Sante Paulo - Sao Paulo
 Sante Tome e Principe - Sao Tome and Principe  
 Sante Vincente - Saint Vincent  
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
+sanzi - fan (ventilator)  
 sapatu - chaussure  
 sapatu ja - shoemaker  
 sapatukan - shoemaker's shop  
@@ -3929,7 +3937,6 @@ sui rang - watercolor
 sui sekur di - waterproof  
 sui yau - thirst  
 Suise - Switzerland  
-suje - suggestion (proposal)  
 suka - enjoy (like, be happy, be fond of; pleased, delighted, happy)  
 sukar - sugar  
 sukar bete - sugar beet  
@@ -4324,7 +4331,6 @@ vilde - wild (savage)
 vin - wine  
 vinkan - winery  
 vin suan - vinegar  
-ving - wing  
 vinil - vinyl  
 violeta - pansy (violet, viola)  
 violeta nil - purple (violet)  
@@ -4334,7 +4340,7 @@ Virjin nesi - Virgin Islands, US
 virus - virus  
 virus logi - virology  
 vise - vice (deputy, alternative, substitute, replacement)  
-vise kitabu - overwrite  
+vise kitaba - overwrite  
 vise loga - pronoun  
 vise ma - step-mother  
 vise pa - step-father  
@@ -4354,6 +4360,7 @@ voka - call (voice; summon)
 • provoka - provoke  
 • revoka - revoke (call back)  
 voka soni - vowel  
+voku - happen (occur; happening, event, occurence)  
 vol - want (desire, wish)  
 vol xe - want (desire, wish)  
 volfe - wolf  

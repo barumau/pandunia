@@ -225,7 +225,7 @@ cakra - 車輪
 camaca - スプーン  
 cati - 屋根  
 cau - 草  
-cau kitabu - 草書  
+cau kitaba - 草書  
 cau medan - 芝生  
 cau stan - 草地  
 cavi - 鍵  
@@ -826,11 +826,11 @@ kino grafi - 映画
 kio - 橋 (橋梁)  
 kira - 賃貸  
 kisma - 運命 (宿命)  
-kitabu forma - 書式付け  
-kitabukan - 図書館  
-kitabu minister - 図書係  
-kitabu so - 書記素  
-kitabu suta - 文献 (文学, 文芸)  
+kitaba forma - 書式付け  
+kitabakan - 図書館  
+kitaba minister - 図書係  
+kitaba so - 書記素  
+kitaba suta - 文献 (文学, 文芸)  
 kivi - キーウィフルーツ  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
@@ -1101,7 +1101,7 @@ najis di - 汚い
 nam - 名前  
 nam dokumen - 身分証明書 (ID)  
 nam hin - 名無し (無名の)  
-nam kitabu - 署名する (サイン)  
+nam kitaba - 署名する (サイン)  
 nama - 肉  
 nan - 男  
 narko - 麻薬  
@@ -1133,7 +1133,7 @@ neu yang di - 近代的
 ni - 女  
 nia - 意図  
 nice - 下  
-nice kitabu - 字幕  
+nice kitaba - 字幕  
 nide - 巣  
 nikel - ニッケル  
 nil - 青い  
@@ -1191,6 +1191,7 @@ pan un - 毎
 pandunia - パンドゥニア  
 pang - パン  
 panir - クワルク  
+panka - 翼 (羽)  
 pante - ズボン  
 papaya - パパイヤ  
 par jen - 同輩  
@@ -1265,6 +1266,7 @@ poto - 泥
 poto defa bano - フェンダー  
 poto stan - 沼地  
 poyu - シラミ  
+poze - 植える  
 prazedim yum - プラセオジム  
 prese - 圧力  
 prese - 圧力  
@@ -1373,6 +1375,7 @@ samari yum - サマリウム
 san pike - 頂点  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
+sanzi - 扇子  
 sapatu - 鞋  
 sar - 頭  
 sar kexa - 髪の毛 (頭髪)  
@@ -1582,7 +1585,7 @@ vinkan - ワイナリー (酒造場)
 violeta - スミレ  
 violeta nil - 紫色 (パープル)  
 vise - 代替  
-vise kitabu - 重ね書き (書き換える)  
+vise kitaba - 重ね書き (書き換える)  
 vise ma - 継母  
 vise pa - 継父  
 vitamin - ビタミン  

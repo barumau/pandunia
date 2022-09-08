@@ -140,6 +140,7 @@
 **bedinjan** *eggplant (aubergine, brinjal)* ← Hindi:बैंगन (bEngān), Arabic:(bādinjān), Portuguese:berinjela, French:aubergine, Spanish:berenjena, por:beringela, ara: بَاذِنْجَان‎ (bāḏinjān), Turkish:badincan, patlıcan, Russian:баклажан (baklažan), Swahili:mbilingani  
 **bega** *escape (flee, run away)* ← Russian:убегать (ubegat'), Hindi:भागना (bhāgnā)  
 **behe** *goat* ← English:baa, Portuguese:bé, Russian:бэ-бэ (be-be), Polish:bee  
+**bela** *misfortune (misery, affliction, calamity, catastrophe, disaster, harm)* ← Arabic: بَلَاء (balāʾ), Persian: بلا (balâ), Hindi:बला (balâ), Malay:bala, Turkish:bela, Oromo:Swahili:balaa + Russian:боль (bol'); беда (beda)  
 **bele** *shovel (spade, scoop)* ← Persian: بیل‎ (bil), Turkish:bel, Hindi:बेलचा (belcā), Bengali:বেলচা (bēlacā), Swahili:beleshi + French:pelle, Khmer:ប៉ែល (pael)  
 **ben** *child (offspring)* ← Arabic: ابن (ibn, bint), heb:בן (ben), בת (bat) Swahili:bin  
 **benci** *bench* ← English:bench, Swahili:benchi, Hindi:बेंच (bẽc), Japanese:ベンチ (benchi), Korean:벤치 (benchi)  
@@ -742,7 +743,7 @@
 **kira** *carat* ← Arabic:(kirāʾ), Turkish:kira, Hindi:किराया (kirāyā), Urdu:(kirāyā), Persian:(kerāya), Spanish:alquiler  
 **kirate** *carat* ← Arabic: قِيرَاط‎ (qīrāṭ), English:French:carat, Spanish:Portuguese:quilate, Russian:карат (karat), Mandarin:克拉 (kèlā), Japanese:カラット (karatto), Korean:캐럿 (kaereot), Malay:karat, Swahili:karati, Turkish:kırat  
 **kisma** *destiny (fate, lot, kismet)* ← Arabic: قِسْمَة‎ (qisma), Hindi:क़िस्मत (qismat), Bengali:কিসমত (kiśmôt), English:kismet, Russian:кисмет (kismet), Turkish:kısmet  
-**kitabu** *write (text)* ← Arabic:Urdu:(kitāb), Persian:(ketâb), Turkish:kitap, Malay:kitab, Swahili:kitabu, Hindi:किताब (kitāb)  
+**kitaba** *write (writing, text, script)* ← Arabic:Urdu:(kitāb), Persian:(ketâb), Turkish:kitap, Malay:kitab, Swahili:kitabu, Hindi:किताब (kitāb)  
 **kivi** *kiwi fruit* ← English:French:Spanish:Malay:Swahili:kiwi, Portuguese:quivi, Japanese:キーウィ (kīwi), Korean:키위 (kiwi), Hindi:कीवी (kīvī), Turkish:kivi  
 **klar** *clear (obvious)* ← deu:klar, Spanish:Portuguese:claro, English:clear, French:clair  
 **klas** *class (category)* ← English:class, Spanish:clase, Portuguese:French:classe, Russian:класс (klass), کلاس‎ (kelâs), Malay:kelas, Japanese:クラス (kurasu)  
@@ -1082,7 +1083,7 @@
 **onda** *wave* ← Spanish:Portuguese:Italian:onda, French:onde, Malay:ombak  
 **onor** *respect (honor, esteem)* ← English:Polish:Spanish:honor, French:honneur, Portuguese:honra, Turkish:onur  
 **oranje** *orange (fruit)* ← English:orange, Spanish:naranja, Portuguese:laranja, Hindi:नारंगी (narangi), Japanese:(orenji), + French:orange, Russian:оранжевый (oranževiy)  
-**ordu** *army* ← mon:ᠣᠷᠳᠤ (ordu), Turkish:ordu, Persian: اردو (ordu), Hindi:उर्दू (urdū) + English:French:horde, Spanish:Portuguese:horda, Russian:орда (orda), Mandarin:斡耳朵 (wò'ěrduǒ), zho:オルド (orudo), Korean:오르도 (oreudo) + Arabic: عُرْضِيّ‎ (ʿurḍiyy)  
+**ordu** *army* ← mon:ᠣᠷᠳᠤ (ordu), Turkish:ordu, Arabic: عُرْضِيّ‎ (ʿurḍiyy), Persian: اردو (ordu), Hindi:उर्दू (urdū) + English:French:horde, Spanish:Portuguese:horda, Russian:орда (orda), Mandarin:斡耳朵 (wò'ěrduǒ), Japanese:オルド (orudo), Korean:오르도 (oreudo)  
 **ore** *ear* ← Mandarin:耳 (ěr), English:ear, deu:Ohr, French:oreille, Portuguese:orelha, Spanish:oreja  
 **orgazme** *orgasm* ← English:orgasm, Spanish:Portuguese:orgasmo, French:Malay:orgasme, Russian:оргазм (orgazm), Turkish:orgazm, Hindi:ओगाज़्म (ogāzma), Japanese:オーガズム (ōgazumu), Korean:오르가슴 (oreugaseum)  
 **orkide** *orchid* ← English:orchid, Spanish:Portuguese:orquídea, Russian:орхидея (orhideya), Hindi:ऑर्किड (orkid), Bengali:অর্কিড (arkiḍa)  
@@ -1110,7 +1111,7 @@
 **pang** *bread* ← Thai:ปัง (pang), Korean:빵 (ppang), Khmer:នំប៉័ង (numpang), Japanese:パン (pan), Portuguese:pão, Spanish:pan, French:pain  
 **panike** *panic* ← English:panic, Spanish:pánico, Portuguese:pânico, French:panique, Russian:паника (panika), Persian:پانیک‎ (pânik), Japanese:パニック (panikku)  
 **panir** *quark (paneer)* ← Hindi:पनीर (panīr), Punjabi:ਪਨੀਰ (panīr), Bengali:পনির (pônir), Turkish:peynir, English:paneer  
-**panka** *fan (ventilator)* ← Hindi:पंखा (paṅkhā), Urdu:(pankhā), Burmese:ပန်ကာ (panka), Persian:(panke), + English:punkah, French:panka, deu:Pankha  
+**panka** *wing* ← Hindi:पंखा (paṅkhā) + (fan) Burmese:ပန်ကာ (panka), Persian:(panke), + English:punkah, French:panka, deu:Pankha  
 **pante** *pants (trousers)* ← English:pants, Hindi:पैंट (paiṇṭ), Bengali:প্যান্ট (pyanṭ), Spanish:pantalón, French:pantalon, Arabic:بنطلون‎ (banṭalōn), Turkish:pantolon  
 **papagai** *parrot (parakeet)* ← Arabic:(babbaḡāʾ), Turkish:papağan, Spanish:papagayo, Portuguese:papagaio, deu:Papagei, Hungarian:papagáj, Russian:попугай (popugay)  
 **papaya** *papaya* ← English:Spanish:Turkish:papaya, French:papaye, Swahili:papai, Portuguese:papaia, Russian:папайя (papayya), Japanese:パパイヤ (papaiya), Korean:파파야 (papaya), Hindi:पपीता (papītā), Bengali:পেঁপে (pẽpe)  
@@ -1195,7 +1196,7 @@
 **pote** *pot (vase, bin, jar)* ← English:French:pot, Spanish:Portuguese:pote, Malay:poci, Japanese:ポット (potto), Korean:포트 (poteu)  
 **poto** *mud (mire)* ← pcm:Kongo:Lingala:poto-poto  
 **poyu** *louse* ← French:pou, Portuguese:piolho, Spanish:piojo  
-**poze** *pose (position)* ← English:Spanish:Portuguese:French:pose, deu:Pose, Russian:поза (poza), Japanese:ポーズ  
+**poze** *pose (set; position)* ← English:Spanish:Portuguese:French:pose, deu:Pose, Russian:поза (poza), Japanese:ポーズ (pōzu)  
 **prati** *practice (actuality)* ← English:practice, French:pratique, Portuguese:prática, Turkish:pratik, Polish:praktyka, Hindi:प्रथा (prathā)  
 **prazedim yum** *praseodymium* ← English:praseodymium, French:praséodyme, Spanish:praseodimio, Portuguese:praseodímio, Russian:празеодим, Japanese:プラセオジム, Korean:프라세오디뮴, Vietnamese:prazeođim, Hindi:प्रासियोडाइमियम, Bengali:প্র্যাসেওডিমিয়াম, Malay:praseodinium, Swahili:praseodimi, Arabic: براسوديميوم  
 **prese** *press (pressure)* ← French:pression, Spanish:presión, Portuguese:pressão, Russian:пресс (press), Japanese:プレス (puresu)  
@@ -1300,6 +1301,7 @@
 **sanduice** *sandwich* ← English:French:Spanish:sandwich, Portuguese:sanduíche, Russian:сандвич (sandvič), Arabic:(sandawitš), Mandarin: (sānwénzhì), Japanese:サンドイッチ (sandoichi), Hindi:सैंडविच (saiṇḍvic), Malay:sandwic  
 **sanduku** *box (chest)* ← Swahili:Lingala:sanduku, Turkish:sandık, Russian:сундук (sunduk), Arabic:صُنْدُوق‎ (ṣundūq), Persian:Urdu:صندوق‎ (sanduq), Hausa:sàndūƙī̀, Oromo:saanduqa  
 **sante** *holy (sacred)* ← Portuguese:Spanish:santo, English:French:saint, Kongo:santu, Mandarin:圣 (shèng)  
+**sanzi** *fan (ventilator)* ← Mandarin:扇子 (shànzi), Cantonese:扇子 (sin3zi2), Japanese:扇子 (sensu), Korean:선 (seon), mon:шанз (šanz)  
 **sapatu** *chaussure* ← Spanish:zapato, Portuguese:sapato, Malay:sepatu, Swahili:sapatu  
 **sar** *head* ← Persian:(sar), Hindi:सिर (sir) + Arabic:(raʾs), Swahili:rasi  
 **sata** *moment (instant)* ← Arabic:(sāʿa), Persian:(sâ'at), Malay:Turkish:saat, Swahili:saa  
@@ -1373,7 +1375,6 @@
 **sueda** *sweat (perspiration)* ← English:sweat, Spanish:sudor, Portuguese:suor, French:sueur, Hindi:स्वेद (sveda), Telugu:స్వేదం (svēdaṃ)  
 **sui kaboga** *calabash* ← Portuguese:abóbora-d'água, Turkish:su kabağı  
 **sui** *water* ← Mandarin:水 (shuǐ), Japanese:水 (sui), Korean:수 (su), Vietnamese:thuỷ + Turkish:su  
-**suje** *suggestion (proposal)* ← Hindi:सुझाव (sujhāv), Telugu:(sūcana), English:suggestion, Portuguese:sugestão  
 **suka** *enjoy (like, be happy, be fond of; pleased, delighted, happy)* ← Hindi:सुख (sukha), Malay:suka, Telugu:సుఖము (sukhamu), Thai:สุข (suk), nan:舒合 (su-kah) + Japanese:好く (suku)  
 **sukar** *sugar* ← English:sugar, French:sucre, Spanish:azúcar, Portuguese:açúcar, Arabic: سُكَّر (sukkar), Hindi:शक्कर (śakkar), Bengali:শর্করা (śôrkôra), Malay:sakar, Swahili:sukari, Turkish:şeker, Tamil:சக்கரை (cakkarai)  
 **sulfu** *sulfur (brimstone)* ← English:sulfur, French:soufre, Spanish:azufre, Portuguese:enxofre, Swahili:sulfuri  
@@ -1526,7 +1527,6 @@
 **viki** *wiki* ← English:French:Spanish:Portuguese:Malay:wiki, Turkish:viki, Arabic:وِيكي‎ (wikī), Persian:ویکی‎ (viki), Hindi:विकि (viki), Bengali:উইকি (uiki), Mandarin:维基 (wéijī), Cantonese:維基 (wai4 gei1), Japanese:ウィキ (wiki), Korean:위키 (wiki)  
 **vilde** *wild (savage)* ← deu:English:ned:wild, sve:vild  
 **vin** *wine* ← French:vin, Spanish:vino, Russian:вино (vino), English:wine, deu:Wein, Hindi:वाइन (vāin), Japanese:ワイン (wain), Swahili:mvinyo  
-**ving** *wing* ← English:wing, deu:Schwinge  
 **vinil** *vinyl* ← English:vinyl, Spanish:vinilo, Portuguese:vinil, French:vinyle, Russian:винил (vinil), Japanese:ビニル (viniru)  
 **violeta** *pansy (violet, viola)* ← English:Portuguese:French:violet, Spanish:violeta, deu:violett, Russian:фиолетовый (fioletovyy), Japanese:バイオレット (baioretto), Korean:보라 (bola)  
 **virje** *virgin* ← English:virgin, French:vierge, Spanish:virgen, Portuguese:virgem  
@@ -1540,6 +1540,7 @@
 **vode** *promise (vow, oath)* ← French:vœu, Spanish:Portuguese:voto, Arabic:وعد (waʿd), Hindi:वादा (vādā), Turkish:vaat, Persian:وعده (va'deh)  
 **vodun** *voodoo* ← ewe:vodun, hat:vodou, bra:vodum, English:voodoo, French:vaudou, Spanish:vudú  
 **voka** *call (voice; summon)* ← English:voke, French:-voquer, Spanish:Portuguese:-vocar + deu:Vokal  
+**voku** *happen (occur; happening, event, occurence)* ← English:occur, Spanish:ocurrir, Portuguese:ocorrer + Japanese:起こる (okoru) + Arabic: وَقْعَة (waqʿa), Persian: وقعه‎ (vaq'e), Urdu: وقوع (vuqū’), Hindi:वाक़या (vāqyā), Bengali:অকু (ôku), Turkish:vaka; vakia + Tamil:ஆகு (āku)  
 **vol** *want (desire, wish)* ← French:voiloir, Italian:volere, deu:wollen, English:volition, Spanish:voluntad, Russian:воля (volya), Polish:wola  
 **volfe** *wolf* ← deu:ned:English:wolf, Russian:волк (volk)  
 **volfram** *tungsten (wolfram)* ← English:wolfram, Spanish:wolframio, Russian:вольфрам, Mandarin:钨 (wū), Vietnamese:vonfam, Malay:wolfram, Swahili:wolframi  

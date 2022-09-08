@@ -112,9 +112,10 @@ arsénic - arsen yum
 arte - suta  
 artefato - arte fete  
 artista - mei suta ja  
+asa - panka  
 asma - asma  
 aspargo - asparge  
-assinar - nam kitabu  
+assinar - nam kitaba  
 assustador - fobi ja  
 assustar - fa fobi  
 astato - astatin  
@@ -181,7 +182,7 @@ beringela - bedinjan
 berqueélio - berkli yum  
 berço - lala bede  
 berílio - beril yum  
-biblioteca - kitabukan  
+biblioteca - kitabakan  
 bicho-da-seda (sirgo) - silke larva  
 bicho-papão - bubu  
 bigorna - metal bede  
@@ -562,7 +563,7 @@ escola (colégio) - xulakan
 escorpião (lacrau) - akrabe  
 escova de cabelo - kexa broxa  
 escovinha (centáurea) - nil kentaur hua  
-escrevere - kitabu  
+escrevere - kitaba  
 escritório (birô) - buro  
 escudo - defa bano  
 escudo - oste xalke  
@@ -616,6 +617,7 @@ expelir - expele
 explodir - be bum  
 explosão - bum  
 expor (revelar) - vai poze  
+expor (revelar) - expoze  
 exterior - vai  
 extrair - fa vai trata  
 extrair - extrate  
@@ -870,6 +872,7 @@ leite de soja - soi milke
 lembrar-se (recordar-se) - fa memo  
 lente - lense  
 lento - anhaste  
+leque - sanzi  
 ler - dugu  
 Letónia - Latvia  
 leve - ligu  
@@ -884,7 +887,7 @@ limão - limon
 lince - linse  
 linha (fio) - lin  
 lista - liste  
-literatura - kitabu suta  
+literatura - kitaba suta  
 litro - litre  
 livermório - livermor yum  
 livre (forro) - huru  
@@ -1029,12 +1032,13 @@ Mover-se - be kino
 mudança climática - klima mute  
 mudar-se - be migra  
 muesli - musli  
+muito - tre  
 multilíngue (plurilíngue) - poli baxa di  
 multilíngue (plurilíngue) - polibaxaka  
 mundo - dunia  
 mundo das fadas (paraíso) - pari dexa  
 muro (muralha) - mur  
-máquina de escrever - kitabu gi  
+máquina de escrever - kitaba gi  
 mármore - kalsi bilor  
 máscara - maska  
 máximo - maxim xe  

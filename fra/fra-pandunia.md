@@ -48,6 +48,7 @@ agrobiologie - agri bio logi
 agronomie - agri nomi  
 aide (secours) - mede  
 ail - lasun  
+aile - panka  
 air - air  
 aire (superficie) - fase area  
 Alaska - Alaska  
@@ -246,7 +247,7 @@ berkélium - berkli yum
 besoin - yauta  
 betterave - bete  
 betterave à sucre (betterave sucrière) - sukar bete  
-bibliothèque - kitabukan  
+bibliothèque - kitabakan  
 bicyclette - sikle  
 bidonville - harabu mahala  
 bien-être - salamta  
@@ -681,6 +682,7 @@ exoplanète - vai planete
 exploser (détoner) - be bum  
 explosion - bum  
 exposer - vai poze  
+exposer - expoze  
 expulser - expele  
 extraire - fa vai trata  
 extraire - extrate  
@@ -1013,7 +1015,7 @@ lit de camp - kampe bede
 lithium - lito yum  
 litre - litre  
 lits superposés - ceng bede  
-littérature - kitabu suta  
+littérature - kitaba suta  
 livermorium - livermor yum  
 livre - buku  
 livre de bord - loge buku  
@@ -1047,7 +1049,7 @@ lézard - saur
 
 ## M  
 
-machine à écrire - kitabu gi  
+machine à écrire - kitaba gi  
 magma - pasta petra  
 magnésium - magen yum  
 mah-jong - majang  
@@ -1659,7 +1661,7 @@ sexologie - sexe logi
 Shiva - xiva  
 shopping - xopi  
 si - gar  
-signer - nam kitabu  
+signer - nam kitaba  
 signifier (voiloir dire) - semi  
 silence - tixta  
 silencieux (se taire) - tix  
@@ -1784,7 +1786,7 @@ traduction - trabaxa
 traitement (processe) - culi  
 traitement d'images - grafi culi  
 traitement de données - data culi  
-traitement de texte - kitabu culi  
+traitement de texte - kitaba culi  
 traiter - fa culi  
 travail - karxe  
 travailler - kar  
@@ -1799,6 +1801,7 @@ tropique - garma zona
 truite - salmon  
 truite arc-en-ciel - rang arka salmon  
 truite brune (truite de mer) - kafe salmon  
+très - tre  
 tu - tu  
 tubercule - masa mula  
 tungstène - volfram  
@@ -1938,7 +1941,7 @@ zéro - siro
 école secondaire - jong xulakan  
 économie - mal nomi  
 écorce - tire yo pil  
-écrire - kitabu  
+écrire - kitaba  
 écureuil - ekore  
 édenté - dante hin  
 éducation - xula  
@@ -1978,6 +1981,7 @@ zéro - siro
 évaluer - fa valu  
 évangile - eu anjil  
 éveillé - jaga  
+éventail - sanzi  
 évident - vai vide di  
 être - si  
 être couché - be kux  

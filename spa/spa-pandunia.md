@@ -5,6 +5,7 @@ a (hacia) - to
 
 ## A  
 
+abanico (ventilador) - sanzi  
 abedul - betula  
 abeja - medu fong  
 abeja o avispa - fong  
@@ -104,7 +105,7 @@ ajedrez - xah geme
 ajo - lasun  
 ajonjolí (sésamo) - sesam  
 al revés - a re  
-ala - ving  
+ala - panka  
 alambre (hilo) - metal lin  
 alargar - fa long  
 Alaska - Alaska  
@@ -194,7 +195,7 @@ andesita - andesite
 Andorra - Andora  
 andrajoso - cira cira di  
 anemia - anhemia  
-anglicanizar - fa englix kitabu  
+anglicanizar - fa englix kitaba  
 anglófilo - englix fili ja  
 Angola - Angola  
 anillo (sortija) - angul ring  
@@ -425,8 +426,8 @@ berkelio - berkli yum
 Bermuda - Bermuda  
 beso - cum  
 Biblia - Biblia  
-biblioteca - kitabukan  
-bibliotecario - kitabu minister  
+biblioteca - kitabakan  
+bibliotecario - kitaba minister  
 bicicleta - pedal sikle  
 bicicleta - sikle  
 bienestar - salamta  
@@ -1179,8 +1180,7 @@ divino - deu di
 diámetro - tralongta  
 dióxido de carbono - karbon duoxide  
 Dniéster - Nistre  
-doblar (multiplicar por dos) - fa multi do du  
-doble - duple  
+doble (doblar) - duple  
 doble sentido - du semi di  
 docente (enseñante, profesor, maestro) - gio ja  
 doctor (médico) - dava ja  
@@ -1357,7 +1357,7 @@ escenario (podio, estrado, tarima) - tai
 escoba - jaru  
 Escocia - Eskote  
 escorpión (alacrán) - akrabe  
-escribir - kitabu  
+escribir - kitaba  
 escritorio (mesa de trabajo) - karm eza  
 escuchar (oír) - fa ore  
 escudo - defa bano  
@@ -1461,6 +1461,7 @@ explorar - brauza
 explosionar - be bum  
 explosión (estallado) - bum  
 exponer (revelar) - vai poze  
+exponer (revelar) - expoze  
 exportar - vai mise  
 exportar - exporte  
 exposición (espectáculo) - xou  
@@ -1526,7 +1527,7 @@ final (último) - finme
 Finlandia - Suomi  
 fino (delgado, angosto, estrecho, delicado) - fine  
 fiordo - fiorde  
-firmar - nam kitabu  
+firmar - nam kitaba  
 fisicoculturismo (culturismo, musculación) - muskul bina  
 fisión nuclear - kerne cira  
 flecha - flece  
@@ -1541,7 +1542,7 @@ fono (segmento acústico) - fon
 fonología - fonlogi  
 forma (figura, morfo) - forma  
 formar - fa forma  
-formateo - kitabu forma  
+formateo - kitaba forma  
 formulario - sual dokumen  
 foro (espacio público) - forum  
 forzar (usar fuerte, imponer, coaccionar) - fa paka  
@@ -1680,7 +1681,7 @@ grabado (sello, estampando) - cape
 gracias - xukur  
 gracias a (merced a) - a xukur de  
 grado Celsius - celsius darja  
-grafema - kitabu so  
+grafema - kitaba so  
 gramatical - baxa kanun di  
 gramo (g) - gram  
 gramática - baxa kanun  
@@ -2182,7 +2183,7 @@ lista blanca - halal liste
 lista negra - haram liste  
 listo (preparado) - redi  
 litera - ceng bede  
-literatura - kitabu suta  
+literatura - kitaba suta  
 litio - lito yum  
 litro - litre  
 Lituania - Lietuva  
@@ -2521,7 +2522,7 @@ mutuo (recíproco) - semon su
 muy - tre  
 Myanmar (Birmania) - Mianma  
 máquina (dispositivo, aparato) - gi  
-máquina de escribir - kitabu gi  
+máquina de escribir - kitaba gi  
 más - max  
 más tarde - a pos  
 más temprano (antes, haber, en el pasado) - cen  
@@ -3023,7 +3024,7 @@ porque - a sabu de
 portapapeles - gata glu bano  
 porto - porte  
 Portugal - Portugal  
-pose (postura) - poze  
+posar (pose, postura) - poze  
 poseer (tener, ser dueño de) - fa mal  
 posproducción - posprodute  
 poste (columna) - kolum  
@@ -3100,6 +3101,7 @@ pronto - sun
 pronunciar (articular) - fa fon  
 propiedad - mal  
 proponente (defensor) - mede ja  
+proponer (sugerir; propuesta) - propoze  
 propulsor (hélice) - propeler  
 prosperar - sucese  
 proteger (asegurar, guardar) - fa sekur  
@@ -3166,6 +3168,7 @@ quilate - kirate
 quimono - kimono  
 quiosco (kiosco, pabellón) - kioske  
 quitar (eliminar, borrar) - fa an zai  
+quitar (eliminar, borrar) - depoze  
 quitar (pelar) - tire yo pil  
 quitar (remover) - fa for  
 quizás (tal vez) - bil si  
@@ -3324,7 +3327,7 @@ rojo - rubi
 rollo - rolo  
 Roma - Roma  
 romance - romanse  
-romanizar - fa Latin kitabu  
+romanizar - fa Latin kitaba  
 romper (hacer pedazos) - fa parce  
 romántico - romanse di  
 ron - rom  
@@ -3504,7 +3507,7 @@ sistémico - sistem di
 sitio web - nete loka  
 situación - xe hal  
 sobre - a supra  
-sobreescribir - vise kitabu  
+sobreescribir - vise kitaba  
 sobrepasar - be supra  
 sobrevivir - trajiva  
 social - sosi di  
@@ -3542,7 +3545,7 @@ suave (liso) - lis
 subestimar - fa min rai  
 subir (alzar) - be gau  
 subterráneo - geo nice di  
-subtítulos - nice kitabu  
+subtítulos - nice kitaba  
 sucio (corrompido) - najis di  
 sucio - darte di  
 Sudamérica - Sude Amerika  
@@ -3559,7 +3562,6 @@ sufijo - pos fixe
 sufragio (derecho al voto) - vote haki  
 sufrir (verbo pasivo) - be  
 sufrir - be pasi  
-sugerir (proponer) - fa suje  
 Suiza - Suise  
 sultanato - sultan dexa  
 suma (total) - sum  
@@ -3571,7 +3573,6 @@ superficial (poco profundo) - fase teleta
 superior (más alto) - supra di  
 sur - sude  
 sureño - sude di  
-surgéncia (propuesta) - suje  
 Surinam - Surinam  
 sushi - suxi  
 sustancia (materia) - mate  
@@ -3864,7 +3865,6 @@ veneno (toxina) - toxi
 Venezuela - Venezuela  
 venir - lai  
 ventana - janela  
-ventilador - panka  
 Venus - Venus  
 ver (mirar) - vide  
 verano - garma mosim  

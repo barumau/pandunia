@@ -455,6 +455,7 @@ bega - paeta (karata)
 behe - vuohi  
 Beijing - Peking (Beijing)  
 bel - beli (B)  
+bela - kurjuus (ahdinko, hankaluus, harmi)  
 Belarus - Valkovenäjä  
 bele - lapio  
 Belgi - Belgia  
@@ -1041,7 +1042,7 @@ fa duka - surettaa
 fa dura - kuluttaa (viettää aikaa)  
 fa dus forma - turmella ulkomuoto  
 fa dus nam - solvata (loukata)  
-fa englix kitabu - englannistaa  
+fa englix kitaba - englannistaa  
 fa eskale - kiivetä  
 fa eskulte - veistää kuvaa  
 fa estude - opiskella (tutkia)  
@@ -1121,7 +1122,7 @@ fa kung - rei’ittää
 fa kux - panna jkn maate  
 fa lai - tuoda  
 fa lanse grafi - heijastaa kuvia (projisoida)  
-fa Latin kitabu - latinoida  
+fa Latin kitaba - latinoida  
 fa lenxi - harjoitella (treenata)  
 fa libu - nostaa pystyyn  
 fa lifafa - kääriä (panna kääröön)  
@@ -1154,7 +1155,6 @@ fa ming - kirkastaa (valaista)
 fa minim - minimoida  
 fa model - mallintaa  
 fa mol - jauhaa  
-fa multi do du - tuplata (kertoa kahdella)  
 fa muzika - soittaa (musisoida)  
 fa najis - tahrata (korruptoida)  
 fa nam - nimittää (kutsua)  
@@ -1231,7 +1231,6 @@ fa soni - ääntää
 fa sor - lukita  
 fa sosi - seurustella (toimia yhdessä)  
 fa sual - kysyä  
-fa suje - ehdottaa  
 fa suka - ilostuttaa (tyydyttää)  
 fa sultan - hallita (olla vallassa)  
 fa sum - ynnätä (summata)  
@@ -2148,12 +2147,12 @@ Kirgize - Kirgistan (Kirgisia)
 Kiribati - Kiribati  
 Kiril zi - kyrilliset aakkoset  
 kisma - kohtalo (määrä)  
-kitabu - kirjoitus (teksti)  
-kitabu culi - tekstinkäsittely  
-kitabu forma - tekstin muotoilu  
-kitabu gi - kirjoituskone  
-kitabukan - kirjasto  
-kitabu suta - kirjallisuus  
+kitaba - kirjoitus (teksti)  
+kitaba culi - tekstinkäsittely  
+kitaba forma - tekstin muotoilu  
+kitaba gi - kirjoituskone  
+kitabakan - kirjasto  
+kitaba suta - kirjallisuus  
 kivi - kiivi  
 klar - selvä (selkeä)  
 klar! - tietysti (selvästi)  
@@ -2929,7 +2928,7 @@ pang - leipä
 panike - hätä (paniikki)  
 panir - rahka  
 panjabi - pandžabi (eräs intialainen kieli)  
-panka - viuhka (tuuletin)  
+panka - siipi  
 pante - housut  
 papagai - papukaija  
 papaya - papaija  
@@ -3131,7 +3130,15 @@ poto - muta (kura, lieju)
 poto defa bano - lokasuoja  
 poto di - kurainen (mutainen)  
 poto stan - suo (räme)  
-poze - asetelma  
+poze - panna (asettaa; asetelma)  
+• depoze - poistaa (hävittää, panna pois)  
+• expoze - ottaa ulos (ottaa esiin, paljastaa)  
+• inpoze - panna sisään  
+• konpozeje - komponentti (kokoonpane)  
+• pospoze - siirtää taakse  
+• pospoze - postpositio  
+• prepoze - prepositio  
+• propoze - ehdottaa (ehdotus)  
 prati - käytäntö (pragmatia)  
 prati di - käytännöllinen (pragmaattinen)  
 prazedim yum - praseodyymi  
@@ -3365,6 +3372,7 @@ Sante Kitse e Nevis - Saint Kitts ja Nevis
 Sante Lucia - Saint Lucia  
 Sante Marino - San Marino  
 Sante Tome e Principe - Sao Tome ja Principe  
+sanzi - viuhka (tuuletin)  
 sapatu - kenkä  
 sapatu ja - suutari  
 sapatukan - suutarin paja  
@@ -3543,7 +3551,6 @@ sui rang - vesiväri (akvarelliväri)
 sui sekur di - vesitiivis  
 sui yau - jano  
 Suise - Sveitsi  
-suje - ehdotus  
 suka - tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)  
 sukar - sokeri  
 sukar di - sokerinen (makea)  
@@ -3911,7 +3918,6 @@ vilde - villi (kesytön)
 vin - viini  
 vinkan - viinipanimo  
 vin suan - etikka  
-ving - siipi  
 vinil - vinyyli  
 violeta - orvokki  
 violeta nil - violetti  
@@ -3939,6 +3945,7 @@ voka - kutsua (kuuluttaa; manata)
 • provoka - kutsua esiin (peräänkuuluttaa)  
 • revoka - kutsua takaisin  
 voka soni - vokaali (ääntiö)  
+voku - tapahtua (tapahtuma)  
 vol - haluta  
 vol xe - halu (toive)  
 volfe - susi (hukka)  

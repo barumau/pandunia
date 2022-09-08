@@ -143,7 +143,7 @@ andesite - andesite
 Andorra - Andora  
 anemia - anhemia  
 anger (fury, rage, wrath) - furita  
-anglicize - fa englix kitabu  
+anglicize - fa englix kitaba  
 anglophile - englix fili ja  
 anglophone (English speking) - englix fon di  
 Angola - Angola  
@@ -850,6 +850,7 @@ compatriot - sam dexa jen
 compete (have a match) - fa mece  
 complain (lament) - xikaya  
 complete (make done) - pul fina  
+component - konpozeje  
 compost - bio sana xe  
 compress (squeeze, squish) - konprese  
 compute (put data together) - konpute  
@@ -1164,8 +1165,7 @@ dominoes - domino geme
 donkey (ass) - iha  
 door (gate, portal) - mun  
 dot (spot) - bindu  
-double (multiply by two) - fa multi do du  
-double (twofold) - duple  
+double (twofold; multiply by two) - duple  
 double entendre - du semi di  
 doubt (suspect; suspicion) - xaki  
 doubtful (suspicious, disbelieving) - dute ja  
@@ -1377,6 +1377,7 @@ explosion (blast, eruption) - bum
 export - vai mise  
 export - exporte  
 expose (reveal) - vai poze  
+expose (reveal) - expoze  
 express (push out) - exprese  
 extend (stretch out) - fa vai tense  
 extent - vai tense  
@@ -1413,7 +1414,7 @@ false (fake) - false
 family - famili  
 fan (-phile) - fili ja  
 fan (be a fan, admire) - fan  
-fan (ventilator) - panka  
+fan (ventilator) - sanzi  
 fanatic (enthusiast(ic)) - fanatija  
 fantastic (imaginary) - fantazi di  
 fantasy (imagination) - fantazi  
@@ -1547,7 +1548,7 @@ forgive (pardon) - fa maf
 fork - forke  
 form (questionaire) - sual dokumen  
 form (shape, morph) - forma  
-formatting - kitabu forma  
+formatting - kitaba forma  
 fortress (castle, fort, stronghold) - burge  
 forum (public space) - forum  
 forward - to jin  
@@ -1716,11 +1717,11 @@ grandparent - cin cin
 granite - granite  
 grape - putau  
 grapefruit - putau oranje  
-grapheme - kitabu so  
+grapheme - kitaba so  
 graphic (pictorial) - grafi di  
 graphics card (video card) - grafi karte  
 grass - cau  
-grass script (calligraphic cursive writing) - cau kitabu  
+grass script (calligraphic cursive writing) - cau kitaba  
 grassland (prairie) - cau stan  
 gratitude - xukurta  
 grave (tomb, bury) - gabur  
@@ -1788,6 +1789,7 @@ hammock - hamake
 Han Chinese - Han  
 hand - hande  
 hang (dangle) - pende  
+happen (occur; happening, event, occurence) - voku  
 harbor (seaport) - hai porte  
 hard (tough) - gati  
 hardship (difficulty, challenge) - dus hal  
@@ -2253,8 +2255,8 @@ liberal - huru sim di
 liberalism - huru sim  
 liberalist - huru sim ja  
 Liberia - Liberia  
-librarian - kitabu minister  
-library - kitabukan  
+librarian - kitaba minister  
+library - kitabakan  
 Libya - Libia  
 lichen - alga fungu  
 licorice - alkasus  
@@ -2287,7 +2289,7 @@ liquid - dara mate
 liquor - araki  
 list (listing, catalogue) - liste  
 listen - fa ore  
-literature - kitabu suta  
+literature - kitaba suta  
 lithium - lito yum  
 Lithuania - Lietuva  
 Lithuanian - lietuva baxa  
@@ -2557,6 +2559,7 @@ mirror - mira plate
 misdeed (sin, vice) - dusati  
 misdeed (sin, vice) - duskar  
 misfortune (bad luck) - dus zar  
+misfortune (misery, affliction, calamity, catastrophe, disaster, harm) - bela  
 mission (transmission, emission) - mise xe  
 mistake (error, fault, blunder, bug) - galte  
 misunderstand - galte budi  
@@ -2891,7 +2894,7 @@ outward (external) - to vai
 oven (furnace) - tanur  
 overflow (spill out) - vai dara  
 overpass - supra  
-overwrite - vise kitabu  
+overwrite - vise kitaba  
 own (possess) - fa mal  
 own - se su  
 owner (proprietor) - mal ja  
@@ -3166,8 +3169,8 @@ port (station) - porte
 portion (dose) - doze  
 Portugal - Portugal  
 Portuguese language - portugal baxa  
-pose (position) - poze  
 pose (set, plant) - fa poze  
+pose (set; position) - poze  
 possessive postposition (’s) - su  
 possible (able, can) - bil  
 post office - postakan  
@@ -3175,6 +3178,7 @@ post-production - posprodute
 postal stamp - posta cape  
 postmark (postage stamp) - posta marke  
 postnatal - posnati  
+postposition - pospoze  
 posture (asana) - asan  
 pot (vase, bin, jar) - pote  
 potassium - kali yum  
@@ -3203,6 +3207,7 @@ prefix - cen fixe
 pregnant - hamil  
 prenatal - prenati  
 prepare (make ready) - fa redi  
+preposition - prepoze  
 presence (existence) - zaita  
 present (existing) - zai di  
 present time (now) - zai zaman  
@@ -3258,6 +3263,7 @@ property (belongings, possessions) - mal
 prophecy (prophesy, prophetize) - nabi  
 prophet (harbinger, herald) - nabija  
 prophet Mani - Mani  
+propose (put forth; proposal, suggestion) - propoze  
 protactinium - protacini yum  
 protect (secure, save) - fa sekur  
 prove (demonstrate, testify) - fa dalil  
@@ -3280,7 +3286,9 @@ push - puxa
 put (arrange, set into a certain relation, state or condition) - pute  
 put (place, set) - fa loka  
 put back (postpone) - pos poza  
+put back (postpone) - pospoze  
 put forward (advance, progress) - fa jin  
+put in (impose) - inpoze  
 pyramid - piram  
 pyrolatry - hogo puja  
 Qatar - Qatar  
@@ -3376,6 +3384,7 @@ reluctant - anicija
 remain (stay) - be reste  
 remember (recall) - fa memo  
 remove (delete, dispose, erase) - fa an zai  
+remove (delete, dispose, erase) - depoze  
 remove (take away) - fa for  
 renew (make new, renovate) - fa neu  
 rent (charter, lease) - kira kape  
@@ -3465,7 +3474,7 @@ Roman camomile - roma kamil
 Roman Empire - Roma Imperi Dexa  
 romance (romantic love) - romanse  
 Romania - Romania  
-romanize - fa Latin kitabu  
+romanize - fa Latin kitaba  
 romantic - romanse di  
 Rome - Roma  
 roof - cati  
@@ -3687,7 +3696,7 @@ side (flank) - late
 side-effect - parafete  
 sideways (laterally) - late di  
 Sierra Leone - Salon  
-sign (autograph) - nam kitabu  
+sign (autograph) - nam kitaba  
 sign (signal) - sin  
 Sikh - siki din ja  
 Sikhism - siki din  
@@ -3901,7 +3910,7 @@ subceed (be less than) - be min
 submission (surrender) - islam  
 substance (physical material from which something is made) - kimi  
 substitute (replace) - fa vise  
-subtitles (captions) - nice kitabu  
+subtitles (captions) - nice kitaba  
 subway (metro) - tunel tren  
 succeed (go well, prosper) - sucese  
 suck (absorb) - cupu  
@@ -3913,8 +3922,6 @@ sugar beet - sukar bete
 sugar-apple (sweetsop) - ata  
 sugarcane - sukar gana  
 sugary (sweet) - sukar di  
-suggest (propose) - fa suje  
-suggestion (proposal) - suje  
 suitable (appropriate, apt, fit) - hapu  
 sulfur (brimstone) - sulfu  
 sultanate - sultan dexa  
@@ -4225,7 +4232,7 @@ twice - du mar
 twinkle (sparkle) - fa sing foto  
 two (2) - du  
 type (kind, genre) - tipe  
-typewriter - kitabu gi  
+typewriter - kitaba gi  
 tyrant (despot) - zalim raja  
 
 ## U  
@@ -4453,7 +4460,7 @@ window - janela
 window frame - janela frem  
 wine - vin  
 winery - vinkan  
-wing - ving  
+wing - panka  
 winged bean - lung dou  
 winner (victor) - jaija  
 winter - leng mosim  
@@ -4475,7 +4482,7 @@ wood (timber) - moka mate
 wood board (plank) - moka bano  
 wool (fleece) - meme kexa  
 word (lexeme) - lexima  
-word processing - kitabu culi  
+word processing - kitaba culi  
 work (job, task) - karxe  
 work - kar  
 worker - karja  
@@ -4488,7 +4495,7 @@ worship (reveration) - puja
 wow! (gee!) - va  
 wrap - fa lifafa  
 wrapping (envelope, covering) - lifafa  
-write (text) - kitabu  
+write (writing, text, script) - kitaba  
 wrong (incorrect, erroneous, faulty) - galte di  
 
 ## X  

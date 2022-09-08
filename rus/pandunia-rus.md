@@ -276,7 +276,7 @@ canse - возможность (шанс)
 carme - шарм  
 cati - крыша (кров)  
 cau - трава  
-cau kitabu - цаошу  
+cau kitaba - цаошу  
 cau medan - газон  
 cavi - ключ  
 ceke - чек  
@@ -902,11 +902,11 @@ kioske - киоск (павильон)
 kira - аренда  
 kira kape - арендовать  
 kisma - судьба (кисмет)  
-kitabu - письмо  
-kitabu gi - пишущая машинка  
-kitabukan - библиотека  
-kitabu minister - библиотекарь  
-kitabu suta - литература (словесность)  
+kitaba - письмо  
+kitaba gi - пишущая машинка  
+kitabakan - библиотека  
+kitaba minister - библиотекарь  
+kitaba suta - литература (словесность)  
 kivi - киви  
 klien - клиент (покупатель, зака́зчик)  
 klima - климат  
@@ -1178,7 +1178,7 @@ nam - имя
 • annam - антоним  
 nam dokumen - ID  
 nam hin - безымянный  
-nam kitabu - подписать  
+nam kitaba - подписать  
 nama - мясо  
 nanas - ананас  
 nardi - нарды (триктрак)   
@@ -1217,7 +1217,7 @@ neu jen - новичок
 neu loga - неологизм  
 neuta - новизна  
 nia - намерение  
-nice kitabu - субтитр  
+nice kitaba - субтитр  
 nide - гнездо (улей)  
 nikel - никель  
 nil - синий (голубой)  
@@ -1284,6 +1284,7 @@ pan mima - пантомима
 panda - панда  
 pang - хлеб  
 panir - творог  
+panka - крыло  
 pante - брюки  
 papagai - попугай  
 papaya - папайя  
@@ -1487,6 +1488,7 @@ san pike - вершина
 sanduice - сандвич  
 sanduku - сундук  
 sante kanon - священное писание  
+sanzi - веер  
 sapatu - туфля  
 sar - голова  
 sar hin - безголовый  

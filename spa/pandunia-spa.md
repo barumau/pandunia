@@ -774,7 +774,7 @@ droge - droga (narcótico)
 du - dos (2)  
 du baxa di - bilingüe  
 du mar - dos veces  
-duple - doble  
+duple - doble (doblar)  
 du romanse di - birromántico  
 du semi di - doble sentido  
 du sexe di - bisexual  
@@ -919,7 +919,7 @@ fa duka - entristecer (poner triste)
 fa dura - pasar (transcurrir)  
 fa dus forma - desfigurar  
 fa dus nam - insultar (ofender)  
-fa englix kitabu - anglicanizar  
+fa englix kitaba - anglicanizar  
 fa eskale - escalar  
 fa eskulte - esculpir  
 fa estude - estudiar (examinar)  
@@ -995,7 +995,7 @@ fa kung - perforar (agujerar)
 fa kux - acostar (poner)  
 fa lai - traer  
 fa lanse grafi - proyectar  
-fa Latin kitabu - romanizar  
+fa Latin kitaba - romanizar  
 fa lenxi - practicar (ensayar, ejercitar)  
 fa libu - erigir (montar, armar)  
 fa lifafa - envolver  
@@ -1022,7 +1022,6 @@ fa ming - iluminar
 fa model - modelo  
 fa mol - moler (pulverizar)  
 fa multi - multiplicar  
-fa multi do du - doblar (multiplicar por dos)  
 fa muzika - tocar música  
 fa nafas - respirar  
 fa nahun - arañar  
@@ -1096,7 +1095,6 @@ fa siro - cancelar (nulificar, borrar, eliminar)
 fa soni - sonar  
 fa sosi - alternar (interactuar)  
 fa sual - preguntar (inquirir)  
-fa suje - sugerir (proponer)  
 fa suka - gustar (complacer)  
 fa sultan - reinar (gobernar)  
 fa sum - sumar  
@@ -1984,13 +1982,13 @@ Kirgize - Kirguizistán
 Kiribati - Kiribati  
 Kiril zi - alfabeto cirílico  
 kisma - destino  
-kitabu - escribir  
-kitabu forma - formateo  
-kitabu gi - máquina de escribir  
-kitabukan - biblioteca  
-kitabu minister - bibliotecario  
-kitabu so - grafema  
-kitabu suta - literatura  
+kitaba - escribir  
+kitaba forma - formateo  
+kitaba gi - máquina de escribir  
+kitabakan - biblioteca  
+kitaba minister - bibliotecario  
+kitaba so - grafema  
+kitaba suta - literatura  
 kivi - kiwi fruta  
 klar - claro  
 klas - clase (categoría)  
@@ -2579,7 +2577,7 @@ nam - nombre
 • annam - antónimo  
 nam dokumen - identificación (ID)  
 nam hin - innominado  
-nam kitabu - firmar  
+nam kitaba - firmar  
 nam loga - sustantivo  
 nam tikete - gafete (etiqueta de identificación)  
 nama - carne  
@@ -2667,7 +2665,7 @@ ni - mujer (hembra)
 nia - intención (intento)  
 nice - parte inferior  
 nice di - inferior  
-nice kitabu - subtítulos  
+nice kitaba - subtítulos  
 nide - nido (avispero, hormiguero, ratonera)  
 Nijer - Níger  
 Nikaragua - Nicaragua  
@@ -2806,7 +2804,7 @@ pang - pan
 panike - pánico  
 panir - queso fresco  
 panjabi - punjabí  
-panka - ventilador  
+panka - ala  
 pante - pantalones  
 papagai - loro (papagayo)  
 papaya - papaya  
@@ -3007,7 +3005,10 @@ poto defa bano - guarda-barros (aleta)
 poto di - embarrado (enlodado)  
 poto stan - ciénaga (pantano)  
 poyu - piojo  
-poze - pose (postura)  
+poze - posar (pose, postura)  
+• depoze - quitar (eliminar, borrar)  
+• expoze - exponer (revelar)  
+• propoze - proponer (sugerir; propuesta)  
 prati - práctica  
 prati di - práctico  
 prazedim yum - praseodimio  
@@ -3266,6 +3267,7 @@ Sante Marino - San Marino
 Sante Tome e Principe - Santo Tomé y Príncipe  
 Sante Vincente - Isla de San Vicente  
 Sante Vincente e Grenadin - San Vicente y las Granadinas  
+sanzi - abanico (ventilador)  
 sapatu - zapato  
 sapatu ja - zapatero  
 sapatukan - zapatería  
@@ -3453,7 +3455,6 @@ sui rang - acuarela
 sui sekur di - impermeable (sumergible)  
 sui yau - sed  
 Suise - Suiza  
-suje - surgéncia (propuesta)  
 suka - feliz (gustarse, disfrutar)  
 sukar - azúcar  
 sukar bete - remolacha azucarera  
@@ -3786,7 +3787,6 @@ vilde - salvaje
 vin - vino  
 vinkan - bodega  
 vin suan - vinagre  
-ving - ala  
 vinil - vinilo  
 violeta - violeta  
 violeta nil - morado (púrpura)  
@@ -3796,7 +3796,7 @@ Virjin nesi - Islas Vírgenes
 virus - virus  
 virus logi - virología  
 vise - vice- (alternativa, sustituto)  
-vise kitabu - sobreescribir  
+vise kitaba - sobreescribir  
 vise loga - pronombre  
 vise ma - madrastra  
 vise pa - padrastro  
