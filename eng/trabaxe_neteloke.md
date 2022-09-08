@@ -1,4 +1,85 @@
-# Instructions for translating this site
+# How to translate this site
+
+## Introduction
+
+The Pandunia website is created from plain text files that you can edit yourself.
+All that you need is:
+
+1. the source text package
+2. a text editor
+
+
+## The simple way
+
+Follow these instructions if you don't know (and don't want to know) anything about file version management.
+
+1. Go to the Pandunia repository in GitHub at [https://github.com/barumau/pandunia](https://github.com/barumau/pandunia).
+2. To download the files, click *Code* and *Download ZIP*.
+3. Extract the ZIP file.
+4. Edit the files with a **text editor** like Notepad or
+   [Ghostwriter](https://wereturtle.github.io/ghostwriter/).
+   Don't use a **word processor** like MS Word!
+5. Send the files by email to risto@pandunia.info
+   and he will take care of the rest.
+
+If you want to edit some file later, start again from step 1
+because someone else could have edited the same file after you.
+(You can also check it from the [change history](https://github.com/barumau/pandunia/commits/master)).
+
+
+## The programmer's way
+
+Use a Linux system, such as Ubuntu, Fedora or Windows Subsystem for Linux (WSL).
+(See [how to install Ubuntu](https://ubuntu.com/wsl) for Windows 10 or 11.)
+
+Install MkDocs by following [the instructions here](https://www.mkdocs.org/user-guide/installation/)
+or just type these commands.
+
+```
+# Check do you have Python (python3) and Python package manager (pip) already istalled.
+python3 --version
+pip --version
+# Install them if you don't have them already.
+sudo apt install python3
+sudo apt install python3-pip
+# Install MkDocs
+pip install mkdocs
+```
+
+Clone the Pandunia repository from GitHub.
+
+```
+git clone https://github.com/barumau/pandunia.git
+```
+
+Go to the *pandunia* directory and build everything (dictionaries and HTML documents).
+The output goes to *html* directory.
+
+```
+cd pandunia
+sh bin/pan.sh
+```
+
+Learn how to make change requests ("pull requests") by reading [GitHub guides](https://guides.github.com/).
+Here are some basic commands for your information:
+
+```
+# Updates all files from the repository to your machine
+git pull
+# Creates a branch for your changes
+git checkout -b branch_for_my_edits
+# Saves your changes to the local version control system
+git commit file1 file2 -m "Description of my changes"
+# Uploads your branch to GitHub
+git push origin branch_for_my_edits
+# Gets you back to the main branch
+git checkout master
+```
+
+## Writing in Markdown syntax
+
+Contents of Pandunia website is written in plain-text using the Markdown format. Markdown is a light-weight and easy-to-use syntax that is perfectly readable in plain-text. Read description of the Markdown syntax [here](https://guides.github.com/features/mastering-markdown/) or [here](https://daringfireball.net/projects/markdown/syntax).
+
 
 ## Dictionary
 
@@ -11,32 +92,13 @@ All dictionaries in different languages are created from this file.
 You can edit the file in Microsoft Excel, LibreOffice Calc, other spreadsheet tools and text editors.
 
 
-## Downloading source texts
-
-Most of the textual contents of this website are stored in a version control system that is hosted by GitHub in [here](https://github.com/barumau/pandunia). The system maintains [change history](https://github.com/barumau/pandunia/commits/master), [list of contributors](https://github.com/barumau/pandunia/graphs/contributors) and other things. You can get started with GitHub by reading their [guides](https://guides.github.com/).
-
-GitHub offers two ways to download the contents of the version repository. Click the button that reads "Clone or download".
-
-1. You can download it as a ZIP file.
-    * In this case you can send the files that you have updated by email to risto@pandunia.info
-2. If you are used to programming, you can clone the repository with Git.
-    * In this case you can create a _pull request_ in GitHub.
-
-## Writing in Markdown syntax
-
-Contents of Pandunia website is written in plain-text using Markdown format. Markdown is a light-weight and easy-to-use syntax that is perfectly readable in plain-text. Read description of the Markdown syntax [here](https://guides.github.com/features/mastering-markdown/) or [here](https://daringfireball.net/projects/markdown/syntax).
-
-## Preview changes locally
-
-Pandunia website uses Markdown-based content management system called [Up](http://twisty.org/post/up) for displaying the contents. You don't need to install it locally.
-
-Instead you can use [MDwiki](http://dynalon.github.io/mdwiki/). Just copy mdwiki.html to the same folder where pandunia texts are (index.md, navigation.md and the rest), double-click mdwiki.html to open it in your browser and you're ready!
-
 ## Translating
 
 ### Source language
 
-English version is the original version of the site. Translate to your language from the English version if possible! Otherwise use another language that is up-to-date and complete.
+English version is the original version of the site.
+Translate to your language from the English version if possible!
+Otherwise use another language version that is up-to-date and complete.
 
 ### What to translate first?
 
@@ -59,7 +121,8 @@ When you begin translating for a new language, start from these files.
 ### Translating entire documents
 
 1. Copy the source file to the folder of the new language
-    - Please don't change the file names! Names are in Pandunia so that contents of different language versions can be compared more easily.
+    - Please don't change the file names!
+      Names are in Pandunia so that contents of different language versions can be compared more easily.
 2. Translate text
 3. If translation is incomplete in the end
     - Delete untranslated text
@@ -67,21 +130,24 @@ When you begin translating for a new language, start from these files.
 
 ### Updating translations
 
-The best way to update translations and to translate parts of documents is to use a program that compares two files side by side. A good tool for this is BeyondCompare.
+The best way to update translations and to translate parts of documents is to use a program that compares two files side by side.
+A good tool for this is BeyondCompare.
 
-Pandunia words and sentences should be the same in both language versions, so they function as anchor points that keep the versions in the same line.
+Pandunia words and sentences should be the same in both language versions,
+so they function as anchor points that keep the versions in the same line.
 
 ![](http://www.pandunia.info/grafe/kompar.png "Comparing two language versions")
 
 ### Tips
 
-* Use simple and concise language
+* Use simple and concise language!
     * Readers can be all ages and they can have any level of education.
-    * Certain languages are read by many non-native speakers too.
-* Use original examples in Pandunia. This way it's easy to compare versions.
-* Use fluent language
-    * If something sounds bad in your language when it is translated from English (or another language), just change it to something better!
+    * Some languages can be read by non-native speakers too.
+* Use original examples in Pandunia.
+  This way it is easy to compare different language versions with each other.
+* Use fluent language!
+    * If something sounds bad in when it is translated to your language from English, feel free to use a better wording!
 * You can improve also the source text.
-    * The source text is not perfect. There can be unclear things, improper style and even mistakes.
-    * It is even OK to propose new chapters and lessons
-
+    * The source text is not perfect.
+      There can be unclear things, bad style and even mistakes.
+    * Feel free to propose new chapters and lessons
