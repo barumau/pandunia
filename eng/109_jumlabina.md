@@ -10,68 +10,120 @@ They may consist of only one word, which draws the listener's attention.
 **xave!**
 – Rain! / (It) rains!
 
-## Stative Sentences
 
-### With noun or pronoun subject
+## Predicative complements
 
-Normally a sentence consists of a subject and a predicate.
-In the simplest sentences, the subject is a pronoun and the predicate is an adjective or a noun.
+### Plain complements
 
-**mi bon.**
-– I am good.  
-**ya neu.**
-– It is new.  
-**ya Sara.**
-– She is Sara.
+A predicative complement completes the meaning of a sentence by giving information about a noun by either renaming it or describing it.
+Often there is no linking verb (i.e. copula) between the subject and its predicative complement.
 
-When the subject is a noun, the connecting verb **si** (_to be_) is necessary.
-
-
-**Sara si bon.**
-– Sara is good.  
-**ite si dai.**
-– Stones are big.  
-**meza si neu.**
-– The table is new.
-
-The word **no** is added to form the negative.
-Then the verb **si** is not needed.
-
-| Positive         | Negative           |
-|------------------|--------------------|
-| **mi bon.**      | **mi no bon.**     |
-| I am good.       | I am not good.     |
-| **ya neu.**      | **ya no neu.**     |
-| It is new.       | It is not new.     |
-| **ya Sara.**     | **ya no Sara.**    |
-| She is Sarah.    | She is not Sarah.  |
-| **Sara si bon.**  | **Sara no bon.**   |
-| Sarah is good.   | Sarah is not good. |
+**ya Ali.**
+– He is Ali.  
+**Ali guru.**
+– Ali is a teacher.  
+**Ali rike.**
+– Ali is rich.  
+**Ali a dom.**
+– Ali is at home.
 
 
-Also two personal pronouns can be combined with **si** and **no**.
+### Complementing with linking verb
 
-**mi si ya.**
-– I am he/she.  
-**mi no (si) tu.**
-– I'm not you.
+The linking verb
+**si**
+'to be'
+can be used optionally in simple predicative sentences like the ones above.
+
+**ya si Ali.**
+– He is Ali.  
+**Ali si guru.**
+– Ali is a teacher.  
+**Ali si rike.**
+– Ali is rich.  
+**Ali si a dom.**
+– Ali is at home.
+
+The linking verb is used when it is necessary in order to convey the desired meaning.
+For example, modal verbs, like
+**vol**
+'to want', always need it as the main verb
+because the sentences would have a different meaning without it.
+
+**ya vol si guru.**
+– He (or she) wants to be a teacher.  
+Compare with:  
+**ya vol guru.**
+– He (or she) wants a teacher.
+
+**ya vol si rike.**
+– He (or she) wants to be rich.  
+Compare with:  
+**ya vol rike.**
+– He (or she) wants riches.
+
+The linking verb is used also when structural complexity of subject and/or predicate
+makes the boundary between the two sentence elements doubtful.
+
+**mi su kar mede baca.**
+– My job helps children.  
+**mi su kar si mede baca.**
+–  My job is to help children.
+
+It is also possible to use a pause,
+that is indicated by a dash in writing,
+instead of the linking verb.
+
+**mi su kar – mede baca.**
+– My job: to help children.
 
 
-### With adjective or verb subject
+### Negating the complement
 
-The same rule applies also for two adjectives, or a verb and an adjective.
+All predicative complements can be negated by
+**no**
+'not'
+and the linking verb
+**si**
+is optional in the same cases as before
 
-**jun si mei.**
+**ya no Ali.** ~ **ya no si Ali.**
+– He is not Ali.  
+**ya no guru.** ~ **ya no si guru.**
+– He is not a teacher.  
+**ya no vol si guru.**
+– He doesn't want to be a teacher.  
+**ya no rike.** ~ **ya no si rike.**
+– He is not rich.  
+**ya no vol si rike.**
+– He doesn't want to be rich.  
+**ya no a dom.** ~ **ya no si a dom.**
+– He is not at home.  
+**ya su kar no si mede baca.**
+– His job is not to help children.
+
+
+### Adjective and verb subjects
+
+In addition to noun subjects and pronoun subjects,
+the previous rules apply also to adjective subjects and verb subjects.
+
+**jun – mei.** ~ **jun si mei.**
 – Young is beautiful.  
-**neu no lau.**
-– New is not old.  
-**gani si bon.**
-– Singing is good.
+**jun – no lau.** ~ **jun no si lau.**
+– Young is not old.  
+**gani – bon.** ~ **gani si bon.**
+– Singing is good.  
+**gani – no dus.** ~ **gani no si dus.**
+– Singing is not bad.  
+**xulefa baca – mede baca.** ~ **xulefa baca si mede baca.**
+– To teach children is to help children.
 
 
 ## Action Sentences
 
-A predicate can also be a verb. In this case, there may be objects as well as the subject.
+A predicate can also be a verb.
+In this case, there may be objects as well as the subject.
 These come after the predicate.
 
 **mi marce.**
@@ -190,6 +242,68 @@ This is done especially in commands and requests.
 **cing lai to dom!**
 – Please come home!
 (Word for word: _Request come home!_)
+
+
+## Changing the focus
+
+The **topic** is what is being talked about,
+and the **comment** is what is being said about the topic.
+Typically the topic is something that is known before and the comment is a piece of new information about the topic.
+In Pandunia the topic comes first so it is a topic-fronting language.
+
+The focus of the sentence can be changed by changing the order of the topic and comment.
+
+**Maria si guru.**
+– Maria is a teacher.  
+**guru si Maria.**
+– The teacher is Maria.
+
+In Pandunia, the topic can be fronted by using various sentence structures,
+such as passivization and change of word order.
+Consider the following sentence:
+
+**mi vide tu.**
+– I see you.
+
+The topic of the sentence is the subject
+**mi**
+'I'.
+The object,
+**tu**,
+can be topicalized by moving it to the front.
+There are several ways how to do it.
+The simplest one involves a simple change of word order and a pause.
+
+**tu – mi vide.**
+– (It's) you I saw.
+
+One can also use the passive construction to a similar effect.
+
+**tu be mi vide.**
+– You were seen by me.
+
+Another way to front the object is to use the relative clause construction.
+
+**tu si ki mi vide.**
+– You are the one whom I saw.
+
+This sentence can be made more impactful by fronting the linking verb
+**si**.
+and then even more by dropping the relative pronoun.
+
+**si tu ki mi vide.**
+– It's you whom I saw.  
+**si tu mi vide.**
+– It's you I saw.
+
+Finally, the same
+**si...**
+constructions can be used for emphasizing the topicness of the normal subject too.
+
+**si mi ki vide tu.** ~ **si mi vide tu.**
+– It's me who saw you.  
+**si mi ki lai.** ~ **si mi lai.**
+– It's me who came.
 
 
 ## Questions
