@@ -4,7 +4,7 @@ repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../jpn
 site_dir: ../../html/jpn
 theme:
-  name: cerulean
+  name: material
   language: ja
 nav:
     - 'ホームページ': 'index.md'

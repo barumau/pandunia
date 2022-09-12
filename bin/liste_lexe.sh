@@ -1,59 +1,57 @@
-fata_liste_pandunia_X() {
-    lexoliste="$2/pandunia-$2.md"
-    #echo "kitabe $lexoliste"
+fata_lista_pandunia_X() {
+    lexilista="$2/pandunia-$2.md"
+    #echo "kitaba $lexilista"
     #pandunia ($2) a 1:ime
-    cat pandunia-loge.csv | awk -F "|" "{print \$2	 \" - \" \$$1 \"  \"}" > $lexoliste
+    cat pandunia-loge.csv | awk -F "|" "{print \$2	 \" - \" \$$1 \"  \"}" > $lexilista
     #mortife 1:ime line
-    sed -i '1d' $lexoliste
+    sed -i '1d' $lexilista
     # ABC nam do title a line xure
-    sed -i 's/^[A-Z] - .*$/\n##&\n/' $lexoliste
+    sed -i 's/^[A-Z] - .*$/\n##&\n/' $lexilista
     # mute "A - A" do "A"
-    sed 's/#[A-Z] -/#/g' -i $lexoliste
+    sed 's/#[A-Z] -/#/g' -i $lexilista
     #Delete empty translations
-    sed -i '/-...$/d' $lexoliste
-    #kitabe la name e la preloge
+    sed -i '/-...$/d' $lexilista
+    #kitaba la name e la preloge
     headername="$2/pandunia-$2.preloge.txt"
     if test -f "$headername"; then
        echo "$headername exists"
-       cat $headername $lexoliste > temp/temp.txt
-       mv temp/temp.txt $lexoliste
+       cat $headername $lexilista > temp/temp.txt
+       mv temp/temp.txt $lexilista
     else
        echo "$headername doesn't exist. Writing default heading."
-       sed -i "1s/^/# pandunia–$3\n/" $lexoliste
+       sed -i "1s/^/# pandunia–$3\n/" $lexilista
     fi
 }
 
-fata_liste_X_pandunia() {
+fata_lista_X_pandunia() {
     #ale lingue a 1:ime
-    lexoliste="$2/$2-pandunia.md"
-    #echo "kitabe $lexoliste"
-    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $lexoliste
+    lexilista="$2/$2-pandunia.md"
+    #echo "kitaba $lexilista"
+    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \" - \" \$2 \"  \"}" > $lexilista
     #mortife 1:ime line
-    sed -i '1d' $lexoliste
+    sed -i '1d' $lexilista
     # alfabeta
     cat $2/$2-pandunia.md | LC_ALL=C sort -f > temp/temp.txt
     # ABC nam do title a line xure
-    cat temp/temp.txt | sed 's/^[A-Z] - .*$/\n##&\n/' > $lexoliste
+    cat temp/temp.txt | sed 's/^[A-Z] - .*$/\n##&\n/' > $lexilista
     # mute "A - A" do "A"
-    sed 's/#[A-Z] -/#/g' -i $lexoliste
+    sed 's/#[A-Z] -/#/g' -i $lexilista
     #Add header
-    sed -i "1s/^/# $3–pandunia\n/" $lexoliste
+    sed -i "1s/^/# $3–pandunia\n/" $lexilista
     #Delete empty translations
-    sed -i '/^.-/d' $lexoliste
+    sed -i '/^.-/d' $lexilista
     #Delete bullets
-    sed 's/• //g' -i $lexoliste
+    sed 's/• //g' -i $lexilista
 }
 
-fata_leksasli_liste() {
-    #pandunia = $2 e lexasle ) $5
+fa_lexi_asal_lista() {
+    #pandunia = $2 e lexi asal = $5
 #    cat pandunia-loge.csv | awk -F "|" "{print \$$1 \$1 \$4 }" > $2/leksaslia.md
     cat pandunia-loge.csv | awk -F "|" "{print \"**\" \$2 \"** *\" \$$1 \"* ← \" \$5 \"  \"}" > $2/leksaslia.md
     #mortife 1:ime line
     sed -i '1d' $2/leksaslia.md
     #Sort
     LC_ALL=C sort -f $2/leksaslia.md --output $2/leksaslia.md
-    #Add header row
-    #sed -i "1s/^/| pandunia | $2 | logasle |\n/" $2/leksaslia.md
     #Add header
     sed -i "1s/^/# pandunia–$2 va lexaslia\n/" $2/leksaslia.md
     #Delete empty translations
@@ -64,26 +62,26 @@ fata_leksasli_liste() {
     #sed 's/--\*\*|/--|/' -i $2/leksaslia.md
 }
 
-fata_liste() {
-    echo kitabe lexoliste de $2
-    fata_liste_pandunia_X $1 $2 $3
-    fata_liste_X_pandunia $1 $2 $3
-    fata_leksasli_liste $1 $2
+fata_lista() {
+    echo kitaba lexilista de $2
+    fata_lista_pandunia_X $1 $2 $3
+    fata_lista_X_pandunia $1 $2 $3
+    fa_lexi_asal_lista $1 $2
 }
 
-fata_lekse_asle() {
-    #pandunia = $2 e lexasle ) $5
-    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$5 \"|\"}" > temp/lekse.txt
+fata_lexi_asal() {
+    #pandunia = $2 e lexi asal = $5
+    cat pandunia-loge.csv | awk -F "|" "{print \"|**\" \$2 \"**|\" \$5 \"|\"}" > temp/lexi.txt
     #mortife 1:ime line
-    sed -i '1d' temp/lekse.txt
-    sed -i '1d' temp/lekse.txt
-    cat pandunia/loge_asle_supre.md temp/lekse.txt > pandunia/leksaslia.md
+    sed -i '1d' temp/lexi.txt
+    sed -i '1d' temp/lexi.txt
+    cat pandunia/loge_asle_supre.md temp/lexi.txt > pandunia/leksaslia.md
     #Delete empty translations
     sed -i '/||/d' pandunia/leksaslia.md
 }
 
 
-kitabe_Tiddly() {
+kitaba_Tiddly() {
     cp $1/pandunia-$1.md temp/temp.txt
     sed 's/_//g' -i temp/temp.txt
     #mortife unime line
@@ -91,7 +89,7 @@ kitabe_Tiddly() {
     cat temp/tiddly_1.html temp/temp.txt temp/tiddly_3.html > $1/tiddly.html
 }
 
-tarja_logaslia_pa_english() {
+trabaxa_lexi_asal_to_english() {
     cd eng
     sed 's/amh:/Amharic:/' -i leksaslia.md
     sed 's/ara:/Arabic:/' -i leksaslia.md
@@ -145,7 +143,7 @@ tarja_logaslia_pa_english() {
     cd ..
 }
 
-tarja_logaslia_pa_suomi() {
+trabaxa_lexi_asal_to_suomi() {
     cd suomi
     sed 's/amh:/amhara:/' -i leksaslia.md
     sed 's/ara:/arabia:/' -i leksaslia.md
@@ -199,7 +197,7 @@ tarja_logaslia_pa_suomi() {
     cd ..
 }
 
-tarja_logaslia_pa_esperanto() {
+trabaxa_lexi_asal_to_esperanto() {
     cd epo
     sed 's/amh:/amhara:/' -i leksaslia.md
     sed 's/ara:/araba:/' -i leksaslia.md
@@ -258,50 +256,50 @@ tarja_logaslia_pa_esperanto() {
 sed 's/\t/|/g' -i pandunia-loge.csv
 
 # english e pandunia
-fata_liste 6 eng English
-tarja_logaslia_pa_english
+fata_lista 6 eng English
+trabaxa_lexi_asal_to_english
 
 #Tiddly dictionary
-kitabe_Tiddly eng
+kitaba_Tiddly eng
 
 # esperanto e pandunia
-fata_liste 21 epo esperanto
-tarja_logaslia_pa_esperanto
+fata_lista 21 epo esperanto
+trabaxa_lexi_asal_to_esperanto
 
 # suomi e pandunia
-fata_liste 22 suomi suomi
-tarja_logaslia_pa_suomi
+fata_lista 22 suomi suomi
+trabaxa_lexi_asal_to_suomi
 
 # polski e pandunia
-fata_liste 23 pol polski
+fata_lista 23 pol polski
 
 # Tiddly polski e pandunia
-kitabe_Tiddly pol
+kitaba_Tiddly pol
 
 # putonghan e pandunia
-fata_liste 12 zho "putong han"
+fata_lista 12 zho "putong han"
 
 # nipon e pandunia
-fata_liste 13 jpn nipon
+fata_lista 13 jpn nipon
 
 # malayu e pandunia
-fata_liste 19 may "bahasa malayu"
+fata_lista 19 may "bahasa malayu"
 
 # rusi e pandunia
-fata_liste 10 rus русский
+fata_lista 10 rus русский
 
 # franse e pandunia
-fata_liste 7 fra français
+fata_lista 7 fra français
 
 #Tiddly franse e pandunia
-kitabe_Tiddly fra
+kitaba_Tiddly fra
 
 # espanya e pandunia
-fata_liste 8 spa español
+fata_lista 8 spa español
 
 # portugal e pandunia
-fata_liste 9 por português
+fata_lista 9 por português
 
 # loga asal na pandunia basha
-fata_lekse_asle
+fata_lexi_asal
 

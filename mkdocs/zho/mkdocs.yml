@@ -3,7 +3,7 @@ site_url: http://www.pandunia.info/zho
 repo_url: https://github.com/barumau/pandunia/
 docs_dir: ../../zho
 site_dir: ../../html/zho
-theme: cerulean
+theme: material
 nav:
     - Home: 'index.md'
     - '字母表': abc.md
