@@ -1,6 +1,8 @@
-# sal, dunia!
+# Pandunia
 
-¡Hola, mundo!
+**sal, dunia!**
+– ¡Hola, mundo!
+
 ¡Les damos la bienvenida a Pandunia, el idioma auxiliar que es equitativo a nivel global! 
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
@@ -24,8 +26,6 @@ Estas son algunas características notables de Pandunia:
 
 La versión final de Pandunia fue inaugurada en septiembre 2021.
 Tiene una gramática más sencilla, formas de palabras más internacionales, y muchas palabras nuevas.
-
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
 
 ## ¿Cómo aprenderlo?
 
@@ -64,9 +64,11 @@ Puedes encontrarles en varios lugares de internet:
 - Canal QQ: 717549404
 - Sigue a pandunia en [Twitter](https://twitter.com/pandunia_).
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimon basha pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")  
 <small>Imagen por [Freepik](http://www.freepik.com)</small>
 
 Puedes contactar mail al creador de Pandunia, Risto Kupsala, en al
 correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los
 lugares anteriormente citados.
+
+![](http://www.pandunia.info/bandir.png "La bandera de Pandunia")

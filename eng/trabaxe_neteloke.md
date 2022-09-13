@@ -44,6 +44,8 @@ sudo apt install python3
 sudo apt install python3-pip
 # Install MkDocs
 pip install mkdocs
+# Install Material theme
+pip install mkdocs-material
 ```
 
 Clone the Pandunia repository from GitHub.

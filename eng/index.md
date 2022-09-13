@@ -1,6 +1,8 @@
-# sal, dunia!
+# Pandunia
 
-Hello, world!
+**sal, dunia!**
+– Hello, world!
+
 Welcome to learn about Pandunia, the evenly global helping language!
 
 ![](http://www.pandunia.info/grafe/halo_dunia.png "halo dunia!")  
@@ -72,11 +74,11 @@ You can find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
 
 Please help to [translate this site](trabaxe_neteloke.md) into new languages!
 
-![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen basha pandunia!")  
+![](http://www.pandunia.info/grafe/mome_loga_pandunia.png "mimen baxa pandunia!")  
 <small>Image designed by [Freepik](http://www.freepik.com)</small>
 
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
 [risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+![](http://www.pandunia.info/bandir.png "The flag of Pandunia")
 
