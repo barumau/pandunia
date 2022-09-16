@@ -310,6 +310,26 @@ but this time the word
 12. **mes des du**
   – December
 
+
+#### Date format
+
+The date formats use the *ordinal number after the noun* pattern.
+The day, month and year ordered from the longest period of time to the shortest, i.e. day first and year last,
+or vice versa i.e. year first and day last.
+Month is always in the middle.
+
+**nen 2022 mes 9 den 17**
+=
+**den 17 mes 9 nen 2002**
+
+There are also two short formats without the year.
+
+**mes 9 den 17**
+=
+**den 17 mes 9**
+
+
+
 #### Telling time
 
 Time can be told with the word

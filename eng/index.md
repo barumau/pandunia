@@ -80,5 +80,5 @@ Please help to [translate this site](trabaxe_neteloke.md) into new languages!
 You can contact the creator and a main developer of Pandunia, Risto Kupsala, via email
 [risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned forums.
 
-![](http://www.pandunia.info/bandir.png "The flag of Pandunia")
+![](http://www.pandunia.info/grafe/bandir.png "The flag of Pandunia")
 
