@@ -63,6 +63,7 @@ aroma - 香り (匂い, 臭い)
 aroma melon - マクワウリ  
 arsen yum - ヒ素  
 arte fete intelige (AI) - 人工知能  
+arteja - 美術家  
 asal - 起源  
 asar - 効果  
 asparge - アスパラガス  
@@ -154,7 +155,6 @@ bebe - 赤ちゃん
 bebe bede - ベビーベッド  
 bede - 寝床 (ベッド)  
 bele - シャベル (スコップ)  
-ben - 子供 (息子か娘)  
 beri - 漿果 (ベリー )  
 beril yum - ベリリウム  
 berkli yum - バークリウム  
@@ -200,8 +200,8 @@ brom - 臭素
 broxa kalam - 筆 (毛筆)  
 brun varis - 玄米  
 bu! - ばあ  
-buca ja - 肉屋  
 bucakan - 屠畜場  
+bucar - 肉屋  
 Buda - 仏陀  
 bude - ブース  
 bufete - ビュッフェ (バイキング)  
@@ -242,7 +242,6 @@ ceres yum - セリウム
 • sucese - 成功  
 cesi yum - セシウム  
 cili fun - パプリカ  
-cin ma - お婆さん  
 cing - 請う (ーて下さい)  
 cini - 磁器  
 cira - 裂く  
@@ -307,6 +306,7 @@ des kilo - 万
 deu - 神  
 deu kata - 神話  
 deu nagar zi - デーヴァナーガリー  
+dex - 右  
 dexa jen - 市民  
 dia - 昼  
 dia yam - 昼食  
@@ -493,6 +493,7 @@ frute - 果実 (フルーツ)
 frute bagi - 果樹園  
 fuku - 服  
 fuku vaxi gi - 洗濯機  
+fulan - 何々  
 fungu frute - 茸  
 fungu nete - 菌糸体  
 fute bano - 足場  
@@ -512,7 +513,6 @@ gali yum - ガリウム
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
 gamba - 海老  
-gami ben - 連れ子  
 gamo zi - 絵文字  
 gan cau - 干し草  
 ganir - 歌手  
@@ -622,7 +622,7 @@ heli yum - ヘリウム
 helis fei gi - ヘリコプター  
 hem - 考える  
 hemi - 血  
-anhemia - 貧血  
+anhemi - 貧血  
 hemi globin - 血色素 (ヘモグロビン)  
 hemi selu - 血球  
 hepate - 肝臓  
@@ -645,9 +645,9 @@ hisabu logi - 数学
 hiyar - キュウリ  
 hobi ja - アマチュア  
 hogo - 火  
-hogo san - 火山  
 hogo seku - 火打ち石 (フリント)  
 hogo tehni - 花火  
+hogo xan - 火山  
 hoki - ホッケー  
 holme yum - ホルミウム  
 hor - 時 (１時間)  
@@ -661,6 +661,7 @@ huke - 掛 (針, 鉤)
 huke krus - 卍 (卐)  
 huke lin kane - 釣り竿  
 huli - 狐  
+humel - ホップ  
 huru - 自由  
 
 ## I  
@@ -716,6 +717,7 @@ jui - 注意
 jui di - 気をつける (慎む)  
 jui note - 注意 (戒め, 警告)  
 jul - ジュール (J)  
+jun bei - 後輩  
 jun fem - 女の子  
 jun jen - 青少年  
 jun man - 男の子  
@@ -811,6 +813,7 @@ ke xe - 何事
 ke yang - どんな  
 keka ja - 客人  
 Keme - 古代エジプト  
+ken - 知る  
 kentaur - 人馬 (ケンタウロス)  
 kerne - 核 (核心)  
 kexa - 毛  
@@ -874,7 +877,7 @@ kruasan - クロワッサン
 krus arka - クロスボウ (石弓)  
 krus lin - 十字線  
 kuanga ja - 坑夫  
-kuanga san - 鉱山  
+kuanga xan - 鉱山  
 kuarze - 石英  
 kube - 立方体  
 kudi - 肘  
@@ -965,7 +968,6 @@ lutesi yum - ルテニウム
 
 ## M  
 
-ma - お母さん (母, ママ)  
 maf - ごめんなさい  
 magen yum - マグネシウム  
 magi ja - 魔法使い  
@@ -1014,9 +1016,8 @@ mega - １００万 (メガ)
 megi - 雲  
 megi di - 霧深い (曇っている)  
 mei - 美しい  
+mei arte - 芸術 (美術)  
 mei daka - 装飾  
-mei suta - 芸術 (美術)  
-mei suta ja - 美術家  
 meita - 美しさ  
 meitner yum - マイトネリウム  
 melon - マスクメロン  
@@ -1055,7 +1056,7 @@ mikro biologi - 微生物学
 mikroskope - 顕微鏡 (マイクロスコープ)  
 milke - 牛乳 (ミルク)  
 milke kardon - マリアアザミ  
-mima ja - 模倣者  
+mime ja - 模倣者  
 minta - ハッカ  
 mirde - 微か  
 Misri - エジプト  
@@ -1116,7 +1117,7 @@ nefre - 腎臓
 nefte - 油 (オイル)  
 nefte guku - シマカンギク (アブラギク)  
 nekro - 死体  
-nekro filia - 屍姦 (死体性愛)  
+nekro fili - 屍姦 (死体性愛)  
 nekro tomi - 検視  
 nelu - 四 (4)  
 nen - 年  
@@ -1179,14 +1180,13 @@ oxi - 酸素
 
 ## P  
 
-pa - お父さん (父, パパ)  
 paci - 鳥 (鳥類)  
 paci logi - 鳥類学  
 pada mun - 落とし戸  
 paladi yum - パラジウム  
 pan - 全ての  
 pan demi pati - パンデミック  
-pan mima - パントマイム   
+pan mime - パントマイム   
 pan un - 毎  
 pandunia - パンドゥニア  
 pang - パン  
@@ -1269,7 +1269,6 @@ poyu - シラミ
 poze - 植える  
 prazedim yum - プラセオジム  
 prese - 圧力  
-prese - 圧力  
 prese gi - 圧搾機  
 • preser - 圧搾機  
 problem - 問題  
@@ -1345,12 +1344,8 @@ ruterfor yum - ラザホージウム
 
 ## S  
 
-sabe - 知る  
-sabe vol - 興味 (好奇心)  
-sabe vol di - 面白い  
-sabe vol ja - 知りたがる  
-sable - 砂  
-sable petra - 砂岩  
+sablu - 砂  
+sablu petra - 砂岩  
 safa tela - ワイプ  
 safar ceke - トラベラーズチェック  
 sagu - サゴ  
@@ -1364,6 +1359,7 @@ salmon - 鮭鱒
 salu - 元気 (丈夫)  
 saludo - 健康  
 saluta - 健康  
+sam bei - 同輩  
 sam metre - 対称  
 sam sifa di - 同じよう (近い)  
 sam sifa xe - 模型 (類似, シミュレーション)  
@@ -1372,7 +1368,10 @@ sama hal - 天気
 sama kinar - 地平線 (水平線, 天際)  
 sama nil - 空色  
 samari yum - サマリウム  
-san pike - 頂点  
+san logi - 認識論  
+san vol - 興味 (好奇心)  
+san vol di - 面白い  
+san vol ja - 知りたがる  
 sanduice - サンドイッチ  
 sante kanon - 聖書  
 sanzi - 扇子  
@@ -1383,14 +1382,14 @@ sata - 瞬間
 Saturne - 土星  
 saur - 蜥蜴  
 seku - 石 (岩)  
-seku jiang ja - 石匠  
+seku sanaja - 石匠  
 sekur kopi - バックアップ (控え)  
 sekur nume - 暗証番号  
 selen yum - セレン  
 selge - フダンソウ (スイスチャード)  
 seme dana - 種  
 semi logi - 意味論  
-sene - 年齢  
+sen bei - 先輩  
 seng - 生の  
 seng varis - 米  
 sense - 感覚  
@@ -1400,7 +1399,6 @@ sento nen - 世紀
 sera - のこぎり  
 serami - 陶器  
 seri - 系列  
-seria - 系列  
 serime - 連結  
 serve gi - サーバ  
 serve ja - 使用人  
@@ -1413,7 +1411,7 @@ sifa loga - 形容詞
 sigar - タバコ  
 resikle - 再生する (リサイクルする)  
 sikle ja - チャリダー  
-silis - ヶィ素  
+silike - ヶィ素  
 silke - 絹  
 silke larva - 蚕 (家蚕)  
 sim - 主义  
@@ -1503,7 +1501,7 @@ to misal - 例えば
 Tokyo - 東京  
 • jivatomi - 生体解剖  
 • tritomi - 三分法  
-• tomigrafia - トモグラフィー  
+• tomigrafi - トモグラフィー  
 topo grafi - 地勢  
 tor yum - トリウム  
 toxi - 毒  
@@ -1533,6 +1531,7 @@ tuzi - うさぎ
 ## U  
 
 umami - 旨味  
+umur - 年齢  
 un - 一 (1)  
 un di - だけ (唯一の)  
 undura - アナログ  
@@ -1553,7 +1552,7 @@ vagina - 膣 (ワギナ)
 vai - 外  
 vai dara - 溢れる (越流する)  
 vai jen - 部外者 (アウトサイダー)  
-vai planete - 系外惑星  
+vai planeta - 系外惑星  
 vai verse di - 外向的な  
 vali - 谷  
 vali susan - キミカゲソウ (スズラン)  
@@ -1607,6 +1606,7 @@ xam - 夕べ
 xam yam - 夕食  
 xaman - シャーマン  
 xampan - 香槟  
+xan pike - 頂点  
 xatan ja - 悪魔  
 xau - 少ない  
 xava - 雨  
@@ -1618,6 +1618,7 @@ xenon - キセノン
 xi - さん (氏)  
 xia islam din - シーア派  
 xifu - 先生  
+xigu - 事故  
 xikaya - 不平 (不満)  
 xim - 心  
 xipi - 湿っぽい  

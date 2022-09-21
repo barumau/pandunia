@@ -159,7 +159,11 @@ aroma - olor (aroma)
 aroma melon - melón coreano  
 arsen yum - arsénico  
 arte fete - artefacto  
+arte fete baxa - idioma artificial (lengua construida, conlang)  
+arte fete di - artificial (sintético)  
 arte fete intelige (AI) - inteligencia artificial  
+arteja - artista  
+arte sanaja - artesano  
 Artika - Ártico  
 Artika Hai - océano Ártico  
 Aruba - Aruba  
@@ -387,15 +391,13 @@ bede - cama (lecho)
 bedinjan - berenjena  
 bega - escaparse (evitar, huir)  
 behe - cabra  
+bei - socio (compañero)  
 Beijing - Pekín  
 bel - belio  
 Belarus - Belarús  
 bele - pala  
 Belgi - Bélgica  
 Belize - Belice  
-ben - hijo o hija  
-bennan - hijo  
-benni - hija  
 benci - banco (silla)  
 Benin - Benín  
 benzin - gasolina (bencina)  
@@ -482,12 +484,11 @@ brom - bromo
 broxa - cepillo (brocha)  
 brun varis - arroz integral  
 Brunei - Brunei  
-brus - hermano o hermana  
 bu! - bu!  
 bubu - coco  
 buca - carnear (matar)  
-buca ja - carnicero  
 bucakan - matadero  
+bucar - carnicero  
 Buda - Buda  
 Buda din - budismo  
 Buda din ja - budista  
@@ -574,10 +575,6 @@ cetiden - semana
 cile - Chile  
 cili - chile  
 cimpanzi - chimpancé  
-cin - parente (madre o padre)  
-cin brus ben - primo  
-cin ma - abuela  
-cin pa - abuelo  
 cincila - chinchilla  
 cing - pedir (invitar; por favor)  
 cing lai - invitar  
@@ -710,6 +707,9 @@ deu logi - teología
 deu nagar zi - devanágari  
 • andeu sim ja - ateo  
 deu sofi - teosofía  
+dex - derecho (lado derecho)  
+dexka - derechista  
+dexmanuka - diestro  
 dexa - país (nación, estado, terra)  
 dexa jen - ciudadano  
 dia - día  
@@ -774,7 +774,7 @@ droge - droga (narcótico)
 du - dos (2)  
 du baxa di - bilingüe  
 du mar - dos veces  
-duple - doble (doblar)  
+dupli - doble (doblar)  
 du romanse di - birromántico  
 du semi di - doble sentido  
 du sexe di - bisexual  
@@ -987,7 +987,7 @@ fa kode - codificar (cifrar)
 fa koloni - colonizar  
 fa komputa - calcular (computar)  
 fa komun - compartir (tener en común)  
-fa kon sabe - comunicar (informar)  
+fa kon sabi - comunicar (informar)  
 fa kopi - copiar  
 fa koste - costar  
 fa krus fixe - crucificar  
@@ -1305,14 +1305,6 @@ galte di - erróneo
 gamba - camarón (gamba)  
 Gambia - Gambia  
 gamel - camello  
-gami - casamiento  
-gami ben - hijastro o  hijastra  
-gami di - casado  
-gami jen - esposo o esposa  
-gami ma - suegra  
-gami nan - esposo  
-gami ni - esposa  
-gami pa - suegro  
 gamo - afecto (emoción)  
 gamo di - emotivo  
 gamo hal - humor  
@@ -1555,7 +1547,7 @@ hem - considerar (reflexionar, pensar en)
 hem… - hm…  
 hema - carpa (toldo)  
 hemi - sangre  
-anhemia - anemia  
+anhemi - anemia  
 hemi globin - hemoglobina  
 hemi hin - exangüe  
 hemi selu - glóbulo  
@@ -1599,11 +1591,11 @@ hobi - pasatiempo (hobby, afición)
 hobi ja - amateur (aficionado)  
 hogo - fuego  
 hogo di - ardiente (encendido)  
-hogo san - volcán  
-hogo san kanca - vidrio volcánico  
 hogo sanduku - farol (linterna)  
 hogo seku - pedernal (sílex)  
 hogo tehni - dispositivo pirotécnico  
+hogo xan - volcán  
+hogo xan kanca - vidrio volcánico  
 hoki - hockey  
 holera - cólera  
 holme yum - holmio  
@@ -1630,6 +1622,7 @@ huke - gancho (anzuelo, alcayata)
 huke krus - esvástica (cruz gamada)  
 huke lin kane - caña de pesca  
 huli - zorro  
+humel - lúpulo (hombrecillo)  
 humus - garbanzo  
 humus sos - humus  
 huru - libre (horro)  
@@ -1751,13 +1744,13 @@ jeste - gesto
 • injete - inyectar (inyección)  
 • projete - proyecto  
 jete grafi - proyectar (proyección)  
-jiang ja - artesano  
 Jibraltar - Gibraltar  
 Jibuti - Yibuti  
 jihade - lucha  
 jin lai - acceso  
 jin mun - entrada  
 jini - espíritu (genio)  
+jinji - gengibre  
 jinse - sexo (género)  
 jirafa - jirafa  
 jiva - vivir (vivo; vida)  
@@ -1940,6 +1933,7 @@ keke - pastel (galleta)
 kelele - ruido  
 kelvin - kelvin  
 Keme - Egipcia Antigua  
+ken - conocer  
 kentaur - centauro  
 Kenya - Kenia  
 kerne - corazón (núcleo)  
@@ -2025,7 +2019,7 @@ kon forma - amoldarse
 kon funsibil - compatible  
 kon gong - colaborar  
 kon pasi - compasión  
-kon sabe - información  
+kon sabi - información  
 kon sana sim - comunismo  
 kon sana sim ja - comunista  
 kon sel ja - consultor  
@@ -2089,8 +2083,8 @@ kuan - ancho
 kuanta - anchura  
 kuanga - mineral (mena)  
 kuanga ja - minero  
-kuanga san - mina  
 kuanga sui - agua mineral  
+kuanga xan - mina  
 kuarze - cuarzo  
 Kuba - Cuba  
 kube - cubo  
@@ -2268,8 +2262,6 @@ Luxemburge - Luxemburgo
 
 ## M  
 
-ma - madre (mamá)  
-ma di - maternal  
 Madagasi - Madagascar  
 madagasi di - malgache  
 maf - perdón  
@@ -2390,16 +2382,13 @@ megi - nube
 Mehiko - México  
 Mehiko siti - Ciudad de México  
 mei - hermoso (bello, lindo)  
+mei arte - bellas artes  
 mei daka - decoración (adorno)  
-mei suta - bellas artes  
-mei suta ja - artista  
 meita - belleza (hermosura)  
 meitner yum - meitnerio  
 melodi - melodía  
 melodi di - melodioso  
 melon - melón  
-membe - pertenecer (ser miembro de)  
-membre - miembro (componente)  
 meme - oveja  
 memo - memoria  
 • anmemo - olvidar  
@@ -2410,6 +2399,8 @@ mendelef yum - mendelevio
 meninge - meninge  
 meninge tis - meningitis  
 mentor - consejero (asesor)  
+mer - pertenecer (ser miembro de)  
+mer - miembro (componente)  
 Merkur - Mercurio  
 mes - mez  
 mes bati - agosto  
@@ -2432,8 +2423,8 @@ mesi din ja - cristiano
 mesi gene - Navidad  
 metal - metal  
 metal bede - yunque  
-metal jiang ja - herrero  
 metal lin - alambre (hilo)  
+metal sanaja - herrero  
 metal tul - ferretería  
 metre - medir (medida)  
 metre gi - medidor  
@@ -2457,8 +2448,8 @@ mili gram - miligrama
 mili mitre - milimetre  
 milke - leche  
 milke kardon - cardo mariano  
-mima - imitar  
-mima ja - imitador  
+mime - imitar (mimetizar)  
+mime ja - imitador  
 min - menos  
 min di fen - minoría  
 min ka bas - demasiado poco  
@@ -2492,10 +2483,10 @@ mode loge - adverbo
 model - modelar  
 moka - árbol  
 moka bano - tablón  
-moka jiang ja - carpintero  
 moka jong parke - arboreto  
 moka kane - estaca  
 moka mate - madera  
+moka sanaja - carpintero  
 moka tana - leño (tronca)  
 mol ja - molinero  
 molkan - molino  
@@ -2530,7 +2521,7 @@ muka - cara (rosto)
 muka fun - polvo de cara  
 mula - raíz  
 multi - muchos  
-multiple - múltiple  
+multipli - múltiple  
 multita - número (muchedumbre)  
 mum - cera (lacre)  
 mum foto - vela (candela, cirio)  
@@ -2626,7 +2617,7 @@ nefre tis - nefritis
 nefte - aceite (óleo)  
 nega - rechazar (negar)  
 nekro - cadáver  
-nekro filia - necrofilia  
+nekro fili - necrofilia  
 nekro loga - necrología (obituario)  
 nekro tomi - autopsia  
 nelu - cuatro (4)  
@@ -2765,8 +2756,6 @@ oxide - óxide
 
 ## P  
 
-pa - padre (papá)  
-pa di - paternal  
 paci - pájaro (ave)  
 paci logi - ornitología  
 pada - caer  
@@ -2827,10 +2816,8 @@ pari kata - cuento de hadas
 parke - parque  
 parne - helecho  
 parti - partido (grupo)  
-parti - participar  
-partia - partido (grupo)  
+parti cepe - participar  
 parti ceper - participante  
-parti ja - participante  
 parti jen - socio  
 pas - pasar  
 pas dau - paso (pasaje)  
@@ -3013,7 +3000,6 @@ prati - práctica
 prati di - práctico  
 prazedim yum - praseodimio  
 prese - presión  
-prese - presión  
 prese gi - prensa  
 • preser - prensa  
 prezidente - presidente  
@@ -3059,8 +3045,7 @@ Qazaqe - Kazajistán (Kazakistan)
 
 ## R  
 
-radi - rayo  
-radia - radiación  
+radi - rayo (radiación)  
 radi longta - radio (mitad de diámetro)  
 radi metre gi - radiómetro  
 radi yum - radio  
@@ -3181,14 +3166,9 @@ rutin - rutina (hábito)
 ## S  
 
 sabate - sabbat  
-sabe - saber (conocer)  
-sabe logi - epistemología  
-sabe vol - interés  
-sabe vol di - interesante (curioso)  
-sabe vol ja - inquisitivo (curioso)  
-sabe xe - sabiduría (conocimiento)  
-sable - arena  
-sable stan - desierto  
+sabi - saber  
+sablu - arena  
+sablu stan - desierto  
 sabu - razón (causa)  
 sabun - jabón  
 sada - sencillo (liso)  
@@ -3233,6 +3213,7 @@ salu safata - higiene
 saluta - salud  
 Salvador - El Salvador  
 sam - equal (similar)  
+sam bei - par  
 sam dexa jen - compatriota  
 sam emos - compasión  
 sam metre - simetría (simétrico)  
@@ -3249,11 +3230,13 @@ sama kinar - horizonte
 sama nil - celeste (azul celeste)  
 samari yum - samario  
 Samoa - Samoa  
-san - montaña (colina)  
-san pike - cima (pico, cumbre, vértice)  
+san - saber  
+san logi - gnoseología (epistemología)  
+san vol - interés  
+san vol di - interesante (curioso)  
+san vol ja - inquisitivo (curioso)  
+san xe - sabiduría (conocimiento)  
 sana - producción  
-sana baxa - idioma artificial (lengua construida, conlang)  
-sana di - artificial (sintético)  
 sana ja - farbicante  
 sanduice - sándwich (sánduche)  
 sanduku - caja (baúl, cofre, estuche)  
@@ -3285,9 +3268,11 @@ sauna - sauna
 saur - lagarto  
 saya - sombra  
 se - se  
+semen - el uno al otro (mutuamente)  
+semen su - mutuo (recíproco)  
 se su - su (suyo)  
 seku - piedra  
-seku jiang ja - albañil (mampostero, cantero)  
+seku sanaja - albañil (mampostero, cantero)  
 sekunde - segundo  
 sekur - seguro  
 sekur kode - contraseña  
@@ -3307,9 +3292,7 @@ semi - significar (querer decir)
 • un semi di - inequívoco  
 semi forar - semáforo  
 semi logi - semántica  
-semon - el uno al otro (mutuamente)  
-semon su - mutuo (recíproco)  
-sene - edad  
+sen - anciano (señor)  
 Senegal - Senegal  
 seng - crudo  
 sense - sentido  
@@ -3323,7 +3306,6 @@ sera - sierra
 serami - cerámica  
 Serbia - Serbia  
 seri - serie  
-seria - serie  
 serime - eslabón  
 seri nete - cota de malla  
 seri seri - cadena  
@@ -3353,7 +3335,7 @@ siki din ja - sij
 sikle - bicicleta  
 resikle - reciclar  
 sikle ja - ciclista  
-silis - silicio  
+silike - silicio  
 silke - seda  
 silke larva - gusano de seda  
 sim - ideología (doctrina, -ismo)  
@@ -3598,7 +3580,7 @@ tolera - tolerar
 tomate - tomate  
 • dutomi - dicotomía  
 • jivatomi - vivisección  
-• tomigrafia - tomografía  
+• tomigrafi - tomografía  
 ton - tono  
 tong - barril (tonel)  
 Tonga - Tonga  
@@ -3630,7 +3612,7 @@ tren dau - vía férrea
 tri - tres (3)  
 tri gona - triángulo  
 tri pike - tridente  
-triple - triple  
+tripli - triple  
 tribu - tribu  
 Trinidade e Tobago - Trinidad y Tobago  
 truke - truco  
@@ -3674,6 +3656,7 @@ ulul - aullido
 uma - caballo  
 uma bici - fusta  
 umami - sabroso (umami)  
+umur - edad  
 un - uno (1)  
 un deu sim - monoteismo  
 un di - único (únicamente, solo)  
@@ -3722,7 +3705,7 @@ vai gene di - exógeno
 vai klus di - exclusivo  
 vai mise - exportar  
 vai nam - exónimo  
-vai planete - exoplaneta (planeta extrasolar)  
+vai planeta - exoplaneta (planeta extrasolar)  
 vai poze - exponer (revelar)  
 vai trata gi - extractor  
 vai vide di - evidente  
@@ -3836,6 +3819,8 @@ xam yam - cena
 xaman - chamán (brujo, hechicero)  
 xampan - Champaña  
 xampan vin - champaña  
+xan - montaña (colina)  
+xan pike - cima (pico, cumbre, vértice)  
 xanti - descanso (alivio)  
 xanti di - tranquilo (calmado)  
 xarma - vergüenza (pena)  
@@ -3859,6 +3844,7 @@ xefe - jefe
 xefe di - principal  
 xefe ministre ja - primer ministro  
 xenon - xenón  
+xi Fulan - fulano  
 xia - facción  
 xia islam din - chiismo (chía)  
 xifu - maestro (profesor)  
@@ -3990,12 +3976,11 @@ zebra - cebra
 zeyil - verruga  
 zi - carácter  
 zi forma - fuenta  
-zi sili - alfabeto  
+zi seri - alfabeto  
 zigzage - zigzag  
 zikura - zigurat  
 Zimbabue - Zimbabue  
 zina - adulterio  
-zinji - gengibre  
 zinke - cinc  
 zipe - cerrar con cremallera  
 ziper - cremallera  

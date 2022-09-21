@@ -95,7 +95,10 @@ Argentina - Argentino
 argon - argono  
 arka cati - volbo  
 arsen yum - arseno  
+arte fete baxa - artefarita lingvo  
 arte fete intelige (AI) - artefarita inteligenteco  
+arteja - artisto  
+arte sanaja - metiisto  
 asal - origino  
 asal Australia jen - aborigeno  
 asal di - origina  
@@ -235,8 +238,6 @@ Belarus - Belorusio
 bele - fosilo (ŝovelilo)  
 Belgi - Belgio  
 Belize - Beliceo  
-ben - ido (gefilo)  
-benni - filino  
 benci - benko  
 benzin - benzino  
 bere - bereto  
@@ -296,10 +297,9 @@ Brazil - Brazilo
 briko - abrikoto (pruno)  
 brom - bromo  
 broxa - broso  
-brus - gefrato  
 buca - buĉi  
-buca ja - buĉisto  
 bucakan - buĉejo  
+bucar - buĉisto  
 Buda - Budho  
 Buda din - budhismo  
 Buda din ja - budhisto  
@@ -347,9 +347,6 @@ ceti - sep (7)
 cetiden - semajno  
 cile - Ĉilio  
 cimpanzi - ĉimpanzo  
-cin brus ben - kuzo  
-cin ma - avino  
-cin pa - avo  
 cincila - ĉinĉilo  
 cing - peti (bonvolu)  
 cing lai - inviti  
@@ -729,9 +726,6 @@ Galia - Gaŭlio
 galte - eraro (miso)  
 galte di - erara  
 gamel - kamelo  
-gami - geedzeco  
-gami ma - bopatrino  
-gami pa - bopatro  
 gamo - emocio  
 gamo di - emocia  
 gamo hal - animstato  
@@ -859,7 +853,7 @@ hem - pripensi (rigardi ia)
 hem… - hm…  
 hema - tendo  
 hemi - sango  
-anhemia - anemio  
+anhemi - anemio  
 hemi globin - hemoglobino  
 hemi hin - sensanga  
 hen - malamo  
@@ -910,6 +904,7 @@ huke - hoko
 huke krus - svastiko  
 huke lin kane - fiŝvergo  
 huli - vulpo  
+humel - lupolo  
 huru - libera  
 huru di - liberigi  
 huruta - libereco  
@@ -966,7 +961,7 @@ jebu - poŝo
 jelakan - malliberejo  
 jele - ĝelo  
 jen - persono  
-jiang ja - metiisto  
+jinji - zingibro  
 jinse - sekso  
 jinse di - seksa  
 jirafa - ĝirafo  
@@ -1077,6 +1072,7 @@ keci - ĝentila
 keka - viziti  
 keka ja - vizitanto  
 keke - kuko  
+ken - koni  
 kentaur - centaǔro  
 kerne - kerno (koro)  
 kerne energi - kernenergio  
@@ -1118,7 +1114,7 @@ kompani - kompanio (firmao)
 kon - kun (kuna, komuna)  
 kon bon - kongrui  
 kon gong - kunlabori  
-kon sabe - informacio  
+kon sabi - informacio  
 kon sana sim - komunismo  
 kon sana sim ja - komunisto  
 kon su - kuna  
@@ -1237,7 +1233,6 @@ lutesi yum - lutecio
 
 ## M  
 
-ma - patrino  
 maf - pardono  
 magen yum - magnezio  
 magi - magio  
@@ -1287,16 +1282,15 @@ mega - miliono
 megi - nubo  
 Mehiko - Meksikio  
 mei - bela  
-mei suta - arto  
-mei suta ja - artisto  
+mei arte - arto  
 meita - beleco  
 meitner yum - mejtnerio  
 melodi - melodio  
-membre - membro  
 meme - ŝafo  
 memo - memoro  
 • anmemo - forgesi  
 mena - nudelo  
+mer - membro  
 meranti - ŝoreo  
 Merkur - Merkuro  
 mes - monato  
@@ -1483,7 +1477,6 @@ oxide - oksido
 
 ## P  
 
-pa - patro  
 paci - birdo  
 paci logi - ornitologio  
 pada mosim - aŭtuno  
@@ -1514,8 +1507,7 @@ pari - feo
 pari kata - fabelo  
 parke - parko (ĝardeno)  
 parti - partio  
-parti - partopreni  
-partia - partio  
+parti cepe - partopreni  
 pas - pasi  
 pas di - pasinta  
 pase - paco  
@@ -1592,7 +1584,6 @@ poto - koto
 poto di - kota  
 poto stan - marĉo  
 prese - premo  
-prese - premo  
 prese gi - premilo  
 • preser - premilo  
 prezidente - prezidento  
@@ -1667,14 +1658,9 @@ rutin - rutino (kutimo)
 
 ## S  
 
-sabe - scii (koni)  
-• ansabe di - fremda (nekonata)  
-sabe logi - sciteorio (epistemologio)  
-sabe vol di - interesa  
-sabe vol ja - scivolema  
-sabe xe - scio  
-sable - sablo  
-sable stan - dezerto  
+sabi - scii kiel  
+sablu - sablo  
+sablu stan - dezerto  
 sabu - kialo  
 sabun - sapo  
 safa - pura  
@@ -1711,9 +1697,12 @@ sam sexe di - samseksema
 sama - ĉielo  
 sama hal - vetero  
 samari yum - samario  
-san - monto  
-san pike - pinto  
-sana baxa - artefarita lingvo  
+san - scii  
+• ansan di - fremda (nekonata)  
+san logi - sciteorio (epistemologio)  
+san vol di - interesa  
+san vol ja - scivolema  
+san xe - scio  
 sana ja - fabrikisto  
 sanduku - skatolo (kesto)  
 sante - sankta  
@@ -1730,6 +1719,8 @@ sauna - saŭno
 saur - lacerto  
 saya - ombro  
 se - si  
+semen - unu la alian  
+semen su - reciproka  
 seku - ŝtono  
 selen yum - seleno  
 selu - ĉelo  
@@ -1738,9 +1729,6 @@ seme - semo
 seme di - sema  
 semi - signifi  
 semi logi - semantiko  
-semon - unu la alian  
-semon su - reciproka  
-sene - aĝo  
 sense - sentumo  
 senti - centono  
 sento - cent  
@@ -1748,7 +1736,6 @@ sento nen - jarcento (centjaro)
 sento nen di - centjara  
 Serbia - Serbio  
 seri - serio  
-seria - serio  
 serime - ĉenero  
 seri seri - ĉeno  
 serpe - serpento  
@@ -1759,7 +1746,7 @@ sifa loga - adjektivo
 sigar - cigaredo  
 resikle - recikligi  
 sikle ja - biciklisto  
-silis - silicio  
+silike - silicio  
 silke - silko  
 silke larva - silkraŭpo  
 sim - ismo  
@@ -1916,6 +1903,7 @@ tuta - moruso
 uhu - plori  
 uma - ĉevalo  
 uma bici - vipeto  
+umur - aĝo  
 un - unu (1)  
 un di - sola (nur)  
 un mar - unufoje  
@@ -1938,7 +1926,7 @@ vahi - oazo
 vai - ekstero  
 vai dexa - fremda lando  
 vai di - ekstera  
-vai planete - ekzoplanedo  
+vai planeta - ekzoplanedo  
 vai vide di - evidenta  
 vakil krati - republiko  
 vala - isto  
@@ -1994,6 +1982,8 @@ xam - vespero
 xam dia - posttagmeze  
 xam yam - vespermanĝo  
 xaman - ŝamano  
+xan - monto  
+xan pike - pinto  
 xanti di - trankvila (serena)  
 xarma - honto  
 xarnir - ĉarniro (pivoto)  
@@ -2008,6 +1998,7 @@ xefe - estro (ĉefulo)
 xefe ministre ja - ĉefministro  
 xenon - ksenono  
 xia islam din - ŝijaismo  
+xigu - akcidento  
 xikaya - plendo  
 xim - koro  
 xir - poemo  
@@ -2097,9 +2088,8 @@ zardux din - zoroastrismo
 zardux din ja - zoroastristo  
 zebra - zebro  
 zeyil - veruko  
-zi sili - alfabeto  
+zi seri - alfabeto  
 zina - malfideleco  
-zinji - zingibro  
 zinke - zinko  
 zira - kumino  
 zirkon yum - zirkonio  

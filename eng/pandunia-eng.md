@@ -206,8 +206,12 @@ aroma - scent (odor, fragrance, aroma)
 aroma melon - Korean melon  
 arsen yum - arsenic  
 arte baxa - artistic language (artlang)  
-arte fete - artifact (artefact; artificial)  
+arte fete - artifact (artefact)  
+arte fete baxa - artificial language (conlang)  
+arte fete di - artificial  
 arte fete intelige (AI) - artificial intelligence (AI)  
+arteja - artist  
+arte sanaja - artisan (craftsman)  
 Artika - Arctic  
 Artika Hai - Arctic Ocean  
 Aruba - Aruba  
@@ -362,6 +366,7 @@ bata krote - platypus
 bati - eight (8)  
 batri - battery  
 bau - treasure (valuables)  
+bau bei - darling (love mate)  
 bau di - precious  
 bau seku - gem (gemstone, jewel)  
 baxa - speak (talk, language, communication)  
@@ -466,6 +471,7 @@ bede - bed
 bedinjan - eggplant (aubergine, brinjal)  
 bega - escape (flee, run away)  
 behe - goat  
+bei - mate (fellow member of a social group)  
 Beijing - Beijing (Peking)  
 bel - bel (unit)  
 bela - misfortune (misery, affliction, calamity, catastrophe, disaster, harm)  
@@ -473,10 +479,6 @@ Belarus - Belarus
 bele - shovel (spade, scoop)  
 Belgi - Belgium  
 Belize - Belize  
-ben - child (offspring)  
-ben ben - grandchild  
-bennan - son  
-benni - daughter  
 benci - bench  
 Benin - Benin  
 benzin - gasoline (petrol)  
@@ -576,13 +578,11 @@ broxa - brush
 broxa kalam - inkbrush (calligraphy brush)  
 brun varis - brown rice  
 Brunei - Brunei Darussalam  
-brus - sibling (brother or sister)  
-brusben - nephew or niece  
 bu! - boo!  
-bubu - bogeyman  
+bubu - bogeyman (ghost)  
 buca - butcher  
-buca ja - butcher  
 bucakan - abattoir (slaughterhouse)  
+bucar - butcher  
 Buda - Buddha  
 Buda din - Buddhism  
 Buda din ja - Buddhist  
@@ -683,13 +683,6 @@ cile - Chile
 cili - pepper (capsicum)  
 cili fun - paprika  
 cimpanzi - chimpanzee  
-cin - parent (mother or father)  
-cin brus ben - cousin  
-cin cin - grandparent  
-cin gam - step-parent  
-cin gam ben - step-sibling  
-cin ma - grandmother  
-cin pa - grandfather  
 cincila - chinchilla  
 cing - request (petition)  
 cing - ask (request, beg, plead; please)  
@@ -842,6 +835,9 @@ deu logi - theology
 deu nagar zi - Devanagari alphabet  
 • andeu sim ja - atheist  
 deu sofi - theosophy  
+dex - right (right hand side)  
+dexka - rightist (right-winger)  
+dexmanuka - right-handed (dexter)  
 dexa - country (land, state)  
 dexa jen - citizen  
 di - attributive postposition  
@@ -916,7 +912,7 @@ du grafi di - anaglyphic (stereoscopic)
 du mar - twice  
 dume - second (2nd)  
 du o tri - a couple of  
-duple - double (twofold; multiply by two)  
+dupli - double (twofold; multiply by two)  
 du romanse di - biromantic  
 du semi di - double entendre  
 du sexe di - bisexual  
@@ -949,7 +945,7 @@ dus jen - enemy (foe, villain)
 dus nam - insult (offense)  
 dus rai - disapprove (frown upon)  
 dus sin di - ominous (foreboding)  
-dus topia - dystopia  
+dus topi - dystopia  
 dus vide - ugly (unsightly)  
 dus zar - misfortune (bad luck)  
 dute - lead (bring to)  
@@ -1032,7 +1028,7 @@ eu anjil - gospel (divine message)
 eu deu sim - eutheism  
 eu gene sim - eugenics  
 eu loga - praise (eulogy)  
-eutopia - utopia  
+eutopi - utopia  
 Eurasia - Eurasia  
 eureka - find (discover)  
 euro - euro (€)  
@@ -1164,7 +1160,7 @@ fa kode - encode (encrypt)
 fa koloni - colonize  
 fa komputa - compute (to process data)  
 fa komun - share  
-fa kon sabe - communicate (inform about)  
+fa kon sabi - communicate (inform about)  
 fa kopi - copy (replicate)  
 fa koste - cost  
 fa krus fixe - crucify  
@@ -1485,6 +1481,7 @@ fuka - return (restore, recover, resume)
 fuku - clothing (clothes)  
 fuku di - clothed (dressed)  
 fuku vaxi gi - washing machine  
+fulan - such-and-such (so-and-so)  
 fun - dust (powder)  
 fun cupa gi - vacuum cleaner  
 fungu - fungus (mushroom)  
@@ -1528,15 +1525,6 @@ galte di - wrong (incorrect, erroneous, faulty)
 gamba - shrimp (prawn)  
 Gambia - Gambia  
 gamel - camel  
-gami - marriage (matrimony)  
-gami ben - step-child  
-gami cin - parent-in-law  
-gami di - married  
-gami jen - spouse (husband or wife)  
-gami ma - mother-in-law  
-gami nan - husband  
-gami ni - wife  
-gami pa - father-in-law  
 gamo - emotion (feeling)  
 gamo di - emotional (emotive)  
 gamo hal - mood (emotional state)  
@@ -1805,8 +1793,8 @@ hem - ponder (think, contemplate, consider, regard)
 hem… - hmm…  
 hema - tent  
 hemi - blood  
-anhemia - anemia  
-hemi fobia - hemophobia  
+anhemi - anemia  
+hemi fobi - hemophobia  
 hemi globin - hemoglobin  
 hemi hin - bloodless  
 hemi selu - blood cell (hemocyte)  
@@ -1862,11 +1850,11 @@ hobi ja - hobbyist (amateur)
 hogo - fire (burning)  
 hogo di - fiery  
 hogo puja - pyrolatry  
-hogo san - volcano  
-hogo san kanca - volcanic glass  
 hogo sanduku - lantern  
 hogo seku - flint  
 hogo tehni - fireworks (pyrotechnics)  
+hogo xan - volcano  
+hogo xan kanca - volcanic glass  
 hoki - hockey  
 holera - cholera  
 holme yum - holmium  
@@ -1893,6 +1881,7 @@ huke - hook
 huke krus - swastika (hooked cross)  
 huke lin kane - fishing rod (fishing pole)  
 huli - fox  
+humel - hop  
 humus - chickpea  
 humus sos - hummus  
 huru - free (unchained)  
@@ -2028,8 +2017,6 @@ jete - thrust (throw, cast)
 • projete - project (forecast, endeavour)  
 • rejete - reject (throw back)  
 jete grafi - project (cast; projection image)  
-jiang di - crafty (dexterous)  
-jiang ja - artisan (craftsman)  
 Jibraltar - Gibraltar  
 Jibuti - Djibouti  
 jihade - struggle (strife)  
@@ -2037,6 +2024,7 @@ jin - advancement (milestone)
 jin lai - access (admission, accessibility)  
 jin mun - entrance  
 jini - spirit (soul, vitality, life force)  
+jinji - ginger  
 jinse - gender (sex)  
 jinse di - sexual (pertaining to gender)  
 jinselogi - gender studies  
@@ -2062,7 +2050,8 @@ jui di - careful (cautious, attentive, alert, wary)
 jui note - warning (advisory)  
 jul - joule (J)  
 jumla - sentence (phrase)  
-jun - young (youthful)  
+jun - young (junior)  
+jun bei - junior fellow (kouhai)  
 jun fem - girl  
 jun jen - youth (youngster, young person)  
 jun man - boy  
@@ -2243,7 +2232,9 @@ keke - cake (cookie)
 kelele - noise  
 kelvin - kelvin  
 Keme - Ancient Egypt (Kemet)  
+ken - know by experience or in person  
 kentaur - centaur  
+kentaur hua - centaury  
 Kenya - Kenya  
 kerne - core (nucleus, kernel)  
 kerne cira - nuclear fission  
@@ -2343,7 +2334,7 @@ kon forma - conform (fit, mold)
 kon funsibil - compatible (supported)  
 kon gong - collaborate (work together)  
 kon pasi - compassion  
-kon sabe - information (communicable knowledge)  
+kon sabi - information (communicable knowledge)  
 kon sana sim - communism  
 kon sana sim ja - communist  
 kon sel - give consultation  
@@ -2419,9 +2410,9 @@ kuan - wide (broad)
 kuanta - width (breadth)  
 kuanga - mineral (ore)  
 kuanga ja - miner  
-kuanga san - mine  
 kuanga sui - mineral water  
 kuanga tunel - mineshaft  
+kuanga xan - mine  
 kuarze - quartz  
 Kuba - Cuba  
 kube - cube  
@@ -2619,10 +2610,6 @@ Luxemburge - Luxembourg
 
 ## M  
 
-ma - mother (mom, mama)  
-ma di - motherly (maternal)  
-ma su ma - maternal grandmother  
-ma su pa - maternal grandfather  
 Madagasi - Madagascar  
 madagasi di - Malagasy  
 maf - pardon (forgiveness; sorry)  
@@ -2694,9 +2681,9 @@ masta - mast
 maste - master (be an expert at sth)  
 master - master (expert)  
 master de arte (MA) - Master of Arts  
-master de enjenia (ME) - Master of Engineering  
+master de enjeni (ME) - Master of Engineering  
 master de filsofi (MF) - Master of Philosophy  
-master de ilmi (MI) - Master of Science  
+master de logi (ML) - Master of Science  
 master de tehni logi (MT) - Master of Technology  
 mata - die (death; dead, deceased)  
 mata badan - dead body  
@@ -2756,16 +2743,13 @@ megi di - cloudy (foggy)
 Mehiko - Mexico  
 Mehiko siti - Mexico City  
 mei - beautiful (handsome, pretty)  
+mei arte - fine arts  
 mei daka - decoration (ornament)  
-mei suta - fine arts  
-mei suta ja - artist  
 meita - beauty  
 meitner yum - meitnerium  
 melodi - melody  
 melodi di - melodious (melodic)  
 melon - muskmelon  
-membe - belong (be a member)  
-membre - member (component)  
 meme - sheep  
 meme kexa - wool (fleece)  
 memo - memory (recollection)  
@@ -2779,6 +2763,8 @@ mendelef yum - mendelevium
 meninge - meninx (meninges)  
 meninge tis - meningitis  
 mentor - advisor (counselor, mentor)  
+mer - belong (be a member)  
+mer - member (part of a group, component)  
 meranti - lauan tree (meranti, balau)  
 Merkur - Mercury  
 mes - month  
@@ -2802,8 +2788,8 @@ mesi din ja - Christian
 mesi gene - Christmas  
 metal - metal  
 metal bede - anvil  
-metal jiang ja - blacksmith (iron forger)  
 metal lin - wire  
+metal sanaja - blacksmith (iron forger)  
 metal tul - hardware (ironware, equipment)  
 metre - measure (measurement)  
 metre gi - meter (measuring device)  
@@ -2826,9 +2812,9 @@ mili gram - milligram
 mili mitre - millimeter  
 milke - milk  
 milke kardon - milk thistle  
-mima - mimic (imitate)  
-mima ja - imitator (mime)  
 Mimas - Mimas  
+mime - mimic (imitate, emulate)  
+mime ja - imitator (mime)  
 min - less  
 min di fen - minority  
 min ka bas - too little  
@@ -2864,10 +2850,10 @@ mode loge - adverb
 model - model (design)  
 moka - tree  
 moka bano - wood board (plank)  
-moka jiang ja - carpenter  
 moka jong parke - arboretum  
 moka kane - stake (stick, peg, skewer)  
 moka mate - wood (timber)  
+moka sanaja - carpenter  
 moka tana - log (trunk)  
 mol ja - miller  
 molkan - mill  
@@ -2904,7 +2890,7 @@ muka - face
 muka fun - face powder  
 mula - root  
 multi - many (much)  
-multiple - multiple  
+multipli - multiple  
 multita - number (abundance)  
 mum - wax  
 mum cape - wax seal  
@@ -3010,7 +2996,7 @@ nefte - oil
 nefte guku - Indian chrysanthemum  
 nega - refuse (deny, decline)  
 nekro - corpse (dead body)  
-nekro filia - nechrophilia  
+nekro fili - nechrophilia  
 nekro lista - necrology (listing of people who have died)  
 nekro loga - obituary (necrology)  
 nekro tomi - autopsy (necrotomy)  
@@ -3160,10 +3146,6 @@ oxide - oxide
 
 ## P  
 
-pa - father (dad, papa)  
-pa di - fatherly (paternal)  
-pa su ma - paternal grandmother  
-pa su pa - paternal grandfather  
 paci - bird  
 paci logi - ornithology (birdlore)  
 pada - fall  
@@ -3191,7 +3173,7 @@ pan deu sim - pantheism
 pan dunia di - global (concerning the whole world)  
 pan europa di - pan-European  
 pan jen - everybody (everyone)  
-pan mima - pantomime  
+pan mime - pantomime  
 pan romanse di - panromantic  
 pan sata - always  
 pan sexe di - pansexual  
@@ -3231,11 +3213,8 @@ Paris - Paris
 parke - park (garden)  
 parne - fern  
 parti - party (group)  
-parti - participate (attend, partake, take part)  
-partia - party (group)  
-parti cepe - participate  
+parti cepe - participate (attend, partake, take part)  
 parti ceper - participant  
-parti ja - participant  
 parti jen - partner  
 pas - pass (go across or through, skip)  
 pas dau - pass (passage)  
@@ -3271,9 +3250,8 @@ pedal - pedal
 pedal sikle - bicycle (pedal bike)  
 pede - fart (flatulence)  
 pedi - bring up (educate, raise)  
-pedia - education (upbringing)  
-pedi filia - pedophilia  
-pedi fobia - pedophobia  
+pedi fili - pedophilia  
+pedi fobi - pedophobia  
 pei - payment  
 pei gong - profession (job, occupation, trade, vocation)  
 pei gong di - professional (occupational, career)  
@@ -3368,6 +3346,7 @@ Platon sim - Platonism
 Platon sim di - Platonic  
 Platon sim ja - Platonist  
 plazma - plasma (ionized gas)  
+pli - ply (fold, times)  
 plumbe - lead  
 Pluton - Pluto (dwarf planet)  
 pluton yum - plutonium  
@@ -3449,7 +3428,6 @@ poze - pose (set; position)
 prati - practice (actuality)  
 prati di - practical (pragmatic)  
 prazedim yum - praseodymium  
-prese - pressure  
 prese - press (pressure)  
 • deprese - depress (push away)  
 • exprese - express (push out)  
@@ -3633,17 +3611,11 @@ rutin - routine (habit)
 ## S  
 
 sabate - Sabbath  
-sabe - know (be aware of)  
-• ansabe di - strange (unknown)  
-sabe logi - epistemology  
-sabe vol - interest (curiosity)  
-sabe vol di - interesting (curious)  
-sabe vol ja - interested (curious)  
-sabe xe - knowledge  
-sable - sand  
-sable burge - sandcastle  
-sable petra - sandstone  
-sable stan - desert  
+sabi - know how  
+sablu - sand  
+sablu burge - sandcastle  
+sablu petra - sandstone  
+sablu stan - desert  
 sabu - reason (cause)  
 sabun - soap  
 sada - plain (ordinary, unadorned, simple, mere)  
@@ -3692,6 +3664,7 @@ salu safata - hygiene (cleanliness)
 saluta - health  
 Salvador - El Salvador  
 sam - same (equal, alike, match)  
+sam bei - peer  
 sam dexa jen - compatriot  
 sam emos - compassion (sympathy)  
 sam metre - symmetry (symmetrical)  
@@ -3708,11 +3681,14 @@ sama kinar - horizon
 sama nil - light blue (sky blue, azure)  
 samari yum - samarium  
 Samoa - Samoa  
-san - mountain (hill)  
-san pike - top (peak, pinnacle, summit, apex, vertex)  
+san - know as a fact (be aware of)  
+• ansan di - strange (unknown)  
+san logi - epistemology  
+san vol - interest (curiosity)  
+san vol di - interesting (curious)  
+san vol ja - interested (curious)  
+san xe - knowledge  
 sana - manufacturing (production, industry)  
-sana baxa - artificial language (conlang)  
-sana di - artificial  
 sana ja - maker (manufacturer)  
 sana ja di - productive (fertile)  
 sanduice - sandwich  
@@ -3749,9 +3725,11 @@ saur - lizard
 saya - shadow  
 se - self (reflexive pronoun)  
 se di - selfish  
+semen - each other (one another, mutually)  
+semen su - mutual (each other’s)  
 se su - own  
 seku - stone (piece of rock)  
-seku jiang ja - mason (stonemason, stonecutter)  
+seku sanaja - mason (stonemason, stonecutter)  
 sekunde - second(s)  
 sekur - safe (secure, protected)  
 sekur kode - password (security code)  
@@ -3772,10 +3750,8 @@ semi - mean (signify)
 semi forar - semaphore  
 semi logi - semantics  
 semima - sememe  
-semon - each other (one another, mutually)  
-semon su - mutual (each other’s)  
-sene - age  
-sene di - aged  
+sen - older (elder, senior, superior)  
+sen bei - senior fellow (senpai)  
 Senegal - Senegal  
 seng - raw (crude, fresh)  
 seng varis - uncooked rice  
@@ -3793,7 +3769,6 @@ serami - ceramic
 serami sing - bluet  
 Serbia - Serbia  
 seri - series (sequence, succession)  
-seria - series (sequence, succession)  
 seri letre - chain letter  
 serime - link  
 seri nete - chain mail  
@@ -3825,7 +3800,7 @@ siki din ja - Sikh
 sikle - bike (cycle)  
 resikle - recycle  
 sikle ja - cyclist  
-silis - silicon  
+silike - silicon  
 silke - silk  
 silke larva - silkworm  
 sim - advocacy (promotion, -ism)  
@@ -3966,6 +3941,7 @@ Surinam - Suriname
 surinam baxa - Sranan Tongo  
 susan - lily  
 suta - skill (art, craft)  
+suta di - skillful (crafty, dexterous)  
 suta tabi - skillful (crafty)  
 sutur - suture (seam)  
 suxi - sushi  
@@ -4103,7 +4079,7 @@ tomi - split (dissect)
 • jivatomi - vivisection  
 • tritomi - trichotomy  
 • tomigrafi - tomogram  
-• tomigrafia - tomography  
+• tomigrafi - tomography  
 ton - tone (note, pitch, shade)  
 tong - barrel (can, cask)  
 Tonga - Tonga  
@@ -4141,7 +4117,7 @@ tri - three (3)
 tri gona - triangle  
 trime - third (3rd)  
 tri pike - trident  
-triple - triple (threefold)  
+tripli - triple (threefold)  
 tribu - tribe  
 Trinidade e Tobago - Trinidad and Tobago  
 Triton - Triton  
@@ -4163,7 +4139,7 @@ tule yum - thulium
 tulpan - tulip  
 tuna - tuna  
 tundra - tundra  
-tundra san - fell  
+tundra xan - fell  
 tunel - tunnel  
 tunel tren - subway (metro)  
 tunika - tunic (gown)  
@@ -4191,11 +4167,14 @@ uma - horse
 uma bici - horsewhip (riding crop)  
 umami - savory (umami)  
 Umbriel - Umbriel  
+umur - age  
+umur di - aged  
 un - one (1)  
 un deu sim - monotheism  
 un di - only (single, sole, lone, just)  
 undura - continuous (analog)  
 undurali hor loga gi - analog clock  
+un fen du - half (½)  
 un mar - once (one time)  
 un me - first (number one)  
 un rang di - monochrome  
@@ -4243,7 +4222,7 @@ vai jen - outsider
 vai klus di - exclusive  
 vai mise - export  
 vai nam - exonym  
-vai planete - exoplanet  
+vai planeta - exoplanet  
 vai poze - expose (reveal)  
 vai tense - extent  
 vai trata gi - extractor  
@@ -4390,6 +4369,8 @@ xam yam - dinner
 xaman - shaman  
 xampan - Champagne  
 xampan vin - champagne  
+xan - mountain (hill)  
+xan pike - top (peak, pinnacle, summit, apex, vertex)  
 xanghai - Shanghai  
 xanti - rest (relief, repose)  
 xanti di - calm (peaceful, quiet)  
@@ -4417,9 +4398,11 @@ xefe di - main (principal)
 xefe ministre ja - prime minister  
 xenon - xenon  
 xi - Mx. (Mr. or Ms.)  
+xi Fulan - what's-his-name  
 xia - faction (clique)  
 xia islam din - Shia Islam (Shi’ism)  
 xifu - master (sensei, sifu)  
+xigu - accident (mishap)  
 xikaya - complain (lament)  
 xike - elegant (chic)  
 xim - heart  
@@ -4569,12 +4552,11 @@ zeyil - wart
 zeze - fly  
 zi - character (written symbol)  
 zi forma - font  
-zi sili - alphabet  
+zi seri - alphabet  
 zigzage - zigzag  
 zikura - ziggurat  
 Zimbabue - Zimbabwe  
 zina - adultery (infidelity)  
-zinji - ginger  
 zinke - zinc  
 zipe - zip up  
 ziper - zipper (zip)  

@@ -53,6 +53,7 @@
  - banka xefe  
  - bar vala  
  - bari  
+ - bau bei  
  - baze strute  
  - be an zai  
  - be fin  
@@ -69,8 +70,8 @@
  - be sabi vol  
  - be tam  
  - be vai  
+ - bei  
  - bela  
- - ben ben  
  - Berlin  
  - Biblia di  
  - bici  
@@ -93,11 +94,10 @@
  - Brazavil  
  - broxa kalam  
  - brun varis  
- - brusben  
  - bubu  
  - buca  
- - buca ja  
  - bucakan  
+ - bucar  
  - Budapexte  
  - buro di  
  - buro krati  
@@ -109,9 +109,6 @@
  - cen ding  
  - ceng bede  
  - cese  
- - cin cin  
- - cin gam  
- - cin gam ben  
  - cing  
  - cing na  
  - cira tela  
@@ -136,6 +133,7 @@
  - dele  
  - den  
  - den loge  
+ - dexmanuka  
  - di  
  - dia foto  
  - din xia  
@@ -155,7 +153,7 @@
  - dus forma di  
  - dus jen  
  - dus rai  
- - dus topia  
+ - dus topi  
  - dute  
  - elfe  
  - Enceladus  
@@ -166,7 +164,7 @@
  - eu deu sim  
  - eu gene sim  
  - Europa luna  
- - eutopia  
+ - eutopi  
  - exa  
  - fa agresi  
  - fa amen  
@@ -254,12 +252,9 @@
  - frute bagi  
  - fufu  
  - fuku di  
+ - fulan  
  - fute marke  
  - gala  
- - gami ben  
- - gami cin  
- - gami ma  
- - gami pa  
  - gan mosim  
  - gana  
  - gana kalam  
@@ -311,7 +306,7 @@
  - hazinkan  
  - helis babul  
  - Helsinki  
- - hemi fobia  
+ - hemi fobi  
  - hemi hin  
  - hepate  
  - hepatetis  
@@ -362,6 +357,7 @@
  - jui  
  - jui di  
  - jui note  
+ - jun bei  
  - kable  
  - kali  
  - kali di  
@@ -436,17 +432,14 @@
  - long kata  
  - luna keke  
  - lung dou  
- - ma di  
- - ma su ma  
- - ma su pa  
  - magi liki  
  - manioka fufu  
  - mantra  
  - marce  
  - master de arte (MA)  
- - master de enjenia (ME)  
+ - master de enjeni (ME)  
  - master de filsofi (MF)  
- - master de ilmi (MI)  
+ - master de logi (ML)  
  - master de tehni logi (MT)  
  - mata badan  
  - matabil  
@@ -462,15 +455,15 @@
  - metal lin  
  - metal tul  
  - metre gi  
- - mima  
- - mima ja  
  - Mimas  
+ - mime  
+ - mime ja  
  - mimen su  
  - min poli  
  - Miranda  
  - moli hua cai  
  - moto cati  
- - multiple  
+ - multipli  
  - muxu cakra  
  - na xiti  
  - nadir  
@@ -486,7 +479,7 @@
  - nati stan  
  - natre bilor  
  - ne  
- - nekro filia  
+ - nekro fili  
  - nekro lista  
  - nelu di galope  
  - nerve toxi  
@@ -502,22 +495,17 @@
  - nume zi  
  - Oberon  
  - oskope  
- - pa di  
- - pa su ma  
- - pa su pa  
  - paka  
  - palaba  
- - pan mima  
+ - pan mime  
  - par fase  
  - par nume  
  - pari dexa  
- - parti cepe  
  - pas dau  
  - pas loga  
  - pedi  
- - pedi filia  
- - pedi fobia  
- - pedia  
+ - pedi fili  
+ - pedi fobi  
  - pei gong di  
  - pei gong ja  
  - pei gong jiva  
@@ -534,6 +522,7 @@
  - pinse bano  
  - plasti di  
  - plasti paste  
+ - pli  
  - Polinesi  
  - poliskan  
  - politi mode  
@@ -548,7 +537,6 @@
  - pote ja  
  - pote suta  
  - poyu  
- - prese  
  - prese  
  - prese gi  
  - program gi  
@@ -568,13 +556,15 @@
  - rivo kinar  
  - roke  
  - roke kursi  
- - sable burge  
+ - sabi  
+ - sablu burge  
  - safa tela  
  - safar ceke  
  - sagu fun  
  - sal noce  
  - salamta  
  - saludo  
+ - sam bei  
  - sam metre  
  - sante kanon  
  - sar kexa hin  
@@ -584,7 +574,8 @@
  - semi forar  
  - semi logi  
  - semima  
- - sene di  
+ - sen  
+ - sen bei  
  - seng  
  - seng varis  
  - sense ja  
@@ -640,17 +631,19 @@
  - trate  
  - tren tikete  
  - trime  
- - triple  
+ - tripli  
  - Triton  
  - Tule  
  - tumen su  
  - tumimen  
  - tuna  
- - tundra san  
+ - tundra xan  
  - turbejeter  
  - turfa  
  - uma bici  
  - Umbriel  
+ - umur di  
+ - un fen du  
  - un sata  
  - un verse di  
  - un yen di lense  
@@ -699,6 +692,7 @@
  - xauta  
  - xava mosim  
  - xi  
+ - xi Fulan  
  - xia  
  - xikaya  
  - xiu deha  
@@ -889,7 +883,7 @@ Alaska - Alaska
 Albania - cipe  
 ale (lecz) - ama  
 alfabet łaciński, łacinka, alfabet rzymski - Latin zi  
-alfabet, abecadło - zi sili  
+alfabet, abecadło - zi seri  
 alga (wodorost) - alga  
 algebra - jebra  
 Algieria - Jayer  
@@ -916,7 +910,7 @@ ananans - nanas
 andezyt - andesite  
 Andora - Andora  
 Andy - Andes  
-anemia - anhemia  
+anemia - anhemi  
 Anglia - Englix  
 Anglik; angielski - englix di  
 anglizować (zanglizować) - fa englix kitaba  
@@ -954,7 +948,7 @@ aromantyczny - anromanse
 arsen - arsen yum  
 artykuł wiki - viki makala  
 artykuł, tekst - makala  
-artysta - mei suta ja  
+artysta - arteja  
 Aruba - Aruba  
 arytmetyka - hisabu suta  
 asceta - askete  
@@ -983,7 +977,6 @@ azjatycki - asia
 azot - nitre  
 aż do - hata  
 B - B  
-babcia (babka) - cin ma  
 bagaż - bagaje  
 bagietka - kane pang  
 bagno (moczary) - poto stan  
@@ -1186,6 +1179,7 @@ Chile - cile
 Chiny - Jongoku  
 chleb - pang  
 chlor - klor  
+chmiel - humel  
 chmura - megi  
 cholera - holera  
 Chongqing - congcing  
@@ -1213,7 +1207,7 @@ cichy - tix
 cichy - xux di  
 ciecierzyca - humus  
 ciecz (płyn) - dara mate  
-ciekawy - sabe vol ja  
+ciekawy - san vol ja  
 ciekły (płynny) - dara mate di  
 cielesny - badan di  
 ciemny, słabo oświetlony - oskur  
@@ -1290,9 +1284,8 @@ często - a poli mar
 częstotliwość - poli marta  
 część (fragment, strzęp, kawałek, okruch) - parce  
 część, ułamek - fen  
-członek - membre  
+członek - mer  
 człowiek, istota ludzka - insan  
-córka - benni  
 D - D  
 dach - cati  
 daktyl - tamar  
@@ -1407,11 +1400,9 @@ dystans - tele
 dystans - teleta  
 dywan - dipe tela  
 dzban, dzbanek; słój, słoik; wazon - jara  
-dziadek (dziad) - cin pa  
 działka (teren) - geo tika  
 działo - dai pau  
 dziecko (nieletni) - baca  
-dziecko, potomek - ben  
 dzielić - fa fen  
 dzielić (współdzielić) - fa komun  
 dzielnica - mahala  
@@ -1432,7 +1423,7 @@ dziobak - bata krote
 dziura - kung  
 dziw (cudo, zachwyt) - ajabu  
 dziwny - guai  
-dziwny (nieznany) - ansabe di  
+dziwny (nieznany) - ansan di  
 dzięki, dzięki ci - xukur  
 dziękować - fa xukur  
 dziś, dzisiaj - zai den  
@@ -1457,7 +1448,7 @@ efekt halo - foto gola
 egipski - misri di  
 Egipt - Misri  
 egzonim - vai nam  
-egzoplaneta - vai planete  
+egzoplaneta - vai planeta  
 einstein - einstein yum  
 ekologia (nauka o środowisku) - ekologi  
 ekonomia - mal nomi  
@@ -1483,7 +1474,7 @@ endonim - in nam
 energia - energi  
 energia nuklearna - kerne energi  
 enzym - enzim  
-epistemologia - sabe logi  
+epistemologia (gnoseologia, teoria poznania) - san logi  
 erb - erbi yum  
 Eris (planeta karłowata) - Eris  
 Erytrea - Eritra  
@@ -1664,7 +1655,7 @@ gwiazda - sing
 Gwinea - Konakri Ginia  
 Gwinea Równikowa - Geo Par Lin Ginia  
 góra (szczyt) - gau  
-góra, wzgórze - san  
+góra, wzgórze - xan  
 górnik (kopacz) - kuanga ja  
 górny - supra di  
 gówno - xite  
@@ -1765,7 +1756,7 @@ ile? - ke multi di
 ilość - polita  
 ilustrator, grafik - grafi ja  
 iluzja (halucynacja) - false vide  
-imbir - zinji  
+imbir - jinji  
 imbryk (czajnik) - cai pote  
 imbryk do kawy - kafe pote  
 imię, nazwa - nam  
@@ -1786,12 +1777,12 @@ Indyjski - barti
 indyk - dinde  
 infekcja (zakażenie) - pati mise  
 infekcja (zakażenie) - infete  
-informacja - kon sabe  
+informacja - kon sabi  
 informatyka - data culi logi  
 inny - alo  
 innymi słowy - alo nam  
 intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki) - teza  
-interesujący - sabe vol di  
+interesujący - san vol di  
 interfejs - medi fase  
 internet - internete  
 inżynier - enjenir  
@@ -1878,8 +1869,8 @@ jęczmień - jau
 język - lisan  
 język ojczysty (język rodzimy) - nati baxa  
 język surinamski - surinam baxa  
+język sztuczny - arte fete baxa  
 język sztuczny - fete baxa  
-język sztuczny - sana baxa  
 język świata, język ogólnoświatowy - dunia baxa  
 język; komunikacja; mówić - baxa  
 językoznastwo - baxa logi  
@@ -1900,7 +1891,7 @@ kalkulować - fa hisabu
 Kambodża - Kambojia  
 kamera, aparat fotograficzny - foto grafi gi  
 Kamerun - Kamerun  
-kamieniarz - seku jiang ja  
+kamieniarz - seku sanaja  
 kamień (kawał skały) - ite  
 kamień (kawał skały) - seku  
 kamyk - xiu seku  
@@ -2043,7 +2034,7 @@ konstytucja - baze kanun
 konto - hisabu loge  
 konwalia majowa - vali susan  
 konwencjonalny, zwyczajowy, tradycyjny - suna di  
-kopalnia - kuanga san  
+kopalnia - kuanga xan  
 kopać (dół, jama) - kava  
 kopać (wydobywać) - kape yo kuanga  
 kopernik - koperni yum  
@@ -2076,7 +2067,7 @@ koszula - kamisa
 kot - mau  
 kotwica - angar  
 kowadło - metal bede  
-kowal - metal jiang ja  
+kowal - metal sanaja  
 koza - behe  
 koło - cakra  
 koło, okrąg - gola  
@@ -2109,7 +2100,7 @@ krytyk - piping ja
 kryzys - krizi  
 kryzysowy - krizi di  
 krzak (krzew) - dipe moka  
-krzem - silis  
+krzem - silike  
 krzemień - hogo seku  
 krzyknąć, krzyczeć - krita  
 krzywdzący (szkodliwy) - avar ja  
@@ -2151,7 +2142,6 @@ kusić, nakłonić, nakłaniać - tenta
 kusza (balista) - krus arka  
 kuszetka (koja) - kux loka  
 Kuwejt - Kuvaite  
-kuzyn - cin brus ben  
 kwadrat (czworokąt, czworobok, tetragon) - nelu gona  
 kwarc - kuarze  
 kwaśny - suan  
@@ -2332,16 +2322,11 @@ materac - matras
 materia, substancja - mate  
 materialny - mate di  
 materiał (składnik, zasób) - faida xe  
-matka, mama - ma  
 Mauretania - Muritania  
 Mauritius - Moris  
 Maya - maya  
 małpa (znak na - adres zi  
 mały - xiu  
-małżeństwo, związek małżeński - gami  
-małżonek - gami nan  
-małżonek (małżonka) - gami jen  
-małżonka - gami ni  
 mech - mos  
 mecz, rywalizacja - mece  
 medalion, medal - medal  
@@ -2525,7 +2510,7 @@ najmniej, minimalnie - minim
 naleśnik - krepe  
 naleśnikarnia - krepekan  
 należeć - be mal  
-należeć (być członkiem) - membe  
+należeć (być członkiem) - mer  
 namalować, malować - fa pente  
 namalować, malować - pente  
 Namibia - Namibia  
@@ -2723,7 +2708,6 @@ ogr (trol, goblin) - gui
 ogórek - hiyar  
 ogórek kiwano - korne melon  
 ogórek melon - melon  
-ojciec - pa  
 okej, spoko, akceptowalny - okebil  
 okno - janela  
 oko - yen  
@@ -2793,7 +2777,6 @@ ołtarz - puja meza
 ołów - plumbe  
 oś - axe  
 ośmiornica - ohtopus  
-ożeniony, zamężny, w związku małżeńskim - gami di  
 ożenić się, poślubić, wyjść za mąż - fa gami  
 P - P  
 pachnieć - fa aroma  
@@ -2845,7 +2828,6 @@ parasol - xava cati
 park (ogród) - parke  
 parking - garparke  
 partia - parti  
-partia - partia  
 Partia Piratów - pirate parti  
 partner - parti jen  
 Paryż - Paris  
@@ -2883,8 +2865,8 @@ perła - lulu
 pełny - pul  
 pfuj (fuj) - bah  
 pianino - piano  
-piasek, piach - sable  
-piaskowiec - sable petra  
+piasek, piach - sablu  
+piaskowiec - sablu petra  
 pidżin, język pomocniczy - pijin  
 piec - baka  
 piec - roste  
@@ -2977,7 +2959,7 @@ podróżnik - safar ja
 podróżować - fa safar  
 podstawa, baza, fundament - baze  
 poduszka - kuxen  
-podwajać (podwoić, pomnożyć przez dwa) - duple  
+podwajać (podwoić, pomnożyć przez dwa) - dupli  
 podwoić - fa multi  
 podziemny - geo nice di  
 podążać - fa pos  
@@ -2986,7 +2968,7 @@ poemat - xir
 poeta - xir ja  
 pogoda - sama hal  
 pogrubiona litera - gros zi  
-poinformować, informować, zakomunikować, komunikować - fa kon sabe  
+poinformować, informować, zakomunikować, komunikować - fa kon sabi  
 pojawić się - be zai  
 pojęciowy - idea di  
 pokaz, ekspozycja, wystawa - xou  
@@ -3117,8 +3099,10 @@ praktykant - kar xular
 pralka - fuku vaxi gi  
 prawa autorskie - kopi haki  
 prawa człowieka - insan haki  
+prawa strona - dex  
 prawa strona - raite  
 prawdziwy (rzeczywisty, szczery) - ver  
+prawicowiec (prawak) - dexka  
 prawicowiec (prawak) - raite sim ja  
 prawo - kanun  
 prawo wyborcze - vote haki  
@@ -3144,7 +3128,6 @@ projekt, planowane przedsięwzięcie - projete
 projektor (rzutnik) - grafi lanse gi  
 projektor (rzutnik) - grafi projeter  
 promet - promete yum  
-promieniowanie - radia  
 promieniować - fa radi  
 promień - radi  
 promień światła - foto radi  
@@ -3244,7 +3227,7 @@ pudło, skrzynia - sanduku
 puma (kuguar) - puma  
 punkt - bindu  
 pusty - hali  
-pustynia - sable stan  
+pustynia - sablu stan  
 pułapka - kape truke  
 pyszny - bon guste di  
 pytajny, związany z pytaniem - sual di  
@@ -3336,8 +3319,6 @@ rod - rode yum
 rodak, ziomek, krajan - sam dexa jen  
 rodzaj gramatyczny - baxa jinse  
 rodzaj, typ, styl - yang  
-rodzeństwo, brat lub siostra - brus  
-rodzic (matka lub ojciec) - cin  
 rodzina - famili  
 rodzynka - gan putau  
 roentgen - rentegen yum  
@@ -3409,7 +3390,7 @@ rzadkość - nadirta
 rzecz - xe  
 rzeczownik - nam loga  
 rzeka - rivo  
-rzemieślnik - jiang ja  
+rzemieślnik - arte sanaja  
 rzepka - guta kaska oste  
 rzeźba - eskulte  
 rzeźbiarstwo - eskulte suta  
@@ -3490,7 +3471,6 @@ sensor (detektor, czujka) - sense gi
 ser - cize  
 Serbia - Serbia  
 serce - xim  
-seria (szereg) - seria  
 seria, szereg - seri  
 Seszele - Sexel nesi  
 sezam - sesam  
@@ -3514,7 +3494,7 @@ siki - pixa
 silnik - moto  
 silny - bala  
 Singapur - Singapur  
-się (nawzajem, wzajemnie) - semon  
+się (nawzajem, wzajemnie) - semen  
 siła - balata  
 siła, autorytet, władza - sultan  
 siły powietrzne - air ordu  
@@ -3622,7 +3602,7 @@ sto (100) - sento
 stojak (wieszak) - lipa baze  
 stokrotka - margarita  
 stokrotka pospolita - englix margarita  
-stolarz - moka jiang ja  
+stolarz - moka sanaja  
 stop; przerwa, zatrzymanie - halte  
 stopa - fute  
 stoper (sekundomierz) - dura metre gi  
@@ -3666,7 +3646,6 @@ swastyka - huke krus
 Syberia - Sibiria  
 sylaba (zgłoska) - loga fen  
 symbol - simbol  
-syn - bennan  
 sypialnia - sona kamar  
 Syria - Suria  
 syrop - xirope  
@@ -3691,7 +3670,7 @@ szaszłyk - xix nama
 szczepionka - vasin  
 szczoteczka do zębów - dante broxa  
 szczotka - broxa  
-szczyt (wierzchołek) - san pike  
+szczyt (wierzchołek) - xan pike  
 szef, kierownik - xefe  
 szeleścić - xaxa  
 szeroki - kuan  
@@ -3709,7 +3688,7 @@ Szkocja - Eskote
 szkoła (instytucja) - xulakan  
 szkoła podstawowa - baze xulakan  
 szkło - kanca  
-szkło wulkaniczne - hogo san kanca  
+szkło wulkaniczne - hogo xan kanca  
 szmaragd - zumarde  
 szofer (kierowca) - xofer ja  
 szogun - ordu raja  
@@ -3722,8 +3701,8 @@ szpital - patikan
 szron - hima rose  
 sztuczka (podstęp, oszustwo) - truke  
 sztuczna inteligencja - arte fete intelige (AI)  
-sztuczny - sana di  
-sztuka - mei suta  
+sztuczny - arte fete di  
+sztuka - mei arte  
 sztuka walki - jang suta  
 sztylet (puginał) - kanjar  
 szuflada - tire sanduku  
@@ -3845,7 +3824,7 @@ Tokio - Tokyo
 toksyczny (trujący) - toxi di  
 toksyna - bio toxi  
 tolerować - tolera  
-tomografia - tomigrafia  
+tomografia - tomigrafi  
 ton, dźwięk, nuta, tonacja - ton  
 tona - mega gram  
 Tonga - Tonga  
@@ -3932,9 +3911,8 @@ ucho - ore
 uciec, uciekać - bega  
 uciszyć (uciszać) - fa xux  
 uczestniczyć, wziąć udział, brać udział - fa parti  
-uczestniczyć, wziąć udział, brać udział - parti  
+uczestniczyć, wziąć udział, brać udział - parti cepe  
 uczestnik - parti ceper  
-uczestnik - parti ja  
 uczeń, student - xula ja  
 udomowiony (domowy) - dosil gene di  
 udomowić (kultywować) - fa dosil gene  
@@ -3953,7 +3931,7 @@ ul (gniazdo pszczół lub os) - fong nide
 uleczyć, leczyć, uzdrowić, uzdrawiać - dava  
 ulubiony - max fili di  
 umiejętność (kompetencja) - suta  
-umiejętny (sprawny, zręczny) - jiang di  
+umiejętny (sprawny, zręczny) - suta di  
 umieścić (postawić) - fa loka  
 umrzeć (umierać; śmierć; martwy, nieżywy, zabity) - mata  
 umrzeć, umierać - be mata  
@@ -4059,10 +4037,10 @@ wiceprezydent - vise prezidente
 widelec - forke  
 widok, wzrok - vide xe  
 wieczór - xam  
-wiedza - sabe xe  
-wiedzieć - sabe  
+wiedza - san xe  
+wiedzieć - san  
 wiejski, rustykalny - agri stan di  
-wiek - sene  
+wiek - umur  
 wielbłąd, wielbłądzica - gamel  
 wiele - multi  
 wiele - poli  
@@ -4163,7 +4141,7 @@ wstyd (hańba, kompromitacja) - xarma
 wszyscy, wszystkie, wszystko; każdy - pan  
 wszystko - pan xe  
 wtorek - den du  
-wulkan - hogo san  
+wulkan - hogo xan  
 wy, was - tumen  
 wybrać (wybierać, selekcjonować; wybór, elekcja, selekcja) - cun  
 wybrzeże - hai kinar  
@@ -4188,6 +4166,7 @@ wynająć, oddać w najem - kira kape
 wynająć, wynajmować, zatrudnić, zatrudniać - kira  
 wynik (punktacja) - punte nume  
 wyobrazić, wyobrażać, fantazjować - fa fantazi  
+wypadek - xigu  
 wypełnić, wypełniać - fa pul  
 wyrok - jude  
 wyrzucać (wyrzucić, wydalać, wydalić, pominąć, wyłączyć, poza, oprócz) - fa vai  
@@ -4214,7 +4193,7 @@ wytwórca łuków i strzał - flece ja
 wyć - fa ulul  
 wyświetlać - fa lanse grafi  
 wyświetlać (rzut, projekcja) - jete grafi  
-wzajemny - semon su  
+wzajemny - semen su  
 wzmacniać (wzmocnić) - dai darja  
 wzmacniać się (wzmagać, pogłębiać się) - be teza  
 wzmocnić (wzmocnić, wzmóc) - fa lika  
@@ -4268,7 +4247,7 @@ zagranica - vai dexa
 zagraniczny - vai dexa di  
 zagrożenie, niebezpieczeństwo - hatar  
 zaimek - vise loga  
-zainteresowanie, zaciekawienie; interesujący - sabe vol  
+zainteresowanie, zaciekawienie; interesujący - san vol  
 zajęty - haste  
 zajęty - mang  
 zaklecie - magi asar  
@@ -4388,6 +4367,7 @@ znaczyć (liczyć się, być ważnym) - ham
 znak, sygnał - sin  
 znak, trop - marke  
 znaleźć, znajdywać, odkryć, odkrywać - eureka  
+znać - ken  
 znowu (ponownie) - a ri  
 znowu (ponownie) - ri  
 znudzony - bori di  

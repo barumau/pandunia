@@ -172,7 +172,11 @@ aroma melon - melon koreański
 arsen yum - arsen  
 arte baxa -   
 arte fete -   
+arte fete baxa - język sztuczny  
+arte fete di - sztuczny  
 arte fete intelige (AI) - sztuczna inteligencja  
+arteja - artysta  
+arte sanaja - rzemieślnik  
 Artika - Arktyka  
 Artika Hai - Ocean Arktyczny  
 Aruba - Aruba  
@@ -327,6 +331,7 @@ bata krote - dziobak
 bati - osiem (8)  
 batri - bateria  
 bau - skarb; skrabiec  
+bau bei -   
 bau di - cenny  
 bau seku - klejnot  
 baxa - język; komunikacja; mówić  
@@ -431,6 +436,7 @@ bede - łóżko
 bedinjan - bakłażan, oberżyna  
 bega - uciec, uciekać  
 behe - koza  
+bei -   
 Beijing - Pekin  
 bel - bel  
 bela -   
@@ -438,10 +444,6 @@ Belarus - Białoruś
 bele - łopata (szpadel)  
 Belgi - Belgia  
 Belize - Belize  
-ben - dziecko, potomek  
-ben ben -   
-bennan - syn  
-benni - córka  
 benci - ławka  
 Benin - Benin  
 benzin - benzyna  
@@ -541,13 +543,11 @@ broxa - szczotka
 broxa kalam -   
 brun varis -   
 Brunei - Brunei Darussalam  
-brus - rodzeństwo, brat lub siostra  
-brusben -   
 bu! - bu!  
 bubu -   
 buca -   
-buca ja -   
 bucakan -   
+bucar -   
 Buda - Budda  
 Buda din - Buddyzm  
 Buda din ja - buddysta  
@@ -648,13 +648,6 @@ cile - Chile
 cili - papryka  
 cili fun - papryka  
 cimpanzi - szympans  
-cin - rodzic (matka lub ojciec)  
-cin brus ben - kuzyn  
-cin cin -   
-cin gam -   
-cin gam ben -   
-cin ma - babcia (babka)  
-cin pa - dziadek (dziad)  
 cincila - szynszyla  
 cing -   
 cing - prosić  
@@ -807,6 +800,9 @@ deu logi - teologia
 deu nagar zi - dewanagari  
 • andeu sim ja - ateista  
 deu sofi - teozofia  
+dex - prawa strona  
+dexka - prawicowiec (prawak)  
+dexmanuka -   
 dexa - kraj, ziemia  
 dexa jen - obywatel  
 di -   
@@ -881,7 +877,7 @@ du grafi di -
 du mar - dwukrotnie (dwa razy)  
 dume -   
 du o tri - parę  
-duple - podwajać (podwoić, pomnożyć przez dwa)  
+dupli - podwajać (podwoić, pomnożyć przez dwa)  
 du romanse di - biromantyczny  
 du semi di - dwuznacznik  
 du sexe di - biseksualny  
@@ -914,7 +910,7 @@ dus jen -
 dus nam - obraza (obelga)  
 dus rai -   
 dus sin di - złowieszczy  
-dus topia -   
+dus topi -   
 dus vide - brzydki  
 dus zar - zły los  
 dute -   
@@ -997,7 +993,7 @@ eu anjil - ewangelia
 eu deu sim -   
 eu gene sim -   
 eu loga - laudacja  
-eutopia -   
+eutopi -   
 Eurasia - Eurazja  
 eureka - znaleźć, znajdywać, odkryć, odkrywać  
 euro - euro (€)  
@@ -1129,7 +1125,7 @@ fa kode - kodować
 fa koloni - kolonizować  
 fa komputa - policzyć, liczyć, przetwarzać dane  
 fa komun - dzielić (współdzielić)  
-fa kon sabe - poinformować, informować, zakomunikować, komunikować  
+fa kon sabi - poinformować, informować, zakomunikować, komunikować  
 fa kopi - kopiować, replikować  
 fa koste - kosztować  
 fa krus fixe - ukrzyżować  
@@ -1450,6 +1446,7 @@ fuka - wznowić, wznawiać, ponowić, ponawiać, przywrócić, przywracać, odno
 fuku - ubranie, ubiór, strój  
 fuku di -   
 fuku vaxi gi - pralka  
+fulan -   
 fun - pył  
 fun cupa gi - odkurzacz  
 fungu - grzyb  
@@ -1493,15 +1490,6 @@ galte di - błędny (niepoprawny)
 gamba - krewetka  
 Gambia - Gambia  
 gamel - wielbłąd, wielbłądzica  
-gami - małżeństwo, związek małżeński  
-gami ben -   
-gami cin -   
-gami di - ożeniony, zamężny, w związku małżeńskim  
-gami jen - małżonek (małżonka)  
-gami ma -   
-gami nan - małżonek  
-gami ni - małżonka  
-gami pa -   
 gamo - emocja, uczucie  
 gamo di - emocjonalny (uczuciowy)  
 gamo hal - humor (nastrój)  
@@ -1770,8 +1758,8 @@ hem - dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę
 hem… - hmm…  
 hema - namiot  
 hemi - krew  
-anhemia - anemia  
-hemi fobia -   
+anhemi - anemia  
+hemi fobi -   
 hemi globin - hemoglobina  
 hemi hin -   
 hemi selu - dumać, rozmyślać, zastanawiać się, rozważać, brać pod uwagę  
@@ -1827,11 +1815,11 @@ hobi ja -
 hogo - ogień  
 hogo di - ognisty  
 hogo puja - kult ognia  
-hogo san - wulkan  
-hogo san kanca - szkło wulkaniczne  
 hogo sanduku - latarnia  
 hogo seku - krzemień  
 hogo tehni - pirotechnika  
+hogo xan - wulkan  
+hogo xan kanca - szkło wulkaniczne  
 hoki - hokej  
 holera - cholera  
 holme yum - holm  
@@ -1858,6 +1846,7 @@ huke - hak
 huke krus - swastyka  
 huke lin kane -   
 huli - lis  
+humel - chmiel  
 humus - ciecierzyca  
 humus sos - hummus  
 huru - wolny, niepodległy, niezależny  
@@ -1993,8 +1982,6 @@ jete -
 • projete - projekt, planowane przedsięwzięcie  
 • rejete -   
 jete grafi - wyświetlać (rzut, projekcja)  
-jiang di - umiejętny (sprawny, zręczny)  
-jiang ja - rzemieślnik  
 Jibraltar - Gibraltar  
 Jibuti - Dżibuti  
 jihade -   
@@ -2002,6 +1989,7 @@ jin -
 jin lai -   
 jin mun - wejście  
 jini -   
+jinji - imbir  
 jinse - płeć  
 jinse di - płciowy  
 jinselogi -   
@@ -2028,6 +2016,7 @@ jui note -
 jul - dżul (J)  
 jumla - zdanie (fraza)  
 jun - młody  
+jun bei -   
 jun fem - dziewczyna  
 jun jen - młodzież, młoda osoba  
 jun man - chłopak  
@@ -2208,6 +2197,7 @@ keke - ciasto, ciastko
 kelele - atleta, sportowiec  
 kelvin - kelwin  
 Keme - Starożytny Egipt (Kemet)  
+ken - znać  
 kentaur -   
 kentaur hua - chaber  
 Kenya - Kenia  
@@ -2310,7 +2300,7 @@ kon forma -
 kon funsibil - kompatybilny (pasujący)  
 kon gong - współpracować (kolaborować)  
 kon pasi -   
-kon sabe - informacja  
+kon sabi - informacja  
 kon sana sim - komunizm  
 kon sana sim ja - komunista  
 kon sel -   
@@ -2386,9 +2376,9 @@ kuan - szeroki
 kuanta - szerokość  
 kuanga - minerał, ruda  
 kuanga ja - górnik (kopacz)  
-kuanga san - kopalnia  
 kuanga sui - woda mineralna  
 kuanga tunel - szyb górniczy  
+kuanga xan - kopalnia  
 kuarze - kwarc  
 Kuba - Kuba  
 kube - sześcian  
@@ -2586,10 +2576,6 @@ Luxemburge - Luksemburg
 
 ## M  
 
-ma - matka, mama  
-ma di -   
-ma su ma -   
-ma su pa -   
 Madagasi - Madagaskar  
 madagasi di - madagaskarski; malagaski  
 maf - przepraszam!  
@@ -2661,9 +2647,9 @@ masta - maszt
 maste - być mistrzem (być ekspertem)  
 master - mistrz (ekspert)  
 master de arte (MA) -   
-master de enjenia (ME) -   
+master de enjeni (ME) -   
 master de filsofi (MF) -   
-master de ilmi (MI) -   
+master de logi (ML) -   
 master de tehni logi (MT) -   
 mata - umrzeć (umierać; śmierć; martwy, nieżywy, zabity)  
 mata badan -   
@@ -2724,16 +2710,13 @@ megi di -
 Mehiko - Meksyk  
 Mehiko siti - Meksyk  
 mei - piękny, przystojny  
+mei arte - sztuka  
 mei daka - dekoracja (ornament)  
-mei suta - sztuka  
-mei suta ja - artysta  
 meita - piękno  
 meitner yum - meitner  
 melodi - melodia  
 melodi di - melodyczny  
 melon - ogórek melon  
-membe - należeć (być członkiem)  
-membre - członek  
 meme - owca  
 meme kexa - wełna (runo owcze)  
 memo - pamięć  
@@ -2747,6 +2730,8 @@ mendelef yum -
 meninge - opona mózgowa  
 meninge tis - zapalenie opon mózgowych  
 mentor - doradca (mentor)  
+mer - należeć (być członkiem)  
+mer - członek  
 meranti - damarzyk (meranti)  
 Merkur - Merkury  
 mes - miesiąc  
@@ -2770,8 +2755,8 @@ mesi din ja - chrześcijanin
 mesi gene - Boże Narodzenie  
 metal - metal  
 metal bede - kowadło  
-metal jiang ja - kowal  
 metal lin -   
+metal sanaja - kowal  
 metal tul -   
 metre - zmierzyć (miara)  
 metre gi -   
@@ -2793,9 +2778,9 @@ mili gram - miligram
 mili mitre - milimetr  
 milke - mleko  
 milke kardon - ostropest plamisty  
-mima -   
-mima ja -   
 Mimas -   
+mime -   
+mime ja -   
 min - mniej  
 min di fen - mniejszość  
 min ka bas - zbyt mało  
@@ -2831,10 +2816,10 @@ mode loge - przysłówek
 model - model, wzór, wzorzec, projekt  
 moka - drzewo  
 moka bano - deska  
-moka jiang ja - stolarz  
 moka jong parke - arboretum  
 moka kane - słup (pal, kołek)  
 moka mate - drewno  
+moka sanaja - stolarz  
 moka tana - pień  
 mol ja - młynarz  
 molkan - mielić  
@@ -2871,7 +2856,7 @@ muka - twarz
 muka fun - puder  
 mula - korzeń  
 multi - wiele  
-multiple -   
+multipli -   
 multita - liczność (mnóstwo)  
 mum - wosk  
 mum cape - pieczęć woskowa  
@@ -2976,7 +2961,7 @@ nefte - olej
 nefte guku - złocień indyjski  
 nega - odmówić (odrzucić)  
 nekro - zwłoki (trup)  
-nekro filia -   
+nekro fili -   
 nekro lista -   
 nekro loga - nekrolog  
 nekro tomi - sekcja zwłok (obdukcja)  
@@ -3126,10 +3111,6 @@ oxide - tlenek
 
 ## P  
 
-pa - ojciec  
-pa di -   
-pa su ma -   
-pa su pa -   
 paci - ptak  
 paci logi - ornitologia  
 pada - paść, padać, upaść, upadać  
@@ -3157,7 +3138,7 @@ pan deu sim - panteizm
 pan dunia di - globalny (światowy)  
 pan europa di - paneuropejski  
 pan jen - każdy człowiek, wszyscy  
-pan mima -   
+pan mime -   
 pan romanse di - panromantyczny  
 pan sata - zawsze  
 pan sexe di - panseksualny  
@@ -3197,11 +3178,8 @@ Paris - Paryż
 parke - park (ogród)  
 parne - paproć  
 parti - partia  
-parti - uczestniczyć, wziąć udział, brać udział  
-partia - partia  
-parti cepe -   
+parti cepe - uczestniczyć, wziąć udział, brać udział  
 parti ceper - uczestnik  
-parti ja - uczestnik  
 parti jen - partner  
 pas - minąć, mijać, przeminąć, przemijać  
 pas dau -   
@@ -3237,9 +3215,8 @@ pedal - pedał
 pedal sikle - rower z pedałami  
 pede - pierdnięcie  
 pedi -   
-pedia -   
-pedi filia -   
-pedi fobia -   
+pedi fili -   
+pedi fobi -   
 pei - zapłata, opłata  
 pei gong - profesja, zajęcie, zawód  
 pei gong di -   
@@ -3334,6 +3311,7 @@ Platon sim - platonizm
 Platon sim di - platoniczne  
 Platon sim ja - platończyk  
 plazma - plazma (zjonizowany gaz)  
+pli -   
 plumbe - ołów  
 Pluton - Pluton (planeta karłowata)  
 pluton yum - pluton  
@@ -3416,7 +3394,6 @@ prati - praktyka, aktualność
 prati di - practyczny, pragmatyczny  
 prazedim yum - prazeodym  
 prese -   
-prese -   
 • deprese -   
 • exprese -   
 • konprese - ścisnąć (sciskać, wycisnąć)  
@@ -3472,7 +3449,6 @@ Qazaqe - Kazachstan
 ## R  
 
 radi - promień  
-radia - promieniowanie  
 radi longta -   
 radi metre gi - radoiometr  
 radi yum - rad  
@@ -3600,17 +3576,11 @@ rutin - rutyna, nawyk, zwyczaj
 ## S  
 
 sabate - szabat, szabas  
-sabe - wiedzieć  
-• ansabe di - dziwny (nieznany)  
-sabe logi - epistemologia  
-sabe vol - zainteresowanie, zaciekawienie; interesujący  
-sabe vol di - interesujący  
-sabe vol ja - ciekawy  
-sabe xe - wiedza  
-sable - piasek, piach  
-sable burge -   
-sable petra - piaskowiec  
-sable stan - pustynia  
+sabi -   
+sablu - piasek, piach  
+sablu burge -   
+sablu petra - piaskowiec  
+sablu stan - pustynia  
 sabu - powód, przyczyna  
 sabun - mydło  
 sada - zwykły, zwyczajny, prosty  
@@ -3659,6 +3629,7 @@ salu safata - higiena
 saluta - zdrowie  
 Salvador - Salwador  
 sam - taki sam  
+sam bei -   
 sam dexa jen - rodak, ziomek, krajan  
 sam emos - współczucie  
 sam metre -   
@@ -3675,11 +3646,14 @@ sama kinar - horyzont
 sama nil - jasnoniebieski (lazurowy)  
 samari yum - samar  
 Samoa - Samoa  
-san - góra, wzgórze  
-san pike - szczyt (wierzchołek)  
+san - wiedzieć  
+• ansan di - dziwny (nieznany)  
+san logi - epistemologia (gnoseologia, teoria poznania)  
+san vol - zainteresowanie, zaciekawienie; interesujący  
+san vol di - interesujący  
+san vol ja - ciekawy  
+san xe - wiedza  
 sana - produkcja  
-sana baxa - język sztuczny  
-sana di - sztuczny  
 sana ja - twórca, kreator, czynnik  
 sana ja di - produktywny (żyzny)  
 sanduice - kanapka  
@@ -3716,9 +3690,11 @@ saur - jaszczurka
 saya - cień  
 se - sam, siebie  
 se di -   
+semen - się (nawzajem, wzajemnie)  
+semen su - wzajemny  
 se su -   
 seku - kamień (kawał skały)  
-seku jiang ja - kamieniarz  
+seku sanaja - kamieniarz  
 sekunde - sekunda  
 sekur - bezpieczny  
 sekur kode - hasło  
@@ -3739,10 +3715,8 @@ semi - znaczyć
 semi forar -   
 semi logi -   
 semima -   
-semon - się (nawzajem, wzajemnie)  
-semon su - wzajemny  
-sene - wiek  
-sene di -   
+sen -   
+sen bei -   
 Senegal - Senegal  
 seng -   
 seng varis -   
@@ -3760,7 +3734,6 @@ serami - ceramika
 serami sing - houstonia  
 Serbia - Serbia  
 seri - seria, szereg  
-seria - seria (szereg)  
 seri letre - łańcuszek  
 serime -   
 seri nete - kolczuga  
@@ -3792,7 +3765,7 @@ siki din ja - sikh
 sikle - rower  
 resikle - przetwarzać  
 sikle ja - rowerzysta  
-silis - krzem  
+silike - krzem  
 silke - jedwab  
 silke larva -   
 sim -   
@@ -3933,6 +3906,7 @@ Surinam - Surinam
 surinam baxa - język surinamski  
 susan - lilia  
 suta - umiejętność (kompetencja)  
+suta di - umiejętny (sprawny, zręczny)  
 suta tabi -   
 sutur - szew  
 suxi - sushi  
@@ -4069,7 +4043,7 @@ tomi -
 • jivatomi - wiwisekcja  
 • tritomi -   
 • tomigrafi -   
-• tomigrafia - tomografia  
+• tomigrafi - tomografia  
 ton - ton, dźwięk, nuta, tonacja  
 tong - beczka  
 Tonga - Tonga  
@@ -4107,7 +4081,7 @@ tri - trzy (3)
 tri gona - trójkąt  
 trime -   
 tri pike - trójząb  
-triple -   
+tripli -   
 tribu - plemię  
 Trinidade e Tobago - Trynidad i Tobago  
 Triton -   
@@ -4129,7 +4103,7 @@ tule yum - tul
 tulpan - tulipan  
 tuna -   
 tundra - tundra  
-tundra san -   
+tundra xan -   
 tunel - tunel  
 tunel tren - metro  
 tunika - tunika, toga  
@@ -4157,11 +4131,14 @@ uma - koń
 uma bici -   
 umami - mięsny (umami)  
 Umbriel -   
+umur - wiek  
+umur di -   
 un - jeden (1)  
 un deu sim - monoteizm  
 un di - tylko (jedyny, wyłączny)  
 undura - ciągły (analogowy)  
 undurali hor loga gi -   
+un fen du -   
 un mar - raz (jeden raz)  
 un me - pierwszy, numer jeden  
 un rang di - jednokolorowy (monochromatyczny)  
@@ -4209,7 +4186,7 @@ vai jen -
 vai klus di -   
 vai mise - eksportować (wyeksportować)  
 vai nam - egzonim  
-vai planete - egzoplaneta  
+vai planeta - egzoplaneta  
 vai poze -   
 vai tense -   
 vai trata gi -   
@@ -4356,6 +4333,8 @@ xam yam - kolacja
 xaman - szaman  
 xampan - Champagne  
 xampan vin - samppanja  
+xan - góra, wzgórze  
+xan pike - szczyt (wierzchołek)  
 xanghai - Szanghaj  
 xanti - zostawić (zostawiać)  
 xanti di - spokojny  
@@ -4383,9 +4362,11 @@ xefe di - główny
 xefe ministre ja - premier  
 xenon - ksenon  
 xi -   
+xi Fulan -   
 xia -   
 xia islam din - szyism  
 xifu - mistrz (sensei)  
+xigu - wypadek  
 xikaya -   
 xike - elegancki, szykowny  
 xim - serce  
@@ -4535,12 +4516,11 @@ zeyil - brodawka
 zeze -   
 zi -   
 zi forma -   
-zi sili - alfabet, abecadło  
+zi seri - alfabet, abecadło  
 zigzage - zygzag  
 zikura - ziggurat  
 Zimbabue - Zimbabwe  
 zina - zdrada małżeńska, cudzołóstwo  
-zinji - imbir  
 zinke - cynk  
 zipe - zamknąć zamkiem błyskawicznym  
 ziper - zamek błyskawiczny  

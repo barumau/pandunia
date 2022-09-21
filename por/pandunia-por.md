@@ -79,6 +79,7 @@ aroma melon - melão coreano
 arsen yum - arsénic  
 arte fete - artefato  
 arte fete intelige (AI) - inteligência artificial  
+arteja - artista  
 asal - origem  
 asal Amerka jen - indígena (índio)  
 asal di - original  
@@ -184,8 +185,8 @@ be vai - sair
 bebe - bebê  
 bede - cama (leito)  
 bedinjan - beringela  
+bei - socio  
 bele - pá  
-ben - filho ou filha  
 beri - baga  
 beril yum - berílio  
 berkli yum - berqueélio  
@@ -226,8 +227,8 @@ brun varis - arroz integral
 bu! - bu!  
 bubu - bicho-papão  
 buca - abater  
-buca ja - açougueiro (talhante)  
 bucakan - matadouro  
+bucar - açougueiro (talhante)  
 Buda - Buda  
 bude - cabine  
 buku - livro  
@@ -271,9 +272,6 @@ ceri - cereja
 cesi yum - césio  
 ceti - sete (7)  
 cili - cápsico  
-cin brus ben - primo  
-cin ma - avó  
-cin pa - avô  
 cini - porcelana  
 cira - rasgar  
 cira cira di - esfarrapado  
@@ -330,6 +328,7 @@ deu - deus
 deu kata - mito  
 deu nagar zi - devanágari  
 deu sofi - teosofia  
+dexmanuka - destro  
 dia - dia  
 dia foto - luz do dia  
 dika - directionar (apontar, mirar; direção; objetivo)  
@@ -355,7 +354,7 @@ dong - este (leste)
 dosti - amigo  
 du - dois (2)  
 du baxa di - bilíngue  
-duple - dobro  
+dupli - dobro  
 • dusdua - maldição  
 dubna yum - dúbnio  
 dudu - inseto  
@@ -522,12 +521,6 @@ galope - galope
 galte - erro (falta)  
 galte di - errôneo  
 gamba - camarão (gamba)  
-gami ben - enteado  
-gami jen - esposo ou esposa  
-gami ma - sogra  
-gami nan - esposo  
-gami ni - esposa  
-gami pa - sogro  
 gamo - emoçao  
 gamo hal - humor  
 gamo zi - emoticon (emoji)  
@@ -624,7 +617,7 @@ helis fei gi - hélicoptero
 hem - considerar  
 hem… - hmm…  
 hemi - sangue  
-anhemia - anemia  
+anhemi - anemia  
 hemi globin - hemoglobina  
 hemi selu - célula sanguínea  
 hepate - fígado  
@@ -650,9 +643,9 @@ hisabu logi - matemática
 hiyar - pepino  
 hobi ja - amador  
 hogo - fogo  
-hogo san - vulcão  
 hogo seku - pederneira  
 hogo tehni - fogos de artifício  
+hogo xan - vulcão  
 hoki - hóquei  
 holme yum - hólmio  
 hor - hora  
@@ -665,6 +658,7 @@ huke - gancho
 huke krus - suástica (cruz gamada)  
 huke lin kane - vara de pescar  
 huli - raposa  
+humel - lúpulo  
 huru - livre (forro)  
 
 ## I  
@@ -708,6 +702,7 @@ jete grafi - projeção
 jihade - luta  
 jin lai - acesso  
 jini - espírito (gênio)  
+jinji - jengibre  
 jinse - sexo  
 jirafa - girafa  
 jiva - viver (vivo; vida)  
@@ -810,6 +805,7 @@ ke loka - onde
 ke riti - como  
 ke sata - quando  
 Keme - Antigo Egito  
+ken - conhecer  
 kentaur - centauro  
 kentaur hua - centáurea  
 kerne - núcleo (cerne)  
@@ -877,7 +873,7 @@ krom yum - crómo
 krote - toupeira  
 kruasan - croassã  
 krus - cruz  
-kuanga san - mina  
+kuanga xan - mina  
 kuarze - quartzo  
 kube - cubo  
 kudi - cotovelo  
@@ -974,8 +970,6 @@ lutesi yum - lutécio
 
 ## M  
 
-ma - mãe  
-ma di - maternal  
 magen yum - magnésio  
 magi ja - mago  
 Magribi dexa - Marrocos  
@@ -1027,7 +1021,6 @@ medi noce - meia-noite
 medu - mel  
 megi - nuvem  
 mei - belo (lindo)  
-mei suta ja - artista  
 meita - beleza  
 meitner yum - meitnério  
 melon - melão  
@@ -1051,8 +1044,8 @@ mikro biologi - microbiologia
 mikroskope - microscópio  
 milke - leite  
 milke kardon - cardo-mariano  
-mima - imitar (mimetizar)  
-mima ja - mímico  
+mime - imitar (mimetizar)  
+mime ja - mímico  
 minta - hortelã  
 mirde - fraco  
 Misri - Egipto (Egito)  
@@ -1074,7 +1067,7 @@ mostre - monstro
 moto - motor  
 moto cati - capô  
 mula - raíz  
-multiple - múltiplos  
+multipli - múltiplos  
 mur - muro (muralha)  
 mur kaguji - papel de parede  
 mus - dever  
@@ -1113,7 +1106,7 @@ nave leu - bombordo
 nefre - rim  
 nefte - aeite (óleo)  
 nekro - cadáver  
-nekro filia - necrofilia  
+nekro fili - necrofilia  
 nekro loga - obituário  
 nekro tomi - autopsía  
 nelu - quatro (4)  
@@ -1181,8 +1174,6 @@ oxide - óxide
 
 ## P  
 
-pa - pai  
-pa di - paternal  
 paci - pássaro (ave)  
 paci logi - ornitologia  
 pada mosim - outono  
@@ -1192,7 +1183,7 @@ pake - pacote
 paladi yum - paládio  
 pan demi pati - pandemia  
 pan europa di - pan-europeu  
-pan mima - pantomima (mímica)  
+pan mime - pantomima (mímica)  
 panda - panda  
 pang - pão  
 panir - queijo fresco  
@@ -1210,6 +1201,7 @@ pari dexa - mundo das fadas (paraíso)
 pari kata - conto de fadas  
 parke - parque  
 parne - samambaia  
+parti - partido (grupo)  
 parti jen - parceiro  
 pas dau - passagem  
 pas loga - palavra-passe (senha)  
@@ -1296,7 +1288,6 @@ poyu - piolho
 • expoze - expor (revelar)  
 prazedim yum - praseodímio  
 prese - pressão  
-prese - pressão  
 prese gi - prensa  
 • preser - prensa  
 problem - problema  
@@ -1362,9 +1353,8 @@ ruterfor yum - rutherfórdio
 
 ## S  
 
-sabe - saber (conhecer)  
-sabe vol ja - inquisitivo  
-sable - areia  
+sabi - saber  
+sablu - areia  
 safar ceke - cheque de viajante  
 sagu - sagu  
 sahi - correto (justo)  
@@ -1377,13 +1367,16 @@ saludo - saúde
 salu safata - higiene  
 saluta - saúde  
 sam - igual  
+sam bei - par  
 sam emos - compaixão  
 sam metre - simetria  
 sam rai - acordo  
 sam sifa xe - simulação  
 sama - céu  
 samari yum - samário  
-san pike - cume (pico, topo)  
+san - saber  
+san logi - epistemologia  
+san vol ja - inquisitivo  
 sana ja - fator  
 sanduice - sanduíche  
 sante kanon - sagrada escritura  
@@ -1398,6 +1391,7 @@ sata di - momentâneo
 Saturne - Saturno  
 saur - lagarto  
 se - se  
+semen - um ao outro  
 seku - pedra  
 sekur - seguro  
 sel - conselho  
@@ -1407,9 +1401,7 @@ seme - semente
 seme di - seminal  
 semi - significar (querer dizer)  
 semi logi - semântica  
-semon - um ao outro  
-sene - idade  
-sene di - idoso (sene)  
+sen - sênior  
 seng - cru  
 sense - sentido  
 sense xaka - tentáculo  
@@ -1419,7 +1411,6 @@ sento nen di - centénario
 sera - serra  
 serami - cerâmico  
 seri - série (sequência)  
-seria - série (sequência)  
 serime - elo  
 sexe logi - sexologia  
 si - ser (estar)  
@@ -1428,7 +1419,7 @@ sifa loga - adjetivo
 sigar - cigarro  
 resikle - reciclar  
 sikle ja - ciclista  
-silis - silício  
+silike - silício  
 silke - seda  
 silke larva - bicho-da-seda (sirgo)  
 simbol - símbolo  
@@ -1513,7 +1504,7 @@ to misal - por exemplo
 tomate - tomate  
 • dutomi - dicotomia  
 • jivatomi - vivisecção  
-• tomigrafia - tomografia  
+• tomigrafi - tomografia  
 topo grafi - topografia  
 topo metre grafi - carta geográfica  
 tor yum - tório  
@@ -1527,7 +1518,7 @@ trati - acordo (tratado, contrato)
 • kontrati - acordo (tratado, contrato)  
 tre - muito  
 tri - três (3)  
-triple - triplo  
+tripli - triplo  
 truke - truque (fraude)  
 tu - tu  
 tumen su - vosso  
@@ -1545,6 +1536,8 @@ tuzi - coelho (lebre)
 ## U  
 
 uma bici - chibata  
+umur - idade  
+umur di - idoso (sene)  
 un - um (1)  
 un di - único (só)  
 undura - analógico  
@@ -1570,7 +1563,7 @@ vahi - oásis
 vai - exterior  
 vai gene di - exógeno  
 vai klus di - exclusivo  
-vai planete - exoplaneta (planeta extrassolar)  
+vai planeta - exoplaneta (planeta extrassolar)  
 vai poze - expor (revelar)  
 vai vide di - evidente  
 vai yam - piquenique  
@@ -1623,6 +1616,7 @@ xalke - escama
 xam - noitinha  
 xampan - Champagne  
 xampan vin - champanhe  
+xan pike - cume (pico, topo)  
 xanti - descanso (repouso)  
 xanti di - tranquilo (calmo)  
 xatan - opor  
@@ -1638,6 +1632,7 @@ xe - coisa
 xe hal - situaçao  
 xefe - chefe  
 xenon - xénon  
+xi Fulan - fulano  
 xia - facção  
 xia islam din - xiismo  
 xikaya - queixa (lamento, reclamação)  
@@ -1701,7 +1696,6 @@ zardux magi ja - mago
 zebra - zebra  
 zeyil - verruga  
 zi - caractere  
-zinji - jengibre  
 zinke - zinco  
 zira - cominho  
 zirkon yum - zircónio  

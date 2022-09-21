@@ -63,7 +63,7 @@ aller-retour - retro tikete
 alligator - korte krokodil  
 allophone - alo fon  
 allô - halo  
-alphabet - zi sili  
+alphabet - zi seri  
 alumine (oxyde d'aluminium) - alumin oxide  
 aluminium - alumin  
 alun - alumin mate  
@@ -105,7 +105,7 @@ Antigua-et-Barbuda - Antigua e Barbuda
 antimoine - estibi yum  
 antonyme - annam  
 anus - anus  
-anémie - anhemia  
+anémie - anhemi  
 août - mes bati  
 appartenir à - be mal  
 appliquer (application) - aplika  
@@ -148,7 +148,7 @@ arsenic - arsen yum
 art - suta  
 artefact - arte fete  
 artichaut - karcof  
-artiste - mei suta ja  
+artiste - arteja  
 Artsakh - Arcah  
 Aruba - Aruba  
 ascète - askete  
@@ -195,6 +195,7 @@ azote - nitre
 azur - lazur  
 aérobique - air bio di  
 aéroport - air porte  
+aîné (senior, supérieur) - sen  
 aïe! - ayo  
 
 ## B  
@@ -237,9 +238,7 @@ basketball - baske bol
 bassin - basen  
 bateau - nave  
 beau - mei  
-beau-père - gami pa  
 beauté - meita  
-belle-mère - gami ma  
 bengali - bangla baxa  
 berceau - lala bede  
 berceause - lala gani  
@@ -276,7 +275,7 @@ bord - kinar
 boron - boron  
 botanique - fitologi  
 botte - buta  
-boucher - buca ja  
+boucher - bucar  
 bouclire - defa bano  
 Bouddha - Buda  
 boue (fange, bourbe, gadoue) - poto  
@@ -441,7 +440,7 @@ chœur - ganir grupe
 ciel - sama  
 ciffre - nume zi  
 cigarette - sigar  
-cime (pic, sommet) - san pike  
+cime (pic, sommet) - xan pike  
 cimetière - gabur bagi  
 cinq (5) - lima  
 cirse commun - pena kardon  
@@ -474,6 +473,7 @@ concert - konserte
 concombre - hiyar  
 concombre confit (cornichon) - acar hiyar  
 concombre de mer - hai hiyar  
+connaître - ken  
 conseil - sel  
 conseiller - fa sel  
 considérer - hem  
@@ -514,7 +514,6 @@ coureur - kore ja
 courgette - xiu kaboga  
 courir - kore  
 couronne - korona  
-cousin - cin brus ben  
 coutume - ada  
 couvrir - fa daka  
 crabe - krabe  
@@ -602,13 +601,14 @@ donner - da
 donner naissance (procréer, engendrer, accoucher) - fa gene  
 données - data  
 dormir - be sona  
-double - duple  
+double - dupli  
 douche - dux  
 doute - xaki  
 drapeau - bandera  
 drogue (narcotique, dope) - narko  
 droit (rectiligne) - orto  
 droit - haki  
+droitier (dextre) - dexmanuka  
 droits de l'homme - insan haki  
 dubnium - dubna yum  
 dune - duna  
@@ -678,7 +678,7 @@ européen - europa di
 excaver - exkava  
 exclure - fa vai klus  
 exclusif - vai klus di  
-exoplanète - vai planete  
+exoplanète - vai planeta  
 exploser (détoner) - be bum  
 explosion - bum  
 exposer - vai poze  
@@ -724,7 +724,6 @@ fibre - lin so
 fier - kredi  
 fil de fer - metal lin  
 fil de trame - vei lin  
-fils ou fille - ben  
 fini - fin di  
 finir - fa fin  
 fiord - fiorde  
@@ -782,7 +781,7 @@ genre grammatical - baxa jinse
 geographie - geo grafi  
 Germanie - Germania  
 germanium - german yum  
-gingembre - zinji  
+gingembre - jinji  
 giraffe - jirafa  
 glabre - kexa hin  
 glace - ais  
@@ -794,8 +793,6 @@ gombo - bamia
 gorille - gorila  
 goule - gule  
 gouvernement - politi  
-grand-mère - cin ma  
-grand-père - cin pa  
 granit - granite  
 gratitude - xukurta  
 gravire - grave  
@@ -803,7 +800,7 @@ grenouille - krokro
 grimace - grimas  
 groupe - grupe  
 grâce à - a xukur de  
-grès - sable petra  
+grès - sablu petra  
 guide - gida ja  
 guide touristique - gida buku  
 guider - gida  
@@ -854,6 +851,7 @@ honneur - onor
 honnête (sûr, crédible, sûrement) - amen  
 honorer - fa onor  
 horloge - hor loga gi  
+houblon - humel  
 houe - copu  
 hourra - ura  
 huile (pétrole) - nefte  
@@ -879,8 +877,8 @@ hôtel - hotel
 ici - a yi  
 il ou elle - ya  
 ils ou elles - yamen  
-imitateur (mime) - mima ja  
-imiter - mima  
+imitateur (mime) - mime ja  
+imiter - mime  
 immigrant - in migra ja  
 immigrer - in migra  
 imperméable - xava kote  
@@ -932,7 +930,7 @@ je (me) - mi
 jeu de dames - dama geme  
 jeu de société - bano geme  
 jeudi - den nelu  
-jeune - jun  
+jeune (junior) - jun  
 jeunesse - junnen  
 joug - yogo  
 joule (J) - jul  
@@ -965,7 +963,7 @@ Kâmasûtra - kama kanon
 
 ## L  
 
-l'un l'autre - semon  
+l'un l'autre - semen  
 lac - lage  
 laid (vilain) - dus vide  
 laine - meme kexa  
@@ -1072,7 +1070,6 @@ marché (bazar) - bazar
 mardi - den du  
 margay (chat-tigre) - margai  
 marguerite - baku margarite  
-mariage - gami  
 Maroc - Magribi dexa  
 Mars - Marse  
 marécage (marais) - poto stan  
@@ -1081,7 +1078,6 @@ masse - masa
 mat (opaque) - foto mata di  
 match - mece  
 matelot - hai vala  
-maternel - ma di  
 mathématiques - hisabu logi  
 matière - mate  
 matérialisme - mate lona  
@@ -1115,7 +1111,7 @@ miel - medu
 migration - migra  
 mil (millet) - dana.cau  
 mil éthiopien - tef  
-mine - kuanga san  
+mine - kuanga xan  
 minuit - medi noce  
 mode (façon, manière) - mode  
 modeler - fa plasti  
@@ -1149,14 +1145,13 @@ moustique - moski
 mouvoir (bouger) - fa kino  
 moyen - medi di  
 mule - iha uma  
-multiple - multiple  
+multiple - multipli  
 mur - mur  
 musique - muzika  
 musli - musli  
 mycélium - fungu nete  
 mythe - deu kata  
 mât - masta  
-mère (maman) - ma  
 mètre - mitre  
 médias - media  
 médicament (remède) - dava xe  
@@ -1214,7 +1209,7 @@ numérique - komputa di
 nylon - nilon  
 nécessaire - yau di  
 nécrologie - nekro loga  
-nécrophilie - nekro filia  
+nécrophilie - nekro fili  
 néodyme - neodim yum  
 néologisme - neu loga  
 néon - neon  
@@ -1285,6 +1280,7 @@ pacifisme - pase sim
 pacifiste - pase sim ja  
 page - yepa late  
 pain - pang  
+pair (pareil) - sam bei  
 pair (pareil, egal) - par  
 paix - pase  
 palais (château, manoir) - dai dom  
@@ -1298,7 +1294,7 @@ panier (panier de basketball) - baske
 panneau de signalisation - dau bano  
 pansement (sparadrap) - glu bande  
 pantalon - pante  
-pantomime - pan mima  
+pantomime - pan mime  
 pantoufle (babouche) - babuce  
 paon - mayur  
 papaye - papaya  
@@ -1318,12 +1314,12 @@ parler - fa loga
 parole (mots) - loga  
 part - fen  
 partenaire - parti jen  
+partie - parti  
 passe (passage) - pas dau  
 passeport - pasporte  
 passer - fa dura  
 passer - pas  
 pastèque - arbuza  
-paternel - pa di  
 pathologie - pati logi  
 patient - pati jen  
 patrie - dom dexa  
@@ -1339,7 +1335,6 @@ pelle - bele
 pelouse (gazon) - cau medan  
 perdant - xiti bai ja  
 perder - xiti  
-pere (papa) - pa  
 perfectionner (parfaire) - fa pul bon  
 perplexe (désorienté) - ruhu mixe di  
 perroquet - papagai  
@@ -1448,7 +1443,6 @@ pouvoir (possible, capacité) - bil
 praséodyme - prazedim yum  
 presse-papier - gata glu bano  
 presser - fa prese  
-pression - prese  
 pression - prese  
 pression atmosphérique - air prese  
 pressoir - prese gi  
@@ -1594,7 +1588,7 @@ rôtir - roste
 
 s'installer (déménager) - be migra  
 s'opposer à - xatan  
-sable - sable  
+sable - sablu  
 sac - baga  
 sac - sake  
 sacrifice - kurban  
@@ -1629,7 +1623,8 @@ saumon rose - rode salmon
 saumon sockeye - rubi salmon  
 sauvage - eko gene di  
 savane - garma zona caustan  
-savoir (connaître) - sabe  
+savoir - sabi  
+savoir - san  
 Scandinavie - Eskandinavia  
 scandium - eskandi yum  
 schtroumpf - nil elfe  
@@ -1666,11 +1661,12 @@ signifier (voiloir dire) - semi
 silence - tixta  
 silencieux (se taire) - tix  
 silex - hogo seku  
-silicium - silis  
+silicium - silike  
 simulation - sam sifa xe  
 situation (état de choses) - xe hal  
 six (6) - luka  
 siècle (centennie) - sento nen  
+socio - bei  
 société - sosi  
 sodium - natri  
 soie - silke  
@@ -1714,7 +1710,6 @@ sémaphore - semi forar
 séminal - seme di  
 sénateur - supra vakil ja  
 série - seri  
-série - seria  
 sûr - sekur  
 s’accroupir - lipa side  
 
@@ -1770,7 +1765,7 @@ toilette (cabinet, waters) - tuale kamar
 toit - cati  
 tomate - tomate  
 tombe (enterrer) - gabur  
-tomographie - tomigrafia  
+tomographie - tomigrafi  
 topinambour - masa mula sol hua  
 topographie - topo grafi  
 tortue - tortuga  
@@ -1795,7 +1790,7 @@ traîner - trate
 tremper (faire mariner) - pul xipi  
 tribord - nave raite  
 trichotomie - tritomi  
-triple - triple  
+triple - tripli  
 trois (3) - tri  
 tropique - garma zona  
 truite - salmon  
@@ -1884,7 +1879,7 @@ voile - hijabu
 voir - vide  
 voire (même) - hata di  
 vol - fei  
-volcan - hogo san  
+volcan - hogo xan  
 voler - fa fei  
 votre - tumen su  
 vouloir - vol  
@@ -1931,7 +1926,7 @@ zéro - siro
 Égypte - Misri  
 Égypte antique - Keme  
 Épicéa - pisea  
-âge - sene  
+âge - umur  
 éblouir (étonner, stupéfier, surprendre) - fa ajabu  
 échec - xiti bai  
 échec et mat - xah mata  
@@ -1959,8 +1954,8 @@ zéro - siro
 émotion - gamo  
 épices - masala  
 épingle - pin  
+épistémologie - san logi  
 éponge - esponje  
-époux - gami jen  
 épreuve (test) - teste  
 épée - gem  
 équilibre - par vezeta  

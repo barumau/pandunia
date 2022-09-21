@@ -22,8 +22,6 @@ abrepuño - sol kentaur hua
 abrigo (chaqueta) - kote  
 abril - mes nelu  
 abrir - fa kai  
-abuela - cin ma  
-abuelo - cin pa  
 aburrido - bori di  
 aburrimiento - bori  
 acacia de copa plana - helis babul  
@@ -111,7 +109,7 @@ alargar - fa long
 Alaska - Alaska  
 Albania - cipe  
 albaricoque (ciruela) - briko  
-albañil (mampostero, cantero) - seku jiang ja  
+albañil (mampostero, cantero) - seku sanaja  
 alcachofera - karcof  
 alcalino - kali di  
 alcohol - alkol  
@@ -120,7 +118,7 @@ aldea - deha
 aldehuela - xiu deha  
 Alemania - Doice  
 alemán - doice di  
-alfabeto - zi sili  
+alfabeto - zi seri  
 alfabeto cirílico - Kiril zi  
 alfabeto latino - Latin zi  
 alfarero - pote ja  
@@ -188,13 +186,14 @@ anaranjado - oranje rang
 ancho - kuan  
 anchoa - ancovi  
 anchura - kuanta  
+anciano (señor) - sen  
 ancla - angar  
 andamiaje - fute bano  
 Andes - Andes  
 andesita - andesite  
 Andorra - Andora  
 andrajoso - cira cira di  
-anemia - anhemia  
+anemia - anhemi  
 anglicanizar - fa englix kitaba  
 anglófilo - englix fili ja  
 Angola - Angola  
@@ -245,7 +244,7 @@ arco - arka
 arco iris - rang arka  
 ardiente (encendido) - hogo di  
 ardilla - ekore  
-arena - sable  
+arena - sablu  
 Argelia - Jayer  
 Argentina - Argentina  
 argumentar (alegar) - fa tese  
@@ -278,9 +277,9 @@ arruinar (destruir, devastar, asolar) - fa harabu
 arsénico - arsen yum  
 arte marcial - jang suta  
 artefacto - arte fete  
-artesano - jiang ja  
-artificial (sintético) - sana di  
-artista - mei suta ja  
+artesano - arte sanaja  
+artificial (sintético) - arte fete di  
+artista - arteja  
 Artsaj - Arcah  
 artículo (documento) - papir  
 artículo (texto) - makala  
@@ -415,7 +414,7 @@ bebé - bebe
 Belarús - Belarus  
 Belice - Belize  
 belio - bel  
-bellas artes - mei suta  
+bellas artes - mei arte  
 belleza (hermosura) - meita  
 bellota - baluta frute  
 beneficioso (bueno) - eu  
@@ -629,18 +628,16 @@ carne - nama
 carne de cerdo - goro nama  
 carne de vaca - mumu nama  
 carnear (matar) - buca  
-carnicero - buca ja  
+carnicero - bucar  
 carpa (toldo) - hema  
 carpeta - dokumen sanduku  
-carpintero - moka jiang ja  
+carpintero - moka sanaja  
 carrera - pei gong jiva  
 carta - letre  
 cartografía - karta grafi  
 carvis (alcaravea) - karavi  
 carácter - zi  
 casa (hogar, residencia) - dom  
-casado - gami di  
-casamiento - gami  
 casar - fa gami  
 casco (yelmo) - sar kaska  
 casta - gene klas  
@@ -744,7 +741,7 @@ cien (100) - sento
 ciencia (estudiar, investigar, -ología) - logi  
 ciencia política - politi logi  
 cigarro (cigarillo) - sigar  
-cima (pico, cumbre, vértice) - san pike  
+cima (pico, cumbre, vértice) - xan pike  
 cinc - zinke  
 cinco (5) - lima  
 cinta (cinta para el pelo) - kexa bande  
@@ -841,7 +838,7 @@ comprar - fa xopi
 compras (shopping) - xopi  
 comprensión (entendimiento) - budi  
 computadora (ordenador) - konputer  
-comunicar (informar) - fa kon sabe  
+comunicar (informar) - fa kon sabi  
 comunismo - kon sana sim  
 comunista - kon sana sim ja  
 común (comunitario) - konun  
@@ -866,6 +863,7 @@ confundido - ruhu mixe di
 confundir (desconcertar, perplejo) - ruhu mixe  
 congelarse (helarse) - be ais  
 cono - kone  
+conocer - ken  
 consecuencia (siguiente) - pos  
 conseguir (obtener, ganar) - na  
 consejero (asesor) - mentor  
@@ -1094,7 +1092,9 @@ deporte - esporte
 deportista - esporte ja  
 depurar - fa an galte  
 depósito - hazinkan  
+derechista - dexka  
 derechista - raite sim ja  
+derecho (lado derecho) - dex  
 derecho - haki  
 derecho - raite di  
 derechos de autor (copyright) - kopi haki  
@@ -1117,7 +1117,7 @@ deseo - vol xe
 desesperado - axa hin  
 desfigurar - fa dus forma  
 desfigurar - dusforma  
-desierto - sable stan  
+desierto - sablu stan  
 deslizar - glis  
 desnudo - nude  
 despertar - fa jaga  
@@ -1142,6 +1142,7 @@ dibujo (diseño) - desen
 dicotomía - dutomi  
 diente - dante  
 dientes de león (panaderos) - makan hua  
+diestro - dexmanuka  
 diez (deca-, 10) - des  
 diferencia - alo sifa  
 diferenciar (distinguir) - fa has  
@@ -1180,7 +1181,7 @@ divino - deu di
 diámetro - tralongta  
 dióxido de carbono - karbon duoxide  
 Dniéster - Nistre  
-doble (doblar) - duple  
+doble (doblar) - dupli  
 doble sentido - du semi di  
 docente (enseñante, profesor, maestro) - gio ja  
 doctor (médico) - dava ja  
@@ -1240,7 +1241,7 @@ economía - mal nomi
 econtrar (hallar) - eureka  
 Ecuador - Ekuador  
 ecuador - geo par lin  
-edad - sene  
+edad - umur  
 educación - xula  
 educado - keci  
 efecto - exfete  
@@ -1256,7 +1257,7 @@ ejército - geo ordu
 ejército - ordu  
 el (la) - la  
 El Salvador - Salvador  
-el uno al otro (mutuamente) - semon  
+el uno al otro (mutuamente) - semen  
 electricidad - eletro  
 electrón - eletron  
 elefante - gaja  
@@ -1326,7 +1327,6 @@ enviar (transmitar) - mise
 envoltura - lifafa  
 envolver - fa lifafa  
 enzima - enzim  
-epistemología - sabe logi  
 equal (similar) - sam  
 equilibrado (par) - par  
 equilibrado (par) - par jen  
@@ -1393,9 +1393,6 @@ esperar - dele do
 espicificar (estipular) - fa xarti  
 espiral (hélice) - helis  
 esponja - esponje  
-esposa - gami ni  
-esposo - gami nan  
-esposo o esposa - gami jen  
 espárrago - asparge  
 espíritu (genio) - jini  
 esqueleto (armazón) - oste jama  
@@ -1454,7 +1451,7 @@ excepto (menos) - a min de
 excluir - fa vai klus  
 exclusivo - vai klus di  
 existir (actualmente) - zai  
-exoplaneta (planeta extrasolar) - vai planete  
+exoplaneta (planeta extrasolar) - vai planeta  
 expeler (expulsar) - expele  
 explorador - logi safar ja  
 explorar - brauza  
@@ -1570,6 +1567,7 @@ fuera (exterior) - vai
 fuerte - bala  
 fuerza - balata  
 fuerza aérea - air ordu  
+fulano - xi Fulan  
 funcionar - funsi  
 funcionario - guan ja  
 fundador - baze ja  
@@ -1637,7 +1635,7 @@ generar (añadir, realizar) - fa zai
 generosidad (caridad) - karim  
 generoso (dadivoso) - databi  
 generoso (dadivoso, caritativo) - karim di  
-gengibre - zinji  
+gengibre - jinji  
 genial - kul  
 genotipo - gene tipe  
 gente - natia jen  
@@ -1665,6 +1663,7 @@ globo - balon
 gluten - gluten  
 glóbulo - hemi selu  
 GMS - vijin  
+gnoseología (epistemología) - san logi  
 gobernante (soberano) - sultan ja  
 gobernar - fa politi  
 gobierno - politi  
@@ -1770,10 +1769,9 @@ hemoglobina - hemi globin
 heno - gan cau  
 hepatitis - hepatetis  
 hercio (Hz) - herze  
-hermano o hermana - brus  
 hermoso (bello, lindo) - mei  
 herramienta - tul  
-herrero - metal jiang ja  
+herrero - metal sanaja  
 hervidor (tetera) - ketel  
 hervir (cocer) - boli  
 hervirse (ser cocida) - be boli  
@@ -1788,10 +1786,6 @@ hierba - cau
 hierbabuena - kane minte  
 hierro - fero  
 higiene - salu safata  
-hija - benni  
-hijastro o  hijastra - gami ben  
-hijo - bennan  
-hijo o hija - ben  
 Himalaya - Himalaya  
 hinduismo - Hindi din  
 hindú - Hindi din ja  
@@ -1861,8 +1855,8 @@ identificación (ID) - nam dokumen
 identificador - has nam  
 ideograma - idea zi  
 ideología (doctrina, -ismo) - sim  
+idioma artificial (lengua construida, conlang) - arte fete baxa  
 idioma artificial (lengua construida, conlang) - fete baxa  
-idioma artificial (lengua construida, conlang) - sana baxa  
 idioma bengalí - bangla baxa  
 idioma finés - suomi baxa  
 idioma noruego - norge baxa  
@@ -1881,8 +1875,8 @@ imagen (gráfico, dibujo) - grafi
 imaginación (fantasía) - fantazi  
 imaginar (fantasear) - fa fantazi  
 imaginario (fantástico) - fantazi di  
-imitador - mima ja  
-imitar - mima  
+imitador - mime ja  
+imitar (mimetizar) - mime  
 impeler - inpele  
 imperialismo - imperi sim  
 imperialista - imperi sim ja  
@@ -1924,7 +1918,7 @@ infiel (descreído) - andin ja
 infiel (descreído) - ankredija  
 infierno - naraka  
 inflamación - tis  
-información - kon sabe  
+información - kon sabi  
 informe (reporte, noticia) - reporte  
 informática (computación) - data culi logi  
 infortunio (mala suerte) - dus zar  
@@ -1939,7 +1933,7 @@ innato (endógeno) - innati
 innecesario - anyau di  
 innominado - nam hin  
 inodoro (wáter, retrete) - tuale kamar  
-inquisitivo (curioso) - sabe vol ja  
+inquisitivo (curioso) - san vol ja  
 insecto - dudu  
 insomnio - ansona  
 inspeccionar (examinar, revisar, chequear) - inspete  
@@ -1956,7 +1950,7 @@ intenso (brusco, ácido, fuerte, afilado, rápido) - teza
 intentar (probar) - fa teste  
 intercambiar (canjear) - badal  
 interceptar - intercepe  
-interesante (curioso) - sabe vol di  
+interesante (curioso) - san vol di  
 interfaz - medi fase  
 interfaz de línea de comandos - amir lin  
 interior (interno) - in di  
@@ -1965,7 +1959,7 @@ internacional - natia medi
 Internet - internete  
 interracial - rasa medi  
 interrogativa - sual di  
-interés - sabe vol  
+interés - san vol  
 interétnica - zuku medi di  
 intestino (visceras, entrañas, tripas) - antra  
 introvertido - in verse jen  
@@ -2234,6 +2228,7 @@ límite (frontera, linde) - limite
 líquido (fluido) - dara mate di  
 líquido - dara mate  
 lógica - logika  
+lúpulo (hombrecillo) - humel  
 
 ## M  
 
@@ -2245,7 +2240,6 @@ macroalga - hai alga
 Madagascar - Madagasi  
 madera - moka mate  
 madrastra - vise ma  
-madre (mamá) - ma  
 maduro (adulto, curado) - matur  
 maestro (experto) - master  
 maestro (gurú, sabio, profesor) - guru  
@@ -2333,7 +2327,6 @@ matemática - hisabu logi
 matemático - hisabu logija  
 material - mate di  
 materialismo - mate lona  
-maternal - ma di  
 Mauricio - Moris  
 mauritania - Muritania  
 maya - maya  
@@ -2414,7 +2407,7 @@ microscopio - mikroskope
 Midsommar - garma mosim medi den  
 miedo (-fobia) - fobi  
 miel - medu  
-miembro (componente) - membre  
+miembro (componente) - mer  
 mierda - xite  
 migración - migra  
 migrar (emigrar, tralsadar) - fa migra  
@@ -2426,7 +2419,7 @@ mili- - mili
 miligrama - mili gram  
 milimetre - mili mitre  
 millón (mega-) - mega  
-mina - kuanga san  
+mina - kuanga xan  
 mineral (mena) - kuanga  
 minero - kuanga ja  
 minimalismo - minim sim  
@@ -2471,7 +2464,7 @@ monismo - un xe sim
 monocromático - un rang di  
 monoteismo - un deu sim  
 monstro - mostre  
-montaña (colina) - san  
+montaña (colina) - xan  
 Montenegro - cernagora  
 monumento - memo bina  
 monóculo - un yen di lense  
@@ -2518,7 +2511,7 @@ muro (muralha) - mur
 musgo - mos  
 musgoso - mos di  
 musulmán - islam din ja  
-mutuo (recíproco) - semon su  
+mutuo (recíproco) - semen su  
 muy - tre  
 Myanmar (Birmania) - Mianma  
 máquina (dispositivo, aparato) - gi  
@@ -2533,7 +2526,7 @@ máximo - maxim xe
 México - Mehiko  
 mínimo - minim di  
 Mónaco - Monako  
-múltiple - multiple  
+múltiple - multipli  
 músculo - muskul  
 música - muzika  
 músico - muzika ja  
@@ -2567,7 +2560,7 @@ Naúru - Nauru
 necesario - yau di  
 necesidad - yauta  
 necesitar - yau  
-necrofilia - nekro filia  
+necrofilia - nekro fili  
 necrología (obituario) - nekro loga  
 nefritis - nefre tis  
 negociar - fa biznes lona  
@@ -2745,7 +2738,6 @@ paciente - pati jen
 pacifismo - pase sim  
 pacifista - pase sim ja  
 padrastro - vise pa  
-padre (papá) - pa  
 pagano (infiel) - kafir  
 pago - pei  
 Pakistán - Pakistan  
@@ -2790,6 +2782,7 @@ papel higiénico - tuale kaguji
 papel tapiz - mur kaguji  
 Papúa Nueva Guinea - Papua neu Ginia  
 paquete - pake  
+par - sam bei  
 parada (alto) - halte  
 parada de autobús - bus halte  
 Paraguay - Paraguai  
@@ -2804,18 +2797,15 @@ parasol - xava cati
 parcial - fen di  
 parecer - be rupa  
 parecerse a - be sam rupa  
-parente (madre o padre) - cin  
 paria - paraya  
 parque - parke  
 parte (fracción) - fen  
 parte inferior - nice  
 participante - parti ceper  
-participante - parti ja  
 participar - fa parti  
-participar - parti  
+participar - parti cepe  
 partidario de infracción de copyright - pirate sim ja  
 partido (grupo) - parti  
-partido (grupo) - partia  
 partido - mece  
 Partido Pirata - pirate parti  
 partir (dividirse) - be fen  
@@ -2836,7 +2826,6 @@ pasta - pasta
 pastel (galleta) - keke  
 pastel (pay) - pai  
 pastel de luna - luna keke  
-paternal - pa di  
 pato - bata  
 patología - pati logi  
 patria - dom dexa  
@@ -2911,7 +2900,7 @@ persona (ista, -ador) - jen
 personal (privado, a medida) - jen di  
 personalizar - fa auto  
 perspectiva (punto de vista) - vide punte  
-pertenecer (ser miembro de) - membe  
+pertenecer (ser miembro de) - mer  
 perturbar (turbulencia) - disturbe  
 perímetro (circunferencia) - gola longta  
 Perú - Peru  
@@ -3055,7 +3044,6 @@ presencia (existencia) - zaita
 presente (actualidad) - zai zaman  
 presidente - prezidente  
 presión - prese  
-presión - prese  
 presión atmosférica - air prese  
 prestar (pedir prestado) - jeka  
 prestar - jeka da  
@@ -3067,7 +3055,6 @@ primavera - hua mosim
 primer (inicial, inaugural) - xuru di  
 primer ministro - xefe ministre ja  
 primero (numbre uno) - un me  
-primo - cin brus ben  
 principal - xefe di  
 prisionero - jela jen  
 prisión - jela  
@@ -3183,7 +3170,6 @@ químico - kimi di
 racismo - rasa sim  
 racista - rasa sim ja  
 ración (dosis) - doze  
-radiación - radia  
 radiación ionizante - ion radi  
 radiactivo - ion radi di  
 radiar (emitir) - fa radi  
@@ -3206,7 +3192,7 @@ raro - nadir
 rasgar (romper) - cira  
 raspar (arañar) - frike  
 ratón - muxu  
-rayo - radi  
+rayo (radiación) - radi  
 rayo luminoso - foto radi  
 raza - rasa  
 razonable - razon li  
@@ -3361,8 +3347,9 @@ rótula - guta kaska oste
 
 sabana - garma zona caustan  
 sabbat - sabate  
-saber (conocer) - sabe  
-sabiduría (conocimiento) - sabe xe  
+saber - sabi  
+saber - san  
+sabiduría (conocimiento) - san xe  
 sabiduría - sofita  
 sabio - sofi  
 sabroso (umami) - umami  
@@ -3456,7 +3443,6 @@ ser humano - insan
 ser visto - be vide  
 Serbia - Serbia  
 serie - seri  
-serie - seria  
 serpiente (culebra) - serpe  
 servicio - serve  
 servidor - serve gi  
@@ -3487,7 +3473,7 @@ sijismo - siki din
 silencio - tixta  
 silencioso - tix  
 silencioso - xux di  
-silicio - silis  
+silicio - silike  
 silla (montura) - side loka  
 silla - kursi  
 simetría (simétrico) - sam metre  
@@ -3515,6 +3501,7 @@ socialismo - sosi sim
 socialismo nacional (nazismo) - natia sosia sim  
 socialista - sosi sim ja  
 sociedad - sosi  
+socio (compañero) - bei  
 socio - parti jen  
 sodio - natri  
 software (soporte lógico) - program gi  
@@ -3555,8 +3542,6 @@ Sudáfrica - Sude Afrika
 Sudán - Sudan  
 Sudán del Sur - Sude Sudan  
 Suecia - Suen  
-suegra - gami ma  
-suegro - gami pa  
 sueño - sona  
 sufijo - pos fixe  
 sufragio (derecho al voto) - vote haki  
@@ -3715,7 +3700,7 @@ todo - pan
 Togo - Togo  
 tolerar - tolera  
 tomate - tomate  
-tomografía - tomigrafia  
+tomografía - tomigrafi  
 tonelada - mega gram  
 Tonga - Tonga  
 tono - ton  
@@ -3760,7 +3745,7 @@ tribu - tribu
 tridente - tri pike  
 trigo - ganum  
 Trinidad y Tobago - Trinidade e Tobago  
-triple - triple  
+triple - tripli  
 triste - duku di  
 triángulo - tri gona  
 trompo - rota vanu gi  
@@ -3896,7 +3881,7 @@ vida (orgánico) - bio
 vidriado (esmalte) - kanca daka  
 vidriar (glasear) - fa kanca dake  
 vidrio (cristal) - kanca  
-vidrio volcánico - hogo san kanca  
+vidrio volcánico - hogo xan kanca  
 viejo (anciano) - lau  
 viejo (anciano) - lau jen  
 viejo (antiguo) - cen zaman di  
@@ -3931,7 +3916,7 @@ vocabulario (léxico) - loga jama
 vocal - jong fon  
 vocal - voka soni  
 volar - fa fei  
-volcán - hogo san  
+volcán - hogo xan  
 voltio (V) - volte  
 voluntad - ici  
 volver - be retro  

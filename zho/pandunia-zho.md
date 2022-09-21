@@ -82,6 +82,8 @@ aroma - 气味
 aroma melon - 香瓜  
 arsen yum - 砷  
 arte fete intelige (AI) - 人工智能  
+arteja - 美术家  
+arte sanaja - 工匠 (匠人)  
 asal - 起源  
 asal di - 原始的  
 asar - 影响  
@@ -152,6 +154,7 @@ baske bol - 篮球
 bata - 鸭  
 bati - 八 (8)  
 batri - 电池  
+bau bei - 伴侣 (宝贝)  
 bau di - 宝贵  
 bau seku - 宝石  
 baxa - 语言  
@@ -225,8 +228,8 @@ broxa - 笔
 broxa kalam - 毛笔  
 brun varis - 糙米  
 bubu - 魔鬼  
-buca ja - 屠夫  
 bucakan - 屠宰场  
+bucar - 屠夫  
 Buda - 佛陀  
 bude - 亭  
 bufete - 自助餐  
@@ -329,6 +332,7 @@ des - 十
 deu - 神  
 deu kata - 神话  
 deu nagar zi - 天城文  
+dexmanuka - 右利手 (右撇子)  
 dexa jen - 公民  
 dia - 白天  
 dika - 方向 (目的, 目标, 瞄准)  
@@ -488,6 +492,7 @@ frute bagi - 果园
 fufu - 富富  
 fuku - 衣服  
 fuku vaxi gi - 洗衣机  
+fulan - 某某  
 fungu frute - 蘑菇  
 funsibil - 機能的  
 fute marke - 脚印  
@@ -611,7 +616,7 @@ helis fei gi - 直升机
 hem - 深思 (考虑)  
 hema - 帐篷  
 hemi - 血  
-anhemia - 贫血  
+anhemi - 贫血  
 hemi globin - 血红蛋白  
 hemi selu - 血球  
 hepate - 肝脏  
@@ -632,9 +637,9 @@ hisabu logi - 数学
 hiyar - 黄瓜  
 hobi ja - 爱好者  
 hogo - 火  
-hogo san - 火山  
 hogo seku - 燧石  
 hogo tehni - 烟火  
+hogo xan - 火山  
 hoki - 曲棍球  
 holme yum - 钬  
 hor - 小时  
@@ -648,6 +653,7 @@ huke - 钩
 huke krus - 卍 (卐)  
 huke lin kane - 钓鱼竿  
 huli - 狐狸  
+humel - 蛇麻草  
 huru - 自由的  
 huruta - 自由  
 
@@ -688,7 +694,7 @@ jeka na - 借入
 jelakan - 监狱 (监牢)  
 jen - 人  
 jete grafi - 投射 (投影)  
-jiang ja - 工匠 (匠人)  
+jinji - 姜  
 jinse - 性别  
 jinselogi - 性别研究  
 jirafa - 长颈鹿  
@@ -705,6 +711,7 @@ jui note - 警告
 jul - 焦耳 (J)  
 jumla - 句子  
 jun - 年轻  
+jun bei - 后辈  
 jun jen - 年轻人  
 junnen - 青年  
 Jupiter - 木星  
@@ -790,6 +797,7 @@ ke riti - 怎么
 keci - 客气  
 keka ja - 客人  
 Keme - 古埃及  
+ken - 认识  
 kentaur - 人马 (半人马)  
 kerne - 核心  
 kexa broxa - 发刷  
@@ -851,7 +859,7 @@ krote - 鼹鼠
 kruasan - 牛角包  
 krus arka - 弩 (十字弓)  
 krus lin - 十字线  
-kuanga san - 矿场  
+kuanga xan - 矿场  
 kuarze - 石英  
 kube - 立方体  
 kudi - 肘  
@@ -939,9 +947,6 @@ lutesi yum - 镥
 
 ## M  
 
-ma - 妈妈  
-ma su ma - 外婆 (外祖母)  
-ma su pa - 外公 (外祖父)  
 magen yum - 镁  
 magi ja - 魔法师  
 magi liki - 魔力  
@@ -987,9 +992,8 @@ medu fong sanduku - 蜂箱
 mega - 百万 (兆)  
 megi - 云  
 mei - 漂亮 (美)  
+mei arte - 艺术 (美术)  
 mei daka - 装饰  
-mei suta - 艺术 (美术)  
-mei suta ja - 美术家  
 meita - 美丽  
 melon - 厚皮甜瓜 (蜜瓜)  
 memo - 记忆 (记性)  
@@ -998,8 +1002,8 @@ mendelef yum - 钔
 meninge - 脑脊膜  
 meranti - 娑羅屬  
 metal bede - 铁砧  
-metal jiang ja - 铁匠  
 metal lin - 线 (铁丝)  
+metal sanaja - 铁匠  
 meza - 桌子  
 meza tela - 桌布  
 mi - 我  
@@ -1009,15 +1013,15 @@ mikro bio - 微生物
 mikro biologi - 微生物学  
 mikroskope - 显微镜  
 milke kardon - 水飞蓟  
-mima - 模拟  (模仿)  
+mime - 模拟  (模仿)  
 minta - 薄荷  
 mirde - 微弱的  
 Misri - 埃及  
 mitre - 米 (公尺)  
 moka - 树木  
 moka bano - 木板  
-moka jiang ja - 木匠  
 moka mate - 木材  
+moka sanaja - 木匠  
 moka tana - 原木  
 molkan - 磨坊  
 mol seku - 磨石  
@@ -1074,7 +1078,7 @@ nefre - 肾脏
 nefte - 油  
 nefte guku - 野菊花  
 nekro - 尸体  
-nekro filia - 恋尸癖  
+nekro fili - 恋尸癖  
 nekro tomi - 尸检  
 nelu - 四 (4)  
 nen - 年  
@@ -1137,16 +1141,13 @@ oxide - 氧化物
 
 ## P  
 
-pa - 爸爸  
-pa su ma - 奶奶 (祖母)  
-pa su pa - 爷爷 (祖父)  
 paci - 鸟 (雀)  
 paci logi - 鸟类学  
 pagri - 包头  
 pai - 馅饼  
 paladi yum - 钯  
 pan demi pati - 大流行病  
-pan mima - 哑剧  
+pan mime - 哑剧  
 pan un - 每  
 pang - 面包  
 panka - 翅膀 (膀子)  
@@ -1232,7 +1233,6 @@ poto stan - 沼泽
 poyu - 虱子  
 prazedim yum - 镨  
 prese - 压力  
-prese - 压力  
 problem - 问题 (难题)  
 program - 计划  
 program gi - 软件  
@@ -1298,11 +1298,8 @@ rus yum - 钌
 
 ## S  
 
-sabe - 知道 (晓得)  
-sabe vol - 趣  
-sabe vol di - 有趣  
-sabe vol ja - 好奇  
-sable - 沙  
+sabi - 会  
+sablu - 沙  
 sabun - 肥皂  
 safar - 旅行  
 safar ceke - 旅行支票  
@@ -1318,6 +1315,7 @@ salu - 健康
 saludo - 健康  
 saluta - 健康  
 sam - 一样  
+sam bei - 同辈  
 sam metre - 对称  
 sam rai - 一致  
 sam sifa xe - 模型  
@@ -1325,6 +1323,11 @@ sama - 天空
 sama hal - 天气  
 sama kinar - 地平线  
 samari yum - 钐  
+san - 知道 (晓得)  
+san logi - 认识论 (知识论)  
+san vol - 趣  
+san vol di - 有趣  
+san vol ja - 好奇  
 sanduice - 三明治 (三文治)  
 sante kanon - 圣经  
 sanzi - 扇子  
@@ -1337,6 +1340,7 @@ sata - 时刻 (瞬间)
 Saturne - 土星  
 saur - 蜥蜴  
 se di - 自私  
+semen - 彼此  
 seku - 石 (岩)  
 selen yum - 硒  
 selu logi - 细胞学  
@@ -1344,8 +1348,7 @@ seme - 种
 seme dana - 种子  
 seme di - 种子的  
 semi logi - 语义学  
-semon - 彼此  
-sene - 年岁  
+sen bei - 先辈 (前辈)  
 seng - 生的  
 seng varis - 米  
 sense - 感觉  
@@ -1355,7 +1358,6 @@ sento nen - 世纪
 sera - 锯子  
 serami - 陶瓷  
 seri - 系列  
-seria - 系列  
 serime - 连结  
 sexe logi - 性学  
 si - 对  
@@ -1364,7 +1366,7 @@ sifa loga - 形容词
 sigar - 香烟  
 resikle - 循环再造  
 sikle ja - 骑自行车的人  
-silis - 硅  
+silike - 硅  
 silke - 丝绸  
 silke larva - 家蚕 (蚕宝宝)  
 simbol - 象徵  
@@ -1486,6 +1488,7 @@ tuzi - 兔子
 
 uma bici - 马鞭  
 umami - 鲜味  
+umur - 年岁  
 un - 一 (1)  
 un di - 只有 (惟独, 唯一, 独)  
 undura - 指针式的  
@@ -1506,7 +1509,7 @@ vagina - 阴道
 vai - 外  
 vai dara - 溢出  
 vai jen - 外人 (局外人)  
-vai planete - 系外行星  
+vai planeta - 系外行星  
 vai verse di - 外向的  
 vai yam - 野餐  
 vali - 山谷  
@@ -1570,6 +1573,7 @@ xenon - 氙
 xia - 派系  
 xia islam din - 什叶派  
 xifu - 师傅  
+xigu - 事故  
 xikaya - 怨言  
 xim - 心  
 xipi - 湿  
@@ -1643,8 +1647,7 @@ zebra - 斑马
 zeyil - 疣  
 zeze - 双翅目  
 zi - 字  
-zi sili - 字母表  
-zinji - 姜  
+zi seri - 字母表  
 zinke - 锌  
 zira - 孜然  
 zirkon yum - 锆  

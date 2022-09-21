@@ -70,7 +70,7 @@ analógico - undura
 anchova - ancovi  
 andesito - andesite  
 anel - ring  
-anemia - anhemia  
+anemia - anhemi  
 animal (besta, bicho) - hevan  
 anis - anis  
 Antigo Egito - Keme  
@@ -89,7 +89,7 @@ arbusto (mata) - dipe moka
 Arca da Aliança - liga di sanduku  
 arca de Noé - Noe di nave  
 arco - arka  
-areia - sable  
+areia - sablu  
 argila - glu poto  
 argon - argon  
 arguir - fa argu  
@@ -111,7 +111,7 @@ arroz integral - brun varis
 arsénic - arsen yum  
 arte - suta  
 artefato - arte fete  
-artista - mei suta ja  
+artista - arteja  
 asa - panka  
 asma - asma  
 aspargo - asparge  
@@ -137,11 +137,9 @@ autor - autor
 aveia - ave  
 aventura - ventur  
 aventureiro - ventur ja  
-avó - cin ma  
-avô - cin pa  
 azur (blau) - lazur  
 azur - nil  
-açougueiro (talhante) - buca ja  
+açougueiro (talhante) - bucar  
 ação - ation  
 açúcar - sukar  
 aí (lá) - a vo  
@@ -379,6 +377,7 @@ conduzir - fa xofer
 conexão (vínculo, laço) - linke  
 confiar (contar com) - amen xin  
 confiar (contar com) - kredi  
+conhecer - ken  
 cono - kone  
 conselho - sel  
 considerar - hem  
@@ -426,7 +425,7 @@ crónico - dura di
 cubo - kube  
 cuco - kuku  
 cultivar - agri  
-cume (pico, topo) - san pike  
+cume (pico, topo) - xan pike  
 curry - kari  
 curva - kurva  
 cádmio - kadim yum  
@@ -472,6 +471,7 @@ deslizar - glis
 despelado - kexa hin  
 despertar - be jaga  
 destino - kisma  
+destro - dexmanuka  
 deus - deu  
 devanágari - deu nagar zi  
 dever - mus  
@@ -497,7 +497,7 @@ distrair - distrate
 diário - den loge  
 diário de bordo - loge buku  
 dióxido de carbono - karbon duoxide  
-dobro - duple  
+dobro - dupli  
 documento - dokumen  
 documentário - dokumen filme  
 dois (2) - du  
@@ -549,10 +549,10 @@ ensinar (lecionar) - gio
 ensino primário - baze xulakan  
 ensino secundário - jong xulakan  
 ensopar (encharcar, marinar) - pul xipi  
-enteado - gami ben  
 entrar - be in  
 enxada - copu  
 enxofre - sulfu  
+epistemologia - san logi  
 equilíbrio - par vezeta  
 erro (falta) - galte  
 errôneo - galte di  
@@ -580,9 +580,6 @@ espirrar - aci
 espodossolo - hui darte  
 esponja - esponje  
 esporte - esporte  
-esposa - gami ni  
-esposo - gami nan  
-esposo ou esposa - gami jen  
 espírito (gênio) - jini  
 esquecer - anmemo  
 esqueleto - oste jama  
@@ -612,7 +609,7 @@ evidente - vai vide di
 exato (preciso) - juste  
 excluir - fa vai klus  
 exclusivo - vai klus di  
-exoplaneta (planeta extrassolar) - vai planete  
+exoplaneta (planeta extrassolar) - vai planeta  
 expelir - expele  
 explodir - be bum  
 explosão - bum  
@@ -652,7 +649,6 @@ feno - gan cau
 fermentar - be biomute  
 ferro - fero  
 fibra - lin so  
-filho ou filha - ben  
 filosofia - filsofi  
 fiorde - fiorde  
 fisiculturismo - muskul bina  
@@ -676,6 +672,7 @@ fragmento - parce
 freixo - yasen  
 fruta - frute  
 frâncio - france yum  
+fulano - xi Fulan  
 fungo - fungu  
 funil - dara tubo  
 furar (perfurar) - fora  
@@ -773,14 +770,14 @@ hóquei no gelo - ais hoki
 
 ## I  
 
-idade - sene  
-idoso (sene) - sene di  
+idade - umur  
+idoso (sene) - umur di  
 idoso - lau  
 igual (par) - par  
 igual - sam  
 imigrante - in migra ja  
 imigrar - in migra  
-imitar (mimetizar) - mima  
+imitar (mimetizar) - mime  
 impelir - inpele  
 implodir - be in bum  
 imploção - in bum  
@@ -802,7 +799,7 @@ inflamaçao - tis
 informática (ciência da computação) - data culi logi  
 infraestrutura - baze strute  
 inimigo - dus jen  
-inquisitivo - sabe vol ja  
+inquisitivo - san vol ja  
 inseto - dudu  
 insônia - ansona  
 inteligência artificial - arte fete intelige (AI)  
@@ -832,7 +829,7 @@ Japão - Nipon
 jarra (jarro) - jara  
 jasmim - moli  
 Javé (Jeová) - Yahve  
-jengibre - zinji  
+jengibre - jinji  
 Jesus Cristo - Yesa Mesi  
 joelho - guta  
 jogo de tabuleiro - bano geme  
@@ -922,6 +919,7 @@ língua materna - nati baxa
 lírio - susan  
 lírio-do-vale - vali susan  
 lítio - lito yum  
+lúpulo - humel  
 
 ## M  
 
@@ -964,7 +962,6 @@ matadouro - bucakan
 mate (opaco) - foto mata di  
 matemática - hisabu logi  
 materialismo - mate lona  
-maternal - ma di  
 matéria - mate  
 maçã - aple  
 medio - medi di  
@@ -999,7 +996,7 @@ microscópio - mikroskope
 micróbio - mikro bio  
 migração - migra  
 milhete (painço) - dana.cau  
-mina - kuanga san  
+mina - kuanga xan  
 mirar (apontar) - fa dika  
 mito - deu kata  
 modelar - fa forma  
@@ -1042,13 +1039,12 @@ máquina de escrever - kitaba gi
 mármore - kalsi bilor  
 máscara - maska  
 máximo - maxim xe  
-mãe - ma  
 mão - hande  
 média (mídia) - media  
 mês - mes  
-mímico - mima ja  
+mímico - mime ja  
 mó - mol seku  
-múltiplos - multiple  
+múltiplos - multipli  
 música - muzika  
 
 ## N  
@@ -1060,7 +1056,7 @@ nave espacial - kosmo nave
 nação - natia  
 necessidade - yauta  
 necessário - yau di  
-necrofilia - nekro filia  
+necrofilia - nekro fili  
 neodímio - neodim yum  
 neologismo - neu loga  
 neptúnio - neputun yum  
@@ -1150,7 +1146,6 @@ pacote - pake
 pacto - kon trati  
 padeiro - baka ja  
 padrasto - vise pa  
-pai - pa  
 painel - bano  
 palato (céu da boca) - boka cati  
 palavra (vocábulo) - lexima  
@@ -1160,25 +1155,26 @@ paládio - paladi yum
 pan-europeu - pan europa di  
 panda - panda  
 pandemia - pan demi pati  
-pantomima (mímica) - pan mima  
+pantomima (mímica) - pan mime  
 papel - kaguji  
 papel de parede - mur kaguji  
 papel higiênico - tuale kaguji  
 papoila - medan papi  
 papoila-dormideira - sona papi  
 par - par jen  
+par - sam bei  
 para-lama - poto defa bano  
 parada de ônibus - bus halte  
 parceiro - parti jen  
 parque - parke  
 parte - fen  
 partida - mece  
+partido (grupo) - parti  
 parâmetro - param  
 passagem - pas dau  
 passagem de volta - retro tikete  
 passaporte - pasporte  
 pasta - pasta  
-paternal - pa di  
 pato - bata  
 patologia - pati logi  
 patógeno - pati gene xe  
@@ -1274,9 +1270,7 @@ prensa - prese gi
 prensa - preser  
 prensar (pressionar, premir) - fa prese  
 pressão - prese  
-pressão - prese  
 preto - kala  
-primo - cin brus ben  
 problema - problem  
 procedimento (rito) - riti  
 processamento de dados - data culi  
@@ -1418,7 +1412,8 @@ rótula (patela) - guta kaska oste
 ## S  
 
 sabedoria (sagacidade, sapiência) - sofita  
-saber (conhecer) - sabe  
+saber - sabi  
+saber - san  
 sacada (varanda) - veranda  
 saco - sake  
 sacrifício - kurban  
@@ -1475,7 +1470,7 @@ sexta-feira - den lima
 significar (querer dizer) - semi  
 silencioso - tix  
 silêncio - tixta  
-silício - silis  
+silício - silike  
 sim - ye  
 simetria - sam metre  
 simulação - sam sifa xe  
@@ -1483,8 +1478,7 @@ sino (campainha) - dang gi
 situaçao - xe hal  
 sobreviver - trajiva  
 sociedade - sosi  
-sogra - gami ma  
-sogro - gami pa  
+socio - bei  
 soja - soi  
 sol - sol  
 soldado - ordu jen  
@@ -1505,7 +1499,7 @@ sábado - den luka
 São Paulo - Sante Paulo  
 século - sento nen  
 série (sequência) - seri  
-série (sequência) - seria  
+sênior - sen  
 sílaba - loga fen  
 símbolo - simbol  
 só (solitário) - un zai di  
@@ -1558,7 +1552,7 @@ titânio - titan yum
 toalha - tuale  
 toalha de mesa - meza tela  
 tomate - tomate  
-tomografia - tomigrafia  
+tomografia - tomigrafi  
 topografia - topo grafi  
 tora - moka tana  
 toranja - putau oranje  
@@ -1576,7 +1570,7 @@ tratar (lidar, procesar) - fa culi
 trator - trater  
 trazer - fa lai  
 trigo - ganum  
-triplo - triple  
+triplo - tripli  
 truque (fraude) - truke  
 truta-arco-íris - rang arka salmon  
 truta-marrom - kafe salmon  
@@ -1602,7 +1596,7 @@ túlio - tule yum
 
 uau - va  
 um (1) - un  
-um ao outro - semon  
+um ao outro - semen  
 uma vez - un mar  
 universal - un verse di  
 união - un ta liga  
@@ -1666,7 +1660,7 @@ voo - fei
 vosso - tumen su  
 votar - fa vote  
 voto - vote  
-vulcão - hogo san  
+vulcão - hogo xan  
 vulva - vulva  
 vários - vari  
 Vénus - Venus  

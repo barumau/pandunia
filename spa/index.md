@@ -71,4 +71,4 @@ Puedes contactar mail al creador de Pandunia, Risto Kupsala, en al
 correo electrónico [risto@pandunia.info](mailto:risto@pandunia.info) y en los
 lugares anteriormente citados.
 
-![](http://www.pandunia.info/bandir.png "La bandera de Pandunia")
+![](http://www.pandunia.info/grafe/bandir.png "La bandera de Pandunia")

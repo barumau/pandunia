@@ -86,6 +86,7 @@ aroma - запах (аромат)
 arsen yum - мышьяк  
 arte fete - артефакт  
 arte fete intelige (AI) - искусственный интеллект  
+arteja - художник (артист)  
 asal - начало (причина)  
 asal Amerka jen - инде́йский  
 asan - поза  
@@ -198,6 +199,7 @@ be turbe - утруждай
 bebe - младенец  
 bebe bede - детская кроватка  
 bede - кровать (койка)  
+bei - товарищ  
 bele - лопата  
 beri - ягода  
 beril yum - бериллий  
@@ -246,8 +248,8 @@ brom - бром
 broxa - щётка  
 bu! - бу  
 bubu - бука  
-buca ja - мясник  
 bucakan - бойня  
+bucar - мясник  
 Buda - Будда  
 bude - будка (кабина)  
 bufete - буфет  
@@ -295,8 +297,6 @@ ceri - черешня
 cesi yum - цезий  
 ceti - семь (7)  
 cili - перец (паприка)  
-cin ma - бабушка  
-cin pa - дедушка  
 cing - просить  
 cini - фарфор  
 cira - рвать  
@@ -691,7 +691,7 @@ hem - думать
 hem… - хм…  
 hema - палатка (шатёр)  
 hemi - кровь  
-anhemia - анемия (малокровие)  
+anhemi - анемия (малокровие)  
 hemi globin - гемоглобин  
 hemi hin - бескровный  
 hemi selu - кровяная клетка (гематоцит)  
@@ -718,9 +718,9 @@ hisabu logi - математика
 hiyar - огурец  
 hobi ja - любитель  
 hogo - огонь  
-hogo san - вулкан  
 hogo seku - кремень  
 hogo tehni - фейерверк  
+hogo xan - вулкан  
 hoki - хоккей  
 holme yum - гольмий  
 hor - час  
@@ -734,6 +734,7 @@ huke - крюк (гак)
 huke krus - свастика  
 huke lin kane - удочка  
 huli - лиса  
+humel - хмель  
 huru - свободный (вольный)  
 
 ## I  
@@ -770,6 +771,7 @@ jebu - карман
 • projete - проект  
 jihade - борьба (бой)  
 jin lai - доступ  
+jinji - имбирь  
 jinse - пол  
 jinselogi - гендерные исследования  
 jirafa - жираф  
@@ -884,6 +886,7 @@ ke riti - как
 ke sata - когда  
 ke yang - какой  
 Keme - Древний Египет  
+ken - знать  
 kentaur - кентавр  
 kentaur hua - василёк  
 kerne - ядро  
@@ -957,7 +960,7 @@ krote - крот
 kruasan - круассан  
 krus - крест  
 krus arka - самострел  
-kuanga san - мина  
+kuanga xan - мина  
 kuarze - кварц  
 kube - куб  
 kudi - локоть  
@@ -1048,8 +1051,6 @@ lutesi yum - лютеций
 
 ## M  
 
-ma - мать (мама)  
-ma di - материнский  
 magen yum - магний  
 magi ja - чародей (маг)  
 Magribi dexa - Марокко  
@@ -1105,7 +1106,6 @@ megi - облако
 megi di - туманный  
 mei - красивый  
 mei daka - украшение  
-mei suta ja - художник (артист)  
 meita - красота  
 meitner yum - майтнерий  
 melon - дыня  
@@ -1128,8 +1128,8 @@ mikro biologi - микробиология
 mikroskope - микроскоп  
 milke - молоко  
 milke kardon - расторопша пятнистая  
-mima - имитировать  
-mima ja - мим (имитатор)  
+mime - имитировать  
+mime ja - мим (имитатор)  
 minta - мята  
 mirde - слабый  
 Misri - Египет  
@@ -1201,7 +1201,7 @@ nave raite - правый борт
 nefre - почка  
 nefte - масло  
 nekro - труп (мёртвое тело)  
-nekro filia - некрофилия  
+nekro fili - некрофилия  
 nekro loga - некролог  
 nekro tomi - вскрытие (аутопсия)  
 nelu - четыре (4)  
@@ -1268,8 +1268,6 @@ oxide - окись (оксид)
 
 ## P  
 
-pa - отец (папа)  
-pa di - отеческий  
 paci - птица  
 paci logi - орнитология  
 pada di - упавший  (падший)  
@@ -1280,7 +1278,7 @@ pake - пакет
 paladi yum - палладий  
 pan demi pati - пандемия  
 pan europa di - панъевропейский  
-pan mima - пантомима  
+pan mime - пантомима  
 panda - панда  
 pang - хлеб  
 panir - творог  
@@ -1299,6 +1297,7 @@ pari - фея
 pari kata - сказка  
 parke - парк  
 parne - папоротник  
+parti - партия  
 parti jen - партнёр  
 pas loga - пароль  
 pase hai bakalau - тихоокеанская треска  
@@ -1381,7 +1380,6 @@ poto stan - болото (топь)
 poyu - вошь  
 prazedim yum - празеодим  
 prese - давление (нажим)  
-prese - давление (нажим)  
 prese gi - пресс  
 • preser - пресс  
 problem - проблема  
@@ -1419,6 +1417,7 @@ rasa - раса
 rasa medi - межрасовый  
 ratibu - установка  
 ratibu li - организованный (порядок)  
+razon - разум  
 Ren - Рейн  
 ren yum - рений  
 rentegen yum - рентгений  
@@ -1461,11 +1460,7 @@ ruterfor yum - резерфордий, ²курчатовий
 
 ## S  
 
-sabe - знать  
-sabe vol - интерес (любопытство)  
-sabe vol di - интересный  
-sabe vol ja - любознательный  
-sable - песок  
+sablu - песок  
 safa tela - тряпка  
 safar ceke - дорожный чек  
 safran - шафран  
@@ -1475,6 +1470,7 @@ sala - зал
 salam - приветствие  
 salamta - благосостояние  
 salu safata - гигиена  
+sam bei - ровня  
 sam emos - сострадание  
 sam metre - симметрия  
 sam rai - согласие  
@@ -1484,7 +1480,11 @@ sama hal - погода
 sama kinar - горизонт  
 sama nil - голубой  
 samari yum - самарий  
-san pike - вершина  
+san - знать (ведать)  
+san logi - эпистемология  
+san vol - интерес (любопытство)  
+san vol di - интересный  
+san vol ja - любознательный  
 sanduice - сандвич  
 sanduku - сундук  
 sante kanon - священное писание  
@@ -1499,6 +1499,7 @@ sata di - моментальный (минутный)
 Saturne - Сатурн  
 saur - ящерица  
 se - себя (-ся)  
+semen - друг друга  
 seku - камень (камешек)  
 sel - совет  
 selen yum - селен  
@@ -1509,8 +1510,6 @@ seme di - семенной
 semente - цемент  
 semi forar - семафор  
 semi logi - семантика  
-semon - друг друга  
-sene - возраст  
 seng - сырой  
 sense - чувство  
 sense xaka - щупальце  
@@ -1520,7 +1519,6 @@ sento nen di - столетний
 sera - пила  
 serami - керамика  
 seri - серия  
-seria - серия  
 seri letre - письмо счастья  
 serime - звено  
 seri nete - кольчуга  
@@ -1536,7 +1534,7 @@ sifa loga - прилагательное
 sigar - сигарета (папироса, сигарка)  
 resikle - рециркулировать  
 sikle ja - велосипедист  
-silis - кремний  
+silike - кремний  
 silke - шёлк  
 silke larva - шелкопряд  
 sim - идеология  
@@ -1648,7 +1646,7 @@ tomate - помидор (томат)
 • dutomi - дихотомия  
 • jivatomi - вивисекция  
 • tritomi - трихотомия  
-• tomigrafia - томография  
+• tomigrafi - томография  
 topo grafi - топография  
 topo metre grafi - карта (план)  
 tor yum - торий  
@@ -1671,7 +1669,7 @@ tuale kamar - туалет (уборная, клозет)
 Tule - Туле  
 tule yum - тулий  
 tuna - тунец  
-tundra san - фьельды  
+tundra xan - фьельды  
 turbe - утруждай  
 turbejeter - турбореактивный двигатель  
 turbin - турбина  
@@ -1681,6 +1679,7 @@ tuzi - кролик (заяц)
 ## U  
 
 uma bici - хлыст  
+umur - возраст  
 un - один (1)  
 un di - только (единственно, единственный, уникальный)  
 un mar - один раз  
@@ -1708,7 +1707,7 @@ vai dara - переливаться
 vai gene di - экзогенный  
 vai jen - посторонний (аутсайдер)  
 vai klus di - исключительный (эксклюзивный)  
-vai planete - экзопланета (внесолнечная планета)  
+vai planeta - экзопланета (внесолнечная планета)  
 vai verse di - экстраверт  
 vai vide di - очевидный  
 vai yam - пикник  
@@ -1772,6 +1771,7 @@ xam - вечер
 xaman - шаман  
 xampan - Шампань  
 xampan vin - шампанское  
+xan pike - вершина  
 xanti - отдых  
 xanti di - спокойный  
 xatan - противостоять  
@@ -1860,9 +1860,8 @@ zeyil - бородавка
 zeze - двукрылое  
 zi - буква (символ, иероглиф)  
 zi forma - шрифт  
-zi sili - алфавит  
+zi seri - алфавит  
 Zimbabue - Зимбабве  
-zinji - имбирь  
 zinke - цинк  
 zira - тмин (зира)  
 zirkon - циркон  
