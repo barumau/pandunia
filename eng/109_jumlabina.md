@@ -120,36 +120,188 @@ the previous rules apply also to adjective subjects and verb subjects.
 – To teach children is to help children.
 
 
-## Action Sentences
+## Action sentences
 
-A predicate can also be a verb.
-In this case, there may be objects as well as the subject.
-These come after the predicate.
+Sentences that describe an action can involve three sentence elements:
 
-**mi marce.**
-– I walk.  
-**tu yam yo aple.**
-– You eat some apples.  
-**mimen done ya yo pesa.**
-– We give her some money.
+1. The subject is someone or something that does the action.
+2. The verb is the action.
+3. The object is the target of the action.
 
-Sometimes, the subjet of one sentence can become the object of another.
+The normal word order in Pandunia is subject–verb–object (SVO).
+For example, in the following sentence, the subject is
+**mi**
+'I',
+the verb is
+**vide**
+'see'
+and the object is
+**tu**
+'you'.
 
-**la fuke ye gan.**
-– The clothes dry.  
-**sol ye gan la fuke.**
-– The sun dries the clothes.
+**mi vide tu.**
+– I see you.
 
-To clarify the order or to add other objects, the auxiliary verbs **fa** and **be** are used.
-**fa** indicates that the subject is the agent or doer of the action,
-and **be** indicates that the subject is the patient, or receiver.
+If the words is put to the opposite order, the entire sentence will have the opposite meaning.
 
-**mi fa salam mi su dosti.**
-– I greet my friend.  
-**mi be salam mi su dosti.**
-– I am greeted by my friend.  
-**pa fa mi salam mi su dosti.**
-– Father makes me greet my friend.
+**tu vide mi.**
+– You see me.
+
+In action sentences, the subject and object can be pronouns
+(like
+**mi**
+'I' and
+**tu**
+'you' above)
+and nouns alike.
+Below is some example sentences with noun subjects and noun objects.
+
+**meme vide cau.**
+– Sheep see grass.  
+**meme yam cau.**
+– Sheep eat grass.  
+**uma yam cau.**
+– Horses eat grass.  
+**uma vide meme.**
+– Horses see sheep.  
+**meme vide uma.**
+– Sheep see horses.
+
+
+### Agent and patient
+
+Agent is the one who does the action.
+Patient is the one to whom the action is done.
+
+In Pandunia, the structure of sentence defines the order and place of agent and patient.
+They are not defined by verbs,
+unlike in some other languages that you might know.
+So, in Pandunia, the subject can be either the agent or the patient,
+but the object can be only the patient.
+
+When a sentence consists of a subject and a verb (SV),
+the role of the subject can be ambiguous.
+It can be the agent or the patient of the action.
+Then its role is defined by the surrounding world.
+What is the most likely role that fits to the situation?
+
+Often the words in the sentence help to define the role of the subject,
+and the sentence can be interpreted in only one meaningful way
+that is in line with the reality.
+In the following examples, the subject is in all likelihood a patient
+i.e. a recipient or an undergoer of the action.
+
+**banana yam.**
+– Banana is eaten.  
+**fuku gan.**
+– Clothes dry.  
+**ite pada.**
+– Stone falls.
+
+(The alternative interpretations, where the subject would be agent,
+*banana eats something*, *clothes make something dry*, and *stone drops something*,
+would not make sense.)
+
+There are also SV sentences where the subject is likely the agent,
+as in the following examples.
+
+**mau marce.**
+– The cat walks.  
+**sol lume.**
+– The sun shines.  
+**yamen lai.**
+– They come.  
+
+However, it is possible to clarify the roles of subject and object with the help of the auxiliary verbs
+**fa**
+'do, make' and
+**be**
+'undergo'.
+**fa**
+indicates that the subject is the agent or doer of the action, and
+**be**
+indicates that the subject is the patient or receiver of the action.
+
+**banana be yam.**
+– Banana is eaten.  
+**fuku be gan.**
+– Clothes are dried.  
+**ite be pada.**
+– Stone is dropped.  
+**mau fa marce.**
+– The cat walks. ~ The cat does walk.  
+**sol fa lume.**
+– The sun shines. ~ The sun makes the shining.
+
+It is also possible to add other objects with the help of
+**fa**
+'make'.
+
+**mau yam pexe.**
+– The cat eats fish.  
+**mi fa mau yam pexe.**
+– I make the cat eat fish. ~ I feed the cat with fish.
+
+**fuku gan.**
+– Clothes dry.  
+**sol fa fuku gan.**
+– The sun makes clothes dry.
+
+
+### Marking the sentence elements
+
+Sentence elements can consist of more than one word.
+Subject and object can be noun phrases that consist of many words,
+and there can be a series of verbs (i.e. a serial verb) instead of a singular verb.
+In such cases the boundaries between the sentence elements can become doubtful.
+
+**xiu baku meme vol xuru yam bon seng cau.**
+– Little white sheep want to start to eat good fresh grass.
+
+Boundaries between sentence elements can be marked with little words, like
+**ye**
+'do',
+**un**
+'a, one',
+**yi**
+'this or these',
+**vo**
+'that or those over there',
+**la**
+'that or those', and
+**yo**
+'some'.
+
+**la xiu baku meme *ye* vol xuru yam *la* bon seng cau.**
+– The little white sheep want to start to eat that good fresh grass.
+
+
+## Verb series structure
+
+There can be two, three or even more verbs in a series,
+and all of them are about the same subject.
+ 
+1. **mi ga to dom.**
+   – I go home.  
+2. **mi bil ga to dom.**
+   – I can go home.  
+3. **mi vol bil ga to dom.**
+   – I want to be able to go home.
+   (Word for word: _I want can go home_!)
+
+The last verb in the series is the main verb.
+The verbs before it are modal verbs.
+
+**tu vol yam yo fito.**
+– You want to eat vegetables. (desire)  
+**tu sel yam yo fito.**
+– You had better eat vegetables. (advice)  
+**tu halal yam yo fito.**
+– You may eat vegetables. (permission)  
+**tu bil yam yo fito.**
+– You can eat vegetables. (ability)  
+**tu mus yam yo fito.**
+– You must eat vegetables. (obligation)
 
 
 ## Pivot structure
@@ -195,33 +347,6 @@ which indicates a modality such as desire, permission or obligation.
 **mi rai tu yam fito.**
 – I think you eat vegetables. (opinion)
 
-
-## Verb series structure
-
-There can be two, three or even more verbs in a series,
-and all of them are about the same subject.
- 
-1. **mi ga to dom.**
-   – I go home.  
-2. **mi bil ga to dom.**
-   – I can go home.  
-3. **mi vol bil ga to dom.**
-   – I want to be able to go home.
-   (Word for word: _I want can go home_!)
-
-The last verb in the series is the main verb.
-The verbs before it are modal verbs.
-
-**tu vol yam yo fito.**
-– You want to eat vegetables. (desire)  
-**tu sel yam yo fito.**
-– You had better eat vegetables. (advice)  
-**tu halal yam yo fito.**
-– You may eat vegetables. (permission)  
-**tu bil yam yo fito.**
-– You can eat vegetables. (ability)  
-**tu mus yam yo fito.**
-– You must eat vegetables. (obligation)
 
 ## Pronoun dropping
 
