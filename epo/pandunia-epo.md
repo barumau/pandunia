@@ -33,7 +33,6 @@ Afghan - Afganujo, Afganio
 Afrika - Afriko  
 agile - lerta  
 agresi - atako (agreso)  
-agresi tabi - agresema  
 agri di - agrikultura  
 agri nomi - agronomio  
 agri suta - agrikulturo  
@@ -45,7 +44,6 @@ ais - glacio
 ais di - glacia  
 ais krem - glaciaĵo  
 Aiti - Haitio  
-ajila - rapidigi  
 akasia - akacio  
 akrabe - skorpio  
 alga - algo  
@@ -720,6 +718,7 @@ gadolin yum - gadolinio
 gaja - elefanto  
 galaxi - galaksio  
 galeri - galerio (ekspozicio)  
+gali - strato  
 gali yum - galiumo  
 Galia - Gaŭlio  
 galte - eraro (miso)  
@@ -781,6 +780,9 @@ grafi - bildo (desegnaĵo)
 grafi di - grafika (bilda)  
 grafi kata - bildrakonto  
 gram - gramo  
+• agrese - atako (agreso)  
+• agresive - agresema  
+• agresevi - agresema  
 grimas - grimaco  
 grom - tondro  
 grupe - grupo  
@@ -836,7 +838,6 @@ harmoni - harmonio
 harmoni di - harmonia  
 Hartum - Ĥartumo  
 has - speciala  
-haste - okupata  
 • anhaste - malrapida  
 hata - ĝis  
 hata di - eĉ  
@@ -1615,8 +1616,6 @@ rajanan - reĝo
 rakun - lavurso (prociono)  
 rampe - ramplo  
 rang - koloro  
-rapide - rapida  
-rapideta - rapideco  
 rasa - raco  
 rasa medi - interrasa  
 rasa sim - racismo  
@@ -1794,6 +1793,9 @@ suan mate - acido
 suba - mateno  
 sude - sudo  
 Sude cosen - Sudkoreio  
+suga - rapida  
+suga metre gi - rapidmezurilo  
+sugata - rapideco  
 sui - akvo  
 sui di - akva  
 sui gas - vaporo  
@@ -1849,7 +1851,6 @@ termo metre gi - termometro
 teror - teroro  
 teror sim - terorismo  
 teror sim ja - teroristo  
-teste - testo  
 tire - tiri  
 tire yo milke - melki  
 titan yum - titanio  

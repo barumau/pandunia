@@ -30,7 +30,8 @@ aeróbico - air bio di
 Afeganistão - Afghan  
 agacharse - lipa side  
 agente - atir  
-agressor - agresi ja  
+agressor - agreser  
+agressão (ataque) - agrese  
 agrobiologia - agri bio logi  
 agronomia - agri nomi  
 agrícola - agri di  
@@ -385,6 +386,7 @@ construir - fa bina
 consultor - kon sel ja  
 conta (fatura) - fatura  
 conta - hisabu loge  
+contar (calcular) - pute  
 conto - korte kata  
 conto de fadas - pari kata  
 contêiner - in tene gi  
@@ -1106,7 +1108,6 @@ obsidiana - osidian
 oceano - dai hai  
 ocular - yen di  
 ocultar (esconder) - fa sir  
-ocupado (atarefado) - haste  
 ocupado (atarefado) - mang  
 oganesson - oganeson  
 oito (8) - bati  
@@ -1270,6 +1271,7 @@ preferir - max fili
 prensa - prese gi  
 prensa - preser  
 prensar (pressionar, premir) - fa prese  
+pressa - haste  
 pressão - prese  
 preto - kala  
 problema - problem  
@@ -1398,13 +1400,14 @@ romance - long kata
 rosa - rode  
 roupa (vestidura) - fuku  
 rouxinol - bulbul  
+rua - gali  
 rubi - rubi bau seku  
 rubídio - rubi yum  
 rutherfórdio - ruterfor yum  
 ruténio - rus yum  
 rádio - radi yum  
 rádon - radon  
-rápido - rapide  
+rápido - suga  
 rã - krokro  
 rénio - ren yum  
 ródio - rode yum  
@@ -1532,7 +1535,8 @@ tempo - zaman
 tendência - klin  
 tennessine - tenesi yum  
 tenso - tense  
-tentar (provar) - fa teste  
+tentar (provar) - proba  
+tentar (provar) - teste  
 tentáculo - sense xaka  
 teosofia - deu sofi  
 ter (achar, receber) - na  
@@ -1545,7 +1549,6 @@ terracota - baka poto
 terraplanista - plate geo sim ja  
 terreno - geo forme  
 terça-feira - den du  
-teste - teste  
 tigre - bagre  
 tijolo - dobe  
 tinta - kalam sui  
@@ -1627,6 +1630,7 @@ vazio - hali
 vegetalista - pul fito yam sim ja  
 vegetariano - fito yam sim ja  
 velho (antigo) - cen zaman di  
+velocímetro - suga metre gi  
 vender - vende  
 ver - vide  
 verbo - kar lexi  

@@ -86,8 +86,10 @@ agente - atir
 agorafobia - medan fobi  
 agosto - mes bati  
 agradecer - fa xukur  
-agresivo - agresi tabi  
-agresor - agresi ja  
+agresivo - agresevi  
+agresivo - agresive  
+agresión (ataque) - agrese  
+agresor - agreser  
 agrio (ácido) - suan  
 agrobiología - agri bio logi  
 agronomía - agri nomi  
@@ -327,6 +329,7 @@ autopsia - nekro tomi
 autor - autor  
 autónomo - auto nomi di  
 avanzar (entrar, adelantar, progresar) - be jin  
+avanzar (entrar, adelantar, progresar) - progrese  
 avena - ave  
 aventura - ventur  
 aventurero - ventur ja  
@@ -566,6 +569,7 @@ califa - halifa
 califato - halifa dexa  
 californio - kaliforni yum  
 caliza - kalsi petra  
+calle - gali  
 calvo - sar kexa hin  
 cama (lecho) - bede  
 camarón (gamba) - gamba  
@@ -875,6 +879,7 @@ constitución - baze kanun
 construir (edificar) - fa bina  
 consultor - kon sel ja  
 contaminación (corrupción, porquería, suciedad) - najis  
+contar (calcular) - pute  
 contar - fa nume  
 contenedor - in tene gi  
 contenedor - kontener  
@@ -1946,7 +1951,8 @@ inteligencia artificial - arte fete intelige (AI)
 intención (intento) - nia  
 intensidad (volumen) - tezata  
 intenso (brusco, ácido, fuerte, afilado, rápido) - teza  
-intentar (probar) - fa teste  
+intentar (probar) - proba  
+intentar (probar) - teste  
 intercambiar (canjear) - badal  
 interceptar - intercepe  
 interesante (curioso) - san vol di  
@@ -2392,7 +2398,6 @@ mesiánico - mesi di
 meta (gol, destinación) - gol  
 metal - metal  
 metal pesado - bari metal  
-meter prisa - ajila  
 metro - mitre  
 metro - tunel tren  
 mez - mes  
@@ -2663,7 +2668,6 @@ ocra - bamia
 octubre - mes des  
 ocular - yen di  
 ocultar (esconder) - fa sir  
-ocupado (atareado) - haste  
 ocupado (atareado) - mang  
 océano - dai hai  
 océano Antártico - Antartika Hai  
@@ -3057,6 +3061,7 @@ primer (inicial, inaugural) - xuru di
 primer ministro - xefe ministre ja  
 primero (numbre uno) - un me  
 principal - xefe di  
+prisa - haste  
 prisionero - jela jen  
 prisión - jela  
 proactinio - protacini yum  
@@ -3186,7 +3191,7 @@ rama - xaka
 Ramadán - ramazan  
 rampa (cuesta) - rampe  
 rana - krokro  
-rapidez (velocidad) - rapideta  
+rapidez (velocidad) - sugata  
 raramente - nadir mar  
 raro (extraño) - guai  
 raro - nadir  
@@ -3338,7 +3343,7 @@ rutenio - rus yum
 rutherfordio - ruterfor yum  
 rutina (hábito) - rutin  
 rábano - loba  
-rápido - rapide  
+rápido - suga  
 régimen - politi mode  
 réservation - rezerve  
 rígido (sólido) - gati mate di  
@@ -3608,7 +3613,7 @@ tarjeta (carta) - karte
 tarjeta de crédito - kredikarte  
 tarjeta de gráfica - grafi karte  
 tasa (precio, cuota, tarifa) - taxi  
-tasa de fotogramas - grafi rapideta  
+tasa de fotogramas - grafi sugata  
 tatuaje - tatu  
 taxi (cab) - taxi gar  
 taxista (taximetrista) - taxi vala  
@@ -3666,7 +3671,7 @@ terreno - geo forme
 terror - teror  
 terrorismo - teror sim  
 terrorista - teror sim ja  
-tesis - tese  
+tesis - teze  
 tesla (T) - tesla  
 tesoro - bau  
 tetera - cai pote  
@@ -3844,7 +3849,7 @@ vegetariano - fito yam sim ja
 vela (candela, cirio) - mum foto  
 velero - nave ga ja  
 velo - hijabu  
-velocímetro - rapide metre gi  
+velocímetro - suga metre gi  
 vender - vende  
 veneno (toxina) - toxi  
 Venezuela - Venezuela  

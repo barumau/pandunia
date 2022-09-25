@@ -20,7 +20,6 @@ adres - endereço
 Afghan - Afeganistão  
 agile - ágil  
 agresi - ataque  
-agresi ja - agressor  
 agri - cultivar  
 agri bio logi - agrobiologia  
 agri di - agrícola  
@@ -443,7 +442,6 @@ fa sing foto - cintilar
 fa sir - ocultar (esconder)  
 fa sual - perguntar  
 fa tele fon - telefonar  
-fa teste - tentar (provar)  
 fa truke - enganar  
 fa turbe - molestar (perturber)  
 fa vai klus - excluir  
@@ -515,6 +513,7 @@ gabur seku - lápide
 gadolin yum - gadolínio  
 gala - garganta  
 galaxi - galáxia  
+gali - rua  
 gali yum - gálio  
 Galia - Gália  
 galope - galope  
@@ -568,6 +567,8 @@ grafi culi - processamento de imagem
 grafi kata - quadrinhos (banda desenhada)  
 granite - granito  
 grave - cascalho  
+• agrese - agressão (ataque)  
+• agreser - agressor  
 grimas - careta (esgar)  
 grupe - grupo  
 guai - bizarro  
@@ -606,7 +607,7 @@ hande xaka - braço
 hapu - apropriado (apto)  
 harabu mahala - favela  
 Hartum - Cartum  
-haste - ocupado (atarefado)  
+haste - pressa  
 • anhaste - lento  
 hata - até  
 hatar - perigo  
@@ -1291,6 +1292,7 @@ prazedim yum - praseodímio
 prese - pressão  
 prese gi - prensa  
 • preser - prensa  
+proba - tentar (provar)  
 problem - problema  
 program - programa  
 Promete - Prometeu  
@@ -1305,6 +1307,7 @@ pul xipi - ensopar (encharcar, marinar)
 pulmon tis - pneumonia   
 putau bagi - vinhedo  
 putau oranje - toranja  
+pute - contar (calcular)  
 • konputer - computador  
 
 ## R  
@@ -1317,7 +1320,6 @@ rajanan - rei
 rakun - guaxinim (rato-lavadeiro)  
 rang - cor  
 rang arka salmon - truta-arco-íris  
-rapide - rápido  
 rasa - raça  
 ratibu - ordem  
 Ren - Reno  
@@ -1450,6 +1452,8 @@ sosis - salsicha
 • speter - espetador  
 sual - questão (pergunta)  
 sueda - suor  
+suga - rápido  
+suga metre gi - velocímetro  
 sui - água  
 sui gas - vapor  
 sui minta - hortelã-da-água  
@@ -1493,7 +1497,7 @@ tenesi yum - tennessine
 tense - tenso  
 terbi yum - térbio  
 terca - oblíquo (torto)  
-teste - teste  
+teste - tentar (provar)  
 tikete - bilhete  
 tis - inflamaçao  
 tisa - nove (9)  

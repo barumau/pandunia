@@ -17,7 +17,6 @@
 **ais krem** *glaciaĵo* ← angla:ice cream, japana:アイスクリーム (aisukurīmu), korea:아이스크림 (aiseukeurim), hindia:आइसक्रीम (āisakrīm), bengala:আইসক্রীম (aisôkrīm), malaja:es krim, svahila:aiskrimu  
 **ais** *glacio* ← angla:ice, deu:Eis, malaja:és  
 **ajabu** ** ← araba: عَجَب‎ (ʿajab), svahila:ajabu, haŭsa:al'ajabi + persa: عجب‎ ('ajab), hindia:अजीब (ajīb), bengala:আজব (ajôb), turka:acayip  
-**ajila** *rapidigi* ← araba:عجل (ʿajila), turka:acele, svahila:ajila, persa:عجله  (ajaleh), hindia:जल्द (jald)  
 **akare** ** ← hispana:portugala:ácaro, franca:acarien, turka:acari  
 **akasia** *akacio* ← angla:franca:hispana:portugala:acacia, rusa:акация (akaciya), malaja:akasia, turka:akasya  
 **akrabe** *skorpio* ← araba: عَقْرَب (ʿaqrab), turka:akrep, hispana:alacrán, portugala:lacrau, filipina:alakdan, hindia:अकरब (akrab) + malaja:Akrab, svahila:Akarabu  
@@ -444,6 +443,7 @@
 **galaxi** *galaksio* ← angla:galaxy, hispana:galaxia, portugala:galáxia, franca:galaxie, rusa:галактика (galaktika), turka:malaja:galaksi, hindia:गैलेक्सी (gaileksī)  
 **galeri** *galerio (ekspozicio)* ← angla:gallery, hispana:galería, portugala:galeria, franca:galerie, rusa:галерея (galereya), turka:galeri, hindia:गैलरी (gailrī), japana:ギャラリー (gyararī)  
 **gali yum** *galiumo* ← angla:gallium, franca:gallium, hispana:galio, portugala:gálio, rusa:галлий, mandarena:镓 (jiā), japana:ガリウム, korea:갈륨, vjetnama:gali, hindia:गैलियम, bengala:গ্যালিয়াম, malaja:galium, svahila:gali, araba: جاليوم  
+**gali** *strato* ← hindia:गली (galī), bengala:গলি (gôli) + franca:allée, angla:alley, rusa:аллея (alleya) + kantona:街 (gaai1), japana: 街路 (gairo) + hispana:calle + korea:거리 (geori)  
 **galope** ** ← angla:gallop, franca:galop, hispana:portugala:galope, rusa:галоп (galop)  
 **galte** *eraro (miso)* ← araba:(ğalṭa), hindia:ग़लती (ġaltī), svahila:ghalati, turka:galat, persa:(ğalat),  
 **gamba** ** ← hispana:portugala:gamba, araba: جَمْبَرِي‎ (jambarī) + svahila:kamba  
@@ -497,6 +497,7 @@
 **grafi** *bildo (desegnaĵo)* ← angla:graphic, deu:Grafik, franca:graphique, hispana:portugala:gráfico, rusa:графика (grafika), japana:グラフィック (gurafikku), korea:그래픽 (geuraepik)  
 **granite** ** ← angla:franca:granite, hispana:portugala:granito, rusa:гранит (granit), turka:vjetnama:malaja:granit, araba:جرانيت (jaraniat), hindia:ग्रेनाइट (grenait)  
 **grave** ** ← angla:gravel, hispana:grava, franca:gravire, rusa:гравий (graviy) + svahila:changarawe  
+**grese** ** ← angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif  
 **grimas** *grimaco* ← angla:franca:grimace, deu:Grimasse, rusa:гримаса (grimasa)  
 **grom** *tondro* ← rusa:гром (grom), polona:grom, svahila:ngurumo  
 **gros** ** ← franca:gros, portugala:grosso, hispana:grueso  
@@ -542,7 +543,7 @@
 **harmoni** *harmonio* ← angla:harmony, hispana:armonía, portugala:harmonia, franca:harmonie, rusa:гармония (garmoniya)  
 **harnes** ** ← franca:harnais, angla:harness, hispana:arnés, portugala:arnês  
 **has** *speciala* ← araba:(xāṣṣ), persa:urdua:(xās), hindia:ख़ास (xās), malaja:khas, svahila:hususa  
-**haste** *okupata* ← deu:Hast, angla:haste, franca:hâte + persa:آهسته (âheste), hindia:आहिस्ता (āhistā), bengala:আস্তে (aste), turka:aheste  
+**haste** ** ← deu:Hast, angla:haste, franca:hâte + persa:آهسته (âheste), hindia:आहिस्ता (āhistā), bengala:আস্তে (aste), turka:aheste  
 **hata** *ĝis* ← portugala:até, araba:(ḥatta), hispana:hasta, svahila:hata + persa: تا‎ (tâ), hindia:तक (-tak)  
 **hatar** *danĝero* ← araba: خطر‎ (xaṭar), persa: خطر‎ (xatar), urdua: خطرہ‎ (xatrā), hindia:ख़तरा (xatrā), svahila:hatari, haŭsa:hatsari, turka:muhatara  
 **hava** *vento* ← hindia:हवा (havā), bengala:হাওয়া (haowa) + araba: هَوَاء‎ (hawāʾ), turka:hava, malaja:hawa, svahila:hewa  
@@ -1201,6 +1202,7 @@
 **prazedim yum** ** ← angla:praseodymium, franca:praséodyme, hispana:praseodimio, portugala:praseodímio, rusa:празеодим, japana:プラセオジム, korea:프라세오디뮴, vjetnama:prazeođim, hindia:प्रासियोडाइमियम, bengala:প্র্যাসেওডিমিয়াম, malaja:praseodinium, svahila:praseodimi, araba: براسوديميوم  
 **prese** *premo* ← franca:pression, hispana:presión, portugala:pressão, rusa:пресс (press), japana:プレス (puresu)  
 **prezidente** *prezidento* ← angla:president, hispana:portugala:presidente, rusa:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), persa:پرزیدنت‎ (perezident), malaja:presiden  
+**proba** ** ← deu:Probe, angla:prove; probe, hispana:probar, portugala:provar, rusa:проба  
 **problem** *problemo* ← angla:problem, franca:problème, hispana:portugala:problema, rusa:проблема (problema), bengala:প্রব্লেম (prôblem)  
 **profesor** *profesoro* ← angla:portugala:professor, hispana:profesor, rusa:профессор (professor), turka:profesör, svahila:profesa, persa:پروفسور‎ (profesor), hindia:प्रोफ़ेसर (profesar)  
 **program** *programo* ← angla:malaja:turka:program, franca:programme, portugala:hispana:programa, rusa:программа (programma), japana:プログラム (puroguramu), korea:프로그램 (peurogeuraem), hindia:प्रोग्राम (progrām), svahila:programu  
@@ -1230,7 +1232,6 @@
 **rampe** *ramplo* ← franca:rampe, angla:ramp, portugala:hispana:rampa, japana:ランプ (ranpu)  
 **rande** ** ← turka:rende, bul:ренде (rende), ron:rindea, hindia:रंदा, (randâ), persa:(rande), svahila:(randa)  
 **rang** *koloro* ← bengala:রং (rông), hindia:रंग (raṅg), urdua:(raṅg), persa:(rang), teluga:రంగు (raṅgu), svahila:rangi, lingala:lángi, turka:renk  
-**rapide** *rapida* ← hispana:portugala:rápido, angla:rapid, franca:rapide  
 **rasa** *raco* ← angla:franca:race, hispana:raza, portugala:raça, rusa:раса (rasa), malaja:ras  
 **razon** ** ← angla:reason, hispana:razón, portugala:razão, franca:raison rusa:разум (razum)  
 **re** ** ← angla:franca:hispana:portugala:re-, rusa:ретро- (retro-), japana:レトロ (retoro) + araba: رَدَّ (radda)  
@@ -1372,6 +1373,7 @@
 **suba** *mateno* ← araba:(ṣabāḥ), turka:sabah, persa:(sobh), urdua:(subah), hindia:सुबह (subah), svahila:asubuhi, haŭsa:asuba  
 **sude** *sudo* ← angla:south, hispana:sur, portugala:sul, franca:sud, deu:Süden  
 **sueda** ** ← angla:sweat, hispana:sudor, portugala:suor, franca:sueur, hindia:स्वेद (sveda), teluga:స్వేదం (svēdaṃ)  
+**suga** *rapida* ← mandarena:速 (sù), kantona:速 (cuk4), japana:速 (soku), korea:속 (sok), vjetnama:tốc + hindia:शीघ्र (śīghra) + araba: سُرْعَة‎ (surʿa)  
 **sui kaboga** ** ← portugala:abóbora-d'água, turka:su kabağı  
 **sui** *akvo* ← mandarena:水 (shuǐ), japana:水 (sui), korea:수 (su), vjetnama:thuỷ + turka:su  
 **suka** *feliĉa (ŝati)* ← hindia:सुख (sukha), malaja:suka, teluga:సుఖము (sukhamu), taja:สุข (suk), nan:舒合 (su-kah) + japana:好く (suku)  
@@ -1430,9 +1432,9 @@
 **terca** ** ← hispana:torcido, portugala:torto, hindia:तिरछा (tirachha), bengala:তেরছা (tērachā), pan:तिरकस (tirakasa)  
 **termo** ** ← deu:angla:franca:thermo-, hispana:portugala:termo-, rusa:термо- (termo-)  
 **teror** *teroro* ← angla:hispana:portugala:terror, franca:terreur + rusa:терроризм (terrorizm), japana:テロリズム (terorizumu), korea:테러리즘 (tereorijeum), malaja:terorisme  
-**tese** ** ← angla:thesis, franca:thèse, hispana:tesis  
-**teste** *testo* ← angla:franca:test, rusa: тест (test), portugala:teste, turka:test  
+**teste** ** ← deu:angla:franca:turka:test, portugala:teste, rusa:тест (test), persa: تست‎ (test), japana:テスト (tesuto), korea:테스트 (teseuteu)  
 **teza** ** ← hindia:तेज़ (tez), urdua:(tez), persa:(tiz)  
+**teze** ** ← angla:thesis, franca:thèse, hispana:tesis, portugala:tese, rusa:тезис (tezis), persa: تز‎ (tez), turka:tez, japana:テーゼ (tēze), korea:테제 (teje)  
 **ticin** ** ← mandarena:提琴 (tíqín), kantona:提琴 (tai4 kam4), vua:提琴 (di jin3), japana:提琴 (teikin)  
 **tika** ** ← persa:(tekke), arm:թիքա (tʿikʿa), hindia:टिक्का (ṭikkā)  
 **tikete** ** ← angla:deu:ticket, hispana:portugala:etiqueta, franca:étiquette, rusa:этикетка (etiketka), turka:etiket, malaja:tiket, hindia:टिकट (ṭikaṭ), urdua:ٹکٹ (ṭikaṭ), bengala:টিকিট (ṭikiṭ), amharaba:ቲኬት (tiket), korea:티켓 (tiket), japana:チケット (chiketto)  

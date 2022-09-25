@@ -27,8 +27,6 @@ Afghan - Afghanistan
 Afrika - Afrique  
 agile - agile  
 agresi - agression (attaque)  
-agresi ja - agresseur  
-agresi tabi - agressif  
 agri - cultiver  
 agri bio logi - agrobiologie  
 agri di - agricole  
@@ -669,6 +667,7 @@ gabur bagi - cimetière
 gabur seku - pierre tombale  
 gadolin yum - gadolinium  
 galaxi - galaxie  
+gali - rue  
 gali yum - gallium  
 Galia - Gaule  
 galope - galop  
@@ -735,6 +734,11 @@ grafi culi - traitement d'images
 grafi kata - bande dessinée  
 granite - granit  
 grave - gravire  
+grese - marcher  
+• agrese - agression (attaque; agresser, attaquer)  
+• agresive - agressif  
+• agreser - agresseur  
+• agresevi - agressif  
 grimas - grimace  
 grupe - groupe  
 guai - bizarre  
@@ -774,7 +778,7 @@ hande xaka - bras
 hapu - approprié (adapté, convenable, opportun)  
 harabu mahala - bidonville  
 Hartum - Khartoum  
-haste - occupé  
+haste - hâte (précipitation)  
 • anhaste - lent  
 hata - jusque (jusqu’à)  
 hata di - voire (même)  
@@ -1503,6 +1507,7 @@ prazedim yum - praséodyme
 prese - pression  
 prese gi - pressoir  
 • preser - pressoir  
+proba - essayer (tenter)  
 problem - problème  
 problem di - problématique  
 program - programme  
@@ -1519,6 +1524,7 @@ puma - couguar (puma)
 putau bagi - vignoble  
 putau oranje - pamplemousse  
 pute - pourri  
+pute - compter (calculer)  
 • konputer - ordinateur  
 
 ## R  
@@ -1534,7 +1540,6 @@ rang arka - arc-en-ciel
 rang arka salmon - truite arc-en-ciel  
 rang kanca - verre coloré  
 rang mate - colorant  
-rapide - vite (rapide)  
 rasa - race  
 rasa medi - interracial  
 ratibu - ordre  
@@ -1610,6 +1615,7 @@ san logi - épistémologie
 sanduice - sandwich  
 sante kanon - saintes écritures   
 sanzi - éventail  
+sapatu - chaussure  
 sar - tête  
 sar hin - acéphale (sans tête)  
 sar kexa - cheveux  
@@ -1682,6 +1688,8 @@ sosis - saucisse
 • speter - spectateur  
 sual - question  
 sueda - sueur  
+suga - vite (rapide)  
+suga metre gi - compteur de vitesse  
 sui - eau  
 sui gas - vapeur d’eau  
 sui minta - Menthe aquatique  
@@ -1736,8 +1744,8 @@ tepe - ruban (bande)
 terbi yum - terbium  
 terca - oblique (de travers)  
 teror sim - terrorisme  
-tese - argument  
-teste - épreuve (test)  
+teste - épreuve  
+teze - argument  
 tikete - billet  
 tim - équipe  
 tire yo milke - tirer  

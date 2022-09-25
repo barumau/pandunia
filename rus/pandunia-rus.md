@@ -20,7 +20,6 @@ adres - адрес
 Afghan - Афганистан  
 agile - подвижный  
 agresi - нападение (атака, агрессия)  
-agresi ja - агрессор  
 agri - выращивать  
 agri bio logi - агробиология  
 agri di - аграрный  
@@ -31,7 +30,6 @@ air ordu - военно-воздушные силы
 air porte - аэропорт  
 ais hoki - хокке́й с ша́йбой  
 ais krem - мороженое  
-ajila - спешить  
 akare - клещ (лепта)  
 akasia - акация  
 akrabe - скорпион  
@@ -576,6 +574,7 @@ gabur seku - надгробие
 gadolin yum - гадолиний  
 gala - горло (глотка)  
 galaxi - галактика  
+gali - улица  
 gali yum - галлий  
 Galia - Галлия  
 galope - кентер и галоп  
@@ -638,6 +637,8 @@ grafi kata - комикс
 grafi so - пиксель  
 granite - гранит  
 grave - гравий  
+• agrese - нападение (атака, агрессия)  
+• agreser - агрессор  
 grimas - гримаса  
 grom - гром  
 grupe - группа  
@@ -681,7 +682,7 @@ hapu - подходящий (годный)
 harabu mahala - трущоба  
 Hartum - Хартум  
 has nam - идентификатор  
-haste - занятый  
+haste - спешка  
 hata - до  
 hatar - опасность  
 heli yum - гелий  
@@ -1383,6 +1384,7 @@ prazedim yum - празеодим
 prese - давление (нажим)  
 prese gi - пресс  
 • preser - пресс  
+proba - пытаться (пробовать; проба)  
 problem - проблема  
 problem di - проблематичный  
 program - программа  
@@ -1413,7 +1415,6 @@ rajanan - король
 rakun - енот  
 rang arka - радуга  
 rang arka salmon - микижа (камчатская сёмга)  
-rapide - быстрый  
 rasa - раса  
 rasa medi - межрасовый  
 ratibu - установка  
@@ -1566,6 +1567,7 @@ sosi jinse - гендер
 sosis - колбаса (сосиска)  
 sual - вопрос  
 sual dokumen - анкета  
+suga - быстрый  
 sui - вода  
 sui gas - пар  
 sui kaboga - тыква горлянка (калабас)  
@@ -1627,8 +1629,8 @@ tepe - лента
 terbi yum - тербий  
 terca - косой  
 teror sim - терроризм  
-tese - довод  
 teste - проба (тест)  
+teze - довод  
 tikete - билет  
 tim - команда  
 tire dara - отбойное течение  

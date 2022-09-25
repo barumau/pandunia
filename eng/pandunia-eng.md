@@ -80,8 +80,6 @@ Afghan - Afghanistan
 Afrika - Africa  
 agile - agile  
 agresi - attack (assault, aggression, hostility)  
-agresi ja - aggressor  
-agresi tabi - aggressive  
 agri - cultivate (farm)  
 agri bio logi - agrobiology  
 agri deha - rural village  
@@ -106,7 +104,6 @@ ais krem - ice cream
 Aiti - Haiti  
 ajabu - wonder (awe, marvel)  
 ajabu di - amazing (astonishing)  
-ajila - hurry (hasten)  
 akare - tick (mite)  
 akasia - acacia  
 akrabe - scorpion (Scorpio)  
@@ -1288,7 +1285,6 @@ fa tele fon - call on the phone
 fa tense - tighten  
 fa terca - tilt (skew)  
 fa tese - argue (claim)  
-fa teste - try (attempt)  
 fa transe - transit (pass through or across)  
 fa trati - agree (make an agreement)  
 fa truke - trick (cheat, deceive)  
@@ -1512,6 +1508,7 @@ gaja - elephant
 gala - throat (windpipe, gullet, pharynx)  
 galaxi - galaxy  
 galeri - gallery (exhibition hall)  
+gali - street  
 gali yum - gallium  
 Galia - Gaul  
 galope - canter and gallop  
@@ -1662,13 +1659,21 @@ grafi karte - graphics card (video card)
 grafi kata - comic (cartoon)  
 grafi lanse gi - image projector  
 grafi projeter - image projector  
-grafi rapideta - framerate  
 grafi so - pixel  
+grafi sugata - framerate  
 gram - gram (g)  
 granite - granite  
 grave - gravel  
 Grenada - Grenada  
 Grenadin nesi - the Grenadines  
+grese - stride (march)  
+• agrese - attack (assault, aggression, hostility)  
+• agresive - aggressive  
+• agreser - aggressor  
+• agresevi - aggressive  
+• progrese - progress (stride forward, advance, go forward)  
+• progresion - advancement (milestone)  
+• regrese - regress (fall back)  
 grimas - grimace  
 grom - thunder (roaring)  
 grom tufan - thunderstorm  
@@ -1764,7 +1769,7 @@ has - special (distinct)
 has nam - identifier (ID)  
 hasta - distinction (specialty)  
 haste - hurry (rush, haste; hasty, busy, hurried, swift, fast)  
-• anhaste - slow  
+• anhaste - slow (quiet, not hurried, not busy)  
 hata - until (til, up to)  
 hata di - even (implying extreme example)  
 hatar - danger (peril)  
@@ -3436,6 +3441,7 @@ prese - press (pressure)
 prese gi - press device  
 • preser - press device  
 prezidente - president  
+proba - try (attempt, give a go, check out, probe)  
 problem - problem (issue)  
 problem di - problematic  
 profesor - professor  
@@ -3468,10 +3474,10 @@ putau - grape
 putau bagi - vineyard  
 putau oranje - grapefruit  
 pute - rotten  
-pute - put (arrange, set into a certain relation, state or condition)  
+pute - reckon (calculate, put into a certain relation, state or condition)  
 • expute - output  
 • inpute - input   
-• konpute - compute (put data together)  
+• konpute - compute (reckon together)  
 • konputer - computer  
 putong - common (general)  
 Putong Han - Mandarin Chinese (Putonghua)  
@@ -3508,9 +3514,6 @@ rang arka - rainbow
 rang arka salmon - rainbow trout  
 rang kanca - stained glass  
 rang mate - dye  
-rapide - fast (quick, rapid, speedy)  
-rapide metre gi - speedometer  
-rapideta - speed (velocity)  
 rasa - race (breed)  
 rasa medi - interracial  
 rasa sim - racism  
@@ -3704,7 +3707,7 @@ Sante Tome e Principe - Sao Tome and Principe
 Sante Vincente - Saint Vincent  
 Sante Vincente e Grenadin - Saint Vincent and Grenadines  
 sanzi - fan (ventilator)  
-sapatu - chaussure  
+sapatu - shoe  
 sapatu ja - shoemaker  
 sapatukan - shoemaker's shop  
 sar - head  
@@ -3901,6 +3904,9 @@ Sude Sudan - South Sudan
 sueda - sweat (perspiration)  
 sueda di - sweaty  
 Suen - Sweden  
+suga - fast (quick, rapid, speedy)  
+suga metre gi - speedometer  
+sugata - speed (velocity)  
 sui - water  
 sui culi - water treatment  
 sui di - watery  
@@ -4034,12 +4040,16 @@ termo metre gi - thermometer
 teror - terror  
 teror sim - terrorism  
 teror sim ja - terrorist  
-tese - argument (thesis)  
 tesla - tesla (T)  
-teste - test (try, attempt)  
+teste - try (attempt)  
+teste - test (challenge, trial)  
+• konteste - contest (challenge)  
+• proteste - protest (challenge for)  
 Tetis - Tethys  
 teza - intensive (depending on context: brisk, sharp, acrid, strong, fast, quick, loud)  
 tezata - intensity (volume)  
+teze - argument (thesis)  
+• sinteze - synthesis  
 ticin - bow instrument (violin, etc.)  
 tika - piece (nugget, tikka)  
 tikete - tag (ticket, label, slip, note)  

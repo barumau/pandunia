@@ -50,6 +50,7 @@ adultery (infidelity) - zina
 advance (progress, go forward, enter) - be jin  
 advanced (high-level) - gau darja di  
 advancement (milestone) - jin  
+advancement (milestone) - progresion  
 adventure (venture) - ventur  
 adventurer - ventur ja  
 adverb - mode loge  
@@ -69,8 +70,9 @@ again (repeatedly) - ri
 age - umur  
 aged - umur di  
 agent (doer, actor) - atir  
-aggressive - agresi tabi  
-aggressor - agresi ja  
+aggressive - agresevi  
+aggressive - agresive  
+aggressor - agreser  
 agile - agile  
 agoraphobia - medan fobi  
 agree (concur) - fa sam rai  
@@ -198,7 +200,7 @@ argon - argon
 argue (assert, prove, clarify) - fa argu  
 argue (claim) - fa tese  
 argument (rationale, grounds) - argu  
-argument (thesis) - tese  
+argument (thesis) - teze  
 Ariel - Ariel  
 arithmetics - hisabu suta  
 Ark of the Covenant - liga di sanduku  
@@ -258,6 +260,7 @@ atomic weapon - atom vuki
 attachment (affix) - fixe  
 attack (assault) - fa agresi  
 attack (assault, aggression, hostility) - agresi  
+attack (assault, aggression, hostility) - agrese  
 attain (accomplish, indicates the current position) - le  
 attract - atrate  
 attraction (fascination, -philia) - fili  
@@ -707,7 +710,6 @@ charm (attraction) - carme
 chat (babble) - blabla  
 chat room - blablakan  
 chauffeur (driver) - xofer ja  
-chaussure - sapatu  
 checkers (draughts) - dama geme  
 checkmate - xah mata  
 cheer (hurrah, hooray) - ura  
@@ -854,7 +856,7 @@ complete (make done) - pul fina
 component - konpozeje  
 compost - bio sana xe  
 compress (squeeze, squish) - konprese  
-compute (put data together) - konpute  
+compute (reckon together) - konpute  
 compute (to process data) - fa komputa  
 computer - konputer  
 computer science - data culi logi  
@@ -892,6 +894,7 @@ contain (include; content) - intene
 container - in tene gi  
 container - kontener  
 content - in xe  
+contest (challenge) - konteste  
 continue (go on, keep on, carry on, proceed, still, yet) - zoku  
 continue (resume) - redura  
 continuous (analog) - undura  
@@ -1426,7 +1429,7 @@ fascination - fasinta
 fascism - faxa sim  
 fascist - faxa sim ja  
 fashion (trend) - faxon  
-fast (quick, rapid, speedy) - rapide  
+fast (quick, rapid, speedy) - suga  
 fat (grease) - futa  
 fatigue (weariness) - fatige  
 fatty (greasy) - futa di  
@@ -1554,7 +1557,7 @@ fountain pen - fonte kalam
 four (4) - nelu  
 fox - huli  
 frame - frem  
-framerate - grafi rapideta  
+framerate - grafi sugata  
 France - France  
 franchise (right to vote) - vote haki  
 francium - france yum  
@@ -1918,7 +1921,6 @@ hunger - yam yau
 hunt (fish) - fa saide  
 hunter - saide ja  
 hunting (fishing) - saide  
-hurry (hasten) - ajila  
 hurry (rush, haste; hasty, busy, hurried, swift, fast) - haste  
 hurt - fa pasi  
 hush (shh) - tix  
@@ -3225,6 +3227,7 @@ professional (pro) - pei gong ja
 professor - profesor  
 program (set of structured activities) - program  
 programmer (coder) - program ja  
+progress (stride forward, advance, go forward) - progrese  
 project (cast) - fa lanse grafi  
 project (cast; projection image) - jete grafi  
 project (forecast, endeavour) - projete  
@@ -3247,6 +3250,7 @@ prophet Mani - Mani
 propose (put forth; proposal, suggestion) - propoze  
 protactinium - protacini yum  
 protect (secure, save) - fa sekur  
+protest (challenge for) - proteste  
 prove (demonstrate, testify) - fa dalil  
 provoke - provoka  
 proximity - kaributa  
@@ -3264,7 +3268,6 @@ punishment (penalty) - fatu
 Punjabi - panjabi  
 purple (violet) - violeta nil  
 push - puxa  
-put (arrange, set into a certain relation, state or condition) - pute  
 put (place, set) - fa loka  
 put back (postpone) - pos poza  
 put back (postpone) - pospoze  
@@ -3338,6 +3341,7 @@ recede (retreat) - recese
 receipt (acknowledgement) - reside  
 receiver (receptor) - receper  
 recharge (reload) - rikarga  
+reckon (calculate, put into a certain relation, state or condition) - pute  
 recur (go again) - rikurse  
 recycle - resikle  
 red - rubi  
@@ -3354,6 +3358,7 @@ regime - politi mode
 region (tract, land, ground) - topo  
 region of birth - nati stan  
 register (record, log) - loge  
+regress (fall back) - regrese  
 reign (rule as an emperor) - imperi  
 reinforce (replenish) - fa max lika  
 reinforcements - max ordu  
@@ -3659,6 +3664,7 @@ shirt - kamisa
 shish kebab - xix kababu  
 Shiva - xiva  
 shock (collision) - xoke  
+shoe - sapatu  
 shoemaker - sapatu ja  
 shoemaker's shop - sapatukan  
 shogunate - ordu raja dexa  
@@ -3723,7 +3729,7 @@ slipper - babuce
 slope (tilt, slant, bias, inclination, tendency) - klin  
 Slovakia - Slovakia  
 Slovenia - Slovenia  
-slow - anhaste  
+slow (quiet, not hurried, not busy) - anhaste  
 slum - harabu mahala  
 small town - xiu siti  
 small village (hamlet) - xiu deha  
@@ -3803,8 +3809,8 @@ special (distinct) - has
 species - jung  
 spectator (sightseer, observer) - vide ja  
 speech (talk, words) - loga  
-speed (velocity) - rapideta  
-speedometer - rapide metre gi  
+speed (velocity) - sugata  
+speedometer - suga metre gi  
 spell (enchantment) - magi asar  
 spice (seasoning) - masala  
 spider - arane  
@@ -3872,8 +3878,10 @@ straighten - fa orto
 strange (unknown) - ansan di  
 stray (deviant) - rute galte di  
 stray (deviate) - be rute galte  
+street - gali  
 strengthen (reinforce) - fa lika  
 stretch (extend) - long tire  
+stride (march) - grese  
 strike (punch) - darba  
 strip (peel) - tire yo pil  
 strong - bala  
@@ -3945,6 +3953,7 @@ syllable - loga fen
 symbol (emblem) - simbol  
 symmetry (symmetrical) - sam metre  
 synchretism - sinkredisim  
+synthesis - sinteze  
 Syria - Suria  
 syrup - xirope  
 system - sistem  
@@ -4036,7 +4045,7 @@ terror - teror
 terrorism - teror sim  
 terrorist - teror sim ja  
 tesla (T) - tesla  
-test (try, attempt) - teste  
+test (challenge, trial) - teste  
 Tethys - Tetis  
 Thai language - Tai baxa  
 Thailand - Tai Dexa  
@@ -4187,7 +4196,8 @@ trunk (torso) - torso
 trust (be sure of, have faith in) - amen  
 trustee - bekredi  
 trustworthy (loyal, faithful) - amenbil  
-try (attempt) - fa teste  
+try (attempt) - teste  
+try (attempt, give a go, check out, probe) - proba  
 tube (pipe) - tubo  
 tuber (bulb) - masa mula  
 Tuesday - den du  

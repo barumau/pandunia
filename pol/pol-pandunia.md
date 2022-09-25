@@ -7,7 +7,6 @@
  - a xukur de  
  - a yi  
  - adilkan  
- - agresi ja  
  - agri bio logi  
  - agri deha  
  - agri di  
@@ -289,8 +288,9 @@
  - grafi culi  
  - grafi fineta  
  - grafi karte  
- - grafi rapideta  
  - grafi so  
+ - grafi sugata  
+ - grese  
  - guku hua  
  - habar letre  
  - habar media  
@@ -726,6 +726,7 @@
  - zirkon  
  - acepe  
  - acese  
+ - agreser  
  - anair bio di  
  - anama  
  - anding  
@@ -802,6 +803,7 @@
  - konpozeje  
  - kontene  
  - kontener  
+ - konteste  
  - kontrati  
  - kontraversi  
  - konversi  
@@ -821,8 +823,10 @@
  - proceser  
  - produte  
  - produter  
+ - progresion  
  - propele  
  - propeler  
+ - proteste  
  - provoka  
  - reati  
  - reation  
@@ -834,6 +838,7 @@
  - redute  
  - reflexi  
  - reflexir  
+ - regrese  
  - rejete  
  - repele  
  - represe  
@@ -845,6 +850,7 @@
  - rikurse  
  - rinati  
  - sinkredisim  
+ - sinteze  
  - speter  
  - sucese  
  - suporte  
@@ -869,7 +875,8 @@ adwokat - kanun vala
 Afganistan - Afghan  
 Afryka - Afrika  
 agorafobia - medan fobi  
-agresywny - agresi tabi  
+agresywny - agresevi  
+agresywny - agresive  
 agronomia - agri nomi  
 aj!, ał! - ayo  
 akacja - akasia  
@@ -941,7 +948,7 @@ architektura - bina plan
 Argentyna - Argentina  
 argon - argon  
 argument - argu  
-argument, teza - tese  
+argument, teza - teze  
 arka Noego - Noe di nave  
 Arktyka - Artika  
 Armenia - Haye  
@@ -963,6 +970,7 @@ astronomia - astro nomi
 Asyria - Axur dexa  
 Aszur - Axur  
 atak (agresja, napaść) - agresi  
+atak (agresja, napaść) - agrese  
 ateista - andeu sim ja  
 atleta, sportowiec - kelele  
 atom - atom  
@@ -3018,7 +3026,6 @@ poprzedni - cen di
 poprzedzić, poprzedzać - be cen  
 populacja - demi multita  
 popularny, modny - faxon di  
-popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać - ajila  
 popłoch pospolity - pin kardon  
 por - porei  
 pora roku - mosim  
@@ -3043,6 +3050,7 @@ postawa ciała; asana - asan
 postawiony (stojący) - lipa di  
 postawić (stawiać) - fa libu  
 posuwać się do przodu (dokonywać postępu, wejść) - be jin  
+posuwać się do przodu (dokonywać postępu, wejść) - progrese  
 poszukiwacz (badacz, eksplorator) - logi safar ja  
 poszukiwacz przygód (awanturnik) - ventur ja  
 poszukiwać (badać, eksplorować, przeglądać, wyszukiwać) - brauza  
@@ -3209,8 +3217,8 @@ przystojny, atrakcyjny, ładny - bon vide di
 przyszłość - pos zaman  
 przysłówek - mode loge  
 prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający) - tire dara  
-prędkościomierz - rapide metre gi  
-prędkość (szybkość) - rapideta  
+prędkościomierz - suga metre gi  
+prędkość (szybkość) - sugata  
 pręt, kij - kane  
 pstrąg potokowy - kafe salmon  
 pstrąg tęczowy - rang arka salmon  
@@ -3573,7 +3581,8 @@ sprawić ból, sprawiać ból - fa pasi
 sprzeciwiać się (opierać się) - xatan  
 sprzedać (sprzedawać) - vende  
 sprzątacz, sprzątacz - safa ja  
-spróbować, próbować - fa teste  
+spróbować, próbować - proba  
+spróbować, próbować - teste  
 spód - nice  
 spódnica - jupe  
 spółgłoska - kinar fon  
@@ -3710,7 +3719,7 @@ szukać - soki
 Szwajcaria - Suise  
 Szwecja - Suen  
 szyb górniczy - kuanga tunel  
-szybki, prędki - rapide  
+szybki, prędki - suga  
 szyism - xia islam din  
 szympans - cimpanzi  
 szynszyla - cincila  
@@ -3809,7 +3818,7 @@ terrorysta - teror sim ja
 terroryzm - teror sim  
 Terytorium Palestyńskie - Filistin  
 tesla (T) - tesla  
-test, wyzwanie, próba - teste  
+test (wyzwanie, próba) - teste  
 tikka - tika  
 tikka masala - masala tika  
 Timor - Timor  
@@ -3929,6 +3938,7 @@ układ słoneczny - sol sistem
 ul - medu fong sanduku  
 ul (gniazdo pszczół lub os) - fong nide  
 uleczyć, leczyć, uzdrowić, uzdrawiać - dava  
+ulica - gali  
 ulubiony - max fili di  
 umiejętność (kompetencja) - suta  
 umiejętny (sprawny, zręczny) - suta di  

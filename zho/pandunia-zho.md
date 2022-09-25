@@ -21,7 +21,6 @@ adres - 地址
 Afghan - 阿富汗  
 agile - 灵活的  
 agresi - 攻击  
-agresi ja - 侵略者  
 agri bio logi - 土壤生物学  
 agri deha - 农村  
 agri nomi - 农学  
@@ -506,6 +505,7 @@ gabur seku - 墓石 (墓碑)
 gadolin yum - 钆  
 gala - 咽喉  
 galaxi - 恆星系  
+gali - 街路  
 gali yum - 镓  
 Galia - 高卢  
 galte - 错误  
@@ -562,6 +562,8 @@ grafi culi - 影像处理
 grafi kata - 漫画  
 granite - 花岗石  
 grave - 砾石  
+• agrese - 攻击  
+• agreser - 侵略者  
 grimas - 鬼脸  
 guai - 奇怪  
 Guangjou - 广州  
@@ -605,7 +607,6 @@ hande - 手
 hande xaka - 胳膊  
 hapu - 合适  
 Hartum - 喀土穆  
-haste - 忙  
 • anhaste - 慢  
 hata - 直到  
 hata di - 连  
@@ -1262,7 +1263,6 @@ rajanan - 王
 rakun - 浣熊  
 rang arka salmon - 虹鱒  
 rang mate - 染料  
-rapide - 快  
 rasa - 种族  
 ratibu - 常规 (次序)  
 Ren - 莱茵河  
@@ -1392,6 +1392,9 @@ sosi jinse - 社會性別
 sosis - 香肠  
 • inspete - 检查  
 sual - 问题  
+suga - 快  
+suga metre gi - 速度计  
+sugata - 速度  
 sui - 水  
 sui culi - 水处理  
 sui gas - 蒸汽  
@@ -1442,8 +1445,7 @@ tene fasilta - 無障礙環境
 terbi yum - 铽  
 terca - 斜的  
 teror sim - 恐怖行为  
-tese - 论据  
-teste - 化验  
+teze - 论据  
 tikete - 票  
 tim - 队  
 tire kane - 杆  

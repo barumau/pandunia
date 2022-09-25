@@ -78,8 +78,6 @@ Afghan - Afganistan
 Afrika - Afrikka  
 agile - ketterä  
 agresi - hyökkäys (päällekarkaus, aggressio)  
-agresi ja - hyökkääjä  
-agresi tabi - hyökkäävä (aggressiivinen)  
 agri - viljellä  
 agri bio logi - maatalousbiologia  
 agri deha - maalaiskylä  
@@ -103,7 +101,6 @@ ais krem - jäätelö
 Aiti - Haiti  
 ajabu - ihmetys (hämmästys)  
 ajabu di - ihmeellinen (ällistyttävä, merkillinen)  
-ajila - kiirehtiä  
 akare - punkki  
 akasia - akaasia  
 akrabe - skorpioni  
@@ -1233,7 +1230,6 @@ fa tele fon - soittaa puhelimella
 fa tense - kirentää (kiristää)  
 fa terca - panna vinoon  
 fa tese - väittää  
-fa teste - yrittää (kokeilla)  
 fa transe - kulkea poikki, läpi tai yli  
 fa trati - sopia (tehdä sopimus)  
 fa truke - jekuttaa (petkuttaa)  
@@ -1442,6 +1438,7 @@ gadolin yum - gadolinium
 gaja - norsu (elefantti)  
 galaxi - galaksi  
 galeri - galleria  
+gali - katu  
 gali yum - gallium  
 Galia - Gallia  
 galope - laukka  
@@ -1584,6 +1581,14 @@ granite - graniitti
 grave - sora  
 Grenada - Grenada  
 Grenadin nesi - Grenadiinit  
+grese - harpata (harppoa, käydä)  
+• agrese - käydä päälle (käydä kimppuun; päällekarkaus, aggressio)  
+• agresive - päällekäyvä (aggressiivinen)  
+• agreser - päällekävijä (hyökkääjä)  
+• agresevi - hyökkäävä (aggressiivinen)  
+• progrese - edistyä (edetä, harppoa eteenpäin)  
+• progresion - edistää  
+• regrese - perääntyä  
 grimas - irvistys  
 grom - jyrinä (ukkonen)  
 grom tufan - ukkosmyrsky  
@@ -1675,8 +1680,8 @@ harnes - valjaat
 Hartum - Khartoum  
 has - erikoinen (erityinen)  
 hasta - erikoisuus  
-haste - kiireinen  
-• anhaste - hidas  
+haste - kiireinen (kiire)  
+• anhaste - hidas (hiljainen)  
 hata - asti (saakka)  
 hata di - jopa  
 hatar - vaara  
@@ -3123,6 +3128,7 @@ prese - puristaaa (puristus, paine)
 prese gi - puristin  
 • preser - puristin  
 prezidente - presidentti  
+proba - yrittää (kokeilla, koettaa; koe, kokeilu, yritys)  
 problem - ongelma  
 problem di - ongelmallinen  
 profesor - professori  
@@ -3147,7 +3153,10 @@ pupe - nukke
 putau - viinirypäle  
 putau bagi - viinitarha  
 pute - mätä  
-• konpute - käsitellä dataa  
+pute - käsitellä tietoja (laskelmoida)  
+• expute - tulostaa tietoja (tuloste)  
+• inpute - syöttää tietoja (syöte)  
+• konpute - yhdistää tietoja (laskea yhteen)  
 • konputer - tietokone  
 putong - yleinen (universaali)  
 Putong Han - yleiskiina (mandariinikiina)  
@@ -3177,9 +3186,6 @@ rampe - luiska (ramppi)
 rande - höylä  
 rang - väri  
 rang mate - väriaine  
-rapide - nopea (pikainen, vauhdikas)  
-rapide metre gi - nopeusmittari  
-rapideta - nopeus (vauhti)  
 rasa - rotu  
 rasa medi - rotujen välinen  
 rasa sim - rasismi (rotuoppi)  
@@ -3513,6 +3519,9 @@ Sude Sudan - Etelä-Sudan
 sueda - hiki  
 sueda di - hikinen  
 Suen - Ruotsi  
+suga - nopea (pikainen, vauhdikas)  
+suga metre gi - nopeusmittari  
+sugata - nopeus (vauhti)  
 sui - vesi  
 sui culi - vedenkäsittely  
 sui di - vetinen  
@@ -3628,11 +3637,15 @@ termo metre gi - lämpömittari
 teror - kauhu (terrori)  
 teror sim - terrorismi  
 teror sim ja - terroristi  
-tese - väite (teesi)  
 tesla - tesla (T)  
-teste - koe (testi, yritys)  
+teste - yrittää (kokeilla)  
+teste - koettaa (haastaa, koetella, testata; koe, testi)  
+• konteste - kilpailla (kilvoitella; kilpa)  
+• proteste - protestoida  
 Tetis - Tethys  
 teza - kiihkeä (väkevä, voimakas, vahva, kova)  
+teze - väite (teesi)  
+• sinteze - synteesi  
 ticin - jousisoitin  
 tika - pala  
 tikete - lippu (piletti)  

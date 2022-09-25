@@ -364,8 +364,10 @@ edeltää (mennä edeltä) - precese
 edeltää (olla ennen) - be cen  
 edetä (edistyä) - be jin  
 edetä (päästä eteenpäin) - procese  
+edistyä (edetä, harppoa eteenpäin) - progrese  
 edistää - fa jin  
 edistää - jin  
+edistää - progresion  
 edustaa - vakil  
 edustaja (agentti) - vakil ja  
 Egypti - Misri  
@@ -619,6 +621,7 @@ harjoitus - lenxi
 harmaa - hui rang  
 harmonia - harmoni  
 harmoninen - harmoni di  
+harpata (harppoa, käydä) - grese  
 harrastaja (amatööri) - hobi ja  
 harrastus - hobi  
 harso - gaze  
@@ -684,7 +687,7 @@ hetkellinen - sata di
 hetki (kotva) - cana  
 hetki (kotva, ajankohta) - sata  
 hevonen - uma  
-hidas - anhaste  
+hidas (hiljainen) - anhaste  
 hiekka - sablu  
 hiekkakivi - sablu petra  
 hiekkalinna - sablu burge  
@@ -795,8 +798,7 @@ hyvää yötä - sal noce
 hyytelö - jele  
 hyödyllinen - faida di  
 hyökkäys (päällekarkaus, aggressio) - agresi  
-hyökkääjä - agresi ja  
-hyökkäävä (aggressiivinen) - agresi tabi  
+hyökkäävä (aggressiivinen) - agresevi  
 hyöky (vyöry) - dai dara  
 hyökätä (käydä päälle) - fa agresi  
 hyönteinen (ötökkä) - dudu  
@@ -1154,6 +1156,7 @@ katsoja (tarkkailija) - speter
 kattava - in klus di  
 kattila - ketel  
 katto (katos) - cati  
+katu - gali  
 kauan (pitkän aikaa) - long dura  
 kauha - pote camaca  
 kauhu (terrori) - teror  
@@ -1284,8 +1287,7 @@ kiinnostua - be sabi vol
 kiinnostus (mielenkiinto) - san vol  
 kiinteä - gati mate di  
 kiinteä aine - gati mate  
-kiirehtiä - ajila  
-kiireinen - haste  
+kiireinen (kiire) - haste  
 kiireinen - mang  
 kiitollisuus - xukurta  
 kiitos - xukur  
@@ -1296,6 +1298,7 @@ kikherne - humus
 kilistää (soittaa kelloa) - dang  
 kilogramma - kilogram  
 kilometri - kilomitre  
+kilpailla (kilvoitella; kilpa) - konteste  
 kilpikonna - tortuga  
 kimmota (pomppia) - boing  
 kimono - kimono  
@@ -1340,7 +1343,7 @@ klooni (identtinen kopio) - klon
 kloori - klor  
 koala - koala  
 koboltti - kobalte  
-koe (testi, yritys) - teste  
+koettaa (haastaa, koetella, testata; koe, testi) - teste  
 kohtalo (määrä) - kisma  
 kohtelias (kiltti) - keci  
 kohti (päin) - verse  
@@ -1569,7 +1572,7 @@ käsi- - hande di
 käsite (idea) - idea  
 käsitellä (kohdella, pidellä, prosessoida) - fa culi  
 käsitellä dataa - fa komputa  
-käsitellä dataa - konpute  
+käsitellä tietoja (laskelmoida) - pute  
 käsitteellinen - idea di  
 käsittely (prosessi) - culi  
 käsivarsi - hande xaka  
@@ -1579,6 +1582,7 @@ kävellä - fa marce
 kävely (marssi) - marce  
 käydä (vierailla) - fa keka  
 käydä järkeen - be razon  
+käydä päälle (käydä kimppuun; päällekarkaus, aggressio) - agrese  
 käynti (vierailu, visiitti) - keka  
 käytettävissä oleva - uzebil di  
 käyttäjä - uze ja  
@@ -2219,9 +2223,9 @@ nolla (ei yhtään) - siro
 nollata - fa siro  
 Nooa - Noe  
 Nooan arkki - Noe di nave  
-nopea (pikainen, vauhdikas) - rapide  
-nopeus (vauhti) - rapideta  
-nopeusmittari - rapide metre gi  
+nopea (pikainen, vauhdikas) - suga  
+nopeus (vauhti) - sugata  
+nopeusmittari - suga metre gi  
 noppa (arpakuutio) - zar kube  
 Norfolkin saaret - Norfolke nesi  
 Norja - Norge  
@@ -2524,6 +2528,7 @@ perustaja - baze ja
 perustelu (argumentti) - argu  
 perustuslaki - baze kanun  
 peräaukko (anus) - anus  
+perääntyä - regrese  
 pestä - vaxi  
 pesukarhu - rakun  
 pesukone - fuku vaxi gi  
@@ -2672,6 +2677,7 @@ prometium - promete yum
 pronomini - vise loga  
 prosessori - proceser  
 protaktinium - protacini yum  
+protestoida - proteste  
 psykologia - ruhu logi  
 pudonnut (tippunut) - pada di  
 pudota (tipahtaa) - pada  
@@ -2765,6 +2771,8 @@ päivää! - salam dia
 pää - sar  
 pää- - xefe di  
 pääkallo - sar oste  
+päällekävijä (hyökkääjä) - agreser  
+päällekäyvä (aggressiivinen) - agresive  
 päällikkö (pomo) - xefe  
 pääministeri (suurvisiiri) - xefe ministre ja  
 päärynä - pera  
@@ -3263,6 +3271,7 @@ synkretismi - sinkredisim
 synnyinmaa (oma maa) - natia  
 synnyinseutu - nati stan  
 synnyttää - fa gene  
+synteesi - sinteze  
 synti (paha teko) - dusati  
 synti (paha teko) - duskar  
 syntymän jälkeinen - posnati  
@@ -3280,6 +3289,7 @@ syyllinen - doxa di
 syylä - zeyil  
 Syyria - Suria  
 syyskuu - mes tisa  
+syöttää tietoja (syöte) - inpute  
 säde - radi  
 sädekehä (halo) - foto gola  
 säe (riimi) - rim  
@@ -3568,6 +3578,7 @@ tulium - tule yum
 tulivuori - hogo xan  
 tulla (saapua) - lai  
 tulokaskasvi (neofyytti) - neu fito  
+tulostaa tietoja (tuloste) - expute  
 tulppa (tappi, korkki) - tapa  
 tulppaani - tulpan  
 tundra - tundra  
@@ -3992,7 +4003,7 @@ vähyys - kamta
 vähäinen - minor  
 vähän - kam  
 vähän - xau  
-väite (teesi) - tese  
+väite (teesi) - teze  
 väittely (debatti) - lona  
 väittää (osoittaa) - fa argu  
 väittää - fa tese  
@@ -4035,6 +4046,7 @@ yhdessä - a kon
 Yhdistyneet Arabiemiirikunnat - Unta Arabi Amir Dexa (UAA)  
 yhdistää - fa linke  
 yhdistää - fa un xe  
+yhdistää tietoja (laskea yhteen) - konpute  
 Yhdysvallat (ns. Amerikka) - Unta Dex de Amerika (UDA)  
 yhdysvaltalainen (ns. Amerikkalainen) - UDA di  
 yhteensopiva (yhteentoimiva) - konfunsibil  
@@ -4077,7 +4089,8 @@ ymmärtää väärin - galte budi
 ympäristö- (luonto-) - eko di  
 ympäröidä (piirittää) - fa gola  
 ynnätä (summata) - fa sum  
-yrittää (kokeilla) - fa teste  
+yrittää (kokeilla) - teste  
+yrittää (kokeilla, koettaa; koe, kokeilu, yritys) - proba  
 yritys (yhtiö) - kompani  
 yskä - koso  
 ystävyys - dostita  

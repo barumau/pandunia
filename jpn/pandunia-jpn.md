@@ -23,7 +23,6 @@ air porte - 空港
 ais - 氷 (アイス)  
 ais hoki - アイスホッケー  
 ais krem - アイスクリーム  
-ajila - 急ぐ  
 akare - 壁蝨  
 akrabe - 蠍 (天蝎宮)  
 alga fungu - 地衣類 (苔癬)  
@@ -509,6 +508,7 @@ gabur seku - 墓石 (墓碑)
 gadolin yum - ガドリニウム  
 gala - のど  
 galaxi - 銀河  
+gali - 道路 (街路)  
 gali yum - ガリウム  
 Galia - ガリア  
 galte - 間違い (誤り, バグ)  
@@ -571,8 +571,8 @@ grafi culi - 画像処理
 grafi fineta - 解像度  
 grafi karte - グラフィックカード  
 grafi kata - 漫画  
-grafi rapideta - フレームレート  
 grafi so - 画素 (ピクセル)  
+grafi sugata - フレームレート  
 granite - 花崗岩  
 grave - 砂利  
 guai - 変  
@@ -614,7 +614,6 @@ hapu - 適切
 haram liste - ブラックリスト  
 Hartum - ハルツーム  
 has nam - 識別名  
-haste - 忙しい  
 • anhaste - 遅い (ゆっくり)  
 hatar - 危険  
 hava - 風  
@@ -1306,7 +1305,6 @@ rakun - 狸 (ラクーン, 洗い熊)
 rang arka - 虹  
 rang arka salmon - ニジマス  
 rang mate - 染め粉  
-rapide - 速い  
 rasa - 人種  
 ratibu - 順  
 ratibu li - 整然  
@@ -1443,6 +1441,9 @@ sual - 質問 (問題)
 sual dokumen - アンケート (質問用紙)  
 suba - 朝  
 suba yam - 朝食  
+suga - 速い  
+suga metre gi - 速度計  
+sugata - 速度  
 sui - 水  
 sui gas - 湯気  
 sui kaboga - ヒョウタン (ひさご)  

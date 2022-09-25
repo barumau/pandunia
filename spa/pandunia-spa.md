@@ -39,8 +39,6 @@ Afghan - Afganistán
 Afrika - África  
 agile - ágil  
 agresi - ataque  
-agresi ja - agresor  
-agresi tabi - agresivo  
 agri - cultivar  
 agri bio logi - agrobiología  
 agri di - agrícola  
@@ -63,7 +61,6 @@ ais krem - helado
 Aiti - Haití  
 ajabu - maravilla  
 ajabu di - maravilloso (asombroso)  
-ajila - meter prisa  
 akare - garrapata (ácaro)  
 akrabe - escorpión (alacrán)  
 Alaska - Alaska  
@@ -1101,7 +1098,6 @@ fa tela - tejer
 fa tele fon - telefonear  
 fa terca - inclinar  
 fa tese - argumentar (alegar)  
-fa teste - intentar (probar)  
 fa transe - transitar (atravesar)  
 fa truke - engañar  
 fa turbe - molestar (perturber)  
@@ -1292,6 +1288,7 @@ gaja - elefante
 gala - garganta   
 galaxi - galaxia  
 galeri - galería  
+gali - calle  
 gali yum - galio  
 Galia - Galia  
 galope - galope  
@@ -1425,13 +1422,18 @@ grafi karte - tarjeta de gráfica
 grafi kata - historieta (caricaturas)  
 grafi lanse gi - proyector  
 grafi projeter - proyector  
-grafi rapideta - tasa de fotogramas  
 grafi so - píxel  
+grafi sugata - tasa de fotogramas  
 gram - gramo (g)  
 granite - granito  
 grave - grava  
 Grenada - Granada  
 Grenadin nesi - Granadinas  
+• agrese - agresión (ataque)  
+• agresive - agresivo  
+• agreser - agresor  
+• agresevi - agresivo  
+• progrese - avanzar (entrar, adelantar, progresar)  
 grimas - mueca  
 grom - truenos (estruendo)  
 grom tufan - tormenta  
@@ -1519,7 +1521,7 @@ Hartum - Jartum
 has - especial (diferenciado, distinto)  
 has nam - identificador  
 hasta - especialización (distinción)  
-haste - ocupado (atareado)  
+haste - prisa  
 • anhaste - lento (despacio)  
 hata - hasta  
 hata di - hasta (también)  
@@ -3002,6 +3004,7 @@ prese - presión
 prese gi - prensa  
 • preser - prensa  
 prezidente - presidente  
+proba - intentar (probar)  
 problem - problema  
 problem di - problemático  
 profesor - profesor  
@@ -3034,6 +3037,7 @@ putau - uva
 putau bagi - viñedo  
 putau oranje - pomelo (toronja)  
 pute - podrido (cariado)  
+pute - contar (calcular)  
 • konpute - calcular (computar)  
 • konputer - computadora (ordenador)  
 putong - general (common)  
@@ -3069,9 +3073,6 @@ rang - color (colorido)
 rang arka - arco iris  
 rang arka salmon - trucha arcoíris  
 rang mate - tinte  
-rapide - rápido  
-rapide metre gi - velocímetro  
-rapideta - rapidez (velocidad)  
 rasa - raza  
 rasa medi - interracial  
 rasa sim - racismo  
@@ -3427,6 +3428,9 @@ Sude Sudan - Sudán del Sur
 sueda - sudor  
 sueda di - sudoroso (sudado)  
 Suen - Suecia  
+suga - rápido  
+suga metre gi - velocímetro  
+sugata - rapidez (velocidad)  
 sui - agua  
 sui di - acuoso  
 sui gas - vapor  
@@ -3545,11 +3549,12 @@ termo metre gi - termómetro
 teror - terror  
 teror sim - terrorismo  
 teror sim ja - terrorista  
-tese - tesis  
 tesla - tesla (T)  
+teste - intentar (probar)  
 teste - prueba  
 teza - intenso (brusco, ácido, fuerte, afilado, rápido)  
 tezata - intensidad (volumen)  
+teze - tesis  
 ticin - instrumento de arco  
 tika - pedazo  
 tikete - etiqueta (boleto, billete)  

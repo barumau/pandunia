@@ -40,9 +40,11 @@ Afrique - Afrika
 agent (faiseur) - atir  
 agent pathogène - pati gene xe  
 agile - agile  
-agresseur - agresi ja  
-agressif - agresi tabi  
+agresseur - agreser  
+agressif - agresevi  
+agressif - agresive  
 agression (attaque) - agresi  
+agression (attaque; agresser, attaquer) - agrese  
 agricole - agri di  
 agrobiologie - agri bio logi  
 agronomie - agri nomi  
@@ -134,7 +136,7 @@ argile - glu poto
 argon - argon  
 arguer - fa argu  
 argument - argu  
-argument - tese  
+argument - teze  
 arme - vuki  
 arme atomique - atom vuki  
 arme nucléaire - kerne vuki  
@@ -409,6 +411,7 @@ chasser - fa saide
 chat - mau  
 chaudron - dai pote  
 chauffeur de taxi - taxi vala  
+chaussure - sapatu  
 chauve - sar kexa hin  
 chauve-souris - fei muxu  
 chaux - kalsi mate  
@@ -470,6 +473,8 @@ compost - bio sana xe
 compote de pommes - aple sos  
 comprendre (réaliser) - aha  
 compte - hisabu loge  
+compter (calculer) - pute  
+compteur de vitesse - suga metre gi  
 concert - konserte  
 concombre - hiyar  
 concombre confit (cornichon) - acar hiyar  
@@ -669,6 +674,7 @@ espace (zone, région) - area
 espace - hali zi  
 espectador - vide ja  
 esprit (génie) - jini  
+essayer (tenter) - proba  
 estrade - tai  
 et - e  
 ethnie - zuku  
@@ -861,6 +867,7 @@ humeur - gamo hal
 hum… - hem…  
 hydrogène - hidro  
 hygiène - salu safata  
+hâte (précipitation) - haste  
 hélice - propeler  
 hélicoptère - helis fei gi  
 hélium - heli yum  
@@ -1066,6 +1073,7 @@ manioc - manioka
 mantra - mantra  
 marbre - kalsi bilor  
 marche - marce  
+marcher - grese  
 marché (bazar) - bazar  
 mardi - den du  
 margay (chat-tigre) - margai  
@@ -1221,7 +1229,6 @@ oasis - vahi
 objet (article) - vutu  
 oblique (de travers) - terca  
 obsidienne - osidian  
-occupé - haste  
 occupé - mang  
 ocelot - oselote  
 oculaire - yen di  
@@ -1568,6 +1575,7 @@ ruban (bande) - tepe
 rubidium - rubi yum  
 rubis - rubi bau seku  
 ruche (nid d'abeille) - fong nide  
+rue - gali  
 ruse - truke  
 rutherfordium - ruterfor yum  
 ruthénium - rus yum  
@@ -1871,7 +1879,7 @@ viser (direction, cible; objectif) - dika
 viser - fa dika  
 Vishnou - Vixnu  
 vitamine - vitamin  
-vite (rapide) - rapide  
+vite (rapide) - suga  
 vivisection - jivatomi  
 vivre (habiter) - be dom  
 vivre (vivant; vie) - jiva  
@@ -1957,7 +1965,7 @@ zéro - siro
 épingle - pin  
 épistémologie - san logi  
 éponge - esponje  
-épreuve (test) - teste  
+épreuve - teste  
 épée - gem  
 équilibre - par vezeta  
 équipe - tim  

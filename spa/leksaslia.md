@@ -17,7 +17,6 @@
 **ais krem** *helado* ← eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu  
 **ais** *hielo* ← eng:ice, deu:Eis, may:és  
 **ajabu** *maravilla* ← ara: عَجَب‎ (ʿajab), swa:ajabu, hau:al'ajabi + fas: عجب‎ ('ajab), hin:अजीब (ajīb), ben:আজব (ajôb), tur:acayip  
-**ajila** *meter prisa* ← ara:عجل (ʿajila), tur:acele, swa:ajila, fas:عجله  (ajaleh), hin:जल्द (jald)  
 **akare** *garrapata (ácaro)* ← spa:por:ácaro, fra:acarien, tur:acari  
 **akasia** ** ← eng:fra:spa:por:acacia, rus:акация (akaciya), may:akasia, tur:akasya  
 **akrabe** *escorpión (alacrán)* ← ara: عَقْرَب (ʿaqrab), tur:akrep, spa:alacrán, por:lacrau, tgl:alakdan, hin:अकरब (akrab) + may:Akrab, swa:Akarabu  
@@ -444,6 +443,7 @@
 **galaxi** *galaxia* ← eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)  
 **galeri** *galería* ← eng:gallery, spa:galería, por:galeria, fra:galerie, rus:галерея (galereya), tur:galeri, hin:गैलरी (gailrī), jpn:ギャラリー (gyararī)  
 **gali yum** *galio* ← eng:gallium, fra:gallium, spa:galio, por:gálio, rus:галлий, zho:镓 (jiā), jpn:ガリウム, kor:갈륨, vie:gali, hin:गैलियम, ben:গ্যালিয়াম, may:galium, swa:gali, ara: جاليوم  
+**gali** *calle* ← hin:गली (galī), ben:গলি (gôli) + fra:allée, eng:alley, rus:аллея (alleya) + yue:街 (gaai1), jpn: 街路 (gairo) + spa:calle + kor:거리 (geori)  
 **galope** *galope* ← eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)  
 **galte** *error* ← ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),  
 **gamba** *camarón (gamba)* ← spa:por:gamba, ara: جَمْبَرِي‎ (jambarī) + swa:kamba  
@@ -497,6 +497,7 @@
 **grafi** *imagen (gráfico, dibujo)* ← eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)  
 **granite** *granito* ← eng:fra:granite, spa:por:granito, rus:гранит (granit), tur:vie:may:granit, ara:جرانيت (jaraniat), hin:ग्रेनाइट (grenait)  
 **grave** *grava* ← eng:gravel, spa:grava, fra:gravire, rus:гравий (graviy) + swa:changarawe  
+**grese** ** ← eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif  
 **grimas** *mueca* ← eng:fra:grimace, deu:Grimasse, rus:гримаса (grimasa)  
 **grom** *truenos (estruendo)* ← rus:гром (grom), pol:grom, swa:ngurumo  
 **gros** *grueso* ← fra:gros, por:grosso, spa:grueso  
@@ -542,7 +543,7 @@
 **harmoni** *armonía* ← eng:harmony, spa:armonía, por:harmonia, fra:harmonie, rus:гармония (garmoniya)  
 **harnes** *arnés (arreos, jaeces)* ← fra:harnais, eng:harness, spa:arnés, por:arnês  
 **has** *especial (diferenciado, distinto)* ← ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas, swa:hususa  
-**haste** *ocupado (atareado)* ← deu:Hast, eng:haste, fra:hâte + fas:آهسته (âheste), hin:आहिस्ता (āhistā), ben:আস্তে (aste), tur:aheste  
+**haste** *prisa* ← deu:Hast, eng:haste, fra:hâte + fas:آهسته (âheste), hin:आहिस्ता (āhistā), ben:আস্তে (aste), tur:aheste  
 **hata** *hasta* ← por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)  
 **hatar** *peligro* ← ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, hau:hatsari, tur:muhatara  
 **hava** *viento* ← hin:हवा (havā), ben:হাওয়া (haowa) + ara: هَوَاء‎ (hawāʾ), tur:hava, may:hawa, swa:hewa  
@@ -1201,6 +1202,7 @@
 **prazedim yum** *praseodimio* ← eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم  
 **prese** *presión* ← fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)  
 **prezidente** *presidente* ← eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden  
+**proba** *intentar (probar)* ← deu:Probe, eng:prove; probe, spa:probar, por:provar, rus:проба  
 **problem** *problema* ← eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)  
 **profesor** *profesor* ← eng:por:professor, spa:profesor, rus:профессор (professor), tur:profesör, swa:profesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)  
 **program** *programa* ← eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu  
@@ -1215,7 +1217,7 @@
 **pupe** *marioneta (títere)* ← fra:poupée, deu:Puppe, eng:puppet, vie:búp bê, ktu:popi, heb:(bubá)  
 **putau oranje** *pomelo (toronja)* ← eng:grapefruit, zho:葡萄柚  
 **putau** *uva* ← zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu dau3), jpn:葡萄 (budō), kor:포도 (podo), vie:bồ đào  
-**pute** ** ← eng:put + spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)  
+**pute** *contar (calcular)* ← eng:put + spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)  
 **pute** *podrido (cariado)* ← eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)  
 **putong** *general (common)* ← zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)  
 **puxa** *empujar (presionar)* ← eng:push, spa:empujar, por:empurrar, fra:pousser, rus:пихать (pihat’)  
@@ -1230,7 +1232,6 @@
 **rampe** *rampa (cuesta)* ← fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)  
 **rande** *garlopa* ← tur:rende, bul:ренде (rende), ron:rindea, hin:रंदा, (randâ), fas:(rande), swa:(randa)  
 **rang** *color (colorido)* ← ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk  
-**rapide** *rápido* ← spa:por:rápido, eng:rapid, fra:rapide  
 **rasa** *raza* ← eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras  
 **razon** *razón* ← eng:reason, spa:razón, por:razão, fra:raison rus:разум (razum)  
 **re** ** ← eng:fra:spa:por:re-, rus:ретро- (retro-), jpn:レトロ (retoro) + ara: رَدَّ (radda)  
@@ -1372,6 +1373,7 @@
 **suba** *mañana* ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
 **sude** *sur* ← eng:south, spa:sur, por:sul, fra:sud, deu:Süden  
 **sueda** *sudor* ← eng:sweat, spa:sudor, por:suor, fra:sueur, hin:स्वेद (sveda), tel:స్వేదం (svēdaṃ)  
+**suga** *rápido* ← zho:速 (sù), yue:速 (cuk4), jpn:速 (soku), kor:속 (sok), vie:tốc + hin:शीघ्र (śīghra) + ara: سُرْعَة‎ (surʿa)  
 **sui kaboga** *calabaza de peregrino* ← por:abóbora-d'água, tur:su kabağı  
 **sui** *agua* ← zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su  
 **suka** *feliz (gustarse, disfrutar)* ← hin:सुख (sukha), may:suka, tel:సుఖము (sukhamu), tha:สุข (suk), nan:舒合 (su-kah) + jpn:好く (suku)  
@@ -1430,9 +1432,9 @@
 **terca** *oblicuo (torcido)* ← spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)  
 **termo** *temperatura* ← deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)  
 **teror** *terror* ← eng:spa:por:terror, fra:terreur + rus:терроризм (terrorizm), jpn:テロリズム (terorizumu), kor:테러리즘 (tereorijeum), may:terorisme  
-**tese** *tesis* ← eng:thesis, fra:thèse, spa:tesis  
-**teste** *prueba* ← eng:fra:test, rus: тест (test), por:teste, tur:test  
+**teste** *prueba* ← deu:eng:fra:tur:test, por:teste, rus:тест (test), fas: تست‎ (test), jpn:テスト (tesuto), kor:테스트 (teseuteu)  
 **teza** *intenso (brusco, ácido, fuerte, afilado, rápido)* ← hin:तेज़ (tez), urd:(tez), fas:(tiz)  
+**teze** *tesis* ← eng:thesis, fra:thèse, spa:tesis, por:tese, rus:тезис (tezis), fas: تز‎ (tez), tur:tez, jpn:テーゼ (tēze), kor:테제 (teje)  
 **ticin** *instrumento de arco* ← zho:提琴 (tíqín), yue:提琴 (tai4 kam4), wuu:提琴 (di jin3), jpn:提琴 (teikin)  
 **tika** *pedazo* ← fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)  
 **tikete** *etiqueta (boleto, billete)* ← eng:deu:ticket, spa:por:etiqueta, fra:étiquette, rus:этикетка (etiketka), tur:etiket, may:tiket, hin:टिकट (ṭikaṭ), urd:ٹکٹ (ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)  

@@ -17,7 +17,6 @@
 **ais krem** *lody* ← eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:아이스크림 (aiseukeurim), hin:आइसक्रीम (āisakrīm), ben:আইসক্রীম (aisôkrīm), may:es krim, swa:aiskrimu  
 **ais** *lód* ← eng:ice, deu:Eis, may:és  
 **ajabu** *dziw (cudo, zachwyt)* ← ara: عَجَب‎ (ʿajab), swa:ajabu, hau:al'ajabi + fas: عجب‎ ('ajab), hin:अजीब (ajīb), ben:আজব (ajôb), tur:acayip  
-**ajila** *popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać* ← ara:عجل (ʿajila), tur:acele, swa:ajila, fas:عجله  (ajaleh), hin:जल्द (jald)  
 **akare** *klescz (roztocze)* ← spa:por:ácaro, fra:acarien, tur:acari  
 **akasia** *akacja* ← eng:fra:spa:por:acacia, rus:акация (akaciya), may:akasia, tur:akasya  
 **akrabe** *skorpion* ← ara: عَقْرَب (ʿaqrab), tur:akrep, spa:alacrán, por:lacrau, tgl:alakdan, hin:अकरब (akrab) + may:Akrab, swa:Akarabu  
@@ -444,6 +443,7 @@
 **galaxi** *galaktyka* ← eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)  
 **galeri** *galeria, sala wystawowa* ← eng:gallery, spa:galería, por:galeria, fra:galerie, rus:галерея (galereya), tur:galeri, hin:गैलरी (gailrī), jpn:ギャラリー (gyararī)  
 **gali yum** *gal* ← eng:gallium, fra:gallium, spa:galio, por:gálio, rus:галлий, zho:镓 (jiā), jpn:ガリウム, kor:갈륨, vie:gali, hin:गैलियम, ben:গ্যালিয়াম, may:galium, swa:gali, ara: جاليوم  
+**gali** *ulica* ← hin:गली (galī), ben:গলি (gôli) + fra:allée, eng:alley, rus:аллея (alleya) + yue:街 (gaai1), jpn: 街路 (gairo) + spa:calle + kor:거리 (geori)  
 **galope** *cwał (galop)* ← eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)  
 **galte** *błąd (pomyłka)* ← ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),  
 **gamba** *krewetka* ← spa:por:gamba, ara: جَمْبَرِي‎ (jambarī) + swa:kamba  
@@ -497,6 +497,7 @@
 **grafi** *opis, przedstawienie; wykres* ← eng:graphic, deu:Grafik, fra:graphique, spa:por:gráfico, rus:графика (grafika), jpn:グラフィック (gurafikku), kor:그래픽 (geuraepik)  
 **granite** *granit* ← eng:fra:granite, spa:por:granito, rus:гранит (granit), tur:vie:may:granit, ara:جرانيت (jaraniat), hin:ग्रेनाइट (grenait)  
 **grave** *żwir* ← eng:gravel, spa:grava, fra:gravire, rus:гравий (graviy) + swa:changarawe  
+**grese** ** ← eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif  
 **grimas** *grymas* ← eng:fra:grimace, deu:Grimasse, rus:гримаса (grimasa)  
 **grom** *grom, huk* ← rus:гром (grom), pol:grom, swa:ngurumo  
 **gros** *gruby* ← fra:gros, por:grosso, spa:grueso  
@@ -1201,6 +1202,7 @@
 **prazedim yum** *prazeodym* ← eng:praseodymium, fra:praséodyme, spa:praseodimio, por:praseodímio, rus:празеодим, jpn:プラセオジム, kor:프라세오디뮴, vie:prazeođim, hin:प्रासियोडाइमियम, ben:প্র্যাসেওডিমিয়াম, may:praseodinium, swa:praseodimi, ara: براسوديميوم  
 **prese** ** ← fra:pression, spa:presión, por:pressão, rus:пресс (press), jpn:プレス (puresu)  
 **prezidente** *prezydent* ← eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden  
+**proba** *spróbować, próbować* ← deu:Probe, eng:prove; probe, spa:probar, por:provar, rus:проба  
 **problem** *problem* ← eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)  
 **profesor** *profesor* ← eng:por:professor, spa:profesor, rus:профессор (professor), tur:profesör, swa:profesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)  
 **program** *program* ← eng:may:tur:program, fra:programme, por:spa:programa, rus:программа (programma), jpn:プログラム (puroguramu), kor:프로그램 (peurogeuraem), hin:प्रोग्राम (progrām), swa:programu  
@@ -1230,7 +1232,6 @@
 **rampe** *rampa* ← fra:rampe, eng:ramp, por:spa:rampa, jpn:ランプ (ranpu)  
 **rande** *hebel, strug* ← tur:rende, bul:ренде (rende), ron:rindea, hin:रंदा, (randâ), fas:(rande), swa:(randa)  
 **rang** *kolor* ← ben:রং (rông), hin:रंग (raṅg), urd:(raṅg), fas:(rang), tel:రంగు (raṅgu), swa:rangi, lin:lángi, tur:renk  
-**rapide** *szybki, prędki* ← spa:por:rápido, eng:rapid, fra:rapide  
 **rasa** *rasa* ← eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras  
 **razon** *rozum, rozsądek* ← eng:reason, spa:razón, por:razão, fra:raison rus:разум (razum)  
 **re** ** ← eng:fra:spa:por:re-, rus:ретро- (retro-), jpn:レトロ (retoro) + ara: رَدَّ (radda)  
@@ -1372,6 +1373,7 @@
 **suba** *ranek, rano, poranek* ← ara:(ṣabāḥ), tur:sabah, fas:(sobh), urd:(subah), hin:सुबह (subah), swa:asubuhi, hau:asuba  
 **sude** *południe* ← eng:south, spa:sur, por:sul, fra:sud, deu:Süden  
 **sueda** *pot* ← eng:sweat, spa:sudor, por:suor, fra:sueur, hin:स्वेद (sveda), tel:స్వేదం (svēdaṃ)  
+**suga** *szybki, prędki* ← zho:速 (sù), yue:速 (cuk4), jpn:速 (soku), kor:속 (sok), vie:tốc + hin:शीघ्र (śīghra) + ara: سُرْعَة‎ (surʿa)  
 **sui kaboga** *tykwa pospolita (kabalasz)* ← por:abóbora-d'água, tur:su kabağı  
 **sui** *woda* ← zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su  
 **suka** *wesoły (ucieszony; cieszyć się)* ← hin:सुख (sukha), may:suka, tel:సుఖము (sukhamu), tha:สุข (suk), nan:舒合 (su-kah) + jpn:好く (suku)  
@@ -1430,9 +1432,9 @@
 **terca** *skośny (ukośny, pochyły)* ← spa:torcido, por:torto, hin:तिरछा (tirachha), ben:তেরছা (tērachā), pan:तिरकस (tirakasa)  
 **termo** *temperatura* ← deu:eng:fra:thermo-, spa:por:termo-, rus:термо- (termo-)  
 **teror** *terror* ← eng:spa:por:terror, fra:terreur + rus:терроризм (terrorizm), jpn:テロリズム (terorizumu), kor:테러리즘 (tereorijeum), may:terorisme  
-**tese** *argument, teza* ← eng:thesis, fra:thèse, spa:tesis  
-**teste** *test, wyzwanie, próba* ← eng:fra:test, rus: тест (test), por:teste, tur:test  
+**teste** *test (wyzwanie, próba)* ← deu:eng:fra:tur:test, por:teste, rus:тест (test), fas: تست‎ (test), jpn:テスト (tesuto), kor:테스트 (teseuteu)  
 **teza** *intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)* ← hin:तेज़ (tez), urd:(tez), fas:(tiz)  
+**teze** *argument, teza* ← eng:thesis, fra:thèse, spa:tesis, por:tese, rus:тезис (tezis), fas: تز‎ (tez), tur:tez, jpn:テーゼ (tēze), kor:테제 (teje)  
 **ticin** *chordofon, instrument strunowy* ← zho:提琴 (tíqín), yue:提琴 (tai4 kam4), wuu:提琴 (di jin3), jpn:提琴 (teikin)  
 **tika** *tikka* ← fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)  
 **tikete** *bilet* ← eng:deu:ticket, spa:por:etiqueta, fra:étiquette, rus:этикетка (etiketka), tur:etiket, may:tiket, hin:टिकट (ṭikaṭ), urd:ٹکٹ (ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)  

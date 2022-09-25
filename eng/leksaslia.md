@@ -17,7 +17,6 @@
 **ais krem** *ice cream* ← English:ice cream, Japanese:アイスクリーム (aisukurīmu), Korean:아이스크림 (aiseukeurim), Hindi:आइसक्रीम (āisakrīm), Bengali:আইসক্রীম (aisôkrīm), Malay:es krim, Swahili:aiskrimu  
 **ais** *ice* ← English:ice, deu:Eis, Malay:és  
 **ajabu** *wonder (awe, marvel)* ← Arabic: عَجَب‎ (ʿajab), Swahili:ajabu, Hausa:al'ajabi + Persian: عجب‎ ('ajab), Hindi:अजीब (ajīb), Bengali:আজব (ajôb), Turkish:acayip  
-**ajila** *hurry (hasten)* ← Arabic:عجل (ʿajila), Turkish:acele, Swahili:ajila, Persian:عجله  (ajaleh), Hindi:जल्द (jald)  
 **akare** *tick (mite)* ← Spanish:Portuguese:ácaro, French:acarien, Turkish:acari  
 **akasia** *acacia* ← English:French:Spanish:Portuguese:acacia, Russian:акация (akaciya), Malay:akasia, Turkish:akasya  
 **akrabe** *scorpion (Scorpio)* ← Arabic: عَقْرَب (ʿaqrab), Turkish:akrep, Spanish:alacrán, Portuguese:lacrau, Filipino:alakdan, Hindi:अकरब (akrab) + Malay:Akrab, Swahili:Akarabu  
@@ -444,6 +443,7 @@
 **galaxi** *galaxy* ← English:galaxy, Spanish:galaxia, Portuguese:galáxia, French:galaxie, Russian:галактика (galaktika), Turkish:Malay:galaksi, Hindi:गैलेक्सी (gaileksī)  
 **galeri** *gallery (exhibition hall)* ← English:gallery, Spanish:galería, Portuguese:galeria, French:galerie, Russian:галерея (galereya), Turkish:galeri, Hindi:गैलरी (gailrī), Japanese:ギャラリー (gyararī)  
 **gali yum** *gallium* ← English:gallium, French:gallium, Spanish:galio, Portuguese:gálio, Russian:галлий, Mandarin:镓 (jiā), Japanese:ガリウム, Korean:갈륨, Vietnamese:gali, Hindi:गैलियम, Bengali:গ্যালিয়াম, Malay:galium, Swahili:gali, Arabic: جاليوم  
+**gali** *street* ← Hindi:गली (galī), Bengali:গলি (gôli) + French:allée, English:alley, Russian:аллея (alleya) + Cantonese:街 (gaai1), Japanese: 街路 (gairo) + Spanish:calle + Korean:거리 (geori)  
 **galope** *canter and gallop* ← English:gallop, French:galop, Spanish:Portuguese:galope, Russian:галоп (galop)  
 **galte** *mistake (error, fault, blunder, bug)* ← Arabic:(ğalṭa), Hindi:ग़लती (ġaltī), Swahili:ghalati, Turkish:galat, Persian:(ğalat),  
 **gamba** *shrimp (prawn)* ← Spanish:Portuguese:gamba, Arabic: جَمْبَرِي‎ (jambarī) + Swahili:kamba  
@@ -497,6 +497,7 @@
 **grafi** *drawing (graph, image)* ← English:graphic, deu:Grafik, French:graphique, Spanish:Portuguese:gráfico, Russian:графика (grafika), Japanese:グラフィック (gurafikku), Korean:그래픽 (geuraepik)  
 **granite** *granite* ← English:French:granite, Spanish:Portuguese:granito, Russian:гранит (granit), Turkish:Vietnamese:Malay:granit, Arabic:جرانيت (jaraniat), Hindi:ग्रेनाइट (grenait)  
 **grave** *gravel* ← English:gravel, Spanish:grava, French:gravire, Russian:гравий (graviy) + Swahili:changarawe  
+**grese** *stride (march)* ← English:deu:French:agression, Polish:agresja, Russian:агрессия (agressiya), Spanish:agresión, Portuguese:agressão, Malay:agresif  
 **grimas** *grimace* ← English:French:grimace, deu:Grimasse, Russian:гримаса (grimasa)  
 **grom** *thunder (roaring)* ← Russian:гром (grom), Polish:grom, Swahili:ngurumo  
 **gros** *thick* ← French:gros, Portuguese:grosso, Spanish:grueso  
@@ -1201,6 +1202,7 @@
 **prazedim yum** *praseodymium* ← English:praseodymium, French:praséodyme, Spanish:praseodimio, Portuguese:praseodímio, Russian:празеодим, Japanese:プラセオジム, Korean:프라세오디뮴, Vietnamese:prazeođim, Hindi:प्रासियोडाइमियम, Bengali:প্র্যাসেওডিমিয়াম, Malay:praseodinium, Swahili:praseodimi, Arabic: براسوديميوم  
 **prese** *press (pressure)* ← French:pression, Spanish:presión, Portuguese:pressão, Russian:пресс (press), Japanese:プレス (puresu)  
 **prezidente** *president* ← English:president, Spanish:Portuguese:presidente, Russian:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), Persian:پرزیدنت‎ (perezident), Malay:presiden  
+**proba** *try (attempt, give a go, check out, probe)* ← deu:Probe, English:prove; probe, Spanish:probar, Portuguese:provar, Russian:проба  
 **problem** *problem (issue)* ← English:problem, French:problème, Spanish:Portuguese:problema, Russian:проблема (problema), Bengali:প্রব্লেম (prôblem)  
 **profesor** *professor* ← English:Portuguese:professor, Spanish:profesor, Russian:профессор (professor), Turkish:profesör, Swahili:profesa, Persian:پروفسور‎ (profesor), Hindi:प्रोफ़ेसर (profesar)  
 **program** *program (set of structured activities)* ← English:Malay:Turkish:program, French:programme, Portuguese:Spanish:programa, Russian:программа (programma), Japanese:プログラム (puroguramu), Korean:프로그램 (peurogeuraem), Hindi:प्रोग्राम (progrām), Swahili:programu  
@@ -1215,7 +1217,7 @@
 **pupe** *doll (puppet)* ← French:poupée, deu:Puppe, English:puppet, Vietnamese:búp bê, ktu:popi, heb:(bubá)  
 **putau oranje** *grapefruit* ← English:grapefruit, Mandarin:葡萄柚  
 **putau** *grape* ← Mandarin:葡萄 (pútáo), Cantonese:葡萄 (pou4 tou4), Wu-Chinese:葡萄 (bu dau3), Japanese:葡萄 (budō), Korean:포도 (podo), Vietnamese:bồ đào  
-**pute** *put (arrange, set into a certain relation, state or condition)* ← English:put + Spanish:computadora, Portuguese:computador, Russian:компьютер (komp’uter), Arabic:كَمْبْيُوتَر‎ (kambyūtar), Swahili:kompyuta, Hindi:कंप्यूटर (kampyūṭar), Bengali:কম্পিউটার (kômpiuṭar), Malay:komputer, Japanese:コンピューター (konpyūtā)  
+**pute** *reckon (calculate, put into a certain relation, state or condition)* ← English:put + Spanish:computadora, Portuguese:computador, Russian:компьютер (komp’uter), Arabic:كَمْبْيُوتَر‎ (kambyūtar), Swahili:kompyuta, Hindi:कंप्यूटर (kampyūṭar), Bengali:কম্পিউটার (kômpiuṭar), Malay:komputer, Japanese:コンピューター (konpyūtā)  
 **pute** *rotten* ← English:putrid, Spanish:Portuguese:podre, French:putride + Mandarin:腐 (fǔ), Japanese:腐 (fu) + Thai:ผุ (phu)  
 **putong** *common (general)* ← Mandarin:普通 (pǔtōng), Cantonese:普通 (pou2tung1), Vietnamese:phổ thông, Korean:보통 (botong)  
 **puxa** *push* ← English:push, Spanish:empujar, Portuguese:empurrar, French:pousser, Russian:пихать (pihat’)  
@@ -1230,7 +1232,6 @@
 **rampe** *ramp (incline, slope)* ← French:rampe, English:ramp, Portuguese:Spanish:rampa, Japanese:ランプ (ranpu)  
 **rande** *plane (tool for making a smooth surface)* ← Turkish:rende, bul:ренде (rende), ron:rindea, Hindi:रंदा, (randâ), Persian:(rande), Swahili:(randa)  
 **rang** *color (colored)* ← Bengali:রং (rông), Hindi:रंग (raṅg), Urdu:(raṅg), Persian:(rang), Telugu:రంగు (raṅgu), Swahili:rangi, Lingala:lángi, Turkish:renk  
-**rapide** *fast (quick, rapid, speedy)* ← Spanish:Portuguese:rápido, English:rapid, French:rapide  
 **rasa** *race (breed)* ← English:French:race, Spanish:raza, Portuguese:raça, Russian:раса (rasa), Malay:ras  
 **razon** *reason (rational thinking)* ← English:reason, Spanish:razón, Portuguese:razão, French:raison Russian:разум (razum)  
 **re** *back (return it to previous place)* ← English:French:Spanish:Portuguese:re-, Russian:ретро- (retro-), Japanese:レトロ (retoro) + Arabic: رَدَّ (radda)  
@@ -1301,7 +1302,7 @@
 **sanduku** *box (chest)* ← Swahili:Lingala:sanduku, Turkish:sandık, Russian:сундук (sunduk), Arabic:صُنْدُوق‎ (ṣundūq), Persian:Urdu:صندوق‎ (sanduq), Hausa:sàndūƙī̀, Oromo:saanduqa  
 **sante** *holy (sacred)* ← Portuguese:Spanish:santo, English:French:saint, Kongo:santu, Mandarin:圣 (shèng)  
 **sanzi** *fan (ventilator)* ← Mandarin:扇子 (shànzi), Cantonese:扇子 (sin3zi2), Japanese:扇子 (sensu), Korean:선 (seon), mon:шанз (šanz)  
-**sapatu** *chaussure* ← Spanish:zapato, Portuguese:sapato, Malay:sepatu, Swahili:sapatu  
+**sapatu** *shoe* ← Spanish:zapato, Portuguese:sapato, Malay:sepatu, Swahili:sapatu  
 **sar** *head* ← Persian:(sar), Hindi:सिर (sir) + Arabic:(raʾs), Swahili:rasi  
 **sata** *moment (instant)* ← Arabic:(sāʿa), Persian:(sâ'at), Malay:Turkish:saat, Swahili:saa  
 **sauna** *sauna* ← fin:deu:English:French:Portuguese:Spanish:Malay:Turkish:sauna, Russian:сауна (sauna), Mandarin:桑拿 (sāngná), Japanese:サウナ (sauna), Korean:사우나 (sauna), Hindi:सॉना (sonā), Persian:Urdu:(sonā), Thai:ซาวน่า (saona)  
@@ -1372,6 +1373,7 @@
 **suba** *morning (dawn)* ← Arabic:(ṣabāḥ), Turkish:sabah, Persian:(sobh), Urdu:(subah), Hindi:सुबह (subah), Swahili:asubuhi, Hausa:asuba  
 **sude** *south* ← English:south, Spanish:sur, Portuguese:sul, French:sud, deu:Süden  
 **sueda** *sweat (perspiration)* ← English:sweat, Spanish:sudor, Portuguese:suor, French:sueur, Hindi:स्वेद (sveda), Telugu:స్వేదం (svēdaṃ)  
+**suga** *fast (quick, rapid, speedy)* ← Mandarin:速 (sù), Cantonese:速 (cuk4), Japanese:速 (soku), Korean:속 (sok), Vietnamese:tốc + Hindi:शीघ्र (śīghra) + Arabic: سُرْعَة‎ (surʿa)  
 **sui kaboga** *calabash* ← Portuguese:abóbora-d'água, Turkish:su kabağı  
 **sui** *water* ← Mandarin:水 (shuǐ), Japanese:水 (sui), Korean:수 (su), Vietnamese:thuỷ + Turkish:su  
 **suka** *enjoy (like, be happy, be fond of; pleased, delighted, happy)* ← Hindi:सुख (sukha), Malay:suka, Telugu:సుఖము (sukhamu), Thai:สุข (suk), nan:舒合 (su-kah) + Japanese:好く (suku)  
@@ -1430,9 +1432,9 @@
 **terca** *oblique (askew, tilted)* ← Spanish:torcido, Portuguese:torto, Hindi:तिरछा (tirachha), Bengali:তেরছা (tērachā), pan:तिरकस (tirakasa)  
 **termo** *temperature* ← deu:English:French:thermo-, Spanish:Portuguese:termo-, Russian:термо- (termo-)  
 **teror** *terror* ← English:Spanish:Portuguese:terror, French:terreur + Russian:терроризм (terrorizm), Japanese:テロリズム (terorizumu), Korean:테러리즘 (tereorijeum), Malay:terorisme  
-**tese** *argument (thesis)* ← English:thesis, French:thèse, Spanish:tesis  
-**teste** *test (try, attempt)* ← English:French:test, Russian: тест (test), Portuguese:teste, Turkish:test  
+**teste** *test (challenge, trial)* ← deu:English:French:Turkish:test, Portuguese:teste, Russian:тест (test), Persian: تست‎ (test), Japanese:テスト (tesuto), Korean:테스트 (teseuteu)  
 **teza** *intensive (depending on context: brisk, sharp, acrid, strong, fast, quick, loud)* ← Hindi:तेज़ (tez), Urdu:(tez), Persian:(tiz)  
+**teze** *argument (thesis)* ← English:thesis, French:thèse, Spanish:tesis, Portuguese:tese, Russian:тезис (tezis), Persian: تز‎ (tez), Turkish:tez, Japanese:テーゼ (tēze), Korean:테제 (teje)  
 **ticin** *bow instrument (violin, etc.)* ← Mandarin:提琴 (tíqín), Cantonese:提琴 (tai4 kam4), Wu-Chinese:提琴 (di jin3), Japanese:提琴 (teikin)  
 **tika** *piece (nugget, tikka)* ← Persian:(tekke), arm:թիքա (tʿikʿa), Hindi:टिक्का (ṭikkā)  
 **tikete** *tag (ticket, label, slip, note)* ← English:deu:ticket, Spanish:Portuguese:etiqueta, French:étiquette, Russian:этикетка (etiketka), Turkish:etiket, Malay:tiket, Hindi:टिकट (ṭikaṭ), Urdu:ٹکٹ (ṭikaṭ), Bengali:টিকিট (ṭikiṭ), Amharic:ቲኬት (tiket), Korean:티켓 (tiket), Japanese:チケット (chiketto)  

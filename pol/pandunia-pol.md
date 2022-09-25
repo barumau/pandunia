@@ -44,8 +44,6 @@ Afghan - Afganistan
 Afrika - Afryka  
 agile - zwinny, sprawny  
 agresi - atak (agresja, napaść)  
-agresi ja -   
-agresi tabi - agresywny  
 agri - uprawić, uprawiać  
 agri bio logi -   
 agri deha -   
@@ -70,7 +68,6 @@ ais krem - lody
 Aiti - Haiti  
 ajabu - dziw (cudo, zachwyt)  
 ajabu di - zachwycający (zdumiewający, zadziwiający)  
-ajila - popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać  
 akare - klescz (roztocze)  
 akasia - akacja  
 akrabe - skorpion  
@@ -1253,7 +1250,6 @@ fa tele fon -
 fa tense -   
 fa terca - przechylać (przechylić, wychylać, wychylić)  
 fa tese - dyskutoać, twierdzić  
-fa teste - spróbować, próbować  
 fa transe - przejść, przechodzić, przejechać, przejeżdżać  
 fa trati - zgodzić się (umówić się)  
 fa truke - oszukać (oszukiwać  
@@ -1477,6 +1473,7 @@ gaja - słoń
 gala -   
 galaxi - galaktyka  
 galeri - galeria, sala wystawowa  
+gali - ulica  
 gali yum - gal  
 Galia - Galia  
 galope - cwał (galop)  
@@ -1627,13 +1624,21 @@ grafi karte -
 grafi kata - komiks; kreskówka  
 grafi lanse gi - projektor (rzutnik)  
 grafi projeter - projektor (rzutnik)  
-grafi rapideta -   
 grafi so -   
+grafi sugata -   
 gram - gram  
 granite - granit  
 grave - żwir  
 Grenada - Grenada  
 Grenadin nesi - Grenadyny  
+grese -   
+• agrese - atak (agresja, napaść)  
+• agresive - agresywny  
+• agreser -   
+• agresevi - agresywny  
+• progrese - posuwać się do przodu (dokonywać postępu, wejść)  
+• progresion -   
+• regrese -   
 grimas - grymas  
 grom - grom, huk  
 grom tufan - burza z piorunami  
@@ -3401,6 +3406,7 @@ prese -
 prese gi -   
 • preser -   
 prezidente - prezydent  
+proba - spróbować, próbować  
 problem - problem  
 problem di - problematyczny  
 profesor - profesor  
@@ -3473,9 +3479,6 @@ rang arka - tęcza
 rang arka salmon - pstrąg tęczowy  
 rang kanca - witraż  
 rang mate - barwnik  
-rapide - szybki, prędki  
-rapide metre gi - prędkościomierz  
-rapideta - prędkość (szybkość)  
 rasa - rasa  
 rasa medi - międzyrasowy  
 rasa sim - rasizm  
@@ -3866,6 +3869,9 @@ Sude Sudan - Sudan Południowy
 sueda - pot  
 sueda di - spocony  
 Suen - Szwecja  
+suga - szybki, prędki  
+suga metre gi - prędkościomierz  
+sugata - prędkość (szybkość)  
 sui - woda  
 sui culi -   
 sui di - wodny  
@@ -3998,12 +4004,16 @@ termo metre gi - termometr
 teror - terror  
 teror sim - terroryzm  
 teror sim ja - terrorysta  
-tese - argument, teza  
 tesla - tesla (T)  
-teste - test, wyzwanie, próba  
+teste - spróbować, próbować  
+teste - test (wyzwanie, próba)  
+• konteste -   
+• proteste -   
 Tetis -   
 teza - intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)  
 tezata -   
+teze - argument, teza  
+• sinteze -   
 ticin - chordofon, instrument strunowy  
 tika - tikka  
 tikete - bilet  

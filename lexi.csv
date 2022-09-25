@@ -43,8 +43,6 @@ Afghan|Afghan|dexa|AF||Afghanistan||Afghanistan|Afganistán|Afeganistão|Афг�
 Afrika|Afrika|||ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)|Africa||Afrique|África|||||||||||||||||Afriko|Afrikka|Afryka
 agile|agile|||eng:fra:agile, spa:por:ágil, deu:agil|agile||agile|ágil|ágil|подвижный||फुर्तीला|||lincah||çevik|||灵活的|||||lerta|ketterä|zwinny, sprawny
 agresi|agresi|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|attack (assault, aggression, hostility)||agression (attaque)|ataque|ataque|нападение (атака, агрессия)||आक्रमण|||menarik||saldırı|||攻击|||||atako (agreso)|hyökkäys (päällekarkaus, aggressio)|atak (agresja, napaść)
-agresi.ja|agresi ja||||aggressor||agresseur|agresor|agressor|агрессор||||||||||侵略者||||||hyökkääjä|
-agresi.tabi|agresi tabi||||aggressive||agressif|agresivo|||||||||||||||||agresema|hyökkäävä (aggressiivinen)|agresywny
 agri|agri|||zho:农民 (nóng), yue:農民 (nung4), jpn:農 (nō), kor:농 (nong), vie:nông|cultivate (farm)||cultiver|cultivar|cultivar|выращивать||||||||||||||||viljellä|uprawić, uprawiać
 agri.bio.logi|agri bio logi||||agrobiology||agrobiologie|agrobiología|agrobiologia|агробиология|||||||agrobiyoloji|||土壤生物学||||||maatalousbiologia|
 agri.deha|agri deha||||rural village|||||||||||||||农村||農村|농촌|nông thôn||maalaiskylä|
@@ -69,7 +67,6 @@ ais.krem|ais krem|||eng:ice cream, jpn:アイスクリーム (aisukurīmu), kor:
 Aiti|Aiti|dexa|HT||Haiti||Haïti|Haití|||||||||||||||||Haitio|Haiti|Haiti
 ajabu|ajabu||27 emotions|ara: عَجَب‎ (ʿajab), swa:ajabu, hau:al'ajabi + fas: عجب‎ ('ajab), hin:अजीब (ajīb), ben:আজব (ajôb), tur:acayip|wonder (awe, marvel)||merveille|maravilla|maravilha|||||||||||||||||ihmetys (hämmästys)|dziw (cudo, zachwyt)
 ajabu.di|ajabu di||||amazing (astonishing)|||maravilloso (asombroso)||||||||||||||||||ihmeellinen (ällistyttävä, merkillinen)|zachwycający (zdumiewający, zadziwiający)
-ajila|ajila|||ara:عجل (ʿajila), tur:acele, swa:ajila, fas:عجله  (ajaleh), hin:जल्द (jald)|hurry (hasten)|||meter prisa||спешить||||||||||||急ぐ|||rapidigi|kiirehtiä|popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 akare|akare|bio|Acari|spa:por:ácaro, fra:acarien, tur:acari|tick (mite)||acarien|garrapata (ácaro)|carrapato (ácaros)|клещ (лепта)||||||||||蜱 (螨)||壁蝨||||punkki|klescz (roztocze)
 akasia|akasia|bio|Acacia|eng:fra:spa:por:acacia, rus:акация (akaciya), may:akasia, tur:akasya|acacia|||||акация|||||||akasya|muwati|||||||akacio|akaasia|akacja
 akrab|akrabe|bio|Scorpiones|ara: عَقْرَب (ʿaqrab), tur:akrep, spa:alacrán, por:lacrau, tgl:alakdan, hin:अकरब (akrab) + may:Akrab, swa:Akarabu|scorpion (Scorpio)||scorpion|escorpión (alacrán)|escorpião (lacrau)|скорпион||बिच्छू|বিছা||kala jengking (Akrab)|عَقْرَب‎|akrep|nge (Akarabu)||蝎子 (天蝎座)||蠍 (天蝎宮)|전갈 (천갈궁)|bò cạp|skorpio|skorpioni|skorpion
@@ -1242,7 +1239,6 @@ fa.tele.fon|fa tele fon||||call on the phone||téléphoner|telefonear|telefonar|
 fa.tense|fa tense||||tighten|||||||||||||||||||||kirentää (kiristää)|
 fa.terca|fa terca||||tilt (skew)|||inclinar||||||||||||||||||panna vinoon|przechylać (przechylić, wychylać, wychylić)
 fa.tese|fa tese||||argue (claim)|||argumentar (alegar)||||||||||||||||||väittää|dyskutoać, twierdzić
-fa.teste|fa teste||||try (attempt)|||intentar (probar)|tentar (provar)|||कोशिश करना|চেষ্টা করা|||||||||||||yrittää (kokeilla)|spróbować, próbować
 fa.transe|fa transe||||transit (pass through or across)|||transitar (atravesar)||||||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 fa.trati|fa trati||||agree (make an agreement)|||||||||||||||||||||sopia (tehdä sopimus)|zgodzić się (umówić się)
 fa.truke|fa truke||||trick (cheat, deceive)||escroquer|engañar|enganar|обмануть||||||||||耍花招||騙す||||jekuttaa (petkuttaa)|oszukać (oszukiwać
@@ -1464,6 +1460,7 @@ gaja|gaja|||hin:गज (gaj), tel:గజము (gajamu), kan:ಗಜ (gaja), ma
 gala|gala|||eng:gullet, spa:por:gola, far:گلو (galu), hin:गला (gala), ben:গলা (galā), pan:ਗਲਾ (galā) + rus:горло (gorlo) + ara:حلق (halaq)|throat (windpipe, gullet, pharynx)|||garganta |garganta|горло (глотка)||गला (कंठ)|কন্ঠ (গ্রীবা, গল, টুঁটি)||tenggorok||boğaz (ümük)|koo (umio)||咽喉||のど|||||
 galaxi|galaxi|||eng:galaxy, spa:galaxia, por:galáxia, fra:galaxie, rus:галактика (galaktika), tur:may:galaksi, hin:गैलेक्सी (gaileksī)|galaxy||galaxie|galaxia|galáxia|галактика||गैलेक्सी|ছায়াপথ||galaksi||galaksi|||恆星系||銀河|은하|thiên hà|galaksio|galaksi|galaktyka
 galeri|galeri|||eng:gallery, spa:galería, por:galeria, fra:galerie, rus:галерея (galereya), tur:galeri, hin:गैलरी (gailrī), jpn:ギャラリー (gyararī)|gallery (exhibition hall)|||galería|||||||||||||||||galerio (ekspozicio)|galleria|galeria, sala wystawowa
+gali|gali|||hin:गली (galī), ben:গলি (gôli) + fra:allée, eng:alley, rus:аллея (alleya) + yue:街 (gaai1), jpn: 街路 (gairo) + spa:calle + kor:거리 (geori)|street|Straße|rue|calle|rua|улица||गली|গলি|தெரு|jalan|شَارِع‎|sokak|barabara||街路|街|道路 (街路)|거리|đường|strato|katu|ulica
 gali.yum|gali yum|yum 031|Ga|eng:gallium, fra:gallium, spa:galio, por:gálio, rus:галлий, zho:镓 (jiā), jpn:ガリウム, kor:갈륨, vie:gali, hin:गैलियम, ben:গ্যালিয়াম, may:galium, swa:gali, ara: جاليوم|gallium||gallium|galio|gálio|галлий||गैलियम|গ্যালিয়াম||galium|جاليوم|galyum|gali||镓||ガリウム|갈륨|gali|galiumo|gallium|gal
 Galia|Galia||||Gaul||Gaule|Galia|Gália|Галлия||||||||||高卢||ガリア|||Gaŭlio|Gallia|Galia
 galope|galope|||eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)|canter and gallop||galop|galope|galope|кентер и галоп||||||||||||||||laukka|cwał (galop)
@@ -1615,13 +1612,21 @@ grafi.karte|grafi karte||||graphics card (video card)|||tarjeta de gráfica|||||
 grafi.kata|grafi kata||||comic (cartoon)||bande dessinée|historieta (caricaturas)|quadrinhos (banda desenhada)|комикс||||||||||漫画||漫画|||bildrakonto|sarjakuva|komiks; kreskówka
 grafi.lanse.gi|grafi lanse gi||||image projector|||proyector||||||||||||||||||projektori (videotykki, piirtoheitin)|projektor (rzutnik)
 grafi.pro.jete.r|grafi projeter||||image projector|||proyector||||||||||||||||||projektori (videotykki, piirtoheitin)|projektor (rzutnik)
-grafi.rapide.ta|grafi rapideta||||framerate|||tasa de fotogramas||||||||||||||フレームレート|||||
 grafi.so|grafi so||||pixel|||píxel||пиксель|||||piksel||benek (imgecik, piksel)|||||画素 (ピクセル)|||||
+grafi.suga.ta|grafi sugata||||framerate|||tasa de fotogramas||||||||||||||フレームレート|||||
 gram|gram|unomete|g||gram (g)|||gramo (g)|||||||||||||||||gramo|gramma|gram
 granite|granite|||eng:fra:granite, spa:por:granito, rus:гранит (granit), tur:vie:may:granit, ara:جرانيت (jaraniat), hin:ग्रेनाइट (grenait)|granite||granit|granito|granito|гранит||||||||||花岗石||花崗岩||||graniitti|granit
 grave|grave|||eng:gravel, spa:grava, fra:gravire, rus:гравий (graviy) + swa:changarawe|gravel||gravire|grava|cascalho|гравий||||||||||砾石||砂利||||sora|żwir
 Grenada|Grenada|dexa|GD||Grenada|||Granada||||||||||||||||||Grenada|Grenada
 Grenadin.nesi|Grenadin nesi||||the Grenadines|||Granadinas||||||||||||||||||Grenadiinit|Grenadyny
+grese|grese|||eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif|stride (march)||marcher|||||||||||||||||||harpata (harppoa, käydä)|
+grese-a|• agrese||||attack (assault, aggression, hostility)||agression (attaque; agresser, attaquer)|agresión (ataque)|agressão (ataque)|нападение (атака, агрессия)||आक्रमण|||menarik||saldırı|||攻击|||||atako (agreso)|käydä päälle (käydä kimppuun; päällekarkaus, aggressio)|atak (agresja, napaść)
+grese-a.iu|• agresive||||aggressive||agressif|agresivo|||||||||||||||||agresema|päällekäyvä (aggressiivinen)|agresywny
+grese-a.r|• agreser||||aggressor||agresseur|agresor|agressor|агрессор||||||||||侵略者||||||päällekävijä (hyökkääjä)|
+grese-a.vi|• agresevi||||aggressive||agressif|agresivo|||||||||||||||||agresema|hyökkäävä (aggressiivinen)|agresywny
+grese-pro|• progrese||||progress (stride forward, advance, go forward)|||avanzar (entrar, adelantar, progresar)||||||||||||||||||edistyä (edetä, harppoa eteenpäin)|posuwać się do przodu (dokonywać postępu, wejść)
+grese-pro.ion|• progresion||||advancement (milestone)|||||||||||||||||||||edistää|
+grese-re|• regrese||||regress (fall back)|||||||||||||||||||||perääntyä|
 grimas|grimas|||eng:fra:grimace, deu:Grimasse, rus:гримаса (grimasa)|grimace||grimace|mueca|careta (esgar)|гримаса||||||||||鬼脸|||||grimaco|irvistys|grymas
 grom|grom|||rus:гром (grom), pol:grom, swa:ngurumo|thunder (roaring)|||truenos (estruendo)||гром|||||||||||||||tondro|jyrinä (ukkonen)|grom, huk
 grom.tufan|grom tufan||||thunderstorm|||tormenta||||||||||||||||||ukkosmyrsky|burza z piorunami
@@ -1714,8 +1719,8 @@ Hartum|Hartum|xefsite|SD||Khartoum||Khartoum|Jartum|Cartum|Хартум|||||Khar
 has|has|||ara:(xāṣṣ), fas:urd:(xās), hin:ख़ास (xās), may:khas, swa:hususa|special (distinct)|||especial (diferenciado, distinto)|||||||||||||||||speciala|erikoinen (erityinen)|specjalny, wyraźny, wyrazisty
 has.nam|has nam||||identifier (ID)|||identificador||идентификатор||||||||||||識別名|||||
 has.ta|hasta||||distinction (specialty)|||especialización (distinción)||||||||||||||||||erikoisuus|różnica (specjalność)
-haste|haste|||deu:Hast, eng:haste, fra:hâte + fas:آهسته (âheste), hin:आहिस्ता (āhistā), ben:আস্তে (aste), tur:aheste|hurry (rush, haste; hasty, busy, hurried, swift, fast)||occupé|ocupado (atareado)|ocupado (atarefado)|занятый||व्यस्त|||ramai (sibuk)||işlek|kushugulika||忙||忙しい|||okupata|kiireinen|zajęty
-haste-an|• anhaste||||slow||lent|lento (despacio)|lento|||||||||||慢||遅い (ゆっくり)|||malrapida|hidas|powolny (wolny, letargiczny)
+haste|haste|||deu:Hast, eng:haste, fra:hâte + fas:آهسته (âheste), hin:आहिस्ता (āhistā), ben:আস্তে (aste), tur:aheste|hurry (rush, haste; hasty, busy, hurried, swift, fast)||hâte (précipitation)|prisa|pressa|спешка||जल्द||||||||||||||kiireinen (kiire)|zajęty
+haste-an|• anhaste||||slow (quiet, not hurried, not busy)||lent|lento (despacio)|lento|||||||||||慢||遅い (ゆっくり)|||malrapida|hidas (hiljainen)|powolny (wolny, letargiczny)
 hata|hata|prep.||por:até, ara:(ḥatta), spa:hasta, swa:hata + fas: تا‎ (tâ), hin:तक (-tak)|until (til, up to)||jusque (jusqu’à)|hasta|até|до||||||||mpaka||直到|||||ĝis|asti (saakka)|aż do
 hata.di|hata di||||even (implying extreme example)||voire (même)|hasta (también)||||और भी||||||||连|||||eĉ|jopa|nawet
 hatar|hatar|||ara: خطر‎ (xaṭar), fas: خطر‎ (xatar), urd: خطرہ‎ (xatrā), hin:ख़तरा (xatrā), swa:hatari, hau:hatsari, tur:muhatara|danger (peril)||danger|peligro|perigo|опасность||जोखिम (ख़तरा)|বিপদ||bahaya|خطر‎|tehlike (muhatara)|hatari||危险||危険|위험|nguy hiểm|danĝero|vaara|zagrożenie, niebezpieczeństwo
@@ -3374,6 +3379,7 @@ prese-re|• represe||||repress (push back)|||||||||||||||||||||puskea takaisin 
 prese.gi|prese gi||||press device||pressoir|prensa|prensa|пресс||||||||||||圧搾機|||premilo|puristin|
 prese.r|• preser||||press device||pressoir|prensa|prensa|пресс||||||||||||圧搾機|||premilo|puristin|
 prezidente|prezidente|||eng:president, spa:por:presidente, rus:президент (prezident), kat:პრეზიდენტი (ṗrezidenṭi), fas:پرزیدنت‎ (perezident), may:presiden|president|||presidente|||||||||||||||||prezidento|presidentti|prezydent
+proba|proba|||deu:Probe, eng:prove; probe, spa:probar, por:provar, rus:проба|try (attempt, give a go, check out, probe)|versuchen (probieren)|essayer (tenter)|intentar (probar)|tentar (provar)|пытаться (пробовать; проба)||कोशिश करना|চেষ্টা করা||कोशिश करना|চেষ্টা করা||||||||||yrittää (kokeilla, koettaa; koe, kokeilu, yritys)|spróbować, próbować
 problem|problem|||eng:problem, fra:problème, spa:por:problema, rus:проблема (problema), ben:প্রব্লেম (prôblem)|problem (issue)||problème|problema|problema|проблема||समस्या (मसला)|প্রব্লেম||masalah||sorun (problem)|tatizo||问题 (难题)||問題|문제|vấn đề|problemo|ongelma|problem
 problem.di|problem di||||problematic||problématique|problemático||проблематичный||||||||||||||||ongelmallinen|problematyczny
 profesor|profesor|||eng:por:professor, spa:profesor, rus:профессор (professor), tur:profesör, swa:profesa, fas:پروفسور‎ (profesor), hin:प्रोफ़ेसर (profesar)|professor|||profesor|||||||||||||||||profesoro|professori|profesor
@@ -3406,10 +3412,10 @@ putau|putau|bio||zho:葡萄 (pútáo), yue:葡萄 (pou4 tou4), wuu:葡萄 (bu da
 putau.bagi|putau bagi||||vineyard||vignoble|viñedo|vinhedo|виноградник|||||||üzüm bağı|||葡萄园||葡萄園|포도원||vitejo|viinitarha|winnica
 putau.oranje|putau oranje|bio|Citrus × paradisi|eng:grapefruit, zho:葡萄柚|grapefruit||pamplemousse|pomelo (toronja)|toranja|грейпфрут||चकोतरा|||limau gedang|||||葡萄柚||グレープフルーツ|||||grejpfrut
 pute|pute|||eng:putrid, spa:por:podre, fra:putride + zho:腐 (fǔ), jpn:腐 (fu) + tha:ผุ (phu)|rotten||pourri|podrido (cariado)||||||||||||||||||mätä|zgniły
-pute|pute|||eng:put + spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)|put (arrange, set into a certain relation, state or condition)||||||||||||||||||||||
-pute-ex|• expute||||output||||||||||||||||||||||
-pute-in|• inpute||||input ||||||||||||||||||||||
-pute-kon|• konpute||||compute (put data together)|||calcular (computar)||||||||||||||||||käsitellä dataa|policzyć (przetwarzać dane)
+pute|pute|||eng:put + spa:computadora, por:computador, rus:компьютер (komp’uter), ara:كَمْبْيُوتَر‎ (kambyūtar), swa:kompyuta, hin:कंप्यूटर (kampyūṭar), ben:কম্পিউটার (kômpiuṭar), may:komputer, jpn:コンピューター (konpyūtā)|reckon (calculate, put into a certain relation, state or condition)||compter (calculer)|contar (calcular)|contar (calcular)|||||||||||||||||käsitellä tietoja (laskelmoida)|
+pute-ex|• expute||||output|||||||||||||||||||||tulostaa tietoja (tuloste)|
+pute-in|• inpute||||input |||||||||||||||||||||syöttää tietoja (syöte)|
+pute-kon|• konpute||||compute (reckon together)|||calcular (computar)||||||||||||||||||yhdistää tietoja (laskea yhteen)|policzyć (przetwarzać dane)
 pute-kon.r|• konputer||||computer||ordinateur|computadora (ordenador)|computador|компьютер||कंप्यूटर (संगणक)|কম্পিউটার||komputer|كمبيوتر|bilgisayar|kompyuta||计算机||コンピュータ|컴퓨터|máy vi tính|komputero|tietokone|komputer
 putong|putong|||zho:普通 (pǔtōng), yue:普通 (pou2tung1), vie:phổ thông, kor:보통 (botong)|common (general)|||general (common)||||||||||||普通|||||generala|yleinen (universaali)|powszechny, uniwersalny
 Putong.Han|Putong Han||||Mandarin Chinese (Putonghua)|||chino mandarín||||||||||||普通话||普通話 (北京語)|보통화|tiếng Phổ thông|mandarinĉina|yleiskiina (mandariinikiina)|mandaryński chiński, Putonghua
@@ -3444,9 +3450,6 @@ rang.arka|rang arka||||rainbow||arc-en-ciel|arco iris||радуга||||||||||||�
 rang.arka.salmon|rang arka salmon|bio|Oncorhynchu mykiss||rainbow trout||truite arc-en-ciel|trucha arcoíris|truta-arco-íris|микижа (камчатская сёмга)||||||||||虹鱒||ニジマス|||||pstrąg tęczowy
 rang.kanca|rang kanca||||stained glass||verre coloré||||||||||||||||||||witraż
 rang.mate|rang mate||||dye||colorant|tinte||||||||||||染料||染め粉||||väriaine|barwnik
-rapide|rapide|||spa:por:rápido, eng:rapid, fra:rapide|fast (quick, rapid, speedy)||vite (rapide)|rápido|rápido|быстрый||तेज़ (तीव्र)|||cepat||hızlı|haraka||快||速い|빠르다|Mau (nhanh)|rapida|nopea (pikainen, vauhdikas)|szybki, prędki
-rapide.metre.gi|rapide metre gi||||speedometer|||velocímetro||||||||||||||||||nopeusmittari|prędkościomierz
-rapide.ta|rapideta||||speed (velocity)|||rapidez (velocidad)|||||||||||||||||rapideco|nopeus (vauhti)|prędkość (szybkość)
 rasa|rasa|||eng:fra:race, spa:raza, por:raça, rus:раса (rasa), may:ras|race (breed)||race|raza|raça|раса||वंश (जाति)|||bangsa (ras)||ırk|||种族||人種|인종|chủng tộc|raco|rotu|rasa
 rasa.medi|rasa medi||||interracial||interracial|interracial||межрасовый|||||||||||||||interrasa|rotujen välinen|międzyrasowy
 rasa.sim|rasa sim||||racism|||racismo|||||||||||||||||racismo|rasismi (rotuoppi)|rasizm
@@ -3638,7 +3641,7 @@ Sante.Tome.e.Principe|Sante Tome e Principe|dexa|ST||Sao Tome and Principe|||San
 Sante.Vincente|Sante Vincente||||Saint Vincent|||Isla de San Vicente|||||||||||||||||||Saint Vincent
 Sante.Vincente.e.Grenadin|Sante Vincente e Grenadin|dexa|VC||Saint Vincent and Grenadines|||San Vicente y las Granadinas|||||||||||||||||||Saint Vincent and Grenadines
 sanzi|sanzi|||zho:扇子 (shànzi), yue:扇子 (sin3zi2), jpn:扇子 (sensu), kor:선 (seon), mon:шанз (šanz)|fan (ventilator)||éventail|abanico (ventilador)|leque|веер||पंखा||||مِرْوَحَة‎|yelpaze|||扇子||扇子|부채|quạt|ventumilo|viuhka (tuuletin)|wiatrak (wentylator)
-sapatu|sapatu|||spa:zapato, por:sapato, may:sepatu, swa:sapatu|chaussure|||zapato||туфля||जूता|||sepatu|حِذَاء||kiatu (sapatu)||鞋||鞋|||ŝuo|kenkä|but
+sapatu|sapatu|||spa:zapato, por:sapato, may:sepatu, swa:sapatu|shoe|Schuh|chaussure|zapato||туфля||जूता|||sepatu|حِذَاء||kiatu (sapatu)||鞋||鞋|||ŝuo|kenkä|but
 sapatu.ja|sapatu ja||||shoemaker|||zapatero|||||||||||||||||ŝuisto|suutari|szewc
 sapatu.kan|sapatukan||||shoemaker's shop|||zapatería|||||||||||||||||ŝuistejo|suutarin paja|warsztat szewski
 sar|sar|bode||fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|head||tête|cabeza|cabeça|голова||सिर|মাথা||kepala|رَأْس|baç (kafa)|kichwa||头||頭|머리|đầu||pää|głowa
@@ -3835,6 +3838,9 @@ Sude.Sudan|Sude Sudan|dexa|SS||South Sudan|||Sudán del Sur||||||||||||||||||Ete
 sueda|sueda|||eng:sweat, spa:sudor, por:suor, fra:sueur, hin:स्वेद (sveda), tel:స్వేదం (svēdaṃ)|sweat (perspiration)||sueur|sudor|suor|||||||||||||||||hiki|pot
 sueda.di|sueda di||||sweaty|||sudoroso (sudado)||||||||||||||||||hikinen|spocony
 Suen|Suen|dexa|SE||Sweden|||Suecia||||||||||||||||||Ruotsi|Szwecja
+suga|suga|||zho:速 (sù), yue:速 (cuk4), jpn:速 (soku), kor:속 (sok), vie:tốc + hin:शीघ्र (śīghra) + ara: سُرْعَة‎ (surʿa)|fast (quick, rapid, speedy)||vite (rapide)|rápido|rápido|быстрый|سرعت‎|तेज़ (तीव्र)|গতি||cepat|سُرْعَة|hızlı|haraka||快||速い|빠르다|mau (nhanh)|rapida|nopea (pikainen, vauhdikas)|szybki, prędki
+suga.metre.gi|suga metre gi||||speedometer|Tachometer|compteur de vitesse|velocímetro|velocímetro|||||||||spidometa||速度计|速度計|速度計|속도계|đồng hồ tốc độ|rapidmezurilo|nopeusmittari|prędkościomierz
+suga.ta|sugata||||speed (velocity)|||rapidez (velocidad)||||||||||||速度|速度|速度|속도|tốc độ|rapideco|nopeus (vauhti)|prędkość (szybkość)
 sui|sui|||zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su|water||eau|agua|água|вода||पानी|জল (পানি)||air||su|maji||水||水|물 (수)|nước|akvo|vesi|woda
 sui.culi|sui culi||||water treatment|||||||||||||||水处理||||||vedenkäsittely|
 sui.di|sui di||||watery|||acuoso|||||||||||||||||akva|vetinen|wodny
@@ -3966,12 +3972,16 @@ termo.metre.gi|termo metre gi||||thermometer|||termómetro|||||||||||||||||termo
 teror|teror|||eng:spa:por:terror, fra:terreur + rus:терроризм (terrorizm), jpn:テロリズム (terorizumu), kor:테러리즘 (tereorijeum), may:terorisme|terror|||terror|||||||||||||||||teroro|kauhu (terrori)|terror
 teror.sim|teror sim||||terrorism||terrorisme|terrorismo||терроризм||||||||||恐怖行为|||||terorismo|terrorismi|terroryzm
 teror.sim.ja|teror sim ja||||terrorist|||terrorista|||||||||||||||||teroristo|terroristi|terrorysta
-tese|tese|||eng:thesis, fra:thèse, spa:tesis|argument (thesis)||argument|tesis||довод||||||||||论据||||||väite (teesi)|argument, teza
 tesla|tesla|unomete|T||tesla (T)|||tesla (T)||||||||||||||||||tesla (T)|tesla (T)
-teste|teste|||eng:fra:test, rus: тест (test), por:teste, tur:test|test (try, attempt)||épreuve (test)|prueba|teste|проба (тест)|||||||test|||化验|||||testo|koe (testi, yritys)|test, wyzwanie, próba
+teste|teste||||try (attempt)|||intentar (probar)|tentar (provar)|||कोशिश करना|চেষ্টা করা|||||||||||||yrittää (kokeilla)|spróbować, próbować
+teste|teste|||deu:eng:fra:tur:test, por:teste, rus:тест (test), fas: تست‎ (test), jpn:テスト (tesuto), kor:테스트 (teseuteu)|test (challenge, trial)||épreuve|prueba||проба (тест)|||||||test|||||||||koettaa (haastaa, koetella, testata; koe, testi)|test (wyzwanie, próba)
+teste-kon|• konteste||||contest (challenge)|||||||||||||||||||||kilpailla (kilvoitella; kilpa)|
+teste-pro|• proteste||||protest (challenge for)|||||||||||||||||||||protestoida|
 Tetis|Tetis|planeta 6 lun 3|||Tethys|||||||||||||||||||||Tethys|
 teza|teza|||hin:तेज़ (tez), urd:(tez), fas:(tiz)|intensive (depending on context: brisk, sharp, acrid, strong, fast, quick, loud)|||intenso (brusco, ácido, fuerte, afilado, rápido)||||||||||||||||||kiihkeä (väkevä, voimakas, vahva, kova)|intensywny (zależnie od kontekstu: szybki, żywy, ostry, mocny, krótki)
 teza.ta|tezata||||intensity (volume)|||intensidad (volumen)|||||||||||||||||||
+teze|teze|||eng:thesis, fra:thèse, spa:tesis, por:tese, rus:тезис (tezis), fas: تز‎ (tez), tur:tez, jpn:テーゼ (tēze), kor:테제 (teje)|argument (thesis)||argument|tesis||довод||||||||||论据||||||väite (teesi)|argument, teza
+teze-sin|• sinteze||||synthesis|||||||||||||||||||||synteesi|
 ticin|ticin|||zho:提琴 (tíqín), yue:提琴 (tai4 kam4), wuu:提琴 (di jin3), jpn:提琴 (teikin)|bow instrument (violin, etc.)|||instrumento de arco||||||||||||||||||jousisoitin|chordofon, instrument strunowy
 tika|tika|||fas:(tekke), arm:թիքա (tʿikʿa), hin:टिक्का (ṭikkā)|piece (nugget, tikka)|||pedazo||||||||||||||||||pala|tikka
 tikete|tikete|||eng:deu:ticket, spa:por:etiqueta, fra:étiquette, rus:этикетка (etiketka), tur:etiket, may:tiket, hin:टिकट (ṭikaṭ), urd:ٹکٹ (ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|tag (ticket, label, slip, note)||billet|etiqueta (boleto, billete)|bilhete|билет||टिकट (लेबुल)|||tiket (etiket, label)||etiket (bilet)|||票||札||||lippu (piletti)|bilet
