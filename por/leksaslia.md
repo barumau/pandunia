@@ -949,7 +949,7 @@
 **melon** *melão* ← eng:fra:melon, spa:melón, por:melão, jpn:メロン (meron), kor:멜론 (mellon)  
 **meme** ** ← lin:kon:meme + hin:मेष (meṣ), fas:(miš), tha:เมษ (met) + jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee  
 **memo** *memória* ← eng:memory, fra:mémoire, spa:memoria, por:memória  
-**men** ** ← eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen  
+**men** ** ← zho:们 (men), yue:們 (mun4) + eng:many + kor:많- (man-)  
 **mendelef yum** *mendelévio* ← eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم  
 **meninge** *meninge* ← eng:meninx, spa:por:meninge, fra:méninge  
 **mentor** ** ← san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)  
@@ -1004,7 +1004,6 @@
 **mudan** ** ← zho:牡丹 (mǔdān), kor:모란 (moran), jpn:(botan), vie:mẫu đơn  
 **muka** ** ← ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha  
 **mula** *raíz* ← hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)  
-**multi** ** ← por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)  
 **mum** ** ← tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)  
 **mumu** ** ← (onom,) eng:moo, deu:muh, rus:му (mu), tha:มอ (mo), hin:(mū), jpn:モーモー (mō mō), zho:哞 (mōu), tur:mö  
 **mun** ** ← zho:门 (mén), yue:門 (mun4), jpn:門 (mon), kor:문 (mun), vie:môn  

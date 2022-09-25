@@ -39,7 +39,6 @@
  - avar di  
  - ave  
  - aya  
- - ba  
  - babul  
  - baga  
  - bagi  
@@ -345,6 +344,7 @@
  - janela frem  
  - jaru  
  - jela jen  
+ - jen (jen men)  
  - jete  
  - jihade  
  - jin  
@@ -465,7 +465,6 @@
  - Miranda  
  - moli hua cai  
  - moto cati  
- - multipli  
  - muxu cakra  
  - na xiti  
  - nadir  
@@ -526,6 +525,7 @@
  - plasti paste  
  - pli  
  - Polinesi  
+ - polipli  
  - poliskan  
  - politi mode  
  - porte  
@@ -856,7 +856,7 @@
  - suporte  
  - sutene  
  - sutener  
- - tomigrafi  
+ - tomi grafi  
  - trajiva  
  - trakurse  
  - tritomi  
@@ -1761,8 +1761,8 @@ idiota - idiote
 idiotyzm (głupota) - idioteta  
 ifrit - ifrite  
 igła, szpilka - pin  
-ile? - ke multi di  
-ilość - polita  
+ile? - ke poli di  
+ilość(mnóstwo) - polita  
 ilustrator, grafik - grafi ja  
 iluzja (halucynacja) - false vide  
 imbir - jinji  
@@ -2204,7 +2204,6 @@ liberalny, wolnościowy - huru sim di
 Liberia - Liberia  
 Libia - Libia  
 liczi - lici  
-liczność (mnóstwo) - multita  
 liczyć - fa nume  
 Liechtenstein - Lihtenstain  
 liga (stowarzyszenie) - liga  
@@ -2968,7 +2967,7 @@ podróżować - fa safar
 podstawa, baza, fundament - baze  
 poduszka - kuxen  
 podwajać (podwoić, pomnożyć przez dwa) - dupli  
-podwoić - fa multi  
+podwoić - fa poli  
 podziemny - geo nice di  
 podążać - fa pos  
 podłoga - kamar dipe  
@@ -3024,7 +3023,7 @@ poprawny (wykonalny) - funsibil
 poprowadzić do (doprowadzić do, powodować) - fa asar  
 poprzedni - cen di  
 poprzedzić, poprzedzać - be cen  
-populacja - demi multita  
+populacja - demi polita  
 popularny, modny - faxon di  
 popłoch pospolity - pin kardon  
 por - porei  
@@ -3833,7 +3832,7 @@ Tokio - Tokyo
 toksyczny (trujący) - toxi di  
 toksyna - bio toxi  
 tolerować - tolera  
-tomografia - tomigrafi  
+tomografia - tomi grafi  
 ton, dźwięk, nuta, tonacja - ton  
 tona - mega gram  
 Tonga - Tonga  
@@ -4052,7 +4051,6 @@ wiedzieć - san
 wiejski, rustykalny - agri stan di  
 wiek - umur  
 wielbłąd, wielbłądzica - gamel  
-wiele - multi  
 wiele - poli  
 Wielkanoc - paska  
 wielki piec - gau tanur  

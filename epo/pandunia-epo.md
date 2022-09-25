@@ -1062,7 +1062,7 @@ kavai - ĉarma
 ke - kio?  
 ke jen - kiu?  
 ke loka - kie?  
-ke multi di - kiom?  
+ke poli di - kiom?  
 ke riti - kiel?  
 ke sata - kiam?  
 ke xe - kio?  

@@ -2,9 +2,9 @@
 
 ## predobabe
 sabu – huru ta, adil ta, e pase ta a dunia su baze si note la in ten di onor e la par e an alo bil di haki de pan un membre de insan famili.
-sabu – insan haki su nega e hen fa asar ba barbar karma, ki fa furi la insan jong su moral sense, e putong demo su masim gau gol si kai de un dunia, a ki insan ye ten la huru ta de loga e din huru e si sekur de fobi e yau.
+sabu – insan haki su nega e hen fa asar men barbar karma, ki fa furi la insan jong su moral sense, e putong demo su masim gau gol si kai de un dunia, a ki insan ye ten la huru ta de loga e din huru e si sekur de fobi e yau.
 sabu – vo si krizi, gar un insan no vil be paka to, ka fin me plan, rebel kontra yo zalim ta e haki presa, pan insan haki be sekur la kanun.
-sabu – vo si krizi, raste la dosti guanxe a medi ba nasi.
+sabu – vo si krizi, raste la dosti guanxi a medi de nasi.
 sabu – pan nasi de Un Ta Nasi, a yamen su baze dokumen, re amen yamen su xin de baze insan haki, de onor e valu de insan jen, e de par haki de man e fem, e plan sim yo sosi jin e mas bon jiva darja a mas dai huru ta.
 sabu – membre dexa le vode gol, va mede de Un Ta Nasi, la mote de putong onor e sekur ta de insan haki e baze huru ta.
 sabu – un putong aha de yi haki e huru ta ten la masim ham ta gar yi vode bil si ver.
@@ -84,13 +84,13 @@ pan insan ten la haki de huru ta de rai e rai loga; yi haki fa in klus la huru t
 3. la ici de la jama de insan mus si baze de la sultan de politi; yi ici mus be xou a zaman di e ver di vote cun va putong e par e siri vote o a par riti de huru cun.
 
 ## babu 22
-pan insan, ka membre de sosi, ten la haki de sosi sekur ta e ten, a asar de nasi di gung e nasi medi di jama gung e va sam rai la ratibu e faida xe de pan un dexa, ba mal nomi di e sosi e kultur di haki, ki be yau to ya su onor e huru darja mute de ya su jen sifa.
+pan insan, ka membre de sosi, ten la haki de sosi sekur ta e ten, a asar de nasi di gung e nasi medi di jama gung e va sam rai la ratibu e faida xe de pan un dexa, men mal nomi di e sosi e kultur di haki, ki be yau to ya su onor e huru darja mute de ya su jen sifa.
 
 ## babu 23
 1. pan insan ten la haki de gung, de huru cun de gung, de adal e favor bil di gung hal, e de sekur ta to kontra yo gung hin.
 2. pan insan, va hin de has ta, ten la haki de par pei de par gung.
 3. pan insan, ki gung, ten la haki de adal e favor bil pei, ki garanti un par zai ta ka onor de insan, to ya e ya su famili, e ki be pul va alo riti de sosi sekur ta.
-4. pan insan ten la haki de sana e liga de ba gung liga to sekur de ya su ham xe.
+4. pan insan ten la haki de sana e liga de men gung liga to sekur de ya su ham xe.
 
 ## babu 24
 pan insan ten la haki de xux e xanti di zaman; yi fa in klus yo razon di limite de gung hor e zaman di pei di festa den.
@@ -112,7 +112,7 @@ pan insan ten la haki de xux e xanti di zaman; yi fa in klus yo razon di limite 
 pan insan ten la haki de sosi e nasi medi di ratibu, a ki la haki e huruta de yi dokumen bil be pul di ver.
 
 ## babu 29
-1. pan insan ten ba mus to sosi, a ki ya su jen sifa bil be huru e pul di darja mute.
+1. pan insan ha men mus to sosi, a ki ya su jen sifa bil be huru e pul di darja mute.
 2. a aplika de ya su haki e huru ta, no halal eni insan be limite eni kanun limite, ki no sekur la haki di note e onor to la haki e huru ta de alo o fa ver la moral e komun ratibu e putong bon sifa a demo krati di sosi.
 3. no halal, a eni kas, aplika yi haki e huru ta kontra la dike e sim baze de la Un Ta Nasi.
 

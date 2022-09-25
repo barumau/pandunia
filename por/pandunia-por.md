@@ -1069,7 +1069,6 @@ mostre - monstro
 moto - motor  
 moto cati - capô  
 mula - raíz  
-multipli - múltiplos  
 mur - muro (muralha)  
 mur kaguji - papel de parede  
 mus - dever  
@@ -1264,6 +1263,7 @@ platin - platina
 plumbe - chumbo  
 pluton yum - plutónio  
 poli baxa di - multilíngue (plurilíngue)  
+polipli - múltiplos  
 Polinesi - Polinésia  
 politi - governo  
 politi ja - administrador  
@@ -1509,7 +1509,7 @@ to misal - por exemplo
 tomate - tomate  
 • dutomi - dicotomia  
 • jivatomi - vivisecção  
-• tomigrafi - tomografia  
+• tomi grafi - tomografia  
 topo grafi - topografia  
 topo metre grafi - carta geográfica  
 tor yum - tório  

@@ -779,7 +779,7 @@ demi grafi - väestötiede (demografia)
 demi krati - demokratia  
 demi krati di - demokraattinen  
 demi krati ja - demokraatti  
-demi multita - väenpaljous  
+demi polita - väenpaljous  
 demon - demoni (piru)  
 den - päivä (vuorokausi)  
 den un - maanantai  
@@ -1906,6 +1906,7 @@ jelakan - vankila
 jele - hyytelö  
 jelosi - kade (kateellinen)  
 jen - henkilö  
+jen (jen men) - ihmiset (yleisen persoonan pronomini)  
 jen di - henkilökohtainen (privaatti)  
 jenxen - ginseng  
 Jerze - Jersey  
@@ -2078,7 +2079,7 @@ kavai - söpö (suloinen)
 ke - mikä? (mitä?)  
 ke jen - kuka?  
 ke loka - jossa?  
-ke multi di - montako? (paljonko?)  
+ke poli di - montako? (paljonko?)  
 ke riti - miten?  
 ke sata - milloin? (koska?)  
 ke xe - mikä? (mitä?)  
@@ -2536,7 +2537,7 @@ memo - muisti
 • anmemo - unohtaa  
 memo note - muistio (muistiinmerkintä)  
 memo tehni - muistitekniikka  
-men - ihmiset (passiivin pronomini)  
+men - moni (monta)  
 mendelef yum - mendelevium  
 meninge - aivokalvo  
 meninge tis - aivokalvontulehdus  
@@ -2651,8 +2652,6 @@ mudan - pioni
 muka - kasvot (naama)  
 muka fun - puuteri  
 mula - juuri  
-multi - moni (usea)  
-multipli - moninkertainen  
 mum - vaha  
 mum cape - sinetti  
 mum foto - kynttilä  
@@ -3060,6 +3059,7 @@ poli fase - monitahokas
 poli gona - monikulmio (polygoni)  
 poli marta - taajuus (tiheys)  
 poli nasi di - monikansallinen  
+polipli - moninkertainen  
 poli semi di - monimerkityksinen  
 polis - poliisi  
 polis ja - poliiisi (poliisimies)  
@@ -3682,8 +3682,8 @@ tomi - jakaa (leikata)
 • dutomi - kahtiajako (dikotomia)  
 • jivatomi - vivisektio (elävältäleikkaus)  
 • tritomi - kolmijako  
-• tomigrafi - läpileikkaus  
-• tomigrafi - tomografia (kerroskuvaus)  
+• tomi grafi - läpileikkaus  
+• tomi grafi - tomografia (kerroskuvaus)  
 ton - sävel (sävy)  
 tong - tynnyri (tölkki)  
 Tonga - Tonga  

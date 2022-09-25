@@ -24,16 +24,16 @@ xiu baru si dus.
 
 xiu baru ye tire un xiu kar a pan un kamar.
 ya vide la keke sanduku a meza.
-ya fikir "mi vol yam ba keke!"
-a ya memo: "a! mama haram mi yam ba keke."
-xiu baru no yam ba keke.
+ya fikir "mi vol yam keke!"
+a ya memo: "a! mama haram mi yam keke."
+xiu baru no yam keke.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_05.png)
 
 xiu baru ye vide la kandi botel a almari.
-ya fikir "mi vol yam ba kandi!"
-a ya memo: "a! mama haram mi yam ba kandi."
-xiu baru no yam ba kande.
+ya fikir "mi vol yam kandi!"
+a ya memo: "a! mama haram mi yam kandi."
+xiu baru no yam kandi.
 
 ![](http://www.pandunia.info/grafe/urse_dante/urse_06.png)
 

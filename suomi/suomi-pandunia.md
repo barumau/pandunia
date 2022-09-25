@@ -834,7 +834,7 @@ ihmeellinen (ällistyttävä, merkillinen) - ajabu di
 ihmetellä (olla ihmeissään) - be ajabu  
 ihmetys (hämmästys) - ajabu  
 ihminen - insan  
-ihmiset (passiivin pronomini) - men  
+ihmiset (yleisen persoonan pronomini) - jen (jen men)  
 ihmiskunta - insan jong  
 ihmisoikeudet - insan haki  
 ikkuna - janela  
@@ -1833,7 +1833,7 @@ läntinen - veste di
 läpi - tra  
 läpikulku (kuljetus) - trapas  
 läpikäydä (passiivin muodostava verbi) - be  
-läpileikkaus - tomigrafi  
+läpileikkaus - tomi grafi  
 läsnä oleva - zai di  
 läsnäolo - zaita  
 lätty (räiskäle, pannukakku) - krepe  
@@ -2053,7 +2053,7 @@ monarkki (kuningas, kuningatar) - raja
 monenlainen - vari  
 mongoli - mongol di  
 Mongolia - Mongol  
-moni (usea) - multi  
+moni (monta) - men  
 monijumalisuus (panteismi) - pan deu sim  
 monikansallinen - poli nasi di  
 monikielinen - poli baxa di  
@@ -2061,13 +2061,13 @@ monikielinen - polibaxaka
 monikulmio (polygoni) - poli gona  
 monimerkityksinen (polyseeminen) - poli semi di  
 monimerkityksinen - poli semi di  
-moninkertainen - multipli  
+moninkertainen - polipli  
 monismi - un xe sim  
 monitahoinen (monipuolinen) - disversi  
 monitahokas - poli fase  
 monokkeli - un yen di lense  
 monoteismi (yksijumalisuus) - un deu sim  
-montako? (paljonko?) - ke multi di  
+montako? (paljonko?) - ke poli di  
 Montenegro - cernagora  
 moottori - moto  
 moottoripyörä - moto sikle  
@@ -3541,7 +3541,7 @@ Tokio - Tokyo
 toksiini - bio toxi  
 toksikologia (myrkkyoppi) - toxilogi  
 tomaatti - tomate  
-tomografia (kerroskuvaus) - tomigrafi  
+tomografia (kerroskuvaus) - tomi grafi  
 Tonga - Tonga  
 tonni (1000 kg) - mega gram  
 tonnikala - tuna  
@@ -3990,7 +3990,7 @@ vuosisata - sento nen
 vuotaa - lou  
 vuotaa verta - lou sang  
 vyö - zona  
-väenpaljous - demi multita  
+väenpaljous - demi polita  
 väestö (kansa) - demi  
 väestötiede (demografia) - demi grafi  
 vähemmistö - min di fen  

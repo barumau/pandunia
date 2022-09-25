@@ -1020,7 +1020,7 @@ curva - kurva
 curvo - kurva di  
 cuál cosa - ke xe  
 cuándo - ke sata  
-cuántos - ke multi di  
+cuántos - ke poli di  
 cálamo - gana kalam  
 cálculo - kalkul  
 cámara - foto grafi gi  
@@ -2496,8 +2496,7 @@ movimiento - kino
 movimiento - move  
 Mozambique - Mozambike  
 mucho (muchos) - poli  
-muchos (múltiples) - ba  
-muchos - multi  
+muchos (múltiples) - men  
 mudar (mover, transferir, traspasar, trasladar, estimular, inspirar) - fa kino  
 mueca - grimas  
 muela - mol seku  
@@ -2510,7 +2509,7 @@ multiculturalismo - poli kultur sim
 multilingüe (plurilingüe) - poli baxa di  
 multilingüe (plurilingüe) - polibaxaka  
 multinacional - poli nasi di  
-multiplicar - fa multi  
+multiplicar - fa poli  
 mundo - dunia  
 murciélago - fei muxu  
 muro (muralha) - mur  
@@ -2532,7 +2531,7 @@ máximo - maxim xe
 México - Mehiko  
 mínimo - minim di  
 Mónaco - Monako  
-múltiple - multipli  
+múltiple - polipli  
 músculo - muskul  
 música - muzika  
 músico - muzika ja  
@@ -2646,7 +2645,6 @@ Níger - Nijer
 níquel - nikel  
 nómada - badavi  
 núcleo atómico - atom kerne  
-número (muchedumbre) - multita  
 número - nume  
 número de identificación personal - sekur nume  
 número entero - holo nume  
@@ -3706,7 +3704,7 @@ todo - pan
 Togo - Togo  
 tolerar - tolera  
 tomate - tomate  
-tomografía - tomigrafi  
+tomografía - tomi grafi  
 tonelada - mega gram  
 Tonga - Tonga  
 tono - ton  

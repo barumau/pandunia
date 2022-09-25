@@ -878,6 +878,7 @@ jeka da - prêter
 jeka na - empruntre  
 jelakan - prison (geôle)  
 jen - personne  
+jen (jen men) - on  
 • projete - projet  
 jete grafi - projeter (image projection)  
 jihade - lutte  
@@ -1220,7 +1221,6 @@ meitner yum - meitnérium
 meme kexa - laine  
 memo - mémoire  
 • anmemo - oublier  
-men - on  
 mendelef yum - mendélévium  
 meninge - méninge  
 meranti - balau (meranti)  
@@ -1269,7 +1269,6 @@ moto - moteur
 moto cati - capot  
 muka - visage  
 mula - racine  
-multipli - multiple  
 mur - mur  
 mur kaguji - papier peint  
 murce - fourmi  
@@ -1477,6 +1476,7 @@ platin - platine
 plumbe - plomb  
 pluton yum - plutonium  
 poli baxa di - plurilingue (multilingue)  
+polipli - multiple  
 Polinesi - Polynesie  
 politi - gouvernement  
 politi ja - administrateur  
@@ -1765,7 +1765,7 @@ tomate - tomate
 • dutomi - dichotomie  
 • jivatomi - vivisection  
 • tritomi - trichotomie  
-• tomigrafi - tomographie  
+• tomi grafi - tomographie  
 topo grafi - topographie  
 topo metre grafi - carte (plan)  
 tor yum - thorium  

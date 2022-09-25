@@ -41,7 +41,7 @@ It is done simply by inserting a number or a quantity word before the noun.
 – two sheep  
 **tri meme**
 – three sheep  
-**poli meme**
+**men meme**
 – many sheep
 
 **kursi**
@@ -52,19 +52,19 @@ It is done simply by inserting a number or a quantity word before the noun.
 – two chairs  
 **tri kursi**
 – three chairs  
-**poli kursi**
+**men kursi**
 – many chairs
 
 It is possible to specify plurality also by reduplication, by saying the noun two times.
 
 **ite ite**
 – stones and stones, a variety of stones  
-**buke buke**
+**buku buku**
 – books and books, a variety of books
 
 Quantity words should not be used together with reduplication.
 Therefore, a phrase like
-**poli buke buke**
+**men buku buku**
 is wrong.
 
 ### Proper names
@@ -100,8 +100,8 @@ and the words that come before it only modify the meaning.
 
 **sol foto**
 – sun light  
-**lun foto**
+**luna foto**
 – moon light  
-**lun ite**
+**luna ite**
 – moon stone
 

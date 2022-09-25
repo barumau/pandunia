@@ -240,7 +240,6 @@ aya|aya|||por:aia, hin:आया (āyā), tel:ఆయా (āyā) + zho:阿姨 (ā
 ayo|ayo|||fra:aïe, spa:ay, por:ai, rus:ай (ay), fas: آی‎ (ây), zho:哎哟 (āiyō), kor:아야 (aya), tel:అయ్యో (ayyō), tam:ஐயோ (aiyō)|ouch (expressing pain, distress, shock and fear)||aïe!|ay!|ai!|||||||||||哎哟||痛い|아야||aj (alas)|oi! (ai, oijoi)|aj!, ał!
 Azerbaijan|Azerbaijan|dexa|AZ||Azerbaijan||Azerbaijan|Azerbaiyán||||||||||||||||||Azerbaidžan|Azerbejdżan
 B|B||||B||B|B|B|B||B|B||B|B|B|B||B||B|B|B|B|B|B
-ba|ba||||many (multiple, several)|||muchos (múltiples)|||||||||||||||||||
 babu|babu|||ara:fas:urd: بَاب‎ (bāb), may:bab, swa:babu|chapter (section)||chapitre|capítulo (sección)||глава|||||bab|(بَاب‎) فَصْل‎|bölüm|babu (sura)||章|||||ĉapitro|luku (kirjan osa)|rozdział, sekcja
 babuce|babuce|||ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|slipper||pantoufle (babouche)|chinelo (pantufa)|||||||||||||||||pantoflo|tohveli|kapeć (papeć, bambosz)
 babul|babul|bio|Vachellia|hin:बबूल (babūl), ben:বাবলা (bābalā), eng:babul|thorn tree (acacia, wattle)||vachellia|||вахелия||||||||||||||||palloakaasia|
@@ -763,7 +762,7 @@ demi.grafi|demi grafi||||demography|||demografía|||||||||||||||||demografio|vä
 demi.krati|demi krati||||democracy|||democracia|||||||||||||||||demokratio|demokratia|demokracja
 demi.krati.di|demi krati di||||democratic|||democrático|||||||||||||||||demokratia|demokraattinen|demokratyczny
 demi.krati.ja|demi krati ja||||democrat|||demócrata||||||||||||||||||demokraatti|demokrata
-demi.multi.ta|demi multita||||population|||||||||||||||||||||väenpaljous|populacja
+demi.poli.ta|demi polita||||population|||||||||||||||||||||väenpaljous|populacja
 demon|demon|||eng:tur:demon, spa:demonio, por:demônio, fra:démon, deu:Dämon, rus:демон (demon)|demon|||demonio||||||||||||||悪魔|||demono|demoni (piru)|demon
 den|den|||rus:день (deń), hin:दिन (din), ben:দিন (din) + zho:天 (tiān), yue:天 (tin1)|day (24 hours)|||día (24 horas)|dia (24 horas)|день (сутки)||दिन|||hari|يَوْم‎|gün|siku||日 (天)||日|낮 (하루)|ngày|tago (periodo de 24 horoj)|päivä (vuorokausi)|
 den.1|den un||||Monday||lundi|lunes|segunda-feira|понедельник||सोमवार|সোমবার||senin|يوم الإثنين|pazartesi|jumatatu||星期一 (禮拜一)||月曜日|월요일|thứ hai|luno|maanantai|poniedziałek
@@ -1151,7 +1150,6 @@ fa.ming|fa ming||||brighten|||iluminar||||||||||||||||||kirkastaa (valaista)|roz
 fa.minim|fa minim||||minimize|||||||||||||||||||||minimoida|zminimalizować
 fa.model|fa model||||model (design)|||modelo||||||||||||||||||mallintaa|modelować (projektować, zaprojektować)
 fa.mol|fa mol||||grind (grind in mill)||moudre|moler (pulverizar)|moer|молоть||||||||||||||||jauhaa|zemleć (mleć, mielić)
-fa.multi|fa multi||||multiply|||multiplicar|||||||||||||||||||podwoić
 fa.muzika|fa muzika||||play music|||tocar música||||||||||||||||||soittaa (musisoida)|grać muzykę
 fa.nafas|fa nafas||||breathe|||respirar|||||||||||||||||||
 fa.nahun|fa nahun||||claw (scratch)|||arañar|||||||||||||||||||
@@ -1185,6 +1183,7 @@ fa.piping|fa piping|||zho:批评 (pīpíng), vie:phê bình, kor:비평 (bipyeon
 fa.pix|fa pix||||piss (urinate)|||mear|||||||||||||||||pisi (urini)|virtsata (kusta)|sikać, szczać, oddawać mocz
 fa.plan|fa plan||||intend (plan)|||planear (tener pensado)||||||||||||||||||suunnitella|planować
 fa.plasti|fa plasti||||mold (shape)||modeler|moldear (modelar)|moldar (modelar)|лепить||||||||||||||||muovata (muovailla)|
+fa.poli|fa poli||||multiply|||multiplicar|||||||||||||||||||podwoić
 fa.politi|fa politi||||administer (govern)|||gobernar||||||||||||||治める (司る)||||hallita (hallinnoida)|rządzić
 fa.pos|fa pos||||follow (come after)||suivre|seguir|||||||||||||||||sekvi|seurata (tulla perässä, tulla jäljessä)|podążać
 fa.posta|fa posta||||mail (send by mail)|||eviar por correo||||||||||kuposti||||||||postittaa|nadać, wysłać pocztą
@@ -1955,6 +1954,7 @@ jela.kan|jelakan||||prison (jail)||prison (geôle)|cárcel||||कारागा
 jele|jele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)|||gel (jalea, gelatina)|||||||||||||||||ĝelo|hyytelö|żel, galareta
 jelosi|jelosi|||eng:jealous, spa:celoso, fra:jaloux|jealous|||celoso (envidioso)||||||||||||||||||kade (kateellinen)|zazdrosny
 jen|jen|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|person (individual, -ist, -er)||personne|persona (ista, -ador)|pessoa|||||||||||人||人 (者, 員, 徒)|||persono|henkilö|osoba
+jen.|jen (jen men)||||one (impersonal pronoun: people, you)|man|on|||||||||||||||||||ihmiset (yleisen persoonan pronomini)|
 jen.di|jen di||||personal (intimate, private, custom)|||personal (privado, a medida)||||||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
 jenxen|jenxen|bine|Panax|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|ginseng|||ginseng||||||||||||||||||ginseng|żeń-szeń
 Jerze|Jerze|dexa|JE||Jersey|||Jersey||||||||||||||||||Jersey|Jersey
@@ -2165,7 +2165,7 @@ kavai|kavai|||jpn:可愛い (kawaii), kor:카와이 (kawai), eng:kawaii|cute (sw
 ke|ke|||fra:que, spa:qué, por:o que + ben:কে (ke) + zho:何 (hé)|what?||que (quoi)|qué|o que|что||क्या|||apa||ne|nini||什么||何|||kio?|mikä? (mitä?)|co?
 ke.jen|ke jen||||who?||qui|quién|quem|кто|||||siapa||kim|nani||||誰|||kiu?|kuka?|co?
 ke.loka|ke loka||||where?||où|dónde|onde|где|||||mana||nerede|wapi||||どこ|||kie?|jossa?|gdzie?
-ke.multi.di|ke multi di||||how many?|||cuántos|||||||||||||||||kiom?|montako? (paljonko?)|ile?
+ke.poli.di|ke poli di||||how many?|||cuántos|||||||||||||||||kiom?|montako? (paljonko?)|ile?
 ke.riti|ke riti||||how?||comment|cómo|como|как||कैसे|কিভাবে||bagaimana||nasıl|-je||怎么||どのように|어떻게||kiel?|miten?|kiedy?
 ke.sata|ke sata||||when?||quand|cuándo|quando|когда|||||kapan||ne zaman|lini||||何時|||kiam?|milloin? (koska?)|zapytać, pytać
 ke.xe|ke xe||||what thing?|||cuál cosa||||||||||||||何事|||kio?|mikä? (mitä?)|jak?
@@ -2703,7 +2703,7 @@ memo-an|• anmemo||||forget||oublier|olvidar|esquecer|забывать||भू�
 memo.bina|memo bina||||monument (memorial)|||monumento||||||||||||||追悼塔 (碑)|||||pomnik (memoriał)
 memo.note|memo note||||memorandum (memo)|||memorándum (nota)||меморандум||||||||||||||||muistio (muistiinmerkintä)|notatka, memo
 memo.tehni|memo tehni||||mnemotechny|||||||||||||||||||||muistitekniikka|
-men|men|||eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen|one (people, you)||on|||||||||||||||||||ihmiset (passiivin pronomini)|
+men|men|||zho:们 (men), yue:們 (mun4) + eng:many + kor:많- (man-)|many (plural)|||muchos (múltiples)||||||||||||||||||moni (monta)|
 mendelef.yum|mendelef yum|yum 101|Md|eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم|mendelevium||mendélévium|mendelevio|mendelévio|менделевий||मेण्डेलीवियम|মেন্ডেলিভিয়াম||mendelevium|مندلفيوم|mendelevyum|mendelevi||钔||メンデレビウム|멘델레븀|menđelevi||mendelevium|
 meninge|meninge|||eng:meninx, spa:por:meninge, fra:méninge|meninx (meninges)||méninge|meninge|meninge|||||||||||脑脊膜||||||aivokalvo|opona mózgowa
 meninge.tis|meninge tis||||meningitis|||meningitis||||||||||||||||||aivokalvontulehdus|zapalenie opon mózgowych
@@ -2836,9 +2836,6 @@ mudan|mudan||biwe|zho:牡丹 (mǔdān), kor:모란 (moran), jpn:(botan), vie:m�
 muka|muka|||ben:মুখ (mukh), hin:मुख (mukh), tam:முகம் (mukam), tel:(mukhamu), may:muka, tgl:mukha|face||visage|cara (rosto)|||||||muka||||||||||vizaĝo|kasvot (naama)|twarz
 muka.fun|muka fun||||face powder|||polvo de cara||||||||||||||||||puuteri|puder
 mula|mula|||hin:mar:मूल (mūl), ben:মূল (mūl), tel:మూలము (mūlamu), may:tgl:mula, khm:មូល (mul), mya:မူလ (mula), tha:มูล (mun)|root||racine|raíz|raíz|корень||मूल (जड़)|মূল||akar|جَذْر|kök|mzizi||根||根|뿌리|rễ|radiko|juuri|korzeń
-multi|multi|||por:muito, eng:fra:spa:multi-, rus:мульти- (mulʹti-)|many (much)|||muchos||||||||||||||多い||||moni (usea)|wiele
-multi.pli|multipli||||multiple||multiple|múltiple|múltiplos|||||||||||||||||moninkertainen|
-multi.ta|multita||||number (abundance)|||número (muchedumbre)|||||||||||||||||||liczność (mnóstwo)
 mum|mum|||tur:mum, fas:(mum), hin:मोम (mom), ben:মোম (mom)|wax|||cera (lacre)||||||||||||||||||vaha|wosk
 mum.cape|mum cape||||wax seal|||||||||||||||封印||||||sinetti|pieczęć woskowa
 mum.foto|mum foto||||candle|||vela (candela, cirio)|||||||||||||||||kandelo|kynttilä|świeca
@@ -3303,8 +3300,9 @@ poli.kultur.di|poli kultur di||||multicultural|||multicultural||||||||||||||||||
 poli.kultur.sim|poli kultur sim||||multiculturalism|||multiculturalismo|||||||||||||||||||wielokulturowość
 poli.mar.ta|poli marta||||frequency|||frecuencia||||||||||||||||||taajuus (tiheys)|częstotliwość
 poli.nasi.di|poli nasi di||||multinational|||multinacional||||||||||||||||||monikansallinen|wielonarodowy
+poli.pli|polipli||||multiple||multiple|múltiple|múltiplos|||||||||||||||||moninkertainen|
 poli.semi.di|poli semi di||||ambiguous|||ambiguo||||||||||||||||||monimerkityksinen|wieloznaczny
-poli.ta|polita||||amount (quantity)|||cantidad|||||||||||||||||||ilość
+poli.ta|polita||||amount (quantity)|||cantidad|||||||||||||||||||ilość(mnóstwo)
 Polinesi|Polinesi||||Polynesia||Polynesie|Polinesia|Polinésia|Полинезия||||||||||波利尼西亚||ポリネシア|폴리네시아||||
 polis|polis|||eng:fra:police, por:polícia, spa:policía, rus:полиция (policija), tur:may:polis, swa:polisi, ara:بُولِيس‎ (būlīs), hin:पोलिस (polis), ben:পুলিশ (puliś)|police|||policía||||||||||||||||||poliisi|policja
 polis.ja|polis ja||||police officer|||policía||||||||||||||||||poliiisi (poliisimies)|oficer policji, policjant
@@ -4020,8 +4018,8 @@ tomi-an.bil|• antomibil||||indivisible||||||||||||||||||||||
 tomi-du|• dutomi||||dichotomy||dichotomie|dicotomía|dicotomia|дихотомия|||||||||||||||diĥotomio|kahtiajako (dikotomia)|dychotomia
 tomi-jiva|• jivatomi||||vivisection||vivisection|vivisección|vivisecção|вивисекция||||||||||活体解剖||生体解剖|생체 해부||vivisekcio|vivisektio (elävältäleikkaus)|wiwisekcja
 tomi-tri|• tritomi||||trichotomy||trichotomie|||трихотомия||||||||||||三分法||||kolmijako|
-tomi.grafi|• tomigrafi||||tomogram|||||||||||||||||||||läpileikkaus|
-tomi.grafi|• tomigrafi||||tomography||tomographie|tomografía|tomografia|томография||||||||||||トモグラフィー||||tomografia (kerroskuvaus)|tomografia
+tomi.grafi|• tomi grafi||||tomogram|||||||||||||||||||||läpileikkaus|
+tomi.grafi|• tomi grafi||||tomography||tomographie|tomografía|tomografia|томография||||||||||||トモグラフィー||||tomografia (kerroskuvaus)|tomografia
 ton|ton|||eng:tone, swa:kitone, rus:тон (ton), deu:Ton, spa:tono|tone (note, pitch, shade)|||tono|||||||||||||||||tono|sävel (sävy)|ton, dźwięk, nuta, tonacja
 tong|tong|||zho:桶 (tǒng), khm:តុង (tong), tha:ถัง (tǎng), kor:통 (tong), vie:thùng, may:tong, + fra:tonneau, spa:tonel, ned:ton|barrel (can, cask)|||barril (tonel)||||||||||||||||||tynnyri (tölkki)|beczka
 Tonga|Tonga|dexa|TO||Tonga|||Tonga||||||||||||||||||Tonga|Tonga

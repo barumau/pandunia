@@ -1047,7 +1047,7 @@ média (mídia) - media
 mês - mes  
 mímico - mime ja  
 mó - mol seku  
-múltiplos - multipli  
+múltiplos - polipli  
 música - muzika  
 
 ## N  
@@ -1556,7 +1556,7 @@ titânio - titan yum
 toalha - tuale  
 toalha de mesa - meza tela  
 tomate - tomate  
-tomografia - tomigrafi  
+tomografia - tomi grafi  
 topografia - topo grafi  
 tora - moka tana  
 toranja - putau oranje  

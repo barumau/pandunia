@@ -1649,7 +1649,7 @@ tomate - помидор (томат)
 • dutomi - дихотомия  
 • jivatomi - вивисекция  
 • tritomi - трихотомия  
-• tomigrafi - томография  
+• tomi grafi - томография  
 topo grafi - топография  
 topo metre grafi - карта (план)  
 tor yum - торий  

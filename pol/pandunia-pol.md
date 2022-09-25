@@ -243,7 +243,6 @@ Azerbaijan - Azerbejdżan
 
 ## B  
 
-ba -   
 babu - rozdział, sekcja  
 babuce - kapeć (papeć, bambosz)  
 babul -   
@@ -770,7 +769,7 @@ demi grafi - demografia
 demi krati - demokracja  
 demi krati di - demokratyczny  
 demi krati ja - demokrata  
-demi multita - populacja  
+demi polita - populacja  
 demon - demon  
 den -   
 den un - poniedziałek  
@@ -1162,7 +1161,6 @@ fa ming - rozjaśnić
 fa minim - zminimalizować  
 fa model - modelować (projektować, zaprojektować)  
 fa mol - zemleć (mleć, mielić)  
-fa multi - podwoić  
 fa muzika - grać muzykę  
 fa nafas -   
 fa nahun -   
@@ -1196,6 +1194,7 @@ fa piping - ocenić, oceniać, recenzować, komentować, krytykować
 fa pix - sikać, szczać, oddawać mocz  
 fa plan - planować  
 fa plasti -   
+fa poli - podwoić  
 fa politi - rządzić  
 fa pos - podążać  
 fa posta - nadać, wysłać pocztą  
@@ -1973,6 +1972,7 @@ jelakan - więzienie, zakład karny
 jele - żel, galareta  
 jelosi - zazdrosny  
 jen - osoba  
+jen (jen men) -   
 jen di - osobisty, intymny, prywatny  
 jenxen - żeń-szeń  
 Jerze - Jersey  
@@ -2185,7 +2185,7 @@ kavai - uroczy, słodki
 ke - co?  
 ke jen - co?  
 ke loka - gdzie?  
-ke multi di - ile?  
+ke poli di - ile?  
 ke riti - kiedy?  
 ke sata - zapytać, pytać  
 ke xe - jak?  
@@ -2858,9 +2858,6 @@ mudan - piwonia
 muka - twarz  
 muka fun - puder  
 mula - korzeń  
-multi - wiele  
-multipli -   
-multita - liczność (mnóstwo)  
 mum - wosk  
 mum cape - pieczęć woskowa  
 mum foto - świeca  
@@ -3330,8 +3327,9 @@ poli kultur di - wielokulturowy
 poli kultur sim - wielokulturowość  
 poli marta - częstotliwość  
 poli nasi di - wielonarodowy  
+polipli -   
 poli semi di - wieloznaczny  
-polita - ilość  
+polita - ilość(mnóstwo)  
 Polinesi -   
 polis - policja  
 polis ja - oficer policji, policjant  
@@ -4052,8 +4050,8 @@ tomi -
 • dutomi - dychotomia  
 • jivatomi - wiwisekcja  
 • tritomi -   
-• tomigrafi -   
-• tomigrafi - tomografia  
+• tomi grafi -   
+• tomi grafi - tomografia  
 ton - ton, dźwięk, nuta, tonacja  
 tong - beczka  
 Tonga - Tonga  

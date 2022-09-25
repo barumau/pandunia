@@ -1900,7 +1900,7 @@ hospital - patikan
 hotel - hotel  
 hour - hor  
 housefly - dom zeze  
-how many? - ke multi di  
+how many? - ke poli di  
 how? - ke riti  
 howl - fa ulul  
 howling - ulul  
@@ -2411,9 +2411,8 @@ mankind (humanity) - insan jong
 mantra (chant) - mantra  
 manual - hande di  
 manufacturing (production, industry) - sana  
-many (much) - multi  
 many (much, more than one) - poli  
-many (multiple, several) - ba  
+many (plural) - men  
 map (chart) - karta  
 map (chart, geographic map) - topo metre grafi  
 Marathi - marati  
@@ -2631,8 +2630,8 @@ multiculturalism - poli kultur sim
 multilingual - poli baxa di  
 multilingual - polibaxaka  
 multinational - poli nasi di  
-multiple - multipli  
-multiply - fa multi  
+multiple - polipli  
+multiply - fa poli  
 Mumbai (Bombay) - Mumbai  
 mummy - mum jen  
 muscle - muskul  
@@ -2775,7 +2774,6 @@ nuclear physics - kerne fizika
 nuclear weapon (nuke) - kerne vuki  
 nudism - nude sim  
 nudist - nude sim ja  
-number (abundance) - multita  
 number - nume  
 nylon - nilon  
 
@@ -2825,7 +2823,7 @@ on behalf of - a vakil de
 once (one time) - un mar  
 oncilla - bagre oselote  
 one (1) - un  
-one (people, you) - men  
+one (impersonal pronoun: people, you) - jen (jen men)  
 onion - piaze  
 online - a lin  
 only (single, sole, lone, just) - un di  
@@ -3143,7 +3141,7 @@ ponder (think, contemplate, consider, regard) - hem
 pool (basin, bowl) - basen  
 poor (miserable) - miskin  
 popular (trendy) - faxon di  
-population - demi multita  
+population - demi polita  
 porcelain (chinaware) - cini  
 pork - goro nama  
 porn - porno  
@@ -4126,8 +4124,8 @@ Tokyo - Tokyo
 tolerate - tolera  
 tomato - tomate  
 tombstone (gravestone) - gabur seku  
-tomogram - tomigrafi  
-tomography - tomigrafi  
+tomogram - tomi grafi  
+tomography - tomi grafi  
 tomorrow - pos den  
 tone (note, pitch, shade) - ton  
 Tonga - Tonga  

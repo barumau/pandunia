@@ -1153,7 +1153,7 @@ moustique - moski
 mouvoir (bouger) - fa kino  
 moyen - medi di  
 mule - iha uma  
-multiple - multipli  
+multiple - polipli  
 mur - mur  
 musique - muzika  
 musli - musli  
@@ -1244,7 +1244,7 @@ oie - ganse
 oignon - piaze  
 oiseau - paci  
 ombrelle (parasol) - sol cati  
-on - men  
+on - jen (jen men)  
 oncille - bagre oselote  
 onde - onda  
 option - cunbil  
@@ -1774,7 +1774,7 @@ toilette (cabinet, waters) - tuale kamar
 toit - cati  
 tomate - tomate  
 tombe (enterrer) - gabur  
-tomographie - tomigrafi  
+tomographie - tomi grafi  
 topinambour - masa mula sol hua  
 topographie - topo grafi  
 tortue - tortuga  

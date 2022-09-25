@@ -1081,7 +1081,6 @@ moto - モーター (エンジン, 機関)
 moto cati - ボンネット (フード)  
 moto sikle - オートバイ (モーターサイクル)  
 mula - 根  
-multi - 多い  
 mum melon - トウガン  
 mun - 門  
 mur - 壁  
@@ -1504,7 +1503,7 @@ to misal - 例えば
 Tokyo - 東京  
 • jivatomi - 生体解剖  
 • tritomi - 三分法  
-• tomigrafi - トモグラフィー  
+• tomi grafi - トモグラフィー  
 topo grafi - 地勢  
 tor yum - トリウム  
 toxi - 毒  

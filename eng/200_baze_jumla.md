@@ -498,7 +498,7 @@ Would you like to eat something?
 **ya yam un aple.**
 He/she eats an apple.
 
-**yamen yam ba aple.**
+**yamen yam aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.

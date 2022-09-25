@@ -224,7 +224,6 @@ Azerbaijan - Azerbaiyán
 
 ## B  
 
-ba - muchos (múltiples)  
 babu - capítulo (sección)  
 babuce - chinelo (pantufa)  
 baca - niño o niña  
@@ -1017,7 +1016,6 @@ fa min rai - subestimar
 fa ming - iluminar  
 fa model - modelo  
 fa mol - moler (pulverizar)  
-fa multi - multiplicar  
 fa muzika - tocar música  
 fa nafas - respirar  
 fa nahun - arañar  
@@ -1048,6 +1046,7 @@ fa piping - criticar (evaluar)
 fa pix - mear  
 fa plan - planear (tener pensado)  
 fa plasti - moldear (modelar)  
+fa poli - multiplicar  
 fa politi - gobernar  
 fa pos - seguir  
 fa posta - eviar por correo  
@@ -1918,7 +1917,7 @@ kavai - lindo (precioso)
 ke - qué  
 ke jen - quién  
 ke loka - dónde  
-ke multi di - cuántos  
+ke poli di - cuántos  
 ke riti - cómo  
 ke sata - cuándo  
 ke xe - cuál cosa  
@@ -2393,6 +2392,7 @@ memo - memoria
 • anmemo - olvidar  
 memo bina - monumento  
 memo note - memorándum (nota)  
+men - muchos (múltiples)  
 mendelef yum - mendelevio  
 meninge - meninge  
 meninge tis - meningitis  
@@ -2520,9 +2520,6 @@ mudan - peonía
 muka - cara (rosto)  
 muka fun - polvo de cara  
 mula - raíz  
-multi - muchos  
-multipli - múltiple  
-multita - número (muchedumbre)  
 mum - cera (lacre)  
 mum foto - vela (candela, cirio)  
 mum jen - momia  
@@ -2943,6 +2940,7 @@ poli kultur di - multicultural
 poli kultur sim - multiculturalismo  
 poli marta - frecuencia  
 poli nasi di - multinacional  
+polipli - múltiple  
 poli semi di - ambiguo  
 polita - cantidad  
 Polinesi - Polinesia  
@@ -3585,7 +3583,7 @@ tolera - tolerar
 tomate - tomate  
 • dutomi - dicotomía  
 • jivatomi - vivisección  
-• tomigrafi - tomografía  
+• tomi grafi - tomografía  
 ton - tono  
 tong - barril (tonel)  
 Tonga - Tonga  

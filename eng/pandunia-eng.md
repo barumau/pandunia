@@ -278,7 +278,6 @@ Azerbaijan - Azerbaijan
 
 ## B  
 
-ba - many (multiple, several)  
 babu - chapter (section)  
 babuce - slipper  
 babul - thorn tree (acacia, wattle)  
@@ -805,7 +804,7 @@ demi grafi - demography
 demi krati - democracy  
 demi krati di - democratic  
 demi krati ja - democrat  
-demi multita - population  
+demi polita - population  
 demon - demon  
 den - day (24 hours)  
 den un - Monday  
@@ -1197,7 +1196,6 @@ fa ming - brighten
 fa minim - minimize  
 fa model - model (design)  
 fa mol - grind (grind in mill)  
-fa multi - multiply  
 fa muzika - play music  
 fa nafas - breathe  
 fa nahun - claw (scratch)  
@@ -1231,6 +1229,7 @@ fa piping - evaluate (review, criticise)
 fa pix - piss (urinate)  
 fa plan - intend (plan)  
 fa plasti - mold (shape)  
+fa poli - multiply  
 fa politi - administer (govern)  
 fa pos - follow (come after)  
 fa posta - mail (send by mail)  
@@ -2008,6 +2007,7 @@ jelakan - prison (jail)
 jele - gel (jelly)  
 jelosi - jealous  
 jen - person (individual, -ist, -er)  
+jen (jen men) - one (impersonal pronoun: people, you)  
 jen di - personal (intimate, private, custom)  
 jenxen - ginseng  
 Jerze - Jersey  
@@ -2220,7 +2220,7 @@ kavai - cute (sweet)
 ke - what?  
 ke jen - who?  
 ke loka - where?  
-ke multi di - how many?  
+ke poli di - how many?  
 ke riti - how?  
 ke sata - when?  
 ke xe - what thing?  
@@ -2760,7 +2760,7 @@ memo - memory (recollection)
 memo bina - monument (memorial)  
 memo note - memorandum (memo)  
 memo tehni - mnemotechny  
-men - one (people, you)  
+men - many (plural)  
 mendelef yum - mendelevium  
 meninge - meninx (meninges)  
 meninge tis - meningitis  
@@ -2892,9 +2892,6 @@ mudan - peony
 muka - face  
 muka fun - face powder  
 mula - root  
-multi - many (much)  
-multipli - multiple  
-multita - number (abundance)  
 mum - wax  
 mum cape - wax seal  
 mum foto - candle  
@@ -3365,6 +3362,7 @@ poli kultur di - multicultural
 poli kultur sim - multiculturalism  
 poli marta - frequency  
 poli nasi di - multinational  
+polipli - multiple  
 poli semi di - ambiguous  
 polita - amount (quantity)  
 Polinesi - Polynesia  
@@ -4088,8 +4086,8 @@ tomi - split (dissect)
 • dutomi - dichotomy  
 • jivatomi - vivisection  
 • tritomi - trichotomy  
-• tomigrafi - tomogram  
-• tomigrafi - tomography  
+• tomi grafi - tomogram  
+• tomi grafi - tomography  
 ton - tone (note, pitch, shade)  
 tong - barrel (can, cask)  
 Tonga - Tonga  
