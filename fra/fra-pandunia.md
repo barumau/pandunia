@@ -210,6 +210,7 @@ bain - banya
 baisser - fa dipe  
 balai - jaru  
 balance (poids) - veze metre gi  
+balau (meranti) - meranti  
 balcon - veranda  
 balle (boule) - bol  
 ballon - balon  
@@ -701,7 +702,7 @@ failli - banka rute
 faim - yam yau  
 faire (fait) - fete  
 faire - fa  
-faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen xin  
+faire confiance (espérer, croire qqn./qqch., avoir la foi) - amen  
 faiseur (facteur) - feter  
 fait - fate  
 fan - fan  
@@ -719,7 +720,6 @@ fermium - fermi yum
 feu - hogo  
 feu d’artifice - hogo tehni  
 feuille - yepa  
-fiable (de confiance, fidèle, sûr, crédible) - amen xin di  
 fibre - lin so  
 fier - kredi  
 fil de fer - metal lin  
@@ -848,7 +848,6 @@ hockey - hoki
 hockey sur glace - ais hoki  
 holmium - holme yum  
 honneur - onor  
-honnête (sûr, crédible, sûrement) - amen  
 honorer - fa onor  
 horloge - hor loga gi  
 houblon - humel  
@@ -1029,6 +1028,7 @@ loup - volfe
 lourd - veze di  
 loutre - lotra  
 luisant (brillant) - foto mira di  
+lumen - lumen  
 lumière - foto  
 lumière du jour - dia foto  
 lundi - den un  
@@ -1376,7 +1376,7 @@ placard - almari
 place - medan  
 plaine - plate stan  
 plainte (lamentation) - xikaya  
-plaire - fa suka  
+plaire - sukafa  
 plan - plan  
 planche - moka bano  
 plante (végétal) - fito  
@@ -1503,7 +1503,7 @@ que (quoi) - ke
 que - ki  
 querelle (dispute, palabre) - palaba  
 question - sual  
-queue (côté ) - koda  
+queue - koda  
 qui - ke jen  
 
 ## R  
@@ -1710,6 +1710,7 @@ sémaphore - semi forar
 séminal - seme di  
 sénateur - supra vakil ja  
 série - seri  
+sûr (crédible, sûrement) - amen di  
 sûr - sekur  
 s’accroupir - lipa side  
 

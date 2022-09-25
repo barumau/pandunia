@@ -54,6 +54,7 @@ a re - taakse päin
 a ri - taas (uudestaan)  
 a sabu de - koska (johdosta, takia)  
 a supra - yllä (pääll)  
+a tema de - aiheesta (-sta)  
 a vai - ulkona (ulkopuolella)  
 a vakil de - puolesta  
 a vo - tuolla  
@@ -136,11 +137,10 @@ ama di - rakas (armas)
 ama ja - rakastaja  
 ama jen - kulta (rakas)  
 Amara - amhara (etiopialainen kansa ja kieli)  
-amen - rehellinen (totisesti, uskottavasti, aamen)  
+amen - luottaa (pitää varmana)  
 amenbil - luotettava  
 amenbilta - luotettavuus  
-amen xin - luottaa (uskoa)  
-amen xin di - varma  
+amen di - varma (luotettu)  
 Amerika - Amerikka  
 Amerika di - amerikkalainen  
 Amerika Samoa - Amerikan Samoa  
@@ -180,7 +180,7 @@ aple sos - omenasose
 aplika - soveltaa (sovellus)  
 aposum - pussirotta (opossumi)  
 Apsni - Abhaasia  
-arabi - arabialainen  
+arabi - Arabia (arabia; arabialainen)  
 araki - viina  
 arane - hämähäkki  
 arane fobi - araknofobia (hämähäkkikammo)  
@@ -353,7 +353,7 @@ bata krote - vesinokkaeläin
 bati - kahdeksan (8)  
 batri - akku (paristo)  
 bau - aarre  
-bau bei - rakas (rakkauskumppani)  
+bau bei - armas (rakas toveri)  
 bau di - arvokas  
 bau seku - jalokivi  
 baxa - puhua (kieli, kommunikaatio)  
@@ -1049,7 +1049,6 @@ fa fen do du - puolittaa (jakaa kahdella)
 fa fen gata - analysoida  
 fa festa - juhlia  
 fa fikir - ajatella (miettiä)  
-fa fili - tykätä (pitää)  
 fa fin - lopettaa  
 fa fixe - kiinnittää  
 fa fobi - pelottaa  
@@ -1226,13 +1225,11 @@ fa soni - ääntää
 fa sor - lukita  
 fa sosi - seurustella (toimia yhdessä)  
 fa sual - kysyä  
-fa suka - ilostuttaa (tyydyttää)  
 fa sultan - hallita (olla vallassa)  
 fa sum - ynnätä (summata)  
 fa tapa - korkittaa (tukkia)  
 fa tela - kutoa kangasta  
 fa tele fon - soittaa puhelimella  
-fa tema - aiheesta (-sta)  
 fa tense - kirentää (kiristää)  
 fa terca - panna vinoon  
 fa tese - väittää  
@@ -1280,7 +1277,6 @@ fanatija - fanaatikko
 fantazi - mielikuvitus (fantasia)  
 fantazi di - mielikuvituksekas (fantastinen)  
 fantom - kummitus (aave)  
-farsi - persia (farsi)  
 fase - pinta (tahko)  
 fase area - ala (pinta-ala)  
 fase tele - syvä  
@@ -2536,13 +2532,13 @@ memo - muisti
 memo note - muistio (muistiinmerkintä)  
 memo tehni - muistitekniikka  
 men - ihmiset (passiivin pronomini)  
-mena - nuudeli  
 mendelef yum - mendelevium  
 meninge - aivokalvo  
 meninge tis - aivokalvontulehdus  
 mentor - neuvontantaja (mentori)  
 mer - kuulua (olla jäsenenä)  
 mer - jäsen (osatekijä, komponentti)  
+meranti - merantipuu  
 Merkur - Merkurius  
 mes - kuukausi  
 mes bati - elokuu  
@@ -2574,6 +2570,7 @@ mimen - me
 mimen su - meidän  
 mi su - minun  
 Mianma - Myanmar (Burma)  
+mien - nuudeli  
 migra - muutto (migraatio)  
 mikro bio - mikrobi  
 mikro biologi - mikrobiologia  
@@ -2830,7 +2827,6 @@ nume - lukumäärä (luku, numero)
 ## O  
 
 o - tai (vai)  
-Oceania - Oseania  
 Odisa - orija (eräs intialainen kieli)  
 oganeson - oganesson  
 ohtopus - mustekala  
@@ -2857,6 +2853,7 @@ Oromo Dexa - Oromia
 orto - suora  
 orto gona - suorakulma (oikokulma)  
 orto gona di - suorakulmainen  
+Oseania - Oseania  
 oskope - katselulaite (skooppi)  
 oskur - pimeä (hämärä)  
 osman - osmani (ottomaani)  
@@ -2929,6 +2926,7 @@ pari dexa - satumaa (paratiisi)
 pari kata - satu  
 Paris - Pariisi  
 parke - tarha (puisto)  
+parsi - persia (farsi)  
 parti - joukko (joukkue, osapuoli, puolue)  
 parti cepe - osallistua  
 parti ceper - osallistuja  
@@ -3524,6 +3522,7 @@ sui sekur di - vesitiivis
 sui yau - jano  
 Suise - Sveitsi  
 suka - tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)  
+sukafa - ilostuttaa (tyydyttää)  
 sukar - sokeri  
 sukar di - sokerinen (makea)  
 sukar gana - sokeriruoko  
@@ -3927,7 +3926,7 @@ vol xe - halu (toive)
 volfe - susi (hukka)  
 volfram - volframi  
 Volof - wolofin kansa ja kieli  
-volte - voltti (V)  
+volta - voltti (V)  
 vote - ääni (äänestyksessä)  
 vote haki - äänioikeus  
 vuki - ase  

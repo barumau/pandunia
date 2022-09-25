@@ -15,6 +15,7 @@ a pos - estonte
 a ri - denove (ripete)  
 a sabu de - ĉar  
 a supra - super  
+a tema de - pri  
 a vai - ekster  
 a vakil de - anstataŭ  
 a vo - tie  
@@ -610,7 +611,6 @@ fa side - sidi
 fa sina - kreda  
 fa sual - demandi  
 fa tele fon - telefoni  
-fa tema - esti pri; pridiskuti  
 fa vai - krom (escepti)  
 fa vai klus - ekskludi  
 fa vanu - amuzi  
@@ -630,7 +630,6 @@ famili nam - familinomo
 fantazi - fantazio  
 fantazi di - fantazia  
 fantom - fantomo  
-farsi - persa  
 fase - surfaco  
 fase area - areo  
 fasil - facila  
@@ -1289,7 +1288,6 @@ melodi - melodio
 meme - ŝafo  
 memo - memoro  
 • anmemo - forgesi  
-mena - nudelo  
 mer - membro  
 meranti - ŝoreo  
 Merkur - Merkuro  
@@ -1306,6 +1304,7 @@ mimen - ni
 mimen su - nia  
 mi su - mia  
 Mianma - Birmo  
+mien - nudelo  
 migra - migrado  
 mikro - mikro-  
 mikro bio - mikrobo  
@@ -1453,7 +1452,6 @@ nume - nombro
 ## O  
 
 o - aŭ  
-Oceania - Oceanio  
 oganeson - oganesono  
 okebil - akceptebla  
 onda - ondo  
@@ -1469,6 +1467,7 @@ ordu raja - ĉefgeneralo
 ore - orelo  
 ore tis - otito  
 orto - rekta  
+Oseania - Oceanio  
 osmi yum - osmio  
 osmos - osmozo  
 oste - osto  
@@ -1506,6 +1505,7 @@ parde - kurteno
 pari - feo  
 pari kata - fabelo  
 parke - parko (ĝardeno)  
+parsi - persa  
 parti - partio  
 parti cepe - partopreni  
 pas - pasi  
@@ -1839,7 +1839,7 @@ tele fon gi - telefono
 tele vide gi - televidilo  
 teleskope - teleskopo  
 telu yum - teluro  
-tema - temo  
+tema - temo (esti pri; pridiskuti)  
 tenesi yum - teneso  
 tenis - teniso  
 teori - teorio  

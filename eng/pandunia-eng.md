@@ -56,6 +56,7 @@ a re - backward (in reverse)
 a ri - again (repeatedly)  
 a sabu de - because  
 a supra - above (over)  
+a tema de - about (concerning, on the topic of)  
 a vai - outside  
 a vakil de - on behalf of  
 a vo - there  
@@ -139,11 +140,10 @@ ama di - dear (beloved)
 ama ja - lover  
 ama jen - darling (honey)  
 Amara - Amhara (an Ethiopian ethnic group and language)  
-amen - honest (trustworthy, true; surely, verily, amen)  
-amenbil - loyal (faithful, trustworthy)  
+amen - trust (be sure of, have faith in)  
+amenbil - trustworthy (loyal, faithful)  
 amenbilta - loyalty (faithfulness)  
-amen xin - trust (have faith, rely)  
-amen xin di - trusted  
+amen di - sure (certain, trusted)  
 Amerika - America (continent)  
 Amerika di - American  
 Amerika Samoa - American Samoa  
@@ -184,7 +184,7 @@ aple sos - applesauce
 aplika - apply (put to use for a purpose; application)  
 aposum - opossum  
 Apsni - Abkhazia  
-arabi - Arabic  
+arabi - Arabia (Arab; Arabic)  
 arabi babul - babul tree (thorny acacia)  
 araki - liquor  
 arane - spider  
@@ -366,7 +366,7 @@ bata krote - platypus
 bati - eight (8)  
 batri - battery  
 bau - treasure (valuables)  
-bau bei - darling (love mate)  
+bau bei - darling (dear companion)  
 bau di - precious  
 bau seku - gem (gemstone, jewel)  
 baxa - speak (talk, language, communication)  
@@ -1098,7 +1098,6 @@ fa fen do du - halve (divide by two)
 fa fen gata - analyse (dissect, parse)  
 fa festa - celebrate (party)  
 fa fikir - think (ponder, reflect)  
-fa fili - like  
 fa fin - finish (complete, end)  
 fa fixe - fix (attach)  
 fa fobi - scare (frighten)  
@@ -1281,13 +1280,11 @@ fa soni - sound (make a sound)
 fa sor - lock (fasten)  
 fa sosi - socialize (interact)  
 fa sual - ask (inquire)  
-fa suka - please (satisfy, delight)  
 fa sultan - rule (be in charge)  
 fa sum - sum up (add together)  
 fa tapa - plug (stop with a plug)  
 fa tela - weave (knit)  
 fa tele fon - call on the phone  
-fa tema - be about (discuss as a subject)  
 fa tense - tighten  
 fa terca - tilt (skew)  
 fa tese - argue (claim)  
@@ -1337,7 +1334,6 @@ fanatija - fanatic (enthusiast(ic))
 fantazi - fantasy (imagination)  
 fantazi di - fantastic (imaginary)  
 fantom - ghost (phantom)  
-farsi - Persian (Farsi)  
 fase - surface (face)  
 fase area - area (extent of surface)  
 fase tele - deep  
@@ -2596,6 +2592,8 @@ luka fase - hexahedron (cube)
 luka gona - hexagon  
 lulu - pearl  
 lulu table - abacus  
+lume - shine  
+lumen - lumen  
 luna - moon  
 luna keke - mooncake  
 lung - dragon  
@@ -2659,7 +2657,7 @@ manioka fufu - tapioca
 mantol - cape (cloak, mantle)  
 mantra - mantra (chant)  
 mantu - steamed bun (mantou, manti)  
-mar - time (instance, occasion)  
+mar - time (number of times)  
 marati - Marathi  
 maraton - marathon  
 marce - walk (march)  
@@ -2758,7 +2756,6 @@ memo bina - monument (memorial)
 memo note - memorandum (memo)  
 memo tehni - mnemotechny  
 men - one (people, you)  
-mena - noodle  
 mendelef yum - mendelevium  
 meninge - meninx (meninges)  
 meninge tis - meningitis  
@@ -2802,6 +2799,7 @@ mimen - we
 mimen su - our  
 mi su - my  
 Mianma - Myanmar (Burma)  
+mien - noodle  
 migra - migration (moving)  
 mikro bio - microorganism (microbe)  
 mikro biologi - microbiology  
@@ -3101,7 +3099,6 @@ nume zi - digit (figure, numeral)
 
 o - or  
 Oberon - Oberon  
-Oceania - Oceania  
 Odisa - Odia (Oriya)  
 oganeson - oganesson  
 ohtopus - octopus  
@@ -3129,6 +3126,7 @@ Oromo Dexa - Oromia
 orto - straight  
 orto gona - right angle  
 orto gona di - orthogonal (perpendicular)  
+Oseania - Oceania  
 oselote - ocelot  
 osidian - obsidian  
 oskope - scope (viewer)  
@@ -3212,6 +3210,7 @@ pari kata - fairy tale
 Paris - Paris  
 parke - park (garden)  
 parne - fern  
+parsi - Persia (Persian; Farsi)  
 parti - party (group)  
 parti cepe - participate (attend, partake, take part)  
 parti ceper - participant  
@@ -3913,6 +3912,7 @@ sui sekur di - waterproof
 sui yau - thirst  
 Suise - Switzerland  
 suka - enjoy (like, be happy, be fond of; pleased, delighted, happy)  
+sukafa - please (satisfy, delight)  
 sukar - sugar  
 sukar bete - sugar beet  
 sukar di - sugary (sweet)  
@@ -4007,7 +4007,7 @@ tele vide gi - television
 teleskope - telescope  
 telu yum - tellurium  
 Telugu - Telugu  
-tema - topic (subject, theme)  
+tema - topic (subject, theme; be about)  
 tema nam - title (headline)  
 tene - hold (grasp, detain)  
 • intene - contain (include; content)  
@@ -4345,7 +4345,7 @@ vol xe - want (desire, wish)
 volfe - wolf  
 volfram - tungsten (wolfram)  
 Volof - Wolof (language and people)  
-volte - volt (V)  
+volta - volt (V)  
 vote - vote (ballot)  
 vote haki - franchise (right to vote)  
 vuki - weapon (arms)  

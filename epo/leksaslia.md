@@ -29,7 +29,7 @@
 **alumin** *aluminio* ← angla:aluminium, franca:aluminium, hispana:aluminio, portugala:alumínio, rusa:алюминий, mandarena:铝 (lǚ), japana:アルミニウム, korea:알루미늄, vjetnama:nhốm, hindia:एल्युमिनियम, bengala:অ্যালুমিনিয়াম, malaja:aluminium, svahila:alumini, araba: الومينيوم  
 **ama** *amo* ← hispana:portugala:amar, franca:aimer  
 **ama** *sed* ← araba: أما‎ (ʔamma), turka:ama, persa:urdua:اما‎ (ammâ), haŭsa:amma, joruba:àmọ́  
-**amen** ** ← heb: אָמֵן‎, (ʾāmēn), araba: آمین‎, (āmīna), svahila:amina, amini, turka:amin + greka:ἀμήν (ámén), angla:deu:franca:polona:hispana:amen, mandarena:阿门 (āmén), korea:아멘 (amen), japana:アーメン (āmen), vjetnama:a-men  
+**amen** ** ← heb: אָמֵן‎, (ʾāmēn), araba: آمَنَ‎ (āmana), svahila:amini, turka:amin + greka:ἀμήν (ámén), angla:deu:franca:polona:hispana:amen, mandarena:阿门 (āmén), korea:아멘 (amen), japana:アーメン (āmen), vjetnama:a-men  
 **amerika yum** *americio* ← angla:americium, franca:américium, hispana:americio, portugala:amerício, rusa:америций, mandarena:镅 (méi), japana:アメリシウム, korea:아메리슘, vjetnama:amerixi, hindia:अमेरिशियम, bengala:অ্যামেরিসিয়াম, malaja:amerisium, svahila:ameriki, araba: أمريكيوم  
 **Amerika** *Ameriko* ← angla:America, hispana:portugala:América, rusa:Америка (Amerika), turka:svahila:malaja:Amerika, araba:أمريكا‎ (ʾamrīkā), hindia:अमेरिका (amerikā), bengala:আমেরিকা (amerika), japana:アメリカ (amerika)  
 **amir** *ordono* ← araba: أَمْر‎ (ʾamr), persa: امر‎ (amr), turka:emir, svahila:amiri, haŭsa:umarni + angla:admiral, franca:amiral, hispana:portugala:emir rusa:эмир (emir)  
@@ -762,7 +762,7 @@
 **koda** *vosto* ← angla:coda, hispana:coda,cola, portugala:cauda, franca:côté, japana:コーダ (kōda)  
 **kode** *kodo* ← angla:code, hispana:portugala:código, ru:код, persa:کد‎ (kod), hindia:कोड (koḍ), japana:コード (kōdo)  
 **koka** ** ← hispana:angla:coca, rusa:кока (koka), turka:koka, mandarena:古柯 (gǔké)  
-**koko** *koko* ← franca:coq, angla:cock, polona:kogut, guĝarata:કૂકડો (kūkḍo), + svahila:kuku, zulua:inkukhu,igba:Ọkụkọ + (onom,) itala:coccodè, japana:コッコッ (kokko), persa:(qod-qod-qodās), rusa:куд-куда, hindia:कुटकुटा (kutkutā)  
+**koko** *koko* ← franca:coq, angla:cock, polona:kogut, guĝarata:કૂકડો (kūkḍo) + svahila:kuku, zulua:inkukhu, igba:Ọkụkọ + (onom.) itala:coccodè, japana:コッコッ (kokko), persa:(qod-qod-qodās), rusa:куд-куда, hindia:कुटकुटा (kutkutā)  
 **kola** ** ← angla:hispana:cola, rusa:кола (kola), hindia:कोला (kolā), japana:コラ (kora), svahila:mkola, haŭsa:gworo  
 **koloni** ** ← angla:colony, hispana:colonia, portugala:colônia, rusa:колония (koloniya), turka:ma:koloni, hindia:कॉलोनी (kŏlonī), japana:コロニー  
 **kolum** *kolono* ← angla:column, franca:colonne, hispana:columna, portugala:coluna, rusa:колонна (kolonna), polona:kolumna  
@@ -804,7 +804,7 @@
 **kube** *kubo* ← hispana:portugala:cubo, deu:Kubus, angla:franca:cube, rusa:куб (kub), araba:(kaʿba), malaja:kubus, turka:küp  
 **kudi** *kubuto* ← araba: كُوع‎ m (kūʿ) + franca:coude + hindia:कुहनी (kuhnī)  
 **kuke** ** ← angla:cook, deu:Kock, itala:cuoco, malaja:koki, taja:กุ๊ก (kuk), sango:kuku + rusa:кухар (kuhar), polona:kucharz  
-**kuku** *kukolo* ← angla:cuckoo, franca:coucou, hispana:portugala:cuco, rusa:кукушка (kukushka), japana:郭公  (kakkō), mandarena:布谷鸟 (bùgǔniǎo)  
+**kuku** *kukolo* ← angla:cuckoo, franca:coucou, hispana:portugala:cuco, rusa:кукушка (kukushka), persa: کوکو‎ (kuku), japana:郭公 (kakkō), mandarena:布谷鸟 (bùgǔniǎo), turka:guguk  
 **kul** *bonega (mojosa)* ← angla:deu:franca:cool, japana:クール (kūru), mandarena:酷 (kù)  
 **kultur** *kulturo* ← angla:franca:culture, hispana:portugala:cultura, rusa:культу́ра (kulʹtúra), turka:kültür, japana:カルチャー (karuchā)  
 **kumu** ** ← angla:cumulate, franca:cumuler, hispana:portugala:cumular + turka:kumul + araba:كَوْمَة‎ (kawma), persa: کومه (kume)  
@@ -883,6 +883,7 @@
 **luga** *verda* ← mandarena:绿 (lǜ), kantona:綠 (luk6), vjetnama:lục, korea:록/녹 (rok/nok), japana: 緑色 (ryokushoku)  
 **luka** ** ← mandarena:六 (liù), kantona:六 (luk6), japana:六 (roku), korea:육/륙 (六, yuk/ryuk), vjetnama:lục  
 **lulu** *perlo* ← amharaba:ሉል (lul), ara:(luʾluʾa), svahila:lulu, oroma:lu'ulu'a, haŭsa:lu'ulu'u, fula:luuluuri, persa:(lo'lo')  
+**lume** ** ← araba: لَمَعَ‎ (lamaʿa) + hispana:lumbre, portugala:lume, franca:lumineux, angla:luminous + rusa:люмен (lyumen),mandarena:流明 (liúmíng),  japana:ルーメン (rūmen), korea:루멘 (rumen), malaja:lumen  
 **luna** *luno* ← franca:lune, hispana:luna, angla:lunar, rusa:луна (luná)  
 **lung** ** ← mandarena:龙 (lóng), kantona:龍 (lung4), vjetnama:rồng,long, korea:용 (yong), 룡 (ryong), japana:竜 (ryū), kmera:រោង (roong), taja:มะโรง (má-roong)  
 **luta** *rabi* ← hindia:लूटना (lūṭnā), urdua:(lūṭnā), bengala:লুটা (luṭā), panĝaba:ਲੁੱਟ (luṭ), angla:loot, + mandarena:掠夺 (lüèduó), kantona:掠 (loek6)  
@@ -948,18 +949,18 @@
 **meme** *ŝafo* ← lingala:konga:meme + hindia:मेष (meṣ), persa:(miš), taja:เมษ (met) + japana:メーメー (mē mē), portugala:meh, araba:(maa'), turka:mee  
 **memo** *memoro* ← angla:memory, franca:mémoire, hispana:memoria, portugala:memória  
 **men** ** ← angla:men, deu:man + mandarena:们 (men), kantona:們 (mun4) + (tumen) hindia:तुम (tum), rom:tumen  
-**mena** *nudelo* ← mandarena:面 (miàn), malaja:mie, japana:麺 (men), taja:หมี่ (mii), kmera:មី (mi)  
 **mendelef yum** ** ← angla:mendelevium, franca:mendélévium, hispana:mendelevio, portugala:mendelévio, rusa:менделевий, mandarena:钔 (mén), japana:メンデレビウム, korea:멘델레븀, vjetnama:menđelevi, hindia:मेण्डेलीवियम, bengala:মেন্ডেলিভিয়াম, malaja:mendelevium, svahila:mendelevi, araba: مندلفيوم  
 **meninge** ** ← angla:meninx, hispana:portugala:meninge, franca:méninge  
 **mentor** ** ← sanskrita:मन्त्रिन् (mantrin), hindia:मंत्री (mantrī), taja:มนตรี (mon-tri), malaja:menteri, angla:deu:franca:portugala:hispana:mentor, japana:メンター (mentā), korea:멘토 (mento), rusa:ментор (mentor)  
 **mer** *membro* ← angla:member, hispana:miembro, portugala:membro, franca:membre, japana:メンバー (menbā)  
-**meranti** *ŝoreo* ← malaja:angla:portugala:meranti  
+**meranti** *ŝoreo* ← malaja:deu:angla:franca:hispana:portugala:meranti  
 **mes** *monato* ← franca:mois, hispana:mez, portugala:mês, rusa:месяц (mes’ac), angla:menstral + svahila:mwezi  
 **mesi** *kristo* ← angla:messiah, franca:messie, hispana:mesías, portugala:messias, rusa:мессия (messiya), araba: مَسِيح‎ (masīḥ), hindia:मसीह (masīh), bengala:মসিহ (môśih), malaja:al-Masih, svahila:Masiya, turka:Mesih  
 **metal** *metalo* ← angla:hispana:portugala:turka:metal, franca:métal, deu:Metall, rusa:мета́лл (metáll)  
 **metre** *mezuri* ← angla:meter, hispana:portugala:-metro, rusa:метр turka:metre, + hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra  
 **meza** *tablo* ← portugala:hispana:mesa, hindia:मेज़ (mez), svahila:meza, malaja:meja, tamila:மேசை (mesei), persa: میز‏‎ (miz), turka:masa  
 **mi** *mi* ← angla:franca:hispana:portugala:me, hindi:मैं (mẽ), bengala:আমি (ami), svahila:mimi, turka:men  
+**mien** *nudelo* ← mandarena:面 (miàn), kantona:麵 (min6), japana:麺 (men), korea:면 (myeon), vjetnama:mì; miến, malaja:mie, taja:หมี่ (mii), kmera:មី (mi)  
 **migra** *migrado* ← franca:angla:migration, hispana:migración, portugala:migração, rusa:миграция (migratsiya)  
 **mikro** *mikro-* ← angla:franca:hispana:portugala:micro-, rusa:микро- (mikro-), japana:マイクロ- (maikuro-), malaja:turka:mikr-  
 **milke** *lakto* ← angla:milk, deu:Milch, japana:ミルク  (miruku), korea:밀크 (milkeu), lingala:míliki, rusa:молоко (moloko)  
@@ -1260,7 +1261,7 @@
 **rol** ** ← angla:role, franca:rôle, deu:Rolle, rusa:роль (rol’), turka:rol, kat:როლი (roli), persa:رل‎ (rol)  
 **rolo** ** ← angla:roll, franca:rouleau, deu:Rolle, hispana:rollo, portugala:rolo  
 **rom** ** ← angla:rum, hispana:ron, hindia:रम (ram), rusa:ром (rom)  
-**romanse** ** ← franca:angla:hispana:portugala:romance, rusa:роман (roman), turka:romans, malaja:roman, japana:ロマンス (romansu), korea:로맨스 (romaenseu)  
+**romanse** ** ← franca:angla:hispana:portugala:romance, rusa:роман (roman), japana:ロマンス (romansu), korea:로맨스 (romaenseu), araba: رُومَانْسِيّ‎ (rōmansiyy), turka:romans  
 **rose** *roso* ← franca:rosée, hispana:rocío, rusa:роса (rosa)  
 **roste** ** ← franca:rôtir, angla:roast, deu:rösten, itala:arrostare  
 **rota vanu gi** ** ← angla:top, franca:toupie  
@@ -1417,7 +1418,7 @@
 **tela** ** ← hispana:portugala:filipina:tela, franca:toile + angla:towel, hindia:तौलिया (tauliyā), svahila:taulo, japana:タオル (taoru), malaja:tuala  
 **tele** *malproksimeco* ← angla:hispana:portugala:malaja:tele-, franca:télé-, rusa:теле- (tele-)  
 **telu yum** *teluro* ← angla:tellurium, franca:tellure, hispana:telurio, portugala:telúrio, rusa:теллур, mandarena:碲 (dì), japana:テルル, korea:텔루르, vjetnama:telu, hindia:टेलुरियम, bengala:টেলুরিয়াম, malaja:telurium, svahila:teluri, araba: تيلوريوم  
-**tema** *temo* ← franca: thème, hispana: tema, rusa: тема (tema), deu:Thema + mandarena:题目 (tímù)  
+**tema** *temo (esti pri; pridiskuti)* ← franca: thème, hispana: tema, rusa: тема (tema), deu:Thema + mandarena:题目 (tímù)  
 **tene** ** ← franca:tener, hispana:tenir, portugala:ter, angla:-tain  
 **tenesi yum** *teneso* ← angla:franca:portugala:malaja:tennessine, hispana:teneso, rusa:теннессин, japana:テネシン, korea:우눈셉튬  
 **tense** ** ← angla:tense, franca:tendu, hispana:portugala:tenso  
@@ -1541,7 +1542,7 @@
 **voka** ** ← angla:voke, franca:-voquer, hispana:portugala:-vocar + deu:Vokal  
 **voku** *okazi* ← angla:occur, hispana:ocurrir, portugala:ocorrer + japana:起こる (okoru) + araba: وَقْعَة (waqʿa), persa: وقعه‎ (vaq'e), urdua: وقوع (vuqū’), hindia:वाक़या (vāqyā), bengala:অকু (ôku), turka:vaka; vakia + tamila:ஆகு (āku)  
 **vol** *voli* ← franca:voiloir, itala:volere, deu:wollen, angla:volition, hispana:voluntad, rusa:воля (volya), polona:wola  
-**volfe** *lupo* ← deu:ned:angla:wolf, rusa:волк (volk)  
+**volfe** *lupo* ← deu:angla:wolf, rusa:волк (volk)  
 **volfram** ** ← angla:wolfram, hispana:wolframio, rusa:вольфрам, mandarena:钨 (wū), vjetnama:vonfam, malaja:wolfram, svahila:wolframi  
 **vote** ** ← angla:vote, hispana:portugala:voto, hindia:वोट (voṭ), rusa:вотум (votum)  
 **vuki** *armilo* ← mandarena:武器 (wǔqì), kantona:武器 (mou5 hei3), japana:武器 (buki), korea:무기 (mugi), vjetnama:vũ khí  

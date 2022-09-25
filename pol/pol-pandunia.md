@@ -1,6 +1,7 @@
 # polski–pandunia
  - a dura de  
  - a max  
+ - a tema de  
  - a vai  
  - a vakil de  
  - a xukur de  
@@ -17,8 +18,7 @@
  - alumin oxide  
  - ama ja  
  - ama jen  
- - amen  
- - amen xin di  
+ - amen di  
  - amir haki  
  - amir lin  
  - angul marke  
@@ -430,6 +430,8 @@
  - long dura  
  - long dura di  
  - long kata  
+ - lume  
+ - lumen  
  - luna keke  
  - lung dou  
  - magi liki  
@@ -1123,7 +1125,6 @@ Bułgaria - Bolgaria
 bułka gotowana na parze - mantu  
 być - si  
 być mistrzem (być ekspertem) - maste  
-być o; dyskutować o - fa tema  
 być obok - a late  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
 być podobnym, być jak - be sam rupa  
@@ -1215,7 +1216,7 @@ ciepły - garma
 cierpienie, ból - pasi  
 cierpieć - be pasi  
 cieszyć się (zażywać, bawić się) - be vanu  
-cieszyć, podobać się - fa suka  
+cieszyć, podobać się - sukafa  
 cień - saya  
 ciągnąć - tire  
 ciągły (analogowy) - undura  
@@ -2237,7 +2238,6 @@ losowy - zar di
 lot - fei  
 lotnisko (port lotniczy) - air porte  
 lub, albo - o  
-lubić - fa fili  
 lud, społeczeństwo - demi  
 ludzie (lud, ludność) - natia jen  
 ludzki - insan di  
@@ -2271,7 +2271,7 @@ Majotta - Mayote
 mak lekarski - sona papi  
 mak polny - medan papi  
 mak wschodni - gui papi  
-makaron - mena  
+makaron - mien  
 Makau - Makau  
 maksimum - maxim xe  
 maksymalny - maxim di  
@@ -2675,7 +2675,7 @@ Ocean Arktyczny - Artika Hai
 Ocean Atlantycki - Atlanti Hai  
 Ocean Indyjski - Barti Hai  
 Ocean Spokojny (Pacyfik) - Pase Hai  
-Oceania - Oceania  
+Oceania - Oseania  
 ocelot - oselote  
 ocelot tygrysi - bagre oselote  
 ocena, krytyka - piping  
@@ -2857,7 +2857,7 @@ pendżabski - panjabi
 penis - penis  
 perfekcyjny - pul bon  
 perfekcyjny - perfete  
-Pers; perski, farsi - farsi  
+Pers; perski, farsi - parsi  
 perspektywa (punkt widzenia) - vide punte  
 Peru - Peru  
 peryferyjny - kinar di  
@@ -3787,7 +3787,7 @@ teleskop - teleskope
 telewizja - tele vide gi  
 tellur - telu yum  
 telugu - Telugu  
-temat, motyw - tema  
+temat (motyw; dyskutować o) - tema  
 temperatura - termo  
 ten - yi  
 tendencja (być skłonnym) - klin  
@@ -3916,7 +3916,7 @@ uczestnik - parti ceper
 uczeń, student - xula ja  
 udomowiony (domowy) - dosil gene di  
 udomowić (kultywować) - fa dosil gene  
-ufać (wierzyć, liczyć, polegać) - amen xin  
+ufać (wierzyć, liczyć, polegać) - amen  
 ufać (wierzyć, liczyć, polegać) - kredi  
 Uganda - Ganda  
 ugotować się, gotować się - be boli  
@@ -4109,7 +4109,7 @@ wolfram - volfram
 wolność, niepodległość, niezależność - huruta  
 wolny, niepodległy, niezależny - huru  
 wolof - Volof  
-wolt (V) - volte  
+wolt (V) - volta  
 wosk - mum  
 wosko lądowe (armia) - geo ordu  
 wow!, łoł!, jej! - va  

@@ -49,9 +49,9 @@ ama - 但是 (不过)
 ama - 爱  
 ama di - 亲爱的  
 ama ja - 恋人 (情人, 爱人)  
-amen - 诚实  
+amen - 信赖  
 amenbil - 忠实  
-amen xin - 信赖  
+amen di - 诚实  
 amerika yum - 镅  
 ancovi - 凤尾鱼  
 andesite - 安山岩  
@@ -1009,6 +1009,7 @@ meza tela - 桌布
 mi - 我  
 mimen - 我们  
 mimen su - 我们的  
+mien - 面条  
 mikro bio - 微生物   
 mikro biologi - 微生物学  
 mikroskope - 显微镜  
@@ -1547,6 +1548,7 @@ Vixnu - 毗湿奴
 vo - 那  
 vode - 诺言  
 vol - 想要 (愿意)  
+volfe - 狼  
 volfram - 钨  
 vuki - 武器  
 vulva - 外阴 (陰门)  

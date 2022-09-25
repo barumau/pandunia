@@ -29,7 +29,7 @@
 **alumin** *alumiini* ← englanti:aluminium, ranska:aluminium, espanja:aluminio, portugali:alumínio, venäjä:алюминий, yleiskiina:铝 (lǚ), japani:アルミニウム, korea:알루미늄, vietnami:nhốm, hindi:एल्युमिनियम, bangla:অ্যালুমিনিয়াম, malaiji:aluminium, suahili:alumini, arabia: الومينيوم  
 **ama** *mutta* ← arabia: أما‎ (ʔamma), turkki:ama, persia:urdu:اما‎ (ammâ), hausa:amma, yoruba:àmọ́  
 **ama** *rakkaus (tykkääminen)* ← espanja:portugali:amar, ranska:aimer  
-**amen** *rehellinen (totisesti, uskottavasti, aamen)* ← heb: אָמֵן‎, (ʾāmēn), arabia: آمین‎, (āmīna), suahili:amina, amini, turkki:amin + kreikka:ἀμήν (ámén), englanti:deu:ranska:puola:espanja:amen, yleiskiina:阿门 (āmén), korea:아멘 (amen), japani:アーメン (āmen), vietnami:a-men  
+**amen** *luottaa (pitää varmana)* ← heb: אָמֵן‎, (ʾāmēn), arabia: آمَنَ‎ (āmana), suahili:amini, turkki:amin + kreikka:ἀμήν (ámén), englanti:deu:ranska:puola:espanja:amen, yleiskiina:阿门 (āmén), korea:아멘 (amen), japani:アーメン (āmen), vietnami:a-men  
 **amerika yum** *amerikium* ← englanti:americium, ranska:américium, espanja:americio, portugali:amerício, venäjä:америций, yleiskiina:镅 (méi), japani:アメリシウム, korea:아메리슘, vietnami:amerixi, hindi:अमेरिशियम, bangla:অ্যামেরিসিয়াম, malaiji:amerisium, suahili:ameriki, arabia: أمريكيوم  
 **Amerika** *Amerikka* ← englanti:America, espanja:portugali:América, venäjä:Америка (Amerika), turkki:suahili:malaiji:Amerika, arabia:أمريكا‎ (ʾamrīkā), hindi:अमेरिका (amerikā), bangla:আমেরিকা (amerika), japani:アメリカ (amerika)  
 **amir** *käsky (komento)* ← arabia: أَمْر‎ (ʾamr), persia: امر‎ (amr), turkki:emir, suahili:amiri, hausa:umarni + englanti:admiral, ranska:amiral, espanja:portugali:emir venäjä:эмир (emir)  
@@ -762,7 +762,7 @@
 **koda** *häntä* ← englanti:coda, espanja:coda,cola, portugali:cauda, ranska:côté, japani:コーダ (kōda)  
 **kode** *koodi* ← englanti:code, espanja:portugali:código, ru:код, persia:کد‎ (kod), hindi:कोड (koḍ), japani:コード (kōdo)  
 **koka** *kooka* ← espanja:englanti:coca, venäjä:кока (koka), turkki:koka, yleiskiina:古柯 (gǔké)  
-**koko** *kana* ← ranska:coq, englanti:cock, puola:kogut, gujarati:કૂકડો (kūkḍo), + suahili:kuku, zulu:inkukhu,igbo:Ọkụkọ + (onom,) italia:coccodè, japani:コッコッ (kokko), persia:(qod-qod-qodās), venäjä:куд-куда, hindi:कुटकुटा (kutkutā)  
+**koko** *kana* ← ranska:coq, englanti:cock, puola:kogut, gujarati:કૂકડો (kūkḍo) + suahili:kuku, zulu:inkukhu, igbo:Ọkụkọ + (onom.) italia:coccodè, japani:コッコッ (kokko), persia:(qod-qod-qodās), venäjä:куд-куда, hindi:कुटकुटा (kutkutā)  
 **kola** *koola* ← englanti:espanja:cola, venäjä:кола (kola), hindi:कोला (kolā), japani:コラ (kora), suahili:mkola, hausa:gworo  
 **koloni** *kolonia (siirtomaa)* ← englanti:colony, espanja:colonia, portugali:colônia, venäjä:колония (koloniya), turkki:ma:koloni, hindi:कॉलोनी (kŏlonī), japani:コロニー  
 **kolum** *pylväs (pilari, tolppa)* ← englanti:column, ranska:colonne, espanja:columna, portugali:coluna, venäjä:колонна (kolonna), puola:kolumna  
@@ -804,7 +804,7 @@
 **kube** *kuutio* ← espanja:portugali:cubo, deu:Kubus, englanti:ranska:cube, venäjä:куб (kub), arabia:(kaʿba), malaiji:kubus, turkki:küp  
 **kudi** *kyynärpää* ← arabia: كُوع‎ m (kūʿ) + ranska:coude + hindi:कुहनी (kuhnī)  
 **kuke** *kokata (laittaa ruokaa)* ← englanti:cook, deu:Kock, italia:cuoco, malaiji:koki, thai:กุ๊ก (kuk), sango:kuku + venäjä:кухар (kuhar), puola:kucharz  
-**kuku** *käki* ← englanti:cuckoo, ranska:coucou, espanja:portugali:cuco, venäjä:кукушка (kukushka), japani:郭公  (kakkō), yleiskiina:布谷鸟 (bùgǔniǎo)  
+**kuku** *käki* ← englanti:cuckoo, ranska:coucou, espanja:portugali:cuco, venäjä:кукушка (kukushka), persia: کوکو‎ (kuku), japani:郭公 (kakkō), yleiskiina:布谷鸟 (bùgǔniǎo), turkki:guguk  
 **kul** *upea (hieno)* ← englanti:deu:ranska:cool, japani:クール (kūru), yleiskiina:酷 (kù)  
 **kultur** *kulttuuri* ← englanti:ranska:culture, espanja:portugali:cultura, venäjä:культу́ра (kulʹtúra), turkki:kültür, japani:カルチャー (karuchā)  
 **kumu** *kumpu (kasa, läjä)* ← englanti:cumulate, ranska:cumuler, espanja:portugali:cumular + turkki:kumul + arabia:كَوْمَة‎ (kawma), persia: کومه (kume)  
@@ -883,6 +883,7 @@
 **luga** *vihreä* ← yleiskiina:绿 (lǜ), kantoninkiina:綠 (luk6), vietnami:lục, korea:록/녹 (rok/nok), japani: 緑色 (ryokushoku)  
 **luka** *kuusi (6)* ← yleiskiina:六 (liù), kantoninkiina:六 (luk6), japani:六 (roku), korea:육/륙 (六, yuk/ryuk), vietnami:lục  
 **lulu** *helmi* ← amharabia:ሉል (lul), ara:(luʾluʾa), suahili:lulu, oromo:lu'ulu'a, hausa:lu'ulu'u, fulani:luuluuri, persia:(lo'lo')  
+**lume** ** ← arabia: لَمَعَ‎ (lamaʿa) + espanja:lumbre, portugali:lume, ranska:lumineux, englanti:luminous + venäjä:люмен (lyumen),yleiskiina:流明 (liúmíng),  japani:ルーメン (rūmen), korea:루멘 (rumen), malaiji:lumen  
 **luna** *kuu* ← ranska:lune, espanja:luna, englanti:lunar, venäjä:луна (luná)  
 **lung** *itämainen lohikäärme* ← yleiskiina:龙 (lóng), kantoninkiina:龍 (lung4), vietnami:rồng,long, korea:용 (yong), 룡 (ryong), japani:竜 (ryū), khmer:រោង (roong), thai:มะโรง (má-roong)  
 **luta** *ryöstää (ryövätä)* ← hindi:लूटना (lūṭnā), urdu:(lūṭnā), bangla:লুটা (luṭā), pandzabi:ਲੁੱਟ (luṭ), englanti:loot, + yleiskiina:掠夺 (lüèduó), kantoninkiina:掠 (loek6)  
@@ -948,18 +949,18 @@
 **meme** *lammas* ← lingala:Kongo:meme + hindi:मेष (meṣ), persia:(miš), thai:เมษ (met) + japani:メーメー (mē mē), portugali:meh, arabia:(maa'), turkki:mee  
 **memo** *muisti* ← englanti:memory, ranska:mémoire, espanja:memoria, portugali:memória  
 **men** *ihmiset (passiivin pronomini)* ← englanti:men, deu:man + yleiskiina:们 (men), kantoninkiina:們 (mun4) + (tumen) hindi:तुम (tum), rom:tumen  
-**mena** *nuudeli* ← yleiskiina:面 (miàn), malaiji:mie, japani:麺 (men), thai:หมี่ (mii), khmer:មី (mi)  
 **mendelef yum** *mendelevium* ← englanti:mendelevium, ranska:mendélévium, espanja:mendelevio, portugali:mendelévio, venäjä:менделевий, yleiskiina:钔 (mén), japani:メンデレビウム, korea:멘델레븀, vietnami:menđelevi, hindi:मेण्डेलीवियम, bangla:মেন্ডেলিভিয়াম, malaiji:mendelevium, suahili:mendelevi, arabia: مندلفيوم  
 **meninge** *aivokalvo* ← englanti:meninx, espanja:portugali:meninge, ranska:méninge  
 **mentor** *neuvontantaja (mentori)* ← sanskriitti:मन्त्रिन् (mantrin), hindi:मंत्री (mantrī), thai:มนตรี (mon-tri), malaiji:menteri, englanti:deu:ranska:portugali:espanja:mentor, japani:メンター (mentā), korea:멘토 (mento), venäjä:ментор (mentor)  
 **mer** *jäsen (osatekijä, komponentti)* ← englanti:member, espanja:miembro, portugali:membro, ranska:membre, japani:メンバー (menbā)  
-**meranti** ** ← malaiji:englanti:portugali:meranti  
+**meranti** *merantipuu* ← malaiji:deu:englanti:ranska:espanja:portugali:meranti  
 **mes** *kuukausi* ← ranska:mois, espanja:mez, portugali:mês, venäjä:месяц (mes’ac), englanti:menstral + suahili:mwezi  
 **mesi** *kristus (messias)* ← englanti:messiah, ranska:messie, espanja:mesías, portugali:messias, venäjä:мессия (messiya), arabia: مَسِيح‎ (masīḥ), hindi:मसीह (masīh), bangla:মসিহ (môśih), malaiji:al-Masih, suahili:Masiya, turkki:Mesih  
 **metal** *metalli* ← englanti:espanja:portugali:turkki:metal, ranska:métal, deu:Metall, venäjä:мета́лл (metáll)  
 **metre** *mitta (koko, määrä)* ← englanti:meter, espanja:portugali:-metro, venäjä:метр turkki:metre, + hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra  
 **meza** *pöytä* ← portugali:espanja:mesa, hindi:मेज़ (mez), suahili:meza, malaiji:meja, tamili:மேசை (mesei), persia: میز‏‎ (miz), turkki:masa  
 **mi** *minä* ← englanti:ranska:espanja:portugali:me, hindi:मैं (mẽ), bangla:আমি (ami), suahili:mimi, turkki:men  
+**mien** *nuudeli* ← yleiskiina:面 (miàn), kantoninkiina:麵 (min6), japani:麺 (men), korea:면 (myeon), vietnami:mì; miến, malaiji:mie, thai:หมี่ (mii), khmer:មី (mi)  
 **migra** *muutto (migraatio)* ← ranska:englanti:migration, espanja:migración, portugali:migração, venäjä:миграция (migratsiya)  
 **mikro** *pikkuruinen (mikroskooppinen, mikro-)* ← englanti:ranska:espanja:portugali:micro-, venäjä:микро- (mikro-), japani:マイクロ- (maikuro-), malaiji:turkki:mikr-  
 **milke** *maito* ← englanti:milk, deu:Milch, japani:ミルク  (miruku), korea:밀크 (milkeu), lingala:míliki, venäjä:молоко (moloko)  
@@ -1260,7 +1261,7 @@
 **rol** *rooli (osa)* ← englanti:role, ranska:rôle, deu:Rolle, venäjä:роль (rol’), turkki:rol, kat:როლი (roli), persia:رل‎ (rol)  
 **rolo** *käärö* ← englanti:roll, ranska:rouleau, deu:Rolle, espanja:rollo, portugali:rolo  
 **rom** *rommi* ← englanti:rum, espanja:ron, hindi:रम (ram), venäjä:ром (rom)  
-**romanse** *lempi (romanssi, rakkaus)* ← ranska:englanti:espanja:portugali:romance, venäjä:роман (roman), turkki:romans, malaiji:roman, japani:ロマンス (romansu), korea:로맨스 (romaenseu)  
+**romanse** *lempi (romanssi, rakkaus)* ← ranska:englanti:espanja:portugali:romance, venäjä:роман (roman), japani:ロマンス (romansu), korea:로맨스 (romaenseu), arabia: رُومَانْسِيّ‎ (rōmansiyy), turkki:romans  
 **rose** *kaste* ← ranska:rosée, espanja:rocío, venäjä:роса (rosa)  
 **roste** *paahtaa (paistaa)* ← ranska:rôtir, englanti:roast, deu:rösten, italia:arrostare  
 **rota vanu gi** *hyrrä* ← englanti:top, ranska:toupie  
@@ -1541,7 +1542,7 @@
 **voka** *kutsua (kuuluttaa; manata)* ← englanti:voke, ranska:-voquer, espanja:portugali:-vocar + deu:Vokal  
 **voku** *tapahtua (tapahtuma)* ← englanti:occur, espanja:ocurrir, portugali:ocorrer + japani:起こる (okoru) + arabia: وَقْعَة (waqʿa), persia: وقعه‎ (vaq'e), urdu: وقوع (vuqū’), hindi:वाक़या (vāqyā), bangla:অকু (ôku), turkki:vaka; vakia + tamili:ஆகு (āku)  
 **vol** *haluta* ← ranska:voiloir, italia:volere, deu:wollen, englanti:volition, espanja:voluntad, venäjä:воля (volya), puola:wola  
-**volfe** *susi (hukka)* ← deu:ned:englanti:wolf, venäjä:волк (volk)  
+**volfe** *susi (hukka)* ← deu:englanti:wolf, venäjä:волк (volk)  
 **volfram** *volframi* ← englanti:wolfram, espanja:wolframio, venäjä:вольфрам, yleiskiina:钨 (wū), vietnami:vonfam, malaiji:wolfram, suahili:wolframi  
 **vote** *ääni (äänestyksessä)* ← englanti:vote, espanja:portugali:voto, hindi:वोट (voṭ), venäjä:вотум (votum)  
 **vuki** *ase* ← yleiskiina:武器 (wǔqì), kantoninkiina:武器 (mou5 hei3), japani:武器 (buki), korea:무기 (mugi), vietnami:vũ khí  

@@ -20,6 +20,7 @@ a re - wstecz
 a ri - znowu (ponownie)  
 a sabu de - ponieważ, bo  
 a supra - nad  
+a tema de -   
 a vai -   
 a vakil de -   
 a vo - tu (tutaj, tam)  
@@ -103,11 +104,10 @@ ama di - kochany (drogi)
 ama ja -   
 ama jen -   
 Amara - Amhara, amharski  
-amen -   
+amen - ufać (wierzyć, liczyć, polegać)  
 amenbil - lojalny (wierny)  
 amenbilta - lojalność (wierność)  
-amen xin - ufać (wierzyć, liczyć, polegać)  
-amen xin di -   
+amen di -   
 Amerika - Ameryka (kontynent)  
 Amerika di - amerykański  
 Amerika Samoa - Amerykańska Samoa  
@@ -1063,7 +1063,6 @@ fa fen do du - przepołowić (podzielić przez dwa)
 fa fen gata - analizować  
 fa festa - świętować, imprezować  
 fa fikir - myśleć, dumać, rozmyślać, zastanawiać się, rozważać  
-fa fili - lubić  
 fa fin - skończyć, kończyć  
 fa fixe - przyczepić, przymocować  
 fa fobi -   
@@ -1246,13 +1245,11 @@ fa soni - brzmieć, wydać dźwięk, wydawać dźwięk
 fa sor - zamknąć (zamykać, zakluczyć, zakluczać, zapinać, zapiąć)  
 fa sosi - socjalizować się  
 fa sual - zapytać, spytać, pytać  
-fa suka - cieszyć, podobać się  
 fa sultan - rządzić, władać  
 fa sum - zsumować, sumować, dodać, dodawać  
 fa tapa - zatkać, ztykać  
 fa tela - tkać (pleść)  
 fa tele fon -   
-fa tema - być o; dyskutować o  
 fa tense -   
 fa terca - przechylać (przechylić, wychylać, wychylić)  
 fa tese - dyskutoać, twierdzić  
@@ -1302,7 +1299,6 @@ fanatija -
 fantazi - fantazja (wyobrażenie, wyobraźnia)  
 fantazi di - fantastyczny, fantazyjny  
 fantom - duch, fantom  
-farsi - Pers; perski, farsi  
 fase - powierzchnia  
 fase area - pole, powierzchnia  
 fase tele - głęboki  
@@ -2562,6 +2558,8 @@ luka fase - sześcian (kostka)
 luka gona - sześciokąt (sześciobok)  
 lulu - perła  
 lulu table - abak (liczydło)  
+lume -   
+lumen -   
 luna - księżyc  
 luna keke -   
 lung - smok  
@@ -2725,7 +2723,6 @@ memo bina - pomnik (memoriał)
 memo note - notatka, memo  
 memo tehni -   
 men -   
-mena - makaron  
 mendelef yum -   
 meninge - opona mózgowa  
 meninge tis - zapalenie opon mózgowych  
@@ -2769,6 +2766,7 @@ mimen - my
 mimen su -   
 mi su - mój  
 Mianma - Mjanma, Birma  
+mien - makaron  
 migra - migracja  
 mikro bio - mikroorganizm  (mikrob)  
 mikro biologi - mikrobiologia  
@@ -3066,7 +3064,6 @@ nume zi -
 
 o - lub, albo  
 Oberon -   
-Oceania - Oceania  
 Odisa - orija  
 oganeson - oganesson  
 ohtopus - ośmiornica  
@@ -3094,6 +3091,7 @@ Oromo Dexa - Oromia
 orto - prosty  
 orto gona - kąt prosty  
 orto gona di - prostopadły  
+Oseania - Oceania  
 oselote - ocelot  
 osidian - obsydian  
 oskope -   
@@ -3177,6 +3175,7 @@ pari kata - baśń
 Paris - Paryż  
 parke - park (ogród)  
 parne - paproć  
+parsi - Pers; perski, farsi  
 parti - partia  
 parti cepe - uczestniczyć, wziąć udział, brać udział  
 parti ceper - uczestnik  
@@ -3878,6 +3877,7 @@ sui sekur di - wodoodporny
 sui yau - pragnienie  
 Suise - Szwajcaria  
 suka - wesoły (ucieszony; cieszyć się)  
+sukafa - cieszyć, podobać się  
 sukar - cukier  
 sukar bete - burak cukrowy  
 sukar di - słodki  
@@ -3972,7 +3972,7 @@ tele vide gi - telewizja
 teleskope - teleskop  
 telu yum - tellur  
 Telugu - telugu  
-tema - temat, motyw  
+tema - temat (motyw; dyskutować o)  
 tema nam - tytuł (nagłówek)  
 tene -   
 • intene -   
@@ -4309,7 +4309,7 @@ vol xe - wola (chęć, pragnienie)
 volfe - wilk  
 volfram - wolfram  
 Volof - wolof  
-volte - wolt (V)  
+volta - wolt (V)  
 vote - głos  
 vote haki - prawo wyborcze  
 vuki - broń  

@@ -29,7 +29,7 @@
 **alumin** *glin (aluminium)* ← eng:aluminium, fra:aluminium, spa:aluminio, por:alumínio, rus:алюминий, zho:铝 (lǚ), jpn:アルミニウム, kor:알루미늄, vie:nhốm, hin:एल्युमिनियम, ben:অ্যালুমিনিয়াম, may:aluminium, swa:alumini, ara: الومينيوم  
 **ama** *ale (lecz)* ← ara: أما‎ (ʔamma), tur:ama, fas:urd:اما‎ (ammâ), hau:amma, yor:àmọ́  
 **ama** *miłość (afekt)* ← spa:por:amar, fra:aimer  
-**amen** ** ← heb: אָמֵן‎, (ʾāmēn), ara: آمین‎, (āmīna), swa:amina, amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen), vie:a-men  
+**amen** *ufać (wierzyć, liczyć, polegać)* ← heb: אָמֵן‎, (ʾāmēn), ara: آمَنَ‎ (āmana), swa:amini, tur:amin + ell:ἀμήν (ámén), eng:deu:fra:pol:spa:amen, zho:阿门 (āmén), kor:아멘 (amen), jpn:アーメン (āmen), vie:a-men  
 **amerika yum** *ameryk* ← eng:americium, fra:américium, spa:americio, por:amerício, rus:америций, zho:镅 (méi), jpn:アメリシウム, kor:아메리슘, vie:amerixi, hin:अमेरिशियम, ben:অ্যামেরিসিয়াম, may:amerisium, swa:ameriki, ara: أمريكيوم  
 **Amerika** *Ameryka (kontynent)* ← eng:America, spa:por:América, rus:Америка (Amerika), tur:swa:may:Amerika, ara:أمريكا‎ (ʾamrīkā), hin:अमेरिका (amerikā), ben:আমেরিকা (amerika), jpn:アメリカ (amerika)  
 **amir** *rozkaz, komenda* ← ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)  
@@ -762,7 +762,7 @@
 **koda** *ogon* ← eng:coda, spa:coda,cola, por:cauda, fra:côté, jpn:コーダ (kōda)  
 **kode** *kod, szyfr* ← eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)  
 **koka** *koka* ← spa:eng:coca, rus:кока (koka), tur:koka, zho:古柯 (gǔké)  
-**koko** *kura, kogut, kurczak* ← fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo), + swa:kuku, zul:inkukhu,ibo:Ọkụkọ + (onom,) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)  
+**koko** *kura, kogut, kurczak* ← fra:coq, eng:cock, pol:kogut, guj:કૂકડો (kūkḍo) + swa:kuku, zul:inkukhu, ibo:Ọkụkọ + (onom.) ita:coccodè, jpn:コッコッ (kokko), fas:(qod-qod-qodās), rus:куд-куда, hin:कुटकुटा (kutkutā)  
 **kola** ** ← eng:spa:cola, rus:кола (kola), hin:कोला (kolā), jpn:コラ (kora), swa:mkola, hau:gworo  
 **koloni** *kolonia, osada* ← eng:colony, spa:colonia, por:colônia, rus:колония (koloniya), tur:ma:koloni, hin:कॉलोनी (kŏlonī), jpn:コロニー  
 **kolum** *kolumna, filar* ← eng:column, fra:colonne, spa:columna, por:coluna, rus:колонна (kolonna), pol:kolumna  
@@ -804,7 +804,7 @@
 **kube** *sześcian* ← spa:por:cubo, deu:Kubus, eng:fra:cube, rus:куб (kub), ara:(kaʿba), may:kubus, tur:küp  
 **kudi** *łokieć* ← ara: كُوع‎ m (kūʿ) + fra:coude + hin:कुहनी (kuhnī)  
 **kuke** *gotować, szykować jedzenie* ← eng:cook, deu:Kock, ita:cuoco, may:koki, tha:กุ๊ก (kuk), sango:kuku + rus:кухар (kuhar), pol:kucharz  
-**kuku** *kukułka* ← eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukushka), jpn:郭公  (kakkō), zho:布谷鸟 (bùgǔniǎo)  
+**kuku** *kukułka* ← eng:cuckoo, fra:coucou, spa:por:cuco, rus:кукушка (kukushka), fas: کوکو‎ (kuku), jpn:郭公 (kakkō), zho:布谷鸟 (bùgǔniǎo), tur:guguk  
 **kul** *świetny* ← eng:deu:fra:cool, jpn:クール (kūru), zho:酷 (kù)  
 **kultur** *kultura* ← eng:fra:culture, spa:por:cultura, rus:культу́ра (kulʹtúra), tur:kültür, jpn:カルチャー (karuchā)  
 **kumu** ** ← eng:cumulate, fra:cumuler, spa:por:cumular + tur:kumul + ara:كَوْمَة‎ (kawma), fas: کومه (kume)  
@@ -883,6 +883,7 @@
 **luga** *zielony* ← zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)  
 **luka** *sześć (6)* ← zho:六 (liù), yue:六 (luk6), jpn:六 (roku), kor:육/륙 (六, yuk/ryuk), vie:lục  
 **lulu** *perła* ← amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')  
+**lume** ** ← ara: لَمَعَ‎ (lamaʿa) + spa:lumbre, por:lume, fra:lumineux, eng:luminous + rus:люмен (lyumen),zho:流明 (liúmíng),  jpn:ルーメン (rūmen), kor:루멘 (rumen), may:lumen  
 **luna** *księżyc* ← fra:lune, spa:luna, eng:lunar, rus:луна (luná)  
 **lung** *smok* ← zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)  
 **luta** *obrabować, splądrować* ← hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)  
@@ -948,18 +949,18 @@
 **meme** *owca* ← lin:kon:meme + hin:मेष (meṣ), fas:(miš), tha:เมษ (met) + jpn:メーメー (mē mē), por:meh, ara:(maa'), tur:mee  
 **memo** *pamięć* ← eng:memory, fra:mémoire, spa:memoria, por:memória  
 **men** ** ← eng:men, deu:man + zho:们 (men), yue:們 (mun4) + (tumen) hin:तुम (tum), rom:tumen  
-**mena** *makaron* ← zho:面 (miàn), may:mie, jpn:麺 (men), tha:หมี่ (mii), khm:មី (mi)  
 **mendelef yum** ** ← eng:mendelevium, fra:mendélévium, spa:mendelevio, por:mendelévio, rus:менделевий, zho:钔 (mén), jpn:メンデレビウム, kor:멘델레븀, vie:menđelevi, hin:मेण्डेलीवियम, ben:মেন্ডেলিভিয়াম, may:mendelevium, swa:mendelevi, ara: مندلفيوم  
 **meninge** *opona mózgowa* ← eng:meninx, spa:por:meninge, fra:méninge  
 **mentor** *doradca (mentor)* ← san:मन्त्रिन् (mantrin), hin:मंत्री (mantrī), tha:มนตรี (mon-tri), may:menteri, eng:deu:fra:por:spa:mentor, jpn:メンター (mentā), kor:멘토 (mento), rus:ментор (mentor)  
 **mer** *członek* ← eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)  
-**meranti** *damarzyk (meranti)* ← may:eng:por:meranti  
+**meranti** *damarzyk (meranti)* ← may:deu:eng:fra:spa:por:meranti  
 **mes** *miesiąc* ← fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), eng:menstral + swa:mwezi  
 **mesi** *Chrystus, mesjasz* ← eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, swa:Masiya, tur:Mesih  
 **metal** *metal* ← eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)  
 **metre** *zmierzyć (miara)* ← eng:meter, spa:por:-metro, rus:метр tur:metre, + hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra  
 **meza** *stół* ← por:spa:mesa, hin:मेज़ (mez), swa:meza, may:meja, tam:மேசை (mesei), fas: میز‏‎ (miz), tur:masa  
 **mi** *ja, mnie* ← eng:fra:spa:por:me, hindi:मैं (mẽ), ben:আমি (ami), swa:mimi, tur:men  
+**mien** *makaron* ← zho:面 (miàn), yue:麵 (min6), jpn:麺 (men), kor:면 (myeon), vie:mì; miến, may:mie, tha:หมี่ (mii), khm:មី (mi)  
 **migra** *migracja* ← fra:eng:migration, spa:migración, por:migração, rus:миграция (migratsiya)  
 **mikro** *mikro-* ← eng:fra:spa:por:micro-, rus:микро- (mikro-), jpn:マイクロ- (maikuro-), may:tur:mikr-  
 **milke** *mleko* ← eng:milk, deu:Milch, jpn:ミルク  (miruku), kor:밀크 (milkeu), lin:míliki, rus:молоко (moloko)  
@@ -1260,7 +1261,7 @@
 **rol** *rola* ← eng:role, fra:rôle, deu:Rolle, rus:роль (rol’), tur:rol, kat:როლი (roli), fas:رل‎ (rol)  
 **rolo** *rulon (rolka, zwój)* ← eng:roll, fra:rouleau, deu:Rolle, spa:rollo, por:rolo  
 **rom** *rum* ← eng:rum, spa:ron, hin:रम (ram), rus:ром (rom)  
-**romanse** *miłość romantyczna* ← fra:eng:spa:por:romance, rus:роман (roman), tur:romans, may:roman, jpn:ロマンス (romansu), kor:로맨스 (romaenseu)  
+**romanse** *miłość romantyczna* ← fra:eng:spa:por:romance, rus:роман (roman), jpn:ロマンス (romansu), kor:로맨스 (romaenseu), ara: رُومَانْسِيّ‎ (rōmansiyy), tur:romans  
 **rose** *rosa* ← fra:rosée, spa:rocío, rus:роса (rosa)  
 **roste** *piec* ← fra:rôtir, eng:roast, deu:rösten, ita:arrostare  
 **rota vanu gi** *bąk, bączek* ← eng:top, fra:toupie  
@@ -1417,7 +1418,7 @@
 **tela** *tkanina (materiał, sukno)* ← spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tauliyā), swa:taulo, jpn:タオル (taoru), may:tuala  
 **tele** *dystans* ← eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)  
 **telu yum** *tellur* ← eng:tellurium, fra:tellure, spa:telurio, por:telúrio, rus:теллур, zho:碲 (dì), jpn:テルル, kor:텔루르, vie:telu, hin:टेलुरियम, ben:টেলুরিয়াম, may:telurium, swa:teluri, ara: تيلوريوم  
-**tema** *temat, motyw* ← fra: thème, spa: tema, rus: тема (tema), deu:Thema + zho:题目 (tímù)  
+**tema** *temat (motyw; dyskutować o)* ← fra: thème, spa: tema, rus: тема (tema), deu:Thema + zho:题目 (tímù)  
 **tene** ** ← fra:tener, spa:tenir, por:ter, eng:-tain  
 **tenesi yum** *tenesyn, tennessine* ← eng:fra:por:may:tennessine, spa:teneso, rus:теннессин, jpn:テネシン, kor:우눈셉튬  
 **tense** ** ← eng:tense, fra:tendu, spa:por:tenso  
@@ -1541,7 +1542,7 @@
 **voka** ** ← eng:voke, fra:-voquer, spa:por:-vocar + deu:Vokal  
 **voku** ** ← eng:occur, spa:ocurrir, por:ocorrer + jpn:起こる (okoru) + ara: وَقْعَة (waqʿa), fas: وقعه‎ (vaq'e), urd: وقوع (vuqū’), hin:वाक़या (vāqyā), ben:অকু (ôku), tur:vaka; vakia + tam:ஆகு (āku)  
 **vol** *chcieć, pragnąć* ← fra:voiloir, ita:volere, deu:wollen, eng:volition, spa:voluntad, rus:воля (volya), pol:wola  
-**volfe** *wilk* ← deu:ned:eng:wolf, rus:волк (volk)  
+**volfe** *wilk* ← deu:eng:wolf, rus:волк (volk)  
 **volfram** *wolfram* ← eng:wolfram, spa:wolframio, rus:вольфрам, zho:钨 (wū), vie:vonfam, may:wolfram, swa:wolframi  
 **vote** *głos* ← eng:vote, spa:por:voto, hin:वोट (voṭ), rus:вотум (votum)  
 **vuki** *broń* ← zho:武器 (wǔqì), yue:武器 (mou5 hei3), jpn:武器 (buki), kor:무기 (mugi), vie:vũ khí  

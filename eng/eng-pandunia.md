@@ -11,6 +11,7 @@ abattoir (slaughterhouse) - bucakan
 ability - bilta  
 Abkhazia - Apsni  
 about (approximately, nearly, almost) - yaki  
+about (concerning, on the topic of) - a tema de  
 above (over) - a supra  
 Abyssinia - Habaxa  
 Abyssinian - habaxa  
@@ -180,7 +181,7 @@ approve - bon rai
 apricot (plum, peach) - briko  
 April - mes nelu  
 aqua (teal) - hai nil  
-Arabic - arabi  
+Arabia (Arab; Arabic) - arabi  
 arachnophobia - arane fobi  
 arboretum - moka jong parke  
 archer - arka ja  
@@ -356,7 +357,6 @@ bathroom - banya kamar
 battery - batri  
 bay (gulf) - baya  
 be - si  
-be about (discuss as a subject) - fa tema  
 be beside (accompany) - a late  
 be born - be gene  
 be bothered by (bother to, take the trouble to) - be turbe  
@@ -1018,8 +1018,8 @@ danger (peril) - hatar
 dangerous (perilous) - hatar di  
 Danish - Danske  
 dark (dim) - oskur  
+darling (dear companion) - bau bei  
 darling (honey) - ama jen  
-darling (love mate) - bau bei  
 darmstadtium - darmestadi yum  
 Darwinism - darvin sim  
 Darwinist - darvin sim ja  
@@ -1877,7 +1877,6 @@ homonym - sam nam
 homoromantic - sam romanse di  
 homosexual - sam sexe di  
 Honduras - Onduras  
-honest (trustworthy, true; surely, verily, amen) - amen  
 honey - medu  
 honeybee - medu fong  
 honeydew (green melon) - luga melon  
@@ -2264,7 +2263,6 @@ light (light-weight) - ligu veze di
 light (requiring little effort, easy, soft, minute, unimportant, etc.) - ligu  
 light blue (sky blue, azure) - sama nil  
 lightning bolt - eletro radi  
-like - fa fili  
 like or characteristic of the previous word (-like, -ly, -al) - li  
 lilac - lila  
 lilac color - lila rang  
@@ -2336,13 +2334,13 @@ low (short, bottom) - dipe
 lower (inferior) - nice di  
 lower (put down) - fa dipe  
 lowercase letter - xiu zi  
-loyal (faithful, trustworthy) - amenbil  
 loyal (faithful, trustworthy) - bekredibil  
 loyalty (faithfulness) - amenbilta  
 loyalty (faithfulness) - bekredibilta  
 luggage (baggage) - bagaje  
 lull - lala  
 lullaby - lala gani  
+lumen - lumen  
 lunch - dia yam  
 lung - pulmon  
 lust (desire, libido, sexual passion) - kama  
@@ -2739,7 +2737,7 @@ Noah’s arc - Noe di nave
 nobelium - nobel yum  
 nobody (no-one) - siro jen  
 noise - kelele  
-noodle - mena  
+noodle - mien  
 noon (midday) - medi dia  
 Norfolk Island - Norfolke nesi  
 norm (standard) - norma  
@@ -2791,7 +2789,7 @@ obligation (compulsion) - musta
 oblique (askew, tilted) - terca  
 obsidian - osidian  
 ocean - dai hai  
-Oceania - Oceania  
+Oceania - Oseania  
 ocelot - oselote  
 October - mes des  
 octopus - ohtopus  
@@ -3012,7 +3010,7 @@ peripheral - kinar di
 perish (ruin, dishevel, devastate, desolate) - perex fa  
 perished (ruined, devastated, wretched) - perex  
 permissible (allowed, halal) - halal  
-Persian (Farsi) - farsi  
+Persia (Persian; Farsi) - parsi  
 person (individual, -ist, -er) - jen  
 personal (intimate, private, custom) - jen di  
 personal identification number (PIN) - sekur nume  
@@ -3103,7 +3101,7 @@ play a game - fa geme
 play music - fa muzika  
 playdough - plasti paste  
 player (gamer) - geme ja  
-please (satisfy, delight) - fa suka  
+please (satisfy, delight) - sukafa  
 pliers (pincers) - pinse gi  
 pluck feathers - depena  
 plug (stop with a plug) - fa tapa  
@@ -3655,6 +3653,7 @@ shelf (bookshelf) - lipa bano
 shell (crust, carapace, shield) - kaska  
 Shia Islam (Shi’ism) - xia islam din  
 shield - defa bano  
+shine - lume  
 Shintoism - xindau din  
 shirt - kamisa  
 shish kebab - xix kababu  
@@ -3919,6 +3918,7 @@ superb (wonderful, super) - super
 supply (dispense, issue, put out) - fati  
 support - suporte  
 suppress (press down) - niceprese  
+sure (certain, trusted) - amen di  
 surface (face) - fase  
 Suriname - Surinam  
 surname (family name) - famili nam  
@@ -4095,7 +4095,7 @@ tighten - fa tense
 tikka masala - masala tika  
 tile - tail  
 tilt (skew) - fa terca  
-time (instance, occasion) - mar  
+time (number of times) - mar  
 time - zaman  
 Timor - Timor  
 tin - estan  
@@ -4133,7 +4133,7 @@ toothless - dante hin
 top (peak, pinnacle, summit, apex, vertex) - xan pike  
 top (spinning top) - rota vanu gi  
 top - gau  
-topic (subject, theme) - tema  
+topic (subject, theme; be about) - tema  
 topography - topo grafi  
 torch - fotokane  
 torrent - dai dara  
@@ -4184,9 +4184,9 @@ tropical - garma zona di
 tropics - garma zona  
 true (real, genuine, indeed, very) - ver  
 trunk (torso) - torso  
-trust (have faith, rely) - amen xin  
-trusted - amen xin di  
+trust (be sure of, have faith in) - amen  
 trustee - bekredi  
+trustworthy (loyal, faithful) - amenbil  
 try (attempt) - fa teste  
 tube (pipe) - tubo  
 tuber (bulb) - masa mula  
@@ -4334,7 +4334,7 @@ vivisection - jivatomi
 vocabulary (lexicon) - loga jama  
 volcanic glass - hogo xan kanca  
 volcano - hogo xan  
-volt (V) - volte  
+volt (V) - volta  
 voodoo - vodun  
 vote (ballot) - vote  
 vote (cast a vote) - fa vote  

@@ -855,7 +855,7 @@ conductor (chofer) - xofer ja
 conectar (empalmar, enlazar, vincular) - fa linke  
 conejo (liebre) - tuzi  
 conexión (relación, asociación, juntura, enlace) - linke  
-confiar (contar con) - amen xin  
+confiar (contar con) - amen  
 confirmar - fa amen  
 confucianismo - kung fuzi sim  
 confucio - Kung Fuzi  
@@ -1492,7 +1492,7 @@ farmacia (botica, droguería) - dava xekan
 farmacologia - dava xelogi  
 faro (baliza, almenara) - foto minar  
 farol (linterna) - hogo sanduku  
-farsi - farsi  
+farsi - parsi  
 fascinación - fasinta  
 fascismo - faxa sim  
 fascista - faxa sim ja  
@@ -1510,7 +1510,7 @@ feo - dus vide
 fermentar - be biomute  
 fermio - fermi yum  
 ferretería - metal tul  
-fideo (tallarín) - mena  
+fideo (tallarín) - mien  
 fiebrie (calentura) - febre  
 fijar (pegar, asegurar) - fa fixe  
 Fiji - Fiji  
@@ -1721,8 +1721,7 @@ guitarra - gitar
 gujaratí - gujarati  
 gul - gule  
 gusano de seda - silke larva  
-gustar (complacer) - fa suka  
-gustarse (querer) - fa fili  
+gustar (complacer) - sukafa  
 gusto (sabor) - guste  
 Guyana - Guyana  
 Guyana Francesa - France Guyana  
@@ -1809,7 +1808,7 @@ homorromántico - sam romanse di
 homosexual - sam sexe di  
 homónimo - sam nam  
 Honduras - Onduras  
-honesto (seguramente, amén) - amen  
+honesto (seguramente, amén) - amen di  
 Hong Kong - Hong Gong  
 hongo (moho) - fungu  
 honrar - fa onor  
@@ -2228,6 +2227,7 @@ límite (frontera, linde) - limite
 líquido (fluido) - dara mate di  
 líquido - dara mate  
 lógica - logika  
+lúmen - lumen  
 lúpulo (hombrecillo) - humel  
 
 ## M  
@@ -2381,6 +2381,7 @@ menta acuática - sui minta
 mental (psíquico) - ruhu di  
 menú (carta) - yam liste  
 menú (catálogo) - cun liste  
+meranti - meranti  
 mercado (bazar) - bazar  
 mercurio - hidrargente  
 Mercurio - Merkur  
@@ -2655,7 +2656,7 @@ oblicuo (torcido) - terca
 obligación (compulsión) - musta  
 obsidiana - osidian  
 occidental - veste di  
-Oceanía - Oceania  
+Oceanía - Oseania  
 ocelote - oselote  
 ocho (8) - bati  
 ocra - bamia  
@@ -3633,7 +3634,7 @@ telescopio - teleskope
 teletransportarse - be tele loka  
 televisión - tele vide gi  
 telurio - telu yum  
-tema - tema  
+tema (tratar de) - tema  
 temer - be fobi  
 temperatura - termo  
 templo - pujakan  
@@ -3738,7 +3739,6 @@ transporte - traporte
 trapo (tela para limpiar) - safa tela  
 trasero (nalgas) - pigu  
 tratar (llevar, manejar, lidiar, procesar) - fa culi  
-tratar de - fa tema  
 tren - tren  
 tres (3) - tri  
 tribu - tribu  
@@ -3917,7 +3917,7 @@ vocal - jong fon
 vocal - voka soni  
 volar - fa fei  
 volcán - hogo xan  
-voltio (V) - volte  
+voltio (V) - volta  
 voluntad - ici  
 volver - be retro  
 votar - fa vote  

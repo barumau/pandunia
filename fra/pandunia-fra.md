@@ -77,9 +77,8 @@ ama di - cher
 ama ja - amoureux  
 ama jen - chéri  
 Amara - Amhara (groupe ethnique et langue éthiopienne)  
-amen - honnête (sûr, crédible, sûrement)  
-amen xin - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
-amen xin di - fiable (de confiance, fidèle, sûr, crédible)  
+amen - faire confiance (espérer, croire qqn./qqch., avoir la foi)  
+amen di - sûr (crédible, sûrement)  
 Amerika - Amérique  
 Amerika di - américain  
 Amerika Samoa - Samoa américaines  
@@ -586,7 +585,6 @@ fa sel - conseiller
 fa sing foto - étinceler  
 fa sir - cacher  
 fa sual - demander (poser un question; est-ce que)  
-fa suka - plaire  
 fa tele fon - téléphoner  
 fa truke - escroquer  
 fa turbe - gêner (déranger, perturber)  
@@ -1022,7 +1020,7 @@ klin - tendance
 klor - chlore  
 koala - koala  
 kobalte - cobalt  
-koda - queue (côté )  
+koda - queue  
 kolum - pilier (colonne, poteau)  
 komputa di - numérique  
 kon - avec (commun)  
@@ -1152,6 +1150,7 @@ lotra - loutre
 luga - vert  
 luka - six (6)  
 lulu table - abaque (boulier compteur)  
+lumen - lumen  
 luna - lune  
 luna keke - gâteau de lune  
 lung dou - pois carré  
@@ -1220,6 +1219,7 @@ memo - mémoire
 men - on  
 mendelef yum - mendélévium  
 meninge - méninge  
+meranti - balau (meranti)  
 Merkur - Mercure  
 mes - mois  
 mes bati - août  
@@ -1688,6 +1688,7 @@ sui minta - Menthe aquatique
 sui yau - soif  
 Suise - Suisse  
 suka - heureux (se plaire)  
+sukafa - plaire  
 sukar - sucre  
 sukar bete - betterave à sucre (betterave sucrière)  
 sukar gana - canne à sucre  

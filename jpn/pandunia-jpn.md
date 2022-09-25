@@ -37,9 +37,9 @@ alumin - アルミニウム
 ama - 愛  
 ama di - 愛しい  
 ama ja - 恋人 (恋人)  
-amen - 正直  
+amen - 信頼する  
 amenbil - 忠実  
-amen xin - 信頼する  
+amen di - 正直  
 amerika yum - アメリシウム  
 amir lin - コマンド行  
 ancovi - アンチョビ  
@@ -961,6 +961,7 @@ luga - 緑 (緑色)
 luga melon - ハネデューメロン  
 luka - 六 (6)  
 lulu table - 算盤  
+lumen - lumen  
 luna keke - 月餅  
 lung - 竜  
 lung dou - 四角豆  
@@ -1024,8 +1025,8 @@ melon - マスクメロン
 memo - 記憶  
 • anmemo - 忘れる  
 memo bina - 追悼塔 (碑)  
-mena - ヌードル  
 mendelef yum - メンデレビウム  
+meranti - サラノキ  
 mes - 月間  
 mes bati - ８月  
 mes ceti - ７月  
@@ -1051,6 +1052,7 @@ meza tela - テーブル掛け
 mi - 私  
 mimen - 私たち  
 mi su - 私の  
+mien - 麺 (ヌードル)  
 mikro bio - 微生物  
 mikro biologi - 微生物学  
 mikroskope - 顕微鏡 (マイクロスコープ)  
@@ -1592,6 +1594,7 @@ Vixnu - ヴィシュヌ
 vo - その  
 vode - 約束  
 vol - 欲しい  
+volfe - 狼  
 volfram - タングステン  
 vuki - 武器  
 vulva - 陰門  

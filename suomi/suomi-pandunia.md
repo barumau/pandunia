@@ -33,7 +33,7 @@ ahopäivänkakkara - baku margarite
 Ahvenanmaa (Oolanti) - Olande nesi  
 aie (aikomus, tarkoitus) - nia  
 aihe (teema) - tema  
-aiheesta (-sta) - fa tema  
+aiheesta (-sta) - a tema de  
 aiheuttaa (olla syynä) - fa sabu  
 aika (kesto, kestoaika) - dura  
 aika - zaman  
@@ -151,7 +151,7 @@ appelsiini - oranje
 aprikoosi (luumu) - briko  
 apteekki - dava xekan  
 apu - mede  
-arabialainen - arabi  
+Arabia (arabia; arabialainen) - arabi  
 araknofobia (hämähäkkikammo) - arane fobi  
 arboretum (puulajipuisto) - moka jong parke  
 Argentiina - Argentina  
@@ -160,6 +160,7 @@ Ariel - Ariel
 arkkitehti - bina plan ja  
 arkkitehtuuri - bina plan  
 Arktis - Artika  
+armas (rakas toveri) - bau bei  
 armeija (sotajoukko) - ordu  
 Armenia - Haye  
 aromanttinen - anromanse  
@@ -851,7 +852,7 @@ ilmavoimat - air ordu
 ilmeinen (silminnähtävä) - vai vide di  
 ilmestyä - be zai  
 ilmiasu (ulkonäkö) - rupa  
-ilostuttaa (tyydyttää) - fa suka  
+ilostuttaa (tyydyttää) - sukafa  
 ilta - xam  
 iltapäivä - xam dia  
 ilves - linse  
@@ -1791,7 +1792,7 @@ luonto - tabi
 luota (lähtien, -sta, -lta) - de  
 luotettava - amenbil  
 luotettavuus - amenbilta  
-luottaa (uskoa) - amen xin  
+luottaa (pitää varmana) - amen  
 luottokortti - kredikarte  
 lupaava (hyvältä vaikuttava) - bon sin di  
 lupaus (vala) - vode  
@@ -1980,6 +1981,7 @@ mennä sisään - be in
 mennä vasten - kontra  
 mennä yli tai poikki - be krus  
 menopaluulippu - retro tikete  
+merantipuu - meranti  
 merenranta - hai kinar  
 merensininen - hai nil  
 meri - hai  
@@ -2251,7 +2253,7 @@ nuoruus - junta
 nuoruusvuodet - junnen  
 nurmikko (ruohikko) - cau medan  
 nussia (panna) - coda  
-nuudeli - mena  
+nuudeli - mien  
 nykyinen (tämänhetkinen) - zai zaman di  
 nyrkkeilijä - bocer  
 nyrkkeily - boce  
@@ -2353,7 +2355,7 @@ osallistua - fa parti
 osallistua - parti cepe  
 osallistuja - parti ceper  
 osata - sabi  
-Oseania - Oceania  
+Oseania - Oseania  
 osittainen - fen di  
 osmani (ottomaani) - osman  
 Osmanien valtakunta - Osman Imperi Dexa  
@@ -2509,7 +2511,7 @@ perhonen - pelpel
 perimä (genotyyppi) - gene tipe  
 perintö - varite  
 perjantai - den lima  
-persia (farsi) - farsi  
+persia (farsi) - parsi  
 personoida - fa auto  
 Peru - Peru  
 peruna (potaatti) - patate  
@@ -2800,7 +2802,6 @@ raippa - uma bici
 raja - limite  
 rajapinta - medi fase  
 rakas (armas) - ama di  
-rakas (rakkauskumppani) - bau bei  
 rakastaa romanttisesti - fa romanse  
 rakastaja - ama ja  
 rakennus (rakenne) - bina  
@@ -2834,7 +2835,6 @@ rauta - fero
 ravintola - restoran  
 reagoida - reati  
 reaktio (vastaliike) - reation  
-rehellinen (totisesti, uskottavasti, aamen) - amen  
 rehtori - xula xefe  
 reikä - kung  
 Rein - Ren  
@@ -3622,7 +3622,6 @@ tyhmä (hölmö) - idiote di
 tykki - dai pau  
 tykkimies - dai pau ja  
 tykkääminen - fili  
-tykätä (pitää) - fa fili  
 tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen) - suka  
 tylsyys (pitkästys) - bori  
 tynnyri (tölkki) - tong  
@@ -3812,7 +3811,7 @@ varata (tehdä varaus) - fa rezerve
 varaus (ennakkovaraus) - rezerve  
 varjo - saya  
 varkaus - cori  
-varma - amen xin di  
+varma (luotettu) - amen di  
 varras - xix  
 varraskebab - xix kababu  
 vartalo (varsi, torso) - torso  
@@ -3962,7 +3961,7 @@ voitto pandunialle! - jai pandunia!
 vokaali (ääntiö) - voka soni  
 vokaali - jong fon  
 volframi - volfram  
-voltti (V) - volte  
+voltti (V) - volta  
 voodoo - vodun  
 vulkaaninen lasi - hogo xan kanca  
 vuode (sänky, peti) - bede  

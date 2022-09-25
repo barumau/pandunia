@@ -29,7 +29,7 @@
 **alumin** *aluminium* ← English:aluminium, French:aluminium, Spanish:aluminio, Portuguese:alumínio, Russian:алюминий, Mandarin:铝 (lǚ), Japanese:アルミニウム, Korean:알루미늄, Vietnamese:nhốm, Hindi:एल्युमिनियम, Bengali:অ্যালুমিনিয়াম, Malay:aluminium, Swahili:alumini, Arabic: الومينيوم  
 **ama** *but (rather)* ← Arabic: أما‎ (ʔamma), Turkish:ama, Persian:Urdu:اما‎ (ammâ), Hausa:amma, Yoruba:àmọ́  
 **ama** *love (liking, affection)* ← Spanish:Portuguese:amar, French:aimer  
-**amen** *honest (trustworthy, true; surely, verily, amen)* ← heb: אָמֵן‎, (ʾāmēn), Arabic: آمین‎, (āmīna), Swahili:amina, amini, Turkish:amin + Greek:ἀμήν (ámén), English:deu:French:Polish:Spanish:amen, Mandarin:阿门 (āmén), Korean:아멘 (amen), Japanese:アーメン (āmen), Vietnamese:a-men  
+**amen** *trust (be sure of, have faith in)* ← heb: אָמֵן‎, (ʾāmēn), Arabic: آمَنَ‎ (āmana), Swahili:amini, Turkish:amin + Greek:ἀμήν (ámén), English:deu:French:Polish:Spanish:amen, Mandarin:阿门 (āmén), Korean:아멘 (amen), Japanese:アーメン (āmen), Vietnamese:a-men  
 **amerika yum** *americium* ← English:americium, French:américium, Spanish:americio, Portuguese:amerício, Russian:америций, Mandarin:镅 (méi), Japanese:アメリシウム, Korean:아메리슘, Vietnamese:amerixi, Hindi:अमेरिशियम, Bengali:অ্যামেরিসিয়াম, Malay:amerisium, Swahili:ameriki, Arabic: أمريكيوم  
 **Amerika** *America (continent)* ← English:America, Spanish:Portuguese:América, Russian:Америка (Amerika), Turkish:Swahili:Malay:Amerika, Arabic:أمريكا‎ (ʾamrīkā), Hindi:अमेरिका (amerikā), Bengali:আমেরিকা (amerika), Japanese:アメリカ (amerika)  
 **amir** *order (command)* ← Arabic: أَمْر‎ (ʾamr), Persian: امر‎ (amr), Turkish:emir, Swahili:amiri, Hausa:umarni + English:admiral, French:amiral, Spanish:Portuguese:emir Russian:эмир (emir)  
@@ -762,7 +762,7 @@
 **koda** *tail (coda)* ← English:coda, Spanish:coda,cola, Portuguese:cauda, French:côté, Japanese:コーダ (kōda)  
 **kode** *code (cipher)* ← English:code, Spanish:Portuguese:código, ru:код, Persian:کد‎ (kod), Hindi:कोड (koḍ), Japanese:コード (kōdo)  
 **koka** *coca* ← Spanish:English:coca, Russian:кока (koka), Turkish:koka, Mandarin:古柯 (gǔké)  
-**koko** *chicken* ← French:coq, English:cock, Polish:kogut, Gujarati:કૂકડો (kūkḍo), + Swahili:kuku, Zulu:inkukhu,Igbo:Ọkụkọ + (onom,) Italian:coccodè, Japanese:コッコッ (kokko), Persian:(qod-qod-qodās), Russian:куд-куда, Hindi:कुटकुटा (kutkutā)  
+**koko** *chicken* ← French:coq, English:cock, Polish:kogut, Gujarati:કૂકડો (kūkḍo) + Swahili:kuku, Zulu:inkukhu, Igbo:Ọkụkọ + (onom.) Italian:coccodè, Japanese:コッコッ (kokko), Persian:(qod-qod-qodās), Russian:куд-куда, Hindi:कुटकुटा (kutkutā)  
 **kola** *kola* ← English:Spanish:cola, Russian:кола (kola), Hindi:कोला (kolā), Japanese:コラ (kora), Swahili:mkola, Hausa:gworo  
 **koloni** *colony (settlement)* ← English:colony, Spanish:colonia, Portuguese:colônia, Russian:колония (koloniya), Turkish:ma:koloni, Hindi:कॉलोनी (kŏlonī), Japanese:コロニー  
 **kolum** *pillar (column, pole, post)* ← English:column, French:colonne, Spanish:columna, Portuguese:coluna, Russian:колонна (kolonna), Polish:kolumna  
@@ -804,7 +804,7 @@
 **kube** *cube* ← Spanish:Portuguese:cubo, deu:Kubus, English:French:cube, Russian:куб (kub), Arabic:(kaʿba), Malay:kubus, Turkish:küp  
 **kudi** *elbow* ← Arabic: كُوع‎ m (kūʿ) + French:coude + Hindi:कुहनी (kuhnī)  
 **kuke** *cook (prepare food)* ← English:cook, deu:Kock, Italian:cuoco, Malay:koki, Thai:กุ๊ก (kuk), sango:kuku + Russian:кухар (kuhar), Polish:kucharz  
-**kuku** *cuckoo* ← English:cuckoo, French:coucou, Spanish:Portuguese:cuco, Russian:кукушка (kukushka), Japanese:郭公  (kakkō), Mandarin:布谷鸟 (bùgǔniǎo)  
+**kuku** *cuckoo* ← English:cuckoo, French:coucou, Spanish:Portuguese:cuco, Russian:кукушка (kukushka), Persian: کوکو‎ (kuku), Japanese:郭公 (kakkō), Mandarin:布谷鸟 (bùgǔniǎo), Turkish:guguk  
 **kul** *cool* ← English:deu:French:cool, Japanese:クール (kūru), Mandarin:酷 (kù)  
 **kultur** *culture* ← English:French:culture, Spanish:Portuguese:cultura, Russian:культу́ра (kulʹtúra), Turkish:kültür, Japanese:カルチャー (karuchā)  
 **kumu** *mound (hill)* ← English:cumulate, French:cumuler, Spanish:Portuguese:cumular + Turkish:kumul + Arabic:كَوْمَة‎ (kawma), Persian: کومه (kume)  
@@ -883,6 +883,7 @@
 **luga** *green* ← Mandarin:绿 (lǜ), Cantonese:綠 (luk6), Vietnamese:lục, Korean:록/녹 (rok/nok), Japanese: 緑色 (ryokushoku)  
 **luka** *six (6)* ← Mandarin:六 (liù), Cantonese:六 (luk6), Japanese:六 (roku), Korean:육/륙 (六, yuk/ryuk), Vietnamese:lục  
 **lulu** *pearl* ← Amharic:ሉል (lul), Arabic:(luʾluʾa), Swahili:lulu, Oromo:lu'ulu'a, Hausa:lu'ulu'u, Fulani:luuluuri, Persian:(lo'lo')  
+**lume** *shine* ← Arabic: لَمَعَ‎ (lamaʿa) + Spanish:lumbre, Portuguese:lume, French:lumineux, English:luminous + Russian:люмен (lyumen),Mandarin:流明 (liúmíng),  Japanese:ルーメン (rūmen), Korean:루멘 (rumen), Malay:lumen  
 **luna** *moon* ← French:lune, Spanish:luna, English:lunar, Russian:луна (luná)  
 **lung** *dragon* ← Mandarin:龙 (lóng), Cantonese:龍 (lung4), Vietnamese:rồng,long, Korean:용 (yong), 룡 (ryong), Japanese:竜 (ryū), Khmer:រោង (roong), Thai:มะโรง (má-roong)  
 **luta** *rob (loot, plunder, pillage, ransack)* ← Hindi:लूटना (lūṭnā), Urdu:(lūṭnā), Bengali:লুটা (luṭā), Punjabi:ਲੁੱਟ (luṭ), English:loot, + Mandarin:掠夺 (lüèduó), Cantonese:掠 (loek6)  
@@ -909,7 +910,7 @@
 **mantol** *cape (cloak, mantle)* ← English:mantle, Spanish:manto, French:manteau, Russian:манто (manto), Japanese:マント (manto), Korean:망토 (mangto), Malay:mantel  
 **mantra** *mantra (chant)* ← English:French:Spanish:Portuguese:Malay:mantra, Russian:мантра (mantra), Hindi:मंत्र (mantra), Bengali:মন্ত্র (môntr)  
 **mantu** *steamed bun (mantou, manti)* ← Russian:манты (manty), Mandarin:馒头 (mántóu), jpn;饅頭 (manjū), Korean:만두 (mandu), Persian:Urdu: منتو‎ (mantu), Turkish:mantı  
-**mar** *time (instance, occasion)* ← Arabic: مرة (marra), Swahili:mara, Hindi:बार (bār), Persian:Urdu: بار‎(bār), deu:Mal  
+**mar** *time (number of times)* ← Arabic: مرة (marra), Swahili:mara, Hindi:बार (bār), Persian:Urdu: بار‎(bār), deu:Mal  
 **maraton** *marathon* ← English:marathon, Spanish:maratón, Portuguese:maratona, Russian:марафо́н (marafón), Turkish:maraton, Arabic:مَارَاثُون‎ (mārāṯūn), Hindi:मैराथन (mairāthan), Bengali:ম্যারাথন (mjarathôn), Mandarin:马拉松 (mǎlāsōng), Japanese:マラソン (marason)  
 **marce** *walk (march)* ← English:march, French:marche, Spanish:Portuguese:marcha, Russian:марш (marš), Hindi:मार्च (mārc), Turkish:marş, Swahili:machi  
 **margai** *margay* ← English:margay, Spanish:maracayá, Portuguese:maracajá, Russian:маргай (margay), Arabic:مارج (mārǧ), Japanese:マーゲイ (māgei)  
@@ -948,18 +949,18 @@
 **meme** *sheep* ← Lingala:Kongo:meme + Hindi:मेष (meṣ), Persian:(miš), Thai:เมษ (met) + Japanese:メーメー (mē mē), Portuguese:meh, Arabic:(maa'), Turkish:mee  
 **memo** *memory (recollection)* ← English:memory, French:mémoire, Spanish:memoria, Portuguese:memória  
 **men** *one (people, you)* ← English:men, deu:man + Mandarin:们 (men), Cantonese:們 (mun4) + (tumen) Hindi:तुम (tum), rom:tumen  
-**mena** *noodle* ← Mandarin:面 (miàn), Malay:mie, Japanese:麺 (men), Thai:หมี่ (mii), Khmer:មី (mi)  
 **mendelef yum** *mendelevium* ← English:mendelevium, French:mendélévium, Spanish:mendelevio, Portuguese:mendelévio, Russian:менделевий, Mandarin:钔 (mén), Japanese:メンデレビウム, Korean:멘델레븀, Vietnamese:menđelevi, Hindi:मेण्डेलीवियम, Bengali:মেন্ডেলিভিয়াম, Malay:mendelevium, Swahili:mendelevi, Arabic: مندلفيوم  
 **meninge** *meninx (meninges)* ← English:meninx, Spanish:Portuguese:meninge, French:méninge  
 **mentor** *advisor (counselor, mentor)* ← Sanskrit:मन्त्रिन् (mantrin), Hindi:मंत्री (mantrī), Thai:มนตรี (mon-tri), Malay:menteri, English:deu:French:Portuguese:Spanish:mentor, Japanese:メンター (mentā), Korean:멘토 (mento), Russian:ментор (mentor)  
 **mer** *member (part of a group, component)* ← English:member, Spanish:miembro, Portuguese:membro, French:membre, Japanese:メンバー (menbā)  
-**meranti** *lauan tree (meranti, balau)* ← Malay:English:Portuguese:meranti  
+**meranti** *lauan tree (meranti, balau)* ← Malay:deu:English:French:Spanish:Portuguese:meranti  
 **mes** *month* ← French:mois, Spanish:mez, Portuguese:mês, Russian:месяц (mes’ac), English:menstral + Swahili:mwezi  
 **mesi** *Christ (messiah)* ← English:messiah, French:messie, Spanish:mesías, Portuguese:messias, Russian:мессия (messiya), Arabic: مَسِيح‎ (masīḥ), Hindi:मसीह (masīh), Bengali:মসিহ (môśih), Malay:al-Masih, Swahili:Masiya, Turkish:Mesih  
 **metal** *metal* ← English:Spanish:Portuguese:Turkish:metal, French:métal, deu:Metall, Russian:мета́лл (metáll)  
 **metre** *measure (measurement)* ← English:meter, Spanish:Portuguese:-metro, Russian:метр Turkish:metre, + Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra  
 **meza** *table* ← Portuguese:Spanish:mesa, Hindi:मेज़ (mez), Swahili:meza, Malay:meja, Tamil:மேசை (mesei), Persian: میز‏‎ (miz), Turkish:masa  
 **mi** *I (me)* ← English:French:Spanish:Portuguese:me, hindi:मैं (mẽ), Bengali:আমি (ami), Swahili:mimi, Turkish:men  
+**mien** *noodle* ← Mandarin:面 (miàn), Cantonese:麵 (min6), Japanese:麺 (men), Korean:면 (myeon), Vietnamese:mì; miến, Malay:mie, Thai:หมี่ (mii), Khmer:មី (mi)  
 **migra** *migration (moving)* ← French:English:migration, Spanish:migración, Portuguese:migração, Russian:миграция (migratsiya)  
 **mikro** *tiny (microscopic, micro-)* ← English:French:Spanish:Portuguese:micro-, Russian:микро- (mikro-), Japanese:マイクロ- (maikuro-), Malay:Turkish:mikr-  
 **milke** *milk* ← English:milk, deu:Milch, Japanese:ミルク  (miruku), Korean:밀크 (milkeu), Lingala:míliki, Russian:молоко (moloko)  
@@ -1260,7 +1261,7 @@
 **rol** *role* ← English:role, French:rôle, deu:Rolle, Russian:роль (rol’), Turkish:rol, kat:როლი (roli), Persian:رل‎ (rol)  
 **rolo** *roll (scroll, coil)* ← English:roll, French:rouleau, deu:Rolle, Spanish:rollo, Portuguese:rolo  
 **rom** *rum* ← English:rum, Spanish:ron, Hindi:रम (ram), Russian:ром (rom)  
-**romanse** *romance (romantic love)* ← French:English:Spanish:Portuguese:romance, Russian:роман (roman), Turkish:romans, Malay:roman, Japanese:ロマンス (romansu), Korean:로맨스 (romaenseu)  
+**romanse** *romance (romantic love)* ← French:English:Spanish:Portuguese:romance, Russian:роман (roman), Japanese:ロマンス (romansu), Korean:로맨스 (romaenseu), Arabic: رُومَانْسِيّ‎ (rōmansiyy), Turkish:romans  
 **rose** *dew* ← French:rosée, Spanish:rocío, Russian:роса (rosa)  
 **roste** *roast* ← French:rôtir, English:roast, deu:rösten, Italian:arrostare  
 **rota vanu gi** *top (spinning top)* ← English:top, French:toupie  
@@ -1417,7 +1418,7 @@
 **tela** *cloth (fabric, textile)* ← Spanish:Portuguese:Filipino:tela, French:toile + English:towel, Hindi:तौलिया (tauliyā), Swahili:taulo, Japanese:タオル (taoru), Malay:tuala  
 **tele** *distance (far away)* ← English:Spanish:Portuguese:Malay:tele-, French:télé-, Russian:теле- (tele-)  
 **telu yum** *tellurium* ← English:tellurium, French:tellure, Spanish:telurio, Portuguese:telúrio, Russian:теллур, Mandarin:碲 (dì), Japanese:テルル, Korean:텔루르, Vietnamese:telu, Hindi:टेलुरियम, Bengali:টেলুরিয়াম, Malay:telurium, Swahili:teluri, Arabic: تيلوريوم  
-**tema** *topic (subject, theme)* ← French: thème, Spanish: tema, Russian: тема (tema), deu:Thema + Mandarin:题目 (tímù)  
+**tema** *topic (subject, theme; be about)* ← French: thème, Spanish: tema, Russian: тема (tema), deu:Thema + Mandarin:题目 (tímù)  
 **tene** *hold (grasp, detain)* ← French:tener, Spanish:tenir, Portuguese:ter, English:-tain  
 **tenesi yum** *tennessine* ← English:French:Portuguese:Malay:tennessine, Spanish:teneso, Russian:теннессин, Japanese:テネシン, Korean:우눈셉튬  
 **tense** *tight (tense)* ← English:tense, French:tendu, Spanish:Portuguese:tenso  
@@ -1541,7 +1542,7 @@
 **voka** *call (voice; summon)* ← English:voke, French:-voquer, Spanish:Portuguese:-vocar + deu:Vokal  
 **voku** *happen (occur; happening, event, occurence)* ← English:occur, Spanish:ocurrir, Portuguese:ocorrer + Japanese:起こる (okoru) + Arabic: وَقْعَة (waqʿa), Persian: وقعه‎ (vaq'e), Urdu: وقوع (vuqū’), Hindi:वाक़या (vāqyā), Bengali:অকু (ôku), Turkish:vaka; vakia + Tamil:ஆகு (āku)  
 **vol** *want (desire, wish)* ← French:voiloir, Italian:volere, deu:wollen, English:volition, Spanish:voluntad, Russian:воля (volya), Polish:wola  
-**volfe** *wolf* ← deu:ned:English:wolf, Russian:волк (volk)  
+**volfe** *wolf* ← deu:English:wolf, Russian:волк (volk)  
 **volfram** *tungsten (wolfram)* ← English:wolfram, Spanish:wolframio, Russian:вольфрам, Mandarin:钨 (wū), Vietnamese:vonfam, Malay:wolfram, Swahili:wolframi  
 **vote** *vote (ballot)* ← English:vote, Spanish:Portuguese:voto, Hindi:वोट (voṭ), Russian:вотум (votum)  
 **vuki** *weapon (arms)* ← Mandarin:武器 (wǔqì), Cantonese:武器 (mou5 hei3), Japanese:武器 (buki), Korean:무기 (mugi), Vietnamese:vũ khí  

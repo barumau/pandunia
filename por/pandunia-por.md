@@ -49,8 +49,8 @@ ama - amor
 ama di - querido (caro)  
 ama ja - amante  
 ama jen - querido  
-amen - honesto (sincero)  
-amen xin - confiar (contar com)  
+amen - confiar (contar com)  
+amen di - honesto (sincero)  
 amerika yum - amerício  
 ancovi - anchova  
 andesite - andesito  
@@ -961,6 +961,7 @@ lou - vazar
 luga - verde  
 luka - seis (6)  
 lulu table - ábaco  
+lumen - люмен  
 luna - lua  
 luna keke - bolo lunar  
 luta ja - ladrão  
@@ -1600,6 +1601,7 @@ vode - promessa (voto)
 voka soni - vogal  
 vol - querer (desejar)  
 vol xe - vontade  
+volfe - lobo  
 volfram - tungsténio  
 vote - voto  
 vuki - arma  

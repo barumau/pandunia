@@ -375,7 +375,7 @@ concha - pote camaca
 condutor (chofer, motorista) - xofer ja  
 conduzir - fa xofer  
 conexão (vínculo, laço) - linke  
-confiar (contar com) - amen xin  
+confiar (contar com) - amen  
 confiar (contar com) - kredi  
 conhecer - ken  
 cono - kone  
@@ -746,7 +746,7 @@ hidrogéno - hidro
 higiene - salu safata  
 hipopótamo - gubu  
 hmm… - hem…  
-honesto (sincero) - amen  
+honesto (sincero) - amen di  
 honra - onor  
 honrar - fa onor  
 hora - hor  
@@ -891,6 +891,7 @@ livre (forro) - huru
 livro - buku  
 lixeira - lasa tong  
 lição - xula xe  
+lobo - volfe  
 local - loka di  
 longo - long  
 lontra - lotra  
@@ -1705,3 +1706,4 @@ zumbi - zombi
 ósmio - osmi yum  
 óxide - oxide  
 único (só) - un di  
+люмен - lumen  

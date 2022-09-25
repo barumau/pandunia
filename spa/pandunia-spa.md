@@ -96,10 +96,10 @@ ama di - querido
 ama ja - amante (enamorado)  
 ama jen - amado (cariño)  
 Amara - amhara  
-amen - honesto (seguramente, amén)  
+amen - confiar (contar con)  
 amenbil - leal (fiel)  
 amenbilta - lealtad (fidelidad)  
-amen xin - confiar (contar con)  
+amen di - honesto (seguramente, amén)  
 Amerika - América  
 Amerika di - americano  
 Amerika Samoa - Samoa Americana  
@@ -931,7 +931,6 @@ fa fen do du - reducir a la mitad (dividir en dos)
 fa fen gata - analizar (disecar)  
 fa festa - celebrar (festejar)  
 fa fikir - pensar  
-fa fili - gustarse (querer)  
 fa fin - terminar (acabar)  
 fa fixe - fijar (pegar, asegurar)  
 fa fobi - asustar (atemorizar)  
@@ -1095,13 +1094,11 @@ fa siro - cancelar (nulificar, borrar, eliminar)
 fa soni - sonar  
 fa sosi - alternar (interactuar)  
 fa sual - preguntar (inquirir)  
-fa suka - gustar (complacer)  
 fa sultan - reinar (gobernar)  
 fa sum - sumar  
 fa tapa - taponar  
 fa tela - tejer  
 fa tele fon - telefonear  
-fa tema - tratar de  
 fa terca - inclinar  
 fa tese - argumentar (alegar)  
 fa teste - intentar (probar)  
@@ -1143,7 +1140,6 @@ fan - fan
 fantazi - imaginación (fantasía)  
 fantazi di - imaginario (fantástico)  
 fantom - fantasma  
-farsi - farsi  
 fase - faz (faceta)  
 fase area - área (superficie)  
 fase tele - profundo (hondo)  
@@ -2249,6 +2245,7 @@ luka fase - hexaedro (cubo)
 luka gona - hexágono  
 lulu - perla  
 lulu table - ábaco  
+lumen - lúmen  
 luna - luna  
 luna keke - pastel de luna  
 lung - dragón  
@@ -2394,13 +2391,13 @@ memo - memoria
 • anmemo - olvidar  
 memo bina - monumento  
 memo note - memorándum (nota)  
-mena - fideo (tallarín)  
 mendelef yum - mendelevio  
 meninge - meninge  
 meninge tis - meningitis  
 mentor - consejero (asesor)  
 mer - pertenecer (ser miembro de)  
 mer - miembro (componente)  
+meranti - meranti  
 Merkur - Mercurio  
 mes - mez  
 mes bati - agosto  
@@ -2437,6 +2434,7 @@ mimen - nosotros
 mimen su - nuestro  
 mi su - mi  
 Mianma - Myanmar (Birmania)  
+mien - fideo (tallarín)  
 migra - migración  
 mikro - micro-  
 mikro bio - microbio  
@@ -2713,7 +2711,6 @@ nume zi - dígito (cifra)
 ## O  
 
 o - o  
-Oceania - Oceanía  
 Odisa - oriya  
 oganeson - oganesón  
 ohtopus - pulpo  
@@ -2741,6 +2738,7 @@ Oromo Dexa - Oromía
 orto - recto  
 orto gona - ángulo recto  
 orto gona di - ortogonal  
+Oseania - Oceanía  
 oselote - ocelote  
 osidian - obsidiana  
 oskur - oscuro  
@@ -2815,6 +2813,7 @@ pari - hada
 pari kata - cuento de hadas  
 parke - parque  
 parne - helecho  
+parsi - farsi  
 parti - partido (grupo)  
 parti cepe - participar  
 parti ceper - participante  
@@ -3438,6 +3437,7 @@ sui sekur di - impermeable (sumergible)
 sui yau - sed  
 Suise - Suiza  
 suka - feliz (gustarse, disfrutar)  
+sukafa - gustar (complacer)  
 sukar - azúcar  
 sukar bete - remolacha azucarera  
 sukar di - azucarado  
@@ -3522,7 +3522,7 @@ tele vide gi - televisión
 teleskope - telescopio  
 telu yum - telurio  
 Telugu - télugu  
-tema - tema  
+tema - tema (tratar de)  
 tema nam - título  
 tene - tener (mantener, detener)  
 • intene - contener (contenido)  
@@ -3797,7 +3797,7 @@ vol - querer (desear)
 vol xe - deseo  
 volfe - lobo  
 volfram - tungsteno (wolframio)  
-volte - voltio (V)  
+volta - voltio (V)  
 vote - voto  
 vote haki - sufragio (derecho al voto)  
 vuki - arma  
