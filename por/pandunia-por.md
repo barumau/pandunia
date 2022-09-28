@@ -299,7 +299,7 @@ danse - baile (danza)
 Danske - danês  
 dante hin - desdentado  
 dara tubo - funil  
-darja mute - desenvolvimento  
+gradu mute - desenvolvimento  
 darmestadi yum - darmstádio  
 data - dados  
 data banke - banco de dados  
@@ -1627,8 +1627,6 @@ xanti - descanso (repouso)
 xanti di - tranquilo (calmo)  
 xatan - opor  
 xatan ja - Satanás  
-xau - poucos  
-xauta - poucos  
 xava - chuva  
 xava cati - guarda-chuva  
 xava kote - capa de chuva  

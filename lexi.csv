@@ -371,7 +371,7 @@ be.fobi|be fobi||||fear (be afraid)||craindre (avoir peur)|temer|temer|боят�
 be.gamo|be gamo||||feel|||sentir|||||||||||||||||emocii|tuntea (kokea tunteita)|czuć, odczuć, odczuwać
 be.gas|be gas||||gasify (vaporize)|||gasificarse||||||||||||||||||kaasuuntua|zamieniać się w gaz (parować)
 be.gau|be gau||||rise (go up)|||subir (alzar)||||||||||||||||||nousta|wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)
-be.gau.darja|be gau darja||||level up (graduate)|||||||||||||||||||||nousta ylemmälle tasolle|
+be.gau.gradu|be gau gradu||||level up (graduate)|||||||||||||||||||||nousta ylemmälle tasolle|
 be.gene|be gene||||be born|||nacer|||||||||||||||||naski|syntyä|urodzić się, rodzić się
 be.ging|be ging||||align (go along)|||alinear||||||||||||||||||olla linjassa|iść wzdłuż (pójść wzdłuż)
 be.halte|be halte||||stop (halt)|||pararse (detenerse)||||||||||||||止まる|||halti|pysähtyä|zatrzymać się
@@ -502,7 +502,7 @@ Bolivia|Bolivia|dexa|BO||Bolivia|||Bolivia|||||||||||||||||Bolivio|Bolivia|Boliw
 bolte|bolte|||eng:bolt, fra:boulon, rus:болт (bolt), hin:बोल्ट (bolṭ), jpn:ボルト (boruto), kor:볼트 (bolteu) |bolt||boulon|||болт||बोल्ट||||||||||ボルト|볼트||bolto|pultti|
 bomba|bomba|||pol:por:spa:tur:bomba, rus:бомба (bomba), deu:fra:bombe, fas:(bomb), eng:bomb, ben:বোমা (boma), hin:बम (bam), urd:(bam), jpn:ボム (bomu), kor:봄 (bom), may:bom|bomb||bombe|bomba|bomba|бомба||बम|||bom||bomba|||炸弹|||||bombo|pommi|bomba
 bon|bon|||fra:bon, por:bom, spa:bueno, + khm:បុណ្យ (bon), tha:บุญ (bun), tel:పుణ్యము (puṇyamu)|good||bon|bueno|bom|хороший||अच्छा|||bagus|حَسَن||mzuri||好||良い (元気, 上手)|||bona|hyvä|dobry
-bon.darja|bon darja||||upgrade (level up)|||mejorar||||||||||||||||||nostaa tasoa|aktualizować (zaktualizować, ulepszać, ulepszyć)
+bon.gradu|bon gradu||||upgrade (level up)|||mejorar||||||||||||||||||nostaa tasoa|aktualizować (zaktualizować, ulepszać, ulepszyć)
 bon.guste.di|bon guste di||||delicious (yummy)|||delicioso||||||||||||||美味しい||||herkullinen (nami)|pyszny
 bon.max.xe|bon max xe||||bonus|||||||||||||||||||||bonus|dodatkowy
 bon.moral|bon moral||||virtue (morals)|||virtud (moralidad)||||||||||||道德||||||hyve|cnota (moralność)
@@ -549,7 +549,7 @@ bude|bude|||deu:Bude, eng:booth, rus:будка (budka), hin:बूथ (būth), 
 budi|budi|||san:बोधि (bodhi), hin:बुद्धि (buddhi), jpn:菩提 (bodai), zho:菩提 (pútí), mon:бодь (bodʹ), kor:보리 (bori), tha:โพธิ (potí)|realization (awareness, enlightenment, bodhi)|||comprensión (entendimiento)|||||||||||||||||kompreno|ymmärrys (taju, oivallus)|uświadomienie, świadomość; oświecenie, bodhi
 budi.di|budi di||||aware (enlightened)|||concienciado (iluminado)|||||||||||||||||konscia|valaistunut|świadomy; oświecony
 bufete|bufete|||fra:buffet, eng:buffet, spa:bufé, por:bufete, deu:Büfett, rus:буфет (bufet), zho:部飛 (bùfēi), jpn:ビュッフェ (byuffe), kor:뷔페 (bwipe), may:bufet, swa:bufee|buffet (smorgasbord)|||bufé||буфет||||||||||自助餐||ビュッフェ (バイキング)||||noutopöytä (buffetti)|bufet (szwedzki stół)
-bujete|bujete|||eng:fra:budget, deu:Budget, rus:бюджет (b’udzhet), tur:bütçe, hin:बजट (bajaṭ), ben:বাজেট (bajeṭ), may:bajet, jpn:バジェット (bajetto)|budget|||presupuesto|||||||||||||||||buĝeto|budjetti|budżet
+pesa.plan|pesa plan||||budget|||presupuesto|||||||||||||||||buĝeto|budjetti|budżet
 buku|buku|||eng:book, deu:Buch, may:buku, swa:buku, fra:bouquin, hin:बुक (buk)|book||livre|libro|livro|книга||पुस्तक (किताब)|||buku (pustaka, kitab)||kitap|kitabu||书||本 (書物)|||libro|kirja|książka
 bulbul|bulbul|bio|Luscinia megarhynchos|ara: بلبل‎ (bulbul), hin:बुलबुल (bulbul), may:bulbul, tur:bülbül|nightingale||rossignol|ruiseñor|rouxinol|соловей||बुलबुल|||bulbul|بلبل‎|bülbül|||夜莺|||||najtingalo|satakieli|słowik
 bum|bum|||eng:boom, deu:Bumm, fra:boum, spa:por:bum, hin:बूम (būm), zho:砰 (pēng), kor:펑 (peong), vie:bùm|explosion (blast, eruption)||explosion|explosión (estallado)|explosão|взрыв||विस्फोट|বিস্ফোরণ||||patlama|ledakan (letupan, eksplosi)||爆炸||爆発|폭발|nổ|eksplodo|räjähdys (pamaus)|wybuch (eksplozja)
@@ -595,7 +595,7 @@ cau.stan|cau stan||||grassland (prairie)|||pradera (pastizal)||||||||||||||草�
 cavi|cavi|||por:chave, spa:llave, hin:चाबी (cābi), ben:চাবি (cabi), tam: சாவி (cāvi), wol:caabi, kon:nsapi|key||clé (clef)|llave|chave|ключ||ताली (चाबी, कुंजी)|চাবি||kunci|مِفْتَاح‎|anahtar|ufunguo||钥匙 (锁匙)||鍵|열쇠|chìa khoá|ŝlosilo|avain|klucz
 ceke|ceke|||eng:check, spa:chequear, por:checar, deu:chekcen, jpn:チェックする (chekkusuru)|examine (inspect, check)|||revisar (chequear, examinar, inspeccionar)||||||||||||检查|||||kontroli|tarkistaa (tsekata, tutkia)|sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać
 ceke|ceke|||eng:spa:por:cheque, fra:chèque, rus:чек (ček), ara: شِيك‎ (šēk), jpn:チェック (chekku), vie:séc, hin:चेक (cek), ben:চেক (cek), may:cek, ind:cheki|cheque (check)||chèque|cheque|cheque|чек||चेक|চেক||cek|شِيك‎|çek|cheki||支票||小切手 (チェック)|수표|séc (chi phiếu)|ĉeko|šekki|czek
-celsius.darja|celsius darja|unomete|°C||degree Celsius|||grado Celsius||||||||||||||||||celsiusaste|stopień Celsjusza
+celsius.gradu|celsius gradu|unomete|°C||degree Celsius|||grado Celsius||||||||||||||||||celsiusaste|stopień Celsjusza
 cen|cen|||zho:前 (qián), yue:前 (cin4), jpn:前 (zen), kor:전 (jeon), vie:tiền|earlier (before, in the past)||avant|más temprano (antes, haber, en el pasado)||раньше||||||||||以前||以前 (前に)|전에||antaŭe (pasinte)|ennen (aikaisemmin, aiemmin)|wcześniej (uprzednio, poprzednio, przedtem)
 cen.den|cen den||||yesterday||hier|ayer|ontem|вчера||कल|||kemarin|أمس|dün|jana||昨日||昨日|어제 (작일)|hôm qua|hieraū|eilen|wczoraj
 cen.di|cen di||||previous (fore)|||previo (anterior)||||||||||||||||||edellinen|poprzedni
@@ -682,7 +682,7 @@ dai|dai|||yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (
 dai.anjil.ja|dai anjil ja||||ambassador|||embajador|||||||||||||||||ambasadoro|lähettiläs|ambasador
 dai.anjil.kan|dai anjilkan||||embassy|||embajada|||||||||||||||||ambasado|lähetystö|ambasada
 dai.dara|dai dara||||torrent|||||||||||||||||||||hyöky (vyöry)|
-dai.darja|dai darja||||amplify (scale)|||||||||||||||||||||korottaa|wzmacniać (wzmocnić)
+dai.gradu|dai gradu||||amplify (scale)|||||||||||||||||||||korottaa|wzmacniać (wzmocnić)
 dai.dom|dai dom||||palace (mansion)||palais (château, manoir)|palacio (mansión)|palácio (mansão, palacete)|дворец (особняк)||महल|প্রাসাদ||istana|قَصْر‎|saray|kasri||殿 (宫殿, 宅第)||宮殿 (邸宅)|궁 (궁전)|cung điện|palaco|palatsi|pałac
 dai.hai|dai hai|||zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)|ocean||océan|océano|oceano|океан||महासागर|মহাসমুদ্র||samudra (lautan)||okyanus|bahari||大洋 (大海)||大洋 (大海)|대양|đại dương|oceano|valtameri|ocean
 dai.lasun|dai lasun|bio|Allium giganteum||giant onion|||||лук исполинский||||||||||||||||jättilaukka|czosnek olbrzymi
@@ -719,10 +719,10 @@ dara.mate|dara mate||||liquid|||líquido||||||||||||||||||neste|ciecz (płyn)
 dara.mate.di|dara mate di||||fluid (liquid)|||líquido (fluido)||||||||||||||||||nestemäinen|ciekły (płynny)
 dara.tubo|dara tubo||||funnel||entonnoir|embudo|funil|воронка||||||||||漏斗||漏斗||||lappo|lejek
 darba|darba|||ara:ضرب‎ (ḍaraba), swa:dhurubu, fas:ضرب (ḍarb) + rus:уда́рить (udarit’)|strike (punch)|||golpear (pegar)||||||||||kupiga (kudhurubu)|||||||bati|lyödä (iskeä)|bić, uderzyć, uderzać
-darja|darja|||ara:(daraja), hin:दर्जा (darjā), swa:daraja, tur:derece, fas:(dareje), may:derajat|step (degree, rank, grade, level, class)|||paso (grado, nivel, rango, calidad, categoría)||||||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
-darja.di|darja di||||gradual|||||||||||||||||||||asteittainen (porrastettu)|stopniowy
-darja.medan|darja medan||||gradient (gradation, incline)|||||||||||||||||||||kaltevuus|gradient (gradacja, stopniowanie)
-darja.mute|darja mute||||development||développement|desarrollo|desenvolvimento|развитие||विकास||||||||发展 (开发)||発展 (開発)|발전 (개발)|sự phát triển|disvolvi|kehitys|rozwój
+gradu|gradu|||deu:Grad, eng:grade, degree; fra:degré, spa:grado, por:grau, rus:градус (gradus) + zho:度 (dù), yue:度 (dou6), jpn:度 (do), kor:도 (do), vie:độ + ara: دَرَجَة‎ (daraja), hin:दर्जा (darjā), may:darjah; derajat, swa:hau:daraja, tur:derece|step (degree, rank, grade, level, class)|||paso (grado, nivel, rango, calidad, categoría)||||||||||||||||||porras (aste, taso)|stopień, poziom, ranga, klasa
+gradu.di|gradu di||||gradual|||||||||||||||||||||asteittainen (porrastettu)|stopniowy
+gradu.medan|gradu medan||||gradient (gradation, incline)|||||||||||||||||||||kaltevuus|gradient (gradacja, stopniowanie)
+gradu.mute|gradu mute||||development||développement|desarrollo|desenvolvimento|развитие||विकास||||||||发展 (开发)||発展 (開発)|발전 (개발)|sự phát triển|disvolvi|kehitys|rozwój
 darmestadi.yum|darmestadi yum|yum 110|Ds|eng:darmstadtium, fra:darmstadtium, spa:darmstatio, por:darmstádio, rus:дармштадтий, zho: (dá), jpn:ダームスタチウム, kor:다름슈타튬, vie:darmstadti, hin:डार्म्स्टेडशियम, ben:ডারমস্টাডটিয়াম, may:darmstadtium, swa:darmstadti, ara: دارمشتاتيوم|darmstadtium||darmstadtium|darmstatio|darmstádio|дармштадтий||डार्म्स्टेडशियम|ডারমস্টাডটিয়াম||darmstadtium|دارمشتاتيوم|darmstadtiyum|darmstadti||||ダームスタチウム|다름슈타튬|darmstadti||darmstadtium|darmsztadt
 darte|darte|||eng:dirt, hin:धरती (dhartī), urd:(dhartī), vie:đất, may:darat|soil (dirt)|||tierra (barro)||||||||||||||土||||maa (multa)|grunt (ziemia, próchnica)
 darte.bon.ja|darte bon ja||||fertilizer|||||||||||||||||||||lannoite|nawóz
@@ -815,7 +815,7 @@ dino.saur|dino saur||||dinosaur||dinosaure|dinosaurio|dinossauro|динозав�
 Dione|Dione|planeta 6 lun 4|||Dione|||||||||||||||||||||Dione|
 diorite|diorite|||eng:fra:diorite, spa:diorita, rus:диорит (diorit), tur:diyorit, ara:ديوريت (dayurit), hin:डायोराइट (dāyorait), vie:may:diorit|diorite||diorite|diorita|diorito|диорит||||||||||闪长岩||閃緑岩||||dioriitti|dioryt
 dipe|dipe|||zho:低 (dī) + vie:thấp + khm:ទាប (diəp) + tur:dip + eng:deep|low (short, bottom)||bas|bajo||||||||||||低||低い|낮다|thấp||matala|niski
-dipe.darja|dipe darja||||level down||||||||||||||||||||||
+dipe.gradu|dipe gradu||||level down||||||||||||||||||||||
 dipe.megi|dipe megi||||fog (mist, haze)|||niebla||туман|||||kabut|||||||霧|||||
 dipe.moka|dipe moka||||bush (shrub)||buisson|arbusto (mata)|arbusto (mata)|куст||झाड़ी|||alas gandar|||||灌木||灌木 (藪)|||||krzak (krzew)
 dipe.tela|dipe tela||||carpet (rug)|||alfombra (tapete)||ковёр||||||||||||絨毯 (カーペット)|||||dywan
@@ -891,7 +891,7 @@ dura.di|dura di||||chronic (lasting)||chronique|crónico|crónico|хрониче
 dura.metre.gi|dura metre gi||||stopwatch||chronomètre|cronómetro|cronómetro|секундомер|||||jam randik|||||秒表||ストップウオッチ||||sekuntikello|stoper (sekundomierz)
 dura.zaman|dura zaman||||period (era, epoch, term)|||era (periodo, época)||период (эпоха)||अवधि|||jaman (zaman)||zaman|zamani||||時代 (年代)||||aikakausi|czas (epoka, era)
 dus|dus|||eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-|bad (unfavorable, negative, evil, wicked, troublesome, difficult)|||malo (difícil, duro)||||दुश्वार||||||||难||難しい||khó (khốn nạn)||paha (epäsuotuisa, epämiellyttävä, vastustava)|
-dus.darja|dus darja||||downgrade|||degradar||||||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
+dus.gradu|dus gradu||||downgrade|||degradar||||||||||||||||||laskea tasoa|dezaktualizować (pogorszyć)
 dus.deu.sim|dus deu sim||||dystheism (maltheism)|||||||||||||||||||||dysteismi (usko jumalan pahuuteen)|
 dus.forma.di|dus forma di||||malformed (deformed, disfigured)|||||||||||||||||||||epämuodostunut|
 dus.hal|dus hal||||hardship (difficulty, challenge)|||dificultad (apuro, privación)||||||||||||||||||vaikeus (hankaluus)|trudność (trud)
@@ -1144,7 +1144,7 @@ fa.mei.daka|fa mei daka||||decorate (embellish)|||decorar (adornar)||украс�
 fa.memo|fa memo||||remember (recall)||se rappeler (se remémorer)|acordarse|lembrar-se (recordar-se)|помнить||याद करना|মনে রাখা||ingat|تَذَكَّرَ|hatırlamak|||记得 (回忆)||思い出す|기억하다|nhớ|memori|muistaa|pamiętać
 fa.migra|fa migra||||move (migrate, relocate)|||migrar (emigrar, tralsadar)||||||||||||搬家||||||muuttaa (siirtää)|ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)
 fa.min|fa min||||decrease (lessen)|||||||||||||||||||||vähentää|
-fa.min.darja|fa min darja||||decrement|||||||||||||||||||||alentaa tasoa|zmniejszyć o jeden
+fa.min.gradu|fa min gradu||||decrement|||||||||||||||||||||alentaa tasoa|zmniejszyć o jeden
 fa.min.rai|fa min rai||||underestimate||sous-estimer|subestimar|menosprezar (subestimar)|недооценить||||||||||||||||aliarvioida|
 fa.ming|fa ming||||brighten|||iluminar||||||||||||||||||kirkastaa (valaista)|rozjaśnić
 fa.minim|fa minim||||minimize|||||||||||||||||||||minimoida|zminimalizować
@@ -1494,8 +1494,8 @@ gar|gar|||yue:假 (gaa1), wuu:假 (ga) + hin:अगर (agar), fas:urd:اگر‎
 gar|gar|||eng:car, por:spa:carro, deu:Karre, tel:కారు  (kāru), may:kereta + hin:गाड़ी (gāṛī), swa:gari, fas:(gâri)|car (cart, carriage, wagon, automobile)|||coche (carruaje, auto, vagón)||||||||||||||車|||aŭto (ĉaro)|kärry (vaunu, auto, jne)|wóz, wózek
 gar.parke|garparke||||car park (parking lot)|||estacionamiento (aparcamiento)||||||||||||||||||parkkipaikka|parking
 garanti|garanti|||eng:guarantee, spa:garantía, por:garantia, fra:garantie, deu:Garantie, rus:гарантия (garantiya), tur:garanti|guarantee (warranty)|||garantía|||||||||||||||||garantio|takuu|gwarancja
-garde|garde||||guard (watch)|||vigilar (guardar)|||||||||||||||||gardi|vartioida (vahtia)|chronić, strzec,  osłaniać, bronić
-garde.ja|garde ja|||eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)|guardian (watchman)|||vigilante (guardia)|||||||||||||||||gardisto|vartija (vahti)|strażnik, ochroniarz
+garde|garde|||eng:guard, fra:garde, spa:por:guarda, jpn:ガード (gādo), kor:가드 (gadeu)|guard (watch)|||vigilar (guardar)|||||||||||||||||gardi|vartioida (vahtia)|chronić, strzec,  osłaniać, bronić
+garde.ja|garde ja||||guardian (watchman)|||vigilante (guardia)|||||||||||||||||gardisto|vartija (vahti)|strażnik, ochroniarz
 garma|garma|||hin:गरम (garm), urd:fas:گرم‎‎ (garm), kur:germ, deu:eng:warm|warm (hot)|||caliente (cálido)||||||||||||||暖かい (熱い)|||varma|lämmin|ciepły
 garma.masala|garma masala||||garam masala|||garam masala||||||||||||||||||garam masala|garam masala
 garma.mosim|garma mosim|mosim|||summer||été|verano|verão|лето||ग्रीष्म ऋतु|||musim panas||yaz|kaskazi||夏季||夏|||somero|kesä (suvi)|lato
@@ -1514,7 +1514,7 @@ gati|gati|||tel:గట్టి (gaṭṭi), tur:katı, hin:कड़ा (kaṛ�
 gati.mate|gati mate||||solid|||sólido||||||||||||固体||固体|||solido|kiinteä aine|ciało stałe
 gati.mate.di|gati mate di||||rigid (solid)|||rígido (sólido)||||||||||||||||||kiinteä|stały (sztywny)
 gau|gau||||top||haut|alto (parte de arriba)||||||||||||||||||huippu|góra (szczyt)
-gau.darja.di|gau darja di||||advanced (high-level)|||||||||||||||||||||korkeatasoinen (edistynyt)|
+gau.gradu.di|gau gradu di||||advanced (high-level)|||||||||||||||||||||korkeatasoinen (edistynyt)|
 gau.di|gau di|||zho:高 (gāo), yue:高 (gou1), wuu:高 (kau1), jpn:高 (kō), kor:고 (go), vie:cao|high (tall)|||alto||||||||||||||高い|||alta|korkea|wysoki
 gau.dipe|gau dipe||||vertical|||vertical||||||||||||||||||pystysuuntainen|pionowy
 gau.dipe.move|gau dipe move||||bob up and down|||inclinar||||||||||||||浮き沈みする||||liikkua ylös ja alas|
@@ -1572,7 +1572,7 @@ gida.buku|gida buku||||guide book||guide touristique|guía de viaje||путев�
 gida.ja|gida ja||||guide||guide|guía|guia|гид|||||pemandu||rehber|kiongozi||导游||案内人 (ガイド)|안내인 (가이드)|||opas (tiennäyttäjä)|przewodnik
 giga|giga|nomer||eng:fra:spa:por:may:tur:giga-, rus:гига- (giga-), jpn:ギガ (giga), kor:기가- (giga-)|billion (giga-)|||giga-|||||||||||||||||miliardo (giga-)|miljardi (giga-)|bilion, giga-
 ging|ging|||zho:經 (jīng), yue:經 (ging1), jpn:經 (kei), kor:경 (gyeong), vie:kinh|longitudinal (parallel, vertical)|||paralelo||параллельный||||||||||||並行||||pitkittäinen|równoległy (podłużny)
-ging.darja|ging darja||||longitude|||longitud||||||||||||||||||pituusaste|długość geograficzna
+ging.gradu|ging gradu||||longitude|||longitud||||||||||||||||||pituusaste|długość geograficzna
 ging.gola|ging gola||||meridian (line of longitude)|||meridiano (línea de longitud)||||||||||||||||||pituuspiiri|długość geograficzna
 ging.lin|ging lin||||warp|||||||||||||||經紗||縦糸||||loimi|
 gingam|gingam|bio|Citrus japonica|yue:柑橘 (gam1gwat1), zho:金橘 (jīnjú), jpn:キンカン (kinkan), kor:금귤 (geumgyul), vie:kim quất, eng:spa:fra:kumquat, por:cunquate, rus:кумкват (kumkvat), tur:kumkat, ara:كمكوات (kamakawat), may:kumkuat|kumquat||kumquat|kumquat (quinoto)|quincã (cunquate)|кумкват (кинкан)|||||kumkuat||kumkat|||金柑||キンカン (キンキツ)||||kumkvatti|kumkwat
@@ -1952,13 +1952,14 @@ jela.ja|jela ja||||jailer (imprisoner)|||carcelero||||||||||||||||||vanginvartij
 jela.jen|jela jen||||prisoner|||prisionero|||||||||||||||||||
 jela.kan|jelakan||||prison (jail)||prison (geôle)|cárcel||||कारागार (बन्दीघर, जेल, क़ैदख़ाना)|||penjara||hapishane|jela (gereza)||监狱 (监牢)||監獄|감옥|nhà tù|malliberejo|vankila|więzienie, zakład karny
 jele|jele|||eng:gel, fra:gelée, rus:желе (žele), tur:jel, hin:जेल (jel), kor:젤 (jel), zho:啫哩 (zhělī)|gel (jelly)|||gel (jalea, gelatina)|||||||||||||||||ĝelo|hyytelö|żel, galareta
-jelosi|jelosi|||eng:jealous, spa:celoso, fra:jaloux|jealous|||celoso (envidioso)||||||||||||||||||kade (kateellinen)|zazdrosny
+zelo|zelo|||ell:ζῆλος (zêlos), eng:zeal; jealous, fra:jaloux, spa:celos, por:zelo|fervour (zeal, passion)|||||||||||||||||||||into (kiihko)|
+garde.zelo|garde zelo||||jealous|||celoso||||||||||||||||||mustasukkainen|zazdrosny
 jen|jen|||zho:人 (rén), wuu人 (zén), jpn:人 (jin) + fra:gens, spa:por:gente + hin:जन (jan), ben:-জন (-jôn), may:-jana, tha:ชน (chon), khm:ជន (jon)|person (individual, -ist, -er)||personne|persona (ista, -ador)|pessoa|||||||||||人||人 (者, 員, 徒)|||persono|henkilö|osoba
 jen.|jen (jen men)||||one (impersonal pronoun: people, you)|man|on|||||||||||||||||||ihmiset (yleisen persoonan pronomini)|
 jen.di|jen di||||personal (intimate, private, custom)|||personal (privado, a medida)||||||||||||||||||henkilökohtainen (privaatti)|osobisty, intymny, prywatny
 jenxen|jenxen|bine|Panax|zho:人蔘 (rénshēn), min:人蔘 (jîn-sam), eng:spa:por:tur:may:ginseng, rus:женьшень (zhen’shen’), hind:जिनसेंग (jinseṅg), jpn:人参 (ninjin)|ginseng|||ginseng||||||||||||||||||ginseng|żeń-szeń
 Jerze|Jerze|dexa|JE||Jersey|||Jersey||||||||||||||||||Jersey|Jersey
-jeste|jeste|||eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|gesture|||gesto||||||||||||||||||ele|gest
+geste|geste|||eng:gesture, spa:por:gesto, fra:geste, rus:жест (zhest), tur:jest, fas:ژست‎ (žest)|gesture|||gesto||||||||||||||||||ele|gest
 jete|jete|||fra:projet, por:projeto, eng:project, spa:proyecto, rus:проект (proyekt), hin:प्रोजैक्ट (projaikṭ), ben:প্রজেক্ট (prôjekṭ), jpn:プロジェクト (purojekuto), kor:프로젝트 (peurojekteu), tur:proje|thrust (throw, cast)||||||||||||||||||||||
 jete-ex|• exjete||||eject (throw out)||||||||||||||||||||||
 jete-in:a|• injete||||inject (injection)|||inyectar (inyección)||||||||||||||||||ruiskuttaa (ruiske, injektio)|zastrzyk (wstrzyknąć, wstrzykiwać)
@@ -2645,7 +2646,7 @@ matur.jen|matur jen||||adult||adulte|adulto||взрослый||||||||||成年人
 matur.man|matur man||||man (adult male)|||hombre (señor)||||||||||||男人||男の人|||viro|mies|mężczyzna, dorosły samiec
 mau|mau|bio||zho:猫 (māo), yue:貓 (maau), vie:mèo, swa:nyau|cat||chat|gato|gato|кошка||बिल्ली|বেড়াল||kucing||kedi|paka (nyau)||猫||猫|고양이|mèo|kato|kissa|kot
 max|max|||spa:mas, por:mais + eng:fra:maximum, rus:максимум (maksimum), may:maksimum, fas: ماکسیمم‎ (mâksimom)|more||plus|más|mais||||||||||||||||pli|enemmän (myös, lisäksi, plus)|bardzie
-max.darja|max darja||||increment||||||||||||||||||||||zwiększyć o jeden
+max.gradu|max gradu||||increment||||||||||||||||||||||zwiększyć o jeden
 max.di|max di||||additional|||adicional (extra)||||||||||||||||||lisä-|dodatkowy
 max.di.fen|max di fen|||spa:mayoría, por:maioria, eng:majority, fra:majorité|majority|||mayoría||||||||||||||||||enemmistö|większość
 max.fili|max fili||||prefer (favor)||préférer|preferir (favorecer)|preferir|предпочитать||||||فَضَّلَ||||比较喜欢|||||preferi (pliŝati)|suosia (pitää parempana)|preferować (woleć)
@@ -3764,7 +3765,7 @@ sistem.di|sistem di||||systemic|||sistémico|||||||||||||||||||systemowy
 sita|sita|||eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|quote (cite)|||citar|||||||||||||||||citi|lainata (siteerata)|cytować
 sita.marke|sita marke||||quotation mark|||comilla||||||||||||||||||lainausmerkki|cudzysłów
 siti|siti|||eng:city, fra:cité, por:cidade, spa:ciudad, ita:città + zho:市 (shì), kor:시 (si), jpn:市 (shi)|city (town)||ville|ciudad|cidade||||||||||||||||urbo|kaupunki|miast, miasteczko
-siu|siu|||hin:सीना (sīnā), ben:স্যূত (syūta), mar:शिवणे (śivṇe), guj:સીવવું (sīvvũ), rus:шить (šit'), eng:sew|sew|||coser||||||||||||||||||ommella|szyć
+kosi|kosi|||spa:por:coser + hin:सीना (sīnā), ben:স্যূত (syūta), mar:शिवणे (śivṇe), guj:સીવવું (sīvvũ), rus:шить (šit'), eng:sew|sew|||coser||||||||||||||||||ommella|szyć
 sivil|sivil|||eng:civil, por:civil, hin:सिविल (sivil), may:sipil|civilized (civil)|||civilizado||||||||||||||||||sivistynyt|cywilizowany (ucywilizowany)
 sivil.ta|sivilta||||civilization|||civilización||||||||||||||||||sivilisaatio|cywilizacja
 Slave|Slave||||Slavic|||eslavo|eslavo|славянский||||||||||||||||slaavilainen|słowiański
@@ -4194,7 +4195,7 @@ Vatikan|Vatikan|dexa|VA||Holy See (Vatican City State)|||Santa Sede (Estado de l
 vaxi|vaxi|||eng:wash, deu:waschen, zho:洗 (xǐ)|wash|||lavar||мыть|||||||||||||||lavi|pestä|prać, umyć, myć
 Vaxington.DC|Vaxington DC|xefsite|US||Washington DC|||||||||||||||||||||Washington DC|Waszyngton D.C
 vei|vei|||zho:纬 (wěi), yue:緯 (wai6), kor:위 (wi), vie:vĩ|latitudinal (horizontal)|||||||||||||||||||||vaakatasossa|
-vei.darja|vei darja||||latitude|||latitud||||||||||||纬度||緯度|위도|vĩ độ||leveysaste|południk
+vei.gradu|vei gradu||||latitude|||latitud||||||||||||纬度||緯度|위도|vĩ độ||leveysaste|południk
 vei.di|vei di|||zho:纬度 (wěi), kor:위 (wi), vie:vĩ|traverse (horizontal)|||||||||||||||||||||poikittainen (vaaka)|
 vei.gola|vei gola||||parallel (line of latitude)|||paralelo (línea de latitud)||||||||||||||||||leveyspiiri|południk
 vei.lin|vei lin||||weft||fil de trame|||уток||||||||||緯紗||横糸||||kude|
@@ -4223,7 +4224,6 @@ versi-kon.tra|• kontraversi||||controversy  |||||||||||||||||||||vastakohtaisu
 versi-per|• perversi||||pervert (twist; perverse)||pervers|||||||||||||||||||kiero (perverssi)|
 versi-re|• reversi||||reverse (invert, direct back; backwards)|||invertir||||||||||||||逆らう||||taaksepäin|
 versi.on|version||||version (variation, edition)|||versión (modelo)|||||||||||||||||versio|versio (käännös, muunnelma)|wersja (wariacja, edycja, wydanie)
-version|version|||eng:fra:version, por:versão, rus:версия (versiya), may:versi|version (variation, edition)|||versión (modelo)|||||||||||||||||versio (toisinto)|versio|wersja (wariacja, edycja, wydanie)
 veste|veste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west|||oeste||||||||||||||||||länsi|zachód
 veste.di|veste di||||western|||occidental||||||||||||||||||läntinen|zachodni
 veste.gorila|veste gorila||||western gorilla|||gorila occidental||западная горилла||||||||||||ニシゴリラ||||lännengorilla|goryl zachodni
@@ -4316,8 +4316,6 @@ xatan.di|xatan di||||devilish (satanic)|||satánico||||||||||||||||||pirullinen|
 xatan.din|xatan din||||Satanism (devil worship)|||satanismo||||||||||||||||||satanismi (paholaisenpalvonta)|satanizm
 xatan.din.ja|xatan din ja||||Satanist|||satanista||||||||||||||||||satanisti|satanista
 xatan.ja|xatan ja|||heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|devil (Satan)||Satan|Satanás|Satanás|Сатана||शैतान|||iblis (syaitan)||şeytan|shetani||撒但||悪魔|||diablo (Satano)|saatana (sielunvihollinen)|diabeł, szatan
-xau|xau|||zho:少 (shǎo), yue:少 (siu2), jpn:少 (shō), kor:소 (so)|little (few, not many)||peu|poco (pocos)|poucos|мало||कम||||||||少||少ない|||malmulte|vähän|niewiele (mało, nieliczność)
-xau.ta|xauta||||scarcity|||escasez|poucos|мало|||||||||||||||||
 xava|xava|||por:chuva + eng:shower, deu:Schauer + jpn:シャワー (shawā), hin:शावर (śāvar)|rain (precipitation)||pluie|lluvia|chuva|дождь||बारिश (वर्षा)|বৃষ্টি||hujan|مطر‎|yağmur (baran)|mvua||雨||雨|비|mưa|pluvo|sade|deszcz
 xava.cati|xava cati||||umbrella||parapluie|parasol|guarda-chuva|зонтик||छाता|||payung||şemsiye|||伞|||||obrelo|sateenvarjo|parasol
 xava.kote|xava kote||||raincoat||imperméable|impermeable|capa de chuva|плащ (дождевик)||रेनकोट|||jas hujan||yağmurluk|||雨衣||||||sadetakki|płaszcz nieprzemakalny

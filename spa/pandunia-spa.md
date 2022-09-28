@@ -451,7 +451,7 @@ boli - hervir (cocer)
 Bolivia - Bolivia  
 bomba - bomba  
 bon - bueno  
-bon darja - mejorar  
+bon gradu - mejorar  
 bon guste di - delicioso  
 bon moral - virtud (moralidad)  
 bon moral di - virtuoso (moral)  
@@ -492,7 +492,7 @@ bude - cabina (garita)
 budi - comprensión (entendimiento)  
 budi di - concienciado (iluminado)  
 bufete - bufé  
-bujete - presupuesto  
+pesa plan - presupuesto  
 buku - libro  
 bulbul - ruiseñor  
 bum - explosión (estallado)  
@@ -537,7 +537,7 @@ cau stan - pradera (pastizal)
 cavi - llave  
 ceke - revisar (chequear, examinar, inspeccionar)  
 ceke - cheque  
-celsius darja - grado Celsius  
+celsius gradu - grado Celsius  
 cen - más temprano (antes, haber, en el pasado)  
 cen den - ayer  
 cen di - previo (anterior)  
@@ -639,8 +639,8 @@ dara mate - líquido
 dara mate di - líquido (fluido)  
 dara tubo - embudo  
 darba - golpear (pegar)  
-darja - paso (grado, nivel, rango, calidad, categoría)  
-darja mute - desarrollo  
+gradu - paso (grado, nivel, rango, calidad, categoría)  
+gradu mute - desarrollo  
 darmestadi yum - darmstatio  
 darte - tierra (barro)  
 darte di - sucio  
@@ -794,7 +794,7 @@ dura di - crónico
 dura metre gi - cronómetro  
 dura zaman - era (periodo, época)  
 dus - malo (difícil, duro)  
-dus darja - degradar  
+dus gradu - degradar  
 dus hal - dificultad (apuro, privación)  
 dus jen - enemigo  
 dus nam - insulto (ofensa)  
@@ -1384,7 +1384,7 @@ gida buku - guía de viaje
 gida ja - guía  
 giga - giga-  
 ging - paralelo  
-ging darja - longitud  
+ging gradu - longitud  
 ging gola - meridiano (línea de longitud)  
 gingam - kumquat (quinoto)  
 gio - enseñar (instruir, doctrina)  
@@ -1732,12 +1732,12 @@ jela ja - carcelero
 jela jen - prisionero  
 jelakan - cárcel  
 jele - gel (jalea, gelatina)  
-jelosi - celoso (envidioso)  
+garde zelo - celoso  
 jen - persona (ista, -ador)  
 jen di - personal (privado, a medida)  
 jenxen - ginseng  
 Jerze - Jersey  
-jeste - gesto  
+geste - gesto  
 • injete - inyectar (inyección)  
 • projete - proyecto  
 jete grafi - proyectar (proyección)  
@@ -3361,7 +3361,7 @@ sistem di - sistémico
 sita - citar  
 sita marke - comilla  
 siti - ciudad  
-siu - coser  
+kosi - coser  
 sivil - civilizado  
 sivilta - civilización  
 Slave - eslavo  
@@ -3734,7 +3734,7 @@ vasin - vacuna
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
 vaxi - lavar  
-vei darja - latitud  
+vei gradu - latitud  
 vei gola - paralelo (línea de latitud)  
 vende - vender  
 vende xope - comercio  
@@ -3751,7 +3751,6 @@ verse - afrontar
 versi - versar (afrontar)  
 • intraversi - introvertido  
 • reversi - invertir  
-version - versión (modelo)  
 version - versión (modelo)  
 veste - oeste  
 veste di - occidental  
@@ -3834,8 +3833,6 @@ xatan di - satánico
 xatan din - satanismo  
 xatan din ja - satanista  
 xatan ja - Satanás  
-xau - poco (pocos)  
-xauta - escasez  
 xava - lluvia  
 xava cati - parasol  
 xava kote - impermeable  

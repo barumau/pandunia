@@ -56,7 +56,7 @@
  - be an zai  
  - be fin  
  - be fobi  
- - be gau darja  
+ - be gau gradu  
  - be hapu  
  - be harabu  
  - be in  
@@ -137,7 +137,7 @@
  - din xia  
  - ding  
  - Dione  
- - dipe darja  
+ - dipe gradu  
  - dipe megi  
  - dokumen filme  
  - dom dexa  
@@ -263,8 +263,8 @@
  - gata glu bano  
  - gata ja  
  - gata yepa  
- - gau darja di  
  - gau dipe move  
+ - gau gradu di  
  - gau tehni  
  - gem dau  
  - gem suta  
@@ -691,7 +691,6 @@
  - vuki ordu  
  - xa  
  - xah mata  
- - xauta  
  - xava mosim  
  - xi  
  - xi Fulan  
@@ -719,6 +718,7 @@
  - you nen  
  - youta  
  - zardux magi ja  
+ - zelo  
  - zeta  
  - zeze  
  - zi  
@@ -883,7 +883,7 @@ akacja - akasia
 akacja arabska - arabi babul  
 akcent, nacisk - balaton  
 akt, scena - rol ja  
-aktualizować (zaktualizować, ulepszać, ulepszyć) - bon darja  
+aktualizować (zaktualizować, ulepszać, ulepszyć) - bon gradu  
 aktyn - acini yum  
 aktywować (włączyć, uruchomić) - ativi  
 akwarela (farba wodna) - sui rang  
@@ -1117,7 +1117,7 @@ buddysta - Buda din ja
 Buddyzm - Buda din  
 budka (kabina) - bude  
 budynek (struktura) - bina  
-budżet - bujete  
+budżet - pesa plan  
 bufet (szwedzki stół) - bufete  
 bulwa - masa mula  
 burak - bete  
@@ -1331,7 +1331,7 @@ deska - moka bano
 deszcz - xava  
 detal, szczegół - detal  
 dewanagari - deu nagar zi  
-dezaktualizować (pogorszyć) - dus darja  
+dezaktualizować (pogorszyć) - dus gradu  
 diabelski, szatański - xatan di  
 diabeł, szatan - xatan ja  
 diament - adamas  
@@ -1443,8 +1443,8 @@ dąb szypułkowy - europa baluta
 dąb zębaty - dante baluta  
 długi - long  
 długość - longta  
-długość geograficzna - ging darja  
 długość geograficzna - ging gola  
+długość geograficzna - ging gradu  
 dźinizm, dżinizm - jain din  
 dźwignia - tire kane  
 dźwięk, brzmienie - soni  
@@ -1587,7 +1587,7 @@ genotyp - gene tipe
 geologia - geo logi  
 gepard - cita  
 german - german yum  
-gest - jeste  
+gest - geste  
 Ghana - Gana  
 ghul - gule  
 Gibraltar - Jibraltar  
@@ -1618,7 +1618,7 @@ gra - geme
 gra planszowa - bano geme  
 gracki, helleński; Grek - Helen di  
 gracz - geme ja  
-gradient (gradacja, stopniowanie) - darja medan  
+gradient (gradacja, stopniowanie) - gradu medan  
 gram - gram  
 gramatyczny - baxa kanun di  
 gramatyka - baxa kanun  
@@ -2596,7 +2596,6 @@ nieskończoność - anlimite
 niespodziewany - ancen vide di  
 nietoperz - fei muxu  
 niewiele (mało) - kam  
-niewiele (mało, nieliczność) - xau  
 niewierny - andin ja  
 niewierny - ankredija  
 niewierny (poganin, niewierzący) - kafir  
@@ -3086,8 +3085,8 @@ połknąć (połykać) - gul
 położyć - fa kux  
 południe - medi dia  
 południe - sude  
-południk - vei darja  
 południk - vei gola  
+południk - vei gradu  
 Południowa Afryka - Sude Afrika  
 południowy - sude di  
 połączenie (złącze, styk, związek, powiązanie) - linke  
@@ -3355,7 +3354,7 @@ rozstrzępiony (podarty) - cira cira di
 rozszczepienie jądra atomowego - kerne cira  
 rozum, rozsądek - razon  
 rozumieć, pojmować - aha  
-rozwój - darja mute  
+rozwój - gradu mute  
 rozłożyć się (rozkładać się, gnić, psuć się) - be pute  
 roślina, sadzonka - fito  
 rożen (szpikulec) - xix  
@@ -3614,9 +3613,9 @@ stolarz - moka sanaja
 stop; przerwa, zatrzymanie - halte  
 stopa - fute  
 stoper (sekundomierz) - dura metre gi  
-stopień Celsjusza - celsius darja  
-stopień, poziom, ranga, klasa - darja  
-stopniowy - darja di  
+stopień Celsjusza - celsius gradu  
+stopień, poziom, ranga, klasa - gradu  
+stopniowy - gradu di  
 storczyk (orchidea) - orkide  
 stosować (zastosować; zastosowanie, aplikacja) - aplika  
 stowarzyszać się (zrzeszać się) - fa liga  
@@ -3723,7 +3722,7 @@ szyism - xia islam din
 szympans - cimpanzi  
 szynszyla - cincila  
 szyszka - kone  
-szyć - siu  
+szyć - kosi  
 São Paulo - Sante Paulo  
 sód - natri  
 sól - yem  
@@ -4026,7 +4025,6 @@ Wenzhou - Venjou
 weranda, balkon, taras, ganek - veranda  
 wermut - vermute  
 wersja (wariacja, edycja, wydanie) - version  
-wersja (wariacja, edycja, wydanie) - version  
 wesoły (ucieszony; cieszyć się) - suka  
 wesprzeć (wzmocnić, zasilić) - fa max lika  
 wewnętrzny - in di  
@@ -4202,7 +4200,7 @@ wyć - fa ulul
 wyświetlać - fa lanse grafi  
 wyświetlać (rzut, projekcja) - jete grafi  
 wzajemny - semen su  
-wzmacniać (wzmocnić) - dai darja  
+wzmacniać (wzmocnić) - dai gradu  
 wzmacniać się (wzmagać, pogłębiać się) - be teza  
 wzmocnić (wzmocnić, wzmóc) - fa lika  
 wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się) - be gau  
@@ -4315,7 +4313,7 @@ zawierać - in tene
 zawijać (zawinąć) - fa lifafa  
 zawiązywać (zawiązać węzeł) - fa node  
 zawsze - pan sata  
-zazdrosny - jelosi  
+zazdrosny - garde zelo  
 zaznaczyć, znaczy, oznaczyć, oznaczać, zostawić ślad, zostawiać ślad - fa marke  
 założyciel - baze ja  
 załącznik (przyrostek, afiks) - fixe  
@@ -4365,7 +4363,7 @@ zmienić (zmieniać) - alofa
 zmienić, zmieniać - mute  
 zmierzyć (miara) - metre  
 zminimalizować - fa minim  
-zmniejszyć o jeden - fa min darja  
+zmniejszyć o jeden - fa min gradu  
 zmysł - sense  
 zmęczenie (wyczerpanie) - fatige  
 znaczek pocztowy - posta cape  
@@ -4394,7 +4392,7 @@ zulu - Zulu
 zupa - supa  
 zwinny, sprawny - agile  
 związać, wiązać; zapiąć, zapinać - fa bande  
-zwiększyć o jeden - max darja  
+zwiększyć o jeden - max gradu  
 zwyciężyć (wygrać; zwycięstwo, wygrana) - jai  
 zwyczajny (rutynowy, normalny) - ada di  
 zwykły, zwyczajny, prosty - sada  

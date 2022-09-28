@@ -465,7 +465,7 @@ depenar - depena
 derretre - yung  
 descanso (repouso) - xanti  
 desdentado - dante hin  
-desenvolvimento - darja mute  
+desenvolvimento - gradu mute  
 desesperado - axa hin  
 desfigurar - fa dus forma  
 desfigurar - dusforma  
@@ -1257,8 +1257,6 @@ poste (coluna) - kolum
 posterior - pos di  
 potássio - kali yum  
 poucos - kam  
-poucos - xau  
-poucos - xauta  
 prancheta - pinse bano  
 praseodímio - prazedim yum  
 prata - argente  

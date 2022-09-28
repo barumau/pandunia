@@ -408,7 +408,7 @@ danse - dance
 Danske - danois  
 dante hin - édenté  
 dara tubo - entonnoir  
-darja mute - développement  
+gradu mute - développement  
 darmestadi yum - darmstadtium  
 data - données  
 data banke - base de données  
@@ -1891,7 +1891,6 @@ xanti - repos
 xanti di - calme (tranquille)  
 xatan - s'opposer à  
 xatan ja - Satan  
-xau - peu  
 xava - pluie  
 xava cati - parapluie  
 xava kote - imperméable  

@@ -274,7 +274,7 @@ dang gi - 鐘 (鈴)
 Danske - デンマークの  
 dante baluta - カシワ  
 dara tubo - 漏斗  
-darja mute - 発展 (開発)  
+gradu mute - 発展 (開発)  
 darmestadi yum - ダームスタチウム  
 darte - 土  
 data culi - データ処理  
@@ -1568,7 +1568,7 @@ vanu di - 楽しい
 vanu gi - おもちゃ  
 vari - 色々 (種々, 様々, 区々, とりどり, それぞれ)  
 varis - 米 (ご飯)  
-vei darja - 緯度  
+vei gradu - 緯度  
 vei lin - 横糸  
 vende - 売る  
 vende xope - 交易 (売買)  
@@ -1611,7 +1611,6 @@ xaman - シャーマン
 xampan - 香槟  
 xan pike - 頂点  
 xatan ja - 悪魔  
-xau - 少ない  
 xava - 雨  
 xava mosim - 雨季  
 xayu - サメ  

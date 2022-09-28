@@ -80,7 +80,7 @@ Alaska - Alaska
 alaston (paljas, naku) - nude  
 Albania - cipe  
 alentaa (laskea alas) - fa dipe  
-alentaa tasoa - fa min darja  
+alentaa tasoa - fa min gradu  
 algebra - jebra  
 Algeria - Jayer  
 aliarvioida - fa min rai  
@@ -191,7 +191,7 @@ askeett - askete
 Assur - Axur  
 Assyria - Axur dexa  
 astatiini - astatin  
-asteittainen (porrastettu) - darja di  
+asteittainen (porrastettu) - gradu di  
 asti (saakka) - hata  
 astia (kulho) - tasa  
 astma - asma  
@@ -291,7 +291,7 @@ Budapest - Budapexte
 Buddha - Buda  
 buddhalainen - Buda din ja  
 buddhalaisuus (buddhismi) - Buda din  
-budjetti - bujete  
+budjetti - pesa plan  
 Bulgaria - Bolgaria  
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
@@ -302,7 +302,7 @@ byrokratia - buro krati
 
 Cabo Verde - Kabu Verde  
 Cayman-saaret - Kaiman nesi  
-celsiusaste - celsius darja  
+celsiusaste - celsius gradu  
 Ceres - Ceres  
 cerium - ceres yum  
 cesium - cesi yum  
@@ -385,7 +385,7 @@ eksa- - exa
 eksonyymi - vai nam  
 eksoplaneetta - vai planeta  
 El Salvador - Salvador  
-ele - jeste  
+ele - geste  
 elegantti - xike  
 elektroni - eletron  
 elementti (yksinkertaisin yksikkö) - so  
@@ -874,6 +874,7 @@ Intia - Barti
 intiaani (Amerikan alkuperäisasukas) - asal Amerka jen  
 intialainen - barti  
 Intian valtameri - Barti Hai  
+into (kiihko) - zelo  
 introspektio - in vide  
 introspektio - intraspete  
 Io - Io  
@@ -1040,7 +1041,6 @@ kaasumainen - gas di
 kaasuttaa - fa gas  
 kaasuuntua - be gas  
 kaatopaikka - lasa stan  
-kade (kateellinen) - jelosi  
 kadmium - kadim yum  
 kahdeksan (8) - bati  
 kahdesti (kaksi kertaa) - du mar  
@@ -1079,7 +1079,7 @@ kallio (kivi) - petra
 kalsiitti (kalkkisälpä) - kalsite  
 kalsium - kalsi yum  
 kaltainen (-llinen) - li  
-kaltevuus - darja medan  
+kaltevuus - gradu medan  
 Kambodja - Kambojia  
 kameli - gamel  
 kamera - foto grafi gi  
@@ -1175,7 +1175,7 @@ kaura - ave
 kaveriton - dosti hin  
 Kazakstan - Qazaqe  
 kebab (grilliliha) - kababu nama  
-kehitys - darja mute  
+kehitys - gradu mute  
 keho (ruumis) - badan  
 kehonrakennus (bodaus) - muskul bina  
 kehto - lala bede  
@@ -1413,11 +1413,11 @@ korjaus - xuli
 korkata - antapa  
 korkea - gau di  
 korkea teknologia - gau tehni  
-korkeatasoinen (edistynyt) - gau darja di  
+korkeatasoinen (edistynyt) - gau gradu di  
 korkeus - gauta  
 korkittaa (tukkia) - fa tapa  
 koronavirus - korona virus  
-korottaa - dai darja  
+korottaa - dai gradu  
 kortti - karte  
 koruton (tavanomainen, pelkkä, vain) - sada  
 korva - ore  
@@ -1650,7 +1650,7 @@ lasi - kanca
 lasittaa - fa kanca dake  
 laskea (pitää lukua, numeroida) - fa nume  
 laskea (tehdä laskutoimitus) - fa hisabu  
-laskea tasoa - dus darja  
+laskea tasoa - dus gradu  
 laskeutua - aneskale  
 lasku (faktuura) - fatura  
 lasku (laskelma) - hisabu  
@@ -1696,7 +1696,7 @@ lepakko - fei muxu
 lepo - xanti  
 leski - vidou  
 Lesoto - Soto  
-leveysaste - vei darja  
+leveysaste - vei gradu  
 leveyspiiri - vei gola  
 leveä - kuan  
 levottomuus (konflikti) - anpase  
@@ -2105,6 +2105,7 @@ musketööri - muskete ja
 muslimi (islaminuskoinen) - islam din ja  
 musta - kala  
 musta lista - haram liste  
+mustasukkainen - garde zelo  
 muste - kalam sui  
 mustekala - ohtopus  
 mustekynä - fonte kalam  
@@ -2236,10 +2237,10 @@ norsu (elefantti) - gaja
 Norsunluurannikko - Kote de Ivar  
 nostaa - fa gau  
 nostaa pystyyn - fa libu  
-nostaa tasoa - bon darja  
+nostaa tasoa - bon gradu  
 nostattaa hiivalla - be biomute  
 nousta - be gau  
-nousta ylemmälle tasolle - be gau darja  
+nousta ylemmälle tasolle - be gau gradu  
 noutopöytä (buffetti) - bufete  
 novelli - korte kata  
 noviisi (uusikko, vasta-alkaja) - neu jen  
@@ -2325,7 +2326,7 @@ omena - aple
 omenasose - aple sos  
 omistaa - fa mal  
 omistaja (pitäjä, hallussapitäjä) - mal ja  
-ommella - siu  
+ommella - kosi  
 ongelma - problem  
 ongelmallinen - problem di  
 ongenkoukku - pexe huke  
@@ -2589,7 +2590,7 @@ pitkästynyt - bori di
 pitsa (pizza) - piza  
 pitseria - pizakan  
 pituus - longta  
-pituusaste - ging darja  
+pituusaste - ging gradu  
 pituuspiiri - ging gola  
 pitäisi - be sel  
 pitää (pitää kiinni, pitää hallussa) - tene  
@@ -2647,7 +2648,7 @@ porata - fora
 porkkana - karote  
 porno - porno  
 pornografia - porno grafi  
-porras (aste, taso) - darja  
+porras (aste, taso) - gradu  
 portaat (rappuset, tikkaat) - eskale  
 Portugali - Portugal  
 portugali - portugal baxa  
@@ -3869,7 +3870,6 @@ verisolu - hemi selu
 verkko - nete  
 vermutti - vermute  
 versio (käännös, muunnelma) - version  
-versio - version  
 vertainen - par jen  
 vertainen - sam bei  
 vesi - sui  
@@ -4002,7 +4002,6 @@ vähiten - minim
 vähyys - kamta  
 vähäinen - minor  
 vähän - kam  
-vähän - xau  
 väite (teesi) - teze  
 väittely (debatti) - lona  
 väittää (osoittaa) - fa argu  

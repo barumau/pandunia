@@ -303,7 +303,7 @@ dang gi - 钟 (摇铃)
 Danske - 丹麦的  
 dante baluta - 槲树  
 dara tubo - 漏斗  
-darja mute - 发展 (开发)  
+gradu mute - 发展 (开发)  
 data - 数据  
 data banke - 数据库  
 data culi - 数据处理  
@@ -1525,7 +1525,7 @@ vanu - 娱乐
 vari - 各种各样  
 varis - 米  
 varis vin - 黄酒 (米酒)  
-vei darja - 纬度  
+vei gradu - 纬度  
 vei lin - 緯紗  
 vende - 卖  
 vende xope - 贸易  
@@ -1565,7 +1565,6 @@ xalke - 鳞
 xam - 晚上  
 xanghai - 上海  
 xatan ja - 撒但  
-xau - 少  
 xava - 雨  
 xava cati - 伞  
 xava kote - 雨衣  

@@ -374,7 +374,7 @@ be fobi -
 be gamo - czuć, odczuć, odczuwać  
 be gas - zamieniać się w gaz (parować)  
 be gau - wznosić się (wznieść się, wstawać, wstać, powstać, unosić się, unieść się)  
-be gau darja -   
+be gau gradu -   
 be gene - urodzić się, rodzić się  
 be ging - iść wzdłuż (pójść wzdłuż)  
 be halte - zatrzymać się  
@@ -505,7 +505,7 @@ Bolivia - Boliwia
 bolte -   
 bomba - bomba  
 bon - dobry  
-bon darja - aktualizować (zaktualizować, ulepszać, ulepszyć)  
+bon gradu - aktualizować (zaktualizować, ulepszać, ulepszyć)  
 bon guste di - pyszny  
 bon max xe - dodatkowy  
 bon moral - cnota (moralność)  
@@ -552,7 +552,7 @@ bude - budka (kabina)
 budi - uświadomienie, świadomość; oświecenie, bodhi  
 budi di - świadomy; oświecony  
 bufete - bufet (szwedzki stół)  
-bujete - budżet  
+pesa plan - budżet  
 buku - książka  
 bulbul - słowik  
 bum - wybuch (eksplozja)  
@@ -600,7 +600,7 @@ cau stan - łąka
 cavi - klucz  
 ceke - sprawdzić, sprawdzać, skontrolować, kontrolować, zbadać, badać  
 ceke - czek  
-celsius darja - stopień Celsjusza  
+celsius gradu - stopień Celsjusza  
 cen - wcześniej (uprzednio, poprzednio, przedtem)  
 cen den - wczoraj  
 cen di - poprzedni  
@@ -689,7 +689,7 @@ dai - duży
 dai anjil ja - ambasador  
 dai anjilkan - ambasada  
 dai dara -   
-dai darja - wzmacniać (wzmocnić)  
+dai gradu - wzmacniać (wzmocnić)  
 dai dom - pałac  
 dai hai - ocean  
 dai lasun - czosnek olbrzymi  
@@ -726,10 +726,10 @@ dara mate - ciecz (płyn)
 dara mate di - ciekły (płynny)  
 dara tubo - lejek  
 darba - bić, uderzyć, uderzać  
-darja - stopień, poziom, ranga, klasa  
-darja di - stopniowy  
-darja medan - gradient (gradacja, stopniowanie)  
-darja mute - rozwój  
+gradu - stopień, poziom, ranga, klasa  
+gradu di - stopniowy  
+gradu medan - gradient (gradacja, stopniowanie)  
+gradu mute - rozwój  
 darmestadi yum - darmsztadt  
 darte - grunt (ziemia, próchnica)  
 darte bon ja - nawóz  
@@ -822,7 +822,7 @@ dino saur - dinozaur
 Dione -   
 diorite - dioryt  
 dipe - niski  
-dipe darja -   
+dipe gradu -   
 dipe megi -   
 dipe moka - krzak (krzew)  
 dipe tela - dywan  
@@ -898,7 +898,7 @@ dura di - chroniczny
 dura metre gi - stoper (sekundomierz)  
 dura zaman - czas (epoka, era)  
 dus -   
-dus darja - dezaktualizować (pogorszyć)  
+dus gradu - dezaktualizować (pogorszyć)  
 dus deu sim -   
 dus forma di -   
 dus hal - trudność (trud)  
@@ -1155,7 +1155,7 @@ fa mei daka - dekorować
 fa memo - pamiętać  
 fa migra - ruszać się (migrować, poruszać się, przenieść się, przesiedlać się, przesiedlić się)  
 fa min -   
-fa min darja - zmniejszyć o jeden  
+fa min gradu - zmniejszyć o jeden  
 fa min rai -   
 fa ming - rozjaśnić  
 fa minim - zminimalizować  
@@ -1527,7 +1527,7 @@ gati - twardy
 gati mate - ciało stałe  
 gati mate di - stały (sztywny)  
 gau - góra (szczyt)  
-gau darja di -   
+gau gradu di -   
 gau di - wysoki  
 gau dipe - pionowy  
 gau dipe move -   
@@ -1584,7 +1584,7 @@ gida - prowadzić (wskazać drogę)
 gida buku - przewodnik  
 gida ja - przewodnik  
 ging - równoległy (podłużny)  
-ging darja - długość geograficzna  
+ging gradu - długość geograficzna  
 ging gola - długość geograficzna  
 ging lin -   
 gingam - kumkwat  
@@ -1970,13 +1970,14 @@ jela ja - strażnik więzienny
 jela jen -   
 jelakan - więzienie, zakład karny  
 jele - żel, galareta  
-jelosi - zazdrosny  
+zelo -   
+garde zelo - zazdrosny  
 jen - osoba  
 jen (jen men) -   
 jen di - osobisty, intymny, prywatny  
 jenxen - żeń-szeń  
 Jerze - Jersey  
-jeste - gest  
+geste - gest  
 jete -   
 • exjete -   
 • injete - zastrzyk (wstrzyknąć, wstrzykiwać)  
@@ -2669,7 +2670,7 @@ matur jen - osoba dorosła
 matur man - mężczyzna, dorosły samiec  
 mau - kot  
 max - bardzie  
-max darja - zwiększyć o jeden  
+max gradu - zwiększyć o jeden  
 max di - dodatkowy  
 max di fen - większość  
 max fili - preferować (woleć)  
@@ -3795,7 +3796,7 @@ sistem di - systemowy
 sita - cytować  
 sita marke - cudzysłów  
 siti - miast, miasteczko  
-siu - szyć  
+kosi - szyć  
 sivil - cywilizowany (ucywilizowany)  
 sivilta - cywilizacja  
 Slave - słowiański  
@@ -4230,7 +4231,7 @@ Vatikan - Watykan, Państwo Watykańskie
 vaxi - prać, umyć, myć  
 Vaxington DC - Waszyngton D.C  
 vei -   
-vei darja - południk  
+vei gradu - południk  
 vei di -   
 vei gola - południk  
 vei lin -   
@@ -4258,7 +4259,6 @@ versi -
 • kontraversi -   
 • perversi -   
 • reversi -   
-version - wersja (wariacja, edycja, wydanie)  
 version - wersja (wariacja, edycja, wydanie)  
 veste - zachód  
 veste di - zachodni  
@@ -4354,8 +4354,6 @@ xatan di - diabelski, szatański
 xatan din - satanizm  
 xatan din ja - satanista  
 xatan ja - diabeł, szatan  
-xau - niewiele (mało, nieliczność)  
-xauta -   
 xava - deszcz  
 xava cati - parasol  
 xava kote - płaszcz nieprzemakalny  

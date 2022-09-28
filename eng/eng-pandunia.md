@@ -48,7 +48,7 @@ admire (adore) - fanati
 adult - matur jen  
 adultery (infidelity) - zina  
 advance (progress, go forward, enter) - be jin  
-advanced (high-level) - gau darja di  
+advanced (high-level) - gau gradu di  
 advancement (milestone) - jin  
 advancement (milestone) - progresion  
 adventure (venture) - ventur  
@@ -129,7 +129,7 @@ Amhara (an Ethiopian ethnic group and language) - Amara
 among (amid, between) - a medi  
 amount (quantity) - polita  
 ampere (amp) - amper  
-amplify (scale) - dai darja  
+amplify (scale) - dai gradu  
 ampoule (vial) - ampul  
 amuse (entertain) - fa vanu  
 anaerobic - anair bio di  
@@ -551,7 +551,7 @@ Budapest - Budapexte
 Buddha - Buda  
 Buddhism - Buda din  
 Buddhist - Buda din ja  
-budget - bujete  
+budget - pesa plan  
 buffet (smorgasbord) - bufete  
 bugle (horn instrument) - laba  
 build (construct) - fa bina  
@@ -1050,7 +1050,7 @@ decode (decrypt) - ankode
 decorate (embellish) - fa mei daka  
 decoration (ornament) - mei daka  
 decrease (lessen) - fa min  
-decrement - fa min darja  
+decrement - fa min gradu  
 dedicate (devote) - sata da  
 dedication (devotion) - sata data  
 deduce (lead from) - dedute  
@@ -1068,7 +1068,7 @@ defense (defence) - defa
 deflect (bend away) - deflexi  
 deform - deforma  
 defunct (out of use) - defunsi  
-degree Celsius - celsius darja  
+degree Celsius - celsius gradu  
 Deimos - Deimos  
 delicious (yummy) - bon guste di  
 democracy - demi krati  
@@ -1090,7 +1090,7 @@ detail - detal
 determine (establish, fix, decide, set, confirm, specify, resolve) - fa ding  
 determined (fixed, certain, definite, particular, specific) - ding  
 Devanagari alphabet - deu nagar zi  
-development - darja mute  
+development - gradu mute  
 devil (Satan) - xatan ja  
 devilish (satanic) - xatan di  
 dew - rose  
@@ -1171,7 +1171,7 @@ double (twofold; multiply by two) - dupli
 double entendre - du semi di  
 doubt (suspect; suspicion) - xaki  
 doubtful (suspicious, disbelieving) - dute ja  
-downgrade - dus darja  
+downgrade - dus gradu  
 download - nete gete  
 drag (haul, tow, trail) - trate  
 dragon - lung  
@@ -1460,6 +1460,7 @@ fermium - fermi yum
 fern - parne  
 fertilize - fa darte bon  
 fertilizer - darte bon ja  
+fervour (zeal, passion) - zelo  
 fever - febre  
 fibre - lin so  
 field (square, plaza, maidan) - medan  
@@ -1643,7 +1644,7 @@ German camomile - kamil
 Germania - Germania  
 germanium - german yum  
 Germany - Doice  
-gesture - jeste  
+gesture - geste  
 get (obtain, take, grasp, receive) - na  
 get off (descend) - aneskale  
 get tired (become weary) - be fatige  
@@ -1702,8 +1703,8 @@ goose - ganse
 gorilla - gorila  
 gospel (divine message) - eu anjil  
 government (administration, polity, politics) - politi  
-gradient (gradation, incline) - darja medan  
-gradual - darja di  
+gradient (gradation, incline) - gradu medan  
+gradual - gradu di  
 gram (g) - gram  
 grammar - baxa kanun  
 grammatical - baxa kanun di  
@@ -1972,7 +1973,7 @@ including - in klus
 inclusive - in klus di  
 increase - fa max  
 incredible (unbelievable) - ankredibil  
-increment - max darja  
+increment - max gradu  
 indeterminate (uncertain, indefinite, undecided) - anding  
 India - Barti  
 Indian - barti  
@@ -2077,7 +2078,7 @@ jar (jug, pitcher, carafe, amphora, vase) - jara
 jasmine - moli  
 jasmine tea - moli hua cai  
 jazz - jaze  
-jealous - jelosi  
+jealous - garde zelo  
 jellyfish (seajelly) - hai jele  
 Jersey - Jerze  
 Jerusalem - Uruxalem  
@@ -2197,7 +2198,7 @@ latch - kane sor
 later (after) - a pos  
 lateral (horizontal) - late di  
 Latin alphabet - Latin zi  
-latitude - vei darja  
+latitude - vei gradu  
 latitudinal (horizontal) - vei  
 Latvia - Latvia  
 lauan tree (meranti, balau) - meranti  
@@ -2244,8 +2245,8 @@ letter (character, written symbol) - fon zi
 letter (written message) - letre  
 lettuce - letus  
 level - par fase  
-level down - dipe darja  
-level up (graduate) - be gau darja  
+level down - dipe gradu  
+level up (graduate) - be gau gradu  
 lever - tire kane  
 liberal - huru sim di  
 liberalism - huru sim  
@@ -2290,7 +2291,6 @@ Lithuania - Lietuva
 Lithuanian - lietuva baxa  
 litre (liter) - litre  
 little (few, not many) - kam  
-little (few, not many) - xau  
 little (small) - xiu  
 live (be alive; living; live, existence) - jiva  
 live in (reside in, inhabit) - be dom  
@@ -2316,7 +2316,7 @@ long (lengthy) - long
 long (long-lasting, prolonged) - long dura di  
 long (over a gread distance) - to long  
 long pepper (pipli) - long pipre  
-longitude - ging darja  
+longitude - ging gradu  
 longitudinal (parallel, vertical) - ging  
 look (see) - vide  
 look away from (despise, disregard) - despete  
@@ -3558,7 +3558,6 @@ scales (weighing device) - veze metre gi
 Scandinavia - Eskandinavia  
 scandium - eskandi yum  
 scarcity - kamta  
-scarcity - xauta  
 scare (frighten) - fa fobi  
 scarf (shawl) - xal  
 scary (frightening) - fobi ja  
@@ -3631,7 +3630,7 @@ servername (hostname) - serve nam
 service - serve  
 sesame - sesam  
 seven (7) - ceti  
-sew - siu  
+sew - kosi  
 sex (sexual relation) - sexe  
 sexology - sexe logi  
 sexual (pertaining to gender) - jinse di  
@@ -3853,7 +3852,7 @@ stealth (secrecy) - sirta
 steam (vapor) - sui gas  
 steamed bun (mantou, manti) - mantu  
 stem (torso, trunk, stalk) - tana  
-step (degree, rank, grade, level, class) - darja  
+step (degree, rank, grade, level, class) - gradu  
 step-father - vise pa  
 step-mother - vise ma  
 stereophonic - du soni di  
@@ -4262,7 +4261,7 @@ unnecessary (extraneous, unneeded) - anyau di
 unplug (uncork) - antapa  
 unrest - anpase  
 until (til, up to) - hata  
-upgrade (level up) - bon darja  
+upgrade (level up) - bon gradu  
 upload - nete da  
 upper - supra di  
 uranium - uran yum  
@@ -4309,7 +4308,6 @@ verb - kar lexi
 verbal irony (sarcasm) - loga ironi  
 verify (authenticate) - fa ver  
 vermouth - vermute  
-version (variation, edition) - version  
 version (variation, edition) - version  
 vertical - gau dipe  
 very - tre  

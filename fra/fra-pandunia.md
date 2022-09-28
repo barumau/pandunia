@@ -636,7 +636,7 @@ délai (retard) - dele
 désaccord (différend) - alo rai  
 désespéré - axa hin  
 dévanagari - deu nagar zi  
-développement - darja mute  
+développement - gradu mute  
 
 ## E  
 
@@ -1351,7 +1351,6 @@ pervers - perversi
 pet (vesse) - pede  
 petit - xiu  
 peu - kam  
-peu - xau  
 peut-être - bil si  
 pharmacie - dava xekan  
 pharmacologie - dava xelogi  

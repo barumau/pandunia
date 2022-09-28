@@ -670,7 +670,7 @@ celebración (fiesta) - festa
 celebrar (festejar) - fa festa  
 celeste (azul celeste) - sama nil  
 celeste (celestial) - sama di  
-celoso (envidioso) - jelosi  
+celoso - garde zelo  
 cementerio - gabur bagi  
 cemento - semente  
 cena - xam yam  
@@ -925,7 +925,7 @@ cortina - parde
 corto (breve) - korte  
 Corán - kuran  
 cosa - xe  
-coser - siu  
+coser - kosi  
 cosmonauta - kosmo nave ja  
 cosmos - kosmo  
 costa (orilla) - hai kinar  
@@ -1076,7 +1076,7 @@ defender - fa defa
 defensa - defa  
 defensor - defa ja  
 definir - fa sifa  
-degradar - dus darja  
+degradar - dus gradu  
 dejar - laxe  
 dejar caer - fa pada  
 delfín - dolfin  
@@ -1109,7 +1109,7 @@ derrota - bai
 desactivado - anativi  
 desacuerdo - alo rai  
 desaparecer - be an zai  
-desarrollo - darja mute  
+desarrollo - gradu mute  
 desatascar - antapa  
 desayuno - suba yam  
 desbordarse (derramarse) - vai dara  
@@ -1356,7 +1356,6 @@ escandio - eskandi yum
 escaparse (evitar, huir) - bega  
 escarcha - hima rose  
 escasez - kamta  
-escasez - xauta  
 escaso (disperso, ralo) - anjami di  
 escenario (podio, estrado, tarima) - tai  
 escoba - jaru  
@@ -1655,7 +1654,7 @@ geotérmico - geo termo
 gerencia (dirección) - nomi  
 Germania - Germania  
 germanio - german yum  
-gesto - jeste  
+gesto - geste  
 Ghana - Gana  
 Gibraltar - Jibraltar  
 giga- - giga  
@@ -1684,7 +1683,7 @@ gota - giota
 grabado (sello, estampando) - cape  
 gracias - xukur  
 gracias a (merced a) - a xukur de  
-grado Celsius - celsius darja  
+grado Celsius - celsius gradu  
 grafema - kitaba so  
 gramatical - baxa kanun di  
 gramo (g) - gram  
@@ -2107,7 +2106,7 @@ largo - long
 larva - larva  
 lasaña - lazanya  
 lateral (horizontal) - late di  
-latitud - vei darja  
+latitud - vei gradu  
 laurencio - laurence yum  
 lava - yung petra  
 lavadora - fuku vaxi gi  
@@ -2207,7 +2206,7 @@ local - loka di
 lodo (barro, fango) - poto  
 logical - logika di  
 lograr (llegar) - fa gol  
-longitud - ging darja  
+longitud - ging gradu  
 loro (papagayo) - papagai  
 lote (grupo) - lote  
 lucha - jihade  
@@ -2365,7 +2364,7 @@ Mediterráneo - Geo Medi Hai
 medusa - hai jele  
 megavatio - mega vate  
 meitnerio - meitner yum  
-mejorar - bon darja  
+mejorar - bon gradu  
 melodioso - melodi di  
 melodía - melodi  
 melón - melon  
@@ -2822,7 +2821,7 @@ pasar - pas
 pasatiempo (hobby, afición) - hobi  
 pascal (Pa) - paskal  
 Pascua - paska  
-paso (grado, nivel, rango, calidad, categoría) - darja  
+paso (grado, nivel, rango, calidad, categoría) - gradu  
 paso (pasaje) - pas dau  
 paso elevado - supra  
 pasta - pasta  
@@ -2984,7 +2983,6 @@ plátano (banana) - banana
 pobre (miserable) - miskin  
 poción - dava sui  
 poco (pocos) - kam  
-poco (pocos) - xau  
 poder (autoridad, competencia) - sultan  
 poder (posible) - bil  
 podrido (cariado) - pute  
@@ -3051,7 +3049,7 @@ presión atmosférica - air prese
 prestar (pedir prestado) - jeka  
 prestar - jeka da  
 presuponer - cen gar  
-presupuesto - bujete  
+presupuesto - pesa plan  
 prever (esperar, pensar) - cen vide  
 previo (anterior) - cen di  
 primavera - hua mosim  
@@ -3868,7 +3866,6 @@ vermú - vermute
 verruga - zeyil  
 versar (afrontar) - versi  
 versar - fa verse  
-versión (modelo) - version  
 versión (modelo) - version  
 vertical - gau dipe  
 vestido (llevando ropa) - fuku di  

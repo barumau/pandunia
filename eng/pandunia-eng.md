@@ -409,7 +409,7 @@ be fobi - fear (be afraid)
 be gamo - feel  
 be gas - gasify (vaporize)  
 be gau - rise (go up)  
-be gau darja - level up (graduate)  
+be gau gradu - level up (graduate)  
 be gene - be born  
 be ging - align (go along)  
 be halte - stop (halt)  
@@ -540,7 +540,7 @@ Bolivia - Bolivia
 bolte - bolt  
 bomba - bomb  
 bon - good  
-bon darja - upgrade (level up)  
+bon gradu - upgrade (level up)  
 bon guste di - delicious (yummy)  
 bon max xe - bonus  
 bon moral - virtue (morals)  
@@ -587,7 +587,7 @@ bude - booth (cabin, stall, stand)
 budi - realization (awareness, enlightenment, bodhi)  
 budi di - aware (enlightened)  
 bufete - buffet (smorgasbord)  
-bujete - budget  
+pesa plan - budget  
 buku - book  
 bulbul - nightingale  
 bum - explosion (blast, eruption)  
@@ -635,7 +635,7 @@ cau stan - grassland (prairie)
 cavi - key  
 ceke - examine (inspect, check)  
 ceke - cheque (check)  
-celsius darja - degree Celsius  
+celsius gradu - degree Celsius  
 cen - earlier (before, in the past)  
 cen den - yesterday  
 cen di - previous (fore)  
@@ -724,7 +724,7 @@ dai - big (great, large)
 dai anjil ja - ambassador  
 dai anjilkan - embassy  
 dai dara - torrent  
-dai darja - amplify (scale)  
+dai gradu - amplify (scale)  
 dai dom - palace (mansion)  
 dai hai - ocean  
 dai lasun - giant onion  
@@ -761,10 +761,10 @@ dara mate - liquid
 dara mate di - fluid (liquid)  
 dara tubo - funnel  
 darba - strike (punch)  
-darja - step (degree, rank, grade, level, class)  
-darja di - gradual  
-darja medan - gradient (gradation, incline)  
-darja mute - development  
+gradu - step (degree, rank, grade, level, class)  
+gradu di - gradual  
+gradu medan - gradient (gradation, incline)  
+gradu mute - development  
 darmestadi yum - darmstadtium  
 darte - soil (dirt)  
 darte bon ja - fertilizer  
@@ -857,7 +857,7 @@ dino saur - dinosaur
 Dione - Dione  
 diorite - diorite  
 dipe - low (short, bottom)  
-dipe darja - level down  
+dipe gradu - level down  
 dipe megi - fog (mist, haze)  
 dipe moka - bush (shrub)  
 dipe tela - carpet (rug)  
@@ -933,7 +933,7 @@ dura di - chronic (lasting)
 dura metre gi - stopwatch  
 dura zaman - period (era, epoch, term)  
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
-dus darja - downgrade  
+dus gradu - downgrade  
 dus deu sim - dystheism (maltheism)  
 dus forma di - malformed (deformed, disfigured)  
 dus hal - hardship (difficulty, challenge)  
@@ -1190,7 +1190,7 @@ fa mei daka - decorate (embellish)
 fa memo - remember (recall)  
 fa migra - move (migrate, relocate)  
 fa min - decrease (lessen)  
-fa min darja - decrement  
+fa min gradu - decrement  
 fa min rai - underestimate  
 fa ming - brighten  
 fa minim - minimize  
@@ -1562,7 +1562,7 @@ gati - hard (tough)
 gati mate - solid  
 gati mate di - rigid (solid)  
 gau - top  
-gau darja di - advanced (high-level)  
+gau gradu di - advanced (high-level)  
 gau di - high (tall)  
 gau dipe - vertical  
 gau dipe move - bob up and down  
@@ -1619,7 +1619,7 @@ gida - guide (lead, show the way)
 gida buku - guide book  
 gida ja - guide  
 ging - longitudinal (parallel, vertical)  
-ging darja - longitude  
+ging gradu - longitude  
 ging gola - meridian (line of longitude)  
 ging lin - warp  
 gingam - kumquat  
@@ -2005,13 +2005,14 @@ jela ja - jailer (imprisoner)
 jela jen - prisoner  
 jelakan - prison (jail)  
 jele - gel (jelly)  
-jelosi - jealous  
+zelo - fervour (zeal, passion)  
+garde zelo - jealous  
 jen - person (individual, -ist, -er)  
 jen (jen men) - one (impersonal pronoun: people, you)  
 jen di - personal (intimate, private, custom)  
 jenxen - ginseng  
 Jerze - Jersey  
-jeste - gesture  
+geste - gesture  
 jete - thrust (throw, cast)  
 • exjete - eject (throw out)  
 • injete - inject (injection)  
@@ -2703,7 +2704,7 @@ matur jen - adult
 matur man - man (adult male)  
 mau - cat  
 max - more  
-max darja - increment  
+max gradu - increment  
 max di - additional  
 max di fen - majority  
 max fili - prefer (favor)  
@@ -3830,7 +3831,7 @@ sistem di - systemic
 sita - quote (cite)  
 sita marke - quotation mark  
 siti - city (town)  
-siu - sew  
+kosi - sew  
 sivil - civilized (civil)  
 sivilta - civilization  
 Slave - Slavic  
@@ -4266,7 +4267,7 @@ Vatikan - Holy See (Vatican City State)
 vaxi - wash  
 Vaxington DC - Washington DC  
 vei - latitudinal (horizontal)  
-vei darja - latitude  
+vei gradu - latitude  
 vei di - traverse (horizontal)  
 vei gola - parallel (line of latitude)  
 vei lin - weft  
@@ -4294,7 +4295,6 @@ versi - turn toward (direct, flip; versus)
 • kontraversi - controversy    
 • perversi - pervert (twist; perverse)  
 • reversi - reverse (invert, direct back; backwards)  
-version - version (variation, edition)  
 version - version (variation, edition)  
 veste - west  
 veste di - western  
@@ -4390,8 +4390,6 @@ xatan di - devilish (satanic)
 xatan din - Satanism (devil worship)  
 xatan din ja - Satanist  
 xatan ja - devil (Satan)  
-xau - little (few, not many)  
-xauta - scarcity  
 xava - rain (precipitation)  
 xava cati - umbrella  
 xava kote - raincoat  

@@ -304,7 +304,7 @@ Buda din - budhismo
 Buda din ja - budhisto  
 budi - kompreno  
 budi di - konscia  
-bujete - buĝeto  
+pesa plan - buĝeto  
 buku - libro  
 bulbul - najtingalo  
 bum - eksplodo  
@@ -388,7 +388,7 @@ dante broxa - dentbroso
 dante dava ja - dentisto  
 dante hin - sendenta  
 darba - bati  
-darja mute - disvolvi  
+gradu mute - disvolvi  
 data - datumo  
 data banke - datumbanko  
 data culi logi - komputoscienco  
@@ -1944,7 +1944,6 @@ ver - vera
 veranda - verando (balkono)  
 vermute - vermuto  
 version - versio  
-version - versio (toisinto)  
 veze - pezo  
 veze di - peza  
 vide - vidi (rigardi)  
@@ -1990,7 +1989,6 @@ xarma - honto
 xarnir - ĉarniro (pivoto)  
 xarti - kondiĉo (postulo)  
 xatan ja - diablo (Satano)  
-xau - malmulte  
 xava - pluvo  
 xava cati - obrelo  
 xayu - ŝarko  

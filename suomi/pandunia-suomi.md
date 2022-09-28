@@ -396,7 +396,7 @@ be fobi - pelätä
 be gamo - tuntea (kokea tunteita)  
 be gas - kaasuuntua  
 be gau - nousta  
-be gau darja - nousta ylemmälle tasolle  
+be gau gradu - nousta ylemmälle tasolle  
 be gene - syntyä  
 be ging - olla linjassa  
 be halte - pysähtyä  
@@ -526,7 +526,7 @@ Bolivia - Bolivia
 bolte - pultti  
 bomba - pommi  
 bon - hyvä  
-bon darja - nostaa tasoa  
+bon gradu - nostaa tasoa  
 bon guste di - herkullinen (nami)  
 bon max xe - bonus  
 bon moral - hyve  
@@ -573,7 +573,7 @@ bude - koppi (koju)
 budi - ymmärrys (taju, oivallus)  
 budi di - valaistunut  
 bufete - noutopöytä (buffetti)  
-bujete - budjetti  
+pesa plan - budjetti  
 buku - kirja  
 bulbul - satakieli  
 bum - räjähdys (pamaus)  
@@ -618,7 +618,7 @@ cau stan - ruohotasanko
 cavi - avain  
 ceke - tarkistaa (tsekata, tutkia)  
 ceke - šekki  
-celsius darja - celsiusaste  
+celsius gradu - celsiusaste  
 cen - ennen (aikaisemmin, aiemmin)  
 cen den - eilen  
 cen di - edellinen  
@@ -702,7 +702,7 @@ dai - iso (suuri)
 dai anjil ja - lähettiläs  
 dai anjilkan - lähetystö  
 dai dara - hyöky (vyöry)  
-dai darja - korottaa  
+dai gradu - korottaa  
 dai dom - palatsi  
 dai hai - valtameri  
 dai lasun - jättilaukka  
@@ -737,10 +737,10 @@ dara mate - neste
 dara mate di - nestemäinen  
 dara tubo - lappo  
 darba - lyödä (iskeä)  
-darja - porras (aste, taso)  
-darja di - asteittainen (porrastettu)  
-darja medan - kaltevuus  
-darja mute - kehitys  
+gradu - porras (aste, taso)  
+gradu di - asteittainen (porrastettu)  
+gradu medan - kaltevuus  
+gradu mute - kehitys  
 darmestadi yum - darmstadtium  
 darte - maa (multa)  
 darte bon ja - lannoite  
@@ -900,7 +900,7 @@ dura di - kestävä (krooninen)
 dura metre gi - sekuntikello  
 dura zaman - aikakausi  
 dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
-dus darja - laskea tasoa  
+dus gradu - laskea tasoa  
 dus deu sim - dysteismi (usko jumalan pahuuteen)  
 dus forma di - epämuodostunut  
 dus hal - vaikeus (hankaluus)  
@@ -1140,7 +1140,7 @@ fa mei daka - koristella
 fa memo - muistaa  
 fa migra - muuttaa (siirtää)  
 fa min - vähentää  
-fa min darja - alentaa tasoa  
+fa min gradu - alentaa tasoa  
 fa min rai - aliarvioida  
 fa ming - kirkastaa (valaista)  
 fa minim - minimoida  
@@ -1490,7 +1490,7 @@ gati - kova
 gati mate - kiinteä aine  
 gati mate di - kiinteä  
 gau - huippu  
-gau darja di - korkeatasoinen (edistynyt)  
+gau gradu di - korkeatasoinen (edistynyt)  
 gau di - korkea  
 gau dipe - pystysuuntainen  
 gau dipe move - liikkua ylös ja alas  
@@ -1540,7 +1540,7 @@ gida - opastaa (ohjata)
 gida buku - matkaopas (opaskirja)  
 gida ja - opas (tiennäyttäjä)  
 ging - pitkittäinen  
-ging darja - pituusaste  
+ging gradu - pituusaste  
 ging gola - pituuspiiri  
 ging lin - loimi  
 gingam - kumkvatti  
@@ -1904,13 +1904,14 @@ jela - vankeus
 jela ja - vanginvartija  
 jelakan - vankila  
 jele - hyytelö  
-jelosi - kade (kateellinen)  
+zelo - into (kiihko)  
+garde zelo - mustasukkainen  
 jen - henkilö  
 jen (jen men) - ihmiset (yleisen persoonan pronomini)  
 jen di - henkilökohtainen (privaatti)  
 jenxen - ginseng  
 Jerze - Jersey  
-jeste - ele  
+geste - ele  
 • injete - ruiskuttaa (ruiske, injektio)  
 • projete - hanke (projekti)  
 jete grafi - heijastaa kuvia (projisoida; projektio)  
@@ -3453,7 +3454,7 @@ sistem - järjestelmä (systeemi)
 sita - lainata (siteerata)  
 sita marke - lainausmerkki  
 siti - kaupunki  
-siu - ommella  
+kosi - ommella  
 sivil - sivistynyt  
 sivilta - sivilisaatio  
 Slave - slaavilainen  
@@ -3854,7 +3855,7 @@ Vatikan - Vatikaanivaltio
 vaxi - pestä  
 Vaxington DC - Washington DC  
 vei - vaakatasossa  
-vei darja - leveysaste  
+vei gradu - leveysaste  
 vei di - poikittainen (vaaka)  
 vei gola - leveyspiiri  
 vei lin - kude  
@@ -3883,7 +3884,6 @@ versi - kohti (päin)
 • perversi - kiero (perverssi)  
 • reversi - taaksepäin  
 version - versio (käännös, muunnelma)  
-version - versio  
 veste - länsi  
 veste di - läntinen  
 veste gorila - lännengorilla  
@@ -3973,7 +3973,6 @@ xatan di - pirullinen
 xatan din - satanismi (paholaisenpalvonta)  
 xatan din ja - satanisti  
 xatan ja - saatana (sielunvihollinen)  
-xau - vähän  
 xava - sade  
 xava cati - sateenvarjo  
 xava kote - sadetakki  

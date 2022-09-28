@@ -329,7 +329,7 @@ Danske - датский
 dante baluta - дуб зубчатый  
 dante hin - беззубый  
 dara tubo - воронка  
-darja mute - развитие  
+gradu mute - развитие  
 darmestadi yum - дармштадтий  
 data - данные  
 data banke - база данных  
@@ -1780,8 +1780,6 @@ xanti - отдых
 xanti di - спокойный  
 xatan - противостоять  
 xatan ja - Сатана  
-xau - мало  
-xauta - мало  
 xava - дождь  
 xava cati - зонтик  
 xava kote - плащ (дождевик)  
