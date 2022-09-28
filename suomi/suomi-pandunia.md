@@ -89,6 +89,8 @@ alistuminen (antautuminen) - islam
 alittaa (olla vähemmän kuin) - be min  
 alittaa - be nice  
 alkaa - be xuru  
+alkaani - alkan  
+alkeeni - alken  
 alkoholi - alkol  
 alkoholinen - alkol di  
 alkovi - nix  
@@ -96,6 +98,8 @@ alku - xuru
 alkuaine - kimi so  
 alkuperä - asal  
 alkuperäinen - asal di  
+alkyyli - alkil  
+alkyyni - alkin  
 alla - a nice  
 allas - basen  
 allofoni (vaihtoehtoinen ääntämys) - alo fon  
@@ -112,6 +116,8 @@ amerikium - amerika yum
 Amerikka - Amerika  
 amerikkalainen - Amerika di  
 amhara (etiopialainen kansa ja kieli) - Amara  
+amidi - amide  
+amiini - amin  
 amiraali - hai amir ja  
 ammatinharjoittaja (niekka) - vala  
 ammatti - pei gong  
@@ -296,6 +302,8 @@ Bulgaria - Bolgaria
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
 bussipysäkki (linja-autopysäkki) - bus halte  
+butaani - butan  
+butyyli - butil  
 byrokratia - buro krati  
 
 ## C  
@@ -458,6 +466,8 @@ esperanto - esperanto
 essee - esai  
 este - bara mur  
 estää kulku (tukkia tie) - bara  
+etaani - etan  
+etanoli - etanol  
 eteen päin - to jin  
 etelä - sude  
 Etelä-Afrikka - Sude Afrika  
@@ -474,6 +484,7 @@ etninen - zuku di
 että - ki  
 etuliite (prefiksi) - cen fixe  
 etymologia - loga asal  
+etyyli - etil  
 etäisyys (kaukaisuus) - tele  
 etäisyys - teleta  
 eugeniikka - eu gene sim  
@@ -498,6 +509,8 @@ fasismi - faxa sim
 fasisti - faxa sim ja  
 feminismi - fem sim  
 feministi - fem sim ja  
+fenoli - fenol  
+fenyyli - fenil  
 fermium - fermi yum  
 Fidži - Fiji  
 Filippiinit - Filipin  
@@ -509,13 +522,16 @@ filosofian maisteri luonnontieteistä - master de logi (ML)
 filosofinen - filsofi di  
 flerovium - flerof yum  
 fluori - flur  
+fluoridi - fluride  
 Fobos - Fobos  
 fonio (heinäkasvi) - foni  
 fonologia (äänneoppi) - fonlogi  
 foorumi - forum  
-fosfori - pospor  
+fosfaatti - fosfate  
+fosfori - fosfe  
 fotoni - foto so  
 frankium - france yum  
+fruktoosi (hedelmäsokeri) - frutos  
 fuusio (yhteensulautuminen) - yung liga  
 fysiikka - fizika  
 fysiikka - fizika suta  
@@ -548,7 +564,11 @@ Ghana - Gana
 ghouli - gule  
 Gibraltar - Jibraltar  
 ginseng - jenxen  
+glukoosi (rypälesokeri) - glukos  
 gluteeni - gluten  
+glykogeeni - glukogen  
+glyseroli - glukerol  
+glysiini - glukin  
 golem - golem  
 gorilla - gorila  
 graafikko - grafi ja  
@@ -611,7 +631,7 @@ hanke (projekti) - projete
 hankkia (ansaita) - ganya  
 hapan (kirpeä) - suan  
 hapatettu - bio mute di  
-happi - oxi  
+happi - oxe  
 happo - suan mate  
 harhanäky (näköharha) - false vide  
 harhautua - be rute galte  
@@ -693,8 +713,9 @@ hiekkakivi - sablu petra
 hiekkalinna - sablu burge  
 hieno (hienojakoinen) - fine  
 hieronta - masaje  
-hiili - karbon  
-hiilidioksidi - karbon duoxide  
+hiili - karbe  
+hiilidioksidi - karbe duoxide  
+hiilihydraatti - karbohidrate  
 hiiri tai rotta - muxu  
 hiiva - hamir  
 hiki - sueda  
@@ -767,6 +788,7 @@ huume - narko
 huumori - yumor  
 huutaa - krita  
 huvi (hauskuus) - vanu  
+hydraatti - hidrate  
 hygieeninen - salu safa di  
 hygienia (puhtaus) - salu safata  
 hyi! (pyh!) - fui  
@@ -1118,6 +1140,8 @@ karaoke - karaoke
 karate - karate  
 karateka (karaten harrastaja) - karateja  
 karavaani (saattue) - karvan  
+karbidi - karbide  
+karboksyyli - karboxil  
 karhu - baru  
 Karibia - Karibe  
 karjanhoito - hevan agri suta  
@@ -1250,6 +1274,7 @@ kesäkuu - mes luka
 ketju - seri seri  
 ketjukirje - seri letre  
 ketjun lenkki - serime  
+ketoni - keton  
 ketsuppi - kecape  
 ketterä - agile  
 kettu - huli  
@@ -1449,6 +1474,7 @@ kromi - krom yum
 kruunu - korona  
 krypton - kriton  
 ksenon - xenon  
+ksyloosi (puusokeri) - xilos  
 kude - vei lin  
 kuin (verrattuna) - ka  
 kuisti (terassi, veranta, parveke) - veranda  
@@ -1812,7 +1838,7 @@ lyhentää - korte fa
 lyhty - hogo sanduku  
 lyhyt - korte  
 lyijy - plumbe  
-lyijykynä - karbon kalam  
+lyijykynä - karbe kalam  
 lymfa - limfa  
 lypsää maitoa - tire yo milke  
 lyödä (iskeä) - darba  
@@ -1910,9 +1936,11 @@ Malediivit - Divehi
 Malesia - Malaisia  
 Mali - Mali  
 malja (kuppi, muki, lasi) - kupa  
+mallas - malte  
 malli - model  
 mallintaa - fa model  
 Malta - Malta  
+maltoosi - maltos  
 manata esiin - fa zai  
 mandariini (kiinalainen virkailija) - han guan ja  
 mandariini - rubi oranje  
@@ -2009,11 +2037,14 @@ messiaaninen - mesi di
 messuta - fa mantra  
 mestari (asiantuntija) - master  
 mestari (voittaja) - campion  
+metaani - metan  
 metalli - metal  
+metanoli - metanol  
 meteli - kelele  
 metri - mitre  
 metrojuna (maanalainen) - tunel tren  
 metsä (viidakko) - jangal  
+metyyli - metil  
 miekka - gem  
 miekkailu - gem suta  
 mielikuvituksekas (fantastinen) - fantazi di  
@@ -2216,6 +2247,8 @@ niobium - niobi yum
 nipistää - pinse  
 nisä (tissi) - titi  
 nisäkäs - mamal  
+nitraatti - nitrate  
+nitriili - nitril  
 Niue - Niue  
 no - nu  
 nobelium - nobel yum  
@@ -2516,6 +2549,7 @@ perhonen - pelpel
 perimä (genotyyppi) - gene tipe  
 perintö - varite  
 perjantai - den lima  
+peroksidi - peroxide  
 persia (farsi) - parsi  
 personoida - fa auto  
 Peru - Peru  
@@ -2869,7 +2903,7 @@ riisiviina - varis vin
 riita (kiista) - palaba  
 rikas - rike  
 rikki (palasina) - parce di  
-rikki - sulfu  
+rikki - sulfe  
 rikos - krim  
 rikos- (rikollinen) - krim di  
 rinta - sine  
@@ -2968,6 +3002,7 @@ saippua - sabun
 sairaala - patikan  
 sairas - pati di  
 sairaus (tauti) - pati  
+sakkaroosi - sukros  
 Saksa - Doice  
 saksalainen - doice di  
 sakset - makas  
@@ -3101,7 +3136,7 @@ sijaita - be loka
 sika (possu) - goro  
 sikhi - siki din ja  
 sikhiläisyys - siki din  
-siksakki - zigzage  
+siksakki - ziza  
 sileä - lis  
 silkki - silke  
 silkkiäistoukka - silke larva  
@@ -3158,9 +3193,9 @@ soijamaito - soi milke
 soittaa (musisoida) - fa muzika  
 soittaa puhelimella - fa tele fon  
 soittokello - dang gi  
-sokeri - sukar  
-sokerinen (makea) - sukar di  
-sokeriruoko - sukar gana  
+sokeri - sukre  
+sokerinen (makea) - sukre di  
+sokeriruoko - sukre gana  
 sola (läpikulku) - pas dau  
 solmia (tehdä solmu) - fa node  
 solmu - node  
@@ -3215,6 +3250,7 @@ sukupuolitutkimus - jinselogi
 sukututkimus - gene logu  
 sulaa - yung  
 sulaa yhteen (fuusioitua) - be yung liga  
+sulfaatti - sulfate  
 suljettu - klus di  
 sulka - pena  
 sulkakynä - pena kalam  
@@ -3884,7 +3920,8 @@ vetinen - sui di
 vetoketju - ziper  
 vetolaatikko - tire sanduku  
 vetovoima (šarmi) - carme  
-vety - hidro  
+vety - hidre  
+vetyperoksidi - hidre peroxide  
 vetää (kiskoa) - tire  
 vetää (kiskoa, raahata) - trate  
 vetää hajalleen (harhauttaa) - distrate  
@@ -3956,7 +3993,7 @@ viuhka (tuuletin) - sanzi
 vivisektio (elävältäleikkaus) - jivatomi  
 Višnu - Vixnu  
 vohveli - vafle  
-voi - makan  
+voi - bute  
 voida (osata, pystyä, mahdollinen, ehkä) - bil  
 voileipä - sanduice  
 voileipäkeksi - yem biskute  

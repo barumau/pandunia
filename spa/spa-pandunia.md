@@ -114,6 +114,7 @@ albaricoque (ciruela) - briko
 albañil (mampostero, cantero) - seku sanaja  
 alcachofera - karcof  
 alcalino - kali di  
+alcano - alkan  
 alcohol - alkol  
 alcohólico - alkol di  
 aldea - deha  
@@ -146,9 +147,12 @@ almohada - kuxen
 almuerzo - dia yam  
 alojar (hospedar) - fa dom  
 alpaca - alpaka  
+alqueno - alken  
 alquilar (arrendar, dar en arriendo) - kira da  
 alquilar (arrendar, tomar en arriendo) - kira kape  
 alquiler (arriendo) - kira  
+alquilo - alkil  
+alquino - alkin  
 altar - puja meza  
 alternar (interactuar) - fa sosi  
 alto (parte de arriba) - gau  
@@ -173,7 +177,9 @@ ambiguo - poli semi di
 americano - Amerika di  
 americio - amerika yum  
 amhara - Amara  
+amida - amide  
 amigo - dosti  
+amina - amin  
 amistad (compañerismo) - dostita  
 amoldarse - kon forma  
 amoldarse - konforma  
@@ -345,11 +351,11 @@ azada - copu
 azafrán - safran  
 azar (aleatorio) - zar di  
 Azerbaiyán - Azerbaijan  
-azucarado - sukar di  
-azufre - sulfu  
+azucarado - sukre di  
+azufre - sulfe  
 azul - nil  
 azur (blao) - lazur  
-azúcar - sukar  
+azúcar - sukre  
 año - nen  
 
 ## B  
@@ -510,6 +516,8 @@ burro (asno) - iha
 Burundi - Rundi  
 bus (autobús) - bus  
 buscar - soki  
+butano - butan  
+butilo - butil  
 Bután - Lung Dexa  
 bárbaro - barbar  
 básico - baze di  
@@ -616,8 +624,11 @@ caramelo - kandi
 carapacho (cáscara, concha, corteza, capa) - kaska  
 cararés - karnada baxa  
 caravana - karvan  
-carbohidrato - karbon sui  
-carbón - karbon  
+carbohidrato - karbe sui  
+carbohidrato - karbohidrate  
+carboxilo - karboxil  
+carburo - karbide  
+carbón - karbe  
 carcelero - jela ja  
 cardo - kardon  
 cardo borriquero - pin kardon  
@@ -658,7 +669,7 @@ cavar (fosa) - kava
 cazador - saide ja  
 cazar (pescar) - fa saide  
 caña - gana  
-caña de azúcar - sukar gana  
+caña de azúcar - sukre gana  
 caña de pesca - huke lin kane  
 cañonear - dai pau ja  
 cañón (barranco, quebrada) - kanyon  
@@ -707,6 +718,7 @@ cerveza (birra) - bir
 cerámica - serami  
 cesio - cesi yum  
 cesta (canasta, barquilla, aro) - baske  
+cetona - keton  
 chacal - xakal  
 Chad - cade  
 Champaña - xampan  
@@ -1184,7 +1196,7 @@ divertir (entretener) - fa vanu
 dividir (repartir) - fa fen  
 divino - deu di  
 diámetro - tralongta  
-dióxido de carbono - karbon duoxide  
+dióxido de carbono - karbe duoxide  
 Dniéster - Nistre  
 doble (doblar) - dupli  
 doble sentido - du semi di  
@@ -1431,7 +1443,10 @@ estático (estacionario) - estasi di
 estúpido (tonto) - idiote di  
 Esuatini (Suazilandia) - Suati  
 esvástica (cruz gamada) - huke krus  
+etano - etan  
+etanol - etanol  
 etapa (fase) - faze  
+etilo - etil  
 etimología - loga asal  
 Etiopía - Etiopia  
 etiqueta (boleto, billete) - tikete  
@@ -1510,6 +1525,8 @@ felicitar - fa barka
 feliz (gustarse, disfrutar) - suka  
 feminismo - fem sim  
 feministe - fem sim ja  
+fenilo - fenil  
+fenol - fenol  
 feo - dus vide  
 fermentar - be biomute  
 fermio - fermi yum  
@@ -1537,6 +1554,7 @@ flor - hua
 florero - hua jara  
 flotador (boya) - boi  
 fluir - be dara  
+fluoruro - fluride  
 flúor - flur  
 fonema - fonma  
 fono (segmento acústico) - fon  
@@ -1547,6 +1565,7 @@ formateo - kitaba forma
 formulario - sual dokumen  
 foro (espacio público) - forum  
 forzar (usar fuerte, imponer, coaccionar) - fa paka  
+fosfato - fosfate  
 foto (fotografía) - foto grafi  
 fotografía - foto grafi suta  
 fotograma - estasi grafi  
@@ -1562,6 +1581,7 @@ frecuentemente - a poli mar
 fresco - taza  
 fresno - yasen  
 frontera (límite, borde, periferia) - kinar  
+fructosa - frutos  
 fruta - frute  
 frío - leng  
 fuego - hogo  
@@ -1590,7 +1610,7 @@ física - fizika
 física - fizika suta  
 física nuclear - kerne fizika  
 físico (científico) - fizika ja  
-fósforo - pospor  
+fósforo - fosfe  
 fútbol - fute bol  
 
 ## G  
@@ -1661,9 +1681,12 @@ giga- - giga
 ginseng - jenxen  
 girar (rotar) - be rota  
 girasol - sol hua  
+glicina - glukin  
 global (de todo el mundo) - pan dunia di  
 global (mundial) - dunia li  
 globo - balon  
+glucosa - glukos  
+glucógeno - glukogen  
 gluten - gluten  
 glóbulo - hemi selu  
 GMS - vijin  
@@ -1783,7 +1806,8 @@ heterorromántico - alo romanse di
 heterosexual - alo sexe di  
 hexaedro (cubo) - luka fase  
 hexágono - luka gona  
-hidrógeno - hidro  
+hidrato - hidrate  
+hidrógeno - hidre  
 hielo - ais  
 hierba - cau  
 hierbabuena - kane minte  
@@ -2224,7 +2248,7 @@ luz (iluminación) - foto
 lágrima - yen sui  
 lámpara - lampa  
 lápida - gabur seku  
-lápiz - karbon kalam  
+lápiz - karbe kalam  
 látigo (fusta) - bici  
 léxico - loga di  
 Líbano - Libanen  
@@ -2272,6 +2296,8 @@ Mali - Mali
 malinterpretar - galte budi  
 malo (difícil, duro) - dus  
 Malta - Malta  
+malta - malte  
+maltosa - maltos  
 mamífero - mamal  
 mancha - najis bindu  
 mandarina (tangerina) - rubi oranje  
@@ -2284,7 +2310,7 @@ maniqueísmo - mani din
 mano - hande  
 manso (dócil, obediente) - dosil  
 mantel - meza tela  
-mantequilla - makan  
+mantequilla - bute  
 mantra (salmodiar) - mantra  
 manual - hande di  
 manzana - aple  
@@ -2397,6 +2423,9 @@ mesiánico - mesi di
 meta (gol, destinación) - gol  
 metal - metal  
 metal pesado - bari metal  
+metano - metan  
+metanol - metanol  
+metilo - metil  
 metro - mitre  
 metro - tunel tren  
 mez - mes  
@@ -2592,6 +2621,8 @@ Nigeria - Naijiria
 nihonio - nipon yum  
 ningunos - siro jen  
 niobio - niobi yum  
+nitrato - nitrate  
+nitrilo - nitril  
 nitrógeno - nitre  
 Niue - Niue  
 nivel - par fase  
@@ -2731,7 +2762,7 @@ otra vez (de nuevo) - a ri
 otra vez (de nuevo) - ri  
 otro - alo  
 oveja - meme  
-oxígeno - oxi  
+oxígeno - oxe  
 oír (escuchar) - audi  
 
 ## P  
@@ -2905,6 +2936,8 @@ perspectiva (punto de vista) - vide punte
 pertenecer (ser miembro de) - mer  
 perturbar (turbulencia) - disturbe  
 perímetro (circunferencia) - gola longta  
+peróxido - peroxide  
+peróxido de hidrógeno - hidre peroxide  
 Perú - Peru  
 pesa (báscula, balanza) - veze metre gi  
 pesado - veze di  
@@ -3243,7 +3276,7 @@ relámpago - eletro radi
 remitente - mise ja  
 remojar (marinar, encurtir, macerar) - pul xipi  
 remolacha - bete  
-remolacha azucarera - sukar bete  
+remolacha azucarera - sukre bete  
 renio - ren yum  
 renovar - fa neu  
 reparador - xuli ja  
@@ -3355,6 +3388,7 @@ sabiduría (conocimiento) - san xe
 sabiduría - sofita  
 sabio - sofi  
 sabroso (umami) - umami  
+sacarosa - sukros  
 sacerdote (clérigo, eclesiástico) - din guru  
 saco - sake  
 sacrificio - kurban  
@@ -3550,6 +3584,7 @@ sufragio (derecho al voto) - vote haki
 sufrir (verbo pasivo) - be  
 sufrir - be pasi  
 Suiza - Suise  
+sulfato - sulfate  
 sultanato - sultan dexa  
 suma (total) - sum  
 sumar - fa sum  
@@ -3934,6 +3969,7 @@ Wallis y Futuna - Valis e Futuna nesi
 ## X  
 
 xenón - xenon  
+xilosa - xilos  
 y - e  
 
 ## Y  
@@ -3965,7 +4001,7 @@ zapatería - sapatukan
 zapato - sapatu  
 zarigüeya - aposum  
 zigurat - zikura  
-zigzag - zigzage  
+zigzag - ziza  
 Zimbabue - Zimbabue  
 zombi - zombi  
 zoo - hevan bagi  

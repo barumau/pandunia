@@ -12,12 +12,18 @@
  - agri di  
  - agri suta  
  - air bio di  
+ - alkan  
+ - alken  
+ - alkil  
+ - alkin  
  - alpaka  
  - alumin mate  
  - alumin oxide  
  - ama ja  
  - ama jen  
  - amen di  
+ - amide  
+ - amin  
  - amir haki  
  - amir lin  
  - angul marke  
@@ -100,6 +106,8 @@
  - buro di  
  - buro krati  
  - buro riti  
+ - butan  
+ - butil  
  - cai vala  
  - cana  
  - cau kitaba  
@@ -159,6 +167,9 @@
  - espanya fon di  
  - estasi grafi  
  - estude  
+ - etan  
+ - etanol  
+ - etil  
  - eu deu sim  
  - eu gene sim  
  - Europa luna  
@@ -230,6 +241,8 @@
  - favor  
  - fei gi tikete  
  - fen di  
+ - fenil  
+ - fenol  
  - fin di  
  - fizika di  
  - fizika gi  
@@ -248,6 +261,7 @@
  - france fon di  
  - France fon dunia  
  - frute bagi  
+ - frutos  
  - fufu  
  - fuku di  
  - fulan  
@@ -283,6 +297,10 @@
  - gio ja  
  - glu bande  
  - glu grafi  
+ - glukerol  
+ - glukin  
+ - glukogen  
+ - glukos  
  - gola longta  
  - grafi culi  
  - grafi fineta  
@@ -314,6 +332,8 @@
  - hevan fili  
  - hevan geo grafi  
  - hevan toxi  
+ - hidrate  
+ - hidre peroxide  
  - hima duna  
  - hin di  
  - hina  
@@ -373,14 +393,19 @@
  - kanon di  
  - kar cuti  
  - karateja  
- - karbon kalam  
- - karbon sui  
+ - karbe kalam  
+ - karbe sui  
+ - karbide  
+ - karbohidrate  
+ - karbol  
+ - karboxil  
  - karkan  
  - karuba  
  - kasa  
  - kata ja  
  - katana  
  - kentaur  
+ - keton  
  - kexa broxa  
  - kexa hin  
  - ki  
@@ -435,6 +460,7 @@
  - luna keke  
  - lung dou  
  - magi liki  
+ - maltos  
  - manioka fufu  
  - mantra  
  - marce  
@@ -456,6 +482,10 @@
  - mendelef yum  
  - metal lin  
  - metal tul  
+ - metan  
+ - metanol  
+ - metil  
+ - metilamin  
  - metre gi  
  - Mimas  
  - mime  
@@ -490,6 +520,8 @@
  - nia  
  - nice kitaba  
  - Nistre  
+ - nitrate  
+ - nitril  
  - Noe  
  - nu  
  - nuka  
@@ -516,6 +548,7 @@
  - pente tela  
  - perex  
  - perex fa  
+ - peroxide  
  - peta  
  - pike  
  - pin sense di  
@@ -595,6 +628,7 @@
  - stan  
  - suan mate  
  - sui culi  
+ - sukros  
  - sultan dexa  
  - suna islam din  
  - suomi baxa  
@@ -696,6 +730,7 @@
  - xi Fulan  
  - xia  
  - xikaya  
+ - xilos  
  - xiu deha  
  - xiu siti  
  - xiu zi  
@@ -1121,7 +1156,7 @@ budżet - pesa plan
 bufet (szwedzki stół) - bufete  
 bulwa - masa mula  
 burak - bete  
-burak cukrowy - sukar bete  
+burak cukrowy - sukre bete  
 Burkina Faso - Burkina Faso  
 Burundi - Rundi  
 burza z piorunami - grom tufan  
@@ -1241,7 +1276,7 @@ co? - ke jen
 coś - yo xe  
 croissant - kruasan  
 cudzysłów - sita marke  
-cukier - sukar  
+cukier - sukre  
 cukierek, słodycze - kandi  
 cukinia - xiu kaboga  
 cukrowiec jadalny - yam sukar gana  
@@ -1394,7 +1429,7 @@ dwa (2) - du
 dwujęzyczny - du baxa di  
 dwujęzyczny - dubaxaka  
 dwukrotnie (dwa razy) - du mar  
-dwutlenek węgla - karbon duoxide  
+dwutlenek węgla - karbe duoxide  
 dwuznacznik - du semi di  
 dychotomia - dutomi  
 dym - duman  
@@ -1538,6 +1573,7 @@ fizyka nuklearna - kerne fizika
 flaga, sztandar - bandera  
 flerow - flerof yum  
 fluor - flur  
+fluorek - fluride  
 folder (teczka) - dokumen sanduku  
 fonem - fonma  
 fonologia - fonlogi  
@@ -1546,7 +1582,8 @@ forma, kształt, morf - forma
 formatowanie - kitaba forma  
 formularz (kwestionariusz) - sual dokumen  
 forum - forum  
-fosfor - pospor  
+fosfat - fosfate  
+fosfor - fosfe  
 fotograf - foto grafi ja  
 fotografia - foto grafi suta  
 foton - foto so  
@@ -2321,7 +2358,7 @@ maska, kamuflaż - maska
 maszt - masta  
 maszyna - gi  
 maszyna do pisania - kitaba gi  
-masło - makan  
+masło - bute  
 masłosz Parka - karite  
 matematyk - hisabu logija  
 matematyka - hisabu logi  
@@ -3002,7 +3039,7 @@ polować (łowić) - fa saide
 Polska - Polska  
 polski - polska baxa  
 pomarańcza - oranje  
-pomarańcza słodka (pomarańcza chińska) - sukar oranje  
+pomarańcza słodka (pomarańcza chińska) - sukre oranje  
 pomarańczowy - oranje rang  
 pomidor - tomate  
 pomnik (memoriał) - memo bina  
@@ -3483,7 +3520,7 @@ sezam - sesam
 sfermentowany - bio mute di  
 shintoizm, sintoizm - xindau din  
 siano - gan cau  
-siarka - sulfu  
+siarka - sulfe  
 siedem (7) - ceti  
 siedzenie (siodło) - side loka  
 siedzieć - fa side  
@@ -3643,6 +3680,7 @@ suchy - gan
 Sudan - Sudan  
 Sudan Południowy - Sude Sudan  
 sufit - kamar gau  
+sulfat - sulfate  
 suma - sum  
 Surinam - Surinam  
 surowy (niedojrzały) - gene di  
@@ -3729,7 +3767,7 @@ sól - yem
 sądzić (osądzić) - fa jude  
 sędzia - jude ja  
 słaby - anbala  
-słodki - sukar di  
+słodki - sukre di  
 słodki ziemniak - kamote  
 słonecznik - sol hua  
 słony - yem di  
@@ -3748,6 +3786,7 @@ sługa - serve ja
 słup (pal, kołek) - moka kane  
 służba - serve  
 służyć - fa serve  
+słód - malte  
 T - T  
 tablica (deska) - bano  
 tablica wyników - punte bano  
@@ -3823,7 +3862,7 @@ Timor - Timor
 Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dong Timor  
 tkanina (materiał, sukno) - tela  
 tkać (pleść) - fa tela  
-tlen - oxi  
+tlen - oxe  
 tlenek - oxide  
 toczyć, turlać - fa rolo  
 Togo - Togo  
@@ -3857,7 +3896,7 @@ trwać, zająć czas; przez - be dura
 trwały (wytrzymały, podtrzymywalny) - durabil  
 tryb nocny - noce mode  
 Trynidad i Tobago - Trinidade e Tobago  
-trzcina cukrowa - sukar gana  
+trzcina cukrowa - sukre gana  
 trzeć (pocierać, obetrzeć, pucować) - frike  
 trzy (3) - tri  
 trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi) - sismo  
@@ -4107,7 +4146,7 @@ woda mineralna - kuanga sui
 wodny - sui di  
 wodoodporny - sui sekur di  
 wodorosty - hai alga  
-wodór - hidro  
+wodór - hidre  
 wojownik, bojownik - jang ja  
 wola (chęć, pragnienie) - vol xe  
 wola, chęć - ici  
@@ -4213,7 +4252,7 @@ wąchać - fa aroma
 wątpliwość, zwątpienie, niewiara, niedowierzanie, nieufność - xaki  
 wątpliwy (niewiarygodny, podejrzany) - dutebil  
 wąż - serpe  
-węgiel - karbon  
+węgiel - karbe  
 Węgry - Magyar  
 węzeł, zupeł - node  
 władać, panować, rządzić jako imperator - imperi  
@@ -4397,7 +4436,7 @@ zwyciężyć (wygrać; zwycięstwo, wygrana) - jai
 zwyczajny (rutynowy, normalny) - ada di  
 zwykły, zwyczajny, prosty - sada  
 zwłoki (trup) - nekro  
-zygzag - zigzage  
+zygzag - ziza  
 zyskać, zyskiwać, zarobić, zarabiać - ganya  
 ząb - dante  
 zęwnętrzny - vai  

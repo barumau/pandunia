@@ -51,9 +51,13 @@ Alaska - Alaska
 alga - algue  
 alga fungu - lichen  
 alga jangal - forêt de kelp  
-alkasus - réglisse  
+alkan - alcane  
+alken - alcène  
+alkil - alkyle  
+alkin - alcyne  
 alkol - alcool  
 alkol di - alcoolique  
+alkasus - réglisse  
 almari - placard  
 alo - autre  
 alo di - autrement  
@@ -81,6 +85,8 @@ Amerika - Amérique
 Amerika di - américain  
 Amerika Samoa - Samoa américaines  
 amerika yum - américium  
+amide - amide  
+amin - amine  
 amir dexa - émirat  
 amir ja - émir  
 amir lin - ligne de commande (console, terminal, invite de commande)  
@@ -344,6 +350,8 @@ buro - bureau (office)
 buro krati - bureaucratie  
 buro riti - protocole  
 bus halte - arrêt de bus  
+bute - beurre  
+butan - butane  
 buta - botte  
 buton - bouton  
 
@@ -408,7 +416,6 @@ danse - dance
 Danske - danois  
 dante hin - édenté  
 dara tubo - entonnoir  
-gradu mute - développement  
 darmestadi yum - darmstadtium  
 data - données  
 data banke - base de données  
@@ -506,6 +513,9 @@ estibi yum - antimoine
 estronti yum - strontium  
 estude - étude  
 estude ja - étudiant  
+etan - éthane  
+etanol - éthanol  
+etil - éthyle  
 eu anjil - évangile  
 eu loga - éloge  
 Europa - Europe  
@@ -611,6 +621,7 @@ fei - vol
 fei muxu - chauve-souris  
 fen - part  
 fen gata - analyse  
+fenol - phénol  
 fermi yum - fermium  
 fero - fer  
 fete - faire (fait)  
@@ -628,6 +639,7 @@ fito yam sim ja - végétarien
 flece - flèche  
 flerof yum - flérovium  
 flur - fluor  
+fluride - fluorure  
 fobi ja - effrayant  
 fong - abeille ou guêpe  
 fong nide - ruche (nid d'abeille)  
@@ -636,6 +648,8 @@ fonte kalam - stylo-plume
 for - loin (hors, parti)  
 fora - forer (percer)  
 • dusforma - défigurer  
+fosfe - phosphore  
+fosfate - phosphate  
 foto - lumière  
 foto frike - poli  
 foto grafi - photographie  
@@ -650,6 +664,7 @@ france krepe - crêpe
 France Polinesi - Polynésie française  
 france yum - francium  
 frem - cadre  
+frutos - fructose  
 frute - fruit  
 frute bagi - verger  
 fufu - pâte (pulpe, foufou)  
@@ -726,10 +741,15 @@ glu bande - pansement (sparadrap)
 glu di - adhésif (collant)  
 glu grafi - autocollant  
 glu poto - argile  
+glukerol - glycérol (glycérine  
+glukin - glycine  
+glukogen - glycogène  
+glukos - glucose  
 gol - but (destination)  
 gola seku - pavé  
 gorila - gorille  
 goton - coton  
+gradu mute - développement  
 grafi culi - traitement d'images  
 grafi kata - bande dessinée  
 granite - granit  
@@ -805,8 +825,10 @@ hevan bagi - zoo
 hevan kata - fable  
 hevan logi - zoologie  
 hevan logi di - zoologique  
+hidre - hydrogène  
+hidrate - hydrate  
+hidre peroxide - peroxyde d'hydrogène  
 hidrargente - mercure  
-hidro - hydrogène  
 hijabu - voile  
 hima - neige  
 hina - henné  
@@ -965,9 +987,10 @@ kar lexi - verbe
 karxe - travail  
 karate - karaté  
 karateja - karatéka  
-karbon - carbone  
-karbon duoxide - dioxyde de carbone  
-karbon kalam - crayon  
+karbe - carbone  
+karbe duoxide - dioxyde de carbone  
+karbohidrate - glucide  
+karbe kalam - crayon  
 karcof - artichaut  
 kardon - chardon  
 kardon karcof - cardon  
@@ -999,6 +1022,7 @@ kentaur - centaure
 kentaur hua - Centaurée  
 kerne - coeur  
 kerne vuki - arme nucléaire  
+keton - cétone  
 kexa broxa - brosse à cheveux  
 kexa hin - glabre  
 ki - que  
@@ -1174,6 +1198,8 @@ makan hua - dandélion
 mal - propriété (possession, bien)  
 mal ja - possédant (propriétaire)  
 mal nomi - économie  
+malte - malt  
+maltos - maltose  
 manera - comportement (manière)  
 mang - occupé  
 mangan - manganèse  
@@ -1228,6 +1254,9 @@ Merkur - Mercure
 mes - mois  
 mes bati - août  
 mesi - Christ (messie)  
+metan - méthane  
+metanol - méthanol (alcool de bois)  
+metil - méthyle  
 metal bede - enclume  
 metal lin - fil de fer  
 meza - table  
@@ -1338,6 +1367,7 @@ niobi yum - niobium
 Nipon - Japon  
 nipon yum - nihonium  
 nitre - azote  
+nitrate - nitrate  
 nix - niche  
 no - non (ne...pas)  
 nobel yum - nobélium  
@@ -1375,7 +1405,7 @@ osidian - obsidienne
 osmi yum - osmium  
 oste jama - squelette  
 oste xalke - scutelle  
-oxi - oxygène  
+oxe - oxygène  
 oxide - oxyde  
 
 ## P  
@@ -1445,6 +1475,7 @@ pende sor - cadenas
 pente - peinture  
 pente broxa - pinceau  
 pente tela - canevas (toile)  
+peroxide - peroxyde  
 pera - poire  
 perex fa - périr  
 pesa - argent  
@@ -1492,7 +1523,6 @@ portoriko jen - Portoricain
 pos den - demain  
 pos di - postérieur  
 pos fixe - suffixe  
-pospor - phosphore  
 posta marke - cachet de la poste  
 pote - pot (vase)  
 pote camaca - louche (cuillère à pot)  
@@ -1697,11 +1727,13 @@ sui yau - soif
 Suise - Suisse  
 suka - heureux (se plaire)  
 sukafa - plaire  
-sukar - sucre  
-sukar bete - betterave à sucre (betterave sucrière)  
-sukar gana - canne à sucre  
-sukar oranje - orange douce  
-sulfu - soufre  
+sukre - sucre  
+sukre bete - betterave à sucre (betterave sucrière)  
+sukre gana - canne à sucre  
+sukre oranje - orange douce  
+sukros - saccharose  
+sulfe - soufre  
+sulfate - sulfate  
 suna islam din - sunnisme  
 supa - soupe  
 supra vakil ja - sénateur  
@@ -1903,6 +1935,7 @@ xenon - xénon
 xia - faction (clique)  
 xia islam din - chiisme  
 xikaya - plainte (lamentation)  
+xilos - xylose  
 xipi - mouillé  
 xite - merde  
 xiti - perder  

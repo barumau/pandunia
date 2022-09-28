@@ -200,6 +200,7 @@
 **bus** *bus (autobús)* ← deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, zho:巴士 (bāshì)  
 **buste** *pecho (busto)* ← fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste  
 **buta** *bota* ← eng:boot, fra:botte, spa:por:bota, rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti  
+**bute** *mantequilla* ← deu:Butter, eng:butter, fra:beurre, jpn:バター (batā), kor:버터 (beoteo), vie:bơ  
 **buton** *tecla (botón)* ← eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)  
 **buyu** *baobab* ← swa:mbuyu, wol:buy, sna:muuyu, zul:isimuhu  
 **cai** *té* ← zho: 茶 (chá), jpn: (cha), kor:차 (cha), vie:trà, tur:çay, swa:chai, rus:чай (čay), hin:चाय (cāy), ara:(šāy), por:chá  
@@ -412,6 +413,7 @@
 **forke** *tenedor* ← eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)  
 **forma** *forma (figura, morfo)* ← eng:form, spa:por:forma, fra:forme, deu:Form, rus:форма (forma)  
 **forum** *foro (espacio público)* ← eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)  
+**fosfe** *fósforo* ← eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور  
 **foto grafi** *foto (fotografía)* ← eng:photograph, fra:photographie, spa:por:fotografia, rus:фотография, hin:फ़ोटो (foṭo), ben:ফটো (phôṭo), may:foto, tur:fotoğraf  
 **foto** *luz (iluminación)* ← ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-  
 **france yum** *francio* ← eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم  
@@ -561,7 +563,7 @@
 **hevan** *animal (bestia)* ← ara: حَيَوَان‎ (ḥayawān), fas: حیوان‎ (heyvân), hin:हैवान (haivān), may:kewan, tur:hayvan, swa:hayawani, ful:hayawan  
 **hibride** *híbrido (mestizo)* ← eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (gibrid)  
 **hidrargente** *mercurio* ← swa:hidrajiri  
-**hidro** *hidrógeno* ← eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين  
+**hidre** *hidrógeno* ← eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين  
 **hijabu** *velo* ← ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)  
 **hima** *nieve* ← hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)  
 **hin** *faltar (sin)* ← hin:-हीन (hīn), ben:-হীন (-hin), guj:-હીન (-hīn)  
@@ -694,7 +696,7 @@
 **kar** *trabajar* ← fas: کار (kâr), hin:कार (kār), कार्य (kārya), ben:কাজ (kaj), may:karya,kerja + swa:kazi  
 **karavi** *carvis (alcaravea)* ← ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia  
 **karbau** *búbalo (arni)* ← spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)  
-**karbon** *carbón* ← eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون  
+**karbe** *carbón* ← eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون  
 **karcof** *alcachofera* ← ara:خرشوف (kharshuf), amh:ከርቹፍ (kärčuf), spa:alcachofa, por:alcachofra, pol:karczoch  
 **kardon** *cardo* ← spa:por:cardo, fra:chardon, eng:cardoon, jpn:カルドン (karudon)  
 **karga** *carga (pesa)* ← spa:por:carga, eng:cargo, may:kargo  
@@ -895,10 +897,10 @@
 **mais** *maíz* ← eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)  
 **majenta** *magenta (fucsia)* ← eng:magenta, spa:magenta, rus:маджента (madzhenta), ara:ماجنتي (majinati), hin:मैजेंटा (maijenta), jpn:マゼンタ (mazenta), may:magenta  
 **makala** *artículo (texto)* ← ara:مَقَال‎ (maqāl), tur:makale, swa:makala, fas:مقاله‎ (maqâle), may:makalah  
-**makan** *mantequilla* ← hin:मक्खन (makkhan), ben:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), mar:माखण (mākhaṇ), guj:માખણ (mākhaṇ)  
 **makas** *tijera* ← ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí  
 **mal** *propiedad* ← ara:fas:urd: مَال‎ (māl), hin:माल (māl), tur:mal, swa:mali, may:milik  
 **malaria** *malaria (paludismo)* ← eng:spa:fra:swa:may:malaria, por:malária, rus:малярия (mal′arija), tur:malarya, ara:مَلَارِيَا‎ (malāriyā), hin:मलेरिया (maleriyā), jpn:マラリア (mararia)  
+**malte** *malta* ← eng:fra:tur:malt, deu:Malz, spa:malta, por:malte, fas: مالت‎ (mâlt), ara: مَلْت‎ (malt)  
 **mamal** *mamífero* ← eng:mammal, spa:por:mamífero, fra:mammifère, tur:memeli, may:mamalia  
 **mana** *significado (acepción)* ← ara:(maʿnā), fas:urd:(ma'ni), hin:मअनी (maani), swa:maana, haw:manaʻo, eng:meaning, deu:Meinung  
 **manera** *comportamiento (conducta)* ← fra:manière, eng:manner, rus:манера (manyera), jpn:マナー (manā), spa:manera, por:maneira, deu:Manieren  
@@ -1096,7 +1098,7 @@
 **osmi yum** *osmio* ← eng:osmium, fra:osmium, spa:osmio, por:ósmio, rus:осмий, jpn:オスミウム, kor:오스뮴, vie:osimi, hin:अस्मियम, ben:অসমিয়াম, may:osmium, swa:osmi, ara: ازميوم  
 **osmos** *ósmosis* ← ell:ώσμωση (ósmosi), eng:may:osmosis, spa:ósmosis, por:fra:osmose, rus:осмос (osmos), fas:تَراران (osmoz)  
 **oste** *hueso* ← eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)  
-**oxi** *oxígeno* ← eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين  
+**oxe** *oxígeno* ← eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين  
 **paci** *pájaro (ave)* ← hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)  
 **pada** *caer* ← tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)  
 **pagri** *turbante* ← hin:mar:पगड़ी (pagṛī), urd:(pagṛī), ben:পাগড়ি (pagri)  
@@ -1190,7 +1192,6 @@
 **porte** ** ← fra:porter, spa:por:portar, eng:(trans)port, deu:-portieren, rus:-портация (-portaciya) + hin:रिपोर्ट (riporṭ), swa:ripoti, tur:rapor, jpn:レポート (repōto)  
 **porte** *porto* ← eng:port, fra:porte, spa:por:porto, rus:порт (port), hin:पोर्ट (porṭ), urd:(porṭ), ben:পোর্ট (porṭ), tha:พอร์ต (phot)  
 **pos** *consecuencia (siguiente)* ← eng:fra:post-, spa:pos, por:pós-, rus:после- (posle-) + fas: پس (pas)  
-**pospor** *fósforo* ← eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور  
 **posta** *correo* ← eng:post, por:postagem, fra:poste, rus:почта (pochta), tur:posta, ara:بوسطة‎ (busṭa), swa:posta, may:pos, fas:پست‎ (post)  
 **pote** ** ← eng:fra:pot, spa:por:pote, may:poci, jpn:ポット (potto), kor:포트 (poteu)  
 **poto** *lodo (barro, fango)* ← pcm:kon:lin:poto-poto  
@@ -1374,8 +1375,8 @@
 **sui kaboga** *calabaza de peregrino* ← por:abóbora-d'água, tur:su kabağı  
 **sui** *agua* ← zho:水 (shuǐ), jpn:水 (sui), kor:수 (su), vie:thuỷ + tur:su  
 **suka** *feliz (gustarse, disfrutar)* ← hin:सुख (sukha), may:suka, tel:సుఖము (sukhamu), tha:สุข (suk), nan:舒合 (su-kah) + jpn:好く (suku)  
-**sukar** *azúcar* ← eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)  
-**sulfu** *azufre* ← eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri  
+**sukre** *azúcar* ← eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)  
+**sulfe** *azufre* ← eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri  
 **sultan ja** *gobernante (soberano)* ← ara:سلطة (sulṭa), eng:tur:may:sultan, spa:sultán, rus: султан (sultan), fas:سلطان‎ (soltân), hin:सुल्तान (sultān), ben:সুলতান (śultan), swa:sultani  
 **sum** *suma (total)* ← eng:sum, spa:suma, por:soma, fra:somme, deu:Summe, rus:сумма (summa)  
 **sun** *pronto* ← eng:soon  
@@ -1630,13 +1631,13 @@
 **zeyil** *verruga* ← fas:زگیل (zegil), tur:siğil, aze:ziyil, fin:syylä  
 **zeze** ** ← swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣinṣin + eng:tsetse, fra:por:tsé-tsé, rus:цеце (tsetse), tur:çeçe, zho:采采蝇 (cǎicǎiyíng)  
 **zi** *carácter* ← zho:字 (zì), jpn:字 (ji), kor:자 (ja)  
-**zigzage** *zigzag* ← eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)  
 **zikura** *zigurat* ← ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)  
 **zina** *adulterio* ← ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)  
 **zinke** *cinc* ← eng:zinc, fra:zinc, spa:cinc, por:zinco, rus:цинк, zho:锌 (xīn), ben:জিঙ্ক, may:seng, swa:zinki  
 **zipe** *cerrar con cremallera* ← eng:zipper, ben:জিপার (jipar), hin:ज़िपर (zipar), jpn:ジッパー (jippā), kor:지퍼 (jipeo), tha:ซิป (síp), fas:urd:(zip)  
 **zira** *comino* ← fas: زیره‎ (zire), hin:ज़ीरा (zīrā), ben:জিরা (zīra), tam:சீரகம் (sīrakam), rus:зира (zira), zho:孜然 (zīrán), swa:mjira  
 **zirkon yum** *circonio* ← eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم  
+**ziza** *zigzag* ← eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)  
 **zizi** *chisporrotear* ← zho:zizi eng:sizzle  
 **zoku** *todavía (aún)* ← wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục  
 **zombi** *zombi* ← kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)  

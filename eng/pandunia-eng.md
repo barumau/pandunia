@@ -111,9 +111,13 @@ Alaska - Alaska
 alga - alga  
 alga fungu - lichen  
 alga jangal - kelp forest  
-alkasus - licorice  
+alkan - alkane  
+alken - alkene  
+alkil - alkyl  
+alkin - alkyne  
 alkol - alcohol  
 alkol di - alcoholic  
+alkasus - licorice  
 almari - cupboard (closet, cabinet, wardrobe)  
 alo - other  
 alo di - otherwise (else)  
@@ -145,6 +149,8 @@ Amerika - America (continent)
 Amerika di - American  
 Amerika Samoa - American Samoa  
 amerika yum - americium  
+amide - amide  
+amin - amine  
 amir - order (command)  
 amir dexa - emirate  
 amir haki - authority (power to give orders)  
@@ -587,7 +593,6 @@ bude - booth (cabin, stall, stand)
 budi - realization (awareness, enlightenment, bodhi)  
 budi di - aware (enlightened)  
 bufete - buffet (smorgasbord)  
-pesa plan - budget  
 buku - book  
 bulbul - nightingale  
 bum - explosion (blast, eruption)  
@@ -603,6 +608,9 @@ buro riti - etiquette (protocol, procedure)
 bus - bus  
 bus halte - bus stop  
 buste - bust (bosom)  
+bute - butter  
+butan - butane  
+butil - butyl  
 buta - boot  
 buton - key (push-button, switch)  
 buton bano - keyboard  
@@ -724,8 +732,8 @@ dai - big (great, large)
 dai anjil ja - ambassador  
 dai anjilkan - embassy  
 dai dara - torrent  
-dai gradu - amplify (scale)  
 dai dom - palace (mansion)  
+dai gradu - amplify (scale)  
 dai hai - ocean  
 dai lasun - giant onion  
 dai pau - gun (cannon)  
@@ -761,10 +769,6 @@ dara mate - liquid
 dara mate di - fluid (liquid)  
 dara tubo - funnel  
 darba - strike (punch)  
-gradu - step (degree, rank, grade, level, class)  
-gradu di - gradual  
-gradu medan - gradient (gradation, incline)  
-gradu mute - development  
 darmestadi yum - darmstadtium  
 darte - soil (dirt)  
 darte bon ja - fertilizer  
@@ -933,9 +937,9 @@ dura di - chronic (lasting)
 dura metre gi - stopwatch  
 dura zaman - period (era, epoch, term)  
 dus - bad (unfavorable, negative, evil, wicked, troublesome, difficult)  
-dus gradu - downgrade  
 dus deu sim - dystheism (maltheism)  
 dus forma di - malformed (deformed, disfigured)  
+dus gradu - downgrade  
 dus hal - hardship (difficulty, challenge)  
 dus jen - enemy (foe, villain)  
 dus nam - insult (offense)  
@@ -1018,6 +1022,9 @@ estronti yum - strontium
 estude - study (work made in order to practise or demonstrate)  
 estude ja - student  
 estudekan - studio  
+etan - ethane  
+etanol - ethanol  
+etil - ethyl  
 Etiopia - Ethiopia  
 eu - beneficial (good)  
 eu anjil - gospel (divine message)  
@@ -1361,6 +1368,8 @@ fen - part (component, segment, fraction, distinct element of something larger)
 fen da - contribute  
 fen di - partial  
 fen gata - analysis (dissection)  
+fenil - phenyl  
+fenol - phenol  
 fermi yum - fermium  
 fero - iron  
 festa - party (celebration, festival)  
@@ -1415,6 +1424,7 @@ flexi - bend (flex)
 • reflexir - reflector  
 • flexibil - flexible   
 flur - fluorine  
+fluride - fluoride  
 fobi - fear (phobia)  
 fobi di - afraid (scared)  
 fobi ja - scary (frightening)  
@@ -1440,6 +1450,8 @@ forma - form (shape, morph)
 • riforma - reform  
 forma so - morpheme  
 forum - forum (public space)  
+fosfe - phosphorus  
+fosfate - phosphate  
 foto - light (illumination)  
 foto di - light (bright)  
 foto frike - polish  
@@ -1464,6 +1476,7 @@ France Polinesi - French Polynesia
 france yum - francium  
 frem - frame  
 frike - rub (scrape, scrub)  
+frutos - fructose  
 frute - fruit  
 frute bagi - orchard  
 fufu - pulp (pap, mash, mush)  
@@ -1544,6 +1557,7 @@ garparke - car park (parking lot)
 garanti - guarantee (warranty)  
 garde - guard (watch)  
 garde ja - guardian (watchman)  
+garde zelo - jealous  
 garma - warm (hot)  
 garma masala - garam masala  
 garma mosim - summer  
@@ -1562,10 +1576,10 @@ gati - hard (tough)
 gati mate - solid  
 gati mate di - rigid (solid)  
 gau - top  
-gau gradu di - advanced (high-level)  
 gau di - high (tall)  
 gau dipe - vertical  
 gau dipe move - bob up and down  
+gau gradu di - advanced (high-level)  
 gauta - height (altitude)  
 gau tanur - blast furnace  
 gau tehni - high technology (hi-tech)  
@@ -1614,13 +1628,14 @@ geo tika - lot (plot of land)
 german yum - germanium  
 Germania - Germania  
 Gernezi - Guernsey  
+geste - gesture  
 gi - machine (device, aparatus)  
 gida - guide (lead, show the way)  
 gida buku - guide book  
 gida ja - guide  
 ging - longitudinal (parallel, vertical)  
-ging gradu - longitude  
 ging gola - meridian (line of longitude)  
+ging gradu - longitude  
 ging lin - warp  
 gingam - kumquat  
 gio - teach (educate, instruct, doctrine)  
@@ -1634,6 +1649,10 @@ glu bande - adhesive bandage (band-aid, sticking plaster)
 glu di - sticky (ahesive)  
 glu grafi - sticker  
 glu poto - clay  
+glukerol - glycerol (glycerine)  
+glukin - glycine  
+glukogen - glycogen  
+glukos - glucose  
 gluten - gluten  
 gol - goal (destination)  
 gola - circle (sphere, round object)  
@@ -1648,6 +1667,10 @@ gorila - gorilla
 goro - pig  
 goro nama - pork  
 goton - cotton  
+gradu - step (degree, rank, grade, level, class)  
+gradu di - gradual  
+gradu medan - gradient (gradation, incline)  
+gradu mute - development  
 grafi - drawing (graph, image)  
 grafi buku - picture book  
 grafi culi - image processing  
@@ -1817,8 +1840,10 @@ hevan logi - zoology
 hevan logi di - zoological  
 hevan toxi - zootoxin  
 hibride - hybrid (mongrel)  
+hidre - hydrogen  
+hidrate - hydrate (chemical compound)  
+hidre peroxide - hydrogen peroxide  
 hidrargente - mercury (quicksilver)  
-hidro - hydrogen  
 hijabu - veil (cover, screen)  
 hima - snow  
 hima duna - snow drift  
@@ -2005,14 +2030,11 @@ jela ja - jailer (imprisoner)
 jela jen - prisoner  
 jelakan - prison (jail)  
 jele - gel (jelly)  
-zelo - fervour (zeal, passion)  
-garde zelo - jealous  
 jen - person (individual, -ist, -er)  
 jen (jen men) - one (impersonal pronoun: people, you)  
 jen di - personal (intimate, private, custom)  
 jenxen - ginseng  
 Jerze - Jersey  
-geste - gesture  
 jete - thrust (throw, cast)  
 • exjete - eject (throw out)  
 • injete - inject (injection)  
@@ -2176,11 +2198,15 @@ karaoke - karaoke
 karate - karate  
 karateja - karateka (practitioner of karate)  
 karavi - caraway  
+karbe - carbon (coal)  
+karbe duoxide - carbon dioxide  
+karbohidrate - carbohydrate  
+karbide - carbide  
+karbe kalam - pencil  
+karbol - carbole (carbolic acid)  
+karboxil - carboxyle  
+karbe sui - carbohydrate (saccharide)  
 karbau - water buffalo  
-karbon - carbon (coal)  
-karbon duoxide - carbon dioxide  
-karbon kalam - pencil  
-karbon sui - carbohydrate (saccharide)  
 karcof - globe artichoke  
 kardon - thistle  
 kardon karcof - artichoke thistle (cardoon)  
@@ -2245,6 +2271,7 @@ kerne fizika - nuclear physics
 kerne unta - nuclear fusion  
 kerne vuki - nuclear weapon (nuke)  
 kerubi - cherub  
+keton - ketone  
 ketel - kettle  
 kexa - hair  
 kexa bande - hairband (headband)  
@@ -2363,6 +2390,7 @@ korte - short (brief)
 korte fa - shorten  
 korte kata - short story  
 korte krokodil - alligator  
+kosi - sew  
 kosmo - space (cosmos, universe)  
 kosmo biologi - astrobiology  
 kosmo di - cosmic  
@@ -2631,7 +2659,6 @@ majang - mahjong
 majenta - magenta (fuchsia)  
 Makah - Mecca  
 makala - article (writing)  
-makan - butter  
 makan hua - dandelion  
 makas - scissors (shears)  
 Makau - Macao  
@@ -2644,6 +2671,8 @@ Malavi - Malawi
 malayali - Malayali (Malayalam)  
 malayu - Malay  
 Mali - Mali  
+malte - malt  
+maltos - maltose  
 Malta - Malta  
 Malvinas nesi - Falkland Islands (Malvinas)  
 mamal - mammal  
@@ -2704,12 +2733,12 @@ matur jen - adult
 matur man - man (adult male)  
 mau - cat  
 max - more  
-max gradu - increment  
 max di - additional  
 max di fen - majority  
 max fili - prefer (favor)  
 max fili di - favorite (preferred)  
 max fili sim - favoritism  
+max gradu - increment  
 max ka bas - too much  
 max ordu - reinforcements  
 maxim - most (maximally)  
@@ -2789,6 +2818,10 @@ mesi di - messianic
 mesi din - Christianity  
 mesi din ja - Christian  
 mesi gene - Christmas  
+metan - methane  
+metanol - methanol  
+metil - methyl  
+metilamin - methylamine  
 metal - metal  
 metal bede - anvil  
 metal lin - wire  
@@ -3057,6 +3090,8 @@ nipon di - Japanese
 nipon yum - nihonium  
 Nistre - Dniester  
 nitre - nitrogen  
+nitrate - nitrate  
+nitril - nitrile  
 Niue - Niue  
 niuton - newton (N)  
 nix - niche (recess, alcove)  
@@ -3142,7 +3177,7 @@ oste - bone
 oste jama - skeleton (frame)  
 oste xalke - scute  
 Ostria - Austria  
-oxi - oxygen  
+oxe - oxygen  
 oxide - oxide  
 
 ## P  
@@ -3283,6 +3318,7 @@ pente - paint
 pente broxa - paintbrush  
 pente ja - painter  
 pente tela - canvas  
+peroxide - peroxide  
 pera - pear  
 perex - perished (ruined, devastated, wretched)  
 perex fa - perish (ruin, dishevel, devastate, desolate)  
@@ -3291,6 +3327,7 @@ pesa - money
 pesa diske - coin  
 pesa kasa - cash box  
 pesa kasa ja - cashier  
+pesa plan - budget  
 peta - peta-  
 pete - belly (stomach, abdomen)  
 petra - rock  
@@ -3405,7 +3442,6 @@ pos di - back (posterior)
 pos fixe - suffix  
 pos poza - put back (postpone)  
 pos zaman - future time  
-pospor - phosphorus  
 posta - mail  
 posta cape - postal stamp  
 postakan - post office  
@@ -3831,7 +3867,6 @@ sistem di - systemic
 sita - quote (cite)  
 sita marke - quotation mark  
 siti - city (town)  
-kosi - sew  
 sivil - civilized (civil)  
 sivilta - civilization  
 Slave - Slavic  
@@ -3918,12 +3953,14 @@ sui yau - thirst
 Suise - Switzerland  
 suka - enjoy (like, be happy, be fond of; pleased, delighted, happy)  
 sukafa - please (satisfy, delight)  
-sukar - sugar  
-sukar bete - sugar beet  
-sukar di - sugary (sweet)  
-sukar gana - sugarcane  
-sukar oranje - sweet orange  
-sulfu - sulfur (brimstone)  
+sukre - sugar  
+sukre bete - sugar beet  
+sukre di - sugary (sweet)  
+sukre gana - sugarcane  
+sukre oranje - sweet orange  
+sukros - sucrose  
+sulfe - sulfur (brimstone)  
+sulfate - sulfate  
 sultan - power (authority, rule)  
 sultan dexa - sultanate  
 sultan ja - ruler  
@@ -4267,9 +4304,9 @@ Vatikan - Holy See (Vatican City State)
 vaxi - wash  
 Vaxington DC - Washington DC  
 vei - latitudinal (horizontal)  
-vei gradu - latitude  
 vei di - traverse (horizontal)  
 vei gola - parallel (line of latitude)  
+vei gradu - latitude  
 vei lin - weft  
 vende - sell (vend)  
 vende xope - trade (commerce, buying and selling)  
@@ -4411,6 +4448,7 @@ xifu - master (sensei, sifu)
 xigu - accident (mishap)  
 xikaya - complain (lament)  
 xike - elegant (chic)  
+xilos - xylose (wood sugar)  
 xim - heart  
 xindau din - Shintoism  
 xipi - wet (damp, moist)  
@@ -4553,13 +4591,14 @@ zardux din - Zoroastrianism
 zardux din ja - Zoroastrian  
 zardux magi ja - magus (Zoroastrian priest)  
 zebra - zebra  
+zelo - fervour (zeal, passion)  
 zeta - zetta-  
 zeyil - wart  
 zeze - fly  
 zi - character (written symbol)  
 zi forma - font  
 zi seri - alphabet  
-zigzage - zigzag  
+ziza - zigzag  
 zikura - ziggurat  
 Zimbabue - Zimbabwe  
 zina - adultery (infidelity)  

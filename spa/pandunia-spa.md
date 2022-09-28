@@ -67,9 +67,13 @@ Alaska - Alaska
 alga - alga  
 alga fungu - liquen  
 alga jangal - bosque de algas  
-alkasus - regaliz (alcazuz, orozuz)  
+alkan - alcano  
+alken - alqueno  
+alkil - alquilo  
+alkin - alquino  
 alkol - alcohol  
 alkol di - alcohólico  
+alkasus - regaliz (alcazuz, orozuz)  
 almari - armario  
 alo - otro  
 alo di - sino  
@@ -101,6 +105,8 @@ Amerika - América
 Amerika di - americano  
 Amerika Samoa - Samoa Americana  
 amerika yum - americio  
+amide - amida  
+amin - amina  
 amir - orden (mando, comando)  
 amir dexa - emirato  
 amir ja - emir  
@@ -492,7 +498,6 @@ bude - cabina (garita)
 budi - comprensión (entendimiento)  
 budi di - concienciado (iluminado)  
 bufete - bufé  
-pesa plan - presupuesto  
 buku - libro  
 bulbul - ruiseñor  
 bum - explosión (estallado)  
@@ -508,6 +513,9 @@ buro riti - etiqueta (protocolo)
 bus - bus (autobús)  
 bus halte - parada de autobús  
 buste - pecho (busto)  
+bute - mantequilla  
+butan - butano  
+butil - butilo  
 buta - bota  
 buton - tecla (botón)  
 buton bano - teclado  
@@ -639,8 +647,6 @@ dara mate - líquido
 dara mate di - líquido (fluido)  
 dara tubo - embudo  
 darba - golpear (pegar)  
-gradu - paso (grado, nivel, rango, calidad, categoría)  
-gradu mute - desarrollo  
 darmestadi yum - darmstatio  
 darte - tierra (barro)  
 darte di - sucio  
@@ -859,6 +865,9 @@ estibi yum - antimonio
 estronti yum - strontium  
 estude ja - estudiante  
 estudekan - estudio  
+etan - etano  
+etanol - etanol  
+etil - etilo  
 Etiopia - Etiopía  
 eu - beneficioso (bueno)  
 eu anjil - evangelio  
@@ -1164,6 +1173,8 @@ fen - parte (fracción)
 fen da - contribuir  
 fen di - parcial  
 fen gata - análisis (disección)  
+fenil - fenilo  
+fenol - fenol  
 fermi yum - fermio  
 fero - hierro  
 festa - celebración (fiesta)  
@@ -1207,6 +1218,7 @@ fizika suta - física
 flece - flecha  
 flerof yum - flerovio  
 flur - flúor  
+fluride - fluoruro  
 fobi - miedo (-fobia)  
 fobi ja - asustador  
 fokus - concentrar (enfocarse)  
@@ -1227,6 +1239,8 @@ forma - forma (figura, morfo)
 • konforma - amoldarse  
 forma so - morfema  
 forum - foro (espacio público)  
+fosfe - fósforo  
+fosfate - fosfato  
 foto - luz (iluminación)  
 foto di - claro (luminoso)  
 foto frike - pulir (lustrar)  
@@ -1248,6 +1262,7 @@ France Polinesi - Polinesia Francesa
 france yum - francio  
 frem - marco  
 frike - raspar (arañar)  
+frutos - fructosa  
 frute - fruta  
 frute bagi - huerta  
 fufu - polpa  
@@ -1321,6 +1336,7 @@ garparke - estacionamiento (aparcamiento)
 garanti - garantía  
 garde - vigilar (guardar)  
 garde ja - vigilante (guardia)  
+garde zelo - celoso  
 garma - caliente (cálido)  
 garma masala - garam masala  
 garma mosim - verano  
@@ -1378,14 +1394,15 @@ geo tika - terreno (solar)
 german yum - germanio  
 Germania - Germania  
 Gernezi - Guernesey  
+geste - gesto  
 gi - máquina (dispositivo, aparato)  
 gida - guiar  
 gida buku - guía de viaje  
 gida ja - guía  
 giga - giga-  
 ging - paralelo  
-ging gradu - longitud  
 ging gola - meridiano (línea de longitud)  
+ging gradu - longitud  
 gingam - kumquat (quinoto)  
 gio - enseñar (instruir, doctrina)  
 gio ja - docente (enseñante, profesor, maestro)  
@@ -1398,6 +1415,9 @@ glu bande - curita (apósito)
 glu di - pegajoso (adhesivo)  
 glu grafi - adhesivo  
 glu poto - arcilla (barro)  
+glukin - glicina  
+glukogen - glucógeno  
+glukos - glucosa  
 gluten - gluten  
 gol - meta (gol, destinación)  
 gola - círculo  
@@ -1411,6 +1431,8 @@ gorila - gorila
 goro - cerdo (puerco)  
 goro nama - carne de cerdo  
 goton - algodón  
+gradu - paso (grado, nivel, rango, calidad, categoría)  
+gradu mute - desarrollo  
 grafi - imagen (gráfico, dibujo)  
 grafi buku - libro de cuentos ilustrado  
 grafi culi - procesamiento de imágenes  
@@ -1562,8 +1584,10 @@ hevan kata - fábula
 hevan logi - zoología  
 hevan logi di - zoológico  
 hibride - híbrido (mestizo)  
+hidre - hidrógeno  
+hidrate - hidrato  
+hidre peroxide - peróxido de hidrógeno  
 hidrargente - mercurio  
-hidro - hidrógeno  
 hijabu - velo  
 hima - nieve  
 hima rose - escarcha  
@@ -1732,12 +1756,10 @@ jela ja - carcelero
 jela jen - prisionero  
 jelakan - cárcel  
 jele - gel (jalea, gelatina)  
-garde zelo - celoso  
 jen - persona (ista, -ador)  
 jen di - personal (privado, a medida)  
 jenxen - ginseng  
 Jerze - Jersey  
-geste - gesto  
 • injete - inyectar (inyección)  
 • projete - proyecto  
 jete grafi - proyectar (proyección)  
@@ -1875,11 +1897,14 @@ karxe - trabajo
 karaoke - karaoke  
 karate - karate  
 karavi - carvis (alcaravea)  
+karbe - carbón  
+karbe duoxide - dióxido de carbono  
+karbohidrate - carbohidrato  
+karbide - carburo  
+karbe kalam - lápiz  
+karboxil - carboxilo  
+karbe sui - carbohidrato  
 karbau - búbalo (arni)  
-karbon - carbón  
-karbon duoxide - dióxido de carbono  
-karbon kalam - lápiz  
-karbon sui - carbohidrato  
 karcof - alcachofera  
 kardon - cardo  
 karga - carga (pesa)  
@@ -1940,6 +1965,7 @@ kerne fizika - física nuclear
 kerne unta - fusión nuclear  
 kerne vuki - arma nuclear  
 kerubi - querubín  
+keton - cetona  
 ketel - hervidor (tetera)  
 kexa - pelo  
 kexa bande - cinta (cinta para el pelo)  
@@ -2039,6 +2065,7 @@ korte - corto (breve)
 korte fa - acortar (abreviar)  
 korte kata - cuento (relato corto)  
 korte krokodil - caimán (aligátor, yacaré)  
+kosi - coser  
 kosmo - cosmos  
 kosmo biologi - astrobiologia  
 kosmo di - cósmico  
@@ -2274,7 +2301,6 @@ mais - maíz
 majang - mahjong  
 majenta - magenta (fucsia)  
 makala - artículo (texto)  
-makan - mantequilla  
 makan hua - dientes de león (panaderos)  
 makas - tijera  
 Makau - Macao  
@@ -2287,6 +2313,8 @@ Malavi - Malaui
 malayali - malayali (malabar, malayalam)  
 malayu - malayo  
 Mali - Mali  
+malte - malta  
+maltos - maltosa  
 Malta - Malta  
 Malvinas nesi - Islas Malvinas  
 mamal - mamífero  
@@ -2420,6 +2448,9 @@ mesi di - mesiánico
 mesi din - cristianismo  
 mesi din ja - cristiano  
 mesi gene - Navidad  
+metan - metano  
+metanol - metanol  
+metil - metilo  
 metal - metal  
 metal bede - yunque  
 metal lin - alambre (hilo)  
@@ -2668,6 +2699,8 @@ nipon di - japonés
 nipon yum - nihonio  
 Nistre - Dniéster  
 nitre - nitrógeno  
+nitrate - nitrato  
+nitril - nitrilo  
 Niue - Niue  
 niuton - newton (N)  
 nix - hornacina  
@@ -2748,7 +2781,7 @@ osmos - ósmosis
 oste - hueso  
 oste jama - esqueleto (armazón)  
 Ostria - Austria  
-oxi - oxígeno  
+oxe - oxígeno  
 oxide - óxide  
 
 ## P  
@@ -2867,6 +2900,7 @@ pente - pintura
 pente broxa - pincel  
 pente ja - pintor  
 pente tela - tela  
+peroxide - peróxido  
 pera - pera  
 perex fa - perecer  
 Peru - Perú  
@@ -2874,6 +2908,7 @@ pesa - dinero (plata)
 pesa diske - moneda  
 pesa kasa - caja (caja registradora)  
 pesa kasa ja - cajero  
+pesa plan - presupuesto  
 pete - barriga (vientre, panza)  
 petra - roca (piedra)  
 petra nefte - petróleo  
@@ -2978,7 +3013,6 @@ pos di - siguiente (trasero)
 pos di - posterior  
 pos fixe - sufijo  
 pos zaman - futuro  
-pospor - fósforo  
 posta - correo  
 posta cape - sello postal  
 postakan - oficina de correos  
@@ -3361,7 +3395,6 @@ sistem di - sistémico
 sita - citar  
 sita marke - comilla  
 siti - ciudad  
-kosi - coser  
 sivil - civilizado  
 sivilta - civilización  
 Slave - eslavo  
@@ -3440,11 +3473,13 @@ sui yau - sed
 Suise - Suiza  
 suka - feliz (gustarse, disfrutar)  
 sukafa - gustar (complacer)  
-sukar - azúcar  
-sukar bete - remolacha azucarera  
-sukar di - azucarado  
-sukar gana - caña de azúcar  
-sulfu - azufre  
+sukre - azúcar  
+sukre bete - remolacha azucarera  
+sukre di - azucarado  
+sukre gana - caña de azúcar  
+sukros - sacarosa  
+sulfe - azufre  
+sulfate - sulfato  
 sultan - poder (autoridad, competencia)  
 sultan dexa - sultanato  
 sultan ja - gobernante (soberano)  
@@ -3734,8 +3769,8 @@ vasin - vacuna
 vate - vatio  
 Vatikan - Santa Sede (Estado de la Ciudad del Vaticano)  
 vaxi - lavar  
-vei gradu - latitud  
 vei gola - paralelo (línea de latitud)  
+vei gradu - latitud  
 vende - vender  
 vende xope - comercio  
 Venezuela - Venezuela  
@@ -3850,6 +3885,7 @@ xia islam din - chiismo (chía)
 xifu - maestro (profesor)  
 xikaya - queja (lamento)  
 xike - elegante (chic)  
+xilos - xilosa  
 xim - corazón  
 xindau din - sintoísmo  
 xipi - mojado  
@@ -3977,7 +4013,7 @@ zeyil - verruga
 zi - carácter  
 zi forma - fuenta  
 zi seri - alfabeto  
-zigzage - zigzag  
+ziza - zigzag  
 zikura - zigurat  
 Zimbabue - Zimbabue  
 zina - adulterio  

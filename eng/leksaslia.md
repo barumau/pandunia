@@ -200,6 +200,7 @@
 **bus** *bus* ← deu:French:English:Spanish:bus, Russian:автобус (avtobus), Hindi:बस (bas), Urdu:(bas), Japanese:バス (basu), Korean:버스 (beoseu), Persian:(otobus), Turkish:otobüs, Swahili:basi, Mandarin:巴士 (bāshì)  
 **buste** *bust (bosom)* ← French:buste, English:bust, Spanish:Portuguese:busto, Russian:бюст (byust), deu:Büste  
 **buta** *boot* ← English:boot, French:botte, Spanish:Portuguese:bota, Russian:ботинок (botinok), Polish:Malay:but, Persian: بوت‎ (but), Japanese:ブーツ (būtsu), Swahili:buti  
+**bute** *butter* ← deu:Butter, English:butter, French:beurre, Japanese:バター (batā), Korean:버터 (beoteo), Vietnamese:bơ  
 **buton** *key (push-button, switch)* ← English:button, Spanish:botón, Portuguese:botão, French:bouton, Hindi:बटन (baṭan), Bengali:বোতাম (botam), Japanese:ボタン (botan), Korean:버튼 (beoteun)  
 **buyu** *baobab* ← Swahili:mbuyu, Wolof:buy, sna:muuyu, Zulu:isimuhu  
 **cai** *tea* ← Mandarin: 茶 (chá), Japanese: (cha), Korean:차 (cha), Vietnamese:trà, Turkish:çay, Swahili:chai, Russian:чай (čay), Hindi:चाय (cāy), Arabic:(šāy), Portuguese:chá  
@@ -412,6 +413,7 @@
 **forke** *fork* ← English:fork, Spanish:horca, Portuguese:forcado, French:fourche, Tamil:போர்க் (pōrk), Japanese:フォーク (fōku), Korean:포크 (pokeu)  
 **forma** *form (shape, morph)* ← English:form, Spanish:Portuguese:forma, French:forme, deu:Form, Russian:форма (forma)  
 **forum** *forum (public space)* ← English:French:forum, Spanish:foro, Portuguese:fórum, Russian:форум (forum), Japanese:フォーラム (fōramu)  
+**fosfe** *phosphorus* ← English:phosphorus, French:phosphore, Spanish:fósforo, Portuguese:fósforo, Russian:фосфор, Vietnamese:photpho, Hindi:फास्फोरस, Bengali:ফসফরাস, Malay:fosfor, Swahili:posfori, Arabic: فوسفور  
 **foto grafi** *photograph* ← English:photograph, French:photographie, Spanish:Portuguese:fotografia, Russian:фотография, Hindi:फ़ोटो (foṭo), Bengali:ফটো (phôṭo), Malay:foto, Turkish:fotoğraf  
 **foto** *light (illumination)* ← Greek:φωτο- (foto-), English:French:photo-, Spanish:Portuguese:foto-, Russian:фото-  
 **france yum** *francium* ← English:francium, French:francium, Spanish:francio, Portuguese:frâncio, Russian:франций, Mandarin:钫 (fāng), Japanese:フランシウム, Korean:프랑슘, Vietnamese:franxi, Hindi:फ्रान्सियम, Bengali:ফ্রান্সিয়াম, Malay:fransium, Swahili:fransi, Arabic: فرنسيوم  
@@ -561,7 +563,7 @@
 **hevan** *animal* ← Arabic: حَيَوَان‎ (ḥayawān), Persian: حیوان‎ (heyvân), Hindi:हैवान (haivān), Malay:kewan, Turkish:hayvan, Swahili:hayawani, Fulani:hayawan  
 **hibride** *hybrid (mongrel)* ← English:hybrid, Spanish:Portuguese:híbrido, French:hybride, Russian:гибрид (gibrid)  
 **hidrargente** *mercury (quicksilver)* ← Swahili:hidrajiri  
-**hidro** *hydrogen* ← English:French:hydro-, Spanish:Portuguese:Malay:Swahili:hidro-, Vietnamese:hyđrô, Arabic: هيدروجين  
+**hidre** *hydrogen* ← English:French:hydro-, Spanish:Portuguese:Malay:Swahili:hidro-, Vietnamese:hyđrô, Arabic: هيدروجين  
 **hijabu** *veil (cover, screen)* ← Arabic:(ḥijāb), Persian:(hejâb), Swahili:hijabu, Hausa:hijabi, Hindi:हिजाब (hijāb), Bengali:হিজাব (hijab), English:Portuguese:hijab, French:hidjab, Spanish:hiyab, Russian:хиджаб (xidžab)  
 **hima** *snow* ← Hindi:हिमपात (himpāt), Thai:หิมะ (hima), Telugu:(himamu)  
 **hin** *lack (miss, be without)* ← Hindi:-हीन (hīn), Bengali:-হীন (-hin), Gujarati:-હીન (-hīn)  
@@ -694,7 +696,7 @@
 **kar** *work* ← Persian: کار (kâr), Hindi:कार (kār), कार्य (kārya), Bengali:কাজ (kaj), Malay:karya,kerja + Swahili:kazi  
 **karavi** *caraway* ← Arabic:(karāwiya), English:caraway, French:carvi, Spanish:alcaravea, Portuguese:alcaravia  
 **karbau** *water buffalo* ← Spanish:carabao, Malay:kerbau, jav:kebo, Khmer:ក្របី (krɑbəy)  
-**karbon** *carbon (coal)* ← English:carbon, French:carbone, Spanish:carbón, Portuguese:carbono, Vietnamese:cacbon, Hindi:कार्बन, Bengali:কার্বন, Malay:karbon, Swahili:kaboni, Arabic: كربون  
+**karbe** *carbon (coal)* ← English:carbon, French:carbone, Spanish:carbón, Portuguese:carbono, Vietnamese:cacbon, Hindi:कार्बन, Bengali:কার্বন, Malay:karbon, Swahili:kaboni, Arabic: كربون  
 **karcof** *globe artichoke* ← Arabic:خرشوف (kharshuf), Amharic:ከርቹፍ (kärčuf), Spanish:alcachofa, Portuguese:alcachofra, Polish:karczoch  
 **kardon** *thistle* ← Spanish:Portuguese:cardo, French:chardon, English:cardoon, Japanese:カルドン (karudon)  
 **karga** *charge (burden, load, weight)* ← Spanish:Portuguese:carga, English:cargo, Malay:kargo  
@@ -895,10 +897,10 @@
 **mais** *corn (maize)* ← English:maize, Spanish:maíz, French:maïs, Russian:маи́с (maís)  
 **majenta** *magenta (fuchsia)* ← English:magenta, Spanish:magenta, Russian:маджента (madzhenta), Arabic:ماجنتي (majinati), Hindi:मैजेंटा (maijenta), Japanese:マゼンタ (mazenta), Malay:magenta  
 **makala** *article (writing)* ← Arabic:مَقَال‎ (maqāl), Turkish:makale, Swahili:makala, Persian:مقاله‎ (maqâle), Malay:makalah  
-**makan** *butter* ← Hindi:मक्खन (makkhan), Bengali:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), Marathi:माखण (mākhaṇ), Gujarati:માખણ (mākhaṇ)  
 **makas** *scissors (shears)* ← Arabic:(maqaṣ), Turkish:makas, Swahili:mkasi, Oromo:maqasii, Hausa:almakashi, Yoruba:àlùmogàjí  
 **mal** *property (belongings, possessions)* ← Arabic:Persian:Urdu: مَال‎ (māl), Hindi:माल (māl), Turkish:mal, Swahili:mali, Malay:milik  
 **malaria** *malaria* ← English:Spanish:French:Swahili:Malay:malaria, Portuguese:malária, Russian:малярия (mal′arija), Turkish:malarya, Arabic:مَلَارِيَا‎ (malāriyā), Hindi:मलेरिया (maleriyā), Japanese:マラリア (mararia)  
+**malte** *malt* ← English:French:Turkish:malt, deu:Malz, Spanish:malta, Portuguese:malte, Persian: مالت‎ (mâlt), Arabic: مَلْت‎ (malt)  
 **mamal** *mammal* ← English:mammal, Spanish:Portuguese:mamífero, French:mammifère, Turkish:memeli, Malay:mamalia  
 **mana** *meaning (signification)* ← Arabic:(maʿnā), Persian:Urdu:(ma'ni), Hindi:मअनी (maani), Swahili:maana, haw:manaʻo, English:meaning, deu:Meinung  
 **manera** *behavior (manners)* ← French:manière, English:manner, Russian:манера (manyera), Japanese:マナー (manā), Spanish:manera, Portuguese:maneira, deu:Manieren  
@@ -1096,7 +1098,7 @@
 **osmi yum** *osmium* ← English:osmium, French:osmium, Spanish:osmio, Portuguese:ósmio, Russian:осмий, Japanese:オスミウム, Korean:오스뮴, Vietnamese:osimi, Hindi:अस्मियम, Bengali:অসমিয়াম, Malay:osmium, Swahili:osmi, Arabic: ازميوم  
 **osmos** *osmosis* ← Greek:ώσμωση (ósmosi), English:Malay:osmosis, Spanish:ósmosis, Portuguese:French:osmose, Russian:осмос (osmos), Persian:تَراران (osmoz)  
 **oste** *bone* ← English:deu:osteo-, Russian:остео- (osteo-), Italian:Portuguese:osso, French:os, Hindi:अस्थि (asthi-)  
-**oxi** *oxygen* ← English:oxygen, French:oxygène, Spanish:oxígeno, Portuguese:oxigénio, Russian:кислород, Vietnamese:oxy, oxi, Hindi:ऑक्सीजन, Bengali:অক্সিজেন, Malay:oksigen, Swahili:oksijeni, Arabic: أكسجين  
+**oxe** *oxygen* ← English:oxygen, French:oxygène, Spanish:oxígeno, Portuguese:oxigénio, Russian:кислород, Vietnamese:oxy, oxi, Hindi:ऑक्सीजन, Bengali:অক্সিজেন, Malay:oksigen, Swahili:oksijeni, Arabic: أكسجين  
 **paci** *bird* ← Hindi:Marathi:पक्षी (pakṣī), Bengali:পাখী (pakhī), Tamil:பட்சி (paṭci), Telugu:(pakṣi), kh:បក្សី (baksəy), Thai:ปักษา (pak-sa)  
 **pada** *fall* ← Telugu:(paḍu), Russian:падать (padat'), Hindi: पड़ना (paṛnā)  
 **pagri** *turban* ← Hindi:Marathi:पगड़ी (pagṛī), Urdu:(pagṛī), Bengali:পাগড়ি (pagri)  
@@ -1190,7 +1192,6 @@
 **porte** *carry (bear)* ← French:porter, Spanish:Portuguese:portar, English:(trans)port, deu:-portieren, Russian:-портация (-portaciya) + Hindi:रिपोर्ट (riporṭ), Swahili:ripoti, Turkish:rapor, Japanese:レポート (repōto)  
 **porte** *port (station)* ← English:port, French:porte, Spanish:Portuguese:porto, Russian:порт (port), Hindi:पोर्ट (porṭ), Urdu:(porṭ), Bengali:পোর্ট (porṭ), Thai:พอร์ต (phot)  
 **pos** *consequence (back, follow-up)* ← English:French:post-, Spanish:pos, Portuguese:pós-, Russian:после- (posle-) + Persian: پس (pas)  
-**pospor** *phosphorus* ← English:phosphorus, French:phosphore, Spanish:fósforo, Portuguese:fósforo, Russian:фосфор, Vietnamese:photpho, Hindi:फास्फोरस, Bengali:ফসফরাস, Malay:fosfor, Swahili:posfori, Arabic: فوسفور  
 **posta** *mail* ← English:post, Portuguese:postagem, French:poste, Russian:почта (pochta), Turkish:posta, Arabic:بوسطة‎ (busṭa), Swahili:posta, Malay:pos, Persian:پست‎ (post)  
 **pote** *pot (vase, bin, jar)* ← English:French:pot, Spanish:Portuguese:pote, Malay:poci, Japanese:ポット (potto), Korean:포트 (poteu)  
 **poto** *mud (mire)* ← pcm:Kongo:Lingala:poto-poto  
@@ -1374,8 +1375,8 @@
 **sui kaboga** *calabash* ← Portuguese:abóbora-d'água, Turkish:su kabağı  
 **sui** *water* ← Mandarin:水 (shuǐ), Japanese:水 (sui), Korean:수 (su), Vietnamese:thuỷ + Turkish:su  
 **suka** *enjoy (like, be happy, be fond of; pleased, delighted, happy)* ← Hindi:सुख (sukha), Malay:suka, Telugu:సుఖము (sukhamu), Thai:สุข (suk), nan:舒合 (su-kah) + Japanese:好く (suku)  
-**sukar** *sugar* ← English:sugar, French:sucre, Spanish:azúcar, Portuguese:açúcar, Arabic: سُكَّر (sukkar), Hindi:शक्कर (śakkar), Bengali:শর্করা (śôrkôra), Malay:sakar, Swahili:sukari, Turkish:şeker, Tamil:சக்கரை (cakkarai)  
-**sulfu** *sulfur (brimstone)* ← English:sulfur, French:soufre, Spanish:azufre, Portuguese:enxofre, Swahili:sulfuri  
+**sukre** *sugar* ← English:sugar, French:sucre, Spanish:azúcar, Portuguese:açúcar, Arabic: سُكَّر (sukkar), Hindi:शक्कर (śakkar), Bengali:শর্করা (śôrkôra), Malay:sakar, Swahili:sukari, Turkish:şeker, Tamil:சக்கரை (cakkarai)  
+**sulfe** *sulfur (brimstone)* ← English:sulfur, French:soufre, Spanish:azufre, Portuguese:enxofre, Swahili:sulfuri  
 **sultan ja** *ruler* ← Arabic:سلطة (sulṭa), English:Turkish:Malay:sultan, Spanish:sultán, Russian: султан (sultan), Persian:سلطان‎ (soltân), Hindi:सुल्तान (sultān), Bengali:সুলতান (śultan), Swahili:sultani  
 **sum** *sum (total)* ← English:sum, Spanish:suma, Portuguese:soma, French:somme, deu:Summe, Russian:сумма (summa)  
 **sun** *soon* ← English:soon  
@@ -1630,13 +1631,13 @@
 **zeyil** *wart* ← Persian:زگیل (zegil), Turkish:siğil, aze:ziyil, fin:syylä  
 **zeze** *fly* ← Swahili:nzi, sot:ntsintsi, Lingala:Kongo:nzinzi, Igbo:ijiji, Yoruba:eṣinṣin + English:tsetse, French:Portuguese:tsé-tsé, Russian:цеце (tsetse), Turkish:çeçe, Mandarin:采采蝇 (cǎicǎiyíng)  
 **zi** *character (written symbol)* ← Mandarin:字 (zì), Japanese:字 (ji), Korean:자 (ja)  
-**zigzage** *zigzag* ← English:French:Spanish:zigzag, Portuguese:ziguezague, Russian:зигзаг (zigzag), Japanese:ジグザグ (jiguzagu)  
 **zikura** *ziggurat* ← Arabic:(ziqqūra), deu:Zikkurat, Russian:зиккурат (zikkurat)  
 **zina** *adultery (infidelity)* ← Arabic:(zināʾ), Malay:Turkish:zina, Swahili:zinaa, Urdu:(zinā), Persian:(zenā)  
 **zinke** *zinc* ← English:zinc, French:zinc, Spanish:cinc, Portuguese:zinco, Russian:цинк, Mandarin:锌 (xīn), Bengali:জিঙ্ক, Malay:seng, Swahili:zinki  
 **zipe** *zip up* ← English:zipper, Bengali:জিপার (jipar), Hindi:ज़िपर (zipar), Japanese:ジッパー (jippā), Korean:지퍼 (jipeo), Thai:ซิป (síp), Persian:Urdu:(zip)  
 **zira** *cumin (jeera)* ← Persian: زیره‎ (zire), Hindi:ज़ीरा (zīrā), Bengali:জিরা (zīra), Tamil:சீரகம் (sīrakam), Russian:зира (zira), Mandarin:孜然 (zīrán), Swahili:mjira  
 **zirkon yum** *zirconium* ← English:zirconium, French:zirconium, Spanish:circonio, Portuguese:zircónio, Russian:цирконий, Japanese:ジルコニウム, Korean:지르코늄, Vietnamese:ziriconi, Hindi:जर्कोनियम, Bengali:জিরকোনিয়াম, Malay:zirkonium, Swahili:zirikoni, Arabic: زيركونيوم  
+**ziza** *zigzag* ← English:French:Spanish:zigzag, Portuguese:ziguezague, Russian:зигзаг (zigzag), Japanese:ジグザグ (jiguzagu)  
 **zizi** *sizzle* ← Mandarin:zizi English:sizzle  
 **zoku** *continue (go on, keep on, carry on, proceed, still, yet)* ← Wu-Chinese:续 (zoq), Cantonese:續 (zuk6), Japanese:続 (zoku), Korean:속 (sok), Vietnamese:kế tục  
 **zombi** *zombie* ← Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)  

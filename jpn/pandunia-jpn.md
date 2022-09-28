@@ -27,6 +27,9 @@ akare - 壁蝨
 akrabe - 蠍 (天蝎宮)  
 alga fungu - 地衣類 (苔癬)  
 alga jangal - 藻場  
+alkan - アルカン  
+alken - アルケン  
+alkin - アルキン  
 alkasus - 甘草 (蕗草)  
 alo - 他の  
 alofa - 変える  
@@ -40,6 +43,8 @@ amen - 信頼する
 amenbil - 忠実  
 amen di - 正直  
 amerika yum - アメリシウム  
+amide - アミド  
+amin - アミン  
 amir lin - コマンド行  
 ancovi - アンチョビ  
 andesite - 安山岩  
@@ -211,6 +216,8 @@ buro ja - 秘書
 buro krati - 官僚制  
 buro riti - 公式 (礼法, プロトコル)  
 bus halte - バス停  
+bute - バター (牛酪)  
+butan - ブタン  
 buta - ブーツ  
 
 ## C  
@@ -274,7 +281,6 @@ dang gi - 鐘 (鈴)
 Danske - デンマークの  
 dante baluta - カシワ  
 dara tubo - 漏斗  
-gradu mute - 発展 (開発)  
 darmestadi yum - ダームスタチウム  
 darte - 土  
 data culi - データ処理  
@@ -375,6 +381,8 @@ estan - スズ
 estasi grafi - コマ  
 estibi yum - アンチモン  
 estronti yum - ストロンチウム  
+etan - エタン  
+etanol - エタノール  
 eu loga - 賛辞  
 europa baluta - ヨーロッパナラ  
 europa yum - ユウロピウム  
@@ -458,6 +466,8 @@ fei muxu - こうもり (飛鼠)
 fen - 部分  
 fen di - 部分的  
 fen gata - 分析 (解析)  
+fenil - フェニル基  
+fenol - フェノール (石炭酸)  
 fermi yum - フェルミウム  
 fero - 鉄  
 fete - する (事実)  
@@ -475,11 +485,14 @@ fizika gi - ハードウェア
 flece - 矢 (矢印)  
 flerof yum - フレロビウム  
 flur - フッ素  
+fluride - 弗化物  
 fong - 蜂  
 fong nide - 蜂の巣  
 foni - フォニオ  
 • dusforma - 醜くする  
 • konforma - 即する  
+fosfe - リン  
+fosfate - 燐酸塩  
 foto - 光  
 foto frike - 光沢  
 foto grafi - 写真  
@@ -488,6 +501,7 @@ foto so - 光子
 france yum - フランシウム  
 frem - 額  
 frike - 擦る (擦り傷する)  
+frutos - 果糖 (フルクトース)  
 frute - 果実 (フルーツ)  
 frute bagi - 果樹園  
 fuku - 服  
@@ -562,11 +576,16 @@ glu bande - 絆創膏
 glu di - 粘い  
 glu grafi - ステッカー  
 glu poto - 粘土  
+glukerol - グリセロール  
+glukin - グリシン  
+glukogen - 糖原 (グリコーゲン)  
+glukos - 葡萄糖 (グルコース)  
 gol - 目的 (行き先, ゴール)  
 gola longta - 周囲長  
 gola seku - 丸石 (玉石, 栗石)  
 gomu - ゴム (消しゴム)  
 gorila - ゴリラ  
+gradu mute - 発展 (開発)  
 grafi culi - 画像処理  
 grafi fineta - 解像度  
 grafi karte - グラフィックカード  
@@ -634,8 +653,10 @@ hevan agri suta - 畜産
 hevan bagi - 動物園  
 hevan logi - 動物学  
 hevan logi di - 動物学の  
+hidre - 水素  
+hidrate - 水和物  
+hidre peroxide - 過酸化水素  
 hidrargente - 水銀  
-hidro - 水素  
 hindi raja - ラージャー  
 Hindi rivo - インダス川  
 hindi yum - インジウム  
@@ -784,9 +805,12 @@ kar lexi - 動詞
 karxe - 労働  
 karate - 空手  
 karateja - 空手家  
-karbon - 炭素  
-karbon kalam - 鉛筆  
-karbon sui - 炭水化物  
+karbe - 炭素  
+karbohidrate - 炭水化物  
+karbe kalam - 鉛筆  
+karbol - 石炭酸  
+karboxil - カルボキシル基  
+karbe sui - 炭水化物  
 karcof - アーティチョーク  
 kardon - アザミ  
 kardon karcof - カルドン  
@@ -815,6 +839,7 @@ Keme - 古代エジプト
 ken - 知る  
 kentaur - 人馬 (ケンタウロス)  
 kerne - 核 (核心)  
+keton - ケトン  
 kexa - 毛  
 kexa hin - 無毛  
 kilo - 千 (１０００)  
@@ -977,6 +1002,8 @@ majang - 麻雀
 majenta - マゼンタ (紅紫色)  
 makan hua - タンポポ  
 mal nomi - 経済学  
+malte - 麦芽  
+maltos - 麦芽糖 (マルトース)  
 mang - 忙しい  
 mangan - マンガン  
 manioka - キャッサバ  
@@ -1039,6 +1066,9 @@ mes nelu - ４月
 mes tisa - ９月  
 mes tri - ３月  
 mes un - １月  
+metan - メタン  
+metanol - メタノール  
+metil - メチル  
 metal - 金属  
 metal bede - 金敷き (鉄床)  
 metal lin - 線 (針金)  
@@ -1147,6 +1177,7 @@ Nipon - 日本
 nipon di - 日本の (日本語, 日本人)  
 nipon yum - ニホニウム  
 nitre - 窒素  
+nitril - ニトリル  
 nix - 壁龕  
 no - いいえ  
 nobel yum - ノーベリウム  
@@ -1176,7 +1207,7 @@ osidian - 黒曜石
 osmi yum - オスミウム  
 oste jama - 骨格  
 oste xalke - ぜんご  
-oxi - 酸素  
+oxe - 酸素  
 
 ## P  
 
@@ -1227,6 +1258,7 @@ pende sor - 南京錠
 pente - 絵の具 (ペンキ)  
 pente broxa - 絵筆  
 pente ja - 画家 (絵かき)  
+peroxide - 過酸化物  
 pera - 梨  
 pesa - 金  
 petra nefte - 石油  
@@ -1259,7 +1291,6 @@ porei - リーキ
 • reporter - 記者  
 pos - 後 (後ろ)  
 pos den - 明日  
-pospor - リン  
 pote ja - 陶工  
 pote suta - 陶芸  
 poto - 泥  
@@ -1449,11 +1480,13 @@ sui kaboga - ヒョウタン (ひさご)
 sui yau - 喉の渇き  
 Suise - スイス  
 suka - 幸せな  
-sukar - 砂糖  
-sukar bete - テンサイ (サトウダイコン)  
-sukar gana - サトウキビ  
-sukar oranje - オレンジ (アマダイダイ)  
-sulfu - 硫黄  
+sukre - 砂糖  
+sukre bete - テンサイ (サトウダイコン)  
+sukre gana - サトウキビ  
+sukre oranje - オレンジ (アマダイダイ)  
+sukros - 蔗糖 (スクロース)  
+sulfe - 硫黄  
+sulfate - 硫酸  
 supa - スープ (汁)  
 supa camaca - さじ (テーブルスプーン)  
 supra - 上  

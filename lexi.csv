@@ -74,9 +74,13 @@ Alaska|Alaska|dexa|||Alaska||Alaska|Alaska||||||||||||||||||Alaska|Alaska
 alga|alga|||eng:spa:por:pol:may:alga, fra:algue, deu:Alge, tur:alg, fas:(âlg)|alga||algue|alga|alga|водоросли||शैवाल|||lumut (alga)||yosun|||藻类|||||algo|levä|alga (wodorost)
 alga.fungu|alga fungu|bio|||lichen||lichen|liquen||лишай|||||kulampair (liken)|||||地衣||地衣類 (苔癬)||||jäkälä|porost
 alga.jangal|alga jangal||||kelp forest||forêt de kelp|bosque de algas|floresta de algas|лес водорослей||||||||||海藻林||藻場||||leväkasvusto|las wodorostów
+alk.an|alkan|kim|||alkane|Alkan|alcane|alcano|alcano|алкан|||||||alkan|||烷烃|烷烴|アルカン|알칸|||alkaani|
+alk.en|alken|kim|||alkene|Alken|alcène|alqueno|alceno|алкен|||||||alken|||烯烃|烯烴|アルケン|알켄|||alkeeni|
+alk.il|alkil|kim|||alkyl|Alkyl|alkyle|alquilo|alquila|алкил||||||||||||||||alkyyli|
+alk.in|alkin|kim|||alkyne|Alkin|alcyne|alquino|alcino|алкин|||||||alkin|||炔烃|炔烴|アルキン|알킨|||alkyyni|
+alk.ol|alkol|kim||fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul), rus:алкоголь (alkohol), pol:alkohol, swa:alkoholi|alcohol||alcool|alcohol|álcool|алкоголь||मद्यसार|||alkohol (arak)||alkol|||酒|||||alkoholo|alkoholi|alkohol
+alk.ol.di|alkol di||||alcoholic||alcoolique|alcohólico|||||||||||||||||alkohola|alkoholinen|alkoholowy
 alkasus|alkasus|bio|Glycyrrhiza|ara: سُوس (sus), spa:alcazus, por:alcaçuz, swa:susi|licorice||réglisse|regaliz (alcazuz, orozuz)|alcaçuz (regaliz)|солодка (лакрица)||यष्टिमधु (मुलहठी)|মদ্যপান||akar manis|سُوس|meyan|susi||甘草 (国老)||甘草 (蕗草)|감초|cam thảo|lakrico|lakritsi|lukrecja
-alkol|alkol|||fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul), rus:алкоголь (alkohol), pol:alkohol, swa:alkoholi|alcohol||alcool|alcohol|álcool|алкоголь||मद्यसार|||alkohol (arak)||alkol|||酒|||||alkoholo|alkoholi|alkohol
-alkol.di|alkol di||||alcoholic||alcoolique|alcohólico|||||||||||||||||alkohola|alkoholinen|alkoholowy
 almari|almari|||spa:armario, por:armário, hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, swa:almari|cupboard (closet, cabinet, wardrobe)||placard|armario|armário|шкаф||अलमारी|আলমারি||lemari (almari)||dolap|||碗碟橱|||||ŝranko|kaappi|kredens (szafa, szafka)
 alo|alo|||ell:άλλος (állos), ltn:alius, eng:fra:allo-, por:spa:alo-, rus: алло- (allo-)|other||autre|otro|outro|другой (второй)||अन्य|||lainnya||diğer|||另一||他の|||alia|muu (toinen)|inny
 alo.di|alo di||||otherwise (else)||autrement|sino|||||||||||||||||alie|muuten (toisin)|w innym wypadku (inaczej)
@@ -92,7 +96,7 @@ alo.sifa.di|alo sifa di||||different||différent|diferente||||||||||||||||||eril
 alpaka|alpaka|bio|||alpaca|||alpaca||альпака||अलपाका|||alpaka||alpaka|||无峰驼||アルパカ|알파카|||alpakka|
 alumin|alumin|yum 013|Al|eng:aluminium, fra:aluminium, spa:aluminio, por:alumínio, rus:алюминий, zho:铝 (lǚ), jpn:アルミニウム, kor:알루미늄, vie:nhốm, hin:एल्युमिनियम, ben:অ্যালুমিনিয়াম, may:aluminium, swa:alumini, ara: الومينيوم|aluminium||aluminium|aluminio|alumínio|алюминий||एल्युमिनियम|অ্যালুমিনিয়াম||aluminium|الومينيوم|alüminyum|alumini||铝||アルミニウム|알루미늄|nhốm|aluminio|alumiini|glin (aluminium)
 alumin.mate|alumin mate||||alum||alun|alumbre||||||||||||||||||aluna|
-alumin.oxide|alumin oxide||||alumina (aluminum oxide)||alumine (oxyde d'aluminium)|alúmina||||||||||||||||||alumiinioksidi|
+alumin.ox.id|alumin oxide||||alumina (aluminum oxide)||alumine (oxyde d'aluminium)|alúmina||||||||||||||||||alumiinioksidi|
 ama|ama|funsi||ara: أما‎ (ʔamma), tur:ama, fas:urd:اما‎ (ammâ), hau:amma, yor:àmọ́|but (rather)||mais|pero (sino)|mas|а (но)||लेकिन (मगर)|কিন্তু||tetapi|لٰكِن‎ (أما‎)|ama (fakat)|lakini (bali)||但是 (不过)|||||sed|mutta|ale (lecz)
 ama|ama|||spa:por:amar, fra:aimer|love (liking, affection)|Liebe|amour (affection)|amor|amor|любовь||मुहब्बत (अनुराग, पसंद)|||cinta (kasih, asmara)||sevda (aşk)|penzi (ashiki, upendo)||爱||愛|||amo|rakkaus (tykkääminen)|miłość (afekt)
 ama-an|• anama||||dislike (loathe)||exécrer|detestar|||||||||||||||||malami|inhota|
@@ -108,6 +112,8 @@ Amerika|Amerika|||eng:America, spa:por:América, rus:Америка (Amerika), t
 Amerika.di|Amerika di||||American||américain|americano|||||||||||||||||amerika|amerikkalainen|amerykański
 Amerika.Samoa|Amerika Samoa|dexa|AS||American Samoa||Samoa américaines|Samoa Americana||||||||||||||||||Amerikan Samoa|Amerykańska Samoa
 amerika.yum|amerika yum|yum 095|Am|eng:americium, fra:américium, spa:americio, por:amerício, rus:америций, zho:镅 (méi), jpn:アメリシウム, kor:아메리슘, vie:amerixi, hin:अमेरिशियम, ben:অ্যামেরিসিয়াম, may:amerisium, swa:ameriki, ara: أمريكيوم|americium||américium|americio|amerício|америций||अमेरिशियम|অ্যামেরিসিয়াম||amerisium|أمريكيوم|amerikyum|ameriki||镅||アメリシウム|아메리슘|amerixi|americio|amerikium|ameryk
+amid|amide|kim|||amide|Amid|amide|amida|amida|амид||||||||||酰胺||アミド||||amidi|
+amin|amin|kim|||amine|Amin|amine|amina|amina|||||||||||胺|胺|アミン|아민|||amiini|
 amir|amir|||ara: أَمْر‎ (ʾamr), fas: امر‎ (amr), tur:emir, swa:amiri, hau:umarni + eng:admiral, fra:amiral, spa:por:emir rus:эмир (emir)|order (command)|||orden (mando, comando)|||||||||emir|amri|||||||ordono|käsky (komento)|rozkaz, komenda
 amir.dexa|amir dexa||||emirate||émirat|emirato||||||||||||||||||emiirikunta|emirat
 amir.haki|amir haki||||authority (power to give orders)|||||||||||||||||||||käskyvalta|
@@ -564,6 +570,9 @@ buro.riti|buro riti||||etiquette (protocol, procedure)||protocole|etiqueta (prot
 bus|bus|||deu:fra:eng:spa:bus, rus:автобус (avtobus), hin:बस (bas), urd:(bas), jpn:バス (basu), kor:버스 (beoseu), fas:(otobus), tur:otobüs, swa:basi, zho:巴士 (bāshì)|bus|||bus (autobús)|||||||||||||||||buso|linja-auto (bussi)|autobus, autokar
 bus.halte|bus halte||||bus stop||arrêt de bus|parada de autobús|parada de ônibus|автобусная остановка|||||halte bis (perhentian bas)|||||汽车站||バス停|정류장|trạm xe buýt|bushaltejo|bussipysäkki (linja-autopysäkki)|przystanek autobusowy
 buste|buste|||fra:buste, eng:bust, spa:por:busto, rus:бюст (byust), deu:Büste|bust (bosom)|||pecho (busto)||||||||||||||||||povi|biust
+but|bute|||deu:Butter, eng:butter, fra:beurre, jpn:バター (batā), kor:버터 (beoteo), vie:bơ|butter|Butter|beurre|mantequilla|manteiga|масло (сливочное масло)||मक्खन|মাখন|வெண்ணெய்|mentega|زُبْدَة‎|tereyağı|siagi||黄油|牛油|バター (牛酪)|버터|bơ|butero|voi|masło
+but.an|butan|kim|||butane|Butan|butane|butano|butano|бутан||||||||||丁烷||ブタン|부탄|||butaani|
+but.il|butil|kim|C4H9||butyl|Butyl||butilo|butil|||||||||||||||||butyyli|
 buta|buta|||eng:boot, fra:botte, spa:por:bota, rus:ботинок (botinok), pol:may:but, fas: بوت‎ (but), jpn:ブーツ (būtsu), swa:buti|boot||botte|bota|bota|ботинок||||||||||||ブーツ||||saapas (buutsi)|but
 buton|buton|||eng:button, spa:botón, por:botão, fra:bouton, hin:बटन (baṭan), ben:বোতাম (botam), jpn:ボタン (botan), kor:버튼 (beoteun)|key (push-button, switch)||bouton|tecla (botón)|botão|пуговица||बटन|||kancing||düğme|||扣子|||||klavo (butono)|nappi (näppäin, kytkin, nappula)|klawisz, przycisk, przełącznik, guzik
 buton.bano|buton bano||||keyboard|||teclado|||||||||||||||||klavaro|näppäimistö|klawiatura
@@ -969,6 +978,9 @@ estronti.yum|estronti yum|yum 038|Sr|eng:strontium, fra:strontium, spa:strontium
 estude|estude||||study (work made in order to practise or demonstrate)||étude|||этюд||||||||||||||||tutkielma|
 estude.ja|estude ja||||student||étudiant|estudiante|estudante|студент||विद्यार्थी (स्टूडेंट)|ছাত্র (তালিব)||pelajar (murid)||öğrenci|mwanafunzi|||||||studento|opiskelija|student
 estude.kan|estudekan||||studio|||estudio||||||||||||||||||ateljee (studio)|studio (pracownia)
+et.an|etan|kim|C2H6||ethane|Ethan|éthane|etano|etano|этан|||||||etan|||乙烷||エタン|에탄|||etaani|
+et.an.ol|etanol|kim|CH3-CH2-OH||ethanol|Ethanol|éthanol|etanol|etanol|этанол|||||||etanol|||乙醇|乙醇|エタノール|에타놀|||etanoli|
+et.il|etil|kim|C2H5||ethyl|Ethyl|éthyle|etilo|etila|этил|||||||etil|||乙基|乙基|||||etyyli|
 Etiopia|Etiopia|dexa|ET||Ethiopia|||Etiopía|||||||||||||||||Etiopio|Etiopia|Etiopia
 eu|eu|||eng:fra:spa:por:eu-|beneficial (good)|||beneficioso (bueno)||||||||||||||||||hyvä (eettisesti hyvä)|korzystny (dobry)
 eu.anjil|eu anjil||||gospel (divine message)||évangile|evangelio|evangelho|евангелие||सुसमाचार|||injil||incil|||福音|||||evangelio|evankeliumi(hyvä sana)|ewangelia
@@ -1310,6 +1322,8 @@ fen|fen|||zho:分 (fèn), wuu:分 (fén), yue:分 (fan), vie:phần, tha:ปั�
 fen.da|fen da||||contribute|||contribuir||||||||||||||||||osallistua (tehdä osansa)|wnieć wkład (przyczynić się)
 fen.di|fen di||||partial|||parcial||||||||||||||部分的||||osittainen|
 fen.gata|fen gata||||analysis (dissection)||analyse|análisis (disección)|análise|анализ||विश्लेषण|||||analiz|||分析||分析 (解析)|||analizo|analyysi|analiza
+fen.il|fenil|kim|C6H5||phenyl|||fenilo||||||||||||苯基|苯基|フェニル基|페닐기|||fenyyli|
+fen.ol|fenol|kim|||phenol|Phenol|phénol|fenol|fenol|фенол||||||||||苯酚||フェノール (石炭酸)|페놀 (석탄산)|||fenoli|
 fermi.yum|fermi yum|yum 100|Fm|eng:fermium, fra:fermium, spa:fermio, por:férmio, rus:фермий, zho:镄 (fèi), jpn:フェルミウム, kor:페르뮴, vie:fecmi, hin:फर्मियम, ben:ফার্মিয়াম, may:fermium, swa:fermi, ara: فرميوم|fermium||fermium|fermio|férmio|фермий||फर्मियम|ফার্মিয়াম||fermium|فرميوم|fermiyum|fermi||镄||フェルミウム|페르뮴|fecmi|fermio|fermium|ferm
 fero|fero|yum 026|Fe|spa:hierro, por:ferro, fra:fer, may:ferum, swa:feri|iron||fer|hierro|ferro|железо||लोहा|আয়রন||besi (ferum)|حديد|demir|chuma (feri)||铁||鉄|철|sắt|fero|rauta|żelazo
 festa|festa|||por:festa, spa:fiesta, fra:fête, deu:Fest, eng:festival, rus:фестиваль (festival'), may:pesta|party (celebration, festival)|||celebración (fiesta)|||||||pesta||||||||||festo|juhlat|przyjęcie, święto, festiwal
@@ -1364,6 +1378,7 @@ flexi-re|• reflexi||||reflect (bend back)|||||||||||||||||||||heijastaa (taitt
 flexi-re.r|• reflexir||||reflector|||||||||||||||||||||heijastin|
 flexi.bil|• flexibil||||flexible ||||||||||||||||||||||
 flur|flur|yum 009|F|eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور|fluorine||fluor|flúor|flúor|фтор||फ्लोरीन|ফ্লুরিন||fluor|فلور|fluor|florini||氟||フッ素|플루오르|flo|fluoro|fluori|fluor
+flur.id|fluride|kim|||fluoride|Fluoride|fluorure|fluoruro|fluoreto|фторид||||||||||氟化物||弗化物||||fluoridi|fluorek
 fobi|fobi|||eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi|fear (phobia)|||miedo (-fobia)|||||||||||||||||timo (fobio)|kammo (fobia)|strach, fobia
 fobi.di|fobi di||||afraid (scared)|||||||||||||||||||||pelokas|
 fobi.ja|fobi ja||||scary (frightening)||effrayant|asustador|assustador||||||||korkutucu||||||||timiga|pelottava|
@@ -1389,6 +1404,8 @@ forma-kon|• konforma||||conform (fit, mold)|||amoldarse||применятьс�
 forma-ri|• riforma||||reform||||||||||||||||||||||
 forma.so|forma so||||morpheme|||morfema||||||||||||||||||morfeemi|morfem
 forum|forum|||eng:fra:forum, spa:foro, por:fórum, rus:форум (forum), jpn:フォーラム (fōramu)|forum (public space)|||foro (espacio público)|||||||||||||||||forumo|foorumi|forum
+fosf|fosfe|yum 015|P|eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور|phosphorus||phosphore|fósforo|fósforo|фосфор||फास्फोरस|ফসফরাস||fosfor|فوسفور|fosfor|posfori||磷||リン|인|photpho|fosforo|fosfori|fosfor
+fosf.at|fosfate|kim|||phosphate||phosphate|fosfato|fosfato|фосфат||||||||||磷酸盐|磷酸鹽|燐酸塩||||fosfaatti|fosfat
 foto|foto|||ell:φωτο- (foto-), eng:fra:photo-, spa:por:foto-, rus:фото-|light (illumination)||lumière|luz (iluminación)|luz|свет||प्रकाश (रौशनी)|আলো||cahaya (nur)|نور‎|ışık|mwanga (nuru)||光||光|빛 (광)|ánh sáng|lumo|valo|światło, oświetlenie
 foto.di|foto di||||light (bright)|||claro (luminoso)|||||||||||||||||luma|valoisa|jasny, świetlny
 foto.frike|foto frike||||polish||poli|pulir (lustrar)||полировать||||||||||擦亮||光沢||||kiillottaa|polerować (szlifować)
@@ -1413,6 +1430,7 @@ France.Polinesi|France Polinesi|dexa|PF||French Polynesia||Polynésie française
 france.yum|france yum|yum 087|Fr|eng:francium, fra:francium, spa:francio, por:frâncio, rus:франций, zho:钫 (fāng), jpn:フランシウム, kor:프랑슘, vie:franxi, hin:फ्रान्सियम, ben:ফ্রান্সিয়াম, may:fransium, swa:fransi, ara: فرنسيوم|francium||francium|francio|frâncio|франций||फ्रान्सियम|ফ্রান্সিয়াম||fransium|فرنسيوم|fransiyum|fransi||钫||フランシウム|프랑슘|franxi|franciumo|frankium|frans
 frem|frem|||eng:frame, ben:ফ্রেম (phrēma), pan:ਫਰੇਮ (pharēma), mar:फ्रेम (phrēma), swa:fremu|frame||cadre|marco|moldura|рама|||||||frame|fremu||框||額|||kadro|kehys (raamit)|rama
 frike|frike|||eng:friction, spa:por:friccionar, fra:frictionner + ara:فرك (farak)|rub (scrape, scrub)|||raspar (arañar)||царапать||||||||||擦伤||擦る (擦り傷する)||||hangata|trzeć (pocierać, obetrzeć, pucować)
+frut.os|frutos|kim|C6H12O6||fructose|Fruchtzucker (Fruktose)|fructose|fructosa|frutose|фруктоза|||||||fruktoz (meyve şekeri)|||果糖|果糖|果糖 (フルクトース)|과당|||fruktoosi (hedelmäsokeri)|
 frute|frute|||eng:fra:fruit, spa:por:fruta, rus:фрукт (frukt), jpn:フルーツ (furūtsu)|fruit||fruit|fruta|fruta|плод (фрукт)||फल|ফল||buah||meyve|tunda||果||果実 (フルーツ)|과일|quả|frukto|hedelmä|owoc
 frute.bagi|frute bagi||||orchard||verger|huerta|pomar|фруктовый сад||फलौद्यान (বাগ)||||بُسْتَان‎|bostan|||果园||果樹園|과수원||fruktarbejo|hedelmätarha|
 fufu|fufu|||eng:spa:por:may:swa:fufu, fra:foufou, rus:фуфу (fufu), zho:富富 (fùfù), lin:kon:fufú|pulp (pap, mash, mush)||pâte (pulpe, foufou)|polpa||мякоть (пульпа, фуфу)||||||||||富富||||||tahdas|
@@ -1584,6 +1602,10 @@ glu.bande|glu bande||||adhesive bandage (band-aid, sticking plaster)||pansement 
 glu.di|glu di||||sticky (ahesive)||adhésif (collant)|pegajoso (adhesivo)|pegajoso (adesivo)|клейкий (липкий)||||||||||黏的||粘い||||tahmainen (liimamainen)|lepki (kleisty)
 glu.grafi|glu grafi||||sticker||autocollant|adhesivo|adesivo|наклейка||||||||||贴纸||ステッカー|||glumarko|tarra|
 glu.poto|glu poto||||clay||argile|arcilla (barro)|argila|глина||||||||||黏土||粘土||||savi|glina
+gluk.er.ol|glukerol|kim|||glycerol (glycerine)|Glyzerin|glycérol (glycérine|||глицерин||||||||||甘油 ( 丙三醇)|甘油|グリセロール|글리세롤|||glyseroli|
+gluk.in|glukin|kim|C2H5NO2||glycine|Glycin|glycine|glicina|glicina|||||||||||甘氨酸||グリシン||||glysiini|
+gluk.o.gen|glukogen|kim|||glycogen|Glykogen|glycogène|glucógeno|glicogênio|гликоген||||||||||糖原||糖原 (グリコーゲン)|글리코젠|||glykogeeni|
+gluk.os|glukos|kim|||glucose|Glukose (Traubenzucker)|glucose|glucosa|glicosa|глюкоза|||||||glikoz (üzüm şekeri)|||葡萄糖|葡萄糖|葡萄糖 (グルコース)|포도당|||glukoosi (rypälesokeri)|
 gluten|gluten|||eng:spa:fra:gluten, por:glúten, rus:глюте́н (gl’uten), ara:غْلُوتِين‎ (ḡlūtīn), jpn:グルテン (guruten)|gluten|||gluten|||||||||||||||||gluteno|gluteeni|gluten
 gol|gol|||por:spa:gol, eng:goal, jpn:ゴール (gōru), kor:골 (gol), hin:गोल (gola), tel:గోలు (gōlu), rus:гол (gol)|goal (destination)||but (destination)|meta (gol, destinación)|meta (gol)|цель||लक्ष्य (गोल)|||||amaç (hedef, gol)|||目的||目的 (行き先, ゴール)|||golo|maali (pelissä)|cel
 gola|gola|||hin:गोल (gol), ben:গোলক (golôk), tel:గోళము (gōḷamu) + ara: كُرَة‎ (kura), fas: کره‎ (kore), tur:küre|circle (sphere, round object)|||círculo||||||||||||||||||piiri (ympyrä)|koło, okrąg
@@ -1769,8 +1791,10 @@ hevan.logi|hevan logi||||zoology||zoologie|zoología|zoologia|зоология||
 hevan.logi.di|hevan logi di||||zoological||zoologique|zoológico|zoológico|зоологический|||||||zoolojik|||||動物学の|||zoologia|eläintieteellinen|zoologiczny
 hevan.toxi|hevan toxi||||zootoxin|||||||||||||||||||||eläinmyrkky (zootoksiini)|
 hibride|hibride|||eng:hybrid, spa:por:híbrido, fra:hybride, rus:гибрид (gibrid)|hybrid (mongrel)|||híbrido (mestizo)|||||||||||||||||miksulo|risteytys (hybridi)|hybryda; kundel
+hidr|hidre|yum 001|H|eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين|hydrogen||hydrogène|hidrógeno|hidrogéno|водород||हाइड्रोजन|হাইড্রোজেন||hidrogen|هيدروجين|hidrojen|hidrojeni||氢||水素|수소|hyđrô|hidrogeno|vety|wodór
+hidr.at|hidrate|kim|||hydrate (chemical compound)|Hydrat|hydrate|hidrato|hidrato|гидрат||||||||||水合物||水和物|수화물|||hydraatti|
+hidr.per.ox.id|hidre peroxide|kim|H2O2||hydrogen peroxide|Wasserstoffperoxid|peroxyde d'hydrogène|peróxido de hidrógeno|peróxido de hidrogênio|перекись водорода||||||||||过氧化氢|過氧化氫|過酸化水素|과산화수소|||vetyperoksidi|
 hidrargente|hidrargente|yum 080|Hg|swa:hidrajiri|mercury (quicksilver)||mercure|mercurio|mercúrio|ртуть||पारा|পারদ (মৌল)||raksa|زئبق|civa|zaibaki (hidrajiri)||汞||水銀|수은|thuỷ ngân||elohopea|rtęć
-hidro|hidro|yum 001|H|eng:fra:hydro-, spa:por:may:swa:hidro-, vie:hyđrô, ara: هيدروجين|hydrogen||hydrogène|hidrógeno|hidrogéno|водород||हाइड्रोजन|হাইড্রোজেন||hidrogen|هيدروجين|hidrojen|hidrojeni||氢||水素|수소|hyđrô|hidrogeno|vety|wodór
 hijabu|hijabu|||ara:(ḥijāb), fas:(hejâb), swa:hijabu, hau:hijabi, hin:हिजाब (hijāb), ben:হিজাব (hijab), eng:por:hijab, fra:hidjab, spa:hiyab, rus:хиджаб (xidžab)|veil (cover, screen)||voile|velo|véu|вуаль||||||حِجَاب|hijabu (veli, shela)|||面纱||||||verho (huntu, peite)|welon (woalka)
 hima|hima|||hin:हिमपात (himpāt), tha:หิมะ (hima), tel:(himamu)|snow||neige|nieve|neve||||||||||||||||neĝo|lumi|śnieg
 hima.duna|hima duna||||snow drift|||||||||||||||||||||lumikinos|
@@ -2119,11 +2143,15 @@ karaoke|karaoke||||karaoke|||karaoke||||||||||||||||||karaoke|karaoke
 karate|karate||||karate||karaté|karate|caratê|каратэ||कराटे|কারাতে||karate||karate|karate||空手道||空手|가라데 (공수도)||karateo|karate|karate
 karate.ja|karateja||||karateka (practitioner of karate)||karatéka|||каратист (каратэка)||||||||||||空手家||||karateka (karaten harrastaja)|
 karavi|karavi|bio|Carum carvi|ara:(karāwiya), eng:caraway, fra:carvi, spa:alcaravea, por:alcaravia|caraway|||carvis (alcaravea)|alcaravia (cariz)||||||||||||||||karvio|kumina|kminek
+karb|karbe|yum 006|C|eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون|carbon (coal)||carbone|carbón|carbono|углерод||कार्बन|কার্বন||karbon|كربون|karbon|kaboni||碳||炭素|탄소|cacbon|karbono|hiili|węgiel
+karb.du.ox.id|karbe duoxide||||carbon dioxide||dioxyde de carbone|dióxido de carbono|dióxido de carbono|двуокись углерода||प्रांगार द्विजारेय||||||||二氧化碳|||||karbona dioksido|hiilidioksidi|dwutlenek węgla
+karb.hidr.at|karbohidrate|kim|||carbohydrate|Kohlenhydrat|glucide|carbohidrato|carboidrato|углевод||||||||||碳水化合物||炭水化物|탄수화물|||hiilihydraatti|
+karb.id|karbide|kim|||carbide|||carburo|||||||||karpit|||||||||karbidi|
+karb.kalam|karbe kalam||||pencil||crayon|lápiz|lápis|карандаш||अंकनी (पेंसिल)|অঙ্কনী (পেনসিল)||pensil||kurşun kalem|penseli||铅笔||鉛筆|연필|bút chì|krajono|lyijykynä|
+karb.ol|karbol|kim|||carbole (carbolic acid)|||||карбол||||||||||||石炭酸|||||
+karb.ox.il|karboxil|kim|||carboxyle|||carboxilo|carboxila|||||||||||羧基|羧基|カルボキシル基|카르복실기|||karboksyyli|
+karb.sui|karbe sui||||carbohydrate (saccharide)|||carbohidrato||углевод||||||||||||炭水化物|||||
 karbau|karbau|bio|Bubalus bubalis|spa:carabao, may:kerbau, jav:kebo, khm:ក្របី (krɑbəy)|water buffalo|||búbalo (arni)||||||||||||||||||vesipuhveli|bawół domowy
-karbon|karbon|yum 006|C|eng:carbon, fra:carbone, spa:carbón, por:carbono, vie:cacbon, hin:कार्बन, ben:কার্বন, may:karbon, swa:kaboni, ara: كربون|carbon (coal)||carbone|carbón|carbono|углерод||कार्बन|কার্বন||karbon|كربون|karbon|kaboni||碳||炭素|탄소|cacbon|karbono|hiili|węgiel
-karbon.du.oxide|karbon duoxide||||carbon dioxide||dioxyde de carbone|dióxido de carbono|dióxido de carbono|двуокись углерода||प्रांगार द्विजारेय||||||||二氧化碳|||||karbona dioksido|hiilidioksidi|dwutlenek węgla
-karbon.kalam|karbon kalam||||pencil||crayon|lápiz|lápis|карандаш||अंकनी (पेंसिल)|অঙ্কনী (পেনসিল)||pensil||kurşun kalem|penseli||铅笔||鉛筆|연필|bút chì|krajono|lyijykynä|
-karbon.sui|karbon sui||||carbohydrate (saccharide)|||carbohidrato||углевод||||||||||||炭水化物|||||
 karcof|karcof|bio|Cynara cardunculus var. scolymus|ara:خرشوف (kharshuf), amh:ከርቹፍ (kärčuf), spa:alcachofa, por:alcachofra, pol:karczoch|globe artichoke||artichaut|alcachofera|alcachofra|артишок посевной||||||||||菜蓟||アーティチョーク|||||karczoch zwyczajny
 kardon|kardon|bio||spa:por:cardo, fra:chardon, eng:cardoon, jpn:カルドン (karudon)|thistle||chardon|cardo|cardo|расторопша||||||||||蓟||アザミ|||||oset
 kardon.karcof|kardon karcof|bio|Cyara cardunculus||artichoke thistle (cardoon)||cardon|||артишок испанский (кардон)||||||||||刺苞菜蓟||カルドン|||||karczoch hiszpański
@@ -2188,6 +2216,7 @@ kerne.fizika|kerne fizika||||nuclear physics|||física nuclear|||||||||||||||||k
 kerne.unta|kerne unta||||nuclear fusion|||fusión nuclear||||||||||||||||||ydinfuusio|fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)
 kerne.vuki|kerne vuki|||eng:nucleus, spa:por:núcleo, may:nuklir|nuclear weapon (nuke)||arme nucléaire|arma nuclear|arma nuclear|ядерное оружие|||||||||||||||kernarmilo|ydinase|broń nuklearna
 kerubi|kerubi|||heb:כְּרוּב‎ (kerúv), eng:cherub, spa:querubín, por:querubim, fra:chérubin, rus:херувим (heruvim), swa:kerubi, may:kerub, zho:基路伯 (jīlùbó)|cherub|||querubín||||||||||||||||||kerubi|cherubin
+ket.on|keton|kim|||ketone|Keton|cétone|cetona|cetona|кетон||||||||||酮|酮|ケトン|케톤|||ketoni|
 ketel|ketel|||eng:kettle, rus:котёл (kot’ol), hin:केतली (ketlī), ben:কেতলি (ketli), may:ketel|kettle|||hervidor (tetera)||||||||||||||||||kattila|czajnik
 kexa|kexa|||jpn:毛 (ke), hin:केश (keś), urd:(keś), pnb:ਕੇਸ਼ (keś), tel:(kēśamu), kan:(kēśa)|hair|||pelo||||||||||||||毛|||haro|hius (karva, tukka, hiukset)|włos
 kexa.bande|kexa bande||||hairband (headband)|||cinta (cinta para el pelo)||||||||||||||||||hiuspanta|opaska do włosów
@@ -2572,7 +2601,6 @@ majang|majang||||mahjong||mah-jong|mahjong|mahjong|маджонг|||||mahjung|||
 majenta|majenta|||eng:magenta, spa:magenta, rus:маджента (madzhenta), ara:ماجنتي (majinati), hin:मैजेंटा (maijenta), jpn:マゼンタ (mazenta), may:magenta|magenta (fuchsia)|||magenta (fucsia)||маджента (фуксия)||||||||||||マゼンタ (紅紫色)|||||magenta
 Makah|Makah||||Mecca|||||||||||مكَة|||||||||||Mekka
 makala|makala|||ara:مَقَال‎ (maqāl), tur:makale, swa:makala, fas:مقاله‎ (maqâle), may:makalah|article (writing)|||artículo (texto)||||||||||||||||||artikkeli (kirjoitus)|artykuł, tekst
-makan|makan|||hin:मक्खन (makkhan), ben:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), mar:माखण (mākhaṇ), guj:માખણ (mākhaṇ)|butter|||mantequilla||||मक्खन|মাখন||||||||||||butero|voi|masło
 makan.hua|makan hua|bio|Taraxacum officinale||dandelion||dandélion|dientes de león (panaderos)|dente-de-leão (taráxaco)|одуванчик||||||||||蒲公英||タンポポ|||||mlecz
 makas|makas|||ara:(maqaṣ), tur:makas, swa:mkasi, orm:maqasii, hau:almakashi, yor:àlùmogàjí|scissors (shears)|||tijera|||||||||||||||||tondilo|sakset|nożyce, nożyczki
 Makau|Makau|dexa|MO||Macao|||Macao||||||||||||||||||Macao|Makau
@@ -2585,6 +2613,8 @@ Malavi|Malavi|dexa|MW||Malawi|||Malaui||||||||||||||||||Malawi|Malawi
 malayali|malayali|nas|||Malayali (Malayalam)|||malayali (malabar, malayalam)||||||||||||||||||malajalam (eräs intialainen kieli)|malajski
 malayu|malayu||||Malay|||malayo||||||||||||||||||malaiji|malajski
 Mali|Mali|dexa|ML||Mali|||Mali|||||||||||||||||Malio|Mali|Mali
+malt|malte|||eng:fra:tur:malt, deu:Malz, spa:malta, por:malte, fas: مالت‎ (mâlt), ara: مَلْت‎ (malt)|malt|Malz|malt|malta|malte|солод|مالت‎|||||مَلْت‎||||麦芽|麥芽|麦芽|엿기름|mạch nha||mallas|słód
+malt.os|maltos|kim|||maltose|Maltose (Malzzucker)|maltose|maltosa|maltose|мальтоза (солодовый сахар)||||||||||麦芽糖|麥芽糖|麦芽糖 (マルトース)|맥아당 (말토오스)|||maltoosi|
 Malta|Malta|dexa|MT||Malta|||Malta||||||||||||||||||Malta|Malta
 Malvinas.nesi|Malvinas nesi|dexa|FK||Falkland Islands (Malvinas)|||Islas Malvinas||||||||||||||||||Falklandin saaret|Falklandy, Malwiny
 mamal|mamal|bio|Mammalia|eng:mammal, spa:por:mamífero, fra:mammifère, tur:memeli, may:mamalia|mammal|||mamífero||||||||||||||||||nisäkäs|ssak
@@ -2731,6 +2761,10 @@ mesi.di|mesi di||||messianic|||mesiánico||||||||||||||||||messiaaninen|mesjańs
 mesi.din|mesi din||||Christianity|||cristianismo||||||||||||||||||kristinusko|chrześcijaństwo
 mesi.din.ja|mesi din ja||||Christian|||cristiano||||||||||||||||||kristitty|chrześcijanin
 mesi.gene|mesi gene||||Christmas|||Navidad|||||||||||||||||kristnasko|joulu|Boże Narodzenie
+met.an|metan|kim|CH4||methane|Methan|méthane|metano|metano|метан|||||||metan|||甲烷|甲烷|メタン|메탄|||metaani|
+met.an.ol|metanol|kim|CH3OH||methanol|Methanol|méthanol (alcool de bois)|metanol|metanol|метанол|||||||metanol|||甲醇|甲醇|メタノール||||metanoli|
+met.il|metil|kim|CH3||methyl|Methyl|méthyle|metilo|metil|метил||मेथिल||||||||甲基|甲基|メチル||||metyyli|
+met.il.amin|metilamin|kim|CH3NH2||methylamine||||||||||||||||||||||
 metal|metal|||eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)|metal|||metal||||||||||||||金属|||metalo|metalli|metal
 metal.bede|metal bede||||anvil||enclume|yunque|bigorna|наковальня||||||||||铁砧||金敷き (鉄床)|||||kowadło
 metal.lin|metal lin||||wire||fil de fer|alambre (hilo)|arame|||तार|তার||||tel|waya||线 (铁丝)||線 (針金)|철사||drato|vaijeri (metallilanka)|
@@ -2997,7 +3031,9 @@ Nipon|Nipon|dexa|JP||Japan||Japon|Japón|Japão|Япония||जापान|�
 nipon.di|nipon di||||Japanese|||japonés||||||||||||||日本の (日本語, 日本人)|||japana|japanilainen|japoński
 nipon.yum|nipon yum|yum 113|Nh|eng:fra:may:nihonium, spa:nihonio, por:nihonium, rus:нихоний, jpn:ニホニウム, kor:우눈트륨, vie:swa:nihoni|nihonium||nihonium|nihonio|nihonium|нихоний|||||nihonium|ٲنون يريوم|nihoniyum|nihoni||||ニホニウム|우눈트륨|nihoni|nihonio|nihonium|nihonium
 Nistre|Nistre||||Dniester|||Dniéster|||||||||||||||||||
-nitre|nitre|yum 007|N|eng:nitrogen, fra:azote, spa:nitrógeno, por:nitrogénio, rus:азот, vie:nitơ, hin:नाइट्रोजन, ben:নাইট্রোজেন, may:nitrogen, swa:nitrojeni, ara: نيتروجين|nitrogen||azote|nitrógeno|nitrogénio|азот||नाइट्रोजन|নাইট্রোজেন||nitrogen|نيتروجين|azot|nitrojeni||氮||窒素|질소|nitơ|nitrogeno|typpi|azot
+nitr|nitre|yum 007|N|eng:nitrogen, fra:azote, spa:nitrógeno, por:nitrogénio, rus:азот, vie:nitơ, hin:नाइट्रोजन, ben:নাইট্রোজেন, may:nitrogen, swa:nitrojeni, ara: نيتروجين|nitrogen||azote|nitrógeno|nitrogénio|азот||नाइट्रोजन|নাইট্রোজেন||nitrogen|نيتروجين|azot|nitrojeni||氮||窒素|질소|nitơ|nitrogeno|typpi|azot
+nitr.at|nitrate|kim|||nitrate|Nitrat|nitrate|nitrato|nitrato (azotato)|нитрат||||||||||硝酸鹽||||||nitraatti|
+nitr.il|nitril|kim|||nitrile|Nitril||nitrilo|nitrila|||||||||||腈|腈|ニトリル|니트릴|||nitriili|
 Niue|Niue|dexa|NU||Niue|||Niue||||||||||||||||||Niue|Niue
 niuton|niuton|unomete|N||newton (N)|||newton (N)|||||||||||||||||newtono (N)|newton (N)|niuton (N)
 nix|nix|||fra:eng:niche, por:nicho, rus:ниша (niša)|niche (recess, alcove)||niche|hornacina|nicho|ниша||||||||||壁龛||壁龕|반침|||alkovi|nisza, alkowa
@@ -3081,8 +3117,8 @@ oste|oste|bode||eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, 
 oste.jama|oste jama||||skeleton (frame)||squelette|esqueleto (armazón)|esqueleto|скелет (остов)||||||||||骨骼||骨格|||||szkielet
 oste.xalke|oste xalke||||scute||scutelle||escudo|||||||||||||ぜんご|||||łuska (blaszka, tarczka)
 Ostria|Ostria|dexa|AT||Austria|||Austria||||||||||||||||||Itävalta|Austria
-oxi|oxi|yum 008|O|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|oxygen||oxygène|oxígeno|oxigénio|кислород||ऑक्सीजन|অক্সিজেন||oksigen|أكسجين|oksijen|oksijeni||氧||酸素|산소|oxy, oxi|oksigeno|happi|tlen
-oxide|oxide||||oxide||oxyde|óxide|óxide|окись (оксид)||||||||||氧化物|||||oksido|oksidi|tlenek
+ox|oxe|yum 008|O|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|oxygen||oxygène|oxígeno|oxigénio|кислород||ऑक्सीजन|অক্সিজেন||oksigen|أكسجين|oksijen|oksijeni||氧||酸素|산소|oxy, oxi|oksigeno|happi|tlen
+ox.id|oxide||||oxide|Oxid|oxyde|óxide|óxide|окись (оксид)||||||||||氧化物|||||oksido|oksidi|tlenek
 P|P||||P||P|P|P|P||P|P||P|P|P|P||P||P|P|P|P|P|P
 paci|paci|bio|Aves|hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)|bird||oiseau|pájaro (ave)|pássaro (ave)|птица||पक्षी|পাখী||burung (manuk)|طَائِر‎|kuş|ndege||鸟 (雀)||鳥 (鳥類)|새|chim|birdo|lintu|ptak
 paci.logi|paci logi||||ornithology (birdlore)||ornithologie|ornitología|ornitologia|орнитология||पक्षीविज्ञान|পক্ষীবিজ্ঞান||ilmu burung (ornitologi)|عَلِمَ الطَائِر‎|kuş bilimi|||鸟类学||鳥類学|조류학|điểu học|ornitologio|lintutiede (ornitologia)|ornitologia
@@ -3220,6 +3256,7 @@ pente|pente|||eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (
 pente.broxa|pente broxa||||paintbrush||pinceau|pincel|pincel|кисть||||||فُرْشَاة‎ الطِلَاء‎||||画笔||絵筆|화필||peniko|pensseli (sivellin)|
 pente.ja|pente ja||||painter|||pintor||художник||||||||||||画家 (絵かき)||||maalari|malarz
 pente.tela|pente tela||||canvas||canevas (toile)|tela|tela|полотно||||||||||画布|||||kanvaso|taulukangas|
+per.ox.id|peroxide|kim|||peroxide|Peroxid|peroxyde|peróxido|peróxido|перекись (пероксид)||||||||||过氧化物|過氧化物|過酸化物||||peroksidi|
 pera|pera|bio||eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea + kor:배 (bae)|pear||poire|pera|pera|груша||नाशपाती|নাশপাতি||pir|كُمَّثْرَى‎|armut|pea||梨||梨|배 (서양배)|lê|piro|päärynä|gruszka
 perex|perex|||eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan), ben:পেরেশান (pereśan)|perished (ruined, devastated, wretched)|||||||परेशान|||||perişan|||||||||hajalla|
 perex.fa|perex fa||||perish (ruin, dishevel, devastate, desolate)||périr|perecer|perecer||||||||perişan etmek|||||||||hajottaa (hävittää, raunioittaa)|
@@ -3343,7 +3380,6 @@ pos.di|pos di||||back (posterior)||postérieur|posterior|posterior||||||||||||||
 pos.fixe|pos fixe||||suffix||suffixe|sufijo||||||||||||||||||loppuliite (jälkiliite)|przyrostek (sufiks)
 pos.poza|pos poza||||put back (postpone)|||||||||||||||||||||siirtää taakse|
 pos.zaman|pos zaman||||future time|||futuro|||||||||||||||||estonoteco|tulevaisuus|przyszłość
-pospor|pospor|yum 015|P|eng:phosphorus, fra:phosphore, spa:fósforo, por:fósforo, rus:фосфор, vie:photpho, hin:फास्फोरस, ben:ফসফরাস, may:fosfor, swa:posfori, ara: فوسفور|phosphorus||phosphore|fósforo|fósforo|фосфор||फास्फोरस|ফসফরাস||fosfor|فوسفور|fosfor|posfori||磷||リン|인|photpho|fosforo|fosfori|fosfor
 posta|posta|||eng:post, por:postagem, fra:poste, rus:почта (pochta), tur:posta, ara:بوسطة‎ (busṭa), swa:posta, may:pos, fas:پست‎ (post)|mail|||correo|||||||pos|||posta||||||||posti (postilähetys)|poczta
 posta.cape|posta cape||||postal stamp|||sello postal||||||||||||||||||postileima|znaczek pocztowy
 posta.kan|postakan||||post office|||oficina de correos|||||||||||||||||poŝtejo|postitoimisto|poczta, budynek poczty
@@ -3851,12 +3887,14 @@ sui.yau|sui yau||||thirst||soif|sed|sede|жажда||प्यास|তৃষ�
 Suise|Suise|dexa|CH||Switzerland||Suisse|Suiza|Suíça|Швейцария||स्विट्ज़रलैण्ड|সুইজারল্যান্ড||Swiss||İsviçre|Uswisi||瑞士||スイス|스위스|Thụy Sĩ|Svislando|Sveitsi|Szwajcaria
 suka|suka|||hin:सुख (sukha), may:suka, tel:సుఖము (sukhamu), tha:สุข (suk), nan:舒合 (su-kah) + jpn:好く (suku)|enjoy (like, be happy, be fond of; pleased, delighted, happy)||heureux (se plaire)|feliz (gustarse, disfrutar)|feliz|счастливый (радостный)||सुखी (ख़ुश)|খুশি||senang||mutlu|||高兴||幸せな|행복하다|mừng|feliĉa (ŝati)|tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)|wesoły (ucieszony; cieszyć się)
 suka.fa|sukafa||||please (satisfy, delight)||plaire|gustar (complacer)||||||||||||||||||ilostuttaa (tyydyttää)|cieszyć, podobać się
-sukar|sukar|||eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)|sugar||sucre|azúcar|açúcar|сахар||शक्कर|চিনি (শর্করা)||gula (sakar)|سُكَّر|şeker|sukari||糖||砂糖|설탕|đường|sukero|sokeri|cukier
-sukar.bete|sukar bete|bio|Beta vulgaris subsp. vulgaris, Altissima||sugar beet||betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла||||||||||||テンサイ (サトウダイコン)|||||burak cukrowy
-sukar.di|sukar di||||sugary (sweet)|||azucarado||||||||||||||||||sokerinen (makea)|słodki
-sukar.gana|sukar gana|bio|||sugarcane||canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||गन्ना|||tebu|||muwa||甘蔗||サトウキビ||||sokeriruoko|trzcina cukrowa
-sukar.oranje|sukar oranje|bio|Citrus × sinensis||sweet orange||orange douce|||апельсин||||||||||||オレンジ (アマダイダイ)|||||pomarańcza słodka (pomarańcza chińska)
-sulfu|sulfu|yum 016|S|eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri|sulfur (brimstone)||soufre|azufre|enxofre|сера||गन्धक|সালফার||belerang|كبريت|kükürt|kibiriti (sulfuri)||硫||硫黄|황|lưu huỳnh|sulfuro|rikki|siarka
+sukr.|sukre|||eng:sugar, fra:sucre, spa:azúcar, por:açúcar, ara: سُكَّر (sukkar), hin:शक्कर (śakkar), ben:শর্করা (śôrkôra), may:sakar, swa:sukari, tur:şeker, tam:சக்கரை (cakkarai)|sugar||sucre|azúcar|açúcar|сахар||शक्कर|চিনি (শর্করা)||gula (sakar)|سُكَّر|şeker|sukari||糖||砂糖|설탕|đường|sukero|sokeri|cukier
+sukr.bete|sukre bete|bio|Beta vulgaris subsp. vulgaris, Altissima||sugar beet||betterave à sucre (betterave sucrière)|remolacha azucarera||сахарная свёкла||||||||||||テンサイ (サトウダイコン)|||||burak cukrowy
+sukr.di|sukre di||||sugary (sweet)|||azucarado||||||||||||||||||sokerinen (makea)|słodki
+sukr.gana|sukre gana|bio|||sugarcane||canne à sucre|caña de azúcar|cana-de-açúcar|сахарный тростник||गन्ना|||tebu|||muwa||甘蔗||サトウキビ||||sokeriruoko|trzcina cukrowa
+sukr.oranje|sukre oranje|bio|Citrus × sinensis||sweet orange||orange douce|||апельсин||||||||||||オレンジ (アマダイダイ)|||||pomarańcza słodka (pomarańcza chińska)
+sukr.os|sukros|kim|||sucrose|Saccharose|saccharose|sacarosa|sacarose|сахароза|||||sukrosa||sakkaroz|||蔗糖|蔗糖|蔗糖 (スクロース)|자당||sakarozo|sakkaroosi|
+sulf|sulfe|yum 016|S|eng:sulfur, fra:soufre, spa:azufre, por:enxofre, swa:sulfuri|sulfur (brimstone)||soufre|azufre|enxofre|сера||गन्धक|সালফার||belerang|كبريت|kükürt|kibiriti (sulfuri)||硫||硫黄|황|lưu huỳnh|sulfuro|rikki|siarka
+sulf.at|sulfate|kim|||sulfate|Sulfat|sulfate|sulfato|sulfato|сульфат|||||sulfat|||||硫酸盐|硫酸鹽|硫酸||||sulfaatti|sulfat
 sultan|sultan||||power (authority, rule)|||poder (autoridad, competencia)|||||||||||||||||||siła, autorytet, władza
 sultan.dexa|sultan dexa||||sultanate|||sultanato|||||||||||||||||||
 sultan.ja|sultan ja|||ara:سلطة (sulṭa), eng:tur:may:sultan, spa:sultán, rus: султан (sultan), fas:سلطان‎ (soltân), hin:सुल्तान (sultān), ben:সুলতান (śultan), swa:sultani|ruler|||gobernante (soberano)|||||||||||||||||||władca
@@ -4336,6 +4374,7 @@ xifu|xifu|||eng:fra:sifu, rus:шифу (shifu), zho:师傅 (shīfu), yue:師傅 
 xigu|xigu|||zho:事故 (shìgù), yue:事故 (si6gu3), jpn:事故 (jiko), kor:사고 (sago), vie:sự cố + ara: شِقْوَة (šiqwa)|accident (mishap)|||||||दुर्घटना (हादसा)|দূর্ঘটনা||kecelakaan (kemalangan)|مُصِيبَة‎ (شِقْوَة)|kaza|ajali||事故||事故|사고|sự cố (tai nạn)|akcidento|vahinko (onnettomuus)|wypadek
 xikaya|xikaya|||ara: شِكَايَة‎ (šikāya), hin:शिकायत (śikāyat), fas: شکایت‎ (šekâyat), tur:şikayet + fra:chicaya|complain (lament)||plainte (lamentation)|queja (lamento)|queixa (lamento, reclamação)|жалоба||शिकायत|অভিযোগ|||شِكَايَة‎|şikayet|lalamia||怨言||不平 (不満)|불평 (불만)|phàn nàn|plendo|valitus (reklamaatio)|
 xike|xike|||eng:fra:spa:chic, por:chique, rus:шикарный (shikarnyy), tur:şık, fas:شیک‎  (šik), jpn:シック (shikku)|elegant (chic)|||elegante (chic)||||||||||||||||||elegantti|elegancki, szykowny
+xil.os|xilos|kim|||xylose (wood sugar)|Xylose|xylose|xilosa|xilose|ксилоза||||||||||||||||ksyloosi (puusokeri)|
 xim|xim|||zho:心 (xīn), yue:心 (sam1), hak:心 (sîm),  jpn:心 (shin), kor: 심 (shim), vie:tim|heart|||corazón||||||||||||心||心|||koro|sydän|serce
 xindau.din|xindau din|||jpn:神道 (shintō), kor:신도 (sindo), zho:神道 (shéndào)|Shintoism|||sintoísmo||||||||||||||||||sintolaisuus|shintoizm, sintoizm
 xipi|xipi|||zho:濕 (shī), yue:濕 (sap1), wuu:濕 (seq4), jpn:濕 (shitsu), kor:습 (seup)|wet (damp, moist)||mouillé|mojado|molhado|||गीला (नम)||||||||湿||湿っぽい||||märkä (kostea)|mokry (wilgotny)
@@ -4481,7 +4520,7 @@ zeze|zeze||Diptera|swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣin�
 zi|zi|||zho:字 (zì), jpn:字 (ji), kor:자 (ja)|character (written symbol)||caractère|carácter|caractere|буква (символ, иероглиф)||||||||||字||字|자|chữ||kirjoitusmerkki|
 zi.forma|zi forma||||font|||fuenta||шрифт||||||||||||フォント (字体)|||||
 zi.seri|zi seri||||alphabet||alphabet|alfabeto||алфавит||||||||||字母表|||||alfabeto|aakkoset (ABC)|alfabet, abecadło
-zigzage|zigzage|||eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)|zigzag|||zigzag||||||||||||||||||siksakki|zygzag
+ziza|ziza|||eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)|zigzag|||zigzag||||||||||||||||||siksakki|zygzag
 zikura|zikura|||ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|ziggurat|||zigurat||||||||||||||||||zikkurat|ziggurat
 Zimbabue|Zimbabue|dexa|ZW||Zimbabwe|||Zimbabue||Зимбабве||||||||||||||||Zimbabwe|Zimbabwe
 zina|zina|||ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|adultery (infidelity)|||adulterio|||||||||||||||||malfideleco|haureus (uskottomuus)|zdrada małżeńska, cudzołóstwo

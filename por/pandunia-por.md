@@ -36,8 +36,12 @@ akare - carrapato (ácaros)
 akrabe - escorpião (lacrau)  
 alga - alga  
 alga jangal - floresta de algas  
-alkasus - alcaçuz (regaliz)  
+alkan - alcano  
+alken - alceno  
+alkil - alquila  
+alkin - alcino  
 alkol - álcool  
+alkasus - alcaçuz (regaliz)  
 almari - armário  
 alo - outro  
 alofa - alterar  
@@ -51,6 +55,8 @@ ama jen - querido
 amen - confiar (contar com)  
 amen di - honesto (sincero)  
 amerika yum - amerício  
+amide - amida  
+amin - amina  
 ancovi - anchova  
 andesite - andesito  
 angar - âncora  
@@ -238,6 +244,9 @@ buro - escritório (birô)
 buro krati - burocracia  
 buro riti - protocolo  
 bus halte - parada de ônibus  
+bute - manteiga  
+butan - butano  
+butil - butil  
 buta - bota  
 buton - botão  
 
@@ -299,7 +308,6 @@ danse - baile (danza)
 Danske - danês  
 dante hin - desdentado  
 dara tubo - funil  
-gradu mute - desenvolvimento  
 darmestadi yum - darmstádio  
 data - dados  
 data banke - banco de dados  
@@ -385,6 +393,9 @@ estan - estanho
 estibi yum - antimónio  
 estronti yum - estrôncio  
 estude ja - estudante  
+etan - etano  
+etanol - etanol  
+etil - etila  
 eu anjil - evangelho  
 eu loga - elogio  
 europa baluta - carvalho-roble  
@@ -465,6 +476,7 @@ fatura - conta (fatura)
 fei - voo  
 fen - parte  
 fen gata - análise  
+fenol - fenol  
 fermi yum - férmio  
 fero - ferro  
 fete - fazer (fato, facto)  
@@ -481,11 +493,14 @@ fito yam sim ja - vegetariano
 flece - flecha (seta)  
 flerof yum - fleróvio  
 flur - flúor  
+fluride - fluoreto  
 fobi ja - assustador  
 fong - abelha ou vespa  
 fonte kalam - caneta de tinta permanente  
 fora - furar (perfurar)  
 • dusforma - desfigurar  
+fosfe - fósforo  
+fosfate - fosfato  
 foto - luz  
 foto grafi - foto (fotografia)  
 foto grafi suta - fotografia  
@@ -496,6 +511,7 @@ foto so - fóton (fotão)
 france krepe - crepe  
 france yum - frâncio  
 frem - moldura  
+frutos - frutose  
 frute - fruta  
 frute bagi - pomar  
 fuku - roupa (vestidura)  
@@ -560,9 +576,13 @@ glu bande - penso (band-aid)
 glu di - pegajoso (adesivo)  
 glu grafi - adesivo  
 glu poto - argila  
+glukin - glicina  
+glukogen - glicogênio  
+glukos - glicosa  
 gol - meta (gol)  
 gorila - gorila  
 goton - algodão  
+gradu mute - desenvolvimento  
 grafi culi - processamento de imagem  
 grafi kata - quadrinhos (banda desenhada)  
 granite - granito  
@@ -630,8 +650,10 @@ hevan bagi - zoológico
 hevan kata - fábula  
 hevan logi - zoologia  
 hevan logi di - zoológico  
+hidre - hidrogéno  
+hidrate - hidrato  
+hidre peroxide - peróxido de hidrogênio  
 hidrargente - mercúrio  
-hidro - hidrogéno  
 hijabu - véu  
 hima - neve  
 hin - sem  
@@ -779,9 +801,11 @@ kar lexi - verbo
 karxe - trabalho  
 karate - caratê  
 karavi - alcaravia (cariz)  
-karbon - carbono  
-karbon duoxide - dióxido de carbono  
-karbon kalam - lápis  
+karbe - carbono  
+karbe duoxide - dióxido de carbono  
+karbohidrate - carboidrato  
+karbe kalam - lápis  
+karboxil - carboxila  
 karcof - alcachofra  
 kardon - cardo  
 karga - carga (peso)  
@@ -811,6 +835,7 @@ kentaur - centauro
 kentaur hua - centáurea  
 kerne - núcleo (cerne)  
 kerne vuki - arma nuclear  
+keton - cetona  
 kexa broxa - escova de cabelo  
 kexa hin - despelado  
 ki - que  
@@ -979,6 +1004,8 @@ mahala - quarteirão
 majang - mahjong  
 makan hua - dente-de-leão (taráxaco)  
 mal nomi - economia  
+malte - malte  
+maltos - maltose  
 manera - comportamento (conduta)  
 mang - ocupado (atarefado)  
 mangan - manganésio  
@@ -1033,6 +1060,9 @@ meninge - meninge
 meranti - meranti  
 Merkur - Mercúrio  
 mes - mês  
+metan - metano  
+metanol - metanol  
+metil - metil  
 metal bede - bigorna  
 metal lin - arame  
 meza - mesa  
@@ -1133,6 +1163,8 @@ niobi yum - nióbio
 Nipon - Japão  
 nipon yum - nihonium  
 nitre - nitrogénio  
+nitrate - nitrato (azotato)  
+nitril - nitrila  
 nix - nicho  
 no - não  
 nobel yum - nobélio  
@@ -1170,7 +1202,7 @@ osidian - obsidiana
 osmi yum - ósmio  
 oste jama - esqueleto  
 oste xalke - escudo  
-oxi - oxigénio  
+oxe - oxigénio  
 oxide - óxide  
 
 ## P  
@@ -1233,6 +1265,7 @@ pende sor - cadeado
 pente - pintura  
 pente broxa - pincel  
 pente tela - tela  
+peroxide - peróxido  
 pera - pera  
 perex fa - perecer  
 pesa - dinheiro  
@@ -1278,7 +1311,6 @@ porte - portar
 Portoriko - Porto Rico  
 portoriko jen - porto-riquenho  
 pos di - posterior  
-pospor - fósforo  
 posta marke - carimbo  
 pote camaca - concha  
 pote ja - oleiro  
@@ -1460,9 +1492,11 @@ sui minta - hortelã-da-água
 sui yau - sede  
 Suise - Suíça  
 suka - feliz  
-sukar - açúcar  
-sukar gana - cana-de-açúcar  
-sulfu - enxofre  
+sukre - açúcar  
+sukre gana - cana-de-açúcar  
+sukros - sacarose  
+sulfe - enxofre  
+sulfate - sulfato  
 suna islam din - sunismo  
 supa - sopa  
 supa camaca - colher de sopa  
@@ -1640,6 +1674,7 @@ xi Fulan - fulano
 xia - facção  
 xia islam din - xiismo  
 xikaya - queixa (lamento, reclamação)  
+xilos - xilose  
 xipi - molhado  
 xite - merda  
 xiti - perder  

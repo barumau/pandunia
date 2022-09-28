@@ -36,8 +36,12 @@ akrabe - скорпион
 alga - водоросли  
 alga fungu - лишай  
 alga jangal - лес водорослей  
-alkasus - солодка (лакрица)  
+alkan - алкан  
+alken - алкен  
+alkil - алкил  
+alkin - алкин  
 alkol - алкоголь  
+alkasus - солодка (лакрица)  
 almari - шкаф  
 alo - другой (второй)  
 alofa - изменять  
@@ -52,6 +56,7 @@ amenbil - верный
 amenbilta - верность  
 amen di - честный (правдивый)  
 amerika yum - америций  
+amide - амид  
 amir lin - командная строка  
 ancovi - анчоус (хамса)  
 andesite - андезит  
@@ -260,6 +265,8 @@ buro di - казённый (формальный)
 buro krati - бюрократия  
 buro riti - этикет (протокол)  
 bus halte - автобусная остановка  
+bute - масло (сливочное масло)  
+butan - бутан  
 buta - ботинок  
 buton - пуговица  
 
@@ -329,7 +336,6 @@ Danske - датский
 dante baluta - дуб зубчатый  
 dante hin - беззубый  
 dara tubo - воронка  
-gradu mute - развитие  
 darmestadi yum - дармштадтий  
 data - данные  
 data banke - база данных  
@@ -429,6 +435,9 @@ estibi yum - сурьма
 estronti yum - стронций  
 estude - этюд  
 estude ja - студент  
+etan - этан  
+etanol - этанол  
+etil - этил  
 eu anjil - евангелие  
 eu loga - панегирик  
 europa baluta - дуб черешчатый  
@@ -519,6 +528,7 @@ fei - полёт
 fei muxu - летучая мышь  
 fen - parte  
 fen gata - анализ  
+fenol - фенол  
 fermi yum - фермий  
 fero - железо  
 fete - факт  
@@ -540,11 +550,14 @@ fizika gi - аппаратное обеспечение
 flece - стрела (стрелка)  
 flerof yum - флеровий  
 flur - фтор  
+fluride - фторид  
 fonte kalam - авторучка  
 for - прочь (вон)  
 fora - сверлить (бурить)  
 • dusforma - уродовать  
 • konforma - применяться (согласоваться)  
+fosfe - фосфор  
+fosfate - фосфат  
 foto - свет  
 foto frike - полировать  
 foto grafi suta - фотография  
@@ -555,6 +568,7 @@ foto so - фотон
 france yum - франций  
 frem - рама  
 frike - царапать  
+frutos - фруктоза  
 frute - плод (фрукт)  
 frute bagi - фруктовый сад  
 fufu - мякоть (пульпа, фуфу)  
@@ -627,11 +641,15 @@ glu bande - пластырь
 glu di - клейкий (липкий)  
 glu grafi - наклейка  
 glu poto - глина  
+glukerol - глицерин  
+glukogen - гликоген  
+glukos - глюкоза  
 gol - цель  
 gola seku - булыжник  
 gomu - резина (каучук, резинка, ластик)  
 gorila - горилла  
 goton - хлопок  
+gradu mute - развитие  
 grafi culi - обработка изображений  
 grafi kata - комикс  
 grafi so - пиксель  
@@ -705,8 +723,10 @@ hevan bagi - зоопарк
 hevan kata - басня  
 hevan logi - зоология  
 hevan logi di - зоологический  
+hidre - водород  
+hidrate - гидрат  
+hidre peroxide - перекись водорода  
 hidrargente - ртуть  
-hidro - водород  
 hijabu - вуаль  
 hin - без  
 hina - хна  
@@ -858,10 +878,12 @@ kar lexi - глагол
 karxe - работа  
 karate - каратэ  
 karateja - каратист (каратэка)  
-karbon - углерод  
-karbon duoxide - двуокись углерода  
-karbon kalam - карандаш  
-karbon sui - углевод  
+karbe - углерод  
+karbe duoxide - двуокись углерода  
+karbohidrate - углевод  
+karbe kalam - карандаш  
+karbol - карбол  
+karbe sui - углевод  
 karcof - артишок посевной  
 kardon - расторопша  
 kardon karcof - артишок испанский (кардон)  
@@ -892,6 +914,7 @@ kentaur - кентавр
 kentaur hua - василёк  
 kerne - ядро  
 kerne vuki - ядерное оружие  
+keton - кетон  
 kexa broxa - щётка для воло́с  
 kexa hin - безволосый  
 ki - что  
@@ -1061,6 +1084,8 @@ majang - маджонг
 majenta - маджента (фуксия)  
 makan hua - одуванчик  
 mal nomi - экономика  
+malte - солод  
+maltos - мальтоза (солодовый сахар)  
 manera - поведение (манера)  
 mang - занятый  
 mangan - марганец  
@@ -1118,6 +1143,9 @@ mendelef yum - менделевий
 meranti - шорея  
 Merkur - Меркурий  
 mes - месяц  
+metan - метан  
+metanol - метанол  
+metil - метил  
 metal bede - наковальня  
 meza - стол  
 meza tela - скатерть  
@@ -1230,6 +1258,7 @@ niobi yum - ниобий
 Nipon - Япония  
 nipon yum - нихоний  
 nitre - азот  
+nitrate - нитрат  
 nix - ниша  
 no - нет (не)  
 nobel yum - нобелий  
@@ -1265,7 +1294,7 @@ osidian - обсидиан
 osmi yum - осмий  
 osmos - осмос  
 oste jama - скелет (остов)  
-oxi - кислород  
+oxe - кислород  
 oxide - окись (оксид)  
 
 ## P  
@@ -1331,6 +1360,7 @@ pente - картина
 pente broxa - кисть  
 pente ja - художник  
 pente tela - полотно  
+peroxide - перекись (пероксид)  
 pera - груша  
 pesa - деньги  
 pesa diske - монета  
@@ -1372,7 +1402,6 @@ porte - носить
 • reporter - репортёр  
 Portoriko - Пуэрто-Рико  
 portoriko jen - пуэрториканец  
-pospor - фосфор  
 posta marke - почтовый штемпель  
 pote camaca - половник (черпак, ковш)  
 pote ja - гончар  
@@ -1575,11 +1604,13 @@ sui minta - мята водная
 sui yau - жажда  
 Suise - Швейцария  
 suka - счастливый (радостный)  
-sukar - сахар  
-sukar bete - сахарная свёкла  
-sukar gana - сахарный тростник  
-sukar oranje - апельсин  
-sulfu - сера  
+sukre - сахар  
+sukre bete - сахарная свёкла  
+sukre gana - сахарный тростник  
+sukre oranje - апельсин  
+sukros - сахароза  
+sulfe - сера  
+sulfate - сульфат  
 suna islam din - сунниты  
 supa - суп  
 supa camaca - суповая ложка  
@@ -1793,6 +1824,7 @@ xenon - ксенон
 xia - фракция (клика)  
 xia islam din - шиизм  
 xikaya - жалоба  
+xilos - ксилоза  
 xite - говно (дерьмо)  
 xiti - потерять (утратить)  
 xiu - маленький (малый)  

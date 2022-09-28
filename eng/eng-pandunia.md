@@ -99,6 +99,10 @@ algebra - jebra
 Algeria - Jayer  
 align (go along) - be ging  
 alkaline - kali di  
+alkane - alkan  
+alkene - alken  
+alkyl - alkil  
+alkyne - alkin  
 alligator - korte krokodil  
 allophone - alo fon  
 allow (permit) - fa halal  
@@ -126,6 +130,8 @@ American Samoa - Amerika Samoa
 americium - amerika yum  
 Amerindian (Native American) - asal Amerka jen  
 Amhara (an Ethiopian ethnic group and language) - Amara  
+amide - amide  
+amine - amin  
 among (amid, between) - a medi  
 amount (quantity) - polita  
 ampere (amp) - amper  
@@ -573,11 +579,13 @@ businessperson (businessman) - biznes ja
 bust (bosom) - buste  
 busy (occupied) - mang  
 but (rather) - ama  
+butane - butan  
 butcher - buca  
 butcher - bucar  
-butter - makan  
+butter - bute  
 butterfly (moth) - pelpel  
 buttocks (bum, butt, ass) - pigu  
+butyl - butil  
 buy (purchase) - fa xopi  
 buyer - xopi ja  
 by (at, in, on) - a  
@@ -638,9 +646,13 @@ carat - kira
 carat - kirate  
 caravan (convoy) - karvan  
 caraway - karavi  
-carbohydrate (saccharide) - karbon sui  
-carbon (coal) - karbon  
-carbon dioxide - karbon duoxide  
+carbide - karbide  
+carbohydrate (saccharide) - karbe sui  
+carbohydrate - karbohidrate  
+carbole (carbolic acid) - karbol  
+carbon (coal) - karbe  
+carbon dioxide - karbe duoxide  
+carboxyle - karboxil  
 card - karte  
 care (caution, attention) - jui  
 career (professional life) - pei gong jiva  
@@ -1316,10 +1328,13 @@ essay - esai
 estimate (approximate) - fa yagu  
 Estonia - Esti  
 Eswatini (Swaziland) - Suati  
+ethane - etan  
+ethanol - etanol  
 ethics - moral logi  
 Ethiopia - Etiopia  
 ethnic - zuku di  
 ethnic group - zuku  
+ethyl - etil  
 etiquette (protocol, procedure) - buro riti  
 etymology - loga asal  
 eugenics - eu gene sim  
@@ -1519,6 +1534,7 @@ flower - hua
 flower vase - hua jara  
 flowerpot - hua pote  
 fluid (liquid) - dara mate di  
+fluoride - fluride  
 fluorine - flur  
 fly (go through air) - fa fei  
 fly - zeze  
@@ -1580,6 +1596,7 @@ friendship - dostita
 frog - krokro  
 from (since, because) - de  
 frost - hima rose  
+fructose - frutos  
 fruit - frute  
 frying pan - tava  
 fuck (copulate) - coda  
@@ -1672,8 +1689,12 @@ global (concerning the whole world) - pan dunia di
 global - dunia li  
 globe artichoke - karcof  
 glossy - foto mira di  
+glucose - glukos  
 glue (adhesive) - glu  
 gluten - gluten  
+glycerol (glycerine) - glukerol  
+glycine - glukin  
+glycogen - glukogen  
 gnome - geo elfe  
 go (going; course) - kurse  
 go (move through space) - ga  
@@ -1927,7 +1948,9 @@ hurt - fa pasi
 hush (shh) - tix  
 hush (shh) - xux  
 hybrid (mongrel) - hibride  
-hydrogen - hidro  
+hydrate (chemical compound) - hidrate  
+hydrogen - hidre  
+hydrogen peroxide - hidre peroxide  
 hygiene (cleanliness) - salu safata  
 Hyperion - Hiperion  
 I (me) - mi  
@@ -2128,6 +2151,7 @@ kendo - gem dau
 kennel (facility) - vaf parke  
 Kenya - Kenya  
 ketchup - kecape  
+ketone - keton  
 kettle - ketel  
 key (push-button, switch) - buton  
 key - cavi  
@@ -2395,7 +2419,9 @@ male - nan
 malform (disfigure; malformed, deformed, disfigured) - dusforma  
 malformed (deformed, disfigured) - dus forma di  
 Mali - Mali  
+malt - malte  
 Malta - Malta  
+maltose - maltos  
 mammal - mamal  
 man (adult male) - matur man  
 manage (organize) - fa nomi  
@@ -2506,6 +2532,10 @@ messianic - mesi di
 metal - metal  
 meter (100 cm) - mitre  
 meter (measuring device) - metre gi  
+methane - metan  
+methanol - metanol  
+methyl - metil  
+methylamine - metilamin  
 Mexico - Mehiko  
 Mexico City - Mehiko siti  
 microbiology - mikro biologi  
@@ -2731,6 +2761,8 @@ nightingale - bulbul
 nihonium - nipon yum  
 nine (9) - tisa  
 niobium - niobi yum  
+nitrate - nitrate  
+nitrile - nitril  
 nitrogen - nitre  
 Niue - Niue  
 Noah - Noe  
@@ -2887,7 +2919,7 @@ own - se su
 owner (proprietor) - mal ja  
 oxeye daisy - baku margarite  
 oxide - oxide  
-oxygen - oxi  
+oxygen - oxe  
 
 ## P  
 
@@ -2989,7 +3021,7 @@ peer - par jen
 peer - sam bei  
 pen (writing tool) - kalam  
 penal (penetenciary) - fatu di  
-pencil - karbon kalam  
+pencil - karbe kalam  
 penguin - pinguin  
 peninsula - yaki nesi  
 penis (phallus) - penis  
@@ -3010,6 +3042,7 @@ peripheral - kinar di
 perish (ruin, dishevel, devastate, desolate) - perex fa  
 perished (ruined, devastated, wretched) - perex  
 permissible (allowed, halal) - halal  
+peroxide - peroxide  
 Persia (Persian; Farsi) - parsi  
 person (individual, -ist, -er) - jen  
 personal (intimate, private, custom) - jen di  
@@ -3021,6 +3054,8 @@ pervert (twist; perverse) - perversi
 peta- - peta  
 petroleum - petra nefte  
 pharmacology - dava xelogi  
+phenol - fenol  
+phenyl - fenil  
 Philippines - Filipin  
 philosopher - filsofi ja  
 philosophic - filsofi di  
@@ -3029,7 +3064,8 @@ Phobos - Fobos
 phone (speech sound) - fon  
 phoneme - fonma  
 phonology - fonlogi  
-phosphorus - pospor  
+phosphate - fosfate  
+phosphorus - fosfe  
 photograph - foto grafi  
 photographer - foto grafi ja  
 photography - foto grafi suta  
@@ -3900,16 +3936,18 @@ subway (metro) - tunel tren
 succeed (go well, prosper) - sucese  
 such-and-such (so-and-so) - fulan  
 suck (absorb) - cupu  
+sucrose - sukros  
 Sudan - Sudan  
 suffer (get hurt) - be pasi  
 suffix - pos fixe  
-sugar - sukar  
-sugar beet - sukar bete  
+sugar - sukre  
+sugar beet - sukre bete  
 sugar-apple (sweetsop) - ata  
-sugarcane - sukar gana  
-sugary (sweet) - sukar di  
+sugarcane - sukre gana  
+sugary (sweet) - sukre di  
 suitable (appropriate, apt, fit) - hapu  
-sulfur (brimstone) - sulfu  
+sulfate - sulfate  
+sulfur (brimstone) - sulfe  
 sultanate - sultan dexa  
 sum (total) - sum  
 sum up (add together) - fa sum  
@@ -3942,7 +3980,7 @@ swastika (hooked cross) - huke krus
 sweat (perspiration) - sueda  
 sweaty - sueda di  
 Sweden - Suen  
-sweet orange - sukar oranje  
+sweet orange - sukre oranje  
 sweet potato - kamote  
 Switzerland - Suise  
 sword - gem  
@@ -4489,6 +4527,7 @@ wrong (incorrect, erroneous, faulty) - galte di
 ## X  
 
 xenon - xenon  
+xylose (wood sugar) - xilos  
 
 ## Y  
 
@@ -4528,7 +4567,7 @@ Zen Buddhism - jan buda din
 zero (none) - siro  
 zetta- - zeta  
 ziggurat - zikura  
-zigzag - zigzage  
+zigzag - ziza  
 Zimbabwe - Zimbabue  
 zinc - zinke  
 zip up - zipe  

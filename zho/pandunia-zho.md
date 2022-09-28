@@ -36,8 +36,11 @@ akrabe - 蝎子 (天蝎座)
 alga - 藻类  
 alga fungu - 地衣  
 alga jangal - 海藻林  
-alkasus - 甘草 (国老)  
+alkan - 烷烃  
+alken - 烯烃  
+alkin - 炔烃  
 alkol - 酒  
+alkasus - 甘草 (国老)  
 almari - 碗碟橱  
 alo - 另一  
 alofa - 改變  
@@ -52,6 +55,8 @@ amen - 信赖
 amenbil - 忠实  
 amen di - 诚实  
 amerika yum - 镅  
+amide - 酰胺  
+amin - 胺  
 ancovi - 凤尾鱼  
 andesite - 安山岩  
 angar - 锚  
@@ -239,6 +244,8 @@ burge - 要塞
 buro ja - 秘书  
 buro krati - 官僚制  
 bus halte - 汽车站  
+bute - 黄油  
+butan - 丁烷  
 buton - 扣子  
 
 ## C  
@@ -303,7 +310,6 @@ dang gi - 钟 (摇铃)
 Danske - 丹麦的  
 dante baluta - 槲树  
 dara tubo - 漏斗  
-gradu mute - 发展 (开发)  
 data - 数据  
 data banke - 数据库  
 data culi - 数据处理  
@@ -387,6 +393,9 @@ esponje - 海绵
 estan - 锡  
 estibi yum - 锑  
 estronti yum - 锶  
+etan - 乙烷  
+etanol - 乙醇  
+etil - 乙基  
 eu anjil - 福音  
 europa baluta - 夏櫟  
 europa yum - 铕  
@@ -455,6 +464,8 @@ fatura - 帐单
 fei gi tikete - 飞机票  
 fen - 部分  
 fen gata - 分析  
+fenil - 苯基  
+fenol - 苯酚  
 fermi yum - 镄  
 fero - 铁  
 fete - 事实  
@@ -472,10 +483,13 @@ fito yam sim ja - 素食主义者
 fizika gi - 硬件  
 flece - 箭  
 flur - 氟  
+fluride - 氟化物  
 fong - 蜂  
 fonte kalam - 钢笔  
 fora - 钻孔  
 • dusforma - 变丑  
+fosfe - 磷  
+fosfate - 磷酸盐  
 foto - 光  
 foto frike - 擦亮  
 foto grafi -  照片 (相片)  
@@ -486,6 +500,7 @@ foto so - 光子
 france yum - 钫  
 frem - 框  
 frike - 擦伤  
+frutos - 果糖  
 frute - 果  
 frute bagi - 果园  
 fufu - 富富  
@@ -554,10 +569,15 @@ glu bande - 创可贴 (邦迪)
 glu di - 黏的  
 glu grafi - 贴纸  
 glu poto - 黏土  
+glukerol - 甘油 ( 丙三醇)  
+glukin - 甘氨酸  
+glukogen - 糖原  
+glukos - 葡萄糖  
 gol - 目的  
 gola seku - 鹅卵石  
 gorila - 大猩猩  
 goton - 棉  
+gradu mute - 发展 (开发)  
 grafi culi - 影像处理  
 grafi kata - 漫画  
 granite - 花岗石  
@@ -626,8 +646,10 @@ Hese - 黑森
 hevan - 动物  
 hevan bagi - 动物园  
 hevan logi - 动物学  
+hidre - 氢  
+hidrate - 水合物  
+hidre peroxide - 过氧化氢  
 hidrargente - 汞  
-hidro - 氢  
 hijabu - 面纱  
 Hindi dexa - 印度斯坦  
 hindi raja - 拉贾  
@@ -774,9 +796,11 @@ karkan - 工厂
 kar lexi - 动词  
 karxe - 工作  
 karate - 空手道  
-karbon - 碳  
-karbon duoxide - 二氧化碳  
-karbon kalam - 铅笔  
+karbe - 碳  
+karbe duoxide - 二氧化碳  
+karbohidrate - 碳水化合物  
+karbe kalam - 铅笔  
+karboxil - 羧基  
 karcof - 菜蓟  
 kardon - 蓟  
 kardon karcof - 刺苞菜蓟  
@@ -801,6 +825,7 @@ Keme - 古埃及
 ken - 认识  
 kentaur - 人马 (半人马)  
 kerne - 核心  
+keton - 酮  
 kexa broxa - 发刷  
 kexa hin - 无毛  
 kimi - 物质  
@@ -955,6 +980,8 @@ Magribi dexa - 摩洛哥
 majang - 麻将  
 makan hua - 蒲公英  
 mal nomi - 经济学  
+malte - 麦芽  
+maltos - 麦芽糖  
 mana - 意义  
 manera - 方式  
 mang - 忙  
@@ -1002,6 +1029,9 @@ memo - 记忆 (记性)
 mendelef yum - 钔  
 meninge - 脑脊膜  
 meranti - 娑羅屬  
+metan - 甲烷  
+metanol - 甲醇  
+metil - 甲基  
 metal bede - 铁砧  
 metal lin - 线 (铁丝)  
 metal sanaja - 铁匠  
@@ -1105,6 +1135,8 @@ nilon - 尼龙
 niobi yum - 铌  
 Nipon - 日本  
 nitre - 氮  
+nitrate - 硝酸鹽  
+nitril - 腈  
 nix - 壁龛  
 no - 不  
 no a lin - 离线  
@@ -1138,7 +1170,7 @@ oselote - 虎貓
 osidian - 黑曜岩  
 osmi yum - 锇  
 oste jama - 骨骼  
-oxi - 氧  
+oxe - 氧  
 oxide - 氧化物  
 
 ## P  
@@ -1193,6 +1225,7 @@ pende sor - 挂锁
 pente - 油漆 (颜料)  
 pente broxa - 画笔  
 pente tela - 画布  
+peroxide - 过氧化物  
 pera - 梨  
 pesa - 钱  
 pesa diske - 硬币  
@@ -1225,7 +1258,6 @@ ponte pin - 指南针
 porei - 韭葱  
 porte - 港  
 • reporter - 记者  
-pospor - 磷  
 pote camaca - 勺 (舀)  
 pote ja - 陶瓷工  
 pote suta - 陶器制造  
@@ -1403,9 +1435,11 @@ sui minta - 水薄荷
 sui yau - 口渴  
 Suise - 瑞士  
 suka - 高兴  
-sukar - 糖  
-sukar gana - 甘蔗  
-sulfu - 硫  
+sukre - 糖  
+sukre gana - 甘蔗  
+sukros - 蔗糖  
+sulfe - 硫  
+sulfate - 硫酸盐  
 supa - 汤  
 supa camaca - 汤匙  
 supra vakil ja - 参议员  

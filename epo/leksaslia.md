@@ -200,6 +200,7 @@
 **bus** *buso* ← deu:franca:angla:hispana:bus, rusa:автобус (avtobus), hindia:बस (bas), urdua:(bas), japana:バス (basu), korea:버스 (beoseu), persa:(otobus), turka:otobüs, svahila:basi, mandarena:巴士 (bāshì)  
 **buste** ** ← franca:buste, angla:bust, hispana:portugala:busto, rusa:бюст (byust), deu:Büste  
 **buta** ** ← angla:boot, franca:botte, hispana:portugala:bota, rusa:ботинок (botinok), polona:malaja:but, persa: بوت‎ (but), japana:ブーツ (būtsu), svahila:buti  
+**bute** *butero* ← deu:Butter, angla:butter, franca:beurre, japana:バター (batā), korea:버터 (beoteo), vjetnama:bơ  
 **buton** *klavo (butono)* ← angla:button, hispana:botón, portugala:botão, franca:bouton, hindia:बटन (baṭan), bengala:বোতাম (botam), japana:ボタン (botan), korea:버튼 (beoteun)  
 **buyu** *baobabo* ← svahila:mbuyu, volofa:buy, sna:muuyu, zulua:isimuhu  
 **cai** *teo* ← mandarena: 茶 (chá), japana: (cha), korea:차 (cha), vjetnama:trà, turka:çay, svahila:chai, rusa:чай (čay), hindia:चाय (cāy), araba:(šāy), portugala:chá  
@@ -412,6 +413,7 @@
 **forke** *forko* ← angla:fork, hispana:horca, portugala:forcado, franca:fourche, tamila:போர்க் (pōrk), japana:フォーク (fōku), korea:포크 (pokeu)  
 **forma** *formo* ← angla:form, hispana:portugala:forma, franca:forme, deu:Form, rusa:форма (forma)  
 **forum** *forumo* ← angla:franca:forum, hispana:foro, portugala:fórum, rusa:форум (forum), japana:フォーラム (fōramu)  
+**fosfe** *fosforo* ← angla:phosphorus, franca:phosphore, hispana:fósforo, portugala:fósforo, rusa:фосфор, vjetnama:photpho, hindia:फास्फोरस, bengala:ফসফরাস, malaja:fosfor, svahila:posfori, araba: فوسفور  
 **foto grafi** *foto* ← angla:photograph, franca:photographie, hispana:portugala:fotografia, rusa:фотография, hindia:फ़ोटो (foṭo), bengala:ফটো (phôṭo), malaja:foto, turka:fotoğraf  
 **foto** *lumo* ← greka:φωτο- (foto-), angla:franca:photo-, hispana:portugala:foto-, rusa:фото-  
 **france yum** *franciumo* ← angla:francium, franca:francium, hispana:francio, portugala:frâncio, rusa:франций, mandarena:钫 (fāng), japana:フランシウム, korea:프랑슘, vjetnama:franxi, hindia:फ्रान्सियम, bengala:ফ্রান্সিয়াম, malaja:fransium, svahila:fransi, araba: فرنسيوم  
@@ -561,7 +563,7 @@
 **hevan** *besto* ← araba: حَيَوَان‎ (ḥayawān), persa: حیوان‎ (heyvân), hindia:हैवान (haivān), malaja:kewan, turka:hayvan, svahila:hayawani, fula:hayawan  
 **hibride** *miksulo* ← angla:hybrid, hispana:portugala:híbrido, franca:hybride, rusa:гибрид (gibrid)  
 **hidrargente** ** ← svahila:hidrajiri  
-**hidro** *hidrogeno* ← angla:franca:hydro-, hispana:portugala:malaja:svahila:hidro-, vjetnama:hyđrô, araba: هيدروجين  
+**hidre** *hidrogeno* ← angla:franca:hydro-, hispana:portugala:malaja:svahila:hidro-, vjetnama:hyđrô, araba: هيدروجين  
 **hijabu** ** ← araba:(ḥijāb), persa:(hejâb), svahila:hijabu, haŭsa:hijabi, hindia:हिजाब (hijāb), bengala:হিজাব (hijab), angla:portugala:hijab, franca:hidjab, hispana:hiyab, rusa:хиджаб (xidžab)  
 **hima** *neĝo* ← hindia:हिमपात (himpāt), taja:หิมะ (hima), teluga:(himamu)  
 **hin** *sen (manki)* ← hindia:-हीन (hīn), bengala:-হীন (-hin), guĝarata:-હીન (-hīn)  
@@ -694,7 +696,7 @@
 **kar** ** ← persa: کار (kâr), hindia:कार (kār), कार्य (kārya), bengala:কাজ (kaj), malaja:karya,kerja + svahila:kazi  
 **karavi** *karvio* ← araba:(karāwiya), angla:caraway, franca:carvi, hispana:alcaravea, portugala:alcaravia  
 **karbau** ** ← hispana:carabao, malaja:kerbau, jav:kebo, kmera:ក្របី (krɑbəy)  
-**karbon** *karbono* ← angla:carbon, franca:carbone, hispana:carbón, portugala:carbono, vjetnama:cacbon, hindia:कार्बन, bengala:কার্বন, malaja:karbon, svahila:kaboni, araba: كربون  
+**karbe** *karbono* ← angla:carbon, franca:carbone, hispana:carbón, portugala:carbono, vjetnama:cacbon, hindia:कार्बन, bengala:কার্বন, malaja:karbon, svahila:kaboni, araba: كربون  
 **karcof** ** ← araba:خرشوف (kharshuf), amhara:ከርቹፍ (kärčuf), hispana:alcachofa, portugala:alcachofra, polona:karczoch  
 **kardon** ** ← hispana:portugala:cardo, franca:chardon, angla:cardoon, japana:カルドン (karudon)  
 **karga** ** ← hispana:portugala:carga, angla:cargo, malaja:kargo  
@@ -895,10 +897,10 @@
 **mais** ** ← angla:maize, hispana:maíz, franca:maïs, rusa:маи́с (maís)  
 **majenta** ** ← angla:magenta, hispana:magenta, rusa:маджента (madzhenta), araba:ماجنتي (majinati), hindia:मैजेंटा (maijenta), japana:マゼンタ (mazenta), malaja:magenta  
 **makala** ** ← araba:مَقَال‎ (maqāl), turka:makale, svahila:makala, persa:مقاله‎ (maqâle), malaja:makalah  
-**makan** *butero* ← hindia:मक्खन (makkhan), bengala:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), marataja:माखण (mākhaṇ), guĝarata:માખણ (mākhaṇ)  
 **makas** *tondilo* ← araba:(maqaṣ), turka:makas, svahila:mkasi, oroma:maqasii, haŭsa:almakashi, joruba:àlùmogàjí  
 **mal** ** ← araba:persa:urdua: مَال‎ (māl), hindia:माल (māl), turka:mal, svahila:mali, malaja:milik  
 **malaria** ** ← angla:hispana:franca:svahila:malaja:malaria, portugala:malária, rusa:малярия (mal′arija), turka:malarya, araba:مَلَارِيَا‎ (malāriyā), hindia:मलेरिया (maleriyā), japana:マラリア (mararia)  
+**malte** ** ← angla:franca:turka:malt, deu:Malz, hispana:malta, portugala:malte, persa: مالت‎ (mâlt), araba: مَلْت‎ (malt)  
 **mamal** ** ← angla:mammal, hispana:portugala:mamífero, franca:mammifère, turka:memeli, malaja:mamalia  
 **mana** *signifo* ← araba:(maʿnā), persa:urdua:(ma'ni), hindia:मअनी (maani), svahila:maana, haw:manaʻo, angla:meaning, deu:Meinung  
 **manera** *maniero (konduto)* ← franca:manière, angla:manner, rusa:манера (manyera), japana:マナー (manā), hispana:manera, portugala:maneira, deu:Manieren  
@@ -1096,7 +1098,7 @@
 **osmi yum** *osmio* ← angla:osmium, franca:osmium, hispana:osmio, portugala:ósmio, rusa:осмий, japana:オスミウム, korea:오스뮴, vjetnama:osimi, hindia:अस्मियम, bengala:অসমিয়াম, malaja:osmium, svahila:osmi, araba: ازميوم  
 **osmos** *osmozo* ← greka:ώσμωση (ósmosi), angla:malaja:osmosis, hispana:ósmosis, portugala:franca:osmose, rusa:осмос (osmos), persa:تَراران (osmoz)  
 **oste** *osto* ← angla:deu:osteo-, rusa:остео- (osteo-), itala:portugala:osso, franca:os, hindia:अस्थि (asthi-)  
-**oxi** *oksigeno* ← angla:oxygen, franca:oxygène, hispana:oxígeno, portugala:oxigénio, rusa:кислород, vjetnama:oxy, oxi, hindia:ऑक्सीजन, bengala:অক্সিজেন, malaja:oksigen, svahila:oksijeni, araba: أكسجين  
+**oxe** *oksigeno* ← angla:oxygen, franca:oxygène, hispana:oxígeno, portugala:oxigénio, rusa:кислород, vjetnama:oxy, oxi, hindia:ऑक्सीजन, bengala:অক্সিজেন, malaja:oksigen, svahila:oksijeni, araba: أكسجين  
 **paci** *birdo* ← hindia:marataja:पक्षी (pakṣī), bengala:পাখী (pakhī), tamila:பட்சி (paṭci), teluga:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)  
 **pada** ** ← teluga:(paḍu), rusa:падать (padat'), hindia: पड़ना (paṛnā)  
 **pagri** ** ← hindia:marataja:पगड़ी (pagṛī), urdua:(pagṛī), bengala:পাগড়ি (pagri)  
@@ -1190,7 +1192,6 @@
 **porte** ** ← franca:porter, hispana:portugala:portar, angla:(trans)port, deu:-portieren, rusa:-портация (-portaciya) + hindia:रिपोर्ट (riporṭ), svahila:ripoti, turka:rapor, japana:レポート (repōto)  
 **porte** *haveno* ← angla:port, franca:porte, hispana:portugala:porto, rusa:порт (port), hindia:पोर्ट (porṭ), urdua:(porṭ), bengala:পোর্ট (porṭ), taja:พอร์ต (phot)  
 **pos** *sekvo* ← angla:franca:post-, hispana:pos, portugala:pós-, rusa:после- (posle-) + persa: پس (pas)  
-**pospor** *fosforo* ← angla:phosphorus, franca:phosphore, hispana:fósforo, portugala:fósforo, rusa:фосфор, vjetnama:photpho, hindia:फास्फोरस, bengala:ফসফরাস, malaja:fosfor, svahila:posfori, araba: فوسفور  
 **posta** ** ← angla:post, portugala:postagem, franca:poste, rusa:почта (pochta), turka:posta, araba:بوسطة‎ (busṭa), svahila:posta, malaja:pos, persa:پست‎ (post)  
 **pote** ** ← angla:franca:pot, hispana:portugala:pote, malaja:poci, japana:ポット (potto), korea:포트 (poteu)  
 **poto** *koto* ← pcm:konga:lingala:poto-poto  
@@ -1374,8 +1375,8 @@
 **sui kaboga** ** ← portugala:abóbora-d'água, turka:su kabağı  
 **sui** *akvo* ← mandarena:水 (shuǐ), japana:水 (sui), korea:수 (su), vjetnama:thuỷ + turka:su  
 **suka** *feliĉa (ŝati)* ← hindia:सुख (sukha), malaja:suka, teluga:సుఖము (sukhamu), taja:สุข (suk), nan:舒合 (su-kah) + japana:好く (suku)  
-**sukar** *sukero* ← angla:sugar, franca:sucre, hispana:azúcar, portugala:açúcar, araba: سُكَّر (sukkar), hindia:शक्कर (śakkar), bengala:শর্করা (śôrkôra), malaja:sakar, svahila:sukari, turka:şeker, tamila:சக்கரை (cakkarai)  
-**sulfu** *sulfuro* ← angla:sulfur, franca:soufre, hispana:azufre, portugala:enxofre, svahila:sulfuri  
+**sukre** *sukero* ← angla:sugar, franca:sucre, hispana:azúcar, portugala:açúcar, araba: سُكَّر (sukkar), hindia:शक्कर (śakkar), bengala:শর্করা (śôrkôra), malaja:sakar, svahila:sukari, turka:şeker, tamila:சக்கரை (cakkarai)  
+**sulfe** *sulfuro* ← angla:sulfur, franca:soufre, hispana:azufre, portugala:enxofre, svahila:sulfuri  
 **sultan ja** ** ← araba:سلطة (sulṭa), angla:turka:malaja:sultan, hispana:sultán, rusa: султан (sultan), persa:سلطان‎ (soltân), hindia:सुल्तान (sultān), bengala:সুলতান (śultan), svahila:sultani  
 **sum** *sumo* ← angla:sum, hispana:suma, portugala:soma, franca:somme, deu:Summe, rusa:сумма (summa)  
 **sun** ** ← angla:soon  
@@ -1630,13 +1631,13 @@
 **zeyil** *veruko* ← persa:زگیل (zegil), turka:siğil, aze:ziyil, fin:syylä  
 **zeze** ** ← svahila:nzi, sot:ntsintsi, lingala:konga:nzinzi, igba:ijiji, joruba:eṣinṣin + angla:tsetse, franca:portugala:tsé-tsé, rusa:цеце (tsetse), turka:çeçe, mandarena:采采蝇 (cǎicǎiyíng)  
 **zi** ** ← mandarena:字 (zì), japana:字 (ji), korea:자 (ja)  
-**zigzage** ** ← angla:franca:hispana:zigzag, portugala:ziguezague, rusa:зигзаг (zigzag), japana:ジグザグ (jiguzagu)  
 **zikura** ** ← araba:(ziqqūra), deu:Zikkurat, rusa:зиккурат (zikkurat)  
 **zina** *malfideleco* ← araba:(zināʾ), malaja:turka:zina, svahila:zinaa, urdua:(zinā), persa:(zenā)  
 **zinke** *zinko* ← angla:zinc, franca:zinc, hispana:cinc, portugala:zinco, rusa:цинк, mandarena:锌 (xīn), bengala:জিঙ্ক, malaja:seng, svahila:zinki  
 **zipe** ** ← angla:zipper, bengala:জিপার (jipar), hindia:ज़िपर (zipar), japana:ジッパー (jippā), korea:지퍼 (jipeo), taja:ซิป (síp), persa:urdua:(zip)  
 **zira** *kumino* ← persa: زیره‎ (zire), hindia:ज़ीरा (zīrā), bengala:জিরা (zīra), tamila:சீரகம் (sīrakam), rusa:зира (zira), mandarena:孜然 (zīrán), svahila:mjira  
 **zirkon yum** *zirkonio* ← angla:zirconium, franca:zirconium, hispana:circonio, portugala:zircónio, rusa:цирконий, japana:ジルコニウム, korea:지르코늄, vjetnama:ziriconi, hindia:जर्कोनियम, bengala:জিরকোনিয়াম, malaja:zirkonium, svahila:zirikoni, araba: زيركونيوم  
+**ziza** ** ← angla:franca:hispana:zigzag, portugala:ziguezague, rusa:зигзаг (zigzag), japana:ジグザグ (jiguzagu)  
 **zizi** ** ← mandarena:zizi angla:sizzle  
 **zoku** *ankoraŭ* ← vua:续 (zoq), kantona:續 (zuk6), japana:続 (zoku), korea:속 (sok), vjetnama:kế tục  
 **zombi** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  

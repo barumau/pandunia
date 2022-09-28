@@ -47,9 +47,9 @@ Aiti - Haitio
 akasia - akacio  
 akrabe - skorpio  
 alga - algo  
-alkasus - lakrico  
 alkol - alkoholo  
 alkol di - alkohola  
+alkasus - lakrico  
 almari - ŝranko  
 alo - alia  
 alo di - alie  
@@ -304,12 +304,12 @@ Buda din - budhismo
 Buda din ja - budhisto  
 budi - kompreno  
 budi di - konscia  
-pesa plan - buĝeto  
 buku - libro  
 bulbul - najtingalo  
 bum - eksplodo  
 bus - buso  
 bus halte - bushaltejo  
+bute - butero  
 buton - klavo (butono)  
 buton bano - klavaro  
 buyu - baobabo  
@@ -388,7 +388,6 @@ dante broxa - dentbroso
 dante dava ja - dentisto  
 dante hin - sendenta  
 darba - bati  
-gradu mute - disvolvi  
 data - datumo  
 data banke - datumbanko  
 data culi logi - komputoscienco  
@@ -680,6 +679,7 @@ fora - taladri
 forke - forko  
 forma - formo  
 forum - forumo  
+fosfe - fosforo  
 foto - lumo  
 foto di - luma  
 foto gola - halo  
@@ -776,6 +776,7 @@ gona - angulo
 goro - porko  
 goro nama - porkaĵo  
 goton - kotono  
+gradu mute - disvolvi  
 grafi - bildo (desegnaĵo)  
 grafi di - grafika (bilda)  
 grafi kata - bildrakonto  
@@ -866,7 +867,7 @@ hevan kata - bestofabelo
 hevan logi - zoologio  
 hevan logi di - zoologia  
 hibride - miksulo  
-hidro - hidrogeno  
+hidre - hidrogeno  
 hima - neĝo  
 hima rose - frosto  
 Himalaya - Himalajo  
@@ -1042,9 +1043,9 @@ kar lexi - verbo
 karxe - laboro  
 karate - karateo  
 karavi - karvio  
-karbon - karbono  
-karbon duoxide - karbona dioksido  
-karbon kalam - krajono  
+karbe - karbono  
+karbe duoxide - karbona dioksido  
+karbe kalam - krajono  
 kargadan: - rinocero  
 kari - kareo  
 Karibe - Karibio  
@@ -1238,7 +1239,6 @@ magen yum - magnezio
 magi - magio  
 mahala - kvartalo  
 majang - maĝango  
-makan - butero  
 makas - tondilo  
 mal ja - havanto  
 mal nomi - ekonomiko  
@@ -1472,7 +1472,7 @@ Oseania - Oceanio
 osmi yum - osmio  
 osmos - osmozo  
 oste - osto  
-oxi - oksigeno  
+oxe - oksigeno  
 oxide - oksido  
 
 ## P  
@@ -1542,6 +1542,7 @@ pente tela - kanvaso
 pera - piro  
 pesa - mono  
 pesa diske - monero  
+pesa plan - buĝeto  
 pete - ventro  
 petra - roko  
 pexe - fiŝo  
@@ -1578,7 +1579,6 @@ pos - sekvo
 pos den - morgaŭ  
 pos di - sekva  
 pos zaman - estonoteco  
-pospor - fosforo  
 postakan - poŝtejo  
 posta marke - poŝtmarko  
 poto - koto  
@@ -1802,8 +1802,9 @@ sui gas - vaporo
 sui yau - soifo  
 Suise - Svislando  
 suka - feliĉa (ŝati)  
-sukar - sukero  
-sulfu - sulfuro  
+sukre - sukero  
+sukros - sakarozo  
+sulfe - sulfuro  
 sum - sumo  
 suna islam din - sunaismo  
 Suomi - Finnlando  

@@ -54,12 +54,16 @@ aile - panka
 air - air  
 aire (superficie) - fase area  
 Alaska - Alaska  
+alcane - alkan  
 alcool - alkol  
 alcoolique - alkol di  
+alcyne - alkin  
+alcène - alken  
 algue - alga  
 algues - hai alga  
 algues brunes - kafe alga  
 Algérie - Jayer  
+alkyle - alkil  
 aller - ga  
 aller-retour - retro tikete  
 alligator - korte krokodil  
@@ -73,7 +77,9 @@ amande - badam
 amateur - hobi ja  
 amer - kali guste  
 Amhara (groupe ethnique et langue éthiopienne) - Amara  
+amide - amide  
 amie - dosti  
+amine - amin  
 amiral - hai amir ja  
 amour (affection) - ama  
 amoureux - ama ja  
@@ -248,7 +254,8 @@ berceause - lala gani
 berkélium - berkli yum  
 besoin - yauta  
 betterave - bete  
-betterave à sucre (betterave sucrière) - sukar bete  
+betterave à sucre (betterave sucrière) - sukre bete  
+beurre - bute  
 bibliothèque - kitabakan  
 bicyclette - sikle  
 bidonville - harabu mahala  
@@ -308,6 +315,7 @@ bulletin (infolettre) - habar letre
 bureau (office) - buro  
 bureaucratie - buro krati  
 but (destination) - gol  
+butane - butan  
 bâtiment - bina  
 bâton (canne, tige) - kane  
 bébé - bebe  
@@ -349,7 +357,7 @@ canapé (sofa) - sofa
 canevas (toile) - pente tela  
 canne - gana  
 canne à pêche - huke lin kane  
-canne à sucre - sukar gana  
+canne à sucre - sukre gana  
 canon - dai pau  
 canoë - kanu  
 Cantalupo in Sabina - Kantalupo va Sabina  
@@ -362,7 +370,7 @@ caractère - zi
 carapace (coquille, coquillage, croûte) - kaska  
 carat - kirate  
 Caraïbes - Karibe  
-carbone - karbon  
+carbone - karbe  
 cardon - kardon karcof  
 carotte - karote  
 caroube - karuba  
@@ -525,7 +533,7 @@ couvrir - fa daka
 crabe - krabe  
 craindre (avoir peur) - be fobi  
 cravache - uma bici  
-crayon - karbon kalam  
+crayon - karbe kalam  
 creuser (fosse) - kava  
 crevette - gamba  
 cristal - bilor  
@@ -558,6 +566,7 @@ célérité - sirta
 cérium - ceres yum  
 cérébral - nau di  
 césium - cesi yum  
+cétone - keton  
 cône - kone  
 côte - hai kinar  
 côté - late  
@@ -587,7 +596,7 @@ dimanche - den ceti
 dinde (dindon) - dinde  
 dinosaure - dino saur  
 diorite - diorite  
-dioxyde de carbone - karbon duoxide  
+dioxyde de carbone - karbe duoxide  
 directeur (principal) - xula xefe  
 dirigeant (leader) - lida ja  
 disque - diske  
@@ -735,6 +744,7 @@ finir - fa fin
 fiord - fiorde  
 fleur - hua  
 fluor - flur  
+fluorure - fluride  
 flèche - flece  
 flérovium - flerof yum  
 foie - hepate  
@@ -762,6 +772,7 @@ francophone - france fon di
 francophonie - France fon dunia  
 fromage - cize  
 fromage blanc - panir  
+fructose - frutos  
 fruit - frute  
 frêne - yasen  
 fée - pari  
@@ -794,6 +805,11 @@ glace - ais
 glacé (glacial, gelé) - ais di  
 gland - baluta frute  
 glisser - glis  
+glucide - karbohidrate  
+glucose - glukos  
+glycine - glukin  
+glycogène - glukogen  
+glycérol (glycérine - glukerol  
 gnome - geo elfe  
 gombo - bamia  
 gorille - gorila  
@@ -865,7 +881,8 @@ humain - insan di
 humanisme - insan sim  
 humeur - gamo hal  
 hum… - hem…  
-hydrogène - hidro  
+hydrate - hidrate  
+hydrogène - hidre  
 hygiène - salu safata  
 hâte (précipitation) - haste  
 hélice - propeler  
@@ -1062,6 +1079,8 @@ maillon (chaînon) - serime
 main - hande  
 mais - ama  
 maison (foyer, domicile) - dom  
+malt - malte  
+maltose - maltos  
 malédiction - dusdua  
 manche - kamisa xaka  
 mandarin - han guan ja  
@@ -1169,6 +1188,9 @@ méfait (péché) - duskar
 mémoire - memo  
 méninge - meninge  
 métaux lourds - bari metal  
+méthane - metan  
+méthanol (alcool de bois) - metanol  
+méthyle - metil  
 métier à tisser - tela gi  
 mûrier - tuta  
 
@@ -1192,6 +1214,7 @@ nickel - nikel
 nid - nide  
 nihonium - nipon yum  
 niobium - niobi yum  
+nitrate - nitrate  
 niveau - par fase  
 nobélium - nobel yum  
 noir - kala  
@@ -1252,7 +1275,7 @@ or - auro
 orange (couleur) - oranje rang  
 orange (fruit) - oranje  
 orange amère - kali oranje  
-orange douce - sukar oranje  
+orange douce - sukre oranje  
 orchidée - orkide  
 ordinaire (habituel, normal) - ada di  
 ordinateur - konputer  
@@ -1277,7 +1300,7 @@ oubliette (cul de basse-fosse) - geo nice jela
 oui - ye  
 ours - baru  
 oxyde - oxide  
-oxygène - oxi  
+oxygène - oxe  
 où - a ke  
 où - ke loka  
 
@@ -1343,6 +1366,8 @@ pelouse (gazon) - cau medan
 perdant - xiti bai ja  
 perder - xiti  
 perfectionner (parfaire) - fa pul bon  
+peroxyde - peroxide  
+peroxyde d'hydrogène - hidre peroxide  
 perplexe (désorienté) - ruhu mixe di  
 perroquet - papagai  
 personne - jen  
@@ -1356,10 +1381,12 @@ pharmacie - dava xekan
 pharmacologie - dava xelogi  
 phase - faze  
 philosophie - filsofi  
-phosphore - pospor  
+phosphate - fosfate  
+phosphore - fosfe  
 photographie - foto grafi  
 photographie - foto grafi suta  
 photon - foto so  
+phénol - fenol  
 pierre - ite  
 pierre - seku  
 pierre précieuse (joyau) - bau seku  
@@ -1598,6 +1625,7 @@ s'opposer à - xatan
 sable - sablu  
 sac - baga  
 sac - sake  
+saccharose - sukros  
 sacrifice - kurban  
 sagesse - sofita  
 sagoutier - sagu  
@@ -1686,7 +1714,7 @@ sommeil - sona
 son (sa) - se su  
 son - soni  
 sorgho - jovar  
-soufre - sulfu  
+soufre - sulfe  
 soumission - islam  
 soupe - supa  
 souris - muxu  
@@ -1699,12 +1727,13 @@ squelette - oste jama
 strontium - estronti yum  
 stylo-plume - fonte kalam  
 substance - kimi  
-sucre - sukar  
+sucre - sukre  
 sueur - sueda  
 suffixe - pos fixe  
 Suisse - Suise  
 suivre - fa pos  
 sujet (thème) - tema  
+sulfate - sulfate  
 sunnisme - suna islam din  
 survivre - trajiva  
 svastika (croix gammée) - huke krus  
@@ -1904,6 +1933,7 @@ wolof - Volof
 
 ## X  
 
+xylose - xilos  
 xénon - xenon  
 
 ## Y  
@@ -1972,6 +2002,9 @@ zéro - siro
 étain - estan  
 état - hal  
 éternuer (atchoum) - aci  
+éthane - etan  
+éthanol - etanol  
+éthyle - etil  
 étinceler - fa sing foto  
 étoile - sing  
 étude - estude  

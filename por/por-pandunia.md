@@ -42,8 +42,11 @@ alaranjado - oranje rang
 alcachofra - karcof  
 alcachofra-girassol (tupinambo) - masa mula sol hua  
 alcalino - kali di  
+alcano - alkan  
 alcaravia (cariz) - karavi  
 alcaçuz (regaliz) - alkasus  
+alceno - alken  
+alcino - alkin  
 aldeia (vila) - deha  
 alface - letus  
 alfarroba - karuba  
@@ -54,6 +57,7 @@ alho - lasun
 alho-porro - porei  
 aligátor (jacaré) - korte krokodil  
 almirante - hai amir ja  
+alquila - alkil  
 altar - puja meza  
 alterar - alofa  
 alumínio - alumin  
@@ -62,7 +66,9 @@ amador - hobi ja
 amante - ama ja  
 amargo - kali guste  
 amerício - amerika yum  
+amida - amide  
 amigo - dosti  
+amina - amin  
 amor - ama  
 amoreira - tuta  
 amêndoa - badam  
@@ -142,7 +148,7 @@ azur (blau) - lazur
 azur - nil  
 açougueiro (talhante) - bucar  
 ação - ation  
-açúcar - sukar  
+açúcar - sukre  
 aí (lá) - a vo  
 
 ## B  
@@ -222,6 +228,8 @@ budismo zen - jan buda din
 bule - cai pote  
 burocracia - buro krati  
 buscar (procurar) - soki  
+butano - butan  
+butil - butil  
 bário - bari yum  
 bétula - betula  
 bóhrio - bor yum  
@@ -256,7 +264,7 @@ camisa - kamisa
 camomila-romana - roma kamil  
 camomila-vulgar - kamil  
 cana - gana  
-cana-de-açúcar - sukar gana  
+cana-de-açúcar - sukre gana  
 canal (fosso, trincheira) - kanal  
 caneta de tinta permanente - fonte kalam  
 canguru - kangaru  
@@ -271,7 +279,9 @@ capa de chuva - xava kote
 capô - moto cati  
 caractere - zi  
 caratê - karate  
-carbono - karbon  
+carboidrato - karbohidrate  
+carbono - karbe  
+carboxila - karboxil  
 cardo - kardon  
 cardo-mariano - milke kardon  
 cardo-roxo - pena kardon  
@@ -314,6 +324,7 @@ cereja - ceri
 cerveja - bir  
 cerâmica - pote suta  
 cerâmico - serami  
+cetona - keton  
 cevada - jau  
 chacal - xakal  
 Champagne - xampan  
@@ -498,7 +509,7 @@ distinto - alo fen di
 distrair - distrate  
 diário - den loge  
 diário de bordo - loge buku  
-dióxido de carbono - karbon duoxide  
+dióxido de carbono - karbe duoxide  
 dobro - dupli  
 documento - dokumen  
 documentário - dokumen filme  
@@ -553,7 +564,7 @@ ensino secundário - jong xulakan
 ensopar (encharcar, marinar) - pul xipi  
 entrar - be in  
 enxada - copu  
-enxofre - sulfu  
+enxofre - sulfe  
 epistemologia - san logi  
 equilíbrio - par vezeta  
 erro (falta) - galte  
@@ -602,6 +613,9 @@ estrumpfe (smurf) - nil elfe
 estrôncio - estronti yum  
 estudante - estude ja  
 estudar (examinar) - fa estude  
+etano - etan  
+etanol - etanol  
+etila - etil  
 etimologia - loga asal  
 etnia - zuku  
 eu (me) - mi  
@@ -648,6 +662,7 @@ fechadura - tala
 feio - dus vide  
 feliz - suka  
 feno - gan cau  
+fenol - fenol  
 fermentar - be biomute  
 ferro - fero  
 fibra - lin so  
@@ -658,6 +673,7 @@ flecha (seta) - flece
 fleróvio - flerof yum  
 flor - hua  
 floresta de algas - alga jangal  
+fluoreto - fluride  
 flúor - flur  
 fogo - hogo  
 fogos de artifício - hogo tehni  
@@ -666,6 +682,7 @@ fome - yam yau
 forte - burge  
 força - balata  
 força aérea - air ordu  
+fosfato - fosfate  
 foto (fotografia) - foto grafi  
 fotografia - foto grafi suta  
 fraco (débil) - anbala  
@@ -673,6 +690,7 @@ fraco - mirde
 fragmento - parce  
 freixo - yasen  
 fruta - frute  
+frutose - frutos  
 frâncio - france yum  
 fulano - xi Fulan  
 fungo - fungu  
@@ -684,7 +702,7 @@ fácil - fasil
 fã - fan  
 férmio - fermi yum  
 fígado - hepate  
-fósforo - pospor  
+fósforo - fosfe  
 fóton (fotão) - foto so  
 
 ## G  
@@ -715,6 +733,9 @@ Germânia - Germania
 germânio - german yum  
 girafa - jirafa  
 girassol - sol hua  
+glicina - glukin  
+glicogênio - glukogen  
+glicosa - glukos  
 golfinho (delfim) - dolfin  
 gorila - gorila  
 governo - politi  
@@ -744,7 +765,8 @@ haste (talo, caule) - tana
 hemoglobina - hemi globin  
 hena - hina  
 Hesse (Héssia) - Hese  
-hidrogéno - hidro  
+hidrato - hidrate  
+hidrogéno - hidre  
 higiene - salu safata  
 hipopótamo - gubu  
 hmm… - hem…  
@@ -911,7 +933,7 @@ luz do dia - dia foto
 lábio - labi  
 lápide - gabur seku  
 lápis - kalam  
-lápis - karbon kalam  
+lápis - karbe kalam  
 lápis-lazúli - lazur petra  
 lâmpada (luminária) - lampa  
 léxico - loga di  
@@ -936,6 +958,8 @@ mais - max
 maldição - dusdua  
 malfeitoria (pecado) - dusati  
 malfeitoria (pecado) - duskar  
+malte - malte  
+maltose - maltos  
 mamão (papaia) - papaya  
 mancha (marca) - marke  
 mandarim - han guan ja  
@@ -943,6 +967,7 @@ mandioca (aipim) - manioka
 manga - kamisa xaka  
 manganésio - mangan  
 maniqueísmo - mani din  
+manteiga - bute  
 manto - juba  
 mantra - mantra  
 mar - hai  
@@ -993,6 +1018,9 @@ merda - xite
 mesa - meza  
 mestre - master  
 meta (gol) - gol  
+metano - metan  
+metanol - metanol  
+metil - metil  
 metro - mitre  
 microbiologia - mikro biologi  
 microscópio - mikroskope  
@@ -1070,6 +1098,8 @@ neve - hima
 nicho - nix  
 nihonium - nipon yum  
 ninho (vespiero) - nide  
+nitrato (azotato) - nitrate  
+nitrila - nitril  
 nitrogénio - nitre  
 nivel - par fase  
 nióbio - niobi yum  
@@ -1136,7 +1166,7 @@ ou - o
 ouro - auro  
 outono - pada mosim  
 outro - alo  
-oxigénio - oxi  
+oxigénio - oxe  
 oásis - vahi  
 
 ## P  
@@ -1213,6 +1243,8 @@ perigo - hatar
 perplexo (confuso) - ruhu mixe di  
 perturbar (turbulência) - disturbe  
 peru - dinde  
+peróxido - peroxide  
+peróxido de hidrogênio - hidre peroxide  
 pesado - veze di  
 pescador - pexe saide ja  
 pescoço (nuca, gargalo) - nuka  
@@ -1417,6 +1449,7 @@ sabedoria (sagacidade, sapiência) - sofita
 saber - sabi  
 saber - san  
 sacada (varanda) - veranda  
+sacarose - sukros  
 saco - sake  
 sacrifício - kurban  
 sagrada escritura - sante kanon  
@@ -1493,6 +1526,7 @@ sorgo - jovar
 sorvete (gelado) - ais krem  
 substância - kimi  
 suco (sumo) - jus  
+sulfato - sulfate  
 sunismo - suna islam din  
 suor - sueda  
 suástica (cruz gamada) - huke krus  
@@ -1675,6 +1709,7 @@ waffle - vafle
 xadrez - xah geme  
 xeque-mate - xah mata  
 xiismo - xia islam din  
+xilose - xilos  
 Xiva - xiva  
 xénon - xenon  
 

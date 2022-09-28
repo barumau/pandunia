@@ -75,9 +75,13 @@ Alaska - Alaska
 alga - alga (wodorost)  
 alga fungu - porost  
 alga jangal - las wodorostów  
-alkasus - lukrecja  
+alkan -   
+alken -   
+alkil -   
+alkin -   
 alkol - alkohol  
 alkol di - alkoholowy  
+alkasus - lukrecja  
 almari - kredens (szafa, szafka)  
 alo - inny  
 alo di - w innym wypadku (inaczej)  
@@ -109,6 +113,8 @@ Amerika - Ameryka (kontynent)
 Amerika di - amerykański  
 Amerika Samoa - Amerykańska Samoa  
 amerika yum - ameryk  
+amide -   
+amin -   
 amir - rozkaz, komenda  
 amir dexa - emirat  
 amir haki -   
@@ -552,7 +558,6 @@ bude - budka (kabina)
 budi - uświadomienie, świadomość; oświecenie, bodhi  
 budi di - świadomy; oświecony  
 bufete - bufet (szwedzki stół)  
-pesa plan - budżet  
 buku - książka  
 bulbul - słowik  
 bum - wybuch (eksplozja)  
@@ -568,6 +573,9 @@ buro riti -
 bus - autobus, autokar  
 bus halte - przystanek autobusowy  
 buste - biust  
+bute - masło  
+butan -   
+butil -   
 buta - but  
 buton - klawisz, przycisk, przełącznik, guzik  
 buton bano - klawiatura  
@@ -689,8 +697,8 @@ dai - duży
 dai anjil ja - ambasador  
 dai anjilkan - ambasada  
 dai dara -   
-dai gradu - wzmacniać (wzmocnić)  
 dai dom - pałac  
+dai gradu - wzmacniać (wzmocnić)  
 dai hai - ocean  
 dai lasun - czosnek olbrzymi  
 dai pau - działo  
@@ -726,10 +734,6 @@ dara mate - ciecz (płyn)
 dara mate di - ciekły (płynny)  
 dara tubo - lejek  
 darba - bić, uderzyć, uderzać  
-gradu - stopień, poziom, ranga, klasa  
-gradu di - stopniowy  
-gradu medan - gradient (gradacja, stopniowanie)  
-gradu mute - rozwój  
 darmestadi yum - darmsztadt  
 darte - grunt (ziemia, próchnica)  
 darte bon ja - nawóz  
@@ -898,9 +902,9 @@ dura di - chroniczny
 dura metre gi - stoper (sekundomierz)  
 dura zaman - czas (epoka, era)  
 dus -   
-dus gradu - dezaktualizować (pogorszyć)  
 dus deu sim -   
 dus forma di -   
+dus gradu - dezaktualizować (pogorszyć)  
 dus hal - trudność (trud)  
 dus jen -   
 dus nam - obraza (obelga)  
@@ -983,6 +987,9 @@ estronti yum - stront
 estude -   
 estude ja - student  
 estudekan - studio (pracownia)  
+etan -   
+etanol -   
+etil -   
 Etiopia - Etiopia  
 eu - korzystny (dobry)  
 eu anjil - ewangelia  
@@ -1326,6 +1333,8 @@ fen - część, ułamek
 fen da - wnieć wkład (przyczynić się)  
 fen di -   
 fen gata - analiza  
+fenil -   
+fenol -   
 fermi yum - ferm  
 fero - żelazo  
 festa - przyjęcie, święto, festiwal  
@@ -1380,6 +1389,7 @@ flexi -
 • reflexir -   
 • flexibil -   
 flur - fluor  
+fluride - fluorek  
 fobi - strach, fobia  
 fobi di -   
 fobi ja -   
@@ -1405,6 +1415,8 @@ forma - forma, kształt, morf
 • riforma -   
 forma so - morfem  
 forum - forum  
+fosfe - fosfor  
+fosfate - fosfat  
 foto - światło, oświetlenie  
 foto di - jasny, świetlny  
 foto frike - polerować (szlifować)  
@@ -1429,6 +1441,7 @@ France Polinesi - Polinezja Francuska
 france yum - frans  
 frem - rama  
 frike - trzeć (pocierać, obetrzeć, pucować)  
+frutos -   
 frute - owoc  
 frute bagi -   
 fufu -   
@@ -1509,6 +1522,7 @@ garparke - parking
 garanti - gwarancja  
 garde - chronić, strzec,  osłaniać, bronić  
 garde ja - strażnik, ochroniarz  
+garde zelo - zazdrosny  
 garma - ciepły  
 garma masala - garam masala  
 garma mosim - lato  
@@ -1527,10 +1541,10 @@ gati - twardy
 gati mate - ciało stałe  
 gati mate di - stały (sztywny)  
 gau - góra (szczyt)  
-gau gradu di -   
 gau di - wysoki  
 gau dipe - pionowy  
 gau dipe move -   
+gau gradu di -   
 gauta - wysokość  
 gau tanur - wielki piec  
 gau tehni -   
@@ -1579,13 +1593,14 @@ geo tika - działka (teren)
 german yum - german  
 Germania -   
 Gernezi - Guernsey  
+geste - gest  
 gi - maszyna  
 gida - prowadzić (wskazać drogę)  
 gida buku - przewodnik  
 gida ja - przewodnik  
 ging - równoległy (podłużny)  
-ging gradu - długość geograficzna  
 ging gola - długość geograficzna  
+ging gradu - długość geograficzna  
 ging lin -   
 gingam - kumkwat  
 gio -   
@@ -1599,6 +1614,10 @@ glu bande -
 glu di - lepki (kleisty)  
 glu grafi -   
 glu poto - glina  
+glukerol -   
+glukin -   
+glukogen -   
+glukos -   
 gluten - gluten  
 gol - cel  
 gola - koło, okrąg  
@@ -1613,6 +1632,10 @@ gorila - goryl
 goro - świnia  
 goro nama - wieprzowina  
 goton - bawełna  
+gradu - stopień, poziom, ranga, klasa  
+gradu di - stopniowy  
+gradu medan - gradient (gradacja, stopniowanie)  
+gradu mute - rozwój  
 grafi - opis, przedstawienie; wykres  
 grafi buku - książka z obrazkami  
 grafi culi -   
@@ -1782,8 +1805,10 @@ hevan logi - zoologia
 hevan logi di - zoologiczny  
 hevan toxi -   
 hibride - hybryda; kundel  
+hidre - wodór  
+hidrate -   
+hidre peroxide -   
 hidrargente - rtęć  
-hidro - wodór  
 hijabu - welon (woalka)  
 hima - śnieg  
 hima duna -   
@@ -1970,14 +1995,11 @@ jela ja - strażnik więzienny
 jela jen -   
 jelakan - więzienie, zakład karny  
 jele - żel, galareta  
-zelo -   
-garde zelo - zazdrosny  
 jen - osoba  
 jen (jen men) -   
 jen di - osobisty, intymny, prywatny  
 jenxen - żeń-szeń  
 Jerze - Jersey  
-geste - gest  
 jete -   
 • exjete -   
 • injete - zastrzyk (wstrzyknąć, wstrzykiwać)  
@@ -2141,11 +2163,15 @@ karaoke - karaoke
 karate - karate  
 karateja -   
 karavi - kminek  
+karbe - węgiel  
+karbe duoxide - dwutlenek węgla  
+karbohidrate -   
+karbide -   
+karbe kalam -   
+karbol -   
+karboxil -   
+karbe sui -   
 karbau - bawół domowy  
-karbon - węgiel  
-karbon duoxide - dwutlenek węgla  
-karbon kalam -   
-karbon sui -   
 karcof - karczoch zwyczajny  
 kardon - oset  
 kardon karcof - karczoch hiszpański  
@@ -2210,6 +2236,7 @@ kerne fizika - fizyka nuklearna
 kerne unta - fuzja jądrowa (synteza jądrowa, reakcja termojądrowa)  
 kerne vuki - broń nuklearna  
 kerubi - cherubin  
+keton -   
 ketel - czajnik  
 kexa - włos  
 kexa bande - opaska do włosów  
@@ -2329,6 +2356,7 @@ korte - krótki
 korte fa - skrócić, skracać  
 korte kata -   
 korte krokodil - aligator  
+kosi - szyć  
 kosmo - kosmos, wszechświat  
 kosmo biologi -   
 kosmo di - kosmiczny  
@@ -2597,7 +2625,6 @@ majang - madżong
 majenta - magenta  
 Makah - Mekka  
 makala - artykuł, tekst  
-makan - masło  
 makan hua - mlecz  
 makas - nożyce, nożyczki  
 Makau - Makau  
@@ -2610,6 +2637,8 @@ Malavi - Malawi
 malayali - malajski  
 malayu - malajski  
 Mali - Mali  
+malte - słód  
+maltos -   
 Malta - Malta  
 Malvinas nesi - Falklandy, Malwiny  
 mamal - ssak  
@@ -2670,12 +2699,12 @@ matur jen - osoba dorosła
 matur man - mężczyzna, dorosły samiec  
 mau - kot  
 max - bardzie  
-max gradu - zwiększyć o jeden  
 max di - dodatkowy  
 max di fen - większość  
 max fili - preferować (woleć)  
 max fili di - ulubiony  
 max fili sim -   
+max gradu - zwiększyć o jeden  
 max ka bas - zbyt  
 max ordu - wsparcie (wzmocnienie, zasilenie)  
 maxim - nabardziej, maksymalnie  
@@ -2756,6 +2785,10 @@ mesi di - mesjański
 mesi din - chrześcijaństwo  
 mesi din ja - chrześcijanin  
 mesi gene - Boże Narodzenie  
+metan -   
+metanol -   
+metil -   
+metilamin -   
 metal - metal  
 metal bede - kowadło  
 metal lin -   
@@ -3022,6 +3055,8 @@ nipon di - japoński
 nipon yum - nihonium  
 Nistre -   
 nitre - azot  
+nitrate -   
+nitril -   
 Niue - Niue  
 niuton - niuton (N)  
 nix - nisza, alkowa  
@@ -3107,7 +3142,7 @@ oste - kość
 oste jama - szkielet  
 oste xalke - łuska (blaszka, tarczka)  
 Ostria - Austria  
-oxi - tlen  
+oxe - tlen  
 oxide - tlenek  
 
 ## P  
@@ -3248,6 +3283,7 @@ pente - namalować, malować
 pente broxa -   
 pente ja - malarz  
 pente tela -   
+peroxide -   
 pera - gruszka  
 perex -   
 perex fa -   
@@ -3256,6 +3292,7 @@ pesa - pieniądze
 pesa diske - moneta  
 pesa kasa - pudełko, skrzynia  
 pesa kasa ja - kasjer  
+pesa plan - budżet  
 peta -   
 pete - brzuch  
 petra - skała  
@@ -3370,7 +3407,6 @@ pos di -
 pos fixe - przyrostek (sufiks)  
 pos poza -   
 pos zaman - przyszłość  
-pospor - fosfor  
 posta - poczta  
 posta cape - znaczek pocztowy  
 postakan - poczta, budynek poczty  
@@ -3796,7 +3832,6 @@ sistem di - systemowy
 sita - cytować  
 sita marke - cudzysłów  
 siti - miast, miasteczko  
-kosi - szyć  
 sivil - cywilizowany (ucywilizowany)  
 sivilta - cywilizacja  
 Slave - słowiański  
@@ -3883,12 +3918,14 @@ sui yau - pragnienie
 Suise - Szwajcaria  
 suka - wesoły (ucieszony; cieszyć się)  
 sukafa - cieszyć, podobać się  
-sukar - cukier  
-sukar bete - burak cukrowy  
-sukar di - słodki  
-sukar gana - trzcina cukrowa  
-sukar oranje - pomarańcza słodka (pomarańcza chińska)  
-sulfu - siarka  
+sukre - cukier  
+sukre bete - burak cukrowy  
+sukre di - słodki  
+sukre gana - trzcina cukrowa  
+sukre oranje - pomarańcza słodka (pomarańcza chińska)  
+sukros -   
+sulfe - siarka  
+sulfate - sulfat  
 sultan - siła, autorytet, władza  
 sultan dexa -   
 sultan ja - władca  
@@ -4231,9 +4268,9 @@ Vatikan - Watykan, Państwo Watykańskie
 vaxi - prać, umyć, myć  
 Vaxington DC - Waszyngton D.C  
 vei -   
-vei gradu - południk  
 vei di -   
 vei gola - południk  
+vei gradu - południk  
 vei lin -   
 vende - sprzedać (sprzedawać)  
 vende xope - handel  
@@ -4375,6 +4412,7 @@ xifu - mistrz (sensei)
 xigu - wypadek  
 xikaya -   
 xike - elegancki, szykowny  
+xilos -   
 xim - serce  
 xindau din - shintoizm, sintoizm  
 xipi - mokry (wilgotny)  
@@ -4517,13 +4555,14 @@ zardux din - zaratusztrianizm
 zardux din ja - zaratrustianin  
 zardux magi ja -   
 zebra - zebra  
+zelo -   
 zeta -   
 zeyil - brodawka  
 zeze -   
 zi -   
 zi forma -   
 zi seri - alfabet, abecadło  
-zigzage - zygzag  
+ziza - zygzag  
 zikura - ziggurat  
 Zimbabue - Zimbabwe  
 zina - zdrada małżeńska, cudzołóstwo  

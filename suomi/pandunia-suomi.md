@@ -108,9 +108,13 @@ Alaska - Alaska
 alga - levä  
 alga fungu - jäkälä  
 alga jangal - leväkasvusto  
-alkasus - lakritsi  
+alkan - alkaani  
+alken - alkeeni  
+alkil - alkyyli  
+alkin - alkyyni  
 alkol - alkoholi  
 alkol di - alkoholinen  
+alkasus - lakritsi  
 almari - kaappi  
 alo - muu (toinen)  
 alo di - muuten (toisin)  
@@ -142,6 +146,8 @@ Amerika - Amerikka
 Amerika di - amerikkalainen  
 Amerika Samoa - Amerikan Samoa  
 amerika yum - amerikium  
+amide - amidi  
+amin - amiini  
 amir - käsky (komento)  
 amir dexa - emiirikunta  
 amir haki - käskyvalta  
@@ -573,7 +579,6 @@ bude - koppi (koju)
 budi - ymmärrys (taju, oivallus)  
 budi di - valaistunut  
 bufete - noutopöytä (buffetti)  
-pesa plan - budjetti  
 buku - kirja  
 bulbul - satakieli  
 bum - räjähdys (pamaus)  
@@ -587,6 +592,9 @@ buro riti - etiketti (protokolla)
 bus - linja-auto (bussi)  
 bus halte - bussipysäkki (linja-autopysäkki)  
 buste - povi  
+bute - voi  
+butan - butaani  
+butil - butyyli  
 buta - saapas (buutsi)  
 buton - nappi (näppäin, kytkin, nappula)  
 buton bano - näppäimistö  
@@ -702,8 +710,8 @@ dai - iso (suuri)
 dai anjil ja - lähettiläs  
 dai anjilkan - lähetystö  
 dai dara - hyöky (vyöry)  
-dai gradu - korottaa  
 dai dom - palatsi  
+dai gradu - korottaa  
 dai hai - valtameri  
 dai lasun - jättilaukka  
 dai pau - tykki  
@@ -737,10 +745,6 @@ dara mate - neste
 dara mate di - nestemäinen  
 dara tubo - lappo  
 darba - lyödä (iskeä)  
-gradu - porras (aste, taso)  
-gradu di - asteittainen (porrastettu)  
-gradu medan - kaltevuus  
-gradu mute - kehitys  
 darmestadi yum - darmstadtium  
 darte - maa (multa)  
 darte bon ja - lannoite  
@@ -900,9 +904,9 @@ dura di - kestävä (krooninen)
 dura metre gi - sekuntikello  
 dura zaman - aikakausi  
 dus - paha (epäsuotuisa, epämiellyttävä, vastustava)  
-dus gradu - laskea tasoa  
 dus deu sim - dysteismi (usko jumalan pahuuteen)  
 dus forma di - epämuodostunut  
+dus gradu - laskea tasoa  
 dus hal - vaikeus (hankaluus)  
 dus jen - vihollinen  
 dus nam - loukkaus (herja)  
@@ -974,6 +978,9 @@ estronti yum - strontium
 estude - tutkielma  
 estude ja - opiskelija  
 estudekan - ateljee (studio)  
+etan - etaani  
+etanol - etanoli  
+etil - etyyli  
 Etiopia - Etiopia  
 eu - hyvä (eettisesti hyvä)  
 eu anjil - evankeliumi(hyvä sana)  
@@ -1302,6 +1309,8 @@ fen - osa (lohko, pala)
 fen da - osallistua (tehdä osansa)  
 fen di - osittainen  
 fen gata - analyysi  
+fenil - fenyyli  
+fenol - fenoli  
 fermi yum - fermium  
 fero - rauta  
 festa - juhlat  
@@ -1350,6 +1359,7 @@ flerof yum - flerovium
 • reflexi - heijastaa (taittaa takaisin)  
 • reflexir - heijastin  
 flur - fluori  
+fluride - fluoridi  
 fobi - kammo (fobia)  
 fobi di - pelokas  
 fobi ja - pelottava  
@@ -1372,6 +1382,8 @@ forma - muoto (morfi)
 • dusforma - turmella muoto (epämuodostunut)  
 forma so - morfeemi  
 forum - foorumi  
+fosfe - fosfori  
+fosfate - fosfaatti  
 foto - valo  
 foto di - valoisa  
 foto frike - kiillottaa  
@@ -1396,6 +1408,7 @@ France Polinesi - Ranskan Polynesia
 france yum - frankium  
 frem - kehys (raamit)  
 frike - hangata  
+frutos - fruktoosi (hedelmäsokeri)  
 frute - hedelmä  
 frute bagi - hedelmätarha  
 fufu - tahdas  
@@ -1474,6 +1487,7 @@ garparke - parkkipaikka
 garanti - takuu  
 garde - vartioida (vahtia)  
 garde ja - vartija (vahti)  
+garde zelo - mustasukkainen  
 garma - lämmin  
 garma masala - garam masala  
 garma mosim - kesä (suvi)  
@@ -1490,10 +1504,10 @@ gati - kova
 gati mate - kiinteä aine  
 gati mate di - kiinteä  
 gau - huippu  
-gau gradu di - korkeatasoinen (edistynyt)  
 gau di - korkea  
 gau dipe - pystysuuntainen  
 gau dipe move - liikkua ylös ja alas  
+gau gradu di - korkeatasoinen (edistynyt)  
 gauta - korkeus  
 gau tanur - masuuni  
 gau tehni - korkea teknologia  
@@ -1535,13 +1549,14 @@ geo tika - tontti (maakaistale)
 german yum - germanium  
 Germania - Germania  
 Gernezi - Guernsey  
+geste - ele  
 gi - kone  
 gida - opastaa (ohjata)  
 gida buku - matkaopas (opaskirja)  
 gida ja - opas (tiennäyttäjä)  
 ging - pitkittäinen  
-ging gradu - pituusaste  
 ging gola - pituuspiiri  
+ging gradu - pituusaste  
 ging lin - loimi  
 gingam - kumkvatti  
 gio - opettaa  
@@ -1555,6 +1570,10 @@ glu bande - laastari
 glu di - tahmainen (liimamainen)  
 glu grafi - tarra  
 glu poto - savi  
+glukerol - glyseroli  
+glukin - glysiini  
+glukogen - glykogeeni  
+glukos - glukoosi (rypälesokeri)  
 gluten - gluteeni  
 gol - maali (pelissä)  
 gola - piiri (ympyrä)  
@@ -1568,6 +1587,10 @@ gorila - gorilla
 goro - sika (possu)  
 goro nama - sianliha  
 goton - puuvilla  
+gradu - porras (aste, taso)  
+gradu di - asteittainen (porrastettu)  
+gradu medan - kaltevuus  
+gradu mute - kehitys  
 grafi - piirros (graafi)  
 grafi buku - kuvakirja  
 grafi culi - kuvankäsittely  
@@ -1725,8 +1748,10 @@ hevan logi - eläintiede (zoologia)
 hevan logi di - eläintieteellinen  
 hevan toxi - eläinmyrkky (zootoksiini)  
 hibride - risteytys (hybridi)  
+hidre - vety  
+hidrate - hydraatti  
+hidre peroxide - vetyperoksidi  
 hidrargente - elohopea  
-hidro - vety  
 hijabu - verho (huntu, peite)  
 hima - lumi  
 hima duna - lumikinos  
@@ -1904,14 +1929,11 @@ jela - vankeus
 jela ja - vanginvartija  
 jelakan - vankila  
 jele - hyytelö  
-zelo - into (kiihko)  
-garde zelo - mustasukkainen  
 jen - henkilö  
 jen (jen men) - ihmiset (yleisen persoonan pronomini)  
 jen di - henkilökohtainen (privaatti)  
 jenxen - ginseng  
 Jerze - Jersey  
-geste - ele  
 • injete - ruiskuttaa (ruiske, injektio)  
 • projete - hanke (projekti)  
 jete grafi - heijastaa kuvia (projisoida; projektio)  
@@ -2043,10 +2065,13 @@ karaoke - karaoke
 karate - karate  
 karateja - karateka (karaten harrastaja)  
 karavi - kumina  
+karbe - hiili  
+karbe duoxide - hiilidioksidi  
+karbohidrate - hiilihydraatti  
+karbide - karbidi  
+karbe kalam - lyijykynä  
+karboxil - karboksyyli  
 karbau - vesipuhveli  
-karbon - hiili  
-karbon duoxide - hiilidioksidi  
-karbon kalam - lyijykynä  
 karga - kuorma (lasti, taakka)  
 kargadan: - sarvikuono  
 kari - curry (karri)  
@@ -2103,6 +2128,7 @@ kerne fizika - ydinfysiikka
 kerne unta - ydinfuusio  
 kerne vuki - ydinase  
 kerubi - kerubi  
+keton - ketoni  
 ketel - kattila  
 kexa - hius (karva, tukka, hiukset)  
 kexa bande - hiuspanta  
@@ -2207,6 +2233,7 @@ korona virus - koronavirus
 korte - lyhyt  
 korte fa - lyhentää  
 korte kata - novelli  
+kosi - ommella  
 kosmo - avaruus (kosmos)  
 kosmo biologi - astrobiologia  
 kosmo di - kosminen  
@@ -2428,7 +2455,6 @@ mahala - kaupunginosa (kortteli, naapurusto)
 mais - maissi  
 majang - mahjong  
 makala - artikkeli (kirjoitus)  
-makan - voi  
 makas - sakset  
 Makau - Macao  
 mal - omaisuus  
@@ -2440,6 +2466,8 @@ Malavi - Malawi
 malayali - malajalam (eräs intialainen kieli)  
 malayu - malaiji  
 Mali - Mali  
+malte - mallas  
+maltos - maltoosi  
 Malta - Malta  
 Malvinas nesi - Falklandin saaret  
 mamal - nisäkäs  
@@ -2566,6 +2594,9 @@ mesi di - messiaaninen
 mesi din - kristinusko  
 mesi din ja - kristitty  
 mesi gene - joulu  
+metan - metaani  
+metanol - metanoli  
+metil - metyyli  
 metal - metalli  
 metal lin - vaijeri (metallilanka)  
 metal sanaja - seppä  
@@ -2792,6 +2823,8 @@ Nipon - Japani
 nipon di - japanilainen  
 nipon yum - nihonium  
 nitre - typpi  
+nitrate - nitraatti  
+nitril - nitriili  
 Niue - Niue  
 niuton - newton (N)  
 nix - alkovi  
@@ -2867,7 +2900,7 @@ osmi yum - osmium
 osmos - osmoosi  
 oste - luu  
 Ostria - Itävalta  
-oxi - happi  
+oxe - happi  
 oxide - oksidi  
 
 ## P  
@@ -2993,6 +3026,7 @@ pente - maalata
 pente broxa - pensseli (sivellin)  
 pente ja - maalari  
 pente tela - taulukangas  
+peroxide - peroksidi  
 pera - päärynä  
 perex - hajalla  
 perex fa - hajottaa (hävittää, raunioittaa)  
@@ -3001,6 +3035,7 @@ pesa - raha
 pesa diske - kolikko  
 pesa kasa - kassa  
 pesa kasa ja - kassanhoitaja  
+pesa plan - budjetti  
 peta - peta-  
 pete - maha (vatsa)  
 petra - kallio (kivi)  
@@ -3098,7 +3133,6 @@ pos di - myöhempi (takainen)
 pos fixe - loppuliite (jälkiliite)  
 pos poza - siirtää taakse  
 pos zaman - tulevaisuus  
-pospor - fosfori  
 posta - posti (postilähetys)  
 posta cape - postileima  
 postakan - postitoimisto  
@@ -3454,7 +3488,6 @@ sistem - järjestelmä (systeemi)
 sita - lainata (siteerata)  
 sita marke - lainausmerkki  
 siti - kaupunki  
-kosi - ommella  
 sivil - sivistynyt  
 sivilta - sivilisaatio  
 Slave - slaavilainen  
@@ -3533,10 +3566,12 @@ sui yau - jano
 Suise - Sveitsi  
 suka - tykätä (pitää, olla tyytyväinen jstkn; tyytyväinen, iloinen)  
 sukafa - ilostuttaa (tyydyttää)  
-sukar - sokeri  
-sukar di - sokerinen (makea)  
-sukar gana - sokeriruoko  
-sulfu - rikki  
+sukre - sokeri  
+sukre di - sokerinen (makea)  
+sukre gana - sokeriruoko  
+sukros - sakkaroosi  
+sulfe - rikki  
+sulfate - sulfaatti  
 sum - summa  
 sun - pian  
 suna - tapa (perinne)  
@@ -3855,9 +3890,9 @@ Vatikan - Vatikaanivaltio
 vaxi - pestä  
 Vaxington DC - Washington DC  
 vei - vaakatasossa  
-vei gradu - leveysaste  
 vei di - poikittainen (vaaka)  
 vei gola - leveyspiiri  
+vei gradu - leveysaste  
 vei lin - kude  
 vende - myydä  
 vende xope - kaupankäynti (osto ja myynti)  
@@ -3992,6 +4027,7 @@ xia islam din - šiialaisuus
 xigu - vahinko (onnettomuus)  
 xikaya - valitus (reklamaatio)  
 xike - elegantti  
+xilos - ksyloosi (puusokeri)  
 xim - sydän  
 xindau din - sintolaisuus  
 xipi - märkä (kostea)  
@@ -4124,11 +4160,12 @@ zardux din - zarathustralaisuus
 zardux din ja - zarathustralainen  
 zardux magi ja - zarathustralainen pappi  
 zebra - seepra  
+zelo - into (kiihko)  
 zeyil - syylä  
 zeze - kaksisiipinen  
 zi - kirjoitusmerkki  
 zi seri - aakkoset (ABC)  
-zigzage - siksakki  
+ziza - siksakki  
 zikura - zikkurat  
 Zimbabue - Zimbabwe  
 zina - haureus (uskottomuus)  
