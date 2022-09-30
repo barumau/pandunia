@@ -495,7 +495,6 @@ flerof yum - fleróvio
 flur - flúor  
 fluride - fluoreto  
 fobi ja - assustador  
-fong - abelha ou vespa  
 fonte kalam - caneta de tinta permanente  
 fora - furar (perfurar)  
 • dusforma - desfigurar  
@@ -689,6 +688,7 @@ huru - livre (forro)
 in bum - imploção  
 in klus - incluindo  
 in klus di - inclusivo  
+inlai - acesso  
 in migra - imigrar  
 in migra ja - imigrante  
 in tene gi - contêiner  
@@ -723,7 +723,6 @@ jen - pessoa
 • projete - projeto  
 jete grafi - projeção  
 jihade - luta  
-jin lai - acesso  
 jini - espírito (gênio)  
 jinji - jengibre  
 jinse - sexo  
@@ -820,6 +819,8 @@ karta grafi - cartografia
 karte - carta  
 karuba - alfarroba  
 kaska - casca (concha)  
+Kastilia - Castela  
+kastilia baxa - castelhano  
 katus - cacto  
 kauri - búzio  
 kava - cavar (escavar)  
@@ -854,6 +855,7 @@ kitaba gi - máquina de escrever
 kitabakan - biblioteca  
 kitaba suta - literatura  
 kivi - quivi  
+kivi frute - quivi  
 klar - claro  
 klien - cliente  
 klima mute - mudança climática  
@@ -942,6 +944,8 @@ lazur petra - lápis-lazúli
 leng mosim - inverno  
 leng mosim di - invernal (hibernal)  
 lense - lente  
+• deleta - delir (deletar)  
+letali - letal  
 letre - carta  
 letus - alface  
 leu - esquerdo  
@@ -1060,6 +1064,7 @@ meninge - meninge
 meranti - meranti  
 Merkur - Mercúrio  
 mes - mês  
+mesaje - месседж  
 metan - metano  
 metanol - metanol  
 metil - metil  
@@ -1079,8 +1084,19 @@ milke kardon - cardo-mariano
 mime - imitar (mimetizar)  
 mime ja - mímico  
 minta - hortelã  
+mira - mirar  
+• amira - admirar  
+mirabil - maravilha  
+miraje - miragem  
+mira plate - espelho  
 mirde - fraco  
 Misri - Egipto (Egito)  
+• exmiti - emitir  
+• konmitia - комиссия (комитет)  
+• tramition - передача  
+• tramitir - передатчик  
+mition - миссия  
+mitioner - миссионер  
 mitre - metro  
 mode - modo (maneira, jeito)  
 moka - árvore  
@@ -1622,8 +1638,8 @@ ver - verdadeiro
 veranda - sacada (varanda)  
 verme - verme  
 vermute - vermute  
-verse - encarar (afrontar; vérsus)  
 versi - encarar (afrontar; vérsus)  
+vespa - abelha ou vespa  
 veze di - pesado  
 vide - ver  
 vidou - viúvo  

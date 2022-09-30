@@ -1358,6 +1358,7 @@ flece ja - nuolentekijä
 flerof yum - flerovium  
 • reflexi - heijastaa (taittaa takaisin)  
 • reflexir - heijastin  
+• reflexi soni - kaiku  
 flur - fluori  
 fluride - fluoridi  
 fobi - kammo (fobia)  
@@ -1370,8 +1371,6 @@ fon loga - ääntää (lausua)
 fonlogi - fonologia (äänneoppi)  
 fonma - äänne (foneemi)  
 fon zi - kirjain  
-fong - mehiläinen tai ampiainen  
-fong nide - mehiläispesä  
 foni - fonio (heinäkasvi)  
 fonte - lähde (kaivo)  
 fonte kalam - mustekynä  
@@ -1847,10 +1846,12 @@ in bum - luhistuminen
 in di - sisä- (sisäinen)  
 in klus - mukaan lukien  
 in klus di - kattava  
+inlai - sisääntulo (pääsy)  
 in liste - sisällysluettelo  
 in migra - muuttaa maahan  
 in migra ja - maahanmuuttaja  
 in mise - tuoda sisään  
+inmun - sisäänkäynti  
 in nam - endonyymi (omakielinen nimi)  
 in puxe - pusertaa  
 in tene - sisältää  
@@ -1940,9 +1941,6 @@ jete grafi - heijastaa kuvia (projisoida; projektio)
 Jibraltar - Gibraltar  
 Jibuti - Djiboutia  
 jihade - kamppailu (taistelu)  
-jin - edistää  
-jin lai - pääsy  
-jin mun - sisäänkäynti  
 jini - henki (sielu)  
 jinji - inkivääri  
 jinse - sukupuoli  
@@ -2092,6 +2090,8 @@ karvan - karavaani (saattue)
 kasa - laatikko  
 kaska - kuori (suojakuori, suoja)  
 kastana - kastanja  
+Kastilia - Kastilia  
+kastilia baxa - kastilian kieli (espanjan kieli)  
 kasu - tapaus (seikka)  
 kata - kertomus (tarina, saaga)  
 Katalunia - Katalonia  
@@ -2171,7 +2171,8 @@ kitaba forma - tekstin muotoilu
 kitaba gi - kirjoituskone  
 kitabakan - kirjasto  
 kitaba suta - kirjallisuus  
-kivi - kiivi  
+kivi - kiivi (lintu)  
+kivi frute - kiivihedelmä  
 klar - selvä (selkeä)  
 klar! - tietysti (selvästi)  
 klas - luokka (kategoria)  
@@ -2348,6 +2349,11 @@ leng mosim - talvi
 leng mosim di - talvinen  
 lense - linssi  
 lenxi - harjoitus  
+leta - tappaa (tappo)  
+• deleta - tappaa pois (poistaa, hävittää)  
+• deletabil - hävitettävä  
+letali - tappava  
+letali doze - tappava annos  
 letre - kirje  
 letus - lehtisalaatti  
 leu - vasen  
@@ -2549,8 +2555,8 @@ medi gi - väline (instrumentti)
 medi noce - keskiyö (puoliyö)  
 medi xe - media  
 medu - hunaja  
-medu fong - mehiläinen  
-medu fong nide - mehiläispesä  
+medu vespa - mehiläinen  
+medu vespa nide - mehiläispesä  
 mega gram - tonni (1000 kg)  
 mega vate - megawatti (MW)  
 megi - pilvi  
@@ -2588,6 +2594,7 @@ mes nelu - huhtikuu
 mes tisa - syyskuu  
 mes tri - maaliskuu  
 mes un - tammikuu  
+mesaje - viesti  
 mesi - kristus (messias)  
 • anmesi - antikristus  
 mesi di - messiaaninen  
@@ -2632,16 +2639,25 @@ ministre ja - ministeri
 ministre ofis - ministeriö  
 minor - vähäinen  
 minute - minuutti  
-mira - heijastaa (peilata)  
+mira - tuijottaa (toljottaa)  
+• amira - ihailla  
+mirabil - ihmeteltävä  
+miraje - kangastus  
 mira plate - peili  
-mira sonde - kaiku  
+mirar - tuijottaja  
 misal - esimerkki  
-mise - lähettää  
-mise ja - lähettäjä (lähetin)  
-mise xe - lähetys  
 miskin - kurja (raukka)  
 Misri - Egypti  
 misri di - egyptiläinen  
+miti - lähettää  
+• exmiti - lähettää ulos  
+• konmitia - komitea (komissio)  
+• remiti - lähettää takaisin  
+• tramiti - välittää (siirtää, lähettää)  
+• tramition - välitys (siirtäminen, lähetys)  
+• tramitir - lähetin  
+mition - lähetys  
+mitioner - lähetti (lähetyssaarnaaja)  
 mitre - metri  
 mixe - sekoittaa  
 mixe gi - sekoitin  
@@ -3907,7 +3923,6 @@ ver - tosi (aito)
 veranda - kuisti (terassi, veranta, parveke)  
 verme - mato  
 vermute - vermutti  
-verse - kohti (päin)  
 versi - kohti (päin)  
 • deversi - kääntyä pois  
 • disversi - monitahoinen (monipuolinen)  
@@ -3919,6 +3934,8 @@ versi - kohti (päin)
 • perversi - kiero (perverssi)  
 • reversi - taaksepäin  
 version - versio (käännös, muunnelma)  
+vespa - mehiläinen tai ampiainen  
+vespa nide - mehiläispesä  
 veste - länsi  
 veste di - läntinen  
 veste gorila - lännengorilla  
@@ -4165,7 +4182,6 @@ zeyil - syylä
 zeze - kaksisiipinen  
 zi - kirjoitusmerkki  
 zi seri - aakkoset (ABC)  
-ziza - siksakki  
 zikura - zikkurat  
 Zimbabue - Zimbabwe  
 zina - haureus (uskottomuus)  
@@ -4175,6 +4191,7 @@ ziper - vetoketju
 zira - juustokumina (jeera)  
 zirkon - zirkoni  
 zirkon yum - zirkonium  
+ziza - siksakki  
 zizi - sihistä  
 zoku - vielä (yhä, jatkua)  
 zombi - zombi  

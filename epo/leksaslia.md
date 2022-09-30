@@ -405,7 +405,6 @@
 **fobi** *timo (fobio)* ← angla:-phobia, hispana:portugala:malaja:-fobia, franca:deu:-phobie, rusa:-фобия (-fobiya), turka:-fobi  
 **fokus** *koncentriĝo* ← angla:focus, hispana:portugala:foco, deu:Fokus, rusa:фо́кус, persa:فوکوس‎ (fokus)  
 **fon** ** ← angla:franca:phone, hispana:fono, portugala:fone, rusa:фона (fona), malaja:fon  
-**fong** *abelo aŭ vespo* ← mandarena:蜂 (fēng), kantona:蜂 (fung1), vua:蜂 (fon1), korea:봉 (bong), vjetnama:ong, taja:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)  
 **foni** ** ← volofa:foño, bam:fini, mnk:fíndi, mku:fónĩ, fula:fonnye, svahila:mfonio, angla:franca:hispana:malaja:fonio, deu:Foniohirse, japana:フォニオ (fonio)  
 **fonte** ** ← portugala:fonte, hispana:fuente, rusa:фонтан (fontan), franca:fontaine, angla:fountain, japana:噴水 (funsui)  
 **for** ** ← hispana:fuera, portugala:fora, deu:fort + angla:far  
@@ -747,7 +746,7 @@
 **kirate** ** ← araba: قِيرَاط‎ (qīrāṭ), angla:franca:carat, hispana:portugala:quilate, rusa:карат (karat), mandarena:克拉 (kèlā), japana:カラット (karatto), korea:캐럿 (kaereot), malaja:karat, svahila:karati, turka:kırat  
 **kisma** *sorto (destino)* ← araba: قِسْمَة‎ (qisma), hindia:क़िस्मत (qismat), bengala:কিসমত (kiśmôt), angla:kismet, rusa:кисмет (kismet), turka:kısmet  
 **kitaba** *skribo* ← araba:urdua:(kitāb), persa:(ketâb), turka:kitap, malaja:kitab, svahila:kitabu, hindia:किताब (kitāb)  
-**kivi** *kivo* ← angla:franca:hispana:malaja:svahila:kiwi, portugala:quivi, japana:キーウィ (kīwi), korea:키위 (kiwi), hindia:कीवी (kīvī), turka:kivi  
+**kivi frute** *kivo* ← angla:franca:hispana:malaja:svahila:kiwi, portugala:quivi, japana:キーウィ (kīwi), korea:키위 (kiwi), hindia:कीवी (kīvī), turka:kivi, araba: كِيوِي‎ (kiwī)  
 **klar** *klara* ← deu:klar, hispana:portugala:claro, angla:clear, franca:clair  
 **klas** ** ← angla:class, hispana:clase, portugala:franca:classe, rusa:класс (klass), کلاس‎ (kelâs), malaja:kelas, japana:クラス (kurasu)  
 **klien** ** ← angla:client, hispana:portugala:franca:cliente, rusa:клиент (klient), japana:クライアント (kuraianto), malaja:klien  
@@ -957,6 +956,7 @@
 **mer** *membro* ← angla:member, hispana:miembro, portugala:membro, franca:membre, japana:メンバー (menbā)  
 **meranti** *ŝoreo* ← malaja:deu:angla:franca:hispana:portugala:meranti  
 **mes** *monato* ← franca:mois, hispana:mez, portugala:mês, rusa:месяц (mes’ac), angla:menstral + svahila:mwezi  
+**mesaje** *mesaĝo* ← angla:deu:franca:message, hispana:mensaje, portugala:mensagem, turka:mesaj, japana:メッセージ (messēji), korea:메시지 (mesiji), rusa:месседж (messedzh), malaja:mesej  
 **mesi** *kristo* ← angla:messiah, franca:messie, hispana:mesías, portugala:messias, rusa:мессия (messiya), araba: مَسِيح‎ (masīḥ), hindia:मसीह (masīh), bengala:মসিহ (môśih), malaja:al-Masih, svahila:Masiya, turka:Mesih  
 **metal** *metalo* ← angla:hispana:portugala:turka:metal, franca:métal, deu:Metall, rusa:мета́лл (metáll)  
 **metre** *mezuri* ← angla:meter, hispana:portugala:-metro, rusa:метр turka:metre, + hindia:मात्रा (mātrā), bengala:মাত্রা (matra), malaja:matra  
@@ -977,12 +977,12 @@
 **minor** ** ← angla:minor, portugala:hispana:menor, franca:mineur, rusa:минорный (minornyy)  
 **minta** ** ← angla:mint, hispana:menta, franca:menthe, rusa:мята (m’ata), japana:ミント (minto)  
 **minute** *minuto* ← angla:minute, hispana:portugala:minuto, rusa:мину́та (minúta), hindia:मिनट (minaṭ), bengala:মিনিট (miniṭ), malaja:minit  
-**mira plate** *spegulo* ← angla:mirror, franca:miroir, araba:mirʾāh, arz:mirāya  
+**mira** ** ← franca:mirer, hispana:portugala:mirar + japana:見る (miru) + araba:مِرْآة‎ (mirʾāh)  
 **mirde** ** ← angla:mild, polona:mierny, hindia:मृदु (mridu), vua:微 (mi3), kantona:微 (mei4)  
 **misal** *ekzemplo* ← hindia:मिसाल (misāl), araba:(mithāl), persa:(mesâl), malaja:misal, svahila:mathalani, turka:mesela  
-**mise** ** ← angla:emit, hispana:remitir, portugala:emitir, franca:émettre  
 **miskin** *mizera* ← araba:مِسْكِين (miskīn), persa:مسکین‎ (meskin), turka:malaja:miskin, svahila:maskini, hindia:, bengala:মিসকিন (miśkin), franca:miskine, hispana:mezquino, portugala:mesquinho  
 **Misri** *Egipto* ← araba:(miṣr), turka:Mısır, svahila:Misri, hindia:मिस्र (misra), bengala:মিশর (miśôr)  
+**miti** ** ← angla:emit, franca:émettre, hispana:portugala:remitir, malaja:emisi, deu:Mission, rusa:миссия (missiya) + turka:komisyon, hindia:कमीशन (kamīśan), bengala:কমিশন (kômiśôn)  
 **mitre** *metro* ← angla:turka:metre, deu:malaja:meter, franca:mètre, hispana:portugala:metro, rusa:метр (metr), araba: متر‎ (mitr), mandarena:米 (mǐ), japana:メートル (mētoru), korea:미터 (miteo), vjetnama:mét, hindia:मीटर (mīṭar), bengala:মিটার (miṭar), svahila:mita  
 **mixe** *miksi* ← deu:mischen, rusa:мешать (měšat'), polona:mieszać, angla:mix, itala:miscelare, + hindia:मिश्रण (miśrān)  
 **mode** ** ← franca:angla:mode, hispana:portugala:modo  
@@ -1516,8 +1516,8 @@
 **ver** *vera* ← angla:very, itala:vero, rusa:верный (verniy), hispana:verdadero, portugala:verdadeiro, deu:wahr, franca:vrai  
 **veranda** *verando (balkono)* ← hindia:बरामदा (barāmd), portugala:varanda, malaja:beranda, angla:veranda, rusa:веранда (veranda), japana:ベランダ (beranda), korea:베란다 (beranda), svahila:varanda  
 **verme** ** ← angla:worm, portugala:verme, franca:ver, deu:Wurm  
-**verse** ** ← angla:versus, franca:verse, hispana:portugala:versar  
 **versi** ** ← angla:versus, franca:verse, hispana:portugala:versar + rusa:версия (versiya), malaja:versi  
+**vespa** *abelo aŭ vespo* ← hispana:avispa, portugala:itala:vespa, angla:wasp, deu:Wespe  
 **veste** ** ← angla:west, deu:West, franca:ouest, hispana:portugala:oeste, rusa:вест (vest)  
 **veze** *pezo* ← araba: وَزْن‎ (wazn), hindia:वज़न (vazan), bengala:ওজন (ojôn), kanara:ವಜ್ಜೆ (vajje), svahila:uzani + rusa:вес (ves) + franca:peser, hispana:portugala:peso  
 **vide** *vidi (rigardi)* ← rusa:видеть (videt’), itala:vedere, hispana:portugala:ver, polona:widzieć, angla:vide  
@@ -1642,6 +1642,6 @@
 **zoku** *ankoraŭ* ← vua:续 (zoq), kantona:續 (zuk6), japana:続 (zoku), korea:속 (sok), vjetnama:kế tục  
 **zombi** ** ← konga:nzambi, angla:zombie, hispana:turka:zombi, portugala:zumbi, rusa:зомби (zombi), araba:زُومْبِي‎ (zūmbī), hindia:ज़ोंबी (zombī), japana:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zona** *zono* ← greka:ζώνη (zónē), angla:franca:zone, hispana:portugala:zona, rusa:зона (zona)  
-**zukam** ** ← araba:زُكَام‎ (zukām), persa:زکام‎ (zukâm), hindia:ज़ुकाम (zukāma)  
+**zukam** ** ← araba:زُكَام‎ (zukām), hindia:ज़ुकाम (zukām) + mandarena:感(冒) (gǎn(mào)), japana:感(冒) (kan(bō)), korea:감(기) (gam(gi)), vjetnama:cảm  
 **zuku** *etno* ← mandarena:族 (zú), kantona:族 (zuk6), japana:族 (zoku), korea:족 (jok), vjetnama:tộc  
 **zumarde** *smeraldo* ← angla:emerald, franca:émeraude, hispana:portugala:esmeralda, japana:エメラルド (emerarudo) + araba: زُمُرُّد‎ (zumurrud), svahila:zumaridi, malaja:zamrud, rusa:изумруд (izumrud), mandarena:祖母绿 (zǔmǔlǜ)  

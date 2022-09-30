@@ -641,8 +641,6 @@ flerof yum - flérovium
 flur - fluor  
 fluride - fluorure  
 fobi ja - effrayant  
-fong - abeille ou guêpe  
-fong nide - ruche (nid d'abeille)  
 foni - fonio blanc  
 fonte kalam - stylo-plume  
 for - loin (hors, parti)  
@@ -864,6 +862,7 @@ iha uma - mule
 in bum - implosion  
 in klus - y compris  
 in klus di - inclusif  
+inlai - accès  
 in migra - immigrer  
 in migra ja - immigrant  
 in tene gi - conteneur  
@@ -904,7 +903,6 @@ jen (jen men) - on
 • projete - projet  
 jete grafi - projeter (image projection)  
 jihade - lutte  
-jin lai - accès  
 jini - esprit (génie)  
 jinji - gingembre  
 jinse - sexe  
@@ -1007,6 +1005,8 @@ karta grafi - cartographie
 karte - carte  
 karuba - caroube  
 kaska - carapace (coquille, coquillage, croûte)  
+Kastilia - Castille  
+kastilia baxa - castillan  
 katus - cactus  
 kauri - cauri  
 kava - creuser (fosse)  
@@ -1042,6 +1042,7 @@ kitaba gi - machine à écrire
 kitabakan - bibliothèque  
 kitaba suta - littérature  
 kivi - kiwi  
+kivi frute - kiwi  
 klar - clair  
 klien - client  
 klima mute - changement climatique  
@@ -1133,6 +1134,7 @@ lazur petra - lapis-lazuli
 leng mosim - hiver  
 leng mosim di - hivernal (hibernal)  
 lense - lentille  
+letali - létal  
 letre - lettre  
 letus - laitue  
 leu - gauche  
@@ -1239,7 +1241,7 @@ medi di - moyen
 medi dia - midi  
 medi noce - minuit  
 medu - miel  
-medu fong nide - rayon de miel  
+medu vespa nide - rayon de miel  
 megi - nuage  
 mei - beau  
 meita - beauté  
@@ -1253,6 +1255,7 @@ meranti - balau (meranti)
 Merkur - Mercure  
 mes - mois  
 mes bati - août  
+mesaje - mensaje  
 mesi - Christ (messie)  
 metan - méthane  
 metanol - méthanol (alcool de bois)  
@@ -1274,8 +1277,19 @@ milke kardon - chardon Marie
 mime - imiter  
 mime ja - imitateur (mime)  
 minta - menthe  
+mira - mirer  
+mirabil - merveille  
+miraje - mirage  
+mira plate - miroir  
 mirde - faible  
 Misri - Égypte  
+• exmiti - émettre  
+• konmitia - comisión (comité)  
+• tramiti - transmitir  
+• tramition - transmisión  
+• tramitir - transmisor  
+mition - misión  
+mitioner - misionero  
 mitre - mètre  
 mode - mode (façon, manière)  
 moka - arbre  
@@ -1881,10 +1895,11 @@ ver - vrai
 veranda - balcon  
 verme - ver  
 vermute - vermouth  
-verse - verse (face á)  
-versi - verser (face á)  
+versi - verser (verse, face á)  
 • intraversi - introverti  
 • perversi - pervers  
+vespa - abeille ou guêpe  
+vespa nide - ruche (nid d'abeille)  
 veze - poids (lourdeur, gravité)  
 veze di - lourd  
 veze metre gi - balance (poids)  

@@ -791,7 +791,6 @@ javabu - ответ
 jebu - карман  
 • projete - проект  
 jihade - борьба (бой)  
-jin lai - доступ  
 jinji - имбирь  
 jinse - пол  
 jinselogi - гендерные исследования  
@@ -898,6 +897,8 @@ karta grafi - картография
 karte - карта  
 karuba - рожковое дерево  
 kaska - оболочка (кора, панцирь)  
+Kastilia - Кастилия  
+kastilia baxa - кастильский язык  
 katana - катана  
 katus - кактус  
 kauri - каури  
@@ -935,6 +936,7 @@ kitabakan - библиотека
 kitaba minister - библиотекарь  
 kitaba suta - литература (словесность)  
 kivi - киви  
+kivi frute - киви  
 klien - клиент (покупатель, зака́зчик)  
 klima - климат  
 klima mute - изменение климата  
@@ -1022,6 +1024,7 @@ lazur petra - лазурит
 leng mosim - зима  
 leng mosim di - зимний  
 lense - линза  
+letali - летальный  
 letre - письмо  
 letus - салат-латук  
 leu - левый  
@@ -1128,7 +1131,7 @@ medi gi - средство
 medi noce - полночь  
 medi xe - медиа (посредник, буфер)  
 medu - мёд  
-medu fong nide - улей (соты)  
+medu vespa nide - улей (соты)  
 megi - облако  
 megi di - туманный  
 mei - красивый  
@@ -1143,6 +1146,7 @@ mendelef yum - менделевий
 meranti - шорея  
 Merkur - Меркурий  
 mes - месяц  
+mesaje - رِسالة‎  
 metan - метан  
 metanol - метанол  
 metil - метил  
@@ -1161,6 +1165,8 @@ milke kardon - расторопша пятнистая
 mime - имитировать  
 mime ja - мим (имитатор)  
 minta - мята  
+miraje - мираж  
+mira plate - зеркало  
 mirde - слабый  
 Misri - Египет  
 mitre - метр  
@@ -1219,8 +1225,8 @@ natia - народ  (нация)
 natia medi - междунаро́дный  
 nati baxa - родной язык  
 nati loka - место рождения  
-natri - натрий  
 natre bilor - натрит (натр, натрон, кристаллическая сода)  
+natri - натрий  
 nau - мозг  
 nau di - мозговой (церебральный)  
 nau hin - безмозглый  

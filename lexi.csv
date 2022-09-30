@@ -1376,6 +1376,7 @@ flexi|flexi|||eng:flex, fra:fléchir, spa:por:flexionar + deu:Reflex, rus:реф
 flexi-de|• deflexi||||deflect (bend away)||||||||||||||||||||||
 flexi-re|• reflexi||||reflect (bend back)|||||||||||||||||||||heijastaa (taittaa takaisin)|
 flexi-re.r|• reflexir||||reflector|||||||||||||||||||||heijastin|
+flexi-re.soni|• reflexi soni||||echo|||eco|||||||||||||||||eĥo|kaiku|echo
 flexi.bil|• flexibil||||flexible ||||||||||||||||||||||
 flur|flur|yum 009|F|eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور|fluorine||fluor|flúor|flúor|фтор||फ्लोरीन|ফ্লুরিন||fluor|فلور|fluor|florini||氟||フッ素|플루오르|flo|fluoro|fluori|fluor
 flur.id|fluride|kim|||fluoride|Fluoride|fluorure|fluoruro|fluoreto|фторид||||||||||氟化物||弗化物||||fluoridi|fluorek
@@ -1389,8 +1390,6 @@ fon.loga|fon loga||||pronounce (articulate)|||||||||||||||||||||ääntää (laus
 fon.logi|fonlogi||||phonology|||fonología||||||||||||||||||fonologia (äänneoppi)|fonologia
 fon.ma|fonma||||phoneme|||fonema||||||||||||||||||äänne (foneemi)|fonem
 fon.zi|fon zi||||letter (character, written symbol)|||letra (carácter)|||||||||harf|herufi|||||||litero|kirjain|litera, znak
-fong|fong|bio||zho:蜂 (fēng), yue:蜂 (fung1), wuu:蜂 (fon1), kor:봉 (bong), vie:ong, tha:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)|bee or wasp||abeille ou guêpe|abeja o avispa|abelha ou vespa|||||||||||蜂||蜂|||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
-fong.nide|fong nide||||bee nest (beehive, wasp's nest)||ruche (nid d'abeille)|avispero (colmena)||||||||||||||蜂の巣||||mehiläispesä|ul (gniazdo pszczół lub os)
 foni|foni|bio|Digitaria|wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)|fonio millet (acha rice)||fonio blanc|mijo fonio||||||||||mfonio||||フォニオ||||fonio (heinäkasvi)|
 fonte|fonte|||por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|fountain (spring, well)|||fuente (manantial)||||||||||||||||||lähde (kaivo)|fontanna (studnia, źródło)
 fonte.kalam|fonte kalam||||fountain pen||stylo-plume|estilógrafo|caneta de tinta permanente|авторучка||||||||||钢笔||||||mustekynä|
@@ -1890,10 +1889,12 @@ in.bum|in bum||||implosion||implosion|implosión|imploção|имплозия||||
 in.di|in di||||inner (internal)|||interior (interno)|||||||||||||||||ena|sisä- (sisäinen)|wewnętrzny
 in.klus|in klus||||including||y compris|incluido|incluindo|||||||||||||||||mukaan lukien|
 in.klus.di|in klus di||||inclusive||inclusif|inclusivo|inclusivo|||||||||||||||||kattava|
+in.lai|inlai||||entry (access)||accès|acceso|acesso|||||||||||||||||sisääntulo (pääsy)|
 in.liste|in liste||||table of contents (inventory)|||índice de contenidos||||||||||||||||||sisällysluettelo|spis treści (tabela zawartości)
 in.migra|in migra||||immigrate (move in)||immigrer|inmigrar|imigrar|иммигрировать||||||||||移民 (移居)||移住する (移民する)||nhập cư||muuttaa maahan|
 in.migra.ja|in migra ja||||immigrant||immigrant|inmigrante|imigrante|иммигрант||||||||||移民者||移民 (移住者)||dân nhập cư||maahanmuuttaja|
 in.mise|in mise||||import|||importar||||||||||||||||||tuoda sisään|importować (zaimportować)
+in.mun|inmun||||entrance|||entrada||||||||||||||||||sisäänkäynti|wejście
 in.nam|in nam||||endonym|||endónimo||||||||||||||||||endonyymi (omakielinen nimi)|endonim
 in.puxe|in puxe||||squeeze (squish)|||||||||||||||||||||pusertaa|ścisnąć (sciskać, wycisnąć)
 in.tene|in tene||||contain (include)|||contener||||||||||||||||||sisältää|zawierać
@@ -1991,9 +1992,6 @@ jete.grafi|jete grafi||||project (cast; projection image)||projeter (image proje
 Jibraltar|Jibraltar|dexa|GI||Gibraltar|||Gibraltar||||||||||||||||||Gibraltar|Gibraltar
 Jibuti|Jibuti|dexa|DJ||Djibouti|||Yibuti||||||||||||||||||Djiboutia|Dżibuti
 jihade|jihade|||ara: جهاد (jihād), tur:cihat, swa:jihadi + eng:fra:por:may:jihad, spa:yihad, rus:джихад (džihad), jpn:ジハード (jihādo), kor:지하드 (jihadeu), hin:जिहाद (jihād)|struggle (strife)||lutte|lucha|luta|борьба (бой)|||||||mücadele (cihat)|||||||||kamppailu (taistelu)|
-jin|jin||||advancement (milestone)|||||||||||||||||||||edistää|
-jin.lai|jin lai||||access (admission, accessibility)||accès|acceso|acesso|доступ||प्रवेश|||capaian (akses, laluan)||erişim|||||アクセス||||pääsy|
-jin.mun|jin mun||||entrance|||entrada||||||||||||||||||sisäänkäynti|wejście
 jini|jini|||hin:जान (jān), ben:জান (jan), tur:can + ara: جِنّ (jinn), swa:jini, rus:джинн (džinn) + eng:genie, fra:génie, spa:genio, por:gênio|spirit (soul, vitality, life force)||esprit (génie)|espíritu (genio)|espírito (gênio)|||जान|জান||||can|moyo||||||||henki (sielu)|
 jinji|jinji|||eng:ginger, fra:gingembre, spa:gengibre, por:jengibre, zho:姜 (jiāng), tam:இஞ்சி (inji), ara: زنجبيل‎ (zanjabīl), tur:zencefil|ginger||gingembre|gengibre|jengibre|имбирь||अदरक|||jahe||zencefil|||姜|||||zingibro|inkivääri|imbir
 jinse|jinse|||ara:urd:(jins), fas:(jens), swa:jinsi, tur:cins, eng:gender, por:gênero, jpn:ジェンダー (jendā)|gender (sex)||sexe|sexo (género)|sexo|пол||लिंग|লিঙ্গ||jenis kelamin|جِنْس|cinsiyet|jinsia||性别||性別 (ジェンダー)|성별|giới tính|sekso|sukupuoli|płeć
@@ -2178,6 +2176,8 @@ karvan|karvan|||fas:urd:(kârvân), tur:kervan, hin:कारवाँ (kārvā
 kasa|kasa|||lat:capsa, eng:fra:case, por:caixa, spa:caja, rus:касса (kassa), swa:kasha, ara:(qafaṣ), hin:क़फ़स (qafas), tur:kafes|box (container)|||||||||||||||||||||laatikko|
 kaska|kaska|||spa:cáscara, por:casca + nan:殼 (kag4), wuu:殼 (khoq4), jpn:殻 (kaku)|shell (crust, carapace, shield)||carapace (coquille, coquillage, croûte)|carapacho (cáscara, concha, corteza, capa)|casca (concha)|оболочка (кора, панцирь)||||||||||壳 (皮)||殻 (皮)||||kuori (suojakuori, suoja)|skorupa (pancerz, muszla)
 kastana|kastana|bio|Castanea|spa:castaňa, ara:(kastanāʾ), tur:kestane, rus:каштан (kaštan)|chestnut|||castaña|||||||||||||||||kaŝtano|kastanja|kasztan
+kastil.ia|Kastilia||||Castil|Kastilien|Castille|Castilla|Castela|Кастилия||||||||||||||||Kastilia|
+kastil.ia.baxa|kastilia baxa||||Castilian (Spanish)||castillan|castellano|castelhano|кастильский язык||||||||||||||||kastilian kieli (espanjan kieli)|
 kasu|kasu|||eng:case, fra:cas, spa:por:caso, deu:Kasus|event (case, instance)|||acontecimiento (caso, suceso, evento)||||||||||||||||||tapaus (seikka)|wydarzenie, przypadek, sytuacja
 kata|kata|||hin:कथा (kathā), ben:কথা (kôtha), tam:கதை (katai), tel:కత (kata), khm:កថា (kaʼthaa), tgl:katha, may:kata + jpn:語る (kataru)|tale (story, legend, saga)|||historia (cuento, relato, leyenda)|||||||||||||||||rakonto|kertomus (tarina, saaga)|opowiadanie, opowieść, legenda, saga
 kata.ja|kata ja||||narrator||||||||||||||||||||||
@@ -2264,7 +2264,8 @@ kitaba.kan|kitabakan||||library||bibliothèque|biblioteca|biblioteca|библи�
 kitaba.minister|kitaba minister||||librarian|||bibliotecario||библиотекарь||||||||||||図書係|||||bibliotekarz
 kitaba.so|kitaba so||||grapheme|||grafema|||||||||grafem (yazbirim)|||||書記素|||||
 kitaba.suta|kitaba suta||||literature||littérature|literatura|literatura|литература (словесность)||साहित्य (अदब)|সাহিত্য||kesusasteraan|أَدَب‎|literatür (edebiyat)|fasihi||文学||文献 (文学, 文芸)|문학|văn chương (văn học)|literaturo|kirjallisuus|
-kivi|kivi|bio||eng:fra:spa:may:swa:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi|kiwi fruit||kiwi|kiwi fruta|quivi|киви||कीवी|||buah kiwi||kivi|||奇异果||キーウィフルーツ|다래 (키위)|trái ki wi (trái dương đào)|kivo|kiivi|owoc kiwi
+kivi|kivi|bio|Apteryx||kiwi bird|Kiwi|kiwi|kiwi|quivi|киви||कीवी||||كِيوِي‎|kivi|||无翼鸟||キーウィ|키위||apterigedo|kiivi (lintu)|kiwi
+kivi.frut|kivi frute|bio|Actinidia deliciosa|eng:fra:spa:may:swa:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi, ara: كِيوِي‎ (kiwī)|kiwi fruit|Kiwi (chinesische Stachelbeere)|kiwi|kiwi fruta|quivi|киви||कीवी|||buah kiwi||kivi|||奇异果 (猕猴桃)|奇異果|キーウィフルーツ|다래 (키위)|trái ki wi (trái dương đào)|kivo|kiivihedelmä|owoc kiwi
 klar|klar|||deu:klar, spa:por:claro, eng:clear, fra:clair|clear (obvious)||clair|claro|claro||||||||||||||||klara|selvä (selkeä)|przeźroczysty, jasny
 klar!|klar!||||of course! (obviously)||||||||||||||||||||kompreneble|tietysti (selvästi)|oczywiście
 klas|klas|||eng:class, spa:clase, por:fra:classe, rus:класс (klass), کلاس‎ (kelâs), may:kelas, jpn:クラス (kurasu)|class (category)|||clase (categoría)||||||||||||||部門 (級)||||luokka (kategoria)|klasa, kategoria
@@ -2474,6 +2475,11 @@ leng.mosim|leng mosim||||winter||hiver|invierno|inverno|зима||सर्द�
 leng.mosim.di|leng mosim di||||wintry||hivernal (hibernal)|invernal|invernal (hibernal)|зимний|||||||||||||||vintra|talvinen|zimowy
 lense|lense|||eng:lens, fra:lentille, spa:por:lente, rus:линза (linza), hin:लेंस (lens), ben:লেন্স (lenś), may:lensa, jpn:レンズ (renzu), kor:렌즈 (renjeu)|lens||lentille|lente|lente|линза||लेंस|লেন্স||lensa (kanta)|عَدَسَة‎|mercek (adese, lens)|||透镜||レンズ|렌즈|thấu kính||linssi|soczewka
 lenxi|lenxi|||zho:练习 (liànxí), jpn:練習 (renshū), kor:련습 (ryeonseup)|exercise|||ensayo (ejercitio)|||||||||||||||||ekzerco|harjoitus|ćwiczenie
+leta|leta||||kill (slay; violent death)|||||||||||||||||||||tappaa (tappo)|
+leta-de|• deleta||||delete (eliminate, kill off, wipe off)||||delir (deletar)|||||||||||||||||tappaa pois (poistaa, hävittää)|
+leta-de.bil|• deletabil||||delible (eliminable)|||deleble||||||||||||||||||hävitettävä|
+leta.li|letali||||lethal|letal (tödlich)|létal|letal|letal|летальный||||||||||||||||tappava|
+leta.li.doz|letali doze||||lethal dose|||||||||||||||||||||tappava annos|
 letre|letre|||eng:letter, fra:lettre, hin:लेटर (leṭar), jpn:ター (retā)|letter (written message)||lettre|carta|carta|письмо||ख़त (पत्र, चिट्ठी)|চিঠি||surat|رِسَالَة‎|mektup|barua||信 (书信)||手紙|편지|thư|letero|kirje|list
 letus|letus|bio||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|lettuce||laitue|lechuga|alface|салат-латук||लेटिष|লেটুস|||||||莴苣||レタス|||laktuko|lehtisalaatti|sałata
 leu|leu|||ltn:laevus, eng:left; levo-, fra:lévo-, spa:por:levo-, rus:левый (levyy), pol:lewy|left||gauche|izquierdo|esquerdo|левый||बायीं|||kiri||sol|kushoto||左||左||||vasen|lewy (lewostronny, z lewej strony)
@@ -2708,9 +2714,9 @@ medi.gi|medi gi||||instrument (means)|||medio (instrumento)|meio (instrumento)|�
 medi.noce|medi noce||||midnight||minuit|medianoche|meia-noite|полночь||मध्यरात|মধ্যরাত||tengah malam|مُنْتَصَف اَللَّيْل‎|gece yarısı|||半夜 (午夜)||真夜中|자정|nửa đêm|noktmezo|keskiyö (puoliyö)|północ
 medi.xe|medi xe||||medium (media, buffer)|||medio (búfer)||медиа (посредник, буфер)||||||||||||媒体 (バッファ)||||media|media
 medu|medu|||rus:мёд (myod), hin:मधु (madhu), ben:মধু (môdhu), may:madu + por:mel, fra:spa:miel + yue:蜜 (mat6)|honey||miel|miel|mel|мёд||मधु (शहद)|মধু||madu (air lebah)||bal|uki||蜜||蜂蜜|꿀 (밀)|mật ong|mielo|hunaja|miód
-medu.fong|medu fong|bio|Apis||honeybee|||abeja||||मधुमक्खी|মৌমাছি||lebah (tawon)||arı|nyuki||蜜蜂||蜜蜂|벌 (밀봉)|ong|abelo|mehiläinen|pszczoła miodna
-medu.fong.nide|medu fong nide||||beehive (honeycomb)||rayon de miel|colmena (panal)||улей (соты)|||||sarang lebah|||sega||||蜂の巣 (ハニカム)||||mehiläispesä|plaster
-medu.fong.sanduku|medu fong sanduku||||beehive (beehouse)|||||||||||||||蜂箱||養蜂箱|||||ul
+medu.vespa|medu vespa|bio|Apis||honeybee|||abeja||||मधुमक्खी|মৌমাছি||lebah (tawon)||arı|nyuki||蜜蜂||蜜蜂|벌 (밀봉)|ong|abelo|mehiläinen|pszczoła miodna
+medu.vespa.nide|medu vespa nide||||beehive (honeycomb)||rayon de miel|colmena (panal)||улей (соты)|||||sarang lebah|||sega||||蜂の巣 (ハニカム)||||mehiläispesä|plaster
+medu.vespa.sanduku|medu vespa sanduku||||beehive (beehouse)|||||||||||||||蜂箱||養蜂箱|||||ul
 mega|mega|nomer||eng:fra:spa:por:may:tur:mega-, rus:мега- (mega-), jpn:メガ (mega), kor:메가- (mega-)|million (mega-)|||millón (mega-)||||||||||||百万 (兆)||１００万 (メガ)|||miliono|miljoona (mega-)|milion
 mega.gram|mega gram|unomete|t, Mg||tonne (metric ton)|||tonelada||||||||||||||||||tonni (1000 kg)|tona
 mega.vate|mega vate|unomete|MW||megawat (MW)|||megavatio||||||||||||||||||megawatti (MW)|megawat
@@ -2755,6 +2761,7 @@ mes.nelu|mes nelu|mes|||April|||abril||||||||||||||４月||||huhtikuu|lipiec
 mes.tisa|mes tisa|mes|||September|||septiembre||||||||||||||９月||||syyskuu|grudzień
 mes.tri|mes tri|mes|||March|||marzo||||||||||||||３月||||maaliskuu|czerwiec
 mes.un|mes un|mes|||January|||enero||||||||||||||１月||||tammikuu|styczeń
+mesaje|mesaje|||eng:deu:fra:message, spa:mensaje, por:mensagem, tur:mesaj, jpn:メッセージ (messēji), kor:메시지 (mesiji), rus:месседж (messedzh), may:mesej|message|message|mensaje|mensagem|месседж|رِسالة‎||सन्देश (रिसाला)|||pesan (mesej)|||||信息||伝言 (メッセージ)|소식 (메시지)|tin nhắn|mesaĝo|viesti|wiadomość
 mesi|mesi|din||eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, swa:Masiya, tur:Mesih|Christ (messiah)||Christ (messie)|Cristo (mesías)||||मसीह|মসিহ||Kristus (al-Masih)|مَسِيح|İsa Mesih|Kristo|||||||kristo|kristus (messias)|Chrystus, mesjasz
 mesi-an|• anmesi||||antichrist|||Anticristo||||||||||||||||||antikristus|antychryst
 mesi.di|mesi di||||messianic|||mesiánico||||||||||||||||||messiaaninen|mesjański
@@ -2810,18 +2817,27 @@ ministre.ofis|ministre ofis||||ministry|||ministerio||||||||||||||||||ministeri�
 minor|minor|||eng:minor, por:spa:menor, fra:mineur, rus:минорный (minornyy)|minor (not major)|||menor (leve)||||||||||||||||||vähäinen|mniejszościowy
 minta|minta|bio|Mentha|eng:mint, spa:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)|mint||menthe|menta|hortelã|мята||pudinaa|||pudina|||mnanaa||薄荷||ハッカ|||||mięta
 minute|minute|||eng:minute, spa:por:minuto, rus:мину́та (minúta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit|minute|||minuto|||||||||||||||||minuto|minuutti|minuta
-mira|mira||||reflect|||reflejar|||||||||||||||||speguli|heijastaa (peilata)|odbić, odbijać
-mira.plate|mira plate|||eng:mirror, fra:miroir, ara:mirʾāh, arz:mirāya|mirror|||espejo (retrovisor)|||||||||||||||||spegulo|peili|lustro
-mira.sonde|mira sonde||||echo|||eco|||||||||||||||||eĥo|kaiku|echo
+mira|mira|||fra:mirer, spa:por:mirar + jpn:見る (miru) + ara:مِرْآة‎ (mirʾāh)|stare (watch, gaze)||mirer|mirar|mirar|||||||||||||||||tuijottaa (toljottaa)|
+mira-a|• amira||||admire|||admirar|admirar|||||||||||||||||ihailla|
+mira.bil|mirabil||||wonderful (marvel, mirable)||merveille|maravilla|maravilha|||||||||||||||||ihmeteltävä|
+mira.je|miraje||||mirage||mirage|espejismo|miragem|мираж||मरीचिका|মরীচিকা||fata morgana (khayalan belaka)|سَرَاب‎|serap|||海市蜃楼||蜃気楼|신기루|ảo ảnh||kangastus|miraż (fatamorgana)
+mira.plate|mira plate||||mirror||miroir|espejo (retrovisor)|espelho|зеркало||दर्पण (आईना)|আয়না||cermin|مِرْآة‎|ayna (mirat)|kioo||镜子||鏡|거울|gương|spegulo|peili|lustro
+mira.r|mirar||||watcher|||||||||||||||||||||tuijottaja|
 Miranda|Miranda|planeta 7 lun 1|||Miranda||||||||||||||||||||||
 mirde|mirde|||eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yue:微 (mei4)|faint (depending on context: soft, dull, mild, weak, slow, subtle)||faible|ligero (leve, vago, débil, borroso)|fraco|слабый||||||||||微弱的||微か|||||nikły
 misal|misal|||hin:मिसाल (misāl), ara:(mithāl), fas:(mesâl), may:misal, swa:mathalani, tur:mesela|example (instance of)|||ejemplo||||||||||mfrano|||||||ekzemplo|esimerkki|przykład
-mise|mise|||eng:emit, spa:remitir, por:emitir, fra:émettre|send (emit, transmit)|||enviar (transmitar)||||||||||||||||||lähettää|wysłać (wyemitować)
-mise.ja|mise ja||||sender (transmitter)|||remitente||||||||||||||||||lähettäjä (lähetin)|nadawca
-mise.xe|mise xe||||mission (transmission, emission)|||emisión||||||||||||||||||lähetys|misja
 miskin|miskin|||ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho|poor (miserable)|||pobre (miserable)|||||||||||||||||mizera|kurja (raukka)|biedny, mizerny
 Misri|Misri|dexa|EG|ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)|Egypt||Égypte|Egipto|Egipto (Egito)|Египет||मिस्र|মিশর||Mesir||Mısır|Misri||埃及||エジプト|이집트|Ai Cập|Egipto|Egypti|Egipt
 misri.di|misri di||||Egyptian|||egipcio|||||||||||||||||egipta|egyptiläinen|egipski
+miti|miti|||eng:emit, fra:émettre, spa:por:remitir, may:emisi, deu:Mission, rus:миссия (missiya) + tur:komisyon, hin:कमीशन (kamīśan), ben:কমিশন (kômiśôn)|send (emit, transmit)|||enviar (transmitar)||||||||||||||||||lähettää|wysłać (wyemitować)
+miti-ex|• exmiti||||emit||émettre|emitir|emitir||||||emisi|||||||||||lähettää ulos|
+miti-kon-a|• konmitia||||commission (committee)|commission (comité)|comisión (comité)|comissão (comité)|комиссия (комитет)|||आयोग (कमीशन)|||komisi (komite)|কমিশন||komisyon||委员会||委員会|위원회|uỷ ban|komiteo (komisiono)|komitea (komissio)|komisja (komitet)
+miti-re|• remiti||||send back (remit)|||||||||||||||||||||lähettää takaisin|
+miti-tra|• tramiti||||transmit |transmettre|transmitir|transmitir||||||||||||||||||välittää (siirtää, lähettää)|
+miti-tra.on|• tramition||||transmission|transmission|transmisión|transmissão|передача|||||||||||||||||välitys (siirtäminen, lähetys)|
+miti-tra.r|• tramitir||||transmitter|transmetteur|transmisor|transmissor|передатчик|||ट्रांसमीटर||||||||||||||lähetin|
+miti.on|mition||||mission (sending)|mission|misión|missão|миссия||||||misi|||||||||||lähetys|
+miti.on.er|mitioner||||missionary|missionnaire|misionero|missionário|миссионер||||||misionaris||misyoner|mmisionari||传教士||宣教師|선교사|người truyền giáo|misiisto|lähetti (lähetyssaarnaaja)|misjonarz
 mitre|mitre|||eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita|meter (100 cm)||mètre|metro|metro|метр||मीटर|মিটার||meter|متر‎|metre|mita||米 (公尺)||メートル|미터|mét|metro|metri|metr
 mixe|mixe|||deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)|mix (blend)|||mezclar||мешать|||||||||||||||miksi|sekoittaa|miksować, mieszać
 mixe.alkol|mixe alkol||||cocktail|||cóctel||коктейль||||||||||||カクテル (混合酒)|||||koktajl
@@ -2948,8 +2964,8 @@ nati.baxa|nati baxa||||native language (mother tongue)||langue maternelle|lengua
 nati.den|nati den||||birthday|||cumpleaños|||||||||||||||||naskiĝtago|syntymäpäivä|urodziny
 nati.loka|nati loka||||birthplace||lieu de naissance|lugar de nacimiento|terra natal|место рождения||जन्मस्थान|||||doğum yeri|||出生地||出生地|출생지|nơi sinh (sinh quán)|naskiĝejo|syntymäpaikka|
 nati.stan|nati stan||||region of birth||||terra natal|||||||||||||||||synnyinseutu|
+natre.bilor|natre bilor||||natron|||natrón||натрит (натр, натрон, кристаллическая сода)|||||||||||||||||
 natri|natri|yum 011|Na|eng:sodium, fra:sodium, spa:sodio, por:sódio, rus:натрий, zho:钠 (nà), jpn:ナトリウム, kor:나트륨, vie:natri, hin:सोडियम, ben:সোডিয়াম, may:natrium, swa:natiri|sodium||sodium|sodio|sódio|натрий||सोडियम|সোডিয়াম||natrium|صوديوم|sodyum|natiri||钠||ナトリウム|나트륨|natri|natrio|natrium|sód
-natri.bilor|natre bilor||||natron|||natrón||натрит (натр, натрон, кристаллическая сода)|||||||||||||||||
 nau|nau|||zho:脑 (nǎo), yue:腦 (nou5), jpn:脳  (nō), kor:뇌 (noe), vie:não|brain||cerveau (cervelle)|cerebro|cérebro|мозг||मस्तिष्क (दिमाग़)|মগজ||otak (benak)|دِمَاغ‎|beyin|ubongo||脑||脳|뇌|óc (não)|cerbo|aivot|mózg
 nau.di|nau di||||cerebral||cérébral|cerebral|cerebral|мозговой (церебральный)|||||||beyinsel|||大脑的|||||cerba|aivoperäinen (aivo-)|mózgowy
 nau.hin|nau hin||||brainless|||descerebrado||безмозглый|||মস্তিষ্কহীন||||||||||||sencerba|aivoton|bezmózgi
@@ -4249,8 +4265,7 @@ ver|ver|||eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verd
 veranda|veranda|||hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda), swa:varanda|veranda (balcony, terrace, porch)||balcon|balcón (terraza, veranda)|sacada (varanda)|балкон||छज्जा|||langkan (beranda)||balkon|baraza (varanda)||阳台||ベランダ (バルコニー, 縁側)|||verando (balkono)|kuisti (terassi, veranta, parveke)|weranda, balkon, taras, ganek
 verme|verme|||eng:worm, por:verme, fra:ver, deu:Wurm|worm||ver|verme|verme|||||||||||||||||mato|robak
 vermute|vermute|alkohol|||vermouth||vermouth|vermú|vermute|вермут|||||||||||||||vermuto|vermutti|wermut
-verse|verse|||eng:versus, fra:verse, spa:por:versar|face (versus)||verse (face á)|afrontar|encarar (afrontar; vérsus)|||||||||||||||||kohti (päin)|
-versi|versi|||eng:versus, fra:verse, spa:por:versar + rus:версия (versiya), may:versi|turn toward (direct, flip; versus)||verser (face á)|versar (afrontar)|encarar (afrontar; vérsus)|||||||||||||||||kohti (päin)|
+versi|versi|||eng:versus, fra:verse, spa:por:versar + rus:версия (versiya), may:versi|turn toward (direct, flip; versus)||verser (verse, face á)|versar (afrontar)|encarar (afrontar; vérsus)|||||||||||||||||kohti (päin)|
 versi-de|• deversi||||avert|||||||||||||||||||||kääntyä pois|
 versi-dis|• disversi||||diverse|||||||||||||||||||||monitahoinen (monipuolinen)|
 versi-ex|• exversi||||extroverted (outgoing)|||||экстраверт||||||||||外向的||外向的な||||ulospäinsuuntautunut (ekstrovertti)|
@@ -4261,6 +4276,8 @@ versi-kon.tra|• kontraversi||||controversy  |||||||||||||||||||||vastakohtaisu
 versi-per|• perversi||||pervert (twist; perverse)||pervers|||||||||||||||||||kiero (perverssi)|
 versi-re|• reversi||||reverse (invert, direct back; backwards)|||invertir||||||||||||||逆らう||||taaksepäin|
 versi.on|version||||version (variation, edition)|||versión (modelo)|||||||||||||||||versio|versio (käännös, muunnelma)|wersja (wariacja, edycja, wydanie)
+vespa|vespa|biu||spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe|bee or wasp||abeille ou guêpe|abeja o avispa|abelha ou vespa|||||||||||蜂||蜂|||abelo aŭ vespo|mehiläinen tai ampiainen|pszczoła lub osa
+vespa.nide|vespa nide||||bee nest (beehive, wasp's nest)||ruche (nid d'abeille)|avispero (colmena)||||||||||||||蜂の巣||||mehiläispesä|ul (gniazdo pszczół lub os)
 veste|veste|||eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)|west|||oeste||||||||||||||||||länsi|zachód
 veste.di|veste di||||western|||occidental||||||||||||||||||läntinen|zachodni
 veste.gorila|veste gorila||||western gorilla|||gorila occidental||западная горилла||||||||||||ニシゴリラ||||lännengorilla|goryl zachodni
@@ -4520,7 +4537,6 @@ zeze|zeze||Diptera|swa:nzi, sot:ntsintsi, lin:kon:nzinzi, ibo:ijiji, yor:eṣin�
 zi|zi|||zho:字 (zì), jpn:字 (ji), kor:자 (ja)|character (written symbol)||caractère|carácter|caractere|буква (символ, иероглиф)||||||||||字||字|자|chữ||kirjoitusmerkki|
 zi.forma|zi forma||||font|||fuenta||шрифт||||||||||||フォント (字体)|||||
 zi.seri|zi seri||||alphabet||alphabet|alfabeto||алфавит||||||||||字母表|||||alfabeto|aakkoset (ABC)|alfabet, abecadło
-ziza|ziza|||eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)|zigzag|||zigzag||||||||||||||||||siksakki|zygzag
 zikura|zikura|||ara:(ziqqūra), deu:Zikkurat, rus:зиккурат (zikkurat)|ziggurat|||zigurat||||||||||||||||||zikkurat|ziggurat
 Zimbabue|Zimbabue|dexa|ZW||Zimbabwe|||Zimbabue||Зимбабве||||||||||||||||Zimbabwe|Zimbabwe
 zina|zina|||ara:(zināʾ), may:tur:zina, swa:zinaa, urd:(zinā), fas:(zenā)|adultery (infidelity)|||adulterio|||||||||||||||||malfideleco|haureus (uskottomuus)|zdrada małżeńska, cudzołóstwo
@@ -4530,11 +4546,12 @@ zipe.r|ziper||||zipper (zip)|||cremallera||||||||||||||||||vetoketju|zamek błys
 zira|zira|bio|Cuminum cyminum|fas: زیره‎ (zire), hin:ज़ीरा (zīrā), ben:জিরা (zīra), tam:சீரகம் (sīrakam), rus:зира (zira), zho:孜然 (zīrán), swa:mjira|cumin (jeera)||cumin|comino|cominho|тмин (зира)||ज़ीरा|জিরা|||||mjira||孜然|||||kumino|juustokumina (jeera)|kumin, kmin
 zirkon|zirkon||||zircon|||circón||циркон||||||||||||||||zirkoni|
 zirkon.yum|zirkon yum|yum 040|Zr|eng:zirconium, fra:zirconium, spa:circonio, por:zircónio, rus:цирконий, jpn:ジルコニウム, kor:지르코늄, vie:ziriconi, hin:जर्कोनियम, ben:জিরকোনিয়াম, may:zirkonium, swa:zirikoni, ara: زيركونيوم|zirconium||zirconium|circonio|zircónio|цирконий||जर्कोनियम|জিরকোনিয়াম||zirkonium|زيركونيوم|zirkonyum|zirikoni||锆||ジルコニウム|지르코늄|ziriconi|zirkonio|zirkonium|cyrkon
+ziza|ziza|||eng:fra:spa:zigzag, por:ziguezague, rus:зигзаг (zigzag), jpn:ジグザグ (jiguzagu)|zigzag|||zigzag||||||||||||||||||siksakki|zygzag
 zizi|zizi|||zho:zizi eng:sizzle|sizzle|||chisporrotear||||||||||||||||||sihistä|skwierczeć
 zoku|zoku|||wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục|continue (go on, keep on, carry on, proceed, still, yet)||continuer (poursuivre, encore)|todavía (aún)|ainda|ещё|||||||devam etmek|||还 (依然)||まだ|||ankoraŭ|vielä (yhä, jatkua)|wciąż, nadal; kontynuować, wznawiać, ponawiać
 zombi|zombi|||kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)|zombie||zombi|zombi|zumbi|||ज़ोंबी||||||||||||||zombi|zombie, zombi
 zona|zona|||ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)|belt (zone)||zone|cinturón (zona)|zona|пояс (зона)|||||||||||||||zono|vyö|pas, strefa
-zukam|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)|||resfriado (catarro)||||||||||||||||||vilustuminen|przeziębienie, katar
+zukam|zukam|||ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm|cold (illness)|||resfriado (catarro)||||||||||||||||||vilustuminen|przeziębienie, katar
 zuku|zuku|||zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc|ethnic group||ethnie|etnia|etnia|этнос||||||||||民族||民族|민족|dân tộc|etno|kansanryhmä (etninen ryhmä)|grupa etniczna
 zuku.di|zuku di||||ethnic||ethnique|étnico|étnico|этнический|||||||etnik|||||民族の|민족의||etna|etninen|etniczny
 zuku.medi.di|zuku medi di||||interethnic|||interétnica||межэтнический|||||||||||||||interetna|kansanryhmien välinen|międzyetniczny

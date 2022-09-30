@@ -1217,6 +1217,7 @@ fizika ja - físico (científico)
 fizika suta - física  
 flece - flecha  
 flerof yum - flerovio  
+• reflexi soni - eco  
 flur - flúor  
 fluride - fluoruro  
 fobi - miedo (-fobia)  
@@ -1226,8 +1227,6 @@ fon - fono (segmento acústico)
 fonlogi - fonología  
 fonma - fonema  
 fon zi - letra (carácter)  
-fong - abeja o avispa  
-fong nide - avispero (colmena)  
 foni - mijo fonio  
 fonte - fuente (manantial)  
 fonte kalam - estilógrafo  
@@ -1676,10 +1675,12 @@ in bum - implosión
 in di - interior (interno)  
 in klus - incluido  
 in klus di - inclusivo  
+inlai - acceso  
 in liste - índice de contenidos  
 in migra - inmigrar  
 in migra ja - inmigrante  
 in mise - importar  
+inmun - entrada  
 in nam - endónimo  
 in tene - contener  
 in tene gi - contenedor  
@@ -1766,8 +1767,6 @@ jete grafi - proyectar (proyección)
 Jibraltar - Gibraltar  
 Jibuti - Yibuti  
 jihade - lucha  
-jin lai - acceso  
-jin mun - entrada  
 jini - espíritu (genio)  
 jinji - gengibre  
 jinse - sexo (género)  
@@ -1929,6 +1928,8 @@ karuba - algarrobo
 karvan - caravana  
 kaska - carapacho (cáscara, concha, corteza, capa)  
 kastana - castaña  
+Kastilia - Castilla  
+kastilia baxa - castellano  
 kasu - acontecimiento (caso, suceso, evento)  
 kata - historia (cuento, relato, leyenda)  
 Katalunia - Cataluña  
@@ -2006,7 +2007,8 @@ kitabakan - biblioteca
 kitaba minister - bibliotecario  
 kitaba so - grafema  
 kitaba suta - literatura  
-kivi - kiwi fruta  
+kivi - kiwi  
+kivi frute - kiwi fruta  
 klar - claro  
 klas - clase (categoría)  
 klien - cliente  
@@ -2186,6 +2188,8 @@ leng mosim - invierno
 leng mosim di - invernal  
 lense - lente  
 lenxi - ensayo (ejercitio)  
+• deletabil - deleble  
+letali - letal  
 letre - carta  
 letus - lechuga  
 leu - izquierdo  
@@ -2400,8 +2404,8 @@ medi gi - medio (instrumento)
 medi noce - medianoche  
 medi xe - medio (búfer)  
 medu - miel  
-medu fong - abeja  
-medu fong nide - colmena (panal)  
+medu vespa - abeja  
+medu vespa nide - colmena (panal)  
 mega gram - tonelada  
 mega vate - megavatio  
 megi - nube  
@@ -2442,6 +2446,7 @@ mes nelu - abril
 mes tisa - septiembre  
 mes tri - marzo  
 mes un - enero  
+mesaje - mensagem  
 mesi - Cristo (mesías)  
 • anmesi - Anticristo  
 mesi di - mesiánico  
@@ -2494,17 +2499,24 @@ ministre ofis - ministerio
 minor - menor (leve)  
 minta - menta  
 minute - minuto  
-mira - reflejar  
+mira - mirar  
+• amira - admirar  
+mirabil - maravilla  
+miraje - espejismo  
 mira plate - espejo (retrovisor)  
-mira sonde - eco  
 mirde - ligero (leve, vago, débil, borroso)  
 misal - ejemplo  
-mise - enviar (transmitar)  
-mise ja - remitente  
-mise xe - emisión  
 miskin - pobre (miserable)  
 Misri - Egipto  
 misri di - egipcio  
+miti - enviar (transmitar)  
+• exmiti - emitir  
+• konmitia - comissão (comité)  
+• tramiti - transmitir  
+• tramition - transmissão  
+• tramitir - transmissor  
+mition - missão  
+mitioner - missionário  
 mitre - metro  
 mixe - mezclar  
 mixe alkol - cóctel  
@@ -2623,8 +2635,8 @@ natia sosia simja - Nazi
 nati baxa - lengua materna  
 nati den - cumpleaños  
 nati loka - lugar de nacimiento  
-natri - sodio  
 natre bilor - natrón  
+natri - sodio  
 nau - cerebro  
 nau di - cerebral  
 nau hin - descerebrado  
@@ -3782,11 +3794,12 @@ ver - verdadero
 veranda - balcón (terraza, veranda)  
 verme - verme  
 vermute - vermú  
-verse - afrontar  
 versi - versar (afrontar)  
 • intraversi - introvertido  
 • reversi - invertir  
 version - versión (modelo)  
+vespa - abeja o avispa  
+vespa nide - avispero (colmena)  
 veste - oeste  
 veste di - occidental  
 veste gorila - gorila occidental  
@@ -4013,7 +4026,6 @@ zeyil - verruga
 zi - carácter  
 zi forma - fuenta  
 zi seri - alfabeto  
-ziza - zigzag  
 zikura - zigurat  
 Zimbabue - Zimbabue  
 zina - adulterio  
@@ -4023,6 +4035,7 @@ ziper - cremallera
 zira - comino  
 zirkon - circón  
 zirkon yum - circonio  
+ziza - zigzag  
 zizi - chisporrotear  
 zoku - todavía (aún)  
 zombi - zombi  

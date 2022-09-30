@@ -20,7 +20,6 @@ accent (stress) - balaton
 accept (get, receive) - acepe  
 accept (say okay) - fa oke  
 acceptable - okebil  
-access (admission, accessibility) - jin lai  
 access (admission; reach) - acese  
 accessibility (ease of access) - tene fasilta  
 accessible (within reach) - tenebil  
@@ -45,11 +44,11 @@ adjective - sifa loga
 administer (govern) - fa politi  
 admiral - hai amir ja  
 admire (adore) - fanati  
+admire - amira  
 adult - matur jen  
 adultery (infidelity) - zina  
 advance (progress, go forward, enter) - be jin  
 advanced (high-level) - gau gradu di  
-advancement (milestone) - jin  
 advancement (milestone) - progresion  
 adventure (venture) - ventur  
 adventurer - ventur ja  
@@ -386,11 +385,11 @@ bed - bede
 bedouin (nomadic) - badavi  
 bedrock - baze petra  
 bedroom - sona kamar  
-bee nest (beehive, wasp's nest) - fong nide  
-bee or wasp - fong  
+bee nest (beehive, wasp's nest) - vespa nide  
+bee or wasp - vespa  
 beef - mumu nama  
-beehive (beehouse) - medu fong sanduku  
-beehive (honeycomb) - medu fong nide  
+beehive (beehouse) - medu vespa sanduku  
+beehive (honeycomb) - medu vespa nide  
 beer - bir  
 beetroot - bete  
 begin (get started) - be xuru  
@@ -668,6 +667,8 @@ cash box - pesa kasa
 cashier - pesa kasa ja  
 cassava (manioc) - manioka  
 caste - gene klas  
+Castil - Kastilia  
+Castilian (Spanish) - kastilia baxa  
 cat - mau  
 Catalonia - Katalunia  
 catch (capture, seize, snatch, intercept) - kape  
@@ -846,6 +847,7 @@ come (arrive) - lai
 comic (cartoon) - grafi kata  
 comma - koma  
 command line (console, terminal) - amir lin  
+commission (committee) - konmitia  
 common (general) - putong  
 common (mutual) - kon su  
 common (shared) - konun  
@@ -1082,6 +1084,8 @@ deform - deforma
 defunct (out of use) - defunsi  
 degree Celsius - celsius gradu  
 Deimos - Deimos  
+delete (eliminate, kill off, wipe off) - deleta  
+delible (eliminable) - deletabil  
 delicious (yummy) - bon guste di  
 democracy - demi krati  
 democrat - demi krati ja  
@@ -1249,7 +1253,7 @@ Easter - paska
 eastern - dong di  
 eastern gorilla - dong gorila  
 easy - fasil  
-echo - mira sonde  
+echo - reflexi soni  
 ecology (study of environment) - ekologi  
 economics - mal nomi  
 Ecuador - Ekuador  
@@ -1280,6 +1284,7 @@ embassy - dai anjilkan
 emerald - zumarde  
 emir - amir ja  
 emirate - amir dexa  
+emit - exmiti  
 emoji (smiley, emoticon) - gamo zi  
 emotion (feeling) - gamo  
 emotional (emotive) - gamo di  
@@ -1307,7 +1312,8 @@ enjoy (play) - be vanu
 enough (sufficient) - bas  
 enter (get in) - be in  
 enter (insert, put in) - fa in  
-entrance - jin mun  
+entrance - inmun  
+entry (access) - inlai  
 environment (nature) - eko  
 environmental (natural) - eko di  
 enzyme - enzim  
@@ -1411,7 +1417,6 @@ eyelash - yen kexa
 ## F  
 
 fable - hevan kata  
-face (versus) - verse  
 face - muka  
 face powder - muka fun  
 faction (clique) - xia  
@@ -1903,7 +1908,7 @@ homoromantic - sam romanse di
 homosexual - sam sexe di  
 Honduras - Onduras  
 honey - medu  
-honeybee - medu fong  
+honeybee - medu vespa  
 honeydew (green melon) - luga melon  
 Hong Kong, SAR China - Hong Gong  
 honorable (respectable) - onor di  
@@ -2159,6 +2164,7 @@ key lime - kaguji limon
 keyboard - buton bano  
 Khartoum - Hartum  
 kidney - nefre  
+kill (slay; violent death) - leta  
 kill - matafa  
 killer - mataja  
 kilogram (kg) - kilogram  
@@ -2174,7 +2180,8 @@ kiosk (pavilion) - kioske
 Kiribati - Kiribati  
 kiss - cum  
 kitchen - kuke kamar  
-kiwi fruit - kivi  
+kiwi bird - kivi  
+kiwi fruit - kivi frute  
 knead (massage) - fa masaje  
 knee - guta  
 kneecap - guta kaska oste  
@@ -2265,6 +2272,8 @@ less (fewer) - min poli
 less - min  
 lesson (teaching) - xula xe  
 let's - haide  
+lethal - letali  
+lethal dose - letali doze  
 letter (character, written symbol) - fon zi  
 letter (written message) - letre  
 lettuce - letus  
@@ -2527,6 +2536,7 @@ Mercury - Merkur
 merge (fuse) - be yung liga  
 meridian (line of longitude) - ging gola  
 message - anjil  
+message - mesaje  
 messenger - anjil ja  
 messianic - mesi di  
 metal - metal  
@@ -2575,13 +2585,15 @@ minor (not major) - minor
 minority - min di fen  
 mint - minta  
 minute - minute  
+mirage - miraje  
 Miranda - Miranda  
 mirror - mira plate  
 misdeed (sin, vice) - dusati  
 misdeed (sin, vice) - duskar  
 misfortune (bad luck) - dus zar  
 misfortune (misery, affliction, calamity, catastrophe, disaster, harm) - bela  
-mission (transmission, emission) - mise xe  
+mission (sending) - mition  
+missionary - mitioner  
 mistake (error, fault, blunder, bug) - galte  
 misunderstand - galte budi  
 mix (blend) - mixe  
@@ -3384,7 +3396,6 @@ reduce - kamfa
 reed (cane) - gana  
 reed pen - gana kalam  
 reflect (bend back) - reflexi  
-reflect - mira  
 reflector - reflexir  
 reform - riforma  
 refuse (deny, decline) - nega  
@@ -3647,8 +3658,8 @@ semaphore - semi forar
 sememe - semima  
 seminal - seme di  
 senator - supra vakil ja  
-send (emit, transmit) - mise  
-sender (transmitter) - mise ja  
+send (emit, transmit) - miti  
+send back (remit) - remiti  
 Senegal - Senegal  
 senior fellow (senpai) - sen bei  
 sense (method of perception) - sense  
@@ -3878,6 +3889,7 @@ stand - lipa
 stand still - be estasi  
 star - sing  
 starboard (right side of a ship) - nave raite  
+stare (watch, gaze) - mira  
 starship - astro nave  
 state (condition, status, situation) - hal  
 static (stationary, still) - estasi di  
@@ -4202,6 +4214,9 @@ train ticket - tren tikete
 transit (pass through or across) - fa transe  
 transit (transport, passage) - trapas  
 translate (interpret; translation, interpretation) - trabaxa  
+transmission - tramition  
+transmit  - tramiti  
+transmitter - tramitir  
 Transnistria - Transe Nistre Dexa  
 transparent (see-through, clear) - transe vide di  
 transport (transportation) - traporte  
@@ -4410,6 +4425,7 @@ washing machine - fuku vaxi gi
 Washington DC - Vaxington DC  
 watch (spectate, observe) - spete  
 watcher (spectator, observer) - speter  
+watcher - mirar  
 water - sui  
 water buffalo - karbau  
 water lily (nenuphar) - nenufar  
@@ -4504,6 +4520,7 @@ woman (adult female) - matur fem
 wonder (awe, marvel) - ajabu  
 wonder (be amazed) - be ajabu  
 wonder (be interested in, would like to know) - be sabi vol  
+wonderful (marvel, mirable) - mirabil  
 wood (timber) - moka mate  
 wood board (plank) - moka bano  
 wool (fleece) - meme kexa  

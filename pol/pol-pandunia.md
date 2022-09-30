@@ -355,6 +355,7 @@
  - in tene gi  
  - in verse jen  
  - in vide  
+ - inlai  
  - Io  
  - IP adres  
  - jaibai  
@@ -367,8 +368,6 @@
  - jen (jen men)  
  - jete  
  - jihade  
- - jin  
- - jin lai  
  - jini  
  - jinselogi  
  - jong xulakan  
@@ -402,6 +401,8 @@
  - karkan  
  - karuba  
  - kasa  
+ - Kastilia  
+ - kastilia baxa  
  - kata ja  
  - katana  
  - kentaur  
@@ -443,6 +444,9 @@
  - lasa stan  
  - lazur  
  - le  
+ - leta  
+ - letali  
+ - letali doze  
  - li  
  - liga di sanduku  
  - ligu  
@@ -492,7 +496,11 @@
  - mime ja  
  - mimen su  
  - min poli  
+ - mira  
+ - mirabil  
  - Miranda  
+ - mirar  
+ - mition  
  - moli hua cai  
  - moto cati  
  - muxu cakra  
@@ -707,7 +715,6 @@
  - vei  
  - vei di  
  - vei lin  
- - verse  
  - versi  
  - viki  
  - viki pedia  
@@ -762,6 +769,7 @@
  - acepe  
  - acese  
  - agreser  
+ - amira  
  - anair bio di  
  - anama  
  - anding  
@@ -788,6 +796,8 @@
  - deflexi  
  - deforma  
  - defunsi  
+ - deleta  
+ - deletabil  
  - depele  
  - depena  
  - deprese  
@@ -806,6 +816,7 @@
  - exjete  
  - exkava  
  - exkurse  
+ - exmiti  
  - expele  
  - expoze  
  - exprese  
@@ -875,6 +886,7 @@
  - reflexir  
  - regrese  
  - rejete  
+ - remiti  
  - repele  
  - represe  
  - respete  
@@ -894,6 +906,9 @@
  - tomi grafi  
  - trajiva  
  - trakurse  
+ - tramiti  
+ - tramition  
+ - tramitir  
  - tritomi  
  - unbaxaka  
  - ungene  
@@ -1487,7 +1502,7 @@ Dżakarta - Jakarta
 Dżibuti - Jibuti  
 dżul (J) - jul  
 E - E  
-echo - mira sonde  
+echo - reflexi soni  
 efekt halo - foto gola  
 egipski - misri di  
 Egipt - Misri  
@@ -2006,6 +2021,7 @@ Kiribati - Kiribati
 kisić (marynować) - fa acar  
 kiszony (marynowany) - acar di  
 kiur - kuri yum  
+kiwi - kivi  
 klapa - pada mun  
 klasa, kategoria - klas  
 klasyczny - cen yang di  
@@ -2059,6 +2075,7 @@ kolumna, filar - kolum
 komar, moskit - moski  
 komik - yumor ja  
 komiks; kreskówka - grafi kata  
+komisja (komitet) - konmitia  
 Komory - Komoro nesi  
 kompas (namagnesowana igła) - ponte pin  
 kompatybilny (pasujący) - kon funsibil  
@@ -2431,7 +2448,8 @@ ministry - ministre ofis
 minuta - minute  
 minąć, mijać (czas) - fa dura  
 minąć, mijać, przeminąć, przemijać - pas  
-misja - mise xe  
+miraż (fatamorgana) - miraje  
+misjonarz - mitioner  
 mistrz (ekspert) - master  
 mistrz (sensei) - xifu  
 mit (boska opowieść) - deu kata  
@@ -2543,7 +2561,6 @@ nacjonalista - natia simja
 nacjonalizm - natia sim  
 nad - a supra  
 nadajnik radiowy - radio mise gi  
-nadawca - mise ja  
 nadać, wysłać pocztą - fa posta  
 Naddniestrze - Transe Nistre Dexa  
 nadzieja, życzenie - axa  
@@ -2726,7 +2743,6 @@ ocenić, oceniać, recenzować, komentować, krytykować - fa piping
 ocet - vin suan  
 oczywiście - klar!  
 odbiorca - na ja  
-odbić, odbijać - mira  
 odbyt - anus  
 odcisk, ślad; stempel, pieczęć - cape  
 oddech - nafas  
@@ -2815,7 +2831,7 @@ owad - dudu
 owca - meme  
 owinięcie (koperta, okładka) - lifafa  
 owoc - frute  
-owoc kiwi - kivi  
+owoc kiwi - kivi frute  
 ołtarz - puja meza  
 ołów - plumbe  
 oś - axe  
@@ -2967,7 +2983,7 @@ placy - ruke
 plan - plan  
 planeta - planeta  
 planować - fa plan  
-plaster - medu fong nide  
+plaster - medu vespa nide  
 plastik - plasti  
 platforma - plate forma  
 Platon - Platon  
@@ -3258,8 +3274,8 @@ pręt, kij - kane
 pstrąg potokowy - kafe salmon  
 pstrąg tęczowy - rang arka salmon  
 psychologia - ruhu logi  
-pszczoła lub osa - fong  
-pszczoła miodna - medu fong  
+pszczoła lub osa - vespa  
+pszczoła miodna - medu vespa  
 pszenica - ganum  
 ptak - paci  
 publiczny - demi di  
@@ -3972,8 +3988,8 @@ ukrzyżować - fa krus fixe
 ukształtować, kształtować, urzeźbić, rzeźbić - fa forma  
 ukwiał - hai hua  
 układ słoneczny - sol sistem  
-ul - medu fong sanduku  
-ul (gniazdo pszczół lub os) - fong nide  
+ul - medu vespa sanduku  
+ul (gniazdo pszczół lub os) - vespa nide  
 uleczyć, leczyć, uzdrowić, uzdrawiać - dava  
 ulica - gali  
 ulubiony - max fili di  
@@ -4056,7 +4072,7 @@ wdzięczność - xukurta
 według ruchu wskazówek zegara - rota raite  
 weganin (weganka) - pul fito yam sim ja  
 wegetarianin - fito yam sim ja  
-wejście - jin mun  
+wejście - inmun  
 welon (woalka) - hijabu  
 Wenezuela - Venezuela  
 Wenus - Venus  
@@ -4070,6 +4086,7 @@ wewnętrzny - in di
 wewnętrzny - innati  
 wełna (runo owcze) - meme kexa  
 wiadomość - anjil  
+wiadomość - mesaje  
 wiadomość, nius - habar  
 wiadomość, zawiadomienie, powiadomienie - note anjil  
 wiadro - baldi  
@@ -4233,7 +4250,7 @@ Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde
 Wyspy Świętego Tomasza i Książęca - Sante Tome e Principe  
 wystarczający - bas  
 wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete da  
-wysłać (wyemitować) - mise  
+wysłać (wyemitować) - miti  
 wytwórca łuków i strzał - flece ja  
 wyć - fa ulul  
 wyświetlać - fa lanse grafi  

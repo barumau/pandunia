@@ -405,7 +405,6 @@
 **fobi** ** ← eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi  
 **fokus** ** ← eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)  
 **fon** ** ← eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon  
-**fong** *abelha ou vespa* ← zho:蜂 (fēng), yue:蜂 (fung1), wuu:蜂 (fon1), kor:봉 (bong), vie:ong, tha:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)  
 **foni** ** ← wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)  
 **fonte** ** ← por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)  
 **for** ** ← spa:fuera, por:fora, deu:fort + eng:far  
@@ -747,7 +746,7 @@
 **kirate** *quilate* ← ara: قِيرَاط‎ (qīrāṭ), eng:fra:carat, spa:por:quilate, rus:карат (karat), zho:克拉 (kèlā), jpn:カラット (karatto), kor:캐럿 (kaereot), may:karat, swa:karati, tur:kırat  
 **kisma** *destino* ← ara: قِسْمَة‎ (qisma), hin:क़िस्मत (qismat), ben:কিসমত (kiśmôt), eng:kismet, rus:кисмет (kismet), tur:kısmet  
 **kitaba** *escrevere* ← ara:urd:(kitāb), fas:(ketâb), tur:kitap, may:kitab, swa:kitabu, hin:किताब (kitāb)  
-**kivi** *quivi* ← eng:fra:spa:may:swa:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi  
+**kivi frute** *quivi* ← eng:fra:spa:may:swa:kiwi, por:quivi, jpn:キーウィ (kīwi), kor:키위 (kiwi), hin:कीवी (kīvī), tur:kivi, ara: كِيوِي‎ (kiwī)  
 **klar** *claro* ← deu:klar, spa:por:claro, eng:clear, fra:clair  
 **klas** ** ← eng:class, spa:clase, por:fra:classe, rus:класс (klass), کلاس‎ (kelâs), may:kelas, jpn:クラス (kurasu)  
 **klien** *cliente* ← eng:client, spa:por:fra:cliente, rus:клиент (klient), jpn:クライアント (kuraianto), may:klien  
@@ -957,6 +956,7 @@
 **mer** ** ← eng:member, spa:miembro, por:membro, fra:membre, jpn:メンバー (menbā)  
 **meranti** *meranti* ← may:deu:eng:fra:spa:por:meranti  
 **mes** *mês* ← fra:mois, spa:mez, por:mês, rus:месяц (mes’ac), eng:menstral + swa:mwezi  
+**mesaje** *месседж* ← eng:deu:fra:message, spa:mensaje, por:mensagem, tur:mesaj, jpn:メッセージ (messēji), kor:메시지 (mesiji), rus:месседж (messedzh), may:mesej  
 **mesi** ** ← eng:messiah, fra:messie, spa:mesías, por:messias, rus:мессия (messiya), ara: مَسِيح‎ (masīḥ), hin:मसीह (masīh), ben:মসিহ (môśih), may:al-Masih, swa:Masiya, tur:Mesih  
 **metal** ** ← eng:spa:por:tur:metal, fra:métal, deu:Metall, rus:мета́лл (metáll)  
 **metre** ** ← eng:meter, spa:por:-metro, rus:метр tur:metre, + hin:मात्रा (mātrā), ben:মাত্রা (matra), may:matra  
@@ -977,12 +977,12 @@
 **minor** ** ← eng:minor, por:spa:menor, fra:mineur, rus:минорный (minornyy)  
 **minta** *hortelã* ← eng:mint, spa:menta, fra:menthe, rus:мята (m’ata), jpn:ミント (minto)  
 **minute** ** ← eng:minute, spa:por:minuto, rus:мину́та (minúta), hin:मिनट (minaṭ), ben:মিনিট (miniṭ), may:minit  
-**mira plate** ** ← eng:mirror, fra:miroir, ara:mirʾāh, arz:mirāya  
+**mira** *mirar* ← fra:mirer, spa:por:mirar + jpn:見る (miru) + ara:مِرْآة‎ (mirʾāh)  
 **mirde** *fraco* ← eng:mild, pol:mierny, hin:मृदु (mridu), wuu:微 (mi3), yue:微 (mei4)  
 **misal** ** ← hin:मिसाल (misāl), ara:(mithāl), fas:(mesâl), may:misal, swa:mathalani, tur:mesela  
-**mise** ** ← eng:emit, spa:remitir, por:emitir, fra:émettre  
 **miskin** ** ← ara:مِسْكِين (miskīn), fas:مسکین‎ (meskin), tur:may:miskin, swa:maskini, hin:, ben:মিসকিন (miśkin), fra:miskine, spa:mezquino, por:mesquinho  
 **Misri** *Egipto (Egito)* ← ara:(miṣr), tur:Mısır, swa:Misri, hin:मिस्र (misra), ben:মিশর (miśôr)  
+**miti** ** ← eng:emit, fra:émettre, spa:por:remitir, may:emisi, deu:Mission, rus:миссия (missiya) + tur:komisyon, hin:कमीशन (kamīśan), ben:কমিশন (kômiśôn)  
 **mitre** *metro* ← eng:tur:metre, deu:may:meter, fra:mètre, spa:por:metro, rus:метр (metr), ara: متر‎ (mitr), zho:米 (mǐ), jpn:メートル (mētoru), kor:미터 (miteo), vie:mét, hin:मीटर (mīṭar), ben:মিটার (miṭar), swa:mita  
 **mixe** ** ← deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)  
 **mode** *modo (maneira, jeito)* ← fra:eng:mode, spa:por:modo  
@@ -1516,8 +1516,8 @@
 **ver** *verdadeiro* ← eng:very, ita:vero, rus:верный (verniy), spa:verdadero, por:verdadeiro, deu:wahr, fra:vrai  
 **veranda** *sacada (varanda)* ← hin:बरामदा (barāmd), por:varanda, may:beranda, eng:veranda, rus:веранда (veranda), jpn:ベランダ (beranda), kor:베란다 (beranda), swa:varanda  
 **verme** *verme* ← eng:worm, por:verme, fra:ver, deu:Wurm  
-**verse** *encarar (afrontar; vérsus)* ← eng:versus, fra:verse, spa:por:versar  
 **versi** *encarar (afrontar; vérsus)* ← eng:versus, fra:verse, spa:por:versar + rus:версия (versiya), may:versi  
+**vespa** *abelha ou vespa* ← spa:avispa, por:ita:vespa, eng:wasp, deu:Wespe  
 **veste** ** ← eng:west, deu:West, fra:ouest, spa:por:oeste, rus:вест (vest)  
 **veze** ** ← ara: وَزْن‎ (wazn), hin:वज़न (vazan), ben:ওজন (ojôn), kan:ವಜ್ಜೆ (vajje), swa:uzani + rus:вес (ves) + fra:peser, spa:por:peso  
 **vide** *ver* ← rus:видеть (videt’), ita:vedere, spa:por:ver, pol:widzieć, eng:vide  
@@ -1642,6 +1642,6 @@
 **zoku** *ainda* ← wuu:续 (zoq), yue:續 (zuk6), jpn:続 (zoku), kor:속 (sok), vie:kế tục  
 **zombi** *zumbi* ← kon:nzambi, eng:zombie, spa:tur:zombi, por:zumbi, rus:зомби (zombi), ara:زُومْبِي‎ (zūmbī), hin:ज़ोंबी (zombī), jpn:ゾンビ (zonbi), kor:좀비 (jombi)  
 **zona** *zona* ← ell:ζώνη (zónē), eng:fra:zone, spa:por:zona, rus:зона (zona)  
-**zukam** ** ← ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)  
+**zukam** ** ← ara:زُكَام‎ (zukām), hin:ज़ुकाम (zukām) + zho:感(冒) (gǎn(mào)), jpn:感(冒) (kan(bō)), kor:감(기) (gam(gi)), vie:cảm  
 **zuku** *etnia* ← zho:族 (zú), yue:族 (zuk6), jpn:族 (zoku), kor:족 (jok), vie:tộc  
 **zumarde** *esmeralda* ← eng:emerald, fra:émeraude, spa:por:esmeralda, jpn:エメラルド (emerarudo) + ara: زُمُرُّد‎ (zumurrud), swa:zumaridi, may:zamrud, rus:изумруд (izumrud), zho:祖母绿 (zǔmǔlǜ)  

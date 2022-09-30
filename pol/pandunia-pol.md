@@ -1387,6 +1387,7 @@ flexi -
 • deflexi -   
 • reflexi -   
 • reflexir -   
+• reflexi soni - echo  
 • flexibil -   
 flur - fluor  
 fluride - fluorek  
@@ -1400,8 +1401,6 @@ fon loga -
 fonlogi - fonologia  
 fonma - fonem  
 fon zi - litera, znak  
-fong - pszczoła lub osa  
-fong nide - ul (gniazdo pszczół lub os)  
 foni -   
 fonte - fontanna (studnia, źródło)  
 fonte kalam -   
@@ -1906,10 +1905,12 @@ in bum - implozja
 in di - wewnętrzny  
 in klus -   
 in klus di -   
+inlai -   
 in liste - spis treści (tabela zawartości)  
 in migra -   
 in migra ja -   
 in mise - importować (zaimportować)  
+inmun - wejście  
 in nam - endonim  
 in puxe - ścisnąć (sciskać, wycisnąć)  
 in tene - zawierać  
@@ -2009,9 +2010,6 @@ jete grafi - wyświetlać (rzut, projekcja)
 Jibraltar - Gibraltar  
 Jibuti - Dżibuti  
 jihade -   
-jin -   
-jin lai -   
-jin mun - wejście  
 jini -   
 jinji - imbir  
 jinse - płeć  
@@ -2198,6 +2196,8 @@ karvan - karawana
 kasa -   
 kaska - skorupa (pancerz, muszla)  
 kastana - kasztan  
+Kastilia -   
+kastilia baxa -   
 kasu - wydarzenie, przypadek, sytuacja  
 kata - opowiadanie, opowieść, legenda, saga  
 kata ja -   
@@ -2284,7 +2284,8 @@ kitabakan - biblioteka
 kitaba minister - bibliotekarz  
 kitaba so -   
 kitaba suta -   
-kivi - owoc kiwi  
+kivi - kiwi  
+kivi frute - owoc kiwi  
 klar - przeźroczysty, jasny  
 klar! - oczywiście  
 klas - klasa, kategoria  
@@ -2496,6 +2497,11 @@ leng mosim - zima
 leng mosim di - zimowy  
 lense - soczewka  
 lenxi - ćwiczenie  
+leta -   
+• deleta -   
+• deletabil -   
+letali -   
+letali doze -   
 letre - list  
 letus - sałata  
 leu - lewy (lewostronny, z lewej strony)  
@@ -2732,9 +2738,9 @@ medi gi -
 medi noce - północ  
 medi xe - media  
 medu - miód  
-medu fong - pszczoła miodna  
-medu fong nide - plaster  
-medu fong sanduku - ul  
+medu vespa - pszczoła miodna  
+medu vespa nide - plaster  
+medu vespa sanduku - ul  
 mega - milion  
 mega gram - tona  
 mega vate - megawat  
@@ -2779,6 +2785,7 @@ mes nelu - lipiec
 mes tisa - grudzień  
 mes tri - czerwiec  
 mes un - styczeń  
+mesaje - wiadomość  
 mesi - Chrystus, mesjasz  
 • anmesi - antychryst  
 mesi di - mesjański  
@@ -2832,18 +2839,27 @@ ministre ofis - ministry
 minor - mniejszościowy  
 minta - mięta  
 minute - minuta  
-mira - odbić, odbijać  
+mira -   
+• amira -   
+mirabil -   
+miraje - miraż (fatamorgana)  
 mira plate - lustro  
-mira sonde - echo  
+mirar -   
 Miranda -   
 mirde - nikły  
 misal - przykład  
-mise - wysłać (wyemitować)  
-mise ja - nadawca  
-mise xe - misja  
 miskin - biedny, mizerny  
 Misri - Egipt  
 misri di - egipski  
+miti - wysłać (wyemitować)  
+• exmiti -   
+• konmitia - komisja (komitet)  
+• remiti -   
+• tramiti -   
+• tramition -   
+• tramitir -   
+mition -   
+mitioner - misjonarz  
 mitre - metr  
 mixe - miksować, mieszać  
 mixe alkol - koktajl  
@@ -2971,8 +2987,8 @@ nati baxa - język ojczysty (język rodzimy)
 nati den - urodziny  
 nati loka -   
 nati stan -   
-natri - sód  
 natre bilor -   
+natri - sód  
 nau - mózg  
 nau di - mózgowy  
 nau hin - bezmózgi  
@@ -4285,7 +4301,6 @@ ver - prawdziwy (rzeczywisty, szczery)
 veranda - weranda, balkon, taras, ganek  
 verme - robak  
 vermute - wermut  
-verse -   
 versi -   
 • deversi -   
 • disversi -   
@@ -4297,6 +4312,8 @@ versi -
 • perversi -   
 • reversi -   
 version - wersja (wariacja, edycja, wydanie)  
+vespa - pszczoła lub osa  
+vespa nide - ul (gniazdo pszczół lub os)  
 veste - zachód  
 veste di - zachodni  
 veste gorila - goryl zachodni  
@@ -4562,7 +4579,6 @@ zeze -
 zi -   
 zi forma -   
 zi seri - alfabet, abecadło  
-ziza - zygzag  
 zikura - ziggurat  
 Zimbabue - Zimbabwe  
 zina - zdrada małżeńska, cudzołóstwo  
@@ -4572,6 +4588,7 @@ ziper - zamek błyskawiczny
 zira - kumin, kmin  
 zirkon -   
 zirkon yum - cyrkon  
+ziza - zygzag  
 zizi - skwierczeć  
 zoku - wciąż, nadal; kontynuować, wznawiać, ponawiać  
 zombi - zombie, zombi  

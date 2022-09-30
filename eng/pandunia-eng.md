@@ -1422,6 +1422,7 @@ flexi - bend (flex)
 • deflexi - deflect (bend away)  
 • reflexi - reflect (bend back)  
 • reflexir - reflector  
+• reflexi soni - echo  
 • flexibil - flexible   
 flur - fluorine  
 fluride - fluoride  
@@ -1435,8 +1436,6 @@ fon loga - pronounce (articulate)
 fonlogi - phonology  
 fonma - phoneme  
 fon zi - letter (character, written symbol)  
-fong - bee or wasp  
-fong nide - bee nest (beehive, wasp's nest)  
 foni - fonio millet (acha rice)  
 fonte - fountain (spring, well)  
 fonte kalam - fountain pen  
@@ -1941,10 +1940,12 @@ in bum - implosion
 in di - inner (internal)  
 in klus - including  
 in klus di - inclusive  
+inlai - entry (access)  
 in liste - table of contents (inventory)  
 in migra - immigrate (move in)  
 in migra ja - immigrant  
 in mise - import  
+inmun - entrance  
 in nam - endonym  
 in puxe - squeeze (squish)  
 in tene - contain (include)  
@@ -2044,9 +2045,6 @@ jete grafi - project (cast; projection image)
 Jibraltar - Gibraltar  
 Jibuti - Djibouti  
 jihade - struggle (strife)  
-jin - advancement (milestone)  
-jin lai - access (admission, accessibility)  
-jin mun - entrance  
 jini - spirit (soul, vitality, life force)  
 jinji - ginger  
 jinse - gender (sex)  
@@ -2233,6 +2231,8 @@ karvan - caravan (convoy)
 kasa - box (container)  
 kaska - shell (crust, carapace, shield)  
 kastana - chestnut  
+Kastilia - Castil  
+kastilia baxa - Castilian (Spanish)  
 kasu - event (case, instance)  
 kata - tale (story, legend, saga)  
 kata ja - narrator  
@@ -2318,7 +2318,8 @@ kitabakan - library
 kitaba minister - librarian  
 kitaba so - grapheme  
 kitaba suta - literature  
-kivi - kiwi fruit  
+kivi - kiwi bird  
+kivi frute - kiwi fruit  
 klar - clear (obvious)  
 klar! - of course! (obviously)  
 klas - class (category)  
@@ -2530,6 +2531,11 @@ leng mosim - winter
 leng mosim di - wintry  
 lense - lens  
 lenxi - exercise  
+leta - kill (slay; violent death)  
+• deleta - delete (eliminate, kill off, wipe off)  
+• deletabil - delible (eliminable)  
+letali - lethal  
+letali doze - lethal dose  
 letre - letter (written message)  
 letus - lettuce  
 leu - left  
@@ -2766,9 +2772,9 @@ medi gi - instrument (means)
 medi noce - midnight  
 medi xe - medium (media, buffer)  
 medu - honey  
-medu fong - honeybee  
-medu fong nide - beehive (honeycomb)  
-medu fong sanduku - beehive (beehouse)  
+medu vespa - honeybee  
+medu vespa nide - beehive (honeycomb)  
+medu vespa sanduku - beehive (beehouse)  
 mega gram - tonne (metric ton)  
 mega vate - megawat (MW)  
 megi - cloud  
@@ -2812,6 +2818,7 @@ mes nelu - April
 mes tisa - September  
 mes tri - March  
 mes un - January  
+mesaje - message  
 mesi - Christ (messiah)  
 • anmesi - antichrist  
 mesi di - messianic  
@@ -2866,18 +2873,27 @@ ministre ofis - ministry
 minor - minor (not major)  
 minta - mint  
 minute - minute  
-mira - reflect  
+mira - stare (watch, gaze)  
+• amira - admire  
+mirabil - wonderful (marvel, mirable)  
+miraje - mirage  
 mira plate - mirror  
-mira sonde - echo  
+mirar - watcher  
 Miranda - Miranda  
 mirde - faint (depending on context: soft, dull, mild, weak, slow, subtle)  
 misal - example (instance of)  
-mise - send (emit, transmit)  
-mise ja - sender (transmitter)  
-mise xe - mission (transmission, emission)  
 miskin - poor (miserable)  
 Misri - Egypt  
 misri di - Egyptian  
+miti - send (emit, transmit)  
+• exmiti - emit  
+• konmitia - commission (committee)  
+• remiti - send back (remit)  
+• tramiti - transmit   
+• tramition - transmission  
+• tramitir - transmitter  
+mition - mission (sending)  
+mitioner - missionary  
 mitre - meter (100 cm)  
 mixe - mix (blend)  
 mixe alkol - cocktail  
@@ -3006,8 +3022,8 @@ nati baxa - native language (mother tongue)
 nati den - birthday  
 nati loka - birthplace  
 nati stan - region of birth  
-natri - sodium  
 natre bilor - natron  
+natri - sodium  
 nau - brain  
 nau di - cerebral  
 nau hin - brainless  
@@ -4321,7 +4337,6 @@ ver - true (real, genuine, indeed, very)
 veranda - veranda (balcony, terrace, porch)  
 verme - worm  
 vermute - vermouth  
-verse - face (versus)  
 versi - turn toward (direct, flip; versus)  
 • deversi - avert  
 • disversi - diverse  
@@ -4333,6 +4348,8 @@ versi - turn toward (direct, flip; versus)
 • perversi - pervert (twist; perverse)  
 • reversi - reverse (invert, direct back; backwards)  
 version - version (variation, edition)  
+vespa - bee or wasp  
+vespa nide - bee nest (beehive, wasp's nest)  
 veste - west  
 veste di - western  
 veste gorila - western gorilla  
@@ -4598,7 +4615,6 @@ zeze - fly
 zi - character (written symbol)  
 zi forma - font  
 zi seri - alphabet  
-ziza - zigzag  
 zikura - ziggurat  
 Zimbabue - Zimbabwe  
 zina - adultery (infidelity)  
@@ -4608,6 +4624,7 @@ ziper - zipper (zip)
 zira - cumin (jeera)  
 zirkon - zircon  
 zirkon yum - zirconium  
+ziza - zigzag  
 zizi - sizzle  
 zoku - continue (go on, keep on, carry on, proceed, still, yet)  
 zombi - zombie  

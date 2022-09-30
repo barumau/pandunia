@@ -4,16 +4,16 @@
 |-------|-------|-----|
 | pan | 1645 | 100% |
 | english | 1110 | 67% |
-| espanya | 999 | 61% |
-| portugal | 953 | 58% |
+| espanya | 1001 | 61% |
+| portugal | 955 | 58% |
 | france | 940 | 57% |
-| rus | 829 | 50% |
-| hindi | 721 | 44% |
-| nipon | 660 | 40% |
-| malayu | 593 | 36% |
-| arabi | 486 | 30% |
-| chosen | 469 | 29% |
+| rus | 831 | 51% |
+| hindi | 722 | 44% |
+| nipon | 663 | 40% |
+| malayu | 595 | 36% |
+| arabi | 487 | 30% |
+| chosen | 470 | 29% |
 | suahili | 442 | 27% |
 | putonghan | 437 | 27% |
-| bangla | 414 | 25% |
+| bangla | 415 | 25% |
 | viet | 303 | 18% |

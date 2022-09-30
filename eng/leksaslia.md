@@ -405,7 +405,6 @@
 **fobi** *fear (phobia)* ← English:-phobia, Spanish:Portuguese:Malay:-fobia, French:deu:-phobie, Russian:-фобия (-fobiya), Turkish:-fobi  
 **fokus** *focus (concentration)* ← English:focus, Spanish:Portuguese:foco, deu:Fokus, Russian:фо́кус, Persian:فوکوس‎ (fokus)  
 **fon** *phone (speech sound)* ← English:French:phone, Spanish:fono, Portuguese:fone, Russian:фона (fona), Malay:fon  
-**fong** *bee or wasp* ← Mandarin:蜂 (fēng), Cantonese:蜂 (fung1), Wu-Chinese:蜂 (fon1), Korean:봉 (bong), Vietnamese:ong, Thai:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)  
 **foni** *fonio millet (acha rice)* ← Wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, Fulani:fonnye, Swahili:mfonio, English:French:Spanish:Malay:fonio, deu:Foniohirse, Japanese:フォニオ (fonio)  
 **fonte** *fountain (spring, well)* ← Portuguese:fonte, Spanish:fuente, Russian:фонтан (fontan), French:fontaine, English:fountain, Japanese:噴水 (funsui)  
 **for** *off (away, gone, far-off)* ← Spanish:fuera, Portuguese:fora, deu:fort + English:far  
@@ -747,7 +746,7 @@
 **kirate** *carat* ← Arabic: قِيرَاط‎ (qīrāṭ), English:French:carat, Spanish:Portuguese:quilate, Russian:карат (karat), Mandarin:克拉 (kèlā), Japanese:カラット (karatto), Korean:캐럿 (kaereot), Malay:karat, Swahili:karati, Turkish:kırat  
 **kisma** *destiny (fate, lot, kismet)* ← Arabic: قِسْمَة‎ (qisma), Hindi:क़िस्मत (qismat), Bengali:কিসমত (kiśmôt), English:kismet, Russian:кисмет (kismet), Turkish:kısmet  
 **kitaba** *write (writing, text, script)* ← Arabic:Urdu:(kitāb), Persian:(ketâb), Turkish:kitap, Malay:kitab, Swahili:kitabu, Hindi:किताब (kitāb)  
-**kivi** *kiwi fruit* ← English:French:Spanish:Malay:Swahili:kiwi, Portuguese:quivi, Japanese:キーウィ (kīwi), Korean:키위 (kiwi), Hindi:कीवी (kīvī), Turkish:kivi  
+**kivi frute** *kiwi fruit* ← English:French:Spanish:Malay:Swahili:kiwi, Portuguese:quivi, Japanese:キーウィ (kīwi), Korean:키위 (kiwi), Hindi:कीवी (kīvī), Turkish:kivi, Arabic: كِيوِي‎ (kiwī)  
 **klar** *clear (obvious)* ← deu:klar, Spanish:Portuguese:claro, English:clear, French:clair  
 **klas** *class (category)* ← English:class, Spanish:clase, Portuguese:French:classe, Russian:класс (klass), کلاس‎ (kelâs), Malay:kelas, Japanese:クラス (kurasu)  
 **klien** *customer (client, patron)* ← English:client, Spanish:Portuguese:French:cliente, Russian:клиент (klient), Japanese:クライアント (kuraianto), Malay:klien  
@@ -957,6 +956,7 @@
 **mer** *member (part of a group, component)* ← English:member, Spanish:miembro, Portuguese:membro, French:membre, Japanese:メンバー (menbā)  
 **meranti** *lauan tree (meranti, balau)* ← Malay:deu:English:French:Spanish:Portuguese:meranti  
 **mes** *month* ← French:mois, Spanish:mez, Portuguese:mês, Russian:месяц (mes’ac), English:menstral + Swahili:mwezi  
+**mesaje** *message* ← English:deu:French:message, Spanish:mensaje, Portuguese:mensagem, Turkish:mesaj, Japanese:メッセージ (messēji), Korean:메시지 (mesiji), Russian:месседж (messedzh), Malay:mesej  
 **mesi** *Christ (messiah)* ← English:messiah, French:messie, Spanish:mesías, Portuguese:messias, Russian:мессия (messiya), Arabic: مَسِيح‎ (masīḥ), Hindi:मसीह (masīh), Bengali:মসিহ (môśih), Malay:al-Masih, Swahili:Masiya, Turkish:Mesih  
 **metal** *metal* ← English:Spanish:Portuguese:Turkish:metal, French:métal, deu:Metall, Russian:мета́лл (metáll)  
 **metre** *measure (measurement)* ← English:meter, Spanish:Portuguese:-metro, Russian:метр Turkish:metre, + Hindi:मात्रा (mātrā), Bengali:মাত্রা (matra), Malay:matra  
@@ -977,12 +977,12 @@
 **minor** *minor (not major)* ← English:minor, Portuguese:Spanish:menor, French:mineur, Russian:минорный (minornyy)  
 **minta** *mint* ← English:mint, Spanish:menta, French:menthe, Russian:мята (m’ata), Japanese:ミント (minto)  
 **minute** *minute* ← English:minute, Spanish:Portuguese:minuto, Russian:мину́та (minúta), Hindi:मिनट (minaṭ), Bengali:মিনিট (miniṭ), Malay:minit  
-**mira plate** *mirror* ← English:mirror, French:miroir, Arabic:mirʾāh, arz:mirāya  
+**mira** *stare (watch, gaze)* ← French:mirer, Spanish:Portuguese:mirar + Japanese:見る (miru) + Arabic:مِرْآة‎ (mirʾāh)  
 **mirde** *faint (depending on context: soft, dull, mild, weak, slow, subtle)* ← English:mild, Polish:mierny, Hindi:मृदु (mridu), Wu-Chinese:微 (mi3), Cantonese:微 (mei4)  
 **misal** *example (instance of)* ← Hindi:मिसाल (misāl), Arabic:(mithāl), Persian:(mesâl), Malay:misal, Swahili:mathalani, Turkish:mesela  
-**mise** *send (emit, transmit)* ← English:emit, Spanish:remitir, Portuguese:emitir, French:émettre  
 **miskin** *poor (miserable)* ← Arabic:مِسْكِين (miskīn), Persian:مسکین‎ (meskin), Turkish:Malay:miskin, Swahili:maskini, Hindi:, Bengali:মিসকিন (miśkin), French:miskine, Spanish:mezquino, Portuguese:mesquinho  
 **Misri** *Egypt* ← Arabic:(miṣr), Turkish:Mısır, Swahili:Misri, Hindi:मिस्र (misra), Bengali:মিশর (miśôr)  
+**miti** *send (emit, transmit)* ← English:emit, French:émettre, Spanish:Portuguese:remitir, Malay:emisi, deu:Mission, Russian:миссия (missiya) + Turkish:komisyon, Hindi:कमीशन (kamīśan), Bengali:কমিশন (kômiśôn)  
 **mitre** *meter (100 cm)* ← English:Turkish:metre, deu:Malay:meter, French:mètre, Spanish:Portuguese:metro, Russian:метр (metr), Arabic: متر‎ (mitr), Mandarin:米 (mǐ), Japanese:メートル (mētoru), Korean:미터 (miteo), Vietnamese:mét, Hindi:मीटर (mīṭar), Bengali:মিটার (miṭar), Swahili:mita  
 **mixe** *mix (blend)* ← deu:mischen, Russian:мешать (měšat'), Polish:mieszać, English:mix, Italian:miscelare, + Hindi:मिश्रण (miśrān)  
 **mode** *way (manner, mode)* ← French:English:mode, Spanish:Portuguese:modo  
@@ -1516,8 +1516,8 @@
 **ver** *true (real, genuine, indeed, very)* ← English:very, Italian:vero, Russian:верный (verniy), Spanish:verdadero, Portuguese:verdadeiro, deu:wahr, French:vrai  
 **veranda** *veranda (balcony, terrace, porch)* ← Hindi:बरामदा (barāmd), Portuguese:varanda, Malay:beranda, English:veranda, Russian:веранда (veranda), Japanese:ベランダ (beranda), Korean:베란다 (beranda), Swahili:varanda  
 **verme** *worm* ← English:worm, Portuguese:verme, French:ver, deu:Wurm  
-**verse** *face (versus)* ← English:versus, French:verse, Spanish:Portuguese:versar  
 **versi** *turn toward (direct, flip; versus)* ← English:versus, French:verse, Spanish:Portuguese:versar + Russian:версия (versiya), Malay:versi  
+**vespa** *bee or wasp* ← Spanish:avispa, Portuguese:Italian:vespa, English:wasp, deu:Wespe  
 **veste** *west* ← English:west, deu:West, French:ouest, Spanish:Portuguese:oeste, Russian:вест (vest)  
 **veze** *weight (heft, gravity)* ← Arabic: وَزْن‎ (wazn), Hindi:वज़न (vazan), Bengali:ওজন (ojôn), Kannada:ವಜ್ಜೆ (vajje), Swahili:uzani + Russian:вес (ves) + French:peser, Spanish:Portuguese:peso  
 **vide** *look (see)* ← Russian:видеть (videt’), Italian:vedere, Spanish:Portuguese:ver, Polish:widzieć, English:vide  
@@ -1642,6 +1642,6 @@
 **zoku** *continue (go on, keep on, carry on, proceed, still, yet)* ← Wu-Chinese:续 (zoq), Cantonese:續 (zuk6), Japanese:続 (zoku), Korean:속 (sok), Vietnamese:kế tục  
 **zombi** *zombie* ← Kongo:nzambi, English:zombie, Spanish:Turkish:zombi, Portuguese:zumbi, Russian:зомби (zombi), Arabic:زُومْبِي‎ (zūmbī), Hindi:ज़ोंबी (zombī), Japanese:ゾンビ (zonbi), Korean:좀비 (jombi)  
 **zona** *belt (zone)* ← Greek:ζώνη (zónē), English:French:zone, Spanish:Portuguese:zona, Russian:зона (zona)  
-**zukam** *cold (illness)* ← Arabic:زُكَام‎ (zukām), Persian:زکام‎ (zukâm), Hindi:ज़ुकाम (zukāma)  
+**zukam** *cold (illness)* ← Arabic:زُكَام‎ (zukām), Hindi:ज़ुकाम (zukām) + Mandarin:感(冒) (gǎn(mào)), Japanese:感(冒) (kan(bō)), Korean:감(기) (gam(gi)), Vietnamese:cảm  
 **zuku** *ethnic group* ← Mandarin:族 (zú), Cantonese:族 (zuk6), Japanese:族 (zoku), Korean:족 (jok), Vietnamese:tộc  
 **zumarde** *emerald* ← English:emerald, French:émeraude, Spanish:Portuguese:esmeralda, Japanese:エメラルド (emerarudo) + Arabic: زُمُرُّد‎ (zumurrud), Swahili:zumaridi, Malay:zamrud, Russian:изумруд (izumrud), Mandarin:祖母绿 (zǔmǔlǜ)  

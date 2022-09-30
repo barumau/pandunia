@@ -486,8 +486,6 @@ flece - 矢 (矢印)
 flerof yum - フレロビウム  
 flur - フッ素  
 fluride - 弗化物  
-fong - 蜂  
-fong nide - 蜂の巣  
 foni - フォニオ  
 • dusforma - 醜くする  
 • konforma - 即する  
@@ -725,7 +723,6 @@ jelakan - 監獄
 jen - 人 (者, 員, 徒)  
 • projete - プロジェクト  
 jete grafi - 映す (投影する, 投影)  
-jin lai - アクセス  
 jinse - 性別 (ジェンダー)  
 jinselogi - ジェンダー研究  
 jirafa - 麒麟  
@@ -858,7 +855,8 @@ kitabakan - 図書館
 kitaba minister - 図書係  
 kitaba so - 書記素  
 kitaba suta - 文献 (文学, 文芸)  
-kivi - キーウィフルーツ  
+kivi - キーウィ  
+kivi frute - キーウィフルーツ  
 klas - 部門 (級)  
 klien - 顧客 (依頼人, クライアント)  
 klima mute - 気候変動  
@@ -1036,9 +1034,9 @@ medi fase - 界面
 medi noce - 真夜中  
 medi xe - 媒体 (バッファ)  
 medu - 蜂蜜  
-medu fong - 蜜蜂  
-medu fong nide - 蜂の巣 (ハニカム)  
-medu fong sanduku - 養蜂箱  
+medu vespa - 蜜蜂  
+medu vespa nide - 蜂の巣 (ハニカム)  
+medu vespa sanduku - 養蜂箱  
 mega - １００万 (メガ)  
 megi - 雲  
 megi di - 霧深い (曇っている)  
@@ -1066,6 +1064,7 @@ mes nelu - ４月
 mes tisa - ９月  
 mes tri - ３月  
 mes un - １月  
+mesaje - 伝言 (メッセージ)  
 metan - メタン  
 metanol - メタノール  
 metil - メチル  
@@ -1089,8 +1088,12 @@ milke - 牛乳 (ミルク)
 milke kardon - マリアアザミ  
 mime ja - 模倣者  
 minta - ハッカ  
+miraje - 蜃気楼  
+mira plate - 鏡  
 mirde - 微か  
 Misri - エジプト  
+• konmitia - 委員会  
+mitioner - 宣教師  
 mitre - メートル  
 mixe alkol - カクテル (混合酒)  
 moka - 木  
@@ -1611,6 +1614,8 @@ veranda - ベランダ (バルコニー, 縁側)
 • extraversi - 外向的な  
 • intraversi - 内向的な人  
 • reversi - 逆らう  
+vespa - 蜂  
+vespa nide - 蜂の巣  
 veste gorila - ニシゴリラ  
 vide ja - 見物人  
 vide punte - 遠近法 (見通し, 観点)  

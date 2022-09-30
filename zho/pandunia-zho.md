@@ -484,7 +484,6 @@ fizika gi - 硬件
 flece - 箭  
 flur - 氟  
 fluride - 氟化物  
-fong - 蜂  
 fonte kalam - 钢笔  
 fora - 钻孔  
 • dusforma - 变丑  
@@ -841,7 +840,8 @@ kitaba culi - 文字处理 (字处理)
 kitaba gi - 打字机  
 kitabakan - 图书馆  
 kitaba suta - 文学  
-kivi - 奇异果  
+kivi - 无翼鸟  
+kivi frute - 奇异果 (猕猴桃)  
 klien - 顾客  
 klima mute - 气候变化  
 klin - 趋势  
@@ -1015,8 +1015,8 @@ medi di - 中型
 medi dia - 正午  
 medi noce - 半夜 (午夜)  
 medu - 蜜  
-medu fong - 蜜蜂  
-medu fong sanduku - 蜂箱  
+medu vespa - 蜜蜂  
+medu vespa sanduku - 蜂箱  
 mega - 百万 (兆)  
 megi - 云  
 mei - 漂亮 (美)  
@@ -1029,6 +1029,7 @@ memo - 记忆 (记性)
 mendelef yum - 钔  
 meninge - 脑脊膜  
 meranti - 娑羅屬  
+mesaje - 信息  
 metan - 甲烷  
 metanol - 甲醇  
 metil - 甲基  
@@ -1047,8 +1048,12 @@ mikroskope - 显微镜
 milke kardon - 水飞蓟  
 mime - 模拟  (模仿)  
 minta - 薄荷  
+miraje - 海市蜃楼  
+mira plate - 镜子  
 mirde - 微弱的  
 Misri - 埃及  
+• konmitia - 委员会  
+mitioner - 传教士  
 mitre - 米 (公尺)  
 moka - 树木  
 moka bano - 木板  
@@ -1571,6 +1576,7 @@ veranda - 阳台
 • exversi - 外向的  
 • extraversi - 外向的  
 • intraversi - 内向的  
+vespa - 蜂  
 veze di - 重型的  
 vide - 看  
 vidou - 寡妇  

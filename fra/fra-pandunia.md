@@ -6,7 +6,7 @@ a (dans, en, chez) - a
 abaque (boulier compteur) - lulu table  
 abattoir - bucakan  
 abattre - buca  
-abeille ou guêpe - fong  
+abeille ou guêpe - vespa  
 Abkhazie - Apsni  
 aborigènes australiens - asal Australia jen  
 abricot (prune) - briko  
@@ -20,7 +20,7 @@ accomplir (terminer) - pul fina
 accord - sam rai  
 accumuler - kumu  
 accès (accéder) - acese  
-accès - jin lai  
+accès - inlai  
 acheter - fa xopi  
 acte - ati  
 actif (activer, allumer, mettre en marche) - ativi  
@@ -383,6 +383,8 @@ carte de crédit - kredikarte
 carte à collectionner - jami karte  
 cartographie - karta grafi  
 caserne - ordu jen kan  
+castillan - kastilia baxa  
+Castille - Kastilia  
 cauri - kauri  
 ce...ci - yi  
 ce...lá - vo  
@@ -471,6 +473,7 @@ collaborer - konkar
 coller - fa glu  
 colorant - rang mate  
 combava - karse limon  
+comisión (comité) - konmitia  
 comment - ke riti  
 commerce - vende xope  
 commun - konun  
@@ -979,6 +982,7 @@ Khartoum - Hartum
 kimono - kimono  
 Kinshasa - Kinxasa  
 kiwi - kivi  
+kiwi - kivi frute  
 koala - koala  
 krypton - kriton  
 kumquat - gingam  
@@ -1067,6 +1071,7 @@ lys - susan
 là (y) - a vo  
 léger - ligu veze di  
 légume - yam fito  
+létal - letali  
 lézard - saur  
 
 ## M  
@@ -1113,6 +1118,7 @@ maître - master
 meitnérium - meitner yum  
 melt - yung  
 mendélévium - mendelef yum  
+mensaje - mesaje  
 menthe - minta  
 Menthe aquatique - sui minta  
 menthe poivrée - pipre minta  
@@ -1125,6 +1131,7 @@ mercure - hidrargente
 Mercure - Merkur  
 merde - xite  
 merveille - ajabu  
+merveille - mirabil  
 message - anjil  
 messager - anjil ja  
 mettre (placer) - fa loka  
@@ -1140,6 +1147,11 @@ mil (millet) - dana.cau
 mil éthiopien - tef  
 mine - kuanga xan  
 minuit - medi noce  
+mirage - miraje  
+mirer - mira  
+miroir - mira plate  
+misionero - mitioner  
+misión - mition  
 mode (façon, manière) - mode  
 modeler - fa plasti  
 mois - mes  
@@ -1551,7 +1563,7 @@ rang - dan
 rare - nadir  
 rarement - nadir mar  
 raton laveur - rakun  
-rayon de miel - medu fong nide  
+rayon de miel - medu vespa nide  
 rebondir - boing  
 recette - reseta  
 receveur (récepteur) - receper  
@@ -1600,7 +1612,7 @@ rouge - rubi
 ruban (bande) - tepe  
 rubidium - rubi yum  
 rubis - rubi bau seku  
-ruche (nid d'abeille) - fong nide  
+ruche (nid d'abeille) - vespa nide  
 rue - gali  
 ruse - truke  
 rutherfordium - ruterfor yum  
@@ -1820,6 +1832,9 @@ traitement d'images - grafi culi
 traitement de données - data culi  
 traitement de texte - kitaba culi  
 traiter - fa culi  
+transmisión - tramition  
+transmisor - tramitir  
+transmitir - tramiti  
 travail - karxe  
 travailler - kar  
 travailleur (ouvrier) - karja  
@@ -1884,8 +1899,7 @@ vermouth - vermute
 verre - kanca  
 verre coloré - rang kanca  
 verrue - zeyil  
-verse (face á) - verse  
-verser (face á) - versi  
+verser (verse, face á) - versi  
 verser - fa verse  
 vert - luga  
 veuve - vidou  
@@ -1986,6 +2000,7 @@ zéro - siro
 élément (unité fondamentale) - so  
 élément chimique - kimi so  
 émeraude - zumarde  
+émettre - exmiti  
 émir - amir ja  
 émirat - amir dexa  
 émoticône (emoji) - gamo zi  

@@ -7,8 +7,8 @@ a (hacia) - to
 
 abanico (ventilador) - sanzi  
 abedul - betula  
-abeja - medu fong  
-abeja o avispa - fong  
+abeja - medu vespa  
+abeja o avispa - vespa  
 abeto - abies  
 abierto (extenso) - medan di  
 abierto - kai  
@@ -27,7 +27,7 @@ aburrimiento - bori
 acacia de copa plana - helis babul  
 accesible - tenebil  
 acceso (acceder) - acese  
-acceso - jin lai  
+acceso - inlai  
 accesorio (afijo) - fixe  
 acción - ation  
 aceite (óleo) - nefte  
@@ -66,6 +66,7 @@ adicional (extra) - max di
 adiós - sal cuti  
 adiós - salam cuti  
 adjetivo - sifa loga  
+admirar - amira  
 adoquín - gola seku  
 adoración (veneración, culto) - puja  
 adormidera (amapola real) - sona papi  
@@ -80,7 +81,6 @@ aeróbico - air bio di
 afecto (emoción) - gamo  
 Afganistán - Afghan  
 afilado (puntiagudo) - gata ja  
-afrontar - verse  
 agacharse - lipa side  
 agente - atir  
 agorafobia - medan fobi  
@@ -341,7 +341,7 @@ aventura - ventur
 aventurero - ventur ja  
 avisar (notificar) - fa note  
 aviso (notificación) - note anjil  
-avispero (colmena) - fong nide  
+avispero (colmena) - vespa nide  
 axproximarse - be karibu  
 ay! - ayo  
 ayer - cen den  
@@ -657,8 +657,10 @@ casar - fa gami
 casco (yelmo) - sar kaska  
 casta - gene klas  
 castaña - kastana  
+castellano - kastilia baxa  
 castigar - fa fatu  
 castigo - fatu  
+Castilla - Kastilia  
 castillo (fortaleza) - burge  
 castor - bibre  
 Cataluña - Katalunia  
@@ -813,7 +815,7 @@ colchón - matras
 colección (grupo, conjunto, montón) - jami  
 colectivo - jami di  
 colgar - pende  
-colmena (panal) - medu fong nide  
+colmena (panal) - medu vespa nide  
 colocar (poner, ubicar) - fa loka  
 Colombia - Kolombia  
 colonia - koloni  
@@ -834,6 +836,7 @@ comida - yam xe
 comienzo (inicio, principio) - xuru  
 comilla - sita marke  
 comino - zira  
+comissão (comité) - konmitia  
 Comoros - Komoro nesi  
 compartir (tener en común) - fa komun  
 compasión - kon pasi  
@@ -1091,6 +1094,7 @@ definir - fa sifa
 degradar - dus gradu  
 dejar - laxe  
 dejar caer - fa pada  
+deleble - deletabil  
 delfín - dolfin  
 delicioso - bon guste di  
 demasiado - max ka bas  
@@ -1252,7 +1256,7 @@ dónde - ke loka
 
 ## E  
 
-eco - mira sonde  
+eco - reflexi soni  
 ecología - ekologi  
 economía - mal nomi  
 econtrar (hallar) - eureka  
@@ -1298,7 +1302,7 @@ embudo - dara tubo
 emir - amir ja  
 emirato - amir dexa  
 Emiratos Árabes Unidos - Unta Arabi Amir Dexa (UAA)  
-emisión - mise xe  
+emitir - exmiti  
 emoticón (emoyi) - gamo zi  
 emotivo - gamo di  
 empanada (pelmeni) - pelmen  
@@ -1336,11 +1340,11 @@ ensayo (redacción) - esai
 enseñar (instruir, doctrina) - gio  
 entender (comprender) - aha  
 entero (todo) - holo  
-entrada - jin mun  
+entrada - inmun  
 entrar - be in  
 entre - a medi  
 entristecer (poner triste) - fa duka  
-enviar (transmitar) - mise  
+enviar (transmitar) - miti  
 envoltura - lifafa  
 envolver - fa lifafa  
 enzima - enzim  
@@ -1402,6 +1406,7 @@ especialización (distinción) - hasta
 especie - jung  
 espectador - vide ja  
 espectador - speter  
+espejismo - miraje  
 espejo (retrovisor) - mira plate  
 Esperanto - esperanto  
 esperar (desear) - axa  
@@ -2099,7 +2104,8 @@ kilograma - kilogram
 kilometre - kilomitre  
 Kirguizistán - Kirgize  
 Kiribati - Kiribati  
-kiwi fruta - kivi  
+kiwi - kivi  
+kiwi fruta - kivi frute  
 koala - koala  
 konkani - Konkani  
 Kosovo - Kosovo  
@@ -2156,6 +2162,7 @@ lengua mundial - dunia baxa
 lente - lense  
 lento (despacio) - anhaste  
 Lesoto - Soto  
+letal - letali  
 Letonia - Latvia  
 letra (carácter) - fon zi  
 letra negrita - gros zi  
@@ -2324,6 +2331,7 @@ mar - hai
 maratí - marati  
 maratón - maraton  
 maravilla - ajabu  
+maravilla - mirabil  
 maravilloso (asombroso) - ajabu di  
 maravilloso (magnífico) - super  
 marca (huella, mancha) - marke  
@@ -2405,6 +2413,7 @@ meninge - meninge
 meningitis - meninge tis  
 menor (leve) - minor  
 menos - min  
+mensagem - mesaje  
 mensaje - anjil  
 mensajero - anjil ja  
 menta - minta  
@@ -2462,7 +2471,10 @@ ministro - ministre ja
 minoría - min di fen  
 minuto - minute  
 minúscula - xiu zi  
+mirar - mira  
 mismo (yo) - auto  
+missionário - mitioner  
+missão - mition  
 mito (cuento divino) - deu kata  
 miércoles - den tri  
 mochila - ruke sake  
@@ -3253,7 +3265,6 @@ red - nete
 redes sociales - sosi medi gi  
 redondo (circular) - gola di  
 reducir a la mitad (dividir en dos) - fa fen do du  
-reflejar - mira  
 refuerzos - max ordu  
 regaliz (alcazuz, orozuz) - alkasus  
 regalo (obsequio) - daxe  
@@ -3273,7 +3284,6 @@ reliquia - cen zaman xe
 reloj - hor loga gi  
 reluciente (brillante, lustroso) - foto mira di  
 relámpago - eletro radi  
-remitente - mise ja  
 remojar (marinar, encurtir, macerar) - pul xipi  
 remolacha - bete  
 remolacha azucarera - sukre bete  
@@ -3769,6 +3779,9 @@ trampilla - pada mun
 tranquilo (calmado) - xanti di  
 transcurrir - trakurse  
 transitar (atravesar) - fa transe  
+transmissor - tramitir  
+transmissão - tramition  
+transmitir - tramiti  
 Transnistria (Cisdniéster) - Transe Nistre Dexa  
 transparente - transe vide di  
 transporte - traporte  

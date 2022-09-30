@@ -405,7 +405,6 @@
 **fobi** *kammo (fobia)* ← englanti:-phobia, espanja:portugali:malaiji:-fobia, ranska:deu:-phobie, venäjä:-фобия (-fobiya), turkki:-fobi  
 **fokus** *keskittyminen (keskittymä)* ← englanti:focus, espanja:portugali:foco, deu:Fokus, venäjä:фо́кус, persia:فوکوس‎ (fokus)  
 **fon** *äänne (fooni)* ← englanti:ranska:phone, espanja:fono, portugali:fone, venäjä:фона (fona), malaiji:fon  
-**fong** *mehiläinen tai ampiainen* ← yleiskiina:蜂 (fēng), kantoninkiina:蜂 (fung1), wu-kiina:蜂 (fon1), korea:봉 (bong), vietnami:ong, thai:ผึ้ง (pʉ̂ng), lao:ເຜິ້ງ (phœng)  
 **foni** *fonio (heinäkasvi)* ← wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, fulani:fonnye, suahili:mfonio, englanti:ranska:espanja:malaiji:fonio, deu:Foniohirse, japani:フォニオ (fonio)  
 **fonte** *lähde (kaivo)* ← portugali:fonte, espanja:fuente, venäjä:фонтан (fontan), ranska:fontaine, englanti:fountain, japani:噴水 (funsui)  
 **for** *pois (poissa)* ← espanja:fuera, portugali:fora, deu:fort + englanti:far  
@@ -747,7 +746,7 @@
 **kirate** *karaatti* ← arabia: قِيرَاط‎ (qīrāṭ), englanti:ranska:carat, espanja:portugali:quilate, venäjä:карат (karat), yleiskiina:克拉 (kèlā), japani:カラット (karatto), korea:캐럿 (kaereot), malaiji:karat, suahili:karati, turkki:kırat  
 **kisma** *kohtalo (määrä)* ← arabia: قِسْمَة‎ (qisma), hindi:क़िस्मत (qismat), bangla:কিসমত (kiśmôt), englanti:kismet, venäjä:кисмет (kismet), turkki:kısmet  
 **kitaba** *kirjoitus (teksti)* ← arabia:urdu:(kitāb), persia:(ketâb), turkki:kitap, malaiji:kitab, suahili:kitabu, hindi:किताब (kitāb)  
-**kivi** *kiivi* ← englanti:ranska:espanja:malaiji:suahili:kiwi, portugali:quivi, japani:キーウィ (kīwi), korea:키위 (kiwi), hindi:कीवी (kīvī), turkki:kivi  
+**kivi frute** *kiivihedelmä* ← englanti:ranska:espanja:malaiji:suahili:kiwi, portugali:quivi, japani:キーウィ (kīwi), korea:키위 (kiwi), hindi:कीवी (kīvī), turkki:kivi, arabia: كِيوِي‎ (kiwī)  
 **klar** *selvä (selkeä)* ← deu:klar, espanja:portugali:claro, englanti:clear, ranska:clair  
 **klas** *luokka (kategoria)* ← englanti:class, espanja:clase, portugali:ranska:classe, venäjä:класс (klass), کلاس‎ (kelâs), malaiji:kelas, japani:クラス (kurasu)  
 **klien** ** ← englanti:client, espanja:portugali:ranska:cliente, venäjä:клиент (klient), japani:クライアント (kuraianto), malaiji:klien  
@@ -957,6 +956,7 @@
 **mer** *jäsen (osatekijä, komponentti)* ← englanti:member, espanja:miembro, portugali:membro, ranska:membre, japani:メンバー (menbā)  
 **meranti** *merantipuu* ← malaiji:deu:englanti:ranska:espanja:portugali:meranti  
 **mes** *kuukausi* ← ranska:mois, espanja:mez, portugali:mês, venäjä:месяц (mes’ac), englanti:menstral + suahili:mwezi  
+**mesaje** *viesti* ← englanti:deu:ranska:message, espanja:mensaje, portugali:mensagem, turkki:mesaj, japani:メッセージ (messēji), korea:메시지 (mesiji), venäjä:месседж (messedzh), malaiji:mesej  
 **mesi** *kristus (messias)* ← englanti:messiah, ranska:messie, espanja:mesías, portugali:messias, venäjä:мессия (messiya), arabia: مَسِيح‎ (masīḥ), hindi:मसीह (masīh), bangla:মসিহ (môśih), malaiji:al-Masih, suahili:Masiya, turkki:Mesih  
 **metal** *metalli* ← englanti:espanja:portugali:turkki:metal, ranska:métal, deu:Metall, venäjä:мета́лл (metáll)  
 **metre** *mitta (koko, määrä)* ← englanti:meter, espanja:portugali:-metro, venäjä:метр turkki:metre, + hindi:मात्रा (mātrā), bangla:মাত্রা (matra), malaiji:matra  
@@ -977,12 +977,12 @@
 **minor** *vähäinen* ← englanti:minor, portugali:espanja:menor, ranska:mineur, venäjä:минорный (minornyy)  
 **minta** ** ← englanti:mint, espanja:menta, ranska:menthe, venäjä:мята (m’ata), japani:ミント (minto)  
 **minute** *minuutti* ← englanti:minute, espanja:portugali:minuto, venäjä:мину́та (minúta), hindi:मिनट (minaṭ), bangla:মিনিট (miniṭ), malaiji:minit  
-**mira plate** *peili* ← englanti:mirror, ranska:miroir, arabia:mirʾāh, arz:mirāya  
+**mira** *tuijottaa (toljottaa)* ← ranska:mirer, espanja:portugali:mirar + japani:見る (miru) + arabia:مِرْآة‎ (mirʾāh)  
 **mirde** ** ← englanti:mild, puola:mierny, hindi:मृदु (mridu), wu-kiina:微 (mi3), kantoninkiina:微 (mei4)  
 **misal** *esimerkki* ← hindi:मिसाल (misāl), arabia:(mithāl), persia:(mesâl), malaiji:misal, suahili:mathalani, turkki:mesela  
-**mise** *lähettää* ← englanti:emit, espanja:remitir, portugali:emitir, ranska:émettre  
 **miskin** *kurja (raukka)* ← arabia:مِسْكِين (miskīn), persia:مسکین‎ (meskin), turkki:malaiji:miskin, suahili:maskini, hindi:, bangla:মিসকিন (miśkin), ranska:miskine, espanja:mezquino, portugali:mesquinho  
 **Misri** *Egypti* ← arabia:(miṣr), turkki:Mısır, suahili:Misri, hindi:मिस्र (misra), bangla:মিশর (miśôr)  
+**miti** *lähettää* ← englanti:emit, ranska:émettre, espanja:portugali:remitir, malaiji:emisi, deu:Mission, venäjä:миссия (missiya) + turkki:komisyon, hindi:कमीशन (kamīśan), bangla:কমিশন (kômiśôn)  
 **mitre** *metri* ← englanti:turkki:metre, deu:malaiji:meter, ranska:mètre, espanja:portugali:metro, venäjä:метр (metr), arabia: متر‎ (mitr), yleiskiina:米 (mǐ), japani:メートル (mētoru), korea:미터 (miteo), vietnami:mét, hindi:मीटर (mīṭar), bangla:মিটার (miṭar), suahili:mita  
 **mixe** *sekoittaa* ← deu:mischen, venäjä:мешать (měšat'), puola:mieszać, englanti:mix, italia:miscelare, + hindi:मिश्रण (miśrān)  
 **mode** *tapa* ← ranska:englanti:mode, espanja:portugali:modo  
@@ -1516,8 +1516,8 @@
 **ver** *tosi (aito)* ← englanti:very, italia:vero, venäjä:верный (verniy), espanja:verdadero, portugali:verdadeiro, deu:wahr, ranska:vrai  
 **veranda** *kuisti (terassi, veranta, parveke)* ← hindi:बरामदा (barāmd), portugali:varanda, malaiji:beranda, englanti:veranda, venäjä:веранда (veranda), japani:ベランダ (beranda), korea:베란다 (beranda), suahili:varanda  
 **verme** *mato* ← englanti:worm, portugali:verme, ranska:ver, deu:Wurm  
-**verse** *kohti (päin)* ← englanti:versus, ranska:verse, espanja:portugali:versar  
 **versi** *kohti (päin)* ← englanti:versus, ranska:verse, espanja:portugali:versar + venäjä:версия (versiya), malaiji:versi  
+**vespa** *mehiläinen tai ampiainen* ← espanja:avispa, portugali:italia:vespa, englanti:wasp, deu:Wespe  
 **veste** *länsi* ← englanti:west, deu:West, ranska:ouest, espanja:portugali:oeste, venäjä:вест (vest)  
 **veze** *paino* ← arabia: وَزْن‎ (wazn), hindi:वज़न (vazan), bangla:ওজন (ojôn), kannada:ವಜ್ಜೆ (vajje), suahili:uzani + venäjä:вес (ves) + ranska:peser, espanja:portugali:peso  
 **vide** *nähdä* ← venäjä:видеть (videt’), italia:vedere, espanja:portugali:ver, puola:widzieć, englanti:vide  
@@ -1642,6 +1642,6 @@
 **zoku** *vielä (yhä, jatkua)* ← wu-kiina:续 (zoq), kantoninkiina:續 (zuk6), japani:続 (zoku), korea:속 (sok), vietnami:kế tục  
 **zombi** *zombi* ← Kongo:nzambi, englanti:zombie, espanja:turkki:zombi, portugali:zumbi, venäjä:зомби (zombi), arabia:زُومْبِي‎ (zūmbī), hindi:ज़ोंबी (zombī), japani:ゾンビ (zonbi), korea:좀비 (jombi)  
 **zona** *vyö* ← kreikka:ζώνη (zónē), englanti:ranska:zone, espanja:portugali:zona, venäjä:зона (zona)  
-**zukam** *vilustuminen* ← arabia:زُكَام‎ (zukām), persia:زکام‎ (zukâm), hindi:ज़ुकाम (zukāma)  
+**zukam** *vilustuminen* ← arabia:زُكَام‎ (zukām), hindi:ज़ुकाम (zukām) + yleiskiina:感(冒) (gǎn(mào)), japani:感(冒) (kan(bō)), korea:감(기) (gam(gi)), vietnami:cảm  
 **zuku** *kansanryhmä (etninen ryhmä)* ← yleiskiina:族 (zú), kantoninkiina:族 (zuk6), japani:族 (zoku), korea:족 (jok), vietnami:tộc  
 **zumarde** *smaragdi* ← englanti:emerald, ranska:émeraude, espanja:portugali:esmeralda, japani:エメラルド (emerarudo) + arabia: زُمُرُّد‎ (zumurrud), suahili:zumaridi, malaiji:zamrud, venäjä:изумруд (izumrud), yleiskiina:祖母绿 (zǔmǔlǜ)  

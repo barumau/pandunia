@@ -669,12 +669,12 @@ fitologi - plantscienco (botaniko)
 fizika - fiziko  
 fizika ja - fizikisto  
 fizika suta - fiziko  
+• reflexi soni - eĥo  
 flur - fluoro  
 fobi - timo (fobio)  
 fobi ja - timiga  
 fokus - koncentriĝo  
 fon zi - litero  
-fong - abelo aŭ vespo  
 fora - taladri  
 forke - forko  
 forma - formo  
@@ -1095,7 +1095,8 @@ kitaba - skribo
 kitaba gi - tajpilo  
 kitabakan - librejo  
 kitaba suta - literaturo  
-kivi - kivo  
+kivi - apterigedo  
+kivi frute - kivo  
 klar - klara  
 klar! - kompreneble  
 klima - klimato  
@@ -1277,7 +1278,7 @@ medi dia - tagmezo
 medi gi - rimedo  
 medi noce - noktmezo  
 medu - mielo  
-medu fong - abelo  
+medu vespa - abelo  
 mega - miliono  
 megi - nubo  
 Mehiko - Meksikio  
@@ -1293,6 +1294,7 @@ mer - membro
 meranti - ŝoreo  
 Merkur - Merkuro  
 mes - monato  
+mesaje - mesaĝo  
 mesi - kristo  
 mesi gene - kristnasko  
 metal - metalo  
@@ -1320,13 +1322,13 @@ minare - turo
 minim - malplej  
 ministre ja - ministro  
 minute - minuto  
-mira - speguli  
 mira plate - spegulo  
-mira sonde - eĥo  
 misal - ekzemplo  
 miskin - mizera  
 Misri - Egipto  
 misri di - egipta  
+• konmitia - komiteo (komisiono)  
+mitioner - misiisto  
 mitre - metro  
 mixe - miksi  
 mixe gi - miksilo  
@@ -1945,6 +1947,7 @@ ver - vera
 veranda - verando (balkono)  
 vermute - vermuto  
 version - versio  
+vespa - abelo aŭ vespo  
 veze - pezo  
 veze di - peza  
 vide - vidi (rigardi)  

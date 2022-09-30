@@ -3,7 +3,7 @@
 ## A  
 
 abater - buca  
-abelha ou vespa - fong  
+abelha ou vespa - vespa  
 abeto - abies  
 Abissínia - Habaxa  
 abobrinha - xiu kaboga  
@@ -13,7 +13,7 @@ acanto-bastardo - pin kardon
 aceitar - acepe  
 acento - balaton  
 acesso (acceder) - acese  
-acesso - jin lai  
+acesso - inlai  
 aconselhar - fa sel  
 acordado - jaga  
 acordo (tratado, contrato) - trati  
@@ -24,6 +24,7 @@ acéfalo - sar hin
 adesivo - glu grafi  
 adjetivo - sifa loga  
 administrador - politi ja  
+admirar - amira  
 aeite (óleo) - nefte  
 aeroporto - air porte  
 aeróbico - air bio di  
@@ -308,6 +309,8 @@ casca (concha) - kaska
 cascalho - grave  
 casinha de cachorro - vaf bude  
 castanho (marrom) - kafe rang  
+Castela - Kastilia  
+castelhano - kastilia baxa  
 cavar (escavar) - kava  
 caçar - fa saide  
 cebola - piaze  
@@ -470,6 +473,7 @@ de - de
 dedo - angul  
 deitar - fa kux  
 deixar - laxe  
+delir (deletar) - deleta  
 demora (atraso, espera) - dele  
 dente-de-leão (taráxaco) - makan hua  
 depenar - depena  
@@ -549,11 +553,11 @@ elo - serime
 elogio - eu loga  
 em - a  
 embalar - fa lifafa  
+emitir - exmiti  
 emoticon (emoji) - gamo zi  
 emoçao - gamo  
 emprestar (pedir emprestado) - jeka  
 emprestar - jeka da  
-encarar (afrontar; vérsus) - verse  
 encarar (afrontar; vérsus) - versi  
 encontrar - ajami  
 endereço - adres  
@@ -588,6 +592,7 @@ eslavo - Slave
 esmeralda - zumarde  
 espada - gem  
 espaço - hali zi  
+espelho - mira plate  
 espetador - speter  
 espirrar - aci  
 espodossolo - hui darte  
@@ -895,6 +900,7 @@ lente - lense
 lento - anhaste  
 leque - sanzi  
 ler - dugu  
+letal - letali  
 Letónia - Latvia  
 leve - ligu  
 lhama - liama  
@@ -972,6 +978,7 @@ manto - juba
 mantra - mantra  
 mar - hai  
 maravilha - ajabu  
+maravilha - mirabil  
 marcha - marce  
 margarida - margarita  
 margarida-comum - englix margarita  
@@ -1028,7 +1035,9 @@ micróbio - mikro bio
 migração - migra  
 milhete (painço) - dana.cau  
 mina - kuanga xan  
+miragem - miraje  
 mirar (apontar) - fa dika  
+mirar - mira  
 mito - deu kata  
 modelar - fa forma  
 modo (maneira, jeito) - mode  
@@ -1370,6 +1379,7 @@ quincã (cunquate) - gingam
 quinta-feira - den nelu  
 quisque (pavilhão) - kioske  
 quivi - kivi  
+quivi - kivi frute  
 química - kimi logi  
 
 ## R  
@@ -1743,4 +1753,10 @@ zumbi - zombi
 ósmio - osmi yum  
 óxide - oxide  
 único (só) - un di  
+комиссия (комитет) - konmitia  
 люмен - lumen  
+месседж - mesaje  
+миссионер - mitioner  
+миссия - mition  
+передатчик - tramitir  
+передача - tramition  

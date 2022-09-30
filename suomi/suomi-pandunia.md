@@ -374,7 +374,6 @@ edetä (edistyä) - be jin
 edetä (päästä eteenpäin) - procese  
 edistyä (edetä, harppoa eteenpäin) - progrese  
 edistää - fa jin  
-edistää - jin  
 edistää - progresion  
 edustaa - vakil  
 edustaja (agentti) - vakil ja  
@@ -661,7 +660,6 @@ hedelmä - frute
 hedelmätarha - frute bagi  
 hei (haloo) - halo  
 heidän - yamen su  
-heijastaa (peilata) - mira  
 heijastaa (taittaa takaisin) - reflexi  
 heijastaa kuvia (projisoida) - fa lanse grafi  
 heijastaa kuvia (projisoida; projektio) - jete grafi  
@@ -838,6 +836,7 @@ häntä - koda
 häpeä - xarma  
 häpy (ulkosynnyttimet) - vulva  
 hätä (paniikki) - panike  
+hävitettävä - deletabil  
 hävitä (kärsiä tappio) - bai  
 hävitä (kärsiä tappio) - fa xiti bai  
 häviäjä - xiti bai ja  
@@ -852,8 +851,10 @@ ideogrammi - idea zi
 idängorilla - dong gorila  
 idänunikko - gui papi  
 ies - yogo  
+ihailla - amira  
 ihmeellinen (ällistyttävä, merkillinen) - ajabu di  
 ihmetellä (olla ihmeissään) - be ajabu  
+ihmeteltävä - mirabil  
 ihmetys (hämmästys) - ajabu  
 ihminen - insan  
 ihmiset (yleisen persoonan pronomini) - jen (jen men)  
@@ -1074,7 +1075,7 @@ kahvila - kafekan
 kahvipannu - kafe pote  
 kaide (reelinki) - langan  
 kaikki - pan  
-kaiku - mira sonde  
+kaiku - reflexi soni  
 kaipuu (ikävä, nostalgia) - nostalgia  
 kaivaa (kuoppa) - kava  
 kaivaa esiin - exkava  
@@ -1116,6 +1117,7 @@ Kanada - Kanada
 kanavoida - fa kanal  
 kandela - kandela  
 kangas - tela  
+kangastus - miraje  
 kannabis (marihuana, hamppu) - ganja  
 kannada (eräs intialainen kieli) - karnada baxa  
 kannattaa (tukea, edistää) - fa sim  
@@ -1158,6 +1160,8 @@ kassava (maniokki) - manioka
 kastanja - kastana  
 kaste - rose  
 kastike (soosi) - sos  
+Kastilia - Kastilia  
+kastilian kieli (espanjan kieli) - kastilia baxa  
 kasvaa (suurentua) - be dai  
 kasvaa - be raste  
 kasvattaa lapsia (kasvatus) - pedi  
@@ -1318,7 +1322,8 @@ kiitollisuus - xukurta
 kiitos - xukur  
 kiittää - fa xukur  
 kiivetä - fa eskale  
-kiivi - kivi  
+kiivi (lintu) - kivi  
+kiivihedelmä - kivi frute  
 kikherne - humus  
 kilistää (soittaa kelloa) - dang  
 kilogramma - kilogram  
@@ -1371,7 +1376,6 @@ koboltti - kobalte
 koettaa (haastaa, koetella, testata; koe, testi) - teste  
 kohtalo (määrä) - kisma  
 kohtelias (kiltti) - keci  
-kohti (päin) - verse  
 kohti (päin) - versi  
 koira - vaf  
 koirankoppi - vaf bude  
@@ -1395,6 +1399,7 @@ kolonialisti - koloni sim ja
 kolonisoida - fa koloni  
 Kolumbia - Kolombia  
 komentorivi - amir lin  
+komitea (komissio) - konmitia  
 kommunismi - kon sana sim  
 kommunisti - kon sana sim ja  
 Komorit - Komoro nesi  
@@ -1845,10 +1850,13 @@ lyödä (iskeä) - darba
 lähde (kaivo) - fonte  
 läheinen (melkein) - karibu  
 lähestyä - be karibu  
+lähetin - tramitir  
+lähetti (lähetyssaarnaaja) - mitioner  
 lähettiläs - dai anjil ja  
-lähettäjä (lähetin) - mise ja  
-lähettää - mise  
-lähetys - mise xe  
+lähettää - miti  
+lähettää takaisin - remiti  
+lähettää ulos - exmiti  
+lähetys - mition  
 lähetystö - dai anjilkan  
 lämmin - garma  
 lämpömittari - termo metre gi  
@@ -1994,10 +2002,10 @@ media (tiedotusvälineet) - media
 media - medi xe  
 meduusa - hai jele  
 megawatti (MW) - mega vate  
-mehiläinen - medu fong  
-mehiläinen tai ampiainen - fong  
-mehiläispesä - fong nide  
-mehiläispesä - medu fong nide  
+mehiläinen - medu vespa  
+mehiläinen tai ampiainen - vespa  
+mehiläispesä - medu vespa nide  
+mehiläispesä - vespa nide  
 mehu - jus  
 meidän - mimen su  
 meitnerium - meitner yum  
@@ -2815,7 +2823,6 @@ pääsiäinen - paska
 päästä (mennä läpi) - cese  
 päästä - be laxe  
 päästä pois (nukkua pois; edesmennyt) - decese  
-pääsy - jin lai  
 päätön - sar hin  
 pöly (tomu) - fun  
 pölynimuri - fun cupa gi  
@@ -3164,10 +3171,11 @@ sisällyttää (sulkea sisäänsä) - fa in klus
 sisältää - in tene  
 sisältö - in xe  
 sisäsyntyinen - innati  
-sisäänkäynti - jin mun  
+sisäänkäynti - inmun  
 sisäänpäin - to in  
 sisäänpäinsuuntautunut (introvertti) - in verse jen  
 sisäänpäinsuuntautunut (introvertti) - intraversi  
+sisääntulo (pääsy) - inlai  
 sitoa - fa bande  
 sitruuna - limon  
 sivilisaatio - sivilta  
@@ -3422,8 +3430,12 @@ tapahtua (tapahtuma) - voku
 tapaus (seikka) - kasu  
 tapetti - mur kaguji  
 tapioka - manioka fufu  
+tappaa (tappo) - leta  
 tappaa - matafa  
+tappaa pois (poistaa, hävittää) - deleta  
 tappaja - mataja  
+tappava - letali  
+tappava annos - letali doze  
 tarha (piha) - bagi  
 tarha (puisto) - parke  
 tarkastaa (tarkistaa, tutkia, tsekata) - inspete  
@@ -3604,6 +3616,8 @@ tropiikki - garma zona
 tuhat (kilo-) - kilo  
 tuhat triljoonaa (tsetta-) - zeta  
 tuhka - hui  
+tuijottaa (toljottaa) - mira  
+tuijottaja - mirar  
 tuikkia - fa sing foto  
 tulehdus - tis  
 tulenpalvonta - hogo puja  
@@ -3935,6 +3949,7 @@ vieraanvarainen (antelias, hyväntahtoinen) - karim di
 vierailija (vieras) - keka ja  
 vieras (tuntematon) - ansan di  
 viesti - anjil  
+viesti - mesaje  
 viestintuoja (airut) - anjil ja  
 Vietnam - Viete  
 vietnamilainen - viete baxa  
@@ -4049,6 +4064,8 @@ Välimeri - Geo Medi Hai
 väline (instrumentti) - medi gi  
 välipala (naposteltava) - xiu yam  
 välissä - a medi  
+välittää (siirtää, lähettää) - tramiti  
+välitys (siirtäminen, lähetys) - tramition  
 väri - rang  
 väriaine - rang mate  
 väsymys - fatige  
