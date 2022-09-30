@@ -63,7 +63,7 @@ You can find Pandunia forums in several places:
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | News and discussion |
 | Twitter  | [pandunia_](https://twitter.com/pandunia_) | News |
 | Facebook | [Pandunia group](http://www.facebook.com/groups/pandunia) | Discussion |
-| Discord  | [Dedicated Pandunia server](https://discord.gg/aXDk9fbk58) | Everything |
+| Discord  | [Dedicated Pandunia server](https://discord.com/invite/jf5GHcHXKk) | Everything |
 | Discord  | [pandunia-multilingual](https://discord.gg/FWavWeG) | Discussion. It's linked to the Telegram channel below. |
 | Telegram | [multilingual channel](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) | Discussion. It's linked to the Discord channel above. |
 | Telegram | [mimen loga pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Practicing. Only Pandunia is spoken here! |
