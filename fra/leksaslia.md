@@ -789,6 +789,7 @@
 **krati** ** ← eng:-cracy, fra:-cratie, spa:por:-cracia, rus:-кратия (kratiya), ara:(-qratiya), may:swa:-krasi  
 **krem** *crème* ← fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurīmu)  
 **krepe** *crêpe* ← fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella  
+**krikete** *cricket* ← eng:deu:fra:cricket, spa:críquet, por:críquete, rus:крикет (kriket), fas: کریکت‎ (kriket), hin:क्रिकेट (krikeṭ), ben:ক্রিকেট (krikeṭ), jpn:クリケット (kuriketto), kor:크리켓 (keuriket), vie:crích-kê, may:kriket, swa:kriketi, ara: كْرِيكِت‎ (krikit), hau:kur̃kèt  
 **krim** ** ← eng:fra:por:crime, spa:crimen, tgl:krimen  
 **krita** ** ← eng:cry, spa:por:gritar, fra:crier, rus:крича́ть (kričátʹ)  
 **kriton** *krypton* ← eng:krypton, fra:krypton, spa:criptón (kriptón), por:krípton, rus:криптон, zho:氪 (kè), jpn:クリプトン, kor:크립톤, vie:kripton, hin:क्रिप्टन, ben:ক্রিপ্টন, may:kripton, swa:kriptoni, ara: كربتون  
@@ -987,6 +988,7 @@
 **mixe** ** ← deu:mischen, rus:мешать (měšat'), pol:mieszać, eng:mix, ita:miscelare, + hin:मिश्रण (miśrān)  
 **mode** *mode (façon, manière)* ← fra:eng:mode, spa:por:modo  
 **model** ** ← eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́ль (modelʹ)  
+**mogu** *membrane* ← zho:膜 (mó), yue:膜 (mok6), jpn:膜 (maku), kor:막 (mak), vie:màng; mô  
 **moka** *arbre* ← zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka  
 **molekul** ** ← eng:molecule, spa:por:molécula, fra:molécule  
 **moli** *jasmin* ← kan:ಮಲ್ಲಿಗೆ  (mallige), tam:(mallikai), tel:మల్లె  (malle), may:melati, tha:มะลิ (má-lí), kor:말리 (malli), tha:มะลิ (mali), zho:茉莉 (mòlì), yue:茉莉 (mut6lei5)  
@@ -1224,6 +1226,8 @@
 **radi** ** ← eng:fra:radiation, spa:radiación, por:radiação, may:radiasi, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)  
 **radio** *radio* ← eng:fra:spa:por:radio, rus:радио (radio), tur:radyo, swa:redio, hin:रेडियो (reḍiyo), ben:রেডিও (reḍio), jpn:ラジオ (rajio), kor:라디오 (radio)  
 **radon** *radon* ← eng:radon, fra:radon, spa:radón, por:rádon, rus:радон, zho:氡 (dōng), jpn:ラドン, kor:라돈, vie:rađơn, hin:रेडन, ben:রেডন, may:radon, swa:radoni, ara: رادون  
+**ragbi** *럭비* ← 橄榄球  
+**ragubi** *rugby* ← eng:deu:fra:rugby, spa:por:rugbi, rus:регби (regbi), fas: راگبی‎ (râgbi), hin:रग्बी (ragbī), tam:ரக்பி (rakpi), may:tur:rabgi, swa:raga, ara: رَغْبِي‎ (raḡbī), jpn:ラグビー (ragubī), kor:럭비 (reokbi)  
 **rai** *avis (opinion)* ← ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey  
 **raite** ** ← eng:right  
 **raja** ** ← hin:राजा (rājā), রাজা (raja), may:raja, tel:రాజు (rāju) + eng:rajah, spa:por:rajá, rus:раджа  

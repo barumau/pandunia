@@ -471,7 +471,7 @@ fero - 铁
 fete - 事实  
 • infete - 传染  
 • rifete - 重复  
-filme - 膜  
+filme - 电影 (影片)  
 filsofi - 哲学  
 fin - 了  
 fine - 窄 (薄, 稀疏)  
@@ -877,6 +877,7 @@ kredi - 信赖
 kredija - 信徒  
 kredikarte - 信用卡  
 krepe - 薄烤饼  
+krikete - 板球  
 kriton - 氪  
 krokodil - 鳄  
 krokro - 蛙  
@@ -1055,6 +1056,7 @@ Misri - 埃及
 • konmitia - 委员会  
 mitioner - 传教士  
 mitre - 米 (公尺)  
+mogu - 膜  
 moka - 树木  
 moka bano - 木板  
 moka mate - 木材  

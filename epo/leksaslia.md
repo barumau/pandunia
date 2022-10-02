@@ -789,6 +789,7 @@
 **krati** *regi* ← angla:-cracy, franca:-cratie, hispana:portugala:-cracia, rusa:-кратия (kratiya), araba:(-qratiya), malaja:svahila:-krasi  
 **krem** *kremo* ← franca:crème, portugala:creme, hispana:crema, angla:cream, japana:クリーム (kurīmu)  
 **krepe** *krepo (patkuko)* ← franca:angla:crêpe, portugala:crepe, hispana:crepa, turka:krep, itala:crespella  
+**krikete** *kriketo* ← angla:deu:franca:cricket, hispana:críquet, portugala:críquete, rusa:крикет (kriket), persa: کریکت‎ (kriket), hindia:क्रिकेट (krikeṭ), bengala:ক্রিকেট (krikeṭ), japana:クリケット (kuriketto), korea:크리켓 (keuriket), vjetnama:crích-kê, malaja:kriket, svahila:kriketi, araba: كْرِيكِت‎ (krikit), haŭsa:kur̃kèt  
 **krim** *krimo* ← angla:franca:portugala:crime, hispana:crimen, filipina:krimen  
 **krita** ** ← angla:cry, hispana:portugala:gritar, franca:crier, rusa:крича́ть (kričátʹ)  
 **kriton** *kriptono* ← angla:krypton, franca:krypton, hispana:criptón (kriptón), portugala:krípton, rusa:криптон, mandarena:氪 (kè), japana:クリプトン, korea:크립톤, vjetnama:kripton, hindia:क्रिप्टन, bengala:ক্রিপ্টন, malaja:kripton, svahila:kriptoni, araba: كربتون  
@@ -987,6 +988,7 @@
 **mixe** *miksi* ← deu:mischen, rusa:мешать (měšat'), polona:mieszać, angla:mix, itala:miscelare, + hindia:मिश्रण (miśrān)  
 **mode** ** ← franca:angla:mode, hispana:portugala:modo  
 **model** ** ← angla:model, hispana:portugala:modelo, franca:modèle, deu:Modell, rusa:моде́ль (modelʹ)  
+**mogu** *membrano* ← mandarena:膜 (mó), kantona:膜 (mok6), japana:膜 (maku), korea:막 (mak), vjetnama:màng; mô  
 **moka** *arbo* ← mandarena:木 (mù), kantona:木 (muk6), japana:木 (moku), korea:목 (mok), vjetnama:mộc, oroma:muka  
 **molekul** ** ← angla:molecule, hispana:portugala:molécula, franca:molécule  
 **moli** *jasmeno* ← kanara:ಮಲ್ಲಿಗೆ  (mallige), tamila:(mallikai), teluga:మల్లె  (malle), malaja:melati, taja:มะลิ (má-lí), korea:말리 (malli), tha:มะลิ (mali), mandarena:茉莉 (mòlì), kantona:茉莉 (mut6lei5)  
@@ -1224,6 +1226,8 @@
 **radi** ** ← angla:franca:radiation, hispana:radiación, portugala:radiação, malaja:radiasi, rusa:радио (radio), turka:radyo, svahila:redio, hindia:रेडियो (reḍiyo), bengala:রেডিও (reḍio), japana:ラジオ (rajio), korea:라디오 (radio)  
 **radio** ** ← angla:franca:hispana:portugala:radio, rusa:радио (radio), turka:radyo, svahila:redio, hindia:रेडियो (reḍiyo), bengala:রেডিও (reḍio), japana:ラジオ (rajio), korea:라디오 (radio)  
 **radon** *radono* ← angla:radon, franca:radon, hispana:radón, portugala:rádon, rusa:радон, mandarena:氡 (dōng), japana:ラドン, korea:라돈, vjetnama:rađơn, hindia:रेडन, bengala:রেডন, malaja:radon, svahila:radoni, araba: رادون  
+**ragbi** ** ← 橄榄球  
+**ragubi** ** ← angla:deu:franca:rugby, hispana:portugala:rugbi, rusa:регби (regbi), persa: راگبی‎ (râgbi), hindia:रग्बी (ragbī), tamila:ரக்பி (rakpi), malaja:turka:rabgi, svahila:raga, araba: رَغْبِي‎ (raḡbī), japana:ラグビー (ragubī), korea:럭비 (reokbi)  
 **rai** *opinio* ← araba:(raʾy), svahila:rai, hindia:राय (rāy), persa:(ra'y), turka:rey  
 **raite** ** ← angla:right  
 **raja** *reĝo aŭ reĝino* ← hindia:राजा (rājā), রাজা (raja), malaja:raja, teluga:రాజు (rāju) + angla:rajah, hispana:portugala:rajá, rusa:раджа  

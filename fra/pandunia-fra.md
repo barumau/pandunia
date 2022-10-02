@@ -1083,6 +1083,7 @@ kredikarte - carte de crédit
 krem - crème  
 krepe - crêpe  
 krepekan - crêperie  
+krikete - cricket  
 kriton - krypton  
 krokodil - crocodilien  
 krokro - grenouille  
@@ -1292,6 +1293,7 @@ mition - misión
 mitioner - misionero  
 mitre - mètre  
 mode - mode (façon, manière)  
+mogu - membrane  
 moka - arbre  
 moka bano - planche  
 moka jong parke - arboretum, pépinière  
@@ -1576,6 +1578,8 @@ pute - compter (calculer)
 radi yum - radium  
 radio - radio  
 radon - radon  
+ragubi - rugby  
+ragbi - 럭비  
 rai - avis (opinion)  
 rajanan - roi  
 rakun - raton laveur  

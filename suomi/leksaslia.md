@@ -78,7 +78,7 @@
 **Axur dexa** *Assyria* ← akk:(aššur), arabia:(aššur), hindi:अश्शूर (aśśūr), persia:(āšūr), englanti:Assyria, ranska:Assyrie, espanja:Asiria, portugali:Assíria, venäjä:Ассирия (Assiriya), yleiskiina:亚述 (Yàshù)  
 **aya** *piika* ← portugali:aia, hindi:आया (āyā), telugu:ఆయా (āyā) + yleiskiina:阿姨 (āyí)  
 **ayo** *oi! (ai, oijoi)* ← ranska:aïe, espanja:ay, portugali:ai, venäjä:ай (ay), persia: آی‎ (ây), yleiskiina:哎哟 (āiyō), korea:아야 (aya), telugu:అయ్యో (ayyō), tamili:ஐயோ (aiyō)  
-**babu** *luku (kirjan osa)* ← arabia:persia:urdu: بَاب‎ (bāb), malaiji:bab, suahili:babu  
+**babu** *luku (jakso, tarinan osa)* ← arabia:persia:urdu: بَاب‎ (bāb), malaiji:bab, suahili:babu  
 **babuce** *tohveli* ← arabia: بَابُوج‎ (bābūj), espanja:babucha, ranska:babouche, englanti:babouche  
 **babul** *palloakaasia* ← hindi:बबूल (babūl), bangla:বাবলা (bābalā), englanti:babul  
 **baca** *lapsi* ← persia:(bačče), urdu:(baccā), hindi:बच्चा (baccā), gujarati: બચ્ચું (baccũ), filippiini:bata  
@@ -388,7 +388,7 @@
 **figur** *hahmo (figuuri)* ← englanti:ranska:figure, espanja:portugali:figura  
 **fikir** *ajatus* ← arabia:(fikr), malaiji:pikir, suahili:fikiri, turkki:fikir, hindi:(fikr),  persia:(fekr)  
 **fili** *tykkääminen* ← englanti:-philia, ranska:-philie, espanja:portugali:-filia, venäjä:-филия (-filiya), turkki:-fili  
-**filme** *filmi* ← englanti:espanja:ranska:film, portugali:filme, deu:Film, venäjä:фильм (fil’m), turkki:film, arabia:فيلم (film), japani:フィルム (firumu), malaiji:pilem, suahili:filamu  
+**filme** *filmi (video, elokuva)* ← englanti:espanja:ranska:film, portugali:filme, deu:Film, venäjä:фильм (fil’m), turkki:film, arabia:فيلم (film), japani:フィルム (firumu), malaiji:pilem, suahili:filamu  
 **filsofi** *filosofia* ← englanti:philosophy, ranska:philosophie, espanja:portugali:filosofia, venäjä:философия (filosofiya), arabia: فَلْسَفَة (falsafa), hindi:फ़लसफ़ा (falsafā), malaiji:filsafat, suahili:falsafa, turkki:felsefe  
 **filtre** *suodattaa* ← englanti:filter, espanja:portugali:filtro, ranska:turkki:filtre, venäjä:фильтр (filʹtr), hindi:फ़िल्टर (filṭar), bangla:ফিল্টার (philṭar), japani:フィルター (firutā)  
 **fin** *loppu* ← englanti:finish, ranska:espanja:fin, portugali:fim  
@@ -789,6 +789,7 @@
 **krati** *valta* ← englanti:-cracy, ranska:-cratie, espanja:portugali:-cracia, venäjä:-кратия (kratiya), arabia:(-qratiya), malaiji:suahili:-krasi  
 **krem** *kerma* ← ranska:crème, portugali:creme, espanja:crema, englanti:cream, japani:クリーム (kurīmu)  
 **krepe** *lätty (räiskäle, pannukakku)* ← ranska:englanti:crêpe, portugali:crepe, espanja:crepa, turkki:krep, italia:crespella  
+**krikete** *kriketti* ← englanti:deu:ranska:cricket, espanja:críquet, portugali:críquete, venäjä:крикет (kriket), persia: کریکت‎ (kriket), hindi:क्रिकेट (krikeṭ), bangla:ক্রিকেট (krikeṭ), japani:クリケット (kuriketto), korea:크리켓 (keuriket), vietnami:crích-kê, malaiji:kriket, suahili:kriketi, arabia: كْرِيكِت‎ (krikit), hausa:kur̃kèt  
 **krim** *rikos* ← englanti:ranska:portugali:crime, espanja:crimen, filippiini:krimen  
 **krita** *huutaa* ← englanti:cry, espanja:portugali:gritar, ranska:crier, venäjä:крича́ть (kričátʹ)  
 **kriton** *krypton* ← englanti:krypton, ranska:krypton, espanja:criptón (kriptón), portugali:krípton, venäjä:криптон, yleiskiina:氪 (kè), japani:クリプトン, korea:크립톤, vietnami:kripton, hindi:क्रिप्टन, bangla:ক্রিপ্টন, malaiji:kripton, suahili:kriptoni, arabia: كربتون  
@@ -987,6 +988,7 @@
 **mixe** *sekoittaa* ← deu:mischen, venäjä:мешать (měšat'), puola:mieszać, englanti:mix, italia:miscelare, + hindi:मिश्रण (miśrān)  
 **mode** *tapa* ← ranska:englanti:mode, espanja:portugali:modo  
 **model** *malli* ← englanti:model, espanja:portugali:modelo, ranska:modèle, deu:Modell, venäjä:моде́ль (modelʹ)  
+**mogu** *kalvo (filmi)* ← yleiskiina:膜 (mó), kantoninkiina:膜 (mok6), japani:膜 (maku), korea:막 (mak), vietnami:màng; mô  
 **moka** *puu* ← yleiskiina:木 (mù), kantoninkiina:木 (muk6), japani:木 (moku), korea:목 (mok), vietnami:mộc, oromo:muka  
 **molekul** ** ← englanti:molecule, espanja:portugali:molécula, ranska:molécule  
 **moli** *jasmiini* ← kannada:ಮಲ್ಲಿಗೆ  (mallige), tamili:(mallikai), telugu:మల్లె  (malle), malaiji:melati, thai:มะลิ (má-lí), korea:말리 (malli), tha:มะลิ (mali), yleiskiina:茉莉 (mòlì), kantoninkiina:茉莉 (mut6lei5)  
@@ -1224,6 +1226,8 @@
 **radi** *säde* ← englanti:ranska:radiation, espanja:radiación, portugali:radiação, malaiji:radiasi, venäjä:радио (radio), turkki:radyo, suahili:redio, hindi:रेडियो (reḍiyo), bangla:রেডিও (reḍio), japani:ラジオ (rajio), korea:라디오 (radio)  
 **radio** ** ← englanti:ranska:espanja:portugali:radio, venäjä:радио (radio), turkki:radyo, suahili:redio, hindi:रेडियो (reḍiyo), bangla:রেডিও (reḍio), japani:ラジオ (rajio), korea:라디오 (radio)  
 **radon** *radon* ← englanti:radon, ranska:radon, espanja:radón, portugali:rádon, venäjä:радон, yleiskiina:氡 (dōng), japani:ラドン, korea:라돈, vietnami:rađơn, hindi:रेडन, bangla:রেডন, malaiji:radon, suahili:radoni, arabia: رادون  
+**ragbi** ** ← 橄榄球  
+**ragubi** ** ← englanti:deu:ranska:rugby, espanja:portugali:rugbi, venäjä:регби (regbi), persia: راگبی‎ (râgbi), hindi:रग्बी (ragbī), tamili:ரக்பி (rakpi), malaiji:turkki:rabgi, suahili:raga, arabia: رَغْبِي‎ (raḡbī), japani:ラグビー (ragubī), korea:럭비 (reokbi)  
 **rai** *mielipide (näkemys)* ← arabia:(raʾy), suahili:rai, hindi:राय (rāy), persia:(ra'y), turkki:rey  
 **raite** *oikea puoli* ← englanti:right  
 **raja** *monarkki (kuningas, kuningatar)* ← hindi:राजा (rājā), রাজা (raja), malaiji:raja, telugu:రాజు (rāju) + englanti:rajah, espanja:portugali:rajá, venäjä:раджа  

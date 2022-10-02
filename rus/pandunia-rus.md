@@ -538,7 +538,7 @@ fete - факт
 • rifete - повторять  
 fetekan - завод (фабрика)  
 feter - фактор  
-filme - плева (фильм)  
+filme - фильм (кинокарти́а)  
 filsofi - философия  
 fine - тонкий (узкий)  
 fiorde - фьорд  
@@ -978,6 +978,7 @@ kredi - доверять (понадеяться)
 kredija - верующий  
 kredikarte - кредитная карточка  
 krepe - блин  
+krikete - крикет  
 kriton - криптон  
 krokodil - крокодил  
 krokro - лягушка  
@@ -1172,6 +1173,7 @@ Misri - Египет
 mitre - метр  
 mixe - мешать  
 mixe alkol - коктейль  
+mogu - плева  
 moka - дерево  
 moka bano - доска (планка)  
 moka kane - палка  
@@ -1445,6 +1447,8 @@ radi longta - радиус
 radi yum - радий  
 radio - радио  
 radon - радон  
+ragubi - регби  
+ragbi - rugby  
 rai - мнение  
 rajanan - король  
 rakun - енот  

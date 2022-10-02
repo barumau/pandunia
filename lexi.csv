@@ -246,7 +246,7 @@ aya|aya|||por:aia, hin:आया (āyā), tel:ఆయా (āyā) + zho:阿姨 (ā
 ayo|ayo|||fra:aïe, spa:ay, por:ai, rus:ай (ay), fas: آی‎ (ây), zho:哎哟 (āiyō), kor:아야 (aya), tel:అయ్యో (ayyō), tam:ஐயோ (aiyō)|ouch (expressing pain, distress, shock and fear)||aïe!|ay!|ai!|||||||||||哎哟||痛い|아야||aj (alas)|oi! (ai, oijoi)|aj!, ał!
 Azerbaijan|Azerbaijan|dexa|AZ||Azerbaijan||Azerbaijan|Azerbaiyán||||||||||||||||||Azerbaidžan|Azerbejdżan
 B|B||||B||B|B|B|B||B|B||B|B|B|B||B||B|B|B|B|B|B
-babu|babu|||ara:fas:urd: بَاب‎ (bāb), may:bab, swa:babu|chapter (section)||chapitre|capítulo (sección)||глава|||||bab|(بَاب‎) فَصْل‎|bölüm|babu (sura)||章|||||ĉapitro|luku (kirjan osa)|rozdział, sekcja
+babu|babu|||ara:fas:urd: بَاب‎ (bāb), may:bab, swa:babu|chapter (section)||chapitre|capítulo (sección)||глава|||||bab|(بَاب‎) فَصْل‎|bölüm|babu (sura)||章|||||ĉapitro|luku (jakso, tarinan osa)|rozdział, sekcja
 babuce|babuce|||ara: بَابُوج‎ (bābūj), spa:babucha, fra:babouche, eng:babouche|slipper||pantoufle (babouche)|chinelo (pantufa)|||||||||||||||||pantoflo|tohveli|kapeć (papeć, bambosz)
 babul|babul|bio|Vachellia|hin:बबूल (babūl), ben:বাবলা (bābalā), eng:babul|thorn tree (acacia, wattle)||vachellia|||вахелия||||||||||||||||palloakaasia|
 baca|baca|||fas:(bačče), urd:(baccā), hin:बच्चा (baccā), guj: બચ્ચું (baccũ), tgl:bata|child (minor)||enfant|niño o niña|criança (menino)|ребёнок||बच्चा||||طِفْل||mtoto||小孩||子供 (赤ちゃん)|||infano|lapsi|dziecko (nieletni)
@@ -1347,7 +1347,8 @@ fili|fili|||eng:-philia, fra:-philie, spa:por:-filia, rus:-филия (-filiya),
 fili.ja|fili ja||||fan (-phile)|||fan (-filo)||||||||||||||||||fani (-fiili)|miłośnik (fan, -fil)
 Filipin|Filipin|dexa|PH||Philippines|||Filipinas|||||||||||||||||Filipinoj|Filippiinit|Filipiny
 Filistin|Filistin|dexa|PS||Palestinian Territory|||Palestina||||||||||||||||||Palestiina|Terytorium Palestyńskie
-filme|filme|||eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem, swa:filamu|film (membrane, video)|||película (film, membrana)||плева (фильм)|||||||film|filamu||膜||フィルム (膜)|||filmo|filmi|film
+filme|filme|||eng:spa:fra:film, por:filme, deu:Film, rus:фильм (fil’m), tur:film, ara:فيلم (film), jpn:フィルム (firumu), may:pilem, swa:filamu|film (movie or video)|||película (film)||фильм (кинокарти́а)|||||||film|filamu||电影 (影片)||映画  (フィルム)|||filmo|filmi (video, elokuva)|film
+filme.babu|filme babu||||episode (instalment of a drama)|||||||||||||||||||||sarjan jakso|
 filsofi|filsofi|||eng:philosophy, fra:philosophie, spa:por:filosofia, rus:философия (filosofiya), ara: فَلْسَفَة (falsafa), hin:फ़लसफ़ा (falsafā), may:filsafat, swa:falsafa, tur:felsefe|philosophy||philosophie|filosofía|filosofia|философия||दर्शन (फ़लसफ़ा)|||filsafat|فَلْسَفَة|felsefe|falsafa||哲学||哲学|철학|triết học|filozofio|filosofia|filozofia
 filsofi.di|filsofi di||||philosophic|||filosófico|||||||||||||||||filozofia|filosofinen|filozoficzny
 filsofi.ja|filsofi ja||||philosopher|||filósofo||||||||||mwanafalsafa|||||||filozofo|filosofi|filozof
@@ -2369,6 +2370,7 @@ krem|krem|||fra:crème, por:creme, spa:crema, eng:cream, jpn:クリーム (kurī
 krem.di|krem di|rang|||creamy (cream colored)|||cremoso||||||||||||||||||kermankeltainen|kremowy
 krepe|krepe|yam||fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|pancake||crêpe|panqueque (crepa)|crepe (panqueca)|блин|||||||krep|||薄烤饼||パンケーキ|팬케이크||krepo (patkuko)|lätty (räiskäle, pannukakku)|naleśnik
 krepe.kan|krepekan||||pancake house (crêperie)||crêperie||||||||||||||||||krepejo|kreppikoju|naleśnikarnia
+krikete|krikete|||eng:deu:fra:cricket, spa:críquet, por:críquete, rus:крикет (kriket), fas: کریکت‎ (kriket), hin:क्रिकेट (krikeṭ), ben:ক্রিকেট (krikeṭ), jpn:クリケット (kuriketto), kor:크리켓 (keuriket), vie:crích-kê, may:kriket, swa:kriketi, ara: كْرِيكِت‎ (krikit), hau:kur̃kèt|cricket (sport)|Cricket|cricket|críquet|críquete|крикет|کریکت‎|क्रिकेट|ক্রিকেট||kriket|كْرِيكِت‎||kriketi|kur̃kèt|板球||クリケット|크리켓|crích-kê (bóng gậy)|kriketo|kriketti|krykiet
 krim|krim|||eng:fra:por:crime, spa:crimen, tgl:krimen|crime|||crimen (delito)|||||||||||||||||krimo|rikos|przestępstwo
 krim.di|krim di||||criminal|||criminal|||||||||||||||||krima|rikos- (rikollinen)|kryminalny, przestępczy
 krita|krita|||eng:cry, spa:por:gritar, fra:crier, rus:крича́ть (kričátʹ)|cry (shout)|||gritar||||||||||||||||||huutaa|krzyknąć, krzyczeć
@@ -2845,6 +2847,7 @@ mixe.gi|mixe gi||||mixer (blender)|||batidora (licuadora, mezcladora)|||||||||||
 mode|mode|||fra:eng:mode, spa:por:modo|way (manner, mode)||mode (façon, manière)|modo (manera, forma)|modo (maneira, jeito)|||||||||||||||||tapa|sposób (metoda, tryb)
 mode.loge|mode loge||||adverb|||adverbo||||||||||||||||||adverbi|przysłówek
 model|model|||eng:model, spa:por:modelo, fra:modèle, deu:Modell, rus:моде́ль (modelʹ)|model (design)|||modelar||||||||||||||||||malli|model, wzór, wzorzec, projekt
+mogu|mogu|||zho:膜 (mó), yue:膜 (mok6), jpn:膜 (maku), kor:막 (mak), vie:màng; mô|membrane (film)|Membran (Häutchen)|membrane|membrana|membrana|плева||झिल्ली||||||||膜||膜|막|màng|membrano|kalvo (filmi)|błonka (membrana)
 moka|moka|||zho:木 (mù), yue:木 (muk6), jpn:木 (moku), kor:목 (mok), vie:mộc, orm:muka|tree||arbre|árbol|árvore|дерево||पेड़|গাছ (বৃক্ষ)||pohon (pokok)|شجر‎|ağaç|mti||树木||木|나무|cây|arbo|puu|drzewo
 moka.bano|moka bano||||wood board (plank)||planche|tablón|tábua (prancha)|доска (планка)||||||||||木板||||ván|||deska
 moka.jong.parke|moka jong parke||||arboretum||arboretum, pépinière|arboreto|||||||||||||||||arboĝardeno|arboretum (puulajipuisto)|arboretum
@@ -3483,6 +3486,8 @@ radio|radio|||eng:fra:spa:por:radio, rus:радио (radio), tur:radyo, swa:redi
 radio.mise.gi|radio mise gi||||radiotransmitter|||radiotransmisor||||||||||||||||||radiolähetin|nadajnik radiowy
 radio.na.gi|radio na gi||||radio receiver|||receptor de radio|||||||||||||||||radio|radiovastaanotin|radio
 radon|radon|yum 086|Rn|eng:radon, fra:radon, spa:radón, por:rádon, rus:радон, zho:氡 (dōng), jpn:ラドン, kor:라돈, vie:rađơn, hin:रेडन, ben:রেডন, may:radon, swa:radoni, ara: رادون|radon||radon|radón|rádon|радон||रेडन|রেডন||radon|رادون|radon|radoni||氡||ラドン|라돈|rađơn|radono|radon|radon
+ragubi|ragubi|||eng:deu:fra:rugby, spa:por:rugbi, rus:регби (regbi), fas: راگبی‎ (râgbi), hin:रग्बी (ragbī), tam:ரக்பி (rakpi), may:tur:rabgi, swa:raga, ara: رَغْبِي‎ (raḡbī), jpn:ラグビー (ragubī), kor:럭비 (reokbi)|rugby|Rugby|rugby|rugbi|rugbi (râguebi)|регби|راگبی‎|रग्बी||ரக்பி|ragbi|"رَغْبِي‎
+رَغْبِي‎"|ragbi|raga|ragbi|橄榄球||ラグビー|럭비|bóng bầu dục|rugbeo|rugby|rugby
 rai|rai|||ara:(raʾy), swa:rai, hin:राय (rāy), fas:(ra'y), tur:rey|opinion (view)||avis (opinion)|opinión (juicio, consideración)|opinião|мнение||विचार (राय)|অভিমতি (নজর)||opini|رَأْي‎|rey|wazo (rai)||意见 (见解)||意見 (見解)|의견 (견해)|ý kiến (kiến giải)|opinio|mielipide (näkemys)|opinia, pogląd
 raite|raite|||eng:right|right hand side|||lado derecho||||||||||||||右||||oikea puoli|prawa strona
 raite.di|raite di||||right hand|||derecho|||||||||||||||||||prawy (prawostronny, z prawej strony)

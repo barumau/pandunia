@@ -894,6 +894,7 @@ kredija - crente
 kredikarte - cartão de crédito  
 krem - crème  
 krepe - crepe (panqueca)  
+krikete - críquete  
 kriton - krípton  
 krokodil - crocodiliano  
 krokro - rã  
@@ -1099,6 +1100,7 @@ mition - миссия
 mitioner - миссионер  
 mitre - metro  
 mode - modo (maneira, jeito)  
+mogu - membrana  
 moka - árvore  
 moka bano - tábua (prancha)  
 moka kane - estaca  
@@ -1363,6 +1365,8 @@ pute - contar (calcular)
 radi yum - rádio  
 radio - radio  
 radon - rádon  
+ragubi - rugbi (râguebi)  
+ragbi - rugbeo  
 rai - opinião  
 rajanan - rei  
 rakun - guaxinim (rato-lavadeiro)  

@@ -243,6 +243,7 @@
  - fen di  
  - fenil  
  - fenol  
+ - filme babu  
  - fin di  
  - fizika di  
  - fizika gi  
@@ -1196,6 +1197,7 @@ bóg, bóstwo - deu
 bąk, bączek - rota vanu gi  
 bęben - guma  
 bławatek - nil kentaur hua  
+błonka (membrana) - mogu  
 błotnik - poto defa bano  
 błotnisty - poto di  
 błoto - poto  
@@ -2156,6 +2158,7 @@ kropla - giota
 krosno - tela gi  
 krowa - mumu  
 krwawić - lou sang  
+krykiet - krikete  
 kryminalny, przestępczy - krim di  
 krypton - kriton  
 kryształ - bilor  

@@ -539,6 +539,7 @@ cravache - uma bici
 crayon - karbe kalam  
 creuser (fosse) - kava  
 crevette - gamba  
+cricket - krikete  
 cristal - bilor  
 crochet - huke  
 crocodile - long krokodil  
@@ -1117,6 +1118,7 @@ maximum - maxim xe
 maître - master  
 meitnérium - meitner yum  
 melt - yung  
+membrane - mogu  
 mendélévium - mendelef yum  
 mensaje - mesaje  
 menthe - minta  
@@ -1614,6 +1616,7 @@ rubidium - rubi yum
 rubis - rubi bau seku  
 ruche (nid d'abeille) - vespa nide  
 rue - gali  
+rugby - ragubi  
 ruse - truke  
 rutherfordium - ruterfor yum  
 ruthénium - rus yum  
@@ -2038,3 +2041,4 @@ zéro - siro
 être couché - be kux  
 être humain - insan  
 œil - yen  
+럭비 - ragbi  

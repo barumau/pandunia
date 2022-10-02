@@ -273,7 +273,7 @@ Azerbaijan - Azerbaidžan
 
 ## B  
 
-babu - luku (kirjan osa)  
+babu - luku (jakso, tarinan osa)  
 babuce - tohveli  
 babul - palloakaasia  
 baca - lapsi  
@@ -1333,7 +1333,8 @@ fili - tykkääminen
 fili ja - fani (-fiili)  
 Filipin - Filippiinit  
 Filistin - Palestiina  
-filme - filmi  
+filme - filmi (video, elokuva)  
+filme babu - sarjan jakso  
 filsofi - filosofia  
 filsofi di - filosofinen  
 filsofi ja - filosofi  
@@ -2262,6 +2263,7 @@ krem - kerma
 krem di - kermankeltainen  
 krepe - lätty (räiskäle, pannukakku)  
 krepekan - kreppikoju  
+krikete - kriketti  
 krim - rikos  
 krim di - rikos- (rikollinen)  
 krita - huutaa  
@@ -2664,6 +2666,7 @@ mixe gi - sekoitin
 mode - tapa  
 mode loge - adverbi  
 model - malli  
+mogu - kalvo (filmi)  
 moka - puu  
 moka jong parke - arboretum (puulajipuisto)  
 moka kane - keppi (puukeppi)  

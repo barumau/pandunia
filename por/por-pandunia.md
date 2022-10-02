@@ -436,6 +436,7 @@ cronómetro - dura metre gi
 cru - seng  
 cruz - krus  
 crème - krem  
+críquete - krikete  
 crómo - krom yum  
 crónico - dura di  
 cubo - kube  
@@ -1012,6 +1013,7 @@ melancia - arbuza
 meloa (cantalupo) - kantalupo melon  
 melão - melon  
 melão coreano - aroma melon  
+membrana - mogu  
 memória - memo  
 mendelévio - mendelef yum  
 meninge - meninge  
@@ -1443,6 +1445,8 @@ rouxinol - bulbul
 rua - gali  
 rubi - rubi bau seku  
 rubídio - rubi yum  
+rugbeo - ragbi  
+rugbi (râguebi) - ragubi  
 rutherfórdio - ruterfor yum  
 ruténio - rus yum  
 rádio - radi yum  

@@ -475,7 +475,7 @@ fete - する (事実)
 • infete - 伝染  
 • rifete - 繰り返す  
 fetekan - 工場 (製造所)  
-filme - フィルム (膜)  
+filme - 映画  (フィルム)  
 filsofi - 哲学  
 fine - 狭い (薄い, 細い)  
 fiorde - フィヨルド  
@@ -890,6 +890,7 @@ kredija - 信徒 (信者)
 kredikarte - クレジットカード  
 krem - クリーム  
 krepe - パンケーキ  
+krikete - クリケット  
 kriton - クリプトン  
 krokodil - ワニ  
 krokro - 蛙  
@@ -1096,6 +1097,7 @@ Misri - エジプト
 mitioner - 宣教師  
 mitre - メートル  
 mixe alkol - カクテル (混合酒)  
+mogu - 膜  
 moka - 木  
 moka kane - 杭  
 moka tana - 丸木  

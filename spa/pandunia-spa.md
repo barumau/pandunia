@@ -1196,7 +1196,7 @@ fili - attracción (-filia)
 fili ja - fan (-filo)  
 Filipin - Filipinas  
 Filistin - Palestina  
-filme - película (film, membrana)  
+filme - película (film)  
 filsofi - filosofía  
 filsofi di - filosófico  
 filsofi ja - filósofo  
@@ -2091,6 +2091,7 @@ kredikarte - tarjeta de crédito
 krem - crema  
 krem di - cremoso  
 krepe - panqueque (crepa)  
+krikete - críquet  
 krim - crimen (delito)  
 krim di - criminal  
 krita - gritar  
@@ -2524,6 +2525,7 @@ mixe gi - batidora (licuadora, mezcladora)
 mode - modo (manera, forma)  
 mode loge - adverbo  
 model - modelar  
+mogu - membrana  
 moka - árbol  
 moka bano - tablón  
 moka jong parke - arboreto  
@@ -3100,6 +3102,8 @@ radio - radio
 radio mise gi - radiotransmisor  
 radio na gi - receptor de radio  
 radon - radón  
+ragubi - rugbi  
+ragbi - bóng bầu dục  
 rai - opinión (juicio, consideración)  
 raite - lado derecho  
 raite di - derecho  

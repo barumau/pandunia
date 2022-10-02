@@ -523,6 +523,7 @@ bárbaro - barbar
 básico - baze di  
 béisbol - baze bol  
 Bélgica - Belgi  
+bóng bầu dục - ragbi  
 bóveda - arka cati  
 bóxer - boce pante  
 búbalo (arni) - karbau  
@@ -988,6 +989,7 @@ crueldad (tiranía) - zalimta
 cruz - krus  
 cruzar - be krus  
 cráneo (calavera) - sar oste  
+críquet - krikete  
 crítico (fundamental) - krizi di  
 crítico - piping ja  
 crónico - dura di  
@@ -2406,6 +2408,7 @@ melón amargo - kali melon
 melón cantalupo - kantalupo melon  
 melón coreano - aroma melon  
 melón verde - luga melon  
+membrana - mogu  
 memoria - memo  
 memorándum (nota) - memo note  
 mendelevio - mendelef yum  
@@ -2906,7 +2909,7 @@ pelear - fa jang
 peligro - hatar  
 peligroso - hatar di  
 pelo - kexa  
-película (film, membrana) - filme  
+película (film) - filme  
 película (filme) - kino grafi  
 pena (tristeza) - duku  
 penal (penetenciario) - fatu di  
@@ -3372,6 +3375,7 @@ rubidio - rubi yum
 rubí - rubi bau seku  
 rueda (volante) - cakra  
 rueda del mouse - muxu cakra  
+rugbi - ragubi  
 ruido - kelele  
 ruiseñor - bulbul  
 Rumania - Romania  

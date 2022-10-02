@@ -1393,7 +1393,8 @@ fili - attraction (fascination, -philia)
 fili ja - fan (-phile)  
 Filipin - Philippines  
 Filistin - Palestinian Territory  
-filme - film (membrane, video)  
+filme - film (movie or video)  
+filme babu - episode (instalment of a drama)  
 filsofi - philosophy  
 filsofi di - philosophic  
 filsofi ja - philosopher  
@@ -2423,6 +2424,7 @@ krem - cream
 krem di - creamy (cream colored)  
 krepe - pancake  
 krepekan - pancake house (crêperie)  
+krikete - cricket (sport)  
 krim - crime  
 krim di - criminal  
 krita - cry (shout)  
@@ -2901,6 +2903,7 @@ mixe gi - mixer (blender)
 mode - way (manner, mode)  
 mode loge - adverb  
 model - model (design)  
+mogu - membrane (film)  
 moka - tree  
 moka bano - wood board (plank)  
 moka jong parke - arboretum  
@@ -3547,6 +3550,7 @@ radio - radio
 radio mise gi - radiotransmitter  
 radio na gi - radio receiver  
 radon - radon  
+ragubi - rugby  
 rai - opinion (view)  
 raite - right hand side  
 raite di - right hand  

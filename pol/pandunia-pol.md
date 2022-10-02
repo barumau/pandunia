@@ -1359,6 +1359,7 @@ fili ja - miłośnik (fan, -fil)
 Filipin - Filipiny  
 Filistin - Terytorium Palestyńskie  
 filme - film  
+filme babu -   
 filsofi - filozofia  
 filsofi di - filozoficzny  
 filsofi ja - filozof  
@@ -2389,6 +2390,7 @@ krem - krem
 krem di - kremowy  
 krepe - naleśnik  
 krepekan - naleśnikarnia  
+krikete - krykiet  
 krim - przestępstwo  
 krim di - kryminalny, przestępczy  
 krita - krzyknąć, krzyczeć  
@@ -2867,6 +2869,7 @@ mixe gi - mikser, blender, robot kuchenny
 mode - sposób (metoda, tryb)  
 mode loge - przysłówek  
 model - model, wzór, wzorzec, projekt  
+mogu - błonka (membrana)  
 moka - drzewo  
 moka bano - deska  
 moka jong parke - arboretum  

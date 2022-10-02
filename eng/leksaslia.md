@@ -388,7 +388,7 @@
 **figur** *figure (representation)* ← English:French:figure, Spanish:Portuguese:figura  
 **fikir** *thought (idea)* ← Arabic:(fikr), Malay:pikir, Swahili:fikiri, Turkish:fikir, Hindi:(fikr),  Persian:(fekr)  
 **fili** *attraction (fascination, -philia)* ← English:-philia, French:-philie, Spanish:Portuguese:-filia, Russian:-филия (-filiya), Turkish:-fili  
-**filme** *film (membrane, video)* ← English:Spanish:French:film, Portuguese:filme, deu:Film, Russian:фильм (fil’m), Turkish:film, Arabic:فيلم (film), Japanese:フィルム (firumu), Malay:pilem, Swahili:filamu  
+**filme** *film (movie or video)* ← English:Spanish:French:film, Portuguese:filme, deu:Film, Russian:фильм (fil’m), Turkish:film, Arabic:فيلم (film), Japanese:フィルム (firumu), Malay:pilem, Swahili:filamu  
 **filsofi** *philosophy* ← English:philosophy, French:philosophie, Spanish:Portuguese:filosofia, Russian:философия (filosofiya), Arabic: فَلْسَفَة (falsafa), Hindi:फ़लसफ़ा (falsafā), Malay:filsafat, Swahili:falsafa, Turkish:felsefe  
 **filtre** *filter* ← English:filter, Spanish:Portuguese:filtro, French:Turkish:filtre, Russian:фильтр (filʹtr), Hindi:फ़िल्टर (filṭar), Bengali:ফিল্টার (philṭar), Japanese:フィルター (firutā)  
 **fin** *end (ending)* ← English:finish, French:Spanish:fin, Portuguese:fim  
@@ -789,6 +789,7 @@
 **krati** *rule (reign, government, -ocracy, -archy)* ← English:-cracy, French:-cratie, Spanish:Portuguese:-cracia, Russian:-кратия (kratiya), Arabic:(-qratiya), Malay:Swahili:-krasi  
 **krem** *cream* ← French:crème, Portuguese:creme, Spanish:crema, English:cream, Japanese:クリーム (kurīmu)  
 **krepe** *pancake* ← French:English:crêpe, Portuguese:crepe, Spanish:crepa, Turkish:krep, Italian:crespella  
+**krikete** *cricket (sport)* ← English:deu:French:cricket, Spanish:críquet, Portuguese:críquete, Russian:крикет (kriket), Persian: کریکت‎ (kriket), Hindi:क्रिकेट (krikeṭ), Bengali:ক্রিকেট (krikeṭ), Japanese:クリケット (kuriketto), Korean:크리켓 (keuriket), Vietnamese:crích-kê, Malay:kriket, Swahili:kriketi, Arabic: كْرِيكِت‎ (krikit), Hausa:kur̃kèt  
 **krim** *crime* ← English:French:Portuguese:crime, Spanish:crimen, Filipino:krimen  
 **krita** *cry (shout)* ← English:cry, Spanish:Portuguese:gritar, French:crier, Russian:крича́ть (kričátʹ)  
 **kriton** *krypton* ← English:krypton, French:krypton, Spanish:criptón (kriptón), Portuguese:krípton, Russian:криптон, Mandarin:氪 (kè), Japanese:クリプトン, Korean:크립톤, Vietnamese:kripton, Hindi:क्रिप्टन, Bengali:ক্রিপ্টন, Malay:kripton, Swahili:kriptoni, Arabic: كربتون  
@@ -987,6 +988,7 @@
 **mixe** *mix (blend)* ← deu:mischen, Russian:мешать (měšat'), Polish:mieszać, English:mix, Italian:miscelare, + Hindi:मिश्रण (miśrān)  
 **mode** *way (manner, mode)* ← French:English:mode, Spanish:Portuguese:modo  
 **model** *model (design)* ← English:model, Spanish:Portuguese:modelo, French:modèle, deu:Modell, Russian:моде́ль (modelʹ)  
+**mogu** *membrane (film)* ← Mandarin:膜 (mó), Cantonese:膜 (mok6), Japanese:膜 (maku), Korean:막 (mak), Vietnamese:màng; mô  
 **moka** *tree* ← Mandarin:木 (mù), Cantonese:木 (muk6), Japanese:木 (moku), Korean:목 (mok), Vietnamese:mộc, Oromo:muka  
 **molekul** *molecule* ← English:molecule, Spanish:Portuguese:molécula, French:molécule  
 **moli** *jasmine* ← Kannada:ಮಲ್ಲಿಗೆ  (mallige), Tamil:(mallikai), Telugu:మల్లె  (malle), Malay:melati, Thai:มะลิ (má-lí), Korean:말리 (malli), tha:มะลิ (mali), Mandarin:茉莉 (mòlì), Cantonese:茉莉 (mut6lei5)  
@@ -1224,6 +1226,8 @@
 **radi** *ray (radiation)* ← English:French:radiation, Spanish:radiación, Portuguese:radiação, Malay:radiasi, Russian:радио (radio), Turkish:radyo, Swahili:redio, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)  
 **radio** *radio* ← English:French:Spanish:Portuguese:radio, Russian:радио (radio), Turkish:radyo, Swahili:redio, Hindi:रेडियो (reḍiyo), Bengali:রেডিও (reḍio), Japanese:ラジオ (rajio), Korean:라디오 (radio)  
 **radon** *radon* ← English:radon, French:radon, Spanish:radón, Portuguese:rádon, Russian:радон, Mandarin:氡 (dōng), Japanese:ラドン, Korean:라돈, Vietnamese:rađơn, Hindi:रेडन, Bengali:রেডন, Malay:radon, Swahili:radoni, Arabic: رادون  
+**ragbi** ** ← 橄榄球  
+**ragubi** *rugby* ← English:deu:French:rugby, Spanish:Portuguese:rugbi, Russian:регби (regbi), Persian: راگبی‎ (râgbi), Hindi:रग्बी (ragbī), Tamil:ரக்பி (rakpi), Malay:Turkish:rabgi, Swahili:raga, Arabic: رَغْبِي‎ (raḡbī), Japanese:ラグビー (ragubī), Korean:럭비 (reokbi)  
 **rai** *opinion (view)* ← Arabic:(raʾy), Swahili:rai, Hindi:राय (rāy), Persian:(ra'y), Turkish:rey  
 **raite** *right hand side* ← English:right  
 **raja** *king or queen* ← Hindi:राजा (rājā), রাজা (raja), Malay:raja, Telugu:రాజు (rāju) + English:rajah, Spanish:Portuguese:rajá, Russian:раджа  

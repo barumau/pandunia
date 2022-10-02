@@ -971,6 +971,7 @@ credible (believable) - kredibil
 credit card - kredikarte  
 crepe - france krepe  
 crib - bebe bede  
+cricket (sport) - krikete  
 crime - krim  
 criminal - krim di  
 crisis - krizi  
@@ -1317,6 +1318,7 @@ entry (access) - inlai
 environment (nature) - eko  
 environmental (natural) - eko di  
 enzyme - enzim  
+episode (instalment of a drama) - filme babu  
 epistemology - san logi  
 equal - be par  
 equalize (balance, even out) - fa par  
@@ -1490,7 +1492,7 @@ fight (war, battle, combat) - jang
 figure (representation) - figur  
 Fiji - Fiji  
 fill - fa pul  
-film (membrane, video) - filme  
+film (movie or video) - filme  
 film frame (still) - estasi grafi  
 filter - filtre  
 find (discover) - eureka  
@@ -2523,6 +2525,7 @@ melodious (melodic) - melodi di
 melody - melodi  
 melt - yung  
 member (part of a group, component) - mer  
+membrane (film) - mogu  
 memorandum (memo) - memo note  
 memory (recollection) - memo  
 mendelevium - mendelef yum  
@@ -3530,6 +3533,7 @@ rubber (latex, eraser) - gomu
 rubidium - rubi yum  
 ruby - rubi bau seku  
 rude (offensive) - insulte di  
+rugby - ragubi  
 ruin (destroy, devastate, demolish) - fa harabu  
 rule (be in charge) - fa sultan  
 rule (reign, government, -ocracy, -archy) - krati  

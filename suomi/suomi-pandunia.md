@@ -513,7 +513,7 @@ fenyyli - fenil
 fermium - fermi yum  
 Fidži - Fiji  
 Filippiinit - Filipin  
-filmi - filme  
+filmi (video, elokuva) - filme  
 filosofi - filsofi ja  
 filosofia - filsofi  
 filosofian maisteri - master de filsofi (MF)  
@@ -1103,6 +1103,7 @@ kalsiitti (kalkkisälpä) - kalsite
 kalsium - kalsi yum  
 kaltainen (-llinen) - li  
 kaltevuus - gradu medan  
+kalvo (filmi) - mogu  
 Kambodja - Kambojia  
 kameli - gamel  
 kamera - foto grafi gi  
@@ -1470,6 +1471,7 @@ kreppi - france krepe
 kreppikoju - krepekan  
 kriisi (käännekohta) - krizi  
 kriittinen (kriisi-) - krizi di  
+kriketti - krikete  
 kristalli - bilor  
 kristinusko - mesi din  
 kristitty - mesi din ja  
@@ -1809,7 +1811,7 @@ lukea - dugu
 lukita - fa sor  
 lukitsematon - detala di  
 lukko - tala  
-luku (kirjan osa) - babu  
+luku (jakso, tarinan osa) - babu  
 lukumäärä (luku, numero) - nume  
 lumi - hima  
 lumikinos - hima duna  
@@ -3045,6 +3047,7 @@ sarana - xarnir
 sardelli (anjovis) - ancovi  
 sarja - seri  
 sarjakuva - grafi kata  
+sarjan jakso - filme babu  
 sarvi - korne  
 sarvikuono - kargadan:  
 saslik - xix nama  

@@ -1148,6 +1148,7 @@ kredikarte - kreditkarto
 krem - kremo  
 krepe - krepo (patkuko)  
 krepekan - krepejo  
+krikete - kriketo  
 krim - krimo  
 krim di - krima  
 kriton - kriptono  
@@ -1332,6 +1333,7 @@ mitioner - misiisto
 mitre - metro  
 mixe - miksi  
 mixe gi - miksilo  
+mogu - membrano  
 moka - arbo  
 moka jong parke - arboĝardeno  
 moka kane - paliso  
