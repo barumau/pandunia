@@ -8,7 +8,7 @@ a ke - onde
 a lin - online  
 a vo - aí (lá)  
 a xukur de - graças a  
-a yi - aqui  
+a ye - aqui  
 abies - abeto  
 aci - espirrar  
 acini yum - actínio  
@@ -19,7 +19,6 @@ adilta - justiça
 adres - endereço  
 Afghan - Afeganistão  
 agile - ágil  
-agresi - ataque  
 agri - cultivar  
 agri bio logi - agrobiologia  
 agri di - agrícola  
@@ -198,7 +197,7 @@ berkli yum - berqueélio
 betula - bétula  
 bici - chicote  
 bil - possível  
-bil si - talvez  
+bil e - talvez  
 bilta - habilidade (capacidade)  
 bilor - cristal  
 bina plan - arquitetura  
@@ -294,8 +293,8 @@ cunbil - opção
 
 ## D  
 
-da - dar  
-databi - generoso (dadivoso, mão-aberta)  
+da - ele ou ela  
+damen - eles ou elas  
 dai dom - palácio (mansão, palacete)  
 dai hai - oceano  
 dai pau - canhǎo  
@@ -357,6 +356,8 @@ dolfin - golfinho (delfim)
 dom - casa (lar)  
 dom dexa - pátria  
 dom di - doméstico  
+don - dar  
+don tabi - generoso (dadivoso, mão-aberta)  
 dong - este (leste)  
 dosti - amigo  
 du - dois (2)  
@@ -378,7 +379,7 @@ dux - ducha
 
 ## E  
 
-e - e  
+e - ser (estar)  
 einstein yum - einstânio  
 ekore - esquilo  
 eletro - eletricidade  
@@ -685,6 +686,7 @@ huru - livre (forro)
 
 ## I  
 
+i - e  
 in bum - imploção  
 in klus - incluindo  
 in klus di - inclusivo  
@@ -717,7 +719,7 @@ jau - cevada
 javabu - resposta  
 jebu - bolso (algebeira)  
 jeka - emprestar (pedir emprestado)  
-jeka da - emprestar  
+jeka don - emprestar  
 jeka na - pedir emprestado  
 jen - pessoa  
 • projete - projeto  
@@ -1468,7 +1470,6 @@ serami - cerâmico
 seri - série (sequência)  
 serime - elo  
 sexe logi - sexologia  
-si - ser (estar)  
 siborge yum - seabórgio  
 sifa loga - adjetivo  
 sigar - cigarro  
@@ -1718,8 +1719,7 @@ xuru - começo (início, princípio)
 
 ## Y  
 
-ya - ele ou ela  
-yamen - eles ou elas  
+ya - sim  
 Yahve - Javé (Jeová)  
 yam fito - verdura (hortaliça, legume)  
 yam liste - cardápio (menu)  
@@ -1728,7 +1728,7 @@ yasen - freixo
 yatim dom - orfanato  
 yau di - necessário  
 yauta - necessidade  
-ye - sim  
+ye - este  
 yem - sal  
 yem di - salino  
 yen - olho  
@@ -1738,7 +1738,6 @@ yepa - folha
 yepa alga - kelp  
 yepa late - página  
 Yesa Mesi - Jesus Cristo  
-yi - este  
 yogo - jugo  
 yogur - iogurte  
 you - infantil (imaturo)  

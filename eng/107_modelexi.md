@@ -12,7 +12,7 @@ For example, the word
 modifies a noun in sentence A
 and a verb in sentence B.
 
-A. **vo si _mei_ kitabu.**
+A. **vo e _mei_ kitabu.**
 – That is a beautiful writing.  
 B. **tu _mei_ di kitabu.**
 – You write _beautifully_.
@@ -24,7 +24,7 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 
 **un _neu_ kar**
 – a _new_ car  
-**un _rapide_ kar**
+**un _suga_ kar**
 – a _fast_ car  
 **ba _dai_ meza**
 – _big_ tables  
@@ -44,9 +44,9 @@ Two or more modifiers can modify the same noun.
 A modifier that modifies a verb
 is placed immediately before the verb.
 
-**tu _rapide_ loga.**
+**tu _suga_ loga.**
 – You talk _fast_.  
-**yamen _bon_ kitabu.**
+**damen _bon_ kitabu.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -56,7 +56,7 @@ It makes the structure of the verb phrase clearer.
 
 **tu _mei di_ kitabu.**
 – You write _beautifully_.  
-**yamen _kuai di_ marce.**
+**damen _suga di_ marce.**
 – They walk _fast_.
 
 
@@ -138,9 +138,9 @@ The particle
 **ka**
 relates the adverbs of comparison to the object of comparison.
 
-**aple si max bon ka oranje.**
+**aple e max bon ka oranje.**
 = Apples are better than oranges.  
-**oranje si min bon ka aple.**
+**oranje e min bon ka aple.**
 = Oranges are less good than apples.  
 **tu loga par bon ka mi.**
 = You speak as well as me.

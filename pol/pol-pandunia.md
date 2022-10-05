@@ -5,7 +5,7 @@
  - a vai  
  - a vakil de  
  - a xukur de  
- - a yi  
+ - a ye  
  - adilkan  
  - agri bio logi  
  - agri deha  
@@ -119,22 +119,23 @@
  - cing na  
  - cira tela  
  - cun liste  
+ - da su  
  - dai dara  
  - dai siti  
  - dai zi  
  - dalil dokumen  
+ - damen su  
+ - damimen  
  - dan  
  - dana.cau  
  - dante kumu  
  - dara  
  - data culi  
  - data fen gata  
- - databi  
  - dau bano  
  - dava xe  
  - dava xekan  
  - dava xelogi  
- - daxeceke  
  - Deimos  
  - dele  
  - den  
@@ -149,6 +150,8 @@
  - dipe megi  
  - dokumen filme  
  - dom dexa  
+ - don tabi  
+ - don xe ceke  
  - dosti hin  
  - du grafi di  
  - du soni di  
@@ -161,6 +164,7 @@
  - dus rai  
  - dus topi  
  - dute  
+ - eja  
  - elfe  
  - Enceladus  
  - englix fon di  
@@ -175,7 +179,6 @@
  - Europa luna  
  - eutopi  
  - exa  
- - fa agresi  
  - fa amen  
  - fa an galte  
  - fa an verse  
@@ -627,7 +630,6 @@
  - serime  
  - serve gi  
  - serve nam  
- - sija  
  - silke larva  
  - sim  
  - sim ja  
@@ -744,11 +746,8 @@
  - xiu zi  
  - xula  
  - xula kamar  
- - ya su  
  - Yahve  
  - yam liste  
- - yamen su  
- - yamimen  
  - Yapetus  
  - yau  
  - yeka  
@@ -880,7 +879,7 @@
  - recepe  
  - receper  
  - recese  
- - reda  
+ - redon  
  - redura  
  - redute  
  - reflexi  
@@ -982,7 +981,7 @@ animować - fa anime
 Antarktyka - Antartika  
 antena - antena  
 Antigua - Antigua  
-Antigua i Barbuda - Antigua e Barbuda  
+Antigua i Barbuda - Antigua i Barbuda  
 antonim - annam  
 antychryst - anmesi  
 Antyle Holenderskie - Nederlande Antil  
@@ -1020,7 +1019,6 @@ astronom - astro nomi ja
 astronomia - astro nomi  
 Asyria - Axur dexa  
 Aszur - Axur  
-atak (agresja, napaść) - agresi  
 atak (agresja, napaść) - agrese  
 ateista - andeu sim ja  
 atleta, sportowiec - kelele  
@@ -1145,7 +1143,7 @@ boski - deu di
 botanika - fitologi  
 Botswana - Cuana  
 boćwina (botwina) - selge  
-Bośnia i Harcegowina - Bosna e Hercegovina  
+Bośnia i Harcegowina - Bosna i Hercegovina  
 Boże Narodzenie - mesi gene  
 brawo (gratulacje) - bravo  
 Brazyla - Brazil  
@@ -1182,7 +1180,7 @@ but - sapatu
 butelka - botel  
 Bułgaria - Bolgaria  
 bułka gotowana na parze - mantu  
-być - si  
+być - e  
 być mistrzem (być ekspertem) - maste  
 być obok - a late  
 być poddanym, doświadczyć, doświadczać (ubierniający czasownik) - be  
@@ -1360,13 +1358,13 @@ darwinista - darvin sim ja
 darwinizm - darvin sim  
 data - nen mes den  
 dać mieszkanie (zakwaterować) - fa dom  
-dać, dawać - da  
+dać, dawać - don  
 deaktywować (wyłączyć, zatrzymać) - deativi  
 debatować, prowadzić dyskurs - fa lona  
 decy-, dziesiąta część - desi  
 decybel - desi bel  
-dedykacja (poświęcenie) - sata data  
-dedykować (poświęcać, poświęcić) - sata da  
+dedykacja (poświęcenie) - sata don ta  
+dedykować (poświęcać, poświęcić) - sata don  
 defekować, srać - fa kaka  
 dekoracja (ornament) - mei daka  
 dekorować - fa mei daka  
@@ -1808,7 +1806,7 @@ humorystyczny, śmieszny, zabawny, komiczny - yumor di
 hybryda; kundel - hibride  
 hę?, co?, pardon? - he  
 I - I  
-i, oraz - e  
+i, oraz - i  
 idea, pomysł - idea  
 ideogram - idea zi  
 idiota - idiote  
@@ -2515,7 +2513,7 @@ motyka - copu
 motyl - pelpel  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
-może - bil si  
+może - bil e  
 może - hai  
 mruganie (błysk) - fa sing foto  
 mrówka - murce  
@@ -2779,8 +2777,8 @@ olej - nefte
 oliwka - zaitun  
 Oman - Oman  
 omszały (mszysty) - mos di  
-on, ona, ono - ya  
-oni - yamen  
+on, ona, ono - da  
+oni - damen  
 online (na linii, w sieci) - a lin  
 opaska do włosów - kexa bande  
 opcja (wybór) - cunbil  
@@ -3009,7 +3007,7 @@ poczta elektroniczna - eletro posta (e-posta)
 poczta, budynek poczty - postakan  
 początek - xuru  
 pod (poniżej) - a nice  
-podarunek, dar, prezent - daxe  
+podarunek, dar, prezent - don xe  
 podatek, opłata - taxi  
 poddanie się, uległość, pokora, posłuszeństwo - islam  
 poddać się, poddawać się, podporządkować się, podporządkowywać się, ulec, ulegać, być posłusznym - be islam  
@@ -3148,7 +3146,7 @@ południowy - sude di
 połączenie (złącze, styk, związek, powiązanie) - linke  
 pośladki, pupa, tyłek, zadek - pigu  
 pożyczać (pożyczyć) - jeka na  
-pożyczać komuś (pożyczyć komuś) - jeka da  
+pożyczać komuś (pożyczyć komuś) - jeka don  
 pożyczyć - jeka  
 pożądanie, żadza - kama  
 praca, zjęcie, zadanie - karxe  
@@ -3489,11 +3487,11 @@ S - S
 sago - sagu  
 Sahara Zachodnia (Saharyjska Arabska Republika Demokratyczna) - Sahara Dexa  
 Saint Kitts - Sante Kitse  
-Saint Kitts i Nevis - Sante Kitse e Nevis  
+Saint Kitts i Nevis - Sante Kitse i Nevis  
 Saint Lucia - Sante Lucia  
 Saint Vincent - Sante Vincente  
-Saint Vincent and Grenadines - Sante Vincente e Grenadin  
-Saint Vincent i Grenadyny - Valis e Futuna nesi  
+Saint Vincent and Grenadines - Sante Vincente i Grenadin  
+Saint Vincent i Grenadyny - Valis i Futuna nesi  
 sala - sala  
 Salwador - Salvador  
 sam, siebie - se  
@@ -3816,7 +3814,7 @@ Tajlandia - Tai Dexa
 Tajpej - Taibei  
 tajski - Tai baxa  
 Tajwan, Republika Chińska - Taivan  
-tak - ye  
+tak - ya  
 taki sam - sam  
 taksometr - taxi metre gi  
 taksówkarz - taxi vala  
@@ -3854,7 +3852,7 @@ tellur - telu yum
 telugu - Telugu  
 temat (motyw; dyskutować o) - tema  
 temperatura - termo  
-ten - yi  
+ten - ye  
 tendencja (być skłonnym) - klin  
 tenesyn, tennessine - tenesi yum  
 tenis - tenis  
@@ -3914,7 +3912,7 @@ trwanie - dura
 trwać, zająć czas; przez - be dura  
 trwały (wytrzymały, podtrzymywalny) - durabil  
 tryb nocny - noce mode  
-Trynidad i Tobago - Trinidade e Tobago  
+Trynidad i Tobago - Trinidade i Tobago  
 trzcina cukrowa - sukre gana  
 trzeć (pocierać, obetrzeć, pucować) - frike  
 trzy (3) - tri  
@@ -4159,7 +4157,7 @@ więzienie, kara więzienia, kara pozbawienia wolności - jela
 więzienie, zakład karny - jelakan  
 wiśnia (czereśnia) - ceri  
 wkrótce - sun  
-wnieć wkład (przyczynić się) - fen da  
+wnieć wkład (przyczynić się) - fen don  
 wnętrze (środek) - in  
 woda - sui  
 woda mineralna - kuanga sui  
@@ -4226,7 +4224,7 @@ wymagać, przewidywać - fa xarti
 wymawiać (wymówić) - fa fon  
 wymieniać, wymienić, zamieniać, zamienić - badal  
 wymiotować (zwrócić) - retro gula  
-wynająć, oddać w najem - kira da  
+wynająć, oddać w najem - kira don  
 wynająć, oddać w najem - kira kape  
 wynająć, wynajmować, zatrudnić, zatrudniać - kira  
 wynik (punktacja) - punte nume  
@@ -4245,14 +4243,14 @@ Wyspa Man - Manin nesi
 Wyspy Alandzkie - Olande nesi  
 Wyspy Cooka - Kuke nesi  
 Wyspy Dziewicze USA - Virjin nesi  
-Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia e Sude Sanduice nesi  
+Wyspy Georgia Południowa i Sandwich Południowy - Sude Jorjia i Sude Sanduice nesi  
 Wyspy Kokosowe - Kokos nesi  
 Wyspy Marshalla - Marxal nesi  
 Wyspy Salomona - Solomon nesi  
 Wyspy Zielonego Przylądka (Republika Zielonego Przylądka) - Kabu Verde  
-Wyspy Świętego Tomasza i Książęca - Sante Tome e Principe  
+Wyspy Świętego Tomasza i Książęca - Sante Tome i Principe  
 wystarczający - bas  
-wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete da  
+wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić) - nete don  
 wysłać (wyemitować) - miti  
 wytwórca łuków i strzał - flece ja  
 wyć - fa ulul  

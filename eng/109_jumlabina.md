@@ -18,7 +18,7 @@ They may consist of only one word, which draws the listener's attention.
 A predicative complement completes the meaning of a sentence by giving information about a noun by either renaming it or describing it.
 Often there is no linking verb (i.e. copula) between the subject and its predicative complement.
 
-**ya Ali.**
+**da Ali.**
 – He is Ali.  
 **Ali guru.**
 – Ali is a teacher.  
@@ -31,17 +31,17 @@ Often there is no linking verb (i.e. copula) between the subject and its predica
 ### Complementing with linking verb
 
 The linking verb
-**si**
+**e**
 'to be'
 can be used optionally in simple predicative sentences like the ones above.
 
-**ya si Ali.**
+**da e Ali.**
 – He is Ali.  
-**Ali si guru.**
+**Ali e guru.**
 – Ali is a teacher.  
-**Ali si rike.**
+**Ali e rike.**
 – Ali is rich.  
-**Ali si a dom.**
+**Ali e a dom.**
 – Ali is at home.
 
 The linking verb is used when it is necessary in order to convey the desired meaning.
@@ -50,16 +50,16 @@ For example, modal verbs, like
 'to want', always need it as the main verb
 because the sentences would have a different meaning without it.
 
-**ya vol si guru.**
+**da vol e guru.**
 – He (or she) wants to be a teacher.  
 Compare with:  
-**ya vol guru.**
+**da vol guru.**
 – He (or she) wants a teacher.
 
-**ya vol si rike.**
+**da vol e rike.**
 – He (or she) wants to be rich.  
 Compare with:  
-**ya vol rike.**
+**da vol rike.**
 – He (or she) wants riches.
 
 The linking verb is used also when structural complexity of subject and/or predicate
@@ -67,7 +67,7 @@ makes the boundary between the two sentence elements doubtful.
 
 **mi su kar mede baca.**
 – My job helps children.  
-**mi su kar si mede baca.**
+**mi su kar e mede baca.**
 –  My job is to help children.
 
 It is also possible to use a pause,
@@ -84,22 +84,22 @@ All predicative complements can be negated by
 **no**
 'not'
 and the linking verb
-**si**
+**e**
 is optional in the same cases as before
 
-**ya no Ali.** ~ **ya no si Ali.**
+**da no Ali.** ~ **da no e Ali.**
 – He is not Ali.  
-**ya no guru.** ~ **ya no si guru.**
+**da no guru.** ~ **da no e guru.**
 – He is not a teacher.  
-**ya no vol si guru.**
+**da no vol e guru.**
 – He doesn't want to be a teacher.  
-**ya no rike.** ~ **ya no si rike.**
+**da no rike.** ~ **da no e rike.**
 – He is not rich.  
-**ya no vol si rike.**
+**da no vol e rike.**
 – He doesn't want to be rich.  
-**ya no a dom.** ~ **ya no si a dom.**
+**da no a dom.** ~ **da no e a dom.**
 – He is not at home.  
-**ya su kar no si mede baca.**
+**da su kar no e mede baca.**
 – His job is not to help children.
 
 
@@ -108,15 +108,15 @@ is optional in the same cases as before
 In addition to noun subjects and pronoun subjects,
 the previous rules apply also to adjective subjects and verb subjects.
 
-**jun – mei.** ~ **jun si mei.**
+**jun – mei.** ~ **jun e mei.**
 – Young is beautiful.  
-**jun – no lau.** ~ **jun no si lau.**
+**jun – no lau.** ~ **jun no e lau.**
 – Young is not old.  
-**gani – bon.** ~ **gani si bon.**
+**gani – bon.** ~ **gani e bon.**
 – Singing is good.  
-**gani – no dus.** ~ **gani no si dus.**
+**gani – no dus.** ~ **gani no e dus.**
 – Singing is not bad.  
-**xulefa baca – mede baca.** ~ **xulefa baca si mede baca.**
+**xulafa baca – mede baca.** ~ **xulafa baca e mede baca.**
 – To teach children is to help children.
 
 
@@ -209,7 +209,7 @@ as in the following examples.
 – The cat walks.  
 **sol lume.**
 – The sun shines.  
-**yamen lai.**
+**damen lai.**
 – They come.  
 
 However, it is possible to clarify the roles of subject and object with the help of the auxiliary verbs
@@ -259,11 +259,11 @@ In such cases the boundaries between the sentence elements can become doubtful.
 – Little white sheep want to start to eat good fresh grass.
 
 Boundaries between sentence elements can be marked with little words, like
-**ye**
+**ya**
 'do',
 **un**
 'a, one',
-**yi**
+**ye**
 'this or these',
 **vo**
 'that or those over there',
@@ -272,7 +272,7 @@ Boundaries between sentence elements can be marked with little words, like
 **yo**
 'some'.
 
-**la xiu baku meme *ye* vol xuru yam *la* bon seng cau.**
+**la xiu baku meme *ya* vol xuru yam *la* bon seng cau.**
 – The little white sheep want to start to eat that good fresh grass.
 
 
@@ -378,9 +378,9 @@ In Pandunia the topic comes first so it is a topic-fronting language.
 
 The focus of the sentence can be changed by changing the order of the topic and comment.
 
-**Maria si guru.**
+**Maria e guru.**
 – Maria is a teacher.  
-**guru si Maria.**
+**guru e Maria.**
 – The teacher is Maria.
 
 In Pandunia, the topic can be fronted by using various sentence structures,
@@ -409,25 +409,25 @@ One can also use the passive construction to a similar effect.
 
 Another way to front the object is to use the relative clause construction.
 
-**tu si ki mi vide.**
+**tu e ki mi vide.**
 – You are the one whom I saw.
 
 This sentence can be made more impactful by fronting the linking verb
-**si**.
+**e**.
 and then even more by dropping the relative pronoun.
 
-**si tu ki mi vide.**
+**e tu ki mi vide.**
 – It's you whom I saw.  
-**si tu mi vide.**
+**e tu mi vide.**
 – It's you I saw.
 
 Finally, the same
-**si...**
+**e...**
 constructions can be used for emphasizing the topicness of the normal subject too.
 
-**si mi ki vide tu.** ~ **si mi vide tu.**
+**e mi ki vide tu.** ~ **e mi vide tu.**
 – It's me who saw you.  
-**si mi ki lai.** ~ **si mi lai.**
+**e mi ki lai.** ~ **e mi lai.**
 – It's me who came.
 
 
@@ -448,14 +448,14 @@ The easiest way to form a yes-no question in Pandunia is to simply attach the pa
 It is also possible to use
 **no**
 ('no', 'not') or
-**ye**
+**ya**
 ('yes') instead of
 **he**
 to suggest the expected answer.
 
 **tu yam un piza, no?**
 – You eat a pizza, don't you?  
-**tu yam un piza, ye?**
+**tu yam un piza, ya?**
 – You eat a pizza, right?
 
 The third way to ask a yes-no question is to contradict the verb
@@ -474,27 +474,27 @@ Finally, you can emphasize the question by using **sual**.
 – Do you eat a pizza?
 
 Yes-no questions are answered with
-**ye**
+**ya**
 ('yes') and
 **no**
 ('no').
 
 **tu vide mi, he?**
 – Do you see me?  
-**ye. (mi ye vide tu.)**
+**ya. (mi ya vide tu.)**
 – Yes. (I _do_ see you.)  
 **no. (mi no vide tu.)**
 – No. (I don't see you.)
 
 Negative questions are answered so that
-**ye**
+**ya**
 and
 **no**
 apply to the verb, not the whole question.
 
 **tu no vide mi, he?**
 – Don't you see me?  
-**ye. (mi vide tu.)**
+**ya. (mi vide tu.)**
 – Yes. (I see you.)  
 **no. (mi no vide tu.)**
 – No. (I don't see you.)
@@ -522,7 +522,7 @@ The question is answered by repeating the chosen alternative.
 Open questions, or _wh-_ questions, ask for more information.
 In Pandunia they use the word **ke**.
 
-**piza si ke?**
+**piza e ke?**
 – What is pizza?
 
 The question word may be moved to the front of the sentence for emphasis.
@@ -532,7 +532,7 @@ However, unlike in English, the word order may also be left alone.
 – What are you eating?  
 **tu zai yam ke?**
 – You are eating what?  
-**ya lai a ke sate?**
+**da lai a ke sate?**
 – When does he arrive?  
 **tumen vizite a ke jen su dom?**
 – Whose house did you all visit?
@@ -596,9 +596,9 @@ A content clause is a subordinate clause that provides content that is commented
 In Pandunia they are typically introduced with the conjunction
 **ki**.
 
-**mi sabe ki tu si dosti.**
+**mi sabe ki tu e dosti.**
 – I know that you are a friend.  
-**yamen fikir ki mimen le cuti.**
+**damen fikir ki mimen le cuti.**
 – They think that we have left.
 
 A content clause can be placed before or after the clause that talks about it.
@@ -608,9 +608,9 @@ points to the following content clause and
 **la**
 points to the previous one.
 
-**vo si bari, ki mi le no vide yamen.**
+**vo e bari, ki mi le no vide damen.**
 – _It_ is important _that I haven't seen them_.  
-**ki pan jen be sana ka par, la si klar.**
+**ki pan jen be sana ka par, la e klar.**
 – _That all people are created as equals_; _it_ is clear.
 
 The content clause marker
@@ -622,7 +622,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 **de ki**
 – because, for the reason that
 
-**mi dugu yi buku _to ki_ mi trapas la teste.**
+**mi dugu ye buku _to ki_ mi trapas la teste.**
 – I read this book so that I will pass the test.  
 **mi le trapas la teste _de ki_ mi dugu la buku.**
 – I have passed the test because I read the book.
@@ -633,7 +633,7 @@ can be combined to the prepositions in order to construct conjunctions of cause 
 The word **gar** means 'to suppose',
 and in conditional sentences, it works in the same way as English 'if'.
 
-**mi no yam ya gar mi si tu.**
+**mi no yam da gar mi e tu.**
 – I wouldn't eat it _if_ I were you.
 
 The rest of the sentence can optionally be preceded by the word **asar**, which means 'then'.
@@ -646,14 +646,14 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 ## Combining phrases with conjunctions
 
-**e**
+**i**
 – and (connects two similar words or phrases)  
 **o**
 – or (connects two alternative words or phrases)  
 **ama**
 – but (introduces a word or phrase that contrasts with or contradicts the preceding word or phrase)
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 – I like cats and dogs.  
 **mi suka mau o vaf.**
 – I like cats or dogs.  
@@ -672,27 +672,27 @@ The rest of the sentence can optionally be preceded by the word **asar**, which 
 
 Expressions are affirmative by default.
 
-**mi si xefe.**
+**mi e xefe.**
 – I am the boss.  
-**ya si neu meza.**
+**da e neu meza.**
 – It is a new table.
 
 Affirmation can be emphasized with the adverb
-**ye**
+**ya**
 ('yes indeed').
 
-**mi ye si xefe.**
+**mi ya e xefe.**
 – I indeed am the boss.  
-**ya ye si neu meza.**
+**da ya e neu meza.**
 – It indeed is a new table.
 
 #### Negative
 
 Such sentences can be simply negated with **no**.
 
-**ya no si xefe.**
+**da no e xefe.**
 – He is not the boss.  
-**ya no si neu meza.**
+**da no e neu meza.**
 – It's not a new table.
 
 The word **no** is used for denying anything.
@@ -703,7 +703,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **mi no vide tu.**
 – I don't see you.  
-**mi vide no tu a yamen.**
+**mi vide no tu a damen.**
 – I see, not you, but them.
 
 **mi cing tu safi la kamar.**
@@ -784,13 +784,13 @@ The same particle is used with with personal pronouns too.
 – my house  
 **tu su dom**
 – your house  
-**ya su dom**
+**da su dom**
 – his or her house  
 **mimen su dom**
 – our house  
 **tumen su dom**
 – your house  
-**yamen su dom**
+**damen su dom**
 – their house
 
 
@@ -842,7 +842,7 @@ indicates a suggestion or a command.
 indicates disdainment, disrespect or contempt.
 It translates as *bah*, *fie*.
 
-**tu fete ya, fi.**
+**tu fete da, fi.**
 – You did it, bah.  
 **fi! piza! mi no vole.**
 – Bah! Pizza! I don't want (it).
@@ -858,7 +858,7 @@ It translates as *eh?* or *huh?*.
 **me**
 indicates indifference, boredom or lack of excitement.
 
-**me. ya no neu.**
+**me. da no neu.**
 – Meh. It's not new.
 
 **ne**
@@ -870,7 +870,7 @@ One uses it at the end of sentence if one is not completely sure about something
 
 **tu ame kafe, ne? cepe un kupe ba!**
 – You love coffee, right? Grab a cup!  
-**ya neu, ne?**
+**da neu, ne?**
 – It is new, isn't it?
 
 **na**
@@ -878,16 +878,16 @@ is used to introduce a statement.
 It can fill a pause, particularly at the beginning of a response to a question.
 It can also introduce a statement that may be contrary to expectations.
 
-**tu kitabu ya, he? – na, no le.**
+**tu kitabu da, he? – na, no le.**
 – Did you write it? – Well, not yet.  
-**ya bon, ne? – na, ye.**
+**da bon, ne? – na, ya.**
 – It's good, isn't it? – Well, yes.
 
 **o**
 indicates that the speaker is uncertain of the matter.
 It roughly translates as *or...?*.
 
-**ya okei a tu, o...**
+**da okei a tu, o...**
 – It is okay for you, or...
 
 **va**
@@ -896,21 +896,21 @@ It can be used on its own or at the start or end of a sentence to express how am
 
 **va!**
 Wow!  
-**va, ya dai!**
+**va, da dai!**
 – Wow, it's big!  
-**ya dai, va!**
+**da dai, va!**
 – It's so big!
 
-**ye**
+**ya**
 reinforces the meaning of the sentence
 or indicates agreement.
 The speaker is absolutely sure of what they are saying.
 It can be translated as *indeed* or *truly*.
 
-**mi le vide tu ye.**
+**mi le vide tu ya.**
 – I truly saw you.  
-**ya ver, ye.**
+**da ver, ya.**
 – It is true indeed.  
-**ya neu, ne? – ya neu, ye.**
+**da neu, ne? – da neu, ya.**
 – It is new, right? – It's new indeed.
 

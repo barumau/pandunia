@@ -43,7 +43,6 @@ agile - agile
 agresseur - agreser  
 agressif - agresevi  
 agressif - agresive  
-agression (attaque) - agresi  
 agression (attaque; agresser, attaquer) - agrese  
 agricole - agri di  
 agrobiologie - agri bio logi  
@@ -109,7 +108,7 @@ anneau - ring
 Antarctique - Antartika  
 antenne - antena  
 Antigua - Antigua  
-Antigua-et-Barbuda - Antigua e Barbuda  
+Antigua-et-Barbuda - Antigua i Barbuda  
 antimoine - estibi yum  
 antonyme - annam  
 anus - anus  
@@ -178,7 +177,6 @@ astronomie - astro nomi
 Athènes - Athina  
 athée - andeu sim ja  
 atome - atom  
-attaquer (agresser) - fa agresi  
 aubergine - bedinjan  
 Australie - Australia  
 Austronésie - Austronesi  
@@ -386,7 +384,7 @@ caserne - ordu jen kan
 castillan - kastilia baxa  
 Castille - Kastilia  
 cauri - kauri  
-ce...ci - yi  
+ce...ci - ye  
 ce...lá - vo  
 cellule sanguine (globule) - hemi selu  
 cent (100) - sento  
@@ -445,7 +443,7 @@ chronomètre - dura metre gi
 chu - pada di  
 chut - tix  
 chèque - ceke  
-chèque cadeau - daxeceke  
+chèque cadeau - don xe ceke  
 chèque de voyage - safar ceke  
 chéri - ama jen  
 chêne - baluta  
@@ -616,7 +614,7 @@ domestique - dom di
 domestiquer (apprivoiser) - fa dosil gene  
 domestiqué (apprivoisé) - dosil gene di  
 dommage - avar  
-donner - da  
+donner - don  
 donner naissance (procréer, engendrer, accoucher) - fa gene  
 données - data  
 dormir - be sona  
@@ -689,7 +687,7 @@ espectador - vide ja
 esprit (génie) - jini  
 essayer (tenter) - proba  
 estrade - tai  
-et - e  
+et - i  
 ethnie - zuku  
 ethnique - zuku di  
 Europe - Europa  
@@ -836,7 +834,7 @@ gâteau de lune - luna keke
 génotype - gene tipe  
 généalogie - gene logu  
 généralissime - ordu raja  
-généreux - databi  
+généreux - don tabi  
 généreux - karim di  
 générosité (charité) - karim  
 génétique - gene logi di  
@@ -901,9 +899,9 @@ hôtel - hotel
 
 ## I  
 
-ici - a yi  
-il ou elle - ya  
-ils ou elles - yamen  
+ici - a ye  
+il ou elle - da  
+ils ou elles - damen  
 imitateur (mime) - mime ja  
 imiter - mime  
 immigrant - in migra ja  
@@ -1019,7 +1017,7 @@ lent - anhaste
 lentille - lense  
 Lettonie - Latvia  
 lettre - letre  
-leur - yamen su  
+leur - damen su  
 lexical - loga di  
 leçon - xula xe  
 libellule - libele  
@@ -1311,7 +1309,7 @@ ou - o
 ouah - va  
 oublier - anmemo  
 oubliette (cul de basse-fosse) - geo nice jela  
-oui - ye  
+oui - ya  
 ours - baru  
 oxyde - oxide  
 oxygène - oxe  
@@ -1390,7 +1388,7 @@ pervers - perversi
 pet (vesse) - pede  
 petit - xiu  
 peu - kam  
-peut-être - bil si  
+peut-être - bil e  
 pharmacie - dava xekan  
 pharmacologie - dava xelogi  
 phase - faze  
@@ -1526,7 +1524,7 @@ préférer - max fili
 prénatal - prenati  
 présent - zai di  
 prêter (empruntre) - jeka  
-prêter - jeka da  
+prêter - jeka don  
 psychologie - ruhu logi  
 psyché - ruhu  
 punicion - fatu  
@@ -2037,7 +2035,7 @@ zéro - siro
 éveillé - jaga  
 éventail - sanzi  
 évident - vai vide di  
-être - si  
+être - e  
 être couché - be kux  
 être humain - insan  
 œil - yen  

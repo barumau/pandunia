@@ -10,7 +10,6 @@
 **adres** *address* ← English:address, French:deu:adresse, Russian:адрес (adres), Portuguese:endereço  
 **Afrika** *Africa* ← Arabic:(ʾafrīqiyā), Wolof:Afrig, Fulani:Afirik, Amharic:(ʾäfriḳa), Hausa:Afirka, Yoruba:Afirika, Oromo:Afrikaa, Swahili:Afrika, English:Spanish:Portuguese:Africa, French:Afrique, Russian:Африка (Afrika), Hindi:अफ़्रीका (afrīkā), Bengali:আফ্রিকা (aphrika), Japanese:アフリカ (Afurika), Korean:프리카 (Apeurika)  
 **agile** *agile* ← English:French:agile, Spanish:Portuguese:ágil, deu:agil  
-**agresi** *attack (assault, aggression, hostility)* ← English:deu:French:agression, Polish:agresja, Russian:агрессия (agressiya), Spanish:agresión, Portuguese:agressão, Malay:agresif  
 **agri** *cultivate (farm)* ← Mandarin:农民 (nóng), Cantonese:農民 (nung4), Japanese:農 (nō), Korean:농 (nong), Vietnamese:nông  
 **aha** *understand (realize)* ← Russian:ага (aha), Korean: 아하 (aha), English: uh-huh, Polish:aha + Arabic: آه (ʾāh)  
 **air** *air* ← English:French:Spanish:air, Portuguese:ar, Russian:аэро- (aero-)  
@@ -245,7 +244,7 @@
 **cun** *choose (elect, select, pick; choice, selection)* ← Hindi:चुनना (cunnā) + Vietnamese:chọn + English:choose + Mandarin:选 (xuǎn), Cantonese:選 (syun2)  
 **cupu** *suck (absorb)* ← Spanish:Portuguese:chupar, Khmer:ជប់ (cup)  
 **cuti** *leave (go away, exit)* ← Mandarin:出 (chū), Cantonese:出 (ceot1), Wu-Chinese:出 (ceq4), Hakka-Chinese:出 (chut), Japanese:出 (shutsu), Korean:출 (chul), Vietnamese:xuất + Hindi:छूटना (chūtnā), Malay:cuti + Turkish:çıkmak  
-**da** *give* ← Spanish:Portuguese:dar, Russian:дать (dat'), Persian: دادن‎ (dâdan), scr:দদাতি (dadāti), Hindi:देना (denā), Bengali:দেওয়া  (deva), Tamil:தா (tā)  
+**da** *he or she or it* ← Mandarin:他/她/它 (tā) + Bengali:তা- (ta-) + Russian:та (ta) + deu:das, English:they; them  
 **dai hai** *ocean* ← Mandarin:大海 (dàhǎi), Japanese:大海 (taikai),  Korean:대양 (daeyang), Vietnamese:đại dương, Hindi:महासागर (mahāsāgar), Bengali:মহাসমুদ্র (môhaśmudr), Thai:มหาสมุทร (mahasamut)  
 **dai** *big (great, large)* ← Cantonese:大 (daai), Mandarin:大 (dá), Vietnamese:đại, Japanese:(dai,tai), Korean:대— (dae-)  
 **daka** *cover (lid, cap, deck)* ← Hindi:ढकना (dhaknā), Bengali:ঢাকা (ḍhaka), Punjabi:ਢੱਕਣਾ (ḍhakṇā), deu:decken, English:deck  
@@ -295,6 +294,7 @@
 **dolfin** *dolphin* ← Greek:δελφίνια (delphínia), English:dolphin, Spanish:delfín, Portuguese:delfim, Russian:дельфин (del’fin), Arabic:دلفين (dulfin), Japanese:ドルフィン (dorufin), Bengali:ডলফিন (ḍalaphina), Hindi:डॉल्फ़िन (ḍŏlfin)  
 **dom** *home (house, residence)* ← Russian:дом (dom), Polish:dom, Latin:domus, + English:domestic, French:domestique, Spanish:Portuguese:doméstico  
 **domino geme** *dominoes* ← English:dominoes, Spanish:Portuguese:dominó, French:dominos, Russian:домино (domino), Mandarin:多米诺 (duōmǐnuò), Japanese:ドミノ牌 (dominohai)  
+**don** *give* ← Spanish:Portuguese:dar, Russian:дать (dat'), Persian: دادن‎ (dâdan), scr:দদাতি (dadāti), Hindi:देना (denā), Bengali:দেওয়া  (deva), Tamil:தா (tā)  
 **dong** *east (orient)* ← Mandarin:东 (dōng), Cantonese:東 (dōng), Vietnamese:đông, Korean:동 (dong), Turkish:doğu  
 **donjon ventur** *dungeon crawl* ← English:dungeon, French:donjon, Japanese:ダンジョン (danjon)  
 **dosil** *tame (docile, obedient)* ← English:French:Italian:docile, Spanish:Portuguese:dócil  
@@ -317,7 +317,7 @@
 **dura** *duration (time interval)* ← English:duration, French:durée, Spanish:Portuguese:durar + Arabic: دَوْرَة (dawra), Persian: دُوره (dowre), Bengali:ধরে (dhôre), Hindi:दौरान (daurān)  
 **dus** *bad (unfavorable, negative, evil, wicked, troublesome, difficult)* ← English:French:dys-, Spanish:Portuguese:dis-, Russian:дис- (dis-) + Hindi:दुस्- (dus-), Malay:dur-, Turkish:düş-  
 **dux** *shower* ← French:douche, Spanish:Portuguese:ducha, deu:Dusche, Russian:душ (duš), Arabic: دوش (dūš), Malay:dus, Turkish:duş  
-**e** *and* ← French:et, Portuguese:e, Spanish:y;e, Mandarin:和 (hé)  
+**e** *be* ← Mandarin:是 (shì), Cantonese:是 (si4) + Spanish:Portuguese:ser  
 **eglisa** *church* ← English:ecclesia-, French:église, Spanish:iglesia, Portuguese:igreja, Hindi:गिरजा (girjā), Malay:gereja, Arabic:(kanisā), Swahili:kanisa, Turkish:kilise  
 **einstein yum** *einsteinium* ← English:einsteinium, French:einsteinium, Spanish:einsteinium, Portuguese:einstânio, Russian:эйнштейний, Mandarin:锿 (āi), Japanese:アインスタイニウム, Korean:아인시타이늄, Vietnamese:ensteni, Hindi:आइन्स्टाइनियम, Bengali:আইনস্টাইনিয়াম, Malay:einsteinium, Swahili:einsteni, Arabic: انيشتنيوم  
 **eko** *environment (nature)* ← English:Spanish:Portuguese:eco-, French:éco-, deu:öko-, Russian:эко-, Turkish:Malay:eko-  
@@ -590,6 +590,7 @@
 **humus** *chickpea* ← Arabic:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), English:Spanish:Malay:hummus, Portuguese:húmus, Russian:хумус (humus), Turkish:humus, Hindi:Marathi:हुम्मुस (hummus), Japanese:フムス (fumusu)  
 **huru** *free (unchained)* ← Arabic: حر (ḥurr), Turkish:hür, Swahili:huru, Spanish:horro, Portuguese:forro  
 **huxi** *nice (pleasant, comfortable, cushy)* ← Persian: خوش‎ (xoš), Hindi:ख़ुश (xuś), Bengali:খুশি (khuśi), Turkish:hoş, English:cushy  
+**i** *and* ← French:et, Portuguese:e, Spanish:y;e, Mandarin:和 (hé)  
 **ici** *will (volition, desire)* ← Vietnamese:ý chí, Mandarin:意志 (yìzhì), Korean:(uiji), Japanese:(ishi), + Hindi:इच्छा (icchā), Telugu:ఇచ్చ (icca)  
 **idea** *idea (concept, notion)* ← French:idée, deu:Idee, hat:Malay:ide, Persian:(ide), Portuguese:ideia, Russian:идея (ideya), Vietnamese:ý định  
 **idiote** *idiot* ← English:deu:French:Malay:idiot, Spanish:Portuguese:idiota, Russian:идиот (idiot)  
@@ -1331,7 +1332,6 @@
 **serve** *service* ← English:French:service, Portuguese:serviço, Russian:сервис (servis), Turkish:servis + Hindi:सेवा (sevâ), Bengali:সেবা  (seba)  
 **sesam** *sesame* ← English:sesame, Russian:сезам (sezam), Spanish:sésamo, Arabic:(simsim), Swahili:simsim, Turkish:susam  
 **sexe** *sex (sexual relation)* ← English:sex, French:sexe, Spanish:Portuguese:sexo, Russian:секс (seks), Turkish:seks, Hindi:सेक्स (seks), Japanese:セックス (sekkusu), Korean:섹스 (sekseu)  
-**si** *be* ← Mandarin:是 (shì), Cantonese:是 (si4) + Spanish:Portuguese:ser  
 **sian** *cyan* ← English:cyan, Spanish:cian, Russian:циан (tsian), Arabic:سيان (sayan), Hindi:क्यान (kyāna), Japanese:シアン (shian), Malay:sian  
 **siborge yum** *seaborgium* ← English:seaborgium, French:seaborgium, Spanish:seaborgio, Portuguese:seabórgio, Russian:сиборгий, Mandarin: (xǐ), Japanese:シーボーギウム, Korean:새보쥼, Vietnamese:seaborgi, Hindi:सीबोर्गियम, Bengali:সিওবোর্গিয়াম, Malay:seaborgium, Swahili:seaborgi, Arabic: سيبورجيوم  
 **side** *sit down* ← Russian:сидеть (sidet'), English:sit, deu:sitzen, Italian:sedere  
@@ -1597,7 +1597,7 @@
 **xuli** *repair (fix)* ← Mandarin:修理 (xiūlǐ), Japanese:修理 (shuri), Korean:수리 (suri)  
 **xuru** *beginning (start, commencement, onset)* ← Arabic: شُرُوع‎ (šurūʿ), Persian: شروع (šoru') , Hindi:शुरू (śurū), Bengali:শুরু (śuru) + Mandarin:始 (shǐ), Japanese:始 (kaishi), Korean:시 (shi)  
 **xux** *hush (shh)* ← English:shh, French:chut, Russian:ш-ш-ш, Mandarin:噓 (xū), Japanese:しーっ (shīt), Korean:쉿 (swit), Turkish:sus  
-**ya** *he or she or it* ← Hindi:यह (yah) + Malay:ia + Igbo:ya, Kongo:ya + Mandarin:伊 (yī), Vietnamese:y  
+**ya** *yes* ← English:yeah, deu:ja, Korean:예 (ye), Japanese:ええ (ē) + Malay:ya + Arabic: إِِي (ʾiī)   
 **yake** *yak* ← English:deu:French:Spanish:Turkish:yak, Portuguese:iaque, Hindi:याक (yāk)  
 **yaki** *about (approximately, nearly, almost)* ← Korean:약 (yak), Japanese:約 (yaku), Cantonese:約 (yœk), Turkish:yaklaşık, Mandarin:约 (yuē)  
 **yam** *consume (eat or drink)* ← Khmer:ញ៉ាំ (nyam), Fulani:nyami, + Spanish:ñam, Russian:ням (nyam), Italian:gnam, English:yum, Korean:냠냠 (nyamnyam), Hungarian:nyam  
@@ -1605,7 +1605,7 @@
 **yasen** *ash tree* ← Russian:ясень (yasen’), Polish:jesion  
 **yatim** *orphan* ← Arabic:Persian:(yatim), Turkish:yetim, Swahili:yatima, Hindi:यतीम (yatīm)  
 **yau** *need (lack, require)* ← Mandarin:要 (yāo), Cantonese:要 (jiu1), Wu-Chinese:要 (yo1), Japanese:要 (yō), Vietnamese:yêu  
-**ye** *yes* ← English:yeah, deu:ja, Korean:예 (ye), Japanese:ええ (ē) + Malay:ya + Arabic: إِِي (ʾiī)   
+**ye** *this* ← Korean:이 (i) + Bengali:এ (e), Hindi:यह (ye) + Telugu:ఈ (ī), Tamil:இது (itu) + Yoruba:yìí  
 **yei** *yay! (yeah!)* ← English:yay, Polish:jej, Japanese:イエイ (iei)  
 **yeka** *exchange (replace, trade, swap)* ← Mandarin:易 (yì), Cantonese:易 (yik6), Japanese:易 (eki), Korean:역 (yeok), Vietnamese:dịch  
 **yem** *salt* ← Mandarin:盐 (yán), Cantonese:鹽 (yim4), Japanese:塩 (en), Korean:염 (yeom), Vietnamese:diêm  
@@ -1613,7 +1613,6 @@
 **yen** *eye* ← Mandarin:眼 (yǎn) + Arabic: عَيْن‎ (ʿayn), Egyptian-Arabic: عين‎ (ʕēn), Amharic:ዐይን (ʿäyn), Malay:ain, French:yeux  
 **yepa** *leaf (sheet)* ← Mandarin:叶 (yè), Cantonese:葉 (jip6), Korean:잎 (ip);엽 (yeop), Vietnamese:diệp, Japanese:葉 (yō)  
 **yezi** *coconut tree* ← Mandarin:椰子 (yēzi), Cantonese:椰子 (ye4zi2), Korean:야자 (yaja), Japanese:椰子 (yashi)  
-**yi** *this* ← Korean:이 (i) + Bengali:এ (e), Hindi:यह (ye) + Telugu:ఈ (ī), Tamil:இது (itu) + Yoruba:yìí  
 **yo** *some (one)* ← Mandarin:有 (yǒu), Cantonese:有 (jau5)  
 **yoga** *yoga* ← Hindi:योग (yog), Punjabi:ਯੋਗ (yog), Urdu:(yog), Bengali:যোগ (jog), Telugu:యోగా (yōgā), Thai:โยคะ (yōga), English:Spanish:Malay:Turkish:yoga, Portuguese:ioga, Russian:йога (yoga), Mandarin:瑜伽 (yújiā), Japanese:ヨーガ (yōga), Korean:요가 (yoga)  
 **yogo** *yoke* ← English:yoke, Spanish:yugo, Portuguese:jugo, French:joug, Russian:иго (igo), Persian:  یوغ‎ (yuğ) + Cantonese:軛 (aak1), Vietnamese:ách  

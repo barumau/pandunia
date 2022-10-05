@@ -8,7 +8,7 @@ a kon - 共同 (一起)
 a lin - 在线  
 a poli mar - 经常  
 a vo - 那里 (那儿)  
-a yi - 这里 (这儿)  
+a ye - 这里 (这儿)  
 abies - 冷杉  
 acar - 腌菜  
 aci - 打喷嚏 (阿嚏)  
@@ -20,7 +20,6 @@ adilta - 正义
 adres - 地址  
 Afghan - 阿富汗  
 agile - 灵活的  
-agresi - 攻击  
 agri bio logi - 土壤生物学  
 agri deha - 农村  
 agri nomi - 农学  
@@ -197,8 +196,8 @@ betula - 桦树
 bibre - 海狸 (河狸)  
 bici - 鞭子  
 bil - 会 (可能)  
+bil e - 也许 (或是, 可能)  
 bil ja - 熟练  
-bil si - 也许 (或是, 可能)  
 bina - 建筑  
 bina plan - 建筑学  
 bina plan ja - 建筑师  
@@ -296,8 +295,11 @@ cuti - 出
 
 ## D  
 
-• reda - 退回  
-daxeceke - 礼物卡  
+da - 他，她，它  
+damen - 他们  
+damen su - 他们的  
+damimen - 我们  
+da su - 他的  
 dai dom - 殿 (宫殿, 宅第)  
 dai hai - 大洋 (大海)  
 dai pau - 大炮  
@@ -360,6 +362,8 @@ dokumen filme - 纪录片
 dolfin - 海豚  
 dom - 家 (房子)  
 dom dexa - 祖国  
+• redon - 退回  
+don xe ceke - 礼物卡  
 dong - 东  
 dosil - 驯服的  
 dosti - 朋友 (友人)  
@@ -380,7 +384,7 @@ dux - 淋浴
 
 ## E  
 
-e - 和  
+e - 对  
 einstein yum - 锿  
 ekore - 松鼠  
 eletro lin - 电缆 (电线)  
@@ -681,6 +685,7 @@ huruta - 自由
 
 ## I  
 
+i - 和  
 iha uma - 骡  
 in bum - 内爆  
 in migra - 移民 (移居)  
@@ -711,7 +716,7 @@ jau - 大麦
 javabu - 回答  
 jebu - 口袋 (荷包)  
 jeka - 借  
-jeka da - 借出  
+jeka don - 借出  
 jeka na - 借入  
 jelakan - 监狱 (监牢)  
 jen - 人  
@@ -1400,7 +1405,6 @@ serami - 陶瓷
 seri - 系列  
 serime - 连结  
 sexe logi - 性学  
-si - 对  
 side loka - 座部 (马鞍)  
 sifa loga - 形容词  
 sigar - 香烟  
@@ -1650,11 +1654,7 @@ xux - 噓
 
 ## Y  
 
-ya - 他，她，它  
-yamen - 他们  
-yamen su - 他们的  
-yamimen - 我们  
-ya su - 他的  
+ya - 对 (是)  
 Yahve - 耶和华 (雅威)  
 yam fito - 蔬菜  
 yam liste - 菜单  
@@ -1662,7 +1662,7 @@ yam yau - 饥饿
 yasen - 白蜡树  
 yatim dom - 孤儿院  
 yau di - 必要的  
-ye - 对 (是)  
+ye - 这 (此)  
 yeka kanon - 易经 (周易)  
 yem - 盐  
 yem biskute - 梳打饼  
@@ -1671,7 +1671,6 @@ yen sui gas - 催泪瓦斯
 yepa - 叶  
 Yesa - 耶稣  
 Yesa Mesi - 耶稣基督  
-yi - 这 (此)  
 yoga - 瑜伽功  
 yogo - 轭  
 yogur - 酸奶 (优格)  

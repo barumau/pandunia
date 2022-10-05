@@ -22,7 +22,7 @@ a sabu de - porque
 a supra - sobre  
 a vo - allí (allá)  
 a xukur de - gracias a (merced a)  
-a yi - aquí (acá)  
+a ye - aquí (acá)  
 abies - abeto  
 acar di - encurtido  
 acar hiyar - pepinillo  
@@ -38,7 +38,6 @@ adres zi - arroba (@)
 Afghan - Afganistán  
 Afrika - África  
 agile - ágil  
-agresi - ataque  
 agri - cultivar  
 agri bio logi - agrobiología  
 agri di - agrícola  
@@ -132,7 +131,7 @@ Antartika - antartida
 Antartika Hai - océano Antártico  
 antena - antena  
 Antigua - Antigua  
-Antigua e Barbuda - Antigua y Barbuda  
+Antigua i Barbuda - Antigua y Barbuda  
 antra - intestino (visceras, entrañas, tripas)  
 anus - ano  
 anus di - anal  
@@ -415,8 +414,8 @@ Biblia - Biblia
 bibre - castor  
 bici - látigo (fusta)  
 bil - poder (posible)  
+bil e - quizás (tal vez)  
 bil ja - capaz  
-bil si - quizás (tal vez)  
 bilta - habilidad (capacidad)  
 bilor - cristal  
 • konbina - combinar  
@@ -470,7 +469,7 @@ bor yum - bohrio
 bori - aburrimiento  
 bori di - aburrido  
 boron - boro  
-Bosna e Hercegovina - Bosnia y Herzegovina  
+Bosna i Hercegovina - Bosnia y Herzegovina  
 Bote - Tíbet  
 botel - botella  
 botel tapa - tapón (corcholata)  
@@ -610,10 +609,8 @@ cuti mun - salida
 
 ## D  
 
-da - dar  
-databi - generoso (dadivoso)  
-daxe - regalo (obsequio)  
-daxeceke - cheque regalo  
+da - él o ella  
+damen - ellos o ellas  
 dai - grande  
 dai anjil ja - embajador  
 dai anjilkan - embajada  
@@ -754,6 +751,10 @@ dom zeze - mosco
 Dominika - Dominica  
 Dominika Vakil krati - Republica Dominicana  
 domino geme - dominó  
+don - dar  
+don tabi - generoso (dadivoso)  
+don xe - regalo (obsequio)  
+don xe ceke - cheque regalo  
 dong - éste  
 dong di - oriental  
 dong gorila - gorila oriental  
@@ -812,7 +813,8 @@ dux - ducha
 
 ## E  
 
-e - y  
+e - ser (estar)  
+eja - ser  
 eglisa - iglesia  
 einstein yum - einsteinium  
 Eire - Irlanda  
@@ -1170,8 +1172,8 @@ fei muxu - murciélago
 fem sim - feminismo  
 fem sim ja - feministe  
 fen - parte (fracción)  
-fen da - contribuir  
 fen di - parcial  
+fen don - contribuir  
 fen gata - análisis (disección)  
 fenil - fenilo  
 fenol - fenol  
@@ -1655,6 +1657,7 @@ huxi - cómodo (lujoso)
 
 ## I  
 
+i - y  
 ibri - hebreo  
 ici - voluntad  
 idea - idea (noción, concepto)  
@@ -1749,7 +1752,7 @@ jaze - jazz
 jebra - álgebra  
 jebu - bolsillo  
 jeka - prestar (pedir prestado)  
-jeka da - prestar  
+jeka don - prestar  
 jeka loga - préstamo lingüístico  
 jeka na - pedir prestado  
 jela - prisión  
@@ -1993,7 +1996,7 @@ kio - puente
 kioske - quiosco (kiosco, pabellón)  
 Kipris - Chipre  
 kira - alquiler (arriendo)  
-kira da - alquilar (arrendar, dar en arriendo)  
+kira don - alquilar (arrendar, dar en arriendo)  
 kira kape - alquilar (arrendar, tomar en arriendo)  
 kirate - quilate  
 Kirgize - Kirguizistán  
@@ -2680,7 +2683,7 @@ nerve selu - neurona
 nesi - isla  
 nesia - archipiélago  
 nete - red  
-nete da - cargar (subir)  
+nete don - cargar (subir)  
 nete gete - descargar  
 nete loka - sitio web  
 neu - novedad  
@@ -3292,12 +3295,12 @@ sante - sagrado (santo)
 Sante Helena - Isla Santa Elena  
 sante kanon - sagrada escritura  
 Sante Kitse - San Cristóbal  
-Sante Kitse e Nevis - San Cristóbal y Nieves  
+Sante Kitse i Nevis - San Cristóbal y Nieves  
 Sante Lucia - Santa Lucía  
 Sante Marino - San Marino  
-Sante Tome e Principe - Santo Tomé y Príncipe  
+Sante Tome i Principe - Santo Tomé y Príncipe  
 Sante Vincente - Isla de San Vicente  
-Sante Vincente e Grenadin - San Vicente y las Granadinas  
+Sante Vincente i Grenadin - San Vicente y las Granadinas  
 sanzi - abanico (ventilador)  
 sapatu - zapato  
 sapatu ja - zapatero  
@@ -3308,8 +3311,8 @@ sar kexa - cabello
 sar kexa hin - calvo  
 sar oste - cráneo (calavera)  
 sata - momento  
-sata da - dedicar  
 sata di - momentáneo  
+sata don - dedicar  
 Saturne - Saturno  
 Saudi Arabi - Arabia Saudita  
 sauna - sauna  
@@ -3367,8 +3370,6 @@ sexe - sexo
 sexe di - sexy (sexual)  
 sexe logi - sexología  
 Sexel nesi - Seychelles  
-si - ser (estar)  
-sija - ser  
 sian - cian  
 Sibiria - Siberia  
 siborge yum - seaborgio  
@@ -3470,7 +3471,7 @@ Sude Amerika - Sudamérica
 Sude cosen - Corea del Sur  
 sude di - sureño  
 Sude Iria (Alonia) - Osetia del Sur  
-Sude Jorjia e Sude Sanduice nesi - Georgias del Sur y Sándwich del Sur  
+Sude Jorjia i Sude Sanduice nesi - Georgias del Sur y Sándwich del Sur  
 Sude Sudan - Sudán del Sur  
 sueda - sudor  
 sueda di - sudoroso (sudado)  
@@ -3668,7 +3669,7 @@ tri gona - triángulo
 tri pike - tridente  
 tripli - triple  
 tribu - tribu  
-Trinidade e Tobago - Trinidad y Tobago  
+Trinidade i Tobago - Trinidad y Tobago  
 truke - truco  
 tu - tú (usted)  
 tumen - ustedes  
@@ -3767,7 +3768,7 @@ vai yam - jira (pícnic)
 vakil - representar  
 vali - valle  
 vali susan - convalaria (lirio de los valles)  
-Valis e Futuna nesi - Wallis y Futuna  
+Valis i Futuna nesi - Wallis y Futuna  
 valse - vals  
 valu - valor  
 vampir - vampiro  
@@ -3943,8 +3944,7 @@ xux di - silencioso
 
 ## Y  
 
-ya - él o ella  
-yamen - ellos o ellas  
+ya - sí  
 Yahve - Yahvé (Jehová)  
 yake - yac  
 yaki - aproximadamente  
@@ -3963,7 +3963,7 @@ yau - necesitar
 • anyau di - innecesario  
 yau di - necesario  
 yauta - necesidad  
-ye - sí  
+ye - este  
 yehudi - judío  
 yehudi din - judaísmo  
 yei - yupi  
@@ -3981,7 +3981,6 @@ yepa late - página
 Yesa - Jesús  
 Yesa Mesi - Jesucristo  
 yezi - coco  
-yi - este  
 yo - algún  
 yo jen - algién  
 yo sata - algún día (algún vez)  

@@ -148,7 +148,7 @@ almuerzo - dia yam
 alojar (hospedar) - fa dom  
 alpaca - alpaka  
 alqueno - alken  
-alquilar (arrendar, dar en arriendo) - kira da  
+alquilar (arrendar, dar en arriendo) - kira don  
 alquilar (arrendar, tomar en arriendo) - kira kape  
 alquiler (arriendo) - kira  
 alquilo - alkil  
@@ -218,7 +218,7 @@ anterior (remoto) - pas di
 antibalas - dana sekur  
 Anticristo - anmesi  
 Antigua - Antigua  
-Antigua y Barbuda - Antigua e Barbuda  
+Antigua y Barbuda - Antigua i Barbuda  
 Antillas Neerlandesas - Nederlande Antil  
 antimonio - estibi yum  
 antorcha - fotokane  
@@ -236,7 +236,7 @@ aproximadamente - yaki
 apuntar (dirección) - dika  
 apuntar (indicar) - ponte  
 apuntar - fa dika  
-aquí (acá) - a yi  
+aquí (acá) - a ye  
 Arabia Saudita - Saudi Arabi  
 aracnofobia - arane fobi  
 araña - arane  
@@ -314,7 +314,6 @@ astrónomo - astro nomi ja
 asunto (caso) - sual tema  
 asustador - fobi ja  
 asustar (atemorizar) - fa fobi  
-ataque - agresi  
 atar (amarrar) - fa bande  
 Atenas - Athina  
 ateo - andeu sim ja  
@@ -469,7 +468,7 @@ bomba - bomba
 bomba atómica - atom bomba  
 bombear - pompe  
 boro - boron  
-Bosnia y Herzegovina - Bosna e Hercegovina  
+Bosnia y Herzegovina - Bosna i Hercegovina  
 bosque (jungla, selva) - jangal  
 bosque de algas - alga jangal  
 bota - buta  
@@ -636,7 +635,7 @@ cardo borriquero - pin kardon
 cardo burral - pena kardon  
 cardo mariano - milke kardon  
 carga (pesa) - karga  
-cargar (subir) - nete da  
+cargar (subir) - nete don  
 cargar - fa karga  
 cargo - guan  
 Caribe - Karibe  
@@ -734,7 +733,7 @@ chaqueta - jake
 charlar (parlotear, chatear) - blabla  
 cheque - ceke  
 cheque de viajero - safar ceke  
-cheque regalo - daxeceke  
+cheque regalo - don xe ceke  
 chiismo (chía) - xia islam din  
 Chile - cile  
 chile - cili  
@@ -908,7 +907,7 @@ contraseña - pas loga
 contraseña - sekur kode  
 contrato (tratado) - trati  
 contrato (tratado) - kontrati  
-contribuir - fen da  
+contribuir - fen don  
 convalaria (lirio de los valles) - vali susan  
 convenion (pacto) - kon trati  
 coordenadas - loka nume  
@@ -1061,7 +1060,7 @@ cúpula - kupa cati
 dado - zar kube  
 damas - dama geme  
 danés - Danske  
-dar - da  
+dar - don  
 dar a luz (enngendrar, parir, procrear) - fa gene  
 darmstatio - darmestadi yum  
 darse cuenta (notar) - fa budi  
@@ -1086,7 +1085,7 @@ deciembre - mes des du
 decir (hablar) - fa loga  
 decoración (adorno) - mei daka  
 decorar (adornar) - fa mei daka  
-dedicar - sata da  
+dedicar - sata don  
 dedo - angul  
 defecar - fa kaka  
 defender - fa defa  
@@ -1289,7 +1288,7 @@ elegir (escoger, seleccionar) - cun
 elemento (unidad fundamental) - so  
 elemento químico - kimi so  
 elfo - elfe  
-ellos o ellas - yamen  
+ellos o ellas - damen  
 elogiar (alabar, exaltar) - halela  
 elogio - eu loga  
 elástico (flexible) - elasti  
@@ -1433,7 +1432,7 @@ estar al lado de - a late
 estar de pie - lipa  
 estar en contra - kontra  
 estaño - estan  
-este - yi  
+este - ye  
 estilógrafo - fonte kalam  
 estimar (apriximarse a) - fa yagu  
 estirar (extender) - long tire  
@@ -1664,7 +1663,7 @@ general (common) - putong
 generalísimo (sogún) - ordu raja  
 generar (añadir, realizar) - fa zai  
 generosidad (caridad) - karim  
-generoso (dadivoso) - databi  
+generoso (dadivoso) - don tabi  
 generoso (dadivoso, caritativo) - karim di  
 gengibre - jinji  
 genial - kul  
@@ -1676,7 +1675,7 @@ geología - geo logi
 geometría - geo metre  
 geopolítica - geo politi  
 Georgia (República de Georgia) - Kartul  
-Georgias del Sur y Sándwich del Sur - Sude Jorjia e Sude Sanduice nesi  
+Georgias del Sur y Sándwich del Sur - Sude Jorjia i Sude Sanduice nesi  
 geotérmico - geo termo  
 gerencia (dirección) - nomi  
 Germania - Germania  
@@ -3095,7 +3094,7 @@ presidente - prezidente
 presión - prese  
 presión atmosférica - air prese  
 prestar (pedir prestado) - jeka  
-prestar - jeka da  
+prestar - jeka don  
 presuponer - cen gar  
 presupuesto - pesa plan  
 prever (esperar, pensar) - cen vide  
@@ -3208,7 +3207,7 @@ quitar (eliminar, borrar) - fa an zai
 quitar (eliminar, borrar) - depoze  
 quitar (pelar) - tire yo pil  
 quitar (remover) - fa for  
-quizás (tal vez) - bil si  
+quizás (tal vez) - bil e  
 quién - ke jen  
 qué - ke  
 qué tipo de - ke yang  
@@ -3270,7 +3269,7 @@ redondo (circular) - gola di
 reducir a la mitad (dividir en dos) - fa fen do du  
 refuerzos - max ordu  
 regaliz (alcazuz, orozuz) - alkasus  
-regalo (obsequio) - daxe  
+regalo (obsequio) - don xe  
 registro (archivo, anotación) - loge  
 región (zona) - topo  
 regla (ley) - kanun  
@@ -3438,15 +3437,15 @@ samario - samari yum
 Samoa - Samoa  
 Samoa Americana - Amerika Samoa  
 San Cristóbal - Sante Kitse  
-San Cristóbal y Nieves - Sante Kitse e Nevis  
+San Cristóbal y Nieves - Sante Kitse i Nevis  
 San Marino - Sante Marino  
-San Vicente y las Granadinas - Sante Vincente e Grenadin  
+San Vicente y las Granadinas - Sante Vincente i Grenadin  
 sandía (patilla) - arbuza  
 sangrar - lou sang  
 sangre - hemi  
 Santa Lucía - Sante Lucia  
 Santa Sede (Estado de la Ciudad del Vaticano) - Vatikan  
-Santo Tomé y Príncipe - Sante Tome e Principe  
+Santo Tomé y Príncipe - Sante Tome i Principe  
 saquear (desvalijar, robar) - luta  
 sartén - tava  
 satanismo - xatan din  
@@ -3486,8 +3485,8 @@ sentido - sense
 sentir (detectar) - fa sense  
 sentir - be gamo  
 septiembre - mes tisa  
-ser (estar) - si  
-ser - sija  
+ser (estar) - e  
+ser - eja  
 ser de - be mal  
 ser humano - insan  
 ser visto - be vide  
@@ -3619,7 +3618,7 @@ susurrar (curjir) - xaxa
 Svalbard - Sualbarde  
 sábado - den luka  
 sándwich (sánduche) - sanduice  
-sí - ye  
+sí - ya  
 sílaba - loga fen  
 símbolo - simbol  
 sólido - gati mate  
@@ -3797,7 +3796,7 @@ tres (3) - tri
 tribu - tribu  
 tridente - tri pike  
 trigo - ganum  
-Trinidad y Tobago - Trinidade e Tobago  
+Trinidad y Tobago - Trinidade i Tobago  
 triple - tripli  
 triste - duku di  
 triángulo - tri gona  
@@ -3981,13 +3980,13 @@ vuestro - tumen su
 vulva - vulva  
 válvula (llave, canilla) - kran  
 vía férrea - tren dau  
-Wallis y Futuna - Valis e Futuna nesi  
+Wallis y Futuna - Valis i Futuna nesi  
 
 ## X  
 
 xenón - xenon  
 xilosa - xilos  
-y - e  
+y - i  
 
 ## Y  
 
@@ -4043,7 +4042,7 @@ zulú - Zulu
 áspero (basto) - karse  
 ástato - astatin  
 átomo - atom  
-él o ella - ya  
+él o ella - da  
 éste - dong  
 ética (filosofía moral) - moral logi  
 étnico - zuku di  

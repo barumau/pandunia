@@ -97,7 +97,7 @@ Thanks!
 **poli xukur!**
 Thanks a lot!
 
-**ye, xukur.**
+**ya, xukur.**
 Yes, thank you.
 
 **no, xukur.**
@@ -119,30 +119,30 @@ Thanks for helping me.
 You're welcome. (Literally: _No need to thank._)
 
 
-### si <small>to be</small>
+### e <small>to be</small>
 
-The word **si** can be used also for stating something as a fact.
+The word **e** can be used also for stating something as a fact.
 
-**mi si Tomas.**
+**mi e Tomas.**
 I am Thomas.
 
-**tu si Sara.**
+**tu e Sara.**
 You are Sarah.
 
-**aple si frute.**
+**aple e frute.**
 The apple is a fruit.
 
-<small>Etimology. **si** is from
+<small>Etimology. **e** is from
 Mandarin: 是 "shì",
 Shanghainese: 是 "sí".</small>
 
 
 ### mi <small>I, me</small>
 
-**mi si Sara.**
+**mi e Sara.**
 I'm Sarah.
 
-**mi si Tomas.**
+**mi e Tomas.**
 I'm Thomas.
 
 **mi salam mama.**
@@ -156,7 +156,7 @@ The word
 is both a noun and a verb.
 The basic word order in Pandunia is subject–verb–object.
 
-**Sara ye salam Tomas.**
+**Sara ya salam Tomas.**
 Sarah greets Thomas.
 
 **salam mama!**
@@ -171,7 +171,7 @@ is from English: me, Hindi: मैं (meṇ), Spanish: me, French: me, Swahili:
 
 ### tu <small>you</small>
 
-**tu si Tomas.**
+**tu e Tomas.**
 You are Thomas.
 
 **mi salam tu.**
@@ -192,35 +192,35 @@ I love you.
 <small>Etymology. **tu** is from Spanish: tu, Russian: ты (ty), Italian: tu, French: tu.</small>
 
 
-### ya <small>he, she or it</small>
+### da <small>he, she or it</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**ya si man.**
+**da e man.**
 He is a man.
 
-**ya si fem.**
+**da e fem.**
 She is a woman.
 
-**ya si aple.**
+**da e aple.**
 It is an apple.
 
-**ya**
+**da**
 is the general third person pronoun.
 It is used for people (irrespective of gender) as well as for things.
 
-**mi salam ya.**
+**mi salam da.**
 I greet him/her.
 
-<small>Etymology. **ya** is from Swahili: yeye, Hindi यह (yeh).</small>
+<small>Etymology. **da** is from Swahili: yeye, Hindi यह (yeh).</small>
 
 
 ### sual <small>to ask a question</small>
 
-**sual tu si Tomas?**
+**sual tu e Tomas?**
 Are you Thomas?
 
-**sual tu si davar?**
+**sual tu e davar?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **sual**.
@@ -245,32 +245,32 @@ Malay _soal_,
 Swahili _swali_.</small>
 
 
-### ye <small>yes</small>
+### ya <small>yes</small>
 
-**sual tu si Tomas?**
+**sual tu e Tomas?**
 Are you Thomas.
 
-**ye, mi si Tomas.**
+**ya, mi e Tomas.**
 Yes, I am Thomas.
 
-**sual ya si davar?**
+**sual da e davar?**
 Is he/she a doctor?
 
-**ye, ya si davar.**
+**ya, da e davar.**
 Yes, he is a doctor.
 
 
 ### no <small>no, not</small>
 
-**mi no si Sara.**
+**mi no e Sara.**
 I'm not Sarah.
 
-**mi no si davar.**
+**mi no e davar.**
 I'm not a doctor.
 
 **sual tu bon?**
 Are you well?  
-**ye. mi bon.**
+**ya. mi bon.**
 Yes, I'm well.
 
 **sual tu bon?**
@@ -281,7 +281,7 @@ No, I'm not well.
 You can use **no** to deny anything.
 It is placed before the word that is denied.
 
-**ya no salam mi.**
+**da no salam mi.**
 He/she doesn't greet me.
 
 <small>Etymology. **no**
@@ -299,27 +299,27 @@ Plural pronouns are created like this:
 (you) →
 **tumen**
 (you all)  
-**ya**
+**da**
 (he, she, it) →
-**yamen**
+**damen**
 (they)
 
 **mimen salam tumen.**
 We greet you all.
 
-**tumen salam yamen.**
+**tumen salam damen.**
 You greet them.
 
-**yamen salam mimen!**
+**damen salam mimen!**
 They greet us.
 
-**mimen si fem.**
+**mimen e fem.**
 We are women.
 
-**tumen si man.**
+**tumen e man.**
 You are men.
 
-**yamen si aple.**
+**damen e aple.**
 They are apples.
 
 
@@ -328,72 +328,72 @@ They are apples.
 **ke?**
 What?
 
-**tu si ke?**
+**tu e ke?**
 Who are you?  
-**mi si Tomas.**
+**mi e Tomas.**
 I'm Thomas.
 
-**ya si ke?**
+**da e ke?**
 Who is he/she?  
-**ya si Sara.**
+**da e Sara.**
 She is Sarah.
 
-**tumen si ke?**
+**tumen e ke?**
 Who are you people?
 
-**yamen si ke?**
+**damen e ke?**
 Who are they?
 
 <small>Etymology. **ke** is from Spanish: qué, Portuguese: que, Italian: che,
 Bengali: কী "ke".</small>
 
 
-### yi e vo <small>this and that</small>
+### ye e vo <small>this and that</small>
 
-**yi si ke?**
+**ye e ke?**
 What's this?
 
-**yi si aple.**
+**ye e aple.**
 This is an apple.
 
-**vo si ke?**
+**vo e ke?**
 What is that?
 
-**vo si oranje.**
+**vo e oranje.**
 That is an orange.
 
-**yi si rubi aple.**
+**ye e rubi aple.**
 This is a red apple.
 
-**yi aple si rubi.**
+**ye aple e rubi.**
 This apple is red.
 
-**yi si rubi.**
+**ye e rubi.**
 This is red.
 
-**yamen a ke?**
+**damen a ke?**
 Where are they?
 
-**yamen a yi.**
+**damen a ye.**
 They are here.
 
-**yamen a vo.**
+**damen a vo.**
 They are there.
 
 
 
 ### su <small>'s (possessive particle)</small>
 
-**yi si ke?**
+**ye e ke?**
 What's this?
 
-**ya si mi su telefon.**
+**da e mi su telefon.**
 It's my telephone.
 
-**yi si ke su?**
+**ye e ke su?**
 Whose is this?
 
-**ya si mi su.**
+**da e mi su.**
 It's mine.
 
 Note: Possessive particle
@@ -404,13 +404,13 @@ means "my",
 **tu su**
 means "your" and so on.
 
-**ya si ke?**
+**da e ke?**
 Who's he/she?
 
-**ya si mi su dosti.**
+**da e mi su dosti.**
 He/she is my friend.
 
-**mi si Sara su dosti.**
+**mi e Sara su dosti.**
 I am Sarah's friend.
 
 <small>Etymology. **su**
@@ -419,16 +419,16 @@ English _'s_, Afrikaans _se_, Spanish _su_.</small>
 
 ### nam <small>name</small>
 
-**tu su nam si ke?**
+**tu su nam e ke?**
 What's your name?
 
-**mi su nam si Tomas.**
+**mi su nam e Tomas.**
 My name is Thomas.
 
-**ya su nam si ke?**
+**da su nam e ke?**
 What is his/her name?
 
-**ya su nam si Sara.**
+**da su nam e Sara.**
 Her name is Sarah.
 
 <small>Etymology. **nam** is from
@@ -446,7 +446,7 @@ English: name.</small>
 **mi ten un bon dom.**
 I have a good house.
 
-**ya no ten pesa.**
+**da no ten pesa.**
 He/she doesn't have money.
 
 **mi vol ten un neu telefon.**
@@ -460,7 +460,7 @@ I have two children.
 
 ### sabe <small>to know</small>
 
-**mi sabe ya.**
+**mi sabe da.**
 I know him/her/it.
 
 **sual tu sabe vo jen?**
@@ -495,10 +495,10 @@ I want to help you.
 **sual tu vol yam yo?**
 Would you like to eat something?
 
-**ya yam un aple.**
+**da yam un aple.**
 He/she eats an apple.
 
-**yamen yam aple.**
+**damen yam aple.**
 They eat apples.
 
 Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
@@ -509,7 +509,7 @@ can refer to one or more apples.
 **sual tu yam kafe?**
 Do you drink coffee?
 
-**ye. mi yam kafe.**
+**ya. mi yam kafe.**
 Yes, I drink coffee.
 
 Tip: Meaning of
@@ -543,7 +543,7 @@ No, I don't want tea. I want coffee.
 
 **tu vol ke aple?**
 Which apple do you want?  
-**yi rubi.**
+**ye rubi.**
 This red one.
 
 
@@ -607,10 +607,10 @@ Are you thirsty?
 **maf! mi no aha.**
 Sorry, I don't understand.
 
-**maf! yi si ke?**
+**maf! ye e ke?**
 Excuse me, what's this?
 
-**maf. tu su nam si ke?**
+**maf. tu su nam e ke?**
 Excuse me, what's your name?
 
 
@@ -637,10 +637,10 @@ I don't understand at all.
 **mi bil xofe un kar.**
 I can drive a car.
 
-**ya no bil xofe un kar.**
+**da no bil xofe un kar.**
 He/she doesn't know how to drive a car.
 
-**sual tu bil xuli ya?**
+**sual tu bil xuli da?**
 Do you know how to fix it?
 
 **sual tu bil pandunia?**
@@ -673,7 +673,7 @@ We talk to each other.
 **men loga "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
-**"cat" si ke a pandunia?**
+**"cat" e ke a pandunia?**
 What is "cat" in Pandunia?
 
 **mau loga "miau".**
@@ -709,22 +709,22 @@ See you again!
 **vide tu a posden!**
 See you tomorrow!
 
-**mi vide ya a preden.**
+**mi vide da a preden.**
 I saw him/her yesterday.
 
 
 ### semi <small>to mean</small>
 
-**yi lexi ye semi ke?**
+**ye lexi ya semi ke?**
 What does this word mean?
 
-**"mau" ye semi ke?**
+**"mau" ya semi ke?**
 What does "mau" mean?
 
-**ya semi un yang de hevan.**
+**da semi un yang de hevan.**
 It means a kind of animal.
 
-**mi no aha ya semi ke.**
+**mi no aha da semi ke.**
 I don't understand what it means.
 
 
@@ -733,7 +733,7 @@ I don't understand what it means.
 **cing kitabu tu su adres.**
 Please, write your address.
 
-**cing kitabu ya a yi.**
+**cing kitabu da a ye.**
 Please, write it here!
 
 
@@ -825,10 +825,10 @@ Where are you?
 **mi a dom.**
 I'm at home.
 
-**ya a ke?**
+**da a ke?**
 Where is he/she?
 
-**ya side a kamar.**
+**da side a kamar.**
 He/she sits in the room.
 
 Tip! You can use
@@ -847,7 +847,7 @@ Where do you live?
 **mi dom Singapur.**
 I live in Singapore.
 
-**sual tu dom yi hotel?**
+**sual tu dom ye hotel?**
 Do you live in this hotel?
 
 
@@ -859,7 +859,7 @@ Please wait!
 **dele mi!**
 Wait for me!
 
-**yamen dele mimen.**
+**damen dele mimen.**
 They wait for us.
 
 **mi dele to tu a hotel.**
@@ -873,13 +873,13 @@ I wait for you in the hotel.
 **mi zai salam tu su dosti.**  
 I am greeting your friend.
 
-**la man ye zai vide un filme.**  
+**la man ya zai vide un filme.**  
 The man is watching a film.
 
-**ya zai si xefe.**  
+**da zai e xefe.**  
 He or she is currently the chief.
 
-**ya zai a dom.**  
+**da zai a dom.**  
 He or she is currently at home.
 
 
@@ -888,13 +888,13 @@ He or she is currently at home.
 **mi pas salam tu su dosti.**  
 I greeted your friend.
 
-**la man ye pas vide un filme fem.**  
+**la man ya pas vide un filme fem.**  
 The man watched a film.
 
-**ya pas si xefe.**  
+**da pas e xefe.**  
 He or she was the chief.
 
-**ya pas a dom.**  
+**da pas a dom.**  
 He or she was at home.
 
 
@@ -906,10 +906,10 @@ I have greeted your friend.
 **la man le vide un filme.**  
 The man has watched a film.
 
-**ya le si xefe.**  
+**da le e xefe.**  
 He or she has been the chief.
 
-**ya le a la dom.**  
+**da le a la dom.**  
 He or she has been at home.
 
 
@@ -921,10 +921,10 @@ I will greet your friend.
 **la man xa vide la filme.**  
 The man will watch the film.
 
-**ya xa si xefe.**  
+**da xa e xefe.**  
 He or she will be the chief.
 
-**ya xa a dom.**  
+**da xa a dom.**  
 He or she will be at home.
 
 
@@ -932,21 +932,21 @@ He or she will be at home.
 
 ## Part 6. Doing business
 
-### da <small>give</small>
+### don <small>give</small>
 
-**cing da yo pesa.**
+**cing don yo pesa.**
 Please give some money.
 
-**cing da ya to mi.**
+**cing don da to mi.**
 Please give it to me.
 
-**mi da yi to tu.**
+**mi don ye to tu.**
 I give this to you.
 
-**mi da buku to yamen.**
+**mi don buku to damen.**
 I give a book to them.
 
-**ya no vol da ya to mi.**
+**da no vol don da to mi.**
 He/she doesn't want to give it to me.
 
 
@@ -967,10 +967,10 @@ I will take a beer.
 
 ### kira <small>rent, lease, hire</small>
 
-**kira si 500 dolar a lun.**  
+**kira e 500 dolar a lun.**  
 The rent is 500 dollars in a month.
 
-**ya no bil pei la kira.**  
+**da no bil pei la kira.**  
 He/she can't pay the rent.
 
 **mi vol na un gar a kira.**  
@@ -979,7 +979,7 @@ I want to take a car for rent.
 **mi vol kira na un kar.**
 I want to rent a car.
 
-**ya kira da la kamar to safarer.**
+**da kira don la kamar to safarer.**
 He/she rents rooms to travelers.
 
 
@@ -991,7 +991,7 @@ Tip: Buying and selling a compound words: **mai dar**
 means _to sell_ and **mai kap**
 means _to buy_.
 
-**yamen mai da pan.**
+**damen mai don pan.**
 They sell everything.
 
 **mi mai kapa un bir.**
@@ -999,23 +999,23 @@ I will buy a beer.
 
 ### yang <small>type, kind, sort</small>
 
-**ya si ke yang?**
+**da e ke yang?**
 What is it like?
 
-**sual ya si neu?**
+**sual da e neu?**
 Is it new?
 
-**ke si max boni?**
+**ke e max boni?**
 Which is better?
 
-**yi si maxim bon (de pan).**
+**ye e maxim bon (de pan).**
 This is the best (of all).
 
-**ya kosta ke?**
+**da kosta ke?**
 How much does it cost?  
 **nol.**
 Nothing.  
-**ya koste kam / poli.**
+**da koste kam / poli.**
 It is cheap / expensive.  
 
 **men cing mimen lai.**
@@ -1030,10 +1030,10 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**mi xule la pandunia.**
+**mi xula la pandunia.**
 I study Pandunia.
 
-**xou ya to mi a lexibuku!**
+**xou da to mi a lexibuku!**
 Show me in the dictionary!
 **mi no yada.**
 I don't remember.
@@ -1047,7 +1047,7 @@ I will never forget you.
 ****
 Don't worry! (Hakuna matata!)
 
-**pan si okey.**
+**pan e okey.**
 Everything is alright.
 
 ****
@@ -1062,7 +1062,7 @@ Do you like ...?
 ****
 I feel alright.
 
-**cing side a yi!**
+**cing side a ye!**
 Please, sit here!
 
 **mi suku stasa.**

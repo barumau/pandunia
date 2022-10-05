@@ -10,7 +10,6 @@
 **adres** *adresse* ← eng:address, fra:deu:adresse, rus:адрес (adres), por:endereço  
 **Afrika** *Afrique* ← ara:(ʾafrīqiyā), wol:Afrig, ful:Afirik, amh:(ʾäfriḳa), hau:Afirka, yor:Afirika, orm:Afrikaa, swa:Afrika, eng:spa:por:Africa, fra:Afrique, rus:Африка (Afrika), hin:अफ़्रीका (afrīkā), ben:আফ্রিকা (aphrika), jpn:アフリカ (Afurika), kor:프리카 (Apeurika)  
 **agile** *agile* ← eng:fra:agile, spa:por:ágil, deu:agil  
-**agresi** *agression (attaque)* ← eng:deu:fra:agression, pol:agresja, rus:агрессия (agressiya), spa:agresión, por:agressão, may:agresif  
 **agri** *cultiver* ← zho:农民 (nóng), yue:農民 (nung4), jpn:農 (nō), kor:농 (nong), vie:nông  
 **aha** *comprendre (réaliser)* ← rus:ага (aha), kor: 아하 (aha), eng: uh-huh, pol:aha + ara: آه (ʾāh)  
 **air** *air* ← eng:fra:spa:air, por:ar, rus:аэро- (aero-)  
@@ -245,7 +244,7 @@
 **cun** ** ← hin:चुनना (cunnā) + vie:chọn + eng:choose + zho:选 (xuǎn), yue:選 (syun2)  
 **cupu** ** ← spa:por:chupar, khm:ជប់ (cup)  
 **cuti** ** ← zho:出 (chū), yue:出 (ceot1), wuu:出 (ceq4), hak:出 (chut), jpn:出 (shutsu), kor:출 (chul), vie:xuất + hin:छूटना (chūtnā), may:cuti + tur:çıkmak  
-**da** *donner* ← spa:por:dar, rus:дать (dat'), fas: دادن‎ (dâdan), scr:দদাতি (dadāti), hin:देना (denā), ben:দেওয়া  (deva), tam:தா (tā)  
+**da** *il ou elle* ← zho:他/她/它 (tā) + ben:তা- (ta-) + rus:та (ta) + deu:das, eng:they; them  
 **dai hai** *océan* ← zho:大海 (dàhǎi), jpn:大海 (taikai),  kor:대양 (daeyang), vie:đại dương, hin:महासागर (mahāsāgar), ben:মহাসমুদ্র (môhaśmudr), tha:มหาสมุทร (mahasamut)  
 **dai** ** ← yue:大 (daai), zho:大 (dá), vie:đại, jpn:(dai,tai), kor:대— (dae-)  
 **daka** ** ← hin:ढकना (dhaknā), ben:ঢাকা (ḍhaka), pnb:ਢੱਕਣਾ (ḍhakṇā), deu:decken, eng:deck  
@@ -295,6 +294,7 @@
 **dolfin** *dauphin* ← ell:δελφίνια (delphínia), eng:dolphin, spa:delfín, por:delfim, rus:дельфин (del’fin), ara:دلفين (dulfin), jpn:ドルフィン (dorufin), ben:ডলফিন (ḍalaphina), hin:डॉल्फ़िन (ḍŏlfin)  
 **dom** *maison (foyer, domicile)* ← rus:дом (dom), pol:dom, ltn:domus, + eng:domestic, fra:domestique, spa:por:doméstico  
 **domino geme** ** ← eng:dominoes, spa:por:dominó, fra:dominos, rus:домино (domino), zho:多米诺 (duōmǐnuò), jpn:ドミノ牌 (dominohai)  
+**don** *donner* ← spa:por:dar, rus:дать (dat'), fas: دادن‎ (dâdan), scr:দদাতি (dadāti), hin:देना (denā), ben:দেওয়া  (deva), tam:தா (tā)  
 **dong** *east (orient)* ← zho:东 (dōng), yue:東 (dōng), vie:đông, kor:동 (dong), tur:doğu  
 **donjon ventur** ** ← eng:dungeon, fra:donjon, jpn:ダンジョン (danjon)  
 **dosil** *docile (insipide)* ← eng:fra:ita:docile, spa:por:dócil  
@@ -317,7 +317,7 @@
 **dura** *durée* ← eng:duration, fra:durée, spa:por:durar + ara: دَوْرَة (dawra), fas: دُوره (dowre), ben:ধরে (dhôre), hin:दौरान (daurān)  
 **dus** ** ← eng:fra:dys-, spa:por:dis-, rus:дис- (dis-) + hin:दुस्- (dus-), may:dur-, tur:düş-  
 **dux** *douche* ← fra:douche, spa:por:ducha, deu:Dusche, rus:душ (duš), ara: دوش (dūš), may:dus, tur:duş  
-**e** *et* ← fra:et, por:e, spa:y;e, zho:和 (hé)  
+**e** *être* ← zho:是 (shì), yue:是 (si4) + spa:por:ser  
 **eglisa** ** ← eng:ecclesia-, fra:église, spa:iglesia, por:igreja, hin:गिरजा (girjā), may:gereja, ara:(kanisā), swa:kanisa, tur:kilise  
 **einstein yum** *einsteinium* ← eng:einsteinium, fra:einsteinium, spa:einsteinium, por:einstânio, rus:эйнштейний, zho:锿 (āi), jpn:アインスタイニウム, kor:아인시타이늄, vie:ensteni, hin:आइन्स्टाइनियम, ben:আইনস্টাইনিয়াম, may:einsteinium, swa:einsteni, ara: انيشتنيوم  
 **eko** ** ← eng:spa:por:eco-, fra:éco-, deu:öko-, rus:эко-, tur:may:eko-  
@@ -590,6 +590,7 @@
 **humus** ** ← ara:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), eng:spa:may:hummus, por:húmus, rus:хумус (humus), tur:humus, hin:mar:हुम्मुस (hummus), jpn:フムス (fumusu)  
 **huru** *libre* ← ara: حر (ḥurr), tur:hür, swa:huru, spa:horro, por:forro  
 **huxi** ** ← fas: خوش‎ (xoš), hin:ख़ुश (xuś), ben:খুশি (khuśi), tur:hoş, eng:cushy  
+**i** *et* ← fra:et, por:e, spa:y;e, zho:和 (hé)  
 **ici** ** ← vie:ý chí, zho:意志 (yìzhì), kor:(uiji), jpn:(ishi), + hin:इच्छा (icchā), tel:ఇచ్చ (icca)  
 **idea** ** ← fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định  
 **idiote** ** ← eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)  
@@ -1331,7 +1332,6 @@
 **serve** ** ← eng:fra:service, por:serviço, rus:сервис (servis), tur:servis + hin:सेवा (sevâ), ben:সেবা  (seba)  
 **sesam** ** ← eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam  
 **sexe** ** ← eng:sex, fra:sexe, spa:por:sexo, rus:секс (seks), tur:seks, hin:सेक्स (seks), jpn:セックス (sekkusu), kor:섹스 (sekseu)  
-**si** *être* ← zho:是 (shì), yue:是 (si4) + spa:por:ser  
 **sian** ** ← eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian  
 **siborge yum** *seaborgium* ← eng:seaborgium, fra:seaborgium, spa:seaborgio, por:seabórgio, rus:сиборгий, zho: (xǐ), jpn:シーボーギウム, kor:새보쥼, vie:seaborgi, hin:सीबोर्गियम, ben:সিওবোর্গিয়াম, may:seaborgium, swa:seaborgi, ara: سيبورجيوم  
 **side** ** ← rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere  
@@ -1597,7 +1597,7 @@
 **xuli** *réparation* ← zho:修理 (xiūlǐ), jpn:修理 (shuri), kor:수리 (suri)  
 **xuru** *début (commencement)* ← ara: شُرُوع‎ (šurūʿ), fas: شروع (šoru') , hin:शुरू (śurū), ben:শুরু (śuru) + zho:始 (shǐ), jpn:始 (kaishi), kor:시 (shi)  
 **xux** ** ← eng:shh, fra:chut, rus:ш-ш-ш, zho:噓 (xū), jpn:しーっ (shīt), kor:쉿 (swit), tur:sus  
-**ya** *il ou elle* ← hin:यह (yah) + may:ia + ibo:ya, kon:ya + zho:伊 (yī), vie:y  
+**ya** *oui* ← eng:yeah, deu:ja, kor:예 (ye), jpn:ええ (ē) + may:ya + ara: إِِي (ʾiī)   
 **yake** ** ← eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)  
 **yaki** ** ← kor:약 (yak), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:约 (yuē)  
 **yam** ** ← khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam  
@@ -1605,7 +1605,7 @@
 **yasen** *frêne* ← rus:ясень (yasen’), pol:jesion  
 **yatim** ** ← ara:fas:(yatim), tur:yetim, swa:yatima, hin:यतीम (yatīm)  
 **yau** ** ← zho:要 (yāo), yue:要 (jiu1), wuu:要 (yo1), jpn:要 (yō), vie:yêu  
-**ye** *oui* ← eng:yeah, deu:ja, kor:예 (ye), jpn:ええ (ē) + may:ya + ara: إِِي (ʾiī)   
+**ye** *ce...ci* ← kor:이 (i) + ben:এ (e), hin:यह (ye) + tel:ఈ (ī), tam:இது (itu) + yor:yìí  
 **yei** ** ← eng:yay, pol:jej, jpn:イエイ (iei)  
 **yeka** ** ← zho:易 (yì), yue:易 (yik6), jpn:易 (eki), kor:역 (yeok), vie:dịch  
 **yem** *sel* ← zho:盐 (yán), yue:鹽 (yim4), jpn:塩 (en), kor:염 (yeom), vie:diêm  
@@ -1613,7 +1613,6 @@
 **yen** *œil* ← zho:眼 (yǎn) + ara: عَيْن‎ (ʿayn), egy: عين‎ (ʕēn), amh:ዐይን (ʿäyn), may:ain, fra:yeux  
 **yepa** *feuille* ← zho:叶 (yè), yue:葉 (jip6), kor:잎 (ip);엽 (yeop), vie:diệp, jpn:葉 (yō)  
 **yezi** ** ← zho:椰子 (yēzi), yue:椰子 (ye4zi2), kor:야자 (yaja), jpn:椰子 (yashi)  
-**yi** *ce...ci* ← kor:이 (i) + ben:এ (e), hin:यह (ye) + tel:ఈ (ī), tam:இது (itu) + yor:yìí  
 **yo** ** ← zho:有 (yǒu), yue:有 (jau5)  
 **yoga** ** ← hin:योग (yog), pnb:ਯੋਗ (yog), urd:(yog), ben:যোগ (jog), tel:యోగా (yōgā), tha:โยคะ (yōga), eng:spa:may:tur:yoga, por:ioga, rus:йога (yoga), zho:瑜伽 (yújiā), jpn:ヨーガ (yōga), kor:요가 (yoga)  
 **yogo** *joug* ← eng:yoke, spa:yugo, por:jugo, fra:joug, rus:иго (igo), fas:  یوغ‎ (yuğ) + yue:軛 (aak1), vie:ách  

@@ -59,7 +59,7 @@ a vai - ulkona (ulkopuolella)
 a vakil de - puolesta  
 a vo - tuolla  
 a xukur de - ansiosta  
-a yi - täällä  
+a ye - täällä  
 abies - pihta (jalokuusi)  
 acar - säilyke (pikkelssi)  
 acar di - säilötty  
@@ -77,7 +77,6 @@ adres zi - @-merkki
 Afghan - Afganistan  
 Afrika - Afrikka  
 agile - ketterä  
-agresi - hyökkäys (päällekarkaus, aggressio)  
 agri - viljellä  
 agri bio logi - maatalousbiologia  
 agri deha - maalaiskylä  
@@ -175,7 +174,7 @@ Antartika - Antarktis
 Antartika Hai - Eteläinen Jäämeri  
 antena - antenni  
 Antigua - Antigua  
-Antigua e Barbuda - Antigua ja Barbuda  
+Antigua i Barbuda - Antigua ja Barbuda  
 anus - peräaukko (anus)  
 anus di - anaalinen  
 aple - omena  
@@ -485,8 +484,8 @@ Biblia di - raamatullinen
 bibre - majava  
 bici - piiska (ruoska)  
 bil - voida (osata, pystyä, mahdollinen, ehkä)  
+bil e - ehkä (voi olla)  
 bil ja - kykenevä (voiva)  
-bil si - ehkä (voi olla)  
 bilta - mahdollisuus (taito, kyky)  
 bilor - kristalli  
 bina - rakennus (rakenne)  
@@ -547,7 +546,7 @@ bor yum - bohrium
 bori - tylsyys (pitkästys)  
 bori di - pitkästynyt  
 boron - boori  
-Bosna e Hercegovina - Bosnia ja Hertsegovina  
+Bosna i Hercegovina - Bosnia ja Hertsegovina  
 Bote - Tiibet  
 botel - pullo  
 botel tapa - pullonkorkki  
@@ -701,11 +700,11 @@ cuti mun - uloskäynti
 
 ## D  
 
-da - antaa  
-• reda - palauttaa (antaa takaisin)  
-databi - antelias (avokätinen)  
-daxe - lahja  
-daxeceke - lahjakortti  
+da - hän (se)  
+damen - he  
+damen su - heidän  
+damimen - me mutta et sinä  
+da su - hänen (sen)  
 dai - iso (suuri)  
 dai anjil ja - lähettiläs  
 dai anjilkan - lähetystö  
@@ -854,6 +853,11 @@ dom zeze - kärpänen
 Dominika - Dominika  
 Dominika Vakil krati - Dominikaaninen Tasavalta  
 domino geme - dominopeli  
+don - antaa  
+• redon - palauttaa (antaa takaisin)  
+don tabi - antelias (avokätinen)  
+don xe - lahja  
+don xe ceke - lahjakortti  
 dong - itä  
 dong di - itäinen  
 dong gorila - idängorilla  
@@ -922,7 +926,8 @@ dux - suihku
 
 ## E  
 
-e - ja (sekä)  
+e - olla  
+eja - olento (olio)  
 eglisa - kirkko  
 einstein yum - einsteinium  
 Eire - Irlanti  
@@ -1003,7 +1008,6 @@ exa - eksa-
 
 fa - tehdä (toimia)  
 fa acar - säilöä  
-fa agresi - hyökätä (käydä päälle)  
 fa ajabu - ällistyttää  
 fa alo rai - olla eri mieltä  
 fa an galte - poistaa virheitä (debugata)  
@@ -1306,8 +1310,8 @@ fei muxu - lepakko
 fem sim - feminismi  
 fem sim ja - feministi  
 fen - osa (lohko, pala)  
-fen da - osallistua (tehdä osansa)  
 fen di - osittainen  
+fen don - osallistua (tehdä osansa)  
 fen gata - analyysi  
 fenil - fenyyli  
 fenol - fenoli  
@@ -1826,6 +1830,7 @@ huxi - mukava (kiva, miellyttävä)
 
 ## I  
 
+i - ja (sekä)  
 ibri - heprea  
 ici - tahto  
 • anicija - vastahakoinen (haluton)  
@@ -2159,7 +2164,7 @@ kio - silta
 kioske - kioski  
 Kipris - Kypros  
 kira - vuokra  
-kira da - vuokrata  
+kira don - vuokrata  
 kira kape - vuokrata  
 kirate - karaatti  
 Kirgize - Kirgistan (Kirgisia)  
@@ -3400,10 +3405,10 @@ sante - pyhä
 Sante Helena - Saint Helena  
 sante kanon - pyhä kirja (pyhät kirjoitukset)  
 Sante Kitse - Saint Kitts  
-Sante Kitse e Nevis - Saint Kitts ja Nevis  
+Sante Kitse i Nevis - Saint Kitts ja Nevis  
 Sante Lucia - Saint Lucia  
 Sante Marino - San Marino  
-Sante Tome e Principe - Sao Tome ja Principe  
+Sante Tome i Principe - Sao Tome ja Principe  
 sanzi - viuhka (tuuletin)  
 sapatu - kenkä  
 sapatu ja - suutari  
@@ -3468,8 +3473,6 @@ sexe - seksi (sukupuolisuhde)
 sexe di - seksikäs  
 sexe logi - seksologia  
 Sexel nesi - Seychellit  
-si - olla  
-sija - olento (olio)  
 sian - syaani  
 Sibiria - Siperia  
 siborge yum - seaborgium  
@@ -3774,7 +3777,7 @@ trime - kolmas (3.)
 tri pike - atrain  
 tripli - tripla (kolminkertainen)  
 tribu - heimo  
-Trinidade e Tobago - Trinidad ja Tobago  
+Trinidade i Tobago - Trinidad ja Tobago  
 Triton - Triton  
 truke - temppu (kepponen, jekku, huijaus)  
 tu - sinä  
@@ -3886,7 +3889,7 @@ vakil krati - tasavalta
 vala - ammatinharjoittaja (niekka)  
 vali - laakso  
 vali susan - kielo  
-Valis e Futuna nesi - Wallis ja Futuna  
+Valis i Futuna nesi - Wallis ja Futuna  
 valse - valssi  
 valu - arvo  
 vampir - vampyyri  
@@ -4089,11 +4092,7 @@ xux di - hiljainen
 
 ## Y  
 
-ya - hän (se)  
-yamen - he  
-yamen su - heidän  
-yamimen - me mutta et sinä  
-ya su - hänen (sen)  
+ya - kyllä  
 Yahve - Jahve (Jehova)  
 yake - jakki  
 yaki - noin (arviolta, suunnilleen)  
@@ -4113,7 +4112,7 @@ yau - tarvita
 • anyau di - tarpeeton  
 yau di - tarpeellinen  
 yauta - tarve (puute)  
-ye - kyllä  
+ye - tämä  
 yehudi - juutalainen  
 yehudi din - juutalaisuus  
 yei - jee! (hurraa!)  
@@ -4132,7 +4131,6 @@ yepa late - sivu (kirjassa)
 Yesa - Jeesus  
 Yesa Mesi - Jeesus Kristus  
 yezi - kookos  
-yi - tämä  
 yo - jokin (joku)  
 yo jen - joku  
 yo sata - joskus  

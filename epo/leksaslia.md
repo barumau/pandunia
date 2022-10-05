@@ -10,7 +10,6 @@
 **adres** *adreso* ← angla:address, franca:deu:adresse, rusa:адрес (adres), portugala:endereço  
 **Afrika** *Afriko* ← araba:(ʾafrīqiyā), volofa:Afrig, fula:Afirik, amhara:(ʾäfriḳa), haŭsa:Afirka, joruba:Afirika, oroma:Afrikaa, svahila:Afrika, angla:hispana:portugala:Africa, franca:Afrique, rusa:Африка (Afrika), hindia:अफ़्रीका (afrīkā), bengala:আফ্রিকা (aphrika), japana:アフリカ (Afurika), korea:프리카 (Apeurika)  
 **agile** *lerta* ← angla:franca:agile, hispana:portugala:ágil, deu:agil  
-**agresi** *atako (agreso)* ← angla:deu:franca:agression, polona:agresja, rusa:агрессия (agressiya), hispana:agresión, portugala:agressão, malaja:agresif  
 **agri** ** ← mandarena:农民 (nóng), kantona:農民 (nung4), japana:農 (nō), korea:농 (nong), vjetnama:nông  
 **aha** *kompreni* ← rusa:ага (aha), korea: 아하 (aha), angla: uh-huh, polona:aha + araba: آه (ʾāh)  
 **air** *aero* ← angla:franca:hispana:air, portugala:ar, rusa:аэро- (aero-)  
@@ -245,7 +244,7 @@
 **cun** *elekti* ← hindia:चुनना (cunnā) + vjetnama:chọn + angla:choose + mandarena:选 (xuǎn), kantona:選 (syun2)  
 **cupu** *suĉi* ← hispana:portugala:chupar, kmera:ជប់ (cup)  
 **cuti** *eliri* ← mandarena:出 (chū), kantona:出 (ceot1), vua:出 (ceq4), hakaa:出 (chut), japana:出 (shutsu), korea:출 (chul), vjetnama:xuất + hindia:छूटना (chūtnā), malaja:cuti + turka:çıkmak  
-**da** *doni* ← hispana:portugala:dar, rusa:дать (dat'), persa: دادن‎ (dâdan), scr:দদাতি (dadāti), hindia:देना (denā), bengala:দেওয়া  (deva), tamila:தா (tā)  
+**da** *li aŭ ŝi aŭ ĝi* ← mandarena:他/她/它 (tā) + bengala:তা- (ta-) + rusa:та (ta) + deu:das, angla:they; them  
 **dai hai** *oceano* ← mandarena:大海 (dàhǎi), japana:大海 (taikai),  korea:대양 (daeyang), vjetnama:đại dương, hindia:महासागर (mahāsāgar), bengala:মহাসমুদ্র (môhaśmudr), taja:มหาสมุทร (mahasamut)  
 **dai** *granda* ← kantona:大 (daai), mandarena:大 (dá), vjetnama:đại, japana:(dai,tai), korea:대— (dae-)  
 **daka** *kovrilo* ← hindia:ढकना (dhaknā), bengala:ঢাকা (ḍhaka), panĝaba:ਢੱਕਣਾ (ḍhakṇā), deu:decken, angla:deck  
@@ -295,6 +294,7 @@
 **dolfin** *delfeno* ← greka:δελφίνια (delphínia), angla:dolphin, hispana:delfín, portugala:delfim, rusa:дельфин (del’fin), araba:دلفين (dulfin), japana:ドルフィン (dorufin), bengala:ডলফিন (ḍalaphina), hindia:डॉल्फ़िन (ḍŏlfin)  
 **dom** *hejmo (loĝejo)* ← rusa:дом (dom), polona:dom, latina:domus, + angla:domestic, franca:domestique, hispana:portugala:doméstico  
 **domino geme** ** ← angla:dominoes, hispana:portugala:dominó, franca:dominos, rusa:домино (domino), mandarena:多米诺 (duōmǐnuò), japana:ドミノ牌 (dominohai)  
+**don** *doni* ← hispana:portugala:dar, rusa:дать (dat'), persa: دادن‎ (dâdan), scr:দদাতি (dadāti), hindia:देना (denā), bengala:দেওয়া  (deva), tamila:தா (tā)  
 **dong** *oriento* ← mandarena:东 (dōng), kantona:東 (dōng), vjetnama:đông, korea:동 (dong), turka:doğu  
 **donjon ventur** ** ← angla:dungeon, franca:donjon, japana:ダンジョン (danjon)  
 **dosil** ** ← angla:franca:itala:docile, hispana:portugala:dócil  
@@ -317,7 +317,7 @@
 **dura** *daŭro* ← angla:duration, franca:durée, hispana:portugala:durar + araba: دَوْرَة (dawra), persa: دُوره (dowre), bengala:ধরে (dhôre), hindia:दौरान (daurān)  
 **dus** ** ← angla:franca:dys-, hispana:portugala:dis-, rusa:дис- (dis-) + hindia:दुस्- (dus-), malaja:dur-, turka:düş-  
 **dux** *duŝo* ← franca:douche, hispana:portugala:ducha, deu:Dusche, rusa:душ (duš), araba: دوش (dūš), malaja:dus, turka:duş  
-**e** *kaj* ← franca:et, portugala:e, hispana:y;e, mandarena:和 (hé)  
+**e** *esti* ← mandarena:是 (shì), kantona:是 (si4) + hispana:portugala:ser  
 **eglisa** *preĝejo* ← angla:ecclesia-, franca:église, hispana:iglesia, portugala:igreja, hindia:गिरजा (girjā), malaja:gereja, araba:(kanisā), svahila:kanisa, turka:kilise  
 **einstein yum** *ejnŝtejnio* ← angla:einsteinium, franca:einsteinium, hispana:einsteinium, portugala:einstânio, rusa:эйнштейний, mandarena:锿 (āi), japana:アインスタイニウム, korea:아인시타이늄, vjetnama:ensteni, hindia:आइन्स्टाइनियम, bengala:আইনস্টাইনিয়াম, malaja:einsteinium, svahila:einsteni, araba: انيشتنيوم  
 **eko** *naturo* ← angla:hispana:portugala:eco-, franca:éco-, deu:öko-, rusa:эко-, turka:malaja:eko-  
@@ -590,6 +590,7 @@
 **humus** ** ← araba:حِمِّص‎ (ḥimmiṣ), heb:חומוס‎ (ḥumuṣ), angla:hispana:malaja:hummus, portugala:húmus, rusa:хумус (humus), turka:humus, hindia:marataja:हुम्मुस (hummus), japana:フムス (fumusu)  
 **huru** *libera* ← araba: حر (ḥurr), turka:hür, svahila:huru, hispana:horro, portugala:forro  
 **huxi** *agrabla* ← persa: خوش‎ (xoš), hindia:ख़ुश (xuś), bengala:খুশি (khuśi), turka:hoş, angla:cushy  
+**i** *kaj* ← franca:et, portugala:e, hispana:y;e, mandarena:和 (hé)  
 **ici** *volo* ← vjetnama:ý chí, mandarena:意志 (yìzhì), korea:(uiji), japana:(ishi), + hindia:इच्छा (icchā), teluga:ఇచ్చ (icca)  
 **idea** *ideo* ← franca:idée, deu:Idee, hat:malaja:ide, persa:(ide), portugala:ideia, rusa:идея (ideya), vjetnama:ý định  
 **idiote** ** ← angla:deu:franca:malaja:idiot, hispana:portugala:idiota, rusa:идиот (idiot)  
@@ -1331,7 +1332,6 @@
 **serve** ** ← angla:franca:service, portugala:serviço, rusa:сервис (servis), turka:servis + hindia:सेवा (sevâ), bengala:সেবা  (seba)  
 **sesam** ** ← angla:sesame, rusa:сезам (sezam), hispana:sésamo, araba:(simsim), svahila:simsim, turka:susam  
 **sexe** *sekso* ← angla:sex, franca:sexe, hispana:portugala:sexo, rusa:секс (seks), turka:seks, hindia:सेक्स (seks), japana:セックス (sekkusu), korea:섹스 (sekseu)  
-**si** *esti* ← mandarena:是 (shì), kantona:是 (si4) + hispana:portugala:ser  
 **sian** ** ← angla:cyan, hispana:cian, rusa:циан (tsian), araba:سيان (sayan), hindia:क्यान (kyāna), japana:シアン (shian), malaja:sian  
 **siborge yum** *seborgio* ← angla:seaborgium, franca:seaborgium, hispana:seaborgio, portugala:seabórgio, rusa:сиборгий, mandarena: (xǐ), japana:シーボーギウム, korea:새보쥼, vjetnama:seaborgi, hindia:सीबोर्गियम, bengala:সিওবোর্গিয়াম, malaja:seaborgium, svahila:seaborgi, araba: سيبورجيوم  
 **side** ** ← rusa:сидеть (sidet'), angla:sit, deu:sitzen, itala:sedere  
@@ -1597,7 +1597,7 @@
 **xuli** *riparo* ← mandarena:修理 (xiūlǐ), japana:修理 (shuri), korea:수리 (suri)  
 **xuru** *komenco* ← araba: شُرُوع‎ (šurūʿ), persa: شروع (šoru') , hindia:शुरू (śurū), bengala:শুরু (śuru) + mandarena:始 (shǐ), japana:始 (kaishi), korea:시 (shi)  
 **xux** ** ← angla:shh, franca:chut, rusa:ш-ш-ш, mandarena:噓 (xū), japana:しーっ (shīt), korea:쉿 (swit), turka:sus  
-**ya** *li aŭ ŝi aŭ ĝi* ← hindia:यह (yah) + malaja:ia + igba:ya, konga:ya + mandarena:伊 (yī), vjetnama:y  
+**ya** *jes* ← angla:yeah, deu:ja, korea:예 (ye), japana:ええ (ē) + malaja:ya + araba: إِِي (ʾiī)   
 **yake** ** ← angla:deu:franca:hispana:turka:yak, portugala:iaque, hindia:याक (yāk)  
 **yaki** ** ← korea:약 (yak), japana:約 (yaku), kantona:約 (yœk), turka:yaklaşık, mandarena:约 (yuē)  
 **yam** *manĝi (trinki)* ← kmera:ញ៉ាំ (nyam), fula:nyami, + hispana:ñam, rusa:ням (nyam), itala:gnam, angla:yum, korea:냠냠 (nyamnyam), hungara:nyam  
@@ -1605,7 +1605,7 @@
 **yasen** ** ← rusa:ясень (yasen’), polona:jesion  
 **yatim** ** ← araba:persa:(yatim), turka:yetim, svahila:yatima, hindia:यतीम (yatīm)  
 **yau** *bezoni* ← mandarena:要 (yāo), kantona:要 (jiu1), vua:要 (yo1), japana:要 (yō), vjetnama:yêu  
-**ye** *jes* ← angla:yeah, deu:ja, korea:예 (ye), japana:ええ (ē) + malaja:ya + araba: إِِي (ʾiī)   
+**ye** *ĉi tiu* ← korea:이 (i) + bengala:এ (e), hindia:यह (ye) + teluga:ఈ (ī), tamila:இது (itu) + joruba:yìí  
 **yei** ** ← angla:yay, polona:jej, japana:イエイ (iei)  
 **yeka** ** ← mandarena:易 (yì), kantona:易 (yik6), japana:易 (eki), korea:역 (yeok), vjetnama:dịch  
 **yem** *salo* ← mandarena:盐 (yán), kantona:鹽 (yim4), japana:塩 (en), korea:염 (yeom), vjetnama:diêm  
@@ -1613,7 +1613,6 @@
 **yen** *okulo* ← mandarena:眼 (yǎn) + araba: عَيْن‎ (ʿayn), egipta araba: عين‎ (ʕēn), amhara:ዐይን (ʿäyn), malaja:ain, franca:yeux  
 **yepa** *folio* ← mandarena:叶 (yè), kantona:葉 (jip6), korea:잎 (ip);엽 (yeop), vjetnama:diệp, japana:葉 (yō)  
 **yezi** *kokoso* ← mandarena:椰子 (yēzi), kantona:椰子 (ye4zi2), korea:야자 (yaja), japana:椰子 (yashi)  
-**yi** *ĉi tiu* ← korea:이 (i) + bengala:এ (e), hindia:यह (ye) + teluga:ఈ (ī), tamila:இது (itu) + joruba:yìí  
 **yo** *iu* ← mandarena:有 (yǒu), kantona:有 (jau5)  
 **yoga** *jogo* ← hindia:योग (yog), panĝaba:ਯੋਗ (yog), urdua:(yog), bengala:যোগ (jog), teluga:యోగా (yōgā), taja:โยคะ (yōga), angla:hispana:malaja:turka:yoga, portugala:ioga, rusa:йога (yoga), mandarena:瑜伽 (yújiā), japana:ヨーガ (yōga), korea:요가 (yoga)  
 **yogo** *jugo* ← angla:yoke, hispana:yugo, portugala:jugo, franca:joug, rusa:иго (igo), persa:  یوغ‎ (yuğ) + kantona:軛 (aak1), vjetnama:ách  

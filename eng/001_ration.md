@@ -380,7 +380,7 @@ comes from the Indo-European family of languages,
 including French _tu_, Spanish _tú_, Russian _ty_ and Hindi _tū_.
 In Pandunia it is a neutral pronoun that can be used both in informal and formal situations.
 
-The third-person pronoun in Pandunia is **ya**.
+The third-person pronoun in Pandunia is **da**.
 It is inspired by many languages, including
 Malay _ia_, Hindi यह (yah), Swahili _yeye_ and Nigerian Igbo _ya_.
 It has the remarkable benefit that it can refer to both males and females as well as lifeless objects.
@@ -394,10 +394,10 @@ Add **men** to form the plural:
 |------------|------------|------------|
 | I          | mi         | wǒ         |
 | you        | tu         | nǐ         |
-| he or she  | ya         | tā         |
+| he or she  | da         | tā         |
 | we         | mimen      | wǒmen      |
 | you all    | tumen      | nǐmen      |
-| they       | yamen      | tāmen      |
+| they       | damen      | tāmen      |
 
 Add **su** to form the possessive:
 
@@ -405,10 +405,10 @@ Add **su** to form the possessive:
 |------------|------------|------------|
 | my         | mi su      | wǒ de      |
 | your       | tu su      | nǐ de      |
-| his/her    | ya su      | tā de      |
+| his/her    | da su      | tā de      |
 | our        | mimen su   | wǒmen de   |
 | your       | tumen su   | nǐmen de   |
-| their      | yamen su   | tāmen de   |
+| their      | damen su   | tāmen de   |
 
 By a fortunate coincidence, the second person plural pronoun is identical to Romani (Gypsy) *tumen*
 and not far from Hindi-Urdu *tum*.
@@ -416,7 +416,7 @@ and not far from Hindi-Urdu *tum*.
 The personal pronouns in Pandunia attain three important goals.
 
 1. The basic pronouns
-   (**mi**, **tu**, **ye**)
+   (**mi**, **tu**, **da**)
    look and sound distinct.
 2. The plural and possessive pronouns are built in a systematic way.
    They are not only a bunch of random words.
@@ -447,26 +447,26 @@ The auxiliary verb **be** is used when the object of the action comes first in t
 but it is also close to some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  ya no bil be yam.
+    Pandunia:  da no bil be yam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
 Like Chinese, Pandunia doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  mi cing ya yam kafe.
+    Pandunia:  mi cing da yam kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 In Pandunia and Chinese, nouns can be singular or plural depending on surrounding words.
 There's no plural ending like -s in English.
 Also verbs are not conjugated.
-One word, **si**, is used instead of
+One word, **e**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  ya si aple.
+    Pandunia:  da e aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  yamen si aple.
+    Pandunia:  damen e aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 

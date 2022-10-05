@@ -7,23 +7,23 @@ and simple logical rules on how to use them in a systematic way.
 Every word has potentially many possible uses.
 Words don't belong permanently into any _word classes_ or _part-of-speech_ categories.
 For example, the word
-**hoge**
+**hogo**
 can mean 'fire', 'fiery', 'burning' and 'to burn'.
 The actual meaning emerges in the sentence context.
 
 The noun meaning, 'fire', emerges when the word occupies the position of a noun in a sentence.
 
-**mi vide la hoge.**
+**mi vide la hogo.**
 – I see fire.
 
 The adjectival meaning, 'fiery', emerges in adjectival position.
 
-**mi vide un hoge kar.**
+**mi vide un hogo kar.**
 – I see a fiery chariot.
 
 The verbal meaning, 'to burn', emerges in verbal position.
 
-**mi hoge yo mokə.**
+**mi hogo yo mokə.**
 – I burn some wood.
 
 Verb, noun and modifier are created independently from the base word.
@@ -50,9 +50,9 @@ such as hammer, drill, axe, knife, comb and brush.
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
 | **brox**   | 'brush'      | 'of brush' | 'to brush' |
-| **katan**  | 'sword'      | 'of sword' | 'to sword-fight, to fence' |
-| **defe**   | 'shield'     | 'to defend, to shield' |
-| **dage**   | 'dagger'     | 'of dagger' | 'to stab' |
+| **kem**    | 'sword'      | 'of sword' | 'to sword-fight, to fence' |
+| **defa**   | 'shield'     | 'to defend, to shield' |
+| **daga**   | 'dagger'     | 'of dagger' | 'to stab' |
 | **hamar**  | 'hammer'     | 'hammer's, hammerlike' | 'to beat, to hammer' |
 
 ### Object words
@@ -91,8 +91,8 @@ The base word is a quality:
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **bone**   | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
-| **hure**   | 'freedom'    | 'free'           | 'to free, to liberate' |
+| **bon**    | 'goodness'   | 'good, well'     | 'do good, make good, improve' |
+| **huru**   | 'freedom'    | 'free'           | 'to free, to liberate' |
 
 ### Artifact words
 
@@ -104,7 +104,7 @@ The base word refers to a human-made object.
 
 | Word       | Noun meaning | Modifier meaning | Verb meaning |
 |:-----------|:-------------|:-----------------|:-------------|
-| **kitabu** | 'writing'    | 'written'        | 'to write' |
+| **kitaba** | 'writing'    | 'written'        | 'to write' |
 | **fikir**  | 'thought'    | 'of thinking'    | 'to think' |
 
 
@@ -160,7 +160,7 @@ but it does it just by being there, it doesn't do it on purpose.
 The person is the one who moves the chair.
 The chair is not self-propelled and it doesn't move by itself.
 
-**jenᴬ pase domᴾ.**
+**jenᴬ pas domᴾ.**
 – The personᴬ passes the houseᴾ.
 
 The person is the one who moves
@@ -188,13 +188,13 @@ The activity is typically a word for an action but it can be also an instrument,
 Examples of different kinds of activity words include the following:
 **futau**
 'axe',
-**hoge**
+**hogo**
 'fire',
 **yen**
 'eyes',
 **ame**
 'love',
-**hure**
+**huru**
 'freedom', and
 **matre**
 'mother'.
@@ -215,9 +215,9 @@ Eyes are used for watching.
 Love is felt for others.
 Therefore the semantics of the following sentences are easy to understand.
 
-**mi futau yo moke.**
+**mi futau yo moka.**
 – I chop trees.  
-**mi hoge yo moke.**
+**mi hogo yo moka.**
 – I burn wood.  
 **mi yen tu.**
 – I eye you. ~ I look at you.  
@@ -230,7 +230,7 @@ If you are in a situation where you can apply freedom to an object,
 you can probably guess that the object is likely a human object or an animate object,
 and then you can imagine what freedom does to them.
 
-**mi hure yamen.**
+**mi huru damen.**
 – I free them. ~ I liberate them.
 
 The thing called *mother* is not any different.

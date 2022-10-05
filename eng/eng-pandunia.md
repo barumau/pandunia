@@ -146,7 +146,7 @@ analysis (dissection) - fen gata
 anchor - angar  
 anchovy - ancovi  
 Ancient Egypt (Kemet) - Keme  
-and - e  
+and - i  
 Andes - Andes  
 andesite - andesite  
 Andorra - Andora  
@@ -170,7 +170,7 @@ Antarctica - Antartika
 antenna (aerial) - antena  
 antichrist - anmesi  
 Antigua - Antigua  
-Antigua and Barbuda - Antigua e Barbuda  
+Antigua and Barbuda - Antigua i Barbuda  
 antimony - estibi yum  
 antonym - annam  
 anus - anus  
@@ -263,8 +263,6 @@ atomic bomb - atom bomba
 atomic nucleus - atom kerne  
 atomic weapon - atom vuki  
 attachment (affix) - fixe  
-attack (assault) - fa agresi  
-attack (assault, aggression, hostility) - agresi  
 attack (assault, aggression, hostility) - agrese  
 attain (accomplish, indicates the current position) - le  
 attract - atrate  
@@ -364,7 +362,7 @@ bathe - fa banya
 bathroom - banya kamar  
 battery - batri  
 bay (gulf) - baya  
-be - si  
+be - e  
 be beside (accompany) - a late  
 be born - be gene  
 be bothered by (bother to, take the trouble to) - be turbe  
@@ -398,7 +396,7 @@ beginning (start, commencement, onset) - xuru
 behave (act) - fa manera  
 behavior (manners) - manera  
 Beijing (Peking) - Beijing  
-being (entity) - sija  
+being (entity) - eja  
 bel (unit) - bel  
 Belarus - Belarus  
 Belgium - Belgi  
@@ -500,7 +498,7 @@ boredom - bori
 boron - boron  
 borrow (lend) - jeka  
 borrow - jeka na  
-Bosnia and Herzegovina - Bosna e Hercegovina  
+Bosnia and Herzegovina - Bosna i Hercegovina  
 botany (phytology) - fitologi  
 bother (annoy, disturb, irritate) - fa turbe  
 Botswana - Cuana  
@@ -912,7 +910,7 @@ contest (challenge) - konteste
 continue (go on, keep on, carry on, proceed, still, yet) - zoku  
 continue (resume) - redura  
 continuous (analog) - undura  
-contribute - fen da  
+contribute - fen don  
 controversy   - kontraversi  
 conventional (customary, traditional) - suna di  
 converse (turn back and forth) - konversi  
@@ -1066,8 +1064,8 @@ decorate (embellish) - fa mei daka
 decoration (ornament) - mei daka  
 decrease (lessen) - fa min  
 decrement - fa min gradu  
-dedicate (devote) - sata da  
-dedication (devotion) - sata data  
+dedicate (devote) - sata don  
+dedication (devotion) - sata don ta  
 deduce (lead from) - dedute  
 deduction - dedution  
 deed (fact) - fate  
@@ -1653,7 +1651,7 @@ genealogy (recording of descents) - gene logu
 generalissimo (shogun) - ordu raja  
 generate (beget, produce; production, reproduction) - gene  
 generation (cohort) - gene grupe  
-generous (open-handed) - databi  
+generous (open-handed) - don tabi  
 genetic - gene logi di  
 genetics (study of reproduction) - gene logi  
 genotype - gene tipe  
@@ -1679,14 +1677,14 @@ ghost (phantom) - fantom
 ghoul - gule  
 giant onion - dai lasun  
 Gibraltar - Jibraltar  
-gift - daxe  
-gift certificate (gift card) - daxeceke  
+gift - don xe  
+gift certificate (gift card) - don xe ceke  
 ginger - jinji  
 ginseng - jenxen  
 giraffe - jirafa  
 girl - jun fem  
 girl - you ni  
-give - da  
+give - don  
 give birth (beget, generate, breed) - fa gene  
 give consultation - kon sel  
 glass - kanca  
@@ -1834,7 +1832,7 @@ Hawaii - Havai
 Hawaiian archipelago - Havai nesia  
 hay - gan cau  
 hazard (chance) - zar  
-he or she or it - ya  
+he or she or it - da  
 head - sar  
 headless - sar hin  
 headmaster (principal) - xula xefe  
@@ -1863,7 +1861,7 @@ hemoglobin - hemi globin
 hemophobia - hemi fobi  
 henna (alcanna) - hina  
 hepatitis - hepatetis  
-here - a yi  
+here - a ye  
 here you are - cing na  
 heritage (legacy, bequest) - varite  
 hero - hero  
@@ -1884,7 +1882,7 @@ Hinduism - Hindi din
 Hindustan - Hindi dexa  
 hinge (pivot) - xarnir  
 hippopotamus - gubu  
-his or her - ya su  
+his or her - da su  
 hispanophone (Spanish speaking) - espanya fon di  
 historian - historija  
 history (annals) - histori  
@@ -2265,7 +2263,7 @@ leftover (residue, vestige) - laxe xe
 leg - fute xaka  
 lemon - limon  
 lemonade - limon jus  
-lend - jeka da  
+lend - jeka don  
 length - longta  
 lengthen (prolong) - fa long  
 lens - lense  
@@ -2501,7 +2499,7 @@ maximize - fa maxim
 maximum - maxim xe  
 May - mes lima  
 Maya - maya  
-maybe (perhaps) - bil si  
+maybe (perhaps) - bil e  
 Mayotte - Mayote  
 mean (cruel) - zalim  
 mean (intend) - fa nia  
@@ -3422,7 +3420,7 @@ remove (delete, dispose, erase) - depoze
 remove (take away) - fa for  
 renew (make new, renovate) - fa neu  
 rent (charter, lease) - kira kape  
-rent out (let, lease) - kira da  
+rent out (let, lease) - kira don  
 repair (fix) - xuli  
 repair (fix, mend) - fa xuli  
 repairer - xuli ja  
@@ -3450,7 +3448,7 @@ rest (remainder) - reste
 restaurant - restoran  
 retain (hold back) - retene  
 return (get back) - be retro  
-return (give back) - reda  
+return (give back) - redon  
 return (put back) - fa retro  
 return (restore, recover, resume) - fuka  
 return (way back) - retro dau  
@@ -3569,10 +3567,10 @@ sailor (seaman, mariner) - hai vala
 Saint Helena - Sante Helena  
 Saint John's Day - Yohan festa  
 Saint Kitts - Sante Kitse  
-Saint Kitts and Nevis - Sante Kitse e Nevis  
+Saint Kitts and Nevis - Sante Kitse i Nevis  
 Saint Lucia - Sante Lucia  
 Saint Vincent - Sante Vincente  
-Saint Vincent and Grenadines - Sante Vincente e Grenadin  
+Saint Vincent and Grenadines - Sante Vincente i Grenadin  
 salad - salade  
 salmon (trout) - salmon  
 salt - yem  
@@ -3586,7 +3584,7 @@ sandcastle - sablu burge
 sandstone - sablu petra  
 sandwich - sanduice  
 Sao Paulo - Sante Paulo  
-Sao Tome and Principe - Sante Tome e Principe  
+Sao Tome and Principe - Sante Tome i Principe  
 sapling - jun moka  
 sapling - you moke  
 Satanism (devil worship) - xatan din  
@@ -3835,7 +3833,7 @@ souteneur (pimp) - sutener
 south - sude  
 South Africa - Sude Afrika  
 South America - Sude Amerika  
-South Georgia and the South Sandwich Islands - Sude Jorjia e Sude Sanduice nesi  
+South Georgia and the South Sandwich Islands - Sude Jorjia i Sude Sanduice nesi  
 South Korea (Republic of Korea) - Sude cosen  
 South Ossetia (Alania) - Sude Iria (Alonia)  
 South Sudan - Sude Sudan  
@@ -4111,7 +4109,7 @@ that over there - vo
 the (that) - la  
 the Grenadines - Grenadin nesi  
 theft - cori  
-their - yamen su  
+their - damen su  
 theism - deu din  
 theist - deu din ja  
 theocracy - deu krati  
@@ -4120,7 +4118,7 @@ theory - teori
 theosophy - deu sofi  
 there - a vo  
 thermometer - termo metre gi  
-they - yamen  
+they - damen  
 thick - gros  
 thickness - grosta  
 thief - cori ja  
@@ -4128,7 +4126,7 @@ thing - xe
 think (ponder, reflect) - fa fikir  
 third (3rd) - trime  
 thirst - sui yau  
-this - yi  
+this - ye  
 thistle - kardon  
 thorium - tor yum  
 thorn tree (acacia, wattle) - babul  
@@ -4240,7 +4238,7 @@ trichotomy - tritomi
 trick (cheat, deceive) - fa truke  
 trick (ruse, fraud) - truke  
 trident - tri pike  
-Trinidad and Tobago - Trinidade e Tobago  
+Trinidad and Tobago - Trinidade i Tobago  
 triple (threefold) - tripli  
 Triton - Triton  
 tropical - garma zona di  
@@ -4319,7 +4317,7 @@ unplug (uncork) - antapa
 unrest - anpase  
 until (til, up to) - hata  
 upgrade (level up) - bon gradu  
-upload - nete da  
+upload - nete don  
 upper - supra di  
 uranium - uran yum  
 Uranus - Uran  
@@ -4413,7 +4411,7 @@ Wales (Cambria) - Kamri
 walk (march) - fa marce  
 walk (march) - marce  
 wall (structure for delimitation) - mur  
-Wallis and Futuna Islands - Valis e Futuna nesi  
+Wallis and Futuna Islands - Valis i Futuna nesi  
 wallpaper - mur kaguji  
 waltz - valse  
 want (desire, wish) - vol  
@@ -4446,7 +4444,7 @@ wax seal - mum cape
 way (manner, means, method, mode, procedure, rite) - riti  
 way (manner, mode) - mode  
 way (road) - dau  
-we (exlusive we) - yamimen  
+we (exlusive we) - damimen  
 we (inclusive we) - tumimen  
 we - mimen  
 weak (feeble) - anbala  
@@ -4561,7 +4559,7 @@ yeast - hamir
 yellow - huang  
 yellow starthistle - sol kentaur hua  
 Yemen - Yemen  
-yes - ye  
+yes - ya  
 yesterday - cen den  
 yoga - yoga  
 yogi - yoga ja  

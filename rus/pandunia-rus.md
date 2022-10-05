@@ -7,7 +7,7 @@ a lin - онлайн
 a poli mar - часто  
 a pos - после  
 a vo - там  
-a yi - здесь (тут)  
+a ye - здесь (тут)  
 abies - пихта  
 acar di - марино́ванный  
 aci - чихать  
@@ -19,7 +19,6 @@ adilta - справедливость
 adres - адрес  
 Afghan - Афганистан  
 agile - подвижный  
-agresi - нападение (атака, агрессия)  
 agri - выращивать  
 agri bio logi - агробиология  
 agri di - аграрный  
@@ -211,7 +210,7 @@ bete - свёкла
 betula - берёза  
 bibre - бобр  
 bil - возможный  
-bil si - может быть  
+bil e - может быть  
 bilor - кристалл  
 bina - строение  
 bina plan - архитектура  
@@ -316,9 +315,9 @@ culi - процесс
 
 ## D  
 
-da - дать  
-databi - щедрый  
-daxeceke - подарочный сертификат  
+da - он или она  
+damen - они  
+damen su - их  
 dai dom - дворец (особняк)  
 dai hai - океан  
 dai lasun - лук исполинский  
@@ -391,6 +390,9 @@ dom dexa - родина (отечество)
 dom di - домашний  
 dom zeze - муха  
 Dominika Vakil krati - Доминиканская Республика  
+don - дать  
+don tabi - щедрый  
+don xe ceke - подарочный сертификат  
 dong - восток (ост)  
 dong gorila - восточная горилла  
 dosil - кроткий  
@@ -417,6 +419,7 @@ dux - душ
 
 ## E  
 
+e - быть  
 einstein yum - эйнштейний  
 eko gene di - дикий  
 ekore - белка  
@@ -1567,7 +1570,6 @@ serve gi - сервер
 serve ja - слуга  
 sesam - сезам  
 sexe logi - сексология  
-si - быть  
 sian - циан  
 siborge yum - сиборгий  
 side loka - сиденье (седло)  
@@ -1860,9 +1862,7 @@ xux di - тихий
 
 ## Y  
 
-ya - он или она  
-yamen - они  
-yamen su - их  
+ya - да  
 Yahve - Яхве (Иегова)  
 yam fito - овощ  
 yam liste - меню  
@@ -1871,7 +1871,7 @@ yasen - ясень
 yatim dom - детский дом  
 yau di - нужный  
 yauta - нужда  
-ye - да  
+ye - этот  
 yeka kanon - Книга Перемен  
 yem - соль  
 Yemen - Йемен  
@@ -1881,7 +1881,6 @@ yen sui gas - слезоточи́вый газ
 yepa - лист  
 Yesa - Иисус  
 Yesa Mesi - Иисус Христос  
-yi - этот  
 yoga - йога  
 yogo - ярмо (иго)  
 yogur - йогурт  

@@ -25,7 +25,7 @@ a vai -
 a vakil de -   
 a vo - tu (tutaj, tam)  
 a xukur de -   
-a yi -   
+a ye -   
 abies - jodła  
 acar - marynować  
 acar di - kiszony (marynowany)  
@@ -43,7 +43,6 @@ adres zi - małpa (znak na
 Afghan - Afganistan  
 Afrika - Afryka  
 agile - zwinny, sprawny  
-agresi - atak (agresja, napaść)  
 agri - uprawić, uprawiać  
 agri bio logi -   
 agri deha -   
@@ -143,7 +142,7 @@ Antartika - Antarktyka
 Antartika Hai - Ocean Antarktyczny (Ocean Południowy)  
 antena - antena  
 Antigua - Antigua  
-Antigua e Barbuda - Antigua i Barbuda  
+Antigua i Barbuda - Antigua i Barbuda  
 antra -   
 anus - odbyt  
 anus di - analny, odbytni  
@@ -463,8 +462,8 @@ Biblia di -
 bibre - bóbr  
 bici -   
 bil - móc, umieć, możliwy, prawdopodobnie  
+bil e - może  
 bil ja -   
-bil si - może  
 bilta -   
 bilor - kryształ  
 bina - budynek (struktura)  
@@ -526,7 +525,7 @@ bor yum - bohr
 bori - nuda (znudzenie)  
 bori di - znudzony  
 boron - bor  
-Bosna e Hercegovina - Bośnia i Harcegowina  
+Bosna i Hercegovina - Bośnia i Harcegowina  
 Bote - Tybet  
 botel - butelka  
 botel tapa -   
@@ -688,11 +687,11 @@ cuti mun - drzwi wyjściowe
 
 ## D  
 
-da - dać, dawać  
-• reda -   
-databi -   
-daxe - podarunek, dar, prezent  
-daxeceke -   
+da - on, ona, ono  
+damen - oni  
+damen su -   
+damimen -   
+da su -   
 dai - duży  
 dai anjil ja - ambasador  
 dai anjilkan - ambasada  
@@ -850,6 +849,11 @@ dom zeze - mucha
 Dominika - Dominika (Wspólnota Dominiki)  
 Dominika Vakil krati - Republika Dominikańska (Dominikana)  
 domino geme - domino  
+don - dać, dawać  
+• redon -   
+don tabi -   
+don xe - podarunek, dar, prezent  
+don xe ceke -   
 dong - wschód  
 dong di - wschodni  
 dong gorila - goryl wschodni  
@@ -929,7 +933,8 @@ dux - prysznic
 
 ## E  
 
-e - i, oraz  
+e - być  
+eja -   
 eglisa - kościół  
 einstein yum - einstein  
 Eire - Irlandia  
@@ -1012,7 +1017,6 @@ exa -
 
 fa - zrobić (stworzyć, wykreować)  
 fa acar - kisić (marynować)  
-fa agresi -   
 fa ajabu - zachwycać (zachwycić, zdumiewać, zdumieć, zadziwiać, zadziwić)  
 fa alo rai - nie zgadzać się  
 fa amen -   
@@ -1330,8 +1334,8 @@ fei muxu - nietoperz
 fem sim - feminizm  
 fem sim ja - feminista (feministka)  
 fen - część, ułamek  
-fen da - wnieć wkład (przyczynić się)  
 fen di -   
+fen don - wnieć wkład (przyczynić się)  
 fen gata - analiza  
 fenil -   
 fenol -   
@@ -1884,6 +1888,7 @@ huxi - miły, przyjemny, uroczy
 
 ## I  
 
+i - i, oraz  
 ibri - hebrajski  
 ici - wola, chęć  
 • anicija - niechętny  
@@ -1989,7 +1994,7 @@ jaze - jazz, dżez
 jebra - algebra  
 jebu - kieszeń  
 jeka - pożyczyć  
-jeka da - pożyczać komuś (pożyczyć komuś)  
+jeka don - pożyczać komuś (pożyczyć komuś)  
 jeka loga - zapożyczenie (wyraz obcy)  
 jeka na - pożyczać (pożyczyć)  
 jela - więzienie, kara więzienia, kara pozbawienia wolności  
@@ -2270,7 +2275,7 @@ kio - most
 kioske - kiosk  
 Kipris - Cypr  
 kira - wynająć, wynajmować, zatrudnić, zatrudniać  
-kira da - wynająć, oddać w najem  
+kira don - wynająć, oddać w najem  
 kira kape - wynająć, oddać w najem  
 kirate - karat  
 Kirgize - Kirgistan  
@@ -3038,7 +3043,7 @@ nerve toxi -
 nesi - wyspa  
 nesia - archipelag  
 nete - sieć  
-nete da - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
+nete don - wysyłać (wysłać, wgrywać, wgrać, wrzucać, wrucić)  
 nete gete - ściągać (ściągnąć, pobrać, pobierać)  
 nete loka - witryna internetowa (portal internetowy)  
 neu - nowość  
@@ -3718,13 +3723,13 @@ sante - święty
 Sante Helena - Święta Helena  
 sante kanon -   
 Sante Kitse - Saint Kitts  
-Sante Kitse e Nevis - Saint Kitts i Nevis  
+Sante Kitse i Nevis - Saint Kitts i Nevis  
 Sante Lucia - Saint Lucia  
 Sante Marino - San Marino  
 Sante Paulo - São Paulo  
-Sante Tome e Principe - Wyspy Świętego Tomasza i Książęca  
+Sante Tome i Principe - Wyspy Świętego Tomasza i Książęca  
 Sante Vincente - Saint Vincent  
-Sante Vincente e Grenadin - Saint Vincent and Grenadines  
+Sante Vincente i Grenadin - Saint Vincent and Grenadines  
 sanzi - wiatrak (wentylator)  
 sapatu - but  
 sapatu ja - szewc  
@@ -3736,9 +3741,9 @@ sar kexa - włosy
 sar kexa hin -   
 sar oste - czaszka  
 sata - moment  
-sata da - dedykować (poświęcać, poświęcić)  
-sata data - dedykacja (poświęcenie)  
 sata di - chwilowy  
+sata don - dedykować (poświęcać, poświęcić)  
+sata don ta - dedykacja (poświęcenie)  
 Saturne - Saturn  
 Saudi Arabi - Arabia Saudyjska  
 sauna - sauna  
@@ -3805,8 +3810,6 @@ sexe - seks, stosunek płciowy
 sexe di - seksowny, ponętny  
 sexe logi - seksuologia  
 Sexel nesi - Seszele  
-si - być  
-sija -   
 sian - niebieskozielony (cyjan)  
 Sibiria - Syberia  
 siborge yum - seaborg  
@@ -3917,7 +3920,7 @@ Sude Amerika - Ameryka Południowa
 Sude cosen - Korea Południowa  
 sude di - południowy  
 Sude Iria (Alonia) - Osetia Południowa  
-Sude Jorjia e Sude Sanduice nesi - Wyspy Georgia Południowa i Sandwich Południowy  
+Sude Jorjia i Sude Sanduice nesi - Wyspy Georgia Południowa i Sandwich Południowy  
 Sude Sudan - Sudan Południowy  
 sueda - pot  
 sueda di - spocony  
@@ -4148,7 +4151,7 @@ trime -
 tri pike - trójząb  
 tripli -   
 tribu - plemię  
-Trinidade e Tobago - Trynidad i Tobago  
+Trinidade i Tobago - Trynidad i Tobago  
 Triton -   
 truke - sztuczka (podstęp, oszustwo)  
 tu - ty, ciebie  
@@ -4264,7 +4267,7 @@ vakil krati - republika
 vala -   
 vali - dolina  
 vali susan - konwalia majowa  
-Valis e Futuna nesi - Saint Vincent i Grenadyny  
+Valis i Futuna nesi - Saint Vincent i Grenadyny  
 valse - walc  
 valu - wartość  
 vampir - wampir  
@@ -4478,11 +4481,7 @@ xux di - cichy
 
 ## Y  
 
-ya - on, ona, ono  
-yamen - oni  
-yamen su -   
-yamimen -   
-ya su -   
+ya - tak  
 Yahve -   
 yake - jak (zwierzę)  
 yaki - około; przybliżony  
@@ -4503,7 +4502,7 @@ yau -
 • anyau di - niepotrzebny  
 yau di - potrzebny  
 yauta - potrzeba  
-ye - tak  
+ye - ten  
 yehudi - żydowski  
 yehudi din - judaizm  
 yei - jej  
@@ -4524,7 +4523,6 @@ yepa late - strona
 Yesa - Jezus  
 Yesa Mesi - Jezus Chrystus  
 yezi - kokos  
-yi - ten  
 yo - jakiś  
 yo jen - ktoś  
 yo sata - sometime  

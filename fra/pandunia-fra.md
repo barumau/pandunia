@@ -10,7 +10,7 @@ a pos - ensuite (après, plus tard, ir a, en el futuro)
 a re - en arrière  
 a vo - là (y)  
 a xukur de - grâce à  
-a yi - ici  
+a ye - ici  
 abies - sapin  
 acar di - décapé (mariné)  
 acar hiyar - concombre confit (cornichon)  
@@ -26,7 +26,6 @@ adres zi - arobase (@)
 Afghan - Afghanistan  
 Afrika - Afrique  
 agile - agile  
-agresi - agression (attaque)  
 agri - cultiver  
 agri bio logi - agrobiologie  
 agri di - agricole  
@@ -110,7 +109,7 @@ Antartika - Antarctique
 Antartika Hai - Océan Antarctique  
 antena - antenne  
 Antigua - Antigua  
-Antigua e Barbuda - Antigua-et-Barbuda  
+Antigua i Barbuda - Antigua-et-Barbuda  
 antra - intestin (entrailles, ventre, boyau)  
 anus - anus  
 anus di - anal  
@@ -300,7 +299,7 @@ bete - betterave
 betula - bouleau  
 bici - fouet  
 bil - pouvoir (possible, capacité)  
-bil si - peut-être  
+bil e - peut-être  
 bilta - capacité (pouvoir, habileté)  
 bilor - cristal  
 bina - bâtiment  
@@ -399,9 +398,9 @@ cunbil - option
 
 ## D  
 
-da - donner  
-databi - généreux  
-daxeceke - chèque cadeau  
+da - il ou elle  
+damen - ils ou elles  
+damen su - leur  
 dai dom - palais (château, manoir)  
 dai hai - océan  
 dai pau - canon  
@@ -468,6 +467,9 @@ dom - maison (foyer, domicile)
 dom dexa - patrie  
 dom di - domestique  
 dom zeze - mouche  
+don - donner  
+don tabi - généreux  
+don xe ceke - chèque cadeau  
 dong - east (orient)  
 dosil - docile (insipide)  
 dosil gene di - domestiqué (apprivoisé)  
@@ -492,7 +494,7 @@ dux - douche
 
 ## E  
 
-e - et  
+e - être  
 einstein yum - einsteinium  
 Eire - Irland  
 eko gene di - sauvage  
@@ -526,7 +528,6 @@ europa yum - europium
 ## F  
 
 fa - faire  
-fa agresi - attaquer (agresser)  
 fa ajabu - éblouir (étonner, stupéfier, surprendre)  
 fa alo rai - diverger (ne pas être d'accord)  
 fa an galte - déboguer (débugger)  
@@ -858,6 +859,7 @@ huru - libre
 
 ## I  
 
+i - et  
 iha uma - mule  
 in bum - implosion  
 in klus - y compris  
@@ -895,7 +897,7 @@ javabu - réponse
 Jayer - Algérie  
 jebu - poche  
 jeka - prêter (empruntre)  
-jeka da - prêter  
+jeka don - prêter  
 jeka na - empruntre  
 jelakan - prison (geôle)  
 jen - personne  
@@ -1697,7 +1699,6 @@ seri - série
 serime - maillon (chaînon)  
 • ansexe di - asexué  
 sexe logi - sexologie  
-si - être  
 siborge yum - seaborgium  
 sifa loga - adjectif  
 sigar - cigarette  
@@ -1983,9 +1984,7 @@ xuru - début (commencement)
 
 ## Y  
 
-ya - il ou elle  
-yamen - ils ou elles  
-yamen su - leur  
+ya - oui  
 Yahve - Yahweh (Jéhovah)  
 yam fito - légume  
 yam liste - menu (carte)  
@@ -1995,7 +1994,7 @@ yatim dom - orphelinat
 • anyau di - inutile  
 yau di - nécessaire  
 yauta - besoin  
-ye - oui  
+ye - ce...ci  
 yeka kanon - Yi King  
 yem - sel  
 yen - œil  
@@ -2006,7 +2005,6 @@ yepa alga - varech
 yepa late - page  
 Yesa - Jésus  
 Yesa Mesi - Jésus-Christ  
-yi - ce...ci  
 yogo - joug  
 yogur - yaourt (yogourt)  
 you - infantile (immature)  

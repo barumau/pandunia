@@ -20,7 +20,7 @@ a vai - ekster
 a vakil de - anstataŭ  
 a vo - tie  
 a xukur de - dank’al  
-a yi - ĉi tie  
+a ye - ĉi tie  
 abies - abio  
 aci - terni  
 acini yum - aktinio  
@@ -32,7 +32,6 @@ adres - adreso
 Afghan - Afganujo, Afganio  
 Afrika - Afriko  
 agile - lerta  
-agresi - atako (agreso)  
 agri di - agrikultura  
 agri nomi - agronomio  
 agri suta - agrikulturo  
@@ -250,8 +249,8 @@ Biblia di - biblia
 bibre - kastoro  
 bici - vipo  
 bil - ebla (povi)  
+bil e - eble  
 bil ja - kapabla  
-bil si - eble  
 bina plan - arĥitekturo  
 bina plan ja - arĥitekto  
 bindu - punkto  
@@ -365,9 +364,11 @@ cuti mun - elirejo
 
 ## D  
 
-da - doni  
-databi - malavara  
-daxe - donaco  
+da - li aŭ ŝi aŭ ĝi  
+damen - ili  
+damen su - ilia  
+damimen - ni sen ne vi  
+da su - lia aŭ ŝia aŭ ĝia  
 dai - granda  
 dai anjil ja - ambasadoro  
 dai anjilkan - ambasado  
@@ -452,6 +453,9 @@ dom - hejmo (loĝejo)
 dom dexa - patrio  
 dom di - hejma  
 dom zeze - muŝo  
+don - doni  
+don tabi - malavara  
+don xe - donaco  
 dong - oriento  
 dosti - amiko  
 • andosti - malamiko  
@@ -484,7 +488,7 @@ dux - duŝo
 
 ## E  
 
-e - kaj  
+e - esti  
 eglisa - preĝejo  
 einstein yum - ejnŝtejnio  
 eko - naturo  
@@ -913,6 +917,7 @@ huxi - agrabla
 
 ## I  
 
+i - kaj  
 ibri - Hebrea  
 ici - volo  
 idea - ideo  
@@ -1743,7 +1748,6 @@ serime - ĉenero
 seri seri - ĉeno  
 serpe - serpento  
 sexe - sekso  
-si - esti  
 siborge yum - seborgio  
 sifa loga - adjektivo  
 sigar - cigaredo  
@@ -2034,11 +2038,7 @@ xux di - silenta
 
 ## Y  
 
-ya - li aŭ ŝi aŭ ĝi  
-yamen - ili  
-yamen su - ilia  
-yamimen - ni sen ne vi  
-ya su - lia aŭ ŝia aŭ ĝia  
+ya - jes  
 Yahve - Javeo (Jehovo)  
 yam - manĝi (trinki)  
 yam fito - legomo  
@@ -2047,7 +2047,7 @@ yam yau - malsato
 yang - speco (tipo, stilo)  
 yau - bezoni  
 yauta - bezono  
-ye - jes  
+ye - ĉi tiu  
 yeka kanon - Libro de ŝanĝiĝoj (I Ĉing)  
 yem - salo  
 yem di - sala  
@@ -2059,7 +2059,6 @@ yepa late - paĝo
 Yesa - Jesuo  
 Yesa Mesi - Jesuo Kristo  
 yezi - kokoso  
-yi - ĉi tiu  
 yo - iu  
 yo jen - iu persono  
 yo sata - iam  

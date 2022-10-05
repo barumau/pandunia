@@ -8,25 +8,25 @@ not by changing the form of verbs as in English and other languages.
 
 Person and number are indicated by the subject.
 For example, the verb
-**si**
+**e**
 ('to be') has the same form in all persons.
 
-**_mi_ si dosti.**
+**_mi_ e dosti.**
 – I am a friend.  
-**_tu_ si dosti.**
+**_tu_ e dosti.**
 – You are a friend.  
-**_ya_ si dosti.**
+**_ya_ e dosti.**
 – He or she is a friend.  
-**_mimen_ si dosti.**
+**_mimen_ e dosti.**
 – We are friends.  
-**_tumen_ si dosti.**
+**_tumen_ e dosti.**
 – You are friends.  
-**_yamen_ si dosti.**
+**_damen_ e dosti.**
 – They are friends.
 
 Also a noun can serve as subject.
 
-**mau si hevan.**
+**mau e hevan.**
 – The cat is an animal.
 
 Frequently there is a marker between the subject and the verb
@@ -35,12 +35,12 @@ It is particularly helpful when the subject and the verb are content words
 that could serve as both.
 The marker is typically a particle or an auxiliary verb.
 One of the many suitable markers is
-**ye**
+**ya**
 ('yes'),
 which adds no content to the sentence
 but helps to clarify its structure.
 
-**karote si uma yam.**
+**karote e uma yam.**
 – Carrot is horse food.  
 **uma _ye_ yam karote.**
 – The horse eats carrots.
@@ -59,7 +59,7 @@ indicates beginning of an action or transition to a new situation.
 
 **mi xuru fuke la kote.**
 – I start wearing the coat. = I put the coat on.  
-**kaguji ye xuru hoge.**
+**kaguji ya xuru hoge.**
 – Paper starts to burn.  
 **tu xuru yam.**
 – You start to eat.
@@ -68,9 +68,9 @@ indicates beginning of an action or transition to a new situation.
 ('end, cease, quit, stop')
 conveys the idea of "to stop doing something".
 
-**yamen fin haha.**
+**damen fin haha.**
 – They stopped laughing.  
-**kaguji ye fin hoge.**
+**kaguji ya fin hoge.**
 – Paper ceased to burn.  
 **tu fin yam.**
 – You stop eating.
@@ -120,15 +120,15 @@ indicates that an action has happened in the past and is still ongoing, or is re
 It is best translated by *already* or *(not) yet*.
 You can think of it somewhat like the present perfect in English (_I have done_, _I have eaten_).
 
-**ya _le_ si guru.**
+**da _le_ e guru.**
 – He or she is already a teacher.  
 **mi no _le_ gul yo alkohol.**
 – I haven't drunk alcohol yet.  
 **mi _le_ no gul yo alkohol.**
 – I am already not drinking alcohol.  
-**mi _le_ da la buku to yamen.**
+**mi _le_ don la buku to damen.**
 – I have given the book to them. Or: I already gave the book to them.  
-**yamen no _le_ ridone ya to mi.**
+**damen no _le_ ridon da to mi.**
 – They haven't given it back to me. Or: They didn't give it back to me yet.  
 **mi _le_ lai to site.**
 – I have come to the city. Or: I already came to the city.
@@ -138,7 +138,7 @@ You can think of it somewhat like the present perfect in English (_I have done_,
 indicates that an action is finished and is no longer relevant to the current situation.
 You can think of it somewhat like the past simple in English (I finished, I ate).
 
-**mi pas da la buku to yamen.**
+**mi pas don la buku to damen.**
 – I gave the book to them. (Maybe they don't have it anymore or they gave it back.)  
 **mi pas vizite Franse.**
 – I have visited France.  
@@ -151,7 +151,7 @@ You can think of it somewhat like the past simple in English (I finished, I ate)
 ('will, shall')
 indicates that the event will take place later or in the future.
 
-**ya _xa_ si guru.**
+**da _xa_ e guru.**
 – He or she shall be a teacher.  
 **mi no _xa_ gul un bir.**
 – I will not drink a beer.
@@ -235,12 +235,12 @@ They always take an object.
 **vise**
 – instead of
 
-**ya ga in la dome.**
+**sa ga in la dome.**
 – He/she went into the house.  
-**ya ga ex la dome.**
+**sa ga ex la dome.**
 – He/she went out of the house.  
-**ya lai re la dome.**
+**sa lai re la dome.**
 – He/she came back to the house.  
-**ya loga kon la xefe.**
+**da loga kon la xefe.**
 – He/she speaks with the boss.
 

@@ -89,7 +89,7 @@ aperfeiçoar - fa pul bon
 apodrecer-se - be pute  
 aprender - fa xula  
 apropriado (apto) - hapu  
-aqui - a yi  
+aqui - a ye  
 ar - air  
 arame - metal lin  
 aranha - arane  
@@ -133,7 +133,6 @@ astronauta - astro nave ja
 astronave - astro nave  
 astronomia - astro nomi  
 astrónomo - astro nomi ja  
-ataque - agresi  
 Atenas - Athina  
 aterro (lixão) - lasa stan  
 ativo - ativi  
@@ -468,7 +467,7 @@ damas - dama geme
 damasco (abricó, ameixa) - briko  
 dano (avaria) - avar  
 danês - Danske  
-dar - da  
+dar - don  
 darmstádio - darmestadi yum  
 de - de  
 dedo - angul  
@@ -535,7 +534,7 @@ dúvida - xaki
 
 ## E  
 
-e - e  
+e - i  
 economia - mal nomi  
 educação - xula  
 efeito - asar  
@@ -544,10 +543,10 @@ efeito colateral - parafete
 efetuar - fa asar  
 Egipto (Egito) - Misri  
 einstânio - einstein yum  
-ele ou ela - ya  
+ele ou ela - da  
 elemento - so  
 elemento químico - kimi so  
-eles ou elas - yamen  
+eles ou elas - damen  
 eletricidade - eletro  
 elfo - elfe  
 elo - serime  
@@ -558,7 +557,7 @@ emitir - exmiti
 emoticon (emoji) - gamo zi  
 emoçao - gamo  
 emprestar (pedir emprestado) - jeka  
-emprestar - jeka da  
+emprestar - jeka don  
 encarar (afrontar; vérsus) - versi  
 encontrar - ajami  
 endereço - adres  
@@ -611,7 +610,7 @@ estanho - estan
 estar deitado (jazer) - be kux  
 estação (sazão) - mosim  
 este (leste) - dong  
-este - yi  
+este - ye  
 estirar - long tire  
 estrado - tai  
 estrela - sing  
@@ -729,7 +728,7 @@ gelar - be ais
 genealogia - gene logu  
 generalíssimo - ordu raja  
 generosidade - karim  
-generoso (dadivoso, mão-aberta) - databi  
+generoso (dadivoso, mão-aberta) - don tabi  
 genético - gene logi di  
 genótipo - gene tipe  
 geografia - geo grafi  
@@ -1509,7 +1508,7 @@ semântica - semi logi
 senador - supra vakil ja  
 sentido - sense  
 sepultura (túmulo, enterrar) - gabur  
-ser (estar) - si  
+ser (estar) - e  
 ser humano - insan  
 serra - sera  
 sete (7) - ceti  
@@ -1520,7 +1519,7 @@ significar (querer dizer) - semi
 silencioso - tix  
 silêncio - tixta  
 silício - silike  
-sim - ye  
+sim - ya  
 simetria - sam metre  
 simulação - sam sifa xe  
 sino (campainha) - dang gi  
@@ -1558,7 +1557,7 @@ sódio - natri
 ## T  
 
 tablet - table komputa  
-talvez - bil si  
+talvez - bil e  
 tangerina (mandarim) - rubi oranje  
 tapioca - manioka fufu  
 tartaruga - tortuga  

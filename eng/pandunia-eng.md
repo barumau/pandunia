@@ -14,24 +14,24 @@ When the Pandunia word can be translated in more than one way,
 the most common translation is first
 and it is followed by more specific translations inside parenthesis.
 
-> **cire** - tear (rip, split)
+> **cira** - tear (rip, split)
 
 If there is more than one meaning,
 they are separated by the semicolon.
 
-> **ching** - ask (request, beg, plead; please)
+> **cing** - ask (request, beg, plead; please)
 
 Sometimes there are two entries of the same word.
 
-> **hure** - free (unbound)  
-> **fa hure** - free (liberate)
+> **huru** - free (unbound)  
+> **fa huru** - free (liberate)
 
 The entry with **fa** is there only for including the verbal translation in English.
 Pandunia words are multipurpose words that can be used as verbs, adjectives, nouns and adverbs.
 Therefore it is normally enough to use only the main word of the dictionary entry in sentence contexts
 and the auxiliary verb **fa** can be left out.
-For example, **mi hure yamen** is the proper way to say 'I free them' or 'I liberate them'.
-The sentence **mi fa hure yamen** would mean the same thing but it would include the superfluous word **fa**.
+For example, **mi huru damen** is the proper way to say 'I free them' or 'I liberate them'.
+The sentence **mi fa huru damen** would mean the same thing but it would include the superfluous word **fa**.
 
 ---
 
@@ -61,7 +61,7 @@ a vai - outside
 a vakil de - on behalf of  
 a vo - there  
 a xukur de - thanks to  
-a yi - here  
+a ye - here  
 abies - fir tree  
 acar - pickle  
 acar di - pickled  
@@ -79,7 +79,6 @@ adres zi - @ symbol
 Afghan - Afghanistan  
 Afrika - Africa  
 agile - agile  
-agresi - attack (assault, aggression, hostility)  
 agri - cultivate (farm)  
 agri bio logi - agrobiology  
 agri deha - rural village  
@@ -178,7 +177,7 @@ Antartika - Antarctica
 Antartika Hai - Antarctic Ocean  
 antena - antenna (aerial)  
 Antigua - Antigua  
-Antigua e Barbuda - Antigua and Barbuda  
+Antigua i Barbuda - Antigua and Barbuda  
 antra - intestines (entrails, guts, bowels, viscera)  
 anus - anus  
 anus di - anal  
@@ -498,8 +497,8 @@ Biblia di - Biblical
 bibre - beaver  
 bici - whip  
 bil - possible (able, can)  
+bil e - maybe (perhaps)  
 bil ja - capable (talent, skillful)  
-bil si - maybe (perhaps)  
 bilta - ability  
 bilor - crystal  
 bina - building (structure)  
@@ -561,7 +560,7 @@ bor yum - bohrium
 bori - boredom  
 bori di - bored  
 boron - boron  
-Bosna e Hercegovina - Bosnia and Herzegovina  
+Bosna i Hercegovina - Bosnia and Herzegovina  
 Bote - Tibet  
 botel - bottle  
 botel tapa - bottle cap  
@@ -723,11 +722,11 @@ cuti mun - exit door
 
 ## D  
 
-da - give  
-• reda - return (give back)  
-databi - generous (open-handed)  
-daxe - gift  
-daxeceke - gift certificate (gift card)  
+da - he or she or it  
+damen - they  
+damen su - their  
+damimen - we (exlusive we)  
+da su - his or her  
 dai - big (great, large)  
 dai anjil ja - ambassador  
 dai anjilkan - embassy  
@@ -885,6 +884,11 @@ dom zeze - housefly
 Dominika - Dominica  
 Dominika Vakil krati - Dominican Republic  
 domino geme - dominoes  
+don - give  
+• redon - return (give back)  
+don tabi - generous (open-handed)  
+don xe - gift  
+don xe ceke - gift certificate (gift card)  
 dong - east (orient)  
 dong di - eastern  
 dong gorila - eastern gorilla  
@@ -964,7 +968,8 @@ dux - shower
 
 ## E  
 
-e - and  
+e - be  
+eja - being (entity)  
 eglisa - church  
 einstein yum - einsteinium  
 Eire - Ireland  
@@ -1047,7 +1052,6 @@ exa - exa-
 
 fa - do  
 fa acar - pickle (preserve in vinegar or brine)  
-fa agresi - attack (assault)  
 fa ajabu - amaze  
 fa alo rai - disagree  
 fa amen - assure (affirm, confirm)  
@@ -1365,8 +1369,8 @@ fei muxu - bat (flying mammal)
 fem sim - feminism  
 fem sim ja - feminist  
 fen - part (component, segment, fraction, distinct element of something larger)  
-fen da - contribute  
 fen di - partial  
+fen don - contribute  
 fen gata - analysis (dissection)  
 fenil - phenyl  
 fenol - phenol  
@@ -1919,6 +1923,7 @@ huxi - nice (pleasant, comfortable, cushy)
 
 ## I  
 
+i - and  
 ibri - Hebrew  
 ici - will (volition, desire)  
 • anicija - reluctant  
@@ -2024,7 +2029,7 @@ jaze - jazz
 jebra - algebra  
 jebu - pocket  
 jeka - borrow (lend)  
-jeka da - lend  
+jeka don - lend  
 jeka loga - loanword  
 jeka na - borrow  
 jela - prison (imprisonment)  
@@ -2304,7 +2309,7 @@ kio - bridge
 kioske - kiosk (pavilion)  
 Kipris - Cyprus  
 kira - carat  
-kira da - rent out (let, lease)  
+kira don - rent out (let, lease)  
 kira kape - rent (charter, lease)  
 kirate - carat  
 Kirgize - Kyrgyzstan  
@@ -3073,7 +3078,7 @@ nerve toxi - neurotoxin
 nesi - island  
 nesia - archipelago (island chain)  
 nete - net (web, mesh)  
-nete da - upload  
+nete don - upload  
 nete gete - download  
 nete loka - website  
 neu - novelty (new product)  
@@ -3754,13 +3759,13 @@ sante - holy (sacred)
 Sante Helena - Saint Helena  
 sante kanon - holy writ (sacred writings)  
 Sante Kitse - Saint Kitts  
-Sante Kitse e Nevis - Saint Kitts and Nevis  
+Sante Kitse i Nevis - Saint Kitts and Nevis  
 Sante Lucia - Saint Lucia  
 Sante Marino - San Marino  
 Sante Paulo - Sao Paulo  
-Sante Tome e Principe - Sao Tome and Principe  
+Sante Tome i Principe - Sao Tome and Principe  
 Sante Vincente - Saint Vincent  
-Sante Vincente e Grenadin - Saint Vincent and Grenadines  
+Sante Vincente i Grenadin - Saint Vincent and Grenadines  
 sanzi - fan (ventilator)  
 sapatu - shoe  
 sapatu ja - shoemaker  
@@ -3772,9 +3777,9 @@ sar kexa - hair of the head
 sar kexa hin - bald-headed  
 sar oste - skull  
 sata - moment (instant)  
-sata da - dedicate (devote)  
-sata data - dedication (devotion)  
 sata di - momentary  
+sata don - dedicate (devote)  
+sata don ta - dedication (devotion)  
 Saturne - Saturn  
 Saudi Arabi - Saudi Arabia  
 sauna - sauna  
@@ -3841,8 +3846,6 @@ sexe - sex (sexual relation)
 sexe di - sexy (sexually arousing)  
 sexe logi - sexology  
 Sexel nesi - Seychelles  
-si - be  
-sija - being (entity)  
 sian - cyan  
 Sibiria - Siberia  
 siborge yum - seaborgium  
@@ -3953,7 +3956,7 @@ Sude Amerika - South America
 Sude cosen - South Korea (Republic of Korea)  
 sude di - southern  
 Sude Iria (Alonia) - South Ossetia (Alania)  
-Sude Jorjia e Sude Sanduice nesi - South Georgia and the South Sandwich Islands  
+Sude Jorjia i Sude Sanduice nesi - South Georgia and the South Sandwich Islands  
 Sude Sudan - South Sudan  
 sueda - sweat (perspiration)  
 sueda di - sweaty  
@@ -4185,7 +4188,7 @@ trime - third (3rd)
 tri pike - trident  
 tripli - triple (threefold)  
 tribu - tribe  
-Trinidade e Tobago - Trinidad and Tobago  
+Trinidade i Tobago - Trinidad and Tobago  
 Triton - Triton  
 truke - trick (ruse, fraud)  
 tu - you (singular)  
@@ -4301,7 +4304,7 @@ vakil krati - republic
 vala - practicioner (person in charge or employed in an area, -person, -man)  
 vali - valley  
 vali susan - lily of the valley  
-Valis e Futuna nesi - Wallis and Futuna Islands  
+Valis i Futuna nesi - Wallis and Futuna Islands  
 valse - waltz  
 valu - value (worth)  
 vampir - vampire  
@@ -4515,11 +4518,7 @@ xux di - silent
 
 ## Y  
 
-ya - he or she or it  
-yamen - they  
-yamen su - their  
-yamimen - we (exlusive we)  
-ya su - his or her  
+ya - yes  
 Yahve - Yahweh (Jehovah)  
 yake - yak  
 yaki - about (approximately, nearly, almost)  
@@ -4540,7 +4539,7 @@ yau - need (lack, require)
 • anyau di - unnecessary (extraneous, unneeded)  
 yau di - necessary (needed)  
 yauta - need (shortage, lack, requirement)  
-ye - yes  
+ye - this  
 yehudi - Jewish  
 yehudi din - Judaism  
 yei - yay! (yeah!)  
@@ -4561,7 +4560,6 @@ yepa late - page (side of a leaf of a book)
 Yesa - Jesus  
 Yesa Mesi - Jesus Christ  
 yezi - coconut tree  
-yi - this  
 yo - some (one)  
 yo jen - someone (somebody)  
 yo sata - sometime  

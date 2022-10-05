@@ -6,7 +6,7 @@ a kon - 一緒に
 a lin - オンライン  
 a poli mar - よく (屡々)  
 a vo - そこ (あそこ)  
-a yi - ここ  
+a ye - ここ  
 abies - モミ  
 acar - 漬物  
 acini yum - アクチニウム  
@@ -266,7 +266,6 @@ cun liste - 品書き (メニュー)
 
 ## D  
 
-da - あげる (くれる)  
 dai - 大きい  
 dai dom - 宮殿 (邸宅)  
 dai hai - 大洋 (大海)  
@@ -338,6 +337,7 @@ dolfin - イルカ (ドルフィン)
 dom - 家  
 dom dexa - 祖国  
 Dominika Vakil krati - ドミニカ共和国  
+don - あげる (くれる)  
 dong - 東  
 dong gorila - ヒガシゴリラ  
 donjon ventur - ダンジョンアドベンチャー  
@@ -717,7 +717,7 @@ jau - 大麦
 javabu - 答え (回答)  
 jebu - ポケット (懐中)  
 jeka - 借用  
-jeka da - 貸す  
+jeka don - 貸す  
 jeka na - 借りる  
 jelakan - 監獄  
 jen - 人 (者, 員, 徒)  
@@ -1687,6 +1687,7 @@ xux - しーっ
 
 ## Y  
 
+ya - はい  
 Yahve - ヤハウェ (エホバ)  
 yam - 食べる  
 yam liste - メニュー (献立)  
@@ -1698,7 +1699,7 @@ yau - 要る
 • anyau di - 不要  
 yau di - 必要  
 yauta - 必要  
-ye - はい  
+ye - この  
 yeka kanon - 易経  
 yem - 塩  
 yen - 目  
@@ -1707,7 +1708,6 @@ yepa - 葉
 yepa alga - コンブ  
 yepa late - ページ (面)  
 Yesa Mesi - イエス・キリスト  
-yi - この  
 yo - 何分の  
 yogo - 軛  
 yogur - ヨーグルト  

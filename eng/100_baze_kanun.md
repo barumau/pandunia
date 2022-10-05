@@ -17,11 +17,11 @@ They are described in more detail later in this document.
    If the word has three or more syllables, the second syllable is accented.
 4. **Pronouns:**
     - The personal pronouns are:
-     **mi** _I_, **tu** _you_ (sg.), **ya** _he or she_,
-     **mimen** _we_, **tumen** _you_ (pl.), **yamen** _they_.
+     **mi** _I_, **tu** _you_ (sg.), **da** _he or she_,
+     **mimen** _we_, **tumen** _you_ (pl.), **damen** _they_.
     - The possessive pronouns are:
-      **mi su** _my_, **tu su** _your_, **ya su** _his or her_,
-      **mimen su** _our_, **tumen su** _your_, **yamen su** _their_.
+      **mi su** _my_, **tu su** _your_, **da su** _his or her_,
+      **mimen su** _our_, **tumen su** _your_, **damen su** _their_.
      - The interrogative pronouns are: **ke** _what_ or _who_, **ke su** _whose_.
      - The impersonal pronoun is
        **men**

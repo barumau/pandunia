@@ -23,13 +23,13 @@ For example, the word **hali** can function equally as an adjective (_blank_ or 
 **tu mus hali vo lexi.**
 – You must blank out that word.
 
-Likewise, the word **kitabu** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
+Likewise, the word **kitaba** can function as a verb (_to write_), a noun (_a writing_) and adjective (_written_ or _textual_).
 
-**mi kitabu letre.**
+**mi kitaba letre.**
 – I write a letter.  
-**letre e kitabu misije.**
+**letre e kitaba misaje.**
 – A letter is a written message.  
-**mi ame tu su kitabu.**
+**mi ame tu su kitaba.**
 – I love your writings.
 
 
@@ -54,7 +54,7 @@ and other joined words are written as open compounds.
 
 ## Affixes
 
-Affixes, i.e. prefixes and suffixes, are very important and give great flexibility to the language.
+Affixes, i.i. prefixes and suffixes, are very important and give great flexibility to the language.
 They are joined to the base word.
 
 Two or more roots can be put together to make _compound words_.

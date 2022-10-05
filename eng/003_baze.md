@@ -46,23 +46,23 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 | _I, me_           | _we, us_     |
 | **tu**            | **tumen**    |
 | _you_             | _you all_    |
-| **ya**            | **yamen**    |
+| **da**            | **damen**    |
 | _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
 
-The particle **ye** 'yes' separates the subject and the verb.
+The particle **ya** 'yes' separates the subject and the verb.
 
-**mau ye yam.**
+**mau ya yam.**
 – The cat eats.  
-**jen ye some.**
+**jen ya sona.**
 – The person sleeps.
 
-If the subject is a personal pronoun, the **ye** is left out.
+If the subject is a personal pronoun, the **ya** is left out.
 
 **mi yam.**
 – I eat.  
-**tu some.**
+**tu sona.**
 – You sleep.
 
 The basic word order is subject–verb–object
@@ -82,7 +82,7 @@ When the direct object is a noun, it is marked apart from the verb by a demonstr
 
 To negate a word, add **no** before it.
 
-**mi no some.**
+**mi no sona.**
 – I don't sleep.  
 **tu yam no jen.**
 – You eat no-one.
@@ -108,12 +108,12 @@ It can't be left out when it is part of a serial verb.
 
 Pandunia words can be ambiguous because they often have more meanings compared to English.
 
-**ya ame mau.**
+**da ame mau.**
 – He loves cats. / She loved a cat. / He or she will love the cat.
 
 But actually the meaning is clear in the real context:
 
-**pre tri nen, mi ha du mau i un vaf. mi max ha un fem ben. ya ame mau!**
+**pre tri nen, mi ha du mau i un vaf. mi max ha un fem ben. da ame mau!**
 – Three years ago, I had two cats and a dog. I also had a daughter. _She loved the cats!_
 
 ### Time
@@ -161,7 +161,7 @@ The adverb can be tagged with **di**.
 
 **mi bon vide tu.**
 – I see you well.  
-**tu vide di ame ya.**
+**tu vide di ame da.**
 – You seemingly love him/her.
 
 Modifiers are compared with
@@ -191,9 +191,9 @@ To ask a content question, write a normal sentence and replace the word in quest
 – Who do you love?  
 **tu ame ke man?**
 – Which man do you love?  
-**ke man ye ame tu?**
+**ke man ya ame tu?**
 – Which man loves you?  
-**tu ame ya ke poli?**
+**tu ame da ke poli?**
 – How much do you love him?
 
 ### Commands

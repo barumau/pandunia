@@ -141,15 +141,15 @@ anis - anis
 ankkuri - angar  
 annos - doze  
 ansiosta - a xukur de  
-antaa - da  
+antaa - don  
 antaa anteeksi - fa maf  
 Antarktis - Antartika  
 anteeksi - maf  
 anteliaisuus (vieraanvaraisuus, hyväntekeväisyys) - karim  
-antelias (avokätinen) - databi  
+antelias (avokätinen) - don tabi  
 antenni - antena  
 Antigua - Antigua  
-Antigua ja Barbuda - Antigua e Barbuda  
+Antigua ja Barbuda - Antigua i Barbuda  
 antikristus - anmesi  
 antimoni - estibi yum  
 apinanleipäpuu (baobab) - buyu  
@@ -284,7 +284,7 @@ bokserit - boce pante
 Bolivia - Bolivia  
 bonus - bon max xe  
 boori - boron  
-Bosnia ja Hertsegovina - Bosna e Hercegovina  
+Bosnia ja Hertsegovina - Bosna i Hercegovina  
 Botswana - Cuana  
 Brahma - Brahma  
 Brasilia - Brazil  
@@ -380,7 +380,7 @@ edustaja (agentti) - vakil ja
 Egypti - Misri  
 egyptiläinen - misri di  
 ehdottaa (ehdotus) - propoze  
-ehkä (voi olla) - bil si  
+ehkä (voi olla) - bil e  
 ei - no  
 ei koskaan (ei kertaakaan) - siro sata  
 ei kukaan - siro jen  
@@ -655,11 +655,11 @@ hautakivi - gabur seku
 hautausmaa - gabur bagi  
 Havaiji - Havai  
 Havaijin saaret - Havai nesia  
-he - yamen  
+he - damen  
 hedelmä - frute  
 hedelmätarha - frute bagi  
 hei (haloo) - halo  
-heidän - yamen su  
+heidän - damen su  
 heijastaa (taittaa takaisin) - reflexi  
 heijastaa kuvia (projisoida) - fa lanse grafi  
 heijastaa kuvia (projisoida; projektio) - jete grafi  
@@ -817,10 +817,8 @@ hyvää ruokahalua! - salam yam
 hyvää yötä - sal noce  
 hyytelö - jele  
 hyödyllinen - faida di  
-hyökkäys (päällekarkaus, aggressio) - agresi  
 hyökkäävä (aggressiivinen) - agresevi  
 hyöky (vyöry) - dai dara  
-hyökätä (käydä päälle) - fa agresi  
 hyönteinen (ötökkä) - dudu  
 hyöty (etu) - faida  
 hyötyaines - faida xe  
@@ -830,8 +828,8 @@ häkki - kane kasa
 hämmentää (sekoittaa; hämmennys, turbulenssi) - disturbe  
 hämähäkinverkko - arane nete  
 hämähäkki - arane  
-hän (se) - ya  
-hänen (sen) - ya su  
+hän (se) - da  
+hänen (sen) - da su  
 häntä - koda  
 häpeä - xarma  
 häpy (ulkosynnyttimet) - vulva  
@@ -935,7 +933,7 @@ iäkäs - umur di
 
 ## J  
 
-ja (sekä) - e  
+ja (sekä) - i  
 jade - giuka  
 Jahve (Jehova) - Yahve  
 jainalaisuus - jain din  
@@ -1572,7 +1570,7 @@ kuvitella - fa fantazi
 Kuwait - Kuvaite  
 kvadriljoona (jotta-) - yota  
 kykenevä (voiva) - bil ja  
-kyllä - ye  
+kyllä - ya  
 kylmä - leng  
 kylpeä - fa banya  
 kylpy - banya  
@@ -1648,8 +1646,8 @@ laatu (laadukkuus, erinomaisuus, hyvyys) - bon sifata
 laatu (ominaisuus, ominaispiirre, määrite) - sifa  
 laava - yung petra  
 Lagos - Lagos  
-lahja - daxe  
-lahjakortti - daxeceke  
+lahja - don xe  
+lahjakortti - don xe ceke  
 lahko (kultti) - din xia  
 lahti - baya  
 lainata (siteerata) - sita  
@@ -1999,7 +1997,7 @@ maya (mayaintiaani) - maya
 Mayotte - Mayote  
 me - mimen  
 me ja sinä - tumimen  
-me mutta et sinä - yamimen  
+me mutta et sinä - damimen  
 media (tiedotusvälineet) - media  
 media - medi xe  
 meduusa - hai jele  
@@ -2346,11 +2344,11 @@ okra - bamia
 oksa (haara) - xaka  
 oksidi - oxide  
 ole hyvä - cing na  
-olento (olio) - sija  
+olento (olio) - eja  
 oliivi - zaitun  
 olkapää (hartia) - kanta  
 olla (omistaa) - ha  
-olla - si  
+olla - e  
 olla eri mieltä - fa alo rai  
 olla hereillä - jaga  
 olla jtkn mieltä (pitää jnkn) - fa rai  
@@ -2398,7 +2396,7 @@ orpo - yatim
 orpokoti - yatim dom  
 orvokki - violeta  
 osa (lohko, pala) - fen  
-osallistua (tehdä osansa) - fen da  
+osallistua (tehdä osansa) - fen don  
 osallistua - fa parti  
 osallistua - parti cepe  
 osallistuja - parti ceper  
@@ -2466,7 +2464,7 @@ palanen (murunen, riekale, sirpale) - parce
 palata - be retro  
 palatsi - dai dom  
 Palau - Palau  
-palauttaa (antaa takaisin) - reda  
+palauttaa (antaa takaisin) - redon  
 palauttaa - fa retro  
 palauttaa - fuka  
 Palestiina - Filistin  
@@ -3005,7 +3003,7 @@ sadetakki - xava kote
 sahrami - safran  
 Saint Helena - Sante Helena  
 Saint Kitts - Sante Kitse  
-Saint Kitts ja Nevis - Sante Kitse e Nevis  
+Saint Kitts ja Nevis - Sante Kitse i Nevis  
 Saint Lucia - Sante Lucia  
 saippua - sabun  
 sairaala - patikan  
@@ -3041,7 +3039,7 @@ sankaritaru (legenda) - hero kata
 sanko (ämpäri) - baldi  
 sanoa (puhua) - fa loga  
 sanomalehti - habar gazeta  
-Sao Tome ja Principe - Sante Tome e Principe  
+Sao Tome ja Principe - Sante Tome i Principe  
 sapatti - sabate  
 sarana - xarnir  
 sardelli (anjovis) - ancovi  
@@ -3611,7 +3609,7 @@ toveri (saman joukon jäsen) - bei
 traktori - trater  
 Transdnistria - Transe Nistre Dexa  
 trendi - faxon  
-Trinidad ja Tobago - Trinidade e Tobago  
+Trinidad ja Tobago - Trinidade i Tobago  
 tripla (kolminkertainen) - tripli  
 Triton - Triton  
 trooppinen - garma zona di  
@@ -3710,7 +3708,7 @@ tähti - sing
 tähtialus - astro nave  
 tähtitiede (astronomia) - astro nomi  
 tähtitieteilijä - astro nomi ja  
-tämä - yi  
+tämä - ye  
 tämä hetki (nyt) - zai zaman  
 tänään - zai den  
 täplä (läiskä) - bindu  
@@ -3721,7 +3719,7 @@ täysi - pul
 täytetty pulla - mantu  
 täyttää - fa pul  
 täytyä (olla pakko) - mus  
-täällä - a yi  
+täällä - a ye  
 törkeä - insulte di  
 Tšad - cade  
 Tšekki - ceska  
@@ -4034,7 +4032,7 @@ vuode (sänky, peti) - bede
 vuodenaika - mosim  
 vuohi - behe  
 vuokra - kira  
-vuokrata - kira da  
+vuokrata - kira don  
 vuokrata - kira kape  
 vuono - fiorde  
 vuori (mäki) - xan  
@@ -4077,7 +4075,7 @@ väärä (epätosi, vale-) - false
 väärä (virheellinen) - galte di  
 Wales - Kamri  
 walesilainen - kamri  
-Wallis ja Futuna - Valis e Futuna nesi  
+Wallis ja Futuna - Valis i Futuna nesi  
 Washington DC - Vaxington DC  
 watti - vate  
 Wenzhou - Venjou  

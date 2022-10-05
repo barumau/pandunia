@@ -13,13 +13,13 @@ They are used as substitutes for a person's name.
 | I, me       | we           |
 | **tu**      | **tumen**    |
 | you         | you all      |
-| **ya**      | **yamen**    |
+| **da**      | **damen**    |
 | he or she   | they         |
 
 All pronouns can be used for all genders.
 In Pandunia, personal pronouns do not specify whether the person discussed is a woman or a man.
 For example, in the third person, one word –
-**ya**
+**da**
 – refers to women, men and people of other genders alike.
 It a gender-neutral personal pronoun and it treats everyone equally.
 
@@ -43,7 +43,7 @@ The possessive pronouns consists of the personal pronoun and the possessive part
 | my          | our          |
 | **tu su**   | **tumen su** |
 | your        | your         |
-| **ya su**   | **yamen su** |
+| **da su**   | **damen su** |
 | his or her  | their        |
 
 
@@ -59,7 +59,7 @@ so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself
 
 **mi vide se**
 – I see myself.  
-**ya vide se**
+**da vide se**
 – She sees herself. / He sees himself. / It sees itself.  
 **mimen vide se.**
 – We see ourselves.
@@ -69,7 +69,7 @@ The expression **semen** is used as the reciprocal pronoun.
 **semen**
 – each other, one another
 
-**mi e tu vide semen.**
+**mi i tu vide semen.**
 – Me and you see each other.  
 **mimen vide semen.**
 – We see each other.
@@ -80,7 +80,7 @@ The expression **semen** is used as the reciprocal pronoun.
 Demonstrative pronouns are used with nouns to make them more specific.
 The demonstrative pronouns in Pandunia are:
 
-**yi**
+**ye**
 – this (near the speaker)  
 **vo**
 – that (far from speaker)  
@@ -88,7 +88,7 @@ The demonstrative pronouns in Pandunia are:
 – the (known by both the speaker and the listener)
 
 The proximal demonstrative
-**yi**
+**ye**
 points to things that are near the speaker.
 The distal demonstrative
 **vo**
@@ -96,27 +96,27 @@ points to things that are far from the speaker.
 
 **tu vol vo buku, he?**
 – Do you want that book?  
-**no, mi vol yi buku, no vo.**
+**no, mi vol ye buku, no vo.**
 – No, I want this book, not that.
 The demonstratives can serve as subjects and objects in the same way as nouns.
 
-**yi si bon.**
+**ye e bon.**
 – This is good.  
-**vo si dus.**
+**vo e dus.**
 – That is bad.  
-**tu vol yi, he?**
+**tu vol ye, he?**
 – Do you want this?  
 **no, mi vol vo.**
 – No, I want that.
 
 When the verb is a content word,
 there needs to be a modal particle,
-like **ye** or **no**,
+like **ya** or **no**,
 between the subject and the verb.
 
 **mi vide du jen.**
 – I see two persons.  
-**yi ye gani e vo no gani.**
+**ye ya gani i vo no gani.**
 – This one sings and that one doesn't sing.
 
 The basic proximal and distal pronouns are used for introducing a new object.
@@ -125,10 +125,10 @@ does not specify physical distance
 but it is used when the speaker has already mentioned the object or person in question
 and it is known by the audience or is topical within the discourse.
 
-**yi si mau. ya vol yam vo muxu.**
+**ye e mau. da vol yam vo muxu.**
 – This is a cat. It wants to eat that mouse.
 
-**mi ten un mau e un vaf. la vaf si dai. ya yam poli yam.**
+**mi ten un mau i un vaf. la vaf e dai. da yam poli yam.**
 – I have a cat and a dog. The dog is big. It eats a lot of food.
 
 
@@ -138,16 +138,16 @@ The demonstrative pronouns can be used also discourse internally.
 Then they refer to abstract entities of discourse, not concrete objects.
 **la**
 refers to things previously spoken,
-**yi**
+**ye**
 refers to things currently being spoken, and
 **vo**
 refers to things about to be spoken.
 
-**yi jumla si korte.**
+**ye jumla e korte.**
 – This sentence is short.
 
 In the above,
-**yi jumla**
+**ye jumla**
 (_this sentence_) refers to the sentence being spoken.
 
 **mi mana vo: mi ama tu.**

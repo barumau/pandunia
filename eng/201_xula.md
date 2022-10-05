@@ -14,22 +14,22 @@
 **salam!**
 = Hello!  
 <big>☺</big>
-**tu si ke?**
+**tu e ke?**
 = Who are you?  
 <big>☻</big>
-**mi si Yusef. tu si ke?**
+**mi e Yusef. tu e ke?**
 = I am Yusef. Who are you?  
 <big>☺</big>
-**mi si Sara. ya si ke?**
+**mi e Sara. da e ke?**
 = I am Sara. Who is that?  
 <big>☻</big>
-**ya si mi su dosti.**
+**da e mi su dosti.**
 = That is my friend.  
 <big>☺</big>
-**ya su nam si ke?**
+**da su nam e ke?**
 = What's her name?  
 <big>☻</big>
-**ya su nam si Maria.**
+**da su nam e Maria.**
 = Her name is Maria.
 
 ### Grammar
@@ -37,38 +37,38 @@
 Pandunia's sentences normally follow the topic-comment structure. 
 The topic indicates who or what is being talked about. The comment
 tells something about the topic. For instance in
-**ya si mi su dosti**
+**da e mi su dosti**
 the topic is the pronoun
-**ya**
+**da**
 (he, she, it), which is followed by the comment
-**si mi su dosti**
+**e mi su dosti**
 (is my friend).
 
-In Pandunia, the word **si** functions like _to be_ in English.
+In Pandunia, the word **e** functions like _to be_ in English.
 The same word is used for all persons.
 And to say the opposite, simply put **no** before it.
 
-**ya si Sara.**
+**da e Sara.**
 = She is Sarah.  
-**ya no si Sara.**
+**da no e Sara.**
 = She is not Sarah.
 
-**mau si hevan.**
+**mau e hevan.**
 = The cat is an animal.  
-**dom no si hevan.**
+**dom no e hevan.**
 = The house is not an animal.  
 
 In the same way you can describe yourself by saying
-**mi si**
+**mi e**
 and a word that describes you.
 
-**mi si bon.**
+**mi e bon.**
 = I'm good.  
-**mi si man.**
+**mi e man.**
 = I'm a man.  
-**mi si fem.**
+**mi e fem.**
 = I'm a woman.  
-**mi si nobi.**
+**mi e nobi.**
 = I'm non-binary.
 
 
@@ -95,13 +95,13 @@ my
 you  
 **tu su**
 your  
-**ya**
+**da**
 he, she or it  
-**ya su**
+**da su**
 his, her, its  
 **ke**
 who or what  
-**si**
+**e**
 to be  
 **no**
 no; not  
@@ -122,12 +122,12 @@ animal
 
 ### Answers to the Exercises
 
-1. tu si ke?
-2. mi si tomas.
-3. tu su dosti si ke?
-4. ya si Sara.
-5. tu su nam si ke?
-6. mi su nam si ........... 
+1. tu e ke?
+2. mi e tomas.
+3. tu su dosti e ke?
+4. da e Sara.
+5. tu su nam e ke?
+6. mi su nam e ........... 
 
 
 --------------------------------------------------------------------------------
@@ -186,7 +186,7 @@ in Pandunia.
 > Word order in active sentence: Subject + Verb + Object
 
 Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**ya** = he, she, it. Note that the pronouns stayed the same in the
+**da** = he, she, it. Note that the pronouns stayed the same in the
 previous example sentences. Words never change in Pandunia. They
 always stay the same regardless of their position in sentence.
 
@@ -252,7 +252,7 @@ chief, boss
 
 ### Answers to the Exercises
 
-1. tu salam ya.
+1. tu salam da.
 2. mama salam papa.
 3. salam mama!
 4. sal!
@@ -291,7 +291,7 @@ chief, boss
 **bon. cing salam tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi salam ya. sal cuti!**
+**mi salam da. sal cuti!**
 = I will. Bye!  
 <big>☺</big>
 **sal ga!**
@@ -301,12 +301,12 @@ chief, boss
 ### Grammar
 
 Pandunia's personal pronouns are: **mi** = I, **tu** = you, and
-**ya** = he, she, it. Pandunia is a gender-neutral language. It
+**da** = he, she, it. Pandunia is a gender-neutral language. It
 doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**mi cing tu salam ya.**
+**mi cing tu salam da.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
@@ -319,7 +319,7 @@ as its object. At the same time
 serves also as the subject of the second verb,
 **salam**
 ('to greet'), whose object is
-**ya**.
+**da**.
 So
 **tu**
 has a double role:
@@ -336,9 +336,9 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi cing tu salam ya.**
+**mi cing tu salam da.**
 = I ask you to say hello to him/her.  
-**cing salam ya.**
+**cing salam da.**
 = Please say hello to him/her.
 
 See how the translation of
@@ -351,14 +351,14 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**cing salam ya**
+**cing salam da**
 has a useful pattern that can be used for making polite requests.
 
 **cing side.**
 = Please be seated.  
-**cing da yo kafe.**
+**cing don yo kafe.**
 = Please give me some coffee.  
-**cing da yo cai.**
+**cing don yo cai.**
 = Please give me some tea.  
 **cing yam yo cai.**
 = Please have some tea.  
@@ -370,14 +370,14 @@ Commands are introduced with
 ('to command'). They employ the same pivot structure as requests with
 **cing**.
 
-**amir da yo cai.**
+**amir don yo cai.**
 = Give (me) some tea!  
 **amir safi la kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
 
-**safi ya!**
+**safi da!**
 = Clean it!
 
 
@@ -402,7 +402,7 @@ tea
 grandfather  
 **cing**
 to ask; please  
-**da**
+**don**
 to give  
 **e**
 and  
@@ -434,8 +434,8 @@ some, a(n)
 
 ### Answers to the Exercises
 
-1. ya yam cai.
-2. la xefe cing ya side.
+1. da yam cai.
+2. la xefe cing da side.
 3. cing yam kafe o cai.
 4. mama cing mi safi kamar.
 5. xefe side e yam kafe.
@@ -464,25 +464,25 @@ some, a(n)
 **mi no baxa pandunia...**
 = I don't speak Pandunia...  
 <big>☺</big>
-**maf! sual ya yam cai?**
+**maf! sual da yam cai?**
 = Pardon! Will he have tea?  
 <big>☻</big>
-**no. ya no yam cai. ya yam kafe.**
+**no. da no yam cai. da yam kafe.**
 = No, he won't. He would like to have coffee.  
 <big>☺</big>
 **sual tu yam supe?**
 = Would you like to have soup?  
 <big>☻</big>
-**ye.**
+**ya.**
 = Yes.  
 <big>☺</big>
-**sual ya yam supe?**
+**sual da yam supe?**
 = Would he like to have soup?  
 <big>☻</big>
 **no yam.**
 = No.  
 <big>☺</big>
-**xukur. mi da un cai e un kafe e un supe pos des minute.**
+**xukur. mi don un cai e un kafe e un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -504,7 +504,7 @@ are often about other people. Therefore the second pronoun is usually
 needed. It can be left out only when it is clear who is the topic of
 discussion.
 
-**sual ya yam cai?**
+**sual da yam cai?**
 = Does he or she drink tea?  
 **sual tu yam supe?**
 = Do you eat soup?  
@@ -523,13 +523,13 @@ Of course common and proper nouns can also be used.
 
 ### Giving answers
 
-Yes/no questions can be answered with **ye** = yes, and **no** = no.
+Yes/no questions can be answered with **ya** = yes, and **no** = no.
 
 – **sual tu yam supe?**
 = Do you eat soup?  
-– **ye.**
+– **ya.**
 = Yes.  
-– **sual ya yam supe?**
+– **sual da yam supe?**
 = Does she eat soup?  
 – **no.**
 = No.
@@ -538,11 +538,11 @@ Also more complete answers can be given.
 
 – **sual tu yam kafe?**
 = Do you drink coffee?  
-– **ye. mi yam kafe.**
+– **ya. mi yam kafe.**
 = Yes, I drink coffee.  
-– **sual ya yam kafe?**
+– **sual da yam kafe?**
 = Does he drink coffee?  
-– **no. ya no yam kafe.**
+– **no. da no yam kafe.**
 = No, he doesn't drink coffee.
 
 It is also possible to answer yes by repeating the main verb of the question.
@@ -588,25 +588,25 @@ one (1)
 ten  
 **sual**
 to ask a question  
-**ye**
+**ya**
 yes
 
 
 ### Answers to the Exercises
 
 1. sual tu baxa pandunia?
-2. ye. mi baxa pandunia.
+2. ya. mi baxa pandunia.
 3. sual mama yam kafe?
-4. no. ya no yam kafe.
-5. sual ya yam supe?
-6. (ya) no yam.
+4. no. da no yam kafe.
+5. sual da yam supe?
+6. (da) no yam.
 
 
 --------------------------------------------------------------------------------
 
 ## Saying no
 
-In the previous lesson you learned to answer **ye** and **no** to questions.
+In the previous lesson you learned to answer **ya** and **no** to questions.
 The word **no** is used for denying something.
 Adding **no** in front of the verb turns an affirmative sentence to negative.
 
@@ -634,11 +634,11 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**ya no ten mau.**
+**da no ten mau.**
 = She doesn't have a cat.  
-**ya ten no mau, ama vaf.**
+**da ten no mau, ama vaf.**
 = She has no cats but dogs.  
-**no ya, ama mi ten mau.**
+**no da, ama mi ten mau.**
 = Not she but I have cats.  
 **mi ten no un, ama du mau.**
 = I have not one but two cats.
@@ -679,10 +679,10 @@ but
 
 ### Answers to the Exercises
 
-1. ya no safi kamar.
+1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. ya no ten vaf e mau. / ya ten no vaf e no mau.
+4. da no ten vaf e mau. / da ten no vaf e no mau.
 5. xefe yam cai ama no kafe.
 6. mama ten no vaf ama du mau.
 
@@ -696,11 +696,11 @@ _when_, the interrogative pronoun **ke** is normally used. The
 question can be made more specific by adding words for person, time,
 manner or thing if needed.
 
-**ya si ke?**
+**da e ke?**
 = What is that? / Who is (s)he?  
-**ya si ke jen?**
+**da e ke jen?**
 = Who is he/she?  
-**ya si ke xe?**
+**da e ke xe?**
 = What (thing) is it?  
 **ke jen lai?**
 = Who is coming? (**jen** = person)  
@@ -721,13 +721,13 @@ before the cause or reason.
 
 **ke sababe tu suka mau?**
 = Why do you like cats?  
-**de sababe yamen si kavai.**
+**de sababe damen e kavai.**
 = Because they are cute.
 
 Of course **sababe** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sababe yamen si kavai**
+**mi suka mau de sababe damen e kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -763,10 +763,10 @@ period of time
 
 1. ke jen suka supe?
 2. papa suka.
-3. ke zaman ya lai?
+3. ke zaman da lai?
 4. pos des minute.
-5. ke sababe ya no yam?
-6. de sababe ya no suka kafe e supe.
+5. ke sababe da no yam?
+6. de sababe da no suka kafe e supe.
 
 
 --------------------------------------------------------------------------------
@@ -779,7 +779,7 @@ There are no verb conjugations in Pandunia. All verbs have only one
 form for all times. In a way they are similar to some English verbs,
 such as "to hit", which is the same in all tenses.
 
-**mi darba ya.**
+**mi darba da.**
 = I hit it.
 
 In Pandunia all verbs are like that! For example,
@@ -788,7 +788,7 @@ can mean both "I eat bread" and "I ate bread",
 but usually only one or the other meaning makes sense in the context of the discussion.
 For example when people talk about that morning's breakfast, the sentence tells about the past time.
 
-**mi yam pang a yi suba yam.**
+**mi yam pang a ye suba yam.**
 = I ate bread for this breakfast.
 
 There are also specific time words.
@@ -800,30 +800,30 @@ There are also specific time words.
 
 They can be used for modifying nouns.
 
-**Sara si mi su pas xefe.**
+**Sara e mi su pas xefe.**
 = Sarah is my former boss.  
-**Yusef si mi su zai xefe.**
+**Yusef e mi su zai xefe.**
 = Yusef is my current boss.  
-**Maria si mi su xa xefe.**
+**Maria e mi su xa xefe.**
 = Maria is my future boss.
 
 The same words are used when you talk about actions and events in time.
 Simply put the word before the verb.
 
-**mi pas darba ya.**
+**mi pas darba da.**
 = I hit it (in the past).  
-**mi zai darba ya.**
+**mi zai darba da.**
 = I am hitting it (currently).  
-**mi xa darba ya.**
+**mi xa darba da.**
 = I will hit it (in the future).
 
 It's also possible to use preposition phrases of time.
 
-**mi darba ya a pas.**
+**mi darba da a pas.**
 = I hit it in the past.  
-**mi darba ya a zai.**
+**mi darba da a zai.**
 = I hit it at present.  
-**mi darba ya a xa.**
+**mi darba da a xa.**
 = I hit it in the future.
 
 
@@ -835,7 +835,7 @@ or until it becomes useful to stress that you are still talking in the same tens
 
 **mi pas ten un mau.**
 = I had a cat in the past.  
-**ya si bon mau.**
+**da e bon mau.**
 = It was a good cat.  
 **mi ten un vaf a zai.**
 = I have a dog now.
@@ -845,7 +845,7 @@ time expression is present, other markers are not needed.
 
 **mi be jene a nen 2003.**
 = I was born in 2003.  
-**ya safi la kamar a pos den.**
+**da safi la kamar a pos den.**
 = He will clean the room tomorrow.
 
 
@@ -888,7 +888,7 @@ milk
 1. mi su xefe festa a xa.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. ya safi kamar a pre den.
+4. da safi kamar a pre den.
 5. mau yam milke a pos den.
 6. tu su ma festa a prenoce.
 
