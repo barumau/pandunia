@@ -585,6 +585,10 @@ cile - Chile
 cili - chile  
 cimpanzi - chimpancé  
 cin - parente (madre o padre)  
+cin bra - tío  
+cin ma - abuela  
+cin pa - abuelo  
+cin sis - tía  
 cincila - chinchilla  
 cing - pedir (invitar; por favor)  
 cing lai - invitar  
@@ -1318,6 +1322,9 @@ galope - galope
 galte - error  
 galte budi - malinterpretar  
 galte di - erróneo  
+gam - casamiento  
+gam di - casado  
+gam per - esposo o esposa  
 gamba - camarón (gamba)  
 Gambia - Gambia  
 gamel - camello  
@@ -2305,6 +2312,7 @@ Luxemburge - Luxemburgo
 ## M  
 
 ma - madre (mamá)  
+ma di - maternal  
 Madagasi - Madagascar  
 madagasi di - malgache  
 maf - perdón  
@@ -2629,6 +2637,7 @@ nam tikete - gafete (etiqueta de identificación)
 nama - carne  
 Namibia - Namibia  
 nan - masculino (macho)  
+nan per (man) - esposo  
 nanas - piña  
 nano - nano-  
 nano mitre - nanometre  
@@ -2708,6 +2717,7 @@ neu yang di - moderno
 neu Zelande - Nueva Zelanda  
 Nevis - Nieves  
 ni - mujer (hembra)  
+ni per (fem) - esposa  
 nia - intención (intento)  
 nice - parte inferior  
 nice di - inferior  
@@ -2814,6 +2824,7 @@ oxide - óxide
 ## P  
 
 pa - padre (papá)  
+pa di - paternal  
 paci - pájaro (ave)  
 paci logi - ornitología  
 pada - caer  
@@ -2860,7 +2871,6 @@ Papua neu Ginia - Papúa Nueva Guinea
 par - equilibrado (par)  
 par fase - nivel  
 par jen - equilibrado (par)  
-par nume - número par  
 par vezeta - equilibrio  
 Paraguai - Paraguay  
 param - parámetro  
@@ -2928,7 +2938,11 @@ pente - pintura
 pente broxa - pincel  
 pente ja - pintor  
 pente tela - tela  
+per - par (pareja)  
+per ma - suegra  
+per nume - número par  
 peroxide - peróxido  
+per pa - suegro  
 pera - pera  
 perex fa - perecer  
 Peru - Perú  

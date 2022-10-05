@@ -145,6 +145,8 @@ autor - autor
 aveia - ave  
 aventura - ventur  
 aventureiro - ventur ja  
+avó - cin ma  
+avô - cin pa  
 azur (blau) - lazur  
 azur - nil  
 açougueiro (talhante) - bucar  
@@ -599,6 +601,9 @@ espirrar - aci
 espodossolo - hui darte  
 esponja - esponje  
 esporte - esporte  
+esposa - ni per (fem)  
+esposo - nan per (man)  
+esposo ou esposa - gam per  
 espírito (gênio) - jini  
 esquecer - anmemo  
 esqueleto - oste jama  
@@ -1005,6 +1010,7 @@ matadouro - bucakan
 mate (opaco) - foto mata di  
 matemática - hisabu logi  
 materialismo - mate lona  
+maternal - ma di  
 matéria - mate  
 maçã - aple  
 medio - medi di  
@@ -1213,6 +1219,7 @@ papel de parede - mur kaguji
 papel higiênico - tuale kaguji  
 papoila - medan papi  
 papoila-dormideira - sona papi  
+par (parelha) - per  
 par - par jen  
 par - sam bei  
 para-lama - poto defa bano  
@@ -1227,6 +1234,7 @@ passagem - pas dau
 passagem de volta - retro tikete  
 passaporte - pasporte  
 pasta - pasta  
+paternal - pa di  
 pato - bata  
 patologia - pati logi  
 patógeno - pati gene xe  
@@ -1537,6 +1545,8 @@ situaçao - xe hal
 sobreviver - trajiva  
 sociedade - sosi  
 socio - bei  
+sogra - per ma  
+sogro - per pa  
 soja - soi  
 sol - sol  
 soldado - ordu jen  
@@ -1605,9 +1615,11 @@ terracota - baka poto
 terraplanista - plate geo sim ja  
 terreno - geo forme  
 terça-feira - den du  
+tia - cin sis  
 tigre - bagre  
 tijolo - dobe  
 tinta - kalam sui  
+tio - cin bra  
 titânio - titan yum  
 toalha - tuale  
 toalha de mesa - meza tela  

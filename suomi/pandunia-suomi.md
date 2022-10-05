@@ -673,7 +673,11 @@ cili - paprika
 cili fun - paprikajauhe  
 cimpanzi - simpanssi  
 cin - vanhempi (isä tai äiti)  
+cin bra - setä tai eno  
 cin cin - isovanhempi  
+cin ma - isoäiti  
+cin pa - isoisä  
+cin sis - täti  
 cincila - chinchilla  
 cing - pyyntö  
 cing - pyytää (anoa)  
@@ -1471,6 +1475,13 @@ galope - laukka
 galte - virhe (erhe)  
 galte budi - ymmärtää väärin  
 galte di - väärä (virheellinen)  
+gam - avioliitto  
+gam cin - puolivanhempi  
+gam di - naimisissa  
+gam ma - äitipuoli  
+gam pa - isäpuoli  
+gam per - puoliso (aviomies tai -vaimo)  
+gam sau - sisaruspuoli  
 gamba - katkarapu  
 Gambia - Gambia  
 gamel - kameli  
@@ -2466,6 +2477,11 @@ Luxemburge - Luxemburg
 ## M  
 
 ma - äiti (emä)  
+ma bra - eno  
+ma di - äidillinen  
+ma ma - äidinäiti  
+ma pa - äidinisä  
+ma sis - täti (äidin sisko)  
 Madagasi - Madagaskar  
 madagasi di - madagaskarilainen (malagassi)  
 maf - anteeksi  
@@ -2765,6 +2781,7 @@ nam loga - substantiivi (nimisana)
 nama - liha  
 Namibia - Namibia  
 nan - uros (mies)  
+nan per (man) - aviomies  
 nanas - ananas  
 nano - nano-  
 nano mitre - nanometri  
@@ -2844,6 +2861,7 @@ neuta - uutuus
 neu Zelande - Uusi-Seelanti  
 Nevis - Nevis  
 ni - naaras  
+ni per (fem) - vaimo  
 nia - aie (aikomus, tarkoitus)  
 nice - alapuoli  
 nice di - ala-  
@@ -2943,6 +2961,11 @@ oxide - oksidi
 ## P  
 
 pa - isä  
+pa bra - setä  
+pa di - isällinen  
+pa ma - isänäiti  
+pa pa - isänisä  
+pa sis - täti (isän sisko)  
 paci - lintu  
 paci logi - lintutiede (ornitologia)  
 pada - pudota (tipahtaa)  
@@ -2989,7 +3012,7 @@ Papua neu Ginia - Papua Uusi-Guinea
 par - tasainen (tasavertainen)  
 par fase - taso  
 par jen - vertainen  
-par nume - parillinen luku  
+parta - tasavertaisuus  
 par vezeta - tasapaino  
 Paraguai - Paraguai  
 param - parametri (argumentti)  
@@ -3064,7 +3087,12 @@ pente - maalata
 pente broxa - pensseli (sivellin)  
 pente ja - maalari  
 pente tela - taulukangas  
+per - pari (kaksikko)  
+per cin - appivanhempi  
+per ma - anoppi  
+per nume - parillinen luku  
 peroxide - peroksidi  
+per pa - appi  
 pera - päärynä  
 perex - hajalla  
 perex fa - hajottaa (hävittää, raunioittaa)  

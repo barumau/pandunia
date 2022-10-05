@@ -140,6 +140,7 @@ animoida - fa anime
 anis - anis  
 ankkuri - angar  
 annos - doze  
+anoppi - per ma  
 ansiosta - a xukur de  
 antaa - don  
 antaa anteeksi - fa maf  
@@ -154,6 +155,8 @@ antikristus - anmesi
 antimoni - estibi yum  
 apinanleipäpuu (baobab) - buyu  
 appelsiini - oranje  
+appi - per pa  
+appivanhempi - per cin  
 aprikoosi (luumu) - briko  
 apteekki - dava xekan  
 apu - mede  
@@ -233,6 +236,8 @@ avaruus (kosmos) - kosmo
 avaruusalus - kosmo nave  
 avaruusmatkaaja (kosmonautti) - kosmo nave ja  
 avata lukko - detala  
+avioliitto - gam  
+aviomies - nan per (man)  
 avokado - avakate  
 Azerbaidžan - Azerbaijan  
 
@@ -434,6 +439,7 @@ ennen (aikaisemmin, aiemmin) - cen
 ennennäkemätön - ancen vide di  
 ennustaa (nähdä ennalta) - cen vide  
 ennustettu - cen vide di  
+eno - ma bra  
 ensimmäinen (alku-) - xuru di  
 ensimmäinen (numero yksi) - un me  
 entsyymi - enzim  
@@ -914,13 +920,19 @@ islamofobia (islamin pelko) - islam fobi
 Islanti - Islande  
 iso (suuri) - dai  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britan  
+isoisä - cin pa  
 isosisko - sen sis  
 isovanhempi - cin cin  
 isoveli - sen bra  
+isoäiti - cin ma  
 Israel - Israel  
 istua - fa side  
 isä - pa  
+isällinen - pa di  
+isänisä - pa pa  
+isänäiti - pa ma  
 isäpuoli (äidin puoliso) - vise pa  
+isäpuoli - gam pa  
 Italia - Italia  
 itkeä (yhyy) - uhu  
 itse - se  
@@ -2206,6 +2218,7 @@ nahka (kuori, iho) - pil
 nahuatli - nava  
 naida (mennä naimisiin) - fa gami  
 nailon - nilon  
+naimisissa - gam di  
 nainen - matur fem  
 Namibia - Namibia  
 nano- - nano  
@@ -2525,8 +2538,9 @@ Papua Uusi-Guinea - Papua neu Ginia
 papukaija - papagai  
 Paraguai - Paraguai  
 parametri (argumentti) - param  
+pari (kaksikko) - per  
 Pariisi - Paris  
-parillinen luku - par nume  
+parillinen luku - per nume  
 parkkipaikka - garparke  
 parsa - asparge  
 parta - barde  
@@ -2760,7 +2774,9 @@ puolalainen - polska baxa
 puoleensavetävä (viehättävä) - atratevi  
 puolesta - a vakil de  
 puoli (puolikas, ½) - un fen du  
+puoliso (aviomies tai -vaimo) - gam per  
 puolittaa (jakaa kahdella) - fa fen do du  
+puolivanhempi - gam cin  
 puolustaa - fa defa  
 puolustaja - defa ja  
 puolustus - defa  
@@ -3122,6 +3138,8 @@ sentti - senti
 senttimetri (cm) - sentimitre  
 seppä - metal sanaja  
 Serbia - Serbia  
+setä - pa bra  
+setä tai eno - cin bra  
 seura - sosi  
 seuraava - pos di  
 seurata (tulla perässä, tulla jäljessä) - fa pos  
@@ -3177,6 +3195,7 @@ sinä - tu
 Siperia - Sibiria  
 sipuli - piaze  
 sisarus (veli tai sisko) - sau  
+sisaruspuoli - gam sau  
 sisko - sis  
 sisus (sisäpuoli) - in  
 sisä- (sisäinen) - in di  
@@ -3465,6 +3484,7 @@ tarvita - yau
 tasainen (tasavertainen) - par  
 tasapaino - par vezeta  
 tasavalta - vakil krati  
+tasavertaisuus - parta  
 tasku - jebu  
 taso - par fase  
 tasoittaa (tasata) - fa par  
@@ -3726,6 +3746,9 @@ tämä hetki (nyt) - zai zaman
 tänään - zai den  
 täplä (läiskä) - bindu  
 tärkeä - ham di  
+täti (isän sisko) - pa sis  
+täti (äidin sisko) - ma sis  
+täti - cin sis  
 täydellinen (täysin hyvä) - pul bon  
 täydellinen - perfete  
 täysi - pul  
@@ -3836,6 +3859,7 @@ vaikuttaa - fa asar
 vaikutus (teho) - exfete  
 vaikutus (tulos) - asar  
 vaimentua - be mirde  
+vaimo - ni per (fem)  
 vain (ainoa, ainut) - un di  
 vaivata (hieroa) - fa masaje  
 vaivautua - be turbe  
@@ -4183,9 +4207,13 @@ zirkoni - zirkon
 zirkonium - zirkon yum  
 zombi - zombi  
 zulu - Zulu  
+äidillinen - ma di  
+äidinisä - ma pa  
 äidinkieli - nati baxa  
+äidinäiti - ma ma  
 äiti (emä) - ma  
 äitipuoli (isän puoliso) - vise ma  
+äitipuoli - gam ma  
 ällistyttää - fa ajabu  
 äsken (vasta, juuri) - a neu  
 äänestää - fa vote  

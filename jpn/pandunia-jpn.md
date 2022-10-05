@@ -251,6 +251,8 @@ ceres yum - セリウム
 • sucese - 成功  
 cesi yum - セシウム  
 cili fun - パプリカ  
+cin bra - 伯父  
+cin ma - お婆さん  
 cing - 請う (ーて下さい)  
 cini - 磁器  
 cira - 裂く  
@@ -1238,7 +1240,6 @@ panka - 翼 (羽)
 pante - ズボン  
 papaya - パパイヤ  
 par jen - 同輩  
-par nume - 偶数  
 par vezeta - 均衡 (平衡)  
 param - 引数 (パラメーター)  
 parce kai - 弾ける  
@@ -1270,6 +1271,8 @@ pende sor - 南京錠
 pente - 絵の具 (ペンキ)  
 pente broxa - 絵筆  
 pente ja - 画家 (絵かき)  
+per - 対 (ペア)  
+per nume - 偶数  
 peroxide - 過酸化物  
 pera - 梨  
 pesa - 金  

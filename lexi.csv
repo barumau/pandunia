@@ -653,7 +653,11 @@ cili|cili|||eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), m
 cili.fun|cili fun||||paprika|||||||||||||||辣椒粉||パプリカ||||paprikajauhe|papryka
 cimpanzi|cimpanzi|bio||eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi|chimpanzee|||chimpancé|||||||||||||||||ĉimpanzo|simpanssi|szympans
 cin|cin|famil||zho:親 (qīn), yue:親 (can), wuu:親 (qin), jpn:親 (shin), kor:친 (chin)|parent (mother or father)|Elter|parent (géniteur)|parente (madre o padre)|genitor|||||||||||亲 (父母)|親 (父母)||||gepatro|vanhempi (isä tai äiti)|rodzic (matka lub ojciec)
+cin.bra|cin bra|famil|||uncle|Onkel|oncle|tío|tio|дядя||अंकल|||paman (bapa saudara)|||||||伯父|삼촌 (아저씨)||onklo|setä tai eno|
 cin.cin|cin cin|famil|||grandparent|||||||||||||||||||||isovanhempi|
+cin.ma|cin ma|famil|||grandmother||grand-mère|abuela|avó|бабушка||||||جَدَّة‎||||||お婆さん|||avino|isoäiti|babcia (babka)
+cin.pa|cin pa|famil|||grandfather||grand-père|abuelo|avô|дедушка||||||جَدّ‎|||||||||avo|isoisä|dziadek (dziad)
+cin.sis|cin sis|famil|||aunt|Tante|tante|tía|tia|тётя|||||||||||||||onklino|täti|
 cincila|cincila|bio||eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šinšilla), tur:çinçilya, may:cincila, jpn:チンチラ (chinchira)|chinchilla|||chinchilla|||||||||||||||||ĉinĉilo|chinchilla|szynszyla
 cing|cing||||request (petition)|||||||||||||||||||||pyyntö|
 cing|cing|||zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|ask (request, beg, plead; please)|||pedir (invitar; por favor)||просить||||||||||请||請う (ーて下さい)|||peti (bonvolu)|pyytää (anoa)|prosić
@@ -877,7 +881,7 @@ doze|doze|||eng:por:fra:dose, rus:доза (doza), deu:spa:dosis, tur:doz, may:d
 drama|drama|||eng:spa:por:may:swa:drama, fra:drame, rus:дра́ма, ara:دْرَامَا‎ (drāmā), hin:ड्रामा (ḍrāmā), jpn:ドラマ (dorama)|drama|||drama||||||||||drama|||||||dramo|draama|dramat
 drama.ironi|drama ironi||||dramatic irony||||||||||||||||||||||ironia dramatyczna
 droge|droge|||eng:drug, spa:droga, fra:drogue, deu:Droge|drug (intoxicating substance)|||droga (narcótico)||||||||||||||||||huume|narkotyk
-du|du|nomer|2|fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul)|two (2)||deux (2)|dos (2)|dois (2)|два (2)||दो|||dua|اِثْنَانِ||mbili||二 (2)||二 (2)|||du (2)|kaksi (2)|dwa (2)
+du|du|nomer|2|fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul) + zho:對 (duì), yue:對 (deoi3), vie:đôi|two (2)||deux (2)|dos (2)|dois (2)|два (2)||दो|||dua|اِثْنَانِ||mbili||二 (2)||二 (2)|||du (2)|kaksi (2)|dwa (2)
 du.baxa.di|du baxa di||||bilingual||bilingue|bilingüe|bilíngue|двуязычный|||||||||||||||dulingva|kaksikielinen|dwujęzyczny
 du.grafi.di|du grafi di||||anaglyphic (stereoscopic)|||||||||||||||||||||stereoskooppinen|
 du.mar|du mar||||twice|||dos veces||||||||||||||||||kahdesti (kaksi kertaa)|dwukrotnie (dwa razy)
@@ -1492,6 +1496,13 @@ galope|galope|||eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)|ca
 galte|galte|||ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),|mistake (error, fault, blunder, bug)||faute (erreur)|error|erro (falta)|||ग़लती (भूल)|||||yanlışlık (galat, erör)|||错误||間違い (誤り, バグ)|||eraro (miso)|virhe (erhe)|błąd (pomyłka)
 galte.budi|galte budi||||misunderstand|||malinterpretar||||ग़लत समझना||||||||||||||ymmärtää väärin|źle zrozumieć
 galte.di|galte di||||wrong (incorrect, erroneous, faulty)||erroné|erróneo|errôneo|||ग़लत|||||yanlış||||||||erara|väärä (virheellinen)|błędny (niepoprawny)
+gam|gam|famil||eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (-gamiya)|marriage (matrimony)||mariage|casamiento|||||||||||||||||geedzeco|avioliitto|małżeństwo, związek małżeński
+gam.cin|gam cin|famil|||step-parent|||||||||||||||||||||puolivanhempi|
+gam.di|gam di|famil|||married|||casado||||||||||||||||||naimisissa|ożeniony, zamężny, w związku małżeńskim
+gam.ma|gam ma|famil|||stepmother|||||||||||||||||||||äitipuoli|
+gam.pa|gam pa|famil|||stepfather|||||||||||||||||||||isäpuoli|
+gam.per|gam per|famil|||spouse (husband or wife)||époux|esposo o esposa|esposo ou esposa|||||||||||||||||puoliso (aviomies tai -vaimo)|małżonek (małżonka)
+gam.sau|gam sau|famil|||step-sibling|||||||||||||||||||||sisaruspuoli|
 gamba|gamba|||spa:por:gamba, ara: جَمْبَرِي‎ (jambarī) + swa:kamba|shrimp (prawn)||crevette|camarón (gamba)|camarão (gamba)|креветка||||||جَمْبَرِي‎||kamba||虾||海老||||katkarapu|krewetka
 Gambia|Gambia|dexa|GM||Gambia|||Gambia||||||||||||||||||Gambia|Gambia
 gamel|gamel|bio||ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia|camel|||camello|||||||||||||||||kamelo|kameli|wielbłąd, wielbłądzica
@@ -2611,6 +2622,11 @@ lutesi.yum|lutesi yum|yum 071|Lu|eng:lutetium, fra:lutécium, spa:lutecio, por:l
 Luxemburge|Luxemburge|dexa|LU||Luxembourg|||Luxemburgo||||||||||||||||||Luxemburg|Luksemburg
 M|M||||M||M|M|M|M||M|M||M|M|M|M||M||M|M|M|M|M|M
 ma|ma|famil||por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|mother (mom, mama)||mère (maman)|madre (mamá)|mãe|мать (мама)||माता (मां, मादर)|মাতা (মা)||ibu (emak)|أُمّ‎|anne|mzazi (mama)||妈妈||お母さん (母, ママ)|엄마|mẹ (má)|patrino|äiti (emä)|matka (mama)
+ma.bra|ma bra|famil|||maternal uncle||||||دایی|मामा||||||||||||||eno|
+ma.di|ma di|famil|||motherly (maternal)||maternel|maternal|maternal|материнский||||||||||||||||äidillinen|
+ma.ma|ma ma|famil|||maternal grandmother|||||||नानी||||||||外婆 (外祖母)||||||äidinäiti|
+ma.pa|ma pa|famil|||maternal grandfather|||||||नाना||||||||外公 (外祖父)||||||äidinisä|
+ma.sis|ma sis|famil|||maternal aunt||||||خاله‎|मौसी||||||||姨||||||täti (äidin sisko)|
 Madagasi|Madagasi|dexa|MG||Madagascar|||Madagascar||||||||||||||||||Madagaskar|Madagaskar
 madagasi.di|madagasi di||||Malagasy|||malgache||||||||||||||||||madagaskarilainen (malagassi)|madagaskarski; malagaski
 maf|maf|||ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|pardon (forgiveness; sorry)|||perdón||||माफ़|||maaf||af (affetme)|||||ごめんなさい|||pardono|anteeksi|przepraszam!
@@ -2961,6 +2977,7 @@ nam.tikete|nam tikete||||nametag|||gafete (etiqueta de identificación)|||||||||
 nama|nama|||swa:nyama, hau:nama, rwa:xho:zul:inyama, sot:nama|meat (flesh)||viande|carne|carne|мясо||गोश्त (मांस)|মাংস||daging||et|nyama||肉||肉|고기|thịt|viando|liha|mięso
 Namibia|Namibia|dexa|NA||Namibia|||Namibia|||||||||||||||||Namibio|Namibia|Namibia
 nan|nan|||zho:男 (nán), jpn:男 (nan), kor:남 (nam), vie:nam + fas: نر‎ (nar), hin:नर (nar), ben:নর (nôr), tel:నరుడు (naruḍu) + eng:man, deu:Mann + tam:ஆண் (āṇ)|male|||masculino (macho)||||||||||||||男|||viro|uros (mies)|męski
+nan.per (man)|nan per (man)|famil|||husband|||esposo|esposo|||||||||||||||||aviomies|małżonek
 nanas|nanas|bio||may:nanas, swa:nanasi, hin:अनन्नास (anānnas), rus:ананас (ananas)|pineapple|||piña||ананас|||||nanas|||nanasi|||||||ananaso|ananas|ananans
 nano|nano|numbe|||nano-|||nano-||||||||||||||||||nano-|nano-
 nano.mitre|nano mitre|unomete|nm||nanometer|||nanometre||||||||||||||||||nanometri|nanometr
@@ -3051,6 +3068,7 @@ neu.Yorke.siti|neu Yorke siti|site|US||New York City||||||||||||||||||||||Stan N
 neu.Zelande|neu Zelande|dexa|NZ||New Zealand|||Nueva Zelanda||||||||||||||||||Uusi-Seelanti|Nowa Zelandia
 Nevis|Nevis|dexa|||Nevis|||Nieves||||||||||||||||||Nevis|Nevis
 ni|ni|||zho:女 (nǚ), yue:女 (neoi), kor:녀 (nyeo), vie:nữ  + hin:-नी (-ni), ben:-ণী (-ni), tam:-னி (-ṉi) + deu:-in|female|||mujer (hembra)||||||||||||女||女|||ino|naaras|kobieta; kobiecy
+ni.per (fem)|ni per (fem)|famil|||wife|||esposa|esposa|||||||||||||||||vaimo|małżonka
 nia|nia|||ara: نِيَّة‎ (niyya), hin:नीयत (niyat), may:niat, swa:nia, tur:niyet|intention (purpose)||intention|intención (intento)|intenção|намерение||नीयत (इरादा)|||niat|نِيَّة‎|niyet|nia||意图||意図|의도|ý đồ|celo|aie (aikomus, tarkoitus)|
 nice|nice|||ben:নিচে (nice), hin:नीचे (nīce), urd:(nīce), rus:ниже (niže)|underside (underneath)||dessous|parte inferior||||||||||||||下||||alapuoli|spód
 nice.di|nice di||||lower (inferior)|||inferior||||||||||||||||||ala-|poniższy
@@ -3159,6 +3177,11 @@ ox|oxe|yum 008|O|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:ки
 ox.id|oxide||||oxide|Oxid|oxyde|óxide|óxide|окись (оксид)||||||||||氧化物|||||oksido|oksidi|tlenek
 P|P||||P||P|P|P|P||P|P||P|P|P|P||P||P|P|P|P|P|P
 pa|pa|famil||eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|father (dad, papa)||pere (papa)|padre (papá)|pai|отец (папа)||पिता (बाप, पिदर)|আব্বা (পিতা, বাবা)||bapa (bapak, ayah)|أَب‎|baba (ata)|baba||爸爸||お父さん (父, パパ)|아빠|ba (bố)|patro|isä|ojciec
+pa.bra|pa bra|famil|||paternal uncle||||||عمو|काका||||||||||||||setä|
+pa.di|pa di|famil|||fatherly (paternal)||paternel|paternal|paternal|отеческий||||||||||||||||isällinen|
+pa.ma|pa ma|famil|||paternal grandmother|||||||दादी||||||||奶奶 (祖母)||||||isänäiti|
+pa.pa|pa pa|famil|||paternal grandfather|||||||दादा||||||||爷爷 (祖父)||||||isänisä|
+pa.sis|pa sis|famil|||paternal aunt||||||عمه‎|बूआ||||||||姑||||||täti (isän sisko)|
 paci|paci|bio|Aves|hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)|bird||oiseau|pájaro (ave)|pássaro (ave)|птица||पक्षी|পাখী||burung (manuk)|طَائِر‎|kuş|ndege||鸟 (雀)||鳥 (鳥類)|새|chim|birdo|lintu|ptak
 paci.logi|paci logi||||ornithology (birdlore)||ornithologie|ornitología|ornitologia|орнитология||पक्षीविज्ञान|পক্ষীবিজ্ঞান||ilmu burung (ornitologi)|عَلِمَ الطَائِر‎|kuş bilimi|||鸟类学||鳥類学|조류학|điểu học|ornitologio|lintutiede (ornitologia)|ornitologia
 pada|pada|||tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)|fall|||caer||||||||||||||||||pudota (tipahtaa)|paść, padać, upaść, upadać
@@ -3206,10 +3229,10 @@ papagai|papagai|bio|Psittaciformes|ara:(babbaḡāʾ), tur:papağan, spa:papagay
 papaya|papaya|bio||eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), hin:पपीता (papītā), ben:পেঁপে (pẽpe)|papaya||papaye|papaya|mamão (papaia)|папайя||पपीता|পেঁপে||pepaya (betik)||papaya|papai||木瓜||パパイヤ|파파야|đu đủ|papajo|papaija|papaja
 papir|papir|||deu:Papier, eng:paper, spa:por:papel, fra:pol:papier|document (paper)|||artículo (documento)|||||||||||||||||||dokument
 Papua.neu.Ginia|Papua neu Ginia|dexa|PG||Papua New Guinea|||Papúa Nueva Guinea||||||||||||||||||Papua Uusi-Guinea|Papua Nowa Gwinea
-par|par|||eng:peer, fra:pair,  spa:por:par, deu:Pere, hin:बराबर (barābar), fas:urd: برابر‎ (barâbar)|even (level, peer, equal)||pair (pareil, egal)|equilibrado (par)|igual (par)|равный||बराबर||||||||||||||tasainen (tasavertainen)|równy
+par|par|||eng:peer, fra:pair, spa:por:par, ita:pari, rus:пара (para) + fas: برابر‎ (barâbar), hin:बराबर (barābar), ben:বরাবর (bôrabôr), tur:beraber, swa:barabara|even (equal, level, peer)||pair (pareil, egal)|equilibrado (par)|igual (par)|равный|برابر‎|बराबर||||||||||||||tasainen (tasavertainen)|równy
 par.fase|par fase||||level||niveau|nivel|nivel|уровень||||||مستوى|seviye|||水平|||||nivelo|taso|
 par.jen|par jen||||peer|||equilibrado (par)|par|ровня||||||||||同辈||同輩||||vertainen|równy
-par.nume|par nume||||even number||nombre pair|número par||чётное число|||||||çift sayı|||偶数||偶数|짝수||para nombro|parillinen luku|
+par.ta|parta||||equality (parity)||parité|||равенство (паритет)|برابری‎|||||||||||||||tasavertaisuus|
 par.veze.ta|par vezeta||||equilibrium (balance)||équilibre|equilibrio|equilíbrio|равновесие (баланс)||संतुलन|||keseimbangan|تَوَازُن‎|denge|||平衡||均衡 (平衡)|평형|sự thăng bằng|ekvilibro|tasapaino|równowaga
 Paraguai|Paraguai|dexa|PY||Paraguay|||Paraguay||||||||||||||||||Paraguai|Paragwaj
 param|param|||eng:parameter, fra:paramètre, spa:por:parametro, jpn:パラメーター (paramētā), kor:파라미터 (paramiteo)|parameter (argument, input variable)||paramètre|parámetro|parâmetro|параметр (аргумент)||||||||||参数||引数 (パラメーター)|파라미터|||parametri (argumentti)|parametr (argument, wartość wejściowa)
@@ -3219,7 +3242,7 @@ parce.di|parce di||||broken (shattered)|||roto||||||||||||||||||rikki (palasina)
 parce.dipe|parce dipe||||collapse||||||||||||||||||||||zapaść się (zapadać się, runąć)
 parce.kai|parce kai||||burst (pop)|||reventar||||||||||||爆裂||弾ける|||||pękać (rozrywać się)
 parde|parde|||ben:পরদা (pôrda), hin:पर्दा (pardā), tur:perde|curtain|||cortina||||पर्दा|পরদা||||perde||||||||kurteno|verhot|zasłona, kurtyna
-pari|pari|||hin:परी (parī), ben:পরী (pôri), may:tur:peri, fas: پری‎ (pari) + eng:fairy|fairy (faery)||fée|hada|fada|фея||परी (अप्सरा)|পরী||peri||peri|kichimbakazi|||||||feo|keiju|wróżka
+pari|pari|||fas: پری‎ (pari), hin:परी (parī), ben:পরী (pôri), may:tur:peri, eng:fairy; peri, fra:péri, deu:Peri, rus:пери (peri)|fairy (faery)||fée|hada|fada|фея||परी (अप्सरा)|পরী||peri||peri|kichimbakazi|||||||feo|keiju|wróżka
 pari.dexa|pari dexa||||fairyland (paradise)||pays des fées (paradis)||mundo das fadas (paraíso)|||परियों का देश||||||||仙境||仙境|선경|tiên cảnh||satumaa (paratiisi)|
 pari.kata|pari kata||||fairy tale||conte de fées|cuento de hadas|conto de fadas|сказка||परीकथा|পরী কাহিনী|||||||童话|||||fabelo|satu|baśń
 Paris|Paris|xefsite|FR||Paris||Paris|||||||||||||||||||Pariisi|Paryż
@@ -3295,7 +3318,12 @@ pente|pente|||eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (
 pente.broxa|pente broxa||||paintbrush||pinceau|pincel|pincel|кисть||||||فُرْشَاة‎ الطِلَاء‎||||画笔||絵筆|화필||peniko|pensseli (sivellin)|
 pente.ja|pente ja||||painter|||pintor||художник||||||||||||画家 (絵かき)||||maalari|malarz
 pente.tela|pente tela||||canvas||canevas (toile)|tela|tela|полотно||||||||||画布|||||kanvaso|taulukangas|
+per|per|||deu:Paar, eng:pair, fra:paire, spa:por:par, rus:пара (para), yue:啤 (pe1), jpn:ペア (pea), kor:페어 (peeo), swa:pea|pair (couple)|Paar|paire|par (pareja)|par (parelha)|||||||||jozi (pea)||双 (对)|對|対 (ペア)|한쌍 (페어)|đôi|duopo|pari (kaksikko)|
+per.cin|per cin|famil|||parent-in-law|||||||||||||||||||||appivanhempi|
+per.ma|per ma|famil|||mother-in-law||belle-mère|suegra|sogra||||||||||||||||bopatrino|anoppi|
+per.nume|per nume||||even number||nombre pair|número par||чётное число|||||||çift sayı|||偶数||偶数|짝수||para nombro|parillinen luku|
 per.ox.id|peroxide|kim|||peroxide|Peroxid|peroxyde|peróxido|peróxido|перекись (пероксид)||||||||||过氧化物|過氧化物|過酸化物||||peroksidi|
+per.pa|per pa|famil|||father-in-law||beau-père|suegro|sogro||||||||||||||||bopatro|appi|
 pera|pera|bio||eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea + kor:배 (bae)|pear||poire|pera|pera|груша||नाशपाती|নাশপাতি||pir|كُمَّثْرَى‎|armut|pea||梨||梨|배 (서양배)|lê|piro|päärynä|gruszka
 perex|perex|||eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan), ben:পেরেশান (pereśan)|perished (ruined, devastated, wretched)|||||||परेशान|||||perişan|||||||||hajalla|
 perex.fa|perex fa||||perish (ruin, dishevel, devastate, desolate)||périr|perecer|perecer||||||||perişan etmek|||||||||hajottaa (hävittää, raunioittaa)|

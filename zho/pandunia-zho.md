@@ -989,6 +989,9 @@ lutesi yum - 镥
 ## M  
 
 ma - 妈妈  
+ma ma - 外婆 (外祖母)  
+ma pa - 外公 (外祖父)  
+ma sis - 姨  
 magen yum - 镁  
 magi ja - 魔法师  
 magi liki - 魔力  
@@ -1198,6 +1201,9 @@ oxide - 氧化物
 ## P  
 
 pa - 爸爸  
+pa ma - 奶奶 (祖母)  
+pa pa - 爷爷 (祖父)  
+pa sis - 姑  
 paci - 鸟 (雀)  
 paci logi - 鸟类学  
 pagri - 包头  
@@ -1213,7 +1219,6 @@ papagai - 鹉鹦
 papaya - 木瓜  
 par fase - 水平  
 par jen - 同辈  
-par nume - 偶数  
 par vezeta - 平衡  
 param - 参数  
 parce kai - 爆裂  
@@ -1248,6 +1253,8 @@ pende sor - 挂锁
 pente - 油漆 (颜料)  
 pente broxa - 画笔  
 pente tela - 画布  
+per - 双 (对)  
+per nume - 偶数  
 peroxide - 过氧化物  
 pera - 梨  
 pesa - 钱  

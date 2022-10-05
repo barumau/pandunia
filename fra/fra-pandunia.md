@@ -245,7 +245,9 @@ basketball - baske bol
 bassin - basen  
 bateau - nave  
 beau - mei  
+beau-père - per pa  
 beauté - meita  
+belle-mère - per ma  
 bengali - bangla baxa  
 berceau - lala bede  
 berceause - lala gani  
@@ -821,6 +823,8 @@ gombo - bamia
 gorille - gorila  
 goule - gule  
 gouvernement - politi  
+grand-mère - cin ma  
+grand-père - cin pa  
 granit - granite  
 gratitude - xukurta  
 gravire - grave  
@@ -1106,6 +1110,7 @@ marché (bazar) - bazar
 mardi - den du  
 margay (chat-tigre) - margai  
 marguerite - baku margarite  
+mariage - gam  
 Maroc - Magribi dexa  
 Mars - Marse  
 marécage (marais) - poto stan  
@@ -1114,6 +1119,7 @@ masse - masa
 mat (opaque) - foto mata di  
 match - mece  
 matelot - hai vala  
+maternel - ma di  
 mathématiques - hisabu logi  
 matière - mate  
 matérialisme - mate lona  
@@ -1239,7 +1245,7 @@ noir - kala
 noit - noce  
 nom - nam  
 nombre (numéro) - nume  
-nombre pair - par nume  
+nombre pair - per nume  
 non (ne...pas) - no  
 non-binaire - nobi  
 nord - norde  
@@ -1287,6 +1293,7 @@ oiseau - paci
 ombrelle (parasol) - sol cati  
 on - jen (jen men)  
 oncille - bagre oselote  
+oncle - cin bra  
 onde - onda  
 option - cunbil  
 or - auro  
@@ -1330,6 +1337,7 @@ page - yepa late
 pain - pang  
 pair (pareil) - sam bei  
 pair (pareil, egal) - par  
+paire - per  
 paix - pase  
 palais (château, manoir) - dai dom  
 palais de la bouche - boka cati  
@@ -1359,6 +1367,7 @@ pardonner - fa maf
 parent (géniteur) - cin  
 parfait - perfete  
 Paris - Paris  
+parité - parta  
 parler - fa loga  
 parole (mots) - loga  
 part - fen  
@@ -1369,6 +1378,7 @@ passeport - pasporte
 passer - fa dura  
 passer - pas  
 pastèque - arbuza  
+paternel - pa di  
 pathologie - pati logi  
 patient - pati jen  
 patrie - dom dexa  
@@ -1779,6 +1789,7 @@ table - meza
 tableau (panneau) - bano  
 tablette de chocolat - coklate kane  
 tantale - tantal yum  
+tante - cin sis  
 tapioca - manioka fufu  
 tarte - pai  
 tasse à thé - cai kupa  
@@ -2023,6 +2034,7 @@ zéro - siro
 épingle - pin  
 épistémologie - san logi  
 éponge - esponje  
+époux - gam per  
 épreuve - teste  
 épée - gem  
 équilibre - par vezeta  

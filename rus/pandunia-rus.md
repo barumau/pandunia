@@ -307,6 +307,10 @@ ceri - черешня
 cesi yum - цезий  
 ceti - семь (7)  
 cili - перец (паприка)  
+cin bra - дядя  
+cin ma - бабушка  
+cin pa - дедушка  
+cin sis - тётя  
 cing - просить  
 cini - фарфор  
 cira - рвать  
@@ -1092,6 +1096,7 @@ lutesi yum - лютеций
 ## M  
 
 ma - мать (мама)  
+ma di - материнский  
 magen yum - магний  
 magi ja - чародей (маг)  
 Magribi dexa - Марокко  
@@ -1320,6 +1325,7 @@ oxide - окись (оксид)
 ## P  
 
 pa - отец (папа)  
+pa di - отеческий  
 paci - птица  
 paci logi - орнитология  
 pada di - упавший  (падший)  
@@ -1341,7 +1347,7 @@ papaya - папайя
 par - равный  
 par fase - уровень  
 par jen - ровня  
-par nume - чётное число  
+parta - равенство (паритет)  
 par vezeta - равновесие (баланс)  
 param - параметр (аргумент)  
 parce - кусок  
@@ -1381,6 +1387,7 @@ pente - картина
 pente broxa - кисть  
 pente ja - художник  
 pente tela - полотно  
+per nume - чётное число  
 peroxide - перекись (пероксид)  
 pera - груша  
 pesa - деньги  

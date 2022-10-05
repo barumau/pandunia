@@ -308,7 +308,7 @@
 **doze** *ración (dosis)* ← eng:por:fra:dose, rus:доза (doza), deu:spa:dosis, tur:doz, may:dos  
 **drama** *drama* ← eng:spa:por:may:swa:drama, fra:drame, rus:дра́ма, ara:دْرَامَا‎ (drāmā), hin:ड्रामा (ḍrāmā), jpn:ドラマ (dorama)  
 **droge** *droga (narcótico)* ← eng:drug, spa:droga, fra:drogue, deu:Droge  
-**du** *dos (2)* ← fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul)  
+**du** *dos (2)* ← fra:deux, spa:dos, rus:два (dva), hin:दो (do), ben:দুই (dui) + may:dua + kor:둘 (dul) + zho:對 (duì), yue:對 (deoi3), vie:đôi  
 **dua** *rezo (oración)* ← ara: دُعَاء‏  (duʿāʾ), hin:दुआ (duā), swa:tur:dua, may:doa + zho:祈祷 (dǎo), jpn:禱 (tō), kor:도 (do)  
 **dubna yum** *dubnio* ← eng:dubnium, fra:dubnium, spa:dubnio, por:dúbnio, rus:дубний, ²нильсборий, zho: (dù), jpn:ドブニウム, kor:더브늄, vie:dubni, hin:डब्नियम, ben:ডুবনিয়াম, may:dubnium, swa:dubni, ara: دبنيوم  
 **dudu** *insecto* ← swa:mdudu, ara: دُود (dūd)  
@@ -448,6 +448,7 @@
 **gali** *calle* ← hin:गली (galī), ben:গলি (gôli) + fra:allée, eng:alley, rus:аллея (alleya) + yue:街 (gaai1), jpn: 街路 (gairo) + spa:calle + kor:거리 (geori)  
 **galope** *galope* ← eng:gallop, fra:galop, spa:por:galope, rus:галоп (galop)  
 **galte** *error* ← ara:(ğalṭa), hin:ग़लती (ġaltī), swa:ghalati, tur:galat, fas:(ğalat),  
+**gam** *casamiento* ← eng:-gamy, fra:-gamie, spa:por:-gamia, rus:-гамия (-gamiya)  
 **gamba** *camarón (gamba)* ← spa:por:gamba, ara: جَمْبَرِي‎ (jambarī) + swa:kamba  
 **gamel** *camello* ← ara:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) eng:camel, spa:camello, por:camelo, swa:ngamia  
 **gamo** *afecto (emoción)* ← zho:感 (gǎn), yue:感 (gam3), jpn:感 (kan), kor:감 (gam), vie:cảm  
@@ -1127,12 +1128,12 @@
 **papagai** *loro (papagayo)* ← ara:(babbaḡāʾ), tur:papağan, spa:papagayo, por:papagaio, deu:Papagei, hun:papagáj, rus:попугай (popugay)  
 **papaya** *papaya* ← eng:spa:tur:papaya, fra:papaye, swa:papai, por:papaia, rus:папайя (papayya), jpn:パパイヤ (papaiya), kor:파파야 (papaya), hin:पपीता (papītā), ben:পেঁপে (pẽpe)  
 **papir** *artículo (documento)* ← deu:Papier, eng:paper, spa:por:papel, fra:pol:papier  
-**par** *equilibrado (par)* ← eng:peer, fra:pair,  spa:por:par, deu:Pere, hin:बराबर (barābar), fas:urd: برابر‎ (barâbar)  
+**par** *equilibrado (par)* ← eng:peer, fra:pair, spa:por:par, ita:pari, rus:пара (para) + fas: برابر‎ (barâbar), hin:बराबर (barābar), ben:বরাবর (bôrabôr), tur:beraber, swa:barabara  
 **param** *parámetro* ← eng:parameter, fra:paramètre, spa:por:parametro, jpn:パラメーター (paramētā), kor:파라미터 (paramiteo)  
 **paraya** *paria* ← hin:पराया (parāyā), eng:pariah, rus:пария (pariya), spa:paria  
 **parce** *fragmento (pedazo)* ← fas:(parče), tur:parça, hin:पारचा (pārcā), eng:part, por:spa:parte  
 **parde** *cortina* ← ben:পরদা (pôrda), hin:पर्दा (pardā), tur:perde  
-**pari** *hada* ← hin:परी (parī), ben:পরী (pôri), may:tur:peri, fas: پری‎ (pari) + eng:fairy  
+**pari** *hada* ← fas: پری‎ (pari), hin:परी (parī), ben:পরী (pôri), may:tur:peri, eng:fairy; peri, fra:péri, deu:Peri, rus:пери (peri)  
 **parke** *parque* ← eng:deu:tur:pol:park, spa:por:parque, fra:parc, rus:парк (park), hin:पार्क (pārk)  
 **parne** *helecho* ← eng:fern, rus:папоротник (paporotnik), hin:फर्न (pharna), ben:ফার্ন (phārna)  
 **parti** *partido (grupo)* ← eng:party, deu:Partei, spa:por:partido, fra:partie, tur:parti, pol:partia, rus:партия (partiya)  
@@ -1154,6 +1155,7 @@
 **pende** *colgar* ← eng:pendant, por:fra:pender  
 **penis** *pene* ← eng:tur:may:penis, spa:pene, por:fra:pénis, rus:пенис (penis)  
 **pente** *pintura* ← eng:paint, spa:por:pintura, fra:peinture, nld:pek, jpn:ペンキ (penki), hin:पेंट (penṭa)  
+**per** *par (pareja)* ← deu:Paar, eng:pair, fra:paire, spa:por:par, rus:пара (para), yue:啤 (pe1), jpn:ペア (pea), kor:페어 (peeo), swa:pea  
 **pera** *pera* ← eng:pear, fra:poire, spa:por:pera, may:pir, swa:pea + kor:배 (bae)  
 **perex** ** ← eng:perish, fra:périr, spa:por:perecer + fas: پریش‎ (parêš), tur:perişan, hin:परेशान (pareśan), ben:পেরেশান (pereśan)  
 **pesa** *dinero (plata)* ← hin:पैसा (paisā), mar:पैसा (paisā), pnb:ਪੈਸਾ (pēsā), guj:પૈસો (paiso), ara:(bēzāt), swa:pesa + spa:peso  

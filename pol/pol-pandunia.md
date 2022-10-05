@@ -118,7 +118,9 @@
  - cen ding  
  - ceng bede  
  - cese  
+ - cin bra  
  - cin cin  
+ - cin sis  
  - cing  
  - cing na  
  - cira tela  
@@ -276,6 +278,10 @@
  - fulan  
  - fute marke  
  - gala  
+ - gam cin  
+ - gam ma  
+ - gam pa  
+ - gam sau  
  - gan mosim  
  - gana  
  - gana kalam  
@@ -475,6 +481,11 @@
  - lumen  
  - luna keke  
  - lung dou  
+ - ma bra  
+ - ma di  
+ - ma ma  
+ - ma pa  
+ - ma sis  
  - magi liki  
  - maltos  
  - manioka fufu  
@@ -548,12 +559,17 @@
  - nume zi  
  - Oberon  
  - oskope  
+ - pa bra  
+ - pa di  
+ - pa ma  
+ - pa pa  
+ - pa sis  
  - paka  
  - palaba  
  - pan mime  
  - par fase  
- - par nume  
  - pari dexa  
+ - parta  
  - pas dau  
  - pas loga  
  - pedi  
@@ -566,6 +582,11 @@
  - pena kalam  
  - pente broxa  
  - pente tela  
+ - per  
+ - per cin  
+ - per ma  
+ - per nume  
+ - per pa  
  - perex  
  - perex fa  
  - peroxide  
@@ -1047,6 +1068,7 @@ azjatycki - asia
 azot - nitre  
 aż do - hata  
 B - B  
+babcia (babka) - cin ma  
 bagaż - bagaje  
 bagietka - kane pang  
 bagno (moczary) - poto stan  
@@ -1470,6 +1492,7 @@ dystans - tele
 dystans - teleta  
 dywan - dipe tela  
 dzban, dzbanek; słój, słoik; wazon - jara  
+dziadek (dziad) - cin pa  
 działka (teren) - geo tika  
 działo - dai pau  
 dziecko (nieletni) - baca  
@@ -2403,6 +2426,10 @@ Mauritius - Moris
 Maya - maya  
 małpa (znak na - adres zi  
 mały - xiu  
+małżeństwo, związek małżeński - gam  
+małżonek - nan per (man)  
+małżonek (małżonka) - gam per  
+małżonka - ni per (fem)  
 mech - mos  
 mecz, rywalizacja - mece  
 medalion, medal - medal  
@@ -2852,6 +2879,7 @@ ołtarz - puja meza
 ołów - plumbe  
 oś - axe  
 ośmiornica - ohtopus  
+ożeniony, zamężny, w związku małżeńskim - gam di  
 ożenić się, poślubić, wyjść za mąż - fa gami  
 P - P  
 pachnieć - fa aroma  

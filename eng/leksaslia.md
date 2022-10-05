@@ -308,7 +308,7 @@
 **doze** *portion (dose)* ← English:Portuguese:French:dose, Russian:доза (doza), deu:Spanish:dosis, Turkish:doz, Malay:dos  
 **drama** *drama* ← English:Spanish:Portuguese:Malay:Swahili:drama, French:drame, Russian:дра́ма, Arabic:دْرَامَا‎ (drāmā), Hindi:ड्रामा (ḍrāmā), Japanese:ドラマ (dorama)  
 **droge** *drug (intoxicating substance)* ← English:drug, Spanish:droga, French:drogue, deu:Droge  
-**du** *two (2)* ← French:deux, Spanish:dos, Russian:два (dva), Hindi:दो (do), Bengali:দুই (dui) + Malay:dua + Korean:둘 (dul)  
+**du** *two (2)* ← French:deux, Spanish:dos, Russian:два (dva), Hindi:दो (do), Bengali:দুই (dui) + Malay:dua + Korean:둘 (dul) + Mandarin:對 (duì), Cantonese:對 (deoi3), Vietnamese:đôi  
 **dua** *prayer* ← Arabic: دُعَاء‏  (duʿāʾ), Hindi:दुआ (duā), Swahili:Turkish:dua, Malay:doa + Mandarin:祈祷 (dǎo), Japanese:禱 (tō), Korean:도 (do)  
 **dubna yum** *dubnium* ← English:dubnium, French:dubnium, Spanish:dubnio, Portuguese:dúbnio, Russian:дубний, ²нильсборий, Mandarin: (dù), Japanese:ドブニウム, Korean:더브늄, Vietnamese:dubni, Hindi:डब्नियम, Bengali:ডুবনিয়াম, Malay:dubnium, Swahili:dubni, Arabic: دبنيوم  
 **dudu** *insect* ← Swahili:mdudu, Arabic: دُود (dūd)  
@@ -448,6 +448,7 @@
 **gali** *street* ← Hindi:गली (galī), Bengali:গলি (gôli) + French:allée, English:alley, Russian:аллея (alleya) + Cantonese:街 (gaai1), Japanese: 街路 (gairo) + Spanish:calle + Korean:거리 (geori)  
 **galope** *canter and gallop* ← English:gallop, French:galop, Spanish:Portuguese:galope, Russian:галоп (galop)  
 **galte** *mistake (error, fault, blunder, bug)* ← Arabic:(ğalṭa), Hindi:ग़लती (ġaltī), Swahili:ghalati, Turkish:galat, Persian:(ğalat),  
+**gam** *marriage (matrimony)* ← English:-gamy, French:-gamie, Spanish:Portuguese:-gamia, Russian:-гамия (-gamiya)  
 **gamba** *shrimp (prawn)* ← Spanish:Portuguese:gamba, Arabic: جَمْبَرِي‎ (jambarī) + Swahili:kamba  
 **gamel** *camel* ← Arabic:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) English:camel, Spanish:camello, Portuguese:camelo, Swahili:ngamia  
 **gamo** *emotion (feeling)* ← Mandarin:感 (gǎn), Cantonese:感 (gam3), Japanese:感 (kan), Korean:감 (gam), Vietnamese:cảm  
@@ -1127,12 +1128,12 @@
 **papagai** *parrot (parakeet)* ← Arabic:(babbaḡāʾ), Turkish:papağan, Spanish:papagayo, Portuguese:papagaio, deu:Papagei, Hungarian:papagáj, Russian:попугай (popugay)  
 **papaya** *papaya* ← English:Spanish:Turkish:papaya, French:papaye, Swahili:papai, Portuguese:papaia, Russian:папайя (papayya), Japanese:パパイヤ (papaiya), Korean:파파야 (papaya), Hindi:पपीता (papītā), Bengali:পেঁপে (pẽpe)  
 **papir** *document (paper)* ← deu:Papier, English:paper, Spanish:Portuguese:papel, French:Polish:papier  
-**par** *even (level, peer, equal)* ← English:peer, French:pair,  Spanish:Portuguese:par, deu:Pere, Hindi:बराबर (barābar), Persian:Urdu: برابر‎ (barâbar)  
+**par** *even (equal, level, peer)* ← English:peer, French:pair, Spanish:Portuguese:par, Italian:pari, Russian:пара (para) + Persian: برابر‎ (barâbar), Hindi:बराबर (barābar), Bengali:বরাবর (bôrabôr), Turkish:beraber, Swahili:barabara  
 **param** *parameter (argument, input variable)* ← English:parameter, French:paramètre, Spanish:Portuguese:parametro, Japanese:パラメーター (paramētā), Korean:파라미터 (paramiteo)  
 **paraya** *outcast (pariah)* ← Hindi:पराया (parāyā), English:pariah, Russian:пария (pariya), Spanish:paria  
 **parce** *piece (fragment, shred, morsel, crumb, shard)* ← Persian:(parče), Turkish:parça, Hindi:पारचा (pārcā), English:part, Portuguese:Spanish:parte  
 **parde** *curtain* ← Bengali:পরদা (pôrda), Hindi:पर्दा (pardā), Turkish:perde  
-**pari** *fairy (faery)* ← Hindi:परी (parī), Bengali:পরী (pôri), Malay:Turkish:peri, Persian: پری‎ (pari) + English:fairy  
+**pari** *fairy (faery)* ← Persian: پری‎ (pari), Hindi:परी (parī), Bengali:পরী (pôri), Malay:Turkish:peri, English:fairy; peri, French:péri, deu:Peri, Russian:пери (peri)  
 **parke** *park (garden)* ← English:deu:Turkish:Polish:park, Spanish:Portuguese:parque, French:parc, Russian:парк (park), Hindi:पार्क (pārk)  
 **parne** *fern* ← English:fern, Russian:папоротник (paporotnik), Hindi:फर्न (pharna), Bengali:ফার্ন (phārna)  
 **parti** *party (group)* ← English:party, deu:Partei, Spanish:Portuguese:partido, French:partie, Turkish:parti, Polish:partia, Russian:партия (partiya)  
@@ -1154,6 +1155,7 @@
 **pende** *hang (dangle)* ← English:pendant, Portuguese:French:pender  
 **penis** *penis (phallus)* ← English:Turkish:Malay:penis, Spanish:pene, Portuguese:French:pénis, Russian:пенис (penis)  
 **pente** *paint* ← English:paint, Spanish:Portuguese:pintura, French:peinture, nld:pek, Japanese:ペンキ (penki), Hindi:पेंट (penṭa)  
+**per** *pair (couple)* ← deu:Paar, English:pair, French:paire, Spanish:Portuguese:par, Russian:пара (para), Cantonese:啤 (pe1), Japanese:ペア (pea), Korean:페어 (peeo), Swahili:pea  
 **pera** *pear* ← English:pear, French:poire, Spanish:Portuguese:pera, Malay:pir, Swahili:pea + Korean:배 (bae)  
 **perex** *perished (ruined, devastated, wretched)* ← English:perish, French:périr, Spanish:Portuguese:perecer + Persian: پریش‎ (parêš), Turkish:perişan, Hindi:परेशान (pareśan), Bengali:পেরেশান (pereśan)  
 **pesa** *money* ← Hindi:पैसा (paisā), Marathi:पैसा (paisā), Punjabi:ਪੈਸਾ (pēsā), Gujarati:પૈસો (paiso), Arabic:(bēzāt), Swahili:pesa + Spanish:peso  

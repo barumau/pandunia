@@ -271,6 +271,7 @@ attractive - atratevi
 attribute (charasteristic, quality, feature, description, property) - sifa  
 attributive postposition - di  
 August - mes bati  
+aunt - cin sis  
 auspicious (promising) - bon sin di  
 Australia - Australia  
 Australian Aboriginal - asal Australia jen  
@@ -1324,6 +1325,7 @@ enzyme - enzim
 episode (instalment of a drama) - filme babu  
 epistemology - san logi  
 equal - be par  
+equality (parity) - parta  
 equalize (balance, even out) - fa par  
 equator - geo par lin  
 Equatorial Guinea - Geo Par Lin Ginia  
@@ -1359,9 +1361,9 @@ europium - europa yum
 eutheism - eu deu sim  
 evaluate (review, criticise) - fa piping  
 evaluation (criticism) - piping  
+even (equal, level, peer) - par  
 even (implying extreme example) - hata di  
-even (level, peer, equal) - par  
-even number - par nume  
+even number - per nume  
 evening - xam  
 event (case, instance) - kasu  
 every (all) - pan  
@@ -1457,6 +1459,8 @@ fashion (trend) - faxon
 fast (quick, rapid, speedy) - suga  
 fat (grease) - futa  
 father (dad, papa) - pa  
+father-in-law - per pa  
+fatherly (paternal) - pa di  
 fatigue (weariness) - fatige  
 fatty (greasy) - futa di  
 fault (sin, blame, defect, guilt) - doxa  
@@ -1741,6 +1745,8 @@ gram (g) - gram
 grammar - baxa kanun  
 grammatical - baxa kanun di  
 grammatical gender - baxa jinse  
+grandfather - cin pa  
+grandmother - cin ma  
 grandparent - cin cin  
 granite - granite  
 grape - putau  
@@ -1957,6 +1963,7 @@ hunter - saide ja
 hunting (fishing) - saide  
 hurry (rush, haste; hasty, busy, hurried, swift, fast) - haste  
 hurt - fa pasi  
+husband - nan per (man)  
 hush (shh) - tix  
 hush (shh) - xux  
 hybrid (mongrel) - hibride  
@@ -2471,6 +2478,8 @@ mark (leave a mark) - fa marke
 mark (trace) - marke  
 market (bazaar) - bazar  
 market liberalism - bazar huru sim  
+marriage (matrimony) - gam  
+married - gam di  
 marry - fa gami  
 Mars - Marse  
 marsh (bog, swamp, morass) - poto stan  
@@ -2495,6 +2504,10 @@ mate (fellow member of a social group) - bei
 material (ingredient, resource) - faida xe  
 material - mate di  
 materialism - mate lona  
+maternal aunt - ma sis  
+maternal grandfather - ma pa  
+maternal grandmother - ma ma  
+maternal uncle - ma bra  
 mathematician - hisabu logija  
 mathematics (math) - hisabu logi  
 matte (opaque) - foto mata di  
@@ -2658,6 +2671,8 @@ moss - mos
 mossy - mos di  
 most (maximally) - maxim  
 mother (mom, mama) - ma  
+mother-in-law - per ma  
+motherly (maternal) - ma di  
 motion (movement) - move  
 motorcar (automobile) - moto gar  
 motorcycle - moto sikle  
@@ -2962,6 +2977,7 @@ paint (cover in paint) - fa pente
 paint - pente  
 paintbrush - pente broxa  
 painter - pente ja  
+pair (couple) - per  
 Pakistan - Pakistan  
 palace (mansion) - dai dom  
 palate - boka cati  
@@ -3000,6 +3016,7 @@ parameter (argument, input variable) - param
 parasol - sol cati  
 pardon (forgiveness; sorry) - maf  
 parent (mother or father) - cin  
+parent-in-law - per cin  
 Paris - Paris  
 park (garden) - parke  
 parrot (parakeet) - papagai  
@@ -3025,6 +3042,10 @@ password - pas loga
 past (bygone) - pas di  
 past times - cen zaman  
 paste (dough) - pasta  
+paternal aunt - pa sis  
+paternal grandfather - pa pa  
+paternal grandmother - pa ma  
+paternal uncle - pa bra  
 pathogen - pati gene xe  
 pathology - pati logi  
 patient (subject of medical treatment) - pati jen  
@@ -3885,6 +3906,7 @@ spoken (lexical) - loga di
 sponge - esponje  
 spoon - camaca  
 sport (athletics) - esporte  
+spouse (husband or wife) - gam per  
 spring (springtime) - hua mosim  
 spruce tree - pisea  
 square (tetragon) - nelu gona  
@@ -3920,6 +3942,10 @@ stem (torso, trunk, stalk) - tana
 step (degree, rank, grade, level, class) - gradu  
 step-father - vise pa  
 step-mother - vise ma  
+step-parent - gam cin  
+step-sibling - gam sau  
+stepfather - gam pa  
+stepmother - gam ma  
 stereophonic - du soni di  
 stick (adhere, paste, glue) - fa glu  
 sticker - glu grafi  
@@ -4307,6 +4333,7 @@ unambiguous - un semi di
 unambiguous - un semi di  
 unbeliever (infidel) - andin ja  
 unbeliever (infidel) - ankredija  
+uncle - cin bra  
 uncooked rice - seng varis  
 uncover (reveal) - andaka  
 under - a nice  
@@ -4507,6 +4534,7 @@ wholeness (integrity) - holota
 wide (broad) - kuan  
 widow - vidou  
 width (breadth) - kuanta  
+wife - ni per (fem)  
 wiki - viki  
 wiki article - viki makala  
 wikipedia - viki pedia  

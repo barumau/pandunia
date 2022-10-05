@@ -693,7 +693,11 @@ cili - pepper (capsicum)
 cili fun - paprika  
 cimpanzi - chimpanzee  
 cin - parent (mother or father)  
+cin bra - uncle  
 cin cin - grandparent  
+cin ma - grandmother  
+cin pa - grandfather  
+cin sis - aunt  
 cincila - chinchilla  
 cing - request (petition)  
 cing - ask (request, beg, plead; please)  
@@ -1540,6 +1544,13 @@ galope - canter and gallop
 galte - mistake (error, fault, blunder, bug)  
 galte budi - misunderstand  
 galte di - wrong (incorrect, erroneous, faulty)  
+gam - marriage (matrimony)  
+gam cin - step-parent  
+gam di - married  
+gam ma - stepmother  
+gam pa - stepfather  
+gam per - spouse (husband or wife)  
+gam sau - step-sibling  
 gamba - shrimp (prawn)  
 Gambia - Gambia  
 gamel - camel  
@@ -2669,6 +2680,11 @@ Luxemburge - Luxembourg
 ## M  
 
 ma - mother (mom, mama)  
+ma bra - maternal uncle  
+ma di - motherly (maternal)  
+ma ma - maternal grandmother  
+ma pa - maternal grandfather  
+ma sis - maternal aunt  
 Madagasi - Madagascar  
 madagasi di - Malagasy  
 maf - pardon (forgiveness; sorry)  
@@ -3019,6 +3035,7 @@ nam tikete - nametag
 nama - meat (flesh)  
 Namibia - Namibia  
 nan - male  
+nan per (man) - husband  
 nanas - pineapple  
 nano - nano-  
 nano mitre - nanometer  
@@ -3109,6 +3126,7 @@ neu Yorke siti - New York City
 neu Zelande - New Zealand  
 Nevis - Nevis  
 ni - female  
+ni per (fem) - wife  
 nia - intention (purpose)  
 nice - underside (underneath)  
 nice di - lower (inferior)  
@@ -3221,6 +3239,11 @@ oxide - oxide
 ## P  
 
 pa - father (dad, papa)  
+pa bra - paternal uncle  
+pa di - fatherly (paternal)  
+pa ma - paternal grandmother  
+pa pa - paternal grandfather  
+pa sis - paternal aunt  
 paci - bird  
 paci logi - ornithology (birdlore)  
 pada - fall  
@@ -3268,10 +3291,10 @@ papagai - parrot (parakeet)
 papaya - papaya  
 papir - document (paper)  
 Papua neu Ginia - Papua New Guinea  
-par - even (level, peer, equal)  
+par - even (equal, level, peer)  
 par fase - level  
 par jen - peer  
-par nume - even number  
+parta - equality (parity)  
 par vezeta - equilibrium (balance)  
 Paraguai - Paraguay  
 param - parameter (argument, input variable)  
@@ -3357,7 +3380,12 @@ pente - paint
 pente broxa - paintbrush  
 pente ja - painter  
 pente tela - canvas  
+per - pair (couple)  
+per cin - parent-in-law  
+per ma - mother-in-law  
+per nume - even number  
 peroxide - peroxide  
+per pa - father-in-law  
 pera - pear  
 perex - perished (ruined, devastated, wretched)  
 perex fa - perish (ruin, dishevel, devastate, desolate)  

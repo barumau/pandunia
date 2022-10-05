@@ -308,7 +308,7 @@
 **doze** *annos* ← englanti:portugali:ranska:dose, venäjä:доза (doza), deu:espanja:dosis, turkki:doz, malaiji:dos  
 **drama** *draama* ← englanti:espanja:portugali:malaiji:suahili:drama, ranska:drame, venäjä:дра́ма, arabia:دْرَامَا‎ (drāmā), hindi:ड्रामा (ḍrāmā), japani:ドラマ (dorama)  
 **droge** *huume* ← englanti:drug, espanja:droga, ranska:drogue, deu:Droge  
-**du** *kaksi (2)* ← ranska:deux, espanja:dos, venäjä:два (dva), hindi:दो (do), bangla:দুই (dui) + malaiji:dua + korea:둘 (dul)  
+**du** *kaksi (2)* ← ranska:deux, espanja:dos, venäjä:два (dva), hindi:दो (do), bangla:দুই (dui) + malaiji:dua + korea:둘 (dul) + yleiskiina:對 (duì), kantoninkiina:對 (deoi3), vietnami:đôi  
 **dua** *rukous* ← arabia: دُعَاء‏  (duʿāʾ), hindi:दुआ (duā), suahili:turkki:dua, malaiji:doa + yleiskiina:祈祷 (dǎo), japani:禱 (tō), korea:도 (do)  
 **dubna yum** *dubnium* ← englanti:dubnium, ranska:dubnium, espanja:dubnio, portugali:dúbnio, venäjä:дубний, ²нильсборий, yleiskiina: (dù), japani:ドブニウム, korea:더브늄, vietnami:dubni, hindi:डब्नियम, bangla:ডুবনিয়াম, malaiji:dubnium, suahili:dubni, arabia: دبنيوم  
 **dudu** *hyönteinen (ötökkä)* ← suahili:mdudu, arabia: دُود (dūd)  
@@ -448,6 +448,7 @@
 **gali** *katu* ← hindi:गली (galī), bangla:গলি (gôli) + ranska:allée, englanti:alley, venäjä:аллея (alleya) + kantoninkiina:街 (gaai1), japani: 街路 (gairo) + espanja:calle + korea:거리 (geori)  
 **galope** *laukka* ← englanti:gallop, ranska:galop, espanja:portugali:galope, venäjä:галоп (galop)  
 **galte** *virhe (erhe)* ← arabia:(ğalṭa), hindi:ग़लती (ġaltī), suahili:ghalati, turkki:galat, persia:(ğalat),  
+**gam** *avioliitto* ← englanti:-gamy, ranska:-gamie, espanja:portugali:-gamia, venäjä:-гамия (-gamiya)  
 **gamba** *katkarapu* ← espanja:portugali:gamba, arabia: جَمْبَرِي‎ (jambarī) + suahili:kamba  
 **gamel** *kameli* ← arabia:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) englanti:camel, espanja:camello, portugali:camelo, suahili:ngamia  
 **gamo** *tunne (mielenliikutus)* ← yleiskiina:感 (gǎn), kantoninkiina:感 (gam3), japani:感 (kan), korea:감 (gam), vietnami:cảm  
@@ -1127,12 +1128,12 @@
 **papagai** *papukaija* ← arabia:(babbaḡāʾ), turkki:papağan, espanja:papagayo, portugali:papagaio, deu:Papagei, unkari:papagáj, venäjä:попугай (popugay)  
 **papaya** *papaija* ← englanti:espanja:turkki:papaya, ranska:papaye, suahili:papai, portugali:papaia, venäjä:папайя (papayya), japani:パパイヤ (papaiya), korea:파파야 (papaya), hindi:पपीता (papītā), bangla:পেঁপে (pẽpe)  
 **papir** ** ← deu:Papier, englanti:paper, espanja:portugali:papel, ranska:puola:papier  
-**par** *tasainen (tasavertainen)* ← englanti:peer, ranska:pair,  espanja:portugali:par, deu:Pere, hindi:बराबर (barābar), persia:urdu: برابر‎ (barâbar)  
+**par** *tasainen (tasavertainen)* ← englanti:peer, ranska:pair, espanja:portugali:par, italia:pari, venäjä:пара (para) + persia: برابر‎ (barâbar), hindi:बराबर (barābar), bangla:বরাবর (bôrabôr), turkki:beraber, suahili:barabara  
 **param** *parametri (argumentti)* ← englanti:parameter, ranska:paramètre, espanja:portugali:parametro, japani:パラメーター (paramētā), korea:파라미터 (paramiteo)  
 **paraya** *hylkiö (paaria)* ← hindi:पराया (parāyā), englanti:pariah, venäjä:пария (pariya), espanja:paria  
 **parce** *palanen (murunen, riekale, sirpale)* ← persia:(parče), turkki:parça, hindi:पारचा (pārcā), englanti:part, portugali:espanja:parte  
 **parde** *verhot* ← bangla:পরদা (pôrda), hindi:पर्दा (pardā), turkki:perde  
-**pari** *keiju* ← hindi:परी (parī), bangla:পরী (pôri), malaiji:turkki:peri, persia: پری‎ (pari) + englanti:fairy  
+**pari** *keiju* ← persia: پری‎ (pari), hindi:परी (parī), bangla:পরী (pôri), malaiji:turkki:peri, englanti:fairy; peri, ranska:péri, deu:Peri, venäjä:пери (peri)  
 **parke** *tarha (puisto)* ← englanti:deu:turkki:puola:park, espanja:portugali:parque, ranska:parc, venäjä:парк (park), hindi:पार्क (pārk)  
 **parne** ** ← englanti:fern, venäjä:папоротник (paporotnik), hindi:फर्न (pharna), bangla:ফার্ন (phārna)  
 **parti** *joukko (joukkue, osapuoli, puolue)* ← englanti:party, deu:Partei, espanja:portugali:partido, ranska:partie, turkki:parti, puola:partia, venäjä:партия (partiya)  
@@ -1154,6 +1155,7 @@
 **pende** *roikuttaa* ← englanti:pendant, portugali:ranska:pender  
 **penis** *siitin (penis)* ← englanti:turkki:malaiji:penis, espanja:pene, portugali:ranska:pénis, venäjä:пенис (penis)  
 **pente** *maalata* ← englanti:paint, espanja:portugali:pintura, ranska:peinture, nld:pek, japani:ペンキ (penki), hindi:पेंट (penṭa)  
+**per** *pari (kaksikko)* ← deu:Paar, englanti:pair, ranska:paire, espanja:portugali:par, venäjä:пара (para), kantoninkiina:啤 (pe1), japani:ペア (pea), korea:페어 (peeo), suahili:pea  
 **pera** *päärynä* ← englanti:pear, ranska:poire, espanja:portugali:pera, malaiji:pir, suahili:pea + korea:배 (bae)  
 **perex** *hajalla* ← englanti:perish, ranska:périr, espanja:portugali:perecer + persia: پریش‎ (parêš), turkki:perişan, hindi:परेशान (pareśan), bangla:পেরেশান (pereśan)  
 **pesa** *raha* ← hindi:पैसा (paisā), marathi:पैसा (paisā), pandzabi:ਪੈਸਾ (pēsā), gujarati:પૈસો (paiso), arabia:(bēzāt), suahili:pesa + espanja:peso  

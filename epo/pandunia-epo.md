@@ -349,6 +349,10 @@ cetiden - semajno
 cile - Ĉilio  
 cimpanzi - ĉimpanzo  
 cin - gepatro  
+cin bra - onklo  
+cin ma - avino  
+cin pa - avo  
+cin sis - onklino  
 cincila - ĉinĉilo  
 cing - peti (bonvolu)  
 cing lai - inviti  
@@ -731,6 +735,7 @@ gali yum - galiumo
 Galia - Gaŭlio  
 galte - eraro (miso)  
 galte di - erara  
+gam - geedzeco  
 gamel - kamelo  
 gamo - emocio  
 gamo di - emocia  
@@ -1515,7 +1520,6 @@ pante - pantalonoj
 papagai - papago  
 papaya - papajo  
 par fase - nivelo  
-par nume - para nombro  
 par vezeta - ekvilibro  
 parce - ero  
 parde - kurteno  
@@ -1555,6 +1559,10 @@ penis - peniso
 pente - pentri  
 pente broxa - peniko  
 pente tela - kanvaso  
+per - duopo  
+per ma - bopatrino  
+per nume - para nombro  
+per pa - bopatro  
 pera - piro  
 pesa - mono  
 pesa diske - monero  

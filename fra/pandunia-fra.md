@@ -393,6 +393,10 @@ ceti - sept (7)
 cetiden - semaine  
 cili - piment  
 cin - parent (géniteur)  
+cin bra - oncle  
+cin ma - grand-mère  
+cin pa - grand-père  
+cin sis - tante  
 cini - porcelaine  
 cira - déchirer  
 cita - guépard  
@@ -695,6 +699,8 @@ Galia - Gaule
 galope - galop  
 galte - faute (erreur)  
 galte di - erroné  
+gam - mariage  
+gam per - époux  
 gamba - crevette  
 gamo - émotion  
 gamo hal - humeur  
@@ -1205,6 +1211,7 @@ lutesi yum - lutécium
 ## M  
 
 ma - mère (maman)  
+ma di - maternel  
 magen yum - magnésium  
 Magribi dexa - Maroc  
 mahala - quartier  
@@ -1439,6 +1446,7 @@ oxide - oxyde
 ## P  
 
 pa - pere (papa)  
+pa di - paternel  
 paci - oiseau  
 paci logi - ornithologie  
 pada di - chu  
@@ -1460,7 +1468,7 @@ papagai - perroquet
 papaya - papaye  
 par - pair (pareil, egal)  
 par fase - niveau  
-par nume - nombre pair  
+parta - parité  
 par vezeta - équilibre  
 param - paramètre  
 parce - fragment  
@@ -1504,7 +1512,11 @@ pende sor - cadenas
 pente - peinture  
 pente broxa - pinceau  
 pente tela - canevas (toile)  
+per - paire  
+per ma - belle-mère  
+per nume - nombre pair  
 peroxide - peroxyde  
+per pa - beau-père  
 pera - poire  
 perex fa - périr  
 pesa - argent  

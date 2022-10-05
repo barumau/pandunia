@@ -308,7 +308,7 @@
 **doze** *porcio (dozo)* ← angla:portugala:franca:dose, rusa:доза (doza), deu:hispana:dosis, turka:doz, malaja:dos  
 **drama** *dramo* ← angla:hispana:portugala:malaja:svahila:drama, franca:drame, rusa:дра́ма, araba:دْرَامَا‎ (drāmā), hindia:ड्रामा (ḍrāmā), japana:ドラマ (dorama)  
 **droge** ** ← angla:drug, hispana:droga, franca:drogue, deu:Droge  
-**du** *du (2)* ← franca:deux, hispana:dos, rusa:два (dva), hindia:दो (do), bengala:দুই (dui) + malaja:dua + korea:둘 (dul)  
+**du** *du (2)* ← franca:deux, hispana:dos, rusa:два (dva), hindia:दो (do), bengala:দুই (dui) + malaja:dua + korea:둘 (dul) + mandarena:對 (duì), kantona:對 (deoi3), vjetnama:đôi  
 **dua** *preĝo* ← araba: دُعَاء‏  (duʿāʾ), hindia:दुआ (duā), svahila:turka:dua, malaja:doa + mandarena:祈祷 (dǎo), japana:禱 (tō), korea:도 (do)  
 **dubna yum** *dubnio* ← angla:dubnium, franca:dubnium, hispana:dubnio, portugala:dúbnio, rusa:дубний, ²нильсборий, mandarena: (dù), japana:ドブニウム, korea:더브늄, vjetnama:dubni, hindia:डब्नियम, bengala:ডুবনিয়াম, malaja:dubnium, svahila:dubni, araba: دبنيوم  
 **dudu** *insekto* ← svahila:mdudu, araba: دُود (dūd)  
@@ -448,6 +448,7 @@
 **gali** *strato* ← hindia:गली (galī), bengala:গলি (gôli) + franca:allée, angla:alley, rusa:аллея (alleya) + kantona:街 (gaai1), japana: 街路 (gairo) + hispana:calle + korea:거리 (geori)  
 **galope** ** ← angla:gallop, franca:galop, hispana:portugala:galope, rusa:галоп (galop)  
 **galte** *eraro (miso)* ← araba:(ğalṭa), hindia:ग़लती (ġaltī), svahila:ghalati, turka:galat, persa:(ğalat),  
+**gam** *geedzeco* ← angla:-gamy, franca:-gamie, hispana:portugala:-gamia, rusa:-гамия (-gamiya)  
 **gamba** ** ← hispana:portugala:gamba, araba: جَمْبَرِي‎ (jambarī) + svahila:kamba  
 **gamel** *kamelo* ← araba:جَمَل‎ (jamal), heb:גָּמָל‎ (gamál) angla:camel, hispana:camello, portugala:camelo, svahila:ngamia  
 **gamo** *emocio* ← mandarena:感 (gǎn), kantona:感 (gam3), japana:感 (kan), korea:감 (gam), vjetnama:cảm  
@@ -1127,12 +1128,12 @@
 **papagai** *papago* ← araba:(babbaḡāʾ), turka:papağan, hispana:papagayo, portugala:papagaio, deu:Papagei, hungara:papagáj, rusa:попугай (popugay)  
 **papaya** *papajo* ← angla:hispana:turka:papaya, franca:papaye, svahila:papai, portugala:papaia, rusa:папайя (papayya), japana:パパイヤ (papaiya), korea:파파야 (papaya), hindia:पपीता (papītā), bengala:পেঁপে (pẽpe)  
 **papir** ** ← deu:Papier, angla:paper, hispana:portugala:papel, franca:polona:papier  
-**par** ** ← angla:peer, franca:pair,  hispana:portugala:par, deu:Pere, hindia:बराबर (barābar), persa:urdua: برابر‎ (barâbar)  
+**par** ** ← angla:peer, franca:pair, hispana:portugala:par, itala:pari, rusa:пара (para) + persa: برابر‎ (barâbar), hindia:बराबर (barābar), bengala:বরাবর (bôrabôr), turka:beraber, svahila:barabara  
 **param** ** ← angla:parameter, franca:paramètre, hispana:portugala:parametro, japana:パラメーター (paramētā), korea:파라미터 (paramiteo)  
 **paraya** ** ← hindia:पराया (parāyā), angla:pariah, rusa:пария (pariya), hispana:paria  
 **parce** *ero* ← persa:(parče), turka:parça, hindia:पारचा (pārcā), angla:part, portugala:hispana:parte  
 **parde** *kurteno* ← bengala:পরদা (pôrda), hindia:पर्दा (pardā), turka:perde  
-**pari** *feo* ← hindia:परी (parī), bengala:পরী (pôri), malaja:turka:peri, persa: پری‎ (pari) + angla:fairy  
+**pari** *feo* ← persa: پری‎ (pari), hindia:परी (parī), bengala:পরী (pôri), malaja:turka:peri, angla:fairy; peri, franca:péri, deu:Peri, rusa:пери (peri)  
 **parke** *parko (ĝardeno)* ← angla:deu:turka:polona:park, hispana:portugala:parque, franca:parc, rusa:парк (park), hindia:पार्क (pārk)  
 **parne** ** ← angla:fern, rusa:папоротник (paporotnik), hindia:फर्न (pharna), bengala:ফার্ন (phārna)  
 **parti** *partio* ← angla:party, deu:Partei, hispana:portugala:partido, franca:partie, turka:parti, polona:partia, rusa:партия (partiya)  
@@ -1154,6 +1155,7 @@
 **pende** ** ← angla:pendant, portugala:franca:pender  
 **penis** *peniso* ← angla:turka:malaja:penis, hispana:pene, portugala:franca:pénis, rusa:пенис (penis)  
 **pente** *pentri* ← angla:paint, hispana:portugala:pintura, franca:peinture, nld:pek, japana:ペンキ (penki), hindia:पेंट (penṭa)  
+**per** *duopo* ← deu:Paar, angla:pair, franca:paire, hispana:portugala:par, rusa:пара (para), kantona:啤 (pe1), japana:ペア (pea), korea:페어 (peeo), svahila:pea  
 **pera** *piro* ← angla:pear, franca:poire, hispana:portugala:pera, malaja:pir, svahila:pea + korea:배 (bae)  
 **perex** ** ← angla:perish, franca:périr, hispana:portugala:perecer + persa: پریش‎ (parêš), turka:perişan, hindia:परेशान (pareśan), bengala:পেরেশান (pereśan)  
 **pesa** *mono* ← hindia:पैसा (paisā), marataja:पैसा (paisā), panĝaba:ਪੈਸਾ (pēsā), guĝarata:પૈસો (paiso), araba:(bēzāt), svahila:pesa + hispana:peso  

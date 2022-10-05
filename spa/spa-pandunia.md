@@ -22,6 +22,8 @@ abrepuño - sol kentaur hua
 abrigo (chaqueta) - kote  
 abril - mes nelu  
 abrir - fa kai  
+abuela - cin ma  
+abuelo - cin pa  
 aburrido - bori di  
 aburrimiento - bori  
 acacia de copa plana - helis babul  
@@ -654,6 +656,8 @@ cartografía - karta grafi
 carvis (alcaravea) - karavi  
 carácter - zi  
 casa (hogar, residencia) - dom  
+casado - gam di  
+casamiento - gam  
 casar - fa gami  
 casco (yelmo) - sar kaska  
 casta - gene klas  
@@ -1417,6 +1421,9 @@ esperar - dele do
 espicificar (estipular) - fa xarti  
 espiral (hélice) - helis  
 esponja - esponje  
+esposa - ni per (fem)  
+esposo - nan per (man)  
+esposo o esposa - gam per  
 espárrago - asparge  
 espíritu (genio) - jini  
 esqueleto (armazón) - oste jama  
@@ -2377,6 +2384,7 @@ matemática - hisabu logi
 matemático - hisabu logija  
 material - mate di  
 materialismo - mate lona  
+maternal - ma di  
 Mauricio - Moris  
 mauritania - Muritania  
 maya - maya  
@@ -2702,7 +2710,7 @@ núcleo atómico - atom kerne
 número - nume  
 número de identificación personal - sekur nume  
 número entero - holo nume  
-número par - par nume  
+número par - per nume  
 
 ## O  
 
@@ -2840,6 +2848,7 @@ papel higiénico - tuale kaguji
 papel tapiz - mur kaguji  
 Papúa Nueva Guinea - Papua neu Ginia  
 paquete - pake  
+par (pareja) - per  
 par - sam bei  
 parada (alto) - halte  
 parada de autobús - bus halte  
@@ -2885,6 +2894,7 @@ pasta - pasta
 pastel (galleta) - keke  
 pastel (pay) - pai  
 pastel de luna - luna keke  
+paternal - pa di  
 pato - bata  
 patología - pati logi  
 patria - dom dexa  
@@ -3603,6 +3613,8 @@ Sudáfrica - Sude Afrika
 Sudán - Sudan  
 Sudán del Sur - Sude Sudan  
 Suecia - Suen  
+suegra - per ma  
+suegro - per pa  
 sueño - sona  
 sufijo - pos fixe  
 sufragio (derecho al voto) - vote haki  
@@ -3844,7 +3856,9 @@ tántalo - tantal yum
 té - cai  
 técnica - tehni  
 télugu - Telugu  
+tía - cin sis  
 Tíbet - Bote  
+tío - cin bra  
 título - tema nam  
 tóxico - toxi di  
 tú (usted) - tu  

@@ -658,7 +658,11 @@ cili - papryka
 cili fun - papryka  
 cimpanzi - szympans  
 cin - rodzic (matka lub ojciec)  
+cin bra -   
 cin cin -   
+cin ma - babcia (babka)  
+cin pa - dziadek (dziad)  
+cin sis -   
 cincila - szynszyla  
 cing -   
 cing - prosić  
@@ -1505,6 +1509,13 @@ galope - cwał (galop)
 galte - błąd (pomyłka)  
 galte budi - źle zrozumieć  
 galte di - błędny (niepoprawny)  
+gam - małżeństwo, związek małżeński  
+gam cin -   
+gam di - ożeniony, zamężny, w związku małżeńskim  
+gam ma -   
+gam pa -   
+gam per - małżonek (małżonka)  
+gam sau -   
 gamba - krewetka  
 Gambia - Gambia  
 gamel - wielbłąd, wielbłądzica  
@@ -2635,6 +2646,11 @@ Luxemburge - Luksemburg
 ## M  
 
 ma - matka (mama)  
+ma bra -   
+ma di -   
+ma ma -   
+ma pa -   
+ma sis -   
 Madagasi - Madagaskar  
 madagasi di - madagaskarski; malagaski  
 maf - przepraszam!  
@@ -2985,6 +3001,7 @@ nam tikete -
 nama - mięso  
 Namibia - Namibia  
 nan - męski  
+nan per (man) - małżonek  
 nanas - ananans  
 nano mitre - nanometr  
 naraka - piekło  
@@ -3074,6 +3091,7 @@ neu Yorke siti - Stan Nowy Jork
 neu Zelande - Nowa Zelandia  
 Nevis - Nevis  
 ni - kobieta; kobiecy  
+ni per (fem) - małżonka  
 nia -   
 nice - spód  
 nice di - poniższy  
@@ -3186,6 +3204,11 @@ oxide - tlenek
 ## P  
 
 pa - ojciec  
+pa bra -   
+pa di -   
+pa ma -   
+pa pa -   
+pa sis -   
 paci - ptak  
 paci logi - ornitologia  
 pada - paść, padać, upaść, upadać  
@@ -3236,7 +3259,7 @@ Papua neu Ginia - Papua Nowa Gwinea
 par - równy  
 par fase -   
 par jen - równy  
-par nume -   
+parta -   
 par vezeta - równowaga  
 Paraguai - Paragwaj  
 param - parametr (argument, wartość wejściowa)  
@@ -3322,7 +3345,12 @@ pente - namalować, malować
 pente broxa -   
 pente ja - malarz  
 pente tela -   
+per -   
+per cin -   
+per ma -   
+per nume -   
 peroxide -   
+per pa -   
 pera - gruszka  
 perex -   
 perex fa -   

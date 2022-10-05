@@ -286,6 +286,10 @@ cesi yum - césio
 ceti - sete (7)  
 cili - cápsico  
 cin - genitor  
+cin bra - tio  
+cin ma - avó  
+cin pa - avô  
+cin sis - tia  
 cini - porcelana  
 cira - rasgar  
 cira cira di - esfarrapado  
@@ -543,6 +547,7 @@ Galia - Gália
 galope - galope  
 galte - erro (falta)  
 galte di - errôneo  
+gam per - esposo ou esposa  
 gamba - camarão (gamba)  
 gamo - emoçao  
 gamo hal - humor  
@@ -1014,6 +1019,7 @@ lutesi yum - lutécio
 ## M  
 
 ma - mãe  
+ma di - maternal  
 magen yum - magnésio  
 magi ja - mago  
 Magribi dexa - Marrocos  
@@ -1148,6 +1154,7 @@ najis - poluição
 nam hin - sem nome  
 nam kitaba - assinar  
 nama - carne  
+nan per (man) - esposo  
 nardi - gamão  
 narko - droga (narcótico)  
 nati - nascer  
@@ -1183,6 +1190,7 @@ neu gene di - recém-nascido
 neu jen - novato (neófito)  
 neu loga - neologismo  
 neuta - novidade  
+ni per (fem) - esposa  
 nia - intenção  
 nide - ninho (vespiero)  
 nikel - níquel  
@@ -1238,6 +1246,7 @@ oxide - óxide
 ## P  
 
 pa - pai  
+pa di - paternal  
 paci - pássaro (ave)  
 paci logi - ornitologia  
 pada mosim - outono  
@@ -1296,7 +1305,10 @@ pende sor - cadeado
 pente - pintura  
 pente broxa - pincel  
 pente tela - tela  
+per - par (parelha)  
+per ma - sogra  
 peroxide - peróxido  
+per pa - sogro  
 pera - pera  
 perex fa - perecer  
 pesa - dinheiro  
