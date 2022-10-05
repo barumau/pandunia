@@ -251,6 +251,11 @@ barti - indien
 Barti Hai - océan Indien  
 baru - ours  
 barude - poudre à canon  
+barxa - pluie  
+barxa cati - parapluie  
+barxa kote - imperméable  
+barxa mosim - mousson  
+barxa sui - eaux de pluie  
 bas - assez  
 basen - bassin  
 baske - panier (panier de basketball)  
@@ -328,6 +333,7 @@ bor yum - bohrium
 boron - boron  
 botel - bouteille  
 botel tapa - capsule  
+bra - frère  
 bravo - brave  
 bravo - bravo!  
 briko - abricot (prune)  
@@ -386,6 +392,7 @@ cesi yum - césium
 ceti - sept (7)  
 cetiden - semaine  
 cili - piment  
+cin - parent (géniteur)  
 cini - porcelaine  
 cira - déchirer  
 cita - guépard  
@@ -401,6 +408,7 @@ cunbil - option
 da - il ou elle  
 damen - ils ou elles  
 damen su - leur  
+dai barxa - trombe (averse)  
 dai dom - palais (château, manoir)  
 dai hai - océan  
 dai pau - canon  
@@ -860,6 +868,7 @@ huru - libre
 ## I  
 
 i - et  
+iglu - iglou  
 iha uma - mule  
 in bum - implosion  
 in klus - y compris  
@@ -1195,6 +1204,7 @@ lutesi yum - lutécium
 
 ## M  
 
+ma - mère (maman)  
 magen yum - magnésium  
 Magribi dexa - Maroc  
 mahala - quartier  
@@ -1428,6 +1438,7 @@ oxide - oxyde
 
 ## P  
 
+pa - pere (papa)  
 paci - oiseau  
 paci logi - ornithologie  
 pada di - chu  
@@ -1619,7 +1630,6 @@ rokete lanse gi - Lance-roquettes
 Roma - Rome  
 roma kamil - Camomille Romaine  
 rose - rosée  
-roste - rôtir  
 rota leu - dans le sens antihoraire  
 rota vanu gi - toupie  
 rubi - rouge  
@@ -1672,6 +1682,7 @@ sar kexa - cheveux
 sar kexa hin - chauve  
 sata di - momentané  
 Saturne - Saturne  
+sau - frère et sœur (adelphe, germain)  
 saur - lézard  
 se - se  
 semen - l'un l'autre  
@@ -1688,6 +1699,8 @@ semi - signifier (voiloir dire)
 semi forar - sémaphore  
 semi logi - sémantique  
 sen - aîné (senior, supérieur)  
+sen bra - frère aîné (grand frère)  
+sen sis - sœur aînée (grande sœur)  
 seng - cru  
 sense - sens  
 sense xaka - tentacule  
@@ -1713,6 +1726,7 @@ sing - étoile
 sir plan - complot (conspiration)  
 sirta - célérité  
 siro - zéro  
+sis - sœur  
 siti - ville  
 so - élément (unité fondamentale)  
 sofa - canapé (sofa)  
@@ -1799,6 +1813,7 @@ teste - épreuve
 teze - argument  
 tikete - billet  
 tim - équipe  
+tipi - tipi  
 tire yo milke - tirer  
 tire yo pil - écorce  
 tis - inflammation  
@@ -1943,10 +1958,7 @@ xanti - repos
 xanti di - calme (tranquille)  
 xatan - s'opposer à  
 xatan ja - Satan  
-xava - pluie  
-xava cati - parapluie  
-xava kote - imperméable  
-xava mosim - mousson  
+xava - rôtir  
 xayu - requin  
 xe - chose  
 xe hal - situation (état de choses)  
@@ -2012,6 +2024,7 @@ you moke - pousse
 yung - melt  
 yung petra - lave  
 yung safa - fondu  
+yurta - yourte  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  
 

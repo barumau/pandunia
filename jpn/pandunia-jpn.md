@@ -121,6 +121,9 @@ bano geme - ボードゲーム
 bar vala - バーテンダー  
 bari yum - バリウム  
 baru - 熊  
+barxa - 雨  
+barxa mosim - 雨季  
+barxa sui - 雨水  
 bas - 十分  
 bata - 鴨  
 bati - 八 (8)  
@@ -684,6 +687,7 @@ huru - 自由
 
 ## I  
 
+iglu - イグルー  
 iha uma - 騾馬  
 in - 内  
 in migra - 移住する (移民する)  
@@ -740,6 +744,7 @@ jun jen - 青少年
 jun man - 男の子  
 jun moka - 若木  
 junnen - 青春時代  
+jun sis - 妹 (imōto)  
 Jupiter - 木星  
 jus - ジュース  
 juste pau ja - 狙撃兵  
@@ -992,6 +997,7 @@ lutesi yum - ルテニウム
 
 ## M  
 
+ma - お母さん (母, ママ)  
 maf - ごめんなさい  
 magen yum - マグネシウム  
 magi ja - 魔法使い  
@@ -1216,6 +1222,7 @@ oxe - 酸素
 
 ## P  
 
+pa - お父さん (父, パパ)  
 paci - 鳥 (鳥類)  
 paci logi - 鳥類学  
 pada mun - 落とし戸  
@@ -1415,6 +1422,7 @@ sar - 頭
 sar kexa - 髪の毛 (頭髪)  
 sata - 瞬間  
 Saturne - 土星  
+sau - 兄弟姉妹  
 saur - 蜥蜴  
 seku - 石 (岩)  
 seku sanaja - 石匠  
@@ -1425,6 +1433,7 @@ selge - フダンソウ (スイスチャード)
 seme dana - 種  
 semi logi - 意味論  
 sen bei - 先輩  
+sen sis - 姉 (ane)  
 seng - 生の  
 seng varis - 米  
 sense - 感覚  
@@ -1455,6 +1464,7 @@ sing - 星
 sir plan - 陰謀  
 sirta - 忍び  
 siro - 零 (０)  
+sis - 姉妹 (shimai)  
 so - 元素 (-素)  
 sofa - ソファー  
 sofita - 知恵  
@@ -1651,8 +1661,7 @@ xaman - シャーマン
 xampan - 香槟  
 xan pike - 頂点  
 xatan ja - 悪魔  
-xava - 雨  
-xava mosim - 雨季  
+xava - 焼く  
 xayu - サメ  
 xe - 事 (物)  
 xe hal - 事態  
@@ -1718,6 +1727,7 @@ you nen - 幼年時代
 you ni - 女の子  
 yung - 溶ける  
 yung petra - 溶岩  
+yurta - 包 (ゲル)  
 yuter yum - イットリウム  
 yuterbi yum - イッテルビウム  
 

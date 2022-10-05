@@ -653,6 +653,7 @@ développement - gradu mute
 
 east (orient) - dong  
 eau - sui  
+eaux de pluie - barxa sui  
 effectuer - fa asar  
 effet - asar  
 effet - exfete  
@@ -776,6 +777,9 @@ fromage - cize
 fromage blanc - panir  
 fructose - frutos  
 fruit - frute  
+frère - bra  
+frère aîné (grand frère) - sen bra  
+frère et sœur (adelphe, germain) - sau  
 frêne - yasen  
 fée - pari  
 Félicitations ! - barka  
@@ -900,13 +904,14 @@ hôtel - hotel
 ## I  
 
 ici - a ye  
+iglou - iglu  
 il ou elle - da  
 ils ou elles - damen  
 imitateur (mime) - mime ja  
 imiter - mime  
 immigrant - in migra ja  
 immigrer - in migra  
-imperméable - xava kote  
+imperméable - barxa kote  
 imploser - be in bum  
 implosion - in bum  
 important - ham di  
@@ -1178,7 +1183,7 @@ mouiller - fa xipi
 mouillé - xipi  
 moulin - molkan  
 mousse - mos  
-mousson - xava mosim  
+mousson - barxa mosim  
 moussu - mos di  
 moustique - moski  
 mouvoir (bouger) - fa kino  
@@ -1191,6 +1196,7 @@ musli - musli
 mycélium - fungu nete  
 mythe - deu kata  
 mât - masta  
+mère (maman) - ma  
 mètre - mitre  
 médias - media  
 médicament (remède) - dava xe  
@@ -1347,9 +1353,10 @@ papillon - pelpel
 paquet - pake  
 par exemple - to misal  
 paramètre - param  
-parapluie - xava cati  
+parapluie - barxa cati  
 parc - parke  
 pardonner - fa maf  
+parent (géniteur) - cin  
 parfait - perfete  
 Paris - Paris  
 parler - fa loga  
@@ -1377,6 +1384,7 @@ pelle - bele
 pelouse (gazon) - cau medan  
 perdant - xiti bai ja  
 perder - xiti  
+pere (papa) - pa  
 perfectionner (parfaire) - fa pul bon  
 peroxyde - peroxide  
 peroxyde d'hydrogène - hidre peroxide  
@@ -1430,7 +1438,7 @@ plaque tectonique - geo kaska plate
 platine - platin  
 plein - pul  
 plomb - plumbe  
-pluie - xava  
+pluie - barxa  
 plume - kalam  
 plume - pena  
 plume - pena kalam  
@@ -1629,7 +1637,7 @@ répéter - fa re
 répéter - rifete  
 réussir (avoir du succès, prospérer) - sucese  
 rêche (rugueux, gros) - karse  
-rôtir - roste  
+rôtir - xava  
 
 ## S  
 
@@ -1761,6 +1769,8 @@ sénateur - supra vakil ja
 série - seri  
 sûr (crédible, sûrement) - amen di  
 sûr - sekur  
+sœur - sis  
+sœur aînée (grande sœur) - sen sis  
 s’accroupir - lipa side  
 
 ## T  
@@ -1805,6 +1815,7 @@ théière - cai pote
 théosophie - deu sofi  
 tige - tana  
 tigre - bagre  
+tipi - tipi  
 tire à l'arc - arka suta  
 tirer - tire yo milke  
 tissu - tela  
@@ -1845,6 +1856,7 @@ tribord - nave raite
 trichotomie - tritomi  
 triple - tripli  
 trois (3) - tri  
+trombe (averse) - dai barxa  
 tropique - garma zona  
 truite - salmon  
 truite arc-en-ciel - rang arka salmon  
@@ -1957,6 +1969,7 @@ y compris - in klus
 Yahweh (Jéhovah) - Yahve  
 yaourt (yogourt) - yogur  
 Yi King - yeka kanon  
+yourte - yurta  
 ytterbium - yuterbi yum  
 yttrium - yuter yum  
 

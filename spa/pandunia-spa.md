@@ -295,6 +295,11 @@ barti - indio (hindú)
 Barti Hai - océano Índico  
 baru - oso  
 barude - pólvora  
+barxa - lluvia  
+barxa cati - parasol  
+barxa kote - impermeable  
+barxa mosim - estación lluviosa  
+barxa sui - agua de lluvia  
 bas - bastante  
 basen - piscina (alberca, lavadero)  
 baske - cesta (canasta, barquilla, aro)  
@@ -473,6 +478,7 @@ Bosna i Hercegovina - Bosnia y Herzegovina
 Bote - Tíbet  
 botel - botella  
 botel tapa - tapón (corcholata)  
+bra - hermano  
 brauza - explorar  
 brauza gi - navegador  
 bravo - bravo!  
@@ -578,6 +584,7 @@ cetiden - semana
 cile - Chile  
 cili - chile  
 cimpanzi - chimpancé  
+cin - parente (madre o padre)  
 cincila - chinchilla  
 cing - pedir (invitar; por favor)  
 cing lai - invitar  
@@ -614,6 +621,7 @@ damen - ellos o ellas
 dai - grande  
 dai anjil ja - embajador  
 dai anjilkan - embajada  
+dai barxa - chubasco (chaparrón)  
 dai dom - palacio (mansión)  
 dai hai - océano  
 dai pau - cañón  
@@ -1666,6 +1674,7 @@ idea zi - ideograma
 idiote - idiota (imbécil)  
 idiote di - estúpido (tonto)  
 idioteta - estupidez (tontería)  
+iglu - iglú  
 iha - burro (asno)  
 iha uma - mula  
 imperi - reinar (reinar como emperador)  
@@ -2295,6 +2304,7 @@ Luxemburge - Luxemburgo
 
 ## M  
 
+ma - madre (mamá)  
 Madagasi - Madagascar  
 madagasi di - malgache  
 maf - perdón  
@@ -2803,6 +2813,7 @@ oxide - óxide
 
 ## P  
 
+pa - padre (papá)  
 paci - pájaro (ave)  
 paci logi - ornitología  
 pada - caer  
@@ -3184,8 +3195,6 @@ romanse - romance
 • anromanse - arromántico  
 romanse di - romántico  
 rose - rocío  
-roste - asar (tostar)  
-roste pang - pan tostado  
 rota leu - en el sentido contrario al las agujas del reloj  
 rota raite - en el sentido del las agujas del reloj  
 rota tufan - huracán (tifón)  
@@ -3314,6 +3323,7 @@ sata - momento
 sata di - momentáneo  
 sata don - dedicar  
 Saturne - Saturno  
+sau - hermano o hermana  
 Saudi Arabi - Arabia Saudita  
 sauna - sauna  
 saur - lagarto  
@@ -3344,6 +3354,8 @@ semi - significar (querer decir)
 semi forar - semáforo  
 semi logi - semántica  
 sen - anciano (señor)  
+sen bra - hermano mayor  
+sen sis - hermana mayor  
 Senegal - Senegal  
 seng - crudo  
 sense - sentido  
@@ -3406,6 +3418,7 @@ siro - cero (ninguno)
 siro jen - ningunos  
 siro sata - nunca  
 siro xe - nada  
+sis - hermana  
 sismo logi - sismología  
 sistem - sistema  
 sistem di - sistémico  
@@ -3611,6 +3624,7 @@ tikete - etiqueta (boleto, billete)
 tim - equipo  
 Timor - Timor  
 tipe - tipo (género)  
+tipi - tipi  
 tire - tirar  
 tire dara - corriente de resaca  
 tire kane - palanca  
@@ -3886,9 +3900,8 @@ xatan di - satánico
 xatan din - satanismo  
 xatan din ja - satanista  
 xatan ja - Satanás  
-xava - lluvia  
-xava cati - parasol  
-xava kote - impermeable  
+xava - asar (tostar, rostir)  
+xava pang - pan tostado  
 xaxa - susurrar (curjir)  
 xayu - tiburón  
 xe - cosa  
@@ -4000,6 +4013,7 @@ yumor ja - humorista
 yung - derretirse  
 yung liga - fusión  
 yung petra - lava  
+yurta - yurta  
 yuter yum - itrio  
 yuterbi yum - iterbio  
 

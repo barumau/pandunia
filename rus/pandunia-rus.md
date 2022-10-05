@@ -161,6 +161,11 @@ bara mur - барьер
 barde - борода  
 bari yum - барий  
 baru - медведь  
+barxa - дождь  
+barxa cati - зонтик  
+barxa kote - плащ (дождевик)  
+barxa mosim - муссон  
+barxa sui - дождевая вода  
 bas - достаточно (довольно)  
 basen - бассейн  
 baske bol - баскетбол  
@@ -241,6 +246,7 @@ bor yum - борий
 boron - бор  
 botel - бутылка  
 botel tapa - крышка  
+bra - брат  
 Brahma - Брахма  
 brauza - исследовать  
 brauza gi - браузер  
@@ -318,6 +324,7 @@ culi - процесс
 da - он или она  
 damen - они  
 damen su - их  
+dai barxa - проливной дождь  
 dai dom - дворец (особняк)  
 dai hai - океан  
 dai lasun - лук исполинский  
@@ -763,6 +770,7 @@ huru - свободный (вольный)
 
 ## I  
 
+iglu - иглу  
 iha uma - мул  
 in bum - имплозия  
 in migra - иммигрировать  
@@ -1083,6 +1091,7 @@ lutesi yum - лютеций
 
 ## M  
 
+ma - мать (мама)  
 magen yum - магний  
 magi ja - чародей (маг)  
 Magribi dexa - Марокко  
@@ -1310,6 +1319,7 @@ oxide - окись (оксид)
 
 ## P  
 
+pa - отец (папа)  
 paci - птица  
 paci logi - орнитология  
 pada di - упавший  (падший)  
@@ -1554,6 +1564,8 @@ seme di - семенной
 semente - цемент  
 semi forar - семафор  
 semi logi - семантика  
+sen bra - старший брат  
+sen sis - старшая сестра  
 seng - сырой  
 sense - чувство  
 sense xaka - щупальце  
@@ -1586,6 +1598,7 @@ sine plate - нагрудник
 sing - звезда  
 sir plan - заговор (сговор)  
 siro - нуль (зеро)  
+sis - сестра (sestra)  
 Slave - славянский  
 so - элемент  
 sofa - софа (диван, канапе)  
@@ -1823,10 +1836,6 @@ xanti - отдых
 xanti di - спокойный  
 xatan - противостоять  
 xatan ja - Сатана  
-xava - дождь  
-xava cati - зонтик  
-xava kote - плащ (дождевик)  
-xava mosim - муссон  
 xaxa - шурша́ть  
 xayu - акула  
 xe - вещь  
@@ -1887,6 +1896,7 @@ yogur - йогурт
 Yohan festa - Иванов день  
 you moke - саженец  
 yumor - юмор  
+yurta - юрта  
 yuter yum - иттрий  
 yuterbi yum - иттербий  
 

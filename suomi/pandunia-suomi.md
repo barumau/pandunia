@@ -346,6 +346,11 @@ barti - intialainen
 Barti Hai - Intian valtameri  
 baru - karhu  
 barude - ruuti  
+barxa - sade  
+barxa cati - sateenvarjo  
+barxa kote - sadetakki  
+barxa mosim - sadekausi  
+barxa sui - sadevesi  
 bas - tarpeeksi (riittävästi)  
 basen - allas  
 baske - kori  
@@ -550,6 +555,7 @@ Bosna i Hercegovina - Bosnia ja Hertsegovina
 Bote - Tiibet  
 botel - pullo  
 botel tapa - pullonkorkki  
+bra - veli  
 Brahma - Brahma  
 brauza - selata  
 brauza gi - selain  
@@ -666,6 +672,8 @@ cile - Chile
 cili - paprika  
 cili fun - paprikajauhe  
 cimpanzi - simpanssi  
+cin - vanhempi (isä tai äiti)  
+cin cin - isovanhempi  
 cincila - chinchilla  
 cing - pyyntö  
 cing - pyytää (anoa)  
@@ -708,6 +716,7 @@ da su - hänen (sen)
 dai - iso (suuri)  
 dai anjil ja - lähettiläs  
 dai anjilkan - lähetystö  
+dai barxa - rankkasade  
 dai dara - hyöky (vyöry)  
 dai dom - palatsi  
 dai gradu - korottaa  
@@ -1840,6 +1849,7 @@ idea zi - ideogrammi
 idiote - typerys (idiootti)  
 idiote di - tyhmä (hölmö)  
 idioteta - tyhmyys (typeryys)  
+iglu - iglu  
 iha - aasi  
 iha uma - muuli  
 imperi - hallita yksinvaltaisesti  
@@ -1971,10 +1981,12 @@ jude ja - tuomari
 jul - joule (J)  
 jun - nuori  
 jun bei - nuorempi toveri  
+jun bra - pikkuveli  
 jun fem - tyttö (nuori neito)  
 jun jen - nuorukainen  
 jun man - poika (nuori mies)  
 junnen - nuoruusvuodet  
+jun sis - pikkusisko  
 junta - nuoruus  
 jung - laji  
 jupe - hame  
@@ -2453,6 +2465,7 @@ Luxemburge - Luxemburg
 
 ## M  
 
+ma - äiti (emä)  
 Madagasi - Madagaskar  
 madagasi di - madagaskarilainen (malagassi)  
 maf - anteeksi  
@@ -2929,6 +2942,7 @@ oxide - oksidi
 
 ## P  
 
+pa - isä  
 paci - lintu  
 paci logi - lintutiede (ornitologia)  
 pada - pudota (tipahtaa)  
@@ -3299,8 +3313,6 @@ romanse - lempi (romanssi, rakkaus)
 • anromanse - aromanttinen  
 romanse di - romanttinen  
 rose - kaste  
-roste - paahtaa (paistaa)  
-roste pang - paahtoleipä  
 rota leu - vastapäivään  
 rota tufan - pyörremyrsky (hurrikaani, taifuuni, tornado)  
 rota vanu gi - hyrrä  
@@ -3422,6 +3434,7 @@ sar oste - pääkallo
 sata - hetki (kotva, ajankohta)  
 sata di - hetkellinen  
 Saturne - Saturnus  
+sau - sisarus (veli tai sisko)  
 Saudi Arabi - Saudi Arabia  
 sauna - sauna  
 saur - lisko  
@@ -3448,6 +3461,8 @@ semi - merkitä (tarkoittaa)
 semi logi - merkitysoppi (semantiikka)  
 semima - semeemi  
 sen bei - vanhempi toveri  
+sen bra - isoveli  
+sen sis - isosisko  
 Senegal - Senegal  
 seng - raaka (tuore)  
 seng varis - raaka riisi  
@@ -3505,6 +3520,7 @@ siro - nolla (ei yhtään)
 siro jen - ei kukaan  
 siro sata - ei koskaan (ei kertaakaan)  
 siro xe - ei mitään  
+sis - sisko  
 sismo logi - seismologia  
 sistem - järjestelmä (systeemi)  
 sita - lainata (siteerata)  
@@ -3710,6 +3726,7 @@ tikete - lippu (piletti)
 tim - joukkue (tiimi)  
 Timor - Timor  
 tipe - tyyppi (laji, genre)  
+tipi - kota (tiipii)  
 tire - vetää (kiskoa)  
 tire kane - vipu  
 tire sanduku - vetolaatikko  
@@ -4031,10 +4048,8 @@ xatan di - pirullinen
 xatan din - satanismi (paholaisenpalvonta)  
 xatan din ja - satanisti  
 xatan ja - saatana (sielunvihollinen)  
-xava - sade  
-xava cati - sateenvarjo  
-xava kote - sadetakki  
-xava mosim - sadekausi  
+xava - paahtaa (grillata, gratinoida, paistaa)  
+xava pang - paahtoleipä  
 xaxa - kahista  
 xayu - hai  
 xe - asia  
@@ -4153,6 +4168,7 @@ yumor ja - humoristi
 yung - sulaa  
 yung liga - fuusio (yhteensulautuminen)  
 yung petra - laava  
+yurta - jurtta  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  
 

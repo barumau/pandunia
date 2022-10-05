@@ -849,6 +849,7 @@ ideogrammi - idea zi
 idängorilla - dong gorila  
 idänunikko - gui papi  
 ies - yogo  
+iglu - iglu  
 ihailla - amira  
 ihmeellinen (ällistyttävä, merkillinen) - ajabu di  
 ihmetellä (olla ihmeissään) - be ajabu  
@@ -913,8 +914,12 @@ islamofobia (islamin pelko) - islam fobi
 Islanti - Islande  
 iso (suuri) - dai  
 Iso-Britannia (Yhdistyneet Kuningaskunnat) - Britan  
+isosisko - sen sis  
+isovanhempi - cin cin  
+isoveli - sen bra  
 Israel - Israel  
 istua - fa side  
+isä - pa  
 isäpuoli (äidin puoliso) - vise pa  
 Italia - Italia  
 itkeä (yhyy) - uhu  
@@ -1016,6 +1021,7 @@ juoksija - kore ja
 juoni (salaliitto) - sir plan  
 juosta - kore  
 Jupiter - Jupiter  
+jurtta - yurta  
 jutella (höpistä) - blabla  
 juuri (tarkka, täsmällinen) - juste  
 juuri - mula  
@@ -1457,6 +1463,7 @@ koskea (koskettaa) - tocu
 kosminen - kosmo di  
 Kosovo - Kosovo  
 kosteuttaa - fa xipi  
+kota (tiipii) - tipi  
 koti- - dom di  
 kotimaa - dom dexa  
 koukku (haka) - huke  
@@ -2430,8 +2437,8 @@ ovi (portti, veräjä) - mun
 
 ## P  
 
-paahtaa (paistaa) - roste  
-paahtoleipä - roste pang  
+paahtaa (grillata, gratinoida, paistaa) - xava  
+paahtoleipä - xava pang  
 paapuuri - nave leu  
 paeta (karata) - bega  
 pah (pyh) - bah  
@@ -2600,7 +2607,9 @@ piiska (ruoska) - bici
 pikkukaupunki - xiu siti  
 pikkukylä - xiu deha  
 pikkuruinen (mikroskooppinen, mikro-) - mikro  
+pikkusisko - jun sis  
 pikkutakki (jakku) - jake  
+pikkuveli - jun bra  
 pilaantua (raunioitua) - be harabu  
 pilahvi - polau  
 pilalla (raunioina) - harabu  
@@ -2861,6 +2870,7 @@ raki - anis araki
 rakkaudenjumala - kama deu  
 rakkaus (tykkääminen) - ama  
 ramadan - ramazan  
+rankkasade - dai barxa  
 Ranska - France  
 ranskaa puhuva (frankofoni) - france fon di  
 Ranskan Guiana - France Guyana  
@@ -2997,9 +3007,10 @@ saatana (sielunvihollinen) - xatan ja
 saavuttaa (päästä tykö) - acese  
 saavuttaa (saavutettua tilaa ilmaiseva apuverbi) - le  
 saavuttaa - fa gol  
-sade - xava  
-sadekausi - xava mosim  
-sadetakki - xava kote  
+sade - barxa  
+sadekausi - barxa mosim  
+sadetakki - barxa kote  
+sadevesi - barxa sui  
 sahrami - safran  
 Saint Helena - Sante Helena  
 Saint Kitts - Sante Kitse  
@@ -3056,7 +3067,7 @@ satama - hai porte
 satanismi (paholaisenpalvonta) - xatan din  
 satanisti - xatan din ja  
 satavuotinen - sento nen di  
-sateenvarjo - xava cati  
+sateenvarjo - barxa cati  
 satsuma - venjou oranje  
 sattua (käydä kipeää) - be pasi  
 sattuma (onni) - zar  
@@ -3165,6 +3176,8 @@ sinun - tu su
 sinä - tu  
 Siperia - Sibiria  
 sipuli - piaze  
+sisarus (veli tai sisko) - sau  
+sisko - sis  
 sisus (sisäpuoli) - in  
 sisä- (sisäinen) - in di  
 sisällysluettelo - in liste  
@@ -3853,6 +3866,7 @@ vanginvartija - jela ja
 vangita - fa jela  
 vanha (muinainen) - cen zaman di  
 vanha (seniori, iso-) - sen  
+vanhempi (isä tai äiti) - cin  
 vanhempi toveri - sen bei  
 vanilja - vanila  
 vankeus - jela  
@@ -3903,6 +3917,7 @@ vehnä - ganum
 veistos (patsas) - eskulte  
 veistää kuvaa - fa eskulte  
 veitsi (puukko) - caku  
+veli - bra  
 veloittaa (verottaa) - kape yo taxi  
 vene (laiva) - nave  
 veneilijä - nave ga ja  
@@ -4169,6 +4184,7 @@ zirkonium - zirkon yum
 zombi - zombi  
 zulu - Zulu  
 äidinkieli - nati baxa  
+äiti (emä) - ma  
 äitipuoli (isän puoliso) - vise ma  
 ällistyttää - fa ajabu  
 äsken (vasta, juuri) - a neu  

@@ -151,6 +151,11 @@ bara mur - barreira
 barde - barba  
 bari yum - bário  
 baru - urso  
+barxa - chuva  
+barxa cati - guarda-chuva  
+barxa kote - capa de chuva  
+barxa mosim - monção  
+barxa sui - água da chuva  
 bas - bastante (suficiente)  
 basen - bacia  
 baske bol - basketball  
@@ -222,6 +227,7 @@ bon - bom
 bor yum - bóhrio  
 boron - boro  
 botel - garrafa (botelha)  
+bra - irmão  
 bravo - bravo (valente, corajoso)  
 bravo - bravo!  
 briko - damasco (abricó, ameixa)  
@@ -279,6 +285,7 @@ ceri - cereja
 cesi yum - césio  
 ceti - sete (7)  
 cili - cápsico  
+cin - genitor  
 cini - porcelana  
 cira - rasgar  
 cira cira di - esfarrapado  
@@ -295,6 +302,7 @@ cunbil - opção
 
 da - ele ou ela  
 damen - eles ou elas  
+dai barxa - temporal (toró)  
 dai dom - palácio (mansão, palacete)  
 dai hai - oceano  
 dai pau - canhǎo  
@@ -687,6 +695,7 @@ huru - livre (forro)
 ## I  
 
 i - e  
+iglu - iglu  
 in bum - imploção  
 in klus - incluindo  
 in klus di - inclusivo  
@@ -1004,6 +1013,7 @@ lutesi yum - lutécio
 
 ## M  
 
+ma - mãe  
 magen yum - magnésio  
 magi ja - mago  
 Magribi dexa - Marrocos  
@@ -1227,6 +1237,7 @@ oxide - óxide
 
 ## P  
 
+pa - pai  
 paci - pássaro (ave)  
 paci logi - ornitologia  
 pada mosim - outono  
@@ -1459,6 +1470,8 @@ seme di - seminal
 semi - significar (querer dizer)  
 semi logi - semântica  
 sen - sênior  
+sen bra - irmão mais velho  
+sen sis - irmã mais velha  
 seng - cru  
 sense - sentido  
 sense xaka - tentáculo  
@@ -1482,6 +1495,7 @@ simbol - símbolo
 sing - estrela  
 sir plan - complô (conspiração)  
 siro - zero  
+sis - irmã  
 siti - cidade  
 Slave - eslavo  
 so - elemento  
@@ -1682,10 +1696,7 @@ xanti - descanso (repouso)
 xanti di - tranquilo (calmo)  
 xatan - opor  
 xatan ja - Satanás  
-xava - chuva  
-xava cati - guarda-chuva  
-xava kote - capa de chuva  
-xava mosim - monção  
+xava - assar  
 xayu - tubarão  
 xe - coisa  
 xe hal - situaçao  
@@ -1742,6 +1753,7 @@ yogo - jugo
 yogur - iogurte  
 you - infantil (imaturo)  
 yung - derretre  
+yurta - iurte  
 yuter yum - itrio  
 yuterbi yum - itérbio  
 

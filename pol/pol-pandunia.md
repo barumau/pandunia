@@ -57,6 +57,8 @@
  - banka xefe  
  - bar vala  
  - bari  
+ - barxa mosim  
+ - barxa sui  
  - bau bei  
  - baze strute  
  - be an zai  
@@ -93,6 +95,7 @@
  - bolte  
  - bon rai  
  - botel tapa  
+ - bra  
  - Brahma  
  - brauza gi  
  - Brazavil  
@@ -115,11 +118,13 @@
  - cen ding  
  - ceng bede  
  - cese  
+ - cin cin  
  - cing  
  - cing na  
  - cira tela  
  - cun liste  
  - da su  
+ - dai barxa  
  - dai dara  
  - dai siti  
  - dai zi  
@@ -381,6 +386,9 @@
  - jui di  
  - jui note  
  - jun bei  
+ - jun bra  
+ - jun sau  
+ - jun sis  
  - kable  
  - kali  
  - kali di  
@@ -623,6 +631,9 @@
  - semima  
  - sen  
  - sen bei  
+ - sen bra  
+ - sen sau  
+ - sen sis  
  - seng  
  - seng varis  
  - sense ja  
@@ -633,6 +644,7 @@
  - silke larva  
  - sim  
  - sim ja  
+ - sis  
  - soi  
  - sona tabi  
  - spete  
@@ -735,7 +747,6 @@
  - vuki ordu  
  - xa  
  - xah mata  
- - xava mosim  
  - xi  
  - xi Fulan  
  - xia  
@@ -1378,7 +1389,7 @@ demokratyczny - demi krati di
 demon - demon  
 dentysta - dante dava ja  
 deska - moka bano  
-deszcz - xava  
+deszcz - barxa  
 detal, szczegół - detal  
 dewanagari - deu nagar zi  
 dezaktualizować (pogorszyć) - dus gradu  
@@ -1812,6 +1823,7 @@ ideogram - idea zi
 idiota - idiote  
 idiotyzm (głupota) - idioteta  
 ifrit - ifrite  
+iglu - iglu  
 igła, szpilka - pin  
 ile? - ke poli di  
 ilość(mnóstwo) - polita  
@@ -1923,6 +1935,7 @@ Joruba - Yoruba
 Jowisz - Jupiter  
 judaizm - yehudi din  
 judo - judau  
+jurta - yurta  
 jutro - pos den  
 już (skończona czynność) - fin  
 jądro atomu - atom kerne  
@@ -2384,6 +2397,7 @@ materac - matras
 materia, substancja - mate  
 materialny - mate di  
 materiał (składnik, zasób) - faida xe  
+matka (mama) - ma  
 Mauretania - Muritania  
 Mauritius - Moris  
 Maya - maya  
@@ -2768,6 +2782,7 @@ ogr (trol, goblin) - gui
 ogórek - hiyar  
 ogórek kiwano - korne melon  
 ogórek melon - melon  
+ojciec - pa  
 okej, spoko, akceptowalny - okebil  
 okno - janela  
 oko - yen  
@@ -2883,8 +2898,8 @@ para wodna - sui gas
 paragon, pokwitowanie - reside  
 Paragwaj - Paraguai  
 parametr (argument, wartość wejściowa) - param  
+parasol - barxa cati  
 parasol - sol cati  
-parasol - xava cati  
 park (ogród) - parke  
 parking - garparke  
 partia - parti  
@@ -2929,7 +2944,7 @@ piasek, piach - sablu
 piaskowiec - sablu petra  
 pidżin, język pomocniczy - pijin  
 piec - baka  
-piec - roste  
+piec - xava  
 piec (piekarnik) - tanur  
 pieczęć woskowa - mum cape  
 piekarnia - bakakan  
@@ -3308,7 +3323,7 @@ płaski chleb, ćapati - capati
 płaskowyż (plateau) - meza stan  
 płaskoziemca - plate geo sim ja  
 płaszcz - kote  
-płaszcz nieprzemakalny - xava kote  
+płaszcz nieprzemakalny - barxa kote  
 płaszczyzna (płyta) - plate  
 płciowy - jinse di  
 płeć - jinse  
@@ -3379,6 +3394,8 @@ rod - rode yum
 rodak, ziomek, krajan - sam dexa jen  
 rodzaj gramatyczny - baxa jinse  
 rodzaj, typ, styl - yang  
+rodzeństwo, brat lub siostra - sau  
+rodzic (matka lub ojciec) - cin  
 rodzina - famili  
 rodzynka - gan putau  
 roentgen - rentegen yum  
@@ -3877,6 +3894,7 @@ tikka - tika
 tikka masala - masala tika  
 Timor - Timor  
 Timor Wschodni (Demokratyczna Republika Timoru Wschodniego) - Dong Timor  
+tipi - tipi  
 tkanina (materiał, sukno) - tela  
 tkać (pleść) - fa tela  
 tlen - oxe  
@@ -3896,7 +3914,7 @@ topić (upłynnić, upłynniać) - yung safa
 topnieć (upłynniać się) - yung  
 tor - tor yum  
 torba, wór, worek, torba, sakwa - sake  
-tost - roste pang  
+tost - xava pang  
 towarzysz (partner, kumpel) - late jen  
 traktor (ciągnik) - trater  
 traktować - fa culi  

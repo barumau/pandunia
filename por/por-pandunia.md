@@ -123,6 +123,7 @@ artista - arteja
 asa - panka  
 asma - asma  
 aspargo - asparge  
+assar - xava  
 assinar - nam kitaba  
 assustador - fobi ja  
 assustar - fa fobi  
@@ -275,7 +276,7 @@ canoa - kanu
 Cantalupo in Sabina - Kantalupo va Sabina  
 canção de ninar - lala gani  
 capa - mantol  
-capa de chuva - xava kote  
+capa de chuva - barxa kote  
 capô - moto cati  
 caractere - zi  
 caratê - karate  
@@ -346,7 +347,7 @@ chicote - bici
 China - Jongoku  
 chocolate - coklate  
 chumbo - plumbe  
-chuva - xava  
+chuva - barxa  
 chá - cai  
 ciclista - sikle ja  
 cidade - siti  
@@ -729,6 +730,7 @@ genealogia - gene logu
 generalíssimo - ordu raja  
 generosidade - karim  
 generoso (dadivoso, mão-aberta) - don tabi  
+genitor - cin  
 genético - gene logi di  
 genótipo - gene tipe  
 geografia - geo grafi  
@@ -751,7 +753,7 @@ gratidão - xukurta
 graças a - a xukur de  
 grupo - grupe  
 grávida (prenhe) - hamil  
-guarda-chuva - xava cati  
+guarda-chuva - barxa cati  
 guaxinim (rato-lavadeiro) - rakun  
 guepardo (chita) - cita  
 guia - gida ja  
@@ -802,6 +804,7 @@ hóquei no gelo - ais hoki
 idade - umur  
 idoso (sene) - umur di  
 idoso - lau  
+iglu - iglu  
 igual (par) - par  
 igual - sam  
 imigrante - in migra ja  
@@ -841,12 +844,17 @@ inverno - leng mosim
 iodo - iode  
 iogurte - yogur  
 ir - ga  
+irmã - sis  
+irmã mais velha - sen sis  
+irmão - bra  
+irmão mais velho - sen bra  
 ironia - ironi  
 irídio - iris yum  
 islã - islam din  
 item - vutu  
 itrio - yuter yum  
 itérbio - yuterbi yum  
+iurte - yurta  
 
 ## J  
 
@@ -1057,7 +1065,7 @@ molibdénio - moliden
 momento (instante) - sata  
 momentâneo - sata di  
 monstro - mostre  
-monção - xava mosim  
+monção - barxa mosim  
 monóculo - un yen di lense  
 monólogo - auto loga  
 morder - fa dante  
@@ -1080,6 +1088,7 @@ máquina de escrever - kitaba gi
 mármore - kalsi bilor  
 máscara - maska  
 máximo - maxim xe  
+mãe - ma  
 mão - hande  
 média (mídia) - media  
 mês - mes  
@@ -1188,6 +1197,7 @@ pacote - pake
 pacto - kon trati  
 padeiro - baka ja  
 padrasto - vise pa  
+pai - pa  
 painel - bano  
 palato (céu da boca) - boka cati  
 palavra (vocábulo) - lexima  
@@ -1577,6 +1587,7 @@ temer - be fobi
 tempero - masala  
 templo - pujakan  
 tempo - zaman  
+temporal (toró) - dai barxa  
 tendência - klin  
 tennessine - tenesi yum  
 tenso - tense  
@@ -1743,6 +1754,7 @@ zumbi - zombi
 ábaco - lulu table  
 ágil - agile  
 água - sui  
+água da chuva - barxa sui  
 álcool - alkol  
 áraque - anis araki  
 área de acampamento - kampe bagi  

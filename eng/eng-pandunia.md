@@ -428,7 +428,9 @@ Bible - Biblia
 Biblical - Biblia di  
 bicycle (pedal bike) - pedal sikle  
 big (great, large) - dai  
+big brother (elder brother) - sen bra  
 big city - dai siti  
+big sister (elder sister) - sen sis  
 bike (cycle) - sikle  
 bilingual - du baxa di  
 bilingual - dubaxaka  
@@ -541,6 +543,7 @@ bring up (educate, raise) - pedi
 broken (shattered) - parce di  
 bromine - brom  
 broom (sweep) - jaru  
+brother - bra  
 brown - kafe rang  
 brown algae - kafe alga  
 brown rice - brun varis  
@@ -1188,6 +1191,7 @@ doubt (suspect; suspicion) - xaki
 doubtful (suspicious, disbelieving) - dute ja  
 downgrade - dus gradu  
 download - nete gete  
+downpour (heavy rain) - dai barxa  
 drag (haul, tow, trail) - trate  
 dragon - lung  
 dragonfly - libele  
@@ -1272,6 +1276,7 @@ El Salvador - Salvador
 elastic - elasti  
 elbow - kudi  
 elder - lau jen  
+elder sibling - sen sau  
 electric - eletro di  
 electricity - eletro  
 electron - eletron  
@@ -1451,6 +1456,7 @@ fascist - faxa sim ja
 fashion (trend) - faxon  
 fast (quick, rapid, speedy) - suga  
 fat (grease) - futa  
+father (dad, papa) - pa  
 fatigue (weariness) - fatige  
 fatty (greasy) - futa di  
 fault (sin, blame, defect, guilt) - doxa  
@@ -1735,6 +1741,7 @@ gram (g) - gram
 grammar - baxa kanun  
 grammatical - baxa kanun di  
 grammatical gender - baxa jinse  
+grandparent - cin cin  
 granite - granite  
 grape - putau  
 grapefruit - putau oranje  
@@ -1977,6 +1984,7 @@ idiocy (stupidity) - idioteta
 idiot - idiote  
 if (suppose, assume) - gar  
 ifrit - ifrite  
+igloo - iglu  
 ill (sick) - pati di  
 illusion (hallucination) - false vide  
 illustrator (graphic artist) - grafi ja  
@@ -2325,6 +2333,8 @@ Lithuanian - lietuva baxa
 litre (liter) - litre  
 little (few, not many) - kam  
 little (small) - xiu  
+little brother (younger brother) - jun bra  
+little sister (younger sister) - jun sis  
 live (be alive; living; live, existence) - jiva  
 live in (reside in, inhabit) - be dom  
 liver - hepate  
@@ -2647,6 +2657,7 @@ mosquito - moski
 moss - mos  
 mossy - mos di  
 most (maximally) - maxim  
+mother (mom, mama) - ma  
 motion (movement) - move  
 motorcar (automobile) - moto gar  
 motorcycle - moto sikle  
@@ -2988,6 +2999,7 @@ parallel (line of latitude) - vei gola
 parameter (argument, input variable) - param  
 parasol - sol cati  
 pardon (forgiveness; sorry) - maf  
+parent (mother or father) - cin  
 Paris - Paris  
 park (garden) - parke  
 parrot (parakeet) - papagai  
@@ -3354,11 +3366,12 @@ radius - radi longta
 radon - radon  
 rag (tattered cloth) - cira tela  
 rail (railway, railroad) - tren dau  
-rain (precipitation) - xava  
+rain (precipitation) - barxa  
 rainbow - rang arka  
 rainbow trout - rang arka salmon  
-raincoat - xava kote  
-rainy season (monsoon) - xava mosim  
+raincoat - barxa kote  
+rainwater - barxa sui  
+rainy season (monsoon) - barxa mosim  
 raise (lift) - fa gau  
 raisin - gan putau  
 rajah - hindi raja  
@@ -3490,7 +3503,7 @@ ritual (ceremony, religious custom) - puja riti
 river (stream) - rivo  
 river bank - rivo kinar  
 road sign - dau bano  
-roast - roste  
+roast - xava  
 rob (loot, plunder, pillage, ransack) - luta  
 robber (plunderer) - luta ja  
 robe (jubbah) - juba  
@@ -3728,6 +3741,7 @@ show (display, exhibition, demonstration, demo) - xou
 shower - dux  
 shrimp (prawn) - gamba  
 Siberia - Sibiria  
+sibling (brother or sister) - sau  
 side (flank) - late  
 side-effect - parafete  
 sideways (laterally) - late di  
@@ -3749,6 +3763,7 @@ simple (not complicated) - simple
 sing (song, chant) - gani  
 Singapore - Singapur  
 singer - ganir  
+sister - sis  
 sit (put down) - fa side  
 sit down - side  
 situation (circumstances, state of affairs) - xe hal  
@@ -4158,13 +4173,14 @@ time - zaman
 Timor - Timor  
 tin - estan  
 tiny (microscopic, micro-) - mikro  
+tipi (teepee) - tipi  
 Titan - Titan  
 Titania - Titania  
 titanium - titan yum  
 title (headline) - tema nam  
 to (toward, till, until, for) - to  
 to be centered (amid, in the middle) - a jong  
-toast (toasted bread) - roste pang  
+toast (toasted bread) - xava pang  
 tobacco - tabaku  
 today - zai den  
 together (jointly, mutually) - a kon  
@@ -4284,7 +4300,7 @@ tyrant (despot) - zalim raja
 Uganda - Ganda  
 ugly (unsightly) - dus vide  
 Ukraine - Ukraina  
-umbrella - xava cati  
+umbrella - barxa cati  
 umbrella thorn acacia tree - helis babul  
 Umbriel - Umbriel  
 unambiguous - un semi di  
@@ -4570,6 +4586,7 @@ yotta- - yota
 you (singular) - tu  
 you all - tumen  
 young (junior) - jun  
+younger sibling - jun sau  
 your - tu su  
 your - tumen su  
 youth (years in life following childhood) - junnen  
@@ -4577,6 +4594,7 @@ youth (young age) - junta
 youth (youngster, young person) - jun jen  
 ytterbium - yuterbi yum  
 yttrium - yuter yum  
+yurt (ger) - yurta  
 
 ## Z  
 

@@ -180,6 +180,8 @@ Barti - Baratio
 barti - Barata  
 baru - urso  
 barude - pulvo  
+barxa - pluvo  
+barxa cati - obrelo  
 bas - sufiĉa  
 basen - baseno  
 baske - korbo  
@@ -288,6 +290,7 @@ boron - boro
 Bote - Tibeto  
 botel - botelo  
 botel tapa - botelfermilo  
+bra - frato  
 Brahma - Bramo  
 bravo - brava  
 bravo - brave!  
@@ -345,6 +348,7 @@ ceti - sep (7)
 cetiden - semajno  
 cile - Ĉilio  
 cimpanzi - ĉimpanzo  
+cin - gepatro  
 cincila - ĉinĉilo  
 cing - peti (bonvolu)  
 cing lai - inviti  
@@ -921,6 +925,7 @@ i - kaj
 ibri - Hebrea  
 ici - volo  
 idea - ideo  
+iglu - iglo  
 iha - azeno  
 in - eno  
 in di - ena  
@@ -1241,6 +1246,7 @@ lutesi yum - lutecio
 
 ## M  
 
+ma - patrino  
 maf - pardono  
 magen yum - magnezio  
 magi - magio  
@@ -1486,6 +1492,7 @@ oxide - oksido
 
 ## P  
 
+pa - patro  
 paci - birdo  
 paci logi - ornitologio  
 pada mosim - aŭtuno  
@@ -1723,6 +1730,7 @@ sar kaska - kasko
 sar kexa - kaphararo  
 sata - momento  
 sata di - momenta  
+sau - gefrato  
 sauna - saŭno  
 saur - lacerto  
 saya - ombro  
@@ -1766,6 +1774,7 @@ sing - stelo
 singa - leono  
 Singapur - Singapuro  
 siro - nul  
+sis - fratino  
 sismo logi - sismologio  
 sistem - sistemo  
 sita - citi  
@@ -1999,8 +2008,6 @@ xarma - honto
 xarnir - ĉarniro (pivoto)  
 xarti - kondiĉo (postulo)  
 xatan ja - diablo (Satano)  
-xava - pluvo  
-xava cati - obrelo  
 xayu - ŝarko  
 xe hal - situacio (aferstato)  
 xefe - estro (ĉefulo)  
@@ -2071,6 +2078,7 @@ you ni - knabino
 yumor - humuro  
 yumor di - humura  
 yumor ja - humuristo  
+yurta - jurto (gero)  
 yuter yum - itrio  
 yuterbi yum - iterbio  
 

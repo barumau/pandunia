@@ -323,6 +323,11 @@ barti - Indyjski
 Barti Hai - Ocean Indyjski  
 baru - niedźwiedź  
 barude - proch strzelniczy  
+barxa - deszcz  
+barxa cati - parasol  
+barxa kote - płaszcz nieprzemakalny  
+barxa mosim -   
+barxa sui -   
 bas - wystarczający  
 basen - basen  
 baske - kosz  
@@ -529,6 +534,7 @@ Bosna i Hercegovina - Bośnia i Harcegowina
 Bote - Tybet  
 botel - butelka  
 botel tapa -   
+bra -   
 Brahma -   
 brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
 brauza gi -   
@@ -651,6 +657,8 @@ cile - Chile
 cili - papryka  
 cili fun - papryka  
 cimpanzi - szympans  
+cin - rodzic (matka lub ojciec)  
+cin cin -   
 cincila - szynszyla  
 cing -   
 cing - prosić  
@@ -695,6 +703,7 @@ da su -
 dai - duży  
 dai anjil ja - ambasador  
 dai anjilkan - ambasada  
+dai barxa -   
 dai dara -   
 dai dom - pałac  
 dai gradu - wzmacniać (wzmocnić)  
@@ -1899,6 +1908,7 @@ idiote - idiota
 idiote di - głupi (idiotyczny)  
 idioteta - idiotyzm (głupota)  
 ifrite - ifrit  
+iglu - iglu  
 iha - osioł  
 iha uma - muł  
 imperi - władać, panować, rządzić jako imperator  
@@ -2045,11 +2055,14 @@ jul - dżul (J)
 jumla - zdanie (fraza)  
 jun - młody  
 jun bei -   
+jun bra -   
 jun fem - dziewczyna  
 jun jen - młodzież, młoda osoba  
 jun man - chłopak  
 jun moka - młode drzewo  
 junnen - młodość  
+jun sau -   
+jun sis -   
 junta - młodość  
 jung - gatunek  
 jupe - spódnica  
@@ -2621,6 +2634,7 @@ Luxemburge - Luksemburg
 
 ## M  
 
+ma - matka (mama)  
 Madagasi - Madagaskar  
 madagasi di - madagaskarski; malagaski  
 maf - przepraszam!  
@@ -3171,6 +3185,7 @@ oxide - tlenek
 
 ## P  
 
+pa - ojciec  
 paci - ptak  
 paci logi - ornitologia  
 pada - paść, padać, upaść, upadać  
@@ -3602,8 +3617,6 @@ romanse - miłość romantyczna
 • anromanse - aromantyczny  
 romanse di - romantyczny  
 rose - rosa  
-roste - piec  
-roste pang - tost  
 rota leu - przeciwnie do ruchu wskazówek zegara  
 rota raite - według ruchu wskazówek zegara  
 rota tufan - trąba powietrzna (cyklon, tornado, tajfun)  
@@ -3745,6 +3758,7 @@ sata di - chwilowy
 sata don - dedykować (poświęcać, poświęcić)  
 sata don ta - dedykacja (poświęcenie)  
 Saturne - Saturn  
+sau - rodzeństwo, brat lub siostra  
 Saudi Arabi - Arabia Saudyjska  
 sauna - sauna  
 saur - jaszczurka  
@@ -3778,6 +3792,9 @@ semi logi -
 semima -   
 sen -   
 sen bei -   
+sen bra -   
+sen sau -   
+sen sis -   
 Senegal - Senegal  
 seng -   
 seng varis -   
@@ -3847,6 +3864,7 @@ siro - zero, nic, żaden
 siro jen - nikt, żadna osoba  
 siro sata - nigdy  
 siro xe - nic, żadna rzecz  
+sis -   
 sismo - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
 sismo logi - sejsmologia  
 sistem - system  
@@ -4078,6 +4096,7 @@ tikete - bilet
 tim - drużyna  
 Timor - Timor  
 tipe - typ (rodzaj, gatunek)  
+tipi - tipi  
 tire - ciągnąć  
 tire dara - prąd strugowy (prąd rozrywający, prąd porywający, prąd wciągający)  
 tire kane - dźwignia  
@@ -4414,10 +4433,8 @@ xatan di - diabelski, szatański
 xatan din - satanizm  
 xatan din ja - satanista  
 xatan ja - diabeł, szatan  
-xava - deszcz  
-xava cati - parasol  
-xava kote - płaszcz nieprzemakalny  
-xava mosim -   
+xava - piec  
+xava pang - tost  
 xaxa - szeleścić  
 xayu - rekin  
 xe - rzecz  
@@ -4548,6 +4565,7 @@ yung - topnieć (upłynniać się)
 yung liga - fuzja (amalgamowanie, łączenie)  
 yung petra - lawa  
 yung safa - topić (upłynnić, upłynniać)  
+yurta - jurta  
 yuter yum - itr  
 yuterbi yum - iterb  
 

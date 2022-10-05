@@ -152,6 +152,11 @@ banya - 洗澡
 banya kamar - 浴室  
 bari yum - 钡  
 baru - 熊  
+barxa - 雨  
+barxa cati - 伞  
+barxa kote - 雨衣  
+barxa mosim - 雨季  
+barxa sui - 雨水  
 bas - 够  
 baske bol - 篮球  
 bata - 鸭  
@@ -276,6 +281,7 @@ ceti - 七 (7)
 cetiden - 週  
 cili - 菜椒  
 cili fun - 辣椒粉  
+cin - 亲 (父母)  
 cing - 请  
 cing na - 请拿好  
 cini - 瓷器  
@@ -300,6 +306,7 @@ damen - 他们
 damen su - 他们的  
 damimen - 我们  
 da su - 他的  
+dai barxa - 大雨  
 dai dom - 殿 (宫殿, 宅第)  
 dai hai - 大洋 (大海)  
 dai pau - 大炮  
@@ -686,6 +693,7 @@ huruta - 自由
 ## I  
 
 i - 和  
+iglu - 冰屋  
 iha uma - 骡  
 in bum - 内爆  
 in migra - 移民 (移居)  
@@ -741,6 +749,7 @@ jun - 年轻
 jun bei - 后辈  
 jun jen - 年轻人  
 junnen - 青年  
+jun sis - 妹妹 (mèimei)  
 Jupiter - 木星  
 jus - 汁  
 
@@ -979,6 +988,7 @@ lutesi yum - 镥
 
 ## M  
 
+ma - 妈妈  
 magen yum - 镁  
 magi ja - 魔法师  
 magi liki - 魔力  
@@ -1187,6 +1197,7 @@ oxide - 氧化物
 
 ## P  
 
+pa - 爸爸  
 paci - 鸟 (雀)  
 paci logi - 鸟类学  
 pagri - 包头  
@@ -1383,6 +1394,7 @@ sar kexa - 头发
 sar kexa hin - 秃头的  
 sata - 时刻 (瞬间)  
 Saturne - 土星  
+sau - 兄弟姐妹 (xiōngdì jiěmèi)  
 saur - 蜥蜴  
 se di - 自私  
 semen - 彼此  
@@ -1394,6 +1406,7 @@ seme dana - 种子
 seme di - 种子的  
 semi logi - 语义学  
 sen bei - 先辈 (前辈)  
+sen sis - 姐姐 (jiějie)  
 seng - 生的  
 seng varis - 米  
 sense - 感觉  
@@ -1417,6 +1430,7 @@ simbol - 象徵
 sing - 星  
 sir plan - 阴谋 (密谋)  
 siro - 零 (〇)  
+sis - 姐妹 (jiěmèi)  
 sofa - 沙发  
 sofita - 智慧  
 soi - 大豆 (黄豆)  
@@ -1493,6 +1507,7 @@ teror sim - 恐怖行为
 teze - 论据  
 tikete - 票  
 tim - 队  
+tipi - 梯皮  
 tire kane - 杆  
 tire yo milke - 拉  
 tire yo pil - 削 (刮去)  
@@ -1611,10 +1626,7 @@ xalke - 鳞
 xam - 晚上  
 xanghai - 上海  
 xatan ja - 撒但  
-xava - 雨  
-xava cati - 伞  
-xava kote - 雨衣  
-xava mosim - 雨季  
+xava - 烧 (烧烤)  
 xayu - 鲨鱼  
 xe - 事物 (东西)  
 xe hal - 事态  
@@ -1679,6 +1691,7 @@ you nen - 幼年
 yung - 融化  
 yung petra - 熔岩  
 yung safa - 熔炼  
+yurta - 穹庐  
 yuter yum - 钇  
 yuterbi yum - 镱  
 

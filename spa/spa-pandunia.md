@@ -95,6 +95,7 @@ agrobiología - agri bio logi
 agronomía - agri nomi  
 agrícola - agri di  
 agua - sui  
+agua de lluvia - barxa sui  
 agua mineral - kuanga sui  
 aguacate - avakate  
 agujero (hueco) - kung  
@@ -292,7 +293,7 @@ Artsaj - Arcah
 artículo (documento) - papir  
 artículo (texto) - makala  
 Aruba - Aruba  
-asar (tostar) - roste  
+asar (tostar, rostir) - xava  
 asar - kababu  
 asceta - askete  
 asesino - mataja  
@@ -751,6 +752,7 @@ chito (chist) - xux
 chocolate - coklate  
 choque (sacudida) - xoke  
 chorrear - lou  
+chubasco (chaparrón) - dai barxa  
 chupar (succionar) - cupu  
 cian - sian  
 ciclista - sikle ja  
@@ -1423,6 +1425,7 @@ estaca - moka kane
 estacionamiento (aparcamiento) - garparke  
 estación (temporada) - mosim  
 estación - estasi  
+estación lluviosa - barxa mosim  
 estadio (arena) - estadi  
 estado (condición) - hal  
 Estados Unidos de América - Unta Dex de Amerika (UDA)  
@@ -1801,6 +1804,11 @@ hemoglobina - hemi globin
 heno - gan cau  
 hepatitis - hepatetis  
 hercio (Hz) - herze  
+hermana - sis  
+hermana mayor - sen sis  
+hermano - bra  
+hermano mayor - sen bra  
+hermano o hermana - sau  
 hermoso (bello, lindo) - mei  
 herramienta - tul  
 herrero - metal sanaja  
@@ -1901,6 +1909,7 @@ idioma turco - turki baxa
 idioma vietnamita - viete baxa  
 idiota (imbécil) - idiote  
 iglesia - eglisa  
+iglú - iglu  
 iluminar - fa ming  
 ilusión - false vide  
 ilustrador - grafi ja  
@@ -1917,7 +1926,7 @@ imperio - imperi dexa
 Imperio otomano - Osman Imperi Dexa  
 Imperio romano - Roma Imperi Dexa  
 impermeable (sumergible) - sui sekur di  
-impermeable - xava kote  
+impermeable - barxa kote  
 implosionar - be in bum  
 implosión - in bum  
 importante - ham di  
@@ -2229,7 +2238,7 @@ lleno (completo) - pul
 llevar (verstirse) - fa fuku  
 llorar - be duka  
 llorar - uhu  
-lluvia - xava  
+lluvia - barxa  
 lo lejos - tele  
 lo menos - minim  
 lo más - maxim  
@@ -2277,6 +2286,7 @@ macroalga - hai alga
 Madagascar - Madagasi  
 madera - moka mate  
 madrastra - vise ma  
+madre (mamá) - ma  
 maduro (adulto, curado) - matur  
 maestro (experto) - master  
 maestro (gurú, sabio, profesor) - guru  
@@ -2785,6 +2795,7 @@ paciente - pati jen
 pacifismo - pase sim  
 pacifista - pase sim ja  
 padrastro - vise pa  
+padre (papá) - pa  
 pagano (infiel) - kafir  
 pago - pei  
 Pakistán - Pakistan  
@@ -2799,7 +2810,7 @@ Palestina - Filistin
 palmera - palma  
 palpar (tocar) - tocu sense  
 pan - pang  
-pan tostado - roste pang  
+pan tostado - xava pang  
 panadero - baka ja  
 panadería - bakakan  
 panafricano - pan afrika di  
@@ -2839,11 +2850,12 @@ parar (detener) - fa halte
 parar - fa pauza  
 pararse (detenerse) - be estasi  
 pararse (detenerse) - be halte  
+parasol - barxa cati  
 parasol - sol cati  
-parasol - xava cati  
 parcial - fen di  
 parecer - be rupa  
 parecerse a - be sam rupa  
+parente (madre o padre) - cin  
 paria - paraya  
 parque - parke  
 parte (fracción) - fen  
@@ -3733,6 +3745,7 @@ Timor - Timor
 Timor Oriental - Dong Timor  
 tinta - kalam sui  
 tinte - rang mate  
+tipi - tipi  
 tipo (género) - tipe  
 tira (faja, vendaje, cinta) - faxa  
 tirano (déspota) - zalim raja  
@@ -4006,6 +4019,7 @@ yudo - judau
 yugo - yogo  
 yunque - metal bede  
 yupi - yei  
+yurta - yurta  
 
 ## Z  
 

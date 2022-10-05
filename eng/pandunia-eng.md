@@ -358,6 +358,11 @@ barti - Indian
 Barti Hai - Indian Ocean  
 baru - bear  
 barude - gunpowder  
+barxa - rain (precipitation)  
+barxa cati - umbrella  
+barxa kote - raincoat  
+barxa mosim - rainy season (monsoon)  
+barxa sui - rainwater  
 bas - enough (sufficient)  
 basen - pool (basin, bowl)  
 baske - basket (basketball hoop)  
@@ -564,6 +569,7 @@ Bosna i Hercegovina - Bosnia and Herzegovina
 Bote - Tibet  
 botel - bottle  
 botel tapa - bottle cap  
+bra - brother  
 Brahma - Brahma  
 brauza - explore (browse)  
 brauza gi - browser  
@@ -686,6 +692,8 @@ cile - Chile
 cili - pepper (capsicum)  
 cili fun - paprika  
 cimpanzi - chimpanzee  
+cin - parent (mother or father)  
+cin cin - grandparent  
 cincila - chinchilla  
 cing - request (petition)  
 cing - ask (request, beg, plead; please)  
@@ -730,6 +738,7 @@ da su - his or her
 dai - big (great, large)  
 dai anjil ja - ambassador  
 dai anjilkan - embassy  
+dai barxa - downpour (heavy rain)  
 dai dara - torrent  
 dai dom - palace (mansion)  
 dai gradu - amplify (scale)  
@@ -1934,6 +1943,7 @@ idiote - idiot
 idiote di - stupid (idiotic)  
 idioteta - idiocy (stupidity)  
 ifrite - ifrit  
+iglu - igloo  
 iha - donkey (ass)  
 iha uma - mule  
 imperi - reign (rule as an emperor)  
@@ -2080,11 +2090,14 @@ jul - joule (J)
 jumla - sentence (phrase)  
 jun - young (junior)  
 jun bei - junior fellow (kouhai)  
+jun bra - little brother (younger brother)  
 jun fem - girl  
 jun jen - youth (youngster, young person)  
 jun man - boy  
 jun moka - sapling  
 junnen - youth (years in life following childhood)  
+jun sau - younger sibling  
+jun sis - little sister (younger sister)  
 junta - youth (young age)  
 jung - species  
 jupe - skirt  
@@ -2655,6 +2668,7 @@ Luxemburge - Luxembourg
 
 ## M  
 
+ma - mother (mom, mama)  
 Madagasi - Madagascar  
 madagasi di - Malagasy  
 maf - pardon (forgiveness; sorry)  
@@ -3206,6 +3220,7 @@ oxide - oxide
 
 ## P  
 
+pa - father (dad, papa)  
 paci - bird  
 paci logi - ornithology (birdlore)  
 pada - fall  
@@ -3638,8 +3653,6 @@ romanse - romance (romantic love)
 • anromanse - aromantic  
 romanse di - romantic  
 rose - dew  
-roste - roast  
-roste pang - toast (toasted bread)  
 rota leu - counterclockwise (anticlockwise)  
 rota raite - clockwise  
 rota tufan - cyclone (hurrican, tornado, typhoon)  
@@ -3781,6 +3794,7 @@ sata di - momentary
 sata don - dedicate (devote)  
 sata don ta - dedication (devotion)  
 Saturne - Saturn  
+sau - sibling (brother or sister)  
 Saudi Arabi - Saudi Arabia  
 sauna - sauna  
 saur - lizard  
@@ -3814,6 +3828,9 @@ semi logi - semantics
 semima - sememe  
 sen - older (elder, senior, superior)  
 sen bei - senior fellow (senpai)  
+sen bra - big brother (elder brother)  
+sen sau - elder sibling  
+sen sis - big sister (elder sister)  
 Senegal - Senegal  
 seng - raw (crude, fresh)  
 seng varis - uncooked rice  
@@ -3883,6 +3900,7 @@ siro - zero (none)
 siro jen - nobody (no-one)  
 siro sata - never  
 siro xe - nothing  
+sis - sister  
 sismo - shake (jolt, earthquake)  
 sismo logi - seismology  
 sistem - system  
@@ -4115,6 +4133,7 @@ tikete - tag (ticket, label, slip, note)
 tim - team  
 Timor - Timor  
 tipe - type (kind, genre)  
+tipi - tipi (teepee)  
 tire - pull (draw, drag)  
 tire dara - rip current  
 tire kane - lever  
@@ -4451,10 +4470,8 @@ xatan di - devilish (satanic)
 xatan din - Satanism (devil worship)  
 xatan din ja - Satanist  
 xatan ja - devil (Satan)  
-xava - rain (precipitation)  
-xava cati - umbrella  
-xava kote - raincoat  
-xava mosim - rainy season (monsoon)  
+xava - roast  
+xava pang - toast (toasted bread)  
 xaxa - rustle  
 xayu - shark  
 xe - thing  
@@ -4585,6 +4602,7 @@ yung - melt
 yung liga - fusion (amalgamation)  
 yung petra - lava  
 yung safa - smelt  
+yurta - yurt (ger)  
 yuter yum - yttrium  
 yuterbi yum - ytterbium  
 

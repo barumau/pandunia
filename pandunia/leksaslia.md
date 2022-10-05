@@ -149,6 +149,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**barti**|hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|
 |**baru**|deu:Bär, eng:bear + hin:भालू (bhālū) ben:ভালুক (bhaluk) + may:beruang|
 |**barude**|ara:fas:urd:(bārūd), hin:बारूद (bārūd), swa:baruti, tur:barut|
+|**barxa**|fas: باران‎ (bârân), tur:baran, hin:बारिश (bāriś);  वर्षा (varṣā, ben:বৃষ্টি (briśṭi)|
 |**bas**|fas:urd:س (bas), ara:(bass), hin:(bas), swa:basi, spa:por:ita:basta|
 |**basen**|eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|
 |**baske**|eng:basket, may:bakul, jpn:バスケット (basuketto)|
@@ -213,6 +214,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**boron**|eng:boron, fra:boron, spa:boro, por:boro, rus:бор, vie:bo, hin:बोरॉन्, ben:বোরন, may:boron, swa:boroni, ara: بورون|
 |**Bote**|tib:བོད (bod, phø)|
 |**botel**|eng:bottle, fra:bouteille, spa:botella, por:botelha, rus:бутылка (butylka), hin:बोतल (botal), ben:বোতল (botôl), may:botol|
+|**bra**|ell:φράτηρ (phrater), eng:brother, por:brada; bródi, rus:брат (brat), fas: برادر‎ (barâdar), hin:बिरादर (birādar), ben:বেরাদর (beradôr), may:bruder, jpn:ブラザー (burazā), kor:브라더 (beuradeo), tur:birader, swa:bradha|
 |**brauza gi**|eng:browser, deu:Browser, rus:браузер (brauzer), hin:ब्राउज़र (brauzar), ben:ব্রাউজার (brā'ujāra), jpn:ブラウザ (burauzā)|
 |**bravo**|eng:fra:brave, rus:бравый (braviy), por:bravo, ara:(brāvo)|
 |**briko**|ara:(barqūq), eng:apricot, fra:abricot, spa:albaricoque, por:abricó, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|
@@ -260,6 +262,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**ceti**|fra:sept, spa:siete, por:sete, hin:सात (sāt), ben:সাত (sat) + zho:七 (qī), yue:七 (cat1),  jpn:七 (shichi), kor:칠 (chil), tha:เจ็ด (chet) + tur:yedi|
 |**cili**|eng:chili, por:spa:chile, jpn:チリ (chiri), kor:칠리 (chilli), may:cili|
 |**cimpanzi**|eng:chimpanzee, spa:chimpancé, por:fra:chimpanzé, rus:шимпанзе (shimpanze), tur:şempanze, ara:شمبانزي‎ (šimbanzī), hin:चिंपांजी (cimpāñjī), jpn:チンパンジー (chinpanjī), may:cimpanzi|
+|**cin**|zho:親 (qīn), yue:親 (can), wuu:親 (qin), jpn:親 (shin), kor:친 (chin)|
 |**cincila**|eng:spa:fra:chinchilla, por:chinchila, rus:шиншилла (šinšilla), tur:çinçilya, may:cincila, jpn:チンチラ (chinchira)|
 |**cing**|zho:请 (qǐng), yue:請 (cing2), kor:청 (cheong), vie:thỉnh|
 |**cini**|zho:瓷 (cí) + eng:chinaware, hin:चीनी (cīnī), ben:চীনামাটি (cinamaṭi), ara: صِينِيَّة‎ (ṣīniyya), swa:sini|
@@ -628,6 +631,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**idea**|fra:idée, deu:Idee, hat:may:ide, fas:(ide), por:ideia, rus:идея (ideya), vie:ý định|
 |**idiote**|eng:deu:fra:may:idiot, spa:por:idiota, rus:идиот (idiot)|
 |**ifrite**|ara:عِفْرِيت‎ (ʿifrīt), eng:spa:por:fra:tur:may:ifrit, deu:Ifrit, rus:ифрит (ifrit), jpn:イフリート (ifuriito)|
+|**iglu**|eng:igloo, fra:iglou, spa:iglú, por:tur:may:iglu, rus:иглу (iglu), hin:इग्लू (iglū), jpn:イグルー (igurū), kor:이글루 (igeullu)|
 |**iha**|onom. eng:heehaw, fra:hi-han, rus:и-а (i-a), vie:hô hố, tur:aa-i|
 |**imperi dexa**|eng:empire, spa:imperio, por:império, rus:империя (imperiya), ara:إِمْبِرَاطُورِيَّة‎ (ʾimbirāṭūriyya), fas:امپراطوری‎ (emperâturi), may:empayar|
 |**in**|eng:in, fra:spa:en, por:em + zho:内 (nèi), jpn:内 (nai), kor:내 (nae), vie:nội, tha:ใน (nai)|
@@ -924,6 +928,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**lung**|zho:龙 (lóng), yue:龍 (lung4), vie:rồng,long, kor:용 (yong), 룡 (ryong), jpn:竜 (ryū), khm:រោង (roong), tha:มะโรง (má-roong)|
 |**luta**|hin:लूटना (lūṭnā), urd:(lūṭnā), ben:লুটা (luṭā), pnb:ਲੁੱਟ (luṭ), eng:loot, + zho:掠夺 (lüèduó), yue:掠 (loek6)|
 |**lutesi yum**|eng:lutetium, fra:lutécium, spa:lutecio, por:lutécio, rus:лютеций, zho:镥 (lǔ), jpn:ルテニウム, kor:루테튬, vie:lutexi, hin:लुटेटियम, ben:লুটেসিয়াম, may:lutetium, swa:luteti, ara: لوتيتيوم|
+|**ma**|por:mãe + zho:妈 (mā), vie:má, ben:মা (ma), hin:मां (mã) + eng:swa:mama, spa:mamá, fra:maman, rus:мама (mama), jpn:ママ (mama), kor:엄마 (eomma)|
 |**maf**|ara: مُعَاف‎ (muʿāf), hin:माफ़ (māf), ben:মাফ (maph), may:maaf, swa:afu, tur:af, hau:yafe|
 |**magen yum**|eng:magnesium, fra:magnésium, spa:magnesio, por:magnésio, rus:магний, zho:镁 (měi), jpn:マグネシウム, kor:마그네슘, vie:magiê, hin:मैग्नेशियम, ben:ম্যাগনেসিয়াম, may:magnesium, swa:magnesi, ara: مغنيسيوم|
 |**magi**|fas: مغ‎ (moğ), ara: مُوغِيّ‎ (mūḡiyy), ell:μάγος (magos), eng:magic, fra:magie, spa:por:magia, rus:магия (magiya) + zho:魔 (mó), jpn:魔 (ma), kor:마 (ma), vie:ma|
@@ -1135,6 +1140,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**osmos**|ell:ώσμωση (ósmosi), eng:may:osmosis, spa:ósmosis, por:fra:osmose, rus:осмос (osmos), fas:تَراران (osmoz)|
 |**oste**|eng:deu:osteo-, rus:остео- (osteo-), ita:por:osso, fra:os, hin:अस्थि (asthi-)|
 |**oxe**|eng:oxygen, fra:oxygène, spa:oxígeno, por:oxigénio, rus:кислород, vie:oxy, oxi, hin:ऑक्सीजन, ben:অক্সিজেন, may:oksigen, swa:oksijeni, ara: أكسجين|
+|**pa**|eng:fra:papa, spa:papá, por:pai, rus:папа (papa), ara:(bābā), zho:爸 (bà), jpn:パパ (papa), kor:아빠 (appa), hin:बाप (bāp),  ben:বাবা (baba), may:bapa, swa:tur:baba|
 |**paci**|hin:mar:पक्षी (pakṣī), ben:পাখী (pakhī), tam:பட்சி (paṭci), tel:(pakṣi), kh:បក្សី (baksəy), tha:ปักษา (pak-sa)|
 |**pada**|tel:(paḍu), rus:падать (padat'), hin: पड़ना (paṛnā)|
 |**pagri**|hin:mar:पगड़ी (pagṛī), urd:(pagṛī), ben:পাগড়ি (pagri)|
@@ -1301,8 +1307,6 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**rom**|eng:rum, spa:ron, hin:रम (ram), rus:ром (rom)|
 |**romanse**|fra:eng:spa:por:romance, rus:роман (roman), jpn:ロマンス (romansu), kor:로맨스 (romaenseu), ara: رُومَانْسِيّ‎ (rōmansiyy), tur:romans|
 |**rose**|fra:rosée, spa:rocío, rus:роса (rosa)|
-|**roste**|fra:rôtir, eng:roast, deu:rösten, ita:arrostare|
-|**rota vanu gi**|eng:top, fra:toupie|
 |**rubi bau seku**|eng:ruby, por:rubi, spa:rubí, fra:rubis, deu:Rubin, rus:рубин (rubin), jpn:ルビー (rubī)|
 |**rubi yum**|eng:rubidium, fra:rubidium, spa:rubidio, por:rubídio, rus:рубидий, zho:铷 (rú), jpn:ルビジウム, kor:루비듐, vie:rubiđi, hin:रुबिडियम, ben:রুবিডিয়াম, may:rubidium, swa:rubidi, ara: روبيديوم|
 |**ruhu**|ara:(rūħ), may:ruh, tur:ruh, hin:रूह (rūh), swa:roho, hau:ruhu, som:ruux, + rus:дух (duh)|
@@ -1342,6 +1346,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**sapatu**|spa:zapato, por:sapato, may:sepatu, swa:sapatu|
 |**sar**|fas:(sar), hin:सिर (sir) + ara:(raʾs), swa:rasi|
 |**sata**|ara:(sāʿa), fas:(sâ'at), may:tur:saat, swa:saa|
+|**sau**|hin:सहोदर (sahodar), ben:সহোদর (śôhodôr), tam:சகோதரன் (sahōdaraṉ), may:saudara|
 |**sauna**|fin:deu:eng:fra:por:spa:may:tur:sauna, rus:сауна (sauna), zho:桑拿 (sāngná), jpn:サウナ (sauna), kor:사우나 (sauna), hin:सॉना (sonā), fas:urd:(sonā), tha:ซาวน่า (saona)|
 |**saur**|ell:σαύρα (saura), eng:-saur, fra:-saure, spa:-saurio, por:-sauro, rus:-завр (-zavr), hin:ben: may:-saur(us) + hin:सरट (saraṭ)|
 |**saya**|fas:(sāye), urd:(sāyā), hin:साया (sāyā), छाया (chāyā), ben:ছায়া (chaya), tha:ฉายา (chāyā)|
@@ -1383,6 +1388,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**singa**|may:singa, hin:सिंघ (singh), ben:সিংহ (singh), tam:சிங்கம் (sinkam), tha:สิง (sing), zho:狮 (shī), jpn:獅子 (shishi), + swa:simba|
 |**sir**|ara:(sirr), tur:sır, fas:(serr), swa:siri|
 |**siro**|ara: صِفْر‎ (ṣifr), swa:sifuri, hin:सिफ़र (sifar), may:sifar, eng:por:zero, fra:zéro, spa:cero, rus:зеро (zero), jpn:ゼロ (zero), kor:제로 (jero), vie:zêrô|
+|**sis**|eng:sister, deu:Schwester, rus:сестра (sestra)|
 |**sismo**|ell:σεισμός (seismós), eng:seism, spa:sismo, fra:séisme, tur:sismik|
 |**sistem**|eng:system, spa:por:sistema, fra:système, rus:система (sistema), hin:सिस्टम (sisṭam), ben:সিস্টেম (śiśṭem), may:sistem|
 |**sita**|eng:cite, spa:por:citar, fra:citer, deu:zitieren, rus:цитировать (citirovat’)|
@@ -1475,6 +1481,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**tikete**|eng:deu:ticket, spa:por:etiqueta, fra:étiquette, rus:этикетка (etiketka), tur:etiket, may:tiket, hin:टिकट (ṭikaṭ), urd:ٹکٹ (ṭikaṭ), ben:টিকিট (ṭikiṭ), amh:ቲኬት (tiket), kor:티켓 (tiket), jpn:チケット (chiketto)|
 |**tim**|eng:team, deu:Team, swa:timu, hin:टीम (ṭīm), jpn:チーム (chīmu), kor:팀 (tim)|
 |**tipe**|eng:fra:type, spa:por:tipo, ru:тип (tip), tur:tip, jpn:タイプ (taipu)|
+|**tipi**|deu:Tipi, eng:fra:spa:por:may:tur:tipi, hin:टीपी (tipi), zho:梯皮 (tīpí), jpn:ティピー (tipi), kor:티피 (tipi)|
 |**tire**|spa:por:tirar, fra:tirer, eng:tear, tur:tire, may:tarik|
 |**tis**|eng:spa:-itis, fra:por:-ite, rus:-ит (-it)|
 |**tisa**|ara: تِسْعَة‎ (tisʿa), swa:tisa|
@@ -1598,7 +1605,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**xarnir**|fra:charnière, spa:charnela, deu:Scharnier, rus:шарнир (šarnir)|
 |**xarti**|tur:şart, ara:fas:(šart), swa:sharuti, hin:शर्त (śart), ben:শর্ত (śôrt)|
 |**xatan ja**|heb: שָׂטָן‎ (śaṭan), ara:(šayṭān), eng:fra:deu:vie:Satan, spa:Satán, por:Satã, rus:Сатана (Satana), zho:撒但 (Sādàn), kor:사탄 (satan), jpn:サタン (satan), hin:शैतान (śaitān), may:Setan, tur:şeytan, swa:Shetani|
-|**xava**|por:chuva + eng:shower, deu:Schauer + jpn:シャワー (shawā), hin:शावर (śāvar)|
+|**xava**|ara: شَوَى‎ (šawā) + zho:烧 (shāo), yue:燒, (siu1)|
 |**xaxa**|zho:(shasha), rus:шуршать (shurshat’), swa:-chakacha|
 |**xayu**|zho:鲨鱼 (shāyú), yue: 鯊魚  (saa1 jyu4-2), kor:상어 (sang'eo), jpn:鮫 (same) + may:hiu; yu|
 |**xe**|ara:(šayʾ), tur:şey, + zho:事 (shì), yue:事 (si6)|
@@ -1654,6 +1661,7 @@ pandunia lexi ye lai de poli baxa de dunia.
 |**you**|zho:幼 (yòu), yue:幼 (yau3), jpn:幼 (yõ), kor:유 (yu) + hin:युवा (yuvā), tam:யுவன் (yuvaṉ), tel:యువ (yuva) + spa:joven, por:jovem, fra:juvénile|
 |**yumor**|rus:юмор (yumor), spa:eng:humor, fra:humour, jpn:ユーモア (yūmoa), kor:유머 (yumeo), zho:幽默 (yōumò)|
 |**yung**|zho:溶 (róng), yue:溶 (jung4), jpn:溶 (yō), kor:용 (yong), vie:dung|
+|**yurta**|tur:eng:yurt, deu:Jurte, fra:yourte, spa:yurta, por:iurte, rus:юрта (yurta), hin:युर्त (yurt), kor:유르트 (yureuteu)|
 |**yuter yum**|eng:yttrium, fra:yttrium, spa:itrio, por:itrio, rus:иттрий, zho:钇 (yǐ), jpn:イットリウム, kor:이트륨, vie:ytri, hin:इत्रियम, ben:ইটরিয়াম, may:itrium, swa:yitri, ara: يتريوم|
 |**yuterbi yum**|eng:ytterbium, fra:ytterbium, spa:iterbio, por:itérbio, rus:иттербий, zho:镱 (yì), jpn:イッテルビウム, kor:이테르븀, vie:ytecbi, hin:यिट्टरबियम, ben:ইটারবিয়াম, may:iterbium, swa:yitebi, ara: يتربيوم|
 |**zai**|zho:在 (zài), jpn:在 (zai), vie:tại|
