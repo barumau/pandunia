@@ -7,11 +7,11 @@ Les pronoms servent à remplacer des noms et des groupes nominaux.
 
 | Singulaire  | Pluriel       |
 |:------------|:-------------|
-| **mi**      | **mimon**    |
+| **mi**      | **mimen**    |
 | je, me, moi | nous         |
-| **tu**      | **tumon**    |
+| **tu**      | **tumen**    |
 | tu, te, toi | vous         |
-| **ye**      | **yemon**    |
+| **da**      | **damen**    |
 
 | il, elle, le, lui, la | ils, elles, les, leur |
 
@@ -27,26 +27,26 @@ Remarque ! Le pronom réfléchi **ze** s'utilise pour toutes les personnes, donc
 
 **mi vide se**
 – Je me vois.  
-**ye vide se**
+**da vide se**
 – Elle se voit. / Il se voit.  
-**mimon vide se.**
+**mimen vide se.**
 – Nous nous voyons.
 
 
 ### 5.3. Les pronoms démonstratifs
 
-**ni**
+**ye**
 – ceci, celui-ci, celle(s)-ci, ceux-ci  
-**go** 
+**vo** 
 – cela, celui-là, celle(s)-là, ceux-là
 
-**ni mau** 
+**ye mau** 
 – Ce chat(-ci)  
-**go mau** 
+**vo mau** 
 – Ce chat(-là)  
-**mi vol ni.** 
+**mi vol ye.** 
 – Je veux celui-ci / ceci.  
-**ye vol go.** 
+**da vol vo.** 
 – Il/Elle veut celui-là / cela.
 
 
@@ -74,7 +74,7 @@ et il correspond en français à _comment_.
 
 **ko** peut être aussi suivi d'un adjectif pour poser une question.
 
-**ke nove?**
+**ke neu?**
 – Quel degré de nouveauté ? (Comment neuf?)
 **ke koste?**
 – Quel prix ? (Comment cher ?)
@@ -82,9 +82,9 @@ et il correspond en français à _comment_.
 – Combien ? En quelle quantité ? (Comment beaucoup ?)
 **ke dai?**
 – Quelle taille ? (Comment grand ?)
-**ke lili?**
+**ke xiu?**
 – Quelle taille ? (Comment petit ?)
 
-**tu tena ke dai di mau?**
+**tu ten ke dai di mau?**
 – Quelle taille fait le chat que tu as? (Tu as un chat comment grand ?)
 

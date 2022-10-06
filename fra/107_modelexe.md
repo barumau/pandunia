@@ -2,33 +2,33 @@
 
 Un modificateurs est un mot qui ajoute une qualité ou une description à un autre mot, par exemple _bon, mauvais, gros_ et _rapide_.
 
-**un _nove_ kar**
+**un _neu_ kar**
 – une voiture nouvelle  
-**un _rapide_ kar**
+**un _suga_ kar**
 – voiture(s) rapide(s)
-**ba _dai_ meza**
+**men _dai_ meza**
 – grande(s) table(s)  
-**ba _gau_ meza**
+**men _gau_ meza**
 – table(s) haute(s) 
 **un bon jen**
 – bonne(s) chaise(s)
 
 Deux adjectifs ou plus peuvent modifier un même mot.
 
-**un lili nove kar**
+**un xiu neu gar**
 – petite voiture neuve
 
 L'adjectif peut se placer aussi après le nom.
 Cette structure peut souvent se lire comme une phrase complète, où l'adjectif fonctionne comme un verbe adjectival, et où le verbe _être_ est sous-entendu.
 
-**la kar si nove.** 
+**la gar e neu.** 
 – La voiture est neuve.  
-**la bagre si rapide.** 
+**la bagre e suga.** 
 – Le tigre est rapide.
 
 Naturellement, il peut y avoir des modificateurs des deux côtés du nom également.
 
-**la nove kar si rapide.** 
+**la neu gar e suga.** 
 – La voiture neuve est rapide.
 
 # Adverbes
@@ -41,7 +41,7 @@ En pandunia, les adverbes se terminent en **-o** et ils se placent avant le verb
 – Je _bien_ dors.  
 **mi sona bon.** 
 – Je dors _bien_.  
-**tu basha pandunia bon.** 
+**tu baxa pandunia bon.** 
 – Tu parles pandunia _bien_.
 
 
@@ -52,14 +52,14 @@ Ainsi, **day** (grand) et **lil** (petit) peuvent être utilisés comme des adve
 
 **un dai jen** 
 – un grand individu  
-**un lili jen** 
+**un xiu jen** 
 – un petit individu  
-**un sundar jen** 
+**un mei jen** 
 – un bel individu
 
-**un dai di sundar jen** 
+**un dai di mei jen** 
 – un très bel individu  
-**un lili di sundar jen** 
+**un xiu di mei jen** 
 – un assez bel individu
 
 
@@ -67,9 +67,9 @@ Ainsi, **day** (grand) et **lil** (petit) peuvent être utilisés comme des adve
 
 Les modificateurs peuvent être comparés.
 
-- **mas**
+- **max**
   (plus) marque le comparatif de supériorité
-- **masim**
+- **maxim**
   (le plus) marque le superlatif de supériorité
 - **min**
   (moins) marque le comparatif d'infériorité
@@ -80,7 +80,7 @@ Les modificateurs peuvent être comparés.
 
 La particule **ko** met en relation les adverbes de comparaison à l'élément comparé.
 
-**mi si mas bon ka tu.**
+**mi e max bon ka tu.**
 = Je suis meilleur que toi.  
 **tu loga par bon ka mi.**
 = Tu parles aussi bien que moi.

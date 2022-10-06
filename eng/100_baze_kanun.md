@@ -47,7 +47,7 @@ They are described in more detail later in this document.
    and the adverb modifier is before the verb that it modifies.
     - **un kuai loga**
       – A fast speech.
-    - **tu kuai loga.**
+    - **tu suga loga.**
       – You speak fast.
 8. **Verbs:**
    The verb does not change in person, number and tense.

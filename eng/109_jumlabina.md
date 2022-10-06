@@ -7,7 +7,7 @@ They may consist of only one word, which draws the listener's attention.
 
 **mau!**
 – A cat!  
-**xave!**
+**barxa!**
 – Rain! / (It) rains!
 
 
@@ -753,7 +753,7 @@ So a modifier phrase with and without **de** can mean a different thing.
 
 **max mei hua**
 – more beautiful flowers  
-**max di mei hua**
+**max de mei hua**
 – more of beautiful flowers
 
 #### Modification with verb phrases

@@ -31,7 +31,7 @@ Le nombre peut être mentionné avec des numéraux au besoin.
 – deux chaises  
 **tri kursi**
 – trois chaises  
-**ba kursi**
+**men kursi**
 – beaucoup de chaises; des chaises
 
 
@@ -40,5 +40,5 @@ Le nombre peut être mentionné avec des numéraux au besoin.
 Le pandunia n'a pas de genre grammatical (maculin, féminin ou neutre).
 
 Certains mots ont un _genre naturel_.
-Ainsi, **fem** (femme) est féminin et **man** (homme) est masculin.
+Ainsi, **fem** 'femme' est féminin et **man** 'homme' est masculin.
 

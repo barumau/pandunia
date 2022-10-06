@@ -40,14 +40,14 @@ The same word, without any change in form, can serve as a noun, adjective or ver
 
 ### Personal pronouns
 
-|                   |              |
-|:-----------------:|:------------:|
-| **mi**            | **mimen**    |
-| _I, me_           | _we, us_     |
-| **tu**            | **tumen**    |
-| _you_             | _you all_    |
-| **da**            | **damen**    |
-| _he/she, him/her_ | _they, them_ |
+| Person   | Singular          | Plural       |
+|:---------|:-----------------:|:------------:|
+|          | **mi**            | **mimen**    |
+| 1st      | _I, me_           | _we, us_     |
+|          | **tu**            | **tumen**    |
+| 2nd      | _you_             | _you all_    |
+|          | **da**            | **damen**    |
+| 3rd      | _he/she, him/her_ | _they, them_ |
 
 ### Basic sentence structures
 
@@ -200,8 +200,8 @@ To ask a content question, write a normal sentence and replace the word in quest
 
 To state a command, leave out the subject and start the sentence with the verb.
 
-**yam ni pai!**
+**yam ye pai!**
 – Eat this pie!  
-**vide go mau!**
+**vide vo mau!**
 – Look at that cat!
 

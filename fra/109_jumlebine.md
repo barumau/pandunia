@@ -7,7 +7,7 @@ Elles peuvent ne se construire que d'un mot, ce qui attire l'attention de l'audi
 
 **mau!**
 – Un chat !  
-**xava!**
+**barxa!**
 – (Il) pleut !
 
 
@@ -22,39 +22,39 @@ Dans les phrases les plus simples, le sujet est un nom ou un pronom et le prédi
 – Je vais bien. (= Je suis bon.)  
 **ye nove.**
 – C'est nouveau.  
-**ye Sara.**
+**da Sara.**
 – C'est Sarah.  
-**Sara si bon.**
+**Sara e bon.**
 – Sarah va bien.  
-**seku si dai.**
+**seku e dai.**
 – La pierre est grosse.  
-**meza si nove.**
+**meza e neu.**
 – La table est neuve.  
 
 The word **no** is added to form the negative.
 
 **mi no bon.** 
 – Je ne vais pas bien. (= Je ne suis pas bon.)  
-**ye no nove.** 
+**da no neu.** 
 – Ce n'est pas nouveau.  
-**ye no Sara.** 
+**da no Sara.** 
 – Ce n'est pas Sarah.
 
 Il est possible d'ajouter le mot **si** (oui) avant le prédicat dans des phrases affirmatives, selon le style et la praticité.
 Dans ce cas la structure est similaire à celle des phrases négatives.
 
-**Sara si bon.** 
+**Sara e bon.** 
 – Sarah va bien.  
-**la seku si dai.** 
+**la seku e dai.** 
 – La pierre est grosse.  
-**la meza si nove.** 
+**la meza e neu.** 
 – La table est neuve.  
 **la meza no lau.** 
 – La table n'est pas vieille.
 
 De plus, deux pronoms personnels peuvent être combinés avec **si** et **no**.
 
-**mi si ye.** 
+**mi e da.** 
 – Moi, c'est lui / elle.  
 **mi no tu.** 
 – Je ne suis pas toi.
@@ -63,14 +63,14 @@ De plus, deux pronoms personnels peuvent être combinés avec **si** et **no**.
 
 La même règle s'applique aussi pour deux adjectifs.
 
-**jovan si sundar.** 
+**jun e mei.** 
 – (Être) jeune, c'est beau.  
-**nove no lau.** 
+**neu no lau.** 
 – Neuf, ce n'est pas vieux.  
 
 ### Quand le sujet est un verbe
 
-**canta si bon.**
+**gani e bon.**
 – Chanter, c'est bon.
 
 
@@ -107,7 +107,7 @@ En pandunia, la voix passive est marquée par le verbe auxiliaire **be**.
 
 L'agent peut être introduit après le verbe à l'aide de la particule **da**.
 
-**tu be vide da me.**
+**tu be vide de mi.**
 – Tu es vu.e par moi.
 
 
@@ -133,11 +133,11 @@ Donc **tu** est le _pivot_ de la phrase entière.
 
 Il peut y avoir deux ou trois verbes dans une suite, voire davantage, et ils portent tous sur le même sujet.
 
-1. **mi ga do dom.**
+1. **mi ga to dom.**
    – Je vais à la maison.  
-2. **mi bil ga do dom.**
+2. **mi bil ga to dom.**
    – Je peux aller à la maison.  
-3. **mi vol bil ga do dom.**
+3. **mi vol bil ga to dom.**
    – Je veux pouvoir aller à la maison.
 
 ## Omission des pronoms
@@ -154,9 +154,9 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ###. Short pivot structure (VVO)
 
-**mi ching tu lai do dom.** 
+**mi cing tu lai do dom.** 
 – Je te prie de venir à la maison.  
-**ching lai do dom!** 
+**cing lai do dom!** 
 – S'il te plait viens à la maison !
 (Mot à mot : _Demande viens maison !_)
 
@@ -166,18 +166,18 @@ C'est particulièrement valable pour l'expression d'ordres et de demandes.
 
 ### Conjonctions de base
 
-1. **e**
+1. **i**
    et (connecte deux mots ou phrases semblables)
 2. **o**
    ou (connecte deux mots ou phrases alternatifs)
-3. **a**
+3. **ama**
    mais (introduit un mot ou une phrase qui vient en contraste ou en contradiction du mot ou de la phrase précédents)
 
 **mi suka mau e vaf.**
 – J'aime les chats et les chiens.  
 **mi suka mau o vaf.**
 – J'aime les chats ou les chiens.  
-**mi suka mau a no vaf.**
+**mi suka mau ama no vaf.**
 – J'aime les chats mais pas les chiens.
 
 --------------------------------------------------------------------------------
@@ -195,18 +195,18 @@ La particule **ya** est affirmative et la particule **no** est négative.
 Une expression est affirmative par défaut, donc le mot **ya** n'est pas toujours nécessaire.
 
 
-**mi si jen.** 
+**mi e jen.** 
 – Je suis une personne.  
-**ye ya si nove meza.**
+**da ya e neu meza.**
 – C'est une nouvelle table.
 
 #### Particule négative
 
 La négation de phrases telles que ci-dessus s'exprime simplement par **no**.
 
-**mi no si jen.** 
+**mi no e jen.** 
 – Je ne suis pas une personne.  
-**ye no si nove meza.**
+**da no e neu meza.**
 – Ce n'est pas une nouvelle table.
 
 Le mot **no** sert à marquer la négation de n'importe quel élément dans la phrase.
@@ -217,17 +217,17 @@ Le sens de la phrase change donc selon l'emplacement du **no**.
 – Je te vois.  
 **mi no vide tu.**
 – Je ne te vois pas.  
-**mi vide no tu a yemon.**
+**mi vide no tu a damen.**
 – Ce n'est pas toi que je vois, mais eux.
 
-**mi cing tu safa la kamar.**
+**mi cing tu safi la kamar.**
 – Je te demande de nettoyer la chambre.  
-**mi no cing tu safa la kamar.**
+**mi no cing tu safi la kamar.**
 – Je NE demande PAS à toi de nettoyer la chambre.  
-**mi cing tu no safa la kamar.**
+**mi cing tu no safi la kamar.**
 – Je te demande de NE PAS nettoyer la chambre.
 
-Les particules **si** et **no** sont également utilisées pour répondre aux questions.
+Les particules **ya** et **no** sont également utilisées pour répondre aux questions.
 
 **sual tu vide mi?** 
 – Est-ce que tu me voies ?  
@@ -248,9 +248,9 @@ On répond aux phrases interro-négatives de façon à ce que **ya** et **no** s
 
 ### Particules modificatrices
 
-Les particules **di** et **da** servent à relier un nom, un adjectif ou une proposition subordonnée à un autre nom pour le modifier.
+Les particules **di** et **de** servent à relier un nom, un adjectif ou une proposition subordonnée à un autre nom pour le modifier.
 **di** relie le mot ou la proposition qui modifie au nom principal.
-**da** fonctionne de manière inverse, il connecte le nom principal au mot modificateur ou à la subordonnée.
+**de** fonctionne de manière inverse, il connecte le nom principal au mot modificateur ou à la subordonnée.
 
 ### 9.2.2. Modification par des groupes nominal
 
@@ -259,16 +259,16 @@ Cela permet de préciser le nom, et la particule choisie montre clairement à qu
 
 Les particules modificatrices permettent ainsi de créer des groupes nominaux compléments complexes de deux mots ou davantage.
 
-**roze rang di labi**
+**rode rang di labi**
 – des lèvres de couleur rose 
 **sama rang di yen**
 – des yeux de la couleur du ciel
 
 Ou dans l'ordre inverse :
 
-**labi da roze rang**
+**labi de roze rang**
 – des lèvres de couleur rose  
-**yen da sama rang**
+**yen de sama rang**
 – des yeux de la couleur du ciel
 
 Ces particules permettent également de créer des mots-mesures.
@@ -277,15 +277,15 @@ Ces particules permettent également de créer des mots-mesures.
 – un sac de pommes de terre
 **du sake di patate**
 – deux sacs de pommes de terre
-**mas sake di patate**
+**max sake di patate**
 – plus / davantage de sacs de pommes de terre
 
 Remarque : **du** and **da** connectent des propositions.
 Donc un groupe de mots peut prendre un sens tout à fait différent avec ou sans **du**.
 
-**mas sundar hua**
+**max mei hua**
 – des fleurs plus belles  
-**mas da sundar hua**
+**max de mei hua**
 – davantage de belles fleurs (de belles fleurs en plus grande quantité)
 
 
@@ -317,13 +317,13 @@ En pandunia, une particule modale modifie le mot qui la suit, ou bien toute la p
 
 La particule **plus** _(aussi, également)_ en est un bon exemple car elle fonctionne plutôt comme en français.
 
-**ye yam bir plus.**
+**da yam bir plus.**
 – Elle boit de la bière, _en plus_.  
-**ye yam plus bir.**
+**da yam plus bir.**
 – Elle boit _de la bière aussi_.  
-**ye plus yam bir.**
+**da plus yam bir.**
 – Elle _boit aussi_ de la bière.  
-**plus ye yam bir.**
+**plus da yam bir.**
 – _Elle aussi_ boit de la bière.
 
 Les particules modales peuvent modifier toutes sortes de mots, y compris des pronoms et des numéraux, ce que les adjectifs ne peuvent pas modifier.
@@ -346,7 +346,7 @@ On peut aussi utiliser une expression temporelle telle que **sa pase** (dans le 
 
 **mi ha mau na pas zaman.**
 – J'avais des chats dans le passé.  
-**a mi no ha mau na zai zaman.**
+**ama mi no ha mau na zai zaman.**
 – Mais je n'ai plus de chats à présent.  
 **bil, mi ha mau na xa zaman.**
 – Peut-être aurai-je des chats à l'avenir.

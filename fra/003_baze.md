@@ -21,6 +21,17 @@ Toutes les autres consonnes se prononcent comme en français à l'exception de :
 - **y** qui se prononce ILL comme dans _paille_ ou _abeille_
 
 
+### Pronoms personnels
+
+| Personne | Singulier         | Pluriel      |
+|:---------|:-----------------:|:------------:|
+|          | **mi**            | **mimen**    |
+| Première | _je, me, moi_     | _nous_       |
+|          | **tu**            | **tumen**    |
+| Deuxième | _tu, te, toi ; vous (politesse)_ | _vous_ |
+|          | **da**            | **damen**    |
+|Troisième |_il ou elle, le, lui_|_ils ou elles, les, leur_|
+
 ### Noms
 
 Les noms sont invariables : ils peuvent être indifféremment au singulier ou au pluriel ; définis ou indéfinis ; masculins, neutres ou féminins.
@@ -30,20 +41,13 @@ Le nombre, le genre ou le caractère défini sont marqués par des mots complém
 – un chat, une chatte, le chat, la chatte, les chats, les chattes, des chats, des chattes  
 **un mau**
 – un chat, une chatte  
-**poli mau**
+**men mau**
 – beaucoup de chats, beaucoup de chattes  
-**ni mau**
+**ye mau**
 – ce chat-ci, cette chatte-ci, ces chats-ci, ces chattes-ci
-**go mau**
+**vo mau**
 – ce chat-là, cette chatte-là, ces chats-ci, ces chattes-là
 
-### Pronoms personnels
-
-| Personne | Singulier                         | Pluriel                  |
-|--------|----------------------------------|-------------------------|
-| Première personne | **mi** (_je, me, moi_) | **mimon** (_nous_) |
-| Deuxième personne | **tu** (_tu, te, toi ; vous [politesse]_) | **tumon** (_vous_) |
-| Troisième personne | **ye** (_il ou elle, le, lui_) | **yemon** (_ils ou elles, les, leur_) |
 
 ### Verbes
 
@@ -96,9 +100,9 @@ Le point de comparison est introduit par **ko** (_que_).
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
 
-**mi poli ama tu.**
+**mi poli ame tu.**
 – Je beaucoup t'aime .  
-**mi ama tu, poli.**
+**mi ame tu, poli.**
 – Je t'aime beaucoup.
 
 
@@ -106,13 +110,13 @@ Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas t
 
 Le mot **no** met le mot qui suit à la forme négative.
 
-**no mi a ye vol kape ye.**
+**no mi ama da vol kape da.**
 – Pas moi mais lui [qui] veut le prendre.
-**mi no vol kape ye.**
+**mi no vol kape da.**
 – Je ne veux pas le prendre.  
-**mi vol no kape ye.**
+**mi vol no kape da.**
 – Je veux _ne pas le prendre_.  
-**mi vol kape no ye a va.**
+**mi vol kape no ye a vo.**
 – Je veux prendre _pas_ ceci_ mais cela.
 
 
@@ -127,7 +131,7 @@ C'est l'ordre des mots d'une phrase affirmative qui sert pour les questions.
 – Tu aimes qui ?  
 **ke man ya ame tu?**
 – Quel homme aimes-tu ?  
-**tu ame ye ke poli?**
+**tu ame da ke poli?**
 – Tu l'aimes combien ?
 
 ---
