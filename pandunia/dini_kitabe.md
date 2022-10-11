@@ -5,26 +5,26 @@
 mimen su sama pa,  
 sante tu su nam,  
 lai tu su raja dexa,  
-karma tu su ici  
-a geo e a sama.  
-cing da mimen su pan den di pang to mimen.  
+kar tu su ici  
+a geo i a sama.  
+cing don mimen su pan den di pang to mimen.  
 cing maf mimen su doxa,  
-ka mimen maf yamen jo doxa mimen.  
+ka mimen maf damen, ki doxa mimen.  
 cing no lide mimen to tenta  
 a mede mimen de dus.  
-tu ha raja dexa, bala, e onor a pan zaman.  
+tu ha raja dexa, bala, i onor a pan zaman.  
 amen.
 
 ## ☪
 
 alo deu no zai ka deu,  
-e muhamad si ya su nabija.
+i muhamad e da su nabija.
 
 ## ΑΩ
 
-insan si metre de pan xe.  
+insan e metre de pan xe.  
 – de _Protagoras_
 
-deu si morte. deu reste morte. e mimen le morte ye.  
+deu e mata. deu reste mata. i mimen le mata da.  
 – de _Fridrih Nice_ (Friedrich Nietzsche)
 

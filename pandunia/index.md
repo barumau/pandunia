@@ -4,22 +4,22 @@
 
 sal dunia!
 
-Pandunia si nove dunia baxa!
+Pandunia e neu dunia baxa!
 Pandunia su lexi ya lai de pan fen de dunia:
-Afrika, Amerika, Asia, Europe
-– de la dunia baxa ya yau vakil de mimen su pan dunia!
+Afrika, Amerika, Asia, Europa
+– de la dunia baxa ya yau vakil mimen su pan dunia!
 
-tu sabe Pandunia, he?
+tu sabi Pandunia, he?
 tu bil xula Pandunia a uze de [mini xula](mini_xule.html).
 
 
 * [zi seri](abc.md)
-* kitabu
+* kitaba
     * [la xiu baru su pati dante](baru_dante.md)
     * [tri xiu goro](3_lil_gurube.md)
-    * [tri behe e un gui](3_buze_e_guye.md)
+    * [tri behe i un gui](3_buze_e_guye.md)
     * [insan di putong haki](putong_hake.md)
-    * [din kitabu](dini_kitabe.md)
+    * [din kitaba](dini_kitabe.md)
     * [makal a tema de Pandunia a alo baxa](makal_tema_pandunia.md)
 * [filme](filme.md)
 * viki
@@ -28,7 +28,6 @@ tu bil xula Pandunia a uze de [mini xula](mini_xule.html).
 * lexi liste
     * [pandunia lexi a dunia karta](http://www.pandunia.info/lexikarta/index.html)
     * [dunia lexi](lexi/dunia_loge.html)
-    * [frute name](lexi/pal.html)
+    * [frute nam](lexi/pal.html)
     * [dexa su nam](dexa_nam.md)
-    * [lexi asal](leksaslia.md) e [lexi nomer](lexi_nume.md) e [asar de mula baxa](asar_da_mulbax.md)
-
+    * [lexi asal](leksaslia.md) e [lexi nume](lexi_nume.md) e [asar de mula baxa](asar_da_mulbax.md)

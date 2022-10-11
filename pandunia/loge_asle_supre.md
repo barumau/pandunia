@@ -1,13 +1,13 @@
 # pandunia lexi su asal
   
-pandunia lexi ye lai de poli baxa de dunia.
+pandunia lexi ya lai de poli baxa de dunia.
   
 - afrika baxa
     - (ara) arabi 
     - (swa) suahili 
     - (hau) hausa
     - (amh) amara
-- europa e amerika baxa
+- europa i amerika baxa
     - (eng) englix
     - (spa) espanya
     - (fra) franse
@@ -28,7 +28,7 @@ pandunia lexi ye lai de poli baxa de dunia.
     - (urd) urdu
     - (fil) filipin
     - (tur) turki
-    - (fas) farsi
+    - (fas) parsi
 
 | pandunia | loga su asal |
 |----------|--------------|
