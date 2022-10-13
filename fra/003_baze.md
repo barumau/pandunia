@@ -85,17 +85,17 @@ Les verbes au passif prennent la particule **be**.
 
 Les adjectifs se placent généralement devant le nom qu'ils modifient.
 
-**un nove idea**
+**un neu idea**
 – une nouvelle idée  
-**la bon buke**
+**la bon buku**
 – _les livres bonnes_
 
 On compare les adjectifs grâce aux mots
 **max** (_plus_), **maxim** (_le plus_),
 **min** (_moins_), **minim** (_le moins_) and **sam** (_aussi, tout autant_).
-Le point de comparison est introduit par **ko** (_que_).
+Le point de comparison est introduit par **ka** (_que_).
 
-**ni idea si max nove ka go idea.**
+**ye idea e max neu ka vo idea.**
 – Cette idée-ci est plus novatrice que cette idée-là.
 
 Les adverbes se placent généralement avant le nom qu'ils modifient, mais pas toujours.
