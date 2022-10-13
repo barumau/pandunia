@@ -11,25 +11,25 @@ eikä taivuttamalla verbiä niin kuin suomen kielessä.
 
 Verbin subjekti ilmaisee sen persoonan ja luvun.
 Esimerkiksi, verbi
-**si**
+**e**
 ('olla') on samassa muodossa kaikissa persoonissa.
 
-**_mi_ si dosti.**
+**_mi_ e dosti.**
 – Minä olen ystävä.  
-**_tu_ si dosti.**
+**_tu_ e dosti.**
 – Sinä olet ystävä.  
-**_ye_ si dosti.**
+**_da_ e dosti.**
 – Hän on ystävä.  
-**_mimon_ si dosti.**
+**_mimen_ e dosti.**
 – Me olemme ystäviä.  
-**_tumon_ si dosti.**
+**_tumen_ e dosti.**
 – Te olette ystäviä.  
-**_yemon_ si dosti.**
+**_damen_ e dosti.**
 – He ovat ystäviä.
 
 Subjektina voi olla myös substantiivi.
 
-**mau si zou.**
+**mau e hevan.**
 – Kissa on eläin.
 
 Subjektin ja verbin välissä on usein jokin kielioppisana merkitsemässä,
@@ -42,10 +42,10 @@ Väliin pantava merkki on yleensä partikkeli tai apuverbi, kuten
 joka selkeyttää lauseen rakennetta
 tuomatta siihen uutta asiasisältöä.
 
-**pexe si mau yam.**
-– Kala on kissan ruokaa.  
-**mau _ya_ yam yo pexe.**
-– Kissa syö kalaa.
+**karote e tuzi yam.**
+– Porkkana on pupun ruokaa.  
+**tuzi _ya_ yam karote.**
+– Puput syövät porkkanoita.
 
 Muita sopivia verbilausekkeen alun merkitsijöitä ovat ajan ja tavan apuverbit,
 jotka esitellään seuraavana.
@@ -70,9 +70,9 @@ ilmaisee toiminnan alkamista tai siirtymistä uuteen tilanteeseen.
 ('loppua, lakata')
 ilmaisee toiminnan loppumista tai lopettamista.
 
-**yemon fin haha.**
+**damen fin haha.**
 – He lakkaavat nauramasta.  
-**kaguji ya fin hoge.**
+**kaguji ya fin hogo.**
 – Paperi lakkaa palamasta.  
 **tu fin yam.**
 – Sinä lakkaat syömästä.
@@ -120,38 +120,38 @@ ilmaisee, että toiminta on toistuvaluonteista.
 ('saavuttaa')
 ilmaisee, että toiminta on loppunut mutta sen seuraukset ovat kuluvan hetken kannalta merkittäviä ja yhä voimassa.
 
-**ye _le_ si guru.**
+**da _le_ e guru.**
 – Hän on ollut opettaja.  
 **mi no _le_ gul yo alkohol.**
 – Minä en ole juonut alkoholia.  
 **mi _le_ no gul yo alkohol.**
 – Minä olen yhä juomatta alkoholia.  
-**mi _le_ don la buku do yemon.**
+**mi _le_ don la buku to damen.**
 – Minä olen antanut kirjan heille. (Siis se ei ole minulla.)  
-**yemon no _le_ don ye re do mi.**
+**damen no _le_ ridon da to mi.**
 – He eivät ole antaneet sitä takaisin minulle.  
-**mi _le_ lai do siti.**
+**mi _le_ lai to siti.**
 – Minä olen saapunut kaupunkiin.
 
 **pas**
 ('mennä ohi')
 ilmaisee ohimennyttä toimintaa, jonka seuraukset eivät ole olennaisia.
 
-**mi pas don la buku do yemon.**
+**mi pas don la buku to damen.**
 – Minä annoin kirjan heille (kerran).  
-**mi pas keka la France.**
+**mi pas vizite Franse.**
 – Minä kävin Ranskassa (kerran).  
 **mi pas ada gul yo bir.**
 – Minulla oli tapana juoda olutta (ennen).  
-**mi pas lai do siti.**
+**mi pas lai to siti.**
 – Minä tulin kaupunkiin (kerran).
 
 **xa**
 ('tulla tekemään')
 ilmaisee tulevaisuudessa tapahtuvaa toimintaa.
 
-**ye _xa_ si guru.**
+**da _xa_ e guru.**
 – Hän tulee olemaan opettaja.  
-**mi no _xa_ gul un bir.**
+**mi no _xa_ gul bir.**
 – Minä en tule juomaan olutta.
 

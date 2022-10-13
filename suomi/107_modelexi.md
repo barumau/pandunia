@@ -6,30 +6,30 @@ Määrite on sana, joka muokkaa tai tarkentaa toisen sanan merkitystä, esim. hy
 
 Adjektiivi eli laatusana on sana, joka muokkaa substantiivin merkitystä. Panduniassa adjektiivit ovat yleensä pääsanaa ennen.
 
-**un _nove_ kar**
+**un _neu_ kar**
 – uusi auto  
-**un _rapide_ kar**
+**un _suga_ kar**
 – nopea auto  
-**ba _dai_ meza**
-= iso pöytä  
-**ba _gau_ meza**
-= korkea pöytä  
+**men _dai_ meza**
+= isoja pöytiä  
+**men _gau_ meza**
+= korkeita pöytiä  
 **un bon jen**
 = hyvä tuoli
 
 Adjektiivi voi olla myös substantiivin jälkeen.
 Monesti tällainen rakenne on luettavissa kokonaisena virkkeenä, jossa ei ole käytetty olla-verbiä.
 
-**ye nove.**
+**da neu.**
 – Se on uusi.  
-**kar (si) nove.**
+**gar (e) neu.**
 – Auto on uusi.  
-**bagre (si) rapide.**
+**bagre (e) suga.**
 – Tiikeri on nopea.
 
 Luonnollisesti laatusanoja voi olla substantiivin kummallakin puolella.
 
-**nove kar (si) rapide.**
+**neu kar (e) suga.**
 = Uusi auto on nopea.
 
 
@@ -39,9 +39,9 @@ Adverbi määrittää teonsanaa, adjektiivia tai toista adverbia.
 
 Tavan adverbi on verbin edellä.
 
-**tu _rapide_ loga.**
+**tu _suga_ loga.**
 – Sinä _nopeasti_ puhut.  
-**yemon _bon_ kitabu.**
+**damen _bon_ kitaba.**
 – He _hyvin_ kirjoittavat.
 
 Määritepartikkeli
@@ -49,9 +49,9 @@ Määritepartikkeli
 pannaan usein adverbin ja verbin väliin.
 Se selkeyttää verbilausekkeen rakennetta.
 
-**tu _sundar di_ kitabu.**
+**tu _mei di_ kitabu.**
 – Sinä _kauniisti_ kirjoitat.  
-**yemon _rapide di_ marce.**
+**damen _suga di_ marce.**
 – He _nopeasti_ kävelevät.
 
 
@@ -63,7 +63,7 @@ käytetään myös kun määrite määrittää toista määritettä.
 
 **un _surpris di_ bon buku**
 – _yllätävän_ hyvä kirja  
-**ba _lika di_ ama ja jen**
+**poli _bala di_ ame ja jen**
 – _voimakkaasti_ rakastavat ihmiset
 
 
@@ -75,11 +75,11 @@ Asteen määritteet kertovat laadun voimakkuudesta.
 – paljon, sangen, hyvin  
 **bas**
 – tarpeeksi, kyllin  
-**mas**
+**max**
 – enemmän  
 **min**
 – vähemmän
-**mas ka bas**
+**max ka bas**
 – enemmän kuin tarpeeksi, liian  
 
 Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
@@ -90,7 +90,7 @@ Asteen määritteet tulevat ennen määrittelemäänsä sanaa.
 – hyvin iso mies  
 **un bas dai man**
 – tarpeeksi iso mies  
-**un mas dai man ka bas**
+**un max dai man ka bas**
 – liian iso mies
 
 Asteen määrite muodostaa _yhdysadverbin_ toisen määritteen kanssa.
@@ -117,9 +117,9 @@ jolloin se määrittää lausetta kokonaisuutena.
 
 Sekä adjektiiveja että adverbeja voi verrata.
 
-- **mas**
+- **max**
   enemmän, -mpi
-- **masim**
+- **maxim**
   eniten
 - **min**
   vähemmän
@@ -130,9 +130,9 @@ Sekä adjektiiveja että adverbeja voi verrata.
 
 Pikkusana **ka** suhteuttaa vertailevan adverbin vertailtavaan asiaan.
 
-**aple si mas bon ka oranje.**
+**aple e max bon ka oranje.**
 = Omenat ovat parempia kuin appelsiinit.  
-**oranje si min bon ka aple.**
+**oranje e min bon ka aple.**
 = Appelsiinit ovat vähemmän hyviä kuin omenat.  
 **tu loga par bon ka mi.**
 = Sinä puhut yhtä hyvin kuin minä.

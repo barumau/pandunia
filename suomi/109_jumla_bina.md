@@ -7,7 +7,7 @@ Se voi koostua vain yhdestä sanasta, johon puhuja haluaa kuulijan kiinnittävä
 
 **mau!**
 = Kissa!  
-**xava!**
+**barxa!**
 = Sataa!  
 
 
@@ -20,19 +20,19 @@ Kaikista yksinkertaisimmissa lauseissa subjekti on substantiivi tai pronomini ja
 
 **mi bon.**
 = Minä olen hyvä.  
-**ye nove.**
+**da neu.**
 = Se on uusi.  
-**ye Sara.**
+**da Sara.**
 = Hän on Sara.
 
 Substantiivin ollessa subjektina, verbi **si** ('olla') tulee välttämättömäksi.
 
 
-**Sara si bon.**
+**Sara e bon.**
 – Sara on hyvä  
-**seku si dai.**
+**seku e dai.**
 – Kivet ovat isoja.  
-**meza si nove.**
+**meza e neu.**
 – Pöytä on uusi.
 
 Kieltolauseessa käytetään sanaa **no**.
@@ -41,17 +41,17 @@ Kieltolauseessa käytetään sanaa **no**.
 |------------------|--------------------|
 | **mi bon.**      | **mi no bon.**     |
 | Minä olen hyvä.  | Minä en ole hyvä.  |
-| **ye nove.**     | **ye no nove.**    |
+| **da neu.**      | **da no neu.**     |
 | Se on uusi.      | Se ei ole uusi.    |
-| **ye Sara.**     | **ye no Sara.**    |
+| **da Sara.**     | **da no Sara.**    |
 | Hän on Sara.     | Hän ei ole Sara.   |
-| **Sara si bon.** | **Sara no bon.**   |
+| **Sara e bon.**  | **Sara no bon.**   |
 | Sara on hyvä.    | Sara ei ole hyvä.  |
 
 Myös kaksi persoonapronominia voidaan asettaa rinnakkain.
 Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
-**mi si ye.**
+**mi e da.**
 = Minä olen se.  
 **mi no tu.**
 = Minä en ole sinä.
@@ -61,11 +61,11 @@ Selkeyden vuoksi väliin voi panna sanan **si** (kyllä) myöntölauseessa.
 
 Kun subjektina on adjektiivi, sana **si** (kyllä) toimii olla-verbin korvikkeena myöntölauseessa. Kieltolauseessa käytetään sanaa **no** kuten edelläkin.
 
-**jovan si sundar.**
+**jun e mei.**
 = Nuori on kaunista.  
-**nove no lau.**
+**neu no lau.**
 = Uusi ei ole vanha.  
-**canta si bon.**
+**gani e bon.**
 – Laulaminen on hyvä.
 
 
@@ -85,9 +85,9 @@ joka on teon kohde.
 
 **mi fikir tu.**
 – Minä ajattelen sinua.  
-**tu yam yo apel.**
+**tu yam yo aple.**
 – Sinä syös omenoita.  
-**mimon dona ye yo pesa.**
+**mimen don yo pesa to da.**
 – Me annamme hänelle rahaa.
 
 Toisinaan yhden lauseen subjekti voi olla toisessa lauseessa objekti,
@@ -123,7 +123,7 @@ subjekti – verbi 1 – objekti 1 – verbi 2 – objekti 2.
 
 Objekti 1 on kahdessa roolissa. Se on yhtä aikaa sekä verbin 1 objekti että verbin 2 subjekti.
 
-**mi vol tu yam ba fito.**
+**mi vol tu yam fito.**
 = Minä haluan sinun syövän vihanneksia.
 
 Edellisessä esimerkissä, lausekkeen
@@ -133,7 +133,7 @@ objektina on
 Samaan aikaan
 **tu**
 toimii subjektina lausekkeelle
-**yam ba fito**.
+**yam fito**.
 Näin ollen
 **tu**
 on lauseessa _saranana_.
@@ -143,11 +143,11 @@ on lauseessa _saranana_.
  
 Verbiketjussa on kaksi tai useampia teonsanoja peräkkäin. Kaikkien verbien subjekti on sama ja jälkimmäinen verbi on edellisen verbin kohteena.
  
-1. **mi ga do dom.**
+1. **mi ga to dom.**
    – Minä menen kotiin.
-2. **mi bil ga do dom.**
+2. **mi bil ga to dom.**
    – Minä voin mennä kotiin.
-3. **mi vol bil ga do dom.**
+3. **mi vol bil ga to dom.**
    – Minä haluan voida mennä kotiin.
 
 Ketjun viimeinen verbi on pääverbi,
@@ -175,14 +175,14 @@ Tällä tavalla lauseista voi tulla lyhyempiä.
 
 **mi amir tu kai la mun.**
 – Minä käsken sinua avaamaan oven.  
-**amir tu kai la mun.**
+**amir tu kai mun.**
 – (Käsken) avaa ovi!
 
 ### Short pivot structure (VVO)
 
-**mi cing tu lai do dom.**
+**mi cing tu lai to dom.**
 – Minä pyydän sinua tulemaan kotiin.  
-**cing lai do dom!**
+**cing lai to dom!**
 – (Pyydän) tule kotiin!
 
 
@@ -281,7 +281,7 @@ Panduniassa avoimissa kysymyksissä on aina kysymyssana
 ('mikä, mitä').
 Sanajärjestys on yleensä sama kuin väitelauseissa.
 
-**piza si ke?**
+**piza e ke?**
 – Mikä pitsa on?
 
 Kysymyssanan voi myös siirtää lauseen alkuun painottamaan sen merkitystä.
@@ -291,9 +291,9 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 – Mitä sinä olet syömässä?  
 **tu zai yam ke xe?**
 – Sinä olet syömässä mitä?  
-**ye lai na ke sata?**
+**da lai a ke sata?**
 – Mihin aikaan hän tulee?  
-**tumon keka na ke jen su dom?**
+**tumen vizite a ke jen su dom?**
 – Kenen talossa te kävitte?
 
 
@@ -301,24 +301,24 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
 ## Konjunktiot
 
-**e**
+**i**
 – ja (yhdistää kaksi yhdenarvoista sanaa tai lauseketta)  
 **o**
 – tai, vai (yhdistää kaksi vaihtoehtoista sanaa tai lauseketta)  
-**a**
+**ama**
 – mutta (esittelee sanan tai lausekkeen, joka on edellä sanotun vastainen)  
 **ki**
 – että (esittelee lausekkeen joka on verbin subjektina tai objektina tai on lainattua puhetta)  
-**do ki**
+**to ki**
 – jotta, sitä varten että  
-**ze ki**
+**de ki**
 – koska, sen vuoksi että
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 = Minä pidän kissoista ja koirista.  
 **mi suka mau o vaf.**
 = Minä pidän kissoista tai koirista.  
-**mi suka mau a no vaf.**
+**mi suka mau ama no vaf.**
 = Minä pidän kissoista mutta en koirista.
 
 --------------------------------------------------------------------------------
@@ -332,26 +332,27 @@ Yleensä sanajärjestys kuitenkin on sama kuin väitelauseissa.
 
 Lauseet ovat lähtökohtaisesti myöntäviä.
 
-**mi si xefe.**
+**mi e xefe.**
 = Minä olen pomo.  
-**ye si nove meza.**
+**da e neu meza.**
 = Se on uusi pöytä.
 
 Myöntämistä voi painottaa sanalla
 **ya**
 ('kyllä').
 
-**mi ya si xefe.**
+**mi ya e xefe.**
 – Minä kyllä olen pomo.  
-**ye ya si nove meza.**
+**da ya e neu meza.**
 – Se kyllä on uusi pöytä.
+
 #### Kieltäminen
 
 Edellisen kaltaiset lauseet kielletään sanalla **no**.
 
-**ye no si xefe.**
+**da no e xefe.**
 = Minä en ole pomo.  
-**ye no si nove meza.**
+**da no e neu meza.**
 = Tämä ei ole uusi pöytä.
 
 Sanaa **no** käytetään myös toisten sanojen kieltämiseen.
@@ -361,14 +362,14 @@ Se vaikuttaa aina vain seuraavaan sanaan.
 = Minä näen sinut.  
 **mi no vide tu.**
 = Minä en näe sinua.  
-**mi vide no tu a yemon.**
+**mi vide no tu ama damen.**
 = Minä näen, en sinua, vaan heidät.
 
-**mi cing tu safa la kamar.**
+**mi cing tu safi la kamar.**
 – Minä pyydän sinua siivoamaan huoneen.  
-**mi no cing tu safa la kamar.**
+**mi no cing tu safi la kamar.**
 – Minä en pyydä sinua siivoamaan huonetta.  
-**mi cing tu no safa la kamar.**
+**mi cing tu no safi la kamar.**
 – Minä pyydän sinua olemaan siivoamatta huonetta.
 
 
@@ -390,9 +391,9 @@ Kahdesta tai useammasta sanasta koostuvat adjektiivit käyttävät määrepartik
 
 Tai käänteisessä järjestyksessä:
 
-**labi da rode rang**
+**labi de rode rang**
 – huulet ruusun väriset  
-**yen da sama rang**
+**yen de sama rang**
 – silmät taivaan siniset
 
 
@@ -414,13 +415,13 @@ Samaa partikkelia käytetään myös pronominien kanssa.
 – minun taloni  
 **tu su dom**
 – sinun talosi  
-**ye su dom**
+**da su dom**
 – hänen talonsa  
-**mimon su dom**
+**mimen su dom**
 – meidän talomme  
-**tumon su dom**
+**tumen su dom**
 – teidän talonne  
-**yemon su dom**
+**damen su dom**
 – heidän talonsa
 
 
@@ -432,13 +433,13 @@ Panduniassa tavan partikkeli määrittää seuraavaa sanaa tai, jos se on lausee
 
 Partikkeli **plus** (myös) on hyvä esimerkki tavan partikkeleista, koska se toimii samalla tavalla kuin vastaava suomen sana.
 
-**ye yam bir plus.**
+**da yam bir plus.**
 = Hän juo olutta, myös.  
-**ye yam plus bir.**
+**da yam plus bir.**
 = Hän juo _myös olutta_.  
-**ye plus yam bir.**
+**da plus yam bir.**
 = Hän _myös juo_ olutta.  
-**plus ye yam bir.**
+**plus da yam bir.**
 = _Myös hän_ juo olutta.
 
 Partikkelit voivat määrittää mitä tahansa sanaa, mutta adjektiivit eivät voi määrittää esimerkiksi lukusanoja.

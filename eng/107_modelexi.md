@@ -26,9 +26,9 @@ In Pandunia, "adjectives" are modifiers that are placed before the noun that the
 – a _new_ car  
 **un _suga_ kar**
 – a _fast_ car  
-**ba _dai_ meza**
+**men _dai_ meza**
 – _big_ tables  
-**ba _gau_ meza**
+**men _gau_ meza**
 – high tables  
 **un bon jen**
 – a good person
@@ -46,7 +46,7 @@ is placed immediately before the verb.
 
 **tu _suga_ loga.**
 – You talk _fast_.  
-**damen _bon_ kitabu.**
+**damen _bon_ kitaba.**
 – They write _well_.
 
 It is common to put the modifying particle
@@ -66,7 +66,7 @@ The particle
 **di**
 is used also when a modifier modifies another one.
 
-**un _surpris di_ bon buke**
+**un _surpris di_ bon buku**
 – a _surprisingly_ good book  
 **poli _bala di_ ame ja jen**
 – _strongly_ loving people

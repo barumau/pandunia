@@ -40,10 +40,10 @@ One of the many suitable markers is
 which adds no content to the sentence
 but helps to clarify its structure.
 
-**karote e uma yam.**
-– Carrot is horse food.  
-**uma _ye_ yam karote.**
-– The horse eats carrots.
+**karote e tuzi yam.**
+– Carrot is rabbit food.  
+**tuzi _ya_ yam karote.**
+– Rabbits eat carrots.
 
 Other suitable markers include auxiliaries of time and mood,
 which are introduced next.
@@ -57,9 +57,9 @@ The relationship of an action, event or state to time is indicated with auxiliar
 ('begin, start')
 indicates beginning of an action or transition to a new situation.
 
-**mi xuru fuke la kote.**
+**mi xuru fuku la kote.**
 – I start wearing the coat. = I put the coat on.  
-**kaguji ya xuru hoge.**
+**kaguji ya xuru hogo.**
 – Paper starts to burn.  
 **tu xuru yam.**
 – You start to eat.
@@ -70,7 +70,7 @@ conveys the idea of "to stop doing something".
 
 **damen fin haha.**
 – They stopped laughing.  
-**kaguji ya fin hoge.**
+**kaguji ya fin hogo.**
 – Paper ceased to burn.  
 **tu fin yam.**
 – You stop eating.
@@ -107,11 +107,11 @@ indicates that a situation is continuing or in progress.
 **mi dur yam la piza.**
 – I keep on eating the pizza.
 
-**ade**
+**ada**
 ('have a habit', 'be used to')
 indicates that an action is done regularly.
 
-**mi ade gul yo bir.**
+**mi ada gul yo bir.**
 – I have a habit of drinking beer.
 
 **le**
@@ -153,8 +153,8 @@ indicates that the event will take place later or in the future.
 
 **da _xa_ e guru.**
 – He or she shall be a teacher.  
-**mi no _xa_ gul un bir.**
-– I will not drink a beer.
+**mi no _xa_ gul bir.**
+– I will not drink beer.
 
 
 ## Transitivity

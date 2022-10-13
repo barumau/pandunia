@@ -288,13 +288,13 @@ chief, boss
 **cin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**bon. cing salam tu su mama!**
+**oke. cing salam tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi salam da. sal cuti!**
+**mi salam da. sal reste!**
 = I will. Bye!  
 <big>☺</big>
-**sal ga!**
+**sal cuti!**
 = Bye!
 
 
@@ -438,7 +438,7 @@ some, a(n)
 2. la xefe cing da side.
 3. cing yam kafe o cai.
 4. mama cing mi safi kamar.
-5. xefe side e yam kafe.
+5. xefe side i yam kafe.
 
 
 --------------------------------------------------------------------------------
@@ -482,7 +482,7 @@ some, a(n)
 **no yam.**
 = No.  
 <big>☺</big>
-**xukur. mi don un cai e un kafe e un supe pos des minute.**
+**xukur. mi dona un cai i un kafe i un supe pos des minute.**
 = Thank you. I will bring one tea, one coffee and one soup in ten minutes.
 
 
@@ -634,13 +634,13 @@ of the negative word.
 The negated word can be of any type: verb, pronoun, noun, adjective
 and even numeral.
 
-**da no ten mau.**
+**da no ha mau.**
 = She doesn't have a cat.  
-**da ten no mau, ama vaf.**
+**da ha no mau, ama vaf.**
 = She has no cats but dogs.  
-**no da, ama mi ten mau.**
+**no da, ama mi ha mau.**
 = Not she but I have cats.  
-**mi ten no un, ama du mau.**
+**mi ha no un, ama du mau.**
 = I have not one but two cats.
 
 
@@ -663,7 +663,7 @@ is more than one correct answer.
 cup, glass, mug  
 **hali**
 empty  
-**ten**
+**ha**
 to have  
 **mau**
 cat.
@@ -682,9 +682,9 @@ but
 1. da no safi kamar.
 2. un kupa no hali.
 3. du vaf no yam supe.
-4. da no ten vaf e mau. / da ten no vaf e no mau.
+4. da no ha vaf i mau. / da ha no vaf i no mau.
 5. xefe yam cai ama no kafe.
-6. mama ten no vaf ama du mau.
+6. mama ha no vaf ama du mau.
 
 
 --------------------------------------------------------------------------------
@@ -706,28 +706,28 @@ manner or thing if needed.
 = Who is coming? (**jen** = person)  
 **tu yam a ke zaman?**
 = When do you eat? (**zaman** = time)  
-**men danse a ke yang?**
+**se danse a ke yang?**
 = How to dance? (**yang** = manner, style)
 
 In Pandunia, questions beginning with _why_ are asked using
-**ke sababe**.
+**ke sabu**.
 
-**ke sababe tu suka mau?**
+**ke sabu tu suka mau?**
 = Why do you like cats?
 
 Questions asking about the cause or reason of something, are answered by adding
-**sababe**
+**sabu**
 before the cause or reason.
 
-**ke sababe tu suka mau?**
+**ke sabu tu suka mau?**
 = Why do you like cats?  
-**de sababe damen e kavai.**
+**de sabu damen e kavai.**
 = Because they are cute.
 
-Of course **sababe** can also be used to express the cause or reason for
+Of course **sabu** can also be used to express the cause or reason for
 something, even when not answering to a question.
 
-**mi suka mau de sababe damen e kavai**
+**mi suka mau de sabu damen e kavai**
 = I like cats because they are cute.
 
 ### Exercises
@@ -765,8 +765,8 @@ period of time
 2. papa suka.
 3. ke zaman da lai?
 4. pos des minute.
-5. ke sababe da no yam?
-6. de sababe da no suka kafe e supe.
+5. ke sabu da no yam?
+6. de sabu da no suka kafe i supe.
 
 
 --------------------------------------------------------------------------------
@@ -833,17 +833,17 @@ It is enough to set the stage once in the beginning with a time expression.
 Another time word will not be needed until the tense changes
 or until it becomes useful to stress that you are still talking in the same tense.
 
-**mi pas ten un mau.**
+**mi pas ha un mau.**
 = I had a cat in the past.  
 **da e bon mau.**
 = It was a good cat.  
-**mi ten un vaf a zai.**
+**mi ha un vaf a zai.**
 = I have a dog now.
 
 Any expression of time is good for expressing the tense. When one
 time expression is present, other markers are not needed.
 
-**mi be jene a nen 2003.**
+**mi be gene a nen 2003.**
 = I was born in 2003.  
 **da safi la kamar a pos den.**
 = He will clean the room tomorrow.
@@ -888,7 +888,7 @@ milk
 1. mi su xefe festa a xa.
 2. mi ha du vaf a pas.
 3. tu yam supe a zai.
-4. da safi kamar a pre den.
-5. mau yam milke a pos den.
+4. da safi kamar a preden.
+5. mau yam milke a posden.
 6. tu su ma festa a prenoce.
 

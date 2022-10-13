@@ -703,7 +703,7 @@ Different scopes of negation may result depending on the location of the negativ
 – I see you.  
 **mi no vide tu.**
 – I don't see you.  
-**mi vide no tu a damen.**
+**mi vide no tu ama damen.**
 – I see, not you, but them.
 
 **mi cing tu safi la kamar.**

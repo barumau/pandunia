@@ -11,7 +11,7 @@
 | 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
 | 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
 | 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
+| 7 ceti  | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
 | 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
 | 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
@@ -23,7 +23,7 @@
 | 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
 | 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 cheti | 70 chetides  | 700 cheti sento | 7000 chetikilo    |
+| 7 ceti  | 70 cetides   | 700 ceti sento  | 7000 ceti kilo    |
 | 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
@@ -59,9 +59,9 @@ Määrää ilmoittava lukusana tulee ennen laatusanaa ja asiansanaa.
 = kaksi tähteä  
 **tri sing**
 = kolme tähteä  
-**xau sing**
+**kam sing**
 = vähän tähtiä  
-**poli sing**
+**men sing**
 = paljon tähtiä
 
 
@@ -130,9 +130,9 @@ Lyhyessä tavassa käytetään järjestyslukuja.
 
 **un fen du**
 – puolikas (½)  
-**un fen nelu  **
+**un fen nelu**
 – yksi neljännes (¼)  
-**tri fen nelu  **
+**tri fen nelu**
 – kolme neljännestä (¾)  
 **un fen sento**
 – yksi sadannes, yksi prosentti (1%)  
@@ -140,28 +140,28 @@ Lyhyessä tavassa käytetään järjestyslukuja.
 – yksi tuhannes, yksi promille (1‰)
 
 Pidemmässä tavassa käytetään kaavaa
-**X da Y fen**
+**X de Y fen**
 ('X Y:n osaa').
 
-**un da du fen**
+**un de du fen**
 – yksi kahdesta osasta, puolikas (½)  
-**un da nelu fen**
+**un de nelu fen**
 – yksi neljästä osasta, neljäsosa (¼)  
-**tri da nelu fen**
+**tri de nelu fen**
 – kolme neljästä osasta, kolme neljäsosaa (¾)  
-**un da sento fen**
+**un de sento fen**
 – yksi sadasosa (1%)  
-**un da kilo fen**
+**un de kilo fen**
 – yksi tuhannesosa (1‰)
 
 Murtoluvut liitetään pääsanaan partikkelilla
-**da**.
+**de**.
 
-**un fen du da hor**
+**un fen du de hor**
 – puoli tuntia  
-**lima des fen sento da jen**
+**lima des fen sento de jen**
 – viisikymmentä prosenttia ihmisistä  
-**du fen tri da keke**
+**du fen tri de keke**
 – kaksi kolmasosaa kakusta  
 
 
@@ -237,9 +237,9 @@ Panduniassa normina on 24-tuntinen kellonaika.
 
 **hor des du**
 – kello kaksitoista  
-**hor des du e tri des**
+**hor des du i tri des**
 – 12.30 eli puoli yksi
 **hor du des**
 – kello 20 eli kello kahdeksan illalla  
-**hor du des e des lima**
+**hor du des i des lima**
 – 20.15 eli vartin yli kahdeksan illalla

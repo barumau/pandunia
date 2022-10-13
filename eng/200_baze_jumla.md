@@ -132,9 +132,10 @@ You are Sarah.
 **aple e frute.**
 The apple is a fruit.
 
-<small>Etimology. **e** is from
-Mandarin: 是 "shì",
-Shanghainese: 是 "sí".</small>
+<small>Etymology. **e** is from
+French *est* /ɛ/,
+Portuguese *é*,
+Hindi है /ɦɛ/.</small>
 
 
 ### mi <small>I, me</small>
@@ -212,7 +213,8 @@ It is used for people (irrespective of gender) as well as for things.
 **mi salam da.**
 I greet him/her.
 
-<small>Etymology. **da** is from Swahili: yeye, Hindi यह (yeh).</small>
+<small>Etymology. **da** is from
+Mandarin 他/她 (tā).</small>
 
 
 ### sual <small>to ask a question</small>
@@ -458,18 +460,18 @@ Do you have children?
 I have two children.
 
 
-### sabe <small>to know</small>
+### san <small>to know</small>
 
-**mi sabe da.**
+**mi san da.**
 I know him/her/it.
 
-**sual tu sabe vo jen?**
+**sual tu san vo jen?**
 Do you know that person?
 
-**sual tumen sabe semen?**
+**sual tumen san semen?**
 Do you know each other?
 
-**mimen sabe semen de long.**
+**mimen san semen de long.**
 We know each other for a long time.
 
 
@@ -518,7 +520,7 @@ covers both eating and drinking.
 It can feel odd at first but soon you will see that it is quite handy!
 Usually the object of the verb tells is it about eating, drinking or both.
 
-**mi yam kafe e pang.**
+**mi yam kafe i pang.**
 I'm having coffee and bread.
 
 
@@ -670,7 +672,7 @@ I talk to you.
 **mimen loga to semen.**
 We talk to each other.
 
-**men loga "cat" a ke yang a pandunia?**
+**se loga "cat" a ke yang a pandunia?**
 How do you say "cat" in Pandunia?
 
 **"cat" e ke a pandunia?**
@@ -728,12 +730,12 @@ It means a kind of animal.
 I don't understand what it means.
 
 
-### kitabu <small>write</small>
+### kitaba <small>write</small>
 
-**cing kitabu tu su adres.**
+**cing kitaba tu su adres.**
 Please, write your address.
 
-**cing kitabu da a ye.**
+**cing kitaba da a ye.**
 Please, write it here!
 
 
@@ -757,7 +759,7 @@ Chinese, Japanese, Malay
 **arabi, turki, farsi, urdu, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
-**suahili, hausa, yoruba, amare**
+**suahili, hausa, yoruba, amara**
 Swahili, Hausa, Yoruba, Amharic
 
 
@@ -835,7 +837,7 @@ Tip! You can use
 **a**
 as a preposition or alone as the verb.
 
-**mi gong a...**
+**mi kar a...**
 I work at ...
 
 
@@ -888,7 +890,7 @@ He or she is currently at home.
 **mi pas salam tu su dosti.**  
 I greeted your friend.
 
-**la man ya pas vide un filme fem.**  
+**la man ya pas vide un filme.**  
 The man watched a film.
 
 **da pas e xefe.**  

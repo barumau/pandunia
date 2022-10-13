@@ -24,9 +24,9 @@ Substantiiveilla on sama muoto yksikössä ja monikossa.
 Substantiivin toistaminen on helppo tapa ilmaista monikkoa.
 
 **ite ite**
-= kiviä, paljon kiviä  
-**sing sing**
-= tähtiä, paljon tähtiä  
+= kiviä ja kiviä, monenlaisia kiviä  
+**buku buku**
+= kirjoja ja kirjoja, monenlaisia kirjoja  
 
 
 ## Suku
@@ -44,8 +44,8 @@ Sitä ennen tulevat sanat toimivat määriteosana eli ne ainoastaan muokkaavat p
 
 **sol fote**
 = auringon valo  
-**lun fote**
+**luna fote**
 = kuun valo  
-**lun ite**
+**luna ite**
 = kuukivi  
 

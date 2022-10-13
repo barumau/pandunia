@@ -3,11 +3,11 @@
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi**      | **mimon**    |
+| **mi**      | **mimen**    |
 | minä        | me           |
-| **tu**      | **tumon**    |
+| **tu**      | **tumen**    |
 | sinä        | te           |
-| **ye**      | **yemon**    |
+| **da**      | **damen**    |
 | hän         | he           |
 
 Persoonapronominien omistusmuodot muodostetaan partikkelilla
@@ -15,11 +15,11 @@ Persoonapronominien omistusmuodot muodostetaan partikkelilla
 
 | Yksikkö     | Monikko      |
 |:------------|:-------------|
-| **mi su**   | **mimon su** |
+| **mi su**   | **mimen su** |
 | minun       | meidän       |
-| **tu su**   | **tumon su** |
+| **tu su**   | **tumen su** |
 | sinun       | teidän       |
-| **ye su**   | **yemon su** |
+| **da su**   | **damen su** |
 | hänen       | heidän       |
 
 Persoonapronominit korvaavat kokonaisia lausekkeita.
@@ -38,22 +38,22 @@ Refleksiivipronominia **ze** käytetään sellaisenaan kaikissa persoonissa.
 – Minä näen itseni.  
 **ye vide se**
 – Hän näkee itsensä.  
-**mimon vide se.**
+**mimen vide se.**
 – Me näemme itsemme.
 
 Sen omistusmuoto on **se su**.
 
-**ye vide se su muka na mira.**
+**da vide se su muka a mirar.**
 – Hän näkee kasvonsa peilissä.
 
-Sana **semon** viittaa tekijöihin toisiinsa.
+Sana **semen** viittaa tekijöihin toisiinsa.
 
-**semon**
+**semen**
 – toisiaan
 
-**mi e tu vide semon.**
+**mi e tu vide semen.**
 – Sinä ja minä näemme toisemme.  
-**mimon vide semon.**
+**mimen vide semen.**
 – Me näemme toisemme.
 
 
@@ -61,31 +61,27 @@ Sana **semon** viittaa tekijöihin toisiinsa.
 
 Osoittava pronomini on:
 
-**ni**
+**ye**
 – tämä, nämä  
-**go**
+**vo**
 – tuo, nuo  
 **la**
 – se, ne (jotain jonka puhuja olettaa kuulijan tietävän)
 
-Panduniassa **ni**, **go** ja **la** ovat aina vain määreitä,
-joten ne tarvitsevat peräänsä substantiivin.
-Kun niitä käytetään pronominin tapaan, yleiskäyttöinen substantiivi kuten
-**xe**
-('asia') käy niiden täydennykseksi.
+Panduniassa **ya**, **vo** ja **la** ovat sekä määreitä että itsenäisiä pronomineja.
 
 Pronomini
-**ni**
+**ye**
 osoittaa puhujan lähellä oleviin asioihin,
 ja pronomini
-**go**
+**vo**
 osoittaa puhujasta kaukana oleviin asioihin.
 
-**ni xe si bon.**
+**ye e bon.**
 – Tämä (asia) on hyvä.  
-**go xe si dus.**
+**vo e dus.**
 – Tuo (asia) on huono.  
-**mi vol ni buku, no go.**
+**mi vol ye buku, no vo.**
 – Minä haluan tämän kirjan, en tuota.
 
 
@@ -108,7 +104,7 @@ Se toimii myös määritteenä merkityksessä 'mikä' tai 'kumpi'.
 
 Myös adjektiivit voi saattaa kyseenalaisiksi sanalla **ke**.
 
-**ke nove?**
+**ke neu?**
 – Kuinka uusi?  
 **ke koste?**
 – Minkä hintainen? Kuinka kallis?  
@@ -116,10 +112,10 @@ Myös adjektiivit voi saattaa kyseenalaisiksi sanalla **ke**.
 – Kuinka monta?  
 **ke dai?**
 – Kuinka iso?  
-**ke lili?**
+**ke xiu?**
 – Kuinka pieni?
 
-**tu ten ke dai di mau?**
+**tu ha ke dai di mau?**
 – Kuinka iso kissa sinulla on?
 
 
