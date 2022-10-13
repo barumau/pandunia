@@ -18,10 +18,10 @@ Ellas se describien en más detalle más tarde en este sitio.
 4. **Pronombres:**
     - Los pronombres personales son:
      **mi** _yo_, **tu** _tú o usted_, **ya** _él o ella_,
-     **mimen** _nosotros_, **tumen** _ustedes_, **yamen** _ellos o ellas_.
+     **mimen** _nosotros_, **tumen** _ustedes_, **damen** _ellos o ellas_.
     - Los pronombres posesivos:
-     **mi su** _mi_, **tu su** _tu_, **ya su** _su (de él o ella)_,
-     **mimen su** _nuestro_, **tumen su** _su (de ustedes)_, **yamen su** _su (de ellos o ellas)_.
+     **mi su** _mi_, **tu su** _tu_, **da su** _su (de él o ella)_,
+     **mimen su** _nuestro_, **tumen su** _su (de ustedes)_, **damen su** _su (de ellos o ellas)_.
     - Los pronombres interrogativos son:
      **ke** _qué o quién_, _cuál_, **ke su** _de quién_.
     - El pronombre impersonal es **men**.

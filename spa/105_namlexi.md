@@ -53,7 +53,7 @@ Un método fácil para decir que hay muchos es repetir el sustantivo dos veces.
 Nombres propios son sustantivos para personal, lugares, y otras cosas individuales.
 
 Nombres de personas pueden etiquetarse con la título de respeto universal
-**shi**.
+**xi**.
 Usarlo mostra respeto y cortesía.
 
 Puede usarse en situaciones formales e informales, y para todos los grupos social, de edad, o de género.

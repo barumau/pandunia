@@ -7,14 +7,14 @@ Las misma palabra puede modificar sustantivos y verbos,
 mientras en español solo _adjetivos_ pueden modificar sustantivos
 y solo _adverbos_ pueden modificar verbos.
 Por ejemplo, la palabra
-**rapide**
+**suga**
 («rápido» o «rápidamente»)
 modifica un sustantivo en la oración A
 y un verbo en la oración B.
 
-A. **go si un _rapide_ kar.**
+A. **vo e un _suga_ kar.**
 – Eso es un carro _rápido_.  
-B. **tu _rapide_ di loga.**
+B. **tu _suga_ di loga.**
 – Usted habla _rápido_.
 
 
@@ -22,7 +22,7 @@ B. **tu _rapide_ di loga.**
 
 En Pandunia, _adjetivos_ son modificadores que preceden el sustantivo que modifican.
 
-**un _rapide_ kar**
+**un _suga_ kar**
 – un carro _rápido_  
 **un _neu_ kar**
 – un carro _nuevo_  
@@ -55,9 +55,9 @@ Dos o más modificadores pueden modifican el mismo sustantivo.
 
 En Pandunia, _adverbos_ son modificadores que preceden el verbo que modifican.
 
-**tu _rapide_ loga.**
+**tu _suga_ loga.**
 – Usted hablas _rápido_.  
-**yamen _bon_ kitabu.**
+**damen _bon_ kitaba.**
 – Ellas escriben _bien_.
 
 Es común poner la partícula de modificación
@@ -65,9 +65,9 @@ Es común poner la partícula de modificación
 entre el modificador y el verbo.
 Hace la estructura del frase verbal más claro.
 
-**tu _mei di_ kitabu.**
+**tu _mei di_ kitaba.**
 – Tú escribes _hermoso_.  
-**yamen _kuai di_ marce.**
+**damen _kuai di_ marce.**
 – Ellos caminan _rápido_.
 
 
@@ -77,7 +77,7 @@ La partícula
 **di**
 también se usa cuando un modificador modifica un otro.
 
-**un _surpris di_ bon buke**
+**un _surpris di_ bon buku**
 – un _sorprendentemente_ buen libro  
 **poli _bala di_ ame ja jen**
 – personas _firmemente_ amorosas
@@ -149,9 +149,9 @@ La partícula
 **ka** (_que_)
 relaciona los adverbos de comparación al objeto de comparación.
 
-**aple si max bon ka oranje.**
+**aple e max bon ka oranje.**
 = Las manzanas son mejores (más buenas) que las naranjas.  
-**oranje si min bon ka aple.**
+**oranje e min bon ka aple.**
 = Las naranjas son peores (menos buenas) que las manzanas.  
 **tu loga par bon ka mi.**
 = Hablas tan bien como yo.

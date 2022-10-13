@@ -97,10 +97,10 @@ De nada. No hay de qué.
 
 ### mi <small>yo</small>
 
-**mi si Sara.**
+**mi e Sara.**
 Yo soy Sara.
 
-**mi si Tomas.**
+**mi e Tomas.**
 Yo soy Tomás.
 
 **mi salam mama.**
@@ -112,7 +112,7 @@ Yo saludo a papá.
 La palabra **salam** es un sustantivo y un verbo.
 El orden básico de las palabras en pandunia es sujeto–verbo–objeto.
 
-**Sara ye salam Tomas.**
+**Sara ya salam Tomas.**
 Sara saluda a Tomás.
 
 **salam mama!**
@@ -125,7 +125,7 @@ Sara saluda a Tomás.
 
 ### tu <small>tú</small>
 
-**tu si Tomas.**
+**tu e Tomas.**
 Tú eres Tomás.
 
 **mi salam tu.**
@@ -144,33 +144,33 @@ Te amo. (Yo ama ti)
 <small>Etimología. **tu** viene del espanñol: tú, russo:  ты (ty), italiano: tu, francés: tu.</small>
 
 
-### ya <small>él, ella o eso</small>
+### da <small>él, ella o eso</small>
 
-**ya si man.**
+**da e man.**
 Él es un hombre.
 
-**ya si fem.**
+**da e fem.**
 Ella es una mujer.
 
-**ya si aple.**
+**da e aple.**
 Eso es una manzana.
 
-**ya**
+**da**
 es un pronombre personal de tercera persona general.
 Es usado en personas (sin importar su género) y en cosas.
 
-**mi salam ya.**
+**mi salam da.**
 Yo lo/la saludo.
 
-<small>Etimología. **ya** viene del hindi: यह (yeh), suajili: yeye, malayo: ia, mandarín: 伊 (yī)</small>
+<small>Etimología. **da** viene del hindi: यह (yeh), suajili: yeye, malayo: ia, mandarín: 伊 (yī)</small>
 
 
 ### sual <small>se utiliza para preguntar</small>
 
-**sual tu si Tomas?**
+**sual tu e Tomas?**
 ¿Eres Tomás?
 
-**sual tu si dava ja?**
+**sual tu e dava ja?**
 ¿Eres doctor?
 
 Ayuda: Las preguntas que tienen como respuesta un sí o un no, frecuentemente
@@ -189,32 +189,32 @@ No estoy bien.
 
 
 
-### ye <small>sí</small>
+### ya <small>sí</small>
 
-**sual tu si Tomas?**
+**sual tu e Tomas?**
 ¿Eres Tomás?.
 
-**ye, mi si Tomas.**
+**ya, mi e Tomas.**
 Sí, soy Tomás.
 
-**sual ya si dava ja?**
+**sual da e dava ja?**
 ¿Él/ella es doctor/a?
 
-**ye, ya si dava ja.**
+**ya, da e dava ja.**
 Sí, él/ella es doctor/a.
 
 
 ### no <small>no</small>
 
-**mi no si Sara.**
+**mi no e Sara.**
 No soy Sara.
 
-**mi no si davar.**
+**mi no e davar.**
 No soy doctor/a.
 
 **sual tu bon?**
 ¿Estás bien?  
-**ye. mi bon.**
+**ya. mi bon.**
 Sí, estoy bien.
 
 **sual tu bon?**
@@ -225,7 +225,7 @@ No, no estoy bien.
 Puedes usar **no** para negar cualquier cosa. Se coloca antes de la cosa que se
 va a negar.
 
-**ya no salam mi.**
+**da no salam mi.**
 Él/ella no me saluda.
 
 <small>Etimología. **no**
@@ -242,27 +242,27 @@ viene del español: no, inglés: nofrancés: non.</small>
 (tú) →
 **tumen**
 (vosotros)  
-**ya**
+**da**
 (él, ella) →
-**yamen**
+**damen**
 (ellos, ellas)
 
 **mimen salam tumen.**
 Nosotros los saludamos a ustedes. 
 
-**tumen salam yamen.**
+**tumen salam damen.**
 Ustedes los saludan a ellos.
 
-**yamen salam mimen!**
+**damen salam mimen!**
 ¡Ellos nos saludan!
 
-**mimen si fem.**
+**mimen e fem.**
 Nosotras somos mujeres.
 
-**tumen si man.**
+**tumen e man.**
 Ustedes son hombres.
 
-**yamen si aple.**
+**damen e aple.**
 Esas son manzanas.
 
 
@@ -271,55 +271,55 @@ Esas son manzanas.
 **ke?**
 ¿Qué?
 
-**tu si ke?**
+**tu e ke?**
 ¿Quién eres?
-**mi si Tomas.**
+**mi e Tomas.**
 Soy Tomás.
 
-**ya si ke?**
+**da e ke?**
 ¿Quién es él/ella?  
-**ya si Sara.**
+**da e Sara.**
 Ella es Sara.
 
-**tumen si ke?**
+**tumen e ke?**
 ¿Quiénes son ustedes?
 
-**yamen si ke?**
+**damen e ke?**
 ¿Quiénes son ellos/as?
 
 <small>Etimología. **ke** viene del español: qué, portugués: que, italiano:
 che, bengalí: কী (ki).</small>
 
-### yi & vo <small>esto, eso, aquello</small>
+### ye & vo <small>esto, eso, aquello</small>
 
-**yi si ke?**
+**ye e ke?**
 ¿Qué es esto?
 
-**yi si aple.**
+**ye e aple.**
 Esta es una manzana.
 
-**vo si ke?**
+**vo e ke?**
 ¿Qué es eso?
 
-**vo si oranje.**
+**vo e oranje.**
 Esa es una naranja.
 
-**yi si rubi aple.**
+**ye e rubi aple.**
 Esa es una manzana roja.
 
-**yi aple si rubi.**
+**ye aple e rubi.**
 Esta manzana es roja.
 
-**yi si rubi.**
+**ye e rubi.**
 Esta es roja.
 
-**yamen a ke?**
+**damen a ke?**
 ¿Dónde están?
 
-**yamen a yi.**
+**damen a ye.**
 Están aquí.
 
-**yamen a vo.**
+**damen a vo.**
 Están allá.
 
 ### la <small>él, la, los, las</small>
@@ -338,16 +338,16 @@ Quiero la manzana roja.
 
 ### su <small>(partícula posesiva)</small>
 
-**yi si ke?**
+**ye e ke?**
 ¿Qué es esto?
 
-**ya si mi su telefon.**
+**da e mi su telefon.**
 Es mi teléfono.
 
-**yi si ke su?**
+**ye e ke su?**
 ¿De quién es esto?
 
-**ya si mi su.**
+**da e mi su.**
 Es mío.
 
 Nota: La partícula posesiva
@@ -358,13 +358,13 @@ significa "mi/mío",
 **tu su**
 significa "tu/tuyo", y así.
 
-**ya si ke?**
+**da e ke?**
 ¿Quién es él/ella?
 
-**ya si mi su dosti.**
+**da e mi su dosti.**
 Él/ella es mi amigo/a.
 
-**mi si Sara su dosti.**
+**mi e Sara su dosti.**
 Yo soy la amiga de Sara.
 
 <small>Etimología. **su** viene del
@@ -373,16 +373,16 @@ español: su, portugués: seu, francés: son, inglés: ’s.</small>
 
 ### nam <small>nombre</small>
 
-**tu su nam si ke?**
+**tu su nam e ke?**
 ¿Cuál es tu nombre?
 
-**mi su nam si Tomas.**
+**mi su nam e Tomas.**
 Mi nombre es Tomás.
 
-**ya su nam si ke?**
+**da su nam e ke?**
 ¿Cómo se llama (el/ella/eso)?
 
-**ya su nam si Sara.**
+**da su nam e Sara.**
 Ella se llama Sara.
 
 <small>Etimología. **nam** viene del hindi: नाम  "nām", farsi: نام‏‎
@@ -395,7 +395,7 @@ Name, inglés: name.</small>
 **mi ten un bon dom.**
 Tengo una buena casa.
 
-**ya no ten pesa.**
+**da no ten pesa.**
 Él/ella no tiene dinero.
 
 **mi vol ten un neu telefon.**
@@ -409,7 +409,7 @@ Tengo dos niños.
 
 ### sabe <small>saber, conocer</small>
 
-**mi sabe ya.**
+**mi sabe da.**
 Yo lo/a conozco a él/ella.
 
 **sual tu sabe vo jen?**
@@ -443,10 +443,10 @@ Quiero ayudarte
 **sual tu vol yam yo?**
 ¿Te gustaría comer algo?
 
-**ya yam un aple.**
+**da yam un aple.**
 Él/ella come una manzana.
 
-**yamen yam ba aple.**
+**damen yam ba aple.**
 Ellos/as comen manzanas.
 
 Nota: A diferencia del español, pandunia no tiene formas separadas de singular y plural.
@@ -457,7 +457,7 @@ puede referirse a una o más manzanas.
 **sual tu yam kafe?**
 ¿Bebes café?
 
-**ye. mi yam kafe.**
+**ya. mi yam kafe.**
 Sí, yo bebo café.
 
 Ayuda: El significado de
@@ -466,7 +466,7 @@ cubre tanto comer y beber.
 Puede parecer raro al inicio, pero pronto verás que es bastante útil.
 Normalmente el objeto del verbo dice si se trata de comer, beber o ambos.
 
-**mi yam kafe e pang.**
+**mi yam kafe i pang.**
 Estoy tomando café y pan.
 
 
@@ -491,7 +491,7 @@ No, no quiero té. Quiero café.
 
 **tu vol ke aple?**
 ¿Qué manzana quieres?  
-**yi rubi.**
+**ye rubi.**
 Esta roja.
 
 
@@ -555,10 +555,10 @@ Estoy hambriento. (Literalmente: _Necesito comer._)
 **maf! mi no aha.**
 Lo siento, no entiendo.
 
-**maf! yi si ke?**
+**maf! ye e ke?**
 Perdóname, ¿qué es eso?
 
-**maf. tu su nam si ke?**
+**maf. tu su nam e ke?**
 Perdóname, ¿cómo te llamas?
 
 
@@ -585,11 +585,11 @@ No entiendo nada.
 **mi bil xofe un kar.**
 Puedo conducir un auto.
 
-**ya no bil xofe un kar.**
+**da no bil xofe un kar.**
 Él/ella no saber conducir un auto. (Literalmente:
 _Él/ella no puede conducir un auto._)
 
-**sual tu bil xuli ya?**
+**sual tu bil xuli da?**
 ¿Puedes arreglarlo?
 
 **sual tu bil pandunia?**
@@ -622,7 +622,7 @@ Hablamos entre nosotros.
 **men loga «gato» a ke yang a pandunia?**
 ¿Cómo se dice "gato" en pandunia?
 
-**«gato» si ke a pandunia?**
+**«gato» e ke a pandunia?**
 ¿Qué es "gato" en pandunia?
 
 **mau loga "miau".**
@@ -658,22 +658,22 @@ Encantado de verte.
 **vide tu a posden!**
 ¡Te veo mañana!
 
-**mi vide ya a preden.**
+**mi vide da a preden.**
 Lo/a vi a él/ella ayer.
 
 
 ### semi <small>significar</small>
 
-**yi lexi ye semi ke?**
+**ye lexi ya semi ke?**
 ¿Qué significa esta palabra?
 
-**"mau" ye semi ke?**
+**"mau" ya semi ke?**
 ¿Qué significa "maw"?
 
-**ya semi un yang de hevan.**
+**da semi un yang de hevan.**
 Significa una clase de animal.
 
-**mi no aha ya semi ke.**
+**mi no aha da semi ke.**
 No entiendo qué significa.
 
 
@@ -682,7 +682,7 @@ No entiendo qué significa.
 **cing kitabu tu su adres.**
 Por favor, escribe tu dirección.
 
-**cing kitabu ya a yi.**
+**cing kitabu da a ye.**
 Por favor, escríbelo aquí.
 
 
@@ -774,10 +774,10 @@ El hotel está por ese camino.
 **mi a dom.**
 Estoy en casa.
 
-**ya a ke?**
+**da a ke?**
 ¿Dónde está él/ella?
 
-**ya side a kamar.**
+**da side a kamar.**
 Él/ella se sienta en la habitación.
 
 Ayuda: Puedes usar **na**
@@ -795,7 +795,7 @@ Trabajo en...
 **mi dom Singapur.**
 Vivo en Singapur.
 
-**sual tu dom yi hotel?**
+**sual tu dom ye hotel?**
 ¿Vives en este hotel?
 
 Ayuda: También está bien decir "tu doma a ke?" en vez de "tu doma ke".  Sin
@@ -811,7 +811,7 @@ es necesario.
 **dele mi!**
 ¡Espérame!
 
-**yamen dele mimen.**
+**damen dele mimen.**
 Ellos/as nos esperan.
 
 **mi dele to tu a hotel.**
@@ -819,21 +819,21 @@ Te espero en el hotel.
 
 ## Parte 5: Negocios
 
-### da <small>dar</small>
+### don <small>dar</small>
 
-**cing da yo pesa.**
+**cing don yo pesa.**
 Por favor da dinero.
 
-**cing da ya to mi.**
+**cing don da to mi.**
 Por favor dame eso.
 
-**mi da yi to tu.**
+**mi don ye to tu.**
 Te doy esto.
 
-**mi da buku to yamen.**
+**mi don buku to damen.**
 Le doy un libro a ellos/as.
 
-**ya no vol da ya to mi.**
+**da no vol don da to mi.**
 Él/ella no quiere darme eso.
 
 
@@ -857,6 +857,6 @@ Voy a tomar una cerveza.
 **mi vol kita na un kar.**
 Quiero rentar un auto.
 
-**ya kira da la kamar to safarer.**
+**da kira don la kamar to safarer.**
 Él/ella vende las habitaciones a los viajeros.
 

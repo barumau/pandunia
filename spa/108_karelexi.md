@@ -8,25 +8,25 @@ no como cambiar las formas de verbos como en español y otros idiomas.
 
 Persona y número son indicados por el sujeto.
 Por ejemplo, el verbo
-**si**
+**e**
 (»ser>>) tiene la misma forma para todas las personas.
 
-**_mi_ si dosti.**
+**_mi_ e dosti.**
 – Yo soy una amiga.  
-**_tu_ si dosti.**
+**_tu_ e dosti.**
 – Tú eres un amigo.  
-**_ya_ si dosti.**
+**_da_ e dosti.**
 – Éla es amiga de alguien.  
-**_mimen_ si dosti.**
+**_mimen_ e dosti.**
 – Nosotros somos unos amigos de alguien.  
-**_tumen_ si dosti.**
+**_tumen_ e dosti.**
 – Ustedes son unas amigas de alguien.  
-**_yamen_ si dosti.**
+**_damen_ e dosti.**
 – Ellos son unos amigos de alguien.
 
 En adición un sustantivo puede servir de un sujeto.
 
-**mau si hevan.**
+**mau e hevan.**
 – El gato es animal.
 
 Frecuentamente hay indicador entre el sujeto y el verbo
@@ -40,7 +40,7 @@ Un de los indicadores más adecuado es
 que añade ningún contenido a la oración
 pero ayuda clarificar su estructura.
 
-**karote si uma yam.**
+**karote e uma yam.**
 – Zanahoria es comida para caballos.  
 **uma _ye_ yam karote.**
 – El caballo come zanahorias.
@@ -68,7 +68,7 @@ indica el comienzo de una acción o transición a una situación nueva.
 (»dejar>>, »terminar>>)
 indica el fin de una acción o situación.
 
-**yamen fin haha.**
+**damen fin haha.**
 – Dejan de reírse.  
 **kaguji ye fin hoge.**
 – Papel deja de quemar.
@@ -96,11 +96,11 @@ indica que una situación está continuando o en progreso.
 **mi dur yam la piza.**
 – Sigo comiendo la pizza.
 
-**ade**
+**ada**
 (»habitual>>, »acostumbrado>>)
 indica que una acción ocurre frecuentamente.
 
-**mi ade gul yo bir.**
+**mi ada gul yo bir.**
 – Tengo la costumbre de bebir cerveza.
 
 **le**
@@ -108,15 +108,15 @@ indica que una acción ocurre frecuentamente.
 indica que una situación ha sido logrado, y el estado presente es el resulto de eso.
 Preste atención a la consecuencia de una acción pasada a la situación actual.
 
-**ya _le_ si guru.**
+**da _le_ e guru.**
 – Se ha hecho docente.  
 **mi _le_ no gul yo alkohol.**
 – Ya no bebir alcohol.  
 **mi no _le_ gul yo alkohol.**
 – No he bebido alcohol.  
-**mi _le_ da la buku to yamen.**
+**mi _le_ don la buku to damen.**
 – Los he dado el libro. (Todavía lo tienen y yo no.)  
-**yamen no _le_ ridone ya do mi.**
+**damen no _le_ ridon da to mi.**
 – No me lo han devuelvo.  
 **mi _le_ lai to site.**
 – He venido a la ciudad.
@@ -126,7 +126,7 @@ Preste atención a la consecuencia de una acción pasada a la situación actual.
 indica que una situación terminó
 y es pertinente solo como una experiencia.
 
-**mi pas da la buku to yamen.**
+**mi pas don la buku to damen.**
 – Los di el libro. (Tal vez no todavía lo tienen, o lo devolvieron.)  
 **mi pas vizite Franse.**
 – Visité Francia.  
@@ -137,7 +137,7 @@ y es pertinente solo como una experiencia.
 (»ir a>>, »futuro>>)
 indica que un evento ocurrirá en el futuro.
 
-**ya _xa_ si guru.**
+**da _xa_ e guru.**
 – Será docente.  
 **mi no _xa_ gul yo bir.**
 – No voy a bebir una cerveza.

@@ -19,41 +19,41 @@ En las oraciones más sencillas, el sujeto es un pronombre y el predicado es un 
 
 **mi bon.**
 – Yo estoy bien.  
-**ya neu.**
+**da neu.**
 – Ello es nuevo.  
-**ya Sara.**
+**da Sara.**
 – Ella es Sara.
 
-Cuando el sujeto es un sustantivo, el verbo de conexión **si** («ser», «estar») es necesario.
+Cuando el sujeto es un sustantivo, el verbo de conexión **e** («ser», «estar») es necesario.
 
 
-**Sara si bon.**
+**Sara e bon.**
 – Sara está bien.  
-**ite si dai.**
+**ite e dai.**
 – Rocas son grandes.  
-**meza si neu.**
+**meza e neu.**
 – La mesa es nueva.
 
 La palabra **no** se añade para formar el negativo.
-Entonces el verbo **si** no es necesario.
+Entonces el verbo **e** no es necesario.
 
 | Positivo         | Negativo           |
 |------------------|--------------------|
 | **mi bon.**      | **mi no bon.**     |
 | Yo estoy bien.   | Yo no estoy bien.  |
-| **ya neu.**      | **ya no neu.**     |
+| **da neu.**      | **da no neu.**     |
 | Ello es nuevo.   | Ello no es nuevo.  |
-| **ya Sara.**     | **ya no Sara.**    |
+| **da Sara.**     | **da no Sara.**    |
 | Ella es Sara.    | Ella no es Sara.   |
-| **Sara si bon.**  | **Sara no bon.**   |
+| **Sara e bon.**  | **Sara no bon.**   |
 | Sara está bien.  | Sara no está bien. |
 
 
-Dos pronombres personales también se pueden combinar con **si** y **no**.
+Dos pronombres personales también se pueden combinar con **e** y **no**.
 
-**mi si ya.**
+**mi e da.**
 – Yo soy ello.  
-**mi no (si) tu.**
+**mi no (e) tu.**
 – Yo no soy tú.
 
 
@@ -61,11 +61,11 @@ Dos pronombres personales también se pueden combinar con **si** y **no**.
 
 La misma regla aplica para dos adjetivos, o un verbo y un adjetivo.
 
-**jun si mei.**
+**jun e mei.**
 – Joven es lindo.  
 **neu no lau.**
 – Nuevo no es viejo.  
-**gani si bon.**
+**gani e bon.**
 – Cantar es bueno.
 
 
@@ -78,14 +78,14 @@ Estes siguen el predicado.
 – Yo camino.  
 **tu yam yo aple.**
 – Tú comes manzana.  
-**mimen done ya yo pesa.**
+**mimen done da yo pesa.**
 – Nosotros le damos algo dinero.
 
 Tal vez, el sujeto de una oración puede ser el objeto de otra.
 
-**la fuke ye gan.**
+**la fuke ya gan.**
 – La ropa se seca.  
-**sol ye gan la fuke.**
+**sol ya gan la fuke.**
 – El sol seca la ropa.
 
 Para clarificar el orden o para añadir otros objetos, los verbos auxiliares **fa** y **be** se utilizan.
@@ -209,14 +209,14 @@ La manera más fácil para formar una pregunta de sí o no es sencillamente afij
 Es también posible usar
 **no**
 («no») o
-**ye**
+**ya**
 («si») en vez de
 **he**
 para sugerir una repuesta esperada.
 
 **tu yam un piza, no?**
 – Tú comes una pizza, ¿no?  
-**tu yam un piza, ye?**
+**tu yam un piza, ya?**
 – Tú comes una pizza, ¿sí?
 
 La manera tercera para preguntar una pregunta de sí o no es contradecir el verbo
@@ -235,27 +235,27 @@ Finalmente, puede enfatiza la pregunta usando **sual**.
 – ¿Tú comes una pizza?
 
 Preguntas de sí o no se responden con
-**ye**
+**ya**
 («si») y
 **no**
 («no»).
 
 **tu vide mi, he?**
 – ¿Tú me ves?  
-**ye. (mi ye vide tu.)**
+**ya. (mi ya vide tu.)**
 – Sí. (Yo _sí_ te veo.)  
 **no. (mi no vide tu.)**
 – No. (Yo _no_ te veo.)
 
 Preguntas negativas se responden para
-**ye**
+**ya**
 y
 **no**
 aplican al verbo principal, no la pregunta entera.
 
 **tu no vide mi, he?**
 – ¿No me ves?  
-**ye. (mi vide tu.)**
+**ya. (mi vide tu.)**
 – Sí. (Te veo.)  
 **no. (mi no vide tu.)**
 – No. (No te veo.)
@@ -282,7 +282,7 @@ La pregunta se repuesta por repetir el alternativo elegido.
 Preguntas abiertas piden más información.
 En Pandunia se usan la palabra **ke**.
 
-**piza si ke?**
+**piza e ke?**
 – ¿Qué es pizza?
 
 La palabra de pregunta se puede mover al inicio de la oración para enfasís.
@@ -292,7 +292,7 @@ Sin embargo, a diferencia de español, el orden de las palabras también se pued
 – ¿Qué estás comiendo?  
 **tu zai yam ke?**
 – ¿Estás comiendo qué?  
-**ya lai a ke sate?**
+**da lai a ke sata?**
 – ¿Cuándo llega?  
 **tumen vizite a ke jen su dom?**
 – ¿La casa de quién ustedes visitaron?
@@ -352,9 +352,9 @@ En adición _pronombre relativo resumivo_ se puede utilizar si es necesario.
 Una cláusula de contenido puede ponerse antes o despues de la cláusula que habla sobre ella.
 El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 
-**vo si bari, ki mi le no vide yamen.**
+**vo e bari, ki mi le no vide damen.**
 – Lo siguiente es importante: resulta que no los veo.  
-**pan jen ha sam vale, la fate si klar.**
+**pan jen ha sam vale, la fate e klar.**
 – Todas las personas son iguales; este hecho es claro.
 
 --------------------------------------------------------------------------------
@@ -363,7 +363,7 @@ El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 
 ### Conjunciones básicas
 
-**e**
+**i**
 – y (conecta dos palabras o frases similares)  
 **o**
 – o (conecta dos palabras o frases alternativas)  
@@ -371,7 +371,7 @@ El demostrativo **go** indica la frase siguiente, y **la** indica la previa.
 – pero (introduce una palabra o frase que contrasta o
 contradice con la palabra o frase previa)
 
-**mi suka mau e vaf.**
+**mi suka mau i vaf.**
 – Me gustan los gatos y los perros.  
 **mi suka mau o vaf.**
 – Me gustan los gatos o los perros.  
