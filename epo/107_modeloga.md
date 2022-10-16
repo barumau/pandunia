@@ -6,13 +6,13 @@ En pandunio, modifovortoj antaŭas la substantivon aŭ verbon kiun ili modifas.
 
 ### Modifante substantivon
 
-**un _nove_ kar**
+**un _neu_ kar**
 – nova aŭto 
-**un _rapide_ kar**
+**un _suga_ kar**
 – rapida aŭto  
-**ba _dai_ meza**
+**men _dai_ meza**
 – grandaj tabloj  
-**ba _gau_ meza**
+**men _gau_ meza**
 – altaj tabloj  
 **un bon jen**
 – bona homo
@@ -32,14 +32,14 @@ Kompreneble, eblas ke modifovortoj aperu je ambaŭ flankoj de substantivo.
 
 ## Modifante verbon
 
-**tu _rapide_ loga.**
+**tu _suga_ loga.**
 – Vi _rapide_ parolas.  
-**yemon _bon_ kitabu.**
+**damen _bon_ kitabu.**
 – Ili _bone_ skribas.
 
-**tu _sundar di_ kitabu.**
+**tu _mei di_ kitabu.**
 – Vi _bele_ skribas.  
-**yemon _rapide di_ marce.**
+**damen _suga di_ marce.**
 – Ili _rapide_ promenas.
 
 
@@ -52,16 +52,16 @@ inter la modifanta kaj la modifata.
 
 **un _surpris di_ bon buku**
 – _surprizante_ bona libro  
-**ba _lika di_ ama ja jen**
+**poli _bala di_ ame ja jen**
 – _forte_ amantaj homoj
 
 ### Komparoj
 
 Modifovortoj povas esti komparataj.
 
-- **mas**
+- **max**
   (pli) signifas komparo de plieco
-- **masim**
+- **maxim**
   (la plej) signifas komparo de plejeco
 - **min**
   (malpli) signifas komparo de malplieco
@@ -72,9 +72,9 @@ Modifovortoj povas esti komparataj.
 
 Partiklo **ko** rilatas komparvortoj al la fonto de komparo.
 
-**aple si mas bon ka oranje.**
+**aple e max bon ka oranje.**
 – Pomoj estas pli bonaj ol oranĝoj.  
-**oranje si min bon ka aple.**
+**oranje e min bon ka aple.**
 – Oranĝoj estas malpli bonaj ol pomoj.
 **tu loga par bon ka mi.**
 – Vi parolas same bone kiel mi.

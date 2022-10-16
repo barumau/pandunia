@@ -6,7 +6,7 @@ _Substantivo_ estas vorto kiu prezentas aferon.
 Substantivoj estas senfleksiaj, kiel aliaj vortospecoj en pandunio.
 Do oni uzas la saman formon por ununombra, multnombra, difina kaj nedifina senco.
 
-**seku**
+**ite**
 – ŝtono, ŝtonoj, la ŝtono, la stonoj  
 **meza**
 – tablo, tabloj, la tablo, la tabloj  
@@ -43,7 +43,7 @@ Oni povas esprimin nombron per numeraloj kiam ĝi estas utila.
 – du seĝoj  
 **tri kursi**
 – tri seĝoj  
-**ba kursi**
+**men kursi**
 – multe da seĝoj; seĝoj
 
 

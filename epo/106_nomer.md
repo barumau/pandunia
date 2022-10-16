@@ -11,19 +11,19 @@
 | 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
 | 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
 | 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
+| 7 ceti  | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
 | 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
 | 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
 | Unuoj   | Dekoj        | Centoj          | Miloj            |
 |:--------|:-------------|:----------------|:------------------|
-| 1 un    | 10 (un) des  | 100 un sento    | 1000 un kilo      |
+| 1 un    | 10 (un) des  | 100 (un) sento  | 1000 (un) kilo    |
 | 2 du    | 20 du des    | 200 du sento    | 2000 du kilo      |
 | 3 tri   | 30 tri des   | 300 tri sento   | 3000 tri kilo     |
 | 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
 | 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 cheti | 70 chetides  | 700 cheti sento | 7000 chetikilo    |
+| 7 ceti  | 70 ceti des  | 700 ceti sento  | 7000 ceti kilo    |
 | 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
@@ -46,7 +46,7 @@ Do ekzemple _kilo_ indikas miloblecon.
 | giga   | G      | 10⁹  |                     1'000'000'000 |
 | tera   | T      | 10¹² |                 1'000'000'000'000 |
 | peta   | P      | 10¹⁵ |             1'000'000'000'000'000 |
-| eksa   | E      | 10¹⁸ |         1'000'000'000'000'000'000 |
+| exa    | E      | 10¹⁸ |         1'000'000'000'000'000'000 |
 | zeta   | Z      | 10²¹ |     1'000'000'000'000'000'000'000 |
 | yota   | Y      | 10²⁴ | 1'000'000'000'000'000'000'000'000 |
 
@@ -64,9 +64,9 @@ Nombro staras antaŭ la vorto aŭ vortoĉeno kies kvanton ĝi indikas.
 – du steloj  
 **tri sing**
 – tri steloj  
-**xau sing**
+**kam sing**
 – kelkaj steloj  
-**poli sing**
+**men sing**
 – multe da steloj
 
 **un dai kursi**

@@ -6,11 +6,11 @@ Pronomoj povas aperi anstataŭ substantivoj.
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi**      | **mimon**    |
+| **mi**      | **mimen**    |
 | mi          | ni           |
-| **tu**      | **tumon**    |
+| **tu**      | **tumen**    |
 | vi, ci      | vi           |
-| **ye**      | **yemon**    |
+| **da**      | **damen**    |
 | li, ŝi, ĝi  | ili          |
 All pronouns can be used for all genders.
 
@@ -19,12 +19,13 @@ La posedaj pronomoj estas formata per aldo de partiklo
 
 | Ununombra   | Multenombra  |
 |:------------|:-------------|
-| **mi su**   | **mimon su** |
+| **mi su**   | **mimen su** |
 | mia         | nia          |
-| **tu su**   | **tumon su** |
+| **tu su**   | **tumen su** |
 | via, cia    | via          |
-| **ye su**   | **yemon su** |
+| **da su**   | **damen su** |
 |lia, ŝia, ĝia| ilia         |
+
 ## Refleksiva pronomo
 
 **se**
@@ -35,37 +36,37 @@ Do ĝi rilatas al ĉiuj tiaj uzadoj en Esperanto, kiel: _mi(n) mem_, _vi(n) mem_
 
 **mi vide se**
 – Mi vidas min.  
-**ye vide se**
+**da vide se**
 – Ŝi vidas sin.  
-**mimon vide se.**
+**mimen vide se.**
 – Ni vidas nin.
 
 Oni uzas **se kon** por esprimi reciprokecon.
 
-**se kon**
+**semen**
 – unu la alia
 
-**mi e tu vide se kon.**
+**mi i tu vide semen.**
 – Mi kaj vi vidas unu la alian.  
-**mimon vide se kon.**
+**mimen vide semen.**
 – Ni vidas unu la alian.
 
 ## Montrovortoj
 
 La montrovorto estas:
 
-**ni**
+**ye**
 – ĉi tiu  
-**go**
+**vo**
 – tiu  
 **la**
 – la
 
-**ni xe si bon.**
+**ye e bon.**
 – ĉi tiu (aĵo) estas bone.  
-**go xe si dus.**
+**vo e dus.**
 – Tiu (aĵo) estas malbone.  
-**mi vol ni buku, no go.**
+**mi vol ye buku, no vo.**
 – mi volas ĉi tiun libron, ne tiun.
 
 
@@ -89,7 +90,7 @@ La montrovorto estas:
 
 Ankaŭ adjektivoj estas demandataj per **ke**.
 
-**ke nove?**
+**ke neu?**
 – Kiom nova?  
 **ke koste?**
 – Kiom multekosta?  
@@ -97,8 +98,8 @@ Ankaŭ adjektivoj estas demandataj per **ke**.
 – Kiom multe?  
 **ke dai?**
 – Kiom granda?  
-**ke lili?**
+**ke xiu?**
 – Kiom eta?  
-**tu tena ke dai di mau?**
+**tu ha ke dai di mau?**
 – Kiom granda kato vi havas?
 
