@@ -190,7 +190,11 @@ while English has two different forms, 'I' and 'me'.
 **mi ame tu.**
 I love you.
 
-<small>Etymology. **tu** is from Spanish: tu, Russian: ты (ty), Italian: tu, French: tu.</small>
+<small>Etymology. **tu** is from
+Spanish *tu*,
+Russian ты (ty),
+Italian *tu*,
+French *tu*.</small>
 
 
 ### da <small>he, she or it</small>
@@ -280,7 +284,9 @@ Are you well?
 **no, mi no bon.**
 No, I'm not well.
 
-You can use **no** to deny anything.
+You can use
+**no**
+to deny anything.
 It is placed before the word that is denied.
 
 **da no salam mi.**
@@ -416,7 +422,9 @@ He/she is my friend.
 I am Sarah's friend.
 
 <small>Etymology. **su**
-English _'s_, Afrikaans _se_, Spanish _su_.</small>
+English _'s_,
+Afrikaans _se_,
+Spanish _su_.</small>
 
 
 ### nam <small>name</small>
@@ -434,29 +442,29 @@ What is his/her name?
 Her name is Sarah.
 
 <small>Etymology. **nam** is from
-Hindi: नाम  "nām",
-Farsi: نام‏‎ "nām",
-Thai: นาม "naam",
-Malay: nama,
-Japanese: 名前 "namae",
-German: Name,
-English: name.</small>
+Hindi नाम  (nām),
+Farsi نام‏‎ (nām),
+Thai นาม (naam),
+Malay *nama*,
+Japanese 名前 (namae),
+German *Name*,
+English *name*.</small>
 
 
-### ten <small>have</small>
+### ha <small>have</small>
 
-**mi ten un bon dom.**
+**mi ha un bon dom.**
 I have a good house.
 
-**da no ten pesa.**
+**da no ha pesa.**
 He/she doesn't have money.
 
-**mi vol ten un neu telefon.**
+**mi vol ha un neu telefon.**
 I want to have a new phone.
 
-**sual tu ten yo ben?**
+**sual tu ha yo ben?**
 Do you have children?  
-**mi ten du ben.**
+**mi ha du ben.**
 I have two children.
 
 
@@ -705,7 +713,7 @@ What kind of music do you listen to?
 **suka vide tu.**
 Pleased to see you!
 
-**vide tu re!**
+**to rivide!**
 See you again!
 
 **vide tu a posden!**
@@ -756,7 +764,7 @@ French, Spanish, Portuguese, Russian
 **putong han, nipon, malayu**
 Chinese, Japanese, Malay
 
-**arabi, turki, farsi, urdu, hindi**
+**arabi, turki, parsi, urdu, hindi**
 Arabic, Turkish, Farsi, Urdu, Hindi
 
 **suahili, hausa, yoruba, amara**
@@ -864,7 +872,7 @@ Wait for me!
 **damen dele mimen.**
 They wait for us.
 
-**mi dele to tu a hotel.**
+**mi dele tu a hotel.**
 I wait for you in the hotel.
 
 

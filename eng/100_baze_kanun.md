@@ -23,9 +23,6 @@ They are described in more detail later in this document.
       **mi su** _my_, **tu su** _your_, **da su** _his or her_,
       **mimen su** _our_, **tumen su** _your_, **damen su** _their_.
      - The interrogative pronouns are: **ke** _what_ or _who_, **ke su** _whose_.
-     - The impersonal pronoun is
-       **men**
-       (_one_, _you_, _they_)
 5. **Nouns:**
    Nouns have only one form, always the same.
    Their form is not affected by number, gender or case.
@@ -82,6 +79,6 @@ They are described in more detail later in this document.
       ("mail") +
       **kasa**
       ("box") =
-      **postakasa**
+      **posta kasa**
       ("mailbox")
 
