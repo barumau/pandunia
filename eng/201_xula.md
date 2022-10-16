@@ -11,7 +11,7 @@
 **sal!**
 = Hello!  
 <big>☻</big>
-**salam!**
+**sal!**
 = Hello!  
 <big>☺</big>
 **tu e ke?**
@@ -123,7 +123,7 @@ animal
 ### Answers to the Exercises
 
 1. tu e ke?
-2. mi e tomas.
+2. mi e Tomas.
 3. tu su dosti e ke?
 4. da e Sara.
 5. tu su nam e ke?
@@ -162,21 +162,21 @@ Pandunia is a constructed world language
 that borrows and blends together international words from all parts of the world.
 
 The word
-**salam**
+**sal**
 means *greeting* or *to greet*.
 
-**mi salam tu.**
+**mi sal tu.**
 = I greet you.  
-**tu salam mi.**
+**tu sal mi.**
 = You greet me.
 
 These are active sentences.
 In active sentences the subject does the action to the object. In
-**mi salam tu**
+**mi sal tu**
 the first word
 **mi**
 is the subject,
-**salam**
+**sal**
 is the verb (action word), and
 **tu**
 is the object.
@@ -193,11 +193,11 @@ always stay the same regardless of their position in sentence.
 In Pandunia sentences can be made shorter by leaving out pronouns
 that are obvious in the present situation.
 
-**mi salam tu!**
+**mi sal tu!**
 = I greet you.  
-**salam tu!**
+**sal tu!**
 = Greetings to you! (It is obvious that the speaker is the one who greets.)  
-**salam!**
+**sal!**
 = Greeting! (It is obvious that the listeners are greeted.)  
 
 Another Pandunia word for greeting is
@@ -208,16 +208,16 @@ You can choose freely, which word to use when you greet people.
 **halo!**
 = Hello!
 
-You may use both **salam** and **halo**
+You may use both **sal** and **halo**
 to address people by name, kinship term or profession.
 
 **halo, toni!**
 – Hello, Tony!  
-**salam, mama!**
+**sal, mama!**
 – Hello, mother!  
 **halo, papa!**
 – Hello, father!  
-**salam, xefe!**
+**sal, xefe!**
 – Hello, chief!
 
 
@@ -238,9 +238,9 @@ answers are after the word list.
 hello, hi, salaam, ciao  
 **halo**
 hello (said especially on the phone)  
-**salam**
+**sal**
 greeting(s), to greet.  
-**salam**
+**sal**
 to greet  
 **mama**
 mother, mom  
@@ -252,9 +252,9 @@ chief, boss
 
 ### Answers to the Exercises
 
-1. tu salam da.
-2. mama salam papa.
-3. salam mama!
+1. tu sal da.
+2. mama sal papa.
+3. sal mama!
 4. sal!
 
 
@@ -288,10 +288,10 @@ chief, boss
 **cin pa, mi mus ga a zai.**
 = Grandfather, I have to go now.  
 <big>☺</big>
-**oke. cing salam tu su mama!**
+**oke. cing sal tu su mama!**
 = OK. Please tell greetings to your mother.  
 <big>☻</big>
-**mi salam da. sal reste!**
+**mi sal da. sal reste!**
 = I will. Bye!  
 <big>☺</big>
 **sal cuti!**
@@ -306,7 +306,7 @@ doesn't distinguish between sexes in the third person pronoun or any
 of the pronouns. All the personal pronouns are present in the
 following example sentence.
 
-**mi cing tu salam da.**
+**mi cing tu sal da.**
 = I ask you to say hello to him/her.
 
 This sentence has a _pivot structure_.
@@ -317,7 +317,7 @@ The first verb,
 as its object. At the same time
 **tu**
 serves also as the subject of the second verb,
-**salam**
+**sal**
 ('to greet'), whose object is
 **da**.
 So
@@ -336,9 +336,9 @@ the context. In other words the speaker can safely assume that the
 listeners know who he or she is talking about. So it is unnecessary
 to keep on repeating them. In this manner phrases can be made shorter.
 
-**mi cing tu salam da.**
+**mi cing tu sal da.**
 = I ask you to say hello to him/her.  
-**cing salam da.**
+**cing sal da.**
 = Please say hello to him/her.
 
 See how the translation of
@@ -351,18 +351,18 @@ It is a principle in Pandunia that there is always exactly one word for one conc
 Different words are not created just because the grammatical role of a concept changes.
 
 The phrase
-**cing salam da**
+**cing sal da**
 has a useful pattern that can be used for making polite requests.
 
 **cing side.**
 = Please be seated.  
-**cing don yo kafe.**
+**cing don  kafe.**
 = Please give me some coffee.  
-**cing don yo cai.**
+**cing don cai.**
 = Please give me some tea.  
-**cing yam yo cai.**
+**cing yam cai.**
 = Please have some tea.  
-**cing safi la kamar.**
+**cing safi kamar.**
 = Please clean the room.
 
 Commands are introduced with
@@ -370,9 +370,9 @@ Commands are introduced with
 ('to command'). They employ the same pivot structure as requests with
 **cing**.
 
-**amir don yo cai.**
+**amir don cai.**
 = Give (me) some tea!  
-**amir safi la kamar.**
+**amir safi kamar.**
 = Clean the room!
 
 In practice, direct commands can be also made with just one verb and a commanding voice.
@@ -610,25 +610,25 @@ In the previous lesson you learned to answer **ya** and **no** to questions.
 The word **no** is used for denying something.
 Adding **no** in front of the verb turns an affirmative sentence to negative.
 
-**mi salam tu.**
+**mi sal tu.**
 = I greet you.  
-**mi no salam tu.**
+**mi no sal tu.**
 = I do not greet you.
 
 Conceptually negation means the absence or non-existence of the negated word.
 In the phrase
-**mi no salam tu**
+**mi no sal tu**
 the negative word **no** denies the existence of greeting.
 
 In Pandunia the negative word affects the word that follows it.
 Different scopes of negation may result depending on the location
 of the negative word.
 
-**mi cing tu safi la kamar.**
+**mi cing tu safi kamar.**
 = I ask you to clean the room.  
-**mi no cing tu safi la kamar.**
+**mi no cing tu safi kamar.**
 = I do NOT ask you to clean the room.  
-**mi cing tu no safi la kamar.**
+**mi cing tu no safi kamar.**
 = I ask you NOT to clean the room.
 
 The negated word can be of any type: verb, pronoun, noun, adjective
