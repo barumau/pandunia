@@ -351,6 +351,7 @@ chocolate - coklate
 chumbo - plumbe  
 chuva - barxa  
 chá - cai  
+ciano - cian  
 ciclista - sikle ja  
 cidade - siti  
 cigarro - sigar  
@@ -427,7 +428,7 @@ cotovelo - kudi
 crente - din ja  
 crente - kredija  
 crepe (panqueca) - krepe  
-crepe - france krepe  
+crepe - Franse krepe  
 criança (menino) - baca  
 cristal - bilor  
 croassã - kruasan  
@@ -677,6 +678,9 @@ fenol - fenol
 fermentar - be biomute  
 ferro - fero  
 fibra - lin so  
+filha - doh  
+filho - son  
+filho ou filha - ben  
 filosofia - filsofi  
 fiorde - fiorde  
 fisiculturismo - muskul bina  
@@ -702,7 +706,7 @@ fragmento - parce
 freixo - yasen  
 fruta - frute  
 frutose - frutos  
-frâncio - france yum  
+frâncio - franse yum  
 fulano - xi Fulan  
 fungo - fungu  
 funil - dara tubo  
@@ -1116,6 +1120,8 @@ necrofilia - nekro fili
 neodímio - neodim yum  
 neologismo - neu loga  
 neptúnio - neputun yum  
+neta - ben doh  
+neto - ben son  
 Netuno - Neputun  
 neurotoxina - nerve toxi  
 neurônio - nerve selu  
@@ -1229,7 +1235,7 @@ parque - parke
 parte - fen  
 partida - mece  
 partido (grupo) - parti  
-parâmetro - param  
+parâmetro - parametre  
 passagem - pas dau  
 passagem de volta - retro tikete  
 passaporte - pasporte  
@@ -1543,6 +1549,8 @@ simulação - sam sifa xe
 sino (campainha) - dang gi  
 situaçao - xe hal  
 sobreviver - trajiva  
+sobrinha - sau doh  
+sobrinho - sau son  
 sociedade - sosi  
 socio - bei  
 sogra - per ma  
@@ -1673,7 +1681,7 @@ uma vez - un mar
 universal - un verse di  
 união - un ta liga  
 Urano - Uran  
-urra - ura  
+urra - hura  
 urso - baru  
 urânio - uran yum  
 usar - fa aplika  

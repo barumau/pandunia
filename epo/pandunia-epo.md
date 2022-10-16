@@ -35,7 +35,7 @@ agile - lerta
 agri di - agrikultura  
 agri nomi - agronomio  
 agri suta - agrikulturo  
-aha - kompreni  
+aha - ekkompreni (aha)  
 air - aero  
 air ordu - aerarmeo  
 air porte - flughaveno  
@@ -238,6 +238,10 @@ Belarus - Belorusio
 bele - fosilo (ŝovelilo)  
 Belgi - Belgio  
 Belize - Beliceo  
+ben - ido (gefilo)  
+ben ben - genepo  
+ben doh - nepino  
+ben son - nepo  
 benci - benko  
 benzin - benzino  
 bere - bereto  
@@ -346,6 +350,7 @@ ceres yum - cerio
 cesi yum - cezio  
 ceti - sep (7)  
 cetiden - semajno  
+cian - cejana  
 cile - Ĉilio  
 cimpanzi - ĉimpanzo  
 cin - gepatro  
@@ -453,6 +458,7 @@ diske - disko
 disprosi yum - disprozio  
 divan - freneza  
 divanta - frenezeco  
+doh - filino  
 dokumen - dokumento  
 dokumen filme - dokumentfilmo  
 dolar - dolaro  
@@ -701,9 +707,9 @@ foto grafi ja - fotisto
 foto grafi suta - fotografio  
 fotokane - torĉo  
 foto so - fotono  
-France - Francio  
-france krepe - franca krepo  
-france yum - franciumo  
+Franse - Francio  
+Franse krepe - franca krepo  
+franse yum - franciumo  
 frem - kadro  
 frute - frukto  
 frute bagi - fruktarbejo  
@@ -1797,6 +1803,7 @@ soi sos - sojsaŭco
 sol - suno  
 sol cati - sunombrelo  
 sol sistem - sunsistemo  
+son - filo  
 sona - dormo  
 • ansona - sendormeco  
 sona kamar - dormoĉambro  

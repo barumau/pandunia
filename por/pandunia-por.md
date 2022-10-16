@@ -196,6 +196,9 @@ bede - cama (leito)
 bedinjan - beringela  
 bei - socio  
 bele - pá  
+ben - filho ou filha  
+ben doh - neta  
+ben son - neto  
 beri - baga  
 beril yum - berílio  
 berkli yum - berqueélio  
@@ -284,6 +287,7 @@ ceri - cereja
 • sucese - prosperar  
 cesi yum - césio  
 ceti - sete (7)  
+cian - ciano  
 cili - cápsico  
 cin - genitor  
 cin bra - tio  
@@ -362,6 +366,7 @@ dipe moka - arbusto (mata)
 diske - disco  
 disprosi yum - disprósio  
 dobe - tijolo  
+doh - filha  
 dokumen - documento  
 dokumen filme - documentário  
 dolfin - golfinho (delfim)  
@@ -520,8 +525,8 @@ foto mata di - mate (opaco)
 foto minar - farol (baliza)  
 foto mira di - lustroso  
 foto so - fóton (fotão)  
-france krepe - crepe  
-france yum - frâncio  
+Franse krepe - crepe  
+franse yum - frâncio  
 frem - moldura  
 frutos - frutose  
 frute - fruta  
@@ -695,6 +700,7 @@ huke krus - suástica (cruz gamada)
 huke lin kane - vara de pescar  
 huli - raposa  
 humel - lúpulo  
+hura - urra  
 huru - livre (forro)  
 
 ## I  
@@ -1089,6 +1095,7 @@ metanol - metanol
 metil - metil  
 metal bede - bigorna  
 metal lin - arame  
+• parametre - parâmetro  
 meza - mesa  
 meza tela - toalha de mesa  
 mi - eu (me)  
@@ -1267,7 +1274,6 @@ par - igual (par)
 par fase - nivel  
 par jen - par  
 par vezeta - equilíbrio  
-param - parâmetro  
 parce - fragmento  
 pari - fada  
 pari dexa - mundo das fadas (paraíso)  
@@ -1469,6 +1475,8 @@ sar kexa hin - calvo
 sata - momento (instante)  
 sata di - momentâneo  
 Saturne - Saturno  
+sau doh - sobrinha  
+sau son - sobrinho  
 saur - lagarto  
 se - se  
 semen - um ao outro  
@@ -1519,6 +1527,7 @@ soki - buscar (procurar)
 sol - sol  
 sol cati - sombrinha  
 sol hua - girassol  
+son - filho  
 sona - sono  
 • ansona - insônia  
 sona kamar - quarto (dormitório)  
@@ -1632,7 +1641,6 @@ un ta liga - união
 un verse di - universal  
 un yen di lense - monóculo  
 un zai di - só (solitário)  
-ura - urra  
 Uran - Urano  
 uran yum - urânio  
 

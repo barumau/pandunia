@@ -482,7 +482,7 @@ complot (conspiration) - sir plan
 comportement (manière) - manera  
 compost - bio sana xe  
 compote de pommes - aple sos  
-comprendre (réaliser) - aha  
+comprendre (réaliser; aha) - aha  
 compte - hisabu loge  
 compter (calculer) - pute  
 compteur de vitesse - suga metre gi  
@@ -552,7 +552,7 @@ croyant - kredija
 cru - seng  
 crème - krem  
 crème glacée - ais krem  
-crêpe - france krepe  
+crêpe - Franse krepe  
 crêpe - krepe  
 crêperie - krepekan  
 cube - kube  
@@ -564,6 +564,7 @@ culturisme (musculation) - muskul bina
 cumin - zira  
 curium - kuri yum  
 curry - kari  
+cyan (turquois) - cian  
 cycliste - sikle ja  
 cytologie - selu logi  
 célérité - sirta  
@@ -744,6 +745,9 @@ fibre - lin so
 fier - kredi  
 fil de fer - metal lin  
 fil de trame - vei lin  
+fille - doh  
+fils - son  
+fils ou fille - ben  
 fini - fin di  
 finir - fa fin  
 fiord - fiorde  
@@ -772,9 +776,9 @@ fougères - parne
 fourmi - murce  
 fragment - parce  
 frais - taza  
-francium - france yum  
-francophone - france fon di  
-francophonie - France fon dunia  
+francium - franse yum  
+francophone - Franse fon di  
+francophonie - Franse fon dunia  
 fromage - cize  
 fromage blanc - panir  
 fructose - frutos  
@@ -884,7 +888,7 @@ honorer - fa onor
 horloge - hor loga gi  
 houblon - humel  
 houe - copu  
-hourra - ura  
+hourra - hura  
 huile (pétrole) - nefte  
 huit (8) - bati  
 humain - insan di  
@@ -1112,6 +1116,7 @@ margay (chat-tigre) - margai
 marguerite - baku margarite  
 mariage - gam  
 Maroc - Magribi dexa  
+Marrakech - Marakux  
 Mars - Marse  
 marécage (marais) - poto stan  
 masque - maska  
@@ -1232,6 +1237,7 @@ neptunium - neputun yum
 neuf (9) - tisa  
 neurone - nerve selu  
 neurotoxine - nerve toxi  
+neveu - sau son  
 niche (de chien) - vaf bude  
 niche - nix  
 nickel - nikel  
@@ -1240,6 +1246,7 @@ nihonium - nipon yum
 niobium - niobi yum  
 nitrate - nitrate  
 niveau - par fase  
+nièce - sau doh  
 nobélium - nobel yum  
 noir - kala  
 noit - noce  
@@ -1360,7 +1367,7 @@ papier toilette (papier hygiénique) - tuale kaguji
 papillon - pelpel  
 paquet - pake  
 par exemple - to misal  
-paramètre - param  
+paramètre - parametre  
 parapluie - barxa cati  
 parc - parke  
 pardonner - fa maf  
@@ -1405,6 +1412,7 @@ perturber (turbulence) - disturbe
 pervers - perversi  
 pet (vesse) - pede  
 petit - xiu  
+petit-enfant - ben ben  
 peu - kam  
 peut-être - bil e  
 pharmacie - dava xekan  
@@ -1473,7 +1481,7 @@ poli - foto frike
 pollution - najis  
 polonium - polska yum  
 Polynesie - Polinesi  
-Polynésie française - France Polinesi  
+Polynésie française - Franse Polinesi  
 pomme - aple  
 pont - kio  
 porcelaine - cini  

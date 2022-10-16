@@ -758,7 +758,7 @@ choque (sacudida) - xoke
 chorrear - lou  
 chubasco (chaparrón) - dai barxa  
 chupar (succionar) - cupu  
-cian - sian  
+cian - cian  
 ciclista - sikle ja  
 cielo - sama  
 cien (100) - sento  
@@ -966,7 +966,7 @@ creer - fa sina
 crema - krem  
 cremallera - ziper  
 cremoso - krem di  
-crepa (crep, tortilla de trigo) - france krepe  
+crepa (crep, tortilla de trigo) - Franse krepe  
 creyente - din ja  
 creyente - kredija  
 criado (sirviente) - serve ja  
@@ -1345,7 +1345,7 @@ ensalada - salade
 ensayo (ejercitio) - lenxi  
 ensayo (redacción) - esai  
 enseñar (instruir, doctrina) - gio  
-entender (comprender) - aha  
+entender (comprender; ajá) - aha  
 entero (todo) - holo  
 entrada - inmun  
 entrar - be in  
@@ -1589,8 +1589,8 @@ fotógrafo - foto grafi ja
 fotón - foto so  
 fracaso - xiti bai  
 fragmento (pedazo) - parce  
-Francia - France  
-francio - france yum  
+Francia - Franse  
+francio - franse yum  
 francotirador - juste pau ja  
 frecuencia - poli marta  
 frecuentemente - a poli mar  
@@ -1767,7 +1767,7 @@ gusano de seda - silke larva
 gustar (complacer) - sukafa  
 gusto (sabor) - guste  
 Guyana - Guyana  
-Guyana Francesa - France Guyana  
+Guyana Francesa - Franse Guyana  
 guía - gida ja  
 guía de viaje - gida buku  
 género gramatical - baxa jinse  
@@ -1834,6 +1834,9 @@ hierba - cau
 hierbabuena - kane minte  
 hierro - fero  
 higiene - salu safata  
+hija - doh  
+hijo - son  
+hijo o hija - ben  
 Himalaya - Himalaya  
 hinduismo - Hindi din  
 hindú - Hindi din ja  
@@ -1888,7 +1891,7 @@ humorístico (gracioso, cómico) - yumor di
 humus - humus sos  
 Hungría - Magyar  
 huracán (tifón) - rota tufan  
-hurra - ura  
+hurra (yupi) - hura  
 hurón - furete  
 huérfano - yatim  
 héroe - hero  
@@ -2647,6 +2650,8 @@ neón - neon
 Nicaragua - Nikaragua  
 nido (avispero, hormiguero, ratonera) - nide  
 niebla - dipe megi  
+nieta - ben doh  
+nieto - ben son  
 nieve - hima  
 Nieves - Nevis  
 Nigeria - Naijiria  
@@ -2878,7 +2883,7 @@ partido - mece
 Partido Pirata - pirate parti  
 partir (dividirse) - be fen  
 partícula (grano, bala) - dana  
-parámetro - param  
+parámetro - parametre  
 pasa (uva pasa) - gan putau  
 pasado - cen zaman  
 pasaporte - pasporte  
@@ -3062,7 +3067,7 @@ policía - polis
 policía - polis ja  
 poliedro - poli fase  
 Polinesia - Polinesi  
-Polinesia Francesa - France Polinesi  
+Polinesia Francesa - Franse Polinesi  
 politeísmo - poli deu sim  
 pollo - koko  
 Polonia - Polska  
@@ -3567,6 +3572,8 @@ sobre - a supra
 sobreescribir - vise kitaba  
 sobrepasar - be supra  
 sobrevivir - trajiva  
+sobrina - sau doh  
+sobrino - sau son  
 social - sosi di  
 socialismo - sosi sim  
 socialismo nacional (nazismo) - natia sosia sim  
@@ -4032,7 +4039,6 @@ yuca (mandioca) - manioka
 yudo - judau  
 yugo - yogo  
 yunque - metal bede  
-yupi - yei  
 yurta - yurta  
 
 ## Z  

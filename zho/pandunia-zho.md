@@ -193,6 +193,10 @@ bebe bede - 娃娃床
 bede - 床  
 behe - 山羊  
 bele - 铲  
+ben - 小孩子  
+ben ben - 孙子 (sūnzi)  
+ben doh - 孙女  
+ben son - 孙儿  
 beri - 浆果 (莓)  
 beril yum - 铍  
 berkli yum - 锫  
@@ -229,6 +233,8 @@ bon vide di - 好看
 boron - 硼  
 botel - 瓶  
 botel tapa - 瓶盖  
+bra doh - 侄女 (姪女)  
+bra son - 姪 (侄)  
 Brahma - 梵天  
 briko - 杏子 (李子)  
 brom - 溴  
@@ -279,6 +285,7 @@ ceres yum - 铈
 cesi yum - 铯  
 ceti - 七 (7)  
 cetiden - 週  
+cian - 青色  
 cili - 菜椒  
 cili fun - 辣椒粉  
 cin - 亲 (父母)  
@@ -364,6 +371,8 @@ dipe moka - 灌木
 diske - 圆盘  
 disprosi yum - 镝  
 dobe - 砖  
+doh - 女儿  
+doh doh - 外孙女  
 dokumen - 文件  
 dokumen filme - 纪录片  
 dolfin - 海豚  
@@ -507,7 +516,7 @@ foto lin - 光线
 foto minar - 信号  
 foto mira di - 光泽  
 foto so - 光子  
-france yum - 钫  
+franse yum - 钫  
 frem - 框  
 frike - 擦伤  
 frutos - 果糖  
@@ -687,6 +696,7 @@ huke krus - 卍 (卐)
 huke lin kane - 钓鱼竿  
 huli - 狐狸  
 humel - 蛇麻草  
+hura - 好哇  
 huru - 自由的  
 huruta - 自由  
 
@@ -1055,6 +1065,7 @@ metil - 甲基
 metal bede - 铁砧  
 metal lin - 线 (铁丝)  
 metal sanaja - 铁匠  
+• parametre - 参数  
 meza - 桌子  
 meza tela - 桌布  
 mi - 我  
@@ -1220,7 +1231,6 @@ papaya - 木瓜
 par fase - 水平  
 par jen - 同辈  
 par vezeta - 平衡  
-param - 参数  
 parce kai - 爆裂  
 pari dexa - 仙境  
 pari kata - 童话  
@@ -1438,6 +1448,8 @@ sing - 星
 sir plan - 阴谋 (密谋)  
 siro - 零 (〇)  
 sis - 姐妹 (jiěmèi)  
+sis doh - 外甥女  
+sis son - 外甥  
 sofa - 沙发  
 sofita - 智慧  
 soi - 大豆 (黄豆)  
@@ -1447,6 +1459,7 @@ soki - 寻找
 sol - 太阳  
 sol hua - 向日葵  
 sol sistem - 太阳系  
+son - 儿子  
 • ansona - 失眠  
 sona kamar - 卧室 (寝室)  
 sona papi - 鴉片罌粟  
@@ -1462,6 +1475,7 @@ sugata - 速度
 sui - 水  
 sui culi - 水处理  
 sui gas - 蒸汽  
+sui gui - 水怪  
 sui kaboga - 葫芦  
 sui minta - 水薄荷  
 sui yau - 口渴  
@@ -1566,7 +1580,6 @@ un mar - 一次 (一遍)
 unta - 团结 (统一)  
 un ta liga - 合并  
 un zai di - 独自的 (孤单)  
-ura - 好哇  
 uran yum - 铀  
 
 ## V  

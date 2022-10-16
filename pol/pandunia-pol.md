@@ -450,6 +450,10 @@ Belarus - Białoruś
 bele - łopata (szpadel)  
 Belgi - Belgia  
 Belize - Belize  
+ben - dziecko (potomek)  
+ben ben -   
+ben doh -   
+ben son -   
 benci - ławka  
 Benin - Benin  
 benzin - benzyna  
@@ -535,6 +539,8 @@ Bote - Tybet
 botel - butelka  
 botel tapa -   
 bra -   
+bra doh -   
+bra son -   
 Brahma -   
 brauza - poszukiwać (badać, eksplorować, przeglądać, wyszukiwać)  
 brauza gi -   
@@ -653,6 +659,7 @@ cesi yum - cez
 ceska - Republika Czeska, Czechy  
 ceti - siedem (7)  
 cetiden - tydzień  
+cian - niebieskozielony (cyjan)  
 cile - Chile  
 cili - papryka  
 cili fun - papryka  
@@ -848,6 +855,9 @@ divan - szalony
 divanta - szaleństwo  
 Divehi - Malediwy (Republika Malediwów)  
 dobe - cegła  
+doh - córka  
+doh doh -   
+doh son -   
 Doice - Niemcy  
 doice di - niemiecki  
 dokumen - dokument  
@@ -937,6 +947,7 @@ dute -
 • kondute -   
 • konduter -   
 • produte -   
+• paraprodute -   
 • posprodute -   
 • produter -   
 • redute -   
@@ -1393,6 +1404,7 @@ fitologi - botanika
 fito yam sim ja - wegetarianin  
 fixe - załącznik (przyrostek, afiks)  
 fizika - fizyka  
+• metafizika -   
 fizika di -   
 fizika gi -   
 fizika ja - fizyka  
@@ -1449,13 +1461,13 @@ foto minar - latarnia morska
 foto mira di -   
 foto radi - promień światła  
 foto so - foton  
-France - Francja  
-france fon di -   
-France fon dunia -   
-France Guyana - Gujana Francuska  
-france krepe - francuski naleśnik (crêpe)  
-France Polinesi - Polinezja Francuska  
-france yum - frans  
+Franse - Francja  
+Franse fon di -   
+Franse fon dunia -   
+Franse Guyana - Gujana Francuska  
+Franse krepe - francuski naleśnik (crêpe)  
+Franse Polinesi - Polinezja Francuska  
+franse yum - frans  
 frem - rama  
 frike - trzeć (pocierać, obetrzeć, pucować)  
 frutos -   
@@ -1898,6 +1910,7 @@ huli - lis
 humel - chmiel  
 humus - ciecierzyca  
 humus sos - hummus  
+hura - wiwatować (hura, jej)  
 huru - wolny, niepodległy, niezależny  
 huru di - uwolnić, uwalniać  
 huru sim - liberalizm  
@@ -2663,6 +2676,7 @@ magi liki -
 Magribi dexa - Maroko  
 Magyar - Węgry  
 mahala - dzielnica  
+maikan -   
 mais - kukurydza  
 majang - madżong  
 majenta - magenta  
@@ -2702,6 +2716,7 @@ mantol - peleryna (płaszcz, opończa)
 mantra -   
 mantu - bułka gotowana na parze  
 mar - czas; okazja  
+Marakux -   
 marati - marathi  
 maraton - maraton  
 marce -   
@@ -2833,6 +2848,7 @@ metan -
 metanol -   
 metil -   
 metilamin -   
+meta -   
 metal - metal  
 metal bede - kowadło  
 metal lin -   
@@ -2841,6 +2857,7 @@ metal tul -
 metre - zmierzyć (miara)  
 metre gi -   
 metre unta - jednostka miary  
+• parametre - parametr (argument, wartość wejściowa)  
 meza - stół  
 meza stan - płaskowyż (plateau)  
 meza tela - obrus  
@@ -3137,6 +3154,7 @@ Norfolke nesi - Norfolk
 Norge - Norwegia  
 norge baxa - norweski  
 norma - norma, standard  
+• paranormali -   
 norma di - normalny, standardowy  
 nos - nos  
 nos di - nosowy  
@@ -3261,8 +3279,8 @@ par fase -
 par jen - równy  
 parta -   
 par vezeta - równowaga  
+para -   
 Paraguai - Paragwaj  
-param - parametr (argument, wartość wejściowa)  
 paraya - wyrzutek  
 parce - część (fragment, strzęp, kawałek, okruch)  
 parce di - stłuczony (pęknięty)  
@@ -3787,6 +3805,9 @@ sata don - dedykować (poświęcać, poświęcić)
 sata don ta - dedykacja (poświęcenie)  
 Saturne - Saturn  
 sau - rodzeństwo, brat lub siostra  
+sau ben -   
+sau doh -   
+sau son -   
 Saudi Arabi - Arabia Saudyjska  
 sauna - sauna  
 saur - jaszczurka  
@@ -3855,7 +3876,6 @@ sexe - seks, stosunek płciowy
 sexe di - seksowny, ponętny  
 sexe logi - seksuologia  
 Sexel nesi - Seszele  
-sian - niebieskozielony (cyjan)  
 Sibiria - Syberia  
 siborge yum - seaborg  
 side - usiąść  
@@ -3893,6 +3913,8 @@ siro jen - nikt, żadna osoba
 siro sata - nigdy  
 siro xe - nic, żadna rzecz  
 sis -   
+sis doh -   
+sis son -   
 sismo - trzęsienie (machnięcie, wstrząs, szarpnięcie, trzęsienie ziemi)  
 sismo logi - sejsmologia  
 sistem - system  
@@ -3922,6 +3944,9 @@ sol sistem - układ słoneczny
 Solomon nesi - Wyspy Salomona  
 Somal - Somalia  
 Somal Dexa - Somaliland  
+son - syn  
+son doh -   
+son son -   
 sona - sen  
 • ansona -   
 sona kamar - sypialnia  
@@ -3978,6 +4003,7 @@ sui - woda
 sui culi -   
 sui di - wodny  
 sui gas - para wodna  
+sui gui -   
 sui kaboga - tykwa pospolita (kabalasz)  
 sui minta - mięta wodna  
 sui rang - akwarela (farba wodna)  
@@ -4268,7 +4294,6 @@ un verse di -
 un xe sim - monizm  
 un yen di lense -   
 un zai di -   
-ura - wiwatować; hura  
 Uran - Uran  
 uran yum - uran  
 urdu - urdu  
@@ -4550,7 +4575,6 @@ yauta - potrzeba
 ye - ten  
 yehudi - żydowski  
 yehudi din - judaizm  
-yei - jej  
 yeka -   
 yeka kanon -   
 yem - sól  

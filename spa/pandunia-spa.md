@@ -45,7 +45,7 @@ agrija - granjero (agricultor)
 agri nomi - agronomía  
 agri stan - campo  
 agri stan di - rural (rústico)  
-aha - entender (comprender)  
+aha - entender (comprender; ajá)  
 air - aire  
 air bio di - aeróbico  
 • anair bio di - anaeróbico  
@@ -404,6 +404,9 @@ Belarus - Belarús
 bele - pala  
 Belgi - Bélgica  
 Belize - Belice  
+ben - hijo o hija  
+ben doh - nieta  
+ben son - nieto  
 benci - banco (silla)  
 Benin - Benín  
 benzin - gasolina (bencina)  
@@ -581,6 +584,7 @@ cesi yum - cesio
 ceska - República Checa  
 ceti - siete (7)  
 cetiden - semana  
+cian - cian  
 cile - Chile  
 cili - chile  
 cimpanzi - chimpancé  
@@ -749,6 +753,7 @@ divan - demente (loco, insensato)
 divanta - demencia (locura)  
 Divehi - Maldivas  
 dobe - ladrillo  
+doh - hija  
 Doice - Alemania  
 doice di - alemán  
 dokumen - documento (archivo, nota)  
@@ -1268,11 +1273,11 @@ foto minar - faro (baliza, almenara)
 foto mira di - reluciente (brillante, lustroso)  
 foto radi - rayo luminoso  
 foto so - fotón  
-France - Francia  
-France Guyana - Guyana Francesa  
-france krepe - crepa (crep, tortilla de trigo)  
-France Polinesi - Polinesia Francesa  
-france yum - francio  
+Franse - Francia  
+Franse Guyana - Guyana Francesa  
+Franse krepe - crepa (crep, tortilla de trigo)  
+Franse Polinesi - Polinesia Francesa  
+franse yum - francio  
 frem - marco  
 frike - raspar (arañar)  
 frutos - fructosa  
@@ -1662,6 +1667,7 @@ huli - zorro
 humel - lúpulo (hombrecillo)  
 humus - garbanzo  
 humus sos - humus  
+hura - hurra (yupi)  
 huru - libre (horro)  
 huru di - liberar (soltar)  
 huru sim - liberalismo  
@@ -2486,6 +2492,7 @@ metal tul - ferretería
 metre - medir (medida)  
 metre gi - medidor  
 metre unta - unidad (medida)  
+• parametre - parámetro  
 meza - mesa  
 meza stan - meseta  
 meza tela - mantel  
@@ -2873,7 +2880,6 @@ par fase - nivel
 par jen - equilibrado (par)  
 par vezeta - equilibrio  
 Paraguai - Paraguay  
-param - parámetro  
 paraya - paria  
 parce - fragmento (pedazo)  
 parce di - roto  
@@ -3338,6 +3344,8 @@ sata di - momentáneo
 sata don - dedicar  
 Saturne - Saturno  
 sau - hermano o hermana  
+sau doh - sobrina  
+sau son - sobrino  
 Saudi Arabi - Arabia Saudita  
 sauna - sauna  
 saur - lagarto  
@@ -3396,7 +3404,6 @@ sexe - sexo
 sexe di - sexy (sexual)  
 sexe logi - sexología  
 Sexel nesi - Seychelles  
-sian - cian  
 Sibiria - Siberia  
 siborge yum - seaborgio  
 side - sentarse  
@@ -3461,6 +3468,7 @@ sol sistem - sistema solar
 Solomon nesi - Islas Salomón  
 Somal - Somalia  
 Somal Dexa - Solamilandia  
+son - hijo  
 sona - sueño  
 • ansona - insomnio  
 sona kamar - dormitorio  
@@ -3758,7 +3766,6 @@ un verse di - universal
 un xe sim - monismo  
 un yen di lense - monóculo  
 un zai di - solo (aislado, solitary, soltero)  
-ura - hurra  
 Uran - Urano  
 uran yum - uranio  
 urdu - urdu  
@@ -3993,7 +4000,6 @@ yauta - necesidad
 ye - este  
 yehudi - judío  
 yehudi din - judaísmo  
-yei - yupi  
 yem - sal  
 yem di - salino  
 Yemen - Yemen  

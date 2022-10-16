@@ -88,7 +88,7 @@ agri nomi - agronomy
 agri stan - countryside  
 agri stan di - rural (rustic)  
 agri suta - agriculture  
-aha - understand (realize)  
+aha - realize (understand; aha)  
 air - air  
 air bio di - aerobic  
 • anair bio di - anaerobic  
@@ -485,6 +485,10 @@ Belarus - Belarus
 bele - shovel (spade, scoop)  
 Belgi - Belgium  
 Belize - Belize  
+ben - child (offspring)  
+ben ben - grandchild  
+ben doh - granddaughter  
+ben son - grandson  
 benci - bench  
 Benin - Benin  
 benzin - gasoline (petrol)  
@@ -570,6 +574,8 @@ Bote - Tibet
 botel - bottle  
 botel tapa - bottle cap  
 bra - brother  
+bra doh - fraternal niece  
+bra son - fraternal nephew  
 Brahma - Brahma  
 brauza - explore (browse)  
 brauza gi - browser  
@@ -688,6 +694,7 @@ cesi yum - caesium
 ceska - Czech Republic  
 ceti - seven (7)  
 cetiden - week  
+cian - cyan  
 cile - Chile  
 cili - pepper (capsicum)  
 cili fun - paprika  
@@ -883,6 +890,9 @@ divan - mad (insane, crazy)
 divanta - madness (insanity)  
 Divehi - Maldives  
 dobe - brick  
+doh - daughter  
+doh doh - daughter's daughter  
+doh son - daughter's son  
 Doice - Germany  
 doice di - German  
 dokumen - document (record, file)  
@@ -972,6 +982,7 @@ dute - lead (bring to)
 • kondute - conduct (lead together)  
 • konduter - conductor (director)  
 • produte - produce (lead forward)  
+• paraprodute - side-product  
 • posprodute - post-production  
 • produter - producer  
 • redute - reduce (lead back, take back)  
@@ -1428,6 +1439,7 @@ fitologi - botany (phytology)
 fito yam sim ja - vegetarian  
 fixe - attachment (affix)  
 fizika - physics  
+• metafizika - metaphysics  
 fizika di - physical  
 fizika gi - hardware (physical device)  
 fizika ja - physicist  
@@ -1484,13 +1496,13 @@ foto minar - beacon (lighthouse)
 foto mira di - glossy  
 foto radi - ray of light  
 foto so - photon  
-France - France  
-france fon di - Francophone (French speaking)  
-France fon dunia - Francophonie  
-France Guyana - French Guiana  
-france krepe - crepe  
-France Polinesi - French Polynesia  
-france yum - francium  
+Franse - France  
+Franse fon di - Francophone (French speaking)  
+Franse fon dunia - Francophonie  
+Franse Guyana - French Guiana  
+Franse krepe - crepe  
+Franse Polinesi - French Polynesia  
+franse yum - francium  
 frem - frame  
 frike - rub (scrape, scrub)  
 frutos - fructose  
@@ -1933,6 +1945,7 @@ huli - fox
 humel - hop  
 humus - chickpea  
 humus sos - hummus  
+hura - cheer (hurrah, hooray, yay)  
 huru - free (unchained)  
 huru di - free (liberate)  
 huru sim - liberalism  
@@ -2697,6 +2710,7 @@ magi liki - magical power
 Magribi dexa - Morocco  
 Magyar - Hungary  
 mahala - quarter (neighbourhood, district, locality, section of town)  
+maikan - store (shop)  
 mais - corn (maize)  
 majang - mahjong  
 majenta - magenta (fuchsia)  
@@ -2736,6 +2750,7 @@ mantol - cape (cloak, mantle)
 mantra - mantra (chant)  
 mantu - steamed bun (mantou, manti)  
 mar - time (number of times)  
+Marakux - Marrakech  
 marati - Marathi  
 maraton - marathon  
 marce - walk (march)  
@@ -2866,6 +2881,7 @@ metan - methane
 metanol - methanol  
 metil - methyl  
 metilamin - methylamine  
+meta - hind (behind, later)  
 metal - metal  
 metal bede - anvil  
 metal lin - wire  
@@ -2874,6 +2890,7 @@ metal tul - hardware (ironware, equipment)
 metre - measure (measurement)  
 metre gi - meter (measuring device)  
 metre unta - unit (measurement)  
+• parametre - parameter (argument, input variable)  
 meza - table  
 meza stan - plateau (tableland)  
 meza tela - tablecloth  
@@ -3172,6 +3189,7 @@ Norfolke nesi - Norfolk Island
 Norge - Norway  
 norge baxa - Norwegian language  
 norma - norm (standard)  
+• paranormali - paranormal  
 norma di - normal  
 nos - nose  
 nos di - nasal  
@@ -3297,7 +3315,6 @@ par jen - peer
 parta - equality (parity)  
 par vezeta - equilibrium (balance)  
 Paraguai - Paraguay  
-param - parameter (argument, input variable)  
 paraya - outcast (pariah)  
 parce - piece (fragment, shred, morsel, crumb, shard)  
 parce di - broken (shattered)  
@@ -3823,6 +3840,9 @@ sata don - dedicate (devote)
 sata don ta - dedication (devotion)  
 Saturne - Saturn  
 sau - sibling (brother or sister)  
+sau ben - nephew or niece  
+sau doh - niece  
+sau son - nephew  
 Saudi Arabi - Saudi Arabia  
 sauna - sauna  
 saur - lizard  
@@ -3891,7 +3911,6 @@ sexe - sex (sexual relation)
 sexe di - sexy (sexually arousing)  
 sexe logi - sexology  
 Sexel nesi - Seychelles  
-sian - cyan  
 Sibiria - Siberia  
 siborge yum - seaborgium  
 side - sit down  
@@ -3929,6 +3948,8 @@ siro jen - nobody (no-one)
 siro sata - never  
 siro xe - nothing  
 sis - sister  
+sis doh - sororal niece  
+sis son - sororal nephew  
 sismo - shake (jolt, earthquake)  
 sismo logi - seismology  
 sistem - system  
@@ -3958,6 +3979,9 @@ sol sistem - solar system
 Solomon nesi - Solomon Islands  
 Somal - Somalia  
 Somal Dexa - Somaliland  
+son - son  
+son doh - son's daughter  
+son son - son's son  
 sona - sleep  
 • ansona - insomnia  
 sona kamar - bedroom  
@@ -4014,6 +4038,7 @@ sui - water
 sui culi - water treatment  
 sui di - watery  
 sui gas - steam (vapor)  
+sui gui - sea monster  
 sui kaboga - calabash  
 sui minta - watermint  
 sui rang - watercolor  
@@ -4305,7 +4330,6 @@ un verse di - universal
 un xe sim - monism  
 un yen di lense - monocle  
 un zai di - alone (lonely, isolated, solitary, single)  
-ura - cheer (hurrah, hooray)  
 Uran - Uranus  
 uran yum - uranium  
 urdu - Urdu  
@@ -4587,7 +4611,6 @@ yauta - need (shortage, lack, requirement)
 ye - this  
 yehudi - Jewish  
 yehudi din - Judaism  
-yei - yay! (yeah!)  
 yeka - exchange (replace, trade, swap)  
 yeka kanon - I Ching (the Book of Changes)  
 yem - salt  

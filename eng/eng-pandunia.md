@@ -424,6 +424,7 @@ Bermuda - Bermuda
 berry - beri  
 berth (couchette) - kux loka  
 beryllium - beril yum  
+beside (para-) - para  
 Bhutan - Lung Dexa  
 Bible - Biblia  
 Biblical - Biblia di  
@@ -727,7 +728,7 @@ chat room - blablakan
 chauffeur (driver) - xofer ja  
 checkers (draughts) - dama geme  
 checkmate - xah mata  
-cheer (hurrah, hooray) - ura  
+cheer (hurrah, hooray, yay) - hura  
 cheese - cize  
 cheetah - cita  
 chemical - kimi di  
@@ -743,6 +744,7 @@ chicken - koko
 chickpea - humus  
 chief (boss) - xefe  
 child (minor) - baca  
+child (offspring) - ben  
 childhood (immaturity) - youta  
 childhood (years of being very young) - you nen  
 Chile - cile  
@@ -971,7 +973,7 @@ cream - krem
 creamy (cream colored) - krem di  
 credible (believable) - kredibil  
 credit card - kredikarte  
-crepe - france krepe  
+crepe - Franse krepe  
 crib - bebe bede  
 cricket (sport) - krikete  
 crime - krim  
@@ -1016,7 +1018,7 @@ customer (client, patron) - klien
 cut (bite, incise) - gata  
 cut with a knife - gata a caku  
 cute (sweet) - kavai  
-cyan - sian  
+cyan - cian  
 cyclist - sikle ja  
 cyclone (hurrican, tornado, typhoon) - rota tufan  
 Cyprus - Kipris  
@@ -1050,6 +1052,9 @@ data table (matrix) - data table
 database (databank) - data banke  
 date - nen mes den  
 date fruit - tamar  
+daughter - doh  
+daughter's daughter - doh doh  
+daughter's son - doh son  
 day (24 hours) - den  
 day (daytime) - dia  
 daylight - dia foto  
@@ -1590,17 +1595,19 @@ four (4) - nelu
 fox - huli  
 frame - frem  
 framerate - grafi sugata  
-France - France  
+France - Franse  
 franchise (right to vote) - vote haki  
-francium - france yum  
-Francophone (French speaking) - france fon di  
-Francophonie - France fon dunia  
+francium - franse yum  
+Francophone (French speaking) - Franse fon di  
+Francophonie - Franse fon dunia  
+fraternal nephew - bra son  
+fraternal niece - bra doh  
 free (liberate) - huru di  
 free (unchained) - huru  
 freedom (liberty) - huruta  
 freeze (get frozen) - be ais  
-French Guiana - France Guyana  
-French Polynesia - France Polinesi  
+French Guiana - Franse Guyana  
+French Polynesia - Franse Polinesi  
 frequency - poli marta  
 fresh - taza  
 Friday - den lima  
@@ -1745,9 +1752,12 @@ gram (g) - gram
 grammar - baxa kanun  
 grammatical - baxa kanun di  
 grammatical gender - baxa jinse  
+grandchild - ben ben  
+granddaughter - ben doh  
 grandfather - cin pa  
 grandmother - cin ma  
 grandparent - cin cin  
+grandson - ben son  
 granite - granite  
 grape - putau  
 grapefruit - putau oranje  
@@ -1889,6 +1899,7 @@ hide (conceal) - fa sir
 high (tall) - gau di  
 high technology (hi-tech) - gau tehni  
 Himalayas - Himalaya  
+hind (behind, later) - meta  
 Hindi (Hindustani) - Hindi baxa  
 Hindu - Hindi din ja  
 Hinduism - Hindi din  
@@ -2478,6 +2489,7 @@ mark (leave a mark) - fa marke
 mark (trace) - marke  
 market (bazaar) - bazar  
 market liberalism - bazar huru sim  
+Marrakech - Marakux  
 marriage (matrimony) - gam  
 married - gam di  
 marry - fa gami  
@@ -2564,6 +2576,7 @@ message - mesaje
 messenger - anjil ja  
 messianic - mesi di  
 metal - metal  
+metaphysics - metafizika  
 meter (100 cm) - mitre  
 meter (measuring device) - metre gi  
 methane - metan  
@@ -2761,6 +2774,8 @@ neologism - neu loga
 neon - neon  
 neophyte plant - neu fito  
 Nepal - Nepal  
+nephew - sau son  
+nephew or niece - sau ben  
 nephritis - nefre tis  
 Neptune - Neputun  
 neptunium - neputun yum  
@@ -2792,6 +2807,7 @@ Nicaragua - Nikaragua
 nice (pleasant, comfortable, cushy) - huxi  
 niche (recess, alcove) - nix  
 nickel - nikel  
+niece - sau doh  
 Niger - Nijer  
 Nigeria - Naijiria  
 night - noce  
@@ -3012,7 +3028,8 @@ paprika - cili fun
 Papua New Guinea - Papua neu Ginia  
 Paraguay - Paraguai  
 parallel (line of latitude) - vei gola  
-parameter (argument, input variable) - param  
+parameter (argument, input variable) - parametre  
+paranormal - paranormali  
 parasol - sol cati  
 pardon (forgiveness; sorry) - maf  
 parent (mother or father) - cin  
@@ -3413,6 +3430,7 @@ reaction - reation
 read - dugu  
 ready (prepared) - redi  
 realization (awareness, enlightenment, bodhi) - budi  
+realize (understand; aha) - aha  
 realize - fa budi  
 reason (cause) - sabu  
 reason (rational thinking) - razon  
@@ -3665,6 +3683,7 @@ sea - hai
 sea anemone - hai hua  
 sea cucumber - hai hiyar  
 sea force (navy) - hai ordu  
+sea monster - sui gui  
 seaborgium - siborge yum  
 seagrass - hai cau  
 search (seek, look for) - soki  
@@ -3765,6 +3784,7 @@ Siberia - Sibiria
 sibling (brother or sister) - sau  
 side (flank) - late  
 side-effect - parafete  
+side-product - paraprodute  
 sideways (laterally) - late di  
 Sierra Leone - Salon  
 sign (autograph) - nam kitaba  
@@ -3858,8 +3878,13 @@ some (one) - yo
 someone (somebody) - yo jen  
 something - yo xe  
 sometime - yo sata  
+son - son  
+son's daughter - son doh  
+son's son - son son  
 soon - sun  
 sorghum (durra, jawar, Indian millet) - jovar  
+sororal nephew - sis son  
+sororal niece - sis doh  
 soul (mind, psyche) - ruhu  
 sound (audio) - soni  
 sound (make a sound) - fa soni  
@@ -3959,6 +3984,7 @@ stop (halt) - halte
 stopper (cap, peg, plug, tap) - tapa  
 stopwatch - dura metre gi  
 store (deposit) - hazin  
+store (shop) - maikan  
 storehouse (depository) - hazinkan  
 storm (tempest, typhoon, hurricane, cyclone) - tufan  
 straight - orto  
@@ -4341,7 +4367,6 @@ underestimate - fa min rai
 undergo (passivizing verb) - be  
 underground (subterrainean) - geo nice di  
 underside (underneath) - nice  
-understand (realize) - aha  
 unexpected - ancen vide di  
 union - un ta liga  
 unit (measurement) - metre unta  
@@ -4597,7 +4622,6 @@ xylose (wood sugar) - xilos
 Yahweh (Jehovah) - Yahve  
 yak - yake  
 yard (garden) - bagi  
-yay! (yeah!) - yei  
 year - nen  
 yeast - hamir  
 yellow - huang  

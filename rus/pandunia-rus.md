@@ -23,6 +23,7 @@ agri - выращивать
 agri bio logi - агробиология  
 agri di - аграрный  
 agri nomi - агрономия  
+aha - ага  
 air - воздух  
 air bio di - аэробный  
 air ordu - военно-воздушные силы  
@@ -208,6 +209,10 @@ bebe bede - детская кроватка
 bede - кровать (койка)  
 bei - товарищ  
 bele - лопата  
+ben - ребёнок (потомок)  
+ben ben - внуки  
+ben doh - внучка  
+ben son - внук  
 beri - ягода  
 beril yum - бериллий  
 berkli yum - берклий  
@@ -306,6 +311,7 @@ ceri - черешня
 • sucese - преуспеть  
 cesi yum - цезий  
 ceti - семь (7)  
+cian - циан  
 cili - перец (паприка)  
 cin bra - дядя  
 cin ma - бабушка  
@@ -393,6 +399,7 @@ dipe tela - ковёр
 diske - диск  
 disprosi yum - диспрозий  
 dobe - кирпич  
+doh - дочь  
 dokumen - документ  
 dokumen filme - документальный фильм  
 dolfin - дельфин  
@@ -579,7 +586,7 @@ foto mata di - матовый
 foto minar - маяк  
 foto mira di - глянцевый  
 foto so - фотон  
-france yum - франций  
+franse yum - франций  
 frem - рама  
 frike - царапать  
 frutos - фруктоза  
@@ -770,6 +777,7 @@ huke krus - свастика
 huke lin kane - удочка  
 huli - лиса  
 humel - хмель  
+hura - ура  
 huru - свободный (вольный)  
 
 ## I  
@@ -1169,6 +1177,7 @@ metan - метан
 metanol - метанол  
 metil - метил  
 metal bede - наковальня  
+• parametre - параметр (аргумент)  
 meza - стол  
 meza tela - скатерть  
 mi - я  
@@ -1291,6 +1300,7 @@ noce - ночь
 Noe di nave - Ноев ковчег  
 nomi - организация  
 norde - север (норд)  
+• paranormali - паранормальный  
 nostalgia - ностальгия (тоска)  
 note xe - запись (заметка)  
 nu - ну  
@@ -1349,7 +1359,6 @@ par fase - уровень
 par jen - ровня  
 parta - равенство (паритет)  
 par vezeta - равновесие (баланс)  
-param - параметр (аргумент)  
 parce - кусок  
 pari - фея  
 pari kata - сказка  
@@ -1558,6 +1567,8 @@ sar kexa hin - лысый
 sata - момент  
 sata di - моментальный (минутный)  
 Saturne - Сатурн  
+sau doh - племянница  
+sau son - племянник  
 saur - ящерица  
 se - себя (-ся)  
 semen - друг друга  
@@ -1589,7 +1600,6 @@ serve gi - сервер
 serve ja - слуга  
 sesam - сезам  
 sexe logi - сексология  
-sian - циан  
 siborge yum - сиборгий  
 side loka - сиденье (седло)  
 sifa loga - прилагательное  
@@ -1617,6 +1627,7 @@ soki - искать
 sol - солнце  
 sol cati - зонтик от солнца  
 sol hua - подсолнечный  
+son - сын  
 • ansona - бессонница (инсомния)  
 sona kamar - спальня  
 sona papi - мак снотворный  
@@ -1754,7 +1765,6 @@ unta - единица
 un ta liga - союз  
 un yen di lense - монокль  
 un zai di - одинокий (единичный)  
-ura - ура  
 Uran - Уран  
 uran yum - уран  
 

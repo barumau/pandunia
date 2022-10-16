@@ -30,7 +30,7 @@ agri - cultiver
 agri bio logi - agrobiologie  
 agri di - agricole  
 agri nomi - agronomie  
-aha - comprendre (réaliser)  
+aha - comprendre (réaliser; aha)  
 air - air  
 air bio di - aérobique  
 • anair bio di - anaérobique  
@@ -297,6 +297,8 @@ bede - lit
 bedinjan - aubergine  
 bei - socio  
 bele - pelle  
+ben - fils ou fille  
+ben ben - petit-enfant  
 beri - baie  
 beril yum - béryllium  
 berkli yum - berkélium  
@@ -391,6 +393,7 @@ ceri - cerise
 cesi yum - césium  
 ceti - sept (7)  
 cetiden - semaine  
+cian - cyan (turquois)  
 cili - piment  
 cin - parent (géniteur)  
 cin bra - oncle  
@@ -472,6 +475,7 @@ dipe moka - buisson
 diske - disque  
 disprosi yum - dysprosium  
 dobe - brique  
+doh - fille  
 dokumen - document (dossier)  
 dokumen filme - documentaire  
 dolfin - dauphin  
@@ -669,11 +673,11 @@ foto mata di - mat (opaque)
 foto minar - fanal (balise)  
 foto mira di - luisant (brillant)  
 foto so - photon  
-france fon di - francophone  
-France fon dunia - francophonie  
-france krepe - crêpe  
-France Polinesi - Polynésie française  
-france yum - francium  
+Franse fon di - francophone  
+Franse fon dunia - francophonie  
+Franse krepe - crêpe  
+Franse Polinesi - Polynésie française  
+franse yum - francium  
 frem - cadre  
 frutos - fructose  
 frute - fruit  
@@ -869,6 +873,7 @@ huke krus - svastika (croix gammée)
 huke lin kane - canne à pêche  
 huli - renard  
 humel - houblon  
+hura - hourra  
 huru - libre  
 
 ## I  
@@ -1231,6 +1236,7 @@ manioka fufu - tapioca
 mantol - cape  
 mantra - mantra  
 mar - fois  
+Marakux - Marrakech  
 marce - marche  
 margai - margay (chat-tigre)  
 marke - trace  
@@ -1282,6 +1288,7 @@ metanol - méthanol (alcool de bois)
 metil - méthyle  
 metal bede - enclume  
 metal lin - fil de fer  
+• parametre - paramètre  
 meza - table  
 meza tela - nappe  
 mi - je (me)  
@@ -1470,7 +1477,6 @@ par - pair (pareil, egal)
 par fase - niveau  
 parta - parité  
 par vezeta - équilibre  
-param - paramètre  
 parce - fragment  
 pari - fée  
 pari dexa - pays des fées (paradis)  
@@ -1695,6 +1701,8 @@ sar kexa hin - chauve
 sata di - momentané  
 Saturne - Saturne  
 sau - frère et sœur (adelphe, germain)  
+sau doh - nièce  
+sau son - neveu  
 saur - lézard  
 se - se  
 semen - l'un l'autre  
@@ -1751,6 +1759,7 @@ sol - soleil
 sol cati - ombrelle (parasol)  
 sol hua - Tournesol  
 sol kentaur hua - Centaurée du solstice  
+son - fils  
 sona - sommeil  
 • ansona - insomnie  
 sona kamar - chambre à coucher  
@@ -1886,7 +1895,6 @@ un mar - une fois
 un ta liga - union  
 un verse di - universel  
 un yen di lense - monocle  
-ura - hourra  
 Uran - Uranus  
 uran yum - uranium  
 

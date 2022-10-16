@@ -4,7 +4,7 @@
 
 Rzeczownik jest słowem, które nazywa rzeczy. Jak wszystkie słowa w Panduni, rzeczowniki są nieodmienne. Taka sa forma jest używana w liczbie pojedynczej i mnogiej, podmiocie i dopełnieniu.
 
-**seku**
+**ite**
 – kamień, kamienie  
 **meza**
 – stół, stoły  
@@ -21,7 +21,7 @@ Liczba nie wpływa na rzeczowniki, tj. rzeczowniki mają te same formy w liczbie
 
 Prostym sposobem wyrażenia liczby mnogiej jest rzeczownik.
 
-**seku seku**
+**ite ite**
 – kamienie, wiele kamieni  
 **sing sing**
 – gwiazdy, wiele kamieni

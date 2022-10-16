@@ -162,6 +162,9 @@ bebe - 赤ちゃん
 bebe bede - ベビーベッド  
 bede - 寝床 (ベッド)  
 bele - シャベル (スコップ)  
+ben - 子供 (息子か娘)  
+ben ben - 孫  
+ben doh - 孫娘  
 beri - 漿果 (ベリー )  
 beril yum - ベリリウム  
 berkli yum - バークリウム  
@@ -250,6 +253,7 @@ ceres yum - セリウム
 • acese - アクセス  
 • sucese - 成功  
 cesi yum - セシウム  
+cian - シアン  
 cili fun - パプリカ  
 cin bra - 伯父  
 cin ma - お婆さん  
@@ -336,6 +340,7 @@ dipe tela - 絨毯 (カーペット)
 diske - ディスク (円盤)  
 disprosi yum - ジスプロシウム  
 dobe - レンガ (磚)  
+doh - 娘  
 dokumen - 書類 (文書, ドキュメント)  
 dokumen filme - ドキュメンタリー  
 dolfin - イルカ (ドルフィン)  
@@ -501,7 +506,7 @@ foto frike - 光沢
 foto grafi - 写真  
 foto minar - 狼煙 (ビーコン)  
 foto so - 光子  
-france yum - フランシウム  
+franse yum - フランシウム  
 frem - 額  
 frike - 擦る (擦り傷する)  
 frutos - 果糖 (フルクトース)  
@@ -1083,6 +1088,7 @@ metal lin - 線 (針金)
 metal tul - 金物  
 metre - 測定  
 metre gi - 測定装置 (計)  
+• parametre - 引数 (パラメーター)  
 meza - 机 (テーブル)  
 meza stan - 台地 (高地)  
 meza tela - テーブル掛け  
@@ -1241,7 +1247,6 @@ pante - ズボン
 papaya - パパイヤ  
 par jen - 同輩  
 par vezeta - 均衡 (平衡)  
-param - 引数 (パラメーター)  
 parce kai - 弾ける  
 pari dexa - 仙境  
 parne - 羊歯  
@@ -1426,6 +1431,8 @@ sar kexa - 髪の毛 (頭髪)
 sata - 瞬間  
 Saturne - 土星  
 sau - 兄弟姉妹  
+sau doh - 姪  
+sau son - 甥  
 saur - 蜥蜴  
 seku - 石 (岩)  
 seku sanaja - 石匠  
@@ -1450,7 +1457,6 @@ serime - 連結
 serve gi - サーバ  
 serve ja - 使用人  
 sexe logi - 性科学  
-sian - シアン  
 siborge yum - シーボーギウム  
 side - 座る  
 side loka - 座席 (鞍)  
@@ -1477,6 +1483,7 @@ soi sos - 醤油
 soki - 探す (捜索する)  
 sol - 太陽 (日)  
 sol hua - ヒマワリ  
+son - 息子  
 • ansona - 不眠症  
 sona kamar - 寝室  
 sona papi - ケシ  

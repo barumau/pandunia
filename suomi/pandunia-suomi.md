@@ -85,7 +85,7 @@ agri nomi - agronomia (maatalous)
 agri stan - maaseutu  
 agri stan di - maalais-  
 agri suta - viljely  
-aha - oivaltaa (tajuta)  
+aha - oivaltaa (tajuta, hoksata)  
 air - ilma  
 air bio di - aerobinen  
 • anair bio di - anaerobinen  
@@ -472,6 +472,10 @@ Belarus - Valkovenäjä
 bele - lapio  
 Belgi - Belgia  
 Belize - Belize  
+ben - lapsi (jälkeläinen)  
+ben ben - lapsenlapsi  
+ben doh - lapsen tytär  
+ben son - lapsen poika  
 benci - penkki  
 Benin - Benin  
 benzin - bensiini (bensa)  
@@ -556,6 +560,8 @@ Bote - Tiibet
 botel - pullo  
 botel tapa - pullonkorkki  
 bra - veli  
+bra doh - veljentytär  
+bra son - veljenpoika  
 Brahma - Brahma  
 brauza - selata  
 brauza gi - selain  
@@ -668,6 +674,7 @@ cesi yum - cesium
 ceska - Tšekki  
 ceti - seitsemän (7)  
 cetiden - viikko  
+cian - sinivihreä (syaani)  
 cile - Chile  
 cili - paprika  
 cili fun - paprikajauhe  
@@ -852,6 +859,9 @@ divan - hullu (mieletön)
 divanta - hulluus (mielettömyys)  
 Divehi - Malediivit  
 dobe - tiili  
+doh - tytär  
+doh doh - tyttärentytär  
+doh son - tyttärenpoika  
 Doice - Saksa  
 doice di - saksalainen  
 dokumen - asiakirja (dokumentti, tiedosto)  
@@ -932,6 +942,7 @@ dus sin di - pahaenteinen
 dus topi - dystopia  
 dus vide - ruma (pahannäköinen)  
 dus zar - epäonni  
+• paraprodute - sivutuote  
 • posprodute - jälkituotanto  
 dutebil - epäilyttävä  
 dute ja - epäilevä  
@@ -1368,6 +1379,7 @@ fitologi - kasvitiede
 fito yam sim ja - kasvissyöjä  
 fixe - kiinnitys  
 fizika - fysiikka  
+• metafizika - metafysiikka  
 fizika ja - fyysikko  
 fizika suta - fysiikka  
 flam - liekki  
@@ -1416,13 +1428,13 @@ foto minar - majakka
 foto mira di - kiiltävä (valoa heijastava)  
 foto radi - valonsäde  
 foto so - fotoni  
-France - Ranska  
-france fon di - ranskaa puhuva (frankofoni)  
-France fon dunia - ranskankielinen maailma  
-France Guyana - Ranskan Guiana  
-france krepe - kreppi  
-France Polinesi - Ranskan Polynesia  
-france yum - frankium  
+Franse - Ranska  
+Franse fon di - ranskaa puhuva (frankofoni)  
+Franse fon dunia - ranskankielinen maailma  
+Franse Guyana - Ranskan Guiana  
+Franse krepe - kreppi  
+Franse Polinesi - Ranskan Polynesia  
+franse yum - frankium  
 frem - kehys (raamit)  
 frike - hangata  
 frutos - fruktoosi (hedelmäsokeri)  
@@ -1840,6 +1852,7 @@ huli - kettu
 humel - humala  
 humus - kikherne  
 humus sos - hummus  
+hura - hurrata (hurraa, jee, jippii, hiphei)  
 huru - vapaa  
 huru di - vapauttaa  
 huru sim - liberalismi  
@@ -2494,6 +2507,7 @@ magi liki - taikavoima
 Magribi dexa - Marokko  
 Magyar - Unkari  
 mahala - kaupunginosa (kortteli, naapurusto)  
+maikan - kauppa  
 mais - maissi  
 majang - mahjong  
 makala - artikkeli (kirjoitus)  
@@ -2529,6 +2543,7 @@ manioka fufu - tapioka
 mantra - mantra (messuta)  
 mantu - täytetty pulla  
 mar - kerta (vuoro)  
+Marakux - Marrakesh  
 marati - marathi (eräs intialainen kieli)  
 maraton - maratoni  
 marce - kävely (marssi)  
@@ -2640,10 +2655,12 @@ mesi gene - joulu
 metan - metaani  
 metanol - metanoli  
 metil - metyyli  
+meta - myöhempi (jälkeinen)  
 metal - metalli  
 metal lin - vaijeri (metallilanka)  
 metal sanaja - seppä  
 metre - mitta (koko, määrä)  
+• parametre - parametri (argumentti)  
 meza - pöytä  
 meza tela - pöytäliina  
 mi - minä  
@@ -2903,6 +2920,7 @@ Norfolke nesi - Norfolkin saaret
 Norge - Norja  
 norge baxa - norjalainen  
 norma - normi  
+• paranormali - paranormaali (yliluonnollinen)  
 norma di - normaali  
 nos - nenä  
 nos di - nenä- (nasaali)  
@@ -3015,7 +3033,6 @@ par jen - vertainen
 parta - tasavertaisuus  
 par vezeta - tasapaino  
 Paraguai - Paraguai  
-param - parametri (argumentti)  
 paraya - hylkiö (paaria)  
 parce - palanen (murunen, riekale, sirpale)  
 parce di - rikki (palasina)  
@@ -3463,6 +3480,9 @@ sata - hetki (kotva, ajankohta)
 sata di - hetkellinen  
 Saturne - Saturnus  
 sau - sisarus (veli tai sisko)  
+sau ben - sisaruksen lapsi  
+sau doh - sisaruksen tytär  
+sau son - sisaruksen poika  
 Saudi Arabi - Saudi Arabia  
 sauna - sauna  
 saur - lisko  
@@ -3516,7 +3536,6 @@ sexe - seksi (sukupuolisuhde)
 sexe di - seksikäs  
 sexe logi - seksologia  
 Sexel nesi - Seychellit  
-sian - syaani  
 Sibiria - Siperia  
 siborge yum - seaborgium  
 sifa - laatu (ominaisuus, ominaispiirre, määrite)  
@@ -3549,6 +3568,8 @@ siro jen - ei kukaan
 siro sata - ei koskaan (ei kertaakaan)  
 siro xe - ei mitään  
 sis - sisko  
+sis doh - sisarentytär  
+sis son - sisarenpoika  
 sismo logi - seismologia  
 sistem - järjestelmä (systeemi)  
 sita - lainata (siteerata)  
@@ -3573,6 +3594,9 @@ sol sistem - aurinkokunta
 Solomon nesi - Salomon-saaret  
 Somal - Somalia  
 Somal Dexa - Somalimaa  
+son - poika  
+son doh - pojantytär  
+son son - pojanpoika  
 sona - nukkuminen (uni)  
 • ansona - unettomuus  
 sona kamar - makuuhuone  
@@ -3890,7 +3914,6 @@ un verse di - universaali
 un xe sim - monismi  
 un yen di lense - monokkeli  
 un zai di - yksinäinen  
-ura - hurraa (hurrata)  
 Uran - Uranus  
 uran yum - uraani  
 urdu - urdu  
@@ -4158,7 +4181,6 @@ yauta - tarve (puute)
 ye - tämä  
 yehudi - juutalainen  
 yehudi din - juutalaisuus  
-yei - jee! (hurraa!)  
 yeka - vaihtaa (tehdä vaihtokauppa)  
 yeka kanon - Muutosten kirja (I Ching)  
 yem - suola  

@@ -535,7 +535,7 @@ foorumi - forum
 fosfaatti - fosfate  
 fosfori - fosfe  
 fotoni - foto so  
-frankium - france yum  
+frankium - franse yum  
 fruktoosi (hedelmäsokeri) - frutos  
 fuusio (yhteensulautuminen) - yung liga  
 fysiikka - fizika  
@@ -785,7 +785,7 @@ huominen - pos den
 huomio (kommentti, merkintä) - note xe  
 huone - kamar  
 hurma (lumo, tenho) - fasinta  
-hurraa (hurrata) - ura  
+hurrata (hurraa, jee, jippii, hiphei) - hura  
 huuli - labi  
 huume - droge  
 huume - narko  
@@ -978,7 +978,6 @@ jasmiinitee - moli hua cai
 jatkua uudestaan - redura  
 jauhaa - fa mol  
 jazz (jatsi) - jaze  
-jee! (hurraa!) - yei  
 Jeesus - Yesa  
 Jeesus Kristus - Yesa Mesi  
 jekuttaa (petkuttaa) - fa truke  
@@ -1212,6 +1211,7 @@ kauneus - meita
 kaunis (komea, sievä) - mei  
 kaunokainen - englix margarita  
 kaupankäynti (osto ja myynti) - vende xope  
+kauppa - maikan  
 kauppias - vende xope ja  
 kaupunginosa (kortteli, naapurusto) - mahala  
 kaupunki - nagar  
@@ -1484,7 +1484,7 @@ koulutus - xula
 kova - gati  
 Kreikka - Helen  
 kreikkalainen - Helen di  
-kreppi - france krepe  
+kreppi - Franse krepe  
 kreppikoju - krepekan  
 kriisi (käännekohta) - krizi  
 kriittinen (kriisi-) - krizi di  
@@ -1690,8 +1690,12 @@ laoslainen - lau di
 lapio - bele  
 lapislatsuli - lazur petra  
 lappo - dara tubo  
+lapsen poika - ben son  
+lapsen tytär - ben doh  
+lapsenlapsi - ben ben  
 lapsi (alaikäinen) - you jen  
 lapsi (alaikäinen, epäkypsä, kasvava) - you  
+lapsi (jälkeläinen) - ben  
 lapsi - baca  
 lapsuus (epäkypsyys) - youta  
 lapsuusvuodet - you nen  
@@ -1987,6 +1991,7 @@ marja - beri
 markkinaliberalismi - bazar huru sim  
 marmori - kalsi bilor  
 Marokko - Magribi dexa  
+Marrakesh - Marakux  
 marraskuu - mes des un  
 Mars - Marse  
 Marshall-saaret - Marxal nesi  
@@ -2065,6 +2070,7 @@ messuta - fa mantra
 mestari (asiantuntija) - master  
 mestari (voittaja) - campion  
 metaani - metan  
+metafysiikka - metafizika  
 metalli - metal  
 metanoli - metanol  
 meteli - kelele  
@@ -2198,6 +2204,7 @@ myrsky - tufan
 mysli - musli  
 myydä - vende  
 myöhemmin (tuleva) - a pos  
+myöhempi (jälkeinen) - meta  
 myöhempi (takainen) - pos di  
 myös (lisäksi, -kin) - a max  
 myötätunto (sympatia) - sam emos  
@@ -2358,7 +2365,7 @@ oikeudenmukainen - adil
 oikeus (käräjätalo) - adilkan  
 oikeus (oikeutus) - haki  
 oikeus - adilta  
-oivaltaa (tajuta) - aha  
+oivaltaa (tajuta, hoksata) - aha  
 oja (kanava, kanaali) - kanal  
 okra - bamia  
 oksa (haara) - xaka  
@@ -2537,7 +2544,8 @@ papu tai herne - dou
 Papua Uusi-Guinea - Papua neu Ginia  
 papukaija - papagai  
 Paraguai - Paraguai  
-parametri (argumentti) - param  
+parametri (argumentti) - parametre  
+paranormaali (yliluonnollinen) - paranormali  
 pari (kaksikko) - per  
 Pariisi - Paris  
 parillinen luku - per nume  
@@ -2680,6 +2688,7 @@ Pohjois-Kypros - Norde Kipris
 pohtia (meditoida) - jan  
 poika (nuori mies) - jun man  
 poika (nuori mies) - you nan  
+poika - son  
 poikittainen (vaaka) - vei di  
 pois (poissa) - for  
 pois käytöstä - defunsi  
@@ -2692,6 +2701,8 @@ poistaa toiminnasta - deativi
 poistaa virheitä (debugata) - fa an galte  
 poistua (lähteä pois, mennä pois) - cuti  
 poistua (mennä ulos) - be vai  
+pojanpoika - son son  
+pojantytär - son doh  
 pokeri - poker  
 poliiisi (poliisimies) - polis ja  
 poliisi - polis  
@@ -2887,11 +2898,11 @@ rakkaudenjumala - kama deu
 rakkaus (tykkääminen) - ama  
 ramadan - ramazan  
 rankkasade - dai barxa  
-Ranska - France  
-ranskaa puhuva (frankofoni) - france fon di  
-Ranskan Guiana - France Guyana  
-Ranskan Polynesia - France Polinesi  
-ranskankielinen maailma - France fon dunia  
+Ranska - Franse  
+ranskaa puhuva (frankofoni) - Franse fon di  
+Ranskan Guiana - Franse Guyana  
+Ranskan Polynesia - Franse Polinesi  
+ranskankielinen maailma - Franse fon dunia  
 raportoida (selostaa) - fa reporte  
 raportoida (selostaa; raportti, selostus, selonteko) - reporte  
 raportti (selostus, selonteko) - reporte  
@@ -3187,6 +3198,7 @@ simpanssi - cimpanzi
 sinetti - mum cape  
 Singapore - Singapur  
 sininen - nil  
+sinivihreä (syaani) - cian  
 sinkki - zinke  
 sinko (raketinheitin) - rokete lanse gi  
 sintolaisuus - xindau din  
@@ -3194,6 +3206,11 @@ sinun - tu su
 sinä - tu  
 Siperia - Sibiria  
 sipuli - piaze  
+sisarenpoika - sis son  
+sisarentytär - sis doh  
+sisaruksen lapsi - sau ben  
+sisaruksen poika - sau son  
+sisaruksen tytär - sau doh  
 sisarus (veli tai sisko) - sau  
 sisaruspuoli - gam sau  
 sisko - sis  
@@ -3216,6 +3233,7 @@ sivistynyt - sivil
 sivu (kirjassa) - yepa late  
 sivu (kylki, puoli) - late  
 sivu- - late di  
+sivutuote - paraprodute  
 Skandinavia - Eskandinavia  
 skandium - eskandi yum  
 skorpioni - akrabe  
@@ -3340,7 +3358,6 @@ suutarin paja - sapatukan
 Svalbard - Sualbarde  
 Sveitsi - Suise  
 Swazimaa - Suati  
-syaani - sian  
 sydän - xim  
 syksy (syys) - pada mosim  
 sylkeä - tuh  
@@ -3725,8 +3742,11 @@ typerys (idiootti) - idiote
 typpi - nitre  
 tyranni - zalim raja  
 tyrannia - zalimta  
+tyttärenpoika - doh son  
+tyttärentytär - doh doh  
 tyttö (nuori neito) - jun fem  
 tyttö (nuori neito) - you ni  
+tytär - doh  
 Tyyni valtameri - Pase Hai  
 tyyny - kuxen  
 tyyppi (laji, genre) - tipe  
@@ -3942,6 +3962,8 @@ veistos (patsas) - eskulte
 veistää kuvaa - fa eskulte  
 veitsi (puukko) - caku  
 veli - bra  
+veljenpoika - bra son  
+veljentytär - bra doh  
 veloittaa (verottaa) - kape yo taxi  
 vene (laiva) - nave  
 veneilijä - nave ga ja  
@@ -3988,6 +4010,7 @@ vielä (yhä, jatkua) - zoku
 vieraanvarainen (antelias, hyväntahtoinen) - karim di  
 vierailija (vieras) - keka ja  
 vieras (tuntematon) - ansan di  
+vieri (oheis-, para-) - para  
 viesti - anjil  
 viesti - mesaje  
 viestintuoja (airut) - anjil ja  

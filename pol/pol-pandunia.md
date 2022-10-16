@@ -78,6 +78,9 @@
  - be vai  
  - bei  
  - bela  
+ - ben ben  
+ - ben doh  
+ - ben son  
  - Berlin  
  - Biblia di  
  - bici  
@@ -96,6 +99,8 @@
  - bon rai  
  - botel tapa  
  - bra  
+ - bra doh  
+ - bra son  
  - Brahma  
  - brauza gi  
  - Brazavil  
@@ -155,6 +160,8 @@
  - Dione  
  - dipe gradu  
  - dipe megi  
+ - doh doh  
+ - doh son  
  - dokumen filme  
  - dom dexa  
  - don tabi  
@@ -269,8 +276,8 @@
  - foto lin  
  - foto mata di  
  - foto mira di  
- - france fon di  
- - France fon dunia  
+ - Franse fon di  
+ - Franse fon dunia  
  - frute bagi  
  - frutos  
  - fufu  
@@ -487,9 +494,11 @@
  - ma pa  
  - ma sis  
  - magi liki  
+ - maikan  
  - maltos  
  - manioka fufu  
  - mantra  
+ - Marakux  
  - marce  
  - master de arte (MA)  
  - master de enjeni (ME)  
@@ -507,6 +516,7 @@
  - memo tehni  
  - men  
  - mendelef yum  
+ - meta  
  - metal lin  
  - metal tul  
  - metan  
@@ -568,6 +578,7 @@
  - palaba  
  - pan mime  
  - par fase  
+ - para  
  - pari dexa  
  - parta  
  - pas dau  
@@ -644,6 +655,9 @@
  - sam metre  
  - sante kanon  
  - sar kexa hin  
+ - sau ben  
+ - sau doh  
+ - sau son  
  - se di  
  - se su  
  - sekur kopi  
@@ -666,12 +680,17 @@
  - sim  
  - sim ja  
  - sis  
+ - sis doh  
+ - sis son  
  - soi  
+ - son doh  
+ - son son  
  - sona tabi  
  - spete  
  - stan  
  - suan mate  
  - sui culi  
+ - sui gui  
  - sukros  
  - sultan dexa  
  - suna islam din  
@@ -886,8 +905,11 @@
  - kontraversi  
  - konversi  
  - mahazin  
+ - metafizika  
  - niceprese  
  - parafete  
+ - paranormali  
+ - paraprodute  
  - perversi  
  - poligene  
  - pospoze  
@@ -1378,6 +1400,7 @@ część (fragment, strzęp, kawałek, okruch) - parce
 część, ułamek - fen  
 członek - mer  
 człowiek, istota ludzka - insan  
+córka - doh  
 D - D  
 dach - cati  
 daktyl - tamar  
@@ -1496,6 +1519,7 @@ dziadek (dziad) - cin pa
 działka (teren) - geo tika  
 działo - dai pau  
 dziecko (nieletni) - baca  
+dziecko (potomek) - ben  
 dzielić - fa fen  
 dzielić (współdzielić) - fa komun  
 dzielnica - mahala  
@@ -1636,9 +1660,9 @@ fosfor - fosfe
 fotograf - foto grafi ja  
 fotografia - foto grafi suta  
 foton - foto so  
-Francja - France  
-francuski naleśnik (crêpe) - france krepe  
-frans - france yum  
+Francja - Franse  
+francuski naleśnik (crêpe) - Franse krepe  
+frans - franse yum  
 fu, fuj - fui  
 funkcja, stanowisko - funsi  
 funkcjonariusz, urzędnik - guan ja  
@@ -1740,7 +1764,7 @@ Gudżarat - gujarati
 Guernsey - Gernezi  
 Guinea Bissau - Bisau Ginia  
 Gujana - Guyana  
-Gujana Francuska - France Guyana  
+Gujana Francuska - Franse Guyana  
 guma - gomu  
 guru, mistrz - guru  
 Gwadelupa - Guadelupe  
@@ -1937,7 +1961,6 @@ jednoznaczny - un semi di
 jednoznaczny - un semi di  
 jedwab - silke  
 jedzenie, posiłek - yam xe  
-jej - yei  
 Jemen - Yemen  
 Jerozolima - Uruxalem  
 Jersey - Jerze  
@@ -2674,7 +2697,7 @@ niebezpieczeństwo, ryzyko, szansa - zar
 niebezpieczny - hatar di  
 niebieski - nil  
 niebieski, niebiański, podniebny - sama di  
-niebieskozielony (cyjan) - sian  
+niebieskozielony (cyjan) - cian  
 niebo - sama  
 niech my, hajda - haide  
 niechętny - anicija  
@@ -2925,7 +2948,7 @@ papuga - papagai
 para wodna - sui gas  
 paragon, pokwitowanie - reside  
 Paragwaj - Paraguai  
-parametr (argument, wartość wejściowa) - param  
+parametr (argument, wartość wejściowa) - parametre  
 parasol - barxa cati  
 parasol - sol cati  
 park (ogród) - parke  
@@ -3087,7 +3110,7 @@ polerować (szlifować) - foto frike
 policja - polis  
 policzyć (przetwarzać dane) - konpute  
 policzyć, liczyć, przetwarzać dane - fa komputa  
-Polinezja Francuska - France Polinesi  
+Polinezja Francuska - Franse Polinesi  
 politeizm - poli deu sim  
 politologia - politi logi  
 polityczny - politi di  
@@ -3753,6 +3776,7 @@ swastyka - huke krus
 Syberia - Sibiria  
 sylaba (zgłoska) - loga fen  
 symbol - simbol  
+syn - son  
 sypialnia - sona kamar  
 Syria - Suria  
 syrop - xirope  
@@ -4193,7 +4217,7 @@ witaj, dobre przybycie - salam lai
 witamina - vitamin  
 witraż - rang kanca  
 witryna internetowa (portal internetowy) - nete loka  
-wiwatować; hura - ura  
+wiwatować (hura, jej) - hura  
 wiwisekcja - jivatomi  
 wiza - viza  
 wizyta - keka  
