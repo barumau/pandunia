@@ -30,44 +30,44 @@
 
 ## 1. あいさつと基本
 
-### salam <small>あいさつ、あいさつする</small>
+### sal <small>あいさつ、あいさつする</small>
 
 <p style="font-size:5em;">🙋‍</p>
 
-**salam**
+**sal**
 こんにちは。
 
-**salam suba!**
+**sal suba!**
 お早うございます!
 
-**salam dia!**
+**sal dia!**
 良い一日を!
 
-**salam xam!**
+**sal xam!**
 こんばんは!
 
-**salam yam!**
+**sal yam!**
 いってらっしゃい!
 
-**salam lai!**
+**sal lai!**
 ようこそ!
 
-**salam ga!**
+**sal ga!**
 さようなら!
 
-**salam safar!**
+**sal safar!**
 旅の道中お気をつけて!(=良い旅を)。
 
-**salam sona!**
+**sal sona!**
 お休みなさい!
 
-表現の範囲からわかるように、 **salam** は「～であればよいのにと思う」という
+表現の範囲からわかるように、 **sal** は「～であればよいのにと思う」という
 一般的な表現です。いつでも使えます。
 
-**Salam** は世界中のさまざまな国の宗教的な人々と
+**sal** は世界中のさまざまな国の宗教的な人々と
 非宗教的な人々の両方によって使われる一般的なあいさつです。
 
-<small>【語源】 **salam** アラビア語：سَلَام “šalom”、ヘブライ語：שָׁלוֹם‏ (šalom)、
+<small>【語源】 **sal** アラビア語：سَلَام “šalom”、ヘブライ語：שָׁלוֹם‏ (šalom)、
 トルコ語：selam、ヒンディー語：सलाम (salām)、
 スワヒリ語：salaam、インドネシア語：selamat</small>
 
@@ -104,24 +104,24 @@
 どういたしまして。
 
 
-### si <small>有る、並ぶ、です</small>
+### e <small>有る、並ぶ、です</small>
 
-**si**は主語と述語をつなぎます。
+**e**は主語と述語をつなぎます。
 
-**aple si frute.**
+**aple e frute.**
 リンゴは果物です。
 
-<small>【語源】 **si** 中国語：是 (shì)</small>
+<small>【語源】 **e** 中国語：是 (shì)</small>
 
 
 ### mi <small>私</small>
 
 <p style="font-size:5em;">🗨️🧑</p>
 
-**mi si Sara.**
+**mi e Sara.**
 私はサラ(人の名前。以下同じ)です。
 
-**mi si Tomas.**
+**mi e Tomas.**
 私はトーマス(人の名前。以下同じ)です。
 
 自己紹介は **mi** と名前を言うだけでOKです。
@@ -168,41 +168,41 @@
 <small>【語源】 **tu** ロシア語：ты (ty)、イタリア語：tu、フランス語：tu、スペイン語：tú</small>
 
 
-### ye <small>彼、彼女、それ、その人</small>
+### da <small>彼、彼女、それ、その人</small>
 
 <p style="font-size:4em;">👥🗣️👉👤</p>
 
-**ye si man.**
+**da e man.**
 彼は男です。
 
-**ye si fem.**
+**da e fem.**
 彼女は女です。
 
-**ye si aple.**
+**da e aple.**
 それはリンゴです。
 
-**ye** は一般的な三人称代名詞です。
+**da** は一般的な三人称代名詞です。
 物に対してだけではなく、人(性を問わず)に対しても使われます。
 
-**mi salam ye.**
+**mi salam da.**
 私は彼/彼女/その人にあいさつします。
 
-<small>【語源】 **ye** スワヒリ語：yeye、ヒンディー語：यह (yeh)</small>
+<small>【語源】 **da** スワヒリ語：yeye、ヒンディー語：यह (yeh)</small>
 
 
 ### sual <small>質問する</small>
 
 <p style="font-size:5em">🤔❓</p>
 
-**sual tu si Tomas?**
+**sual tu e Tomas?**
 あなたはトーマスですか?
 
-**sual tu si dava ja?**
+**sual tu e dava ja?**
 あなたは医者ですか?
 
 ヒント：「はい/いいえ」で答えられる質問は **sual** で始まることが多いです。
 これは普通の動詞で、**特別な単語ではありません**。
-実際、上記の質問は **mi sual tu si dava ja.**(私は尋ねる、あなたは医者ですか?) の
+実際、上記の質問は **mi sual tu e dava ja.**(私は尋ねる、あなたは医者ですか?) の
 最初の単語を省略しただけです。
 
 **sual tu bon?**
@@ -227,13 +227,13 @@
 **ya, mi Tomas.**
 はい、私はトーマスです。
 
-**sual ye si dava ja?**
+**sual da e dava ja?**
 彼/彼女/その人は医者ですか?
 
-**ya, ye si dava ja.**
+**ya, da e dava ja.**
 はい、彼は医者です。
 
-<small>【語源】 **ya** 英語：yeah、マレー語：ya、韓国語：예 (ye)、中国語：呀 (ya)</small>
+<small>【語源】 **ya** 英語：yeah、マレー語：ya、韓国語：예 (da)、中国語：呀 (ya)</small>
 
 
 ### no <small>いいえ、否定</small>
@@ -259,7 +259,7 @@
 何かを否定するときは **no** を使います。
 否定する単語の前に置かれます。
 
-**ye no salam mi.**
+**da no salam mi.**
 彼/彼女/その人は私にあいさつしなかった。
 
 <small>【語源】 **no** スペイン語：no、
@@ -269,26 +269,26 @@
 ### 複数形
 
 複数代名詞は以下のように作られています：  
-**mi** (私) →  **mimon** (私たち)  
-**tu** (あなた) →  **tumon** (あなたたち)  
-**ye** (彼/彼女/それ/その人) →  **yemon** (彼ら/彼女ら/それら/その人たち)
+**mi** (私) →  **mimen** (私たち)  
+**tu** (あなた) →  **tumen** (あなたたち)  
+**da** (彼/彼女/それ/その人) →  **damen** (彼ら/彼女ら/それら/その人たち)
 
-**mimon salam tumon.**
+**mimen salam tumen.**
 私たちはあなたたちにあいさつした。
 
-**tumon salam yemon.**
+**tumen salam damen.**
 あなたたちは彼ら/彼女ら/その人たちにあいさつした。
 
-**yemon salam mimon!**
+**damen salam mimen!**
 彼ら/彼女ら/その人たちは私たちにあいさつしてくれる。
 
-**mimon si fem.**
+**mimen e fem.**
 私たちは女です。
 
-**tumon si man.**
+**tumen e man.**
 私たちは男です。
 
-**yemon si aple.**
+**damen e aple.**
 それらはリンゴです。
 
 
@@ -297,86 +297,86 @@
 **ke?**
 何?
 
-**tu si ke?**
+**tu e ke?**
 あなたは誰ですか? (訳注:英語の _Who are you?_ と同じで本来は失礼な言い方です。 **tu su nam ke?**(あなたの名前は?)の方が良いと思います)  
-**mi si Tomas.**
+**mi e Tomas.**
 私はトーマスです。
 
-**ye si ke?**
+**da e ke?**
 彼/彼女/その人は誰ですか?  
-**ye si Sara.**
+**da e Sara.**
 彼女はサラです。
 
-**tumon si ke?**
+**tumen e ke?**
 あなたたちは誰ですか? (訳注:これも英語の _Who are you people?_ と同じで良い意味では普通使いません。ただ適切な言い換えが思いつきません。 **toti nam ke?**(あなたたちの名前は?) では本来の意図から離れてしまいます)
 
-**yemon si ke?**
+**damen e ke?**
 彼ら/彼女ら/その人たちは誰ですか?
 
 <small>【語源】 **ke** スペイン語：qué、ポルトガル語：que、イタリア語：che、ベンガル語：কী(ke)</small>
 
 
-### ni <small>これ</small>
+### ye <small>これ</small>
 
-**ni si ke?**
+**ye e ke?**
 これは何ですか?/何これ?
 
-**ni si aple.**
+**ye e aple.**
 これはリンゴです。
 
-**ni si rubi aple.**
+**ye e rubi aple.**
 これは赤いリンゴです。
 
-**ni aple si rubi.**
+**ye aple e rubi.**
 このリンゴは赤いです。
 
-**ni si rubi.**
+**ye e rubi.**
 これは赤いです。
 
 
-### go <small>あれ、それ</small>
+### vo <small>あれ、それ</small>
 
-**go si ke?**
+**vo e ke?**
 あれは何ですか?
 
-**go si oranje.**
+**vo e oranje.**
 それはオレンジです。
 
-**go si rubi aple.**
+**vo e rubi aple.**
 それは赤いリンゴです。
 
-**go aple si rubi.**
+**vo aple e rubi.**
 あのリンゴは赤いです。.
 
-**go si rubi.**
+**vo e rubi.**
 それは赤いです。
 
 
 
 ### su <small>～の(所有する)</small>
 
-**ni si ke?**
+**ye e ke?**
 これは何ですか?
 
-**ye si mi su tele fon gi.**
+**da e mi su tele fon gi.**
 私の電話です。
 
-**ni si ke su?**
+**ye e ke su?**
 これは誰の(物)ですか?
 
-**ye si mi su.**
+**da e mi su.**
 私の(物)です。
 
 注：所有助詞 **su** 所有者と所有物の間に置かれます。
 仮定法では **mi su** は「私の」、 **tu su** は「あなたの」などの意味になります。
 
-**ye si ke?**
+**da e ke?**
 彼/彼女/その人は誰ですか?
 
-**ye si mi su dosti.**
+**da e mi su dosti.**
 彼/彼女/その人は私の友達です。
 
-**mi si Sara su dosti.**
+**mi e Sara su dosti.**
 私は(事実として)サラの友達です。
 
 <small>【語源】 **su** 英語：’s、スペイン語：su、アフリカーンス語：se</small>
@@ -384,16 +384,16 @@
 
 ### nam <small>名前</small>
 
-**tu su nam si ke?**
+**tu su nam e ke?**
 あなたの名前は(何ですか)?
 
-**mi su nam si Tomas.**
+**mi su nam e Tomas.**
 私の名前はトーマスです。
 
-**ye su nam si ke?**
+**da su nam e ke?**
 彼/彼女/その人の名前は(何ですか)?
 
-**ye su nam si Sara.**
+**da su nam e Sara.**
 彼女の名前はサラです。
 
 <small>【語源】 **nam** ヒンディー語：नाम (nām)、
@@ -406,7 +406,7 @@
 **mi ten bon dom.**
 私は良い家を所有しています。
 
-**ye no ten pesa.**
+**da no ten pesa.**
 彼/彼女/その人はお金を持っていません。
 
 **mi vol ten un nove tele fon gi.**
@@ -418,18 +418,18 @@
 私には2人の子供がいます(=2人います)。
 
 
-### sabe <small>知っている</small>
+### san <small>知っている</small>
 
-**mi sabe ye.**
+**mi san da.**
 私は彼/彼女/その人を知っています。
 
-**sual tu sabe go jen?**
+**sual tu ken vo jen?**
 あなたはあの人たちを知っていますか?
 
-**sual tumon sabe se kon?**
+**sual tumen ken se kon?**
 あなたたちはお互いを知っていますか?(=知り合いですか?)
 
-**mimon sabe se kon ze long.**
+**mimen ken semen de long.**
 私たちは長い間知り合いです(=私たちは以前から知り合いです)。
 
 
@@ -455,10 +455,10 @@
 **sual tu vol yam yo xe?**
 いくらか食べる必要がありますか?(=何か食べますか?)
 
-**ye yam un aple.**
+**da yam un aple.**
 彼/彼女/その人はリンゴを食べます。
 
-**yemon yam ba aple.**
+**damen yam aple.**
 彼ら/彼女ら/その人たちはリンゴを食べます。
 
 **sual tu yam yo kafe?**
@@ -471,7 +471,7 @@
 最初は奇妙に感じるかもしれませんが、すぐにそれが便利であることがわかるでしょう!
 動詞の目的語は食べることと飲むこと、またはその両方です。
 
-**mi yam yo kafe e pang.**
+**mi yam yo kafe i pang.**
 私はコーヒーとパンを食べています。
 
 
@@ -493,11 +493,11 @@
 
 **tu vol ke aple?**
 どのリンゴが欲しいですか?  
-**ni rubi.**
+**ye rubi.**
 この赤いのです。
 
 
-### ching <small>頼む、お願いする</small>
+### cing <small>頼む、お願いする</small>
 
 **mi cing tu yam cai.**
 私はあなたにお茶を頼みます(=お茶をお願いします)。
@@ -557,10 +557,10 @@
 **maf! mi no aha.**
 すみません、私には理解できません。
 
-**maf! ni si ke?**
+**maf! ye e ke?**
 すみません、これは何ですか?
 
-**maf. tu su nam si ke?**
+**maf. tu su nam e ke?**
 失礼ですが、あなたのお名前は?
 
 
@@ -587,10 +587,10 @@
 **mi bil xofer un kar.**
 私は車を運転できます。
 
-**ye no bil xofer un kar.**
+**da no bil xofer un kar.**
 彼/彼女/その人は車を運転できない。
 
-**sual tu bil xula ye?**
+**sual tu bil xula da?**
 (あなたはそれを)修理できますか?
 
 **sual tu bil pandunia?**
@@ -599,7 +599,7 @@
 **mi bil pandunia.**
 (私は)パンドゥニアを話せます。
 
-**mi bil lili da pandunia.**
+**mi bil lili pandunia.**
 (私は)パンドゥニアを少し話せます。
 
 **mi no bil englix.**
@@ -614,19 +614,19 @@
 **tu loga ke?**
 あなたは何と言いましたが?
 
-**mi loga do tu.**
+**mi loga to tu.**
 私はあなたへ話します。
 
-**mimon loga do se kon.**
+**mimen loga to semen.**
 私達はお互いに向けて話しています(=私達は話し合っています)。
 
-**mon loga “ネコ” na ke yang na pandunia?**
+**mon loga “ネコ” a ke yang a pandunia?**
 「猫」はパンドゥニアで何と言いますか(=どのように言いますか)?
 
-**“ネコ” si ke na pandunia?**
-「猫」はパンドゥニアで何と言いますか? (訳注:答えは “ネコ” si mau.)
+**“ネコ” e ke a pandunia?**
+「猫」はパンドゥニアで何と言いますか? (訳注:答えは “ネコ” e mau.)
 
-**mau loga “nya~”.**
+**mau loga “miau”.**
 猫は「ニャ～」と鳴いた。
 
 
@@ -656,43 +656,43 @@
 **vide tu re!**
 私はあなたをもう一度見る(=またね!)。
 
-**vide tu na pos den!**
+**vide tu a pos den!**
 私は明日あなたに会う(=また明日!)。
 
-**mi vide ye na cen den.**
+**mi vide da a cen den.**
 私は昨日彼/彼女/その人に会いました。
 
 
-### mana <small>～という意味</small>
+### semi <small>～という意味</small>
 
-**ni loge mana ke?**
+**ye loge semi ke?**
 この話はどういう意味ですか?
 
-**“mau” mana ke?**
+**“mau” semi ke?**
 「mau」はどういう意味ですか?
 
-**ye mana un yang da zou.**
+**da semi un yang de hevan.**
 それは動物の一種ということです。
 
-**mi no aha ye mana ke.**
+**mi no aha da semi ke.**
 私はそれが何を意味するか分かりません。
 
 
-### kitabu <small>書く</small>
+### kitaba <small>書く</small>
 
-**cing kitabu tu su adres.**
+**cing kitaba tu su adres.**
 あなたの住所を書いてください。
 
-**cing kitabu ye na ni.**
+**cing kitaba da a ye.**
 そこに書いてください。
 
 
 ### basha <small>(言語を)話す、意思疎通する</small>
 
-**sual tumon bil baxa pandunia?**
+**sual tumen bil baxa pandunia?**
 あなたたちはパンドゥニアを話せますか?  (訳注:**bil** がない場合、話す技術がなく真似事の場合も含んでしまう)
 
-**mimon bil baxa pandunia.**
+**mimen bil baxa pandunia.**
 私たちはパンドゥニアを話せます。
 
 **sual tu bil baxa nipon?**
@@ -724,13 +724,13 @@
 **mi mus ga ke?**
 Where should I go?
 
-**mi mus ga do ke jen?**
+**mi mus ga to ke jen?**
 私はどこの人へ行かなければならないのでしょうか?
 
 **haida ga!**
 出かけましょう!
 
-**haida ga na fute!**
+**haida ga a fute!**
 歩いて行きましょう!
 
 
@@ -739,68 +739,68 @@ Where should I go?
 **cing lai!**
 こっちに来て!
 
-**tu lai ze ke?**
+**tu lai de ke?**
 (あなたは)どこから来ましたか?
 
-**mi lai ze Dubai.**
+**mi lai de Dubai.**
 私はドバイから来ました。
 
-**mi lai dom na pos den.**
+**mi lai dom a pos den.**
 私は明日家に帰ります。
 
 
 ### safar <small>旅行する</small>
 
-**sual tu safar na tren?**
+**sual tu safar a tren?**
 (あなたは)列車で旅をしますか?
 
-**mimon safar ze London do Paris.**
+**mimen safar de London to Paris.**
 私たちはロンドンからパリへ旅します。
 
 **safar tre long.**
 その旅は非常に長いものです。
 
 
-### na <small>～(の中)で、～上で、～に</small>
+### a <small>～(の中)で、～上で、～に</small>
 
-**hotel na ke?**
+**hotel a ke?**
 ホテルはどこですか?
 
-**hotel na go dau.**
+**hotel a vo dau.**
 ホテルはその道にあります。
 
-**tu na ke?**
+**tu a ke?**
 (あなたは)どこにいますか?
 
-**mi na dom.**
+**mi a dom.**
 私は自宅にいます。
 
-**ye na ke?**
+**da a ke?**
 彼女はどこにいますか?
 
-**ye side na kamar.**
+**da side a kamar.**
 彼は部屋に巣あっています。
 
-<!-- ヒント：**na** を前置詞として使うことも、単独で動詞として使うこともできます。 (訳注:そんな話は聞いたことがありません。文法にも記されていません) -->
+<!-- ヒント：**a** を前置詞として使うことも、単独で動詞として使うこともできます。 (訳注:そんな話は聞いたことがありません。文法にも記されていません) -->
 
-**mi gong na...**
+**mi kar a...**
 ... で働きます。
 
 
 ### dom <small>住む、居住する</small>
 
-**tu dom (na) ke?**
+**tu dom ke?**
 (あなたは)どこに住んでいますか?
 
 **mi dom Singapur.**
 私はシンガポールに住んでいます。
 
-**sual tu dom ni hotel?**
+**sual tu dom ye hotel?**
 (あなたは)このホテルに宿泊していますか?
 
-ヒント：**tu dom ke** の代わりに **tu dom na ke?** と言ってもOKです。
+ヒント：**tu dom ke** の代わりに **tu dom a ke?** と言ってもOKです。
 但し **dom** は「どこかにいる」ことを
-含んでいるため **na** は不要です。
+含んでいるため **a** は不要です。
 
 
 ### dele <small>待つ、待ち受ける</small>
@@ -811,10 +811,10 @@ Where should I go?
 **dele mi!**
 私を待って!
 
-**yemon dele mimon.**
+**damen dele mimen.**
 彼ら/彼女ら/その人たちは私たちを待ちます。
 
-**mi dele tu na hotel.**
+**mi dele tu a hotel.**
 私はあなたをホテルで待ちます。
 
 
@@ -828,10 +828,10 @@ Where should I go?
 **man zai vide la fem.**  
 男は女を見ています。
 
-**ye zai si xefe.**  
+**da zai e xefe.**  
 彼/彼女/その人は今チーフです。
 
-**ye zai na dom.**  
+**da zai a dom.**  
 彼/彼女/その人は今家にいます。
 
 
@@ -843,10 +843,10 @@ Where should I go?
 **man pas vide la fem.**  
 男は女を見ていました。
 
-**ye pas si xefe.**  
+**da pas e xefe.**  
 彼/彼女/その人はチーフでした。
 
-**ye pas na dom.**  
+**da pas a dom.**  
 彼/彼女/その人は家にいました。
 
 
@@ -858,10 +858,10 @@ Where should I go?
 **man le vide la fem.**  
 男はすでに女を見ました。
 
-**ye le si xefe.**  
+**da le e xefe.**  
 彼/彼女/その人は既にチーフです。
 
-**ye le na dom.**  
+**da le a dom.**  
 彼/彼女/その人は既に家にいます。
 
 
@@ -873,10 +873,10 @@ Where should I go?
 **man xa vide la fem.**  
 男は女を見るでしょう。
 
-**ye xa si xefe.**  
+**da xa e xefe.**  
 彼/彼女/その人はチーフになるでしょう。
 
-**ye xa na dom.**  
+**da xa a dom.**  
 彼/彼女/その人は家にいるでしょう。
 
 
@@ -889,16 +889,16 @@ Where should I go?
 **cing don pesa.**
 お金をください。
 
-**cing don ye do mi.**
+**cing don da to mi.**
 それを私にください。
 
-**mi don ye do tu.**
+**mi don da to tu.**
 私はあなたにこれを与えます(=これをあげます)。
 
-**mi don buku do yemon.**
+**mi don buku to damen.**
 私は本を彼ら/彼女ら/その人たちに与えた。
 
-**ye no vol don ye do mi.**
+**da no vol don da to mi.**
 彼/彼女/その人はそれを私にくれませんでした。
 
 
@@ -907,10 +907,10 @@ Where should I go?
 **mi kape un kafe.**
 私は一杯のコーヒーを得ました。
 
-**cing kape un kafe do mi.**
+**cing kape un kafe to mi.**
 (私に)コーヒーを一杯ください。
 
-**tu le kape pesa ze mi.**
+**tu le kape pesa de mi.**
 あなたはすでに私からお金を得ました。
 
 **mi kape un bir.**
@@ -919,120 +919,17 @@ Where should I go?
 
 ### kira <small>レンタル、リース、雇う</small>
 
-**kira si 50000 yen na mes.**  
+**kira e 50000 yen a mes.**  
 ひと月のレンタル料は5万円です。
 
-**ye no bil pei la kira.**  
+**da no bil pei la kira.**  
 彼/彼女/その人はレンタル料を払えなかった。
 
-**mi vol kape un kar na kira.**  
+**mi vol kape un kar a kira.**  
 車をレンタルしたいです。
 
 **mi vol kira kape un kar.**
 レンタカーを借りたいです。
 
-**ye kira don un kamar do safarer.**
+**da kira don un kamar to safarer.**
 彼/彼女/その人は旅行者に部屋を貸し(与え)ている。
-
-
-<!--
-
-### mai <small>commerce</small>
-
-Tip：Buying and selling a compound words：**mai dar**
-means _to sell_ and **mai kap**
-means _to buy_.
-
-**yemon mai don pan.**
-They sell everything.
-
-**mi mai kap un bir.**
-I will buy a beer.
-
-### yang <small>type, kind, sort</small>
-
-**ye si ke yang?**
-What is it like?
-
-**sual ye nove?**
-Is it new?
-
-**ke si max bon?**
-Which is better?
-
-**ye si maxim bon (da pan).**
-This is the best (of all).
-
-**ye kosta ke?**
-How much does it cost?  
-**nol.**
-Nothing.  
-**ye kosta lil / multo.**
-It is cheap / expensive.  
-
-**mimon plizu lai.**
-We are being called.
-
-**mi serca tualete.**
-I'm looking for the toilet.
-
-****
-Go there / forward / back / left / right.
-
-****
-Come here / back / to us.
-
-**mi darsa pandunia.**
-I study Pandunia.
-
-**xowa ye do mi na leksobuke!**
-Show mi in the dictionary!
-**mi no yada.**
-I don't remember.
-
-****
-(I wish you) all the best!
-
-****
-I will never forget you.
-
-****
-Don't worry! (Hakuna matata!)
-
-**pan si okey.**
-Everything is alright.
-
-****
-Cheers!
-
-****
-Of course!
-
-**sual tu suku ...?**
-Do you like ...?
-
-****
-I feel alright.
-
-**cing side na ye!**
-Please, sit here!
-
-**mi suku stasa.**
-I rather stand.
-
-****
-With pleasure!
-
-**feste kaixu na ke zaman?**
-When does the party begin?
-
-**tu sahi.**
-You are right.
-
-****
-Leave mi alone!
-
-**ke habar?**
-What's new?
--->
-

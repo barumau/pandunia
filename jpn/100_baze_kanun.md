@@ -32,13 +32,13 @@
 
 大半のパンドゥニアの単語の品詞は文脈で寄ります。
 
-例えば **ama** は動詞または名詞または形容詞になれます。
+例えば **ame** は動詞または名詞または形容詞になれます。
 
-**mi ama tu.**
+**mi ame tu.**
 – 私はあなたに恋しています。 (動詞)  
-**tu emosi mi su ama.**
+**tu gamo mi su ame.**
 – あなたは私の恋を感じます。 (名詞)  
-**mi kitabu un ama anjil.**
+**mi kitabu un ame anjil.**
 – 私は恋文を書きます。 (形容詞)
 
 
@@ -50,16 +50,16 @@
 1. **発音**：綴りは発音に忠実です。
 2. **アクセント**：アクセントは二つの音節の単語の第一音節に置かれて、二つ以上の音節の単語の第二音節に置かれます。
 3. **代名詞**：
-   - 人称代名詞は **mi**(私)、 **tu**(あなた)、 **ye**(彼/彼女)、
-     **mimon**(私たち)、 **tumon**(あなたたち)、 **yemon**(彼ら) です。
+   - 人称代名詞は **mi**(私)、 **tu**(あなた)、 **de**(彼/彼女)、
+     **mimen**(私たち)、 **tumen**(あなたたち)、 **damen**(彼ら) です。
    - 所有代名詞は **mi su**(私の)、 **tu su**(あなたの)、 云々です。
    - 疑問代名詞は **ke**(何/誰/どの) です。
-   - 不定代名詞は **mon**(誰人) です。
+   - 不定代名詞は **men**(誰人) です。
 4. **名詞**：名詞は人称や数や格などによって変化することはありません。
 5. **形容詞**：形容詞は修飾する名詞の前に置きます。
    副詞は修飾する動詞または形容詞の前に置きます。
-    - **un rapide loga** = 早い話し
-    - **tu rapide loga** = あなたは早く話します
+    - **un suga loga** = 早い話し
+    - **tu suga loga** = あなたは早く話します
 7. **動詞**：動詞は時制や人称や数や極性などによって変化することがありません。
 8. **語順**：
    - 動作の対象が動詞の直前にあることを示します。
@@ -68,10 +68,10 @@
      動作の対象が動詞の直前にあることを示します。
      - **aple be yam.** = リンゴは食べられた。
    - 依存文では他動詞の目的語が次の動詞の主語として機能します。
-     - **mi ching tu don pesa.** = 私はあなたにお願いします + あなたはお金を与えます = 私はあなたがお金をくれるようお願いします。
+     - **mi cing tu don pesa.** = 私はあなたにお願いします + あなたはお金を与えます = 私はあなたがお金をくれるようお願いします。
    - 代名詞の対象が明確で、冗長に感じる場合は省略できます。
-     - **mi** sual tu basha pandunia? → sual tu basha pandunia? = あなたはパンドゥニアを話せますか?
-     - **mi** ching tu ming loga. →  ching ming loga.
+     - **mi** sual tu baxa pandunia? → sual tu baxa pandunia? = あなたはパンドゥニアを話せますか?
+     - **mi** cing tu ming loga. →  cing ming loga.
       = はっきりと話してください。
 10. **単語建造**：複合語は複数の単語を並べて形成されます。
     - **huru**(自由) + **sim**(主義) + **ja**(者) → **huru sim ja**(自由主義者)
@@ -111,7 +111,7 @@
 – **2つ**の椅子  
 **tri** kursi
 – **3つ**の椅子  
-**ba** kursi
+**men** kursi
 – **たくさん**の椅子
 
 
@@ -134,9 +134,9 @@
 形容詞は名詞を修飾します。
 通常名詞の前に置かれます。
 
-**nove** kar
+**neu** kar
 – **新しい**車  
-**rapide** kar
+**suga** kar
 – **速い**車  
 **dai** meza
 – **大きな**テーブル  
@@ -147,7 +147,7 @@
 
 複数の形容詞で同一の名詞を修飾できます。
 
-**lili nove** kar
+**siu neu** kar
 – **小さい新しい**車
 
 ### 3.2 動詞の修飾
@@ -158,12 +158,12 @@
 
 mi **bon** sona.
 – 私は**よく**眠る。  
-tu **bon** basha pandunia.
+tu **bon** baxa pandunia.
 – あなたは**上手に**パンドゥニアを話す。
 
 よく修飾機能語の **di** ははめることができます。構文を明るくします。
 
-tu **bon di** basha pandunia.
+tu **bon di** baxa pandunia.
 – あなたは**上手に**パンドゥニアを話す。
 
 ### 3.3. その他の修飾詞の修飾
@@ -171,11 +171,11 @@ tu **bon di** basha pandunia.
 修飾詞はその他の修飾詞を修飾することもできます。
 例えば副詞の **tre**(とても) と **bas**(十分) は動詞や形容詞を修飾します。
 
-**sundar** jen
+**mei** jen
 – **美しい**人  
-**tre sundar** jen
+**tre mei** jen
 – **とても美しい**人  
-**bas sundar** jen
+**bas mei** jen
 – **美しさが十分の** 人
 
 
@@ -183,15 +183,15 @@ tu **bon di** basha pandunia.
 
 修飾詞を比較できます。
 
-- **mas** (比較 優位) **より優れる**ことを表します。
-- **masim** (比較 最上級) **最も優れている**ことを表します。
+- **max** (比較 優位) **より優れる**ことを表します。
+- **maxim** (比較 最上級) **最も優れている**ことを表します。
 - **min** (比較 劣等) **より劣る**ことを表します。
 - **minim** (比較 最下級) **最も劣っている**ことを表します。
 - **par** (比較 平等) **ほぼ等しい**ことを表します。
 
 接続語 **ka** は副詞を比較条件に割り当てます。
 
-mi si mas <u>bon</u> **ka** tu.
+mi si max <u>bon</u> **ka** tu.
 = 私はあなたよりも<u>優れています</u>。  
 tu par <u>bon</u> di loga **ka** mi.
 = あなたの話し方は私と同じくらい<u>良い</u>。
@@ -210,9 +210,9 @@ tu par <u>bon</u> di loga **ka** mi.
 – **2つ**の星  
 **tri** sing
 – **3つ**の星  
-**shau** sing
+**kam** sing
 – **少し**の星  
-**poli** sing
+**men** sing
 – **たくさん**の星
 
 **un** dai kursi
@@ -283,13 +283,13 @@ fen **tri**
 – 私  
 **tu**
 – あなた  
-**ye**
+**da**
 – 彼、彼女、それ、その人  
-**mimon**
+**mimen**
 – 私たち  
-**tumon**
+**tumen**
 – あなたたち  
-**yemon**
+**damen**
 – 彼らは、彼女らは、それらは、あの人たちは
 
 ### 5.2. 再帰代名詞
@@ -301,27 +301,27 @@ fen **tri**
 
 mi vide **se**.
 – 私は**自身を**見ます。  
-ye vide **se**.
+da vide **se**.
 – 彼女/彼/その人は**自身を**見ます。  
-mimon vide **se**.
+mimen vide **se**.
 – 私達は**自身を**見た。  
-lili mau fa lisan **se**.
+siu mau fa lisan **se**.
 – 小さな猫は**自身(の体)を**舐めた。
 
 ### 5.3. 指示代名詞
 
 対象を特定するのに使われ、距離に応じて以下の2つを使い分けます:
 
-**ni**
+**ye**
 – この (近距離)  
-**go**
+**vo**
 – その、あの (遠距離)  
 **la**
 – 前述の (既知)
 
-mi vol **go** mau.
+mi vol **vo** mau.
 – 私は**あの**猫が欲しいです。  
-**ni** she si bon.
+**ye** xe si bon.
 – これはいいです。
 
 
@@ -336,7 +336,7 @@ mi vol **go** mau.
 **ke** は形容詞の疑問代名詞です。
 「どの」を意味します。
 
-**ke** she?
+**ke** xe?
 – 何?(**どちらの**もの?)  
 **ke** jen?
 – 誰?(**どちらの**人?)  
@@ -354,14 +354,14 @@ mi vol **go** mau.
 – いくつ、いくら(**どれくらい**多い)?  
 **ke** koste?
 – **どれくらい**(費用が)かかる?  
-**ke** nove?
+**ke** neu?
 – **どれくらい**新しい?  
 **ke** dai?
 – **どのくらい**大きい?  
-**ke** lili?
+**ke** siu?
 – **どのくらい**小さい?
 
-tu ten **ke** dai di mau?
+tu ha **ke** dai di mau?
 – あなたは**どのくらいの**大きさの猫を飼っていますか?
 
 --------------------------------------------------------------------------------
@@ -374,7 +374,7 @@ tu ten **ke** dai di mau?
 
 mi **yam** la aple.
 – 私はリンゴを**食べる**。  
-mi **yam** la aple na cen den.**
+mi **yam** la aple a cen den.**
 – 昨日私はリンゴを**食べた**。  
 mi dur **yam** la aple.**
 – 昨日私はまだリンゴを**食べている**。  
@@ -413,9 +413,9 @@ mi no **yam** la aple.**
 
 mi bon.
 – 私は元気です。  
-ye nove.
+da neu.
 – それは新しい/新品です。  
-ye Sara.
+da Sara.
 – 彼女はサラです。
 
 主語は名詞だったら、繋辞の動詞の **si** は必要です。
@@ -424,21 +424,21 @@ Sara si bon.
 – サラは元気です。  
 seku si dai.
 – この石は大きい。  
-meza si nove.
+meza si neu.
 – このテーブルは新しい/新品です。  
 
 **no** が追加されると否定文になります。
 
 mi **no** bon.
 – 私は気分が優れません。 (訳注:「元気がない」では不自然)  
-ye **no** nove.
+da **no** neu.
 – それは新しくない/新品ではない。  
-ye **no** Sara.
+da **no** Sara.
 – 彼女はサラ(人の名前)ではありません。
 
 二人称代名詞を **si** や **no** と組み合わせることもできます。
 
-mi **si** ye.
+mi **si** da.
 – 私は彼/彼女です。  
 mi **no** tu.
 – 私はあなたではありません。
@@ -447,11 +447,11 @@ mi **no** tu.
 
 同じ事が2つの形容詞または動詞にも言えます。
 
-**jovan** si sundar.
+**jovan** si mei.
 – **若いこと**は美しい。  
-**nove** no puran.
+**neu** no puran.
 – **新しいもの/新品**は古くありません。  
-**chanta** si bon.
+**gani** si bon.
 – 歌うことは良いです。
 
 
@@ -473,7 +473,7 @@ tu **be vide** mi.
 pang **be baka**.
 – パンが**焼かれます**。
 
-行動を起こす側は前置詞 **da** の有無に関わらず動詞の後に言及できます。 (訳注:まだ前置詞の解説はしていないので、この部分は飛ばして後で戻ってきてください)
+行動を起こす側は前置詞 **de** の有無に関わらず動詞の後に言及できます。 (訳注:まだ前置詞の解説はしていないので、この部分は飛ばして後で戻ってきてください)
 
 
 ### 7.4. 依存文
@@ -486,24 +486,24 @@ S(主語)-V1(動詞)-O1(目的語)-V2(動詞)-O2(目的語)
 O1には2つの役割があります。
 V1の対象であり、V2のS(主語)でもあります。
 
-mi vol **tu** yam yo choi.
+mi vol **tu** yam yo fito.
 – 私はあなたが野菜を食べることを望みます/要求します。
 
 上の例では **mi vol** の目的語は **tu** です。
-同時に **tu** は次の述語 **yam yo choi** の主語として機能しています。
+同時に **tu** は次の述語 **yam yo fito** の主語として機能しています。
 つまり **tu** は文全体の**依存語**となります。
 
 #### 7.4.2. 仮定法
 
 「もし◯◯ならば××だ」のような文は、動詞 **gar** e **asar** を使って表します。
 
-**gar** mi si mau, **asar** mi sona na hol dia.
+**gar** mi si mau, **asar** mi sona a hol dia.
 – **もし**私が猫**なら**、一日中寝ています。  
-**gar** no shava chen den, **asar** ga vai yam.
+**gar** no barza pre den, **asar** ga vai yam.
 – **もし**昨日雨**ではなかったら**、ピックニックに行っていました。  
-**gar** pos den ten sol, **asar** boi na hai.
+**gar** pos den ha sol, **asar** boi a hai.
 – **もし**明日晴れ**なら**、海で泳ぐでしょう。  
-**gar** mi no na dom na chen den, **asar** no bil ten la nove korona virus na zai den.
+**gar** mi no a dom a pre den, **asar** no bil ha la neu korona virus a zai den.
 – **もし**私が昨日家に**いなかったら**、今日新型コロナウイルスに感染していたかもしれないでしょう。
 
 ### 7.5. 連続動詞
@@ -526,16 +526,16 @@ mi vol **tu** yam yo choi.
 
 #### 7.6.1. 小依存文(VOVO)
 
-**mi** sual tu basha pandunia.
+**mi** sual tu baxa pandunia.
 – パンドゥニアを話せますか。  
-sual tu basha pandunia?
+sual tu baxa pandunia?
 – パンドゥニアを話せますか。
 
 #### 7.6.2. 小依存文(VVO)
 
-**mi** ching **tu** lai do dom.
+**mi** cing **tu** lai to dom.
 – 帰ってきてくれませんか。  
-ching lai do dom!
+cing lai to dom!
 – 帰ってきてください!
 
 
@@ -545,14 +545,14 @@ ching lai do dom!
 
 1. **e** および 2つの類似した単語/フレーズを接続します。
 2. **o** または 2つの代替する単語/フレーズを接続します。
-3. **a** しかし 前の単語/フレーズとは対照的または
+3. **ama** しかし 前の単語/フレーズとは対照的または
    矛盾する単語/フレーズを接続します。
 
-mi suku mau **e** vaf.
+mi suka mau **e** vaf.
 – 私は猫**と**犬が好きです。  
-mi suku mau **o** vaf.
+mi suka mau **o** vaf.
 – 私は猫**か**犬が好きです。  
-mi suku mau **a** no vaf.
+mi suka mau **ama** no vaf.
 – 私は猫が好きです、**が**犬は嫌いです。
 
 --------------------------------------------------------------------------------
@@ -568,18 +568,18 @@ mi suku mau **a** no vaf.
 これらを省略した場合は肯定を意味するので、必ずしも **ya** は必要ではありません。
 しかしながら主語は名詞の時に便利です。
 
-mi **ya** si shefe.
+mi **ya** si xefe.
 – 私は上司です。  
-ni **ya** si nove meza.
+ye **ya** si neu meza.
 – これは新しいテーブルです。
 
 ### 9.1.2. 否定
 
 前項のような文は **no** で簡単に否定できます。
 
-mi **no** si shefe.
+mi **no** si xefe.
 – 私は上司**ではありません**。  
-ye **no** si nove meza.
+da **no** si neu meza.
 – そのテーブルは新しく**ありません**。
 
 **no** は何かを否定するために使われ、
@@ -590,14 +590,14 @@ mi **vide** tu.
 – 私はあなたを**見ています**。  
 mi **no** vide tu.
 – 私はあなたを見て**いません**。  
-mi vide **no** tu a yemon.
+mi vide **no** tu ama damen.
 – 私にはあなた**ではなく**彼らが見えます。
 
-mi **ching** tu safa la kamare.
+mi **cing** tu safa la kamare.
 – 私はあなたに部屋の掃除を**頼みます**。  
-mi **no** ching tu safa la kamare.
+mi **no** cing tu safa la kamare.
 – 私はあなたに部屋の掃除を頼み**ません**。  
-mi ching tu **no** safa la kamare.
+mi cing tu **no** safa la kamare.
 – 私はあなたに部屋の掃除を**しないよう**頼みます。
 
 **ya** と **no** は質問の回答にも使われます。
@@ -621,9 +621,9 @@ no. (mi no **vide** tu.)
 
 ### 9.2. 所有格
 
-**su** と **da** は、名詞のフレーズと名詞を結びつけて修飾するために使われます。
+**su** と **de** は、名詞のフレーズと名詞を結びつけて修飾するために使われます。
 **su** は所有者を所有物に結びつけます。
-**da** は逆に、所有物を所有者に結びつけます。
+**de** は逆に、所有物を所有者に結びつけます。
 
 所有格は名詞または代名詞に使えます。
 
@@ -635,18 +635,18 @@ Maria **su** <u>mama</u>
 Maria **su** mama **su** <u>dom</u>
 – マリア**の**母**の**<u>家</u>
 
-**da** は **su** と逆に、後ろの単語が前の単語を所有します(A **da** B = BのA)。
+**de** は **su** と逆に、後ろの単語が前の単語を所有します(A **de** B = BのA)。
 
-<u>mama</u> **da** Maria
+<u>mama</u> **de** Maria
 – マリア**の**<u>母</u>  
-<u>dom</u> **da** mama **da** Maria
+<u>dom</u> **de** mama **de** Maria
 – マリア**の**母**の**<u>家</u>
 
 ### 9.3. 修飾格
 
-**di** と **da** は、形容詞、または動詞のフレーズと名詞を結びつけて修飾するために使われます。
+**di** と **de** は、形容詞、または動詞のフレーズと名詞を結びつけて修飾するために使われます。
 **di** は修飾する単語またはフレーズを修飾される単語に結びつけます。
-**da** は逆に、修飾される単語を修飾する単語またはフレーズに結びつけます。
+**de** は逆に、修飾される単語を修飾する単語またはフレーズに結びつけます。
 
 形容詞などの単語を名詞に結びつけることもできます。
 名詞の詳細が得られ、修飾される名詞が所有格の前後どちらにあるかが明確になります。
@@ -660,9 +660,9 @@ sama rang **di** <u>yen</u>
 
 または逆の順序で:
 
-<u>labi</u> **da** rode rang
+<u>labi</u> **de** rode rang
 – 薔薇色**の**<u>唇</u>  
-<u>yen</u> **da** sama rang
+<u>yen</u> **de** sama rang
 – 空色**の**<u>瞳</u>
 
 所有格は数量を表すフレーズを作るのにも役立ちます。
@@ -671,34 +671,34 @@ sama rang **di** <u>yen</u>
 – <u>1袋</u>**の**ジャガイモ  
 <u>du sake</u> **di** patate
 – <u>2袋</u>**の**ジャガイモ  
-<u>mas sake</u> **di** patate
+<u>max sake</u> **di** patate
 – <u>より多く</u>**の**ジャガイモ<u>の袋</u>
 
-**di** と **da** は**フレーズを結びつける**ことに注意してください。
+**di** と **de** は**フレーズを結びつける**ことに注意してください。
 同じフレーズでも所有格の有無で意味が異なることがあります。
 
-**mas sundar** hua
+**max mei** hua
 – **より美しい**花  
-<u>mas</u> **di** sundar hua
+<u>max</u> **di** mei hua
 – <u>より多く</u>**の**美しい花
 
 <!-- #### 9.2.3. 動詞句による修飾(修飾節)
 
-動詞と動詞句は **da** か **du** を隣に置くことで修飾節になります。
+動詞と動詞句は **de** か **du** を隣に置くことで修飾節になります。
 行動を起こす側と受ける側の単語の位置は宣言文と変わりません。
 
 宣言文:  
 maw **vidu** <u>me</u>.
 – 猫は<u>私に</u>**見られます**。
 
-相当する修飾節 (修飾語A **da** 修飾節B = B節**の**A):  
-maw **da** <u>vidu me</u>
+相当する修飾節 (修飾語A **de** 修飾節B = B節**の**A):  
+maw **de** <u>vidu me</u>
 – <u>私に見られる</u>猫
 
-注: **da** が英語の関係代名詞 *which*, *that*, *who*, *whom* と同じ役割があるように見えますが、
+注: **de** が英語の関係代名詞 *which*, *that*, *who*, *whom* と同じ役割があるように見えますが、
 修飾節(上記の場合は動詞句 vidu me)を修飾語(上記の場合は maw)に結びつける所有格に過ぎません。
 
-反対の語順は **da** で、動詞は **‐a** で終わります。
+反対の語順は **de** で、動詞は **‐a** で終わります。
 
 宣言文:  
 me **vida** <u>maw</u>.
@@ -714,9 +714,9 @@ maw vid<u>a</u> **du** man
 – 猫を<u>見る</u>男  
 maw vid<u>u</u> **du** man
 – 猫に<u>見られる</u>男  
-maw **da** vid<u>a</u> man
+maw **de** vid<u>a</u> man
 – 男を<u>見る</u>猫  
-maw **da** vid<u>u</u> man
+maw **de** vid<u>u</u> man
 – 男に<u>見られる</u>猫
 
 注: パンドゥニアは単語を様々な順序で並べることができます。
@@ -728,7 +728,7 @@ maw **da** vid<u>u</u> man
 
 #### 9.2.4.1. 前置詞節
 
-前置詞 **sa**, **na**, **ca**, **pa** を使えば文末に修飾節を置くことができます。
+前置詞 **sa**, **a**, **ca**, **pa** を使えば文末に修飾節を置くことができます。
 
 me safara **pa** _du_ <u>site si teli</u>.
 – 私が旅で**向かう**<u>(その)都市は遠い</u>。  
@@ -757,7 +757,7 @@ me zay kibata **ca** <u>yi karame si novi</u>.
 <u>yi karame</u> _da_, **su** me zay kibara, <u>si novi</u>.  
 <u>yi karame si novi</u> _da_ **su** me zay kibara.
 
-後置詞句との混同に注意してください。後置詞句には所有を表す **da** はありません。
+後置詞句との混同に注意してください。後置詞句には所有を表す **de** はありません。
 
 <u>yi karame si novi</u> **cu** me zay kibata.
 – 私は<u>このペンが新しい</u>**ので**書いています。  
@@ -767,7 +767,7 @@ me zay kibata **ca** <u>yi karame si novi</u>.
 #### 9.2.5. フレーズによる修飾
 
 どのフレーズでも同じ名詞を修飾することができます。
-修飾された名詞は修飾したフレーズの先頭に移動して **da** で区切るか、修飾したフレーズの末尾に移動して **du** で区切ります。
+修飾された名詞は修飾したフレーズの先頭に移動して **de** で区切るか、修飾したフレーズの末尾に移動して **du** で区切ります。
 
 me serca me paso abla laxa **du** <u>eni xey</u>.
 – 私は<u>何かの物</u>を探しています。私は<u>何かの物</u>を置き忘れたかも知れない。 → 私は忘れ物を探しています。
@@ -776,7 +776,7 @@ me serca me paso abla laxa **du** <u>eni xey</u>.
 フレーズのどこに置くのかが明確な場合は前記の移動ルールに必ずしも従う必要はありませんが、
 完全に文を並べ替えた方が理解しやすい場合もあります。
 
-lole darsogura loke **da** <u>me no eureka sa karte</u>.
+lole darsogura loke **de** <u>me no eureka sa karte</u>.
 – 彼らは<u>私が地図上で見つけられない</u>場所を教えてくれました。 (訳注:**darsogura** 教える)  
 <u>me raya mome xudu eska lole tema liga momi partia</u>. me cana lole **du** liste.
 – <u>彼らがパーティに参加するか尋ねるべきと私は思い</u>、(私はその)一覧表を作った。
@@ -808,27 +808,27 @@ le **plus** niama bir.
 ### 9.4. 時制詞
 
 パンドゥニアでは必要に応じて時間を時制と相で表現できます。
-一般的な時制は **pas**(過去)、 **zai**(現在)、 **sha**(未来、近い将来) です。
+一般的な時制は **pas**(過去)、 **zai**(現在)、 **xa**(未来、近い将来) です。
 形容詞のように働くため、通常は動詞の前に置きます。
 
-mi **pas** ten ba mau.
+mi **pas** ha mau.
 – 私は猫を飼って**いました**。  
-a mi no **zai** ten ba mau.
+ama mi no **zai** ha mau.
 – しかし**今は**(猫を)飼っていません。  
-bil mi **sha** ten ba mau.
+bil mi **xa** ha mau.
 – 多分(猫を)飼う**でしょう**。
 
-**na pas**(過去には) のように、相を使って表すこともできます。
+**a pas**(過去には) のように、相を使って表すこともできます。
 
-mi ten ba mau **na pas**.
+mi ha mau **a pas**.
 – 私は**かつて**猫を飼っていました。  
-a mi no ten ba mau **na zai**.
+ama mi no ha mau **a zai**.
 – しかし**現在は**(猫を)飼っていません。  
-bil mi ten ba mau **na sha**.
+bil mi ha mau **a xa**.
 – **将来は**(猫を)飼うかもしれません。
 
 注意: どの時制でも動詞は活用されません。
-上の例では動詞 **ten** はどの時制でも同じままです。
+上の例では動詞 **ha** はどの時制でも同じままです。
 
 時間は必要な場合にのみ言及されます。
 時制が変わらない限り段落の冒頭で一度言及すれば済むはずですが、
@@ -842,16 +842,16 @@ mi **pas** gida un kar.
 mi **zai** sona.
 = 私は眠ろうとしています。 (現在進行未然。今まさにしようとしている) <!-- I'm trying to sleep. / Mi estas dormonta. -->
 
-mi **zai shuru** la pandunia shula.
+mi **zai xuru** la pandunia xula.
 = 私は**ちょうど**パンドゥニアの学習を**始めたところです**。 (現在進行開始。ちょうど今始めた)
 
-mi **zai fin** la pandunia shula.
+mi **zai fin** la pandunia xula.
 = 私は**ちょうど**パンドゥニアの学習を**終えたところです**。 (現在完了形。ちょうど今終わった)
 
-mi **le fin** la pandunia shula.
+mi **le fin** la pandunia xula.
 = 私は**既に**パンドゥニアの学習を**終えています**。 (現在完了形。もう～した)
 
-mi **sha** kaixa pandunia shula **na pos den**.
+mi **xa** kaixa pandunia xula **a pos den**.
 = (私は)**明日には**パンドゥニアの学習を始めている**でしょう**。 (未来進行形。未来のある時にしていること)
 
 --------------------------------------------------------------------------------
@@ -862,40 +862,40 @@ mi **sha** kaixa pandunia shula **na pos den**.
 
 |前置詞|基本的な意味|訳例|
 |:----:|----------|----|
-|**na**|存在、場所、空間、期間|～に、～で、～の上で、～によって、～の間ずっと(期間に焦点)、～の間に、他|
-|**ze**|起源、始まり、原因|～から、～以来、～なので|
-|**do**|行き先、終わり、最終目的|～へ、～に向かって、～まで、～のために|
+|**a**|存在、場所、空間、期間|～に、～で、～の上で、～によって、～の間ずっと(期間に焦点)、～の間に、他|
+|**de**|起源、始まり、原因|～から、～以来、～なので|
+|**to**|行き先、終わり、最終目的|～へ、～に向かって、～まで、～のために|
 |**va**|相手、道具|～と、～と共に、～で|
 |**ka**|比較|～より、～に比べ、～のように|
 
 前置詞が前置詞句の始まりです。
 単純な前置詞句では代名詞または名詞句によって補完されます。
 
-mi **na** hotel. - 私はホテル**に**います。  
-mi sona **na** hotel. - 私はホテル**で**眠っています。  
-mi sona **ze** sham <u>do</u> sube. - 私は夕方**から**朝<u>まで</u>眠っています。 (訳注:例えば「12時まで」と言った場合、英語と同様に12時を含まず11時59分59秒までを指す?)  
-mi safar **ze** London <u>do</u> Paris. - 私はロンドン**から**パリ<u>へ</u>旅をします。  
+mi **a** hotel. - 私はホテル**に**います。  
+mi sona **a** hotel. - 私はホテル**で**眠っています。  
+mi sona **de** xam <u>to</u> sube. - 私は夕方**から**朝<u>まで</u>眠っています。 (訳注:例えば「12時まで」と言った場合、英語と同様に12時を含まず11時59分59秒までを指す?)  
+mi safar **de** London <u>to</u> Paris. - 私はロンドン**から**パリ<u>へ</u>旅をします。  
 
 前置詞は動詞句でも補完できます。
 時間の例を示します。
 
-mi dele **ze** <u>tu ga</u>. - <u>あなたが行って</u>**から**待っています。  
-mi dele **do** <u>tu lai do dom</u>. - <u>あなたが家に来る</u>**まで**待ちます。  
-mi dele **na** <u>tu sona</u>. - <u>あなたが眠る</u>**間**待ちます。  
+mi dele **de** <u>tu ga</u>. - <u>あなたが行って</u>**から**待っています。  
+mi dele **to** <u>tu lai to dom</u>. - <u>あなたが家に来る</u>**まで**待ちます。  
+mi dele **a** <u>tu sona</u>. - <u>あなたが眠る</u>**間**待ちます。  
 
-#### 10.1.1. na
+#### 10.1.1. a
 
-**na** は多目的な前置詞です。その基本的な意味は「～に」です。
+**a** は多目的な前置詞です。その基本的な意味は「～に」です。
 
-mi libu **na** dom.  
+mi libu **a** dom.  
 (私は家**に**立っています)  
 私は家の**側に**立っています。 (訳注:日本語では例文からこの邦訳を連想出来ない)
 
-mi loga **na** pandunia.  
+mi loga **a** pandunia.  
 (私はパンドゥニア**に**話す)  
 私はパンドゥニア**で**話します。
  
-mi loga **na** dosti **na** pandunia **na** tele fon gi.  
+mi loga **a** dosti **a** pandunia **a** tele fon gi.  
 (私は友達**に**電話**に**パンドゥニア**に**話す)  
 私は電話**で**友達**と**パンドゥニア**で**話します。
 
@@ -912,11 +912,11 @@ mi **sabe** pandunia <u>ka</u> guru. - パンドゥニアを語学教師<u>の�
 
 **ko** は形容詞を比較する時にも使われます。
 
-bacha si <u>min</u> dai _ka_ **papa**. - その子供は父<u>よりも</u>大柄ではありません。  
-chin papa si <u>par</u> dai _ka_ **papa**. - 祖父は父と<u>同じくらい</u>大柄です。
+baca si <u>min</u> dai _ka_ **papa**. - その子供は父<u>よりも</u>大柄ではありません。  
+cin papa si <u>par</u> dai _ka_ **papa**. - 祖父は父と<u>同じくらい</u>大柄です。
 
 上の例は比較級
-の **mas**(より多く), **min**(より少ない), **par**(同じ
+の **max**(より多く), **min**(より少ない), **par**(同じ
 くらい) を **papa**(父) に関連付けます。
 
 #### 10.1.3. 前置詞としての動詞
@@ -944,9 +944,9 @@ mi dele **dur** du hor. - 私は(**この先**)2時間<u>(の間)</u>待ちま�
 
 mi **lai** dom. - 私は家<u>に</u>**帰ります**。  
 tu **side** la kursi. - あなたは椅子<u>に</u>**座っています**。  
-ye **kush** sofa. - 彼/彼女はソファー<u>に</u>**横たわっています**。  
-peshe ya **boi** la dai hai. - 魚が大海<u>を</u>**泳いでいます**。  
-jeng ja **marche** un dau. - 戦士達が道<u>を</u>**行進しています**。  
+da **kuxe** sofa. - 彼/彼女はソファー<u>に</u>**横たわっています**。  
+pexe ya **boi** la dai hai. - 魚が大海<u>を</u>**泳いでいます**。  
+jeng ja **marce** un dau. - 戦士達が道<u>を</u>**行進しています**。  
 
 
 
@@ -1004,7 +1004,7 @@ metre 計る → metre **gi** 計器
 
 抽象的な名詞の多くは **ta** で終わります。
 
-nove 新しい → nove **ta** 新しさ、新規  
+neu 新しい → neu **ta** 新しさ、新規  
 huru 解放された → huru **ta** 自由
 
 #### 11.1.4. bil 可能性形容詞
