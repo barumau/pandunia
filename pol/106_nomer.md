@@ -9,7 +9,7 @@
 | 4 nelu  | 14 des nelu  | 24 du des nelu   | 34 tri des nelu  |
 | 5 lima  | 15 des lima  | 25 du des lima   | 35 tri des lima  |
 | 6 luka  | 16 des luka  | 26 du des luka   | 36 tri des luka  |
-| 7 cheti | 17 des cheti | 27 du des cheti  | 37 tri des cheti |
+| 7 ceti  | 17 des ceti  | 27 du des ceti   | 37 tri des ceti  |
 | 8 bati  | 18 des bati  | 28 du des bati   | 38 tri des bati  |
 | 9 tisa  | 19 des tisa  | 29 du des tisa   | 39 tri des tisa  |
 
@@ -21,7 +21,7 @@
 | 4 nelu  | 40 nelu   des| 400 nelu sento  | 4000 nelu kilo    |
 | 5 lima  | 50 lima  des | 500 lima sento  | 5000 lima kilo    |
 | 6 luka  | 60 luka des  | 600 luka sento  | 6000 luka kilo    |
-| 7 cheti | 70 chetides  | 700 cheti sento | 7000 chetikilo    |
+| 7 ceti  | 70 chetides  | 700 ceti sento  | 7000 ceti kilo    |
 | 8 bati  | 80 bati des  | 800 bati sento  | 8000 bati kilo    |
 | 9 tisa  | 90 tisa des  | 900 tisa sento  | 9000 tisa kilo    |
 
@@ -33,9 +33,9 @@ Ilość może być wyrażana liczbami i innymi słowami odnoszącymi się do nie
 – dwie gwiazdy  
 **tri sing**
 – trzy gwiazdy  
-**xau sing**
+**kam sing**
 – trochę gwiazd  
-**poli sing**
+**men sing**
 – wiele gwiazd
 
 **un dai meza**
@@ -70,7 +70,7 @@ Liczby większe od 999 mogą używać wielokrotności z Międzynarodwego Systemu
 | giga   | G      | 10⁹  |                     1'000'000'000 |
 | tera   | T      | 10¹² |                 1'000'000'000'000 |
 | peta   | P      | 10¹⁵ |             1'000'000'000'000'000 |
-| eksa   | E      | 10¹⁸ |         1'000'000'000'000'000'000 |
+| exa    | E      | 10¹⁸ |         1'000'000'000'000'000'000 |
 | zeta   | Z      | 10²¹ |     1'000'000'000'000'000'000'000 |
 | yota   | Y      | 10²⁴ | 1'000'000'000'000'000'000'000'000 |
 

@@ -9,15 +9,15 @@ Oto 11 podstawowych zasad języka Pandunia.
     - przykład 1.: **bon pang** = Dobry chleb.
     - przykład 2.: **tu bon di loga.** = Mówisz dobrze.
 5. Wyrazy złożone są formowane przez umieszczanie słów obok siebie.
-    - przykład: **poste sanduku** = skrzynka pocztowa
+    - przykład: **posta kasa** = skrzynka pocztowa
 6. Czasowniki, które kończą się na -a, wskazują szyk zdania podmiot-orzeczenie-dopełnienie.
     - przykład: **mi yam pang.** = Jem chleb.
 7. Czasowniki, które kończą się na -u, wskazują szyk zdania dopełnienie-orzeczenie-podmiot.
     - przykład: **pang be yam.** = Jabłko jest jedzone.
 8. Czasowniki nie zmieniają się ze względu na osobę lub liczbę.
 9. W _strukturze osiowej_, dopełnienie przechodniego czasownika działa jako podmiot następnego czasownika.
-    - przykład: **mi ching tu dona yo pesa.** = Proszę cię, żebyś dał me pieniądze.
+    - przykład: **mi cing tu don pesa.** = Proszę cię, żebyś dał me pieniądze.
 10. Zaimki Mogą być opuszczane, gdy są oczywiste i zbędne.
-    - **mi sual tu basha pandunia?** → **sual tu basha pandunia?** = Mówisz w Panduni?
-    - **mi ching tu loga klar.** →  **ching loga klar.** = Proszę, mów wyraźnie.
+    - **mi sual tu baxa pandunia?** → **sual tu baxa pandunia?** = Mówisz w Panduni?
+    - **mi cing tu loga klar.** →  **cing loga klar.** = Proszę, mów wyraźnie.
 

@@ -6,7 +6,7 @@ Modyfikator to słowo, które dodaje jakąś wartość lub opis do rzeczy wyraż
 
 Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni przymiotnik to modyfikator, który jest przed rzeczownikiem.
 
-**dai seku**
+**dai ite**
 – duży kamień  
 **dai meza**
 – duży stół  
@@ -17,14 +17,14 @@ Przymiotnik to słowo, które dodaje określoną cechę rzeczownikowi. W Panduni
 
 Przymiotnik może też być po rzeczowniku. Często ten typ wyrażeń może być rozumiany jako pełne zdanie, w których czasownik _być_ jest pozostawiony w domyśle.
 
-**seku dai.**
+**ite dai.**
 – Kamień jest duży.  
 **meza gau.**
 – Stół jest wysoki.
 
 Naturalnie, przymiotniki mogą być po obu stronach rzeczownika.
 
-**dai meza si gau.**
+**dai meza e gau.**
 – Duży stół jest wysoki.
 
 
@@ -44,23 +44,23 @@ W Panduni przysłówek to modyfikator, który znajduje się przed czasownikiem l
 
 ## Opisywanie innego modyfikatora
 
-Modyfikator może opisywać też inny modyfikator. Na przykład **dai** (duży) i **lil** (mały) mogą być używane jako przysłówki intensyfikujące.
+Modyfikator może opisywać też inny modyfikator. Na przykład **dai** (duży) i **xiu** (mały) mogą być używane jako przysłówki intensyfikujące.
 
-**dai jan**
+**dai jen**
 – duża osoba  
-**lil jan**
+**xiu jen**
 – mała osoba  
-**sundar jan**
+**mei jen**
 – ładna osoba
 
-**dai sundar jan**
+**dai mei jen**
 – bardzo ładna osoba  
-**lil sundar jan**
+**xiu mei jen**
 – trochę ładna osoba
 
-Modyfikatory mogą być oddzielane **e** (i).
+Modyfikatory mogą być oddzielane **i** (i).
 
-**lil e sundar jan**
+**xiu i mei jen**
 – mała i ładna osoba
 
 
@@ -68,15 +68,15 @@ Modyfikatory mogą być oddzielane **e** (i).
 
 Modyfikatory mogą być porównane.
 
-- **mas** (bardziej) oznacza porównanie niższości
-- **masim** (najbardziej) oznacza stopień najwyższy
+- **max** (bardziej) oznacza porównanie niższości
+- **maxim** (najbardziej) oznacza stopień najwyższy
 - **min** (mniej) oznacz porónanie niższości
 - **minim** (najmniej) oznacza stopień najniższy
 - **par** (jak) oznacza porównanie równości
 
 Partykuła **ka** łączy przysłówki porównania z obiektem porównania.
 
-**mi si mas bon ka teu**
+**mi e max bon ka teu**
 – Jestem lepszy od ciebie.  
 **tu loga par bon ka mi.**
 – Mówisz tak dobrze, jak ja.

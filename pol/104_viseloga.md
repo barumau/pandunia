@@ -8,13 +8,13 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 – ja, mnie  
 **tu**
 – ty, ciebie  
-**ye**
+**da**
 – on, ona, ono  
-**mimon**
+**mimen**
 – my  
-**tumon**
+**tumen**
 – wy  
-**yemon**
+**damen**
 – oni, one
 
 **se**
@@ -24,7 +24,7 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 – Widzę się.  
 **ya vide se**
 – Widzi się.  
-**mimon vide se.**
+**mimen vide se.**
 – Widzimy się.
 
 
@@ -32,19 +32,19 @@ Zaimki mogą zastępować słowa-rzeczy i wyrażenia-rzeczy.
 
 Zaimki wskazujące to:
 
-**ni**
+**ye**
 – ten  
-**go**
+**vo**
 – tamten
 
-**ni mau**
+**ye mau**
 – Ten kot  
-**go mau.**
+**vo mau.**
 – Tamten kot
 
-**mi vol ni.**
+**mi vol ye.**
 – Chcę ten.  
-**mi vol ni mau.**
+**mi vol ye mau.**
 – Chcę tego kota.
 
 
@@ -59,7 +59,7 @@ Przymiotnikowy zaimek pytający to **ke** i znaczy tyle, co polskie _jaki_.
 
 **ke xe?**
 – Co? (Jaka rzecz?)  
-**ke jan?**
+**ke jen?**
 – Kto? (Jaka osoba?)  
 **ke zaman?**
 – Kiedy? (Jaki czas?)  

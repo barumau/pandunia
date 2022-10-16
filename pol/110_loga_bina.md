@@ -20,5 +20,5 @@ Tworzy rzeczowniki zbiorowe. Opisuje grupę elementów nazwanych rdzeniem jako c
 
 Również abstrakcyjne rzeczowniki często kończą się na **ta**.
 
-**nove** nowy, **nove ta** nowość
+**neu** nowy, **neu ta** nowość
 

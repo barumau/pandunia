@@ -129,7 +129,7 @@ umieszczone w nawiasach.
 |--------------------|-------------|---------------|--------------------|---------------------------------|
 | Nosowe             | m n ng      | m n ng        | m n ng             | m n ng (m' ń)                   |
 | Zwarte             | p b t d k g | p b t d k g   | p b t d k g        | p b t d k g (p' b' t' d' k' g') |
-| Płynne             | l r y w     | l r y w       | l r y w (yü)       | l r j ł (l' r')                 |
+| Płynne             | l r y v     | l r y w       | l r y w (yü)       | l r j ł (l' r')                 |
 | Syczące            | s z x       | s z sh (zh)   | s z* sh (x)        | s z sz (ż sz' ż' ś ź ch ch')    |
 | Szczelinowe        | f h         | f h (v th dh) | f h                | f h (w f' w')                   |
 | Zwarto-szczelinowe | c j         | ch j          | ch zh (q j c)      | cz dż (c dz ć dź)               |
@@ -394,10 +394,10 @@ jak to możliwe.
 
 | Rdzeń Panduni | Polski | Angielski  | Portugalski | Hiszpański | Francuski  | Niemiecki  | Rosyjski   |
 |---------------|--------|------------|-------------|------------|------------|------------|------------|
-| **kort**      | krótki | short      | curto       | corto      | court      | kurz       | korotkiy   |
-| **now**       | nowy   | new        | novo        | nuevo      | nouveau    | neu        | novıy      |
-| **marc**      | marzec | march      | marcha      | marcha     | marche     | Marsch     | marš       |
-| **post**      | poczta | post (mail)| (postal)    | posta      | poste      | Post       | počta      |
+| **korte**     | krótki | short      | curto       | corto      | court      | kurz       | korotkiy   |
+| **neu**       | nowy   | new        | novo        | nuevo      | nouveau    | neu        | novıy      |
+| **marce**     | marzec | march      | marcha      | marcha     | marche     | Marsch     | marš       |
+| **posta**     | poczta | post (mail)| (postal)    | posta      | poste      | Post       | počta      |
 
 Przyrostki Panduni są dołączane do rdzeni. Oto kilka słów Panduni:
 korti (krótki), korte (krótkość), korta (skracać), novi (nowy), nove
@@ -426,15 +426,15 @@ zwarte i dodaje normalne przyrostki części mowy.
  
 | 字 | Rdzeń Panduni | Kantoński  | Mandaryński | Japoński   | Koreański  | Wietnamski |
 |---|---------------|------------|-------------|------------|------------|------------|
-| 水 | **suy**       | sui        | shuǐ        | sui        | su         | thuỷ       |
+| 水 | **sui**       | sui        | shuǐ        | sui        | su         | thuỷ       |
 | 中 | **jung**      | zung       | zhōng       | chū        | jung       | trung      |
 | 心 | **xim**       | sam        | xīn         | shin       | sim        | tâm        |
 | 門 | **mun**       | mun        | mén         | mon        | mun        | (môn)      |
-| 問 | **wen**       | man        | wèn         | mon        | mun        | vấn        |
-| 讀 | **dug**       | duk        | dú          | doku       | dog        | đọc        |
-| 出 | **cut**       | cœt        | chū         | shutsu     | chul       | xuất       |
-| 索 | **sog**       | sok        | suǒ         | saku       | sæg        |            |
-| 惡 | **ag**        | ok         | è           | aku        | ag         | ác         |
+| 問 | **ven**       | man        | wèn         | mon        | mun        | vấn        |
+| 讀 | **duga**      | duk        | dú          | doku       | dog        | đọc        |
+| 出 | **cuti**      | cœt        | chū         | shutsu     | chul       | xuất       |
+| 索 | **sogu**      | sok        | suǒ         | saku       | sæg        |            |
+| 惡 | **aga**       | ok         | è           | aku        | ag         | ác         |
 
 Używanie zrostków Panduni do rdzeni sinickich mogą na początku
 wydawać się nietypowe, ale to nic nowego – sinickie slowa są już
@@ -452,7 +452,7 @@ polskim, angielskim i chińskim.
 
     Polski:     Ja kocham cię, a ty kochasz mnie.
     Angielski:  I love you, and you love me.
-    Pandunia:   mi lova tu, tu lova mi.
+    Pandunia:   mi ame tu, tu ame mi.
     Chiński:    Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
 Czasownik **bey** jest używany, gdy pacjens pojawia się pierwszy w
@@ -460,7 +460,7 @@ zdaniu. (To tak zwana strona bierna.)
 
     Polski:     Jabłka były zjedzone.
     Angielski:  The apples were eaten.
-    Pandunia:   apel bey niama.
+    Pandunia:   aple be yam.
     Chiński:    Píngguǒ bèi chī le. (苹果被吃了。)
 
 **Bey** jest zapożyczeniem ze standardowego chińskiego, ale jest też
@@ -468,7 +468,7 @@ podobne do niektórych użyć polskiego "być" i angielskiego "to be".
 
     Polski:     To nie może być zjedzone.
     Angielski:  It can not be eaten.
-    Pandunia:   ye no abla bey niama.
+    Pandunia:   da no bil be yam.
     Chiński:    Tā bù néng bèi chī. (它不能被吃。)
 
 Jak chiński, Pandunia nie oznacza czasowników końcówkami jak "-ić"
@@ -476,7 +476,7 @@ lub słowami jak "to".
 
     Polski:     Zapraszam go do wypicia kawy.
     Angielski:  I invite him to drink coffee.
-    Pandunia:   mi pliza ye niama kafe.
+    Pandunia:   mi cing da yam kafe.
     Chiński:    Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
 W Panduni i chińskim, rzeczowniki mogą być w liczbie pojedynczej lub
@@ -487,12 +487,12 @@ byłem, byliście, będziemy..._
 
     Polski:     To jest jabłko.
     Angielski:  It is an apple.
-    Pandunia:   ye si apel.
+    Pandunia:   da e aple.
     Chiński:    Tā shì píngguǒ. (他是苹果。)
 
     Polski:     To są jabłka.
     Angielski:  They are apples.
-    Pandunia:   yemen si apel.
+    Pandunia:   damen e aple.
     Chiński:    Tāmen shì píngguǒ. (他们是苹果。)
 
 
