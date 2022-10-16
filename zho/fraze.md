@@ -3,137 +3,135 @@
 第一课
 ------
 
-### salam <small>打招呼</small>
+### sal <small>打招呼</small>
 
-**salam!**
+**sal!**
 你好！
 
-**salam sube!**
+**sal suba!**
 早上好！
 
-**salam den!**
+**sal den!**
 美好的一天！
 
-**salam xam!**
+**sal xam!**
 晚上好！
 
-**salam noce!**
+**sal noce!**
 晚安！
 
-**salam nyam!**
+**sal yam!**
 好胃口！
 
-**salam lay!**
+**sal lai!**
 欢迎！
 
-**salam cute!**
+**sal cuti!**
 再见！
 
-**salam safare!**
+**sal safar!**
 一路平安！
 
 
 
 
-### me <small>我</small>
+### mi <small>我</small>
 
-**me lili.**
+**mi xiu.**
 我叫丽丽。
 
-**me tomas.**
+**mi Tomas.**
 我叫托马。
 
-**me salama mame.**
+**mi salam mame.**
 我迎接妈妈。
 
-**me salama pape.**
+**mi salam pape.**
 我迎接爸爸。
 
-**salam mame!**
+**sal mame!**
 妈妈，你好！
 
-**salam pape!**
+**sal pape!**
 爸爸，你好！
 
-**mome salama mame.**
+**mimen salam mame.**
 我们迎接妈妈。
 
 
 
-### te <small>你</small>
+### tu <small>你</small>
 
-**te tomas.**
+**tu Tomas.**
 你叫托马。
 
-**me salama te.**
+**mi salam tu.**
 我给你打招呼。
 
-**te salama me.**
+**tu salam mi.**
 你给我打招呼。
 
-**salam te!**
+**sal tu!**
 你好！
 
-**me salama tote.**
+**mi salam tumen.**
 我给你们打招呼。
 
-**salam tote!**
+**sal tumen!**
 你们好！
 
 
 
 
-### le <small>他，她，它</small>
+### da <small>他，她，它</small>
 
-**le man.**
+**da man.**
 他是一个男人。
 
-**le fem.**
+**da fem.**
 她是一个女人。
 
-**le aple.**
+**da aple.**
 它是一个苹果。
 
-### eska <small>问</small>
+### sual <small>问</small>
 
-**eska te tomas?**
+**sual tu Tomas?**
 请问你是托马吗？
 
-**eska te dotor?**
+**sual tu davaja?**
 请问你是医生吗？
 
-**eska te bon?**
+**sual tu bon?**
 你好吗？  
-**me bon.**
+**mi bon.**
 我很好。  
-**eska te?**
+**sual tu?**
  你呢？  
-**me no bon.**
+**mi no bon.**
 我不好。
 
 
 
 
-### si <small>是</small>
+### e <small>是</small>
 
-**me si tomas.**
+**mi e Tomas.**
 我是托马斯。
 
-**te si sarah.**
+**tu e Sara.**
 你是莎拉。
 
-**maw si hewan.**
+**maw e hevan.**
 猫是动物。
 
-**me sarah.**
+**mi Sara.**
 我是莎拉。
 
-**te tomas.**
+**tu Tomas.**
 你是托马斯。
 
-
-
-**mome salama tote.**
+**mimen salam tumen.**
 We greet you.
 
 
@@ -143,101 +141,101 @@ We greet you.
 **ke?**
 什么？
 
-**te ke?**
+**tu ke?**
 你是谁？
-**me tomas.**
+**mi Tomas.**
 我是托马斯。
 
-**le ke?**
+**da ke?**
 她是谁？
-**le sarah.**
+**da Sara.**
 她是莎拉。
 
-**tote si ke?**
+**tumen e ke?**
 你们是谁？
 
-**lole si ke?**
+**damen e ke?**
 他们是谁？
 
 
 
-### pardon <small>对不起</small>
+### maf <small>对不起</small>
 
-**pardon! me no aha.**
+**maf! mi no aha.**
 对不起，我不明白。
 
-**pardon! ce ke?**
+**maf! ce ke?**
 对不起，这是什么？
 
-**pardon. te namu ke?**
+**maf. tu nam ke?**
 对不起，你叫什么名字？
 
 
 ### aha <small>明白</small>
 
-**eska te aha me?**
+**sual tu aha mi?**
 你明白我吗？
 
-**me aha.**
+**mi aha.**
 我明白。
 
-**pardon. me no aha te.**
+**maf. mi no aha tu.**
 对不起，我不明白你。
 
-**me no bas aha te.**
+**mi no bas aha tu.**
 我不太明白你。
 
-**me aha nol.**
+**mi aha siro.**
 我什么都不懂。
 
 
 
-### abla <small>会</small>
+### bil <small>会</small>
 
-**me abla xofa gare.**
+**mi bil xofe gar.**
 我会开车。
 
-**le no abla xofa gare.**
+**da no bil xofe gar.**
 他不知道怎么开车。
 
-**eska te abla xula le?**
+**sual tu bil xula da?**
 你知道怎么修吗？
 
-**eska te abla pandunia?**
+**sual tu bil pandunia?**
 你会泛世界语吗？
 
-**me abla pandunia.**
+**mi bil pandunia.**
 我会泛世界语。
 
-**me abla lil pandunia.**
+**mi bil xiu pandunia.**
 我会一点泛世界语。
 
-**me no abla engli.**
+**mi no bil englix.**
 我不会英语。
 
-**pardon. me no abla te da bax.**
+**maf. mi no bil tu su baxa.**
 对不起，我不会你的语言。
 
 ### baxa <small>说语</small>
 
-**eska tote baxa pandunia.**
+**sual tumen baxa pandunia.**
 你们说泛世界语吗？
 
-**mome baxa pandunia.**
+**mimen baxa pandunia.**
 我们会说泛世界语。
 
-**eska te abla baxa engli?**
+**sual tu bil baxa engli?**
 你能说英语吗？
 
-**fransi, espani, portugali, rusi**
+**franse, espanya, portugal, rus**
 法语，西班牙语，葡萄牙语，俄语
 
-**cini, nipon, indonesi**
+**putong han, nipon, indonesia**
 中文，日文，印尼文
 
-**arabi, turki, farsi, urdi, hindi**
+**arabi, turki, parsi, urdu, hindi**
 阿拉伯语，土耳其语，波斯语，乌尔都语，印地语
 
-**swahili, hausi, yorubi, amari**
+**suahili, hausa, yoruba, amara**
 斯瓦希里语，豪萨语，约鲁巴语，阿姆哈拉语
 

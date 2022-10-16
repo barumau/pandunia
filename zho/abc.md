@@ -21,9 +21,8 @@
 | d  | d     | /d/    |
 | s  | s     | /s/    |
 | z  | -     | /z/    |
-| sh | sh, x | /ʃ/    |
-| c  | c     | /ts/   |
-| ch | ch, q | /tʃ/   |
+| x  | sh, x | /ʃ/    |
+| c  | c, ch, q | /tʃ/   |
 | j  | j     | /dʒ/   |
 | m  | m     | /m/    |
 | n  | n     | /n/    |
