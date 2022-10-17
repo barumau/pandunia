@@ -496,7 +496,7 @@ flece - 矢 (矢印)
 flerof yum - フレロビウム  
 flur - フッ素  
 fluride - 弗化物  
-foni - フォニオ  
+fonyo - フォニオ  
 • dusforma - 醜くする  
 • konforma - 即する  
 fosfe - リン  
@@ -953,7 +953,10 @@ lense - レンズ
 letre - 手紙  
 letus - レタス  
 leu - 左  
-lexima - 言葉  
+lexi - 言葉  
+lexi fen - 音節  
+lexi jama - 語彙  
+lexime - 語彙素  
 liama - ラマ  
 libele - 蜻蛉  
 lida lin - リード (手綱)  
@@ -974,9 +977,6 @@ lisan - 舌
 lito yum - リチウム  
 litre - リットル  
 livermor yum - リバモリウム  
-loga - 演説  
-loga fen - 音節  
-loga jama - 語彙  
 loge - 記録  
 loge buku - 日誌  
 loge cuti - ログアウト  
@@ -1535,8 +1535,8 @@ tehni - 技術
 tehni yum - テクネチウム  
 tela - 布  
 tela gi - 織機  
+tele fon - 電話  
 tele fon bude - 電話ボックス  
-tele fon gi - 電話  
 teleskope - 望遠鏡 (テレスコープ)  
 telu yum - テルル  
 tema nam - 題名 (書名, タイトル)  

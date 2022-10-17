@@ -409,10 +409,10 @@
 **flexi** ** ← eng:flex, fra:fléchir, spa:por:flexionar + deu:Reflex, rus:рефлекс, tur:refleks  
 **flur** *flúor* ← eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور  
 **fobi** *miedo (-fobia)* ← eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi  
-**fokus** *concentrar (enfocarse)* ← eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)  
-**fon** *fono (segmento acústico)* ← eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon  
-**foni** *mijo fonio* ← wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)  
+**foku** *concentrar (enfocarse)* ← eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)  
+**foni** *fono (segmento acústico)* ← eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon + fas: تلفن‎ (telefon), hin:फ़ोन (fon), ben:ফোন (phon), tur:telefon  
 **fonte** *fuente (manantial)* ← por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)  
+**fonyo** *mijo fonio* ← wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)  
 **for** *lejos (fuera)* ← spa:fuera, por:fora, deu:fort + eng:far  
 **fora** *taladrar (perforar)* ← fra:forer, por:furar, eng:perforate, spa:perforar  
 **forke** *tenedor* ← eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)  
@@ -858,6 +858,7 @@
 **letre** *carta* ← eng:letter, fra:lettre, hin:लेटर (leṭar), jpn:ター (retā)  
 **letus** *lechuga* ← eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue  
 **leu** *izquierdo* ← ltn:laevus, eng:left; levo-, fra:lévo-, spa:por:levo-, rus:левый (levyy), pol:lewy  
+**lexi** *palabra (vocablo)* ← deu:eng:fra:spa:por:lex-, rus:лекс- (leks-), may:leks-  
 **li** ** ← eng:-al; -ly, spa:por:-al + tur:-li; -lı; -lu; -lü  
 **liama** *llama* ← eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)  
 **libele** *libélula* ← spa:por:libélula, fra:libellule, deu:Libelle  
@@ -882,7 +883,7 @@
 **litre** *litro* ← eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita  
 **livermor yum** *livermorio* ← eng:fra:livermorium, spa:livermorio, por:livermório, rus:ливерморий, zho: (lì), jpn:リバモリウム, kor:리버모륨, vie:livermori, may:livermorium, swa:livermori  
 **loba** *rábano* ← zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak  
-**loga** *habla (palabras)* ← ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat  
+**loga** *habla* ← ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat  
 **loge** *registro (archivo, anotación)* ← eng:log + zho:录 (lù), yue:錄 (luk6), jpn:録 (roku), kor:록 (rok), vie:lục  
 **logi** *ciencia (estudiar, investigar, -ología)* ← eng:-ology, spa:-ología, fra:-ologie, rus:ология (-ologiya), tur:-loji  
 **logika** *lógica* ← eng:logic, spa:por:lógica, rus:логика (logika), zho:逻辑 (luóji)  

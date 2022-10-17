@@ -1395,15 +1395,16 @@ fobi - kammo (fobia)
 fobi di - pelokas  
 fobi ja - pelottava  
 Fobos - Fobos  
-fokus - keskittyminen (keskittymä)  
-fon - äänne (fooni)  
-fon loga - ääntää (lausua)  
-fonlogi - fonologia (äänneoppi)  
-fonma - äänne (foneemi)  
-fon zi - kirjain  
-foni - fonio (heinäkasvi)  
+foku - keskittyminen (keskittymä)  
+fon - puhelin  
+foni - äänne (fooni)  
+foni loga - ääntää (lausua)  
+fonilogi - fonologia (äänneoppi)  
+fonime - äänne (foneemi)  
+foni zi - kirjain  
 fonte - lähde (kaivo)  
 fonte kalam - mustekynä  
+fonyo - fonio (heinäkasvi)  
 for - pois (poissa)  
 fora - porata  
 forke - haarukka  
@@ -2401,7 +2402,13 @@ letre - kirje
 letus - lehtisalaatti  
 leu - vasen  
 leu sim ja - vasemmistolainen  
-lexima - sana  
+lexi - sana  
+lexi asal - etymologia  
+lexi fen - tavu  
+lexi jama - sanasto  
+lexi li - sanastollinen  
+lexi liste - sanaluettelo  
+lexime - lekseemi  
 li - kaltainen (-llinen)  
 Libanen - Libanon  
 libele - sudenkorento  
@@ -2442,14 +2449,10 @@ lito yum - litium
 litre - litra  
 livermor yum - livermorium  
 loba - retikka (retiisi)  
-loga - puhe (sanat)  
-loga asal - etymologia  
-loga di - sanallinen (puhuttu)  
-loga fen - tavu  
+loga - puhua (puhe)  
+loga di - puhuttu (sanallinen)  
 loga fili - logofilia  
 loga fili ja - logofiili  
-loga jama - sanasto  
-loga liste - sanaluettelo  
 loga tabi di - puhelias  
 loge - tallenne (rekisteri, loki)  
 loge buku - lokikirja  
@@ -3507,7 +3510,7 @@ semi - merkitä (tarkoittaa)
 • poli semi di - monimerkityksinen (polyseeminen)  
 • un semi di - yksimerkityksinen  
 semi logi - merkitysoppi (semantiikka)  
-semima - semeemi  
+semime - semeemi  
 sen bei - vanhempi toveri  
 sen bra - isoveli  
 sen sis - isosisko  
@@ -3731,8 +3734,8 @@ tela - kangas
 tela gi - kutomakone (kangaspuut)  
 tele - etäisyys (kaukaisuus)  
 tele di - kaukainen  
+tele fon - puhelin  
 tele fon bude - puhelinkoppi  
-tele fon gi - puhelin  
 tele fon lin - puhelinjohto  
 tele fon nume - puhelinnumero  
 tele fon suta - puhelintekniikka  

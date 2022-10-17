@@ -409,10 +409,10 @@
 **flexi** ** ← angla:flex, franca:fléchir, hispana:portugala:flexionar + deu:Reflex, rusa:рефлекс, turka:refleks  
 **flur** *fluoro* ← angla:fluorine, franca:fluor, hispana:flúor, portugala:flúor, rusa:фтор, mandarena:氟 (fú), japana:フッ素, korea:플루오르, vjetnama:flo, hindia:फ्लोरीन, bengala:ফ্লুরিন, malaja:fluor, svahila:florini, araba: فلور  
 **fobi** *timo (fobio)* ← angla:-phobia, hispana:portugala:malaja:-fobia, franca:deu:-phobie, rusa:-фобия (-fobiya), turka:-fobi  
-**fokus** *koncentriĝo* ← angla:focus, hispana:portugala:foco, deu:Fokus, rusa:фо́кус, persa:فوکوس‎ (fokus)  
-**fon** ** ← angla:franca:phone, hispana:fono, portugala:fone, rusa:фона (fona), malaja:fon  
-**foni** ** ← volofa:foño, bam:fini, mnk:fíndi, mku:fónĩ, fula:fonnye, svahila:mfonio, angla:franca:hispana:malaja:fonio, deu:Foniohirse, japana:フォニオ (fonio)  
+**foku** *koncentriĝo* ← angla:focus, hispana:portugala:foco, deu:Fokus, rusa:фо́кус, persa:فوکوس‎ (fokus)  
+**foni** ** ← angla:franca:phone, hispana:fono, portugala:fone, rusa:фона (fona), malaja:fon + persa: تلفن‎ (telefon), hindia:फ़ोन (fon), bengala:ফোন (phon), turka:telefon  
 **fonte** ** ← portugala:fonte, hispana:fuente, rusa:фонтан (fontan), franca:fontaine, angla:fountain, japana:噴水 (funsui)  
+**fonyo** ** ← volofa:foño, bam:fini, mnk:fíndi, mku:fónĩ, fula:fonnye, svahila:mfonio, angla:franca:hispana:malaja:fonio, deu:Foniohirse, japana:フォニオ (fonio)  
 **for** ** ← hispana:fuera, portugala:fora, deu:fort + angla:far  
 **fora** *taladri* ← franca:forer, portugala:furar, angla:perforate, hispana:perforar  
 **forke** *forko* ← angla:fork, hispana:horca, portugala:forcado, franca:fourche, tamila:போர்க் (pōrk), japana:フォーク (fōku), korea:포크 (pokeu)  
@@ -858,6 +858,7 @@
 **letre** *letero* ← angla:letter, franca:lettre, hindia:लेटर (leṭar), japana:ター (retā)  
 **letus** *laktuko* ← angla:lettuce, japana:レタス (retasu), haŭsa:latas, hindia:लेटिष (leṭiṣ), bengala:লেটুস (leṭus), franca:laitue  
 **leu** ** ← latina:laevus, angla:left; levo-, franca:lévo-, hispana:portugala:levo-, rusa:левый (levyy), polona:lewy  
+**lexi** *vorto* ← deu:angla:franca:hispana:portugala:lex-, rusa:лекс- (leks-), malaja:leks-  
 **li** ** ← angla:-al; -ly, hispana:portugala:-al + turka:-li; -lı; -lu; -lü  
 **liama** ** ← angla:hispana:malaja:llama, portugala:lhama, rusa:лама (lama), turka:svahila:lama, araba:لاما (lama), hindia:लामा (lāma), japana:ラマ (rama)  
 **libele** *libelo* ← hispana:portugala:libélula, franca:libellule, deu:Libelle  
@@ -882,7 +883,7 @@
 **litre** *litro* ← angla:franca:turka:litre, deu:malaja:liter, hispana:portugala:litro, rusa:литр (litr), polona:litr, araba: لتر‎(litr), hindia:लीटर (līṭar), bengala:লিটার (liṭar), japana:リットル (rittoru), korea:리터 (riteo), vjetnama:lít, svahila:lita  
 **livermor yum** ** ← angla:franca:livermorium, hispana:livermorio, portugala:livermório, rusa:ливерморий, mandarena: (lì), japana:リバモリウム, korea:리버모륨, vjetnama:livermori, malaja:livermorium, svahila:livermori  
 **loba** *rafaneto* ← mandarena:萝卜 (luóbo), kantona:蘿蔔 (lobaak), malaja:lobak  
-**loga** *parolo* ← greka:λόγος (logos), angla:franca:-logue, hispana:portugala:-logo, rusa:-лог (-log), persa:(loğat), araba:(luğa), hindia:लुग़त (luġat), svahila:lugha, turka:lügat, malaja:logat  
+**loga** *paroli* ← greka:λόγος (logos), angla:franca:-logue, hispana:portugala:-logo, rusa:-лог (-log), persa:(loğat), araba:(luğa), hindia:लुग़त (luġat), svahila:lugha, turka:lügat, malaja:logat  
 **loge** *registraĵo* ← angla:log + mandarena:录 (lù), kantona:錄 (luk6), japana:録 (roku), korea:록 (rok), vjetnama:lục  
 **logi** *scienco* ← angla:-ology, hispana:-ología, franca:-ologie, rusa:ология (-ologiya), turka:-loji  
 **logika** *logiko* ← angla:logic, hispana:portugala:lógica, rusa:логика (logika), mandarena:逻辑 (luóji)  

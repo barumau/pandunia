@@ -1460,15 +1460,16 @@ fobi - fear (phobia)
 fobi di - afraid (scared)  
 fobi ja - scary (frightening)  
 Fobos - Phobos  
-fokus - focus (concentration)  
-fon - phone (speech sound)  
-fon loga - pronounce (articulate)  
-fonlogi - phonology  
-fonma - phoneme  
-fon zi - letter (character, written symbol)  
-foni - fonio millet (acha rice)  
+foku - focus (concentration)  
+fon - phone (telephone)  
+foni - phone (speech sound)  
+foni loga - pronounce (articulate)  
+fonilogi - phonology  
+fonime - phoneme  
+foni zi - letter (character, written symbol)  
 fonte - fountain (spring, well)  
 fonte kalam - fountain pen  
+fonyo - fonio millet (acha rice)  
 for - off (away, gone, far-off)  
 fora - drill (bore, perforate)  
 forke - fork  
@@ -2585,7 +2586,13 @@ letus - lettuce
 leu - left  
 leu di - left hand  
 leu sim ja - leftist (left-winger)  
-lexima - word (lexeme)  
+lexi - word  
+lexi asal - etymology  
+lexi fen - syllable  
+lexi jama - vocabulary (lexicon)  
+lexi li - lexical  
+lexi liste - dictionary (word list)  
+lexime - lexeme  
 li - like or characteristic of the previous word (-like, -ly, -al)  
 liama - llama  
 Libanen - Lebanon  
@@ -2634,15 +2641,11 @@ lito yum - lithium
 litre - litre (liter)  
 livermor yum - livermorium  
 loba - radish  
-loga - speech (talk, words)  
-loga asal - etymology  
-loga di - spoken (lexical)  
-loga fen - syllable  
+loga - speech (talk)  
+loga di - spoken  
 loga fili - logophilia  
 loga fili ja - logophile (word buff)  
 loga ironi - verbal irony (sarcasm)  
-loga jama - vocabulary (lexicon)  
-loga liste - dictionary (word list)  
 loga tabi di - talkative  
 loge - register (record, log)  
 loge buku - logbook  
@@ -3873,7 +3876,7 @@ semi - mean (signify)
 • un semi di - unambiguous  
 semi forar - semaphore  
 semi logi - semantics  
-semima - sememe  
+semime - sememe  
 sen - older (elder, senior, superior)  
 sen bei - senior fellow (senpai)  
 sen bra - big brother (elder brother)  
@@ -4133,8 +4136,8 @@ tela - cloth (fabric, textile)
 tela gi - loom  
 tele - distance (far away)  
 tele di - far  
+tele fon - telephone  
 tele fon bude - telephone booth  
-tele fon gi - telephone  
 tele fon lin - telephone line  
 tele fon nume - telephone number  
 tele fon suta - telephony (telephone communication)  

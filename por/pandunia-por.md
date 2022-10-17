@@ -972,7 +972,12 @@ letali - letal
 letre - carta  
 letus - alface  
 leu - esquerdo  
-lexima - palavra (vocábulo)  
+lexi - palavra (vocábulo)  
+lexi asal - etimologia  
+lexi fen - sílaba  
+lexi jama - vocabulário  
+lexi li - léxico  
+lexime - lexema  
 liama - lhama  
 libele - libélula  
 lida ja - líder (chefe)  
@@ -994,11 +999,7 @@ liste - lista
 lito yum - lítio  
 litre - litro  
 livermor yum - livermório  
-loga - fala (palavras)  
-loga asal - etimologia  
-loga di - léxico  
-loga fen - sílaba  
-loga jama - vocabulário  
+loga - fala  
 loge - registro  
 loge buku - diário de bordo  
 loka - lugar (local)  

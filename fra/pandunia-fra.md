@@ -658,8 +658,8 @@ flerof yum - flérovium
 flur - fluor  
 fluride - fluorure  
 fobi ja - effrayant  
-foni - fonio blanc  
 fonte kalam - stylo-plume  
+fonyo - fonio blanc  
 for - loin (hors, parti)  
 fora - forer (percer)  
 • dusforma - défigurer  
@@ -1161,7 +1161,12 @@ letali - létal
 letre - lettre  
 letus - laitue  
 leu - gauche  
-lexima - mot  
+lexi - mot  
+lexi asal - étymologie  
+lexi fen - syllabe  
+lexi jama - vocabulaire (lexique)  
+lexi li - lexical  
+lexime - lexème  
 liama - lama  
 libele - libellule  
 lida ja - dirigeant (leader)  
@@ -1183,11 +1188,7 @@ liste - liste
 lito yum - lithium  
 litre - litre  
 livermor yum - livermorium  
-loga - parole (mots)  
-loga asal - étymologie  
-loga di - lexical  
-loga fen - syllabe  
-loga jama - vocabulaire (lexique)  
+loga - parole  
 loga tabi di - loquace  
 loge - enregistrement  
 loge buku - livre de bord  
@@ -1812,8 +1813,8 @@ tehni logi - technologie
 tehni yum - technétium  
 tela - tissu  
 tela gi - métier à tisser  
+tele fon - téléphone  
 tele fon bude - cabine téléphonique  
-tele fon gi - téléphone  
 tele fon lin - ligne téléphonique  
 tele vide gi - téléviseur  
 teleskope - télescope (lunette)  

@@ -1414,15 +1414,16 @@ fobi|fobi|||eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-
 fobi.di|fobi di||||afraid (scared)|||||||||||||||||||||pelokas|
 fobi.ja|fobi ja||||scary (frightening)||effrayant|asustador|assustador||||||||korkutucu||||||||timiga|pelottava|
 Fobos|Fobos|planeta 4 lun 1|||Phobos|||||||||||||||||||||Fobos|
-fokus|fokus|||eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)|focus (concentration)|||concentrar (enfocarse)|||||||||||||||||koncentriĝo|keskittyminen (keskittymä)|skupienie, koncentracja
-fon|fon|||eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon|phone (speech sound)|||fono (segmento acústico)||||||||||||||||||äänne (fooni)|głoska
-fon.loga|fon loga||||pronounce (articulate)|||||||||||||||||||||ääntää (lausua)|
-fon.logi|fonlogi||||phonology|||fonología||||||||||||||||||fonologia (äänneoppi)|fonologia
-fon.ma|fonma||||phoneme|||fonema||||||||||||||||||äänne (foneemi)|fonem
-fon.zi|fon zi||||letter (character, written symbol)|||letra (carácter)|||||||||harf|herufi|||||||litero|kirjain|litera, znak
-foni|foni|bio|Digitaria|wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)|fonio millet (acha rice)||fonio blanc|mijo fonio||||||||||mfonio||||フォニオ||||fonio (heinäkasvi)|
+foku|foku|||eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)|focus (concentration)|||concentrar (enfocarse)|||||||||||||||||koncentriĝo|keskittyminen (keskittymä)|skupienie, koncentracja
+fon|fon||||phone (telephone)|||||||||||||||||||||puhelin|
+foni|foni|||eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon + fas: تلفن‎ (telefon), hin:फ़ोन (fon), ben:ফোন (phon), tur:telefon|phone (speech sound)|||fono (segmento acústico)||||||||||||||||||äänne (fooni)|głoska
+foni.loga|foni loga||||pronounce (articulate)|||||||||||||||||||||ääntää (lausua)|
+foni.logi|fonilogi||||phonology|||fonología||||||||||||||||||fonologia (äänneoppi)|fonologia
+foni.me|fonime||||phoneme|||fonema||||||||||||||||||äänne (foneemi)|fonem
+foni.zi|foni zi||||letter (character, written symbol)|||letra (carácter)|||||||||harf|herufi|||||||litero|kirjain|litera, znak
 fonte|fonte|||por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|fountain (spring, well)|||fuente (manantial)||||||||||||||||||lähde (kaivo)|fontanna (studnia, źródło)
 fonte.kalam|fonte kalam||||fountain pen||stylo-plume|estilógrafo|caneta de tinta permanente|авторучка||||||||||钢笔||||||mustekynä|
+fonyo|fonyo|bio|Digitaria|wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)|fonio millet (acha rice)||fonio blanc|mijo fonio||||||||||mfonio||||フォニオ||||fonio (heinäkasvi)|
 for|for|||spa:fuera, por:fora, deu:fort + eng:far|off (away, gone, far-off)||loin (hors, parti)|lejos (fuera)||прочь (вон)||||||||||||||||pois (poissa)|
 fora|fora|||fra:forer, por:furar, eng:perforate, spa:perforar|drill (bore, perforate)||forer (percer)|taladrar (perforar)|furar (perfurar)|сверлить (бурить)||||||||||钻孔|||||taladri|porata|wiercić, borować
 forke|forke|||eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|fork|||tenedor|||||||||||||||||forko|haarukka|widelec
@@ -2529,7 +2530,13 @@ letus|letus|bio||eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेट�
 leu|leu|||ltn:laevus, eng:left; levo-, fra:lévo-, spa:por:levo-, rus:левый (levyy), pol:lewy|left||gauche|izquierdo|esquerdo|левый||बायीं|||kiri||sol|kushoto||左||左||||vasen|lewy (lewostronny, z lewej strony)
 leu.di|leu di||||left hand|||izquierdo|||||||||||||||||||lewy (lewostronny, z lewej strony)
 leu.sim.ja|leu sim ja||||leftist (left-winger)|||izquerdista||||||||||||||||||vasemmistolainen|lewicowiec (lewak)
-lexi.ma|lexima||||word (lexeme)||mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||बात (लुग़त)|শব্দ||kata||sözcük (kelime)|neno||词||言葉|말|từ|vorto|sana|słowo
+lexi|lexi|||deu:eng:fra:spa:por:lex-, rus:лекс- (leks-), may:leks-|word|Wort|mot|palabra (vocablo)|palavra (vocábulo)|слово (речь)||शब्द|শব্দ||kata||sözcük (kelime)|neno||词||言葉|말|từ|vorto|sana|słowo
+lexi.asal|lexi asal||||etymology||étymologie|etimología|etimologia|этимология|||||||||||||||etimologio|etymologia|etymologia
+lexi.fen|lexi fen||||syllable||syllabe|sílaba|sílaba|слог||शब्दांश|||suku kata||hece|silabi||音节||音節|음절|âm tiết|silabo|tavu|sylaba (zgłoska)
+lexi.jama|lexi jama||||vocabulary (lexicon)||vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||शब्दकोश (लुग़त)|||kosa kata (logat)||sözlük (lügat)|msamiati||词汇||語彙|어휘|từ vựng|vortaro|sanasto|słownictwo
+lexi.li|lexi li||||lexical||lexical|léxico|léxico|лексический|||||||||||||||vorta|sanastollinen|słowny (leksykalny)
+lexi.liste|lexi liste||||dictionary (word list)|||disionario (lexicón)|||||||||||||||||vortaro|sanaluettelo|lista słów
+lexi.me|lexime||||lexeme|Lexeme|lexème|lexema|lexema|лексема||शब्दिम |||leksem|||||词位||語彙素|어휘소|từ vị|leksemo|lekseemi|leksem
 li|li|||eng:-al; -ly, spa:por:-al + tur:-li; -lı; -lu; -lü|like or characteristic of the previous word (-like, -ly, -al)|||||||||||||||||||||kaltainen (-llinen)|
 liama|liama|bio||eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|llama||lama|llama|lhama|лама||||||||||大羊駝||ラマ|||||lama
 Libanen|Libanen|dexa|LB||Lebanon|||Líbano||||||||||||||||||Libanon|Liban
@@ -2578,15 +2585,11 @@ lito.yum|lito yum|yum 003|Li|eng:lithium, fra:lithium, spa:litio, por:lítio, ru
 litre|litre|||eng:fra:tur:litre, deu:may:liter, spa:por:litro, rus:литр (litr), pol:litr, ara: لتر‎(litr), hin:लीटर (līṭar), ben:লিটার (liṭar), jpn:リットル (rittoru), kor:리터 (riteo), vie:lít, swa:lita|litre (liter)||litre|litro|litro|литр||लीटर|লিটার||liter|لتر‎|litre|lita||升||リットル|리터|lít|litro|litra|litr
 livermor.yum|livermor yum|yum 116|Lv|eng:fra:livermorium, spa:livermorio, por:livermório, rus:ливерморий, zho: (lì), jpn:リバモリウム, kor:리버모륨, vie:livermori, may:livermorium, swa:livermori|livermorium||livermorium|livermorio|livermório|ливерморий|||||livermorium|ليفرموريوم|livermoriyum|livermori||||リバモリウム|리버모륨|livermori||livermorium|liwermor
 loba|loba|bio|Raphanus raphanistrum|zho:萝卜 (luóbo), yue:蘿蔔 (lobaak), may:lobak|radish|||rábano|||||||||||||||||rafaneto|retikka (retiisi)|rzodkiewka
-loga|loga|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|speech (talk, words)||parole (mots)|habla (palabras)|fala (palavras)|речь||बात (बोल)|জবান||||söz|||语言||演説|말|ngôn từ|parolo|puhe (sanat)|słowo (mowa)
-loga.asal|loga asal||||etymology||étymologie|etimología|etimologia|этимология|||||||||||||||etimologio|etymologia|etymologia
-loga.di|loga di||||spoken (lexical)||lexical|léxico|léxico|лексический|||||||||||||||vorta|sanallinen (puhuttu)|słowny (leksykalny)
-loga.fen|loga fen||||syllable||syllabe|sílaba|sílaba|слог||शब्दांश|||suku kata||hece|silabi||音节||音節|음절|âm tiết|silabo|tavu|sylaba (zgłoska)
+loga|loga|||ell:λόγος (logos), eng:fra:-logue, spa:por:-logo, rus:-лог (-log), fas:(loğat), ara:(luğa), hin:लुग़त (luġat), swa:lugha, tur:lügat, may:logat|speech (talk)||parole|habla|fala|речь||बात (बोल)|জবান||||||||||||paroli|puhua (puhe)|mowić (mowa)
+loga.di|loga di||||spoken||||||||||||||||||||parola|puhuttu (sanallinen)|
 loga.fili|loga fili||||logophilia|||||||||||||||||||||logofilia|
 loga.fili.ja|loga fili ja||||logophile (word buff)|||||||||||||||||||||logofiili|logofil (miłośnik słów)
 loga.ironi|loga ironi||||verbal irony (sarcasm)||||||||||||||||||||||sarkazm
-loga.jama|loga jama||||vocabulary (lexicon)||vocabulaire (lexique)|vocabulario (léxico)|vocabulário|словарь||शब्दकोश (लुग़त)|||kosa kata (logat)||sözlük (lügat)|msamiati||词汇||語彙|어휘|từ vựng|vortaro|sanasto|słownictwo
-loga.liste|loga liste||||dictionary (word list)|||disionario (lexicón)|||||||||||||||||vortaro|sanaluettelo|lista słów
 loga.tabi.di|loga tabi di||||talkative||loquace|hablador (locuaz)|||||||||||||||||parolema|puhelias|rozmowny
 loge|loge|||eng:log + zho:录 (lù), yue:錄 (luk6), jpn:録 (roku), kor:록 (rok), vie:lục|register (record, log)||enregistrement|registro (archivo, anotación)|registro|запись||||||||||纪录||記録|기록||registraĵo|tallenne (rekisteri, loki)|rejestr
 loge.buku|loge buku||||logbook||livre de bord|libro de registro|diário de bordo|судовой журнал||||||||||航海日志||日誌||||lokikirja|dziennik pokładowy (notatnik)
@@ -3809,7 +3812,7 @@ semi-poli.di|• poli semi di||||ambiguous (polysemous)|||ambiguo|||||||||||||||
 semi-un.di|• un semi di||||unambiguous|||inequívoco||||||||||||||||||yksimerkityksinen|jednoznaczny
 semi.fora.r|semi forar||||semaphore||sémaphore|semáforo||семафор|||||||||||||||||
 semi.logi|semi logi||||semantics||sémantique|semántica|semântica|семантика|||||semantik||anlambilim|semantiki||语义学||意味論|의미론|ngữ nghĩa học|semantiko|merkitysoppi (semantiikka)|
-semi.ma|semima||||sememe|||||||||||||||||||||semeemi|
+semi.me|semime||||sememe|||||||||||||||||||||semeemi|
 sen|sen|||eng:fra:may:senior, spa:señor, por:sênior + zho:先辈 (xiānbèi), jpn:先輩 (senpai), kor:선배 (seonbae)|older (elder, senior, superior)|älter (senior)|aîné (senior, supérieur)|anciano (señor)|sênior|||||||||||||||||vanha (seniori, iso-)|
 sen.bei|sen bei||||senior fellow (senpai)|||||||||||||||先辈 (前辈)|先輩|先輩|선배|tiền bối||vanhempi toveri|
 sen.bra|sen bra|famil|||big brother (elder brother)|großer Bruder|frère aîné (grand frère)|hermano mayor|irmão mais velho|старший брат||||||اَلْأَخ اَلْأَكْبَر‎|abi (ağabey)|kaka|wa (yaya)|||||||isoveli|
@@ -4067,8 +4070,8 @@ tela|tela|||spa:por:tgl:tela, fra:toile + eng:towel, hin:तौलिया (tau
 tela.gi|tela gi|||rus:ткать (tkat’) + may:duk + tur:doku|loom||métier à tisser|telar|tear|ткацкий станок|||||||dokuma tezgahı|||织机||織機|직기|khung cửi||kutomakone (kangaspuut)|krosno
 tele|tele|||eng:spa:por:may:tele-, fra:télé-, rus:теле- (tele-)|distance (far away)|||lo lejos|||||||||||||||||malproksimeco|etäisyys (kaukaisuus)|dystans
 tele.di|tele di||||far|||lejano (lejos)|||||||||||||||||malproksima|kaukainen|daleki, odległy
+tele.fon|tele fon||||telephone||téléphone|telefono||телефон||दूरभाष (टेलीफ़ोन)|দূরভাষা (টেলিফোন)||telepon|تِلِفُون|telefon|simu||电话机||電話|전화||telefono|puhelin|telefon
 tele.fon.bude|tele fon bude||||telephone booth||cabine téléphonique|cabina telefónica|cabine telefônica|телефонная будка|||||||telefon kulübesi|||电话亭||電話ボックス||||puhelinkoppi|
-tele.fon.gi|tele fon gi||||telephone||téléphone|telefono||телефон||दूरभाष (टेलीफ़ोन)|দূরভাষা (টেলিফোন)||telepon|تِلِفُون|telefon|simu||电话机||電話|전화||telefono|puhelin|telefon
 tele.fon.lin|tele fon lin||||telephone line||ligne téléphonique|||телефонная линия||||||||||电话线||||||puhelinjohto|
 tele.fon.nume|tele fon nume||||telephone number|||||||||||||||||||||puhelinnumero|
 tele.fon.suta|tele fon suta||||telephony (telephone communication)|||telefonía|telefonia|телефония||||||||||||||||puhelintekniikka|

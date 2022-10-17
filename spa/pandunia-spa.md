@@ -1241,14 +1241,14 @@ flur - flúor
 fluride - fluoruro  
 fobi - miedo (-fobia)  
 fobi ja - asustador  
-fokus - concentrar (enfocarse)  
-fon - fono (segmento acústico)  
-fonlogi - fonología  
-fonma - fonema  
-fon zi - letra (carácter)  
-foni - mijo fonio  
+foku - concentrar (enfocarse)  
+foni - fono (segmento acústico)  
+fonilogi - fonología  
+fonime - fonema  
+foni zi - letra (carácter)  
 fonte - fuente (manantial)  
 fonte kalam - estilógrafo  
+fonyo - mijo fonio  
 for - lejos (fuera)  
 fora - taladrar (perforar)  
 forke - tenedor  
@@ -2221,7 +2221,13 @@ letus - lechuga
 leu - izquierdo  
 leu di - izquierdo  
 leu sim ja - izquerdista  
-lexima - palabra (vocablo)  
+lexi - palabra (vocablo)  
+lexi asal - etimología  
+lexi fen - sílaba  
+lexi jama - vocabulario (léxico)  
+lexi li - léxico  
+lexi liste - disionario (lexicón)  
+lexime - lexema  
 liama - llama  
 Libanen - Líbano  
 libele - libélula  
@@ -2267,12 +2273,7 @@ lito yum - litio
 litre - litro  
 livermor yum - livermorio  
 loba - rábano  
-loga - habla (palabras)  
-loga asal - etimología  
-loga di - léxico  
-loga fen - sílaba  
-loga jama - vocabulario (léxico)  
-loga liste - disionario (lexicón)  
+loga - habla  
 loga tabi di - hablador (locuaz)  
 loge - registro (archivo, anotación)  
 loge buku - libro de registro  
@@ -3603,8 +3604,8 @@ tela - tela (paño, tejido)
 tela gi - telar  
 tele - lo lejos  
 tele di - lejano (lejos)  
+tele fon - telefono  
 tele fon bude - cabina telefónica  
-tele fon gi - telefono  
 tele fon suta - telefonía  
 teleta - distancia  
 tele vide gi - televisión  

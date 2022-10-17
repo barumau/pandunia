@@ -1123,7 +1123,7 @@ diameter - tralongta
 diamond - adamas  
 diary (daily log) - den loge  
 dichotomy - dutomi  
-dictionary (word list) - loga liste  
+dictionary (word list) - lexi liste  
 die (death; dead, deceased) - mata  
 die (dice) - zar kube  
 die - be mata  
@@ -1354,7 +1354,7 @@ ethnic - zuku di
 ethnic group - zuku  
 ethyl - etil  
 etiquette (protocol, procedure) - buro riti  
-etymology - loga asal  
+etymology - lexi asal  
 eugenics - eu gene sim  
 Eurasia - Eurasia  
 euro (€) - euro  
@@ -1558,11 +1558,11 @@ fluoride - fluride
 fluorine - flur  
 fly (go through air) - fa fei  
 fly - zeze  
-focus (concentration) - fokus  
+focus (concentration) - foku  
 fog (mist, haze) - dipe megi  
 folder (directory) - dokumen sanduku  
 follow (come after) - fa pos  
-fonio millet (acha rice) - foni  
+fonio millet (acha rice) - fonyo  
 font - zi forma  
 food (meal) - yam xe  
 fool (buffoon) - bobo  
@@ -2300,13 +2300,15 @@ lesson (teaching) - xula xe
 let's - haide  
 lethal - letali  
 lethal dose - letali doze  
-letter (character, written symbol) - fon zi  
+letter (character, written symbol) - foni zi  
 letter (written message) - letre  
 lettuce - letus  
 level - par fase  
 level down - dipe gradu  
 level up (graduate) - be gau gradu  
 lever - tire kane  
+lexeme - lexime  
+lexical - lexi li  
 liberal - huru sim di  
 liberalism - huru sim  
 liberalist - huru sim ja  
@@ -3124,9 +3126,10 @@ philosopher - filsofi ja
 philosophic - filsofi di  
 philosophy - filsofi  
 Phobos - Fobos  
-phone (speech sound) - fon  
-phoneme - fonma  
-phonology - fonlogi  
+phone (speech sound) - foni  
+phone (telephone) - fon  
+phoneme - fonime  
+phonology - fonilogi  
 phosphate - fosfate  
 phosphorus - fosfe  
 photograph - foto grafi  
@@ -3336,7 +3339,7 @@ promise (pledge) - fa vode
 promise (vow, oath) - vode  
 pronoun - vise loga  
 pronounce (articulate) - fa fon  
-pronounce (articulate) - fon loga  
+pronounce (articulate) - foni loga  
 proof (evidence, proof, demonstration, testimony) - dalil  
 propel (drive forward) - propele  
 propeller - propeler  
@@ -3710,7 +3713,7 @@ selfish - se di
 sell (vend) - vende  
 semantics - semi logi  
 semaphore - semi forar  
-sememe - semima  
+sememe - semime  
 seminal - seme di  
 senator - supra vakil ja  
 send (emit, transmit) - miti  
@@ -3915,7 +3918,7 @@ spearmint - kane minte
 special (distinct) - has  
 species - jung  
 spectator (sightseer, observer) - vide ja  
-speech (talk, words) - loga  
+speech (talk) - loga  
 speed (velocity) - sugata  
 speedometer - suga metre gi  
 spell (enchantment) - magi asar  
@@ -3927,7 +3930,7 @@ spirit (soul, vitality, life force) - jini
 spit - tuh  
 split (dissect) - tomi  
 split (fall apart, divide, separate) - be fen  
-spoken (lexical) - loga di  
+spoken - loga di  
 sponge - esponje  
 spoon - camaca  
 sport (athletics) - esporte  
@@ -4065,7 +4068,7 @@ sweet orange - sukre oranje
 sweet potato - kamote  
 Switzerland - Suise  
 sword - gem  
-syllable - loga fen  
+syllable - lexi fen  
 symbol (emblem) - simbol  
 symmetry (symmetrical) - sam metre  
 synchretism - sinkredisim  
@@ -4131,7 +4134,7 @@ technique (technology) - tehni
 technocracy - tehni krati  
 technology (study of techniques) - tehni logi  
 tectonic plate - geo kaska plate  
-telephone - tele fon gi  
+telephone - tele fon  
 telephone booth - tele fon bude  
 telephone line - tele fon lin  
 telephone number - tele fon nume  
@@ -4460,7 +4463,7 @@ visitor (guest) - keka ja
 visual field (field of vision) - vide medan  
 vitamin - vitamin  
 vivisection - jivatomi  
-vocabulary (lexicon) - loga jama  
+vocabulary (lexicon) - lexi jama  
 volcanic glass - hogo xan kanca  
 volcano - hogo xan  
 volt (V) - volta  
@@ -4595,7 +4598,7 @@ wonderful (marvel, mirable) - mirabil
 wood (timber) - moka mate  
 wood board (plank) - moka bano  
 wool (fleece) - meme kexa  
-word (lexeme) - lexima  
+word - lexi  
 word processing - kitaba culi  
 work (job, task) - karxe  
 work - kar  

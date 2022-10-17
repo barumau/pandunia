@@ -409,10 +409,10 @@
 **flexi** *bend (flex)* ← English:flex, French:fléchir, Spanish:Portuguese:flexionar + deu:Reflex, Russian:рефлекс, Turkish:refleks  
 **flur** *fluorine* ← English:fluorine, French:fluor, Spanish:flúor, Portuguese:flúor, Russian:фтор, Mandarin:氟 (fú), Japanese:フッ素, Korean:플루오르, Vietnamese:flo, Hindi:फ्लोरीन, Bengali:ফ্লুরিন, Malay:fluor, Swahili:florini, Arabic: فلور  
 **fobi** *fear (phobia)* ← English:-phobia, Spanish:Portuguese:Malay:-fobia, French:deu:-phobie, Russian:-фобия (-fobiya), Turkish:-fobi  
-**fokus** *focus (concentration)* ← English:focus, Spanish:Portuguese:foco, deu:Fokus, Russian:фо́кус, Persian:فوکوس‎ (fokus)  
-**fon** *phone (speech sound)* ← English:French:phone, Spanish:fono, Portuguese:fone, Russian:фона (fona), Malay:fon  
-**foni** *fonio millet (acha rice)* ← Wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, Fulani:fonnye, Swahili:mfonio, English:French:Spanish:Malay:fonio, deu:Foniohirse, Japanese:フォニオ (fonio)  
+**foku** *focus (concentration)* ← English:focus, Spanish:Portuguese:foco, deu:Fokus, Russian:фо́кус, Persian:فوکوس‎ (fokus)  
+**foni** *phone (speech sound)* ← English:French:phone, Spanish:fono, Portuguese:fone, Russian:фона (fona), Malay:fon + Persian: تلفن‎ (telefon), Hindi:फ़ोन (fon), Bengali:ফোন (phon), Turkish:telefon  
 **fonte** *fountain (spring, well)* ← Portuguese:fonte, Spanish:fuente, Russian:фонтан (fontan), French:fontaine, English:fountain, Japanese:噴水 (funsui)  
+**fonyo** *fonio millet (acha rice)* ← Wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, Fulani:fonnye, Swahili:mfonio, English:French:Spanish:Malay:fonio, deu:Foniohirse, Japanese:フォニオ (fonio)  
 **for** *off (away, gone, far-off)* ← Spanish:fuera, Portuguese:fora, deu:fort + English:far  
 **fora** *drill (bore, perforate)* ← French:forer, Portuguese:furar, English:perforate, Spanish:perforar  
 **forke** *fork* ← English:fork, Spanish:horca, Portuguese:forcado, French:fourche, Tamil:போர்க் (pōrk), Japanese:フォーク (fōku), Korean:포크 (pokeu)  
@@ -858,6 +858,7 @@
 **letre** *letter (written message)* ← English:letter, French:lettre, Hindi:लेटर (leṭar), Japanese:ター (retā)  
 **letus** *lettuce* ← English:lettuce, Japanese:レタス (retasu), Hausa:latas, Hindi:लेटिष (leṭiṣ), Bengali:লেটুস (leṭus), French:laitue  
 **leu** *left* ← Latin:laevus, English:left; levo-, French:lévo-, Spanish:Portuguese:levo-, Russian:левый (levyy), Polish:lewy  
+**lexi** *word* ← deu:English:French:Spanish:Portuguese:lex-, Russian:лекс- (leks-), Malay:leks-  
 **li** *like or characteristic of the previous word (-like, -ly, -al)* ← English:-al; -ly, Spanish:Portuguese:-al + Turkish:-li; -lı; -lu; -lü  
 **liama** *llama* ← English:Spanish:Malay:llama, Portuguese:lhama, Russian:лама (lama), Turkish:Swahili:lama, Arabic:لاما (lama), Hindi:लामा (lāma), Japanese:ラマ (rama)  
 **libele** *dragonfly* ← Spanish:Portuguese:libélula, French:libellule, deu:Libelle  
@@ -882,7 +883,7 @@
 **litre** *litre (liter)* ← English:French:Turkish:litre, deu:Malay:liter, Spanish:Portuguese:litro, Russian:литр (litr), Polish:litr, Arabic: لتر‎(litr), Hindi:लीटर (līṭar), Bengali:লিটার (liṭar), Japanese:リットル (rittoru), Korean:리터 (riteo), Vietnamese:lít, Swahili:lita  
 **livermor yum** *livermorium* ← English:French:livermorium, Spanish:livermorio, Portuguese:livermório, Russian:ливерморий, Mandarin: (lì), Japanese:リバモリウム, Korean:리버모륨, Vietnamese:livermori, Malay:livermorium, Swahili:livermori  
 **loba** *radish* ← Mandarin:萝卜 (luóbo), Cantonese:蘿蔔 (lobaak), Malay:lobak  
-**loga** *speech (talk, words)* ← Greek:λόγος (logos), English:French:-logue, Spanish:Portuguese:-logo, Russian:-лог (-log), Persian:(loğat), Arabic:(luğa), Hindi:लुग़त (luġat), Swahili:lugha, Turkish:lügat, Malay:logat  
+**loga** *speech (talk)* ← Greek:λόγος (logos), English:French:-logue, Spanish:Portuguese:-logo, Russian:-лог (-log), Persian:(loğat), Arabic:(luğa), Hindi:लुग़त (luġat), Swahili:lugha, Turkish:lügat, Malay:logat  
 **loge** *register (record, log)* ← English:log + Mandarin:录 (lù), Cantonese:錄 (luk6), Japanese:録 (roku), Korean:록 (rok), Vietnamese:lục  
 **logi** *study (research, science, -ology)* ← English:-ology, Spanish:-ología, French:-ologie, Russian:ология (-ologiya), Turkish:-loji  
 **logika** *logic (deduction)* ← English:logic, Spanish:Portuguese:lógica, Russian:логика (logika), Mandarin:逻辑 (luóji)  

@@ -1052,7 +1052,12 @@ letali - летальный
 letre - письмо  
 letus - салат-латук  
 leu - левый  
-lexima - слово (речь)  
+lexi - слово (речь)  
+lexi asal - этимология  
+lexi fen - слог  
+lexi jama - словарь  
+lexi li - лексический  
+lexime - лексема  
 liama - лама  
 libele - стрекоза  
 lida ja - руководитель (лидер)  
@@ -1074,10 +1079,6 @@ lito yum - литий
 litre - литр  
 livermor yum - ливерморий  
 loga - речь  
-loga asal - этимология  
-loga di - лексический  
-loga fen - слог  
-loga jama - словарь  
 loge - запись  
 loge buku - судовой журнал  
 logi safar ja - исследователь  
@@ -1684,8 +1685,8 @@ tehni logi - технология
 tehni yum - технеций  
 tela - ткань  
 tela gi - ткацкий станок  
+tele fon - телефон  
 tele fon bude - телефонная будка  
-tele fon gi - телефон  
 tele fon lin - телефонная линия  
 tele fon suta - телефония  
 tele vide gi - телевизор  

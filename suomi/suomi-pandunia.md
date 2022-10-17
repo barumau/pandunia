@@ -488,7 +488,7 @@ Etiopia - Etiopia
 etninen - zuku di  
 että - ki  
 etuliite (prefiksi) - cen fixe  
-etymologia - loga asal  
+etymologia - lexi asal  
 etyyli - etil  
 etäisyys (kaukaisuus) - tele  
 etäisyys - teleta  
@@ -529,8 +529,8 @@ flerovium - flerof yum
 fluori - flur  
 fluoridi - fluride  
 Fobos - Fobos  
-fonio (heinäkasvi) - foni  
-fonologia (äänneoppi) - fonlogi  
+fonio (heinäkasvi) - fonyo  
+fonologia (äänneoppi) - fonilogi  
 foorumi - forum  
 fosfaatti - fosfate  
 fosfori - fosfe  
@@ -1273,7 +1273,7 @@ keräilykortti - jami karte
 keskeyttää (tauottaa) - fa pauza  
 Keski-Afrikan Tasavalta - Jong Afrika Vakilkrati  
 keskipäivä (puolipäivä) - medi dia  
-keskittyminen (keskittymä) - fokus  
+keskittyminen (keskittymä) - foku  
 keskittyä (olla keskellä) - a jong  
 keskittää - fa fokus  
 keskittää - fa jong  
@@ -1360,7 +1360,7 @@ kireä (tiukka, jännittynyt) - tense
 Kirgistan (Kirgisia) - Kirgize  
 Kiribati - Kiribati  
 kirja - buku  
-kirjain - fon zi  
+kirjain - foni zi  
 kirjallisuus - kitaba suta  
 kirjasto - kitabakan  
 kirje - letre  
@@ -1740,6 +1740,7 @@ leipuri - baka ja
 leipä - pang  
 leiri - kampe  
 leirintäalue - kampe bagi  
+lekseemi - lexime  
 lempi (romanssi, rakkaus) - romanse  
 lento - fei  
 lentoasema (lentokenttä) - air porte  
@@ -2763,14 +2764,16 @@ Puerto Rico - Portoriko
 puertoricolainen - portoriko jen  
 puhdas (siivo, siisti) - safa  
 puhdistaa (siivota) - fa safa  
-puhe (sanat) - loga  
 puhelias - loga tabi di  
-puhelin - tele fon gi  
+puhelin - fon  
+puhelin - tele fon  
 puhelinjohto - tele fon lin  
 puhelinkoppi - tele fon bude  
 puhelinnumero - tele fon nume  
 puhelintekniikka - tele fon suta  
 puhua (kieli, kommunikaatio) - baxa  
+puhua (puhe) - loga  
+puhuttu (sanallinen) - loga di  
 pukea (vaatettaa) - fa fuku  
 pukeutua (pitää vaatetta yllään) - fa fuku  
 pullo - botel  
@@ -3068,10 +3071,10 @@ Sambia - Zambia
 sammal - mos  
 Samoa - Samoa  
 San Marino - Sante Marino  
-sana - lexima  
-sanallinen (puhuttu) - loga di  
-sanaluettelo - loga liste  
-sanasto - loga jama  
+sana - lexi  
+sanaluettelo - lexi liste  
+sanasto - lexi jama  
+sanastollinen - lexi li  
 sankari (urho) - hero  
 sankaritaru (legenda) - hero kata  
 sanko (ämpäri) - baldi  
@@ -3140,7 +3143,7 @@ selkeyttää (selittää) - fa klar
 selkä - ruke  
 selviytyä - trajiva  
 selvä (selkeä) - klar  
-semeemi - semima  
+semeemi - semime  
 sementti - semente  
 senaattori - supra vakil ja  
 Senegal - Senegal  
@@ -3514,7 +3517,7 @@ taulutietokone (tabletti) - table komputa
 tavallinen - ada di  
 tavanomainen (perinteinen) - suna di  
 tavata (tapaaminen, kokous) - ajami  
-tavu - loga fen  
+tavu - lexi fen  
 te - tumen  
 tee - cai  
 teehuone (kahvila) - caikan  
@@ -4243,10 +4246,10 @@ zulu - Zulu
 ääni (äänestyksessä) - vote  
 ääni - soni  
 äänioikeus - vote haki  
-äänne (foneemi) - fonma  
-äänne (fooni) - fon  
+äänne (foneemi) - fonime  
+äänne (fooni) - foni  
 ääntää (lausua) - fa fon  
-ääntää (lausua) - fon loga  
+ääntää (lausua) - foni loga  
 ääntää - fa soni  
 äärettömyys (rajattomuus) - anlimite  
 ĉampano - xampan vin  

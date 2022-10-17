@@ -691,8 +691,8 @@ fizika suta - fiziko
 flur - fluoro  
 fobi - timo (fobio)  
 fobi ja - timiga  
-fokus - koncentriĝo  
-fon zi - litero  
+foku - koncentriĝo  
+foni zi - litero  
 fora - taladri  
 forke - forko  
 forma - formo  
@@ -1214,7 +1214,13 @@ leng mosim di - vintra
 lenxi - ekzerco  
 letre - letero  
 letus - laktuko  
-lexima - vorto  
+lexi - vorto  
+lexi asal - etimologio  
+lexi fen - silabo  
+lexi jama - vortaro  
+lexi li - vorta  
+lexi liste - vortaro  
+lexime - leksemo  
 libele - libelo  
 liga di sanduku - Kesto de Interligo  
 lima - kvin (5)  
@@ -1230,12 +1236,8 @@ liste - listo
 lito yum - litio  
 litre - litro  
 loba - rafaneto  
-loga - parolo  
-loga asal - etimologio  
-loga di - vorta  
-loga fen - silabo  
-loga jama - vortaro  
-loga liste - vortaro  
+loga - paroli  
+loga di - parola  
 loga tabi di - parolema  
 loge - registraĵo  
 logi - scienco  
@@ -1870,7 +1872,7 @@ tehni logi - teknologio
 tehni yum - teknecio  
 tele - malproksimeco  
 tele di - malproksima  
-tele fon gi - telefono  
+tele fon - telefono  
 tele vide gi - televidilo  
 teleskope - teleskopo  
 telu yum - teluro  

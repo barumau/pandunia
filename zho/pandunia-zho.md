@@ -951,7 +951,10 @@ lense - 透镜
 letre - 信 (书信)  
 letus - 莴苣  
 leu - 左  
-lexima - 词  
+lexi - 词  
+lexi fen - 音节  
+lexi jama - 词汇  
+lexime - 词位  
 liama - 大羊駝  
 libele - 蜻蜓  
 lida ja - 领导  
@@ -971,9 +974,6 @@ lisan - 舌头
 liste - 单子  
 lito yum - 锂  
 litre - 升  
-loga - 语言  
-loga fen - 音节  
-loga jama - 词汇  
 loge - 纪录  
 loge buku - 航海日志  
 loka - 地方  
@@ -1513,8 +1513,8 @@ tehni logi - 工艺学
 tehni yum - 锝  
 tela - 布料  
 tela gi - 织机  
+tele fon - 电话机  
 tele fon bude - 电话亭  
-tele fon gi - 电话机  
 tele fon lin - 电话线  
 tele vide gi - 电视机  
 teleskope - 望远镜  

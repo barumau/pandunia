@@ -869,7 +869,7 @@ comunista - kon sana sim ja
 común (comunitario) - konun  
 con (común) - kon  
 concentración - fa fokus  
-concentrar (enfocarse) - fokus  
+concentrar (enfocarse) - foku  
 conceptual - idea di  
 concienciado (iluminado) - budi di  
 concierto - konserte  
@@ -1192,7 +1192,7 @@ discreto - alo fen di
 discusión (debate, discurso) - lona  
 disentir (no estar de acuerdo) - fa alo rai  
 disfrutar (jugar) - be vanu  
-disionario (lexicón) - loga liste  
+disionario (lexicón) - lexi liste  
 disparar - pau  
 dispersar (esparcir, desmontar) - anjami  
 disposición (naturaleza, carácter, -ivo) - tabi  
@@ -1463,7 +1463,7 @@ etano - etan
 etanol - etanol  
 etapa (fase) - faze  
 etilo - etil  
-etimología - loga asal  
+etimología - lexi asal  
 Etiopía - Etiopia  
 etiqueta (boleto, billete) - tikete  
 etiqueta (protocolo) - buro riti  
@@ -1572,9 +1572,9 @@ flotador (boya) - boi
 fluir - be dara  
 fluoruro - fluride  
 flúor - flur  
-fonema - fonma  
-fono (segmento acústico) - fon  
-fonología - fonlogi  
+fonema - fonime  
+fono (segmento acústico) - foni  
+fonología - fonilogi  
 forma (figura, morfo) - forma  
 formar - fa forma  
 formateo - kitaba forma  
@@ -1777,7 +1777,7 @@ género social - sosi jinse
 
 habilidad (capacidad) - bilta  
 habitación (cuarto, sala, pieza) - kamar  
-habla (palabras) - loga  
+habla - loga  
 hablador (locuaz) - loga tabi di  
 hablante de Pandunia - pandunia ja  
 hace girar (dar vueltas) - fa rota  
@@ -2184,11 +2184,12 @@ lento (despacio) - anhaste
 Lesoto - Soto  
 letal - letali  
 Letonia - Latvia  
-letra (carácter) - fon zi  
+letra (carácter) - foni zi  
 letra negrita - gros zi  
 levadura - hamir  
 levantar (elevar) - fa gau  
 leve - ligu  
+lexema - lexime  
 leño (tronca) - moka tana  
 león - singa  
 liar (enrollar) - fa rolo  
@@ -2277,7 +2278,7 @@ lámpara - lampa
 lápida - gabur seku  
 lápiz - karbe kalam  
 látigo (fusta) - bici  
-léxico - loga di  
+léxico - lexi li  
 Líbano - Libanen  
 límite (frontera, linde) - limite  
 líquido (fluido) - dara mate di  
@@ -2479,7 +2480,7 @@ migración - migra
 migrar (emigrar, tralsadar) - fa migra  
 migrarse (mudarse, trasladarse) - be migra  
 mijo - dana.cau  
-mijo fonio - foni  
+mijo fonio - fonyo  
 mil (kilo-) - kilo  
 mili- - mili  
 miligrama - mili gram  
@@ -2813,7 +2814,7 @@ pagano (infiel) - kafir
 pago - pei  
 Pakistán - Pakistan  
 pala - bele  
-palabra (vocablo) - lexima  
+palabra (vocablo) - lexi  
 palacio (mansión) - dai dom  
 paladar - boka cati  
 paladio - paladi yum  
@@ -3650,7 +3651,7 @@ Svalbard - Sualbarde
 sábado - den luka  
 sándwich (sánduche) - sanduice  
 sí - ya  
-sílaba - loga fen  
+sílaba - lexi fen  
 símbolo - simbol  
 sólido - gati mate  
 
@@ -3708,7 +3709,7 @@ tela - pente tela
 telar - tela gi  
 telaraña - arane nete  
 telefonear - fa tele fon  
-telefono - tele fon gi  
+telefono - tele fon  
 telefonía - tele fon suta  
 telescopio - teleskope  
 teletransportarse - be tele loka  
@@ -3997,7 +3998,7 @@ vivir (residir) - be dom
 vivir (vivo; vida) - jiva  
 vivisección - jivatomi  
 viñedo - putau bagi  
-vocabulario (léxico) - loga jama  
+vocabulario (léxico) - lexi jama  
 vocal - jong fon  
 vocal - voka soni  
 volar - fa fei  

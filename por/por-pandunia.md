@@ -628,7 +628,7 @@ estudar (examinar) - fa estude
 etano - etan  
 etanol - etanol  
 etila - etil  
-etimologia - loga asal  
+etimologia - lexi asal  
 etnia - zuku  
 eu (me) - mi  
 európio - europa yum  
@@ -656,7 +656,7 @@ face (faceta) - fase
 facção - xia  
 fada - pari  
 fadiga - fatige  
-fala (palavras) - loga  
+fala - loga  
 falar - fa loga  
 farmacologia - dava xelogi  
 farmácia (drogaria) - dava xekan  
@@ -920,6 +920,7 @@ ler - dugu
 letal - letali  
 Letónia - Latvia  
 leve - ligu  
+lexema - lexime  
 lhama - liama  
 libélula - libele  
 licor - araki  
@@ -959,7 +960,7 @@ lápis - kalam
 lápis - karbe kalam  
 lápis-lazúli - lazur petra  
 lâmpada (luminária) - lampa  
-léxico - loga di  
+léxico - lexi li  
 líder (chefe) - lida ja  
 língua (idioma) - baxa  
 língua - lisan  
@@ -1212,7 +1213,7 @@ padrasto - vise pa
 pai - pa  
 painel - bano  
 palato (céu da boca) - boka cati  
-palavra (vocábulo) - lexima  
+palavra (vocábulo) - lexi  
 palavra-passe (senha) - pas loga  
 palácio (mansão, palacete) - dai dom  
 paládio - paladi yum  
@@ -1577,7 +1578,7 @@ São Paulo - Sante Paulo
 século - sento nen  
 série (sequência) - seri  
 sênior - sen  
-sílaba - loga fen  
+sílaba - lexi fen  
 símbolo - simbol  
 só (solitário) - un zai di  
 sódio - natri  
@@ -1732,7 +1733,7 @@ vivisecção - jivatomi
 Vixnu - Vixnu  
 viúvo - vidou  
 voar - fa fei  
-vocabulário - loga jama  
+vocabulário - lexi jama  
 vogal - jong fon  
 vogal - voka soni  
 voltar (regressar) - be retro  

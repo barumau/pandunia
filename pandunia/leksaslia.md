@@ -442,10 +442,10 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**flexi**|eng:flex, fra:fléchir, spa:por:flexionar + deu:Reflex, rus:рефлекс, tur:refleks|
 |**flur**|eng:fluorine, fra:fluor, spa:flúor, por:flúor, rus:фтор, zho:氟 (fú), jpn:フッ素, kor:플루오르, vie:flo, hin:फ्लोरीन, ben:ফ্লুরিন, may:fluor, swa:florini, ara: فلور|
 |**fobi**|eng:-phobia, spa:por:may:-fobia, fra:deu:-phobie, rus:-фобия (-fobiya), tur:-fobi|
-|**fokus**|eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)|
-|**fon**|eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon|
-|**foni**|wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)|
+|**foku**|eng:focus, spa:por:foco, deu:Fokus, rus:фо́кус, fas:فوکوس‎ (fokus)|
+|**foni**|eng:fra:phone, spa:fono, por:fone, rus:фона (fona), may:fon + fas: تلفن‎ (telefon), hin:फ़ोन (fon), ben:ফোন (phon), tur:telefon|
 |**fonte**|por:fonte, spa:fuente, rus:фонтан (fontan), fra:fontaine, eng:fountain, jpn:噴水 (funsui)|
+|**fonyo**|wol:foño, bam:fini, mnk:fíndi, mku:fónĩ, ful:fonnye, swa:mfonio, eng:fra:spa:may:fonio, deu:Foniohirse, jpn:フォニオ (fonio)|
 |**for**|spa:fuera, por:fora, deu:fort + eng:far|
 |**fora**|fra:forer, por:furar, eng:perforate, spa:perforar|
 |**forke**|eng:fork, spa:horca, por:forcado, fra:fourche, tam:போர்க் (pōrk), jpn:フォーク (fōku), kor:포크 (pokeu)|
@@ -891,6 +891,7 @@ pandunia lexi ya lai de poli baxa de dunia.
 |**letre**|eng:letter, fra:lettre, hin:लेटर (leṭar), jpn:ター (retā)|
 |**letus**|eng:lettuce, jpn:レタス (retasu), hau:latas, hin:लेटिष (leṭiṣ), ben:লেটুস (leṭus), fra:laitue|
 |**leu**|ltn:laevus, eng:left; levo-, fra:lévo-, spa:por:levo-, rus:левый (levyy), pol:lewy|
+|**lexi**|deu:eng:fra:spa:por:lex-, rus:лекс- (leks-), may:leks-|
 |**li**|eng:-al; -ly, spa:por:-al + tur:-li; -lı; -lu; -lü|
 |**liama**|eng:spa:may:llama, por:lhama, rus:лама (lama), tur:swa:lama, ara:لاما (lama), hin:लामा (lāma), jpn:ラマ (rama)|
 |**libele**|spa:por:libélula, fra:libellule, deu:Libelle|

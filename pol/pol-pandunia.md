@@ -269,9 +269,10 @@
  - fobi di  
  - fobi ja  
  - Fobos  
- - fon loga  
- - foni  
+ - fon  
+ - foni loga  
  - fonte kalam  
+ - fonyo  
  - for  
  - foto lin  
  - foto mata di  
@@ -477,6 +478,7 @@
  - ligu  
  - limon jus  
  - limon oranje  
+ - loga di  
  - loga fili  
  - loge cuti  
  - loge jin  
@@ -663,7 +665,7 @@
  - sekur kopi  
  - semi forar  
  - semi logi  
- - semima  
+ - semime  
  - sen  
  - sen bei  
  - sen bra  
@@ -1602,7 +1604,7 @@ etap, faza - faze
 Etiopia - Etiopia  
 etniczny - zuku di  
 etyka - moral logi  
-etymologia - loga asal  
+etymologia - lexi asal  
 Eurazja - Eurasia  
 euro (€) - euro  
 europ - europa yum  
@@ -1648,8 +1650,8 @@ flerow - flerof yum
 fluor - flur  
 fluorek - fluride  
 folder (teczka) - dokumen sanduku  
-fonem - fonma  
-fonologia - fonlogi  
+fonem - fonime  
+fonologia - fonilogi  
 fontanna (studnia, źródło) - fonte  
 forma, kształt, morf - forma  
 formatowanie - kitaba forma  
@@ -1783,7 +1785,7 @@ gęś - ganse
 gładki - lis  
 głaz - dai seku  
 głos - vote  
-głoska - fon  
+głoska - foni  
 głosować (złożyć głos) - fa vote  
 głowa - sar  
 głupi (idiotyczny) - idiote di  
@@ -2302,6 +2304,7 @@ lazania - lazanya
 lejek - dara tubo  
 lekcja - xula xe  
 lekki - ligu veze di  
+leksem - lexime  
 lepić (kleić) - fa glu  
 lepki (kleisty) - glu di  
 Lesotho - Soto  
@@ -2333,12 +2336,12 @@ linia (nić, lina, pas, pręga, smuga, dratwa) - lin
 lipiec - mes nelu  
 lis - huli  
 list - letre  
-lista słów - loga liste  
+lista słów - lexi liste  
 lista, spis, wykaz - liste  
 listopad - mes bati  
 listownicowiec - yepa alga  
 lit - lito yum  
-litera, znak - fon zi  
+litera, znak - foni zi  
 litewski - lietuva baxa  
 litr - litre  
 Litwa - Lietuva  
@@ -2575,6 +2578,7 @@ most - kio
 motocykl (motor) - moto sikle  
 motyka - copu  
 motyl - pelpel  
+mowić (mowa) - loga  
 Mozambik - Mozambike  
 Mołdawia - Moldova  
 może - bil e  
@@ -3643,7 +3647,7 @@ skradanie się - sirta
 skradać się - sir move  
 skrzydło - panka  
 skrócić, skracać - korte fa  
-skupienie, koncentracja - fokus  
+skupienie, koncentracja - foku  
 skupić, się, skoncentrować się - fa fokus  
 skwer, plac - medan  
 skwierczeć - zizi  
@@ -3774,7 +3778,7 @@ suszyć (wysuszyć) - fa gan
 Swalbard - Sualbarde  
 swastyka - huke krus  
 Syberia - Sibiria  
-sylaba (zgłoska) - loga fen  
+sylaba (zgłoska) - lexi fen  
 symbol - simbol  
 syn - son  
 sypialnia - sona kamar  
@@ -3861,10 +3865,9 @@ Słowacja - Slovakia
 Słowenia - Slovenia  
 słowiański - Slave  
 słowik - bulbul  
-słownictwo - loga jama  
-słowny (leksykalny) - loga di  
-słowo - lexima  
-słowo (mowa) - loga  
+słownictwo - lexi jama  
+słowny (leksykalny) - lexi li  
+słowo - lexi  
 słoń - gaja  
 słońce - sol  
 słuchać - fa ore  
@@ -3913,7 +3916,7 @@ technologia, nauka o technikach - tehni logi
 teistyczny - deu din ja  
 teizm - deu din  
 tektonika płyt - plate geo kaskalogi  
-telefon - tele fon gi  
+telefon - tele fon  
 teleportować się - be tele loka  
 teleskop - teleskope  
 telewizja - tele vide gi  

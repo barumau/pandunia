@@ -1425,15 +1425,16 @@ fobi - strach, fobia
 fobi di -   
 fobi ja -   
 Fobos -   
-fokus - skupienie, koncentracja  
-fon - głoska  
-fon loga -   
-fonlogi - fonologia  
-fonma - fonem  
-fon zi - litera, znak  
-foni -   
+foku - skupienie, koncentracja  
+fon -   
+foni - głoska  
+foni loga -   
+fonilogi - fonologia  
+fonime - fonem  
+foni zi - litera, znak  
 fonte - fontanna (studnia, źródło)  
 fonte kalam -   
+fonyo -   
 for -   
 fora - wiercić, borować  
 forke - widelec  
@@ -2551,7 +2552,13 @@ letus - sałata
 leu - lewy (lewostronny, z lewej strony)  
 leu di - lewy (lewostronny, z lewej strony)  
 leu sim ja - lewicowiec (lewak)  
-lexima - słowo  
+lexi - słowo  
+lexi asal - etymologia  
+lexi fen - sylaba (zgłoska)  
+lexi jama - słownictwo  
+lexi li - słowny (leksykalny)  
+lexi liste - lista słów  
+lexime - leksem  
 li -   
 liama - lama  
 Libanen - Liban  
@@ -2600,15 +2607,11 @@ lito yum - lit
 litre - litr  
 livermor yum - liwermor  
 loba - rzodkiewka  
-loga - słowo (mowa)  
-loga asal - etymologia  
-loga di - słowny (leksykalny)  
-loga fen - sylaba (zgłoska)  
+loga - mowić (mowa)  
+loga di -   
 loga fili -   
 loga fili ja - logofil (miłośnik słów)  
 loga ironi - sarkazm  
-loga jama - słownictwo  
-loga liste - lista słów  
 loga tabi di - rozmowny  
 loge - rejestr  
 loge buku - dziennik pokładowy (notatnik)  
@@ -3838,7 +3841,7 @@ semi - znaczyć
 • un semi di - jednoznaczny  
 semi forar -   
 semi logi -   
-semima -   
+semime -   
 sen -   
 sen bei -   
 sen bra -   
@@ -4098,8 +4101,8 @@ tela - tkanina (materiał, sukno)
 tela gi - krosno  
 tele - dystans  
 tele di - daleki, odległy  
+tele fon - telefon  
 tele fon bude -   
-tele fon gi - telefon  
 tele fon lin -   
 tele fon nume -   
 tele fon suta -   

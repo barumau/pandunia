@@ -409,10 +409,10 @@
 **flexi** ** ← englanti:flex, ranska:fléchir, espanja:portugali:flexionar + deu:Reflex, venäjä:рефлекс, turkki:refleks  
 **flur** *fluori* ← englanti:fluorine, ranska:fluor, espanja:flúor, portugali:flúor, venäjä:фтор, yleiskiina:氟 (fú), japani:フッ素, korea:플루오르, vietnami:flo, hindi:फ्लोरीन, bangla:ফ্লুরিন, malaiji:fluor, suahili:florini, arabia: فلور  
 **fobi** *kammo (fobia)* ← englanti:-phobia, espanja:portugali:malaiji:-fobia, ranska:deu:-phobie, venäjä:-фобия (-fobiya), turkki:-fobi  
-**fokus** *keskittyminen (keskittymä)* ← englanti:focus, espanja:portugali:foco, deu:Fokus, venäjä:фо́кус, persia:فوکوس‎ (fokus)  
-**fon** *äänne (fooni)* ← englanti:ranska:phone, espanja:fono, portugali:fone, venäjä:фона (fona), malaiji:fon  
-**foni** *fonio (heinäkasvi)* ← wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, fulani:fonnye, suahili:mfonio, englanti:ranska:espanja:malaiji:fonio, deu:Foniohirse, japani:フォニオ (fonio)  
+**foku** *keskittyminen (keskittymä)* ← englanti:focus, espanja:portugali:foco, deu:Fokus, venäjä:фо́кус, persia:فوکوس‎ (fokus)  
+**foni** *äänne (fooni)* ← englanti:ranska:phone, espanja:fono, portugali:fone, venäjä:фона (fona), malaiji:fon + persia: تلفن‎ (telefon), hindi:फ़ोन (fon), bangla:ফোন (phon), turkki:telefon  
 **fonte** *lähde (kaivo)* ← portugali:fonte, espanja:fuente, venäjä:фонтан (fontan), ranska:fontaine, englanti:fountain, japani:噴水 (funsui)  
+**fonyo** *fonio (heinäkasvi)* ← wolof:foño, bam:fini, mnk:fíndi, mku:fónĩ, fulani:fonnye, suahili:mfonio, englanti:ranska:espanja:malaiji:fonio, deu:Foniohirse, japani:フォニオ (fonio)  
 **for** *pois (poissa)* ← espanja:fuera, portugali:fora, deu:fort + englanti:far  
 **fora** *porata* ← ranska:forer, portugali:furar, englanti:perforate, espanja:perforar  
 **forke** *haarukka* ← englanti:fork, espanja:horca, portugali:forcado, ranska:fourche, tamili:போர்க் (pōrk), japani:フォーク (fōku), korea:포크 (pokeu)  
@@ -858,6 +858,7 @@
 **letre** *kirje* ← englanti:letter, ranska:lettre, hindi:लेटर (leṭar), japani:ター (retā)  
 **letus** *lehtisalaatti* ← englanti:lettuce, japani:レタス (retasu), hausa:latas, hindi:लेटिष (leṭiṣ), bangla:লেটুস (leṭus), ranska:laitue  
 **leu** *vasen* ← latina:laevus, englanti:left; levo-, ranska:lévo-, espanja:portugali:levo-, venäjä:левый (levyy), puola:lewy  
+**lexi** *sana* ← deu:englanti:ranska:espanja:portugali:lex-, venäjä:лекс- (leks-), malaiji:leks-  
 **li** *kaltainen (-llinen)* ← englanti:-al; -ly, espanja:portugali:-al + turkki:-li; -lı; -lu; -lü  
 **liama** ** ← englanti:espanja:malaiji:llama, portugali:lhama, venäjä:лама (lama), turkki:suahili:lama, arabia:لاما (lama), hindi:लामा (lāma), japani:ラマ (rama)  
 **libele** *sudenkorento* ← espanja:portugali:libélula, ranska:libellule, deu:Libelle  
@@ -882,7 +883,7 @@
 **litre** *litra* ← englanti:ranska:turkki:litre, deu:malaiji:liter, espanja:portugali:litro, venäjä:литр (litr), puola:litr, arabia: لتر‎(litr), hindi:लीटर (līṭar), bangla:লিটার (liṭar), japani:リットル (rittoru), korea:리터 (riteo), vietnami:lít, suahili:lita  
 **livermor yum** *livermorium* ← englanti:ranska:livermorium, espanja:livermorio, portugali:livermório, venäjä:ливерморий, yleiskiina: (lì), japani:リバモリウム, korea:리버모륨, vietnami:livermori, malaiji:livermorium, suahili:livermori  
 **loba** *retikka (retiisi)* ← yleiskiina:萝卜 (luóbo), kantoninkiina:蘿蔔 (lobaak), malaiji:lobak  
-**loga** *puhe (sanat)* ← kreikka:λόγος (logos), englanti:ranska:-logue, espanja:portugali:-logo, venäjä:-лог (-log), persia:(loğat), arabia:(luğa), hindi:लुग़त (luġat), suahili:lugha, turkki:lügat, malaiji:logat  
+**loga** *puhua (puhe)* ← kreikka:λόγος (logos), englanti:ranska:-logue, espanja:portugali:-logo, venäjä:-лог (-log), persia:(loğat), arabia:(luğa), hindi:लुग़त (luġat), suahili:lugha, turkki:lügat, malaiji:logat  
 **loge** *tallenne (rekisteri, loki)* ← englanti:log + yleiskiina:录 (lù), kantoninkiina:錄 (luk6), japani:録 (roku), korea:록 (rok), vietnami:lục  
 **logi** *tiede (tutkimus, opiskella)* ← englanti:-ology, espanja:-ología, ranska:-ologie, venäjä:ология (-ologiya), turkki:-loji  
 **logika** *logiikka* ← englanti:logic, espanja:portugali:lógica, venäjä:логика (logika), yleiskiina:逻辑 (luóji)  

@@ -760,7 +760,7 @@ foie - hepate
 foin - gan cau  
 fois - mar  
 fondu - yung safa  
-fonio blanc - foni  
+fonio blanc - fonyo  
 football - fute bol  
 force - balata  
 force navale (marine) - hai ordu  
@@ -1031,7 +1031,8 @@ lentille - lense
 Lettonie - Latvia  
 lettre - letre  
 leur - damen su  
-lexical - loga di  
+lexical - lexi li  
+lexème - lexime  
 leçon - xula xe  
 libellule - libele  
 libre - huru  
@@ -1185,7 +1186,7 @@ morue (cabillaud) - bakalau
 morue de l'Atlantique - atlanti bakalau  
 morue du Pacifique - pase hai bakalau  
 moscovium - moskva yum  
-mot - lexima  
+mot - lexi  
 mot de passe - pas loga  
 moteur - moto  
 mouche - dom zeze  
@@ -1376,7 +1377,7 @@ parfait - perfete
 Paris - Paris  
 parité - parta  
 parler - fa loga  
-parole (mots) - loga  
+parole - loga  
 part - fen  
 partenaire - parti jen  
 partie - parti  
@@ -1776,7 +1777,7 @@ sulfate - sulfate
 sunnisme - suna islam din  
 survivre - trajiva  
 svastika (croix gammée) - huke krus  
-syllabe - loga fen  
+syllabe - lexi fen  
 symbole - simbol  
 symétrie - sam metre  
 sélénium - selen yum  
@@ -1890,7 +1891,7 @@ turbine - turbin
 turboréacteur - turbejeter  
 télescope (lunette) - teleskope  
 télécharger - nete gete  
-téléphone - tele fon gi  
+téléphone - tele fon  
 téléphoner - fa tele fon  
 téléviseur - tele vide gi  
 tête - sar  
@@ -1957,7 +1958,7 @@ vite (rapide) - suga
 vivisection - jivatomi  
 vivre (habiter) - be dom  
 vivre (vivant; vie) - jiva  
-vocabulaire (lexique) - loga jama  
+vocabulaire (lexique) - lexi jama  
 voile - hijabu  
 voir - vide  
 voire (même) - hata di  
@@ -2061,7 +2062,7 @@ zéro - siro
 étudiant - estude ja  
 étudiant - xula ja  
 étudier - fa estude  
-étymologie - loga asal  
+étymologie - lexi asal  
 été - garma mosim  
 évaluer - fa valu  
 évangile - eu anjil  
