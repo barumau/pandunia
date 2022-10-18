@@ -51,13 +51,13 @@ eikä kielioppia ole pakko opiskella.
 
 | Alusta   | Kanava | Tarkoitus |
 |----------|---------|---------|
+| Discord  | [pandunia deha](https://discord.gg/jf5GHcHXKk) | Monipuolinen keskustelupalvelin! |
 | Reddit   | [r/pandunia](https://www.reddit.com/r/pandunia/) | Uutisia ja keskustelua panduniaksi ja englanniksi. |
 | Twitter  | [pandunia_](https://twitter.com/pandunia_) | Uutisia. |
 | Facebook | [Tekokielet-ryhmä](http://www.facebook.com/groups/tekokielet) | Suomenkielinen ryhmä tekokielistä yleensä. |
 | Facebook | [Pandunia-ryhmä](http://www.facebook.com/groups/pandunia) | Keskustelua eri kielillä. |
-| Discord  | [pandunia-multilingual](https://discord.gg/FWavWeG) | Keskustelua eri kielillä. Kanava on yhdistetty alla olevaan Telegram-kanavaan. |
-| Telegram | [multilingual channel](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) | Keskustelua eri kielillä. Kanava on yhdistetty yllä olevaan Discord-kanavaan. |
 | Telegram | [mimon basha pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg) | Harjoittelu. Täällä puhutaan vain panduniaa! |
+| Telegram | [multilingual channel](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA) | Keskustelua eri kielillä. |
 | Telegram | [pandunia esperanto grupe](https://pandunia.telegramo.org/) | Keskustelua esperantoksi. |
 | QQ       | 717549404 | Keskustelua kiinaksi ja muilla kielillä. |
 

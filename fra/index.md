@@ -29,7 +29,8 @@ Cette documentation n'est pas à jour avec la version finale de pandunia. Voir l
 ## Rejoignez-nous
 
 De nombreuses personnes sont déjà intéressées par le pandunia et certaines l'utilisent déjà pour communiquer :
-- Salons Telegram (communauté la plus active) :
+- Salon sur [Discord](https://discord.gg/jf5GHcHXKk) (communauté la plus active)
+- Salons Telegram :
   - [multilingue](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
   - [en espéranto](https://pandunia.telegramo.org/)
   - [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg)
@@ -37,7 +38,6 @@ De nombreuses personnes sont déjà intéressées par le pandunia et certaines l
 - Liens et discussions sur [Reddit](https://www.reddit.com/r/pandunia/)
 - Les amis du Pandunia sur [Facebook](http://www.facebook.com/groups/pandunia)
 - Trouvez d'autres locuteurs du Pandunia avec l'appli [Amikumu](https://amikumu.com/)
-- Salon sur [Discord](https://discord.gg/FWavWeG)
 - QQ channel: 717549404
 - Et vous pouvez suivre l'actualité du pandunia sur [Twitter](https://twitter.com/pandunia_). Diffusez l’info !
 - Vous pouvez aider à [traduire ce site](tarja_netoloke.md)

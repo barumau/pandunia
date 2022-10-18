@@ -54,13 +54,13 @@ Tiene una gramática más sencilla, formas de palabras más internacionales, y m
 Ya hay personas interesadas en pandunia y lo están practicando.
 Puedes encontrarles en varios lugares de internet: 
 
-- Debates en [Reddit](https://www.reddit.com/r/pandunia/)
-- [Grupo de Facebook](http://www.facebook.com/groups/pandunia)
+- [Chat en Discord](https://discord.gg/jf5GHcHXKk)
 - Salas de chat en Telegram:
     * [plurilingüe](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA), 
     * [en esperanto](https://pandunia.telegramo.org/) y 
     * [en pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- [Chat de voz en Discord](https://discord.gg/FWavWeG)
+- Debates en [Reddit](https://www.reddit.com/r/pandunia/)
+- [Grupo de Facebook](http://www.facebook.com/groups/pandunia)
 - Canal QQ: 717549404
 - Sigue a pandunia en [Twitter](https://twitter.com/pandunia_).
 
